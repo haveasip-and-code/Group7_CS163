@@ -1,0 +1,3 @@
+led
+	@led /led/\n*  động tính từ quá khứ của lead
+

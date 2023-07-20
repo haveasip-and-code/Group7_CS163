@@ -1,0 +1,3 @@
+constraints
+	@Chuyên ngành kỹ thuật\n-ràng buộc\n@Lĩnh vực: toán & tin\n-các hạn chế\n-các liên kết\n-các ràng buộc
+

@@ -1,0 +1,3 @@
+utterance
+	@utterance /' t r ns/\n*  danh từ\n- sự phát biểu, sự bày tỏ\n- cách nói\n=clear utterance+ cách nói rõ ràng\n- (số nhiều) lời; lời phát biểu
+

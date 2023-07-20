@@ -1,0 +1,3 @@
+courseware
+	@courseware\n- (Tech) chương trình dạy học [máy điện toán]\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chương trình dạy học\n-phần mềm dạy học\n-phần mềm giáo trình
+

@@ -1,0 +1,3 @@
+thermoelement
+	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-phần tử nhiệt điện
+

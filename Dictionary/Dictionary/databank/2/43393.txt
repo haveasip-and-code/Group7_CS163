@@ -1,0 +1,3 @@
+prescript
+	@prescript /'pri:skript/\n*  danh từ\n- mệnh lệnh, sắc lệnh, luật
+
