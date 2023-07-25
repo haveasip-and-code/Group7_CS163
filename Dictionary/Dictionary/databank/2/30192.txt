@@ -1,0 +1,3 @@
+item
+	@item /'aitem/\n*  danh từ\n- khoản (ghi số...), món (ghi trong đơn hàng...); tiết mục\n- tin tức; (từ lóng) món tin (có thể đăng báo...)\n@Chuyên ngành kinh tế\n-điều\n-điều khoản\n-hạng mục\n-khoản\n-khoản mục\n-mặt hàng\n-mẩu tin\n-mẫu tin (trên báo)\n-món hàng\n-mục\n-tin tức\n-vật phẩm\n@Chuyên ngành kỹ thuật\n-bài báo\n-điểm\n-hạng mục\n-khoản\n-mặt hàng\n-món\n-mục dữ liệu\n-phần tử\n-phần tử dữ liệu\n-trường dữ liệu\n-vật phẩm\n@Lĩnh vực: toán & tin\n-mục tin
+

@@ -1,0 +1,3 @@
+fallback
+	@fallback\n* danh từ\n- vật dự trữ; sự rút lui
+

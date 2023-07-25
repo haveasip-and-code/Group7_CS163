@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1689489392 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\main.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+
+1689485230 c:\users\lecuo\desktop\cs163\dictionary\dictionary\core.h
+	<bits/stdc++.h>
+
+1689488615 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\core.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"generalLib.h"
+
+1689488113 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\encodedecode.cpp
+	<bits/stdc++.h>
+	"encodedecode.h"
+	"generalLib.h"
+
+1689195508 c:\users\lecuo\desktop\cs163\dictionary\dictionary\encodedecode.h
+	<bits/stdc++.h>
+
+1689195296 c:\users\lecuo\desktop\cs163\dictionary\dictionary\prototype.h
+	<bits/stdc++.h>
+
+1689488113 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\prototype.cpp
+	<bits/stdc++.h>
+	"encodedecode.h"
+	"generalLib.h"
+
+1689488113 c:\users\lecuo\desktop\cs163\dictionary\dictionary\generallib.h
+	<bits/stdc++.h>
+
+1689489010 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\generallib.cpp
+	<bits/stdc++.h>
+	"generalLib.h"
+	"globalVariableController.h"
+
+1689488455 c:\users\lecuo\desktop\cs163\dictionary\dictionary\globalvariablecontroller.h
+	<bits/stdc++.h>
+
+1689489368 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\globalvariablecontroller.cpp
+	<bits/stdc++.h>
+	"globalVariableController.h"
+
+1689489248 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\metadata.cpp
+	<bits/stdc++.h>
+	"metadata.h"
+	"generalLib.h"
+
+1689489248 c:\users\lecuo\desktop\cs163\dictionary\dictionary\metadata.h
+	<bits/stdc++.h>
+
+1689489248 source:c:\users\lecuo\desktop\cs163\dictionary\dictionary\master.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"encodedecode.h"
+	"generalLib.h"
+	"metadata.h"
+	"prototype.h"
+	"master.h"
+
+1689489010 c:\users\lecuo\desktop\cs163\dictionary\dictionary\master.h
+	<bits/stdc++.h>
+
+1689488113 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\encodedecode.cpp
+	<bits/stdc++.h>
+	"encodedecode.h"
+	"generalLib.h"
+
+1689195508 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\encodedecode.h
+	<bits/stdc++.h>
+
+1689488113 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\generallib.h
+	<bits/stdc++.h>
+
+1689489010 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\generallib.cpp
+	<bits/stdc++.h>
+	"generalLib.h"
+	"globalVariableController.h"
+
+1689488455 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\globalvariablecontroller.h
+	<bits/stdc++.h>
+
+1689489446 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\globalvariablecontroller.cpp
+	<bits/stdc++.h>
+	"globalVariableController.h"
+
+1689623298 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\main.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+
+1689642995 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\core.h
+	<bits/stdc++.h>
+	"trie.h"
+	"ternarySearchTree.h"
+
+1689195296 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\prototype.h
+	<bits/stdc++.h>
+
+1689489248 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\metadata.h
+	<bits/stdc++.h>
+
+1689489248 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\master.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"encodedecode.h"
+	"generalLib.h"
+	"metadata.h"
+	"prototype.h"
+	"master.h"
+
+1689489010 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\master.h
+	<bits/stdc++.h>
+
+1689489248 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\metadata.cpp
+	<bits/stdc++.h>
+	"metadata.h"
+	"generalLib.h"
+
+1689643034 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\prototype.cpp
+	<bits/stdc++.h>
+	"prototype.h"
+	"core.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"databankManager.h"
+
+1689643027 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\core.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"generalLib.h"
+	"debugCore.h"
+	"databankManager.h"
+	"timeModule.h"
+
+1689505981 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\trie.h
+	<bits/stdc++.h>
+
+1689507254 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\trie.cpp
+	<bits/stdc++.h>
+	"trie.h"
+	"debugCore.h"
+
+1689606617 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\debugcore.h
+	<bits/stdc++.h>
+
+1689642972 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\databankmanager.cpp
+	<bits/stdc++.h>
+	<direct.h>
+	"databankManager.h"
+	"debugCore.h"
+
+1689642972 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\databankmanager.h
+	<bits/stdc++.h>
+	"trie.h"
+	"ternarySearchTree.h"
+
+1689606617 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\debugcore.cpp
+	<bits/stdc++.h>
+	"debugCore.h"
+	"timeModule.h"
+
+1689642972 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\ternarysearchtree.h
+	<bits/stdc++.h>
+
+1689642972 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\ternarysearchtree.cpp
+	<bits/stdc++.h>
+	"ternarySearchTree.h"
+	"debugCore.h"
+
+1689606865 source:c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\timemodule.cpp
+	<bits/stdc++.h>
+	"timeModule.h"
+
+1689606724 c:\users\lecuo\documents\github\dictionary_cs163_codedump\dictionary\dictionary\timemodule.h
+	<bits/stdc++.h>
+	<chrono>
+

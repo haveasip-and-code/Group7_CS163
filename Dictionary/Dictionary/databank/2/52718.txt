@@ -1,0 +1,3 @@
+sprite
+	@sprite /sprait/\n*  danh từ\n- yêu tinh, ma quỷ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình sprit (ở đồ họa máy tính)
+

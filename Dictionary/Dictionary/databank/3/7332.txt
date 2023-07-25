@@ -1,0 +1,3 @@
+buyable
+	@buyable\n- xem buy\n@Chuyên ngành kinh tế\n-có thể mua được
+

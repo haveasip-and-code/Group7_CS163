@@ -1,0 +1,3 @@
+misspell
+	@misspell\n* ngoại động từ, thì quá khứ và động tính từ quá khứ là misspelt hoặc  misspelled\n- viết sai chính tả
+

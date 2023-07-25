@@ -1,0 +1,3 @@
+excluded
+	@excluded\n- bị loại trừ\n@Chuyên ngành kinh tế\n-không bao gồm\n-ngoại trừ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bị loại trừ\n-được loại trừ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bị loại trừ\n-được loại trừ
+

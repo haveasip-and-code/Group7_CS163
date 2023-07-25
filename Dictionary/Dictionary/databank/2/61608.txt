@@ -1,0 +1,3 @@
+vertex
+	@vertex /'və:teks/\n*  danh từ,  số nhiều vertices\n- đỉnh, chỏm, chóp, ngọn\n=the vertex of an angle+ đỉnh của một góc\n- (nghĩa bóng) đỉnh, cực điểm\n- (giải phẫu) đỉnh đầu\n- (thiên văn học) thiên đỉnh\n@Chuyên ngành kỹ thuật\n-chỏm\n-chóp\n-đỉnh\n-đỉnh vòm\n-khóa vòm\n-ngọn\n@Lĩnh vực: điện\n-điểm tương giao\n@Lĩnh vực: toán & tin\n-đỉnh, chóp\n@Lĩnh vực: xây dựng\n-thiên đỉnh
+

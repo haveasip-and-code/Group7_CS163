@@ -1,0 +1,3 @@
+verbosely
+	@verbosely\n* phó từ\n- dài dòng, dông dài, dùng nhiều từ không cần thiết (nói)
+

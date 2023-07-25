@@ -1,0 +1,3 @@
+coveralls
+	@coveralls\n* danh từ số nhiều\n- bộ áo liền quần cho những người làm công việc nặng nhọc
+

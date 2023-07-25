@@ -1,0 +1,3 @@
+piecewise
+	@piecewise\n- từng mẩu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-từng mẩu, từng khúc
+

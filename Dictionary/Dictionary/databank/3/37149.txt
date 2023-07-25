@@ -1,0 +1,3 @@
+nth
+	@nth\n* tính từ\n- không biết thứ mấy
+

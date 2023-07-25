@@ -1,0 +1,3 @@
+subsample
+	@subsample\n- (thống kê) mẫu con\n@Chuyên ngành kỹ thuật\n-mẫu con
+

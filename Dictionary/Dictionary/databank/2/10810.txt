@@ -1,0 +1,3 @@
+computed
+	@computed\n- (Tech) được tính toán, đã tính xong\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được tính
+

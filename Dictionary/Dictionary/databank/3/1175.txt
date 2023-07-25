@@ -1,0 +1,3 @@
+agenda
+	@agenda\n- (Tech) đề tài thảo luận, chương trình nghị sự, nghị trình
+
