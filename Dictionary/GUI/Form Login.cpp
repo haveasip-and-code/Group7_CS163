@@ -62,6 +62,7 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
 
     m_buttonLogin = new wxButton(panel, BUTTON_Login, wxT("Login"));
     m_buttonLogin->SetFont(myAppFont);
+    m_buttonLogin->SetForegroundColour(*wxRED);
     hbox3->Add(m_buttonLogin, 0);
     
     vbox_middle->Add(hbox3, 0, wxALIGN_CENTER|wxTOP, 5);
@@ -221,6 +222,9 @@ void FormLogin::OnLogin(wxCommandEvent& event)
             this->Close();
             
             DictionaryWin* dictionary = new DictionaryWin("Dictionary");
+            int width, height;
+            dictionary->GetSize(& width, & height);
+            dictionary->SetSize(wxDefaultCoord, wxDefaultCoord, width, height);
             dictionary->Show(true);
         }
         else
