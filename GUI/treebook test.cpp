@@ -58,8 +58,8 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     
     wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     pronounciation->SetHint("Pronounciation");
-    sizer2->Add(word,0);
-    sizer2->Add(pronounciation,0);
+    sizer2->Add(word,0, wxLEFT, 30);
+    sizer2->Add(pronounciation,0, wxLEFT, 10);
     
     wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
     
@@ -105,7 +105,7 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     });
     sizer3->Add(m_edit,0);
     sizer4->Add(sizer2,0);
-    sizer4->AddSpacer(100);
+    sizer4->AddSpacer(300);
     sizer4->Add(sizer3,0);
     
     all_sizer->Add(sizer,0);
@@ -205,8 +205,6 @@ void CreateInitialPages(wxBookCtrlBase *parent)
     
     page = CreateFullPageText(parent);
     parent->AddPage( page, GAME, false, GetIconIndex(parent) );
-    
-    
     
     parent->SetSelection(0);
 }
