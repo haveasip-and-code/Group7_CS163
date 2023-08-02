@@ -17,12 +17,12 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     panel->SetBackgroundColour(wxColour(248, 247, 245));
     ::wxInitAllImageHandlers();
     
-    
+    wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
     
     wxComboBox* m_combo = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
                                          0, NULL, wxCB_DROPDOWN | wxCB_READONLY);
-    m_combo->SetHelpText("Lookup Mode");
+    m_combo->SetHint("Lookup Mode");
     
     // Add items to the combo box
     m_combo->Append("Word - Definition");
@@ -53,13 +53,15 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     sizer->Add(searchButton,0, wxLEFT, 5);
     
     wxBoxSizer* sizer2 = new wxBoxSizer(wxHORIZONTAL);
-    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxDefaultSize, wxTE_READONLY|wxTE_CENTER);
-    word->SetHelpText("Word");
+    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
+    word->SetHint("Word");
     
-    wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxDefaultSize, wxTE_READONLY|wxTE_CENTER);
-    pronounciation->SetHelpText("Pronounciation");
+    wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
+    pronounciation->SetHint("Pronounciation");
     sizer2->Add(word,0);
     sizer2->Add(pronounciation,0);
+    
+    wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
     
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
     wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_HELP), wxDefaultPosition, wxSize(30,30));
@@ -67,19 +69,27 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
                  {
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
         
+        edit_dlg.SetSize(wxSize(300,200));
+        
         wxBoxSizer* change = new wxBoxSizer(wxVERTICAL);
-        wxTextCtrl* word_change = new wxTextCtrl(&edit_dlg, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
-        word_change->SetHelpText("Your word is ....");
+        wxTextCtrl* word_change = new wxTextCtrl(&edit_dlg, wxID_ANY, "Your word is ...",wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
         
         wxTextCtrl* meaningEntry = new wxTextCtrl(&edit_dlg, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(200,-1));
         meaningEntry->SetHint("Enter your new definition here");
         
         wxButton* getMeaning = new wxButton(&edit_dlg, wxID_OK, "Save");
         
+        wxBoxSizer* center = new wxBoxSizer(wxVERTICAL);
+        
         change->Add(word_change,0,wxBOTTOM|wxTOP, 5);
         change->Add(meaningEntry,0, wxBOTTOM,10);
-        change->Add(getMeaning,0, wxBOTTOM, 10);
-        edit_dlg.SetSizerAndFit(change);
+        change->Add(getMeaning,0, wxALIGN_CENTER|wxBOTTOM, 10);
+        
+        center->Add(change, 0, wxALIGN_CENTER|wxALL,30);
+        
+        edit_dlg.SetSizer(center);
+        edit_dlg.Center();
+        
         int result = edit_dlg.ShowModal();
         
         // Show the dialog and wait for user input
@@ -94,8 +104,14 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
         
     });
     sizer3->Add(m_edit,0);
+    sizer4->Add(sizer2,0);
+    sizer4->AddSpacer(100);
+    sizer4->Add(sizer3,0);
     
-    panel->SetSizer(sizer);
+    all_sizer->Add(sizer,0);
+    all_sizer->Add(sizer4,0);
+    
+    panel->SetSizer(all_sizer);
     
     return panel;
 }
@@ -177,8 +193,11 @@ void CreateInitialPages(wxBookCtrlBase *parent)
     // Create and add some panels to the notebook
     
     parent->SetSize(wxSize(100,400));
-    wxWindow *page = CreateRadioButtonsPage(parent);
     
+    wxWindow *page = CreateInsertPage(parent);
+    parent->InsertPage( 0, page, DICTIONARY, false, GetIconIndex(parent) );
+    
+    page = CreateRadioButtonsPage(parent);
     parent->AddPage( page, ADD_NEW_WORD, false, GetIconIndex(parent) );
     
     page = CreateVetoPage(parent);
@@ -187,15 +206,13 @@ void CreateInitialPages(wxBookCtrlBase *parent)
     page = CreateFullPageText(parent);
     parent->AddPage( page, GAME, false, GetIconIndex(parent) );
     
-    page = CreateInsertPage(parent);
-    parent->InsertPage( 0, page, DICTIONARY, false, GetIconIndex(parent) );
     
-    parent->SetSelection(1);
+    
+    parent->SetSelection(0);
 }
 
 wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
 {
-    
     if ( pageName == DICTIONARY )
         return CreateInsertPage(parent);
     
@@ -238,10 +255,6 @@ MyFrame::MyFrame()
     m_images.push_back(icon);
     m_images.push_back(icon);
     m_images.push_back(find_ig);
-    // m_images.push_back(wxArtProvider::GetBitmapBundle(wxART_PLUS, wxART_OTHER, imageSize));
-    // m_images.push_back(wxArtProvider::GetBitmapBundle(wxART_TICK_MARK, wxART_OTHER, imageSize));
-    // m_images.push_back(wxArtProvider::GetBitmapBundle(wxART_NEW, wxART_OTHER, imageSize));
-    // m_images.push_back(wxArtProvider::GetBitmapBundle(wxART_FIND, wxART_OTHER, imageSize));
     
     m_panel = new wxPanel(this);
     
@@ -282,8 +295,6 @@ wxFAIL_MSG( "unknown book control type" );\
 
 void MyFrame::RecreateBook()
 {
-    wxBookCtrlBase *oldBook = m_bookCtrl;
-    
     m_bookCtrl = NULL;
     
     DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
@@ -293,37 +304,13 @@ void MyFrame::RecreateBook()
         return;
     
     m_bookCtrl->Hide();
+    
     if ( m_chkShowImages )
     {
         m_bookCtrl->SetImages(m_images);
     }
     
-    if ( oldBook )
-    {
-        
-        const int count = oldBook->GetPageCount();
-        for ( int n = 0; n < count; n++ )
-        {
-            const int image = GetIconIndex(m_bookCtrl);
-            const wxString str = oldBook->GetPageText(n);
-            
-            wxWindow *page = CreatePage(m_bookCtrl, str);
-            
-            m_bookCtrl->AddPage(page, str, false, image);
-        }
-        
-        const int sel = oldBook->GetSelection();
-        if ( sel != wxNOT_FOUND )
-            m_bookCtrl->SetSelection(sel);
-        
-        
-        m_sizerFrame->Detach(oldBook);
-        delete oldBook;
-    }
-    else // no old book
-    {
         CreateInitialPages(m_bookCtrl);
-    }
     
     m_sizerFrame->Insert(0, m_bookCtrl, wxSizerFlags(5).Expand().Border());
     

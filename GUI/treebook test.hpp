@@ -10,14 +10,17 @@
 
 #include <stdio.h>
 #include "wx/wx.h"
-#include <wx/treebook.h>
+#include "wx/aui/auibook.h"
 #include "wx/wxprec.h"
-#include "wx/wx.h"
-
+#include <wx/combobox.h>
 #include "wx/imaglist.h"
 #include "wx/artprov.h"
 #include "wx/cshelp.h"
 #include "wx/utils.h"
+#include <wx/srchctrl.h>
+#include <wx/bmpbuttn.h>
+#include <wx/bitmap.h>
+#include <wx/image.h>
 
 class MyFrame : public wxFrame
 {
@@ -26,14 +29,13 @@ public:
     virtual ~MyFrame();
     void OnBookCtrl(wxBookCtrlBaseEvent& event);
     void OnShowImages(wxCommandEvent& event);
-#if wxUSE_TREEBOOK
-    void OnTreebook(wxTreebookEvent& event) { OnBookCtrl(event); }
-#endif
+
+    void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
+
 
     wxBookCtrlBase *GetCurrentBook() const { return m_bookCtrl; }
 
 private:
-    wxLog *m_logTargetOld;
 
     void RecreateBook();
     wxPanel *CreateNewPage() const;
@@ -42,7 +44,7 @@ private:
     // Sample setup
     enum BookType
     {
-        Type_Treebook,
+        Type_AuiNotebook,
         Type_Max
     } m_type;
 
@@ -66,18 +68,19 @@ private:
 enum ID_COMMANDS
 {
     // these should be in the same order as Type_XXX elements above
-    ID_BOOK_TREEBOOK,
+    ID_BOOK_AUINOTEBOOK,
     ID_BOOK_MAX,
-
-#if wxUSE_HELP
-    ID_CONTEXT_HELP,
-#endif // wxUSE_HELP
-    ID_HITTEST
 };
 
+//insert page
+#define DICTIONARY        "Dictionary"
 
-#define I_WAS_INSERTED_PAGE_NAME        "Inserted"
-#define RADIOBUTTONS_PAGE_NAME          "Radiobuttons"
-#define VETO_PAGE_NAME                  "Veto"
-#define TEXT_PAGE_NAME                  "Text"
+//add new word
+#define ADD_NEW_WORD          "Add new word"
+
+//favourite list
+#define FAVOURITE_LIST                  "Favourite list"
+
+//game
+#define GAME                  "Game"
 #endif /* treebook_test_hpp */
