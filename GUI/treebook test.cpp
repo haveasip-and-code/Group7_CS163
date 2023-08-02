@@ -21,7 +21,7 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
     
     wxComboBox* m_combo = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-                                         0, NULL, wxCB_DROPDOWN|wxCB_READONLY);
+                                         0, NULL);
         
     m_combo->SetHint("Lookup Mode");
     
@@ -116,7 +116,7 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
     
     wxComboBox* m_dataset = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-                                         0, NULL, wxCB_DROPDOWN|wxCB_READONLY);
+                                         0, NULL);
         
     m_dataset->SetHint("Data Set");
     
