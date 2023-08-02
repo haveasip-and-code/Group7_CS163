@@ -21,7 +21,8 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
     
     wxComboBox* m_combo = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-                                         0, NULL, wxCB_DROPDOWN | wxCB_READONLY);
+                                         0, NULL, wxCB_DROPDOWN|wxCB_READONLY);
+        
     m_combo->SetHint("Lookup Mode");
     
     // Add items to the combo box
@@ -103,13 +104,58 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
         }
         
     });
+    
+    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));
+    
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER);
+    definition->SetHint("Definition");
+    
     sizer3->Add(m_edit,0);
+    sizer3->Add(m_favourite, 0, wxLEFT, 5);
+    
+    wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
+    
+    wxComboBox* m_dataset = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
+                                         0, NULL, wxCB_DROPDOWN|wxCB_READONLY);
+        
+    m_dataset->SetHint("Data Set");
+    
+    // Add items to the combo box
+    m_dataset->Append("Eng - Viet");
+    m_dataset->Append("Viet - Eng");
+    m_dataset->Append("Eng - Eng");
+    m_dataset->Append("Emoji - Viet");
+    m_dataset->Append("Emoji - Eng");
+    m_dataset->Append("Eng slangs");
+    m_dataset->Append("Vie slangs");
+    
+    // Bind the selection event to an event handler
+    m_dataset->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
+                  {
+        wxString selectedText =m_dataset->GetValue();
+        wxLogMessage("Selected: %s", selectedText);
+    });
+    
+    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY,wxArtProvider::GetBitmap(wxART_NEW) , wxDefaultPosition, wxSize(30,30));
+    
+    m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                       {
+        word->SetValue("Word Of The Day");
+        pronounciation->SetValue("pronounce");
+        definition->SetValue("Definition of the word");
+    });
+    
+    sizer5->Add(m_wordOfDay, 0);
+    sizer5->Add(m_dataset,0,wxBOTTOM,5);
+    
     sizer4->Add(sizer2,0);
     sizer4->AddSpacer(300);
     sizer4->Add(sizer3,0);
     
     all_sizer->Add(sizer,0);
     all_sizer->Add(sizer4,0);
+    all_sizer->Add(definition,0);
+    all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
     
     panel->SetSizer(all_sizer);
     
