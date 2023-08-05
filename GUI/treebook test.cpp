@@ -10,8 +10,7 @@
 
 
 wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
-{
-    
+{    
     wxPanel *panel = new wxPanel(parent);
     
     panel->SetBackgroundColour(wxColour(248, 247, 245));
@@ -20,23 +19,34 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
     
-    wxComboBox* m_combo = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-                                         0, NULL);
+    // wxComboBox* m_combo = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
+    //                                      0, NULL, wxCB_READONLY | wxTE_READONLY);
         
-    m_combo->SetHint("Lookup Mode");
+    // m_combo->SetHint("Lookup Mode");
     
-    // Add items to the combo box
-    m_combo->Append("Word - Definition");
-    m_combo->Append("Definition  - Word");
+    // // Add items to the combo box
+    // m_combo->Append("Word - Definition");
+    // m_combo->Append("Definition  - Word");
     
     // Bind the selection event to an event handler
-    m_combo->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
-                  {
-        wxString selectedText = m_combo->GetValue();
+    // m_combo->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
+    //               {
+    //     wxString selectedText = m_combo->GetValue();
+    //     wxLogMessage("Selected: %s", selectedText);
+    // });
+
+    wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
+
+    wxArrayString modeChoices;
+    modeChoices.Add("By keyword");
+    modeChoices.Add("By definition");
+    chooseMode->Set(modeChoices);
+
+    chooseMode->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
+        wxString selectedText = chooseMode->GetStringSelection();
         wxLogMessage("Selected: %s", selectedText);
     });
-    
-    
+
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 20), wxTE_PROCESS_ENTER|wxTE_LEFT);
     searchBar->ShowCancelButton(true);
     
@@ -49,7 +59,7 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
         wxMessageBox("Searching for: " + searchText);
     });
     
-    sizer->Add(m_combo, 0, wxLEFT, 30);
+    sizer->Add(chooseMode, 0, wxLEFT, 30);
     sizer->Add(searchBar, 0);
     sizer->Add(searchButton,0, wxLEFT, 5);
     
@@ -115,24 +125,41 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
     
-    wxComboBox* m_dataset = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-                                         0, NULL);
+    // wxComboBox* m_dataset = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
+    //                                      0, NULL);
         
-    m_dataset->SetHint("Data Set");
+    // m_dataset->SetHint("Data Set");
     
-    // Add items to the combo box
-    m_dataset->Append("Eng - Viet");
-    m_dataset->Append("Viet - Eng");
-    m_dataset->Append("Eng - Eng");
-    m_dataset->Append("Emoji - Viet");
-    m_dataset->Append("Emoji - Eng");
-    m_dataset->Append("Eng slangs");
-    m_dataset->Append("Vie slangs");
+    // // Add items to the combo box
+    // m_dataset->Append("Eng - Viet");
+    // m_dataset->Append("Viet - Eng");
+    // m_dataset->Append("Eng - Eng");
+    // m_dataset->Append("Emoji - Viet");
+    // m_dataset->Append("Emoji - Eng");
+    // m_dataset->Append("Eng slangs");
+    // m_dataset->Append("Vie slangs");
     
-    // Bind the selection event to an event handler
-    m_dataset->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
-                  {
-        wxString selectedText =m_dataset->GetValue();
+    // // Bind the selection event to an event handler
+    // m_dataset->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
+    //               {
+    //     wxString selectedText =m_dataset->GetValue();
+    //     wxLogMessage("Selected: %s", selectedText);
+    // });
+
+    wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
+
+    wxArrayString dataSets;
+    dataSets.Add("Eng - Vie");
+    dataSets.Add("Vie - Eng");
+    dataSets.Add("Eng - Eng");
+    dataSets.Add("Emoji - Vie");
+    dataSets.Add("Emoji - Eng");
+    dataSets.Add("Eng slangs");
+    dataSets.Add("Vie slangs");
+    chooseDataSet->Set(dataSets);
+
+    chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
+        wxString selectedText = chooseDataSet->GetStringSelection();
         wxLogMessage("Selected: %s", selectedText);
     });
     
@@ -146,7 +173,7 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     });
     
     sizer5->Add(m_wordOfDay, 0);
-    sizer5->Add(m_dataset,0,wxBOTTOM,5);
+    sizer5->Add(chooseDataSet,0,wxBOTTOM,5);
     
     sizer4->Add(sizer2,0);
     sizer4->AddSpacer(300);
@@ -161,6 +188,7 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     
     return panel;
 }
+
 wxPanel *CreateRadioButtonsPage(wxBookCtrlBase *parent)
 {
     wxPanel *panel = new wxPanel(parent);
@@ -416,5 +444,3 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
     
     static int s_num = 0;
 }
-
-

@@ -31,7 +31,7 @@ public:
     void OnShowImages(wxCommandEvent& event);
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
-
+    // void writeToLogPanel(const wxString& message);
 
     wxBookCtrlBase *GetCurrentBook() const { return m_bookCtrl; }
 
