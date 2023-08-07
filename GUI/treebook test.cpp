@@ -7,68 +7,79 @@
 
 #include "treebook test.hpp"
 
+// class displayList : public wxPanel {
+// public:
+//     displayList(wxWindow* parent, const wxString& labelText, const wxString& imageName)
+//         : wxPanel(parent, wxID_ANY) {
 
+//         // Create a box sizer to arrange contents
+//         wxBoxSizer* theList = new wxBoxSizer(wxVERTICAL);
 
-wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
+//         // Add a static text label
+//         wxStaticText* label = new wxStaticText(this, wxID_ANY, labelText);
+//         theList->Add(label, 0, wxALIGN_CENTER | wxALL, 10);
+
+//         // Load and display an image
+//         wxImage image(imageName, wxBITMAP_TYPE_ANY);
+//         if (image.IsOk()) {
+//             wxStaticBitmap* bitmap = new wxStaticBitmap(this, wxID_ANY, wxBitmap(image));
+//             theList->Add(bitmap, 0, wxALIGN_RIGHT, 10);
+//         }
+
+//         SetSizer(theList);
+//     }
+// };
+
+wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {    
     wxPanel *panel = new wxPanel(parent);
+    wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
     
     panel->SetBackgroundColour(wxColour(248, 247, 245));
     ::wxInitAllImageHandlers();
     
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
-    
-    // wxComboBox* m_combo = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-    //                                      0, NULL, wxCB_READONLY | wxTE_READONLY);
-        
-    // m_combo->SetHint("Lookup Mode");
-    
-    // // Add items to the combo box
-    // m_combo->Append("Word - Definition");
-    // m_combo->Append("Definition  - Word");
-    
-    // Bind the selection event to an event handler
-    // m_combo->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
-    //               {
-    //     wxString selectedText = m_combo->GetValue();
-    //     wxLogMessage("Selected: %s", selectedText);
-    // });
 
-    wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
+    wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(110, 25));
 
     wxArrayString modeChoices;
     modeChoices.Add("By keyword");
     modeChoices.Add("By definition");
     chooseMode->Set(modeChoices);
+    chooseMode->SetFont(myAppFont);
 
     chooseMode->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseMode->GetStringSelection();
         wxLogMessage("Selected: %s", selectedText);
     });
 
-    wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 20), wxTE_PROCESS_ENTER|wxTE_LEFT);
-    searchBar->ShowCancelButton(true);
+    wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
+    // searchBar->ShowCancelButton(false);
+
+    wxTextCtrl* textCtrl = wxDynamicCast(searchBar->GetChildren().GetFirst()->GetData(), wxTextCtrl);
+    if (textCtrl)
+        textCtrl->SetFont(myAppFont);
+
+    wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
     
-    wxBitmap search_ig = wxBitmap("add_clicked.png", wxBITMAP_TYPE_ANY);
-    
-    wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(30,30));
+    wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
     searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         wxString searchText = searchBar->GetValue();
         wxMessageBox("Searching for: " + searchText);
     });
     
-    sizer->Add(chooseMode, 0, wxLEFT, 30);
+    sizer->Add(chooseMode, 0, wxLEFT);
     sizer->Add(searchBar, 0);
-    sizer->Add(searchButton,0, wxLEFT, 5);
+    sizer->Add(searchButton,0, wxLEFT);
     
     wxBoxSizer* sizer2 = new wxBoxSizer(wxHORIZONTAL);
     wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     word->SetHint("Word");
     
     wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
-    pronounciation->SetHint("Pronounciation");
+    pronounciation->SetHint("Pronunciation");
     sizer2->Add(word,0, wxLEFT, 30);
     sizer2->Add(pronounciation,0, wxLEFT, 10);
     
@@ -124,27 +135,6 @@ wxPanel *CreateInsertPage(wxBookCtrlBase *parent)
     sizer3->Add(m_favourite, 0, wxLEFT, 5);
     
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
-    
-    // wxComboBox* m_dataset = new wxComboBox(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize,
-    //                                      0, NULL);
-        
-    // m_dataset->SetHint("Data Set");
-    
-    // // Add items to the combo box
-    // m_dataset->Append("Eng - Viet");
-    // m_dataset->Append("Viet - Eng");
-    // m_dataset->Append("Eng - Eng");
-    // m_dataset->Append("Emoji - Viet");
-    // m_dataset->Append("Emoji - Eng");
-    // m_dataset->Append("Eng slangs");
-    // m_dataset->Append("Vie slangs");
-    
-    // // Bind the selection event to an event handler
-    // m_dataset->Bind(wxEVT_COMBOBOX,[=](wxCommandEvent& event)
-    //               {
-    //     wxString selectedText =m_dataset->GetValue();
-    //     wxLogMessage("Selected: %s", selectedText);
-    // });
 
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
 
@@ -220,18 +210,83 @@ wxPanel *CreateRadioButtonsPage(wxBookCtrlBase *parent)
     return panel;
 }
 
-wxPanel *CreateVetoPage(wxBookCtrlBase *parent)
+wxPanel *FavoriteList(wxBookCtrlBase *parent)
 {
+    // general setup
     wxPanel *panel = new wxPanel(parent);
+    wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
+    wxFont subTextFont(9, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
+    panel->SetBackgroundColour(wxColour(249, 246, 246));
+
+    wxBoxSizer* biggest = new wxBoxSizer(wxVERTICAL);
+
+    // search area
+    wxBoxSizer* sizer1 = new wxBoxSizer(wxHORIZONTAL);
+
+    wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
+    searchBar->SetBackgroundColour(wxColour(200, 210, 209));
+
+    wxTextCtrl* textCtrl = wxDynamicCast(searchBar->GetChildren().GetFirst()->GetData(), wxTextCtrl);
+    if (textCtrl){
+        textCtrl->SetFont(myAppFont);
+        textCtrl->SetForegroundColour(wxColour(142, 159, 157));
+    }
+        
+    wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
+
+    searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
+        wxString searchText = searchBar->GetValue();
+        wxMessageBox("Searching for: " + searchText);
+    });
+
+    sizer1->Add(searchBar, 0, wxLEFT, 5);
+    sizer1->Add(searchButton, 0, wxLEFT);
     
-#if wxUSE_HELP
-    panel->SetHelpText("An empty panel");
-#endif
+    // result area, đoạn này chỉnh màu chưa đc :)
+    wxPanel* base = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
+    base->SetBackgroundColour(wxColour(238, 238, 238));
+    sizer1->Add(base);
+
+    // ------------------------------------------------------------------ create one word item
+    wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
+    wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
+    // line1->SetBackgroundColour(wxColour(142, 159, 157));
     
-    (void) new wxStaticText( panel, wxID_ANY,
-                            "This page intentionally left blank",
-                            wxPoint(10, 10) );
-    
+    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY, "Word number 1");
+    wxStaticText* wordDef = new wxStaticText(line1, wxID_ANY, "Definition goes here...");
+    wordName->SetFont(myAppFont);
+    wordDef->SetFont(subTextFont);
+    wordName->SetForegroundColour(wxColour(73, 86, 111));
+    wordDef->SetForegroundColour(wxColour(73, 86, 111));
+    // wordName->SetForegroundColour(wxColour(242, 224, 195));
+    // wordDef->SetForegroundColour(wxColour(242, 224, 195));
+
+    // chưa tìm đc cách bind cả wordInfo với event
+    line1->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+        wxMessageBox(wxString::Format("Chose word: %s", wordName->GetLabel()), wxT("Message"));
+    });
+
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, favorited_ico, wxDefaultPosition, wxSize(30,30));
+
+    wxBoxSizer* itemSizer = new wxBoxSizer(wxHORIZONTAL);
+
+    wordInfo->Add(wordName, 0, wxLEFT, 5);
+    wordInfo->Add(wordDef, 0, wxLEFT, 5);
+    itemSizer->Add(wordInfo, 0, wxLEFT, 5);
+    itemSizer->AddStretchSpacer(1);
+    itemSizer->Add(removeFromFav, 0, wxRIGHT);
+    line1->SetSizer(itemSizer);
+    sizer2->Add(line1);
+    // ------------------------------------------------------------------ create one word item
+
+    biggest->Add(sizer1, 0, wxEXPAND);
+    biggest->AddSpacer(5);
+    biggest->Add(sizer2, 0, wxEXPAND);
+    panel->SetSizer(biggest);
+
     return panel;
 }
 
@@ -268,13 +323,13 @@ void CreateInitialPages(wxBookCtrlBase *parent)
     
     parent->SetSize(wxSize(100,400));
     
-    wxWindow *page = CreateInsertPage(parent);
+    wxWindow *page = DictionaryPage(parent);
     parent->InsertPage( 0, page, DICTIONARY, false, GetIconIndex(parent) );
     
     page = CreateRadioButtonsPage(parent);
     parent->AddPage( page, ADD_NEW_WORD, false, GetIconIndex(parent) );
     
-    page = CreateVetoPage(parent);
+    page = FavoriteList(parent);
     parent->AddPage( page, FAVOURITE_LIST, false, GetIconIndex(parent) );
     
     page = CreateFullPageText(parent);
@@ -286,10 +341,10 @@ void CreateInitialPages(wxBookCtrlBase *parent)
 wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
 {
     if ( pageName == DICTIONARY )
-        return CreateInsertPage(parent);
+        return DictionaryPage(parent);
     
     if ( pageName == FAVOURITE_LIST )
-        return CreateVetoPage(parent);
+        return FavoriteList(parent);
     
     if ( pageName == ADD_NEW_WORD )
         return CreateRadioButtonsPage(parent);
@@ -319,14 +374,15 @@ MyFrame::MyFrame()
     m_chkShowImages = true;
     
     ::wxInitAllImageHandlers();
-    wxBitmap add_ig("add_clicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmap find_ig("dict_clicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmap icon("dict_unclicked.png", wxBITMAP_TYPE_ANY);
-    
-    m_images.push_back(add_ig);
-    m_images.push_back(icon);
-    m_images.push_back(icon);
-    m_images.push_back(find_ig);
+    wxBitmap dict("dict_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap add("add_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap game("game_unclicked.png", wxBITMAP_TYPE_ANY);
+
+    m_images.push_back(dict);
+    m_images.push_back(add);
+    m_images.push_back(fav);
+    m_images.push_back(game);
     
     m_panel = new wxPanel(this);
     
