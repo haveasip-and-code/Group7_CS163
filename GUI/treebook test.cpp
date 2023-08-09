@@ -290,17 +290,49 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     return panel;
 }
 
-wxWindow *CreateFullPageText(wxBookCtrlBase *parent)
+wxWindow* CreateFullPageText(wxBookCtrlBase* parent)
 {
-    wxTextCtrl *text = new wxTextCtrl(parent, wxID_ANY, "Full page text",
-                                      wxDefaultPosition, wxDefaultSize,
-                                      wxTE_MULTILINE);
-    
-#if wxUSE_HELP
-    text->SetHelpText("Page consisting of just a text control");
-#endif
-    
-    return text;
+    wxPanel* panel = new wxPanel(parent);
+    wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
+    wxButton* m_submitButton = new wxButton(panel, wxID_ANY);
+    wxGrid* m_grid = new wxGrid(panel, wxID_ANY);
+    wxTextCtrl* m_inputTextCtrl = new wxTextCtrl(panel, wxID_ANY);
+
+    //cot va hang cua bang
+    m_grid->CreateGrid(10, 2);
+    m_grid->SetColSize(0, 150);
+    m_grid->SetColSize(1, 300);
+
+    //them du lieu vao bang
+    m_grid->SetCellValue(0, 0, "Word 1");
+    m_grid->SetCellValue(0, 1, "Definition 1");
+    m_grid->SetCellValue(1, 0, "Word 2");
+    m_grid->SetCellValue(1, 1, "Definition 2");
+    m_grid->SetCellValue(2, 0, "Word 3");
+    m_grid->SetCellValue(2, 1, "Definition 3");
+    m_grid->SetCellValue(3, 0, "Word 4");
+    m_grid->SetCellValue(3, 1, "Definition 4");
+    m_grid->SetCellValue(4, 0, "Word 5");
+    m_grid->SetCellValue(4, 1, "Definition 5");
+    m_grid->SetCellValue(5, 0, "Word 6");
+    m_grid->SetCellValue(5, 1, "Definition 6");
+    m_grid->SetCellValue(6, 0, "Word 7");
+    m_grid->SetCellValue(6, 1, "Definition 7");
+    m_grid->SetCellValue(7, 0, "Word 8");
+    m_grid->SetCellValue(7, 1, "Definition 8");
+    m_grid->SetCellValue(8, 0, "Word 9");
+    m_grid->SetCellValue(8, 1, "Definition 9");
+    m_grid->SetCellValue(9, 0, "Word 10");
+    m_grid->SetCellValue(9, 1, "Definition 10");
+
+    m_submitButton->Bind(wxEVT_BUTTON, &MyFrame::OnSubmit, parent);
+
+    sizer->Add(m_grid, 1, wxEXPAND | wxALL, 10);
+    sizer->Add(m_inputTextCtrl, 0, wxEXPAND | wxLEFT | wxRIGHT | wxBOTTOM, 5);
+    sizer->Add(m_submitButton, 0, wxALIGN_CENTER | wxALL, 5);
+    panel->SetSizer(sizer);
+
+    return panel;
 }
 
 int GetIconIndex(wxBookCtrlBase* bookCtrl)
@@ -499,4 +531,24 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
     }
     
     static int s_num = 0;
+}
+
+void MyFrame::OnSubmit(wxCommandEvent& event)
+{
+    wxString userInput = m_inputTextCtrl->GetValue();
+    int SelectedRow = m_grid->GetSelectedRows()[0];
+    wxString correctAnswer = m_grid->GetCellValue(SelectedRow, 0);
+
+    if (userInput == correctAnswer)
+    {
+        wxMessageBox("Correct!");
+    }
+    else
+    {
+        wxMessageBox("Incorrect!");
+    }
+
+    //xoa du lieu trong o nhap
+    m_inputTextCtrl->Clear();
+
 }

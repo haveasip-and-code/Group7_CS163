@@ -21,6 +21,7 @@
 #include <wx/bmpbuttn.h>
 #include <wx/bitmap.h>
 #include <wx/image.h>
+#include <wx/grid.h>
 
 class MyFrame : public wxFrame
 {
@@ -32,6 +33,8 @@ public:
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
     // void writeToLogPanel(const wxString& message);
+    void OnSubmit(wxCommandEvent& event);
+
 
     wxBookCtrlBase *GetCurrentBook() const { return m_bookCtrl; }
 
@@ -61,6 +64,10 @@ private:
     wxBoxSizer *m_sizerFrame;
 
     wxBookCtrlBase::Images m_images;
+
+    wxTextCtrl* m_inputTextCtrl;
+    wxGrid* m_grid;
+
 
     wxDECLARE_EVENT_TABLE();
 };
