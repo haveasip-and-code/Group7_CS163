@@ -33,7 +33,6 @@ public:
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
     // void writeToLogPanel(const wxString& message);
-    void OnSubmit(wxCommandEvent& event);
 
 
     wxBookCtrlBase *GetCurrentBook() const { return m_bookCtrl; }

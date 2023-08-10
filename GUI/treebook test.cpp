@@ -288,7 +288,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     return panel;
 }
 
-wxWindow* CreateFullPageText(wxBookCtrlBase* parent)
+wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
     wxPanel* panel = new wxPanel(parent);
     wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
@@ -323,7 +323,22 @@ wxWindow* CreateFullPageText(wxBookCtrlBase* parent)
     m_grid->SetCellValue(9, 0, "Word 10");
     m_grid->SetCellValue(9, 1, "Definition 10");
 
-    m_submitButton->Bind(wxEVT_BUTTON, &MyFrame::OnSubmit, parent);
+    m_submitButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
+        wxString userInput = m_inputTextCtrl->GetValue();
+        int SelectedRow = m_grid->GetSelectedRows()[0];
+        wxString correctAnswer = m_grid->GetCellValue(SelectedRow, 0);
+
+        if (userInput == correctAnswer)
+        {
+            wxMessageBox("Correct!");
+        }
+        else
+        {
+            wxMessageBox("Incorrect!");
+        }
+
+        m_inputTextCtrl->Clear();
+    });
 
     sizer->Add(m_grid, 1, wxEXPAND | wxALL, 10);
     sizer->Add(m_inputTextCtrl, 0, wxEXPAND | wxLEFT | wxRIGHT | wxBOTTOM, 5);
@@ -362,7 +377,7 @@ void CreateInitialPages(wxBookCtrlBase *parent)
     page = FavoriteList(parent);
     parent->AddPage( page, FAVOURITE_LIST, false, GetIconIndex(parent) );
     
-    page = CreateFullPageText(parent);
+    page = CreateGamePage(parent);
     parent->AddPage( page, GAME, false, GetIconIndex(parent) );
     
     parent->SetSelection(0);
@@ -380,7 +395,7 @@ wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
         return CreateAddPage(parent);
     
     if ( pageName == GAME )
-        return CreateFullPageText(parent);
+        return CreateGamePage(parent);
     
     wxFAIL_MSG( "unknown page name" );
     
@@ -529,24 +544,4 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
     }
     
     static int s_num = 0;
-}
-
-void MyFrame::OnSubmit(wxCommandEvent& event)
-{
-    wxString userInput = m_inputTextCtrl->GetValue();
-    int SelectedRow = m_grid->GetSelectedRows()[0];
-    wxString correctAnswer = m_grid->GetCellValue(SelectedRow, 0);
-
-    if (userInput == correctAnswer)
-    {
-        wxMessageBox("Correct!");
-    }
-    else
-    {
-        wxMessageBox("Incorrect!");
-    }
-
-    //xoa du lieu trong o nhap
-    m_inputTextCtrl->Clear();
-
 }
