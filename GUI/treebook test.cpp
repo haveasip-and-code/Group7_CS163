@@ -179,34 +179,32 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     return panel;
 }
 
-wxPanel *CreateRadioButtonsPage(wxBookCtrlBase *parent)
+wxPanel *CreateAddPage(wxBookCtrlBase *parent)
 {
     wxPanel *panel = new wxPanel(parent);
     
-#if wxUSE_HELP
-    panel->SetHelpText("Panel with some Radio Buttons");
-#endif
+    wxTextCtrl* keyword = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,-1));
+    keyword->SetHint("Type your new word here");
     
-    wxString animals[] =
-    { "Fox", "Hare", "Rabbit",
-        "Sabre-toothed tiger", "T Rex" };
+    wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(400,-1));
+    pronounciation->SetHint("Type your pronounciation here");
     
-    wxRadioBox *radiobox1 = new wxRadioBox(panel, wxID_ANY, "Choose one",
-                                           wxDefaultPosition, wxDefaultSize, 5, animals, 2, wxRA_SPECIFY_ROWS);
+    wxTextCtrl* wordType = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(400,-1));
+    wordType->SetHint("Type your word type here");
     
-    wxString computers[] =
-    { "Amiga", "Commodore 64", "PET",
-        "Another" };
+    wxTextCtrl* meaning = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(1000,-1), wxTE_MULTILINE);
+    meaning->SetHelpText("Type your definition here");
     
-    wxRadioBox *radiobox2 = new wxRadioBox(panel, wxID_ANY,
-                                           "Choose your favourite", wxDefaultPosition, wxDefaultSize,
-                                           4, computers, 0, wxRA_SPECIFY_COLS);
+    wxButton* add = new wxButton(panel, wxID_OK, "Add");
     
-    wxBoxSizer *sizerPanel = new wxBoxSizer(wxVERTICAL);
-    sizerPanel->Add(radiobox1, 2, wxEXPAND);
-    sizerPanel->Add(radiobox2, 1, wxEXPAND);
-    panel->SetSizer(sizerPanel);
+    wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
     
+    sizer->Add(keyword,0,wxLEFT|wxTOP,10);
+    sizer->Add(pronounciation,0, wxLEFT|wxTOP, 10);
+    sizer->Add(wordType, 0,wxLEFT| wxTOP,10);
+    sizer->Add(meaning,0,wxLEFT|wxTOP,10);
+    sizer->Add(add,0, wxALIGN_RIGHT|wxTOP,10);
+    panel->SetSizer(sizer);
     return panel;
 }
 
@@ -290,7 +288,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     return panel;
 }
 
-wxWindow* CreateFullPageText(wxBookCtrlBase* parent)
+wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
     wxPanel* panel = new wxPanel(parent);
     wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
@@ -325,7 +323,22 @@ wxWindow* CreateFullPageText(wxBookCtrlBase* parent)
     m_grid->SetCellValue(9, 0, "Word 10");
     m_grid->SetCellValue(9, 1, "Definition 10");
 
-    m_submitButton->Bind(wxEVT_BUTTON, &MyFrame::OnSubmit, parent);
+    m_submitButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
+        wxString userInput = m_inputTextCtrl->GetValue();
+        int SelectedRow = m_grid->GetSelectedRows()[0];
+        wxString correctAnswer = m_grid->GetCellValue(SelectedRow, 0);
+
+        if (userInput == correctAnswer)
+        {
+            wxMessageBox("Correct!");
+        }
+        else
+        {
+            wxMessageBox("Incorrect!");
+        }
+
+        m_inputTextCtrl->Clear();
+    });
 
     sizer->Add(m_grid, 1, wxEXPAND | wxALL, 10);
     sizer->Add(m_inputTextCtrl, 0, wxEXPAND | wxLEFT | wxRIGHT | wxBOTTOM, 5);
@@ -358,13 +371,13 @@ void CreateInitialPages(wxBookCtrlBase *parent)
     wxWindow *page = DictionaryPage(parent);
     parent->InsertPage( 0, page, DICTIONARY, false, GetIconIndex(parent) );
     
-    page = CreateRadioButtonsPage(parent);
+    page = CreateAddPage(parent);
     parent->AddPage( page, ADD_NEW_WORD, false, GetIconIndex(parent) );
     
     page = FavoriteList(parent);
     parent->AddPage( page, FAVOURITE_LIST, false, GetIconIndex(parent) );
     
-    page = CreateFullPageText(parent);
+    page = CreateGamePage(parent);
     parent->AddPage( page, GAME, false, GetIconIndex(parent) );
     
     parent->SetSelection(0);
@@ -379,10 +392,10 @@ wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
         return FavoriteList(parent);
     
     if ( pageName == ADD_NEW_WORD )
-        return CreateRadioButtonsPage(parent);
+        return CreateAddPage(parent);
     
     if ( pageName == GAME )
-        return CreateFullPageText(parent);
+        return CreateGamePage(parent);
     
     wxFAIL_MSG( "unknown page name" );
     
@@ -531,24 +544,4 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
     }
     
     static int s_num = 0;
-}
-
-void MyFrame::OnSubmit(wxCommandEvent& event)
-{
-    wxString userInput = m_inputTextCtrl->GetValue();
-    int SelectedRow = m_grid->GetSelectedRows()[0];
-    wxString correctAnswer = m_grid->GetCellValue(SelectedRow, 0);
-
-    if (userInput == correctAnswer)
-    {
-        wxMessageBox("Correct!");
-    }
-    else
-    {
-        wxMessageBox("Incorrect!");
-    }
-
-    //xoa du lieu trong o nhap
-    m_inputTextCtrl->Clear();
-
 }
