@@ -21,7 +21,6 @@
 #include <wx/bmpbuttn.h>
 #include <wx/bitmap.h>
 #include <wx/image.h>
-#include <wx/grid.h>
 
 class MyFrame : public wxFrame
 {
@@ -30,6 +29,9 @@ public:
     virtual ~MyFrame();
     void OnBookCtrl(wxBookCtrlBaseEvent& event);
     void OnShowImages(wxCommandEvent& event);
+
+    void OnStart(wxCommandEvent& event);
+    void StartGame();
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
     // void writeToLogPanel(const wxString& message);
@@ -64,8 +66,17 @@ private:
 
     wxBookCtrlBase::Images m_images;
 
-    wxTextCtrl* m_inputTextCtrl;
-    wxGrid* m_grid;
+    wxRadioButton* m_radioGuessWord;
+    wxRadioButton* m_radioGuessDefinition;
+    wxButton* m_btnStart;
+    enum GameMode
+    {
+        GuessWord,
+        GuessDefinition 
+    };
+
+    GameMode m_gameMode;
+
     wxBitmapButton* m_reset;
     wxBitmapButton* m_logout;
 

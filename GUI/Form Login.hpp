@@ -43,6 +43,8 @@ private:
     wxString password;
     wxString retrievedPass;
     wxString retrieveUser;
+    wxButton* m_btnStart;
+
     
 private:
     void OnQuit(wxCommandEvent& event);

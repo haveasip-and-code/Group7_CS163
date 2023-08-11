@@ -311,60 +311,26 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
+    wxRadioButton* m_radioGuessWord;
+    wxRadioButton* m_radioGuessDefinition;
+    wxButton* m_btnStart;
+
     wxPanel* panel = new wxPanel(parent);
-    wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
-    wxButton* m_submitButton = new wxButton(panel, wxID_ANY);
-    wxGrid* m_grid = new wxGrid(panel, wxID_ANY);
-    wxTextCtrl* m_inputTextCtrl = new wxTextCtrl(panel, wxID_ANY);
+    wxBoxSizer* vbox = new wxBoxSizer(wxVERTICAL);
 
-    //cot va hang cua bang
-    m_grid->CreateGrid(10, 2);
-    m_grid->SetColSize(0, 150);
-    m_grid->SetColSize(1, 300);
+    wxStaticText* lblMode = new wxStaticText(panel, wxID_ANY, "Select game mode:");
+    m_radioGuessWord = new wxRadioButton(panel, wxID_ANY, "Guess Word");
+    m_radioGuessDefinition = new wxRadioButton(panel, wxID_ANY, "Guess Definition");
+    m_btnStart = new wxButton(panel, wxID_ANY, "Start Game");
 
-    //them du lieu vao bang
-    m_grid->SetCellValue(0, 0, "Word 1");
-    m_grid->SetCellValue(0, 1, "Definition 1");
-    m_grid->SetCellValue(1, 0, "Word 2");
-    m_grid->SetCellValue(1, 1, "Definition 2");
-    m_grid->SetCellValue(2, 0, "Word 3");
-    m_grid->SetCellValue(2, 1, "Definition 3");
-    m_grid->SetCellValue(3, 0, "Word 4");
-    m_grid->SetCellValue(3, 1, "Definition 4");
-    m_grid->SetCellValue(4, 0, "Word 5");
-    m_grid->SetCellValue(4, 1, "Definition 5");
-    m_grid->SetCellValue(5, 0, "Word 6");
-    m_grid->SetCellValue(5, 1, "Definition 6");
-    m_grid->SetCellValue(6, 0, "Word 7");
-    m_grid->SetCellValue(6, 1, "Definition 7");
-    m_grid->SetCellValue(7, 0, "Word 8");
-    m_grid->SetCellValue(7, 1, "Definition 8");
-    m_grid->SetCellValue(8, 0, "Word 9");
-    m_grid->SetCellValue(8, 1, "Definition 9");
-    m_grid->SetCellValue(9, 0, "Word 10");
-    m_grid->SetCellValue(9, 1, "Definition 10");
+    vbox->Add(lblMode, 0, wxALL, 10);
+    vbox->Add(m_radioGuessWord, 0, wxALL, 10);
+    vbox->Add(m_radioGuessDefinition, 0, wxALL, 10);
+    vbox->Add(m_btnStart, 0, wxALL, 10);
 
-    m_submitButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
-        wxString userInput = m_inputTextCtrl->GetValue();
-        int SelectedRow = m_grid->GetSelectedRows()[0];
-        wxString correctAnswer = m_grid->GetCellValue(SelectedRow, 0);
+    panel->SetSizer(vbox);
 
-        if (userInput == correctAnswer)
-        {
-            wxMessageBox("Correct!");
-        }
-        else
-        {
-            wxMessageBox("Incorrect!");
-        }
-
-        m_inputTextCtrl->Clear();
-    });
-
-    sizer->Add(m_grid, 1, wxEXPAND | wxALL, 10);
-    sizer->Add(m_inputTextCtrl, 0, wxEXPAND | wxLEFT | wxRIGHT | wxBOTTOM, 5);
-    sizer->Add(m_submitButton, 0, wxALIGN_CENTER | wxALL, 5);
-    panel->SetSizer(sizer);
+    m_btnStart->Bind(wxEVT_BUTTON, &MyFrame::OnStart, parent);
 
     return panel;
 }
@@ -585,5 +551,32 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         
         nameControl = ei.name;
         break;
+    }
+}
+
+void MyFrame::OnStart(wxCommandEvent& event)
+{
+    if (m_radioGuessWord->GetValue())
+    {
+        m_gameMode = GuessWord;
+    }
+    else if (m_radioGuessDefinition->GetValue())
+    {
+        m_gameMode = GuessDefinition;
+    }
+
+    StartGame();
+}
+
+void MyFrame::StartGame()
+{
+  
+    if (m_gameMode == GuessWord)
+    {
+        //doan tu
+    }
+    else if (m_gameMode == GuessDefinition)
+    {
+        //doan nghia
     }
 }
