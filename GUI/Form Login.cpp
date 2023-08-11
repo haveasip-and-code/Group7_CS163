@@ -6,7 +6,7 @@
 //
 
 #include "Form Login.hpp"
-#include "Dictionary.hpp"
+#include "treebook test.hpp"
 
 FormLogin::FormLogin(const wxString& title)
 : wxFrame((wxFrame *) NULL, wxID_ANY, title, wxPoint(wxID_ANY, wxID_ANY), wxSize(1200, 680),
@@ -221,7 +221,7 @@ void FormLogin::OnLogin(wxCommandEvent& event)
         {
             this->Close();
             
-            DictionaryWin* dictionary = new DictionaryWin("Dictionary");
+            MyFrame* dictionary = new MyFrame();
             int width, height;
             dictionary->GetSize(& width, & height);
             dictionary->SetSize(wxDefaultCoord, wxDefaultCoord, width, height);

@@ -57,7 +57,7 @@ private:
 
 
     // Log window
-    wxTextCtrl *m_text;
+    wxStaticText *m_text;
  // USE_LOG
     bool m_chkShowImages;
     wxBoxSizer *m_sizerFrame;
@@ -66,7 +66,8 @@ private:
 
     wxTextCtrl* m_inputTextCtrl;
     wxGrid* m_grid;
-
+    wxBitmapButton* m_reset;
+    wxBitmapButton* m_logout;
 
     wxDECLARE_EVENT_TABLE();
 };

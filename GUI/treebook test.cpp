@@ -6,7 +6,7 @@
 //
 
 #include "treebook test.hpp"
-
+#include "Form Login.hpp"
 // class displayList : public wxPanel {
 // public:
 //     displayList(wxWindow* parent, const wxString& labelText, const wxString& imageName)
@@ -31,7 +31,7 @@
 // };
 
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
-{    
+{
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
     
@@ -57,9 +57,20 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
     // searchBar->ShowCancelButton(false);
 
-    wxTextCtrl* textCtrl = wxDynamicCast(searchBar->GetChildren().GetFirst()->GetData(), wxTextCtrl);
-    if (textCtrl)
-        textCtrl->SetFont(myAppFont);
+    wxWindowListNode* firstChild = searchBar->GetChildren().GetFirst();
+    
+    if (firstChild) {
+        wxTextCtrl* textCtrl = wxDynamicCast(firstChild->GetData(), wxTextCtrl);
+        if (textCtrl) {
+            textCtrl->SetFont(myAppFont);
+        }
+        else {
+            wxLogMessage("No data");
+        }
+    }
+    else {
+        wxLogMessage("No firstChild");
+    }
 
     wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
     
@@ -224,12 +235,22 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
     searchBar->SetBackgroundColour(wxColour(200, 210, 209));
 
-    wxTextCtrl* textCtrl = wxDynamicCast(searchBar->GetChildren().GetFirst()->GetData(), wxTextCtrl);
-    if (textCtrl){
-        textCtrl->SetFont(myAppFont);
-        textCtrl->SetForegroundColour(wxColour(142, 159, 157));
+    wxWindowListNode* firstChild = searchBar->GetChildren().GetFirst();
+    
+    if (firstChild) {
+        wxTextCtrl* textCtrl = wxDynamicCast(firstChild->GetData(), wxTextCtrl);
+        if (textCtrl) {
+            textCtrl->SetFont(myAppFont);
+            textCtrl->SetForegroundColour(wxColour(142, 159, 157));
+        }
+        else {
+            wxLogMessage("No data");
+        }
     }
-        
+    else {
+        wxLogMessage("No firstChild");
+    }
+    
     wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
 
@@ -431,10 +452,33 @@ MyFrame::MyFrame()
     
     m_panel = new wxPanel(this);
     
-    m_text = new wxTextCtrl(m_panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxDefaultSize,wxTE_MULTILINE | wxTE_READONLY);
+    m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
+    m_text->SetForegroundColour(*wxGREEN);
+    
+    
+    m_reset = new wxBitmapButton(m_panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_UNDO), wxDefaultPosition, wxSize(25,25));
+    m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                       {
+        //reset function of Cuong
+        
+        wxLogMessage("Your data has been reset");
+    });
+    
+    m_logout = new wxBitmapButton(m_panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_QUIT), wxDefaultPosition, wxSize(25,25));
+    m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                       {
+        //reset function of Cuong
+        
+        this->Close();
+        
+        FormLogin* login = new FormLogin("Login");
+        login->Show(true);
+    });
     
     m_sizerFrame = new wxBoxSizer(wxVERTICAL);
     m_sizerFrame->Add(m_text, 1, wxEXPAND);
+    m_sizerFrame->Add(m_reset,0);
+    m_sizerFrame->Add(m_logout,0);
     
     RecreateBook();
     
@@ -542,6 +586,4 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         nameControl = ei.name;
         break;
     }
-    
-    static int s_num = 0;
 }
