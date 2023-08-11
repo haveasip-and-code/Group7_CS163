@@ -311,26 +311,50 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
-    wxRadioButton* m_radioGuessWord;
-    wxRadioButton* m_radioGuessDefinition;
-    wxButton* m_btnStart;
+    wxStaticText* questionLabel;
+    wxButton* answerButton1;
+    wxButton* answerButton2;
+    wxButton* answerButton3;
+    wxButton* answerButton4;
+    wxPanel* panel = new wxPanel(parent, wxID_ANY);
 
-    wxPanel* panel = new wxPanel(parent);
-    wxBoxSizer* vbox = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
 
-    wxStaticText* lblMode = new wxStaticText(panel, wxID_ANY, "Select game mode:");
-    m_radioGuessWord = new wxRadioButton(panel, wxID_ANY, "Guess Word");
-    m_radioGuessDefinition = new wxRadioButton(panel, wxID_ANY, "Guess Definition");
-    m_btnStart = new wxButton(panel, wxID_ANY, "Start Game");
+    // Panel ben trai chon che do choi
+    wxPanel* modePanel = new wxPanel(panel, wxID_ANY);
+    wxBoxSizer* modeSizer = new wxBoxSizer(wxVERTICAL);
+    modePanel->SetSizer(modeSizer);
 
-    vbox->Add(lblMode, 0, wxALL, 10);
-    vbox->Add(m_radioGuessWord, 0, wxALL, 10);
-    vbox->Add(m_radioGuessDefinition, 0, wxALL, 10);
-    vbox->Add(m_btnStart, 0, wxALL, 10);
+    wxRadioBox* modeRadioBox = new wxRadioBox(modePanel, wxID_ANY, "Game Mode", wxDefaultPosition, wxDefaultSize, 2,
+        new wxString[]{ "Guess Word", "Guess Definition" }, 0, wxRA_SPECIFY_ROWS);
+    modeSizer->Add(modeRadioBox, 0, wxALL | wxEXPAND, 10);
 
-    panel->SetSizer(vbox);
+    // Panel ben phai de hien thi cau hoi va cau tra loi
+    wxPanel* gamePanel = new wxPanel(panel, wxID_ANY);
+    wxBoxSizer* gameSizer = new wxBoxSizer(wxVERTICAL);
+    gamePanel->SetSizer(gameSizer);
 
-    m_btnStart->Bind(wxEVT_BUTTON, &MyFrame::OnStart, parent);
+    questionLabel = new wxStaticText(gamePanel, wxID_ANY, "Question");
+    gameSizer->Add(questionLabel, 0, wxALIGN_CENTER | wxALL, 10);
+
+    answerButton1 = new wxButton(gamePanel, wxID_ANY, "Answer 1");
+    answerButton2 = new wxButton(gamePanel, wxID_ANY, "Answer 2");
+    answerButton3 = new wxButton(gamePanel, wxID_ANY, "Answer 3");
+    answerButton4 = new wxButton(gamePanel, wxID_ANY, "Answer 4");
+
+    gameSizer->Add(answerButton1, 0, wxALIGN_CENTER | wxALL, 10);
+    gameSizer->Add(answerButton2, 0, wxALIGN_CENTER | wxALL, 10);
+    gameSizer->Add(answerButton3, 0, wxALIGN_CENTER | wxALL, 10);
+    gameSizer->Add(answerButton4, 0, wxALIGN_CENTER | wxALL, 10);
+
+    mainSizer->Add(modePanel, 1, wxEXPAND);
+    mainSizer->Add(gamePanel, 2, wxEXPAND);
+
+    panel->SetSizer(mainSizer);
+
+    // Kết nối sự kiện chọn chế độ game
+    modeRadioBox->Bind(wxEVT_RADIOBOX, &MyFrame::OnModeSelection, parent);
+
 
     return panel;
 }
@@ -554,29 +578,55 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
     }
 }
 
-void MyFrame::OnStart(wxCommandEvent& event)
+ void MyFrame::OnModeSelection(wxCommandEvent & event)
 {
-    if (m_radioGuessWord->GetValue())
-    {
-        m_gameMode = GuessWord;
-    }
-    else if (m_radioGuessDefinition->GetValue())
-    {
-        m_gameMode = GuessDefinition;
-    }
+    GameMode mode = static_cast<GameMode>(event.GetSelection());
 
-    StartGame();
+    switch (mode) {
+    case GuessWord:
+        ShowGuessWordGame();
+        break;
+    case GuessDefinition:
+        ShowGuessDefinitionGame();
+        break;
+    }
 }
 
-void MyFrame::StartGame()
-{
-  
-    if (m_gameMode == GuessWord)
-    {
-        //doan tu
-    }
-    else if (m_gameMode == GuessDefinition)
-    {
-        //doan nghia
-    }
-}
+ void MyFrame::ShowGuessWordGame()
+ {
+     questionLabel->SetLabel("What is the definition of 'apple'?");
+     answerButton1->SetLabel("A fruit");
+     answerButton2->SetLabel("A vegetable");
+     answerButton3->SetLabel("A flower");
+     answerButton4->SetLabel("A car");
+
+     // Kết nối sự kiện chọn đáp án
+     answerButton1->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+     answerButton2->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+     answerButton3->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+     answerButton4->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+ }
+
+ void MyFrame::ShowGuessDefinitionGame()
+ {
+     questionLabel->SetLabel("What is the word for 'a sweet, red fruit'?");
+     answerButton1->SetLabel("Orange");
+     answerButton2->SetLabel("Banana");
+     answerButton3->SetLabel("Strawberry");
+     answerButton4->SetLabel("Watermelon");
+
+     // Kết nối sự kiện chọn đáp án
+     answerButton1->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+     answerButton2->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+     answerButton3->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+     answerButton4->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, m_parent);
+ }
+
+ void MyFrame::OnAnswerSelected(wxCommandEvent& event)
+ {
+     wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+     if (answerButton) {
+         wxString answer = answerButton->GetLabel();
+         wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+     }
+ }
