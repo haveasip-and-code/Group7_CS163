@@ -1,0 +1,3 @@
+var
+	@Chuyên ngành kỹ thuật\n-von-ampe phản kháng\n-von-ampe vô công\n@Chuyên ngành kỹ thuật\n-VAR
+

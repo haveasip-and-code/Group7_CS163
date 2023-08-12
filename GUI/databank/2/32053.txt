@@ -1,0 +1,3 @@
+li
+	@li\n* danh từ\n- số nhiều là li\n- dặm Trung Quốc (bằng khoảng 0 5 kilomet)
+

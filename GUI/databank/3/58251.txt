@@ -1,0 +1,3 @@
+turntable
+	@turntable\n* danh từ\n- mặt quay hình tròn, phẳng trên đó đặt đựa hát để quay\n- sàn phẳng hình tròn trên đó đầu máy xe lửa chạy lên để quay đầu lại\n@Chuyên ngành kỹ thuật\n-bàn quay\n-bàn xoay\n-bệ xoay\n-đĩa quay\n-mâm xoay\n@Lĩnh vực: toán & tin\n-bảng điểm rẽ\n@Lĩnh vực: giao thông & vận tải\n-cầu quay đầu máy\n-vòng quay (đường ray)\n@Lĩnh vực: xây dựng\n-giá quay
+

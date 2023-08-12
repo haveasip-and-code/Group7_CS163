@@ -1,0 +1,3 @@
+classifier
+	@classifier\n* danh từ\n- người phân loại\n@Chuyên ngành kinh tế\n-máy chia hạng\n-máy phân loại\n@Chuyên ngành kỹ thuật\n-người phân loại\n-máy phân loại\n@Lĩnh vực: cơ khí & công trình\n-máy phân cấp\n@Lĩnh vực: xây dựng\n-thiết bị, phân loại
+

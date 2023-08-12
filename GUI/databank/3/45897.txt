@@ -1,0 +1,3 @@
+receivables
+	@Chuyên ngành kinh tế\n-số tiền sẽ được thu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-số tiền thu nhận
+

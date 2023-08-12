@@ -1,0 +1,300 @@
+#pragma once
+#include <bits/stdc++.h>
+#include <direct.h>
+#include "core.h"
+#include "generalLib.h"
+#include "debugCore.h"
+#include "databankManager.h"
+#include "timeModule.h"
+#include "flagging.h"
+
+extern int curDataSet;
+extern int curMaxSlot;
+extern int dataSetCnt;
+
+extern string databankDir;
+extern bool debugFlag;
+extern bool writeFlag;
+
+const int blcsize=1000;
+
+void addWord(trieNode* dataSet,string &cur,string &definition) {
+    trieNode* tmp=dataSet->insert(cur);
+    if (!tmp) {
+        //Something is wrong here.
+        debug("Failure when trying to add string \""+cur+"\": Insert function get to an null node.");
+        return;
+    }
+    else {
+        //Everything is right here.
+        setDefinition(cur,findSlot(tmp->storagelocation),definition);
+        debug("Successful when trying to add string \""+cur+"\"!!!");
+        return;
+    }
+}
+
+void addWord(TSTNode* dataSet,string &cur,string &definition) {
+    TSTNode* tmp=dataSet->insert(cur);
+    if (!tmp) {
+        //Something is wrong here.
+        debug("Failure when trying to add string \""+cur+"\": Insert function get to an null node.");
+        return;
+    }
+    else {
+        //Everything is right here.
+        setDefinition(cur,findSlot(tmp->val),definition);
+        debug("Successful when trying to add string \""+cur+"\"!!!");
+        return;
+    }
+}
+
+void addWord(TST& dataSet,string &cur,string &definition) {
+    addWord(dataSet.pRoot,cur,definition);
+}
+
+
+pair<string,string> getWordDef(trieNode* dataSet,string &cur) {
+    trieNode* tmp=dataSet->get(cur);
+    pair<string,string> kq;
+    if (!tmp) {
+        //Something is wrong here.
+        debug("Failure when trying to get definition of string \""+cur+"\": Either a exception or the word haven't been added.");
+        kq.first=cur;
+        kq.second="A definition have not been set for this word.";
+        return kq;
+    }
+    else {
+        kq=retrieveData(curDataSet,tmp->storagelocation);
+        debug("Successful when trying to get definition of string \""+cur+"\"!!!");
+        return kq;
+    }
+}
+
+pair<string,string> getWordDef(TSTNode* dataSet,string &cur) {
+    TSTNode* tmp=dataSet->get(cur);
+    pair<string,string> kq;
+    if (!tmp) {
+        //Something is wrong here.
+        debug("Failure when trying to get definition of string \""+cur+"\": Either a exception or the word haven't been added.");
+        kq.first=cur;
+        kq.second="A definition have not been set for this word.";
+        return kq;
+    }
+    else {
+        kq=retrieveData(curDataSet,tmp->val);
+        debug("Successful when trying to get definition of string \""+cur+"\"!!!");
+        return kq;
+    }
+}
+
+pair<string,string> getWordDef(TST dataSet,string &cur) {
+    return getWordDef(dataSet.pRoot,cur);
+}
+
+string decode(string st) {
+    string kq="";
+    for (int ii=0;ii<st.length();ii++) {
+        if (st[ii]>='a'&&st[ii]<='z') {
+            kq+=st[ii];
+        }
+        else if (st[ii]>='A'&&st[ii]<='Z') {
+            kq+='_';
+            kq+=st[ii];
+        }
+        else if (st[ii]=='\'') {
+            kq+=st[ii];
+        }
+        else if (st[ii]=='à') {
+            kq+="#af#";
+        }
+
+    }
+}
+
+int findSlot(int &x) {
+    if (x==0) {
+        curMaxSlot++;
+        x=curMaxSlot;
+    }
+    return x;
+}
+
+void setStartSlot(int x) {
+    curMaxSlot=x;
+}
+
+string intToString(int _number) {
+    string kq="";
+    int tmp=1;
+    if (_number<0) {
+        _number=-_number;
+        tmp=-1;
+    }
+    if (_number==0) return "0";
+    while (_number>0) {
+        kq=char(_number%10+'0')+kq;
+        _number/=10;
+    }
+    if (tmp==-1) {
+        return "-"+kq;
+    }
+    else {
+        return kq;
+    }
+}
+
+void setDefinition(string &curWord,int slot,string &definition) {
+    if (!writeFlag) return;
+    mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
+    ofstream outputLog;
+    outputLog.open(getPath(curDataSet)+"/"+intToString(slot/blcsize)+"/"+intToString(slot)+".txt");
+    outputLog<<curWord<<'\n';
+    outputLog<<definition<<'\n';
+    outputLog<<'\n';
+}
+
+void bulkLoadingFromDataSet(trieNode* dataSet,string &path) {
+    timePoint debugStart=timePoint();
+    debugFlag=false;
+    ifstream inp;
+    inp.open(path);
+    string s1,s2;
+    while (inp>>s1) {
+        getline(cin,s2);
+        addWord(dataSet,s1,s2);
+    }
+    inp.close();
+    debugFlag=true;
+    debug("Bulk loading from "+path+" in "+to_string(debugStart.timeDiff())+"ms");
+}
+
+void bulkLoadingFromDataSet(TSTNode* dataSet,string &path) {
+    timePoint debugStart=timePoint();
+    debugFlag=false;
+    ifstream inp;
+    inp.open(path);
+    string s1,s2;
+    while (inp>>s1) {
+        getline(inp,s2);
+        addWord(dataSet,s1,s2);
+    }
+    inp.close();
+    debugFlag=true;
+    debug("Bulk loading from "+path+" in "+to_string(debugStart.timeDiff())+"ms");
+}
+
+void bulkLoadingFromDataSet(TST& dataSet,string &path) {
+    bulkLoadingFromDataSet(dataSet.pRoot,path);
+}
+
+pair<string,string> getRandomWord(TST& dataSet) {
+    int p=rand()%curMaxSlot+1;
+    pair<string,string> kq;
+    kq=retrieveData(curDataSet,p);
+    while (kq.second=="A definition have not been set for this word.") {
+        p=rand()%curMaxSlot+1;
+        kq=retrieveData(curDataSet,p);
+    }
+    return kq;
+}
+
+void game(TST& data) {
+    pair<string,string> p[4];
+    int idx=rand()%4;
+    for (int i=0;i<4;i++) {
+        p[i]=getRandomWord(data);
+    }
+    cout<<p[idx].second<<'\n';
+    cout<<"1. "<<p[0].first<<'\n';
+    cout<<"2. "<<p[1].first<<'\n';
+    cout<<"3. "<<p[2].first<<'\n';
+    cout<<"4. "<<p[3].first<<'\n';
+    int ans;
+    cin>>ans;
+    if (ans-1==idx) {
+        cout<<"Correct\n";
+    }
+    else {
+        cout<<"Incorrect\n";
+    }
+}
+
+void invGame(TST& data) {
+    pair<string,string> p[4];
+    int idx=rand()%4;
+    for (int i=0;i<4;i++) {
+        p[i]=getRandomWord(data);
+    }
+    cout<<p[idx].first<<'\n';
+    cout<<"1. "<<p[0].second<<'\n';
+    cout<<"2. "<<p[1].second<<'\n';
+    cout<<"3. "<<p[2].second<<'\n';
+    cout<<"4. "<<p[3].second<<'\n';
+    int ans;
+    cin>>ans;
+    if (ans-1==idx) {
+        cout<<"Correct\n";
+    }
+    else {
+        cout<<"Incorrect\n";
+    }
+}
+
+vector<pair<string,string>> favouriteList;
+vector<pair<string,string>> historyList;
+
+extern string historyPath;
+extern string favouritePath;
+
+void addHistory(pair<string,string> &cur) {
+    historyList.push_back(cur);
+}
+
+void favourite(pair<string,string> &cur) {
+    favouriteList.push_back(cur);
+}
+
+void saveHistory() {
+    ofstream out;
+    out.open(historyPath);
+    for (int i=0;i<historyList.size();i++) {
+        out<<historyList[i].first<<'\n'<<historyList[i].second<<'\n';
+    }
+    out.close();
+}
+
+void loadHistory() {
+    ifstream in;
+    in.open(historyPath);
+    string s1,s2;
+    while (getline(in,s1)) {
+        getline(in,s2);
+        historyList.push_back({s1,s2});
+    }
+    in.close();
+}
+
+void saveFav() {
+    ofstream out;
+    out.open(favouritePath);
+    for (int i=0;i<favouriteList.size();i++) {
+        out<<favouriteList[i].first<<'\n'<<favouriteList[i].second<<'\n';
+    }
+    out.close();
+}
+
+void loadFav() {
+    ifstream in;
+    in.open(favouritePath);
+    string s1,s2;
+    while (getline(in,s1)) {
+        getline(in,s2);
+        favouriteList.push_back({s1,s2});
+    }
+    in.close();
+}
+
+void deleteWord(TST& data,string &cur) {
+    TSTNode* tmp=data.get(cur);
+    if (tmp) tmp->val=0;
+}
