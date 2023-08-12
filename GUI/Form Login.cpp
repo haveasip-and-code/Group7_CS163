@@ -81,9 +81,9 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
     // // Center();
     
     panel->Bind(wxEVT_PAINT, &FormLogin::OnImagePanelPaint, this);
-    // forgetPasswordLabel->Bind(wxEVT_LEFT_DOWN, &FormLogin::OnForgetPassword, this);
-    // m_buttonLogin->Bind(wxEVT_BUTTON, &FormLogin::OnLogin, this);
-    // m_buttonSignUp->Bind(wxEVT_BUTTON, &FormLogin::OnSignUp, this);
+    forgetPasswordLabel->Bind(wxEVT_LEFT_DOWN, &FormLogin::OnForgetPassword, this);
+    m_buttonLogin->Bind(wxEVT_BUTTON, &FormLogin::OnLogin, this);
+    m_buttonSignUp->Bind(wxEVT_BUTTON, &FormLogin::OnSignUp, this);
 }
 
 void FormLogin::OnSignUp(wxCommandEvent& event)
