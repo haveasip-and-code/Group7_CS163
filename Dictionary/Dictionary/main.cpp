@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
     prototypemode();
     return 0;
     setStartSlot(0);

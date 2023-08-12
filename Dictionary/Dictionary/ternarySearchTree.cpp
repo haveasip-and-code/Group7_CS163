@@ -152,7 +152,7 @@ TSTNode* TSTNode::get(string &cur,int idx) {
 
 TSTNode* TSTNode::get(string &cur) {
     return get(cur,0);
-    cout<<'\n';
+    //cout<<'\n';
 }
 
 void TSTNode::clear() {

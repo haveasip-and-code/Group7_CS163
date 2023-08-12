@@ -51,3 +51,40 @@ Load from: databank/3/TST.txt
 Bulk loading from bulkData/common-english-viet-words.txt in 3077401.413400ms
 Save to file databank/3/TST.txt
 Save to file databank/3/TST.txt
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string "basic"!!!
+Save to file databank/2/TST.txt
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string "laugh"!!!
+Save to file databank/2/TST.txt
+Load from: databank/3/TST.txt
+Successful when trying to get definition of string "take"!!!
+Load from: databank/1/TST.txt
+Failure when trying to get definition of string "love": Either a exception or the word haven't been added.
+Databank "FLAG-1" was created.
+Load from: databank/4/TST.txt
+Bulk loading from bulkData/common-english-viet-words.txt in 199.567300ms
+Save to file databank/4/TST.txt
+Databank "TEST-2" was created.
+Load from: databank/5/TST.txt
+Bulk loading from bulkData/base.txt in 403244.851400ms
+Save to file databank/5/TST.txt
+Databank "TEST-3" was created.
+Load from: databank/6/TST.txt
+Bulk loading from bulkData/base.txt in 301798.149500ms
+Save to file databank/6/TST.txt
+Bulk loading from 1 in 0.202600ms
+Databank "TEST-4" was created.
+Load from: databank/7/TST.txt
+Bulk loading from bulkData/base.txt in 1949.261700ms
+Save to file databank/7/TST.txt
+Databank "TEST-5" was created.
+Load from: databank/8/TST.txt
+Bulk loading from bulkData/base.txt in 1874.061200ms
+Save to file databank/8/TST.txt
+Databank "TEST-6" was created.
+Load from: databank/9/TST.txt
+Bulk loading from bulkData/base.txt in 399163.041600ms
+Save to file databank/9/TST.txt
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string "love"!!!

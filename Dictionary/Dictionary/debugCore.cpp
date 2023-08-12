@@ -4,7 +4,7 @@
 #include "timeModule.h"
 
 extern string debugLogPath;
-bool debugFlag=true;
+extern bool debugFlag;
 
 void setDebugLog(string path) {
     debugLogPath=path;

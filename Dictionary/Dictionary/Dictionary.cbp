@@ -51,12 +51,18 @@
 		<Unit filename="metadata.h" />
 		<Unit filename="prototype.cpp" />
 		<Unit filename="prototype.h" />
+		<Unit filename="storage.cpp" />
+		<Unit filename="storage.h" />
 		<Unit filename="ternarySearchTree.cpp" />
 		<Unit filename="ternarySearchTree.h" />
 		<Unit filename="timeModule.cpp" />
 		<Unit filename="timeModule.h" />
 		<Unit filename="trie.cpp" />
 		<Unit filename="trie.h" />
+		<Unit filename="user.cpp" />
+		<Unit filename="user.h" />
+		<Unit filename="wordEncoder.cpp" />
+		<Unit filename="wordEncoder.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

@@ -1,0 +1,3 @@
+subgraph
+	@subgraph\n- đồ thị con; (tô pô) đồ thị hình con\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biểu đồ con\n-đồ hình con\n-đồ thị con
+

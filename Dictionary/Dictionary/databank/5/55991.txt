@@ -1,0 +1,3 @@
+tenser
+	@tenser\n- xem tensor
+
