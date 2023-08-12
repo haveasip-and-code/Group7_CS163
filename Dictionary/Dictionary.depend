@@ -342,3 +342,156 @@
 1691060412 c:\users\lecuo\documents\github\group7_cs163\dictionary\dictionary\foldercore.h
 	<bits/stdc++.h>
 
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\core.cpp
+	<bits/stdc++.h>
+	<direct.h>
+	"core.h"
+	"generalLib.h"
+	"debugCore.h"
+	"databankManager.h"
+	"timeModule.h"
+	"flagging.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\core.h
+	<bits/stdc++.h>
+	"trie.h"
+	"ternarySearchTree.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\trie.h
+	<bits/stdc++.h>
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\ternarysearchtree.h
+	<bits/stdc++.h>
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\generallib.h
+	<bits/stdc++.h>
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\debugcore.h
+	<bits/stdc++.h>
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\databankmanager.h
+	<bits/stdc++.h>
+	"trie.h"
+	"ternarySearchTree.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\timemodule.h
+	<bits/stdc++.h>
+	<chrono>
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\flagging.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\databankmanager.cpp
+	<bits/stdc++.h>
+	<direct.h>
+	"databankManager.h"
+	"debugCore.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\debugcore.cpp
+	<bits/stdc++.h>
+	"debugCore.h"
+	"timeModule.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\encodedecode.cpp
+	<bits/stdc++.h>
+	"encodedecode.h"
+	"generalLib.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\encodedecode.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\generallib.cpp
+	<bits/stdc++.h>
+	"generalLib.h"
+	"globalVariableController.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\globalvariablecontroller.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\globalvariablecontroller.cpp
+	<bits/stdc++.h>
+	"globalVariableController.h"
+	"storage.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\storage.h
+	"ternarySearchTree.h"
+	"storage.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\main.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\prototype.h
+	<bits/stdc++.h>
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\metadata.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\master.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"encodedecode.h"
+	"generalLib.h"
+	"metadata.h"
+	"prototype.h"
+	"master.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\master.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\metadata.cpp
+	<bits/stdc++.h>
+	"metadata.h"
+	"generalLib.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\prototype.cpp
+	<bits/stdc++.h>
+	"prototype.h"
+	"core.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"databankManager.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\storage.cpp
+	"folderCore.h"
+	"storage.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\foldercore.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\ternarysearchtree.cpp
+	<bits/stdc++.h>
+	"ternarySearchTree.h"
+	"debugCore.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\timemodule.cpp
+	<bits/stdc++.h>
+	"timeModule.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\trie.cpp
+	<bits/stdc++.h>
+	"trie.h"
+	"debugCore.h"
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\user.cpp
+	"user.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\user.h
+	<bits/stdc++.h>
+
+1691874399 source:c:\users\lecuo\documents\github\group7_cs163\dictionary\wordencoder.cpp
+	<bits/stdc++.h>
+	"wordEncoder.h"
+	"debugCore.h"
+
+1691874399 c:\users\lecuo\documents\github\group7_cs163\dictionary\wordencoder.h
+	<bits/stdc++.h>
+	"ternarySearchTree.h"
+
