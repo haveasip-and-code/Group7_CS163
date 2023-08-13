@@ -348,7 +348,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxStaticText* gameModeText = new wxStaticText(panel, wxID_ANY, "choose mode     ");
         gameModeText->SetFont(wxFont(34, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         gameModeText->SetForegroundColour(wxColour("#49566f"));
-        mainSizer->Add(gameModeText, 0, wxALIGN_CENTER | wxLEFT | wxTOP, 60);
+        mainSizer->Add(gameModeText, 0, wxALIGN_CENTER | wxLEFT | wxTOP, 30);
 
         wxButton* guessWordbutton = new wxButton(panel, wxID_ANY, "guess word from definition");
         guessWordbutton->SetForegroundColour(wxColour("#49566f"));
@@ -417,7 +417,6 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         gameSizer->Add(answerButton4, 0, wxALIGN_CENTER | wxALL, 10);
 
         gameSizer->Add(refreshSizer, 1, wxEXPAND);
-
 
         mainSizer->Add(modePanel, 1, wxEXPAND);
         mainSizer->Add(gamePanel, 2, wxEXPAND);
