@@ -348,7 +348,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxStaticText* gameModeText = new wxStaticText(panel, wxID_ANY, "choose mode     ");
         gameModeText->SetFont(wxFont(34, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         gameModeText->SetForegroundColour(wxColour("#49566f"));
-        mainSizer->Add(gameModeText, 0, wxALIGN_CENTER_HORIZONTAL | wxLEFT | wxTOP, 60);
+        mainSizer->Add(gameModeText, 0, wxALIGN_CENTER | wxLEFT | wxTOP, 60);
 
         wxButton* guessWordbutton = new wxButton(panel, wxID_ANY, "guess word from definition");
         guessWordbutton->SetForegroundColour(wxColour("#49566f"));
@@ -397,7 +397,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                         }
                     });
             });
-        modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 130);
+        modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER | wxTOP, 130);
 
         wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
         guessdefinition->SetForegroundColour(wxColour("#49566f"));
@@ -446,7 +446,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                         }
                     });
             });
-        modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 15);
+        modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER | wxTOP, 15);
 
 
         // Panel bên phải để hiển thị câu hỏi và đáp án
