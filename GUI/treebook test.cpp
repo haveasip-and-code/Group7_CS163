@@ -194,19 +194,35 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
 {
     wxPanel *panel = new wxPanel(parent);
     
-    wxTextCtrl* keyword = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,-1));
+    wxTextCtrl* keyword = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,40));
     keyword->SetHint("Type your new word here");
+    keyword->SetForegroundColour(wxColour("#49566f"));
+    keyword->SetFont(wxFont(10, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+    keyword->SetBackgroundColour(wxColour("#c8d2d1"));
     
-    wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(400,-1));
+    wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(400, 40));
     pronounciation->SetHint("Type your pronounciation here");
+    pronounciation->SetForegroundColour(wxColour("#49566f"));
+    pronounciation->SetFont(wxFont(10, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+    pronounciation->SetBackgroundColour(wxColour("#eeeeee"));
     
-    wxTextCtrl* wordType = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(400,-1));
+    wxTextCtrl* wordType = new wxTextCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(400, 40));
     wordType->SetHint("Type your word type here");
+    wordType->SetForegroundColour(wxColour("#49566f"));
+    wordType->SetFont(wxFont(10, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+    wordType->SetBackgroundColour(wxColour("#eeeeee"));
     
-    wxTextCtrl* meaning = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(1000,-1), wxTE_MULTILINE);
+    wxTextCtrl* meaning = new wxTextCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(1000, 200), wxTE_MULTILINE);
     meaning->SetHelpText("Type your definition here");
+    meaning->SetForegroundColour(wxColour("#f0dec2"));
+    meaning->SetBackgroundColour(wxColour("#eeeeee"));
+    meaning->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
     
     wxButton* add = new wxButton(panel, wxID_OK, "Add");
+    add->SetMinSize(wxSize(80, 40));
+    add->SetForegroundColour(wxColour("#f0dec2"));
+    add->SetBackgroundColour(wxColour("#49566f"));
+    add->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
     
     wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
     
