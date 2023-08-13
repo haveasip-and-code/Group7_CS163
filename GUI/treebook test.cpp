@@ -357,14 +357,98 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         guessWordbutton->SetForegroundColour(wxColour("#49566f"));
         guessWordbutton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessWordbutton->SetBackgroundColour(wxColour("#f2e0c3"));
-        guessWordbutton->Bind(wxEVT_BUTTON, &MyFrame::OnGuessWordButtonClicked, parent);
+        guessWordbutton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+            {
+                questionLabel->SetLabel("What is the definition of 'apple'?");
+                answerButton1->SetLabel("A fruit");
+                answerButton2->SetLabel("A vegetable");
+                answerButton3->SetLabel("A flower");
+                answerButton4->SetLabel("A car");
+
+                // Kết nối sự kiện chọn đáp án
+                answerButton1->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+
+                answerButton2->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+                answerButton3->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+                answerButton4->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+            });
         modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 130);
 
         wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
         guessdefinition->SetForegroundColour(wxColour("#49566f"));
         guessdefinition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessdefinition->SetBackgroundColour(wxColour("#f2e0c3"));
-        guessdefinition->Bind(wxEVT_BUTTON, &MyFrame::OnGuessDefinitionButtonClicked, parent);
+        guessdefinition->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+            {
+                questionLabel->SetLabel("What is the word for 'a sweet, red fruit'?");
+                answerButton1->SetLabel("Orange");
+                answerButton2->SetLabel("Banana");
+                answerButton3->SetLabel("Strawberry");
+                answerButton4->SetLabel("Watermelon");
+
+                // Kết nối sự kiện chọn đáp án
+                answerButton1->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+
+                answerButton2->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+                answerButton3->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+                answerButton4->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                    {
+                        wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
+                        if (answerButton) {
+                            wxString answer = answerButton->GetLabel();
+                            wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
+                        }
+                    });
+            });
         modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 15);
 
 
@@ -377,7 +461,14 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         refreshButton->SetForegroundColour(wxColour("#49566f"));
         refreshButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
         refreshButton->SetBackgroundColour(wxColour("#f2e0c3"));
-        refreshButton->Bind(wxEVT_BUTTON, &MyFrame::OnRefreshButtonClicked, parent);
+        refreshButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+            {
+                {
+                   
+                   int  score = 0;
+                    wxMessageBox("Game has been reset.");
+                }
+            });
 
         scoreText = new wxStaticText(gamePanel, wxID_ANY, "Score: 0", wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
         scoreText->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
@@ -431,9 +522,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 
         panel->SetSizer(mainSizer);
 
-        // Kết nối sự kiện chọn chế độ game
-        guessWordbutton->Bind(wxEVT_BUTTON, &MyFrame::OnGuessWordButtonClicked, parent);
-        guessdefinition->Bind(wxEVT_BUTTON, &MyFrame::OnGuessDefinitionButtonClicked, parent);
+        return panel;
 }
 
 int GetIconIndex(wxBookCtrlBase* bookCtrl)
@@ -653,84 +742,5 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         
         nameControl = ei.name;
         break;
-    }
-}
-
-void MyFrame::CalculateScore()
-{
-    // Tính điểm dựa trên các tiêu chí của trò chơi
-    // Ví dụ: cộng 10 điểm mỗi lần đoán đúng
-    int finalScore = score * 10;
-    scoreText->SetLabelText("Score: " + wxString::Format(wxT("%d"), finalScore));
-    wxMessageBox("Your score: " + wxString::Format(wxT("%d"), finalScore));
-}
-
-
-
-void MyFrame::OnRefreshButtonClicked(wxCommandEvent& event)
-{
-    // Đặt lại trạng thái ban đầu của game
-    score = 0;
-    wxMessageBox("Game has been reset.");
-}
-
-
-void MyFrame::ShowGuessWordGame()
-{
-    questionLabel->SetLabel("What is the definition of 'apple'?");
-    answerButton1->SetLabel("A fruit");
-    answerButton2->SetLabel("A vegetable");
-    answerButton3->SetLabel("A flower");
-    answerButton4->SetLabel("A car");
-
-    // Kết nối sự kiện chọn đáp án
- 
-}
-
-void MyFrame::ShowGuessDefinitionGame()
-{
-    questionLabel->SetLabel("What is the word for 'a sweet, red fruit'?");
-    answerButton1->SetLabel("Orange");
-    answerButton2->SetLabel("Banana");
-    answerButton3->SetLabel("Strawberry");
-    answerButton4->SetLabel("Watermelon");
-
-
-}
-
-void MyFrame::OnAnswerSelected(wxCommandEvent& event)
-{
-    wxButton* answerButton = dynamic_cast<wxButton*>(event.GetEventObject());
-    if (answerButton) {
-        wxString answer = answerButton->GetLabel();
-        wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
-    }
-
-    // Tiếp tục chuyển câu hỏi tiếp theo
-    // Gọi lại hàm hiển thị game tương ứng
-    // Ví dụ: ShowGuessWordGame() hoặc ShowGuessDefinitionGame()
-}
-
-void MyFrame::OnGuessWordButtonClicked(wxCommandEvent& event)
-{
-    SelectGameMode("Guess Word");
-    score++;
-}
-
-void MyFrame::OnGuessDefinitionButtonClicked(wxCommandEvent& event)
-{
-    SelectGameMode("Guess Definition");
-    score++;
-}
-
-void MyFrame::SelectGameMode(const wxString& mode)
-{
-    if (mode == "Guess Word")
-    {
-        ShowGuessWordGame();
-    }
-    else if (mode == "Guess Definition")
-    {
-        ShowGuessWordGame();
     }
 }
