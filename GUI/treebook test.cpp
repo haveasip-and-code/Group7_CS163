@@ -332,7 +332,7 @@ public:
         : wxFrame(NULL, wxID_ANY, title, wxDefaultPosition, wxSize(600, 400))
     {
         // Tạo các thành phần giao diện
-        wxPanel* panel = new wxPanel(this, wxID_ANY);
+        wxPanel* panel = new wxPanel(parent, wxID_ANY);
         panel->SetBackgroundColour(wxColour("#c8d2d1"));
         wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
 
@@ -350,14 +350,14 @@ public:
         guessWordbutton->SetForegroundColour(wxColour("#49566f"));
         guessWordbutton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessWordbutton->SetBackgroundColour(wxColour("#f2e0c3"));
-        guessWordbutton->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessWordButtonClicked, this);
+        guessWordbutton->Bind(wxEVT_BUTTON, &CreateGamePage::OnGuessWordButtonClicked, parent);
         modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 130);
 
         wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
         guessdefinition->SetForegroundColour(wxColour("#49566f"));
         guessdefinition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessdefinition->SetBackgroundColour(wxColour("#f2e0c3"));
-        guessdefinition->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessDefinitionButtonClicked, this);
+        guessdefinition->Bind(wxEVT_BUTTON, &CreateGamePage::OnGuessDefinitionButtonClicked, parent);
         modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 15);
 
 
@@ -370,7 +370,7 @@ public:
         refreshButton->SetForegroundColour(wxColour("#49566f"));
         refreshButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
         refreshButton->SetBackgroundColour(wxColour("#f2e0c3"));
-        refreshButton->Bind(wxEVT_BUTTON, &DictionaryGame::OnRefreshButtonClicked, this);
+        refreshButton->Bind(wxEVT_BUTTON, &CreateGamePage::OnRefreshButtonClicked, parent);
 
         scoreText = new wxStaticText(gamePanel, wxID_ANY, "Score: 0", wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
         scoreText->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
@@ -425,8 +425,8 @@ public:
         panel->SetSizer(mainSizer);
 
         // Kết nối sự kiện chọn chế độ game
-        guessWordbutton->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessWordButtonClicked, this);
-        guessdefinition->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessDefinitionButtonClicked, this);
+        guessWordbutton->Bind(wxEVT_BUTTON, &CreateGamePage::OnGuessWordButtonClicked, parent);
+        guessdefinition->Bind(wxEVT_BUTTON, &CreateGamePage::OnGuessDefinitionButtonClicked, parent);
 
     }
 
@@ -472,10 +472,10 @@ private:
         answerButton4->SetLabel("A car");
 
         // Kết nối sự kiện chọn đáp án
-        answerButton1->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
-        answerButton2->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
-        answerButton3->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
-        answerButton4->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
+        answerButton1->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
+        answerButton2->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
+        answerButton3->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
+        answerButton4->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
     }
 
     void ShowGuessDefinitionGame()
@@ -487,10 +487,10 @@ private:
         answerButton4->SetLabel("Watermelon");
 
         // Kết nối sự kiện chọn đáp án
-        answerButton1->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
-        answerButton2->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
-        answerButton3->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
-        answerButton4->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, this);
+        answerButton1->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
+        answerButton2->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
+        answerButton3->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
+        answerButton4->Bind(wxEVT_BUTTON, &CreateGamePage::OnAnswerSelected, parent);
     }
 
     void OnAnswerSelected(wxCommandEvent & event)
