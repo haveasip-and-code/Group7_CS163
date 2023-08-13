@@ -13,8 +13,8 @@ FormLogin::FormLogin(const wxString& title)
 wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
 {
     panel = new wxPanel(this, wxID_ANY);
-
     ::wxInitAllImageHandlers();
+    wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_MEDIUM, false, "Montserrat Medium");
 
     // Try to load the image.
     m_image = wxImage("login5.png", wxBITMAP_TYPE_ANY);
@@ -23,64 +23,62 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
         return;
     }
     CreateScaledBg();
-    
-    wxBoxSizer *vbox = new wxBoxSizer(wxVERTICAL);
 
-    wxBoxSizer *hbox1 = new wxBoxSizer(wxHORIZONTAL);
-    m_usernameEntry = new wxTextCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(300, 30), wxTE_PROCESS_ENTER);
+    wxBoxSizer *screen = new wxBoxSizer(wxHORIZONTAL);
+    
+    wxBoxSizer *columnWithItems = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer *username_strip = new wxBoxSizer(wxHORIZONTAL);
+    m_usernameEntry = new wxTextCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(250, 22), wxTE_PROCESS_ENTER);
     m_usernameEntry->SetHint("Username");
-    //m_usernameEntry->SetBackgroundStyle( wxBG_STYLE_COLOUR );
-    m_usernameEntry->SetBackgroundColour(wxColour(242, 225, 195) );
-
-    wxFont myAppFont(14, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_MEDIUM, false, "Montserrat");
     m_usernameEntry->SetFont(myAppFont);
-
-    hbox1->AddStretchSpacer(1);
-    hbox1->Add(m_usernameEntry, 0, wxALIGN_CENTRE | wxTOP, 50);
+    username_strip->AddStretchSpacer(1);
+    username_strip->Add(m_usernameEntry, 0, wxEXPAND | wxRIGHT, 130);
     
-    
-    wxBoxSizer *hbox2 = new wxBoxSizer(wxHORIZONTAL);
-    m_passwordEntry = new wxTextCtrl(panel, wxID_ANY, wxString(""), wxDefaultPosition, wxSize(300, 30), wxTE_PASSWORD|wxTE_PROCESS_ENTER);
+    wxBoxSizer *password_strip = new wxBoxSizer(wxHORIZONTAL);
+    m_passwordEntry = new wxTextCtrl(panel, wxID_ANY, wxString(""), wxDefaultPosition, wxSize(250, 22), wxTE_PASSWORD|wxTE_PROCESS_ENTER);
     m_passwordEntry->SetHint("Password");
     m_passwordEntry->SetFont(myAppFont);
-    hbox2->AddStretchSpacer(1);
-    hbox2->Add(m_passwordEntry, 0, wxALIGN_CENTER|wxBOTTOM|wxTOP, 5);
+    password_strip->AddStretchSpacer(1);
+    password_strip->Add(m_passwordEntry, 0, wxEXPAND | wxRIGHT, 130);
 
-    wxBoxSizer *vbox_middle = new wxBoxSizer(wxVERTICAL);
-    vbox_middle->AddStretchSpacer(1);
-    vbox_middle->Add(hbox1, 0, wxALIGN_CENTER_HORIZONTAL);
-    vbox_middle->Add(hbox2, 0, wxALIGN_CENTER_HORIZONTAL);
-    
-    wxBoxSizer *vbox_above_middle = new wxBoxSizer(wxHORIZONTAL);
-    vbox_above_middle->AddStretchSpacer(1);
-    
+    wxBoxSizer *buttonStrip = new wxBoxSizer(wxHORIZONTAL);
     // Add "Sign Up" button
-    wxSizer *hbox3 = new wxBoxSizer(wxHORIZONTAL);
     m_buttonSignUp = new wxButton(panel, BUTTON_SignUp, "Sign Up");
+    m_buttonSignUp->SetForegroundColour(wxColour(73, 86, 111));
     m_buttonSignUp->SetFont(myAppFont);
-    hbox3->Add(m_buttonSignUp, 0, wxRIGHT, 130);
+    m_buttonSignUp->SetMinSize(wxSize(-1, 25));
+    buttonStrip->Add(m_buttonSignUp, 0, wxRIGHT, 96);
 
+    // Add "Login" button
     m_buttonLogin = new wxButton(panel, BUTTON_Login, wxT("Login"));
+    m_buttonLogin->SetForegroundColour(wxColour(73, 86, 111));
     m_buttonLogin->SetFont(myAppFont);
-    m_buttonLogin->SetForegroundColour(*wxRED);
-    hbox3->Add(m_buttonLogin, 0);
-    
-    vbox_middle->Add(hbox3, 0, wxALIGN_CENTER|wxTOP, 5);
+    m_buttonLogin->SetMinSize(wxSize(-1, 25));
+    buttonStrip->Add(m_buttonLogin, 0, wxRIGHT, 130);
     
     // Add "Forget your password?" link
-    wxBoxSizer *hbox4 = new wxBoxSizer(wxHORIZONTAL);
-    wxStaticText* forgetPasswordLabel = new wxStaticText(panel, wxID_ANY, "Forget your password?");
-    forgetPasswordLabel->SetForegroundColour(wxColour(255, 255, 255));
-    wxFont forgetPassFont(13, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, true, "Montserrat");
-    forgetPasswordLabel->SetFont(forgetPassFont);
-    hbox4->Add(forgetPasswordLabel);
-    vbox_middle->Add(hbox4, 0, wxALIGN_CENTER | wxTOP, 20);
+    wxFont hyperlinkFont(9, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_MEDIUM, true, "Montserrat Medium");
 
-    vbox_above_middle->Add(vbox_middle, 0, wxALIGN_CENTER_VERTICAL);
-    vbox->Add(vbox_above_middle, 1, wxEXPAND | wxRIGHT , 130);
+    wxBoxSizer* forgetPassword_strip = new wxBoxSizer(wxHORIZONTAL);
+    wxStaticText* forgetPasswordLabel = new wxStaticText(panel, wxID_ANY, "Forgot password?", wxDefaultPosition, wxSize(250, 20), wxALIGN_CENTER);
+    forgetPasswordLabel->SetBackgroundColour(wxColour(73, 86, 111));
+    forgetPasswordLabel->SetForegroundColour(wxColour(249, 246, 246));
+    forgetPasswordLabel->SetFont(hyperlinkFont);
+    forgetPassword_strip->Add(forgetPasswordLabel, 0, wxRIGHT, 130);
 
-    panel->SetSizer(vbox);
-    Center();
+    columnWithItems->AddStretchSpacer(1);
+    columnWithItems->Add(username_strip, 0, wxALIGN_RIGHT);
+    columnWithItems->AddSpacer(3);
+    columnWithItems->Add(password_strip, 0, wxALIGN_RIGHT);
+    columnWithItems->AddSpacer(12);
+    columnWithItems->Add(buttonStrip, 0, wxALIGN_RIGHT);
+    columnWithItems->AddSpacer(25);
+    columnWithItems->Add(forgetPassword_strip, 0, wxALIGN_RIGHT);
+    columnWithItems->AddStretchSpacer(1);
+    screen->AddStretchSpacer(1);
+    screen->Add(columnWithItems, 1, wxEXPAND);
+    panel->SetSizer(screen);
+    // // Center();
     
     panel->Bind(wxEVT_PAINT, &FormLogin::OnImagePanelPaint, this);
     forgetPasswordLabel->Bind(wxEVT_LEFT_DOWN, &FormLogin::OnForgetPassword, this);
