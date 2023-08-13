@@ -333,7 +333,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
     wxButton* answerButton3;
     wxButton* answerButton4;
     wxButton* refreshButton;
-    wxStaticText* scoreText;
+
 
         // Tạo các thành phần giao diện
         wxPanel* panel = new wxPanel(parent, wxID_ANY);
@@ -354,6 +354,76 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         guessWordbutton->SetForegroundColour(wxColour("#49566f"));
         guessWordbutton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessWordbutton->SetBackgroundColour(wxColour("#f2e0c3"));
+        modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER | wxTOP, 130);
+
+        wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
+        guessdefinition->SetForegroundColour(wxColour("#49566f"));
+        guessdefinition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        guessdefinition->SetBackgroundColour(wxColour("#f2e0c3"));
+        modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER | wxTOP, 15);
+
+
+        // Panel bên phải để hiển thị câu hỏi và đáp án
+        wxPanel* gamePanel = new wxPanel(panel, wxID_ANY);
+        wxBoxSizer* gameSizer = new wxBoxSizer(wxVERTICAL);
+        gamePanel->SetSizer(gameSizer);
+
+        refreshButton = new wxButton(gamePanel, wxID_ANY, "Refresh");
+        refreshButton->SetForegroundColour(wxColour("#49566f"));
+        refreshButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        refreshButton->SetBackgroundColour(wxColour("#f2e0c3"));
+        refreshButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+            {
+                {
+                    wxMessageBox("Game has been reset.");
+                }
+            });
+
+        questionLabel = new wxStaticText(gamePanel, wxID_ANY, "Question");
+        gameSizer->Add(questionLabel, 0, wxALIGN_CENTER | wxTOP, 80);
+        questionLabel->SetForegroundColour(wxColour("#49566f"));
+        questionLabel->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+
+        answerButton1 = new wxButton(gamePanel, wxID_ANY, "Answer 1");
+        answerButton1->SetForegroundColour(wxColour("#49566f"));
+        answerButton1->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton1->SetBackgroundColour(wxColour("#f2e0c3"));
+        answerButton1->SetSize(wxSize(300, 30));
+
+
+        answerButton2 = new wxButton(gamePanel, wxID_ANY, "Answer 2");
+        answerButton2->SetForegroundColour(wxColour("#49566f"));
+        answerButton2->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton2->SetBackgroundColour(wxColour("#f2e0c3"));
+
+        answerButton3 = new wxButton(gamePanel, wxID_ANY, "Answer 3");
+        answerButton3->SetForegroundColour(wxColour("#49566f"));
+        answerButton3->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton3->SetBackgroundColour(wxColour("#f2e0c3"));
+
+        answerButton4 = new wxButton(gamePanel, wxID_ANY, "Answer 4");
+        answerButton4->SetForegroundColour(wxColour("#49566f"));
+        answerButton4->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton4->SetBackgroundColour(wxColour("#f2e0c3"));
+
+        wxBoxSizer* refreshSizer = new wxBoxSizer(wxHORIZONTAL);
+
+        refreshSizer->Add(refreshButton, 0, wxALIGN_LEFT | wxTOP, 10);
+
+        gameSizer->Add(answerButton1, 0, wxALIGN_CENTER | wxALL, 10);
+        gameSizer->Add(answerButton2, 0, wxALIGN_CENTER | wxALL, 10);
+        gameSizer->Add(answerButton3, 0, wxALIGN_CENTER | wxALL, 10);
+        gameSizer->Add(answerButton4, 0, wxALIGN_CENTER | wxALL, 10);
+
+        gameSizer->Add(refreshSizer, 1, wxEXPAND);
+
+
+        mainSizer->Add(modePanel, 1, wxEXPAND);
+        mainSizer->Add(gamePanel, 2, wxEXPAND);
+
+        panel->SetSizer(mainSizer);
+
         guessWordbutton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
             {
                 questionLabel->SetLabel("What is the definition of 'apple'?");
@@ -370,6 +440,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                             wxString answer = answerButton->GetLabel();
                             wxMessageBox("Your answer: " + answer, "Answer", wxOK | wxICON_INFORMATION);
                         }
+
                     });
 
                 answerButton2->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
@@ -397,12 +468,6 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                         }
                     });
             });
-        modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER | wxTOP, 130);
-
-        wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
-        guessdefinition->SetForegroundColour(wxColour("#49566f"));
-        guessdefinition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-        guessdefinition->SetBackgroundColour(wxColour("#f2e0c3"));
         guessdefinition->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
             {
                 questionLabel->SetLabel("What is the word for 'a sweet, red fruit'?");
@@ -446,78 +511,6 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                         }
                     });
             });
-        modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER | wxTOP, 15);
-
-
-        // Panel bên phải để hiển thị câu hỏi và đáp án
-        wxPanel* gamePanel = new wxPanel(panel, wxID_ANY);
-        wxBoxSizer* gameSizer = new wxBoxSizer(wxVERTICAL);
-        gamePanel->SetSizer(gameSizer);
-
-        refreshButton = new wxButton(gamePanel, wxID_ANY, "Refresh");
-        refreshButton->SetForegroundColour(wxColour("#49566f"));
-        refreshButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
-        refreshButton->SetBackgroundColour(wxColour("#f2e0c3"));
-        refreshButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
-            {
-                {
-                   
-                   int  score = 0;
-                    wxMessageBox("Game has been reset.");
-                }
-            });
-
-        scoreText = new wxStaticText(gamePanel, wxID_ANY, "Score: 0", wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
-        scoreText->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-        scoreText->SetForegroundColour(wxColour("#49566f"));
-
-        questionLabel = new wxStaticText(gamePanel, wxID_ANY, "Question");
-        gameSizer->Add(questionLabel, 0, wxALIGN_CENTER | wxTOP, 80);
-        questionLabel->SetForegroundColour(wxColour("#49566f"));
-        questionLabel->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-
-
-        answerButton1 = new wxButton(gamePanel, wxID_ANY, "Answer 1");
-        answerButton1->SetForegroundColour(wxColour("#49566f"));
-        answerButton1->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-        answerButton1->SetBackgroundColour(wxColour("#f2e0c3"));
-        answerButton1->SetSize(wxSize(300, 30));
-
-
-        answerButton2 = new wxButton(gamePanel, wxID_ANY, "Answer 2");
-        answerButton2->SetForegroundColour(wxColour("#49566f"));
-        answerButton2->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-        answerButton2->SetBackgroundColour(wxColour("#f2e0c3"));
-
-        answerButton3 = new wxButton(gamePanel, wxID_ANY, "Answer 3");
-        answerButton3->SetForegroundColour(wxColour("#49566f"));
-        answerButton3->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-        answerButton3->SetBackgroundColour(wxColour("#f2e0c3"));
-
-        answerButton4 = new wxButton(gamePanel, wxID_ANY, "Answer 4");
-        answerButton4->SetForegroundColour(wxColour("#49566f"));
-        answerButton4->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-        answerButton4->SetBackgroundColour(wxColour("#f2e0c3"));
-
-        wxBoxSizer* refreshSizer = new wxBoxSizer(wxHORIZONTAL);
-        wxBoxSizer* scoreSizer = new wxBoxSizer(wxVERTICAL);
-
-        refreshSizer->Add(refreshButton, 0, wxALIGN_LEFT | wxTOP, 10);
-        scoreSizer->Add(scoreText, 0, wxALIGN_RIGHT | wxTOP, 10);
-
-        gameSizer->Add(answerButton1, 0, wxALIGN_CENTER | wxALL, 10);
-        gameSizer->Add(answerButton2, 0, wxALIGN_CENTER | wxALL, 10);
-        gameSizer->Add(answerButton3, 0, wxALIGN_CENTER | wxALL, 10);
-        gameSizer->Add(answerButton4, 0, wxALIGN_CENTER | wxALL, 10);
-
-        gameSizer->Add(refreshSizer, 1, wxEXPAND);
-        gameSizer->Add(scoreSizer, 1, wxEXPAND);
-
-
-        mainSizer->Add(modePanel, 1, wxEXPAND);
-        mainSizer->Add(gamePanel, 2, wxEXPAND);
-
-        panel->SetSizer(mainSizer);
 
         return panel;
 }
