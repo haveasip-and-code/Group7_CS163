@@ -9,7 +9,6 @@
 #include "databankManager.h"
 #include "generalLib.h"
 
-
 bool MainApp::OnInit()
 {
     if ( !wxApp::OnInit() )

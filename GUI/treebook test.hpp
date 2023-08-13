@@ -22,6 +22,12 @@
 #include <wx/bitmap.h>
 #include <wx/image.h>
 #include<wx/string.h>
+#include "core.h"
+#include "prototype.h"
+#include "metadata.h"
+#include "trie.h"
+#include "databankManager.h"
+#include "generalLib.h"
 
 class MyFrame : public wxFrame
 {

@@ -3740,7 +3740,7 @@
 	<fstream>
 	<string>
 
-1691877504 c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.hpp
+1691886502 c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.hpp
 	<stdio.h>
 	"wx/wx.h"
 	"wx/aui/auibook.h"
@@ -3755,8 +3755,14 @@
 	<wx/bitmap.h>
 	<wx/image.h>
 	<wx/string.h>
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
 
-1691883149 source:c:\users\lecuo\documents\github\group7_cs163\gui\main.cpp
+1691884725 source:c:\users\lecuo\documents\github\group7_cs163\gui\main.cpp
 	"treebook test.hpp"
 	"Main.hpp"
 	"Form Login.hpp"
@@ -3921,10 +3927,11 @@
 1691874399 c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.h
 	<bits/stdc++.h>
 
-1691874399 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
+1691884759 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
 	<bits/stdc++.h>
 	"globalVariableController.h"
 	"storage.h"
+	"ternarySearchTree.h"
 
 1691884073 source:c:\users\lecuo\documents\github\group7_cs163\gui\foldercore.cpp
 	<direct.h>

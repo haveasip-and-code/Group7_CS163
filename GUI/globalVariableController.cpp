@@ -2,6 +2,7 @@
 #include <bits/stdc++.h>
 #include "globalVariableController.h"
 #include "storage.h"
+#include "ternarySearchTree.h"
 
 //From core.h
 int curMaxSlot;
@@ -18,6 +19,8 @@ bool debugFlag=false;
 
 string historyPath="coreData/hist.txt";
 string favouritePath="coreData/fav.txt";
+
+TST data=TST();
 
 //From user
 //Container userData;
