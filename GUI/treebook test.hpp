@@ -31,26 +31,6 @@ public:
     void OnBookCtrl(wxBookCtrlBaseEvent& event);
     void OnShowImages(wxCommandEvent& event);
 
-    enum GameMode {
-        GuessWord,
-        GuessDefinition
-    };
-    void SelectGameMode(const wxString& mode);
-    void OnGuessDefinitionButtonClicked(wxCommandEvent& event);
-    void OnGuessWordButtonClicked(wxCommandEvent& event);
-    void OnAnswerSelected(wxCommandEvent& event);
-    void ShowGuessDefinitionGame();
-    void ShowGuessWordGame();
-    void OnRefreshButtonClicked(wxCommandEvent& event);
-    void CalculateScore();
-
-
-
-
-
-
-
-
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
     // void writeToLogPanel(const wxString& message);
@@ -84,15 +64,6 @@ private:
     wxBoxSizer *m_sizerFrame;
 
     wxBookCtrlBase::Images m_images;
-
-    wxStaticText* questionLabel;
-    wxButton* answerButton1;
-    wxButton* answerButton2;
-    wxButton* answerButton3;
-    wxButton* answerButton4;
-    wxButton* refreshButton;
-    wxStaticText* scoreText;
-    int score = 0;
 
     wxBitmapButton* m_reset;
     wxBitmapButton* m_logout;
