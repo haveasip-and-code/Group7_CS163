@@ -35,6 +35,21 @@ public:
         GuessWord,
         GuessDefinition
     };
+    void SelectGameMode(const wxString& mode);
+    void OnGuessDefinitionButtonClicked(wxCommandEvent& event);
+    void OnGuessWordButtonClicked(wxCommandEvent& event);
+    void OnAnswerSelected(wxCommandEvent& event);
+    void ShowGuessDefinitionGame();
+    void ShowGuessWordGame();
+    void OnRefreshButtonClicked(wxCommandEvent& event);
+    void CalculateScore();
+
+
+
+
+
+
+
 
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
@@ -77,7 +92,7 @@ private:
     wxButton* answerButton4;
     wxButton* refreshButton;
     wxStaticText* scoreText;
-    wxBookCtrlBase* parent;
+    int score = 0;
 
     wxBitmapButton* m_reset;
     wxBitmapButton* m_logout;
