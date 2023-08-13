@@ -102,8 +102,6 @@
 		<ResourceCompiler>
 			<Add directory="$(#wxdir.BASE)" />
 		</ResourceCompiler>
-		<Unit filename="Dictionary.cpp" />
-		<Unit filename="Dictionary.hpp" />
 		<Unit filename="Form Login.cpp" />
 		<Unit filename="Form Login.hpp" />
 		<Unit filename="Main.hpp" />
