@@ -353,14 +353,14 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
     guessWordbutton->SetForegroundColour(wxColour("#49566f"));
     guessWordbutton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
     guessWordbutton->SetBackgroundColour(wxColour("#f2e0c3"));
-    guessWordbutton->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessWordButtonClicked, parent);
+    guessWordbutton->Bind(wxEVT_BUTTON, &MyFrame::OnGuessWordButtonClicked, parent);
     modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 130);
 
     wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
     guessdefinition->SetForegroundColour(wxColour("#49566f"));
     guessdefinition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
     guessdefinition->SetBackgroundColour(wxColour("#f2e0c3"));
-    guessdefinition->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessDefinitionButtonClicked, parent);
+    guessdefinition->Bind(wxEVT_BUTTON, &MyFrame::OnGuessDefinitionButtonClicked, parent);
     modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER_HORIZONTAL | wxTOP, 15);
 
 
@@ -375,7 +375,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
     refreshButton->SetForegroundColour(wxColour("#49566f"));
     refreshButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
     refreshButton->SetBackgroundColour(wxColour("#f2e0c3"));
-    refreshButton->Bind(wxEVT_BUTTON, &DictionaryGame::OnRefreshButtonClicked, parent);
+    refreshButton->Bind(wxEVT_BUTTON, &MyFrame::OnRefreshButtonClicked, parent);
 
     scoreText = new wxStaticText(gamePanel, wxID_ANY, "Score: 0", wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
     scoreText->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
@@ -429,8 +429,8 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
     panel->SetSizer(mainSizer);
 
     // Kết nối sự kiện chọn chế độ game
-    guessWordbutton->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessWordButtonClicked, parent);
-    guessdefinition->Bind(wxEVT_BUTTON, &DictionaryGame::OnGuessDefinitionButtonClicked, parent);
+    guessWordbutton->Bind(wxEVT_BUTTON, &MyFrame::OnGuessWordButtonClicked, parent);
+    guessdefinition->Bind(wxEVT_BUTTON, &MyFrame::OnGuessDefinitionButtonClicked, parent);
 
     return panel;
 }
