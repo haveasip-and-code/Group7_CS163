@@ -1,0 +1,3 @@
+bin
+	@bin /bin/\n*  danh từ\n- thùng\n- túi vải bạt (để hái hoa bia)\n- thùng đựng rượu, rượu thùng\n@Chuyên ngành kinh tế\n-rượu thùng\n-thùng\n-thùng đựng rượu\n-túi\n-vải bạt\n@Chuyên ngành kỹ thuật\n-gầu\n-kệ bảo quản\n-ngăn\n-phễu\n@Lĩnh vực: xây dựng\n-buke\n-phễu tiếp nhiên liệu\n-thùng đựng\n@Lĩnh vực: cơ khí & công trình\n-gầu rót\n-nồi rót\n-phễu liệu\n@Lĩnh vực: toán & tin\n-hộc\n-tủ (đựng giấy tờ)
+

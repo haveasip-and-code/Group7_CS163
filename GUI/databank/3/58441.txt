@@ -1,0 +1,3 @@
+uglify
+	@uglify /'ʌglifai/\n*  ngoại động từ\n- làm xấu đi
+

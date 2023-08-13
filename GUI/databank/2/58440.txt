@@ -1,0 +1,3 @@
+uglifier
+	@uglifier\n- xem uglify
+

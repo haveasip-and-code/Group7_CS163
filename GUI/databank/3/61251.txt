@@ -1,0 +1,3 @@
+variance
+	@variance\n- (thống kê) phương sai\n- accidental v. phương sai ngẫu nhiên\n- external v. phương sai ngoài\n- generlized v. phương sai suy rộng\n- interclass v. phương sai giữa các lớp\n- internal v. phương sai trong\n- minimun v. phương sai nhỏ nhất\n- relative v. phương sai tương đối (bình phương của số biến thiên)\n- residual v. phương sai thặng dư\n- within-group v. phương sai trong nhóm
+

@@ -1,0 +1,3 @@
+browser
+	@browser\n- <tin>bộ duyệt tìm\n@Chuyên ngành kinh tế\n-bộ trình duyệt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bộ duyệt xét\n@Lĩnh vực: toán & tin\n-chế độ Browse\n-trình duyệt
+
