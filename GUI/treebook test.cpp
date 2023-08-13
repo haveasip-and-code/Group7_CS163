@@ -97,7 +97,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
     
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
-    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_HELP), wxDefaultPosition, wxSize(30,30));
+    wxBitmap edit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition);
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
@@ -137,10 +138,35 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         
     });
     
-    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));
-    
     wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER);
     definition->SetHint("Definition");
+
+    wxBitmapButton* m_remove = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_DELETE), wxDefaultPosition, wxSize(30,30));
+    m_remove->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                   {
+        
+        //Function cua Cuong
+        wxLogMessage("This word has been removed!");
+        word->Clear();
+        pronounciation->Clear();
+        definition->Clear();
+    });
+
+    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    
+    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
+    
+    m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
+        static bool notFavorite = true;
+        wxBitmap statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
+        m_favourite->SetBitmapLabel(statusBitmap);
+        m_favourite->SetSize(wxSize(30,30));
+        panel->Layout();
+        notFavorite = !notFavorite;
+    });
+    
+    sizer3->Add(m_remove,0);
     
     sizer3->Add(m_edit,0);
     sizer3->Add(m_favourite, 0, wxLEFT, 5);
@@ -164,7 +190,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("Selected: %s", selectedText);
     });
     
-    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY,wxArtProvider::GetBitmap(wxART_NEW) , wxDefaultPosition, wxSize(30,30));
+    wxBitmap wotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY, wotd_ico , wxDefaultPosition, wxSize(50,50));
     
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
@@ -601,8 +628,8 @@ MyFrame::MyFrame()
     m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
     m_text->SetForegroundColour(*wxGREEN);
     
-    
-    m_reset = new wxBitmapButton(m_panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_UNDO), wxDefaultPosition, wxSize(25,25));
+    wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
+    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
@@ -610,7 +637,8 @@ MyFrame::MyFrame()
         wxLogMessage("Your data has been reset");
     });
     
-    m_logout = new wxBitmapButton(m_panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_QUIT), wxDefaultPosition, wxSize(25,25));
+    wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
+    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(25,25));
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong

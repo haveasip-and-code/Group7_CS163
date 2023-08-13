@@ -31,6 +31,15 @@ public:
     void OnBookCtrl(wxBookCtrlBaseEvent& event);
     void OnShowImages(wxCommandEvent& event);
 
+    enum GameMode {
+        GuessWord,
+        GuessDefinition
+    };
+    
+
+
+
+
 
     void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
     // void writeToLogPanel(const wxString& message);
