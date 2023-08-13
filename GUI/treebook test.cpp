@@ -138,11 +138,35 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         
     });
     
-    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
-    
     wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER);
     definition->SetHint("Definition");
+
+    wxBitmapButton* m_remove = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_DELETE), wxDefaultPosition, wxSize(30,30));
+    m_remove->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                   {
+        
+        //Function cua Cuong
+        wxLogMessage("This word has been removed!");
+        word->Clear();
+        pronounciation->Clear();
+        definition->Clear();
+    });
+
+    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    
+    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
+    
+    m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
+        static bool notFavorite = true;
+        wxBitmap statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
+        m_favourite->SetBitmapLabel(statusBitmap);
+        m_favourite->SetSize(wxSize(30,30));
+        panel->Layout();
+        notFavorite = !notFavorite;
+    });
+    
+    sizer3->Add(m_remove,0);
     
     sizer3->Add(m_edit,0);
     sizer3->Add(m_favourite, 0, wxLEFT, 5);
