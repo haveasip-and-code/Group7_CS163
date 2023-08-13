@@ -682,10 +682,10 @@ void MyFrame::ShowGuessWordGame()
     answerButton4->SetLabel("A car");
 
     // Kết nối sự kiện chọn đáp án
-    answerButton1->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
-    answerButton2->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
-    answerButton3->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
-    answerButton4->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
+    answerButton1->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
+    answerButton2->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
+    answerButton3->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
+    answerButton4->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
 }
 
 void MyFrame::ShowGuessDefinitionGame()
@@ -697,10 +697,10 @@ void MyFrame::ShowGuessDefinitionGame()
     answerButton4->SetLabel("Watermelon");
 
     // Kết nối sự kiện chọn đáp án
-    answerButton1->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
-    answerButton2->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
-    answerButton3->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
-    answerButton4->Bind(wxEVT_BUTTON, &DictionaryGame::OnAnswerSelected, parent);
+    answerButton1->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
+    answerButton2->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
+    answerButton3->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
+    answerButton4->Bind(wxEVT_BUTTON, &MyFrame::OnAnswerSelected, parent);
 }
 
 void MyFrame::OnAnswerSelected(wxCommandEvent& event)

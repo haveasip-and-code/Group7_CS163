@@ -83,6 +83,9 @@ private:
     wxButton* answerButton2;
     wxButton* answerButton3;
     wxButton* answerButton4;
+    wxButton* refreshButton;
+    wxStaticText* scoreText;
+    wxBookCtrlBase* parent;
 
     wxBitmapButton* m_reset;
     wxBitmapButton* m_logout;
