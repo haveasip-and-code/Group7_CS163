@@ -422,6 +422,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         mainSizer->Add(gamePanel, 2, wxEXPAND);
 
         panel->SetSizer(mainSizer);
+        panel->SetSizer(gameSizer);
 
         guessWordbutton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
             {
