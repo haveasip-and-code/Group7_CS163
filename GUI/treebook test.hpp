@@ -31,14 +31,6 @@ public:
     void OnBookCtrl(wxBookCtrlBaseEvent& event);
     void OnShowImages(wxCommandEvent& event);
 
-    void OnRefreshButtonClicked(wxCommandEvent& event);
-    void CalculateScore();
-    void ShowGuessWordGame();
-    void ShowGuessDefinitionGame();
-    void OnAnswerSelected(wxCommandEvent& event);
-    void OnGuessWordButtonClicked(wxCommandEvent& event);
-    void OnGuessDefinitionButtonClicked(wxCommandEvent& event);
-    void SelectGameMode(const wxString& mode);
     enum GameMode {
         GuessWord,
         GuessDefinition
