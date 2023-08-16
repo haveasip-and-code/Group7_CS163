@@ -97,10 +97,18 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
     
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
-    wxBitmap edit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap unedit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap edit_ico = wxBitmap("edit_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition);
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
+            static bool notEdit = true;
+            wxBitmap statusBitmap = notEdit ? edit_ico : unedit_ico;
+            m_edit->SetBitmapLabel(statusBitmap);
+            m_edit->SetSize(wxSize(30, 30));
+            panel->Layout();
+            notEdit = !notEdit;
+
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
         
         edit_dlg.SetSize(wxSize(300,200));
@@ -173,6 +181,13 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
 
+    wxBoxSizer* sizer6 = new wxBoxSizer(wxHORIZONTAL);
+
+    wxBitmap unDataSet_ico = wxBitmap("DataSet_unchoose.png", wxBITMAP_TYPE_ANY);
+    wxBitmap DataSet_ico = wxBitmap("DataSet_choose.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(50, 50));
+
+
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
 
     wxArrayString dataSets;
@@ -186,22 +201,40 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     chooseDataSet->Set(dataSets);
 
     chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
+        static bool notDataSet = true;
+        wxBitmap statusBitmap = notDataSet ? DataSet_ico : unDataSet_ico;
+        m_dataset->SetBitmapLabel(statusBitmap);
+        m_dataset->SetSize(wxSize(30, 30));
+        panel->Layout();
+        notDataSet = !notDataSet;
+        
         wxString selectedText = chooseDataSet->GetStringSelection();
         wxLogMessage("Selected: %s", selectedText);
     });
     
-    wxBitmap wotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY, wotd_ico , wxDefaultPosition, wxSize(50,50));
-    
+    wxBitmap unwotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap wotd_ico = wxBitmap("wotd_clicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY, unwotd_ico, wxDefaultPosition, wxSize(50, 50));
+
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
+            static bool notWotd = true;
+            wxBitmap statusBitmap = notWotd ? wotd_ico : unwotd_ico;
+            m_wordOfDay->SetBitmapLabel(statusBitmap);
+            m_wordOfDay->SetSize(wxSize(50, 50));
+            panel->Layout();
+            notWotd = !notWotd;
+
         word->SetValue("Word Of The Day");
         pronounciation->SetValue("pronounce");
         definition->SetValue("Definition of the word");
     });
     
     sizer5->Add(m_wordOfDay, 0);
-    sizer5->Add(chooseDataSet,0,wxBOTTOM,5);
+    sizer5->AddSpacer(5);
+
+    sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
+    sizer6->Add(m_dataset, 0, wxRIGHT, 5);
     
     sizer4->Add(sizer2,0);
     sizer4->AddSpacer(300);
@@ -211,6 +244,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     all_sizer->Add(sizer4,0);
     all_sizer->Add(definition,0);
     all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
+    all_sizer->Add(sizer6, 0, wxALIGN_RIGHT);
+
     
     panel->SetSizer(all_sizer);
     
