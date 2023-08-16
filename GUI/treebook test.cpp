@@ -31,6 +31,8 @@
 //     }
 // };
 
+int cmd;
+
 string curWord;
 string curDef;
 
@@ -53,6 +55,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     curDataSet=1;
     setStartSlot(getCurrentStartSlot());
     data.loadFromFile(getPath(1));
+
+    debug("This go here");
 
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
@@ -101,6 +105,12 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
                        {
         wxString searchText = searchBar->GetValue();
         wxMessageBox("Searching for: " + searchText);
+        //wxMessageBox(getPath(1));
+        string tmp=string(searchText.mb_str());
+        pair<string,string> searchResult=getWordDef(data,tmp);
+        wxMessageBox(curWord+" "+curDef);
+        curDef=searchResult.second;
+        curWord=searchResult.first;
     });
 
     sizer->Add(chooseMode, 0, wxLEFT);
@@ -111,10 +121,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     word->SetHint("Word");
 
-    wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
-    pronounciation->SetHint("Pronunciation");
+    //wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
+    //pronounciation->SetHint("Pronunciation");
     sizer2->Add(word,0, wxLEFT, 30);
-    sizer2->Add(pronounciation,0, wxLEFT, 10);
+    //sizer2->Add(pronounciation,0, wxLEFT, 10);
 
     wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
 
@@ -162,7 +172,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));
 
     wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER);
-    definition->SetHint("Definition");
+    definition->SetHint("definition");
 
     sizer3->Add(m_edit,0);
     sizer3->Add(m_favourite, 0, wxLEFT, 5);
@@ -183,7 +193,6 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseDataSet->GetStringSelection();
-        int cmd;
         if (selectedText=="Eng - Vie") cmd=1;
         else if (selectedText=="Vie - Eng") cmd=2;
         else if (selectedText=="Eng - Eng") cmd=3;
@@ -195,6 +204,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         setStartSlot(getCurrentStartSlot());
         data.loadFromFile(getPath(cmd));
         wxLogMessage("Selected: %s", selectedText);
+        wxLogMessage("Load data set "+selectedText);
     });
 
     wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY,wxArtProvider::GetBitmap(wxART_NEW) , wxDefaultPosition, wxSize(30,30));
@@ -202,7 +212,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         word->SetValue("Word Of The Day");
-        pronounciation->SetValue("pronounce");
+        //pronounciation->SetValue("pronounce");
         definition->SetValue("Definition of the word");
     });
 
@@ -306,10 +316,6 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
         wxString searchText = searchBar->GetValue();
         wxMessageBox("Searching for: " + searchText);
-        string tmp=string(searchText.mb_str());
-        pair<string,string> searchResult=getWordDef(data,tmp);
-        curDef=searchResult.second;
-        curWord=searchResult.first;
     });
 
     sizer1->Add(searchBar, 0, wxLEFT, 5);

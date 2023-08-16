@@ -195,6 +195,7 @@ void TST::loadFromFile(ifstream& in) {
 }
 
 void TST::loadFromFile(string path) {
+    debug(path);
     pRoot->loadFromFile(path);
 }
 
