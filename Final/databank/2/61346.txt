@@ -1,0 +1,3 @@
+veal
+	@veal /vi:l/\n*  danh từ\n- thịt bê
+

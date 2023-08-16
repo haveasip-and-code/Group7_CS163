@@ -1,0 +1,3 @@
+glib
+	@glib /glib/\n*  tính từ\n- lém lỉnh, liến thoắng\n=a glib talker+ người nói chuyện liến thoắng\n- trơn láng (bề mặt...)\n- dễ dàng, nhẹ nhàng, thoải mái (động tác)
+

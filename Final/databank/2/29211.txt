@@ -1,0 +1,3 @@
+intercept
+	@intercept\n- cắt ra, phân ra; chắn // đoạn thẳng bị chặn trên hệ trục toạ độ
+

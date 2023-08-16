@@ -7,6 +7,14 @@
 
 #include "treebook test.hpp"
 #include "Form Login.hpp"
+#include "Form Login.hpp"
+#include "core.h"
+#include "prototype.h"
+#include "metadata.h"
+#include "trie.h"
+#include "databankManager.h"
+#include "generalLib.h"
+#include "debugCore.h"
 
 // class displayList : public wxPanel {
 // public:

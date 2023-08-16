@@ -1,0 +1,3 @@
+substate
+	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-phân trạng thái\n-trạng thái con
+

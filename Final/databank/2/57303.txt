@@ -1,0 +1,3 @@
+trainload
+	@trainload\n* danh từ\n- trọng lượng đoàn tàu
+

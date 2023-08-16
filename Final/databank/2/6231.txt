@@ -1,0 +1,3 @@
+bondable
+	@bondable\n- xem bond
+

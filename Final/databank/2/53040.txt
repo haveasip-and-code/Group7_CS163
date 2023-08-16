@@ -1,0 +1,3 @@
+startup
+	@startup\n- khởi động, ban đầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khởi ngay
+

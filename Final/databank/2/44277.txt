@@ -1,0 +1,3 @@
+protocol
+	@protocol /protocol/\n*  danh từ\n- nghi thức ngoại giao, lễ tân\n- (the protocol) vụ lễ tân (của bộ ngoại giao)\n- nghị định thư\n@Chuyên ngành kinh tế\n-biên bản hội nghị\n-hiệp định thư\n-nghị định thư\n-nghi lễ\n-nghi thức\n-nghi thức ngoại giao\n-thư nghị định\n@Chuyên ngành kỹ thuật\n-biên bản\n-định chuẩn\n-định ước\n-giao thức\n-lệnh\n-nhật ký\n-quy ước\n@Lĩnh vực: toán & tin\n-bản ghi viết\n-chỉ lệnh\n@Lĩnh vực: y học\n-bản tường thuật
+
