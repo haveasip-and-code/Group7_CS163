@@ -1,0 +1,3 @@
+regressor
+	@regressor\n- (thống kê) biến hồi quy độc lập
+

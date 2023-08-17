@@ -1,0 +1,3 @@
+printout
+	@printout\n* danh từ\n- dữ liệu in ra từ máy tính, máy fax\n@Chuyên ngành kinh tế\n-bản in từ máy điện báo chữ\n-bản in từ máy vi tính\n@Chuyên ngành kỹ thuật\n-bản in\n-bản in ra\n-bản sao cứng
+

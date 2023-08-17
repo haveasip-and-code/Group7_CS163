@@ -1,0 +1,3 @@
+lowercase
+	@lowercase\n- chữ thường
+

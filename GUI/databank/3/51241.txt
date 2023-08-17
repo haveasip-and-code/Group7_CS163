@@ -1,0 +1,3 @@
+slope
+	@slope\n- độ dốc, độ nghiêng\n- s. of a curve at a point độ dốc của một đường cong tại một điểm\n- s. of a straight line [hệ số góc, độ dốc] của đường thẳng\n- asymptotic s. độ nghiêng tiệm cận\n- equilibrium s. độ dốc cân bằng\n- natural s. độ dốc tự nhiên
+

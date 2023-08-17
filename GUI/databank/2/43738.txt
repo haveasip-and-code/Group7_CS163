@@ -1,0 +1,3 @@
+probe
+	@probe /probe/\n*  danh từ\n- cái thông, cái que thăm (để dò vết thương...)\n- (vật lý) máy dò, cái dò, cực dò\n=sound probe+ máy dò âm\n=electric probe+ cực dò điện\n- (từ Mỹ,nghĩa Mỹ) sự thăm dò, sự điều tra\n*  ngoại động từ\n- dò (vết thương...) bằng que thăm\n- thăm dò, điều tra\n@Chuyên ngành kỹ thuật\n-bộ cảm biến\n-cái dò\n-đầu dò\n-đầu đo\n-đầu đọc\n-mẫu thử\n-máy dò\n-máy thăm dò\n-máy thử\n-que thăm\n-sự điều tra\n-sự dò\n-sự thăm dò\n-sự thí nghiệm\n-thăm dò\n@Lĩnh vực: ô tô\n-cái que đo\n@Lĩnh vực: cơ khí & công trình\n-cái thăm\n-máy thăm\n@Lĩnh vực: xây dựng\n-dụng cụ dò\n@Lĩnh vực: điện tử & viễn thông\n-máy thám trắc\n@Lĩnh vực: điện\n-que thử
+

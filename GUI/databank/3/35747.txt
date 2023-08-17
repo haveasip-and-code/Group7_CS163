@@ -1,0 +1,3 @@
+motherboard
+	@motherboard\n- bo mạch chủ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bảng mạch chính\n@Lĩnh vực: điện tử & viễn thông\n-bảng mạch mẹ
+
