@@ -113,7 +113,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         string tmp=string(searchText.mb_str());
         //string testStr="make";
         //cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
-        pair<string,string> searchResult=getWordDef(data,tmp);
+        pair<string,string> searchResult=getWordDefAlways(data,tmp);
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
         cout<<curDef<<' '<<curWord<<'\n';

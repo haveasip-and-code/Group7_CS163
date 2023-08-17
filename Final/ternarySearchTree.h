@@ -25,6 +25,9 @@ struct TSTNode {
 
     TSTNode* get(string &cur,int idx);
     TSTNode* get(string &cur);
+    TSTNode* getAlways(string& cur);
+    TSTNode* getAlways(string& cur,int idx);
+    TSTNode* getAlwaysDFS();
 
     TSTNode* insert(string &cur);
     TSTNode* insert(string &cur,int idx);
@@ -46,6 +49,8 @@ struct TST {
 
     TSTNode* get(string &cur,int idx);
     TSTNode* get(string &cur);
+    TSTNode* getAlways(string &cur,int idx);
+    TSTNode* getAlways(string &cur);
 
     TSTNode* insert(string &cur);
     TSTNode* insert(string &cur,int idx);

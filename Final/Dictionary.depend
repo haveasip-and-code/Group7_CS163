@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1691874399 source:c:\users\lecuo\documents\github\group7_cs163\final\core.cpp
+1692257061 source:c:\users\lecuo\documents\github\group7_cs163\final\core.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"core.h"
@@ -9,7 +9,7 @@
 	"timeModule.h"
 	"flagging.h"
 
-1691874399 c:\users\lecuo\documents\github\group7_cs163\final\core.h
+1692257173 c:\users\lecuo\documents\github\group7_cs163\final\core.h
 	<bits/stdc++.h>
 	"trie.h"
 	"ternarySearchTree.h"
@@ -17,7 +17,7 @@
 1691874399 c:\users\lecuo\documents\github\group7_cs163\final\trie.h
 	<bits/stdc++.h>
 
-1691874399 c:\users\lecuo\documents\github\group7_cs163\final\ternarysearchtree.h
+1692257476 c:\users\lecuo\documents\github\group7_cs163\final\ternarysearchtree.h
 	<bits/stdc++.h>
 
 1691874399 c:\users\lecuo\documents\github\group7_cs163\final\generallib.h
@@ -3133,7 +3133,7 @@
 1691874399 c:\users\lecuo\documents\github\group7_cs163\final\globalvariablecontroller.h
 	<bits/stdc++.h>
 
-1692174327 source:c:\users\lecuo\documents\github\group7_cs163\final\globalvariablecontroller.cpp
+1692257107 source:c:\users\lecuo\documents\github\group7_cs163\final\globalvariablecontroller.cpp
 	<bits/stdc++.h>
 	"globalVariableController.h"
 	"storage.h"
@@ -3206,7 +3206,7 @@
 	"folderCore.h"
 	"storage.h"
 
-1692242031 source:c:\users\lecuo\documents\github\group7_cs163\final\ternarysearchtree.cpp
+1692257476 source:c:\users\lecuo\documents\github\group7_cs163\final\ternarysearchtree.cpp
 	<bits/stdc++.h>
 	"ternarySearchTree.h"
 	"debugCore.h"
@@ -3215,7 +3215,7 @@
 	<bits/stdc++.h>
 	"timeModule.h"
 
-1692255124 source:c:\users\lecuo\documents\github\group7_cs163\final\treebook test.cpp
+1692257173 source:c:\users\lecuo\documents\github\group7_cs163\final\treebook test.cpp
 	"treebook test.hpp"
 	"Form Login.hpp"
 	"Form Login.hpp"

@@ -5,6 +5,9 @@
 
 int cnt;
 
+TSTNode* nullTSTNode=new TSTNode();
+
+
 TSTNode* TSTNode::insert(string &cur,int idx) {
     if (idx==cur.length()) {
         return this;
@@ -156,8 +159,84 @@ TSTNode* TSTNode::get(string &cur,int idx) {
     }
 }
 
+TSTNode* TSTNode::getAlwaysDFS() {
+    cout<<this->key<<'\n';
+    if (this->val!=0) return this;
+    TSTNode* kq;
+    if (mid) {
+        kq=mid->getAlwaysDFS();
+        if (kq->val!=0) return kq;
+    }
+    if (lo) {
+        kq=lo->getAlwaysDFS();
+        if (kq->val!=0) return kq;
+    }
+    if (hi) {
+        kq=hi->getAlwaysDFS();
+        if (kq->val!=0) return kq;
+    }
+}
+
+TSTNode* TSTNode::getAlways(string &cur,int idx) {
+    TSTNode* kq=nullptr;
+    cout<<cur<<' '<<this->key<<'\n';
+    if (idx==cur.length()) {
+        if (this->val!=0) {
+            return this;
+        }
+        else {
+            return this->getAlwaysDFS();
+        }
+    }
+    if (cur[idx]<key) {
+        if (lo) {
+            kq=lo->getAlways(cur,idx);
+        }
+        else {
+            kq=nullTSTNode;
+        }
+    }
+    else if (cur[idx]>key) {
+        if (hi) {
+            kq=hi->getAlways(cur,idx);
+        }
+        else {
+            kq=nullTSTNode;
+        }
+    }
+    else {
+        if (mid) {
+            //cout<<"->\n";
+            kq=mid->getAlways(cur,idx+1);
+        }
+        else {
+            kq=nullTSTNode;
+        }
+    }
+    if (kq) if (kq->val!=0) return kq;
+    if (lo) {
+        kq=lo->getAlways(cur,idx);
+        if (kq->val!=0) return kq;
+    }
+    if (hi) {
+        kq=hi->getAlways(cur,idx);
+        if (kq->val!=0) return kq;
+    }
+    if (mid) {
+        kq=mid->getAlways(cur,idx);
+        if (kq->val!=0) return kq;
+    }
+    return this->getAlwaysDFS();
+}
+
 TSTNode* TSTNode::get(string &cur) {
     return get(cur,0);
+    //cout<<'\n';
+}
+
+
+TSTNode* TSTNode::getAlways(string &cur) {
+    return getAlways(cur,0);
     //cout<<'\n';
 }
 
