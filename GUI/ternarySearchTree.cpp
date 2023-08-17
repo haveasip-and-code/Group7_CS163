@@ -3,6 +3,11 @@
 #include "ternarySearchTree.h"
 #include "debugCore.h"
 
+int cnt;
+
+TSTNode* nullTSTNode=new TSTNode();
+
+
 TSTNode* TSTNode::insert(string &cur,int idx) {
     if (idx==cur.length()) {
         return this;
@@ -80,6 +85,8 @@ void TSTNode::loadFromFile(ifstream &in) {
     string state;
     in>>state;
     char tmp;
+    //cnt++;
+    //cout<<cnt<<' '<<state<<'\n';
     if (state[0]=='1') {
         in>>tmp;
         lo=new TSTNode(tmp);
@@ -114,9 +121,11 @@ void TSTNode::loadFromFile(ifstream &in) {
 
 void TSTNode::loadFromFile(string path) {
     ifstream tmpStream;
+    debug(path);
     tmpStream.open(path+"/TST.txt");
     debug("Load from: "+path+"/TST.txt");
     loadFromFile(tmpStream);
+    cout<<"-----------------\n";
     tmpStream.close();
 }
 
@@ -150,8 +159,84 @@ TSTNode* TSTNode::get(string &cur,int idx) {
     }
 }
 
+TSTNode* TSTNode::getAlwaysDFS() {
+    cout<<this->key<<'\n';
+    if (this->val!=0) return this;
+    TSTNode* kq;
+    if (mid) {
+        kq=mid->getAlwaysDFS();
+        if (kq->val!=0) return kq;
+    }
+    if (lo) {
+        kq=lo->getAlwaysDFS();
+        if (kq->val!=0) return kq;
+    }
+    if (hi) {
+        kq=hi->getAlwaysDFS();
+        if (kq->val!=0) return kq;
+    }
+}
+
+TSTNode* TSTNode::getAlways(string &cur,int idx) {
+    TSTNode* kq=nullptr;
+    cout<<cur<<' '<<this->key<<'\n';
+    if (idx==cur.length()) {
+        if (this->val!=0) {
+            return this;
+        }
+        else {
+            return this->getAlwaysDFS();
+        }
+    }
+    if (cur[idx]<key) {
+        if (lo) {
+            kq=lo->getAlways(cur,idx);
+        }
+        else {
+            kq=nullTSTNode;
+        }
+    }
+    else if (cur[idx]>key) {
+        if (hi) {
+            kq=hi->getAlways(cur,idx);
+        }
+        else {
+            kq=nullTSTNode;
+        }
+    }
+    else {
+        if (mid) {
+            //cout<<"->\n";
+            kq=mid->getAlways(cur,idx+1);
+        }
+        else {
+            kq=nullTSTNode;
+        }
+    }
+    if (kq) if (kq->val!=0) return kq;
+    if (lo) {
+        kq=lo->getAlways(cur,idx);
+        if (kq->val!=0) return kq;
+    }
+    if (hi) {
+        kq=hi->getAlways(cur,idx);
+        if (kq->val!=0) return kq;
+    }
+    if (mid) {
+        kq=mid->getAlways(cur,idx);
+        if (kq->val!=0) return kq;
+    }
+    return this->getAlwaysDFS();
+}
+
 TSTNode* TSTNode::get(string &cur) {
     return get(cur,0);
+    //cout<<'\n';
+}
+
+
+TSTNode* TSTNode::getAlways(string &cur) {
+    return getAlways(cur,0);
     //cout<<'\n';
 }
 
@@ -196,6 +281,7 @@ void TST::loadFromFile(ifstream& in) {
 
 void TST::loadFromFile(string path) {
     debug(path);
+    //cout<<path;
     pRoot->loadFromFile(path);
 }
 

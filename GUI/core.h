@@ -14,6 +14,7 @@ string intToString(int _number);
 pair<string,string> getWordDef(trieNode* dataSet,string &cur);
 pair<string,string> getWordDef(TSTNode* dataSet,string &cur);
 pair<string,string> getWordDef(TST dataSet,string &cur);
+pair<string,string> getWordDefAlways(TST dataSet,string &cur);
 pair<string,string> getRandomWord(TST& dataSet);
 void addWord(trieNode* dataSet,string &cur,string &definition);
 void addWord(TSTNode* dataSet,string &cur,string &definition);

@@ -14,9 +14,10 @@ extern int curDataSet;
 extern vector<pair<string,string>> favouriteList;
 extern vector<pair<string,string>> historyList;
 
+extern TST data;
+
 int prototypemode() {
     loadMetaData();
-    TST data=TST();
     historyList.clear();
     favouriteList.clear();
     loadFav();

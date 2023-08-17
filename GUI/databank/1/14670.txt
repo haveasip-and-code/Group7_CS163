@@ -1,0 +1,3 @@
+derivation
+	@derivation /,deri'veiʃn/\n*  danh từ\n- sự bắt nguồn, nguồn gốc; sự tìm ra nguồn gốc (một từ); sự nêu lên nguồn gốc (một từ)\n=the derivation of a word+ nguồn gốc của một từ\n- sự rút ra, sự thu được (từ một nguồn)\n- (hoá học) sự điều chế dẫn xuất\n- (toán học) phép lấy đạo hàm\n- (thủy lợi) đường dẫn nước\n- thuyết tiến hoá\n@Chuyên ngành kinh tế\n-phái sinh\n-sự dẫn xuất\n@Chuyên ngành kỹ thuật\n-dẫn xuất\n-đạo hàm\n-đường dẫn nước\n-kênh dẫn\n-nguồn gốc\n-mạch rẽ\n-sự chuyển dòng\n-sự nối\n-sự rút ra\n-sự suy diễn\n-sự tháo nước\n-suy diễn\n@Lĩnh vực: cơ khí & công trình\n-kênh rẽ\n@Lĩnh vực: toán & tin\n-khởi thủy\n-sự bắt nguồn\n-sự dẫn xuất\n@Lĩnh vực: xây dựng\n-sự chảy lệch
+

@@ -15,7 +15,7 @@ string databankDir="databank";
 string metaDataPath="coreData/metaData.txt";
 
 bool writeFlag=true;
-bool debugFlag=false;
+bool debugFlag=true;
 
 string historyPath="coreData/hist.txt";
 string favouritePath="coreData/fav.txt";

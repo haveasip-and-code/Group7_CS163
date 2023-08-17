@@ -15,6 +15,7 @@
 #include "databankManager.h"
 #include "generalLib.h"
 #include "debugCore.h"
+#include "handling.h"
 
 // class displayList : public wxPanel {
 // public:
@@ -41,8 +42,8 @@
 
 int cmd;
 
-string curWord;
-string curDef;
+wxString curWord;
+wxString curDef;
 
 extern int dataSetCnt;
 extern int curDataSet;
@@ -52,19 +53,10 @@ extern vector<pair<string,string>> historyList;
 
 extern TST data;
 
+bool isEditable;
+
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
-    historyList.clear();
-    favouriteList.clear();
-    loadFav();
-    loadHistory();
-    srand(time(nullptr));
-
-    curDataSet=1;
-    setStartSlot(getCurrentStartSlot());
-    data.loadFromFile(getPath(1));
-
-    debug("This go here");
 
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
@@ -82,6 +74,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     modeChoices.Add("By definition");
     chooseMode->Set(modeChoices);
     chooseMode->SetFont(myAppFont);
+
+    chooseMode->SetSelection(0);
 
     chooseMode->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseMode->GetStringSelection();
@@ -106,6 +100,16 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
+    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER);
+    word->SetHint("Word");
+
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+    definition->SetHint("definition");
+
+    isEditable=false;
+    word->SetEditable(isEditable);
+    definition->SetEditable(isEditable);
+
     wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
 
     wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
@@ -115,10 +119,16 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxMessageBox("Searching for: " + searchText);
         //wxMessageBox(getPath(1));
         string tmp=string(searchText.mb_str());
-        pair<string,string> searchResult=getWordDef(data,tmp);
-        wxMessageBox(curWord+" "+curDef);
-        curDef=searchResult.second;
-        curWord=searchResult.first;
+        //string testStr="make";
+        //cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
+        pair<string,string> searchResult=getWordDefAlways(data,tmp);
+        curDef=stringToWxString(searchResult.second);
+        curWord=stringToWxString(searchResult.first);
+        cout<<curDef<<' '<<curWord<<'\n';
+        //wxMessageBox(curWord+" "+curDef);
+        //definition->ChangeValue("To hell with wxWidgets");
+        word->ChangeValue(curWord);
+        definition->ChangeValue(curDef);
     });
 
     sizer->Add(chooseMode, 0, wxLEFT);
@@ -126,8 +136,6 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     sizer->Add(searchButton,0, wxLEFT);
 
     wxBoxSizer* sizer2 = new wxBoxSizer(wxHORIZONTAL);
-    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
-    word->SetHint("Word");
 
     //wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     //pronounciation->SetHint("Pronunciation");
@@ -140,6 +148,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_HELP), wxDefaultPosition, wxSize(30,30));
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
+        /*
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
 
         edit_dlg.SetSize(wxSize(300,200));
@@ -174,13 +183,23 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
                 wxMessageBox(wxEmptyString, "Changes saved", wxOK | wxICON_INFORMATION, panel);
             }
         }
+        */
+        word->SetEditable(!isEditable);
+        definition->SetEditable(!isEditable);
+        if (isEditable) {
+            string tmp1,tmp2;
+            tmp1=wxStringToString(word->GetValue());
+            tmp2=wxStringToString(definition->GetValue());
+            addWord(data,tmp1,tmp2);
+            cout<<tmp1<<' '<<tmp2<<' '<<word->GetValue()<<' '<<definition->GetValue()<<'\n';
+        }
+        else {
 
+        }
+        isEditable=!isEditable;
     });
 
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));
-
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER);
-    definition->SetHint("definition");
 
     sizer3->Add(m_edit,0);
     sizer3->Add(m_favourite, 0, wxLEFT, 5);
@@ -198,6 +217,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     dataSets.Add("Eng slangs");
     dataSets.Add("Vie slangs");
     chooseDataSet->Set(dataSets);
+
+    chooseDataSet->SetSelection(0);
 
     chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseDataSet->GetStringSelection();
@@ -219,9 +240,11 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
-        word->SetValue("Word Of The Day");
-        //pronounciation->SetValue("pronounce");
-        definition->SetValue("Definition of the word");
+        pair<string,string> searchResult=getRandomWord(data);
+        curDef=stringToWxString(searchResult.second);
+        curWord=stringToWxString(searchResult.first);
+        word->ChangeValue(curWord);
+        definition->ChangeValue(curDef);
     });
 
     sizer5->Add(m_wordOfDay, 0);
