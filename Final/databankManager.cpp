@@ -93,7 +93,11 @@ pair<string,string> retrieveData(int slot,int key) {
     ifstream tmpStream;
     tmpStream.open(databankDir+"/"+intToString(slot)+"/"+intToString(key)+".txt");
     getline(tmpStream,kq.first);
-    getline(tmpStream,kq.second);
+    string tmp;
+    while (getline(tmpStream,tmp)) {
+        if (kq.second=="") kq.second+=tmp;
+        else kq.second+="\n"+tmp;
+    }
     tmpStream.close();
     if (kq.first==""&&kq.second=="") {
         debug("Can't get definition and word in slot "+intToString(slot)+" with key "+intToString(key)+".");

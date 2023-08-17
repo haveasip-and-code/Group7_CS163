@@ -261,3 +261,106 @@ databank/1
 databank/1
 Load from: databank/1/TST.txt
 This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to add string "try"!!!
+Successful when trying to add string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "a"!!!
+Successful when trying to add string "aa"!!!
+Successful when trying to get definition of string "a"!!!
+Successful when trying to get definition of string "a"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "aback"!!!
+Successful when trying to add string "aback"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "at"!!!
+Successful when trying to add string "at"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "at"!!!
+Successful when trying to get definition of string "etc"!!!
+Successful when trying to add string "etcetera"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to add string "try"!!!
+Successful when trying to get definition of string "tryne"!!!
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "aaaaa"!!!
+Successful when trying to add string "aasvogel"!!!
+Successful when trying to get definition of string "aasvogel"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "yyyy"!!!
+Successful when trying to add string "
+yuppies"!!!
+Successful when trying to add string "
+yuppies"!!!
+Successful when trying to get definition of string "yyyy"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "zzz"!!!
+Successful when trying to add string "
+zymurgy"!!!
+Successful when trying to get definition of string "zzz"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "buy"!!!
+Successful when trying to add string "buy"!!!
+Successful when trying to get definition of string "buy"!!!

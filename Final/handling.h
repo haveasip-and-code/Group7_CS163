@@ -21,6 +21,7 @@ using namespace std;
 
 wxString stringToWxString(string tmp);
 string wxStringToString(wxString tmp);
+wstring wxStringTowString(wxString tmp);
 
 #endif //HANDLING_H
 

@@ -189,7 +189,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             tmp1=wxStringToString(word->GetValue());
             tmp2=wxStringToString(definition->GetValue());
             addWord(data,tmp1,tmp2);
-            cout<<tmp1<<' '<<tmp2<<'\n';
+            cout<<tmp1<<' '<<tmp2<<' '<<word->GetValue()<<' '<<definition->GetValue()<<'\n';
         }
         else {
 
