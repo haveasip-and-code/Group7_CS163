@@ -10,10 +10,11 @@
 #include "generalLib.h"
 #include "debugCore.h"
 #include "initCore.h"
+#include "prototype.h"
 
 bool MainApp::OnInit()
 {
-
+    //prototypemode();
     if ( !wxApp::OnInit() )
         return false;
 

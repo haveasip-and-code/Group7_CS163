@@ -1,0 +1,3 @@
+nuke
+	@nuke\n- Xoá toàn bộ một thư mục hoặc toàn bộ đựa
+

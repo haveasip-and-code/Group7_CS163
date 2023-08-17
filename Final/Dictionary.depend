@@ -3156,7 +3156,7 @@
 1692168974 c:\users\lecuo\documents\github\group7_cs163\final\initcore.h
 	<bits/stdc++.h>
 
-1692169448 source:c:\users\lecuo\documents\github\group7_cs163\final\main.cpp
+1692241994 source:c:\users\lecuo\documents\github\group7_cs163\final\main.cpp
 	"treebook test.hpp"
 	"Main.hpp"
 	"Form Login.hpp"
@@ -3168,6 +3168,7 @@
 	"generalLib.h"
 	"debugCore.h"
 	"initCore.h"
+	"prototype.h"
 
 1691877504 c:\users\lecuo\documents\github\group7_cs163\final\main.hpp
 	<stdio.h>
@@ -3205,7 +3206,7 @@
 	"folderCore.h"
 	"storage.h"
 
-1692178201 source:c:\users\lecuo\documents\github\group7_cs163\final\ternarysearchtree.cpp
+1692242031 source:c:\users\lecuo\documents\github\group7_cs163\final\ternarysearchtree.cpp
 	<bits/stdc++.h>
 	"ternarySearchTree.h"
 	"debugCore.h"
@@ -3214,7 +3215,7 @@
 	<bits/stdc++.h>
 	"timeModule.h"
 
-1692174327 source:c:\users\lecuo\documents\github\group7_cs163\final\treebook test.cpp
+1692255124 source:c:\users\lecuo\documents\github\group7_cs163\final\treebook test.cpp
 	"treebook test.hpp"
 	"Form Login.hpp"
 	"Form Login.hpp"
@@ -3225,6 +3226,7 @@
 	"databankManager.h"
 	"generalLib.h"
 	"debugCore.h"
+	"handling.h"
 
 1691874399 source:c:\users\lecuo\documents\github\group7_cs163\final\trie.cpp
 	<bits/stdc++.h>
@@ -3247,4 +3249,24 @@
 	"ternarySearchTree.h"
 
 1691874399 source:c:\users\lecuo\documents\github\group7_cs163\final\wordprocessor.cpp
+
+1692255191 source:c:\users\lecuo\documents\github\group7_cs163\final\handling.cpp
+	"handling.h"
+
+1692255124 c:\users\lecuo\documents\github\group7_cs163\final\handling.h
+	<bits/stdc++.h>
+	<stdio.h>
+	"wx/wx.h"
+	"wx/aui/auibook.h"
+	"wx/wxprec.h"
+	<wx/combobox.h>
+	"wx/imaglist.h"
+	"wx/artprov.h"
+	"wx/cshelp.h"
+	"wx/utils.h"
+	<wx/srchctrl.h>
+	<wx/bmpbuttn.h>
+	<wx/bitmap.h>
+	<wx/image.h>
+	<wx/string.h>
 

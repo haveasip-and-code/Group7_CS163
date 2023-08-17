@@ -10,3 +10,138 @@ databank/1
 databank/1
 Load from: databank/1/TST.txt
 This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Can't get definition and word in slot 1 with key 0.
+Successful when trying to get definition of string "a"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "love"!!!

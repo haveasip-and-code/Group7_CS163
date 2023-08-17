@@ -1,0 +1,3 @@
+thermistor
+	@Chuyên ngành kỹ thuật\n-điện trở nhiệt\n-nhiệt điện trở\n-nhiệt nhôm\n@Lĩnh vực: đo lường & điều khiển\n-nhiệt kế điện tử\n@Lĩnh vực: điện\n-nhiệt trở bán dẫn
+

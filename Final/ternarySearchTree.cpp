@@ -3,6 +3,8 @@
 #include "ternarySearchTree.h"
 #include "debugCore.h"
 
+int cnt;
+
 TSTNode* TSTNode::insert(string &cur,int idx) {
     if (idx==cur.length()) {
         return this;
@@ -80,6 +82,8 @@ void TSTNode::loadFromFile(ifstream &in) {
     string state;
     in>>state;
     char tmp;
+    //cnt++;
+    //cout<<cnt<<' '<<state<<'\n';
     if (state[0]=='1') {
         in>>tmp;
         lo=new TSTNode(tmp);
@@ -118,6 +122,7 @@ void TSTNode::loadFromFile(string path) {
     tmpStream.open(path+"/TST.txt");
     debug("Load from: "+path+"/TST.txt");
     loadFromFile(tmpStream);
+    cout<<"-----------------\n";
     tmpStream.close();
 }
 

@@ -15,6 +15,7 @@
 #include "databankManager.h"
 #include "generalLib.h"
 #include "debugCore.h"
+#include "handling.h"
 
 // class displayList : public wxPanel {
 // public:
@@ -41,8 +42,8 @@
 
 int cmd;
 
-string curWord;
-string curDef;
+wxString curWord;
+wxString curDef;
 
 extern int dataSetCnt;
 extern int curDataSet;
@@ -95,6 +96,12 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
+    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
+    word->SetHint("Word");
+
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+    //definition->SetHint("definition");
+
     wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
 
     wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
@@ -104,12 +111,16 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxMessageBox("Searching for: " + searchText);
         //wxMessageBox(getPath(1));
         string tmp=string(searchText.mb_str());
-        string testStr="make";
-        cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
+        //string testStr="make";
+        //cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
         pair<string,string> searchResult=getWordDef(data,tmp);
+        curDef=stringToWxString(searchResult.second);
+        curWord=stringToWxString(searchResult.first);
+        cout<<curDef<<' '<<curWord<<'\n';
         wxMessageBox(curWord+" "+curDef);
-        curDef=searchResult.second;
-        curWord=searchResult.first;
+        //definition->ChangeValue("To hell with wxWidgets");
+        word->ChangeValue(curWord);
+        definition->ChangeValue(curDef);
     });
 
     sizer->Add(chooseMode, 0, wxLEFT);
@@ -117,8 +128,6 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     sizer->Add(searchButton,0, wxLEFT);
 
     wxBoxSizer* sizer2 = new wxBoxSizer(wxHORIZONTAL);
-    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
-    word->SetHint("Word");
 
     //wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     //pronounciation->SetHint("Pronunciation");
@@ -169,9 +178,6 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     });
 
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));
-
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER);
-    definition->SetHint("definition");
 
     sizer3->Add(m_edit,0);
     sizer3->Add(m_favourite, 0, wxLEFT, 5);

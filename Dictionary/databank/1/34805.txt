@@ -1,0 +1,3 @@
+midi
+	@midi\n- Một giao thức truyền thông tiêu chuẩn để trao đổi thông tin giữa máy tính và các bộ tổng hợp tín hiệu âm nhạc
+
