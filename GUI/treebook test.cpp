@@ -185,7 +185,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     wxBitmap unDataSet_ico = wxBitmap("DataSet_unchoose.png", wxBITMAP_TYPE_ANY);
     wxBitmap DataSet_ico = wxBitmap("DataSet_choose.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(50, 50));
+    wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
 
 
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
