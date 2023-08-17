@@ -216,6 +216,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     dataSets.Add("Vie slangs");
     chooseDataSet->Set(dataSets);
 
+    chooseDataSet->SetSelection(0);
+
     chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseDataSet->GetStringSelection();
         if (selectedText=="Eng - Vie") cmd=1;
