@@ -167,9 +167,9 @@ string intToString(int _number) {
 
 void setDefinition(string &curWord,int slot,string &definition) {
     if (!writeFlag) return;
-    mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
+    //mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
     ofstream outputLog;
-    outputLog.open(getPath(curDataSet)+"/"+intToString(slot/blcsize)+"/"+intToString(slot)+".txt");
+    outputLog.open(getPath(curDataSet)+"/"+intToString(slot)+".txt");
     outputLog<<curWord<<'\n';
     outputLog<<definition<<'\n';
     outputLog<<'\n';

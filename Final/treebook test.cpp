@@ -53,6 +53,8 @@ extern vector<pair<string,string>> historyList;
 
 extern TST data;
 
+bool isEditable;
+
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
 
@@ -96,11 +98,15 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
-    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
+    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER);
     word->SetHint("Word");
 
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
-    //definition->SetHint("definition");
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+    definition->SetHint("definition");
+
+    isEditable=false;
+    word->SetEditable(isEditable);
+    definition->SetEditable(isEditable);
 
     wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
 
@@ -140,6 +146,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_HELP), wxDefaultPosition, wxSize(30,30));
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
+        /*
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
 
         edit_dlg.SetSize(wxSize(300,200));
@@ -174,7 +181,20 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
                 wxMessageBox(wxEmptyString, "Changes saved", wxOK | wxICON_INFORMATION, panel);
             }
         }
+        */
+        word->SetEditable(!isEditable);
+        definition->SetEditable(!isEditable);
+        if (isEditable) {
+            string tmp1,tmp2;
+            tmp1=wxStringToString(word->GetValue());
+            tmp2=wxStringToString(definition->GetValue());
+            addWord(data,tmp1,tmp2);
+            cout<<tmp1<<' '<<tmp2<<'\n';
+        }
+        else {
 
+        }
+        isEditable=!isEditable;
     });
 
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));

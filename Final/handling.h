@@ -20,6 +20,7 @@ using namespace std;
 #define HANDLING_H
 
 wxString stringToWxString(string tmp);
+string wxStringToString(wxString tmp);
 
 #endif //HANDLING_H
 

@@ -213,3 +213,51 @@ databank/1
 databank/1
 Load from: databank/1/TST.txt
 This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string "insurance"!!!
+Successful when trying to add string "insurance"!!!
+Successful when trying to get definition of string "insurance"!!!
+Successful when trying to add string "insurance"!!!
+Successful when trying to add string "insurance"!!!
+Successful when trying to get definition of string "insurance"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string "hodoscope"!!!
+Successful when trying to get definition of string "hodoscope"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "cyclane"!!!
+Successful when trying to add string "cyh"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
