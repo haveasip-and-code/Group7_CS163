@@ -117,7 +117,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
         cout<<curDef<<' '<<curWord<<'\n';
-        wxMessageBox(curWord+" "+curDef);
+        //wxMessageBox(curWord+" "+curDef);
         //definition->ChangeValue("To hell with wxWidgets");
         word->ChangeValue(curWord);
         definition->ChangeValue(curDef);
@@ -216,9 +216,11 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
-        word->SetValue("Word Of The Day");
-        //pronounciation->SetValue("pronounce");
-        definition->SetValue("Definition of the word");
+        pair<string,string> searchResult=getRandomWord(data);
+        curDef=stringToWxString(searchResult.second);
+        curWord=stringToWxString(searchResult.first);
+        word->ChangeValue(curWord);
+        definition->ChangeValue(curDef);
     });
 
     sizer5->Add(m_wordOfDay, 0);
