@@ -1,0 +1,3 @@
+binit
+	@binit\n- (Tech) cơ số hai; đơn vị nhị phân
+

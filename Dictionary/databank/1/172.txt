@@ -1,0 +1,3 @@
+abridger
+	@abridger\n- xem abridge
+

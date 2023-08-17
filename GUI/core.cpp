@@ -87,8 +87,30 @@ pair<string,string> getWordDef(TSTNode* dataSet,string &cur) {
     }
 }
 
+pair<string,string> getWordDefAlways(TSTNode* dataSet,string &cur) {
+    TSTNode* tmp=dataSet->getAlways(cur);
+    pair<string,string> kq;
+    if (!tmp) {
+        //Something is wrong here.
+        debug("Failure when trying to get definition of string \""+cur+"\": Either a exception or the word haven't been added.");
+        kq.first=cur;
+        kq.second="A definition have not been set for this word.";
+        return kq;
+    }
+    else {
+        kq=retrieveData(curDataSet,tmp->val);
+        debug("Successful when trying to get definition of string \""+cur+"\"!!!");
+        return kq;
+    }
+}
+
+
 pair<string,string> getWordDef(TST dataSet,string &cur) {
     return getWordDef(dataSet.pRoot,cur);
+}
+
+pair<string,string> getWordDefAlways(TST dataSet,string &cur) {
+    return getWordDefAlways(dataSet.pRoot,cur);
 }
 
 string decode(string st) {
@@ -145,9 +167,9 @@ string intToString(int _number) {
 
 void setDefinition(string &curWord,int slot,string &definition) {
     if (!writeFlag) return;
-    mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
+    //mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
     ofstream outputLog;
-    outputLog.open(getPath(curDataSet)+"/"+intToString(slot/blcsize)+"/"+intToString(slot)+".txt");
+    outputLog.open(getPath(curDataSet)+"/"+intToString(slot)+".txt");
     outputLog<<curWord<<'\n';
     outputLog<<definition<<'\n';
     outputLog<<'\n';

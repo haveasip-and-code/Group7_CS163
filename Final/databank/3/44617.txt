@@ -1,0 +1,3 @@
+pug
+	@pug /pʌg/\n*  danh từ\n- (động vật học) (như) pug-dog\n- (như) pug-nose\n- (từ lóng),  (viết tắt) của pugilist\n- đất sét trộn (để làm gạch...)\n*  ngoại động từ\n- nhào, trộn (đất sét)\n- bít, trát (sàn, tường...) bằng đất sét trộn\n*  danh từ\n- vết chân (thú săn)\n*  ngoại động từ\n- theo dõi vết chân (thú săn)\n@Chuyên ngành kỹ thuật\n-đất sét trộn\n-nhào\n@Lĩnh vực: hóa học & vật liệu\n-bít (bằng đất sét)\n-đất sét nhào\n-sét rìa mạch\n@Lĩnh vực: xây dựng\n-sự nhào đất sét\n@Lĩnh vực: cơ khí & công trình\n-sự trộn đất sét
+

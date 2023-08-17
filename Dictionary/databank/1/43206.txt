@@ -1,0 +1,3 @@
+preheater
+	@preheater\n- xem preheat\n@Chuyên ngành kinh tế\n-ngăn đun nóng sơ bộ\n-thiết bị đun nóng sơ bộ\n@Chuyên ngành kỹ thuật\n-bộ sấy sơ bộ\n-thiết bị nung\n@Lĩnh vực: điện\n-bộ hâm nóng trước\n-bộ tiền gia nhiệt\n@Lĩnh vực: ô tô\n-sự làm nóng trước (động cơ đơizen)\n@Lĩnh vực: xây dựng\n-thiết bị làm\n-thiết bị nóng\n@Lĩnh vực: hóa học & vật liệu\n-thiết bị làm nóng trước (lọc dầu)
+

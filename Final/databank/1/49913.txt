@@ -1,0 +1,3 @@
+sequencer
+	@sequencer\n* danh từ\n- (tin học) bộ sắp xếp dãy\n@Chuyên ngành kỹ thuật\n-bộ sắp xếp dãy\n-bộ xếp thành dãy\n@Lĩnh vực: toán & tin\n-automat lập trình, bộ sắp xếp dãy\n-bộ sắp thứ tự
+

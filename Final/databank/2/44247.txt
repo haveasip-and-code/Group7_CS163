@@ -1,0 +1,3 @@
+protector
+	@protector /protector/\n*  danh từ\n- người bảo vệ, người bảo hộ, người che chở\n- vật bảo vệ, vật bảo hộ, vật che chở\n- dụng cụ bảo hộ lao động\n- (sử học) quan bảo quốc, quan nhiếp chính\n@Chuyên ngành kỹ thuật\n-dụng cụ bảo vệ\n-lớp bảo vệ\n@Lĩnh vực: xây dựng\n-hiệp sĩ\n@Lĩnh vực: cơ khí & công trình\n-tấm bảo vệ (bộ phận quay nằm ngoài máy)\n@Lĩnh vực: điện lạnh\n-thiết bị bảo vệ (tránh điện áp hoặc dòng cao)
+

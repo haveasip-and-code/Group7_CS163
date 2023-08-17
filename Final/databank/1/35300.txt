@@ -1,0 +1,3 @@
+model
+	@model\n- mô hình; hình mẫu\n- m. of calculation sơ đồ tính\n- m. of economy mô hình kinh tế\n- deformable m. mô hình biến dạng được\n- experomental m. (máy tính) mẫu thí nghiệm\n- geometric(al) m. (máy tính) mô hình hình học\n- iconic m. mô hình lặp lại đúng đối tượng\n- pilot m. mô hình thí nghiệm\n- production m. (toán kinh tế) mô hình sản xuất\n- table m. (máy tính) mô hình để bàn\n- urn m. (thống kê) mô hình bình
+

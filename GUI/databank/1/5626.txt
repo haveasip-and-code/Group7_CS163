@@ -1,0 +1,3 @@
+bios
+	@bios\n- hệ vào/ra cơ sở\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hệ BIOS
+

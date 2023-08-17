@@ -1,0 +1,3 @@
+upload
+	@upload\n- tải lên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nạp lên\n-tải ra
+

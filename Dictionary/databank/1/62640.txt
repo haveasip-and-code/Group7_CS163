@@ -1,0 +1,3 @@
+weekday
+	@weekday\n* danh từ\n- ngày thường trong tuần (bất cứ ngày nào trừ ngày chủ nhật)\n@Chuyên ngành kinh tế\n-ngày (thường) trong tuần\n-ngày mở cửa (không kể ngày chủ nhật)
+

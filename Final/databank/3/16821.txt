@@ -1,0 +1,3 @@
+drivable
+	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-có thể chạy
+

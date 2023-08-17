@@ -1,0 +1,3 @@
+timeout
+	@timeout\n- thời gian trễ tạm ngưng\n@Chuyên ngành kinh tế\n-thời gian chờ đợi khi máy tính đang vận hành
+

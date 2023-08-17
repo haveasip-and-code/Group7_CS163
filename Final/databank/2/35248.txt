@@ -1,0 +1,3 @@
+mitered
+	@Chuyên ngành kỹ thuật\n-nghiêng 45o\n-sự vát 45 độ
+

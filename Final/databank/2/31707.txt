@@ -1,0 +1,3 @@
+layered
+	@Chuyên ngành kinh tế\n-lớp\n@Chuyên ngành kỹ thuật\n-phân cấp\n-phân tầng\n-phân vỉa\n@Chuyên ngành kỹ thuật\n-phân cấp\n-phân tầng\n-phân vỉa
+

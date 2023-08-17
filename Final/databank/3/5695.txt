@@ -1,0 +1,3 @@
+bison
+	@bison /'baisn/\n*  danh từ\n- bò rừng bizon
+

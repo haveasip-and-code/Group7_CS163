@@ -1,0 +1,3 @@
+deacidify
+	@deacidify\n* ngoại động từ\n- khử axit
+

@@ -1,0 +1,3 @@
+outlier
+	@outlier\n- (thống kê) giá trị ngoại lệ
+

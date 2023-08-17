@@ -1,0 +1,3 @@
+preselect
+	@preselect\n* ngoại động từ\n- chọn trước
+

@@ -1,0 +1,3 @@
+precancel
+	@precancel\n* ngoại động từ\n- xoá bỏ trước khi sử dụng
+

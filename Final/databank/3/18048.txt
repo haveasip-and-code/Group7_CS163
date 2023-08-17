@@ -1,0 +1,3 @@
+empties
+	@Chuyên ngành kinh tế\n-chai không\n-thùng không\n-vỏ không\n-xe tải không\n@Chuyên ngành kỹ thuật\n-bao không\n-vỏ không\n@Chuyên ngành kỹ thuật\n-bao không\n-vỏ không
+

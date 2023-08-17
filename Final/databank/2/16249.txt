@@ -1,0 +1,3 @@
+divergence
+	@divergence\n- sự phân kỳ; tính phân kỳ\n- d. of a series (giải tích) phân kỳ một chuỗi\n- d. of a tensor tính phân kỳ của một tenxơ\n- d. of a vector function tính phân kỳ của một hàm vectơ\n- average d. sự phân kỳ trung bình\n- uniform d. sự phân kỳ đều
+

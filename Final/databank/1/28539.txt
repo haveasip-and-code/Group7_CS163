@@ -1,0 +1,3 @@
+information
+	@information\n- (điều khiển học) thông tin, tin tức\n- alphanumerical i. thông tin chữ số\n- ancillary i. thông tin bổ sung\n- average i. thông tin trung bình\n- interblock i. thông tin giữa các khối\n- intrablock i. thông tin trong khối\n- precise i. thông tin chính xác\n- processed i. thông tin đã chế biến\n- redundanti i. thông tin thừa\n- supplemental i. (thống kê) thông tin phụ\n- within-block i. thông tin trong khối
+

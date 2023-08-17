@@ -1,0 +1,3 @@
+grammar
+	@grammar /'græmə/\n*  danh từ\n- (ngôn ngữ học) ngữ pháp\n=general (philosophical, universal) grammar+ ngữ pháp phổ thông\n=historical grammar+ ngữ pháp lịch sử\n=comparative grammar+ ngữ pháp so sánh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cú pháp\n-ngữ pháp
+

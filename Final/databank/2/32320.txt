@@ -1,0 +1,3 @@
+linker
+	@linker\n* danh từ\n- mối liên kết; cầu nối\n@Chuyên ngành kinh tế\n-máy tạo hình giò\n@Chuyên ngành kỹ thuật\n-bộ liên kết\n-buộc viên\n@Lĩnh vực: toán & tin\n-trình liên kết\n@Chuyên ngành kỹ thuật\n-bộ liên kết\n-buộc viên\n@Lĩnh vực: toán & tin\n-trình liên kết
+

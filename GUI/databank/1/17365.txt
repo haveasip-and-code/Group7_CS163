@@ -1,0 +1,3 @@
+ecu
+	@ecu\n* (viết tắt)\n- đơn vị tiền tệ của Liên minh Âu châu (European Currency Unit)
+

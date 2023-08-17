@@ -1,0 +1,3 @@
+sales
+	@Chuyên ngành kinh tế\n-doanh số\n-lượng hàng hóa bán được\n-mức tiêu thụ\n@Chuyên ngành kỹ thuật\n-doanh số
+

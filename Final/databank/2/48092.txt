@@ -1,0 +1,3 @@
+router
+	@router\n- cầu dẫn\n@Chuyên ngành kỹ thuật\n-bào xoi\n-bộ chọn đường\n-dao nhỏ\n-lưỡi cắt\n-lưỡi dao\n@Lĩnh vực: toán & tin\n-bộ định tuyến\n-cầu dẫn, router
+
