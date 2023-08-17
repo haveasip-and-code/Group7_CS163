@@ -75,6 +75,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     chooseMode->Set(modeChoices);
     chooseMode->SetFont(myAppFont);
 
+    chooseMode->SetSelection(0);
+
     chooseMode->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseMode->GetStringSelection();
         wxLogMessage("Selected: %s", selectedText);
