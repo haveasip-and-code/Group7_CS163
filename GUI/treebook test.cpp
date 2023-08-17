@@ -145,9 +145,18 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
 
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
-    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_HELP), wxDefaultPosition, wxSize(30,30));
+    wxBitmap unedit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap edit_ico = wxBitmap("edit_clicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition);
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
+
+            static bool notEdit = true;
+            wxBitmap statusBitmap = notEdit ? edit_ico : unedit_ico;
+            m_edit->SetBitmapLabel(statusBitmap);
+            m_edit->SetSize(wxSize(30, 30));
+            panel->Layout();
+            notEdit = !notEdit;
         /*
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
 
@@ -198,13 +207,44 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         }
         isEditable=!isEditable;
     });
+    wxBitmapButton* m_remove = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_DELETE), wxDefaultPosition, wxSize(30,30));
+    m_remove->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+                   {
+        
+        //Function cua Cuong
+        wxLogMessage("This word has been removed!");
+        word->Clear();
+        pronounciation->Clear();
+        definition->Clear();
+    });
 
-    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_TICK_MARK), wxDefaultPosition, wxSize(30,30));
+    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    
+    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
+    
+    m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
+        static bool notFavorite = true;
+        wxBitmap statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
+        m_favourite->SetBitmapLabel(statusBitmap);
+        m_favourite->SetSize(wxSize(30,30));
+        panel->Layout();
+        notFavorite = !notFavorite;
+    });
+    
+    sizer3->Add(m_remove,0);
 
     sizer3->Add(m_edit,0);
     sizer3->Add(m_favourite, 0, wxLEFT, 5);
 
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
+
+    wxBoxSizer* sizer6 = new wxBoxSizer(wxHORIZONTAL);
+
+    wxBitmap unDataSet_ico = wxBitmap("DataSet_unchoose.png", wxBITMAP_TYPE_ANY);
+    wxBitmap DataSet_ico = wxBitmap("DataSet_choose.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
+
 
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
 
@@ -221,6 +261,13 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     chooseDataSet->SetSelection(0);
 
     chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
+        static bool notDataSet = true;
+        wxBitmap statusBitmap = notDataSet ? DataSet_ico : unDataSet_ico;
+        m_dataset->SetBitmapLabel(statusBitmap);
+        m_dataset->SetSize(wxSize(30, 30));
+        panel->Layout();
+        notDataSet = !notDataSet;
+        
         wxString selectedText = chooseDataSet->GetStringSelection();
         if (selectedText=="Eng - Vie") cmd=1;
         else if (selectedText=="Vie - Eng") cmd=2;
@@ -235,12 +282,21 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("Selected: %s", selectedText);
         wxLogMessage("Load data set "+selectedText);
     });
-
-    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY,wxArtProvider::GetBitmap(wxART_NEW) , wxDefaultPosition, wxSize(30,30));
+    
+    wxBitmap unwotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap wotd_ico = wxBitmap("wotd_clicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY, unwotd_ico, wxDefaultPosition, wxSize(50, 50));
 
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
-        pair<string,string> searchResult=getRandomWord(data);
+            static bool notWotd = true;
+            wxBitmap statusBitmap = notWotd ? wotd_ico : unwotd_ico;
+            m_wordOfDay->SetBitmapLabel(statusBitmap);
+            m_wordOfDay->SetSize(wxSize(50, 50));
+            panel->Layout();
+            notWotd = !notWotd;
+                         
+             pair<string,string> searchResult=getRandomWord(data);
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
         word->ChangeValue(curWord);
@@ -248,8 +304,11 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     });
 
     sizer5->Add(m_wordOfDay, 0);
-    sizer5->Add(chooseDataSet,0,wxBOTTOM,5);
+    sizer5->AddSpacer(5);
 
+    sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
+    sizer6->Add(m_dataset, 0, wxRIGHT, 5);
+    
     sizer4->Add(sizer2,0);
     sizer4->AddSpacer(300);
     sizer4->Add(sizer3,0);
@@ -258,7 +317,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     all_sizer->Add(sizer4,0);
     all_sizer->Add(definition,0);
     all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
-
+    all_sizer->Add(sizer6, 0, wxALIGN_RIGHT);
     panel->SetSizer(all_sizer);
 
     return panel;
@@ -413,28 +472,30 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxPanel* panel = new wxPanel(parent, wxID_ANY);
         panel->SetBackgroundColour(wxColour("#c8d2d1"));
         wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
+        panel->SetSizerAndFit(mainSizer);
 
         // Panel bên trái để chọn chế độ chơi
         wxPanel* modePanel = new wxPanel(panel, wxID_ANY);
         wxBoxSizer* modeSizer = new wxBoxSizer(wxVERTICAL);
-        modePanel->SetSizer(modeSizer);
+        modePanel->SetSizerAndFit(modeSizer);
 
-        wxStaticText* gameModeText = new wxStaticText(panel, wxID_ANY, "choose mode     ");
+
+        wxStaticText* gameModeText = new wxStaticText(modePanel, wxID_ANY, "choose mode     ");
         gameModeText->SetFont(wxFont(34, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         gameModeText->SetForegroundColour(wxColour("#49566f"));
-        mainSizer->Add(gameModeText, 0, wxALIGN_CENTER | wxLEFT | wxTOP, 60);
+        modeSizer->Add(gameModeText, 0, wxALIGN_CENTER | wxTOP, 60);
 
-        wxButton* guessWordbutton = new wxButton(panel, wxID_ANY, "guess word from definition");
+        wxButton* guessWordbutton = new wxButton(modePanel, wxID_ANY, "guess word from definition");
         guessWordbutton->SetForegroundColour(wxColour("#49566f"));
         guessWordbutton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessWordbutton->SetBackgroundColour(wxColour("#f2e0c3"));
-        modeSizer->Add(guessWordbutton, 0, wxALIGN_CENTER | wxTOP, 130);
+        modeSizer->Add(guessWordbutton, 0, wxALIGN_LEFT  | wxTOP, 30);
 
-        wxButton* guessdefinition = new wxButton(panel, wxID_ANY, "guess definition from word");
+        wxButton* guessdefinition = new wxButton(modePanel, wxID_ANY, "guess definition from word");
         guessdefinition->SetForegroundColour(wxColour("#49566f"));
         guessdefinition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         guessdefinition->SetBackgroundColour(wxColour("#f2e0c3"));
-        modeSizer->Add(guessdefinition, 0, wxALIGN_CENTER | wxTOP, 15);
+        modeSizer->Add(guessdefinition, 0, wxALIGN_LEFT  | wxTOP, 15);
 
 
         // Panel bên phải để hiển thị câu hỏi và đáp án
@@ -492,11 +553,9 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 
         gameSizer->Add(refreshSizer, 1, wxEXPAND);
 
-
         mainSizer->Add(modePanel, 1, wxEXPAND);
         mainSizer->Add(gamePanel, 2, wxEXPAND);
 
-        panel->SetSizer(mainSizer);
 
         guessWordbutton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
             {
@@ -674,17 +733,17 @@ MyFrame::MyFrame()
 
     m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
     m_text->SetForegroundColour(*wxGREEN);
-
-
-    m_reset = new wxBitmapButton(m_panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_UNDO), wxDefaultPosition, wxSize(25,25));
+    wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
+    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
 
         wxLogMessage("Your data has been reset");
     });
-
-    m_logout = new wxBitmapButton(m_panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_QUIT), wxDefaultPosition, wxSize(25,25));
+    
+    wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
+    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(25,25));
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
