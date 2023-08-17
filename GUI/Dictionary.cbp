@@ -103,6 +103,9 @@
 		<ResourceCompiler>
 			<Add directory="$(#wxdir.BASE)" />
 		</ResourceCompiler>
+		<Unit filename="Dictionary.cbp" />
+		<Unit filename="Dictionary.depend" />
+		<Unit filename="Dictionary.layout" />
 		<Unit filename="Form Login.cpp" />
 		<Unit filename="Form Login.hpp" />
 		<Unit filename="Main.hpp" />
@@ -112,6 +115,8 @@
 		<Unit filename="databankManager.h" />
 		<Unit filename="debugCore.cpp" />
 		<Unit filename="debugCore.h" />
+		<Unit filename="dict_clicked.png" />
+		<Unit filename="dict_unclicked.png" />
 		<Unit filename="encodedecode.cpp" />
 		<Unit filename="encodedecode.h" />
 		<Unit filename="flagging.cpp" />
@@ -122,9 +127,12 @@
 		<Unit filename="generalLib.h" />
 		<Unit filename="globalVariableController.cpp" />
 		<Unit filename="globalVariableController.h" />
+		<Unit filename="handling.cpp" />
+		<Unit filename="handling.h" />
 		<Unit filename="initCore.cpp" />
 		<Unit filename="initCore.h" />
 		<Unit filename="itemcontainer.h" />
+		<Unit filename="login5.png" />
 		<Unit filename="main.cpp" />
 		<Unit filename="master.cpp" />
 		<Unit filename="master.h" />
