@@ -147,14 +147,15 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
     wxBitmap unedit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
     wxBitmap edit_ico = wxBitmap("edit_clicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition);
+    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition, wxSize(30,30));
+    //wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition);
+    //m_edit->SetSize(wxSize(30, 30));
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
 
             static bool notEdit = true;
             wxBitmap statusBitmap = notEdit ? edit_ico : unedit_ico;
             m_edit->SetBitmapLabel(statusBitmap);
-            m_edit->SetSize(wxSize(30, 30));
             panel->Layout();
             notEdit = !notEdit;
         /*
@@ -210,19 +211,19 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* m_remove = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_DELETE), wxDefaultPosition, wxSize(30,30));
     m_remove->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                    {
-        
+
         //Function cua Cuong
         wxLogMessage("This word has been removed!");
         word->Clear();
-        pronounciation->Clear();
+        //pronounciation->Clear();
         definition->Clear();
     });
 
     wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
     wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
-    
+
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
-    
+
     m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
         static bool notFavorite = true;
         wxBitmap statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
@@ -231,7 +232,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         panel->Layout();
         notFavorite = !notFavorite;
     });
-    
+
     sizer3->Add(m_remove,0);
 
     sizer3->Add(m_edit,0);
@@ -267,7 +268,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         m_dataset->SetSize(wxSize(30, 30));
         panel->Layout();
         notDataSet = !notDataSet;
-        
+
         wxString selectedText = chooseDataSet->GetStringSelection();
         if (selectedText=="Eng - Vie") cmd=1;
         else if (selectedText=="Vie - Eng") cmd=2;
@@ -282,7 +283,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("Selected: %s", selectedText);
         wxLogMessage("Load data set "+selectedText);
     });
-    
+
     wxBitmap unwotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
     wxBitmap wotd_ico = wxBitmap("wotd_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_wordOfDay = new wxBitmapButton(panel, wxID_ANY, unwotd_ico, wxDefaultPosition, wxSize(50, 50));
@@ -295,7 +296,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             m_wordOfDay->SetSize(wxSize(50, 50));
             panel->Layout();
             notWotd = !notWotd;
-                         
+
              pair<string,string> searchResult=getRandomWord(data);
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
@@ -308,7 +309,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
     sizer6->Add(m_dataset, 0, wxRIGHT, 5);
-    
+
     sizer4->Add(sizer2,0);
     sizer4->AddSpacer(300);
     sizer4->Add(sizer3,0);
@@ -741,7 +742,7 @@ MyFrame::MyFrame()
 
         wxLogMessage("Your data has been reset");
     });
-    
+
     wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
     m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(25,25));
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)

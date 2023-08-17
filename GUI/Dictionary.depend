@@ -3272,7 +3272,7 @@
 
 1692264951 source:c:\users\lecuo\documents\github\group7_cs163\final\wxwidgetshandling.c
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
+1692303823 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"core.h"
@@ -3282,71 +3282,71 @@
 	"timeModule.h"
 	"flagging.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\core.h
+1692303823 c:\users\lecuo\documents\github\group7_cs163\gui\core.h
 	<bits/stdc++.h>
 	"trie.h"
 	"ternarySearchTree.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\trie.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\trie.h
 	<bits/stdc++.h>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\ternarysearchtree.h
+1692303914 c:\users\lecuo\documents\github\group7_cs163\gui\ternarysearchtree.h
 	<bits/stdc++.h>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\generallib.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\generallib.h
 	<bits/stdc++.h>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\debugcore.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\debugcore.h
 	<bits/stdc++.h>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\databankmanager.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\databankmanager.h
 	<bits/stdc++.h>
 	"trie.h"
 	"ternarySearchTree.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\timemodule.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\timemodule.h
 	<bits/stdc++.h>
 	<chrono>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\flagging.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\flagging.h
 	<bits/stdc++.h>
 
-1692291507 source:c:\users\lecuo\documents\github\group7_cs163\gui\databankmanager.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\databankmanager.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"databankManager.h"
 	"debugCore.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\debugcore.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\debugcore.cpp
 	<bits/stdc++.h>
 	"debugCore.h"
 	"timeModule.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\encodedecode.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\encodedecode.cpp
 	<bits/stdc++.h>
 	"encodedecode.h"
 	"generalLib.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\encodedecode.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\encodedecode.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\flagging.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\flagging.cpp
 	<bits/stdc++.h>
 	"flagging.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\foldercore.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\foldercore.cpp
 	<direct.h>
 	"folderCore.h"
 	"debugCore.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\foldercore.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\foldercore.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\form login.cpp
+1692303457 source:c:\users\lecuo\documents\github\group7_cs163\gui\form login.cpp
 	"Form Login.hpp"
 	"treebook test.hpp"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\form login.hpp
+1692303457 c:\users\lecuo\documents\github\group7_cs163\gui\form login.hpp
 	<stdio.h>
 	"wx/wx.h"
 	"wx/custombgwin.h"
@@ -3354,7 +3354,7 @@
 	<fstream>
 	<string>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.hpp
+1692306179 c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.hpp
 	<stdio.h>
 	"wx/wx.h"
 	"wx/aui/auibook.h"
@@ -3376,31 +3376,31 @@
 	"databankManager.h"
 	"generalLib.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\prototype.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\prototype.h
 	<bits/stdc++.h>
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\metadata.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\metadata.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\generallib.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\generallib.cpp
 	<bits/stdc++.h>
 	"generalLib.h"
 	"globalVariableController.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
 	<bits/stdc++.h>
 	"globalVariableController.h"
 	"storage.h"
 	"ternarySearchTree.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\storage.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\storage.h
 	"ternarySearchTree.h"
 	"storage.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\initcore.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\initcore.cpp
 	"core.h"
 	"prototype.h"
 	"metadata.h"
@@ -3410,10 +3410,10 @@
 	"debugCore.h"
 	"initCore.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\initcore.h
+1692303914 c:\users\lecuo\documents\github\group7_cs163\gui\initcore.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\main.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\main.cpp
 	"treebook test.hpp"
 	"Main.hpp"
 	"Form Login.hpp"
@@ -3427,12 +3427,12 @@
 	"initCore.h"
 	"prototype.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\main.hpp
+1692303457 c:\users\lecuo\documents\github\group7_cs163\gui\main.hpp
 	<stdio.h>
 	<wx/wx.h>
 	<wx/app.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\master.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\master.cpp
 	<bits/stdc++.h>
 	"core.h"
 	"encodedecode.h"
@@ -3441,15 +3441,15 @@
 	"prototype.h"
 	"master.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\master.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\master.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\metadata.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\metadata.cpp
 	<bits/stdc++.h>
 	"metadata.h"
 	"generalLib.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\prototype.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\prototype.cpp
 	<bits/stdc++.h>
 	"prototype.h"
 	"core.h"
@@ -3459,20 +3459,20 @@
 	"generalLib.h"
 	"databankManager.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\storage.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\storage.cpp
 	"folderCore.h"
 	"storage.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\ternarysearchtree.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\ternarysearchtree.cpp
 	<bits/stdc++.h>
 	"ternarySearchTree.h"
 	"debugCore.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\timemodule.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\timemodule.cpp
 	<bits/stdc++.h>
 	"timeModule.h"
 
-1692294278 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
+1692306521 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
 	"treebook test.hpp"
 	"Form Login.hpp"
 	"Form Login.hpp"
@@ -3485,7 +3485,7 @@
 	"debugCore.h"
 	"handling.h"
 
-1692289576 c:\users\lecuo\documents\github\group7_cs163\gui\handling.h
+1692303914 c:\users\lecuo\documents\github\group7_cs163\gui\handling.h
 	<bits/stdc++.h>
 	<stdio.h>
 	"wx/wx.h"
@@ -3502,28 +3502,28 @@
 	<wx/image.h>
 	<wx/string.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\trie.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\trie.cpp
 	<bits/stdc++.h>
 	"trie.h"
 	"debugCore.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\user.cpp
+1692303556 source:c:\users\lecuo\documents\github\group7_cs163\gui\user.cpp
 	"user.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\user.h
+1692303556 c:\users\lecuo\documents\github\group7_cs163\gui\user.h
 	<bits/stdc++.h>
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\wordencoder.cpp
+1692303557 source:c:\users\lecuo\documents\github\group7_cs163\gui\wordencoder.cpp
 	<bits/stdc++.h>
 	"wordEncoder.h"
 	"debugCore.h"
 
-1692264951 c:\users\lecuo\documents\github\group7_cs163\gui\wordencoder.h
+1692303557 c:\users\lecuo\documents\github\group7_cs163\gui\wordencoder.h
 	<bits/stdc++.h>
 	"ternarySearchTree.h"
 
-1692264951 source:c:\users\lecuo\documents\github\group7_cs163\gui\wordprocessor.cpp
+1692303557 source:c:\users\lecuo\documents\github\group7_cs163\gui\wordprocessor.cpp
 
-1692291349 source:c:\users\lecuo\documents\github\group7_cs163\gui\handling.cpp
+1692303914 source:c:\users\lecuo\documents\github\group7_cs163\gui\handling.cpp
 	"handling.h"
 
