@@ -1,0 +1,3 @@
+regression
+	@regression\n- (thống kê) hồi quy\n- biserial r. hồi quy hai chuỗi\n- curvilinear r. hồi quy phi tuyến\n- internal r. hồi quy trong\n- lag r. hồi quy có agumen trễ\n- linear r. hồi quy tuyến tính\n- multiple r. hồi quy bội\n- polynomial r. hồi quy đa thức
+

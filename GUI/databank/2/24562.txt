@@ -1,0 +1,3 @@
+gulp
+	@gulp\n* danh từ\n- ngụm (chất lỏng), động tác nuốt\n* ngoại động từ\n- nuốt gọn, nuốt chửng
+

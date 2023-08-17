@@ -1,0 +1,3 @@
+adductive
+	@adductive\n- xem adduct
+

@@ -1,0 +1,3 @@
+bulletproof
+	@bulletproof\n- Khả năng chống các can nhiễu từ bên ngoài, tự phục hồi lại từ các tình trạng sẽ dẫn đến đổ vỡ không tránh khỏi đối với các chương trình khác
+

@@ -1,0 +1,3 @@
+antiderivative
+	@antiderivative\n- nguyên hàm, tích phân không định hạng
+

@@ -1,0 +1,3 @@
+nibble
+	@nibble /'nibl/\n*  danh từ\n- sự gặm, sự nhắm\n- sự rỉa mồi (cá)\n=I felt a nibble at the bait+ tôi cảm thấy cá đang rỉa mồi\n- miếng gặm (lượng cỏ gặm một lần)\n*  động từ\n- gặm, nhắm\n- rỉa\n=the fish nibbled [at] the bait+ cá rỉa mồi\n- (nghĩa bóng) nhấm nhằn, ừ hữ, ầm ừ\n=to nibble at someone's suggestion+ ầm ừ trước sự gợi ý của ai\n- hay bắt bẻ; hay lý sự vụn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-byte 4 bít\n-từ bốn bít
+

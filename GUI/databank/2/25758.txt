@@ -1,0 +1,3 @@
+highlighter
+	@highlighter\n* danh từ\n- bút đánh dấu\n@Chuyên ngành kinh tế\n-bút đánh dấu\n@Chuyên ngành kỹ thuật\n-bút đánh dấu
+

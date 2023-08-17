@@ -1,0 +1,3 @@
+preflight
+	@preflight\n* tính từ\n- chuẩn bị bay
+
