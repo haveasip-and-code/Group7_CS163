@@ -104,6 +104,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     word->SetHint("Word");
 
     wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+    //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
     definition->SetHint("definition");
 
     isEditable=false;
@@ -494,12 +495,12 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     for (int i=1;i<=4;i++) {
         p[i]=getRandomWord(data);
     }
-    _q->SetLabel(p[idx].first);
-    _a[1]->SetLabel(p[1].second);
-    _a[2]->SetLabel(p[2].second);
-    _a[3]->SetLabel(p[3].second);
-    _a[4]->SetLabel(p[4].second);
-    _ans=p[idx].second;
+    _q->SetLabel(stringToWxString(p[idx].first));
+    _a[1]->SetLabel(stringToWxString(p[1].second));
+    _a[2]->SetLabel(stringToWxString(p[2].second));
+    _a[3]->SetLabel(stringToWxString(p[3].second));
+    _a[4]->SetLabel(stringToWxString(p[4].second));
+    _ans=wxStringToString(stringToWxString(p[idx].second));
 }
 
 void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
@@ -509,17 +510,18 @@ void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
         p[i]=getRandomWord(data);
         swap(p[i].first,p[i].second);
     }
-    _q->SetLabel(p[idx].first);
-    _a[1]->SetLabel(p[1].second);
-    _a[2]->SetLabel(p[2].second);
-    _a[3]->SetLabel(p[3].second);
-    _a[4]->SetLabel(p[4].second);
-    _ans=p[idx].second;
+    _q->SetLabel(stringToWxString(p[idx].first));
+    _a[1]->SetLabel(stringToWxString(p[1].second));
+    _a[2]->SetLabel(stringToWxString(p[2].second));
+    _a[3]->SetLabel(stringToWxString(p[3].second));
+    _a[4]->SetLabel(stringToWxString(p[4].second));
+    _ans=wxStringToString(stringToWxString(p[idx].second));
 }
 
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
-    wxStaticText* questionLabel;
+    wxTextCtrl* questionLabel;
+    wxTextCtrl* answerLabel[5];
     wxButton* questionButton;
     wxButton* answerButton[5];
     wxButton* refreshButton;
@@ -536,29 +538,55 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
         panel->SetSizerAndFit(mainSizer);
 
-        answerButton[1] = new wxButton(panel, wxID_ANY, "Answer 1");
+        for (int i=1;i<=4;i++) {
+            //answerLabel[i]->Enable(false);
+        }
+
+        answerLabel[1] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[1]->SetSize(wxSize(586,130));
+        answerLabel[1]->SetPosition(wxPoint(0,195));
+        answerLabel[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        answerLabel[2] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[2]->SetSize(wxSize(586,130));
+        answerLabel[2]->SetPosition(wxPoint(586,195));
+        answerLabel[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        answerLabel[3] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[3]->SetSize(wxSize(586,130));
+        answerLabel[3]->SetPosition(wxPoint(0,325));
+        answerLabel[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        answerLabel[4] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[4]->SetSize(wxSize(586,130));
+        answerLabel[4]->SetPosition(wxPoint(586,325));
+        answerLabel[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+
+        answerButton[1] = new wxButton(panel, wxID_ANY);
         answerButton[1]->SetSize(wxSize(586,130));
         answerButton[1]->SetPosition(wxPoint(0,195));
         answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        answerButton[2] = new wxButton(panel, wxID_ANY, "Answer 2");
+        answerButton[2] = new wxButton(panel, wxID_ANY);
         answerButton[2]->SetSize(wxSize(586,130));
         answerButton[2]->SetPosition(wxPoint(586,195));
         answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        answerButton[3] = new wxButton(panel, wxID_ANY, "Answer 3");
+        answerButton[3] = new wxButton(panel, wxID_ANY);
         answerButton[3]->SetSize(wxSize(586,130));
         answerButton[3]->SetPosition(wxPoint(0,325));
         answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        answerButton[4] = new wxButton(panel, wxID_ANY, "Answer 4");
+        answerButton[4] = new wxButton(panel, wxID_ANY);
         answerButton[4]->SetSize(wxSize(586,130));
         answerButton[4]->SetPosition(wxPoint(586,325));
         answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        questionButton = new wxButton(panel, wxID_ANY, "Question");
+        questionButton = new wxButton(panel, wxID_ANY);
         questionButton->SetSize(wxSize(1172,130));
         questionButton->SetPosition(wxPoint(0,65));
+
         //questionButton->Enable(false);
 
         if (mode==1) {
