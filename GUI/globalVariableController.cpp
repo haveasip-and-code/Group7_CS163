@@ -13,6 +13,7 @@ string databankDir="databank";
 
 //From metadata.h
 string metaDataPath="coreData/metaData.txt";
+string favorDataPath="coreData/favData.txt";
 
 bool writeFlag=true;
 bool debugFlag=true;
@@ -21,6 +22,7 @@ string historyPath="coreData/hist.txt";
 string favouritePath="coreData/fav.txt";
 
 TST data=TST();
+TST favor=TST();
 
 //From user
 //Container userData;

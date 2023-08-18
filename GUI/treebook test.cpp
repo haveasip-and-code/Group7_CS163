@@ -124,7 +124,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         pair<string,string> searchResult=getWordDefAlways(data,tmp);
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
-        cout<<curDef<<' '<<curWord<<'\n';
+        //cout<<curDef<<' '<<curWord<<'\n';
         //wxMessageBox(curWord+" "+curDef);
         //definition->ChangeValue("To hell with wxWidgets");
         word->ChangeValue(curWord);
@@ -201,7 +201,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             tmp1=wxStringToString(word->GetValue());
             tmp2=wxStringToString(definition->GetValue());
             addWord(data,tmp1,tmp2);
-            cout<<tmp1<<' '<<tmp2<<' '<<word->GetValue()<<' '<<definition->GetValue()<<'\n';
+            saveCurrentDataSet(data);
+            //cout<<tmp1<<' '<<tmp2<<' '<<word->GetValue()<<' '<<definition->GetValue()<<'\n';
         }
         else {
 
@@ -220,6 +221,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         tmp2="";
         //cout<<"Yes\n";
         addWord(data,tmp1,tmp2);
+        saveCurrentDataSet(data);
         word->Clear();
         definition->Clear();
         word->SetHint("Word");
@@ -230,14 +232,32 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
 
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
+    bool notFavorite = true;
+    if (true/*isFavorite(word)*/) {
+        notFavorite=false;
+    }
+    else {
+        notFavorite=true;
+    }
 
     m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
-        static bool notFavorite = true;
         wxBitmap statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
         panel->Layout();
-        notFavorite = !notFavorite;
+        //notFavorite = !notFavorite;
+        if (notFavorite) {
+            string tmp1,tmp2;
+            tmp1=wxStringToString(word->GetValue());
+            tmp2="";
+            //addWordFavorite(favor,tmp1,tmp2);
+        }
+        else {
+            string tmp1,tmp2;
+            tmp1=wxStringToString(word->GetValue());
+            tmp2=wxStringToString(definition->GetValue());
+            //addWordFavorite(favor,tmp1,tmp2);
+        }
     });
 
     sizer3->Add(m_remove,0);
@@ -284,11 +304,12 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         else if (selectedText=="Emoji - Eng") cmd=5;
         else if (selectedText=="Eng slangs") cmd=6;
         else if (selectedText=="Vie slangs") cmd=7;
+        saveCurrentDataSet(data);
         curDataSet=cmd;
         setStartSlot(getCurrentStartSlot());
         data.loadFromFile(getPath(cmd));
-        wxLogMessage("Selected: %s", selectedText);
-        wxLogMessage("Load data set "+selectedText);
+        //wxLogMessage("Selected: %s", selectedText);
+        //wxLogMessage("Load data set "+selectedText);
     });
 
     wxBitmap unwotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
@@ -466,14 +487,47 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     return panel;
 }
 
+string ans;
+void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
+    pair<string,string> p[5];
+    int idx=rand()%4+1;
+    for (int i=1;i<=4;i++) {
+        p[i]=getRandomWord(data);
+    }
+    _q->SetLabel(p[idx].first);
+    _a[1]->SetLabel(p[1].second);
+    _a[2]->SetLabel(p[2].second);
+    _a[3]->SetLabel(p[3].second);
+    _a[4]->SetLabel(p[4].second);
+    _ans=p[idx].second;
+}
+
+void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
+    pair<string,string> p[5];
+    int idx=rand()%4+1;
+    for (int i=1;i<=4;i++) {
+        p[i]=getRandomWord(data);
+        swap(p[i].first,p[i].second);
+    }
+    _q->SetLabel(p[idx].first);
+    _a[1]->SetLabel(p[1].second);
+    _a[2]->SetLabel(p[2].second);
+    _a[3]->SetLabel(p[3].second);
+    _a[4]->SetLabel(p[4].second);
+    _ans=p[idx].second;
+}
+
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
     wxStaticText* questionLabel;
-    wxButton* answerButton1;
-    wxButton* answerButton2;
-    wxButton* answerButton3;
-    wxButton* answerButton4;
+    wxButton* questionButton;
+    wxButton* answerButton[5];
     wxButton* refreshButton;
+
+    int mode=1;
+
+    //Fuck all of these panelring fuckery
+    //Just die
 
 
         // Tạo các thành phần giao diện
@@ -482,6 +536,44 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
         panel->SetSizerAndFit(mainSizer);
 
+        answerButton[1] = new wxButton(panel, wxID_ANY, "Answer 1");
+        answerButton[1]->SetSize(wxSize(586,130));
+        answerButton[1]->SetPosition(wxPoint(0,195));
+        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        answerButton[2] = new wxButton(panel, wxID_ANY, "Answer 2");
+        answerButton[2]->SetSize(wxSize(586,130));
+        answerButton[2]->SetPosition(wxPoint(586,195));
+        answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        answerButton[3] = new wxButton(panel, wxID_ANY, "Answer 3");
+        answerButton[3]->SetSize(wxSize(586,130));
+        answerButton[3]->SetPosition(wxPoint(0,325));
+        answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        answerButton[4] = new wxButton(panel, wxID_ANY, "Answer 4");
+        answerButton[4]->SetSize(wxSize(586,130));
+        answerButton[4]->SetPosition(wxPoint(586,325));
+        answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        questionButton = new wxButton(panel, wxID_ANY, "Question");
+        questionButton->SetSize(wxSize(1172,130));
+        questionButton->SetPosition(wxPoint(0,65));
+        //questionButton->Enable(false);
+
+        if (mode==1) {
+            makeGame(questionButton,answerButton,ans);
+        }
+        else {
+            makeGameInv(questionButton,answerButton,ans);
+        }
+
+        //1172 455
+        //0 65
+        //1172/2=586
+        //390 below
+
+    /*
         // Panel bên trái để chọn chế độ chơi
         wxPanel* modePanel = new wxPanel(panel, wxID_ANY);
         wxBoxSizer* modeSizer = new wxBoxSizer(wxVERTICAL);
@@ -533,7 +625,13 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         answerButton1->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         answerButton1->SetBackgroundColour(wxColour("#f2e0c3"));
         answerButton1->SetSize(wxSize(300, 30));
+        //wxButton (wxWindow *parent, wxWindowID id, const wxString &label=wxEmptyString,
+        //const wxPoint &pos=wxDefaultPosition, const wxSize &size=wxDefaultSize,
+        //long style=0, const wxValidator &validator=wxDefaultValidator,
+        //const wxString &name=wxButtonNameStr)
 
+
+        //answerButton1 = new wxButton(gamePanel, wxID_ANY, "Answer 1",wxDefaultPosition,wxDefaultSize);
 
         answerButton2 = new wxButton(gamePanel, wxID_ANY, "Answer 2");
         answerButton2->SetForegroundColour(wxColour("#49566f"));
@@ -567,11 +665,21 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 
         guessWordbutton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
             {
-                questionLabel->SetLabel("What is the definition of 'apple'?");
-                answerButton1->SetLabel("A fruit");
-                answerButton2->SetLabel("A vegetable");
-                answerButton3->SetLabel("A flower");
-                answerButton4->SetLabel("A car");
+                pair<string,string> p[5];
+                int idx=rand()%4+1;
+                for (int i=1;i<=4;i++) {
+                    p[i]=getRandomWord(data);
+                }
+                questionLabel->SetLabel("What is the definition of '"+p[idx].first+"'?");
+                answerButton1->SetLabel(p[1].second);
+                answerButton2->SetLabel(p[2].second);
+                answerButton3->SetLabel(p[3].second);
+                answerButton4->SetLabel(p[4].second);
+
+                cout<<p[1].first<<' '<<p[1].second<<'\n';
+                cout<<p[2].first<<' '<<p[2].second<<'\n';
+                cout<<p[3].first<<' '<<p[3].second<<'\n';
+                cout<<p[4].first<<' '<<p[4].second<<'\n';
 
                 // Kết nối sự kiện chọn đáp án
                 answerButton1->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
@@ -652,7 +760,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                         }
                     });
             });
-
+    */
         return panel;
 }
 
