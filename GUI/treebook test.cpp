@@ -213,10 +213,17 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
                    {
 
         //Function cua Cuong
-        wxLogMessage("This word has been removed!");
-        word->Clear();
+        //wxLogMessage("This word has been removed!");
         //pronounciation->Clear();
+        string tmp1,tmp2;
+        tmp1=wxStringToString(word->GetValue());
+        tmp2="";
+        //cout<<"Yes\n";
+        addWord(data,tmp1,tmp2);
+        word->Clear();
         definition->Clear();
+        word->SetHint("Word");
+        definition->SetHint("definition");
     });
 
     wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
