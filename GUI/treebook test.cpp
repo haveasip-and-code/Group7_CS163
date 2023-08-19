@@ -493,7 +493,7 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data);
+        p[i]=standardize(getRandomWord(data),500,5);
     }
     _q->SetLabel(stringToWxString(p[idx].first));
     _a[1]->SetLabel(stringToWxString(p[1].second));
