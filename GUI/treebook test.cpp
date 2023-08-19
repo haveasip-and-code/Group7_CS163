@@ -520,8 +520,8 @@ void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
 
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
-    wxTextCtrl* questionLabel;
-    wxTextCtrl* answerLabel[5];
+    wxStaticText* questionLabel;
+    wxStaticText* answerLabel[5];
     wxButton* questionButton;
     wxButton* answerButton[5];
     wxButton* refreshButton;
@@ -541,27 +541,27 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         for (int i=1;i<=4;i++) {
             //answerLabel[i]->Enable(false);
         }
-
-        answerLabel[1] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        /*
+        answerLabel[1] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[1]->SetSize(wxSize(586,130));
         answerLabel[1]->SetPosition(wxPoint(0,195));
         answerLabel[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        answerLabel[2] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[2] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[2]->SetSize(wxSize(586,130));
         answerLabel[2]->SetPosition(wxPoint(586,195));
         answerLabel[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        answerLabel[3] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[3] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[3]->SetSize(wxSize(586,130));
         answerLabel[3]->SetPosition(wxPoint(0,325));
         answerLabel[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
-        answerLabel[4] = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        answerLabel[4] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[4]->SetSize(wxSize(586,130));
         answerLabel[4]->SetPosition(wxPoint(586,325));
         answerLabel[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-
+        */
 
         answerButton[1] = new wxButton(panel, wxID_ANY);
         answerButton[1]->SetSize(wxSize(586,130));
@@ -586,6 +586,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         questionButton = new wxButton(panel, wxID_ANY);
         questionButton->SetSize(wxSize(1172,130));
         questionButton->SetPosition(wxPoint(0,65));
+        questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
         //questionButton->Enable(false);
 
