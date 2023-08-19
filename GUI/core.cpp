@@ -320,3 +320,19 @@ void deleteWord(TST& data,string &cur) {
     TSTNode* tmp=data.get(cur);
     if (tmp) tmp->val=0;
 }
+
+string standardize(string x,int y,int z) {
+    int cnt1,cnt2;
+    string kq="";
+    for (int i=0;i<x.length();i++) {
+        cnt1++;
+        if (x[i]=='\n') {
+            cnt2++;
+        }
+        kq+=x[i];
+        if (cnt1>=y||cnt2>=z) {
+            break;
+        }
+    }
+    return kq;
+}
