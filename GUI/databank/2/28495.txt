@@ -1,3 +1,0 @@
-inflater
-	@inflater\n- xem inflate
-

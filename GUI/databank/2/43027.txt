@@ -1,3 +1,0 @@
-precheck
-	@precheck\n- kiểm nghiệm trước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kiểm nghiệm trước\n-kiểm tra nghiệm trước\n-tiền kiểm tra
-

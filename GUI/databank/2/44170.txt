@@ -1,3 +1,0 @@
-prose
-	@prose /prose/\n*  danh từ\n- văn xuôi\n- bài nói chán ngắt\n- tính tầm thường, tính dung tục\n- (tôn giáo) bài tụng ca\n- (định ngữ) (thuộc) văn xuôi\n=prose works+ những tác phẩm văn xuôi\n=prose writer+ nhà viết văn xuôi
-

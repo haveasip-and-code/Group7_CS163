@@ -1,3 +1,0 @@
-proxy
-	@proxy /proxy/\n*  danh từ\n- sự uỷ nhiệm, sự uỷ quyền\n=by proxy+ do uỷ nhiệm\n- người đại diện, người thay mặt, người được uỷ nhiệm (làm thay việc gì)\n=to be (stand) proxy for somebody+ đại diện cho ai\n- giấy uỷ nhiệm bầu thay; sự bầu thay\n- (định ngữ) do uỷ nhiệm, do uỷ quyền\n@Chuyên ngành kinh tế\n-đại biểu\n-đại biểu (cổ đông)\n-giấy ủy nhiệm\n-giấy ủy quyền\n-người đại lý\n-người được ủy nhiệm\n-người được ủy quyền\n-người thay mặt\n-người thụ ủy\n-sự ủy nhiệm\n-thư ủy quyền\n@Chuyên ngành kỹ thuật\n-ủy nhiệm
-

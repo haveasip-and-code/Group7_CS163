@@ -1,3 +1,0 @@
-upstream
-	@upstream /' p'stri:m/\n*  phó từ\n- ngược dòng\n@Chuyên ngành kỹ thuật\n-đầu dòng\n-dòng lên\n-hướng lên\n-hướng ngược\n-ngược dòng\n@Lĩnh vực: hóa học & vật liệu\n-chảy ngược dòng\n@Lĩnh vực: toán & tin\n-hướng về nguồn truyền\n-ngược tuyến
-

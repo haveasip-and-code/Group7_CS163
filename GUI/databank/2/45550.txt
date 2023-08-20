@@ -1,3 +1,0 @@
-range
-	@range\n- (thống kê) khoảng biến thiên giao độ, hàng, phạm vi; miền (giá trị), dải // sắp xếp\n- r. of definition (logic học) miền xác định\n- r. of a function miền giá trị của một hàm\n- r. of points hàng điểm\n- r. of projectile tầm bắn của đạn\n- r. of a transformation miền giá trị của một phép biến đổi\n- r. of a variable miền biến thiên của một biến số\n- acceptable quality r. miền chất lượng chấp nhận được\n- fixed r. (máy tính) miền cố định\n- frequency r. dải tần số\n- interquartile r. (thống kê) khoảng tứ phân vi\n- projective r.s of points hàng điểm xạ ảnh\n- semi-interquartile r. nửa khoảng tứ phân vị\n- scale r. dải thang
-

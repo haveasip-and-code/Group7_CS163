@@ -1,3 +1,0 @@
-makefast
-	@makefast\n* danh từ\n- cọc buộc thuyền
-

@@ -1,3 +1,0 @@
-vertices
-	@vertices /'və:teks/\n*  danh từ,  số nhiều vertices\n- đỉnh, chỏm, chóp, ngọn\n=the vertex of an angle+ đỉnh của một góc\n- (nghĩa bóng) đỉnh, cực điểm\n- (giải phẫu) đỉnh đầu\n- (thiên văn học) thiên đỉnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-các đỉnh
-

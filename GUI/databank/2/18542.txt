@@ -1,3 +1,0 @@
-entity
-	@entity /'entiti/\n*  danh từ\n- thực thể\n- sự tồn tại (của một vật)\n@Chuyên ngành kinh tế\n-thực thể\n@Chuyên ngành kỹ thuật\n-đại lượng\n-đối tượng\n-phần tử\n-vật thể\n@Lĩnh vực: toán & tin\n-bản thể\n@Lĩnh vực: xây dựng\n-sự vật\n@Chuyên ngành kỹ thuật\n-đại lượng\n-đối tượng\n-phần tử\n-vật thể\n@Lĩnh vực: toán & tin\n-bản thể\n@Lĩnh vực: xây dựng\n-sự vật
-
