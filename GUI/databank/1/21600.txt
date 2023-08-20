@@ -1,3 +1,10 @@
-flunk
-	@flunk /flunk/\n*  ngoại động từ,  (từ Mỹ,nghĩa Mỹ),  (thông tục)\n- hỏng (thi)\n=to flunk the examination+ hỏng thi, thi trượt\n- đánh hỏng, làm thi trượt\n*  nội động từ,  (từ Mỹ,nghĩa Mỹ),  (thông tục)\n- hỏng thi, thi trượt\n- chịu thua, rút lui\n!to flunk out\n- (thông tục) đuổi ra khỏi trường (vì lười biếng...)
-
+flunk	
+@flunk /flunk/
+*  ngoại động từ,  (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- hỏng (thi)=to flunk the examination
++ hỏng thi, thi trượt
+- đánh hỏng, làm thi trượt
+*  nội động từ,  (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- hỏng thi, thi trượt
+- chịu thua, rút lui!to flunk out
+- (thông tục) đuổi ra khỏi trường (vì lười biếng...)

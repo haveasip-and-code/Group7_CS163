@@ -1,3 +1,9 @@
-nosing
-	@Chuyên ngành kỹ thuật\n-bờ tường\n@Lĩnh vực: xây dựng\n-mũi góc\n-rìa nhô\n-tấm nẹp góc\n-tạo gờ\n@Lĩnh vực: cơ khí & công trình\n-trụ phân dòng
-
+nosing	@Chuyên ngành kỹ thuật
+-bờ tường
+@Lĩnh vực: xây dựng
+-mũi góc
+-rìa nhô
+-tấm nẹp góc
+-tạo gờ
+@Lĩnh vực: cơ khí & công trình
+-trụ phân dòng

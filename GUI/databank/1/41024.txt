@@ -1,3 +1,2 @@
-phantasmal
-	@phantasmal\n- xem phantasm
-
+phantasmal	@phantasmal
+- xem phantasm

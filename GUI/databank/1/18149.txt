@@ -1,3 +1,18 @@
-encode
-	@encode /in'koud/\n*  ngoại động từ\n- ghi thành mật mã (điện...)\n@Chuyên ngành kinh tế\n-dịch thành mã điện\n-viết ra mật mã\n-viết ra mật mã (một bức điện văn)\n@Chuyên ngành kỹ thuật\n-mã hóa\n@Lĩnh vực: toán & tin\n-ghi mã\n-lập mã\n@Chuyên ngành kỹ thuật\n-mã hóa\n@Lĩnh vực: toán & tin\n-ghi mã\n-lập mã
-
+encode	
+@encode /in'koud/
+*  ngoại động từ
+- ghi thành mật mã (điện...)
+@Chuyên ngành kinh tế
+-dịch thành mã điện
+-viết ra mật mã
+-viết ra mật mã (một bức điện văn)
+@Chuyên ngành kỹ thuật
+-mã hóa
+@Lĩnh vực: toán & tin
+-ghi mã
+-lập mã
+@Chuyên ngành kỹ thuật
+-mã hóa
+@Lĩnh vực: toán & tin
+-ghi mã
+-lập mã

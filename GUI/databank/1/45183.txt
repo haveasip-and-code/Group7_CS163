@@ -1,3 +1,6 @@
-quickset
-	@quickset /'kwikset/\n*  danh từ\n- cây trồng làm bằng hàng rào (thường là cây táo gai)\n- hàng rào cây xanh, hàng rào táo gai\n*  tính từ\n- quickset hedge hàng rào cây xanh
-
+quickset	@quickset /'kwikset/
+*  danh từ
+- cây trồng làm bằng hàng rào (thường là cây táo gai)
+- hàng rào cây xanh, hàng rào táo gai
+*  tính từ
+- quickset hedge hàng rào cây xanh

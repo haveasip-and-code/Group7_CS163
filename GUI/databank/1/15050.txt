@@ -1,3 +1,14 @@
-dewater
-	@Chuyên ngành kinh tế\n-khử nước\n-tách nước\n@Chuyên ngành kỹ thuật\n-hong khô\n-khử nước\n-làm thoát nước\n-sự thoát nước\n-tháo nước\n@Lĩnh vực: điện\n-sự lau khô\n@Lĩnh vực: hóa học & vật liệu\n-tiêu nứơc
-
+dewater	
+@Chuyên ngành kinh tế
+-khử nước
+-tách nước
+@Chuyên ngành kỹ thuật
+-hong khô
+-khử nước
+-làm thoát nước
+-sự thoát nước
+-tháo nước
+@Lĩnh vực: điện
+-sự lau khô
+@Lĩnh vực: hóa học & vật liệu
+-tiêu nứơc

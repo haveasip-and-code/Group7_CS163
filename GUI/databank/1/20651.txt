@@ -1,3 +1,94 @@
-feeder
-	@feeder /'fi:də/\n*  danh từ\n- người cho ăn\n- người ăn, súc vật ăn\n=a large feeder+ người ăn khoẻ, súc vật ăn khoẻ; cây phải bón nhiều phân\n- (như) feeding-bottle\n- yếm dãi\n- sông con, sông nhánh\n- (ngành đường sắt); (hàng không) đường nhánh (dẫn đến con đường chính)\n- (điện học) Fidde, đường dây ra\n- bộ phận cung cấp chất liệu (ở máy)\n- (thể dục,thể thao) người chuyền bóng (cho đồng đội sút làm bàn)\n@Chuyên ngành kinh tế\n-đường nhánh\n-đường nối\n-đường phụ\n-đường thứ cấp\n-tàu cấp dưỡng\n-tàu nhỏ công-ten-nơ chuyến ngắn\n-tàu tuyến nhánh\n@Chuyên ngành kỹ thuật\n-dây đi\n-dây tiếp sóng\n-đường ra\n-fidơ\n-fiđơ\n-kênh cấp nước\n-lộ\n-người cung cấp\n-mạch nước\n-máy làm đầy\n-máy nạp đầy\n-máy rót đầy\n-máy tiếp liệu\n-ống dẫn\n-rãnh dẫn sợi\n-sông con\n-sông nhánh\n@Lĩnh vực: điện tử & viễn thông\n-bộ cấp liệu\n-cáp tiếp sóng\n@Lĩnh vực: cơ khí & công trình\n-bộ cung cấp\n@Lĩnh vực: toán & tin\n-bộ nạp giấy\n-bộ tiếp dưỡng\n-dây cấp điện\n-đường dây ra\n-tuyến cấp liệu\n@Lĩnh vực: xây dựng\n-bộ tiếp liệu\n-cáp đầu ra\n@Lĩnh vực: điện\n-dây dẫn sóng\n-tuyến dây\n@Chuyên ngành kỹ thuật\n-dây đi\n-dây tiếp sóng\n-đường ra\n-fidơ\n-fiđơ\n-kênh cấp nước\n-lộ\n-người cung cấp\n-mạch nước\n-máy làm đầy\n-máy nạp đầy\n-máy rót đầy\n-máy tiếp liệu\n-ống dẫn\n-rãnh dẫn sợi\n-sông con\n-sông nhánh\n@Lĩnh vực: điện tử & viễn thông\n-bộ cấp liệu\n-cáp tiếp sóng\n@Lĩnh vực: cơ khí & công trình\n-bộ cung cấp\n@Lĩnh vực: toán & tin\n-bộ nạp giấy\n-bộ tiếp dưỡng\n-dây cấp điện\n-đường dây ra\n-tuyến cấp liệu\n@Lĩnh vực: xây dựng\n-bộ tiếp liệu\n-cáp đầu ra\n@Lĩnh vực: điện\n-dây dẫn sóng\n-tuyến dây
-
+feeder	
+@feeder /'fi:də/
+*  danh từ
+- người cho ăn
+- người ăn, súc vật ăn=a large feeder
++ người ăn khoẻ, súc vật ăn khoẻ; cây phải bón nhiều phân
+- (như) feeding
+-bottle
+- yếm dãi
+- sông con, sông nhánh
+- (ngành đường sắt); (hàng không) đường nhánh (dẫn đến con đường chính)
+- (điện học) Fidde, đường dây ra
+- bộ phận cung cấp chất liệu (ở máy)
+- (thể dục,thể thao) người chuyền bóng (cho đồng đội sút làm bàn)
+@Chuyên ngành kinh tế
+-đường nhánh
+-đường nối
+-đường phụ
+-đường thứ cấp
+-tàu cấp dưỡng
+-tàu nhỏ công
+-ten
+-nơ chuyến ngắn
+-tàu tuyến nhánh
+@Chuyên ngành kỹ thuật
+-dây đi
+-dây tiếp sóng
+-đường ra
+-fidơ
+-fiđơ
+-kênh cấp nước
+-lộ
+-người cung cấp
+-mạch nước
+-máy làm đầy
+-máy nạp đầy
+-máy rót đầy
+-máy tiếp liệu
+-ống dẫn
+-rãnh dẫn sợi
+-sông con
+-sông nhánh
+@Lĩnh vực: điện tử & viễn thông
+-bộ cấp liệu
+-cáp tiếp sóng
+@Lĩnh vực: cơ khí & công trình
+-bộ cung cấp
+@Lĩnh vực: toán & tin
+-bộ nạp giấy
+-bộ tiếp dưỡng
+-dây cấp điện
+-đường dây ra
+-tuyến cấp liệu
+@Lĩnh vực: xây dựng
+-bộ tiếp liệu
+-cáp đầu ra
+@Lĩnh vực: điện
+-dây dẫn sóng
+-tuyến dây
+@Chuyên ngành kỹ thuật
+-dây đi
+-dây tiếp sóng
+-đường ra
+-fidơ
+-fiđơ
+-kênh cấp nước
+-lộ
+-người cung cấp
+-mạch nước
+-máy làm đầy
+-máy nạp đầy
+-máy rót đầy
+-máy tiếp liệu
+-ống dẫn
+-rãnh dẫn sợi
+-sông con
+-sông nhánh
+@Lĩnh vực: điện tử & viễn thông
+-bộ cấp liệu
+-cáp tiếp sóng
+@Lĩnh vực: cơ khí & công trình
+-bộ cung cấp
+@Lĩnh vực: toán & tin
+-bộ nạp giấy
+-bộ tiếp dưỡng
+-dây cấp điện
+-đường dây ra
+-tuyến cấp liệu
+@Lĩnh vực: xây dựng
+-bộ tiếp liệu
+-cáp đầu ra
+@Lĩnh vực: điện
+-dây dẫn sóng
+-tuyến dây

@@ -1,3 +1,22 @@
-piling
-	@Chuyên ngành kỹ thuật\n-cọc tấm\n-đóng cọc\n-hàng cọc\n-hàng cừ\n-màn cừ\n-móng cọc\n-sự chất đống\n-sự đắp đất\n-sự đóng cọc\n-sự đóng gói\n-sự xếp chồng\n-sự xếp đống\n-tường cọc ván\n@Lĩnh vực: xây dựng\n-cọc nỗi\n-sự chất thành đống\n-việc bốc dỡ\n-việc xúc bốc\n@Lĩnh vực: cơ khí & công trình\n-công tác cọc\n-tường cọc cừ
-
+piling	@Chuyên ngành kỹ thuật
+-cọc tấm
+-đóng cọc
+-hàng cọc
+-hàng cừ
+-màn cừ
+-móng cọc
+-sự chất đống
+-sự đắp đất
+-sự đóng cọc
+-sự đóng gói
+-sự xếp chồng
+-sự xếp đống
+-tường cọc ván
+@Lĩnh vực: xây dựng
+-cọc nỗi
+-sự chất thành đống
+-việc bốc dỡ
+-việc xúc bốc
+@Lĩnh vực: cơ khí & công trình
+-công tác cọc
+-tường cọc cừ

@@ -1,3 +1,11 @@
-feign
-	@feign /fein/\n*  ngoại động từ\n- giả vờ, giả đò, giả cách\n=to feign madness+ giả vờ điên\n- bịa, bịa đặt (câu chuyện, lời cáo lỗi...)\n- làm giả, giả mạo\n=to feign a document+ giả mạo giấy tờ tài liệu\n- (từ cổ,nghĩa cổ) tưởng tượng, mường tượng\n*  nội động từ\n- giả vờ, giả đò, giả cách
-
+feign	
+@feign /fein/
+*  ngoại động từ
+- giả vờ, giả đò, giả cách=to feign madness
++ giả vờ điên
+- bịa, bịa đặt (câu chuyện, lời cáo lỗi...)
+- làm giả, giả mạo=to feign a document
++ giả mạo giấy tờ tài liệu
+- (từ cổ,nghĩa cổ) tưởng tượng, mường tượng
+*  nội động từ
+- giả vờ, giả đò, giả cách

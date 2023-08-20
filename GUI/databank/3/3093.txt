@@ -1,3 +1,2 @@
-aquatinter
-	@aquatinter\n- xem aquatint
-
+aquatinter	@aquatinter
+- xem aquatint

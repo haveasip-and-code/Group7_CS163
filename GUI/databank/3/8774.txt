@@ -1,3 +1,28 @@
-characteristic
-	@characteristic /,kæriktə'ristik/\n*  tính từ\n- riêng, riêng biệt, đặc thù, đặc trưng\n*  danh từ\n- đặc tính, đặc điểm\n=the characteristic of a society+ đặc điểm của một xã hội\n@Chuyên ngành kinh tế\n-đặc điểm\n-đặc thù\n-đặc tính\n-đặc trưng\n-riêng\n-riêng biệt\n@Chuyên ngành kỹ thuật\n-chỉ số\n-chỉ tiêu\n-đặc điểm\n-đặc tính\n-đặc trưng\n-đặc tuyến\n-dấu hiệu\n-đường đặc tính\n-đường đặc trưng\n-giá trị\n-thuộc tính\n-tiêu chuẩn\n@Lĩnh vực: toán & tin\n-phần định trị
-
+characteristic	@characteristic /,kæriktə'ristik/
+*  tính từ
+- riêng, riêng biệt, đặc thù, đặc trưng
+*  danh từ
+- đặc tính, đặc điểm
+=the characteristic of a society+ đặc điểm của một xã hội
+@Chuyên ngành kinh tế
+-đặc điểm
+-đặc thù
+-đặc tính
+-đặc trưng
+-riêng
+-riêng biệt
+@Chuyên ngành kỹ thuật
+-chỉ số
+-chỉ tiêu
+-đặc điểm
+-đặc tính
+-đặc trưng
+-đặc tuyến
+-dấu hiệu
+-đường đặc tính
+-đường đặc trưng
+-giá trị
+-thuộc tính
+-tiêu chuẩn
+@Lĩnh vực: toán & tin
+-phần định trị

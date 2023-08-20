@@ -1,3 +1,12 @@
-skewer
-	@skewer /'skju:ə/\n*  danh từ\n- cái xiên (để nướng thịt)\n-(đùa cợt) gươm, kiếm\n*  ngoại động từ\n- xiên (thịt để nướng)\n@Chuyên ngành kinh tế\n-chốt giữ gói thịt\n-que nướng thịt\n-que xiên thịt\n@Chuyên ngành kỹ thuật\n-sào tiêu
-
+skewer	@skewer /'skju:ə/
+*  danh từ
+- cái xiên (để nướng thịt)
+-(đùa cợt) gươm, kiếm
+*  ngoại động từ
+- xiên (thịt để nướng)
+@Chuyên ngành kinh tế
+-chốt giữ gói thịt
+-que nướng thịt
+-que xiên thịt
+@Chuyên ngành kỹ thuật
+-sào tiêu

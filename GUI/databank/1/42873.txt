@@ -1,3 +1,6 @@
-pourer
-	@pourer\n- xem pour\n@Chuyên ngành kỹ thuật\n-thợ đúc\n@Lĩnh vực: hóa học & vật liệu\n-thợ rót khuôn
-
+pourer	@pourer
+- xem pour
+@Chuyên ngành kỹ thuật
+-thợ đúc
+@Lĩnh vực: hóa học & vật liệu
+-thợ rót khuôn

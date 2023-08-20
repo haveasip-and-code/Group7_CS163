@@ -1,3 +1,13 @@
-essentiality
-	@essentiality\n- xem essential\n@Chuyên ngành kỹ thuật\n-bản chất\n@Lĩnh vực: toán & tin\n-tính chủ yếu\n-tính cốt yếu\n@Chuyên ngành kỹ thuật\n-bản chất\n@Lĩnh vực: toán & tin\n-tính chủ yếu\n-tính cốt yếu
-
+essentiality	
+@essentiality
+- xem essential
+@Chuyên ngành kỹ thuật
+-bản chất
+@Lĩnh vực: toán & tin
+-tính chủ yếu
+-tính cốt yếu
+@Chuyên ngành kỹ thuật
+-bản chất
+@Lĩnh vực: toán & tin
+-tính chủ yếu
+-tính cốt yếu

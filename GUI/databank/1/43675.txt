@@ -1,3 +1,2 @@
-priorate
-	@priorate\n- xem prior
-
+priorate	@priorate
+- xem prior

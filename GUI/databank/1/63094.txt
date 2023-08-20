@@ -1,3 +1,6 @@
-wishbone
-	@wishbone\n* danh từ\n- chạc xương đòn (xương chạc nằm khoảng giữa cổ và ngực của gia cầm)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-đòn chữ A
-
+wishbone	@wishbone
+* danh từ
+- chạc xương đòn (xương chạc nằm khoảng giữa cổ và ngực của gia cầm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-đòn chữ A

@@ -1,3 +1,2 @@
-addressability
-	@addressability\n- (Tech) khả năng định vị (địa chỉ)
-
+addressability	@addressability
+- (Tech) khả năng định vị (địa chỉ)

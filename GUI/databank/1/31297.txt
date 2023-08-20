@@ -1,3 +1,17 @@
-lacteal
-	@lacteal /'læktiəl/\n*  tính từ\n- (thuộc) sữa; như sữa\n- (giải phẫu) dẫn dịch dưỡng (ống)\n@Chuyên ngành kinh tế\n-như sữa\n-thuộc sữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dạng sữa\n@Lĩnh vực: y học\n-ống dẫn dưỡng chất\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dạng sữa\n@Lĩnh vực: y học\n-ống dẫn dưỡng chất
-
+lacteal	@lacteal /'læktiəl/
+*  tính từ
+- (thuộc) sữa; như sữa
+- (giải phẫu) dẫn dịch dưỡng (ống)
+@Chuyên ngành kinh tế
+-như sữa
+-thuộc sữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dạng sữa
+@Lĩnh vực: y học
+-ống dẫn dưỡng chất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dạng sữa
+@Lĩnh vực: y học
+-ống dẫn dưỡng chất

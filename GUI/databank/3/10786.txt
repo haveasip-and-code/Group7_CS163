@@ -1,3 +1,2 @@
-compressional
-	@compressional\n- xem compression
-
+compressional	@compressional
+- xem compression

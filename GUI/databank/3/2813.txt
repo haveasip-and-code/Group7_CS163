@@ -1,3 +1,2 @@
-aphorist
-	@aphorist\n- xem aphorism
-
+aphorist	@aphorist
+- xem aphorism

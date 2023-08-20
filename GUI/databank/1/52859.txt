@@ -1,3 +1,7 @@
-stabilizers
-	@Chuyên ngành kinh tế\n-biện pháp tạo ổn định\n-bộ phận thăng bằng\n-nhân tố ổn định\n-nhân tố ổn định kinh tế\n@Chuyên ngành kỹ thuật\n-thanh cân bằng
-
+stabilizers	@Chuyên ngành kinh tế
+-biện pháp tạo ổn định
+-bộ phận thăng bằng
+-nhân tố ổn định
+-nhân tố ổn định kinh tế
+@Chuyên ngành kỹ thuật
+-thanh cân bằng

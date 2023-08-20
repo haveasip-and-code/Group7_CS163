@@ -1,3 +1,8 @@
-cinema
-	@cinema /'sinimə/\n*  danh từ\n- rạp xi nê, rạp chiếu bóng\n- the cinema điện ảnh, xi nê, phim chiếu bóng\n- nghệ thuật điện ảnh; kỹ thuật điện ảnh\n@Chuyên ngành kỹ thuật\n-nghệ thuật phim ảnh\n-rạp chiếu phim
-
+cinema	@cinema /'sinimə/
+*  danh từ
+- rạp xi nê, rạp chiếu bóng
+- the cinema điện ảnh, xi nê, phim chiếu bóng
+- nghệ thuật điện ảnh; kỹ thuật điện ảnh
+@Chuyên ngành kỹ thuật
+-nghệ thuật phim ảnh
+-rạp chiếu phim

@@ -1,3 +1,2 @@
-cairned
-	@cairned\n- xem cairn
-
+cairned	@cairned
+- xem cairn

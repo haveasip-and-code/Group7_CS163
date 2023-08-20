@@ -1,3 +1,2 @@
-portably
-	@portably\n- xem portable
-
+portably	@portably
+- xem portable

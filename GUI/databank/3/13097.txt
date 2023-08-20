@@ -1,3 +1,4 @@
-curbing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự bọc vỉa (hè)\n-xây thành giếng
-
+curbing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự bọc vỉa (hè)
+-xây thành giếng

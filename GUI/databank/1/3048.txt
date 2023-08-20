@@ -1,3 +1,30 @@
-approval
-	@approval /ə'pru:vəl/\n*  danh từ\n- sự tán thành, sự đồng ý, sự chấp thuận\n=to nod in approval+ gật đầu, đồng ý\n=to give one's approval to a plan+ tán thành một kế hoạch\n=to meet with approval+ được sự đồng ý, được chấp thuận\n=on approval+ (thương nghiệp) (như) on appro ((xem) appro)\n- sự phê chuẩn\n@Chuyên ngành kinh tế\n-chuẩn nhận\n-chuẩn y\n-hạch chuẩn (sự phê chuẩn sau khi xem xét)\n-phê duyệt\n-sự phê chuẩn\n-sự phê chuẩn đồng ý\n-sự tán thành\n-thừa chuẩn\n-thừa nhận\n-ưng thuận\n@Chuyên ngành kỹ thuật\n-chấp nhận\n-phê chuẩn\n@Lĩnh vực: xây dựng\n-sự chấp thuận\n-sự đồng ý\n-sự duyệt y\n-sự phê chuẩn\n-sự tán thành\n-thỏa thuận (chuẩn y)
-
+approval	
+@approval /ə'pru:vəl/
+*  danh từ
+- sự tán thành, sự đồng ý, sự chấp thuận=to nod in approval
++ gật đầu, đồng ý=to give one's approval to a plan
++ tán thành một kế hoạch=to meet with approval
++ được sự đồng ý, được chấp thuận=on approval
++ (thương nghiệp) (như) on appro ((xem) appro)
+- sự phê chuẩn
+@Chuyên ngành kinh tế
+-chuẩn nhận
+-chuẩn y
+-hạch chuẩn (sự phê chuẩn sau khi xem xét)
+-phê duyệt
+-sự phê chuẩn
+-sự phê chuẩn đồng ý
+-sự tán thành
+-thừa chuẩn
+-thừa nhận
+-ưng thuận
+@Chuyên ngành kỹ thuật
+-chấp nhận
+-phê chuẩn
+@Lĩnh vực: xây dựng
+-sự chấp thuận
+-sự đồng ý
+-sự duyệt y
+-sự phê chuẩn
+-sự tán thành
+-thỏa thuận (chuẩn y)

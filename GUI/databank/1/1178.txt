@@ -1,3 +1,35 @@
-agent
-	@agent /'eidʤənt/\n*  danh từ\n- người đại lý\n- ((thường) số nhiều) tay sai, chỉ điểm tay chân, bộ hạ\n- tác nhân\n=physical agent+ tác nhân vật lý\n=chemical agent+ tác nhân hoá học\n!forward agent\n- người làm công tác phát hành; người gửi đi\n!road agent\n- (từ Mỹ,nghĩa Mỹ) kẻ cướp đường\n!secret agent\n- đặc vụ, trinh thám\n!ticket agent\n- (từ Mỹ,nghĩa Mỹ) người giữ quỹ phòng bán vé\n@Chuyên ngành kinh tế\n-hãng đại lý\n-người đại diện\n-người đại lý\n-nhân viên\n-tác nhân\n@Chuyên ngành kỹ thuật\n-chất hóa học\n-chi nhánh\n-đại lý\n-hóa chất\n-lực tác động\n-người đại diện\n-người đại lý\n-nhân tố\n-nhân viên\n-phương tiện\n-vật chất\n-vật liệu\n@Lĩnh vực: hóa học & vật liệu\n-chất phản ứng\n@Lĩnh vực: toán & tin\n-chương trình đại lý
-
+agent	
+@agent /'eidʤənt/
+*  danh từ
+- người đại lý
+- ((thường) số nhiều) tay sai, chỉ điểm tay chân, bộ hạ
+- tác nhân=physical agent
++ tác nhân vật lý=chemical agent
++ tác nhân hoá học!forward agent
+- người làm công tác phát hành; người gửi đi!road agent
+- (từ Mỹ,nghĩa Mỹ) kẻ cướp đường!secret agent
+- đặc vụ, trinh thám!ticket agent
+- (từ Mỹ,nghĩa Mỹ) người giữ quỹ phòng bán vé
+@Chuyên ngành kinh tế
+-hãng đại lý
+-người đại diện
+-người đại lý
+-nhân viên
+-tác nhân
+@Chuyên ngành kỹ thuật
+-chất hóa học
+-chi nhánh
+-đại lý
+-hóa chất
+-lực tác động
+-người đại diện
+-người đại lý
+-nhân tố
+-nhân viên
+-phương tiện
+-vật chất
+-vật liệu
+@Lĩnh vực: hóa học & vật liệu
+-chất phản ứng
+@Lĩnh vực: toán & tin
+-chương trình đại lý

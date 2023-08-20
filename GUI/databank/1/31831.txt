@@ -1,3 +1,84 @@
-leg
-	@leg /leg/\n*  danh từ\n- chân, cẳng (người, thú...)\n- chân (bàn ghế...)\n- ống (quần, giày...)\n- nhánh com-pa\n- cạnh bên (của tam giác)\n- đoạn (đường đi); chặng; giai đoạn\n=the first leg of a flight+ chặng đầu trong chuyến bay\n- (thể dục,thể thao) ván (trong một hiệp đấu)\n- (từ lóng) kẻ lừa đảo\n!to be all legs\n- cao lêu đêu, chỉ thấy chân với cẳng\n!to be on one's last legs\n- kiệt sức, sắp chết\n!to feet one's legs\n- (xem) feel\n!to get on one's legs\n- (xem) get\n!to give someone a leg up\n- đỡ ai leo lên, đỡ ai trèo lên\n- giúp đỡ ai vượt qua lúc khó khăn\n!to have the legs of someone\n- đi (chạy) nhanh hơn ai\n!to keep one's legs\n- (xem) keep\n!to make a leg\n- cúi đầu chào\n!not to have a leg to stand on\n- không có lý lẽ gì để bào chữa cho thuyết của mình\n!to pull someone's leg\n- (thông tục) trêu chòng ai, giễu cợt ai\n!to put one's best leg foremost\n- (xem) best\n!to run someone off his legs\n- bắt ai làm việc mệt nhoài, bắt ai làm việc liên miên\n!to shake a leg\n- (thông tục) nhảy, khiêu vũ\n!to show a leg\n- (thông tục) ra khỏi giường\n!to stand on one's own legs\n- tự tin ở mình, sự tự lực, sự tự chủ\n!to take to one's leg\n- chạy đi, bỏ chạy\n=to walk someone off his lefs+ bắt ai đi rạc cả cẳng\n*  ngoại động từ\n- đẩy (thuyền) bằng chân (qua sông đào trong đường hầm)\n*  nội động từ\n- to leg it đi mau, chạy mau\n@Chuyên ngành kinh tế\n-một đoạn đường (vận tải)\n-nhánh\n@Chuyên ngành kỹ thuật\n-cạnh\n-đế\n-đoạn đường\n-giá máy\n-gối đỡ\n-nhánh\n-nhánh compa\n@Lĩnh vực: y học\n-chi dưới, cẳng chân\n@Lĩnh vực: xây dựng\n-góc hàn\n@Lĩnh vực: điện lạnh\n-trụ lõi từ\n@Lĩnh vực: cơ khí & công trình\n-túi thu bụi\n@Chuyên ngành kỹ thuật\n-cạnh\n-đế\n-đoạn đường\n-giá máy\n-gối đỡ\n-nhánh\n-nhánh compa\n@Lĩnh vực: y học\n-chi dưới, cẳng chân\n@Lĩnh vực: xây dựng\n-góc hàn\n@Lĩnh vực: điện lạnh\n-trụ lõi từ\n@Lĩnh vực: cơ khí & công trình\n-túi thu bụi
-
+leg	@leg /leg/
+*  danh từ
+- chân, cẳng (người, thú...)
+- chân (bàn ghế...)
+- ống (quần, giày...)
+- nhánh com-pa
+- cạnh bên (của tam giác)
+- đoạn (đường đi); chặng; giai đoạn
+=the first leg of a flight+ chặng đầu trong chuyến bay
+- (thể dục,thể thao) ván (trong một hiệp đấu)
+- (từ lóng) kẻ lừa đảo
+!to be all legs
+- cao lêu đêu, chỉ thấy chân với cẳng
+!to be on one's last legs
+- kiệt sức, sắp chết
+!to feet one's legs
+- (xem) feel
+!to get on one's legs
+- (xem) get
+!to give someone a leg up
+- đỡ ai leo lên, đỡ ai trèo lên
+- giúp đỡ ai vượt qua lúc khó khăn
+!to have the legs of someone
+- đi (chạy) nhanh hơn ai
+!to keep one's legs
+- (xem) keep
+!to make a leg
+- cúi đầu chào
+!not to have a leg to stand on
+- không có lý lẽ gì để bào chữa cho thuyết của mình
+!to pull someone's leg
+- (thông tục) trêu chòng ai, giễu cợt ai
+!to put one's best leg foremost
+- (xem) best
+!to run someone off his legs
+- bắt ai làm việc mệt nhoài, bắt ai làm việc liên miên
+!to shake a leg
+- (thông tục) nhảy, khiêu vũ
+!to show a leg
+- (thông tục) ra khỏi giường
+!to stand on one's own legs
+- tự tin ở mình, sự tự lực, sự tự chủ
+!to take to one's leg
+- chạy đi, bỏ chạy
+=to walk someone off his lefs+ bắt ai đi rạc cả cẳng
+*  ngoại động từ
+- đẩy (thuyền) bằng chân (qua sông đào trong đường hầm)
+*  nội động từ
+- to leg it đi mau, chạy mau
+@Chuyên ngành kinh tế
+-một đoạn đường (vận tải)
+-nhánh
+@Chuyên ngành kỹ thuật
+-cạnh
+-đế
+-đoạn đường
+-giá máy
+-gối đỡ
+-nhánh
+-nhánh compa
+@Lĩnh vực: y học
+-chi dưới, cẳng chân
+@Lĩnh vực: xây dựng
+-góc hàn
+@Lĩnh vực: điện lạnh
+-trụ lõi từ
+@Lĩnh vực: cơ khí & công trình
+-túi thu bụi
+@Chuyên ngành kỹ thuật
+-cạnh
+-đế
+-đoạn đường
+-giá máy
+-gối đỡ
+-nhánh
+-nhánh compa
+@Lĩnh vực: y học
+-chi dưới, cẳng chân
+@Lĩnh vực: xây dựng
+-góc hàn
+@Lĩnh vực: điện lạnh
+-trụ lõi từ
+@Lĩnh vực: cơ khí & công trình
+-túi thu bụi

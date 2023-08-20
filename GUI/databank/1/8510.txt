@@ -1,3 +1,5 @@
-centiare
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-mét vuông\n-xentia
-
+centiare	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-mét vuông
+-xentia

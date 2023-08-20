@@ -1,3 +1,25 @@
-refinement
-	@refinement /ri'fainmənt/\n*  danh từ\n- sự lọc; sự tinh chế (dầu, đường); sự luyện tinh (kim loại)\n- sự tinh tế, sự tế nhị, sự tao nhã, sự lịch sự, sự sành sỏi\n- cái hay, cái đẹp, cái tinh tuý, cái tao nhã\n=all the refinements of the age+ tất cả cái tinh tuý (cái hay, cái đẹp) của thời đại\n- thủ đoạn tinh vi, phương pháp tinh vi, lập luận tế nhị, sự phân biệt tinh vi\n=refinements of cruelty+ những thủ đoạn tàn ác tinh vi\n@Chuyên ngành kinh tế\n-sản phẩm tinh chế\n-sự làm sạch\n-sự lọc\n-sự nâng cao chất lượng\n@Chuyên ngành kỹ thuật\n-lọc\n-sự làm sạch\n-sự tinh chế\n@Lĩnh vực: hóa học & vật liệu\n-quá trình lọc\n@Lĩnh vực: điện lạnh\n-sự chính xác hóa\n@Lĩnh vực: toán & tin\n-sự làm mịn\n@Lĩnh vực: xây dựng\n-sự lọc dần
-
+refinement	@refinement /ri'fainmənt/
+*  danh từ
+- sự lọc; sự tinh chế (dầu, đường); sự luyện tinh (kim loại)
+- sự tinh tế, sự tế nhị, sự tao nhã, sự lịch sự, sự sành sỏi
+- cái hay, cái đẹp, cái tinh tuý, cái tao nhã
+=all the refinements of the age+ tất cả cái tinh tuý (cái hay, cái đẹp) của thời đại
+- thủ đoạn tinh vi, phương pháp tinh vi, lập luận tế nhị, sự phân biệt tinh vi
+=refinements of cruelty+ những thủ đoạn tàn ác tinh vi
+@Chuyên ngành kinh tế
+-sản phẩm tinh chế
+-sự làm sạch
+-sự lọc
+-sự nâng cao chất lượng
+@Chuyên ngành kỹ thuật
+-lọc
+-sự làm sạch
+-sự tinh chế
+@Lĩnh vực: hóa học & vật liệu
+-quá trình lọc
+@Lĩnh vực: điện lạnh
+-sự chính xác hóa
+@Lĩnh vực: toán & tin
+-sự làm mịn
+@Lĩnh vực: xây dựng
+-sự lọc dần

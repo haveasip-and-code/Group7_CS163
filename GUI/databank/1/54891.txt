@@ -1,3 +1,18 @@
-susceptibility
-	@susceptibility /sə,septə'biliti/\n*  danh từ\n- tính nhạy cảm, tính dễ xúc cảm\n- (số nhiều) điểm dễ bị chạm nọc\n@Chuyên ngành kỹ thuật\n-độ cảm\n-độ cẩm (điện)\n-độ nhạy\n-tính nhạy cảm\n@Lĩnh vực: điện lạnh\n-độ cảm ứng (từ)\n-tính nhạy cảm (an toàn máy tính)\n@Lĩnh vực: hóa học & vật liệu\n-khả năng cảm biến\n@Lĩnh vực: điện\n-tính cảm\n@Lĩnh vực: y học\n-tính mẫn cảm
-
+susceptibility	@susceptibility /sə,septə'biliti/
+*  danh từ
+- tính nhạy cảm, tính dễ xúc cảm
+- (số nhiều) điểm dễ bị chạm nọc
+@Chuyên ngành kỹ thuật
+-độ cảm
+-độ cẩm (điện)
+-độ nhạy
+-tính nhạy cảm
+@Lĩnh vực: điện lạnh
+-độ cảm ứng (từ)
+-tính nhạy cảm (an toàn máy tính)
+@Lĩnh vực: hóa học & vật liệu
+-khả năng cảm biến
+@Lĩnh vực: điện
+-tính cảm
+@Lĩnh vực: y học
+-tính mẫn cảm

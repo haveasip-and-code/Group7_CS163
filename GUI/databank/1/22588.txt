@@ -1,3 +1,25 @@
-fund
-	@fund /fʌnd/\n*  danh từ\n- kho\n=a fund of humour+ một kho hài hước\n- quỹ\n- (số nhiều) tiền của\n=in funds+ có tiền, nhiều tiền\n- (số nhiều) quỹ công trái nhà nước\n*  ngoại động từ\n- chuyển những món nợ ngắn hạn thành món nợ dài hạn\n- để tiền vào quỹ công trái nhà nước\n- (từ hiếm,nghĩa hiếm) thu thập cho vào kho\n@Chuyên ngành kinh tế\n-bỏ vốn\n-cấp vốn\n-chuẩn bị\n-chuyển (công trái) ngắn hạn thành dài hạn\n-hợp nhất (công trái)\n-quỹ\n-vốn cho ...\n@Chuyên ngành kỹ thuật\n-kho\n-quỹ\n-vốn
-
+fund	
+@fund /fʌnd/
+*  danh từ
+- kho=a fund of humour
++ một kho hài hước
+- quỹ
+- (số nhiều) tiền của=in funds
++ có tiền, nhiều tiền
+- (số nhiều) quỹ công trái nhà nước
+*  ngoại động từ
+- chuyển những món nợ ngắn hạn thành món nợ dài hạn
+- để tiền vào quỹ công trái nhà nước
+- (từ hiếm,nghĩa hiếm) thu thập cho vào kho
+@Chuyên ngành kinh tế
+-bỏ vốn
+-cấp vốn
+-chuẩn bị
+-chuyển (công trái) ngắn hạn thành dài hạn
+-hợp nhất (công trái)
+-quỹ
+-vốn cho ...
+@Chuyên ngành kỹ thuật
+-kho
+-quỹ
+-vốn

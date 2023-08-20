@@ -1,3 +1,10 @@
-offside
-	@offside\n* tính từ, adv\n- việt vị (bóng đá)\n= the forwards are all offside+tất cả các tiền đạo đều bị việt vị\n* tính từ\n- bên phải; phía tay phải\n= the rear offside tyre+lốp sau bên phải\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-bên phải xe
-
+offside	@offside
+* tính từ, adv
+- việt vị (bóng đá)
+= the forwards are all offside+tất cả các tiền đạo đều bị việt vị
+* tính từ
+- bên phải; phía tay phải
+= the rear offside tyre+lốp sau bên phải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-bên phải xe

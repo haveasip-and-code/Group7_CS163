@@ -1,3 +1,2 @@
-android
-	@android\n- (Tech) người máy, máy có nhân tính
-
+android	@android
+- (Tech) người máy, máy có nhân tính

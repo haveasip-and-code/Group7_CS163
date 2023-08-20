@@ -1,3 +1,12 @@
-transcendental
-	@transcendental /,trænsən'dentl/\n*  tính từ\n- (triết học) tiên nghiệm\n=transcendental philosophy+ triết học tiên nghiệm\n=transcendental cognition+ nhận thức tiên nghiệm\n- (như) transcendent\n- mơ hồ, trừu tượng, không rõ ràng; huyền ảo\n=transcendental concept+ khái niệm mơ hồ\n- (toán học) siêu việt\n=transcendental equation+ phương trình siêu việt\n@Chuyên ngành kỹ thuật\n-siêu việt
-
+transcendental	@transcendental /,trænsən'dentl/
+*  tính từ
+- (triết học) tiên nghiệm
+=transcendental philosophy+ triết học tiên nghiệm
+=transcendental cognition+ nhận thức tiên nghiệm
+- (như) transcendent
+- mơ hồ, trừu tượng, không rõ ràng; huyền ảo
+=transcendental concept+ khái niệm mơ hồ
+- (toán học) siêu việt
+=transcendental equation+ phương trình siêu việt
+@Chuyên ngành kỹ thuật
+-siêu việt

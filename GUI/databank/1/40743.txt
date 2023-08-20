@@ -1,3 +1,22 @@
-permit
-	@permit /'pə:mit/\n*  danh từ\n- giấy phép\n=to grant a permit+ cấp giấy phép\n=export permit+ giấy phép xuất khẩu\n- sự cho phép[pə'mit]\n*  ngoại động từ\n- cho phép\n=permit me to add that...+ cho phép tôi được nói thêm rằng...\n=weather permitting+ nếu thời tiết cho phép\n*  nội động từ\n- (+ of) cho phép, thừa nhận\n=the situation permits no delay+ tình hình không cho phép được trì hoãn\n@Chuyên ngành kinh tế\n-giấy phép\n@Chuyên ngành kỹ thuật\n-giấy phép\n-sự cho phép\n@Lĩnh vực: toán & tin\n-cho phép, chấp thuận\n@Lĩnh vực: xây dựng\n-giấy cho phép
-
+permit	@permit /'pə:mit/
+*  danh từ
+- giấy phép
+=to grant a permit+ cấp giấy phép
+=export permit+ giấy phép xuất khẩu
+- sự cho phép[pə'mit]
+*  ngoại động từ
+- cho phép
+=permit me to add that...+ cho phép tôi được nói thêm rằng...
+=weather permitting+ nếu thời tiết cho phép
+*  nội động từ
+- (+ of) cho phép, thừa nhận
+=the situation permits no delay+ tình hình không cho phép được trì hoãn
+@Chuyên ngành kinh tế
+-giấy phép
+@Chuyên ngành kỹ thuật
+-giấy phép
+-sự cho phép
+@Lĩnh vực: toán & tin
+-cho phép, chấp thuận
+@Lĩnh vực: xây dựng
+-giấy cho phép

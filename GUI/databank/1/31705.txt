@@ -1,3 +1,50 @@
-layer
-	@layer /'leiə/\n*  danh từ\n- người đặt, người gài (bẫy)\n- lớp\n=a layer of clay+ lớp đất sét\n- (địa lý,ddịa chất) tầng đất, địa tầng\n- cành chiết\n- mái đẻ (trứng)\n=a good layer+ mái đẻ (trứng) tốt\n- (số nhiều) dải lúa bị rạp\n- đầm nuôi trai\n*  ngoại động từ\n- sắp từng lớp, sắp từng tầng\n- chiết cành\n*  nội động từ\n- ngả, ngả rạp xuống (lúa)\n@Chuyên ngành kinh tế\n-bản mỏng\n-lớp\n-sự xếp đặt\n@Chuyên ngành kỹ thuật\n-bậc\n-hàng xây (gạch)\n-lát\n-lớp\n-lớp kẹp\n-lớp mỏng\n-lớp xây\n-lớp xen giữa\n-lớp, tầng\n-phiến mỏng\n-vỉa\n@Lĩnh vực: toán & tin\n-sắp lớp\n-tầng, lớp\n@Chuyên ngành kỹ thuật\n-bậc\n-hàng xây (gạch)\n-lát\n-lớp\n-lớp kẹp\n-lớp mỏng\n-lớp xây\n-lớp xen giữa\n-lớp, tầng\n-phiến mỏng\n-vỉa\n@Lĩnh vực: toán & tin\n-sắp lớp\n-tầng, lớp
-
+layer	@layer /'leiə/
+*  danh từ
+- người đặt, người gài (bẫy)
+- lớp
+=a layer of clay+ lớp đất sét
+- (địa lý,ddịa chất) tầng đất, địa tầng
+- cành chiết
+- mái đẻ (trứng)
+=a good layer+ mái đẻ (trứng) tốt
+- (số nhiều) dải lúa bị rạp
+- đầm nuôi trai
+*  ngoại động từ
+- sắp từng lớp, sắp từng tầng
+- chiết cành
+*  nội động từ
+- ngả, ngả rạp xuống (lúa)
+@Chuyên ngành kinh tế
+-bản mỏng
+-lớp
+-sự xếp đặt
+@Chuyên ngành kỹ thuật
+-bậc
+-hàng xây (gạch)
+-lát
+-lớp
+-lớp kẹp
+-lớp mỏng
+-lớp xây
+-lớp xen giữa
+-lớp, tầng
+-phiến mỏng
+-vỉa
+@Lĩnh vực: toán & tin
+-sắp lớp
+-tầng, lớp
+@Chuyên ngành kỹ thuật
+-bậc
+-hàng xây (gạch)
+-lát
+-lớp
+-lớp kẹp
+-lớp mỏng
+-lớp xây
+-lớp xen giữa
+-lớp, tầng
+-phiến mỏng
+-vỉa
+@Lĩnh vực: toán & tin
+-sắp lớp
+-tầng, lớp

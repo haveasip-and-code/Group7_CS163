@@ -1,3 +1,5 @@
-tessellate
-	@tessellate /'tesileit/\n*  ngoại động từ\n- khảm; lát đá hao nhiều màu\n@Chuyên ngành kỹ thuật\n-lát gạch
-
+tessellate	@tessellate /'tesileit/
+*  ngoại động từ
+- khảm; lát đá hao nhiều màu
+@Chuyên ngành kỹ thuật
+-lát gạch

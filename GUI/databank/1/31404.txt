@@ -1,3 +1,23 @@
-laminated
-	@laminated /'læmineitid/\n*  tính từ\n- thành phiến, thành lá, gồm những phiến, gồm những lá\n@Chuyên ngành kỹ thuật\n-có lớp mỏng\n-dát mỏng\n-được cán mỏng\n-được dát mỏng\n-được ghép lá\n-được tách lớp\n-nhiều lớp\n@Lĩnh vực: hóa học & vật liệu\n-bị phân lớp\n@Chuyên ngành kỹ thuật\n-có lớp mỏng\n-dát mỏng\n-được cán mỏng\n-được dát mỏng\n-được ghép lá\n-được tách lớp\n-nhiều lớp\n@Lĩnh vực: hóa học & vật liệu\n-bị phân lớp
-
+laminated	@laminated /'læmineitid/
+*  tính từ
+- thành phiến, thành lá, gồm những phiến, gồm những lá
+@Chuyên ngành kỹ thuật
+-có lớp mỏng
+-dát mỏng
+-được cán mỏng
+-được dát mỏng
+-được ghép lá
+-được tách lớp
+-nhiều lớp
+@Lĩnh vực: hóa học & vật liệu
+-bị phân lớp
+@Chuyên ngành kỹ thuật
+-có lớp mỏng
+-dát mỏng
+-được cán mỏng
+-được dát mỏng
+-được ghép lá
+-được tách lớp
+-nhiều lớp
+@Lĩnh vực: hóa học & vật liệu
+-bị phân lớp

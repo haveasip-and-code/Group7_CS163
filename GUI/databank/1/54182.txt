@@ -1,3 +1,42 @@
-subscription
-	@subscription /səb'skripʃn/\n*  danh từ\n- sự quyên góp (tiền); số tiền quyên góp, số tiền đóng\n- tiền đóng trước (để mua cái gì...)\n- sự mua báo dài hạn\n- sự ký tên (vào một văn kiện...)\n- sự tán thành (một ý kiến...)\n@Chuyên ngành kinh tế\n-đăng ký mua\n-đặt mua\n-khoản tiền đóng góp\n-nhận góp (vốn cổ phần)\n-nhận góp vốn cổ phần\n-số nhận góp\n-số tiền quyên góp\n-số tiền trả\n-sự đặt mua (báo chí)\n-sự đặt mua (báo, chí....)\n-sự ký chấp thuận\n-sự ký tên\n-sự ký tên, ký chấp thuận\n-sự nhận mua (cổ phiếu)\n-sự nhận mua cổ phiếu\n-sự thuê bao (điện thoại...)\n-thuê bao (điện thoại)\n-tiền đặt mua\n-tiền đặt trước\n-tiền dự đính\n-tiền lạc quyên\n-tiền ứng mãi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mua đọc định kỳ\n-sự thuê bao (điện thoại)\n@Lĩnh vực: điện lạnh\n-sự thuê bao\n@Lĩnh vực: xây dựng\n-sự thuê bao (điên thoại)\n@Lĩnh vực: điện tử & viễn thông\n-tiểu mục\n@Lĩnh vực: điện\n-việc đặt mua
-
+subscription	@subscription /səb'skripʃn/
+*  danh từ
+- sự quyên góp (tiền); số tiền quyên góp, số tiền đóng
+- tiền đóng trước (để mua cái gì...)
+- sự mua báo dài hạn
+- sự ký tên (vào một văn kiện...)
+- sự tán thành (một ý kiến...)
+@Chuyên ngành kinh tế
+-đăng ký mua
+-đặt mua
+-khoản tiền đóng góp
+-nhận góp (vốn cổ phần)
+-nhận góp vốn cổ phần
+-số nhận góp
+-số tiền quyên góp
+-số tiền trả
+-sự đặt mua (báo chí)
+-sự đặt mua (báo, chí....)
+-sự ký chấp thuận
+-sự ký tên
+-sự ký tên, ký chấp thuận
+-sự nhận mua (cổ phiếu)
+-sự nhận mua cổ phiếu
+-sự thuê bao (điện thoại...)
+-thuê bao (điện thoại)
+-tiền đặt mua
+-tiền đặt trước
+-tiền dự đính
+-tiền lạc quyên
+-tiền ứng mãi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-mua đọc định kỳ
+-sự thuê bao (điện thoại)
+@Lĩnh vực: điện lạnh
+-sự thuê bao
+@Lĩnh vực: xây dựng
+-sự thuê bao (điên thoại)
+@Lĩnh vực: điện tử & viễn thông
+-tiểu mục
+@Lĩnh vực: điện
+-việc đặt mua

@@ -1,3 +1,10 @@
-inference
-	@inference\n- suy luận; kết luận\n- chain i. suy luận dây truyền\n- formal i. suy luận hình thức\n- immediate i. suy luận trực tiếp\n- inductive i. suy luận quy nạp\n- mediate i. suy luận gián tiếp, suy luận trung gian\n- propositional i. suy luận mệnh đề\n- statistic(al) i. kết luận thống kê
-
+inference	
+@inference
+- suy luận; kết luận
+- chain i. suy luận dây truyền
+- formal i. suy luận hình thức
+- immediate i. suy luận trực tiếp
+- inductive i. suy luận quy nạp
+- mediate i. suy luận gián tiếp, suy luận trung gian
+- propositional i. suy luận mệnh đề
+- statistic(al) i. kết luận thống kê

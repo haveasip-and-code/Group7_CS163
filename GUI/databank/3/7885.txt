@@ -1,3 +1,2 @@
-capsules
-	@Chuyên ngành kinh tế\n-máy bao gói nút
-
+capsules	@Chuyên ngành kinh tế
+-máy bao gói nút

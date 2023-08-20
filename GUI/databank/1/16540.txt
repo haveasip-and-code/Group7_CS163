@@ -1,3 +1,13 @@
-dosimeter
-	@dosimeter /dou'simitə/\n*  danh từ\n- cái đo liều lượng\n@Chuyên ngành kinh tế\n-cái đo liều lượng\n-liều lượng kế\n@Chuyên ngành kỹ thuật\n-liều lượng kế\n@Lĩnh vực: y học\n-định lượng kê\n@Lĩnh vực: điện lạnh\n-xạ lượng kế
-
+dosimeter	
+@dosimeter /dou'simitə/
+*  danh từ
+- cái đo liều lượng
+@Chuyên ngành kinh tế
+-cái đo liều lượng
+-liều lượng kế
+@Chuyên ngành kỹ thuật
+-liều lượng kế
+@Lĩnh vực: y học
+-định lượng kê
+@Lĩnh vực: điện lạnh
+-xạ lượng kế

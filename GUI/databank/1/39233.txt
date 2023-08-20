@@ -1,3 +1,61 @@
-paid
-	@paid /pei/\n*  ngoại động từ paid  /peid/\n- trả (tiền lương...); nộp, thanh toán\n=to high wages+ trả lương cao\n=to pay somebody+ trả tiền ai\n=to pay a sum+ trả một số tiền\n=to pay one's debt+ trả nợ, thanh toán nợ\n=to pay taxes+ nộp thuế\n- (nghĩa bóng) trả công, thưởng, đền đáp lại\n- dành cho; đến (thăm...); ngỏ (lời khen...)\n=to pay a visit+ đến thăm\n=to pay one's respects to someone+ đến chào ai\n=to pay someone a compliment+ ngỏ lời khen ngợi, ca tụng ai\n=to pay attention to+ chú ý tới\n- cho (lãi...), mang (lợi...)\n=it pays six per cent+ món đó cho sáu phần trăm lãi\n*  nội động từ\n- trả tiền\n- (+ for) (nghĩa bóng) phải trả giá đắt, phải chịu hậu quả\n=he shall pay for it+ hắn sẽ phải trả giá đắt về việc đó\n- có lợi; mang lợi, sinh lợi\n=this concern does not pay+ công việc kinh doanh chẳng lợi lộc gì\n!to pay away\n- trả hết, thanh toán, trang trải\n- (hàng hải) thả (dây chuyền...)\n!to pay back\n- trả lại, hoàn lại\n!to pay down\n- trả tiền mặt\n!to pay in\n- nộp tiền\n!to pay off\n- thanh toán, trang trải\n- trả hết lương rồi cho thôi việc\n- giáng trả, trả đũa, trả thù\n- cho kết quả, mang lại kết quả\n- (hàng hải) đi né về phía dưới gió (tàu, thuyền)\n!to pay out\n- (như) to pay away\n- trả thù, trừng phạt (ai)\n!to pay up\n- trả hết, thanh toán, trang trải, xuỳ tiền ra\n!to pay someone in his own coin\n- (xem) coin\n!to pay through the nose\n- (xem) nose\n!he who pays the piper calls the tume\n- ai trả tiền thì người ấy có quyền\n!to pay one's way\n- không mang công việc mắc nợ\n!to pay for one's whistle\n- phải trả giá đắt về cái tính ngông cuồng của mình\n*  ngoại động từ\n- sơn, quét hắc ín\n@Chuyên ngành kinh tế\n-đã hưởng lương\n-đã thanh toán\n-đã trả\n@Chuyên ngành kỹ thuật\n-đã thanh toán\n-đã trả tiền
-
+paid	@paid /pei/
+*  ngoại động từ paid  /peid/
+- trả (tiền lương...); nộp, thanh toán
+=to high wages+ trả lương cao
+=to pay somebody+ trả tiền ai
+=to pay a sum+ trả một số tiền
+=to pay one's debt+ trả nợ, thanh toán nợ
+=to pay taxes+ nộp thuế
+- (nghĩa bóng) trả công, thưởng, đền đáp lại
+- dành cho; đến (thăm...); ngỏ (lời khen...)
+=to pay a visit+ đến thăm
+=to pay one's respects to someone+ đến chào ai
+=to pay someone a compliment+ ngỏ lời khen ngợi, ca tụng ai
+=to pay attention to+ chú ý tới
+- cho (lãi...), mang (lợi...)
+=it pays six per cent+ món đó cho sáu phần trăm lãi
+*  nội động từ
+- trả tiền
+- (+ for) (nghĩa bóng) phải trả giá đắt, phải chịu hậu quả
+=he shall pay for it+ hắn sẽ phải trả giá đắt về việc đó
+- có lợi; mang lợi, sinh lợi
+=this concern does not pay+ công việc kinh doanh chẳng lợi lộc gì
+!to pay away
+- trả hết, thanh toán, trang trải
+- (hàng hải) thả (dây chuyền...)
+!to pay back
+- trả lại, hoàn lại
+!to pay down
+- trả tiền mặt
+!to pay in
+- nộp tiền
+!to pay off
+- thanh toán, trang trải
+- trả hết lương rồi cho thôi việc
+- giáng trả, trả đũa, trả thù
+- cho kết quả, mang lại kết quả
+- (hàng hải) đi né về phía dưới gió (tàu, thuyền)
+!to pay out
+- (như) to pay away
+- trả thù, trừng phạt (ai)
+!to pay up
+- trả hết, thanh toán, trang trải, xuỳ tiền ra
+!to pay someone in his own coin
+- (xem) coin
+!to pay through the nose
+- (xem) nose
+!he who pays the piper calls the tume
+- ai trả tiền thì người ấy có quyền
+!to pay one's way
+- không mang công việc mắc nợ
+!to pay for one's whistle
+- phải trả giá đắt về cái tính ngông cuồng của mình
+*  ngoại động từ
+- sơn, quét hắc ín
+@Chuyên ngành kinh tế
+-đã hưởng lương
+-đã thanh toán
+-đã trả
+@Chuyên ngành kỹ thuật
+-đã thanh toán
+-đã trả tiền

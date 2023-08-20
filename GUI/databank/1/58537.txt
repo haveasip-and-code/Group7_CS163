@@ -1,3 +1,3 @@
-umlaut
-	@umlaut /'umlaut/\n*  danh từ\n- (ngôn ngữ học) Umlau, hiện tượng biến âm sắc
-
+umlaut	@umlaut /'umlaut/
+*  danh từ
+- (ngôn ngữ học) Umlau, hiện tượng biến âm sắc

@@ -1,3 +1,4 @@
-adsorbed
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vật hấp phụ
-
+adsorbed	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-vật hấp phụ

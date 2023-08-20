@@ -1,3 +1,19 @@
-lancet
-	@lancet /'lɑ:nsit/\n*  danh từ\n- (y học) lưỡi trích\n- vòm đỉnh nhọn ((cũng) lancet arch)\n- cửa sổ nhọn phía trên ((cũng) lancet windown)\n@Chuyên ngành kỹ thuật\n-cửa tò vò\n-mũi tên vòm\n@Lĩnh vực: xây dựng\n-cửa sổ hẹp\n@Lĩnh vực: y học\n-lưỡi chích (dao mổ rộng có hai cạnh sắc và có đầu nhọn)\n@Chuyên ngành kỹ thuật\n-cửa tò vò\n-mũi tên vòm\n@Lĩnh vực: xây dựng\n-cửa sổ hẹp\n@Lĩnh vực: y học\n-lưỡi chích (dao mổ rộng có hai cạnh sắc và có đầu nhọn)
-
+lancet	@lancet /'lɑ:nsit/
+*  danh từ
+- (y học) lưỡi trích
+- vòm đỉnh nhọn ((cũng) lancet arch)
+- cửa sổ nhọn phía trên ((cũng) lancet windown)
+@Chuyên ngành kỹ thuật
+-cửa tò vò
+-mũi tên vòm
+@Lĩnh vực: xây dựng
+-cửa sổ hẹp
+@Lĩnh vực: y học
+-lưỡi chích (dao mổ rộng có hai cạnh sắc và có đầu nhọn)
+@Chuyên ngành kỹ thuật
+-cửa tò vò
+-mũi tên vòm
+@Lĩnh vực: xây dựng
+-cửa sổ hẹp
+@Lĩnh vực: y học
+-lưỡi chích (dao mổ rộng có hai cạnh sắc và có đầu nhọn)

@@ -1,3 +1,14 @@
-crevice
-	@crevice /'krevis/\n*  danh từ\n- đường nứt, kẽ hở (tường, núi đá)\n@Chuyên ngành kỹ thuật\n-đường nứt\n-kẽ hở\n-khe\n-khe hở\n-khe nứt\n-khe nứt trong đá\n-nứt nẻ\n-vết nứt\n@Lĩnh vực: hóa học & vật liệu\n-khe chữa mạch quặng
-
+crevice	@crevice /'krevis/
+*  danh từ
+- đường nứt, kẽ hở (tường, núi đá)
+@Chuyên ngành kỹ thuật
+-đường nứt
+-kẽ hở
+-khe
+-khe hở
+-khe nứt
+-khe nứt trong đá
+-nứt nẻ
+-vết nứt
+@Lĩnh vực: hóa học & vật liệu
+-khe chữa mạch quặng

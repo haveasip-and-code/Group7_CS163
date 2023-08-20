@@ -1,3 +1,9 @@
-handover
-	@handover\n* danh từ\n- sự bàn giao (quyền lực, trách nhiệm)\n@Chuyên ngành kỹ thuật\n-chuyển vùng\n-sự chuyển qua\n@Lĩnh vực: vật lý\n-sự giao lại
-
+handover	
+@handover
+* danh từ
+- sự bàn giao (quyền lực, trách nhiệm)
+@Chuyên ngành kỹ thuật
+-chuyển vùng
+-sự chuyển qua
+@Lĩnh vực: vật lý
+-sự giao lại

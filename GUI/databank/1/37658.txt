@@ -1,3 +1,23 @@
-official
-	@official /ə'fiʃəl/\n*  tính từ\n- (thuộc) chính quyền; (thuộc) văn phòng\n- chính thức\n=an official statement+ lời tuyên bố chính thức\n- trịnh trọng, theo nghi thức\n- (y học) để làm thuốc, dùng làm thuốc\n*  danh từ\n- viên chức, công chức\n- (tôn giáo) uỷ viên tài phán của giáo hội ((thường) official principal)\n@Chuyên ngành kinh tế\n-chính thức\n-nhân viên\n-quan chức\n-thuộc về công\n-thuộc về nhà nước\n-viên chức\n-viên chức (chính phủ)\n-viên chức cấp cao (của công ty)\n@Chuyên ngành kỹ thuật\n-chính thức\n@Lĩnh vực: y học\n-chính thức, theo qui định dược thư
-
+official	@official /ə'fiʃəl/
+*  tính từ
+- (thuộc) chính quyền; (thuộc) văn phòng
+- chính thức
+=an official statement+ lời tuyên bố chính thức
+- trịnh trọng, theo nghi thức
+- (y học) để làm thuốc, dùng làm thuốc
+*  danh từ
+- viên chức, công chức
+- (tôn giáo) uỷ viên tài phán của giáo hội ((thường) official principal)
+@Chuyên ngành kinh tế
+-chính thức
+-nhân viên
+-quan chức
+-thuộc về công
+-thuộc về nhà nước
+-viên chức
+-viên chức (chính phủ)
+-viên chức cấp cao (của công ty)
+@Chuyên ngành kỹ thuật
+-chính thức
+@Lĩnh vực: y học
+-chính thức, theo qui định dược thư

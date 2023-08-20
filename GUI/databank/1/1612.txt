@@ -1,3 +1,4 @@
-alloxan
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một chất dẫn xuất từ pyrimidine
-
+alloxan	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một chất dẫn xuất từ pyrimidine

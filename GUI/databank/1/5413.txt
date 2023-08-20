@@ -1,3 +1,6 @@
-bibcock
-	@Chuyên ngành kỹ thuật\n-vòi dẫn nước\n-vòi nước\n@Lĩnh vực: hóa học & vật liệu\n-vòi dẫn
-
+bibcock	
+@Chuyên ngành kỹ thuật
+-vòi dẫn nước
+-vòi nước
+@Lĩnh vực: hóa học & vật liệu
+-vòi dẫn

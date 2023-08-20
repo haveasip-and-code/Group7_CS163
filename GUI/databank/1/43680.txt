@@ -1,3 +1,2 @@
-priorly
-	@priorly\n- xem prior
-
+priorly	@priorly
+- xem prior

@@ -1,3 +1,5 @@
-microparticle
-	@Chuyên ngành kỹ thuật\n-vi hạt\n@Lĩnh vực: điện lạnh\n-hạt vi mô\n-vi phần tử
-
+microparticle	@Chuyên ngành kỹ thuật
+-vi hạt
+@Lĩnh vực: điện lạnh
+-hạt vi mô
+-vi phần tử

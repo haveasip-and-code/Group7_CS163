@@ -1,3 +1,37 @@
-evidence
-	@evidence /'evidəns/\n*  danh từ\n- tính hiển nhiên; tính rõ ràng, tính rõ rệt\n=in evidence+ rõ ràng, rõ rệt\n- (pháp lý) chứng, chứng cớ, bằng chứng\n=to bear (give) evidence+ làm chứng\n=to call in evidence+ gọi ra làm chứng\n- dấu hiệu; chứng chỉ\n=to give (bear) evidence of+ là dấu hiệu của; chứng tỏ (cái gì)\n!to turn King's (Queen's) evidence\n!to turn State's evidence\n- tố cáo những kẻ đồng loã\n*  ngoại động từ\n- chứng tỏ, chứng minh\n*  nội động từ\n- làm chứng\n@Chuyên ngành kinh tế\n-bằng chứng\n-chứng cớ\n-chứng cứ\n-chứng từ\n-giấy chứng\n@Chuyên ngành kỹ thuật\n-bằng chứng\n-chứng cớ\n-sự chứng minh\n@Lĩnh vực: toán & tin\n-sự rõ ràng\n@Lĩnh vực: hóa học & vật liệu\n-tính rõ ràng\n@Chuyên ngành kỹ thuật\n-bằng chứng\n-chứng cớ\n-sự chứng minh\n@Lĩnh vực: toán & tin\n-sự rõ ràng\n@Lĩnh vực: hóa học & vật liệu\n-tính rõ ràng
-
+evidence	
+@evidence /'evidəns/
+*  danh từ
+- tính hiển nhiên; tính rõ ràng, tính rõ rệt=in evidence
++ rõ ràng, rõ rệt
+- (pháp lý) chứng, chứng cớ, bằng chứng=to bear (give) evidence
++ làm chứng=to call in evidence
++ gọi ra làm chứng
+- dấu hiệu; chứng chỉ=to give (bear) evidence of
++ là dấu hiệu của; chứng tỏ (cái gì)!to turn King's (Queen's) evidence!to turn State's evidence
+- tố cáo những kẻ đồng loã
+*  ngoại động từ
+- chứng tỏ, chứng minh
+*  nội động từ
+- làm chứng
+@Chuyên ngành kinh tế
+-bằng chứng
+-chứng cớ
+-chứng cứ
+-chứng từ
+-giấy chứng
+@Chuyên ngành kỹ thuật
+-bằng chứng
+-chứng cớ
+-sự chứng minh
+@Lĩnh vực: toán & tin
+-sự rõ ràng
+@Lĩnh vực: hóa học & vật liệu
+-tính rõ ràng
+@Chuyên ngành kỹ thuật
+-bằng chứng
+-chứng cớ
+-sự chứng minh
+@Lĩnh vực: toán & tin
+-sự rõ ràng
+@Lĩnh vực: hóa học & vật liệu
+-tính rõ ràng

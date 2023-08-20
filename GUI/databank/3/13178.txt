@@ -1,3 +1,2 @@
-curves
-	@Chuyên ngành kỹ thuật\n-đường cong
-
+curves	@Chuyên ngành kỹ thuật
+-đường cong

@@ -1,3 +1,2 @@
-corder
-	@corder\n- xem cord
-
+corder	@corder
+- xem cord

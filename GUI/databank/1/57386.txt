@@ -1,3 +1,16 @@
-transform
-	@transform /træns'fɔ:m/\n*  ngoại động từ\n- thay đổi, biến đổi\n- làm biến chất, làm biến tính\n@Chuyên ngành kỹ thuật\n-biến dạng\n-biến đổi\n-chuyển đổi\n-dịch\n-sự biến đổi\n-sự chuyển đổi\n@Lĩnh vực: toán & tin\n-biến đổi, ánh xạ\n-sự cải biến dạng\n@Lĩnh vực: điện lạnh\n-biến quả
-
+transform	@transform /træns'fɔ:m/
+*  ngoại động từ
+- thay đổi, biến đổi
+- làm biến chất, làm biến tính
+@Chuyên ngành kỹ thuật
+-biến dạng
+-biến đổi
+-chuyển đổi
+-dịch
+-sự biến đổi
+-sự chuyển đổi
+@Lĩnh vực: toán & tin
+-biến đổi, ánh xạ
+-sự cải biến dạng
+@Lĩnh vực: điện lạnh
+-biến quả

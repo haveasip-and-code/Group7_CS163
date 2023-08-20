@@ -1,3 +1,87 @@
-support
-	@support /sə'pɔ:t/\n*  danh từ\n- sự ủng hộ\n=to give support to somebody+ ủng hộ ai\n=to require support+ cần được sự ủng hộ\n=to speak in support of somebody+ phát biểu ý kiến ủng hộ ai\n- người ủng hộ\n=the chief support of the cause+ người ủng hộ chính của sự nghiệp\n- người nhờ cậy, nơi nương tựa, cột trụ (của gia đình...); nguồn sinh sống\n=the sole support of one's old age+ người nhờ cậy độc nhất trong lúc tuổi gìa\n- vật chống, cột chống\n*  ngoại động từ\n- chống, đỡ\n- truyền sức mạnh, khuyến khích\n=what supported him was hope+ điều khuyến khích anh ta là nguồn hy vọng\n- chịu đựng, dung thứ\n=to support fatigue well+ chịu đựng mệt giỏi\n- nuôi nấng, cấp dưỡng\n=to support a family+ nuôi nấng gia đình\n- ủng hộ\n=to support a policy+ ủng hộ một chính sách\n=to support an institution+ ủng hộ (tiền) cho một tổ chức\n- chứng minh, xác minh\n=to support a charge+ chứng minh lời kết tội\n- (sân khấu) đóng giỏi (một vai)\n@Chuyên ngành kinh tế\n-chống đỡ\n-giúp đỡ\n-hậu thuẫn\n-sự ủng hộ\n-trợ giúp\n-ủng hộ\n@Chuyên ngành kỹ thuật\n-bàn dao\n-bệ\n-bệ đỡ\n-cái giá\n-cần\n-chấp nhận\n-chống\n-chống đỡ\n-chứng minh\n-côngxon\n-cột\n-cột trống\n-dầm chìa\n-đế\n-điểm tựa\n-đỡ\n-đồ gá\n-đồ gá kẹp chặt\n-giá\n-giá chìa\n-giá đỡ\n-giá kẹp\n-giá treo\n-giữ gìn\n-gờ đỡ\n-gối kê\n-gối tựa\n-hỗ trợ\n-khung\n-khung chống\n-khung đỡ\n-lớp lót\n-lớp nền\n-nền\n-sự tựa\n-thanh\n-trụ đỡ\n-vì chống\n-xác nhận\n@Lĩnh vực: cơ khí & công trình\n-cái đỡ\n-giá chì\n-giã đỡ\n-ổ trụ\n@Lĩnh vực: y học\n-giá, giá đỡ\n@Lĩnh vực: xây dựng\n-gối tự\n-mố trụ cầu (nói chung)\n-sự kê\n@Lĩnh vực: toán & tin\n-sự hỗ trợ\n@Lĩnh vực: điện lạnh\n-ủng hộ
-
+support	@support /sə'pɔ:t/
+*  danh từ
+- sự ủng hộ
+=to give support to somebody+ ủng hộ ai
+=to require support+ cần được sự ủng hộ
+=to speak in support of somebody+ phát biểu ý kiến ủng hộ ai
+- người ủng hộ
+=the chief support of the cause+ người ủng hộ chính của sự nghiệp
+- người nhờ cậy, nơi nương tựa, cột trụ (của gia đình...); nguồn sinh sống
+=the sole support of one's old age+ người nhờ cậy độc nhất trong lúc tuổi gìa
+- vật chống, cột chống
+*  ngoại động từ
+- chống, đỡ
+- truyền sức mạnh, khuyến khích
+=what supported him was hope+ điều khuyến khích anh ta là nguồn hy vọng
+- chịu đựng, dung thứ
+=to support fatigue well+ chịu đựng mệt giỏi
+- nuôi nấng, cấp dưỡng
+=to support a family+ nuôi nấng gia đình
+- ủng hộ
+=to support a policy+ ủng hộ một chính sách
+=to support an institution+ ủng hộ (tiền) cho một tổ chức
+- chứng minh, xác minh
+=to support a charge+ chứng minh lời kết tội
+- (sân khấu) đóng giỏi (một vai)
+@Chuyên ngành kinh tế
+-chống đỡ
+-giúp đỡ
+-hậu thuẫn
+-sự ủng hộ
+-trợ giúp
+-ủng hộ
+@Chuyên ngành kỹ thuật
+-bàn dao
+-bệ
+-bệ đỡ
+-cái giá
+-cần
+-chấp nhận
+-chống
+-chống đỡ
+-chứng minh
+-côngxon
+-cột
+-cột trống
+-dầm chìa
+-đế
+-điểm tựa
+-đỡ
+-đồ gá
+-đồ gá kẹp chặt
+-giá
+-giá chìa
+-giá đỡ
+-giá kẹp
+-giá treo
+-giữ gìn
+-gờ đỡ
+-gối kê
+-gối tựa
+-hỗ trợ
+-khung
+-khung chống
+-khung đỡ
+-lớp lót
+-lớp nền
+-nền
+-sự tựa
+-thanh
+-trụ đỡ
+-vì chống
+-xác nhận
+@Lĩnh vực: cơ khí & công trình
+-cái đỡ
+-giá chì
+-giã đỡ
+-ổ trụ
+@Lĩnh vực: y học
+-giá, giá đỡ
+@Lĩnh vực: xây dựng
+-gối tự
+-mố trụ cầu (nói chung)
+-sự kê
+@Lĩnh vực: toán & tin
+-sự hỗ trợ
+@Lĩnh vực: điện lạnh
+-ủng hộ

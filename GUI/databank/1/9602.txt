@@ -1,3 +1,7 @@
-clan
-	@clan /klæn/\n*  danh từ\n- thị tộc\n- bè đảng, phe cánh\n@Chuyên ngành kỹ thuật\n-họ
-
+clan	
+@clan /klæn/
+*  danh từ
+- thị tộc
+- bè đảng, phe cánh
+@Chuyên ngành kỹ thuật
+-họ

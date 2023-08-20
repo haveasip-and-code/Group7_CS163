@@ -1,3 +1,51 @@
-trailer
-	@trailer /'treilə/\n*  danh từ\n- người lần theo dấu vết, người theo dò\n- xe moóc, toa moóc\n- cây bò; cây leo\n- (thông tục) người đi sau, người tụt lại sau, người rớt lại sau\n- (điện ảnh) đoạn phim quảng cáo phim mới\n@Chuyên ngành kinh tế\n-đoạn quảng cáo trong phim\n-nhà lưu động\n-xe kéo sau xe hơi\n-xe moóc\n-xe rờ-mọc\n-xe rơ-mooc\n@Chuyên ngành kỹ thuật\n-đoạn cuối\n-giá chuyển hướng\n-nhà xe lưu động\n-mục cuối\n-phần đuôi\n-rơmoóc\n-toa moóc\n-xe đẩy\n-xe goòng\n-xe moóc\n-xe moóc cắm trại\n-xe moóc cẩu\n-xe tải\n-xe tải hạng nặng\n-xe tải lớn\n@Lĩnh vực: toán & tin\n-bản ghi cuối\n-bộ dò vết\n@Lĩnh vực: xây dựng\n-nhà kéo theo xe\n-xe kéo moóc\n-xe mó\n-xe rơmoóc\n@Lĩnh vực: điện tử & viễn thông\n-mã kết thúc\n@Lĩnh vực: ô tô\n-moóc\n-moóc (của) ô tô\n-ô tô kéo\n-xe móc\n-xe mooc\n-xe nhà lưa động\n@Lĩnh vực: điện lạnh\n-vệt sót\n@Lĩnh vực: cơ khí & công trình\n-xe móc hậu
-
+trailer	@trailer /'treilə/
+*  danh từ
+- người lần theo dấu vết, người theo dò
+- xe moóc, toa moóc
+- cây bò; cây leo
+- (thông tục) người đi sau, người tụt lại sau, người rớt lại sau
+- (điện ảnh) đoạn phim quảng cáo phim mới
+@Chuyên ngành kinh tế
+-đoạn quảng cáo trong phim
+-nhà lưu động
+-xe kéo sau xe hơi
+-xe moóc
+-xe rờ-mọc
+-xe rơ-mooc
+@Chuyên ngành kỹ thuật
+-đoạn cuối
+-giá chuyển hướng
+-nhà xe lưu động
+-mục cuối
+-phần đuôi
+-rơmoóc
+-toa moóc
+-xe đẩy
+-xe goòng
+-xe moóc
+-xe moóc cắm trại
+-xe moóc cẩu
+-xe tải
+-xe tải hạng nặng
+-xe tải lớn
+@Lĩnh vực: toán & tin
+-bản ghi cuối
+-bộ dò vết
+@Lĩnh vực: xây dựng
+-nhà kéo theo xe
+-xe kéo moóc
+-xe mó
+-xe rơmoóc
+@Lĩnh vực: điện tử & viễn thông
+-mã kết thúc
+@Lĩnh vực: ô tô
+-moóc
+-moóc (của) ô tô
+-ô tô kéo
+-xe móc
+-xe mooc
+-xe nhà lưa động
+@Lĩnh vực: điện lạnh
+-vệt sót
+@Lĩnh vực: cơ khí & công trình
+-xe móc hậu

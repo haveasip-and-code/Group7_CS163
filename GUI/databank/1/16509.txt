@@ -1,3 +1,35 @@
-dope
-	@dope /doup/\n*  danh từ\n- chất đặc quánh\n- sơn lắc (sơn tàu bay)\n- thuốc làm tê mê; chất ma tuý (thuốc phiện,  cocain...); rượu mạnh\n- (từ Mỹ,nghĩa Mỹ) người nghiện (thuốc phiện,  cocain...), người nghiện ma tuý\n- thuốc kích thích (cho ngựa đua...)\n- (hoá học) chất hút thu (để chế tạo thuốc nổ)\n- (từ lóng) tin mách nước ngựa đua; tin riêng (cho phóng viên báo chí)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người trì độn, người đần độn, người lơ mơ thẫn thờ\n*  ngoại động từ\n- cho dùng thuốc tê mê, cho dùng chất ma tuý; cho (ngựa đua...) uống thuốc kích thích\n=to dope oneself with cocaine+ hít cocain\n- sơn (máy bay) bằng sơn lắc\n- (từ Mỹ,nghĩa Mỹ) đoán ra được, hình dung được, hiểu được\n*  nội động từ\n- dùng thuốc tê mê, dùng chất ma tuý; (thuốc phiện,  cocain...); uống thuốc kích thích\n@Chuyên ngành kỹ thuật\n-bột nhão\n-chất phụ gia\n-pha tạp (chất)\n-sơn\n@Lĩnh vực: hóa học & vật liệu\n-chất lỏng dope\n-sơn máy bay\n-thuốc mê\n@Lĩnh vực: điện lạnh\n-cho thêm\n@Lĩnh vực: vật lý\n-pha tạp\n@Lĩnh vực: thực phẩm\n-pha thêm\n@Lĩnh vực: toán & tin\n-thêm tạp chất
-
+dope	
+@dope /doup/
+*  danh từ
+- chất đặc quánh
+- sơn lắc (sơn tàu bay)
+- thuốc làm tê mê; chất ma tuý (thuốc phiện,  cocain...); rượu mạnh
+- (từ Mỹ,nghĩa Mỹ) người nghiện (thuốc phiện,  cocain...), người nghiện ma tuý
+- thuốc kích thích (cho ngựa đua...)
+- (hoá học) chất hút thu (để chế tạo thuốc nổ)
+- (từ lóng) tin mách nước ngựa đua; tin riêng (cho phóng viên báo chí)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người trì độn, người đần độn, người lơ mơ thẫn thờ
+*  ngoại động từ
+- cho dùng thuốc tê mê, cho dùng chất ma tuý; cho (ngựa đua...) uống thuốc kích thích=to dope oneself with cocaine
++ hít cocain
+- sơn (máy bay) bằng sơn lắc
+- (từ Mỹ,nghĩa Mỹ) đoán ra được, hình dung được, hiểu được
+*  nội động từ
+- dùng thuốc tê mê, dùng chất ma tuý; (thuốc phiện,  cocain...); uống thuốc kích thích
+@Chuyên ngành kỹ thuật
+-bột nhão
+-chất phụ gia
+-pha tạp (chất)
+-sơn
+@Lĩnh vực: hóa học & vật liệu
+-chất lỏng dope
+-sơn máy bay
+-thuốc mê
+@Lĩnh vực: điện lạnh
+-cho thêm
+@Lĩnh vực: vật lý
+-pha tạp
+@Lĩnh vực: thực phẩm
+-pha thêm
+@Lĩnh vực: toán & tin
+-thêm tạp chất

@@ -1,3 +1,10 @@
-specialty
-	@specialty /'speʃəlti/\n*  danh từ\n- (pháp lý) hợp đồng (đặc biệt) có đóng dấu\n- ngành chuyên môn, ngành chuyên khoa\n- (từ Mỹ,nghĩa Mỹ) nét đặc biệt\n- (từ Mỹ,nghĩa Mỹ) món đặc biệt (của một hàng ăn...); sản phẩm đặc biệt (của một hãng sản xuất)\n@Chuyên ngành kinh tế\n-các sản phẩm đặc biệt\n@Chuyên ngành kỹ thuật\n-ngành chuyên môn
-
+specialty	@specialty /'speʃəlti/
+*  danh từ
+- (pháp lý) hợp đồng (đặc biệt) có đóng dấu
+- ngành chuyên môn, ngành chuyên khoa
+- (từ Mỹ,nghĩa Mỹ) nét đặc biệt
+- (từ Mỹ,nghĩa Mỹ) món đặc biệt (của một hàng ăn...); sản phẩm đặc biệt (của một hãng sản xuất)
+@Chuyên ngành kinh tế
+-các sản phẩm đặc biệt
+@Chuyên ngành kỹ thuật
+-ngành chuyên môn

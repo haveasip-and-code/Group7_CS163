@@ -1,3 +1,4 @@
-coproducer
-	@coproducer\n* danh từ\n- người cùng sản suất
-
+coproducer	
+@coproducer
+* danh từ
+- người cùng sản suất

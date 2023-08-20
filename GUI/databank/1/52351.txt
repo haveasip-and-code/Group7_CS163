@@ -1,3 +1,9 @@
-spheroid
-	@spheroid /'sfiərɔid/\n*  danh từ\n- hình phỏng cầu, hình tựa cầu\n@Chuyên ngành kỹ thuật\n-elipsoit tròn xoay\n-hình phỏng cầu\n-khối phỏng cầu\n@Lĩnh vực: xây dựng\n-hình tròn xoay
-
+spheroid	@spheroid /'sfiərɔid/
+*  danh từ
+- hình phỏng cầu, hình tựa cầu
+@Chuyên ngành kỹ thuật
+-elipsoit tròn xoay
+-hình phỏng cầu
+-khối phỏng cầu
+@Lĩnh vực: xây dựng
+-hình tròn xoay

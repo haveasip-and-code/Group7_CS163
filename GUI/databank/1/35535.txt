@@ -1,3 +1,4 @@
-monomolecular
-	@Chuyên ngành kỹ thuật\n-đơn phân tử\n@Lĩnh vực: hóa học & vật liệu\n-một phân tử
-
+monomolecular	@Chuyên ngành kỹ thuật
+-đơn phân tử
+@Lĩnh vực: hóa học & vật liệu
+-một phân tử

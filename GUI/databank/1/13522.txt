@@ -1,3 +1,11 @@
-darkening
-	@Chuyên ngành kinh tế\n-sự thâm lại\n-sự tối lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hóa đen\n-tối lại\n@Lĩnh vực: điện lạnh\n-sự hóa đen\n-sự sẫm lại
-
+darkening	
+@Chuyên ngành kinh tế
+-sự thâm lại
+-sự tối lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hóa đen
+-tối lại
+@Lĩnh vực: điện lạnh
+-sự hóa đen
+-sự sẫm lại

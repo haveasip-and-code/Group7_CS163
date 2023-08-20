@@ -1,3 +1,52 @@
-shed
-	@shed /ʃed/\n*  danh từ\n- lán, túp lều (đề hàng hoá, dụng cụ)\n- chuồng (trâu, bò, ngựa)\n*  ngoại động từ shed\n- rụng (lá...), lột (da...)\n=tree sheds leaves+ cây rụng lá\n=snake sheds skin+ rắn lột da\n=stag sheds horn+ hươu rụng sừng\n- bỏ rơi, để rơi\n=to shed one's colleagues+ bỏ rơi đồng nghiệp\n=to shed tears+ rơi lệ\n=to shed one's blood for one's country+ đổ máu vì đất nước\n- tung ra, toả ra\n=to shed perfume+ toả hương thơm\n=lamp sheds light+ ngọn đèn toả ánh sáng\n=to shed love+ toả tình thương yêu\n*  nội động từ\n- rụng (lá...), lột (rắn...)\n@Chuyên ngành kinh tế\n-mái che\n-mái hiên\n@Chuyên ngành kỹ thuật\n-bản lề\n-đẩy ra\n-lều\n-nhà để máy bay\n-nhà kho\n-mái che\n-mái hiên\n-phân xưởng\n-phòng rộng\n-quán\n-vỉa kẹp\n-xưởng\n@Lĩnh vực: xây dựng\n-đơn sơ)\n-gian nhà lớn\n-lán\n-mái che (hình răng cưa)\n-trại (nhỏ\n-vỉa xen giữa\n@Lĩnh vực: điện\n-nhà để máy\n-thả rơi\n@Lĩnh vực: cơ khí & công trình\n-nhà xe\n-thúc ra\n-xếp dưới mái che\n@Lĩnh vực: dệt may\n-miệng thoi\n-miệng vải
-
+shed	@shed /ʃed/
+*  danh từ
+- lán, túp lều (đề hàng hoá, dụng cụ)
+- chuồng (trâu, bò, ngựa)
+*  ngoại động từ shed
+- rụng (lá...), lột (da...)
+=tree sheds leaves+ cây rụng lá
+=snake sheds skin+ rắn lột da
+=stag sheds horn+ hươu rụng sừng
+- bỏ rơi, để rơi
+=to shed one's colleagues+ bỏ rơi đồng nghiệp
+=to shed tears+ rơi lệ
+=to shed one's blood for one's country+ đổ máu vì đất nước
+- tung ra, toả ra
+=to shed perfume+ toả hương thơm
+=lamp sheds light+ ngọn đèn toả ánh sáng
+=to shed love+ toả tình thương yêu
+*  nội động từ
+- rụng (lá...), lột (rắn...)
+@Chuyên ngành kinh tế
+-mái che
+-mái hiên
+@Chuyên ngành kỹ thuật
+-bản lề
+-đẩy ra
+-lều
+-nhà để máy bay
+-nhà kho
+-mái che
+-mái hiên
+-phân xưởng
+-phòng rộng
+-quán
+-vỉa kẹp
+-xưởng
+@Lĩnh vực: xây dựng
+-đơn sơ)
+-gian nhà lớn
+-lán
+-mái che (hình răng cưa)
+-trại (nhỏ
+-vỉa xen giữa
+@Lĩnh vực: điện
+-nhà để máy
+-thả rơi
+@Lĩnh vực: cơ khí & công trình
+-nhà xe
+-thúc ra
+-xếp dưới mái che
+@Lĩnh vực: dệt may
+-miệng thoi
+-miệng vải

@@ -1,3 +1,14 @@
-library
-	@library /'laibrəri/\n*  danh từ\n- thư viện, phòng đọc sách\n=circulating library+ thư viện lưu động\n=free library public library+ thư viện công cộng\n=reference library+ thư viện tra cứu\n- tủ sách\n- loại sách (có liên quan về nội dung, đóng bìa giống nhau)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thư viện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thư viện
-
+library	@library /'laibrəri/
+*  danh từ
+- thư viện, phòng đọc sách
+=circulating library+ thư viện lưu động
+=free library public library+ thư viện công cộng
+=reference library+ thư viện tra cứu
+- tủ sách
+- loại sách (có liên quan về nội dung, đóng bìa giống nhau)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thư viện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thư viện

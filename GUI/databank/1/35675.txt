@@ -1,3 +1,9 @@
-morgue
-	@morgue /mɔ:g/\n*  danh từ\n- nhà xác\n- phòng tư liệu (của một toà báo...); tư liệu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nhà mổ xác\n@Lĩnh vực: xây dựng\n-nhà xác
-
+morgue	@morgue /mɔ:g/
+*  danh từ
+- nhà xác
+- phòng tư liệu (của một toà báo...); tư liệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nhà mổ xác
+@Lĩnh vực: xây dựng
+-nhà xác

@@ -1,3 +1,34 @@
-slough
-	@slough /slau/\n*  danh từ\n- vũng bùn, chỗ bùn lầy, bãi lầy ((cũng) slew)\n- sự sa đoạ\n- sự thất vọng\n!the Slough of Despond\n- sự sa đoạ vào vòng tội lỗi\n*  danh từ\n- xác rắn lột\n- (y học) vảy kết; vết mục, mảng mục\n- (nghĩa bóng) thói xấu đã bỏ được\n*  nội động từ\n- lột da\n- (y học) ((thường) + off,  away) tróc ra (vảy kết; vết mục, mảng mục)\n*  ngoại động từ\n- lột (da, xác...)\n=snake sloughs its skin+ rắn lột xác\n- ((thường) + off,  away) bỏ, vứt bỏ\n=to slough [off] a bad habit+ bỏ một thói xấu\n- (đánh bài) chui (một quân bài xấu)\n@Chuyên ngành kỹ thuật\n-bãi lầy\n-bãi than bùn\n-bùn, mùn\n-chỗ lầy\n-đầm lầy\n-sự sụt đất\n-sự trượt\n-vũng lầy\n@Lĩnh vực: y học\n-mảng mô hoại tử\n@Lĩnh vực: xây dựng\n-sự sụt mái dốc\n-vũng bùn
-
+slough	@slough /slau/
+*  danh từ
+- vũng bùn, chỗ bùn lầy, bãi lầy ((cũng) slew)
+- sự sa đoạ
+- sự thất vọng
+!the Slough of Despond
+- sự sa đoạ vào vòng tội lỗi
+*  danh từ
+- xác rắn lột
+- (y học) vảy kết; vết mục, mảng mục
+- (nghĩa bóng) thói xấu đã bỏ được
+*  nội động từ
+- lột da
+- (y học) ((thường) + off,  away) tróc ra (vảy kết; vết mục, mảng mục)
+*  ngoại động từ
+- lột (da, xác...)
+=snake sloughs its skin+ rắn lột xác
+- ((thường) + off,  away) bỏ, vứt bỏ
+=to slough [off] a bad habit+ bỏ một thói xấu
+- (đánh bài) chui (một quân bài xấu)
+@Chuyên ngành kỹ thuật
+-bãi lầy
+-bãi than bùn
+-bùn, mùn
+-chỗ lầy
+-đầm lầy
+-sự sụt đất
+-sự trượt
+-vũng lầy
+@Lĩnh vực: y học
+-mảng mô hoại tử
+@Lĩnh vực: xây dựng
+-sự sụt mái dốc
+-vũng bùn

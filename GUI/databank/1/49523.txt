@@ -1,3 +1,2 @@
-securing
-	@Chuyên ngành kỹ thuật\n-kẹp chặt
-
+securing	@Chuyên ngành kỹ thuật
+-kẹp chặt

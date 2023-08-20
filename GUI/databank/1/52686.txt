@@ -1,3 +1,13 @@
-spreadsheet
-	@spreadsheet\n* danh từ\n- bảng tính (trong máy tính)\n@Chuyên ngành kinh tế\n-bảng biểu\n-bảng biểu (hiện ra từng nhóm trên màn hình máy vi tính)\n-bảng tính\n-biểu giải trình\n-thứ tự biểu trống\n-tờ trình\n@Chuyên ngành kỹ thuật\n-bảng tính\n-bảng tính điện tử
-
+spreadsheet	@spreadsheet
+* danh từ
+- bảng tính (trong máy tính)
+@Chuyên ngành kinh tế
+-bảng biểu
+-bảng biểu (hiện ra từng nhóm trên màn hình máy vi tính)
+-bảng tính
+-biểu giải trình
+-thứ tự biểu trống
+-tờ trình
+@Chuyên ngành kỹ thuật
+-bảng tính
+-bảng tính điện tử

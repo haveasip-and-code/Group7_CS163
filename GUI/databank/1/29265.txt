@@ -1,3 +1,16 @@
-interdict
-	@interdict /'intədikt/\n*  danh từ\n- sự cấm, sự cấm chỉ\n- (tôn giáo) sự khai trừ, sự huyền chức\n*  động từ\n- cấm, cấm chỉ\n- (tôn giáo) khai trừ, huyền chức\n- (từ Mỹ,nghĩa Mỹ),  (quân sự) ngăn chặn (tiếp tế...) bằng cách bắn phá đường giao thông\n@Chuyên ngành kinh tế\n-cấm chỉ\n-cấm chỉ (của tòa án)\n-lệnh cấm\n-sự cấm chỉ\n@Chuyên ngành kỹ thuật\n-ngăn cấm
-
+interdict	
+@interdict /'intədikt/
+*  danh từ
+- sự cấm, sự cấm chỉ
+- (tôn giáo) sự khai trừ, sự huyền chức
+*  động từ
+- cấm, cấm chỉ
+- (tôn giáo) khai trừ, huyền chức
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) ngăn chặn (tiếp tế...) bằng cách bắn phá đường giao thông
+@Chuyên ngành kinh tế
+-cấm chỉ
+-cấm chỉ (của tòa án)
+-lệnh cấm
+-sự cấm chỉ
+@Chuyên ngành kỹ thuật
+-ngăn cấm

@@ -1,3 +1,28 @@
-subscribe
-	@subscribe\n* ngoại động từ\n- (to subscribe something to something) ký (tên) vào bên dưới một văn kiện\n= to subscribe one's name to a petition+ký tên mình vào một bản kiến nghị\n= to subscribe a few remarks at the end of the essay+ghi vài nhận xét vào cuối một bài tiểu luận\n- (to subscribe something to something) quyên tiền; góp tiền\n= to subscribe to a charity+quyên góp tiền cho một công cuộc từ thiện\n= he subscribed 100 dollars to the flood relief fund+anh ta đã góp 100 đôla vào quỹ cứu trợ nạn lụt\n* nội động từ\n- (to subscribe to something) (đồng ý) mua (báo, tạp chí...) đều đặn trong một thời gian); đặt mua dài hạn\n= to subscribe to a newspaper+mua báo dài hạn\n= the magazine is trying to get more readers to subscribe+tạp chí đang cố gắng có thêm nhiều độc giả đặt mua dài hạn\n- (to subscribe to something) tán thành\n= Do you subscribe to her pessimistic view of the state of the economy?+Anh có đồng ý với cái nhìn bi quan của bà ta về tình hình kinh tế hay không?\n@Chuyên ngành kinh tế\n-đặt mua (một ấn phẩm, một tờ báo)\n-ký chấp thuận (một hợp đồng)\n-ký chấp thuận (một hợp đồng...)\n-ký tên vào\n-ký vào (văn kiện)\n-nhận mua (cổ phiếu)\n-nhận nộp (vốn cổ phần)\n@Chuyên ngành kỹ thuật\n-đăng ký\n-đặt mua\n-đứng tên\n@Lĩnh vực: điện\n-kí nhận
-
+subscribe	@subscribe
+* ngoại động từ
+- (to subscribe something to something) ký (tên) vào bên dưới một văn kiện
+= to subscribe one's name to a petition+ký tên mình vào một bản kiến nghị
+= to subscribe a few remarks at the end of the essay+ghi vài nhận xét vào cuối một bài tiểu luận
+- (to subscribe something to something) quyên tiền; góp tiền
+= to subscribe to a charity+quyên góp tiền cho một công cuộc từ thiện
+= he subscribed 100 dollars to the flood relief fund+anh ta đã góp 100 đôla vào quỹ cứu trợ nạn lụt
+* nội động từ
+- (to subscribe to something) (đồng ý) mua (báo, tạp chí...) đều đặn trong một thời gian); đặt mua dài hạn
+= to subscribe to a newspaper+mua báo dài hạn
+= the magazine is trying to get more readers to subscribe+tạp chí đang cố gắng có thêm nhiều độc giả đặt mua dài hạn
+- (to subscribe to something) tán thành
+= Do you subscribe to her pessimistic view of the state of the economy?+Anh có đồng ý với cái nhìn bi quan của bà ta về tình hình kinh tế hay không?
+@Chuyên ngành kinh tế
+-đặt mua (một ấn phẩm, một tờ báo)
+-ký chấp thuận (một hợp đồng)
+-ký chấp thuận (một hợp đồng...)
+-ký tên vào
+-ký vào (văn kiện)
+-nhận mua (cổ phiếu)
+-nhận nộp (vốn cổ phần)
+@Chuyên ngành kỹ thuật
+-đăng ký
+-đặt mua
+-đứng tên
+@Lĩnh vực: điện
+-kí nhận

@@ -1,3 +1,5 @@
-decimalize
-	@decimalize /'desiməlaiz/\n*  ngoại động từ\n- đổi sang phân số thập phân\n- đổi sang hệ thập phân
-
+decimalize	
+@decimalize /'desiməlaiz/
+*  ngoại động từ
+- đổi sang phân số thập phân
+- đổi sang hệ thập phân

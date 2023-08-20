@@ -1,3 +1,46 @@
-brake
-	@brake /breik/\n*  danh từ\n- bụi cây\n- (như) bracken\n*  danh từ ((cũng) break)\n- xe vực ngựa (tập cho ngựa kéo xe)\n- xe ngựa không mui\n*  danh từ\n- máy đập (lanh, gai dầu)\n- cái bừa to ((cũng) brake-harrow)\n*  ngoại động từ\n- đập (lanh, gai dầu)\n*  danh từ\n- cái hãm, cái phanh\n=to put on the brake+ hãm phanh\n- (ngành đường sắt) toa phanh ((cũng) brake-van)\n*  động từ\n- hãm lại, phanh lại; hãm phanh\n@Chuyên ngành kinh tế\n-máy cán bột\n@Chuyên ngành kỹ thuật\n-bộ hãm\n-bộ thắng\n-cái phanh\n-chốt hãm\n-đạp phanh\n-dừng\n-hãm\n-máy dập tôn\n-máy ép\n-máy uốn mép\n-phanh\n@Lĩnh vực: xây dựng\n-bộ phanh\n-hãm phanh\n-máy hãm\n@Lĩnh vực: ô tô\n-cơ cấu phanh\n-phanh bị đâm\n@Lĩnh vực: cơ khí & công trình\n-kẽ nứt suốt\n-que hàn mềm\n-thắng xe
-
+brake	
+@brake /breik/
+*  danh từ
+- bụi cây
+- (như) bracken
+*  danh từ ((cũng) break)
+- xe vực ngựa (tập cho ngựa kéo xe)
+- xe ngựa không mui
+*  danh từ
+- máy đập (lanh, gai dầu)
+- cái bừa to ((cũng) brake
+-harrow)
+*  ngoại động từ
+- đập (lanh, gai dầu)
+*  danh từ
+- cái hãm, cái phanh=to put on the brake
++ hãm phanh
+- (ngành đường sắt) toa phanh ((cũng) brake
+-van)
+*  động từ
+- hãm lại, phanh lại; hãm phanh
+@Chuyên ngành kinh tế
+-máy cán bột
+@Chuyên ngành kỹ thuật
+-bộ hãm
+-bộ thắng
+-cái phanh
+-chốt hãm
+-đạp phanh
+-dừng
+-hãm
+-máy dập tôn
+-máy ép
+-máy uốn mép
+-phanh
+@Lĩnh vực: xây dựng
+-bộ phanh
+-hãm phanh
+-máy hãm
+@Lĩnh vực: ô tô
+-cơ cấu phanh
+-phanh bị đâm
+@Lĩnh vực: cơ khí & công trình
+-kẽ nứt suốt
+-que hàn mềm
+-thắng xe

@@ -1,3 +1,11 @@
-ingress
-	@ingress /'ingres/\n*  danh từ\n- sự đi vào, sự vào\n- quyền vào\n- lối vào\n@Chuyên ngành kỹ thuật\n-ngõ vào\n-sự xâm nhập\n@Lĩnh vực: hóa học & vật liệu\n-biển lấn
-
+ingress	
+@ingress /'ingres/
+*  danh từ
+- sự đi vào, sự vào
+- quyền vào
+- lối vào
+@Chuyên ngành kỹ thuật
+-ngõ vào
+-sự xâm nhập
+@Lĩnh vực: hóa học & vật liệu
+-biển lấn

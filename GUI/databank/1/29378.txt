@@ -1,3 +1,20 @@
-intermittent
-	@intermittent /,intə'mitənt/\n*  tính từ\n- thỉnh thoảng lại ngừng, lúc có lúc không, gián đoạn\n- (y học) từng cơn, từng hồi\n- chạy trục trặc (máy)\n- lúc chảy lúc không, có nước theo vụ\n@Chuyên ngành kỹ thuật\n-đứt đoạn\n-gián đoạn\n-ngắt quãng\n-rời rạc\n-thất thường\n@Lĩnh vực: điện\n-làm việc gián đoạn\n@Lĩnh vực: xây dựng\n-thỉnh thoảng\n@Lĩnh vực: cơ khí & công trình\n-trục trặc (máy)\n-từng đợt
-
+intermittent	
+@intermittent /,intə'mitənt/
+*  tính từ
+- thỉnh thoảng lại ngừng, lúc có lúc không, gián đoạn
+- (y học) từng cơn, từng hồi
+- chạy trục trặc (máy)
+- lúc chảy lúc không, có nước theo vụ
+@Chuyên ngành kỹ thuật
+-đứt đoạn
+-gián đoạn
+-ngắt quãng
+-rời rạc
+-thất thường
+@Lĩnh vực: điện
+-làm việc gián đoạn
+@Lĩnh vực: xây dựng
+-thỉnh thoảng
+@Lĩnh vực: cơ khí & công trình
+-trục trặc (máy)
+-từng đợt

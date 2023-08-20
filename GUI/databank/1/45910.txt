@@ -1,3 +1,8 @@
-receptionist
-	@receptionist /ri'sepʃənist/\n*  danh từ\n- người tiếp khách (ở phòng khám bệnh, hiệu ảnh...)\n@Chuyên ngành kinh tế\n-nhân viên tiếp tân\n-tiếp (đãi) viên\n@Chuyên ngành kỹ thuật\n-nhân viên tiếp tân
-
+receptionist	@receptionist /ri'sepʃənist/
+*  danh từ
+- người tiếp khách (ở phòng khám bệnh, hiệu ảnh...)
+@Chuyên ngành kinh tế
+-nhân viên tiếp tân
+-tiếp (đãi) viên
+@Chuyên ngành kỹ thuật
+-nhân viên tiếp tân

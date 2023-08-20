@@ -1,3 +1,8 @@
-linkwork
-	@Chuyên ngành kỹ thuật\n-cơ cấu thanh\n@Lĩnh vực: cơ khí & công trình\n-đòn phân phối\n@Chuyên ngành kỹ thuật\n-cơ cấu thanh\n@Lĩnh vực: cơ khí & công trình\n-đòn phân phối
-
+linkwork	@Chuyên ngành kỹ thuật
+-cơ cấu thanh
+@Lĩnh vực: cơ khí & công trình
+-đòn phân phối
+@Chuyên ngành kỹ thuật
+-cơ cấu thanh
+@Lĩnh vực: cơ khí & công trình
+-đòn phân phối

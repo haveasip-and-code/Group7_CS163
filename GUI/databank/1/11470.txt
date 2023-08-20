@@ -1,3 +1,6 @@
-contacts
-	@Chuyên ngành kinh tế\n-cơ hội gặp gỡ\n-cơ hội làm quen\n-những đầu mối giao dịch\n-sự tiếp xúc
-
+contacts	
+@Chuyên ngành kinh tế
+-cơ hội gặp gỡ
+-cơ hội làm quen
+-những đầu mối giao dịch
+-sự tiếp xúc

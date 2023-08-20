@@ -1,3 +1,4 @@
-guarantees
-	@Chuyên ngành kinh tế\n-vật bảo đảm\n-vật thế chấp
-
+guarantees	
+@Chuyên ngành kinh tế
+-vật bảo đảm
+-vật thế chấp

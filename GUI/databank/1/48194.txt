@@ -1,3 +1,32 @@
-ruin
-	@ruin /ruin/\n*  danh từ\n- sự đổ nát, sự suy đồi\n=to bumble (lie, lay) in ruin+ đổ nát\n- sự tiêu tan\n=the ruin of one's hope+ sự tiêu tan hy vọng\n- sự phá sản, sự thất bại; nguyên nhân phá sản, nguyên nhân đổ nát\n=to bring somebody to ruin+ làm cho ai bị phá sản\n=to cause the ruin of...+ gây ra sự đổ nát của...\n- ((thường) số nhiều) tàn tích; cảnh đổ nát, cảnh điêu tàn\n=the ruins of Rome+ tàn tích của thành La mã\n*  ngoại động từ\n- làm hỏng, làm đổ nát, tàn phá\n- làm suy nhược, làm xấu đi\n=to ruin someone's health+ làm suy nhược sức khoẻ của ai\n=to ruin someone's reputation+ làm mất thanh danh của ai\n- làm phá sản\n=to ruin oneself in gambling+ phá sản vì cờ bạc\n- dụ dỗ, cám dỗ, làm mất thanh danh, làm hư hỏng (con gái)\n*  nội động từ\n- (thơ ca) ngã rập mặt xuống đất\n- đổ sập xuống, sụp đổ\n@Chuyên ngành kỹ thuật\n-làm hư hỏng\n-sự phá sản\n-tàn phá\n-tàn tích\n@Lĩnh vực: xây dựng\n-đống đổ nát\n-hủy hoại\n@Lĩnh vực: toán & tin\n-sự suy tàn
-
+ruin	@ruin /ruin/
+*  danh từ
+- sự đổ nát, sự suy đồi
+=to bumble (lie, lay) in ruin+ đổ nát
+- sự tiêu tan
+=the ruin of one's hope+ sự tiêu tan hy vọng
+- sự phá sản, sự thất bại; nguyên nhân phá sản, nguyên nhân đổ nát
+=to bring somebody to ruin+ làm cho ai bị phá sản
+=to cause the ruin of...+ gây ra sự đổ nát của...
+- ((thường) số nhiều) tàn tích; cảnh đổ nát, cảnh điêu tàn
+=the ruins of Rome+ tàn tích của thành La mã
+*  ngoại động từ
+- làm hỏng, làm đổ nát, tàn phá
+- làm suy nhược, làm xấu đi
+=to ruin someone's health+ làm suy nhược sức khoẻ của ai
+=to ruin someone's reputation+ làm mất thanh danh của ai
+- làm phá sản
+=to ruin oneself in gambling+ phá sản vì cờ bạc
+- dụ dỗ, cám dỗ, làm mất thanh danh, làm hư hỏng (con gái)
+*  nội động từ
+- (thơ ca) ngã rập mặt xuống đất
+- đổ sập xuống, sụp đổ
+@Chuyên ngành kỹ thuật
+-làm hư hỏng
+-sự phá sản
+-tàn phá
+-tàn tích
+@Lĩnh vực: xây dựng
+-đống đổ nát
+-hủy hoại
+@Lĩnh vực: toán & tin
+-sự suy tàn

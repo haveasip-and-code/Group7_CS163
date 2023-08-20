@@ -1,3 +1,12 @@
-hairline
-	@Chuyên ngành kỹ thuật\n-đường mảnh\n-đường ngắm\n-đường tóc\n-nét hất lên\n-nét mảnh\n-vạch dấu\n@Lĩnh vực: đo lường & điều khiển\n-đường dây tóc\n@Lĩnh vực: xây dựng\n-đường nứt dăm
-
+hairline	
+@Chuyên ngành kỹ thuật
+-đường mảnh
+-đường ngắm
+-đường tóc
+-nét hất lên
+-nét mảnh
+-vạch dấu
+@Lĩnh vực: đo lường & điều khiển
+-đường dây tóc
+@Lĩnh vực: xây dựng
+-đường nứt dăm

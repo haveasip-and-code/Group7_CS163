@@ -1,3 +1,12 @@
-guild
-	@guild\n* danh từ\n- phường hội\n@Chuyên ngành kinh tế\n-hiệp hội (tương trợ)\n-hội\n-hội chuyên ngành\n-hội đồng nghiệp\n-nghiệp hội\n-phường\n-phường hội
-
+guild	
+@guild
+* danh từ
+- phường hội
+@Chuyên ngành kinh tế
+-hiệp hội (tương trợ)
+-hội
+-hội chuyên ngành
+-hội đồng nghiệp
+-nghiệp hội
+-phường
+-phường hội

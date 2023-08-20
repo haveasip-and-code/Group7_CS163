@@ -1,3 +1,5 @@
-bitstock
-	@Chuyên ngành kỹ thuật\n-máy khoan tay\n@Lĩnh vực: cơ khí & công trình\n-mũi khoan quay tay
-
+bitstock	
+@Chuyên ngành kỹ thuật
+-máy khoan tay
+@Lĩnh vực: cơ khí & công trình
+-mũi khoan quay tay

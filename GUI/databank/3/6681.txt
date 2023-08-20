@@ -1,3 +1,6 @@
-breakout
-	@Chuyên ngành kinh tế\n-sự đột phá\n-sự vượt rào\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự tháo gỡ
-
+breakout	@Chuyên ngành kinh tế
+-sự đột phá
+-sự vượt rào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự tháo gỡ

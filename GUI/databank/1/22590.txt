@@ -1,3 +1,17 @@
-fundamental
-	@fundamental /,fʌndə'mentl/\n*  tính từ\n- cơ bản, cơ sở, chủ yếu\n=fundamental rules+ những quy tắc cơ bản\n- (âm nhạc) gốc\n=fundamental note+ nốt gốc\n*  danh từ,  (thường) số nhiều\n- quy tắc cơ bản; nguyên tắc cơ bản\n=the fundamentals of mathematics+ những quy tắc cơ bản của toán học\n- (âm nhạc) nốt gốc\n@Chuyên ngành kỹ thuật\n-âm cơ bản\n-cơ sổ\n-cơ sở\n-cốt yếu\n-nền tảng
-
+fundamental	
+@fundamental /,fʌndə'mentl/
+*  tính từ
+- cơ bản, cơ sở, chủ yếu=fundamental rules
++ những quy tắc cơ bản
+- (âm nhạc) gốc=fundamental note
++ nốt gốc
+*  danh từ,  (thường) số nhiều
+- quy tắc cơ bản; nguyên tắc cơ bản=the fundamentals of mathematics
++ những quy tắc cơ bản của toán học
+- (âm nhạc) nốt gốc
+@Chuyên ngành kỹ thuật
+-âm cơ bản
+-cơ sổ
+-cơ sở
+-cốt yếu
+-nền tảng

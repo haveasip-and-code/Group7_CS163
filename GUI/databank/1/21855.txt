@@ -1,3 +1,4 @@
-forebody
-	@forebody\n* danh từ\n- (hàng hải) phần thân tàu phía mũi
-
+forebody	
+@forebody
+* danh từ
+- (hàng hải) phần thân tàu phía mũi

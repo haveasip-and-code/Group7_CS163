@@ -1,3 +1,66 @@
-joint
-	@joint /dʤɔint/\n*  danh từ\n- chỗ nối, mối nối, đầu nối\n- (giải phẫu) khớp (xương)\n=out of joint+ trật khớp, sai khớp; (nghĩa bóng) trục trặc, không ăn khớp, lộn bậy lung tung\n- (thực vật học) mấu, đốt\n- (địa lý,ddịa chất) khe nứt, thớ nứt (ở khối đá...)\n- súc thịt (pha ra)\n- (kỹ thuật) mối hàn, mối nối, mối ghép; khớp nối, bản lề\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ổ lưu manh, ổ gái điếm lén lút, tiệm lén hút; hắc điếm\n!to put someone's nese out of joint\n- (xem) nose\n*  tính từ\n- chung (giữa hai hay nhiều người)\n=joint efforts+ cố gắng chung (của hai hay nhiều người)\n=a joint communiqué+ thông cáo chung\n=during their joint lives+ (pháp lý) trong khi cả hai người (tất cả) đều còn sống\n*  ngoại động từ\n- nối lại bằng đoạn nối, ghép lại bằng đoạn nối\n- cắt tại những đoạn nối; chia ra từng đoạn\n- trát vữa vào khe nối của (tường...)\n- bào cạnh (tấm ván) để ghép\n@Chuyên ngành kỹ thuật\n-bản lề\n-bộ ghép\n-bộ nối\n-buộc\n-chỗ nối\n-chỗ nỗi\n-đường hàn\n-đường liên kết\n-đường nối\n-ghép\n-hộp nối\n-kết nối\n-khe mộng\n-khe nứt\n-khớp\n-khớp nối\n-nối\n-nối ghép\n-nối lại\n-nút giàn\n-nút khung\n-mạch xây\n-mối ghép\n-mối hàn\n-mối liên kết\n-mối nối\n-ống khoan\n-sự ghép\n-sự ghép nối\n-sự kết nối\n-sự liên kết\n-sự nối\n-vỉa\n-vòng nối\n@Lĩnh vực: toán & tin\n-hợp lại\n-khớp hàn\n-nút hàn\n@Lĩnh vực: xây dựng\n-khe mối hàn\n-khe nối\n-khớp giàn\n-phần nối
-
+joint	
+@joint /dʤɔint/
+*  danh từ
+- chỗ nối, mối nối, đầu nối
+- (giải phẫu) khớp (xương)=out of joint
++ trật khớp, sai khớp; (nghĩa bóng) trục trặc, không ăn khớp, lộn bậy lung tung
+- (thực vật học) mấu, đốt
+- (địa lý,ddịa chất) khe nứt, thớ nứt (ở khối đá...)
+- súc thịt (pha ra)
+- (kỹ thuật) mối hàn, mối nối, mối ghép; khớp nối, bản lề
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ổ lưu manh, ổ gái điếm lén lút, tiệm lén hút; hắc điếm!to put someone's nese out of joint
+- (xem) nose
+*  tính từ
+- chung (giữa hai hay nhiều người)=joint efforts
++ cố gắng chung (của hai hay nhiều người)=a joint communiqué
++ thông cáo chung=during their joint lives
++ (pháp lý) trong khi cả hai người (tất cả) đều còn sống
+*  ngoại động từ
+- nối lại bằng đoạn nối, ghép lại bằng đoạn nối
+- cắt tại những đoạn nối; chia ra từng đoạn
+- trát vữa vào khe nối của (tường...)
+- bào cạnh (tấm ván) để ghép
+@Chuyên ngành kỹ thuật
+-bản lề
+-bộ ghép
+-bộ nối
+-buộc
+-chỗ nối
+-chỗ nỗi
+-đường hàn
+-đường liên kết
+-đường nối
+-ghép
+-hộp nối
+-kết nối
+-khe mộng
+-khe nứt
+-khớp
+-khớp nối
+-nối
+-nối ghép
+-nối lại
+-nút giàn
+-nút khung
+-mạch xây
+-mối ghép
+-mối hàn
+-mối liên kết
+-mối nối
+-ống khoan
+-sự ghép
+-sự ghép nối
+-sự kết nối
+-sự liên kết
+-sự nối
+-vỉa
+-vòng nối
+@Lĩnh vực: toán & tin
+-hợp lại
+-khớp hàn
+-nút hàn
+@Lĩnh vực: xây dựng
+-khe mối hàn
+-khe nối
+-khớp giàn
+-phần nối

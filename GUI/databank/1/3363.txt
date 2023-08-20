@@ -1,3 +1,26 @@
-arrest
-	@arrest /ə'rest/\n*  danh từ\n- sự bắt giữ\n=under arrest+ bị bắt giữ\n- sự ngừng lại, sự chặn lại, sự hãm lại\n- (pháp lý) sự hoãn thi hành\n=arrest of judgement+ sự hoãn thi hành một bản án\n*  ngoại động từ\n- bắt giữ\n- làm ngừng lại, chặn lại, ngăn lại, hãm lại (máy đang chạy...)\n- lôi cuốn (sự chú ý)\n=to arrest someone's attention+ lôi cuốn sự chú ý của ai\n- (pháp lý) hoãn thi hành (một bản án vì có sự lầm lẫn)\n@Chuyên ngành kinh tế\n-bắt giữ\n-sự sai áp\n@Chuyên ngành kỹ thuật\n-bắt\n-chặn lại\n-dừng\n-giữ\n-hãm\n-hãm lại\n-ngắt\n-sự ngừng
-
+arrest	
+@arrest /ə'rest/
+*  danh từ
+- sự bắt giữ=under arrest
++ bị bắt giữ
+- sự ngừng lại, sự chặn lại, sự hãm lại
+- (pháp lý) sự hoãn thi hành=arrest of judgement
++ sự hoãn thi hành một bản án
+*  ngoại động từ
+- bắt giữ
+- làm ngừng lại, chặn lại, ngăn lại, hãm lại (máy đang chạy...)
+- lôi cuốn (sự chú ý)=to arrest someone's attention
++ lôi cuốn sự chú ý của ai
+- (pháp lý) hoãn thi hành (một bản án vì có sự lầm lẫn)
+@Chuyên ngành kinh tế
+-bắt giữ
+-sự sai áp
+@Chuyên ngành kỹ thuật
+-bắt
+-chặn lại
+-dừng
+-giữ
+-hãm
+-hãm lại
+-ngắt
+-sự ngừng

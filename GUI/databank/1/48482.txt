@@ -1,3 +1,13 @@
-salinity
-	@salinity /sə'liniti/\n*  danh từ\n- tính mặn (của nước...)\n@Chuyên ngành kinh tế\n-tính mặn\n@Chuyên ngành kỹ thuật\n-độ mặn\n-độ muối\n-hàm lượng muối\n-nồng độ muối\n@Lĩnh vực: xây dựng\n-độ chứa muối\n-tính mặn
-
+salinity	@salinity /sə'liniti/
+*  danh từ
+- tính mặn (của nước...)
+@Chuyên ngành kinh tế
+-tính mặn
+@Chuyên ngành kỹ thuật
+-độ mặn
+-độ muối
+-hàm lượng muối
+-nồng độ muối
+@Lĩnh vực: xây dựng
+-độ chứa muối
+-tính mặn

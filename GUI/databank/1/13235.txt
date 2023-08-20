@@ -1,3 +1,13 @@
-cuticle
-	@cuticle /'kju:tikl/\n*  danh từ\n- biểu bì\n- (thực vật học) lớp cutin\n@Chuyên ngành kinh tế\n-biểu bì\n-lớp cutin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-biểu bì của da\n-một lớp chất liệu cứng do biểu mô tiết ra và bọc ngoài biểu mô\n-một lớp tế bào
-
+cuticle	
+@cuticle /'kju:tikl/
+*  danh từ
+- biểu bì
+- (thực vật học) lớp cutin
+@Chuyên ngành kinh tế
+-biểu bì
+-lớp cutin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-biểu bì của da
+-một lớp chất liệu cứng do biểu mô tiết ra và bọc ngoài biểu mô
+-một lớp tế bào

@@ -1,3 +1,24 @@
-reform
-	@reform /reform/\n*  danh từ\n- sự cải cách, sự cải lương, sự cải thiện, sự cải tạo, sự cải tổ\n=land reform+ cải cách ruộng đất\n- sự sửa đổi\n=constitutional reform+ sự sửa đổi hiến pháp\n*  ngoại động từ\n- cải cách, cải lương, cải thiện, cải tạo, cải tổ\n- sửa đổi\n=to reform a constitution+ sửa đổi một hiến pháp\n- triệt bỏ (tệ nạn...); chữa (thói xấu)\n*  nội động từ\n- sửa đổi, sửa mình\n@Chuyên ngành kinh tế\n-cải cách\n-cải tạo\n-cải thiện\n-cải tiến\n-điều chỉnh\n-sự cải cách\n-sửa chữa\n@Chuyên ngành kỹ thuật\n-cải tạo\n-sửa đổi
-
+reform	@reform /reform/
+*  danh từ
+- sự cải cách, sự cải lương, sự cải thiện, sự cải tạo, sự cải tổ
+=land reform+ cải cách ruộng đất
+- sự sửa đổi
+=constitutional reform+ sự sửa đổi hiến pháp
+*  ngoại động từ
+- cải cách, cải lương, cải thiện, cải tạo, cải tổ
+- sửa đổi
+=to reform a constitution+ sửa đổi một hiến pháp
+- triệt bỏ (tệ nạn...); chữa (thói xấu)
+*  nội động từ
+- sửa đổi, sửa mình
+@Chuyên ngành kinh tế
+-cải cách
+-cải tạo
+-cải thiện
+-cải tiến
+-điều chỉnh
+-sự cải cách
+-sửa chữa
+@Chuyên ngành kỹ thuật
+-cải tạo
+-sửa đổi

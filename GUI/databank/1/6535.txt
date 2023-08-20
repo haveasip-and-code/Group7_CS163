@@ -1,3 +1,86 @@
-brace
-	@brace /breis/\n*  danh từ\n- vật (để) nối\n- (kiến trúc) trụ chống, thanh giằng\n- đôi\n=a brace of pheasants+ một đôi gà lôi\n- (số nhiều) dây đeo quần, dây brơten; dây căng trống\n- (kỹ thuật) cái khoan quay tay; cái vặn ốc quay tay ((cũng) brace and bit)\n- (ngành in) dấu ngoặc ôm\n- (hàng hải) dây lèo\n*  ngoại động từ\n- móc, chằng, nối cho vững; làm chắc thêm\n- (kiến trúc) chống bằng trụ chống, đóng thanh giằng\n- căng (trống)\n- kết đôi, cặp đôi\n- (ngành in) đặt trong dấu ngoặc ôm\n- (hàng hải) quay hướng (buồm) bằng dây lèo\n- gắng (hết sức mình), dốc (hết nghị lực...)\n=to brace oneself up; to brace one's energies+ gắng hết sức mình, dốc hết sức mình, dốc hết nghị lực\n- làm mạnh thêm, làm cường tráng\n!to brace up\n- khuyến khích, khích lệ\n@Chuyên ngành kỹ thuật\n-cái khoan tay\n-chằng\n-chông\n-chống\n-chống bằng trụ\n-chống bằng trụ chống\n-cột chống\n-đai nối\n-dấu móc\n-dây căng\n-dây giằng\n-dây kéo\n-đỡ\n-gân tăng cứng\n-ghép\n-giá\n-gia cố\n-giằng\n-giàu\n-gối đỡ\n-hệ\n-kẹp\n-kẹp chặt\n-khung\n-liên hệ\n-liên két\n-liên kết\n-néo\n-ngàm\n-nối\n-nối kết\n-siết\n-sự giằng\n-sự liên kết\n-thanh chống\n-thanh chống xiên\n-thanh giằng chống\n-thanh kéo\n-thanh nối\n-thanh tăng cứng\n-thanh xiên\n-trụ chống\n-trục đỡ\n-vòng đỡ\n-xà ngang\n@Lĩnh vực: xây dựng\n-bộ phận tăng cứng\n-căng thanh giằng\n-hệ liên kết\n-kết cấu chịu kéo\n-sự kéo dãn\n-tay phanh\n@Lĩnh vực: cơ khí & công trình\n-cái khoan (tay)\n-cái tì bổ sung\n-ghép chặt\n@Lĩnh vực: giao thông & vận tải\n-cái khoan quay tay\n-thn dầm chống\n@Lĩnh vực: toán & tin\n-dấu ngoặc nhọn\n@Lĩnh vực: hóa học & vật liệu\n-trụ cặp
-
+brace	
+@brace /breis/
+*  danh từ
+- vật (để) nối
+- (kiến trúc) trụ chống, thanh giằng
+- đôi=a brace of pheasants
++ một đôi gà lôi
+- (số nhiều) dây đeo quần, dây brơten; dây căng trống
+- (kỹ thuật) cái khoan quay tay; cái vặn ốc quay tay ((cũng) brace and bit)
+- (ngành in) dấu ngoặc ôm
+- (hàng hải) dây lèo
+*  ngoại động từ
+- móc, chằng, nối cho vững; làm chắc thêm
+- (kiến trúc) chống bằng trụ chống, đóng thanh giằng
+- căng (trống)
+- kết đôi, cặp đôi
+- (ngành in) đặt trong dấu ngoặc ôm
+- (hàng hải) quay hướng (buồm) bằng dây lèo
+- gắng (hết sức mình), dốc (hết nghị lực...)=to brace oneself up; to brace one's energies
++ gắng hết sức mình, dốc hết sức mình, dốc hết nghị lực
+- làm mạnh thêm, làm cường tráng!to brace up
+- khuyến khích, khích lệ
+@Chuyên ngành kỹ thuật
+-cái khoan tay
+-chằng
+-chông
+-chống
+-chống bằng trụ
+-chống bằng trụ chống
+-cột chống
+-đai nối
+-dấu móc
+-dây căng
+-dây giằng
+-dây kéo
+-đỡ
+-gân tăng cứng
+-ghép
+-giá
+-gia cố
+-giằng
+-giàu
+-gối đỡ
+-hệ
+-kẹp
+-kẹp chặt
+-khung
+-liên hệ
+-liên két
+-liên kết
+-néo
+-ngàm
+-nối
+-nối kết
+-siết
+-sự giằng
+-sự liên kết
+-thanh chống
+-thanh chống xiên
+-thanh giằng chống
+-thanh kéo
+-thanh nối
+-thanh tăng cứng
+-thanh xiên
+-trụ chống
+-trục đỡ
+-vòng đỡ
+-xà ngang
+@Lĩnh vực: xây dựng
+-bộ phận tăng cứng
+-căng thanh giằng
+-hệ liên kết
+-kết cấu chịu kéo
+-sự kéo dãn
+-tay phanh
+@Lĩnh vực: cơ khí & công trình
+-cái khoan (tay)
+-cái tì bổ sung
+-ghép chặt
+@Lĩnh vực: giao thông & vận tải
+-cái khoan quay tay
+-thn dầm chống
+@Lĩnh vực: toán & tin
+-dấu ngoặc nhọn
+@Lĩnh vực: hóa học & vật liệu
+-trụ cặp

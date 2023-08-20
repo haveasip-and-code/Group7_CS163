@@ -1,3 +1,4 @@
-doweling
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nối chốt
-
+doweling	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nối chốt

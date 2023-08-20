@@ -1,3 +1,53 @@
-blue
-	@blue /blu:/\n*  tính từ\n- xanh\n=dark blue+ xanh sẫm\n- mặc quần áo xanh\n- (thông tục) chán nản, thất vọng\n=to feel blue+ cảm thấy chán nản\n=things look blue+ mọi việc có vẻ đáng chán, mọi việc có vẻ đáng buồn\n=blue study+ sự ưu tư buồn bã, sự suy nghĩ ủ ê\n- hay chữ (đàn bà)\n- tục tĩu (câu chuyện)\n- (chính trị) (thuộc) đảng Tô rõi rệu 1 chĩu phĩu uống say mèm, uống say bí tỉ\n!to make (turn) the air blue\n- chửi tục\n!once in a blue moon\n- (xem) moon\n*  danh từ\n- màu xanh\n=to be dressed in blue+ mặc quần áo màu xanh\n- phẩm xanh, thuốc xanh\n=Paris blue+ xanh Pa-ri\n- (the blue) bầu trời\n- (the blue) biển cả\n- vận động viên điền kinh (trường đại học Ôc-phớt và Căm-brít); huy hiệu vận động điền kinh (trường đại học Ôc-phớt và Căm-brít)\n=the dark blues+ những vận động viên điền kinh của trường đại học Ôc-phớt\n=the light blues+ những vận động viên điền kinh của trường đại học Căm-brít\n- nữ học giả, nữ sĩ ((cũng) blue stocking)\n- (số nhiều) sự buồn chán\n=to be in the blues; to have the blues+ buồn chán\n=to give someone the blues+ gây nỗi buồn chán cho ai\n!a bolt from the blue\n- (xem) bolt\n!out of the blue\n- hoàn toàn bất ngờ\n*  ngoại động từ\n- làm xanh, nhuộm xanh\n- hồ lơ (quần áo)\n- (từ lóng) xài phí, phung phí (tiền bạc)\n@Chuyên ngành kỹ thuật\n-lơ\n-nhuộm xanh (thép)\n-màu xanh\n-xang lơ\n-xanh\n@Lĩnh vực: điện lạnh\n-màu lam\n-màu lơ\n@Lĩnh vực: xây dựng\n-phẩm xanh
-
+blue	
+@blue /blu:/
+*  tính từ
+- xanh=dark blue
++ xanh sẫm
+- mặc quần áo xanh
+- (thông tục) chán nản, thất vọng=to feel blue
++ cảm thấy chán nản=things look blue
++ mọi việc có vẻ đáng chán, mọi việc có vẻ đáng buồn=blue study
++ sự ưu tư buồn bã, sự suy nghĩ ủ ê
+- hay chữ (đàn bà)
+- tục tĩu (câu chuyện)
+- (chính trị) (thuộc) đảng Tô rõi rệu 1 chĩu phĩu uống say mèm, uống say bí tỉ!to make (turn) the air blue
+- chửi tục!once in a blue moon
+- (xem) moon
+*  danh từ
+- màu xanh=to be dressed in blue
++ mặc quần áo màu xanh
+- phẩm xanh, thuốc xanh=Paris blue
++ xanh Pa
+-ri
+- (the blue) bầu trời
+- (the blue) biển cả
+- vận động viên điền kinh (trường đại học Ôc
+-phớt và Căm
+-brít); huy hiệu vận động điền kinh (trường đại học Ôc
+-phớt và Căm
+-brít)=the dark blues
++ những vận động viên điền kinh của trường đại học Ôc
+-phớt=the light blues
++ những vận động viên điền kinh của trường đại học Căm
+-brít
+- nữ học giả, nữ sĩ ((cũng) blue stocking)
+- (số nhiều) sự buồn chán=to be in the blues; to have the blues
++ buồn chán=to give someone the blues
++ gây nỗi buồn chán cho ai!a bolt from the blue
+- (xem) bolt!out of the blue
+- hoàn toàn bất ngờ
+*  ngoại động từ
+- làm xanh, nhuộm xanh
+- hồ lơ (quần áo)
+- (từ lóng) xài phí, phung phí (tiền bạc)
+@Chuyên ngành kỹ thuật
+-lơ
+-nhuộm xanh (thép)
+-màu xanh
+-xang lơ
+-xanh
+@Lĩnh vực: điện lạnh
+-màu lam
+-màu lơ
+@Lĩnh vực: xây dựng
+-phẩm xanh

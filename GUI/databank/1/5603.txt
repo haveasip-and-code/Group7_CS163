@@ -1,3 +1,8 @@
-biolysis
-	@Chuyên ngành kinh tế\n-sự sinh phân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sinh phân\n@Lĩnh vực: y học\n-sự phân hủy sinh vật
-
+biolysis	
+@Chuyên ngành kinh tế
+-sự sinh phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sinh phân
+@Lĩnh vực: y học
+-sự phân hủy sinh vật

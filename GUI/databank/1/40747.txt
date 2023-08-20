@@ -1,3 +1,4 @@
-permutable
-	@permutable\n- xem permute\n@Chuyên ngành kỹ thuật\n-hoán vị được
-
+permutable	@permutable
+- xem permute
+@Chuyên ngành kỹ thuật
+-hoán vị được

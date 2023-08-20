@@ -1,3 +1,15 @@
-encoder
-	@encoder\n- (Tech) bộ biên mã\n@Chuyên ngành kinh tế\n-người lập mã (thông tin)\n@Chuyên ngành kỹ thuật\n-bộ lập mã\n-bộ mã hóa\n@Lĩnh vực: điện tử & viễn thông\n-mã hóa viên\n@Chuyên ngành kỹ thuật\n-bộ lập mã\n-bộ mã hóa\n@Lĩnh vực: điện tử & viễn thông\n-mã hóa viên
-
+encoder	
+@encoder
+- (Tech) bộ biên mã
+@Chuyên ngành kinh tế
+-người lập mã (thông tin)
+@Chuyên ngành kỹ thuật
+-bộ lập mã
+-bộ mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-mã hóa viên
+@Chuyên ngành kỹ thuật
+-bộ lập mã
+-bộ mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-mã hóa viên

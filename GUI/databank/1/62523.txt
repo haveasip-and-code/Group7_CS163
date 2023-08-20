@@ -1,3 +1,2 @@
-waterways
-	@Chuyên ngành kinh tế\n-các tuyến đường thủy
-
+waterways	@Chuyên ngành kinh tế
+-các tuyến đường thủy

@@ -1,3 +1,2 @@
-outturn
-	@Chuyên ngành kinh tế\n-sản lượng
-
+outturn	@Chuyên ngành kinh tế
+-sản lượng

@@ -1,3 +1,12 @@
-simulator
-	@simulator /'simjuleitə/\n*  danh từ\n- người giả vờ, người giả cách, người vờ vịt\n@Chuyên ngành kỹ thuật\n-bộ mô phỏng\n-chương trình mô phỏng\n-vật mô phỏng/ mô hình\n@Lĩnh vực: cơ khí & công trình\n-thiết bị bắt chước\n-thiết bị chép hình\n@Lĩnh vực: điện\n-thiết bị mô phỏng
-
+simulator	@simulator /'simjuleitə/
+*  danh từ
+- người giả vờ, người giả cách, người vờ vịt
+@Chuyên ngành kỹ thuật
+-bộ mô phỏng
+-chương trình mô phỏng
+-vật mô phỏng/ mô hình
+@Lĩnh vực: cơ khí & công trình
+-thiết bị bắt chước
+-thiết bị chép hình
+@Lĩnh vực: điện
+-thiết bị mô phỏng

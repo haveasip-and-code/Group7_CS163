@@ -1,3 +1,10 @@
-multistage
-	@Chuyên ngành kỹ thuật\n-đa công đoạn\n-nhiều bậc\n-nhiều bước\n-nhiều cấp\n-nhiều giai đoạn\n-nhiều pha\n-nhiều tầng\n@Lĩnh vực: xây dựng\n-nhiều nấc
-
+multistage	@Chuyên ngành kỹ thuật
+-đa công đoạn
+-nhiều bậc
+-nhiều bước
+-nhiều cấp
+-nhiều giai đoạn
+-nhiều pha
+-nhiều tầng
+@Lĩnh vực: xây dựng
+-nhiều nấc

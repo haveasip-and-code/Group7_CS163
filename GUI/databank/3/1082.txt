@@ -1,3 +1,2 @@
-affirmative
-	@affirmative\n- khẳng định
-
+affirmative	@affirmative
+- khẳng định

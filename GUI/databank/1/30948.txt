@@ -1,3 +1,23 @@
-kilocalorie
-	@kilocalorie /'kilou,kæləri/\n*  danh từ\n- kilôcalo\n@Chuyên ngành kinh tế\n-calori lớn\n-kilocalo\n-ngàn calori\n@Chuyên ngành kỹ thuật\n-calo lớn\n-kcal\n-kilocalo\n-kilôcalo\n-kilôgam-calo\n@Lĩnh vực: điện lạnh\n-kg-cal\n@Chuyên ngành kỹ thuật\n-calo lớn\n-kcal\n-kilocalo\n-kilôcalo\n-kilôgam-calo\n@Lĩnh vực: điện lạnh\n-kg-cal
-
+kilocalorie	@kilocalorie /'kilou,kæləri/
+*  danh từ
+- kilôcalo
+@Chuyên ngành kinh tế
+-calori lớn
+-kilocalo
+-ngàn calori
+@Chuyên ngành kỹ thuật
+-calo lớn
+-kcal
+-kilocalo
+-kilôcalo
+-kilôgam-calo
+@Lĩnh vực: điện lạnh
+-kg-cal
+@Chuyên ngành kỹ thuật
+-calo lớn
+-kcal
+-kilocalo
+-kilôcalo
+-kilôgam-calo
+@Lĩnh vực: điện lạnh
+-kg-cal

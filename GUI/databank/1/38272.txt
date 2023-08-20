@@ -1,3 +1,8 @@
-oscillating
-	@Chuyên ngành kỹ thuật\n-dao động\n-mạch động\n-sự lắc\n-sự rung\n@Lĩnh vực: vật lý\n-dao động lung lay\n-dao động, lung lay
-
+oscillating	@Chuyên ngành kỹ thuật
+-dao động
+-mạch động
+-sự lắc
+-sự rung
+@Lĩnh vực: vật lý
+-dao động lung lay
+-dao động, lung lay

@@ -1,3 +1,2 @@
-bathythermograph
-	@Chuyên ngành kỹ thuật\n-nhiệt ký nước sâu
-
+bathythermograph	@Chuyên ngành kỹ thuật
+-nhiệt ký nước sâu

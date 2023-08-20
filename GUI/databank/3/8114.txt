@@ -1,3 +1,2 @@
-carryforward
-	@Chuyên ngành kinh tế\n-khấu giảm chuyển sang năm sau
-
+carryforward	@Chuyên ngành kinh tế
+-khấu giảm chuyển sang năm sau

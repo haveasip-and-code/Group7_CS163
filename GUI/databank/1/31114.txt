@@ -1,3 +1,32 @@
-knockout
-	@knockout\n* danh từ\n- cú đấm nốc ao\n- gây mê, gây ngủ\n- cuộc đấu loại trực tiếp\n- người lỗi lạc; vật bất thường\n* giới từ\n- hạ đo ván (đánh quyền Anh)\n@Chuyên ngành kinh tế\n-thông đồng hạ giá, đấu giá câu kết\n@Chuyên ngành kỹ thuật\n-cái đột\n-loại bỏ\n-máy bơm phun\n-sự bật ra\n-sự lấy ra\n-sự tháo\n@Lĩnh vực: điện lạnh\n-bật ra\n@Lĩnh vực: hóa học & vật liệu\n-bộ tách ra\n@Chuyên ngành kỹ thuật\n-cái đột\n-loại bỏ\n-máy bơm phun\n-sự bật ra\n-sự lấy ra\n-sự tháo\n@Lĩnh vực: điện lạnh\n-bật ra\n@Lĩnh vực: hóa học & vật liệu\n-bộ tách ra
-
+knockout	@knockout
+* danh từ
+- cú đấm nốc ao
+- gây mê, gây ngủ
+- cuộc đấu loại trực tiếp
+- người lỗi lạc; vật bất thường
+* giới từ
+- hạ đo ván (đánh quyền Anh)
+@Chuyên ngành kinh tế
+-thông đồng hạ giá, đấu giá câu kết
+@Chuyên ngành kỹ thuật
+-cái đột
+-loại bỏ
+-máy bơm phun
+-sự bật ra
+-sự lấy ra
+-sự tháo
+@Lĩnh vực: điện lạnh
+-bật ra
+@Lĩnh vực: hóa học & vật liệu
+-bộ tách ra
+@Chuyên ngành kỹ thuật
+-cái đột
+-loại bỏ
+-máy bơm phun
+-sự bật ra
+-sự lấy ra
+-sự tháo
+@Lĩnh vực: điện lạnh
+-bật ra
+@Lĩnh vực: hóa học & vật liệu
+-bộ tách ra

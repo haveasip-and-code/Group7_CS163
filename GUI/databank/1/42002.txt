@@ -1,3 +1,2 @@
-pleadable
-	@pleadable\n- xem plead
-
+pleadable	@pleadable
+- xem plead

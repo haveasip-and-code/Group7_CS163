@@ -1,3 +1,9 @@
-dues
-	@Chuyên ngành kinh tế\n-phần tiền đóng góp (như hội phí, đoàn phí)\n-phí thủ tục\n-thuế\n-tiền phải trả đúng kỳ\n-tiền thuê\n@Chuyên ngành kỹ thuật\n-thuế
-
+dues	
+@Chuyên ngành kinh tế
+-phần tiền đóng góp (như hội phí, đoàn phí)
+-phí thủ tục
+-thuế
+-tiền phải trả đúng kỳ
+-tiền thuê
+@Chuyên ngành kỹ thuật
+-thuế

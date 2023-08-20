@@ -1,3 +1,50 @@
-game
-	@game /geim/\n*  danh từ\n- trò chơi (như bóng đá, quần vợt, bài lá...)\n- (thương nghiệp) dụng cụ để chơi (các trò chơi)\n- (số nhiều) cuộc thi điền kinh, cuộc thi đấu\n- ván (bài, cờ...)\n=to win four games in the first set+ thắng bốn ván trong trận đầu\n- trò cười; chuyện nực cười, trò đùa; sự trêu chọc, sự chế nhạo; trò láu cá, mánh khoé\n=to have a game with somebody+ trêu chọc, chế nhạo ai\n=to make game of somebody+ đùa cợt ai, chế nhạo ai, giễu ai\n=none of your games!+ đừng có giở trò láu cá của anh ra!\n- ý đồ, mưu đồ\n=to play someone's game+ vô tình giúp ai thực hiện được ý đồ của người ta\n=to spoil someone's game+ làm hỏng mưu đồ của ai\n- thú săn; thịt thú săn\n=big game+ thú săn lớn (như hổ, sư tử, voi)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mục tiêu theo đuổi khó khăn, mục tiêu nguy hiểm\n- con vật bị săn, con vật bị dồn; người bị theo đuổi, vật bị theo đuổi\n=fair game+ vật (người) có thể bị theo đuổi tấn công một cách chính đáng\n=forbidden game+ vật (người) mà ta không có quyền theo đuổi tấn công\n- bầy (thiên nga)\n!to be off one's game\n- (thể dục,thể thao) không sung sức\n!to be ob one's game\n- (thể dục,thể thao) sung sức\n!to fly at higher games\n- có những tham vọng cao hơn\n!to have the game in one's hand\n- nắm chắc thắng lợi trong tay; làm chủ được cuộc đấu\n!to play the game\n- (xem) play\n!the game is yours\n- anh thắng cuộc\n!the game is not worth the candle\n- việc làm lợi chẳng bõ công; thu không bù chi\n!the game is up\n- việc làm đã thất bại\n*  động từ\n- đánh bạc\n!to game away one's fortune\n- thua bạc khánh kiệt\n*  tính từ\n- như gà chọi; dũng cảm, anh dũng, gan dạ\n=a game little fellow+ một anh chàng bé nhưng dũng cảm gan dạ\n=to die game+ chết anh dũng\n- có nghị lực\n=to be game for anything+ có nghị lực làm bất cứ cái gì\n- bị bại liệt (chân, tay); què, thọt\n@Chuyên ngành kinh tế\n-con thú săn\n-thịt thú săn\n-trò chơi\n-trò chơi (cuộc cạnh tranh trong kinh doanh)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trò (chơi)\n@Lĩnh vực: toán & tin\n-trò chơi
-
+game	
+@game /geim/
+*  danh từ
+- trò chơi (như bóng đá, quần vợt, bài lá...)
+- (thương nghiệp) dụng cụ để chơi (các trò chơi)
+- (số nhiều) cuộc thi điền kinh, cuộc thi đấu
+- ván (bài, cờ...)=to win four games in the first set
++ thắng bốn ván trong trận đầu
+- trò cười; chuyện nực cười, trò đùa; sự trêu chọc, sự chế nhạo; trò láu cá, mánh khoé=to have a game with somebody
++ trêu chọc, chế nhạo ai=to make game of somebody
++ đùa cợt ai, chế nhạo ai, giễu ai=none of your games!
++ đừng có giở trò láu cá của anh ra!
+- ý đồ, mưu đồ=to play someone's game
++ vô tình giúp ai thực hiện được ý đồ của người ta=to spoil someone's game
++ làm hỏng mưu đồ của ai
+- thú săn; thịt thú săn=big game
++ thú săn lớn (như hổ, sư tử, voi)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mục tiêu theo đuổi khó khăn, mục tiêu nguy hiểm
+- con vật bị săn, con vật bị dồn; người bị theo đuổi, vật bị theo đuổi=fair game
++ vật (người) có thể bị theo đuổi tấn công một cách chính đáng=forbidden game
++ vật (người) mà ta không có quyền theo đuổi tấn công
+- bầy (thiên nga)!to be off one's game
+- (thể dục,thể thao) không sung sức!to be ob one's game
+- (thể dục,thể thao) sung sức!to fly at higher games
+- có những tham vọng cao hơn!to have the game in one's hand
+- nắm chắc thắng lợi trong tay; làm chủ được cuộc đấu!to play the game
+- (xem) play!the game is yours
+- anh thắng cuộc!the game is not worth the candle
+- việc làm lợi chẳng bõ công; thu không bù chi!the game is up
+- việc làm đã thất bại
+*  động từ
+- đánh bạc!to game away one's fortune
+- thua bạc khánh kiệt
+*  tính từ
+- như gà chọi; dũng cảm, anh dũng, gan dạ=a game little fellow
++ một anh chàng bé nhưng dũng cảm gan dạ=to die game
++ chết anh dũng
+- có nghị lực=to be game for anything
++ có nghị lực làm bất cứ cái gì
+- bị bại liệt (chân, tay); què, thọt
+@Chuyên ngành kinh tế
+-con thú săn
+-thịt thú săn
+-trò chơi
+-trò chơi (cuộc cạnh tranh trong kinh doanh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-trò (chơi)
+@Lĩnh vực: toán & tin
+-trò chơi

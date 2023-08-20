@@ -1,3 +1,15 @@
-extruded
-	@Chuyên ngành kỹ thuật\n-đột dập\n-được đúc ép\n-được ép đùn\n@Lĩnh vực: cơ khí & công trình\n-bị đẩy ra\n-được dập ép\n@Chuyên ngành kỹ thuật\n-đột dập\n-được đúc ép\n-được ép đùn\n@Lĩnh vực: cơ khí & công trình\n-bị đẩy ra\n-được dập ép
-
+extruded	
+@Chuyên ngành kỹ thuật
+-đột dập
+-được đúc ép
+-được ép đùn
+@Lĩnh vực: cơ khí & công trình
+-bị đẩy ra
+-được dập ép
+@Chuyên ngành kỹ thuật
+-đột dập
+-được đúc ép
+-được ép đùn
+@Lĩnh vực: cơ khí & công trình
+-bị đẩy ra
+-được dập ép

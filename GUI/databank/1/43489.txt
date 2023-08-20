@@ -1,3 +1,5 @@
-pretax
-	@pretax\n* tính từ\n- trước khi khấu trừ thuế\n@Chuyên ngành kinh tế\n-trước thuế
-
+pretax	@pretax
+* tính từ
+- trước khi khấu trừ thuế
+@Chuyên ngành kinh tế
+-trước thuế

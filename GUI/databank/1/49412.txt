@@ -1,3 +1,12 @@
-seaming
-	@Chuyên ngành kinh tế\n-sự bao gói\n-sự cuộn\n-sự tạo đường nối\n@Chuyên ngành kỹ thuật\n-sự gấp mép\n-sự gấp nếp\n-sự khâu nối\n-sự uốn\n-sự uốn mép\n@Lĩnh vực: dệt may\n-sự may
-
+seaming	@Chuyên ngành kinh tế
+-sự bao gói
+-sự cuộn
+-sự tạo đường nối
+@Chuyên ngành kỹ thuật
+-sự gấp mép
+-sự gấp nếp
+-sự khâu nối
+-sự uốn
+-sự uốn mép
+@Lĩnh vực: dệt may
+-sự may

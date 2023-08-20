@@ -1,3 +1,3 @@
-popover
-	@popover\n* danh từ\n- bánh làm bằng bột nhão có hình vỏ sò mỏng
-
+popover	@popover
+* danh từ
+- bánh làm bằng bột nhão có hình vỏ sò mỏng

@@ -1,3 +1,4 @@
-briefs
-	@briefs /bri:fs/\n*  danh từ\n- (thông tục) quần đùi; xì líp (đàn bà)
-
+briefs	
+@briefs /bri:fs/
+*  danh từ
+- (thông tục) quần đùi; xì líp (đàn bà)

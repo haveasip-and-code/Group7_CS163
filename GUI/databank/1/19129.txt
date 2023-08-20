@@ -1,3 +1,24 @@
-established
-	@established /is'tæbliʃt/\n*  tính từ\n- đã thành lập, đã thiết lập\n- đã được đặt (vào một địa vị)\n- đã xác minh (sự kiện...)\n- đã được đưa vào (thói quen, sự tín ngưỡng...)\n- đã chính thức hoá (nhà thờ)\n- đã định, đã chắc, được củng cố; đã thích nghi\n- có uy tín\n@Chuyên ngành kinh tế\n-có căn cơ ổn định\n-có tiếng\n-thiết lập\n-vững chắc\n-xác định\n@Chuyên ngành kỹ thuật\n-đã có sẵn\n@Lĩnh vực: toán & tin\n-được tạo sẵn\n@Chuyên ngành kỹ thuật\n-đã có sẵn\n@Lĩnh vực: toán & tin\n-được tạo sẵn
-
+established	
+@established /is'tæbliʃt/
+*  tính từ
+- đã thành lập, đã thiết lập
+- đã được đặt (vào một địa vị)
+- đã xác minh (sự kiện...)
+- đã được đưa vào (thói quen, sự tín ngưỡng...)
+- đã chính thức hoá (nhà thờ)
+- đã định, đã chắc, được củng cố; đã thích nghi
+- có uy tín
+@Chuyên ngành kinh tế
+-có căn cơ ổn định
+-có tiếng
+-thiết lập
+-vững chắc
+-xác định
+@Chuyên ngành kỹ thuật
+-đã có sẵn
+@Lĩnh vực: toán & tin
+-được tạo sẵn
+@Chuyên ngành kỹ thuật
+-đã có sẵn
+@Lĩnh vực: toán & tin
+-được tạo sẵn

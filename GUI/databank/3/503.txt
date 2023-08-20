@@ -1,3 +1,4 @@
-acidimetric
-	@acidimetric\n- xem acidimeter\n@Chuyên ngành kỹ thuật\n-định phân axit
-
+acidimetric	@acidimetric
+- xem acidimeter
+@Chuyên ngành kỹ thuật
+-định phân axit

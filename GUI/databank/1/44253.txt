@@ -1,3 +1,6 @@
-proteid
-	@proteid /proteid/\n*  danh từ\n- (hoá học) Protein\n@Chuyên ngành kinh tế\n-protein\n-protein phức tạp
-
+proteid	@proteid /proteid/
+*  danh từ
+- (hoá học) Protein
+@Chuyên ngành kinh tế
+-protein
+-protein phức tạp

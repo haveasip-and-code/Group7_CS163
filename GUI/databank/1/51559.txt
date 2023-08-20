@@ -1,3 +1,19 @@
-snout
-	@snout /snaut/\n*  danh từ\n- mũi, mõm (động vật)\n- (thông tục) mũi to (của người)\n- mũi (của tàu, thuyền...)\n=of battleship's ram+ mũi nhọn tàu chiến (để đâm vào tàu địch)\n- đầu vòi (của ống)\n@Chuyên ngành kinh tế\n-mõm\n@Chuyên ngành kỹ thuật\n-đầu\n-đầu phun\n-đầu vòi\n-lắp vòi\n-miệng ống\n-miệng phun\n-mũi\n@Lĩnh vực: cơ khí & công trình\n-lắp miệng phun
-
+snout	@snout /snaut/
+*  danh từ
+- mũi, mõm (động vật)
+- (thông tục) mũi to (của người)
+- mũi (của tàu, thuyền...)
+=of battleship's ram+ mũi nhọn tàu chiến (để đâm vào tàu địch)
+- đầu vòi (của ống)
+@Chuyên ngành kinh tế
+-mõm
+@Chuyên ngành kỹ thuật
+-đầu
+-đầu phun
+-đầu vòi
+-lắp vòi
+-miệng ống
+-miệng phun
+-mũi
+@Lĩnh vực: cơ khí & công trình
+-lắp miệng phun

@@ -1,3 +1,4 @@
-conqueror
-	@conqueror\n* danh từ\n- người đi xâm chiếm, người đi chinh phục\n- người chiến thắng
-
+conqueror	@conqueror
+* danh từ
+- người đi xâm chiếm, người đi chinh phục
+- người chiến thắng

@@ -1,3 +1,24 @@
-stationary
-	@stationary /'steiʃnəri/\n*  tính từ\n- đứng ở một chỗ, không di chuyển, tĩnh lại, dừng\n=stationary troops+ quân đội đóng ở một chỗ\n- không mang đi được, để một chỗ\n=stationary engine+ máy để một chỗ\n- đứng, không thay đổi\n=stationary population+ số dân không thay đổi\n- (y học) không lan ra các nơi khác (bệnh)\n*  danh từ\n- người ở một chỗ; vật để ở một chỗ\n- (số nhiều) bộ đội đóng ở một chỗ\n@Chuyên ngành kỹ thuật\n-bền\n-cố định\n-dừng\n-đứng yên\n-không chuyển động\n-không đổi\n-ổn định\n@Lĩnh vực: xây dựng\n-bắt chặt vào hệ\n@Lĩnh vực: điện lạnh\n-tĩnh tại
-
+stationary	@stationary /'steiʃnəri/
+*  tính từ
+- đứng ở một chỗ, không di chuyển, tĩnh lại, dừng
+=stationary troops+ quân đội đóng ở một chỗ
+- không mang đi được, để một chỗ
+=stationary engine+ máy để một chỗ
+- đứng, không thay đổi
+=stationary population+ số dân không thay đổi
+- (y học) không lan ra các nơi khác (bệnh)
+*  danh từ
+- người ở một chỗ; vật để ở một chỗ
+- (số nhiều) bộ đội đóng ở một chỗ
+@Chuyên ngành kỹ thuật
+-bền
+-cố định
+-dừng
+-đứng yên
+-không chuyển động
+-không đổi
+-ổn định
+@Lĩnh vực: xây dựng
+-bắt chặt vào hệ
+@Lĩnh vực: điện lạnh
+-tĩnh tại

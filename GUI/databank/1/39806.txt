@@ -1,3 +1,86 @@
-part
-	@part /pɑ:t/\n*  danh từ\n- phần, bộ phận, tập (sách)\n=[a] great part of this story is true+ phần lớn chuyện đó là đúng\n=[a] part of them have arrived+ một số trong bọn họ đã đến\n=3 parts of sugar, 5 of flour+ 3 phần đường, 5 phần bột\n=spare parts of a machine+ phụ tùng của máy\n- bộ phận cơ thể\n=the [privy] parts+ chỗ kín (bộ phận sinh dục)\n- phần việc, nhiệm vụ\n=I have done my part+ tôi đã làm phần việc của tôi\n=it was not my part to interfere+ tôi không có nhiệm vụ can thiệp vào\n=to have neither part nor lot in+ không có dính dáng gì vào\n- vai, vai trò; lời nói của một vai kịch; bản chép lời của một vai kịch\n=her part was well+ vai chị ấy đóng giỏi\n=they don't know their parts yet+ họ không thuộc lời các vai của họ\n=to play an important part in the negotiations+ giữ một vai quan trọng trong cuộc đàm phán\n=to play a part+ (nghĩa bóng) đóng kịch, giả vờ\n- (số nhiều) nơi, vùng\n=I am a stranger in these parts+ tôi là một người lạ trong vùng này\n- phía, bè\n=to take someone's part; to take part with someone+ đứng về phía ai, về bè với ai, ủng hộ ai\n- (âm nhạc) bè\n- (từ cổ,nghĩa cổ) tài năng\n=a man of [good] part+ một người có tài\n!for my part\n- về phần tôi\n!for the most part\n- phần lớn, phần nhiều\n!in part\n- một phần, phần nào\n!on one's part; on the part of\n- về phía\n=there was no objection on his part+ anh ta không phản đối gì\n=he apologized on the part of his young brother+ anh ấy xin lỗi hộ em anh ấy\n!part and parcel\n- (xem) parcel\n!part of speech\n- (ngôn ngữ học) loại từ\n!to take someething in good part\n- không chấp nhất điều gì; không phật ý về việc gì\n!to take part in\n- tham gia vào\n*  ngoại động từ\n- chia thành từng phần, chia làm đôi\n- rẽ ra, tách ra, tách làm đôi\n=to part the crowd+ rẽ đám đông ra\n=to part one's hair+ rẽ đường ngôi (tóc)\n- (từ cổ,nghĩa cổ) phân phối, chia phần (cái gì)\n*  nội động từ\n- rẽ ra, tách ra, đứt\n=the crowd parted anf let him through+ đám đông rẽ ra cho anh ấy đi\n=the cord parted+ thừng đứt ra\n- chia tay, từ biệt, ra đi\n=they parted in joy+ họ hoan hỉ chia tay nhau\n=let us part friends+ chúng ta hãy vui vẻ chia tay nhau\n=to part from (with) somebody+ chia tay ai\n- chết\n- (+ with) bỏ, lìa bỏ\n=to part with one's property+ bỏ của cải\n!to part brass rags with somebody\n- (xem) brass\n!to part company with\n- cắt đắt quan hệ bầu bạn với\n*  phó từ\n- một phần\n=it is made part of iron and part of wood+ cái đó làm một phần bằng sắt một phần bằng gỗ\n@Chuyên ngành kinh tế\n-bộ phận\n-phần\n@Chuyên ngành kỹ thuật\n-bộ phận\n-cấu kiện\n-chi tiết\n-chia phần\n-linh kiện\n-linh kiện bộ phận\n-một phần\n-phần\n-phụ tùng\n-tách ra\n-thành phần\n@Lĩnh vực: điện\n-bên (hợp đồng)\n@Lĩnh vực: toán & tin\n-chia thành phần
-
+part	@part /pɑ:t/
+*  danh từ
+- phần, bộ phận, tập (sách)
+=[a] great part of this story is true+ phần lớn chuyện đó là đúng
+=[a] part of them have arrived+ một số trong bọn họ đã đến
+=3 parts of sugar, 5 of flour+ 3 phần đường, 5 phần bột
+=spare parts of a machine+ phụ tùng của máy
+- bộ phận cơ thể
+=the [privy] parts+ chỗ kín (bộ phận sinh dục)
+- phần việc, nhiệm vụ
+=I have done my part+ tôi đã làm phần việc của tôi
+=it was not my part to interfere+ tôi không có nhiệm vụ can thiệp vào
+=to have neither part nor lot in+ không có dính dáng gì vào
+- vai, vai trò; lời nói của một vai kịch; bản chép lời của một vai kịch
+=her part was well+ vai chị ấy đóng giỏi
+=they don't know their parts yet+ họ không thuộc lời các vai của họ
+=to play an important part in the negotiations+ giữ một vai quan trọng trong cuộc đàm phán
+=to play a part+ (nghĩa bóng) đóng kịch, giả vờ
+- (số nhiều) nơi, vùng
+=I am a stranger in these parts+ tôi là một người lạ trong vùng này
+- phía, bè
+=to take someone's part; to take part with someone+ đứng về phía ai, về bè với ai, ủng hộ ai
+- (âm nhạc) bè
+- (từ cổ,nghĩa cổ) tài năng
+=a man of [good] part+ một người có tài
+!for my part
+- về phần tôi
+!for the most part
+- phần lớn, phần nhiều
+!in part
+- một phần, phần nào
+!on one's part; on the part of
+- về phía
+=there was no objection on his part+ anh ta không phản đối gì
+=he apologized on the part of his young brother+ anh ấy xin lỗi hộ em anh ấy
+!part and parcel
+- (xem) parcel
+!part of speech
+- (ngôn ngữ học) loại từ
+!to take someething in good part
+- không chấp nhất điều gì; không phật ý về việc gì
+!to take part in
+- tham gia vào
+*  ngoại động từ
+- chia thành từng phần, chia làm đôi
+- rẽ ra, tách ra, tách làm đôi
+=to part the crowd+ rẽ đám đông ra
+=to part one's hair+ rẽ đường ngôi (tóc)
+- (từ cổ,nghĩa cổ) phân phối, chia phần (cái gì)
+*  nội động từ
+- rẽ ra, tách ra, đứt
+=the crowd parted anf let him through+ đám đông rẽ ra cho anh ấy đi
+=the cord parted+ thừng đứt ra
+- chia tay, từ biệt, ra đi
+=they parted in joy+ họ hoan hỉ chia tay nhau
+=let us part friends+ chúng ta hãy vui vẻ chia tay nhau
+=to part from (with) somebody+ chia tay ai
+- chết
+- (+ with) bỏ, lìa bỏ
+=to part with one's property+ bỏ của cải
+!to part brass rags with somebody
+- (xem) brass
+!to part company with
+- cắt đắt quan hệ bầu bạn với
+*  phó từ
+- một phần
+=it is made part of iron and part of wood+ cái đó làm một phần bằng sắt một phần bằng gỗ
+@Chuyên ngành kinh tế
+-bộ phận
+-phần
+@Chuyên ngành kỹ thuật
+-bộ phận
+-cấu kiện
+-chi tiết
+-chia phần
+-linh kiện
+-linh kiện bộ phận
+-một phần
+-phần
+-phụ tùng
+-tách ra
+-thành phần
+@Lĩnh vực: điện
+-bên (hợp đồng)
+@Lĩnh vực: toán & tin
+-chia thành phần

@@ -1,3 +1,2 @@
-microinstruction
-	@Chuyên ngành kỹ thuật\n-vi áp kế
-
+microinstruction	@Chuyên ngành kỹ thuật
+-vi áp kế

@@ -1,3 +1,11 @@
-downgrade
-	@downgrade\n* động từ\n- giáng chức, giáng cấp\n@Chuyên ngành kinh tế\n-xuống cấp\n@Chuyên ngành kỹ thuật\n-độ dốc\n-độ nghiêng\n-hạ xuống\n-thu nhỏ
-
+downgrade	
+@downgrade
+* động từ
+- giáng chức, giáng cấp
+@Chuyên ngành kinh tế
+-xuống cấp
+@Chuyên ngành kỹ thuật
+-độ dốc
+-độ nghiêng
+-hạ xuống
+-thu nhỏ

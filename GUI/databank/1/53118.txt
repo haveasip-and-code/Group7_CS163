@@ -1,3 +1,12 @@
-steadily
-	@steadily\n* phó từ\n- vững, vững chắc, vững vàng\n- đều đặn, đều đều\n- kiên định, không thay đổi; trung kiên\n- vững vàng, bình tựnh, điềm tựnh\n- đứng đắn, chín chắn\n@Chuyên ngành kỹ thuật\n-dừng\n-vững\n@Lĩnh vực: toán & tin\n-dừng, vững
-
+steadily	@steadily
+* phó từ
+- vững, vững chắc, vững vàng
+- đều đặn, đều đều
+- kiên định, không thay đổi; trung kiên
+- vững vàng, bình tựnh, điềm tựnh
+- đứng đắn, chín chắn
+@Chuyên ngành kỹ thuật
+-dừng
+-vững
+@Lĩnh vực: toán & tin
+-dừng, vững

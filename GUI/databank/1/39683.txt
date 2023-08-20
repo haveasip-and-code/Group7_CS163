@@ -1,3 +1,12 @@
-parboil
-	@parboil /'pɑ:bɔil/\n*  ngoại động từ\n- đun sôi nửa chừng\n- (nghĩa bóng) hun nóng (mặt trời...)\n@Chuyên ngành kinh tế\n-chần nước sôi\n-đun sôi nhẹ\n-hấp hơi nước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-chần qua nước sôi\n-hấp hơi nước
-
+parboil	@parboil /'pɑ:bɔil/
+*  ngoại động từ
+- đun sôi nửa chừng
+- (nghĩa bóng) hun nóng (mặt trời...)
+@Chuyên ngành kinh tế
+-chần nước sôi
+-đun sôi nhẹ
+-hấp hơi nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-chần qua nước sôi
+-hấp hơi nước

@@ -1,3 +1,13 @@
-radiography
-	@radiography /,reidi'ɔgrəfi/\n*  ngoại động từ\n- (y học) chụp tia X, chụp rơngen\n*  danh từ\n- (y học) thuật chụp tia X, thuật chụp rơngen\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ảnh quang tuyến X\n@Lĩnh vực: điện lạnh\n-chụp ảnh bằng phóng xạ\n-chụp ảnh bằng tia X\n@Lĩnh vực: y học\n-phép chụp tia X
-
+radiography	@radiography /,reidi'ɔgrəfi/
+*  ngoại động từ
+- (y học) chụp tia X, chụp rơngen
+*  danh từ
+- (y học) thuật chụp tia X, thuật chụp rơngen
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-ảnh quang tuyến X
+@Lĩnh vực: điện lạnh
+-chụp ảnh bằng phóng xạ
+-chụp ảnh bằng tia X
+@Lĩnh vực: y học
+-phép chụp tia X

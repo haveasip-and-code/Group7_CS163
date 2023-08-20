@@ -1,3 +1,2 @@
-administrant
-	@administrant\n- xem administer
-
+administrant	@administrant
+- xem administer

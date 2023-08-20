@@ -1,3 +1,6 @@
-radionuclide
-	@radionuclide\n* danh từ\n- nuclit phóng xạ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nuclit phóng xạ
-
+radionuclide	@radionuclide
+* danh từ
+- nuclit phóng xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-nuclit phóng xạ

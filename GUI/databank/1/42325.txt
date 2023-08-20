@@ -1,3 +1,11 @@
-polarizer
-	@polarizer /'pouləraizə/\n*  danh từ\n- (vật lý) cái phân cực, kính phân cực\n@Chuyên ngành kỹ thuật\n-kính phân cực\n-máy phân cực\n@Lĩnh vực: điện tử & viễn thông\n-bộ hướng cực\n@Lĩnh vực: điện lạnh\n-tấm phân cực\n-thiết bị phân cực
-
+polarizer	@polarizer /'pouləraizə/
+*  danh từ
+- (vật lý) cái phân cực, kính phân cực
+@Chuyên ngành kỹ thuật
+-kính phân cực
+-máy phân cực
+@Lĩnh vực: điện tử & viễn thông
+-bộ hướng cực
+@Lĩnh vực: điện lạnh
+-tấm phân cực
+-thiết bị phân cực

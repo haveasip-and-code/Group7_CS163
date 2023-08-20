@@ -1,3 +1,34 @@
-incoming
-	@incoming /'in,kʌmiɳ/\n*  danh từ\n- sự vào, sự đến\n- (số nhiều) thu nhập, doanh thu, lợi tức\n*  tính từ\n- vào, mới đến\n=the incoming tide+ nước triều vào\n=the incoming year+ năm mới\n- nhập cư\n- kế tục, thay thế; mới đến ở, mới đến nhậm chức\n=the incoming tenant+ người thuê nhà mới dọn đến\n=the incoming mayor+ ông thị trưởng mới đến nhậm chức\n- dồn lại\n=incoming profits+ lãi dồn lại\n@Chuyên ngành kinh tế\n-chủ tịch mới\n-đến\n-gọi điện thoại từ nước ngoài về\n-máy bay đến\n-mới vào (ở, nhậm chức)\n-người thuê nhà mới\n@Chuyên ngành kỹ thuật\n-đến\n-đi tới\n-nhận\n-sự thu nhập\n-sự vào\n-vào\n@Lĩnh vực: điện tử & viễn thông\n-ập tới\n-tới (sóng)\n@Lĩnh vực: hóa học & vật liệu\n-sự đến
-
+incoming	
+@incoming /'in,kʌmiɳ/
+*  danh từ
+- sự vào, sự đến
+- (số nhiều) thu nhập, doanh thu, lợi tức
+*  tính từ
+- vào, mới đến=the incoming tide
++ nước triều vào=the incoming year
++ năm mới
+- nhập cư
+- kế tục, thay thế; mới đến ở, mới đến nhậm chức=the incoming tenant
++ người thuê nhà mới dọn đến=the incoming mayor
++ ông thị trưởng mới đến nhậm chức
+- dồn lại=incoming profits
++ lãi dồn lại
+@Chuyên ngành kinh tế
+-chủ tịch mới
+-đến
+-gọi điện thoại từ nước ngoài về
+-máy bay đến
+-mới vào (ở, nhậm chức)
+-người thuê nhà mới
+@Chuyên ngành kỹ thuật
+-đến
+-đi tới
+-nhận
+-sự thu nhập
+-sự vào
+-vào
+@Lĩnh vực: điện tử & viễn thông
+-ập tới
+-tới (sóng)
+@Lĩnh vực: hóa học & vật liệu
+-sự đến

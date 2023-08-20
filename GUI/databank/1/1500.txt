@@ -1,3 +1,12 @@
-alimentation
-	@alimentation /,ælimen'teiʃn/\n*  danh từ\n- sự nuôi cho ăn, sự nuôi dưỡng\n- sự cấp dưỡng\n@Chuyên ngành kinh tế\n-sự cấp dưỡng\n-sự nuôi dưỡng\n@Chuyên ngành kỹ thuật\n-sự cung cấp\n@Lĩnh vực: y học\n-sự ăn uống, nuôi dưỡng
-
+alimentation	
+@alimentation /,ælimen'teiʃn/
+*  danh từ
+- sự nuôi cho ăn, sự nuôi dưỡng
+- sự cấp dưỡng
+@Chuyên ngành kinh tế
+-sự cấp dưỡng
+-sự nuôi dưỡng
+@Chuyên ngành kỹ thuật
+-sự cung cấp
+@Lĩnh vực: y học
+-sự ăn uống, nuôi dưỡng

@@ -1,3 +1,5 @@
-blued
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bị biến màu xanh\n-bị hóa xanh
-
+blued	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bị biến màu xanh
+-bị hóa xanh

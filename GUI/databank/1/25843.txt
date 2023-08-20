@@ -1,3 +1,7 @@
-histiocyte
-	@histiocyte\n* danh từ\n- mô bào\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mô bào, đại thực bào cố định
-
+histiocyte	
+@histiocyte
+* danh từ
+- mô bào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-mô bào, đại thực bào cố định

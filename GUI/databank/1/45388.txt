@@ -1,3 +1,6 @@
-radiolysis
-	@radiolysis\n* danh từ\n- sự phân ly do phóng xạ; sự phân giải do chiếu xạ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự xạ ly
-
+radiolysis	@radiolysis
+* danh từ
+- sự phân ly do phóng xạ; sự phân giải do chiếu xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự xạ ly

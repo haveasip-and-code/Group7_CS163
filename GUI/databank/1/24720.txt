@@ -1,3 +1,44 @@
-hack
-	@hack /hæk/\n*  danh từ\n- búa, rìu; cuốc chim (của công nhân mỏ)\n- vết toác; vết thương do bị đá vào ống chân (đá bóng)\n*  ngoại động từ\n- đốn, đẽo, chém, chặt mạnh\n- (thể dục,thể thao) đá vào ống chân (ai)\n*  nội động từ\n- chém, chặt mạnh\n=to hack at something+ chặt mạnh cái gì\n- ho khan\n*  danh từ\n- ngựa cho thuê\n- ngựa ốm, ngựa tồi\n- ngựa thường (để cưỡi; không phải ngựa thi)\n- người làm thuê những công việc nặng nhọc; người viết văn thuê\n- (từ Mỹ,nghĩa Mỹ) xe ngựa cho thuê\n- (định ngữ) làm thuê, làm mướn\n=a hack writer+ người viết văn thuê\n*  ngoại động từ\n- làm thành nhàm\n- thuê (ngựa)\n- cưỡi (ngựa)\n*  nội động từ\n- cưỡi ngựa (đi thong dong)\n- dùng ngựa thuê\n- (từ Mỹ,nghĩa Mỹ) đánh xe ngựa thuê\n*  danh từ\n- máng đựng thịt (cho chim ó, diều hâu)\n- giá phơi gạch\n@Chuyên ngành kinh tế\n-giá phơi cá\n-khay đựng thịt\n@Chuyên ngành kỹ thuật\n-búa\n-cuốc\n-cuốc chim\n-đẽo đá\n-ngựa cho thuê\n-quốc chim\n-vết khắc\n@Lĩnh vực: xây dựng\n-giá phơi gạch
-
+hack	
+@hack /hæk/
+*  danh từ
+- búa, rìu; cuốc chim (của công nhân mỏ)
+- vết toác; vết thương do bị đá vào ống chân (đá bóng)
+*  ngoại động từ
+- đốn, đẽo, chém, chặt mạnh
+- (thể dục,thể thao) đá vào ống chân (ai)
+*  nội động từ
+- chém, chặt mạnh=to hack at something
++ chặt mạnh cái gì
+- ho khan
+*  danh từ
+- ngựa cho thuê
+- ngựa ốm, ngựa tồi
+- ngựa thường (để cưỡi; không phải ngựa thi)
+- người làm thuê những công việc nặng nhọc; người viết văn thuê
+- (từ Mỹ,nghĩa Mỹ) xe ngựa cho thuê
+- (định ngữ) làm thuê, làm mướn=a hack writer
++ người viết văn thuê
+*  ngoại động từ
+- làm thành nhàm
+- thuê (ngựa)
+- cưỡi (ngựa)
+*  nội động từ
+- cưỡi ngựa (đi thong dong)
+- dùng ngựa thuê
+- (từ Mỹ,nghĩa Mỹ) đánh xe ngựa thuê
+*  danh từ
+- máng đựng thịt (cho chim ó, diều hâu)
+- giá phơi gạch
+@Chuyên ngành kinh tế
+-giá phơi cá
+-khay đựng thịt
+@Chuyên ngành kỹ thuật
+-búa
+-cuốc
+-cuốc chim
+-đẽo đá
+-ngựa cho thuê
+-quốc chim
+-vết khắc
+@Lĩnh vực: xây dựng
+-giá phơi gạch

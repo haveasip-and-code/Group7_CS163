@@ -1,3 +1,54 @@
-black
-	@black /blæk/\n*  tính từ\n- đen\n- mặc quần áo đen\n- da đen\n=a black woman+ người đàn bà da đen\n- tối; tối tăm\n=black as ink+ tối như mực\n=black night+ đêm tối tăm\n- dơ bẩn, bẩn thỉu\n=black hands+ những bàn tay dơ bẩn\n- đen tối, ảm đạm, buồn rầu, vô hy vọng\n=things look black+ sự việc có vẻ đen tối vô hy vọng\n=black tidings+ tin buồn\n- xấu xa, độc ác; kinh tởm, ghê tởm\n=black crimes+ những tội ác ghê tởm\n!to beat black and blue\n- (xem) beat\n!to give someone a black look\n- lườm nguýt người nào\n!he is not so balck as he is painted\n- nó cũng không đến nỗi xấu (tồi tệ) như người ta nói đâu\n*  danh từ\n- màu đen\n- sơn đen\n- quần áo đen, áo tang\n=to be in black+ mặc quần áo đen; mặc áo tang\n- người da đen\n- bụi bẩn, mồ hóng\n*  ngoại động từ\n- làm đen, bôi đen\n- đánh xi đen (giày)\n!to black out\n- bôi đen để xoá đi\n- (sân khấu) tắt đèn\n- che kín ánh đèn, tắt đèn phòng không\n- thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt\n- (từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi\n- (từ Mỹ,nghĩa Mỹ) kiểm duyệt\n@Chuyên ngành kinh tế\n-bất hợp pháp\n-đen\n-phi pháp\n-tẩy chay\n@Chuyên ngành kỹ thuật\n-bồ hóng\n-bột đen\n-đen\n-màu đen\n-mực đen\n-muội\n-muội than\n-sơn đen\n-than\n@Lĩnh vực: hóa học & vật liệu\n-hồ hóng\n-muội (than)
-
+black	
+@black /blæk/
+*  tính từ
+- đen
+- mặc quần áo đen
+- da đen=a black woman
++ người đàn bà da đen
+- tối; tối tăm=black as ink
++ tối như mực=black night
++ đêm tối tăm
+- dơ bẩn, bẩn thỉu=black hands
++ những bàn tay dơ bẩn
+- đen tối, ảm đạm, buồn rầu, vô hy vọng=things look black
++ sự việc có vẻ đen tối vô hy vọng=black tidings
++ tin buồn
+- xấu xa, độc ác; kinh tởm, ghê tởm=black crimes
++ những tội ác ghê tởm!to beat black and blue
+- (xem) beat!to give someone a black look
+- lườm nguýt người nào!he is not so balck as he is painted
+- nó cũng không đến nỗi xấu (tồi tệ) như người ta nói đâu
+*  danh từ
+- màu đen
+- sơn đen
+- quần áo đen, áo tang=to be in black
++ mặc quần áo đen; mặc áo tang
+- người da đen
+- bụi bẩn, mồ hóng
+*  ngoại động từ
+- làm đen, bôi đen
+- đánh xi đen (giày)!to black out
+- bôi đen để xoá đi
+- (sân khấu) tắt đèn
+- che kín ánh đèn, tắt đèn phòng không
+- thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt
+- (từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi
+- (từ Mỹ,nghĩa Mỹ) kiểm duyệt
+@Chuyên ngành kinh tế
+-bất hợp pháp
+-đen
+-phi pháp
+-tẩy chay
+@Chuyên ngành kỹ thuật
+-bồ hóng
+-bột đen
+-đen
+-màu đen
+-mực đen
+-muội
+-muội than
+-sơn đen
+-than
+@Lĩnh vực: hóa học & vật liệu
+-hồ hóng
+-muội (than)

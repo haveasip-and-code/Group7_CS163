@@ -1,3 +1,10 @@
-gender
-	@gender /'dʤendə/\n*  danh từ\n- (ngôn ngữ học) giống\n=masculine gender+ giống đực\n=feminine gender+ giống cái\n*  ngoại động từ\n- (thơ ca) (như) engender\n@Chuyên ngành kỹ thuật\n-giống
-
+gender	
+@gender /'dʤendə/
+*  danh từ
+- (ngôn ngữ học) giống=masculine gender
++ giống đực=feminine gender
++ giống cái
+*  ngoại động từ
+- (thơ ca) (như) engender
+@Chuyên ngành kỹ thuật
+-giống

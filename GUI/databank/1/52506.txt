@@ -1,3 +1,34 @@
-splash
-	@splash /splæʃ/\n*  danh từ\n- sự bắn toé (bùn, nước...); lượng (bùn nước...) bắn toé\n- tiếng (nước) bắn, tiếng (sóng) vỗ\n- (thông tục) lượng nước xôđa (để pha rượu uytky)\n- vết bùn, đốm bẩn\n- vế đốm (trên da súc vật)\n- phấn bột gạo (để thoa mặt)\n!to have a Splash\n- tắm rửa\n!to make a splash\n- làm cho nhiều người chú ý (bằng cách khoe của)\n*  ngoại động từ\n- té, văng, làm bắn toé\n=to splash somebody with water+ té nước vào ai\n=to splash wawter about+ lãng phí tiền của\n- điểm loáng thoáng, chấm loáng thoáng (để trang trí)\n*  nội động từ\n- bắn lên, văng lên, bắn toé (bùn nước)\n- lội lõm bõm (trong bùn)\n=to splash across a muddy field+ lội lõm bõm qua đồng lầy\n@Chuyên ngành kinh tế\n-phun tóe ra\n-sự phun\n-sự tóe ra\n@Chuyên ngành kỹ thuật\n-sự bắn toé\n-vết bẩn\n-vết đốm\n@Lĩnh vực: xây dựng\n-hất\n-sự bắn toé (bùn, nước...)\n@Lĩnh vực: cơ khí & công trình\n-vẩy tung lên (chất lỏng)
-
+splash	@splash /splæʃ/
+*  danh từ
+- sự bắn toé (bùn, nước...); lượng (bùn nước...) bắn toé
+- tiếng (nước) bắn, tiếng (sóng) vỗ
+- (thông tục) lượng nước xôđa (để pha rượu uytky)
+- vết bùn, đốm bẩn
+- vế đốm (trên da súc vật)
+- phấn bột gạo (để thoa mặt)
+!to have a Splash
+- tắm rửa
+!to make a splash
+- làm cho nhiều người chú ý (bằng cách khoe của)
+*  ngoại động từ
+- té, văng, làm bắn toé
+=to splash somebody with water+ té nước vào ai
+=to splash wawter about+ lãng phí tiền của
+- điểm loáng thoáng, chấm loáng thoáng (để trang trí)
+*  nội động từ
+- bắn lên, văng lên, bắn toé (bùn nước)
+- lội lõm bõm (trong bùn)
+=to splash across a muddy field+ lội lõm bõm qua đồng lầy
+@Chuyên ngành kinh tế
+-phun tóe ra
+-sự phun
+-sự tóe ra
+@Chuyên ngành kỹ thuật
+-sự bắn toé
+-vết bẩn
+-vết đốm
+@Lĩnh vực: xây dựng
+-hất
+-sự bắn toé (bùn, nước...)
+@Lĩnh vực: cơ khí & công trình
+-vẩy tung lên (chất lỏng)

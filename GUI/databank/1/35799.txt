@@ -1,3 +1,6 @@
-moult
-	@moult /moult/\n*  danh từ\n- sự rụng lông, sự thay lông\n=bird in the moult+ chim đang thay lông\n*  động từ moult\n- rụng lông, thay lông (chim)
-
+moult	@moult /moult/
+*  danh từ
+- sự rụng lông, sự thay lông
+=bird in the moult+ chim đang thay lông
+*  động từ moult
+- rụng lông, thay lông (chim)

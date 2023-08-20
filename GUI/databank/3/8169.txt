@@ -1,3 +1,2 @@
-cashless
-	@cashless\n- xem cash
-
+cashless	@cashless
+- xem cash

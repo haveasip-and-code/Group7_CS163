@@ -1,3 +1,5 @@
-bema
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bục giảng kinh\n-khoảng ngang nhà thờ
-
+bema	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bục giảng kinh
+-khoảng ngang nhà thờ

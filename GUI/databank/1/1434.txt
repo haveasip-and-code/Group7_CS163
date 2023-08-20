@@ -1,3 +1,4 @@
-aldosteronism
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chứng tăng aldosterone
-
+aldosteronism	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chứng tăng aldosterone

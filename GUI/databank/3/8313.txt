@@ -1,3 +1,6 @@
-cathedra
-	@cathedra\n* danh từ\n- chỗ ngồi của ông giám mục\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-giảng đàn
-
+cathedra	@cathedra
+* danh từ
+- chỗ ngồi của ông giám mục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-giảng đàn

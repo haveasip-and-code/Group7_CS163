@@ -1,3 +1,2 @@
-methionine
-	@Chuyên ngành kỹ thuật\n-một amino axit thiết yếu
-
+methionine	@Chuyên ngành kỹ thuật
+-một amino axit thiết yếu

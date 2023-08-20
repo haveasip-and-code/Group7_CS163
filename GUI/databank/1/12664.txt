@@ -1,3 +1,34 @@
-crimp
-	@crimp /krimp/\n*  danh từ\n- sự dụ dỗ đi lính; người dụ dỗ đi làm tàu\n!to put a crimp in (into)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngăn cản, thọc gậy bánh xe\n*  ngoại động từ\n- dụ dỗ (ai) đi lính; dụ dỗ (ai) đi làm tàu\n- gấp nếp (tờ giấy), ép thành nếp; uốn quăn, uốn làn sóng (tóc, miếng tôn, , ,)\n=to crimp the hair+ uốn tóc\n- rạch khía (lên miếng thịt tươi hay miếng cá tươi)\n@Chuyên ngành kinh tế\n-khía\n-rạch\n@Chuyên ngành kỹ thuật\n-chun\n-gấp mép\n-gấp nếp\n-làm gợn sóng\n-làm nhàu\n-nếp gấp\n-nếp gợn\n-nếp nhăn\n-quăn\n-sự gấp nếp\n-sự quăn\n-uốn\n-uốn mép\n-uốn nếp\n-uốn sóng\n-xếp nếp\n@Lĩnh vực: cơ khí & công trình\n-gập nếp\n-mép uốn\n-mí
-
+crimp	
+@crimp /krimp/
+*  danh từ
+- sự dụ dỗ đi lính; người dụ dỗ đi làm tàu!to put a crimp in (into)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngăn cản, thọc gậy bánh xe
+*  ngoại động từ
+- dụ dỗ (ai) đi lính; dụ dỗ (ai) đi làm tàu
+- gấp nếp (tờ giấy), ép thành nếp; uốn quăn, uốn làn sóng (tóc, miếng tôn, , ,)=to crimp the hair
++ uốn tóc
+- rạch khía (lên miếng thịt tươi hay miếng cá tươi)
+@Chuyên ngành kinh tế
+-khía
+-rạch
+@Chuyên ngành kỹ thuật
+-chun
+-gấp mép
+-gấp nếp
+-làm gợn sóng
+-làm nhàu
+-nếp gấp
+-nếp gợn
+-nếp nhăn
+-quăn
+-sự gấp nếp
+-sự quăn
+-uốn
+-uốn mép
+-uốn nếp
+-uốn sóng
+-xếp nếp
+@Lĩnh vực: cơ khí & công trình
+-gập nếp
+-mép uốn
+-mí

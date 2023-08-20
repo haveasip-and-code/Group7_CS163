@@ -1,3 +1,31 @@
-mounting
-	@mounting /'mouldiɳ/\n*  danh từ\n- sự trèo, sự lên\n- sự tăng lên\n- giá, khung\n@Chuyên ngành kỹ thuật\n-bệ (camera đèn)\n-bộ thiết bị\n-dựng\n-ghép\n-giá\n-giá khung\n-khung\n-lắp đặt\n-lắp ráp\n-sự chống\n-sự dựng\n-sự lắp đặt\n-sự lắp ráp\n-thiết bị\n-thiết bị lắp\n-trang bị\n@Lĩnh vực: cơ khí & công trình\n-gắn, lắp máy\n-mặt lắp ghép\n@Lĩnh vực: xây dựng\n-sự lắp (ráp)\n@Lĩnh vực: điện lạnh\n-sự lắp máy\n@Lĩnh vực: điện\n-việc lắp đặt
-
+mounting	@mounting /'mouldiɳ/
+*  danh từ
+- sự trèo, sự lên
+- sự tăng lên
+- giá, khung
+@Chuyên ngành kỹ thuật
+-bệ (camera đèn)
+-bộ thiết bị
+-dựng
+-ghép
+-giá
+-giá khung
+-khung
+-lắp đặt
+-lắp ráp
+-sự chống
+-sự dựng
+-sự lắp đặt
+-sự lắp ráp
+-thiết bị
+-thiết bị lắp
+-trang bị
+@Lĩnh vực: cơ khí & công trình
+-gắn, lắp máy
+-mặt lắp ghép
+@Lĩnh vực: xây dựng
+-sự lắp (ráp)
+@Lĩnh vực: điện lạnh
+-sự lắp máy
+@Lĩnh vực: điện
+-việc lắp đặt

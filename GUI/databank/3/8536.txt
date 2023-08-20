@@ -1,3 +1,2 @@
-centricity
-	@centricity\n- xem centric
-
+centricity	@centricity
+- xem centric

@@ -1,3 +1,19 @@
-peace
-	@peace /pi:s/\n*  danh từ\n- hoà bình, thái bình, sự hoà thuận\n=at peace with+ trong tình trạng hoà bình; hoà thuận với\n=peace with honour+ hoà bình trong danh dự\n=to make peace+ dàn hoà\n=to make one's peace with somebody+ làm lành với ai\n=to make someone's peace with another+ giải hoà ai với ai\n- ((thường) Peace) hoà ước\n- sự yên ổn, sự trật tự an ninh\n=the [king's] peace+ sự yên bình, sự an cư lạc nghiệp\n=to keep the peace+ giữ trật tự an ninh\n=to break the peace+ việc phá rối trật tự\n- sự yên lặng, sự yên tĩnh; sự an tâm\n=peace of mind+ sự yên tĩnh trong tâm hồn\n=to hold one's peace+ lặng yên không nói\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hòa bình
-
+peace	@peace /pi:s/
+*  danh từ
+- hoà bình, thái bình, sự hoà thuận
+=at peace with+ trong tình trạng hoà bình; hoà thuận với
+=peace with honour+ hoà bình trong danh dự
+=to make peace+ dàn hoà
+=to make one's peace with somebody+ làm lành với ai
+=to make someone's peace with another+ giải hoà ai với ai
+- ((thường) Peace) hoà ước
+- sự yên ổn, sự trật tự an ninh
+=the [king's] peace+ sự yên bình, sự an cư lạc nghiệp
+=to keep the peace+ giữ trật tự an ninh
+=to break the peace+ việc phá rối trật tự
+- sự yên lặng, sự yên tĩnh; sự an tâm
+=peace of mind+ sự yên tĩnh trong tâm hồn
+=to hold one's peace+ lặng yên không nói
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hòa bình

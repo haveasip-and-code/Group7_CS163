@@ -1,3 +1,13 @@
-sequential
-	@sequential /'si:kwənt/ (sequential) /si'kwenʃəl/\n*  tính từ\n- liên tục, liên tiếp\n- theo sau, tiếp sau (ảnh hưởng...)\n- (toán học) dãy, theo dãy\n=sequent analysis+ gải tích dãy\n@Chuyên ngành kỹ thuật\n-dãy\n-liên tiếp\n-nối tiếp\n-theo sau\n@Lĩnh vực: toán & tin\n-theo tuần tự
-
+sequential	@sequential /'si:kwənt/ (sequential) /si'kwenʃəl/
+*  tính từ
+- liên tục, liên tiếp
+- theo sau, tiếp sau (ảnh hưởng...)
+- (toán học) dãy, theo dãy
+=sequent analysis+ gải tích dãy
+@Chuyên ngành kỹ thuật
+-dãy
+-liên tiếp
+-nối tiếp
+-theo sau
+@Lĩnh vực: toán & tin
+-theo tuần tự

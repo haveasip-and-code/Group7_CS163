@@ -1,3 +1,7 @@
-cardinality
-	@cardinality\n* danh từ\n- (toán học) số các yếu tố trong một tập hợp\n@Chuyên ngành kỹ thuật\n-bản số\n-lực lượng
-
+cardinality	
+@cardinality
+* danh từ
+- (toán học) số các yếu tố trong một tập hợp
+@Chuyên ngành kỹ thuật
+-bản số
+-lực lượng

@@ -1,3 +1,2 @@
-nonelectrical
-	@Chuyên ngành kỹ thuật\n-không có điện
-
+nonelectrical	@Chuyên ngành kỹ thuật
+-không có điện

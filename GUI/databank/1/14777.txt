@@ -1,3 +1,9 @@
-designer
-	@designer /di'zainə/\n*  danh từ\n- người phác hoạ, người vẽ kiểu, người phác thảo cách trình bày (một quyển sách...), người trang trí (sân khấu...), người thiết kế (vườn, công viên...)\n@Chuyên ngành kỹ thuật\n-người thiết kế\n-nhà thiết kế\n@Lĩnh vực: điện tử & viễn thông\n-bộ thiết kế
-
+designer	
+@designer /di'zainə/
+*  danh từ
+- người phác hoạ, người vẽ kiểu, người phác thảo cách trình bày (một quyển sách...), người trang trí (sân khấu...), người thiết kế (vườn, công viên...)
+@Chuyên ngành kỹ thuật
+-người thiết kế
+-nhà thiết kế
+@Lĩnh vực: điện tử & viễn thông
+-bộ thiết kế

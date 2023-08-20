@@ -1,3 +1,35 @@
-nozzle
-	@nozzle /'nɔzl/\n*  danh từ\n- miệng, vòi (ấm)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mũi, mồm\n@Chuyên ngành kinh tế\n-miệng\n-vòi\n@Chuyên ngành kỹ thuật\n-đầu phun\n-khe mở\n-kim phun\n-lỗ\n-lỗ phun\n-lỗ tai\n-miệng\n-miệng phun\n-mỏ hàn\n-ống\n-ống gió\n-ống phun\n-ống phụt\n-tuyến\n-vòi\n-vòi phun\n@Lĩnh vực: cơ khí & công trình\n-khoang cống\n-khoang đập tràn\n@Lĩnh vực: xây dựng\n-miệng ống (phụt)\n-miệng ống phụt\n-miệng ống tháo\n-miệng ống xả\n-vòi phụt\n@Lĩnh vực: điện\n-mỏ phun
-
+nozzle	@nozzle /'nɔzl/
+*  danh từ
+- miệng, vòi (ấm)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mũi, mồm
+@Chuyên ngành kinh tế
+-miệng
+-vòi
+@Chuyên ngành kỹ thuật
+-đầu phun
+-khe mở
+-kim phun
+-lỗ
+-lỗ phun
+-lỗ tai
+-miệng
+-miệng phun
+-mỏ hàn
+-ống
+-ống gió
+-ống phun
+-ống phụt
+-tuyến
+-vòi
+-vòi phun
+@Lĩnh vực: cơ khí & công trình
+-khoang cống
+-khoang đập tràn
+@Lĩnh vực: xây dựng
+-miệng ống (phụt)
+-miệng ống phụt
+-miệng ống tháo
+-miệng ống xả
+-vòi phụt
+@Lĩnh vực: điện
+-mỏ phun

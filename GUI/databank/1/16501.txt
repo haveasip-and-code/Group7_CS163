@@ -1,3 +1,4 @@
-doorplate
-	@doorplate\n* danh từ\n- biển [đề tên] ở cửa
-
+doorplate	
+@doorplate
+* danh từ
+- biển [đề tên] ở cửa

@@ -1,3 +1,4 @@
-arete
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-đỉnh núi nhọn
-
+arete	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-đỉnh núi nhọn

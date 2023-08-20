@@ -1,3 +1,13 @@
-theorem
-	@theorem /'θiərəm/\n*  danh từ\n- (toán học) định lý\n@Chuyên ngành kinh tế\n-định lý\n-nguyên lý\n-nguyên tắc\n@Chuyên ngành kỹ thuật\n-định lý\n@Lĩnh vực: điện\n-định lí\n@Lĩnh vực: điện lạnh\n-định lý pi
-
+theorem	@theorem /'θiərəm/
+*  danh từ
+- (toán học) định lý
+@Chuyên ngành kinh tế
+-định lý
+-nguyên lý
+-nguyên tắc
+@Chuyên ngành kỹ thuật
+-định lý
+@Lĩnh vực: điện
+-định lí
+@Lĩnh vực: điện lạnh
+-định lý pi

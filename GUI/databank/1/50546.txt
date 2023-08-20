@@ -1,3 +1,34 @@
-shroud
-	@shroud /ʃraud/\n*  danh từ\n- vải liệm\n- màn che giấu\n=the whole affair was wrapped in a shroud of mystery+ tất cả vấn đề còn ở trong màn bí mật\n- (số nhiều) mạng thừng chằng cột buồm\n*  ngoại động từ\n- liệm, khâm liệm\n- giấu, che đậy\n@Chuyên ngành kinh tế\n-bao gói thịt\n-gói thịt trong bao\n@Chuyên ngành kỹ thuật\n-dây chằng\n-hộp đai\n-khung\n-lớp bọc/ hộc bọc\n-nắp bảo vệ\n-nắp bảo vệ quạt\n-nắp che\n-nắp quạt\n-tấm chắn\n-vách\n-vành đai\n-vỏ bảo vệ\n-vỏ che\n@Lĩnh vực: cơ khí & công trình\n-cốt (bánh răng, băng da)\n-vành che đỡ\n@Lĩnh vực: giao thông & vận tải\n-dây buộc (cột buồm)\n@Lĩnh vực: điện tử & viễn thông\n-màn bảo vệ\n-màn che dấu
-
+shroud	@shroud /ʃraud/
+*  danh từ
+- vải liệm
+- màn che giấu
+=the whole affair was wrapped in a shroud of mystery+ tất cả vấn đề còn ở trong màn bí mật
+- (số nhiều) mạng thừng chằng cột buồm
+*  ngoại động từ
+- liệm, khâm liệm
+- giấu, che đậy
+@Chuyên ngành kinh tế
+-bao gói thịt
+-gói thịt trong bao
+@Chuyên ngành kỹ thuật
+-dây chằng
+-hộp đai
+-khung
+-lớp bọc/ hộc bọc
+-nắp bảo vệ
+-nắp bảo vệ quạt
+-nắp che
+-nắp quạt
+-tấm chắn
+-vách
+-vành đai
+-vỏ bảo vệ
+-vỏ che
+@Lĩnh vực: cơ khí & công trình
+-cốt (bánh răng, băng da)
+-vành che đỡ
+@Lĩnh vực: giao thông & vận tải
+-dây buộc (cột buồm)
+@Lĩnh vực: điện tử & viễn thông
+-màn bảo vệ
+-màn che dấu

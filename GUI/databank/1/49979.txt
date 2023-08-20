@@ -1,3 +1,2 @@
-serologic
-	@serologic\n- Cách viết khác : serological
-
+serologic	@serologic
+- Cách viết khác : serological

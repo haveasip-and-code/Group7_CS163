@@ -1,3 +1,5 @@
-mudsill
-	@Chuyên ngành kỹ thuật\n-rầm ngang\n-xà ngang\n@Lĩnh vực: xây dựng\n-ngưỡng cửa bùn
-
+mudsill	@Chuyên ngành kỹ thuật
+-rầm ngang
+-xà ngang
+@Lĩnh vực: xây dựng
+-ngưỡng cửa bùn

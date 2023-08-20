@@ -1,3 +1,4 @@
-buyback
-	@Chuyên ngành kinh tế\n-mua lại\n-mua yểm trợ
-
+buyback	
+@Chuyên ngành kinh tế
+-mua lại
+-mua yểm trợ

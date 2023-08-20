@@ -1,3 +1,14 @@
-skylight
-	@skylight /'skailait/\n*  danh từ\n- cửa sổ ở trần nhà, cửa sổ ở mái nhà\n@Chuyên ngành kỹ thuật\n-cửa mái\n-mái kính\n@Lĩnh vực: giao thông & vận tải\n-cửa chiếu sáng (ở boong)\n@Lĩnh vực: xây dựng\n-cửa sổ mái\n-cửa trời (bằng những tấm kính trên mái nhà)\n-đỉnh mái kính\n-mái kính (để lấy ánh sáng)\n-ô sáng vòm trời
-
+skylight	@skylight /'skailait/
+*  danh từ
+- cửa sổ ở trần nhà, cửa sổ ở mái nhà
+@Chuyên ngành kỹ thuật
+-cửa mái
+-mái kính
+@Lĩnh vực: giao thông & vận tải
+-cửa chiếu sáng (ở boong)
+@Lĩnh vực: xây dựng
+-cửa sổ mái
+-cửa trời (bằng những tấm kính trên mái nhà)
+-đỉnh mái kính
+-mái kính (để lấy ánh sáng)
+-ô sáng vòm trời

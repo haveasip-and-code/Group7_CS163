@@ -1,3 +1,21 @@
-manufacture
-	@manufacture /,mænju'fæktʃə/\n*  danh từ\n- sự chế tạo, sự sản xuất\n=of Vietnam manufacture+ do Việt-nam sản xuất\n- công nghiệp\n=the cotton manufacture+ ngành công nghiệp dệt, ngành\ndệt\n@Chuyên ngành kinh tế\n-chế tạo\n-chế tạo (hàng hóa)\n-làm thành (đồ dùng)\n-sản xuất\n-sự chế tạo\n-sự làm\n-sự sản xuất\n@Chuyên ngành kỹ thuật\n-sản phẩm\n-sản xuất\n-sự chế tạo\n-sự gia công\n-sự sản xuất
-
+manufacture	@manufacture /,mænju'fæktʃə/
+*  danh từ
+- sự chế tạo, sự sản xuất
+=of Vietnam manufacture+ do Việt-nam sản xuất
+- công nghiệp
+=the cotton manufacture+ ngành công nghiệp dệt, ngành
+dệt
+@Chuyên ngành kinh tế
+-chế tạo
+-chế tạo (hàng hóa)
+-làm thành (đồ dùng)
+-sản xuất
+-sự chế tạo
+-sự làm
+-sự sản xuất
+@Chuyên ngành kỹ thuật
+-sản phẩm
+-sản xuất
+-sự chế tạo
+-sự gia công
+-sự sản xuất

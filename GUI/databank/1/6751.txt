@@ -1,3 +1,4 @@
-bride
-	@bride /braid/\n*  danh từ\n- cô dâu
-
+bride	
+@bride /braid/
+*  danh từ
+- cô dâu

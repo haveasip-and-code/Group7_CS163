@@ -1,3 +1,6 @@
-dupe
-	@dupe /dju:p/\n*  danh từ\n- người bị bịp\n*  ngoại động từ\n- bịp, lừa bịp
-
+dupe	
+@dupe /dju:p/
+*  danh từ
+- người bị bịp
+*  ngoại động từ
+- bịp, lừa bịp

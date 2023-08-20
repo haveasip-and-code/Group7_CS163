@@ -1,3 +1,10 @@
-actuation
-	@actuation /,æktju'eiʃn/\n*  danh từ\n- sự thúc đẩy, sự kích thích\n- sự phát động, sự khởi động (máy)\n@Chuyên ngành kỹ thuật\n-sự dẫn động\n-sự điều khiển\n-sự vận hành\n@Lĩnh vực: vật lý\n-cấu vận hành
-
+actuation	@actuation /,æktju'eiʃn/
+*  danh từ
+- sự thúc đẩy, sự kích thích
+- sự phát động, sự khởi động (máy)
+@Chuyên ngành kỹ thuật
+-sự dẫn động
+-sự điều khiển
+-sự vận hành
+@Lĩnh vực: vật lý
+-cấu vận hành

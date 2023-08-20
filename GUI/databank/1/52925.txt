@@ -1,3 +1,13 @@
-stakeholder
-	@stakeholder /'steik,houldə/\n*  danh từ\n- người giữ tiền đặt cược\n@Chuyên ngành kinh tế\n-cổ đông\n-người có cổ quyền\n-người có dự phần làm ăn\n-người có giữ một số cổ phần\n-người giữ tiền cọc\n-người giữ tiền cược\n-người giữ tiền đặt cuộc\n-người giữ vật thế chấp\n-người hưởng lợi
-
+stakeholder	@stakeholder /'steik,houldə/
+*  danh từ
+- người giữ tiền đặt cược
+@Chuyên ngành kinh tế
+-cổ đông
+-người có cổ quyền
+-người có dự phần làm ăn
+-người có giữ một số cổ phần
+-người giữ tiền cọc
+-người giữ tiền cược
+-người giữ tiền đặt cuộc
+-người giữ vật thế chấp
+-người hưởng lợi

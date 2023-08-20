@@ -1,3 +1,4 @@
-ditty
-	@ditty /'diti/\n*  danh từ\n- bài hát ngắn
-
+ditty	
+@ditty /'diti/
+*  danh từ
+- bài hát ngắn

@@ -1,3 +1,51 @@
-backing
-	@backing /'bækiɳ/\n*  danh từ\n- sự giúp đỡ; sự ủng hộ\n- (the backing) những người ủng hộ\n- sự bồi lại (một bức tranh...); sự đóng gáy (sách)\n- sự chạy lùi, sự giật lùi, sự lui\n- sự trở chiều (gió)\n@Chuyên ngành kinh tế\n-bán lại\n-đảm bảo phát hành giấy bạc\n-sự giúp đỡ\n-tài trợ\n-trợ giúp\n-ủng hộ\n@Chuyên ngành kỹ thuật\n-bệ\n-đắp\n-giá\n-hỗ trợ\n-lấp\n-lớp lót\n-lớp lót (phủ tráng)\n-lớp nền\n-nền\n-sự chạy lùi\n-sự đảo chiều\n-sự đắp\n-sự đỡ\n-sự gia cố\n-sự lấp\n-sự lấp đầy\n-sự lùi\n-sự tăng bền\n-sự xếp gọn\n-tấm đệm\n-tấm lót\n-thanh căng\n-thanh giằng\n-thanh kéo\n-vật đỡ\n@Lĩnh vực: xây dựng\n-bệ lót\n-khối xây chèn khung\n@Lĩnh vực: hóa học & vật liệu\n-bề mặt sau\n@Lĩnh vực: y học\n-Mảnh áp (RHM)\n@Lĩnh vực: dệt may\n-vật liệu lót\n-vật liệu nền
-
+backing	
+@backing /'bækiɳ/
+*  danh từ
+- sự giúp đỡ; sự ủng hộ
+- (the backing) những người ủng hộ
+- sự bồi lại (một bức tranh...); sự đóng gáy (sách)
+- sự chạy lùi, sự giật lùi, sự lui
+- sự trở chiều (gió)
+@Chuyên ngành kinh tế
+-bán lại
+-đảm bảo phát hành giấy bạc
+-sự giúp đỡ
+-tài trợ
+-trợ giúp
+-ủng hộ
+@Chuyên ngành kỹ thuật
+-bệ
+-đắp
+-giá
+-hỗ trợ
+-lấp
+-lớp lót
+-lớp lót (phủ tráng)
+-lớp nền
+-nền
+-sự chạy lùi
+-sự đảo chiều
+-sự đắp
+-sự đỡ
+-sự gia cố
+-sự lấp
+-sự lấp đầy
+-sự lùi
+-sự tăng bền
+-sự xếp gọn
+-tấm đệm
+-tấm lót
+-thanh căng
+-thanh giằng
+-thanh kéo
+-vật đỡ
+@Lĩnh vực: xây dựng
+-bệ lót
+-khối xây chèn khung
+@Lĩnh vực: hóa học & vật liệu
+-bề mặt sau
+@Lĩnh vực: y học
+-Mảnh áp (RHM)
+@Lĩnh vực: dệt may
+-vật liệu lót
+-vật liệu nền

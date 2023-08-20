@@ -1,3 +1,11 @@
-deaerator
-	@Chuyên ngành kinh tế\n-máy thử khí\n-thiết bị bài khí\n@Chuyên ngành kỹ thuật\n-bình chứa khí\n@Lĩnh vực: xây dựng\n-bộ khử khí\n-máy loại khí\n@Lĩnh vực: giao thông & vận tải\n-bộ xả khí
-
+deaerator	
+@Chuyên ngành kinh tế
+-máy thử khí
+-thiết bị bài khí
+@Chuyên ngành kỹ thuật
+-bình chứa khí
+@Lĩnh vực: xây dựng
+-bộ khử khí
+-máy loại khí
+@Lĩnh vực: giao thông & vận tải
+-bộ xả khí

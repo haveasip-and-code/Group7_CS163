@@ -1,3 +1,34 @@
-swivel
-	@swivel /'swivl/\n*  danh từ\n- (kỹ thuật) khớp khuyên\n*  động từ\n- xoay, quay\n@Chuyên ngành kỹ thuật\n-cốt\n-khớp bản lề\n-khớp cầu\n-khớp khuyên\n-khớp quay\n-mắt xích\n-móc lò xo\n-quay\n-sự nối khớp\n-xoay\n-xoay được\n@Lĩnh vực: cơ khí & công trình\n-bàn trượt quay\n-đài dao quay\n-khớp khuyên/ khớp quay\n-quả gối\n@Lĩnh vực: hóa học & vật liệu\n-dầu quay\n-khớp đầu cột ống khoan (kỹ thuật khoan)\n-mũ phun\n@Lĩnh vực: vật lý\n-khớp xoay\n@Lĩnh vực: toán & tin\n-thanh có ren\n@Lĩnh vực: giao thông & vận tải\n-vòng ngoặc (đai)\n@Lĩnh vực: ô tô\n-xoay quanh một điểm
-
+swivel	@swivel /'swivl/
+*  danh từ
+- (kỹ thuật) khớp khuyên
+*  động từ
+- xoay, quay
+@Chuyên ngành kỹ thuật
+-cốt
+-khớp bản lề
+-khớp cầu
+-khớp khuyên
+-khớp quay
+-mắt xích
+-móc lò xo
+-quay
+-sự nối khớp
+-xoay
+-xoay được
+@Lĩnh vực: cơ khí & công trình
+-bàn trượt quay
+-đài dao quay
+-khớp khuyên/ khớp quay
+-quả gối
+@Lĩnh vực: hóa học & vật liệu
+-dầu quay
+-khớp đầu cột ống khoan (kỹ thuật khoan)
+-mũ phun
+@Lĩnh vực: vật lý
+-khớp xoay
+@Lĩnh vực: toán & tin
+-thanh có ren
+@Lĩnh vực: giao thông & vận tải
+-vòng ngoặc (đai)
+@Lĩnh vực: ô tô
+-xoay quanh một điểm

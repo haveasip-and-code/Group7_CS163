@@ -1,3 +1,2 @@
-affirmer
-	@affirmer\n- xem affirm
-
+affirmer	@affirmer
+- xem affirm

@@ -1,3 +1,21 @@
-recoil
-	@recoil /ri'kɔil/\n*  danh từ\n- sự dội lại, sự nảy lại; sự giật (súng); sự bật lên (của lò xo)\n=the recoil of a gun+ sự giật lại của khẩu đại bác\n- sự lùi lại (vì sợ, ghê tởm...); sự chùn lại\n*  nội động từ\n- dội lại, nảy lại; giật (súng); bật lên (lò xo)\n=the gun recoils+ khẩu đại bác giật\n- lùi lại (vì sợ, ghê tởm...); chùn lại, thoái lui\n=to recoil from something+ chùn lại trước việc gì\n=to recoil from doing something+ chùn lại không dám làm việc gì\n- (từ hiếm,nghĩa hiếm) rút lui (trước kẻ địch)\n- (nghĩa bóng) (+ on,  upon) có ảnh hưởng ngược lại, tác hại trở lại\n=his meanness recoiled upon his own head+ cái tính bần tiện của hắn tác hại trở lại ngay cho bản thân hắn\n@Chuyên ngành kỹ thuật\n-bật lại\n-nẩy\n-sự bật\n-sự nẩy\n@Lĩnh vực: điện lạnh\n-sự giật lùi
-
+recoil	@recoil /ri'kɔil/
+*  danh từ
+- sự dội lại, sự nảy lại; sự giật (súng); sự bật lên (của lò xo)
+=the recoil of a gun+ sự giật lại của khẩu đại bác
+- sự lùi lại (vì sợ, ghê tởm...); sự chùn lại
+*  nội động từ
+- dội lại, nảy lại; giật (súng); bật lên (lò xo)
+=the gun recoils+ khẩu đại bác giật
+- lùi lại (vì sợ, ghê tởm...); chùn lại, thoái lui
+=to recoil from something+ chùn lại trước việc gì
+=to recoil from doing something+ chùn lại không dám làm việc gì
+- (từ hiếm,nghĩa hiếm) rút lui (trước kẻ địch)
+- (nghĩa bóng) (+ on,  upon) có ảnh hưởng ngược lại, tác hại trở lại
+=his meanness recoiled upon his own head+ cái tính bần tiện của hắn tác hại trở lại ngay cho bản thân hắn
+@Chuyên ngành kỹ thuật
+-bật lại
+-nẩy
+-sự bật
+-sự nẩy
+@Lĩnh vực: điện lạnh
+-sự giật lùi

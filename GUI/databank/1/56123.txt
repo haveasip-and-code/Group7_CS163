@@ -1,3 +1,2 @@
-testae
-	@testae\n- số nhiều của testa
-
+testae	@testae
+- số nhiều của testa

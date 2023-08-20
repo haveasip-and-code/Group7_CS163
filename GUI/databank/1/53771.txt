@@ -1,3 +1,10 @@
-stroboscope
-	@stroboscope\n* danh từ\n- đèn chớp; dụng cụ phát ra một tia sáng loé\n@Chuyên ngành kỹ thuật\n-đèn cân lửa\n-đèn chớp\n@Lĩnh vực: y học\n-máy hoạt nghiệm\n@Lĩnh vực: xây dựng\n-tần kế
-
+stroboscope	@stroboscope
+* danh từ
+- đèn chớp; dụng cụ phát ra một tia sáng loé
+@Chuyên ngành kỹ thuật
+-đèn cân lửa
+-đèn chớp
+@Lĩnh vực: y học
+-máy hoạt nghiệm
+@Lĩnh vực: xây dựng
+-tần kế

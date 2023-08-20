@@ -1,3 +1,2 @@
-serological
-	@serological\n- xem serologic
-
+serological	@serological
+- xem serologic

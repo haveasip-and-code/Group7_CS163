@@ -1,3 +1,4 @@
-antiparticle
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-phản hạt
-
+antiparticle	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-phản hạt

@@ -1,3 +1,2 @@
-pictograms
-	@Chuyên ngành kinh tế\n-biểu tượng
-
+pictograms	@Chuyên ngành kinh tế
+-biểu tượng

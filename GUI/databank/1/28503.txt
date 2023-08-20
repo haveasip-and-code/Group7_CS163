@@ -1,3 +1,11 @@
-inflection
-	@inflection /in'flekʃn/ (inflection) /in'flekʃn/\n*  danh từ\n- chỗ cong, góc cong\n- (toán học) sự uốn\n- (âm nhạc) sự chuyển điệu\n- (ngôn ngữ học) biến tố\n@Chuyên ngành kỹ thuật\n-điểm uốn\n-độ võng\n-sự uốn
-
+inflection	
+@inflection /in'flekʃn/ (inflection) /in'flekʃn/
+*  danh từ
+- chỗ cong, góc cong
+- (toán học) sự uốn
+- (âm nhạc) sự chuyển điệu
+- (ngôn ngữ học) biến tố
+@Chuyên ngành kỹ thuật
+-điểm uốn
+-độ võng
+-sự uốn

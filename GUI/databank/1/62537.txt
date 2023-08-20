@@ -1,3 +1,5 @@
-waveguide
-	@waveguide\n- (kỹ thuật) ống dẫn sóng; đường sóng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đường sóng
-
+waveguide	@waveguide
+- (kỹ thuật) ống dẫn sóng; đường sóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đường sóng

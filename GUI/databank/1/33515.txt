@@ -1,3 +1,4 @@
-maneuverability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-khả năng manơ\n-tính tiện dụng
-
+maneuverability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-khả năng manơ
+-tính tiện dụng

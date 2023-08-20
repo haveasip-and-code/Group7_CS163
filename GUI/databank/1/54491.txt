@@ -1,3 +1,7 @@
-summing
-	@summing\n- tổng, phép cộng\n@Chuyên ngành kỹ thuật\n-phép cộng\n-tổng\n@Lĩnh vực: toán & tin\n-tổng, phép cộng
-
+summing	@summing
+- tổng, phép cộng
+@Chuyên ngành kỹ thuật
+-phép cộng
+-tổng
+@Lĩnh vực: toán & tin
+-tổng, phép cộng

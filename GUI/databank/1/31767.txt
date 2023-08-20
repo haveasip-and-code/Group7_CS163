@@ -1,3 +1,23 @@
-learn
-	@learn /lə:n/\n*  ngoại động từ learnt  /lə:nt/\n- học, học tập, nghiên cứu\n- nghe thất, được nghe, được biết\n=to learn a piece of news from someone+ biết tin qua ai\n- (từ cổ,nghĩa cổ);(đùa cợt), guộc duỵu âm phâng nội động từ\n- học, học tập\n!to learn by heart\n- học thuộc lòng\n!to learn by rate\n- học vẹt\n!I am (have) yet to learn\n- tôi chưa biết như thế nào, để còn xem đã\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-học\n@Lĩnh vực: toán & tin\n-học (thuộc)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-học\n@Lĩnh vực: toán & tin\n-học (thuộc)
-
+learn	@learn /lə:n/
+*  ngoại động từ learnt  /lə:nt/
+- học, học tập, nghiên cứu
+- nghe thất, được nghe, được biết
+=to learn a piece of news from someone+ biết tin qua ai
+- (từ cổ,nghĩa cổ);(đùa cợt), guộc duỵu âm phâng nội động từ
+- học, học tập
+!to learn by heart
+- học thuộc lòng
+!to learn by rate
+- học vẹt
+!I am (have) yet to learn
+- tôi chưa biết như thế nào, để còn xem đã
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-học
+@Lĩnh vực: toán & tin
+-học (thuộc)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-học
+@Lĩnh vực: toán & tin
+-học (thuộc)

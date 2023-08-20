@@ -1,3 +1,28 @@
-template
-	@template /'templit/ (template) /'templit/\n*  danh từ\n- (kỹ thuật) mẫu, dưỡng\n@Chuyên ngành kỹ thuật\n-bạc dẫn\n-cái đục\n-calip\n-cỡ\n-cữ\n-đá tảng\n-đế cột\n-đệm\n-dưỡng\n-khuân mẫu\n-khuôn\n-khuôn dạng\n-khuôn đúc\n-khuôn mẫu\n-mạng che\n-mạng lọc\n-mẫu\n-mẫu tạm thời\n-mô hình\n-ván khuôn (đóng tàu)\n@Lĩnh vực: cơ khí & công trình\n-tấm khuôn\n@Lĩnh vực: hóa học & vật liệu\n-tấm mẫu
-
+template	@template /'templit/ (template) /'templit/
+*  danh từ
+- (kỹ thuật) mẫu, dưỡng
+@Chuyên ngành kỹ thuật
+-bạc dẫn
+-cái đục
+-calip
+-cỡ
+-cữ
+-đá tảng
+-đế cột
+-đệm
+-dưỡng
+-khuân mẫu
+-khuôn
+-khuôn dạng
+-khuôn đúc
+-khuôn mẫu
+-mạng che
+-mạng lọc
+-mẫu
+-mẫu tạm thời
+-mô hình
+-ván khuôn (đóng tàu)
+@Lĩnh vực: cơ khí & công trình
+-tấm khuôn
+@Lĩnh vực: hóa học & vật liệu
+-tấm mẫu

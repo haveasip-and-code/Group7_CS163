@@ -1,3 +1,8 @@
-deductive
-	@deductive /di'dʌktiv/\n*  tính từ\n- suy diễn\n=deductive logic+ lôgic suy diễn\n=deductive method+ phương pháp suy diễn\n@Chuyên ngành kỹ thuật\n-suy diễn
-
+deductive	
+@deductive /di'dʌktiv/
+*  tính từ
+- suy diễn=deductive logic
++ lôgic suy diễn=deductive method
++ phương pháp suy diễn
+@Chuyên ngành kỹ thuật
+-suy diễn

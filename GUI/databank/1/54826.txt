@@ -1,3 +1,21 @@
-surfacing
-	@surfacing\n* danh từ\n- sự đẽo gọt (sửa sang) bề mặt\n- sự tạo lớp mặt; gia công mặt phẳng\n= hard surfacing+sự tạo bề mặt cứng\n@Chuyên ngành kỹ thuật\n-áo đường\n-lớp mặt đường\n-sự làm phẳng\n-sự mài phẳng\n@Lĩnh vực: giao thông & vận tải\n-chỉnh bề mặt đường\n@Lĩnh vực: xây dựng\n-ốp mặt\n-sự làm áo đường\n-sự làm lớp mặt\n@Lĩnh vực: cơ khí & công trình\n-sự bào bề mặt\n-sự tiện mặt đầu\n@Lĩnh vực: hóa học & vật liệu\n-sự phủ bề mặt
-
+surfacing	@surfacing
+* danh từ
+- sự đẽo gọt (sửa sang) bề mặt
+- sự tạo lớp mặt; gia công mặt phẳng
+= hard surfacing+sự tạo bề mặt cứng
+@Chuyên ngành kỹ thuật
+-áo đường
+-lớp mặt đường
+-sự làm phẳng
+-sự mài phẳng
+@Lĩnh vực: giao thông & vận tải
+-chỉnh bề mặt đường
+@Lĩnh vực: xây dựng
+-ốp mặt
+-sự làm áo đường
+-sự làm lớp mặt
+@Lĩnh vực: cơ khí & công trình
+-sự bào bề mặt
+-sự tiện mặt đầu
+@Lĩnh vực: hóa học & vật liệu
+-sự phủ bề mặt

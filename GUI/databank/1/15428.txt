@@ -1,3 +1,5 @@
-dimensionally
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-theo chiều\n-theo thứ nguyên
-
+dimensionally	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-theo chiều
+-theo thứ nguyên

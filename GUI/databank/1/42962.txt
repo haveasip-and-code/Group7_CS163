@@ -1,3 +1,2 @@
-prawner
-	@prawner\n- xem prawn
-
+prawner	@prawner
+- xem prawn

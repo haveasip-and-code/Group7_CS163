@@ -1,3 +1,16 @@
-phrase
-	@phrase /freiz/\n*  danh từ\n- nhóm từ\n- thành ngữ\n- cách nói\n=as the phrase goes+ theo cách nói thông thường\n=in simple phrase+ theo cách nói đơn giản\n- (số nhiều) những lời nói suông\n- (âm nhạc) tiết nhạc\n*  ngoại động từ\n- diễn đạt, nói, phát biểu (bằng lời)\n=thus he phrased it+ anh ta đã phát biểu như thế đấy\n- (âm nhạc) phân câu\n@Chuyên ngành kỹ thuật\n-mệnh đề\n-sự bố trí
-
+phrase	@phrase /freiz/
+*  danh từ
+- nhóm từ
+- thành ngữ
+- cách nói
+=as the phrase goes+ theo cách nói thông thường
+=in simple phrase+ theo cách nói đơn giản
+- (số nhiều) những lời nói suông
+- (âm nhạc) tiết nhạc
+*  ngoại động từ
+- diễn đạt, nói, phát biểu (bằng lời)
+=thus he phrased it+ anh ta đã phát biểu như thế đấy
+- (âm nhạc) phân câu
+@Chuyên ngành kỹ thuật
+-mệnh đề
+-sự bố trí

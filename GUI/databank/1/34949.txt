@@ -1,3 +1,5 @@
-minefield
-	@minefield\n* danh từ\n- bãi mìn\n@Chuyên ngành kinh tế\n-vùng mỏ
-
+minefield	@minefield
+* danh từ
+- bãi mìn
+@Chuyên ngành kinh tế
+-vùng mỏ

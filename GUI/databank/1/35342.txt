@@ -1,3 +1,8 @@
-modulated
-	@modulated\n- (vật lí)bị biến điệu\n@Chuyên ngành kỹ thuật\n-biến điệu\n@Lĩnh vực: toán & tin\n-bị biến điệu\n@Lĩnh vực: điện lạnh\n-bị điều biến
-
+modulated	@modulated
+- (vật lí)bị biến điệu
+@Chuyên ngành kỹ thuật
+-biến điệu
+@Lĩnh vực: toán & tin
+-bị biến điệu
+@Lĩnh vực: điện lạnh
+-bị điều biến

@@ -1,3 +1,4 @@
-codec
-	@Chuyên ngành kỹ thuật\n-bộ mã hóa-giải mã\n@Lĩnh vực: điện lạnh\n-cođec
-
+codec	@Chuyên ngành kỹ thuật
+-bộ mã hóa-giải mã
+@Lĩnh vực: điện lạnh
+-cođec

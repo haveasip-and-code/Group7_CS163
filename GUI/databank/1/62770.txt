@@ -1,3 +1,4 @@
-wheelwright
-	@wheelwright /'wi:lrait/\n*  danh từ\n- thợ chữa bánh xe\n- thợ đóng xe
-
+wheelwright	@wheelwright /'wi:lrait/
+*  danh từ
+- thợ chữa bánh xe
+- thợ đóng xe

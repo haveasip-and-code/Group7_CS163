@@ -1,3 +1,13 @@
-pacing
-	@Chuyên ngành kinh tế\n-sự thiết kế tiến độ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bước đi\n@Lĩnh vực: y học\n-dẫn tốc điều nhịp\n@Lĩnh vực: toán & tin\n-sự dẫn tốc độ (truyền)\n@Lĩnh vực: cơ khí & công trình\n-sự đo bằng nước\n@Lĩnh vực: xây dựng\n-sự đo bằng thước
-
+pacing	@Chuyên ngành kinh tế
+-sự thiết kế tiến độ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-bước đi
+@Lĩnh vực: y học
+-dẫn tốc điều nhịp
+@Lĩnh vực: toán & tin
+-sự dẫn tốc độ (truyền)
+@Lĩnh vực: cơ khí & công trình
+-sự đo bằng nước
+@Lĩnh vực: xây dựng
+-sự đo bằng thước

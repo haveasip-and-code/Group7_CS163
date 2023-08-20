@@ -1,3 +1,9 @@
-weft
-	@weft /weft/\n*  danh từ\n- sợi khổ, sợi ngang (trong tấm vi)\n- vi\n@Chuyên ngành kỹ thuật\n-sợi ngang\n-sợi ngang (lưỡi máy xeo)\n@Lĩnh vực: xây dựng\n-vải dệt sợi ngang
-
+weft	@weft /weft/
+*  danh từ
+- sợi khổ, sợi ngang (trong tấm vi)
+- vi
+@Chuyên ngành kỹ thuật
+-sợi ngang
+-sợi ngang (lưỡi máy xeo)
+@Lĩnh vực: xây dựng
+-vải dệt sợi ngang

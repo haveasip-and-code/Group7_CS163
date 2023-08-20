@@ -1,3 +1,5 @@
-sheeted
-	@Chuyên ngành kỹ thuật\n-có lớp\n-được ốp\n-được ốp bề mặt\n-thành lớp
-
+sheeted	@Chuyên ngành kỹ thuật
+-có lớp
+-được ốp
+-được ốp bề mặt
+-thành lớp

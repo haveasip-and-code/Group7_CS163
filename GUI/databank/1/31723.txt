@@ -1,3 +1,6 @@
-lea
-	@lea /li:/\n*  danh từ\n- (thơ ca) cánh đồng cỏ\n- khoảng đất hoang\n*  danh từ\n- (nghành dệt) li (đơn vị chiều dài từ 80 đến 300 iat tuỳ địa phương)
-
+lea	@lea /li:/
+*  danh từ
+- (thơ ca) cánh đồng cỏ
+- khoảng đất hoang
+*  danh từ
+- (nghành dệt) li (đơn vị chiều dài từ 80 đến 300 iat tuỳ địa phương)

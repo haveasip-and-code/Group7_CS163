@@ -1,3 +1,36 @@
-broadcast
-	@broadcast /'brɔ:dkɑ:st/\n*  tính từ\n- được tung ra khắp nơi; được gieo rắc (hạt giống...)\n- được truyền đi rộng rãi (tin tức...); qua đài phát thanh, được phát thanh\n=broadcast appeal+ lời kêu gọi qua đài phát thanh\n=today's broadcast program+ chương trình phát thanh hôm nay\n*  phó từ\n- tung ra khắp nơi\n*  danh từ+ (broadcasting)\n/'brɔ:dkɑ:stiɳ/\n- sự phát thanh\n- tin tức được phát thanh\n- buổi phát thanh\n*  động từ\n- tung ra khắp nơi; gieo rắc (hạt giống...)\n- truyền đi rộng rãi (tin tức...); phát thanh\n@Chuyên ngành kinh tế\n-buổi phát thanh\n-sự phát thanh\n-tin tức được phát thanh\n@Chuyên ngành kỹ thuật\n-phát đi\n-quảng bá\n-sự phát thanh\n-sự truyền thông\n@Lĩnh vực: toán & tin\n-phát quảng bá\n-phát rộng\n-phát thanh\n-sự phát rộng\n-truyền đại chúng\n-truyền quảng bá\n-truyền thanh\n@Lĩnh vực: xây dựng\n-quăng ném
-
+broadcast	
+@broadcast /'brɔ:dkɑ:st/
+*  tính từ
+- được tung ra khắp nơi; được gieo rắc (hạt giống...)
+- được truyền đi rộng rãi (tin tức...); qua đài phát thanh, được phát thanh=broadcast appeal
++ lời kêu gọi qua đài phát thanh=today's broadcast program
++ chương trình phát thanh hôm nay
+*  phó từ
+- tung ra khắp nơi
+*  danh từ
++ (broadcasting)/'brɔ:dkɑ:stiɳ/
+- sự phát thanh
+- tin tức được phát thanh
+- buổi phát thanh
+*  động từ
+- tung ra khắp nơi; gieo rắc (hạt giống...)
+- truyền đi rộng rãi (tin tức...); phát thanh
+@Chuyên ngành kinh tế
+-buổi phát thanh
+-sự phát thanh
+-tin tức được phát thanh
+@Chuyên ngành kỹ thuật
+-phát đi
+-quảng bá
+-sự phát thanh
+-sự truyền thông
+@Lĩnh vực: toán & tin
+-phát quảng bá
+-phát rộng
+-phát thanh
+-sự phát rộng
+-truyền đại chúng
+-truyền quảng bá
+-truyền thanh
+@Lĩnh vực: xây dựng
+-quăng ném

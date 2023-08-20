@@ -1,3 +1,36 @@
-cause
-	@cause /kɔ:z/\n*  danh từ\n- nguyên nhân, nguyên do, căn nguyên\n=cause and effect+ nguyên nhân và kết quả\n=the causes of war+ những nguyên nhân của chiến tranh\n- lẽ, cớ, lý do, động cơ\n=a cause for complaint+ lý do để than phiền\n=to show cause+ trình bày lý do\n- (pháp lý) việc kiện, việc tố tụng\n=to gain one's cause+ được kiện, thắng kiện\n- mục tiêu, mục đích\n=final cause+ mục đích cứu cánh\n- sự nghiệp, đại nghĩa, chính nghĩa\n=revolutionary cause+ sự nghiệp cách mạng\n=to fight for the just cause+ chiến đấu cho chính nghĩa\n!in the cause of\n- vì\n=in the cause of justice+ vì công lý\n!to make commom cause with someone\n- theo phe ai, về bè với ai\n*  ngoại động từ\n- gây ra, gây nên, sinh ra, làm ra, tạo ra\n- bảo, khiến, sai (ai làm việc gì)\n=to cause something to be done by somebody; to cause somebody to do something+ sai ai làm việc gì\n@Chuyên ngành kinh tế\n-lý do\n-nguyên do\n-nguyên nhân\n-việc kiện\n-việc tố tụng\n-vụ kiện\n@Chuyên ngành kỹ thuật\n-gây ra\n-lý do\n-nguyên nhân\n-nhân quả
-
+cause	@cause /kɔ:z/
+*  danh từ
+- nguyên nhân, nguyên do, căn nguyên
+=cause and effect+ nguyên nhân và kết quả
+=the causes of war+ những nguyên nhân của chiến tranh
+- lẽ, cớ, lý do, động cơ
+=a cause for complaint+ lý do để than phiền
+=to show cause+ trình bày lý do
+- (pháp lý) việc kiện, việc tố tụng
+=to gain one's cause+ được kiện, thắng kiện
+- mục tiêu, mục đích
+=final cause+ mục đích cứu cánh
+- sự nghiệp, đại nghĩa, chính nghĩa
+=revolutionary cause+ sự nghiệp cách mạng
+=to fight for the just cause+ chiến đấu cho chính nghĩa
+!in the cause of
+- vì
+=in the cause of justice+ vì công lý
+!to make commom cause with someone
+- theo phe ai, về bè với ai
+*  ngoại động từ
+- gây ra, gây nên, sinh ra, làm ra, tạo ra
+- bảo, khiến, sai (ai làm việc gì)
+=to cause something to be done by somebody; to cause somebody to do something+ sai ai làm việc gì
+@Chuyên ngành kinh tế
+-lý do
+-nguyên do
+-nguyên nhân
+-việc kiện
+-việc tố tụng
+-vụ kiện
+@Chuyên ngành kỹ thuật
+-gây ra
+-lý do
+-nguyên nhân
+-nhân quả

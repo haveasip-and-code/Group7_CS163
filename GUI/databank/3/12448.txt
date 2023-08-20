@@ -1,3 +1,6 @@
-crake
-	@crake /kreik/\n*  danh từ\n- (động vật học) gà nước\n- tiếng kêu của gà nước\n*  nội động từ\n- kêu (gà nước); kêu như gà nước
-
+crake	@crake /kreik/
+*  danh từ
+- (động vật học) gà nước
+- tiếng kêu của gà nước
+*  nội động từ
+- kêu (gà nước); kêu như gà nước

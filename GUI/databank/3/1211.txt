@@ -1,3 +1,4 @@
-aggressivity
-	@Chuyên ngành kỹ thuật\n-tính ăn mòn\n@Lĩnh vực: y học\n-tính xâm nhập, xâm chiếm
-
+aggressivity	@Chuyên ngành kỹ thuật
+-tính ăn mòn
+@Lĩnh vực: y học
+-tính xâm nhập, xâm chiếm

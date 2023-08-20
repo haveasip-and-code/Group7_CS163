@@ -1,3 +1,34 @@
-normal
-	@normal /'nɔ:məl/\n*  tính từ\n- thường, thông thường, bình thường\n=normal temperature+ độ nhiệt bình thường\n- tiêu chuẩn; ((toán học)) chuẩn tác\n=normal function+ hàm chuẩn tắc\n- (toán học) trực giao\n*  danh từ\n- tình trạng bình thường, mức bình thường\n=situation returns to normal+ tình hình trở lại bình thường\n- (toán học) pháp tuyến\n- (vật lý) lượng trung bình\n- (y học) thân nhiệt bình thường\n- (hoá học) dung dịch đương lượng\n@Chuyên ngành kỹ thuật\n-bình thường\n-chuẩn\n-chuẩn tắc\n-có qui cách\n-đường pháp tuyến\n-đường thẳng đứng\n-đường thẳng góc\n-đường trực giao\n-đường vuông góc\n-pháp tuyến\n-quy cách\n-thông thường\n-vuông góc\n@Lĩnh vực: toán & tin\n-chính tắc\n@Lĩnh vực: điện lạnh\n-chuẩn (tắc)\n@Lĩnh vực: cơ khí & công trình\n-có quy cách
-
+normal	@normal /'nɔ:məl/
+*  tính từ
+- thường, thông thường, bình thường
+=normal temperature+ độ nhiệt bình thường
+- tiêu chuẩn; ((toán học)) chuẩn tác
+=normal function+ hàm chuẩn tắc
+- (toán học) trực giao
+*  danh từ
+- tình trạng bình thường, mức bình thường
+=situation returns to normal+ tình hình trở lại bình thường
+- (toán học) pháp tuyến
+- (vật lý) lượng trung bình
+- (y học) thân nhiệt bình thường
+- (hoá học) dung dịch đương lượng
+@Chuyên ngành kỹ thuật
+-bình thường
+-chuẩn
+-chuẩn tắc
+-có qui cách
+-đường pháp tuyến
+-đường thẳng đứng
+-đường thẳng góc
+-đường trực giao
+-đường vuông góc
+-pháp tuyến
+-quy cách
+-thông thường
+-vuông góc
+@Lĩnh vực: toán & tin
+-chính tắc
+@Lĩnh vực: điện lạnh
+-chuẩn (tắc)
+@Lĩnh vực: cơ khí & công trình
+-có quy cách

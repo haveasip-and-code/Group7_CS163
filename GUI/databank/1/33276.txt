@@ -1,3 +1,13 @@
-magnify
-	@magnify /'mægnifai/\n*  ngoại động từ\n- làm to ra, phóng to, mở rộng\n=a mocroscope magnifies things+ kính hiển vi làm vật trông to ra\n- thổi phồng, tán dương quá đáng\n=to magnify dangers+ thổi phồng những sự nguy hiểm\n=to magnify a trifling incident+ thổi phồng một sự việc bình thường\n@Chuyên ngành kỹ thuật\n-khuếch đại\n-phóng đại\n-tăng\n@Lĩnh vực: y học\n-phóng đại, khuếch đại
-
+magnify	@magnify /'mægnifai/
+*  ngoại động từ
+- làm to ra, phóng to, mở rộng
+=a mocroscope magnifies things+ kính hiển vi làm vật trông to ra
+- thổi phồng, tán dương quá đáng
+=to magnify dangers+ thổi phồng những sự nguy hiểm
+=to magnify a trifling incident+ thổi phồng một sự việc bình thường
+@Chuyên ngành kỹ thuật
+-khuếch đại
+-phóng đại
+-tăng
+@Lĩnh vực: y học
+-phóng đại, khuếch đại

@@ -1,3 +1,8 @@
-terminating
-	@terminating\n- có kết thúc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có kết thúc\n@Lĩnh vực: điện lạnh\n-sự gánh cuối\n-sự kết thúc mạch
-
+terminating	@terminating
+- có kết thúc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có kết thúc
+@Lĩnh vực: điện lạnh
+-sự gánh cuối
+-sự kết thúc mạch

@@ -1,3 +1,29 @@
-director
-	@director /di'rektə/\n*  danh từ\n- giám đốc, người điều khiển, người chỉ huy\n=Board of directors+ ban giám đốc\n- (sử học) quan đốc chính (hồi cách mạng Pháp)\n- (tôn giáo) cha đạo\n- người đạo diễn (phim)\n- (toán học) đường chuẩn\n=director circle+ vòng chuẩn\n- máy ngắm (ở súng, để điều chỉnh tầm đạn...)\n@Chuyên ngành kinh tế\n-giám đốc\n-giám đốc (của một công ty)\n-người quản lý\n-trưởng phòng\n-ủy viên quản trị\n-ủy viên quản trị, giám đốc (của một công ty)\n@Chuyên ngành kỹ thuật\n-địa bàn\n-giám đốc\n-người điều khiển\n-người lãnh đạo\n-vòng ngắm chuẩn\n@Lĩnh vực: điện tử & viễn thông\n-ăng ten hướng xạ\n@Lĩnh vực: toán & tin\n-bộ định hướng\n@Lĩnh vực: y học\n-dụng cụ hướng dẫn, ống thông dẫn đường
-
+director	@director /di'rektə/
+*  danh từ
+- giám đốc, người điều khiển, người chỉ huy
+=Board of directors+ ban giám đốc
+- (sử học) quan đốc chính (hồi cách mạng Pháp)
+- (tôn giáo) cha đạo
+- người đạo diễn (phim)
+- (toán học) đường chuẩn
+=director circle+ vòng chuẩn
+- máy ngắm (ở súng, để điều chỉnh tầm đạn...)
+@Chuyên ngành kinh tế
+-giám đốc
+-giám đốc (của một công ty)
+-người quản lý
+-trưởng phòng
+-ủy viên quản trị
+-ủy viên quản trị, giám đốc (của một công ty)
+@Chuyên ngành kỹ thuật
+-địa bàn
+-giám đốc
+-người điều khiển
+-người lãnh đạo
+-vòng ngắm chuẩn
+@Lĩnh vực: điện tử & viễn thông
+-ăng ten hướng xạ
+@Lĩnh vực: toán & tin
+-bộ định hướng
+@Lĩnh vực: y học
+-dụng cụ hướng dẫn, ống thông dẫn đường

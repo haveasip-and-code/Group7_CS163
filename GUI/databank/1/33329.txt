@@ -1,3 +1,3 @@
-maintainability
-	@Chuyên ngành kỹ thuật\n-khả năng duy trì\n-khả năng phục hồi
-
+maintainability	@Chuyên ngành kỹ thuật
+-khả năng duy trì
+-khả năng phục hồi

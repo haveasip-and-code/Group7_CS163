@@ -1,3 +1,31 @@
-gloss
-	@gloss /glɔs/\n*  danh từ\n- nước bóng, nước láng\n=to take the gloss off+ làm mất nước bóng, làm xỉn (vải...)\n- (nghĩa bóng) vẻ hào nhoáng bề ngoài; bề ngoài giả dối\n*  ngoại động từ\n- làm bóng, làm láng (vật gì)\n- (nghĩa bóng) ((thường) + over) khoác cho một cái mã ngoài; khoác cho một vẻ ngoài giả dối; che đậy\n=to gloss over one's errors+ che đậy sai lầm\n*  danh từ\n- lời chú thích, lời chú giải (giữa hai hàng chữ hoặc ở ngoài lề)\n- lời phê bình, lời phê phán\n- sự xuyên tạc lời nói của người khác\n*  động từ\n- chú thích, chú giải\n- phê bình, phê phán\n@Chuyên ngành kỹ thuật\n-ánh\n-đánh bóng\n-độ bóng\n-nước bóng\n-nước láng\n-mặt bóng\n-sự bóng\n-vécni đánh bóng\n@Lĩnh vực: xây dựng\n-ánh bóng\n@Lĩnh vực: hóa học & vật liệu\n-sự hồ vải
-
+gloss	
+@gloss /glɔs/
+*  danh từ
+- nước bóng, nước láng=to take the gloss off
++ làm mất nước bóng, làm xỉn (vải...)
+- (nghĩa bóng) vẻ hào nhoáng bề ngoài; bề ngoài giả dối
+*  ngoại động từ
+- làm bóng, làm láng (vật gì)
+- (nghĩa bóng) ((thường) 
++ over) khoác cho một cái mã ngoài; khoác cho một vẻ ngoài giả dối; che đậy=to gloss over one's errors
++ che đậy sai lầm
+*  danh từ
+- lời chú thích, lời chú giải (giữa hai hàng chữ hoặc ở ngoài lề)
+- lời phê bình, lời phê phán
+- sự xuyên tạc lời nói của người khác
+*  động từ
+- chú thích, chú giải
+- phê bình, phê phán
+@Chuyên ngành kỹ thuật
+-ánh
+-đánh bóng
+-độ bóng
+-nước bóng
+-nước láng
+-mặt bóng
+-sự bóng
+-vécni đánh bóng
+@Lĩnh vực: xây dựng
+-ánh bóng
+@Lĩnh vực: hóa học & vật liệu
+-sự hồ vải

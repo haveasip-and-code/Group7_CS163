@@ -1,3 +1,25 @@
-legitimate
-	@legitimate /li'dʤitimit/\n*  tính từ\n- hợp pháp\n=legitimate child+ đứa con hợp pháp\n- chính đáng; chính thống\n=legitimate purpose+ mục đích chính đáng\n=legitimate king+ vua chính thống\n- có lý, hợp lôgic\n=legitimate argument+ lý lẽ có lý\n*  ngoại động từ\n- hợp pháp hoá\n- chính thống hoá\n- biện minh, bào chữa (một hành động...)\n@Chuyên ngành kỹ thuật\n-hợp lý\n-làm hợp pháp\n-thừa nhận được\n@Lĩnh vực: điện lạnh\n-hợp quy luật\n@Chuyên ngành kỹ thuật\n-hợp lý\n-làm hợp pháp\n-thừa nhận được\n@Lĩnh vực: điện lạnh\n-hợp quy luật
-
+legitimate	@legitimate /li'dʤitimit/
+*  tính từ
+- hợp pháp
+=legitimate child+ đứa con hợp pháp
+- chính đáng; chính thống
+=legitimate purpose+ mục đích chính đáng
+=legitimate king+ vua chính thống
+- có lý, hợp lôgic
+=legitimate argument+ lý lẽ có lý
+*  ngoại động từ
+- hợp pháp hoá
+- chính thống hoá
+- biện minh, bào chữa (một hành động...)
+@Chuyên ngành kỹ thuật
+-hợp lý
+-làm hợp pháp
+-thừa nhận được
+@Lĩnh vực: điện lạnh
+-hợp quy luật
+@Chuyên ngành kỹ thuật
+-hợp lý
+-làm hợp pháp
+-thừa nhận được
+@Lĩnh vực: điện lạnh
+-hợp quy luật

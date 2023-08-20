@@ -1,3 +1,23 @@
-analysis
-	@analysis /ə'næləsis/\n*  danh từ,  số nhiều analyses\n- sự phân tích\n- (vật lý),  (hoá học) phép phân tích\n=qualitative analysis+ phép phân tích định tính\n=qualitative analysis+ phép phân tích định lượng\n- (toán học) giải tích\n=in the last analysis+ phân tích cho đến cùng; rút cục, cuối cùng\n=under analysis+ được đem phân tích\n@Chuyên ngành kinh tế\n-bản hay bảng giải trình\n-sự phân tích\n@Chuyên ngành kỹ thuật\n-giải thích\n-giải tích\n-phân tích\n-phép phân tích\n-sự phân tích\n-sự tính toán\n@Lĩnh vực: xây dựng\n-phép tính toán\n-sự hạch toán
-
+analysis	
+@analysis /ə'næləsis/
+*  danh từ,  số nhiều analyses
+- sự phân tích
+- (vật lý),  (hoá học) phép phân tích=qualitative analysis
++ phép phân tích định tính=qualitative analysis
++ phép phân tích định lượng
+- (toán học) giải tích=in the last analysis
++ phân tích cho đến cùng; rút cục, cuối cùng=under analysis
++ được đem phân tích
+@Chuyên ngành kinh tế
+-bản hay bảng giải trình
+-sự phân tích
+@Chuyên ngành kỹ thuật
+-giải thích
+-giải tích
+-phân tích
+-phép phân tích
+-sự phân tích
+-sự tính toán
+@Lĩnh vực: xây dựng
+-phép tính toán
+-sự hạch toán

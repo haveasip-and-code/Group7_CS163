@@ -1,3 +1,14 @@
-starting
-	@starting /'stɑ:tliɳ/\n*  danh từ\n- sự giật mình\n- sự bắt đầu, sự khởi công, sự khởi hành\n@Chuyên ngành kỹ thuật\n-khởi động\n-sự bắt đầu\n-sự khởi động\n-sự mở máy\n-sự xuất phát\n@Lĩnh vực: điện\n-cách khởi động\n@Lĩnh vực: toán & tin\n-sự khởi đầu
-
+starting	@starting /'stɑ:tliɳ/
+*  danh từ
+- sự giật mình
+- sự bắt đầu, sự khởi công, sự khởi hành
+@Chuyên ngành kỹ thuật
+-khởi động
+-sự bắt đầu
+-sự khởi động
+-sự mở máy
+-sự xuất phát
+@Lĩnh vực: điện
+-cách khởi động
+@Lĩnh vực: toán & tin
+-sự khởi đầu

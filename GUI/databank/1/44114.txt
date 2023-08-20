@@ -1,3 +1,5 @@
-proponent
-	@proponent /proponent/\n*  tính từ\n- đề nghị, đề xuất, đề xướng\n*  danh từ\n- người đề nghị, người đề xuất, người đề xướng (một kiến nghị...)
-
+proponent	@proponent /proponent/
+*  tính từ
+- đề nghị, đề xuất, đề xướng
+*  danh từ
+- người đề nghị, người đề xuất, người đề xướng (một kiến nghị...)

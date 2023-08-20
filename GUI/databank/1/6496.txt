@@ -1,3 +1,14 @@
-bower
-	@bower /'bauə/\n*  danh từ\n- lùm cây, nhà nghỉ mát trong kùm cây\n- (thơ ca) nhà ở\n- (thơ ca) buồng the, phòng khuê\n*  danh từ\n- (hàng hải) neo đằng mũi (tàu) ((cũng) bower anchor)\n=best bower+ neo ở đằng mũi (bên phải)\n=small bower+ neo ở đằng mũi (bên trái)\n- dây cáp buộc neo đằng mũi ((cũng) bower cable)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà nông thôn
-
+bower	
+@bower /'bauə/
+*  danh từ
+- lùm cây, nhà nghỉ mát trong kùm cây
+- (thơ ca) nhà ở
+- (thơ ca) buồng the, phòng khuê
+*  danh từ
+- (hàng hải) neo đằng mũi (tàu) ((cũng) bower anchor)=best bower
++ neo ở đằng mũi (bên phải)=small bower
++ neo ở đằng mũi (bên trái)
+- dây cáp buộc neo đằng mũi ((cũng) bower cable)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà nông thôn

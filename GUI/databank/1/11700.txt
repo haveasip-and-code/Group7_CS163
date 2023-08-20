@@ -1,3 +1,14 @@
-convergence
-	@convergence /kən'və:dʤəns/\n*  danh từ (vật lý); (toán học)\n- sự hội tụ\n- độ hội tụ\n@Chuyên ngành kinh tế\n-đồng quy\n-hội tụ\n@Chuyên ngành kỹ thuật\n-hội tụ\n-sự đồng quy\n-sự hội tụ\n@Lĩnh vực: xây dựng\n-tính tập hợp
-
+convergence	
+@convergence /kən'və:dʤəns/
+*  danh từ (vật lý); (toán học)
+- sự hội tụ
+- độ hội tụ
+@Chuyên ngành kinh tế
+-đồng quy
+-hội tụ
+@Chuyên ngành kỹ thuật
+-hội tụ
+-sự đồng quy
+-sự hội tụ
+@Lĩnh vực: xây dựng
+-tính tập hợp

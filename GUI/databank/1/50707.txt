@@ -1,3 +1,16 @@
-silent
-	@silent /'sailənt/\n*  tính từ\n- không nói, ít nói, làm thinh\n=the report is silent on that point+ bản báo cáo không nói gì về điểm đó\n=a silent man+ người ít nói\n=to keep silent+ cứ làm thinh\n- yên lặng, yên tĩnh, tĩnh mịch, thanh vắng\n=silent night+ đêm thanh vắng\n- câm, không nói\n=silentletter+ chữ câm\n=silent film+ phim câm\n@Chuyên ngành kỹ thuật\n-êm\n-không ồn\n@Lĩnh vực: điện lạnh\n-im (lặng)
-
+silent	@silent /'sailənt/
+*  tính từ
+- không nói, ít nói, làm thinh
+=the report is silent on that point+ bản báo cáo không nói gì về điểm đó
+=a silent man+ người ít nói
+=to keep silent+ cứ làm thinh
+- yên lặng, yên tĩnh, tĩnh mịch, thanh vắng
+=silent night+ đêm thanh vắng
+- câm, không nói
+=silentletter+ chữ câm
+=silent film+ phim câm
+@Chuyên ngành kỹ thuật
+-êm
+-không ồn
+@Lĩnh vực: điện lạnh
+-im (lặng)

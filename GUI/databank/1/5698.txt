@@ -1,3 +1,8 @@
-bister
-	@Chuyên ngành kỹ thuật\n-bọt không khí\n@Lĩnh vực: hóa học & vật liệu\n-bồ hóng cây dẻ\n@Lĩnh vực: xây dựng\n-rỗ bề mặt\n-rỗ mặt ngoài
-
+bister	
+@Chuyên ngành kỹ thuật
+-bọt không khí
+@Lĩnh vực: hóa học & vật liệu
+-bồ hóng cây dẻ
+@Lĩnh vực: xây dựng
+-rỗ bề mặt
+-rỗ mặt ngoài

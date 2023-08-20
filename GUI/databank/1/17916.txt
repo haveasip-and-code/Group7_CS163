@@ -1,3 +1,11 @@
-embossing
-	@Chuyên ngành kỹ thuật\n-sự chạm nổi\n-sự dập nổi\n-sự in nổi\n-sự làm nổi\n@Chuyên ngành kỹ thuật\n-sự chạm nổi\n-sự dập nổi\n-sự in nổi\n-sự làm nổi
-
+embossing	
+@Chuyên ngành kỹ thuật
+-sự chạm nổi
+-sự dập nổi
+-sự in nổi
+-sự làm nổi
+@Chuyên ngành kỹ thuật
+-sự chạm nổi
+-sự dập nổi
+-sự in nổi
+-sự làm nổi

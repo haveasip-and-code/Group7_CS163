@@ -1,3 +1,4 @@
-tress
-	@tress /tres/\n*  danh từ\n- bím tóc\n- bộc tóc (đàn bà)
-
+tress	@tress /tres/
+*  danh từ
+- bím tóc
+- bộc tóc (đàn bà)

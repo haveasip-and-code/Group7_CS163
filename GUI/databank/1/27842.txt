@@ -1,3 +1,5 @@
-income
-	@income\n- (toán kinh tế) thu nhập\n- annual i. thu nhập hàng năm\n- national i. thu nhập quốc dân
-
+income	
+@income
+- (toán kinh tế) thu nhập
+- annual i. thu nhập hàng năm
+- national i. thu nhập quốc dân

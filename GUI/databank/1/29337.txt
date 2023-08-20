@@ -1,3 +1,14 @@
-interleave
-	@interleave /,intə'li:v/\n*  ngoại động từ\n- chen (tờ chen) vào sách\n@Chuyên ngành kỹ thuật\n-đan xen\n-kẽ\n-lồng\n-xen kẽ\n@Lĩnh vực: toán & tin\n-ken\n-xen\n-xen vào giữa\n-xếp chen nhau
-
+interleave	
+@interleave /,intə'li:v/
+*  ngoại động từ
+- chen (tờ chen) vào sách
+@Chuyên ngành kỹ thuật
+-đan xen
+-kẽ
+-lồng
+-xen kẽ
+@Lĩnh vực: toán & tin
+-ken
+-xen
+-xen vào giữa
+-xếp chen nhau

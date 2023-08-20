@@ -1,3 +1,110 @@
-let
-	@let /let/\n*  danh từ\n- (từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở\n=without let or hindrance+ (pháp lý) không có gì cản trở, hoàn toàn tự do\n*  ngoại động từ\n- (từ cổ,nghĩa cổ) ngăn cản, cản trở\n*  ngoại động từ let\n- để cho, cho phép\n=I let him try once more+ tôi để cho nó thử một lần nữa\n- cho thuê\n=house to let+ nhà cho thuê\n*  nội động từ\n- để cho thuê\n!to let by\n- để cho đi qua\n!to let down\n- hạ thấp xuống, buông thõng, bỏ rơi\n=she lets down her hair+ cô ta bỏ xoã tóc\n!to let in\n- cho vào, đưa vào\n- (từ lóng) lừa, bịp, đánh lừa\n!to let into\n- để cho vào\n=to let someone into some place+ cho ai vào nơi nào\n- cho biết\n=to let someone into the secret+ để cho ai hiểu biết điều bí mật\n!to let off\n- tha, không trừng phạt; phạt nhẹ; tha thứ\n- bắn ra\n=to let off a gun+ nổ súng\n=to let off an arrow+ bắn một mũi tên\n- để chảy mất, để bay mất (hơi...)\n!to let on\n- (từ lóng) mách lẻo, để lộ bí mật\n- (từ Mỹ,nghĩa Mỹ) giả vờ, làm ra vẻ\n!to let out\n- để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài\n=to let the water out of the bath-tub+ để cho nước ở bồn tắm chảy ra\n- tiết lộ, để cho biết\n=to let out a secret+ tiết lộ điều bí mật\n- nới rộng, làm cho rộng ra\n- cho thuê rộng rãi\n!to let out at\n- đánh đấm dữ, xỉ vả và chửi tục tằn\n!to let up\n- (thông tục) dịu đi, bớt đi, yếu đi\n- (từ Mỹ,nghĩa Mỹ) ngừng lại\n!to let alone\n- không nói đến, bỏ mặc, không dính vào, không đụng chạm đến\n!to let somebody alone to do something\n- giao phó cho ai làm việc gì một mình\n!to let be\n- bỏ mặc, để mặc như vậy không dính vào\n=let me be+ kệ tôi, để mặc tôi\n!to let blood\n- để cho máu chảy, trích máu; cắt tiết\n!let bygones be bygones\n- (xem) bygone\n!to let the cat out of the bag\n- để lộ bí mật\n!to let somebody down gently (easity)\n- khoan thứ với một người nào; không xỉ vả làm nhục ai\n!to let fall\n- bỏ xuống, buông xuống, ném xuống\n- nói buông, nói vô tình, nói thiếu trách nhiệm\n=to let fall a remark on someone+ buông ra một lời nhận xét về ai\n- (toán học) kẻ (một đường thẳng góc) xuống (một cạnh)\n!to let fly\n- bắn (súng, tên lửa...)\n- ném, văng ra, tung ra\n=to let fly a torrent of abuse+ văng ra những tràng chửi rủa\n!to let go\n- buông ra, thả ra, bỏ lỏng ra, không nghĩ đến nữa\n!to let oneself go\n- không tự kìm được để cho tình cảm lôi cuốn đi\n!to let somebody know\n- bảo cho ai biết, báo cho ai biết\n!to let loose\n- (xem) loose\n!to let loose the dogs of war\n- tung ra tất cả các lực lượng tàn phá của chiến tranh\n!to let pass\n- bỏ qua, không để ý\n!let sleeping dogs lie\n- (xem) dog\n!to let slip\n- để cho trốn thoát, bỏ lỡ, để mất\n=to let slip an opportunity+ bỏ lỡ mất nột cơ hội\n!to lets one's tongue run away with one\n- nói vong mạng, nói không suy nghĩ\n*  trợ động từ lời mệnh lệnh\n- hây, để, phải\n=let me see+ để tôi xem\n=let it be done at onece+ phải làm xong ngay việc này\n=let us go to the cinema+ chúng ta hây đi xi nê\n@Chuyên ngành kinh tế\n-cho thuê\n-để cho thuê\n-hợp đồng cho thuê\n-nhượng\n-tài sản cho thuê\n-thời hạn cho thuê\n@Chuyên ngành kỹ thuật\n-cho phép\n-khởi động\n-mở máy\n@Chuyên ngành kỹ thuật\n-cho phép\n-khởi động\n-mở máy
-
+let	@let /let/
+*  danh từ
+- (từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở
+=without let or hindrance+ (pháp lý) không có gì cản trở, hoàn toàn tự do
+*  ngoại động từ
+- (từ cổ,nghĩa cổ) ngăn cản, cản trở
+*  ngoại động từ let
+- để cho, cho phép
+=I let him try once more+ tôi để cho nó thử một lần nữa
+- cho thuê
+=house to let+ nhà cho thuê
+*  nội động từ
+- để cho thuê
+!to let by
+- để cho đi qua
+!to let down
+- hạ thấp xuống, buông thõng, bỏ rơi
+=she lets down her hair+ cô ta bỏ xoã tóc
+!to let in
+- cho vào, đưa vào
+- (từ lóng) lừa, bịp, đánh lừa
+!to let into
+- để cho vào
+=to let someone into some place+ cho ai vào nơi nào
+- cho biết
+=to let someone into the secret+ để cho ai hiểu biết điều bí mật
+!to let off
+- tha, không trừng phạt; phạt nhẹ; tha thứ
+- bắn ra
+=to let off a gun+ nổ súng
+=to let off an arrow+ bắn một mũi tên
+- để chảy mất, để bay mất (hơi...)
+!to let on
+- (từ lóng) mách lẻo, để lộ bí mật
+- (từ Mỹ,nghĩa Mỹ) giả vờ, làm ra vẻ
+!to let out
+- để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài
+=to let the water out of the bath-tub+ để cho nước ở bồn tắm chảy ra
+- tiết lộ, để cho biết
+=to let out a secret+ tiết lộ điều bí mật
+- nới rộng, làm cho rộng ra
+- cho thuê rộng rãi
+!to let out at
+- đánh đấm dữ, xỉ vả và chửi tục tằn
+!to let up
+- (thông tục) dịu đi, bớt đi, yếu đi
+- (từ Mỹ,nghĩa Mỹ) ngừng lại
+!to let alone
+- không nói đến, bỏ mặc, không dính vào, không đụng chạm đến
+!to let somebody alone to do something
+- giao phó cho ai làm việc gì một mình
+!to let be
+- bỏ mặc, để mặc như vậy không dính vào
+=let me be+ kệ tôi, để mặc tôi
+!to let blood
+- để cho máu chảy, trích máu; cắt tiết
+!let bygones be bygones
+- (xem) bygone
+!to let the cat out of the bag
+- để lộ bí mật
+!to let somebody down gently (easity)
+- khoan thứ với một người nào; không xỉ vả làm nhục ai
+!to let fall
+- bỏ xuống, buông xuống, ném xuống
+- nói buông, nói vô tình, nói thiếu trách nhiệm
+=to let fall a remark on someone+ buông ra một lời nhận xét về ai
+- (toán học) kẻ (một đường thẳng góc) xuống (một cạnh)
+!to let fly
+- bắn (súng, tên lửa...)
+- ném, văng ra, tung ra
+=to let fly a torrent of abuse+ văng ra những tràng chửi rủa
+!to let go
+- buông ra, thả ra, bỏ lỏng ra, không nghĩ đến nữa
+!to let oneself go
+- không tự kìm được để cho tình cảm lôi cuốn đi
+!to let somebody know
+- bảo cho ai biết, báo cho ai biết
+!to let loose
+- (xem) loose
+!to let loose the dogs of war
+- tung ra tất cả các lực lượng tàn phá của chiến tranh
+!to let pass
+- bỏ qua, không để ý
+!let sleeping dogs lie
+- (xem) dog
+!to let slip
+- để cho trốn thoát, bỏ lỡ, để mất
+=to let slip an opportunity+ bỏ lỡ mất nột cơ hội
+!to lets one's tongue run away with one
+- nói vong mạng, nói không suy nghĩ
+*  trợ động từ lời mệnh lệnh
+- hây, để, phải
+=let me see+ để tôi xem
+=let it be done at onece+ phải làm xong ngay việc này
+=let us go to the cinema+ chúng ta hây đi xi nê
+@Chuyên ngành kinh tế
+-cho thuê
+-để cho thuê
+-hợp đồng cho thuê
+-nhượng
+-tài sản cho thuê
+-thời hạn cho thuê
+@Chuyên ngành kỹ thuật
+-cho phép
+-khởi động
+-mở máy
+@Chuyên ngành kỹ thuật
+-cho phép
+-khởi động
+-mở máy

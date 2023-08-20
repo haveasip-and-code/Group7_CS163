@@ -1,3 +1,21 @@
-sealer
-	@sealer /'si:lə/\n*  danh từ\n- người áp triện, người đóng dấu\n- người săn chó biển; tàu săn chó biển\n@Chuyên ngành kinh tế\n-máy bao gói\n-máy cuộn\n-máy dán hộp bằng giấy\n-máy lăn\n-tàu săn thú biển\n@Chuyên ngành kỹ thuật\n-chất bít kín\n-chất cách nhiệt\n@Lĩnh vực: hóa học & vật liệu\n-chất hàn\n-vòng kẹp bịt kín\n@Lĩnh vực: điện lạnh\n-chất làm kín\n-chất làm kín (cách nhiệt)\n@Lĩnh vực: xây dựng\n-sơn bịt lỗ hổng
-
+sealer	@sealer /'si:lə/
+*  danh từ
+- người áp triện, người đóng dấu
+- người săn chó biển; tàu săn chó biển
+@Chuyên ngành kinh tế
+-máy bao gói
+-máy cuộn
+-máy dán hộp bằng giấy
+-máy lăn
+-tàu săn thú biển
+@Chuyên ngành kỹ thuật
+-chất bít kín
+-chất cách nhiệt
+@Lĩnh vực: hóa học & vật liệu
+-chất hàn
+-vòng kẹp bịt kín
+@Lĩnh vực: điện lạnh
+-chất làm kín
+-chất làm kín (cách nhiệt)
+@Lĩnh vực: xây dựng
+-sơn bịt lỗ hổng

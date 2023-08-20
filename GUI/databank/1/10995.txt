@@ -1,3 +1,36 @@
-conduct
-	@conduct /'kɔndəkt/\n*  danh từ\n- hạnh kiểm, tư cách, đạo đức, cách cư xử\n=good conduct+ hạnh kiểm tốt\n=bad conduct+ hạnh kiểm xấu\n- sự chỉ đạo, sự điều khiển, sự hướng dẫn; sự quản lý\n- (nghệ thuật) cách sắp đặt, cách bố cục (vở kịch, bài thơ...)\n!regimental (company) conduct sheet\n- (quân sự) giấy ghi khuyết điểm và kỷ luật của người lính\n*  động từ\n- dẫn tới (đường đi)\n- chỉ huy, chỉ đạo, điều khiển, hướng dẫn; quản, quản lý, trông nom\n=to conduct an army+ chỉ huy một đạo quân\n=to conduct an orchestra+ điều khiển một dàn nhạc\n=to conduct an affair+ quản lý một công việc\n=to conduct oneself+ cư xử, ăn ở\n=to conduct onself well+ cư xử tốt\n- (vật lý) dẫn\n=to conduct hear+ dẫn nhiệt\n@Chuyên ngành kỹ thuật\n-dẫn\n-dẫn điện\n-dây dẫn\n-điều khiển\n-kênh\n-mang\n-máng\n-ống thải nước\n@Lĩnh vực: điện\n-chất dẫn điện\n@Lĩnh vực: toán & tin\n-chỉ đạo\n-điều khiển chỉ đạo\n-dùng làm vật dẫn\n@Lĩnh vực: xây dựng\n-ống dây điện
-
+conduct	
+@conduct /'kɔndəkt/
+*  danh từ
+- hạnh kiểm, tư cách, đạo đức, cách cư xử=good conduct
++ hạnh kiểm tốt=bad conduct
++ hạnh kiểm xấu
+- sự chỉ đạo, sự điều khiển, sự hướng dẫn; sự quản lý
+- (nghệ thuật) cách sắp đặt, cách bố cục (vở kịch, bài thơ...)!regimental (company) conduct sheet
+- (quân sự) giấy ghi khuyết điểm và kỷ luật của người lính
+*  động từ
+- dẫn tới (đường đi)
+- chỉ huy, chỉ đạo, điều khiển, hướng dẫn; quản, quản lý, trông nom=to conduct an army
++ chỉ huy một đạo quân=to conduct an orchestra
++ điều khiển một dàn nhạc=to conduct an affair
++ quản lý một công việc=to conduct oneself
++ cư xử, ăn ở=to conduct onself well
++ cư xử tốt
+- (vật lý) dẫn=to conduct hear
++ dẫn nhiệt
+@Chuyên ngành kỹ thuật
+-dẫn
+-dẫn điện
+-dây dẫn
+-điều khiển
+-kênh
+-mang
+-máng
+-ống thải nước
+@Lĩnh vực: điện
+-chất dẫn điện
+@Lĩnh vực: toán & tin
+-chỉ đạo
+-điều khiển chỉ đạo
+-dùng làm vật dẫn
+@Lĩnh vực: xây dựng
+-ống dây điện

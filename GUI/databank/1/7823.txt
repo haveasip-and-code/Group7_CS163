@@ -1,3 +1,13 @@
-capability
-	@capability /,keipə'biliti/\n*  danh từ\n- khả năng, năng lực\n- (số nhiều) năng lực tiềm tàng\n=to have capabilities+ có nhiều năng lực tiềm tàng\n@Chuyên ngành kỹ thuật\n-điện dung\n-dung lượng\n-dung môi\n-khả năng\n-năng lực\n-tiềm lực
-
+capability	
+@capability /,keipə'biliti/
+*  danh từ
+- khả năng, năng lực
+- (số nhiều) năng lực tiềm tàng=to have capabilities
++ có nhiều năng lực tiềm tàng
+@Chuyên ngành kỹ thuật
+-điện dung
+-dung lượng
+-dung môi
+-khả năng
+-năng lực
+-tiềm lực

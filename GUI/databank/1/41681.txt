@@ -1,3 +1,4 @@
-pipet
-	@Chuyên ngành kỹ thuật\n-ống hút\n@Lĩnh vực: đo lường & điều khiển\n-ống đo nhỏ giọt
-
+pipet	@Chuyên ngành kỹ thuật
+-ống hút
+@Lĩnh vực: đo lường & điều khiển
+-ống đo nhỏ giọt

@@ -1,3 +1,4 @@
-headnote
-	@headnote\n* danh từ\n- lời giải thích ở đầu trang
-
+headnote	
+@headnote
+* danh từ
+- lời giải thích ở đầu trang

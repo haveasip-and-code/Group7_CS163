@@ -1,3 +1,3 @@
-unbuild
-	@unbuild /'ʌn'bild/\n*  ngoại động từ\n- phá sạch, san phẳng
-
+unbuild	@unbuild /'ʌn'bild/
+*  ngoại động từ
+- phá sạch, san phẳng

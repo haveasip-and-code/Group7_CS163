@@ -1,3 +1,4 @@
-tombac
-	@Chuyên ngành kỹ thuật\n-đồng thau đỏ\n@Lĩnh vực: hóa học & vật liệu\n-đồng tombac
-
+tombac	@Chuyên ngành kỹ thuật
+-đồng thau đỏ
+@Lĩnh vực: hóa học & vật liệu
+-đồng tombac

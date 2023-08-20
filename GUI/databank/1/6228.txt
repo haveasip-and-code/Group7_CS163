@@ -1,3 +1,19 @@
-bonanza
-	@bonanza /bou'nænzə/\n*  danh từ\n- sự phát đạt, sự thịnh vượng, sự phồn vinh; sự may mắn; vận đỏ\n- (ngành mỏ) mạch mỏ phong phú\n- sản lượng cao, thu hoạch cao, năng suất cao\n*  tính từ\n- thịnh vượng, phồn vinh\n- có sản lượng cao, cho thu hoạch cao, có năng suất cao\n=bonanza year+ một năm thu hoạch cao, một năm được mùa\n@Chuyên ngành kinh tế\n-sản lượng cao (giếng dầu ...)\n-sự phát đạt\n-tăng lợi nhuận\n-vận may\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phần quặng giàu\n-trụ khoáng
-
+bonanza	
+@bonanza /bou'nænzə/
+*  danh từ
+- sự phát đạt, sự thịnh vượng, sự phồn vinh; sự may mắn; vận đỏ
+- (ngành mỏ) mạch mỏ phong phú
+- sản lượng cao, thu hoạch cao, năng suất cao
+*  tính từ
+- thịnh vượng, phồn vinh
+- có sản lượng cao, cho thu hoạch cao, có năng suất cao=bonanza year
++ một năm thu hoạch cao, một năm được mùa
+@Chuyên ngành kinh tế
+-sản lượng cao (giếng dầu ...)
+-sự phát đạt
+-tăng lợi nhuận
+-vận may
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phần quặng giàu
+-trụ khoáng

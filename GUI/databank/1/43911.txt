@@ -1,3 +1,14 @@
-programmer
-	@programmer\n* danh từ\n- người lập trình (trên máy tính)\n@Chuyên ngành kinh tế\n-người lập trình\n-thảo chương viên (máy tính)\n@Chuyên ngành kỹ thuật\n-lập trình viên\n-người lập chương trình\n-người lập trình\n@Lĩnh vực: toán & tin\n-người thảo chương\n-thảo chương viên\n-thiết bị lập trình
-
+programmer	@programmer
+* danh từ
+- người lập trình (trên máy tính)
+@Chuyên ngành kinh tế
+-người lập trình
+-thảo chương viên (máy tính)
+@Chuyên ngành kỹ thuật
+-lập trình viên
+-người lập chương trình
+-người lập trình
+@Lĩnh vực: toán & tin
+-người thảo chương
+-thảo chương viên
+-thiết bị lập trình

@@ -1,3 +1,41 @@
-examination
-	@examination /ig,zæmi'neiʃn/ (examen) /eg'zeimen/\n*  danh từ\n- sự khám xét kỹ, sự xem xét kỹ, sự thẩm tra, sự khảo sát, sự nghiên cứu\n- sự thi cử; kỳ thi\n=to go in for an examination+ đi thi\n=to pass one's examination+ thi đỗ\n=to fail in an examination+ thi trượt\n- (pháp lý) sự thẩm tra\n@Chuyên ngành kinh tế\n-kiểm tra\n-kiểm tra kế toán\n-sự kiểm tra\n-sự nghiên cứu\n-sự thẩm vấn\n-thẩm vấn\n-xem xét\n@Chuyên ngành kỹ thuật\n-kiểm tra\n-sự khảo sát\n-sự kiểm nghiệm\n-sự kiểm tra\n-sự nghiên cứu\n-sự xem xét\n-sự xét nghiệm\n@Lĩnh vực: hóa học & vật liệu\n-khám xét\n-thẩm vấn\n-thi cử\n@Chuyên ngành kỹ thuật\n-kiểm tra\n-sự khảo sát\n-sự kiểm nghiệm\n-sự kiểm tra\n-sự nghiên cứu\n-sự xem xét\n-sự xét nghiệm\n@Lĩnh vực: hóa học & vật liệu\n-khám xét\n-thẩm vấn\n-thi cử
-
+examination	
+@examination /ig,zæmi'neiʃn/ (examen) /eg'zeimen/
+*  danh từ
+- sự khám xét kỹ, sự xem xét kỹ, sự thẩm tra, sự khảo sát, sự nghiên cứu
+- sự thi cử; kỳ thi=to go in for an examination
++ đi thi=to pass one's examination
++ thi đỗ=to fail in an examination
++ thi trượt
+- (pháp lý) sự thẩm tra
+@Chuyên ngành kinh tế
+-kiểm tra
+-kiểm tra kế toán
+-sự kiểm tra
+-sự nghiên cứu
+-sự thẩm vấn
+-thẩm vấn
+-xem xét
+@Chuyên ngành kỹ thuật
+-kiểm tra
+-sự khảo sát
+-sự kiểm nghiệm
+-sự kiểm tra
+-sự nghiên cứu
+-sự xem xét
+-sự xét nghiệm
+@Lĩnh vực: hóa học & vật liệu
+-khám xét
+-thẩm vấn
+-thi cử
+@Chuyên ngành kỹ thuật
+-kiểm tra
+-sự khảo sát
+-sự kiểm nghiệm
+-sự kiểm tra
+-sự nghiên cứu
+-sự xem xét
+-sự xét nghiệm
+@Lĩnh vực: hóa học & vật liệu
+-khám xét
+-thẩm vấn
+-thi cử

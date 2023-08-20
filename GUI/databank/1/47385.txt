@@ -1,3 +1,12 @@
-retrofit
-	@retrofit\n* ngoại động từ\n- trang bị thêm những bộ phận mới (máy bay)\n@Chuyên ngành kinh tế\n-chỉnh bị lại\n@Chuyên ngành kỹ thuật\n-bổ sung\n-kiểm trang\n-sự bổ sung sau\n-thiết bị hỗ trợ\n@Lĩnh vực: điện\n-cải tiến (bằng cách mở rộng chức năng thiết bị)
-
+retrofit	@retrofit
+* ngoại động từ
+- trang bị thêm những bộ phận mới (máy bay)
+@Chuyên ngành kinh tế
+-chỉnh bị lại
+@Chuyên ngành kỹ thuật
+-bổ sung
+-kiểm trang
+-sự bổ sung sau
+-thiết bị hỗ trợ
+@Lĩnh vực: điện
+-cải tiến (bằng cách mở rộng chức năng thiết bị)

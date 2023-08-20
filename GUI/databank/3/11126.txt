@@ -1,3 +1,2 @@
-confutative
-	@confutative\n- xem confutation
-
+confutative	@confutative
+- xem confutation

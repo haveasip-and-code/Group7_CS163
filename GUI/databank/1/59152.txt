@@ -1,3 +1,2 @@
-underbidder
-	@underbidder\n- xem underbid
-
+underbidder	@underbidder
+- xem underbid

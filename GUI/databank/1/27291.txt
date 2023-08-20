@@ -1,3 +1,36 @@
-impact
-	@impact /'impækt/\n*  danh từ\n- sự va chạm, sự chạm mạnh; sức va chạm\n=head-on impact+ (vật lý) sự va chạm trực diện\n=back impact+ (vật lý) sự va chạm giật lùi\n- tác động, ảnh hưởng\n*  ngoại động từ\n- (+ in,  into) đóng chặt vào, lèn chặt vào, nêm chặt vào\n- va mạnh vào, chạm mạnh vào\n*  nội động từ\n- va mạnh, chạm mạnh\n- tác động mạnh ((nghĩa đen) & (nghĩa bóng))\n@Chuyên ngành kinh tế\n-ảnh hưởng\n-ảnh hưởng tác động\n-hiệu quả (của quảng cáo...)\n-sự đụng chạm\n-tác động\n-xung đột\n-xung kích\n@Chuyên ngành kỹ thuật\n-chấn động\n-lực va đập\n-lực xung\n-nén chặt\n-sự nén ép chặt\n-sự va chạm\n-sự va đập\n-sự xung kích\n-tác động\n-va\n-va chạm\n-va đập
-
+impact	
+@impact /'impækt/
+*  danh từ
+- sự va chạm, sự chạm mạnh; sức va chạm=head
+-on impact
++ (vật lý) sự va chạm trực diện=back impact
++ (vật lý) sự va chạm giật lùi
+- tác động, ảnh hưởng
+*  ngoại động từ
+- (
++ in,  into) đóng chặt vào, lèn chặt vào, nêm chặt vào
+- va mạnh vào, chạm mạnh vào
+*  nội động từ
+- va mạnh, chạm mạnh
+- tác động mạnh ((nghĩa đen) & (nghĩa bóng))
+@Chuyên ngành kinh tế
+-ảnh hưởng
+-ảnh hưởng tác động
+-hiệu quả (của quảng cáo...)
+-sự đụng chạm
+-tác động
+-xung đột
+-xung kích
+@Chuyên ngành kỹ thuật
+-chấn động
+-lực va đập
+-lực xung
+-nén chặt
+-sự nén ép chặt
+-sự va chạm
+-sự va đập
+-sự xung kích
+-tác động
+-va
+-va chạm
+-va đập

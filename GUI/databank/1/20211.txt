@@ -1,3 +1,48 @@
-fabric
-	@fabric /'fæbrik/\n*  danh từ\n- công trình xây dựng\n- giàn khung, kết cấu, cơ cấu ((nghĩa đen) & (nghĩa bóng))\n=the whole fabric of society+ toàn bộ cơ cấu xã hội\n=the fabric of arguments+ kết cấu của lý lẽ\n- vải ((thường) texile fabric)\n=silk and woollen fabrics+ hàng tơ lụa và len dạ\n- mặt, thớ (vải)\n@Chuyên ngành kỹ thuật\n-kết cấu\n-kết cấu giàn\n-khăn mặt\n-khung\n-lưới\n-quần áo\n-sườn\n-tấm vải\n-thành phẩm\n-vải\n-vải bố\n-vải dệt\n-vải gai\n-xây dựng\n@Lĩnh vực: dệt may\n-hàng dệt thoi\n@Lĩnh vực: xây dựng\n-vải thành phẩm\n@Chuyên ngành kỹ thuật\n-kết cấu\n-kết cấu giàn\n-khăn mặt\n-khung\n-lưới\n-quần áo\n-sườn\n-tấm vải\n-thành phẩm\n-vải\n-vải bố\n-vải dệt\n-vải gai\n-xây dựng\n@Lĩnh vực: dệt may\n-hàng dệt thoi\n@Lĩnh vực: xây dựng\n-vải thành phẩm
-
+fabric	
+@fabric /'fæbrik/
+*  danh từ
+- công trình xây dựng
+- giàn khung, kết cấu, cơ cấu ((nghĩa đen) & (nghĩa bóng))=the whole fabric of society
++ toàn bộ cơ cấu xã hội=the fabric of arguments
++ kết cấu của lý lẽ
+- vải ((thường) texile fabric)=silk and woollen fabrics
++ hàng tơ lụa và len dạ
+- mặt, thớ (vải)
+@Chuyên ngành kỹ thuật
+-kết cấu
+-kết cấu giàn
+-khăn mặt
+-khung
+-lưới
+-quần áo
+-sườn
+-tấm vải
+-thành phẩm
+-vải
+-vải bố
+-vải dệt
+-vải gai
+-xây dựng
+@Lĩnh vực: dệt may
+-hàng dệt thoi
+@Lĩnh vực: xây dựng
+-vải thành phẩm
+@Chuyên ngành kỹ thuật
+-kết cấu
+-kết cấu giàn
+-khăn mặt
+-khung
+-lưới
+-quần áo
+-sườn
+-tấm vải
+-thành phẩm
+-vải
+-vải bố
+-vải dệt
+-vải gai
+-xây dựng
+@Lĩnh vực: dệt may
+-hàng dệt thoi
+@Lĩnh vực: xây dựng
+-vải thành phẩm

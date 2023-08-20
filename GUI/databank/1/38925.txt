@@ -1,3 +1,2 @@
-oversale
-	@Chuyên ngành kinh tế\n-sự bán lố
-
+oversale	@Chuyên ngành kinh tế
+-sự bán lố

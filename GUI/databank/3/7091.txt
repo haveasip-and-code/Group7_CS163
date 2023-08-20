@@ -1,3 +1,2 @@
-bulldogger
-	@bulldogger\n- xem bulldog
-
+bulldogger	@bulldogger
+- xem bulldog

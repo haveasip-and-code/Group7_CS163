@@ -1,3 +1,7 @@
-blacksmithing
-	@blacksmithing\n- xem blacksmith\n@Chuyên ngành kỹ thuật\n-sự rèn tay\n@Lĩnh vực: cơ khí & công trình\n-công việc rèn
-
+blacksmithing	
+@blacksmithing
+- xem blacksmith
+@Chuyên ngành kỹ thuật
+-sự rèn tay
+@Lĩnh vực: cơ khí & công trình
+-công việc rèn

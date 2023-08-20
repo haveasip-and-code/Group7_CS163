@@ -1,3 +1,6 @@
-chemicals
-	@chemicals /'kemikəlz/\n*  danh từ số nhiều\n- hoá chất, chất hoá học\n@Chuyên ngành kỹ thuật\n-hóa chất
-
+chemicals	
+@chemicals /'kemikəlz/
+*  danh từ số nhiều
+- hoá chất, chất hoá học
+@Chuyên ngành kỹ thuật
+-hóa chất

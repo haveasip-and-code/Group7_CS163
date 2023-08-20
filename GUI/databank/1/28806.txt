@@ -1,3 +1,10 @@
-inquest
-	@inquest /'inkwest/\n*  danh từ\n- cuộc điều tra chính thức, cuộc thẩm tra chính thức (của toà án...)\n- cuộc điều tra một vụ chết bất thường ((cũng) coroner's inquest); ban điều tra một vụ chết bất thường\n!grand inquest of the nation\n- hạ nghị viện Anh\n!great (last) inquest\n- (tôn giáo) phán quyết cuối cùng (của Chúa)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-điều tra tử vong
-
+inquest	
+@inquest /'inkwest/
+*  danh từ
+- cuộc điều tra chính thức, cuộc thẩm tra chính thức (của toà án...)
+- cuộc điều tra một vụ chết bất thường ((cũng) coroner's inquest); ban điều tra một vụ chết bất thường!grand inquest of the nation
+- hạ nghị viện Anh!great (last) inquest
+- (tôn giáo) phán quyết cuối cùng (của Chúa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-điều tra tử vong

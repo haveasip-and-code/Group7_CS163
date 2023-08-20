@@ -1,3 +1,2 @@
-unmatched
-	@unmatched\n- không bằng, không xứng
-
+unmatched	@unmatched
+- không bằng, không xứng

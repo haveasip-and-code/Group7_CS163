@@ -1,3 +1,65 @@
-foot
-	@foot /fut/\n*  danh từ,  số nhiều feet\n- chân, bàn chân (người, thú...)\n- bước chân, cách đi\n=swift of foot+ có bước đi nhanh\n- (quân sự) bộ binh\n=horse, foot and artillery+ kỵ binh, bộ binh và pháo binh\n- chân (giường, ghế, tường, núi...); bệ phía dưới, cuối\n=at the foot of a page+ ở cuối trang\n- phút (đơn vị đo chiều dài Anh bằng 0, 3048 m)\n- âm tiết ((thơ ca))\n- (thực vật học) gốc cánh (hoa)\n- cặn bã ((thường) foot)\n- đường thô ((thường) foots)\n- (foots) (như) footlights\n!at someone's feet\n- ở dưới trướng ai; là đồ đệ của ai\n- đang cầu cạnh ai\n!to be (stand) on one's feet\n- đứng thẳng\n- lại khoẻ mạnh\n- có công ăn việc làm, tự lập\n!to carry someone off his feet\n- làm cho ai phấn khởi, gây cảm hứng cho ai\n!to fall on (upon) one's feet\n- (xem) fall\n!to find (know) the length of someone's feet\n- biết nhược điểm của ai, nắm được thóp của ai\n!to have the ball at one's feet\n- (xem) ball\n!to have feet of clay\n- chân đất sét dễ bị lật đổ, ở thế không vững\n!to have one food in the grave\n- gần đất xa trời\n!to have (put, set) one's foot on the neck of somebody\n- đè đầu cưỡi cổ ai\n!to keep one's feet\n- (xem) feet\n!to measure anothers foot by one's own last\n- suy bụng ta ra bụng người\n!to put one's foot down\n- (xem) put\n!to put one's foot in it\n- (xem) put\n!to put (set) someone back on his feet\n- phục hồi sức khoẻ cho ai; phục hồi địa vị cho ai\n!to set on foot\n- (xem) set\n!with foat at foot\n- đã đẻ (ngựa cái)\n![with one's] feet foremost\n- bị khiêng đi để chôn\n*  ngoại động từ\n- đặt chân lên\n- thay bàn chân cho; khâu bàn chân cho (bít tất)\n- (thông tục) thanh toán (hoá đơn)\n- (thông tục) cộng, cộng gộp\n*  nội động từ,  (từ Mỹ,nghĩa Mỹ)\n- đi bộ\n- nhảy\n!to foot it\n- (thông tục) nhảy, nhảy múa\n- đi bộ\n- chạy\n!to foot up\n- lên tới, tới mức, tổng cộng tới\n=the expenditure footed up to 3,000dd+ tiền nộp phí tổn lên tới 3 000 đồng\n@Chuyên ngành kinh tế\n-chân\n@Chuyên ngành kỹ thuật\n-căn nguyên\n-chân\n-cuối trang\n-đế\n-giá đỡ\n-khung gầm\n-rễ\n@Lĩnh vực: y học\n-bàn chân\n@Lĩnh vực: điện lạnh\n-bộ (0, 3048m)\n@Lĩnh vực: cơ khí & công trình\n-fút (30, 48cm)
-
+foot	
+@foot /fut/
+*  danh từ,  số nhiều feet
+- chân, bàn chân (người, thú...)
+- bước chân, cách đi=swift of foot
++ có bước đi nhanh
+- (quân sự) bộ binh=horse, foot and artillery
++ kỵ binh, bộ binh và pháo binh
+- chân (giường, ghế, tường, núi...); bệ phía dưới, cuối=at the foot of a page
++ ở cuối trang
+- phút (đơn vị đo chiều dài Anh bằng 0, 3048 m)
+- âm tiết ((thơ ca))
+- (thực vật học) gốc cánh (hoa)
+- cặn bã ((thường) foot)
+- đường thô ((thường) foots)
+- (foots) (như) footlights!at someone's feet
+- ở dưới trướng ai; là đồ đệ của ai
+- đang cầu cạnh ai!to be (stand) on one's feet
+- đứng thẳng
+- lại khoẻ mạnh
+- có công ăn việc làm, tự lập!to carry someone off his feet
+- làm cho ai phấn khởi, gây cảm hứng cho ai!to fall on (upon) one's feet
+- (xem) fall!to find (know) the length of someone's feet
+- biết nhược điểm của ai, nắm được thóp của ai!to have the ball at one's feet
+- (xem) ball!to have feet of clay
+- chân đất sét dễ bị lật đổ, ở thế không vững!to have one food in the grave
+- gần đất xa trời!to have (put, set) one's foot on the neck of somebody
+- đè đầu cưỡi cổ ai!to keep one's feet
+- (xem) feet!to measure anothers foot by one's own last
+- suy bụng ta ra bụng người!to put one's foot down
+- (xem) put!to put one's foot in it
+- (xem) put!to put (set) someone back on his feet
+- phục hồi sức khoẻ cho ai; phục hồi địa vị cho ai!to set on foot
+- (xem) set!with foat at foot
+- đã đẻ (ngựa cái)![with one's] feet foremost
+- bị khiêng đi để chôn
+*  ngoại động từ
+- đặt chân lên
+- thay bàn chân cho; khâu bàn chân cho (bít tất)
+- (thông tục) thanh toán (hoá đơn)
+- (thông tục) cộng, cộng gộp
+*  nội động từ,  (từ Mỹ,nghĩa Mỹ)
+- đi bộ
+- nhảy!to foot it
+- (thông tục) nhảy, nhảy múa
+- đi bộ
+- chạy!to foot up
+- lên tới, tới mức, tổng cộng tới=the expenditure footed up to 3,000dd
++ tiền nộp phí tổn lên tới 3 000 đồng
+@Chuyên ngành kinh tế
+-chân
+@Chuyên ngành kỹ thuật
+-căn nguyên
+-chân
+-cuối trang
+-đế
+-giá đỡ
+-khung gầm
+-rễ
+@Lĩnh vực: y học
+-bàn chân
+@Lĩnh vực: điện lạnh
+-bộ (0, 3048m)
+@Lĩnh vực: cơ khí & công trình
+-fút (30, 48cm)

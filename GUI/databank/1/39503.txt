@@ -1,3 +1,4 @@
-paperless
-	@paperless\n- không giấy tờ (paperless office: văn phòng không giấy)\n@Chuyên ngành kinh tế\n-không có giấy
-
+paperless	@paperless
+- không giấy tờ (paperless office: văn phòng không giấy)
+@Chuyên ngành kinh tế
+-không có giấy

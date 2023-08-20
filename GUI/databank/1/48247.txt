@@ -1,3 +1,51 @@
-runner
-	@runner /'rʌnə/\n*  danh từ\n- người tuỳ phái (ở ngân hàng)\n- đấu thủ chạy đua\n- người buôn lậu\n- đường rânh (để đẩy giường, ngăn kéo...)\n- (thực vật học) thân bò\n- dây cáp kéo đồ vật nặng (ở ròng rọc)\n- người phá vỡ vòng vây ((cũng) blockade runner)\n- (động vật học) gà nước\n- thớt trên (cối xay bột)\n- vòng trượt\n- (kỹ thuật) con lăn, con lăn di động\n- (từ Mỹ,nghĩa Mỹ) công nhân đầu máy xe lửa\n- (từ cổ,nghĩa cổ) cảnh sát, công an ((cũng) Bow-street runner)\n@Chuyên ngành kinh tế\n-mặt hàng bán chạy\n-người buôn lậu\n-người chào hàng\n-người đưa thư\n-người đưa tin\n-thớt trên (của cối xay bột) đường rãnh\n@Chuyên ngành kỹ thuật\n-bánh cánh đẩy (tuabin nước)\n-bánh dẫn\n-bánh xe dự phòng\n-con trượt\n-đường chạy\n-đường dẫn trượt\n-guốc trượt\n-máng tháo\n-ống xẻ\n-phễu nạp liệu\n-rãnh dẫn\n-rãnh ngang (đúc)\n-rãnh trượt\n-vành\n-vành trượt\n-vòng trượt\n@Lĩnh vực: cơ khí & công trình\n-bánh xe gió\n-người chạy máy\n@Lĩnh vực: xây dựng\n-con lăn bánh dẫn\n-hệ thống rót, đậu rót (đúc)\n-vòng (ổ bi)\n@Lĩnh vực: giao thông & vận tải\n-dây chuyền chất hàng\n@Lĩnh vực: hóa học & vật liệu\n-máng ra gang\n-máng ra thép
-
+runner	@runner /'rʌnə/
+*  danh từ
+- người tuỳ phái (ở ngân hàng)
+- đấu thủ chạy đua
+- người buôn lậu
+- đường rânh (để đẩy giường, ngăn kéo...)
+- (thực vật học) thân bò
+- dây cáp kéo đồ vật nặng (ở ròng rọc)
+- người phá vỡ vòng vây ((cũng) blockade runner)
+- (động vật học) gà nước
+- thớt trên (cối xay bột)
+- vòng trượt
+- (kỹ thuật) con lăn, con lăn di động
+- (từ Mỹ,nghĩa Mỹ) công nhân đầu máy xe lửa
+- (từ cổ,nghĩa cổ) cảnh sát, công an ((cũng) Bow-street runner)
+@Chuyên ngành kinh tế
+-mặt hàng bán chạy
+-người buôn lậu
+-người chào hàng
+-người đưa thư
+-người đưa tin
+-thớt trên (của cối xay bột) đường rãnh
+@Chuyên ngành kỹ thuật
+-bánh cánh đẩy (tuabin nước)
+-bánh dẫn
+-bánh xe dự phòng
+-con trượt
+-đường chạy
+-đường dẫn trượt
+-guốc trượt
+-máng tháo
+-ống xẻ
+-phễu nạp liệu
+-rãnh dẫn
+-rãnh ngang (đúc)
+-rãnh trượt
+-vành
+-vành trượt
+-vòng trượt
+@Lĩnh vực: cơ khí & công trình
+-bánh xe gió
+-người chạy máy
+@Lĩnh vực: xây dựng
+-con lăn bánh dẫn
+-hệ thống rót, đậu rót (đúc)
+-vòng (ổ bi)
+@Lĩnh vực: giao thông & vận tải
+-dây chuyền chất hàng
+@Lĩnh vực: hóa học & vật liệu
+-máng ra gang
+-máng ra thép

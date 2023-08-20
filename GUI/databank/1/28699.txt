@@ -1,3 +1,4 @@
-injectant
-	@injectant\n* danh từ\n- chất tiêm vào một cái gì
-
+injectant	
+@injectant
+* danh từ
+- chất tiêm vào một cái gì

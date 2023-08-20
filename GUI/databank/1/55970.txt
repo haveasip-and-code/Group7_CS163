@@ -1,3 +1,11 @@
-tendon
-	@tendon /'tendən/\n*  danh từ\n- (giải phẫu) gân\n@Chuyên ngành kinh tế\n-gân\n@Chuyên ngành kỹ thuật\n-cáp ứng suất trước\n-gân\n-thanh căng\n@Lĩnh vực: xây dựng\n-bó cốt thép (bê tông cốt thép ứng lực trước)
-
+tendon	@tendon /'tendən/
+*  danh từ
+- (giải phẫu) gân
+@Chuyên ngành kinh tế
+-gân
+@Chuyên ngành kỹ thuật
+-cáp ứng suất trước
+-gân
+-thanh căng
+@Lĩnh vực: xây dựng
+-bó cốt thép (bê tông cốt thép ứng lực trước)

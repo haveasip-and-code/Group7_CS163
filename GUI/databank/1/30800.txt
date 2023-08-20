@@ -1,3 +1,6 @@
-keg
-	@keg /keg/\n*  danh từ\n- thùng chứa (khoảng 40 lít)\n@Chuyên ngành kinh tế\n-thùng nhỏ
-
+keg	
+@keg /keg/
+*  danh từ
+- thùng chứa (khoảng 40 lít)
+@Chuyên ngành kinh tế
+-thùng nhỏ

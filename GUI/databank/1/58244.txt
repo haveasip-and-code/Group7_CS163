@@ -1,3 +1,4 @@
-turnoff
-	@turnoff\n* danh từ\n- con đường rẽ ra từ con đường chính\n- người hay vật làm người ta chán ngấy
-
+turnoff	@turnoff
+* danh từ
+- con đường rẽ ra từ con đường chính
+- người hay vật làm người ta chán ngấy

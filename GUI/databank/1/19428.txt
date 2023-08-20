@@ -1,3 +1,5 @@
-evict
-	@evict /i:'vikt/\n*  ngoại động từ\n- đuổi (ai) (khỏi nhà ở, đất đai...)\n- (pháp lý) lấy lại (tài sản... bằng con đường pháp lý)
-
+evict	
+@evict /i:'vikt/
+*  ngoại động từ
+- đuổi (ai) (khỏi nhà ở, đất đai...)
+- (pháp lý) lấy lại (tài sản... bằng con đường pháp lý)

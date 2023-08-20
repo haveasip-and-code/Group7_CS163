@@ -1,3 +1,8 @@
-truce
-	@truce /tru:s/\n*  danh từ\n- sự ngừng bắn\n=to ask for a truce+ yêu cầu ngừng bắn\n=truce breaker+ người vi phạm lệnh ngừng bắn\n- (nghĩa bóng) sự tạm ngừng, sự tạm nghỉ, sự tạm đình\n=let there be a truce to that+ hãy ngừng việc đó một thời gian\n=truce to jesting!+ thôi không đùa nữa!
-
+truce	@truce /tru:s/
+*  danh từ
+- sự ngừng bắn
+=to ask for a truce+ yêu cầu ngừng bắn
+=truce breaker+ người vi phạm lệnh ngừng bắn
+- (nghĩa bóng) sự tạm ngừng, sự tạm nghỉ, sự tạm đình
+=let there be a truce to that+ hãy ngừng việc đó một thời gian
+=truce to jesting!+ thôi không đùa nữa!

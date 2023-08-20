@@ -1,3 +1,14 @@
-telecommunications
-	@telecommunications\n* danh từ, pl\n- viễn thông, sự thông tin từ xa\n@Chuyên ngành kinh tế\n-cục viễn thông\n-khoa học viễn thông\n-khoa viễn thông\n-thông tin liên lạc bằng cáp\n-viễn thông\n@Chuyên ngành kỹ thuật\n-viễn thông\n@Lĩnh vực: điện tử & viễn thông\n-liên lạc viễn thông\n-truyền tin từ xa
-
+telecommunications	@telecommunications
+* danh từ, pl
+- viễn thông, sự thông tin từ xa
+@Chuyên ngành kinh tế
+-cục viễn thông
+-khoa học viễn thông
+-khoa viễn thông
+-thông tin liên lạc bằng cáp
+-viễn thông
+@Chuyên ngành kỹ thuật
+-viễn thông
+@Lĩnh vực: điện tử & viễn thông
+-liên lạc viễn thông
+-truyền tin từ xa

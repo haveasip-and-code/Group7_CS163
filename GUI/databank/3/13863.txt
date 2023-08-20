@@ -1,3 +1,2 @@
-decliner
-	@decliner\n- xem decline
-
+decliner	@decliner
+- xem decline

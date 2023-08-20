@@ -1,3 +1,4 @@
-prelim
-	@prelim /pri'lim/\n*  danh từ\n- (thông tục),  (viết tắt) của preliminary examination, cuộc kiểm tra thi vào (trường học)\n- (số nhiều) (ngành in) những trang vào sách (trước phần chính của một cuốn sách)
-
+prelim	@prelim /pri'lim/
+*  danh từ
+- (thông tục),  (viết tắt) của preliminary examination, cuộc kiểm tra thi vào (trường học)
+- (số nhiều) (ngành in) những trang vào sách (trước phần chính của một cuốn sách)

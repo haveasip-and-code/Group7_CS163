@@ -1,3 +1,2 @@
-marquises
-	@marquises\n- số nhiều của marquis
-
+marquises	@marquises
+- số nhiều của marquis

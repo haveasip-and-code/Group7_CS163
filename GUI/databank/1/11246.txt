@@ -1,3 +1,36 @@
-connector
-	@connector\n- (Tech) đầu nối dây, đầu kẹp, bộ nối, bộ liên kết\n@Chuyên ngành kỹ thuật\n-bộ ghép\n-bộ nối\n-bộ nối cáp\n-bộ nối có chốt\n-bộ phận nối\n-cầu nối\n-đầu kẹp\n-đầu nối\n-kẹp\n-kẹp nối\n-khớp nối\n-mối nối\n-ống ghép nối\n-ống nối\n-phích cắm\n-phích nối\n@Lĩnh vực: toán & tin\n-bộ (phận) nối\n-bộ kết nối\n-cái nối\n@Lĩnh vực: xây dựng\n-bộ phận liên kết\n-cái đầu nối\n-mối nối kết\n@Lĩnh vực: điện\n-con nối\n-đầu nối dây\n@Lĩnh vực: hóa học & vật liệu\n-đầu dây nối\n@Lĩnh vực: ô tô\n-giắc cắm\n-giắc nối
-
+connector	
+@connector
+- (Tech) đầu nối dây, đầu kẹp, bộ nối, bộ liên kết
+@Chuyên ngành kỹ thuật
+-bộ ghép
+-bộ nối
+-bộ nối cáp
+-bộ nối có chốt
+-bộ phận nối
+-cầu nối
+-đầu kẹp
+-đầu nối
+-kẹp
+-kẹp nối
+-khớp nối
+-mối nối
+-ống ghép nối
+-ống nối
+-phích cắm
+-phích nối
+@Lĩnh vực: toán & tin
+-bộ (phận) nối
+-bộ kết nối
+-cái nối
+@Lĩnh vực: xây dựng
+-bộ phận liên kết
+-cái đầu nối
+-mối nối kết
+@Lĩnh vực: điện
+-con nối
+-đầu nối dây
+@Lĩnh vực: hóa học & vật liệu
+-đầu dây nối
+@Lĩnh vực: ô tô
+-giắc cắm
+-giắc nối

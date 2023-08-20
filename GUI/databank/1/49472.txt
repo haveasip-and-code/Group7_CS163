@@ -1,3 +1,34 @@
-secondary
-	@secondary /'sekəndəri/\n*  tính từ\n- thứ hai, thứ nhì, thứ, phụ, không quan trọng\n=a secondary matter+ một vấn đề không quan trọng\n- chuyển hoá\n=secondary meaning of a words+ nghĩa chuyển hoá của một từ\n- trung học\n=secondary education+ nền giáo dục trung học\n=secondary technical school+ trường trung cấp kỹ thuật\n- (địa lý,địa chất) đại trung sinh\n*  danh từ\n- người giữ chức phó\n- thầy dòng\n- vệ tinh\n- (động vật học) cánh sau (của sâu bọ)\n- (địa lý,địa chất) lớp địa táng thuộc đại trung sinh\n@Chuyên ngành kỹ thuật\n-cấp hai\n-dùng lại\n-làm lại\n-nhỏ hơn\n-phụ\n-thứ yếu\n@Lĩnh vực: toán & tin\n-cây con\n-thứ hai\n@Lĩnh vực: điện lạnh\n-cuộn thứ cấp (máy biến áp)\n-đường dây hạ thế (của hệ phân phối điện)\n@Lĩnh vực: vật lý\n-phụ, thứ cấp\n@Lĩnh vực: y học\n-thứ phát\n-thứ yếu, phụ
-
+secondary	@secondary /'sekəndəri/
+*  tính từ
+- thứ hai, thứ nhì, thứ, phụ, không quan trọng
+=a secondary matter+ một vấn đề không quan trọng
+- chuyển hoá
+=secondary meaning of a words+ nghĩa chuyển hoá của một từ
+- trung học
+=secondary education+ nền giáo dục trung học
+=secondary technical school+ trường trung cấp kỹ thuật
+- (địa lý,địa chất) đại trung sinh
+*  danh từ
+- người giữ chức phó
+- thầy dòng
+- vệ tinh
+- (động vật học) cánh sau (của sâu bọ)
+- (địa lý,địa chất) lớp địa táng thuộc đại trung sinh
+@Chuyên ngành kỹ thuật
+-cấp hai
+-dùng lại
+-làm lại
+-nhỏ hơn
+-phụ
+-thứ yếu
+@Lĩnh vực: toán & tin
+-cây con
+-thứ hai
+@Lĩnh vực: điện lạnh
+-cuộn thứ cấp (máy biến áp)
+-đường dây hạ thế (của hệ phân phối điện)
+@Lĩnh vực: vật lý
+-phụ, thứ cấp
+@Lĩnh vực: y học
+-thứ phát
+-thứ yếu, phụ

@@ -1,3 +1,2 @@
-pouncer
-	@pouncer\n- xem pounce
-
+pouncer	@pouncer
+- xem pounce

@@ -1,3 +1,5 @@
-canalize
-	@Chuyên ngành kỹ thuật\n-đào kênh\n@Lĩnh vực: điện lạnh\n-tạo kênh
-
+canalize	
+@Chuyên ngành kỹ thuật
+-đào kênh
+@Lĩnh vực: điện lạnh
+-tạo kênh

@@ -1,3 +1,7 @@
-ecotype
-	@ecotype\n* danh từ\n- (sinh học) kiểu sinh thái\n- seasonal ecotype\n- kiều sinh thái mùa\n= climatic ecotype+kiểu sinh thái khí hậu
-
+ecotype	
+@ecotype
+* danh từ
+- (sinh học) kiểu sinh thái
+- seasonal ecotype
+- kiều sinh thái mùa= climatic ecotype
++kiểu sinh thái khí hậu

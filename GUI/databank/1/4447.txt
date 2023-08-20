@@ -1,3 +1,15 @@
-badge
-	@badge /beid/\n*  danh từ\n- huy hiệu, phù hiệu; quân hàm, lon\n- biểu hiện, vật tượng trưng; dấu hiệu\n=chains are a badge of slavery+ xiềng xích là biểu hiện của sự nô lệ\n@Chuyên ngành kinh tế\n-huy hiệu\n-phù hiệu\n-thẻ ra vào\n@Chuyên ngành kỹ thuật\n-biểu tượng\n-nhãn hiệu\n-mác\n-thẻ
-
+badge	
+@badge /beid/
+*  danh từ
+- huy hiệu, phù hiệu; quân hàm, lon
+- biểu hiện, vật tượng trưng; dấu hiệu=chains are a badge of slavery
++ xiềng xích là biểu hiện của sự nô lệ
+@Chuyên ngành kinh tế
+-huy hiệu
+-phù hiệu
+-thẻ ra vào
+@Chuyên ngành kỹ thuật
+-biểu tượng
+-nhãn hiệu
+-mác
+-thẻ

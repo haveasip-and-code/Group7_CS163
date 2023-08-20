@@ -1,3 +1,77 @@
-dip
-	@dip /dip/\n*  danh từ\n- sự nhúng, sự ngâm vào, sự dìm xuống (nước...)\n- sự đầm mình, sự tắm (ở biển)\n=to take (have) a dip in the sea+ đi tắm biển\n- lượng đong (gạo... vào đấu), lượng mức (nước... vào gàu)\n- mức chìm, ngấn nước (tàu, thuyền...)\n- nước tắm (cho cừu); nước ngâm (ngâm kim loại để tẩy sạch mà mạ vàng...)\n- cây nến (mỡ bò, mỡ cừu...)\n- chỗ trũng, chỗ lún xuống\n- độ nghiêng (kim la bàn); độ dốc, chiều dốc (của vỉa mô); đường võng chân trời\n=magnetic dip+ độ từ khuynh\n- (thể dục,thể thao) thế nhún ngang xà (đánh xà kép)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ móc túi\n*  ngoại động từ\n- nhúng, ngâm, nhận chìm, dìm xuống\n=to dip one's finger in water+ nhúng ngón tay vào nước\n=to dip one's pen in ink+ nhúng ngòi bút vào mực, châm ngòi bút vào mực\n- ngâm để đánh sạch (kim loại), nhúng vào để nhuộm (quần áo...); nhúng bấc vào mở nóng để làm (nến); tắm cho (cừu...) bằng nước diệt trùng...\n- (+ up) (múc nước vào gàu); đong (gạo... vào đấu)\n- hạ xuống một thoáng, hạ xuống xong bị kéo ngay lên\n=to dip the scale of a balance+ làm cho cán cân thoáng nghiêng đi một chút (xong lại thăng bằng ngay)\n=to dip the flag+ hạ cờ xuống lại kéo lên ngay\n*  nội động từ\n- nhúng, ngâm, nhận, dìm (trong nước...)\n- hạ, ngụp, hụp, lặn, chìm xuống (mặt trời...); nghiêng đi (cán cân...), nhào xuống (chim, máy bay...)\n=sun dips below harizon+ mặt trời chìm xuống dưới chân trời\n=scale dips+ cán cân nghiêng đi\n=bird dips and rises in the flight+ trong khi bay chim cứ nhào xuống lại bay lên\n- (thông tục) mắc nợ\n- nghiêng đi, dốc xuống\n=magnetic needle dips+ kim nam châm nghiêng đi\n=strata dip+ vỉa mỏ dốc xuống\n- (+ into) cho tay vào, cho thìa vào (để lấy, múc cái gì ra)\n- (+ into) xem lướt qua\n=to dip into a book+ xem lướt qua một cuốn sách\n- (+ into) điều tra, tìm tòi, tìm hiểu\n=to dip deep into the future+ tìm hiểu sâu về tương lai, nhìn sâu vào tương lai\n!to dip into one's purse\n- tiêu hoang\n!to dip one's pen in gall\n- viết ác, viết cay độc\n@Chuyên ngành kinh tế\n-ngâm\n-nhúng\n-nước chấm\n-phết lên\n-quãng trũng\n@Chuyên ngành kỹ thuật\n-đặt xuống\n-độ dốc\n-độ nghiêng\n-độ từ khuynh\n-dốc\n-dung dịch nhuộm\n-góc cắm\n-góc dốc\n-hạ\n-hướng cắm\n-hướng dốc\n-lún tụt\n-nhúng\n-sự nhúng chìm\n-sự sụt\n-sự tẩm\n-sự thấm\n-tôi\n@Lĩnh vực: điện\n-độ lệch xuống\n-độ nghiêng xuống\n@Lĩnh vực: xây dựng\n-nhấn chìm\n@Lĩnh vực: toán & tin\n-vỏ DIP
-
+dip	
+@dip /dip/
+*  danh từ
+- sự nhúng, sự ngâm vào, sự dìm xuống (nước...)
+- sự đầm mình, sự tắm (ở biển)=to take (have) a dip in the sea
++ đi tắm biển
+- lượng đong (gạo... vào đấu), lượng mức (nước... vào gàu)
+- mức chìm, ngấn nước (tàu, thuyền...)
+- nước tắm (cho cừu); nước ngâm (ngâm kim loại để tẩy sạch mà mạ vàng...)
+- cây nến (mỡ bò, mỡ cừu...)
+- chỗ trũng, chỗ lún xuống
+- độ nghiêng (kim la bàn); độ dốc, chiều dốc (của vỉa mô); đường võng chân trời=magnetic dip
++ độ từ khuynh
+- (thể dục,thể thao) thế nhún ngang xà (đánh xà kép)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ móc túi
+*  ngoại động từ
+- nhúng, ngâm, nhận chìm, dìm xuống=to dip one's finger in water
++ nhúng ngón tay vào nước=to dip one's pen in ink
++ nhúng ngòi bút vào mực, châm ngòi bút vào mực
+- ngâm để đánh sạch (kim loại), nhúng vào để nhuộm (quần áo...); nhúng bấc vào mở nóng để làm (nến); tắm cho (cừu...) bằng nước diệt trùng...
+- (
++ up) (múc nước vào gàu); đong (gạo... vào đấu)
+- hạ xuống một thoáng, hạ xuống xong bị kéo ngay lên=to dip the scale of a balance
++ làm cho cán cân thoáng nghiêng đi một chút (xong lại thăng bằng ngay)=to dip the flag
++ hạ cờ xuống lại kéo lên ngay
+*  nội động từ
+- nhúng, ngâm, nhận, dìm (trong nước...)
+- hạ, ngụp, hụp, lặn, chìm xuống (mặt trời...); nghiêng đi (cán cân...), nhào xuống (chim, máy bay...)=sun dips below harizon
++ mặt trời chìm xuống dưới chân trời=scale dips
++ cán cân nghiêng đi=bird dips and rises in the flight
++ trong khi bay chim cứ nhào xuống lại bay lên
+- (thông tục) mắc nợ
+- nghiêng đi, dốc xuống=magnetic needle dips
++ kim nam châm nghiêng đi=strata dip
++ vỉa mỏ dốc xuống
+- (
++ into) cho tay vào, cho thìa vào (để lấy, múc cái gì ra)
+- (
++ into) xem lướt qua=to dip into a book
++ xem lướt qua một cuốn sách
+- (
++ into) điều tra, tìm tòi, tìm hiểu=to dip deep into the future
++ tìm hiểu sâu về tương lai, nhìn sâu vào tương lai!to dip into one's purse
+- tiêu hoang!to dip one's pen in gall
+- viết ác, viết cay độc
+@Chuyên ngành kinh tế
+-ngâm
+-nhúng
+-nước chấm
+-phết lên
+-quãng trũng
+@Chuyên ngành kỹ thuật
+-đặt xuống
+-độ dốc
+-độ nghiêng
+-độ từ khuynh
+-dốc
+-dung dịch nhuộm
+-góc cắm
+-góc dốc
+-hạ
+-hướng cắm
+-hướng dốc
+-lún tụt
+-nhúng
+-sự nhúng chìm
+-sự sụt
+-sự tẩm
+-sự thấm
+-tôi
+@Lĩnh vực: điện
+-độ lệch xuống
+-độ nghiêng xuống
+@Lĩnh vực: xây dựng
+-nhấn chìm
+@Lĩnh vực: toán & tin
+-vỏ DIP

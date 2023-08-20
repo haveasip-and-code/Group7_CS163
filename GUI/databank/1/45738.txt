@@ -1,3 +1,11 @@
-reactivity
-	@reactivity\n* danh từ\n- khả năng phản ứng, tính phản ứng, độ phản ứng\n@Chuyên ngành kỹ thuật\n-độ phản ứng\n-hoạt tính\n@Lĩnh vực: hóa học & vật liệu\n-độ tái kích hoạt\n@Lĩnh vực: xây dựng\n-khả năng phản ứng\n-tính phản ứng được
-
+reactivity	@reactivity
+* danh từ
+- khả năng phản ứng, tính phản ứng, độ phản ứng
+@Chuyên ngành kỹ thuật
+-độ phản ứng
+-hoạt tính
+@Lĩnh vực: hóa học & vật liệu
+-độ tái kích hoạt
+@Lĩnh vực: xây dựng
+-khả năng phản ứng
+-tính phản ứng được

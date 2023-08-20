@@ -1,3 +1,2 @@
-assemblagist
-	@assemblagist\n- xem assemblage
-
+assemblagist	@assemblagist
+- xem assemblage

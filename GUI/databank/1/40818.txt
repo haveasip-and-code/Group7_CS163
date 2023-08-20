@@ -1,3 +1,11 @@
-personality
-	@personality\n* danh từ\n- nhân cách, tính cách\n- nhân phẩm; cá tính; lịch thiệp\n- tính chất là người\n- nhân vật, người nổi tiếng (nhất là trong giới văn nghệ, giới thể thao)\n- sự chỉ trích cá nhân; <snh> những lời chỉ trích cá nhân\n- <pháp> động sản\n@Chuyên ngành kỹ thuật\n-cá nhân\n-nhân cách
-
+personality	@personality
+* danh từ
+- nhân cách, tính cách
+- nhân phẩm; cá tính; lịch thiệp
+- tính chất là người
+- nhân vật, người nổi tiếng (nhất là trong giới văn nghệ, giới thể thao)
+- sự chỉ trích cá nhân; <snh> những lời chỉ trích cá nhân
+- <pháp> động sản
+@Chuyên ngành kỹ thuật
+-cá nhân
+-nhân cách

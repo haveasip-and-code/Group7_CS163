@@ -1,3 +1,15 @@
-grantor
-	@grantor /grɑ:n'tɔ:/\n*  danh từ\n- người ban cho\n- người trợ cấp\n- người chuyển nhượng\n@Chuyên ngành kinh tế\n-người bán\n-người bàn quyền chọn\n-người cho\n-người ký thác tài sản\n-người nhượng dữ\n@Chuyên ngành kỹ thuật\n-người cấp\n-người nhượng
-
+grantor	
+@grantor /grɑ:n'tɔ:/
+*  danh từ
+- người ban cho
+- người trợ cấp
+- người chuyển nhượng
+@Chuyên ngành kinh tế
+-người bán
+-người bàn quyền chọn
+-người cho
+-người ký thác tài sản
+-người nhượng dữ
+@Chuyên ngành kỹ thuật
+-người cấp
+-người nhượng

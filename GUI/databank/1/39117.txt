@@ -1,3 +1,5 @@
-oxygenated
-	@Chuyên ngành kỹ thuật\n-ôxi hóa\n@Lĩnh vực: hóa học & vật liệu\n-được bão hòa ôxi\n-được ôxi hóa
-
+oxygenated	@Chuyên ngành kỹ thuật
+-ôxi hóa
+@Lĩnh vực: hóa học & vật liệu
+-được bão hòa ôxi
+-được ôxi hóa

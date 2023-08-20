@@ -1,3 +1,6 @@
-pores
-	@Chuyên ngành kỹ thuật\n-bọt khí\n-lỗ rỗ\n@Lĩnh vực: xây dựng\n-các lỗ rỗng\n-khe rỗng (bên trong vật liệu)
-
+pores	@Chuyên ngành kỹ thuật
+-bọt khí
+-lỗ rỗ
+@Lĩnh vực: xây dựng
+-các lỗ rỗng
+-khe rỗng (bên trong vật liệu)

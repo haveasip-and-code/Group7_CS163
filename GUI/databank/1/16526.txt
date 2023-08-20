@@ -1,3 +1,10 @@
-dormitory
-	@dormitory /'dɔ:mitri/ (dorms) /dɔ:mz/\n*  danh từ\n- phòng ngủ (tập thể...)\n- nhà ở tập thể (của học sinh đại học...)\n- khu nhà ở ngoại ô (của những người trong thành phố)\n@Chuyên ngành kỹ thuật\n-phòng ngủ\n@Lĩnh vực: xây dựng\n-nhà ngủ
-
+dormitory	
+@dormitory /'dɔ:mitri/ (dorms) /dɔ:mz/
+*  danh từ
+- phòng ngủ (tập thể...)
+- nhà ở tập thể (của học sinh đại học...)
+- khu nhà ở ngoại ô (của những người trong thành phố)
+@Chuyên ngành kỹ thuật
+-phòng ngủ
+@Lĩnh vực: xây dựng
+-nhà ngủ

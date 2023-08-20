@@ -1,3 +1,7 @@
-irradiator
-	@irradiator\n- xem irradiate\n@Chuyên ngành kỹ thuật\n-nguồn bức xạ\n@Lĩnh vực: điện lạnh\n-máy chiếu bức xạ
-
+irradiator	
+@irradiator
+- xem irradiate
+@Chuyên ngành kỹ thuật
+-nguồn bức xạ
+@Lĩnh vực: điện lạnh
+-máy chiếu bức xạ

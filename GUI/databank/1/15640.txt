@@ -1,3 +1,4 @@
-disassociated
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trạng thái rỗng
-
+disassociated	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-trạng thái rỗng

@@ -1,3 +1,2 @@
-microcrystal
-	@Chuyên ngành kỹ thuật\n-vi tinh thể
-
+microcrystal	@Chuyên ngành kỹ thuật
+-vi tinh thể

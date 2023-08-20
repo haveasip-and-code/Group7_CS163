@@ -1,3 +1,18 @@
-pitching
-	@Chuyên ngành kỹ thuật\n-áo taluy\n-đá đẽo\n-kết cấu nền đá\n-lớp ốp đá\n-lớp phủ taluy\n-móng đá\n-sự bảo vệ bờ\n-sự hóa nhựa\n-sự lát đá\n@Lĩnh vực: giao thông & vận tải\n-sự chúc ngóc\n-sự dọc\n@Lĩnh vực: vật lý\n-sự lắc dọc (chuyển động của tàu)\n-sự tạo bước\n@Lĩnh vực: xây dựng\n-sự lợp mái dốc
-
+pitching	@Chuyên ngành kỹ thuật
+-áo taluy
+-đá đẽo
+-kết cấu nền đá
+-lớp ốp đá
+-lớp phủ taluy
+-móng đá
+-sự bảo vệ bờ
+-sự hóa nhựa
+-sự lát đá
+@Lĩnh vực: giao thông & vận tải
+-sự chúc ngóc
+-sự dọc
+@Lĩnh vực: vật lý
+-sự lắc dọc (chuyển động của tàu)
+-sự tạo bước
+@Lĩnh vực: xây dựng
+-sự lợp mái dốc

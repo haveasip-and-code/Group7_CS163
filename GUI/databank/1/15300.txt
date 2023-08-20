@@ -1,3 +1,39 @@
-difference
-	@difference /'difrəns/\n*  danh từ\n- sự khác nhau, tình trạng khác nhau; tính khác nhau; sự chênh lệch\n=a difference in age+ sự khác nhau về tuổi tác\n- sự bất đồng; mối bất hoà, mối phân tranh; sự cãi nhau\n=differences of opinion+ những sự bất đồng về ý kiến\n=to settle a difference+ giải quyết một mối bất hoà\n- sự chênh lệch về giá cả (hối phiếu... trong những thời gian khác nhau)\n- dấu phân biệt đặc trưng (các giống...)\n- (toán học) hiệu, sai phân\n=difference of sets+ hiệu của tập hợp\n=difference equation+ phương trình sai phân\n!to make a difference between\n- phân biệt giữa; phân biệt đối xử\n!it make a great difference\n- điều đó quan trọng; điều đó làm cho sự thể thay đổi hoàn toàn\n!to split the different\n- (xem) split\n!what's the different?\n- (thông tục) cái đó có gì quan trọng?\n*  ngoại động từ\n- phân biệt, phân hơn kém\n- (toán học) tính hiệu số, tính sai phân\n@Chuyên ngành kinh tế\n-mức chênh lệch\n-phương trình sai phân\n-sai biệt giá\n-sai phân\n-sự khác nhau\n-tính khác nhau\n@Chuyên ngành kỹ thuật\n-hiệu (số)\n-hiệu số\n-khác nhau\n-sai phân\n-sự chênh lệch\n-sự khác nhau\n-vi sai\n@Lĩnh vực: toán & tin\n-hiệu\n@Lĩnh vực: điện\n-sự sai khác
-
+difference	
+@difference /'difrəns/
+*  danh từ
+- sự khác nhau, tình trạng khác nhau; tính khác nhau; sự chênh lệch=a difference in age
++ sự khác nhau về tuổi tác
+- sự bất đồng; mối bất hoà, mối phân tranh; sự cãi nhau=differences of opinion
++ những sự bất đồng về ý kiến=to settle a difference
++ giải quyết một mối bất hoà
+- sự chênh lệch về giá cả (hối phiếu... trong những thời gian khác nhau)
+- dấu phân biệt đặc trưng (các giống...)
+- (toán học) hiệu, sai phân=difference of sets
++ hiệu của tập hợp=difference equation
++ phương trình sai phân!to make a difference between
+- phân biệt giữa; phân biệt đối xử!it make a great difference
+- điều đó quan trọng; điều đó làm cho sự thể thay đổi hoàn toàn!to split the different
+- (xem) split!what's the different?
+- (thông tục) cái đó có gì quan trọng?
+*  ngoại động từ
+- phân biệt, phân hơn kém
+- (toán học) tính hiệu số, tính sai phân
+@Chuyên ngành kinh tế
+-mức chênh lệch
+-phương trình sai phân
+-sai biệt giá
+-sai phân
+-sự khác nhau
+-tính khác nhau
+@Chuyên ngành kỹ thuật
+-hiệu (số)
+-hiệu số
+-khác nhau
+-sai phân
+-sự chênh lệch
+-sự khác nhau
+-vi sai
+@Lĩnh vực: toán & tin
+-hiệu
+@Lĩnh vực: điện
+-sự sai khác

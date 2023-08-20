@@ -1,3 +1,2 @@
-lifestyle
-	@Chuyên ngành kinh tế\n-cách/lối sống
-
+lifestyle	@Chuyên ngành kinh tế
+-cách/lối sống

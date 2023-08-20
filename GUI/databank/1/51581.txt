@@ -1,3 +1,15 @@
-snubber
-	@snubber\n* danh từ\n- người đột nhiên cấm chỉ\n- bộ giảm sóc bằng ma sát\n@Chuyên ngành kỹ thuật\n-bộ giảm xóc\n-cái chống dao động\n-cữ chặn\n-thiết bị giảm rung\n-vấu\n@Lĩnh vực: cơ khí & công trình\n-cái đỡ va\n-cơ cấu snubơ\n@Lĩnh vực: ô tô\n-dụng cụ giảm va
-
+snubber	@snubber
+* danh từ
+- người đột nhiên cấm chỉ
+- bộ giảm sóc bằng ma sát
+@Chuyên ngành kỹ thuật
+-bộ giảm xóc
+-cái chống dao động
+-cữ chặn
+-thiết bị giảm rung
+-vấu
+@Lĩnh vực: cơ khí & công trình
+-cái đỡ va
+-cơ cấu snubơ
+@Lĩnh vực: ô tô
+-dụng cụ giảm va

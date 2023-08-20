@@ -1,3 +1,2 @@
-crescentic
-	@crescentic\n- xem crescent
-
+crescentic	@crescentic
+- xem crescent

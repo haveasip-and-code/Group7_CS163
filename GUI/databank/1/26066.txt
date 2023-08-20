@@ -1,3 +1,4 @@
-homolysis
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phân hủy tế bào đồng loại
-
+homolysis	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-phân hủy tế bào đồng loại

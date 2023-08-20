@@ -1,3 +1,27 @@
-drip
-	@drip /drip/\n*  danh từ\n- sự chảy nhỏ giọt, sự để nhỏ giọt\n- nước chảy nhỏ giọt\n- (kiến trúc) mái hắt\n- (từ lóng) người quấy rầy, người khó chịu\n*  nội động từ\n- chảy nhỏ giọt\n- ((thường) + with) ướt sũng, ướt đẫm\n=to be driping wet+ ướt sũng, ướt đẫm\n=to drip with blood+ đẫm máu, máu đầm đìa chảy thành giọt\n*  ngoại động từ\n- để chảy nhỏ giọt, làm nhỏ giọt\n@Chuyên ngành kinh tế\n-cháy nhỏ giọt\n-chiến dịch quảng cáo lâu dài (thường trên một năm)\n@Chuyên ngành kỹ thuật\n-giọt\n-nhỏ giọt\n-nhỏ từng giọt\n-nước ngưng\n-rò\n-sự nhỏ giọt\n@Lĩnh vực: xây dựng\n-cái mỏ nhọn
-
+drip	
+@drip /drip/
+*  danh từ
+- sự chảy nhỏ giọt, sự để nhỏ giọt
+- nước chảy nhỏ giọt
+- (kiến trúc) mái hắt
+- (từ lóng) người quấy rầy, người khó chịu
+*  nội động từ
+- chảy nhỏ giọt
+- ((thường) 
++ with) ướt sũng, ướt đẫm=to be driping wet
++ ướt sũng, ướt đẫm=to drip with blood
++ đẫm máu, máu đầm đìa chảy thành giọt
+*  ngoại động từ
+- để chảy nhỏ giọt, làm nhỏ giọt
+@Chuyên ngành kinh tế
+-cháy nhỏ giọt
+-chiến dịch quảng cáo lâu dài (thường trên một năm)
+@Chuyên ngành kỹ thuật
+-giọt
+-nhỏ giọt
+-nhỏ từng giọt
+-nước ngưng
+-rò
+-sự nhỏ giọt
+@Lĩnh vực: xây dựng
+-cái mỏ nhọn

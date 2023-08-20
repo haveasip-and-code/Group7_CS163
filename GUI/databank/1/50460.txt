@@ -1,3 +1,2 @@
-shortages
-	@Chuyên ngành kỹ thuật\n-thiếu hụt
-
+shortages	@Chuyên ngành kỹ thuật
+-thiếu hụt

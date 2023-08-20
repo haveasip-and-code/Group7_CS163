@@ -1,3 +1,7 @@
-substage
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khoang sân khấu\n@Lĩnh vực: hóa học & vật liệu\n-phụ bậc\n@Lĩnh vực: điện lạnh\n-tầng dưới (của kính hiển vi)
-
+substage	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khoang sân khấu
+@Lĩnh vực: hóa học & vật liệu
+-phụ bậc
+@Lĩnh vực: điện lạnh
+-tầng dưới (của kính hiển vi)

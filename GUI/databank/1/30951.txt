@@ -1,3 +1,8 @@
-kilohertz
-	@Chuyên ngành kỹ thuật\n-kHz\n@Lĩnh vực: điện\n-kilôhec\n@Chuyên ngành kỹ thuật\n-kHz\n@Lĩnh vực: điện\n-kilôhec
-
+kilohertz	@Chuyên ngành kỹ thuật
+-kHz
+@Lĩnh vực: điện
+-kilôhec
+@Chuyên ngành kỹ thuật
+-kHz
+@Lĩnh vực: điện
+-kilôhec

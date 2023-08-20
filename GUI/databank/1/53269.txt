@@ -1,3 +1,6 @@
-sterilized
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-đã tiệt trùng\n-đã vô trùng\n-được tiệt trùng\n-được vô trùng
-
+sterilized	@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-đã tiệt trùng
+-đã vô trùng
+-được tiệt trùng
+-được vô trùng

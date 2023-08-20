@@ -1,3 +1,2 @@
-artisanship
-	@artisanship\n- xem artisan
-
+artisanship	@artisanship
+- xem artisan

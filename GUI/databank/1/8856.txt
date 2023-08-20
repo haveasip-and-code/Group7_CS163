@@ -1,3 +1,4 @@
-chats
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vụn đá trong quặng
-
+chats	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-vụn đá trong quặng

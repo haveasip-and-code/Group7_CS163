@@ -1,3 +1,40 @@
-promote
-	@promote /promote/\n*  ngoại động từ\n- thăng chức, thăng cấp, đề bạt; cho lên lớp\n=to be promoted sergeant+ được thăng cấp trung sĩ\n- làm tăng tiến, đẩy mạnh, xúc tiến, khuyến khích\n=to promote learning+ đẩy mạnh học tập\n=to promote health+ làm tăng thêm sức khoẻ, bồi dưỡng sức khoẻ\n=to promote trade+ đẩy mạnh việc buôn bán\n- đề xướng, sáng lập\n=to promote a new plan+ đề xướng một kế hoạch mới\n=to promote a company+ sáng lập một công ty\n- tích cực ủng hộ sự thông qua, vận động để thông qua (một đạo luật)\n- (từ Mỹ,nghĩa Mỹ) quảng cáo bán (hàng, sản phẩm...)\n- (đánh cờ) nâng (quân tốt) thành quân đam (cờ đam)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) dùng thủ đoạn tước đoạt (cái gì)\n- (hoá học) xúc tiến (một phản ứng)\n@Chuyên ngành kinh tế\n-cổ động\n-cổ động quảng cáo\n-đẩy mạnh tiêu thụ (sản phẩm)\n-đề xướng (một công việc)\n-hoạt hóa\n-khuyến khích\n-khuyến mãi\n-kích thích\n-phát khởi\n-quảng cáo\n-sáng lập (xí nghiệp)\n-thăng cấp\n-thăng chức\n-thúc đẩy\n-xúc tiến\n@Chuyên ngành kỹ thuật\n-xúc tiến\n@Lĩnh vực: hóa học & vật liệu\n-đẩy mạnh\n@Lĩnh vực: toán & tin\n-tăng cấp\n@Lĩnh vực: xây dựng\n-tiến cử
-
+promote	@promote /promote/
+*  ngoại động từ
+- thăng chức, thăng cấp, đề bạt; cho lên lớp
+=to be promoted sergeant+ được thăng cấp trung sĩ
+- làm tăng tiến, đẩy mạnh, xúc tiến, khuyến khích
+=to promote learning+ đẩy mạnh học tập
+=to promote health+ làm tăng thêm sức khoẻ, bồi dưỡng sức khoẻ
+=to promote trade+ đẩy mạnh việc buôn bán
+- đề xướng, sáng lập
+=to promote a new plan+ đề xướng một kế hoạch mới
+=to promote a company+ sáng lập một công ty
+- tích cực ủng hộ sự thông qua, vận động để thông qua (một đạo luật)
+- (từ Mỹ,nghĩa Mỹ) quảng cáo bán (hàng, sản phẩm...)
+- (đánh cờ) nâng (quân tốt) thành quân đam (cờ đam)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) dùng thủ đoạn tước đoạt (cái gì)
+- (hoá học) xúc tiến (một phản ứng)
+@Chuyên ngành kinh tế
+-cổ động
+-cổ động quảng cáo
+-đẩy mạnh tiêu thụ (sản phẩm)
+-đề xướng (một công việc)
+-hoạt hóa
+-khuyến khích
+-khuyến mãi
+-kích thích
+-phát khởi
+-quảng cáo
+-sáng lập (xí nghiệp)
+-thăng cấp
+-thăng chức
+-thúc đẩy
+-xúc tiến
+@Chuyên ngành kỹ thuật
+-xúc tiến
+@Lĩnh vực: hóa học & vật liệu
+-đẩy mạnh
+@Lĩnh vực: toán & tin
+-tăng cấp
+@Lĩnh vực: xây dựng
+-tiến cử

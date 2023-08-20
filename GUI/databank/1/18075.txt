@@ -1,3 +1,20 @@
-emulsoid
-	@emulsoid /i'mʌlsɔid/\n*  danh từ\n- chất thể sữa\n@Chuyên ngành kinh tế\n-chất thể sữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dạng nhũ tương\n@Lĩnh vực: điện lạnh\n-thể nhũ tương\n@Lĩnh vực: y học\n-thể nhủ tương\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dạng nhũ tương\n@Lĩnh vực: điện lạnh\n-thể nhũ tương\n@Lĩnh vực: y học\n-thể nhủ tương
-
+emulsoid	
+@emulsoid /i'mʌlsɔid/
+*  danh từ
+- chất thể sữa
+@Chuyên ngành kinh tế
+-chất thể sữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dạng nhũ tương
+@Lĩnh vực: điện lạnh
+-thể nhũ tương
+@Lĩnh vực: y học
+-thể nhủ tương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dạng nhũ tương
+@Lĩnh vực: điện lạnh
+-thể nhũ tương
+@Lĩnh vực: y học
+-thể nhủ tương

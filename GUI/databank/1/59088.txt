@@ -1,3 +1,12 @@
-uncured
-	@uncured /'ʌn'kjuəd/\n*  tính từ\n- (y học) không chữa khỏi; chưa lành\n=an uncured wound+ một vết thương chưa lành\n- còn tươi, chưa xử lý để để lâu (cá)\n@Chuyên ngành kinh tế\n-chưa bảo quản\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chưa lưu hóa\n-không lưu hóa\n-không xử lý
-
+uncured	@uncured /'ʌn'kjuəd/
+*  tính từ
+- (y học) không chữa khỏi; chưa lành
+=an uncured wound+ một vết thương chưa lành
+- còn tươi, chưa xử lý để để lâu (cá)
+@Chuyên ngành kinh tế
+-chưa bảo quản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chưa lưu hóa
+-không lưu hóa
+-không xử lý

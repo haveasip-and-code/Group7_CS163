@@ -1,3 +1,6 @@
-spherulitic
-	@spherulitic\n* tính từ\n- thuộc tinh thể hình cầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sferulit
-
+spherulitic	@spherulitic
+* tính từ
+- thuộc tinh thể hình cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sferulit

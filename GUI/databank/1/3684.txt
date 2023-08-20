@@ -1,3 +1,12 @@
-asterisk
-	@asterisk /'æstərisk/\n*  danh từ\n- dấu sao\n*  ngoại động từ\n- đánh dấu sao\n@Chuyên ngành kinh tế\n-dấu sao (*)\n@Chuyên ngành kỹ thuật\n-dấu sao (*)
-
+asterisk	
+@asterisk /'æstərisk/
+*  danh từ
+- dấu sao
+*  ngoại động từ
+- đánh dấu sao
+@Chuyên ngành kinh tế
+-dấu sao (
+*)
+@Chuyên ngành kỹ thuật
+-dấu sao (
+*)

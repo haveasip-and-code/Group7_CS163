@@ -1,3 +1,26 @@
-phase
-	@phase /feiz/\n*  danh từ\n- tuần (trăng...)\n- giai thoại, thời kỳ (phát triển, biến đổi)\n- phương diện, mặt (của vấn đề...)\n- (vật lý); (sinh vật học) pha\n*  ngoại động từ\n- thực hiện (chương trình...) từng giai đoạn\n- (vật lý) làm đồng bộ\n!to phase out something\n- (từ Mỹ,nghĩa Mỹ) thôi dần dần không dùng cái gì, rút lui dần dần cái gì\n@Chuyên ngành kỹ thuật\n-bước\n-giai đoạn\n-pha\n-thời kỳ\n-trạng thái\n@Lĩnh vực: hóa học & vật liệu\n-giai đoạn địa chất\n@Lĩnh vực: điện\n-góc pha\n-sự biến dạng pha\n@Lĩnh vực: vật lý\n-pha (ví dụ: các pha của dòng điện xoay chiều)\n@Lĩnh vực: toán & tin\n-pha, giai đoạn
-
+phase	@phase /feiz/
+*  danh từ
+- tuần (trăng...)
+- giai thoại, thời kỳ (phát triển, biến đổi)
+- phương diện, mặt (của vấn đề...)
+- (vật lý); (sinh vật học) pha
+*  ngoại động từ
+- thực hiện (chương trình...) từng giai đoạn
+- (vật lý) làm đồng bộ
+!to phase out something
+- (từ Mỹ,nghĩa Mỹ) thôi dần dần không dùng cái gì, rút lui dần dần cái gì
+@Chuyên ngành kỹ thuật
+-bước
+-giai đoạn
+-pha
+-thời kỳ
+-trạng thái
+@Lĩnh vực: hóa học & vật liệu
+-giai đoạn địa chất
+@Lĩnh vực: điện
+-góc pha
+-sự biến dạng pha
+@Lĩnh vực: vật lý
+-pha (ví dụ: các pha của dòng điện xoay chiều)
+@Lĩnh vực: toán & tin
+-pha, giai đoạn

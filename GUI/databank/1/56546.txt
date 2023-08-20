@@ -1,3 +1,3 @@
-thrombolytic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tan cục huyết
-
+thrombolytic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tan cục huyết

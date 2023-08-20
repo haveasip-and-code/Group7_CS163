@@ -1,3 +1,17 @@
-dormant
-	@dormant /'dɔ:mənt/\n*  tính từ\n- nằm ngủ, nằm im lìm, không hoạt động\n- (động vật học) ngủ đông; (thực vật học) ngủ\n=dormant bud+ chồi ngủ\n- tiềm tàng (khả năng), ngấm ngầm, âm ỉ (dục vọng...)\n- (thương nghiệp) chết (vốn)\n- (pháp lý) không áp dụng, không thi hành (luật, sắc lệnh, bản án...)\n- nằm kê đầu lên hai chân (hình con vật ở huy hiệu)\n!dormant partner\n- (xem) partner\n!dormant warrant\n- trát bắt để trống tên\n!to lie dormant\n- nằm ngủ, nằm im lìn, không hoạt động\n- không áp dụng, không thi hành\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-trong giấc ngủ
-
+dormant	
+@dormant /'dɔ:mənt/
+*  tính từ
+- nằm ngủ, nằm im lìm, không hoạt động
+- (động vật học) ngủ đông; (thực vật học) ngủ=dormant bud
++ chồi ngủ
+- tiềm tàng (khả năng), ngấm ngầm, âm ỉ (dục vọng...)
+- (thương nghiệp) chết (vốn)
+- (pháp lý) không áp dụng, không thi hành (luật, sắc lệnh, bản án...)
+- nằm kê đầu lên hai chân (hình con vật ở huy hiệu)!dormant partner
+- (xem) partner!dormant warrant
+- trát bắt để trống tên!to lie dormant
+- nằm ngủ, nằm im lìn, không hoạt động
+- không áp dụng, không thi hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-trong giấc ngủ

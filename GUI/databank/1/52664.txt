@@ -1,3 +1,11 @@
-spotting
-	@spotting\n- sự định tâm\n@Chuyên ngành kinh tế\n-lốm đốm\n-vết\n@Chuyên ngành kỹ thuật\n-sự đánh dấu\n-sự đánh dấu, sự định tâm\n-sự định tâm\n@Lĩnh vực: vật lý\n-sự hiện đốm
-
+spotting	@spotting
+- sự định tâm
+@Chuyên ngành kinh tế
+-lốm đốm
+-vết
+@Chuyên ngành kỹ thuật
+-sự đánh dấu
+-sự đánh dấu, sự định tâm
+-sự định tâm
+@Lĩnh vực: vật lý
+-sự hiện đốm

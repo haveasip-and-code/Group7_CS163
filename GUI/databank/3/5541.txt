@@ -1,3 +1,1 @@
-bimetallistic
-	@bimetallistic -  Xem bimetallism
-
+bimetallistic	@bimetallistic -  Xem bimetallism

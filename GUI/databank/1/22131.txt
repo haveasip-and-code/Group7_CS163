@@ -1,3 +1,11 @@
-fount
-	@fount /faunt/\n*  danh từ\n- vòi nước (công viên)\n- bình dầu (đèn dầu)\n- (thơ ca) nguồn, nguồn sống\n*  danh từ\n- bộ chữ cùng c\n@Chuyên ngành kỹ thuật\n-phông chữ\n-vòi nước
-
+fount	
+@fount /faunt/
+*  danh từ
+- vòi nước (công viên)
+- bình dầu (đèn dầu)
+- (thơ ca) nguồn, nguồn sống
+*  danh từ
+- bộ chữ cùng c
+@Chuyên ngành kỹ thuật
+-phông chữ
+-vòi nước

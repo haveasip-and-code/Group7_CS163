@@ -1,3 +1,4 @@
-deftly
-	@deftly\n* phó từ\n- khéo léo
-
+deftly	
+@deftly
+* phó từ
+- khéo léo

@@ -1,3 +1,15 @@
-punctual
-	@punctual /'pʌɳktjuəl/\n*  tính từ\n- (thuộc) điểm; như một điểm\n- đúng giờ (không chậm trễ)\n- (từ cổ,nghĩa cổ),  (như) punctilious\n@Chuyên ngành kinh tế\n-đúng giờ\n-đúng hạn\n@Chuyên ngành kỹ thuật\n-chính xác\n-điểm\n@Lĩnh vực: điện lạnh\n-hình điểm\n@Lĩnh vực: toán & tin\n-kịp thời
-
+punctual	@punctual /'pʌɳktjuəl/
+*  tính từ
+- (thuộc) điểm; như một điểm
+- đúng giờ (không chậm trễ)
+- (từ cổ,nghĩa cổ),  (như) punctilious
+@Chuyên ngành kinh tế
+-đúng giờ
+-đúng hạn
+@Chuyên ngành kỹ thuật
+-chính xác
+-điểm
+@Lĩnh vực: điện lạnh
+-hình điểm
+@Lĩnh vực: toán & tin
+-kịp thời

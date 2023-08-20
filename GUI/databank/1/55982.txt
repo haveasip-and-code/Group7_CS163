@@ -1,3 +1,4 @@
-tenoned
-	@Chuyên ngành kỹ thuật\n-ghép bằng mộng\n@Lĩnh vực: xây dựng\n-có mộng
-
+tenoned	@Chuyên ngành kỹ thuật
+-ghép bằng mộng
+@Lĩnh vực: xây dựng
+-có mộng

@@ -1,3 +1,9 @@
-librarian
-	@librarian /lai'breəriən/\n*  danh từ\n- người công tác thư viện, cán bộ thư viện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-LIBRARIAN\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-LIBRARIAN
-
+librarian	@librarian /lai'breəriən/
+*  danh từ
+- người công tác thư viện, cán bộ thư viện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-LIBRARIAN
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-LIBRARIAN

@@ -1,3 +1,39 @@
-knurl
-	@knurl /nə:l/\n*  danh từ\n- dầu mấu, chỗ u lên, chỗ lồi lên\n- núm xoay (ở máy chữ)\n- (kỹ thuật) khía; cục nổi tròn (ở kim loại)\n@Chuyên ngành kỹ thuật\n-cán\n-con lăn\n-làm cho thô ráp\n-lăn\n-lăn vân\n-mắt (gỗ)\n@Lĩnh vực: xây dựng\n-cán lăn\n@Lĩnh vực: cơ khí & công trình\n-núm (xoay) có khía\n-sự cán vân\n-sự lăn vân\n-vân cán lăn\n-vân khía\n@Lĩnh vực: ô tô\n-tạo khía\n@Chuyên ngành kỹ thuật\n-cán\n-con lăn\n-làm cho thô ráp\n-lăn\n-lăn vân\n-mắt (gỗ)\n@Lĩnh vực: xây dựng\n-cán lăn\n@Lĩnh vực: cơ khí & công trình\n-núm (xoay) có khía\n-sự cán vân\n-sự lăn vân\n-vân cán lăn\n-vân khía\n@Lĩnh vực: ô tô\n-tạo khía
-
+knurl	@knurl /nə:l/
+*  danh từ
+- dầu mấu, chỗ u lên, chỗ lồi lên
+- núm xoay (ở máy chữ)
+- (kỹ thuật) khía; cục nổi tròn (ở kim loại)
+@Chuyên ngành kỹ thuật
+-cán
+-con lăn
+-làm cho thô ráp
+-lăn
+-lăn vân
+-mắt (gỗ)
+@Lĩnh vực: xây dựng
+-cán lăn
+@Lĩnh vực: cơ khí & công trình
+-núm (xoay) có khía
+-sự cán vân
+-sự lăn vân
+-vân cán lăn
+-vân khía
+@Lĩnh vực: ô tô
+-tạo khía
+@Chuyên ngành kỹ thuật
+-cán
+-con lăn
+-làm cho thô ráp
+-lăn
+-lăn vân
+-mắt (gỗ)
+@Lĩnh vực: xây dựng
+-cán lăn
+@Lĩnh vực: cơ khí & công trình
+-núm (xoay) có khía
+-sự cán vân
+-sự lăn vân
+-vân cán lăn
+-vân khía
+@Lĩnh vực: ô tô
+-tạo khía

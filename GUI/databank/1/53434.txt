@@ -1,3 +1,10 @@
-stockholder
-	@stockholder\n* danh từ\n- <Mỹ> cổ đông\n@Chuyên ngành kinh tế\n-cổ đông\n-người có chứng khoán\n@Chuyên ngành kỹ thuật\n-cổ đông\n-người góp cổ phần\n-người góp vốn
-
+stockholder	@stockholder
+* danh từ
+- <Mỹ> cổ đông
+@Chuyên ngành kinh tế
+-cổ đông
+-người có chứng khoán
+@Chuyên ngành kỹ thuật
+-cổ đông
+-người góp cổ phần
+-người góp vốn

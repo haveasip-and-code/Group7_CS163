@@ -1,3 +1,19 @@
-vaporizer
-	@vaporizer /'veipəraizə/\n*  danh từ\n- bình xì, bình bơm\n- (kỹ thuật) bộ bay hơi; bộ phối khí\n@Chuyên ngành kinh tế\n-thiết bị bốc hơi\n@Chuyên ngành kỹ thuật\n-bộ hóa hơi (máy lạnh)\n@Lĩnh vực: cơ khí & công trình\n-bình hóa hơi\n@Lĩnh vực: hóa học & vật liệu\n-bình làm bay hơi\n-bộ phận khí hóa\n-thiết bị bay hơi\n@Lĩnh vực: y học\n-bình phun hơi\n@Lĩnh vực: điện lạnh\n-máy làm bay hơi\n-máy phun bụi nước
-
+vaporizer	@vaporizer /'veipəraizə/
+*  danh từ
+- bình xì, bình bơm
+- (kỹ thuật) bộ bay hơi; bộ phối khí
+@Chuyên ngành kinh tế
+-thiết bị bốc hơi
+@Chuyên ngành kỹ thuật
+-bộ hóa hơi (máy lạnh)
+@Lĩnh vực: cơ khí & công trình
+-bình hóa hơi
+@Lĩnh vực: hóa học & vật liệu
+-bình làm bay hơi
+-bộ phận khí hóa
+-thiết bị bay hơi
+@Lĩnh vực: y học
+-bình phun hơi
+@Lĩnh vực: điện lạnh
+-máy làm bay hơi
+-máy phun bụi nước

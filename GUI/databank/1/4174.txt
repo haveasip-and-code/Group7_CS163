@@ -1,3 +1,4 @@
-averaged
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lấy trung bình
-
+averaged	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-lấy trung bình

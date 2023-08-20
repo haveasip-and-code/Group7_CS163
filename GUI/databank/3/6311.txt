@@ -1,3 +1,34 @@
-booster
-	@booster /'bu:stə/\n*  danh từ\n- người nâng đỡ, người ủng hộ\n- (điện học) máy tăng thế\n@Chuyên ngành kỹ thuật\n-bộ khuếch đại\n-bộ kích thích\n-bơm tăng áp\n-động cơ đẩy\n-đông cơ phụ\n-máy dự phòng\n-máy khuếch đại\n-máy tăng áp\n-máy tăng thế\n-thiết bị phụ\n@Lĩnh vực: toán & tin\n-bộ khuếch đại ăng ten\n-máy tăng điện thế\n@Lĩnh vực: điện\n-bộ tăng\n-bộ tăng cường\n-bộ tăng điện\n-bộ tăng điện áp\n@Lĩnh vực: điện lạnh\n-bộ tiền khuếch đại\n@Lĩnh vực: xây dựng\n-bơm tăng cường\n-cái tăng thế\n-dụng cụ tăng lực\n-tăng điện thế\n@Lĩnh vực: cơ khí & công trình\n-động cơ phụ trợ\n-máy tăng cường\n-quạt phụ trợ
-
+booster	@booster /'bu:stə/
+*  danh từ
+- người nâng đỡ, người ủng hộ
+- (điện học) máy tăng thế
+@Chuyên ngành kỹ thuật
+-bộ khuếch đại
+-bộ kích thích
+-bơm tăng áp
+-động cơ đẩy
+-đông cơ phụ
+-máy dự phòng
+-máy khuếch đại
+-máy tăng áp
+-máy tăng thế
+-thiết bị phụ
+@Lĩnh vực: toán & tin
+-bộ khuếch đại ăng ten
+-máy tăng điện thế
+@Lĩnh vực: điện
+-bộ tăng
+-bộ tăng cường
+-bộ tăng điện
+-bộ tăng điện áp
+@Lĩnh vực: điện lạnh
+-bộ tiền khuếch đại
+@Lĩnh vực: xây dựng
+-bơm tăng cường
+-cái tăng thế
+-dụng cụ tăng lực
+-tăng điện thế
+@Lĩnh vực: cơ khí & công trình
+-động cơ phụ trợ
+-máy tăng cường
+-quạt phụ trợ

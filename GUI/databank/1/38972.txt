@@ -1,3 +1,6 @@
-oversteer
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-lái quá đà\n-người lái quá đà\n-quay vòng thừa\n-sự quay vòng thừa
-
+oversteer	@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-lái quá đà
+-người lái quá đà
+-quay vòng thừa
+-sự quay vòng thừa

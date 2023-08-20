@@ -1,3 +1,44 @@
-spout
-	@spout /spaut/\n*  danh từ\n- vòi (ấm tích)\n- ống máng\n- (từ lóng) hiệu cầm đồ\n=to be up the spout+ (từ lóng) nằm ở hiệu cầm đồ (đồ vật); khánh kiệt, cùng quẫn\n- cây nước, cột nước\n- (như) spout-hole\n*  ngoại động từ\n- làm phun ra, làm bắn ra\n- ngâm (thơ); đọc một cách hùng hồn khoa trương\n- (từ lóng) cầm (đồ)\n*  nội động từ\n- phun ra, bắn ra (nước...)\n=blood spouts from wound+ máu phun từ vết thương ra\n- phun nước (cá voi)\n@Chuyên ngành kinh tế\n-cửa hiệu cầm đồ\n-hiệu cầm đồ\n-ống xả\n-tiệm cầm đồ\n-vòi phun\n@Chuyên ngành kỹ thuật\n-cột nước\n-máng tháo\n-miệng\n-miệng phun\n-miệng rót\n-ống pô\n-ống tháo nước\n-phun\n-rãnh rót\n-rãnh trào (phương pháp cắt lăn)\n-vòi phun\n-vòi phun (bơm)\n-vòi rót\n@Lĩnh vực: cơ khí & công trình\n-cổ bình\n-máng ra\n@Lĩnh vực: xây dựng\n-máng tháo cạn nước\n-tia phun cột nước\n@Lĩnh vực: toán & tin\n-tia phun, cột nước
-
+spout	@spout /spaut/
+*  danh từ
+- vòi (ấm tích)
+- ống máng
+- (từ lóng) hiệu cầm đồ
+=to be up the spout+ (từ lóng) nằm ở hiệu cầm đồ (đồ vật); khánh kiệt, cùng quẫn
+- cây nước, cột nước
+- (như) spout-hole
+*  ngoại động từ
+- làm phun ra, làm bắn ra
+- ngâm (thơ); đọc một cách hùng hồn khoa trương
+- (từ lóng) cầm (đồ)
+*  nội động từ
+- phun ra, bắn ra (nước...)
+=blood spouts from wound+ máu phun từ vết thương ra
+- phun nước (cá voi)
+@Chuyên ngành kinh tế
+-cửa hiệu cầm đồ
+-hiệu cầm đồ
+-ống xả
+-tiệm cầm đồ
+-vòi phun
+@Chuyên ngành kỹ thuật
+-cột nước
+-máng tháo
+-miệng
+-miệng phun
+-miệng rót
+-ống pô
+-ống tháo nước
+-phun
+-rãnh rót
+-rãnh trào (phương pháp cắt lăn)
+-vòi phun
+-vòi phun (bơm)
+-vòi rót
+@Lĩnh vực: cơ khí & công trình
+-cổ bình
+-máng ra
+@Lĩnh vực: xây dựng
+-máng tháo cạn nước
+-tia phun cột nước
+@Lĩnh vực: toán & tin
+-tia phun, cột nước

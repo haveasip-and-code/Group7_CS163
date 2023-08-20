@@ -1,3 +1,4 @@
-bakeshop
-	@Chuyên ngành kinh tế\n-hiệu bánh mỳ\n-lò bánh mỳ
-
+bakeshop	
+@Chuyên ngành kinh tế
+-hiệu bánh mỳ
+-lò bánh mỳ

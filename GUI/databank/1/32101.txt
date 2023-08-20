@@ -1,3 +1,11 @@
-librate
-	@librate /lai'breit/\n*  nội động từ\n- đu đưa, lúc lắc, bập bềnh\n@Chuyên ngành kỹ thuật\n-dao động\n-lúc lắc\n-lung lay\n@Chuyên ngành kỹ thuật\n-dao động\n-lúc lắc\n-lung lay
-
+librate	@librate /lai'breit/
+*  nội động từ
+- đu đưa, lúc lắc, bập bềnh
+@Chuyên ngành kỹ thuật
+-dao động
+-lúc lắc
+-lung lay
+@Chuyên ngành kỹ thuật
+-dao động
+-lúc lắc
+-lung lay

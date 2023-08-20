@@ -1,3 +1,6 @@
-insphere
-	@insphere\n- (hình học) hình cầu nội tiếp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình cầu nội tiếp
-
+insphere	
+@insphere
+- (hình học) hình cầu nội tiếp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình cầu nội tiếp

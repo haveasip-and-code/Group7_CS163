@@ -1,3 +1,4 @@
-repainting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự nhuộm lại\n-sự sơn lại
-
+repainting	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự nhuộm lại
+-sự sơn lại

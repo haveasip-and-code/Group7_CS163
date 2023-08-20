@@ -1,3 +1,9 @@
-fired
-	@Chuyên ngành kỹ thuật\n-đã đốt\n@Lĩnh vực: hóa học & vật liệu\n-được đốt\n@Chuyên ngành kỹ thuật\n-đã đốt\n@Lĩnh vực: hóa học & vật liệu\n-được đốt
-
+fired	
+@Chuyên ngành kỹ thuật
+-đã đốt
+@Lĩnh vực: hóa học & vật liệu
+-được đốt
+@Chuyên ngành kỹ thuật
+-đã đốt
+@Lĩnh vực: hóa học & vật liệu
+-được đốt

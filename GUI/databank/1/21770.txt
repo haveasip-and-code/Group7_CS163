@@ -1,3 +1,12 @@
-footer
-	@footer /'futə/\n*  danh từ\n- (từ lóng) môn bóng đá\n@Chuyên ngành kinh tế\n-cơ cấu cấp liệu\n-cơ cấu nạp liệu\n@Chuyên ngành kỹ thuật\n-dòng cuối trang\n@Lĩnh vực: toán & tin\n-chân trang\n-cuối trang
-
+footer	
+@footer /'futə/
+*  danh từ
+- (từ lóng) môn bóng đá
+@Chuyên ngành kinh tế
+-cơ cấu cấp liệu
+-cơ cấu nạp liệu
+@Chuyên ngành kỹ thuật
+-dòng cuối trang
+@Lĩnh vực: toán & tin
+-chân trang
+-cuối trang

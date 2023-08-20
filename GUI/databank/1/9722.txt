@@ -1,3 +1,18 @@
-cleft
-	@cleft /kleft/\n*  danh từ\n- đường nứt, kẽ, khe\n*  thời quá khứ & động tính từ quá khứ của cleave\n*  tính từ\n- bị bổ ra, bị chẻ ra; nứt ra\n!in a cleft stick\n- (xem) stick\n!cleft palate\n- (y học) sứt hàm ếch, sứt vòm miệng\n@Chuyên ngành kỹ thuật\n-cái chêm\n-cái chèn\n-kẽ nứt\n-khe hở\n-khe nứt\n@Lĩnh vực: y học\n-khe, kẽ\n-nứt, vết chẻ
-
+cleft	
+@cleft /kleft/
+*  danh từ
+- đường nứt, kẽ, khe
+*  thời quá khứ & động tính từ quá khứ của cleave
+*  tính từ
+- bị bổ ra, bị chẻ ra; nứt ra!in a cleft stick
+- (xem) stick!cleft palate
+- (y học) sứt hàm ếch, sứt vòm miệng
+@Chuyên ngành kỹ thuật
+-cái chêm
+-cái chèn
+-kẽ nứt
+-khe hở
+-khe nứt
+@Lĩnh vực: y học
+-khe, kẽ
+-nứt, vết chẻ

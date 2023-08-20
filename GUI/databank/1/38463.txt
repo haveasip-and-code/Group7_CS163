@@ -1,3 +1,14 @@
-outer
-	@outer /'autə/\n*  tính từ\n- ở phía ngoài, ở xa hơn\n=the outer space+ vũ trụ, khoảng không ngoài quyển khí\n=the outer world+ thế giới vật chất bên ngoài, xã hội bên ngoài\n*  danh từ\n- vòng ngoài cùng (mục tiêu)\n- phát bắn vào vòng ngoài cùng (của mục tiêu)\n@Chuyên ngành kỹ thuật\n-ngoài\n@Lĩnh vực: xây dựng\n-ở phía ngoài\n@Lĩnh vực: toán & tin\n-ở xa hơn
-
+outer	@outer /'autə/
+*  tính từ
+- ở phía ngoài, ở xa hơn
+=the outer space+ vũ trụ, khoảng không ngoài quyển khí
+=the outer world+ thế giới vật chất bên ngoài, xã hội bên ngoài
+*  danh từ
+- vòng ngoài cùng (mục tiêu)
+- phát bắn vào vòng ngoài cùng (của mục tiêu)
+@Chuyên ngành kỹ thuật
+-ngoài
+@Lĩnh vực: xây dựng
+-ở phía ngoài
+@Lĩnh vực: toán & tin
+-ở xa hơn

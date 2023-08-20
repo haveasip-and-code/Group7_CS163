@@ -1,3 +1,2 @@
-nearest
-	@Chuyên ngành kỹ thuật\n-gần nhất
-
+nearest	@Chuyên ngành kỹ thuật
+-gần nhất

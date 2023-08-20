@@ -1,3 +1,57 @@
-yard
-	@yard /jɑ:d/\n*  danh từ\n- Iat, thước Anh (bằng 0, 914 mét)\n- (hàng hải) trục căng buồm\n=to be yard and yard+ kề sát nhau, sóng nhau (hai chiếc thuyền)\n*  danh từ\n- sân (có rào xung quanh)\n=back yard+ sân sau\n- bãi rào (để chăn nuôi)\n- xưởng; kho\n=shipbuilding yard+ xưởng đóng tàu\n=contractor's yard+ xưởng chứa vật liệu\n*  ngoại động từ\n- đưa súc vật vào bãi rào\n@Chuyên ngành kinh tế\n-thước Anh\n@Chuyên ngành kinh tế\n-bãi\n-bãi (chất hàng)\n-giấy bạc 100 đô-la\n-kho\n-khu vực\n-lat\n-xưởng\n@Chuyên ngành kỹ thuật\n-bãi\n-bãi rào\n-công trường\n-ga lập tàu\n-kho gỗ\n-nhà máy\n-sàn\n-xưởng\n-yat\n@Lĩnh vực: xây dựng\n-bãi chứa hàng hóa\n-bãi để vật liệu\n-bãi dỡ hàng\n-bãi vật tư\n-chiều dài=0, 914m\n-công trường thử nghiệm\n-khu đất của một khu công cộng\n-sân\n-thể tích=0, 765m3\n-thước Anh (0, 09144m)\n@Lĩnh vực: giao thông & vận tải\n-bãi chứa, lập tàu\n@Lĩnh vực: điện\n-kho bãi\n-thước Anh\n@Lĩnh vực: cơ khí & công trình\n-thước Anh (0, 9144m)\n-yard = 0, 914m\n@Lĩnh vực: điện lạnh\n-yat (=0, 9144m)\n@Lĩnh vực: hóa học & vật liệu\n-yat (đơn vị đo chiều dài Anh bằng 0, 914m)
-
+yard	@yard /jɑ:d/
+*  danh từ
+- Iat, thước Anh (bằng 0, 914 mét)
+- (hàng hải) trục căng buồm
+=to be yard and yard+ kề sát nhau, sóng nhau (hai chiếc thuyền)
+*  danh từ
+- sân (có rào xung quanh)
+=back yard+ sân sau
+- bãi rào (để chăn nuôi)
+- xưởng; kho
+=shipbuilding yard+ xưởng đóng tàu
+=contractor's yard+ xưởng chứa vật liệu
+*  ngoại động từ
+- đưa súc vật vào bãi rào
+@Chuyên ngành kinh tế
+-thước Anh
+@Chuyên ngành kinh tế
+-bãi
+-bãi (chất hàng)
+-giấy bạc 100 đô-la
+-kho
+-khu vực
+-lat
+-xưởng
+@Chuyên ngành kỹ thuật
+-bãi
+-bãi rào
+-công trường
+-ga lập tàu
+-kho gỗ
+-nhà máy
+-sàn
+-xưởng
+-yat
+@Lĩnh vực: xây dựng
+-bãi chứa hàng hóa
+-bãi để vật liệu
+-bãi dỡ hàng
+-bãi vật tư
+-chiều dài=0, 914m
+-công trường thử nghiệm
+-khu đất của một khu công cộng
+-sân
+-thể tích=0, 765m3
+-thước Anh (0, 09144m)
+@Lĩnh vực: giao thông & vận tải
+-bãi chứa, lập tàu
+@Lĩnh vực: điện
+-kho bãi
+-thước Anh
+@Lĩnh vực: cơ khí & công trình
+-thước Anh (0, 9144m)
+-yard = 0, 914m
+@Lĩnh vực: điện lạnh
+-yat (=0, 9144m)
+@Lĩnh vực: hóa học & vật liệu
+-yat (đơn vị đo chiều dài Anh bằng 0, 914m)

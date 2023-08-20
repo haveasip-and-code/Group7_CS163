@@ -1,3 +1,2 @@
-acned
-	@acned\n- xem acne
-
+acned	@acned
+- xem acne

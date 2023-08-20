@@ -1,3 +1,19 @@
-orbit
-	@orbit /'ɔ:bit/\n*  danh từ\n- (giải phẫu) ổ mắt\n- (sinh vật học) mép viền mắt (chim, sâu bọ)\n- quỹ đạo\n- (nghĩa bóng) lĩnh vực hoạt động\n*  ngoại động từ\n- đi vào quỹ đạo, đi theo quỹ đạo\n*  ngoại động từ\n- đưa vào quỹ đạo (con tàu vũ trụ...)\n@Chuyên ngành kỹ thuật\n-bay theo quỹ đạo\n-đường đi\n-quỹ đạo\n@Lĩnh vực: toán & tin\n-đi theo quỹ đạo\n-mặt chuyển tiếp\n@Lĩnh vực: y học\n-ổ mắt
-
+orbit	@orbit /'ɔ:bit/
+*  danh từ
+- (giải phẫu) ổ mắt
+- (sinh vật học) mép viền mắt (chim, sâu bọ)
+- quỹ đạo
+- (nghĩa bóng) lĩnh vực hoạt động
+*  ngoại động từ
+- đi vào quỹ đạo, đi theo quỹ đạo
+*  ngoại động từ
+- đưa vào quỹ đạo (con tàu vũ trụ...)
+@Chuyên ngành kỹ thuật
+-bay theo quỹ đạo
+-đường đi
+-quỹ đạo
+@Lĩnh vực: toán & tin
+-đi theo quỹ đạo
+-mặt chuyển tiếp
+@Lĩnh vực: y học
+-ổ mắt

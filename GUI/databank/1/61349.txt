@@ -1,3 +1,30 @@
-vector
-	@vector\n- vectơ\n- axial v. xectơ trục\n- basis . xectơ cơ sở\n- bound v. vectơ buộc\n- characterictic v. vectơ [đặc trưng, riêng]\n- complement v. vectơ bù\n- complanar v. vectơ đồng phẳng\n- correction v. vectơ hiệu chính\n- dominant v. vectơ trội\n- irroational v. vectơ vô rôta\n- latent v. vectơ riêng\n- localized v. (hình học) vectơ buộc\n- mean curvature v. vectơ độ cong trung bình\n- non-vanishing v. (hình học) vectơ không gian\n- normal curvature v. vectơ độ cong pháp tuyến\n- orthogonal v. vectơ trục giao\n- orthonormal v.s vectơ trục chuẩn\n- porla v. vectơ cực\n- polarization v. vectơ phân cực\n- price v. vectơ giá\n- probability v. vectơ xác suất\n- radius v. vectơ bán kính\n- row v. vectơ hàng\n- sliding v. vectơ trượt\n- symbolic v. vectơ kí hiệu\n- tangent v. vectơ tiếp xúc\n- unit v. vectơ đơn vị\n- velocity v. (vật lí) vectơ vận tốc\n- zero v. vectơ không
-
+vector	@vector
+- vectơ
+- axial v. xectơ trục
+- basis . xectơ cơ sở
+- bound v. vectơ buộc
+- characterictic v. vectơ [đặc trưng, riêng]
+- complement v. vectơ bù
+- complanar v. vectơ đồng phẳng
+- correction v. vectơ hiệu chính
+- dominant v. vectơ trội
+- irroational v. vectơ vô rôta
+- latent v. vectơ riêng
+- localized v. (hình học) vectơ buộc
+- mean curvature v. vectơ độ cong trung bình
+- non-vanishing v. (hình học) vectơ không gian
+- normal curvature v. vectơ độ cong pháp tuyến
+- orthogonal v. vectơ trục giao
+- orthonormal v.s vectơ trục chuẩn
+- porla v. vectơ cực
+- polarization v. vectơ phân cực
+- price v. vectơ giá
+- probability v. vectơ xác suất
+- radius v. vectơ bán kính
+- row v. vectơ hàng
+- sliding v. vectơ trượt
+- symbolic v. vectơ kí hiệu
+- tangent v. vectơ tiếp xúc
+- unit v. vectơ đơn vị
+- velocity v. (vật lí) vectơ vận tốc
+- zero v. vectơ không

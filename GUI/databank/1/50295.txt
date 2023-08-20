@@ -1,3 +1,4 @@
-shellfish
-	@shellfish /'ʃelfiʃ/\n*  danh từ\n- loài sò hến\n- loài tôm cua
-
+shellfish	@shellfish /'ʃelfiʃ/
+*  danh từ
+- loài sò hến
+- loài tôm cua

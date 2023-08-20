@@ -1,3 +1,2 @@
-packager
-	@packager\n- xem package
-
+packager	@packager
+- xem package

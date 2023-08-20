@@ -1,3 +1,5 @@
-theta
-	@theta\n- têta (&#952;)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-theta (q)
-
+theta	@theta
+- têta (&#952;)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-theta (q)

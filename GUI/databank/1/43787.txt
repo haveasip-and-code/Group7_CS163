@@ -1,3 +1,4 @@
-procreant
-	@procreant /procreant/\n*  tính từ\n- (như) procreative\n- (thuộc) sinh đẻ
-
+procreant	@procreant /procreant/
+*  tính từ
+- (như) procreative
+- (thuộc) sinh đẻ

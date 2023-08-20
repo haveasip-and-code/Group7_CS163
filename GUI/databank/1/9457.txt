@@ -1,3 +1,21 @@
-circulate
-	@circulate /'sə:kjuleit/\n*  ngoại động từ\n- lưu hành, truyền, truyền bá\n=to circulate news+ truyền tin\n*  nội động từ\n- lưu thông, luân chuyển, tuần hoàn\n=blood circulates in the body+ máu lưu thông (tuần hoàn) trong cơ thể\n- lưu hành (tiền)\n- lan truyền\n=news circulates quickly+ tin lan truyền nhanh chóng\n@Chuyên ngành kỹ thuật\n-chuyển\n-đi vòng quanh\n-luân chuyển\n-lưu thông\n-tuần hoàn\n@Lĩnh vực: toán & tin\n-chu chuyển\n@Lĩnh vực: điện lạnh\n-tuần hoàn (không khí)
-
+circulate	
+@circulate /'sə:kjuleit/
+*  ngoại động từ
+- lưu hành, truyền, truyền bá=to circulate news
++ truyền tin
+*  nội động từ
+- lưu thông, luân chuyển, tuần hoàn=blood circulates in the body
++ máu lưu thông (tuần hoàn) trong cơ thể
+- lưu hành (tiền)
+- lan truyền=news circulates quickly
++ tin lan truyền nhanh chóng
+@Chuyên ngành kỹ thuật
+-chuyển
+-đi vòng quanh
+-luân chuyển
+-lưu thông
+-tuần hoàn
+@Lĩnh vực: toán & tin
+-chu chuyển
+@Lĩnh vực: điện lạnh
+-tuần hoàn (không khí)

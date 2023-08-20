@@ -1,3 +1,13 @@
-software
-	@software\n* danh từ\n- phần mềm (của máy tính)\n@Chuyên ngành kinh tế\n-phần mềm (của máy tính)\n-phần mềm (máy vi tính)\n@Chuyên ngành kỹ thuật\n-chương trình\n-chương trình phần mềm\n@Lĩnh vực: toán & tin\n-phần mềm (máy tính)\n@Lĩnh vực: điện\n-phím mềm
-
+software	@software
+* danh từ
+- phần mềm (của máy tính)
+@Chuyên ngành kinh tế
+-phần mềm (của máy tính)
+-phần mềm (máy vi tính)
+@Chuyên ngành kỹ thuật
+-chương trình
+-chương trình phần mềm
+@Lĩnh vực: toán & tin
+-phần mềm (máy tính)
+@Lĩnh vực: điện
+-phím mềm

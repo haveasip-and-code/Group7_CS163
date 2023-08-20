@@ -1,3 +1,14 @@
-reassemble
-	@reassemble /'ri:ə'sembl/\n*  động từ\n- tập hợp lại\n- lắp lại, ráp lại\n=to reassemble a watch+ lắp (ráp) lại một cái đồng hồ\n@Chuyên ngành kỹ thuật\n-ghép lại\n-lắp lại\n-ráp\n-ráp lại\n@Lĩnh vực: xây dựng\n-tái lắp ráp\n@Lĩnh vực: hóa học & vật liệu\n-tập hợp lại
-
+reassemble	@reassemble /'ri:ə'sembl/
+*  động từ
+- tập hợp lại
+- lắp lại, ráp lại
+=to reassemble a watch+ lắp (ráp) lại một cái đồng hồ
+@Chuyên ngành kỹ thuật
+-ghép lại
+-lắp lại
+-ráp
+-ráp lại
+@Lĩnh vực: xây dựng
+-tái lắp ráp
+@Lĩnh vực: hóa học & vật liệu
+-tập hợp lại

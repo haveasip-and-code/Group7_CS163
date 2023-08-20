@@ -1,3 +1,8 @@
-protozoan
-	@protozoan\n* danh từ\n- động vật nguyên sinh, sinh vật đơn bào\n* tính từ\n- (thuộc) động vật nguyên sinh, (thuộc) sinh vật đơn bào\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-động vật nguyên sinh
-
+protozoan	@protozoan
+* danh từ
+- động vật nguyên sinh, sinh vật đơn bào
+* tính từ
+- (thuộc) động vật nguyên sinh, (thuộc) sinh vật đơn bào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-động vật nguyên sinh

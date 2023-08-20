@@ -1,3 +1,6 @@
-bookable
-	@bookable\n* tính từ\n- có thể đặt mua trước, có thể đăng ký trước\n@Chuyên ngành kinh tế\n-có thể đặt trước\n-có thể mua trước
-
+bookable	@bookable
+* tính từ
+- có thể đặt mua trước, có thể đăng ký trước
+@Chuyên ngành kinh tế
+-có thể đặt trước
+-có thể mua trước

@@ -1,3 +1,4 @@
-guards
-	@guards\n* danh từ số nhiều\n- lính bảo vệ; đội bảo vệ
-
+guards	
+@guards
+* danh từ số nhiều
+- lính bảo vệ; đội bảo vệ

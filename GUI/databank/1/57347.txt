@@ -1,3 +1,11 @@
-transceiver
-	@transceiver /træn'si:və/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) ((viết tắt) của transmitter-receiver) máy thu phát\n@Chuyên ngành kinh tế\n-máy thu phát\n@Chuyên ngành kỹ thuật\n-bộ thu-phát\n-máy thu phát\n-máy thu-phát\n@Lĩnh vực: xây dựng\n-máy thâu và phát
-
+transceiver	@transceiver /træn'si:və/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) ((viết tắt) của transmitter-receiver) máy thu phát
+@Chuyên ngành kinh tế
+-máy thu phát
+@Chuyên ngành kỹ thuật
+-bộ thu-phát
+-máy thu phát
+-máy thu-phát
+@Lĩnh vực: xây dựng
+-máy thâu và phát

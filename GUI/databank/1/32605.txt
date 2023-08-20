@@ -1,3 +1,16 @@
-lode
-	@lode /loud/\n*  danh từ\n- mạch mỏ\n- rãnh nước; máng dẫn nước\n@Chuyên ngành kỹ thuật\n-đường thoát nước\n-mạch\n-mạch quặng\n-máng dẫn nước\n-vỉa\n@Chuyên ngành kỹ thuật\n-đường thoát nước\n-mạch\n-mạch quặng\n-máng dẫn nước\n-vỉa
-
+lode	@lode /loud/
+*  danh từ
+- mạch mỏ
+- rãnh nước; máng dẫn nước
+@Chuyên ngành kỹ thuật
+-đường thoát nước
+-mạch
+-mạch quặng
+-máng dẫn nước
+-vỉa
+@Chuyên ngành kỹ thuật
+-đường thoát nước
+-mạch
+-mạch quặng
+-máng dẫn nước
+-vỉa

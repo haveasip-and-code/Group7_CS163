@@ -1,3 +1,7 @@
-stanza
-	@stanza /'stænzə/\n*  danh từ\n- đoạn thơ, khổ thơ\n- Xtăngxơ, thơ tứ tuyệt\n@Chuyên ngành kỹ thuật\n-buồng\n-phòng
-
+stanza	@stanza /'stænzə/
+*  danh từ
+- đoạn thơ, khổ thơ
+- Xtăngxơ, thơ tứ tuyệt
+@Chuyên ngành kỹ thuật
+-buồng
+-phòng

@@ -1,3 +1,3 @@
-cloner
-	@cloner\n- xem clone
-
+cloner	
+@cloner
+- xem clone

@@ -1,3 +1,35 @@
-conduit
-	@conduit /'kɔndit/\n*  danh từ\n- máng nước\n- ống cách điện\n@Chuyên ngành kỹ thuật\n-đường dẫn\n-đường ống\n-đường ống dẫn\n-đường tâm\n-kênh\n-mạch dẫn (địa chất)\n-máng\n-máng cáp\n-máng dẫn\n-máng nước\n-ống\n-ống cáp\n-ống dẫn\n-ống dẫn chất lỏng\n-ống dẫn nước\n-ống nước\n@Lĩnh vực: xây dựng\n-đường dẫn (hơi khí)\n-đường ống (lắp đặt)\n-hộp kỹ thuật điện\n-ống dẫn chất khí\n@Lĩnh vực: điện\n-máng ống\n-ống bọc dây điện\n-ống chứa dây (điện)\n-ống dẫn cách điện\n-ống lót cách điện\n@Lĩnh vực: điện tử & viễn thông\n-ống dẫn (cáp)
-
+conduit	
+@conduit /'kɔndit/
+*  danh từ
+- máng nước
+- ống cách điện
+@Chuyên ngành kỹ thuật
+-đường dẫn
+-đường ống
+-đường ống dẫn
+-đường tâm
+-kênh
+-mạch dẫn (địa chất)
+-máng
+-máng cáp
+-máng dẫn
+-máng nước
+-ống
+-ống cáp
+-ống dẫn
+-ống dẫn chất lỏng
+-ống dẫn nước
+-ống nước
+@Lĩnh vực: xây dựng
+-đường dẫn (hơi khí)
+-đường ống (lắp đặt)
+-hộp kỹ thuật điện
+-ống dẫn chất khí
+@Lĩnh vực: điện
+-máng ống
+-ống bọc dây điện
+-ống chứa dây (điện)
+-ống dẫn cách điện
+-ống lót cách điện
+@Lĩnh vực: điện tử & viễn thông
+-ống dẫn (cáp)

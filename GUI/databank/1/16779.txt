@@ -1,3 +1,60 @@
-dress
-	@dress /dres/\n*  danh từ\n- quần áo\n=in full dress+ ăn mặc lễ phục\n=in evening dress+ mặc quần áo dự dạ hội (đàn bà); mặc lễ phục (đàn ông)\n=a (the) dress+ áo dài phụ nữ\n- vỏ ngoài, cái bọc ngoài, vẻ ngoài\n*  ngoại động từ\n- mặc (quần áo...), ăn mặc\n=to be dressed in black+ mặc đồ đen\n=to be well dressed+ ăn mặc sang trọng\n- băng bó, đắp thuốc (người bị thương, vết thương)\n- (quân sự) sửa lại hàng ngũ cho thẳng hàng, treo cờ xí (tàu thuỷ); bày biện (mặt hàng)\n- sắm quần áo (cho một vở kịch)\n- đẽo gọt (gỗ, đá), mài giũa (đồ thép...), mài nhẵn (mặt đá...)\n- hồ (vải); thuộc (da)\n- chải, vấn (tóc, đầu); chải (lông ngựa)\n- sửa (vườn) tỉa, xén (cây)\n- sửa soạn, nêm đồ gia vị, nấu (thức ăn)\n- xới, làm (đất); bón phân (ruộng)\n*  nội động từ\n- mặc quần áo, ăn mặc\n=to dress well+ ăn mặc sang trọng\n- mặc lễ phục (dự dạ hội...)\n=to dress for dinner+ mặc lễ phục để ăn cơm tối\n- (quân sự) xếp thẳng hàng\n=right dress!+ bên phải thẳng hàng!\n=dress up!+ tiến lên thẳng hàng!\n=dress back!+ lùi thẳng hàng!\n!to dress down\n- (thông tục) chỉnh, mắng mỏ; đánh đập\n- đẽo, gọt, mài giũa\n!to dress out\n- diện ngất, "lên khung"\n!to dress up\n- diện bảnh; ăn mặc chải chuốt tề chỉnh\n- mặc quần áo hội nhảy giả trang\n!to be dressed up to the nines (to the knocker)\n- "lên khung" , diện ngất\n@Chuyên ngành kinh tế\n-cái bọc ngoài\n-sự ướp lạnh (thịt, cá)\n-vỏ ngoài\n@Chuyên ngành kỹ thuật\n-bao phủ\n-bạt\n-đẽo\n-đẽo đá\n-điều chỉnh đúng\n-gia công tinh\n-hoàn thiện\n-làm giàu\n-làm giàu quặng\n-nắn sửa\n-mài bóng\n-mài giũa\n-mài nhẵn\n-sửa\n-tuyển quặng\n@Lĩnh vực: cơ khí & công trình\n-chỉnh đúng\n@Lĩnh vực: xây dựng\n-mài bóng (đá)
-
+dress	
+@dress /dres/
+*  danh từ
+- quần áo=in full dress
++ ăn mặc lễ phục=in evening dress
++ mặc quần áo dự dạ hội (đàn bà); mặc lễ phục (đàn ông)=a (the) dress
++ áo dài phụ nữ
+- vỏ ngoài, cái bọc ngoài, vẻ ngoài
+*  ngoại động từ
+- mặc (quần áo...), ăn mặc=to be dressed in black
++ mặc đồ đen=to be well dressed
++ ăn mặc sang trọng
+- băng bó, đắp thuốc (người bị thương, vết thương)
+- (quân sự) sửa lại hàng ngũ cho thẳng hàng, treo cờ xí (tàu thuỷ); bày biện (mặt hàng)
+- sắm quần áo (cho một vở kịch)
+- đẽo gọt (gỗ, đá), mài giũa (đồ thép...), mài nhẵn (mặt đá...)
+- hồ (vải); thuộc (da)
+- chải, vấn (tóc, đầu); chải (lông ngựa)
+- sửa (vườn) tỉa, xén (cây)
+- sửa soạn, nêm đồ gia vị, nấu (thức ăn)
+- xới, làm (đất); bón phân (ruộng)
+*  nội động từ
+- mặc quần áo, ăn mặc=to dress well
++ ăn mặc sang trọng
+- mặc lễ phục (dự dạ hội...)=to dress for dinner
++ mặc lễ phục để ăn cơm tối
+- (quân sự) xếp thẳng hàng=right dress!
++ bên phải thẳng hàng!=dress up!
++ tiến lên thẳng hàng!=dress back!
++ lùi thẳng hàng!!to dress down
+- (thông tục) chỉnh, mắng mỏ; đánh đập
+- đẽo, gọt, mài giũa!to dress out
+- diện ngất, "lên khung"!to dress up
+- diện bảnh; ăn mặc chải chuốt tề chỉnh
+- mặc quần áo hội nhảy giả trang!to be dressed up to the nines (to the knocker)
+- "lên khung" , diện ngất
+@Chuyên ngành kinh tế
+-cái bọc ngoài
+-sự ướp lạnh (thịt, cá)
+-vỏ ngoài
+@Chuyên ngành kỹ thuật
+-bao phủ
+-bạt
+-đẽo
+-đẽo đá
+-điều chỉnh đúng
+-gia công tinh
+-hoàn thiện
+-làm giàu
+-làm giàu quặng
+-nắn sửa
+-mài bóng
+-mài giũa
+-mài nhẵn
+-sửa
+-tuyển quặng
+@Lĩnh vực: cơ khí & công trình
+-chỉnh đúng
+@Lĩnh vực: xây dựng
+-mài bóng (đá)

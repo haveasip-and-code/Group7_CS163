@@ -1,3 +1,2 @@
-uglily
-	@uglily\n- xem ugly
-
+uglily	@uglily
+- xem ugly

@@ -1,3 +1,36 @@
-chafe
-	@chafe /tʃeif/\n*  danh từ\n- sự chà xát\n- chỗ trầy da, chỗ phồng giộp lên (ở da)\n- chỗ xơ ra (sợi dây)\n- sự chọc tức, sự trêu tức; sự nổi cáu, sự nổi giận\n=to be in a chafe+ nổi cáu, nổi giận\n*  ngoại động từ\n- chà xát, xoa (tay cho nóng)\n- làm trầy, làm phồng (da)\n- cọ cho xơ ra (sợi dây)\n- làm tức mình, làm bực dọc; chọc tức, trêu tức\n*  nội động từ\n- chà xát cọ\n- trầy, phồng lên (da)\n- xơ ra (dây)\n- bực mình, cáu tiết, phát cáu, nổi giận\n@Chuyên ngành kinh tế\n-chà\n-sự chà xát\n-xát\n-xước (gây thiệt hại cho hàng chở)\n@Chuyên ngành kỹ thuật\n-cọ xát\n-làm hỏng\n-làm mòn\n-mài mòn\n-sự mài mòn\n@Lĩnh vực: xây dựng\n-làm mỏng\n@Lĩnh vực: y học\n-sự kích thích da\n@Lĩnh vực: cơ khí & công trình\n-xơ ra (dây)\n-xước
-
+chafe	
+@chafe /tʃeif/
+*  danh từ
+- sự chà xát
+- chỗ trầy da, chỗ phồng giộp lên (ở da)
+- chỗ xơ ra (sợi dây)
+- sự chọc tức, sự trêu tức; sự nổi cáu, sự nổi giận=to be in a chafe
++ nổi cáu, nổi giận
+*  ngoại động từ
+- chà xát, xoa (tay cho nóng)
+- làm trầy, làm phồng (da)
+- cọ cho xơ ra (sợi dây)
+- làm tức mình, làm bực dọc; chọc tức, trêu tức
+*  nội động từ
+- chà xát cọ
+- trầy, phồng lên (da)
+- xơ ra (dây)
+- bực mình, cáu tiết, phát cáu, nổi giận
+@Chuyên ngành kinh tế
+-chà
+-sự chà xát
+-xát
+-xước (gây thiệt hại cho hàng chở)
+@Chuyên ngành kỹ thuật
+-cọ xát
+-làm hỏng
+-làm mòn
+-mài mòn
+-sự mài mòn
+@Lĩnh vực: xây dựng
+-làm mỏng
+@Lĩnh vực: y học
+-sự kích thích da
+@Lĩnh vực: cơ khí & công trình
+-xơ ra (dây)
+-xước

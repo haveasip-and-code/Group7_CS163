@@ -1,3 +1,16 @@
-infect
-	@infect /in'fekt/\n*  ngoại động từ\n- nhiễm, làm nhiễm độc, làm nhiễm trùng\n- tiêm nhiễm, đầu độc\n=to infect someone with pernicious ideas+ tiêm nhiễm cho ai những ý nghĩ độc hại\n- lan truyền, làm lây\n=his courage infected his mates+ lòng dũng cảm của anh ta lan truyền sang đồng đội\n@Chuyên ngành kinh tế\n-làm nhiễm độc\n-nhiễm\n@Chuyên ngành kỹ thuật\n-kết luận\n-suy luận\n@Lĩnh vực: toán & tin\n-gây ảnh hưởng
-
+infect	
+@infect /in'fekt/
+*  ngoại động từ
+- nhiễm, làm nhiễm độc, làm nhiễm trùng
+- tiêm nhiễm, đầu độc=to infect someone with pernicious ideas
++ tiêm nhiễm cho ai những ý nghĩ độc hại
+- lan truyền, làm lây=his courage infected his mates
++ lòng dũng cảm của anh ta lan truyền sang đồng đội
+@Chuyên ngành kinh tế
+-làm nhiễm độc
+-nhiễm
+@Chuyên ngành kỹ thuật
+-kết luận
+-suy luận
+@Lĩnh vực: toán & tin
+-gây ảnh hưởng

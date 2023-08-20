@@ -1,3 +1,17 @@
-influence
-	@influence /'influəns/\n*  danh từ\n- ảnh hưởng, tác dụng\n=under the influence of+ chịu ảnh hưởng của, do ảnh hưởng của\n=to exercise one's influence on someone+ gây ảnh hưởng đối với ai, phát huy ảnh hưởng đối với ai\n- uy thế, thế lực\n=a person of influence+ người có thế lực\n- người có ảnh hưởng; điều có ảnh hưởng; điều có tác dụng\n- người có thế lực\n@Chuyên ngành kinh tế\n-dồn vào\n-luồng vốn tràn vào\n-sự tràn vào của tư bản\n@Chuyên ngành kỹ thuật\n-ảnh hưởng\n-tác động
-
+influence	
+@influence /'influəns/
+*  danh từ
+- ảnh hưởng, tác dụng=under the influence of
++ chịu ảnh hưởng của, do ảnh hưởng của=to exercise one's influence on someone
++ gây ảnh hưởng đối với ai, phát huy ảnh hưởng đối với ai
+- uy thế, thế lực=a person of influence
++ người có thế lực
+- người có ảnh hưởng; điều có ảnh hưởng; điều có tác dụng
+- người có thế lực
+@Chuyên ngành kinh tế
+-dồn vào
+-luồng vốn tràn vào
+-sự tràn vào của tư bản
+@Chuyên ngành kỹ thuật
+-ảnh hưởng
+-tác động

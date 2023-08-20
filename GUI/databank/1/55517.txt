@@ -1,3 +1,26 @@
-tan
-	@tan /tæn/\n*  danh từ\n- vỏ dà, vỏ thuộc da\n- màu nâu\n- màu da rám nắng\n*  tính từ\n- màu vỏ dà, màu nâu\n- màu rám nắng\n*  ngoại động từ\n- thuộc (da)\n- làm sạm, làm rám (da)\n- (thông tục) đánh đòn đau\n*  nội động từ\n- thuộc được (da)\n=this leather tans easily+ loại da này dễ thuộc\n- sạn lại, rám nắng (da)\n@Chuyên ngành kinh tế\n-cá đuôi gai\n-giấy nợ trả trước thuế\n-rong biển đen\n-tảo đen\n-vỏ da\n@Chuyên ngành kỹ thuật\n-nâu vàng\n@Lĩnh vực: hóa học & vật liệu\n-thuộc da
-
+tan	@tan /tæn/
+*  danh từ
+- vỏ dà, vỏ thuộc da
+- màu nâu
+- màu da rám nắng
+*  tính từ
+- màu vỏ dà, màu nâu
+- màu rám nắng
+*  ngoại động từ
+- thuộc (da)
+- làm sạm, làm rám (da)
+- (thông tục) đánh đòn đau
+*  nội động từ
+- thuộc được (da)
+=this leather tans easily+ loại da này dễ thuộc
+- sạn lại, rám nắng (da)
+@Chuyên ngành kinh tế
+-cá đuôi gai
+-giấy nợ trả trước thuế
+-rong biển đen
+-tảo đen
+-vỏ da
+@Chuyên ngành kỹ thuật
+-nâu vàng
+@Lĩnh vực: hóa học & vật liệu
+-thuộc da

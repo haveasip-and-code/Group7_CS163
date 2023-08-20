@@ -1,3 +1,4 @@
-prosaist
-	@prosaist /prosaist/\n*  danh từ\n- người viết văn xuôi\n- người tầm thường, người dung tục
-
+prosaist	@prosaist /prosaist/
+*  danh từ
+- người viết văn xuôi
+- người tầm thường, người dung tục

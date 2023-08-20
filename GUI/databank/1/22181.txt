@@ -1,3 +1,9 @@
-fracturing
-	@Chuyên ngành kỹ thuật\n-sự đứt gãy\n-sự gãy\n-sự nứt\n@Lĩnh vực: xây dựng\n-độ khe nứt\n@Lĩnh vực: hóa học & vật liệu\n-tạo vết nứt
-
+fracturing	
+@Chuyên ngành kỹ thuật
+-sự đứt gãy
+-sự gãy
+-sự nứt
+@Lĩnh vực: xây dựng
+-độ khe nứt
+@Lĩnh vực: hóa học & vật liệu
+-tạo vết nứt

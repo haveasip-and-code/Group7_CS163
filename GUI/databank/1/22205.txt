@@ -1,3 +1,8 @@
-franchising
-	@Chuyên ngành kinh tế\n-đặc quyền kinh doanh\n-độc quyền khai thác\n-độc quyền kinh tiêu\n-độc quyền tổng đại lý\n-quyền chuyên lợi\n-quyền đặc hứa
-
+franchising	
+@Chuyên ngành kinh tế
+-đặc quyền kinh doanh
+-độc quyền khai thác
+-độc quyền kinh tiêu
+-độc quyền tổng đại lý
+-quyền chuyên lợi
+-quyền đặc hứa

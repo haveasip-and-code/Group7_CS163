@@ -1,3 +1,9 @@
-hyperbaric
-	@hyperbaric\n* tính từ\n- dùng bội áp (suất)\n= hyperbaric medical treatment+phép điều trị dùng bội áp\n@Chuyên ngành kỹ thuật\n-áp suất cao\n@Lĩnh vực: y học\n-có áp suất cao hơn áp suất không khí
-
+hyperbaric	
+@hyperbaric
+* tính từ
+- dùng bội áp (suất)= hyperbaric medical treatment
++phép điều trị dùng bội áp
+@Chuyên ngành kỹ thuật
+-áp suất cao
+@Lĩnh vực: y học
+-có áp suất cao hơn áp suất không khí

@@ -1,3 +1,3 @@
-coverslip
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cửa sổ bảo vệ
-
+coverslip	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-cửa sổ bảo vệ

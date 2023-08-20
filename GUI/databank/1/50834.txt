@@ -1,3 +1,12 @@
-singlet
-	@singlet /'siɳglit/\n*  danh từ\n- áo lót mình, áo may ô; áo vệ sinh\n@Chuyên ngành kỹ thuật\n-vạch đơn\n@Lĩnh vực: điện lạnh\n-bộ đơn\n-mức đơn\n@Lĩnh vực: điện tử & viễn thông\n-nhóm đơn\n@Lĩnh vực: vật lý\n-mức đơn (phổ học)
-
+singlet	@singlet /'siɳglit/
+*  danh từ
+- áo lót mình, áo may ô; áo vệ sinh
+@Chuyên ngành kỹ thuật
+-vạch đơn
+@Lĩnh vực: điện lạnh
+-bộ đơn
+-mức đơn
+@Lĩnh vực: điện tử & viễn thông
+-nhóm đơn
+@Lĩnh vực: vật lý
+-mức đơn (phổ học)

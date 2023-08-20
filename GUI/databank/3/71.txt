@@ -1,3 +1,4 @@
-abfarad
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aF (fara hệ CGS điện từ, bằng 10 mũ 9 fara)\n-fara hệ từ
-
+abfarad	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-aF (fara hệ CGS điện từ, bằng 10 mũ 9 fara)
+-fara hệ từ

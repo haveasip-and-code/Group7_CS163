@@ -1,3 +1,17 @@
-balancer
-	@balancer /'bælənse/\n*  danh từ\n- con lắc\n- người làm xiếc trên dây\n@Chuyên ngành kỹ thuật\n-bộ bù\n-bộ cân bằng\n-bộ điều chỉnh\n-bộ làm cân bằng\n-cán cân\n-đối trọng\n-quả cân\n@Lĩnh vực: điện lạnh\n-balăng\n@Lĩnh vực: xây dựng\n-máy bổ chính
-
+balancer	
+@balancer /'bælənse/
+*  danh từ
+- con lắc
+- người làm xiếc trên dây
+@Chuyên ngành kỹ thuật
+-bộ bù
+-bộ cân bằng
+-bộ điều chỉnh
+-bộ làm cân bằng
+-cán cân
+-đối trọng
+-quả cân
+@Lĩnh vực: điện lạnh
+-balăng
+@Lĩnh vực: xây dựng
+-máy bổ chính

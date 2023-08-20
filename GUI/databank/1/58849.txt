@@ -1,3 +1,2 @@
-uncertainness
-	@uncertainness\n- xem uncertain
-
+uncertainness	@uncertainness
+- xem uncertain

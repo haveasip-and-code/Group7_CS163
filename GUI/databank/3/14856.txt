@@ -1,3 +1,2 @@
-destruct
-	@Chuyên ngành kỹ thuật\n-phá hủy
-
+destruct	@Chuyên ngành kỹ thuật
+-phá hủy

@@ -1,3 +1,3 @@
-repeople
-	@repeople /'ri:'pi:pl/\n*  ngoại động từ\n- làm cho lại có dân cư, làm cho lại có người ở, đưa những người ở mới vào
-
+repeople	@repeople /'ri:'pi:pl/
+*  ngoại động từ
+- làm cho lại có dân cư, làm cho lại có người ở, đưa những người ở mới vào

@@ -1,3 +1,2 @@
-tranquilizer
-	@tranquilizer\n- <Mỹ>
-
+tranquilizer	@tranquilizer
+- <Mỹ>

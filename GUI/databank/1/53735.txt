@@ -1,3 +1,100 @@
-string
-	@string /striɳ/\n*  danh từ\n- dây, băng, dải\n- thớ (thịt...); xơ (đậu...)\n- dây đàn\n=the strings+ đàn dây\n=to touch the strings+ đánh đàn\n- chuỗi, xâu, đoàn\n=a string of pearls+ một chuỗi hạt ngọc\n=a string of onions+ một xâu hành\n=a string of horses+ một đoàn ngựa\n- bảng ghi điểm (bia)\n- đàn ngựa thi (cùng một chuồng)\n- vỉa nhỏ (than)\n- (từ Mỹ,nghĩa Mỹ) (số nhiều) điều kiện ràng buộc (kèm theo quà biếu...)\n!the first string\n- quân bài chủ\n- nơi nương tựa chính\n!to have two strings to one's bow\n- (xem) bow\n!to have somebody on a string\n- điều khiển được ai\n!to harp on one string\n- cứ chơi mãi một điệu\n!to pull the strings\n- (xem) pull\n!to touch a string\n- (nghĩa bóng) đụng đến tâm can\n*  ngoại động từ strung\n- buộc bằng dây, treo bằng dây\n- lên (dây đàn); căng (dây)\n- ((thường) động tính từ quá khứ) làm căng thẳng, lên dây cót (nghĩa bóng)\n=highly strung nerves+ thần kinh quá căng thẳng\n- tước xơ (đậu)\n- xâu (hạt cườm...) thành chuỗi\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) chơi khăm, chơi xỏ\n- (thông tục) to string someone along đánh lừa ai\n*  nội động từ\n- kéo dài ra thành dây; chảy thành dây (hồ, keo...)\n- đánh mở đầu (bi a, để xem ai được đi trước)\n!to string along with somebody\n- đi với ai, đi theo ai\n!to string up somebody\n- treo cổ ai\n@Chuyên ngành kinh tế\n-buộc bằng dây\n-dải\n-dạng sợi\n-dạng xơ\n-dây\n-dây bện\n-mì sợi\n-nhầy\n-quánh\n-sự buộc thuốc lá\n-sự đan lưới\n-tước\n-xâu\n-xơ\n@Chuyên ngành kỹ thuật\n-băng\n-dải\n-dầm cầu thang\n-dây\n-dây đàn\n-dây thừng\n-dòng\n-đường kẻ\n-đường kẻ nối\n-đường nổi (trên tường)\n-nhanh\n-sợi dây\n-sự căng\n-sự giằng\n-thanh dài\n-thanh neo\n-xâu\n-xâu ký tự\n@Lĩnh vực: cơ khí & công trình\n-căng (lưỡi cưa, dây cáp)\n-đai truyền tròn\n-lên dây cót\n@Lĩnh vực: toán & tin\n-chuỗi\n-chuỗi ký tự\n-xâu (ký tự)\n@Lĩnh vực: hóa học & vật liệu\n-chuỗi ống\n@Lĩnh vực: điện\n-chuỗi sứ (cách điện)\n@Lĩnh vực: xây dựng\n-cốn thang\n-dầm (cầu) thang\n-dầm đỡ cầu thang\n-rầm (dỡ) cầu thang\n-thanh kéo giằng\n@Lĩnh vực: giao thông & vận tải\n-sợi ray hàn liền\n@Lĩnh vực: điện tử & viễn thông\n-xâu chuỗi
-
+string	@string /striɳ/
+*  danh từ
+- dây, băng, dải
+- thớ (thịt...); xơ (đậu...)
+- dây đàn
+=the strings+ đàn dây
+=to touch the strings+ đánh đàn
+- chuỗi, xâu, đoàn
+=a string of pearls+ một chuỗi hạt ngọc
+=a string of onions+ một xâu hành
+=a string of horses+ một đoàn ngựa
+- bảng ghi điểm (bia)
+- đàn ngựa thi (cùng một chuồng)
+- vỉa nhỏ (than)
+- (từ Mỹ,nghĩa Mỹ) (số nhiều) điều kiện ràng buộc (kèm theo quà biếu...)
+!the first string
+- quân bài chủ
+- nơi nương tựa chính
+!to have two strings to one's bow
+- (xem) bow
+!to have somebody on a string
+- điều khiển được ai
+!to harp on one string
+- cứ chơi mãi một điệu
+!to pull the strings
+- (xem) pull
+!to touch a string
+- (nghĩa bóng) đụng đến tâm can
+*  ngoại động từ strung
+- buộc bằng dây, treo bằng dây
+- lên (dây đàn); căng (dây)
+- ((thường) động tính từ quá khứ) làm căng thẳng, lên dây cót (nghĩa bóng)
+=highly strung nerves+ thần kinh quá căng thẳng
+- tước xơ (đậu)
+- xâu (hạt cườm...) thành chuỗi
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chơi khăm, chơi xỏ
+- (thông tục) to string someone along đánh lừa ai
+*  nội động từ
+- kéo dài ra thành dây; chảy thành dây (hồ, keo...)
+- đánh mở đầu (bi a, để xem ai được đi trước)
+!to string along with somebody
+- đi với ai, đi theo ai
+!to string up somebody
+- treo cổ ai
+@Chuyên ngành kinh tế
+-buộc bằng dây
+-dải
+-dạng sợi
+-dạng xơ
+-dây
+-dây bện
+-mì sợi
+-nhầy
+-quánh
+-sự buộc thuốc lá
+-sự đan lưới
+-tước
+-xâu
+-xơ
+@Chuyên ngành kỹ thuật
+-băng
+-dải
+-dầm cầu thang
+-dây
+-dây đàn
+-dây thừng
+-dòng
+-đường kẻ
+-đường kẻ nối
+-đường nổi (trên tường)
+-nhanh
+-sợi dây
+-sự căng
+-sự giằng
+-thanh dài
+-thanh neo
+-xâu
+-xâu ký tự
+@Lĩnh vực: cơ khí & công trình
+-căng (lưỡi cưa, dây cáp)
+-đai truyền tròn
+-lên dây cót
+@Lĩnh vực: toán & tin
+-chuỗi
+-chuỗi ký tự
+-xâu (ký tự)
+@Lĩnh vực: hóa học & vật liệu
+-chuỗi ống
+@Lĩnh vực: điện
+-chuỗi sứ (cách điện)
+@Lĩnh vực: xây dựng
+-cốn thang
+-dầm (cầu) thang
+-dầm đỡ cầu thang
+-rầm (dỡ) cầu thang
+-thanh kéo giằng
+@Lĩnh vực: giao thông & vận tải
+-sợi ray hàn liền
+@Lĩnh vực: điện tử & viễn thông
+-xâu chuỗi

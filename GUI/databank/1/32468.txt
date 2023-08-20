@@ -1,3 +1,4 @@
-liturgist
-	@liturgist\n* danh từ\n- chuyên gia môn nghiên cứu nghi thức tế lễ\n- người thực hiện, cầm đầu nghi thức tế lễ
-
+liturgist	@liturgist
+* danh từ
+- chuyên gia môn nghiên cứu nghi thức tế lễ
+- người thực hiện, cầm đầu nghi thức tế lễ

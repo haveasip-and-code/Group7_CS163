@@ -1,3 +1,5 @@
-scatterer
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-chất tán xạ\n-tâm tán xạ\n-vật tán xạ
-
+scatterer	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-chất tán xạ
+-tâm tán xạ
+-vật tán xạ

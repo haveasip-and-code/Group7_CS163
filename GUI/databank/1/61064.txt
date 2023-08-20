@@ -1,3 +1,11 @@
-vaccination
-	@vaccination /,væksi'neiʃn/\n*  danh từ\n- sự chủng, sự tiêm chủng\n@Chuyên ngành kinh tế\n-sự chủng\n-sự tiêm chủng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tiêm chủng\n@Lĩnh vực: hóa học & vật liệu\n-tiêm vắc xin
-
+vaccination	@vaccination /,væksi'neiʃn/
+*  danh từ
+- sự chủng, sự tiêm chủng
+@Chuyên ngành kinh tế
+-sự chủng
+-sự tiêm chủng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tiêm chủng
+@Lĩnh vực: hóa học & vật liệu
+-tiêm vắc xin

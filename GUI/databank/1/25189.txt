@@ -1,3 +1,10 @@
-headlight
-	@headlight /'hedlait/\n*  danh từ\n- đèn pha (ô tô, xe lửa, xe điện, tàu thuỷ...)\n@Chuyên ngành kỹ thuật\n-đèn chiếu\n@Lĩnh vực: điện\n-đèn dầu\n@Lĩnh vực: ô tô\n-đèn đầu xe
-
+headlight	
+@headlight /'hedlait/
+*  danh từ
+- đèn pha (ô tô, xe lửa, xe điện, tàu thuỷ...)
+@Chuyên ngành kỹ thuật
+-đèn chiếu
+@Lĩnh vực: điện
+-đèn dầu
+@Lĩnh vực: ô tô
+-đèn đầu xe

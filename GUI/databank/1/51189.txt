@@ -1,3 +1,21 @@
-slim
-	@slim /slim/\n*  tính từ\n- mảnh khảnh, mảnh dẻ, thon\n=slim fingers+ ngón tay thon búp măng\n- ít ỏi, sơ sài, nghèo nàn, mỏng manh\n=slim possibility+ khả năng có thể được rất mỏng manh\n- láu, khôn lỏi, xảo quyệt\n*  ngoại động từ\n- làm cho người thon nhỏ (bằng cách ăn kiêng và tập thể dục)\n*  nội động từ\n- trở thành thon nhỏ\n*  danh từ\n- bùn, bùn loãng\n- nhớt cá\n- chất nhớ bẩn\n- Bitum lỏng\n*  ngoại động từ\n- phủ đầy bùn; phủ đầy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ốm
-
+slim	@slim /slim/
+*  tính từ
+- mảnh khảnh, mảnh dẻ, thon
+=slim fingers+ ngón tay thon búp măng
+- ít ỏi, sơ sài, nghèo nàn, mỏng manh
+=slim possibility+ khả năng có thể được rất mỏng manh
+- láu, khôn lỏi, xảo quyệt
+*  ngoại động từ
+- làm cho người thon nhỏ (bằng cách ăn kiêng và tập thể dục)
+*  nội động từ
+- trở thành thon nhỏ
+*  danh từ
+- bùn, bùn loãng
+- nhớt cá
+- chất nhớ bẩn
+- Bitum lỏng
+*  ngoại động từ
+- phủ đầy bùn; phủ đầy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ốm

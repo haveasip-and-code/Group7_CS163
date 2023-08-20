@@ -1,3 +1,3 @@
-lieder
-	@lieder /li:d/\n*  danh từ,  số nhiều lieder  /'li:də/\n- bài ca, bài thơ (Đức)
-
+lieder	@lieder /li:d/
+*  danh từ,  số nhiều lieder  /'li:də/
+- bài ca, bài thơ (Đức)

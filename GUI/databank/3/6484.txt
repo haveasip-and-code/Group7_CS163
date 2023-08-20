@@ -1,3 +1,5 @@
-bouton
-	@bouton\n* danh từ\n- chồi; nụ; nút (chai)\n@Chuyên ngành kỹ thuật\n-mụn
-
+bouton	@bouton
+* danh từ
+- chồi; nụ; nút (chai)
+@Chuyên ngành kỹ thuật
+-mụn

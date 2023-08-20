@@ -1,3 +1,18 @@
-entanglement
-	@entanglement /in'tæɳglmənt/\n*  danh từ\n- sự làm vướng mắc, sự làm mắc bẫy, sự làm vướng vào, sự vướng mắc, sự vướng víu; điều làm vướng mắc, điều làm vướng víu\n- sự làm vướng vào khó khăn, sự làm bối rối, sự làm lúng túng; cảnh khó khăn bối rối, cảnh khó khăn lúng túng\n- sự làm rối rắm; sự rối rắm, điều rối rắm,\n- (quân sự) hàng rào (bằng dây thép gai, cọc...)\n- sự ùn lại (giao thông)\n@Chuyên ngành kỹ thuật\n-sự rối\n-sự ùn tắc\n@Lĩnh vực: điện lạnh\n-sự vướng mắc\n@Chuyên ngành kỹ thuật\n-sự rối\n-sự ùn tắc\n@Lĩnh vực: điện lạnh\n-sự vướng mắc
-
+entanglement	
+@entanglement /in'tæɳglmənt/
+*  danh từ
+- sự làm vướng mắc, sự làm mắc bẫy, sự làm vướng vào, sự vướng mắc, sự vướng víu; điều làm vướng mắc, điều làm vướng víu
+- sự làm vướng vào khó khăn, sự làm bối rối, sự làm lúng túng; cảnh khó khăn bối rối, cảnh khó khăn lúng túng
+- sự làm rối rắm; sự rối rắm, điều rối rắm,
+- (quân sự) hàng rào (bằng dây thép gai, cọc...)
+- sự ùn lại (giao thông)
+@Chuyên ngành kỹ thuật
+-sự rối
+-sự ùn tắc
+@Lĩnh vực: điện lạnh
+-sự vướng mắc
+@Chuyên ngành kỹ thuật
+-sự rối
+-sự ùn tắc
+@Lĩnh vực: điện lạnh
+-sự vướng mắc

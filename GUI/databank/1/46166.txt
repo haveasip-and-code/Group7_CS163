@@ -1,3 +1,2 @@
-rediscountable
-	@Chuyên ngành kinh tế\n-có thể tái chiết khấu
-
+rediscountable	@Chuyên ngành kinh tế
+-có thể tái chiết khấu

@@ -1,3 +1,40 @@
-accumulator
-	@accumulator /ə'kju:mjuleitə/\n*  danh từ\n- người tích luỹ\n- người thích làm giàu, người trữ của\n- (vật lý) ăcquy\n- người thi cùng một lúc nhiều bằng (ở trường đại học)\n@Chuyên ngành kinh tế\n-bộ nhớ\n-bộ nhớ (của máy tính)\n@Chuyên ngành kỹ thuật\n-ắcqui\n-bể tích năng\n-bình ắcqui\n-bình điện\n-bộ ắcqui\n-bộ cộng\n-bộ đếm\n-bộ pin thứ cấp\n-bộ pin trữ điện\n-bộ tích lũy\n-bộ tích trữ điện\n-kho chứa\n-thanh ghi tổng\n@Lĩnh vực: cơ khí & công trình\n-bình điện (ắcqui)\n-bộ tích\n@Lĩnh vực: toán & tin\n-bộ chứa\n-bộ cộng tích lũy\n-thanh chứa\n-thanh chứa bộ cộng\n-thanh tổng\n@Lĩnh vực: điện tử & viễn thông\n-bộ công\n@Lĩnh vực: xây dựng\n-bộ phân lưu\n-bộ tích điện\n-bộ tích trữ\n@Lĩnh vực: điện\n-bộ phận lưu
-
+accumulator	@accumulator /ə'kju:mjuleitə/
+*  danh từ
+- người tích luỹ
+- người thích làm giàu, người trữ của
+- (vật lý) ăcquy
+- người thi cùng một lúc nhiều bằng (ở trường đại học)
+@Chuyên ngành kinh tế
+-bộ nhớ
+-bộ nhớ (của máy tính)
+@Chuyên ngành kỹ thuật
+-ắcqui
+-bể tích năng
+-bình ắcqui
+-bình điện
+-bộ ắcqui
+-bộ cộng
+-bộ đếm
+-bộ pin thứ cấp
+-bộ pin trữ điện
+-bộ tích lũy
+-bộ tích trữ điện
+-kho chứa
+-thanh ghi tổng
+@Lĩnh vực: cơ khí & công trình
+-bình điện (ắcqui)
+-bộ tích
+@Lĩnh vực: toán & tin
+-bộ chứa
+-bộ cộng tích lũy
+-thanh chứa
+-thanh chứa bộ cộng
+-thanh tổng
+@Lĩnh vực: điện tử & viễn thông
+-bộ công
+@Lĩnh vực: xây dựng
+-bộ phân lưu
+-bộ tích điện
+-bộ tích trữ
+@Lĩnh vực: điện
+-bộ phận lưu

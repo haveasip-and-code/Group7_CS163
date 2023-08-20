@@ -1,3 +1,8 @@
-rheology
-	@rheology\n* danh từ\n- lưu biến học\n@Chuyên ngành kỹ thuật\n-lưu biến học\n-lưu biến học, lưu đàn học\n@Lĩnh vực: xây dựng\n-môn học lưu biến
-
+rheology	@rheology
+* danh từ
+- lưu biến học
+@Chuyên ngành kỹ thuật
+-lưu biến học
+-lưu biến học, lưu đàn học
+@Lĩnh vực: xây dựng
+-môn học lưu biến

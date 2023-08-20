@@ -1,3 +1,2 @@
-objects
-	@Chuyên ngành kinh tế\n-mục tiêu
-
+objects	@Chuyên ngành kinh tế
+-mục tiêu

@@ -1,3 +1,33 @@
-wake
-	@wake /weik/\n*  danh từ\n- (hàng hải) lằn tàu\n!to follow in the wake of somebody\n- theo chân ai, theo liền ngay sau ai\n- (nghĩa bóng) theo gương ai\n*  danh từ\n- ((thường) số nhiều) nghỉ hằng năm (ở miền bắc nước Anh)\n- sự thức canh người chết\n*  nội động từ (woke,  waked; waked,  woken)\n- thức giấc, thức dậy, tỉnh dậy\n=to wake up with a start+ giật mình tỉnh dậy\n*  ngoại động từ\n- đánh thức\n- làm hồi tỉnh lại, làm sống lại\n- làm náo động (nơi nào); phá (sự yên tĩnh)\n- làm dội lại (tiếng vang)\n- khêu gợi, gợi lại (một kỷ niệm)\n=to wake memories+ gợi lại những ký ức\n=to wake desires+ khêu gợi dục vọng\n- thức canh (người chết)\n@Chuyên ngành kỹ thuật\n-đánh thức\n-dòng đuôi\n-dòng đuôi (xi lanh)\n-đuôi sóng\n-làn tàu\n-sự hút theo\n-vạt nước theo tàu\n-vết rẽ nước\n-vết sóng\n@Lĩnh vực: toán & tin\n-thời gian đợi
-
+wake	@wake /weik/
+*  danh từ
+- (hàng hải) lằn tàu
+!to follow in the wake of somebody
+- theo chân ai, theo liền ngay sau ai
+- (nghĩa bóng) theo gương ai
+*  danh từ
+- ((thường) số nhiều) nghỉ hằng năm (ở miền bắc nước Anh)
+- sự thức canh người chết
+*  nội động từ (woke,  waked; waked,  woken)
+- thức giấc, thức dậy, tỉnh dậy
+=to wake up with a start+ giật mình tỉnh dậy
+*  ngoại động từ
+- đánh thức
+- làm hồi tỉnh lại, làm sống lại
+- làm náo động (nơi nào); phá (sự yên tĩnh)
+- làm dội lại (tiếng vang)
+- khêu gợi, gợi lại (một kỷ niệm)
+=to wake memories+ gợi lại những ký ức
+=to wake desires+ khêu gợi dục vọng
+- thức canh (người chết)
+@Chuyên ngành kỹ thuật
+-đánh thức
+-dòng đuôi
+-dòng đuôi (xi lanh)
+-đuôi sóng
+-làn tàu
+-sự hút theo
+-vạt nước theo tàu
+-vết rẽ nước
+-vết sóng
+@Lĩnh vực: toán & tin
+-thời gian đợi

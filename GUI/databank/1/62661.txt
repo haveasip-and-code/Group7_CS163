@@ -1,3 +1,11 @@
-weighted
-	@weighted\n- có trọng lượng\n@Chuyên ngành kỹ thuật\n-có tải\n-có trọng lượng\n-máy cán\n@Lĩnh vực: toán & tin\n-có trọng số\n@Lĩnh vực: hóa học & vật liệu\n-được chất tải\n-được tăng trọng
-
+weighted	@weighted
+- có trọng lượng
+@Chuyên ngành kỹ thuật
+-có tải
+-có trọng lượng
+-máy cán
+@Lĩnh vực: toán & tin
+-có trọng số
+@Lĩnh vực: hóa học & vật liệu
+-được chất tải
+-được tăng trọng

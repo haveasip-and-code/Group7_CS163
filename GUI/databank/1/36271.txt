@@ -1,3 +1,5 @@
-named
-	@Chuyên ngành kinh tế\n-ngày tháng chỉ định\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được đặt tên
-
+named	@Chuyên ngành kinh tế
+-ngày tháng chỉ định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được đặt tên

@@ -1,3 +1,3 @@
-exponential
-	@exponential\n- (thuộc) số mũ // hàm số mũ
-
+exponential	
+@exponential
+- (thuộc) số mũ // hàm số mũ

@@ -1,3 +1,37 @@
-associate
-	@associate /ə'souʃiit/\n*  tính từ\n- kết giao, kết hợp liên hợp; liên đới\n=associate societies+ hội liên hiệp\n=associate number+ (toán học) số liên đới\n- (từ Mỹ,nghĩa Mỹ) cùng cộng tác, phụ, phó, trợ\n=associate editor+ phó tổng biên tập\n*  danh từ\n- bạn, bạn đồng liêu, người cùng cộng tác; đồng minh\n- hội viên thông tin, viện sĩ thông tấn (viện hàn lâm khoa học...)\n- vật phụ thuộc (vào vật khác); vật liên kết với vật khác\n*  ngoại động từ\n- kết giao, kết hợp, liên hợp, liên kết; cho gia nhập, cho cộng tác\n=to associate someone in one's business+ cho ai cùng cộng tác trong công việc kinh doanh\n- liên tưởng (những ý nghĩ)\n=to associate oneself in+ dự vào, cùng cộng tác vào\n*  nội động từ\n- kết giao, kết bạn với, giao thiệp với\n- hợp sức; liên hợp lại (vì mục đích chung), liên kết lại\n=to associate with someone in doing something+ hợp sức với người nào làm việc gì\n@Chuyên ngành kinh tế\n-bạn đồng sự\n-hội viên\n-người cùng cộng tác\n-người hùn vốn\n-người liên kết\n@Chuyên ngành kỹ thuật\n-hội viên\n-kết hợp\n-liên đới\n-liên hợp\n-liên kết\n-phối hợp\n-sự kết hợp\n@Lĩnh vực: cơ khí & công trình\n-liên kết ghép
-
+associate	
+@associate /ə'souʃiit/
+*  tính từ
+- kết giao, kết hợp liên hợp; liên đới=associate societies
++ hội liên hiệp=associate number
++ (toán học) số liên đới
+- (từ Mỹ,nghĩa Mỹ) cùng cộng tác, phụ, phó, trợ=associate editor
++ phó tổng biên tập
+*  danh từ
+- bạn, bạn đồng liêu, người cùng cộng tác; đồng minh
+- hội viên thông tin, viện sĩ thông tấn (viện hàn lâm khoa học...)
+- vật phụ thuộc (vào vật khác); vật liên kết với vật khác
+*  ngoại động từ
+- kết giao, kết hợp, liên hợp, liên kết; cho gia nhập, cho cộng tác=to associate someone in one's business
++ cho ai cùng cộng tác trong công việc kinh doanh
+- liên tưởng (những ý nghĩ)=to associate oneself in
++ dự vào, cùng cộng tác vào
+*  nội động từ
+- kết giao, kết bạn với, giao thiệp với
+- hợp sức; liên hợp lại (vì mục đích chung), liên kết lại=to associate with someone in doing something
++ hợp sức với người nào làm việc gì
+@Chuyên ngành kinh tế
+-bạn đồng sự
+-hội viên
+-người cùng cộng tác
+-người hùn vốn
+-người liên kết
+@Chuyên ngành kỹ thuật
+-hội viên
+-kết hợp
+-liên đới
+-liên hợp
+-liên kết
+-phối hợp
+-sự kết hợp
+@Lĩnh vực: cơ khí & công trình
+-liên kết ghép

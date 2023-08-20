@@ -1,3 +1,4 @@
-nonstop
-	@Chuyên ngành kinh tế\n-chạy suốt\n-đi thẳng một mạch\n-không ngừng
-
+nonstop	@Chuyên ngành kinh tế
+-chạy suốt
+-đi thẳng một mạch
+-không ngừng

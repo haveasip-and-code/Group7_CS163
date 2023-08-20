@@ -1,3 +1,44 @@
-engagement
-	@engagement /in'geidʤmənt/\n*  danh từ\n- sự hứa hẹn, sự ước hẹn, sự cam kết, sự ràng buộc, sự hứa hôn\n=to keep one's engagements+ tôn trọng những lời cam kết của mình\n- sự hứa gặp\n=a public engagement+ sự hứa nói chuyện với công chúng\n=social engagements+ sự được mời mọc ở các cuộc chiêu đãi...\n- sự thuê mướn (người làm...), sự tuyển mộ\n- công việc làm (của người thư ký, người giúp việc...)\n- (kỹ thuật) sự gài (số...)\n- (quân sự) sự giao chiến; cuộc đánh nhau\n@Chuyên ngành kinh tế\n-cam kết\n-lời hứa\n-sự hẹn gặp\n-sự thuê mướn\n-sự ước định\n-tuyển dụng (nhân công)\n-ước thúc\n@Chuyên ngành kỹ thuật\n-cam kết\n-sự ăn khớp\n-sự khớp nối\n-sự móc nối\n-sự tiếp hợp\n-sự vào khớp\n-ước định\n@Lĩnh vực: hóa học & vật liệu\n-gài số (xe)\n@Lĩnh vực: cơ khí & công trình\n-sự bắt khớp\n@Chuyên ngành kỹ thuật\n-cam kết\n-sự ăn khớp\n-sự khớp nối\n-sự móc nối\n-sự tiếp hợp\n-sự vào khớp\n-ước định\n@Lĩnh vực: hóa học & vật liệu\n-gài số (xe)\n@Lĩnh vực: cơ khí & công trình\n-sự bắt khớp
-
+engagement	
+@engagement /in'geidʤmənt/
+*  danh từ
+- sự hứa hẹn, sự ước hẹn, sự cam kết, sự ràng buộc, sự hứa hôn=to keep one's engagements
++ tôn trọng những lời cam kết của mình
+- sự hứa gặp=a public engagement
++ sự hứa nói chuyện với công chúng=social engagements
++ sự được mời mọc ở các cuộc chiêu đãi...
+- sự thuê mướn (người làm...), sự tuyển mộ
+- công việc làm (của người thư ký, người giúp việc...)
+- (kỹ thuật) sự gài (số...)
+- (quân sự) sự giao chiến; cuộc đánh nhau
+@Chuyên ngành kinh tế
+-cam kết
+-lời hứa
+-sự hẹn gặp
+-sự thuê mướn
+-sự ước định
+-tuyển dụng (nhân công)
+-ước thúc
+@Chuyên ngành kỹ thuật
+-cam kết
+-sự ăn khớp
+-sự khớp nối
+-sự móc nối
+-sự tiếp hợp
+-sự vào khớp
+-ước định
+@Lĩnh vực: hóa học & vật liệu
+-gài số (xe)
+@Lĩnh vực: cơ khí & công trình
+-sự bắt khớp
+@Chuyên ngành kỹ thuật
+-cam kết
+-sự ăn khớp
+-sự khớp nối
+-sự móc nối
+-sự tiếp hợp
+-sự vào khớp
+-ước định
+@Lĩnh vực: hóa học & vật liệu
+-gài số (xe)
+@Lĩnh vực: cơ khí & công trình
+-sự bắt khớp

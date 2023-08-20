@@ -1,3 +1,8 @@
-resorb
-	@resorb\n* ngoại động từ\n- hấp thu lại; tái hấp thu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hấp thụ lại\n@Lĩnh vực: điện lạnh\n-tái hấp thụ
-
+resorb	@resorb
+* ngoại động từ
+- hấp thu lại; tái hấp thu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hấp thụ lại
+@Lĩnh vực: điện lạnh
+-tái hấp thụ

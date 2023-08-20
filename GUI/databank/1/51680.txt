@@ -1,3 +1,61 @@
-soft
-	@soft /sɔft/\n*  tính từ\n- mềm, dẻo, dễ uốn, dễ cắt\n=soft as butter+ mềm như bún\n=soft stone+ thứ đá mềm\n- nhẵn, mịn, mượt\n=soft skin+ da mịn\n=soft hair+ tóc mượt\n- dịu, ôn hoà\n=soft winter+ mùa đông ôn hoà dễ chịu\n- không loè loẹt, dịu\n=soft colours+ màu dịu\n=soft light+ ánh sáng dịu\n=soft voice+ giọng dịu dàng\n=soft music+ nhạc êm dịu\n- nhẹ, nhẹ nhàng, nhân nhượng, có tính chất hoà hoãn\n=soft rain+ mưa nhẹ\n=soft manners+ thái độ nhẹ nhàng\n=soft answer+ câu trả lời hoà nhã\n- yếu đuối, uỷ mị, nhẽo, ẻo lả\n=a soft luxurious people+ bọn người xa hoa uỷ mị\n- yên, êm đềm\n=soft slumbers+ giấc ngủ yên\n- có cảm tình, dễ thương cảm, có từ tâm\n- (thuộc) tình yêu, (thuộc) chuyện trai gái\n=soft nothings+ chuyện tỉ tê trai gái\n=to be soft on someone+ phải lòng ai\n- mưa, ẩm ướt, ướt át\n=soft weather+ thời tiết ẩm ướt\n=a soft day+ ngày mưa\n- không có muối khoáng (nước ăn)\n- (ngôn ngữ học) mềm hoá (âm)\n- (từ lóng) dễ dàng\n=soft job+ việc dễ\n=soft thing+ công việc nhẹ nhàng nhưng lương hậu\n- khờ khạo, ngờ nghệch\n*  danh từ\n- chỗ mềm; vật mềm\n- người nhu nhược; người ẻo lả\n*  phó từ\n- nhẹ nhàng\n- mềm mỏng, yếu ớt, ẻo lả\n*  thán từ\n- (từ cổ,nghĩa cổ) chờ một tí!\n- im! câm!\n@Chuyên ngành kinh tế\n-đường mềm\n-mềm\n-nhẹ\n@Chuyên ngành kỹ thuật\n-dễ nóng chảy\n-khử cacbon\n-khử than\n-mềm\n-mềm dẻo\n-yếu\n@Lĩnh vực: xây dựng\n-nhu mềm\n@Lĩnh vực: toán & tin\n-mềm, tệp\n-phần mềm (máy tính)
-
+soft	@soft /sɔft/
+*  tính từ
+- mềm, dẻo, dễ uốn, dễ cắt
+=soft as butter+ mềm như bún
+=soft stone+ thứ đá mềm
+- nhẵn, mịn, mượt
+=soft skin+ da mịn
+=soft hair+ tóc mượt
+- dịu, ôn hoà
+=soft winter+ mùa đông ôn hoà dễ chịu
+- không loè loẹt, dịu
+=soft colours+ màu dịu
+=soft light+ ánh sáng dịu
+=soft voice+ giọng dịu dàng
+=soft music+ nhạc êm dịu
+- nhẹ, nhẹ nhàng, nhân nhượng, có tính chất hoà hoãn
+=soft rain+ mưa nhẹ
+=soft manners+ thái độ nhẹ nhàng
+=soft answer+ câu trả lời hoà nhã
+- yếu đuối, uỷ mị, nhẽo, ẻo lả
+=a soft luxurious people+ bọn người xa hoa uỷ mị
+- yên, êm đềm
+=soft slumbers+ giấc ngủ yên
+- có cảm tình, dễ thương cảm, có từ tâm
+- (thuộc) tình yêu, (thuộc) chuyện trai gái
+=soft nothings+ chuyện tỉ tê trai gái
+=to be soft on someone+ phải lòng ai
+- mưa, ẩm ướt, ướt át
+=soft weather+ thời tiết ẩm ướt
+=a soft day+ ngày mưa
+- không có muối khoáng (nước ăn)
+- (ngôn ngữ học) mềm hoá (âm)
+- (từ lóng) dễ dàng
+=soft job+ việc dễ
+=soft thing+ công việc nhẹ nhàng nhưng lương hậu
+- khờ khạo, ngờ nghệch
+*  danh từ
+- chỗ mềm; vật mềm
+- người nhu nhược; người ẻo lả
+*  phó từ
+- nhẹ nhàng
+- mềm mỏng, yếu ớt, ẻo lả
+*  thán từ
+- (từ cổ,nghĩa cổ) chờ một tí!
+- im! câm!
+@Chuyên ngành kinh tế
+-đường mềm
+-mềm
+-nhẹ
+@Chuyên ngành kỹ thuật
+-dễ nóng chảy
+-khử cacbon
+-khử than
+-mềm
+-mềm dẻo
+-yếu
+@Lĩnh vực: xây dựng
+-nhu mềm
+@Lĩnh vực: toán & tin
+-mềm, tệp
+-phần mềm (máy tính)

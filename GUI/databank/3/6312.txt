@@ -1,3 +1,4 @@
-boosting
-	@Chuyên ngành kỹ thuật\n-tăng áp\n@Lĩnh vực: hóa học & vật liệu\n-tăng thế
-
+boosting	@Chuyên ngành kỹ thuật
+-tăng áp
+@Lĩnh vực: hóa học & vật liệu
+-tăng thế

@@ -1,3 +1,4 @@
-proselytize
-	@proselytize /proselytize/\n*  ngoại động từ\n- cho quy y, cho nhập đạo\n- kết nạp vào đảng
-
+proselytize	@proselytize /proselytize/
+*  ngoại động từ
+- cho quy y, cho nhập đạo
+- kết nạp vào đảng

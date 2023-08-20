@@ -1,3 +1,38 @@
-pulp
-	@pulp /pʌlp/\n*  danh từ\n- (thực vật học) cơm thịt (trái cây)\n- tuỷ (răng)\n- lõi cây\n- cục bột nhão, cục bùn nhão\n- bột giấy\n- quặng nghiền nhỏ nhào với nước\n- ((thường) số nhiều) (từ Mỹ,nghĩa Mỹ),  (từ lóng) tạp chí giật gân (thường in bằng giấy xấu)\n!to reduce to pulp\n- nghiền nhão ra\n*  ngoại động từ\n- nghiền nhão ra\n- lấy phần ruột, xay vỏ (cà phê...)\n*  nội động từ\n- nhão bét ra\n@Chuyên ngành kinh tế\n-chà\n-khối nghiền nhão\n-nghiền nhão ra\n-sự chà\n-thịt nạc\n-thịt quả\n-tủy\n-xay vỏ\n@Chuyên ngành kỹ thuật\n-bột giấy\n-bột nhào\n-bùn khoáng\n-bùn quặng\n-hồ\n-mùn khoan\n-quặng đuôi\n-vữa\n@Lĩnh vực: xây dựng\n-bã ép\n@Lĩnh vực: thực phẩm\n-khối nghiền nhão
-
+pulp	@pulp /pʌlp/
+*  danh từ
+- (thực vật học) cơm thịt (trái cây)
+- tuỷ (răng)
+- lõi cây
+- cục bột nhão, cục bùn nhão
+- bột giấy
+- quặng nghiền nhỏ nhào với nước
+- ((thường) số nhiều) (từ Mỹ,nghĩa Mỹ),  (từ lóng) tạp chí giật gân (thường in bằng giấy xấu)
+!to reduce to pulp
+- nghiền nhão ra
+*  ngoại động từ
+- nghiền nhão ra
+- lấy phần ruột, xay vỏ (cà phê...)
+*  nội động từ
+- nhão bét ra
+@Chuyên ngành kinh tế
+-chà
+-khối nghiền nhão
+-nghiền nhão ra
+-sự chà
+-thịt nạc
+-thịt quả
+-tủy
+-xay vỏ
+@Chuyên ngành kỹ thuật
+-bột giấy
+-bột nhào
+-bùn khoáng
+-bùn quặng
+-hồ
+-mùn khoan
+-quặng đuôi
+-vữa
+@Lĩnh vực: xây dựng
+-bã ép
+@Lĩnh vực: thực phẩm
+-khối nghiền nhão

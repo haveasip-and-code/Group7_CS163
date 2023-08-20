@@ -1,3 +1,4 @@
-privative
-	@privative /privative/\n*  tính từ\n- thiếu, không có\n- (ngôn ngữ học) phủ định (tiểu từ, phụ tố)
-
+privative	@privative /privative/
+*  tính từ
+- thiếu, không có
+- (ngôn ngữ học) phủ định (tiểu từ, phụ tố)

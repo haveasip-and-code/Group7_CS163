@@ -1,3 +1,6 @@
-unscrambler
-	@unscrambler\n- xem unscramble\n@Chuyên ngành kỹ thuật\n-bộ khử xáo trộn\n-dụng cụ phân cấp (phôi cán)\n-sắp xếp lại
-
+unscrambler	@unscrambler
+- xem unscramble
+@Chuyên ngành kỹ thuật
+-bộ khử xáo trộn
+-dụng cụ phân cấp (phôi cán)
+-sắp xếp lại

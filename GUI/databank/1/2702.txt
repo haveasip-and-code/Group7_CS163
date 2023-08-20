@@ -1,3 +1,4 @@
-antitax
-	@antitax\n* tính từ\n- chống thuế
-
+antitax	
+@antitax
+* tính từ
+- chống thuế

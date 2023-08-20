@@ -1,3 +1,4 @@
-preclude
-	@preclude /pri'klu:d/\n*  ngoại động từ\n- loại trừ, trừ bỏ; ngăn ngừa; đẩy xa\n=to preclude all objections+ ngăn ngừa mọi sự phản đối
-
+preclude	@preclude /pri'klu:d/
+*  ngoại động từ
+- loại trừ, trừ bỏ; ngăn ngừa; đẩy xa
+=to preclude all objections+ ngăn ngừa mọi sự phản đối

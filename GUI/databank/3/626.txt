@@ -1,3 +1,9 @@
-activated
-	@activated /'æktiveitid/\n*  tính từ\n- đã hoạt hoá\n- đã làm phóng xạ\n@Chuyên ngành kỹ thuật\n-hoạt hóa\n-kích động\n@Lĩnh vực: hóa học & vật liệu\n-được hoạt hóa
-
+activated	@activated /'æktiveitid/
+*  tính từ
+- đã hoạt hoá
+- đã làm phóng xạ
+@Chuyên ngành kỹ thuật
+-hoạt hóa
+-kích động
+@Lĩnh vực: hóa học & vật liệu
+-được hoạt hóa

@@ -1,3 +1,4 @@
-microprocessor
-	@microprocessor\n- bộ vi xử lý\n@Chuyên ngành kinh tế\n-bộ vi xử lý
-
+microprocessor	@microprocessor
+- bộ vi xử lý
+@Chuyên ngành kinh tế
+-bộ vi xử lý

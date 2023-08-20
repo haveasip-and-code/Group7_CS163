@@ -1,3 +1,31 @@
-faulty
-	@faulty /'fɔ:lti/\n*  tính từ\n- có thiếu sót, mắc khuyết điểm\n- mắc lỗi\n- không tốt, không chính xác\n- (điện học) bị rò (mạch)\n@Chuyên ngành kỹ thuật\n-bị hư hỏng\n-bị tai nạn\n-có khuyết tật\n-không hoạt động\n-lỗi\n-sai\n-sai hỏng\n-sai sót\n-sự cố\n@Lĩnh vực: dệt may\n-không tốt\n@Chuyên ngành kỹ thuật\n-bị hư hỏng\n-bị tai nạn\n-có khuyết tật\n-không hoạt động\n-lỗi\n-sai\n-sai hỏng\n-sai sót\n-sự cố\n@Lĩnh vực: dệt may\n-không tốt
-
+faulty	
+@faulty /'fɔ:lti/
+*  tính từ
+- có thiếu sót, mắc khuyết điểm
+- mắc lỗi
+- không tốt, không chính xác
+- (điện học) bị rò (mạch)
+@Chuyên ngành kỹ thuật
+-bị hư hỏng
+-bị tai nạn
+-có khuyết tật
+-không hoạt động
+-lỗi
+-sai
+-sai hỏng
+-sai sót
+-sự cố
+@Lĩnh vực: dệt may
+-không tốt
+@Chuyên ngành kỹ thuật
+-bị hư hỏng
+-bị tai nạn
+-có khuyết tật
+-không hoạt động
+-lỗi
+-sai
+-sai hỏng
+-sai sót
+-sự cố
+@Lĩnh vực: dệt may
+-không tốt

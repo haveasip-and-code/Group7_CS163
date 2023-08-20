@@ -1,3 +1,4 @@
-pasteurized
-	@Chuyên ngành kỹ thuật\n-đã thanh trùng\n@Lĩnh vực: y học\n-đã tiệt trùng
-
+pasteurized	@Chuyên ngành kỹ thuật
+-đã thanh trùng
+@Lĩnh vực: y học
+-đã tiệt trùng

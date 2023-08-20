@@ -1,3 +1,4 @@
-microminiature
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-vi kích thước\n-vi tiểu hình
-
+microminiature	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-vi kích thước
+-vi tiểu hình

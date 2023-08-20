@@ -1,3 +1,2 @@
-acquirable
-	@acquirable\n- xem acquire
-
+acquirable	@acquirable
+- xem acquire

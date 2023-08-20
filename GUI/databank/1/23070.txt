@@ -1,3 +1,10 @@
-gauss
-	@gauss /gaus/\n*  danh từ\n- (vật lý) Gaoxơ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gaoxơ\n-gauss\n@Lĩnh vực: điện lạnh\n-gauxơ
-
+gauss	
+@gauss /gaus/
+*  danh từ
+- (vật lý) Gaoxơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-gaoxơ
+-gauss
+@Lĩnh vực: điện lạnh
+-gauxơ

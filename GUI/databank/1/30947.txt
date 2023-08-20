@@ -1,3 +1,5 @@
-kilobyte
-	@kilobyte\n- Một đơn vị đo lường cơ bản đối với bộ nhớ máy tính, bằng 1024 byte\n@Chuyên ngành kinh tế\n-kí-lô bai\n-ki-lô-bai
-
+kilobyte	@kilobyte
+- Một đơn vị đo lường cơ bản đối với bộ nhớ máy tính, bằng 1024 byte
+@Chuyên ngành kinh tế
+-kí-lô bai
+-ki-lô-bai

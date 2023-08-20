@@ -1,3 +1,18 @@
-language
-	@language /'læɳgwidʤ/\n*  danh từ\n- tiếng, ngôn ngữ\n=foreign languages+ tiếng nước ngoài\n=the language of diplomacy+ ngôn ngữ ngoại giao\n=dead language+ từ ngữ\n=living language+ sinh ngữ\n- lời nói\n=bad language+ lời nói thô tục, lời nói thô bỉ\n- cách diễn đạt, cách ăn nói\n@Chuyên ngành kỹ thuật\n-ngôn ngữ\n-ngỗn ngữ\n-tiếng\n@Chuyên ngành kỹ thuật\n-ngôn ngữ\n-ngỗn ngữ\n-tiếng
-
+language	@language /'læɳgwidʤ/
+*  danh từ
+- tiếng, ngôn ngữ
+=foreign languages+ tiếng nước ngoài
+=the language of diplomacy+ ngôn ngữ ngoại giao
+=dead language+ từ ngữ
+=living language+ sinh ngữ
+- lời nói
+=bad language+ lời nói thô tục, lời nói thô bỉ
+- cách diễn đạt, cách ăn nói
+@Chuyên ngành kỹ thuật
+-ngôn ngữ
+-ngỗn ngữ
+-tiếng
+@Chuyên ngành kỹ thuật
+-ngôn ngữ
+-ngỗn ngữ
+-tiếng

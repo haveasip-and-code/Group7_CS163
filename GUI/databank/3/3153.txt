@@ -1,3 +1,6 @@
-arch
-	@arch\n- vòm; nhịp cuốn ở cầu\n- circularr a. nhịp tròn\n- hingeless a. nhịp không tiết hợp\n- hydrostatic a. nhịp thuỷ tĩnh\n- parabolic a. nhịp parabolic
-
+arch	@arch
+- vòm; nhịp cuốn ở cầu
+- circularr a. nhịp tròn
+- hingeless a. nhịp không tiết hợp
+- hydrostatic a. nhịp thuỷ tĩnh
+- parabolic a. nhịp parabolic

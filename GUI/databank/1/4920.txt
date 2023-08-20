@@ -1,3 +1,41 @@
-battery
-	@battery /'bætəri/\n*  danh từ\n- (quân sự) khẩu đội (pháo)\n- (điện học) bộ pin, ắc quy\n- bộ\n=cooking battery+ bộ đồ xoong chảo\n- dãy chuồng nuôi gà nhốt\n=battery chicken+ gà nhốt vỗ béo\n- (pháp lý) sự hành hung, sự bạo hành\n!to turn someone's battery against himself\n- lấy gậy ông đập lưng ông\n@Chuyên ngành kinh tế\n-bộ\n-dãy\n-hệ thống\n@Chuyên ngành kỹ thuật\n-ắcqui\n-bình ắcqui\n-bình điện\n-bộ ắcqui\n-bộ pin\n-chùm\n-cụm\n-dãy\n-giàn lạnh\n-giàn ống\n-giàn ống xoắn\n-nguồn điện\n-nhóm\n-pin\n@Lĩnh vực: điện\n-ắcqui pin\n-bộ pin (ắcqui)\n@Lĩnh vực: hóa học & vật liệu\n-battery\n@Lĩnh vực: cơ khí & công trình\n-bình điện (ắcqui)\n@Lĩnh vực: điện lạnh\n-cụm dàn ống\n-cụm giàn ống\n-dàn ống
-
+battery	
+@battery /'bætəri/
+*  danh từ
+- (quân sự) khẩu đội (pháo)
+- (điện học) bộ pin, ắc quy
+- bộ=cooking battery
++ bộ đồ xoong chảo
+- dãy chuồng nuôi gà nhốt=battery chicken
++ gà nhốt vỗ béo
+- (pháp lý) sự hành hung, sự bạo hành!to turn someone's battery against himself
+- lấy gậy ông đập lưng ông
+@Chuyên ngành kinh tế
+-bộ
+-dãy
+-hệ thống
+@Chuyên ngành kỹ thuật
+-ắcqui
+-bình ắcqui
+-bình điện
+-bộ ắcqui
+-bộ pin
+-chùm
+-cụm
+-dãy
+-giàn lạnh
+-giàn ống
+-giàn ống xoắn
+-nguồn điện
+-nhóm
+-pin
+@Lĩnh vực: điện
+-ắcqui pin
+-bộ pin (ắcqui)
+@Lĩnh vực: hóa học & vật liệu
+-battery
+@Lĩnh vực: cơ khí & công trình
+-bình điện (ắcqui)
+@Lĩnh vực: điện lạnh
+-cụm dàn ống
+-cụm giàn ống
+-dàn ống

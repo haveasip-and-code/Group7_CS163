@@ -1,3 +1,5 @@
-monadic
-	@Chuyên ngành kỹ thuật\n-đơn phân\n@Lĩnh vực: toán & tin\n-một ngôi\n-một toán hạng
-
+monadic	@Chuyên ngành kỹ thuật
+-đơn phân
+@Lĩnh vực: toán & tin
+-một ngôi
+-một toán hạng

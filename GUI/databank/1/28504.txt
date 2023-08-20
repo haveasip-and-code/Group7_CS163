@@ -1,3 +1,8 @@
-inflectional
-	@inflectional /in'flekʃənl/ (inflectional) /in'flekʃənl/\n*  tính từ\n- (thuộc) chỗ cong, (thuộc) góc cong\n- (toán học) uốn\n=inflexional asymptote+ tiệm cận uốn\n- (âm nhạc) chuyển điệu\n- (ngôn ngữ học) (thuộc) biến tố
-
+inflectional	
+@inflectional /in'flekʃənl/ (inflectional) /in'flekʃənl/
+*  tính từ
+- (thuộc) chỗ cong, (thuộc) góc cong
+- (toán học) uốn=inflexional asymptote
++ tiệm cận uốn
+- (âm nhạc) chuyển điệu
+- (ngôn ngữ học) (thuộc) biến tố

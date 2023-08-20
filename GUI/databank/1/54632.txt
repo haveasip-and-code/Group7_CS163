@@ -1,3 +1,14 @@
-superhighway
-	@superhighway /,sju:pə'haiwei/\n*  danh từ\n- quốc lộ lớn\n@Chuyên ngành kinh tế\n-đường cao tốc\n@Chuyên ngành kỹ thuật\n-đường cao tốc\n-đường trục\n@Lĩnh vực: xây dựng\n-đương cao tốc\n-đường nhiêu làn xe\n@Lĩnh vực: giao thông & vận tải\n-đường xe cao tốc\n-quốc lộ lớn
-
+superhighway	@superhighway /,sju:pə'haiwei/
+*  danh từ
+- quốc lộ lớn
+@Chuyên ngành kinh tế
+-đường cao tốc
+@Chuyên ngành kỹ thuật
+-đường cao tốc
+-đường trục
+@Lĩnh vực: xây dựng
+-đương cao tốc
+-đường nhiêu làn xe
+@Lĩnh vực: giao thông & vận tải
+-đường xe cao tốc
+-quốc lộ lớn

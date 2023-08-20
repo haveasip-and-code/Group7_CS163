@@ -1,3 +1,37 @@
-cone
-	@cone /koun/\n*  danh từ\n- hình nón; vật hình nón\n- (thực vật học) nón\n- (động vật học) ốc nón\n- (hàng hải) tín hiệu báo bão (hình nón)\n- (số nhiều) bột áo (bột mịn để xoa bột bánh mì đã nhào)\n*  ngoại động từ\n- làm thành hình nón\n=to be coned+ bị đèn pha chiếu chụm vào; bị đèn pha phát hiện (máy bay)\n*  nội động từ\n- có hình nón\n@Chuyên ngành kinh tế\n-bột áo\n-hình nón\n-vật hình nón\n@Chuyên ngành kỹ thuật\n-côn\n-hình côn\n-hình nón\n-hình nón cụt\n-nón\n-mặt nón\n-mặt vát\n-miệng loe\n-phễu\n@Lĩnh vực: điện tử & viễn thông\n-bầu (ồng tia catốt)\n@Lĩnh vực: cơ khí & công trình\n-chi tiết hình côn\n-côn ly hợp\n@Lĩnh vực: ô tô\n-lõi ống côn\n@Lĩnh vực: dệt may\n-ống sợi côn\n@Lĩnh vực: y học\n-tế bào nón
-
+cone	@cone /koun/
+*  danh từ
+- hình nón; vật hình nón
+- (thực vật học) nón
+- (động vật học) ốc nón
+- (hàng hải) tín hiệu báo bão (hình nón)
+- (số nhiều) bột áo (bột mịn để xoa bột bánh mì đã nhào)
+*  ngoại động từ
+- làm thành hình nón
+=to be coned+ bị đèn pha chiếu chụm vào; bị đèn pha phát hiện (máy bay)
+*  nội động từ
+- có hình nón
+@Chuyên ngành kinh tế
+-bột áo
+-hình nón
+-vật hình nón
+@Chuyên ngành kỹ thuật
+-côn
+-hình côn
+-hình nón
+-hình nón cụt
+-nón
+-mặt nón
+-mặt vát
+-miệng loe
+-phễu
+@Lĩnh vực: điện tử & viễn thông
+-bầu (ồng tia catốt)
+@Lĩnh vực: cơ khí & công trình
+-chi tiết hình côn
+-côn ly hợp
+@Lĩnh vực: ô tô
+-lõi ống côn
+@Lĩnh vực: dệt may
+-ống sợi côn
+@Lĩnh vực: y học
+-tế bào nón

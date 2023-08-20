@@ -1,3 +1,12 @@
-weathering
-	@weathering /'weθəriɳ/\n*  danh từ\n- thời tiết, nắng mưa, gió mưa, tuyết sương\n- sự mòn, sự vụn, sự rã ra, sự đổi màu (vì nắng mưa), sự dãi nắng dầm mưa\n- (địa lý,địa chất) sự phong hoá\n@Chuyên ngành kỹ thuật\n-sự phong hóa\n@Lĩnh vực: xây dựng\n-hiện tượng phong hóa\n-tác động phong hóa\n@Lĩnh vực: hóa học & vật liệu\n-vỏ phong hóa
-
+weathering	@weathering /'weθəriɳ/
+*  danh từ
+- thời tiết, nắng mưa, gió mưa, tuyết sương
+- sự mòn, sự vụn, sự rã ra, sự đổi màu (vì nắng mưa), sự dãi nắng dầm mưa
+- (địa lý,địa chất) sự phong hoá
+@Chuyên ngành kỹ thuật
+-sự phong hóa
+@Lĩnh vực: xây dựng
+-hiện tượng phong hóa
+-tác động phong hóa
+@Lĩnh vực: hóa học & vật liệu
+-vỏ phong hóa

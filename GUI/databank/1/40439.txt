@@ -1,3 +1,7 @@
-pentane
-	@pentane /'pentein/\n*  danh từ\n- (hoá học) Pentan\n@Chuyên ngành kỹ thuật\n-pentan\n@Lĩnh vực: hóa học & vật liệu\n-C5H12
-
+pentane	@pentane /'pentein/
+*  danh từ
+- (hoá học) Pentan
+@Chuyên ngành kỹ thuật
+-pentan
+@Lĩnh vực: hóa học & vật liệu
+-C5H12

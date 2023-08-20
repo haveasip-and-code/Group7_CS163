@@ -1,3 +1,2 @@
-blueness
-	@blueness\n- xem blue
-
+blueness	@blueness
+- xem blue

@@ -1,3 +1,23 @@
-looseness
-	@looseness /'lu:snis/\n*  danh từ\n- trạng thái lỏng; trạng thái chùng, trạng thái không căng; trạng thái giãn, trạng thái lòng thòng\n- trạng thái rộng, trạng thái lùng thùng (quần áo)\n- trạng thái xốp, trạng thái dễ làm cho tơi ra (đất)\n- tính mơ hồ, tính không chính xác; tính không chặt chẽ, tính phóng (lý luận, lập luận, viết văn...)\n- tính phóng đãng, tính phóng túng, tính không nghiêm, tính ẩu, tính bừa bâi... (đạo đức, kỷ luật...)\n- (y học) bệnh yếu ruột (hay ỉa chảy)\n@Chuyên ngành kỹ thuật\n-độ lỏng\n-độ phân tán\n-độ tơi\n-độ xốp\n-sự chùng\n-sự lỏng\n-sự nới lỏng\n@Lĩnh vực: xây dựng\n-độ rời\n-tính rời rạc\n-tính tơi\n-tính xốp\n@Lĩnh vực: cơ khí & công trình\n-khe hở lớn
-
+looseness	@looseness /'lu:snis/
+*  danh từ
+- trạng thái lỏng; trạng thái chùng, trạng thái không căng; trạng thái giãn, trạng thái lòng thòng
+- trạng thái rộng, trạng thái lùng thùng (quần áo)
+- trạng thái xốp, trạng thái dễ làm cho tơi ra (đất)
+- tính mơ hồ, tính không chính xác; tính không chặt chẽ, tính phóng (lý luận, lập luận, viết văn...)
+- tính phóng đãng, tính phóng túng, tính không nghiêm, tính ẩu, tính bừa bâi... (đạo đức, kỷ luật...)
+- (y học) bệnh yếu ruột (hay ỉa chảy)
+@Chuyên ngành kỹ thuật
+-độ lỏng
+-độ phân tán
+-độ tơi
+-độ xốp
+-sự chùng
+-sự lỏng
+-sự nới lỏng
+@Lĩnh vực: xây dựng
+-độ rời
+-tính rời rạc
+-tính tơi
+-tính xốp
+@Lĩnh vực: cơ khí & công trình
+-khe hở lớn

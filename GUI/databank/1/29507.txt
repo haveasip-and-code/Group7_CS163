@@ -1,3 +1,7 @@
-interstices
-	@Chuyên ngành kỹ thuật\n-hốc\n-khe hở\n-khe nứt\n@Lĩnh vực: xây dựng\n-lỗ rỗng bên trong
-
+interstices	
+@Chuyên ngành kỹ thuật
+-hốc
+-khe hở
+-khe nứt
+@Lĩnh vực: xây dựng
+-lỗ rỗng bên trong

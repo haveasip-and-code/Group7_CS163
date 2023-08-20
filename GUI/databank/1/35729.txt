@@ -1,3 +1,29 @@
-mosaic
-	@mosaic /mə'zeiik/\n*  tính từ\n- khảm\n*  danh từ\n- đồ khảm\n- thể khảm\n- (thực vật học) bệnh khảm\n*  ngoại động từ\n- khảm\n@Chuyên ngành kỹ thuật\n-khảm\n-mosaic\n-mozaic\n-rạn men\n-tấm ghép mảnh\n@Lĩnh vực: thực phẩm\n-bệnh đốm lá\n@Lĩnh vực: hóa học & vật liệu\n-dạng men rạn\n@Lĩnh vực: xây dựng\n-kiểu khảm\n-kiểu trang trí ghép mảnh\n-men rạn\n-tranh ghép mảnh\n@Lĩnh vực: điện tử & viễn thông\n-mặt khảm\n-mặt men rạn\n@Lĩnh vực: giao thông & vận tải\n-tranh mozaic
-
+mosaic	@mosaic /mə'zeiik/
+*  tính từ
+- khảm
+*  danh từ
+- đồ khảm
+- thể khảm
+- (thực vật học) bệnh khảm
+*  ngoại động từ
+- khảm
+@Chuyên ngành kỹ thuật
+-khảm
+-mosaic
+-mozaic
+-rạn men
+-tấm ghép mảnh
+@Lĩnh vực: thực phẩm
+-bệnh đốm lá
+@Lĩnh vực: hóa học & vật liệu
+-dạng men rạn
+@Lĩnh vực: xây dựng
+-kiểu khảm
+-kiểu trang trí ghép mảnh
+-men rạn
+-tranh ghép mảnh
+@Lĩnh vực: điện tử & viễn thông
+-mặt khảm
+-mặt men rạn
+@Lĩnh vực: giao thông & vận tải
+-tranh mozaic

@@ -1,3 +1,5 @@
-depressurization
-	@depressurization\n- sự làm giảm áp suất, sự hạ áp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sự làm hở
-
+depressurization	@depressurization
+- sự làm giảm áp suất, sự hạ áp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sự làm hở

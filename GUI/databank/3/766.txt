@@ -1,3 +1,10 @@
-adjoint
-	@adjoint\n- liên hợp, phù hợp\n- a. of a differeential euation phương trình vi phân liên hợp\n- a. of a kernel liên hợp của một hạt nhân\n- a. of a matrix ma trạn liên hợp, ma trận Hecmit\n@Chuyên ngành kỹ thuật\n-chung biên\n-kề\n-nối\n-phụ hợp
-
+adjoint	@adjoint
+- liên hợp, phù hợp
+- a. of a differeential euation phương trình vi phân liên hợp
+- a. of a kernel liên hợp của một hạt nhân
+- a. of a matrix ma trạn liên hợp, ma trận Hecmit
+@Chuyên ngành kỹ thuật
+-chung biên
+-kề
+-nối
+-phụ hợp

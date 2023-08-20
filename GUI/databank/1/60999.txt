@@ -1,3 +1,13 @@
-user
-	@user /'ju:z /\n*  danh từ\n- người dùng, người hay dùng\n=telephone user+ người dùng dây nói\n@Chuyên ngành kinh tế\n-hộ sử dụng\n-người sử dụng\n@Chuyên ngành kỹ thuật\n-khách hàng\n-người dùng\n-người sử dụng\n-người thuê bao (mạng thông tin)\n-người tiêu thụ
-
+user	@user /'ju:z /
+*  danh từ
+- người dùng, người hay dùng
+=telephone user+ người dùng dây nói
+@Chuyên ngành kinh tế
+-hộ sử dụng
+-người sử dụng
+@Chuyên ngành kỹ thuật
+-khách hàng
+-người dùng
+-người sử dụng
+-người thuê bao (mạng thông tin)
+-người tiêu thụ

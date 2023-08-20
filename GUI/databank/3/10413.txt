@@ -1,3 +1,52 @@
-comb
-	@comb /koum/\n*  danh từ\n- cái lược\n=a rake (large-tooth, dressing) comb+ lượt thưa\n=a small-tooth+ lượt bí\n- (nghành dệt) bàn chải len\n- lỗ tổ ong\n- mào (gà)\n=cock's comb+ mào gà\n- đỉnh, chóp, ngọn đầu (núi, sóng...)\n- (nghĩa bóng) tính kiêu ngạo\n=to cut someone's comb+ làm cho ai mất kiêu ngạo, làm cho ai cụt vòi\n*  ngoại động từ\n- chải (tóc, len, ngựa...)\n- (nghĩa bóng) lùng, sục\n*  nội động từ\n- nổi cuồn cuộn, dập dồn (sóng)\n!to comb out\n- chải cho hết rối, gỡ (tóc)\n- lùng sục, bắt bớ, ráp (những người tình nghi...)\n- thải, thải hồi (những thứ, những người không cần thiết)\n- (thông tục) vét sạch (người để đưa ra mặt trận; hàng trong kho...)\n!to comb somebody's hair for him\n- (xem) hair\n@Chuyên ngành kinh tế\n-cái cào\n-cái lược\n-đỉnh (chóp, ngọn)\n-lỗ tổ ong\n-mào gà\n@Chuyên ngành kỹ thuật\n-cái lược\n-chải\n-chóp\n-chóp (núi)\n-đài vòng\n-đỉnh\n-lược\n-lược bóc (máy chải)\n-lược ren\n-ngọn (sóng)\n-xà nóc\n@Lĩnh vực: xây dựng\n-dao lược rèn\n-dao thanh răng\n-khải tóc\n@Lĩnh vực: cơ khí & công trình\n-đường đo ren\n@Lĩnh vực: dệt may\n-lược mắc (kéo sợi)\n@Lĩnh vực: hóa học & vật liệu\n-thung lũng nếp lồi
-
+comb	@comb /koum/
+*  danh từ
+- cái lược
+=a rake (large-tooth, dressing) comb+ lượt thưa
+=a small-tooth+ lượt bí
+- (nghành dệt) bàn chải len
+- lỗ tổ ong
+- mào (gà)
+=cock's comb+ mào gà
+- đỉnh, chóp, ngọn đầu (núi, sóng...)
+- (nghĩa bóng) tính kiêu ngạo
+=to cut someone's comb+ làm cho ai mất kiêu ngạo, làm cho ai cụt vòi
+*  ngoại động từ
+- chải (tóc, len, ngựa...)
+- (nghĩa bóng) lùng, sục
+*  nội động từ
+- nổi cuồn cuộn, dập dồn (sóng)
+!to comb out
+- chải cho hết rối, gỡ (tóc)
+- lùng sục, bắt bớ, ráp (những người tình nghi...)
+- thải, thải hồi (những thứ, những người không cần thiết)
+- (thông tục) vét sạch (người để đưa ra mặt trận; hàng trong kho...)
+!to comb somebody's hair for him
+- (xem) hair
+@Chuyên ngành kinh tế
+-cái cào
+-cái lược
+-đỉnh (chóp, ngọn)
+-lỗ tổ ong
+-mào gà
+@Chuyên ngành kỹ thuật
+-cái lược
+-chải
+-chóp
+-chóp (núi)
+-đài vòng
+-đỉnh
+-lược
+-lược bóc (máy chải)
+-lược ren
+-ngọn (sóng)
+-xà nóc
+@Lĩnh vực: xây dựng
+-dao lược rèn
+-dao thanh răng
+-khải tóc
+@Lĩnh vực: cơ khí & công trình
+-đường đo ren
+@Lĩnh vực: dệt may
+-lược mắc (kéo sợi)
+@Lĩnh vực: hóa học & vật liệu
+-thung lũng nếp lồi

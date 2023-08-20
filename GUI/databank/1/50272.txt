@@ -1,3 +1,35 @@
-sheer
-	@sheer /ʃiə/\n*  tính từ\n- chỉ là; đúng là; hoàn toàn, tuyệt đối\n=it is sheer waste+ thật chỉ là phí công\n=a sheer impossibility+ một sự hoàn toàn không thể có được\n- dốc đứng, thẳng đứng\n=sheer coast+ bờ biển dốc đứng\n- mỏng dính, trông thấy da (vải)\n*  phó từ\n- hoàn toàn, tuyệt đối\n- thẳng, thẳng đứng\n=torn sheer out by the roots+ bật thẳng cả rễ lên\n=to rise sheer from the water+ đâm thẳng từ nước lên\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) vải mỏng dính, vải trông thấy da\n- quần áo may bằng vải mỏng dính\n*  danh từ\n- (hàng hải) sự cong vểnh lên (của con tàu ở phía mũi và đuôi)\n- sự chạy chệnh (khỏi hướng đã định)\n*  nội động từ\n- (hàng hải) chạy chệch (khỏi hướng đã định)\n!to sheer off\n- bỏ mà đi, rời, tránh (một người, một vấn đề)\n@Chuyên ngành kỹ thuật\n-độ cong\n-làm nghiêng\n-nguyên chất\n-quay\n-sai lệch\n-thẳng đứng\n-thẳng góc\n@Lĩnh vực: giao thông & vận tải\n-sự cong vểnh lên (ở mũi và đuôi tàu)\n@Lĩnh vực: dệt may\n-vải mỏng trong
-
+sheer	@sheer /ʃiə/
+*  tính từ
+- chỉ là; đúng là; hoàn toàn, tuyệt đối
+=it is sheer waste+ thật chỉ là phí công
+=a sheer impossibility+ một sự hoàn toàn không thể có được
+- dốc đứng, thẳng đứng
+=sheer coast+ bờ biển dốc đứng
+- mỏng dính, trông thấy da (vải)
+*  phó từ
+- hoàn toàn, tuyệt đối
+- thẳng, thẳng đứng
+=torn sheer out by the roots+ bật thẳng cả rễ lên
+=to rise sheer from the water+ đâm thẳng từ nước lên
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) vải mỏng dính, vải trông thấy da
+- quần áo may bằng vải mỏng dính
+*  danh từ
+- (hàng hải) sự cong vểnh lên (của con tàu ở phía mũi và đuôi)
+- sự chạy chệnh (khỏi hướng đã định)
+*  nội động từ
+- (hàng hải) chạy chệch (khỏi hướng đã định)
+!to sheer off
+- bỏ mà đi, rời, tránh (một người, một vấn đề)
+@Chuyên ngành kỹ thuật
+-độ cong
+-làm nghiêng
+-nguyên chất
+-quay
+-sai lệch
+-thẳng đứng
+-thẳng góc
+@Lĩnh vực: giao thông & vận tải
+-sự cong vểnh lên (ở mũi và đuôi tàu)
+@Lĩnh vực: dệt may
+-vải mỏng trong

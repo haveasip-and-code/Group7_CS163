@@ -1,3 +1,4 @@
-swellings
-	@Chuyên ngành kỹ thuật\n-đường nhánh\n@Lĩnh vực: xây dựng\n-đường vòng (xe lửa...)
-
+swellings	@Chuyên ngành kỹ thuật
+-đường nhánh
+@Lĩnh vực: xây dựng
+-đường vòng (xe lửa...)

@@ -1,3 +1,4 @@
-aperiodicity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tính không tuần hoàn
-
+aperiodicity	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tính không tuần hoàn

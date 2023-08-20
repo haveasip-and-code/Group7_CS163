@@ -1,3 +1,20 @@
-eliminator
-	@eliminator /i'limineitə/\n*  danh từ (kỹ thuật)\n- thiết bị loại, thiết bị thải\n- thiết bị khử nước\n- máy đẩy, máy thúc\n@Chuyên ngành kỹ thuật\n-bộ khử\n-bộ triệt\n@Lĩnh vực: xây dựng\n-thiết bị khử\n@Lĩnh vực: cơ khí & công trình\n-thiết bị loại\n@Chuyên ngành kỹ thuật\n-bộ khử\n-bộ triệt\n@Lĩnh vực: xây dựng\n-thiết bị khử\n@Lĩnh vực: cơ khí & công trình\n-thiết bị loại
-
+eliminator	
+@eliminator /i'limineitə/
+*  danh từ (kỹ thuật)
+- thiết bị loại, thiết bị thải
+- thiết bị khử nước
+- máy đẩy, máy thúc
+@Chuyên ngành kỹ thuật
+-bộ khử
+-bộ triệt
+@Lĩnh vực: xây dựng
+-thiết bị khử
+@Lĩnh vực: cơ khí & công trình
+-thiết bị loại
+@Chuyên ngành kỹ thuật
+-bộ khử
+-bộ triệt
+@Lĩnh vực: xây dựng
+-thiết bị khử
+@Lĩnh vực: cơ khí & công trình
+-thiết bị loại

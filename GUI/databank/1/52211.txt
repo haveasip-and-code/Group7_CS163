@@ -1,3 +1,2 @@
-specie
-	@specie\n- (toán kinh tế) tiền (kim loại)
-
+specie	@specie
+- (toán kinh tế) tiền (kim loại)

@@ -1,3 +1,9 @@
-retailer
-	@retailer /ri:'teilə/\n*  danh từ\n- người bán lẻ\n- người phao (tin đồn)\n@Chuyên ngành kinh tế\n-nhà bán lẻ\n-thương nhân bán lẻ\n@Chuyên ngành kỹ thuật\n-người bán lẻ
-
+retailer	@retailer /ri:'teilə/
+*  danh từ
+- người bán lẻ
+- người phao (tin đồn)
+@Chuyên ngành kinh tế
+-nhà bán lẻ
+-thương nhân bán lẻ
+@Chuyên ngành kỹ thuật
+-người bán lẻ

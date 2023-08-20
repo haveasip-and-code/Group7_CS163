@@ -1,3 +1,40 @@
-sump
-	@sump /sʌmp/\n*  danh từ\n- hầm chứa phân (ở nhà xí máy); hố nước rác\n- (kỹ thuật) bình hứng dầu\n@Chuyên ngành kinh tế\n-thùng chứa\n-thùng lắng\n-thùng tiếp nhận\n@Chuyên ngành kỹ thuật\n-bể bùn\n-bể gom\n-bể gom cặn lắng\n-bể lắng\n-bể lắng bùn cặn\n-đáy vỏ\n-giếng\n-giếng lắng\n-hố chứa bùn cặn\n-hố gom (kỹ thuật khoan)\n-hố thu nước\n-hố thu nước bẩn\n-khay hứng dầu\n-rãnh gom\n-rốn giếng\n@Lĩnh vực: điện\n-bình hứng dầu\n@Lĩnh vực: cơ khí & công trình\n-bộ phận gom dầu\n-thùng dầu xỉ\n-thùng lắng cặn\n@Lĩnh vực: điện lạnh\n-đáy chứa dầu\n@Lĩnh vực: hóa học & vật liệu\n-giếng nước\n-hồ nước bẩn\n@Lĩnh vực: xây dựng\n-giếng thấm\n-hồ chứa nước bẩn\n@Lĩnh vực: vật lý\n-thùng chất quét phủ
-
+sump	@sump /sʌmp/
+*  danh từ
+- hầm chứa phân (ở nhà xí máy); hố nước rác
+- (kỹ thuật) bình hứng dầu
+@Chuyên ngành kinh tế
+-thùng chứa
+-thùng lắng
+-thùng tiếp nhận
+@Chuyên ngành kỹ thuật
+-bể bùn
+-bể gom
+-bể gom cặn lắng
+-bể lắng
+-bể lắng bùn cặn
+-đáy vỏ
+-giếng
+-giếng lắng
+-hố chứa bùn cặn
+-hố gom (kỹ thuật khoan)
+-hố thu nước
+-hố thu nước bẩn
+-khay hứng dầu
+-rãnh gom
+-rốn giếng
+@Lĩnh vực: điện
+-bình hứng dầu
+@Lĩnh vực: cơ khí & công trình
+-bộ phận gom dầu
+-thùng dầu xỉ
+-thùng lắng cặn
+@Lĩnh vực: điện lạnh
+-đáy chứa dầu
+@Lĩnh vực: hóa học & vật liệu
+-giếng nước
+-hồ nước bẩn
+@Lĩnh vực: xây dựng
+-giếng thấm
+-hồ chứa nước bẩn
+@Lĩnh vực: vật lý
+-thùng chất quét phủ

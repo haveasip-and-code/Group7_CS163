@@ -1,3 +1,2 @@
-coachable
-	@coachable\n- xem coach
-
+coachable	@coachable
+- xem coach

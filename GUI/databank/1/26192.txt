@@ -1,3 +1,50 @@
-horn
-	@horn /hɔ:n/\n*  danh từ\n- sừng (trâu bò...); gạc hươu, nai...)\n- râu,  anten (sâu bọ...), mào, lông (chim)\n- (nghĩa bóng) sừng (tượng trưng cho sự cắm sừng chồng)\n- chất sừng\n=comb made of horn+ lược làm bằng sừng\n- đồ dùng bắng sừng\n- tù và\n- còi (ô tô...)\n- (âm nhạc) kèn co\n- đe hai đầu nhọn\n- đầu nhọn trăng lưỡi liềm\n- mỏm (vịnh)\n- nhánh (sông)\n- cành (hoa...)\n!between (on) the horns of a dilemma\n- (xem) delemma\n!to draw in one's horns\n- (xem) draw\n!horn of plenty\n- (xem) plenty\n!to take the bull by the horns\n- (xem) bull\n*  ngoại động từ\n- làm thành hình sừng, sửa thành hình sừng\n- cắt ngắn sừng, bẻ gãy sừng (súc vật...)\n- húc bằng sừng\n- (từ cổ,nghĩa cổ) cắm sừng (chồng)\n*  nội động từ\n- to horn in dính vào, can thiệp vào\n@Chuyên ngành kinh tế\n-sừng\n@Chuyên ngành kỹ thuật\n-ăng ten hình sừng\n-đe\n-nhánh sông\n-mỏm (vịnh)\n-sừng\n@Lĩnh vực: ô tô\n-còi (ô tô)\n-còi ô tô\n-còi xe\n@Lĩnh vực: giao thông & vận tải\n-còi tín hiệu\n@Lĩnh vực: xây dựng\n-cuốn loa\n-đầu nhô ra\n-đầu nhô thanh dọc cửa\n@Lĩnh vực: y học\n-sừng (trong cơ thể học)\n@Lĩnh vực: hóa học & vật liệu\n-tù và
-
+horn	
+@horn /hɔ:n/
+*  danh từ
+- sừng (trâu bò...); gạc hươu, nai...)
+- râu,  anten (sâu bọ...), mào, lông (chim)
+- (nghĩa bóng) sừng (tượng trưng cho sự cắm sừng chồng)
+- chất sừng=comb made of horn
++ lược làm bằng sừng
+- đồ dùng bắng sừng
+- tù và
+- còi (ô tô...)
+- (âm nhạc) kèn co
+- đe hai đầu nhọn
+- đầu nhọn trăng lưỡi liềm
+- mỏm (vịnh)
+- nhánh (sông)
+- cành (hoa...)!between (on) the horns of a dilemma
+- (xem) delemma!to draw in one's horns
+- (xem) draw!horn of plenty
+- (xem) plenty!to take the bull by the horns
+- (xem) bull
+*  ngoại động từ
+- làm thành hình sừng, sửa thành hình sừng
+- cắt ngắn sừng, bẻ gãy sừng (súc vật...)
+- húc bằng sừng
+- (từ cổ,nghĩa cổ) cắm sừng (chồng)
+*  nội động từ
+- to horn in dính vào, can thiệp vào
+@Chuyên ngành kinh tế
+-sừng
+@Chuyên ngành kỹ thuật
+-ăng ten hình sừng
+-đe
+-nhánh sông
+-mỏm (vịnh)
+-sừng
+@Lĩnh vực: ô tô
+-còi (ô tô)
+-còi ô tô
+-còi xe
+@Lĩnh vực: giao thông & vận tải
+-còi tín hiệu
+@Lĩnh vực: xây dựng
+-cuốn loa
+-đầu nhô ra
+-đầu nhô thanh dọc cửa
+@Lĩnh vực: y học
+-sừng (trong cơ thể học)
+@Lĩnh vực: hóa học & vật liệu
+-tù và

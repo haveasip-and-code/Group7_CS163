@@ -1,3 +1,18 @@
-talon
-	@talon /'tælən/\n*  danh từ\n- móng, vuốt (chim mồi)\n- gốc (biên lai, séc...)\n- bài chia còn dư\n@Chuyên ngành kinh tế\n-cuống (phiếu)\n-cuống (phiếu, biên lai, séc...)\n-cuống đổi phiếu trả lãi\n-cuống lưu chiếu (biên lai)\n-cuống lưu phiếu (biên lai)\n-cuống phiếu\n-phần chia còn lại\n-phiếu đổi cổ tức\n@Chuyên ngành kỹ thuật\n-đường viền\n@Lĩnh vực: xây dựng\n-gờ đế cột
-
+talon	@talon /'tælən/
+*  danh từ
+- móng, vuốt (chim mồi)
+- gốc (biên lai, séc...)
+- bài chia còn dư
+@Chuyên ngành kinh tế
+-cuống (phiếu)
+-cuống (phiếu, biên lai, séc...)
+-cuống đổi phiếu trả lãi
+-cuống lưu chiếu (biên lai)
+-cuống lưu phiếu (biên lai)
+-cuống phiếu
+-phần chia còn lại
+-phiếu đổi cổ tức
+@Chuyên ngành kỹ thuật
+-đường viền
+@Lĩnh vực: xây dựng
+-gờ đế cột

@@ -1,3 +1,40 @@
-hunt
-	@hunt /hʌnt/\n*  danh từ\n- cuộc đi săn; sự đi săn\n- cuộc lùng sục, cuộc tìm kiếm\n=to find somebody after a long hunt+ tìm thấy ai sau khi đã đi tìm một thời gian dài\n=to have a hunt for a job+ đi tìm việc làm\n- đoàn người đi săn\n- khu vực săn bắn\n*  nội động từ\n- săn bắn\n- (+ after,  gor) lùng, tìm kiếm\n=to hunt for old furniture+ lùng mua đồ gỗ cũ\n=to hunt for someone+ tìm kiếm ai\n*  ngoại động từ\n- săn, săn đuổi\n=to hunt big gam+ săn thú lớn\n- lùng sục để săn đuổi, lùng sục để tìm kiếm\n=to hunt the whole district for game+ lùng sục khắp vùng để săn thú\n- dùng (ngựa, chó săn) để đi săn\n- (từ Mỹ,nghĩa Mỹ) bắn (thú săn)\n!to hunt down\n- dồn vào thế cùng\n- lùng sục, lùng bắt\n=to hunt down a criminal+ lùng bắt một kẻ phạm tôi\n!to hunt out\n- lùng đuổi, đuổi ra\n- tìm ra, lùng ra\n!to hunt up\n- lùng sục, tìm kiếm\n!to hunt in couples\n- (xem) couple\n@Chuyên ngành kỹ thuật\n-rung\n-sự dao động\n-sự đu đưa\n@Lĩnh vực: điện\n-dao động đuổi\n-lắc pha\n@Lĩnh vực: xây dựng\n-săn\n@Lĩnh vực: toán & tin\n-sự đảo lại
-
+hunt	
+@hunt /hʌnt/
+*  danh từ
+- cuộc đi săn; sự đi săn
+- cuộc lùng sục, cuộc tìm kiếm=to find somebody after a long hunt
++ tìm thấy ai sau khi đã đi tìm một thời gian dài=to have a hunt for a job
++ đi tìm việc làm
+- đoàn người đi săn
+- khu vực săn bắn
+*  nội động từ
+- săn bắn
+- (
++ after,  gor) lùng, tìm kiếm=to hunt for old furniture
++ lùng mua đồ gỗ cũ=to hunt for someone
++ tìm kiếm ai
+*  ngoại động từ
+- săn, săn đuổi=to hunt big gam
++ săn thú lớn
+- lùng sục để săn đuổi, lùng sục để tìm kiếm=to hunt the whole district for game
++ lùng sục khắp vùng để săn thú
+- dùng (ngựa, chó săn) để đi săn
+- (từ Mỹ,nghĩa Mỹ) bắn (thú săn)!to hunt down
+- dồn vào thế cùng
+- lùng sục, lùng bắt=to hunt down a criminal
++ lùng bắt một kẻ phạm tôi!to hunt out
+- lùng đuổi, đuổi ra
+- tìm ra, lùng ra!to hunt up
+- lùng sục, tìm kiếm!to hunt in couples
+- (xem) couple
+@Chuyên ngành kỹ thuật
+-rung
+-sự dao động
+-sự đu đưa
+@Lĩnh vực: điện
+-dao động đuổi
+-lắc pha
+@Lĩnh vực: xây dựng
+-săn
+@Lĩnh vực: toán & tin
+-sự đảo lại

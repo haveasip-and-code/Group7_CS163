@@ -1,3 +1,41 @@
-sling
-	@sling /sliɳ/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) rượu mạnh pha đường và nước nóng\n- ná bắn đá\n- súng cao su\n- dây đeo; dây quàng; băng đeo (cánh tay đau)\n=rifle sling+ dây đeo súng\n=sling of a knapsack+ dây đeo ba lô\n*  ngoại động từ slung\n- bắn, quăng, ném\n- đeo, treo, móc\n- quàng dây (vào vật gì để kéo lên)\n!to sling ink\n- (từ lóng) viết báo, viết văn\n!to sling one's hook\n- (xem) hook\n@Chuyên ngành kinh tế\n-cáp máy móc\n-cáp móc\n-dây kéo hàng (dây cột vào kiện hàng để kéo lên)\n-dây móc\n-dây treo\n@Chuyên ngành kỹ thuật\n-dây\n-dây cáp\n-dây cắt đất sét\n-dây đeo\n-dây quàng\n-dây quàng, cái quang đeo\n-nâng bằng cần trục\n-móc treo\n-xích\n@Lĩnh vực: giao thông & vận tải\n-bộ dây\n@Lĩnh vực: xây dựng\n-cáp móc\n-đeo\n@Lĩnh vực: y học\n-sự băng chéo\n@Lĩnh vực: cơ khí & công trình\n-treo bằng dây cáp
-
+sling	@sling /sliɳ/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) rượu mạnh pha đường và nước nóng
+- ná bắn đá
+- súng cao su
+- dây đeo; dây quàng; băng đeo (cánh tay đau)
+=rifle sling+ dây đeo súng
+=sling of a knapsack+ dây đeo ba lô
+*  ngoại động từ slung
+- bắn, quăng, ném
+- đeo, treo, móc
+- quàng dây (vào vật gì để kéo lên)
+!to sling ink
+- (từ lóng) viết báo, viết văn
+!to sling one's hook
+- (xem) hook
+@Chuyên ngành kinh tế
+-cáp máy móc
+-cáp móc
+-dây kéo hàng (dây cột vào kiện hàng để kéo lên)
+-dây móc
+-dây treo
+@Chuyên ngành kỹ thuật
+-dây
+-dây cáp
+-dây cắt đất sét
+-dây đeo
+-dây quàng
+-dây quàng, cái quang đeo
+-nâng bằng cần trục
+-móc treo
+-xích
+@Lĩnh vực: giao thông & vận tải
+-bộ dây
+@Lĩnh vực: xây dựng
+-cáp móc
+-đeo
+@Lĩnh vực: y học
+-sự băng chéo
+@Lĩnh vực: cơ khí & công trình
+-treo bằng dây cáp

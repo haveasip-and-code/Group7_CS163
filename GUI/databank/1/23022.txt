@@ -1,3 +1,4 @@
-gastroenterology
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vị tràng học
-
+gastroenterology	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vị tràng học

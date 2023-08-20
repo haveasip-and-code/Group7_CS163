@@ -1,3 +1,6 @@
-promisor
-	@promisor /promisor/\n*  danh từ\n- người hứa, người hứa hẹn\n@Chuyên ngành kinh tế\n-người đi ra lời hứa\n-người đưa ra lời hứa
-
+promisor	@promisor /promisor/
+*  danh từ
+- người hứa, người hứa hẹn
+@Chuyên ngành kinh tế
+-người đi ra lời hứa
+-người đưa ra lời hứa

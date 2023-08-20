@@ -1,3 +1,23 @@
-arbitrary
-	@arbitrary /'ɑ:bitrəri/\n*  tính từ\n- chuyên quyền, độc đoán\n- tuỳ ý, tự ý\n- không bị bó buộc\n- hay thay đổi, thất thường, được tuỳ ý quyết định\n- (pháp lý) có toàn quyền quyết định, được tuỳ ý quyết định\n- (toán học) tuỳ ý\n=arbitrary function+ hàm tuỳ ý\n@Chuyên ngành kinh tế\n-chuyên chế\n-chuyên đoán\n-độc đoán\n-giả định\n-tùy ý\n@Chuyên ngành kỹ thuật\n-bất kỳ\n@Lĩnh vực: xây dựng\n-độc đoán\n@Lĩnh vực: cơ khí & công trình\n-tùy ý\n@Lĩnh vực: điện lạnh\n-tùy ý bất kỳ
-
+arbitrary	@arbitrary /'ɑ:bitrəri/
+*  tính từ
+- chuyên quyền, độc đoán
+- tuỳ ý, tự ý
+- không bị bó buộc
+- hay thay đổi, thất thường, được tuỳ ý quyết định
+- (pháp lý) có toàn quyền quyết định, được tuỳ ý quyết định
+- (toán học) tuỳ ý
+=arbitrary function+ hàm tuỳ ý
+@Chuyên ngành kinh tế
+-chuyên chế
+-chuyên đoán
+-độc đoán
+-giả định
+-tùy ý
+@Chuyên ngành kỹ thuật
+-bất kỳ
+@Lĩnh vực: xây dựng
+-độc đoán
+@Lĩnh vực: cơ khí & công trình
+-tùy ý
+@Lĩnh vực: điện lạnh
+-tùy ý bất kỳ

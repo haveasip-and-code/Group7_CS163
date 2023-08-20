@@ -1,3 +1,10 @@
-microfarad
-	@microfarad\n* danh từ\n- Micrôfara\n@Chuyên ngành kỹ thuật\n-microfara\n@Lĩnh vực: điện lạnh\n-mF\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-micrô fara
-
+microfarad	@microfarad
+* danh từ
+- Micrôfara
+@Chuyên ngành kỹ thuật
+-microfara
+@Lĩnh vực: điện lạnh
+-mF
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-micrô fara

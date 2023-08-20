@@ -1,3 +1,28 @@
-laboratory
-	@laboratory /lə'bɔrətəri/ (lab) /læb/\n*  danh từ\n- phòng thí nghiệm; phòng pha chế\n!hot laboratory\n- phòng thí nghiệm "nóng" (nơi tiến hành những cuộc thí nghiệm nguy hiểm có thể chết người)\n- buồng lò, buồng luyện (luyện kim)\n!language laboratory\n- phương pháp học ngoại ngữ bằng máy ghi âm và phim ảnh\n@Chuyên ngành kinh tế\n-phòng thí nghiệm\n@Chuyên ngành kỹ thuật\n-phòng thí nghiệm\n-thùng chứa\n@Lĩnh vực: cơ khí & công trình\n-buồng lò\n@Lĩnh vực: toán & tin\n-phòng thực nghiệm\n@Lĩnh vực: y học\n-phòng xét nghiệm, phòng thí nghiệm\n@Chuyên ngành kỹ thuật\n-phòng thí nghiệm\n-thùng chứa\n@Lĩnh vực: cơ khí & công trình\n-buồng lò\n@Lĩnh vực: toán & tin\n-phòng thực nghiệm\n@Lĩnh vực: y học\n-phòng xét nghiệm, phòng thí nghiệm
-
+laboratory	@laboratory /lə'bɔrətəri/ (lab) /læb/
+*  danh từ
+- phòng thí nghiệm; phòng pha chế
+!hot laboratory
+- phòng thí nghiệm "nóng" (nơi tiến hành những cuộc thí nghiệm nguy hiểm có thể chết người)
+- buồng lò, buồng luyện (luyện kim)
+!language laboratory
+- phương pháp học ngoại ngữ bằng máy ghi âm và phim ảnh
+@Chuyên ngành kinh tế
+-phòng thí nghiệm
+@Chuyên ngành kỹ thuật
+-phòng thí nghiệm
+-thùng chứa
+@Lĩnh vực: cơ khí & công trình
+-buồng lò
+@Lĩnh vực: toán & tin
+-phòng thực nghiệm
+@Lĩnh vực: y học
+-phòng xét nghiệm, phòng thí nghiệm
+@Chuyên ngành kỹ thuật
+-phòng thí nghiệm
+-thùng chứa
+@Lĩnh vực: cơ khí & công trình
+-buồng lò
+@Lĩnh vực: toán & tin
+-phòng thực nghiệm
+@Lĩnh vực: y học
+-phòng xét nghiệm, phòng thí nghiệm

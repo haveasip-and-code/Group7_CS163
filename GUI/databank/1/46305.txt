@@ -1,3 +1,22 @@
-reflector
-	@reflector\n* danh từ\n- gương phản xạ, vật phản xạ nhiệt, vật phản xạ ánh sáng; cái phản hồi âm thanh\n- gương nhìn sau, kính hậu (ở ô tô)\n- đèn đỏ; vật phản quang (bánh xe đạp )\n@Chuyên ngành kỹ thuật\n-bộ đẩy ngược\n-bộ phản xạ\n-đèn phản chiếu\n-gương\n-gương phản chiếu\n-gương phản xạ\n-mặt phản xạ\n-vật phản xạ\n@Lĩnh vực: điện lạnh\n-chấn tử phản xạ\n@Lĩnh vực: ô tô\n-chóa đèn pha\n@Lĩnh vực: y học\n-dụng cụ phản chiếu\n@Lĩnh vực: xây dựng\n-thiết bị phản xạ
-
+reflector	@reflector
+* danh từ
+- gương phản xạ, vật phản xạ nhiệt, vật phản xạ ánh sáng; cái phản hồi âm thanh
+- gương nhìn sau, kính hậu (ở ô tô)
+- đèn đỏ; vật phản quang (bánh xe đạp )
+@Chuyên ngành kỹ thuật
+-bộ đẩy ngược
+-bộ phản xạ
+-đèn phản chiếu
+-gương
+-gương phản chiếu
+-gương phản xạ
+-mặt phản xạ
+-vật phản xạ
+@Lĩnh vực: điện lạnh
+-chấn tử phản xạ
+@Lĩnh vực: ô tô
+-chóa đèn pha
+@Lĩnh vực: y học
+-dụng cụ phản chiếu
+@Lĩnh vực: xây dựng
+-thiết bị phản xạ

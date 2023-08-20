@@ -1,3 +1,7 @@
-feminine
-	@feminine /'feminin/\n*  tính từ\n- (thuộc) đàn bà, như đàn bà; yểu điệu dịu dàng (như đàn bà)\n- (ngôn ngữ học) (thuộc) giống cái\n=a feminine noun+ danh từ giống cái\n- (từ hiếm,nghĩa hiếm) cái, mái
-
+feminine	
+@feminine /'feminin/
+*  tính từ
+- (thuộc) đàn bà, như đàn bà; yểu điệu dịu dàng (như đàn bà)
+- (ngôn ngữ học) (thuộc) giống cái=a feminine noun
++ danh từ giống cái
+- (từ hiếm,nghĩa hiếm) cái, mái

@@ -1,3 +1,15 @@
-spectrograph
-	@spectrograph /'spektrougrɑ:f/\n*  danh từ\n- (vật lý) máy ghi phổ, máy quang phổ\n@Chuyên ngành kỹ thuật\n-máy quang phổ\n-phổ ký\n@Lĩnh vực: cơ khí & công trình\n-ảnh quang phổ\n@Lĩnh vực: xây dựng\n-máy (chụp) quang phổ\n-phép chụp phổ\n@Lĩnh vực: vật lý\n-máy ghi phổ\n@Lĩnh vực: y học\n-quang phổ ký
-
+spectrograph	@spectrograph /'spektrougrɑ:f/
+*  danh từ
+- (vật lý) máy ghi phổ, máy quang phổ
+@Chuyên ngành kỹ thuật
+-máy quang phổ
+-phổ ký
+@Lĩnh vực: cơ khí & công trình
+-ảnh quang phổ
+@Lĩnh vực: xây dựng
+-máy (chụp) quang phổ
+-phép chụp phổ
+@Lĩnh vực: vật lý
+-máy ghi phổ
+@Lĩnh vực: y học
+-quang phổ ký

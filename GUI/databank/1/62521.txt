@@ -1,3 +1,5 @@
-watertightness
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-độ kín nước\n@Lĩnh vực: xây dựng\n-tính kín nước
-
+watertightness	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-độ kín nước
+@Lĩnh vực: xây dựng
+-tính kín nước

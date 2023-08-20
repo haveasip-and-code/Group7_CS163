@@ -1,3 +1,9 @@
-greedy
-	@greedy /'gri:di/\n*  tính từ\n- tham ăn, háu ăn\n- tham lam, hám\n=greedy of honours+ hám danh\n=greedy of gaint+ hám lợi\n- thèm khát, thiết tha\n=to be greedy to do something+ thèm khát được làm gì
-
+greedy	
+@greedy /'gri:di/
+*  tính từ
+- tham ăn, háu ăn
+- tham lam, hám=greedy of honours
++ hám danh=greedy of gaint
++ hám lợi
+- thèm khát, thiết tha=to be greedy to do something
++ thèm khát được làm gì

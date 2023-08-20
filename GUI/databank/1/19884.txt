@@ -1,3 +1,19 @@
-expire
-	@expire /iks'paiə/\n*  ngoại động từ\n- thở ra\n*  nội động từ\n- thở ra\n- thở hắt ra; tắt thở, chết; tắt (lửa...)\n- mãn hạn, kết thúc, hết hiệu lực (luật); mai một, mất đi (chức tước...)\n@Chuyên ngành kinh tế\n-đã hết hạn\n-đã hết hiệu lực\n-đã kết thúc\n-hết hạn\n-hết hiệu lực\n-kết thúc\n@Chuyên ngành kỹ thuật\n-giải thích\n@Chuyên ngành kỹ thuật\n-giải thích
-
+expire	
+@expire /iks'paiə/
+*  ngoại động từ
+- thở ra
+*  nội động từ
+- thở ra
+- thở hắt ra; tắt thở, chết; tắt (lửa...)
+- mãn hạn, kết thúc, hết hiệu lực (luật); mai một, mất đi (chức tước...)
+@Chuyên ngành kinh tế
+-đã hết hạn
+-đã hết hiệu lực
+-đã kết thúc
+-hết hạn
+-hết hiệu lực
+-kết thúc
+@Chuyên ngành kỹ thuật
+-giải thích
+@Chuyên ngành kỹ thuật
+-giải thích

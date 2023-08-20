@@ -1,3 +1,63 @@
-word
-	@word /wə:d/\n*  danh từ\n- từ\n=to translate word for word+ dịch theo từng từ một\n- lời nói, lời\n=big words+ những lời huênh hoang khoác lác, những lời loè bịp\n=a man of few words+ một người ít nói\n=in other words+ nói cách khác\n=in so many words+ nói đúng như vậy, nói toạc ra\n=by word of mouth+ bằng lời nói; truyền khẩu\n=spoken word+ lời nói\n=I want a word with you+ tôi muốn nói với anh một điều\n=high (hard, warm, hot, sharp) words+ lời nói nặng\n=burning words+ lời lẽ hăng hái kích động\n=wild and whirling word+ lời lẽ thiếu cân nhắc, lời nói tếu\n=to have no word for+ không biết nói thế nào về\n=beyond words+ không nói được, không thể tả xiết\n- lời báo tin, tin tức, lời nhắn\n=to leave word that+ báo tin rằng, báo rằng\n=word came that+ người ta báo tin rằng\n- lời hứa, lời\n=to be as good as one's word+ làm nhiều hơn đã hứa, nói ít làm nhiều\n=to give one's word+ hứa\n=to keep one's word+ giữ lời hứa\n=a man of his word+ người giữ lời hứa\n=upon my word+ xin lấy danh dự mà thề\n- lệnh, khẩu hiệu\n=to give the word to do something+ ra lệnh làm điều gì\n- (số nhiều) sự cãi nhau, lời qua tiếng lại\n=to have words with+ cãi nhau với\n=they had words+ họ đã có lời qua tiếng lại với nhau\n=to proceed from words to blows+ từ cãi nhau đến đánh nhau\n!at a word\n- lập tức\n!go give someone one's good word\n- giới thiệu ai (làm công tác gì...)\n!hard words break no bones\n!fine words butter no parsnips\n!words are but wind\n- lời nói không ăn thua gì (so với hành động)\n!not to have a word to throw at a dog\n- (xem) dog\n!the last word in\n- kiểu mới nhất về (cái gì); thành tựu mới nhất về (cái gì)\n!on (with) the word\n- vừa nói (là làm ngay)\n!to say a good word for\n- bào chữa, nói hộ\n- khen ngợi\n!to suit the action to the word\n- thực hiện ngay lời doạ dẫm; thực hiện ngay lời hứa\n!a word in (out of) season\n- lời nói đúng (không đúng) lúc\n!a word to the wise\n- đối với một người khôn một lời cũng đủ\n!the Word of God; God's Word\n- (tôn giáo) sách Phúc âm\n*  ngoại động từ\n- phát biểu, nói lên, bày tỏ, diễn tả\n=to word an idea+ phát biểu một ý kiến\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thông tin trong khối
-
+word	@word /wə:d/
+*  danh từ
+- từ
+=to translate word for word+ dịch theo từng từ một
+- lời nói, lời
+=big words+ những lời huênh hoang khoác lác, những lời loè bịp
+=a man of few words+ một người ít nói
+=in other words+ nói cách khác
+=in so many words+ nói đúng như vậy, nói toạc ra
+=by word of mouth+ bằng lời nói; truyền khẩu
+=spoken word+ lời nói
+=I want a word with you+ tôi muốn nói với anh một điều
+=high (hard, warm, hot, sharp) words+ lời nói nặng
+=burning words+ lời lẽ hăng hái kích động
+=wild and whirling word+ lời lẽ thiếu cân nhắc, lời nói tếu
+=to have no word for+ không biết nói thế nào về
+=beyond words+ không nói được, không thể tả xiết
+- lời báo tin, tin tức, lời nhắn
+=to leave word that+ báo tin rằng, báo rằng
+=word came that+ người ta báo tin rằng
+- lời hứa, lời
+=to be as good as one's word+ làm nhiều hơn đã hứa, nói ít làm nhiều
+=to give one's word+ hứa
+=to keep one's word+ giữ lời hứa
+=a man of his word+ người giữ lời hứa
+=upon my word+ xin lấy danh dự mà thề
+- lệnh, khẩu hiệu
+=to give the word to do something+ ra lệnh làm điều gì
+- (số nhiều) sự cãi nhau, lời qua tiếng lại
+=to have words with+ cãi nhau với
+=they had words+ họ đã có lời qua tiếng lại với nhau
+=to proceed from words to blows+ từ cãi nhau đến đánh nhau
+!at a word
+- lập tức
+!go give someone one's good word
+- giới thiệu ai (làm công tác gì...)
+!hard words break no bones
+!fine words butter no parsnips
+!words are but wind
+- lời nói không ăn thua gì (so với hành động)
+!not to have a word to throw at a dog
+- (xem) dog
+!the last word in
+- kiểu mới nhất về (cái gì); thành tựu mới nhất về (cái gì)
+!on (with) the word
+- vừa nói (là làm ngay)
+!to say a good word for
+- bào chữa, nói hộ
+- khen ngợi
+!to suit the action to the word
+- thực hiện ngay lời doạ dẫm; thực hiện ngay lời hứa
+!a word in (out of) season
+- lời nói đúng (không đúng) lúc
+!a word to the wise
+- đối với một người khôn một lời cũng đủ
+!the Word of God; God's Word
+- (tôn giáo) sách Phúc âm
+*  ngoại động từ
+- phát biểu, nói lên, bày tỏ, diễn tả
+=to word an idea+ phát biểu một ý kiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thông tin trong khối

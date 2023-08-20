@@ -1,3 +1,7 @@
-croquette
-	@croquette\n* danh từ\n- miếng khoai tròn được bọc bằng vụn bánh mì và rán mỡ\n@Chuyên ngành kinh tế\n-viên cá\n-viên thịt
-
+croquette	
+@croquette
+* danh từ
+- miếng khoai tròn được bọc bằng vụn bánh mì và rán mỡ
+@Chuyên ngành kinh tế
+-viên cá
+-viên thịt

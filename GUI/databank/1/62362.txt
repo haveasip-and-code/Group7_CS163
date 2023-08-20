@@ -1,3 +1,8 @@
-wan
-	@wan /wɔn/\n*  tính từ\n- xanh xao; nhợt nhạt, yếu ớt\n=a wan complexion+ nước da xanh xao\n=a wan light+ ánh sáng nhợt nhạt\n- uể oải, mệt mỏi, không thần sắc (người)\n@Chuyên ngành kỹ thuật\n-mạng WAN
-
+wan	@wan /wɔn/
+*  tính từ
+- xanh xao; nhợt nhạt, yếu ớt
+=a wan complexion+ nước da xanh xao
+=a wan light+ ánh sáng nhợt nhạt
+- uể oải, mệt mỏi, không thần sắc (người)
+@Chuyên ngành kỹ thuật
+-mạng WAN

@@ -1,3 +1,31 @@
-arrester
-	@arrester /ə'restə/ (arrestor) /ə'restə/\n*  danh từ\n- người bắt giữ\n- (điện học) cái thu lôi, cái chống sét\n- (kỹ thuật) cái hãm, bộ phân hãm\n@Chuyên ngành kỹ thuật\n-bộ chống sét\n-bộ hạn chế\n-bộ khống chế\n-bộ phóng điện\n-bộ thu lôi\n-cái chặn\n-cái hãm\n-cơ cấu hạn vị\n-thiết bị dừng\n-trụ ống\n@Lĩnh vực: điện lạnh\n-bộ chống tăng vọt\n-chống quá áp\n@Lĩnh vực: xây dựng\n-bộ dừng\n-cơ cấu dừng\n-cột chống sét\n-tấm chắn tia lửa\n@Lĩnh vực: hóa học & vật liệu\n-bộ phận hãm\n@Lĩnh vực: điện\n-bộ trống sét\n-cái thu lôi\n-cái trống sét
-
+arrester	
+@arrester /ə'restə/ (arrestor) /ə'restə/
+*  danh từ
+- người bắt giữ
+- (điện học) cái thu lôi, cái chống sét
+- (kỹ thuật) cái hãm, bộ phân hãm
+@Chuyên ngành kỹ thuật
+-bộ chống sét
+-bộ hạn chế
+-bộ khống chế
+-bộ phóng điện
+-bộ thu lôi
+-cái chặn
+-cái hãm
+-cơ cấu hạn vị
+-thiết bị dừng
+-trụ ống
+@Lĩnh vực: điện lạnh
+-bộ chống tăng vọt
+-chống quá áp
+@Lĩnh vực: xây dựng
+-bộ dừng
+-cơ cấu dừng
+-cột chống sét
+-tấm chắn tia lửa
+@Lĩnh vực: hóa học & vật liệu
+-bộ phận hãm
+@Lĩnh vực: điện
+-bộ trống sét
+-cái thu lôi
+-cái trống sét

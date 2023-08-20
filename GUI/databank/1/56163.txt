@@ -1,3 +1,9 @@
-tetrahedron
-	@tetrahedron /'tetrə'hedrən/\n*  danh từ\n- (toán học) khối bốn mặt, tứ diện\n=tetrahedron of reference+ từ diện quy chiếu\n@Chuyên ngành kỹ thuật\n-khối bốn mặt\n-khối tứ diện\n@Lĩnh vực: điện\n-hình tứ diện
-
+tetrahedron	@tetrahedron /'tetrə'hedrən/
+*  danh từ
+- (toán học) khối bốn mặt, tứ diện
+=tetrahedron of reference+ từ diện quy chiếu
+@Chuyên ngành kỹ thuật
+-khối bốn mặt
+-khối tứ diện
+@Lĩnh vực: điện
+-hình tứ diện

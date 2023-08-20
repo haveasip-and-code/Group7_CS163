@@ -1,3 +1,5 @@
-microenvironment
-	@Chuyên ngành kinh tế\n-môi trường phát triển vi sinh vật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-môi trường lớn
-
+microenvironment	@Chuyên ngành kinh tế
+-môi trường phát triển vi sinh vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-môi trường lớn

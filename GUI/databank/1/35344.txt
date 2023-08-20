@@ -1,3 +1,14 @@
-modulation
-	@modulation\n* danh từ\n- sự uốn giọng, sự ngân nga, giọng lên xuống trầm bổng\n- <nhạc> sự chuyển giọng\n- <rađiô> sự điều biến\n@Chuyên ngành kỹ thuật\n-điều biến\n-sự biến điệu\n-sự điều biến\n@Lĩnh vực: điện\n-biến điện xung\n-sự điều chế\n@Lĩnh vực: xây dựng\n-sự chuyển điệu
-
+modulation	@modulation
+* danh từ
+- sự uốn giọng, sự ngân nga, giọng lên xuống trầm bổng
+- <nhạc> sự chuyển giọng
+- <rađiô> sự điều biến
+@Chuyên ngành kỹ thuật
+-điều biến
+-sự biến điệu
+-sự điều biến
+@Lĩnh vực: điện
+-biến điện xung
+-sự điều chế
+@Lĩnh vực: xây dựng
+-sự chuyển điệu

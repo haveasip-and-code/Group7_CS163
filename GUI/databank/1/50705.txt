@@ -1,3 +1,20 @@
-silencer
-	@silencer /'sailənsə/\n*  danh từ\n- (kỹ thuật) bộ giảm âm\n- (âm nhạc) cái chặn tiếng\n@Chuyên ngành kỹ thuật\n-bộ giảm âm\n-bộ giảm thanh\n-bộ tiêu âm\n-bộ triệt âm\n-ống giảm thanh\n-ống pô\n@Lĩnh vực: xây dựng\n-bộ giảm\n-bộ hãm âm\n@Lĩnh vực: vật lý\n-cấu xả\n@Lĩnh vực: điện tử & viễn thông\n-mạch giảm âm\n@Lĩnh vực: điện lạnh\n-thiết bị giảm vang
-
+silencer	@silencer /'sailənsə/
+*  danh từ
+- (kỹ thuật) bộ giảm âm
+- (âm nhạc) cái chặn tiếng
+@Chuyên ngành kỹ thuật
+-bộ giảm âm
+-bộ giảm thanh
+-bộ tiêu âm
+-bộ triệt âm
+-ống giảm thanh
+-ống pô
+@Lĩnh vực: xây dựng
+-bộ giảm
+-bộ hãm âm
+@Lĩnh vực: vật lý
+-cấu xả
+@Lĩnh vực: điện tử & viễn thông
+-mạch giảm âm
+@Lĩnh vực: điện lạnh
+-thiết bị giảm vang

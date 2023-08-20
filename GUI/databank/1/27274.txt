@@ -1,3 +1,4 @@
-immunogen
-	@immunogen\n* danh từ\n- chất kháng nguyên
-
+immunogen	
+@immunogen
+* danh từ
+- chất kháng nguyên

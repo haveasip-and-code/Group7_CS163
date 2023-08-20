@@ -1,3 +1,2 @@
-defrayable
-	@defrayable\n- xem defray
-
+defrayable	@defrayable
+- xem defray

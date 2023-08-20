@@ -1,3 +1,21 @@
-enable
-	@enable /i'neibl/\n*  ngoại động từ\n- làm cho có thể (làm gì), làm cho có khả năng (làm gì)\n- cho quyền, cho phép (ai) (làm gì)\n@Chuyên ngành kỹ thuật\n-có khả năng\n-khởi động\n-kích hoạt\n@Lĩnh vực: toán & tin\n-tạo khả năng\n@Lĩnh vực: xây dựng\n-thực năng hóa\n@Chuyên ngành kỹ thuật\n-có khả năng\n-khởi động\n-kích hoạt\n@Lĩnh vực: toán & tin\n-tạo khả năng\n@Lĩnh vực: xây dựng\n-thực năng hóa
-
+enable	
+@enable /i'neibl/
+*  ngoại động từ
+- làm cho có thể (làm gì), làm cho có khả năng (làm gì)
+- cho quyền, cho phép (ai) (làm gì)
+@Chuyên ngành kỹ thuật
+-có khả năng
+-khởi động
+-kích hoạt
+@Lĩnh vực: toán & tin
+-tạo khả năng
+@Lĩnh vực: xây dựng
+-thực năng hóa
+@Chuyên ngành kỹ thuật
+-có khả năng
+-khởi động
+-kích hoạt
+@Lĩnh vực: toán & tin
+-tạo khả năng
+@Lĩnh vực: xây dựng
+-thực năng hóa

@@ -1,3 +1,72 @@
-trace
-	@trace /treis/\n*  danh từ,  (thường) số nhiều\n- dây kéo (buộc vào ngựa để kéo xe)\n!to be in the traces\n- đang thắng cương (đen & bóng)\n!to kick opver the traces\n- (xem) kick\n*  danh từ\n- ((thường) số nhiều) dấu, vết, vết tích\n=the traces of an ancient civilization+ những vết tích của một nền văn minh cổ\n- một chút, chút ít\n=not to show a trace of fear+ không để lộ ra một chút gì là sợ hãi cả\n*  ngoại động từ\n- ((thường) + out) vạch, kẻ; vạch ra, chỉ ra, định ra\n=to trace out a plan+ vạch một kế hoạch\n=to trace a line of conduct+ vạch ra một lối cư xử\n- kẻ theo vạch, chỉ theo đường\n=to trace the line with one's finger+ lấy ngón tay chỉ theo đường kẻ\n- theo vết, theo vết chân\n=to trace someone+ theo vết chân của người nào\n- theo, đi theo\n=to trace a shady way+ đi dọc theo con đường râm mát\n- tìm thấy dấu vết\n=to trace an influence+ tìm thấy dấu vết của một ảnh hưởng\n!to trace back to\n- truy nguyên đến\n!to trace off\n- vẽ phóng lại\n!to trace out\n- vạch; phát hiện, tìm ra; xác định (ngày tháng, nguồn gốc, vị trí, kích thước...)\n!to trace over\n- đồ lại (một bức hoạ)\n@Chuyên ngành kỹ thuật\n-băng ghi\n-biên bản\n-can\n-can hình\n-chép hình\n-con đường\n-dấu\n-dấu vết\n-giám sát\n-nhật ký\n-quỹ đạo\n-sự theo dõi\n-theo vết\n-vạch\n-vạch tuyến\n-vết\n-vệt\n-vết tích\n@Lĩnh vực: toán & tin\n-bản ghi vết\n-sự vạch vết\n-tạo vết\n-tìm vết\n@Lĩnh vực: điện\n-dấu (dẫn hướng)\n-đường cáp đi\n-đường quét\n-kẻ vạch\n-tuyến đi cáp\n-vết quét\n@Lĩnh vực: cơ khí & công trình\n-sao chép đường\n-sao hình\n-vạch đường\n@Lĩnh vực: xây dựng\n-sự can lại\n-vẽ can\n@Lĩnh vực: điện tử & viễn thông\n-vết tia
-
+trace	@trace /treis/
+*  danh từ,  (thường) số nhiều
+- dây kéo (buộc vào ngựa để kéo xe)
+!to be in the traces
+- đang thắng cương (đen & bóng)
+!to kick opver the traces
+- (xem) kick
+*  danh từ
+- ((thường) số nhiều) dấu, vết, vết tích
+=the traces of an ancient civilization+ những vết tích của một nền văn minh cổ
+- một chút, chút ít
+=not to show a trace of fear+ không để lộ ra một chút gì là sợ hãi cả
+*  ngoại động từ
+- ((thường) + out) vạch, kẻ; vạch ra, chỉ ra, định ra
+=to trace out a plan+ vạch một kế hoạch
+=to trace a line of conduct+ vạch ra một lối cư xử
+- kẻ theo vạch, chỉ theo đường
+=to trace the line with one's finger+ lấy ngón tay chỉ theo đường kẻ
+- theo vết, theo vết chân
+=to trace someone+ theo vết chân của người nào
+- theo, đi theo
+=to trace a shady way+ đi dọc theo con đường râm mát
+- tìm thấy dấu vết
+=to trace an influence+ tìm thấy dấu vết của một ảnh hưởng
+!to trace back to
+- truy nguyên đến
+!to trace off
+- vẽ phóng lại
+!to trace out
+- vạch; phát hiện, tìm ra; xác định (ngày tháng, nguồn gốc, vị trí, kích thước...)
+!to trace over
+- đồ lại (một bức hoạ)
+@Chuyên ngành kỹ thuật
+-băng ghi
+-biên bản
+-can
+-can hình
+-chép hình
+-con đường
+-dấu
+-dấu vết
+-giám sát
+-nhật ký
+-quỹ đạo
+-sự theo dõi
+-theo vết
+-vạch
+-vạch tuyến
+-vết
+-vệt
+-vết tích
+@Lĩnh vực: toán & tin
+-bản ghi vết
+-sự vạch vết
+-tạo vết
+-tìm vết
+@Lĩnh vực: điện
+-dấu (dẫn hướng)
+-đường cáp đi
+-đường quét
+-kẻ vạch
+-tuyến đi cáp
+-vết quét
+@Lĩnh vực: cơ khí & công trình
+-sao chép đường
+-sao hình
+-vạch đường
+@Lĩnh vực: xây dựng
+-sự can lại
+-vẽ can
+@Lĩnh vực: điện tử & viễn thông
+-vết tia

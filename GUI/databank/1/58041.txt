@@ -1,3 +1,28 @@
-trunk
-	@trunk /trʌɳk/\n*  danh từ\n- thân (cây, cột, người, thú)\n- hòm, rương; va li\n- (như) trunk-line\n- vòi (voi)\n- (ngành mỏ) thùng rửa quặng\n- (số nhiều) (như) trunk hose\n*  ngoại động từ\n- rửa (quặng)\n@Chuyên ngành kỹ thuật\n-cốp xe (để hành lý)\n-đường chính\n-đường tổng đài\n-đường trục\n-đường trục chính\n-đường trung chuyển\n-đường trung kế\n-đường truyền chính\n-máng\n-máng xả đất\n-ống\n-ống thông hơi\n-thân\n@Lĩnh vực: điện tử & viễn thông\n-mạch liên đài\n@Lĩnh vực: điện lạnh\n-trung kế
-
+trunk	@trunk /trʌɳk/
+*  danh từ
+- thân (cây, cột, người, thú)
+- hòm, rương; va li
+- (như) trunk-line
+- vòi (voi)
+- (ngành mỏ) thùng rửa quặng
+- (số nhiều) (như) trunk hose
+*  ngoại động từ
+- rửa (quặng)
+@Chuyên ngành kỹ thuật
+-cốp xe (để hành lý)
+-đường chính
+-đường tổng đài
+-đường trục
+-đường trục chính
+-đường trung chuyển
+-đường trung kế
+-đường truyền chính
+-máng
+-máng xả đất
+-ống
+-ống thông hơi
+-thân
+@Lĩnh vực: điện tử & viễn thông
+-mạch liên đài
+@Lĩnh vực: điện lạnh
+-trung kế

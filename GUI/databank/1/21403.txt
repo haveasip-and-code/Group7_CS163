@@ -1,3 +1,5 @@
-fleshings
-	@fleshings /fleshings/\n*  danh từ số nhiều\n- quần áo nịt màu da (mặc trên sân khấu)\n- (từ Mỹ,nghĩa Mỹ) thịt lọc ở da ra
-
+fleshings	
+@fleshings /fleshings/
+*  danh từ số nhiều
+- quần áo nịt màu da (mặc trên sân khấu)
+- (từ Mỹ,nghĩa Mỹ) thịt lọc ở da ra

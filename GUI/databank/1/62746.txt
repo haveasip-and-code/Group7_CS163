@@ -1,3 +1,10 @@
-wharfinger
-	@wharfinger /'w :find  /\n*  danh từ\n- chủ bến tàu\n@Chuyên ngành kinh tế\n-chủ bến\n-công ty bến\n-người chủ bến cảng\n-người quản lý bến\n@Chuyên ngành kỹ thuật\n-chủ bến tàu
-
+wharfinger	@wharfinger /'w :find  /
+*  danh từ
+- chủ bến tàu
+@Chuyên ngành kinh tế
+-chủ bến
+-công ty bến
+-người chủ bến cảng
+-người quản lý bến
+@Chuyên ngành kỹ thuật
+-chủ bến tàu

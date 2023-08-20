@@ -1,3 +1,4 @@
-propagable
-	@propagable /propagable/\n*  tính từ\n- có thể truyền giống\n- có thể truyền, có thể truyền bá
-
+propagable	@propagable /propagable/
+*  tính từ
+- có thể truyền giống
+- có thể truyền, có thể truyền bá

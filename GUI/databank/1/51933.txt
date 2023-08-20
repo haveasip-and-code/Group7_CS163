@@ -1,3 +1,11 @@
-sorbent
-	@sorbent\n* danh từ\n- chất hấp thụ\n@Chuyên ngành kinh tế\n-chất hấp thụ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-chất hấp\n-chất hút thấm\n@Lĩnh vực: hóa học & vật liệu\n-chất hấp thụ
-
+sorbent	@sorbent
+* danh từ
+- chất hấp thụ
+@Chuyên ngành kinh tế
+-chất hấp thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+-chất hấp
+-chất hút thấm
+@Lĩnh vực: hóa học & vật liệu
+-chất hấp thụ

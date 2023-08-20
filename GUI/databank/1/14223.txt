@@ -1,3 +1,7 @@
-delegator
-	@delegator\n- xem delegate\n@Chuyên ngành kinh tế\n-người giao quyền\n-người ủy nhiệm\n-người ủy thác
-
+delegator	
+@delegator
+- xem delegate
+@Chuyên ngành kinh tế
+-người giao quyền
+-người ủy nhiệm
+-người ủy thác

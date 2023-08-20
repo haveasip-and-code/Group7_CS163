@@ -1,3 +1,15 @@
-con
-	@con /kɔn/\n*  ngoại động từ\n- học thuộc lòng, nghiên cứu, nghiền ngẫm\n- điều khiển, lái (con tàu) ((cũng) conn)\n*  danh từ (từ Mỹ,nghĩa Mỹ)\n- con game trò chơi bội tín, sự lừa gạt\n*  ngoại động từ\n- lừa gạt, lừa bịp\n*  danh từ\n- sự chống lại, sự trái ((xem) pro_and_con)\n@Chuyên ngành kỹ thuật\n-điều khiển\n-lái\n-vận hành
-
+con	
+@con /kɔn/
+*  ngoại động từ
+- học thuộc lòng, nghiên cứu, nghiền ngẫm
+- điều khiển, lái (con tàu) ((cũng) conn)
+*  danh từ (từ Mỹ,nghĩa Mỹ)
+- con game trò chơi bội tín, sự lừa gạt
+*  ngoại động từ
+- lừa gạt, lừa bịp
+*  danh từ
+- sự chống lại, sự trái ((xem) pro_and_con)
+@Chuyên ngành kỹ thuật
+-điều khiển
+-lái
+-vận hành

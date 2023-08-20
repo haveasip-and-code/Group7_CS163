@@ -1,3 +1,25 @@
-accumulate
-	@accumulate /ə'kju:mjuleit/\n*  động từ\n- chất đống, chồng chất, tích luỹ, gom góp lại\n=to accumulate capital+ tích luỹ vốn\n=to accumulate good experience+ tích luỹ những kinh nghiệm hay\n=garbage accumulated+ rác rưởi chất đống lên\n- làm giàu, tích của\n- thi cùng một lúc nhiều bằng (ở trường đại học)\n@Chuyên ngành kinh tế\n-cộng dồn\n-cộng dồn giá\n-dồn lại\n-gom góp lại\n-tích lũy\n@Chuyên ngành kỹ thuật\n-chất đống\n-chồng chất\n-dồn\n-tích trữ\n@Lĩnh vực: xây dựng\n-tích chứa\n@Lĩnh vực: cơ khí & công trình\n-tích lũy\n@Lĩnh vực: toán & tin\n-tụ
-
+accumulate	@accumulate /ə'kju:mjuleit/
+*  động từ
+- chất đống, chồng chất, tích luỹ, gom góp lại
+=to accumulate capital+ tích luỹ vốn
+=to accumulate good experience+ tích luỹ những kinh nghiệm hay
+=garbage accumulated+ rác rưởi chất đống lên
+- làm giàu, tích của
+- thi cùng một lúc nhiều bằng (ở trường đại học)
+@Chuyên ngành kinh tế
+-cộng dồn
+-cộng dồn giá
+-dồn lại
+-gom góp lại
+-tích lũy
+@Chuyên ngành kỹ thuật
+-chất đống
+-chồng chất
+-dồn
+-tích trữ
+@Lĩnh vực: xây dựng
+-tích chứa
+@Lĩnh vực: cơ khí & công trình
+-tích lũy
+@Lĩnh vực: toán & tin
+-tụ

@@ -1,3 +1,6 @@
-protamine
-	@protamine\n* danh từ\n- protamin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nhóm các protein đơn giãn
-
+protamine	@protamine
+* danh từ
+- protamin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-nhóm các protein đơn giãn

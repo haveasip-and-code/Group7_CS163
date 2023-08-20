@@ -1,3 +1,2 @@
-conductorial
-	@conductorial\n- xem conductor
-
+conductorial	@conductorial
+- xem conductor

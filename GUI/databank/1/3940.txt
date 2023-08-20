@@ -1,3 +1,10 @@
-audiometry
-	@audiometry /,ɔ:di'ɔmitri/\n*  danh từ\n- phép đo sức nghe\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đo thính lực\n-trắc thính\n@Lĩnh vực: xây dựng\n-phép đo thính lực
-
+audiometry	
+@audiometry /,ɔ:di'ɔmitri/
+*  danh từ
+- phép đo sức nghe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đo thính lực
+-trắc thính
+@Lĩnh vực: xây dựng
+-phép đo thính lực

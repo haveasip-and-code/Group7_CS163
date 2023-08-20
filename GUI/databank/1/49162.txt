@@ -1,3 +1,5 @@
-scoopful
-	@scoopful /sku:p/\n*  danh từ\n- xẻng (đầy)\n- môi (đầy)\n- gầu (đầy)
-
+scoopful	@scoopful /sku:p/
+*  danh từ
+- xẻng (đầy)
+- môi (đầy)
+- gầu (đầy)

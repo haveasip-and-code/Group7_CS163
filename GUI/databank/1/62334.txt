@@ -1,3 +1,2 @@
-walkout
-	@Chuyên ngành kinh tế\n-bãi công bất ngờ
-
+walkout	@Chuyên ngành kinh tế
+-bãi công bất ngờ

@@ -1,3 +1,12 @@
-pentagonal
-	@pentagonal /pen'tægənl/\n*  tính từ\n- có năm cạnh\n@Chuyên ngành kỹ thuật\n-ngũ giác\n@Lĩnh vực: toán & tin\n-có năm cạnh\n-hình có năm cạnh\n-thuộc hình ngũ giác\n-thuộc ngũ giác\n@Lĩnh vực: xây dựng\n-thuộc hình 5 cạnh
-
+pentagonal	@pentagonal /pen'tægənl/
+*  tính từ
+- có năm cạnh
+@Chuyên ngành kỹ thuật
+-ngũ giác
+@Lĩnh vực: toán & tin
+-có năm cạnh
+-hình có năm cạnh
+-thuộc hình ngũ giác
+-thuộc ngũ giác
+@Lĩnh vực: xây dựng
+-thuộc hình 5 cạnh

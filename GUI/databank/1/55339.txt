@@ -1,3 +1,4 @@
-systemless
-	@systemless /'sistimlis/\n*  tính từ\n- không có hệ thống\n- không có phương pháp
-
+systemless	@systemless /'sistimlis/
+*  tính từ
+- không có hệ thống
+- không có phương pháp

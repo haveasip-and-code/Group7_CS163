@@ -1,3 +1,2 @@
-condignly
-	@condignly\n- xem condign
-
+condignly	@condignly
+- xem condign

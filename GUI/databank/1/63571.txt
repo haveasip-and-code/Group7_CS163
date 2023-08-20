@@ -1,3 +1,9 @@
-zephyr
-	@zephyr /'zefə/\n*  danh từ\n- gió tây\n- (thơ ca) gió mát, gió hiu hiu, gió nhẹ\n- vải xêfia (một thứ vải mỏng nhẹ)\n- (thể dục,thể thao) áo thể thao, áo vận động viên (loại mỏng)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gió tây
-
+zephyr	@zephyr /'zefə/
+*  danh từ
+- gió tây
+- (thơ ca) gió mát, gió hiu hiu, gió nhẹ
+- vải xêfia (một thứ vải mỏng nhẹ)
+- (thể dục,thể thao) áo thể thao, áo vận động viên (loại mỏng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-gió tây

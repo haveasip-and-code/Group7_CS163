@@ -1,3 +1,7 @@
-licensing
-	@Chuyên ngành kinh tế\n-sự cấp giấy phép\n-sự cấp môn bài\n-sự cho phép\n-sự nhượng bán giấy phép\n-sự nhượng quyền\n-việc cấp giấy phép
-
+licensing	@Chuyên ngành kinh tế
+-sự cấp giấy phép
+-sự cấp môn bài
+-sự cho phép
+-sự nhượng bán giấy phép
+-sự nhượng quyền
+-việc cấp giấy phép

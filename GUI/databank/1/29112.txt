@@ -1,3 +1,8 @@
-integer
-	@integer\n- số nguyên\n- complex i. số nguyên phức, số nguyên Gauxơ\n- Gaussian i. số nguyên Gauxơ\n- multidigit i. số nguyên nhiều chữ số\n- negative i. số nguyên âm\n- positive i. số nguyên dương
-
+integer	
+@integer
+- số nguyên
+- complex i. số nguyên phức, số nguyên Gauxơ
+- Gaussian i. số nguyên Gauxơ
+- multidigit i. số nguyên nhiều chữ số
+- negative i. số nguyên âm
+- positive i. số nguyên dương

@@ -1,3 +1,2 @@
-circumciser
-	@circumciser\n- xem circumcise
-
+circumciser	@circumciser
+- xem circumcise

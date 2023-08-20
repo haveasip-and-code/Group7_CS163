@@ -1,3 +1,2 @@
-projectable
-	@projectable\n- xem project
-
+projectable	@projectable
+- xem project

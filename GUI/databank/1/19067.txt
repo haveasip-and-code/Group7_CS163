@@ -1,3 +1,54 @@
-escape
-	@escape /is'keip/\n*  danh từ\n- sự trốn thoát; phương tiện để trốn thoát, con đường thoát, lối thoát\n- sự thoát ly thực tế; phương tiện để thoát ly thực tế\n- (kỹ thuật) sự thoát (hơi...)\n- cây trồng mọc tự nhiên (không do gieo trồng...)\n!to have a narrow (hairbreadth) escape\n- suýt nữa thì bị tóm, may mà thoát được\n*  ngoại động từ\n- trốn thoát, tránh thoát, thoát khỏi\n=to escape death+ thoát chết\n=to escape punishment+ thoát khỏi sự trừng phạt\n- vô tình buột ra khỏi, thốt ra khỏi (cửa miệng...) (lời nói...)\n=a scream escaped his lips+ một tiếng thét buột ra khỏi cửa miệng anh ta, anh ta buột thét lên\n*  nội động từ\n- trốn thoát, thoát\n- thoát ra (hơi...)\n!his name had escaped me\n- tôi quên bẵng tên anh ta\n@Chuyên ngành kinh tế\n-sự chốn tránh thoát ly thực tế\n@Chuyên ngành kỹ thuật\n-kênh xả\n-lộ ra\n-lỗ xả\n-lỗi thải\n-lối thoát\n-sự di chuyển\n-sự di cư\n-sự thải\n-sự xả\n-thoát ra\n@Lĩnh vực: xây dựng\n-lỗ thải\n-phần thoát\n-sư xả\n@Lĩnh vực: cơ khí & công trình\n-sự dời chuyển\n@Chuyên ngành kỹ thuật\n-kênh xả\n-lộ ra\n-lỗ xả\n-lỗi thải\n-lối thoát\n-sự di chuyển\n-sự di cư\n-sự thải\n-sự xả\n-thoát ra\n@Lĩnh vực: xây dựng\n-lỗ thải\n-phần thoát\n-sư xả\n@Lĩnh vực: cơ khí & công trình\n-sự dời chuyển
-
+escape	
+@escape /is'keip/
+*  danh từ
+- sự trốn thoát; phương tiện để trốn thoát, con đường thoát, lối thoát
+- sự thoát ly thực tế; phương tiện để thoát ly thực tế
+- (kỹ thuật) sự thoát (hơi...)
+- cây trồng mọc tự nhiên (không do gieo trồng...)!to have a narrow (hairbreadth) escape
+- suýt nữa thì bị tóm, may mà thoát được
+*  ngoại động từ
+- trốn thoát, tránh thoát, thoát khỏi=to escape death
++ thoát chết=to escape punishment
++ thoát khỏi sự trừng phạt
+- vô tình buột ra khỏi, thốt ra khỏi (cửa miệng...) (lời nói...)=a scream escaped his lips
++ một tiếng thét buột ra khỏi cửa miệng anh ta, anh ta buột thét lên
+*  nội động từ
+- trốn thoát, thoát
+- thoát ra (hơi...)!his name had escaped me
+- tôi quên bẵng tên anh ta
+@Chuyên ngành kinh tế
+-sự chốn tránh thoát ly thực tế
+@Chuyên ngành kỹ thuật
+-kênh xả
+-lộ ra
+-lỗ xả
+-lỗi thải
+-lối thoát
+-sự di chuyển
+-sự di cư
+-sự thải
+-sự xả
+-thoát ra
+@Lĩnh vực: xây dựng
+-lỗ thải
+-phần thoát
+-sư xả
+@Lĩnh vực: cơ khí & công trình
+-sự dời chuyển
+@Chuyên ngành kỹ thuật
+-kênh xả
+-lộ ra
+-lỗ xả
+-lỗi thải
+-lối thoát
+-sự di chuyển
+-sự di cư
+-sự thải
+-sự xả
+-thoát ra
+@Lĩnh vực: xây dựng
+-lỗ thải
+-phần thoát
+-sư xả
+@Lĩnh vực: cơ khí & công trình
+-sự dời chuyển

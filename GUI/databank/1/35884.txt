@@ -1,3 +1,2 @@
-mudcap
-	@Chuyên ngành kỹ thuật\n-nắp bùn
-
+mudcap	@Chuyên ngành kỹ thuật
+-nắp bùn

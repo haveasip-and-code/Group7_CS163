@@ -1,3 +1,13 @@
-recruitment
-	@recruitment /ri'kru:tmənt/\n*  danh từ\n- sự tuyển mộ (lính), sự lấy thêm, sự tuyển thêm (người vào một tổ chức...)\n- sự bổ sung, sự lấp chỗ trống\n- sự phục hồi sức khoẻ\n@Chuyên ngành kỹ thuật\n-sự tuyển chọn\n@Lĩnh vực: cơ khí & công trình\n-sự tuyển mộ\n@Lĩnh vực: y học\n-tăng lực\n@Lĩnh vực: giao thông & vận tải\n-tuyển dụng
-
+recruitment	@recruitment /ri'kru:tmənt/
+*  danh từ
+- sự tuyển mộ (lính), sự lấy thêm, sự tuyển thêm (người vào một tổ chức...)
+- sự bổ sung, sự lấp chỗ trống
+- sự phục hồi sức khoẻ
+@Chuyên ngành kỹ thuật
+-sự tuyển chọn
+@Lĩnh vực: cơ khí & công trình
+-sự tuyển mộ
+@Lĩnh vực: y học
+-tăng lực
+@Lĩnh vực: giao thông & vận tải
+-tuyển dụng

@@ -1,3 +1,6 @@
-defacement
-	@defacement /di'feismənt/\n*  danh từ\n- sự làm xấu đi, sự làm mất thể diện\n- sự làm mất uy tín, sự làm mất mặt, sự làm mất thể diện\n- sự xoá đi (cho không đọc được)
-
+defacement	
+@defacement /di'feismənt/
+*  danh từ
+- sự làm xấu đi, sự làm mất thể diện
+- sự làm mất uy tín, sự làm mất mặt, sự làm mất thể diện
+- sự xoá đi (cho không đọc được)

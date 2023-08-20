@@ -1,3 +1,5 @@
-sailcloth
-	@sailcloth\n* danh từ\n- vải buồm\n@Chuyên ngành kỹ thuật\n-vải làm buồm
-
+sailcloth	@sailcloth
+* danh từ
+- vải buồm
+@Chuyên ngành kỹ thuật
+-vải làm buồm

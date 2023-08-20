@@ -1,3 +1,2 @@
-bardic
-	@bardic\n- xem bard
-
+bardic	@bardic
+- xem bard

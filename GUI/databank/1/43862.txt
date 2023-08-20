@@ -1,3 +1,9 @@
-proficient
-	@proficient /proficient/\n*  tính từ\n- tài giỏi, giỏi giang, thành thạo\n=to be proficient in cooking+ thành thạo trong việc nấu nướng\n*  danh từ\n- chuyên gia, người tài giỏi, người thành thạo (về môn gì)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thành thạo
-
+proficient	@proficient /proficient/
+*  tính từ
+- tài giỏi, giỏi giang, thành thạo
+=to be proficient in cooking+ thành thạo trong việc nấu nướng
+*  danh từ
+- chuyên gia, người tài giỏi, người thành thạo (về môn gì)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thành thạo

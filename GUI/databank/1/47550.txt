@@ -1,3 +1,4 @@
-rewiring
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sự đấu dây lại\n-sự đi dây lại
-
+rewiring	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-sự đấu dây lại
+-sự đi dây lại

@@ -1,3 +1,28 @@
-rectification
-	@rectification /,rektifi'keiʃn/\n*  danh từ\n- sự sửa chữa, sự chữa lại; sự sửa cho thẳng\n- (vật lý) sự chỉnh lưu\n- (hoá học) sự cất lại, sự tinh cất\n- (rađiô) sự tách sóng\n- (toán học) phép cầu trường được\n@Chuyên ngành kinh tế\n-chữa lại cho đúng\n-sự cải chính\n-sự chữa lại cho đúng\n-sự tinh cất\n-sự tinh chế\n@Chuyên ngành kỹ thuật\n-chỉnh lưu\n-hiệu chỉnh\n-sự cải tạo\n-sự cất lại\n-sự chỉnh lưu\n-sự nắn dòng\n-sự sửa chữa\n-sự tinh cất\n@Lĩnh vực: vật lý\n-cầu đường\n@Lĩnh vực: điện tử & viễn thông\n-sự nắn điện\n@Lĩnh vực: cơ khí & công trình\n-sự nắn lại (cho thẳng)
-
+rectification	@rectification /,rektifi'keiʃn/
+*  danh từ
+- sự sửa chữa, sự chữa lại; sự sửa cho thẳng
+- (vật lý) sự chỉnh lưu
+- (hoá học) sự cất lại, sự tinh cất
+- (rađiô) sự tách sóng
+- (toán học) phép cầu trường được
+@Chuyên ngành kinh tế
+-chữa lại cho đúng
+-sự cải chính
+-sự chữa lại cho đúng
+-sự tinh cất
+-sự tinh chế
+@Chuyên ngành kỹ thuật
+-chỉnh lưu
+-hiệu chỉnh
+-sự cải tạo
+-sự cất lại
+-sự chỉnh lưu
+-sự nắn dòng
+-sự sửa chữa
+-sự tinh cất
+@Lĩnh vực: vật lý
+-cầu đường
+@Lĩnh vực: điện tử & viễn thông
+-sự nắn điện
+@Lĩnh vực: cơ khí & công trình
+-sự nắn lại (cho thẳng)

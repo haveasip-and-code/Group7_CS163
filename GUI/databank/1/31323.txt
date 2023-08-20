@@ -1,3 +1,30 @@
-ladle
-	@ladle /'ledl/\n*  danh từ\n- cái môi (để múc)\n*  ngoại động từ\n- múc bằng môi\n=to ladle out soup+ múc súp bằng môi\n@Chuyên ngành kinh tế\n-cái môi\n@Chuyên ngành kỹ thuật\n-gáo\n-gàu\n-nồi rót tay\n-múc\n@Lĩnh vực: xây dựng\n-gáo rót\n-súc bằng gàu\n@Lĩnh vực: cơ khí & công trình\n-gầu rót\n-thùng rót\n@Chuyên ngành kỹ thuật\n-gáo\n-gàu\n-nồi rót tay\n-múc\n@Lĩnh vực: xây dựng\n-gáo rót\n-súc bằng gàu\n@Lĩnh vực: cơ khí & công trình\n-gầu rót\n-thùng rót
-
+ladle	@ladle /'ledl/
+*  danh từ
+- cái môi (để múc)
+*  ngoại động từ
+- múc bằng môi
+=to ladle out soup+ múc súp bằng môi
+@Chuyên ngành kinh tế
+-cái môi
+@Chuyên ngành kỹ thuật
+-gáo
+-gàu
+-nồi rót tay
+-múc
+@Lĩnh vực: xây dựng
+-gáo rót
+-súc bằng gàu
+@Lĩnh vực: cơ khí & công trình
+-gầu rót
+-thùng rót
+@Chuyên ngành kỹ thuật
+-gáo
+-gàu
+-nồi rót tay
+-múc
+@Lĩnh vực: xây dựng
+-gáo rót
+-súc bằng gàu
+@Lĩnh vực: cơ khí & công trình
+-gầu rót
+-thùng rót

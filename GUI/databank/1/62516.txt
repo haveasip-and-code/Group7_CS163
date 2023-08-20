@@ -1,3 +1,4 @@
-waters
-	@Chuyên ngành kỹ thuật\n-đường thủy\n@Lĩnh vực: giao thông & vận tải\n-sông nước
-
+waters	@Chuyên ngành kỹ thuật
+-đường thủy
+@Lĩnh vực: giao thông & vận tải
+-sông nước

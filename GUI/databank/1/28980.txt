@@ -1,3 +1,32 @@
-installation
-	@installation /,instə'leiʃn/\n*  danh từ\n- sự đặt (hệ thống máy móc, hệ thống sưởi...); sự đặt (ai) vào (nơi nào, tình trạng nào...)\n- lễ nhậm chức\n- máy móc đặt, hệ thống máy đặt, hệ thống điện đặt\n- ((thường) số nhiều) cơ sở, đồn bốt, căn cứ\n@Chuyên ngành kinh tế\n-máy móc\n-thiết bị\n@Chuyên ngành kỹ thuật\n-công trình\n-hệ thống (đo)\n-lắp đặt\n-máy\n-máy làm đá\n-sự cài đặt\n-sự gá\n-sự lắp đặt\n-sự lắp ráp\n-sự thiết lập\n-sự trang bị\n-thiết lập\n-trạm\n@Lĩnh vực: cơ khí & công trình\n-công trình trạm\n@Lĩnh vực: xây dựng\n-đường ống bên trong\n-hệ máy\n-thiết bị kỹ thuật\n@Lĩnh vực: điện lạnh\n-thủ tục lắp đặt
-
+installation	
+@installation /,instə'leiʃn/
+*  danh từ
+- sự đặt (hệ thống máy móc, hệ thống sưởi...); sự đặt (ai) vào (nơi nào, tình trạng nào...)
+- lễ nhậm chức
+- máy móc đặt, hệ thống máy đặt, hệ thống điện đặt
+- ((thường) số nhiều) cơ sở, đồn bốt, căn cứ
+@Chuyên ngành kinh tế
+-máy móc
+-thiết bị
+@Chuyên ngành kỹ thuật
+-công trình
+-hệ thống (đo)
+-lắp đặt
+-máy
+-máy làm đá
+-sự cài đặt
+-sự gá
+-sự lắp đặt
+-sự lắp ráp
+-sự thiết lập
+-sự trang bị
+-thiết lập
+-trạm
+@Lĩnh vực: cơ khí & công trình
+-công trình trạm
+@Lĩnh vực: xây dựng
+-đường ống bên trong
+-hệ máy
+-thiết bị kỹ thuật
+@Lĩnh vực: điện lạnh
+-thủ tục lắp đặt

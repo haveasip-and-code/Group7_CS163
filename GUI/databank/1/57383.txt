@@ -1,3 +1,5 @@
-transfinite
-	@transfinite\n- siêu hạn\n= transfinite number+số siêu hạn\n@Chuyên ngành kỹ thuật\n-siêu hạn
-
+transfinite	@transfinite
+- siêu hạn
+= transfinite number+số siêu hạn
+@Chuyên ngành kỹ thuật
+-siêu hạn

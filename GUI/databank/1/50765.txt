@@ -1,3 +1,13 @@
-similar
-	@similar /'similə/\n*  tính từ\n- giống nhau, như nhau, tương tự\n- (toán học) đồng dạng\n=similar triangles+ tam giác đồng dạng\n*  danh từ\n- vật giống, vật tương tự\n- (số nhiều) những vật giống nhau\n@Chuyên ngành kỹ thuật\n-đồng dạng\n-giống\n@Lĩnh vực: toán & tin\n-đồng dạng, tương tự
-
+similar	@similar /'similə/
+*  tính từ
+- giống nhau, như nhau, tương tự
+- (toán học) đồng dạng
+=similar triangles+ tam giác đồng dạng
+*  danh từ
+- vật giống, vật tương tự
+- (số nhiều) những vật giống nhau
+@Chuyên ngành kỹ thuật
+-đồng dạng
+-giống
+@Lĩnh vực: toán & tin
+-đồng dạng, tương tự

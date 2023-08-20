@@ -1,3 +1,13 @@
-leaflet
-	@leaflet /'li:flit/\n*  danh từ\n- lá non\n- (thực vật học) lá chét\n- tờ rách rời, tờ giấy in rời\n- tờ truyền đơn\n@Chuyên ngành kinh tế\n-tờ bướm quảng cáo\n-tờ quảng cáo rời\n@Chuyên ngành kỹ thuật\n-lá mỏng\n@Chuyên ngành kỹ thuật\n-lá mỏng
-
+leaflet	@leaflet /'li:flit/
+*  danh từ
+- lá non
+- (thực vật học) lá chét
+- tờ rách rời, tờ giấy in rời
+- tờ truyền đơn
+@Chuyên ngành kinh tế
+-tờ bướm quảng cáo
+-tờ quảng cáo rời
+@Chuyên ngành kỹ thuật
+-lá mỏng
+@Chuyên ngành kỹ thuật
+-lá mỏng

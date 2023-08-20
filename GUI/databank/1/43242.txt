@@ -1,3 +1,2 @@
-preluder
-	@preluder\n- xem prelude
-
+preluder	@preluder
+- xem prelude

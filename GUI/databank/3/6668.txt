@@ -1,3 +1,11 @@
-breakable
-	@breakable /'breikəbl/\n*  tính từ\n- dễ vỡ, dễ gãy; có thể bẻ gãy, có thể đập vỡ\n@Chuyên ngành kỹ thuật\n-dễ gẫy\n-dễ vỡ\n-giòn\n-vỡ, đứt ra được\n@Lĩnh vực: toán & tin\n-có thể dừng\n-có thể ngắt
-
+breakable	@breakable /'breikəbl/
+*  tính từ
+- dễ vỡ, dễ gãy; có thể bẻ gãy, có thể đập vỡ
+@Chuyên ngành kỹ thuật
+-dễ gẫy
+-dễ vỡ
+-giòn
+-vỡ, đứt ra được
+@Lĩnh vực: toán & tin
+-có thể dừng
+-có thể ngắt

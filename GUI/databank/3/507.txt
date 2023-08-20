@@ -1,3 +1,2 @@
-acidness
-	@acidness\n- xem acid
-
+acidness	@acidness
+- xem acid

@@ -1,3 +1,25 @@
-reaction
-	@reaction /ri:'ækʃn/\n*  danh từ\n- sự phản tác dụng, sự phản ứng lại\n=action and reaction+ tác dụng và phản tác dụng\n- (vật lý); (hoá học) phản ứng\n=catalytic reaction+ phản ứng xúc tác\n- (chính trị) sự phản động\n- (quân sự) sự phản công, sự đánh trả lại\n@Chuyên ngành kinh tế\n-phản tác dụng\n-phản ứng\n@Chuyên ngành kỹ thuật\n-ảnh hưởng phụ\n-phản lực\n-phản tác dụng\n-phản ứng (hóa học)\n-phản ứng phụ\n@Lĩnh vực: đo lường & điều khiển\n-phản ứng\n@Lĩnh vực: vật lý\n-phản ứng, phản lực\n@Lĩnh vực: cơ khí & công trình\n-sự phản tác dụng\n@Lĩnh vực: điện lạnh\n-sự phản ứng
-
+reaction	@reaction /ri:'ækʃn/
+*  danh từ
+- sự phản tác dụng, sự phản ứng lại
+=action and reaction+ tác dụng và phản tác dụng
+- (vật lý); (hoá học) phản ứng
+=catalytic reaction+ phản ứng xúc tác
+- (chính trị) sự phản động
+- (quân sự) sự phản công, sự đánh trả lại
+@Chuyên ngành kinh tế
+-phản tác dụng
+-phản ứng
+@Chuyên ngành kỹ thuật
+-ảnh hưởng phụ
+-phản lực
+-phản tác dụng
+-phản ứng (hóa học)
+-phản ứng phụ
+@Lĩnh vực: đo lường & điều khiển
+-phản ứng
+@Lĩnh vực: vật lý
+-phản ứng, phản lực
+@Lĩnh vực: cơ khí & công trình
+-sự phản tác dụng
+@Lĩnh vực: điện lạnh
+-sự phản ứng

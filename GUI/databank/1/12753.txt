@@ -1,3 +1,13 @@
-crossed
-	@crossed\n- chéo\n@Chuyên ngành kỹ thuật\n-bắt chéo\n-cắt nhau\n-chéo nhau\n-giao nhau\n-vuông góc\n@Lĩnh vực: cơ khí & công trình\n-cắt ngang nhau\n@Lĩnh vực: toán & tin\n-chéo
-
+crossed	
+@crossed
+- chéo
+@Chuyên ngành kỹ thuật
+-bắt chéo
+-cắt nhau
+-chéo nhau
+-giao nhau
+-vuông góc
+@Lĩnh vực: cơ khí & công trình
+-cắt ngang nhau
+@Lĩnh vực: toán & tin
+-chéo

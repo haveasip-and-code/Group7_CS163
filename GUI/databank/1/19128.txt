@@ -1,3 +1,33 @@
-establish
-	@establish /is'tæbliʃ/\n*  ngoại động từ\n- lập, thành lập, thiết lập, kiến lập\n=to establish a government+ lập chính phủ\n=to establish diplomatic relations+ kiến lập quan hệ ngoại giao\n- đặt (ai vào một địa vị...)\n- chứng minh, xác minh (sự kiện...)\n- đem vào, đưa vào (thói quen, tín ngưỡng...)\n- chính thức hoá (nhà thờ)\n- củng cố, làm vững chắc\n=to establish one's reputation+ củng cố thanh danh\n=to establish one's health+ lấy lại sức khoẻ\n=to establish oneself+ sinh cơ lập nghiệp; ổn định cuộc sống\n=to establish oneself as a grocer+ sinh cơ lập nghiệp bằng nghề bán tạp phẩm\n@Chuyên ngành kinh tế\n-lập\n-mở (thư tín dụng)\n-sáng lập (xí nghiệp)\n-thành lập\n-thiết lập\n-xác lập\n-xây dựng\n@Chuyên ngành kỹ thuật\n-thành lập\n-xây dựng\n@Lĩnh vực: xây dựng\n-đặt ra\n@Chuyên ngành kỹ thuật\n-thành lập\n-xây dựng\n@Lĩnh vực: xây dựng\n-đặt ra
-
+establish	
+@establish /is'tæbliʃ/
+*  ngoại động từ
+- lập, thành lập, thiết lập, kiến lập=to establish a government
++ lập chính phủ=to establish diplomatic relations
++ kiến lập quan hệ ngoại giao
+- đặt (ai vào một địa vị...)
+- chứng minh, xác minh (sự kiện...)
+- đem vào, đưa vào (thói quen, tín ngưỡng...)
+- chính thức hoá (nhà thờ)
+- củng cố, làm vững chắc=to establish one's reputation
++ củng cố thanh danh=to establish one's health
++ lấy lại sức khoẻ=to establish oneself
++ sinh cơ lập nghiệp; ổn định cuộc sống=to establish oneself as a grocer
++ sinh cơ lập nghiệp bằng nghề bán tạp phẩm
+@Chuyên ngành kinh tế
+-lập
+-mở (thư tín dụng)
+-sáng lập (xí nghiệp)
+-thành lập
+-thiết lập
+-xác lập
+-xây dựng
+@Chuyên ngành kỹ thuật
+-thành lập
+-xây dựng
+@Lĩnh vực: xây dựng
+-đặt ra
+@Chuyên ngành kỹ thuật
+-thành lập
+-xây dựng
+@Lĩnh vực: xây dựng
+-đặt ra

@@ -1,3 +1,2 @@
-multispeed
-	@Chuyên ngành kỹ thuật\n-nhiều tốc độ
-
+multispeed	@Chuyên ngành kỹ thuật
+-nhiều tốc độ

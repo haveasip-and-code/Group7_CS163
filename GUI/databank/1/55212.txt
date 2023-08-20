@@ -1,3 +1,11 @@
-synchro
-	@synchro\n* danh từ\n- động cơ điện đồng bộ; máy phát điện đồng bộ\n- (kỹ thuật) sensyn\n@Chuyên ngành kỹ thuật\n-đồng bộ\n-máy điện đồng bộ\n-máy đồng bộ\n-sensyn không tiếp xúc\n@Lĩnh vực: cơ khí & công trình\n-thiết bị đồng bộ
-
+synchro	@synchro
+* danh từ
+- động cơ điện đồng bộ; máy phát điện đồng bộ
+- (kỹ thuật) sensyn
+@Chuyên ngành kỹ thuật
+-đồng bộ
+-máy điện đồng bộ
+-máy đồng bộ
+-sensyn không tiếp xúc
+@Lĩnh vực: cơ khí & công trình
+-thiết bị đồng bộ

@@ -1,3 +1,52 @@
-spoken
-	@spoken /spi:k/\n*  nội động từ spoke,  (từ cổ,nghĩa cổ) spake; spoken\n- nói\n=to learn to speak+ tập nói\n- nói với, nói chuyện, nói lên\n=I will speak to him about it+ tôi sẽ nói chuyện với anh ta về vấn đề đó\n=actions speak louder than words+ việc làm nói lên nhiều hơn lời nói\n- phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)\n- sủa (chó)\n- nổ (súng)\n- kêu (nhạc khí)\n- giống như thật, trông giống như thật\n=this portrait speaks+ bức ảnh giống như thật\n*  ngoại động từ\n- nói (một thứ tiếng)\n=he can speak English+ nó nói được tiếng Anh\n- nói, nói lên\n=to speak the truth+ nói sự thật\n- nói rõ, chứng tỏ\n=this speaks him generous+ điều đó chứng tỏ anh ta rộng lượng\n- (hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng rađiô)\n!to speak at\n- ám chỉ (ai)\n!to speak for\n- biện hộ cho (ai)\n- là người phát ngôn (của ai)\n- nói rõ, chứng minh cho\n=that speaks much for your courage+ điều đó nói rõ lòng can đảm của anh\n!to speak of\n- nói về, đề cập đến; viết đến\n=nothing to speak of+ chẳng có gì đáng nói\n!to speak out\n- nói to, nói lớn\n- nói thẳng, nói toạc ý kiến của mình\n=to speak out one's mind+ nghĩ sao nói vậy\n!to speak to\n- nói về (điều gì) (với ai)\n- khẳng định (điều gì)\n=I can speak to his having been there+ tôi có thể khẳng định là anh ta có đến đó\n!to speak up\n- nói to hơn\n- nói thẳng, nói toạc ý kiến của mình\n!so to speak\n- (xem) so\n!to speak like a book\n- (xem) book\n!to speak someone fair\n- (xem) fair\n!to speak volumes for\n- (xem) volume\n!to speak without book\n- nói không cần sách, nhớ mà nói ra
-
+spoken	@spoken /spi:k/
+*  nội động từ spoke,  (từ cổ,nghĩa cổ) spake; spoken
+- nói
+=to learn to speak+ tập nói
+- nói với, nói chuyện, nói lên
+=I will speak to him about it+ tôi sẽ nói chuyện với anh ta về vấn đề đó
+=actions speak louder than words+ việc làm nói lên nhiều hơn lời nói
+- phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)
+- sủa (chó)
+- nổ (súng)
+- kêu (nhạc khí)
+- giống như thật, trông giống như thật
+=this portrait speaks+ bức ảnh giống như thật
+*  ngoại động từ
+- nói (một thứ tiếng)
+=he can speak English+ nó nói được tiếng Anh
+- nói, nói lên
+=to speak the truth+ nói sự thật
+- nói rõ, chứng tỏ
+=this speaks him generous+ điều đó chứng tỏ anh ta rộng lượng
+- (hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng rađiô)
+!to speak at
+- ám chỉ (ai)
+!to speak for
+- biện hộ cho (ai)
+- là người phát ngôn (của ai)
+- nói rõ, chứng minh cho
+=that speaks much for your courage+ điều đó nói rõ lòng can đảm của anh
+!to speak of
+- nói về, đề cập đến; viết đến
+=nothing to speak of+ chẳng có gì đáng nói
+!to speak out
+- nói to, nói lớn
+- nói thẳng, nói toạc ý kiến của mình
+=to speak out one's mind+ nghĩ sao nói vậy
+!to speak to
+- nói về (điều gì) (với ai)
+- khẳng định (điều gì)
+=I can speak to his having been there+ tôi có thể khẳng định là anh ta có đến đó
+!to speak up
+- nói to hơn
+- nói thẳng, nói toạc ý kiến của mình
+!so to speak
+- (xem) so
+!to speak like a book
+- (xem) book
+!to speak someone fair
+- (xem) fair
+!to speak volumes for
+- (xem) volume
+!to speak without book
+- nói không cần sách, nhớ mà nói ra

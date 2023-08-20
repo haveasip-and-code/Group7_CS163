@@ -1,3 +1,7 @@
-flattening
-	@Chuyên ngành kỹ thuật\n-sự cán phẳng\n-sự san bằng\n@Chuyên ngành kỹ thuật\n-sự cán phẳng\n-sự san bằng
-
+flattening	
+@Chuyên ngành kỹ thuật
+-sự cán phẳng
+-sự san bằng
+@Chuyên ngành kỹ thuật
+-sự cán phẳng
+-sự san bằng

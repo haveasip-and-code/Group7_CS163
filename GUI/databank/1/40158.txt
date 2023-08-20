@@ -1,3 +1,4 @@
-pearlite
-	@Chuyên ngành kỹ thuật\n-peclit\n@Lĩnh vực: xây dựng\n-đá trân châu
-
+pearlite	@Chuyên ngành kỹ thuật
+-peclit
+@Lĩnh vực: xây dựng
+-đá trân châu

@@ -1,3 +1,92 @@
-jump
-	@jump /dʤʌmp/\n*  danh từ\n- sự nhảy, bước nhảy\n=long (broad) jump+ (thể dục,thể thao) nhảy xa\n=high jump+ (thể dục,thể thao) nhảy cao\n=pole jump+ (thể dục,thể thao) nhảy sào\n=running jump+ nhảy có chạy lấy đà\n=standing jump+ nhảy không chạy lấy đà\n- sự giật mình; cái giật mình\n=to give someone the jumps+ làm cho ai giật mình\n- (the jumps) mê sảng rượu\n- sự tăng đột ngột (giá cả, nhiệt độ...)\n- sự thay đổi đột ngột, sự chuyển đột ngột; chỗ hẫng, chỗ hổng (trong lập luận...); chỗ trống (trong một hàng, một dãy)\n- vật chướng ngại phải nhảy qua\n- nước cờ ăn quân (cờ đam)\n- dòng ghi trang tiếp theo (cuối bài báo, truyện ngắn)\n!to get (have) the jump on\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bắt đầu sớm hơn và do đó nắm được ưu thế hơn\n!on the jump\n- (thông tục) hối hả bận rộn\n*  nội động từ\n- nhảy\n=to jump for joy+ nhảy lên vì vui sướng\n=to jump from one subject to another+ nhảy từ vấn đề này sang vấn đề kia\n- giật mình, giật nảy người\n=my heart jumps+ tim tôi giật nảy lên (vì sợ...)\n- nhảy vọt, tăng vọt, tăng đột ngột (giá cả, độ nhiệt...)\n- (thường) at,  to chớp ngay lấy, nắm ngay lấy; chấp nhận vội vàng, vội đi tới (một kết luận...)\n=to jump at an opportunity+ chớp lấy cơ hội\n=to jump at an offer+ vội chấp nhận một đề nghị\n=to jump at (to) a conclusion+ vội đi tới một kết luận\n- (jump on,  upon) nhảy bổ vào tấn công dữ dội (kẻ địch...)\n*  ngoại động từ\n- nhảy qua\n=to jump a fence+ nhảy qua hàng rào\n- bỏ sót, bỏ qua, bỏ cách quãng mất\n=to jump a chapter in a book+ bỏ cách quãng mất một chương trong sách\n- trật (bánh ra khỏi đường ray)\n=to jump the rails+ trật đường ray\n- làm cho nhảy lên, bắt nhảy, bắt nhảy qua\n=to jump the horse across the ditch+ bắt con ngựa nhảy qua cái hào\n=to jump a child down+ đỡ cho một em nhỏ nhảy xuống\n- làm giật mình, làm giật nảy người lên\n- đào lật (khoai rán trong chão...)\n- (từ Mỹ,nghĩa Mỹ) nhảy lên, nhảy vào\n=to jump a train+ nhảy lên xe lửa\n- nhảy bổ vào chộp lấy (cái gì)\n- lấn, không đứng vào (hàng nối đuôi nhau theo lần lượt)\n=to jump a queue+ lấn chỗ khi xếp hàng\n- nẫng tay trên, phỗng tay trên, chiếm đoạt, xâm chiếm\n=to jump a mining claim+ chiếm mất quyền khai thác mỏ (của ai)\n- làm cho bay lên, làm chạy tán loạn (chim, thú săn)\n- khoan đá bằng choòng\n- tiếp (bài báo, truyện ngắn...) ở trang khác\n- chặt, ăn (quân cờ đam)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tấn công bất thình lình\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bỏ đi bất thình lình, trốn, chuồn\n!to jump off\n- (quân sự),  (từ lóng) bắt đầu tấn công\n!to jump on\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mắng, nhiếc, chỉnh\n!to jump together; to jump with\n- phù hợp với nhau, nhất trí với nhau; trùng nhau\n!to jump the gun\n- (từ lóng)\n- (thể dục,thể thao) chạy trước khi có hiệu lệnh xuất phát\n- bắt đầu (làm gì) trước lúc quy định\n!to jump down somebody's throat\n- chặn đứng ai không cho nói, ngắt lời ai không cho nói\n- trả lời chặn họng ai, nói chặn họng ai\n!to jump someone into doing something\n- lừa phỉnh ai làm gì\n!to jump out of one's skin\n- giật nảy mình ngạc nhiên; giật nảy mình sợ hãi...\n@Chuyên ngành kinh tế\n-nhảy vọt\n-tăng vọt\n@Chuyên ngành kỹ thuật\n-bậc móng\n-bước nhảy\n-cầu trượt\n-lệnh nhảy\n-nhảy\n-nhảy qua\n-nước chảy\n-phay\n-phay thuận\n-rẽ nhánh\n-sự chồn\n-sự đột biến\n-sự gián đoạn\n-sự nhảy\n-sự rẽ nhánh\n-sự tán\n@Lĩnh vực: cơ khí & công trình\n-nước nhảy\n@Lĩnh vực: toán & tin\n-sự chuyển lệnh\n@Lĩnh vực: xây dựng\n-ván nhún
-
+jump	
+@jump /dʤʌmp/
+*  danh từ
+- sự nhảy, bước nhảy=long (broad) jump
++ (thể dục,thể thao) nhảy xa=high jump
++ (thể dục,thể thao) nhảy cao=pole jump
++ (thể dục,thể thao) nhảy sào=running jump
++ nhảy có chạy lấy đà=standing jump
++ nhảy không chạy lấy đà
+- sự giật mình; cái giật mình=to give someone the jumps
++ làm cho ai giật mình
+- (the jumps) mê sảng rượu
+- sự tăng đột ngột (giá cả, nhiệt độ...)
+- sự thay đổi đột ngột, sự chuyển đột ngột; chỗ hẫng, chỗ hổng (trong lập luận...); chỗ trống (trong một hàng, một dãy)
+- vật chướng ngại phải nhảy qua
+- nước cờ ăn quân (cờ đam)
+- dòng ghi trang tiếp theo (cuối bài báo, truyện ngắn)!to get (have) the jump on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bắt đầu sớm hơn và do đó nắm được ưu thế hơn!on the jump
+- (thông tục) hối hả bận rộn
+*  nội động từ
+- nhảy=to jump for joy
++ nhảy lên vì vui sướng=to jump from one subject to another
++ nhảy từ vấn đề này sang vấn đề kia
+- giật mình, giật nảy người=my heart jumps
++ tim tôi giật nảy lên (vì sợ...)
+- nhảy vọt, tăng vọt, tăng đột ngột (giá cả, độ nhiệt...)
+- (thường) at,  to chớp ngay lấy, nắm ngay lấy; chấp nhận vội vàng, vội đi tới (một kết luận...)=to jump at an opportunity
++ chớp lấy cơ hội=to jump at an offer
++ vội chấp nhận một đề nghị=to jump at (to) a conclusion
++ vội đi tới một kết luận
+- (jump on,  upon) nhảy bổ vào tấn công dữ dội (kẻ địch...)
+*  ngoại động từ
+- nhảy qua=to jump a fence
++ nhảy qua hàng rào
+- bỏ sót, bỏ qua, bỏ cách quãng mất=to jump a chapter in a book
++ bỏ cách quãng mất một chương trong sách
+- trật (bánh ra khỏi đường ray)=to jump the rails
++ trật đường ray
+- làm cho nhảy lên, bắt nhảy, bắt nhảy qua=to jump the horse across the ditch
++ bắt con ngựa nhảy qua cái hào=to jump a child down
++ đỡ cho một em nhỏ nhảy xuống
+- làm giật mình, làm giật nảy người lên
+- đào lật (khoai rán trong chão...)
+- (từ Mỹ,nghĩa Mỹ) nhảy lên, nhảy vào=to jump a train
++ nhảy lên xe lửa
+- nhảy bổ vào chộp lấy (cái gì)
+- lấn, không đứng vào (hàng nối đuôi nhau theo lần lượt)=to jump a queue
++ lấn chỗ khi xếp hàng
+- nẫng tay trên, phỗng tay trên, chiếm đoạt, xâm chiếm=to jump a mining claim
++ chiếm mất quyền khai thác mỏ (của ai)
+- làm cho bay lên, làm chạy tán loạn (chim, thú săn)
+- khoan đá bằng choòng
+- tiếp (bài báo, truyện ngắn...) ở trang khác
+- chặt, ăn (quân cờ đam)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tấn công bất thình lình
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bỏ đi bất thình lình, trốn, chuồn!to jump off
+- (quân sự),  (từ lóng) bắt đầu tấn công!to jump on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mắng, nhiếc, chỉnh!to jump together; to jump with
+- phù hợp với nhau, nhất trí với nhau; trùng nhau!to jump the gun
+- (từ lóng)
+- (thể dục,thể thao) chạy trước khi có hiệu lệnh xuất phát
+- bắt đầu (làm gì) trước lúc quy định!to jump down somebody's throat
+- chặn đứng ai không cho nói, ngắt lời ai không cho nói
+- trả lời chặn họng ai, nói chặn họng ai!to jump someone into doing something
+- lừa phỉnh ai làm gì!to jump out of one's skin
+- giật nảy mình ngạc nhiên; giật nảy mình sợ hãi...
+@Chuyên ngành kinh tế
+-nhảy vọt
+-tăng vọt
+@Chuyên ngành kỹ thuật
+-bậc móng
+-bước nhảy
+-cầu trượt
+-lệnh nhảy
+-nhảy
+-nhảy qua
+-nước chảy
+-phay
+-phay thuận
+-rẽ nhánh
+-sự chồn
+-sự đột biến
+-sự gián đoạn
+-sự nhảy
+-sự rẽ nhánh
+-sự tán
+@Lĩnh vực: cơ khí & công trình
+-nước nhảy
+@Lĩnh vực: toán & tin
+-sự chuyển lệnh
+@Lĩnh vực: xây dựng
+-ván nhún

@@ -1,3 +1,4 @@
-geld
-	@geld /geld/\n*  ngoại động từ gelded,  gelt\n- thiến (súc vật)
-
+geld	
+@geld /geld/
+*  ngoại động từ gelded,  gelt
+- thiến (súc vật)

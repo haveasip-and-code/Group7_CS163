@@ -1,3 +1,9 @@
-breakaway
-	@breakaway\n* danh từ\n- <chtrị> sự ly khai\n@Chuyên ngành kỹ thuật\n-sự đứt đoạn\n-sự phá hủy\n@Lĩnh vực: cơ khí & công trình\n-sự đứt rời\n-thiết bị phá hủy
-
+breakaway	@breakaway
+* danh từ
+- <chtrị> sự ly khai
+@Chuyên ngành kỹ thuật
+-sự đứt đoạn
+-sự phá hủy
+@Lĩnh vực: cơ khí & công trình
+-sự đứt rời
+-thiết bị phá hủy

@@ -1,3 +1,23 @@
-fission
-	@fission /'fiʃn/\n*  danh từ\n- (sinh vật học) sự sinh sản phân đôi\n- (vật lý) sự phân hạt nhân\n@Chuyên ngành kỹ thuật\n-phân hạch\n-sự chia\n-sự phân hạch\n-sự tách\n@Lĩnh vực: y học\n-phân cắt\n@Lĩnh vực: hóa học & vật liệu\n-tách đôi\n@Chuyên ngành kỹ thuật\n-phân hạch\n-sự chia\n-sự phân hạch\n-sự tách\n@Lĩnh vực: y học\n-phân cắt\n@Lĩnh vực: hóa học & vật liệu\n-tách đôi
-
+fission	
+@fission /'fiʃn/
+*  danh từ
+- (sinh vật học) sự sinh sản phân đôi
+- (vật lý) sự phân hạt nhân
+@Chuyên ngành kỹ thuật
+-phân hạch
+-sự chia
+-sự phân hạch
+-sự tách
+@Lĩnh vực: y học
+-phân cắt
+@Lĩnh vực: hóa học & vật liệu
+-tách đôi
+@Chuyên ngành kỹ thuật
+-phân hạch
+-sự chia
+-sự phân hạch
+-sự tách
+@Lĩnh vực: y học
+-phân cắt
+@Lĩnh vực: hóa học & vật liệu
+-tách đôi

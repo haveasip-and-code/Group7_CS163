@@ -1,3 +1,8 @@
-lagged
-	@Chuyên ngành kỹ thuật\n-được bọc\n@Lĩnh vực: xây dựng\n-được đậy nắp\n@Chuyên ngành kỹ thuật\n-được bọc\n@Lĩnh vực: xây dựng\n-được đậy nắp
-
+lagged	@Chuyên ngành kỹ thuật
+-được bọc
+@Lĩnh vực: xây dựng
+-được đậy nắp
+@Chuyên ngành kỹ thuật
+-được bọc
+@Lĩnh vực: xây dựng
+-được đậy nắp

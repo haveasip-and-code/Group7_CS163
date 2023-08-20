@@ -1,3 +1,26 @@
-transaction
-	@transaction /træn'zækʃn/\n*  danh từ\n- sự thực hiện; sự giải quyết\n=to spend much time on the transaction of the business+ mất nhiều thì giờ vào việc giải quyết công việc\n- sự quản lý kinh doanh; công việc kinh doanh; sự giao dịch\n=we have had no transactions with that firm+ chúng tôi không có quan hệ kinh doanh (giao dịch) với hãng đó\n- (số nhiều) văn kiện hội nghị chuyên môn\n=transactions of the 5 th conference on atomic energy+ văn kiện hội nghị lần thứ 5 về năng lượng nguyên tử\n@Chuyên ngành kinh tế\n-công việc kinh doanh\n-doanh vụ\n-giao dịch\n-giao dịch mua bán\n-kinh doanh\n-nghiệp vụ\n-việc giao dịch\n@Chuyên ngành kỹ thuật\n-bước chuyển\n-giao dịch\n-sự giao dịch\n@Lĩnh vực: toán & tin\n-giao tác\n-sự chuyển tác\n-sự giao tác\n-sự toàn tác\n-toàn tác
-
+transaction	@transaction /træn'zækʃn/
+*  danh từ
+- sự thực hiện; sự giải quyết
+=to spend much time on the transaction of the business+ mất nhiều thì giờ vào việc giải quyết công việc
+- sự quản lý kinh doanh; công việc kinh doanh; sự giao dịch
+=we have had no transactions with that firm+ chúng tôi không có quan hệ kinh doanh (giao dịch) với hãng đó
+- (số nhiều) văn kiện hội nghị chuyên môn
+=transactions of the 5 th conference on atomic energy+ văn kiện hội nghị lần thứ 5 về năng lượng nguyên tử
+@Chuyên ngành kinh tế
+-công việc kinh doanh
+-doanh vụ
+-giao dịch
+-giao dịch mua bán
+-kinh doanh
+-nghiệp vụ
+-việc giao dịch
+@Chuyên ngành kỹ thuật
+-bước chuyển
+-giao dịch
+-sự giao dịch
+@Lĩnh vực: toán & tin
+-giao tác
+-sự chuyển tác
+-sự giao tác
+-sự toàn tác
+-toàn tác

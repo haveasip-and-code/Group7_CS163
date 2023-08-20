@@ -1,3 +1,8 @@
-decouple
-	@decouple\n* ngoại động từ\n- tách riêng ra\n@Chuyên ngành kỹ thuật\n-khử ghép\n-tách rời\n@Lĩnh vực: toán & tin\n-ngắt liên kết
-
+decouple	@decouple
+* ngoại động từ
+- tách riêng ra
+@Chuyên ngành kỹ thuật
+-khử ghép
+-tách rời
+@Lĩnh vực: toán & tin
+-ngắt liên kết

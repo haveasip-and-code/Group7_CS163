@@ -1,3 +1,2 @@
-vomerine
-	@vomerine\n- xem vomer
-
+vomerine	@vomerine
+- xem vomer

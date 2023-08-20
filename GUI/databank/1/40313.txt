@@ -1,3 +1,6 @@
-pelletizer
-	@Chuyên ngành kỹ thuật\n-máy đóng viên\n-máy tạo hạt\n@Lĩnh vực: hóa học & vật liệu\n-máy ép viên\n-máy vê viên
-
+pelletizer	@Chuyên ngành kỹ thuật
+-máy đóng viên
+-máy tạo hạt
+@Lĩnh vực: hóa học & vật liệu
+-máy ép viên
+-máy vê viên

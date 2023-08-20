@@ -1,3 +1,27 @@
-reader
-	@reader /'ri:də/\n*  danh từ\n- người đọc, độc giả\n- người mê đọc sách\n=to be a great reader+ rất mê đọc sách; đọc sách rất nhiều\n- phó giáo sư (trường đại học)\n- (ngành in) người đọc và sửa bản in thử ((cũng) proot reader)\n- (tôn giáo) người đọc kinh (trong nhà thờ) ((cũng) lay reader)\n- người đọc bản thảo (ở nhà xuất bản) ((cũng) publisher's reader)\n- tập văn tuyển\n- (từ lóng) sổ tay\n@Chuyên ngành kinh tế\n-bộ đọc (ở máy vi tính)\n@Chuyên ngành kỹ thuật\n-bộ đọc\n-đầu đọc\n-người đọc\n-người sửa bài\n-máy đọc\n@Lĩnh vực: xây dựng\n-bộ dọc\n@Lĩnh vực: toán & tin\n-bộ đọc vi dạng\n-thủ tục nhập\n-thường trình nhập\n@Lĩnh vực: điện lạnh\n-bộ phận đọc
-
+reader	@reader /'ri:də/
+*  danh từ
+- người đọc, độc giả
+- người mê đọc sách
+=to be a great reader+ rất mê đọc sách; đọc sách rất nhiều
+- phó giáo sư (trường đại học)
+- (ngành in) người đọc và sửa bản in thử ((cũng) proot reader)
+- (tôn giáo) người đọc kinh (trong nhà thờ) ((cũng) lay reader)
+- người đọc bản thảo (ở nhà xuất bản) ((cũng) publisher's reader)
+- tập văn tuyển
+- (từ lóng) sổ tay
+@Chuyên ngành kinh tế
+-bộ đọc (ở máy vi tính)
+@Chuyên ngành kỹ thuật
+-bộ đọc
+-đầu đọc
+-người đọc
+-người sửa bài
+-máy đọc
+@Lĩnh vực: xây dựng
+-bộ dọc
+@Lĩnh vực: toán & tin
+-bộ đọc vi dạng
+-thủ tục nhập
+-thường trình nhập
+@Lĩnh vực: điện lạnh
+-bộ phận đọc

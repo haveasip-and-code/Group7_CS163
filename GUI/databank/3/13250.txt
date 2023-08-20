@@ -1,3 +1,2 @@
-cuttable
-	@cuttable\n- xem cut
-
+cuttable	@cuttable
+- xem cut

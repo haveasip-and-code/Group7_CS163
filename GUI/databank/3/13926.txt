@@ -1,3 +1,2 @@
-decremental
-	@decremental\n- xem decrement
-
+decremental	@decremental
+- xem decrement

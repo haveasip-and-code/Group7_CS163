@@ -1,3 +1,28 @@
-mean
-	@mean\n- trung bình // giá trị trugn bình; phương tiện; phương pháp by all\n- m.s bằng mọi cách; by any m.s bằng bất kỳ cách nào; by m.s of gián\n- tiếp, bằng phương pháp; by no m.s không có cách nào; in the m. ở (mức)\n- trung bình\n- m. of a function (giải tích) giá trị trung bình của hàm\n- m. of observation trung bình quan trắc\n- arithmetic m. trung bình cộng\n- assumed m. trung bình giả định\n- asymptotic(al) m. trung bình tiệm cận\n- class m. số trung bình trong lớp\n- combinatorial power m. (thống kê) trung bình luỹ thừa tổ hợp\n- controlling m. phươgn tiện [điều khiển, điều chỉnh]\n- engaging m.s (máy tính) phương tiện cho chạy\n- geometric m. trung bình nhân\n- harmonic m. trung bình điều hoà\n- measuring m.s (máy tính) phương tiện đo lường\n- modified m. trung bình cải biên\n- population m. kỳ vọng lý thuyết\n- power m. (thống kê) trung bình luỹ thừa\n- pulse generating m. (máy tính) thiết bị máy phát xung\n- quadratic m. (thống kê) bình phương trung bình\n- sample m. trung bình mẫu\n- true m. trung bình chân thực\n- universe m. kỳ vọng lý thuyết; giá trị trung bình của tập hợp tổng quát,\n- trung bình tổng quát\n- unweighted m. (toán kinh tế) trung bình không có trọng lượng\n- weight m.s trung bình có trọng lượng
-
+mean	@mean
+- trung bình // giá trị trugn bình; phương tiện; phương pháp by all
+- m.s bằng mọi cách; by any m.s bằng bất kỳ cách nào; by m.s of gián
+- tiếp, bằng phương pháp; by no m.s không có cách nào; in the m. ở (mức)
+- trung bình
+- m. of a function (giải tích) giá trị trung bình của hàm
+- m. of observation trung bình quan trắc
+- arithmetic m. trung bình cộng
+- assumed m. trung bình giả định
+- asymptotic(al) m. trung bình tiệm cận
+- class m. số trung bình trong lớp
+- combinatorial power m. (thống kê) trung bình luỹ thừa tổ hợp
+- controlling m. phươgn tiện [điều khiển, điều chỉnh]
+- engaging m.s (máy tính) phương tiện cho chạy
+- geometric m. trung bình nhân
+- harmonic m. trung bình điều hoà
+- measuring m.s (máy tính) phương tiện đo lường
+- modified m. trung bình cải biên
+- population m. kỳ vọng lý thuyết
+- power m. (thống kê) trung bình luỹ thừa
+- pulse generating m. (máy tính) thiết bị máy phát xung
+- quadratic m. (thống kê) bình phương trung bình
+- sample m. trung bình mẫu
+- true m. trung bình chân thực
+- universe m. kỳ vọng lý thuyết; giá trị trung bình của tập hợp tổng quát,
+- trung bình tổng quát
+- unweighted m. (toán kinh tế) trung bình không có trọng lượng
+- weight m.s trung bình có trọng lượng

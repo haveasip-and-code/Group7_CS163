@@ -1,3 +1,15 @@
-libel
-	@libel /'laibəl/\n*  danh từ\n- lời phỉ báng (trên sách báo); bài viết có tính chất phỉ báng; điều phỉ báng, điều bôi nhọ, điều vu oan giá hoạ\n- (pháp lý) tội phỉ báng\n- (pháp lý) đơn bên nguyên\n*  ngoại động từ\n- phỉ báng, bôi nhọ (ai) (trên sách báo); đưa ra lời phỉ báng, đưa ra bài văn phỉ báng, đưa ra tranh vẽ phỉ báng (ai)\n@Chuyên ngành kinh tế\n-sự phỉ báng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phỉ báng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phỉ báng
-
+libel	@libel /'laibəl/
+*  danh từ
+- lời phỉ báng (trên sách báo); bài viết có tính chất phỉ báng; điều phỉ báng, điều bôi nhọ, điều vu oan giá hoạ
+- (pháp lý) tội phỉ báng
+- (pháp lý) đơn bên nguyên
+*  ngoại động từ
+- phỉ báng, bôi nhọ (ai) (trên sách báo); đưa ra lời phỉ báng, đưa ra bài văn phỉ báng, đưa ra tranh vẽ phỉ báng (ai)
+@Chuyên ngành kinh tế
+-sự phỉ báng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phỉ báng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phỉ báng

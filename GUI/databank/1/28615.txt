@@ -1,3 +1,4 @@
-ingroup
-	@ingroup /'ingru:p/\n*  danh từ\n- nhóm người cùng chung quyền lợi
-
+ingroup	
+@ingroup /'ingru:p/
+*  danh từ
+- nhóm người cùng chung quyền lợi

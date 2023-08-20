@@ -1,3 +1,2 @@
-assenter
-	@assenter\n- xem assent
-
+assenter	@assenter
+- xem assent

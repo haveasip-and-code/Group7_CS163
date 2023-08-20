@@ -1,3 +1,2 @@
-refillable
-	@Chuyên ngành kinh tế\n-còn sử dụng được
-
+refillable	@Chuyên ngành kinh tế
+-còn sử dụng được

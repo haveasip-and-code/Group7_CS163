@@ -1,3 +1,2 @@
-permittee
-	@permittee\n- xem permit
-
+permittee	@permittee
+- xem permit

@@ -1,3 +1,5 @@
-weighing
-	@Chuyên ngành kinh tế\n-sự cân\n@Chuyên ngành kỹ thuật\n-cân\n-sự cân
-
+weighing	@Chuyên ngành kinh tế
+-sự cân
+@Chuyên ngành kỹ thuật
+-cân
+-sự cân

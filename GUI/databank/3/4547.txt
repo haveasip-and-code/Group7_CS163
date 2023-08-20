@@ -1,3 +1,2 @@
-balletic
-	@balletic\n- xem ballet
-
+balletic	@balletic
+- xem ballet

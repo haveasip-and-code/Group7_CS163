@@ -1,3 +1,23 @@
-abide
-	@abide /ə'baid/\n*  nội động từ (abode; abode,  abide)\n- tồn tại; kéo dài\n=this mistake will not abide for ever+ sai lầm này sẽ không thể kéo dài mãi được\n- (+ by) tôn trọng, giữ, tuân theo, chịu theo; trung thành với\n=to abide by one's friend+ trung thành với bạn\n- (từ cổ,nghĩa cổ) ở, ngụ tại\n=to abide with somebody+ ở với ai\n*  ngoại động từ\n- chờ, chờ đợi\n=to abide one's time+ chờ thời cơ\n- chịu đựng, chịu\n=we can't abide his fits of temper+ chúng tôi không thể chịu được những cơn nóng giận của hắn\n- chống đỡ được (cuộc tấn công)\n@Chuyên ngành kinh tế\n-giữ\n-tôn trọng (hợp đồng, luật pháp, quyết định, lời hứa...)\n-tuân theo\n-tuân thủ\n@Chuyên ngành kỹ thuật\n-chịu theo
-
+abide	
+@abide /ə'baid/
+*  nội động từ (abode; abode,  abide)
+- tồn tại; kéo dài=this mistake will not abide for ever
++ sai lầm này sẽ không thể kéo dài mãi được
+- (
++ by) tôn trọng, giữ, tuân theo, chịu theo; trung thành với=to abide by one's friend
++ trung thành với bạn
+- (từ cổ,nghĩa cổ) ở, ngụ tại=to abide with somebody
++ ở với ai
+*  ngoại động từ
+- chờ, chờ đợi=to abide one's time
++ chờ thời cơ
+- chịu đựng, chịu=we can't abide his fits of temper
++ chúng tôi không thể chịu được những cơn nóng giận của hắn
+- chống đỡ được (cuộc tấn công)
+@Chuyên ngành kinh tế
+-giữ
+-tôn trọng (hợp đồng, luật pháp, quyết định, lời hứa...)
+-tuân theo
+-tuân thủ
+@Chuyên ngành kỹ thuật
+-chịu theo

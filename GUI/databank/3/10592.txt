@@ -1,3 +1,4 @@
-communique
-	@Chuyên ngành kỹ thuật\n-thông báo\n@Lĩnh vực: xây dựng\n-thông cáo
-
+communique	@Chuyên ngành kỹ thuật
+-thông báo
+@Lĩnh vực: xây dựng
+-thông cáo

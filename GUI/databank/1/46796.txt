@@ -1,3 +1,12 @@
-reorder
-	@reorder\n* ngoại động từ\n- đặt mua lại, đặt mua bổ sung\n- sắp xếp lại, sắp đặt theo trật tự mới\n* danh từ\n- yêu cầu cung cấp thêm\n@Chuyên ngành kinh tế\n-chỉnh đốn lại\n-đặt hàng lại\n-sắp xếp lại\n-sự đặt hàng lại\n-tổ chức lại
-
+reorder	@reorder
+* ngoại động từ
+- đặt mua lại, đặt mua bổ sung
+- sắp xếp lại, sắp đặt theo trật tự mới
+* danh từ
+- yêu cầu cung cấp thêm
+@Chuyên ngành kinh tế
+-chỉnh đốn lại
+-đặt hàng lại
+-sắp xếp lại
+-sự đặt hàng lại
+-tổ chức lại

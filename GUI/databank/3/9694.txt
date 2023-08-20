@@ -1,3 +1,2 @@
-cleanable
-	@cleanable\n- xem clean
-
+cleanable	@cleanable
+- xem clean

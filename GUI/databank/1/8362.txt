@@ -1,3 +1,10 @@
-causal
-	@causal /'kɔ:zəl/\n*  tính từ\n- (thuộc) nguyên nhân\n- (thuộc) quan hệ nhân quả\n=causal relation+ quan hệ nhân quả\n@Chuyên ngành kỹ thuật\n-hậu quả\n-kết quả\n-nguyên nhân
-
+causal	
+@causal /'kɔ:zəl/
+*  tính từ
+- (thuộc) nguyên nhân
+- (thuộc) quan hệ nhân quả=causal relation
++ quan hệ nhân quả
+@Chuyên ngành kỹ thuật
+-hậu quả
+-kết quả
+-nguyên nhân

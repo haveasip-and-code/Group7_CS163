@@ -1,3 +1,15 @@
-haven
-	@haven /'heivn/\n*  danh từ\n- bến tàu, cảng\n- (nghĩa bóng) nơi trú, nơi ẩn náu\n@Chuyên ngành kinh tế\n-bến cảng\n-cảng\n-cảng khẩu\n-chỗ tàu đậu ở cảng\n-nơi ẩn náu\n-quả tầm quân\n-quả táo gai\n@Chuyên ngành kỹ thuật\n-bến tàu
-
+haven	
+@haven /'heivn/
+*  danh từ
+- bến tàu, cảng
+- (nghĩa bóng) nơi trú, nơi ẩn náu
+@Chuyên ngành kinh tế
+-bến cảng
+-cảng
+-cảng khẩu
+-chỗ tàu đậu ở cảng
+-nơi ẩn náu
+-quả tầm quân
+-quả táo gai
+@Chuyên ngành kỹ thuật
+-bến tàu

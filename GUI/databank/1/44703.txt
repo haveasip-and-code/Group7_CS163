@@ -1,3 +1,28 @@
-punching
-	@Chuyên ngành kinh tế\n-sự làm mịn (bột)\n@Chuyên ngành kỹ thuật\n-đục lỗ\n-dùi\n-phôi\n-sự chọc thủng\n-sự đánh dấu\n-sự đột lỗ\n-sự đục lỗ\n-sự dùi lỗ\n-sự khoan lỗ\n-sự núng lỗ\n-xảm\n@Lĩnh vực: hóa học & vật liệu\n-lá tôn dập\n@Lĩnh vực: cơ khí & công trình\n-lỗ đột\n@Lĩnh vực: toán & tin\n-sự đục lỗ (bìa)\n@Lĩnh vực: xây dựng\n-sự trét khe\n-vật liệu trét khe\n@Lĩnh vực: điện\n-tấm đột\n@Lĩnh vực: điện lạnh\n-tấm tôn lõi\n-tôn cán
-
+punching	@Chuyên ngành kinh tế
+-sự làm mịn (bột)
+@Chuyên ngành kỹ thuật
+-đục lỗ
+-dùi
+-phôi
+-sự chọc thủng
+-sự đánh dấu
+-sự đột lỗ
+-sự đục lỗ
+-sự dùi lỗ
+-sự khoan lỗ
+-sự núng lỗ
+-xảm
+@Lĩnh vực: hóa học & vật liệu
+-lá tôn dập
+@Lĩnh vực: cơ khí & công trình
+-lỗ đột
+@Lĩnh vực: toán & tin
+-sự đục lỗ (bìa)
+@Lĩnh vực: xây dựng
+-sự trét khe
+-vật liệu trét khe
+@Lĩnh vực: điện
+-tấm đột
+@Lĩnh vực: điện lạnh
+-tấm tôn lõi
+-tôn cán

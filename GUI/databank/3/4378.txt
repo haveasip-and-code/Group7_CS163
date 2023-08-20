@@ -1,3 +1,5 @@
-backlight
-	@backlight\n- (Tech) ánh sáng bối cảnh; chiếu sáng mặt sau, áng sáng chiếu hậu; đèn sau [TQ]\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-chiếu sáng ngược
-
+backlight	@backlight
+- (Tech) ánh sáng bối cảnh; chiếu sáng mặt sau, áng sáng chiếu hậu; đèn sau [TQ]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-chiếu sáng ngược

@@ -1,3 +1,7 @@
-interlocking
-	@Chuyên ngành kỹ thuật\n-liên khóa\n-sự khóa liên động\n-sự nối khớp\n@Lĩnh vực: hóa học & vật liệu\n-sự bắt ngàm
-
+interlocking	
+@Chuyên ngành kỹ thuật
+-liên khóa
+-sự khóa liên động
+-sự nối khớp
+@Lĩnh vực: hóa học & vật liệu
+-sự bắt ngàm

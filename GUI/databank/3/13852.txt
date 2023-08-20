@@ -1,3 +1,2 @@
-declarer
-	@declarer\n- xem declare
-
+declarer	@declarer
+- xem declare

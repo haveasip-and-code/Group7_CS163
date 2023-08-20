@@ -1,3 +1,11 @@
-redraft
-	@Chuyên ngành kinh tế\n-hối phiếu đổi mới\n-hối phiếu viết lại\n-soạn lại\n-sự đổi lại\n-sự thay đổi\n-sự viết lại\n-tái khởi thảo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phác họa lại
-
+redraft	@Chuyên ngành kinh tế
+-hối phiếu đổi mới
+-hối phiếu viết lại
+-soạn lại
+-sự đổi lại
+-sự thay đổi
+-sự viết lại
+-tái khởi thảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phác họa lại

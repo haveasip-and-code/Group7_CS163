@@ -1,3 +1,35 @@
-gross
-	@gross /grous/\n*  danh từ,  số nhiều không đổi\n- mười hai tá, gốt ((cũng) small gross)\n=great gross+ 144 tá\n!by the gross\n- gộp cả, tính tổng quát, nói chung\n*  tính từ\n- to béo, phì nộm, béo phị (người)\n=gross habit of body+ thân hình to béo phì nộm\n- thô và béo ngậy (thức ăn)\n=a gross feeder+ người thích những món ăn thô và béo ngậy; cây ăn tốn màu\n- nặng, kho ngửi (mùi)\n- thô tục, tục tĩu, bẩn tưởi, gớm guốc\n=gross language+ lối ăn nói tục tĩu\n- thô bạo, trắng trợn; hiển nhiên, sờ sờ\n=a gross injustice+ sự bất công thô bạo\n=a gross mistake+ một lỗi lầm hiển nhiên\n- không tinh, không thính (giác quan...); không sành, thô thiển\n- rậm rạp, um tùm (cây cối)\n- toàn bộ, tổng\n=gross value+ tổng giá trị\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) thu nhập tổng số\n@Chuyên ngành kinh tế\n-gộp (trọng lượng, lãi...) thô\n-mười hai tá\n-tổng\n@Chuyên ngành kỹ thuật\n-gộp\n-lớn\n-nhìn chung\n-sự (tính) gộp\n-sự tổng cộng\n-to\n-toàn bộ
-
+gross	
+@gross /grous/
+*  danh từ,  số nhiều không đổi
+- mười hai tá, gốt ((cũng) small gross)=great gross
++ 144 tá!by the gross
+- gộp cả, tính tổng quát, nói chung
+*  tính từ
+- to béo, phì nộm, béo phị (người)=gross habit of body
++ thân hình to béo phì nộm
+- thô và béo ngậy (thức ăn)=a gross feeder
++ người thích những món ăn thô và béo ngậy; cây ăn tốn màu
+- nặng, kho ngửi (mùi)
+- thô tục, tục tĩu, bẩn tưởi, gớm guốc=gross language
++ lối ăn nói tục tĩu
+- thô bạo, trắng trợn; hiển nhiên, sờ sờ=a gross injustice
++ sự bất công thô bạo=a gross mistake
++ một lỗi lầm hiển nhiên
+- không tinh, không thính (giác quan...); không sành, thô thiển
+- rậm rạp, um tùm (cây cối)
+- toàn bộ, tổng=gross value
++ tổng giá trị
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) thu nhập tổng số
+@Chuyên ngành kinh tế
+-gộp (trọng lượng, lãi...) thô
+-mười hai tá
+-tổng
+@Chuyên ngành kỹ thuật
+-gộp
+-lớn
+-nhìn chung
+-sự (tính) gộp
+-sự tổng cộng
+-to
+-toàn bộ

@@ -1,3 +1,4 @@
-exports
-	@Chuyên ngành kinh tế\n-hàng xuất\n-hàng xuất khẩu
-
+exports	
+@Chuyên ngành kinh tế
+-hàng xuất
+-hàng xuất khẩu

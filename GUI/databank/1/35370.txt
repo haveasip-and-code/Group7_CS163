@@ -1,3 +1,23 @@
-mold
-	@mold /mould/\n*  danh từ & ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) (như) mould\n@Chuyên ngành kỹ thuật\n-côn\n-dập\n-đúc\n-dưỡng\n-đường gờ\n-khuôn\n-khuôn để đúc\n-khuôn đúc\n-khuôn ép\n-kiểu\n-làm khuôn\n-làm mẫu khuôn\n-làm rỗng\n-lưới tròn\n-mẫu\n-mô hình\n-mốc\n@Lĩnh vực: y học\n-cái khuôn
-
+mold	@mold /mould/
+*  danh từ & ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) (như) mould
+@Chuyên ngành kỹ thuật
+-côn
+-dập
+-đúc
+-dưỡng
+-đường gờ
+-khuôn
+-khuôn để đúc
+-khuôn đúc
+-khuôn ép
+-kiểu
+-làm khuôn
+-làm mẫu khuôn
+-làm rỗng
+-lưới tròn
+-mẫu
+-mô hình
+-mốc
+@Lĩnh vực: y học
+-cái khuôn

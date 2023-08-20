@@ -1,3 +1,59 @@
-ledge
-	@ledge /'ledʤ/\n*  danh từ\n- gờ, rìa (tường, cửa...)\n- đá ngầm\n- (ngành mỏ) mạch quặng\n@Chuyên ngành kỹ thuật\n-chỗ lồi\n-đá ngầm\n-đậu rót\n-dãy\n-đoạn chìa\n-giá đỡ\n-gờ\n-gờ ngăn\n-lớp\n-mạch\n-mạch quặng\n-mái đua\n-mái hắt\n-phần nhô ra\n-rìa\n-tầng\n-thân quặng\n-thanh\n-thanh nẹp\n-vỉa\n@Lĩnh vực: xây dựng\n-bờ hào\n-thanh giảm chấn\n@Lĩnh vực: cơ khí & công trình\n-gióng\n-gióng (ngang)\n@Chuyên ngành kỹ thuật\n-chỗ lồi\n-đá ngầm\n-đậu rót\n-dãy\n-đoạn chìa\n-giá đỡ\n-gờ\n-gờ ngăn\n-lớp\n-mạch\n-mạch quặng\n-mái đua\n-mái hắt\n-phần nhô ra\n-rìa\n-tầng\n-thân quặng\n-thanh\n-thanh nẹp\n-vỉa\n@Lĩnh vực: xây dựng\n-bờ hào\n-thanh giảm chấn\n@Lĩnh vực: cơ khí & công trình\n-gióng\n-gióng (ngang)
-
+ledge	@ledge /'ledʤ/
+*  danh từ
+- gờ, rìa (tường, cửa...)
+- đá ngầm
+- (ngành mỏ) mạch quặng
+@Chuyên ngành kỹ thuật
+-chỗ lồi
+-đá ngầm
+-đậu rót
+-dãy
+-đoạn chìa
+-giá đỡ
+-gờ
+-gờ ngăn
+-lớp
+-mạch
+-mạch quặng
+-mái đua
+-mái hắt
+-phần nhô ra
+-rìa
+-tầng
+-thân quặng
+-thanh
+-thanh nẹp
+-vỉa
+@Lĩnh vực: xây dựng
+-bờ hào
+-thanh giảm chấn
+@Lĩnh vực: cơ khí & công trình
+-gióng
+-gióng (ngang)
+@Chuyên ngành kỹ thuật
+-chỗ lồi
+-đá ngầm
+-đậu rót
+-dãy
+-đoạn chìa
+-giá đỡ
+-gờ
+-gờ ngăn
+-lớp
+-mạch
+-mạch quặng
+-mái đua
+-mái hắt
+-phần nhô ra
+-rìa
+-tầng
+-thân quặng
+-thanh
+-thanh nẹp
+-vỉa
+@Lĩnh vực: xây dựng
+-bờ hào
+-thanh giảm chấn
+@Lĩnh vực: cơ khí & công trình
+-gióng
+-gióng (ngang)

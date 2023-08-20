@@ -1,3 +1,2 @@
-cartoonish
-	@cartoonish\n- xem cartoon
-
+cartoonish	@cartoonish
+- xem cartoon

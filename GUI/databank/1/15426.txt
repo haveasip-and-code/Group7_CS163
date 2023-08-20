@@ -1,3 +1,13 @@
-dimensional
-	@dimensional /di'menʃənl/\n*  tính từ\n- thuộc chiều; thuộc kích thước, thuộc khổ, thuộc cỡ\n- (toán học) (thuộc) thứ nguyên\n=dimensional analysis+ phân tích thứ nguyên\n=dimensional unit+ đơn vị thứ nguyên\n@Chuyên ngành kỹ thuật\n-thứ nguyên\n@Lĩnh vực: toán & tin\n-chiều\n@Lĩnh vực: xây dựng\n-có kích thước
-
+dimensional	
+@dimensional /di'menʃənl/
+*  tính từ
+- thuộc chiều; thuộc kích thước, thuộc khổ, thuộc cỡ
+- (toán học) (thuộc) thứ nguyên=dimensional analysis
++ phân tích thứ nguyên=dimensional unit
++ đơn vị thứ nguyên
+@Chuyên ngành kỹ thuật
+-thứ nguyên
+@Lĩnh vực: toán & tin
+-chiều
+@Lĩnh vực: xây dựng
+-có kích thước

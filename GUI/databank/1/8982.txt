@@ -1,3 +1,4 @@
-chessboard
-	@chessboard\n* danh từ\n- bàn cờ
-
+chessboard	
+@chessboard
+* danh từ
+- bàn cờ

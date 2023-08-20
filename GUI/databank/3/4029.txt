@@ -1,3 +1,34 @@
-authority
-	@authority /ɔ:'θɔriti/\n*  danh từ\n- uy quyền, quyền lực, quyền thế\n=to exercise authority over somebody+ có quyền lực đối với ai\n- uỷ quyền\n- ((thường) số nhiều) nhà cầm quyền, nhà chức trách, nhà đương cục\n- người có uy tín, người có thẩm quyền, chuyên gia, người lão luyện (về một môn nào)\n=an authority on phonetics+ chuyên gia về ngữ âm\n- tài liệu có thể làm căn cứ đáng tin, căn cứ\n=what is his authority?+ anh ta căn cứ vào đâu?\n!to do something on one own's authority\n- tự ý làm gì, tự cho phép làm gì\n!on (from) good authority\n- theo một nguồn đáng tin cậy, theo căn cứ đích xác\n@Chuyên ngành kinh tế\n-chức quyền\n-nhà cầm quyền\n-nhà chức trách\n-nhà đương cuộc\n-nhà đương trách\n-quyền lực\n-quyền thế\n-sự ủy quyền\n-thác quyền\n-thẩm quyền\n-uy quyền\n-ủy quyền\n@Chuyên ngành kỹ thuật\n-nhà đương cục\n@Lĩnh vực: toán & tin\n-quyền (sử dụng, truy cập)\n@Lĩnh vực: xây dựng\n-quyền lực\n-thẩm quyền, giới chức
-
+authority	@authority /ɔ:'θɔriti/
+*  danh từ
+- uy quyền, quyền lực, quyền thế
+=to exercise authority over somebody+ có quyền lực đối với ai
+- uỷ quyền
+- ((thường) số nhiều) nhà cầm quyền, nhà chức trách, nhà đương cục
+- người có uy tín, người có thẩm quyền, chuyên gia, người lão luyện (về một môn nào)
+=an authority on phonetics+ chuyên gia về ngữ âm
+- tài liệu có thể làm căn cứ đáng tin, căn cứ
+=what is his authority?+ anh ta căn cứ vào đâu?
+!to do something on one own's authority
+- tự ý làm gì, tự cho phép làm gì
+!on (from) good authority
+- theo một nguồn đáng tin cậy, theo căn cứ đích xác
+@Chuyên ngành kinh tế
+-chức quyền
+-nhà cầm quyền
+-nhà chức trách
+-nhà đương cuộc
+-nhà đương trách
+-quyền lực
+-quyền thế
+-sự ủy quyền
+-thác quyền
+-thẩm quyền
+-uy quyền
+-ủy quyền
+@Chuyên ngành kỹ thuật
+-nhà đương cục
+@Lĩnh vực: toán & tin
+-quyền (sử dụng, truy cập)
+@Lĩnh vực: xây dựng
+-quyền lực
+-thẩm quyền, giới chức

@@ -1,3 +1,13 @@
-refinery
-	@refinery /ri'fainəri/\n*  danh từ\n- nhà máy luyện tinh (kim loại); nhà máy lọc, nhà máy tinh chế (dầu, đường...)\n@Chuyên ngành kinh tế\n-xưởng tinh chế\n-xưởng tinh chế dầu\n@Chuyên ngành kỹ thuật\n-nhà máy lọc dầu\n-thiết bị lọc\n@Lĩnh vực: xây dựng\n-nhà máy lọc đường\n@Lĩnh vực: hóa học & vật liệu\n-nhà máy tinh luyện
-
+refinery	@refinery /ri'fainəri/
+*  danh từ
+- nhà máy luyện tinh (kim loại); nhà máy lọc, nhà máy tinh chế (dầu, đường...)
+@Chuyên ngành kinh tế
+-xưởng tinh chế
+-xưởng tinh chế dầu
+@Chuyên ngành kỹ thuật
+-nhà máy lọc dầu
+-thiết bị lọc
+@Lĩnh vực: xây dựng
+-nhà máy lọc đường
+@Lĩnh vực: hóa học & vật liệu
+-nhà máy tinh luyện

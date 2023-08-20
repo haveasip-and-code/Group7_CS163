@@ -1,3 +1,4 @@
-narrows
-	@narrows\n* danh từ số nhiều\n- cửa biển hẹp\n- eo sông; hẻm núi
-
+narrows	@narrows
+* danh từ số nhiều
+- cửa biển hẹp
+- eo sông; hẻm núi

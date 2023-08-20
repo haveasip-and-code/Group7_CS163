@@ -1,3 +1,11 @@
-manufactory
-	@manufactory /,mænju'fæktəri/\n*  danh từ\n- xí nghiệp\n@Chuyên ngành kinh tế\n-công xưởng\n-nhà máy\n-xí nghiệp\n-xưởng chế tạo\n@Chuyên ngành kỹ thuật\n-nhà máy\n-xí nghiệp
-
+manufactory	@manufactory /,mænju'fæktəri/
+*  danh từ
+- xí nghiệp
+@Chuyên ngành kinh tế
+-công xưởng
+-nhà máy
+-xí nghiệp
+-xưởng chế tạo
+@Chuyên ngành kỹ thuật
+-nhà máy
+-xí nghiệp

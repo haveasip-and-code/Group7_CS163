@@ -1,3 +1,43 @@
-area
-	@area /'eəriə/\n*  danh từ\n- diện tích, bề mặt\n=area under crop+ diện tích trồng trọt\n=area of bearing+ (kỹ thuật) mặt tì, mặt đỡ\n- vùng, khu vực\n=residenial area+ khu vực nhà ở\n- khoảng đất trống\n- sân trước nhà ở (có hàng rào cách vỉa hè đường)\n- phạm vi, tầm\n=wide area of knowledge+ tầm hiểu biết rộng\n- rađiô vùng\n@Chuyên ngành kinh tế\n-địa khu\n-diện tích\n-khu\n-vùng\n@Chuyên ngành kỹ thuật\n-bãi\n-biểu đồ\n-đất\n-đất nông nghiệp\n-diện tích\n-khu đất\n-khu vực\n-lãnh thổ\n-lĩnh vực\n-miền\n-phạm vi\n-quảng trường\n-sân trong\n-vỉa\n-vùng\n@Lĩnh vực: điện lạnh\n-điện tích mặt\n@Lĩnh vực: xây dựng\n-khoảng đất trống\n-thang suống đường hầm\n@Lĩnh vực: y học\n-khu, vùng, diện tích\n@Lĩnh vực: toán & tin\n-thang xuống đường hầm\n-vùng nhớ (máy tính)
-
+area	@area /'eəriə/
+*  danh từ
+- diện tích, bề mặt
+=area under crop+ diện tích trồng trọt
+=area of bearing+ (kỹ thuật) mặt tì, mặt đỡ
+- vùng, khu vực
+=residenial area+ khu vực nhà ở
+- khoảng đất trống
+- sân trước nhà ở (có hàng rào cách vỉa hè đường)
+- phạm vi, tầm
+=wide area of knowledge+ tầm hiểu biết rộng
+- rađiô vùng
+@Chuyên ngành kinh tế
+-địa khu
+-diện tích
+-khu
+-vùng
+@Chuyên ngành kỹ thuật
+-bãi
+-biểu đồ
+-đất
+-đất nông nghiệp
+-diện tích
+-khu đất
+-khu vực
+-lãnh thổ
+-lĩnh vực
+-miền
+-phạm vi
+-quảng trường
+-sân trong
+-vỉa
+-vùng
+@Lĩnh vực: điện lạnh
+-điện tích mặt
+@Lĩnh vực: xây dựng
+-khoảng đất trống
+-thang suống đường hầm
+@Lĩnh vực: y học
+-khu, vùng, diện tích
+@Lĩnh vực: toán & tin
+-thang xuống đường hầm
+-vùng nhớ (máy tính)

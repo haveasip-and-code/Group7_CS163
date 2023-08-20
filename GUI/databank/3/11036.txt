@@ -1,3 +1,2 @@
-conferral
-	@conferral\n- xem confer
-
+conferral	@conferral
+- xem confer

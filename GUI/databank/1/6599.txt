@@ -1,3 +1,58 @@
-branch
-	@branch /brɑ:ntʃ/\n*  danh từ\n- cành cây\n- nhánh (sông); ngả (đường)...\n=a branch of a river+ một nhánh sông\n- chi (của một dòng họ...); chi nhánh (ngân hàng...); ngành (sản xuất; mậu dịch...)\n!root and branch\n- (xem) root\n*  nội động từ\n- ((thường) + out,  forth) đâm cành, đâm nhánh\n- phân cành, chia ngã\n=the road branches here+ ở chỗ này đường chia ra nhiều ngã\n!to branch off (away)\n- tách ra, phân nhánh\n!to branch out\n- bỏ nhiều vốn ra kinh doanh; mở rộng các chi nhánh\n@Chuyên ngành kinh tế\n-chi cục\n-chi điểm\n-chi nhánh\n-công ty chi nhánh\n-ngành\n-phân bộ\n-phân hãng\n-tổ chức cơ sở\n@Chuyên ngành kỹ thuật\n-cành\n-cành (cây)\n-chia nhánh\n-điểm rẽ nhánh\n-ngành (chuyên môn)\n-nhánh\n-nhánh (sông)\n-nhánh sông\n-mạch nhánh\n-mạch quặng\n-ống nhánh\n-ống nối\n-ống nối phân nhánh\n-phân nhánh\n-rẽ nhánh\n-sự phân nhánh\n-sự rẽ nhánh\n@Lĩnh vực: toán & tin\n-cảnh\n-chi nhánh\n-rẽ nhánh (chương trình)\n@Lĩnh vực: xây dựng\n-cánh nếp uốn\n-mối nối nối ống\n-ống phụ\n@Lĩnh vực: điện\n-chi nhánh (điện)\n-ổ nối\n-ống nối rẽ\n@Lĩnh vực: giao thông & vận tải\n-ngả đường\n@Lĩnh vực: hóa học & vật liệu\n-vỉa mạch
-
+branch	
+@branch /brɑ:ntʃ/
+*  danh từ
+- cành cây
+- nhánh (sông); ngả (đường)...=a branch of a river
++ một nhánh sông
+- chi (của một dòng họ...); chi nhánh (ngân hàng...); ngành (sản xuất; mậu dịch...)!root and branch
+- (xem) root
+*  nội động từ
+- ((thường) 
++ out,  forth) đâm cành, đâm nhánh
+- phân cành, chia ngã=the road branches here
++ ở chỗ này đường chia ra nhiều ngã!to branch off (away)
+- tách ra, phân nhánh!to branch out
+- bỏ nhiều vốn ra kinh doanh; mở rộng các chi nhánh
+@Chuyên ngành kinh tế
+-chi cục
+-chi điểm
+-chi nhánh
+-công ty chi nhánh
+-ngành
+-phân bộ
+-phân hãng
+-tổ chức cơ sở
+@Chuyên ngành kỹ thuật
+-cành
+-cành (cây)
+-chia nhánh
+-điểm rẽ nhánh
+-ngành (chuyên môn)
+-nhánh
+-nhánh (sông)
+-nhánh sông
+-mạch nhánh
+-mạch quặng
+-ống nhánh
+-ống nối
+-ống nối phân nhánh
+-phân nhánh
+-rẽ nhánh
+-sự phân nhánh
+-sự rẽ nhánh
+@Lĩnh vực: toán & tin
+-cảnh
+-chi nhánh
+-rẽ nhánh (chương trình)
+@Lĩnh vực: xây dựng
+-cánh nếp uốn
+-mối nối nối ống
+-ống phụ
+@Lĩnh vực: điện
+-chi nhánh (điện)
+-ổ nối
+-ống nối rẽ
+@Lĩnh vực: giao thông & vận tải
+-ngả đường
+@Lĩnh vực: hóa học & vật liệu
+-vỉa mạch

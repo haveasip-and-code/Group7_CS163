@@ -1,3 +1,14 @@
-meridian
-	@meridian /mə'ridiən/\n*  tính từ\n- (thuộc) buổi trưa\n- cao nhất, tuyệt đỉnh\n*  danh từ\n- (địa lý,ddịa chất) đường kinh, kinh tuyến\n- (thiên văn học) thiên đỉnh\n- đỉnh cao, tuyệt đỉnh\n@Chuyên ngành kinh tế\n-kinh tuyến\n-kinh tuyến góc\n@Chuyên ngành kỹ thuật\n-chính ngọ\n-kinh tuyến
-
+meridian	@meridian /mə'ridiən/
+*  tính từ
+- (thuộc) buổi trưa
+- cao nhất, tuyệt đỉnh
+*  danh từ
+- (địa lý,ddịa chất) đường kinh, kinh tuyến
+- (thiên văn học) thiên đỉnh
+- đỉnh cao, tuyệt đỉnh
+@Chuyên ngành kinh tế
+-kinh tuyến
+-kinh tuyến góc
+@Chuyên ngành kỹ thuật
+-chính ngọ
+-kinh tuyến

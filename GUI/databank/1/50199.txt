@@ -1,3 +1,62 @@
-shape
-	@shape /ʃeip/\n*  danh từ\n- hình, hình dạng, hình thù\n=spherical in shape+ có dáng hình cầu\n=a monster in human shape+ con quỷ hình người\n- sự thể hiện cụ thể\n=intention took shape in action+ ý định thể hiện bằng hành động\n- loại, kiểu, hình thức\n=a reward in the shape of a sum of money+ sự thưởng công dưới hình thức một món tiền\n- sự sắp xếp, sự sắp đặt\n=to get one's ideas into shape+ sắp xếp ý kiến của mình cho gọn ghẽ\n- bóng, bóng ma\n=a shape loomend through the mist+ có một bóng người hiện ra mờ mờ trong sương mù\n- khuôn, mẫu\n- thạch bỏ khuôn, thịt đông bỏ khuôn\n- các (đê) đôn\n!to be in good shape\n- dư sức, sung sức\n!go get out of shape\n!to lose shape\n- trở thành méo mó; không còn ra hình thù gì\n!to lick into shape\n- nặn thành hình\n- (nghĩa bóng) làm cho trông được; làm cho có hiệu lực; huấn luyện cho dùng được\n*  động từ\n- nặn, đẽo, gọt, tạo thành hình\n=to shape clay into a pot+ nặn đất thành một cái lọ\n- uốn nắn\n=to shape somebody's character+ uốn nắn tính nết ai\n- đặt ra, thảo ra (kế hoạch)\n- định đường, định hướng\n=to shape one's course+ định hướng đi của mình,  (nghĩa bóng) làm chủ vận mệnh mình\n- hình thành, thành hình\n=an idea shapes in his mind+ một ý kiến hình thành trong óc anh ta\n- có triển vọng\n=to shape well+ có triển vọng phát triển tốt, có chiều phát triển tốt\n@Chuyên ngành kinh tế\n-hình dạng\n-hình thù\n-hình thức\n-kiểu loại\n@Chuyên ngành kỹ thuật\n-dạng\n-đường viền\n-hình\n-hình dạng\n-khuôn\n-khuôn mẫu\n-kiểu\n-loại\n-nặn\n-mặt cắt\n-mẫu\n-mô hình\n@Lĩnh vực: cơ khí & công trình\n-cắt răng (máy bào răng)\n-tạo hình\n@Lĩnh vực: xây dựng\n-hình bên ngoài\n-tạo ra hình dạng\n@Lĩnh vực: toán & tin\n-hình, dạng
-
+shape	@shape /ʃeip/
+*  danh từ
+- hình, hình dạng, hình thù
+=spherical in shape+ có dáng hình cầu
+=a monster in human shape+ con quỷ hình người
+- sự thể hiện cụ thể
+=intention took shape in action+ ý định thể hiện bằng hành động
+- loại, kiểu, hình thức
+=a reward in the shape of a sum of money+ sự thưởng công dưới hình thức một món tiền
+- sự sắp xếp, sự sắp đặt
+=to get one's ideas into shape+ sắp xếp ý kiến của mình cho gọn ghẽ
+- bóng, bóng ma
+=a shape loomend through the mist+ có một bóng người hiện ra mờ mờ trong sương mù
+- khuôn, mẫu
+- thạch bỏ khuôn, thịt đông bỏ khuôn
+- các (đê) đôn
+!to be in good shape
+- dư sức, sung sức
+!go get out of shape
+!to lose shape
+- trở thành méo mó; không còn ra hình thù gì
+!to lick into shape
+- nặn thành hình
+- (nghĩa bóng) làm cho trông được; làm cho có hiệu lực; huấn luyện cho dùng được
+*  động từ
+- nặn, đẽo, gọt, tạo thành hình
+=to shape clay into a pot+ nặn đất thành một cái lọ
+- uốn nắn
+=to shape somebody's character+ uốn nắn tính nết ai
+- đặt ra, thảo ra (kế hoạch)
+- định đường, định hướng
+=to shape one's course+ định hướng đi của mình,  (nghĩa bóng) làm chủ vận mệnh mình
+- hình thành, thành hình
+=an idea shapes in his mind+ một ý kiến hình thành trong óc anh ta
+- có triển vọng
+=to shape well+ có triển vọng phát triển tốt, có chiều phát triển tốt
+@Chuyên ngành kinh tế
+-hình dạng
+-hình thù
+-hình thức
+-kiểu loại
+@Chuyên ngành kỹ thuật
+-dạng
+-đường viền
+-hình
+-hình dạng
+-khuôn
+-khuôn mẫu
+-kiểu
+-loại
+-nặn
+-mặt cắt
+-mẫu
+-mô hình
+@Lĩnh vực: cơ khí & công trình
+-cắt răng (máy bào răng)
+-tạo hình
+@Lĩnh vực: xây dựng
+-hình bên ngoài
+-tạo ra hình dạng
+@Lĩnh vực: toán & tin
+-hình, dạng

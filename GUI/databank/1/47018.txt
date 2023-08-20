@@ -1,3 +1,2 @@
-resalable
-	@Chuyên ngành kinh tế\n-có thể bán lại
-
+resalable	@Chuyên ngành kinh tế
+-có thể bán lại

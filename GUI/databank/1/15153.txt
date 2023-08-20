@@ -1,3 +1,9 @@
-dialyzer
-	@dialyzer /'daiəlaizə/ (dialyzer) /'daiəlaizə/\n*  danh từ\n- máy thẩm tách\n@Chuyên ngành kinh tế\n-thiết bị thẩm tách\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-máy thẩm tách
-
+dialyzer	
+@dialyzer /'daiəlaizə/ (dialyzer) /'daiəlaizə/
+*  danh từ
+- máy thẩm tách
+@Chuyên ngành kinh tế
+-thiết bị thẩm tách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-máy thẩm tách

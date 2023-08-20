@@ -1,3 +1,14 @@
-paving
-	@paving\n* danh từ\n- mặt bằng được lát\n- vật liệu để lát\n@Chuyên ngành kỹ thuật\n-đá lát đường\n-gạch lát đường\n-lát đường\n-lớp lát mặt đường\n-lớp mặt đường\n-lớp phủ\n-mặt đường\n-sự lát mặt\n-sự lát mặt đường
-
+paving	@paving
+* danh từ
+- mặt bằng được lát
+- vật liệu để lát
+@Chuyên ngành kỹ thuật
+-đá lát đường
+-gạch lát đường
+-lát đường
+-lớp lát mặt đường
+-lớp mặt đường
+-lớp phủ
+-mặt đường
+-sự lát mặt
+-sự lát mặt đường

@@ -1,3 +1,5 @@
-max
-	@max\n- (viết tắt) tối đa\n@Chuyên ngành kỹ thuật\n-cực đại\n-tối đa
-
+max	@max
+- (viết tắt) tối đa
+@Chuyên ngành kỹ thuật
+-cực đại
+-tối đa

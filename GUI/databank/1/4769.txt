@@ -1,3 +1,4 @@
-baroreceptor
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bộ phận nhận cảm áp
-
+baroreceptor	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bộ phận nhận cảm áp

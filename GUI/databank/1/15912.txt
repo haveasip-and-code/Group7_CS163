@@ -1,3 +1,31 @@
-disk
-	@disk /disk/ (disc) /disk/\n*  danh từ\n- (thể dục,thể thao) đĩa\n- đĩa hát\n- đĩa, vật hình đĩa, bộ phận hình đĩa\n@Chuyên ngành kinh tế\n-đĩa\n-đĩa máy tính\n-vật hình đĩa\n@Chuyên ngành kỹ thuật\n-bản\n-đĩa\n-đĩa cố định\n-đĩa cứng\n-đĩa mài\n-đĩa từ\n-đĩa Winchester\n-mâm\n-môi trường ghi\n-phương tiện nhớ\n-tấm cứng\n-vành độ\n-vật hình đĩa\n-vòng đệm dẹt\n@Lĩnh vực: toán & tin\n-đĩa (máy tính)\n@Lĩnh vực: xây dựng\n-miếng cứng\n@Lĩnh vực: điện\n-tấm tròn
-
+disk	
+@disk /disk/ (disc) /disk/
+*  danh từ
+- (thể dục,thể thao) đĩa
+- đĩa hát
+- đĩa, vật hình đĩa, bộ phận hình đĩa
+@Chuyên ngành kinh tế
+-đĩa
+-đĩa máy tính
+-vật hình đĩa
+@Chuyên ngành kỹ thuật
+-bản
+-đĩa
+-đĩa cố định
+-đĩa cứng
+-đĩa mài
+-đĩa từ
+-đĩa Winchester
+-mâm
+-môi trường ghi
+-phương tiện nhớ
+-tấm cứng
+-vành độ
+-vật hình đĩa
+-vòng đệm dẹt
+@Lĩnh vực: toán & tin
+-đĩa (máy tính)
+@Lĩnh vực: xây dựng
+-miếng cứng
+@Lĩnh vực: điện
+-tấm tròn

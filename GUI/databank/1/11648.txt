@@ -1,3 +1,72 @@
-control
-	@control /kən'troul/\n*  danh từ\n- quyền hành, quyền lực, quyền chỉ huy\n=to have control over the whole district+ có quyền hành khắp vùng\n- sự điều khiển, sự lái, sự cầm lái\n=to lose control over one's car+ không còn điều khiển nổi cái xe nữa\n- sự kiềm chế, sự nén lại\n=to keep someone under control+ kiềm chế ai, không thả lỏng ai\n=to keep one's temper under control+ nén giận, bình tĩnh\n- sự kiểm tra, sự kiểm soát, sự thử lại; tiêu chuẩn so sánh (bằng thí nghiệm để xác định đúng sai)\n=control experiment+ thí nghiệm kiểm tra\n- trạm kiểm tra (máy móc,  ôtô, máy bay trên đường đi)\n- đoạn đường đặc biệt (ô tô phải tuân theo sự hướng dẫn như giảm tốc độ...)\n- (số nhiều) bộ điều chỉnh (hướng tốc độ của máy bay...)\n- hồn (do bà đồng gọi lên)\n!beyond (out of) control\n- không điều khiển được, không chỉ huy được, không làm chủ được\n=the situation is out of control+ tình hình không ai làm chủ, tình hình hỗn loạn\n!to be under the control of somebody\n- bị ai điều khiển chỉ huy, bị ai xỏ mũi\n!to get (have, keep) under control\n- kiềm chế được, kìm lại được, làm chủ được\n!to go out of control\n- không điều khiển được nữa, không theo sự điều khiển (máy bay)\n!to have complete control of something\n- nắm chắc được cái gì, làm chủ được cái gì\n!to take control\n- nắm quyền điều khiển, nắm quyền chỉ huy\n!thought control\n- sự hạn chế tự do tư tưởng\n*  ngoại động từ\n- điều khiển, chỉ huy, làm chủ\n=to control the traffic+ điều khiển sự giao thông\n- kiềm chế, cầm lại, kìm lại, nén lại, dằn lại\n=to control oneself+ tự kiềm chế, tự chủ\n=to control one's anger+ nén giận\n- kiểm tra, kiểm soát, thử lại\n- điều chỉnh, qui định (giá hàng...)\n@Chuyên ngành kinh tế\n-khống chế\n-kiểm soát\n-kiểm tra\n-quản chế\n-quản lý\n-sự đề phòng\n-sự điều chỉnh\n-sự kiểm tra\n-sự thử lại\n@Chuyên ngành kỹ thuật\n-bộ điều khiển\n-bộ phận lái\n-cơ cấu điều khiển\n-cơ quan quản lý\n-điều chỉnh\n-điều khiển\n-kiểm soát\n-kiểm tra\n-ngưỡng tương phản\n-sự điều chỉnh\n-sự điều khiển\n-sự điều tiết\n-sự hiệu chuẩn\n-sự kiểm soát\n-sự kiểm tra\n-sự lái\n-sự quản lý\n-sự thanh tra\n-tay lái\n@Lĩnh vực: xây dựng\n-điểm gốc trắc địa\n-khống chế\n-sự chi phối\n-sự quản lí\n@Lĩnh vực: toán & tin\n-quyền điều khiển\n-quyền kiểm soát\n@Lĩnh vực: ô tô\n-sự điều khiển (xe)
-
+control	
+@control /kən'troul/
+*  danh từ
+- quyền hành, quyền lực, quyền chỉ huy=to have control over the whole district
++ có quyền hành khắp vùng
+- sự điều khiển, sự lái, sự cầm lái=to lose control over one's car
++ không còn điều khiển nổi cái xe nữa
+- sự kiềm chế, sự nén lại=to keep someone under control
++ kiềm chế ai, không thả lỏng ai=to keep one's temper under control
++ nén giận, bình tĩnh
+- sự kiểm tra, sự kiểm soát, sự thử lại; tiêu chuẩn so sánh (bằng thí nghiệm để xác định đúng sai)=control experiment
++ thí nghiệm kiểm tra
+- trạm kiểm tra (máy móc,  ôtô, máy bay trên đường đi)
+- đoạn đường đặc biệt (ô tô phải tuân theo sự hướng dẫn như giảm tốc độ...)
+- (số nhiều) bộ điều chỉnh (hướng tốc độ của máy bay...)
+- hồn (do bà đồng gọi lên)!beyond (out of) control
+- không điều khiển được, không chỉ huy được, không làm chủ được=the situation is out of control
++ tình hình không ai làm chủ, tình hình hỗn loạn!to be under the control of somebody
+- bị ai điều khiển chỉ huy, bị ai xỏ mũi!to get (have, keep) under control
+- kiềm chế được, kìm lại được, làm chủ được!to go out of control
+- không điều khiển được nữa, không theo sự điều khiển (máy bay)!to have complete control of something
+- nắm chắc được cái gì, làm chủ được cái gì!to take control
+- nắm quyền điều khiển, nắm quyền chỉ huy!thought control
+- sự hạn chế tự do tư tưởng
+*  ngoại động từ
+- điều khiển, chỉ huy, làm chủ=to control the traffic
++ điều khiển sự giao thông
+- kiềm chế, cầm lại, kìm lại, nén lại, dằn lại=to control oneself
++ tự kiềm chế, tự chủ=to control one's anger
++ nén giận
+- kiểm tra, kiểm soát, thử lại
+- điều chỉnh, qui định (giá hàng...)
+@Chuyên ngành kinh tế
+-khống chế
+-kiểm soát
+-kiểm tra
+-quản chế
+-quản lý
+-sự đề phòng
+-sự điều chỉnh
+-sự kiểm tra
+-sự thử lại
+@Chuyên ngành kỹ thuật
+-bộ điều khiển
+-bộ phận lái
+-cơ cấu điều khiển
+-cơ quan quản lý
+-điều chỉnh
+-điều khiển
+-kiểm soát
+-kiểm tra
+-ngưỡng tương phản
+-sự điều chỉnh
+-sự điều khiển
+-sự điều tiết
+-sự hiệu chuẩn
+-sự kiểm soát
+-sự kiểm tra
+-sự lái
+-sự quản lý
+-sự thanh tra
+-tay lái
+@Lĩnh vực: xây dựng
+-điểm gốc trắc địa
+-khống chế
+-sự chi phối
+-sự quản lí
+@Lĩnh vực: toán & tin
+-quyền điều khiển
+-quyền kiểm soát
+@Lĩnh vực: ô tô
+-sự điều khiển (xe)

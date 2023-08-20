@@ -1,3 +1,29 @@
-craze
-	@craze /kreiz/\n*  danh từ\n- tính ham mê, sự say mê\n=to have a craze for stamps+ say mê chơi tem\n- (thông tục) mốt\n=to be the craze+ trở thành cái mốt\n- sự loạn trí, sự mất trí, tính hơi điên\n- vết ran, vân rạn (đồ sành, đồ sứ)\n*  ngoại động từ\n- làm mất trí, làm điên cuồng\n- làm rạn, làm cho có vân rạn (đồ sành, đồ sứ)\n*  nội động từ\n- loạn óc, mất trí, hoá điên\n- nổi vân rạn (đồ sành, đồ sứ)\n@Chuyên ngành kinh tế\n-vạch ngấn của thùng đong\n@Chuyên ngành kỹ thuật\n-nứt\n-rạn\n-vết nứt\n-vết rạn\n-vết rạn li ti\n@Lĩnh vực: cơ khí & công trình\n-khe rạn\n@Lĩnh vực: xây dựng\n-vết nứt li ti\n@Lĩnh vực: dệt may\n-vết nứt nhỏ
-
+craze	
+@craze /kreiz/
+*  danh từ
+- tính ham mê, sự say mê=to have a craze for stamps
++ say mê chơi tem
+- (thông tục) mốt=to be the craze
++ trở thành cái mốt
+- sự loạn trí, sự mất trí, tính hơi điên
+- vết ran, vân rạn (đồ sành, đồ sứ)
+*  ngoại động từ
+- làm mất trí, làm điên cuồng
+- làm rạn, làm cho có vân rạn (đồ sành, đồ sứ)
+*  nội động từ
+- loạn óc, mất trí, hoá điên
+- nổi vân rạn (đồ sành, đồ sứ)
+@Chuyên ngành kinh tế
+-vạch ngấn của thùng đong
+@Chuyên ngành kỹ thuật
+-nứt
+-rạn
+-vết nứt
+-vết rạn
+-vết rạn li ti
+@Lĩnh vực: cơ khí & công trình
+-khe rạn
+@Lĩnh vực: xây dựng
+-vết nứt li ti
+@Lĩnh vực: dệt may
+-vết nứt nhỏ

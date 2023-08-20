@@ -1,3 +1,37 @@
-disposal
-	@disposal /dis'pouzəl/\n*  danh từ\n- sự sắp đặt, sự sắp xếp, sự bố trí, cách sắp xếp, cách bố trí\n- sự vứt bỏ đi, sự bán tống đi\n- sự bán, sự chuyển nhượng, sự nhượng lại\n=for disposal+ để bán\n=disposal of property+ sự chuyển nhượng tài sản\n- sự tuỳ ý sử dụng\n=at one's disposal+ tuỳ ý sử dụng\n=to place something at someone's disposal+ để cái gì cho ai tuỳ ý sử dụng\n=to have entire disposal of something+ có toàn quyền sử dụng cái gì\n=I am at your disposal+ ngài có thể tuỳ ý sử dụng tôi được, tôi sẵn sàng phục vụ ngài\n@Chuyên ngành kinh tế\n-bán\n-bán tống đi\n-bố trí\n-chuyển nhượng\n-loại bỏ thanh lý\n-nhượng lại\n-sự bán đi\n-sự sắp đặt\n-sự vứt bỏ đi\n-thanh lý\n-tùy ý sử dụng\n@Chuyên ngành kỹ thuật\n-sự bố trí\n-sự khử\n-sự loại\n-sự loại bỏ\n-sự tiêu hủy\n-sự xắp xếp\n-sự xếp đặt\n@Lĩnh vực: cơ khí & công trình\n-sự thải\n@Lĩnh vực: toán & tin\n-sự xắp đặt
-
+disposal	
+@disposal /dis'pouzəl/
+*  danh từ
+- sự sắp đặt, sự sắp xếp, sự bố trí, cách sắp xếp, cách bố trí
+- sự vứt bỏ đi, sự bán tống đi
+- sự bán, sự chuyển nhượng, sự nhượng lại=for disposal
++ để bán=disposal of property
++ sự chuyển nhượng tài sản
+- sự tuỳ ý sử dụng=at one's disposal
++ tuỳ ý sử dụng=to place something at someone's disposal
++ để cái gì cho ai tuỳ ý sử dụng=to have entire disposal of something
++ có toàn quyền sử dụng cái gì=I am at your disposal
++ ngài có thể tuỳ ý sử dụng tôi được, tôi sẵn sàng phục vụ ngài
+@Chuyên ngành kinh tế
+-bán
+-bán tống đi
+-bố trí
+-chuyển nhượng
+-loại bỏ thanh lý
+-nhượng lại
+-sự bán đi
+-sự sắp đặt
+-sự vứt bỏ đi
+-thanh lý
+-tùy ý sử dụng
+@Chuyên ngành kỹ thuật
+-sự bố trí
+-sự khử
+-sự loại
+-sự loại bỏ
+-sự tiêu hủy
+-sự xắp xếp
+-sự xếp đặt
+@Lĩnh vực: cơ khí & công trình
+-sự thải
+@Lĩnh vực: toán & tin
+-sự xắp đặt

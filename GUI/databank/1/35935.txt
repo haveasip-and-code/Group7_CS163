@@ -1,3 +1,2 @@
-mullock
-	@Chuyên ngành kỹ thuật\n-bãi đá thải
-
+mullock	@Chuyên ngành kỹ thuật
+-bãi đá thải

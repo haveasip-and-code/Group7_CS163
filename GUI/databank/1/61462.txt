@@ -1,3 +1,2 @@
-ventilated
-	@Chuyên ngành kỹ thuật\n-được thông gió
-
+ventilated	@Chuyên ngành kỹ thuật
+-được thông gió

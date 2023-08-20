@@ -1,3 +1,17 @@
-chapel
-	@chapel /'tʃæpəl/\n*  danh từ\n- nhà thờ nhỏ (ở nhà tù, ở trại lính...); buổi lễ ở nhà thờ nhỏ\n- Anh nhà thờ không theo quốc giáo\n- (ngành in) nhà in; tập thể thợ in; cuộc họp của thợ in\n=to call a chapel+ triệu tập một cuộc họp của thợ in\n!to keep a chapel\n- có mặt (ở trường đại hoạc)\n@Chuyên ngành kinh tế\n-nghiệp đoàn công nhân in (ở một tòa báo)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gác chuông đồng hồ\n-giáo đường nhỏ\n-nhà nguyện\n-nhà thờ nhỏ\n-trại lính)
-
+chapel	
+@chapel /'tʃæpəl/
+*  danh từ
+- nhà thờ nhỏ (ở nhà tù, ở trại lính...); buổi lễ ở nhà thờ nhỏ
+- Anh nhà thờ không theo quốc giáo
+- (ngành in) nhà in; tập thể thợ in; cuộc họp của thợ in=to call a chapel
++ triệu tập một cuộc họp của thợ in!to keep a chapel
+- có mặt (ở trường đại hoạc)
+@Chuyên ngành kinh tế
+-nghiệp đoàn công nhân in (ở một tòa báo)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-gác chuông đồng hồ
+-giáo đường nhỏ
+-nhà nguyện
+-nhà thờ nhỏ
+-trại lính)

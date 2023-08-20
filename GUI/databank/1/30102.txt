@@ -1,3 +1,4 @@
-isoenzyme
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enzyme có dạng vật lý loại phản ứng nhưng có khác biệt nhẹ về miễn dịch
-
+isoenzyme	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-enzyme có dạng vật lý loại phản ứng nhưng có khác biệt nhẹ về miễn dịch

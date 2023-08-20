@@ -1,3 +1,2 @@
-appointments
-	@Chuyên ngành kỹ thuật\n-cuộc hẹn
-
+appointments	@Chuyên ngành kỹ thuật
+-cuộc hẹn

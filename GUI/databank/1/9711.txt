@@ -1,3 +1,38 @@
-clearing
-	@clearing /'kliəriɳ/\n*  danh từ\n- sự làm sáng sủa, sự làm quang đãng, sự lọc trong\n=to await the clearing of the weather+ đợi lúc trời quang đãng, đợi lúc trời quang mây tạnh\n- sự dọn dẹp, sự dọn sạch; sự phát quang, sự phá hoang; sự vét sạch, sự lấy đi, sự mang đi\n- sự vượt qua; sự tránh né\n- (hàng hải) sự rời bến (tàu); sự thanh toán các khoản thuế (để cho tàu rời bến...)\n- sự làm tiêu tan (mối nghi ngờ...)\n- sự thanh toán, sự trả hết (nợ...)\n- khoảng rừng thưa, khoảng rừng trống\n- khu đất phá hoang (để trồng trọt)\n- (tài chính) sự chuyển (séc)\n@Chuyên ngành kinh tế\n-sự làm trong\n-sựlàm sạch\n-thanh toán bù trừ\n@Chuyên ngành kỹ thuật\n-bù trừ\n-dọn dẹp\n-làm trong\n-sự làm sạch\n-sự lọc\n-sự phát quang\n-sự xóa\n-sự xóa bỏ\n@Lĩnh vực: giao thông & vận tải\n-sự dọn quang\n@Lĩnh vực: xây dựng\n-sự khai phá\n-sự khai quang\n-sự làm trong sạch\n@Lĩnh vực: điện lạnh\n-sự làm rõ (ảnh)\n@Lĩnh vực: y học\n-sự thanh lọc (làm sạch)\n@Lĩnh vực: cơ khí & công trình\n-sự thông (ống)
-
+clearing	
+@clearing /'kliəriɳ/
+*  danh từ
+- sự làm sáng sủa, sự làm quang đãng, sự lọc trong=to await the clearing of the weather
++ đợi lúc trời quang đãng, đợi lúc trời quang mây tạnh
+- sự dọn dẹp, sự dọn sạch; sự phát quang, sự phá hoang; sự vét sạch, sự lấy đi, sự mang đi
+- sự vượt qua; sự tránh né
+- (hàng hải) sự rời bến (tàu); sự thanh toán các khoản thuế (để cho tàu rời bến...)
+- sự làm tiêu tan (mối nghi ngờ...)
+- sự thanh toán, sự trả hết (nợ...)
+- khoảng rừng thưa, khoảng rừng trống
+- khu đất phá hoang (để trồng trọt)
+- (tài chính) sự chuyển (séc)
+@Chuyên ngành kinh tế
+-sự làm trong
+-sựlàm sạch
+-thanh toán bù trừ
+@Chuyên ngành kỹ thuật
+-bù trừ
+-dọn dẹp
+-làm trong
+-sự làm sạch
+-sự lọc
+-sự phát quang
+-sự xóa
+-sự xóa bỏ
+@Lĩnh vực: giao thông & vận tải
+-sự dọn quang
+@Lĩnh vực: xây dựng
+-sự khai phá
+-sự khai quang
+-sự làm trong sạch
+@Lĩnh vực: điện lạnh
+-sự làm rõ (ảnh)
+@Lĩnh vực: y học
+-sự thanh lọc (làm sạch)
+@Lĩnh vực: cơ khí & công trình
+-sự thông (ống)

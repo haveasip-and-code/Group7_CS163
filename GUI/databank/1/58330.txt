@@ -1,3 +1,31 @@
-twine
-	@twine /twain/\n*  danh từ\n- sợi xe, dây bện\n- sự bện, sự quấn lại với nhau; (nghĩa bóng) sự ôm ghi; cái ôm chặt\n- (số nhiều) khúc uốn quanh, khúc cuộn\n=the twines of a river+ khúc uốn quanh của một con sông\n=the twines a of snake+ khúc cuộn của con rắn\n*  ngoại động từ\n- xoắn, bện, kết lại\n=to twine a thread+ xoắn (bện) một sợi chỉ\n=to twine flowers into a wreath+ kết hoa thành vòng\n- (+ about,  around) ôm, quấn quanh\n=he twined his arms about his mother's neck+ nó ôm chặt lấy cổ mẹ\n*  nội động từ\n- xoắn lại với nhau, bện lại với nhau, kết lại với nhau\n- quấn quanh; cuộn lại\n- uốn khúc, lượn khúc, quanh co\n@Chuyên ngành kỹ thuật\n-dây bện\n-quên\n-sợi xe\n-sự bện\n-sự xe\n-thước\n@Lĩnh vực: hóa học & vật liệu\n-bện xe\n-sợi dây nhỏ\n@Lĩnh vực: dệt may\n-dây cáp nhỏ\n-đường sọc nổi\n-nhung kẻ
-
+twine	@twine /twain/
+*  danh từ
+- sợi xe, dây bện
+- sự bện, sự quấn lại với nhau; (nghĩa bóng) sự ôm ghi; cái ôm chặt
+- (số nhiều) khúc uốn quanh, khúc cuộn
+=the twines of a river+ khúc uốn quanh của một con sông
+=the twines a of snake+ khúc cuộn của con rắn
+*  ngoại động từ
+- xoắn, bện, kết lại
+=to twine a thread+ xoắn (bện) một sợi chỉ
+=to twine flowers into a wreath+ kết hoa thành vòng
+- (+ about,  around) ôm, quấn quanh
+=he twined his arms about his mother's neck+ nó ôm chặt lấy cổ mẹ
+*  nội động từ
+- xoắn lại với nhau, bện lại với nhau, kết lại với nhau
+- quấn quanh; cuộn lại
+- uốn khúc, lượn khúc, quanh co
+@Chuyên ngành kỹ thuật
+-dây bện
+-quên
+-sợi xe
+-sự bện
+-sự xe
+-thước
+@Lĩnh vực: hóa học & vật liệu
+-bện xe
+-sợi dây nhỏ
+@Lĩnh vực: dệt may
+-dây cáp nhỏ
+-đường sọc nổi
+-nhung kẻ

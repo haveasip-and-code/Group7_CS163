@@ -1,3 +1,21 @@
-thermostat
-	@thermostat /'θə:moustæt/\n*  danh từ\n- máy điều nhiệt\n@Chuyên ngành kinh tế\n-máy điều nhiệt\n@Chuyên ngành kỹ thuật\n-bộ điều chỉnh nhiệt\n-bộ điều nhiệt\n-điều khiển nhiệt\n-máy điều nhiệt\n-rơle nhiệt\n-rơle nhiệt độ\n@Lĩnh vực: điện\n-bình ổn nhiệt\n@Lĩnh vực: xây dựng\n-bộ ổn định nhiệt\n@Lĩnh vực: ô tô\n-bộ ổn nhiệt\n-van hằng nhiệt\n@Lĩnh vực: y học\n-dụng cụ ổn nhiệt
-
+thermostat	@thermostat /'θə:moustæt/
+*  danh từ
+- máy điều nhiệt
+@Chuyên ngành kinh tế
+-máy điều nhiệt
+@Chuyên ngành kỹ thuật
+-bộ điều chỉnh nhiệt
+-bộ điều nhiệt
+-điều khiển nhiệt
+-máy điều nhiệt
+-rơle nhiệt
+-rơle nhiệt độ
+@Lĩnh vực: điện
+-bình ổn nhiệt
+@Lĩnh vực: xây dựng
+-bộ ổn định nhiệt
+@Lĩnh vực: ô tô
+-bộ ổn nhiệt
+-van hằng nhiệt
+@Lĩnh vực: y học
+-dụng cụ ổn nhiệt

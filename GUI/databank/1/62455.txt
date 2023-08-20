@@ -1,3 +1,12 @@
-washout
-	@Chuyên ngành kỹ thuật\n-chỗ bị nở\n-chỗ bị xói\n-chỗ bị xói lở\n-lỗ cọ rửa\n-lỗ xả nước\n-rửa trôi\n-sự rửa sạch\n-sự rửa xói\n-sự sụp đổ\n@Lĩnh vực: hóa học & vật liệu\n-hốc nước bị xói
-
+washout	@Chuyên ngành kỹ thuật
+-chỗ bị nở
+-chỗ bị xói
+-chỗ bị xói lở
+-lỗ cọ rửa
+-lỗ xả nước
+-rửa trôi
+-sự rửa sạch
+-sự rửa xói
+-sự sụp đổ
+@Lĩnh vực: hóa học & vật liệu
+-hốc nước bị xói

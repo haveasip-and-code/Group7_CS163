@@ -1,3 +1,3 @@
-neurotoxin
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-độc tố thần kinh
-
+neurotoxin	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-độc tố thần kinh

@@ -1,3 +1,7 @@
-workstation
-	@workstation\n- trạm làm việc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đài làm việc\n@Lĩnh vực: toán & tin\n-trạm làm việc (trong mạng máy tính)
-
+workstation	@workstation
+- trạm làm việc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đài làm việc
+@Lĩnh vực: toán & tin
+-trạm làm việc (trong mạng máy tính)

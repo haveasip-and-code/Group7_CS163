@@ -1,3 +1,9 @@
-supertax
-	@supertax /'sju:pətæks/\n*  danh từ\n- thuế phụ\n- thuế siêu lợi tức\n@Chuyên ngành kinh tế\n-thuế đặc biệt\n-thuế phụ thu\n-thuế siêu ngạch\n-thuế thu nhập lũy tiến (thuế thu thêm theo mức thu nhập)
-
+supertax	@supertax /'sju:pətæks/
+*  danh từ
+- thuế phụ
+- thuế siêu lợi tức
+@Chuyên ngành kinh tế
+-thuế đặc biệt
+-thuế phụ thu
+-thuế siêu ngạch
+-thuế thu nhập lũy tiến (thuế thu thêm theo mức thu nhập)

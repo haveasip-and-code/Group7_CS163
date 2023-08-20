@@ -1,3 +1,5 @@
-bioelectric
-	@bioelectric\n- (Tech) thuộc điện sinh vật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-điện sinh vật
-
+bioelectric	@bioelectric
+- (Tech) thuộc điện sinh vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-điện sinh vật

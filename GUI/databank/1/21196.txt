@@ -1,3 +1,113 @@
-fit
-	@fit /fit/\n*  danh từ\n- (từ cổ,nghĩa cổ) đoạn thơ ((cũng) fytte)\n- cơn (đau)\n=a fit of coughing+ cơn ho\n=a fit of laughter+ sự cười rộ lên\n- sự ngất đi, sự thỉu đi\n=to fall down in a fit+ ngất đi\n- đợt\n=a fit of energy+ một đợt gắng sức\n- hứng\n=when the fit is on one+ tuỳ hứng\n!to beat somebody into fits\n!to give somebody fits\n- đánh thắng ai một cách dễ dàng\n!by fits and starts\n- không đều, thất thường, từng đợt một\n!to give someone a fit\n- làm ai ngạc nhiên\n- xúc phạm đến ai\n!to throw a fit\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nổi cơn tam bành, điên tiết lên\n*  danh từ\n- sự làm cho vừa, sự điều chỉnh cho vừa\n- kiểu cắt (quần áo) cho vừa\n- cái vừa vặn\n=to be a tight fit+ vừa như in\n=to be a bad fit+ không vừa\n*  tính từ\n- dùng được; thích hợp, vừa hơn; xứng đáng\n=not fit for the job+ không đủ khả năng làm việc đó\n=a fit time and place for a gathering+ thời gian và địa điểm thích hợp cho cuộc họp\n- đúng, phải\n=it is not fit that one treats one's friends badly+ xử tệ với bạn là không đúng\n- sãn sàng; đến lúc phải\n=to go on speaking till is fit to stop+ tiếp tục nói cho đến lúc cần phải nghỉ\n- mạnh khoẻ, sung sức\n=to feel fit+ thấy khoẻ\n=to look fit+ trông khoẻ\n=to be as fit as a fiddle+ khoẻ như vâm; rất sung sức\n- bực đến nỗi; hoang mang đến nỗi (có thể làm điều gì không suy nghĩ); mệt đến nỗi (có thể ngã lăn ra)\n- (thông tục) (dùng như phó từ) đến nỗi\n=to laugh fit to split one's side+ cười đến vỡ bụng\n!not fit to hold a candle to\n- candle\n*  ngoại động từ\n- hợp, vừa\n=this coat does not fit me+ tôi mắc cái áo này không vừa\n- làm cho hợp, làm cho vừa\n=to fit oneself for one's tasks+ chuẩn bị sãn sàng làm nhiệm vụ; làm cho mình đáp ứng với nhiệm vụ\n- lắp\n=to fit a spoke+ in lắp một nan hoa\n*  nội động từ\n- vừa hợp\n=your clothes fit well+ quần áo của anh mặc rất vừa\n- thích hợp, phù hợp, ăn khớp\n=his plan doesn't fit in with yours+ kế hoạch của nó không ăn khớp với kế hoạch của anh\n!to fit in\n- ăn khớp; khớp với\n- làm cho khớp với\n!to fit on\n- mặc thử (quần áo)\n=to fit a coat on+ mặc thử cái áo choàng\n!to fit out\n!to fit up\n- trang bị\n- sửa sang cho có tiện nghi (nhà ở)\n!to fit like a glove\n- (xem) glove\n@Chuyên ngành kinh tế\n-làm nhãn\n-phù hợp\n-xắt\n@Chuyên ngành kỹ thuật\n-ăn khớp\n-gắn vào\n-hợp\n-khớp\n-khớp nhau\n-làm khớp\n-làm thích hợp\n-lắp\n-lắp ghép\n-phù hợp\n-ráp\n-sự ăn khớp\n-sự làm cho vừa/ sự điều chỉnh cho vừa\n-sự lắp\n-sự lắp ghép\n-sửa lắp\n-thích hợp\n@Lĩnh vực: cơ khí & công trình\n-rà lắp\n-tán đinh\n-vừa\n-vừa khít\n@Lĩnh vực: xây dựng\n-sự sửa lắp\n@Chuyên ngành kỹ thuật\n-ăn khớp\n-gắn vào\n-hợp\n-khớp\n-khớp nhau\n-làm khớp\n-làm thích hợp\n-lắp\n-lắp ghép\n-phù hợp\n-ráp\n-sự ăn khớp\n-sự làm cho vừa/ sự điều chỉnh cho vừa\n-sự lắp\n-sự lắp ghép\n-sửa lắp\n-thích hợp\n@Lĩnh vực: cơ khí & công trình\n-rà lắp\n-tán đinh\n-vừa\n-vừa khít\n@Lĩnh vực: xây dựng\n-sự sửa lắp
-
+fit	
+@fit /fit/
+*  danh từ
+- (từ cổ,nghĩa cổ) đoạn thơ ((cũng) fytte)
+- cơn (đau)=a fit of coughing
++ cơn ho=a fit of laughter
++ sự cười rộ lên
+- sự ngất đi, sự thỉu đi=to fall down in a fit
++ ngất đi
+- đợt=a fit of energy
++ một đợt gắng sức
+- hứng=when the fit is on one
++ tuỳ hứng!to beat somebody into fits!to give somebody fits
+- đánh thắng ai một cách dễ dàng!by fits and starts
+- không đều, thất thường, từng đợt một!to give someone a fit
+- làm ai ngạc nhiên
+- xúc phạm đến ai!to throw a fit
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nổi cơn tam bành, điên tiết lên
+*  danh từ
+- sự làm cho vừa, sự điều chỉnh cho vừa
+- kiểu cắt (quần áo) cho vừa
+- cái vừa vặn=to be a tight fit
++ vừa như in=to be a bad fit
++ không vừa
+*  tính từ
+- dùng được; thích hợp, vừa hơn; xứng đáng=not fit for the job
++ không đủ khả năng làm việc đó=a fit time and place for a gathering
++ thời gian và địa điểm thích hợp cho cuộc họp
+- đúng, phải=it is not fit that one treats one's friends badly
++ xử tệ với bạn là không đúng
+- sãn sàng; đến lúc phải=to go on speaking till is fit to stop
++ tiếp tục nói cho đến lúc cần phải nghỉ
+- mạnh khoẻ, sung sức=to feel fit
++ thấy khoẻ=to look fit
++ trông khoẻ=to be as fit as a fiddle
++ khoẻ như vâm; rất sung sức
+- bực đến nỗi; hoang mang đến nỗi (có thể làm điều gì không suy nghĩ); mệt đến nỗi (có thể ngã lăn ra)
+- (thông tục) (dùng như phó từ) đến nỗi=to laugh fit to split one's side
++ cười đến vỡ bụng!not fit to hold a candle to
+- candle
+*  ngoại động từ
+- hợp, vừa=this coat does not fit me
++ tôi mắc cái áo này không vừa
+- làm cho hợp, làm cho vừa=to fit oneself for one's tasks
++ chuẩn bị sãn sàng làm nhiệm vụ; làm cho mình đáp ứng với nhiệm vụ
+- lắp=to fit a spoke
++ in lắp một nan hoa
+*  nội động từ
+- vừa hợp=your clothes fit well
++ quần áo của anh mặc rất vừa
+- thích hợp, phù hợp, ăn khớp=his plan doesn't fit in with yours
++ kế hoạch của nó không ăn khớp với kế hoạch của anh!to fit in
+- ăn khớp; khớp với
+- làm cho khớp với!to fit on
+- mặc thử (quần áo)=to fit a coat on
++ mặc thử cái áo choàng!to fit out!to fit up
+- trang bị
+- sửa sang cho có tiện nghi (nhà ở)!to fit like a glove
+- (xem) glove
+@Chuyên ngành kinh tế
+-làm nhãn
+-phù hợp
+-xắt
+@Chuyên ngành kỹ thuật
+-ăn khớp
+-gắn vào
+-hợp
+-khớp
+-khớp nhau
+-làm khớp
+-làm thích hợp
+-lắp
+-lắp ghép
+-phù hợp
+-ráp
+-sự ăn khớp
+-sự làm cho vừa/ sự điều chỉnh cho vừa
+-sự lắp
+-sự lắp ghép
+-sửa lắp
+-thích hợp
+@Lĩnh vực: cơ khí & công trình
+-rà lắp
+-tán đinh
+-vừa
+-vừa khít
+@Lĩnh vực: xây dựng
+-sự sửa lắp
+@Chuyên ngành kỹ thuật
+-ăn khớp
+-gắn vào
+-hợp
+-khớp
+-khớp nhau
+-làm khớp
+-làm thích hợp
+-lắp
+-lắp ghép
+-phù hợp
+-ráp
+-sự ăn khớp
+-sự làm cho vừa/ sự điều chỉnh cho vừa
+-sự lắp
+-sự lắp ghép
+-sửa lắp
+-thích hợp
+@Lĩnh vực: cơ khí & công trình
+-rà lắp
+-tán đinh
+-vừa
+-vừa khít
+@Lĩnh vực: xây dựng
+-sự sửa lắp

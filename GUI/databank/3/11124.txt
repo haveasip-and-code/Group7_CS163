@@ -1,3 +1,2 @@
-confusional
-	@confusional\n- xem confusion
-
+confusional	@confusional
+- xem confusion

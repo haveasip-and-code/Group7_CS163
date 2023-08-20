@@ -1,3 +1,2 @@
-virtuosic
-	@virtuosic\n- xem virtuoso
-
+virtuosic	@virtuosic
+- xem virtuoso

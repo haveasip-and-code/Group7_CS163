@@ -1,3 +1,17 @@
-mobile
-	@mobile /'moubail/\n*  tính từ\n- chuyển động, di động; lưu động\n- hay thay đổi, dễ biến đổi, biến đổi nhanh\n=mobile features+ nét mặt dễ biến đổi\n@Chuyên ngành kỹ thuật\n-chuyển động\n-cơ động\n-di chuyển (được)\n-di động\n-động\n-linh động\n-lưu động\n@Lĩnh vực: hóa học & vật liệu\n-biến đổi nhanh\n@Lĩnh vực: điện tử & viễn thông\n-di dộng
-
+mobile	@mobile /'moubail/
+*  tính từ
+- chuyển động, di động; lưu động
+- hay thay đổi, dễ biến đổi, biến đổi nhanh
+=mobile features+ nét mặt dễ biến đổi
+@Chuyên ngành kỹ thuật
+-chuyển động
+-cơ động
+-di chuyển (được)
+-di động
+-động
+-linh động
+-lưu động
+@Lĩnh vực: hóa học & vật liệu
+-biến đổi nhanh
+@Lĩnh vực: điện tử & viễn thông
+-di dộng

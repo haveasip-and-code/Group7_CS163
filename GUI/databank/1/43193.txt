@@ -1,3 +1,6 @@
-prefreeze
-	@Chuyên ngành kinh tế\n-làm lạnh đông sơ bộ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-kết đông sơ bộ\n-kết đông sơ bộ (trước khi sấy thăng hoa)
-
+prefreeze	@Chuyên ngành kinh tế
+-làm lạnh đông sơ bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-kết đông sơ bộ
+-kết đông sơ bộ (trước khi sấy thăng hoa)

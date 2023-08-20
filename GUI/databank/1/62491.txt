@@ -1,3 +1,86 @@
-water
-	@water /'wɔ:tə/\n*  danh từ\n- nước\n=to drink water+ uống nước\n=to take in fresh water+ (hàng hải) lấy nước ngọt (để đi biển)\n=to turn on the water+ mở nước\n=to cut off the water+ khoá nước\n=to wash something in two or three waters+ rửa vật gì hai hay ba nước\n- dung dịch nước, nước\n- khối nước (của sông, hồ...)\n- sông nước; biển; đường thuỷ\n=on land and water+ trên bộ và dưới nước\n=by water+ bằng đường thuỷ, bằng đường biển\n=to cross the water+ vượt biển\n- thuỷ triều, triều\n=at high water+ lúc triều lên\n=at low water+ lúc triều xuống\n- nước suối; nước tiểu\n=to take the waters at+ tắm nước suối ở\n=to make water+ tiểu tiện\n=red water+ nước tiểu có máu\n- nước, nước bóng, nước láng (của kim cương, kim loại, tơ lụa)\n=diamond of the first water+ kim cương nước tốt nhất\n- (hội họa) tranh màu nước\n!to back water\n- chèo ngược\n!to be in deep water(s)\n- (xem) deep\n!to be in low water\n- (xem) low\n!to be in smooth water\n- ở vào hoàn cảnh thuận lợi; thuận buồm xuôi gió\n!to bring water to someone's mouth\n- làm ai thèm chảy dãi\n!to cast (throw) one's bread upon the water(s)\n- làm điều tốt không cần được trả ơn\n!to go through fire and water\n- (xem) fire\n!to hold water\n- (xem) hold\n!to keep one's head above water\n- (xem) above\n!like a fish out of water\n- như cá trên cạn; lạc lõng bỡ ngỡ trong một môi trường mới lạ\n!to spend money like water\n- tiêu tiền như nước\n!still waters run deep\n- (xem) deep\n!to throw cold water on\n- giội gáo nước lạnh vào; làm cho nản chí\n!written in water\n- nhất thời (tiếng tăm); chóng bị quên (thành tích)\n*  ngoại động từ\n- tưới, tưới nước\n=to water a district+ tưới một miền\n- cho uống nước\n=to water the buffaloes+ cho trâu uống nước\n- cung cấp nước\n=to water a town+ cung cấp nước cho một thành phố\n- pha nước vào\n- làm gợn sóng, làm cho có vân sóng (trên tơ lụa)\n=watered silk+ lụa có vân sóng\n- (tài chính) làm loãng (vốn)\n=to the nominal capital of the company+ làm loãng vốn danh nghĩa của công ty (bằng cách tăng cổ phần mà không có vốn tương xứng)\n*  nội động từ\n- uống nước, đi uống nước\n=the horses are watering+ những con ngựa đang uống nước\n- lấy nước ngọt, lấy nước (tàu thuỷ, ô tô)\n- chảy nước, ứa nước\n=his eyes watered+ nó chảy nước mắt\n=to make one's mouth water+ làm thèm chảy nước dãi\n!to water down\n- giảm bớt đi, làm dịu đi\n=to water down the details of a story+ làm cho chi tiết của câu chuyện bớt đậm nét\n=to water down a blame+ trách khéo, trách ngọt\n@Chuyên ngành kinh tế\n-làm loãng vốn\n@Chuyên ngành kỹ thuật\n-làm ẩm\n-làm ướt\n-nhúng nước\n-nước\n@Lĩnh vực: điện\n-tẩm nước\n@Lĩnh vực: xây dựng\n-tưới nước
-
+water	@water /'wɔ:tə/
+*  danh từ
+- nước
+=to drink water+ uống nước
+=to take in fresh water+ (hàng hải) lấy nước ngọt (để đi biển)
+=to turn on the water+ mở nước
+=to cut off the water+ khoá nước
+=to wash something in two or three waters+ rửa vật gì hai hay ba nước
+- dung dịch nước, nước
+- khối nước (của sông, hồ...)
+- sông nước; biển; đường thuỷ
+=on land and water+ trên bộ và dưới nước
+=by water+ bằng đường thuỷ, bằng đường biển
+=to cross the water+ vượt biển
+- thuỷ triều, triều
+=at high water+ lúc triều lên
+=at low water+ lúc triều xuống
+- nước suối; nước tiểu
+=to take the waters at+ tắm nước suối ở
+=to make water+ tiểu tiện
+=red water+ nước tiểu có máu
+- nước, nước bóng, nước láng (của kim cương, kim loại, tơ lụa)
+=diamond of the first water+ kim cương nước tốt nhất
+- (hội họa) tranh màu nước
+!to back water
+- chèo ngược
+!to be in deep water(s)
+- (xem) deep
+!to be in low water
+- (xem) low
+!to be in smooth water
+- ở vào hoàn cảnh thuận lợi; thuận buồm xuôi gió
+!to bring water to someone's mouth
+- làm ai thèm chảy dãi
+!to cast (throw) one's bread upon the water(s)
+- làm điều tốt không cần được trả ơn
+!to go through fire and water
+- (xem) fire
+!to hold water
+- (xem) hold
+!to keep one's head above water
+- (xem) above
+!like a fish out of water
+- như cá trên cạn; lạc lõng bỡ ngỡ trong một môi trường mới lạ
+!to spend money like water
+- tiêu tiền như nước
+!still waters run deep
+- (xem) deep
+!to throw cold water on
+- giội gáo nước lạnh vào; làm cho nản chí
+!written in water
+- nhất thời (tiếng tăm); chóng bị quên (thành tích)
+*  ngoại động từ
+- tưới, tưới nước
+=to water a district+ tưới một miền
+- cho uống nước
+=to water the buffaloes+ cho trâu uống nước
+- cung cấp nước
+=to water a town+ cung cấp nước cho một thành phố
+- pha nước vào
+- làm gợn sóng, làm cho có vân sóng (trên tơ lụa)
+=watered silk+ lụa có vân sóng
+- (tài chính) làm loãng (vốn)
+=to the nominal capital of the company+ làm loãng vốn danh nghĩa của công ty (bằng cách tăng cổ phần mà không có vốn tương xứng)
+*  nội động từ
+- uống nước, đi uống nước
+=the horses are watering+ những con ngựa đang uống nước
+- lấy nước ngọt, lấy nước (tàu thuỷ, ô tô)
+- chảy nước, ứa nước
+=his eyes watered+ nó chảy nước mắt
+=to make one's mouth water+ làm thèm chảy nước dãi
+!to water down
+- giảm bớt đi, làm dịu đi
+=to water down the details of a story+ làm cho chi tiết của câu chuyện bớt đậm nét
+=to water down a blame+ trách khéo, trách ngọt
+@Chuyên ngành kinh tế
+-làm loãng vốn
+@Chuyên ngành kỹ thuật
+-làm ẩm
+-làm ướt
+-nhúng nước
+-nước
+@Lĩnh vực: điện
+-tẩm nước
+@Lĩnh vực: xây dựng
+-tưới nước

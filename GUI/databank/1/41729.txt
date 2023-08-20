@@ -1,3 +1,8 @@
-pistol
-	@pistol /'pistl/\n*  danh từ\n- súng lục, súng ngắn\n*  ngoại động từ\n- bắn bằng súng lục\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-súng ngắn
-
+pistol	@pistol /'pistl/
+*  danh từ
+- súng lục, súng ngắn
+*  ngoại động từ
+- bắn bằng súng lục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-súng ngắn

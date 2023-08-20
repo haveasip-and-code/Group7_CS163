@@ -1,3 +1,13 @@
-folio
-	@folio /'fouliou/\n*  danh từ,  số nhiều folios\n- (ngành in) khổ hai\n- số tờ (sách in)\n- (kế toán) trang sổ\n- Fiôlô (đơn vị bằng 72 hoặc 90 từ ở Anh, 100 từ ở Mỹ...)\n@Chuyên ngành kinh tế\n-tờ\n-trang\n@Chuyên ngành kỹ thuật\n-diệp\n-số trang
-
+folio	
+@folio /'fouliou/
+*  danh từ,  số nhiều folios
+- (ngành in) khổ hai
+- số tờ (sách in)
+- (kế toán) trang sổ
+- Fiôlô (đơn vị bằng 72 hoặc 90 từ ở Anh, 100 từ ở Mỹ...)
+@Chuyên ngành kinh tế
+-tờ
+-trang
+@Chuyên ngành kỹ thuật
+-diệp
+-số trang

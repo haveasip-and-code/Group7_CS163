@@ -1,3 +1,9 @@
-lockout
-	@lockout\n- (Econ) Sự đóng cửa gây áp lực (đối với công nhân).\n+ Việc người chủ đóng cửa nơi làm việc để buộc công nhân thừa nhận các điều khoản tuyển dụng của ban lãnh đạo.\n@Chuyên ngành kinh tế\n-cuộc đình công của chủ nhân\n-sự đình công bế xưởng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự khóa lại
-
+lockout	@lockout
+- (Econ) Sự đóng cửa gây áp lực (đối với công nhân).
++ Việc người chủ đóng cửa nơi làm việc để buộc công nhân thừa nhận các điều khoản tuyển dụng của ban lãnh đạo.
+@Chuyên ngành kinh tế
+-cuộc đình công của chủ nhân
+-sự đình công bế xưởng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự khóa lại

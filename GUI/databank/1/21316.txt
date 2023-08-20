@@ -1,3 +1,7 @@
-flashlight
-	@Chuyên ngành kỹ thuật\n-đèn chớp\n-đèn nháy\n@Chuyên ngành kỹ thuật\n-đèn chớp\n-đèn nháy
-
+flashlight	
+@Chuyên ngành kỹ thuật
+-đèn chớp
+-đèn nháy
+@Chuyên ngành kỹ thuật
+-đèn chớp
+-đèn nháy

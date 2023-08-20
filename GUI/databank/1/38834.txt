@@ -1,3 +1,2 @@
-overheated
-	@Chuyên ngành kỹ thuật\n-quá nhiệt
-
+overheated	@Chuyên ngành kỹ thuật
+-quá nhiệt

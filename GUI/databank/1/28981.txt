@@ -1,3 +1,5 @@
-installed
-	@Chuyên ngành kỹ thuật\n-định vị\n-thiết lập\n-xác lập
-
+installed	
+@Chuyên ngành kỹ thuật
+-định vị
+-thiết lập
+-xác lập

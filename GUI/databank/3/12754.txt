@@ -1,3 +1,2 @@
-crosser
-	@crosser\n- xem cross
-
+crosser	@crosser
+- xem cross

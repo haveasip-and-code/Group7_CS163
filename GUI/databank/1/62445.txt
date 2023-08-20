@@ -1,3 +1,7 @@
-washability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-khả năng giặt sạch\n-khả năng rửa sạch\n@Lĩnh vực: xây dựng\n-tính lau rửa được\n-tính tuyển được
-
+washability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+-khả năng giặt sạch
+-khả năng rửa sạch
+@Lĩnh vực: xây dựng
+-tính lau rửa được
+-tính tuyển được

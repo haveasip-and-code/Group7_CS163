@@ -1,3 +1,20 @@
-obligation
-	@obligation /,ɔbli'geiʃn/\n*  danh từ\n- nghĩa vụ, bổn phận\n- ơn; sự mang ơn, sự biết ơn, sự hàm ơn\n=to be under an obligation+ chịu ơn\n=to repay an obligation+ trả ơn\n- (pháp lý) giao ước\n@Chuyên ngành kinh tế\n-bổn phận\n-giao ước\n-khế ước\n-nghĩa vụ\n-nợ\n-quan hệ nợ\n-sự giao ước\n-sự ràng buộc\n-sự rằng buộc\n-trách nhiệm\n@Chuyên ngành kỹ thuật\n-nghĩa vụ
-
+obligation	@obligation /,ɔbli'geiʃn/
+*  danh từ
+- nghĩa vụ, bổn phận
+- ơn; sự mang ơn, sự biết ơn, sự hàm ơn
+=to be under an obligation+ chịu ơn
+=to repay an obligation+ trả ơn
+- (pháp lý) giao ước
+@Chuyên ngành kinh tế
+-bổn phận
+-giao ước
+-khế ước
+-nghĩa vụ
+-nợ
+-quan hệ nợ
+-sự giao ước
+-sự ràng buộc
+-sự rằng buộc
+-trách nhiệm
+@Chuyên ngành kỹ thuật
+-nghĩa vụ

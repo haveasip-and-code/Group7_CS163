@@ -1,3 +1,4 @@
-brokering
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự môi giới
-
+brokering	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự môi giới

@@ -1,3 +1,47 @@
-idle
-	@idle /'aidl/\n*  tính từ\n- ngồi rồi, không làm việc gì\n=in an idle hour+ trong lúc ngồi rồi\n- không làm ăn gì cả, ăn không ngồi rồi, lười nhác\n=an idle worthless boy+ một đứa bé lười nhác vô tích sự\n- không có công ăn việc làm, thất nghiệp\n=idle men+ những người không có công ăn việc làm\n- (kỹ thuật) để không, không chạy\n=idle machines+ máy để không\n- vô ích, vô hiệu quả, không tác dụng, không đi đến đâu\n=in a fit of idle rage+ trong một cơn giận dữ không đi đến đâu\n- không đâu, không căn cứ, vẩn vơ, vu vơ\n=idle rumors+ những lời đồn không đâu, những lời đồn không căn cứ\n=idle talks+ chuyện không đâu, chuyện vẩn vơ\n=idle fears+ những nỗi sợi hâi không đâu\n*  nội động từ\n- ăn không ngồi rồi, không làm ăn gì cả đi vẩn vơ; để thời gian trôi qua vô ích\n- (kỹ thuật) quay không, chạy không (máy động cơ...)\n*  ngoại động từ ((thường) + away)\n- ăn không ngồi rồi để lâng phí (thời gian); để (thời gian) trôi qua vô ích\n=to idle away one's time+ ăn không ngồi rồi lãng phí thời gian\n- (từ Mỹ,nghĩa Mỹ) làm cho thất nghiệp\n*  danh từ\n- tình trạng nhàn rỗi\n- sự chạy không\n=to keep a motor at an idle+ cho máy chạy không\n@Chuyên ngành kỹ thuật\n-chạy không\n-để không\n-không chịu lực\n-không hoạt động\n-không làm việc\n-không tác dụng\n-không tải\n-nghỉ\n-rỗi\n-tự do\n-vô công\n@Lĩnh vực: ô tô\n-chạy cầm chừng, ralenti\n@Lĩnh vực: hóa học & vật liệu\n-không có việc\n@Lĩnh vực: toán & tin\n-nhàn rỗi
-
+idle	
+@idle /'aidl/
+*  tính từ
+- ngồi rồi, không làm việc gì=in an idle hour
++ trong lúc ngồi rồi
+- không làm ăn gì cả, ăn không ngồi rồi, lười nhác=an idle worthless boy
++ một đứa bé lười nhác vô tích sự
+- không có công ăn việc làm, thất nghiệp=idle men
++ những người không có công ăn việc làm
+- (kỹ thuật) để không, không chạy=idle machines
++ máy để không
+- vô ích, vô hiệu quả, không tác dụng, không đi đến đâu=in a fit of idle rage
++ trong một cơn giận dữ không đi đến đâu
+- không đâu, không căn cứ, vẩn vơ, vu vơ=idle rumors
++ những lời đồn không đâu, những lời đồn không căn cứ=idle talks
++ chuyện không đâu, chuyện vẩn vơ=idle fears
++ những nỗi sợi hâi không đâu
+*  nội động từ
+- ăn không ngồi rồi, không làm ăn gì cả đi vẩn vơ; để thời gian trôi qua vô ích
+- (kỹ thuật) quay không, chạy không (máy động cơ...)
+*  ngoại động từ ((thường) 
++ away)
+- ăn không ngồi rồi để lâng phí (thời gian); để (thời gian) trôi qua vô ích=to idle away one's time
++ ăn không ngồi rồi lãng phí thời gian
+- (từ Mỹ,nghĩa Mỹ) làm cho thất nghiệp
+*  danh từ
+- tình trạng nhàn rỗi
+- sự chạy không=to keep a motor at an idle
++ cho máy chạy không
+@Chuyên ngành kỹ thuật
+-chạy không
+-để không
+-không chịu lực
+-không hoạt động
+-không làm việc
+-không tác dụng
+-không tải
+-nghỉ
+-rỗi
+-tự do
+-vô công
+@Lĩnh vực: ô tô
+-chạy cầm chừng, ralenti
+@Lĩnh vực: hóa học & vật liệu
+-không có việc
+@Lĩnh vực: toán & tin
+-nhàn rỗi

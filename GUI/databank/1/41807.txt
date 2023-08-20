@@ -1,3 +1,17 @@
-placement
-	@placement\n* danh từ\n- sắp đặt, sắp xếp việc làm\n@Chuyên ngành kinh tế\n-phát hành cổ phiếu mới (Mỹ tên gọi của placing)\n@Chuyên ngành kinh tế\n-đầu tư\n-giới thiệu việc làm\n-sắp xếp (nhân viên)\n-sự bố trí\n-sự phân phối bán ra (cổ phiếu)\n-sự sắp đặt, sắp xếp (việc làm)\n-sự tìm việc\n@Chuyên ngành kỹ thuật\n-sự bố trí\n-sự phân bố\n-sự xếp đặt
-
+placement	@placement
+* danh từ
+- sắp đặt, sắp xếp việc làm
+@Chuyên ngành kinh tế
+-phát hành cổ phiếu mới (Mỹ tên gọi của placing)
+@Chuyên ngành kinh tế
+-đầu tư
+-giới thiệu việc làm
+-sắp xếp (nhân viên)
+-sự bố trí
+-sự phân phối bán ra (cổ phiếu)
+-sự sắp đặt, sắp xếp (việc làm)
+-sự tìm việc
+@Chuyên ngành kỹ thuật
+-sự bố trí
+-sự phân bố
+-sự xếp đặt

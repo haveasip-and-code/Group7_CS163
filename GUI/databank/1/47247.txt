@@ -1,3 +1,5 @@
-resurfacing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự mạ lại\n@Lĩnh vực: cơ khí & công trình\n-sự rải nhựa lại (mặt đường)
-
+resurfacing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự mạ lại
+@Lĩnh vực: cơ khí & công trình
+-sự rải nhựa lại (mặt đường)

@@ -1,3 +1,2 @@
-philosophizer
-	@philosophizer\n- xem philosophize
-
+philosophizer	@philosophizer
+- xem philosophize

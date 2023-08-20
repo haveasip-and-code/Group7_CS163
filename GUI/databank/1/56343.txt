@@ -1,3 +1,5 @@
-thermoplastics
-	@Chuyên ngành kỹ thuật\n-nhựa dẻo nóng\n-nhựa nhiệt dẻo\n@Lĩnh vực: điện\n-chất dẻo nhiệt
-
+thermoplastics	@Chuyên ngành kỹ thuật
+-nhựa dẻo nóng
+-nhựa nhiệt dẻo
+@Lĩnh vực: điện
+-chất dẻo nhiệt

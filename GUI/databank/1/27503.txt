@@ -1,3 +1,28 @@
-impose
-	@impose /im'pouz/\n*  ngoại động từ\n- (+ on,  upon) đánh (thuế...); bắt chịu, bắt gánh vác, bắt cáng đáng\n=to impose heavy taxes upon luxury goods+ đánh thuế nặng vào hàng xa xỉ\n=to impose one's methods on somebody+ bắt ai phải làm theo phương pháp của mình\n=to impose oneself on somebody+ bắt ai phải chịu đựng mình\n- (+ upon) đánh lừa tống ấn, đánh lộn sòng, đánh tráo\n=to impose something upon somebody+ đánh lừa mà tống ấn cái gì cho ai\n- (ngành in) lên khuôn (trang in)\n- (từ cổ,nghĩa cổ) đặt lên\n*  nội động từ\n- (+ on,  upon) gây ấn tượng mạnh mẽ đối với, tác động mạnh đối với; bắt phải kính nể; bắt phải chịu đựng mình\n=to impose on someone+ gây ấn tượng mạnh mẽ đối với ai; bắt ai phải kính nể\n- (+ on,  upon) lừa gạt, lừa phỉnh, bịp\n=to be imposed upon+ bị lừa, bị bịp\n- (+ on,  upon) lạm dụng, lợi dụng\n=to impose upon someone's kindness+ lợi dụng lòng tốt của ai\n@Chuyên ngành kinh tế\n-đánh thuế\n-phạt\n@Chuyên ngành kỹ thuật\n-lên khuôn
-
+impose	
+@impose /im'pouz/
+*  ngoại động từ
+- (
++ on,  upon) đánh (thuế...); bắt chịu, bắt gánh vác, bắt cáng đáng=to impose heavy taxes upon luxury goods
++ đánh thuế nặng vào hàng xa xỉ=to impose one's methods on somebody
++ bắt ai phải làm theo phương pháp của mình=to impose oneself on somebody
++ bắt ai phải chịu đựng mình
+- (
++ upon) đánh lừa tống ấn, đánh lộn sòng, đánh tráo=to impose something upon somebody
++ đánh lừa mà tống ấn cái gì cho ai
+- (ngành in) lên khuôn (trang in)
+- (từ cổ,nghĩa cổ) đặt lên
+*  nội động từ
+- (
++ on,  upon) gây ấn tượng mạnh mẽ đối với, tác động mạnh đối với; bắt phải kính nể; bắt phải chịu đựng mình=to impose on someone
++ gây ấn tượng mạnh mẽ đối với ai; bắt ai phải kính nể
+- (
++ on,  upon) lừa gạt, lừa phỉnh, bịp=to be imposed upon
++ bị lừa, bị bịp
+- (
++ on,  upon) lạm dụng, lợi dụng=to impose upon someone's kindness
++ lợi dụng lòng tốt của ai
+@Chuyên ngành kinh tế
+-đánh thuế
+-phạt
+@Chuyên ngành kỹ thuật
+-lên khuôn

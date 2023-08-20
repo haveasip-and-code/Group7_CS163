@@ -1,3 +1,4 @@
-mortiser
-	@Chuyên ngành kỹ thuật\n-máy soi rãnh\n-máy xọc\n-máy xoi rãnh
-
+mortiser	@Chuyên ngành kỹ thuật
+-máy soi rãnh
+-máy xọc
+-máy xoi rãnh

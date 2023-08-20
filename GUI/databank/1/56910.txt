@@ -1,3 +1,48 @@
-toll
-	@toll /toul/\n*  danh từ\n- thuế qua đường, thuế qua cầu; thuế đậu bến; thuế chỗ ngồi (ở chợ...)\n- phần thóc công xay (phần thóc giữ lại để cho tiền công xay)\n!to take toll of\n- (nghĩa bóng) lấy đi mất một phần lớn, tiêu diệt mất một phần lớn\n!roat toll\n- số người bị tai nạn xe cộ\n*  nội động từ\n- thu thuế (cầu, đường, chợ...)\n- nộp thuế (cầu, đường, chợ...)\n*  danh từ\n- sự rung chuông\n- tiếng chuông rung\n*  ngoại động từ\n- rung, đánh, gõ (chuông...)\n=to toll the bell+ rung chuông\n- rung, điểm (chuông đồng hồ...)\n=the clock tolled midnight+ đồng hồ điểm 12 giờ đêm\n- rung chuông báo\n=to toll someone's death+ rung chuông báo tử người nào\n*  nội động từ\n- rung, điểm (chuông đồng hồ...)\n@Chuyên ngành kinh tế\n-lệ phí\n-phí chuyển hàng\n-phí điện thoại đường dài\n-phí thông hành\n-phí thông hành, thông lưu (cầu, đường)\n-số người thương vong (trong tai nạn)\n-sự mất mát, thiệt hại\n-thông lưu (cầu đường...)\n-thuế dựng sạp\n-thuế hoa chi\n-thuế quá cảnh\n@Chuyên ngành kỹ thuật\n-đánh\n@Lĩnh vực: xây dựng\n-gõ (chuông)\n@Lĩnh vực: ô tô\n-lệ phí cầu, đường\n@Lĩnh vực: toán & tin\n-thuế cầu\n-thuế đường\n@Lĩnh vực: hóa học & vật liệu\n-thuế lưu thông\n-thuế qua cầu\n-thuế qua đường
-
+toll	@toll /toul/
+*  danh từ
+- thuế qua đường, thuế qua cầu; thuế đậu bến; thuế chỗ ngồi (ở chợ...)
+- phần thóc công xay (phần thóc giữ lại để cho tiền công xay)
+!to take toll of
+- (nghĩa bóng) lấy đi mất một phần lớn, tiêu diệt mất một phần lớn
+!roat toll
+- số người bị tai nạn xe cộ
+*  nội động từ
+- thu thuế (cầu, đường, chợ...)
+- nộp thuế (cầu, đường, chợ...)
+*  danh từ
+- sự rung chuông
+- tiếng chuông rung
+*  ngoại động từ
+- rung, đánh, gõ (chuông...)
+=to toll the bell+ rung chuông
+- rung, điểm (chuông đồng hồ...)
+=the clock tolled midnight+ đồng hồ điểm 12 giờ đêm
+- rung chuông báo
+=to toll someone's death+ rung chuông báo tử người nào
+*  nội động từ
+- rung, điểm (chuông đồng hồ...)
+@Chuyên ngành kinh tế
+-lệ phí
+-phí chuyển hàng
+-phí điện thoại đường dài
+-phí thông hành
+-phí thông hành, thông lưu (cầu, đường)
+-số người thương vong (trong tai nạn)
+-sự mất mát, thiệt hại
+-thông lưu (cầu đường...)
+-thuế dựng sạp
+-thuế hoa chi
+-thuế quá cảnh
+@Chuyên ngành kỹ thuật
+-đánh
+@Lĩnh vực: xây dựng
+-gõ (chuông)
+@Lĩnh vực: ô tô
+-lệ phí cầu, đường
+@Lĩnh vực: toán & tin
+-thuế cầu
+-thuế đường
+@Lĩnh vực: hóa học & vật liệu
+-thuế lưu thông
+-thuế qua cầu
+-thuế qua đường

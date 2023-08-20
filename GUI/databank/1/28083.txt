@@ -1,3 +1,7 @@
-indented
-	@Chuyên ngành kinh tế\n-người nhận ủy thác mua hàng\n@Chuyên ngành kỹ thuật\n-được khía răng\n@Lĩnh vực: xây dựng\n-răng, răng cưa
-
+indented	
+@Chuyên ngành kinh tế
+-người nhận ủy thác mua hàng
+@Chuyên ngành kỹ thuật
+-được khía răng
+@Lĩnh vực: xây dựng
+-răng, răng cưa

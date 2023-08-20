@@ -1,3 +1,4 @@
-nonfrozen
-	@Chuyên ngành kỹ thuật\n-không đóng băng\n@Lĩnh vực: điện lạnh\n-không kết đông
-
+nonfrozen	@Chuyên ngành kỹ thuật
+-không đóng băng
+@Lĩnh vực: điện lạnh
+-không kết đông

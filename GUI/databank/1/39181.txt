@@ -1,3 +1,34 @@
-packet
-	@packet /'pækit/\n*  danh từ\n- gói nhỏ\n=a packet of cigarettes+ gói thuốc lá\n- tàu chở thư ((cũng) packet boat)\n- (từ lóng) món tiền được cuộc; món tiền thua cuộc (đánh cuộc, đánh đổ...)\n- (từ lóng) viên đạn\n=to catch (stop) a packet+ bị ăn đạn\n@Chuyên ngành kinh tế\n-bao gói\n-đóng gói\n-gói\n-gói bưu kiện nhỏ\n-gói nhỏ\n@Chuyên ngành kỹ thuật\n-bao\n-bó\n-bó dữ liệu\n-bó thép tấm\n-đống gói\n-đóng kiện\n-gói\n-gói dữ liệu\n-khối\n-kiện\n@Lĩnh vực: điện\n-bó thông tin\n@Lĩnh vực: điện tử & viễn thông\n-gói nhỏ\n-lô thông tin\n@Lĩnh vực: toán & tin\n-gói tin\n@Lĩnh vực: điện lạnh\n-khối (dữ liệu, tin)
-
+packet	@packet /'pækit/
+*  danh từ
+- gói nhỏ
+=a packet of cigarettes+ gói thuốc lá
+- tàu chở thư ((cũng) packet boat)
+- (từ lóng) món tiền được cuộc; món tiền thua cuộc (đánh cuộc, đánh đổ...)
+- (từ lóng) viên đạn
+=to catch (stop) a packet+ bị ăn đạn
+@Chuyên ngành kinh tế
+-bao gói
+-đóng gói
+-gói
+-gói bưu kiện nhỏ
+-gói nhỏ
+@Chuyên ngành kỹ thuật
+-bao
+-bó
+-bó dữ liệu
+-bó thép tấm
+-đống gói
+-đóng kiện
+-gói
+-gói dữ liệu
+-khối
+-kiện
+@Lĩnh vực: điện
+-bó thông tin
+@Lĩnh vực: điện tử & viễn thông
+-gói nhỏ
+-lô thông tin
+@Lĩnh vực: toán & tin
+-gói tin
+@Lĩnh vực: điện lạnh
+-khối (dữ liệu, tin)

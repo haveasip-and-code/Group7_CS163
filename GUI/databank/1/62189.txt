@@ -1,3 +1,7 @@
-vorticity
-	@vorticity\n- (vật lí) tính xoáy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-độ xoáy\n@Lĩnh vực: xây dựng\n-độ xoáy nước
-
+vorticity	@vorticity
+- (vật lí) tính xoáy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-độ xoáy
+@Lĩnh vực: xây dựng
+-độ xoáy nước

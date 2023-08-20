@@ -1,3 +1,6 @@
-silicate
-	@silicate /'silikit/\n*  danh từ\n- Silicat\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-silicat
-
+silicate	@silicate /'silikit/
+*  danh từ
+- Silicat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-silicat

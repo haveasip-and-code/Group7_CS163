@@ -1,3 +1,12 @@
-inductive
-	@inductive /in'dʌktiv/\n*  tính từ\n- quy nạp\n=the inductive method+ phương pháp quy nạp\n- (điện học) cảm ứng\n=inductive current+ dòng điện cảm ứng\n@Chuyên ngành kỹ thuật\n-cảm điện\n-quy nạp\n@Lĩnh vực: toán & tin\n-suy luận quy nạp
-
+inductive	
+@inductive /in'dʌktiv/
+*  tính từ
+- quy nạp=the inductive method
++ phương pháp quy nạp
+- (điện học) cảm ứng=inductive current
++ dòng điện cảm ứng
+@Chuyên ngành kỹ thuật
+-cảm điện
+-quy nạp
+@Lĩnh vực: toán & tin
+-suy luận quy nạp

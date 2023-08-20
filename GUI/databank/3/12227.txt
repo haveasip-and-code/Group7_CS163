@@ -1,3 +1,2 @@
-counterclockwise
-	@counterclockwise\n- (Tech) ngược chiều kim đồng hồ
-
+counterclockwise	@counterclockwise
+- (Tech) ngược chiều kim đồng hồ

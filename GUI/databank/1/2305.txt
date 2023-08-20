@@ -1,3 +1,14 @@
-annealing
-	@Chuyên ngành kỹ thuật\n-sự nung lại\n-sự ram\n-sự tôi luyện\n-sự ủ\n-sự xử lý nhiệt\n@Lĩnh vực: xây dựng\n-sự ủ (nhiệt luyện)\n-trui\n@Lĩnh vực: giao thông & vận tải\n-ủ\n@Lĩnh vực: cơ khí & công trình\n-ủ thép
-
+annealing	
+@Chuyên ngành kỹ thuật
+-sự nung lại
+-sự ram
+-sự tôi luyện
+-sự ủ
+-sự xử lý nhiệt
+@Lĩnh vực: xây dựng
+-sự ủ (nhiệt luyện)
+-trui
+@Lĩnh vực: giao thông & vận tải
+-ủ
+@Lĩnh vực: cơ khí & công trình
+-ủ thép

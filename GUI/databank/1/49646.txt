@@ -1,3 +1,16 @@
-selective
-	@selective /si'lektiv/\n*  tính từ\n- có lựa chọn, có chọn lọc, có tuyển lựa\n=selective service+ (từ Mỹ,nghĩa Mỹ) sự tuyển binh\n@Chuyên ngành kỹ thuật\n-bộ chọn\n-chọn\n-có tuyển chọn\n-cục bộ\n-lọc lựa\n-lựa\n-lựa chọn\n-tách ra\n-từng phần\n@Lĩnh vực: toán & tin\n-chọn, lựa
-
+selective	@selective /si'lektiv/
+*  tính từ
+- có lựa chọn, có chọn lọc, có tuyển lựa
+=selective service+ (từ Mỹ,nghĩa Mỹ) sự tuyển binh
+@Chuyên ngành kỹ thuật
+-bộ chọn
+-chọn
+-có tuyển chọn
+-cục bộ
+-lọc lựa
+-lựa
+-lựa chọn
+-tách ra
+-từng phần
+@Lĩnh vực: toán & tin
+-chọn, lựa

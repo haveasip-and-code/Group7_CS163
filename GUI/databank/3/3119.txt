@@ -1,3 +1,2 @@
-arbitrageur
-	@Chuyên ngành kinh tế\n-người mua bán ngoại tệ
-
+arbitrageur	@Chuyên ngành kinh tế
+-người mua bán ngoại tệ

@@ -1,3 +1,11 @@
-outsize
-	@outsize\n* tính từ\n- quá khổ, ngoại cỡ (quần áo))\n@Chuyên ngành kinh tế\n-cỡ lớn\n@Chuyên ngành kỹ thuật\n-ngoại cỡ\n-quá khổ\n@Lĩnh vực: xây dựng\n-hạt bị ngoại trừ\n-hạt ngoài cỡ
-
+outsize	@outsize
+* tính từ
+- quá khổ, ngoại cỡ (quần áo))
+@Chuyên ngành kinh tế
+-cỡ lớn
+@Chuyên ngành kỹ thuật
+-ngoại cỡ
+-quá khổ
+@Lĩnh vực: xây dựng
+-hạt bị ngoại trừ
+-hạt ngoài cỡ

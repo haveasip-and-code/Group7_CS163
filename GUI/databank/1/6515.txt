@@ -1,3 +1,7 @@
-boxcar
-	@Chuyên ngành kinh tế\n-toa xe\n-toa xe lửa đã xếp đầy hàng\n@Chuyên ngành kỹ thuật\n-toa chở hàng\n-toa đóng kín
-
+boxcar	
+@Chuyên ngành kinh tế
+-toa xe
+-toa xe lửa đã xếp đầy hàng
+@Chuyên ngành kỹ thuật
+-toa chở hàng
+-toa đóng kín

@@ -1,3 +1,67 @@
-warm
-	@warm /wɔ:m/\n*  tính từ\n- ấm; làm cho ấm\n=warm water+ nước ấm\n=warm exercise+ bài thể dục làm cho ấm người\n=warm clothes+ quần áo ấm\n- (hội họa) ấm (màu sắc)\n- (thể dục,thể thao) còn nồng, chưa bay hết; còn mới, còn rõ (hơi, dấu vết của những con thú)\n- sôi nổi, nhiệt tình, nhiệt liệt\n=warm admirer+ người hâm mộ nhiệt tình\n=warm controversy+ cuộc tranh cãi sôi nổi\n=warm encouragement+ sự động viên nhiệt tình\n- niềm nở, nồng hậu\n=a warm welcome+ sự đón tiếp niềm nở\n=warm temperament+ tính đa tình\n- nguy hiểm; hiểm yếu (vị trí, địa điểm)\n=a warm position+ một vị trí nguy hiểm\n=one of the warmest corners on the battlefield+ một trong những khu vực ác liệt nhất trên chiến trường\n- phong lưu (sống)\n- quen việc, ấm chỗ (công chức)\n- (thông tục) sắp tìm thấy, gần đúng (trò chơi trẻ con)\n=you are getting warm+ cậu sắp thấy rồi đấy\n!warn language\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) (như) warm words\n!warm words\n- lời nói nặng\n!warm work\n- công việc gay go nguy hiểm; cuộc xung đột gay go nguy hiểm\n!to make it (things) warm for somebody\n- làm mếch lòng ai, làm ai tự ái\n*  danh từ\n- vật ấm, vật làm ấm (áo...)\n- sự sưởi ấm, sự làm cho nóng người\n=to have a warm+ sưởi cho ấm, làm gì cho ấm người\n*  ngoại động từ\n- làm cho nóng, hâm nóng, làm cho ấm\n=to warm water+ đun nước cho nóng\n=to warm oneself+ sưởi, phơi nắng cho ấm\n- (nghĩa bóng) làm tức giận, trêu tức\n=to warm someone+ trêu tức ai\n- (nghĩa bóng) kích thích, làm sôi nổi, làm cho ấm (lòng...)\n=the sight of the children warms my heart+ trông thấy những em nhỏ lòng tôi ấm lên\n- đánh, quất, vụt\n=to warm someone ['s jacket]+ nện cho ai một trận\n*  nội động từ\n- sưởi ấm\n- nổi nóng, phát cáu, phát tức\n- sổi nổi lên\n!to warm to\n- có thiện cảm với, mến (ai)\n=my heart warms to him+ tôi cảm thấy mến anh ta\n!to warm up\n- làm cho nóng, làm cho ấm; hâm\n- (thể dục,thể thao) khởi động cho nóng người\n- trở nên nồng nhiệt, trở nên sôi nổi\n@Chuyên ngành kỹ thuật\n-ấm\n-đun nóng\n-làm ấm\n-làm nóng\n-nóng\n-sự sưởi ấm\n-sưởi ấm\n-tăng nhiệt\n-vật làm ấm\n@Lĩnh vực: xây dựng\n-hâm
-
+warm	@warm /wɔ:m/
+*  tính từ
+- ấm; làm cho ấm
+=warm water+ nước ấm
+=warm exercise+ bài thể dục làm cho ấm người
+=warm clothes+ quần áo ấm
+- (hội họa) ấm (màu sắc)
+- (thể dục,thể thao) còn nồng, chưa bay hết; còn mới, còn rõ (hơi, dấu vết của những con thú)
+- sôi nổi, nhiệt tình, nhiệt liệt
+=warm admirer+ người hâm mộ nhiệt tình
+=warm controversy+ cuộc tranh cãi sôi nổi
+=warm encouragement+ sự động viên nhiệt tình
+- niềm nở, nồng hậu
+=a warm welcome+ sự đón tiếp niềm nở
+=warm temperament+ tính đa tình
+- nguy hiểm; hiểm yếu (vị trí, địa điểm)
+=a warm position+ một vị trí nguy hiểm
+=one of the warmest corners on the battlefield+ một trong những khu vực ác liệt nhất trên chiến trường
+- phong lưu (sống)
+- quen việc, ấm chỗ (công chức)
+- (thông tục) sắp tìm thấy, gần đúng (trò chơi trẻ con)
+=you are getting warm+ cậu sắp thấy rồi đấy
+!warn language
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) (như) warm words
+!warm words
+- lời nói nặng
+!warm work
+- công việc gay go nguy hiểm; cuộc xung đột gay go nguy hiểm
+!to make it (things) warm for somebody
+- làm mếch lòng ai, làm ai tự ái
+*  danh từ
+- vật ấm, vật làm ấm (áo...)
+- sự sưởi ấm, sự làm cho nóng người
+=to have a warm+ sưởi cho ấm, làm gì cho ấm người
+*  ngoại động từ
+- làm cho nóng, hâm nóng, làm cho ấm
+=to warm water+ đun nước cho nóng
+=to warm oneself+ sưởi, phơi nắng cho ấm
+- (nghĩa bóng) làm tức giận, trêu tức
+=to warm someone+ trêu tức ai
+- (nghĩa bóng) kích thích, làm sôi nổi, làm cho ấm (lòng...)
+=the sight of the children warms my heart+ trông thấy những em nhỏ lòng tôi ấm lên
+- đánh, quất, vụt
+=to warm someone ['s jacket]+ nện cho ai một trận
+*  nội động từ
+- sưởi ấm
+- nổi nóng, phát cáu, phát tức
+- sổi nổi lên
+!to warm to
+- có thiện cảm với, mến (ai)
+=my heart warms to him+ tôi cảm thấy mến anh ta
+!to warm up
+- làm cho nóng, làm cho ấm; hâm
+- (thể dục,thể thao) khởi động cho nóng người
+- trở nên nồng nhiệt, trở nên sôi nổi
+@Chuyên ngành kỹ thuật
+-ấm
+-đun nóng
+-làm ấm
+-làm nóng
+-nóng
+-sự sưởi ấm
+-sưởi ấm
+-tăng nhiệt
+-vật làm ấm
+@Lĩnh vực: xây dựng
+-hâm

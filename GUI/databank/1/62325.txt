@@ -1,3 +1,22 @@
-wale
-	@wale /weil/\n*  danh từ\n- vết lằn (roi)\n- sọc nổi (nhung kẻ)\n- (kỹ thuật) thanh giảm chấn\n*  ngoại động từ\n- đánh lằn da\n- dệt thành sọc nổi\n- (quân sự) đan rào bảo vệ, đan sọt nhồi đất làm công sự bảo vệ\n@Chuyên ngành kỹ thuật\n-sự chọn nhặt đá\n-sự tuyển than\n-thanh giằng ngang\n@Lĩnh vực: dệt may\n-hàng dọc của vòng chỉ (vải dệt kim)\n@Lĩnh vực: xây dựng\n-kết cấu giảm chấn\n-thang ngang giằng cọc\n-thanh chắn bánh xe (trên cầu)\n-thanh giảm chấn\n-thanh giằng ngang (chống đỡ các tấm ván lát hầm)\n-thanh ngang giằng cọc
-
+wale	@wale /weil/
+*  danh từ
+- vết lằn (roi)
+- sọc nổi (nhung kẻ)
+- (kỹ thuật) thanh giảm chấn
+*  ngoại động từ
+- đánh lằn da
+- dệt thành sọc nổi
+- (quân sự) đan rào bảo vệ, đan sọt nhồi đất làm công sự bảo vệ
+@Chuyên ngành kỹ thuật
+-sự chọn nhặt đá
+-sự tuyển than
+-thanh giằng ngang
+@Lĩnh vực: dệt may
+-hàng dọc của vòng chỉ (vải dệt kim)
+@Lĩnh vực: xây dựng
+-kết cấu giảm chấn
+-thang ngang giằng cọc
+-thanh chắn bánh xe (trên cầu)
+-thanh giảm chấn
+-thanh giằng ngang (chống đỡ các tấm ván lát hầm)
+-thanh ngang giằng cọc

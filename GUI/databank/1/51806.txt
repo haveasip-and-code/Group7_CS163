@@ -1,3 +1,8 @@
-solute
-	@solute\n* danh từ\n- chất tan\n@Chuyên ngành kinh tế\n-chất hòa tan\n@Chuyên ngành kỹ thuật\n-chất hòa tan\n-hòa tan
-
+solute	@solute
+* danh từ
+- chất tan
+@Chuyên ngành kinh tế
+-chất hòa tan
+@Chuyên ngành kỹ thuật
+-chất hòa tan
+-hòa tan

@@ -1,3 +1,19 @@
-laitance
-	@laitance\n* danh từ\n- xi măng hoà nước\n@Chuyên ngành kỹ thuật\n-vữa xi măng\n@Lĩnh vực: xây dựng\n-bột xi măng\n-hồ ximăng\n-nước ximăng\n@Lĩnh vực: hóa học & vật liệu\n-sữa xi-măng\n@Chuyên ngành kỹ thuật\n-vữa xi măng\n@Lĩnh vực: xây dựng\n-bột xi măng\n-hồ ximăng\n-nước ximăng\n@Lĩnh vực: hóa học & vật liệu\n-sữa xi-măng
-
+laitance	@laitance
+* danh từ
+- xi măng hoà nước
+@Chuyên ngành kỹ thuật
+-vữa xi măng
+@Lĩnh vực: xây dựng
+-bột xi măng
+-hồ ximăng
+-nước ximăng
+@Lĩnh vực: hóa học & vật liệu
+-sữa xi-măng
+@Chuyên ngành kỹ thuật
+-vữa xi măng
+@Lĩnh vực: xây dựng
+-bột xi măng
+-hồ ximăng
+-nước ximăng
+@Lĩnh vực: hóa học & vật liệu
+-sữa xi-măng

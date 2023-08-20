@@ -1,3 +1,2 @@
-amphoral
-	@amphoral\n- xem amphora
-
+amphoral	@amphoral
+- xem amphora

@@ -1,3 +1,23 @@
-milling
-	@milling /'miliɳ/\n*  danh từ\n- sự xay, sự nghiền, sự cán\n- sự khía cạnh; sự làm gờ (đồng tiền)\n- (từ lóng) sự giâ, sự đánh, sự tẩn\n@Chuyên ngành kỹ thuật\n-cán\n-nghiền\n-phay\n-sự làm giàu\n-sự mài\n-sự nghiền\n-sự nghiền (quặng)\n-sự nghiền vụn\n-sự phay\n-sự tuyển khoáng\n-xay\n@Lĩnh vực: cơ khí & công trình\n-sinh phoi phay\n@Lĩnh vực: xây dựng\n-sự ngào\n@Lĩnh vực: toán & tin\n-sự ngọt ngào
-
+milling	@milling /'miliɳ/
+*  danh từ
+- sự xay, sự nghiền, sự cán
+- sự khía cạnh; sự làm gờ (đồng tiền)
+- (từ lóng) sự giâ, sự đánh, sự tẩn
+@Chuyên ngành kỹ thuật
+-cán
+-nghiền
+-phay
+-sự làm giàu
+-sự mài
+-sự nghiền
+-sự nghiền (quặng)
+-sự nghiền vụn
+-sự phay
+-sự tuyển khoáng
+-xay
+@Lĩnh vực: cơ khí & công trình
+-sinh phoi phay
+@Lĩnh vực: xây dựng
+-sự ngào
+@Lĩnh vực: toán & tin
+-sự ngọt ngào

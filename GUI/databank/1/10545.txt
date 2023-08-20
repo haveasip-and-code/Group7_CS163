@@ -1,3 +1,31 @@
-commit
-	@commit /kə'mit/\n*  ngoại động từ\n- giao, gửi, giao phó, uỷ nhiệm, uỷ thác\n=to commit to someone's care+ giao cho ai trông nom\n- bỏ tù, giam giữ, tống giam\n=to commit somebody to prison+ tống giam ai\n=to commit a blunder+ phạm sai lầm ngớ ngẩn\n- chuyển (một đạo luật...) cho tiểu ban xét (ở nghị viện)\n- hứa, cam kết\n- làm hại đến, làm liên luỵ; dính vào\n=to commit someone's reputation+ làm hại danh dự ai\n- (từ Mỹ,nghĩa Mỹ) đưa (quân) đi đánh\n=to commit troops to a war+ đưa quân vào một cuộc chiến tranh\n!to commit to memory\n- (xem) memory\n!to commit to writing\n- ghi chép\n@Chuyên ngành kinh tế\n-bỏ tù\n-cam kết\n-giam giữ\n-giao phó\n-gửi\n-hứa\n-tống giam\n@Chuyên ngành kỹ thuật\n-chuyển giao\n-ủy thác\n@Lĩnh vực: toán & tin\n-cam kết\n-thực hiện thỏa hiệp\n-xác nhận
-
+commit	
+@commit /kə'mit/
+*  ngoại động từ
+- giao, gửi, giao phó, uỷ nhiệm, uỷ thác=to commit to someone's care
++ giao cho ai trông nom
+- bỏ tù, giam giữ, tống giam=to commit somebody to prison
++ tống giam ai=to commit a blunder
++ phạm sai lầm ngớ ngẩn
+- chuyển (một đạo luật...) cho tiểu ban xét (ở nghị viện)
+- hứa, cam kết
+- làm hại đến, làm liên luỵ; dính vào=to commit someone's reputation
++ làm hại danh dự ai
+- (từ Mỹ,nghĩa Mỹ) đưa (quân) đi đánh=to commit troops to a war
++ đưa quân vào một cuộc chiến tranh!to commit to memory
+- (xem) memory!to commit to writing
+- ghi chép
+@Chuyên ngành kinh tế
+-bỏ tù
+-cam kết
+-giam giữ
+-giao phó
+-gửi
+-hứa
+-tống giam
+@Chuyên ngành kỹ thuật
+-chuyển giao
+-ủy thác
+@Lĩnh vực: toán & tin
+-cam kết
+-thực hiện thỏa hiệp
+-xác nhận

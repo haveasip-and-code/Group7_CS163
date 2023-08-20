@@ -1,3 +1,8 @@
-ordonnance
-	@ordonnance\n* danh từ\n- (pháp luật) sự bố trí, phối hợp, trình bày\n- pháp lệnh, pháp điển; mệnh lệnh tư pháp\n@Chuyên ngành kỹ thuật\n-mặt chính\n-quy tắc\n-sự bố trí
-
+ordonnance	@ordonnance
+* danh từ
+- (pháp luật) sự bố trí, phối hợp, trình bày
+- pháp lệnh, pháp điển; mệnh lệnh tư pháp
+@Chuyên ngành kỹ thuật
+-mặt chính
+-quy tắc
+-sự bố trí

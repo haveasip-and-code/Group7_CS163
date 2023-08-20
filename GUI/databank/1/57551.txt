@@ -1,3 +1,27 @@
-travelling
-	@travelling /'trævliɳ/\n*  danh từ\n- sự du lịch; cuộc du lịch\n=to be fond of travelling+ thích du lịch\n- sự dời chỗ, sự di chuyển\n- (điện ảnh) sự quay phim trên giá trượt\n!travelling forms a young man\n- đi một ngày đường học một sàng khôn\n*  tính từ\n- (thuộc) sự đi đường, (thuộc) sự du lịch, (thuộc) sự du hành\n=travelling expenses+ phí tổn đi đường\n=in travelling trim+ ăn mặc theo lối đi du lịch\n- nay đây mai đó, đi rong, lưu động\n=travelling crane+ (kỹ thuật) cầu lăn\n@Chuyên ngành kỹ thuật\n-đang chạy\n-đang quay\n-di chuyển\n-dịch chuyển\n-động\n-sự chạy\n-sự chuyển dịch\n-sự di chuyển\n@Lĩnh vực: xây dựng\n-sự di dộng\n@Lĩnh vực: hóa học & vật liệu\n-sự du lịch
-
+travelling	@travelling /'trævliɳ/
+*  danh từ
+- sự du lịch; cuộc du lịch
+=to be fond of travelling+ thích du lịch
+- sự dời chỗ, sự di chuyển
+- (điện ảnh) sự quay phim trên giá trượt
+!travelling forms a young man
+- đi một ngày đường học một sàng khôn
+*  tính từ
+- (thuộc) sự đi đường, (thuộc) sự du lịch, (thuộc) sự du hành
+=travelling expenses+ phí tổn đi đường
+=in travelling trim+ ăn mặc theo lối đi du lịch
+- nay đây mai đó, đi rong, lưu động
+=travelling crane+ (kỹ thuật) cầu lăn
+@Chuyên ngành kỹ thuật
+-đang chạy
+-đang quay
+-di chuyển
+-dịch chuyển
+-động
+-sự chạy
+-sự chuyển dịch
+-sự di chuyển
+@Lĩnh vực: xây dựng
+-sự di dộng
+@Lĩnh vực: hóa học & vật liệu
+-sự du lịch

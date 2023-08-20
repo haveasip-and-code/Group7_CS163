@@ -1,3 +1,2 @@
-monadnock
-	@Chuyên ngành kỹ thuật\n-đồi sót
-
+monadnock	@Chuyên ngành kỹ thuật
+-đồi sót

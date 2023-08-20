@@ -1,3 +1,6 @@
-reporter
-	@reporter /ri'pɔ:tə/\n*  danh từ\n- người báo cáo\n- phóng viên nhà báo\n@Chuyên ngành kinh tế\n-lợi nhuận công bố
-
+reporter	@reporter /ri'pɔ:tə/
+*  danh từ
+- người báo cáo
+- phóng viên nhà báo
+@Chuyên ngành kinh tế
+-lợi nhuận công bố

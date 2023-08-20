@@ -1,3 +1,2 @@
-vizierial
-	@vizierial\n- xem vizier
-
+vizierial	@vizierial
+- xem vizier

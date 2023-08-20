@@ -1,3 +1,9 @@
-seaway
-	@seaway\n* danh từ\n- biển động\n- đường biển\n- đường nước thông ra biển\n- đường đi của con tàu\n@Chuyên ngành kinh tế\n-đường biển\n-đường thông ra biển
-
+seaway	@seaway
+* danh từ
+- biển động
+- đường biển
+- đường nước thông ra biển
+- đường đi của con tàu
+@Chuyên ngành kinh tế
+-đường biển
+-đường thông ra biển

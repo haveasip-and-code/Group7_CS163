@@ -1,3 +1,41 @@
-pen
-	@pen /pen/\n*  danh từ\n- bút lông chim (ngỗng)\n- bút, ngòi bút\n- (nghĩa bóng) nghề cầm bút, nghề viết văn; bút pháp, văn phong\n=to live by one's pen+ sống bằng nghề cầm bút, sống bằng nghề viết văn\n- nhà văn, tác giả\n=the best pens of the day+ những nhà văn ưu tú nhất hiện nay\n*  ngoại động từ\n- viết, sáng tác\n*  danh từ\n- chỗ quây, bâi rào kín (để nhốt trâu, bò, cừu, gà, vịt...)\n- trại đồn điền (ở quần đảo Ăng-ti)\n- (từ Mỹ,nghĩa Mỹ),  (viết tắt) của penitentiary\n!a submarine pen\n- (hàng hải) bến tàu ngầm ((thường) có mái che)\n*  ngoại động từ\n- ((thường) + up,  in) nhốt lại; nhốt (trâu, bò, cừu, gà, vịt) vào chỗ quây\n*  danh từ\n- con thiên nga cái\n@Chuyên ngành kinh tế\n-bãi\n-nhốt trâu bò trong bãi\n-trạm\n@Chuyên ngành kỹ thuật\n-bút\n-đắp đê\n-đồn điền\n-ngòi bút\n-nhà ngoại ô\n@Lĩnh vực: xây dựng\n-bãi chăn nuôi\n-bãi có rào\n-bút kẻ\n-bút mỏ vịt\n-chỗ trú tầu ngầm\n-kẻ bằng bút\n-vẽ bằng mực\n-xây hồ chứa nước\n@Lĩnh vực: cơ khí & công trình\n-đê quai (quây hố móng thi công)
-
+pen	@pen /pen/
+*  danh từ
+- bút lông chim (ngỗng)
+- bút, ngòi bút
+- (nghĩa bóng) nghề cầm bút, nghề viết văn; bút pháp, văn phong
+=to live by one's pen+ sống bằng nghề cầm bút, sống bằng nghề viết văn
+- nhà văn, tác giả
+=the best pens of the day+ những nhà văn ưu tú nhất hiện nay
+*  ngoại động từ
+- viết, sáng tác
+*  danh từ
+- chỗ quây, bâi rào kín (để nhốt trâu, bò, cừu, gà, vịt...)
+- trại đồn điền (ở quần đảo Ăng-ti)
+- (từ Mỹ,nghĩa Mỹ),  (viết tắt) của penitentiary
+!a submarine pen
+- (hàng hải) bến tàu ngầm ((thường) có mái che)
+*  ngoại động từ
+- ((thường) + up,  in) nhốt lại; nhốt (trâu, bò, cừu, gà, vịt) vào chỗ quây
+*  danh từ
+- con thiên nga cái
+@Chuyên ngành kinh tế
+-bãi
+-nhốt trâu bò trong bãi
+-trạm
+@Chuyên ngành kỹ thuật
+-bút
+-đắp đê
+-đồn điền
+-ngòi bút
+-nhà ngoại ô
+@Lĩnh vực: xây dựng
+-bãi chăn nuôi
+-bãi có rào
+-bút kẻ
+-bút mỏ vịt
+-chỗ trú tầu ngầm
+-kẻ bằng bút
+-vẽ bằng mực
+-xây hồ chứa nước
+@Lĩnh vực: cơ khí & công trình
+-đê quai (quây hố móng thi công)

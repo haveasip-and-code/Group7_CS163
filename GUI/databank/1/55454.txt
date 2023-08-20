@@ -1,3 +1,6 @@
-takings
-	@Chuyên ngành kinh tế\n-khoản thu\n-số tiền mặt nhận được, bán được\n-tiền bán được\n-tiền nhận được, thu nhập\n-tiền thu được
-
+takings	@Chuyên ngành kinh tế
+-khoản thu
+-số tiền mặt nhận được, bán được
+-tiền bán được
+-tiền nhận được, thu nhập
+-tiền thu được

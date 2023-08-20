@@ -1,3 +1,2 @@
-offcut
-	@Chuyên ngành kỹ thuật\n-phần cắt bỏ
-
+offcut	@Chuyên ngành kỹ thuật
+-phần cắt bỏ

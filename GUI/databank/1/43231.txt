@@ -1,3 +1,3 @@
-prelaunch
-	@prelaunch\n* tính từ\n- chuẩn bị cho việc phóng (tàu vũ trụ)
-
+prelaunch	@prelaunch
+* tính từ
+- chuẩn bị cho việc phóng (tàu vũ trụ)

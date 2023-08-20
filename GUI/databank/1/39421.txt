@@ -1,3 +1,65 @@
-panel
-	@panel /'pænl/\n*  danh từ\n- cán ô (cửa, tường),  panô; ô vải khác màu (trên quần áo đàn bà); mảnh da (cừu, dê... để viết)\n- (pháp lý) danh sách hội thẩm; ban hội thẩm; (Ê-cốt) danh sách báo cáo; danh sách bác sĩ bảo hiểm (đăng ký nhận chữa bệnh nhân theo chế độ bảo hiểm ở Anh)\n- nhóm người tham gia hội thảo, nhóm người tham gia tiết mục "trả lời câu đố" ... (ở đài phát thanh, đài truyền hình); cuộc hội thảo... (ở đài phát thanh, đài truyền hình...)\n- Panô, bức tranh tấm, bức ảnh dài\n- đệm yên ngựa; yên ngựa (không có cốt sắt)\n- bảng,  panen\n=distribution panel+ bảng phân phối\n=control panel+ bảng điều khiển\n=signal panel+ bảng tín hiệu!\n*  ngoại động từ\n- đóng ván ô, đóng panô (cửa, tường)\n- may ô vải màu vào (quần áo)\n- đóng yên (ngựa)\n@Chuyên ngành kỹ thuật\n-bản\n-bàn điều khiển\n-bảng\n-bảng điện\n-bảng điều khiển\n-bảng dụng cụ\n-bảng hiển thị\n-bảng phân phối\n-đế\n-đốt giàn\n-khoang\n-khu nhà lớn\n-khung\n-ô phố\n-panen\n-panô\n-tấm lát đường\n-tấm mặt trước\n-tấm tỳ ngực\n-tranh tường\n-ủy ban\n@Lĩnh vực: xây dựng\n-bảng (điện)\n-ốp panen\n-panen cánh cửa\n-tấm (lớn), panen\n-tấm cửa chắn\n-tấm panen\n-tấm tấm chắn\n-tấm trạm trổ\n-ván ô\n@Lĩnh vực: toán & tin\n-banô\n-đế (đèn)\n@Lĩnh vực: hóa học & vật liệu\n-hội đồng giám khảo\n-ván, ô, panel\n@Lĩnh vực: ô tô\n-khung nhựa\n-tấm (thép)\n-tấm khung xe\n@Lĩnh vực: dệt may\n-miếng khảm\n-miếng tơ\n@Lĩnh vực: cơ khí & công trình\n-panen (dùng trong lắp ráp)\n-tấm bảng\n@Lĩnh vực: điện\n-tủ điện
-
+panel	@panel /'pænl/
+*  danh từ
+- cán ô (cửa, tường),  panô; ô vải khác màu (trên quần áo đàn bà); mảnh da (cừu, dê... để viết)
+- (pháp lý) danh sách hội thẩm; ban hội thẩm; (Ê-cốt) danh sách báo cáo; danh sách bác sĩ bảo hiểm (đăng ký nhận chữa bệnh nhân theo chế độ bảo hiểm ở Anh)
+- nhóm người tham gia hội thảo, nhóm người tham gia tiết mục "trả lời câu đố" ... (ở đài phát thanh, đài truyền hình); cuộc hội thảo... (ở đài phát thanh, đài truyền hình...)
+- Panô, bức tranh tấm, bức ảnh dài
+- đệm yên ngựa; yên ngựa (không có cốt sắt)
+- bảng,  panen
+=distribution panel+ bảng phân phối
+=control panel+ bảng điều khiển
+=signal panel+ bảng tín hiệu!
+*  ngoại động từ
+- đóng ván ô, đóng panô (cửa, tường)
+- may ô vải màu vào (quần áo)
+- đóng yên (ngựa)
+@Chuyên ngành kỹ thuật
+-bản
+-bàn điều khiển
+-bảng
+-bảng điện
+-bảng điều khiển
+-bảng dụng cụ
+-bảng hiển thị
+-bảng phân phối
+-đế
+-đốt giàn
+-khoang
+-khu nhà lớn
+-khung
+-ô phố
+-panen
+-panô
+-tấm lát đường
+-tấm mặt trước
+-tấm tỳ ngực
+-tranh tường
+-ủy ban
+@Lĩnh vực: xây dựng
+-bảng (điện)
+-ốp panen
+-panen cánh cửa
+-tấm (lớn), panen
+-tấm cửa chắn
+-tấm panen
+-tấm tấm chắn
+-tấm trạm trổ
+-ván ô
+@Lĩnh vực: toán & tin
+-banô
+-đế (đèn)
+@Lĩnh vực: hóa học & vật liệu
+-hội đồng giám khảo
+-ván, ô, panel
+@Lĩnh vực: ô tô
+-khung nhựa
+-tấm (thép)
+-tấm khung xe
+@Lĩnh vực: dệt may
+-miếng khảm
+-miếng tơ
+@Lĩnh vực: cơ khí & công trình
+-panen (dùng trong lắp ráp)
+-tấm bảng
+@Lĩnh vực: điện
+-tủ điện

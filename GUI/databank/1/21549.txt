@@ -1,3 +1,27 @@
-flowchart
-	@flowchart\n- (Tech) lưu đồ; biểu đồ trình tự thao tác\n@Chuyên ngành kinh tế\n-biểu đồ diễn tiến\n-biểu đồ quá trình tác nghiệp\n-lưu trình đồ\n@Chuyên ngành kỹ thuật\n-chương trình khối\n-lưu đồ\n-lưu thông\n@Lĩnh vực: điện lạnh\n-bảng khái quát\n@Lĩnh vực: xây dựng\n-địa đồ\n@Lĩnh vực: toán & tin\n-giản đồ luồng\n@Chuyên ngành kỹ thuật\n-chương trình khối\n-lưu đồ\n-lưu thông\n@Lĩnh vực: điện lạnh\n-bảng khái quát\n@Lĩnh vực: xây dựng\n-địa đồ\n@Lĩnh vực: toán & tin\n-giản đồ luồng
-
+flowchart	
+@flowchart
+- (Tech) lưu đồ; biểu đồ trình tự thao tác
+@Chuyên ngành kinh tế
+-biểu đồ diễn tiến
+-biểu đồ quá trình tác nghiệp
+-lưu trình đồ
+@Chuyên ngành kỹ thuật
+-chương trình khối
+-lưu đồ
+-lưu thông
+@Lĩnh vực: điện lạnh
+-bảng khái quát
+@Lĩnh vực: xây dựng
+-địa đồ
+@Lĩnh vực: toán & tin
+-giản đồ luồng
+@Chuyên ngành kỹ thuật
+-chương trình khối
+-lưu đồ
+-lưu thông
+@Lĩnh vực: điện lạnh
+-bảng khái quát
+@Lĩnh vực: xây dựng
+-địa đồ
+@Lĩnh vực: toán & tin
+-giản đồ luồng

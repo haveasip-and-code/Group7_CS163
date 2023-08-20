@@ -1,3 +1,7 @@
-regrind
-	@Chuyên ngành kỹ thuật\n-nghiền lại\n-mài bóng\n-mài lại\n-mài nghiền\n@Lĩnh vực: cơ khí & công trình\n-mài sắc lại
-
+regrind	@Chuyên ngành kỹ thuật
+-nghiền lại
+-mài bóng
+-mài lại
+-mài nghiền
+@Lĩnh vực: cơ khí & công trình
+-mài sắc lại

@@ -1,3 +1,13 @@
-altimeter
-	@altimeter /'æltimi:tə/\n*  danh từ\n- cái đo độ cao\n=reflection altimeter+ cái đo độ cao phản xạ\n@Chuyên ngành kỹ thuật\n-cái đo độ cao\n-cao độ kế\n-máy đo áp suất ở độ cao\n-máy đo độ cao\n@Lĩnh vực: điện lạnh\n-cao (độ) kế\n@Lĩnh vực: cơ khí & công trình\n-dụng cụ đo cao
-
+altimeter	@altimeter /'æltimi:tə/
+*  danh từ
+- cái đo độ cao
+=reflection altimeter+ cái đo độ cao phản xạ
+@Chuyên ngành kỹ thuật
+-cái đo độ cao
+-cao độ kế
+-máy đo áp suất ở độ cao
+-máy đo độ cao
+@Lĩnh vực: điện lạnh
+-cao (độ) kế
+@Lĩnh vực: cơ khí & công trình
+-dụng cụ đo cao

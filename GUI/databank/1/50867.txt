@@ -1,3 +1,13 @@
-sinusoid
-	@sinusoid\n* danh từ\n- đường hình sin\n@Chuyên ngành kỹ thuật\n-dạng sin\n-đường sin\n-hình sin\n@Lĩnh vực: toán & tin\n-đường hình sin\n-sóng dạng sin\n-sóng hình sinh\n@Lĩnh vực: y học\n-võng huyết quản
-
+sinusoid	@sinusoid
+* danh từ
+- đường hình sin
+@Chuyên ngành kỹ thuật
+-dạng sin
+-đường sin
+-hình sin
+@Lĩnh vực: toán & tin
+-đường hình sin
+-sóng dạng sin
+-sóng hình sinh
+@Lĩnh vực: y học
+-võng huyết quản

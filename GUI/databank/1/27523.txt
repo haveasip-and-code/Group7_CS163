@@ -1,3 +1,5 @@
-impounding
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sự chặn dòng\n-sự ngăn dòng
-
+impounding	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sự chặn dòng
+-sự ngăn dòng

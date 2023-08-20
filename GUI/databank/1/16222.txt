@@ -1,3 +1,24 @@
-ditcher
-	@ditcher /'ditʃə/\n*  ngoại động từ\n- đào hào quanh, đào rãnh quanh\n- tưới tiêu bằng mương; dẫn (nước...) bằng mương\n- lật (xe) xuống hào\n- (từ Mỹ,nghĩa Mỹ) làm cho (xe lửa) trật đường ray\n- (từ lóng) bỏ rơi (ai) trong lúc khó khăn\n- (hàng không),  (từ lóng) bắt phải đổ xuống biển\n*  nội động từ\n- đào hào, đào rãnh, đào mương; sửa hào, sửa rãnh, sửa mương\n- lật xuống hào (xe cộ)\n- (từ Mỹ,nghĩa Mỹ) trật đường ray (xe lửa)\n- (hàng không),  (từ lóng) buộc phải hạ cánh xuống biển\n*  danh từ\n- người đào hào, người đào rãnh, người đào mương; người sửa hào, người sửa rãnh, người sửa mương\n- máy đào hào, máy đào mương\n@Chuyên ngành kỹ thuật\n-máy đào hào\n-máy đào kênh\n-máy đào mương\n-máy xẻ rãnh\n@Lĩnh vực: xây dựng\n-người đào mương
-
+ditcher	
+@ditcher /'ditʃə/
+*  ngoại động từ
+- đào hào quanh, đào rãnh quanh
+- tưới tiêu bằng mương; dẫn (nước...) bằng mương
+- lật (xe) xuống hào
+- (từ Mỹ,nghĩa Mỹ) làm cho (xe lửa) trật đường ray
+- (từ lóng) bỏ rơi (ai) trong lúc khó khăn
+- (hàng không),  (từ lóng) bắt phải đổ xuống biển
+*  nội động từ
+- đào hào, đào rãnh, đào mương; sửa hào, sửa rãnh, sửa mương
+- lật xuống hào (xe cộ)
+- (từ Mỹ,nghĩa Mỹ) trật đường ray (xe lửa)
+- (hàng không),  (từ lóng) buộc phải hạ cánh xuống biển
+*  danh từ
+- người đào hào, người đào rãnh, người đào mương; người sửa hào, người sửa rãnh, người sửa mương
+- máy đào hào, máy đào mương
+@Chuyên ngành kỹ thuật
+-máy đào hào
+-máy đào kênh
+-máy đào mương
+-máy xẻ rãnh
+@Lĩnh vực: xây dựng
+-người đào mương

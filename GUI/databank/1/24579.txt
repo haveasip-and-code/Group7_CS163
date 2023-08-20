@@ -1,3 +1,12 @@
-gunite
-	@gunite\n* danh từ\n- bê tông phun\n* động từ\n- phun vữa, phun xi măng\n@Chuyên ngành kỹ thuật\n-bê tông phun\n-vữa phun\n@Lĩnh vực: xây dựng\n-phun bêtông\n-phun vữa
-
+gunite	
+@gunite
+* danh từ
+- bê tông phun
+* động từ
+- phun vữa, phun xi măng
+@Chuyên ngành kỹ thuật
+-bê tông phun
+-vữa phun
+@Lĩnh vực: xây dựng
+-phun bêtông
+-phun vữa

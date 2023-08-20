@@ -1,3 +1,4 @@
-sedge
-	@sedge /sedz/\n*  danh từ\n- (thực vật học) cây cói túi\n- bãi cói túi
-
+sedge	@sedge /sedz/
+*  danh từ
+- (thực vật học) cây cói túi
+- bãi cói túi

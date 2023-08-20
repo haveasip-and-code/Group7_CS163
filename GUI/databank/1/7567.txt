@@ -1,3 +1,12 @@
-calking
-	@Chuyên ngành kỹ thuật\n-can\n-sự trét\n-sự xảm\n@Lĩnh vực: xây dựng\n-sự trám kín\n-sự trét kín\n@Lĩnh vực: toán & tin\n-sự trám kính\n@Lĩnh vực: hóa học & vật liệu\n-vẽ lại
-
+calking	
+@Chuyên ngành kỹ thuật
+-can
+-sự trét
+-sự xảm
+@Lĩnh vực: xây dựng
+-sự trám kín
+-sự trét kín
+@Lĩnh vực: toán & tin
+-sự trám kính
+@Lĩnh vực: hóa học & vật liệu
+-vẽ lại

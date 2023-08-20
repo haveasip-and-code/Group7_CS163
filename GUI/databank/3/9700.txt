@@ -1,3 +1,4 @@
-cleanness
-	@cleanness /'kli:nnis/\n*  danh từ\n- sự sạch sẽ\n- sự trong sạch
-
+cleanness	@cleanness /'kli:nnis/
+*  danh từ
+- sự sạch sẽ
+- sự trong sạch

@@ -1,3 +1,8 @@
-ammeter
-	@ammeter /'æmitə/\n*  danh từ\n- (điện học) cái đo ampe\n=hatwire (thermal) ammeter+ cái đo ampe nhiệt điện\n=electromagnetic ammeter+ cái đo ampe điện từ\n@Chuyên ngành kỹ thuật\n-ampe kế
-
+ammeter	
+@ammeter /'æmitə/
+*  danh từ
+- (điện học) cái đo ampe=hatwire (thermal) ammeter
++ cái đo ampe nhiệt điện=electromagnetic ammeter
++ cái đo ampe điện từ
+@Chuyên ngành kỹ thuật
+-ampe kế

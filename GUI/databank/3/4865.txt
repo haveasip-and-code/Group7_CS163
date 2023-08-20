@@ -1,3 +1,10 @@
-bast
-	@bast /bæst/\n*  danh từ\n- (thực vật học) libe\n- sợi libe, sợi vỏ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sợi libe\n@Lĩnh vực: xây dựng\n-sợi vỏ\n-sợi vỏ cây
-
+bast	@bast /bæst/
+*  danh từ
+- (thực vật học) libe
+- sợi libe, sợi vỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sợi libe
+@Lĩnh vực: xây dựng
+-sợi vỏ
+-sợi vỏ cây

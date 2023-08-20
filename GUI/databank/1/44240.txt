@@ -1,3 +1,5 @@
-protecting
-	@Chuyên ngành kỹ thuật\n-an toàn\n-bảo hiểm\n-bảo vệ\n-phòng ngừa
-
+protecting	@Chuyên ngành kỹ thuật
+-an toàn
+-bảo hiểm
+-bảo vệ
+-phòng ngừa

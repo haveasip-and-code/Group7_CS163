@@ -1,3 +1,26 @@
-cook
-	@cook /kuk/\n*  danh từ\n- người nấu ăn, người làm bếp, cấp dưỡng, anh nuôi\n!too many cooks spoil the broth\n- (tục ngữ) lắm thầy thối ma\n*  ngoại động từ\n- nấu, nấu chín\n- (thông tục) giả mạo, gian lận, khai gian (những khoản chi tiêu...)\n=to cook an election+ gian lận trong cuộc bầu cử\n- (từ lóng) ((thường) động tính từ quá khứ) làm kiệt sức, làm mệt phờ (một vận động viên chạy...)\n=to be cooked+ bị kiệt sức\n*  nội động từ\n- nhà nấu bếp, nấu ăn\n- chín, nấu nhừ\n=these potatoes do not cook well+ khoai tây này khó nấu nhừ\n!to cook off\n- nóng quá bị nổ, nổ vì nóng quá (đun...)\n!to cook up\n- bịa ra, tưởng tượng ra, bày đặt ra (câu chuyện...)\n- dự tính, ngấm ngầm, bày (mưu)\n!to cook somebody's goose\n- (từ lóng) giết ai, khử ai đi\n@Chuyên ngành kinh tế\n-nấu\n-người nấu\n-sự nấu
-
+cook	@cook /kuk/
+*  danh từ
+- người nấu ăn, người làm bếp, cấp dưỡng, anh nuôi
+!too many cooks spoil the broth
+- (tục ngữ) lắm thầy thối ma
+*  ngoại động từ
+- nấu, nấu chín
+- (thông tục) giả mạo, gian lận, khai gian (những khoản chi tiêu...)
+=to cook an election+ gian lận trong cuộc bầu cử
+- (từ lóng) ((thường) động tính từ quá khứ) làm kiệt sức, làm mệt phờ (một vận động viên chạy...)
+=to be cooked+ bị kiệt sức
+*  nội động từ
+- nhà nấu bếp, nấu ăn
+- chín, nấu nhừ
+=these potatoes do not cook well+ khoai tây này khó nấu nhừ
+!to cook off
+- nóng quá bị nổ, nổ vì nóng quá (đun...)
+!to cook up
+- bịa ra, tưởng tượng ra, bày đặt ra (câu chuyện...)
+- dự tính, ngấm ngầm, bày (mưu)
+!to cook somebody's goose
+- (từ lóng) giết ai, khử ai đi
+@Chuyên ngành kinh tế
+-nấu
+-người nấu
+-sự nấu

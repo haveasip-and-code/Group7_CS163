@@ -1,3 +1,5 @@
-points
-	@Chuyên ngành kỹ thuật\n-vị trí\n-vít lửa\n@Lĩnh vực: ô tô\n-bộ vít lửa
-
+points	@Chuyên ngành kỹ thuật
+-vị trí
+-vít lửa
+@Lĩnh vực: ô tô
+-bộ vít lửa

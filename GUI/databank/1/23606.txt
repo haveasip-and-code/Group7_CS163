@@ -1,3 +1,12 @@
-glitch
-	@glitch\n- (Tech) sự cố nhỏ, trục trặc\n@Chuyên ngành kinh tế\n-đột biến điện\n@Chuyên ngành kỹ thuật\n-nhiễu sọc ngang\n-sự chạy không đều\n-sự trục trặc\n-sự vọt tăng\n@Lĩnh vực: xây dựng\n-trào diện
-
+glitch	
+@glitch
+- (Tech) sự cố nhỏ, trục trặc
+@Chuyên ngành kinh tế
+-đột biến điện
+@Chuyên ngành kỹ thuật
+-nhiễu sọc ngang
+-sự chạy không đều
+-sự trục trặc
+-sự vọt tăng
+@Lĩnh vực: xây dựng
+-trào diện

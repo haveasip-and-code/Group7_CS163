@@ -1,3 +1,2 @@
-permanentness
-	@permanentness\n- xem permanent
-
+permanentness	@permanentness
+- xem permanent

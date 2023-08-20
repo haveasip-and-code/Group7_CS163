@@ -1,3 +1,58 @@
-clip
-	@clip /klip/\n*  danh từ\n- cái ghim, cái cặp, cái kẹp\n=paper clip+ cái kẹp giấy\n- (quân sự) cái nạp đạn\n*  ngoại động từ\n- sự xén, sự cắt, sự hớt (lông cừu)\n- mớ lông (cừu...) xén ra\n- cú đánh mạnh, cú quật mạnh\n- (số nhiều) kéo xén; tông-đơ; cái bấm móng tay\n*  ngoại động từ\n- cắt, cắt rời ra, xén, hớt (lông cừu, ngựa)\n=to clip sheep+ xén lông cừu\n- rút ngắn, cô lại\n=to clip a speech+ rút ngắn bài nói\n- bấm, xé đầu (vé, phiếu... để loại đi)\n- nuốt, bỏ bớt, đọc không rõ\n=to clip one's words+ đọc nhanh nuốt chữ đi\n- (từ lóng) đấm mạnh, đánh, nện\n*  danh từ\n- sự đi nhanh\n=at a fast clip+ đi rất nhanh\n- (từ Mỹ,nghĩa Mỹ) đứa bé láo xược, ranh con hỗn xược\n*  nội động từ\n- đi nhanh; chạy\n@Chuyên ngành kinh tế\n-cái cặp\n-cái ghim\n-cái kẹp\n-đoạn phim xen kẽ\n@Chuyên ngành kỹ thuật\n-cái kẹp\n-cốt đai\n-cốt thép đai\n-đoạn\n-gá kẹp\n-ghim\n-kẹp\n-kẹp nối\n-móc\n-siết\n-sự cắt\n-sự kẹp\n-sự móc\n-sự xén\n-sửa mép\n-vòng kẹp\n-vòng kẹp ống\n-vòng siết\n-xén\n@Lĩnh vực: xây dựng\n-cái kẹp dây cáp\n@Lĩnh vực: toán & tin\n-cặp lại\n-kẹp lại\n-phép tách
-
+clip	
+@clip /klip/
+*  danh từ
+- cái ghim, cái cặp, cái kẹp=paper clip
++ cái kẹp giấy
+- (quân sự) cái nạp đạn
+*  ngoại động từ
+- sự xén, sự cắt, sự hớt (lông cừu)
+- mớ lông (cừu...) xén ra
+- cú đánh mạnh, cú quật mạnh
+- (số nhiều) kéo xén; tông
+-đơ; cái bấm móng tay
+*  ngoại động từ
+- cắt, cắt rời ra, xén, hớt (lông cừu, ngựa)=to clip sheep
++ xén lông cừu
+- rút ngắn, cô lại=to clip a speech
++ rút ngắn bài nói
+- bấm, xé đầu (vé, phiếu... để loại đi)
+- nuốt, bỏ bớt, đọc không rõ=to clip one's words
++ đọc nhanh nuốt chữ đi
+- (từ lóng) đấm mạnh, đánh, nện
+*  danh từ
+- sự đi nhanh=at a fast clip
++ đi rất nhanh
+- (từ Mỹ,nghĩa Mỹ) đứa bé láo xược, ranh con hỗn xược
+*  nội động từ
+- đi nhanh; chạy
+@Chuyên ngành kinh tế
+-cái cặp
+-cái ghim
+-cái kẹp
+-đoạn phim xen kẽ
+@Chuyên ngành kỹ thuật
+-cái kẹp
+-cốt đai
+-cốt thép đai
+-đoạn
+-gá kẹp
+-ghim
+-kẹp
+-kẹp nối
+-móc
+-siết
+-sự cắt
+-sự kẹp
+-sự móc
+-sự xén
+-sửa mép
+-vòng kẹp
+-vòng kẹp ống
+-vòng siết
+-xén
+@Lĩnh vực: xây dựng
+-cái kẹp dây cáp
+@Lĩnh vực: toán & tin
+-cặp lại
+-kẹp lại
+-phép tách

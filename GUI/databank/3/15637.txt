@@ -1,3 +1,19 @@
-disassemble
-	@disassemble /'disə'sembl/\n*  ngoại động từ\n- (kỹ thuật) tháo ra, tháo rời\n@Chuyên ngành kỹ thuật\n-bóc\n-phân chia\n-phân tách\n-tháo dỡ\n-tháo ra\n-vặn ra\n@Lĩnh vực: cơ khí & công trình\n-dỡ dời\n-rỡ\n@Lĩnh vực: xây dựng\n-gỡ (máy)\n@Lĩnh vực: điện tử & viễn thông\n-phân dải\n@Lĩnh vực: điện\n-tháo dời
-
+disassemble	@disassemble /'disə'sembl/
+*  ngoại động từ
+- (kỹ thuật) tháo ra, tháo rời
+@Chuyên ngành kỹ thuật
+-bóc
+-phân chia
+-phân tách
+-tháo dỡ
+-tháo ra
+-vặn ra
+@Lĩnh vực: cơ khí & công trình
+-dỡ dời
+-rỡ
+@Lĩnh vực: xây dựng
+-gỡ (máy)
+@Lĩnh vực: điện tử & viễn thông
+-phân dải
+@Lĩnh vực: điện
+-tháo dời

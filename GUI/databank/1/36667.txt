@@ -1,3 +1,15 @@
-neutrality
-	@neutrality /nju:'træliti/\n*  danh từ\n- tính chất trung lập; thái độ trung lập\n- (hoá học) trung tính\n@Chuyên ngành kinh tế\n-sự trung lập\n-tính cách trung lập\n-tình trạng trung lập\n-tính trung lập\n-trung tính\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tính trung hòa\n@Lĩnh vực: xây dựng\n-tính trung lập
-
+neutrality	@neutrality /nju:'træliti/
+*  danh từ
+- tính chất trung lập; thái độ trung lập
+- (hoá học) trung tính
+@Chuyên ngành kinh tế
+-sự trung lập
+-tính cách trung lập
+-tình trạng trung lập
+-tính trung lập
+-trung tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tính trung hòa
+@Lĩnh vực: xây dựng
+-tính trung lập

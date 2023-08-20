@@ -1,3 +1,23 @@
-armour
-	@armour /'ɑ:mə/\n*  danh từ\n- áo giáp\n- (quân sự) vỏ sắt (xe bọc sắt...)\n- các loại xe bọc sắt\n- áo lặn\n- (sinh vật học) giáp vỏ sắt\n- huy hiệu ((cũng) coat armour)\n*  ngoại động từ\n- bọc sắt (xe bọc sắt...)\n@Chuyên ngành kinh tế\n-vỏ\n@Chuyên ngành kỹ thuật\n-bọc thép\n-vỏ bọc thép\n-vỏ thép\n@Lĩnh vực: cơ khí & công trình\n-áo giáp\n@Lĩnh vực: xây dựng\n-giáp\n@Lĩnh vực: điện\n-vỏ sắt
-
+armour	
+@armour /'ɑ:mə/
+*  danh từ
+- áo giáp
+- (quân sự) vỏ sắt (xe bọc sắt...)
+- các loại xe bọc sắt
+- áo lặn
+- (sinh vật học) giáp vỏ sắt
+- huy hiệu ((cũng) coat armour)
+*  ngoại động từ
+- bọc sắt (xe bọc sắt...)
+@Chuyên ngành kinh tế
+-vỏ
+@Chuyên ngành kỹ thuật
+-bọc thép
+-vỏ bọc thép
+-vỏ thép
+@Lĩnh vực: cơ khí & công trình
+-áo giáp
+@Lĩnh vực: xây dựng
+-giáp
+@Lĩnh vực: điện
+-vỏ sắt

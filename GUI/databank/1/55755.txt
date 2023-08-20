@@ -1,3 +1,15 @@
-technician
-	@technician /tek'niʃn/\n*  danh từ\n- nhà kỹ thuật, nhà chuyên môn\n@Chuyên ngành kinh tế\n-chuyên gia kỹ thuật\n-kỹ sư\n-kỹ thuật viên\n-nhân viên kỹ thuật\n@Chuyên ngành kỹ thuật\n-chuyên viên kỹ thuật\n-kỹ thuật viên\n@Lĩnh vực: xây dựng\n-kỹ thuật gia\n@Lĩnh vực: cơ khí & công trình\n-nhà kỹ thuật
-
+technician	@technician /tek'niʃn/
+*  danh từ
+- nhà kỹ thuật, nhà chuyên môn
+@Chuyên ngành kinh tế
+-chuyên gia kỹ thuật
+-kỹ sư
+-kỹ thuật viên
+-nhân viên kỹ thuật
+@Chuyên ngành kỹ thuật
+-chuyên viên kỹ thuật
+-kỹ thuật viên
+@Lĩnh vực: xây dựng
+-kỹ thuật gia
+@Lĩnh vực: cơ khí & công trình
+-nhà kỹ thuật

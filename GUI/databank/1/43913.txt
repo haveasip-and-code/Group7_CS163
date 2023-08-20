@@ -1,3 +1,26 @@
-programming
-	@programming\n- chương trình hoá, kế hoạch hoá, quy hoạch\n- automatic p. chương trình hoá tự động\n- computer p. lập chương trình cho máy tính\n- dynamic(al) p. quy hoạch động\n- linear p. quy hoạch tuyến tính\n- pattern recognition p. chương trình hoá việc nhận ra mẫu\n@Chuyên ngành kỹ thuật\n-lập trình\n-quy hoạch\n-sự lập chương trình\n-sự lập kế hoạch\n-sự lập trình\n-sự quy hoạch\n@Lĩnh vực: điện lạnh\n-chương trình hóa\n@Lĩnh vực: toán & tin\n-kế hoạch hóa\n-soạn chương trình\n-soạn thảo chương trình\n-sự chương trình hóa\n@Lĩnh vực: xây dựng\n-sự kế hoạch hóa\n-sự lập (chương) trình\n@Lĩnh vực: điện\n-việc lập trình
-
+programming	@programming
+- chương trình hoá, kế hoạch hoá, quy hoạch
+- automatic p. chương trình hoá tự động
+- computer p. lập chương trình cho máy tính
+- dynamic(al) p. quy hoạch động
+- linear p. quy hoạch tuyến tính
+- pattern recognition p. chương trình hoá việc nhận ra mẫu
+@Chuyên ngành kỹ thuật
+-lập trình
+-quy hoạch
+-sự lập chương trình
+-sự lập kế hoạch
+-sự lập trình
+-sự quy hoạch
+@Lĩnh vực: điện lạnh
+-chương trình hóa
+@Lĩnh vực: toán & tin
+-kế hoạch hóa
+-soạn chương trình
+-soạn thảo chương trình
+-sự chương trình hóa
+@Lĩnh vực: xây dựng
+-sự kế hoạch hóa
+-sự lập (chương) trình
+@Lĩnh vực: điện
+-việc lập trình

@@ -1,3 +1,7 @@
-dressed
-	@Chuyên ngành kinh tế\n-giữ tươi\n-làm tươi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-được làm tươi
-
+dressed	
+@Chuyên ngành kinh tế
+-giữ tươi
+-làm tươi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-được làm tươi

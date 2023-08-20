@@ -1,3 +1,14 @@
-plastering
-	@plastering\n* danh từ\n- việc trát vữa\n- lớp vữa trát\n@Chuyên ngành kỹ thuật\n-lớp bọc\n-sự trát\n-sự trát vữa\n-trát vữa\n@Lĩnh vực: xây dựng\n-công việc trát vữa\n-sự trát thạch cao\n@Lĩnh vực: cơ khí & công trình\n-sự trát mặt
-
+plastering	@plastering
+* danh từ
+- việc trát vữa
+- lớp vữa trát
+@Chuyên ngành kỹ thuật
+-lớp bọc
+-sự trát
+-sự trát vữa
+-trát vữa
+@Lĩnh vực: xây dựng
+-công việc trát vữa
+-sự trát thạch cao
+@Lĩnh vực: cơ khí & công trình
+-sự trát mặt

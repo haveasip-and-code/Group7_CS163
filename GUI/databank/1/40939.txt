@@ -1,3 +1,17 @@
-petition
-	@petition /pi'tiʃn/\n*  danh từ\n- sự cầu xin, sự thỉnh cầu\n- đơn xin, đơn thỉnh cầu; kiến nghị\n- (pháp lý) đơn\n*  ngoại động từ\n- làm đơn xin, làm đơn thỉnh cầu; viết kiến nghị cho\n*  nội động từ\n- cầu xin, thỉnh cầu; kiến nghị\n=to petition for something+ thỉnh cầu cái gì; kiến nghị cái gì\n=to petition to be allowed to do something+ xin phép được làm gì\n@Chuyên ngành kinh tế\n-đơn xin\n-sự thỉnh cầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kiến nghị
-
+petition	@petition /pi'tiʃn/
+*  danh từ
+- sự cầu xin, sự thỉnh cầu
+- đơn xin, đơn thỉnh cầu; kiến nghị
+- (pháp lý) đơn
+*  ngoại động từ
+- làm đơn xin, làm đơn thỉnh cầu; viết kiến nghị cho
+*  nội động từ
+- cầu xin, thỉnh cầu; kiến nghị
+=to petition for something+ thỉnh cầu cái gì; kiến nghị cái gì
+=to petition to be allowed to do something+ xin phép được làm gì
+@Chuyên ngành kinh tế
+-đơn xin
+-sự thỉnh cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-kiến nghị

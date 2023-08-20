@@ -1,3 +1,12 @@
-resonator
-	@resonator /'rezəneitə/\n*  danh từ\n- (vật lý) cái cộng hưởng\n@Chuyên ngành kỹ thuật\n-bộ cộng hưởng\n-buồng cộng hưởng\n@Lĩnh vực: xây dựng\n-hộp cộng hưởng\n@Lĩnh vực: ô tô\n-ống pô thứ nhất (loại 2 pô nối tiếp)\n@Lĩnh vực: điện lạnh\n-vật cộng hưởng
-
+resonator	@resonator /'rezəneitə/
+*  danh từ
+- (vật lý) cái cộng hưởng
+@Chuyên ngành kỹ thuật
+-bộ cộng hưởng
+-buồng cộng hưởng
+@Lĩnh vực: xây dựng
+-hộp cộng hưởng
+@Lĩnh vực: ô tô
+-ống pô thứ nhất (loại 2 pô nối tiếp)
+@Lĩnh vực: điện lạnh
+-vật cộng hưởng

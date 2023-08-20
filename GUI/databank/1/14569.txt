@@ -1,3 +1,25 @@
-depletion
-	@depletion /di'pli:ʃn/\n*  danh từ\n- sự tháo hết ra, sự rút hết ra, sự xả hết ra; sự làm rỗng không\n- sự làm suy yếu, sự làm kiệt (sức...)\n- (y học) sự tản máu; sự tiêu dịch\n@Chuyên ngành kinh tế\n-hao mòn\n-khan hiếm đi (tài nguyên . . .)\n-khô kiệt\n-mức cạn kiệt\n-sự tổn hao\n@Chuyên ngành kỹ thuật\n-sự cạn\n-sự cạn kiệt\n-sự làm cạn\n-sự làm nghèo\n-sự nghèo\n-sự thiếu hụt\n-sự xả hết\n@Lĩnh vực: hóa học & vật liệu\n-hút cạn\n-làm nghèo (quặng)\n@Lĩnh vực: vật lý\n-sự nghèo (quặng)
-
+depletion	
+@depletion /di'pli:ʃn/
+*  danh từ
+- sự tháo hết ra, sự rút hết ra, sự xả hết ra; sự làm rỗng không
+- sự làm suy yếu, sự làm kiệt (sức...)
+- (y học) sự tản máu; sự tiêu dịch
+@Chuyên ngành kinh tế
+-hao mòn
+-khan hiếm đi (tài nguyên . . .)
+-khô kiệt
+-mức cạn kiệt
+-sự tổn hao
+@Chuyên ngành kỹ thuật
+-sự cạn
+-sự cạn kiệt
+-sự làm cạn
+-sự làm nghèo
+-sự nghèo
+-sự thiếu hụt
+-sự xả hết
+@Lĩnh vực: hóa học & vật liệu
+-hút cạn
+-làm nghèo (quặng)
+@Lĩnh vực: vật lý
+-sự nghèo (quặng)

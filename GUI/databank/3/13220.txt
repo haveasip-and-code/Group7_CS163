@@ -1,3 +1,4 @@
-customise
-	@customise\n* động từ\n- làm theo yêu cầu của khách hàng\n- <tin> tùy biến
-
+customise	@customise
+* động từ
+- làm theo yêu cầu của khách hàng
+- <tin> tùy biến

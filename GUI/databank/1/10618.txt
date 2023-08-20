@@ -1,3 +1,22 @@
-compactness
-	@compactness /kəm'pæktnis/\n*  danh từ\n- tính rắn chắc; tính chắc nịch\n- độ chặt\n- (văn học) tính cô động, tính súc tích\n@Chuyên ngành kỹ thuật\n-độ chắc sít\n-độ chặt\n-độ compac\n-độ khít\n@Lĩnh vực: xây dựng\n-độ chặt (địa chất)\n-độ đặc chắc\n-độ đầm chặc\n-độ đầm lăn\n-mật độ{ cư trú}\n-sự hợp khối\n-tính đặc chắc\n@Lĩnh vực: toán & tin\n-tính compac\n-tính compact
-
+compactness	
+@compactness /kəm'pæktnis/
+*  danh từ
+- tính rắn chắc; tính chắc nịch
+- độ chặt
+- (văn học) tính cô động, tính súc tích
+@Chuyên ngành kỹ thuật
+-độ chắc sít
+-độ chặt
+-độ compac
+-độ khít
+@Lĩnh vực: xây dựng
+-độ chặt (địa chất)
+-độ đặc chắc
+-độ đầm chặc
+-độ đầm lăn
+-mật độ{ cư trú}
+-sự hợp khối
+-tính đặc chắc
+@Lĩnh vực: toán & tin
+-tính compac
+-tính compact

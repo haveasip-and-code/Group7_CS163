@@ -1,3 +1,6 @@
-hardtop
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-nóc cứng\n-mui cố định\n-mui cứng
-
+hardtop	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-nóc cứng
+-mui cố định
+-mui cứng

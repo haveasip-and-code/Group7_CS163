@@ -1,3 +1,6 @@
-canape
-	@canape\n* danh từ\n- bánh dùng chung với thức uống tại một buổi tiệc\n@Chuyên ngành kinh tế\n-bánh mì trứng rán
-
+canape	
+@canape
+* danh từ
+- bánh dùng chung với thức uống tại một buổi tiệc
+@Chuyên ngành kinh tế
+-bánh mì trứng rán

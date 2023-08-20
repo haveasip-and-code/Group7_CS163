@@ -1,3 +1,2 @@
-management
-	@management\n- sự quản lý, sự lãnh đạo
-
+management	@management
+- sự quản lý, sự lãnh đạo

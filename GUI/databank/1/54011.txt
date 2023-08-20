@@ -1,3 +1,2 @@
-subcutis
-	@Chuyên ngành kỹ thuật\n-mô dưới da
-
+subcutis	@Chuyên ngành kỹ thuật
+-mô dưới da

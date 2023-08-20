@@ -1,3 +1,8 @@
-prefabrication
-	@prefabrication\n* danh từ\n- tình trạng được làm sẵn, tình trạng được đúc sẵn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự chế tạo sẵn\n@Lĩnh vực: giao thông & vận tải\n-sự chế tạo sơ bộ (đóng tàu)
-
+prefabrication	@prefabrication
+* danh từ
+- tình trạng được làm sẵn, tình trạng được đúc sẵn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự chế tạo sẵn
+@Lĩnh vực: giao thông & vận tải
+-sự chế tạo sơ bộ (đóng tàu)

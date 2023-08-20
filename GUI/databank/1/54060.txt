@@ -1,3 +1,3 @@
-subinterval
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-khoảng con
-
+subinterval	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-khoảng con

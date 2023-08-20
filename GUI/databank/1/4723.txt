@@ -1,3 +1,5 @@
-bargeboard
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gỗ diềm\n-ván diềm
-
+bargeboard	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-gỗ diềm
+-ván diềm

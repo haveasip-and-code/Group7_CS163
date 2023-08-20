@@ -1,3 +1,4 @@
-drivability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-khả năng lái
-
+drivability	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-khả năng lái

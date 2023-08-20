@@ -1,3 +1,10 @@
-parallax
-	@parallax /'pærəlæks/\n*  danh từ\n- thị sai\n=annual parallax+ thị sai hằng năm\n=horizontal parallax+ thị sai chân trời\n=optical parallax+ thị sai\n=spectroscopic parallax+ thị sai quang phổ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thị sai
-
+parallax	@parallax /'pærəlæks/
+*  danh từ
+- thị sai
+=annual parallax+ thị sai hằng năm
+=horizontal parallax+ thị sai chân trời
+=optical parallax+ thị sai
+=spectroscopic parallax+ thị sai quang phổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thị sai

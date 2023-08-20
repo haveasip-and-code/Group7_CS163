@@ -1,3 +1,3 @@
-agglutinable
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-có thể kết tụ được, dính kết được
-
+agglutinable	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-có thể kết tụ được, dính kết được

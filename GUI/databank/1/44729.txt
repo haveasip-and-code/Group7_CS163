@@ -1,3 +1,2 @@
-punisher
-	@punisher\n- xem punish
-
+punisher	@punisher
+- xem punish

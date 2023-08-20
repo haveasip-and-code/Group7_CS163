@@ -1,3 +1,23 @@
-suppressor
-	@suppressor /sə'presə/\n*  danh từ\n- người đàn áp\n- (kỹ thuật) bộ triệt, máy triệt\n=noise suppressor+ máy triệt tiếng ồn\n@Chuyên ngành kỹ thuật\n-bộ giảm xóc\n-bộ khử\n-bộ triệt\n-bộ triệt (nhiễu)\n@Lĩnh vực: hóa học & vật liệu\n-bộ chống tạm áp\n@Lĩnh vực: ô tô\n-bộ phận chống nhiễu\n@Lĩnh vực: điện lạnh\n-bộ triệt (nhiễu, ồn)\n-điện trở triệt nhiễu (cho thu vô tuyến)\n@Lĩnh vực: toán & tin\n-bộ triệt, bộ khử\n@Lĩnh vực: điện tử & viễn thông\n-bộ xóa\n@Lĩnh vực: cơ khí & công trình\n-máy triệt
-
+suppressor	@suppressor /sə'presə/
+*  danh từ
+- người đàn áp
+- (kỹ thuật) bộ triệt, máy triệt
+=noise suppressor+ máy triệt tiếng ồn
+@Chuyên ngành kỹ thuật
+-bộ giảm xóc
+-bộ khử
+-bộ triệt
+-bộ triệt (nhiễu)
+@Lĩnh vực: hóa học & vật liệu
+-bộ chống tạm áp
+@Lĩnh vực: ô tô
+-bộ phận chống nhiễu
+@Lĩnh vực: điện lạnh
+-bộ triệt (nhiễu, ồn)
+-điện trở triệt nhiễu (cho thu vô tuyến)
+@Lĩnh vực: toán & tin
+-bộ triệt, bộ khử
+@Lĩnh vực: điện tử & viễn thông
+-bộ xóa
+@Lĩnh vực: cơ khí & công trình
+-máy triệt

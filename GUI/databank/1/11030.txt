@@ -1,3 +1,9 @@
-confer
-	@confer /kən'fə:/\n*  ngoại động từ\n- phong, ban\n=to confer a title on somebody+ phong tước cho ai\n*  nội động từ\n- (+ with) bàn bạc, hỏi ý kiến, hội ý\n=to confer with somebody+ bàn bạc với ai, hỏi ý kiến ai
-
+confer	
+@confer /kən'fə:/
+*  ngoại động từ
+- phong, ban=to confer a title on somebody
++ phong tước cho ai
+*  nội động từ
+- (
++ with) bàn bạc, hỏi ý kiến, hội ý=to confer with somebody
++ bàn bạc với ai, hỏi ý kiến ai

@@ -1,3 +1,12 @@
-granule
-	@granule /'grænju:l/\n*  danh từ\n- hột nhỏ\n@Chuyên ngành kinh tế\n-bột nhỏ\n-tấm\n-viên\n@Chuyên ngành kỹ thuật\n-hạt nhỏ\n@Lĩnh vực: xây dựng\n-hạt (nhỏ)
-
+granule	
+@granule /'grænju:l/
+*  danh từ
+- hột nhỏ
+@Chuyên ngành kinh tế
+-bột nhỏ
+-tấm
+-viên
+@Chuyên ngành kỹ thuật
+-hạt nhỏ
+@Lĩnh vực: xây dựng
+-hạt (nhỏ)

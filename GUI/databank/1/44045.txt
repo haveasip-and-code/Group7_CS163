@@ -1,3 +1,2 @@
-pronuclear
-	@pronuclear\n- xem pronucleus
-
+pronuclear	@pronuclear
+- xem pronucleus

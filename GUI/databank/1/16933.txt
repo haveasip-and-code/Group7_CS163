@@ -1,3 +1,41 @@
-duck
-	@duck /dʌk/\n*  danh từ\n- con vịt, vịt cái\n- thịt vịt\n-(thân mật) người yêu quí; người thân mến\n- (thể dục,thể thao) ván trắng (crikê) ((cũng) duck's egg)\n!a lame ducks\n- người tàn tật, người què quặt\n- người vỡ nợ, người phá sản\n- người thất bại\n- (hàng không), lóng máy bay hỏng\n!like a duck in a thunderstorm\n- ngơ ngác thểu não như gà bị bão\n!like water off a duck's back\n- như nước đổ dầu vịt, như nước đổ lá khoai\n!it's a fine for young ducks\n- trời mưa\n!to make ducks and drakes\n- chơi ném thia lia\n!to play ducks and drakes with\n- phung phí\n!to take to something like a duck to water\n- đến chỗ nào (làm cái gì...) cảm thấy được tự do vùng vẫy như cá gặp nước\n!in two shakes of a duck's tall\n- một thoáng, một lát\n*  danh từ\n- vải bông dày (may buồm, áo ngoài của thuỷ thủ)\n- (số nhiều) quần vải bông dày\n*  danh từ\n- (quân sự), thục xe lội nước\n*  danh từ\n- sự ngụp lặn; động tác ngụp lặn\n- động tác cúi (đầu) nhanh, động tác cúi thình lình (để né tránh, để chào...)\n*  nội động từ\n- lặn; ngụp lặn\n- cúi nhanh, cúi thình lình (để né tránh, để chào...)\n*  ngoại động từ\n- dìm (ai) xuống nước\n- cúi nhanh, cúi thình lình (đầu)\n@Chuyên ngành kinh tế\n-con vịt\n-thịt vịt\n@Chuyên ngành kỹ thuật\n-lặn\n@Lĩnh vực: xây dựng\n-sự ngụp lặn\n-vải kĩ thuật\n-xe lội nước
-
+duck	
+@duck /dʌk/
+*  danh từ
+- con vịt, vịt cái
+- thịt vịt
+-(thân mật) người yêu quí; người thân mến
+- (thể dục,thể thao) ván trắng (crikê) ((cũng) duck's egg)!a lame ducks
+- người tàn tật, người què quặt
+- người vỡ nợ, người phá sản
+- người thất bại
+- (hàng không), lóng máy bay hỏng!like a duck in a thunderstorm
+- ngơ ngác thểu não như gà bị bão!like water off a duck's back
+- như nước đổ dầu vịt, như nước đổ lá khoai!it's a fine for young ducks
+- trời mưa!to make ducks and drakes
+- chơi ném thia lia!to play ducks and drakes with
+- phung phí!to take to something like a duck to water
+- đến chỗ nào (làm cái gì...) cảm thấy được tự do vùng vẫy như cá gặp nước!in two shakes of a duck's tall
+- một thoáng, một lát
+*  danh từ
+- vải bông dày (may buồm, áo ngoài của thuỷ thủ)
+- (số nhiều) quần vải bông dày
+*  danh từ
+- (quân sự), thục xe lội nước
+*  danh từ
+- sự ngụp lặn; động tác ngụp lặn
+- động tác cúi (đầu) nhanh, động tác cúi thình lình (để né tránh, để chào...)
+*  nội động từ
+- lặn; ngụp lặn
+- cúi nhanh, cúi thình lình (để né tránh, để chào...)
+*  ngoại động từ
+- dìm (ai) xuống nước
+- cúi nhanh, cúi thình lình (đầu)
+@Chuyên ngành kinh tế
+-con vịt
+-thịt vịt
+@Chuyên ngành kỹ thuật
+-lặn
+@Lĩnh vực: xây dựng
+-sự ngụp lặn
+-vải kĩ thuật
+-xe lội nước

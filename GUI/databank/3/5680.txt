@@ -1,3 +1,16 @@
-biscuit
-	@biscuit /'biskit/\n*  danh từ\n- bánh quy\n- (từ Mỹ,nghĩa Mỹ) bánh quy mặn (thường ăn nóng với bơ); bánh bơ tròn\n- đồ sứ mới nung lần thứ nhất (chưa tráng men)\n- màu bánh quy, màu nâu nhạt\n*  tính từ\n- màu bánh quy, nâu nhạt\n@Chuyên ngành kinh tế\n-bánh mỳ\n@Chuyên ngành kỹ thuật\n-đồ gốm mộc\n@Lĩnh vực: hóa học & vật liệu\n-đồ sứ mới nung lần 1, chưa tráng men\n@Lĩnh vực: cơ khí & công trình\n-khuôn vỏ mỏng (đúc)
-
+biscuit	@biscuit /'biskit/
+*  danh từ
+- bánh quy
+- (từ Mỹ,nghĩa Mỹ) bánh quy mặn (thường ăn nóng với bơ); bánh bơ tròn
+- đồ sứ mới nung lần thứ nhất (chưa tráng men)
+- màu bánh quy, màu nâu nhạt
+*  tính từ
+- màu bánh quy, nâu nhạt
+@Chuyên ngành kinh tế
+-bánh mỳ
+@Chuyên ngành kỹ thuật
+-đồ gốm mộc
+@Lĩnh vực: hóa học & vật liệu
+-đồ sứ mới nung lần 1, chưa tráng men
+@Lĩnh vực: cơ khí & công trình
+-khuôn vỏ mỏng (đúc)

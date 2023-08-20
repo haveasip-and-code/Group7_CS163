@@ -1,3 +1,5 @@
-lat
-	@lat\n* (viết tắt)\n- vĩ tuyến, vĩ độ (latitude)\n- viết tắt\n- vĩ tuyến, vĩ độ (latitude)
-
+lat	@lat
+* (viết tắt)
+- vĩ tuyến, vĩ độ (latitude)
+- viết tắt
+- vĩ tuyến, vĩ độ (latitude)

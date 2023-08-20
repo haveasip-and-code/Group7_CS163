@@ -1,3 +1,25 @@
-equipment
-	@equipment /i'kwipmənt/\n*  danh từ\n- sự trang bị\n- đồ trang bị, thiết bị, dụng cụ, đồ dùng cần thiết (cho một cuộc đi, cho một nhà máy...)\n=electrical equipment+ thiết bị điện\n=control equipment+ thiết bị điều khiển\n- (từ Mỹ,nghĩa Mỹ) những phương tiện vận tải để phân biệt với các loại tài sản khác trong ngành vận tải)\n@Chuyên ngành kinh tế\n-đồ dùng\n-dụng cụ\n-máy\n-tài sản cố định\n-tài sản cố định (của xí nghiệp, trừ phần nhà đất ra)\n-thiết bị\n@Chuyên ngành kỹ thuật\n-bộ dụng cụ\n-dụng cụ\n-phụ tùng\n-thiết bị\n@Chuyên ngành kỹ thuật\n-bộ dụng cụ\n-dụng cụ\n-phụ tùng\n-thiết bị
-
+equipment	
+@equipment /i'kwipmənt/
+*  danh từ
+- sự trang bị
+- đồ trang bị, thiết bị, dụng cụ, đồ dùng cần thiết (cho một cuộc đi, cho một nhà máy...)=electrical equipment
++ thiết bị điện=control equipment
++ thiết bị điều khiển
+- (từ Mỹ,nghĩa Mỹ) những phương tiện vận tải để phân biệt với các loại tài sản khác trong ngành vận tải)
+@Chuyên ngành kinh tế
+-đồ dùng
+-dụng cụ
+-máy
+-tài sản cố định
+-tài sản cố định (của xí nghiệp, trừ phần nhà đất ra)
+-thiết bị
+@Chuyên ngành kỹ thuật
+-bộ dụng cụ
+-dụng cụ
+-phụ tùng
+-thiết bị
+@Chuyên ngành kỹ thuật
+-bộ dụng cụ
+-dụng cụ
+-phụ tùng
+-thiết bị

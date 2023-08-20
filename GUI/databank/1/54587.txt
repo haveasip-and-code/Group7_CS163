@@ -1,3 +1,4 @@
-superclusters
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-siêu quần (sao, thiên hà)\n-siêu tập đoàn
-
+superclusters	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-siêu quần (sao, thiên hà)
+-siêu tập đoàn

@@ -1,3 +1,17 @@
-standpipe
-	@standpipe\n* danh từ\n- (kỹ thuật) ống nước đứng (để cấp nước ở bên ngoài hoặc cách xa các toà nhà)\n- ống đo áp\n- cột lấy nước (để chữa cháy)\n@Chuyên ngành kỹ thuật\n-bình chữa cháy\n-đài nước\n-ống chặn\n-ống dây bùn\n-ống đứng\n-ống nước đứng\n-tháp nước\n-vòi phun nước\n@Lĩnh vực: xây dựng\n-cột nước có áp\n-ống khói gạch
-
+standpipe	@standpipe
+* danh từ
+- (kỹ thuật) ống nước đứng (để cấp nước ở bên ngoài hoặc cách xa các toà nhà)
+- ống đo áp
+- cột lấy nước (để chữa cháy)
+@Chuyên ngành kỹ thuật
+-bình chữa cháy
+-đài nước
+-ống chặn
+-ống dây bùn
+-ống đứng
+-ống nước đứng
+-tháp nước
+-vòi phun nước
+@Lĩnh vực: xây dựng
+-cột nước có áp
+-ống khói gạch

@@ -1,3 +1,5 @@
-pawner
-	@pawner\n- xem pawn\n@Chuyên ngành kinh tế\n-người cầm đồ\n-người đi cầm cố
-
+pawner	@pawner
+- xem pawn
+@Chuyên ngành kinh tế
+-người cầm đồ
+-người đi cầm cố

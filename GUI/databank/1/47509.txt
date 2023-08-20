@@ -1,3 +1,13 @@
-revival
-	@revival /ri'vaivəl/\n*  danh từ\n- sự phục hưng, sự phục hồi (công nghiệp...); sự đem thi hành lại (đạo luật); sự làm sống lại, sự hồi sinh (của một vật)\n=the revival of trade+ sự phục hồi thương nghiệp\n=the revival of an old customs+ sự phục hồi một tục lệ cũ\n- (tôn giáo) sự làm thức tỉnh lại lòng mộ đạo; sự gây lại niềm tin\n@Chuyên ngành kinh tế\n-sự phục hồi (kinh tế)\n-sự phục hồi (kinh tế...)\n@Chuyên ngành kỹ thuật\n-sự phục hồi\n@Lĩnh vực: hóa học & vật liệu\n-sự phục sinh
-
+revival	@revival /ri'vaivəl/
+*  danh từ
+- sự phục hưng, sự phục hồi (công nghiệp...); sự đem thi hành lại (đạo luật); sự làm sống lại, sự hồi sinh (của một vật)
+=the revival of trade+ sự phục hồi thương nghiệp
+=the revival of an old customs+ sự phục hồi một tục lệ cũ
+- (tôn giáo) sự làm thức tỉnh lại lòng mộ đạo; sự gây lại niềm tin
+@Chuyên ngành kinh tế
+-sự phục hồi (kinh tế)
+-sự phục hồi (kinh tế...)
+@Chuyên ngành kỹ thuật
+-sự phục hồi
+@Lĩnh vực: hóa học & vật liệu
+-sự phục sinh

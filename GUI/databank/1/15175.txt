@@ -1,3 +1,36 @@
-diaphragm
-	@diaphragm /'daiəfræm/\n*  danh từ\n- màng chắn, màng ngăn\n- (giải phẫu) cơ hoành\n@Chuyên ngành kỹ thuật\n-dầm ngang\n-khẩu độ\n-màn chắn\n-màn chống thấm\n-màng chắn\n-màng mỏng\n-màng ngăn\n-tường\n-tường ngăn\n-vách (ngăn)\n-vách cứng\n-vách ngăn\n@Lĩnh vực: y học\n-cơ hoành\n@Lĩnh vực: vật lý\n-cữ chặn F\n@Lĩnh vực: điện\n-cửa tiết lưu\n-vành tiết lưu\n@Lĩnh vực: toán & tin\n-điafram\n@Lĩnh vực: điện lạnh\n-điapham\n-màng (ngăn)\n@Lĩnh vực: cơ khí & công trình\n-màng bơm\n@Lĩnh vực: hóa học & vật liệu\n-màng điafam\n@Lĩnh vực: xây dựng\n-tường phân cách
-
+diaphragm	
+@diaphragm /'daiəfræm/
+*  danh từ
+- màng chắn, màng ngăn
+- (giải phẫu) cơ hoành
+@Chuyên ngành kỹ thuật
+-dầm ngang
+-khẩu độ
+-màn chắn
+-màn chống thấm
+-màng chắn
+-màng mỏng
+-màng ngăn
+-tường
+-tường ngăn
+-vách (ngăn)
+-vách cứng
+-vách ngăn
+@Lĩnh vực: y học
+-cơ hoành
+@Lĩnh vực: vật lý
+-cữ chặn F
+@Lĩnh vực: điện
+-cửa tiết lưu
+-vành tiết lưu
+@Lĩnh vực: toán & tin
+-điafram
+@Lĩnh vực: điện lạnh
+-điapham
+-màng (ngăn)
+@Lĩnh vực: cơ khí & công trình
+-màng bơm
+@Lĩnh vực: hóa học & vật liệu
+-màng điafam
+@Lĩnh vực: xây dựng
+-tường phân cách

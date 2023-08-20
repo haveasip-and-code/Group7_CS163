@@ -1,3 +1,28 @@
-triple
-	@triple /'tripl/\n*  tính từ\n- có ba cái, gồm ba phần\n=Triple Alliance+ đồng minh ba nước\n=triple time+ (âm nhạc) nhịp ba\n- ba lần, gấp ba\n*  động từ\n- gấp ba, nhân ba, tăng lên ba lần\n=to triple the income+ tăng thu nhập lên ba lần\n=the output tripled+ sản lượng tăng gấp ba\n@Chuyên ngành kinh tế\n-bộ ba\n-suất ba\n@Chuyên ngành kỹ thuật\n-ba cấu tử\n-ba lần\n-ba nguyên tố\n-ba phần\n-bậc ba\n-gấp ba\n-hóa trị ba\n@Lĩnh vực: điện lạnh\n-ba (lần)\n@Lĩnh vực: toán & tin\n-bội ba\n-nhân 3\n@Lĩnh vực: xây dựng\n-gấp 3
-
+triple	@triple /'tripl/
+*  tính từ
+- có ba cái, gồm ba phần
+=Triple Alliance+ đồng minh ba nước
+=triple time+ (âm nhạc) nhịp ba
+- ba lần, gấp ba
+*  động từ
+- gấp ba, nhân ba, tăng lên ba lần
+=to triple the income+ tăng thu nhập lên ba lần
+=the output tripled+ sản lượng tăng gấp ba
+@Chuyên ngành kinh tế
+-bộ ba
+-suất ba
+@Chuyên ngành kỹ thuật
+-ba cấu tử
+-ba lần
+-ba nguyên tố
+-ba phần
+-bậc ba
+-gấp ba
+-hóa trị ba
+@Lĩnh vực: điện lạnh
+-ba (lần)
+@Lĩnh vực: toán & tin
+-bội ba
+-nhân 3
+@Lĩnh vực: xây dựng
+-gấp 3

@@ -1,3 +1,19 @@
-developer
-	@developer /di'veləpə/\n*  danh từ\n- (nhiếp ảnh) người rửa ảnh; thuốc rửa ảnh\n@Chuyên ngành kinh tế\n-chất hiện hình (trong phân tích sắc ký)\n-chủ (thuê xây dựng) công trình\n@Chuyên ngành kỹ thuật\n-lập trình viên\n-phát triển\n@Lĩnh vực: toán & tin\n-người phát triển\n-thuốc hiện ảnh\n-thuốc rửa ảnh\n@Lĩnh vực: điện lạnh\n-thuốc hiện\n@Lĩnh vực: vật lý\n-thuốc hiện hình\n@Lĩnh vực: xây dựng\n-thuốc tráng phim
-
+developer	@developer /di'veləpə/
+*  danh từ
+- (nhiếp ảnh) người rửa ảnh; thuốc rửa ảnh
+@Chuyên ngành kinh tế
+-chất hiện hình (trong phân tích sắc ký)
+-chủ (thuê xây dựng) công trình
+@Chuyên ngành kỹ thuật
+-lập trình viên
+-phát triển
+@Lĩnh vực: toán & tin
+-người phát triển
+-thuốc hiện ảnh
+-thuốc rửa ảnh
+@Lĩnh vực: điện lạnh
+-thuốc hiện
+@Lĩnh vực: vật lý
+-thuốc hiện hình
+@Lĩnh vực: xây dựng
+-thuốc tráng phim

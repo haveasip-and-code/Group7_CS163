@@ -1,3 +1,7 @@
-minim
-	@minim\n* danh từ\n- đơn vị đong chất lỏng bằng 1 / 6 dram (1 dram = 1 772 g)\n- (âm nhạc) nốt có giá trị thời gian bằng một nốt trắng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đơn vị thể tích dùng trong dược khoa (bằng một phấn mười sáu một drach lỏng)
-
+minim	@minim
+* danh từ
+- đơn vị đong chất lỏng bằng 1 / 6 dram (1 dram = 1 772 g)
+- (âm nhạc) nốt có giá trị thời gian bằng một nốt trắng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đơn vị thể tích dùng trong dược khoa (bằng một phấn mười sáu một drach lỏng)

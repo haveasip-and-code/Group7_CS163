@@ -1,3 +1,10 @@
-shelling
-	@shelling /shelling/\n*  danh từ\n- sự bắn pháo, sự nã pháo\n@Chuyên ngành kinh tế\n-sự bó vỏ\n-sự phá cập\n@Chuyên ngành kỹ thuật\n-sự bóc vỏ\n@Lĩnh vực: cơ khí & công trình\n-sự nứt mặt ngoài (khi co nguội)
-
+shelling	@shelling /shelling/
+*  danh từ
+- sự bắn pháo, sự nã pháo
+@Chuyên ngành kinh tế
+-sự bó vỏ
+-sự phá cập
+@Chuyên ngành kỹ thuật
+-sự bóc vỏ
+@Lĩnh vực: cơ khí & công trình
+-sự nứt mặt ngoài (khi co nguội)

@@ -1,3 +1,4 @@
-haircut
-	@Chuyên ngành kinh tế\n-mức hớt xén\n-mức vay thế chấp
-
+haircut	
+@Chuyên ngành kinh tế
+-mức hớt xén
+-mức vay thế chấp

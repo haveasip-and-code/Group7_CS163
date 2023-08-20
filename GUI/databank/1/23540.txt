@@ -1,3 +1,37 @@
-glass
-	@glass /glɑ:s/\n*  danh từ\n- kính thuỷ tinh\n- đồ dùng bằng thuỷ tinh (nói chung)\n- cái cốc; (một) cốc\n- cái phong vũ biểu ((cũng) weather glass)\n- ống nhòm\n- thấu kính\n- mặt kính (đồng hồ, cửa sổ)\n- nhà kính (trồng cây)\n- gương soi ((cũng) looking glass)\n- đồng hồ cát\n- (số nhiều) kính đeo mắt\n!to have had a glass too much\n- quá chén\n!to look through blue glasses\n- nhìn (sự việc...) một cách bi quan yếm thế\n!to look through green glasses\n- thèm muốn, ghen tức\n*  ngoại động từ\n- lắp kính, lồng kính\n=to glass a window+ lắp kính vào cửa sổ\n- phản chiếu; soi mình\n=trees glass themslves in the lake+ cây soi mình trên mặt hồ\n- (từ hiếm,nghĩa hiếm) đóng vào hòm kính\n@Chuyên ngành kinh tế\n-đò dùng bằng thủy tinh\n-nhà kính\n-thủy tinh\n@Chuyên ngành kỹ thuật\n-gương\n-kính\n-kính cửa\n-kính lúp\n-kính phóng\n-ống nhòm\n-thủy tinh\n@Lĩnh vực: điện\n-mặt kính
-
+glass	
+@glass /glɑ:s/
+*  danh từ
+- kính thuỷ tinh
+- đồ dùng bằng thuỷ tinh (nói chung)
+- cái cốc; (một) cốc
+- cái phong vũ biểu ((cũng) weather glass)
+- ống nhòm
+- thấu kính
+- mặt kính (đồng hồ, cửa sổ)
+- nhà kính (trồng cây)
+- gương soi ((cũng) looking glass)
+- đồng hồ cát
+- (số nhiều) kính đeo mắt!to have had a glass too much
+- quá chén!to look through blue glasses
+- nhìn (sự việc...) một cách bi quan yếm thế!to look through green glasses
+- thèm muốn, ghen tức
+*  ngoại động từ
+- lắp kính, lồng kính=to glass a window
++ lắp kính vào cửa sổ
+- phản chiếu; soi mình=trees glass themslves in the lake
++ cây soi mình trên mặt hồ
+- (từ hiếm,nghĩa hiếm) đóng vào hòm kính
+@Chuyên ngành kinh tế
+-đò dùng bằng thủy tinh
+-nhà kính
+-thủy tinh
+@Chuyên ngành kỹ thuật
+-gương
+-kính
+-kính cửa
+-kính lúp
+-kính phóng
+-ống nhòm
+-thủy tinh
+@Lĩnh vực: điện
+-mặt kính

@@ -1,3 +1,2 @@
-bridler
-	@bridler\n- xem bridle
-
+bridler	@bridler
+- xem bridle

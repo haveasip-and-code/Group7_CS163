@@ -1,3 +1,7 @@
-rewinding
-	@Chuyên ngành kỹ thuật\n-sự cuộn lại\n-sự đóng kiện\n-sự quấn lại\n-sự tua lại\n@Lĩnh vực: dệt may\n-sự đánh ống lại
-
+rewinding	@Chuyên ngành kỹ thuật
+-sự cuộn lại
+-sự đóng kiện
+-sự quấn lại
+-sự tua lại
+@Lĩnh vực: dệt may
+-sự đánh ống lại

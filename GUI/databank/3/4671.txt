@@ -1,3 +1,2 @@
-baptizer
-	@baptizer\n- xem baptize
-
+baptizer	@baptizer
+- xem baptize

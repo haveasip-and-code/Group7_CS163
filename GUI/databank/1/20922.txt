@@ -1,3 +1,17 @@
-fiche
-	@fiche\n- (Tech) tấm thẻ\n@Chuyên ngành kỹ thuật\n-phiếu\n-thẻ\n@Lĩnh vực: toán & tin\n-thẻ phim\n-vi thẻ\n-vi thẻ phim\n@Chuyên ngành kỹ thuật\n-phiếu\n-thẻ\n@Lĩnh vực: toán & tin\n-thẻ phim\n-vi thẻ\n-vi thẻ phim
-
+fiche	
+@fiche
+- (Tech) tấm thẻ
+@Chuyên ngành kỹ thuật
+-phiếu
+-thẻ
+@Lĩnh vực: toán & tin
+-thẻ phim
+-vi thẻ
+-vi thẻ phim
+@Chuyên ngành kỹ thuật
+-phiếu
+-thẻ
+@Lĩnh vực: toán & tin
+-thẻ phim
+-vi thẻ
+-vi thẻ phim

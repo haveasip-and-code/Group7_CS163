@@ -1,3 +1,38 @@
-sap
-	@sap /sæp/\n*  danh từ\n- nhựa cây\n- nhựa sống\n=the sap of youth+ nhựa sống của thanh niên\n- (thực vật học) gỗ dác\n*  ngoại động từ\n- làm cho hết nhựa\n- làm mất hết (sinh lực), làm cạn (sức lực); làm nhụt (nhuệ khí); làm mất hết (lòng tin)\n*  danh từ\n- (quân sự) hầm, hào (đánh lấn)\n- (nghĩa bóng) sự phá hoại (niềm tin, quyết tâm...)\n*  ngoại động từ\n- (quân sự) đào hầm, đào hào (để đánh lấn)\n- phá, phá hoại, phá ngầm huỷ hoại\n=science is sapping old beliefs+ khoa học đang phá những niềm tin cũ kỹ\n*  nội động từ\n- (quân sự) đào hầm hào\n- đánh lấn vào bằng hầm hào, tiến gần vị trí địch bằng đường hào\n*  danh từ\n- sự siêng năng, người cần cù\n- công việc vất vả, công việc mệt nhọc\n- (từ lóng) người khờ dại, người khù khờ\n*  nội động từ\n- (từ lóng) học gạo\n@Chuyên ngành kinh tế\n-nhựa cây\n-nhựa sống\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dịch cây\n@Lĩnh vực: y học\n-dịch, nhựa cây\n@Lĩnh vực: xây dựng\n-gỗ giác\n-nhựa (cây)\n@Lĩnh vực: cơ khí & công trình\n-lõi mềm của phôi (được) thấm than
-
+sap	@sap /sæp/
+*  danh từ
+- nhựa cây
+- nhựa sống
+=the sap of youth+ nhựa sống của thanh niên
+- (thực vật học) gỗ dác
+*  ngoại động từ
+- làm cho hết nhựa
+- làm mất hết (sinh lực), làm cạn (sức lực); làm nhụt (nhuệ khí); làm mất hết (lòng tin)
+*  danh từ
+- (quân sự) hầm, hào (đánh lấn)
+- (nghĩa bóng) sự phá hoại (niềm tin, quyết tâm...)
+*  ngoại động từ
+- (quân sự) đào hầm, đào hào (để đánh lấn)
+- phá, phá hoại, phá ngầm huỷ hoại
+=science is sapping old beliefs+ khoa học đang phá những niềm tin cũ kỹ
+*  nội động từ
+- (quân sự) đào hầm hào
+- đánh lấn vào bằng hầm hào, tiến gần vị trí địch bằng đường hào
+*  danh từ
+- sự siêng năng, người cần cù
+- công việc vất vả, công việc mệt nhọc
+- (từ lóng) người khờ dại, người khù khờ
+*  nội động từ
+- (từ lóng) học gạo
+@Chuyên ngành kinh tế
+-nhựa cây
+-nhựa sống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dịch cây
+@Lĩnh vực: y học
+-dịch, nhựa cây
+@Lĩnh vực: xây dựng
+-gỗ giác
+-nhựa (cây)
+@Lĩnh vực: cơ khí & công trình
+-lõi mềm của phôi (được) thấm than

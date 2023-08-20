@@ -1,3 +1,20 @@
-blanking
-	@blanking\n- (Tech) xóa (d)\n@Chuyên ngành kỹ thuật\n-bán thành phẩm\n-dùi\n-khuôn\n-phôi\n-sự cắt\n-sự chắn\n-sự dập\n-sự khóa\n-sự khóa tia\n-sự triệt\n-sự xóa chùm\n@Lĩnh vực: toán & tin\n-làm trống\n-sự làm cho trống\n-tắt tín hiệu\n@Lĩnh vực: điện tử & viễn thông\n-sự xóa
-
+blanking	@blanking
+- (Tech) xóa (d)
+@Chuyên ngành kỹ thuật
+-bán thành phẩm
+-dùi
+-khuôn
+-phôi
+-sự cắt
+-sự chắn
+-sự dập
+-sự khóa
+-sự khóa tia
+-sự triệt
+-sự xóa chùm
+@Lĩnh vực: toán & tin
+-làm trống
+-sự làm cho trống
+-tắt tín hiệu
+@Lĩnh vực: điện tử & viễn thông
+-sự xóa

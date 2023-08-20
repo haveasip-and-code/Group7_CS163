@@ -1,3 +1,2 @@
-sinks
-	@Chuyên ngành kỹ thuật\n-luống răng lược (ở miền đá vôi)
-
+sinks	@Chuyên ngành kỹ thuật
+-luống răng lược (ở miền đá vôi)

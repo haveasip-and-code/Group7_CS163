@@ -1,3 +1,4 @@
-prosy
-	@prosy /prosy/\n*  tính từ\n- tầm thường, dung tục\n- buồn tẻ, chán ngắt (bài nói...)
-
+prosy	@prosy /prosy/
+*  tính từ
+- tầm thường, dung tục
+- buồn tẻ, chán ngắt (bài nói...)

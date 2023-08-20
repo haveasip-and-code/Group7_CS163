@@ -1,3 +1,10 @@
-price
-	@price\n- (toán kinh tế) giá cả, giá\n- accounting p. giá kiểm tra\n- base p.s giá cơ sở\n- cost p. giá thành\n- detail p. giá bán lẻ\n- floor p.s giá tối thiểu\n- market p. giá thị trường\n- selling p. giá bán\n- wholesale p. giá bán buôn
-
+price	@price
+- (toán kinh tế) giá cả, giá
+- accounting p. giá kiểm tra
+- base p.s giá cơ sở
+- cost p. giá thành
+- detail p. giá bán lẻ
+- floor p.s giá tối thiểu
+- market p. giá thị trường
+- selling p. giá bán
+- wholesale p. giá bán buôn

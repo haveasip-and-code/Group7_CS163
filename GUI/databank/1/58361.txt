@@ -1,3 +1,4 @@
-tye
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-giao điểm của hai mạch (quặng)\n-máng rửa quặng
-
+tye	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-giao điểm của hai mạch (quặng)
+-máng rửa quặng

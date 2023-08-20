@@ -1,3 +1,5 @@
-unlatching
-	@Chuyên ngành kỹ thuật\n-sự tháo chốt\n@Lĩnh vực: vật lý\n-sự nhả chốt\n-sự tháo then (các phần tử dập tắt nhanh)
-
+unlatching	@Chuyên ngành kỹ thuật
+-sự tháo chốt
+@Lĩnh vực: vật lý
+-sự nhả chốt
+-sự tháo then (các phần tử dập tắt nhanh)

@@ -1,3 +1,3 @@
-schoolroom
-	@schoolroom /'sku:lrum/\n*  danh từ\n- phòng học (ở trường)
-
+schoolroom	@schoolroom /'sku:lrum/
+*  danh từ
+- phòng học (ở trường)

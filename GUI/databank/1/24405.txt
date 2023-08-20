@@ -1,3 +1,43 @@
-group
-	@group /gru:p/\n*  danh từ\n- nhóm\n=to lean in groups+ học nhóm\n=to from a group+ họp lại thành nhóm\n=atomic group+ (vật lý) nhóm nguyên tử\n=group of algebras+ (toán học) nhóm các đại số\n=blood group+ (y học) nhóm máu\n- (hoá học) nhóm, gốc\n*  động từ\n- hợp thành nhóm; tập hợp lại\n=people grouped [themselves] round the speaker+ mọi người tập họp lại xung quanh diễn giả\n- phân loại, phân loại, phân hạng, phân phối theo nhóm\n- (nghệ thuật) tạo nên sự hoà hợp màu sắc\n@Chuyên ngành kinh tế\n-đoàn thể\n-nhóm\n-nhóm loại\n-quần thể\n-tập đoàn (công ty)\n@Chuyên ngành kỹ thuật\n-bó\n-bộ\n-chùm\n-đội\n-giàn\n-họ\n-lập nhóm\n-loạt\n-nhóm sơ cấp\n-sự ghép nối\n-tập\n@Lĩnh vực: cơ khí & công trình\n-hợp thành nhóm\n-kết lại\n@Lĩnh vực: điện tử & viễn thông\n-nhóm đường truyền\n-nhóm mạch thoại\n@Lĩnh vực: điện\n-phân nhóm\n@Lĩnh vực: toán & tin\n-xếp nhóm
-
+group	
+@group /gru:p/
+*  danh từ
+- nhóm=to lean in groups
++ học nhóm=to from a group
++ họp lại thành nhóm=atomic group
++ (vật lý) nhóm nguyên tử=group of algebras
++ (toán học) nhóm các đại số=blood group
++ (y học) nhóm máu
+- (hoá học) nhóm, gốc
+*  động từ
+- hợp thành nhóm; tập hợp lại=people grouped [themselves] round the speaker
++ mọi người tập họp lại xung quanh diễn giả
+- phân loại, phân loại, phân hạng, phân phối theo nhóm
+- (nghệ thuật) tạo nên sự hoà hợp màu sắc
+@Chuyên ngành kinh tế
+-đoàn thể
+-nhóm
+-nhóm loại
+-quần thể
+-tập đoàn (công ty)
+@Chuyên ngành kỹ thuật
+-bó
+-bộ
+-chùm
+-đội
+-giàn
+-họ
+-lập nhóm
+-loạt
+-nhóm sơ cấp
+-sự ghép nối
+-tập
+@Lĩnh vực: cơ khí & công trình
+-hợp thành nhóm
+-kết lại
+@Lĩnh vực: điện tử & viễn thông
+-nhóm đường truyền
+-nhóm mạch thoại
+@Lĩnh vực: điện
+-phân nhóm
+@Lĩnh vực: toán & tin
+-xếp nhóm

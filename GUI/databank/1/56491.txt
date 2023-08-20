@@ -1,3 +1,61 @@
-thread
-	@thread /θred/\n*  danh từ\n- chỉ, sợi chỉ, sợi dây\n=silk thread+ chỉ tơ\n- (nghĩa bóng) dòng, mạch\n=the thread of life+ dòng đời, đời người\n=to lose the thread of one's argument+ mất mạch lạc trong lập luận\n- đường ren\n- (địa lý,địa chất) mạch nhỏ (quặng)\n!to have not a dry thread on one\n- ướt sạch, ướt như chuột lột\n!life hung by a thread\n- tính mệnh như treo đầu sợi tóc, tính mệnh như trứng treo đầu đẳng\n*  ngoại động từ\n- xâu (kim...); xâu (hột ngọc...) thành chuỗi\n- (nghĩa bóng) lách qua, len lỏi qua\n=to thread one's way through the crowd+ lách qua đám đông\n- ren (đinh ốc)\n@Chuyên ngành kinh tế\n-mì sợi nhỏ\n@Chuyên ngành kỹ thuật\n-đai ốc\n-đóng chỉ\n-đường kẻ nối\n-đường ren\n-lắp (băng vào máy)\n-luồng\n-mạch\n-mạch nhỏ\n-ống ruột gà\n-rãnh xoắn\n-ren\n-ren đai ốc\n-ren ngoài\n-ren trong\n-sợi\n-sợi chỉ\n-sợi dây\n-sợi xe\n-sự cắt ren\n-vặn vào\n-vòng ren\n@Lĩnh vực: toán & tin\n-chuỗi\n-chuỗi, mạch, dòng\n-dây chỉ (của lưỡi chữ thập)\n-mạch trình\n-tuyến đoạn\n-xâu\n@Lĩnh vực: xây dựng\n-dây chỉ (của lưới chữ thập)\n@Lĩnh vực: cơ khí & công trình\n-đường ren xoáy trôn\n-mối ren\n-ren (vít)\n-ren bù loong\n@Lĩnh vực: điện\n-ren (gai ốc)\n@Lĩnh vực: dệt may\n-sợi dệt\n-sợi xoắn
-
+thread	@thread /θred/
+*  danh từ
+- chỉ, sợi chỉ, sợi dây
+=silk thread+ chỉ tơ
+- (nghĩa bóng) dòng, mạch
+=the thread of life+ dòng đời, đời người
+=to lose the thread of one's argument+ mất mạch lạc trong lập luận
+- đường ren
+- (địa lý,địa chất) mạch nhỏ (quặng)
+!to have not a dry thread on one
+- ướt sạch, ướt như chuột lột
+!life hung by a thread
+- tính mệnh như treo đầu sợi tóc, tính mệnh như trứng treo đầu đẳng
+*  ngoại động từ
+- xâu (kim...); xâu (hột ngọc...) thành chuỗi
+- (nghĩa bóng) lách qua, len lỏi qua
+=to thread one's way through the crowd+ lách qua đám đông
+- ren (đinh ốc)
+@Chuyên ngành kinh tế
+-mì sợi nhỏ
+@Chuyên ngành kỹ thuật
+-đai ốc
+-đóng chỉ
+-đường kẻ nối
+-đường ren
+-lắp (băng vào máy)
+-luồng
+-mạch
+-mạch nhỏ
+-ống ruột gà
+-rãnh xoắn
+-ren
+-ren đai ốc
+-ren ngoài
+-ren trong
+-sợi
+-sợi chỉ
+-sợi dây
+-sợi xe
+-sự cắt ren
+-vặn vào
+-vòng ren
+@Lĩnh vực: toán & tin
+-chuỗi
+-chuỗi, mạch, dòng
+-dây chỉ (của lưỡi chữ thập)
+-mạch trình
+-tuyến đoạn
+-xâu
+@Lĩnh vực: xây dựng
+-dây chỉ (của lưới chữ thập)
+@Lĩnh vực: cơ khí & công trình
+-đường ren xoáy trôn
+-mối ren
+-ren (vít)
+-ren bù loong
+@Lĩnh vực: điện
+-ren (gai ốc)
+@Lĩnh vực: dệt may
+-sợi dệt
+-sợi xoắn

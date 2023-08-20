@@ -1,3 +1,5 @@
-preassigned
-	@preassigned\n- gán trước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gán trước
-
+preassigned	@preassigned
+- gán trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-gán trước

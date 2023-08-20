@@ -1,3 +1,15 @@
-authorize
-	@authorize /'ɔ:θəraiz/ (authorise) /'ɔ:θəraiz/\n*  ngoại động từ\n- cho quyền, uỷ quyền, cho phép\n=to authorize someone ro do something+ cho quyền ai được làm việc gì\n- là căn cứ, là cái cớ chính đáng\n=his conduct did authorize your suspicion+ tư cách của hắn thật là đúng là cái cớ để cho anh nghi ngờ\n@Chuyên ngành kinh tế\n-cho phép\n-phê chuẩn\n-ủy quyền\n@Chuyên ngành kỹ thuật\n-cho phép\n-cho quyền\n-ủy quyền
-
+authorize	
+@authorize /'ɔ:θəraiz/ (authorise) /'ɔ:θəraiz/
+*  ngoại động từ
+- cho quyền, uỷ quyền, cho phép=to authorize someone ro do something
++ cho quyền ai được làm việc gì
+- là căn cứ, là cái cớ chính đáng=his conduct did authorize your suspicion
++ tư cách của hắn thật là đúng là cái cớ để cho anh nghi ngờ
+@Chuyên ngành kinh tế
+-cho phép
+-phê chuẩn
+-ủy quyền
+@Chuyên ngành kỹ thuật
+-cho phép
+-cho quyền
+-ủy quyền

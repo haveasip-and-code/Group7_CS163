@@ -1,3 +1,26 @@
-past
-	@past /pɑ:st/\n*  tính từ\n- (thuộc) quá khứ, đã qua, (thuộc) dĩ vãng\n=for the past few days+ mấy ngày qua\n=his pain is past now+ cơn đau của anh ấy đã qua rồi\n- (ngôn ngữ học) quá khứ\n=past tense+ thói quá khứ\n=past participle+ động tính từ quá khứ\n*  danh từ\n- quá khứ, dĩ vãng; quá khứ không hay ho gì\n- (ngôn ngữ học) ((thường) the past) thời quá khứ\n*  phó từ\n- qua\n=to walk past+ đi qua\n=to run past+ chạy qua\n- quá\n=the train is past due+ xe lửa quá giờ rồi mà chưa đến\n*  giới từ\n- quá, vượt, quá, hơn\n=it is past six+ đã quá sáu giờ hơn\n=he is past fifty+ ông ta đã hơn (ngoài) năm mươi\n=past endurance+ vượt quá sự chịu đựng, không thể chịu đựng nổi\n- qua\n=to run past the house+ chạy qua nhà\n@Chuyên ngành kỹ thuật\n-quá khứ
-
+past	@past /pɑ:st/
+*  tính từ
+- (thuộc) quá khứ, đã qua, (thuộc) dĩ vãng
+=for the past few days+ mấy ngày qua
+=his pain is past now+ cơn đau của anh ấy đã qua rồi
+- (ngôn ngữ học) quá khứ
+=past tense+ thói quá khứ
+=past participle+ động tính từ quá khứ
+*  danh từ
+- quá khứ, dĩ vãng; quá khứ không hay ho gì
+- (ngôn ngữ học) ((thường) the past) thời quá khứ
+*  phó từ
+- qua
+=to walk past+ đi qua
+=to run past+ chạy qua
+- quá
+=the train is past due+ xe lửa quá giờ rồi mà chưa đến
+*  giới từ
+- quá, vượt, quá, hơn
+=it is past six+ đã quá sáu giờ hơn
+=he is past fifty+ ông ta đã hơn (ngoài) năm mươi
+=past endurance+ vượt quá sự chịu đựng, không thể chịu đựng nổi
+- qua
+=to run past the house+ chạy qua nhà
+@Chuyên ngành kỹ thuật
+-quá khứ

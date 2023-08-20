@@ -1,3 +1,17 @@
-exoergic
-	@exoergic\n* tính từ\n- phát ra năng lượng\n= exoergic nuclear reactions+phản ứng hạt nhân phát ra năng lượng\n@Chuyên ngành kỹ thuật\n-phóng năng\n-tỏa nhiệt\n@Lĩnh vực: điện lạnh\n-phóng nhiệt\n-tỏa năng\n@Chuyên ngành kỹ thuật\n-phóng năng\n-tỏa nhiệt\n@Lĩnh vực: điện lạnh\n-phóng nhiệt\n-tỏa năng
-
+exoergic	
+@exoergic
+* tính từ
+- phát ra năng lượng= exoergic nuclear reactions
++phản ứng hạt nhân phát ra năng lượng
+@Chuyên ngành kỹ thuật
+-phóng năng
+-tỏa nhiệt
+@Lĩnh vực: điện lạnh
+-phóng nhiệt
+-tỏa năng
+@Chuyên ngành kỹ thuật
+-phóng năng
+-tỏa nhiệt
+@Lĩnh vực: điện lạnh
+-phóng nhiệt
+-tỏa năng

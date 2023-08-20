@@ -1,3 +1,3 @@
-principalship
-	@principalship\n- (chức vụ) xem principal\n- (chức vụ) xem principal
-
+principalship	@principalship
+- (chức vụ) xem principal
+- (chức vụ) xem principal

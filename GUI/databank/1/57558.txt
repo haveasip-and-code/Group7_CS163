@@ -1,3 +1,2 @@
-traverser
-	@Chuyên ngành kỹ thuật\n-rầm ngang
-
+traverser	@Chuyên ngành kỹ thuật
+-rầm ngang

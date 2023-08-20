@@ -1,3 +1,23 @@
-literature
-	@literature /'litəritʃə/\n*  danh từ\n- văn chương, văn học\n=Vietnamese literature+ nền văn học Việt Nam\n- tác phẩm văn học; tác phẩm viết văn hoa bóng bảy\n- giới nhà văn\n- nghề văn\n- tài liệu (về một vấn đề hoặc một bộ môn khoa học)\n=mathematical literature+ các tài liệu về toán học\n- tài liệu in (truyền đơn, quảng cáo...)\n@Chuyên ngành kinh tế\n-ấn phẩm (quảng cáo)\n-giấy quảng cáo\n-tập sách nhỏ quảng cáo\n-tập tài liệu chào hàng\n@Chuyên ngành kỹ thuật\n-nhà văn\n@Lĩnh vực: xây dựng\n-văn học\n@Chuyên ngành kỹ thuật\n-nhà văn\n@Lĩnh vực: xây dựng\n-văn học
-
+literature	@literature /'litəritʃə/
+*  danh từ
+- văn chương, văn học
+=Vietnamese literature+ nền văn học Việt Nam
+- tác phẩm văn học; tác phẩm viết văn hoa bóng bảy
+- giới nhà văn
+- nghề văn
+- tài liệu (về một vấn đề hoặc một bộ môn khoa học)
+=mathematical literature+ các tài liệu về toán học
+- tài liệu in (truyền đơn, quảng cáo...)
+@Chuyên ngành kinh tế
+-ấn phẩm (quảng cáo)
+-giấy quảng cáo
+-tập sách nhỏ quảng cáo
+-tập tài liệu chào hàng
+@Chuyên ngành kỹ thuật
+-nhà văn
+@Lĩnh vực: xây dựng
+-văn học
+@Chuyên ngành kỹ thuật
+-nhà văn
+@Lĩnh vực: xây dựng
+-văn học

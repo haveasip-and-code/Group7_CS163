@@ -1,3 +1,24 @@
-hall
-	@hall /hɔ:l/\n*  danh từ\n- phòng lớn, đại sảnh (trong các lâu đài)\n- lâu đài (của địa chủ)\n- phòng họp lớn, hội trường (để hội họp, hoà nhạc...)\n- toà (thị chính, toà án...), trụ sở lớn (các nghiệp đoàn...)\n- phòng ăn lớn (ở các trường học); bữa ăn ở phòng ăn lớn (ở các trường học); bữa ăn ở phòng ăn lớn\n- nhà ở (của học sinh và cán bộ trường đại học Anh); phòng lên lớp\n- phòng đợi, hành lang ở cửa vào (của một toà nhà lớn)\n@Chuyên ngành kinh tế\n-hội trường\n-phòng\n-phòng họp lớn\n@Chuyên ngành kỹ thuật\n-hội trường\n-lễ đường\n-phòng lớn\n@Lĩnh vực: xây dựng\n-phòng (lớn)\n-phòng khách chung\n-sảnh (lớn)\n-sảnh phình lớn\n-sảnh phình trước
-
+hall	
+@hall /hɔ:l/
+*  danh từ
+- phòng lớn, đại sảnh (trong các lâu đài)
+- lâu đài (của địa chủ)
+- phòng họp lớn, hội trường (để hội họp, hoà nhạc...)
+- toà (thị chính, toà án...), trụ sở lớn (các nghiệp đoàn...)
+- phòng ăn lớn (ở các trường học); bữa ăn ở phòng ăn lớn (ở các trường học); bữa ăn ở phòng ăn lớn
+- nhà ở (của học sinh và cán bộ trường đại học Anh); phòng lên lớp
+- phòng đợi, hành lang ở cửa vào (của một toà nhà lớn)
+@Chuyên ngành kinh tế
+-hội trường
+-phòng
+-phòng họp lớn
+@Chuyên ngành kỹ thuật
+-hội trường
+-lễ đường
+-phòng lớn
+@Lĩnh vực: xây dựng
+-phòng (lớn)
+-phòng khách chung
+-sảnh (lớn)
+-sảnh phình lớn
+-sảnh phình trước

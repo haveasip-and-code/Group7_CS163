@@ -1,3 +1,10 @@
-straightener
-	@straightener\n* danh từ\n- máy (bàn, bộ phận) rắn\n@Chuyên ngành kỹ thuật\n-máy nắn thẳng\n@Lĩnh vực: xây dựng\n-dụng cụ nắn thẳng\n@Lĩnh vực: cơ khí & công trình\n-khuôn nắn thẳng\n-máy nắn sửa
-
+straightener	@straightener
+* danh từ
+- máy (bàn, bộ phận) rắn
+@Chuyên ngành kỹ thuật
+-máy nắn thẳng
+@Lĩnh vực: xây dựng
+-dụng cụ nắn thẳng
+@Lĩnh vực: cơ khí & công trình
+-khuôn nắn thẳng
+-máy nắn sửa

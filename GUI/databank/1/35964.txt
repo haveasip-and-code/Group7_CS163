@@ -1,3 +1,7 @@
-multimedia
-	@multimedia\n- đa phương tiện, đa môi trường, đa truyền thông\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đa môi trường\n-đa phương tiện\n-đa truyền thông
-
+multimedia	@multimedia
+- đa phương tiện, đa môi trường, đa truyền thông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đa môi trường
+-đa phương tiện
+-đa truyền thông

@@ -1,3 +1,7 @@
-contracted
-	@contracted\n- bị rút ngắn, bị co rút\n@Chuyên ngành kỹ thuật\n-đã co\n@Lĩnh vực: toán & tin\n-bị co rút\n-bị rút ngắn
-
+contracted	@contracted
+- bị rút ngắn, bị co rút
+@Chuyên ngành kỹ thuật
+-đã co
+@Lĩnh vực: toán & tin
+-bị co rút
+-bị rút ngắn

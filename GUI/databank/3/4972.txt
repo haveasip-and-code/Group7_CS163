@@ -1,3 +1,2 @@
-beams
-	@Chuyên ngành kỹ thuật\n-dầm
-
+beams	@Chuyên ngành kỹ thuật
+-dầm

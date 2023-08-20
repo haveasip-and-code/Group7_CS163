@@ -1,3 +1,10 @@
-thermionic
-	@thermionic\n* tính từ\n- thecmionic, thuộc kỹ thuật - điện tử học (thuộc ngành <lý> nghiên cứu sự phát ra các electron ở nhiệt độ cao)\n@Chuyên ngành kỹ thuật\n-nhiệt điện tử\n@Lĩnh vực: điện\n-nhiệt xạ\n@Lĩnh vực: điện lạnh\n-thuộc nhiệt electron\n-thuộc nhiệt ion
-
+thermionic	@thermionic
+* tính từ
+- thecmionic, thuộc kỹ thuật - điện tử học (thuộc ngành <lý> nghiên cứu sự phát ra các electron ở nhiệt độ cao)
+@Chuyên ngành kỹ thuật
+-nhiệt điện tử
+@Lĩnh vực: điện
+-nhiệt xạ
+@Lĩnh vực: điện lạnh
+-thuộc nhiệt electron
+-thuộc nhiệt ion

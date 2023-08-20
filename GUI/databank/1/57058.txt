@@ -1,3 +1,8 @@
-toroid
-	@Chuyên ngành kỹ thuật\n-bề mặt\n-hình phỏng xuyến\n-mạch từ hình xuyến\n@Lĩnh vực: điện\n-cuộn dây hình xuyến\n@Lĩnh vực: điện lạnh\n-mạch từ phỏng xuyến
-
+toroid	@Chuyên ngành kỹ thuật
+-bề mặt
+-hình phỏng xuyến
+-mạch từ hình xuyến
+@Lĩnh vực: điện
+-cuộn dây hình xuyến
+@Lĩnh vực: điện lạnh
+-mạch từ phỏng xuyến

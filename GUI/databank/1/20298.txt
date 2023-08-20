@@ -1,3 +1,64 @@
-failure
-	@failure /'feiljə/\n*  danh từ\n- sự không xảy ra, sự không làm được (việc gì)\n=the failure to grasp a policy+ sự không nắm vững một chính sách\n- sự thiếu\n- sự thất bại; sự hỏng; sự mất (mùa, điện...)\n- người bị thất bại; việc thất bại, cố gắng không thành công\n=he is a failure in art+ anh ấy không thành công trong nghệ thuật\n- sự thi hỏng\n- sự vỡ nợ, sự phá sản\n@Chuyên ngành kinh tế\n-sự khánh kiệt\n-sự phá sản\n@Chuyên ngành kỹ thuật\n-hỏng\n-hỏng hóc\n-hư hỏng\n-lỗi\n-phá hoại\n-sai hỏng\n-sự cố\n-sự gãy\n-sự hỏng\n-sự hỏng hóc\n-sự hư hỏng\n-sự nhiễu\n-sự nứt\n-sự phá hủy\n-sự phá sập\n-sự phá vỡ\n-sự sai hỏng\n-sự sụt lở\n-sự trục trặc\n@Lĩnh vực: cơ khí & công trình\n-sẩy\n-thất bại\n@Lĩnh vực: toán & tin\n-sự thất bại\n@Chuyên ngành kỹ thuật\n-hỏng\n-hỏng hóc\n-hư hỏng\n-lỗi\n-phá hoại\n-sai hỏng\n-sự cố\n-sự gãy\n-sự hỏng\n-sự hỏng hóc\n-sự hư hỏng\n-sự nhiễu\n-sự nứt\n-sự phá hủy\n-sự phá sập\n-sự phá vỡ\n-sự sai hỏng\n-sự sụt lở\n-sự trục trặc\n@Lĩnh vực: cơ khí & công trình\n-sẩy\n-thất bại\n@Lĩnh vực: toán & tin\n-sự thất bại
-
+failure	
+@failure /'feiljə/
+*  danh từ
+- sự không xảy ra, sự không làm được (việc gì)=the failure to grasp a policy
++ sự không nắm vững một chính sách
+- sự thiếu
+- sự thất bại; sự hỏng; sự mất (mùa, điện...)
+- người bị thất bại; việc thất bại, cố gắng không thành công=he is a failure in art
++ anh ấy không thành công trong nghệ thuật
+- sự thi hỏng
+- sự vỡ nợ, sự phá sản
+@Chuyên ngành kinh tế
+-sự khánh kiệt
+-sự phá sản
+@Chuyên ngành kỹ thuật
+-hỏng
+-hỏng hóc
+-hư hỏng
+-lỗi
+-phá hoại
+-sai hỏng
+-sự cố
+-sự gãy
+-sự hỏng
+-sự hỏng hóc
+-sự hư hỏng
+-sự nhiễu
+-sự nứt
+-sự phá hủy
+-sự phá sập
+-sự phá vỡ
+-sự sai hỏng
+-sự sụt lở
+-sự trục trặc
+@Lĩnh vực: cơ khí & công trình
+-sẩy
+-thất bại
+@Lĩnh vực: toán & tin
+-sự thất bại
+@Chuyên ngành kỹ thuật
+-hỏng
+-hỏng hóc
+-hư hỏng
+-lỗi
+-phá hoại
+-sai hỏng
+-sự cố
+-sự gãy
+-sự hỏng
+-sự hỏng hóc
+-sự hư hỏng
+-sự nhiễu
+-sự nứt
+-sự phá hủy
+-sự phá sập
+-sự phá vỡ
+-sự sai hỏng
+-sự sụt lở
+-sự trục trặc
+@Lĩnh vực: cơ khí & công trình
+-sẩy
+-thất bại
+@Lĩnh vực: toán & tin
+-sự thất bại

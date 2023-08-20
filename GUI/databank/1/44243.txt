@@ -1,3 +1,9 @@
-protectionist
-	@protectionist /protectionist/\n*  danh từ\n- người chủ trương bảo vệ nền công nghiệp trong nước\n@Chuyên ngành kinh tế\n-chủ nghĩa bảo hộ\n-người chủ trương\n-người chủ trương chính sách bảo hộ (mậu dịch)\n-người ủng hộ chế độ bảo hộ kinh tế\n-thuộc chủ nghĩa bảo hộ (mậu dịch)
-
+protectionist	@protectionist /protectionist/
+*  danh từ
+- người chủ trương bảo vệ nền công nghiệp trong nước
+@Chuyên ngành kinh tế
+-chủ nghĩa bảo hộ
+-người chủ trương
+-người chủ trương chính sách bảo hộ (mậu dịch)
+-người ủng hộ chế độ bảo hộ kinh tế
+-thuộc chủ nghĩa bảo hộ (mậu dịch)

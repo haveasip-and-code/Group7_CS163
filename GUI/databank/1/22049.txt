@@ -1,3 +1,12 @@
-formwork
-	@formwork\n* danh từ\n- ván khuôn (bê tông)\n@Chuyên ngành kỹ thuật\n-cốp pha\n-cốp-pha\n-ván khuôn\n@Lĩnh vực: xây dựng\n-côtpha\n-khuôn bêtông
-
+formwork	
+@formwork
+* danh từ
+- ván khuôn (bê tông)
+@Chuyên ngành kỹ thuật
+-cốp pha
+-cốp
+-pha
+-ván khuôn
+@Lĩnh vực: xây dựng
+-côtpha
+-khuôn bêtông

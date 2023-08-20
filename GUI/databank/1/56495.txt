@@ -1,3 +1,16 @@
-threading
-	@Chuyên ngành kỹ thuật\n-cắt ren\n-chuỗi\n-luồng\n-rãnh xoắn\n-sự cắt ren\n@Lĩnh vực: toán & tin\n-kỹ thuật sâu chuỗi\n-sự kết chuỗi\n@Lĩnh vực: cơ khí & công trình\n-mắc dây vào\n@Lĩnh vực: hóa học & vật liệu\n-sự kéo thành sợi\n-sự ren\n@Lĩnh vực: xây dựng\n-sự khía ren
-
+threading	@Chuyên ngành kỹ thuật
+-cắt ren
+-chuỗi
+-luồng
+-rãnh xoắn
+-sự cắt ren
+@Lĩnh vực: toán & tin
+-kỹ thuật sâu chuỗi
+-sự kết chuỗi
+@Lĩnh vực: cơ khí & công trình
+-mắc dây vào
+@Lĩnh vực: hóa học & vật liệu
+-sự kéo thành sợi
+-sự ren
+@Lĩnh vực: xây dựng
+-sự khía ren

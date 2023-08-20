@@ -1,3 +1,14 @@
-folk
-	@folk /fouk/\n*  danh từ,  (thường) số nhiều\n- người\n=old folk+ người già\n=country folk+ người nông thôn\n- (số nhiều) (thông tục) người thân thuộc\n=one's folks+ họ hàng thân thuộc\n=the old folks at home+ cha mẹ ông bà\n- (từ cổ,nghĩa cổ) dân tộc, dân gian\n!idle folks lack no excuses\n- (tục ngữ) người lười không thiếu lý do để lười\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dân dã
-
+folk	
+@folk /fouk/
+*  danh từ,  (thường) số nhiều
+- người=old folk
++ người già=country folk
++ người nông thôn
+- (số nhiều) (thông tục) người thân thuộc=one's folks
++ họ hàng thân thuộc=the old folks at home
++ cha mẹ ông bà
+- (từ cổ,nghĩa cổ) dân tộc, dân gian!idle folks lack no excuses
+- (tục ngữ) người lười không thiếu lý do để lười
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dân dã

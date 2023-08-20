@@ -1,3 +1,9 @@
-saltiness
-	@saltiness /'sɔ:ltinis/\n*  danh từ\n- tính mặn; sự có muối\n- tính chua chát, tính châm chọc; tính sắc sảo tính hóm hỉnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-độ chứa muối\n@Lĩnh vực: xây dựng\n-độ thấm muối
-
+saltiness	@saltiness /'sɔ:ltinis/
+*  danh từ
+- tính mặn; sự có muối
+- tính chua chát, tính châm chọc; tính sắc sảo tính hóm hỉnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-độ chứa muối
+@Lĩnh vực: xây dựng
+-độ thấm muối

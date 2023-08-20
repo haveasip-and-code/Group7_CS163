@@ -1,3 +1,6 @@
-brackets
-	@Chuyên ngành kỹ thuật\n-dấu ngoặc\n-đinh đỉa\n-móc\n-quai\n-vòng cữ
-
+brackets	@Chuyên ngành kỹ thuật
+-dấu ngoặc
+-đinh đỉa
+-móc
+-quai
+-vòng cữ

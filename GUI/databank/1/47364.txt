@@ -1,3 +1,36 @@
-retreat
-	@retreat /ri'tri:t/\n*  danh từ\n- (quân sự) sự rút lui, sự rút quân; hiệu lệnh rút quân\n=to sound the retreat+ thổi hiệu lệnh rút lui\n=to cut off (intercept) an army's retreat+ cắt đường rút lui của một đạo quân\n=to make good one's retreat+ rút lui bình yên vô sự\n- (quân sự) tiếng kèn (trống) thu không\n- sự ẩn dật\n=to go into retreat+ sống một đời ẩn dật\n- nơi ẩn dật ((tôn giáo)) nơi tu đạo\n- nơi trốn tránh, sào huyệt (của bọn cướp...)\n- nhà dưỡng lão, trại cứu tế; bệnh viện tinh thần kinh\n*  nội động từ\n- lùi, rút lui\n- (quân sự) rút lui\n- lẹm, trợt ra sau (cằm, trán...)\n=retreating chin+ cằm lẹm\n=retreat ing forehead+ trán trợt ra sau\n*  ngoại động từ\n- (đánh cờ) rút (quân) về (tránh thế bị vây hãm)\n@Chuyên ngành kỹ thuật\n-hốc tường\n-hõm tường\n-khấu giật\n-lùi bước\n-rút lại\n-sự rút lại\n-thu lại\n-xử lý lại\n@Lĩnh vực: toán & tin\n-phím lùi\n@Lĩnh vực: cơ khí & công trình\n-sự rút lui\n@Lĩnh vực: hóa học & vật liệu\n-sự thu về\n-thu về
-
+retreat	@retreat /ri'tri:t/
+*  danh từ
+- (quân sự) sự rút lui, sự rút quân; hiệu lệnh rút quân
+=to sound the retreat+ thổi hiệu lệnh rút lui
+=to cut off (intercept) an army's retreat+ cắt đường rút lui của một đạo quân
+=to make good one's retreat+ rút lui bình yên vô sự
+- (quân sự) tiếng kèn (trống) thu không
+- sự ẩn dật
+=to go into retreat+ sống một đời ẩn dật
+- nơi ẩn dật ((tôn giáo)) nơi tu đạo
+- nơi trốn tránh, sào huyệt (của bọn cướp...)
+- nhà dưỡng lão, trại cứu tế; bệnh viện tinh thần kinh
+*  nội động từ
+- lùi, rút lui
+- (quân sự) rút lui
+- lẹm, trợt ra sau (cằm, trán...)
+=retreating chin+ cằm lẹm
+=retreat ing forehead+ trán trợt ra sau
+*  ngoại động từ
+- (đánh cờ) rút (quân) về (tránh thế bị vây hãm)
+@Chuyên ngành kỹ thuật
+-hốc tường
+-hõm tường
+-khấu giật
+-lùi bước
+-rút lại
+-sự rút lại
+-thu lại
+-xử lý lại
+@Lĩnh vực: toán & tin
+-phím lùi
+@Lĩnh vực: cơ khí & công trình
+-sự rút lui
+@Lĩnh vực: hóa học & vật liệu
+-sự thu về
+-thu về

@@ -1,3 +1,8 @@
-simplified
-	@simplified\n- đã rút gọn, đã được đơn giản\n@Chuyên ngành kỹ thuật\n-đã rút gọn\n@Lĩnh vực: toán & tin\n-đã được đơn giản\n@Lĩnh vực: điện lạnh\n-đơn giản hóa
-
+simplified	@simplified
+- đã rút gọn, đã được đơn giản
+@Chuyên ngành kỹ thuật
+-đã rút gọn
+@Lĩnh vực: toán & tin
+-đã được đơn giản
+@Lĩnh vực: điện lạnh
+-đơn giản hóa

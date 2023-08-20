@@ -89,6 +89,7 @@ string getPath(int x) {
 }
 
 pair<string,string> retrieveData(int slot,int key) {
+    if (key==-1) return {"Can't find word!!!","Please check your searching cue!!!"};
     pair<string,string> kq;
     ifstream tmpStream;
     tmpStream.open(databankDir+"/"+intToString(slot)+"/"+intToString(key)+".txt");

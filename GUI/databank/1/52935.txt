@@ -1,3 +1,26 @@
-stalk
-	@stalk /stɔ:k/\n*  danh từ\n- (thực vật học) thân (cây); cuống (hoa...)\n- (động vật học) cuống (tiểu não...); thân (lông vũ...)\n- chân (cốc uống rượu)\n- (kiến trúc) vật trang trí hình thân cây\n- ống khói cao (nhà máy...)\n- dáng đi oai vệ, dáng đi hiên ngang\n- sự đi lén theo (thú săn, kẻ địch...)\n*  nội động từ\n- đi đứng oai vệ, dáng đi hiên ngang\n- lén theo thú săn, đuổi theo thú săn; lén theo kẻ địch, đuổi theo kẻ địch\n*  ngoại động từ\n- lén theo, đuổi theo (thú săn, kẻ địch...)\n- đi hiên ngang qua (nơi nào)\n@Chuyên ngành kinh tế\n-cuống\n-say\n-thân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cuống, thân\n@Lĩnh vực: xây dựng\n-ống khói cao\n@Lĩnh vực: toán & tin\n-thớ của một bó
-
+stalk	@stalk /stɔ:k/
+*  danh từ
+- (thực vật học) thân (cây); cuống (hoa...)
+- (động vật học) cuống (tiểu não...); thân (lông vũ...)
+- chân (cốc uống rượu)
+- (kiến trúc) vật trang trí hình thân cây
+- ống khói cao (nhà máy...)
+- dáng đi oai vệ, dáng đi hiên ngang
+- sự đi lén theo (thú săn, kẻ địch...)
+*  nội động từ
+- đi đứng oai vệ, dáng đi hiên ngang
+- lén theo thú săn, đuổi theo thú săn; lén theo kẻ địch, đuổi theo kẻ địch
+*  ngoại động từ
+- lén theo, đuổi theo (thú săn, kẻ địch...)
+- đi hiên ngang qua (nơi nào)
+@Chuyên ngành kinh tế
+-cuống
+-say
+-thân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cuống, thân
+@Lĩnh vực: xây dựng
+-ống khói cao
+@Lĩnh vực: toán & tin
+-thớ của một bó

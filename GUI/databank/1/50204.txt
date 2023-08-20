@@ -1,3 +1,24 @@
-shaper
-	@shaper /'ʃeipə/\n*  danh từ\n- thợ nặn, thợ giũa\n- người thảo kế hoạch\n- máy bào; máy tiện; máy ép; máy nặn\n@Chuyên ngành kinh tế\n-máy ép\n-máy tạo hình bột nhào\n@Chuyên ngành kỹ thuật\n-búa đập\n-máy bào ngang\n-máy dát\n-máy xọc (bánh răng)\n@Lĩnh vực: cơ khí & công trình\n-búa rèn khuôn\n-máy đập khuôn\n-máy phay gỗ\n@Lĩnh vực: toán & tin\n-công cụ vẽ hình\n-dụng cụ vẽ hình\n-máy giũa\n-máy ráp khuôn\n@Lĩnh vực: điện\n-máy tạo dạng
-
+shaper	@shaper /'ʃeipə/
+*  danh từ
+- thợ nặn, thợ giũa
+- người thảo kế hoạch
+- máy bào; máy tiện; máy ép; máy nặn
+@Chuyên ngành kinh tế
+-máy ép
+-máy tạo hình bột nhào
+@Chuyên ngành kỹ thuật
+-búa đập
+-máy bào ngang
+-máy dát
+-máy xọc (bánh răng)
+@Lĩnh vực: cơ khí & công trình
+-búa rèn khuôn
+-máy đập khuôn
+-máy phay gỗ
+@Lĩnh vực: toán & tin
+-công cụ vẽ hình
+-dụng cụ vẽ hình
+-máy giũa
+-máy ráp khuôn
+@Lĩnh vực: điện
+-máy tạo dạng

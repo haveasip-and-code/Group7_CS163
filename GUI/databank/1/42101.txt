@@ -1,3 +1,2 @@
-plical
-	@plical\n- xem plica
-
+plical	@plical
+- xem plica

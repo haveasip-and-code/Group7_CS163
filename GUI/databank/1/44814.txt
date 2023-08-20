@@ -1,3 +1,25 @@
-purpose
-	@purpose /'pə:pəs/\n*  danh từ\n- mục đích, ý định\n=for the purpose of...+ nhằm mục đích...\n=to serve a purpose+ đáp ứng một mục đích\n=to what purpose?+ nhằm mục đích (ý định) gì?\n=to the purpose+ có lợi cho mục đích, có lợi cho ý định; đúng lúc, phải lúc\n- chủ định, chủ tâm\n=on purpose+ cố tính, cố ý, có chủ tâm\n- ý nhất định, tính quả quyết\n=infirm of purpose+ không quả quyết\n=of set purpose+ nhất định, quả quyết\n=wanting in purpose+ không có ý nhất định, thiếu sự quả quyết\n- kết quả\n=to some purpose+ được phần nào kết quả\n=to little purpose+ chẳng được kết quả là bao\n=to no purpose+ chẳng được kết quả gì, vô ích\n=to good purpose+ có kết quả tốt\n*  ngoại động từ\n- có ý định\n=he purposed coming; he purposed to come+ hắn ta có ý định đến\n@Chuyên ngành kinh tế\n-mục đích\n@Chuyên ngành kỹ thuật\n-mục đích
-
+purpose	@purpose /'pə:pəs/
+*  danh từ
+- mục đích, ý định
+=for the purpose of...+ nhằm mục đích...
+=to serve a purpose+ đáp ứng một mục đích
+=to what purpose?+ nhằm mục đích (ý định) gì?
+=to the purpose+ có lợi cho mục đích, có lợi cho ý định; đúng lúc, phải lúc
+- chủ định, chủ tâm
+=on purpose+ cố tính, cố ý, có chủ tâm
+- ý nhất định, tính quả quyết
+=infirm of purpose+ không quả quyết
+=of set purpose+ nhất định, quả quyết
+=wanting in purpose+ không có ý nhất định, thiếu sự quả quyết
+- kết quả
+=to some purpose+ được phần nào kết quả
+=to little purpose+ chẳng được kết quả là bao
+=to no purpose+ chẳng được kết quả gì, vô ích
+=to good purpose+ có kết quả tốt
+*  ngoại động từ
+- có ý định
+=he purposed coming; he purposed to come+ hắn ta có ý định đến
+@Chuyên ngành kinh tế
+-mục đích
+@Chuyên ngành kỹ thuật
+-mục đích

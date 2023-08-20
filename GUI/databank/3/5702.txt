@@ -1,3 +1,8 @@
-bistro
-	@bistro /'bistrou/\n*  danh từ\n- quán rượu nhỏ\n- tiệm nhảy nhỏ, hộp đêm\n@Chuyên ngành kinh tế\n-hộp đêm\n-phòng trà\n-quán nhậu
-
+bistro	@bistro /'bistrou/
+*  danh từ
+- quán rượu nhỏ
+- tiệm nhảy nhỏ, hộp đêm
+@Chuyên ngành kinh tế
+-hộp đêm
+-phòng trà
+-quán nhậu

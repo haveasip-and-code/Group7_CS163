@@ -1,3 +1,42 @@
-shield
-	@shield /ʃi:ld/\n*  danh từ\n- cái mộc, cái khiên\n- tấm chắn, lưới chắn (ở máy)\n- người che chở, vật che chở\n- (sinh vật học) bộ phận hình khiên\n- miếng độn (ở cổ áo, nách áo, cho khỏi bẩn mồ hôi...)\n!the other side of the shield\n- mặt trái của vấn đề\n*  ngoại động từ\n- che chở\n- bao che, che đậy, lấp liếm\n- (kỹ thuật) chắn, che\n@Chuyên ngành kinh tế\n-tấm ngăn\n-yếm\n@Chuyên ngành kỹ thuật\n-bảng\n-bao\n-bảo vệ\n-cái chắn, tâm chắn, lưới chắn\n-lá chắn\n-lưới chắn\n-nắp\n-ngăn che\n-màn\n-màn chắn\n-màn che\n-tấm\n-tường chắn\n-vách chắn\n-vật chắn\n@Lĩnh vực: hóa học & vật liệu\n-giáp\n-khiên\n@Lĩnh vực: xây dựng\n-khiên đào\n-tấm chắn di động\n-vỏ che\n@Lĩnh vực: điện\n-vỏ bọc\n-vỏ chắn
-
+shield	@shield /ʃi:ld/
+*  danh từ
+- cái mộc, cái khiên
+- tấm chắn, lưới chắn (ở máy)
+- người che chở, vật che chở
+- (sinh vật học) bộ phận hình khiên
+- miếng độn (ở cổ áo, nách áo, cho khỏi bẩn mồ hôi...)
+!the other side of the shield
+- mặt trái của vấn đề
+*  ngoại động từ
+- che chở
+- bao che, che đậy, lấp liếm
+- (kỹ thuật) chắn, che
+@Chuyên ngành kinh tế
+-tấm ngăn
+-yếm
+@Chuyên ngành kỹ thuật
+-bảng
+-bao
+-bảo vệ
+-cái chắn, tâm chắn, lưới chắn
+-lá chắn
+-lưới chắn
+-nắp
+-ngăn che
+-màn
+-màn chắn
+-màn che
+-tấm
+-tường chắn
+-vách chắn
+-vật chắn
+@Lĩnh vực: hóa học & vật liệu
+-giáp
+-khiên
+@Lĩnh vực: xây dựng
+-khiên đào
+-tấm chắn di động
+-vỏ che
+@Lĩnh vực: điện
+-vỏ bọc
+-vỏ chắn

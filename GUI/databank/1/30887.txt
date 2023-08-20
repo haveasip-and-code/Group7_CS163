@@ -1,3 +1,6 @@
-keyword
-	@keyword\n- từ khoá\n@Chuyên ngành kỹ thuật\n-từ nhận dạng\n@Chuyên ngành kỹ thuật\n-từ nhận dạng
-
+keyword	@keyword
+- từ khoá
+@Chuyên ngành kỹ thuật
+-từ nhận dạng
+@Chuyên ngành kỹ thuật
+-từ nhận dạng

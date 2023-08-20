@@ -1,3 +1,6 @@
-velodrome
-	@velodrome\n- anh từ\n- sân đua xe đạp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà đua xe đạp
-
+velodrome	@velodrome
+- anh từ
+- sân đua xe đạp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà đua xe đạp

@@ -1,3 +1,2 @@
-campy
-	@campy\n- xem camp
-
+campy	@campy
+- xem camp

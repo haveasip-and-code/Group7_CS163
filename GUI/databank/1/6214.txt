@@ -1,3 +1,11 @@
-bombardment
-	@bombardment /bɔm'bɑ:dmənt/\n*  danh từ\n- sự bắn phá, sự ném bom, cuộc oanh tạc\n=preliminatry bombardment+ (quân sự) sự bắn phá dọn đường\n=nuclear bombardment+ (vật lý) sự bắn phá hạt nhân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sự bắn phá\n@Lĩnh vực: toán & tin\n-sự kích phá
-
+bombardment	
+@bombardment /bɔm'bɑ:dmənt/
+*  danh từ
+- sự bắn phá, sự ném bom, cuộc oanh tạc=preliminatry bombardment
++ (quân sự) sự bắn phá dọn đường=nuclear bombardment
++ (vật lý) sự bắn phá hạt nhân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-sự bắn phá
+@Lĩnh vực: toán & tin
+-sự kích phá

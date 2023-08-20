@@ -1,3 +1,14 @@
-broom
-	@broom /bru:m/\n*  danh từ\n- (thực vật học) cây đậu chổi\n- cái chổi\n!new broom\n- thủ trưởng mới (hăm hở muốn quét sạch ngay những thói lạm dụng của cơ quan)\n@Chuyên ngành kỹ thuật\n-bàn chải\n-chổi\n@Lĩnh vực: cơ khí & công trình\n-chổi điện\n@Lĩnh vực: xây dựng\n-chổi quét\n-đầu gỗ loe
-
+broom	
+@broom /bru:m/
+*  danh từ
+- (thực vật học) cây đậu chổi
+- cái chổi!new broom
+- thủ trưởng mới (hăm hở muốn quét sạch ngay những thói lạm dụng của cơ quan)
+@Chuyên ngành kỹ thuật
+-bàn chải
+-chổi
+@Lĩnh vực: cơ khí & công trình
+-chổi điện
+@Lĩnh vực: xây dựng
+-chổi quét
+-đầu gỗ loe

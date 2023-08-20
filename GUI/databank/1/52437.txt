@@ -1,3 +1,3 @@
-spinoff
-	@Chuyên ngành kinh tế\n-nảy sinh\n-sáng kiến
-
+spinoff	@Chuyên ngành kinh tế
+-nảy sinh
+-sáng kiến

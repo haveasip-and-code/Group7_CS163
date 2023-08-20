@@ -1,3 +1,7 @@
-adductor
-	@adductor\n* danh từ\n- <phẫu> cơ khép\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cơ khép (cơ bắp làm chuyển động một phần cơ thể về phía phần khác hoặc về phía đường giữa của cơ thể)
-
+adductor	
+@adductor
+* danh từ
+- <phẫu> cơ khép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cơ khép (cơ bắp làm chuyển động một phần cơ thể về phía phần khác hoặc về phía đường giữa của cơ thể)

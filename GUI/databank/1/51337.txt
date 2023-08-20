@@ -1,3 +1,4 @@
-smalls
-	@Chuyên ngành kỹ thuật\n-biểu diễn cỡ nhỏ\n@Lĩnh vực: xây dựng\n-tấm đá phiến nhỏ (30, 4x 15, 2 cm)
-
+smalls	@Chuyên ngành kỹ thuật
+-biểu diễn cỡ nhỏ
+@Lĩnh vực: xây dựng
+-tấm đá phiến nhỏ (30, 4x 15, 2 cm)

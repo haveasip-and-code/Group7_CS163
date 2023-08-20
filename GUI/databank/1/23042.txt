@@ -1,3 +1,11 @@
-gateway
-	@gateway /'geitwei/\n*  danh từ\n- cổng vào ((nghĩa đen) & (nghĩa bóng))\n@Chuyên ngành kỹ thuật\n-cửa ngõ\n-cửa vào\n-lộ môn\n@Lĩnh vực: xây dựng\n-âu (thuyền) đơn\n-cổng ra vào, cửa ngõ
-
+gateway	
+@gateway /'geitwei/
+*  danh từ
+- cổng vào ((nghĩa đen) & (nghĩa bóng))
+@Chuyên ngành kỹ thuật
+-cửa ngõ
+-cửa vào
+-lộ môn
+@Lĩnh vực: xây dựng
+-âu (thuyền) đơn
+-cổng ra vào, cửa ngõ

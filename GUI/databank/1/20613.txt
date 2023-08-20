@@ -1,3 +1,5 @@
-features
-	@Chuyên ngành kỹ thuật\n-đường bao\n@Chuyên ngành kỹ thuật\n-đường bao
-
+features	
+@Chuyên ngành kỹ thuật
+-đường bao
+@Chuyên ngành kỹ thuật
+-đường bao

@@ -1,3 +1,7 @@
-coordinates
-	@Chuyên ngành kỹ thuật\n-hệ tọa độ\n-tọa độ\n-trục tọa độ\n@Lĩnh vực: xây dựng\n-hệ thống tọa độ
-
+coordinates	
+@Chuyên ngành kỹ thuật
+-hệ tọa độ
+-tọa độ
+-trục tọa độ
+@Lĩnh vực: xây dựng
+-hệ thống tọa độ

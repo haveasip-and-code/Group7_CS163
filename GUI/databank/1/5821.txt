@@ -1,3 +1,8 @@
-blanketing
-	@Chuyên ngành kỹ thuật\n-lớp phủ\n-sự phủ\n-vật liệu phủ\n@Lĩnh vực: hóa học & vật liệu\n-sự làm cho trơ\n-sự tạo lớp phủ
-
+blanketing	
+@Chuyên ngành kỹ thuật
+-lớp phủ
+-sự phủ
+-vật liệu phủ
+@Lĩnh vực: hóa học & vật liệu
+-sự làm cho trơ
+-sự tạo lớp phủ

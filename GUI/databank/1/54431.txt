@@ -1,3 +1,4 @@
-sulfonated
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được sunfonat hóa\n-được sunphonat hóa
-
+sulfonated	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được sunfonat hóa
+-được sunphonat hóa

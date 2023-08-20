@@ -1,3 +1,60 @@
-haul
-	@haul /hɔ:l/\n*  danh từ\n- sự kéo mạnh; đoạn đường kéo\n=a long haul+ sự kéo trên một đoạn đường dài\n- (ngành mỏ) sự đẩy goòng\n- sự chuyên chở hàng (bằng xe vận tải); khối lượng chuyên chở\n- (nghĩa bóng) mẻ lưới; món lâi, món kiếm được, mẻ vớ được\n=a good haul of fish+ một mẻ lưới đầy cá\n*  ngoại động từ\n- kéo mạnh, lôi mạnh\n- (ngành mỏ) đẩy (goòng than)\n- chuyên chở (hàng hoá... bằng xe vận tải)\n- (hàng hải) đổi hướng đi (của tàu)\n*  nội động từ\n- (+ at,  upon) kéo mạnh, lôi mạnh\n=to haul at a rope+ kéo mạnh cái dây thừng\n- (ngành mỏ) đẩy (goòng than)\n- (hàng hải) xoay hướng\n=to haul upon the wind+ xoay hướng đi theo chiều gió\n- đổi chiều (gió)\n=the wind hauls from north to west+ gió đổi chiều từ bắc sang tây\n!to haul off\n- (hàng hải) xoay hướng, chuyển hướng tàu\n- rút lui\n- (thông tục) rút tay về trước khi đánh trúng, chuẩn bị đấm\n!to haul down one's flag\n- đầu hàng\n!to haul somebody over the coals\n- (xem) coal\n@Chuyên ngành kinh tế\n-chuyên chở (hàng hóa) bằng xe tải\n-cước phí vận tải đường bộ\n-dắt\n-đoạn đường, lộ trình phải đi\n-giòng\n-kéo\n-mẻ lưới\n-mẻ lưới (số lượng cá đánh được một lần vào lưới)\n-quãng đường\n-sự chuyên chở (bằng xe tải)\n-vận tải đường bộ\n@Chuyên ngành kỹ thuật\n-chuyển tải\n-kéo\n-khối lượng chuyên chở\n-lộ trình\n-lôi đi\n-lôi tải\n-quăng lưới\n-sự chuyên chở\n@Lĩnh vực: giao thông & vận tải\n-kéo đi\n-thay đổi hướng\n@Lĩnh vực: xây dựng\n-kéo tải\n-khiên\n@Lĩnh vực: hóa học & vật liệu\n-sự kéo mạnh\n-sự lôi\n@Lĩnh vực: cơ khí & công trình\n-sự kéo xe
-
+haul	
+@haul /hɔ:l/
+*  danh từ
+- sự kéo mạnh; đoạn đường kéo=a long haul
++ sự kéo trên một đoạn đường dài
+- (ngành mỏ) sự đẩy goòng
+- sự chuyên chở hàng (bằng xe vận tải); khối lượng chuyên chở
+- (nghĩa bóng) mẻ lưới; món lâi, món kiếm được, mẻ vớ được=a good haul of fish
++ một mẻ lưới đầy cá
+*  ngoại động từ
+- kéo mạnh, lôi mạnh
+- (ngành mỏ) đẩy (goòng than)
+- chuyên chở (hàng hoá... bằng xe vận tải)
+- (hàng hải) đổi hướng đi (của tàu)
+*  nội động từ
+- (
++ at,  upon) kéo mạnh, lôi mạnh=to haul at a rope
++ kéo mạnh cái dây thừng
+- (ngành mỏ) đẩy (goòng than)
+- (hàng hải) xoay hướng=to haul upon the wind
++ xoay hướng đi theo chiều gió
+- đổi chiều (gió)=the wind hauls from north to west
++ gió đổi chiều từ bắc sang tây!to haul off
+- (hàng hải) xoay hướng, chuyển hướng tàu
+- rút lui
+- (thông tục) rút tay về trước khi đánh trúng, chuẩn bị đấm!to haul down one's flag
+- đầu hàng!to haul somebody over the coals
+- (xem) coal
+@Chuyên ngành kinh tế
+-chuyên chở (hàng hóa) bằng xe tải
+-cước phí vận tải đường bộ
+-dắt
+-đoạn đường, lộ trình phải đi
+-giòng
+-kéo
+-mẻ lưới
+-mẻ lưới (số lượng cá đánh được một lần vào lưới)
+-quãng đường
+-sự chuyên chở (bằng xe tải)
+-vận tải đường bộ
+@Chuyên ngành kỹ thuật
+-chuyển tải
+-kéo
+-khối lượng chuyên chở
+-lộ trình
+-lôi đi
+-lôi tải
+-quăng lưới
+-sự chuyên chở
+@Lĩnh vực: giao thông & vận tải
+-kéo đi
+-thay đổi hướng
+@Lĩnh vực: xây dựng
+-kéo tải
+-khiên
+@Lĩnh vực: hóa học & vật liệu
+-sự kéo mạnh
+-sự lôi
+@Lĩnh vực: cơ khí & công trình
+-sự kéo xe

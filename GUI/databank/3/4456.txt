@@ -1,3 +1,42 @@
-baffle
-	@baffle /'bæfl/\n*  danh từ\n- sự cản trở, sự trở ngại\n- (kỹ thuật) màng ngăn, vách ngăn\n- (kỹ thuật) cái báp, van đổi hướng\n*  ngoại động từ\n- làm trở ngại\n- làm hỏng, làm thất bại\n=to baffle a plan+ làm thất bại một kế hoạch\n- làm sai lạc, làm rối, làm lạc hướng\n=baffling winds+ gió đổi hướng luôn luôn\n@Chuyên ngành kỹ thuật\n-bộ làm lệch\n-bộ tiêu âm\n-bức chắn\n-làm đổi hướng\n-ngăn\n-ngưỡng hắt nước\n-màn chắn cộng hưởng\n-màng ngăn\n-tấm chắn\n-tấm chắn gió\n-tấm ngăn\n-tường ngăn\n-vách ngăn\n-van điều tiết\n-van đổi hướng\n@Lĩnh vực: xây dựng\n-bộ cản âm\n-bộ chuyển hướng\n-bừng\n-rào ngăn, tấm chắn\n-thiết bị tiêu năng\n@Lĩnh vực: y học\n-lá sách\n@Lĩnh vực: điện tử & viễn thông\n-ngưỡng phân dòng\n@Lĩnh vực: cơ khí & công trình\n-mố giảm sức\n-vách chắn gió\n@Lĩnh vực: điện lạnh\n-vách cách âm
-
+baffle	@baffle /'bæfl/
+*  danh từ
+- sự cản trở, sự trở ngại
+- (kỹ thuật) màng ngăn, vách ngăn
+- (kỹ thuật) cái báp, van đổi hướng
+*  ngoại động từ
+- làm trở ngại
+- làm hỏng, làm thất bại
+=to baffle a plan+ làm thất bại một kế hoạch
+- làm sai lạc, làm rối, làm lạc hướng
+=baffling winds+ gió đổi hướng luôn luôn
+@Chuyên ngành kỹ thuật
+-bộ làm lệch
+-bộ tiêu âm
+-bức chắn
+-làm đổi hướng
+-ngăn
+-ngưỡng hắt nước
+-màn chắn cộng hưởng
+-màng ngăn
+-tấm chắn
+-tấm chắn gió
+-tấm ngăn
+-tường ngăn
+-vách ngăn
+-van điều tiết
+-van đổi hướng
+@Lĩnh vực: xây dựng
+-bộ cản âm
+-bộ chuyển hướng
+-bừng
+-rào ngăn, tấm chắn
+-thiết bị tiêu năng
+@Lĩnh vực: y học
+-lá sách
+@Lĩnh vực: điện tử & viễn thông
+-ngưỡng phân dòng
+@Lĩnh vực: cơ khí & công trình
+-mố giảm sức
+-vách chắn gió
+@Lĩnh vực: điện lạnh
+-vách cách âm

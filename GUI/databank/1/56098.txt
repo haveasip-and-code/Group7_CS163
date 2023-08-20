@@ -1,3 +1,15 @@
-territory
-	@territory /'teritəri/\n*  danh từ\n- đất đai, địa hạt, lãnh thổ\n- khu vực, vùng, miền\n- (Territory) (từ Mỹ,nghĩa Mỹ) hạt (vùng chưa được hưởng những quyền lợi như một bang)\n@Chuyên ngành kinh tế\n-khu vực\n-lãnh thổ\n@Chuyên ngành kỹ thuật\n-khu đất\n-khu vực\n-lãnh thổ\n-vùng đất\n@Lĩnh vực: hóa học & vật liệu\n-địa phận lãnh thổ
-
+territory	@territory /'teritəri/
+*  danh từ
+- đất đai, địa hạt, lãnh thổ
+- khu vực, vùng, miền
+- (Territory) (từ Mỹ,nghĩa Mỹ) hạt (vùng chưa được hưởng những quyền lợi như một bang)
+@Chuyên ngành kinh tế
+-khu vực
+-lãnh thổ
+@Chuyên ngành kỹ thuật
+-khu đất
+-khu vực
+-lãnh thổ
+-vùng đất
+@Lĩnh vực: hóa học & vật liệu
+-địa phận lãnh thổ

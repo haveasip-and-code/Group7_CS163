@@ -1,3 +1,4 @@
-overinvestment
-	@Chuyên ngành kinh tế\n-đầu tư quá độ\n-đầu tư quá mức\n-đầu tư vượt mức
-
+overinvestment	@Chuyên ngành kinh tế
+-đầu tư quá độ
+-đầu tư quá mức
+-đầu tư vượt mức

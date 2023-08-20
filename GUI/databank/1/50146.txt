@@ -1,3 +1,74 @@
-shake
-	@shake /ʃeik/\n*  danh từ\n- sự rung, sự lắc, sự giũ\n=a shake of the head+ cái lắc đầu\n=to give something shake+ giũ cái gì\n- sự run\n=to be all of a shake+ run khắp mình\n=with a shake in his voice+ với một giọng run run\n- (thông tục) lúc, chốc, một thoáng\n=I'll be there in two shake s+ chỉ một thoáng là tớ sẽ có mặt ở đó\n=in two shake s of a lamb's tail+ rất nhanh, rất chóng\n- vết nứt (trong thân cây gỗ)\n- (thông tục) động đất\n- (từ Mỹ,nghĩa Mỹ) cốc sữa trứng đã khuấy ((cũng) milk-shake)\n!to be no great shakes\n- (từ lóng) không tốt lắm; không có tác dụng lắm\n!to give someone (something) the shake\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tránh ai (cái gì); tống khứ ai (cái gì)\n*  động từ shook; shaken\n- rung, lắc, làm rung, lúc lắc, lung lay, lay động; giũ\n=to shake the house+ làm rung nhà\n=to shake one's head+ lắc đầu\n=to shake the dice+ lắc những con súc sắc\n=to shake someone by the hand; to shake hands with someone+ bắt tay người nào\n=to shake a mat+ giũ chiếu\n- rung; (nhạc) ngân\n=to shake with rage+ run lên vì tức giận\n=voice shake with emotion+ giọng run lên vì cảm động\n- làm náo động; làm sửng sốt, làm bàng hoàng\n=to be much shaken by (with, at) a piece of news+ sửng sốt vì một tin\n- (nghĩa bóng) làm lung lay, làm lay chuyển\n=his credit was shaken+ danh tiếng của anh ta bị lung lay\n=to shake someone's faith in something+ làm lay chuyển lòng tin của ai ở cái gì\n- (thông tục) làm mất bình tĩnh\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giũ sạch, tống khứ được (ai, cái gì)\n!to shake down\n- rung cây lấy quả\n- trải (rơm, chăn) ra sàn\n- lắc (hạt lúa...) cho lắng xuống; lắng xuống\n- ngồi ấm chỗ\n- ăn ý với đồng bạn; thích nghi với hoàn cảnh\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tống tiền\n!to shake off\n- giũ, phủi; (bóng) giũ sạch, tống khứ\n!to shake out\n- lắc ra, giũ tung ra; trải (buồm, cờ) ra\n!to shake up\n- lắc để trộn\n- giũ, lắc (gối...) cho gọn lại\n- (nghĩa bóng) thức tỉnh, làm hoạt động\n!to shake in one's shoes\n- run sợ\n!to shake a leg\n- (xem) leg\n@Chuyên ngành kinh tế\n-lắc\n-làm rung\n-rung\n@Chuyên ngành kỹ thuật\n-chuyển động lắc\n-dao động\n-kẽ nứt\n-khe hở\n-khe nứt\n-lắc\n-rung\n-sự lắc\n-sự rây\n-sự rung\n-vết nứt (ở gỗ)\n-vết nứt (trong gỗ)\n-vết rạn\n@Lĩnh vực: ô tô\n-lắc xe
-
+shake	@shake /ʃeik/
+*  danh từ
+- sự rung, sự lắc, sự giũ
+=a shake of the head+ cái lắc đầu
+=to give something shake+ giũ cái gì
+- sự run
+=to be all of a shake+ run khắp mình
+=with a shake in his voice+ với một giọng run run
+- (thông tục) lúc, chốc, một thoáng
+=I'll be there in two shake s+ chỉ một thoáng là tớ sẽ có mặt ở đó
+=in two shake s of a lamb's tail+ rất nhanh, rất chóng
+- vết nứt (trong thân cây gỗ)
+- (thông tục) động đất
+- (từ Mỹ,nghĩa Mỹ) cốc sữa trứng đã khuấy ((cũng) milk-shake)
+!to be no great shakes
+- (từ lóng) không tốt lắm; không có tác dụng lắm
+!to give someone (something) the shake
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tránh ai (cái gì); tống khứ ai (cái gì)
+*  động từ shook; shaken
+- rung, lắc, làm rung, lúc lắc, lung lay, lay động; giũ
+=to shake the house+ làm rung nhà
+=to shake one's head+ lắc đầu
+=to shake the dice+ lắc những con súc sắc
+=to shake someone by the hand; to shake hands with someone+ bắt tay người nào
+=to shake a mat+ giũ chiếu
+- rung; (nhạc) ngân
+=to shake with rage+ run lên vì tức giận
+=voice shake with emotion+ giọng run lên vì cảm động
+- làm náo động; làm sửng sốt, làm bàng hoàng
+=to be much shaken by (with, at) a piece of news+ sửng sốt vì một tin
+- (nghĩa bóng) làm lung lay, làm lay chuyển
+=his credit was shaken+ danh tiếng của anh ta bị lung lay
+=to shake someone's faith in something+ làm lay chuyển lòng tin của ai ở cái gì
+- (thông tục) làm mất bình tĩnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giũ sạch, tống khứ được (ai, cái gì)
+!to shake down
+- rung cây lấy quả
+- trải (rơm, chăn) ra sàn
+- lắc (hạt lúa...) cho lắng xuống; lắng xuống
+- ngồi ấm chỗ
+- ăn ý với đồng bạn; thích nghi với hoàn cảnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tống tiền
+!to shake off
+- giũ, phủi; (bóng) giũ sạch, tống khứ
+!to shake out
+- lắc ra, giũ tung ra; trải (buồm, cờ) ra
+!to shake up
+- lắc để trộn
+- giũ, lắc (gối...) cho gọn lại
+- (nghĩa bóng) thức tỉnh, làm hoạt động
+!to shake in one's shoes
+- run sợ
+!to shake a leg
+- (xem) leg
+@Chuyên ngành kinh tế
+-lắc
+-làm rung
+-rung
+@Chuyên ngành kỹ thuật
+-chuyển động lắc
+-dao động
+-kẽ nứt
+-khe hở
+-khe nứt
+-lắc
+-rung
+-sự lắc
+-sự rây
+-sự rung
+-vết nứt (ở gỗ)
+-vết nứt (trong gỗ)
+-vết rạn
+@Lĩnh vực: ô tô
+-lắc xe

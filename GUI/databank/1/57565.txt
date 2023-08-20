@@ -1,3 +1,32 @@
-tray
-	@tray /trei/\n*  danh từ\n- khay, mâm\n- ngăn hòm\n@Chuyên ngành kinh tế\n-bàn nâng\n-chậu\n-khay\n-khay (đựng thư tín, giấy tờ...trong văn phòng...)\n-khay đựng (thư tín, giấy tờ...trong văn phòng)\n-khay nâng\n-mâm\n-máng\n-thùng\n-xếp vào thùng\n@Chuyên ngành kỹ thuật\n-bàn xoa\n-đĩa\n-khay\n-mâm\n-máng\n-phễu\n-tấm đáy\n-xẻng\n@Lĩnh vực: vật lý\n-chậu rửa ản\n-chậu thuốc hiện hình\n-khay rửa ảnh\n@Lĩnh vực: điện\n-đĩa (tuabin)\n@Lĩnh vực: xây dựng\n-thùng (thí nghiệm)
-
+tray	@tray /trei/
+*  danh từ
+- khay, mâm
+- ngăn hòm
+@Chuyên ngành kinh tế
+-bàn nâng
+-chậu
+-khay
+-khay (đựng thư tín, giấy tờ...trong văn phòng...)
+-khay đựng (thư tín, giấy tờ...trong văn phòng)
+-khay nâng
+-mâm
+-máng
+-thùng
+-xếp vào thùng
+@Chuyên ngành kỹ thuật
+-bàn xoa
+-đĩa
+-khay
+-mâm
+-máng
+-phễu
+-tấm đáy
+-xẻng
+@Lĩnh vực: vật lý
+-chậu rửa ản
+-chậu thuốc hiện hình
+-khay rửa ảnh
+@Lĩnh vực: điện
+-đĩa (tuabin)
+@Lĩnh vực: xây dựng
+-thùng (thí nghiệm)

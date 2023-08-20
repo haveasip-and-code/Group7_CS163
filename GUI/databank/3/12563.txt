@@ -1,3 +1,13 @@
-credentials
-	@credentials /kri'denʃəlz/\n*  danh từ số nhiều\n- giấy uỷ nhiệm, thư uỷ nhiệm, quốc thư\n=to present one's credentials+ trình quốc thư\n@Chuyên ngành kinh tế\n-chứng thư\n-quốc thư (của đại sứ nước ngoài)\n-thư giới thiệu\n-thư ủy nhiệm\n@Chuyên ngành kỹ thuật\n-giấy chứng nhận\n@Lĩnh vực: điện tử & viễn thông\n-nhãn quyển
-
+credentials	@credentials /kri'denʃəlz/
+*  danh từ số nhiều
+- giấy uỷ nhiệm, thư uỷ nhiệm, quốc thư
+=to present one's credentials+ trình quốc thư
+@Chuyên ngành kinh tế
+-chứng thư
+-quốc thư (của đại sứ nước ngoài)
+-thư giới thiệu
+-thư ủy nhiệm
+@Chuyên ngành kỹ thuật
+-giấy chứng nhận
+@Lĩnh vực: điện tử & viễn thông
+-nhãn quyển

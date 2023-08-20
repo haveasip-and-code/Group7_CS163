@@ -1,3 +1,22 @@
-gland
-	@gland /glænd/\n*  danh từ\n- (giải phẫu) tuyến\n=lachrymal gland+ tuyến nước mắt\n- (kỹ thuật) nắp đệm, miếng đệm\n@Chuyên ngành kỹ thuật\n-hộp nắp bít\n-nắp bít\n-nắp đệm\n-nắp đệm, miếng đệm\n-miếng đệm\n-miệng đệm\n-vành đai\n-vành tỳ\n-vòng bít\n-vòng đai\n-vòng đệm kín\n@Lĩnh vực: ô tô\n-phốt (trục đầu)\n@Lĩnh vực: y học\n-tuyến hạch
-
+gland	
+@gland /glænd/
+*  danh từ
+- (giải phẫu) tuyến=lachrymal gland
++ tuyến nước mắt
+- (kỹ thuật) nắp đệm, miếng đệm
+@Chuyên ngành kỹ thuật
+-hộp nắp bít
+-nắp bít
+-nắp đệm
+-nắp đệm, miếng đệm
+-miếng đệm
+-miệng đệm
+-vành đai
+-vành tỳ
+-vòng bít
+-vòng đai
+-vòng đệm kín
+@Lĩnh vực: ô tô
+-phốt (trục đầu)
+@Lĩnh vực: y học
+-tuyến hạch

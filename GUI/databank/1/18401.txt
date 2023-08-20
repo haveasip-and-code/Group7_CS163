@@ -1,3 +1,39 @@
-enlargement
-	@enlargement /in'lɑ:dʤmənt/\n*  danh từ\n- sự mở rộng, sự tăng lên, sự khuếch trương\n- phần mở rộng, phần thêm vào\n- ảnh phóng to\n@Chuyên ngành kinh tế\n-khuếch trương\n-sự mở rộng\n@Chuyên ngành kỹ thuật\n-độ phóng đại\n-kiến trúc phụ\n-nhà phụ\n-mở rộng\n-phát triển\n-phóng đại\n-sự mở rộng\n-sự phóng đại\n-sự phóng lớn\n-sự tăng co\n@Lĩnh vực: vật lý\n-sự in phóng\n@Lĩnh vực: xây dựng\n-sự nhóm gộp\n@Chuyên ngành kỹ thuật\n-độ phóng đại\n-kiến trúc phụ\n-nhà phụ\n-mở rộng\n-phát triển\n-phóng đại\n-sự mở rộng\n-sự phóng đại\n-sự phóng lớn\n-sự tăng co\n@Lĩnh vực: vật lý\n-sự in phóng\n@Lĩnh vực: xây dựng\n-sự nhóm gộp
-
+enlargement	
+@enlargement /in'lɑ:dʤmənt/
+*  danh từ
+- sự mở rộng, sự tăng lên, sự khuếch trương
+- phần mở rộng, phần thêm vào
+- ảnh phóng to
+@Chuyên ngành kinh tế
+-khuếch trương
+-sự mở rộng
+@Chuyên ngành kỹ thuật
+-độ phóng đại
+-kiến trúc phụ
+-nhà phụ
+-mở rộng
+-phát triển
+-phóng đại
+-sự mở rộng
+-sự phóng đại
+-sự phóng lớn
+-sự tăng co
+@Lĩnh vực: vật lý
+-sự in phóng
+@Lĩnh vực: xây dựng
+-sự nhóm gộp
+@Chuyên ngành kỹ thuật
+-độ phóng đại
+-kiến trúc phụ
+-nhà phụ
+-mở rộng
+-phát triển
+-phóng đại
+-sự mở rộng
+-sự phóng đại
+-sự phóng lớn
+-sự tăng co
+@Lĩnh vực: vật lý
+-sự in phóng
+@Lĩnh vực: xây dựng
+-sự nhóm gộp

@@ -1,3 +1,4 @@
-rustproofing
-	@Chuyên ngành kỹ thuật\n-sự chống ăn mòn\n@Lĩnh vực: hóa học & vật liệu\n-làm chống gỉ
-
+rustproofing	@Chuyên ngành kỹ thuật
+-sự chống ăn mòn
+@Lĩnh vực: hóa học & vật liệu
+-làm chống gỉ

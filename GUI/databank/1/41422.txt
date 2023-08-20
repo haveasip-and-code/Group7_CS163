@@ -1,3 +1,3 @@
-phytohormone
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hormôn thực vật
-
+phytohormone	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hormôn thực vật

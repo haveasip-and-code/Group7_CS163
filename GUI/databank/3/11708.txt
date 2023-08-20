@@ -1,3 +1,17 @@
-conversation
-	@conversation /,kɔnvə'seiʃn/\n*  danh từ\n- sự nói chuyện; cuộc nói chuyện, cuộc chuyện trò, cuộc đàm luận\n=to hold a conversation with someone+ chuyện trò với ai, đàm luận với ai\n=to change the conversation+ đổi câu chuyện, nói qua chuyện khác\n- (pháp lý) sự giao cấu; sự giao hợp\n=criminal conversation+ ((viết tắt) crim. con) tội thông dâm, tội ngoại tình\n@Chuyên ngành kỹ thuật\n-hội thoại\n-sự hội thoại\n-tương tác\n@Lĩnh vực: toán & tin\n-cuộc hội thoại\n-đàm luận\n@Lĩnh vực: điện tử & viễn thông\n-cuộc nói chuyện\n-trao đổi điện đàm
-
+conversation	@conversation /,kɔnvə'seiʃn/
+*  danh từ
+- sự nói chuyện; cuộc nói chuyện, cuộc chuyện trò, cuộc đàm luận
+=to hold a conversation with someone+ chuyện trò với ai, đàm luận với ai
+=to change the conversation+ đổi câu chuyện, nói qua chuyện khác
+- (pháp lý) sự giao cấu; sự giao hợp
+=criminal conversation+ ((viết tắt) crim. con) tội thông dâm, tội ngoại tình
+@Chuyên ngành kỹ thuật
+-hội thoại
+-sự hội thoại
+-tương tác
+@Lĩnh vực: toán & tin
+-cuộc hội thoại
+-đàm luận
+@Lĩnh vực: điện tử & viễn thông
+-cuộc nói chuyện
+-trao đổi điện đàm

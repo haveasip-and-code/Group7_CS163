@@ -1,3 +1,37 @@
-finder
-	@finder /'faində/\n*  danh từ\n- người tìm ra, người tìm thấy\n- (kỹ thuật) bộ tìm\n@Chuyên ngành kinh tế\n-người môi giới trung gian\n@Chuyên ngành kỹ thuật\n-bộ dò\n-kính ngắm\n-máy dò\n-máy đo xa\n@Lĩnh vực: vật lý\n-bộ ngắm\n@Lĩnh vực: điện tử & viễn thông\n-bộ tìm kiếm\n@Lĩnh vực: điện\n-máy dò tìm\n@Lĩnh vực: điện lạnh\n-máy tìm\n@Lĩnh vực: hóa học & vật liệu\n-mày tìm\n@Chuyên ngành kỹ thuật\n-bộ dò\n-kính ngắm\n-máy dò\n-máy đo xa\n@Lĩnh vực: vật lý\n-bộ ngắm\n@Lĩnh vực: điện tử & viễn thông\n-bộ tìm kiếm\n@Lĩnh vực: điện\n-máy dò tìm\n@Lĩnh vực: điện lạnh\n-máy tìm\n@Lĩnh vực: hóa học & vật liệu\n-mày tìm
-
+finder	
+@finder /'faində/
+*  danh từ
+- người tìm ra, người tìm thấy
+- (kỹ thuật) bộ tìm
+@Chuyên ngành kinh tế
+-người môi giới trung gian
+@Chuyên ngành kỹ thuật
+-bộ dò
+-kính ngắm
+-máy dò
+-máy đo xa
+@Lĩnh vực: vật lý
+-bộ ngắm
+@Lĩnh vực: điện tử & viễn thông
+-bộ tìm kiếm
+@Lĩnh vực: điện
+-máy dò tìm
+@Lĩnh vực: điện lạnh
+-máy tìm
+@Lĩnh vực: hóa học & vật liệu
+-mày tìm
+@Chuyên ngành kỹ thuật
+-bộ dò
+-kính ngắm
+-máy dò
+-máy đo xa
+@Lĩnh vực: vật lý
+-bộ ngắm
+@Lĩnh vực: điện tử & viễn thông
+-bộ tìm kiếm
+@Lĩnh vực: điện
+-máy dò tìm
+@Lĩnh vực: điện lạnh
+-máy tìm
+@Lĩnh vực: hóa học & vật liệu
+-mày tìm

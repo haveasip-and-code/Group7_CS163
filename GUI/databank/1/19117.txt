@@ -1,3 +1,22 @@
-essay
-	@essay /'esei/\n*  danh từ\n- sự làm thử; sự làm cố gắng\n- bài tiểu luận\n*  ngoại động từ\n- thử làm; cố làm (gì...)\n- thử, thử thách\n*  nội động từ\n- cố gắng\n@Chuyên ngành kỹ thuật\n-thí nghiệm\n-thử\n-thực nghiệm\n@Lĩnh vực: xây dựng\n-thử làm\n@Chuyên ngành kỹ thuật\n-thí nghiệm\n-thử\n-thực nghiệm\n@Lĩnh vực: xây dựng\n-thử làm
-
+essay	
+@essay /'esei/
+*  danh từ
+- sự làm thử; sự làm cố gắng
+- bài tiểu luận
+*  ngoại động từ
+- thử làm; cố làm (gì...)
+- thử, thử thách
+*  nội động từ
+- cố gắng
+@Chuyên ngành kỹ thuật
+-thí nghiệm
+-thử
+-thực nghiệm
+@Lĩnh vực: xây dựng
+-thử làm
+@Chuyên ngành kỹ thuật
+-thí nghiệm
+-thử
+-thực nghiệm
+@Lĩnh vực: xây dựng
+-thử làm

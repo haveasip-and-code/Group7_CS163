@@ -1,3 +1,7 @@
-fielding
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự phân trường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự phân trường
-
+fielding	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự phân trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự phân trường

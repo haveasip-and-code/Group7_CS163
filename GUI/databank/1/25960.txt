@@ -1,3 +1,20 @@
-holiday
-	@holiday /'hɔlədi/\n*  danh từ\n- ngày lễ, ngày nghỉ\n=to be on holiday+ nghỉ\n=to make holiday+ nghỉ, mở hội nghị tưng bừng\n- (số nhiều) kỳ nghỉ (hè, đông...)\n=the summer holidays+ kỳ nghỉ hè\n- (định ngữ) (thuộc) ngày lễ, (thuộc) ngày nghỉ\n=holiday clothes+ quần áo đẹp diện ngày lễ\n=holiday task+ bài làm ra cho học sinh làm trong thời gian nghỉ\n*  nội động từ\n- nghỉ, nghỉ hè\n@Chuyên ngành kinh tế\n-kỳ nghỉ\n-ngày lễ\n-ngày nghỉ\n@Chuyên ngành kỹ thuật\n-khuyết\n-ngày lễ
-
+holiday	
+@holiday /'hɔlədi/
+*  danh từ
+- ngày lễ, ngày nghỉ=to be on holiday
++ nghỉ=to make holiday
++ nghỉ, mở hội nghị tưng bừng
+- (số nhiều) kỳ nghỉ (hè, đông...)=the summer holidays
++ kỳ nghỉ hè
+- (định ngữ) (thuộc) ngày lễ, (thuộc) ngày nghỉ=holiday clothes
++ quần áo đẹp diện ngày lễ=holiday task
++ bài làm ra cho học sinh làm trong thời gian nghỉ
+*  nội động từ
+- nghỉ, nghỉ hè
+@Chuyên ngành kinh tế
+-kỳ nghỉ
+-ngày lễ
+-ngày nghỉ
+@Chuyên ngành kỹ thuật
+-khuyết
+-ngày lễ

@@ -1,3 +1,18 @@
-cow
-	@cow /kau/\n*  danh từ\n- bò cái\n=to milk the cow+ vắt bò sữa\n=milking cow+ bò sữa\n=a cow eith (in) calf+ bò chửa\n- voi cái; tê giác cái; cá voi cái; chó biển cái\n!cows and kisses\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đàn bà con gái\n!till the cow comes home\n- mãi mãi, lâu dài, vô tận\n=I'll be with you till the cow comes home+ tôi sẽ ở lại với anh mãi mãi\n*  ngoại động từ\n- doạ nạt, thị uy, làm cho sợ hãi\n=a cowed look+ vẻ mặt sợ hãi\n@Chuyên ngành kinh tế\n-bò cái\n@Chuyên ngành kỹ thuật\n-bò cái
-
+cow	
+@cow /kau/
+*  danh từ
+- bò cái=to milk the cow
++ vắt bò sữa=milking cow
++ bò sữa=a cow eith (in) calf
++ bò chửa
+- voi cái; tê giác cái; cá voi cái; chó biển cái!cows and kisses
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đàn bà con gái!till the cow comes home
+- mãi mãi, lâu dài, vô tận=I'll be with you till the cow comes home
++ tôi sẽ ở lại với anh mãi mãi
+*  ngoại động từ
+- doạ nạt, thị uy, làm cho sợ hãi=a cowed look
++ vẻ mặt sợ hãi
+@Chuyên ngành kinh tế
+-bò cái
+@Chuyên ngành kỹ thuật
+-bò cái

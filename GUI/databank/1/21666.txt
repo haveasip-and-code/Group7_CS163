@@ -1,3 +1,8 @@
-foamer
-	@foamer\n* danh từ\n- chất tạo bọt\n@Chuyên ngành kỹ thuật\n-chất tạo bọt\n@Lĩnh vực: xây dựng\n-máy nhào bọt
-
+foamer	
+@foamer
+* danh từ
+- chất tạo bọt
+@Chuyên ngành kỹ thuật
+-chất tạo bọt
+@Lĩnh vực: xây dựng
+-máy nhào bọt

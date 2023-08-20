@@ -1,3 +1,4 @@
-frostbitten
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bỏng lạnh
-
+frostbitten	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bỏng lạnh

@@ -1,3 +1,12 @@
-aftereffect
-	@aftereffect\n* danh từ\n- (y) di chứng\n@Chuyên ngành kỹ thuật\n-hiệu ứng phụ\n@Lĩnh vực: vật lý\n-hậu hiệu\n-hiệu ứng sau\n@Lĩnh vực: xây dựng\n-hậu quả về sau\n-hiệu quả về sau\n-kết quả về sau
-
+aftereffect	@aftereffect
+* danh từ
+- (y) di chứng
+@Chuyên ngành kỹ thuật
+-hiệu ứng phụ
+@Lĩnh vực: vật lý
+-hậu hiệu
+-hiệu ứng sau
+@Lĩnh vực: xây dựng
+-hậu quả về sau
+-hiệu quả về sau
+-kết quả về sau

@@ -1,3 +1,2 @@
-addable
-	@addable\n- xem add
-
+addable	@addable
+- xem add

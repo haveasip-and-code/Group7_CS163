@@ -1,3 +1,2 @@
-thrifts
-	@Chuyên ngành kinh tế\n-các tổ chức tiết kiệm
-
+thrifts	@Chuyên ngành kinh tế
+-các tổ chức tiết kiệm

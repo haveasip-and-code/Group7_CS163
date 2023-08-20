@@ -1,3 +1,2 @@
-upgradability
-	@Chuyên ngành kỹ thuật\n-tương thích tiến
-
+upgradability	@Chuyên ngành kỹ thuật
+-tương thích tiến

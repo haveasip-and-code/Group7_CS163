@@ -1,3 +1,4 @@
-coastward
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hướng bờ
-
+coastward	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hướng bờ

@@ -1,3 +1,20 @@
-shears
-	@shears\n* danh từ, pl\n- dụng cụ để xén (to, hình dạng như cái kéo dùng để xén lông cừu, tỉa hàng dậu )\n@Chuyên ngành kỹ thuật\n-cái kéo to\n-cần trục\n-dao cắt\n-dụng cụ cắt\n-đường trượt\n-giá đỡ\n-kéo\n-kéo cắt kim loại\n-lưỡi cắt\n-mặt trượt\n-máy cắt\n-máy cắt (đứt)\n-máy cắt đứt\n-máy đột\n@Lĩnh vực: cơ khí & công trình\n-vách bên (thân máy)
-
+shears	@shears
+* danh từ, pl
+- dụng cụ để xén (to, hình dạng như cái kéo dùng để xén lông cừu, tỉa hàng dậu )
+@Chuyên ngành kỹ thuật
+-cái kéo to
+-cần trục
+-dao cắt
+-dụng cụ cắt
+-đường trượt
+-giá đỡ
+-kéo
+-kéo cắt kim loại
+-lưỡi cắt
+-mặt trượt
+-máy cắt
+-máy cắt (đứt)
+-máy cắt đứt
+-máy đột
+@Lĩnh vực: cơ khí & công trình
+-vách bên (thân máy)

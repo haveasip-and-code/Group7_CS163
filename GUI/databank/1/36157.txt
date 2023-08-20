@@ -1,3 +1,2 @@
-mycoses
-	@mycoses\n- số nhiều của mycosis
-
+mycoses	@mycoses
+- số nhiều của mycosis

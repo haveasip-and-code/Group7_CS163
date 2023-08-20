@@ -1,3 +1,2 @@
-decomposability
-	@decomposability\n- xem decompose
-
+decomposability	@decomposability
+- xem decompose

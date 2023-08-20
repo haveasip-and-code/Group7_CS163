@@ -1,3 +1,2 @@
-aggregate
-	@aggregate\n- (Tech) tập hợp, kết tụ
-
+aggregate	@aggregate
+- (Tech) tập hợp, kết tụ

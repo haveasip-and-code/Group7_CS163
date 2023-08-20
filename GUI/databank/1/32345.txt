@@ -1,3 +1,69 @@
-lip
-	@lip /lip/\n*  danh từ\n- môi\n=upper lip+ môi trên\n=lower lip+ môi dưới\n=to curl one's lips+ cong môi\n=to liock (smack) one's lips+ liếm môi (trong khi hay trước khi ăn uống cái gì ngon); (nghĩa bóng) tỏ vẻ khoái trá, thoả mãn\n=to make a lip+ bĩu môi\n- miệng vết thương, miệng vết lở\n- miệng, mép (cốc, giếng, núi lửa...)\n- cánh môi hình môi\n- (âm nhạc) cách đặt môi\n- (từ lóng) sự hỗn xược, sự láo xược\n=to have had enough of someone's lip+ không thể chịu được sự láo xược của ai\n!stiff upper lip\n- sự không nao núng, sự không lay chuyển được, tính kiên cường\n=to carry (keep) a stiff upper lip+ không nao núng, giữ vững tinh thần, kiên cường\n!to hang one's lip\n- buồn thiu, sầu não\n!to hang on somebody's lips\n- (xem) hang\n!not tom open one's lips\n- không hé răng\n!word escapes one's lips\n- nói lỡ lời\n*  ngoại động từ\n- hôn, mặt môi vào\n- vỗ bờ (nước, sóng)\n- thì thầm\n*  nội động từ\n- vỗ bập bềnh (nước, sóng)\n@Chuyên ngành kỹ thuật\n-gấp mép\n-gờ nhô\n-lưỡi cắt\n-lưỡi cắt chính\n-mặt bích\n-mép\n-miệng\n-miệng phun\n-mỏ cặp\n-ống tháo\n-răng gàu\n@Lĩnh vực: xây dựng\n-ngưỡng (cửa)\n-răng gầu\n@Lĩnh vực: hóa học & vật liệu\n-mép (núi lửa)\n@Lĩnh vực: cơ khí & công trình\n-vành thùng\n@Chuyên ngành kỹ thuật\n-gấp mép\n-gờ nhô\n-lưỡi cắt\n-lưỡi cắt chính\n-mặt bích\n-mép\n-miệng\n-miệng phun\n-mỏ cặp\n-ống tháo\n-răng gàu\n@Lĩnh vực: xây dựng\n-ngưỡng (cửa)\n-răng gầu\n@Lĩnh vực: hóa học & vật liệu\n-mép (núi lửa)\n@Lĩnh vực: cơ khí & công trình\n-vành thùng
-
+lip	@lip /lip/
+*  danh từ
+- môi
+=upper lip+ môi trên
+=lower lip+ môi dưới
+=to curl one's lips+ cong môi
+=to liock (smack) one's lips+ liếm môi (trong khi hay trước khi ăn uống cái gì ngon); (nghĩa bóng) tỏ vẻ khoái trá, thoả mãn
+=to make a lip+ bĩu môi
+- miệng vết thương, miệng vết lở
+- miệng, mép (cốc, giếng, núi lửa...)
+- cánh môi hình môi
+- (âm nhạc) cách đặt môi
+- (từ lóng) sự hỗn xược, sự láo xược
+=to have had enough of someone's lip+ không thể chịu được sự láo xược của ai
+!stiff upper lip
+- sự không nao núng, sự không lay chuyển được, tính kiên cường
+=to carry (keep) a stiff upper lip+ không nao núng, giữ vững tinh thần, kiên cường
+!to hang one's lip
+- buồn thiu, sầu não
+!to hang on somebody's lips
+- (xem) hang
+!not tom open one's lips
+- không hé răng
+!word escapes one's lips
+- nói lỡ lời
+*  ngoại động từ
+- hôn, mặt môi vào
+- vỗ bờ (nước, sóng)
+- thì thầm
+*  nội động từ
+- vỗ bập bềnh (nước, sóng)
+@Chuyên ngành kỹ thuật
+-gấp mép
+-gờ nhô
+-lưỡi cắt
+-lưỡi cắt chính
+-mặt bích
+-mép
+-miệng
+-miệng phun
+-mỏ cặp
+-ống tháo
+-răng gàu
+@Lĩnh vực: xây dựng
+-ngưỡng (cửa)
+-răng gầu
+@Lĩnh vực: hóa học & vật liệu
+-mép (núi lửa)
+@Lĩnh vực: cơ khí & công trình
+-vành thùng
+@Chuyên ngành kỹ thuật
+-gấp mép
+-gờ nhô
+-lưỡi cắt
+-lưỡi cắt chính
+-mặt bích
+-mép
+-miệng
+-miệng phun
+-mỏ cặp
+-ống tháo
+-răng gàu
+@Lĩnh vực: xây dựng
+-ngưỡng (cửa)
+-răng gầu
+@Lĩnh vực: hóa học & vật liệu
+-mép (núi lửa)
+@Lĩnh vực: cơ khí & công trình
+-vành thùng

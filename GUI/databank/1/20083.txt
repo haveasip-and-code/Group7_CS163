@@ -1,3 +1,53 @@
-extract
-	@extract /'ekstrækt - iks'trækt/\n- iks'trækt/\n*  danh từ\n- đoạn trích\n- (hoá học) phần chiết\n- (dược học) cao\n*  ngoại động từ\n- trích (sách); chép (trong đoạn sách)\n- nhổ (răng...)\n- bòn rút, moi\n- hút, bóp, nặn\n- rút ra (nguyên tắc, sự thích thú)\n- (toán học) khai (căn)\n- (hoá học) chiết\n@Chuyên ngành kinh tế\n-phần chiết\n-sự tách ra\n@Chuyên ngành kỹ thuật\n-chiết ra\n-hút ra\n-khai căn\n-ngâm chiết\n-phần chiết\n-rút\n-sự chiết\n-sự tách\n-tách ra\n@Lĩnh vực: hóa học & vật liệu\n-chất chiết ra\n-chất trích ly\n@Lĩnh vực: y học\n-chiết xuất\n@Lĩnh vực: toán & tin\n-khai (căn)\n@Chuyên ngành kỹ thuật\n-chiết ra\n-hút ra\n-khai căn\n-ngâm chiết\n-phần chiết\n-rút\n-sự chiết\n-sự tách\n-tách ra\n@Lĩnh vực: hóa học & vật liệu\n-chất chiết ra\n-chất trích ly\n@Lĩnh vực: y học\n-chiết xuất\n@Lĩnh vực: toán & tin\n-khai (căn)
-
+extract	
+@extract /'ekstrækt 
+- iks'trækt/
+- iks'trækt/
+*  danh từ
+- đoạn trích
+- (hoá học) phần chiết
+- (dược học) cao
+*  ngoại động từ
+- trích (sách); chép (trong đoạn sách)
+- nhổ (răng...)
+- bòn rút, moi
+- hút, bóp, nặn
+- rút ra (nguyên tắc, sự thích thú)
+- (toán học) khai (căn)
+- (hoá học) chiết
+@Chuyên ngành kinh tế
+-phần chiết
+-sự tách ra
+@Chuyên ngành kỹ thuật
+-chiết ra
+-hút ra
+-khai căn
+-ngâm chiết
+-phần chiết
+-rút
+-sự chiết
+-sự tách
+-tách ra
+@Lĩnh vực: hóa học & vật liệu
+-chất chiết ra
+-chất trích ly
+@Lĩnh vực: y học
+-chiết xuất
+@Lĩnh vực: toán & tin
+-khai (căn)
+@Chuyên ngành kỹ thuật
+-chiết ra
+-hút ra
+-khai căn
+-ngâm chiết
+-phần chiết
+-rút
+-sự chiết
+-sự tách
+-tách ra
+@Lĩnh vực: hóa học & vật liệu
+-chất chiết ra
+-chất trích ly
+@Lĩnh vực: y học
+-chiết xuất
+@Lĩnh vực: toán & tin
+-khai (căn)

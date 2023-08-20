@@ -1,3 +1,27 @@
-coherence
-	@coherence /kou'hiərəns/ (coherency) /kou'hiərənsi/\n*  danh từ\n- sự gắn với nhau, sự dính với nhau; sự kết lại với nhau, sự cố kết\n- (văn học) tính mạch lạc, tính chặt chẽ\n@Chuyên ngành kinh tế\n-sự gắn bó nhau\n-tính tương can\n@Chuyên ngành kỹ thuật\n-độ dài phù hợp\n-độ nhớt\n-kết hợp\n-lực bám dính\n-lực dính\n-lực dính bám\n-phù hợp\n-sự ăn khớp\n-sự gắn kết\n-sự kết dính\n-sự kết hợp\n-sự liên kết\n-sự nhất quán\n-sự phù hợp\n-tính dính\n-tính phù hợp\n@Lĩnh vực: điện lạnh\n-tính kết hợp
-
+coherence	
+@coherence /kou'hiərəns/ (coherency) /kou'hiərənsi/
+*  danh từ
+- sự gắn với nhau, sự dính với nhau; sự kết lại với nhau, sự cố kết
+- (văn học) tính mạch lạc, tính chặt chẽ
+@Chuyên ngành kinh tế
+-sự gắn bó nhau
+-tính tương can
+@Chuyên ngành kỹ thuật
+-độ dài phù hợp
+-độ nhớt
+-kết hợp
+-lực bám dính
+-lực dính
+-lực dính bám
+-phù hợp
+-sự ăn khớp
+-sự gắn kết
+-sự kết dính
+-sự kết hợp
+-sự liên kết
+-sự nhất quán
+-sự phù hợp
+-tính dính
+-tính phù hợp
+@Lĩnh vực: điện lạnh
+-tính kết hợp

@@ -1,3 +1,11 @@
-sweetener
-	@sweetener /'swi:tənə/\n*  danh từ\n- chất pha cho ngọt\n@Chuyên ngành kinh tế\n-chất làm ngọt\n-nét hấp dẫn\n-tiền bôi trơn\n-tiền trà nước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-chất làm ngọt
-
+sweetener	@sweetener /'swi:tənə/
+*  danh từ
+- chất pha cho ngọt
+@Chuyên ngành kinh tế
+-chất làm ngọt
+-nét hấp dẫn
+-tiền bôi trơn
+-tiền trà nước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-chất làm ngọt

@@ -1,3 +1,6 @@
-coastline
-	@coastline /'koustlain/\n*  danh từ\n- bờ biển; hình dáng bờ biển\n@Chuyên ngành kỹ thuật\n-đường bờ\n-đường bờ biển
-
+coastline	@coastline /'koustlain/
+*  danh từ
+- bờ biển; hình dáng bờ biển
+@Chuyên ngành kỹ thuật
+-đường bờ
+-đường bờ biển

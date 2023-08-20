@@ -1,3 +1,3 @@
-microtubule
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vi cấu trúc hình ống
-
+microtubule	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vi cấu trúc hình ống

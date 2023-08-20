@@ -1,3 +1,4 @@
-depict
-	@depict /di'pikt/\n*  ngoại động từ ((cũng) depicture)\n- vẽ\n- tả, miêu tả
-
+depict	@depict /di'pikt/
+*  ngoại động từ ((cũng) depicture)
+- vẽ
+- tả, miêu tả

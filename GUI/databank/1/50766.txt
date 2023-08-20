@@ -1,3 +1,10 @@
-similarity
-	@similarity /,simi'læriti/\n*  danh từ\n- sự giống nhau, sự tương tự\n- điểm giống nhau, điểm tương tự, nét giống nhau, nét tương tự\n- (toán học) sự đồng dạng\n@Chuyên ngành kỹ thuật\n-sự đồng dạng\n-sự tương tự\n@Lĩnh vực: điện lạnh\n-sự giống
-
+similarity	@similarity /,simi'læriti/
+*  danh từ
+- sự giống nhau, sự tương tự
+- điểm giống nhau, điểm tương tự, nét giống nhau, nét tương tự
+- (toán học) sự đồng dạng
+@Chuyên ngành kỹ thuật
+-sự đồng dạng
+-sự tương tự
+@Lĩnh vực: điện lạnh
+-sự giống

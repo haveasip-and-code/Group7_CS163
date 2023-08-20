@@ -1,3 +1,27 @@
-craft
-	@craft /krɑ:ft/\n*  danh từ\n- nghề, nghề thủ công\n- tập thể những người cùng nghề (thủ công)\n- mưu mẹo, mánh khoé, ngón xảo quyệt, ngón lừa đảo\n- (số nhiều không đổi) (hàng hải) tàu\n- (số nhiều không đổi) máy bay\n- (the Craft) hội tam điểm\n@Chuyên ngành kinh tế\n-kỹ thuật\n-kỹ xảo\n-nghề\n@Chuyên ngành kỹ thuật\n-kỹ thuật\n-kỹ xảo\n-nghề nghiệp\n-nhân lực\n-tàu\n-thủ công\n-xuồng\n@Lĩnh vực: xây dựng\n-nghề\n-sự khéo\n-tàu thủy\n@Lĩnh vực: cơ khí & công trình\n-thiết bị bay
-
+craft	
+@craft /krɑ:ft/
+*  danh từ
+- nghề, nghề thủ công
+- tập thể những người cùng nghề (thủ công)
+- mưu mẹo, mánh khoé, ngón xảo quyệt, ngón lừa đảo
+- (số nhiều không đổi) (hàng hải) tàu
+- (số nhiều không đổi) máy bay
+- (the Craft) hội tam điểm
+@Chuyên ngành kinh tế
+-kỹ thuật
+-kỹ xảo
+-nghề
+@Chuyên ngành kỹ thuật
+-kỹ thuật
+-kỹ xảo
+-nghề nghiệp
+-nhân lực
+-tàu
+-thủ công
+-xuồng
+@Lĩnh vực: xây dựng
+-nghề
+-sự khéo
+-tàu thủy
+@Lĩnh vực: cơ khí & công trình
+-thiết bị bay

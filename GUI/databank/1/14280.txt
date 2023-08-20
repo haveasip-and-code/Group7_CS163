@@ -1,3 +1,9 @@
-deliverable
-	@deliverable\n- xem deliver\n@Chuyên ngành kinh tế\n-có thể giao được\n-có thể phát\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-giao phẩm
-
+deliverable	
+@deliverable
+- xem deliver
+@Chuyên ngành kinh tế
+-có thể giao được
+-có thể phát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-giao phẩm

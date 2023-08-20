@@ -1,3 +1,13 @@
-granulator
-	@granulator\n- xem granulate\n@Chuyên ngành kinh tế\n-máy nghiền thành bột\n-máy sấy\n-máy sấy để kết tinh đường\n@Chuyên ngành kỹ thuật\n-máy nghiền\n-máy tạo hạt\n@Lĩnh vực: hóa học & vật liệu\n-máy kết hạt\n-máy nghiền hạt
-
+granulator	
+@granulator
+- xem granulate
+@Chuyên ngành kinh tế
+-máy nghiền thành bột
+-máy sấy
+-máy sấy để kết tinh đường
+@Chuyên ngành kỹ thuật
+-máy nghiền
+-máy tạo hạt
+@Lĩnh vực: hóa học & vật liệu
+-máy kết hạt
+-máy nghiền hạt

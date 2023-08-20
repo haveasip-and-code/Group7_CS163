@@ -1,3 +1,23 @@
-embargo
-	@embargo /em'bɑ:gou/\n*  danh từ,  số nhiều embargoes\n- lệnh cấm vận\n- sự đình chỉ hoạt động (một ngành buôn bán)\n- sự cản trở\n*  ngoại động từ\n- cấm vận\n- sung công (tàu bè, hàng hoá...)\n@Chuyên ngành kinh tế\n-bế cảng\n-cấm chỉ thông thương\n-cấm vận\n-lệnh cấm chỉ mậu dịch\n-sự cấm vận\n@Chuyên ngành kỹ thuật\n-cấm vận\n@Lĩnh vực: điện\n-sự cấm vận\n@Chuyên ngành kỹ thuật\n-cấm vận\n@Lĩnh vực: điện\n-sự cấm vận
-
+embargo	
+@embargo /em'bɑ:gou/
+*  danh từ,  số nhiều embargoes
+- lệnh cấm vận
+- sự đình chỉ hoạt động (một ngành buôn bán)
+- sự cản trở
+*  ngoại động từ
+- cấm vận
+- sung công (tàu bè, hàng hoá...)
+@Chuyên ngành kinh tế
+-bế cảng
+-cấm chỉ thông thương
+-cấm vận
+-lệnh cấm chỉ mậu dịch
+-sự cấm vận
+@Chuyên ngành kỹ thuật
+-cấm vận
+@Lĩnh vực: điện
+-sự cấm vận
+@Chuyên ngành kỹ thuật
+-cấm vận
+@Lĩnh vực: điện
+-sự cấm vận

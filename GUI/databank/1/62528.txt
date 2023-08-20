@@ -1,3 +1,6 @@
-wattage
-	@wattage\n* danh từ\n- lượng điện năng được biểu hiện bằng oát\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-số oát
-
+wattage	@wattage
+* danh từ
+- lượng điện năng được biểu hiện bằng oát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-số oát

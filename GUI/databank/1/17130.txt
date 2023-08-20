@@ -1,3 +1,4 @@
-dysarthria
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chứng loạn cận ngôn
-
+dysarthria	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chứng loạn cận ngôn

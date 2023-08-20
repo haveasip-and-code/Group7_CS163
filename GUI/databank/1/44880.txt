@@ -1,3 +1,5 @@
-putrescine
-	@Chuyên ngành kinh tế\n-putrexin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amin tạo thành trong quá trình thối rữa
-
+putrescine	@Chuyên ngành kinh tế
+-putrexin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-amin tạo thành trong quá trình thối rữa

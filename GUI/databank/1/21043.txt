@@ -1,3 +1,18 @@
-filterability
-	@filterability /,filtərə'biliti/\n*  danh từ\n- tính có thể lọc\n@Chuyên ngành kỹ thuật\n-khả năng lọc\n@Lĩnh vực: hóa học & vật liệu\n-tinh lọc được\n@Lĩnh vực: xây dựng\n-tính lọc được\n-tính thấm được\n@Chuyên ngành kỹ thuật\n-khả năng lọc\n@Lĩnh vực: hóa học & vật liệu\n-tinh lọc được\n@Lĩnh vực: xây dựng\n-tính lọc được\n-tính thấm được
-
+filterability	
+@filterability /,filtərə'biliti/
+*  danh từ
+- tính có thể lọc
+@Chuyên ngành kỹ thuật
+-khả năng lọc
+@Lĩnh vực: hóa học & vật liệu
+-tinh lọc được
+@Lĩnh vực: xây dựng
+-tính lọc được
+-tính thấm được
+@Chuyên ngành kỹ thuật
+-khả năng lọc
+@Lĩnh vực: hóa học & vật liệu
+-tinh lọc được
+@Lĩnh vực: xây dựng
+-tính lọc được
+-tính thấm được

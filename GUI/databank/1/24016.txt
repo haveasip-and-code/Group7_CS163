@@ -1,3 +1,4 @@
-grains
-	@grains /greinz/\n*  danh từ,  số nhiều (thường) dùng như số ít\n- xiên đâm cá
-
+grains	
+@grains /greinz/
+*  danh từ,  số nhiều (thường) dùng như số ít
+- xiên đâm cá

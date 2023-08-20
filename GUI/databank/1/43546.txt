@@ -1,3 +1,14 @@
-preview
-	@preview /'pri:'vju:/\n*  danh từ\n- sự xem trước, sự duyệt trước (phim ảnh, ảnh...)\n*  ngoại động từ\n- xem trước, duyệt trước (phim ảnh, ảnh...)\n@Chuyên ngành kỹ thuật\n-duyệt trước\n-sự duyệt trước\n-sự xem trước\n-xem trước\n@Lĩnh vực: xây dựng\n-tiên duyệt\n@Lĩnh vực: toán & tin\n-xem trước (trang in)
-
+preview	@preview /'pri:'vju:/
+*  danh từ
+- sự xem trước, sự duyệt trước (phim ảnh, ảnh...)
+*  ngoại động từ
+- xem trước, duyệt trước (phim ảnh, ảnh...)
+@Chuyên ngành kỹ thuật
+-duyệt trước
+-sự duyệt trước
+-sự xem trước
+-xem trước
+@Lĩnh vực: xây dựng
+-tiên duyệt
+@Lĩnh vực: toán & tin
+-xem trước (trang in)

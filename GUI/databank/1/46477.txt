@@ -1,3 +1,5 @@
-rehandling
-	@Chuyên ngành kinh tế\n-sự bao gói lại\n-sự chế biến lại\n-sự sửa lại\n-sự tái xử lý
-
+rehandling	@Chuyên ngành kinh tế
+-sự bao gói lại
+-sự chế biến lại
+-sự sửa lại
+-sự tái xử lý

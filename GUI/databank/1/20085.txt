@@ -1,3 +1,72 @@
-extraction
-	@extraction /iks'trækʃn/\n*  danh từ\n- sự trích (sách); sự chép (một đoạn trong sách)\n- sự nhổ (răng...)\n- sự bòn rút, sự moi\n- sự hút, sự bóp, sự nặn\n- sự rút ra (nguyên tắc, sự thích thú\n- (toán học) phép khai (căn)\n- (hoá học) sự chiết\n- dòng giống, nguồn gốc\n=to be of Chinese extraction+ nguồn gốc Trung-hoa\n!extraction rate\n- tỷ lê xay bột (giữa trọng lượng bột xay được và gạo đưa xay)\n@Chuyên ngành kinh tế\n-sự chiết\n-sự rút ra\n-sự trích ly\n@Chuyên ngành kỹ thuật\n-chiết\n-chọn lọc\n-khai căn\n-khai thác\n-lựa chọn\n-sự chiết\n-sự ép ra\n-sự hút\n-sự khai căn\n-sự khai thác\n-sự ngâm chiết\n-sự rút\n-sự rút (đinh)\n-sự tách\n-sự thu hồi\n-trích\n@Lĩnh vực: hóa học & vật liệu\n-phương pháp chiết\n-trích ly\n@Lĩnh vực: toán & tin\n-sự khai (căn)\n-sự trích\n@Lĩnh vực: điện lạnh\n-sự lấy (đi)\n@Lĩnh vực: xây dựng\n-sự nhổ\n@Chuyên ngành kỹ thuật\n-chiết\n-chọn lọc\n-khai căn\n-khai thác\n-lựa chọn\n-sự chiết\n-sự ép ra\n-sự hút\n-sự khai căn\n-sự khai thác\n-sự ngâm chiết\n-sự rút\n-sự rút (đinh)\n-sự tách\n-sự thu hồi\n-trích\n@Lĩnh vực: hóa học & vật liệu\n-phương pháp chiết\n-trích ly\n@Lĩnh vực: toán & tin\n-sự khai (căn)\n-sự trích\n@Lĩnh vực: điện lạnh\n-sự lấy (đi)\n@Lĩnh vực: xây dựng\n-sự nhổ
-
+extraction	
+@extraction /iks'trækʃn/
+*  danh từ
+- sự trích (sách); sự chép (một đoạn trong sách)
+- sự nhổ (răng...)
+- sự bòn rút, sự moi
+- sự hút, sự bóp, sự nặn
+- sự rút ra (nguyên tắc, sự thích thú
+- (toán học) phép khai (căn)
+- (hoá học) sự chiết
+- dòng giống, nguồn gốc=to be of Chinese extraction
++ nguồn gốc Trung
+-hoa!extraction rate
+- tỷ lê xay bột (giữa trọng lượng bột xay được và gạo đưa xay)
+@Chuyên ngành kinh tế
+-sự chiết
+-sự rút ra
+-sự trích ly
+@Chuyên ngành kỹ thuật
+-chiết
+-chọn lọc
+-khai căn
+-khai thác
+-lựa chọn
+-sự chiết
+-sự ép ra
+-sự hút
+-sự khai căn
+-sự khai thác
+-sự ngâm chiết
+-sự rút
+-sự rút (đinh)
+-sự tách
+-sự thu hồi
+-trích
+@Lĩnh vực: hóa học & vật liệu
+-phương pháp chiết
+-trích ly
+@Lĩnh vực: toán & tin
+-sự khai (căn)
+-sự trích
+@Lĩnh vực: điện lạnh
+-sự lấy (đi)
+@Lĩnh vực: xây dựng
+-sự nhổ
+@Chuyên ngành kỹ thuật
+-chiết
+-chọn lọc
+-khai căn
+-khai thác
+-lựa chọn
+-sự chiết
+-sự ép ra
+-sự hút
+-sự khai căn
+-sự khai thác
+-sự ngâm chiết
+-sự rút
+-sự rút (đinh)
+-sự tách
+-sự thu hồi
+-trích
+@Lĩnh vực: hóa học & vật liệu
+-phương pháp chiết
+-trích ly
+@Lĩnh vực: toán & tin
+-sự khai (căn)
+-sự trích
+@Lĩnh vực: điện lạnh
+-sự lấy (đi)
+@Lĩnh vực: xây dựng
+-sự nhổ

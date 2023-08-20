@@ -1,3 +1,15 @@
-disinfectant
-	@disinfectant /,disin'fektənt/\n*  tính từ\n- tẩy uế\n*  danh từ\n- thuốc tẩy uế, chất tẩy uế\n@Chuyên ngành kinh tế\n-ẩy uế\n-chất tẩy uế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất diệt khuẩn\n@Lĩnh vực: hóa học & vật liệu\n-chất tẩy uế\n-thuốc tẩy uế
-
+disinfectant	
+@disinfectant /,disin'fektənt/
+*  tính từ
+- tẩy uế
+*  danh từ
+- thuốc tẩy uế, chất tẩy uế
+@Chuyên ngành kinh tế
+-ẩy uế
+-chất tẩy uế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất diệt khuẩn
+@Lĩnh vực: hóa học & vật liệu
+-chất tẩy uế
+-thuốc tẩy uế

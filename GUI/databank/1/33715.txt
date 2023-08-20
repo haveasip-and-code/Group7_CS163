@@ -1,3 +1,7 @@
-marketer
-	@Chuyên ngành kinh tế\n-chợ từ mua bán\n-giám đốc phân phối\n-giám đốc tiêu thụ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phát thị viên
-
+marketer	@Chuyên ngành kinh tế
+-chợ từ mua bán
+-giám đốc phân phối
+-giám đốc tiêu thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phát thị viên

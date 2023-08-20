@@ -1,3 +1,4 @@
-glosseme
-	@glosseme\n* danh từ\n- (ngôn ngữ) ngữ vị
-
+glosseme	
+@glosseme
+* danh từ
+- (ngôn ngữ) ngữ vị

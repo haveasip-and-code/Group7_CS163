@@ -1,3 +1,6 @@
-metalliferous
-	@metalliferous\n* tính từ\n- có chứa kim loại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chứa kim loại
-
+metalliferous	@metalliferous
+* tính từ
+- có chứa kim loại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chứa kim loại

@@ -1,3 +1,10 @@
-reticulate
-	@reticulate /ri'tikjulit/\n*  tính từ\n- hình mắc lưới, hình mạng\n*  ngoại động từ\n- làm thành hình mắt lưới\n*  nội động từ\n- có hình mắc lưới\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-có dạng mắt lưới
-
+reticulate	@reticulate /ri'tikjulit/
+*  tính từ
+- hình mắc lưới, hình mạng
+*  ngoại động từ
+- làm thành hình mắt lưới
+*  nội động từ
+- có hình mắc lưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-có dạng mắt lưới

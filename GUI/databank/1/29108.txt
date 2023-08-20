@@ -1,3 +1,13 @@
-intangible
-	@intangible /in'tændʤəbl/\n*  tính từ\n- không thể sờ thấy được\n- không thể hiểu thấu được, không thể nắm được, mơ hồ\n*  danh từ\n- vật không thể sờ thấy được\n- điều không thể hiểu thấu được, điều không thể nắm được, điều mơ hồ\n@Chuyên ngành kinh tế\n-chi phí vô hình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-không xác thực
-
+intangible	
+@intangible /in'tændʤəbl/
+*  tính từ
+- không thể sờ thấy được
+- không thể hiểu thấu được, không thể nắm được, mơ hồ
+*  danh từ
+- vật không thể sờ thấy được
+- điều không thể hiểu thấu được, điều không thể nắm được, điều mơ hồ
+@Chuyên ngành kinh tế
+-chi phí vô hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-không xác thực

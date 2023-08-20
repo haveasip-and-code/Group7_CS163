@@ -1,3 +1,4 @@
-ciao
-	@ciao\n- interj\n- chào!
-
+ciao	
+@ciao
+- interj
+- chào!

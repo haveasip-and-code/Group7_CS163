@@ -1,3 +1,2 @@
-desalinator
-	@desalinator\n- xem desalinate
-
+desalinator	@desalinator
+- xem desalinate

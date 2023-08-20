@@ -1,3 +1,19 @@
-cull
-	@cull /kʌl/\n*  ngoại động từ\n- lựa chọn, chọn lọc\n=extracts culled from the best authors+ những đoạn trích được chọn lọc của các tác giả hay nhất\n- hái (hoa...)\n*  danh từ\n- súc vật loại ra để thịt\n@Chuyên ngành kinh tế\n-hái\n-ngắt\n-sự lựa chọn\n-sự phân loại\n@Chuyên ngành kỹ thuật\n-lấy ra\n-rút ra\n-sự lựa chọn\n@Lĩnh vực: hóa học & vật liệu\n-vật liệu thừa
-
+cull	
+@cull /kʌl/
+*  ngoại động từ
+- lựa chọn, chọn lọc=extracts culled from the best authors
++ những đoạn trích được chọn lọc của các tác giả hay nhất
+- hái (hoa...)
+*  danh từ
+- súc vật loại ra để thịt
+@Chuyên ngành kinh tế
+-hái
+-ngắt
+-sự lựa chọn
+-sự phân loại
+@Chuyên ngành kỹ thuật
+-lấy ra
+-rút ra
+-sự lựa chọn
+@Lĩnh vực: hóa học & vật liệu
+-vật liệu thừa

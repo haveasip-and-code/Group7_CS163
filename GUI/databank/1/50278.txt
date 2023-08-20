@@ -1,3 +1,43 @@
-sheeting
-	@sheeting /'ʃi:tiɳ/\n*  danh từ\n- vải làm khăn trải giường\n- tấm để phủ mặt; tấm để lót\n=copper sheeting+ tấm đồng để phủ mặt; tấm đồng để lót\n- sự dàn thành lá, sự dàn thành tấm\n@Chuyên ngành kỹ thuật\n-cọc ván\n-cốp-pha\n-cột chống\n-hàng ván cừ\n-hào\n-khung chống\n-lớp bọc\n-lớp mặt đường\n-sự bọc\n-sự đóng cừ ván\n-sự ốp mặt\n-sự phân lớp\n-sự phủ\n-tấm\n-tấm lát\n-tấm lót\n-tôn\n-ván khuôn\n-vật liệu phủ\n-vì chống\n-vỏ bọc\n@Lĩnh vực: toán & tin\n-bằng ván cừ\n-sự lợp mái\n@Lĩnh vực: xây dựng\n-gỗ bọc\n-lớp phủ đường\n-sự đóng hàng\n-sự lợp ván\n-tấm bọc lót\n-ván ốp hầm\n-vật liệu trát\n@Lĩnh vực: cơ khí & công trình\n-tôn bọc\n@Lĩnh vực: dệt may\n-vải khổ rộng
-
+sheeting	@sheeting /'ʃi:tiɳ/
+*  danh từ
+- vải làm khăn trải giường
+- tấm để phủ mặt; tấm để lót
+=copper sheeting+ tấm đồng để phủ mặt; tấm đồng để lót
+- sự dàn thành lá, sự dàn thành tấm
+@Chuyên ngành kỹ thuật
+-cọc ván
+-cốp-pha
+-cột chống
+-hàng ván cừ
+-hào
+-khung chống
+-lớp bọc
+-lớp mặt đường
+-sự bọc
+-sự đóng cừ ván
+-sự ốp mặt
+-sự phân lớp
+-sự phủ
+-tấm
+-tấm lát
+-tấm lót
+-tôn
+-ván khuôn
+-vật liệu phủ
+-vì chống
+-vỏ bọc
+@Lĩnh vực: toán & tin
+-bằng ván cừ
+-sự lợp mái
+@Lĩnh vực: xây dựng
+-gỗ bọc
+-lớp phủ đường
+-sự đóng hàng
+-sự lợp ván
+-tấm bọc lót
+-ván ốp hầm
+-vật liệu trát
+@Lĩnh vực: cơ khí & công trình
+-tôn bọc
+@Lĩnh vực: dệt may
+-vải khổ rộng

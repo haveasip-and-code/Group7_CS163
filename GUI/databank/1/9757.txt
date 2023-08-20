@@ -1,3 +1,6 @@
-clicking
-	@Chuyên ngành kỹ thuật\n-nhắp chuột\n@Lĩnh vực: toán & tin\n-sự bấm chuột\n-sự nhấm
-
+clicking	
+@Chuyên ngành kỹ thuật
+-nhắp chuột
+@Lĩnh vực: toán & tin
+-sự bấm chuột
+-sự nhấm

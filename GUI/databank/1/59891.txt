@@ -1,3 +1,2 @@
-universalness
-	@universalness\n- xem universal
-
+universalness	@universalness
+- xem universal

@@ -1,3 +1,4 @@
-unleveled
-	@Chuyên ngành kỹ thuật\n-không cân bằng\n@Lĩnh vực: xây dựng\n-không thăng bằng
-
+unleveled	@Chuyên ngành kỹ thuật
+-không cân bằng
+@Lĩnh vực: xây dựng
+-không thăng bằng

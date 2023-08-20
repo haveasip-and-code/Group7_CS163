@@ -1,3 +1,22 @@
-electrode
-	@electrode /i'lektroud/\n*  danh từ\n- cực, cực điện\n@Chuyên ngành kinh tế\n-điện cực\n@Chuyên ngành kỹ thuật\n-bản điện cực\n-điện cực\n-đũa hàn\n-que hàn\n-que hàn điện\n@Lĩnh vực: điện\n-điện lực\n@Chuyên ngành kỹ thuật\n-bản điện cực\n-điện cực\n-đũa hàn\n-que hàn\n-que hàn điện\n@Lĩnh vực: điện\n-điện lực
-
+electrode	
+@electrode /i'lektroud/
+*  danh từ
+- cực, cực điện
+@Chuyên ngành kinh tế
+-điện cực
+@Chuyên ngành kỹ thuật
+-bản điện cực
+-điện cực
+-đũa hàn
+-que hàn
+-que hàn điện
+@Lĩnh vực: điện
+-điện lực
+@Chuyên ngành kỹ thuật
+-bản điện cực
+-điện cực
+-đũa hàn
+-que hàn
+-que hàn điện
+@Lĩnh vực: điện
+-điện lực

@@ -1,3 +1,20 @@
-faculty
-	@faculty /'fækəlti/\n*  danh từ\n- tính năng, khả năng; (từ Mỹ,nghĩa Mỹ) khả năng quản trị\n=faculty of speech+ khả năng nói\n=faculty of hearing+ khả năng nghe\n- năng lực\n- tài, tài năng\n=to have a faculty for making friends+ có tài đánh bạn, có tài làm thân\n- ngành (khoa học, nghệ thuật)\n- khoa (đại học)\n- (từ Mỹ,nghĩa Mỹ) toàn bộ cán bộ giảng dạy (một trường đại học)\n- (pháp lý); (tôn giáo) quyền pháp\n!the Faculty\n- (thông tục) các vị trong ngành y; các ông lang\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tài năng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tài năng
-
+faculty	
+@faculty /'fækəlti/
+*  danh từ
+- tính năng, khả năng; (từ Mỹ,nghĩa Mỹ) khả năng quản trị=faculty of speech
++ khả năng nói=faculty of hearing
++ khả năng nghe
+- năng lực
+- tài, tài năng=to have a faculty for making friends
++ có tài đánh bạn, có tài làm thân
+- ngành (khoa học, nghệ thuật)
+- khoa (đại học)
+- (từ Mỹ,nghĩa Mỹ) toàn bộ cán bộ giảng dạy (một trường đại học)
+- (pháp lý); (tôn giáo) quyền pháp!the Faculty
+- (thông tục) các vị trong ngành y; các ông lang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tài năng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tài năng

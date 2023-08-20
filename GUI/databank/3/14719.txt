@@ -1,3 +1,10 @@
-descender
-	@descender\n- phần thấp của ký tự\n@Chuyên ngành kinh tế\n-chữ cái có thân dưới (như những chữ g, p, j, y)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hàng con cháu\n@Lĩnh vực: toán & tin\n-phần hạ thấp\n-phần thụt xuống
-
+descender	@descender
+- phần thấp của ký tự
+@Chuyên ngành kinh tế
+-chữ cái có thân dưới (như những chữ g, p, j, y)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hàng con cháu
+@Lĩnh vực: toán & tin
+-phần hạ thấp
+-phần thụt xuống

@@ -1,3 +1,7 @@
-polygraph
-	@polygraph\n* danh từ\n- máy ghi tim vật lý (tim mạch...)\n- máy dò tìm (hàng giả...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dụng cụ đa ký
-
+polygraph	@polygraph
+* danh từ
+- máy ghi tim vật lý (tim mạch...)
+- máy dò tìm (hàng giả...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dụng cụ đa ký

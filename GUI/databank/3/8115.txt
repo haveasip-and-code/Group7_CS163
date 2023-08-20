@@ -1,3 +1,9 @@
-carrying
-	@Chuyên ngành kinh tế\n-cho vay\n-vay kỳ hạn\n@Chuyên ngành kỹ thuật\n-mang\n-sự chuyên trở\n-sự mang\n-tải\n-vác
-
+carrying	@Chuyên ngành kinh tế
+-cho vay
+-vay kỳ hạn
+@Chuyên ngành kỹ thuật
+-mang
+-sự chuyên trở
+-sự mang
+-tải
+-vác

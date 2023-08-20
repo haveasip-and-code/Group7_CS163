@@ -1,3 +1,10 @@
-unconfined
-	@unconfined /'ʌnkən'faind/\n*  tính từ\n- tự do; không bị hạn chế; không bị giam giữ\n- không bờ bến, không giới hạn\n@Chuyên ngành kỹ thuật\n-không bị chặn\n@Lĩnh vực: cơ khí & công trình\n-không bị hạn chế\n@Lĩnh vực: xây dựng\n-không hạn chế
-
+unconfined	@unconfined /'ʌnkən'faind/
+*  tính từ
+- tự do; không bị hạn chế; không bị giam giữ
+- không bờ bến, không giới hạn
+@Chuyên ngành kỹ thuật
+-không bị chặn
+@Lĩnh vực: cơ khí & công trình
+-không bị hạn chế
+@Lĩnh vực: xây dựng
+-không hạn chế

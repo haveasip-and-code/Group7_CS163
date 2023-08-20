@@ -1,3 +1,23 @@
-clump
-	@clump /klʌmp/\n*  danh từ\n- lùm, bụi (cây)\n- cục, hòn (đất)\n- khúc (gỗ)\n- tiếng bước nặng nề\n- miếng da phủ gót (giày) ((cũng) clump sole)\n*  ngoại động từ\n- trồng (cây) thành bụi\n- kết thành khối; kết thành cục\n- đóng miếng da phủ gót (vào gót giày)\n@Chuyên ngành kinh tế\n-cục nhỏ\n-hòn nhỏ\n-khuẩn lạc\n-sự tích tụ\n@Chuyên ngành kỹ thuật\n-tảng\n@Lĩnh vực: y học\n-khối kết (vi khuẩn)\n@Lĩnh vực: xây dựng\n-khóm
-
+clump	
+@clump /klʌmp/
+*  danh từ
+- lùm, bụi (cây)
+- cục, hòn (đất)
+- khúc (gỗ)
+- tiếng bước nặng nề
+- miếng da phủ gót (giày) ((cũng) clump sole)
+*  ngoại động từ
+- trồng (cây) thành bụi
+- kết thành khối; kết thành cục
+- đóng miếng da phủ gót (vào gót giày)
+@Chuyên ngành kinh tế
+-cục nhỏ
+-hòn nhỏ
+-khuẩn lạc
+-sự tích tụ
+@Chuyên ngành kỹ thuật
+-tảng
+@Lĩnh vực: y học
+-khối kết (vi khuẩn)
+@Lĩnh vực: xây dựng
+-khóm

@@ -1,3 +1,18 @@
-assortment
-	@assortment /ə'sɔ:tmənt/\n*  danh từ\n- sự phân hạng, sự phân loại, sự sắp xếp thành loại\n- mặt hàng sắp xếp thành loại\n- sự làm cho hợp nhau\n@Chuyên ngành kinh tế\n-bộ mặt hàng\n-mặt hàng\n-sự chia loại\n-sự phân loại\n-sự phối hợp\n@Chuyên ngành kỹ thuật\n-kiểu\n-loại\n-loại sản phẩm\n-mặt hàng\n-sự phân loại
-
+assortment	
+@assortment /ə'sɔ:tmənt/
+*  danh từ
+- sự phân hạng, sự phân loại, sự sắp xếp thành loại
+- mặt hàng sắp xếp thành loại
+- sự làm cho hợp nhau
+@Chuyên ngành kinh tế
+-bộ mặt hàng
+-mặt hàng
+-sự chia loại
+-sự phân loại
+-sự phối hợp
+@Chuyên ngành kỹ thuật
+-kiểu
+-loại
+-loại sản phẩm
+-mặt hàng
+-sự phân loại

@@ -1,3 +1,2 @@
-conferrable
-	@conferrable\n- xem confer
-
+conferrable	@conferrable
+- xem confer

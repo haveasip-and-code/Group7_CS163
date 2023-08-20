@@ -1,3 +1,14 @@
-articulation
-	@articulation /ɑ:,tikju'leiʃn/\n*  danh từ\n- (giải phẫu) khớp\n- sự nối bằng khớp; sự khớp lại với nhau\n- cách đọc rõ ràng; cách phát âm rõ ràng\n- phụ âm\n- (kỹ thuật) trục bản lề\n@Chuyên ngành kỹ thuật\n-bản lề\n-độ rõ\n-khớp\n-nối khớp\n-sự nối khớp\n-trục bản lề
-
+articulation	@articulation /ɑ:,tikju'leiʃn/
+*  danh từ
+- (giải phẫu) khớp
+- sự nối bằng khớp; sự khớp lại với nhau
+- cách đọc rõ ràng; cách phát âm rõ ràng
+- phụ âm
+- (kỹ thuật) trục bản lề
+@Chuyên ngành kỹ thuật
+-bản lề
+-độ rõ
+-khớp
+-nối khớp
+-sự nối khớp
+-trục bản lề

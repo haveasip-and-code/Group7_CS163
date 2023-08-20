@@ -1,3 +1,2 @@
-actuated
-	@Chuyên ngành kỹ thuật\n-được dẫn động
-
+actuated	@Chuyên ngành kỹ thuật
+-được dẫn động

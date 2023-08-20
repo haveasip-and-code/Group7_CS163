@@ -1,3 +1,21 @@
-upright
-	@upright /' p'rait/\n*  tính từ\n- đứng thẳng; đứng, thẳng đứng\n- (toán học) thẳng góc, vuông góc\n- ngay thẳng, chính trực, liêm khiết\n=an upright man+ một người ngay thẳng\n*  phó từ\n- đứng, thẳng đứng\n*  danh từ\n- trụ đứng, cột\n- (như) upright_piano\n@Chuyên ngành kỹ thuật\n-cột chống\n-dây dọi\n-đứng\n-giá đỡ\n-thanh đứng\n-vuông góc\n@Lĩnh vực: xây dựng\n-mặt cắt thẳng đứng\n-thấp
-
+upright	@upright /' p'rait/
+*  tính từ
+- đứng thẳng; đứng, thẳng đứng
+- (toán học) thẳng góc, vuông góc
+- ngay thẳng, chính trực, liêm khiết
+=an upright man+ một người ngay thẳng
+*  phó từ
+- đứng, thẳng đứng
+*  danh từ
+- trụ đứng, cột
+- (như) upright_piano
+@Chuyên ngành kỹ thuật
+-cột chống
+-dây dọi
+-đứng
+-giá đỡ
+-thanh đứng
+-vuông góc
+@Lĩnh vực: xây dựng
+-mặt cắt thẳng đứng
+-thấp

@@ -1,3 +1,6 @@
-ceilometer
-	@ceilometer\n* danh từ\n- dụng cụ qui định tầng mây cao nhất\n@Chuyên ngành kỹ thuật\n-máy đo trần mây
-
+ceilometer	
+@ceilometer
+* danh từ
+- dụng cụ qui định tầng mây cao nhất
+@Chuyên ngành kỹ thuật
+-máy đo trần mây

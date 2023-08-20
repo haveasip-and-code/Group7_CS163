@@ -1,3 +1,2 @@
-accomplishable
-	@accomplishable\n- xem accomplish
-
+accomplishable	@accomplishable
+- xem accomplish

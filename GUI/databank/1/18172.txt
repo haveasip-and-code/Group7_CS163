@@ -1,3 +1,7 @@
-encrypted
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được mã hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được mã hóa
-
+encrypted	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được mã hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được mã hóa

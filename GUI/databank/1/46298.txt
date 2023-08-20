@@ -1,3 +1,4 @@
-reflecting
-	@Chuyên ngành kỹ thuật\n-phản chiếu\n-phản hồi\n-phản xạ
-
+reflecting	@Chuyên ngành kỹ thuật
+-phản chiếu
+-phản hồi
+-phản xạ

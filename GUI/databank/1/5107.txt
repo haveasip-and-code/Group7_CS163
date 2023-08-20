@@ -1,3 +1,19 @@
-beg
-	@beg /beg/\n*  động từ\n- ăn xin, xin\n=to beg a meal+ xin một bữa ăn\n- cầu xin; đề nghi thiết tha, khẩn cầu\n- xin trân trọng (trong thư giao dịch)\n=I beg to inform you+ tôi xin trân trọng báo tin để ngài rõ\n=I beg to differ+ xin phép cho tôi có ý kiến khác\n- đứng lên hai chân sau (chó chầu ăn)\n!to beg a favour of\n- đề nghị (ai) giúp đỡ\n!to beg leave to\n- xin phép\n!to beg off for something\n- xin miễn cho cái gì\n!to beg pardon\n- xin lỗi\n!to beg the question\n- (xem) question\n!to beg somebody off\n- xin ai tha thứ, xin ai miễn thứ\n!to go begging\n- (xem) go\n@Chuyên ngành kỹ thuật\n-xin
-
+beg	
+@beg /beg/
+*  động từ
+- ăn xin, xin=to beg a meal
++ xin một bữa ăn
+- cầu xin; đề nghi thiết tha, khẩn cầu
+- xin trân trọng (trong thư giao dịch)=I beg to inform you
++ tôi xin trân trọng báo tin để ngài rõ=I beg to differ
++ xin phép cho tôi có ý kiến khác
+- đứng lên hai chân sau (chó chầu ăn)!to beg a favour of
+- đề nghị (ai) giúp đỡ!to beg leave to
+- xin phép!to beg off for something
+- xin miễn cho cái gì!to beg pardon
+- xin lỗi!to beg the question
+- (xem) question!to beg somebody off
+- xin ai tha thứ, xin ai miễn thứ!to go begging
+- (xem) go
+@Chuyên ngành kỹ thuật
+-xin

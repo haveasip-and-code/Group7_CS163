@@ -1,3 +1,11 @@
-averaging
-	@averaging\n- (Tech) lấy trung bình (d)\n@Chuyên ngành kinh tế\n-lập số trung bình\n-lấy số trung bình\n-mua vào hoặc bán ra\n@Chuyên ngành kỹ thuật\n-sự làm đều\n-sự lấy trung bình\n@Lĩnh vực: xây dựng\n-sự trung hòa
-
+averaging	@averaging
+- (Tech) lấy trung bình (d)
+@Chuyên ngành kinh tế
+-lập số trung bình
+-lấy số trung bình
+-mua vào hoặc bán ra
+@Chuyên ngành kỹ thuật
+-sự làm đều
+-sự lấy trung bình
+@Lĩnh vực: xây dựng
+-sự trung hòa

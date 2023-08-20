@@ -1,3 +1,8 @@
-countersunk
-	@Chuyên ngành kỹ thuật\n-chìm\n-chìm chặt\n-ngang bằng\n@Lĩnh vực: cơ khí & công trình\n-được khoét loe\n@Lĩnh vực: xây dựng\n-khía chìm
-
+countersunk	@Chuyên ngành kỹ thuật
+-chìm
+-chìm chặt
+-ngang bằng
+@Lĩnh vực: cơ khí & công trình
+-được khoét loe
+@Lĩnh vực: xây dựng
+-khía chìm

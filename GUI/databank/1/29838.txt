@@ -1,3 +1,5 @@
-invoker
-	@invoker\n- xem invoke\n@Chuyên ngành kỹ thuật\n-người khởi động
-
+invoker	
+@invoker
+- xem invoke
+@Chuyên ngành kỹ thuật
+-người khởi động

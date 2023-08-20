@@ -1,3 +1,10 @@
-clotting
-	@Chuyên ngành kinh tế\n-sự đông tụ\n-sự vón cục\n@Chuyên ngành kỹ thuật\n-vón cục\n@Lĩnh vực: hóa học & vật liệu\n-sự đóng cục\n@Lĩnh vực: xây dựng\n-sự kết khối\n-sự vón
-
+clotting	@Chuyên ngành kinh tế
+-sự đông tụ
+-sự vón cục
+@Chuyên ngành kỹ thuật
+-vón cục
+@Lĩnh vực: hóa học & vật liệu
+-sự đóng cục
+@Lĩnh vực: xây dựng
+-sự kết khối
+-sự vón

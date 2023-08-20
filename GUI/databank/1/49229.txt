@@ -1,3 +1,19 @@
-scraping
-	@scraping /'skreipiɳ/\n*  danh từ\n- sự nạo, sự cạo\n- tiếng nạo, tiếng cạo\n- (số nhiều) những cái nạo ra\n@Chuyên ngành kinh tế\n-sự cạo sạch\n-sự làm sạch\n@Chuyên ngành kỹ thuật\n-nạo\n-sự cào rà\n-sự nạo\n@Lĩnh vực: xây dựng\n-cạp đất\n-sự cào\n@Lĩnh vực: cơ khí & công trình\n-sự cạo rà\n@Lĩnh vực: toán & tin\n-sự cào, nạo
-
+scraping	@scraping /'skreipiɳ/
+*  danh từ
+- sự nạo, sự cạo
+- tiếng nạo, tiếng cạo
+- (số nhiều) những cái nạo ra
+@Chuyên ngành kinh tế
+-sự cạo sạch
+-sự làm sạch
+@Chuyên ngành kỹ thuật
+-nạo
+-sự cào rà
+-sự nạo
+@Lĩnh vực: xây dựng
+-cạp đất
+-sự cào
+@Lĩnh vực: cơ khí & công trình
+-sự cạo rà
+@Lĩnh vực: toán & tin
+-sự cào, nạo

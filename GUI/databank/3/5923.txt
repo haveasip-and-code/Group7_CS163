@@ -1,3 +1,2 @@
-blindfolded
-	@blindfolded\n- xem blindfold
-
+blindfolded	@blindfolded
+- xem blindfold

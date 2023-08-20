@@ -1,3 +1,8 @@
-laccolithic
-	@Chuyên ngành kỹ thuật\n-lacolit\n@Lĩnh vực: hóa học & vật liệu\n-thể nấm\n@Chuyên ngành kỹ thuật\n-lacolit\n@Lĩnh vực: hóa học & vật liệu\n-thể nấm
-
+laccolithic	@Chuyên ngành kỹ thuật
+-lacolit
+@Lĩnh vực: hóa học & vật liệu
+-thể nấm
+@Chuyên ngành kỹ thuật
+-lacolit
+@Lĩnh vực: hóa học & vật liệu
+-thể nấm

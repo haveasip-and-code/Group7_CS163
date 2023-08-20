@@ -1,3 +1,8 @@
-limacon
-	@limacon\n- đường ốc sên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đường ốc sên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đường ốc sên
-
+limacon	@limacon
+- đường ốc sên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đường ốc sên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đường ốc sên

@@ -1,3 +1,2 @@
-reinfect
-	@reinfect\n- truyền nhiễm lại; nhiễm lại; tái nhiễm
-
+reinfect	@reinfect
+- truyền nhiễm lại; nhiễm lại; tái nhiễm

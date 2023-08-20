@@ -1,3 +1,44 @@
-establishment
-	@establishment /is'tæbliʃmənt/\n*  danh từ\n- sự thành lập, sự thiết lập, sự kiến lập\n- sự đặt (ai vào một địa vị)\n- sự chứng minh, sự xác minh (sự kiện...)\n- sự đem vào, sự đưa vào (thói quen, sự tín ngưỡng...)\n- sự chính thức hoá (nhà thờ)\n- tổ chức (quân đội, hải quân, hành chính...); cơ sở (kinh doanh)\n- số người hầu; quân số, lực lượng\n=war establishment+ lực lượng thời chiến\n=peace establishment+ lực lượng thời bình\n!separate establishment\n- cơ ngơi của vợ lẽ con riêng\n@Chuyên ngành kinh tế\n-biên chế\n-cơ ngơi\n-cơ quan\n-cơ sở\n-doanh nghiệp\n-doanh sở\n-hãng\n-phòng ban\n-số ngạch\n-số nhân viên quy định\n-sự thiết lập\n-tầng lớp lãnh đạo\n-tập đoàn thống trị\n-thành lập\n-việc thành lập\n-xí nghiệp\n@Chuyên ngành kỹ thuật\n-sự cài đặt\n-sự thiết lập\n-thành lập\n-thiết lập\n@Lĩnh vực: toán & tin\n-sự thành lập\n@Chuyên ngành kỹ thuật\n-sự cài đặt\n-sự thiết lập\n-thành lập\n-thiết lập\n@Lĩnh vực: toán & tin\n-sự thành lập
-
+establishment	
+@establishment /is'tæbliʃmənt/
+*  danh từ
+- sự thành lập, sự thiết lập, sự kiến lập
+- sự đặt (ai vào một địa vị)
+- sự chứng minh, sự xác minh (sự kiện...)
+- sự đem vào, sự đưa vào (thói quen, sự tín ngưỡng...)
+- sự chính thức hoá (nhà thờ)
+- tổ chức (quân đội, hải quân, hành chính...); cơ sở (kinh doanh)
+- số người hầu; quân số, lực lượng=war establishment
++ lực lượng thời chiến=peace establishment
++ lực lượng thời bình!separate establishment
+- cơ ngơi của vợ lẽ con riêng
+@Chuyên ngành kinh tế
+-biên chế
+-cơ ngơi
+-cơ quan
+-cơ sở
+-doanh nghiệp
+-doanh sở
+-hãng
+-phòng ban
+-số ngạch
+-số nhân viên quy định
+-sự thiết lập
+-tầng lớp lãnh đạo
+-tập đoàn thống trị
+-thành lập
+-việc thành lập
+-xí nghiệp
+@Chuyên ngành kỹ thuật
+-sự cài đặt
+-sự thiết lập
+-thành lập
+-thiết lập
+@Lĩnh vực: toán & tin
+-sự thành lập
+@Chuyên ngành kỹ thuật
+-sự cài đặt
+-sự thiết lập
+-thành lập
+-thiết lập
+@Lĩnh vực: toán & tin
+-sự thành lập

@@ -1,3 +1,6 @@
-rewash
-	@rewash\n* động từ\n- rửa lại\n* danh từ\n- sự rửa lại\n- máng/ bể rửa lại
-
+rewash	@rewash
+* động từ
+- rửa lại
+* danh từ
+- sự rửa lại
+- máng/ bể rửa lại

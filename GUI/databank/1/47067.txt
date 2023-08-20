@@ -1,3 +1,10 @@
-resettlement
-	@resettlement\n* danh từ\n- sự tái định cư (nhất là người tị nạn)\n- sự làm cho (một nước ) lại có người đến sống\n@Chuyên ngành kỹ thuật\n-điều chỉnh lại\n@Lĩnh vực: cơ khí & công trình\n-sự tái định cư\n@Lĩnh vực: xây dựng\n-tái định cư
-
+resettlement	@resettlement
+* danh từ
+- sự tái định cư (nhất là người tị nạn)
+- sự làm cho (một nước ) lại có người đến sống
+@Chuyên ngành kỹ thuật
+-điều chỉnh lại
+@Lĩnh vực: cơ khí & công trình
+-sự tái định cư
+@Lĩnh vực: xây dựng
+-tái định cư

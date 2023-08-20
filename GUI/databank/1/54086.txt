@@ -1,3 +1,9 @@
-sublethal
-	@sublethal\n* tính từ\n- gần (dưới mức) gây chết\n@Chuyên ngành kinh tế\n-dưới mức gây chết\n-gần gây chết\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dưới liều gây chết
-
+sublethal	@sublethal
+* tính từ
+- gần (dưới mức) gây chết
+@Chuyên ngành kinh tế
+-dưới mức gây chết
+-gần gây chết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dưới liều gây chết

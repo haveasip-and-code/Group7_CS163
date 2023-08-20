@@ -1,3 +1,4 @@
-footsie
-	@footsie\n- (Econ) Tên gọi thông dụng của CHỈ SỐ CỔ PHIẾU FT-SE 100.
-
+footsie	
+@footsie
+- (Econ) Tên gọi thông dụng của CHỈ SỐ CỔ PHIẾU FT
+-SE 100.

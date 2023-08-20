@@ -1,3 +1,12 @@
-relocate
-	@relocate\n* ngoại động từ\n- di chuyển tới; xây dựng lại\n@Chuyên ngành kỹ thuật\n-chuyển dịch\n-chuyển vị\n-di chuyển\n-dịch chuyển\n-định vị lại\n-xây dựng lại\n@Lĩnh vực: toán & tin\n-tái định vị
-
+relocate	@relocate
+* ngoại động từ
+- di chuyển tới; xây dựng lại
+@Chuyên ngành kỹ thuật
+-chuyển dịch
+-chuyển vị
+-di chuyển
+-dịch chuyển
+-định vị lại
+-xây dựng lại
+@Lĩnh vực: toán & tin
+-tái định vị

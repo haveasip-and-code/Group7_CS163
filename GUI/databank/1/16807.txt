@@ -1,3 +1,16 @@
-drilling
-	@drilling\n* danh từ\n- việc gieo mạ theo hàng\n- việc khoan lỗ\n@Chuyên ngành kỹ thuật\n-công tác khoan\n-khoan\n-sự khoan\n-sự khoan thủng\n-sự tiện trong\n@Lĩnh vực: hóa học & vật liệu\n-phương pháp khoan\n@Lĩnh vực: điện\n-việc huấn luyến\n-việc khoan
-
+drilling	
+@drilling
+* danh từ
+- việc gieo mạ theo hàng
+- việc khoan lỗ
+@Chuyên ngành kỹ thuật
+-công tác khoan
+-khoan
+-sự khoan
+-sự khoan thủng
+-sự tiện trong
+@Lĩnh vực: hóa học & vật liệu
+-phương pháp khoan
+@Lĩnh vực: điện
+-việc huấn luyến
+-việc khoan

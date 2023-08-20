@@ -1,3 +1,15 @@
-corruption
-	@corruption /kə'rʌpʃn/\n*  danh từ\n- sự hối lộ, sự tham nhũng\n- sự mục nát, sự thối nát\n- sự sửa đổi làm sai lạc (bài văn, ngôn ngữ...)\n@Chuyên ngành kinh tế\n-sự hư hỏng\n-sự thiu thối\n-tham nhũng\n-tham ô\n@Chuyên ngành kỹ thuật\n-sự sai hỏng\n@Lĩnh vực: toán & tin\n-sự làm sai lạc\n-sự sai lạc
-
+corruption	@corruption /kə'rʌpʃn/
+*  danh từ
+- sự hối lộ, sự tham nhũng
+- sự mục nát, sự thối nát
+- sự sửa đổi làm sai lạc (bài văn, ngôn ngữ...)
+@Chuyên ngành kinh tế
+-sự hư hỏng
+-sự thiu thối
+-tham nhũng
+-tham ô
+@Chuyên ngành kỹ thuật
+-sự sai hỏng
+@Lĩnh vực: toán & tin
+-sự làm sai lạc
+-sự sai lạc

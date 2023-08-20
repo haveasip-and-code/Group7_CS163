@@ -1,3 +1,32 @@
-grit
-	@grit /grit/\n*  danh từ\n- hạt cát, hạt sỏi, sạn cát, sạn sỏi\n- (kỹ thuật) hạt sạn (làm cho máy trục trặc)\n=there must be some grit in the machine+ chắc hẳn có hạt sạn trong máy\n- mạt giũa (kim loại)\n- (thông tục) tính bạo dạn, tính gan góc, tính can đảm; tính chịu đựng bền bỉ\n- Grit đảng viên đảng Cấp tiến; đảng viên đảng Tự do (ở Ca-na-dda)\n!to put grit in the machine\n- thọc gậy bánh xe\n@Chuyên ngành kinh tế\n-hạt vụn\n-tấm\n@Chuyên ngành kỹ thuật\n-đá dăm\n-đá vụn\n-giấy đánh bóng\n-hạt kim loại\n-hạt sạn\n-mảnh đá vụn\n-mạt giũa\n-mạt sạn\n-phủ đá dăm\n-sỏi\n@Lĩnh vực: xây dựng\n-cát sỏi\n-dăm cát to\n-rải đá dăm\n@Lĩnh vực: hóa học & vật liệu\n-hạt cứng
-
+grit	
+@grit /grit/
+*  danh từ
+- hạt cát, hạt sỏi, sạn cát, sạn sỏi
+- (kỹ thuật) hạt sạn (làm cho máy trục trặc)=there must be some grit in the machine
++ chắc hẳn có hạt sạn trong máy
+- mạt giũa (kim loại)
+- (thông tục) tính bạo dạn, tính gan góc, tính can đảm; tính chịu đựng bền bỉ
+- Grit đảng viên đảng Cấp tiến; đảng viên đảng Tự do (ở Ca
+-na
+-dda)!to put grit in the machine
+- thọc gậy bánh xe
+@Chuyên ngành kinh tế
+-hạt vụn
+-tấm
+@Chuyên ngành kỹ thuật
+-đá dăm
+-đá vụn
+-giấy đánh bóng
+-hạt kim loại
+-hạt sạn
+-mảnh đá vụn
+-mạt giũa
+-mạt sạn
+-phủ đá dăm
+-sỏi
+@Lĩnh vực: xây dựng
+-cát sỏi
+-dăm cát to
+-rải đá dăm
+@Lĩnh vực: hóa học & vật liệu
+-hạt cứng

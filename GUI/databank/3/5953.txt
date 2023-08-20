@@ -1,3 +1,9 @@
-bloat
-	@bloat /blout/\n*  ngoại động từ\n- muối và hun khói (cá trích)\n*  động từ\n- phông lên, sưng lên, phù lên, sưng húp lên\n@Chuyên ngành kinh tế\n-muối và hun khói\n-phồng lên\n-trương lên
-
+bloat	@bloat /blout/
+*  ngoại động từ
+- muối và hun khói (cá trích)
+*  động từ
+- phông lên, sưng lên, phù lên, sưng húp lên
+@Chuyên ngành kinh tế
+-muối và hun khói
+-phồng lên
+-trương lên

@@ -1,3 +1,4 @@
-buzzword
-	@buzzword\n* danh từ\n- từ thường dùng; từ thông dụng
-
+buzzword	
+@buzzword
+* danh từ
+- từ thường dùng; từ thông dụng

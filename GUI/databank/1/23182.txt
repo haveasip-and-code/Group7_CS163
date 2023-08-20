@@ -1,3 +1,15 @@
-genesis
-	@genesis /'dʤenisis/\n*  danh từ\n- căn nguyên, nguồn gốc\n- sự hình thành\n- (tôn giáo) (Genesis) cuốn " Chúa sáng tạo ra thế giới" (quyển đầu của kinh Cựu ước)\n@Chuyên ngành kỹ thuật\n-lai lịch\n-nguồn gốc\n-sự phát sinh\n-sự tạo thành\n@Lĩnh vực: y học\n-hậu tố chỉ nguồn gốc hay sự phát triển\n@Lĩnh vực: điện lạnh\n-sự khởi nguyên
-
+genesis	
+@genesis /'dʤenisis/
+*  danh từ
+- căn nguyên, nguồn gốc
+- sự hình thành
+- (tôn giáo) (Genesis) cuốn " Chúa sáng tạo ra thế giới" (quyển đầu của kinh Cựu ước)
+@Chuyên ngành kỹ thuật
+-lai lịch
+-nguồn gốc
+-sự phát sinh
+-sự tạo thành
+@Lĩnh vực: y học
+-hậu tố chỉ nguồn gốc hay sự phát triển
+@Lĩnh vực: điện lạnh
+-sự khởi nguyên

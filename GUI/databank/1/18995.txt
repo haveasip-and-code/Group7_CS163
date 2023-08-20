@@ -1,3 +1,11 @@
-erosional
-	@erosional\n- xem erosion\n@Chuyên ngành kỹ thuật\n-ăn mòn\n-xâm thực\n-xói mòn\n@Chuyên ngành kỹ thuật\n-ăn mòn\n-xâm thực\n-xói mòn
-
+erosional	
+@erosional
+- xem erosion
+@Chuyên ngành kỹ thuật
+-ăn mòn
+-xâm thực
+-xói mòn
+@Chuyên ngành kỹ thuật
+-ăn mòn
+-xâm thực
+-xói mòn

@@ -1,3 +1,4 @@
-overstrained
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-biến dạng quá lớn\n-quá ứng suất
-
+overstrained	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-biến dạng quá lớn
+-quá ứng suất

@@ -1,3 +1,17 @@
-fertile
-	@fertile /'fə:tail/\n*  tính từ\n- tốt, màu mỡ (đất)\n- có khả năng sinh sản\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-màu mỡ\n-phì nhiêu\n@Lĩnh vực: điện lạnh\n-phì (nhiêu)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-màu mỡ\n-phì nhiêu\n@Lĩnh vực: điện lạnh\n-phì (nhiêu)
-
+fertile	
+@fertile /'fə:tail/
+*  tính từ
+- tốt, màu mỡ (đất)
+- có khả năng sinh sản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-màu mỡ
+-phì nhiêu
+@Lĩnh vực: điện lạnh
+-phì (nhiêu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-màu mỡ
+-phì nhiêu
+@Lĩnh vực: điện lạnh
+-phì (nhiêu)

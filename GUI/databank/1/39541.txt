@@ -1,3 +1,10 @@
-parabolic
-	@parabolic /,pærə'bɔlik/\n*  tính từ\n- (toán học) parabolic ((từ hiếm,nghĩa hiếm) (cũng) parabolical)\n- (thuộc) truyện ngụ ngôn; diễn đạt bằng ngụ ngôn ((cũng) parabolical)\n@Chuyên ngành kỹ thuật\n-parabôn\n@Lĩnh vực: hóa học & vật liệu\n-dạng parabôn\n@Lĩnh vực: điện tử & viễn thông\n-thuộc parabon
-
+parabolic	@parabolic /,pærə'bɔlik/
+*  tính từ
+- (toán học) parabolic ((từ hiếm,nghĩa hiếm) (cũng) parabolical)
+- (thuộc) truyện ngụ ngôn; diễn đạt bằng ngụ ngôn ((cũng) parabolical)
+@Chuyên ngành kỹ thuật
+-parabôn
+@Lĩnh vực: hóa học & vật liệu
+-dạng parabôn
+@Lĩnh vực: điện tử & viễn thông
+-thuộc parabon

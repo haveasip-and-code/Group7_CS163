@@ -1,3 +1,2 @@
-microimage
-	@Chuyên ngành kỹ thuật\n-vi ảnh
-
+microimage	@Chuyên ngành kỹ thuật
+-vi ảnh

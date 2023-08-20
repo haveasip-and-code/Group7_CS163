@@ -1,3 +1,13 @@
-achievement
-	@achievement /ə'tʃi:vmənt/\n*  danh từ\n- thành tích, thành tựu\n=to record great achievements+ đạt được những thành tích lớn\n=a scientific achievement+ một thành tựu khoa học\n- sự đạt được, sự giành được; sự hoàn thành\n=the achievement of independence+ sự giành được độc lập\n- huy hiệu, huy chương (để ghi nhớ một thành tích vẻ vang)\n@Chuyên ngành kinh tế\n-chiến thắng\n-hoàn thành\n-sự thực hiện\n-thành công
-
+achievement	@achievement /ə'tʃi:vmənt/
+*  danh từ
+- thành tích, thành tựu
+=to record great achievements+ đạt được những thành tích lớn
+=a scientific achievement+ một thành tựu khoa học
+- sự đạt được, sự giành được; sự hoàn thành
+=the achievement of independence+ sự giành được độc lập
+- huy hiệu, huy chương (để ghi nhớ một thành tích vẻ vang)
+@Chuyên ngành kinh tế
+-chiến thắng
+-hoàn thành
+-sự thực hiện
+-thành công

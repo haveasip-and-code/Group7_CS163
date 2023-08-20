@@ -1,3 +1,2 @@
-chiasmic
-	@chiasmic\n- xem chiasma
-
+chiasmic	@chiasmic
+- xem chiasma

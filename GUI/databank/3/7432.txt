@@ -1,3 +1,2 @@
-cadetship
-	@cadetship\n- xem cadet
-
+cadetship	@cadetship
+- xem cadet

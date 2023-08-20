@@ -1,3 +1,27 @@
-mixed
-	@mixed /mikst/\n*  tính từ\n- lẫn lộn, pha trộn, ô hợp\n=mixed feelings+ những cảm giác lẫn lộn (buồn, vui...)\n=mixed company+ bọn người ô hợp\n=mixed wine+ rượu vang pha trộn\n- (thông tục) bối rối, lúng túng; sửng sốt, ngơ ngác\n=to be thoroughly mixed up+ bối rối hết sức\n=to get mixed+ bối rối, lúng túng, rối trí\n- cho cả nam lẫn nữ\n=a mixed school+ trường học cho cả nam nữ\n=mixed doubles+ trận đánh đôi nam nữ (bóng bàn, quần vợt)\n- (toán học) hỗn tạp\n=mixed fraction+ phân số hỗn tạp\n@Chuyên ngành kinh tế\n-do nhiều loại hợp thành\n-hỗn hợp\n-hỗn tạp\n@Chuyên ngành kỹ thuật\n-được trộn\n-hỗn tạp\n-pha trộn\n-trộn\n@Lĩnh vực: toán & tin\n-hỗn tạp, trộn\n@Lĩnh vực: hóa học & vật liệu\n-số hỗn tạp
-
+mixed	@mixed /mikst/
+*  tính từ
+- lẫn lộn, pha trộn, ô hợp
+=mixed feelings+ những cảm giác lẫn lộn (buồn, vui...)
+=mixed company+ bọn người ô hợp
+=mixed wine+ rượu vang pha trộn
+- (thông tục) bối rối, lúng túng; sửng sốt, ngơ ngác
+=to be thoroughly mixed up+ bối rối hết sức
+=to get mixed+ bối rối, lúng túng, rối trí
+- cho cả nam lẫn nữ
+=a mixed school+ trường học cho cả nam nữ
+=mixed doubles+ trận đánh đôi nam nữ (bóng bàn, quần vợt)
+- (toán học) hỗn tạp
+=mixed fraction+ phân số hỗn tạp
+@Chuyên ngành kinh tế
+-do nhiều loại hợp thành
+-hỗn hợp
+-hỗn tạp
+@Chuyên ngành kỹ thuật
+-được trộn
+-hỗn tạp
+-pha trộn
+-trộn
+@Lĩnh vực: toán & tin
+-hỗn tạp, trộn
+@Lĩnh vực: hóa học & vật liệu
+-số hỗn tạp

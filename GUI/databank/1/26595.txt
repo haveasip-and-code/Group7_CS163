@@ -1,3 +1,11 @@
-hydrophilic
-	@hydrophilic\n* tính từ\n- có thể hút nước\n- có thể thấm nước\n@Chuyên ngành kinh tế\n-có thể hút nước\n@Chuyên ngành kỹ thuật\n-ưa ẩm\n@Lĩnh vực: hóa học & vật liệu\n-ưa nước
-
+hydrophilic	
+@hydrophilic
+* tính từ
+- có thể hút nước
+- có thể thấm nước
+@Chuyên ngành kinh tế
+-có thể hút nước
+@Chuyên ngành kỹ thuật
+-ưa ẩm
+@Lĩnh vực: hóa học & vật liệu
+-ưa nước

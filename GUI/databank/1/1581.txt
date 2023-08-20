@@ -1,3 +1,32 @@
-allocation
-	@allocation /æ,lə'keiʃn/\n*  danh từ\n- sự chỉ định; sự dùng (một số tiền vào việc gì)\n- sự cấp cho\n- sự phân phối, sự phân phát; sự chia phần; phần được chia, phần được phân phối, phần được cấp\n- sự định rõ vị trí\n@Chuyên ngành kinh tế\n-cấp\n-được phân bổ\n-khoản cấp\n-khoản phân bổ\n-khoản tiền được cấp\n-phân bố\n-phân phối\n-số lượng tỷ lệ cổ phần đầu tư\n-số tiền chỉ định (dùng vào việc gì)\n-sự cấp\n@Chuyên ngành kỹ thuật\n-cấp phát\n-phân bố\n-sự bố trí\n-sự cấp kinh phí\n-sự định vị\n-sự phân bổ\n-sự phân phát\n-sự phân phối\n-tiền trợ cấp\n@Lĩnh vực: toán & tin\n-quá trình phân phối\n@Lĩnh vực: cơ khí & công trình\n-sự phân vốn
-
+allocation	
+@allocation /æ,lə'keiʃn/
+*  danh từ
+- sự chỉ định; sự dùng (một số tiền vào việc gì)
+- sự cấp cho
+- sự phân phối, sự phân phát; sự chia phần; phần được chia, phần được phân phối, phần được cấp
+- sự định rõ vị trí
+@Chuyên ngành kinh tế
+-cấp
+-được phân bổ
+-khoản cấp
+-khoản phân bổ
+-khoản tiền được cấp
+-phân bố
+-phân phối
+-số lượng tỷ lệ cổ phần đầu tư
+-số tiền chỉ định (dùng vào việc gì)
+-sự cấp
+@Chuyên ngành kỹ thuật
+-cấp phát
+-phân bố
+-sự bố trí
+-sự cấp kinh phí
+-sự định vị
+-sự phân bổ
+-sự phân phát
+-sự phân phối
+-tiền trợ cấp
+@Lĩnh vực: toán & tin
+-quá trình phân phối
+@Lĩnh vực: cơ khí & công trình
+-sự phân vốn

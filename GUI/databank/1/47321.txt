@@ -1,3 +1,6 @@
-retina
-	@retina /'retinə/\n*  danh từ,  số nhiều retinas  /'retinəz/,  retinae  /'retini:/\n- (giải phẫu) màng lưới, võng mạc (mắt)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-võng mạc
-
+retina	@retina /'retinə/
+*  danh từ,  số nhiều retinas  /'retinəz/,  retinae  /'retini:/
+- (giải phẫu) màng lưới, võng mạc (mắt)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-võng mạc

@@ -1,3 +1,5 @@
-analog
-	@analog\n- tương tự (Một cách biểu diễn đối với các giá trị biến đổi của các thiết bị chỉ thị khi bộ phận trỏ của nó có thể thay đổi liên tục)\n@Chuyên ngành kinh tế\n-món nhái theo
-
+analog	
+@analog
+- tương tự (Một cách biểu diễn đối với các giá trị biến đổi của các thiết bị chỉ thị khi bộ phận trỏ của nó có thể thay đổi liên tục)
+@Chuyên ngành kinh tế
+-món nhái theo

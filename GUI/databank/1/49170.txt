@@ -1,3 +1,29 @@
-scorch
-	@scorch /skɔ:tʃ/\n*  danh từ\n- sự thiêu sém, sự cháy sém\n- (từ lóng) sự mở hết tốc lực (ô tô, xe đạp)\n*  ngoại động từ\n- thiêu, đốt, làm cháy sém\n- (quân sự) đốt sạch phá, phá sạch, tiêu thổ\n- (từ Mỹ,nghĩa Mỹ) làm đau lòng, xỉ vả làm đau lòng, đay nghiến làm đau lòng, nói mỉa làm đau lòng\n*  nội động từ\n- bị cháy sém\n- (từ lóng) mở hết tốc lực (ô tô...)\n@Chuyên ngành kinh tế\n-làm cháy xém\n-sự cháy xém\n-thiêu đót\n@Chuyên ngành kỹ thuật\n-khắc\n-khía\n-khía rãnh\n-làm xước\n-rạch rãnh\n-sự nướng\n-vạch dấu\n-vẽ sơ đồ\n@Lĩnh vực: hóa học & vật liệu\n-hơ lửa\n-lưu hóa sớm\n-sự hơ qua lửa\n-sự lưu hóa sớm
-
+scorch	@scorch /skɔ:tʃ/
+*  danh từ
+- sự thiêu sém, sự cháy sém
+- (từ lóng) sự mở hết tốc lực (ô tô, xe đạp)
+*  ngoại động từ
+- thiêu, đốt, làm cháy sém
+- (quân sự) đốt sạch phá, phá sạch, tiêu thổ
+- (từ Mỹ,nghĩa Mỹ) làm đau lòng, xỉ vả làm đau lòng, đay nghiến làm đau lòng, nói mỉa làm đau lòng
+*  nội động từ
+- bị cháy sém
+- (từ lóng) mở hết tốc lực (ô tô...)
+@Chuyên ngành kinh tế
+-làm cháy xém
+-sự cháy xém
+-thiêu đót
+@Chuyên ngành kỹ thuật
+-khắc
+-khía
+-khía rãnh
+-làm xước
+-rạch rãnh
+-sự nướng
+-vạch dấu
+-vẽ sơ đồ
+@Lĩnh vực: hóa học & vật liệu
+-hơ lửa
+-lưu hóa sớm
+-sự hơ qua lửa
+-sự lưu hóa sớm

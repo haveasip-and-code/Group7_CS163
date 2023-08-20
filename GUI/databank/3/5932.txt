@@ -1,3 +1,10 @@
-blinking
-	@blinking\n- (Tech) chớp tắt, nhấp nháy ()\n@Chuyên ngành kỹ thuật\n-nhấp nháy\n-phương pháp nhấp nháy\n-sự nhấp nháy\n@Lĩnh vực: y học\n-chớp mắt\n@Lĩnh vực: toán & tin\n-sự lấp lánh
-
+blinking	@blinking
+- (Tech) chớp tắt, nhấp nháy ()
+@Chuyên ngành kỹ thuật
+-nhấp nháy
+-phương pháp nhấp nháy
+-sự nhấp nháy
+@Lĩnh vực: y học
+-chớp mắt
+@Lĩnh vực: toán & tin
+-sự lấp lánh

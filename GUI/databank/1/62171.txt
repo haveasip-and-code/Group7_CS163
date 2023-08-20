@@ -1,3 +1,2 @@
-vomiter
-	@vomiter\n- xem vomit
-
+vomiter	@vomiter
+- xem vomit

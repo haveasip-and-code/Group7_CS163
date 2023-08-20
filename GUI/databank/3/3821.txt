@@ -1,3 +1,2 @@
-atonable
-	@atonable\n- xem atone
-
+atonable	@atonable
+- xem atone

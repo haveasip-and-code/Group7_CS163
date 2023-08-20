@@ -1,3 +1,4 @@
-thermoplasticity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tính dẻo nhiệt\n-tính nhiệt dẻo
-
+thermoplasticity	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tính dẻo nhiệt
+-tính nhiệt dẻo

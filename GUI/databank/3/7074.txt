@@ -1,3 +1,4 @@
-bulged
-	@Chuyên ngành kỹ thuật\n-lồi lên\n@Lĩnh vực: cơ khí & công trình\n-có chỗ lồi ra
-
+bulged	@Chuyên ngành kỹ thuật
+-lồi lên
+@Lĩnh vực: cơ khí & công trình
+-có chỗ lồi ra

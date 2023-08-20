@@ -1,3 +1,20 @@
-merge
-	@merge /mə:dʤ/\n*  động từ\n- hoà vào; hoà hợp, kết hợp, hợp nhất\n=twilight merges into darkness+ hoàng hôn chìm đắm vào bức màn đêm\n@Chuyên ngành kinh tế\n-công ty được hợp nhất\n-hợp nhất\n-kết hợp\n-sáp nhập\n@Chuyên ngành kỹ thuật\n-hợp nhất\n-kết hợp\n@Lĩnh vực: hóa học & vật liệu\n-hòa vào\n@Lĩnh vực: toán & tin\n-kết sắp\n-sự trộn sắp\n-trộn sắp\n@Lĩnh vực: xây dựng\n-sát nhập
-
+merge	@merge /mə:dʤ/
+*  động từ
+- hoà vào; hoà hợp, kết hợp, hợp nhất
+=twilight merges into darkness+ hoàng hôn chìm đắm vào bức màn đêm
+@Chuyên ngành kinh tế
+-công ty được hợp nhất
+-hợp nhất
+-kết hợp
+-sáp nhập
+@Chuyên ngành kỹ thuật
+-hợp nhất
+-kết hợp
+@Lĩnh vực: hóa học & vật liệu
+-hòa vào
+@Lĩnh vực: toán & tin
+-kết sắp
+-sự trộn sắp
+-trộn sắp
+@Lĩnh vực: xây dựng
+-sát nhập

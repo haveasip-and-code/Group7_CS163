@@ -1,3 +1,10 @@
-textbook
-	@textbook /'tekstbuk/\n*  danh từ\n- sách giáo khoa ((như) text)\n@Chuyên ngành kinh tế\n-sách giáo khoa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sách chữ\n@Lĩnh vực: toán & tin\n-sách giáo khoa
-
+textbook	@textbook /'tekstbuk/
+*  danh từ
+- sách giáo khoa ((như) text)
+@Chuyên ngành kinh tế
+-sách giáo khoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sách chữ
+@Lĩnh vực: toán & tin
+-sách giáo khoa

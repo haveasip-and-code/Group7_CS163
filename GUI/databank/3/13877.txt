@@ -1,3 +1,7 @@
-decolor
-	@decolor /di:'kʌlə/ (decolour) /di:'kʌlə/ (decolorize) /di:'kʌləraiz/ (decolourize) /di:'kʌləraiz/\n*  ngoại động từ\n- làm phai màu, làm bay màu\n@Chuyên ngành kỹ thuật\n-làm phai màu\n@Lĩnh vực: hóa học & vật liệu\n-làm tiêu màu
-
+decolor	@decolor /di:'kʌlə/ (decolour) /di:'kʌlə/ (decolorize) /di:'kʌləraiz/ (decolourize) /di:'kʌləraiz/
+*  ngoại động từ
+- làm phai màu, làm bay màu
+@Chuyên ngành kỹ thuật
+-làm phai màu
+@Lĩnh vực: hóa học & vật liệu
+-làm tiêu màu

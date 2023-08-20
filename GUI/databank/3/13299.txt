@@ -1,3 +1,5 @@
-cyclist
-	@cyclist /'saiklist/\n*  danh từ\n- người đi xe đạp\n@Chuyên ngành kỹ thuật\n-người đi xe đạp
-
+cyclist	@cyclist /'saiklist/
+*  danh từ
+- người đi xe đạp
+@Chuyên ngành kỹ thuật
+-người đi xe đạp

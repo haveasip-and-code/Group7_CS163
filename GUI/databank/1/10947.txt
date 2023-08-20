@@ -1,3 +1,4 @@
-concurrently
-	@concurrently\n* phó từ\n- đồng thời, kiêm
-
+concurrently	
+@concurrently
+* phó từ
+- đồng thời, kiêm

@@ -1,3 +1,6 @@
-bioluminescence
-	@bioluminescence\n* danh từ\n- sự phát quang sinh học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự sinh phát quang
-
+bioluminescence	@bioluminescence
+* danh từ
+- sự phát quang sinh học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự sinh phát quang

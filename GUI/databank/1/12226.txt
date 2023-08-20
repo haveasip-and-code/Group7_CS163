@@ -1,3 +1,7 @@
-counterclaim
-	@Chuyên ngành kinh tế\n-phản tố\n-sự đòi bồi thường ngược lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phản tố
-
+counterclaim	
+@Chuyên ngành kinh tế
+-phản tố
+-sự đòi bồi thường ngược lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phản tố

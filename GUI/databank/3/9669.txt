@@ -1,3 +1,15 @@
-clause
-	@clause /'klætə/\n*  danh từ\n- (ngôn ngữ học) mệnh đề\n=main clause+ mệnh đề chính\n=subordinate clause+ mệnh đề phụ\n- điều khoản (của một hiệp ước...)\n@Chuyên ngành kinh tế\n-điều khoản (của hợp đồng hay quy định pháp luật)\n@Chuyên ngành kỹ thuật\n-điều khoản\n-mệnh đề\n@Lĩnh vực: toán & tin\n-cụm từ\n@Lĩnh vực: xây dựng\n-điều khoản (hợp đồng)
-
+clause	@clause /'klætə/
+*  danh từ
+- (ngôn ngữ học) mệnh đề
+=main clause+ mệnh đề chính
+=subordinate clause+ mệnh đề phụ
+- điều khoản (của một hiệp ước...)
+@Chuyên ngành kinh tế
+-điều khoản (của hợp đồng hay quy định pháp luật)
+@Chuyên ngành kỹ thuật
+-điều khoản
+-mệnh đề
+@Lĩnh vực: toán & tin
+-cụm từ
+@Lĩnh vực: xây dựng
+-điều khoản (hợp đồng)

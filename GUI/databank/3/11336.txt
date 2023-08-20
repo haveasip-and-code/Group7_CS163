@@ -1,3 +1,2 @@
-consignable
-	@consignable\n- xem consign
-
+consignable	@consignable
+- xem consign

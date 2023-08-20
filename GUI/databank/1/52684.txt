@@ -1,3 +1,25 @@
-spreader
-	@spreader /'spredə/\n*  danh từ\n- người trải ra, người căng (vải...)\n- người rải, người truyền bá, người loan truyền (tin đồn...)\n- con dao để phết (bơ...)\n- máy rải, máy rắc (phân...)\n- cái để căng tách ra (không cho hai sợi dây chập vào nhau...)\n@Chuyên ngành kỹ thuật\n-căng ra\n-giằng\n-máy phết\n-máy rắc\n-máy trải\n-máy trát\n-thanh chống\n-thanh giằng\n@Lĩnh vực: cơ khí & công trình\n-bộ phận mở rộng\n@Lĩnh vực: ô tô\n-cái bay (trét matít)\n@Lĩnh vực: xây dựng\n-máy rải\n-máy rải (nhựa bê tông)\n-máy rải (nhựa, bêtông...)\n-máy rải sỏi (trên mặt đường)
-
+spreader	@spreader /'spredə/
+*  danh từ
+- người trải ra, người căng (vải...)
+- người rải, người truyền bá, người loan truyền (tin đồn...)
+- con dao để phết (bơ...)
+- máy rải, máy rắc (phân...)
+- cái để căng tách ra (không cho hai sợi dây chập vào nhau...)
+@Chuyên ngành kỹ thuật
+-căng ra
+-giằng
+-máy phết
+-máy rắc
+-máy trải
+-máy trát
+-thanh chống
+-thanh giằng
+@Lĩnh vực: cơ khí & công trình
+-bộ phận mở rộng
+@Lĩnh vực: ô tô
+-cái bay (trét matít)
+@Lĩnh vực: xây dựng
+-máy rải
+-máy rải (nhựa bê tông)
+-máy rải (nhựa, bêtông...)
+-máy rải sỏi (trên mặt đường)

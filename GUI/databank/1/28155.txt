@@ -1,3 +1,12 @@
-indirect
-	@indirect /,indi'rekt/\n*  tính từ\n- gián tiếp\n=an indirect reply+ câu trả lời gián tiếp\n=an indirect result+ kết quả gián tiếp\n- không thẳng, quanh co\n=an indirect road+ con đường quanh co\n- không thẳng thắn, uẩn khúc, gian lận, bất lương\n=indirect dealing+ sự gian lận, sự bất lương\n@Chuyên ngành kỹ thuật\n-gián tiếp
-
+indirect	
+@indirect /,indi'rekt/
+*  tính từ
+- gián tiếp=an indirect reply
++ câu trả lời gián tiếp=an indirect result
++ kết quả gián tiếp
+- không thẳng, quanh co=an indirect road
++ con đường quanh co
+- không thẳng thắn, uẩn khúc, gian lận, bất lương=indirect dealing
++ sự gian lận, sự bất lương
+@Chuyên ngành kỹ thuật
+-gián tiếp

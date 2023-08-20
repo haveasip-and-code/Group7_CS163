@@ -1,3 +1,7 @@
-dermatome
-	@dermatome\n* danh từ\n- khúc bì\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dao lóc da\n-khúc bì
-
+dermatome	@dermatome
+* danh từ
+- khúc bì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dao lóc da
+-khúc bì

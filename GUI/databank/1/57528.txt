@@ -1,3 +1,24 @@
-trash
-	@trash /træʃ/\n*  danh từ\n- bã; bã mía ((cũng) cane-trash)\n- cành cây tỉa bớt\n- vật rác rưởi, đồ vô giá trị ((nghĩa đen) & (nghĩa bóng))\n=that novel is mere trash+ cuốn tiểu thuyết ấy thật vô giá trị\n=to talk trash+ nói nhăng nói nhít, nói láo lếu\n=to write trash+ viết láo lếu\n- người vô giá trị, đồ cặn bã\n*  ngoại động từ\n- tỉa, xén (cành, lá)\n- (thông tục) xử tệ, coi như rác\n@Chuyên ngành kinh tế\n-đồ cặn bã\n-phế liệu\n-phế phẩm\n-phế vật\n@Chuyên ngành kỹ thuật\n-cặn bã\n-chất thải\n-rác\n-tạp chất\n@Lĩnh vực: cơ khí & công trình\n-đá rác
-
+trash	@trash /træʃ/
+*  danh từ
+- bã; bã mía ((cũng) cane-trash)
+- cành cây tỉa bớt
+- vật rác rưởi, đồ vô giá trị ((nghĩa đen) & (nghĩa bóng))
+=that novel is mere trash+ cuốn tiểu thuyết ấy thật vô giá trị
+=to talk trash+ nói nhăng nói nhít, nói láo lếu
+=to write trash+ viết láo lếu
+- người vô giá trị, đồ cặn bã
+*  ngoại động từ
+- tỉa, xén (cành, lá)
+- (thông tục) xử tệ, coi như rác
+@Chuyên ngành kinh tế
+-đồ cặn bã
+-phế liệu
+-phế phẩm
+-phế vật
+@Chuyên ngành kỹ thuật
+-cặn bã
+-chất thải
+-rác
+-tạp chất
+@Lĩnh vực: cơ khí & công trình
+-đá rác

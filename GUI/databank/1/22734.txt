@@ -1,3 +1,17 @@
-gable
-	@gable /'geibl/\n*  danh từ\n- đầu hồi (nhà)\n- (kỹ thuật) cột chống, thanh chống, giá chống\n@Chuyên ngành kỹ thuật\n-đầu hồi\n-đầu hồi (nhà)\n-giá chống\n-khung chống\n-thanh chống\n@Lĩnh vực: xây dựng\n-đầu hồi nhà\n-đỉnh tam giác\n-hè nhà\n-hồi đầu nhà\n-trán tường
-
+gable	
+@gable /'geibl/
+*  danh từ
+- đầu hồi (nhà)
+- (kỹ thuật) cột chống, thanh chống, giá chống
+@Chuyên ngành kỹ thuật
+-đầu hồi
+-đầu hồi (nhà)
+-giá chống
+-khung chống
+-thanh chống
+@Lĩnh vực: xây dựng
+-đầu hồi nhà
+-đỉnh tam giác
+-hè nhà
+-hồi đầu nhà
+-trán tường

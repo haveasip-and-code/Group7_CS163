@@ -1,3 +1,6 @@
-subcooled
-	@subcooled\n* tính từ\n- được làm lạnh dưới nhiệt độ ngưng tụ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bị quá lạnh
-
+subcooled	@subcooled
+* tính từ
+- được làm lạnh dưới nhiệt độ ngưng tụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bị quá lạnh

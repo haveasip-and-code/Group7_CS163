@@ -1,3 +1,2 @@
-pollywog
-	@pollywog\n- xem polliwog
-
+pollywog	@pollywog
+- xem polliwog

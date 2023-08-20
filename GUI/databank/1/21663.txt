@@ -1,3 +1,9 @@
-foal
-	@foal /foul/\n*  danh từ\n- ngựa con, lừa con\n!to be in (with) foal\n- có chửa (ngựa cái, lừa cái)\n*  ngoại động từ\n- sinh, đẻ ra (ngựa con, lừa con)\n*  nội động từ\n- đẻ ngựa con, đẻ lừa con
-
+foal	
+@foal /foul/
+*  danh từ
+- ngựa con, lừa con!to be in (with) foal
+- có chửa (ngựa cái, lừa cái)
+*  ngoại động từ
+- sinh, đẻ ra (ngựa con, lừa con)
+*  nội động từ
+- đẻ ngựa con, đẻ lừa con

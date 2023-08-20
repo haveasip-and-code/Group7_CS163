@@ -1,3 +1,3 @@
-overburdening
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự chở quá mức
-
+overburdening	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự chở quá mức

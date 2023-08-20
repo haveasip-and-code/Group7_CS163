@@ -1,3 +1,7 @@
-skipping
-	@Chuyên ngành kỹ thuật\n-nhảy dòng\n-sự bỏ qua\n@Lĩnh vực: cơ khí & công trình\n-công thay đổi đột ngột (động cơ)\n@Lĩnh vực: toán & tin\n-sự nhảy qua
-
+skipping	@Chuyên ngành kỹ thuật
+-nhảy dòng
+-sự bỏ qua
+@Lĩnh vực: cơ khí & công trình
+-công thay đổi đột ngột (động cơ)
+@Lĩnh vực: toán & tin
+-sự nhảy qua

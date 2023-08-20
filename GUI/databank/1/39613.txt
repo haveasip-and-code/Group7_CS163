@@ -1,3 +1,4 @@
-parametrize
-	@parametrize\n- xem parameterise\n@Chuyên ngành kỹ thuật\n-tham số hóa
-
+parametrize	@parametrize
+- xem parameterise
+@Chuyên ngành kỹ thuật
+-tham số hóa

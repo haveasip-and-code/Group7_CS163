@@ -1,3 +1,23 @@
-sanction
-	@sanction /'sæɳkʃn/\n*  danh từ\n- sự phê chuẩn, sự thừa nhận; sự đồng ý\n=with the sanction of the author+ với sự đồng ý của tác giả\n- sự được phép của phong tục tập quán\n- luật pháp, sắc lệnh\n- hình phạt ((cũng) vindicatory (punitive) sanction)\n- sự khen thưởng ((cũng) remuneratory sanction)\n*  ngoại động từ\n- phê chuẩn, thừa nhận, đồng ý\n- cho quyền, ban quyền hành\n- luật quy định hình thức thưởng phạt (cho việc chấp hành hay vi phạm một đạo luật)\n- khuyến khích (một hành động)\n@Chuyên ngành kinh tế\n-chế tài\n-đồng ý\n-phê chuẩn\n-phê chuẩn, đồng ý\n-sắc lệnh\n-sự phê chuẩn\n-sự phê chuẩn, đồng ý\n-sự xử phạt\n-sự xử phạt, chế tài
-
+sanction	@sanction /'sæɳkʃn/
+*  danh từ
+- sự phê chuẩn, sự thừa nhận; sự đồng ý
+=with the sanction of the author+ với sự đồng ý của tác giả
+- sự được phép của phong tục tập quán
+- luật pháp, sắc lệnh
+- hình phạt ((cũng) vindicatory (punitive) sanction)
+- sự khen thưởng ((cũng) remuneratory sanction)
+*  ngoại động từ
+- phê chuẩn, thừa nhận, đồng ý
+- cho quyền, ban quyền hành
+- luật quy định hình thức thưởng phạt (cho việc chấp hành hay vi phạm một đạo luật)
+- khuyến khích (một hành động)
+@Chuyên ngành kinh tế
+-chế tài
+-đồng ý
+-phê chuẩn
+-phê chuẩn, đồng ý
+-sắc lệnh
+-sự phê chuẩn
+-sự phê chuẩn, đồng ý
+-sự xử phạt
+-sự xử phạt, chế tài

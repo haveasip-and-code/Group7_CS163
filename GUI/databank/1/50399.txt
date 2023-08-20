@@ -1,3 +1,12 @@
-shipyard
-	@shipyard /'ʃipjɑ:d/\n*  danh từ\n- xưởng đóng tàu\n@Chuyên ngành kinh tế\n-ụ tàu\n-xưởng đóng tàu\n@Chuyên ngành kỹ thuật\n-nhà máy đóng tàu\n@Lĩnh vực: xây dựng\n-âu thuyền (xưởng đóng tàu)\n-xưởng đóng tàu\n-xưởng sửa chữa tàu
-
+shipyard	@shipyard /'ʃipjɑ:d/
+*  danh từ
+- xưởng đóng tàu
+@Chuyên ngành kinh tế
+-ụ tàu
+-xưởng đóng tàu
+@Chuyên ngành kỹ thuật
+-nhà máy đóng tàu
+@Lĩnh vực: xây dựng
+-âu thuyền (xưởng đóng tàu)
+-xưởng đóng tàu
+-xưởng sửa chữa tàu

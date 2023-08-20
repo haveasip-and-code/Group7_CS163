@@ -1,3 +1,2 @@
-pantiled
-	@pantiled\n- xem pantile
-
+pantiled	@pantiled
+- xem pantile

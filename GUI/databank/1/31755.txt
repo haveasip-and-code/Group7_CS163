@@ -1,3 +1,6 @@
-leakproof
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-không hở\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-không hở
-
+leakproof	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-không hở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-không hở

@@ -1,3 +1,117 @@
-close
-	@close /klous/\n*  tính từ\n- đóng kín\n- chật, chật chội; kín, bí hơi, ngột ngạt\n=close prisoner+ người tù giam trong khám kín\n=close air+ không khí ngột ngạt\n- chặt, bền, sít, khít\n=a close texture+ vải dệt mau\n=a close thicket+ bụi rậm\n- che đậy, bí mật, giấu giếm, kín\n=to keep a thing close+ giữ cái gì bí mật\n- dè dặt, kín đáo\n=a very close man+ người rất kín đáo\n- hà tiện, bủn xỉn\n=to be close with one's money+ bủn xỉn, sít sao với đồng tiền\n- gần, thân, sát\n=a close friend+ bạn thân\n=a close translation+ bản dịch sát\n=a close resemblance+ sự giống hệt\n=close combat+ trận đánh gần, trận đánh giáp lá cà\n- chặt chẽ, kỹ lưỡng, tỉ mỉ, cẩn thận\n=a close argument+ lý lẽ chặt chẽ\n=close attention+ sự chú ý cẩn thận\n=a close examination+ sự xem xét kỹ lưỡng\n- hạn chế, cấm\n=close scholarship+ học bổng hạn chế\n=close season+ mùa cấm (săn bắn, câu cá...)\n- gay go, ngang nhau, ngang sức\n=a close contest+ một cuộc đấu gay go, một cuộc đấu ngang sức\n=a close vote+ cuộc bầu ngang phiếu\n!close call\n- (thông tục) cái suýt làm nguy đến tính mạng\n!close shave\n- sự cạo nhẵn\n- sự suýt đâm vào nhau; sự hút chết\n!to fight in close order\n- sát cánh vào nhau mà chiến đấu\n*  phó từ\n- kín\n=close shut+ đóng kín\n- ẩn, kín đáo, giấu giếm\n=to keep (lie) close+ ẩn mình\n- gần, sát, ngắn\n=there were close on a hundred people+ có tới gần một trăm người\n=to cut one's hair close+ cạo trọc lóc\n!close to\n!close by\n- gần, ở gần\n!close upon\n- gần, suýt soát\n*  danh từ\n- khu đất có rào\n=to break someone's close+ xâm phạm vào đất đai của ai\n- sân trường\n- sân trong (nhà thờ)\n*  danh từ\n- sự kết thúc, lúc kết thúc; phần cuối\n=the close of a meeting+ sự kết thúc buổi mít tinh\n=day reaches its close+ trời đã tối\n- sự ôm nhau vật; sự đánh giáp lá cà\n- (âm nhạc) kết\n!to bring to a close\n- kết thúc, chấm dứt\n!to draw to a close\n- (xem) draw\n*  ngoại động từ\n- đóng, khép\n=to close the door+ đóng cửa\n- làm khít lại, dồn lại gần, làm sát lại nhau\n=close the ranks!+ hãy dồn hàng lại!; hãy siết chặt hàng ngũ!\n- kết thúc, chấm dứt, làm xong\n=to close one's days+ kết thúc cuộc đời, chết\n=to close a speech+ kết thúc bài nói\n*  nội động từ\n- đóng, khép\n=shops close at six+ các cửa hiệu đóng cửa vào lúc 6 giờ\n=this door closes easily+ cửa này dễ khép\n- kết thúc, chấm dứt\n=his speech closed with an appeal to patriotism+ bài nói của ông ta kết thúc bằng lời kêu gọi tinh thần yêu nước\n!to close about\n- bao bọc, bao quanh\n!to close down\n- đóng cửa hẳn (không buôn bán, không sản xuất nữa)\n- trấn áp, đàn áp; bóp chết (một phong trào cách mạng...)\n!to close in\n- tới gần\n=evening is closing in+ bóng chiều buông xuống\n- ngắn dần\n!the days are closing in\n- ngày ngắn dần\n- rào quanh, bao quanh (một miếng đất)\n- (quân sự) tiến sát để tấn công\n!to close up\n- khít lại, sát lại gần nhau\n- (quân sự) dồn hàng, siết chặt hàng ngũ\n- bít lại, cản (đường), làm tắc nghẽn (lối đi); lấp lại (lỗ)\n- đóng kín, đóng hẳn, đóng miệng (vết thương)\n!to close with\n- đến sát gần, dịch lại gần\n=left close!+ (quân sự) dịch sang trái!\n=right close!+ (quân sự) dịch sang phải!\n- đánh giáp lá cà, ôm sát người mà vật\n- đồng ý (với ai); sẵn sàng nhận (điều kiện...)\n@Chuyên ngành kinh tế\n-cuối buổi\n-giá cuối cùng\n-phút chót\n@Chuyên ngành kỹ thuật\n-ẩn\n-bịt\n-chặt\n-dầy đặc\n-đóng\n-đóng (cấu trúc)\n-đóng kín\n-dừng\n-kết thúc\n-khép\n-khép kín\n-khít\n-khóa\n-kín\n@Lĩnh vực: cơ khí & công trình\n-bện (cáp)\n-chìm (mũ đinh)\n-làm khít\n@Lĩnh vực: hóa học & vật liệu\n-chặt khít\n@Lĩnh vực: điện\n-tiếp mạch
-
+close	
+@close /klous/
+*  tính từ
+- đóng kín
+- chật, chật chội; kín, bí hơi, ngột ngạt=close prisoner
++ người tù giam trong khám kín=close air
++ không khí ngột ngạt
+- chặt, bền, sít, khít=a close texture
++ vải dệt mau=a close thicket
++ bụi rậm
+- che đậy, bí mật, giấu giếm, kín=to keep a thing close
++ giữ cái gì bí mật
+- dè dặt, kín đáo=a very close man
++ người rất kín đáo
+- hà tiện, bủn xỉn=to be close with one's money
++ bủn xỉn, sít sao với đồng tiền
+- gần, thân, sát=a close friend
++ bạn thân=a close translation
++ bản dịch sát=a close resemblance
++ sự giống hệt=close combat
++ trận đánh gần, trận đánh giáp lá cà
+- chặt chẽ, kỹ lưỡng, tỉ mỉ, cẩn thận=a close argument
++ lý lẽ chặt chẽ=close attention
++ sự chú ý cẩn thận=a close examination
++ sự xem xét kỹ lưỡng
+- hạn chế, cấm=close scholarship
++ học bổng hạn chế=close season
++ mùa cấm (săn bắn, câu cá...)
+- gay go, ngang nhau, ngang sức=a close contest
++ một cuộc đấu gay go, một cuộc đấu ngang sức=a close vote
++ cuộc bầu ngang phiếu!close call
+- (thông tục) cái suýt làm nguy đến tính mạng!close shave
+- sự cạo nhẵn
+- sự suýt đâm vào nhau; sự hút chết!to fight in close order
+- sát cánh vào nhau mà chiến đấu
+*  phó từ
+- kín=close shut
++ đóng kín
+- ẩn, kín đáo, giấu giếm=to keep (lie) close
++ ẩn mình
+- gần, sát, ngắn=there were close on a hundred people
++ có tới gần một trăm người=to cut one's hair close
++ cạo trọc lóc!close to!close by
+- gần, ở gần!close upon
+- gần, suýt soát
+*  danh từ
+- khu đất có rào=to break someone's close
++ xâm phạm vào đất đai của ai
+- sân trường
+- sân trong (nhà thờ)
+*  danh từ
+- sự kết thúc, lúc kết thúc; phần cuối=the close of a meeting
++ sự kết thúc buổi mít tinh=day reaches its close
++ trời đã tối
+- sự ôm nhau vật; sự đánh giáp lá cà
+- (âm nhạc) kết!to bring to a close
+- kết thúc, chấm dứt!to draw to a close
+- (xem) draw
+*  ngoại động từ
+- đóng, khép=to close the door
++ đóng cửa
+- làm khít lại, dồn lại gần, làm sát lại nhau=close the ranks!
++ hãy dồn hàng lại!; hãy siết chặt hàng ngũ!
+- kết thúc, chấm dứt, làm xong=to close one's days
++ kết thúc cuộc đời, chết=to close a speech
++ kết thúc bài nói
+*  nội động từ
+- đóng, khép=shops close at six
++ các cửa hiệu đóng cửa vào lúc 6 giờ=this door closes easily
++ cửa này dễ khép
+- kết thúc, chấm dứt=his speech closed with an appeal to patriotism
++ bài nói của ông ta kết thúc bằng lời kêu gọi tinh thần yêu nước!to close about
+- bao bọc, bao quanh!to close down
+- đóng cửa hẳn (không buôn bán, không sản xuất nữa)
+- trấn áp, đàn áp; bóp chết (một phong trào cách mạng...)!to close in
+- tới gần=evening is closing in
++ bóng chiều buông xuống
+- ngắn dần!the days are closing in
+- ngày ngắn dần
+- rào quanh, bao quanh (một miếng đất)
+- (quân sự) tiến sát để tấn công!to close up
+- khít lại, sát lại gần nhau
+- (quân sự) dồn hàng, siết chặt hàng ngũ
+- bít lại, cản (đường), làm tắc nghẽn (lối đi); lấp lại (lỗ)
+- đóng kín, đóng hẳn, đóng miệng (vết thương)!to close with
+- đến sát gần, dịch lại gần=left close!
++ (quân sự) dịch sang trái!=right close!
++ (quân sự) dịch sang phải!
+- đánh giáp lá cà, ôm sát người mà vật
+- đồng ý (với ai); sẵn sàng nhận (điều kiện...)
+@Chuyên ngành kinh tế
+-cuối buổi
+-giá cuối cùng
+-phút chót
+@Chuyên ngành kỹ thuật
+-ẩn
+-bịt
+-chặt
+-dầy đặc
+-đóng
+-đóng (cấu trúc)
+-đóng kín
+-dừng
+-kết thúc
+-khép
+-khép kín
+-khít
+-khóa
+-kín
+@Lĩnh vực: cơ khí & công trình
+-bện (cáp)
+-chìm (mũ đinh)
+-làm khít
+@Lĩnh vực: hóa học & vật liệu
+-chặt khít
+@Lĩnh vực: điện
+-tiếp mạch

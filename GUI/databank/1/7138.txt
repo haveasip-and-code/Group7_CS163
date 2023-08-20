@@ -1,3 +1,13 @@
-bunching
-	@bunching\n- (Tech) tụ nhóm (d)\n@Chuyên ngành kinh tế\n-đưa tin liên tiếp\n-gộp chung\n-kết tập\n@Chuyên ngành kỹ thuật\n-sự nhóm lại\n@Lĩnh vực: điện lạnh\n-sự cụm lại\n@Lĩnh vực: điện\n-sự kết chùm
-
+bunching	
+@bunching
+- (Tech) tụ nhóm (d)
+@Chuyên ngành kinh tế
+-đưa tin liên tiếp
+-gộp chung
+-kết tập
+@Chuyên ngành kỹ thuật
+-sự nhóm lại
+@Lĩnh vực: điện lạnh
+-sự cụm lại
+@Lĩnh vực: điện
+-sự kết chùm

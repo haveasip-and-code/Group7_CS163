@@ -1,3 +1,2 @@
-brownout
-	@brownout\n- (Tech) dùng điện hạn chế
-
+brownout	@brownout
+- (Tech) dùng điện hạn chế

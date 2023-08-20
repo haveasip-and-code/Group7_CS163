@@ -1,3 +1,7 @@
-winery
-	@winery /'wain ri/\n*  danh từ\n- nhà máy rượu vang\n@Chuyên ngành kinh tế\n-xưởng đặt rượu\n-xưởng rượu nho\n-xưởng rượu, xưởng rượu nho
-
+winery	@winery /'wain ri/
+*  danh từ
+- nhà máy rượu vang
+@Chuyên ngành kinh tế
+-xưởng đặt rượu
+-xưởng rượu nho
+-xưởng rượu, xưởng rượu nho

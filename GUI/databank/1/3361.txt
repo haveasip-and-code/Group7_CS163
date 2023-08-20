@@ -1,3 +1,4 @@
-arrearages
-	@Chuyên ngành kinh tế\n-tiền còn thiếu\n-tiền nợ thiếu
-
+arrearages	
+@Chuyên ngành kinh tế
+-tiền còn thiếu
+-tiền nợ thiếu

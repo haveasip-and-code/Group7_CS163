@@ -1,3 +1,13 @@
-disability
-	@disability /,disə'biliti/\n*  danh từ\n- sự bất tài, sự bất lực\n- sự ốm yếu tàn tật\n- (pháp lý) sự không đủ tư cách (trước pháp luật)\n@Chuyên ngành kinh tế\n-ốm yếu tàn tật\n-sự bất lực\n-sự không đủ tư cách (trước pháp luật)\n@Chuyên ngành kỹ thuật\n-bất lực\n@Lĩnh vực: hóa học & vật liệu\n-bất tài
-
+disability	@disability /,disə'biliti/
+*  danh từ
+- sự bất tài, sự bất lực
+- sự ốm yếu tàn tật
+- (pháp lý) sự không đủ tư cách (trước pháp luật)
+@Chuyên ngành kinh tế
+-ốm yếu tàn tật
+-sự bất lực
+-sự không đủ tư cách (trước pháp luật)
+@Chuyên ngành kỹ thuật
+-bất lực
+@Lĩnh vực: hóa học & vật liệu
+-bất tài

@@ -1,3 +1,7 @@
-octuple
-	@octuple /'ɔktju:pl/\n*  tính từ\n- gấp tám lần\n*  danh từ\n- số gấp tám\n*  ngoại động từ\n- nhân lên tám lần
-
+octuple	@octuple /'ɔktju:pl/
+*  tính từ
+- gấp tám lần
+*  danh từ
+- số gấp tám
+*  ngoại động từ
+- nhân lên tám lần

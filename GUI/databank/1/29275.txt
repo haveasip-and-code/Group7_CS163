@@ -1,3 +1,6 @@
-interelectrode
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-giữa các điện cực\n@Lĩnh vực: điện tử & viễn thông\n-liên điện cực
-
+interelectrode	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-giữa các điện cực
+@Lĩnh vực: điện tử & viễn thông
+-liên điện cực

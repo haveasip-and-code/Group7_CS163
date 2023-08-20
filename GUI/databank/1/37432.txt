@@ -1,3 +1,12 @@
-obstacle
-	@obstacle /'ɔbstəkl/\n*  danh từ\n- vật chướng ngại, trở lực\n- sự cản trở, sự trở ngại\n@Chuyên ngành kỹ thuật\n-chướng ngại vật\n-hỗn độn\n-sự cản trở\n-sự trở ngại\n-trở ngại\n-vật cản\n-vật chướng ngại
-
+obstacle	@obstacle /'ɔbstəkl/
+*  danh từ
+- vật chướng ngại, trở lực
+- sự cản trở, sự trở ngại
+@Chuyên ngành kỹ thuật
+-chướng ngại vật
+-hỗn độn
+-sự cản trở
+-sự trở ngại
+-trở ngại
+-vật cản
+-vật chướng ngại

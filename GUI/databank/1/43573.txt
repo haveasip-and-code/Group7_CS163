@@ -1,3 +1,6 @@
-pricing
-	@Chuyên ngành kinh tế\n-định giá\n@Chuyên ngành kỹ thuật\n-định giá\n@Lĩnh vực: cơ khí & công trình\n-sự đặt giá
-
+pricing	@Chuyên ngành kinh tế
+-định giá
+@Chuyên ngành kỹ thuật
+-định giá
+@Lĩnh vực: cơ khí & công trình
+-sự đặt giá

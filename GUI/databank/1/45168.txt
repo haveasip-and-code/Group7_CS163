@@ -1,3 +1,24 @@
-queue
-	@queue /kju:/\n*  danh từ\n- đuôi sam\n- hàng (người, xe ô tô ở ngã tư khi có đèn đỏ...) xếp nối đuôi\n=to stand in a queue+ xếp hàng nối đuôi nhau\n*  nội động từ\n- ((thường) + up) xếp hàng nối đuôi nhau\n=to queue up for a tram+ xếp hàng nối đuôi nhau để lên xe điện\n*  ngoại động từ\n- tết (tóc thành đuôi sam)\n@Chuyên ngành kỹ thuật\n-dòng xe\n-hàng\n-hàng chờ\n-hàng đợi\n-xếp hàng\n@Lĩnh vực: giao thông & vận tải\n-dòng hàng\n@Lĩnh vực: hóa học & vật liệu\n-hàng lối\n@Lĩnh vực: điện lạnh\n-sự nối đuôi\n@Lĩnh vực: toán & tin\n-xếp hàng đợi
-
+queue	@queue /kju:/
+*  danh từ
+- đuôi sam
+- hàng (người, xe ô tô ở ngã tư khi có đèn đỏ...) xếp nối đuôi
+=to stand in a queue+ xếp hàng nối đuôi nhau
+*  nội động từ
+- ((thường) + up) xếp hàng nối đuôi nhau
+=to queue up for a tram+ xếp hàng nối đuôi nhau để lên xe điện
+*  ngoại động từ
+- tết (tóc thành đuôi sam)
+@Chuyên ngành kỹ thuật
+-dòng xe
+-hàng
+-hàng chờ
+-hàng đợi
+-xếp hàng
+@Lĩnh vực: giao thông & vận tải
+-dòng hàng
+@Lĩnh vực: hóa học & vật liệu
+-hàng lối
+@Lĩnh vực: điện lạnh
+-sự nối đuôi
+@Lĩnh vực: toán & tin
+-xếp hàng đợi

@@ -1,3 +1,7 @@
-subcontractor
-	@subcontractor /,sʌbkən'træktə/\n*  danh từ\n- người thầu phụ\n@Chuyên ngành kinh tế\n-nhà thầu phụ\n@Chuyên ngành kỹ thuật\n-nhà thầu phụ
-
+subcontractor	@subcontractor /,sʌbkən'træktə/
+*  danh từ
+- người thầu phụ
+@Chuyên ngành kinh tế
+-nhà thầu phụ
+@Chuyên ngành kỹ thuật
+-nhà thầu phụ

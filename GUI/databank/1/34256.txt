@@ -1,3 +1,54 @@
-melt
-	@melt /melt/\n*  danh từ\n- sự nấu chảy; sự tan\n- kim loại nấu chảy\n- mẻ nấu kim loại\n*  nội động từ\n- tan ra, chảy ra\n=ice melted+ băng tan\n=the fog melted away+ sương mù tan đi\n- (thông tục) chảy nước ra, vãi mỡ ra, toát mồ hôi\n=I am melting with heat+ tôi nóng vãi mỡ ra\n- cảm động, cảm kích, động lòng, mủi lòng, se lòng\n=heart melts with pity+ lòng se lại vì thương xót, trái tim xúc động vì thương xót\n- nao núng, nhụt đi\n=resolution behins melting+ lòng quyết tâm bắt đầu nhụt đi\n*  ngoại động từ\n- làm tan ra, làm chảy ra\n=to melt metals+ nấu chảy kim loại\n- làm động lòng, làm mủi lòng, làm se lòng\n=pity melts one's heart+ niềm trắc ẩn làm se lòng lại\n- làm nao núng, làm nhụt đi, làm nguôi đi\n!to melt away\n- tan đi, tan biến đi\n!to melt down\n- nấu chảy\n!to melt into\n- hoà vào, tan vào, biến đổi dần thành\n!to melt into tear\n- khóc sướt mướt, nước mắt chan hoà\n@Chuyên ngành kinh tế\n-chảy nước\n-nóng chảy\n-sự chảy\n-sự nóng chảy\n-sự tan\n-tan ra\n@Chuyên ngành kỹ thuật\n-bị nấu chảy\n-chảy\n-đun\n-đun nấu\n-lượng nóng chảy\n-nấu chảy\n-nóng chảy\n-nung chảy\n-sự nấu chảy\n-sự tan băng\n@Lĩnh vực: hóa học & vật liệu\n-phần nóng chảy\n-tan băng\n@Lĩnh vực: xây dựng\n-tan ra (tuyết)\n-thể nóng chảy\n-vật nấu chảy
-
+melt	@melt /melt/
+*  danh từ
+- sự nấu chảy; sự tan
+- kim loại nấu chảy
+- mẻ nấu kim loại
+*  nội động từ
+- tan ra, chảy ra
+=ice melted+ băng tan
+=the fog melted away+ sương mù tan đi
+- (thông tục) chảy nước ra, vãi mỡ ra, toát mồ hôi
+=I am melting with heat+ tôi nóng vãi mỡ ra
+- cảm động, cảm kích, động lòng, mủi lòng, se lòng
+=heart melts with pity+ lòng se lại vì thương xót, trái tim xúc động vì thương xót
+- nao núng, nhụt đi
+=resolution behins melting+ lòng quyết tâm bắt đầu nhụt đi
+*  ngoại động từ
+- làm tan ra, làm chảy ra
+=to melt metals+ nấu chảy kim loại
+- làm động lòng, làm mủi lòng, làm se lòng
+=pity melts one's heart+ niềm trắc ẩn làm se lòng lại
+- làm nao núng, làm nhụt đi, làm nguôi đi
+!to melt away
+- tan đi, tan biến đi
+!to melt down
+- nấu chảy
+!to melt into
+- hoà vào, tan vào, biến đổi dần thành
+!to melt into tear
+- khóc sướt mướt, nước mắt chan hoà
+@Chuyên ngành kinh tế
+-chảy nước
+-nóng chảy
+-sự chảy
+-sự nóng chảy
+-sự tan
+-tan ra
+@Chuyên ngành kỹ thuật
+-bị nấu chảy
+-chảy
+-đun
+-đun nấu
+-lượng nóng chảy
+-nấu chảy
+-nóng chảy
+-nung chảy
+-sự nấu chảy
+-sự tan băng
+@Lĩnh vực: hóa học & vật liệu
+-phần nóng chảy
+-tan băng
+@Lĩnh vực: xây dựng
+-tan ra (tuyết)
+-thể nóng chảy
+-vật nấu chảy

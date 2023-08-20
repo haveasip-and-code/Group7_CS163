@@ -1,3 +1,7 @@
-overstrike
-	@overstrike\n- đánh chồng, in chồng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đánh chồng\n-đánh chồng, in chồng\n-in chồng
-
+overstrike	@overstrike
+- đánh chồng, in chồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đánh chồng
+-đánh chồng, in chồng
+-in chồng

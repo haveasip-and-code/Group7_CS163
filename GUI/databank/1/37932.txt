@@ -1,3 +1,36 @@
-operate
-	@operate /'ɔpəreit/\n*  nội động từ\n- hoạt động (máy...)\n- có tác dụng\n=it operates to our advantage+ điều đó có lợi cho ta\n=regulations will operate from Jan 1st+ nội quy sẽ bắt đầu áp dụng từ ngày 1 tháng giêng\n=the medicine did not operate+ thuốc đó không có tác dụng\n- lợi dụng\n=to operate on somebody's credulity+ lợi dụng cả lòng tin của ai\n- (y học) mổ\n=to operate on a patient+ mổ một người bệnh\n- (quân sự) hành quân\n- đầu cơ\n=to operate for a rise+ đầu cơ giá lên\n*  ngoại động từ\n- làm cho hoạt động, cho chạy (máy...); thao tác\n- đưa đến, mang đến, dẫn đến\n=energy operates changes+ nghị lực dẫn đến những sự thay đổi\n- (từ Mỹ,nghĩa Mỹ) thi hành, thực hiện, tiến hành\n- (từ Mỹ,nghĩa Mỹ) đưa (nhà máy...) vào sản xuất; khai thác (mỏ...); điều khiển (xí nghiệp...)\n@Chuyên ngành kinh tế\n-cho chạy (máy..)\n-làm cho hoạt động\n@Chuyên ngành kỹ thuật\n-điều khiển\n-được dẫn động\n-gia công\n-hoạt động\n-khai thác\n-làm việc\n-sử dụng\n-tác động\n-tác dụng\n-vận hành\n@Lĩnh vực: toán & tin\n-làm các phép toán
-
+operate	@operate /'ɔpəreit/
+*  nội động từ
+- hoạt động (máy...)
+- có tác dụng
+=it operates to our advantage+ điều đó có lợi cho ta
+=regulations will operate from Jan 1st+ nội quy sẽ bắt đầu áp dụng từ ngày 1 tháng giêng
+=the medicine did not operate+ thuốc đó không có tác dụng
+- lợi dụng
+=to operate on somebody's credulity+ lợi dụng cả lòng tin của ai
+- (y học) mổ
+=to operate on a patient+ mổ một người bệnh
+- (quân sự) hành quân
+- đầu cơ
+=to operate for a rise+ đầu cơ giá lên
+*  ngoại động từ
+- làm cho hoạt động, cho chạy (máy...); thao tác
+- đưa đến, mang đến, dẫn đến
+=energy operates changes+ nghị lực dẫn đến những sự thay đổi
+- (từ Mỹ,nghĩa Mỹ) thi hành, thực hiện, tiến hành
+- (từ Mỹ,nghĩa Mỹ) đưa (nhà máy...) vào sản xuất; khai thác (mỏ...); điều khiển (xí nghiệp...)
+@Chuyên ngành kinh tế
+-cho chạy (máy..)
+-làm cho hoạt động
+@Chuyên ngành kỹ thuật
+-điều khiển
+-được dẫn động
+-gia công
+-hoạt động
+-khai thác
+-làm việc
+-sử dụng
+-tác động
+-tác dụng
+-vận hành
+@Lĩnh vực: toán & tin
+-làm các phép toán

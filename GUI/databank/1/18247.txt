@@ -1,3 +1,14 @@
-endomorphism
-	@endomorphism\n- (đại số) tự đồng cấu\n- join e. tự đồng cấu nối\n- operator e. tự đồng cấu toán tử\n- partial e. tự đồng cấu riêng phần\n- power-type e. tự đồng cấu kiểu luỹ thừa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tự đồng cấu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tự đồng cấu
-
+endomorphism	
+@endomorphism
+- (đại số) tự đồng cấu
+- join e. tự đồng cấu nối
+- operator e. tự đồng cấu toán tử
+- partial e. tự đồng cấu riêng phần
+- power
+-type e. tự đồng cấu kiểu luỹ thừa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tự đồng cấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tự đồng cấu

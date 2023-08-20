@@ -1,3 +1,66 @@
-as
-	@as /æz, əz/\n*  phó từ\n- như\n=as you know+ như anh đã biết\n=some People's Democracies as Vietnam, Korea...+ một số nước dân chủ nhân dân như Việt Nam,  Triều Tiên...\n=late as usual+ muộn như thường lệ\n- là, với tư cách là\n=I speak to you as a friend+ tôi nói với anh với tư cách là một người bạn\n- cũng, bằng\n=he is as old as you+ anh ta cũng già bằng anh, anh ta bằng tuổi anh\n!as far as\n- xa tận, cho tận đến\n=to go far as the station+ đi đến tận nhà ga\n- đến chừng mức mà\n=far as I know+ đến chừng mức mà tôi biết, theo tất cả những điều mà tôi biết\n!as far back as\n- lui tận về\n=as far back as two years ago+ lui về cách đây hai năm; cách đây hai năm\n!as far; as to\n- về phía, về phần\n=as for me+ về phần tôi\n!as good as\n- (xem) good\n!as long as\n- (xem) as much as\n- cũng chừng này, cũng bằng này\n=you can take as much as you like+ anh thích bao nhiêu thì có thể cứ lấy chừng nấy\n!as much\n- cũng vậy\n=I thought as much+ tôi cũng nghĩ như vậy\n!as well\n- (xem) well\n!as well as\n- (xem) well\n!as yet\n- (xem) yet\n*  liên từ\n- lúc khi, trong khi mà; đúng lúc mà ((cũng) just as)\n=he came in as I was speaking+ khi tôi đang nói thì hắn vào\n- vì, bởi vì\n=as it was raining hard, we could not start+ vì trời mưa to chúng tôi không thể khởi hành được\n- để, cốt để\n=he so arranged matters as to suit everyone+ anh ta thu xếp mọi việc cốt để làm cho hợp với tất cả mọi người\n=be so kind (good) as to let me know...+ anh hãy vui lòng cho tôi biết...\n- tuy rằng, dù rằng\n=tired as she was did not leave her task undone+ tuy mệt thật đấy cô ta cũng không bỏ công việc\n!as if\n- như thế, y như thế\n!as it were\n- có thể là như vậy, có thể cho là như vậy\n=he is not equal to the task, as it were+ hắn không xứng với nhiệm vụ, có thể cho là như vậy\n!as though\n- (xem) though\n*  đại từ\n- mà, người mà, cái mà...; như\n=he is the same man as I met yesterday+ ông ta đúng là người mà hôm qua tôi gặp\n=such a genius as Marx+ một thiên tài như Mác\n- điều đó, cái đó, cái ấy\n=he was a foreigner, as they perceived from his accent+ ông ta là một người nước ngoài, người ta nhận thấy điều đó ở giọng nói của ông ta\n*  danh từ,  số nhiều asses\n- đồng át (tiền La mã)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-mo hệ CGS điện từ, bằng 10 mũ 9 mo\n@Chuyên ngành kỹ thuật\n-như
-
+as	@as /æz, əz/
+*  phó từ
+- như
+=as you know+ như anh đã biết
+=some People's Democracies as Vietnam, Korea...+ một số nước dân chủ nhân dân như Việt Nam,  Triều Tiên...
+=late as usual+ muộn như thường lệ
+- là, với tư cách là
+=I speak to you as a friend+ tôi nói với anh với tư cách là một người bạn
+- cũng, bằng
+=he is as old as you+ anh ta cũng già bằng anh, anh ta bằng tuổi anh
+!as far as
+- xa tận, cho tận đến
+=to go far as the station+ đi đến tận nhà ga
+- đến chừng mức mà
+=far as I know+ đến chừng mức mà tôi biết, theo tất cả những điều mà tôi biết
+!as far back as
+- lui tận về
+=as far back as two years ago+ lui về cách đây hai năm; cách đây hai năm
+!as far; as to
+- về phía, về phần
+=as for me+ về phần tôi
+!as good as
+- (xem) good
+!as long as
+- (xem) as much as
+- cũng chừng này, cũng bằng này
+=you can take as much as you like+ anh thích bao nhiêu thì có thể cứ lấy chừng nấy
+!as much
+- cũng vậy
+=I thought as much+ tôi cũng nghĩ như vậy
+!as well
+- (xem) well
+!as well as
+- (xem) well
+!as yet
+- (xem) yet
+*  liên từ
+- lúc khi, trong khi mà; đúng lúc mà ((cũng) just as)
+=he came in as I was speaking+ khi tôi đang nói thì hắn vào
+- vì, bởi vì
+=as it was raining hard, we could not start+ vì trời mưa to chúng tôi không thể khởi hành được
+- để, cốt để
+=he so arranged matters as to suit everyone+ anh ta thu xếp mọi việc cốt để làm cho hợp với tất cả mọi người
+=be so kind (good) as to let me know...+ anh hãy vui lòng cho tôi biết...
+- tuy rằng, dù rằng
+=tired as she was did not leave her task undone+ tuy mệt thật đấy cô ta cũng không bỏ công việc
+!as if
+- như thế, y như thế
+!as it were
+- có thể là như vậy, có thể cho là như vậy
+=he is not equal to the task, as it were+ hắn không xứng với nhiệm vụ, có thể cho là như vậy
+!as though
+- (xem) though
+*  đại từ
+- mà, người mà, cái mà...; như
+=he is the same man as I met yesterday+ ông ta đúng là người mà hôm qua tôi gặp
+=such a genius as Marx+ một thiên tài như Mác
+- điều đó, cái đó, cái ấy
+=he was a foreigner, as they perceived from his accent+ ông ta là một người nước ngoài, người ta nhận thấy điều đó ở giọng nói của ông ta
+*  danh từ,  số nhiều asses
+- đồng át (tiền La mã)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-mo hệ CGS điện từ, bằng 10 mũ 9 mo
+@Chuyên ngành kỹ thuật
+-như

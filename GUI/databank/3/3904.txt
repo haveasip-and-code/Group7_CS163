@@ -1,3 +1,8 @@
-attractor
-	@attractor\n- xem attract\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-điểm hấp dẫn\n@Lĩnh vực: điện lạnh\n-độ khả thính\n-độ nghe được
-
+attractor	@attractor
+- xem attract
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-điểm hấp dẫn
+@Lĩnh vực: điện lạnh
+-độ khả thính
+-độ nghe được

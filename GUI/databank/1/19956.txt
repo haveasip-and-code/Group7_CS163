@@ -1,3 +1,56 @@
-express
-	@express /iks'pres/\n*  danh từ\n- người đưa thư hoả tốc, công văn hoả tốc\n- xe lửa tốc hành, xe nhanh\n- (từ Mỹ,nghĩa Mỹ) hàng gửi xe lửa tốc hành; tiền gửi hoả tốc\n- hãng (vận tải) tốc hành\n- súng bắn nhanh\n*  tính từ\n- nói rõ, rõ ràng\n=an express order+ mệnh lệnh rõ ràng\n- như hệt, như in, như tạc\n=an express likeness+ sự giống như hệt\n- nhằm mục đích đặc biệt, nhằm mục đích riêng biệt\n=his express reason for going...+ lý do đặc biệt để đi... của anh ta\n- nhanh, hoả tốc, tốc hành\n=an express rife+ súng bắn nhanh\n=an express bullet+ đạn cho súng bắn nhanh\n=an express train+ xe lửa tốc hành\n*  phó từ\n- hoả tốc, tốc hành\n*  ngoại động từ\n- vắt, ép, bóp (quả chanh...)\n- biểu lộ, bày tỏ (tình cảm...); phát biểu ý kiên\n=to express oneself+ diễn đạt, phát biểu ý kiến (về một vấn đề gì...)\n=his face expressed sorrow+ nét mặt anh ta biểu lộ sự đau buồn\n- (toán học) biểu diễn\n- (từ Mỹ,nghĩa Mỹ) gửi hoả tốc\n@Chuyên ngành kinh tế\n-bưu phẩm phát chuyển nhanh\n-chuyên chở tốc hành\n-minh bạch\n-minh thị\n-minh xác\n-nhanh\n-phát chuyển nhanh\n-quy định rõ bằng văn bản\n-rõ ràng\n-sự chuyên chở tốc hành\n-sự chuyển tiền nhanh\n-suốt\n-tốc hành\n-vắt ép\n-xe tốc hành\n@Chuyên ngành kỹ thuật\n-biểu diễn\n-biểu thị\n-cao tốc\n-cực nhanh\n-diễn đạt\n@Chuyên ngành kỹ thuật\n-biểu diễn\n-biểu thị\n-cao tốc\n-cực nhanh\n-diễn đạt
-
+express	
+@express /iks'pres/
+*  danh từ
+- người đưa thư hoả tốc, công văn hoả tốc
+- xe lửa tốc hành, xe nhanh
+- (từ Mỹ,nghĩa Mỹ) hàng gửi xe lửa tốc hành; tiền gửi hoả tốc
+- hãng (vận tải) tốc hành
+- súng bắn nhanh
+*  tính từ
+- nói rõ, rõ ràng=an express order
++ mệnh lệnh rõ ràng
+- như hệt, như in, như tạc=an express likeness
++ sự giống như hệt
+- nhằm mục đích đặc biệt, nhằm mục đích riêng biệt=his express reason for going...
++ lý do đặc biệt để đi... của anh ta
+- nhanh, hoả tốc, tốc hành=an express rife
++ súng bắn nhanh=an express bullet
++ đạn cho súng bắn nhanh=an express train
++ xe lửa tốc hành
+*  phó từ
+- hoả tốc, tốc hành
+*  ngoại động từ
+- vắt, ép, bóp (quả chanh...)
+- biểu lộ, bày tỏ (tình cảm...); phát biểu ý kiên=to express oneself
++ diễn đạt, phát biểu ý kiến (về một vấn đề gì...)=his face expressed sorrow
++ nét mặt anh ta biểu lộ sự đau buồn
+- (toán học) biểu diễn
+- (từ Mỹ,nghĩa Mỹ) gửi hoả tốc
+@Chuyên ngành kinh tế
+-bưu phẩm phát chuyển nhanh
+-chuyên chở tốc hành
+-minh bạch
+-minh thị
+-minh xác
+-nhanh
+-phát chuyển nhanh
+-quy định rõ bằng văn bản
+-rõ ràng
+-sự chuyên chở tốc hành
+-sự chuyển tiền nhanh
+-suốt
+-tốc hành
+-vắt ép
+-xe tốc hành
+@Chuyên ngành kỹ thuật
+-biểu diễn
+-biểu thị
+-cao tốc
+-cực nhanh
+-diễn đạt
+@Chuyên ngành kỹ thuật
+-biểu diễn
+-biểu thị
+-cao tốc
+-cực nhanh
+-diễn đạt

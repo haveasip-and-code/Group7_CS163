@@ -1,3 +1,11 @@
-desalt
-	@desalt /di:'sɔ:lt/\n*  động từ\n- loại muối, khử muối\n@Chuyên ngành kinh tế\n-khử muối\n-loại bỏ muối\n@Chuyên ngành kỹ thuật\n-loại bỏ muối\n@Lĩnh vực: hóa học & vật liệu\n-khử mặn\n-khử muối
-
+desalt	@desalt /di:'sɔ:lt/
+*  động từ
+- loại muối, khử muối
+@Chuyên ngành kinh tế
+-khử muối
+-loại bỏ muối
+@Chuyên ngành kỹ thuật
+-loại bỏ muối
+@Lĩnh vực: hóa học & vật liệu
+-khử mặn
+-khử muối

@@ -1,3 +1,4 @@
-retime
-	@retime\n* ngoại động từ\n- chỉnh lại thời điểm; tính lại thời gian\n- định lại giờ
-
+retime	@retime
+* ngoại động từ
+- chỉnh lại thời điểm; tính lại thời gian
+- định lại giờ

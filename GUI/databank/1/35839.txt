@@ -1,3 +1,6 @@
-movables
-	@movables /'mu:vəblz/\n*  danh từ số nhiều\n- đồ đạc; đồ gỗ\n- (pháp lý) động sản\n@Chuyên ngành kinh tế\n-động sản
-
+movables	@movables /'mu:vəblz/
+*  danh từ số nhiều
+- đồ đạc; đồ gỗ
+- (pháp lý) động sản
+@Chuyên ngành kinh tế
+-động sản

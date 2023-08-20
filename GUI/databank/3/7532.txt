@@ -1,3 +1,2 @@
-calendal
-	@calendal\n- xem calends
-
+calendal	@calendal
+- xem calends

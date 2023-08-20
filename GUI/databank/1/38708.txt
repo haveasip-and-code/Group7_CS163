@@ -1,3 +1,2 @@
-overbooking
-	@Chuyên ngành kinh tế\n-sự bán vé lố
-
+overbooking	@Chuyên ngành kinh tế
+-sự bán vé lố

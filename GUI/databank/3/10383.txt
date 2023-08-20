@@ -1,3 +1,8 @@
-colostrum
-	@colostrum\n* danh từ\n- sữa non\n@Chuyên ngành kinh tế\n-sữa non\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sữa non
-
+colostrum	@colostrum
+* danh từ
+- sữa non
+@Chuyên ngành kinh tế
+-sữa non
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sữa non

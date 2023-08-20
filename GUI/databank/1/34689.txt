@@ -1,3 +1,9 @@
-microbe
-	@microbe /'maikroub/\n*  danh từ\n- vi trùng, vi khuẩn\n@Chuyên ngành kinh tế\n-vi khuẩn\n-vi trùng\n@Chuyên ngành kỹ thuật\n-vi sinh vật\n-vi trùng
-
+microbe	@microbe /'maikroub/
+*  danh từ
+- vi trùng, vi khuẩn
+@Chuyên ngành kinh tế
+-vi khuẩn
+-vi trùng
+@Chuyên ngành kỹ thuật
+-vi sinh vật
+-vi trùng

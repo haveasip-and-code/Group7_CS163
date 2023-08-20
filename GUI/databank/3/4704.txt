@@ -1,3 +1,38 @@
-bare
-	@bare /beə/\n*  tính từ\n- trần, trần truồng, trọc\n=to have one's head bare+ để đầu trần\n=a bare hillside+ sườn đồi trọc\n=to lay bare+ bóc trần\n- trống không, rỗng, trơ trụi; (nghĩa bóng) nghèo nàn, xác xơ\n=the house looks bare+ ngôi nhà trông trống rỗng\n=to be bare of money+ rỗng túi, không một xu dính túi\n- vừa đủ, tối thiểu\n=to earn a bare living+ kiếm vừa đủ sống\n=bare possibility+ khả năng tối thiểu\n- (vật lý) không được cách điện, trần\n![as] bare as the palm of one's hand\n- hoàn toàn trơ trụi, hoàn toàn trống không\n!to believe someone's bare word\n!to believe a thing on someone's bare word\n- ai nói gì tin nấy\n!in one's bare skin\n- trần như nhộng\n*  ngoại động từ\n- làm trụi, lột, bóc trần, để lô\n=to bare one's head+ lột mũ ra, bỏ mũ ra\n- thổ lộ, bóc lột\n=to bare one's heart+ thổ lộ tâm tình\n- tuốt (gươm) ra khỏi vỏ\n@Chuyên ngành kỹ thuật\n-để trần\n-không bọc\n-lộ\n@Lĩnh vực: hóa học & vật liệu\n-không bị phủ\n@Lĩnh vực: xây dựng\n-không bọc vỏ\n-trần trụi\n-trần trụi để không\n@Lĩnh vực: cơ khí & công trình\n-trơ trụi
-
+bare	@bare /beə/
+*  tính từ
+- trần, trần truồng, trọc
+=to have one's head bare+ để đầu trần
+=a bare hillside+ sườn đồi trọc
+=to lay bare+ bóc trần
+- trống không, rỗng, trơ trụi; (nghĩa bóng) nghèo nàn, xác xơ
+=the house looks bare+ ngôi nhà trông trống rỗng
+=to be bare of money+ rỗng túi, không một xu dính túi
+- vừa đủ, tối thiểu
+=to earn a bare living+ kiếm vừa đủ sống
+=bare possibility+ khả năng tối thiểu
+- (vật lý) không được cách điện, trần
+![as] bare as the palm of one's hand
+- hoàn toàn trơ trụi, hoàn toàn trống không
+!to believe someone's bare word
+!to believe a thing on someone's bare word
+- ai nói gì tin nấy
+!in one's bare skin
+- trần như nhộng
+*  ngoại động từ
+- làm trụi, lột, bóc trần, để lô
+=to bare one's head+ lột mũ ra, bỏ mũ ra
+- thổ lộ, bóc lột
+=to bare one's heart+ thổ lộ tâm tình
+- tuốt (gươm) ra khỏi vỏ
+@Chuyên ngành kỹ thuật
+-để trần
+-không bọc
+-lộ
+@Lĩnh vực: hóa học & vật liệu
+-không bị phủ
+@Lĩnh vực: xây dựng
+-không bọc vỏ
+-trần trụi
+-trần trụi để không
+@Lĩnh vực: cơ khí & công trình
+-trơ trụi

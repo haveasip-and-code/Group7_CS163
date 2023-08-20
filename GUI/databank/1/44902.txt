@@ -1,3 +1,9 @@
-pycnometer
-	@Chuyên ngành kinh tế\n-cái đo tỷ trọng\n-tỷ trọng kế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-lọ (đo) tỷ trọng\n@Lĩnh vực: vật lý\n-mật độ kế (đo mật độ)\n-tỷ trọng kế (đo tỷ trọng)
-
+pycnometer	@Chuyên ngành kinh tế
+-cái đo tỷ trọng
+-tỷ trọng kế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-lọ (đo) tỷ trọng
+@Lĩnh vực: vật lý
+-mật độ kế (đo mật độ)
+-tỷ trọng kế (đo tỷ trọng)

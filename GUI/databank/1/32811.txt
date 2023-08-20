@@ -1,3 +1,2 @@
-louvres
-	@Chuyên ngành kỹ thuật\n-tấm chắn
-
+louvres	@Chuyên ngành kỹ thuật
+-tấm chắn

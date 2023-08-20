@@ -1,3 +1,34 @@
-erosion
-	@erosion /i'rouʤn/\n*  danh từ\n- sự xói mòn, sự ăn mòn\n@Chuyên ngành kinh tế\n-sự xói mòn\n@Chuyên ngành kỹ thuật\n-gặm mòn\n-sự ăn mòn\n-sự bào mòn\n-sự hao mòn\n-sự phong hóa\n-sự xâm thực\n-sự xói lở\n-sự xói mòn\n-xâm thực\n-xói mòn\n@Lĩnh vực: xây dựng\n-sự đào dưới\n-sự khoét chân\n@Chuyên ngành kỹ thuật\n-gặm mòn\n-sự ăn mòn\n-sự bào mòn\n-sự hao mòn\n-sự phong hóa\n-sự xâm thực\n-sự xói lở\n-sự xói mòn\n-xâm thực\n-xói mòn\n@Lĩnh vực: xây dựng\n-sự đào dưới\n-sự khoét chân
-
+erosion	
+@erosion /i'rouʤn/
+*  danh từ
+- sự xói mòn, sự ăn mòn
+@Chuyên ngành kinh tế
+-sự xói mòn
+@Chuyên ngành kỹ thuật
+-gặm mòn
+-sự ăn mòn
+-sự bào mòn
+-sự hao mòn
+-sự phong hóa
+-sự xâm thực
+-sự xói lở
+-sự xói mòn
+-xâm thực
+-xói mòn
+@Lĩnh vực: xây dựng
+-sự đào dưới
+-sự khoét chân
+@Chuyên ngành kỹ thuật
+-gặm mòn
+-sự ăn mòn
+-sự bào mòn
+-sự hao mòn
+-sự phong hóa
+-sự xâm thực
+-sự xói lở
+-sự xói mòn
+-xâm thực
+-xói mòn
+@Lĩnh vực: xây dựng
+-sự đào dưới
+-sự khoét chân

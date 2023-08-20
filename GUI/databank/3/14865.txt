@@ -1,3 +1,6 @@
-desugar
-	@Chuyên ngành kinh tế\n-khử đường\n-loại bỏ đường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tách đường
-
+desugar	@Chuyên ngành kinh tế
+-khử đường
+-loại bỏ đường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tách đường

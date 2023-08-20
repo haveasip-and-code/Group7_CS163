@@ -1,3 +1,40 @@
-keying
-	@Chuyên ngành kỹ thuật\n-chêm\n-kẹt\n-liên kết nêm\n-nêm\n-nhấn phím\n-sự bấm manip\n-sự chêm\n-sự chèn khóa\n-sự chốt\n-sự đánh manip\n-sự ghép mộng\n-sự khóa\n-sự nêm\n-sự nhấn phím\n@Lĩnh vực: xây dựng\n-chêm nối\n-việc ghép mộng\n@Lĩnh vực: điện lạnh\n-sự đánh namip\n@Chuyên ngành kỹ thuật\n-chêm\n-kẹt\n-liên kết nêm\n-nêm\n-nhấn phím\n-sự bấm manip\n-sự chêm\n-sự chèn khóa\n-sự chốt\n-sự đánh manip\n-sự ghép mộng\n-sự khóa\n-sự nêm\n-sự nhấn phím\n@Lĩnh vực: xây dựng\n-chêm nối\n-việc ghép mộng\n@Lĩnh vực: điện lạnh\n-sự đánh namip
-
+keying	@Chuyên ngành kỹ thuật
+-chêm
+-kẹt
+-liên kết nêm
+-nêm
+-nhấn phím
+-sự bấm manip
+-sự chêm
+-sự chèn khóa
+-sự chốt
+-sự đánh manip
+-sự ghép mộng
+-sự khóa
+-sự nêm
+-sự nhấn phím
+@Lĩnh vực: xây dựng
+-chêm nối
+-việc ghép mộng
+@Lĩnh vực: điện lạnh
+-sự đánh namip
+@Chuyên ngành kỹ thuật
+-chêm
+-kẹt
+-liên kết nêm
+-nêm
+-nhấn phím
+-sự bấm manip
+-sự chêm
+-sự chèn khóa
+-sự chốt
+-sự đánh manip
+-sự ghép mộng
+-sự khóa
+-sự nêm
+-sự nhấn phím
+@Lĩnh vực: xây dựng
+-chêm nối
+-việc ghép mộng
+@Lĩnh vực: điện lạnh
+-sự đánh namip

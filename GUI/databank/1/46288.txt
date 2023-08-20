@@ -1,3 +1,15 @@
-refining
-	@Chuyên ngành kinh tế\n-sự làm sạch\n-sự tinh chế\n@Chuyên ngành kỹ thuật\n-sự chế biến\n-sự làm sạch\n-sự lọc sạch\n-sự nghiền bột giấy\n-sự tinh chế\n-sự tinh luyện (thép)\n@Lĩnh vực: hóa học & vật liệu\n-sự chế biến lại\n-sự tinh lọc (dầu mỏ)\n@Lĩnh vực: điện lạnh\n-sự tinh luyện
-
+refining	@Chuyên ngành kinh tế
+-sự làm sạch
+-sự tinh chế
+@Chuyên ngành kỹ thuật
+-sự chế biến
+-sự làm sạch
+-sự lọc sạch
+-sự nghiền bột giấy
+-sự tinh chế
+-sự tinh luyện (thép)
+@Lĩnh vực: hóa học & vật liệu
+-sự chế biến lại
+-sự tinh lọc (dầu mỏ)
+@Lĩnh vực: điện lạnh
+-sự tinh luyện

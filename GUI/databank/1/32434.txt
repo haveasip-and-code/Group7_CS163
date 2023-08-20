@@ -1,3 +1,21 @@
-lithograph
-	@lithograph /'liθəgrɑ:f/\n*  danh từ\n- tờ in đá, tờ in thạch bản\n*  ngoại động từ\n- in đá, in thạch bản\n@Chuyên ngành kỹ thuật\n-bản in litô\n-đá\n-in litô\n@Lĩnh vực: điện tử & viễn thông\n-in thạch bản\n@Lĩnh vực: xây dựng\n-tờ in đá\n@Chuyên ngành kỹ thuật\n-bản in litô\n-đá\n-in litô\n@Lĩnh vực: điện tử & viễn thông\n-in thạch bản\n@Lĩnh vực: xây dựng\n-tờ in đá
-
+lithograph	@lithograph /'liθəgrɑ:f/
+*  danh từ
+- tờ in đá, tờ in thạch bản
+*  ngoại động từ
+- in đá, in thạch bản
+@Chuyên ngành kỹ thuật
+-bản in litô
+-đá
+-in litô
+@Lĩnh vực: điện tử & viễn thông
+-in thạch bản
+@Lĩnh vực: xây dựng
+-tờ in đá
+@Chuyên ngành kỹ thuật
+-bản in litô
+-đá
+-in litô
+@Lĩnh vực: điện tử & viễn thông
+-in thạch bản
+@Lĩnh vực: xây dựng
+-tờ in đá

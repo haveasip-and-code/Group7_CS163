@@ -1,3 +1,4 @@
-edict
-	@edict /'i:dikt/\n*  danh từ\n- chỉ dụ, sắc lệnh
-
+edict	
+@edict /'i:dikt/
+*  danh từ
+- chỉ dụ, sắc lệnh

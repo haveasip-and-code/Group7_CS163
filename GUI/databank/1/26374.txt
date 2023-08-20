@@ -1,3 +1,27 @@
-hull
-	@hull /hʌl/\n*  danh từ\n- vỏ đỗ, vỏ trái cây\n- (nghĩa bóng) vỏ, bao\n*  ngoại động từ\n- bóc vỏ (trái cây)\n*  danh từ\n- thân tàu thuỷ, thân máy bay\n=hull down+ chỉ nhìn thấy cột tàu và ống khói (không thấy thân vì xa quá)\n*  ngoại động từ\n- bắn trúng thân, chọc thủng thân (tàu, thuỷ lôi...)\n@Chuyên ngành kinh tế\n-bao\n-vỏ\n-vỏ hạt\n-vỏ quả\n@Chuyên ngành kỹ thuật\n-bao\n-thùng xe\n-vỏ\n-vỏ xe\n@Lĩnh vực: xây dựng\n-sườn xe\n@Lĩnh vực: giao thông & vận tải\n-thân máy bay\n-vỏ máy bay
-
+hull	
+@hull /hʌl/
+*  danh từ
+- vỏ đỗ, vỏ trái cây
+- (nghĩa bóng) vỏ, bao
+*  ngoại động từ
+- bóc vỏ (trái cây)
+*  danh từ
+- thân tàu thuỷ, thân máy bay=hull down
++ chỉ nhìn thấy cột tàu và ống khói (không thấy thân vì xa quá)
+*  ngoại động từ
+- bắn trúng thân, chọc thủng thân (tàu, thuỷ lôi...)
+@Chuyên ngành kinh tế
+-bao
+-vỏ
+-vỏ hạt
+-vỏ quả
+@Chuyên ngành kỹ thuật
+-bao
+-thùng xe
+-vỏ
+-vỏ xe
+@Lĩnh vực: xây dựng
+-sườn xe
+@Lĩnh vực: giao thông & vận tải
+-thân máy bay
+-vỏ máy bay

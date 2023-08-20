@@ -1,3 +1,2 @@
-meteorologic
-	@meteorologic\n- Cách viết khác : meteorological
-
+meteorologic	@meteorologic
+- Cách viết khác : meteorological

@@ -1,3 +1,9 @@
-aggradation
-	@Chuyên ngành kỹ thuật\n-bồi tích\n-đất bồi\n-sự bồi đắp\n-sự bồi lấp\n-sự bồi tụ\n-sự kết tập\n@Lĩnh vực: cơ khí & công trình\n-sự bồi tích
-
+aggradation	@Chuyên ngành kỹ thuật
+-bồi tích
+-đất bồi
+-sự bồi đắp
+-sự bồi lấp
+-sự bồi tụ
+-sự kết tập
+@Lĩnh vực: cơ khí & công trình
+-sự bồi tích

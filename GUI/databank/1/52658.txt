@@ -1,3 +1,4 @@
-spotlighting
-	@spotlighting\n* danh từ\n- sự chiếu sáng bằng đèn chiếu\n- sự thu hút chú ý đến
-
+spotlighting	@spotlighting
+* danh từ
+- sự chiếu sáng bằng đèn chiếu
+- sự thu hút chú ý đến

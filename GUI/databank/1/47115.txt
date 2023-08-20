@@ -1,3 +1,4 @@
-resite
-	@Chuyên ngành kỹ thuật\n-nhựa giai đoạn C\n@Lĩnh vực: hóa học & vật liệu\n-resit (nhựa fenol fomađehit giai đoạn C)
-
+resite	@Chuyên ngành kỹ thuật
+-nhựa giai đoạn C
+@Lĩnh vực: hóa học & vật liệu
+-resit (nhựa fenol fomađehit giai đoạn C)

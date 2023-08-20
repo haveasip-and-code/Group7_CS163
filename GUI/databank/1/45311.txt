@@ -1,3 +1,19 @@
-raceway
-	@Chuyên ngành kinh tế\n-luồng cá\n-sự lùa đàn gia súc\n@Chuyên ngành kỹ thuật\n-kênh dẫn nước\n-mặt lăn (ổ trục)\n-ống bảo vệ\n-vòng ổ lăn\n@Lĩnh vực: xây dựng\n-hoặc dây cáp\n-kênh hẹp dẫn nước\n@Lĩnh vực: điện tử & viễn thông\n-ống bao dây cáp\n@Lĩnh vực: điện\n-ống bao vây điện\n-ống bảo vệ điện\n-ống chứa dây điện\n@Lĩnh vực: vật lý\n-ống dẫn nước (làm nguội ở lò phản ứng)
-
+raceway	@Chuyên ngành kinh tế
+-luồng cá
+-sự lùa đàn gia súc
+@Chuyên ngành kỹ thuật
+-kênh dẫn nước
+-mặt lăn (ổ trục)
+-ống bảo vệ
+-vòng ổ lăn
+@Lĩnh vực: xây dựng
+-hoặc dây cáp
+-kênh hẹp dẫn nước
+@Lĩnh vực: điện tử & viễn thông
+-ống bao dây cáp
+@Lĩnh vực: điện
+-ống bao vây điện
+-ống bảo vệ điện
+-ống chứa dây điện
+@Lĩnh vực: vật lý
+-ống dẫn nước (làm nguội ở lò phản ứng)

@@ -1,3 +1,2 @@
-chider
-	@chider\n- xem chide
-
+chider	@chider
+- xem chide

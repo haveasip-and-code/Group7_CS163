@@ -1,3 +1,4 @@
-pent
-	@pent /pent/\n*  tính từ\n- bị nhốt; bị giam chặt\n- bị nén xuống (tình cảm...)
-
+pent	@pent /pent/
+*  tính từ
+- bị nhốt; bị giam chặt
+- bị nén xuống (tình cảm...)

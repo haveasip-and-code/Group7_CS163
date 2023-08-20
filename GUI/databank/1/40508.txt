@@ -1,3 +1,2 @@
-perceiver
-	@perceiver\n- xem perceive
-
+perceiver	@perceiver
+- xem perceive

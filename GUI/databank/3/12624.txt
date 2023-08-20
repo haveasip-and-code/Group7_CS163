@@ -1,3 +1,5 @@
-cress
-	@cress /kres/\n*  danh từ\n- (thực vật học) cải xoong\n@Chuyên ngành kinh tế\n-rau cải xoong
-
+cress	@cress /kres/
+*  danh từ
+- (thực vật học) cải xoong
+@Chuyên ngành kinh tế
+-rau cải xoong

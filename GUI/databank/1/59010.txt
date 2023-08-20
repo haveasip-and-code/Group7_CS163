@@ -1,3 +1,16 @@
-unconsolidated
-	@unconsolidated /'ʌnkən'sɔlideitid/\n*  tính từ\n- không được củng cố, không được vững chắc\n@Chuyên ngành kỹ thuật\n-không chắc\n-không chặt\n-vụn\n@Lĩnh vực: hóa học & vật liệu\n-bỏ rời\n-không gắn kết\n@Lĩnh vực: xây dựng\n-chưa cố kết\n-chưa nén chặt\n-tơi xốp\n@Lĩnh vực: cơ khí & công trình\n-không cố kết
-
+unconsolidated	@unconsolidated /'ʌnkən'sɔlideitid/
+*  tính từ
+- không được củng cố, không được vững chắc
+@Chuyên ngành kỹ thuật
+-không chắc
+-không chặt
+-vụn
+@Lĩnh vực: hóa học & vật liệu
+-bỏ rời
+-không gắn kết
+@Lĩnh vực: xây dựng
+-chưa cố kết
+-chưa nén chặt
+-tơi xốp
+@Lĩnh vực: cơ khí & công trình
+-không cố kết

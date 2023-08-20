@@ -1,3 +1,6 @@
-metals
-	@Chuyên ngành kỹ thuật\n-kim loại\n-ray\n-ray đường sắt\n@Lĩnh vực: giao thông & vận tải\n-thanh ray
-
+metals	@Chuyên ngành kỹ thuật
+-kim loại
+-ray
+-ray đường sắt
+@Lĩnh vực: giao thông & vận tải
+-thanh ray

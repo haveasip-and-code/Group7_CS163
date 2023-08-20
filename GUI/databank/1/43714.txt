@@ -1,3 +1,8 @@
-privity
-	@privity /privity/\n*  danh từ\n- sự biết riêng (việc gì)\n=with the privity of+ có sự hiểu biết riêng của (ai); được sự đồng tình riêng của (ai)\n=without his privity+ hắn không hay biết; không được sự đồng tình riêng của hắn\n- (pháp lý) quan hệ riêng (giữa hai bên, về dòng máu...)\n@Chuyên ngành kinh tế\n-quan hệ hợp đồng
-
+privity	@privity /privity/
+*  danh từ
+- sự biết riêng (việc gì)
+=with the privity of+ có sự hiểu biết riêng của (ai); được sự đồng tình riêng của (ai)
+=without his privity+ hắn không hay biết; không được sự đồng tình riêng của hắn
+- (pháp lý) quan hệ riêng (giữa hai bên, về dòng máu...)
+@Chuyên ngành kinh tế
+-quan hệ hợp đồng

@@ -1,3 +1,5 @@
-structuring
-	@Chuyên ngành kinh tế\n-cấu trúc\n-công trình kiến trúc\n-công trình xây dựng\n-kết cấu
-
+structuring	@Chuyên ngành kinh tế
+-cấu trúc
+-công trình kiến trúc
+-công trình xây dựng
+-kết cấu

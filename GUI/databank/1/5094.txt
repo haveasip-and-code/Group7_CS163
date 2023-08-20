@@ -1,3 +1,4 @@
-beezer
-	@beezer /bi:vs/\n*  danh từ\n- (từ lóng) cái mũi
-
+beezer	
+@beezer /bi:vs/
+*  danh từ
+- (từ lóng) cái mũi

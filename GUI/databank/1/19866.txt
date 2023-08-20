@@ -1,3 +1,27 @@
-experiment
-	@experiment /iks'periment - iks'periment/\n- iks'periment/\n*  nội động từ+ (experimentalise)\n/eks,peri'mentəlaiz/ (experimentalize)\n/eks,peri'mentəlaiz/\n- (+ on,  with) thí nghiệm, thử\n*  danh từ\n- cuộc thí nghiệm\n- sự thí nghiệm, sự thử\n@Chuyên ngành kinh tế\n-cuộc thí nghiệm\n-phép thử\n-sự thí nghiệm\n-sự thử\n-thí nghiệm\n@Chuyên ngành kỹ thuật\n-làm thí nghiệm\n-sự thí nghiệm\n-sự thử nghiệm\n-thí nghiệm mỏi\n@Chuyên ngành kỹ thuật\n-làm thí nghiệm\n-sự thí nghiệm\n-sự thử nghiệm\n-thí nghiệm mỏi
-
+experiment	
+@experiment /iks'periment 
+- iks'periment/
+- iks'periment/
+*  nội động từ
++ (experimentalise)/eks,peri'mentəlaiz/ (experimentalize)/eks,peri'mentəlaiz/
+- (
++ on,  with) thí nghiệm, thử
+*  danh từ
+- cuộc thí nghiệm
+- sự thí nghiệm, sự thử
+@Chuyên ngành kinh tế
+-cuộc thí nghiệm
+-phép thử
+-sự thí nghiệm
+-sự thử
+-thí nghiệm
+@Chuyên ngành kỹ thuật
+-làm thí nghiệm
+-sự thí nghiệm
+-sự thử nghiệm
+-thí nghiệm mỏi
+@Chuyên ngành kỹ thuật
+-làm thí nghiệm
+-sự thí nghiệm
+-sự thử nghiệm
+-thí nghiệm mỏi

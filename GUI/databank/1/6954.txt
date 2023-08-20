@@ -1,3 +1,5 @@
-brushability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tính chải được\n-tính quét được
-
+brushability	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tính chải được
+-tính quét được

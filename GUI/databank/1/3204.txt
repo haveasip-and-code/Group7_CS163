@@ -1,3 +1,8 @@
-archive
-	@archive\n- (Tech) tài liệu, tài liệu lưu trữ; lưu trữ (đ)\n@Chuyên ngành kỹ thuật\n-lưu trữ\n@Lĩnh vực: toán & tin\n-kho trữ\n-niêm cất
-
+archive	
+@archive
+- (Tech) tài liệu, tài liệu lưu trữ; lưu trữ (đ)
+@Chuyên ngành kỹ thuật
+-lưu trữ
+@Lĩnh vực: toán & tin
+-kho trữ
+-niêm cất

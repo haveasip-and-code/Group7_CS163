@@ -1,3 +1,12 @@
-transmissibility
-	@transmissibility /trænz,misə'biliti/\n*  danh từ\n- tính chất có thể chuyển giao được, tính chất có thể truyền được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-độ truyền động\n-khả năng truyền\n@Lĩnh vực: cơ khí & công trình\n-hệ số thấm Darcy\n-khả năng chuyển nước\n@Lĩnh vực: điện lạnh\n-tính truyền được
-
+transmissibility	@transmissibility /trænz,misə'biliti/
+*  danh từ
+- tính chất có thể chuyển giao được, tính chất có thể truyền được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-độ truyền động
+-khả năng truyền
+@Lĩnh vực: cơ khí & công trình
+-hệ số thấm Darcy
+-khả năng chuyển nước
+@Lĩnh vực: điện lạnh
+-tính truyền được

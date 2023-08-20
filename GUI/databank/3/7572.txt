@@ -1,3 +1,6 @@
-callback
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cuộc gọi lại\n-cuộc gọi ngược\n@Lĩnh vực: điện tử & viễn thông\n-gọi ngược
-
+callback	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cuộc gọi lại
+-cuộc gọi ngược
+@Lĩnh vực: điện tử & viễn thông
+-gọi ngược

@@ -1,3 +1,14 @@
-eolian
-	@eolian\n* tính từ\n- do gió; do gió đưa tới\n@Chuyên ngành kỹ thuật\n-do gió\n-phong thành\n@Lĩnh vực: xây dựng\n-thuộc về gió\n@Chuyên ngành kỹ thuật\n-do gió\n-phong thành\n@Lĩnh vực: xây dựng\n-thuộc về gió
-
+eolian	
+@eolian
+* tính từ
+- do gió; do gió đưa tới
+@Chuyên ngành kỹ thuật
+-do gió
+-phong thành
+@Lĩnh vực: xây dựng
+-thuộc về gió
+@Chuyên ngành kỹ thuật
+-do gió
+-phong thành
+@Lĩnh vực: xây dựng
+-thuộc về gió

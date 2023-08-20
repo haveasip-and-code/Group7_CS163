@@ -1,3 +1,20 @@
-spinner
-	@spinner /'spinəkə/\n*  danh từ\n- người quay tơ\n- xa quay tơ\n- thợ tiện\n- (hàng không) mũ cánh quạt (máy bay)\n- (thể dục,thể thao) động tác xoay tròn người (của người đang dắt bóng đá để lừa đối phương)\n- (như) spinneret\n@Chuyên ngành kỹ thuật\n-ăng ten quay, tay quay\n-dụng cụ ép\n-quay tròn\n@Lĩnh vực: điện lạnh\n-dụng cụ làm quay\n-máy quay\n@Lĩnh vực: cơ khí & công trình\n-máy tán xoay\n-thợ ép\n@Lĩnh vực: hóa học & vật liệu\n-thiết bị quay (xác định khả năng phun của vỉa)
-
+spinner	@spinner /'spinəkə/
+*  danh từ
+- người quay tơ
+- xa quay tơ
+- thợ tiện
+- (hàng không) mũ cánh quạt (máy bay)
+- (thể dục,thể thao) động tác xoay tròn người (của người đang dắt bóng đá để lừa đối phương)
+- (như) spinneret
+@Chuyên ngành kỹ thuật
+-ăng ten quay, tay quay
+-dụng cụ ép
+-quay tròn
+@Lĩnh vực: điện lạnh
+-dụng cụ làm quay
+-máy quay
+@Lĩnh vực: cơ khí & công trình
+-máy tán xoay
+-thợ ép
+@Lĩnh vực: hóa học & vật liệu
+-thiết bị quay (xác định khả năng phun của vỉa)

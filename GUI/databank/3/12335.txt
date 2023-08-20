@@ -1,3 +1,2 @@
-coverable
-	@coverable\n- xem cover
-
+coverable	@coverable
+- xem cover

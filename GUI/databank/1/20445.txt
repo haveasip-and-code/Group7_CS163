@@ -1,3 +1,6 @@
-farmland
-	@farmland\n* danh từ\n- đất chăn nuôi, trồng trọt\n@Chuyên ngành kinh tế\n-đất trồng có thể cày cấy
-
+farmland	
+@farmland
+* danh từ
+- đất chăn nuôi, trồng trọt
+@Chuyên ngành kinh tế
+-đất trồng có thể cày cấy

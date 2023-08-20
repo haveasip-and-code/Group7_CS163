@@ -1,3 +1,7 @@
-singularity
-	@singularity /,siɳgju'læriti/\n*  danh từ\n- tính đặc biệt, tính kỳ dị, tính phi thường; cái kỳ dị\n- tính lập dị; nét kỳ quặc\n- (từ hiếm,nghĩa hiếm) tính duy nhất, tính độc nhất\n@Chuyên ngành kỹ thuật\n-điểm kỳ dị
-
+singularity	@singularity /,siɳgju'læriti/
+*  danh từ
+- tính đặc biệt, tính kỳ dị, tính phi thường; cái kỳ dị
+- tính lập dị; nét kỳ quặc
+- (từ hiếm,nghĩa hiếm) tính duy nhất, tính độc nhất
+@Chuyên ngành kỹ thuật
+-điểm kỳ dị

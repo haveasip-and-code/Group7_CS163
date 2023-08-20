@@ -1,3 +1,41 @@
-lateral
-	@lateral /'lætərəl/\n*  tính từ\n- ở bên\n*  danh từ\n- phần bên, bộ phận bên, vật bên\n@Chuyên ngành kỹ thuật\n-bên\n-chung quanh\n-đường bên\n-kênh ngang\n-nằm ngang\n-ngang\n-mặt bên\n-ở bên\n-phía bên\n-phía hông\n-phụ\n-sườn\n-xung quanh\n@Lĩnh vực: xây dựng\n-hướng bên\n@Lĩnh vực: ô tô\n-thuộc mặt bên\n@Chuyên ngành kỹ thuật\n-bên\n-chung quanh\n-đường bên\n-kênh ngang\n-nằm ngang\n-ngang\n-mặt bên\n-ở bên\n-phía bên\n-phía hông\n-phụ\n-sườn\n-xung quanh\n@Lĩnh vực: xây dựng\n-hướng bên\n@Lĩnh vực: ô tô\n-thuộc mặt bên
-
+lateral	@lateral /'lætərəl/
+*  tính từ
+- ở bên
+*  danh từ
+- phần bên, bộ phận bên, vật bên
+@Chuyên ngành kỹ thuật
+-bên
+-chung quanh
+-đường bên
+-kênh ngang
+-nằm ngang
+-ngang
+-mặt bên
+-ở bên
+-phía bên
+-phía hông
+-phụ
+-sườn
+-xung quanh
+@Lĩnh vực: xây dựng
+-hướng bên
+@Lĩnh vực: ô tô
+-thuộc mặt bên
+@Chuyên ngành kỹ thuật
+-bên
+-chung quanh
+-đường bên
+-kênh ngang
+-nằm ngang
+-ngang
+-mặt bên
+-ở bên
+-phía bên
+-phía hông
+-phụ
+-sườn
+-xung quanh
+@Lĩnh vực: xây dựng
+-hướng bên
+@Lĩnh vực: ô tô
+-thuộc mặt bên

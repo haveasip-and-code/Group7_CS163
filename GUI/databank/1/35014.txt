@@ -1,3 +1,5 @@
-minutes
-	@Chuyên ngành kinh tế\n-biên bản\n-biên bản (cuộc họp)\n@Chuyên ngành kỹ thuật\n-biên bản
-
+minutes	@Chuyên ngành kinh tế
+-biên bản
+-biên bản (cuộc họp)
+@Chuyên ngành kỹ thuật
+-biên bản

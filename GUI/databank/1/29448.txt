@@ -1,3 +1,30 @@
-interpretation
-	@interpretation /in,tə:pri'teiʃn/\n*  danh từ\n- sự giải thích, sự làm sáng tỏ\n- sự hiểu (theo một cách nào đó); cách hiểu\n- sự trình diễn ra được, sự diễn xuất ra được; sự thể hiện\n- sự phiên dịch\n@Chuyên ngành kinh tế\n-cắt nghĩa\n-giải thích\n-giải thuyết\n-sự phiên dịch\n-thông dịch\n-thuyết minh\n@Chuyên ngành kỹ thuật\n-cực đổi chiều\n-giải thích\n-làm sáng tỏ\n-sự giải thích\n-sự thể hiện\n@Lĩnh vực: điện lạnh\n-cực phụ\n-cực trung gian\n@Lĩnh vực: điện tử & viễn thông\n-diễn dịch\n@Lĩnh vực: toán & tin\n-sự diễn dịch\n-sự thông dịch\n@Lĩnh vực: xây dựng\n-thể hiện
-
+interpretation	
+@interpretation /in,tə:pri'teiʃn/
+*  danh từ
+- sự giải thích, sự làm sáng tỏ
+- sự hiểu (theo một cách nào đó); cách hiểu
+- sự trình diễn ra được, sự diễn xuất ra được; sự thể hiện
+- sự phiên dịch
+@Chuyên ngành kinh tế
+-cắt nghĩa
+-giải thích
+-giải thuyết
+-sự phiên dịch
+-thông dịch
+-thuyết minh
+@Chuyên ngành kỹ thuật
+-cực đổi chiều
+-giải thích
+-làm sáng tỏ
+-sự giải thích
+-sự thể hiện
+@Lĩnh vực: điện lạnh
+-cực phụ
+-cực trung gian
+@Lĩnh vực: điện tử & viễn thông
+-diễn dịch
+@Lĩnh vực: toán & tin
+-sự diễn dịch
+-sự thông dịch
+@Lĩnh vực: xây dựng
+-thể hiện

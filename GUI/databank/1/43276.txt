@@ -1,3 +1,6 @@
-premolar
-	@premolar\n* danh từ\n- răng tiền hàm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tiền hàm
-
+premolar	@premolar
+* danh từ
+- răng tiền hàm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tiền hàm

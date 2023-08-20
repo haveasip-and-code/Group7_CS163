@@ -1,3 +1,3 @@
-unfolding
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sự trải ra (của các phổ)
-
+unfolding	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sự trải ra (của các phổ)

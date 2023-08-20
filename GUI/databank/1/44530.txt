@@ -1,3 +1,2 @@
-psychrometric
-	@Chuyên ngành kỹ thuật\n-biểu đồ độ ẩm
-
+psychrometric	@Chuyên ngành kỹ thuật
+-biểu đồ độ ẩm

@@ -1,3 +1,13 @@
-preform
-	@preform /pri:'fɔ:m/\n*  ngoại động từ\n- hình thành trước, tạo thành trước\n@Chuyên ngành kinh tế\n-đóng bánh\n-đóng viên\n-sự đóng bánh\n-sự đóng viên\n@Chuyên ngành kỹ thuật\n-hình thành trước\n-khuôn trước\n-phôi mẫu\n-phôi tạo hình trước
-
+preform	@preform /pri:'fɔ:m/
+*  ngoại động từ
+- hình thành trước, tạo thành trước
+@Chuyên ngành kinh tế
+-đóng bánh
+-đóng viên
+-sự đóng bánh
+-sự đóng viên
+@Chuyên ngành kỹ thuật
+-hình thành trước
+-khuôn trước
+-phôi mẫu
+-phôi tạo hình trước

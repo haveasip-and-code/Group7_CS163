@@ -1,3 +1,6 @@
-technophobia
-	@Chuyên ngành kinh tế\n-chứng sợ kỹ thuật\n@Chuyên ngành kỹ thuật\n-chứng sợ máy tính\n@Lĩnh vực: toán & tin\n-chứng sợ kỹ thuật
-
+technophobia	@Chuyên ngành kinh tế
+-chứng sợ kỹ thuật
+@Chuyên ngành kỹ thuật
+-chứng sợ máy tính
+@Lĩnh vực: toán & tin
+-chứng sợ kỹ thuật

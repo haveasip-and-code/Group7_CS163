@@ -1,3 +1,2 @@
-lookdown
-	@Chuyên ngành kỹ thuật\n-sự trông coi
-
+lookdown	@Chuyên ngành kỹ thuật
+-sự trông coi

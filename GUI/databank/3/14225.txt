@@ -1,3 +1,5 @@
-deleted
-	@deleted\n- bị bỏ đi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bị bỏ đi
-
+deleted	@deleted
+- bị bỏ đi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bị bỏ đi

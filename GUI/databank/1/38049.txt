@@ -1,3 +1,2 @@
-orach
-	@orach\n- xem orache
-
+orach	@orach
+- xem orache

@@ -1,3 +1,22 @@
-continuous
-	@continuous /kən'tinjuəs/\n*  tính từ\n- liên tục, liên tiếp, không dứt, không ngừng\n=continuous rain+ mưa liên tục\n=continuous function+ (toán học) hàm liên tục\n- (ngôn ngữ học) tiến hành\n=continuous from+ hình thái tiến hành (động từ)\n- (rađiô) duy trì\n=continuous waves+ sóng duy trì\n@Chuyên ngành kỹ thuật\n-dày đặc\n-kế tiếp\n-kéo dài\n-không ngừng\n-liền kề\n-liên tiếp\n-liên tục\n@Lĩnh vực: toán & tin\n-sát nhau\n@Lĩnh vực: xây dựng\n-sự liên tiếp\n-sự liên tục
-
+continuous	@continuous /kən'tinjuəs/
+*  tính từ
+- liên tục, liên tiếp, không dứt, không ngừng
+=continuous rain+ mưa liên tục
+=continuous function+ (toán học) hàm liên tục
+- (ngôn ngữ học) tiến hành
+=continuous from+ hình thái tiến hành (động từ)
+- (rađiô) duy trì
+=continuous waves+ sóng duy trì
+@Chuyên ngành kỹ thuật
+-dày đặc
+-kế tiếp
+-kéo dài
+-không ngừng
+-liền kề
+-liên tiếp
+-liên tục
+@Lĩnh vực: toán & tin
+-sát nhau
+@Lĩnh vực: xây dựng
+-sự liên tiếp
+-sự liên tục

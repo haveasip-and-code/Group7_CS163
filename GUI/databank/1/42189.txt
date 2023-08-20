@@ -1,3 +1,2 @@
-plurally
-	@plurally\n- xem plural
-
+plurally	@plurally
+- xem plural

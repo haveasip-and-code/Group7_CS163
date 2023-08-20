@@ -1,3 +1,25 @@
-lathing
-	@lathing /'lɑ:θiɳ/\n*  danh từ\n- sự lợp bằng lati, sự lát bằng lati\n@Chuyên ngành kỹ thuật\n-lưới thép\n-nan gỗ\n-nền lớp trát\n-sự ốp ván\n-ván ngăn\n@Lĩnh vực: xây dựng\n-hệ lati\n-mè\n-sự đặt lati\n-sự đóng lati\n@Chuyên ngành kỹ thuật\n-lưới thép\n-nan gỗ\n-nền lớp trát\n-sự ốp ván\n-ván ngăn\n@Lĩnh vực: xây dựng\n-hệ lati\n-mè\n-sự đặt lati\n-sự đóng lati
-
+lathing	@lathing /'lɑ:θiɳ/
+*  danh từ
+- sự lợp bằng lati, sự lát bằng lati
+@Chuyên ngành kỹ thuật
+-lưới thép
+-nan gỗ
+-nền lớp trát
+-sự ốp ván
+-ván ngăn
+@Lĩnh vực: xây dựng
+-hệ lati
+-mè
+-sự đặt lati
+-sự đóng lati
+@Chuyên ngành kỹ thuật
+-lưới thép
+-nan gỗ
+-nền lớp trát
+-sự ốp ván
+-ván ngăn
+@Lĩnh vực: xây dựng
+-hệ lati
+-mè
+-sự đặt lati
+-sự đóng lati

@@ -1,3 +1,50 @@
-length
-	@length /leɳθ/\n*  danh từ\n- bề dài, chiều dài, độ dài\n=at arm's length+ cách một sải tay\n!to keep someone at arm's length\n- tránh không làm thân với ai\n!at length\n- sau hết, cuối cùng\n- đầy đủ chi tiết\n- trong một thời gian dài\n!at full length\n- hoàn toàn đầy đủ, không rút gọn, không cắt xén; không viết tắt (chữ viết)\n- nằm dài\n!at some length\n- với một số chi tiết\n!to fall at full length\n!full to go to the length\n!to go to any length\n- làm bất cứ cái gì có thể; không e dè câu nệ; không có gì có thể cản trở được\n!to go the whole length of it\n- (xem) go\n!to go to the length of thinking that...\n- đi đến chỗ nghĩ rằng...\n!to win by a length\n- hơn một thuyền; hơn một ngựa; hơn một xe... (trong những cuộc đua thuyền, ngựa, xe đạp...)\n@Chuyên ngành kinh tế\n-bề dài\n-chiều dài\n-cự ly\n-độ dài\n@Chuyên ngành kỹ thuật\n-bề dài\n-độ dài\n-độ dài từ\n-đoạn\n-khoảng cách\n-miếng\n@Lĩnh vực: xây dựng\n-chiều dài\n-độ choán\n@Chuyên ngành kỹ thuật\n-bề dài\n-độ dài\n-độ dài từ\n-đoạn\n-khoảng cách\n-miếng\n@Lĩnh vực: xây dựng\n-chiều dài\n-độ choán
-
+length	@length /leɳθ/
+*  danh từ
+- bề dài, chiều dài, độ dài
+=at arm's length+ cách một sải tay
+!to keep someone at arm's length
+- tránh không làm thân với ai
+!at length
+- sau hết, cuối cùng
+- đầy đủ chi tiết
+- trong một thời gian dài
+!at full length
+- hoàn toàn đầy đủ, không rút gọn, không cắt xén; không viết tắt (chữ viết)
+- nằm dài
+!at some length
+- với một số chi tiết
+!to fall at full length
+!full to go to the length
+!to go to any length
+- làm bất cứ cái gì có thể; không e dè câu nệ; không có gì có thể cản trở được
+!to go the whole length of it
+- (xem) go
+!to go to the length of thinking that...
+- đi đến chỗ nghĩ rằng...
+!to win by a length
+- hơn một thuyền; hơn một ngựa; hơn một xe... (trong những cuộc đua thuyền, ngựa, xe đạp...)
+@Chuyên ngành kinh tế
+-bề dài
+-chiều dài
+-cự ly
+-độ dài
+@Chuyên ngành kỹ thuật
+-bề dài
+-độ dài
+-độ dài từ
+-đoạn
+-khoảng cách
+-miếng
+@Lĩnh vực: xây dựng
+-chiều dài
+-độ choán
+@Chuyên ngành kỹ thuật
+-bề dài
+-độ dài
+-độ dài từ
+-đoạn
+-khoảng cách
+-miếng
+@Lĩnh vực: xây dựng
+-chiều dài
+-độ choán

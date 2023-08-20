@@ -1,3 +1,3 @@
-multinuclear
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nhiều hạt nhân
-
+multinuclear	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-nhiều hạt nhân

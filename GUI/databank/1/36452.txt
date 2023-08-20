@@ -1,3 +1,54 @@
-neck
-	@neck /nek/\n*  danh từ\n- cổ (người, súc vật; chai, lọ)\n=to break one's neck+ gãy cổ, chết vì gãy cổ\n=to have a stiff neck+ bị bệnh cứng cổ\n=the neck of a bottle+ cổ chai\n- thịt cổ (cừu)\n- chỗ thắt lại, chỗ hẹp lại (của một cái gì)\n- (từ lóng) tính táo tợn, tính liều lĩnh; người táo tợn, người liều lĩnh\n=what a neck!+ thằng táo tợn gớm!\n!to break the neck of\n- khắc phục được những phần khó khăn nhất (của một công việc...)\n!to get (catch, take) it in the neck\n- (từ lóng) bị đánh chết\n- bị một vố đau; bị quở trách trừng phạt nặng nề; bị thải hồi\n!to hảden the neck\n- dở bướng, cứng đầu cứng cổ\n!neck and neck\n- ngang nhau, không hơn nhau tí nào (chạy thi; đua ngựa)\n!neck or nothing\n- được ăn cả ngã về không; một mất một còn\n!to risk one's neck\n- liều mạng\n!to save one's neck]\n- thoát chết ((nghĩa đen) & (nghĩa bóng))\n!to stick (shoot) one's neck out\n- thách đánh\n!stiff neck\n- (nghĩa bóng) sự bướng bỉnh, sự ngoan cố, sự cứng đầu cứng cổ\n!to talk through [the back of] one's neck\n- (từ lóng) nói lung tung, nói bừa bãi\n!to trend on somebody's neck\n- (xem) tread\n!to win by a neck\n- về đích hơn một đầu (đua ngựa)\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ôm cổ; ôm ấp, âu yếm\n@Chuyên ngành kinh tế\n-cổ\n-thịt cổ\n@Chuyên ngành kỹ thuật\n-cái họng\n-đậu vặn\n-đầu vòi\n-ngõng\n-ngõng trục\n-ống cổ ngỗng\n-vành\n-vành cổ\n@Lĩnh vực: xây dựng\n-chỗ thót\n-rầm kích\n@Lĩnh vực: cơ khí & công trình\n-cổ trục
-
+neck	@neck /nek/
+*  danh từ
+- cổ (người, súc vật; chai, lọ)
+=to break one's neck+ gãy cổ, chết vì gãy cổ
+=to have a stiff neck+ bị bệnh cứng cổ
+=the neck of a bottle+ cổ chai
+- thịt cổ (cừu)
+- chỗ thắt lại, chỗ hẹp lại (của một cái gì)
+- (từ lóng) tính táo tợn, tính liều lĩnh; người táo tợn, người liều lĩnh
+=what a neck!+ thằng táo tợn gớm!
+!to break the neck of
+- khắc phục được những phần khó khăn nhất (của một công việc...)
+!to get (catch, take) it in the neck
+- (từ lóng) bị đánh chết
+- bị một vố đau; bị quở trách trừng phạt nặng nề; bị thải hồi
+!to hảden the neck
+- dở bướng, cứng đầu cứng cổ
+!neck and neck
+- ngang nhau, không hơn nhau tí nào (chạy thi; đua ngựa)
+!neck or nothing
+- được ăn cả ngã về không; một mất một còn
+!to risk one's neck
+- liều mạng
+!to save one's neck]
+- thoát chết ((nghĩa đen) & (nghĩa bóng))
+!to stick (shoot) one's neck out
+- thách đánh
+!stiff neck
+- (nghĩa bóng) sự bướng bỉnh, sự ngoan cố, sự cứng đầu cứng cổ
+!to talk through [the back of] one's neck
+- (từ lóng) nói lung tung, nói bừa bãi
+!to trend on somebody's neck
+- (xem) tread
+!to win by a neck
+- về đích hơn một đầu (đua ngựa)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ôm cổ; ôm ấp, âu yếm
+@Chuyên ngành kinh tế
+-cổ
+-thịt cổ
+@Chuyên ngành kỹ thuật
+-cái họng
+-đậu vặn
+-đầu vòi
+-ngõng
+-ngõng trục
+-ống cổ ngỗng
+-vành
+-vành cổ
+@Lĩnh vực: xây dựng
+-chỗ thót
+-rầm kích
+@Lĩnh vực: cơ khí & công trình
+-cổ trục

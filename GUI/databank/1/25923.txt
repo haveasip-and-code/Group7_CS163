@@ -1,3 +1,6 @@
-hoecake
-	@hoecake\n* danh từ\n- bánh nhỏ làm bằng bột ngô\n@Chuyên ngành kinh tế\n-bỏng ngô
-
+hoecake	
+@hoecake
+* danh từ
+- bánh nhỏ làm bằng bột ngô
+@Chuyên ngành kinh tế
+-bỏng ngô

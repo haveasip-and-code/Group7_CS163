@@ -1,3 +1,31 @@
-subsidence
-	@subsidence /səb'saidəns/\n*  danh từ\n- sự rút xuống (nước lụt...)\n- sự lún xuống\n- sự ngớt, sự giảm, sự bớt, sự nguôi đi, sự lắng đi\n- (y học) sự lặn đi (mụn, nhọt...)\n@Chuyên ngành kinh tế\n-sự lắng\n@Chuyên ngành kỹ thuật\n-độ lún\n-độ sụt\n-sự chìm\n-sự giảm\n-sự hạ\n-sự lắng\n-sự lắng đọng\n-sự lún\n-sự sụt\n-sự sụt đất\n-sự sụt lún\n@Lĩnh vực: xây dựng\n-độ lún (đất)\n-sự lún (đất)\n@Lĩnh vực: môi trường\n-sự chìm xuống\n-sự lún xuống\n-sự tụt xuống\n@Lĩnh vực: cơ khí & công trình\n-sự lún (nền)\n@Lĩnh vực: hóa học & vật liệu\n-sự sa lắng
-
+subsidence	@subsidence /səb'saidəns/
+*  danh từ
+- sự rút xuống (nước lụt...)
+- sự lún xuống
+- sự ngớt, sự giảm, sự bớt, sự nguôi đi, sự lắng đi
+- (y học) sự lặn đi (mụn, nhọt...)
+@Chuyên ngành kinh tế
+-sự lắng
+@Chuyên ngành kỹ thuật
+-độ lún
+-độ sụt
+-sự chìm
+-sự giảm
+-sự hạ
+-sự lắng
+-sự lắng đọng
+-sự lún
+-sự sụt
+-sự sụt đất
+-sự sụt lún
+@Lĩnh vực: xây dựng
+-độ lún (đất)
+-sự lún (đất)
+@Lĩnh vực: môi trường
+-sự chìm xuống
+-sự lún xuống
+-sự tụt xuống
+@Lĩnh vực: cơ khí & công trình
+-sự lún (nền)
+@Lĩnh vực: hóa học & vật liệu
+-sự sa lắng

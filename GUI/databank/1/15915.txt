@@ -1,3 +1,10 @@
-dislocate
-	@dislocate /'disləkeit/\n*  ngoại động từ\n- làm trật khớp (chân tay, máy móc...)\n- làm hỏng, làm trục trặc (kế hoạch, công việc)\n- (địa lý,địa chất) làm biến vị, làm đứt gãy (vỉa, tầng)\n- đổi chỗ, dời chỗ, chuyển chỗ\n@Chuyên ngành kỹ thuật\n-làm hỏng\n-làm lệch
-
+dislocate	
+@dislocate /'disləkeit/
+*  ngoại động từ
+- làm trật khớp (chân tay, máy móc...)
+- làm hỏng, làm trục trặc (kế hoạch, công việc)
+- (địa lý,địa chất) làm biến vị, làm đứt gãy (vỉa, tầng)
+- đổi chỗ, dời chỗ, chuyển chỗ
+@Chuyên ngành kỹ thuật
+-làm hỏng
+-làm lệch

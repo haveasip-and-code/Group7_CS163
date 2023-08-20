@@ -1,3 +1,11 @@
-figurate
-	@figurate\n- Cách viết khác : figurated\n@Chuyên ngành kỹ thuật\n-sự biểu hiện\n@Lĩnh vực: toán & tin\n-sự tượng trưng\n@Chuyên ngành kỹ thuật\n-sự biểu hiện\n@Lĩnh vực: toán & tin\n-sự tượng trưng
-
+figurate	
+@figurate
+- Cách viết khác : figurated
+@Chuyên ngành kỹ thuật
+-sự biểu hiện
+@Lĩnh vực: toán & tin
+-sự tượng trưng
+@Chuyên ngành kỹ thuật
+-sự biểu hiện
+@Lĩnh vực: toán & tin
+-sự tượng trưng

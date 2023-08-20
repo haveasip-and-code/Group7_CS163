@@ -1,3 +1,3 @@
-southland
-	@southland /southland/\n*  danh từ\n- miền nam
-
+southland	@southland /southland/
+*  danh từ
+- miền nam

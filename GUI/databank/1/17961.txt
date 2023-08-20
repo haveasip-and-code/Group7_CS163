@@ -1,3 +1,42 @@
-emergency
-	@emergency /i'mə:dʤensi/\n*  danh từ\n- tình trạng khẩn cấp\n=on emergency; in case of emergency+ trong trường hợp khẩn cấp\n- (y học) trường hợp cấp cứu\n!to rise to the emergency\n- vững tay, đủ sức đối phó với tình thế\n@Chuyên ngành kinh tế\n-sự kiện đột nhiên\n-tình huống khẩn cấp\n@Chuyên ngành kỹ thuật\n-bị hỏng\n-đề phòng\n-dự phòng\n-phụ\n-sự cố\n-sự hỏng hóc\n-sự khẩn cấp\n@Lĩnh vực: xây dựng\n-để bảo hiểm\n-để dự trữ\n-gặp sự cố\n@Lĩnh vực: điện\n-khẩn cấp\n@Lĩnh vực: hóa học & vật liệu\n-trường khẩn cấp\n@Chuyên ngành kỹ thuật\n-bị hỏng\n-đề phòng\n-dự phòng\n-phụ\n-sự cố\n-sự hỏng hóc\n-sự khẩn cấp\n@Lĩnh vực: xây dựng\n-để bảo hiểm\n-để dự trữ\n-gặp sự cố\n@Lĩnh vực: điện\n-khẩn cấp\n@Lĩnh vực: hóa học & vật liệu\n-trường khẩn cấp
-
+emergency	
+@emergency /i'mə:dʤensi/
+*  danh từ
+- tình trạng khẩn cấp=on emergency; in case of emergency
++ trong trường hợp khẩn cấp
+- (y học) trường hợp cấp cứu!to rise to the emergency
+- vững tay, đủ sức đối phó với tình thế
+@Chuyên ngành kinh tế
+-sự kiện đột nhiên
+-tình huống khẩn cấp
+@Chuyên ngành kỹ thuật
+-bị hỏng
+-đề phòng
+-dự phòng
+-phụ
+-sự cố
+-sự hỏng hóc
+-sự khẩn cấp
+@Lĩnh vực: xây dựng
+-để bảo hiểm
+-để dự trữ
+-gặp sự cố
+@Lĩnh vực: điện
+-khẩn cấp
+@Lĩnh vực: hóa học & vật liệu
+-trường khẩn cấp
+@Chuyên ngành kỹ thuật
+-bị hỏng
+-đề phòng
+-dự phòng
+-phụ
+-sự cố
+-sự hỏng hóc
+-sự khẩn cấp
+@Lĩnh vực: xây dựng
+-để bảo hiểm
+-để dự trữ
+-gặp sự cố
+@Lĩnh vực: điện
+-khẩn cấp
+@Lĩnh vực: hóa học & vật liệu
+-trường khẩn cấp

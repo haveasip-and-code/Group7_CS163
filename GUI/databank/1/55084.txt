@@ -1,3 +1,4 @@
-swivelling
-	@Chuyên ngành kỹ thuật\n-lật được\n-quay\n-xoay
-
+swivelling	@Chuyên ngành kỹ thuật
+-lật được
+-quay
+-xoay

@@ -1,3 +1,7 @@
-headwind
-	@headwind\n* danh từ\n- gió ngược\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gió ngược
-
+headwind	
+@headwind
+* danh từ
+- gió ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-gió ngược

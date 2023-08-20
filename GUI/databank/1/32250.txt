@@ -1,3 +1,17 @@
-limiting
-	@limiting\n* tính từ\n- định ra giới hạn\n@Chuyên ngành kinh tế\n-hạn chế\n@Chuyên ngành kỹ thuật\n-giới hạn\n-hạn chế\n-sự giới hạn\n@Lĩnh vực: điện tử & viễn thông\n-sự hạn chế\n@Chuyên ngành kỹ thuật\n-giới hạn\n-hạn chế\n-sự giới hạn\n@Lĩnh vực: điện tử & viễn thông\n-sự hạn chế
-
+limiting	@limiting
+* tính từ
+- định ra giới hạn
+@Chuyên ngành kinh tế
+-hạn chế
+@Chuyên ngành kỹ thuật
+-giới hạn
+-hạn chế
+-sự giới hạn
+@Lĩnh vực: điện tử & viễn thông
+-sự hạn chế
+@Chuyên ngành kỹ thuật
+-giới hạn
+-hạn chế
+-sự giới hạn
+@Lĩnh vực: điện tử & viễn thông
+-sự hạn chế

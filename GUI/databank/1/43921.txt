@@ -1,3 +1,2 @@
-progressives
-	@Chuyên ngành kỹ thuật\n-bộ bản in thử
-
+progressives	@Chuyên ngành kỹ thuật
+-bộ bản in thử

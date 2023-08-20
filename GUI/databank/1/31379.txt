@@ -1,3 +1,18 @@
-lame
-	@lame /leim/\n*  tính từ\n- què, khập khiễng\n=to be lame of (in) one leg+ què một chân\n=to go lame; to walk lame+ đi khập khiễng\n- không chỉnh, không thoả đáng; què quặt không ra đâu vào đâu\n=a lame argument+ lý lẽ không thoả đáng\n=lame verses+ câu thơ không chỉnh\n=a lame excuse+ lời cáo lỗi không thoả đáng\n=a lame story+ câu chuyện què quặt không ra đâu vào đâu\n*  ngoại động từ\n- làm cho què quặt, làm cho tàn tật\n*  danh từ\n- lá kim loại\n@Chuyên ngành kỹ thuật\n-hỏng\n@Chuyên ngành kỹ thuật\n-hỏng
-
+lame	@lame /leim/
+*  tính từ
+- què, khập khiễng
+=to be lame of (in) one leg+ què một chân
+=to go lame; to walk lame+ đi khập khiễng
+- không chỉnh, không thoả đáng; què quặt không ra đâu vào đâu
+=a lame argument+ lý lẽ không thoả đáng
+=lame verses+ câu thơ không chỉnh
+=a lame excuse+ lời cáo lỗi không thoả đáng
+=a lame story+ câu chuyện què quặt không ra đâu vào đâu
+*  ngoại động từ
+- làm cho què quặt, làm cho tàn tật
+*  danh từ
+- lá kim loại
+@Chuyên ngành kỹ thuật
+-hỏng
+@Chuyên ngành kỹ thuật
+-hỏng

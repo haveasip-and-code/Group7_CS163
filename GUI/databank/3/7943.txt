@@ -1,3 +1,5 @@
-carbonated
-	@Chuyên ngành kinh tế\n-được cacbonat hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bão hòa cacbon
-
+carbonated	@Chuyên ngành kinh tế
+-được cacbonat hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bão hòa cacbon

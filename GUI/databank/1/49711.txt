@@ -1,3 +1,7 @@
-semidiameter
-	@semidiameter\n* danh từ\n- bán kính (đường tròn)\n@Chuyên ngành kỹ thuật\n-bán kính\n@Lĩnh vực: toán & tin\n-đường bán kính
-
+semidiameter	@semidiameter
+* danh từ
+- bán kính (đường tròn)
+@Chuyên ngành kỹ thuật
+-bán kính
+@Lĩnh vực: toán & tin
+-đường bán kính

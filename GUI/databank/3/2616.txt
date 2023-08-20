@@ -1,3 +1,2 @@
-antinoise
-	@antinoise\n- (Tech) chống ồn
-
+antinoise	@antinoise
+- (Tech) chống ồn

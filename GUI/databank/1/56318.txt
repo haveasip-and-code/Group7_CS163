@@ -1,3 +1,12 @@
-thermocouple
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bộ nhiệt điện\n@Lĩnh vực: điện\n-cặp nhiệt\n-cặp nhiệt (điện)\n@Lĩnh vực: ô tô\n-cặp nhiệt điện (để đo nhiệt độ)\n@Lĩnh vực: đo lường & điều khiển\n-ống đo nhiệt\n@Lĩnh vực: điện lạnh\n-phần tử nhiệt điện
-
+thermocouple	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bộ nhiệt điện
+@Lĩnh vực: điện
+-cặp nhiệt
+-cặp nhiệt (điện)
+@Lĩnh vực: ô tô
+-cặp nhiệt điện (để đo nhiệt độ)
+@Lĩnh vực: đo lường & điều khiển
+-ống đo nhiệt
+@Lĩnh vực: điện lạnh
+-phần tử nhiệt điện

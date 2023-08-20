@@ -1,3 +1,7 @@
-semiautomatic
-	@Chuyên ngành kinh tế\n-bán tự động\n-bán tự động hóa\n-nửa tự động\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nửa tự động
-
+semiautomatic	@Chuyên ngành kinh tế
+-bán tự động
+-bán tự động hóa
+-nửa tự động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-nửa tự động

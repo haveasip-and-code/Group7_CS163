@@ -1,3 +1,2 @@
-chortler
-	@chortler\n- xem chortle
-
+chortler	@chortler
+- xem chortle

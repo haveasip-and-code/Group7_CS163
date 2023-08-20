@@ -1,3 +1,9 @@
-plinth
-	@plinth /plinθ/\n*  danh từ\n- chân cột (hình vuông)\n- chân tường (nhô ra)\n@Chuyên ngành kỹ thuật\n-chân cột\n-gờ chân tường\n@Lĩnh vực: xây dựng\n-bệ cột
-
+plinth	@plinth /plinθ/
+*  danh từ
+- chân cột (hình vuông)
+- chân tường (nhô ra)
+@Chuyên ngành kỹ thuật
+-chân cột
+-gờ chân tường
+@Lĩnh vực: xây dựng
+-bệ cột

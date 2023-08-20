@@ -1,3 +1,5 @@
-triglyph
-	@triglyph\n* danh từ\n- (kiến trúc) nét chìm ba\n@Chuyên ngành kỹ thuật\n-nét chìm ba
-
+triglyph	@triglyph
+* danh từ
+- (kiến trúc) nét chìm ba
+@Chuyên ngành kỹ thuật
+-nét chìm ba

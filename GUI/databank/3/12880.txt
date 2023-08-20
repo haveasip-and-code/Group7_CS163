@@ -1,3 +1,4 @@
-cryopreservation
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bảo quản cryo\n-sự bảo quản cryo
-
+cryopreservation	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bảo quản cryo
+-sự bảo quản cryo

@@ -1,3 +1,37 @@
-middle
-	@middle /'midl/\n*  danh từ\n- giữa\n=in the middle+ ở giữa\n=right in the middle+ ở chính giữa\n=in the middle of our century+ ở giữa thế kỷ của chúng ta\n- nửa người, chỗ thắt lưng\n=to be up to the middle in water+ đứng nước ngập đến thắt lưng\n*  tính từ\n- ở giữa, trung\n=the middle finger+ ngón tay giữa\n=middle age+ trung niên\n!the Middle Ages\n- thời Trung cổ\n=the middle class+ giai cấp trung gian; giai cấp tiểu tư sản\n!Middle East\n- Trung đông\n=middle course (way)+ biện pháp trung dung, đường lối trung dung\n=middle school+ trường trung học\n*  ngoại động từ\n- đá (bóng) từ cánh vào (khu trung lộ trước gôn)\n- (từ Mỹ,nghĩa Mỹ) đặt vào giữa\n- xếp đôi (lá buồm lại)\n@Chuyên ngành kinh tế\n-chính giữa\n-chính giữa đoạn giữa\n-chỗ giữa\n-đoạn giữa\n-khoảng giữa\n-loại vừa\n-ở giữa\n-phẩm chất bậc trung\n-ruột kết\n@Chuyên ngành kỹ thuật\n-chính giữa\n-giữa\n-ở giữa
-
+middle	@middle /'midl/
+*  danh từ
+- giữa
+=in the middle+ ở giữa
+=right in the middle+ ở chính giữa
+=in the middle of our century+ ở giữa thế kỷ của chúng ta
+- nửa người, chỗ thắt lưng
+=to be up to the middle in water+ đứng nước ngập đến thắt lưng
+*  tính từ
+- ở giữa, trung
+=the middle finger+ ngón tay giữa
+=middle age+ trung niên
+!the Middle Ages
+- thời Trung cổ
+=the middle class+ giai cấp trung gian; giai cấp tiểu tư sản
+!Middle East
+- Trung đông
+=middle course (way)+ biện pháp trung dung, đường lối trung dung
+=middle school+ trường trung học
+*  ngoại động từ
+- đá (bóng) từ cánh vào (khu trung lộ trước gôn)
+- (từ Mỹ,nghĩa Mỹ) đặt vào giữa
+- xếp đôi (lá buồm lại)
+@Chuyên ngành kinh tế
+-chính giữa
+-chính giữa đoạn giữa
+-chỗ giữa
+-đoạn giữa
+-khoảng giữa
+-loại vừa
+-ở giữa
+-phẩm chất bậc trung
+-ruột kết
+@Chuyên ngành kỹ thuật
+-chính giữa
+-giữa
+-ở giữa

@@ -1,3 +1,7 @@
-downside
-	@Chuyên ngành kinh tế\n-khả năng sụt giá\n@Chuyên ngành kỹ thuật\n-cánh cụt\n@Lĩnh vực: xây dựng\n-cánh hạ
-
+downside	
+@Chuyên ngành kinh tế
+-khả năng sụt giá
+@Chuyên ngành kỹ thuật
+-cánh cụt
+@Lĩnh vực: xây dựng
+-cánh hạ

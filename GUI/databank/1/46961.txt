@@ -1,3 +1,3 @@
-reps
-	@reps /rep/ (reps) /reps/\n*  danh từ\n- vải sọc (để bọc nệm) ((cũng) rep)
-
+reps	@reps /rep/ (reps) /reps/
+*  danh từ
+- vải sọc (để bọc nệm) ((cũng) rep)

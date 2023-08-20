@@ -1,3 +1,4 @@
-shovelling
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự trộn bằng xẻng\n-sự xúc bằng xẻng
-
+shovelling	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự trộn bằng xẻng
+-sự xúc bằng xẻng

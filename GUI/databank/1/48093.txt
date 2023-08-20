@@ -1,3 +1,25 @@
-routine
-	@routine /ru:'ti:n/\n*  danh từ\n- lề thói hằng ngày; công việc thường làm hằng ngày\n- thủ tục; lệ thường\n=these questions are asked as a matter of routine+ người ra đặt những câu hỏi này theo thủ tục\n- (sân khấu) tiết mục nhảy múa; tiết mục khôi hài\n@Chuyên ngành kinh tế\n-chương trình thông dụng\n-công việc\n-công việc đều đặn hàng ngày\n-công việc thường làm hàng ngày\n-lề thói đã quen\n-lệ thường\n-quy lệ thường ngày\n-thường lệ\n-thường trình\n-việc làm thường ngày\n@Chuyên ngành kỹ thuật\n-biểu đồ\n-chương trình con\n-dãy\n-kế hoạch\n-tiện ích\n@Lĩnh vực: toán & tin\n-đoạn chương trình
-
+routine	@routine /ru:'ti:n/
+*  danh từ
+- lề thói hằng ngày; công việc thường làm hằng ngày
+- thủ tục; lệ thường
+=these questions are asked as a matter of routine+ người ra đặt những câu hỏi này theo thủ tục
+- (sân khấu) tiết mục nhảy múa; tiết mục khôi hài
+@Chuyên ngành kinh tế
+-chương trình thông dụng
+-công việc
+-công việc đều đặn hàng ngày
+-công việc thường làm hàng ngày
+-lề thói đã quen
+-lệ thường
+-quy lệ thường ngày
+-thường lệ
+-thường trình
+-việc làm thường ngày
+@Chuyên ngành kỹ thuật
+-biểu đồ
+-chương trình con
+-dãy
+-kế hoạch
+-tiện ích
+@Lĩnh vực: toán & tin
+-đoạn chương trình

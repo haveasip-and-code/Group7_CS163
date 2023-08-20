@@ -1,3 +1,15 @@
-nutrition
-	@nutrition /nju:'triʃn/\n*  tính từ\n- sự nuôi dưỡng, sự dinh dưỡng\n- đồ ăn bổ\n- (y học) khoa dinh dưỡng\n@Chuyên ngành kinh tế\n-sự nuôi dưỡng\n-thức ăn\n@Chuyên ngành kỹ thuật\n-dinh dưỡng\n@Lĩnh vực: thực phẩm\n-sự cho ăn\n-sự nuôi duỡng\n@Lĩnh vực: y học\n-sự dinh dưỡng
-
+nutrition	@nutrition /nju:'triʃn/
+*  tính từ
+- sự nuôi dưỡng, sự dinh dưỡng
+- đồ ăn bổ
+- (y học) khoa dinh dưỡng
+@Chuyên ngành kinh tế
+-sự nuôi dưỡng
+-thức ăn
+@Chuyên ngành kỹ thuật
+-dinh dưỡng
+@Lĩnh vực: thực phẩm
+-sự cho ăn
+-sự nuôi duỡng
+@Lĩnh vực: y học
+-sự dinh dưỡng

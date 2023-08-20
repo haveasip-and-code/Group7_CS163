@@ -1,3 +1,14 @@
-tightness
-	@tightness /'taitnis/\n*  danh từ\n- tính chất kín, tính không thấm rỉ\n- tính chất chật, tính bó sát (quần áo)\n- tính chất căng, tính chất căng thẳng\n- tính chất khó khăn, tính khan hiếm, tính khó hiếm (tiền...)\n@Chuyên ngành kỹ thuật\n-độ chặt\n-độ khít\n-độ kín\n-sự căng thẳng (dây)\n-sự kín\n@Lĩnh vực: xây dựng\n-tính kín
-
+tightness	@tightness /'taitnis/
+*  danh từ
+- tính chất kín, tính không thấm rỉ
+- tính chất chật, tính bó sát (quần áo)
+- tính chất căng, tính chất căng thẳng
+- tính chất khó khăn, tính khan hiếm, tính khó hiếm (tiền...)
+@Chuyên ngành kỹ thuật
+-độ chặt
+-độ khít
+-độ kín
+-sự căng thẳng (dây)
+-sự kín
+@Lĩnh vực: xây dựng
+-tính kín

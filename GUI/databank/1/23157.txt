@@ -1,3 +1,4 @@
-generable
-	@generable\n* tính từ\n- có thể được sản sinh
-
+generable	
+@generable
+* tính từ
+- có thể được sản sinh

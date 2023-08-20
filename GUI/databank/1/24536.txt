@@ -1,3 +1,10 @@
-guilt
-	@guilt\n* danh từ\n- điều sai quấy, tội lỗi\n- sự phạm tội, sự có tội\n@Chuyên ngành kinh tế\n-sự phạm tội\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tội lỗi
-
+guilt	
+@guilt
+* danh từ
+- điều sai quấy, tội lỗi
+- sự phạm tội, sự có tội
+@Chuyên ngành kinh tế
+-sự phạm tội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tội lỗi

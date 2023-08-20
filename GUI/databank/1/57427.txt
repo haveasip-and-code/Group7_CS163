@@ -1,3 +1,33 @@
-translate
-	@translate /træns'leit/\n*  ngoại động từ\n- dịch, phiên dịch\n=to translate an English book into Vietnamese+ dịch một quyển sách tiếng Anh sang tiếng Việt\n- chuyển sang, biến thành\n=to translate emotion into action+ biến tình cảm thành hành động\n=to translate dream into reality+ biến ước mơ thành hiện thực\n=to translate opetry into music+ chuyển thơ thành nhạc, phổ nhạc thành thơ\n=to translate Lenin's teachings into reality+ thực hiện lời dạy của Lê-nin\n- giải thích, coi là\n=kindly translate+ xin ông vui lòng giải thích rõ cho ý ông muốn nói\n=do not translate my hesitation as ill-will+ xin anh đừng coi sự do dự của tôi là thiếu thiện chí\n- thuyên chuyển (một vị giám mục) sang địa phận khác\n- truyền lại, truyền đạt lại (bức điện)\n- (toán học); (kỹ thuật) cho tịnh tiến\n@Chuyên ngành kinh tế\n-phiên dịch\n@Chuyên ngành kỹ thuật\n-biên dịch\n-biến đổi\n-chuyển đổi\n-dịch\n-dịch chuyển\n-gán\n-thông dịch\n@Lĩnh vực: toán & tin\n-dịch, thông dịch\n-phân bổ\n@Lĩnh vực: điện lạnh\n-tịnh tiến\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-dịch, biên dịch
-
+translate	@translate /træns'leit/
+*  ngoại động từ
+- dịch, phiên dịch
+=to translate an English book into Vietnamese+ dịch một quyển sách tiếng Anh sang tiếng Việt
+- chuyển sang, biến thành
+=to translate emotion into action+ biến tình cảm thành hành động
+=to translate dream into reality+ biến ước mơ thành hiện thực
+=to translate opetry into music+ chuyển thơ thành nhạc, phổ nhạc thành thơ
+=to translate Lenin's teachings into reality+ thực hiện lời dạy của Lê-nin
+- giải thích, coi là
+=kindly translate+ xin ông vui lòng giải thích rõ cho ý ông muốn nói
+=do not translate my hesitation as ill-will+ xin anh đừng coi sự do dự của tôi là thiếu thiện chí
+- thuyên chuyển (một vị giám mục) sang địa phận khác
+- truyền lại, truyền đạt lại (bức điện)
+- (toán học); (kỹ thuật) cho tịnh tiến
+@Chuyên ngành kinh tế
+-phiên dịch
+@Chuyên ngành kỹ thuật
+-biên dịch
+-biến đổi
+-chuyển đổi
+-dịch
+-dịch chuyển
+-gán
+-thông dịch
+@Lĩnh vực: toán & tin
+-dịch, thông dịch
+-phân bổ
+@Lĩnh vực: điện lạnh
+-tịnh tiến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-dịch, biên dịch

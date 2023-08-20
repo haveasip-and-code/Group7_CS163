@@ -1,3 +1,2 @@
-personifier
-	@personifier\n- xem personify
-
+personifier	@personifier
+- xem personify

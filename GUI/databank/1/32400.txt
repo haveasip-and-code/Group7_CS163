@@ -1,3 +1,29 @@
-listing
-	@listing /'listiɳ/\n*  danh từ\n- sự lập danh sách, sự ghi vào danh sách\n- danh sách\n@Chuyên ngành kinh tế\n-việc ghi mục lục\n-việc ghi vào giá biểu\n@Chuyên ngành kỹ thuật\n-bản in\n-bản kê\n-danh sách\n-sự liệt kê\n@Lĩnh vực: xây dựng\n-gỗ giác\n-sự cưa mép\n@Lĩnh vực: toán & tin\n-lập bản kê\n-lập danh sách\n@Chuyên ngành kỹ thuật\n-bản in\n-bản kê\n-danh sách\n-sự liệt kê\n@Lĩnh vực: xây dựng\n-gỗ giác\n-sự cưa mép\n@Lĩnh vực: toán & tin\n-lập bản kê\n-lập danh sách
-
+listing	@listing /'listiɳ/
+*  danh từ
+- sự lập danh sách, sự ghi vào danh sách
+- danh sách
+@Chuyên ngành kinh tế
+-việc ghi mục lục
+-việc ghi vào giá biểu
+@Chuyên ngành kỹ thuật
+-bản in
+-bản kê
+-danh sách
+-sự liệt kê
+@Lĩnh vực: xây dựng
+-gỗ giác
+-sự cưa mép
+@Lĩnh vực: toán & tin
+-lập bản kê
+-lập danh sách
+@Chuyên ngành kỹ thuật
+-bản in
+-bản kê
+-danh sách
+-sự liệt kê
+@Lĩnh vực: xây dựng
+-gỗ giác
+-sự cưa mép
+@Lĩnh vực: toán & tin
+-lập bản kê
+-lập danh sách

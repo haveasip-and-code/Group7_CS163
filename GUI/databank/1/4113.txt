@@ -1,3 +1,16 @@
-automotive
-	@automotive /,ɔ:tə'moutiv/\n*  tính từ\n- tự động\n- (thuộc) máy móc tự động\n- (thuộc) ô tô\n@Chuyên ngành kỹ thuật\n-máy tự động\n-tự hành\n@Lĩnh vực: xây dựng\n-máy móc tự động\n-tự đi\n-tự di động\n@Lĩnh vực: ô tô\n-thuộc về ô tô\n-trong ô tô
-
+automotive	
+@automotive /,ɔ:tə'moutiv/
+*  tính từ
+- tự động
+- (thuộc) máy móc tự động
+- (thuộc) ô tô
+@Chuyên ngành kỹ thuật
+-máy tự động
+-tự hành
+@Lĩnh vực: xây dựng
+-máy móc tự động
+-tự đi
+-tự di động
+@Lĩnh vực: ô tô
+-thuộc về ô tô
+-trong ô tô

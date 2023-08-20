@@ -1,3 +1,2 @@
-condensible
-	@condensible\n- xem condense
-
+condensible	@condensible
+- xem condense

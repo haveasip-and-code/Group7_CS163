@@ -1,3 +1,2 @@
-precompute
-	@Chuyên ngành kinh tế\n-ước tính trước
-
+precompute	@Chuyên ngành kinh tế
+-ước tính trước

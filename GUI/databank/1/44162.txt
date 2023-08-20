@@ -1,3 +1,4 @@
-prosaism
-	@prosaism /prosaism/\n*  danh từ\n- tính văn xuôi, vể nôm na\n- tính tầm thường, tính dung tục
-
+prosaism	@prosaism /prosaism/
+*  danh từ
+- tính văn xuôi, vể nôm na
+- tính tầm thường, tính dung tục

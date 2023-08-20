@@ -1,3 +1,5 @@
-somatotype
-	@somatotype\n* danh từ\n- kiểu thân\n@Chuyên ngành kỹ thuật\n-kiểu thân thể
-
+somatotype	@somatotype
+* danh từ
+- kiểu thân
+@Chuyên ngành kỹ thuật
+-kiểu thân thể

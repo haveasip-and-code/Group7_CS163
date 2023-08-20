@@ -1,3 +1,6 @@
-lightest
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sáng nhất\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sáng nhất
-
+lightest	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sáng nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sáng nhất

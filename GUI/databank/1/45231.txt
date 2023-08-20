@@ -1,3 +1,2 @@
-quintile
-	@quintile\n- ngũ phân vị
-
+quintile	@quintile
+- ngũ phân vị

@@ -1,3 +1,13 @@
-loess
-	@loess /'louis, lə:s/\n*  danh từ\n- (địa lý,ddịa chất) hoàng thổ, đất lớn\n@Chuyên ngành kỹ thuật\n-đất lớt\n-hoàng thổ\n@Lĩnh vực: hóa học & vật liệu\n-đất lợt\n@Chuyên ngành kỹ thuật\n-đất lớt\n-hoàng thổ\n@Lĩnh vực: hóa học & vật liệu\n-đất lợt
-
+loess	@loess /'louis, lə:s/
+*  danh từ
+- (địa lý,ddịa chất) hoàng thổ, đất lớn
+@Chuyên ngành kỹ thuật
+-đất lớt
+-hoàng thổ
+@Lĩnh vực: hóa học & vật liệu
+-đất lợt
+@Chuyên ngành kỹ thuật
+-đất lớt
+-hoàng thổ
+@Lĩnh vực: hóa học & vật liệu
+-đất lợt

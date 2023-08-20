@@ -1,3 +1,2 @@
-daywork
-	@Chuyên ngành kỹ thuật\n-ngày công
-
+daywork	@Chuyên ngành kỹ thuật
+-ngày công

@@ -1,3 +1,8 @@
-reprogram
-	@reprogram\n* ngoại động từ\n- (tin học) lập trình lại\n* nội động từ\n- đưa chương trình mới vào\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lập trình lại
-
+reprogram	@reprogram
+* ngoại động từ
+- (tin học) lập trình lại
+* nội động từ
+- đưa chương trình mới vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-lập trình lại

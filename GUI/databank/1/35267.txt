@@ -1,3 +1,20 @@
-mixer
-	@mixer /'miksə/\n*  danh từ\n- người trộn, máy trộn\n- (thông tục) người giao thiệp, người làm quen\n=good mixer+ người giao thiệp giỏi\n=bad mixer+ người giao thiệp vụng\n- (raddiô) bộ trộn\n- (điện ảnh) máy hoà tiếng (cho phim)\n@Chuyên ngành kinh tế\n-máy khuấy\n-máy trộn\n-thiết bị trộn\n@Chuyên ngành kỹ thuật\n-bộ cộng\n-bộ pha trộn\n-bộ trộn\n-máy khuấy\n-máy trộn\n-que khuấy\n-thiết bị khuấy
-
+mixer	@mixer /'miksə/
+*  danh từ
+- người trộn, máy trộn
+- (thông tục) người giao thiệp, người làm quen
+=good mixer+ người giao thiệp giỏi
+=bad mixer+ người giao thiệp vụng
+- (raddiô) bộ trộn
+- (điện ảnh) máy hoà tiếng (cho phim)
+@Chuyên ngành kinh tế
+-máy khuấy
+-máy trộn
+-thiết bị trộn
+@Chuyên ngành kỹ thuật
+-bộ cộng
+-bộ pha trộn
+-bộ trộn
+-máy khuấy
+-máy trộn
+-que khuấy
+-thiết bị khuấy

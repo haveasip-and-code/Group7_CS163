@@ -1,3 +1,7 @@
-hostess
-	@hostess /'houstis/\n*  danh từ\n- bà chủ nhà\n- bà chủ tiệc\n- bà chủ khách sạn, bà chủ quán trọ\n- cô phục vụ trên máy bay ((cũng) air hostess)
-
+hostess	
+@hostess /'houstis/
+*  danh từ
+- bà chủ nhà
+- bà chủ tiệc
+- bà chủ khách sạn, bà chủ quán trọ
+- cô phục vụ trên máy bay ((cũng) air hostess)

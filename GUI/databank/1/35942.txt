@@ -1,3 +1,5 @@
-multicomponent
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đa thành phần\n@Lĩnh vực: hóa học & vật liệu\n-nhiều thành phần
-
+multicomponent	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đa thành phần
+@Lĩnh vực: hóa học & vật liệu
+-nhiều thành phần

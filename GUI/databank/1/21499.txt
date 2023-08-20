@@ -1,3 +1,10 @@
-floorage
-	@floorage\n* danh từ\n- không gian của sàn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diện tích ở\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diện tích ở
-
+floorage	
+@floorage
+* danh từ
+- không gian của sàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-diện tích ở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-diện tích ở

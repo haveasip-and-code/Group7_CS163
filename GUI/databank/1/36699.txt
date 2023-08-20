@@ -1,3 +1,4 @@
-newspaperman
-	@newspaperman\n* danh từ\n- nhà báo\n- chủ báo, chủ hãng thông tin
-
+newspaperman	@newspaperman
+* danh từ
+- nhà báo
+- chủ báo, chủ hãng thông tin

@@ -1,3 +1,4 @@
-quantile
-	@quantile\n- điểm vi phân\n@Chuyên ngành kỹ thuật\n-điểm phân vị
-
+quantile	@quantile
+- điểm vi phân
+@Chuyên ngành kỹ thuật
+-điểm phân vị

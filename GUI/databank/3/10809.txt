@@ -1,3 +1,9 @@
-compute
-	@compute /kəm'pju:t/\n*  động từ\n- tính toán, ước tính\n@Chuyên ngành kinh tế\n-tính toán\n-ước tính\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trắc định
-
+compute	@compute /kəm'pju:t/
+*  động từ
+- tính toán, ước tính
+@Chuyên ngành kinh tế
+-tính toán
+-ước tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-trắc định

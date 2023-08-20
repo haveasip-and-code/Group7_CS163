@@ -1,3 +1,7 @@
-mudding
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự bám bùn\n-sự dính bùn\n-sự hòa bùn\n@Lĩnh vực: xây dựng\n-sự hóa bùn
-
+mudding	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự bám bùn
+-sự dính bùn
+-sự hòa bùn
+@Lĩnh vực: xây dựng
+-sự hóa bùn

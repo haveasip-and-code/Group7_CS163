@@ -1,3 +1,10 @@
-enol
-	@enol\n* danh từ\n- (hoá học) enola\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-enon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-enon
-
+enol	
+@enol
+* danh từ
+- (hoá học) enola
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-enon
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-enon

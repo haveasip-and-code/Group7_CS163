@@ -1,3 +1,6 @@
-repositioning
-	@Chuyên ngành kinh tế\n-sự định vị lại sản phẩm\n-sự tái định vị\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự tái định vị
-
+repositioning	@Chuyên ngành kinh tế
+-sự định vị lại sản phẩm
+-sự tái định vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự tái định vị

@@ -1,3 +1,21 @@
-buff
-	@buff /bʌf/\n*  danh từ\n- da trâu, da bò\n- màu vàng sẫm, màu da bò\n!in buff\n- trần truồng\n!to strip to the buff\n- lột trần truồng\n*  tính từ\n- bằng da trâu\n- màu vàng sẫm, màu da bò\n*  ngoại động từ\n- đánh bóng (đồ kim loại) bằng da trâu\n- gia công (da thú) cho mượt như da trâu\n@Chuyên ngành kỹ thuật\n-đánh bóng bằng đĩa\n-đĩa (da) đánh bóng\n-đĩa đánh bóng\n-dụng cụ đánh bóng\n-giảm xóc\n@Lĩnh vực: hóa học & vật liệu\n-máy mài bóng
-
+buff	
+@buff /bʌf/
+*  danh từ
+- da trâu, da bò
+- màu vàng sẫm, màu da bò!in buff
+- trần truồng!to strip to the buff
+- lột trần truồng
+*  tính từ
+- bằng da trâu
+- màu vàng sẫm, màu da bò
+*  ngoại động từ
+- đánh bóng (đồ kim loại) bằng da trâu
+- gia công (da thú) cho mượt như da trâu
+@Chuyên ngành kỹ thuật
+-đánh bóng bằng đĩa
+-đĩa (da) đánh bóng
+-đĩa đánh bóng
+-dụng cụ đánh bóng
+-giảm xóc
+@Lĩnh vực: hóa học & vật liệu
+-máy mài bóng

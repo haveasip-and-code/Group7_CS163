@@ -1,3 +1,7 @@
-disulfide
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-disunfit\n@Lĩnh vực: hóa học & vật liệu\n-đisunfua\n-đisunphua
-
+disulfide	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-disunfit
+@Lĩnh vực: hóa học & vật liệu
+-đisunfua
+-đisunphua

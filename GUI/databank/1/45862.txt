@@ -1,3 +1,13 @@
-rebuild
-	@rebuild /'ri:bild/\n*  ngoại động từ rebuilt  /'ri:'bilt/\n- xây lại, xây dựng lại\n@Chuyên ngành kỹ thuật\n-xây dựng lại\n-xây lại\n@Lĩnh vực: xây dựng\n-cấu trúc lại\n-tái thiết\n@Lĩnh vực: cơ khí & công trình\n-làm lại máy\n@Lĩnh vực: ô tô\n-tân trang
-
+rebuild	@rebuild /'ri:bild/
+*  ngoại động từ rebuilt  /'ri:'bilt/
+- xây lại, xây dựng lại
+@Chuyên ngành kỹ thuật
+-xây dựng lại
+-xây lại
+@Lĩnh vực: xây dựng
+-cấu trúc lại
+-tái thiết
+@Lĩnh vực: cơ khí & công trình
+-làm lại máy
+@Lĩnh vực: ô tô
+-tân trang

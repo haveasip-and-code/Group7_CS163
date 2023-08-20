@@ -1,3 +1,6 @@
-bailing
-	@Chuyên ngành kỹ thuật\n-hoạt động tát nước\n@Lĩnh vực: hóa học & vật liệu\n-hút dầu mỏ\n@Lĩnh vực: cơ khí & công trình\n-sự rửa lỗ khoan
-
+bailing	@Chuyên ngành kỹ thuật
+-hoạt động tát nước
+@Lĩnh vực: hóa học & vật liệu
+-hút dầu mỏ
+@Lĩnh vực: cơ khí & công trình
+-sự rửa lỗ khoan

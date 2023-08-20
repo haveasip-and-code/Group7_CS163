@@ -1,3 +1,25 @@
-expiration
-	@expiration /,ekspaiə'reiʃn/\n*  danh từ\n- sự thở ra\n- sự thở hắt ra; sự tắt thở, sự chết\n- sự mãn hạn, sự kết thúc\n@Chuyên ngành kinh tế\n-hết hiệu lực\n-kết thúc\n-mãn hạn\n-sự hết hạn\n-sự kết thúc\n-sự mãn hạn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hấp hối\n-thở ra\n@Lĩnh vực: điện tử & viễn thông\n-hết hiệu lực\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hấp hối\n-thở ra\n@Lĩnh vực: điện tử & viễn thông\n-hết hiệu lực
-
+expiration	
+@expiration /,ekspaiə'reiʃn/
+*  danh từ
+- sự thở ra
+- sự thở hắt ra; sự tắt thở, sự chết
+- sự mãn hạn, sự kết thúc
+@Chuyên ngành kinh tế
+-hết hiệu lực
+-kết thúc
+-mãn hạn
+-sự hết hạn
+-sự kết thúc
+-sự mãn hạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hấp hối
+-thở ra
+@Lĩnh vực: điện tử & viễn thông
+-hết hiệu lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hấp hối
+-thở ra
+@Lĩnh vực: điện tử & viễn thông
+-hết hiệu lực

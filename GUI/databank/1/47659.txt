@@ -1,3 +1,4 @@
-ribose
-	@Chuyên ngành kinh tế\n-riboza\n@Chuyên ngành kỹ thuật\n-loại đường pentoe
-
+ribose	@Chuyên ngành kinh tế
+-riboza
+@Chuyên ngành kỹ thuật
+-loại đường pentoe

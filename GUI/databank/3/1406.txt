@@ -1,3 +1,6 @@
-album
-	@album /'ælbəm/\n*  danh từ\n- tập ảnh, quyển anbom\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sách sưu tập
-
+album	@album /'ælbəm/
+*  danh từ
+- tập ảnh, quyển anbom
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sách sưu tập

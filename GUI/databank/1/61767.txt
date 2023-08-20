@@ -1,3 +1,6 @@
-videotex
-	@videotex\n* danh từ\n- cũng videotext\n- hệ thống thông tin điện tử đặc biệt telex (hoặc hệ hiển thị dữ liệu)\n@Chuyên ngành kinh tế\n-hệ thống vận hành bằng vi tính
-
+videotex	@videotex
+* danh từ
+- cũng videotext
+- hệ thống thông tin điện tử đặc biệt telex (hoặc hệ hiển thị dữ liệu)
+@Chuyên ngành kinh tế
+-hệ thống vận hành bằng vi tính

@@ -1,3 +1,2 @@
-plaiter
-	@plaiter\n- xem plait
-
+plaiter	@plaiter
+- xem plait

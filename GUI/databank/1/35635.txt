@@ -1,3 +1,4 @@
-mopboard
-	@Chuyên ngành kỹ thuật\n-gờ chân tường\n@Lĩnh vực: xây dựng\n-diềm chân tường
-
+mopboard	@Chuyên ngành kỹ thuật
+-gờ chân tường
+@Lĩnh vực: xây dựng
+-diềm chân tường

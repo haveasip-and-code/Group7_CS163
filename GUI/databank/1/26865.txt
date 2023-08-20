@@ -1,3 +1,5 @@
-icebox
-	@Chuyên ngành kỹ thuật\n-thùng lạnh\n@Lĩnh vực: điện lạnh\n-quầy lạnh
-
+icebox	
+@Chuyên ngành kỹ thuật
+-thùng lạnh
+@Lĩnh vực: điện lạnh
+-quầy lạnh

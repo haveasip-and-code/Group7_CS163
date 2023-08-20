@@ -1,3 +1,4 @@
-helistop
-	@helistop\n* danh từ\n- xem heliport
-
+helistop	
+@helistop
+* danh từ
+- xem heliport

@@ -1,3 +1,3 @@
-paved
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được lát đá
-
+paved	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được lát đá

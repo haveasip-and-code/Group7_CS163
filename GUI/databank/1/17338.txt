@@ -1,3 +1,4 @@
-ecospecies
-	@ecospecies\n* danh từ số nhiều\n- loài sinh thái
-
+ecospecies	
+@ecospecies
+* danh từ số nhiều
+- loài sinh thái

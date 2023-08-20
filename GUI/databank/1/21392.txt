@@ -1,3 +1,51 @@
-fleet
-	@fleet /fleet/\n*  danh từ\n- đội tàu, hạm đội\n- đội máy bay, phi đội\n- đoàn tàu, đoàn xe (của ai)\n!the fleet\n- hải quân\n!Fleet Air Arm\n- binh chủng không quân (của hải quân Anh)\n!fleet of the desert\n- đoàn lạc đà trên sa mạc\n*  danh từ\n- vịnh nhỏ\n*  tính từ\n- (thơ ca) (văn học) nhanh, mau, mau chóng, nhanh chóng\n=a fleet horse+ ngựa phi nhanh\n=to be fleet of foot+ nhanh chân\n- nông cạn\n*  phó từ\n- nông\n=to plough fleet+ cày nông\n*  nội động từ\n- biến, lướt qua, lướt nhanh\n- bay nhanh\n@Chuyên ngành kinh tế\n-đoàn xe\n-đội tàu\n-hạm đội hải quân\n-vớt bọt\n@Chuyên ngành kỹ thuật\n-cạn\n-đoàn tàu\n-đoàn xe\n-đội tàu\n-hạm đội\n-khe\n-suối\n-vịnh\n@Lĩnh vực: ô tô\n-bến đỗ xe\n-đội xe\n@Chuyên ngành kỹ thuật\n-cạn\n-đoàn tàu\n-đoàn xe\n-đội tàu\n-hạm đội\n-khe\n-suối\n-vịnh\n@Lĩnh vực: ô tô\n-bến đỗ xe\n-đội xe
-
+fleet	
+@fleet /fleet/
+*  danh từ
+- đội tàu, hạm đội
+- đội máy bay, phi đội
+- đoàn tàu, đoàn xe (của ai)!the fleet
+- hải quân!Fleet Air Arm
+- binh chủng không quân (của hải quân Anh)!fleet of the desert
+- đoàn lạc đà trên sa mạc
+*  danh từ
+- vịnh nhỏ
+*  tính từ
+- (thơ ca) (văn học) nhanh, mau, mau chóng, nhanh chóng=a fleet horse
++ ngựa phi nhanh=to be fleet of foot
++ nhanh chân
+- nông cạn
+*  phó từ
+- nông=to plough fleet
++ cày nông
+*  nội động từ
+- biến, lướt qua, lướt nhanh
+- bay nhanh
+@Chuyên ngành kinh tế
+-đoàn xe
+-đội tàu
+-hạm đội hải quân
+-vớt bọt
+@Chuyên ngành kỹ thuật
+-cạn
+-đoàn tàu
+-đoàn xe
+-đội tàu
+-hạm đội
+-khe
+-suối
+-vịnh
+@Lĩnh vực: ô tô
+-bến đỗ xe
+-đội xe
+@Chuyên ngành kỹ thuật
+-cạn
+-đoàn tàu
+-đoàn xe
+-đội tàu
+-hạm đội
+-khe
+-suối
+-vịnh
+@Lĩnh vực: ô tô
+-bến đỗ xe
+-đội xe

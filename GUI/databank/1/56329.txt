@@ -1,3 +1,6 @@
-thermography
-	@Chuyên ngành kỹ thuật\n-đo nhiệt bức xạ\n@Lĩnh vực: y học\n-phép nhiệt ký\n@Lĩnh vực: đo lường & điều khiển\n-phương pháp đo nhiệt
-
+thermography	@Chuyên ngành kỹ thuật
+-đo nhiệt bức xạ
+@Lĩnh vực: y học
+-phép nhiệt ký
+@Lĩnh vực: đo lường & điều khiển
+-phương pháp đo nhiệt

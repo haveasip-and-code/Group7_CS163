@@ -1,3 +1,2 @@
-cradler
-	@cradler\n- xem cradle
-
+cradler	@cradler
+- xem cradle

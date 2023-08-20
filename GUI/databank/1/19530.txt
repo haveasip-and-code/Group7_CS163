@@ -1,3 +1,32 @@
-exception
-	@exception /ik'sepʃn/\n*  danh từ\n- sự trừ ra, sự loại ra\n=with the exception of+ trừ\n- cái trừ ra, cái loại ra; ngoại lệ\n- sự phản đối\n=to take exception to something+ phản đối cái gì, chống lại cái gì\n=subject (liable) to exception+ có thể bị phản đối\n!the exception proves the rule\n- (xem) prove\n@Chuyên ngành kinh tế\n-điều ngoại trừ\n-ngoại lệ\n-phụ chú khám sổ\n-phụ trú khám sổ\n-sự miễn trách nhiệm\n@Chuyên ngành kỹ thuật\n-ngoại lệ\n@Lĩnh vực: điện tử & viễn thông\n-biệt lệ\n@Lĩnh vực: toán & tin\n-sự biệt lệ\n-sự ngoại lệ\n-sự trừ ra\n@Chuyên ngành kỹ thuật\n-ngoại lệ\n@Lĩnh vực: điện tử & viễn thông\n-biệt lệ\n@Lĩnh vực: toán & tin\n-sự biệt lệ\n-sự ngoại lệ\n-sự trừ ra
-
+exception	
+@exception /ik'sepʃn/
+*  danh từ
+- sự trừ ra, sự loại ra=with the exception of
++ trừ
+- cái trừ ra, cái loại ra; ngoại lệ
+- sự phản đối=to take exception to something
++ phản đối cái gì, chống lại cái gì=subject (liable) to exception
++ có thể bị phản đối!the exception proves the rule
+- (xem) prove
+@Chuyên ngành kinh tế
+-điều ngoại trừ
+-ngoại lệ
+-phụ chú khám sổ
+-phụ trú khám sổ
+-sự miễn trách nhiệm
+@Chuyên ngành kỹ thuật
+-ngoại lệ
+@Lĩnh vực: điện tử & viễn thông
+-biệt lệ
+@Lĩnh vực: toán & tin
+-sự biệt lệ
+-sự ngoại lệ
+-sự trừ ra
+@Chuyên ngành kỹ thuật
+-ngoại lệ
+@Lĩnh vực: điện tử & viễn thông
+-biệt lệ
+@Lĩnh vực: toán & tin
+-sự biệt lệ
+-sự ngoại lệ
+-sự trừ ra

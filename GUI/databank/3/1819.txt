@@ -1,3 +1,2 @@
-ambuscader
-	@ambuscader\n- xem ambuscade
-
+ambuscader	@ambuscader
+- xem ambuscade

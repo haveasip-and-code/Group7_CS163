@@ -1,3 +1,9 @@
-strake
-	@strake /streik/\n*  danh từ\n- (hàng hải) đường ván (từ mũi đến cuối tàu)\n@Chuyên ngành kỹ thuật\n-máng rửa quặng\n@Lĩnh vực: giao thông & vận tải\n-đường ván (đóng tàu)\n@Lĩnh vực: cơ khí & công trình\n-vỏ bọc thùng chứa
-
+strake	@strake /streik/
+*  danh từ
+- (hàng hải) đường ván (từ mũi đến cuối tàu)
+@Chuyên ngành kỹ thuật
+-máng rửa quặng
+@Lĩnh vực: giao thông & vận tải
+-đường ván (đóng tàu)
+@Lĩnh vực: cơ khí & công trình
+-vỏ bọc thùng chứa

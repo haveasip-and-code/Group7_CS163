@@ -1,3 +1,20 @@
-builder
-	@builder /'bildə/\n*  danh từ\n- người xây dựng\n- chủ thầu\n@Chuyên ngành kinh tế\n-nhà kiến trúc\n-nhà thầu xây cất\n@Chuyên ngành kỹ thuật\n-công ty xây dựng\n-người thiết kế\n-người xây dựng\n@Lĩnh vực: xây dựng\n-công nhân xây dựng\n-người kiến trúc\n-người thầu xây dựng\n-người thi công\n-nhà chế tạo\n-nhà xây dựng\n@Lĩnh vực: toán & tin\n-trình tạo
-
+builder	@builder /'bildə/
+*  danh từ
+- người xây dựng
+- chủ thầu
+@Chuyên ngành kinh tế
+-nhà kiến trúc
+-nhà thầu xây cất
+@Chuyên ngành kỹ thuật
+-công ty xây dựng
+-người thiết kế
+-người xây dựng
+@Lĩnh vực: xây dựng
+-công nhân xây dựng
+-người kiến trúc
+-người thầu xây dựng
+-người thi công
+-nhà chế tạo
+-nhà xây dựng
+@Lĩnh vực: toán & tin
+-trình tạo

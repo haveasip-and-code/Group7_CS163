@@ -1,3 +1,5 @@
-phospholipid
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lipid có chứa nhóm phosphat\n@Lĩnh vực: thực phẩm\n-photpholipit
-
+phospholipid	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-lipid có chứa nhóm phosphat
+@Lĩnh vực: thực phẩm
+-photpholipit

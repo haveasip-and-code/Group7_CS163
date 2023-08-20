@@ -1,3 +1,11 @@
-servomechanism
-	@servomechanism\n* danh từ\n- cơ cấu phụ\n@Chuyên ngành kỹ thuật\n-cơ cấu secvo\n-hệ trợ động\n@Lĩnh vực: vật lý\n-cấu secvo\n-cấu trợ động\n@Lĩnh vực: điện\n-chỉnh cơ tự động
-
+servomechanism	@servomechanism
+* danh từ
+- cơ cấu phụ
+@Chuyên ngành kỹ thuật
+-cơ cấu secvo
+-hệ trợ động
+@Lĩnh vực: vật lý
+-cấu secvo
+-cấu trợ động
+@Lĩnh vực: điện
+-chỉnh cơ tự động

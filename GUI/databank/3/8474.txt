@@ -1,3 +1,15 @@
-cementing
-	@cementing\n* danh từ\n- sự gắn xi măng\n- sự thấm các bon\n@Chuyên ngành kỹ thuật\n-sự dán (chất dẻo)\n-sự gắn\n-sự phụt xi măng\n-sự phụt ximăng\n-thấm cacbon\n-trám ximăng\n-xêmentit hóa\n@Lĩnh vực: xây dựng\n-sự gắn xi măng\n-sự trám xi măng
-
+cementing	@cementing
+* danh từ
+- sự gắn xi măng
+- sự thấm các bon
+@Chuyên ngành kỹ thuật
+-sự dán (chất dẻo)
+-sự gắn
+-sự phụt xi măng
+-sự phụt ximăng
+-thấm cacbon
+-trám ximăng
+-xêmentit hóa
+@Lĩnh vực: xây dựng
+-sự gắn xi măng
+-sự trám xi măng

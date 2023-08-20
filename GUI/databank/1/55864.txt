@@ -1,3 +1,9 @@
-teletext
-	@teletext\n* danh từ\n- dịch vụ điện toán cung cấp tin tức và các thông tin khác trên màn hình ti vi cho những người đặt thuê\n@Chuyên ngành kinh tế\n-hệ thống vi tính truyền hình\n-văn bản truyền từ xa\n@Chuyên ngành kỹ thuật\n-viễn truyền văn bản\n-viễn văn bản
-
+teletext	@teletext
+* danh từ
+- dịch vụ điện toán cung cấp tin tức và các thông tin khác trên màn hình ti vi cho những người đặt thuê
+@Chuyên ngành kinh tế
+-hệ thống vi tính truyền hình
+-văn bản truyền từ xa
+@Chuyên ngành kỹ thuật
+-viễn truyền văn bản
+-viễn văn bản

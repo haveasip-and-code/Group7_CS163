@@ -1,3 +1,25 @@
-intake
-	@intake /'inteik/\n*  danh từ\n- điểm lấy nước vào (sông đào, ống bơm...)\n- sự lấy vào; vật lấy vào; lượng lấy vào\n=a small pipe has little intake+ một cái tẩu nhỏ lấy thuốc chẳng được bao nhiêu\n- đương hầm thông hơi (trong mỏ)\n- chỗ eo (bít tất, ống dẫn nước...)\n- đất khai hoang (ở vùng lầy)\n@Chuyên ngành kỹ thuật\n-lỗ hút\n-lỗ rót\n-lượng vào\n-ống bơm\n-sự hút vào\n-sự vào\n@Lĩnh vực: điện\n-hồ lấy nước\n@Lĩnh vực: hóa học & vật liệu\n-sự cho thêm vào\n@Lĩnh vực: cơ khí & công trình\n-sự hút nạp\n-sự thu vào\n@Lĩnh vực: xây dựng\n-sự lấy nước vào
-
+intake	
+@intake /'inteik/
+*  danh từ
+- điểm lấy nước vào (sông đào, ống bơm...)
+- sự lấy vào; vật lấy vào; lượng lấy vào=a small pipe has little intake
++ một cái tẩu nhỏ lấy thuốc chẳng được bao nhiêu
+- đương hầm thông hơi (trong mỏ)
+- chỗ eo (bít tất, ống dẫn nước...)
+- đất khai hoang (ở vùng lầy)
+@Chuyên ngành kỹ thuật
+-lỗ hút
+-lỗ rót
+-lượng vào
+-ống bơm
+-sự hút vào
+-sự vào
+@Lĩnh vực: điện
+-hồ lấy nước
+@Lĩnh vực: hóa học & vật liệu
+-sự cho thêm vào
+@Lĩnh vực: cơ khí & công trình
+-sự hút nạp
+-sự thu vào
+@Lĩnh vực: xây dựng
+-sự lấy nước vào

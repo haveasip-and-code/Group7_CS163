@@ -1,3 +1,6 @@
-interbranch
-	@Chuyên ngành kinh tế\n-giữa các chi nhanh\n-liên chi nhánh\n@Chuyên ngành kỹ thuật\n-liên ngành
-
+interbranch	
+@Chuyên ngành kinh tế
+-giữa các chi nhanh
+-liên chi nhánh
+@Chuyên ngành kỹ thuật
+-liên ngành

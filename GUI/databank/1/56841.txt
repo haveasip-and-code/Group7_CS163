@@ -1,3 +1,2 @@
-tmeses
-	@tmeses\n- số nhiều của tmesis
-
+tmeses	@tmeses
+- số nhiều của tmesis

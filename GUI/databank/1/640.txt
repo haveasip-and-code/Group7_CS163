@@ -1,3 +1,5 @@
-acts
-	@Chuyên ngành kỹ thuật\n-luật\n-qui phạm xây dựng\n-văn bản
-
+acts	
+@Chuyên ngành kỹ thuật
+-luật
+-qui phạm xây dựng
+-văn bản

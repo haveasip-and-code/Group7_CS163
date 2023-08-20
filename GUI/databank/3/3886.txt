@@ -1,3 +1,12 @@
-attestation
-	@attestation /,ætes'teiʃn/\n*  danh từ\n- sự chứng nhận, sự nhận thực, sự chứng thực\n- lời chứng, lời cung khai làm chứng\n- sự thề, sự tuyên thệ\n- sự cho thề, sự làm lễ tuyên thệ (cho ai)\n@Chuyên ngành kinh tế\n-chứng thực\n-lời chứng\n-sự chứng nhận\n-sự chứng thực\n-thị thực
-
+attestation	@attestation /,ætes'teiʃn/
+*  danh từ
+- sự chứng nhận, sự nhận thực, sự chứng thực
+- lời chứng, lời cung khai làm chứng
+- sự thề, sự tuyên thệ
+- sự cho thề, sự làm lễ tuyên thệ (cho ai)
+@Chuyên ngành kinh tế
+-chứng thực
+-lời chứng
+-sự chứng nhận
+-sự chứng thực
+-thị thực

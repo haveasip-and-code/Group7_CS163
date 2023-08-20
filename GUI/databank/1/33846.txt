@@ -1,3 +1,85 @@
-master
-	@master /'mɑ:stə/\n*  danh từ\n- chủ, chủ nhân\n=masters and men+ chủ và thợ\n=master of the house+ chủ gia đình\n- (hàng hải) thuyền trưởng (thuyền buôn)\n- thầy, thầy giáo\n=a mathematies master+ thầy giáo dạy toán\n- (the master) Chúa Giê-xu\n- cậu (tiếng xưng hô lễ phép với một người con trai)\n! Master Chales Smith\n- cậu Sac-lơ-Xmít\n- cử nhân\n!Master of Arts\n- cử nhân văn chương\n- người tài giỏi, người học rộng tài cao, bậc thầy, người thành thạo, người tinh thông\n=master of feace+ kiện tướng đánh kiếm; người tranh luận giỏi\n=to make oneself a master of many foreign languages+ trở thành tinh thông rất nhiều ngoại ngữ\n- người làm chủ, người kiềm chế\n=to be the master of one's fate+ tự mình làm chủ được số mện của mình\n- thợ cả\n- đấu trường, chủ, người đứng đầu, người chỉ huy\n!Master of Ceremonies\n- quan chủ tế\n- nghệ sĩ bậc thầy\n- hiệu trưởng (một số trường đại học)\n!like master like man\n- (xem) like\n*  tính từ\n- làm chủ, đứng đầu\n- bậc thầy, tài giỏi, thành thạo, tinh thông\n- làm thợ cả (không làm công cho ai)\n- (kỹ thuật),  (chính trị), điều khiển (bộ phận máy)\n*  ngoại động từ\n- làm chủ, cai quản, điều khiển, chỉ huy\n- kiềm chế, trấn áp, không chế\n=to master one's temper+ kiềm chế được sự giận dữ, giữ được bình tĩnh\n- (nghĩa bóng) khắc phục, vượt qua\n=to master one's difficulties+ khắc phục được mọi sự khó khăn\n- trở thành tinh thông, sử dụng thành thạo, nắm vững, quán triệt\n=to master the English language+ nắm vững tiếng Anh\n@Chuyên ngành kinh tế\n-bậc thầy\n-chính\n-chủ\n-chủ nhân\n-chủ yếu\n-nghiệp chủ\n-người làm chủ\n-thành thao\n-thành thạo\n-thợ cả\n-thuyền trưởng\n-tinh thông\n-tổng\n@Chuyên ngành kỹ thuật\n-bản gốc\n-bản vẽ gốc\n-calip mẫu\n-chính\n-cơ bản\n-đốc công\n-đội trưởng\n-gốc\n-hình mẫu\n-kiểm chứng\n-kiểm nghiệm\n-người đứng đầu\n-máy chính\n-máy chủ\n-máy tính chủ\n-phần chính, phần chủ\n-phim gốc\n-quan trọng\n-rãnh gốc\n-vệt chủ\n-vệt gốc\n-vị trí chính\n-vị trí chủ\n-xem xét\n@Lĩnh vực: cơ khí & công trình\n-calip kiểm (tra)\n-thợ lành nghề\n@Lĩnh vực: xây dựng\n-thạc sĩ
-
+master	@master /'mɑ:stə/
+*  danh từ
+- chủ, chủ nhân
+=masters and men+ chủ và thợ
+=master of the house+ chủ gia đình
+- (hàng hải) thuyền trưởng (thuyền buôn)
+- thầy, thầy giáo
+=a mathematies master+ thầy giáo dạy toán
+- (the master) Chúa Giê-xu
+- cậu (tiếng xưng hô lễ phép với một người con trai)
+! Master Chales Smith
+- cậu Sac-lơ-Xmít
+- cử nhân
+!Master of Arts
+- cử nhân văn chương
+- người tài giỏi, người học rộng tài cao, bậc thầy, người thành thạo, người tinh thông
+=master of feace+ kiện tướng đánh kiếm; người tranh luận giỏi
+=to make oneself a master of many foreign languages+ trở thành tinh thông rất nhiều ngoại ngữ
+- người làm chủ, người kiềm chế
+=to be the master of one's fate+ tự mình làm chủ được số mện của mình
+- thợ cả
+- đấu trường, chủ, người đứng đầu, người chỉ huy
+!Master of Ceremonies
+- quan chủ tế
+- nghệ sĩ bậc thầy
+- hiệu trưởng (một số trường đại học)
+!like master like man
+- (xem) like
+*  tính từ
+- làm chủ, đứng đầu
+- bậc thầy, tài giỏi, thành thạo, tinh thông
+- làm thợ cả (không làm công cho ai)
+- (kỹ thuật),  (chính trị), điều khiển (bộ phận máy)
+*  ngoại động từ
+- làm chủ, cai quản, điều khiển, chỉ huy
+- kiềm chế, trấn áp, không chế
+=to master one's temper+ kiềm chế được sự giận dữ, giữ được bình tĩnh
+- (nghĩa bóng) khắc phục, vượt qua
+=to master one's difficulties+ khắc phục được mọi sự khó khăn
+- trở thành tinh thông, sử dụng thành thạo, nắm vững, quán triệt
+=to master the English language+ nắm vững tiếng Anh
+@Chuyên ngành kinh tế
+-bậc thầy
+-chính
+-chủ
+-chủ nhân
+-chủ yếu
+-nghiệp chủ
+-người làm chủ
+-thành thao
+-thành thạo
+-thợ cả
+-thuyền trưởng
+-tinh thông
+-tổng
+@Chuyên ngành kỹ thuật
+-bản gốc
+-bản vẽ gốc
+-calip mẫu
+-chính
+-cơ bản
+-đốc công
+-đội trưởng
+-gốc
+-hình mẫu
+-kiểm chứng
+-kiểm nghiệm
+-người đứng đầu
+-máy chính
+-máy chủ
+-máy tính chủ
+-phần chính, phần chủ
+-phim gốc
+-quan trọng
+-rãnh gốc
+-vệt chủ
+-vệt gốc
+-vị trí chính
+-vị trí chủ
+-xem xét
+@Lĩnh vực: cơ khí & công trình
+-calip kiểm (tra)
+-thợ lành nghề
+@Lĩnh vực: xây dựng
+-thạc sĩ

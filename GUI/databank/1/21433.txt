@@ -1,3 +1,50 @@
-flight
-	@flight /flight/\n*  danh từ\n- sự bỏ chạy, sự rút chạy\n=to seek safety in flight+ bỏ chạy thoát thân\n=to put the enemy to flight+ làm cho kẻ địch bỏ chạy\n=to take flight; to betake oneself to flight; to take to flight+ bỏ chạy, rút chạy\n- sự bay; chuyến bay\n=to take one's flight to; to wing one's flight+ bay\n=in flight+ đang bay\n- sự truy đuổi, sự đuổi bắt\n- đàn (chim... bay)\n=a flight of birds+ đàn chim bay\n=a flight of arrows+ một loạt tên bay\n- đường đạn; sự bay vụt (đạn)\n- tầm bay (chim, đạn)\n- sự trôi nhanh (thời gian)\n- sự bay bổng, sự phiêu diêu (trí tưởng tượng)\n- tầng, đợt (cầu thang)\n=my room is two flights up+ buồng của tôi ở tầng hai\n- loạt (tên, đạn...)\n- trấu (yến mạch)\n- phi đội (của không quân Anh)\n- cuộc thi bắn cung tầm xa; tên dùng trong cuộc thi bắn cung tầm xa ((cũng) flight arrow)\n!in the first flight\n- dẫn đầu, đi đầu\n*  ngoại động từ\n- bắn (chim) khi đang bay\n- thay đổi hướng đi (của quả bóng crickê)\n*  nội động từ\n- bay thành đàn (chim)\n@Chuyên ngành kỹ thuật\n-độ uốn\n-đợt cầu thang\n-sự bay\n@Lĩnh vực: xây dựng\n-bậc cầu thang\n-khay nâng\n-mâm thang\n-một dãy phòng\n-tầng (nhà)\n@Chuyên ngành kỹ thuật\n-độ uốn\n-đợt cầu thang\n-sự bay\n@Lĩnh vực: xây dựng\n-bậc cầu thang\n-khay nâng\n-mâm thang\n-một dãy phòng\n-tầng (nhà)
-
+flight	
+@flight /flight/
+*  danh từ
+- sự bỏ chạy, sự rút chạy=to seek safety in flight
++ bỏ chạy thoát thân=to put the enemy to flight
++ làm cho kẻ địch bỏ chạy=to take flight; to betake oneself to flight; to take to flight
++ bỏ chạy, rút chạy
+- sự bay; chuyến bay=to take one's flight to; to wing one's flight
++ bay=in flight
++ đang bay
+- sự truy đuổi, sự đuổi bắt
+- đàn (chim... bay)=a flight of birds
++ đàn chim bay=a flight of arrows
++ một loạt tên bay
+- đường đạn; sự bay vụt (đạn)
+- tầm bay (chim, đạn)
+- sự trôi nhanh (thời gian)
+- sự bay bổng, sự phiêu diêu (trí tưởng tượng)
+- tầng, đợt (cầu thang)=my room is two flights up
++ buồng của tôi ở tầng hai
+- loạt (tên, đạn...)
+- trấu (yến mạch)
+- phi đội (của không quân Anh)
+- cuộc thi bắn cung tầm xa; tên dùng trong cuộc thi bắn cung tầm xa ((cũng) flight arrow)!in the first flight
+- dẫn đầu, đi đầu
+*  ngoại động từ
+- bắn (chim) khi đang bay
+- thay đổi hướng đi (của quả bóng crickê)
+*  nội động từ
+- bay thành đàn (chim)
+@Chuyên ngành kỹ thuật
+-độ uốn
+-đợt cầu thang
+-sự bay
+@Lĩnh vực: xây dựng
+-bậc cầu thang
+-khay nâng
+-mâm thang
+-một dãy phòng
+-tầng (nhà)
+@Chuyên ngành kỹ thuật
+-độ uốn
+-đợt cầu thang
+-sự bay
+@Lĩnh vực: xây dựng
+-bậc cầu thang
+-khay nâng
+-mâm thang
+-một dãy phòng
+-tầng (nhà)

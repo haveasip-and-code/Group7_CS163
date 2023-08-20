@@ -1,3 +1,36 @@
-knight
-	@knight /nait/\n*  danh từ\n- hiệp sĩ (thời trung cổ ở Châu âu)\n- người được phong tước hầu (ở Anh)\n- (sử học), (Anh) đại biểu (của một) hạt (ở nghị viện) ((cũng) knight of the shire)\n- kỵ sĩ (trong quân đội cổ La mã)\n- (đánh cờ) quân cờ "ddầu ngựa"\n!knight bachelor\n- hiệp sĩ thường (chưa được phong tước)\n!knight commander\n- hiệp sĩ đã được phong tước\n!knight of the brush\n-(đùa cợt) hoạ sĩ\n!knight of the cleaver\n-(đùa cợt) người bán thịt\n!knight of the fortune\n- kẻ phiêu lưu, kẻ mạo hiểm\n!knight of industry\n- tay đại bợm\n!knight of the knife\n- (từ cổ,nghĩa cổ), (đùa cợt) kẻ cắp\n!knight of the needle (shears, thimble)\n- (từ cổ,nghĩa cổ), (đùa cợt) thợ may\n!knight of the pencil (pen, quill)\n-(đùa cợt) nhà văn; nhà báo\n!knight of the pestle\n- (từ cổ,nghĩa cổ) nhà bào chế, dược sĩ\n!knight of the post\n- người sống bằng nghề làm nhân chứng láo\n!knight of the road\n- người đi chào hàng\n- kẻ cướp đường\n!knight of the whip\n-(đùa cợt) người đánh xe ngựa\n*  ngoại động từ\n- phong tước hầu (ở Anh)
-
+knight	@knight /nait/
+*  danh từ
+- hiệp sĩ (thời trung cổ ở Châu âu)
+- người được phong tước hầu (ở Anh)
+- (sử học), (Anh) đại biểu (của một) hạt (ở nghị viện) ((cũng) knight of the shire)
+- kỵ sĩ (trong quân đội cổ La mã)
+- (đánh cờ) quân cờ "ddầu ngựa"
+!knight bachelor
+- hiệp sĩ thường (chưa được phong tước)
+!knight commander
+- hiệp sĩ đã được phong tước
+!knight of the brush
+-(đùa cợt) hoạ sĩ
+!knight of the cleaver
+-(đùa cợt) người bán thịt
+!knight of the fortune
+- kẻ phiêu lưu, kẻ mạo hiểm
+!knight of industry
+- tay đại bợm
+!knight of the knife
+- (từ cổ,nghĩa cổ), (đùa cợt) kẻ cắp
+!knight of the needle (shears, thimble)
+- (từ cổ,nghĩa cổ), (đùa cợt) thợ may
+!knight of the pencil (pen, quill)
+-(đùa cợt) nhà văn; nhà báo
+!knight of the pestle
+- (từ cổ,nghĩa cổ) nhà bào chế, dược sĩ
+!knight of the post
+- người sống bằng nghề làm nhân chứng láo
+!knight of the road
+- người đi chào hàng
+- kẻ cướp đường
+!knight of the whip
+-(đùa cợt) người đánh xe ngựa
+*  ngoại động từ
+- phong tước hầu (ở Anh)

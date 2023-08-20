@@ -1,3 +1,4 @@
-desand
-	@Chuyên ngành kỹ thuật\n-lọc cát\n@Lĩnh vực: hóa học & vật liệu\n-khử cát
-
+desand	@Chuyên ngành kỹ thuật
+-lọc cát
+@Lĩnh vực: hóa học & vật liệu
+-khử cát

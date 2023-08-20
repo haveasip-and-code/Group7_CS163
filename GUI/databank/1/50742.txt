@@ -1,3 +1,20 @@
-silt
-	@silt /silt/\n*  danh từ\n- bùn, phù sa (ở hải cảng, ở cửa sông...)\n*  nội động từ\n- nghẽn bùn, đầy bùn\n=the passage has silted up+ lối đi đã nghẽn bùn\n*  ngoại động từ\n- làm đầy bùn, làm ngẽn bùn\n@Chuyên ngành kỹ thuật\n-bồi tích\n-bùn\n-bùn cát\n-bùn khoan\n-bùn loãng\n-đất bùn\n-mùn khoan\n-phù sa bồi\n@Lĩnh vực: xây dựng\n-cát bột\n-đất bụi
-
+silt	@silt /silt/
+*  danh từ
+- bùn, phù sa (ở hải cảng, ở cửa sông...)
+*  nội động từ
+- nghẽn bùn, đầy bùn
+=the passage has silted up+ lối đi đã nghẽn bùn
+*  ngoại động từ
+- làm đầy bùn, làm ngẽn bùn
+@Chuyên ngành kỹ thuật
+-bồi tích
+-bùn
+-bùn cát
+-bùn khoan
+-bùn loãng
+-đất bùn
+-mùn khoan
+-phù sa bồi
+@Lĩnh vực: xây dựng
+-cát bột
+-đất bụi

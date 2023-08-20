@@ -1,3 +1,4 @@
-spending
-	@Chuyên ngành kinh tế\n-chi tiêu\n-sự tiêu\n-tiêu pha (tiền...)
-
+spending	@Chuyên ngành kinh tế
+-chi tiêu
+-sự tiêu
+-tiêu pha (tiền...)

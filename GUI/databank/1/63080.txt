@@ -1,3 +1,7 @@
-wireman
-	@wireman\n* danh từ\n- số nhiều wiremen\n- thợ bắt đường dây\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thợ điện (đường dây)
-
+wireman	@wireman
+* danh từ
+- số nhiều wiremen
+- thợ bắt đường dây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thợ điện (đường dây)

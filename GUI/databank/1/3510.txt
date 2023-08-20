@@ -1,3 +1,8 @@
-asepsis
-	@asepsis /æ'sepsis/\n*  danh từ\n- sự vô trùng, sự vô khuẩn\n- phương pháp vô trùng (trong phẫu thuật)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vô trùng
-
+asepsis	
+@asepsis /æ'sepsis/
+*  danh từ
+- sự vô trùng, sự vô khuẩn
+- phương pháp vô trùng (trong phẫu thuật)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vô trùng

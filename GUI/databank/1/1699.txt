@@ -1,3 +1,21 @@
-alternation
-	@alternation /,ɔ:ltə'neiʃn/\n*  danh từ\n- sự xen nhau; sự xen kẽ, sự thay phiên, sự luân phiên\n@Chuyên ngành kinh tế\n-luân phiên\n-sự xen kẽ\n-thay phiên\n@Chuyên ngành kỹ thuật\n-nửa chu kỳ\n-sự biến dạng\n-sự luân phiên\n-sự thay đổi\n-sự xen kẽ\n-xen kẽ\n@Lĩnh vực: toán & tin\n-sự đan dấu\n-sự so le\n-sự thay phiên\n@Lĩnh vực: cơ khí & công trình\n-sự xen kẻ
-
+alternation	
+@alternation /,ɔ:ltə'neiʃn/
+*  danh từ
+- sự xen nhau; sự xen kẽ, sự thay phiên, sự luân phiên
+@Chuyên ngành kinh tế
+-luân phiên
+-sự xen kẽ
+-thay phiên
+@Chuyên ngành kỹ thuật
+-nửa chu kỳ
+-sự biến dạng
+-sự luân phiên
+-sự thay đổi
+-sự xen kẽ
+-xen kẽ
+@Lĩnh vực: toán & tin
+-sự đan dấu
+-sự so le
+-sự thay phiên
+@Lĩnh vực: cơ khí & công trình
+-sự xen kẻ

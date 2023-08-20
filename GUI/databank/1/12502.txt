@@ -1,3 +1,22 @@
-crater
-	@crater /'kreitə/\n*  danh từ\n- miệng núi lửa\n- hố (bom, đạn đại bác...)\n@Chuyên ngành kinh tế\n-máy cho chai vào thùng\n@Chuyên ngành kỹ thuật\n-đầu dây cáp\n-hố trũng\n-lõm hàn\n-miệng hàn\n-miệng loe\n-miệng lõm\n-miệng núi lửa\n-phễu\n-vết lõm\n-vùng trũng\n@Lĩnh vực: cơ khí & công trình\n-miệng phun lửa\n@Lĩnh vực: giao thông & vận tải\n-ổ gà (đường sá)
-
+crater	
+@crater /'kreitə/
+*  danh từ
+- miệng núi lửa
+- hố (bom, đạn đại bác...)
+@Chuyên ngành kinh tế
+-máy cho chai vào thùng
+@Chuyên ngành kỹ thuật
+-đầu dây cáp
+-hố trũng
+-lõm hàn
+-miệng hàn
+-miệng loe
+-miệng lõm
+-miệng núi lửa
+-phễu
+-vết lõm
+-vùng trũng
+@Lĩnh vực: cơ khí & công trình
+-miệng phun lửa
+@Lĩnh vực: giao thông & vận tải
+-ổ gà (đường sá)

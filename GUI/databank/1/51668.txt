@@ -1,3 +1,21 @@
-sodden
-	@sodden /'sɔdn/\n*  động tính từ quá khứ\n- (từ cổ,nghĩa cổ) của seethe\n*  tính từ\n- đẫm nước, đầy nước\n- ẩm, ỉu (bánh mì)\n- đần độn, u mê; có vẻ đần độn, có vẻ u mê (vì nghiện rượu)\n*  ngoại động từ\n- làm ướt đẫm, làm đẫm nước\n- làm u mê, làm đần độn (vì rượu)\n*  nội động từ\n- thấm đẫm nước\n@Chuyên ngành kinh tế\n-chưa nướng kỹ\n-ngấm nước\n-sống\n-thấm nước\n@Chuyên ngành kỹ thuật\n-đẫm nước\n-đầy nước\n-làm ướt đẫm
-
+sodden	@sodden /'sɔdn/
+*  động tính từ quá khứ
+- (từ cổ,nghĩa cổ) của seethe
+*  tính từ
+- đẫm nước, đầy nước
+- ẩm, ỉu (bánh mì)
+- đần độn, u mê; có vẻ đần độn, có vẻ u mê (vì nghiện rượu)
+*  ngoại động từ
+- làm ướt đẫm, làm đẫm nước
+- làm u mê, làm đần độn (vì rượu)
+*  nội động từ
+- thấm đẫm nước
+@Chuyên ngành kinh tế
+-chưa nướng kỹ
+-ngấm nước
+-sống
+-thấm nước
+@Chuyên ngành kỹ thuật
+-đẫm nước
+-đầy nước
+-làm ướt đẫm

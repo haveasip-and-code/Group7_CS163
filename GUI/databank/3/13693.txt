@@ -1,3 +1,14 @@
-debenture
-	@debenture /di'bentʃə/\n*  danh từ\n- giấy nợ\n@Chuyên ngành kinh tế\n-giấy hoàn thuế hải quan\n-giấy nhận nợ (của công ty)\n-giấy nợ\n@Chuyên ngành kỹ thuật\n-công trái\n-giấy nợ\n@Lĩnh vực: giao thông & vận tải\n-trái khoán\n@Lĩnh vực: toán & tin\n-trái khoản
-
+debenture	@debenture /di'bentʃə/
+*  danh từ
+- giấy nợ
+@Chuyên ngành kinh tế
+-giấy hoàn thuế hải quan
+-giấy nhận nợ (của công ty)
+-giấy nợ
+@Chuyên ngành kỹ thuật
+-công trái
+-giấy nợ
+@Lĩnh vực: giao thông & vận tải
+-trái khoán
+@Lĩnh vực: toán & tin
+-trái khoản

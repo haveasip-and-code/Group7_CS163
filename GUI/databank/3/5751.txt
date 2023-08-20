@@ -1,3 +1,2 @@
-blabby
-	@blabby\n- xem blab
-
+blabby	@blabby
+- xem blab

@@ -1,3 +1,6 @@
-metabolite
-	@metabolite\n* danh từ\n- chất chuyển hoá/trao đổi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất chuyền hóa
-
+metabolite	@metabolite
+* danh từ
+- chất chuyển hoá/trao đổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất chuyền hóa

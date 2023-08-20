@@ -1,3 +1,9 @@
-antidumping
-	@antidumping\n* tính từ\n- chống phá giá hàng hoá\n@Chuyên ngành kinh tế\n-chống bán phá giá\n-chống phá giá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chống lật
-
+antidumping	@antidumping
+* tính từ
+- chống phá giá hàng hoá
+@Chuyên ngành kinh tế
+-chống bán phá giá
+-chống phá giá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-chống lật

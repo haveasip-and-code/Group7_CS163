@@ -1,3 +1,4 @@
-hangman
-	@hangman /'hæɳmən/\n*  danh từ\n- người treo cổ (những kẻ phạm tội)
-
+hangman	
+@hangman /'hæɳmən/
+*  danh từ
+- người treo cổ (những kẻ phạm tội)

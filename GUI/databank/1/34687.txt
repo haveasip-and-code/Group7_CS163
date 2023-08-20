@@ -1,3 +1,3 @@
-microbalance
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-cân vi lượng
-
+microbalance	@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-cân vi lượng

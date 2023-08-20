@@ -1,3 +1,47 @@
-liner
-	@liner /'lainə/\n*  danh từ\n- tàu khách, máy bay chở khách (chạy có định kỳ, có chuyến)\n@Chuyên ngành kinh tế\n-lớp đệm\n-lớp lót\n-máy bay theo tuyến định kỳ\n-tàu chợ\n-tàu hàng định kỳ\n-tàu khách định kỳ\n-tẩu thuốc\n-vật lót\n-vật lót (trong thùng đựng hàng)\n@Chuyên ngành kỹ thuật\n-bạc lót\n-bạc ổ trục\n-đệm lót\n-giấy lót\n-lớp đệm\n-lớp lót\n-máng lót\n-ống chống\n-ống khai thác\n-ống lót\n-ống lót chèn\n-ống lừng\n-sự bọc\n-vật liệu bọc\n@Lĩnh vực: hóa học & vật liệu\n-tàu khách\n@Chuyên ngành kỹ thuật\n-bạc lót\n-bạc ổ trục\n-đệm lót\n-giấy lót\n-lớp đệm\n-lớp lót\n-máng lót\n-ống chống\n-ống khai thác\n-ống lót\n-ống lót chèn\n-ống lừng\n-sự bọc\n-vật liệu bọc\n@Lĩnh vực: hóa học & vật liệu\n-tàu khách
-
+liner	@liner /'lainə/
+*  danh từ
+- tàu khách, máy bay chở khách (chạy có định kỳ, có chuyến)
+@Chuyên ngành kinh tế
+-lớp đệm
+-lớp lót
+-máy bay theo tuyến định kỳ
+-tàu chợ
+-tàu hàng định kỳ
+-tàu khách định kỳ
+-tẩu thuốc
+-vật lót
+-vật lót (trong thùng đựng hàng)
+@Chuyên ngành kỹ thuật
+-bạc lót
+-bạc ổ trục
+-đệm lót
+-giấy lót
+-lớp đệm
+-lớp lót
+-máng lót
+-ống chống
+-ống khai thác
+-ống lót
+-ống lót chèn
+-ống lừng
+-sự bọc
+-vật liệu bọc
+@Lĩnh vực: hóa học & vật liệu
+-tàu khách
+@Chuyên ngành kỹ thuật
+-bạc lót
+-bạc ổ trục
+-đệm lót
+-giấy lót
+-lớp đệm
+-lớp lót
+-máng lót
+-ống chống
+-ống khai thác
+-ống lót
+-ống lót chèn
+-ống lừng
+-sự bọc
+-vật liệu bọc
+@Lĩnh vực: hóa học & vật liệu
+-tàu khách

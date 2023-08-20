@@ -1,3 +1,44 @@
-after
-	@after /'ɑ:ftə/\n*  phó từ\n- sau, đằng sau\n=three days after+ ba ngày sau\n=soon after+ ngay sau đó\n=to follow after+ theo sau\n*  giới từ\n- sau, sau khi\n=after dinner+ sau bữa cơm\n- ở đằng sau, phía sau, đứng sau, liền sau\n=Summer comes after Srping+ mùa hạ đến liền sau mùa xuân\n- theo sau, theo đuổi (diễn tả ý tìm kiếm, sự mong muốn, sự trông nom săn sóc)\n=to be after something+ đuổi theo cái gì, tìm kiếm cái gì\n=to thirst after knowledge+ khao khát sự hiểu biết\n=to look after somebody+ trông nom săn sóc ai\n- phỏng theo, theo\n=a pictures after Rubens+ một bức tranh theo kiểu Ruben\n=after the Russian fashion+ theo mốt Nga\n- với, do, vì\n=after a cool reception+ với một sự tiếp đãi lạnh nhạt\n- mặc dù, bất chấp\n=after all the threats+ bất chấp tất cả những sự doạ nạt\n!after all\n- cuối cùng, sau hết, rốt cuộc, xét cho cùng\n!after one's heart\n- (xem) heart\n!after a manner (fashion)\n- tàm tạm, tạm được\n!after that\n- (xem) that\n!after you!\n- xin mời đi trước!\n!after you with\n- sau anh thì đến lượt tôi đấy nhé\n!day after day\n- (xem) day\n!the day after\n- ngày hôm sau\n!time after time\n- (xem) time\n*  liên từ\n- sau khi\n=I went immediately after I had received the information+ sau khi nhận được tin tôi đi ngay\n*  tính từ\n- sau này, sau đây, tiếp sau\n=in after years+ trong những năm sau này; trong tương lai\n- (hàng hải) ở đằng sau, ở phía sau\n=the after part of the ship+ phía sau tàu\n@Chuyên ngành kinh tế\n-sau (thời gian bao nhiêu ngày...)\n@Chuyên ngành kỹ thuật\n-sau
-
+after	
+@after /'ɑ:ftə/
+*  phó từ
+- sau, đằng sau=three days after
++ ba ngày sau=soon after
++ ngay sau đó=to follow after
++ theo sau
+*  giới từ
+- sau, sau khi=after dinner
++ sau bữa cơm
+- ở đằng sau, phía sau, đứng sau, liền sau=Summer comes after Srping
++ mùa hạ đến liền sau mùa xuân
+- theo sau, theo đuổi (diễn tả ý tìm kiếm, sự mong muốn, sự trông nom săn sóc)=to be after something
++ đuổi theo cái gì, tìm kiếm cái gì=to thirst after knowledge
++ khao khát sự hiểu biết=to look after somebody
++ trông nom săn sóc ai
+- phỏng theo, theo=a pictures after Rubens
++ một bức tranh theo kiểu Ruben=after the Russian fashion
++ theo mốt Nga
+- với, do, vì=after a cool reception
++ với một sự tiếp đãi lạnh nhạt
+- mặc dù, bất chấp=after all the threats
++ bất chấp tất cả những sự doạ nạt!after all
+- cuối cùng, sau hết, rốt cuộc, xét cho cùng!after one's heart
+- (xem) heart!after a manner (fashion)
+- tàm tạm, tạm được!after that
+- (xem) that!after you!
+- xin mời đi trước!!after you with
+- sau anh thì đến lượt tôi đấy nhé!day after day
+- (xem) day!the day after
+- ngày hôm sau!time after time
+- (xem) time
+*  liên từ
+- sau khi=I went immediately after I had received the information
++ sau khi nhận được tin tôi đi ngay
+*  tính từ
+- sau này, sau đây, tiếp sau=in after years
++ trong những năm sau này; trong tương lai
+- (hàng hải) ở đằng sau, ở phía sau=the after part of the ship
++ phía sau tàu
+@Chuyên ngành kinh tế
+-sau (thời gian bao nhiêu ngày...)
+@Chuyên ngành kỹ thuật
+-sau

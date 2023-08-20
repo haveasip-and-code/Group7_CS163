@@ -1,3 +1,9 @@
-degassing
-	@Chuyên ngành kỹ thuật\n-loại khí\n@Lĩnh vực: điện\n-sự khử khí\n@Lĩnh vực: điện lạnh\n-sự loại khí\n@Lĩnh vực: xây dựng\n-sự tách khí
-
+degassing	
+@Chuyên ngành kỹ thuật
+-loại khí
+@Lĩnh vực: điện
+-sự khử khí
+@Lĩnh vực: điện lạnh
+-sự loại khí
+@Lĩnh vực: xây dựng
+-sự tách khí

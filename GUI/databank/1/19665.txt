@@ -1,3 +1,19 @@
-exempt
-	@exempt /ig'zempt/\n*  tính từ\n- được miễn (thuế...)\n*  danh từ\n- người được miễn (thuế...)\n*  ngoại động từ\n- (+ from) miễn (thuế...) cho ai\n=to exempt somebody from taxes+ miễn mọi thứ thuế cho ai\n@Chuyên ngành kinh tế\n-miễn (thuế, nghĩa vụ...)\n-miễn (thuế, trách nhiệm)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-miễn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-miễn
-
+exempt	
+@exempt /ig'zempt/
+*  tính từ
+- được miễn (thuế...)
+*  danh từ
+- người được miễn (thuế...)
+*  ngoại động từ
+- (
++ from) miễn (thuế...) cho ai=to exempt somebody from taxes
++ miễn mọi thứ thuế cho ai
+@Chuyên ngành kinh tế
+-miễn (thuế, nghĩa vụ...)
+-miễn (thuế, trách nhiệm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-miễn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-miễn

@@ -1,3 +1,6 @@
-combings
-	@combings\n* danh từ số nhiều\n- tóc rụng do chải đầu\n@Chuyên ngành kỹ thuật\n-bông rời
-
+combings	
+@combings
+* danh từ số nhiều
+- tóc rụng do chải đầu
+@Chuyên ngành kỹ thuật
+-bông rời

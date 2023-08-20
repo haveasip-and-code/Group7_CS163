@@ -1,3 +1,12 @@
-coupled
-	@coupled\n- (Tech) bị ghép\n@Chuyên ngành kỹ thuật\n-được ghép\n-được liên kết\n-được nối\n-ghép cặp\n-ghép đôi\n-liên kết (được) ghép\n@Lĩnh vực: toán & tin\n-được ghép thành đôi
-
+coupled	
+@coupled
+- (Tech) bị ghép
+@Chuyên ngành kỹ thuật
+-được ghép
+-được liên kết
+-được nối
+-ghép cặp
+-ghép đôi
+-liên kết (được) ghép
+@Lĩnh vực: toán & tin
+-được ghép thành đôi

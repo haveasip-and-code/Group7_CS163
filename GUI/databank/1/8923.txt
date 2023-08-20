@@ -1,3 +1,30 @@
-cheese
-	@cheese /tʃi:z/\n*  danh từ\n- phó mát, bánh phó mát\n- vật đóng bánh (như phó mát)\n- sữa trớ ra (trẻ con)\n!big cheese\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) quan to, chóp bu, nhân vật quan trọng\n!to get the cheese\n- nếm mùi thất bại\n- bị bịp\n!hard cheese\n- (thông tục) sự không may, sự thất bại; hoàn toàn đáng buồn\n*  nội động từ\n- trớ ra (trẻ con)\n*  danh từ (thông tục)\n- the cheese thứ thượng hảo hạng, bậc nhất\n=these cigars are the real cheese+ xì gà này là loại thượng hảo hạng; xì gà này mới thực là xì gà\n=he thinks he is quite the cheese+ nó cứ tưởng nó là (bậc) nhất\n*  ngoại động từ (từ lóng)\n- cheese it! cút đi! cẩn thận!, chú ý!\n- thôi, ngừng\n@Chuyên ngành kinh tế\n-bã ép\n-món ăn đông\n-phó mát\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-ống sợi trụ\n@Lĩnh vực: cơ khí & công trình\n-phôi cán tấm\n@Lĩnh vực: hóa học & vật liệu\n-phomat
-
+cheese	
+@cheese /tʃi:z/
+*  danh từ
+- phó mát, bánh phó mát
+- vật đóng bánh (như phó mát)
+- sữa trớ ra (trẻ con)!big cheese
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) quan to, chóp bu, nhân vật quan trọng!to get the cheese
+- nếm mùi thất bại
+- bị bịp!hard cheese
+- (thông tục) sự không may, sự thất bại; hoàn toàn đáng buồn
+*  nội động từ
+- trớ ra (trẻ con)
+*  danh từ (thông tục)
+- the cheese thứ thượng hảo hạng, bậc nhất=these cigars are the real cheese
++ xì gà này là loại thượng hảo hạng; xì gà này mới thực là xì gà=he thinks he is quite the cheese
++ nó cứ tưởng nó là (bậc) nhất
+*  ngoại động từ (từ lóng)
+- cheese it! cút đi! cẩn thận!, chú ý!
+- thôi, ngừng
+@Chuyên ngành kinh tế
+-bã ép
+-món ăn đông
+-phó mát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+-ống sợi trụ
+@Lĩnh vực: cơ khí & công trình
+-phôi cán tấm
+@Lĩnh vực: hóa học & vật liệu
+-phomat

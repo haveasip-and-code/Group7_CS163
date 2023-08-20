@@ -1,3 +1,5 @@
-localizable
-	@localizable /'loukəlaizəbl/\n*  tính từ\n- có thể hạn định vào một nơi, có thể hạn định vào một địa phương\n- có thế địa phương hoá\n- có thể xác định được, vị trí, định vị được
-
+localizable	@localizable /'loukəlaizəbl/
+*  tính từ
+- có thể hạn định vào một nơi, có thể hạn định vào một địa phương
+- có thế địa phương hoá
+- có thể xác định được, vị trí, định vị được

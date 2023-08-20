@@ -1,3 +1,73 @@
-get
-	@get /get/\n*  ngoại động từ got,  got,  gotten\n- được, có được, kiếm được, lấy được\n=to get a living+ kiếm sống\n=to get little by it+ không được lợi lộc gì ở cái đó\n=to get fame+ nổi tiếng\n- nhận được, xin được, hỏi được\n=to get a telegram+ nhận được một bức điện tín\n=he couldn't get leave from his father+ nó không xin được phép của bố nó\n- tìm ra, tính ra\n=to get 9 on the average+ tính trung bình được 9\n- mua\n=to get a new hat+ mua một cái mũ mới\n=to get a ticket+ mua một cái vé\n- học (thuộc lòng)\n=to get something by heart+ học thuộc lòng điều gì\n- mắc phải\n=to get an illness+ mắc bệnh\n- (thông tục) ăn\n=to get one's breakfast+ ăn sáng\n- bắt được (cá, thú rừng...); đem về, thu về (thóc...)\n- (thông tục) hiểu được, nắm được (ý...)\n=I don't get you+ tôi không hiểu ý anh\n=to get it right+ hiểu một cách đúng đắn điều đó\n=to get the cue+ nắm được ngụ ý\n- đưa, mang, chuyền, đem, đi lấy\n=to get the table through the window+ chuyển cái bàn qua cửa sổ\n=get me a chair+ đi lấy cho tôi một cái ghế, mang cho tôi một cái ghế\n- bị, chịu\n=to get a blow+ bị một đòn\n=to get a fall+ bị ngã\n=to get one's arm broken+ bị gãy tay\n=to get it+ bị trừng phạt, bị mắng nhiếc\n- (thông tục) dồn (ai) vào thế bí, dồn (ai) vào chân tường; làm (ai) bối rối lúng túng không biết ăn nói ra sao\n=ah! I've got you there!+ à! thế là tôi làm cho anh bị bối rối nhé!\n- làm cho, khiến cho\n=to get somebody to speak+ làm cho ai phải nói\n=he could not get the door open+ hắn không làm thế nào mở được cửa ra\n=to get the low observed+ làm cho pháp luật được tôn trọng\n=to get somebody with child+ làm cho ai có mang\n=to get some job done+ làm xong một việc gì\n- sai ai, bảo ai, nhờ ai (làm gì)\n=to get one's hair cut+ đi cắt tóc\n- (thông tục) to have got có, phải\n=I've got very little money+ tôi có rất ít tiền\n=it has got to be done+ phải làm việc đó\n- sinh, đẻ (thú vật; ít khi dùng cho người)\n- tìm hộ, mua hộ, xoay hộ, cung cấp\n=to get [for] someone a football match ticket+ tìm mua (xoay hộ) cho ai một vé đi xem đá bóng\n*  nội động từ\n- đến, tới, đạt đến\n=shall we get there in time?+ liệu chúng ta có đến đó kịp giờ không?\n=to get there+ (từ lóng) thành công\n- trở nên, trở thành, thành ra, đi đến chỗ\n=to get fat+ (trở nên) béo ra\n=to get old+ (trở nên) già đi\n=to get better+ đã đỡ, đã khá hơn (người ốm)\n=to get well+ đã khỏi (người ốm)\n- bắt đầu\n=to get to work+ khởi công, bắt đầu làm\n=they got talking+ chúng nó bắt đầu nói chuyện\n- (từ lóng) cút đi, chuồn\n@Chuyên ngành kỹ thuật\n-có được\n-được\n-khai thác\n-lấy\n-nhận được\n@Lĩnh vực: hóa học & vật liệu\n-biến thành\n-thu được\n-trở thành
-
+get	
+@get /get/
+*  ngoại động từ got,  got,  gotten
+- được, có được, kiếm được, lấy được=to get a living
++ kiếm sống=to get little by it
++ không được lợi lộc gì ở cái đó=to get fame
++ nổi tiếng
+- nhận được, xin được, hỏi được=to get a telegram
++ nhận được một bức điện tín=he couldn't get leave from his father
++ nó không xin được phép của bố nó
+- tìm ra, tính ra=to get 9 on the average
++ tính trung bình được 9
+- mua=to get a new hat
++ mua một cái mũ mới=to get a ticket
++ mua một cái vé
+- học (thuộc lòng)=to get something by heart
++ học thuộc lòng điều gì
+- mắc phải=to get an illness
++ mắc bệnh
+- (thông tục) ăn=to get one's breakfast
++ ăn sáng
+- bắt được (cá, thú rừng...); đem về, thu về (thóc...)
+- (thông tục) hiểu được, nắm được (ý...)=I don't get you
++ tôi không hiểu ý anh=to get it right
++ hiểu một cách đúng đắn điều đó=to get the cue
++ nắm được ngụ ý
+- đưa, mang, chuyền, đem, đi lấy=to get the table through the window
++ chuyển cái bàn qua cửa sổ=get me a chair
++ đi lấy cho tôi một cái ghế, mang cho tôi một cái ghế
+- bị, chịu=to get a blow
++ bị một đòn=to get a fall
++ bị ngã=to get one's arm broken
++ bị gãy tay=to get it
++ bị trừng phạt, bị mắng nhiếc
+- (thông tục) dồn (ai) vào thế bí, dồn (ai) vào chân tường; làm (ai) bối rối lúng túng không biết ăn nói ra sao=ah! I've got you there!
++ à! thế là tôi làm cho anh bị bối rối nhé!
+- làm cho, khiến cho=to get somebody to speak
++ làm cho ai phải nói=he could not get the door open
++ hắn không làm thế nào mở được cửa ra=to get the low observed
++ làm cho pháp luật được tôn trọng=to get somebody with child
++ làm cho ai có mang=to get some job done
++ làm xong một việc gì
+- sai ai, bảo ai, nhờ ai (làm gì)=to get one's hair cut
++ đi cắt tóc
+- (thông tục) to have got có, phải=I've got very little money
++ tôi có rất ít tiền=it has got to be done
++ phải làm việc đó
+- sinh, đẻ (thú vật; ít khi dùng cho người)
+- tìm hộ, mua hộ, xoay hộ, cung cấp=to get [for] someone a football match ticket
++ tìm mua (xoay hộ) cho ai một vé đi xem đá bóng
+*  nội động từ
+- đến, tới, đạt đến=shall we get there in time?
++ liệu chúng ta có đến đó kịp giờ không?=to get there
++ (từ lóng) thành công
+- trở nên, trở thành, thành ra, đi đến chỗ=to get fat
++ (trở nên) béo ra=to get old
++ (trở nên) già đi=to get better
++ đã đỡ, đã khá hơn (người ốm)=to get well
++ đã khỏi (người ốm)
+- bắt đầu=to get to work
++ khởi công, bắt đầu làm=they got talking
++ chúng nó bắt đầu nói chuyện
+- (từ lóng) cút đi, chuồn
+@Chuyên ngành kỹ thuật
+-có được
+-được
+-khai thác
+-lấy
+-nhận được
+@Lĩnh vực: hóa học & vật liệu
+-biến thành
+-thu được
+-trở thành

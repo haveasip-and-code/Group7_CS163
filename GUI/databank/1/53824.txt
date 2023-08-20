@@ -1,3 +1,12 @@
-strutting
-	@Chuyên ngành kỹ thuật\n-chống\n-giằng\n-hệ thanh giằng\n-sự giằng\n@Lĩnh vực: xây dựng\n-hệ cột\n-hệ thanh giằng (giũa các đầu sàn)\n-hệ thống giằng\n-sự chống đỡ (xà dọc mái)\n@Lĩnh vực: hóa học & vật liệu\n-hệ thanh tựa
-
+strutting	@Chuyên ngành kỹ thuật
+-chống
+-giằng
+-hệ thanh giằng
+-sự giằng
+@Lĩnh vực: xây dựng
+-hệ cột
+-hệ thanh giằng (giũa các đầu sàn)
+-hệ thống giằng
+-sự chống đỡ (xà dọc mái)
+@Lĩnh vực: hóa học & vật liệu
+-hệ thanh tựa

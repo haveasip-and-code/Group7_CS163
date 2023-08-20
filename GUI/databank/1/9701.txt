@@ -1,3 +1,5 @@
-cleans
-	@Chuyên ngành kỹ thuật\n-đã tuyển\n-nguyên chất\n-sạch
-
+cleans	
+@Chuyên ngành kỹ thuật
+-đã tuyển
+-nguyên chất
+-sạch

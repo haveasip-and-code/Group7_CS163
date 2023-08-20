@@ -1,3 +1,5 @@
-phonetics
-	@phonetics /fou'netiks/\n*  danh từ,  số nhiều dùng như số ít\n- ngữ âm học\n@Chuyên ngành kỹ thuật\n-ngữ âm học
-
+phonetics	@phonetics /fou'netiks/
+*  danh từ,  số nhiều dùng như số ít
+- ngữ âm học
+@Chuyên ngành kỹ thuật
+-ngữ âm học

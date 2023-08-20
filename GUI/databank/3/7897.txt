@@ -1,3 +1,15 @@
-captive
-	@captive /'kæptiv/\n*  tính từ\n- bị bắt giữ, bị giam cầm\n=to be in a captive state+ trong tình trạng bị giam cầm\n=to hold captive+ bắt giữ (ai)\n*  danh từ\n- tù nhân, người bị bắt giữ\n=to be taken captive+ bị bắt giữ\n@Chuyên ngành kỹ thuật\n-bị bắt\n-cố định\n@Lĩnh vực: vật lý\n-bị giữ\n@Lĩnh vực: xây dựng\n-bị nhốt
-
+captive	@captive /'kæptiv/
+*  tính từ
+- bị bắt giữ, bị giam cầm
+=to be in a captive state+ trong tình trạng bị giam cầm
+=to hold captive+ bắt giữ (ai)
+*  danh từ
+- tù nhân, người bị bắt giữ
+=to be taken captive+ bị bắt giữ
+@Chuyên ngành kỹ thuật
+-bị bắt
+-cố định
+@Lĩnh vực: vật lý
+-bị giữ
+@Lĩnh vực: xây dựng
+-bị nhốt

@@ -1,3 +1,57 @@
-standard
-	@standard /'stændəd/\n*  danh từ\n- cờ hiệu, cờ (đen & bóng)\n=to raise the standard of solidarity+ giương ngọn cờ đoàn kết\n- (thực vật học) cánh cờ (của hoa đậu...)\n- tiêu chuẩn, chuẩn, mẫu\n=standard meter+ mét tiêu chuẩn\n- trình độ, mức\n=to come up to the standard+ đạt trình độ\n=standard of living+ mức sống\n- chất lượng trung bình\n=work of an indifferent standard+ công việc chất lượng xoàng\n- lớp học (ở các trường cấp hai); hạng, thứ (ở trường cấp một)\n- bản vị (vàng, bạc trong hệ thống tiền tệ)\n=gold standard+ bản vị vàng\n- chân, cột (đèn)\n- cây mọc đứng\n- Xtanđa (đơn vị đo gỗ bằng khoảng 4, 500 m3)\n@Chuyên ngành kinh tế\n-bản vị\n-bản vị (vàng, bạc)\n-chuẩn\n-chuẩn độ (vàng bạc)\n-chuẩn độ (vàng, bạc)\n-chuẩn mức\n-mức (sinh hoạt...)\n-quy cách\n-thành sắc (tỉ lệ kim loại quý trong đồng tiền đúc)\n-tiêu chuẩn\n-tiêu chuẩn đo đường\n-tiêu chuẩn đo lường\n-tuổi\n-xtanđa\n@Chuyên ngành kỹ thuật\n-bệ đỡ\n-chuẩn\n-cờ hiệu\n-cột\n-định mức\n-đơn vị đo lường\n-giá đỡ\n-mẫu\n-mẫu chuẩn\n-mẫu vật\n-mức\n-quy phạm\n-sự ngầm định\n-thanh giằng\n-tiêu chuẩn\n-vật mẫu\n-vi phạm\n@Lĩnh vực: cơ khí & công trình\n-calip kiểm tra\n@Lĩnh vực: y học\n-tiêu chuẩn, chuẩn, mẫu\n@Lĩnh vực: xây dựng\n-trụ đèn cột đèn
-
+standard	@standard /'stændəd/
+*  danh từ
+- cờ hiệu, cờ (đen & bóng)
+=to raise the standard of solidarity+ giương ngọn cờ đoàn kết
+- (thực vật học) cánh cờ (của hoa đậu...)
+- tiêu chuẩn, chuẩn, mẫu
+=standard meter+ mét tiêu chuẩn
+- trình độ, mức
+=to come up to the standard+ đạt trình độ
+=standard of living+ mức sống
+- chất lượng trung bình
+=work of an indifferent standard+ công việc chất lượng xoàng
+- lớp học (ở các trường cấp hai); hạng, thứ (ở trường cấp một)
+- bản vị (vàng, bạc trong hệ thống tiền tệ)
+=gold standard+ bản vị vàng
+- chân, cột (đèn)
+- cây mọc đứng
+- Xtanđa (đơn vị đo gỗ bằng khoảng 4, 500 m3)
+@Chuyên ngành kinh tế
+-bản vị
+-bản vị (vàng, bạc)
+-chuẩn
+-chuẩn độ (vàng bạc)
+-chuẩn độ (vàng, bạc)
+-chuẩn mức
+-mức (sinh hoạt...)
+-quy cách
+-thành sắc (tỉ lệ kim loại quý trong đồng tiền đúc)
+-tiêu chuẩn
+-tiêu chuẩn đo đường
+-tiêu chuẩn đo lường
+-tuổi
+-xtanđa
+@Chuyên ngành kỹ thuật
+-bệ đỡ
+-chuẩn
+-cờ hiệu
+-cột
+-định mức
+-đơn vị đo lường
+-giá đỡ
+-mẫu
+-mẫu chuẩn
+-mẫu vật
+-mức
+-quy phạm
+-sự ngầm định
+-thanh giằng
+-tiêu chuẩn
+-vật mẫu
+-vi phạm
+@Lĩnh vực: cơ khí & công trình
+-calip kiểm tra
+@Lĩnh vực: y học
+-tiêu chuẩn, chuẩn, mẫu
+@Lĩnh vực: xây dựng
+-trụ đèn cột đèn

@@ -1,3 +1,2 @@
-weekdays
-	@Chuyên ngành kỹ thuật\n-ngày trong tuần
-
+weekdays	@Chuyên ngành kỹ thuật
+-ngày trong tuần

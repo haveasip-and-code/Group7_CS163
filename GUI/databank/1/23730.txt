@@ -1,3 +1,8 @@
-glyph
-	@glyph\n* danh từ\n- nét chạm (chạm; khắc)\n- trang trí chạm\n@Chuyên ngành kỹ thuật\n-nét khắc\n-nét trạm
-
+glyph	
+@glyph
+* danh từ
+- nét chạm (chạm; khắc)
+- trang trí chạm
+@Chuyên ngành kỹ thuật
+-nét khắc
+-nét trạm

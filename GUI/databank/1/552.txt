@@ -1,3 +1,4 @@
-acquired
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mắc phải mô tả tình trạng hoặc bệnh mắc khi sau khi sinh và không liên quan gì tới những nguyên nhân di truyền
-
+acquired	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-mắc phải mô tả tình trạng hoặc bệnh mắc khi sau khi sinh và không liên quan gì tới những nguyên nhân di truyền

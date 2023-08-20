@@ -1,3 +1,11 @@
-photomultiplier
-	@photomultiplier\n* danh từ\n- (điện học) bộ nhân quang\n@Chuyên ngành kỹ thuật\n-bộ nhân quang electron\n@Lĩnh vực: toán & tin\n-bộ nhân quang\n@Lĩnh vực: điện\n-bộ nhân quang điện\n@Lĩnh vực: điện lạnh\n-ống nhân quang điện
-
+photomultiplier	@photomultiplier
+* danh từ
+- (điện học) bộ nhân quang
+@Chuyên ngành kỹ thuật
+-bộ nhân quang electron
+@Lĩnh vực: toán & tin
+-bộ nhân quang
+@Lĩnh vực: điện
+-bộ nhân quang điện
+@Lĩnh vực: điện lạnh
+-ống nhân quang điện

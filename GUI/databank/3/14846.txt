@@ -1,3 +1,19 @@
-destination
-	@destination /,desti'neiʃn/\n*  danh từ\n- nơi gửi tới, nơi đưa tới, nơi đi tới\n- sự dự định; mục đích dự định\n@Chuyên ngành kinh tế\n-cảng đến\n-cảng mục đích\n-điểm đến\n-nơi đến\n@Chuyên ngành kỹ thuật\n-bia\n-đích\n-nơi đến\n@Lĩnh vực: điện tử & viễn thông\n-điểm đến\n@Lĩnh vực: toán & tin\n-điểm đích\n@Lĩnh vực: điện\n-nơi gửi
-
+destination	@destination /,desti'neiʃn/
+*  danh từ
+- nơi gửi tới, nơi đưa tới, nơi đi tới
+- sự dự định; mục đích dự định
+@Chuyên ngành kinh tế
+-cảng đến
+-cảng mục đích
+-điểm đến
+-nơi đến
+@Chuyên ngành kỹ thuật
+-bia
+-đích
+-nơi đến
+@Lĩnh vực: điện tử & viễn thông
+-điểm đến
+@Lĩnh vực: toán & tin
+-điểm đích
+@Lĩnh vực: điện
+-nơi gửi

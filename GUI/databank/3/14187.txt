@@ -1,3 +1,5 @@
-deionization
-	@Chuyên ngành kỹ thuật\n-sự khử ion\n@Lĩnh vực: hóa học & vật liệu\n-ngăn ion hóa\n-mất ion hóa
-
+deionization	@Chuyên ngành kỹ thuật
+-sự khử ion
+@Lĩnh vực: hóa học & vật liệu
+-ngăn ion hóa
+-mất ion hóa

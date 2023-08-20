@@ -1,3 +1,79 @@
-tender
-	@tender /'tendə/\n*  tính từ\n- mềm\n=tender meat+ thịt mềm\n- non\n=tender grass+ cỏ non\n=to be of tender age+ còn non trẻ\n- dịu, phơn phớt\n=tender green+ màu lục dịu\n- mỏng mảnh, mảnh dẻ, yếu ớt\n- nhạy cảm, dễ cảm, dễ xúc động\n=a tender heart+ trái tim dễ xúc động, tấm lòng nhạy cảm\n- dịu dàng, êm ái, mềm mỏng, dễ thương, dễ thương, âu yếm\n=a tender mother+ bà mẹ dịu dàng\n- tế nhị, tinh vị, khó xử, khó nghĩ\n=a tender subject (question)+ một vấn đề tế nhị\n=a tender place (spot)+ điểm dễ làm chạm lòng\n- kỹ lưỡng, cẩn thận, thận trọng, giữ gìn; rụt rè, câu nệ\n=very tender of one's honour+ rất thận trọng giữ gìn danh dự\n*  danh từ\n- người trôn nom, người chăn, người giữ\n- toa than, toa nước (xe lửa)\n- (hàng hải) tàu liên lạc, xuống tiếp liệu\n- sự đề nghị, sự mời, sự yêu cầu\n- sự bỏ thầu\n*  ngoại động từ\n- đề nghị, mời, yêu cầu, xin\n=to tender one's service+ đề nghị xin được phục vụ\n=to tender one's resignation+ đưa đơn xin từ chức\n- (pháp lý) bắt thề, bắt tuyên thệ\n=to tender an oath to someone+ bắt người nào thề\n- bỏ thầu\n=to tender money+ bỏ thầu tiền mặt\n*  nội động từ\n- bỏ thầu\n=to tender for the construction of a bridge+ bỏ thầu xây dựng một cái cầu\n@Chuyên ngành kinh tế\n-bỏ thầu\n-đấu thầu\n-đề nghị\n-đệ trình\n-đề xuất\n-dung cấp, bỏ thầu, đấu thầu\n-mời thầu\n-phương tiện thanh toán\n-sự bỏ thầu\n-sự cung cấp\n-sự đề suất\n-sự đề xuất\n-sự gọi thầu\n-sự gọi thầu, mời thầu\n-tàu cung ứng\n-tàu liên lạc\n-tàu nhỏ bốc dỡ hàng (từ tàu lớn)\n-tàu phụ thuộc\n-tàu tiếp liệu\n-vật cung cấp\n@Lĩnh vực: ttck\n-giá đệm, bỏ thầu, giao, tiền theo pháp luật (tiền hợp pháp)\n@Chuyên ngành kỹ thuật\n-đấu thầu\n-định giá\n-dự toán\n-giấy nhận thầu\n-gọi thầu\n-sự đấu thầu\n-tàu cung ứng\n-tàu hỗ trợ\n-thợ máy\n@Lĩnh vực: xây dựng\n-bảng dự toán, bỏ thầu\n@Lĩnh vực: cơ khí & công trình\n-ống vặn căng\n@Lĩnh vực: giao thông & vận tải\n-tàu tiếp tế\n-toa than nước\n@Lĩnh vực: điện\n-việc báo giá thầu\n-việc đấu thầu
-
+tender	@tender /'tendə/
+*  tính từ
+- mềm
+=tender meat+ thịt mềm
+- non
+=tender grass+ cỏ non
+=to be of tender age+ còn non trẻ
+- dịu, phơn phớt
+=tender green+ màu lục dịu
+- mỏng mảnh, mảnh dẻ, yếu ớt
+- nhạy cảm, dễ cảm, dễ xúc động
+=a tender heart+ trái tim dễ xúc động, tấm lòng nhạy cảm
+- dịu dàng, êm ái, mềm mỏng, dễ thương, dễ thương, âu yếm
+=a tender mother+ bà mẹ dịu dàng
+- tế nhị, tinh vị, khó xử, khó nghĩ
+=a tender subject (question)+ một vấn đề tế nhị
+=a tender place (spot)+ điểm dễ làm chạm lòng
+- kỹ lưỡng, cẩn thận, thận trọng, giữ gìn; rụt rè, câu nệ
+=very tender of one's honour+ rất thận trọng giữ gìn danh dự
+*  danh từ
+- người trôn nom, người chăn, người giữ
+- toa than, toa nước (xe lửa)
+- (hàng hải) tàu liên lạc, xuống tiếp liệu
+- sự đề nghị, sự mời, sự yêu cầu
+- sự bỏ thầu
+*  ngoại động từ
+- đề nghị, mời, yêu cầu, xin
+=to tender one's service+ đề nghị xin được phục vụ
+=to tender one's resignation+ đưa đơn xin từ chức
+- (pháp lý) bắt thề, bắt tuyên thệ
+=to tender an oath to someone+ bắt người nào thề
+- bỏ thầu
+=to tender money+ bỏ thầu tiền mặt
+*  nội động từ
+- bỏ thầu
+=to tender for the construction of a bridge+ bỏ thầu xây dựng một cái cầu
+@Chuyên ngành kinh tế
+-bỏ thầu
+-đấu thầu
+-đề nghị
+-đệ trình
+-đề xuất
+-dung cấp, bỏ thầu, đấu thầu
+-mời thầu
+-phương tiện thanh toán
+-sự bỏ thầu
+-sự cung cấp
+-sự đề suất
+-sự đề xuất
+-sự gọi thầu
+-sự gọi thầu, mời thầu
+-tàu cung ứng
+-tàu liên lạc
+-tàu nhỏ bốc dỡ hàng (từ tàu lớn)
+-tàu phụ thuộc
+-tàu tiếp liệu
+-vật cung cấp
+@Lĩnh vực: ttck
+-giá đệm, bỏ thầu, giao, tiền theo pháp luật (tiền hợp pháp)
+@Chuyên ngành kỹ thuật
+-đấu thầu
+-định giá
+-dự toán
+-giấy nhận thầu
+-gọi thầu
+-sự đấu thầu
+-tàu cung ứng
+-tàu hỗ trợ
+-thợ máy
+@Lĩnh vực: xây dựng
+-bảng dự toán, bỏ thầu
+@Lĩnh vực: cơ khí & công trình
+-ống vặn căng
+@Lĩnh vực: giao thông & vận tải
+-tàu tiếp tế
+-toa than nước
+@Lĩnh vực: điện
+-việc báo giá thầu
+-việc đấu thầu

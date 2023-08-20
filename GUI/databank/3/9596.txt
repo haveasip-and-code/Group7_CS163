@@ -1,3 +1,64 @@
-clamp
-	@clamp /klæmp/\n*  danh từ\n- đống (gạch để nung, đất, rơm...)\n*  ngoại động từ\n- chất thành đống, xếp thành đống\n*  danh từ\n- cái kẹp, bàn kẹp; cái giữ (nói chung)\n*  ngoại động từ\n- cặp, chặt lại; kẹp chặt lại, giữ chặt lại\n- (thông tục) (+ down upon) kiểm soát chặt chẽ hơn\n- (thông tục) (+ down) tăng cường (sự kiểm tra...)\n@Chuyên ngành kinh tế\n-cái ghim\n-cái kẹp\n@Chuyên ngành kỹ thuật\n-bàn kẹp\n-bộ kẹp\n-bulông siết\n-cái cặp\n-cái định vị\n-cái kìm\n-cái móc\n-cặp kẹp\n-chốt giữ\n-díp\n-đồ gá kẹp\n-đống gạch để nung\n-đống vật liệu\n-ê tô\n-ép\n-giữ\n-giữ chặt\n-kẹp\n-kẹp cáp\n-khóa\n-kìm\n-neo\n-măng sông\n-mỏ cặp\n-móc\n-móc kẹp\n-móc sắt\n-ống kẹp\n-ống nối\n-siết\n-siết (bằng mâm cặp)\n-sự cặp\n-sự kẹp\n-sự móc\n-tay cầm\n-tay hãm\n-then cài\n-thiết bị kẹp\n-vành tỳ\n-vít siết\n-vòng kẹp\n-vòng siết\n-vòng xiết\n-xiết\n@Lĩnh vực: xây dựng\n-ép xiết\n@Lĩnh vực: cơ khí & công trình\n-gá kẹp\n-tốc
-
+clamp	@clamp /klæmp/
+*  danh từ
+- đống (gạch để nung, đất, rơm...)
+*  ngoại động từ
+- chất thành đống, xếp thành đống
+*  danh từ
+- cái kẹp, bàn kẹp; cái giữ (nói chung)
+*  ngoại động từ
+- cặp, chặt lại; kẹp chặt lại, giữ chặt lại
+- (thông tục) (+ down upon) kiểm soát chặt chẽ hơn
+- (thông tục) (+ down) tăng cường (sự kiểm tra...)
+@Chuyên ngành kinh tế
+-cái ghim
+-cái kẹp
+@Chuyên ngành kỹ thuật
+-bàn kẹp
+-bộ kẹp
+-bulông siết
+-cái cặp
+-cái định vị
+-cái kìm
+-cái móc
+-cặp kẹp
+-chốt giữ
+-díp
+-đồ gá kẹp
+-đống gạch để nung
+-đống vật liệu
+-ê tô
+-ép
+-giữ
+-giữ chặt
+-kẹp
+-kẹp cáp
+-khóa
+-kìm
+-neo
+-măng sông
+-mỏ cặp
+-móc
+-móc kẹp
+-móc sắt
+-ống kẹp
+-ống nối
+-siết
+-siết (bằng mâm cặp)
+-sự cặp
+-sự kẹp
+-sự móc
+-tay cầm
+-tay hãm
+-then cài
+-thiết bị kẹp
+-vành tỳ
+-vít siết
+-vòng kẹp
+-vòng siết
+-vòng xiết
+-xiết
+@Lĩnh vực: xây dựng
+-ép xiết
+@Lĩnh vực: cơ khí & công trình
+-gá kẹp
+-tốc

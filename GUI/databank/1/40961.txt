@@ -1,3 +1,14 @@
-petroleum
-	@petroleum /pi'trouljəm/\n*  danh từ\n- dầu mỏ\n- dầu lửa\n@Chuyên ngành kinh tế\n-dầu mỏ\n@Chuyên ngành kỹ thuật\n-dầu lửa\n-dầu mỏ\n-dầu thô\n@Lĩnh vực: xây dựng\n-dầu hỏa nguyên chất\n@Lĩnh vực: hóa học & vật liệu\n-dầu mỏ, dầu hỏa
-
+petroleum	@petroleum /pi'trouljəm/
+*  danh từ
+- dầu mỏ
+- dầu lửa
+@Chuyên ngành kinh tế
+-dầu mỏ
+@Chuyên ngành kỹ thuật
+-dầu lửa
+-dầu mỏ
+-dầu thô
+@Lĩnh vực: xây dựng
+-dầu hỏa nguyên chất
+@Lĩnh vực: hóa học & vật liệu
+-dầu mỏ, dầu hỏa

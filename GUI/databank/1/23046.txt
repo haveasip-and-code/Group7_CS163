@@ -1,3 +1,27 @@
-gathering
-	@gathering /'gæðəriɳ/\n*  danh từ\n- sự tụ họ; cuộc hội họp\n- sự hái; sự gặt, sự thu nhặt, sự dồn lại\n- sự lấy lại (sức khoẻ)\n- (y học) sự mưng mủ\n@Chuyên ngành kinh tế\n-cuộc hội họp\n@Chuyên ngành kỹ thuật\n-bộ gom\n-sự gặt hái\n-sự tập hợp\n-sự tập trung\n-sự thu gom\n-sự thu hoạch\n-sự thu nhập\n-sự thu thập\n-sự thu trang\n-thu nhập\n@Lĩnh vực: hóa học & vật liệu\n-sự gom\n@Lĩnh vực: dệt may\n-sự lấy chun\n-sự lấy lại\n-sự tạo chun\n-sự tạo nhăn
-
+gathering	
+@gathering /'gæðəriɳ/
+*  danh từ
+- sự tụ họ; cuộc hội họp
+- sự hái; sự gặt, sự thu nhặt, sự dồn lại
+- sự lấy lại (sức khoẻ)
+- (y học) sự mưng mủ
+@Chuyên ngành kinh tế
+-cuộc hội họp
+@Chuyên ngành kỹ thuật
+-bộ gom
+-sự gặt hái
+-sự tập hợp
+-sự tập trung
+-sự thu gom
+-sự thu hoạch
+-sự thu nhập
+-sự thu thập
+-sự thu trang
+-thu nhập
+@Lĩnh vực: hóa học & vật liệu
+-sự gom
+@Lĩnh vực: dệt may
+-sự lấy chun
+-sự lấy lại
+-sự tạo chun
+-sự tạo nhăn

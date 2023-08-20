@@ -1,3 +1,4 @@
-morphic
-	@morphic\n* tính từ\n- hình thái học\n- thuộc hình thức
-
+morphic	@morphic
+* tính từ
+- hình thái học
+- thuộc hình thức

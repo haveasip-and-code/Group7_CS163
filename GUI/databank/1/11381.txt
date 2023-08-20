@@ -1,3 +1,13 @@
-constantan
-	@constantan\n- (Tech) hợp kim kền-đồng, côngtantan\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hợp chất đồng_nikel\n@Lĩnh vực: điện\n-hợp kim công-tăng-tăng\n@Lĩnh vực: điện lạnh\n-hợp kim constantan
-
+constantan	
+@constantan
+- (Tech) hợp kim kền
+-đồng, côngtantan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hợp chất đồng_nikel
+@Lĩnh vực: điện
+-hợp kim công
+-tăng
+-tăng
+@Lĩnh vực: điện lạnh
+-hợp kim constantan

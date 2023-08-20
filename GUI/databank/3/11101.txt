@@ -1,3 +1,2 @@
-conformational
-	@conformational\n- xem conformation
-
+conformational	@conformational
+- xem conformation

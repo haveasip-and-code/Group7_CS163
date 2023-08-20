@@ -1,3 +1,5 @@
-pinholes
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lỗ bu lông\n@Lĩnh vực: xây dựng\n-lỗ nhỏ (khuyết tật trên bề mặt bê tông)
-
+pinholes	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-lỗ bu lông
+@Lĩnh vực: xây dựng
+-lỗ nhỏ (khuyết tật trên bề mặt bê tông)

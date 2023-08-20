@@ -1,3 +1,12 @@
-foaming
-	@foaming\n* danh từ\n- sự sủi bọt, sự nổi bọt, sự tạo bọt\n@Chuyên ngành kỹ thuật\n-sự tạo bọt\n-sự tạo bọt, sự nổi bọt\n-sủi bọt\n@Lĩnh vực: điện\n-sự sủi bọt\n@Lĩnh vực: hóa học & vật liệu\n-tạo bọt
-
+foaming	
+@foaming
+* danh từ
+- sự sủi bọt, sự nổi bọt, sự tạo bọt
+@Chuyên ngành kỹ thuật
+-sự tạo bọt
+-sự tạo bọt, sự nổi bọt
+-sủi bọt
+@Lĩnh vực: điện
+-sự sủi bọt
+@Lĩnh vực: hóa học & vật liệu
+-tạo bọt

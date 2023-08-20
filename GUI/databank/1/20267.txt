@@ -1,3 +1,4 @@
-facture
-	@facture\n* danh từ\n- cách làm (tác phẩm (nghệ thuật))
-
+facture	
+@facture
+* danh từ
+- cách làm (tác phẩm (nghệ thuật))

@@ -1,3 +1,14 @@
-locking
-	@locking\n* danh từ\n- sự khoá, chốt\n- sự điều khiển cửa âu\n@Chuyên ngành kỹ thuật\n-cái chặn\n-sự bám sát\n-sự chắn\n-sự chặn\n-sự chẹn\n-sự chốt\n-sự khóa\n@Lĩnh vực: điện\n-việc khóa
-
+locking	@locking
+* danh từ
+- sự khoá, chốt
+- sự điều khiển cửa âu
+@Chuyên ngành kỹ thuật
+-cái chặn
+-sự bám sát
+-sự chắn
+-sự chặn
+-sự chẹn
+-sự chốt
+-sự khóa
+@Lĩnh vực: điện
+-việc khóa

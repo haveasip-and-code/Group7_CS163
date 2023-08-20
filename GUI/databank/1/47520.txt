@@ -1,3 +1,10 @@
-revoke
-	@revoke /ri'vouk/\n*  ngoại động từ\n- huỷ bỏ, thủ tiêu (sắc lệnh...); rút lui (quyết định, lời hứa...)\n- thu hồi (giấy phép)\n*  nội động từ\n- (đánh bài) không ra một con bài cùng hoa (mắc dầu có trên tay)\n*  danh từ\n- (đánh bài) sự không ra một con bài cùng hoa (mắc dầu có trên tay)\n@Chuyên ngành kỹ thuật\n-hủy bỏ
-
+revoke	@revoke /ri'vouk/
+*  ngoại động từ
+- huỷ bỏ, thủ tiêu (sắc lệnh...); rút lui (quyết định, lời hứa...)
+- thu hồi (giấy phép)
+*  nội động từ
+- (đánh bài) không ra một con bài cùng hoa (mắc dầu có trên tay)
+*  danh từ
+- (đánh bài) sự không ra một con bài cùng hoa (mắc dầu có trên tay)
+@Chuyên ngành kỹ thuật
+-hủy bỏ

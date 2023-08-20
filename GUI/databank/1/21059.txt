@@ -1,3 +1,60 @@
-fin
-	@fin /fin/\n*  danh từ\n- người Phần lan ((cũng) Finn)\n- vây cá\n- bộ thăng bằng (của máy bay)\n- (kỹ thuật) sườn, cạnh bên, rìa\n- (từ lóng) bàn tay\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tờ năm đô la\n@Chuyên ngành kinh tế\n-sườn\n-vây cá\n@Chuyên ngành kỹ thuật\n-bộ ổn định\n-cánh\n-cạnh\n-độ hở\n-đường rãnh\n-gân\n-gờ\n-gờ tản nhiệt\n-khe hở\n-rìa ép\n-rìa xờm\n-sống\n-sườn\n-xờm ép\n@Lĩnh vực: cơ khí & công trình\n-bavia ( lá tản nhiệt)\n@Lĩnh vực: hóa học & vật liệu\n-bavia, rìa\n-lá tản nhiệt\n@Lĩnh vực: giao thông & vận tải\n-cánh (đóng tầu)\n@Lĩnh vực: xây dựng\n-vết ghép\n@Chuyên ngành kỹ thuật\n-bộ ổn định\n-cánh\n-cạnh\n-độ hở\n-đường rãnh\n-gân\n-gờ\n-gờ tản nhiệt\n-khe hở\n-rìa ép\n-rìa xờm\n-sống\n-sườn\n-xờm ép\n@Lĩnh vực: cơ khí & công trình\n-bavia ( lá tản nhiệt)\n@Lĩnh vực: hóa học & vật liệu\n-bavia, rìa\n-lá tản nhiệt\n@Lĩnh vực: giao thông & vận tải\n-cánh (đóng tầu)\n@Lĩnh vực: xây dựng\n-vết ghép
-
+fin	
+@fin /fin/
+*  danh từ
+- người Phần lan ((cũng) Finn)
+- vây cá
+- bộ thăng bằng (của máy bay)
+- (kỹ thuật) sườn, cạnh bên, rìa
+- (từ lóng) bàn tay
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tờ năm đô la
+@Chuyên ngành kinh tế
+-sườn
+-vây cá
+@Chuyên ngành kỹ thuật
+-bộ ổn định
+-cánh
+-cạnh
+-độ hở
+-đường rãnh
+-gân
+-gờ
+-gờ tản nhiệt
+-khe hở
+-rìa ép
+-rìa xờm
+-sống
+-sườn
+-xờm ép
+@Lĩnh vực: cơ khí & công trình
+-bavia ( lá tản nhiệt)
+@Lĩnh vực: hóa học & vật liệu
+-bavia, rìa
+-lá tản nhiệt
+@Lĩnh vực: giao thông & vận tải
+-cánh (đóng tầu)
+@Lĩnh vực: xây dựng
+-vết ghép
+@Chuyên ngành kỹ thuật
+-bộ ổn định
+-cánh
+-cạnh
+-độ hở
+-đường rãnh
+-gân
+-gờ
+-gờ tản nhiệt
+-khe hở
+-rìa ép
+-rìa xờm
+-sống
+-sườn
+-xờm ép
+@Lĩnh vực: cơ khí & công trình
+-bavia ( lá tản nhiệt)
+@Lĩnh vực: hóa học & vật liệu
+-bavia, rìa
+-lá tản nhiệt
+@Lĩnh vực: giao thông & vận tải
+-cánh (đóng tầu)
+@Lĩnh vực: xây dựng
+-vết ghép

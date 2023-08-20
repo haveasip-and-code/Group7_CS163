@@ -1,3 +1,83 @@
-section
-	@section /'sekʃn/\n*  danh từ\n- sự cắt; chỗ cắt\n- phần cắt ra, đoạn cắt ra\n- khu vực\n- tiết đoạn (một quyển sách)\n- mặt cắt, tiết diện\n=vertical section+ mặt cắt đứng\n=horizontal section+ mặt cắt ngang\n- phân chi (đơn vị phân loại dưới giống, trên loài)\n- (quân sự) tiểu đội\n- (sinh vật học) lát cắt\n=microscopic section+ lát cắt để nhìn qua kính hiển vi\n- tầng lớp nhân dân\n=he was popular with all section and classes+ ông ấy được mọi tầng lớp, mọi giai cấp yêu mến\n*  ngoại động từ\n- cắt, chia ra từng phần, sắp xếp thành từng nhóm, phân chia ra thành đoạn, phân chia thành khu vực\n@Chuyên ngành kinh tế\n-bộ môn\n-bộ phận\n-đoạn\n-khoản\n-khu\n-khu vực\n-mặt cắt\n-múi cam\n-ngăn\n-phân bộ\n-sự cắt\n-thùy nhỏ\n-tiết\n-tổ\n@Chuyên ngành kỹ thuật\n-bộ phận\n-cắt\n-chia thành đoạn\n-công đoạn\n-công trường\n-đoạn\n-đoạn ống\n-đơn nguyên\n-khâu\n-khâu (lọc)\n-khu\n-khu vực\n-lát cắt\n-mảng phân đoạn\n-mảnh\n-mặt cắt\n-miền\n-miếng\n-mỏ lộ thiên\n-một phần\n-mục\n-phần\n-phân đoạn\n-sự phân đoạn\n-thép định hình\n-vùng\n@Lĩnh vực: xây dựng\n-biên dạng\n-đoạn đo\n-đoạn đườn sắt\n-đơn nguyên (nhà)\n-khúc ống\n-mặt cắt, phần cắt\n-Phần/ Tiết diện\n-tuyến cắt\n@Lĩnh vực: y học\n-cắt rạch (trong phẫu thuật)\n-cưỡng chế nhập viện\n-lát cắt (trong xem xét dưới kính hiền vi)\n@Lĩnh vực: toán & tin\n-đoạn cắt\n-phân đoạn, phần\n-sự (tương) giao\n@Lĩnh vực: giao thông & vận tải\n-khu đoạn\n-khu gian\n@Lĩnh vực: cơ khí & công trình\n-mẫu mài\n@Lĩnh vực: hóa học & vật liệu\n-một đoạn
-
+section	@section /'sekʃn/
+*  danh từ
+- sự cắt; chỗ cắt
+- phần cắt ra, đoạn cắt ra
+- khu vực
+- tiết đoạn (một quyển sách)
+- mặt cắt, tiết diện
+=vertical section+ mặt cắt đứng
+=horizontal section+ mặt cắt ngang
+- phân chi (đơn vị phân loại dưới giống, trên loài)
+- (quân sự) tiểu đội
+- (sinh vật học) lát cắt
+=microscopic section+ lát cắt để nhìn qua kính hiển vi
+- tầng lớp nhân dân
+=he was popular with all section and classes+ ông ấy được mọi tầng lớp, mọi giai cấp yêu mến
+*  ngoại động từ
+- cắt, chia ra từng phần, sắp xếp thành từng nhóm, phân chia ra thành đoạn, phân chia thành khu vực
+@Chuyên ngành kinh tế
+-bộ môn
+-bộ phận
+-đoạn
+-khoản
+-khu
+-khu vực
+-mặt cắt
+-múi cam
+-ngăn
+-phân bộ
+-sự cắt
+-thùy nhỏ
+-tiết
+-tổ
+@Chuyên ngành kỹ thuật
+-bộ phận
+-cắt
+-chia thành đoạn
+-công đoạn
+-công trường
+-đoạn
+-đoạn ống
+-đơn nguyên
+-khâu
+-khâu (lọc)
+-khu
+-khu vực
+-lát cắt
+-mảng phân đoạn
+-mảnh
+-mặt cắt
+-miền
+-miếng
+-mỏ lộ thiên
+-một phần
+-mục
+-phần
+-phân đoạn
+-sự phân đoạn
+-thép định hình
+-vùng
+@Lĩnh vực: xây dựng
+-biên dạng
+-đoạn đo
+-đoạn đườn sắt
+-đơn nguyên (nhà)
+-khúc ống
+-mặt cắt, phần cắt
+-Phần/ Tiết diện
+-tuyến cắt
+@Lĩnh vực: y học
+-cắt rạch (trong phẫu thuật)
+-cưỡng chế nhập viện
+-lát cắt (trong xem xét dưới kính hiền vi)
+@Lĩnh vực: toán & tin
+-đoạn cắt
+-phân đoạn, phần
+-sự (tương) giao
+@Lĩnh vực: giao thông & vận tải
+-khu đoạn
+-khu gian
+@Lĩnh vực: cơ khí & công trình
+-mẫu mài
+@Lĩnh vực: hóa học & vật liệu
+-một đoạn

@@ -1,3 +1,6 @@
-paraffinic
-	@paraffinic\n- xem paraffin\n@Chuyên ngành kỹ thuật\n-parafin\n@Lĩnh vực: hóa học & vật liệu\n-hợp chất no mạch thẳng
-
+paraffinic	@paraffinic
+- xem paraffin
+@Chuyên ngành kỹ thuật
+-parafin
+@Lĩnh vực: hóa học & vật liệu
+-hợp chất no mạch thẳng

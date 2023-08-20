@@ -1,3 +1,8 @@
-kobo
-	@kobo\n* danh từ\n- đơn vị tiền tệ ở Nigiêria\n@Chuyên ngành kinh tế\n-nông trường quốc doanh\n-nông trường tập thể\n@Chuyên ngành kinh tế\n-đơn vị tiền tệ ở Nigiêria
-
+kobo	@kobo
+* danh từ
+- đơn vị tiền tệ ở Nigiêria
+@Chuyên ngành kinh tế
+-nông trường quốc doanh
+-nông trường tập thể
+@Chuyên ngành kinh tế
+-đơn vị tiền tệ ở Nigiêria

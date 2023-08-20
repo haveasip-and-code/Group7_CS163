@@ -1,3 +1,9 @@
-doorstop
-	@doorstop\n* danh từ\n- vật ngăn không cho cửa đóng lại hoặc va vào tường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chốt cửa\n-đệm cửa\n-thanh đệm cửa
-
+doorstop	
+@doorstop
+* danh từ
+- vật ngăn không cho cửa đóng lại hoặc va vào tường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-chốt cửa
+-đệm cửa
+-thanh đệm cửa

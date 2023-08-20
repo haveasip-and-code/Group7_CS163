@@ -1,3 +1,80 @@
-float
-	@float /float/\n*  danh từ\n- cái phao; phao cứu đắm\n- bè (gỗ...); mảng trôi (băng, rong...)\n- bong bóng (cá)\n- xe ngựa (chở hàng nặng)\n- xe rước, xe diễu hành (không có mui để đặt các thứ lên mà rước khách, mà diễu hành)\n- (sân khấu), ((thường) số nhiều) dãy đèn chiếu trước sân khấu\n- cánh (guồng, nước)\n- cái bay\n- cái giũa có đường khía một chiều\n- (từ hiếm,nghĩa hiếm) sự nổi\n=on the float+ nổi\n*  nội động từ\n- nổi, trôi lềnh bềnh\n=wood floats on water+ gỗ nổi trên mặt nước\n- lơ lửng\n=dust floats in the air+ bụi lơ lửng trong không khí\n- đỡ cho nổi (nước)\n- (thương nghiệp) bắt đầu, khởi công, khởi sự\n- (thương nghiệp) lưu hành, lưu thông; sắp đến hạn trả\n- thoáng qua, phảng phất\n=ideas float through mind+ ý nghĩ thoáng qua trong trí óc\n=visions float before the eyes+ những ảo ảnh phảng phất trước mắt\n*  ngoại động từ\n- thả trôi, làm nổi lên, đỡ nổi\n=to float a raft of logs down a river+ thả bè gỗ trôi sông\n=to float a ship+ làm nổi một chiếc tàu (mắc cạn)\n- làm ngập nước\n- truyền (tin đồn)\n- (thương nghiệp) bắt đầu khởi công, khởi sự (kế hoạch, công trình...)\n- (thương nghiệp) cổ động tuyên truyền cho\n=to float a loan+ cổ động tuyên truyền gọi người cho vay\n@Chuyên ngành kinh tế\n-bong bóng cá\n-cái phao\n-tiền dùng hàng ngày\n-tiền nổi\n-tiền tạm ứng\n@Chuyên ngành kỹ thuật\n-bàn xoa\n-bè gỗ\n-cái bay\n-cái giũa\n-giũa băm thô\n-làm cho nổi\n-nổi\n-mực nước\n-phần đệm\n-phao\n-phao cacbuaratơ\n-sản lượng dư\n@Lĩnh vực: ô tô\n-cái phao\n@Lĩnh vực: cơ khí & công trình\n-cánh (guồng nước)\n-mảng rong rêu\n@Lĩnh vực: đo lường & điều khiển\n-phao đo\n@Chuyên ngành kỹ thuật\n-bàn xoa\n-bè gỗ\n-cái bay\n-cái giũa\n-giũa băm thô\n-làm cho nổi\n-nổi\n-mực nước\n-phần đệm\n-phao\n-phao cacbuaratơ\n-sản lượng dư\n@Lĩnh vực: ô tô\n-cái phao\n@Lĩnh vực: cơ khí & công trình\n-cánh (guồng nước)\n-mảng rong rêu\n@Lĩnh vực: đo lường & điều khiển\n-phao đo
-
+float	
+@float /float/
+*  danh từ
+- cái phao; phao cứu đắm
+- bè (gỗ...); mảng trôi (băng, rong...)
+- bong bóng (cá)
+- xe ngựa (chở hàng nặng)
+- xe rước, xe diễu hành (không có mui để đặt các thứ lên mà rước khách, mà diễu hành)
+- (sân khấu), ((thường) số nhiều) dãy đèn chiếu trước sân khấu
+- cánh (guồng, nước)
+- cái bay
+- cái giũa có đường khía một chiều
+- (từ hiếm,nghĩa hiếm) sự nổi=on the float
++ nổi
+*  nội động từ
+- nổi, trôi lềnh bềnh=wood floats on water
++ gỗ nổi trên mặt nước
+- lơ lửng=dust floats in the air
++ bụi lơ lửng trong không khí
+- đỡ cho nổi (nước)
+- (thương nghiệp) bắt đầu, khởi công, khởi sự
+- (thương nghiệp) lưu hành, lưu thông; sắp đến hạn trả
+- thoáng qua, phảng phất=ideas float through mind
++ ý nghĩ thoáng qua trong trí óc=visions float before the eyes
++ những ảo ảnh phảng phất trước mắt
+*  ngoại động từ
+- thả trôi, làm nổi lên, đỡ nổi=to float a raft of logs down a river
++ thả bè gỗ trôi sông=to float a ship
++ làm nổi một chiếc tàu (mắc cạn)
+- làm ngập nước
+- truyền (tin đồn)
+- (thương nghiệp) bắt đầu khởi công, khởi sự (kế hoạch, công trình...)
+- (thương nghiệp) cổ động tuyên truyền cho=to float a loan
++ cổ động tuyên truyền gọi người cho vay
+@Chuyên ngành kinh tế
+-bong bóng cá
+-cái phao
+-tiền dùng hàng ngày
+-tiền nổi
+-tiền tạm ứng
+@Chuyên ngành kỹ thuật
+-bàn xoa
+-bè gỗ
+-cái bay
+-cái giũa
+-giũa băm thô
+-làm cho nổi
+-nổi
+-mực nước
+-phần đệm
+-phao
+-phao cacbuaratơ
+-sản lượng dư
+@Lĩnh vực: ô tô
+-cái phao
+@Lĩnh vực: cơ khí & công trình
+-cánh (guồng nước)
+-mảng rong rêu
+@Lĩnh vực: đo lường & điều khiển
+-phao đo
+@Chuyên ngành kỹ thuật
+-bàn xoa
+-bè gỗ
+-cái bay
+-cái giũa
+-giũa băm thô
+-làm cho nổi
+-nổi
+-mực nước
+-phần đệm
+-phao
+-phao cacbuaratơ
+-sản lượng dư
+@Lĩnh vực: ô tô
+-cái phao
+@Lĩnh vực: cơ khí & công trình
+-cánh (guồng nước)
+-mảng rong rêu
+@Lĩnh vực: đo lường & điều khiển
+-phao đo

@@ -1,3 +1,4 @@
-herbivore
-	@herbivore\n* danh từ\n- động vật ăn cỏ
-
+herbivore	
+@herbivore
+* danh từ
+- động vật ăn cỏ

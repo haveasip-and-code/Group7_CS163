@@ -1,3 +1,27 @@
-simple
-	@simple /'simpl/\n*  tính từ\n- đơn, đơn giản\n=simpleleaf+ lá đơn\n=simple surface+ mặt đơn giản\n- giản dị, mộc mạc, xuềnh xoàng, bình dị, hồn nhiên\n=the simple life+ đời sống giản dị; sự muốn trở lại cuộc sống cổ sơ\n=in simple beauty+ trong vẻ đẹp mộc mạc\n=a simple man+ một người giản dị\n=a simple meal+ một bữa cơm xuềnh xoàng\n- dễ hiểu, dễ làm\n=the problem is very simple+ vấn đề đó rất dễ hiểu\n- tuyệt đối là, chỉ là, không khác gì\n=to say so is simple madness+ nói như thế thì không khác gì là điên\n- đơn sơ, nghèo hèn; nhỏ mọn, không đáng kể\n- ngu dại; dốt nát; thiếu kinh nghiệm\n*  danh từ\n- người ngu dại; người dốt nát\n- cây thuốc\n- thuốc lá (chữa bệnh)\n!to be cut for the simples\n- phải mổ để chữa bệnh điên\n@Chuyên ngành kỹ thuật\n-đơn\n-đơn giản\n-đơn giản, đơn\n-thuần túy
-
+simple	@simple /'simpl/
+*  tính từ
+- đơn, đơn giản
+=simpleleaf+ lá đơn
+=simple surface+ mặt đơn giản
+- giản dị, mộc mạc, xuềnh xoàng, bình dị, hồn nhiên
+=the simple life+ đời sống giản dị; sự muốn trở lại cuộc sống cổ sơ
+=in simple beauty+ trong vẻ đẹp mộc mạc
+=a simple man+ một người giản dị
+=a simple meal+ một bữa cơm xuềnh xoàng
+- dễ hiểu, dễ làm
+=the problem is very simple+ vấn đề đó rất dễ hiểu
+- tuyệt đối là, chỉ là, không khác gì
+=to say so is simple madness+ nói như thế thì không khác gì là điên
+- đơn sơ, nghèo hèn; nhỏ mọn, không đáng kể
+- ngu dại; dốt nát; thiếu kinh nghiệm
+*  danh từ
+- người ngu dại; người dốt nát
+- cây thuốc
+- thuốc lá (chữa bệnh)
+!to be cut for the simples
+- phải mổ để chữa bệnh điên
+@Chuyên ngành kỹ thuật
+-đơn
+-đơn giản
+-đơn giản, đơn
+-thuần túy

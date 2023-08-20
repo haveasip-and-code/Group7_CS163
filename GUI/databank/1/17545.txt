@@ -1,3 +1,15 @@
-egress
-	@egress /'i:gres/\n*  danh từ\n- sự ra\n- quyền ra vào\n- con đường ra ((nghĩa đen) & (nghĩa bóng))\n- (địa lý,địa chất) sự trồi ra trên mặt\n=kỹ egress of heat+ sự toả nhiệt\n@Chuyên ngành kỹ thuật\n-đường ra\n-lối ra\n-lối thoát\n-ra\n@Lĩnh vực: xây dựng\n-phương tiện thoát
-
+egress	
+@egress /'i:gres/
+*  danh từ
+- sự ra
+- quyền ra vào
+- con đường ra ((nghĩa đen) & (nghĩa bóng))
+- (địa lý,địa chất) sự trồi ra trên mặt=kỹ egress of heat
++ sự toả nhiệt
+@Chuyên ngành kỹ thuật
+-đường ra
+-lối ra
+-lối thoát
+-ra
+@Lĩnh vực: xây dựng
+-phương tiện thoát

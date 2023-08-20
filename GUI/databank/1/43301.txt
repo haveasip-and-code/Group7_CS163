@@ -1,3 +1,5 @@
-prepackaged
-	@prepackaged\n* tính từ\n- đã đóng gói trước\n@Chuyên ngành kinh tế\n-thịt bò đóng gói sẵn
-
+prepackaged	@prepackaged
+* tính từ
+- đã đóng gói trước
+@Chuyên ngành kinh tế
+-thịt bò đóng gói sẵn

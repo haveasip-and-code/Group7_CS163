@@ -1,3 +1,6 @@
-airliner
-	@airliner\n* danh từ\n- máy bay dân dụng loại lớn\n@Chuyên ngành kinh tế\n-phi cơ chở khách (theo tuyến) định kỳ\n-phi cơ chở khách cỡ lớn
-
+airliner	@airliner
+* danh từ
+- máy bay dân dụng loại lớn
+@Chuyên ngành kinh tế
+-phi cơ chở khách (theo tuyến) định kỳ
+-phi cơ chở khách cỡ lớn

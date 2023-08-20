@@ -1,3 +1,5 @@
-ultrabasic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đá siêu bazơ\n@Lĩnh vực: hóa học & vật liệu\n-siêu bazơ
-
+ultrabasic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đá siêu bazơ
+@Lĩnh vực: hóa học & vật liệu
+-siêu bazơ

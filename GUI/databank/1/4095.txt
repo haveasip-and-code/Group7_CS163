@@ -1,3 +1,8 @@
-autolytic
-	@autolytic\n- xem autolysis\n@Chuyên ngành kinh tế\n-tự phân giải\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tự phân
-
+autolytic	
+@autolytic
+- xem autolysis
+@Chuyên ngành kinh tế
+-tự phân giải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tự phân

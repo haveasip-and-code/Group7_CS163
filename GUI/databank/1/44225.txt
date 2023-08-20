@@ -1,3 +1,13 @@
-prostrate
-	@prostrate /prostrate/\n*  tính từ\n- nằm úp sấp, nằm sóng soài\n- nằm phủ phục\n- (thực vật học) bò\n- bị đánh gục, bị lật nhào\n- mệt lử, kiệt sức[prɔs'treit]\n*  ngoại động từ\n- đặt (ai...) nằm úp sấp, đặt (ai...) nằm sóng soài\n=to prostrate oneself+ phủ phục\n=to prostrate oneself before someone+ phủ phục trước ai\n- (nghĩa bóng) đánh gục, lật đổ, lật nhào, bắt hàng phục\n- làm mệt lử, làm kiệt sức
-
+prostrate	@prostrate /prostrate/
+*  tính từ
+- nằm úp sấp, nằm sóng soài
+- nằm phủ phục
+- (thực vật học) bò
+- bị đánh gục, bị lật nhào
+- mệt lử, kiệt sức[prɔs'treit]
+*  ngoại động từ
+- đặt (ai...) nằm úp sấp, đặt (ai...) nằm sóng soài
+=to prostrate oneself+ phủ phục
+=to prostrate oneself before someone+ phủ phục trước ai
+- (nghĩa bóng) đánh gục, lật đổ, lật nhào, bắt hàng phục
+- làm mệt lử, làm kiệt sức

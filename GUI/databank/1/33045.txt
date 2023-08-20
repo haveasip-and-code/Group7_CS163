@@ -1,3 +1,8 @@
-lye
-	@lye /lai/\n*  danh từ\n- thuốc giặt quần áo\n- nước kiềm, dung dịch kiềm\n@Chuyên ngành kỹ thuật\n-dung dịch kiềm\n@Lĩnh vực: hóa học & vật liệu\n-nước kiềm
-
+lye	@lye /lai/
+*  danh từ
+- thuốc giặt quần áo
+- nước kiềm, dung dịch kiềm
+@Chuyên ngành kỹ thuật
+-dung dịch kiềm
+@Lĩnh vực: hóa học & vật liệu
+-nước kiềm

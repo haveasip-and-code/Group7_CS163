@@ -1,3 +1,5 @@
-ferrum
-	@Chuyên ngành kỹ thuật\n-sắt\n@Chuyên ngành kỹ thuật\n-sắt
-
+ferrum	
+@Chuyên ngành kỹ thuật
+-sắt
+@Chuyên ngành kỹ thuật
+-sắt

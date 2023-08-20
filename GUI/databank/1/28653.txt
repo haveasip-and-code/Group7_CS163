@@ -1,3 +1,20 @@
-inhibit
-	@inhibit /in'hibit/\n*  ngoại động từ\n- ngăn chặn, hạn chế, kiềm chế\n- ngăn cấm, cấm\n- (hoá học) (tâm lý học); (sinh vật học) ức chế\n@Chuyên ngành kinh tế\n-kìm hãm\n-ngăn lại\n@Chuyên ngành kỹ thuật\n-cản\n-chậm\n-hãm\n-khóa\n-kiềm chế\n-ngăn\n-ngăn cản\n-ngăn cản (mạch cửa)\n-ngăn chặn\n-ức chế
-
+inhibit	
+@inhibit /in'hibit/
+*  ngoại động từ
+- ngăn chặn, hạn chế, kiềm chế
+- ngăn cấm, cấm
+- (hoá học) (tâm lý học); (sinh vật học) ức chế
+@Chuyên ngành kinh tế
+-kìm hãm
+-ngăn lại
+@Chuyên ngành kỹ thuật
+-cản
+-chậm
+-hãm
+-khóa
+-kiềm chế
+-ngăn
+-ngăn cản
+-ngăn cản (mạch cửa)
+-ngăn chặn
+-ức chế

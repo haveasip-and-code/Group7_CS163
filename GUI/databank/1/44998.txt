@@ -1,3 +1,14 @@
-quadratic
-	@quadratic /kwə'drætik/\n*  tính từ\n- (từ hiếm,nghĩa hiếm) vuông\n- bậc hai, toàn phương\n=quadratic equation+ bình phương bậc hai\n=quadratic fỏm+ dạng toàn phương\n*  danh từ\n- (toán học) phương trình bậc hai\n@Chuyên ngành kỹ thuật\n-bậc hai\n-bình phương\n-vuông\n@Lĩnh vực: toán & tin\n-phương trình bậc hai
-
+quadratic	@quadratic /kwə'drætik/
+*  tính từ
+- (từ hiếm,nghĩa hiếm) vuông
+- bậc hai, toàn phương
+=quadratic equation+ bình phương bậc hai
+=quadratic fỏm+ dạng toàn phương
+*  danh từ
+- (toán học) phương trình bậc hai
+@Chuyên ngành kỹ thuật
+-bậc hai
+-bình phương
+-vuông
+@Lĩnh vực: toán & tin
+-phương trình bậc hai

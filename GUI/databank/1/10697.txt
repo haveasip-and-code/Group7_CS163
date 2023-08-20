@@ -1,3 +1,18 @@
-complaint
-	@complaint /kəm'pleint/\n*  danh từ\n- lời than phiền, lời phàn nàn, lời oán trách, lời than thở; điều đáng phàn nàn, điều đáng than phiền\n=to have no cause of complaint+ không có gì phải phàn nàn cả\n=to make complaints+ phàn nàn, than phiền\n- bệnh, sự đau\n=to suffer from a heart complaint+ đau tim\n- (từ Mỹ,nghĩa Mỹ),  (pháp lý) sự kêu nài; đơn kiện\n=to lodge (make) a gainst somebody+ kiện ai\n@Chuyên ngành kinh tế\n-đơn khiếu nại\n-khiếu nại\n-khiếu tố\n-lới (đơn) khiếu nại\n-lời (thư) khiếu nại\n-phàn nàn\n-sự kêu nài
-
+complaint	
+@complaint /kəm'pleint/
+*  danh từ
+- lời than phiền, lời phàn nàn, lời oán trách, lời than thở; điều đáng phàn nàn, điều đáng than phiền=to have no cause of complaint
++ không có gì phải phàn nàn cả=to make complaints
++ phàn nàn, than phiền
+- bệnh, sự đau=to suffer from a heart complaint
++ đau tim
+- (từ Mỹ,nghĩa Mỹ),  (pháp lý) sự kêu nài; đơn kiện=to lodge (make) a gainst somebody
++ kiện ai
+@Chuyên ngành kinh tế
+-đơn khiếu nại
+-khiếu nại
+-khiếu tố
+-lới (đơn) khiếu nại
+-lời (thư) khiếu nại
+-phàn nàn
+-sự kêu nài

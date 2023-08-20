@@ -1,3 +1,2 @@
-stonechat
-	@stonechat\n- Cách viết khác : stonechatter
-
+stonechat	@stonechat
+- Cách viết khác : stonechatter

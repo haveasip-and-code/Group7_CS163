@@ -1,3 +1,2 @@
-businesslike
-	@Chuyên ngành kinh tế\n-đâu ra đấy
-
+businesslike	@Chuyên ngành kinh tế
+-đâu ra đấy

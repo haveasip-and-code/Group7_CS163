@@ -1,3 +1,12 @@
-furl
-	@furl /fə:l/\n*  ngoại động từ\n- cuộn, cụp, xếp lại (cờ, ô & buồm...)\n- từ bỏ (hy vọng...)\n*  nội động từ\n- cuộn lại, cụp lại\n@Chuyên ngành kỹ thuật\n-thu lại\n@Lĩnh vực: giao thông & vận tải\n-cuộn lại\n-gập lại (buồm)
-
+furl	
+@furl /fə:l/
+*  ngoại động từ
+- cuộn, cụp, xếp lại (cờ, ô & buồm...)
+- từ bỏ (hy vọng...)
+*  nội động từ
+- cuộn lại, cụp lại
+@Chuyên ngành kỹ thuật
+-thu lại
+@Lĩnh vực: giao thông & vận tải
+-cuộn lại
+-gập lại (buồm)

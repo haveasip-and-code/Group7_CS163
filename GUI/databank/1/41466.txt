@@ -1,3 +1,10 @@
-pickup
-	@Chuyên ngành kinh tế\n-sự hồi phục kinh tế\n-sự tái hưng kinh tế\n-tái hưng kinh tế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cái picơp\n-phản ứng đoạt\n-sự đoạt\n-thiết bị thu biến
-
+pickup	@Chuyên ngành kinh tế
+-sự hồi phục kinh tế
+-sự tái hưng kinh tế
+-tái hưng kinh tế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-cái picơp
+-phản ứng đoạt
+-sự đoạt
+-thiết bị thu biến

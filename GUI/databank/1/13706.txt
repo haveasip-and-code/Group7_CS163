@@ -1,3 +1,20 @@
-debris
-	@debris /'debri:/\n*  danh từ\n- mảnh vỡ, mảnh vụn\n- vôi gạch đổ nát\n@Chuyên ngành kinh tế\n-mảnh vụn còn lại\n-tàn tích\n@Chuyên ngành kỹ thuật\n-đá không quặng\n-đá vụn\n-đống rác\n-mảnh vỡ\n-mảnh vụn\n-rác xây dựng\n@Lĩnh vực: xây dựng\n-đống đá vụn\n-đống gạch vụn\n@Lĩnh vực: điện lạnh\n-mảnh (vỡ)
-
+debris	
+@debris /'debri:/
+*  danh từ
+- mảnh vỡ, mảnh vụn
+- vôi gạch đổ nát
+@Chuyên ngành kinh tế
+-mảnh vụn còn lại
+-tàn tích
+@Chuyên ngành kỹ thuật
+-đá không quặng
+-đá vụn
+-đống rác
+-mảnh vỡ
+-mảnh vụn
+-rác xây dựng
+@Lĩnh vực: xây dựng
+-đống đá vụn
+-đống gạch vụn
+@Lĩnh vực: điện lạnh
+-mảnh (vỡ)

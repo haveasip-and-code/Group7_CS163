@@ -1,3 +1,19 @@
-snapshot
-	@snapshot /'snæpʃɔt/\n*  danh từ\n- ảnh chụp nhanh\n*  ngoại động từ\n- chụp nhanh\n@Chuyên ngành kỹ thuật\n-ghi nhanh\n-lưu nhanh\n@Lĩnh vực: điện lạnh\n-ảnh chụp tức thời\n-chụp nhanh\n@Lĩnh vực: xây dựng\n-hình chụp\n@Lĩnh vực: toán & tin\n-sự chọn động\n-sự chụp nhanh\n-sự kết suất nhanh\n-sự kết xuất nhanh\n-sự lưu nhanh
-
+snapshot	@snapshot /'snæpʃɔt/
+*  danh từ
+- ảnh chụp nhanh
+*  ngoại động từ
+- chụp nhanh
+@Chuyên ngành kỹ thuật
+-ghi nhanh
+-lưu nhanh
+@Lĩnh vực: điện lạnh
+-ảnh chụp tức thời
+-chụp nhanh
+@Lĩnh vực: xây dựng
+-hình chụp
+@Lĩnh vực: toán & tin
+-sự chọn động
+-sự chụp nhanh
+-sự kết suất nhanh
+-sự kết xuất nhanh
+-sự lưu nhanh

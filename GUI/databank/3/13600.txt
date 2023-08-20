@@ -1,3 +1,3 @@
-daybreak
-	@daybreak /'deibreik/\n*  danh từ\n- lúc tảng sáng, lúc rạng đông
-
+daybreak	@daybreak /'deibreik/
+*  danh từ
+- lúc tảng sáng, lúc rạng đông

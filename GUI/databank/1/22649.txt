@@ -1,3 +1,11 @@
-furnisher
-	@furnisher\n* danh từ\n- người trang bị, người cung cấp\n- thương nhân bán đồ dùng trong nhà; thương nhân bán đồ trang sức\n@Chuyên ngành kinh tế\n-người bán đồ nội thất\n-người cung cấp\n-người cung ứng\n-người kinh doanh đồ đạc (mới)\n-người trang bị
-
+furnisher	
+@furnisher
+* danh từ
+- người trang bị, người cung cấp
+- thương nhân bán đồ dùng trong nhà; thương nhân bán đồ trang sức
+@Chuyên ngành kinh tế
+-người bán đồ nội thất
+-người cung cấp
+-người cung ứng
+-người kinh doanh đồ đạc (mới)
+-người trang bị

@@ -1,3 +1,5 @@
-simplicial
-	@simplicial\n- (thuộc) đơn hình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đơn hình
-
+simplicial	@simplicial
+- (thuộc) đơn hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đơn hình

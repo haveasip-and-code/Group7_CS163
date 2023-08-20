@@ -1,3 +1,2 @@
-contributively
-	@contributively\n- xem contribute
-
+contributively	@contributively
+- xem contribute

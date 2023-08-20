@@ -1,3 +1,16 @@
-exaction
-	@exaction /ig'zækʃn /\n*  danh từ\n- sự tống (tiền...); số tiền tống, số tiền đòi hỏi\n- sự đòi hỏi không hợp pháp, sự đòi hỏi quá quắt, sự sách nhiễu; sự bóp nặn (tiền của...)\n- sưu cao thuế nặng\n@Chuyên ngành kinh tế\n-đòi hỏi quá đáng\n-sách nhiễu\n-sự bóp nặn\n-sự bóp nặn (tiền của...)\n-sự đòi hỏi\n-sự đòi hỏi quá đáng\n-sự sách nhiễu\n-sự tống tiền\n-sưu cao thuế nặng
-
+exaction	
+@exaction /ig'zækʃn /
+*  danh từ
+- sự tống (tiền...); số tiền tống, số tiền đòi hỏi
+- sự đòi hỏi không hợp pháp, sự đòi hỏi quá quắt, sự sách nhiễu; sự bóp nặn (tiền của...)
+- sưu cao thuế nặng
+@Chuyên ngành kinh tế
+-đòi hỏi quá đáng
+-sách nhiễu
+-sự bóp nặn
+-sự bóp nặn (tiền của...)
+-sự đòi hỏi
+-sự đòi hỏi quá đáng
+-sự sách nhiễu
+-sự tống tiền
+-sưu cao thuế nặng

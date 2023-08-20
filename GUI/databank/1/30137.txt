@@ -1,3 +1,10 @@
-isometry
-	@isometry\n- phép đẳng cự\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đẳng cự\n-phép đẳng cự\n@Lĩnh vực: xây dựng\n-sự cùng kích thước\n-sự đẳng cự
-
+isometry	
+@isometry
+- phép đẳng cự
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đẳng cự
+-phép đẳng cự
+@Lĩnh vực: xây dựng
+-sự cùng kích thước
+-sự đẳng cự

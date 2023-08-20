@@ -1,3 +1,8 @@
-effects
-	@Chuyên ngành kinh tế\n-của cải\n-động sản\n-tài vật\n-vật dụng cá nhân\n@Chuyên ngành kỹ thuật\n-kỹ xảo
-
+effects	
+@Chuyên ngành kinh tế
+-của cải
+-động sản
+-tài vật
+-vật dụng cá nhân
+@Chuyên ngành kỹ thuật
+-kỹ xảo

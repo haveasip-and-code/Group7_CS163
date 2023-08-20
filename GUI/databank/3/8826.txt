@@ -1,3 +1,2 @@
-charting
-	@Chuyên ngành kinh tế\n-phân tích biểu đồ
-
+charting	@Chuyên ngành kinh tế
+-phân tích biểu đồ

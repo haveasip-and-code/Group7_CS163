@@ -1,3 +1,23 @@
-funnel
-	@funnel /'fʌnl/\n*  danh từ\n- cái phễu\n- ống khói (tàu thuỷ, xe lửa)\n- phần dưới ống khói\n@Chuyên ngành kinh tế\n-ống khói tàu\n@Chuyên ngành kỹ thuật\n-đầu dây cáp\n-họng núi lửa\n-lò sưởi\n-miệng loe\n-ống khói\n-ống lọc\n-phễu\n-phễu (quặng)\n@Lĩnh vực: cơ khí & công trình\n-cái quặng\n@Lĩnh vực: điện lạnh\n-máy xoáy\n@Lĩnh vực: điện\n-ống khói tầu
-
+funnel	
+@funnel /'fʌnl/
+*  danh từ
+- cái phễu
+- ống khói (tàu thuỷ, xe lửa)
+- phần dưới ống khói
+@Chuyên ngành kinh tế
+-ống khói tàu
+@Chuyên ngành kỹ thuật
+-đầu dây cáp
+-họng núi lửa
+-lò sưởi
+-miệng loe
+-ống khói
+-ống lọc
+-phễu
+-phễu (quặng)
+@Lĩnh vực: cơ khí & công trình
+-cái quặng
+@Lĩnh vực: điện lạnh
+-máy xoáy
+@Lĩnh vực: điện
+-ống khói tầu

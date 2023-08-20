@@ -1,3 +1,2 @@
-pitmans
-	@Chuyên ngành kỹ thuật\n-thanh nối
-
+pitmans	@Chuyên ngành kỹ thuật
+-thanh nối

@@ -1,3 +1,5 @@
-cofunction
-	@cofunction\n- đối hàm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đôi hàm
-
+cofunction	@cofunction
+- đối hàm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đôi hàm

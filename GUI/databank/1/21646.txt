@@ -1,3 +1,4 @@
-fluty
-	@fluty /fluty/\n*  tính từ\n- thánh thót
-
+fluty	
+@fluty /fluty/
+*  tính từ
+- thánh thót

@@ -1,3 +1,4 @@
-tenantless
-	@tenantless /'tenəntlis/\n*  tính từ\n- không có người thuê\n- không có người ở
-
+tenantless	@tenantless /'tenəntlis/
+*  tính từ
+- không có người thuê
+- không có người ở

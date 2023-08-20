@@ -1,3 +1,8 @@
-decipherment
-	@decipherment /di'saifəmənt/\n*  danh từ\n- sự giải (mã), sự giải đoán (chữ khó xem, chữ cổ...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bản dịch mã\n@Lĩnh vực: điện tử & viễn thông\n-bản mã dịch
-
+decipherment	@decipherment /di'saifəmənt/
+*  danh từ
+- sự giải (mã), sự giải đoán (chữ khó xem, chữ cổ...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bản dịch mã
+@Lĩnh vực: điện tử & viễn thông
+-bản mã dịch

@@ -1,3 +1,8 @@
-thawed
-	@Chuyên ngành kỹ thuật\n-chảy ra (băng)\n@Lĩnh vực: điện lạnh\n-được làm tan băng\n-được làm tan giá\n-được làm tan giá (tan băng)\n@Lĩnh vực: xây dựng\n-tan ra (băng)
-
+thawed	@Chuyên ngành kỹ thuật
+-chảy ra (băng)
+@Lĩnh vực: điện lạnh
+-được làm tan băng
+-được làm tan giá
+-được làm tan giá (tan băng)
+@Lĩnh vực: xây dựng
+-tan ra (băng)

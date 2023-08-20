@@ -1,3 +1,2 @@
-salesmen
-	@Chuyên ngành kỹ thuật\n-người bán hàng
-
+salesmen	@Chuyên ngành kỹ thuật
+-người bán hàng

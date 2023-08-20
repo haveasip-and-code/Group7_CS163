@@ -1,3 +1,26 @@
-equivalent
-	@equivalent /i'kwivələnt/\n*  tính từ\n- tương đương\n*  danh từ\n- vật tương đương, từ tương đương\n- (kỹ thuật) đương lượng\n@Chuyên ngành kinh tế\n-giá quy đổi (hối đoái)\n-giá trị tương đương\n-sự cân bằng\n-vật ngang giá\n@Chuyên ngành kỹ thuật\n-đương lượng\n@Lĩnh vực: điện\n-đẳng trị\n@Lĩnh vực: y học\n-lượng tương đương\n-triệu chứng tương đương\n@Chuyên ngành kỹ thuật\n-đương lượng\n@Lĩnh vực: điện\n-đẳng trị\n@Lĩnh vực: y học\n-lượng tương đương\n-triệu chứng tương đương
-
+equivalent	
+@equivalent /i'kwivələnt/
+*  tính từ
+- tương đương
+*  danh từ
+- vật tương đương, từ tương đương
+- (kỹ thuật) đương lượng
+@Chuyên ngành kinh tế
+-giá quy đổi (hối đoái)
+-giá trị tương đương
+-sự cân bằng
+-vật ngang giá
+@Chuyên ngành kỹ thuật
+-đương lượng
+@Lĩnh vực: điện
+-đẳng trị
+@Lĩnh vực: y học
+-lượng tương đương
+-triệu chứng tương đương
+@Chuyên ngành kỹ thuật
+-đương lượng
+@Lĩnh vực: điện
+-đẳng trị
+@Lĩnh vực: y học
+-lượng tương đương
+-triệu chứng tương đương

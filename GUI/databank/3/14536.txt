@@ -1,3 +1,21 @@
-depart
-	@depart /di'pɑ:t/\n*  nội động từ\n- rời khỏi, ra đi, khởi hành\n=the train will depart at 6+ xe lửa sẽ khởi hành lúc 6 giờ\n- chết\n=to depart from life+ chết, từ trần, từ giã cõi đời\n- sao lãng; đi trệch, lạc (đề)\n=to depart from a duty+ sao lãng nhiệm vụ\n=to depart from a subject+ lạc đề\n=to depart from one's promise (words)+ không giữ lời hứa\n- (thơ ca); (từ cổ,nghĩa cổ) rời khỏi, cáo biệt, ra về\n=the guests were departing+ khách khứa đang ra về\n*  ngoại động từ\n- từ giã (cõi đời)\n=to depart this life+ từ giã cõi đời này\n@Chuyên ngành kỹ thuật\n-lệch về\n-nghiêng về\n@Lĩnh vực: toán & tin\n-khởi hành\n-rời khỏi
-
+depart	@depart /di'pɑ:t/
+*  nội động từ
+- rời khỏi, ra đi, khởi hành
+=the train will depart at 6+ xe lửa sẽ khởi hành lúc 6 giờ
+- chết
+=to depart from life+ chết, từ trần, từ giã cõi đời
+- sao lãng; đi trệch, lạc (đề)
+=to depart from a duty+ sao lãng nhiệm vụ
+=to depart from a subject+ lạc đề
+=to depart from one's promise (words)+ không giữ lời hứa
+- (thơ ca); (từ cổ,nghĩa cổ) rời khỏi, cáo biệt, ra về
+=the guests were departing+ khách khứa đang ra về
+*  ngoại động từ
+- từ giã (cõi đời)
+=to depart this life+ từ giã cõi đời này
+@Chuyên ngành kỹ thuật
+-lệch về
+-nghiêng về
+@Lĩnh vực: toán & tin
+-khởi hành
+-rời khỏi

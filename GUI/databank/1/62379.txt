@@ -1,3 +1,8 @@
-wantonly
-	@wantonly\n* phó từ\n- bướng, ngang ngạnh; cố tình (hành động)\n- tinh nghịch, nghịch gợm, đỏng đảnh; đùa giỡn\n- lố lăng, phóng đãng, dâm ô\n- bừa bãi, trái đạo đức\n- không khiêm tốn, không giản dị\n- tốt tươi, sum sê, um tùm, rất phong phú (sự sinh trưởng )
-
+wantonly	@wantonly
+* phó từ
+- bướng, ngang ngạnh; cố tình (hành động)
+- tinh nghịch, nghịch gợm, đỏng đảnh; đùa giỡn
+- lố lăng, phóng đãng, dâm ô
+- bừa bãi, trái đạo đức
+- không khiêm tốn, không giản dị
+- tốt tươi, sum sê, um tùm, rất phong phú (sự sinh trưởng )

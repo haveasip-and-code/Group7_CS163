@@ -1,3 +1,13 @@
-chilled
-	@Chuyên ngành kinh tế\n-lạnh\n-nguội\n@Chuyên ngành kỹ thuật\n-biến trắng\n-đã ngưng lạnh\n-được làm lạnh\n-được làm nguội\n-được tôi\n@Lĩnh vực: hóa học & vật liệu\n-đã làm lạnh\n@Lĩnh vực: điện lạnh\n-được làm mát
-
+chilled	@Chuyên ngành kinh tế
+-lạnh
+-nguội
+@Chuyên ngành kỹ thuật
+-biến trắng
+-đã ngưng lạnh
+-được làm lạnh
+-được làm nguội
+-được tôi
+@Lĩnh vực: hóa học & vật liệu
+-đã làm lạnh
+@Lĩnh vực: điện lạnh
+-được làm mát

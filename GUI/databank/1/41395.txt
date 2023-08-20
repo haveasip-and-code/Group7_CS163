@@ -1,3 +1,27 @@
-physical
-	@physical /'fizikəl/\n*  tính từ\n- (thuộc) vật chất\n=physical force+ sức mạnh vật chất\n- (thuộc) khoa học tự nhiên; theo quy luật khoa học tự nhiên\n=physical explanations of miracles+ cách giải thích những điều huyền diệu dựa theo khoa học tự nhiên\n=physical geography+ địa lý tự nhiên\n- (thuộc) vật lý; theo vật lý\n=physical experiment+ thí nghiệm vật lý\n- (thuộc) thân thể, (thuộc) cơ thể, của thân thể\n=physical exercises+ thể dục\n=physical strength+ sức mạnh của cơ thể\n!physical jerks\n- (xem) jerk\n@Chuyên ngành kinh tế\n-cơ thể\n-hữu hình\n-thân thể\n-thực thể\n-tự nhiên\n-vật chất\n-vật thực\n@Chuyên ngành kỹ thuật\n-vật chất\n-vật lý\n@Lĩnh vực: toán & tin\n-thuộc vật lý
-
+physical	@physical /'fizikəl/
+*  tính từ
+- (thuộc) vật chất
+=physical force+ sức mạnh vật chất
+- (thuộc) khoa học tự nhiên; theo quy luật khoa học tự nhiên
+=physical explanations of miracles+ cách giải thích những điều huyền diệu dựa theo khoa học tự nhiên
+=physical geography+ địa lý tự nhiên
+- (thuộc) vật lý; theo vật lý
+=physical experiment+ thí nghiệm vật lý
+- (thuộc) thân thể, (thuộc) cơ thể, của thân thể
+=physical exercises+ thể dục
+=physical strength+ sức mạnh của cơ thể
+!physical jerks
+- (xem) jerk
+@Chuyên ngành kinh tế
+-cơ thể
+-hữu hình
+-thân thể
+-thực thể
+-tự nhiên
+-vật chất
+-vật thực
+@Chuyên ngành kỹ thuật
+-vật chất
+-vật lý
+@Lĩnh vực: toán & tin
+-thuộc vật lý

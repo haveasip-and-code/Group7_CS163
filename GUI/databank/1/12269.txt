@@ -1,3 +1,24 @@
-country
-	@country /'kʌntri/\n*  danh từ\n- nước, quốc gia\n- đất nước, tổ quốc, quê hương, xứ sở\n- nhân dân (một nước)\n- số ít vùng, xứ, miền; (nghĩa bóng) địa hạt, lĩnh vực\n=densely wooded country+ vùng cây cối rậm rạp\n=this is unknown country to me+ đó là một vùng mà tôi chưa đi qua; (nghĩa bóng) đó là một lĩnh vực xa lạ đối với tôi\n- số ít nông thôn, thôn dã\n=to live in the country+ sống ở nông thôn\n=the country life+ đời sống (cách sinh hoạt) ở nông thôn\n!to go (appeal) to the country\n- giải tán quốc hội và tổ chức bầu lại\n@Chuyên ngành kỹ thuật\n-địa bàn\n-địa thế\n-khu\n-khu đất\n-nông thôn\n-nước quốc gia\n-miền\n-vùng\n@Lĩnh vực: xây dựng\n-đất nước
-
+country	
+@country /'kʌntri/
+*  danh từ
+- nước, quốc gia
+- đất nước, tổ quốc, quê hương, xứ sở
+- nhân dân (một nước)
+- số ít vùng, xứ, miền; (nghĩa bóng) địa hạt, lĩnh vực=densely wooded country
++ vùng cây cối rậm rạp=this is unknown country to me
++ đó là một vùng mà tôi chưa đi qua; (nghĩa bóng) đó là một lĩnh vực xa lạ đối với tôi
+- số ít nông thôn, thôn dã=to live in the country
++ sống ở nông thôn=the country life
++ đời sống (cách sinh hoạt) ở nông thôn!to go (appeal) to the country
+- giải tán quốc hội và tổ chức bầu lại
+@Chuyên ngành kỹ thuật
+-địa bàn
+-địa thế
+-khu
+-khu đất
+-nông thôn
+-nước quốc gia
+-miền
+-vùng
+@Lĩnh vực: xây dựng
+-đất nước

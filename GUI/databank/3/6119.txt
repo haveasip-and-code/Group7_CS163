@@ -1,3 +1,6 @@
-boathouse
-	@boathouse\n* danh từ\n- nhà thuyền\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà thuyền
-
+boathouse	@boathouse
+* danh từ
+- nhà thuyền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà thuyền

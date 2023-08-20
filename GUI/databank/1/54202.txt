@@ -1,3 +1,4 @@
-subsidise
-	@subsidise\n- xem subsidize\n@Chuyên ngành kinh tế\n-trợ cấp
-
+subsidise	@subsidise
+- xem subsidize
+@Chuyên ngành kinh tế
+-trợ cấp

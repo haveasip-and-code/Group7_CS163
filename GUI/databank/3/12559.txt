@@ -1,3 +1,2 @@
-creaturely
-	@creaturely\n- xem creature
-
+creaturely	@creaturely
+- xem creature

@@ -1,3 +1,7 @@
-gearbox
-	@Chuyên ngành kỹ thuật\n-bộ dẫn động\n-cấu truyền động\n-hộp chạy dao\n-hộp tốc độ\n-hộp truyền động
-
+gearbox	
+@Chuyên ngành kỹ thuật
+-bộ dẫn động
+-cấu truyền động
+-hộp chạy dao
+-hộp tốc độ
+-hộp truyền động

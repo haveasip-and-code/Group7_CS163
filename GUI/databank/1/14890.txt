@@ -1,3 +1,13 @@
-detect
-	@detect /di'tekt/\n*  ngoại động từ\n- dò ra, tìm ra, khám phá ra, phát hiện ra\n=to detect someone in doing something+ phát hiện thấy người nào đang làm gì\n=to detect a symptom of disease+ phát hiện ra triệu chứng bệnh\n- nhận thấy, nhận ra\n- (rađiô) tách sóng\n@Chuyên ngành kỹ thuật\n-dò\n-khám phá\n-phát hiện\n-tìm
-
+detect	
+@detect /di'tekt/
+*  ngoại động từ
+- dò ra, tìm ra, khám phá ra, phát hiện ra=to detect someone in doing something
++ phát hiện thấy người nào đang làm gì=to detect a symptom of disease
++ phát hiện ra triệu chứng bệnh
+- nhận thấy, nhận ra
+- (rađiô) tách sóng
+@Chuyên ngành kỹ thuật
+-dò
+-khám phá
+-phát hiện
+-tìm

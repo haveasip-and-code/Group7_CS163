@@ -1,3 +1,4 @@
-bundling
-	@Chuyên ngành kinh tế\n-bó\n-gói (hàng)
-
+bundling	
+@Chuyên ngành kinh tế
+-bó
+-gói (hàng)

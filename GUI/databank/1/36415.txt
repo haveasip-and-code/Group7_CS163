@@ -1,3 +1,14 @@
-navigate
-	@navigate /'nævigeit/\n*  động từ\n- lái (tàu, thuyền, máy bay...)\n- đi sông, đi biển, vượt biển, bay\n- đem thông qua\n=to navigate a bill through Parliament+ đem thông qua một dự luật ở quốc hội\n@Chuyên ngành kỹ thuật\n-di chuyển\n-điều khiển\n-hoa tiêu\n-lái\n-vận hành\n@Lĩnh vực: toán & tin\n-điều hành
-
+navigate	@navigate /'nævigeit/
+*  động từ
+- lái (tàu, thuyền, máy bay...)
+- đi sông, đi biển, vượt biển, bay
+- đem thông qua
+=to navigate a bill through Parliament+ đem thông qua một dự luật ở quốc hội
+@Chuyên ngành kỹ thuật
+-di chuyển
+-điều khiển
+-hoa tiêu
+-lái
+-vận hành
+@Lĩnh vực: toán & tin
+-điều hành

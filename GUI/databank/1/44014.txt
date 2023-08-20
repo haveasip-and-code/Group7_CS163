@@ -1,3 +1,6 @@
-prompter
-	@prompter /prompter/\n*  danh từ\n- người nhắc; (sân khấu) người nhắc vở\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bộ nhắc nhìn dọc
-
+prompter	@prompter /prompter/
+*  danh từ
+- người nhắc; (sân khấu) người nhắc vở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bộ nhắc nhìn dọc

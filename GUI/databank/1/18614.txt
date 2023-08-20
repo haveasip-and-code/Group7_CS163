@@ -1,3 +1,41 @@
-envelope
-	@envelope /'enviloup/\n*  danh từ\n- bao, bọc bì; phong bì\n- (toán học) hình bao, bao\n- vỏ bọc (khí cầu); bầu khí (khí cầu)\n- (sinh vật học) màng bao, vỏ bao\n@Chuyên ngành kinh tế\n-bì thư\n-màng bao vỏ bao\n-phong bì\n@Chuyên ngành kỹ thuật\n-bao\n-bầu\n-đường bao\n-hình bao\n-lớp phủ\n-lớp vỏ\n-màng bọc\n-phong bì\n-vành\n-vỏ\n-vỏ bọc\n-vỏ mỏng\n@Lĩnh vực: cơ khí & công trình\n-áo bọc\n@Chuyên ngành kỹ thuật\n-bao\n-bầu\n-đường bao\n-hình bao\n-lớp phủ\n-lớp vỏ\n-màng bọc\n-phong bì\n-vành\n-vỏ\n-vỏ bọc\n-vỏ mỏng\n@Lĩnh vực: cơ khí & công trình\n-áo bọc
-
+envelope	
+@envelope /'enviloup/
+*  danh từ
+- bao, bọc bì; phong bì
+- (toán học) hình bao, bao
+- vỏ bọc (khí cầu); bầu khí (khí cầu)
+- (sinh vật học) màng bao, vỏ bao
+@Chuyên ngành kinh tế
+-bì thư
+-màng bao vỏ bao
+-phong bì
+@Chuyên ngành kỹ thuật
+-bao
+-bầu
+-đường bao
+-hình bao
+-lớp phủ
+-lớp vỏ
+-màng bọc
+-phong bì
+-vành
+-vỏ
+-vỏ bọc
+-vỏ mỏng
+@Lĩnh vực: cơ khí & công trình
+-áo bọc
+@Chuyên ngành kỹ thuật
+-bao
+-bầu
+-đường bao
+-hình bao
+-lớp phủ
+-lớp vỏ
+-màng bọc
+-phong bì
+-vành
+-vỏ
+-vỏ bọc
+-vỏ mỏng
+@Lĩnh vực: cơ khí & công trình
+-áo bọc

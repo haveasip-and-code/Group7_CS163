@@ -1,3 +1,2 @@
-vivifier
-	@vivifier\n- xem vivify
-
+vivifier	@vivifier
+- xem vivify

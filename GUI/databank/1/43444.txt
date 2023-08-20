@@ -1,3 +1,5 @@
-presser
-	@Chuyên ngành kinh tế\n-thợ dập\n-thợ nén\n@Chuyên ngành kỹ thuật\n-máy dập máy ép
-
+presser	@Chuyên ngành kinh tế
+-thợ dập
+-thợ nén
+@Chuyên ngành kỹ thuật
+-máy dập máy ép

@@ -1,3 +1,69 @@
-stamp
-	@stamp /stæmp/\n*  danh từ\n- tem\n- con dấu; dấu\n- nhãn hiệu, dấu bảo đảm\n- dấu hiệu đặc trưng, dấu hiệu\n=to bear he stamp of genius+ mang dấu hiệu một thiên tài\n- hạng, loại\n=men of that stamp+ loại người như thế\n- sự giậm chân\n- chày nghiền quặng\n*  ngoại động từ\n- giậm (chân)\n=to stamp one's foot+ giậm chân\n- đóng dấu lên, in dấu lên (kim loại, giấy...)\n- dán tem vào\n- nghiền (quặng)\n- chứng tỏ, tỏ rõ (tính chất của cái gì)\n=this alone stamps the story as a slander+ chỉ riêng điều đó cũng chứng tỏ câu chuyện ấy là một sự nói xấu\n=his manners stamp him as a genleman+ tác phong của anh ta chứng tỏ anh ta là người quân tử\n- in vào (trí não)\n=to stamp something on the mind+ in việc gì vào óc\n*  nội động từ\n- giậm chân\n=to stamp with rage+ giậm chân vì tức giận\n!to stamp down\n- chà đạp\n!to stamp out\n- dập tắt, dẹp, nghiền nát (bóng)\n=to stamp out the fire+ dập tắt lửa\n=to stamp out a rebellion+ dẹp một cuộc nổi loạn\n@Chuyên ngành kinh tế\n-bổ\n-búa đầu tròn\n-chày\n-con dấu\n-con dấu (đóng)\n-con niêm\n-dán con niêm vào\n-dán tem vào (thư, bưu phẩm...)\n-dấu\n-đóng dấu\n-đóng dấu lên (chứng thư, phiếu khoán, biên lai, hàng hóa)\n-lấy dấu\n-nghiền\n-nhãn\n-quần thể vi sinh vật\n-sự đóng dấu\n-sự lấy dấu\n-tán\n-tem\n@Chuyên ngành kỹ thuật\n-chày giã (quặng)\n-dấu\n-dấu nổi\n-đóng dấu\n-khuôn\n-khuôn dập\n-khuôn đột\n-khuôn rèn\n-nghiền quặng\n@Lĩnh vực: cơ khí & công trình\n-dập nổi\n@Lĩnh vực: toán & tin\n-giậm\n@Lĩnh vực: xây dựng\n-giậm chân\n@Lĩnh vực: hóa học & vật liệu\n-TEM
-
+stamp	@stamp /stæmp/
+*  danh từ
+- tem
+- con dấu; dấu
+- nhãn hiệu, dấu bảo đảm
+- dấu hiệu đặc trưng, dấu hiệu
+=to bear he stamp of genius+ mang dấu hiệu một thiên tài
+- hạng, loại
+=men of that stamp+ loại người như thế
+- sự giậm chân
+- chày nghiền quặng
+*  ngoại động từ
+- giậm (chân)
+=to stamp one's foot+ giậm chân
+- đóng dấu lên, in dấu lên (kim loại, giấy...)
+- dán tem vào
+- nghiền (quặng)
+- chứng tỏ, tỏ rõ (tính chất của cái gì)
+=this alone stamps the story as a slander+ chỉ riêng điều đó cũng chứng tỏ câu chuyện ấy là một sự nói xấu
+=his manners stamp him as a genleman+ tác phong của anh ta chứng tỏ anh ta là người quân tử
+- in vào (trí não)
+=to stamp something on the mind+ in việc gì vào óc
+*  nội động từ
+- giậm chân
+=to stamp with rage+ giậm chân vì tức giận
+!to stamp down
+- chà đạp
+!to stamp out
+- dập tắt, dẹp, nghiền nát (bóng)
+=to stamp out the fire+ dập tắt lửa
+=to stamp out a rebellion+ dẹp một cuộc nổi loạn
+@Chuyên ngành kinh tế
+-bổ
+-búa đầu tròn
+-chày
+-con dấu
+-con dấu (đóng)
+-con niêm
+-dán con niêm vào
+-dán tem vào (thư, bưu phẩm...)
+-dấu
+-đóng dấu
+-đóng dấu lên (chứng thư, phiếu khoán, biên lai, hàng hóa)
+-lấy dấu
+-nghiền
+-nhãn
+-quần thể vi sinh vật
+-sự đóng dấu
+-sự lấy dấu
+-tán
+-tem
+@Chuyên ngành kỹ thuật
+-chày giã (quặng)
+-dấu
+-dấu nổi
+-đóng dấu
+-khuôn
+-khuôn dập
+-khuôn đột
+-khuôn rèn
+-nghiền quặng
+@Lĩnh vực: cơ khí & công trình
+-dập nổi
+@Lĩnh vực: toán & tin
+-giậm
+@Lĩnh vực: xây dựng
+-giậm chân
+@Lĩnh vực: hóa học & vật liệu
+-TEM

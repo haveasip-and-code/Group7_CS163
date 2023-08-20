@@ -1,3 +1,12 @@
-pairing
-	@pairing\n- danh từ\n- (sinh vật học) sự ghép đôi; kết đôi; kết cặp\n@Chuyên ngành kỹ thuật\n-ghép cặp\n-ghép đôi\n-sự ghép cặp\n-sự ghép đôi\n@Lĩnh vực: điện\n-ghép cặp dòng\n@Lĩnh vực: toán & tin\n-ghép nhân
-
+pairing	@pairing
+- danh từ
+- (sinh vật học) sự ghép đôi; kết đôi; kết cặp
+@Chuyên ngành kỹ thuật
+-ghép cặp
+-ghép đôi
+-sự ghép cặp
+-sự ghép đôi
+@Lĩnh vực: điện
+-ghép cặp dòng
+@Lĩnh vực: toán & tin
+-ghép nhân

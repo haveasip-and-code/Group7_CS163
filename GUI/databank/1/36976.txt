@@ -1,3 +1,5 @@
-nonreactive
-	@Chuyên ngành kỹ thuật\n-trơ\n@Lĩnh vực: điện lạnh\n-không điện kháng\n-không phản ứng
-
+nonreactive	@Chuyên ngành kỹ thuật
+-trơ
+@Lĩnh vực: điện lạnh
+-không điện kháng
+-không phản ứng

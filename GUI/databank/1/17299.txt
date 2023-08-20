@@ -1,3 +1,4 @@
-echocardiography
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-siêu âm tim ký
-
+echocardiography	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-siêu âm tim ký

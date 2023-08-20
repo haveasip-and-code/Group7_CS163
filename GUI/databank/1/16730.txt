@@ -1,3 +1,5 @@
-drawable
-	@drawable\n* tính từ\n- có thể lôi, kéo, múc\n- có thể phát thảo (vạch ra) kế hoạch
-
+drawable	
+@drawable
+* tính từ
+- có thể lôi, kéo, múc
+- có thể phát thảo (vạch ra) kế hoạch

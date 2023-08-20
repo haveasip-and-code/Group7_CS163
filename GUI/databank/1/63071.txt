@@ -1,3 +1,21 @@
-wiper
-	@wiper /'waip /\n*  danh từ\n- người lau chùi\n- khau lau, giẻ lau; khăn lau tay\n@Chuyên ngành kỹ thuật\n-bàn chải\n-cần gạt nước\n-chổi\n-con chạy\n-vấu nâng\n@Lĩnh vực: điện lạnh\n-chổi tiếp xúc\n@Lĩnh vực: xây dựng\n-giẻ lau\n-khăn lau\n-máy lau kính\n@Lĩnh vực: điện\n-mạch chổi\n-mạch chổi công tắc\n@Lĩnh vực: toán & tin\n-vật lau chùi
-
+wiper	@wiper /'waip /
+*  danh từ
+- người lau chùi
+- khau lau, giẻ lau; khăn lau tay
+@Chuyên ngành kỹ thuật
+-bàn chải
+-cần gạt nước
+-chổi
+-con chạy
+-vấu nâng
+@Lĩnh vực: điện lạnh
+-chổi tiếp xúc
+@Lĩnh vực: xây dựng
+-giẻ lau
+-khăn lau
+-máy lau kính
+@Lĩnh vực: điện
+-mạch chổi
+-mạch chổi công tắc
+@Lĩnh vực: toán & tin
+-vật lau chùi

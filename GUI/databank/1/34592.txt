@@ -1,3 +1,9 @@
-meteor
-	@meteor /'mi:tjə/\n*  danh từ\n- sao sa, sao băng\n- hiện tượng khí tượng\n- (thông tục) người bỗng nổi tiếng như cồn; vật bổng nổi tiếng như cồn\n@Chuyên ngành kỹ thuật\n-khí tượng\n-sao băng\n-thiên thạch
-
+meteor	@meteor /'mi:tjə/
+*  danh từ
+- sao sa, sao băng
+- hiện tượng khí tượng
+- (thông tục) người bỗng nổi tiếng như cồn; vật bổng nổi tiếng như cồn
+@Chuyên ngành kỹ thuật
+-khí tượng
+-sao băng
+-thiên thạch

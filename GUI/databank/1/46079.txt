@@ -1,3 +1,9 @@
-rectangle
-	@rectangle /'rek,tæɳgl/\n*  danh từ\n- hình chữ nhật\n@Chuyên ngành kinh tế\n-hình chữ nhật\n@Chuyên ngành kỹ thuật\n-hình chữ nhật\n-thẳng góc\n-vuông góc
-
+rectangle	@rectangle /'rek,tæɳgl/
+*  danh từ
+- hình chữ nhật
+@Chuyên ngành kinh tế
+-hình chữ nhật
+@Chuyên ngành kỹ thuật
+-hình chữ nhật
+-thẳng góc
+-vuông góc

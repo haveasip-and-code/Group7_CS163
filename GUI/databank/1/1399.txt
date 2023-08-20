@@ -1,3 +1,16 @@
-albedo
-	@albedo\n* danh từ\n- (vật lý) anbeđô, suất phân chiếu\n@Chuyên ngành kinh tế\n-anbeđô\n-suất phân chiếu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-anbedo\n-suất phân chiếu\n-suất phản chiếu\n@Lĩnh vực: điện lạnh\n-anbeđo\n@Lĩnh vực: y học\n-sự trắng
-
+albedo	
+@albedo
+* danh từ
+- (vật lý) anbeđô, suất phân chiếu
+@Chuyên ngành kinh tế
+-anbeđô
+-suất phân chiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-anbedo
+-suất phân chiếu
+-suất phản chiếu
+@Lĩnh vực: điện lạnh
+-anbeđo
+@Lĩnh vực: y học
+-sự trắng

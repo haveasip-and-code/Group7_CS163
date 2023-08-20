@@ -1,3 +1,4 @@
-eggshell
-	@eggshell\n* danh từ\n- vỏ trứng
-
+eggshell	
+@eggshell
+* danh từ
+- vỏ trứng

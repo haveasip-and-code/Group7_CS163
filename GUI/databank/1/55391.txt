@@ -1,3 +1,5 @@
-tacnode
-	@tacnode\n- (hình học) tacnôt (điểm tự tiếp xúc của đường cong)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tacnot (điểm tự tiếp xúc của đường cong)
-
+tacnode	@tacnode
+- (hình học) tacnôt (điểm tự tiếp xúc của đường cong)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tacnot (điểm tự tiếp xúc của đường cong)

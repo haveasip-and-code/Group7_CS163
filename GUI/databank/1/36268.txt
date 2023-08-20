@@ -1,3 +1,2 @@
-namable
-	@namable\n- xem nameable
-
+namable	@namable
+- xem nameable

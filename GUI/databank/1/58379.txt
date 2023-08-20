@@ -1,3 +1,9 @@
-typesetter
-	@typesetter\n* danh từ\n- thợ xếp chữ\n- máy xếp chữ\n@Chuyên ngành kinh tế\n-máy sắp chữ (để in)\n-người, thợ sắp chữ\n@Chuyên ngành kỹ thuật\n-máy sắp chữ
-
+typesetter	@typesetter
+* danh từ
+- thợ xếp chữ
+- máy xếp chữ
+@Chuyên ngành kinh tế
+-máy sắp chữ (để in)
+-người, thợ sắp chữ
+@Chuyên ngành kỹ thuật
+-máy sắp chữ

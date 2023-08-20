@@ -1,3 +1,4 @@
-flyable
-	@flyable\n* tính từ\n- có thể bay được
-
+flyable	
+@flyable
+* tính từ
+- có thể bay được

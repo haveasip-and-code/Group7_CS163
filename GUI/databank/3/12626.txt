@@ -1,3 +1,34 @@
-crest
-	@crest /krest/\n*  danh từ\n- mào (gà); bờm (ngựa)\n- chòm lông mào (trên mũ sắt thời xưa)\n- chỏm mũ sắt; mũ sắt\n- tiêu ngữ (trên huy chương...)\n- đỉnh nóc, chỏm, ngọn (núi, sóng, mái nhà...)\n=the crest of a ware+ đầu ngọn sóng\n- cạnh sống (của xương)\n!family crest\n- hình dấu riêng của gia đình\n!on the crest of the ware\n- (nghĩa bóng) lúc hưng thịnh nhất\n*  ngoại động từ\n- vẽ mào; trang trí (mũ) bằng mào lông\n- trèo lên đỉnh, trèo lên nóc\n*  nội động từ\n- gợn nhấp nhô (sóng)\n@Chuyên ngành kỹ thuật\n-đỉnh\n-đỉnh núi nóc nhà\n-đỉnh ren\n-đỉnh sóng\n-gò\n-ngọn\n-ngọn sóng\n-nóc\n-mặt khum\n@Lĩnh vực: toán & tin\n-đỉnh (sóng)\n@Lĩnh vực: xây dựng\n-đường cong đứng lồi\n@Lĩnh vực: y học\n-mào, một lằn gợn hay một phần nhô ra dài và hẹp đặc biệt trên một xương
-
+crest	@crest /krest/
+*  danh từ
+- mào (gà); bờm (ngựa)
+- chòm lông mào (trên mũ sắt thời xưa)
+- chỏm mũ sắt; mũ sắt
+- tiêu ngữ (trên huy chương...)
+- đỉnh nóc, chỏm, ngọn (núi, sóng, mái nhà...)
+=the crest of a ware+ đầu ngọn sóng
+- cạnh sống (của xương)
+!family crest
+- hình dấu riêng của gia đình
+!on the crest of the ware
+- (nghĩa bóng) lúc hưng thịnh nhất
+*  ngoại động từ
+- vẽ mào; trang trí (mũ) bằng mào lông
+- trèo lên đỉnh, trèo lên nóc
+*  nội động từ
+- gợn nhấp nhô (sóng)
+@Chuyên ngành kỹ thuật
+-đỉnh
+-đỉnh núi nóc nhà
+-đỉnh ren
+-đỉnh sóng
+-gò
+-ngọn
+-ngọn sóng
+-nóc
+-mặt khum
+@Lĩnh vực: toán & tin
+-đỉnh (sóng)
+@Lĩnh vực: xây dựng
+-đường cong đứng lồi
+@Lĩnh vực: y học
+-mào, một lằn gợn hay một phần nhô ra dài và hẹp đặc biệt trên một xương

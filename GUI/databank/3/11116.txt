@@ -1,3 +1,2 @@
-confronter
-	@confronter\n- xem confront
-
+confronter	@confronter
+- xem confront

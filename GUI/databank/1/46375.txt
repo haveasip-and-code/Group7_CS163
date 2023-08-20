@@ -1,3 +1,6 @@
-refundable
-	@refundable\n* tính từ\n- có thể được trả lại tiền\n@Chuyên ngành kinh tế\n-có thể hoàn lại\n-có thể trả lại
-
+refundable	@refundable
+* tính từ
+- có thể được trả lại tiền
+@Chuyên ngành kinh tế
+-có thể hoàn lại
+-có thể trả lại

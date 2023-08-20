@@ -1,3 +1,22 @@
-external
-	@external /eks'tə:nl/\n*  tính từ\n- ở ngoài, bên ngoài (hiện tượng...)\n=external world+ thế giới bên ngoài\n- (y học) ngoài, để dùng bên ngoài\n=a medicine for external use only+ thuốc chỉ để dùng bôi ngoài\n- (từ Mỹ,nghĩa Mỹ) đối với nước ngoài, đối ngoại (chính sách, sự buôn bán)\n@Chuyên ngành kỹ thuật\n-bên ngoài\n-ngoài\n-ở ngoài\n-phía ngoài\n@Lĩnh vực: toán & tin\n-thuộc bên ngoài\n@Chuyên ngành kỹ thuật\n-bên ngoài\n-ngoài\n-ở ngoài\n-phía ngoài\n@Lĩnh vực: toán & tin\n-thuộc bên ngoài
-
+external	
+@external /eks'tə:nl/
+*  tính từ
+- ở ngoài, bên ngoài (hiện tượng...)=external world
++ thế giới bên ngoài
+- (y học) ngoài, để dùng bên ngoài=a medicine for external use only
++ thuốc chỉ để dùng bôi ngoài
+- (từ Mỹ,nghĩa Mỹ) đối với nước ngoài, đối ngoại (chính sách, sự buôn bán)
+@Chuyên ngành kỹ thuật
+-bên ngoài
+-ngoài
+-ở ngoài
+-phía ngoài
+@Lĩnh vực: toán & tin
+-thuộc bên ngoài
+@Chuyên ngành kỹ thuật
+-bên ngoài
+-ngoài
+-ở ngoài
+-phía ngoài
+@Lĩnh vực: toán & tin
+-thuộc bên ngoài

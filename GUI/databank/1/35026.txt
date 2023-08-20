@@ -1,3 +1,14 @@
-mirror
-	@mirror /'mirə/\n*  danh từ\n- gương\n- (nghĩa bóng) hình ảnh trung thực (của cái gì)\n*  ngoại động từ\n- phản chiếu, phản ánh\n@Chuyên ngành kỹ thuật\n-gương\n-gương chiếu hậu\n-gương phản chiếu\n-kính\n-phản chiếu\n@Lĩnh vực: toán & tin\n-đối xứng gương
-
+mirror	@mirror /'mirə/
+*  danh từ
+- gương
+- (nghĩa bóng) hình ảnh trung thực (của cái gì)
+*  ngoại động từ
+- phản chiếu, phản ánh
+@Chuyên ngành kỹ thuật
+-gương
+-gương chiếu hậu
+-gương phản chiếu
+-kính
+-phản chiếu
+@Lĩnh vực: toán & tin
+-đối xứng gương

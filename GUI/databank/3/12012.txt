@@ -1,3 +1,6 @@
-corrected
-	@corrected\n- đã sửa (chữa), đã hiệu đính\n@Chuyên ngành kỹ thuật\n-đã sửa (chữa)\n@Lĩnh vực: toán & tin\n-đã hiệu đính
-
+corrected	@corrected
+- đã sửa (chữa), đã hiệu đính
+@Chuyên ngành kỹ thuật
+-đã sửa (chữa)
+@Lĩnh vực: toán & tin
+-đã hiệu đính

@@ -1,3 +1,10 @@
-xerography
-	@Chuyên ngành kinh tế\n-kỹ thuật in tĩnh điện\n@Chuyên ngành kỹ thuật\n-sự in chụp khô\n-sự in xerô\n@Lĩnh vực: điện lạnh\n-kỹ thuật in chụp khô\n-kỹ thuật in xero\n@Lĩnh vực: vật lý\n-phương pháp in chụp tĩnh điện
-
+xerography	@Chuyên ngành kinh tế
+-kỹ thuật in tĩnh điện
+@Chuyên ngành kỹ thuật
+-sự in chụp khô
+-sự in xerô
+@Lĩnh vực: điện lạnh
+-kỹ thuật in chụp khô
+-kỹ thuật in xero
+@Lĩnh vực: vật lý
+-phương pháp in chụp tĩnh điện

@@ -1,3 +1,9 @@
-broadband
-	@broadband\n- (Tech) dải sóng rộng\n@Chuyên ngành kỹ thuật\n-băng rộng\n-dải rộng\n-dải tần rộng\n@Lĩnh vực: toán & tin\n-băng thông rộng
-
+broadband	
+@broadband
+- (Tech) dải sóng rộng
+@Chuyên ngành kỹ thuật
+-băng rộng
+-dải rộng
+-dải tần rộng
+@Lĩnh vực: toán & tin
+-băng thông rộng

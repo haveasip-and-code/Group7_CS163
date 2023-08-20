@@ -1,3 +1,2 @@
-preparer
-	@preparer\n- xem prepare
-
+preparer	@preparer
+- xem prepare

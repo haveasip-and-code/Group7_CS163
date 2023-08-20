@@ -1,3 +1,2 @@
-affixable
-	@affixable\n- xem affix
-
+affixable	@affixable
+- xem affix

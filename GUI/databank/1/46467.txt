@@ -1,3 +1,11 @@
-regulations
-	@Chuyên ngành kinh tế\n-nội quy\n-quy tác, quy định, điều lệ (công ty)\n@Chuyên ngành kỹ thuật\n-điều lệ\n-luật lệ\n-quy phạm\n-quy tắc\n@Lĩnh vực: xây dựng\n-những điều quy định\n-nội quy
-
+regulations	@Chuyên ngành kinh tế
+-nội quy
+-quy tác, quy định, điều lệ (công ty)
+@Chuyên ngành kỹ thuật
+-điều lệ
+-luật lệ
+-quy phạm
+-quy tắc
+@Lĩnh vực: xây dựng
+-những điều quy định
+-nội quy

@@ -1,3 +1,4 @@
-stylar
-	@stylar\n* tính từ\n- (sinh học) thuộc vòi nhụy\n- (sinh học) thuộc gai; lông cứng
-
+stylar	@stylar
+* tính từ
+- (sinh học) thuộc vòi nhụy
+- (sinh học) thuộc gai; lông cứng

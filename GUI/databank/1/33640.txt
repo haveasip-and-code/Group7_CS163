@@ -1,3 +1,4 @@
-mapped
-	@mapped\n- được ánh xạ\n@Chuyên ngành kỹ thuật\n-được ánh xạ
-
+mapped	@mapped
+- được ánh xạ
+@Chuyên ngành kỹ thuật
+-được ánh xạ

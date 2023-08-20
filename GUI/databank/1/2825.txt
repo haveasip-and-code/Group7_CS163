@@ -1,3 +1,11 @@
-apiary
-	@apiary /'eipjəri/\n*  danh từ\n- chỗ nuôi ong, nhà nuôi ong; đỗ ong\n@Chuyên ngành kinh tế\n-nhà nuôi ong\n@Chuyên ngành kỹ thuật\n-chỗ nuôi ong\n@Lĩnh vực: xây dựng\n-nhà nuôi ong\n-vườn nuôi ong
-
+apiary	
+@apiary /'eipjəri/
+*  danh từ
+- chỗ nuôi ong, nhà nuôi ong; đỗ ong
+@Chuyên ngành kinh tế
+-nhà nuôi ong
+@Chuyên ngành kỹ thuật
+-chỗ nuôi ong
+@Lĩnh vực: xây dựng
+-nhà nuôi ong
+-vườn nuôi ong

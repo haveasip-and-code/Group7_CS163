@@ -1,3 +1,2 @@
-percentages
-	@Chuyên ngành kỹ thuật\n-tỉ lệ phần trăm
-
+percentages	@Chuyên ngành kỹ thuật
+-tỉ lệ phần trăm

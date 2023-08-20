@@ -1,3 +1,4 @@
-disambiguate
-	@disambiguate\n* ngoại động từ\n- làm cho thành một nghĩa
-
+disambiguate	
+@disambiguate
+* ngoại động từ
+- làm cho thành một nghĩa

@@ -1,3 +1,12 @@
-snail
-	@snail /sneil/\n*  danh từ\n- con ốc sên, con sên\n=to go at the snail's pace (gallop)+ đi chậm như sên\n- người chậm như sên\n*  động từ\n- bắt ốc sên, khử ốc sên (ở vườn)\n@Chuyên ngành kinh tế\n-ốc sên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-đường xoắn ốc (phẳng)
-
+snail	@snail /sneil/
+*  danh từ
+- con ốc sên, con sên
+=to go at the snail's pace (gallop)+ đi chậm như sên
+- người chậm như sên
+*  động từ
+- bắt ốc sên, khử ốc sên (ở vườn)
+@Chuyên ngành kinh tế
+-ốc sên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-đường xoắn ốc (phẳng)

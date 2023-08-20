@@ -1,3 +1,4 @@
-tearfully
-	@tearfully\n* phó từ\n- đang khóc, sắp khóc, đẫm lệ\n- buồn phát khóc
-
+tearfully	@tearfully
+* phó từ
+- đang khóc, sắp khóc, đẫm lệ
+- buồn phát khóc

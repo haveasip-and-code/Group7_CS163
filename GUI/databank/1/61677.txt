@@ -1,3 +1,14 @@
-viability
-	@viability /,vaiə'biliti/\n*  danh từ\n- khả năng sống được (của thai nhi, cây cối...)\n- khả năng nảy mầm được (hạt giống)\n- khả năng thành tựu được (kế hoạch)\n- khả năng đứng vững (chính phủ)\n@Chuyên ngành kinh tế\n-có khả năng sinh lợi\n-khả năng đứng vững\n-khả năng đứng vững (của một xí nghiệp..)\n-tình trạng sống được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-khả năng sống được
-
+viability	@viability /,vaiə'biliti/
+*  danh từ
+- khả năng sống được (của thai nhi, cây cối...)
+- khả năng nảy mầm được (hạt giống)
+- khả năng thành tựu được (kế hoạch)
+- khả năng đứng vững (chính phủ)
+@Chuyên ngành kinh tế
+-có khả năng sinh lợi
+-khả năng đứng vững
+-khả năng đứng vững (của một xí nghiệp..)
+-tình trạng sống được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-khả năng sống được

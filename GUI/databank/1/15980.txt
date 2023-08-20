@@ -1,3 +1,10 @@
-dispenser
-	@dispenser /dis'pensə/\n*  danh từ\n- nhà bào chế, người pha chế thuốc (theo đơn)\n@Chuyên ngành kinh tế\n-cơ cấu đóng\n-dụng cụ đo lường\n-máy tự động rót\n@Chuyên ngành kỹ thuật\n-ống định lượng
-
+dispenser	
+@dispenser /dis'pensə/
+*  danh từ
+- nhà bào chế, người pha chế thuốc (theo đơn)
+@Chuyên ngành kinh tế
+-cơ cấu đóng
+-dụng cụ đo lường
+-máy tự động rót
+@Chuyên ngành kỹ thuật
+-ống định lượng

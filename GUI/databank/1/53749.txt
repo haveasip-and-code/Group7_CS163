@@ -1,3 +1,78 @@
-strip
-	@strip /strip/\n*  danh từ\n- mảnh, dải\n=a strip of cloth+ một mảnh vải\n=a strip of garden+ một mảnh vườn\n- cột truyện tranh, cột tranh vui (trong tờ báo)\n- (hàng không) đường băng ((cũng) air strip,  landing strip)\n- tước đoạt; tước (quyền...), cách (chức...)\n=to strip house+ tước đoạt hết đồ đạc trong nhà\n=to strip someone of his power+ tước quyền ai, cách chức ai\n- làm trờn răng (đinh vít, bu lông...)\n=to strip screw+ làm trờn răng một đinh vít\n- vắt cạn\n=to strip a cow+ vắt cạn sữa một con bò\n*  nội động từ\n- cởi quần áo\n=to strip to the skin+ cởi trần truồng\n- trờn răng (đinh vít, bu lông...)\n- phóng ra (đạn)\n@Chuyên ngành kỹ thuật\n-băng\n-bể tẩy gỉ\n-bể tẩy mạ\n-dải\n-đai\n-đai truyền\n-độ dốc\n-đới\n-đường sọc sợi ngang\n-làm trơn\n-nắn, vuốt\n-nẹp gỗ\n-miệng\n-phân tách\n-sọc\n-tấm đệm\n-thanh\n-vạch\n-vằn sợi\n-vê tròn (ren)\n-vệt tách sợi\n@Lĩnh vực: xây dựng\n-bản (nhỏ)\n-dải băng\n-đỡ ván khuôn\n-nẹp (gỗ)\n-thanh (gỗ)\n-thóa dỡ ván khuôn\n@Lĩnh vực: hóa học & vật liệu\n-băng thép\n-dải thép\n-dỡ khuôn\n-dỡ thỏi\n-tuyển\n@Lĩnh vực: điện\n-bóc lớp ngoài\n-thép dải\n@Lĩnh vực: giao thông & vận tải\n-dải cất hạ cánh\n-mảnh điều chỉnh\n@Lĩnh vực: cơ khí & công trình\n-dỡ dời\n-độ thoát khuôn\n-làm hư ren\n-nêm điều chỉnh (đường dẫn trượt của máy)\n-thóa rời\n-tưới (bỏ vỏ)\n-vê tròn (đầu ren)\n@Lĩnh vực: ô tô\n-hư răng\n@Lĩnh vực: y học\n-mảnh, dải\n@Lĩnh vực: điện lạnh\n-tước (cho mỏng)\n@Lĩnh vực: vật lý\n-tước bỏ\n@Lĩnh vực: dệt may\n-vệt xô sợi
-
+strip	@strip /strip/
+*  danh từ
+- mảnh, dải
+=a strip of cloth+ một mảnh vải
+=a strip of garden+ một mảnh vườn
+- cột truyện tranh, cột tranh vui (trong tờ báo)
+- (hàng không) đường băng ((cũng) air strip,  landing strip)
+- tước đoạt; tước (quyền...), cách (chức...)
+=to strip house+ tước đoạt hết đồ đạc trong nhà
+=to strip someone of his power+ tước quyền ai, cách chức ai
+- làm trờn răng (đinh vít, bu lông...)
+=to strip screw+ làm trờn răng một đinh vít
+- vắt cạn
+=to strip a cow+ vắt cạn sữa một con bò
+*  nội động từ
+- cởi quần áo
+=to strip to the skin+ cởi trần truồng
+- trờn răng (đinh vít, bu lông...)
+- phóng ra (đạn)
+@Chuyên ngành kỹ thuật
+-băng
+-bể tẩy gỉ
+-bể tẩy mạ
+-dải
+-đai
+-đai truyền
+-độ dốc
+-đới
+-đường sọc sợi ngang
+-làm trơn
+-nắn, vuốt
+-nẹp gỗ
+-miệng
+-phân tách
+-sọc
+-tấm đệm
+-thanh
+-vạch
+-vằn sợi
+-vê tròn (ren)
+-vệt tách sợi
+@Lĩnh vực: xây dựng
+-bản (nhỏ)
+-dải băng
+-đỡ ván khuôn
+-nẹp (gỗ)
+-thanh (gỗ)
+-thóa dỡ ván khuôn
+@Lĩnh vực: hóa học & vật liệu
+-băng thép
+-dải thép
+-dỡ khuôn
+-dỡ thỏi
+-tuyển
+@Lĩnh vực: điện
+-bóc lớp ngoài
+-thép dải
+@Lĩnh vực: giao thông & vận tải
+-dải cất hạ cánh
+-mảnh điều chỉnh
+@Lĩnh vực: cơ khí & công trình
+-dỡ dời
+-độ thoát khuôn
+-làm hư ren
+-nêm điều chỉnh (đường dẫn trượt của máy)
+-thóa rời
+-tưới (bỏ vỏ)
+-vê tròn (đầu ren)
+@Lĩnh vực: ô tô
+-hư răng
+@Lĩnh vực: y học
+-mảnh, dải
+@Lĩnh vực: điện lạnh
+-tước (cho mỏng)
+@Lĩnh vực: vật lý
+-tước bỏ
+@Lĩnh vực: dệt may
+-vệt xô sợi

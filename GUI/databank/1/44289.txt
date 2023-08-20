@@ -1,3 +1,8 @@
-protoplasm
-	@protoplasm /protoplasm/\n*  danh từ\n- (sinh vật học) chất nguyên sinh\n@Chuyên ngành kinh tế\n-chất nguyên sinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất nguyên sinh
-
+protoplasm	@protoplasm /protoplasm/
+*  danh từ
+- (sinh vật học) chất nguyên sinh
+@Chuyên ngành kinh tế
+-chất nguyên sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất nguyên sinh

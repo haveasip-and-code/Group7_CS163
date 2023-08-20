@@ -1,3 +1,50 @@
-rating
-	@rating /'reitiɳ/\n*  danh từ\n- sự đánh giá (tài sản để đánh thuế)\n- mức thuế (địa phương)\n- việc xếp loại; loại (ô tô, thuyền buồm đua, tàu chiến, được xếp theo mã lực, trọng tải...)\n- (hàng hải) cấp bậc; cương vị; chuyên môn (của một thuỷ thủ)\n- (số nhiều) (the rating) thuỷ thủ (trên một chiếc tàu)\n- (từ Mỹ,nghĩa Mỹ) điểm số, thứ bậc (xếp loại học sinh)\n- (kỹ thuật) công suất, hiệu suất\n- sự xỉ vả, sự mắng nhiếc tàn tệ\n@Chuyên ngành kinh tế\n-đánh giá\n-định đẳng cấp (xe hơi, tàu thủy)\n-định giá\n-định mức phí\n-hạng, đẳng cấp\n-mức nghe nhìn\n-mức nghe nhìn (các tiết mục phát thanh, truyền hình)\n-mức thuế địa phương\n-phân loại\n-việc đánh giá\n-xếp hạng\n-xếp loại\n@Chuyên ngành kỹ thuật\n-chỉ tiêu định mức\n-công suất danh nghĩa\n-đặc trưng\n-đặc trưng danh nghĩa\n-định mức\n-giá trị danh định\n-năng suất danh định\n-mức độ\n-phạm vi hoạt động\n-phân loại\n-sự đánh giá\n-sự định mức\n-sự định tỷ lệ\n-sự ghi\n-sự khắc độ\n-sự phân loại\n-sự sắp xếp\n-sự xếp loại\n@Lĩnh vực: điện lạnh\n-chế độ định mức\n-tham số danh định\n-thông số định mức\n@Lĩnh vực: xây dựng\n-sự định chuẩn\n@Lĩnh vực: cơ khí & công trình\n-sự lập quan hệ (đo dòng chảy)
-
+rating	@rating /'reitiɳ/
+*  danh từ
+- sự đánh giá (tài sản để đánh thuế)
+- mức thuế (địa phương)
+- việc xếp loại; loại (ô tô, thuyền buồm đua, tàu chiến, được xếp theo mã lực, trọng tải...)
+- (hàng hải) cấp bậc; cương vị; chuyên môn (của một thuỷ thủ)
+- (số nhiều) (the rating) thuỷ thủ (trên một chiếc tàu)
+- (từ Mỹ,nghĩa Mỹ) điểm số, thứ bậc (xếp loại học sinh)
+- (kỹ thuật) công suất, hiệu suất
+- sự xỉ vả, sự mắng nhiếc tàn tệ
+@Chuyên ngành kinh tế
+-đánh giá
+-định đẳng cấp (xe hơi, tàu thủy)
+-định giá
+-định mức phí
+-hạng, đẳng cấp
+-mức nghe nhìn
+-mức nghe nhìn (các tiết mục phát thanh, truyền hình)
+-mức thuế địa phương
+-phân loại
+-việc đánh giá
+-xếp hạng
+-xếp loại
+@Chuyên ngành kỹ thuật
+-chỉ tiêu định mức
+-công suất danh nghĩa
+-đặc trưng
+-đặc trưng danh nghĩa
+-định mức
+-giá trị danh định
+-năng suất danh định
+-mức độ
+-phạm vi hoạt động
+-phân loại
+-sự đánh giá
+-sự định mức
+-sự định tỷ lệ
+-sự ghi
+-sự khắc độ
+-sự phân loại
+-sự sắp xếp
+-sự xếp loại
+@Lĩnh vực: điện lạnh
+-chế độ định mức
+-tham số danh định
+-thông số định mức
+@Lĩnh vực: xây dựng
+-sự định chuẩn
+@Lĩnh vực: cơ khí & công trình
+-sự lập quan hệ (đo dòng chảy)

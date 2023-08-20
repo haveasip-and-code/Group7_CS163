@@ -1,3 +1,20 @@
-litter
-	@litter /'litə/\n*  danh từ\n- rác rưởi bừa bãi\n- ổ rơm (cho súc vật)\n- lượt rơm phủ (lên cây non)\n- rơm trộn phân; phân chuồng\n- lứa đẻ chó, mèo, lợn)\n- kiệu, cáng (để khiêng người bệnh, người bị thương)\n*  ngoại động từ\n- rải ổ (cho súc vật)\n- vứt rác rưởi bừa bãi lên; bày bừa lên\n- đẻ (chó, mèo, lợn...)\n*  nội động từ\n- đẻ (chó, mèo, lợn...)\n@Chuyên ngành kỹ thuật\n-rác trên đường\n-rác vương vãi\n@Chuyên ngành kỹ thuật\n-rác trên đường\n-rác vương vãi
-
+litter	@litter /'litə/
+*  danh từ
+- rác rưởi bừa bãi
+- ổ rơm (cho súc vật)
+- lượt rơm phủ (lên cây non)
+- rơm trộn phân; phân chuồng
+- lứa đẻ chó, mèo, lợn)
+- kiệu, cáng (để khiêng người bệnh, người bị thương)
+*  ngoại động từ
+- rải ổ (cho súc vật)
+- vứt rác rưởi bừa bãi lên; bày bừa lên
+- đẻ (chó, mèo, lợn...)
+*  nội động từ
+- đẻ (chó, mèo, lợn...)
+@Chuyên ngành kỹ thuật
+-rác trên đường
+-rác vương vãi
+@Chuyên ngành kỹ thuật
+-rác trên đường
+-rác vương vãi

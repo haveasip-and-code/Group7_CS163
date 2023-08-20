@@ -1,3 +1,2 @@
-clatterer
-	@clatterer\n- xem clatter
-
+clatterer	@clatterer
+- xem clatter

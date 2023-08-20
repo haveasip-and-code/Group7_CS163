@@ -1,3 +1,2 @@
-biogenic
-	@Chuyên ngành kỹ thuật\n-nguồn gốc sinh vật
-
+biogenic	@Chuyên ngành kỹ thuật
+-nguồn gốc sinh vật

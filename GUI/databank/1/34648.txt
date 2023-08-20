@@ -1,3 +1,5 @@
-metro
-	@metro /'metrou/\n*  danh từ\n- xe điện ngầm\n@Chuyên ngành kỹ thuật\n-tàu điện ngầm
-
+metro	@metro /'metrou/
+*  danh từ
+- xe điện ngầm
+@Chuyên ngành kỹ thuật
+-tàu điện ngầm

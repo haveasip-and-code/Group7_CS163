@@ -1,3 +1,22 @@
-bathe
-	@bathe /beið/\n*  danh từ\n- sự tắm (ở hồ, sông, biển, bể bơi)\n=to go for a bathe+ đi tắm (ở sông, biển...)\n*  ngoại động từ\n- tắm, đầm mình (đen & bóng)\n=to bathe one's hands in blood+ nhúng tay vào máu\n=face bathed in tears+ mặt đầm đìa nước mắt\n- rửa, rửa sạch (vết thương, mắt...)\n- bao bọc, ở sát, tiếp giáp với; chảy qua (sông, biển...)\n=it is bathed on one side by the North Sea+ một phía nó tiếp giáp với biển Bắc\n- làm ngập trong (ánh sáng)\n=room bathed in light+ căn phòng ngập ánh sáng\n*  nội động từ\n- tắm, đầm mình (ở hồ, sông, biển, bể bơi...)\n@Chuyên ngành kỹ thuật\n-rửa\n-sự nhúng\n-sự rửa\n@Lĩnh vực: xây dựng\n-tắm rửa
-
+bathe	
+@bathe /beið/
+*  danh từ
+- sự tắm (ở hồ, sông, biển, bể bơi)=to go for a bathe
++ đi tắm (ở sông, biển...)
+*  ngoại động từ
+- tắm, đầm mình (đen & bóng)=to bathe one's hands in blood
++ nhúng tay vào máu=face bathed in tears
++ mặt đầm đìa nước mắt
+- rửa, rửa sạch (vết thương, mắt...)
+- bao bọc, ở sát, tiếp giáp với; chảy qua (sông, biển...)=it is bathed on one side by the North Sea
++ một phía nó tiếp giáp với biển Bắc
+- làm ngập trong (ánh sáng)=room bathed in light
++ căn phòng ngập ánh sáng
+*  nội động từ
+- tắm, đầm mình (ở hồ, sông, biển, bể bơi...)
+@Chuyên ngành kỹ thuật
+-rửa
+-sự nhúng
+-sự rửa
+@Lĩnh vực: xây dựng
+-tắm rửa

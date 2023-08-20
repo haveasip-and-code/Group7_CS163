@@ -1,3 +1,2 @@
-stovepipe
-	@Chuyên ngành kỹ thuật\n-ống nung
-
+stovepipe	@Chuyên ngành kỹ thuật
+-ống nung

@@ -1,3 +1,2 @@
-accomplisher
-	@accomplisher\n- xem accomplish
-
+accomplisher	@accomplisher
+- xem accomplish

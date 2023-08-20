@@ -1,3 +1,4 @@
-prelature
-	@prelature\n* danh từ\n- chức giáo sĩ cao cấp\n- đoàn giáo sĩ cao cấp
-
+prelature	@prelature
+* danh từ
+- chức giáo sĩ cao cấp
+- đoàn giáo sĩ cao cấp

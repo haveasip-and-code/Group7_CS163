@@ -1,3 +1,104 @@
-rise
-	@rise /raiz/\n*  danh từ\n- sự lên, sự đưa lên, sự kéo lên, sự dâng; lên, sự tăng lên\n=at rise of sun (day)+ lúc mặt trời mọc\n=to shoot a bird on the rise+ bắn một con chim lúc đang bay lên\n=the rise to power+ sự lên nắm chính quyền\n=price are on the rise+ giá cả đang tăng lên\n- sự tăng lương\n=to ask for a rise+ xin tăng lương\n- sự thăng (cấp bậc), sự tiến lên (địa vị xã hội...)\n=the rise and falt in life+ nổi thăng trầm trong cuộc đời\n- sự nổi lên để đớp mồi (cá)\n=to be on the rise+ nổi lên đớp mồi (cá)\n- sự trèo lên, sự leo lên (núi...)\n- đường dốc, chỗ dốc, gò cao\n=a rise in the road+ chỗ đường dốc\n=to look down from the rise+ đứng trên gò cao nhìn cuống\n- chiều cao đứng thẳng, độ cao (của bậc cầu thang, vòm...)\n- nguồn gốc, căn nguyên, nguyên do; sự gây ra\n=to give rise to+ gây ra\n!to take (get) a rise out of a somebody\n- làm cho ai phát khùng lên\n- phỉnh ai\n*  nội động từ risen  /'rizn/,  rose  /rouz/\n- dậy, trở dậy, đứng dậy, đứng lên\n=to rise up early+ dậy sớm\n=to rise from table+ ăn xong đứng dậy\n=to rise to one's feet+ đứng nhỏm dậy\n=to rise in appause+ đứng dậy vỗ tay hoan nghênh\n=the hair rose on one's head+ tóc dựng ngược cả lên ở trên đầu\n=to rise from the dead+ sống lại\n- mọc (mặt trời, mặt trăng...)\n=the sun rises+ mặt trời mọc\n- lên, lên cao, bốc lên, leo lên, trèo lên, dâng lên, nổi lên\n=smoke rises up+ khói bốc lên\n=dough rises+ bột dậy lên\n=the image rises in one's mind+ hình ảnh hiện lên trong trí\n=anger is rising+ cơn giận nổi lên\n=the Red tiver is rising again+ nước sông Hồng lại dâng lên\n=spirits rise+ tinh thần phấn khởi lên\n=fishes rise to the bait+ cá nổi lên đớp mồi\n=her colour rose+ mặt cô ta ửng đỏ lên\n=the wind is rising+ gió đang nổi lên\n- tiến lên, thành đạt\n=to rise in the world+ thành đạt\n=a man likely to rise+ một người có thể tiến lên (thành đạt)\n- vượt lên trên\n=to rise above petty jealousies+ vượt lên những thói ghen tị tầm thường\n- nổi dậy\n=to rise in arms against+ vũ trang nổi dậy chống lại\n- phẫn nộ, phát tức; ghê tởm, lộn mửa\n=gorge (stomach) rises+ phát tức lên; phẫn nộ, ghê tởm, lộn mửa\n- bắt nguồn từ, do bởi\n=the river rises from a spring+ con sông bắt nguồn từ một dòng suối nhỏ\n=the quarrel rose from a misunderstanding+ sự bất hào do hiểu lầm gây ra\n- có khả năng đối phó, có thể đáp ứng với\n=to rise to requirements+ có thể đáp ứng những đòi hỏi\n- bế mạc (hội nghị...)\n=the Parliament will rise next week+ tuần sau nghị viện sẽ bế mạc\n*  ngoại động từ\n- làm nổi lên, làm hiện lên\n- trông thấy nổi lên, trông thấy hiện lên\n=not to rise a fish+ không trông thấy một con cá nào nổi lên\n=to rise a ship+ trông thấy con tàu hiện lên\n@Chuyên ngành kinh tế\n-bốc hơi\n-lên (giá)\n-lên cao\n-nổi lên (bột nhào)\n-sự lên\n-sự lên cao\n-sự tăng\n-sự tăng (giá, lương, mức chiết khấu...)\n-tăng\n@Chuyên ngành kỹ thuật\n-cần nâng\n-độ cao\n-độ vồng\n-đồi\n-đồi nhỏ\n-gò\n-nâng lên\n-nguồn (sông)\n-mũi lên vòng\n-sự dâng lên\n-sự nâng cao\n-sự nâng lên\n-sự tăng lên\n-tầng\n@Lĩnh vực: xây dựng\n-chiều cao bậc thang\n-độ cao nóc nhà\n-độ đưa lên cao\n-đường tên (vòm) độ võng của dây\n-gò cao\n-mặt đứng cầu thang\n-vồng lên\n@Lĩnh vực: cơ khí & công trình\n-chỗ dốc\n@Lĩnh vực: giao thông & vận tải\n-dâng lên (nước)\n@Lĩnh vực: toán & tin\n-độ võng của dây\n-đường tên (vòm)
-
+rise	@rise /raiz/
+*  danh từ
+- sự lên, sự đưa lên, sự kéo lên, sự dâng; lên, sự tăng lên
+=at rise of sun (day)+ lúc mặt trời mọc
+=to shoot a bird on the rise+ bắn một con chim lúc đang bay lên
+=the rise to power+ sự lên nắm chính quyền
+=price are on the rise+ giá cả đang tăng lên
+- sự tăng lương
+=to ask for a rise+ xin tăng lương
+- sự thăng (cấp bậc), sự tiến lên (địa vị xã hội...)
+=the rise and falt in life+ nổi thăng trầm trong cuộc đời
+- sự nổi lên để đớp mồi (cá)
+=to be on the rise+ nổi lên đớp mồi (cá)
+- sự trèo lên, sự leo lên (núi...)
+- đường dốc, chỗ dốc, gò cao
+=a rise in the road+ chỗ đường dốc
+=to look down from the rise+ đứng trên gò cao nhìn cuống
+- chiều cao đứng thẳng, độ cao (của bậc cầu thang, vòm...)
+- nguồn gốc, căn nguyên, nguyên do; sự gây ra
+=to give rise to+ gây ra
+!to take (get) a rise out of a somebody
+- làm cho ai phát khùng lên
+- phỉnh ai
+*  nội động từ risen  /'rizn/,  rose  /rouz/
+- dậy, trở dậy, đứng dậy, đứng lên
+=to rise up early+ dậy sớm
+=to rise from table+ ăn xong đứng dậy
+=to rise to one's feet+ đứng nhỏm dậy
+=to rise in appause+ đứng dậy vỗ tay hoan nghênh
+=the hair rose on one's head+ tóc dựng ngược cả lên ở trên đầu
+=to rise from the dead+ sống lại
+- mọc (mặt trời, mặt trăng...)
+=the sun rises+ mặt trời mọc
+- lên, lên cao, bốc lên, leo lên, trèo lên, dâng lên, nổi lên
+=smoke rises up+ khói bốc lên
+=dough rises+ bột dậy lên
+=the image rises in one's mind+ hình ảnh hiện lên trong trí
+=anger is rising+ cơn giận nổi lên
+=the Red tiver is rising again+ nước sông Hồng lại dâng lên
+=spirits rise+ tinh thần phấn khởi lên
+=fishes rise to the bait+ cá nổi lên đớp mồi
+=her colour rose+ mặt cô ta ửng đỏ lên
+=the wind is rising+ gió đang nổi lên
+- tiến lên, thành đạt
+=to rise in the world+ thành đạt
+=a man likely to rise+ một người có thể tiến lên (thành đạt)
+- vượt lên trên
+=to rise above petty jealousies+ vượt lên những thói ghen tị tầm thường
+- nổi dậy
+=to rise in arms against+ vũ trang nổi dậy chống lại
+- phẫn nộ, phát tức; ghê tởm, lộn mửa
+=gorge (stomach) rises+ phát tức lên; phẫn nộ, ghê tởm, lộn mửa
+- bắt nguồn từ, do bởi
+=the river rises from a spring+ con sông bắt nguồn từ một dòng suối nhỏ
+=the quarrel rose from a misunderstanding+ sự bất hào do hiểu lầm gây ra
+- có khả năng đối phó, có thể đáp ứng với
+=to rise to requirements+ có thể đáp ứng những đòi hỏi
+- bế mạc (hội nghị...)
+=the Parliament will rise next week+ tuần sau nghị viện sẽ bế mạc
+*  ngoại động từ
+- làm nổi lên, làm hiện lên
+- trông thấy nổi lên, trông thấy hiện lên
+=not to rise a fish+ không trông thấy một con cá nào nổi lên
+=to rise a ship+ trông thấy con tàu hiện lên
+@Chuyên ngành kinh tế
+-bốc hơi
+-lên (giá)
+-lên cao
+-nổi lên (bột nhào)
+-sự lên
+-sự lên cao
+-sự tăng
+-sự tăng (giá, lương, mức chiết khấu...)
+-tăng
+@Chuyên ngành kỹ thuật
+-cần nâng
+-độ cao
+-độ vồng
+-đồi
+-đồi nhỏ
+-gò
+-nâng lên
+-nguồn (sông)
+-mũi lên vòng
+-sự dâng lên
+-sự nâng cao
+-sự nâng lên
+-sự tăng lên
+-tầng
+@Lĩnh vực: xây dựng
+-chiều cao bậc thang
+-độ cao nóc nhà
+-độ đưa lên cao
+-đường tên (vòm) độ võng của dây
+-gò cao
+-mặt đứng cầu thang
+-vồng lên
+@Lĩnh vực: cơ khí & công trình
+-chỗ dốc
+@Lĩnh vực: giao thông & vận tải
+-dâng lên (nước)
+@Lĩnh vực: toán & tin
+-độ võng của dây
+-đường tên (vòm)

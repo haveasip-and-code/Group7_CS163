@@ -1,3 +1,7 @@
-cimex
-	@cimex\n* danh từ\n- số nhiều cimices\n- (động vật) con rệp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rệp cimex
-
+cimex	@cimex
+* danh từ
+- số nhiều cimices
+- (động vật) con rệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-rệp cimex

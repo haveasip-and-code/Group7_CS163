@@ -1,3 +1,14 @@
-analyst
-	@analyst /'ænəlist/\n*  danh từ\n- người phân tích\n- (toán học) nhà giải tích\n@Chuyên ngành kinh tế\n-chuyên viên phân tích\n-nhà phân tích (tài chánh)\n@Chuyên ngành kỹ thuật\n-người giám sát\n-người phân tích\n@Lĩnh vực: toán & tin\n-nhà phân tích\n@Lĩnh vực: xây dựng\n-phân tích viên
-
+analyst	@analyst /'ænəlist/
+*  danh từ
+- người phân tích
+- (toán học) nhà giải tích
+@Chuyên ngành kinh tế
+-chuyên viên phân tích
+-nhà phân tích (tài chánh)
+@Chuyên ngành kỹ thuật
+-người giám sát
+-người phân tích
+@Lĩnh vực: toán & tin
+-nhà phân tích
+@Lĩnh vực: xây dựng
+-phân tích viên

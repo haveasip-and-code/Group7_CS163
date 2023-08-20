@@ -1,3 +1,12 @@
-radiogram
-	@radiogram /'reidiougræm/\n*  danh từ\n- điện báo rađiô\n- (y học) phim rơngen, ảnh tia X\n- ((viết tắt) của radiogramophone) máy hát điện; máy rađiô có quay đĩa\n@Chuyên ngành kinh tế\n-bức điện vô tuyến\n-điện báo vô tuyến\n-vô tuyến điện báo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-điện tín vô tuyến
-
+radiogram	@radiogram /'reidiougræm/
+*  danh từ
+- điện báo rađiô
+- (y học) phim rơngen, ảnh tia X
+- ((viết tắt) của radiogramophone) máy hát điện; máy rađiô có quay đĩa
+@Chuyên ngành kinh tế
+-bức điện vô tuyến
+-điện báo vô tuyến
+-vô tuyến điện báo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-điện tín vô tuyến

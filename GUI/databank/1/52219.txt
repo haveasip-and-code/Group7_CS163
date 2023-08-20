@@ -1,3 +1,12 @@
-specified
-	@specified\n* tính từ\n- theo danh nghĩa; lý thuyết\n@Chuyên ngành kỹ thuật\n-đã được ghi rõ\n-định vị\n-dự kiến\n-thiết lập\n-xác lập\n@Lĩnh vực: cơ khí & công trình\n-chỉ dẫn (trong điều kiện kỹ thuật)\n-được xác định chính xác (kích thước)
-
+specified	@specified
+* tính từ
+- theo danh nghĩa; lý thuyết
+@Chuyên ngành kỹ thuật
+-đã được ghi rõ
+-định vị
+-dự kiến
+-thiết lập
+-xác lập
+@Lĩnh vực: cơ khí & công trình
+-chỉ dẫn (trong điều kiện kỹ thuật)
+-được xác định chính xác (kích thước)

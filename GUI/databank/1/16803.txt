@@ -1,3 +1,35 @@
-drill
-	@drill /dril/\n*  danh từ\n- (kỹ thuật) mũi khoan; máy khoan\n- (động vật học) ốc khoan\n*  động từ\n- khoan\n*  danh từ\n- (quân sự) sự tập luyện\n- (nghĩa bóng) kỷ luật chặt chẽ; sự rèn luyện thường xuyên\n*  động từ\n- rèn luyện, luyện tập\n=to drill in grammar+ rèn luyện về môn ngữ pháp\n=to drill troops+ tập luyện cho quân đội\n*  danh từ\n- luống (để gieo hạt)\n- máy gieo và lấp hạt\n*  ngoại động từ\n- gieo (hạt) thành hàng; trồng thành luống\n*  danh từ\n- (động vật học) khỉ mặt xanh\n- vải thô\n@Chuyên ngành kỹ thuật\n-búa khoan\n-cái khoan\n-choòng\n-choòng khoan\n-doa\n-dụng cụ khoan\n-khoan\n-khoan lỗ\n-khoan thủng\n-máy doa\n-máy khoan\n-mũi khoan
-
+drill	
+@drill /dril/
+*  danh từ
+- (kỹ thuật) mũi khoan; máy khoan
+- (động vật học) ốc khoan
+*  động từ
+- khoan
+*  danh từ
+- (quân sự) sự tập luyện
+- (nghĩa bóng) kỷ luật chặt chẽ; sự rèn luyện thường xuyên
+*  động từ
+- rèn luyện, luyện tập=to drill in grammar
++ rèn luyện về môn ngữ pháp=to drill troops
++ tập luyện cho quân đội
+*  danh từ
+- luống (để gieo hạt)
+- máy gieo và lấp hạt
+*  ngoại động từ
+- gieo (hạt) thành hàng; trồng thành luống
+*  danh từ
+- (động vật học) khỉ mặt xanh
+- vải thô
+@Chuyên ngành kỹ thuật
+-búa khoan
+-cái khoan
+-choòng
+-choòng khoan
+-doa
+-dụng cụ khoan
+-khoan
+-khoan lỗ
+-khoan thủng
+-máy doa
+-máy khoan
+-mũi khoan

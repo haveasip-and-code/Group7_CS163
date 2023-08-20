@@ -1,3 +1,34 @@
-elutriation
-	@elutriation\n* danh từ\n- sự gạn sạch, sự rửa sạch\n@Chuyên ngành kinh tế\n-sự đãi\n-sự lắng\n-sự rửa\n@Chuyên ngành kỹ thuật\n-gạn\n-lắng trong\n-sự chắt rỉ\n-sự đãi\n-sự gạn\n-sự lắng trong\n-sự ngâm rỉ\n-sự rửa\n@Lĩnh vực: xây dựng\n-sự chắt\n@Lĩnh vực: hóa học & vật liệu\n-sự rửa lắng\n@Chuyên ngành kỹ thuật\n-gạn\n-lắng trong\n-sự chắt rỉ\n-sự đãi\n-sự gạn\n-sự lắng trong\n-sự ngâm rỉ\n-sự rửa\n@Lĩnh vực: xây dựng\n-sự chắt\n@Lĩnh vực: hóa học & vật liệu\n-sự rửa lắng
-
+elutriation	
+@elutriation
+* danh từ
+- sự gạn sạch, sự rửa sạch
+@Chuyên ngành kinh tế
+-sự đãi
+-sự lắng
+-sự rửa
+@Chuyên ngành kỹ thuật
+-gạn
+-lắng trong
+-sự chắt rỉ
+-sự đãi
+-sự gạn
+-sự lắng trong
+-sự ngâm rỉ
+-sự rửa
+@Lĩnh vực: xây dựng
+-sự chắt
+@Lĩnh vực: hóa học & vật liệu
+-sự rửa lắng
+@Chuyên ngành kỹ thuật
+-gạn
+-lắng trong
+-sự chắt rỉ
+-sự đãi
+-sự gạn
+-sự lắng trong
+-sự ngâm rỉ
+-sự rửa
+@Lĩnh vực: xây dựng
+-sự chắt
+@Lĩnh vực: hóa học & vật liệu
+-sự rửa lắng

@@ -1,3 +1,5 @@
-higher
-	@higher\n- cao hơn, có cấp cao hơn\n@Chuyên ngành kỹ thuật\n-cao hơn
-
+higher	
+@higher
+- cao hơn, có cấp cao hơn
+@Chuyên ngành kỹ thuật
+-cao hơn

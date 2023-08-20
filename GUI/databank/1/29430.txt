@@ -1,3 +1,10 @@
-interphase
-	@interphase\n* danh từ\n- (sinh học) kỳ gian phân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-giữa các pha\n-mặt phân pha\n@Lĩnh vực: điện\n-liên pha
-
+interphase	
+@interphase
+* danh từ
+- (sinh học) kỳ gian phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-giữa các pha
+-mặt phân pha
+@Lĩnh vực: điện
+-liên pha

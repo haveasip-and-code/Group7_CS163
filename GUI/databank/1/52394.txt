@@ -1,3 +1,50 @@
-spike
-	@spike /spaik/\n*  danh từ\n- (thực vật học) bông (kiểu cụm hoa)\n- cây oải hương ((cũng) spike lavender)\n- cá thu con (dài chưa quá 6 nisơ)\n- đầu nhọn; gai (ở dây thép gai)\n- que nhọn, chấn song sắt nhọn đầu\n- đinh đế giày (đinh nhọn đóng vào đế giày để cho khỏi trượt)\n- đinh đóng đường ray\n*  ngoại động từ\n- đóng bằng đinh\n- cắm que nhọn; lắp chấn song nhọn đầu\n- đâm bằng que sắt nhọn\n- (thể dục,thể thao) nện đinh giày làm bị thương (đối phương)\n- bịt miệng (nòng súng)\n- làm trở nên vô ích, làm mất tác dụng; làm hỏng, ngăn chặn (một âm mưu)\n- (từ Mỹ,nghĩa Mỹ) chấm dứt (một ý kiến...)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) pha rượu mạnh vào (đồ uống)\n@Chuyên ngành kinh tế\n-bông (lúa) cá thu non\n@Chuyên ngành kỹ thuật\n-bulông\n-cọc nhọn\n-đầu nhọn\n-đinh\n-đinh đầu bẹt\n-đinh đường ray\n-đinh lớn\n-đinh mấu\n-đinh móc\n-đinh móc tường\n-đỉnh nhọn\n-đinh ray\n-đột biến\n-mấu\n-móc sắt\n-mũi nhọn\n-phần tử mầm\n@Lĩnh vực: xây dựng\n-đinh cămpông\n-đóng bằng đinh\n-que nhọn\n@Lĩnh vực: toán & tin\n-đỉnh nhọn, xung nhọn\n@Lĩnh vực: giao thông & vận tải\n-đóng đinh đường\n@Lĩnh vực: điện tử & viễn thông\n-vạch cộng hưởng\n@Lĩnh vực: điện\n-xung nhiễu
-
+spike	@spike /spaik/
+*  danh từ
+- (thực vật học) bông (kiểu cụm hoa)
+- cây oải hương ((cũng) spike lavender)
+- cá thu con (dài chưa quá 6 nisơ)
+- đầu nhọn; gai (ở dây thép gai)
+- que nhọn, chấn song sắt nhọn đầu
+- đinh đế giày (đinh nhọn đóng vào đế giày để cho khỏi trượt)
+- đinh đóng đường ray
+*  ngoại động từ
+- đóng bằng đinh
+- cắm que nhọn; lắp chấn song nhọn đầu
+- đâm bằng que sắt nhọn
+- (thể dục,thể thao) nện đinh giày làm bị thương (đối phương)
+- bịt miệng (nòng súng)
+- làm trở nên vô ích, làm mất tác dụng; làm hỏng, ngăn chặn (một âm mưu)
+- (từ Mỹ,nghĩa Mỹ) chấm dứt (một ý kiến...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) pha rượu mạnh vào (đồ uống)
+@Chuyên ngành kinh tế
+-bông (lúa) cá thu non
+@Chuyên ngành kỹ thuật
+-bulông
+-cọc nhọn
+-đầu nhọn
+-đinh
+-đinh đầu bẹt
+-đinh đường ray
+-đinh lớn
+-đinh mấu
+-đinh móc
+-đinh móc tường
+-đỉnh nhọn
+-đinh ray
+-đột biến
+-mấu
+-móc sắt
+-mũi nhọn
+-phần tử mầm
+@Lĩnh vực: xây dựng
+-đinh cămpông
+-đóng bằng đinh
+-que nhọn
+@Lĩnh vực: toán & tin
+-đỉnh nhọn, xung nhọn
+@Lĩnh vực: giao thông & vận tải
+-đóng đinh đường
+@Lĩnh vực: điện tử & viễn thông
+-vạch cộng hưởng
+@Lĩnh vực: điện
+-xung nhiễu

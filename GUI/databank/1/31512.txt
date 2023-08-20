@@ -1,3 +1,10 @@
-laptop
-	@laptop\n- máy tính laptop, máy tính xách tay\n@Chuyên ngành kinh tế\n-máy vi tính xách tay\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trên đùi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trên đùi
-
+laptop	@laptop
+- máy tính laptop, máy tính xách tay
+@Chuyên ngành kinh tế
+-máy vi tính xách tay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-trên đùi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-trên đùi

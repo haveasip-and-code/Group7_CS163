@@ -1,3 +1,5 @@
-totally
-	@totally\n* phó từ\n- hoàn toàn\n@Chuyên ngành kỹ thuật\n-hoàn toàn
-
+totally	@totally
+* phó từ
+- hoàn toàn
+@Chuyên ngành kỹ thuật
+-hoàn toàn

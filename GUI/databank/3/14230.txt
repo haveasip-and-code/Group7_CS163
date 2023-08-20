@@ -1,3 +1,16 @@
-deletion
-	@deletion /di'li:ʃn/\n*  danh từ\n- sự gạch đi, sự xoá đi, sự bỏ đi\n@Chuyên ngành kinh tế\n-bỏ đi\n-sự gạch đi\n-xóa đi\n@Chuyên ngành kỹ thuật\n-sự bỏ\n-sự bỏ đi\n-sự hủy\n-sự xóa\n@Lĩnh vực: y học\n-đứt đoạn, thiếu hụt\n@Lĩnh vực: toán & tin\n-sự gạch
-
+deletion	@deletion /di'li:ʃn/
+*  danh từ
+- sự gạch đi, sự xoá đi, sự bỏ đi
+@Chuyên ngành kinh tế
+-bỏ đi
+-sự gạch đi
+-xóa đi
+@Chuyên ngành kỹ thuật
+-sự bỏ
+-sự bỏ đi
+-sự hủy
+-sự xóa
+@Lĩnh vực: y học
+-đứt đoạn, thiếu hụt
+@Lĩnh vực: toán & tin
+-sự gạch

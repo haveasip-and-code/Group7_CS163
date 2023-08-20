@@ -1,3 +1,4 @@
-disconfirm
-	@disconfirm\n* ngoại động từ\n- phản đối
-
+disconfirm	
+@disconfirm
+* ngoại động từ
+- phản đối

@@ -1,3 +1,9 @@
-rad
-	@rad\n* danh từ\n- rad (đơn vị bức xạ)\n@Chuyên ngành kỹ thuật\n-bộ tản nhiệt\n-két nước\n@Lĩnh vực: điện lạnh\n-rađ (đơn vị liều lượng hấp thụ, ký hiệu rd)\n-rad (ký hiệu của rađian)
-
+rad	@rad
+* danh từ
+- rad (đơn vị bức xạ)
+@Chuyên ngành kỹ thuật
+-bộ tản nhiệt
+-két nước
+@Lĩnh vực: điện lạnh
+-rađ (đơn vị liều lượng hấp thụ, ký hiệu rd)
+-rad (ký hiệu của rađian)

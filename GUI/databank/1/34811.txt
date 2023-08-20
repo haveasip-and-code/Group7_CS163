@@ -1,3 +1,5 @@
-midrange
-	@midrange\n* danh từ\n- khoảng cách/tầm xa trung bình\n@Chuyên ngành kỹ thuật\n-khoảng cách
-
+midrange	@midrange
+* danh từ
+- khoảng cách/tầm xa trung bình
+@Chuyên ngành kỹ thuật
+-khoảng cách

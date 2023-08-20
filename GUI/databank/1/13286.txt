@@ -1,3 +1,11 @@
-cyberspace
-	@cyberspace\n- (Tech) không gian tự khiển, không gian xaibơ\n@Chuyên ngành kinh tế\n-không gian kiểm sóat tự động hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không gian điện tử\n-không gian điều khiển\n@Lĩnh vực: toán & tin\n-không gian máy tính
-
+cyberspace	
+@cyberspace
+- (Tech) không gian tự khiển, không gian xaibơ
+@Chuyên ngành kinh tế
+-không gian kiểm sóat tự động hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không gian điện tử
+-không gian điều khiển
+@Lĩnh vực: toán & tin
+-không gian máy tính

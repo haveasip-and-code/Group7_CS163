@@ -1,3 +1,2 @@
-politicker
-	@politicker\n- xem politick
-
+politicker	@politicker
+- xem politick

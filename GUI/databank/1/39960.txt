@@ -1,3 +1,2 @@
-patcher
-	@patcher\n- xem patch
-
+patcher	@patcher
+- xem patch

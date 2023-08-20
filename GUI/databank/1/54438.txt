@@ -1,3 +1,4 @@
-sulfurize
-	@Chuyên ngành kỹ thuật\n-lưu hóa\n@Lĩnh vực: hóa học & vật liệu\n-thêm lưu huỳnh
-
+sulfurize	@Chuyên ngành kỹ thuật
+-lưu hóa
+@Lĩnh vực: hóa học & vật liệu
+-thêm lưu huỳnh

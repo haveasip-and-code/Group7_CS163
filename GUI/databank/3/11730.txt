@@ -1,3 +1,2 @@
-convexly
-	@convexly\n- xem convex
-
+convexly	@convexly
+- xem convex

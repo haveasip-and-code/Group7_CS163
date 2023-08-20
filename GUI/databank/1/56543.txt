@@ -1,3 +1,2 @@
-thrombocyte
-	@Chuyên ngành kỹ thuật\n-tiểu cầu
-
+thrombocyte	@Chuyên ngành kỹ thuật
+-tiểu cầu

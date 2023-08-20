@@ -1,3 +1,45 @@
-ridge
-	@ridge /ridʤ/\n*  danh từ\n- chóp, chỏm, ngọn, đỉnh (núi); nóc (nhà); sống (mũi)\n- dây (đồi, gò)\n- lằn gợn (trên cát)\n- luống (đất)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền\n*  ngoại động từ\n- vun (đất) thành luống\n- trồng (cây) thành luống\n- làm có lằn gợn (trên cát)\n*  nội động từ\n- thành luống nhấp nhô\n- nổi sóng nhấp nhô (biển); gợn lên\n@Chuyên ngành kỹ thuật\n-đá ngầm\n-dầm nóc\n-đặt xà nóc\n-dãy núi\n-đỉnh\n-đỉnh núi\n-đỉnh ren\n-đường chia nước\n-đường phân thủy\n-đường xoi\n-gờ\n-khía\n-ngọn\n-ngọn sóng\n-ngưỡng\n-nóc\n-nóc nhà\n-rầm nóc\n-rãnh\n-rìa xờm\n-sống núi\n-vết xước\n@Lĩnh vực: y học\n-cung, ụ\n@Lĩnh vực: môi trường\n-lưỡi khí áp cao (áp suất khí quyển)\n@Lĩnh vực: xây dựng\n-nóc mái\n@Lĩnh vực: cơ khí & công trình\n-mạch núi
-
+ridge	@ridge /ridʤ/
+*  danh từ
+- chóp, chỏm, ngọn, đỉnh (núi); nóc (nhà); sống (mũi)
+- dây (đồi, gò)
+- lằn gợn (trên cát)
+- luống (đất)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền
+*  ngoại động từ
+- vun (đất) thành luống
+- trồng (cây) thành luống
+- làm có lằn gợn (trên cát)
+*  nội động từ
+- thành luống nhấp nhô
+- nổi sóng nhấp nhô (biển); gợn lên
+@Chuyên ngành kỹ thuật
+-đá ngầm
+-dầm nóc
+-đặt xà nóc
+-dãy núi
+-đỉnh
+-đỉnh núi
+-đỉnh ren
+-đường chia nước
+-đường phân thủy
+-đường xoi
+-gờ
+-khía
+-ngọn
+-ngọn sóng
+-ngưỡng
+-nóc
+-nóc nhà
+-rầm nóc
+-rãnh
+-rìa xờm
+-sống núi
+-vết xước
+@Lĩnh vực: y học
+-cung, ụ
+@Lĩnh vực: môi trường
+-lưỡi khí áp cao (áp suất khí quyển)
+@Lĩnh vực: xây dựng
+-nóc mái
+@Lĩnh vực: cơ khí & công trình
+-mạch núi

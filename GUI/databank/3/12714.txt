@@ -1,3 +1,2 @@
-croakily
-	@croakily\n- xem croak
-
+croakily	@croakily
+- xem croak

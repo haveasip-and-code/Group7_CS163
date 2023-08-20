@@ -1,3 +1,19 @@
-maturity
-	@maturity /mə'tjuəriti/\n*  danh từ\n- tính chín; tính thành thực, tính trưởng thành\n- tính cẩn thận, tính chín chắn, tính kỹ càng\n- (thương nghiệp) kỳ hạn phải thanh toán\n@Chuyên ngành kinh tế\n-độ chín\n-hạn kỳ\n-kỳ hạn\n-ngày đáo hạn\n-ngày đến hạn\n-ngày đến hạn thanh toán\n-tính chín\n@Chuyên ngành kỹ thuật\n-ngày trả nợ\n@Lĩnh vực: hóa học & vật liệu\n-sự trưởng thành\n@Lĩnh vực: y học\n-thời kỳ trưởng thành, độ chín
-
+maturity	@maturity /mə'tjuəriti/
+*  danh từ
+- tính chín; tính thành thực, tính trưởng thành
+- tính cẩn thận, tính chín chắn, tính kỹ càng
+- (thương nghiệp) kỳ hạn phải thanh toán
+@Chuyên ngành kinh tế
+-độ chín
+-hạn kỳ
+-kỳ hạn
+-ngày đáo hạn
+-ngày đến hạn
+-ngày đến hạn thanh toán
+-tính chín
+@Chuyên ngành kỹ thuật
+-ngày trả nợ
+@Lĩnh vực: hóa học & vật liệu
+-sự trưởng thành
+@Lĩnh vực: y học
+-thời kỳ trưởng thành, độ chín

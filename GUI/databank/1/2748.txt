@@ -1,3 +1,10 @@
-anxiety
-	@anxiety /æɳ'zaiəti/\n*  danh từ\n- mối lo, mối lo âu, mối băn khoăn; sự lo lắng\n=to be in a state of mortal anxiety+ lo chết đi được\n- lòng ước ao, lòng khao khát; sự khắc khoải\n=to have an anxiety for something+ ước ao cái gì\n=to have an anxiety to do something+ ước ao làm gì\n@Chuyên ngành kỹ thuật\n-lo âu, bồn chồn
-
+anxiety	
+@anxiety /æɳ'zaiəti/
+*  danh từ
+- mối lo, mối lo âu, mối băn khoăn; sự lo lắng=to be in a state of mortal anxiety
++ lo chết đi được
+- lòng ước ao, lòng khao khát; sự khắc khoải=to have an anxiety for something
++ ước ao cái gì=to have an anxiety to do something
++ ước ao làm gì
+@Chuyên ngành kỹ thuật
+-lo âu, bồn chồn

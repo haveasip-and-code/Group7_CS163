@@ -1,3 +1,6 @@
-leptonic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-lepton\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-lepton
-
+leptonic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-lepton
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-lepton

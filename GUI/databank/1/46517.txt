@@ -1,3 +1,21 @@
-reinforcement
-	@reinforcement /,ri:in'fɔ:smənt/\n*  danh từ\n- sự tăng cường, sự củng cố; sự tăng viện\n- (số nhiều) (quân sự) quân tiếp viện\n@Chuyên ngành kỹ thuật\n-cốt\n-sự gia cố\n-sự gia cường\n-sự tăng cường\n-sườn\n-thiết bị\n-vỏ bọc\n-vỏ bọc thép\n@Lĩnh vực: y học\n-củng cố\n@Lĩnh vực: xây dựng\n-phụ tùng nối ống\n-sự đặt cốt\n-sự đặt cốt thép\n-sự tăng cứng\n-vật liệu gia cố
-
+reinforcement	@reinforcement /,ri:in'fɔ:smənt/
+*  danh từ
+- sự tăng cường, sự củng cố; sự tăng viện
+- (số nhiều) (quân sự) quân tiếp viện
+@Chuyên ngành kỹ thuật
+-cốt
+-sự gia cố
+-sự gia cường
+-sự tăng cường
+-sườn
+-thiết bị
+-vỏ bọc
+-vỏ bọc thép
+@Lĩnh vực: y học
+-củng cố
+@Lĩnh vực: xây dựng
+-phụ tùng nối ống
+-sự đặt cốt
+-sự đặt cốt thép
+-sự tăng cứng
+-vật liệu gia cố

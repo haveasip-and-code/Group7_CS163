@@ -1,3 +1,2 @@
-detacher
-	@Chuyên ngành kinh tế\n-máy tháo dỡ
-
+detacher	@Chuyên ngành kinh tế
+-máy tháo dỡ

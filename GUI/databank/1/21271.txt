@@ -1,3 +1,22 @@
-flaky
-	@flaky /fleik/\n*  tính từ\n- có bông (như tuyết)\n- dễ bong ra từng mảnh\n@Chuyên ngành kinh tế\n-giống như bông\n-giống như cốm\n@Chuyên ngành kỹ thuật\n-dạng vảy\n@Lĩnh vực: xây dựng\n-có bông\n@Lĩnh vực: hóa học & vật liệu\n-có dạng phiến\n-có dạng vảy\n@Chuyên ngành kỹ thuật\n-dạng vảy\n@Lĩnh vực: xây dựng\n-có bông\n@Lĩnh vực: hóa học & vật liệu\n-có dạng phiến\n-có dạng vảy
-
+flaky	
+@flaky /fleik/
+*  tính từ
+- có bông (như tuyết)
+- dễ bong ra từng mảnh
+@Chuyên ngành kinh tế
+-giống như bông
+-giống như cốm
+@Chuyên ngành kỹ thuật
+-dạng vảy
+@Lĩnh vực: xây dựng
+-có bông
+@Lĩnh vực: hóa học & vật liệu
+-có dạng phiến
+-có dạng vảy
+@Chuyên ngành kỹ thuật
+-dạng vảy
+@Lĩnh vực: xây dựng
+-có bông
+@Lĩnh vực: hóa học & vật liệu
+-có dạng phiến
+-có dạng vảy

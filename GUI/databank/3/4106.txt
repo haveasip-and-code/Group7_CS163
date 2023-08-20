@@ -1,3 +1,2 @@
-automatist
-	@automatist\n- xem automatism
-
+automatist	@automatist
+- xem automatism

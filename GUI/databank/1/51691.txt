@@ -1,3 +1,2 @@
-softs
-	@Chuyên ngành kinh tế\n-hàng mềm
-
+softs	@Chuyên ngành kinh tế
+-hàng mềm

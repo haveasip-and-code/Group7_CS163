@@ -1,3 +1,28 @@
-complex
-	@complex /'kɔmleks/\n*  tính từ\n- phức tạp, rắc rối\n=a complex question+ một vấn đề phức tạp\n*  danh từ\n- mớ phức tạp, phức hệ\n- nhà máy liên hợp; khu công nghiệp liên hợp\n!inferiority complex\n- (tâm lý học) phức cảm tự ti\n!superiority complex\n- (tâm lý học) phức cảm tự tôn\n@Chuyên ngành kinh tế\n-bộ\n-bố trí toàn bộ\n-phức hệ\n@Chuyên ngành kỹ thuật\n-khu liên hợp\n-nhà máy liên hợp\n-mở\n-phức\n-phức chất\n-phức hợp\n-phức tạp\n-quần thể\n@Lĩnh vực: hóa học & vật liệu\n-phức hệ\n@Lĩnh vực: xây dựng\n-số phức\n-tổ hợp công trình
-
+complex	
+@complex /'kɔmleks/
+*  tính từ
+- phức tạp, rắc rối=a complex question
++ một vấn đề phức tạp
+*  danh từ
+- mớ phức tạp, phức hệ
+- nhà máy liên hợp; khu công nghiệp liên hợp!inferiority complex
+- (tâm lý học) phức cảm tự ti!superiority complex
+- (tâm lý học) phức cảm tự tôn
+@Chuyên ngành kinh tế
+-bộ
+-bố trí toàn bộ
+-phức hệ
+@Chuyên ngành kỹ thuật
+-khu liên hợp
+-nhà máy liên hợp
+-mở
+-phức
+-phức chất
+-phức hợp
+-phức tạp
+-quần thể
+@Lĩnh vực: hóa học & vật liệu
+-phức hệ
+@Lĩnh vực: xây dựng
+-số phức
+-tổ hợp công trình

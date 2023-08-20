@@ -1,3 +1,4 @@
-implicitly
-	@implicitly\n* phó từ\n- hoàn toàn
-
+implicitly	
+@implicitly
+* phó từ
+- hoàn toàn

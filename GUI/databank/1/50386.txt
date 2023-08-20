@@ -1,3 +1,11 @@
-shipmaster
-	@shipmaster /'ʃip,mɑstə/\n*  danh từ\n- thuyền trưởng\n@Chuyên ngành kinh tế\n-hạm trưởng\n-thuyền trưởng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thuyền trưởng\n@Lĩnh vực: giao thông & vận tải\n-thuyền trưởng (đội tàu buôn)
-
+shipmaster	@shipmaster /'ʃip,mɑstə/
+*  danh từ
+- thuyền trưởng
+@Chuyên ngành kinh tế
+-hạm trưởng
+-thuyền trưởng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thuyền trưởng
+@Lĩnh vực: giao thông & vận tải
+-thuyền trưởng (đội tàu buôn)

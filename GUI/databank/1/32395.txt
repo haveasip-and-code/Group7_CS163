@@ -1,3 +1,15 @@
-listen
-	@listen /'lisn/\n*  nội động từ\n- nghe, lắng nghe\n=listen to me!+ hãy nghe tôi\n- nghe theo, tuân theo, vâng lời\n=to listen to reason+ nghe theo lẽ phải\n!to listen in\n- nghe đài\n- nghe trộm điện thoại\n@Chuyên ngành kỹ thuật\n-lắng nghe\n-nghe\n@Chuyên ngành kỹ thuật\n-lắng nghe\n-nghe
-
+listen	@listen /'lisn/
+*  nội động từ
+- nghe, lắng nghe
+=listen to me!+ hãy nghe tôi
+- nghe theo, tuân theo, vâng lời
+=to listen to reason+ nghe theo lẽ phải
+!to listen in
+- nghe đài
+- nghe trộm điện thoại
+@Chuyên ngành kỹ thuật
+-lắng nghe
+-nghe
+@Chuyên ngành kỹ thuật
+-lắng nghe
+-nghe

@@ -1,3 +1,12 @@
-sparge
-	@sparge\n* nội động từ\n- vảy nước, rảy nước\n@Chuyên ngành kinh tế\n-phun\n-rửa cặn bia (trong thùng lọc)\n-sự phun\n-sự rửa cặn bia\n-sự tưới\n-tưới\n@Chuyên ngành kỹ thuật\n-phun
-
+sparge	@sparge
+* nội động từ
+- vảy nước, rảy nước
+@Chuyên ngành kinh tế
+-phun
+-rửa cặn bia (trong thùng lọc)
+-sự phun
+-sự rửa cặn bia
+-sự tưới
+-tưới
+@Chuyên ngành kỹ thuật
+-phun

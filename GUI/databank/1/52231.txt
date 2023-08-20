@@ -1,3 +1,5 @@
-specs
-	@specs /speks/\n*  danh từ số nhiều\n- (thông tục) kính (đeo mắt)\n@Chuyên ngành kỹ thuật\n-đặc điểm kỹ thuật, chi tiết kỹ thuật
-
+specs	@specs /speks/
+*  danh từ số nhiều
+- (thông tục) kính (đeo mắt)
+@Chuyên ngành kỹ thuật
+-đặc điểm kỹ thuật, chi tiết kỹ thuật

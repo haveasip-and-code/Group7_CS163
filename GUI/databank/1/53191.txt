@@ -1,3 +1,2 @@
-stemmery
-	@Chuyên ngành kinh tế\n-nhà tách cuống thuốc lá
-
+stemmery	@Chuyên ngành kinh tế
+-nhà tách cuống thuốc lá

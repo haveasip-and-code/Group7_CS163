@@ -1,3 +1,3 @@
-backscattered
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bị tán xạ ngược
-
+backscattered	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bị tán xạ ngược

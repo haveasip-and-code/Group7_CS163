@@ -1,3 +1,15 @@
-siemens
-	@siemens\n* danh từ\n- đơn vị đo độ dẫn điện (xi men)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-S (đơn vị điện dẫn)\n@Lĩnh vực: điện lạnh\n-simen (đơn vị điện dẫn và dẫn nạp)\n@Lĩnh vực: điện\n-ximen (đơn vị đo điện dẫn)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đơn vị Si về độ dẫn điện\n@Lĩnh vực: toán & tin\n-hãng Siemens
-
+siemens	@siemens
+* danh từ
+- đơn vị đo độ dẫn điện (xi men)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-S (đơn vị điện dẫn)
+@Lĩnh vực: điện lạnh
+-simen (đơn vị điện dẫn và dẫn nạp)
+@Lĩnh vực: điện
+-ximen (đơn vị đo điện dẫn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đơn vị Si về độ dẫn điện
+@Lĩnh vực: toán & tin
+-hãng Siemens

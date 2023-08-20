@@ -1,3 +1,40 @@
-grating
-	@grating /'greitiɳ/\n*  danh từ\n- lưới sắt (che cửa sổ)\n- (vật lý) con cách\n=a concave grating+ con cách lõm\n=a sound grating+ con cách âm thanh\n*  danh từ\n- tiếng chói tai, tiếng rít kèn kẹt\n- cảm giác khó chịu, cảm giác gai người\n*  tính từ\n- xé tai, chói tai, rít lên kêu kèn kẹt, the thé\n- làm khó chịu, làm gai người\n@Chuyên ngành kinh tế\n-lưới sắt\n-sản phẩm nghiền\n@Chuyên ngành kỹ thuật\n-bệ cọc\n-đài cọc\n-ghi\n-ghi lò\n-khung sườn\n-lò sưởi\n-lưới\n-lưới (đóng tàu)\n-lưới lò\n-lưới nhiễu xạ\n-lưới sắt\n-mạng lưới\n-rui mè\n-tấm lót\n-tấm lưới\n-vỉ lò, ghi lò\n@Lĩnh vực: xây dựng\n-cái ghi (lò)\n-mạng thanh giằng\n@Lĩnh vực: điện tử & viễn thông\n-loại lưới sóng\n@Lĩnh vực: giao thông & vận tải\n-thép tấm lỗ
-
+grating	
+@grating /'greitiɳ/
+*  danh từ
+- lưới sắt (che cửa sổ)
+- (vật lý) con cách=a concave grating
++ con cách lõm=a sound grating
++ con cách âm thanh
+*  danh từ
+- tiếng chói tai, tiếng rít kèn kẹt
+- cảm giác khó chịu, cảm giác gai người
+*  tính từ
+- xé tai, chói tai, rít lên kêu kèn kẹt, the thé
+- làm khó chịu, làm gai người
+@Chuyên ngành kinh tế
+-lưới sắt
+-sản phẩm nghiền
+@Chuyên ngành kỹ thuật
+-bệ cọc
+-đài cọc
+-ghi
+-ghi lò
+-khung sườn
+-lò sưởi
+-lưới
+-lưới (đóng tàu)
+-lưới lò
+-lưới nhiễu xạ
+-lưới sắt
+-mạng lưới
+-rui mè
+-tấm lót
+-tấm lưới
+-vỉ lò, ghi lò
+@Lĩnh vực: xây dựng
+-cái ghi (lò)
+-mạng thanh giằng
+@Lĩnh vực: điện tử & viễn thông
+-loại lưới sóng
+@Lĩnh vực: giao thông & vận tải
+-thép tấm lỗ

@@ -1,3 +1,17 @@
-launcher
-	@launcher /'lɔ:ntʃə/\n*  danh từ\n- người phóng, máy phóng (lựu đạn, tên lửa...)\n@Chuyên ngành kỹ thuật\n-thiết bị khởi động\n@Lĩnh vực: điện tử & viễn thông\n-bộ phận phóng\n-dàn phóng\n@Lĩnh vực: điện lạnh\n-giàn phóng\n@Chuyên ngành kỹ thuật\n-thiết bị khởi động\n@Lĩnh vực: điện tử & viễn thông\n-bộ phận phóng\n-dàn phóng\n@Lĩnh vực: điện lạnh\n-giàn phóng
-
+launcher	@launcher /'lɔ:ntʃə/
+*  danh từ
+- người phóng, máy phóng (lựu đạn, tên lửa...)
+@Chuyên ngành kỹ thuật
+-thiết bị khởi động
+@Lĩnh vực: điện tử & viễn thông
+-bộ phận phóng
+-dàn phóng
+@Lĩnh vực: điện lạnh
+-giàn phóng
+@Chuyên ngành kỹ thuật
+-thiết bị khởi động
+@Lĩnh vực: điện tử & viễn thông
+-bộ phận phóng
+-dàn phóng
+@Lĩnh vực: điện lạnh
+-giàn phóng

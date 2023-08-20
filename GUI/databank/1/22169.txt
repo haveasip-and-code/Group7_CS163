@@ -1,3 +1,6 @@
-fractal
-	@fractal\n- (Tech) phân dạng; phép toán tạo hình phân dạng\n@Chuyên ngành kỹ thuật\n-fractan\n-hệ chiết hình
-
+fractal	
+@fractal
+- (Tech) phân dạng; phép toán tạo hình phân dạng
+@Chuyên ngành kỹ thuật
+-fractan
+-hệ chiết hình

@@ -1,3 +1,42 @@
-bypass
-	@bypass /'baipɑ:s/\n*  danh từ\n- đường vòng (để tránh một vị trí nào trên đường chính, để tránh ùn xe lại...)\n- (điện học) đường rẽ, sun\n- lỗ phun hơi đốt phụ\n*  ngoại động từ\n- làm đường vòng (ở nơi nào)\n- đi vòng\n- (nghĩa bóng) bỏ qua, phớt lờ\n@Chuyên ngành kỹ thuật\n-bỏ qua\n-đường rẽ\n-đường tắt\n-đường tránh\n-đường vòng\n-lối đi vòng\n-lối rẽ\n-nhánh\n-ống\n-rãnh vòng\n-rẽ\n-sự đi vòng\n-vòng qua\n-xả ra\n@Lĩnh vực: điện\n-dấu tắt\n@Lĩnh vực: ô tô\n-đi vòng\n@Lĩnh vực: xây dựng\n-đường (đi) vòng\n-đường ống vòng\n-máng vòng\n-ống phân dòng\n-ống rẽ dòng\n-vành vòng\n@Lĩnh vực: hóa học & vật liệu\n-ống nối vòng\n@Lĩnh vực: cơ khí & công trình\n-rãnh thoát dư\n-van tràn dư\n@Lĩnh vực: vật lý\n-rẽ mạch
-
+bypass	@bypass /'baipɑ:s/
+*  danh từ
+- đường vòng (để tránh một vị trí nào trên đường chính, để tránh ùn xe lại...)
+- (điện học) đường rẽ, sun
+- lỗ phun hơi đốt phụ
+*  ngoại động từ
+- làm đường vòng (ở nơi nào)
+- đi vòng
+- (nghĩa bóng) bỏ qua, phớt lờ
+@Chuyên ngành kỹ thuật
+-bỏ qua
+-đường rẽ
+-đường tắt
+-đường tránh
+-đường vòng
+-lối đi vòng
+-lối rẽ
+-nhánh
+-ống
+-rãnh vòng
+-rẽ
+-sự đi vòng
+-vòng qua
+-xả ra
+@Lĩnh vực: điện
+-dấu tắt
+@Lĩnh vực: ô tô
+-đi vòng
+@Lĩnh vực: xây dựng
+-đường (đi) vòng
+-đường ống vòng
+-máng vòng
+-ống phân dòng
+-ống rẽ dòng
+-vành vòng
+@Lĩnh vực: hóa học & vật liệu
+-ống nối vòng
+@Lĩnh vực: cơ khí & công trình
+-rãnh thoát dư
+-van tràn dư
+@Lĩnh vực: vật lý
+-rẽ mạch

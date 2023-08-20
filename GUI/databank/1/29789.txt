@@ -1,3 +1,12 @@
-investor
-	@investor /in'vestə/\n*  danh từ\n- người đầu tư\n@Chuyên ngành kinh tế\n-người đầu tư\n-nhà đầu tư\n@Chuyên ngành kỹ thuật\n-người hùn (vốn)\n@Lĩnh vực: xây dựng\n-chủ đầu tư\n-đầu tư viên
-
+investor	
+@investor /in'vestə/
+*  danh từ
+- người đầu tư
+@Chuyên ngành kinh tế
+-người đầu tư
+-nhà đầu tư
+@Chuyên ngành kỹ thuật
+-người hùn (vốn)
+@Lĩnh vực: xây dựng
+-chủ đầu tư
+-đầu tư viên

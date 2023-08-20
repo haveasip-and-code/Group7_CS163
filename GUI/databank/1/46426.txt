@@ -1,3 +1,2 @@
-regionalize
-	@regionalize\n- xem regionalise
-
+regionalize	@regionalize
+- xem regionalise

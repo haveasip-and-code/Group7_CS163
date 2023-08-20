@@ -1,3 +1,7 @@
-summable
-	@summable\n- s. khả tổng; khả tích\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-khả tích\n-khả tổng\n-khả tổng, khả tích
-
+summable	@summable
+- s. khả tổng; khả tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-khả tích
+-khả tổng
+-khả tổng, khả tích

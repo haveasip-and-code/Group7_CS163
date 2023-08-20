@@ -1,3 +1,6 @@
-squared
-	@Chuyên ngành kỹ thuật\n-vát cạnh\n@Lĩnh vực: xây dựng\n-được đẽo thành vuông (gỗ)\n-được đóng khung\n-được viền
-
+squared	@Chuyên ngành kỹ thuật
+-vát cạnh
+@Lĩnh vực: xây dựng
+-được đẽo thành vuông (gỗ)
+-được đóng khung
+-được viền

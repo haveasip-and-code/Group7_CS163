@@ -1,3 +1,11 @@
-dissect
-	@dissect /di'sekt/\n*  ngoại động từ\n- cắt ra từng mảnh, chặt ra từng khúc\n- mổ xẻ, giải phẫu (con vật, thân cây)\n- mổ xẻ, phân tích kỹ, khảo sát tỉ mỉ, phê phán từng li từng tí\n@Chuyên ngành kỹ thuật\n-cắt\n-phân chia\n@Lĩnh vực: toán & tin\n-phân hoạch
-
+dissect	
+@dissect /di'sekt/
+*  ngoại động từ
+- cắt ra từng mảnh, chặt ra từng khúc
+- mổ xẻ, giải phẫu (con vật, thân cây)
+- mổ xẻ, phân tích kỹ, khảo sát tỉ mỉ, phê phán từng li từng tí
+@Chuyên ngành kỹ thuật
+-cắt
+-phân chia
+@Lĩnh vực: toán & tin
+-phân hoạch

@@ -1,3 +1,8 @@
-propylaeum
-	@propylaeum /propylaeum/\n*  danh từ số nhiều\n- cửa đến\n@Chuyên ngành kỹ thuật\n-cổng chào\n@Lĩnh vực: xây dựng\n-cửa đền\n-trang môn
-
+propylaeum	@propylaeum /propylaeum/
+*  danh từ số nhiều
+- cửa đến
+@Chuyên ngành kỹ thuật
+-cổng chào
+@Lĩnh vực: xây dựng
+-cửa đền
+-trang môn

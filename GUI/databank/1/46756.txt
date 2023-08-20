@@ -1,3 +1,29 @@
-renew
-	@renew /ri'nju:/\n*  ngoại động từ\n- hồi phục lại, làm hồi lại\n- thay mới, đổi mới\n=to renew one's youth+ làm trẻ lại\n=to renew the water in a vase+ thay nước mới ở bình\n- làm lại, nối lại, nói lại, nhắc lại, tiếp tục sau (một thời gian gián đoạn)\n=to renew a contract+ ký lại một bản hợp đồng\n=to renew one's friendship with someone+ nối lại tình bạn với ai\n=to renew a promise+ nhắc lại lời hứa\n*  nội động từ\n- (từ hiếm,nghĩa hiếm) lại trở thành mới lại\n=the clamour renewed+ tiếng ồn ào lại trở lại\n@Chuyên ngành kinh tế\n-canh tân\n-đổi mới\n-gia hạn\n-hồi phục lại\n-khôi phục\n-ký kết lại\n-làm cho có hiệu lực trở lại\n-làm lại\n-lập lại\n-tái lập\n-thay đổi\n-thay mới\n-tía tục\n@Chuyên ngành kỹ thuật\n-làm mới
-
+renew	@renew /ri'nju:/
+*  ngoại động từ
+- hồi phục lại, làm hồi lại
+- thay mới, đổi mới
+=to renew one's youth+ làm trẻ lại
+=to renew the water in a vase+ thay nước mới ở bình
+- làm lại, nối lại, nói lại, nhắc lại, tiếp tục sau (một thời gian gián đoạn)
+=to renew a contract+ ký lại một bản hợp đồng
+=to renew one's friendship with someone+ nối lại tình bạn với ai
+=to renew a promise+ nhắc lại lời hứa
+*  nội động từ
+- (từ hiếm,nghĩa hiếm) lại trở thành mới lại
+=the clamour renewed+ tiếng ồn ào lại trở lại
+@Chuyên ngành kinh tế
+-canh tân
+-đổi mới
+-gia hạn
+-hồi phục lại
+-khôi phục
+-ký kết lại
+-làm cho có hiệu lực trở lại
+-làm lại
+-lập lại
+-tái lập
+-thay đổi
+-thay mới
+-tía tục
+@Chuyên ngành kỹ thuật
+-làm mới

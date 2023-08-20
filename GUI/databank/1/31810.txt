@@ -1,3 +1,2 @@
-led
-	@led /led/\n*  động tính từ quá khứ của lead
-
+led	@led /led/
+*  động tính từ quá khứ của lead

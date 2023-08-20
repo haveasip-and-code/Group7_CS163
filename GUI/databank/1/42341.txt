@@ -1,3 +1,8 @@
-police
-	@police /pə'li:s/\n*  danh từ\n- cảnh sát, công an (lực lượng, tổ chức...)\n- (dùng như số nhiều) những người cảnh sát, những người công an\n*  ngoại động từ\n- khống chế (kiểm soát) (một vùng...) bằng lực lượng cảnh sát (công an)\n- (nghĩa bóng) giữ trật tự\n- cung cấp lực lượng cảnh sát (công an) cho, bố trí lực lượng cảnh sát (công an) cho (một nơi nào)
-
+police	@police /pə'li:s/
+*  danh từ
+- cảnh sát, công an (lực lượng, tổ chức...)
+- (dùng như số nhiều) những người cảnh sát, những người công an
+*  ngoại động từ
+- khống chế (kiểm soát) (một vùng...) bằng lực lượng cảnh sát (công an)
+- (nghĩa bóng) giữ trật tự
+- cung cấp lực lượng cảnh sát (công an) cho, bố trí lực lượng cảnh sát (công an) cho (một nơi nào)

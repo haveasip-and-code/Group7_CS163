@@ -1,3 +1,5 @@
-numeric
-	@Chuyên ngành kỹ thuật\n-bằng số\n-số\n@Lĩnh vực: đo lường & điều khiển\n-thuộc số
-
+numeric	@Chuyên ngành kỹ thuật
+-bằng số
+-số
+@Lĩnh vực: đo lường & điều khiển
+-thuộc số

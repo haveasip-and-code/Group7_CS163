@@ -1,3 +1,47 @@
-lime
-	@lime /laim/\n*  danh từ\n- (thực vật học) chanh lá cam\n- (thực vật học) (như) linden\n- nhựa bẫy chim\n- vôi\n*  ngoại động từ\n- bẫy chim bằng nhựa\n- bón vôi, rắc vôi\n- nhúng vào nước vôi, ngâm vào nước vôi\n@Chuyên ngành kinh tế\n-chanh cốm\n-chanh lá cam\n-màu vàng chanh\n-sữa vôi\n-tinh dầu\n-vôi\n@Chuyên ngành kỹ thuật\n-chanh cốm\n-đá vôi\n-gỗ bồ đề\n-keo\n-quét vôi\n-vôi\n-vôi (khoáng vật)\n@Lĩnh vực: xây dựng\n-đá vôi bitum\n-vôi xanh\n@Lĩnh vực: toán & tin\n-vàng chanh\n@Lĩnh vực: hóa học & vật liệu\n-vôi, đá vôi\n@Chuyên ngành kỹ thuật\n-chanh cốm\n-đá vôi\n-gỗ bồ đề\n-keo\n-quét vôi\n-vôi\n-vôi (khoáng vật)\n@Lĩnh vực: xây dựng\n-đá vôi bitum\n-vôi xanh\n@Lĩnh vực: toán & tin\n-vàng chanh\n@Lĩnh vực: hóa học & vật liệu\n-vôi, đá vôi
-
+lime	@lime /laim/
+*  danh từ
+- (thực vật học) chanh lá cam
+- (thực vật học) (như) linden
+- nhựa bẫy chim
+- vôi
+*  ngoại động từ
+- bẫy chim bằng nhựa
+- bón vôi, rắc vôi
+- nhúng vào nước vôi, ngâm vào nước vôi
+@Chuyên ngành kinh tế
+-chanh cốm
+-chanh lá cam
+-màu vàng chanh
+-sữa vôi
+-tinh dầu
+-vôi
+@Chuyên ngành kỹ thuật
+-chanh cốm
+-đá vôi
+-gỗ bồ đề
+-keo
+-quét vôi
+-vôi
+-vôi (khoáng vật)
+@Lĩnh vực: xây dựng
+-đá vôi bitum
+-vôi xanh
+@Lĩnh vực: toán & tin
+-vàng chanh
+@Lĩnh vực: hóa học & vật liệu
+-vôi, đá vôi
+@Chuyên ngành kỹ thuật
+-chanh cốm
+-đá vôi
+-gỗ bồ đề
+-keo
+-quét vôi
+-vôi
+-vôi (khoáng vật)
+@Lĩnh vực: xây dựng
+-đá vôi bitum
+-vôi xanh
+@Lĩnh vực: toán & tin
+-vàng chanh
+@Lĩnh vực: hóa học & vật liệu
+-vôi, đá vôi

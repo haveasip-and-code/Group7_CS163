@@ -1,3 +1,2 @@
-utilidors
-	@Chuyên ngành kinh tế\n-đường thông phụ
-
+utilidors	@Chuyên ngành kinh tế
+-đường thông phụ

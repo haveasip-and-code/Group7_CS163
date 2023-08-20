@@ -1,3 +1,2 @@
-puler
-	@puler\n- xem pule
-
+puler	@puler
+- xem pule

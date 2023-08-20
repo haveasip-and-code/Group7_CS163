@@ -1,3 +1,6 @@
-cypher
-	@cypher\n- (Tech) số không; chữ số; mã\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-kỹ mã
-
+cypher	
+@cypher
+- (Tech) số không; chữ số; mã
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-kỹ mã

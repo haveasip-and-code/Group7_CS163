@@ -1,3 +1,3 @@
-boarded
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đã lát vát
-
+boarded	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đã lát vát

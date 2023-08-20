@@ -1,3 +1,7 @@
-diphtheria
-	@diphtheria\n* danh từ\n- <y> bệnh bạch hầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh bạch hầu
-
+diphtheria	
+@diphtheria
+* danh từ
+- <y> bệnh bạch hầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh bạch hầu

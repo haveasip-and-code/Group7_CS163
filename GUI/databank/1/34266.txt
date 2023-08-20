@@ -1,3 +1,3 @@
-members
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thành viên
-
+members	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thành viên

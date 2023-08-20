@@ -1,3 +1,7 @@
-deft
-	@deft /deft/\n*  tính từ\n- khéo léo, khéo tay\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khéo
-
+deft	
+@deft /deft/
+*  tính từ
+- khéo léo, khéo tay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khéo

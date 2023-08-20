@@ -1,3 +1,6 @@
-teleprocessing
-	@Chuyên ngành kinh tế\n-xử lý thông tin từ xa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự viễn xử lý\n-xử lý từ xa
-
+teleprocessing	@Chuyên ngành kinh tế
+-xử lý thông tin từ xa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự viễn xử lý
+-xử lý từ xa

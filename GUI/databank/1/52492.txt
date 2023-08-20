@@ -1,3 +1,59 @@
-spit
-	@spit /spit/\n*  danh từ\n- cái xiên (nướng thịt trong lò quay)\n- mũi đất (nhô ra biển)\n- bờ ngầm\n*  ngoại động từ\n- xiên (thịt để nướng trong lò quay)\n- đâm xuyên (nhô ra biển)\n- bờ ngầm\n*  ngoại động từ\n- xiên (thịt để nướng trong lò quay)\n- đâm xuyên (bằng gươm)\n*  danh từ\n- sự khạc, sự nhổ\n- sự phun phì phì (mèo)\n- nước bọt, nước dãi\n- cơn mưa lún phún, cơm mưa ngắn, trận mưa tuyết ngắn\n- trứng (sâu bọ)\n- (thông tục) vật giống như hệt, người giống như hệt\n=he is the very spit of his father+ anh ta giống bố như hệt\n=the spit and image of somebody+ (thông tục) người giống hệt ai\n*  nội động từ spat\n- khạc, nhổ nước bọt\n=to spit in someone's face+ nhổ vào mặt ai, khinh bỉ ai\n- phun phì phì (mèo)\n- làu bàu\n- mưa lún phún\n- bắn, toé (lửa); toé mực (bút)\n*  ngoại động từ\n- khạc, nhổ (nước bọt)\n- thốt ra, phun ra, nói to\n=to spit an oath+ thốt ra một lời nguyền rủa\n!to spit at\n- phỉ nhổ (ai); coi (ai) như rác\n!to spit out\n- khạc ra\n- phun ra, nói hở ra (điều bí mật)\n!spit it out!\n- muốn nói gì thì nói nhanh lên!\n!to spit upon\n- (như) to spit at\n*  danh từ\n- mai (bề sâu xắn xuống đất bằng chiều dài của lưỡi mai)\n=to gig it two spits deep+ đào sâu hai mai\n@Chuyên ngành kinh tế\n-xiên thành xâu (Cá)\n@Chuyên ngành kinh tế\n-que xiên\n@Chuyên ngành kỹ thuật\n-cái mai\n-chảy ra\n-cơn mưa ngắn\n-doi cát\n-phun ra\n@Lĩnh vực: xây dựng\n-bể sâu xắn mai\n-cái xẻng\n@Lĩnh vực: hóa học & vật liệu\n-doi đất (nhô ra biển)
-
+spit	@spit /spit/
+*  danh từ
+- cái xiên (nướng thịt trong lò quay)
+- mũi đất (nhô ra biển)
+- bờ ngầm
+*  ngoại động từ
+- xiên (thịt để nướng trong lò quay)
+- đâm xuyên (nhô ra biển)
+- bờ ngầm
+*  ngoại động từ
+- xiên (thịt để nướng trong lò quay)
+- đâm xuyên (bằng gươm)
+*  danh từ
+- sự khạc, sự nhổ
+- sự phun phì phì (mèo)
+- nước bọt, nước dãi
+- cơn mưa lún phún, cơm mưa ngắn, trận mưa tuyết ngắn
+- trứng (sâu bọ)
+- (thông tục) vật giống như hệt, người giống như hệt
+=he is the very spit of his father+ anh ta giống bố như hệt
+=the spit and image of somebody+ (thông tục) người giống hệt ai
+*  nội động từ spat
+- khạc, nhổ nước bọt
+=to spit in someone's face+ nhổ vào mặt ai, khinh bỉ ai
+- phun phì phì (mèo)
+- làu bàu
+- mưa lún phún
+- bắn, toé (lửa); toé mực (bút)
+*  ngoại động từ
+- khạc, nhổ (nước bọt)
+- thốt ra, phun ra, nói to
+=to spit an oath+ thốt ra một lời nguyền rủa
+!to spit at
+- phỉ nhổ (ai); coi (ai) như rác
+!to spit out
+- khạc ra
+- phun ra, nói hở ra (điều bí mật)
+!spit it out!
+- muốn nói gì thì nói nhanh lên!
+!to spit upon
+- (như) to spit at
+*  danh từ
+- mai (bề sâu xắn xuống đất bằng chiều dài của lưỡi mai)
+=to gig it two spits deep+ đào sâu hai mai
+@Chuyên ngành kinh tế
+-xiên thành xâu (Cá)
+@Chuyên ngành kinh tế
+-que xiên
+@Chuyên ngành kỹ thuật
+-cái mai
+-chảy ra
+-cơn mưa ngắn
+-doi cát
+-phun ra
+@Lĩnh vực: xây dựng
+-bể sâu xắn mai
+-cái xẻng
+@Lĩnh vực: hóa học & vật liệu
+-doi đất (nhô ra biển)

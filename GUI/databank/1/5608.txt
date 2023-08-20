@@ -1,3 +1,5 @@
-biomechanics
-	@Chuyên ngành kỹ thuật\n-sinh học\n@Lĩnh vực: vật lý\n-học sinh vật
-
+biomechanics	
+@Chuyên ngành kỹ thuật
+-sinh học
+@Lĩnh vực: vật lý
+-học sinh vật

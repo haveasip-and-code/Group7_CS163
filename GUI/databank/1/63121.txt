@@ -1,3 +1,4 @@
-withered
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-bị héo\n-tàn úa
-
+withered	@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-bị héo
+-tàn úa

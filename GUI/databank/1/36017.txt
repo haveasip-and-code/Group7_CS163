@@ -1,3 +1,6 @@
-multivariate
-	@multivariate\n- nhiều chiều\n@Chuyên ngành kỹ thuật\n-đa lượng biến\n@Lĩnh vực: toán & tin\n-nhiều chiều
-
+multivariate	@multivariate
+- nhiều chiều
+@Chuyên ngành kỹ thuật
+-đa lượng biến
+@Lĩnh vực: toán & tin
+-nhiều chiều

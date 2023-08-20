@@ -1,3 +1,14 @@
-shortness
-	@shortness\n* danh từ\n- sự ngắn gọn\n- sự tinh giòn\n= cold shortness+sự tinh giòn nguội\n= hot shortness+sự tinh giòn nóng\n@Chuyên ngành kinh tế\n-độ giòn\n-tính dễ giòn\n-tính dễ vỡ\n@Chuyên ngành kỹ thuật\n-độ giòn\n@Lĩnh vực: cơ khí & công trình\n-sự giòn
-
+shortness	@shortness
+* danh từ
+- sự ngắn gọn
+- sự tinh giòn
+= cold shortness+sự tinh giòn nguội
+= hot shortness+sự tinh giòn nóng
+@Chuyên ngành kinh tế
+-độ giòn
+-tính dễ giòn
+-tính dễ vỡ
+@Chuyên ngành kỹ thuật
+-độ giòn
+@Lĩnh vực: cơ khí & công trình
+-sự giòn

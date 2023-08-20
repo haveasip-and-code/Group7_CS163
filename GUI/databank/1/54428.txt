@@ -1,3 +1,8 @@
-sulfite
-	@sulfite\n- <hóa> Sunfit, muối của axit sunfurơ\n@Chuyên ngành kinh tế\n-sunfit\n@Chuyên ngành kỹ thuật\n-sunfit\n@Lĩnh vực: hóa học & vật liệu\n-sunphit
-
+sulfite	@sulfite
+- <hóa> Sunfit, muối của axit sunfurơ
+@Chuyên ngành kinh tế
+-sunfit
+@Chuyên ngành kỹ thuật
+-sunfit
+@Lĩnh vực: hóa học & vật liệu
+-sunphit

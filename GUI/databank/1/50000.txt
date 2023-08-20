@@ -1,3 +1,15 @@
-serration
-	@serration /se'reiʃn/\n*  danh từ\n- đường răng cưa\n- sự khía thành răng cưa\n@Chuyên ngành kỹ thuật\n-đường răng cưa\n-hình khía răng cưa\n-răng\n-sự khía rãnh\n-vấu\n@Lĩnh vực: cơ khí & công trình\n-mối ghép răng nhỏ\n-răng nhỏ\n@Lĩnh vực: y học\n-răng, vấu
-
+serration	@serration /se'reiʃn/
+*  danh từ
+- đường răng cưa
+- sự khía thành răng cưa
+@Chuyên ngành kỹ thuật
+-đường răng cưa
+-hình khía răng cưa
+-răng
+-sự khía rãnh
+-vấu
+@Lĩnh vực: cơ khí & công trình
+-mối ghép răng nhỏ
+-răng nhỏ
+@Lĩnh vực: y học
+-răng, vấu

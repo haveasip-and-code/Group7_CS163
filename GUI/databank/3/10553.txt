@@ -1,3 +1,4 @@
-commode
-	@commode\n* danh từ\n- tủ nhiều ngăn, tủ commôt\n- ghế dùng để tiểu tiện trong phòng ngủ
-
+commode	@commode
+* danh từ
+- tủ nhiều ngăn, tủ commôt
+- ghế dùng để tiểu tiện trong phòng ngủ

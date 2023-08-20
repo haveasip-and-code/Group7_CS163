@@ -1,3 +1,14 @@
-reactive
-	@reactive /ri:'æktiv/\n*  tính từ\n- tác động trở lại, ảnh hưởng trở lại, phản ứng lại\n- (vật lý),  (hoá học) phản ứng\n- (chính trị) phản động\n@Chuyên ngành kỹ thuật\n-hoạt động\n-phản lực\n-phản tác dụng\n-phản ứng\n@Lĩnh vực: y học\n-do phản ứng\n@Lĩnh vực: điện lạnh\n-phản kháng
-
+reactive	@reactive /ri:'æktiv/
+*  tính từ
+- tác động trở lại, ảnh hưởng trở lại, phản ứng lại
+- (vật lý),  (hoá học) phản ứng
+- (chính trị) phản động
+@Chuyên ngành kỹ thuật
+-hoạt động
+-phản lực
+-phản tác dụng
+-phản ứng
+@Lĩnh vực: y học
+-do phản ứng
+@Lĩnh vực: điện lạnh
+-phản kháng

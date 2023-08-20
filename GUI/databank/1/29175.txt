@@ -1,3 +1,16 @@
-intensity
-	@intensity /in'tensiti/\n*  danh từ\n- độ mạnh, cường độ\n- sức mạnh; tính mãnh liệt, tính dữ dội\n- sự xúc cảm mãnh liệt\n@Chuyên ngành kinh tế\n-cường độ\n-độ mạnh\n@Chuyên ngành kỹ thuật\n-cường độ, cấp bão\n-cường độ, cấp gió\n-độ lớn\n-mật độ\n@Lĩnh vực: xây dựng\n-độ mạnh
-
+intensity	
+@intensity /in'tensiti/
+*  danh từ
+- độ mạnh, cường độ
+- sức mạnh; tính mãnh liệt, tính dữ dội
+- sự xúc cảm mãnh liệt
+@Chuyên ngành kinh tế
+-cường độ
+-độ mạnh
+@Chuyên ngành kỹ thuật
+-cường độ, cấp bão
+-cường độ, cấp gió
+-độ lớn
+-mật độ
+@Lĩnh vực: xây dựng
+-độ mạnh

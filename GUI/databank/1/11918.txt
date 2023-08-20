@@ -1,3 +1,10 @@
-coring
-	@Chuyên ngành kỹ thuật\n-lấy mẫu lõi\n-sự làm thao (đúc)\n-sự xay\n@Lĩnh vực: hóa học & vật liệu\n-sự lấy lõi khoan\n-sự lấy mẫu lõi\n@Lĩnh vực: cơ khí & công trình\n-sư tán nhỏ
-
+coring	
+@Chuyên ngành kỹ thuật
+-lấy mẫu lõi
+-sự làm thao (đúc)
+-sự xay
+@Lĩnh vực: hóa học & vật liệu
+-sự lấy lõi khoan
+-sự lấy mẫu lõi
+@Lĩnh vực: cơ khí & công trình
+-sư tán nhỏ

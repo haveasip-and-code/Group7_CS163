@@ -1,3 +1,11 @@
-terminator
-	@Chuyên ngành kỹ thuật\n-đầu cuối\n-dấu kết thúc\n-khớp nối\n-người kết thúc\n@Lĩnh vực: điện tử & viễn thông\n-bộ phân giới\n@Lĩnh vực: toán & tin\n-đầu cắm cuối buýt\n-ký tự kết thúc\n-thiết bị kết thúc
-
+terminator	@Chuyên ngành kỹ thuật
+-đầu cuối
+-dấu kết thúc
+-khớp nối
+-người kết thúc
+@Lĩnh vực: điện tử & viễn thông
+-bộ phân giới
+@Lĩnh vực: toán & tin
+-đầu cắm cuối buýt
+-ký tự kết thúc
+-thiết bị kết thúc

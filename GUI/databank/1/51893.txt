@@ -1,3 +1,18 @@
-soot
-	@soot /sut/\n*  danh từ\n- bồ hóng, muội, nhọ nồi\n*  ngoại động từ\n- phủ bồ hóng, phủ muội, phủ nhọ nồi\n@Chuyên ngành kỹ thuật\n-bồ hóng\n-đóng cáu\n-mồ hóng\n-muội\n-muội đèn\n-muội than\n-phủ bồ hóng\n@Lĩnh vực: điện\n-muội lò\n@Lĩnh vực: cơ khí & công trình\n-phủ muội\n-than cốc (trong dầu)
-
+soot	@soot /sut/
+*  danh từ
+- bồ hóng, muội, nhọ nồi
+*  ngoại động từ
+- phủ bồ hóng, phủ muội, phủ nhọ nồi
+@Chuyên ngành kỹ thuật
+-bồ hóng
+-đóng cáu
+-mồ hóng
+-muội
+-muội đèn
+-muội than
+-phủ bồ hóng
+@Lĩnh vực: điện
+-muội lò
+@Lĩnh vực: cơ khí & công trình
+-phủ muội
+-than cốc (trong dầu)

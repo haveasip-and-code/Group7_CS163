@@ -1,3 +1,5 @@
-multiunit
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nhiều đơn vị\n@Lĩnh vực: hóa học & vật liệu\n-nhiều thành phần
-
+multiunit	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-nhiều đơn vị
+@Lĩnh vực: hóa học & vật liệu
+-nhiều thành phần

@@ -1,3 +1,8 @@
-scree
-	@scree /skri:/\n*  danh từ\n- hòn đá nhỏ (nằm trên sườn núi)\n- sườn núi đầy đá nhỏ\n@Chuyên ngành kỹ thuật\n-đá dăm\n-đá sắc cạnh\n-lở tích
-
+scree	@scree /skri:/
+*  danh từ
+- hòn đá nhỏ (nằm trên sườn núi)
+- sườn núi đầy đá nhỏ
+@Chuyên ngành kỹ thuật
+-đá dăm
+-đá sắc cạnh
+-lở tích

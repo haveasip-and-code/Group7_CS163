@@ -1,3 +1,18 @@
-partial
-	@partial /'pɑ:ʃəl/\n*  tính từ\n- bộ phận; cục bộ\n=a partial success+ thắng lợi cục bộ\n- thiên vị; không công bằng\n- (+ to) mê thích\n=to be partial to sports+ mê thích thể thao\n@Chuyên ngành kỹ thuật\n-cục bộ\n-không hoàn toàn\n-một phần\n-riêng\n-riêng phần\n@Lĩnh vực: điện lạnh\n-âm thành phần\n@Lĩnh vực: toán & tin\n-phần riêng\n-riêng, riêng phần
-
+partial	@partial /'pɑ:ʃəl/
+*  tính từ
+- bộ phận; cục bộ
+=a partial success+ thắng lợi cục bộ
+- thiên vị; không công bằng
+- (+ to) mê thích
+=to be partial to sports+ mê thích thể thao
+@Chuyên ngành kỹ thuật
+-cục bộ
+-không hoàn toàn
+-một phần
+-riêng
+-riêng phần
+@Lĩnh vực: điện lạnh
+-âm thành phần
+@Lĩnh vực: toán & tin
+-phần riêng
+-riêng, riêng phần

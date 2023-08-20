@@ -1,3 +1,2 @@
-stepper
-	@Chuyên ngành kỹ thuật\n-động cơ bước
-
+stepper	@Chuyên ngành kỹ thuật
+-động cơ bước

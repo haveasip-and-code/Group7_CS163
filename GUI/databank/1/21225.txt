@@ -1,3 +1,11 @@
-fixtures
-	@Chuyên ngành kỹ thuật\n-cốt\n-đồ gá\n-sườn\n-thiết bị\n@Chuyên ngành kỹ thuật\n-cốt\n-đồ gá\n-sườn\n-thiết bị
-
+fixtures	
+@Chuyên ngành kỹ thuật
+-cốt
+-đồ gá
+-sườn
+-thiết bị
+@Chuyên ngành kỹ thuật
+-cốt
+-đồ gá
+-sườn
+-thiết bị

@@ -1,3 +1,4 @@
-codable
-	@codable\n* tính từ\n- có thể mã hoá
-
+codable	
+@codable
+* tính từ
+- có thể mã hoá

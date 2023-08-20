@@ -1,3 +1,4 @@
-dispersant
-	@Chuyên ngành kỹ thuật\n-chất phân tán\n-chất tán sắc
-
+dispersant	
+@Chuyên ngành kỹ thuật
+-chất phân tán
+-chất tán sắc

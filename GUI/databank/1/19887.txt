@@ -1,3 +1,7 @@
-expiry
-	@expiry /expiry/\n*  danh từ\n- sự mãn hạn, sự kết thúc\n@Chuyên ngành kinh tế\n-sự hết hạn\n-sự kết thúc
-
+expiry	
+@expiry /expiry/
+*  danh từ
+- sự mãn hạn, sự kết thúc
+@Chuyên ngành kinh tế
+-sự hết hạn
+-sự kết thúc

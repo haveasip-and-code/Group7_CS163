@@ -1,3 +1,2 @@
-crepitant
-	@crepitant\n- xem crepitate
-
+crepitant	@crepitant
+- xem crepitate

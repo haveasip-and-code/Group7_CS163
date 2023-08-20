@@ -1,3 +1,27 @@
-dent
-	@dent /dent/\n*  danh từ\n- hình rập nổi, vết lõm (do bị rập mạnh)\n- vết mẻ (ở lưỡi dao)\n*  ngoại động từ\n- rập hình nổi; làm cho có vết lõm\n- làm mẻ (lưỡi dao)\n@Chuyên ngành kinh tế\n-vết lõm\n-vết nẻ\n@Chuyên ngành kỹ thuật\n-làm lõm vào\n-làm thụn vào\n-răng\n-răng (cưa)\n-rãnh cắt\n-vết khía\n-vết lõm\n@Lĩnh vực: vật lý\n-ấn lõm (vết lõm)\n-dập lõm\n-vết dập\n@Lĩnh vực: xây dựng\n-hình rập nổi\n@Lĩnh vực: ô tô\n-vết thụn
-
+dent	
+@dent /dent/
+*  danh từ
+- hình rập nổi, vết lõm (do bị rập mạnh)
+- vết mẻ (ở lưỡi dao)
+*  ngoại động từ
+- rập hình nổi; làm cho có vết lõm
+- làm mẻ (lưỡi dao)
+@Chuyên ngành kinh tế
+-vết lõm
+-vết nẻ
+@Chuyên ngành kỹ thuật
+-làm lõm vào
+-làm thụn vào
+-răng
+-răng (cưa)
+-rãnh cắt
+-vết khía
+-vết lõm
+@Lĩnh vực: vật lý
+-ấn lõm (vết lõm)
+-dập lõm
+-vết dập
+@Lĩnh vực: xây dựng
+-hình rập nổi
+@Lĩnh vực: ô tô
+-vết thụn

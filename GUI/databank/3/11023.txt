@@ -1,3 +1,4 @@
-confectionary
-	@Chuyên ngành kinh tế\n-cửa hàng kẹo\n-nhà máy kẹo\n-sự sản xuất kẹo
-
+confectionary	@Chuyên ngành kinh tế
+-cửa hàng kẹo
+-nhà máy kẹo
+-sự sản xuất kẹo

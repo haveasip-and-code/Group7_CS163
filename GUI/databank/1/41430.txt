@@ -1,3 +1,4 @@
-pianist
-	@pianist /'pjænist/\n*  danh từ ((cũng) piano-player)\n- người chơi pianô, người biểu diễn pianô\n- người biểu diễn pianô
-
+pianist	@pianist /'pjænist/
+*  danh từ ((cũng) piano-player)
+- người chơi pianô, người biểu diễn pianô
+- người biểu diễn pianô

@@ -1,3 +1,31 @@
-desert
-	@desert /di'zə:t/\n*  danh từ\n- công lao, giá trị\n=a reward equal to desert+ sự thưởng xứng đáng với công lao\n=to treat someone according to his deserts+ đãi ngộ ai xứng đáng với công lao\n- sự xứng đáng, sự đáng (khen thưởng, trừng phạt...)\n- những người xứng đáng\n- (số nhiều) những cái đáng được (thưởng, phạt)\n=to get (obtain, meet with) one's deserts+ được những cái đáng được\n*  danh từ\n- sa mạc\n- nơi hoang vắng, nơi quạnh quẽ, nơi vắng vẻ\n- (nghĩa bóng) vấn đề khô khan vô vị\n*  tính từ\n- hiu quạnh, quạnh quẽ, vắng vẻ, không người ở\n- bỏ hoang, hoang phế\n*  ngoại động từ\n- rời đi, bỏ đi, bỏ trốn, trốn khỏi\n=to desert one's familly+ bỏ nhà ra đi\n=to desert an army+ đào ngũ\n- ruồng bỏ, bỏ mặc, bỏ rơi\n=to desert a friend in difficulty+ bỏ mặc bạn trong lúc khó khăn\n=to desert one's wife+ ruồng bỏ vợ\n=his delf-control deserted him+ nó không còn tự chủ được nữa\n*  nội động từ\n- đào ngũ\n@Chuyên ngành kỹ thuật\n-hoang mạc\n-sa mạc
-
+desert	
+@desert /di'zə:t/
+*  danh từ
+- công lao, giá trị=a reward equal to desert
++ sự thưởng xứng đáng với công lao=to treat someone according to his deserts
++ đãi ngộ ai xứng đáng với công lao
+- sự xứng đáng, sự đáng (khen thưởng, trừng phạt...)
+- những người xứng đáng
+- (số nhiều) những cái đáng được (thưởng, phạt)=to get (obtain, meet with) one's deserts
++ được những cái đáng được
+*  danh từ
+- sa mạc
+- nơi hoang vắng, nơi quạnh quẽ, nơi vắng vẻ
+- (nghĩa bóng) vấn đề khô khan vô vị
+*  tính từ
+- hiu quạnh, quạnh quẽ, vắng vẻ, không người ở
+- bỏ hoang, hoang phế
+*  ngoại động từ
+- rời đi, bỏ đi, bỏ trốn, trốn khỏi=to desert one's familly
++ bỏ nhà ra đi=to desert an army
++ đào ngũ
+- ruồng bỏ, bỏ mặc, bỏ rơi=to desert a friend in difficulty
++ bỏ mặc bạn trong lúc khó khăn=to desert one's wife
++ ruồng bỏ vợ=his delf
+-control deserted him
++ nó không còn tự chủ được nữa
+*  nội động từ
+- đào ngũ
+@Chuyên ngành kỹ thuật
+-hoang mạc
+-sa mạc

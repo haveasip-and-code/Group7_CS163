@@ -1,3 +1,25 @@
-tracer
-	@tracer /'treisə/\n*  danh từ\n- cái vạch\n- người vạch, người kẻ\n- (kỹ thuật) người đồ lại (một bức hoạ)\n- (pháp lý) người truy nguyên; người phát hiện\n- (như) tracer_element\n@Chuyên ngành kinh tế\n-dấu vết\n-đường ray\n-đường sắt\n-phiếu tìm (cho một món đồ mất)\n@Chuyên ngành kỹ thuật\n-chất chỉ thị\n-mũi vạch dấu\n@Lĩnh vực: hóa học & vật liệu\n-chất dánh dấu\n@Lĩnh vực: toán & tin\n-đồ vết\n@Lĩnh vực: xây dựng\n-đồ viên\n@Lĩnh vực: y học\n-nguyên tố đánh dấu\n@Lĩnh vực: điện lạnh\n-vật đánh dấu
-
+tracer	@tracer /'treisə/
+*  danh từ
+- cái vạch
+- người vạch, người kẻ
+- (kỹ thuật) người đồ lại (một bức hoạ)
+- (pháp lý) người truy nguyên; người phát hiện
+- (như) tracer_element
+@Chuyên ngành kinh tế
+-dấu vết
+-đường ray
+-đường sắt
+-phiếu tìm (cho một món đồ mất)
+@Chuyên ngành kỹ thuật
+-chất chỉ thị
+-mũi vạch dấu
+@Lĩnh vực: hóa học & vật liệu
+-chất dánh dấu
+@Lĩnh vực: toán & tin
+-đồ vết
+@Lĩnh vực: xây dựng
+-đồ viên
+@Lĩnh vực: y học
+-nguyên tố đánh dấu
+@Lĩnh vực: điện lạnh
+-vật đánh dấu

@@ -1,3 +1,11 @@
-hatching
-	@hatching\n* danh từ\n- đường gạch bóng trên hình vẽ\n@Chuyên ngành kỹ thuật\n-bóng mờ\n-nét gạch gạch\n-nét kẻ sọc\n-sự kẻ sọc\n@Lĩnh vực: toán & tin\n-sự tô bóng
-
+hatching	
+@hatching
+* danh từ
+- đường gạch bóng trên hình vẽ
+@Chuyên ngành kỹ thuật
+-bóng mờ
+-nét gạch gạch
+-nét kẻ sọc
+-sự kẻ sọc
+@Lĩnh vực: toán & tin
+-sự tô bóng

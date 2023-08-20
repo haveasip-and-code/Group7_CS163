@@ -1,3 +1,21 @@
-pike
-	@pike /paik/\n*  danh từ\n- (động vật học) cá chó\n- chỗ chắn để thu thuế đường\n- thuế đường\n- đường cái phải nộp thuế\n*  danh từ\n- giáo; mác\n- (tiếng địa phương)\n- cuốc chim\n- mỏm (đồi; (thường) trong tên riêng)\n*  ngoại động từ\n- đâm bằng giáo mác; giết bằng giáo mác\n@Chuyên ngành kinh tế\n-Cá Măng non\n@Chuyên ngành kỹ thuật\n-cuốc chim\n-đầu nhọn\n-đỉnh\n-mỏm núi\n-mũi nhọn
-
+pike	@pike /paik/
+*  danh từ
+- (động vật học) cá chó
+- chỗ chắn để thu thuế đường
+- thuế đường
+- đường cái phải nộp thuế
+*  danh từ
+- giáo; mác
+- (tiếng địa phương)
+- cuốc chim
+- mỏm (đồi; (thường) trong tên riêng)
+*  ngoại động từ
+- đâm bằng giáo mác; giết bằng giáo mác
+@Chuyên ngành kinh tế
+-Cá Măng non
+@Chuyên ngành kỹ thuật
+-cuốc chim
+-đầu nhọn
+-đỉnh
+-mỏm núi
+-mũi nhọn

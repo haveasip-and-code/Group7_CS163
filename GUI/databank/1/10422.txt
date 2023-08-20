@@ -1,3 +1,8 @@
-combinable
-	@combinable\n* tính từ\n- có thể kết hợp được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-kết hợp được\n-tổ hợp được
-
+combinable	
+@combinable
+* tính từ
+- có thể kết hợp được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-kết hợp được
+-tổ hợp được

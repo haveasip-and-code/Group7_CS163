@@ -1,3 +1,32 @@
-crease
-	@crease /kri:s/\n*  danh từ\n- nếp nhăn, nếp gấp\n*  ngoại động từ\n- gấp nếp\n- làm nhăn, làm nhăn mặt\n=a badly creased dress+ bộ quần áo nhàu nát\n*  nội động từ\n- nhàu; có nếp gấp\n@Chuyên ngành kỹ thuật\n-gấp mép\n-gấp nếp\n-làm nhàu\n-nếp\n-nếp gấp\n-nếp nhăn\n-nếp uốn\n-ngói nóc\n-nhăn\n-nóc nhà\n-mép gấp\n-mép gập gia cường\n-sự cong\n-sự vênh\n-uốn mép\n-xếp thành lằn\n@Lĩnh vực: dệt may\n-nếp là\n-nhàu\n@Lĩnh vực: ô tô\n-vết móp
-
+crease	
+@crease /kri:s/
+*  danh từ
+- nếp nhăn, nếp gấp
+*  ngoại động từ
+- gấp nếp
+- làm nhăn, làm nhăn mặt=a badly creased dress
++ bộ quần áo nhàu nát
+*  nội động từ
+- nhàu; có nếp gấp
+@Chuyên ngành kỹ thuật
+-gấp mép
+-gấp nếp
+-làm nhàu
+-nếp
+-nếp gấp
+-nếp nhăn
+-nếp uốn
+-ngói nóc
+-nhăn
+-nóc nhà
+-mép gấp
+-mép gập gia cường
+-sự cong
+-sự vênh
+-uốn mép
+-xếp thành lằn
+@Lĩnh vực: dệt may
+-nếp là
+-nhàu
+@Lĩnh vực: ô tô
+-vết móp

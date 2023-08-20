@@ -1,3 +1,42 @@
-buffer
-	@buffer /'bʌfə/\n*  danh từ\n- (kỹ thuật) vật đệm, tăng đệm; cái giảm xóc\n*  danh từ\n- (từ lóng) old buffer ông bạn già; người cũ kỹ bất tài\n- (hàng hải) người giúp việc cho viên quản lý neo buồm\n@Chuyên ngành kinh tế\n-chất đệm\n-dung dịch đệm\n@Chuyên ngành kỹ thuật\n-bộ đệm\n-bộ giảm chấn\n-bộ giảm xóc\n-bộ khuếch đại đệm\n-bộ nhớ đệm\n-bộ nhớ trung gian\n-cái giảm\n-đệm giảm va\n-giảm chấn\n-hoãn xung\n-ống nhún\n-tấm đệm\n-tầng đệm\n@Lĩnh vực: giao thông & vận tải\n-bộ giảm va\n-bộ giảm xung\n-thanh gạt\n-thanh giảm va\n@Lĩnh vực: xây dựng\n-bộ hãm (tàu hỏa)\n-tầng điện\n@Lĩnh vực: điện\n-bộ hoãn xung\n@Lĩnh vực: cơ khí & công trình\n-cái chống rung\n-cái hoãn xung\n-đỡ va\n-giảm xung\n@Lĩnh vực: y học\n-dung dịch đệm\n@Lĩnh vực: toán & tin\n-vùng đệm
-
+buffer	@buffer /'bʌfə/
+*  danh từ
+- (kỹ thuật) vật đệm, tăng đệm; cái giảm xóc
+*  danh từ
+- (từ lóng) old buffer ông bạn già; người cũ kỹ bất tài
+- (hàng hải) người giúp việc cho viên quản lý neo buồm
+@Chuyên ngành kinh tế
+-chất đệm
+-dung dịch đệm
+@Chuyên ngành kỹ thuật
+-bộ đệm
+-bộ giảm chấn
+-bộ giảm xóc
+-bộ khuếch đại đệm
+-bộ nhớ đệm
+-bộ nhớ trung gian
+-cái giảm
+-đệm giảm va
+-giảm chấn
+-hoãn xung
+-ống nhún
+-tấm đệm
+-tầng đệm
+@Lĩnh vực: giao thông & vận tải
+-bộ giảm va
+-bộ giảm xung
+-thanh gạt
+-thanh giảm va
+@Lĩnh vực: xây dựng
+-bộ hãm (tàu hỏa)
+-tầng điện
+@Lĩnh vực: điện
+-bộ hoãn xung
+@Lĩnh vực: cơ khí & công trình
+-cái chống rung
+-cái hoãn xung
+-đỡ va
+-giảm xung
+@Lĩnh vực: y học
+-dung dịch đệm
+@Lĩnh vực: toán & tin
+-vùng đệm

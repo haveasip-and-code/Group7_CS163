@@ -1,3 +1,2 @@
-busheler
-	@busheler\n- xem bushel
-
+busheler	@busheler
+- xem bushel

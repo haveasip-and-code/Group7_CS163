@@ -1,3 +1,4 @@
-emmet
-	@emmet /'emit/\n*  danh từ\n- (tiếng địa phương) con kiến
-
+emmet	
+@emmet /'emit/
+*  danh từ
+- (tiếng địa phương) con kiến

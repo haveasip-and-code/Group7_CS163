@@ -1,3 +1,21 @@
-interruption
-	@interruption /,intə'rʌpʃn/\n*  danh từ\n- sự gián đoạn; sự bị gián đoạn, sự đứt quãng\n- sự ngắt lời; sự bị ngắt lời\n- cái làm gián đoạn\n- sự ngừng\n- (điện học) sự ngắt\n@Chuyên ngành kỹ thuật\n-điểm cắt\n-dừng\n-hoãn\n-ngắt\n-sự cắt\n-sự đứt đoạn\n-sự đứt quãng\n-sự gián đoạn\n-sự ngắt\n@Lĩnh vực: điện\n-sự ngắt điện\n-việc mất điện
-
+interruption	
+@interruption /,intə'rʌpʃn/
+*  danh từ
+- sự gián đoạn; sự bị gián đoạn, sự đứt quãng
+- sự ngắt lời; sự bị ngắt lời
+- cái làm gián đoạn
+- sự ngừng
+- (điện học) sự ngắt
+@Chuyên ngành kỹ thuật
+-điểm cắt
+-dừng
+-hoãn
+-ngắt
+-sự cắt
+-sự đứt đoạn
+-sự đứt quãng
+-sự gián đoạn
+-sự ngắt
+@Lĩnh vực: điện
+-sự ngắt điện
+-việc mất điện

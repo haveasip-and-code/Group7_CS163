@@ -1,3 +1,7 @@
-exceptions
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-những ngoại lệ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-những ngoại lệ
-
+exceptions	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-những ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-những ngoại lệ

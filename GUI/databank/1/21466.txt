@@ -1,3 +1,18 @@
-floatage
-	@floatage /floatage/\n*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flotage)\n- sự nổi, sự trôi lềnh bềnh\n- quyền thu hồi vật nổi (trên mặt biển); vật nổi (trên mặt biển)\n- thuyền bè trên sông\n- mảng (băng, rong...) nối\n- phần tàu trên mặt nước\n@Chuyên ngành kỹ thuật\n-bè gỗ\n-sự nổi\n@Lĩnh vực: xây dựng\n-vật nổi\n@Chuyên ngành kỹ thuật\n-bè gỗ\n-sự nổi\n@Lĩnh vực: xây dựng\n-vật nổi
-
+floatage	
+@floatage /floatage/
+*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flotage)
+- sự nổi, sự trôi lềnh bềnh
+- quyền thu hồi vật nổi (trên mặt biển); vật nổi (trên mặt biển)
+- thuyền bè trên sông
+- mảng (băng, rong...) nối
+- phần tàu trên mặt nước
+@Chuyên ngành kỹ thuật
+-bè gỗ
+-sự nổi
+@Lĩnh vực: xây dựng
+-vật nổi
+@Chuyên ngành kỹ thuật
+-bè gỗ
+-sự nổi
+@Lĩnh vực: xây dựng
+-vật nổi

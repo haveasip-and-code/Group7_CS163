@@ -1,3 +1,7 @@
-defects
-	@Chuyên ngành kỹ thuật\n-chỗ hư hỏng\n-khuyết tật\n-sai sót\n@Lĩnh vực: xây dựng\n-độ hao hụt
-
+defects	
+@Chuyên ngành kỹ thuật
+-chỗ hư hỏng
+-khuyết tật
+-sai sót
+@Lĩnh vực: xây dựng
+-độ hao hụt

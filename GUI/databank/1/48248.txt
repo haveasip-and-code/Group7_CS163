@@ -1,3 +1,68 @@
-running
-	@running /'rʌniɳ/\n*  danh từ\n- cuộc chạy đua\n=to take up the running; to make the running+ dẫn đầu cuộc chạy đua\n=to be in the running+ có cơ thắng (trong cuộc đấu, trong cuộc chạy đua...)\n=to be out of the running+ không có cơ thắng\n- sự chạy, sự vậm hành (máy...)\n- sự chảy (chất lỏng, mủ...)\n- sự buôn lậu\n- sự phá vòng vây\n- sự quản lý, sự trông nom, sự điều khiển (một nhà máy...)\n*  tính từ\n- chạy đang chạy; tiến hành trong lúc chạy\n=running jump+ nhảy có chạy lấy đà\n=a running flight+ một cuộc chiến đấu săn đuổi nhau\n- chảy, đang chảy\n=running spring+ dòng suối đang chảy\n=running sore+ vết thương đang rỉ mủ\n- di động trượt đi\n=running block puli+ di động\n=running knot+ nút dây thòng lọng\n- liên tiếp, liên tục, liền\n=for several days running+ trong nhiều ngày liền\n=running number+ số thứ tự\n=running hand+ chữ viết liền nét (không nhấc bút lên)\n- hiện nay, đương thời\n=running account+ số tiền hiện gửi\n=a running commentary+ bài tường thuật tại chỗ (trên đài phát thanh...)\n@Chuyên ngành kinh tế\n-buôn lậu\n-hiện tại\n-hiện thời\n-liên tục\n-lưu động\n-máy nghiền thớt\n-quản lý (một xí nghiệp...)\n-sự điều khiển (một khách sạn...)\n-sự khai thác (mỏ, công ty...)\n-sự lên men\n-sự rời rạc (bột nhào)\n-tài khoản vãng lai\n-tuyến đường (xe buýt...)\n@Chuyên ngành kỹ thuật\n-chảy\n-chạy (máy)\n-hành trình\n-liền\n-liên tiếp\n-liên tục\n-sự chảy\n-sự chạy\n-sự chạy máy\n-sự diễn biến\n-sự làm việc\n-sự tác động\n-sự thao tác\n-sự thực hiện (phần mềm)\n-sự vận hành\n-tiến độ thi công\n-vận hành\n@Lĩnh vực: cơ khí & công trình\n-khoảng chạy (máy)\n-sự vận hành máy\n@Lĩnh vực: hóa học & vật liệu\n-sự cất\n@Lĩnh vực: giao thông & vận tải\n-sự chạy tàu\n-sự chạy xe
-
+running	@running /'rʌniɳ/
+*  danh từ
+- cuộc chạy đua
+=to take up the running; to make the running+ dẫn đầu cuộc chạy đua
+=to be in the running+ có cơ thắng (trong cuộc đấu, trong cuộc chạy đua...)
+=to be out of the running+ không có cơ thắng
+- sự chạy, sự vậm hành (máy...)
+- sự chảy (chất lỏng, mủ...)
+- sự buôn lậu
+- sự phá vòng vây
+- sự quản lý, sự trông nom, sự điều khiển (một nhà máy...)
+*  tính từ
+- chạy đang chạy; tiến hành trong lúc chạy
+=running jump+ nhảy có chạy lấy đà
+=a running flight+ một cuộc chiến đấu săn đuổi nhau
+- chảy, đang chảy
+=running spring+ dòng suối đang chảy
+=running sore+ vết thương đang rỉ mủ
+- di động trượt đi
+=running block puli+ di động
+=running knot+ nút dây thòng lọng
+- liên tiếp, liên tục, liền
+=for several days running+ trong nhiều ngày liền
+=running number+ số thứ tự
+=running hand+ chữ viết liền nét (không nhấc bút lên)
+- hiện nay, đương thời
+=running account+ số tiền hiện gửi
+=a running commentary+ bài tường thuật tại chỗ (trên đài phát thanh...)
+@Chuyên ngành kinh tế
+-buôn lậu
+-hiện tại
+-hiện thời
+-liên tục
+-lưu động
+-máy nghiền thớt
+-quản lý (một xí nghiệp...)
+-sự điều khiển (một khách sạn...)
+-sự khai thác (mỏ, công ty...)
+-sự lên men
+-sự rời rạc (bột nhào)
+-tài khoản vãng lai
+-tuyến đường (xe buýt...)
+@Chuyên ngành kỹ thuật
+-chảy
+-chạy (máy)
+-hành trình
+-liền
+-liên tiếp
+-liên tục
+-sự chảy
+-sự chạy
+-sự chạy máy
+-sự diễn biến
+-sự làm việc
+-sự tác động
+-sự thao tác
+-sự thực hiện (phần mềm)
+-sự vận hành
+-tiến độ thi công
+-vận hành
+@Lĩnh vực: cơ khí & công trình
+-khoảng chạy (máy)
+-sự vận hành máy
+@Lĩnh vực: hóa học & vật liệu
+-sự cất
+@Lĩnh vực: giao thông & vận tải
+-sự chạy tàu
+-sự chạy xe

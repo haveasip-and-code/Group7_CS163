@@ -1,3 +1,4 @@
-antilog
-	@antilog\n* danh từ\n- xem antilogarithm
-
+antilog	
+@antilog
+* danh từ
+- xem antilogarithm

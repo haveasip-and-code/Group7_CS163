@@ -1,3 +1,4 @@
-expendables
-	@Chuyên ngành kinh tế\n-vật liệu hao\n-vật tiêu hao
-
+expendables	
+@Chuyên ngành kinh tế
+-vật liệu hao
+-vật tiêu hao

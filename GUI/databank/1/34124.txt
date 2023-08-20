@@ -1,3 +1,8 @@
-medication
-	@medication /,medi'keiʃn/\n*  danh từ\n- sự bốc thuốc, sự cho thuốc\n- sự tẩm thuốc, sự ngâm thuốc\n- (thuộc) dược phẩm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cấp thuốc
-
+medication	@medication /,medi'keiʃn/
+*  danh từ
+- sự bốc thuốc, sự cho thuốc
+- sự tẩm thuốc, sự ngâm thuốc
+- (thuộc) dược phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cấp thuốc

@@ -1,3 +1,20 @@
-remittance
-	@remittance /ri'mitəns/\n*  danh từ\n- sự gửi tiền, sự gửi hàng\n- món tiền nhận được qua bưu điện, món hàng nhận qua bưu điện\n@Chuyên ngành kinh tế\n-chuyển tiền\n-chuyển tiền (qua bưu điện)\n-gởi trả (qua bưu điện)\n-số tiền chuyển (qua bưu điện)\n-số tiền được chuyển\n-số tiền gởi\n-sự chuyển tiền\n-sự gởi tiền\n-sự thanh toán\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chuyển khoản\n-tiền chuyển đi\n@Lĩnh vực: điện tử & viễn thông\n-phương thức chuyển tiền
-
+remittance	@remittance /ri'mitəns/
+*  danh từ
+- sự gửi tiền, sự gửi hàng
+- món tiền nhận được qua bưu điện, món hàng nhận qua bưu điện
+@Chuyên ngành kinh tế
+-chuyển tiền
+-chuyển tiền (qua bưu điện)
+-gởi trả (qua bưu điện)
+-số tiền chuyển (qua bưu điện)
+-số tiền được chuyển
+-số tiền gởi
+-sự chuyển tiền
+-sự gởi tiền
+-sự thanh toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chuyển khoản
+-tiền chuyển đi
+@Lĩnh vực: điện tử & viễn thông
+-phương thức chuyển tiền

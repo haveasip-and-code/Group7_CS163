@@ -1,3 +1,18 @@
-deadline
-	@deadline\n* danh từ\n- đường giới hạn không được vượt qua\n- hạn cuối cùng (trả tiền, rút quân...); thời điểm phải làm xong cái gì, thời hạn cuối cùng\n= to meet/miss a deadline+kịp/không kịp thời hạn đã định\n= I have a March deadline for the novel+thời hạn cuối cùng cho cuốn tiểu thuyết của tôi là tháng ba\n- (từ Mỹ,nghĩa Mỹ) đường giới hạn trong sân nhà tù (người tù bước qua có thể bị bắn ngay tại chỗ)\n@Chuyên ngành kinh tế\n-hạn cuối cùng\n@Chuyên ngành kỹ thuật\n-dòng kết thúc\n@Lĩnh vực: toán & tin\n-hạn chót\n@Lĩnh vực: xây dựng\n-tử tuyến\n@Lĩnh vực: điện tử & viễn thông\n-vạch cấm
-
+deadline	
+@deadline
+* danh từ
+- đường giới hạn không được vượt qua
+- hạn cuối cùng (trả tiền, rút quân...); thời điểm phải làm xong cái gì, thời hạn cuối cùng= to meet/miss a deadline
++kịp/không kịp thời hạn đã định= I have a March deadline for the novel
++thời hạn cuối cùng cho cuốn tiểu thuyết của tôi là tháng ba
+- (từ Mỹ,nghĩa Mỹ) đường giới hạn trong sân nhà tù (người tù bước qua có thể bị bắn ngay tại chỗ)
+@Chuyên ngành kinh tế
+-hạn cuối cùng
+@Chuyên ngành kỹ thuật
+-dòng kết thúc
+@Lĩnh vực: toán & tin
+-hạn chót
+@Lĩnh vực: xây dựng
+-tử tuyến
+@Lĩnh vực: điện tử & viễn thông
+-vạch cấm

@@ -1,3 +1,22 @@
-booth
-	@booth /bu:ð/\n*  danh từ\n- quán, rạp, lều\n=a refreshment booth+ quán giải khát\n- (từ Mỹ,nghĩa Mỹ) phòng điện thoại công cộng\n@Chuyên ngành kinh tế\n-gian\n-lều\n-lều (hàng)\n-phòng điện thoại công cộng\n-quán\n-quầy\n-rạp\n-sạp\n@Chuyên ngành kỹ thuật\n-buồng\n-buồng nhỏ\n-cabin\n-cái chụp thông gió\n@Lĩnh vực: xây dựng\n-buồng con\n-cái chụp hút gió
-
+booth	@booth /bu:ð/
+*  danh từ
+- quán, rạp, lều
+=a refreshment booth+ quán giải khát
+- (từ Mỹ,nghĩa Mỹ) phòng điện thoại công cộng
+@Chuyên ngành kinh tế
+-gian
+-lều
+-lều (hàng)
+-phòng điện thoại công cộng
+-quán
+-quầy
+-rạp
+-sạp
+@Chuyên ngành kỹ thuật
+-buồng
+-buồng nhỏ
+-cabin
+-cái chụp thông gió
+@Lĩnh vực: xây dựng
+-buồng con
+-cái chụp hút gió

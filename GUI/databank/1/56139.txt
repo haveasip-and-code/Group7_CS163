@@ -1,3 +1,11 @@
-testimonial
-	@testimonial /,testi'mounjəl/\n*  danh từ\n- giấy chứng nhận, giấy chứng thực\n- quà tặng, vật tặng (để tỏ lòng kính mến, biết ơn...)\n@Chuyên ngành kinh tế\n-bản giám định (sản phẩm)\n-giấy chứng nhận\n-giấy nhận xét\n-thư giới thiệu\n-thư khen\n-thư tiến cử
-
+testimonial	@testimonial /,testi'mounjəl/
+*  danh từ
+- giấy chứng nhận, giấy chứng thực
+- quà tặng, vật tặng (để tỏ lòng kính mến, biết ơn...)
+@Chuyên ngành kinh tế
+-bản giám định (sản phẩm)
+-giấy chứng nhận
+-giấy nhận xét
+-thư giới thiệu
+-thư khen
+-thư tiến cử

@@ -1,3 +1,8 @@
-futures
-	@Chuyên ngành kinh tế\n-giao dịch giao sau\n-giao dịch kỳ hạn\n-hàng giao sau\n-hàng kỳ hạn\n-hợp đồng kỳ hạn\n-nghiệp vụ giao hàng kỳ hạn
-
+futures	
+@Chuyên ngành kinh tế
+-giao dịch giao sau
+-giao dịch kỳ hạn
+-hàng giao sau
+-hàng kỳ hạn
+-hợp đồng kỳ hạn
+-nghiệp vụ giao hàng kỳ hạn

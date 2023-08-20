@@ -1,3 +1,4 @@
-fro
-	@fro /frou/\n*  phó từ\n- to and fro đi đi lại lại
-
+fro	
+@fro /frou/
+*  phó từ
+- to and fro đi đi lại lại

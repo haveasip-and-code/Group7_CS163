@@ -1,3 +1,2 @@
-attendees
-	@Chuyên ngành kỹ thuật\n-người tham dự
-
+attendees	@Chuyên ngành kỹ thuật
+-người tham dự

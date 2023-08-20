@@ -1,3 +1,4 @@
-crusting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự cấu tạo vỏ\n-sự kết vỏ
-
+crusting	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự cấu tạo vỏ
+-sự kết vỏ

@@ -1,3 +1,8 @@
-whey
-	@whey /wei/\n*  danh từ\n- nước sữa\n@Chuyên ngành kinh tế\n-nước sữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nước sữa
-
+whey	@whey /wei/
+*  danh từ
+- nước sữa
+@Chuyên ngành kinh tế
+-nước sữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-nước sữa

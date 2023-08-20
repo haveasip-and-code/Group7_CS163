@@ -1,3 +1,5 @@
-nomograph
-	@nomograph\n- toán đồ, đồ thị toán\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đồ thị toán
-
+nomograph	@nomograph
+- toán đồ, đồ thị toán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đồ thị toán

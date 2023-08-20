@@ -1,3 +1,11 @@
-fluoroscope
-	@fluoroscope\n* danh từ\n- hùynh quang nghiệm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-huỳng quang nhiệm\n@Lĩnh vực: y học\n-kính huỳnh quang\n@Lĩnh vực: điện tử & viễn thông\n-màn huỳnh quang
-
+fluoroscope	
+@fluoroscope
+* danh từ
+- hùynh quang nghiệm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-huỳng quang nhiệm
+@Lĩnh vực: y học
+-kính huỳnh quang
+@Lĩnh vực: điện tử & viễn thông
+-màn huỳnh quang

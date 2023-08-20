@@ -1,3 +1,4 @@
-uncoiling
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự mở\n-sự tháo (cuộn dây)
-
+uncoiling	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự mở
+-sự tháo (cuộn dây)

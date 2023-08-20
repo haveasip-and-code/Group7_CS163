@@ -1,3 +1,6 @@
-dimensionality
-	@Chuyên ngành kỹ thuật\n-bậc\n-hạng\n-thứ nguyên\n@Lĩnh vực: toán & tin\n-hạng bậc
-
+dimensionality	@Chuyên ngành kỹ thuật
+-bậc
+-hạng
+-thứ nguyên
+@Lĩnh vực: toán & tin
+-hạng bậc

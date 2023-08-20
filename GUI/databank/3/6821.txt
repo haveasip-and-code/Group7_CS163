@@ -1,3 +1,4 @@
-brisket
-	@brisket /briskit/\n*  danh từ\n- ức (thú vật)\n- thịt ức (thú vật)
-
+brisket	@brisket /briskit/
+*  danh từ
+- ức (thú vật)
+- thịt ức (thú vật)

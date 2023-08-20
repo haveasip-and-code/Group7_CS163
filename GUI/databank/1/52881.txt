@@ -1,3 +1,5 @@
-staffing
-	@Chuyên ngành kinh tế\n-sự trang bị số nhân viên\n@Chuyên ngành kỹ thuật\n-chất đệm\n-lớp đệm
-
+staffing	@Chuyên ngành kinh tế
+-sự trang bị số nhân viên
+@Chuyên ngành kỹ thuật
+-chất đệm
+-lớp đệm

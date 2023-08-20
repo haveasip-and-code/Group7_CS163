@@ -1,3 +1,64 @@
-beam
-	@beam /bi:m/\n*  danh từ\n- (kiến trúc) xà, rầm\n- đòn, cán (cân); bắp (cây); trục cuốn chỉ (máy dệt); gạc chính (sừng hươu)\n- (kỹ thuật) đòn cân bằng; con lắc\n- (hàng hải) sườn ngang của sàn tàu; sống neo\n- tín hiệu rađiô (cho máy bay)\n- tầm xa (của loa phóng thanh)\n- tia; chùm (ánh sáng)\n=electron beam+ chùm electron\n=sun beam+ tia mặt trời, tia nắng\n- (nghĩa bóng) vẻ tươi cười rạng rỡ\n!to kick the beam\n- nhẹ hơn, nhẹ bỗng lên (cán cân)\n- bị thua\n!on the port beam\n- (hàng hải) bên trái tàu\n!on the starboard beam\n- (hàng hải) bên phải tàu\n*  động từ\n- chiếu rọi (tia sáng)\n- rạng rỡ, tươi cười\n- xác định của vị trí máy bay qua hệ thống rađa\n- rađiô phát đi (buổi phát thanh...)\n@Chuyên ngành kỹ thuật\n-cần\n-cây đà\n-chiếu sáng\n-chùm ánh sáng\n-con lắc\n-dầm\n-đầm\n-dầm chìa\n-đòn\n-đòn cân\n-giá\n-giàn\n-hệ chịu lực\n-rầm\n-xà\n-xà ngang\n@Lĩnh vực: điện lạnh\n-chùm (hạt)\n-chùm (tia)\n-giầm\n@Lĩnh vực: toán & tin\n-chùm (sáng)\n-tia (sáng)\n@Lĩnh vực: giao thông & vận tải\n-chùm (tín hiệu)\n@Lĩnh vực: đo lường & điều khiển\n-chùm đo\n-tia đo\n@Lĩnh vực: điện tử & viễn thông\n-chùm sáng\n-dệt trục dệt, trục sợi dọc\n-phát chùm\n-phát tia\n@Lĩnh vực: xây dựng\n-có dầm\n-dầm thép định hình\n-rầm thanh\n@Lĩnh vực: điện\n-tia (điện tử)
-
+beam	@beam /bi:m/
+*  danh từ
+- (kiến trúc) xà, rầm
+- đòn, cán (cân); bắp (cây); trục cuốn chỉ (máy dệt); gạc chính (sừng hươu)
+- (kỹ thuật) đòn cân bằng; con lắc
+- (hàng hải) sườn ngang của sàn tàu; sống neo
+- tín hiệu rađiô (cho máy bay)
+- tầm xa (của loa phóng thanh)
+- tia; chùm (ánh sáng)
+=electron beam+ chùm electron
+=sun beam+ tia mặt trời, tia nắng
+- (nghĩa bóng) vẻ tươi cười rạng rỡ
+!to kick the beam
+- nhẹ hơn, nhẹ bỗng lên (cán cân)
+- bị thua
+!on the port beam
+- (hàng hải) bên trái tàu
+!on the starboard beam
+- (hàng hải) bên phải tàu
+*  động từ
+- chiếu rọi (tia sáng)
+- rạng rỡ, tươi cười
+- xác định của vị trí máy bay qua hệ thống rađa
+- rađiô phát đi (buổi phát thanh...)
+@Chuyên ngành kỹ thuật
+-cần
+-cây đà
+-chiếu sáng
+-chùm ánh sáng
+-con lắc
+-dầm
+-đầm
+-dầm chìa
+-đòn
+-đòn cân
+-giá
+-giàn
+-hệ chịu lực
+-rầm
+-xà
+-xà ngang
+@Lĩnh vực: điện lạnh
+-chùm (hạt)
+-chùm (tia)
+-giầm
+@Lĩnh vực: toán & tin
+-chùm (sáng)
+-tia (sáng)
+@Lĩnh vực: giao thông & vận tải
+-chùm (tín hiệu)
+@Lĩnh vực: đo lường & điều khiển
+-chùm đo
+-tia đo
+@Lĩnh vực: điện tử & viễn thông
+-chùm sáng
+-dệt trục dệt, trục sợi dọc
+-phát chùm
+-phát tia
+@Lĩnh vực: xây dựng
+-có dầm
+-dầm thép định hình
+-rầm thanh
+@Lĩnh vực: điện
+-tia (điện tử)

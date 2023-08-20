@@ -1,3 +1,5 @@
-dimensioning
-	@Chuyên ngành kỹ thuật\n-sự định cỡ\n@Lĩnh vực: toán & tin\n-định kích thước\n-ghi kích thước
-
+dimensioning	@Chuyên ngành kỹ thuật
+-sự định cỡ
+@Lĩnh vực: toán & tin
+-định kích thước
+-ghi kích thước

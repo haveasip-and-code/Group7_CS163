@@ -1,3 +1,25 @@
-structure
-	@structure /'strʌktʃə/\n*  danh từ\n- kết cấu, cấu trúc\n=the structure of a poem+ kết cấu một bài thơ\n=a sentence of loose structure+ một cấu trúc lỏng lẻo\n- công trình kiến trúc, công trình xây dựng\n=a fine marble structure+ một công trình kiến trúc bằng cẩm thạch tuyệt đẹp\n@Chuyên ngành kinh tế\n-cấu tạo\n-cấu trúc\n-cơ cấu\n-công trình kiến trúc\n-kết cấu\n@Chuyên ngành kỹ thuật\n-kết cấu\n-kiến trúc\n-mô hình\n-sự xây dựng\n@Lĩnh vực: cơ khí & công trình\n-cấu trúc (một động cơ)\n@Lĩnh vực: y học\n-cấu trúc, kết cấu\n@Lĩnh vực: xây dựng\n-công trình kiến trúc\n-vật kiến trúc
-
+structure	@structure /'strʌktʃə/
+*  danh từ
+- kết cấu, cấu trúc
+=the structure of a poem+ kết cấu một bài thơ
+=a sentence of loose structure+ một cấu trúc lỏng lẻo
+- công trình kiến trúc, công trình xây dựng
+=a fine marble structure+ một công trình kiến trúc bằng cẩm thạch tuyệt đẹp
+@Chuyên ngành kinh tế
+-cấu tạo
+-cấu trúc
+-cơ cấu
+-công trình kiến trúc
+-kết cấu
+@Chuyên ngành kỹ thuật
+-kết cấu
+-kiến trúc
+-mô hình
+-sự xây dựng
+@Lĩnh vực: cơ khí & công trình
+-cấu trúc (một động cơ)
+@Lĩnh vực: y học
+-cấu trúc, kết cấu
+@Lĩnh vực: xây dựng
+-công trình kiến trúc
+-vật kiến trúc

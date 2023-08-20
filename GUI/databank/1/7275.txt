@@ -1,3 +1,11 @@
-businessman
-	@businessman\n* danh từ\n- nhà kinh doanh, thương gia\n- người quen giao dịch\n@Chuyên ngành kinh tế\n-doanh nhân\n-nhà doanh nghiệp\n-nhà kinh doanh\n@Chuyên ngành kỹ thuật\n-nhà doanh nghiệp
-
+businessman	
+@businessman
+* danh từ
+- nhà kinh doanh, thương gia
+- người quen giao dịch
+@Chuyên ngành kinh tế
+-doanh nhân
+-nhà doanh nghiệp
+-nhà kinh doanh
+@Chuyên ngành kỹ thuật
+-nhà doanh nghiệp

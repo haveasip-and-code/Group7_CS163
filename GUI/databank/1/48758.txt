@@ -1,3 +1,20 @@
-satellite
-	@satellite /'sætəlait/\n*  danh từ\n- vệ tinh; vệ tinh nhân tạo\n- người tuỳ tùng, người hầu; tay sai\n- nước chư hầu ((thường) satellite state)\n- (định ngữ) thứ yếu\n@Chuyên ngành kinh tế\n-vệ tinh\n-vệ tinh nhân tạo\n@Chuyên ngành kỹ thuật\n-phụ thuộc\n-vệ tinh\n@Lĩnh vực: y học\n-đi kèm\n-thể kèm\n@Lĩnh vực: toán & tin\n-máy vệ tinh\n@Lĩnh vực: điện lạnh\n-vạch tùy tùng\n-vật tùy tùng
-
+satellite	@satellite /'sætəlait/
+*  danh từ
+- vệ tinh; vệ tinh nhân tạo
+- người tuỳ tùng, người hầu; tay sai
+- nước chư hầu ((thường) satellite state)
+- (định ngữ) thứ yếu
+@Chuyên ngành kinh tế
+-vệ tinh
+-vệ tinh nhân tạo
+@Chuyên ngành kỹ thuật
+-phụ thuộc
+-vệ tinh
+@Lĩnh vực: y học
+-đi kèm
+-thể kèm
+@Lĩnh vực: toán & tin
+-máy vệ tinh
+@Lĩnh vực: điện lạnh
+-vạch tùy tùng
+-vật tùy tùng

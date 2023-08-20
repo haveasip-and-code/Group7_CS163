@@ -1,3 +1,11 @@
-modular
-	@modular\n- tính chất môđun, môđun tính\n@Chuyên ngành kinh tế\n-môđun\n@Chuyên ngành kỹ thuật\n-đồng dư\n-khối kết cấu\n-môđun\n@Lĩnh vực: toán & tin\n-mođula\n-theo mô đun
-
+modular	@modular
+- tính chất môđun, môđun tính
+@Chuyên ngành kinh tế
+-môđun
+@Chuyên ngành kỹ thuật
+-đồng dư
+-khối kết cấu
+-môđun
+@Lĩnh vực: toán & tin
+-mođula
+-theo mô đun

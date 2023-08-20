@@ -1,3 +1,2 @@
-vetting
-	@Chuyên ngành kỹ thuật\n-hiệu chỉnh
-
+vetting	@Chuyên ngành kỹ thuật
+-hiệu chỉnh

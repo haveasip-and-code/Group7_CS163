@@ -1,3 +1,22 @@
-decide
-	@decide /di'said/\n*  động từ\n- giải quyết, phân xử\n=to decide a question+ giải quyết một vấn đề\n=to decide against somebody+ phân xử ai thua (kiện...)\n=to decide in favour of somebody+ phân xử cho ai được (kiện)\n- quyết định\n=to decide to do something+ quyết định làm cái gì\n=to decide against doing something+ quyết định không làm cái gì\n=that decides me!+ nhất định rồi!\n- lựa chọn, quyết định chọn\n=to decide between two things+ lựa chọn trong hai thứ\n!to decide on\n- chọn, quyết định chọn\n=she decided on the green coat+ cô ta quyết định chọn cái áo choàng màu lục\n@Chuyên ngành kinh tế\n-giải quyết\n-phân xử\n-quyết định\n-quyết định chọn\n@Chuyên ngành kỹ thuật\n-quyết định
-
+decide	@decide /di'said/
+*  động từ
+- giải quyết, phân xử
+=to decide a question+ giải quyết một vấn đề
+=to decide against somebody+ phân xử ai thua (kiện...)
+=to decide in favour of somebody+ phân xử cho ai được (kiện)
+- quyết định
+=to decide to do something+ quyết định làm cái gì
+=to decide against doing something+ quyết định không làm cái gì
+=that decides me!+ nhất định rồi!
+- lựa chọn, quyết định chọn
+=to decide between two things+ lựa chọn trong hai thứ
+!to decide on
+- chọn, quyết định chọn
+=she decided on the green coat+ cô ta quyết định chọn cái áo choàng màu lục
+@Chuyên ngành kinh tế
+-giải quyết
+-phân xử
+-quyết định
+-quyết định chọn
+@Chuyên ngành kỹ thuật
+-quyết định

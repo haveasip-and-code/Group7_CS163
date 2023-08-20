@@ -1,3 +1,30 @@
-density
-	@density /'densiti/\n*  danh từ\n- tính dày đặc\n- sự đông đúc, sự trù mật\n- độ dày, mật độ, độ chặt\n=molecular density+ mật độ phân tử\n- (vật lý) tỷ trọng\n- tính đần độn, tính ngu đần\n@Chuyên ngành kinh tế\n-mật độ\n-tỷ trọng\n@Chuyên ngành kỹ thuật\n-độ chặt\n-độ đặc\n-độ dày\n-độ đục\n-độ khít\n-độ mờ\n-độ sệt\n-dung trọng\n-khối lượng riêng\n-mật độ\n-mật độ khối\n-tỷ trọng\n-tỷ trọng kế\n@Lĩnh vực: xây dựng\n-tỉ trọng\n-tính dày đặc\n@Lĩnh vực: toán & tin\n-tính trù mật
-
+density	@density /'densiti/
+*  danh từ
+- tính dày đặc
+- sự đông đúc, sự trù mật
+- độ dày, mật độ, độ chặt
+=molecular density+ mật độ phân tử
+- (vật lý) tỷ trọng
+- tính đần độn, tính ngu đần
+@Chuyên ngành kinh tế
+-mật độ
+-tỷ trọng
+@Chuyên ngành kỹ thuật
+-độ chặt
+-độ đặc
+-độ dày
+-độ đục
+-độ khít
+-độ mờ
+-độ sệt
+-dung trọng
+-khối lượng riêng
+-mật độ
+-mật độ khối
+-tỷ trọng
+-tỷ trọng kế
+@Lĩnh vực: xây dựng
+-tỉ trọng
+-tính dày đặc
+@Lĩnh vực: toán & tin
+-tính trù mật

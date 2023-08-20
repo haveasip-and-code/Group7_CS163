@@ -1,3 +1,29 @@
-testing
-	@testing\n* danh từ\n- sự thử; sự nghiên cứu\n@Chuyên ngành kinh tế\n-sự đánh giá\n-sự đánh giá cảm quan\n-sự nghiên cứu\n-sự phân tích\n-sự thí nghiệm\n-sự thử nghiệm\n@Chuyên ngành kỹ thuật\n-kiểm định\n-kiểm nghiệm\n-phép thử\n-sự kiểm chứng\n-sự kiểm nghiệm\n-sự kiểm tra\n-sự lấy mẫu\n-sự thí nghiệm\n-sự thử\n-sự thử nghiệm\n-sự xét nghiệm\n-thí nghiệm\n-thử\n-thử nghiệm\n-tiêu chuẩn\n-xét nghiệm\n@Lĩnh vực: điện\n-việc thử nghiệm
-
+testing	@testing
+* danh từ
+- sự thử; sự nghiên cứu
+@Chuyên ngành kinh tế
+-sự đánh giá
+-sự đánh giá cảm quan
+-sự nghiên cứu
+-sự phân tích
+-sự thí nghiệm
+-sự thử nghiệm
+@Chuyên ngành kỹ thuật
+-kiểm định
+-kiểm nghiệm
+-phép thử
+-sự kiểm chứng
+-sự kiểm nghiệm
+-sự kiểm tra
+-sự lấy mẫu
+-sự thí nghiệm
+-sự thử
+-sự thử nghiệm
+-sự xét nghiệm
+-thí nghiệm
+-thử
+-thử nghiệm
+-tiêu chuẩn
+-xét nghiệm
+@Lĩnh vực: điện
+-việc thử nghiệm

@@ -1,3 +1,6 @@
-reenter
-	@reenter\n* ngoại động từ\n- lại ghi (tên vào sổ, cuộc thi...)\n- lại vào (phòng...)\n* nội động từ\n- lại trở vào
-
+reenter	@reenter
+* ngoại động từ
+- lại ghi (tên vào sổ, cuộc thi...)
+- lại vào (phòng...)
+* nội động từ
+- lại trở vào

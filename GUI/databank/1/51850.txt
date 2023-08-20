@@ -1,3 +1,6 @@
-sommelier
-	@sommelier\n* danh từ\n- sồ nhiều sommeliers\n- người hầu rượu (ở quán rượu)\n@Chuyên ngành kinh tế\n-nhân viên phục vụ rượu
-
+sommelier	@sommelier
+* danh từ
+- sồ nhiều sommeliers
+- người hầu rượu (ở quán rượu)
+@Chuyên ngành kinh tế
+-nhân viên phục vụ rượu

@@ -1,3 +1,7 @@
-delineator
-	@delineator /di'linieitə/\n*  danh từ\n- người vẽ, người vạch; người mô tả, người phác hoạ\n@Chuyên ngành kỹ thuật\n-người vẽ\n@Lĩnh vực: xây dựng\n-người phác họa
-
+delineator	@delineator /di'linieitə/
+*  danh từ
+- người vẽ, người vạch; người mô tả, người phác hoạ
+@Chuyên ngành kỹ thuật
+-người vẽ
+@Lĩnh vực: xây dựng
+-người phác họa

@@ -1,3 +1,67 @@
-loading
-	@loading /'loudiɳ/\n*  danh từ\n- sự chất hàng (lên xe, tàu)\n- hàng chở (trên xe, tàu)\n- sự nạp đạn\n@Chuyên ngành kinh tế\n-chở hàng\n-phí bảo hiểm ngoại ngạch\n-phí vay nợ\n-phụ phí\n-phụ phí bảo hiểm\n-sự chất hàng\n-tính thêm phí\n-việc bốc hàng\n-việc chất (hàng) lên xuống (tàu, xe)\n@Chuyên ngành kỹ thuật\n-lô\n-loạt\n-lượng tải\n-phụ tải\n-sự chất hàng\n-sự chất tải\n-sự đặt gánh\n-sự đặt tải\n-sự gia cảm\n-sự nạp\n-sự nạp liệu\n-sự nạp mìn\n-sự tải\n-sự tải, sự chất\n-sự xếp hàng\n-trọng tải\n-vật nặng\n@Lĩnh vực: xây dựng\n-sự bốc xếp\n-sự chất liệu\n-xếp tải\n@Lĩnh vực: cơ khí & công trình\n-sự nạp tải\n@Lĩnh vực: hóa học & vật liệu\n-sự tải khí hơi\n@Chuyên ngành kỹ thuật\n-lô\n-loạt\n-lượng tải\n-phụ tải\n-sự chất hàng\n-sự chất tải\n-sự đặt gánh\n-sự đặt tải\n-sự gia cảm\n-sự nạp\n-sự nạp liệu\n-sự nạp mìn\n-sự tải\n-sự tải, sự chất\n-sự xếp hàng\n-trọng tải\n-vật nặng\n@Lĩnh vực: xây dựng\n-sự bốc xếp\n-sự chất liệu\n-xếp tải\n@Lĩnh vực: cơ khí & công trình\n-sự nạp tải\n@Lĩnh vực: hóa học & vật liệu\n-sự tải khí hơi
-
+loading	@loading /'loudiɳ/
+*  danh từ
+- sự chất hàng (lên xe, tàu)
+- hàng chở (trên xe, tàu)
+- sự nạp đạn
+@Chuyên ngành kinh tế
+-chở hàng
+-phí bảo hiểm ngoại ngạch
+-phí vay nợ
+-phụ phí
+-phụ phí bảo hiểm
+-sự chất hàng
+-tính thêm phí
+-việc bốc hàng
+-việc chất (hàng) lên xuống (tàu, xe)
+@Chuyên ngành kỹ thuật
+-lô
+-loạt
+-lượng tải
+-phụ tải
+-sự chất hàng
+-sự chất tải
+-sự đặt gánh
+-sự đặt tải
+-sự gia cảm
+-sự nạp
+-sự nạp liệu
+-sự nạp mìn
+-sự tải
+-sự tải, sự chất
+-sự xếp hàng
+-trọng tải
+-vật nặng
+@Lĩnh vực: xây dựng
+-sự bốc xếp
+-sự chất liệu
+-xếp tải
+@Lĩnh vực: cơ khí & công trình
+-sự nạp tải
+@Lĩnh vực: hóa học & vật liệu
+-sự tải khí hơi
+@Chuyên ngành kỹ thuật
+-lô
+-loạt
+-lượng tải
+-phụ tải
+-sự chất hàng
+-sự chất tải
+-sự đặt gánh
+-sự đặt tải
+-sự gia cảm
+-sự nạp
+-sự nạp liệu
+-sự nạp mìn
+-sự tải
+-sự tải, sự chất
+-sự xếp hàng
+-trọng tải
+-vật nặng
+@Lĩnh vực: xây dựng
+-sự bốc xếp
+-sự chất liệu
+-xếp tải
+@Lĩnh vực: cơ khí & công trình
+-sự nạp tải
+@Lĩnh vực: hóa học & vật liệu
+-sự tải khí hơi

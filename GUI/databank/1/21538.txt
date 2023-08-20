@@ -1,3 +1,16 @@
-flotsam
-	@flotsam /flotsam/\n*  danh từ\n- vật nổi lềnh bềnh (trên mặt biển)\n- trứng con trai\n!flotsam and jetsam\n- hàng hoá trôi giạt vào bờ; tàu đắm trôi giạt vào bờ\n- những đồ tạp nhạp vô giá trị\n- (từ Mỹ,nghĩa Mỹ) những người sống lang thang, những người nay có việc mai không\n@Chuyên ngành kinh tế\n-hàng trôi giạt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hàng trôi dạt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hàng trôi dạt
-
+flotsam	
+@flotsam /flotsam/
+*  danh từ
+- vật nổi lềnh bềnh (trên mặt biển)
+- trứng con trai!flotsam and jetsam
+- hàng hoá trôi giạt vào bờ; tàu đắm trôi giạt vào bờ
+- những đồ tạp nhạp vô giá trị
+- (từ Mỹ,nghĩa Mỹ) những người sống lang thang, những người nay có việc mai không
+@Chuyên ngành kinh tế
+-hàng trôi giạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-hàng trôi dạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-hàng trôi dạt

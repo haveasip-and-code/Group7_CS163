@@ -1,3 +1,7 @@
-prosaic
-	@prosaic /prosaic/\n*  tính từ\n- như văn xuôi, có tính chất văn xuôi, nôm na\n- không có chất thơ, thiếu cái đẹp của chất thơ; không thơ mộng\n- tầm thường, dung tục; buồn tẻ, chán ngắt\n=a prosaic speaker+ người nói chán ngắt\n=a prosaic life+ cuộc sống tầm thường buồn tẻ
-
+prosaic	@prosaic /prosaic/
+*  tính từ
+- như văn xuôi, có tính chất văn xuôi, nôm na
+- không có chất thơ, thiếu cái đẹp của chất thơ; không thơ mộng
+- tầm thường, dung tục; buồn tẻ, chán ngắt
+=a prosaic speaker+ người nói chán ngắt
+=a prosaic life+ cuộc sống tầm thường buồn tẻ

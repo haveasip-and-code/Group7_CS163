@@ -1,3 +1,4 @@
-farmable
-	@farmable\n* tính từ\n- có thể phát canh, có thể trồng trọt
-
+farmable	
+@farmable
+* tính từ
+- có thể phát canh, có thể trồng trọt

@@ -1,3 +1,6 @@
-bottled
-	@Chuyên ngành kinh tế\n-vô chai\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-được đóng lọ
-
+bottled	
+@Chuyên ngành kinh tế
+-vô chai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-được đóng lọ

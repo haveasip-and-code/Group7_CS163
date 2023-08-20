@@ -1,3 +1,7 @@
-relaxant
-	@relaxant\n* danh từ\n- (y học) thuốc làm bắp thịt bớt căng\n- thuốc xổ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất thư giãn
-
+relaxant	@relaxant
+* danh từ
+- (y học) thuốc làm bắp thịt bớt căng
+- thuốc xổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất thư giãn

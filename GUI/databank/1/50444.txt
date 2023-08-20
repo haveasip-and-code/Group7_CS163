@@ -1,3 +1,16 @@
-shooting
-	@shooting /'ʃu:tiɳ/\n*  danh từ\n- sự bắn, sự phóng đi\n- khu vực săn bắn\n- quyền săn bắn ở các khu vực quy định\n- sự sút (bóng)\n- cơn đau nhói\n- sự chụp ảnh, sự quay phim\n@Chuyên ngành kinh tế\n-khu vực săn bắn\n-sự bắn\n@Chuyên ngành kỹ thuật\n-sự bắn\n-sự chụp ảnh\n-sự nổ mìn\n-sự quay phim
-
+shooting	@shooting /'ʃu:tiɳ/
+*  danh từ
+- sự bắn, sự phóng đi
+- khu vực săn bắn
+- quyền săn bắn ở các khu vực quy định
+- sự sút (bóng)
+- cơn đau nhói
+- sự chụp ảnh, sự quay phim
+@Chuyên ngành kinh tế
+-khu vực săn bắn
+-sự bắn
+@Chuyên ngành kỹ thuật
+-sự bắn
+-sự chụp ảnh
+-sự nổ mìn
+-sự quay phim

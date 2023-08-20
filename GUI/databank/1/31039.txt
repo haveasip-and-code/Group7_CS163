@@ -1,3 +1,5 @@
-kitchenette
-	@kitchenette\n* danh từ\n- bếp nhỏ\n@Chuyên ngành kinh tế\n-phòng có bếp mini
-
+kitchenette	@kitchenette
+* danh từ
+- bếp nhỏ
+@Chuyên ngành kinh tế
+-phòng có bếp mini

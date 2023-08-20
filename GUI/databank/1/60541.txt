@@ -1,3 +1,8 @@
-unspent
-	@unspent /' n'spent/\n*  tính từ\n- không tiêu đến; chưa dùng\n- chưa cạn, chưa hết\n@Chuyên ngành kinh tế\n-chưa chi tiêu\n-số tiền chưa chi tiêu\n-vẫn còn
-
+unspent	@unspent /' n'spent/
+*  tính từ
+- không tiêu đến; chưa dùng
+- chưa cạn, chưa hết
+@Chuyên ngành kinh tế
+-chưa chi tiêu
+-số tiền chưa chi tiêu
+-vẫn còn

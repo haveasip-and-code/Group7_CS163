@@ -1,3 +1,66 @@
-keeper
-	@keeper /'ki:pə/\n*  danh từ\n- người giữ, người gác\n- người bảo quản, người bảo tồn (viện bảo tàng, thư viện...)\n- người trông nom người điên\n- người quản lý, người chủ (quán...)\n- người coi khu rừng cấm săn bắn\n- nhẫn giữ (đeo để giữ cho chiếc nhẫn khác thường là nhẫn cưới, khỏi tuột)\n- (kỹ thuật) đai ốc hãm\n@Chuyên ngành kinh tế\n-người giữ\n-người kinh doanh\n-người quản lý\n@Chuyên ngành kỹ thuật\n-bánh cóc\n-bảo dưỡng\n-bảo quản\n-bảo vệ\n-bộ hãm\n-bộ kẹp\n-cái tốc\n-đai ốc hãm\n-êcu hãm\n-giá đỡ\n-giữ\n-kẹp\n-khóa\n-nêm từ\n-phanh tự động\n-tấm hãm\n-vấu hãm\n-vấu tỳ\n@Lĩnh vực: hóa học & vật liệu\n-bộ giữ\n-người bảo quản\n-thuốc giữ\n@Lĩnh vực: xây dựng\n-cơ cấu chặn\n-tấm khóa\n@Chuyên ngành kỹ thuật\n-bánh cóc\n-bảo dưỡng\n-bảo quản\n-bảo vệ\n-bộ hãm\n-bộ kẹp\n-cái tốc\n-đai ốc hãm\n-êcu hãm\n-giá đỡ\n-giữ\n-kẹp\n-khóa\n-nêm từ\n-phanh tự động\n-tấm hãm\n-vấu hãm\n-vấu tỳ\n@Lĩnh vực: hóa học & vật liệu\n-bộ giữ\n-người bảo quản\n-thuốc giữ\n@Lĩnh vực: xây dựng\n-cơ cấu chặn\n-tấm khóa
-
+keeper	
+@keeper /'ki:pə/
+*  danh từ
+- người giữ, người gác
+- người bảo quản, người bảo tồn (viện bảo tàng, thư viện...)
+- người trông nom người điên
+- người quản lý, người chủ (quán...)
+- người coi khu rừng cấm săn bắn
+- nhẫn giữ (đeo để giữ cho chiếc nhẫn khác thường là nhẫn cưới, khỏi tuột)
+- (kỹ thuật) đai ốc hãm
+@Chuyên ngành kinh tế
+-người giữ
+-người kinh doanh
+-người quản lý
+@Chuyên ngành kỹ thuật
+-bánh cóc
+-bảo dưỡng
+-bảo quản
+-bảo vệ
+-bộ hãm
+-bộ kẹp
+-cái tốc
+-đai ốc hãm
+-êcu hãm
+-giá đỡ
+-giữ
+-kẹp
+-khóa
+-nêm từ
+-phanh tự động
+-tấm hãm
+-vấu hãm
+-vấu tỳ
+@Lĩnh vực: hóa học & vật liệu
+-bộ giữ
+-người bảo quản
+-thuốc giữ
+@Lĩnh vực: xây dựng
+-cơ cấu chặn
+-tấm khóa
+@Chuyên ngành kỹ thuật
+-bánh cóc
+-bảo dưỡng
+-bảo quản
+-bảo vệ
+-bộ hãm
+-bộ kẹp
+-cái tốc
+-đai ốc hãm
+-êcu hãm
+-giá đỡ
+-giữ
+-kẹp
+-khóa
+-nêm từ
+-phanh tự động
+-tấm hãm
+-vấu hãm
+-vấu tỳ
+@Lĩnh vực: hóa học & vật liệu
+-bộ giữ
+-người bảo quản
+-thuốc giữ
+@Lĩnh vực: xây dựng
+-cơ cấu chặn
+-tấm khóa

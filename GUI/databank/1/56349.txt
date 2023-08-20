@@ -1,3 +1,13 @@
-thermosetting
-	@thermosetting\n* tính từ\n- phản ứng nóng, phản ứng nhiệt (trở nên thường xuyên cứng khi được nung nóng)\n* danh từ\n- nhựa phản ứng nóng, nhựa phản ứng nhiệt\n@Chuyên ngành kỹ thuật\n-nhiệt rắn\n-sự khô nhiệt\n-sự rắn nhiệt\n-sự rắn nóng\n@Lĩnh vực: xây dựng\n-ép nóng\n-rắn nhiệt
-
+thermosetting	@thermosetting
+* tính từ
+- phản ứng nóng, phản ứng nhiệt (trở nên thường xuyên cứng khi được nung nóng)
+* danh từ
+- nhựa phản ứng nóng, nhựa phản ứng nhiệt
+@Chuyên ngành kỹ thuật
+-nhiệt rắn
+-sự khô nhiệt
+-sự rắn nhiệt
+-sự rắn nóng
+@Lĩnh vực: xây dựng
+-ép nóng
+-rắn nhiệt

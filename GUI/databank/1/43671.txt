@@ -1,3 +1,2 @@
-printings
-	@Chuyên ngành kỹ thuật\n-giấy bao gói in
-
+printings	@Chuyên ngành kỹ thuật
+-giấy bao gói in

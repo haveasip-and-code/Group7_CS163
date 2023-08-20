@@ -1,3 +1,4 @@
-prognoses
-	@prognoses /prognoses/\n*  danh từ,  số nhiều prognoses\n/prɔg'nousi:z/\n- (y học) dự đoán (về sự tiến triển của bệnh), tiên lượng
-
+prognoses	@prognoses /prognoses/
+*  danh từ,  số nhiều prognoses
+/prɔg'nousi:z/
+- (y học) dự đoán (về sự tiến triển của bệnh), tiên lượng

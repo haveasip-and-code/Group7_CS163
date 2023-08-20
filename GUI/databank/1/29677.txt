@@ -1,3 +1,3 @@
-intromitter
-	@intromitter\n- xem intromit
-
+intromitter	
+@intromitter
+- xem intromit

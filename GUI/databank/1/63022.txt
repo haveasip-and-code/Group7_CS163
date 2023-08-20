@@ -1,3 +1,6 @@
-windrow
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đê trong (đắp trong nước để làm lối đi lại)\n-vun thành luống\n@Lĩnh vực: giao thông & vận tải\n-luống vật liệu (dọc đường)
-
+windrow	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đê trong (đắp trong nước để làm lối đi lại)
+-vun thành luống
+@Lĩnh vực: giao thông & vận tải
+-luống vật liệu (dọc đường)

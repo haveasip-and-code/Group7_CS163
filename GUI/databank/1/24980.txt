@@ -1,3 +1,21 @@
-harbour
-	@harbour /'hɑ:bə/\n*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)\n- bến tàu, cảng\n- (nghĩa bóng) nơi an toàn; nơi ẩn náu\n*  ngoại động từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)\n- chứa chấp; che giấu, cho ẩn náu\n=to harbour a criminal+ chứa chấp một kẻ có tội\n- nuôi dưỡng (ý nghĩ xấu...)\n=to harbour evil thoughts+ nuôi dưỡng những ý nghĩ xấu xa\n*  nội động từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)\n- bỏ neo ở cảng, đậu ở cảng (tàu thuỷ)\n@Chuyên ngành kinh tế\n-cảng\n-cảng khẩu\n-hải cảng\n-vịnh cảng\n@Chuyên ngành kỹ thuật\n-bến\n-bến tàu\n-vũng
-
+harbour	
+@harbour /'hɑ:bə/
+*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)
+- bến tàu, cảng
+- (nghĩa bóng) nơi an toàn; nơi ẩn náu
+*  ngoại động từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)
+- chứa chấp; che giấu, cho ẩn náu=to harbour a criminal
++ chứa chấp một kẻ có tội
+- nuôi dưỡng (ý nghĩ xấu...)=to harbour evil thoughts
++ nuôi dưỡng những ý nghĩ xấu xa
+*  nội động từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)
+- bỏ neo ở cảng, đậu ở cảng (tàu thuỷ)
+@Chuyên ngành kinh tế
+-cảng
+-cảng khẩu
+-hải cảng
+-vịnh cảng
+@Chuyên ngành kỹ thuật
+-bến
+-bến tàu
+-vũng

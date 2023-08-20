@@ -1,3 +1,8 @@
-coiler
-	@coiler\n- xem coil\n@Chuyên ngành kỹ thuật\n-ống xoắn\n@Lĩnh vực: cơ khí & công trình\n-máy cuốn\n-máy quấn
-
+coiler	
+@coiler
+- xem coil
+@Chuyên ngành kỹ thuật
+-ống xoắn
+@Lĩnh vực: cơ khí & công trình
+-máy cuốn
+-máy quấn

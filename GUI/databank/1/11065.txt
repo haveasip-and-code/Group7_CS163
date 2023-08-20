@@ -1,3 +1,18 @@
-confinement
-	@confinement /kən'fainmənt/\n*  danh từ\n- sự giam, sự giam hãm\n=to be placed in confinement+ bị giam\n=close (solitary) confinement+ sự giam riêng, sự giam xà lim\n- sự hạn chế\n- sự ở cữ, sự đẻ\n=to be in confinement+ ở cữ, đẻ\n@Chuyên ngành kỹ thuật\n-sự bao bọc\n-sự giam giữ\n-sự giữ\n-sự hạn chế\n@Lĩnh vực: xây dựng\n-bó tăng cường\n@Lĩnh vực: điện lạnh\n-sự giam
-
+confinement	
+@confinement /kən'fainmənt/
+*  danh từ
+- sự giam, sự giam hãm=to be placed in confinement
++ bị giam=close (solitary) confinement
++ sự giam riêng, sự giam xà lim
+- sự hạn chế
+- sự ở cữ, sự đẻ=to be in confinement
++ ở cữ, đẻ
+@Chuyên ngành kỹ thuật
+-sự bao bọc
+-sự giam giữ
+-sự giữ
+-sự hạn chế
+@Lĩnh vực: xây dựng
+-bó tăng cường
+@Lĩnh vực: điện lạnh
+-sự giam

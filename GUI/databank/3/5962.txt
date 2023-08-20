@@ -1,3 +1,17 @@
-blockage
-	@blockage\n* danh từ\n- sự bao vây; tình trang bị bao vây\n@Chuyên ngành kinh tế\n-sự phong tỏa\n@Chuyên ngành kỹ thuật\n-lỗi\n-sự chắn\n-sự chặn\n-sự đóng kín\n-sự kẹt\n-sự tắc\n-trục trặc\n@Lĩnh vực: cơ khí & công trình\n-sự tắc đường ống\n@Lĩnh vực: điện tử & viễn thông\n-tắc nghẽn
-
+blockage	@blockage
+* danh từ
+- sự bao vây; tình trang bị bao vây
+@Chuyên ngành kinh tế
+-sự phong tỏa
+@Chuyên ngành kỹ thuật
+-lỗi
+-sự chắn
+-sự chặn
+-sự đóng kín
+-sự kẹt
+-sự tắc
+-trục trặc
+@Lĩnh vực: cơ khí & công trình
+-sự tắc đường ống
+@Lĩnh vực: điện tử & viễn thông
+-tắc nghẽn

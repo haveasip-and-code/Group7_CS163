@@ -1,3 +1,15 @@
-rationalize
-	@rationalize /'ræʃnəlaiz/\n*  ngoại động từ\n- hợp lý hoá (một ngành sản xuất)\n- giải thích duy lý (tín ngưỡng...) làm cho (hành vi tư tưởng...) phù hợp với lẽ phải\n- (toán học) hữu tỷ hoá\n*  nội động từ\n- theo chủ nghĩa duy lý\n- hành động suy nghĩ theo chủ nghĩa duy lý\n@Chuyên ngành kinh tế\n-hợp lý hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hợp lý hóa\n@Lĩnh vực: toán & tin\n-hữu tỷ hóa
-
+rationalize	@rationalize /'ræʃnəlaiz/
+*  ngoại động từ
+- hợp lý hoá (một ngành sản xuất)
+- giải thích duy lý (tín ngưỡng...) làm cho (hành vi tư tưởng...) phù hợp với lẽ phải
+- (toán học) hữu tỷ hoá
+*  nội động từ
+- theo chủ nghĩa duy lý
+- hành động suy nghĩ theo chủ nghĩa duy lý
+@Chuyên ngành kinh tế
+-hợp lý hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hợp lý hóa
+@Lĩnh vực: toán & tin
+-hữu tỷ hóa

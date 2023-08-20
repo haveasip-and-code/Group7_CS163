@@ -1,3 +1,2 @@
-phonily
-	@phonily\n- xem phony
-
+phonily	@phonily
+- xem phony

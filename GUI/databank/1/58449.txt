@@ -1,3 +1,2 @@
-ulama
-	@ulama\n- xem Ulema
-
+ulama	@ulama
+- xem Ulema

@@ -1,3 +1,20 @@
-generate
-	@generate /'dʤenəreit/\n*  ngoại động từ\n- sinh, đẻ ra\n- phát, phát ra\n=to generate electricity+ phát điện\n@Chuyên ngành kỹ thuật\n-đưa ra\n-khởi động\n-phát\n-phát động\n-phát ra\n-phát sinh\n-sinh\n-sinh ra\n-tạo thành\n@Lĩnh vực: điện lạnh\n-sản ra\n@Lĩnh vực: ô tô\n-sản sinh
-
+generate	
+@generate /'dʤenəreit/
+*  ngoại động từ
+- sinh, đẻ ra
+- phát, phát ra=to generate electricity
++ phát điện
+@Chuyên ngành kỹ thuật
+-đưa ra
+-khởi động
+-phát
+-phát động
+-phát ra
+-phát sinh
+-sinh
+-sinh ra
+-tạo thành
+@Lĩnh vực: điện lạnh
+-sản ra
+@Lĩnh vực: ô tô
+-sản sinh

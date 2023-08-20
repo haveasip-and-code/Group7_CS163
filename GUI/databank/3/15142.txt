@@ -1,3 +1,8 @@
-dialog
-	@dialog\n- hội thoại\n@Chuyên ngành kỹ thuật\n-sự đối thoại\n-sự hội thoại\n-sự tương tác\n@Lĩnh vực: toán & tin\n-cuộc đối thoại
-
+dialog	@dialog
+- hội thoại
+@Chuyên ngành kỹ thuật
+-sự đối thoại
+-sự hội thoại
+-sự tương tác
+@Lĩnh vực: toán & tin
+-cuộc đối thoại

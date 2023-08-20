@@ -1,3 +1,6 @@
-reporting
-	@Chuyên ngành kinh tế\n-bản tin (báo chí)\n-báo cáo\n-báo cáo tình hình tài chính\n-khai báo\n-việc trình báo
-
+reporting	@Chuyên ngành kinh tế
+-bản tin (báo chí)
+-báo cáo
+-báo cáo tình hình tài chính
+-khai báo
+-việc trình báo

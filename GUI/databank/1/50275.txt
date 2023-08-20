@@ -1,3 +1,68 @@
-sheet
-	@sheet /ʃi:t/\n*  danh từ\n- khăn trải giường\n=to get between the sheets+ đi ngủ\n- lá, tấm, phiến, tờ\n=a sheet of iron+ một tấm sắt\n=loose sheet+ giấy rời\n- tờ báo\n- dải\n=a sheet of ice+ một dải băng\n- (địa lý,địa chất) vỉa\n- (hàng hải) dây lèo (để điều chỉnh buồm)\n- (thơ ca) buồm\n!to be a sheet in the wind\n- (từ lóng) ngà ngà say\n!to be three sheets in the wind\n- (từ lóng) say bí tỉ, say khướt\n*  ngoại động từ\n- đậy, phủ, trùm kín\n=to sheet over a waggon+ phủ kín một toa xe bằng vải bạt\n=the town was sheeted over with snow+ tuyết phủ đầy thành phố\n- kết lại thành tấm, hợp lại thành phiến\n=sheeted rain+ mưa như đổ nước\n- (hàng hải) giữ buồm bằng dây lèo\n!to sheet home\n- buộc căng dây lèo buồm\n@Chuyên ngành kinh tế\n-khay mâm\n-lá\n-phiếu\n-tấm\n-tờ (giấy)\n@Chuyên ngành kỹ thuật\n-bản\n-bia\n-dải\n-giản đồ\n-ký hiệu tay bông\n-lá\n-lá kim loại\n-lớp (nước)\n-lớp phủ\n-màng\n-phiến\n-phiến mỏng\n-phiếu\n-sơ đồ\n-tấm\n-tấm tôn\n-tầng\n-vỉa\n@Lĩnh vực: điện lạnh\n-bản (mỏng)\n-tấm (mỏng)\n@Lĩnh vực: giao thông & vận tải\n-dây lèo (thuyền buồm)\n@Lĩnh vực: hóa học & vật liệu\n-lá thép\n@Lĩnh vực: vật lý\n-tấm (bản mỏng)\n@Lĩnh vực: cơ khí & công trình\n-thép lá (mỏng hơn 5, 45mm)\n@Lĩnh vực: xây dựng\n-tờ (giấy)\n@Lĩnh vực: toán & tin\n-tờ giấy\n-tờ tính (trong MS Excel)\n-trang tính
-
+sheet	@sheet /ʃi:t/
+*  danh từ
+- khăn trải giường
+=to get between the sheets+ đi ngủ
+- lá, tấm, phiến, tờ
+=a sheet of iron+ một tấm sắt
+=loose sheet+ giấy rời
+- tờ báo
+- dải
+=a sheet of ice+ một dải băng
+- (địa lý,địa chất) vỉa
+- (hàng hải) dây lèo (để điều chỉnh buồm)
+- (thơ ca) buồm
+!to be a sheet in the wind
+- (từ lóng) ngà ngà say
+!to be three sheets in the wind
+- (từ lóng) say bí tỉ, say khướt
+*  ngoại động từ
+- đậy, phủ, trùm kín
+=to sheet over a waggon+ phủ kín một toa xe bằng vải bạt
+=the town was sheeted over with snow+ tuyết phủ đầy thành phố
+- kết lại thành tấm, hợp lại thành phiến
+=sheeted rain+ mưa như đổ nước
+- (hàng hải) giữ buồm bằng dây lèo
+!to sheet home
+- buộc căng dây lèo buồm
+@Chuyên ngành kinh tế
+-khay mâm
+-lá
+-phiếu
+-tấm
+-tờ (giấy)
+@Chuyên ngành kỹ thuật
+-bản
+-bia
+-dải
+-giản đồ
+-ký hiệu tay bông
+-lá
+-lá kim loại
+-lớp (nước)
+-lớp phủ
+-màng
+-phiến
+-phiến mỏng
+-phiếu
+-sơ đồ
+-tấm
+-tấm tôn
+-tầng
+-vỉa
+@Lĩnh vực: điện lạnh
+-bản (mỏng)
+-tấm (mỏng)
+@Lĩnh vực: giao thông & vận tải
+-dây lèo (thuyền buồm)
+@Lĩnh vực: hóa học & vật liệu
+-lá thép
+@Lĩnh vực: vật lý
+-tấm (bản mỏng)
+@Lĩnh vực: cơ khí & công trình
+-thép lá (mỏng hơn 5, 45mm)
+@Lĩnh vực: xây dựng
+-tờ (giấy)
+@Lĩnh vực: toán & tin
+-tờ giấy
+-tờ tính (trong MS Excel)
+-trang tính

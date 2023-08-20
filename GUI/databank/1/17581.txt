@@ -1,3 +1,30 @@
-ejector
-	@ejector /i:'dʤektə/\n*  danh từ\n- người tống ra, người đuổi ra\n- (kỹ thuật) bơm phụt\n@Chuyên ngành kinh tế\n-máy bơm\n-máy phụt\n@Chuyên ngành kỹ thuật\n-bộ phun\n-bơm hơi\n-bơm phun\n-bơm phụt\n-máy đẩy ra\n-máy phun\n-ống bơm\n-ống phun\n-ống phụt\n-thiết bị phun\n-vòi phun\n@Lĩnh vực: điện tử & viễn thông\n-bộ phóng\n@Lĩnh vực: vật lý\n-cấu đẩy ra\n-máy bơm phụt\n@Lĩnh vực: điện\n-ejectơ\n@Lĩnh vực: xây dựng\n-máy đẩy liệu\n-máy thúc
-
+ejector	
+@ejector /i:'dʤektə/
+*  danh từ
+- người tống ra, người đuổi ra
+- (kỹ thuật) bơm phụt
+@Chuyên ngành kinh tế
+-máy bơm
+-máy phụt
+@Chuyên ngành kỹ thuật
+-bộ phun
+-bơm hơi
+-bơm phun
+-bơm phụt
+-máy đẩy ra
+-máy phun
+-ống bơm
+-ống phun
+-ống phụt
+-thiết bị phun
+-vòi phun
+@Lĩnh vực: điện tử & viễn thông
+-bộ phóng
+@Lĩnh vực: vật lý
+-cấu đẩy ra
+-máy bơm phụt
+@Lĩnh vực: điện
+-ejectơ
+@Lĩnh vực: xây dựng
+-máy đẩy liệu
+-máy thúc

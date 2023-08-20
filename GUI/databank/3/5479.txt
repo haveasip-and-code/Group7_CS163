@@ -1,3 +1,19 @@
-bight
-	@bight /bait/\n*  danh từ\n- chỗ lõm vào, chỗ cong (ở bờ biển)\n- khúc uốn (con sông)\n- vịnh\n- vòng, thòng lọng (dây)\n@Chuyên ngành kỹ thuật\n-chỗ cong\n-khúc sông cong\n-khúc uốn (sông)\n-vịnh\n-vịnh nhỏ\n-vòng\n-vũng\n-vũng nhỏ\n@Lĩnh vực: cơ khí & công trình\n-chỗ lõm vào\n@Lĩnh vực: giao thông & vận tải\n-thòng lọng (dây chão)
-
+bight	@bight /bait/
+*  danh từ
+- chỗ lõm vào, chỗ cong (ở bờ biển)
+- khúc uốn (con sông)
+- vịnh
+- vòng, thòng lọng (dây)
+@Chuyên ngành kỹ thuật
+-chỗ cong
+-khúc sông cong
+-khúc uốn (sông)
+-vịnh
+-vịnh nhỏ
+-vòng
+-vũng
+-vũng nhỏ
+@Lĩnh vực: cơ khí & công trình
+-chỗ lõm vào
+@Lĩnh vực: giao thông & vận tải
+-thòng lọng (dây chão)

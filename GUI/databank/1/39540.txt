@@ -1,3 +1,9 @@
-parabola
-	@parabola\n- parabôn\n- p. of convergence parabôn hội tụ\n- p. of higher order parabôn bậc cao\n- cubic p. parabôn bậc ba\n- cubical p. parabôn bậc ba\n- focal p. parabôn tiêu\n- osculating p. parabôn mật tiếp\n- semi-cubical p. parabôn nửa bậc ba
-
+parabola	@parabola
+- parabôn
+- p. of convergence parabôn hội tụ
+- p. of higher order parabôn bậc cao
+- cubic p. parabôn bậc ba
+- cubical p. parabôn bậc ba
+- focal p. parabôn tiêu
+- osculating p. parabôn mật tiếp
+- semi-cubical p. parabôn nửa bậc ba

@@ -1,3 +1,3 @@
-methyldopa
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một loại thuốc giảm huyết áp
-
+methyldopa	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một loại thuốc giảm huyết áp

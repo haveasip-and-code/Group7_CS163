@@ -1,3 +1,2 @@
-productional
-	@productional\n- xem production
-
+productional	@productional
+- xem production

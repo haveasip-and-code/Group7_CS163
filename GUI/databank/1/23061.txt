@@ -1,3 +1,9 @@
-gauger
-	@gauger\n* danh từ\n- người kiểm tra hàng để thu thuế\n- người đo lường; người đánh giá\n@Chuyên ngành kỹ thuật\n-dụng cụ đo\n-người đo\n-người kiểm tra
-
+gauger	
+@gauger
+* danh từ
+- người kiểm tra hàng để thu thuế
+- người đo lường; người đánh giá
+@Chuyên ngành kỹ thuật
+-dụng cụ đo
+-người đo
+-người kiểm tra

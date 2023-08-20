@@ -1,3 +1,57 @@
-fasten
-	@fasten /'fɑ:sn/\n*  ngoại động từ\n- buộc chặt, trói chặt\n=to fasten a parcel+ buộc chặt một gói\n- đóng chặt\n=to fasten the door+ đóng chặt cửa\n- (+ on,  upon) dán mắt nhìn; tập trung (suy nghĩ)\n=to one's eyes on somebody+ dán mắt nhìn ai, nhìn ai chòng chọc\n=to fasten one's thoughts on something+ tập tung tư tưởng vào cái gì\n=to fasten one's attention on something+ chăm chú vào việc gì\n- (+ on,  upon) gán cho đổ cho\n=to fasten a crime on somebody+ đổ tội cho ai\n=to fasten a nickname on somebody+ gán cho ai một biệt hiệu\n*  nội động từ\n- buộc, trói\n- đóng, cài\n=door will not fasten+ cửa hàng không đóng được\n!to fasten off\n- thắt nút (sợi chỉ)\n!to fasten on (upon)\n- nắm chắc lấy, bám chặt lấy; vớ, nắm lấy (một cớ, một cơ hội)\n- tách ra để tấn công\n- tập trung vào\n- gán cho, đổ cho\n!to fasten up\n- buộc chặt, trói chặt, đóng chặt\n!to fasten quarrel upon somebody\n- gây sự với ai\n@Chuyên ngành kỹ thuật\n-bắt chặt\n-buộc\n-chống\n-cố định\n-định vị\n-đông kết (vữa)\n-gia cố\n-kẹp\n-làm cho chắc\n-liên kết\n-nêm chặt\n-siết chặt\n@Lĩnh vực: hóa học & vật liệu\n-buộc chắc\n@Chuyên ngành kỹ thuật\n-bắt chặt\n-buộc\n-chống\n-cố định\n-định vị\n-đông kết (vữa)\n-gia cố\n-kẹp\n-làm cho chắc\n-liên kết\n-nêm chặt\n-siết chặt\n@Lĩnh vực: hóa học & vật liệu\n-buộc chắc
-
+fasten	
+@fasten /'fɑ:sn/
+*  ngoại động từ
+- buộc chặt, trói chặt=to fasten a parcel
++ buộc chặt một gói
+- đóng chặt=to fasten the door
++ đóng chặt cửa
+- (
++ on,  upon) dán mắt nhìn; tập trung (suy nghĩ)=to one's eyes on somebody
++ dán mắt nhìn ai, nhìn ai chòng chọc=to fasten one's thoughts on something
++ tập tung tư tưởng vào cái gì=to fasten one's attention on something
++ chăm chú vào việc gì
+- (
++ on,  upon) gán cho đổ cho=to fasten a crime on somebody
++ đổ tội cho ai=to fasten a nickname on somebody
++ gán cho ai một biệt hiệu
+*  nội động từ
+- buộc, trói
+- đóng, cài=door will not fasten
++ cửa hàng không đóng được!to fasten off
+- thắt nút (sợi chỉ)!to fasten on (upon)
+- nắm chắc lấy, bám chặt lấy; vớ, nắm lấy (một cớ, một cơ hội)
+- tách ra để tấn công
+- tập trung vào
+- gán cho, đổ cho!to fasten up
+- buộc chặt, trói chặt, đóng chặt!to fasten quarrel upon somebody
+- gây sự với ai
+@Chuyên ngành kỹ thuật
+-bắt chặt
+-buộc
+-chống
+-cố định
+-định vị
+-đông kết (vữa)
+-gia cố
+-kẹp
+-làm cho chắc
+-liên kết
+-nêm chặt
+-siết chặt
+@Lĩnh vực: hóa học & vật liệu
+-buộc chắc
+@Chuyên ngành kỹ thuật
+-bắt chặt
+-buộc
+-chống
+-cố định
+-định vị
+-đông kết (vữa)
+-gia cố
+-kẹp
+-làm cho chắc
+-liên kết
+-nêm chặt
+-siết chặt
+@Lĩnh vực: hóa học & vật liệu
+-buộc chắc

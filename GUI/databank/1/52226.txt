@@ -1,3 +1,24 @@
-speck
-	@speck /spek/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ), (Nam phi) thịt mỡ\n- mỡ (chó biển, cá voi)\n- dấu, vết, đốm\n- hạt (bụi...)\n- chỗ (quả) bị thối\n*  ngoại động từ\n- làm lốm đốm\n@Chuyên ngành kinh tế\n-bơ\n-chấm nhỏ\n-điểm\n-mỡ\n-phần tử lọt sàng\n-tấm\n@Chuyên ngành kỹ thuật\n-điểm chấm lốm đốm\n-đốm\n-hạt bụi\n-vết\n-vệt\n@Lĩnh vực: toán & tin\n-vết bẩn lốm đốm
-
+speck	@speck /spek/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ), (Nam phi) thịt mỡ
+- mỡ (chó biển, cá voi)
+- dấu, vết, đốm
+- hạt (bụi...)
+- chỗ (quả) bị thối
+*  ngoại động từ
+- làm lốm đốm
+@Chuyên ngành kinh tế
+-bơ
+-chấm nhỏ
+-điểm
+-mỡ
+-phần tử lọt sàng
+-tấm
+@Chuyên ngành kỹ thuật
+-điểm chấm lốm đốm
+-đốm
+-hạt bụi
+-vết
+-vệt
+@Lĩnh vực: toán & tin
+-vết bẩn lốm đốm

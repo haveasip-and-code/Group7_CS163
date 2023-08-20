@@ -1,3 +1,49 @@
-overflow
-	@overflow /'ouvəflou/\n*  danh từ\n- sự tràn ra (nước)\n- nước lụt\n- phần tràn ra, phần thừa\n!overflow meeting\n- cuộc họp ngoài hộ trường chính (vì thiếu chỗ)[,ouvə'flou]\n*  ngoại động từ\n- tràn qua, làm tràn ngập\n*  nội động từ\n- đầy tràn, chan chứa\n=to overflow with love+ chan chứa tình yêu thương\n@Chuyên ngành kinh tế\n-sự đầy tràn\n@Chuyên ngành kỹ thuật\n-chạy vượt quá\n-công trình xả nước\n-đập tràn\n-dòng chảy tràn\n-dòng tràn\n-nước lũ\n-nước lụt\n-máng tràn\n-ống tràn\n-sự cất tải\n-sự dỡ tải\n-sự phun\n-sự tràn\n-sự xả\n-sự xả nước\n-tràn\n-tràn ngập\n@Lĩnh vực: xây dựng\n-bộ phận tháo nước\n-cống tháo nước tràn\n-máng trào\n-ống thoát chảy tràn\n-sự tháo chảy\n-sự tràn qua\n@Lĩnh vực: điện lạnh\n-chỗ thoát tràn\n@Lĩnh vực: toán & tin\n-dòng quá tải\n-kiểm tra tràn\n-phần tràn\n-tràn bộ nhớ\n-tràn ra\n@Lĩnh vực: điện\n-sự quá dòng (điện)
-
+overflow	@overflow /'ouvəflou/
+*  danh từ
+- sự tràn ra (nước)
+- nước lụt
+- phần tràn ra, phần thừa
+!overflow meeting
+- cuộc họp ngoài hộ trường chính (vì thiếu chỗ)[,ouvə'flou]
+*  ngoại động từ
+- tràn qua, làm tràn ngập
+*  nội động từ
+- đầy tràn, chan chứa
+=to overflow with love+ chan chứa tình yêu thương
+@Chuyên ngành kinh tế
+-sự đầy tràn
+@Chuyên ngành kỹ thuật
+-chạy vượt quá
+-công trình xả nước
+-đập tràn
+-dòng chảy tràn
+-dòng tràn
+-nước lũ
+-nước lụt
+-máng tràn
+-ống tràn
+-sự cất tải
+-sự dỡ tải
+-sự phun
+-sự tràn
+-sự xả
+-sự xả nước
+-tràn
+-tràn ngập
+@Lĩnh vực: xây dựng
+-bộ phận tháo nước
+-cống tháo nước tràn
+-máng trào
+-ống thoát chảy tràn
+-sự tháo chảy
+-sự tràn qua
+@Lĩnh vực: điện lạnh
+-chỗ thoát tràn
+@Lĩnh vực: toán & tin
+-dòng quá tải
+-kiểm tra tràn
+-phần tràn
+-tràn bộ nhớ
+-tràn ra
+@Lĩnh vực: điện
+-sự quá dòng (điện)

@@ -1,3 +1,26 @@
-attack
-	@attack /ə'tæk/\n*  danh từ\n- sự tấn công, sự công kích\n=to make an attack on enemy positions+ tấn công các vị trí địch\n- cơn (bệnh)\n=an attack of fever+ cơn sốt\n=a heart attack+ cơn đau tim\n*  ngoại động từ\n- tấn công, công kích\n- bắt đầu, bắt tay vào, lao vào (công việc)\n=to attack a task+ bắt tay vào việc, lao vào việc\n- ăn mòn (axit)\n=strong acids attack metals+ axit mạnh ăn mòn kim loại\n- nhiễm vào (bệnh tật)\n*  nội động từ\n- tấn công, bắt đầu chiến sự\n@Chuyên ngành kinh tế\n-ăn mòn\n@Chuyên ngành kỹ thuật\n-sự ăn mòn\n-sự tác động\n-sự tấn công\n-sự thâm nhập\n@Lĩnh vực: toán & tin\n-tấn công\n-thâm nhập
-
+attack	@attack /ə'tæk/
+*  danh từ
+- sự tấn công, sự công kích
+=to make an attack on enemy positions+ tấn công các vị trí địch
+- cơn (bệnh)
+=an attack of fever+ cơn sốt
+=a heart attack+ cơn đau tim
+*  ngoại động từ
+- tấn công, công kích
+- bắt đầu, bắt tay vào, lao vào (công việc)
+=to attack a task+ bắt tay vào việc, lao vào việc
+- ăn mòn (axit)
+=strong acids attack metals+ axit mạnh ăn mòn kim loại
+- nhiễm vào (bệnh tật)
+*  nội động từ
+- tấn công, bắt đầu chiến sự
+@Chuyên ngành kinh tế
+-ăn mòn
+@Chuyên ngành kỹ thuật
+-sự ăn mòn
+-sự tác động
+-sự tấn công
+-sự thâm nhập
+@Lĩnh vực: toán & tin
+-tấn công
+-thâm nhập

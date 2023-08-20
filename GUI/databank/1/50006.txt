@@ -1,3 +1,16 @@
-server
-	@server /sə:v/\n*  danh từ\n- người hầu; người hầu bàn\n- khay bưng thức ăn\n- (thể dục,thể thao) người giao bóng (quần vợt...)\n- người phụ lễ\n@Chuyên ngành kỹ thuật\n-nhân viên công vụ\n-máy chủ\n-máy tính chủ\n@Lĩnh vực: điện tử & viễn thông\n-bộ trợ giúp\n@Lĩnh vực: toán & tin\n-chương trình dịch vụ\n-máy phục vụ\n-máy tính phục vụ
-
+server	@server /sə:v/
+*  danh từ
+- người hầu; người hầu bàn
+- khay bưng thức ăn
+- (thể dục,thể thao) người giao bóng (quần vợt...)
+- người phụ lễ
+@Chuyên ngành kỹ thuật
+-nhân viên công vụ
+-máy chủ
+-máy tính chủ
+@Lĩnh vực: điện tử & viễn thông
+-bộ trợ giúp
+@Lĩnh vực: toán & tin
+-chương trình dịch vụ
+-máy phục vụ
+-máy tính phục vụ

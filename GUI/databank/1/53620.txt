@@ -1,3 +1,21 @@
-strapping
-	@strapping /'stræpiɳ/\n*  danh từ\n- sự buộc bằng dây da\n- sự liếc dao cạo\n- (y học) sự băng (vết thương) bằng băng dính\n*  tính từ\n- to cao, vạm vỡ\n@Chuyên ngành kinh tế\n-việc cột bao bì (bằng đai)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-buộc băng, băng bó\n@Lĩnh vực: điện\n-nối liên kết\n@Lĩnh vực: xây dựng\n-sự bọc vành đai\n-sự treo buộc\n@Lĩnh vực: vật lý\n-sự liên kết (các manhetron)\n@Lĩnh vực: điện lạnh\n-sự nối chằng (nhiều điểm bằng đoạn dây ngắn)
-
+strapping	@strapping /'stræpiɳ/
+*  danh từ
+- sự buộc bằng dây da
+- sự liếc dao cạo
+- (y học) sự băng (vết thương) bằng băng dính
+*  tính từ
+- to cao, vạm vỡ
+@Chuyên ngành kinh tế
+-việc cột bao bì (bằng đai)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-buộc băng, băng bó
+@Lĩnh vực: điện
+-nối liên kết
+@Lĩnh vực: xây dựng
+-sự bọc vành đai
+-sự treo buộc
+@Lĩnh vực: vật lý
+-sự liên kết (các manhetron)
+@Lĩnh vực: điện lạnh
+-sự nối chằng (nhiều điểm bằng đoạn dây ngắn)

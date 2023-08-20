@@ -1,3 +1,64 @@
-settle
-	@settle /'setl/\n*  danh từ\n- ghế tủ (ghế dài có lưng dựa và phần dưới đóng thành tủ)\n*  động từ\n- giải quyết, ổn định tư tưởng, dàn xếp, hoà giải\n=to settle a dispute+ dàn xếp một mối bất hoà\n=to settle a doubts+ giải quyết những mối nghi ngờ\n=to settle one's affairs+ giải quyết công việc (thường là làm chúc thư)\n- ngồi đậu\n=to settle oneself in an armchair+ ngồi vào ghế bành\n=bird settles on trees+ chim đậu trên cành cây\n=to settle down to dinner+ ngồi vào bàn ăn\n=to settle down to reading+ sửa soạn đọc sách\n- để, bố trí\n=to settle a unit in a village+ bố trí đơn vị ở một làng\n=to plant's root well down in ground+ để rễ cây ăn sâu xuống đất\n- làm ăn, sinh sống; ổn định cuộc sống, an cư lạc nghiệp, định cư\n=to marry and settle down+ lấy vợ và ổn định cuộc sống\n=to settle down to a married life+ yên tâm làm ăn với cuộc sống gia đình\n- lắng xuống, đi vào nền nếp\n=things will soon settle into shape+ mọi việc sẽ đâu vào đấy\n- chiếm làm thuộc địa\n- để lắng, làm lắng xuống, làm chìm xuống; lắng xuống, lún xuống, chìm xuống\n=the rain will settle the dust+ mưa sẽ làm cho bụi lắng xuống\n=ship settles+ tàu bắt đầu chìm\n- kết thúc (công việc), thanh toán, trả dứt nợ\n=I shall settle up with you next month+ tháng sau tôi sẽ trả hết nợ cho anh\n- nguội dần, dịu dần\n=anger settles down+ cơn giận nguôi dần\n- để lại cho, chuyển cho\n=to settle one's property on somebody+ để của cải cho ai\n- (y học) định vị, khu trú (vào một bộ phận trong cơ thể) (bệnh)\n!to settle someone's hash (business)\n- trị cho ai một trận, sửa cho ai một trận; thịt ai\n!cannot settle to work\n!cannot settle to anything\n- không thể yên tâm kiên trì làm một việc gì\n!that settles the matter (question)\n- thôi thế là xong (không cần phải nói thêm nữa)\n@Chuyên ngành kinh tế\n-định\n-giải quyết (vấn đề...)\n-kết thúc (một công việc)\n-kết thúc (một công việc...)\n-kết toán (một tài khoản...)\n-sắp xếp (một công việc...)\n-thanh toán (một hóa đơn...)\n-trả dứt (một khoản nợ...)\n-xác định (một ngày, một nơi chốn...)\n@Chuyên ngành kỹ thuật\n-bố trí\n-đông cứng\n-làm kết tủa\n-làm lắng\n-lắng\n-lắng chìm\n-lắng đọng\n-lắng xuống (của chất lỏng)\n-lún\n-sắp đặt\n@Lĩnh vực: cơ khí & công trình\n-đặt xiên\n@Lĩnh vực: hóa học & vật liệu\n-làm lắng đọng
-
+settle	@settle /'setl/
+*  danh từ
+- ghế tủ (ghế dài có lưng dựa và phần dưới đóng thành tủ)
+*  động từ
+- giải quyết, ổn định tư tưởng, dàn xếp, hoà giải
+=to settle a dispute+ dàn xếp một mối bất hoà
+=to settle a doubts+ giải quyết những mối nghi ngờ
+=to settle one's affairs+ giải quyết công việc (thường là làm chúc thư)
+- ngồi đậu
+=to settle oneself in an armchair+ ngồi vào ghế bành
+=bird settles on trees+ chim đậu trên cành cây
+=to settle down to dinner+ ngồi vào bàn ăn
+=to settle down to reading+ sửa soạn đọc sách
+- để, bố trí
+=to settle a unit in a village+ bố trí đơn vị ở một làng
+=to plant's root well down in ground+ để rễ cây ăn sâu xuống đất
+- làm ăn, sinh sống; ổn định cuộc sống, an cư lạc nghiệp, định cư
+=to marry and settle down+ lấy vợ và ổn định cuộc sống
+=to settle down to a married life+ yên tâm làm ăn với cuộc sống gia đình
+- lắng xuống, đi vào nền nếp
+=things will soon settle into shape+ mọi việc sẽ đâu vào đấy
+- chiếm làm thuộc địa
+- để lắng, làm lắng xuống, làm chìm xuống; lắng xuống, lún xuống, chìm xuống
+=the rain will settle the dust+ mưa sẽ làm cho bụi lắng xuống
+=ship settles+ tàu bắt đầu chìm
+- kết thúc (công việc), thanh toán, trả dứt nợ
+=I shall settle up with you next month+ tháng sau tôi sẽ trả hết nợ cho anh
+- nguội dần, dịu dần
+=anger settles down+ cơn giận nguôi dần
+- để lại cho, chuyển cho
+=to settle one's property on somebody+ để của cải cho ai
+- (y học) định vị, khu trú (vào một bộ phận trong cơ thể) (bệnh)
+!to settle someone's hash (business)
+- trị cho ai một trận, sửa cho ai một trận; thịt ai
+!cannot settle to work
+!cannot settle to anything
+- không thể yên tâm kiên trì làm một việc gì
+!that settles the matter (question)
+- thôi thế là xong (không cần phải nói thêm nữa)
+@Chuyên ngành kinh tế
+-định
+-giải quyết (vấn đề...)
+-kết thúc (một công việc)
+-kết thúc (một công việc...)
+-kết toán (một tài khoản...)
+-sắp xếp (một công việc...)
+-thanh toán (một hóa đơn...)
+-trả dứt (một khoản nợ...)
+-xác định (một ngày, một nơi chốn...)
+@Chuyên ngành kỹ thuật
+-bố trí
+-đông cứng
+-làm kết tủa
+-làm lắng
+-lắng
+-lắng chìm
+-lắng đọng
+-lắng xuống (của chất lỏng)
+-lún
+-sắp đặt
+@Lĩnh vực: cơ khí & công trình
+-đặt xiên
+@Lĩnh vực: hóa học & vật liệu
+-làm lắng đọng

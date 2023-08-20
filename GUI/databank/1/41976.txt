@@ -1,3 +1,2 @@
-playability
-	@playability\n- xem play
-
+playability	@playability
+- xem play

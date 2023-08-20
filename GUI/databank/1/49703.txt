@@ -1,3 +1,12 @@
-semicircular
-	@semicircular /'semi'sə:kjulə/\n*  tính từ\n- hình bán nguyệt, bằng nửa vòng tròn; xếp thành hình bán nguyệt\n@Chuyên ngành kỹ thuật\n-bán nguyệt\n-nửa đường tròn\n-nửa vòng tròn\n@Lĩnh vực: cơ khí & công trình\n-có dạng lưỡi liềm\n-có hình bán nguyệt\n@Lĩnh vực: xây dựng\n-thuộc hình bán nguyệt
-
+semicircular	@semicircular /'semi'sə:kjulə/
+*  tính từ
+- hình bán nguyệt, bằng nửa vòng tròn; xếp thành hình bán nguyệt
+@Chuyên ngành kỹ thuật
+-bán nguyệt
+-nửa đường tròn
+-nửa vòng tròn
+@Lĩnh vực: cơ khí & công trình
+-có dạng lưỡi liềm
+-có hình bán nguyệt
+@Lĩnh vực: xây dựng
+-thuộc hình bán nguyệt

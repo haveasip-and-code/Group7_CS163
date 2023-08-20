@@ -1,3 +1,11 @@
-estimated
-	@estimated\n- được ước lượng\n@Chuyên ngành kỹ thuật\n-đã đánh giá\n@Lĩnh vực: toán & tin\n-được ước lượng\n@Chuyên ngành kỹ thuật\n-đã đánh giá\n@Lĩnh vực: toán & tin\n-được ước lượng
-
+estimated	
+@estimated
+- được ước lượng
+@Chuyên ngành kỹ thuật
+-đã đánh giá
+@Lĩnh vực: toán & tin
+-được ước lượng
+@Chuyên ngành kỹ thuật
+-đã đánh giá
+@Lĩnh vực: toán & tin
+-được ước lượng

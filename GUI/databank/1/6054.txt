@@ -1,3 +1,4 @@
-blueprinting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự in phơi
-
+blueprinting	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự in phơi

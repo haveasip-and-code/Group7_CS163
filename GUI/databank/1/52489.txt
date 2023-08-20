@@ -1,3 +1,22 @@
-spirt
-	@spirt /spə:t/\n*  danh từ\n- sự phun ra, sự vọt ra\n- tia (nước phun)\n*  ngoại động từ\n- làm phun ra, sự vọt ra\n*  nội động từ\n- phun ra, vọt ra\n@Chuyên ngành kỹ thuật\n-dòng\n-luồng\n-phun\n-phun ra\n-phụt\n-sự phun ra\n-tia\n@Lĩnh vực: xây dựng\n-sự vọt ra\n-tia phun\n-vọt ra\n@Lĩnh vực: hóa học & vật liệu\n-toé ra
-
+spirt	@spirt /spə:t/
+*  danh từ
+- sự phun ra, sự vọt ra
+- tia (nước phun)
+*  ngoại động từ
+- làm phun ra, sự vọt ra
+*  nội động từ
+- phun ra, vọt ra
+@Chuyên ngành kỹ thuật
+-dòng
+-luồng
+-phun
+-phun ra
+-phụt
+-sự phun ra
+-tia
+@Lĩnh vực: xây dựng
+-sự vọt ra
+-tia phun
+-vọt ra
+@Lĩnh vực: hóa học & vật liệu
+-toé ra

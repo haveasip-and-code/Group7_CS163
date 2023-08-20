@@ -1,3 +1,9 @@
-fumigant
-	@fumigant\n* danh từ\n- thuốc xông; thuốc hun\n@Chuyên ngành kinh tế\n-chất hun khói (diệt côn trùng, vi sinh vật)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất phun khói
-
+fumigant	
+@fumigant
+* danh từ
+- thuốc xông; thuốc hun
+@Chuyên ngành kinh tế
+-chất hun khói (diệt côn trùng, vi sinh vật)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất phun khói

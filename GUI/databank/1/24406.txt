@@ -1,3 +1,7 @@
-grouped
-	@grouped\n- đã nhóm lại |\n@Chuyên ngành kỹ thuật\n-gộp lại\n@Lĩnh vực: toán & tin\n-nhóm lại
-
+grouped	
+@grouped
+- đã nhóm lại |
+@Chuyên ngành kỹ thuật
+-gộp lại
+@Lĩnh vực: toán & tin
+-nhóm lại

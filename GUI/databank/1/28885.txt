@@ -1,3 +1,53 @@
-insert
-	@insert /'insə:t/\n*  danh từ,  (từ Mỹ,nghĩa Mỹ)\n- vật lồng vào, vật gài vào\n- tờ in rời;, tờ ảnh rời (để cho vào sách báo); tờ thông tri (gài vào sách báo...)\n- (điện ảnh) cảnh xem\n*  ngoại động từ\n- lồng vào, gài vào\n- (+ in,  into) cho (chữ, từ...) vào (tài liệu...); đăng (bài...) vào (báo...)\n@Chuyên ngành kinh tế\n-cổ phần ghi danh\n-cổ phần ghi danh không phiếu\n-trái khoán ghi danh\n@Chuyên ngành kỹ thuật\n-chèn lấp\n-chi tiết chèn\n-chi tiết đệm\n-dán vào\n-đặt\n-đặt vào\n-đệm cắt\n-đệm lót\n-dính\n-đưa vào\n-được cài đặt sẵn\n-gài vào\n-gắn\n-lấp\n-lắp (băng) vào\n-lắp vào\n-lồng vào\n-lớp đệm\n-lớp lót\n-ống lót\n-ống lót cắt\n-ống nối\n-sự chèn\n-sự đẩy vào\n-tấm cách ly\n-tấm đệm\n-vật lồng\n-vòng đệm đế van\n-xen vào\n@Lĩnh vực: toán & tin\n-chêm dày điểm\n-chèn ký hiệu\n-sự xen\n@Lĩnh vực: xây dựng\n-chèn dày (điểm)\n-gỗ đệm\n@Lĩnh vực: điện tử & viễn thông\n-chèn vào
-
+insert	
+@insert /'insə:t/
+*  danh từ,  (từ Mỹ,nghĩa Mỹ)
+- vật lồng vào, vật gài vào
+- tờ in rời;, tờ ảnh rời (để cho vào sách báo); tờ thông tri (gài vào sách báo...)
+- (điện ảnh) cảnh xem
+*  ngoại động từ
+- lồng vào, gài vào
+- (
++ in,  into) cho (chữ, từ...) vào (tài liệu...); đăng (bài...) vào (báo...)
+@Chuyên ngành kinh tế
+-cổ phần ghi danh
+-cổ phần ghi danh không phiếu
+-trái khoán ghi danh
+@Chuyên ngành kỹ thuật
+-chèn lấp
+-chi tiết chèn
+-chi tiết đệm
+-dán vào
+-đặt
+-đặt vào
+-đệm cắt
+-đệm lót
+-dính
+-đưa vào
+-được cài đặt sẵn
+-gài vào
+-gắn
+-lấp
+-lắp (băng) vào
+-lắp vào
+-lồng vào
+-lớp đệm
+-lớp lót
+-ống lót
+-ống lót cắt
+-ống nối
+-sự chèn
+-sự đẩy vào
+-tấm cách ly
+-tấm đệm
+-vật lồng
+-vòng đệm đế van
+-xen vào
+@Lĩnh vực: toán & tin
+-chêm dày điểm
+-chèn ký hiệu
+-sự xen
+@Lĩnh vực: xây dựng
+-chèn dày (điểm)
+-gỗ đệm
+@Lĩnh vực: điện tử & viễn thông
+-chèn vào

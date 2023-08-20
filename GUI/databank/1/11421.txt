@@ -1,3 +1,41 @@
-construction
-	@construction /kən'strʌkʃn/\n*  danh từ\n- sự xây dựng\n=under construction; in the course of construction+ đang xây dựng, đang làm\n- vật được xây dựng\n- (ngôn ngữ học) cách đặt câu; cấu trúc câu\n- sự giải thích\n=to put a wrong construction an someone's words+ giải thích sai những lời nói của ai\n=to put the best construction on something+ tìm những khía cạnh hay nhất để giải thích điều gì\n- (toán học) sự vẽ hình, sự dựng hình\n- (định ngữ) xây dựng\n=construction site+ công trường xây dựng\n@Chuyên ngành kinh tế\n-sự giải thích\n-sự xây dựng\n-vật xây dựng\n@Chuyên ngành kỹ thuật\n-phép dựng hình\n@Chuyên ngành kỹ thuật\n-cấu tạo\n-cấu trúc\n-công trình\n-dựng hình\n-kết cấu\n-kiểu\n-sự cấu tạo\n-sự dựng hình\n-sự thiết kế\n-sự xây dựng\n-thi công\n-xây dựng\n@Lĩnh vực: toán & tin\n-cấu tạo công trình\n-phép dựng (hình)\n-sự cấu trúc\n@Lĩnh vực: xây dựng\n-công trình (xây dựng)\n-kết cấu xây dựng\n-ngôi nhà\n-sự kết cấu
-
+construction	
+@construction /kən'strʌkʃn/
+*  danh từ
+- sự xây dựng=under construction; in the course of construction
++ đang xây dựng, đang làm
+- vật được xây dựng
+- (ngôn ngữ học) cách đặt câu; cấu trúc câu
+- sự giải thích=to put a wrong construction an someone's words
++ giải thích sai những lời nói của ai=to put the best construction on something
++ tìm những khía cạnh hay nhất để giải thích điều gì
+- (toán học) sự vẽ hình, sự dựng hình
+- (định ngữ) xây dựng=construction site
++ công trường xây dựng
+@Chuyên ngành kinh tế
+-sự giải thích
+-sự xây dựng
+-vật xây dựng
+@Chuyên ngành kỹ thuật
+-phép dựng hình
+@Chuyên ngành kỹ thuật
+-cấu tạo
+-cấu trúc
+-công trình
+-dựng hình
+-kết cấu
+-kiểu
+-sự cấu tạo
+-sự dựng hình
+-sự thiết kế
+-sự xây dựng
+-thi công
+-xây dựng
+@Lĩnh vực: toán & tin
+-cấu tạo công trình
+-phép dựng (hình)
+-sự cấu trúc
+@Lĩnh vực: xây dựng
+-công trình (xây dựng)
+-kết cấu xây dựng
+-ngôi nhà
+-sự kết cấu

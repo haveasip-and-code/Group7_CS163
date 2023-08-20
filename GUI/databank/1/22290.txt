@@ -1,3 +1,30 @@
-freight
-	@freight /freit/\n*  danh từ\n- việc chuyên chở hàng bằng đường thuỷ; (từ Mỹ,nghĩa Mỹ) việc chuyên chở hàng hoá (cả bằng đường bộ)\n- tiền cước chuyên chở\n- sự thuê tàu chuyên chở\n*  ngoại động từ\n- chất hàng xuống (tàu)\n- thuê (tàu) chuyên chở\n@Chuyên ngành kinh tế\n-cước chuyên chở\n-cước phí\n-cước vận chuyển đường thủy\n-hàng chở\n-hàng chuyên chở\n-hàng hóa\n-lợi nhuận chuyên chở\n-sự vận chuyển hàng hóa\n-việc chuyên chở\n@Chuyên ngành kỹ thuật\n-cước\n-hàng chuyên chở\n-sự vận chuyển\n-tải trọng\n@Lĩnh vực: cơ khí & công trình\n-cước chuyên chở\n@Lĩnh vực: xây dựng\n-hàng hóa\n-tàu hàng\n-thuế hàng hóa
-
+freight	
+@freight /freit/
+*  danh từ
+- việc chuyên chở hàng bằng đường thuỷ; (từ Mỹ,nghĩa Mỹ) việc chuyên chở hàng hoá (cả bằng đường bộ)
+- tiền cước chuyên chở
+- sự thuê tàu chuyên chở
+*  ngoại động từ
+- chất hàng xuống (tàu)
+- thuê (tàu) chuyên chở
+@Chuyên ngành kinh tế
+-cước chuyên chở
+-cước phí
+-cước vận chuyển đường thủy
+-hàng chở
+-hàng chuyên chở
+-hàng hóa
+-lợi nhuận chuyên chở
+-sự vận chuyển hàng hóa
+-việc chuyên chở
+@Chuyên ngành kỹ thuật
+-cước
+-hàng chuyên chở
+-sự vận chuyển
+-tải trọng
+@Lĩnh vực: cơ khí & công trình
+-cước chuyên chở
+@Lĩnh vực: xây dựng
+-hàng hóa
+-tàu hàng
+-thuế hàng hóa

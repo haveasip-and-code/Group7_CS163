@@ -1,3 +1,3 @@
-alphameric
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kiểu chữ số
-
+alphameric	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kiểu chữ số

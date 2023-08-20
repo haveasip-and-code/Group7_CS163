@@ -1,3 +1,47 @@
-dust
-	@dust /dʌst/\n*  danh từ\n- bụi\n=gold dust+ bụi vàng\n=airborne dust+ bụi quyển khí\n=cosmic dust+ bụi vũ trụ\n- rác\n- (thực vật học) phấn hoa\n- (a dust) đám bụi mù\n=what a dust!+ bụi ghê quá!\n- đất đen ((nghĩa bóng))\n=to trample in the dust+ chà đạp xuống tận đất đen\n=to be humbled to (in) the dust+ bị làm nhục, bị vùi dập đến tận đất đen\n- xương tàn, tro tàn (người chết); cơ thể con người, con người\n- (từ lóng) tiền mặt\n!to bite the dust\n- bite dust and heat\n- gánh nặng của cuộc đấu tranh\n=to bear the dust and heat of the war+ gánh cái gánh năng của cuộc chiến tranh\n!to give the dust to somebody\n- (từ Mỹ,nghĩa Mỹ) cho ai hít bụi, vượt lên trước ai\n!in the dust\n- chết, về với cát bụi\n!to shake of the dust of one's feet\n- tức giận bỏ đi\n!to take somebody's dust\n- (từ Mỹ,nghĩa Mỹ) hít bụi của ai, chạy sau ai\n!to throw dust in somebody's eyes\n- loè ai\n*  ngoại động từ\n- rắc (bụi, phấn...)\n- quét bụi, phủi bụi\n- làm bụi\n*  nội động từ\n- tắm đất, vầy đất (gà, chim...)\n- quét bụi bàn ghế, phủi bụi bàn ghế, lau chùi bàn ghế\n!to dust the eyes of\n- lừa bịp (ai)\n!to dust someone's jacket\n- (xem) jacket\n@Chuyên ngành kinh tế\n-bột\n-bụi\n-rắc\n-tiền\n@Chuyên ngành kỹ thuật\n-bột\n-bụi\n-bụi lò\n-mạt\n@Lĩnh vực: điện\n-bụi khói\n@Lĩnh vực: xây dựng\n-quét bụi
-
+dust	
+@dust /dʌst/
+*  danh từ
+- bụi=gold dust
++ bụi vàng=airborne dust
++ bụi quyển khí=cosmic dust
++ bụi vũ trụ
+- rác
+- (thực vật học) phấn hoa
+- (a dust) đám bụi mù=what a dust!
++ bụi ghê quá!
+- đất đen ((nghĩa bóng))=to trample in the dust
++ chà đạp xuống tận đất đen=to be humbled to (in) the dust
++ bị làm nhục, bị vùi dập đến tận đất đen
+- xương tàn, tro tàn (người chết); cơ thể con người, con người
+- (từ lóng) tiền mặt!to bite the dust
+- bite dust and heat
+- gánh nặng của cuộc đấu tranh=to bear the dust and heat of the war
++ gánh cái gánh năng của cuộc chiến tranh!to give the dust to somebody
+- (từ Mỹ,nghĩa Mỹ) cho ai hít bụi, vượt lên trước ai!in the dust
+- chết, về với cát bụi!to shake of the dust of one's feet
+- tức giận bỏ đi!to take somebody's dust
+- (từ Mỹ,nghĩa Mỹ) hít bụi của ai, chạy sau ai!to throw dust in somebody's eyes
+- loè ai
+*  ngoại động từ
+- rắc (bụi, phấn...)
+- quét bụi, phủi bụi
+- làm bụi
+*  nội động từ
+- tắm đất, vầy đất (gà, chim...)
+- quét bụi bàn ghế, phủi bụi bàn ghế, lau chùi bàn ghế!to dust the eyes of
+- lừa bịp (ai)!to dust someone's jacket
+- (xem) jacket
+@Chuyên ngành kinh tế
+-bột
+-bụi
+-rắc
+-tiền
+@Chuyên ngành kỹ thuật
+-bột
+-bụi
+-bụi lò
+-mạt
+@Lĩnh vực: điện
+-bụi khói
+@Lĩnh vực: xây dựng
+-quét bụi

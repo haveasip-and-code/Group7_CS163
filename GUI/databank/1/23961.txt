@@ -1,3 +1,34 @@
-grab
-	@grab /græb/\n*  danh từ\n- cái chộp; sự túm lấy, sự vồ lấy, sự tóm, sự cố tóm lấy\n=to make a grab at something+ chộp lấy cái gì\n- sự tước đoạt, sự chiếm đoạt\n=a polic of grab+ chính sách chiếm đoạt (về chính trị và thương mại)\n- (kỹ thuật) gàu xúc, gàu ngoạm máy xúc ((cũng) grab bucket)\n- (đánh bài) lối chơi gráp (của trẻ con)\n*  động từ\n- chộp; túm, vồ lấy, tóm, bắt\n- tước đoạt\n@Chuyên ngành kinh tế\n-gàu ngoạm\n-gàu xúc\n@Chuyên ngành kỹ thuật\n-cái kẹp\n-cái móc\n-gàu ngoạm\n-gàu xúc\n-nắm lấy\n-neo móc\n-máy xúc\n-móc kéo\n-sự cặp\n-sự gắp\n-tay hãm\n@Lĩnh vực: xây dựng\n-gàu có nắp\n-thùng có nắp\n@Lĩnh vực: cơ khí & công trình\n-gàu xúc đất\n@Lĩnh vực: ô tô\n-phanh đột ngột
-
+grab	
+@grab /græb/
+*  danh từ
+- cái chộp; sự túm lấy, sự vồ lấy, sự tóm, sự cố tóm lấy=to make a grab at something
++ chộp lấy cái gì
+- sự tước đoạt, sự chiếm đoạt=a polic of grab
++ chính sách chiếm đoạt (về chính trị và thương mại)
+- (kỹ thuật) gàu xúc, gàu ngoạm máy xúc ((cũng) grab bucket)
+- (đánh bài) lối chơi gráp (của trẻ con)
+*  động từ
+- chộp; túm, vồ lấy, tóm, bắt
+- tước đoạt
+@Chuyên ngành kinh tế
+-gàu ngoạm
+-gàu xúc
+@Chuyên ngành kỹ thuật
+-cái kẹp
+-cái móc
+-gàu ngoạm
+-gàu xúc
+-nắm lấy
+-neo móc
+-máy xúc
+-móc kéo
+-sự cặp
+-sự gắp
+-tay hãm
+@Lĩnh vực: xây dựng
+-gàu có nắp
+-thùng có nắp
+@Lĩnh vực: cơ khí & công trình
+-gàu xúc đất
+@Lĩnh vực: ô tô
+-phanh đột ngột

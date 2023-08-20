@@ -1,3 +1,2 @@
-creedal
-	@creedal\n- xem creed
-
+creedal	@creedal
+- xem creed

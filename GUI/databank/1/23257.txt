@@ -1,3 +1,8 @@
-geoid
-	@geoid\n* danh từ\n- thể địa cầu\n- geoit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hình geoit
-
+geoid	
+@geoid
+* danh từ
+- thể địa cầu
+- geoit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hình geoit

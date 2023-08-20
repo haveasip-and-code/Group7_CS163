@@ -1,3 +1,13 @@
-lipolysis
-	@lipolysis\n* danh từ\n- (hoá học) sự phân giải lipit\n@Chuyên ngành kinh tế\n-sự phân giải lipit\n-sự phân giải mỡ\n-sự tiêu mỡ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự hủy lipid\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự hủy lipid
-
+lipolysis	@lipolysis
+* danh từ
+- (hoá học) sự phân giải lipit
+@Chuyên ngành kinh tế
+-sự phân giải lipit
+-sự phân giải mỡ
+-sự tiêu mỡ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự hủy lipid
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự hủy lipid

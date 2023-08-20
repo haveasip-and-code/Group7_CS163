@@ -1,3 +1,2 @@
-readers
-	@Chuyên ngành kỹ thuật\n-độc giả
-
+readers	@Chuyên ngành kỹ thuật
+-độc giả

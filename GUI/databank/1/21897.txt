@@ -1,3 +1,22 @@
-foreman
-	@foreman /'fɔ:mən/\n*  danh từ\n- quản đốc, đốc công\n- (pháp lý) chủ tịch ban hội thẩm (toà đại hình)\n@Chuyên ngành kinh tế\n-cai thợ\n-chủ tịch ban hội thất (tòa đại hình)\n-đốc công\n-giám công\n-người chủ tịch đoàn hội thẩm (ở tòa đại hình)\n-người đốc công (nam giới)\n-thợ cả\n-trưởng kíp\n@Chuyên ngành kỹ thuật\n-đốc công\n-đội trưởng\n-kíp trưởng\n-người đốc công\n-trưởng kíp\n@Lĩnh vực: xây dựng\n-thợ cả
-
+foreman	
+@foreman /'fɔ:mən/
+*  danh từ
+- quản đốc, đốc công
+- (pháp lý) chủ tịch ban hội thẩm (toà đại hình)
+@Chuyên ngành kinh tế
+-cai thợ
+-chủ tịch ban hội thất (tòa đại hình)
+-đốc công
+-giám công
+-người chủ tịch đoàn hội thẩm (ở tòa đại hình)
+-người đốc công (nam giới)
+-thợ cả
+-trưởng kíp
+@Chuyên ngành kỹ thuật
+-đốc công
+-đội trưởng
+-kíp trưởng
+-người đốc công
+-trưởng kíp
+@Lĩnh vực: xây dựng
+-thợ cả

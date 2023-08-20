@@ -1,3 +1,16 @@
-radix
-	@radix /'reidiks/\n*  danh từ,  số nhiều radices  /'reidisi:z/\n- cơ số\n=ten is the radix of decimal numeration and of common logarithms+ mười là cơ số của cách đếm thập phân và của loga thường\n- nguồn gốc, căn nguyên (của một tệ hại)\n@Chuyên ngành kỹ thuật\n-cơ số\n-gốc\n-số\n@Lĩnh vực: toán & tin\n-cỡ mẫu cơ bản (trong điều tra)\n-cơ số (của hệ thống đếm)\n@Lĩnh vực: điện lạnh\n-cơ số (của hệ đếm)\n@Lĩnh vực: y học\n-gốc rễ
-
+radix	@radix /'reidiks/
+*  danh từ,  số nhiều radices  /'reidisi:z/
+- cơ số
+=ten is the radix of decimal numeration and of common logarithms+ mười là cơ số của cách đếm thập phân và của loga thường
+- nguồn gốc, căn nguyên (của một tệ hại)
+@Chuyên ngành kỹ thuật
+-cơ số
+-gốc
+-số
+@Lĩnh vực: toán & tin
+-cỡ mẫu cơ bản (trong điều tra)
+-cơ số (của hệ thống đếm)
+@Lĩnh vực: điện lạnh
+-cơ số (của hệ đếm)
+@Lĩnh vực: y học
+-gốc rễ

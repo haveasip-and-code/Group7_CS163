@@ -1,3 +1,18 @@
-concurrence
-	@concurrence /kən'kʌrəns/\n*  danh từ\n- sự trùng nhau, sự xảy ra đồng thời\n=in concurrence with+ xảy ra đồng thời với, đi đôi với\n- sự hợp lực, sự góp vào\n- sự tán thành, sự đồng ý, sự nhất trí\n=concurrence of ideas+ sự nhất trí về tư tưởng\n- (toán học) điểm đồng qui\n@Chuyên ngành kỹ thuật\n-sự đồng quy\n-sự trùng hợp\n-sự trùng khớp\n@Lĩnh vực: điện tử & viễn thông\n-đồng kết\n@Lĩnh vực: toán & tin\n-sự tranh chấp\n-sự tương tranh
-
+concurrence	
+@concurrence /kən'kʌrəns/
+*  danh từ
+- sự trùng nhau, sự xảy ra đồng thời=in concurrence with
++ xảy ra đồng thời với, đi đôi với
+- sự hợp lực, sự góp vào
+- sự tán thành, sự đồng ý, sự nhất trí=concurrence of ideas
++ sự nhất trí về tư tưởng
+- (toán học) điểm đồng qui
+@Chuyên ngành kỹ thuật
+-sự đồng quy
+-sự trùng hợp
+-sự trùng khớp
+@Lĩnh vực: điện tử & viễn thông
+-đồng kết
+@Lĩnh vực: toán & tin
+-sự tranh chấp
+-sự tương tranh

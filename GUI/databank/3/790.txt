@@ -1,3 +1,2 @@
-adjustor
-	@adjustor\n- xem adjust
-
+adjustor	@adjustor
+- xem adjust

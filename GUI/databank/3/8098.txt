@@ -1,3 +1,6 @@
-carport
-	@carport\n* danh từ\n- nhà để xe\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bến xe ô tô
-
+carport	@carport
+* danh từ
+- nhà để xe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bến xe ô tô

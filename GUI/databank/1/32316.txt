@@ -1,3 +1,105 @@
-link
-	@link /liɳk/\n*  danh từ\n- đuốc, cây đuốc\n*  danh từ\n- mắt xích, vòng xích, khâu xích\n- mắt dây đạc (= 0, 20 m)\n- (số nhiều) khuy cửa tay\n- mắt lưới; mắt áo sợi dệt, mắt áo sợi đan\n- mối liên lạc; chỗ nối; vật để nối\n*  ngoại động từ\n- nối, nối lại với nhau, kết hợp lại, liên kết lại, liên hợp lại\n- khoác (tay)\n*  nội động từ\n- kết hợp, liên kết; bị ràng buộc\n@Chuyên ngành kinh tế\n-giò\n-liên hệ\n-liên kết\n-liên lạc\n-nối\n-nối liền\n-quan hệ\n-ràng buộc\n-sự kết hợp\n-xúc xích\n@Chuyên ngành kỹ thuật\n-bản lề\n-cầu nối\n-đường dẫn\n-đường dây\n-đường nối\n-đường ống\n-đường truyền\n-ghép\n-kết nối\n-khâu\n-khâu nối\n-khuyên\n-liên kết\n-lực dính\n-lực dính kết\n-nối\n-mắc nối\n-mạch nối\n-mắt xích\n-móc cài\n-móc liên kết\n-móc xích\n-mối liên hệ\n-mối nối\n-sự liên kết\n-sự nối\n-sự nối kết\n-thanh giằng\n-vòng\n@Lĩnh vực: điện\n-con nối\n@Lĩnh vực: toán & tin\n-đường liên kết\n@Lĩnh vực: xây dựng\n-khâu xích\n-vòng xích\n@Lĩnh vực: cơ khí & công trình\n-màng nối\n-mắt (xích, lưới)\n@Chuyên ngành kỹ thuật\n-bản lề\n-cầu nối\n-đường dẫn\n-đường dây\n-đường nối\n-đường ống\n-đường truyền\n-ghép\n-kết nối\n-khâu\n-khâu nối\n-khuyên\n-liên kết\n-lực dính\n-lực dính kết\n-nối\n-mắc nối\n-mạch nối\n-mắt xích\n-móc cài\n-móc liên kết\n-móc xích\n-mối liên hệ\n-mối nối\n-sự liên kết\n-sự nối\n-sự nối kết\n-thanh giằng\n-vòng\n@Lĩnh vực: điện\n-con nối\n@Lĩnh vực: toán & tin\n-đường liên kết\n@Lĩnh vực: xây dựng\n-khâu xích\n-vòng xích\n@Lĩnh vực: cơ khí & công trình\n-màng nối\n-mắt (xích, lưới)
-
+link	@link /liɳk/
+*  danh từ
+- đuốc, cây đuốc
+*  danh từ
+- mắt xích, vòng xích, khâu xích
+- mắt dây đạc (= 0, 20 m)
+- (số nhiều) khuy cửa tay
+- mắt lưới; mắt áo sợi dệt, mắt áo sợi đan
+- mối liên lạc; chỗ nối; vật để nối
+*  ngoại động từ
+- nối, nối lại với nhau, kết hợp lại, liên kết lại, liên hợp lại
+- khoác (tay)
+*  nội động từ
+- kết hợp, liên kết; bị ràng buộc
+@Chuyên ngành kinh tế
+-giò
+-liên hệ
+-liên kết
+-liên lạc
+-nối
+-nối liền
+-quan hệ
+-ràng buộc
+-sự kết hợp
+-xúc xích
+@Chuyên ngành kỹ thuật
+-bản lề
+-cầu nối
+-đường dẫn
+-đường dây
+-đường nối
+-đường ống
+-đường truyền
+-ghép
+-kết nối
+-khâu
+-khâu nối
+-khuyên
+-liên kết
+-lực dính
+-lực dính kết
+-nối
+-mắc nối
+-mạch nối
+-mắt xích
+-móc cài
+-móc liên kết
+-móc xích
+-mối liên hệ
+-mối nối
+-sự liên kết
+-sự nối
+-sự nối kết
+-thanh giằng
+-vòng
+@Lĩnh vực: điện
+-con nối
+@Lĩnh vực: toán & tin
+-đường liên kết
+@Lĩnh vực: xây dựng
+-khâu xích
+-vòng xích
+@Lĩnh vực: cơ khí & công trình
+-màng nối
+-mắt (xích, lưới)
+@Chuyên ngành kỹ thuật
+-bản lề
+-cầu nối
+-đường dẫn
+-đường dây
+-đường nối
+-đường ống
+-đường truyền
+-ghép
+-kết nối
+-khâu
+-khâu nối
+-khuyên
+-liên kết
+-lực dính
+-lực dính kết
+-nối
+-mắc nối
+-mạch nối
+-mắt xích
+-móc cài
+-móc liên kết
+-móc xích
+-mối liên hệ
+-mối nối
+-sự liên kết
+-sự nối
+-sự nối kết
+-thanh giằng
+-vòng
+@Lĩnh vực: điện
+-con nối
+@Lĩnh vực: toán & tin
+-đường liên kết
+@Lĩnh vực: xây dựng
+-khâu xích
+-vòng xích
+@Lĩnh vực: cơ khí & công trình
+-màng nối
+-mắt (xích, lưới)

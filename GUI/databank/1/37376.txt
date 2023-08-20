@@ -1,3 +1,19 @@
-oblong
-	@oblong /'ɔblɔɳ/\n*  tính từ\n- có hình thuôn\n- có hình chữ nhật\n*  danh từ\n- hình thuôn; vật hình thuôn\n- hình chữ nhật; vật hình chữ nhật\n@Chuyên ngành kỹ thuật\n-dài\n-hình chữ nhật\n-hình chữ nhật dài\n-hướng dọc\n-thon\n-vật hình thuôn\n@Lĩnh vực: cơ khí & công trình\n-hình chữ nhật lệch\n-hình thuôn\n@Lĩnh vực: toán & tin\n-hướng đứng
-
+oblong	@oblong /'ɔblɔɳ/
+*  tính từ
+- có hình thuôn
+- có hình chữ nhật
+*  danh từ
+- hình thuôn; vật hình thuôn
+- hình chữ nhật; vật hình chữ nhật
+@Chuyên ngành kỹ thuật
+-dài
+-hình chữ nhật
+-hình chữ nhật dài
+-hướng dọc
+-thon
+-vật hình thuôn
+@Lĩnh vực: cơ khí & công trình
+-hình chữ nhật lệch
+-hình thuôn
+@Lĩnh vực: toán & tin
+-hướng đứng

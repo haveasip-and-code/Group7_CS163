@@ -1,3 +1,4 @@
-urbanism
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đô thị học\n-kiến trúc đô thị
-
+urbanism	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đô thị học
+-kiến trúc đô thị

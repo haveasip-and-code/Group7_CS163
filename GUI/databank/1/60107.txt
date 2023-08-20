@@ -1,3 +1,7 @@
-unpacking
-	@Chuyên ngành kinh tế\n-việc dỡ tách (công te nơ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mở gói\n@Lĩnh vực: toán & tin\n-sự không nén (dữ liệu)
-
+unpacking	@Chuyên ngành kinh tế
+-việc dỡ tách (công te nơ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-mở gói
+@Lĩnh vực: toán & tin
+-sự không nén (dữ liệu)

@@ -1,3 +1,8 @@
-affine
-	@affine\n- afin\n@Chuyên ngành kinh tế\n-tinh luyện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-afin
-
+affine	
+@affine
+- afin
+@Chuyên ngành kinh tế
+-tinh luyện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-afin

@@ -1,3 +1,39 @@
-rising
-	@rising /'raiziɳ/\n*  danh từ\n- sự dậy, sự trở dậy, sự đứng dậy\n=to like early rising+ thích dậy sớm\n- sự mọc (mặt trời, mặt trăng...)\n=the rising of the sun+ lúc mặt trời mọc lên\n- sự bốc lên, sự leo lên, sự trèo lên, sự dâng lên, sự tăng lên, sự nổi lên\n=the rising of the tide+ lúc nước triều dâng lên\n=the rising of the curtain+ lúc mở màn, lúc kéo màn lên\n- sự thành đạt, sự thăng (cấp bậc...)\n- sự nổi dậy; cuộc khởi nghĩa\n- chỗ phồng lên, mụn nhọt\n- chỗ cao lên (miếng đất)\n- (+ again) sự tái sinh, sự sống lại\n- sự bế mạc (hội nghị...)\n=upon the rising of the Parliament+ khi nghị viện bế mạc\n*  tính từ\n- đang lên\n=the rising sun+ mặt trời đang lên\n=a rising man+ một người đang lên\n=the rising generation+ thế hệ đang lên\n- gần ngót nghét (một tuổi nào đó)\n=to be rising fifty+ gần năm mươi tuổi\n@Chuyên ngành kinh tế\n-lên cao\n-lớn mạnh\n-máy đảo\n-sự dâng lên\n-sự mọc\n-tăng trưởng\n@Chuyên ngành kỹ thuật\n-sự dâng lên\n-sự nâng cao\n-sự nâng lên\n@Lĩnh vực: hóa học & vật liệu\n-mức dầu dâng (ở lỗ khoan)\n-sự nở trương\n@Lĩnh vực: xây dựng\n-sự dâng cao
-
+rising	@rising /'raiziɳ/
+*  danh từ
+- sự dậy, sự trở dậy, sự đứng dậy
+=to like early rising+ thích dậy sớm
+- sự mọc (mặt trời, mặt trăng...)
+=the rising of the sun+ lúc mặt trời mọc lên
+- sự bốc lên, sự leo lên, sự trèo lên, sự dâng lên, sự tăng lên, sự nổi lên
+=the rising of the tide+ lúc nước triều dâng lên
+=the rising of the curtain+ lúc mở màn, lúc kéo màn lên
+- sự thành đạt, sự thăng (cấp bậc...)
+- sự nổi dậy; cuộc khởi nghĩa
+- chỗ phồng lên, mụn nhọt
+- chỗ cao lên (miếng đất)
+- (+ again) sự tái sinh, sự sống lại
+- sự bế mạc (hội nghị...)
+=upon the rising of the Parliament+ khi nghị viện bế mạc
+*  tính từ
+- đang lên
+=the rising sun+ mặt trời đang lên
+=a rising man+ một người đang lên
+=the rising generation+ thế hệ đang lên
+- gần ngót nghét (một tuổi nào đó)
+=to be rising fifty+ gần năm mươi tuổi
+@Chuyên ngành kinh tế
+-lên cao
+-lớn mạnh
+-máy đảo
+-sự dâng lên
+-sự mọc
+-tăng trưởng
+@Chuyên ngành kỹ thuật
+-sự dâng lên
+-sự nâng cao
+-sự nâng lên
+@Lĩnh vực: hóa học & vật liệu
+-mức dầu dâng (ở lỗ khoan)
+-sự nở trương
+@Lĩnh vực: xây dựng
+-sự dâng cao

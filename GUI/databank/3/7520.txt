@@ -1,3 +1,12 @@
-calculate
-	@calculate /'kælkjuleit/\n*  động từ\n- tính, tính toán\n- tính trước, suy tính, dự tính\n=this action had been calculated+ hành động này có suy tính trước\n- sắp xếp, sắp đặt (nhằm làm gì); làm cho thích hợp\n- (+ on,  upon) trông nom vào, tin vào, cậy vào, dựa vào\n=we can't calculate upon having fine weather for our holidays+ chúng ta không thể trông mong là thời tiết sẽ tốt trong dịp nghỉ của chúng ta\n- (từ Mỹ,nghĩa Mỹ) cho rằng, tin rằng, tưởng rằng\n@Chuyên ngành kinh tế\n-tính\n-tính toán
-
+calculate	@calculate /'kælkjuleit/
+*  động từ
+- tính, tính toán
+- tính trước, suy tính, dự tính
+=this action had been calculated+ hành động này có suy tính trước
+- sắp xếp, sắp đặt (nhằm làm gì); làm cho thích hợp
+- (+ on,  upon) trông nom vào, tin vào, cậy vào, dựa vào
+=we can't calculate upon having fine weather for our holidays+ chúng ta không thể trông mong là thời tiết sẽ tốt trong dịp nghỉ của chúng ta
+- (từ Mỹ,nghĩa Mỹ) cho rằng, tin rằng, tưởng rằng
+@Chuyên ngành kinh tế
+-tính
+-tính toán

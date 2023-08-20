@@ -1,3 +1,14 @@
-sharpener
-	@sharpener /'ʃɑ:pənə/\n*  danh từ\n- thợ mài dao kéo\n- đồ dùng để mài; hòn đá mài\n@Chuyên ngành kinh tế\n-máy mài\n@Chuyên ngành kỹ thuật\n-đá mài sắc\n-máy mài\n-máy mài sắc\n@Lĩnh vực: hóa học & vật liệu\n-dụng cụ mài\n@Lĩnh vực: cơ khí & công trình\n-thợ mài sắc
-
+sharpener	@sharpener /'ʃɑ:pənə/
+*  danh từ
+- thợ mài dao kéo
+- đồ dùng để mài; hòn đá mài
+@Chuyên ngành kinh tế
+-máy mài
+@Chuyên ngành kỹ thuật
+-đá mài sắc
+-máy mài
+-máy mài sắc
+@Lĩnh vực: hóa học & vật liệu
+-dụng cụ mài
+@Lĩnh vực: cơ khí & công trình
+-thợ mài sắc

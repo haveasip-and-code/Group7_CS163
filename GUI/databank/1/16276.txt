@@ -1,3 +1,12 @@
-dividend
-	@dividend /'dividend/\n*  danh từ\n- (toán học) số bị chia, cái bị chia\n- (tài chính) tiền lãi cổ phần\n@Chuyên ngành kinh tế\n-phần được trả\n-số bị chia\n-tiền lãi cổ phần\n@Chuyên ngành kỹ thuật\n-số bị chia\n-sự đoán nhận
-
+dividend	
+@dividend /'dividend/
+*  danh từ
+- (toán học) số bị chia, cái bị chia
+- (tài chính) tiền lãi cổ phần
+@Chuyên ngành kinh tế
+-phần được trả
+-số bị chia
+-tiền lãi cổ phần
+@Chuyên ngành kỹ thuật
+-số bị chia
+-sự đoán nhận

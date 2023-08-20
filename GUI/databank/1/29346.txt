@@ -1,3 +1,47 @@
-interlock
-	@interlock /'intəlɔk/\n*  danh từ\n- sự cài vào nhau\n- (kỹ thuật) khoa liên động (tránh cho hai bộ phận máy cùng chạy)\n- (điện ảnh) khoá chuyển (phối hợp máy quay và máy thu tiếng)\n*  động từ\n- cài vào nhau\n- khớp vào nhau (các bộ phận một cái máy)\n- (ngành đường sắt) phối hợp chặt chẽ với nhau (ghi, hệ thống tín hiệu...)\n@Chuyên ngành kỹ thuật\n-ăn khớp\n-cấm\n-chốt\n-đối tiếp\n-khóa an toàn\n-khóa chuyển\n-khóa liên động\n-khớp nhau\n-liên hợp\n-nêm\n-nối bằng vấu\n-móc nối\n-sự chặn\n-sự chốt\n-sự đóng đường\n-sự khóa liên động\n-vào khớp\n-vùng cấm\n@Lĩnh vực: ô tô\n-ăn khớp vào nhau\n@Lĩnh vực: toán & tin\n-cài khóa với nhau\n@Lĩnh vực: xây dựng\n-cài then\n-nối liền nhau\n-sự cài mắc\n-sự khóa cửa\n@Lĩnh vực: vật lý\n-cấu đồng bộ hóa\n-khóa liền động\n-khóa truyền\n-thiết bị khóa truyền\n@Lĩnh vực: hóa học & vật liệu\n-sự cài vào nhau\n@Lĩnh vực: cơ khí & công trình\n-sự tự liên kết
-
+interlock	
+@interlock /'intəlɔk/
+*  danh từ
+- sự cài vào nhau
+- (kỹ thuật) khoa liên động (tránh cho hai bộ phận máy cùng chạy)
+- (điện ảnh) khoá chuyển (phối hợp máy quay và máy thu tiếng)
+*  động từ
+- cài vào nhau
+- khớp vào nhau (các bộ phận một cái máy)
+- (ngành đường sắt) phối hợp chặt chẽ với nhau (ghi, hệ thống tín hiệu...)
+@Chuyên ngành kỹ thuật
+-ăn khớp
+-cấm
+-chốt
+-đối tiếp
+-khóa an toàn
+-khóa chuyển
+-khóa liên động
+-khớp nhau
+-liên hợp
+-nêm
+-nối bằng vấu
+-móc nối
+-sự chặn
+-sự chốt
+-sự đóng đường
+-sự khóa liên động
+-vào khớp
+-vùng cấm
+@Lĩnh vực: ô tô
+-ăn khớp vào nhau
+@Lĩnh vực: toán & tin
+-cài khóa với nhau
+@Lĩnh vực: xây dựng
+-cài then
+-nối liền nhau
+-sự cài mắc
+-sự khóa cửa
+@Lĩnh vực: vật lý
+-cấu đồng bộ hóa
+-khóa liền động
+-khóa truyền
+-thiết bị khóa truyền
+@Lĩnh vực: hóa học & vật liệu
+-sự cài vào nhau
+@Lĩnh vực: cơ khí & công trình
+-sự tự liên kết

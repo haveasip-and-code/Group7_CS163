@@ -1,3 +1,5 @@
-sparker
-	@Chuyên ngành kỹ thuật\n-bộ đánh lửa\n-bugi\n@Lĩnh vực: hóa học & vật liệu\n-bộ đánh tia điện
-
+sparker	@Chuyên ngành kỹ thuật
+-bộ đánh lửa
+-bugi
+@Lĩnh vực: hóa học & vật liệu
+-bộ đánh tia điện

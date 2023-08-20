@@ -1,3 +1,2 @@
-bookishly
-	@bookishly\n- xem bookish
-
+bookishly	@bookishly
+- xem bookish

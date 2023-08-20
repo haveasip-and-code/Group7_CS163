@@ -1,3 +1,33 @@
-kerf
-	@kerf /kə:f/\n*  danh từ\n- khía, rạch, vết cưa\n- đầu cưa, đầu chặt (của một cây bị đốn xuống)\n@Chuyên ngành kỹ thuật\n-khía\n-lỗ phá mở\n-rạch\n-rãnh\n-rãnh cắt\n-sự rạch\n-vết cắt\n-vết cưa\n-vết rạch\n@Lĩnh vực: xây dựng\n-đầu (cây) chặt\n-mạch cưa\n-sự phá mở\n@Chuyên ngành kỹ thuật\n-khía\n-lỗ phá mở\n-rạch\n-rãnh\n-rãnh cắt\n-sự rạch\n-vết cắt\n-vết cưa\n-vết rạch\n@Lĩnh vực: xây dựng\n-đầu (cây) chặt\n-mạch cưa\n-sự phá mở
-
+kerf	
+@kerf /kə:f/
+*  danh từ
+- khía, rạch, vết cưa
+- đầu cưa, đầu chặt (của một cây bị đốn xuống)
+@Chuyên ngành kỹ thuật
+-khía
+-lỗ phá mở
+-rạch
+-rãnh
+-rãnh cắt
+-sự rạch
+-vết cắt
+-vết cưa
+-vết rạch
+@Lĩnh vực: xây dựng
+-đầu (cây) chặt
+-mạch cưa
+-sự phá mở
+@Chuyên ngành kỹ thuật
+-khía
+-lỗ phá mở
+-rạch
+-rãnh
+-rãnh cắt
+-sự rạch
+-vết cắt
+-vết cưa
+-vết rạch
+@Lĩnh vực: xây dựng
+-đầu (cây) chặt
+-mạch cưa
+-sự phá mở

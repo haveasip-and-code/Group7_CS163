@@ -1,3 +1,2 @@
-nomography
-	@nomography\n- lý thuyết toán đồ, phép lập toán đồ
-
+nomography	@nomography
+- lý thuyết toán đồ, phép lập toán đồ

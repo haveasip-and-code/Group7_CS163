@@ -1,3 +1,75 @@
-screen
-	@screen /skri:n/\n*  danh từ\n- bình phong, màn che\n=a screen of trees+ màn cây\n=under the screen of night+ dưới màn che của bóng tối\n- (vật lý) màn, tấm chắn\n=electric screen+ màn điện\n=shadow screen+ màn chắn sáng\n- bảng, thông báo (có lưới sắt mắt cáo...)\n- màn ảnh, màn bạc\n=panoramic screen+ màn ảnh rộng\n=the screen+ phim ảnh (nói chung)\n- cái sàng (để sàng than...)\n!to act as screen for a criminal\n- che chở một người phạm tội\n!to put on a screen of indifference\n- làm ra bộ thờ ơ, làm ra vẻ thờ ơ\n*  ngoại động từ\n- che chở, che giấu\n- (vật lý) chắn, che; (từ Mỹ,nghĩa Mỹ) chuyển một cuốn tiểu thuyết, một vở kịch) thành bản phim\n- giần, sàng, lọc (than...)\n- (nghĩa bóng) nghiên cứu và thẩm tra lý lịch (người)\n*  nội động từ\n- được chiếu (phim)\n@Chuyên ngành kinh tế\n-bộ lọc\n-chọn\n-chọn lọc\n-điện ảnh\n-lựa chọn (nhân viên...)\n-lựa chọn, thẩm tra\n-lưới\n-màn ảnh\n-màn bạc\n-màn hình\n-sàng\n-sàng lọc\n-thẩm tra\n@Chuyên ngành kỹ thuật\n-bình phong\n-bộ lọc\n-che chắn\n-giàn mắt cáo\n-lưới\n-lưới chắn\n-lưới in hoa\n-lưới lọc\n-lưới mắt cáo\n-lưới sàng\n-ngăn\n-ngăn lại\n-màn ảnh\n-màn chắn\n-màn che\n-màn hiển thị\n-màn hình\n-mạng điểm\n-màng lọc (dầu)\n-mặt sàn\n-mặt sàng\n-máy sàng\n-ống sàng\n-rây\n-sàng\n-sàng lọc\n-sàng tay\n-sàng/ lưới bảo vệ/ tấm lọc\n-tường chắn\n-vách chắn\n@Lĩnh vực: xây dựng\n-cưa chớp\n@Lĩnh vực: điện lạnh\n-tấm chắn (trường điện hoặc từ)\n@Lĩnh vực: cơ khí & công trình\n-tấm lưới chắn
-
+screen	@screen /skri:n/
+*  danh từ
+- bình phong, màn che
+=a screen of trees+ màn cây
+=under the screen of night+ dưới màn che của bóng tối
+- (vật lý) màn, tấm chắn
+=electric screen+ màn điện
+=shadow screen+ màn chắn sáng
+- bảng, thông báo (có lưới sắt mắt cáo...)
+- màn ảnh, màn bạc
+=panoramic screen+ màn ảnh rộng
+=the screen+ phim ảnh (nói chung)
+- cái sàng (để sàng than...)
+!to act as screen for a criminal
+- che chở một người phạm tội
+!to put on a screen of indifference
+- làm ra bộ thờ ơ, làm ra vẻ thờ ơ
+*  ngoại động từ
+- che chở, che giấu
+- (vật lý) chắn, che; (từ Mỹ,nghĩa Mỹ) chuyển một cuốn tiểu thuyết, một vở kịch) thành bản phim
+- giần, sàng, lọc (than...)
+- (nghĩa bóng) nghiên cứu và thẩm tra lý lịch (người)
+*  nội động từ
+- được chiếu (phim)
+@Chuyên ngành kinh tế
+-bộ lọc
+-chọn
+-chọn lọc
+-điện ảnh
+-lựa chọn (nhân viên...)
+-lựa chọn, thẩm tra
+-lưới
+-màn ảnh
+-màn bạc
+-màn hình
+-sàng
+-sàng lọc
+-thẩm tra
+@Chuyên ngành kỹ thuật
+-bình phong
+-bộ lọc
+-che chắn
+-giàn mắt cáo
+-lưới
+-lưới chắn
+-lưới in hoa
+-lưới lọc
+-lưới mắt cáo
+-lưới sàng
+-ngăn
+-ngăn lại
+-màn ảnh
+-màn chắn
+-màn che
+-màn hiển thị
+-màn hình
+-mạng điểm
+-màng lọc (dầu)
+-mặt sàn
+-mặt sàng
+-máy sàng
+-ống sàng
+-rây
+-sàng
+-sàng lọc
+-sàng tay
+-sàng/ lưới bảo vệ/ tấm lọc
+-tường chắn
+-vách chắn
+@Lĩnh vực: xây dựng
+-cưa chớp
+@Lĩnh vực: điện lạnh
+-tấm chắn (trường điện hoặc từ)
+@Lĩnh vực: cơ khí & công trình
+-tấm lưới chắn

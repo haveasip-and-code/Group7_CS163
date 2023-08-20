@@ -1,3 +1,39 @@
-drawing
-	@drawing /'drɔ:iɳ/\n*  danh từ\n- sự kéo, sự lấy ra, sự rút ra\n- thuật vẽ (vẽ hoạ đồ, vẽ kỹ thuật, không màu hoặc một màu)\n=mechannical drawing+ vẽ hoạ đồ, vẽ kỹ thuật\n=to be out of drawing+ vẽ sai, vẽ không đúng\n- bản vẽ, bức vẽ (vẽ đồ hoạ vẽ kỹ thuật, không màu hoặc một màu)\n@Chuyên ngành kinh tế\n-bản vẽ (đồ họa, kỹ thuật...)\n-ký phát (hối phiếu)\n-rút tiền\n-rút tiền gửi\n-sự chiết rút chè\n-sự rút ra\n-thuật vẽ\n@Chuyên ngành kỹ thuật\n-bản vẽ\n-kéo ra\n-lấy ra\n-rút ra\n-sự chuốt\n-sự kéo\n-sự kéo duỗi\n-sự lấy mẫu\n-sự phác họa\n-sự rút\n-sự vẽ\n-thước tỉ lệ\n-vẽ\n-vẽ kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-can vẽ\n-ram (kim loại)\n-sự lấy ra\n@Lĩnh vực: dệt may\n-sự kéo giãn\n@Lĩnh vực: toán & tin\n-vẽ thiết kế
-
+drawing	
+@drawing /'drɔ:iɳ/
+*  danh từ
+- sự kéo, sự lấy ra, sự rút ra
+- thuật vẽ (vẽ hoạ đồ, vẽ kỹ thuật, không màu hoặc một màu)=mechannical drawing
++ vẽ hoạ đồ, vẽ kỹ thuật=to be out of drawing
++ vẽ sai, vẽ không đúng
+- bản vẽ, bức vẽ (vẽ đồ hoạ vẽ kỹ thuật, không màu hoặc một màu)
+@Chuyên ngành kinh tế
+-bản vẽ (đồ họa, kỹ thuật...)
+-ký phát (hối phiếu)
+-rút tiền
+-rút tiền gửi
+-sự chiết rút chè
+-sự rút ra
+-thuật vẽ
+@Chuyên ngành kỹ thuật
+-bản vẽ
+-kéo ra
+-lấy ra
+-rút ra
+-sự chuốt
+-sự kéo
+-sự kéo duỗi
+-sự lấy mẫu
+-sự phác họa
+-sự rút
+-sự vẽ
+-thước tỉ lệ
+-vẽ
+-vẽ kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-can vẽ
+-ram (kim loại)
+-sự lấy ra
+@Lĩnh vực: dệt may
+-sự kéo giãn
+@Lĩnh vực: toán & tin
+-vẽ thiết kế

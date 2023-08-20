@@ -1,3 +1,7 @@
-epitaxial
-	@Chuyên ngành kỹ thuật\n-epitaxy\n-lớp epitaxi\n@Chuyên ngành kỹ thuật\n-epitaxy\n-lớp epitaxi
-
+epitaxial	
+@Chuyên ngành kỹ thuật
+-epitaxy
+-lớp epitaxi
+@Chuyên ngành kỹ thuật
+-epitaxy
+-lớp epitaxi

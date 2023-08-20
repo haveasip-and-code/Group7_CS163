@@ -1,3 +1,13 @@
-penetrometer
-	@penetrometer\n* danh từ\n- thấm kế; xuyên độ kế\n@Chuyên ngành kinh tế\n-xuyên độ kế\n@Chuyên ngành kỹ thuật\n-độ xuyên kế\n-xuyên độ kế/ thấm kế\n-xuyên kế\n@Lĩnh vực: hóa học & vật liệu\n-máy đo độ quánh\n@Lĩnh vực: cơ khí & công trình\n-máy đo xuyên
-
+penetrometer	@penetrometer
+* danh từ
+- thấm kế; xuyên độ kế
+@Chuyên ngành kinh tế
+-xuyên độ kế
+@Chuyên ngành kỹ thuật
+-độ xuyên kế
+-xuyên độ kế/ thấm kế
+-xuyên kế
+@Lĩnh vực: hóa học & vật liệu
+-máy đo độ quánh
+@Lĩnh vực: cơ khí & công trình
+-máy đo xuyên

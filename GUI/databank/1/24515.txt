@@ -1,3 +1,6 @@
-guided
-	@Chuyên ngành kỹ thuật\n-được dẫn\n-được điều khiển\n@Lĩnh vực: hóa học & vật liệu\n-được hướng
-
+guided	
+@Chuyên ngành kỹ thuật
+-được dẫn
+-được điều khiển
+@Lĩnh vực: hóa học & vật liệu
+-được hướng

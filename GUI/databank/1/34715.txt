@@ -1,3 +1,7 @@
-microeconomic
-	@Chuyên ngành kinh tế\n-kinh tế cụ thể\n-kinh tế vi mô\n-kinh tế vi quan\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-vi kinh tế
-
+microeconomic	@Chuyên ngành kinh tế
+-kinh tế cụ thể
+-kinh tế vi mô
+-kinh tế vi quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-vi kinh tế

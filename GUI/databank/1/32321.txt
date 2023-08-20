@@ -1,3 +1,30 @@
-linking
-	@linking\n* danh từ\n- sự nối; sự liên kết\n= programm linking+sự liên kết chương trình\n@Chuyên ngành kỹ thuật\n-đường liên kết\n-đường nối\n-kết nối\n-sự liên hợp\n-sự liên kết\n-sự liên lạc\n-sự móc nối\n-sự nối\n-sự nối kết\n@Lĩnh vực: cơ khí & công trình\n-khớp liên kết\n-khớp nối\n@Chuyên ngành kỹ thuật\n-đường liên kết\n-đường nối\n-kết nối\n-sự liên hợp\n-sự liên kết\n-sự liên lạc\n-sự móc nối\n-sự nối\n-sự nối kết\n@Lĩnh vực: cơ khí & công trình\n-khớp liên kết\n-khớp nối
-
+linking	@linking
+* danh từ
+- sự nối; sự liên kết
+= programm linking+sự liên kết chương trình
+@Chuyên ngành kỹ thuật
+-đường liên kết
+-đường nối
+-kết nối
+-sự liên hợp
+-sự liên kết
+-sự liên lạc
+-sự móc nối
+-sự nối
+-sự nối kết
+@Lĩnh vực: cơ khí & công trình
+-khớp liên kết
+-khớp nối
+@Chuyên ngành kỹ thuật
+-đường liên kết
+-đường nối
+-kết nối
+-sự liên hợp
+-sự liên kết
+-sự liên lạc
+-sự móc nối
+-sự nối
+-sự nối kết
+@Lĩnh vực: cơ khí & công trình
+-khớp liên kết
+-khớp nối

@@ -1,3 +1,24 @@
-cropping
-	@cropping\n* danh từ\n- sự thu hoạch\n- sự cắt lông, xén lông\n@Chuyên ngành kinh tế\n-sự cắt xén\n@Chuyên ngành kỹ thuật\n-sự cắt\n-sự gặt hái\n-sự lộ vỉa\n-sự tu sửa\n-sự xén\n-sự xén (tín hiệu)\n-thu hoạch\n-xén\n@Lĩnh vực: cơ khí & công trình\n-sự xén (đầu, đuôi)\n@Lĩnh vực: dệt may\n-sự xén lông\n@Lĩnh vực: hóa học & vật liệu\n-trồng trọt\n@Lĩnh vực: giao thông & vận tải\n-xén (đầu ray)
-
+cropping	
+@cropping
+* danh từ
+- sự thu hoạch
+- sự cắt lông, xén lông
+@Chuyên ngành kinh tế
+-sự cắt xén
+@Chuyên ngành kỹ thuật
+-sự cắt
+-sự gặt hái
+-sự lộ vỉa
+-sự tu sửa
+-sự xén
+-sự xén (tín hiệu)
+-thu hoạch
+-xén
+@Lĩnh vực: cơ khí & công trình
+-sự xén (đầu, đuôi)
+@Lĩnh vực: dệt may
+-sự xén lông
+@Lĩnh vực: hóa học & vật liệu
+-trồng trọt
+@Lĩnh vực: giao thông & vận tải
+-xén (đầu ray)

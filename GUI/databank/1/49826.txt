@@ -1,3 +1,18 @@
-sensitivity
-	@sensitivity /,sensi'tiviti/\n*  danh từ\n- tính dễ cảm xúc; tính nhạy cảm\n- tính nhạy; độ nhạy\n=colour sensitivity+ độ nhạy màu\n=current sensitivity+ độ nhạy dòng điện\n@Chuyên ngành kỹ thuật\n-độ cảm\n-độ nhạy\n-độ nhạy cảm\n@Lĩnh vực: điện\n-độ nhậy\n@Lĩnh vực: cơ khí & công trình\n-độ nhạy (tương đối)\n@Lĩnh vực: toán & tin\n-độ nhạy, tính nhạy\n@Lĩnh vực: điện lạnh\n-tính nhạy
-
+sensitivity	@sensitivity /,sensi'tiviti/
+*  danh từ
+- tính dễ cảm xúc; tính nhạy cảm
+- tính nhạy; độ nhạy
+=colour sensitivity+ độ nhạy màu
+=current sensitivity+ độ nhạy dòng điện
+@Chuyên ngành kỹ thuật
+-độ cảm
+-độ nhạy
+-độ nhạy cảm
+@Lĩnh vực: điện
+-độ nhậy
+@Lĩnh vực: cơ khí & công trình
+-độ nhạy (tương đối)
+@Lĩnh vực: toán & tin
+-độ nhạy, tính nhạy
+@Lĩnh vực: điện lạnh
+-tính nhạy

@@ -1,3 +1,2 @@
-ramped
-	@Chuyên ngành kỹ thuật\n-nghiêng
-
+ramped	@Chuyên ngành kỹ thuật
+-nghiêng

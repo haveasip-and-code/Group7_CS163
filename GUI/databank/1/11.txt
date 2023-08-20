@@ -1,3 +1,22 @@
-abacus
-	@abacus /'æbəkəs/\n*  danh từ,  số nhiều abaci,  abacuses\n- bàn tính\n=to move counters of an abacus; to work an abacus+ tính bằng bàn tính, gảy bàn tính\n- (kiến trúc)\n- đầu cột, đỉnh cột\n@Chuyên ngành kinh tế\n-bàn tính\n@Chuyên ngành kỹ thuật\n-bản đồ tính\n-bàn tính\n-bảng tính\n-đầu cọc\n-đầu cột\n-đỉnh cột\n-mũ cột\n-tấm đỉnh\n@Lĩnh vực: xây dựng\n-bài toán\n-đệm đầu cột\n-mũ đệm
-
+abacus	
+@abacus /'æbəkəs/
+*  danh từ,  số nhiều abaci,  abacuses
+- bàn tính=to move counters of an abacus; to work an abacus
++ tính bằng bàn tính, gảy bàn tính
+- (kiến trúc)
+- đầu cột, đỉnh cột
+@Chuyên ngành kinh tế
+-bàn tính
+@Chuyên ngành kỹ thuật
+-bản đồ tính
+-bàn tính
+-bảng tính
+-đầu cọc
+-đầu cột
+-đỉnh cột
+-mũ cột
+-tấm đỉnh
+@Lĩnh vực: xây dựng
+-bài toán
+-đệm đầu cột
+-mũ đệm

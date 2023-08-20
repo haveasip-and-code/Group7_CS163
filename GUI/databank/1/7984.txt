@@ -1,3 +1,64 @@
-card
-	@card /kɑ:d/\n*  danh từ\n- các, thiếp, thẻ\n=calling card+ danh thiếp\n=card of admission+ thẻ ra vào, thẻ vào cửa\n=invitation card+ thiếp mời\n- quân bài, bài ((cũng) playing card)\n- (số nhiều) sự chơi bài\n=a pack of cards+ một cỗ bài\n=trump card+ quân bài chủ\n- chương trình (cuộc đua...)\n- bản yết thị\n- (từ Mỹ,nghĩa Mỹ) quảng cáo (trên báo)\n- (từ cổ,nghĩa cổ), hải la bàn ((cũng) mariner's card)\n- (thông tục) người kỳ quặc; thằng cha, gã\n=a knowing card+ một thằng cha láu\n=a queer card+ một thằng cha kỳ quặc\n!to have a card up one's sleeve\n- còn nắm bài chủ trong tay; có kế dự phòng\n!to have (hold) the cards in one's hands\n- có tất cả bài chủ trong tay; (nghĩa bóng) có tất cả yếu tố thắng lợi trong tay\n!house of cards\n- (xem) house\n!on (in) the cards\n- có thể, có lẽ\n!one's best (trump) cards\n- lý lẽ vững nhất; lá bài chủ (nghĩa bóng)\n!to play one's card well\n- chơi nước bài hay ((nghĩa đen) & (nghĩa bóng))\n!to play a sure card\n- chơi nước chắc ((nghĩa đen) & (nghĩa bóng))\n!to play a wrong card\n- chơi nước bài bớ, chơi nước bài sai lầm ((nghĩa đen) & (nghĩa bóng))\n!to play (lay, place) one's card on the table\n- nói rõ hết ý định, nói rõ hết kế hoạch không cần úp mở giấu giếm\n!to show one's card\n- để lộ kế hoạch\n!to speak by the card\n- nói rành rọt, nói chính xác\n!that's the card\n- (thông tục) đúng thế, thế là đúng, thế là phải\n!to throw (fling) up one's card\n- bỏ cuộc, chịu thua không chơi nữa\n*  danh từ\n- bàn chải len, bàn cúi\n*  ngoại động từ\n- chải (len...)\n@Chuyên ngành kinh tế\n-đưa vào phiếu\n-ghi vào thẻ\n-phiếu\n-thẻ\n@Chuyên ngành kỹ thuật\n-bàn chải\n-bản đồ\n-bảng\n-bìa\n-bìa đục lỗ\n-chải\n-phiếu\n@Lĩnh vực: cơ khí & công trình\n-bàn chùi (bằng len)\n-biểu đỡ\n@Lĩnh vực: toán & tin\n-cạc bìa\n-phiếu tính có lỗ\n-quân bài\n-tấm bìa\n-tấm mạch\n@Lĩnh vực: dệt may\n-chải thô\n@Lĩnh vực: xây dựng\n-hoa hồng chỉ hướng\n@Lĩnh vực: điện\n-vào phiếu\n-vào thẻ
-
+card	
+@card /kɑ:d/
+*  danh từ
+- các, thiếp, thẻ=calling card
++ danh thiếp=card of admission
++ thẻ ra vào, thẻ vào cửa=invitation card
++ thiếp mời
+- quân bài, bài ((cũng) playing card)
+- (số nhiều) sự chơi bài=a pack of cards
++ một cỗ bài=trump card
++ quân bài chủ
+- chương trình (cuộc đua...)
+- bản yết thị
+- (từ Mỹ,nghĩa Mỹ) quảng cáo (trên báo)
+- (từ cổ,nghĩa cổ), hải la bàn ((cũng) mariner's card)
+- (thông tục) người kỳ quặc; thằng cha, gã=a knowing card
++ một thằng cha láu=a queer card
++ một thằng cha kỳ quặc!to have a card up one's sleeve
+- còn nắm bài chủ trong tay; có kế dự phòng!to have (hold) the cards in one's hands
+- có tất cả bài chủ trong tay; (nghĩa bóng) có tất cả yếu tố thắng lợi trong tay!house of cards
+- (xem) house!on (in) the cards
+- có thể, có lẽ!one's best (trump) cards
+- lý lẽ vững nhất; lá bài chủ (nghĩa bóng)!to play one's card well
+- chơi nước bài hay ((nghĩa đen) & (nghĩa bóng))!to play a sure card
+- chơi nước chắc ((nghĩa đen) & (nghĩa bóng))!to play a wrong card
+- chơi nước bài bớ, chơi nước bài sai lầm ((nghĩa đen) & (nghĩa bóng))!to play (lay, place) one's card on the table
+- nói rõ hết ý định, nói rõ hết kế hoạch không cần úp mở giấu giếm!to show one's card
+- để lộ kế hoạch!to speak by the card
+- nói rành rọt, nói chính xác!that's the card
+- (thông tục) đúng thế, thế là đúng, thế là phải!to throw (fling) up one's card
+- bỏ cuộc, chịu thua không chơi nữa
+*  danh từ
+- bàn chải len, bàn cúi
+*  ngoại động từ
+- chải (len...)
+@Chuyên ngành kinh tế
+-đưa vào phiếu
+-ghi vào thẻ
+-phiếu
+-thẻ
+@Chuyên ngành kỹ thuật
+-bàn chải
+-bản đồ
+-bảng
+-bìa
+-bìa đục lỗ
+-chải
+-phiếu
+@Lĩnh vực: cơ khí & công trình
+-bàn chùi (bằng len)
+-biểu đỡ
+@Lĩnh vực: toán & tin
+-cạc bìa
+-phiếu tính có lỗ
+-quân bài
+-tấm bìa
+-tấm mạch
+@Lĩnh vực: dệt may
+-chải thô
+@Lĩnh vực: xây dựng
+-hoa hồng chỉ hướng
+@Lĩnh vực: điện
+-vào phiếu
+-vào thẻ

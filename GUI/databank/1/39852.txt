@@ -1,3 +1,8 @@
-partitioning
-	@Chuyên ngành kỹ thuật\n-sự chia phần\n-sự ngăn\n-sự phân chia\n-sự phân tách\n@Lĩnh vực: xây dựng\n-sự làm vách ngăn\n-sự ngăn tuờng
-
+partitioning	@Chuyên ngành kỹ thuật
+-sự chia phần
+-sự ngăn
+-sự phân chia
+-sự phân tách
+@Lĩnh vực: xây dựng
+-sự làm vách ngăn
+-sự ngăn tuờng

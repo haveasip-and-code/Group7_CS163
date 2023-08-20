@@ -1,3 +1,12 @@
-enforce
-	@enforce /in'fɔ:s/\n*  ngoại động từ\n- làm cho có hiệu lực, làm cho có sức mạnh (một lý lẽ), đòi cho được (một yêu sách)\n- (+ upon) ép làm, thúc ép, ép buộc (một việc gì)\n=to enforce something upon someone+ ép ai phải làm một việc gì\n- bắt tôn trọng, bắt tuân theo; đem thi hành (luật lệ)\n@Chuyên ngành kỹ thuật\n-bắt buộc\n@Chuyên ngành kỹ thuật\n-bắt buộc
-
+enforce	
+@enforce /in'fɔ:s/
+*  ngoại động từ
+- làm cho có hiệu lực, làm cho có sức mạnh (một lý lẽ), đòi cho được (một yêu sách)
+- (
++ upon) ép làm, thúc ép, ép buộc (một việc gì)=to enforce something upon someone
++ ép ai phải làm một việc gì
+- bắt tôn trọng, bắt tuân theo; đem thi hành (luật lệ)
+@Chuyên ngành kỹ thuật
+-bắt buộc
+@Chuyên ngành kỹ thuật
+-bắt buộc

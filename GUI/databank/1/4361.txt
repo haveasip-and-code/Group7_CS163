@@ -1,3 +1,29 @@
-backfill
-	@backfill\n* ngoại động từ\n- lấp đất lại (đặc biệt sau một cuộc khai quật (khảo cổ học))\n@Chuyên ngành kỹ thuật\n-đắp\n-đất lấp\n-đổ\n-đổ đất đá\n-khối xây chèn\n-lấp\n-lấp đất đá\n-lấp đầy\n-sự đắp\n-sự đắp đất\n-sự đổ đầy\n-sự lấp\n-sự lấp đất\n-sự lấp đầy\n@Lĩnh vực: xây dựng\n-hào xung quanh\n-khối đất đắp (sau mố, sau tường chắn)\n-lấp hố\n-Lấp hố// Vật liệu lấp hố// Hào xung quanh\n-sự [đắp, lấp]\n-vật liệu lấp\n@Lĩnh vực: cơ khí & công trình\n-vật liệu đắp đầy\n-vật liệu đắp lại
-
+backfill	
+@backfill
+* ngoại động từ
+- lấp đất lại (đặc biệt sau một cuộc khai quật (khảo cổ học))
+@Chuyên ngành kỹ thuật
+-đắp
+-đất lấp
+-đổ
+-đổ đất đá
+-khối xây chèn
+-lấp
+-lấp đất đá
+-lấp đầy
+-sự đắp
+-sự đắp đất
+-sự đổ đầy
+-sự lấp
+-sự lấp đất
+-sự lấp đầy
+@Lĩnh vực: xây dựng
+-hào xung quanh
+-khối đất đắp (sau mố, sau tường chắn)
+-lấp hố
+-Lấp hố// Vật liệu lấp hố// Hào xung quanh
+-sự [đắp, lấp]
+-vật liệu lấp
+@Lĩnh vực: cơ khí & công trình
+-vật liệu đắp đầy
+-vật liệu đắp lại

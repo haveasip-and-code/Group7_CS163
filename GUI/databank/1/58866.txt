@@ -1,3 +1,5 @@
-uncharge
-	@uncharge\n* ngoại động từ\n- xử án trắng\n- trả (nợ)\n- ký nhận trả
-
+uncharge	@uncharge
+* ngoại động từ
+- xử án trắng
+- trả (nợ)
+- ký nhận trả

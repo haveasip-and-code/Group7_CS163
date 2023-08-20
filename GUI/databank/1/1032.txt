@@ -1,3 +1,6 @@
-aerothermodynamics
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-khoa động nhiệt khí\n@Lĩnh vực: cơ khí & công trình\n-ngàng động nhiệt khí
-
+aerothermodynamics	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-khoa động nhiệt khí
+@Lĩnh vực: cơ khí & công trình
+-ngàng động nhiệt khí

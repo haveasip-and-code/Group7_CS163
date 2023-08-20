@@ -1,3 +1,21 @@
-translator
-	@translator /træns'leitə/\n*  danh từ\n- người dịch\n- máy truyền tin (bưu điện)\n@Chuyên ngành kinh tế\n-máy phiên dịch\n-người phiên dịch\n-phiên dịch viên\n@Chuyên ngành kỹ thuật\n-bộ dịch\n-chương trình dịch\n-người biên dịch\n-người dịch\n-máy dịch\n@Lĩnh vực: toán & tin\n-bộ thông dịch\n-đơn vị dịch\n@Lĩnh vực: xây dựng\n-máy chuyển phát\n-máy chuyển tiếp\n-máy chuyển tin
-
+translator	@translator /træns'leitə/
+*  danh từ
+- người dịch
+- máy truyền tin (bưu điện)
+@Chuyên ngành kinh tế
+-máy phiên dịch
+-người phiên dịch
+-phiên dịch viên
+@Chuyên ngành kỹ thuật
+-bộ dịch
+-chương trình dịch
+-người biên dịch
+-người dịch
+-máy dịch
+@Lĩnh vực: toán & tin
+-bộ thông dịch
+-đơn vị dịch
+@Lĩnh vực: xây dựng
+-máy chuyển phát
+-máy chuyển tiếp
+-máy chuyển tin

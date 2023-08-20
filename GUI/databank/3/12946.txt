@@ -1,3 +1,2 @@
-cubical
-	@cubical\n- (thuộc) cubic
-
+cubical	@cubical
+- (thuộc) cubic

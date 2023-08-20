@@ -1,3 +1,3 @@
-toxoplasmosis
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh Toxoplasma
-
+toxoplasmosis	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh Toxoplasma

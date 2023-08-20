@@ -1,3 +1,16 @@
-sticky
-	@sticky /'stiki/\n*  tính từ\n- dính; sánh; bầy nhầy, nhớp nháp\n- khó tính, khó khăn (tính nết)\n=to be very sticky about something+ làm khó làm dễ cái gì 3 (từ lóng)\n- hết sức khó chịu, rất đau đớn\n=to come to a sticky end+ chết một cách rất đau đớn\n- nóng và ẩm nồm (thời tiết)\n@Chuyên ngành kinh tế\n-dính\n-lầy nhầy\n-sánh\n@Chuyên ngành kỹ thuật\n-dính\n@Lĩnh vực: xây dựng\n-thường dính
-
+sticky	@sticky /'stiki/
+*  tính từ
+- dính; sánh; bầy nhầy, nhớp nháp
+- khó tính, khó khăn (tính nết)
+=to be very sticky about something+ làm khó làm dễ cái gì 3 (từ lóng)
+- hết sức khó chịu, rất đau đớn
+=to come to a sticky end+ chết một cách rất đau đớn
+- nóng và ẩm nồm (thời tiết)
+@Chuyên ngành kinh tế
+-dính
+-lầy nhầy
+-sánh
+@Chuyên ngành kỹ thuật
+-dính
+@Lĩnh vực: xây dựng
+-thường dính

@@ -1,3 +1,22 @@
-memorandum
-	@memorandum /,memə'rændə/\n*  danh từ,  số nhiều memorandum  /,memə'rændem/,  memorandums  /,meme'rændəmz/\n- sự ghi để nhớ\n=to make a memoranda of something+ ghi một chuyện gì để nhớ\n- (ngoại giao) giác thư, bị vong lục\n- (pháp lý) bản ghi điều khoản (của giao kèo)\n- (thương nghiệp) bản sao, thư báo\n@Chuyên ngành kinh tế\n-bản ghi\n-bản ghi nhớ\n-bản nghi nhớ\n-bị vong lục\n-biên bản\n-điệp văn\n-giác thư\n-giấy báo\n-kỷ yếu\n-thông tri\n-trích yếu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sổ lưu niệm
-
+memorandum	@memorandum /,memə'rændə/
+*  danh từ,  số nhiều memorandum  /,memə'rændem/,  memorandums  /,meme'rændəmz/
+- sự ghi để nhớ
+=to make a memoranda of something+ ghi một chuyện gì để nhớ
+- (ngoại giao) giác thư, bị vong lục
+- (pháp lý) bản ghi điều khoản (của giao kèo)
+- (thương nghiệp) bản sao, thư báo
+@Chuyên ngành kinh tế
+-bản ghi
+-bản ghi nhớ
+-bản nghi nhớ
+-bị vong lục
+-biên bản
+-điệp văn
+-giác thư
+-giấy báo
+-kỷ yếu
+-thông tri
+-trích yếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sổ lưu niệm

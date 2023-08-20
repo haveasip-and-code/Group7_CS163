@@ -1,3 +1,2 @@
-pupilar
-	@pupilar\n- xem pupil
-
+pupilar	@pupilar
+- xem pupil

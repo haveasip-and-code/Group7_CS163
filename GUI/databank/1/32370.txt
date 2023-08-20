@@ -1,3 +1,22 @@
-liquefaction
-	@liquefaction /,likwi'fækʃn/\n*  danh từ\n- sự hoá lỏng\n@Chuyên ngành kinh tế\n-sự hóa lỏng\n-sự nóng chảy\n@Chuyên ngành kỹ thuật\n-hóa lỏng\n-sự chảy rã\n-sự hóa lỏng\n-sự nóng chảy\n-sự pha loãng\n@Lĩnh vực: xây dựng\n-sự biến loãng\n@Chuyên ngành kỹ thuật\n-hóa lỏng\n-sự chảy rã\n-sự hóa lỏng\n-sự nóng chảy\n-sự pha loãng\n@Lĩnh vực: xây dựng\n-sự biến loãng
-
+liquefaction	@liquefaction /,likwi'fækʃn/
+*  danh từ
+- sự hoá lỏng
+@Chuyên ngành kinh tế
+-sự hóa lỏng
+-sự nóng chảy
+@Chuyên ngành kỹ thuật
+-hóa lỏng
+-sự chảy rã
+-sự hóa lỏng
+-sự nóng chảy
+-sự pha loãng
+@Lĩnh vực: xây dựng
+-sự biến loãng
+@Chuyên ngành kỹ thuật
+-hóa lỏng
+-sự chảy rã
+-sự hóa lỏng
+-sự nóng chảy
+-sự pha loãng
+@Lĩnh vực: xây dựng
+-sự biến loãng

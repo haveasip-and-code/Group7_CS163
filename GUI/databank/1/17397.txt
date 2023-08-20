@@ -1,3 +1,8 @@
-edibles
-	@edibles\n* danh từ số nhiều\n- những thứ ăn được; thức ăn\n= edibles such as vegetables and meat+những thức ăn như rau và thịt chẳng hạn\n@Chuyên ngành kinh tế\n-đồ ăn được\n-thức ăn
-
+edibles	
+@edibles
+* danh từ số nhiều
+- những thứ ăn được; thức ăn= edibles such as vegetables and meat
++những thức ăn như rau và thịt chẳng hạn
+@Chuyên ngành kinh tế
+-đồ ăn được
+-thức ăn

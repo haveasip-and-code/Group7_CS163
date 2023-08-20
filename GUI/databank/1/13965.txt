@@ -1,3 +1,26 @@
-deduction
-	@deduction /di'dʌkʃn/\n*  danh từ\n- sự lấy đi, sự khấu đi, sự trừ đi\n- sự suy ra, sự luận ra, sự suy luận, sự suy diễn\n- điều suy luận\n@Chuyên ngành kinh tế\n-khấu trừ\n-sự chiết khấu\n-sự giảm đi\n-sự lấy đi\n-sự suy diễn\n@Chuyên ngành kỹ thuật\n-kết luận\n-sự suy diễn\n-suy diễn\n-suy luận\n-suy ra\n-thặng dư\n@Lĩnh vực: xây dựng\n-khấu trừ\n-sự khấu trừ\n@Lĩnh vực: điện lạnh\n-sự suy ra\n@Lĩnh vực: toán & tin\n-sự trừ đi
-
+deduction	
+@deduction /di'dʌkʃn/
+*  danh từ
+- sự lấy đi, sự khấu đi, sự trừ đi
+- sự suy ra, sự luận ra, sự suy luận, sự suy diễn
+- điều suy luận
+@Chuyên ngành kinh tế
+-khấu trừ
+-sự chiết khấu
+-sự giảm đi
+-sự lấy đi
+-sự suy diễn
+@Chuyên ngành kỹ thuật
+-kết luận
+-sự suy diễn
+-suy diễn
+-suy luận
+-suy ra
+-thặng dư
+@Lĩnh vực: xây dựng
+-khấu trừ
+-sự khấu trừ
+@Lĩnh vực: điện lạnh
+-sự suy ra
+@Lĩnh vực: toán & tin
+-sự trừ đi

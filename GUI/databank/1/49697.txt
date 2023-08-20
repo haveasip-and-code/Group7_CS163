@@ -1,3 +1,5 @@
-semi
-	@semi\n* danh từ\n- <thgt> nhà chung tường\n@Chuyên ngành kỹ thuật\n-bán
-
+semi	@semi
+* danh từ
+- <thgt> nhà chung tường
+@Chuyên ngành kỹ thuật
+-bán

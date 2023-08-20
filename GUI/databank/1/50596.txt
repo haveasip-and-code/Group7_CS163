@@ -1,3 +1,2 @@
-siblings
-	@Chuyên ngành kỹ thuật\n-anh em
-
+siblings	@Chuyên ngành kỹ thuật
+-anh em

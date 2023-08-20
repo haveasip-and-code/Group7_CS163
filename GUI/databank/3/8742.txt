@@ -1,3 +1,4 @@
-channelled
-	@Chuyên ngành kỹ thuật\n-có rãnh\n@Lĩnh vực: cơ khí & công trình\n-gợn sóng (tôn)
-
+channelled	@Chuyên ngành kỹ thuật
+-có rãnh
+@Lĩnh vực: cơ khí & công trình
+-gợn sóng (tôn)

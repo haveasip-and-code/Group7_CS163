@@ -1,3 +1,14 @@
-equate
-	@equate /i'kweit/\n*  ngoại động từ\n- làm cân bằng, san bằng\n- coi ngang, đặt ngang hàng\n- (toán học) đặt thành phương trình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-làm bằng nhau\n-lập phương trình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-làm bằng nhau\n-lập phương trình
-
+equate	
+@equate /i'kweit/
+*  ngoại động từ
+- làm cân bằng, san bằng
+- coi ngang, đặt ngang hàng
+- (toán học) đặt thành phương trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-làm bằng nhau
+-lập phương trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-làm bằng nhau
+-lập phương trình

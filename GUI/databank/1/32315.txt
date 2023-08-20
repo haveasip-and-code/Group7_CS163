@@ -1,3 +1,88 @@
-lining
-	@lining /'lainiɳ/\n*  danh từ\n- lớp vải lót (áo, mũ)\n- lớp gỗ che tường, lớp gạch giữ bờ đất, lớp đá giữ bờ đất\n@Chuyên ngành kinh tế\n-lớp vải lót\n@Chuyên ngành kỹ thuật\n-bạc đỡ\n-bạc lót\n-cột chống\n-kênh\n-khung chống\n-lớp áo\n-lớp bọc\n-lớp đệm\n-lớp lát\n-lớp lót\n-lớp lót (lò)\n-lớp lót trục\n-lớp nền\n-lớp ốp\n-lớp phủ\n-lớp phủ mặt\n-lớp tráng\n-lớp trát\n-ống chống\n-sự gắn vỏ\n-sự lát mặt\n-sự lót\n-sự san bằng\n-sự tạo đường\n-sự trát\n-thành\n-tường\n-vách\n-vì chống\n-vỏ chống\n@Lĩnh vực: y học\n-chất lót trong nha khoa\n@Lĩnh vực: xây dựng\n-lớp lót lò\n-lớp ốp hầm\n-mặt ốp\n-tấm lá bọc\n-thành giếng\n@Lĩnh vực: ô tô\n-lớp vải mui\n@Chuyên ngành kỹ thuật\n-bạc đỡ\n-bạc lót\n-cột chống\n-kênh\n-khung chống\n-lớp áo\n-lớp bọc\n-lớp đệm\n-lớp lát\n-lớp lót\n-lớp lót (lò)\n-lớp lót trục\n-lớp nền\n-lớp ốp\n-lớp phủ\n-lớp phủ mặt\n-lớp tráng\n-lớp trát\n-ống chống\n-sự gắn vỏ\n-sự lát mặt\n-sự lót\n-sự san bằng\n-sự tạo đường\n-sự trát\n-thành\n-tường\n-vách\n-vì chống\n-vỏ chống\n@Lĩnh vực: y học\n-chất lót trong nha khoa\n@Lĩnh vực: xây dựng\n-lớp lót lò\n-lớp ốp hầm\n-mặt ốp\n-tấm lá bọc\n-thành giếng\n@Lĩnh vực: ô tô\n-lớp vải mui
-
+lining	@lining /'lainiɳ/
+*  danh từ
+- lớp vải lót (áo, mũ)
+- lớp gỗ che tường, lớp gạch giữ bờ đất, lớp đá giữ bờ đất
+@Chuyên ngành kinh tế
+-lớp vải lót
+@Chuyên ngành kỹ thuật
+-bạc đỡ
+-bạc lót
+-cột chống
+-kênh
+-khung chống
+-lớp áo
+-lớp bọc
+-lớp đệm
+-lớp lát
+-lớp lót
+-lớp lót (lò)
+-lớp lót trục
+-lớp nền
+-lớp ốp
+-lớp phủ
+-lớp phủ mặt
+-lớp tráng
+-lớp trát
+-ống chống
+-sự gắn vỏ
+-sự lát mặt
+-sự lót
+-sự san bằng
+-sự tạo đường
+-sự trát
+-thành
+-tường
+-vách
+-vì chống
+-vỏ chống
+@Lĩnh vực: y học
+-chất lót trong nha khoa
+@Lĩnh vực: xây dựng
+-lớp lót lò
+-lớp ốp hầm
+-mặt ốp
+-tấm lá bọc
+-thành giếng
+@Lĩnh vực: ô tô
+-lớp vải mui
+@Chuyên ngành kỹ thuật
+-bạc đỡ
+-bạc lót
+-cột chống
+-kênh
+-khung chống
+-lớp áo
+-lớp bọc
+-lớp đệm
+-lớp lát
+-lớp lót
+-lớp lót (lò)
+-lớp lót trục
+-lớp nền
+-lớp ốp
+-lớp phủ
+-lớp phủ mặt
+-lớp tráng
+-lớp trát
+-ống chống
+-sự gắn vỏ
+-sự lát mặt
+-sự lót
+-sự san bằng
+-sự tạo đường
+-sự trát
+-thành
+-tường
+-vách
+-vì chống
+-vỏ chống
+@Lĩnh vực: y học
+-chất lót trong nha khoa
+@Lĩnh vực: xây dựng
+-lớp lót lò
+-lớp ốp hầm
+-mặt ốp
+-tấm lá bọc
+-thành giếng
+@Lĩnh vực: ô tô
+-lớp vải mui

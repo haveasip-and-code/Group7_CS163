@@ -1,3 +1,8 @@
-reductive
-	@reductive\n* danh từ\n- chất khử\n* tính từ\n- giảm bớt, rút gọn, thu nhỏ\n- hoàn nguyên\n- cải tạo, cải cách\n- khử
-
+reductive	@reductive
+* danh từ
+- chất khử
+* tính từ
+- giảm bớt, rút gọn, thu nhỏ
+- hoàn nguyên
+- cải tạo, cải cách
+- khử

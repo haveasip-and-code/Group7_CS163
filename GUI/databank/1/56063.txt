@@ -1,3 +1,2 @@
-termites
-	@termites\n- số nhiều của termes
-
+termites	@termites
+- số nhiều của termes

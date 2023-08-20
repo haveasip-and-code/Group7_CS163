@@ -1,3 +1,2 @@
-dailiness
-	@dailiness\n- xem daily
-
+dailiness	@dailiness
+- xem daily

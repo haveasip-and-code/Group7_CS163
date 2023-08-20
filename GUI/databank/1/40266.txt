@@ -1,3 +1,24 @@
-peeling
-	@peeling /'pi:liɳ/\n*  danh từ\n- vỏ bóc ra, vỏ gọt ra\n=potato peelings+ vỏ khoai gọt ra\n@Chuyên ngành kinh tế\n-vỏ củ\n-vỏ tách ra\n@Chuyên ngành kỹ thuật\n-bóc vỏ\n-lớp vỏ\n-sự bốc dỡ\n-sự bóc vỏ\n@Lĩnh vực: dệt may\n-chóc vỏ\n-sự lột da\n-sự tước vỏ\n@Lĩnh vực: xây dựng\n-sự bóc thành lớp\n-sự bong theo lớp\n-sự nạo vỏ\n-sự tẩy trạt\n-sự tróc vảy (của một lớp sơn)\n@Lĩnh vực: điện lạnh\n-sự tách lớp (bề mặt)
-
+peeling	@peeling /'pi:liɳ/
+*  danh từ
+- vỏ bóc ra, vỏ gọt ra
+=potato peelings+ vỏ khoai gọt ra
+@Chuyên ngành kinh tế
+-vỏ củ
+-vỏ tách ra
+@Chuyên ngành kỹ thuật
+-bóc vỏ
+-lớp vỏ
+-sự bốc dỡ
+-sự bóc vỏ
+@Lĩnh vực: dệt may
+-chóc vỏ
+-sự lột da
+-sự tước vỏ
+@Lĩnh vực: xây dựng
+-sự bóc thành lớp
+-sự bong theo lớp
+-sự nạo vỏ
+-sự tẩy trạt
+-sự tróc vảy (của một lớp sơn)
+@Lĩnh vực: điện lạnh
+-sự tách lớp (bề mặt)

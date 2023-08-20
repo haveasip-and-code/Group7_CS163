@@ -1,3 +1,7 @@
-ant
-	@ant /ænt/\n*  danh từ\n- (động vật học) con kiến\n=red (wood) ant+ kiến lửa\n=winged ant+ kiến cánh\n=white ant+ con mối
-
+ant	
+@ant /ænt/
+*  danh từ
+- (động vật học) con kiến=red (wood) ant
++ kiến lửa=winged ant
++ kiến cánh=white ant
++ con mối

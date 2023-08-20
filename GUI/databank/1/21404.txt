@@ -1,3 +1,5 @@
-fleshly
-	@fleshly /fleshly/\n*  tính từ\n- xác thịt, nhục dục\n- trần tục
-
+fleshly	
+@fleshly /fleshly/
+*  tính từ
+- xác thịt, nhục dục
+- trần tục

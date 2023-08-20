@@ -1,3 +1,18 @@
-sidewalk
-	@sidewalk /'saidwɔ:k/\n*  danh từ\n- vỉa hè, lề đường\n@Chuyên ngành kỹ thuật\n-áo đường\n-bờ đường\n-đường đi bộ\n-lề đường\n-lớp mặt\n-mặt đường\n-mặt lát\n@Lĩnh vực: xây dựng\n-đường bộ hành\n-hè phố\n-vỉa hè\n-vỉa hè trên cầu\n@Lĩnh vực: giao thông & vận tải\n-lề đường (phố)
-
+sidewalk	@sidewalk /'saidwɔ:k/
+*  danh từ
+- vỉa hè, lề đường
+@Chuyên ngành kỹ thuật
+-áo đường
+-bờ đường
+-đường đi bộ
+-lề đường
+-lớp mặt
+-mặt đường
+-mặt lát
+@Lĩnh vực: xây dựng
+-đường bộ hành
+-hè phố
+-vỉa hè
+-vỉa hè trên cầu
+@Lĩnh vực: giao thông & vận tải
+-lề đường (phố)

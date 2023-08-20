@@ -1,3 +1,31 @@
-flexible
-	@flexible /flexible/\n*  tính từ\n- dẻo, mền dẻo, dễ uốn\n- dễ sai khiến, dễ thuyết phục, dễ uốn nắn\n- linh động, linh hoạt\n@Chuyên ngành kinh tế\n-linh hoạt\n-mềm dẻo\n@Chuyên ngành kỹ thuật\n-dẻo\n-độ uốn\n-linh hoạt\n-mềm\n-mềm dẻo\n-uốn được\n@Lĩnh vực: xây dựng\n-đàn hồi được\n@Lĩnh vực: ô tô\n-dễ uốn\n@Chuyên ngành kỹ thuật\n-dẻo\n-độ uốn\n-linh hoạt\n-mềm\n-mềm dẻo\n-uốn được\n@Lĩnh vực: xây dựng\n-đàn hồi được\n@Lĩnh vực: ô tô\n-dễ uốn
-
+flexible	
+@flexible /flexible/
+*  tính từ
+- dẻo, mền dẻo, dễ uốn
+- dễ sai khiến, dễ thuyết phục, dễ uốn nắn
+- linh động, linh hoạt
+@Chuyên ngành kinh tế
+-linh hoạt
+-mềm dẻo
+@Chuyên ngành kỹ thuật
+-dẻo
+-độ uốn
+-linh hoạt
+-mềm
+-mềm dẻo
+-uốn được
+@Lĩnh vực: xây dựng
+-đàn hồi được
+@Lĩnh vực: ô tô
+-dễ uốn
+@Chuyên ngành kỹ thuật
+-dẻo
+-độ uốn
+-linh hoạt
+-mềm
+-mềm dẻo
+-uốn được
+@Lĩnh vực: xây dựng
+-đàn hồi được
+@Lĩnh vực: ô tô
+-dễ uốn

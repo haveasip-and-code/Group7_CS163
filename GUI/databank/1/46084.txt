@@ -1,3 +1,6 @@
-rectified
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đã chỉnh lưu\n-đã tinh cất\n@Lĩnh vực: y học\n-tinh cất
-
+rectified	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đã chỉnh lưu
+-đã tinh cất
+@Lĩnh vực: y học
+-tinh cất

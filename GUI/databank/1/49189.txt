@@ -1,3 +1,32 @@
-scotch
-	@scotch /skɔtʃ/\n*  tính từ\n- (Scotch) (thuộc) Ê-cốt\n*  danh từ\n- (the Scotch) nhân dân Ê-cốt\n- (Scotch) tiếng Ê-cốt\n- (Scotch) rượu mạnh Ê-cốt, rượu uytky Ê-cốt\n=Scotch and soda+ rượu uytky Ê-cốt pha sô đa\n*  danh từ\n- đường kẻ, đường vạch (trên đất để chơi nhảy dây)\n*  ngoại động từ\n- (từ cổ,nghĩa cổ) khắc, khía, vạch\n- làm bị thương nhẹ\n*  danh từ\n- cái chèn bánh xe\n*  ngoại động từ\n- chèn (bánh xe) lại\n@Chuyên ngành kỹ thuật\n-canh\n-chặn lại\n-chêm\n-chèn\n-đồ chặn bánh xe\n-vảy\n-vỏ cứng\n-xỉ\n@Lĩnh vực: xây dựng\n-chận lại\n@Lĩnh vực: hóa học & vật liệu\n-khối hãm\n@Lĩnh vực: cơ khí & công trình\n-vẩy
-
+scotch	@scotch /skɔtʃ/
+*  tính từ
+- (Scotch) (thuộc) Ê-cốt
+*  danh từ
+- (the Scotch) nhân dân Ê-cốt
+- (Scotch) tiếng Ê-cốt
+- (Scotch) rượu mạnh Ê-cốt, rượu uytky Ê-cốt
+=Scotch and soda+ rượu uytky Ê-cốt pha sô đa
+*  danh từ
+- đường kẻ, đường vạch (trên đất để chơi nhảy dây)
+*  ngoại động từ
+- (từ cổ,nghĩa cổ) khắc, khía, vạch
+- làm bị thương nhẹ
+*  danh từ
+- cái chèn bánh xe
+*  ngoại động từ
+- chèn (bánh xe) lại
+@Chuyên ngành kỹ thuật
+-canh
+-chặn lại
+-chêm
+-chèn
+-đồ chặn bánh xe
+-vảy
+-vỏ cứng
+-xỉ
+@Lĩnh vực: xây dựng
+-chận lại
+@Lĩnh vực: hóa học & vật liệu
+-khối hãm
+@Lĩnh vực: cơ khí & công trình
+-vẩy

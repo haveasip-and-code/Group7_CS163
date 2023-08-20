@@ -1,3 +1,13 @@
-ventilate
-	@ventilate /'ventileit/\n*  ngoại động từ\n- thông gió, thông hơi\n=to ventilate a coal-mine+ thông gió một mỏ than\n- (y học) lọc (máu) bằng oxy\n- công bố, đưa ra bàn luận rộng rãi\n=to ventilate one's opinion+ công bố ý kiến của mình\n=the question must be ventilated+ vấn đề phải được đưa ra bàn luận rộng rãi\n@Chuyên ngành kỹ thuật\n-làm cho thông hơi\n-quạt gió\n-thông khí\n-xả khí
-
+ventilate	@ventilate /'ventileit/
+*  ngoại động từ
+- thông gió, thông hơi
+=to ventilate a coal-mine+ thông gió một mỏ than
+- (y học) lọc (máu) bằng oxy
+- công bố, đưa ra bàn luận rộng rãi
+=to ventilate one's opinion+ công bố ý kiến của mình
+=the question must be ventilated+ vấn đề phải được đưa ra bàn luận rộng rãi
+@Chuyên ngành kỹ thuật
+-làm cho thông hơi
+-quạt gió
+-thông khí
+-xả khí

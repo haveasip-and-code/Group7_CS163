@@ -1,3 +1,9 @@
-megalopolis
-	@megalopolis\n* danh từ\n- đô thị đặc biệt lớn\n@Chuyên ngành kinh tế\n-đại đô thị\n-thành phố lớn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chuỗi đô thị
-
+megalopolis	@megalopolis
+* danh từ
+- đô thị đặc biệt lớn
+@Chuyên ngành kinh tế
+-đại đô thị
+-thành phố lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-chuỗi đô thị

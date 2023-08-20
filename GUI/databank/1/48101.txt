@@ -1,3 +1,73 @@
-row
-	@row /rou/\n*  danh từ\n- hàng, dây\n=a row of trees+ một hàng cây\n=to sit in a row+ ngồi thành hàng\n- dãy nhà phố\n- hàng ghế (trong rạp hát...)\n=in the front row+ ở hàng ghế đầu\n- hàng cây, luống (trong vườn)\n!a hard row to hoe\n- việc rất khó làm ((từ Mỹ,nghĩa Mỹ)) một việc hắc búa\n!it does not amount to a row of beans (pins)\n- không đáng một trinh\n!to hoe a big row\n- (từ Mỹ,nghĩa Mỹ) làm một công việc lớn, làm một công việc quan trọng\n!to hoe one's [own] row\n- tự cáng đáng lấy công việc của mình, làm việc không có sự giúp đỡ\n!a new row to hoe\n- một công việc mới\n*  danh từ\n- cuộc đi chơi thuyền\n=to go for a row on the river+ đi chơi thuyền trên sông\n- sự chèo thuyền\n*  ngoại động từ\n- chèo (thuyền), chèo thuyền chở (hành khách qua sông...)\n=to row someone across the river+ chèo thuyền chở ai sang sông\n- chèo đua với (ai)\n- được trang bị (bao nhiêu) mái chèo\n=a boat rowing eight oars+ một cái thuyền được trang bị tám mái chèo\n*  nội động từ\n- chèo thuyền\n- ở vị trí (nào) trong một đội bơi thuyền\n=to row 5 in the crerw+ ở vị trí thứ 5 trong đội bơi thuyền\n=to row stroke in the crew+ là người đứng lái trong đội bơi thuyền\n!to row down\n- chèo vượt lên trên (ai, trong một cuộc bơi thuyền)\n!to row out\n- bắt chèo đến mệt nhoài\n!to row over\n- bỏ xa một cách dễ dàng (trong cuộc bơi thuyền)\n!to row against the flood (wind)\n- làm việc gì trong hoàn cảnh có nhiều trở ngại chống đối\n!to row dry\n- chèo khan, đưa đẩy mái chèo nhưng không chạm vào nước\n*  danh từ\n- (thông tục) sự om sòm, sự huyên náo\n=to kick up (make) a row+ làm om lên\n=what's the row?+ việc gì mà om lên thế?\n- cuộc câi lộn; cuộc đánh lộn\n=to have a row with someone+ đánh lộn với ai\n- sự khiển trách, sự quở trách, sự mắng mỏ\n=to get into a row+ bị khiển trách\n*  ngoại động từ\n- khiển trách, quở trách, mắng mỏ (ai)\n*  nội động từ\n- làm om sòm\n- câi nhau om sòm; đánh lộn (với ai...)\n=to row with someone+ câi nhau om sòm với ai; đánh lộn với ai\n@Chuyên ngành kinh tế\n-bánh mì nhỏ\n@Chuyên ngành kỹ thuật\n-chuỗi\n-dãy\n-dòng\n-hàng\n-lái\n-loạt\n@Lĩnh vực: giao thông & vận tải\n-bơi thuyền\n-chèo (thuyền)\n@Lĩnh vực: toán & tin\n-hàng (ma trận)\n-hàng lỗ (đục)
-
+row	@row /rou/
+*  danh từ
+- hàng, dây
+=a row of trees+ một hàng cây
+=to sit in a row+ ngồi thành hàng
+- dãy nhà phố
+- hàng ghế (trong rạp hát...)
+=in the front row+ ở hàng ghế đầu
+- hàng cây, luống (trong vườn)
+!a hard row to hoe
+- việc rất khó làm ((từ Mỹ,nghĩa Mỹ)) một việc hắc búa
+!it does not amount to a row of beans (pins)
+- không đáng một trinh
+!to hoe a big row
+- (từ Mỹ,nghĩa Mỹ) làm một công việc lớn, làm một công việc quan trọng
+!to hoe one's [own] row
+- tự cáng đáng lấy công việc của mình, làm việc không có sự giúp đỡ
+!a new row to hoe
+- một công việc mới
+*  danh từ
+- cuộc đi chơi thuyền
+=to go for a row on the river+ đi chơi thuyền trên sông
+- sự chèo thuyền
+*  ngoại động từ
+- chèo (thuyền), chèo thuyền chở (hành khách qua sông...)
+=to row someone across the river+ chèo thuyền chở ai sang sông
+- chèo đua với (ai)
+- được trang bị (bao nhiêu) mái chèo
+=a boat rowing eight oars+ một cái thuyền được trang bị tám mái chèo
+*  nội động từ
+- chèo thuyền
+- ở vị trí (nào) trong một đội bơi thuyền
+=to row 5 in the crerw+ ở vị trí thứ 5 trong đội bơi thuyền
+=to row stroke in the crew+ là người đứng lái trong đội bơi thuyền
+!to row down
+- chèo vượt lên trên (ai, trong một cuộc bơi thuyền)
+!to row out
+- bắt chèo đến mệt nhoài
+!to row over
+- bỏ xa một cách dễ dàng (trong cuộc bơi thuyền)
+!to row against the flood (wind)
+- làm việc gì trong hoàn cảnh có nhiều trở ngại chống đối
+!to row dry
+- chèo khan, đưa đẩy mái chèo nhưng không chạm vào nước
+*  danh từ
+- (thông tục) sự om sòm, sự huyên náo
+=to kick up (make) a row+ làm om lên
+=what's the row?+ việc gì mà om lên thế?
+- cuộc câi lộn; cuộc đánh lộn
+=to have a row with someone+ đánh lộn với ai
+- sự khiển trách, sự quở trách, sự mắng mỏ
+=to get into a row+ bị khiển trách
+*  ngoại động từ
+- khiển trách, quở trách, mắng mỏ (ai)
+*  nội động từ
+- làm om sòm
+- câi nhau om sòm; đánh lộn (với ai...)
+=to row with someone+ câi nhau om sòm với ai; đánh lộn với ai
+@Chuyên ngành kinh tế
+-bánh mì nhỏ
+@Chuyên ngành kỹ thuật
+-chuỗi
+-dãy
+-dòng
+-hàng
+-lái
+-loạt
+@Lĩnh vực: giao thông & vận tải
+-bơi thuyền
+-chèo (thuyền)
+@Lĩnh vực: toán & tin
+-hàng (ma trận)
+-hàng lỗ (đục)

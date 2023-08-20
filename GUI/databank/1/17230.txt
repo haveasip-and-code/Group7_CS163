@@ -1,3 +1,17 @@
-easement
-	@easement /'i:zmənt/\n*  danh từ\n- (pháp lý) quyền đi qua; quyền xây cất (trên đất người khác)\n- nhà phụ, công trình kiến trúc phụ\n- (từ cổ,nghĩa cổ) sự làm dịu (đau...)\n@Chuyên ngành kinh tế\n-địa dịch\n-quyền địa dịch\n-quyền địa dịch (như quyền sử dụng lối đi...)\n-quyền sử dụng đất của người khác\n@Chuyên ngành kỹ thuật\n-công trình phụ\n-nhà phụ\n-quyền sử dụng\n@Lĩnh vực: xây dựng\n-quyền địa dịch
-
+easement	
+@easement /'i:zmənt/
+*  danh từ
+- (pháp lý) quyền đi qua; quyền xây cất (trên đất người khác)
+- nhà phụ, công trình kiến trúc phụ
+- (từ cổ,nghĩa cổ) sự làm dịu (đau...)
+@Chuyên ngành kinh tế
+-địa dịch
+-quyền địa dịch
+-quyền địa dịch (như quyền sử dụng lối đi...)
+-quyền sử dụng đất của người khác
+@Chuyên ngành kỹ thuật
+-công trình phụ
+-nhà phụ
+-quyền sử dụng
+@Lĩnh vực: xây dựng
+-quyền địa dịch

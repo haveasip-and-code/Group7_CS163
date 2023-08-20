@@ -1,3 +1,10 @@
-tuition
-	@tuition /tju:'iʃn/\n*  danh từ\n- sự dạy học, sự giảng dạy\n=private tuition+ sự dạy tư\n=postal tuition+ sự giảng dạy bằng thư\n- tiền học, học phí\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-học phí\n-tiền học
-
+tuition	@tuition /tju:'iʃn/
+*  danh từ
+- sự dạy học, sự giảng dạy
+=private tuition+ sự dạy tư
+=postal tuition+ sự giảng dạy bằng thư
+- tiền học, học phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-học phí
+-tiền học

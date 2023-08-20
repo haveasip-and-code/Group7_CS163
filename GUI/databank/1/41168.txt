@@ -1,3 +1,6 @@
-phon
-	@phon /fɔn/\n*  danh từ\n- (vật lý) Phôn (đơn vị âm lượng)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-phon
-
+phon	@phon /fɔn/
+*  danh từ
+- (vật lý) Phôn (đơn vị âm lượng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-phon

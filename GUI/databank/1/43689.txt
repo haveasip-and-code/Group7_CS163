@@ -1,3 +1,6 @@
-prismoid
-	@prismoid /prismoid/\n*  danh từ\n- (toán học) lăng trụ cụt\n@Chuyên ngành kỹ thuật\n-hình lăng trụ cụt\n-lăng trụ cụt
-
+prismoid	@prismoid /prismoid/
+*  danh từ
+- (toán học) lăng trụ cụt
+@Chuyên ngành kỹ thuật
+-hình lăng trụ cụt
+-lăng trụ cụt

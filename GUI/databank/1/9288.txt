@@ -1,3 +1,9 @@
-chromosome
-	@chromosome /'krouməsoum/\n*  danh từ\n- (sinh vật học) nhiễm thể, thể nhiễm sắc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nhiễm sắc thể\n@Lĩnh vực: hóa học & vật liệu\n-thể nhiễm sắc
-
+chromosome	
+@chromosome /'krouməsoum/
+*  danh từ
+- (sinh vật học) nhiễm thể, thể nhiễm sắc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nhiễm sắc thể
+@Lĩnh vực: hóa học & vật liệu
+-thể nhiễm sắc

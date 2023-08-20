@@ -1,3 +1,6 @@
-photoreaction
-	@photoreaction\n* danh từ\n- phản ứng quang hoá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phản ứng quang hóa
-
+photoreaction	@photoreaction
+* danh từ
+- phản ứng quang hoá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phản ứng quang hóa

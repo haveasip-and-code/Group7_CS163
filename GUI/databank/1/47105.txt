@@ -1,3 +1,45 @@
-resistance
-	@resistance /ri'zistəns/\n*  danh từ\n- sự chống cự, sự kháng cự, sự đề kháng\n=a war of resistance+ cuộc kháng chiến\n- (vật lý) điện trở\n=resistance box+ hộp điện trở\n- tính chống, sức bền, độ chịu\n=frictional resistance+ độ chịu ma sát\n=resistance to corrosion+ tính chống gặm mòn\n!to take the line of least resistance\n- chọn con đường dễ nhất, chọn phương pháp dễ nhất\n@Chuyên ngành kinh tế\n-độ bền\n-sự chống cự\n-sự đề kháng\n-sức bền\n@Chuyên ngành kỹ thuật\n-điện trở\n-điện trở (giá trị)\n-điện trở (linh kiện)\n-lực cản\n-lực cản (chuyển động)\n-lực kháng\n-nhựa tổng hợp\n-phản lực\n-phản ứng\n-sức bền\n-sức cản\n-sức chịu\n-sức chống chịu\n-sức kháng\n-tính bền\n@Lĩnh vực: điện\n-điện trở R\n-sức cản điện\n-tính chịu đựng\n-trị số điện trở\n@Lĩnh vực: toán & tin\n-độ cản\n-độ kháng\n@Lĩnh vực: xây dựng\n-sức chống\n@Lĩnh vực: điện lạnh\n-tính chịu\n-tính kháng
-
+resistance	@resistance /ri'zistəns/
+*  danh từ
+- sự chống cự, sự kháng cự, sự đề kháng
+=a war of resistance+ cuộc kháng chiến
+- (vật lý) điện trở
+=resistance box+ hộp điện trở
+- tính chống, sức bền, độ chịu
+=frictional resistance+ độ chịu ma sát
+=resistance to corrosion+ tính chống gặm mòn
+!to take the line of least resistance
+- chọn con đường dễ nhất, chọn phương pháp dễ nhất
+@Chuyên ngành kinh tế
+-độ bền
+-sự chống cự
+-sự đề kháng
+-sức bền
+@Chuyên ngành kỹ thuật
+-điện trở
+-điện trở (giá trị)
+-điện trở (linh kiện)
+-lực cản
+-lực cản (chuyển động)
+-lực kháng
+-nhựa tổng hợp
+-phản lực
+-phản ứng
+-sức bền
+-sức cản
+-sức chịu
+-sức chống chịu
+-sức kháng
+-tính bền
+@Lĩnh vực: điện
+-điện trở R
+-sức cản điện
+-tính chịu đựng
+-trị số điện trở
+@Lĩnh vực: toán & tin
+-độ cản
+-độ kháng
+@Lĩnh vực: xây dựng
+-sức chống
+@Lĩnh vực: điện lạnh
+-tính chịu
+-tính kháng

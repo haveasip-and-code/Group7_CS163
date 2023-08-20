@@ -1,3 +1,2 @@
-pencilling
-	@pencilling\n- xem penciling
-
+pencilling	@pencilling
+- xem penciling

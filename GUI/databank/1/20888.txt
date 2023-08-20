@@ -1,3 +1,8 @@
-fib
-	@fib /fib/\n*  danh từ\n- điều nói dối nhỏ; chuyện bịa\n*  nội động từ\n- nói dối, nói bịa\n*  danh từ\n- (thể dục,thể thao) cú đấm (quyền Anh)
-
+fib	
+@fib /fib/
+*  danh từ
+- điều nói dối nhỏ; chuyện bịa
+*  nội động từ
+- nói dối, nói bịa
+*  danh từ
+- (thể dục,thể thao) cú đấm (quyền Anh)

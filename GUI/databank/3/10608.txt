@@ -1,3 +1,28 @@
-commutator
-	@commutator /'kɔmju:teitə/\n*  danh từ\n- người thay thế, vật thay thế, người thay, vật thay\n- (điện học) cái đảo mạch, cái chuyển mạch\n=electronic commutator+ cái chuyển mạch điện tử\n- (toán học) hoán tử\n@Chuyên ngành kỹ thuật\n-chuyển mạch\n-giao hoán tử\n-ống góp\n-ống tụ\n-vành góp\n-vành góp điện\n@Lĩnh vực: ô tô\n-bô chuyển mạch\n@Lĩnh vực: điện\n-bộ đảo chiều\n-bộ đổi nối\n-bộ góp điện\n-vàng góp điện\n@Lĩnh vực: cơ khí & công trình\n-đường ống (của máy)\n@Lĩnh vực: toán & tin\n-hoán tử\n@Lĩnh vực: điện tử & viễn thông\n-núm chỉnh lưu\n@Lĩnh vực: điện lạnh\n-vành đổi chiều
-
+commutator	@commutator /'kɔmju:teitə/
+*  danh từ
+- người thay thế, vật thay thế, người thay, vật thay
+- (điện học) cái đảo mạch, cái chuyển mạch
+=electronic commutator+ cái chuyển mạch điện tử
+- (toán học) hoán tử
+@Chuyên ngành kỹ thuật
+-chuyển mạch
+-giao hoán tử
+-ống góp
+-ống tụ
+-vành góp
+-vành góp điện
+@Lĩnh vực: ô tô
+-bô chuyển mạch
+@Lĩnh vực: điện
+-bộ đảo chiều
+-bộ đổi nối
+-bộ góp điện
+-vàng góp điện
+@Lĩnh vực: cơ khí & công trình
+-đường ống (của máy)
+@Lĩnh vực: toán & tin
+-hoán tử
+@Lĩnh vực: điện tử & viễn thông
+-núm chỉnh lưu
+@Lĩnh vực: điện lạnh
+-vành đổi chiều

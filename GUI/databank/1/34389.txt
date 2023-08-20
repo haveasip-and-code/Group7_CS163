@@ -1,3 +1,6 @@
-merchanting
-	@Chuyên ngành kinh tế\n-buôn bán\n-mậu dịch\n-mua bán\n-việc buôn bán\n-việc mua bán
-
+merchanting	@Chuyên ngành kinh tế
+-buôn bán
+-mậu dịch
+-mua bán
+-việc buôn bán
+-việc mua bán

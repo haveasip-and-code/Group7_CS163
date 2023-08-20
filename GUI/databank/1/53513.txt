@@ -1,3 +1,129 @@
-stop
-	@stop /stɔp/\n*  danh từ\n- sự ngừng lại, sư dừng, sự đỗ lại\n=to put a stop to something+ ngừng việc gì\n=to come to a stop+ dừng lại\n- sự ở lại, sự lưu lại\n- chỗ đỗ (xe khách...)\n- dấu chấm câu\n=full stop+ chấm hết\n=everything comes to a full stop+ mọi việc thế là hết\n- (âm nhạc) sự ngừng để đổi giọng; sự bấm (kèn...); phím (đàn)\n- điệu nói\n=to put on (pull out) the pathetic stop+ lấy điệu nói thông thiết\n- que chặn, sào chặn\n- (vật lý) cái chắn sáng\n- (ngôn ngữ học) phụ âm tắc\n- (hàng hải) đoạn dây chão, đoạn dây thừng (để buộc)\n- (như) stop-order\n*  ngoại động từ\n- ngừng, nghỉ, thôi\n=to stop doing something+ ngừng lại việc gì; thôi làm việc gì\n=stop your complaints+ thôi đừng phàn nàn nữa\n- chặn, ngăn chặn\n=to stop ball+ chặn bóng\n=to stop blow+ chặn một cú đánh\n=stop thief!+ bắt thằng ăn trộm!\n=to stop progress+ ngăn cản bước tiến\n=thick walls stop sound+ tường dày cản âm\n=to stop somebody from doing something+ ngăn cản không cho ai làm việc gì\n=I shall stop that nonsense+ tôi sẽ chặn ngay điều vô lý đó\n- cắt, cúp, treo giò\n=to stop water+ cắt nước\n=to stop wages+ cúp lương\n=to stop holidays+ treo giò ngày nghỉ\n=to stop payment+ tuyên bố không trả được nợ; vỡ nợ\n- bịt lại, nút lại, hàn\n=to stop a leak+ bịt lỗ gò\n=to stop one's ears+ bị lỗ tai; (bóng) không chịu nghe\n=to stop a wound+ làm cầm máu một vết thương\n=to stop a tooth+ hàn một cái răng\n- chấm câu\n- (âm nhạc) bấm (dây đàn)\n- (hàng hải) buộc (dây) cho chặt\n*  nội động từ\n- ngừng lại, đứng lại\n=the train stops+ xe lửa dừng lại\n=he stopped in the middle of a sentence+ nó ngừng lại ở giữa câu\n=my watch has stopped+ đồng hồ tôi đứng mất rồi, đồng hồ chết rồi\n- (thông tục) lưu lại, ở lại\n=to stop at home+ ở nhà\n=to stop in Namdinh with friends+ lưu lại ở Nam định với các bạn\n!to stop down\n- (nhiếp ảnh) chắn bớt sáng\n!to stop off\n- (từ Mỹ,nghĩa Mỹ) đỗ lại, nghỉ lại (trong cuộc đi)\n- (kỹ thuật) đổ cát vào (phần khuôn không dùng)\n!to stop out\n- (kỹ thuật) quét sơn bảo vệ chống axit\n!to stop over\n- (từ Mỹ,nghĩa Mỹ) sự đỗ lại, sự ngừng lại (trong một cuộc đi) ((như) stop_off)\n!to stop blow with one's head\n-(đùa cợt) đưa đầu ra đỡ đòn; bị đòn\n!to stop a bullet\n!to stop one\n- (từ lóng) bị ăn đạn\n!to stop a gap\n- (xem) gap\n!to stop somebody's breath\n- bóp cổ ai cho đến chết\n!to stop somebody's mouth\n- đấm mõm ai (hối lộ cho đừng nói)\n!to stop the way\n- ngăn cản bước đi; ngăn cản sự tiến bộ\n@Chuyên ngành kinh tế\n-chỗ đỗ\n-sự ngừng lại\n@Chuyên ngành kỹ thuật\n-bến dừng\n-bến tàu (giao thông)\n-bến xe\n-bộ định vị\n-cách ly\n-cái chắn\n-cái chặt\n-chắn\n-chỗ dừng\n-cơ cấu hạn vị\n-cố định\n-cữ chặn\n-dấu chấm câu\n-đậu xe\n-điểm dừng\n-đóng\n-dừng\n-dụng cụ chặn\n-dụng cụ giảm va\n-dụng cụ khóa\n-dừng lại\n-giữ\n-gương lò chợ\n-hàng xây chắn ẩm\n-kẹp chặt\n-khóa\n-lớp chắn\n-lớp chắn ẩm\n-ngưng\n-ngừng\n-ngừng lại. dừng lại\n-mạch ngăn ẩm\n-móc hãm\n-sự chặn\n-sự dùng\n-sự dừng\n-sự dừng lại\n-sự ngắt máy\n-sự ngừng lại\n-sự treo (máy tính)\n-thanh chống\n-treo\n-trụ chống\n-vấu\n@Lĩnh vực: xây dựng\n-bịt kẽ\n-chắn (ẩm)\n-chỗ đỗ xe\n-chốt chặn\n@Lĩnh vực: cơ khí & công trình\n-bộ phận định vị\n-chỗ đứng
-
+stop	@stop /stɔp/
+*  danh từ
+- sự ngừng lại, sư dừng, sự đỗ lại
+=to put a stop to something+ ngừng việc gì
+=to come to a stop+ dừng lại
+- sự ở lại, sự lưu lại
+- chỗ đỗ (xe khách...)
+- dấu chấm câu
+=full stop+ chấm hết
+=everything comes to a full stop+ mọi việc thế là hết
+- (âm nhạc) sự ngừng để đổi giọng; sự bấm (kèn...); phím (đàn)
+- điệu nói
+=to put on (pull out) the pathetic stop+ lấy điệu nói thông thiết
+- que chặn, sào chặn
+- (vật lý) cái chắn sáng
+- (ngôn ngữ học) phụ âm tắc
+- (hàng hải) đoạn dây chão, đoạn dây thừng (để buộc)
+- (như) stop-order
+*  ngoại động từ
+- ngừng, nghỉ, thôi
+=to stop doing something+ ngừng lại việc gì; thôi làm việc gì
+=stop your complaints+ thôi đừng phàn nàn nữa
+- chặn, ngăn chặn
+=to stop ball+ chặn bóng
+=to stop blow+ chặn một cú đánh
+=stop thief!+ bắt thằng ăn trộm!
+=to stop progress+ ngăn cản bước tiến
+=thick walls stop sound+ tường dày cản âm
+=to stop somebody from doing something+ ngăn cản không cho ai làm việc gì
+=I shall stop that nonsense+ tôi sẽ chặn ngay điều vô lý đó
+- cắt, cúp, treo giò
+=to stop water+ cắt nước
+=to stop wages+ cúp lương
+=to stop holidays+ treo giò ngày nghỉ
+=to stop payment+ tuyên bố không trả được nợ; vỡ nợ
+- bịt lại, nút lại, hàn
+=to stop a leak+ bịt lỗ gò
+=to stop one's ears+ bị lỗ tai; (bóng) không chịu nghe
+=to stop a wound+ làm cầm máu một vết thương
+=to stop a tooth+ hàn một cái răng
+- chấm câu
+- (âm nhạc) bấm (dây đàn)
+- (hàng hải) buộc (dây) cho chặt
+*  nội động từ
+- ngừng lại, đứng lại
+=the train stops+ xe lửa dừng lại
+=he stopped in the middle of a sentence+ nó ngừng lại ở giữa câu
+=my watch has stopped+ đồng hồ tôi đứng mất rồi, đồng hồ chết rồi
+- (thông tục) lưu lại, ở lại
+=to stop at home+ ở nhà
+=to stop in Namdinh with friends+ lưu lại ở Nam định với các bạn
+!to stop down
+- (nhiếp ảnh) chắn bớt sáng
+!to stop off
+- (từ Mỹ,nghĩa Mỹ) đỗ lại, nghỉ lại (trong cuộc đi)
+- (kỹ thuật) đổ cát vào (phần khuôn không dùng)
+!to stop out
+- (kỹ thuật) quét sơn bảo vệ chống axit
+!to stop over
+- (từ Mỹ,nghĩa Mỹ) sự đỗ lại, sự ngừng lại (trong một cuộc đi) ((như) stop_off)
+!to stop blow with one's head
+-(đùa cợt) đưa đầu ra đỡ đòn; bị đòn
+!to stop a bullet
+!to stop one
+- (từ lóng) bị ăn đạn
+!to stop a gap
+- (xem) gap
+!to stop somebody's breath
+- bóp cổ ai cho đến chết
+!to stop somebody's mouth
+- đấm mõm ai (hối lộ cho đừng nói)
+!to stop the way
+- ngăn cản bước đi; ngăn cản sự tiến bộ
+@Chuyên ngành kinh tế
+-chỗ đỗ
+-sự ngừng lại
+@Chuyên ngành kỹ thuật
+-bến dừng
+-bến tàu (giao thông)
+-bến xe
+-bộ định vị
+-cách ly
+-cái chắn
+-cái chặt
+-chắn
+-chỗ dừng
+-cơ cấu hạn vị
+-cố định
+-cữ chặn
+-dấu chấm câu
+-đậu xe
+-điểm dừng
+-đóng
+-dừng
+-dụng cụ chặn
+-dụng cụ giảm va
+-dụng cụ khóa
+-dừng lại
+-giữ
+-gương lò chợ
+-hàng xây chắn ẩm
+-kẹp chặt
+-khóa
+-lớp chắn
+-lớp chắn ẩm
+-ngưng
+-ngừng
+-ngừng lại. dừng lại
+-mạch ngăn ẩm
+-móc hãm
+-sự chặn
+-sự dùng
+-sự dừng
+-sự dừng lại
+-sự ngắt máy
+-sự ngừng lại
+-sự treo (máy tính)
+-thanh chống
+-treo
+-trụ chống
+-vấu
+@Lĩnh vực: xây dựng
+-bịt kẽ
+-chắn (ẩm)
+-chỗ đỗ xe
+-chốt chặn
+@Lĩnh vực: cơ khí & công trình
+-bộ phận định vị
+-chỗ đứng

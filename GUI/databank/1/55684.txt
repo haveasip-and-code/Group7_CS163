@@ -1,3 +1,5 @@
-tautomer
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-chất hỗ biến\n@Lĩnh vực: hóa học & vật liệu\n-chất hỗn biến
-
+tautomer	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-chất hỗ biến
+@Lĩnh vực: hóa học & vật liệu
+-chất hỗn biến

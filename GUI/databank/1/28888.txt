@@ -1,3 +1,31 @@
-insertion
-	@insertion /in'sə:ʃn/\n*  danh từ\n- sự lồng vào, sự gài vào\n- sự cho (chữ, từ...) vào (tài liệu...); lần đăng bài... (trong báo...)\n- (từ Mỹ,nghĩa Mỹ) bài quảng cáo (đăng trong báo)\n- viền ren\n- (số nhiều) chỗ dính; cách dính (một cơ quan trên cơ thể)\n@Chuyên ngành kinh tế\n-bài quảng cáo\n-cài vào\n-chèn vào\n-đăng quảng cáo\n-đăng vào (báo...)\n-lồng vào\n-phần phụ đính\n-tờ phụ đính\n@Chuyên ngành kỹ thuật\n-sự chèn\n-sự điền vào\n-sự dính\n-sự đưa vào\n-sự gài\n-sự lồng\n@Lĩnh vực: xây dựng\n-ráp thêm vào\n-thành phần lắp vào\n-vật xen vào\n@Lĩnh vực: hóa học & vật liệu\n-sự gài vào\n-sự lắp vào
-
+insertion	
+@insertion /in'sə:ʃn/
+*  danh từ
+- sự lồng vào, sự gài vào
+- sự cho (chữ, từ...) vào (tài liệu...); lần đăng bài... (trong báo...)
+- (từ Mỹ,nghĩa Mỹ) bài quảng cáo (đăng trong báo)
+- viền ren
+- (số nhiều) chỗ dính; cách dính (một cơ quan trên cơ thể)
+@Chuyên ngành kinh tế
+-bài quảng cáo
+-cài vào
+-chèn vào
+-đăng quảng cáo
+-đăng vào (báo...)
+-lồng vào
+-phần phụ đính
+-tờ phụ đính
+@Chuyên ngành kỹ thuật
+-sự chèn
+-sự điền vào
+-sự dính
+-sự đưa vào
+-sự gài
+-sự lồng
+@Lĩnh vực: xây dựng
+-ráp thêm vào
+-thành phần lắp vào
+-vật xen vào
+@Lĩnh vực: hóa học & vật liệu
+-sự gài vào
+-sự lắp vào

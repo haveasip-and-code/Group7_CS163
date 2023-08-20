@@ -1,3 +1,7 @@
-chemist
-	@chemist /'kemist/\n*  danh từ\n- nhà hoá học\n- (Anh) người bán dược phẩm\n@Chuyên ngành kỹ thuật\n-bào chế\n-nhà hóa học
-
+chemist	@chemist /'kemist/
+*  danh từ
+- nhà hoá học
+- (Anh) người bán dược phẩm
+@Chuyên ngành kỹ thuật
+-bào chế
+-nhà hóa học

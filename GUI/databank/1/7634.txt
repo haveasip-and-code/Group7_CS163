@@ -1,3 +1,47 @@
-camber
-	@camber /'kæmbə/\n*  danh từ\n- sự khum lên, sự vồng lên (của mặt đường...)\n- mặt khum, mặt vồng\n- (kiến trúc) cái xà vồng ((cũng) camber beam)\n*  động từ\n- làm cho khum lên, làm cho vồng lên, khum lên, vồng lên\n@Chuyên ngành kỹ thuật\n-bẻ cong\n-chỗ cong\n-chỗ lồi\n-chỗ uốn\n-độ cong\n-độ khum\n-độ võng\n-độ vồng\n-khum lại\n-làm khung\n-làm vênh\n-mặt cong\n-mặt khum\n-mặt võng\n-mặt vồng\n-mũi tên vòm\n-sự uốn\n-sự võng\n-uốn cong\n-vồng lên\n@Lĩnh vực: xây dựng\n-buồng cửa van\n-đà cong\n-dạng khum\n-độ tiền khuynh\n-độ vồng ngược\n-độ vồng xây dựng\n-hình cong\n-mũi tên vòng\n-xà vồng\n@Lĩnh vực: ô tô\n-chỗ lồi lên\n-góc cam\n-góc camber\n-sự vồng lên\n@Lĩnh vực: cơ khí & công trình\n-sự khum\n-sự vồng
-
+camber	
+@camber /'kæmbə/
+*  danh từ
+- sự khum lên, sự vồng lên (của mặt đường...)
+- mặt khum, mặt vồng
+- (kiến trúc) cái xà vồng ((cũng) camber beam)
+*  động từ
+- làm cho khum lên, làm cho vồng lên, khum lên, vồng lên
+@Chuyên ngành kỹ thuật
+-bẻ cong
+-chỗ cong
+-chỗ lồi
+-chỗ uốn
+-độ cong
+-độ khum
+-độ võng
+-độ vồng
+-khum lại
+-làm khung
+-làm vênh
+-mặt cong
+-mặt khum
+-mặt võng
+-mặt vồng
+-mũi tên vòm
+-sự uốn
+-sự võng
+-uốn cong
+-vồng lên
+@Lĩnh vực: xây dựng
+-buồng cửa van
+-đà cong
+-dạng khum
+-độ tiền khuynh
+-độ vồng ngược
+-độ vồng xây dựng
+-hình cong
+-mũi tên vòng
+-xà vồng
+@Lĩnh vực: ô tô
+-chỗ lồi lên
+-góc cam
+-góc camber
+-sự vồng lên
+@Lĩnh vực: cơ khí & công trình
+-sự khum
+-sự vồng

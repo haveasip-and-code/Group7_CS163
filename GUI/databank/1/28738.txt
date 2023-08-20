@@ -1,3 +1,17 @@
-inn
-	@inn /in/\n*  danh từ\n- quán trọ, khách sạn nhỏ (ở nông thôn, thị trấn)\n- (Inn) nhà nội trú (của học sinh đại học)\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) cho ở trọ\n*  nội động từ\n- (từ Mỹ,nghĩa Mỹ) ở trọ\n@Chuyên ngành kinh tế\n-khách sạn nhỏ\n-lữ quán\n-quán trọ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà khách\n-quán trọ
-
+inn	
+@inn /in/
+*  danh từ
+- quán trọ, khách sạn nhỏ (ở nông thôn, thị trấn)
+- (Inn) nhà nội trú (của học sinh đại học)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) cho ở trọ
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ) ở trọ
+@Chuyên ngành kinh tế
+-khách sạn nhỏ
+-lữ quán
+-quán trọ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà khách
+-quán trọ

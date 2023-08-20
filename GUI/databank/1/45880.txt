@@ -1,3 +1,39 @@
-recall
-	@recall /ri'kɔ:l/\n*  danh từ\n- sự gọi về, sự đòi về, sự triệu về, sự triệu hồi (một đại sứ...)\n=letters of recall+ thư triệu hồi\n- (quân sự) hiệu lệnh thu quân; lệnh gọi tái ngũ (quân dự bị...); (hàng hải) tín hiệu gọi về (một chiếc tàu...)\n- sự nhắc nhở\n- khả năng huỷ bỏ; sự rút lại, sự lấy lại\n=a decision past recall+ một quyết định không thể huỷ bỏ được\n=lost without recall+ mất hẳn không lấy lại được\n=beyond (past) recall+ không thể lấy lại được, không thể huỷ bỏ được; bị lãng quên\n- (từ Mỹ,nghĩa Mỹ) bị bâi miễn (một đại biểu quốc hội...)\n*  ngoại động từ\n- gọi về, đòi về, triệu về, triệu hồi\n=to recall an ambassador+ triệu hồi một đại sứ\n- (quân sự) thu (quân); gọi tái ngũ (quân dự bị...); (hàng hải) gọi trở về (một chiếc tàu)\n- nhắc nhở, nhắc lại, gợi lại\n=to recall someone to his duty+ nhắc nhở ai nhớ đến nhiệm vụ của mình\n=legends that recall the past+ những truyền thuyết gợi lại dĩ vãng\n- nhớ, nhớ lại\n=to recall someone's name+ nhớ lại tên ai\n- làm sống lại, gọi tỉnh lại\n=to recall someone to life+ gọi người nào tỉnh lại\n- huỷ bỏ; rút lại, lấy lại\n=to recall a decision+ huỷ bỏ một quyết nghị\n- (từ Mỹ,nghĩa Mỹ) bâi miễn (một đại biểu quốc hội...)\n@Chuyên ngành kinh tế\n-sự thu hồi\n-thông báo thu hồi\n-thông báo thu hồi (cho những sản phẩm có khuyết điểm)\n@Chuyên ngành kỹ thuật\n-gọi lại\n-sự gọi lại\n-sự rút lại\n@Lĩnh vực: xây dựng\n-gọi về\n@Lĩnh vực: hóa học & vật liệu\n-khả năng hủy bỏ (hợp đồng)\n@Lĩnh vực: toán & tin\n-nhớ lại, gọi lại
-
+recall	@recall /ri'kɔ:l/
+*  danh từ
+- sự gọi về, sự đòi về, sự triệu về, sự triệu hồi (một đại sứ...)
+=letters of recall+ thư triệu hồi
+- (quân sự) hiệu lệnh thu quân; lệnh gọi tái ngũ (quân dự bị...); (hàng hải) tín hiệu gọi về (một chiếc tàu...)
+- sự nhắc nhở
+- khả năng huỷ bỏ; sự rút lại, sự lấy lại
+=a decision past recall+ một quyết định không thể huỷ bỏ được
+=lost without recall+ mất hẳn không lấy lại được
+=beyond (past) recall+ không thể lấy lại được, không thể huỷ bỏ được; bị lãng quên
+- (từ Mỹ,nghĩa Mỹ) bị bâi miễn (một đại biểu quốc hội...)
+*  ngoại động từ
+- gọi về, đòi về, triệu về, triệu hồi
+=to recall an ambassador+ triệu hồi một đại sứ
+- (quân sự) thu (quân); gọi tái ngũ (quân dự bị...); (hàng hải) gọi trở về (một chiếc tàu)
+- nhắc nhở, nhắc lại, gợi lại
+=to recall someone to his duty+ nhắc nhở ai nhớ đến nhiệm vụ của mình
+=legends that recall the past+ những truyền thuyết gợi lại dĩ vãng
+- nhớ, nhớ lại
+=to recall someone's name+ nhớ lại tên ai
+- làm sống lại, gọi tỉnh lại
+=to recall someone to life+ gọi người nào tỉnh lại
+- huỷ bỏ; rút lại, lấy lại
+=to recall a decision+ huỷ bỏ một quyết nghị
+- (từ Mỹ,nghĩa Mỹ) bâi miễn (một đại biểu quốc hội...)
+@Chuyên ngành kinh tế
+-sự thu hồi
+-thông báo thu hồi
+-thông báo thu hồi (cho những sản phẩm có khuyết điểm)
+@Chuyên ngành kỹ thuật
+-gọi lại
+-sự gọi lại
+-sự rút lại
+@Lĩnh vực: xây dựng
+-gọi về
+@Lĩnh vực: hóa học & vật liệu
+-khả năng hủy bỏ (hợp đồng)
+@Lĩnh vực: toán & tin
+-nhớ lại, gọi lại

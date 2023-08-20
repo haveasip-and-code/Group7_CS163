@@ -1,3 +1,2 @@
-smokestack
-	@Chuyên ngành kinh tế\n-ống khói nhà máy
-
+smokestack	@Chuyên ngành kinh tế
+-ống khói nhà máy

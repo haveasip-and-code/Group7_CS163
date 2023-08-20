@@ -1,3 +1,6 @@
-measures
-	@Chuyên ngành kỹ thuật\n-biện pháp\n-điệp\n-vỉa\n@Lĩnh vực: hóa học & vật liệu\n-vỉa đồng nhất
-
+measures	@Chuyên ngành kỹ thuật
+-biện pháp
+-điệp
+-vỉa
+@Lĩnh vực: hóa học & vật liệu
+-vỉa đồng nhất

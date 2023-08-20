@@ -1,3 +1,18 @@
-hierarchy
-	@hierarchy\n* danh từ\n- hệ thống cấp bậc; thứ bậc, tôn ti (trong giới tu hành công giáo, trong chính quyền, trong các tổ chức...)\n- thiên thần, các thiên thần\n@Chuyên ngành kinh tế\n-hệ thống cấp bậc\n-thứ bậc\n@Chuyên ngành kỹ thuật\n-đẳng cấp\n-hệ phân cấp\n-ngôi thứ\n-sự phân cấp\n@Lĩnh vực: toán & tin\n-hệ thứ bậc\n-trật tự\n@Lĩnh vực: xây dựng\n-tôn ti
-
+hierarchy	
+@hierarchy
+* danh từ
+- hệ thống cấp bậc; thứ bậc, tôn ti (trong giới tu hành công giáo, trong chính quyền, trong các tổ chức...)
+- thiên thần, các thiên thần
+@Chuyên ngành kinh tế
+-hệ thống cấp bậc
+-thứ bậc
+@Chuyên ngành kỹ thuật
+-đẳng cấp
+-hệ phân cấp
+-ngôi thứ
+-sự phân cấp
+@Lĩnh vực: toán & tin
+-hệ thứ bậc
+-trật tự
+@Lĩnh vực: xây dựng
+-tôn ti

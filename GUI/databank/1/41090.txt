@@ -1,3 +1,5 @@
-phenomenological
-	@phenomenological\n- xem phenomenology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hiện tượng luận
-
+phenomenological	@phenomenological
+- xem phenomenology
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hiện tượng luận

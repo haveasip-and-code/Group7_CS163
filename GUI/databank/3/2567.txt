@@ -1,3 +1,6 @@
-antiglare
-	@antiglare\n- (Tech) chống phản chiếu, chống lóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-chống phản xạ\n-khử phản xạ
-
+antiglare	@antiglare
+- (Tech) chống phản chiếu, chống lóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-chống phản xạ
+-khử phản xạ

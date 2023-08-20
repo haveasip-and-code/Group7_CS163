@@ -1,3 +1,6 @@
-glossa
-	@glossa\n* danh từ; số nhiều glossae\n- lưỡi; bộ phận hình lưỡi\n@Chuyên ngành kỹ thuật\n-lưỡi
-
+glossa	
+@glossa
+* danh từ; số nhiều glossae
+- lưỡi; bộ phận hình lưỡi
+@Chuyên ngành kỹ thuật
+-lưỡi

@@ -1,3 +1,11 @@
-pulling
-	@Chuyên ngành kinh tế\n-dụng cụ nhổ\n-máy đào\n-người kéo\n-thiết bị kéo\n@Chuyên ngành kỹ thuật\n-sự kéo\n-sự kéo (tần)\n-sức căng\n-sức kéo\n-vết nứt do kéo
-
+pulling	@Chuyên ngành kinh tế
+-dụng cụ nhổ
+-máy đào
+-người kéo
+-thiết bị kéo
+@Chuyên ngành kỹ thuật
+-sự kéo
+-sự kéo (tần)
+-sức căng
+-sức kéo
+-vết nứt do kéo

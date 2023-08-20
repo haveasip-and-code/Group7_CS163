@@ -1,3 +1,17 @@
-prismatic
-	@prismatic /prismatic/\n*  tính từ\n- (thuộc) lăng trụ; giống lăng trụ\n=prismatic powder+ thuốc súng có hạt hình lăng trụ\n- (thuộc) lăng kính; giống lăng kính\n=prismatic compass+ la bàn lăng kính\n- hợp bởi lăng kính; phân ra bởi lăng kính; sáng rực rỡ (màu sắc)\n=prismatic coplours+ màu sắc lăng kính, màu sắc rực rỡ\n@Chuyên ngành kỹ thuật\n-lăng kính\n-lăng trụ\n@Lĩnh vực: điện\n-có dạng lăng trụ\n@Lĩnh vực: toán & tin\n-hình lăng trụ\n@Lĩnh vực: xây dựng\n-thuộc hình lăng trụ
-
+prismatic	@prismatic /prismatic/
+*  tính từ
+- (thuộc) lăng trụ; giống lăng trụ
+=prismatic powder+ thuốc súng có hạt hình lăng trụ
+- (thuộc) lăng kính; giống lăng kính
+=prismatic compass+ la bàn lăng kính
+- hợp bởi lăng kính; phân ra bởi lăng kính; sáng rực rỡ (màu sắc)
+=prismatic coplours+ màu sắc lăng kính, màu sắc rực rỡ
+@Chuyên ngành kỹ thuật
+-lăng kính
+-lăng trụ
+@Lĩnh vực: điện
+-có dạng lăng trụ
+@Lĩnh vực: toán & tin
+-hình lăng trụ
+@Lĩnh vực: xây dựng
+-thuộc hình lăng trụ

@@ -1,3 +1,4 @@
-projections
-	@Chuyên ngành kỹ thuật\n-chỗ lồi ra\n-dự thảo\n-nhô ra
-
+projections	@Chuyên ngành kỹ thuật
+-chỗ lồi ra
+-dự thảo
+-nhô ra

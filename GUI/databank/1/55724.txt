@@ -1,3 +1,6 @@
-teammate
-	@Chuyên ngành kinh tế\n-bạn đồng đội\n-đội viên cùng đội\n-người cùng đội\n@Chuyên ngành kỹ thuật\n-đồng đội
-
+teammate	@Chuyên ngành kinh tế
+-bạn đồng đội
+-đội viên cùng đội
+-người cùng đội
+@Chuyên ngành kỹ thuật
+-đồng đội

@@ -1,3 +1,21 @@
-electrify
-	@electrify /i'lektrifai/ (electrise) /i'lektraiz/ (electrize) /i'lektraiz/\n*  ngoại động từ\n- cho nhiễm điện\n- cho điện giật\n- điện khí hoá\n- (nghĩa bóng) làm giật nảy người, kích thích\n@Chuyên ngành kỹ thuật\n-nhiễm điện\n@Lĩnh vực: xây dựng\n-bắt điện\n-truyền điện\n@Lĩnh vực: toán & tin\n-điện khí hóa\n@Chuyên ngành kỹ thuật\n-nhiễm điện\n@Lĩnh vực: xây dựng\n-bắt điện\n-truyền điện\n@Lĩnh vực: toán & tin\n-điện khí hóa
-
+electrify	
+@electrify /i'lektrifai/ (electrise) /i'lektraiz/ (electrize) /i'lektraiz/
+*  ngoại động từ
+- cho nhiễm điện
+- cho điện giật
+- điện khí hoá
+- (nghĩa bóng) làm giật nảy người, kích thích
+@Chuyên ngành kỹ thuật
+-nhiễm điện
+@Lĩnh vực: xây dựng
+-bắt điện
+-truyền điện
+@Lĩnh vực: toán & tin
+-điện khí hóa
+@Chuyên ngành kỹ thuật
+-nhiễm điện
+@Lĩnh vực: xây dựng
+-bắt điện
+-truyền điện
+@Lĩnh vực: toán & tin
+-điện khí hóa

@@ -1,3 +1,19 @@
-guidance
-	@guidance\n* danh từ\n- sự chỉ đạo, sự hướng dẫn; sự dìu dắt\n@Chuyên ngành kinh tế\n-dẫn đạo\n-hướng dẫn\n-lãnh đạo\n-tư vấn\n@Chuyên ngành kỹ thuật\n-sự điều khiển\n-sự định hướng\n-sự hướng dẫn\n@Lĩnh vực: hóa học & vật liệu\n-sự chỉ đạo\n@Lĩnh vực: giao thông & vận tải\n-sự dẫn đường\n@Lĩnh vực: điện lạnh\n-sự dẫn hướng
-
+guidance	
+@guidance
+* danh từ
+- sự chỉ đạo, sự hướng dẫn; sự dìu dắt
+@Chuyên ngành kinh tế
+-dẫn đạo
+-hướng dẫn
+-lãnh đạo
+-tư vấn
+@Chuyên ngành kỹ thuật
+-sự điều khiển
+-sự định hướng
+-sự hướng dẫn
+@Lĩnh vực: hóa học & vật liệu
+-sự chỉ đạo
+@Lĩnh vực: giao thông & vận tải
+-sự dẫn đường
+@Lĩnh vực: điện lạnh
+-sự dẫn hướng

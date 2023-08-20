@@ -1,3 +1,28 @@
-echo
-	@echo /'ekou/\n*  danh từ,  số nhiều echoes\n- tiếng dội, tiếng vang\n=to cheer someone to the echo+ vỗ tay vang dậy hoan hô ai\n- sự bắt chước mù quáng\n- người bắt chước mù quáng; người ủng hộ mù quáng\n- thể thơ liên hoàn\n- (đánh bài) ám hiệu (cho biết số lá bài mình có trong hoa đang đánh) cho đồng bọn\n- (the Echo) tiếng vang (nhân cách hoá)\n*  ngoại động từ\n- dội lại, vang lại (tiếng động)\n- lặp lại (lời ai), lặp lại lời (ai), lặp lại ý kiến (ai)\n- nội động từ\n- có tiếng dội (nơi, chốn); dội lại, vang lại (tiếng động)\n- (đánh bài) làm ám hiệu cho đồng bạn (biết số lá bài mình có trong hoa đang đánh)\n@Chuyên ngành kỹ thuật\n-phản hồi\n-sự lặp lại\n@Lĩnh vực: xây dựng\n-âm phản xạ\n@Lĩnh vực: toán & tin\n-báo hiệu lại, ám hiệu\n@Lĩnh vực: điện lạnh\n-tiếng dội\n-tín dội\n@Lĩnh vực: y học\n-tiếng vang
-
+echo	
+@echo /'ekou/
+*  danh từ,  số nhiều echoes
+- tiếng dội, tiếng vang=to cheer someone to the echo
++ vỗ tay vang dậy hoan hô ai
+- sự bắt chước mù quáng
+- người bắt chước mù quáng; người ủng hộ mù quáng
+- thể thơ liên hoàn
+- (đánh bài) ám hiệu (cho biết số lá bài mình có trong hoa đang đánh) cho đồng bọn
+- (the Echo) tiếng vang (nhân cách hoá)
+*  ngoại động từ
+- dội lại, vang lại (tiếng động)
+- lặp lại (lời ai), lặp lại lời (ai), lặp lại ý kiến (ai)
+- nội động từ
+- có tiếng dội (nơi, chốn); dội lại, vang lại (tiếng động)
+- (đánh bài) làm ám hiệu cho đồng bạn (biết số lá bài mình có trong hoa đang đánh)
+@Chuyên ngành kỹ thuật
+-phản hồi
+-sự lặp lại
+@Lĩnh vực: xây dựng
+-âm phản xạ
+@Lĩnh vực: toán & tin
+-báo hiệu lại, ám hiệu
+@Lĩnh vực: điện lạnh
+-tiếng dội
+-tín dội
+@Lĩnh vực: y học
+-tiếng vang

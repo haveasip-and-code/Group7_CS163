@@ -1,3 +1,8 @@
-donee
-	@donee /dou'ni:/\n*  danh từ\n- người nhận quà tặng\n@Chuyên ngành kinh tế\n-người được tặng\n@Chuyên ngành kỹ thuật\n-người nhận
-
+donee	
+@donee /dou'ni:/
+*  danh từ
+- người nhận quà tặng
+@Chuyên ngành kinh tế
+-người được tặng
+@Chuyên ngành kỹ thuật
+-người nhận

@@ -1,3 +1,4 @@
-haiku
-	@haiku\n* danh từ (số nhiều không thay đổi)\n- bài thơ rất ngắn của người Nhật
-
+haiku	
+@haiku
+* danh từ (số nhiều không thay đổi)
+- bài thơ rất ngắn của người Nhật

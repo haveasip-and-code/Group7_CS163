@@ -1,3 +1,91 @@
-wear
-	@wear /weə/\n*  danh từ\n- sự mang; sự dùng; sự mặc\n=for autumn wear+ để mặc mùa thu\n=the shirt I have in wear+ cái so mi tôi đang mặc\n- quần áo; giầy dép\n=evening wear+ quần áo mặt tối\n=men's wear+ quần áo đàn ông\n- sự chịu mòn, sự mặc được, sự dùng được\n=of never-ending wear+ không bao giờ mòn rách\n=there is a lot of wear left in my dress+ cái áo của tôi còn mặc được chán\n- sự hao mòn, sự mòn; (pháp lý) sự hư hỏng (nhà cửa)\n=one-sided wear+ mòn một bên\n=wear and tear+ sự hao mòn và hư hỏng\n- (kỹ thuật) sự mòn\n- (tài chính) sự giảm trọng lượng (tiền vàng hay bạc, vì mòn)\n*  ngoại động từ wore; worn\n- mang, đeo; mặc; để (râu, tóc); đội (mũ)\n=to wear glasses+ đeo kính\n=to wear a sword+ mang gươm\n=to wear black+ mặc đồ đen\n=to wear a moustache+ để một bộ ria\n=to wear one's hair long+ để tóc dài\n=to wear a hat+ đội mũ\n- dùng mòn, dùng cũ, dùng hỏng; làm cho tiều tuỵ; làm cho hao mòn, phá hoại dần ((nghĩa đen) & (nghĩa bóng))\n=to wear one's coat to rags+ mặc áo cho đến rách tả tơi\n=to wear one's coat threadbare+ mặc áo cho đến sờn cả chỉ\n=to wear a hole in+ mặc (đi, dùng) cho đến thủng (rách) ra\n=to be worn with care+ (nghĩa bóng) tiều tuỵ đi vì lo âu\n- dùng mãi cho quen, dùng mãi cho vừa, dùng mãi cho khớp\n=to wear a pair of shoes comfortable+ đi mã đôi giầy cho quen (vừa) chân\n- có (vẻ), tỏ (vẻ), tỏ ra, có, mang\n=to wear a troubled look+ có vẻ bối rối\n=to wear a famous name+ có tiếng, lừng danh\n*  nội động từ\n- mòn đi, bị mòn; bị dùng hỏng, cũ đi\n- dần dần quen, dần dần vừa\n=my new shoes are wearing to my feet+ đôi giày mới của tôi dần dần đi vừa chân\n- dùng, dùng được\n=good leather will wear for year+ da tốt dùng được lâu năm\n- (nghĩa bóng) dần dần trở nên\n=enthusiasm wears thin+ nhiệt tình dần dần trở nên sút kém\n!to wear away\n- làm mòn dần, làm mất dần\n- cũ dần, hỏng dần, mòn đi; yếu dần, suy nhược đi (sức khoẻ, tinh thần, cuộc sống); nguôi dần (nỗi đau khổ)\n- chậm chạp trôi qua (thời gian)\n!to waer down\n- làm mòn (đế giày, dụng cụ)\n- làm kiệt sức dần, tiêu hao dần (lực lượng địch)\n!to wear off\n- làm mòn mất; mòn mất\n- qua đi, mất đi\n!to wear on\n- tiếp tục, tiếp diễn, vẫn còn kéo dài (cuộc thảo luận)\n- trôi qua (thời gian)\n!to wear out\n- làm cho mòn hẳn; làm rách hết (quần áo...); mòn, hao mòn\n- làm mệt lử, làm kiệt sức; kiệt đi\n=to wear oneself out+ kiệt sức\n=patience wears out+ không thể kiên nhẫn được nữa\n- kéo dài, chậm chạp trôi qua (thời gian)\n=don't wear your youth out in trifles+ đừng để cho tuổi thanh xuân trôi qua vì những việc vụn vặt\n=to wear out one's welcome+ ở chơi lâu đến nỗi người ta không muốn tiếp nữa\n!to wear well\n- dùng bền, bền\n=woollen clothes wear well+ quần áo len mặc bền\n=their friendship has worn well+ (nghĩa bóng) tình bạn của họ bền lâu\n!to wear one's years well\n- trẻ lâu, trông còn trẻ\n@Chuyên ngành kinh tế\n-đồ trang phục\n@Chuyên ngành kỹ thuật\n-hao mòn\n-làm hao mòn\n-làm mòn\n-mặc\n-mang\n-sự bào mòn\n-sự gặm mòn\n-sự hao mòn\n-sự làm mòn\n-sự mài mòn\n-sự mòn\n-sự xói mòn\n@Lĩnh vực: giao thông & vận tải\n-bị mài mòn (thuyền buồn)\n-làm mòn (buồm)\n@Lĩnh vực: ô tô\n-độ mòn\n@Lĩnh vực: điện lạnh\n-sự hư mòn
-
+wear	@wear /weə/
+*  danh từ
+- sự mang; sự dùng; sự mặc
+=for autumn wear+ để mặc mùa thu
+=the shirt I have in wear+ cái so mi tôi đang mặc
+- quần áo; giầy dép
+=evening wear+ quần áo mặt tối
+=men's wear+ quần áo đàn ông
+- sự chịu mòn, sự mặc được, sự dùng được
+=of never-ending wear+ không bao giờ mòn rách
+=there is a lot of wear left in my dress+ cái áo của tôi còn mặc được chán
+- sự hao mòn, sự mòn; (pháp lý) sự hư hỏng (nhà cửa)
+=one-sided wear+ mòn một bên
+=wear and tear+ sự hao mòn và hư hỏng
+- (kỹ thuật) sự mòn
+- (tài chính) sự giảm trọng lượng (tiền vàng hay bạc, vì mòn)
+*  ngoại động từ wore; worn
+- mang, đeo; mặc; để (râu, tóc); đội (mũ)
+=to wear glasses+ đeo kính
+=to wear a sword+ mang gươm
+=to wear black+ mặc đồ đen
+=to wear a moustache+ để một bộ ria
+=to wear one's hair long+ để tóc dài
+=to wear a hat+ đội mũ
+- dùng mòn, dùng cũ, dùng hỏng; làm cho tiều tuỵ; làm cho hao mòn, phá hoại dần ((nghĩa đen) & (nghĩa bóng))
+=to wear one's coat to rags+ mặc áo cho đến rách tả tơi
+=to wear one's coat threadbare+ mặc áo cho đến sờn cả chỉ
+=to wear a hole in+ mặc (đi, dùng) cho đến thủng (rách) ra
+=to be worn with care+ (nghĩa bóng) tiều tuỵ đi vì lo âu
+- dùng mãi cho quen, dùng mãi cho vừa, dùng mãi cho khớp
+=to wear a pair of shoes comfortable+ đi mã đôi giầy cho quen (vừa) chân
+- có (vẻ), tỏ (vẻ), tỏ ra, có, mang
+=to wear a troubled look+ có vẻ bối rối
+=to wear a famous name+ có tiếng, lừng danh
+*  nội động từ
+- mòn đi, bị mòn; bị dùng hỏng, cũ đi
+- dần dần quen, dần dần vừa
+=my new shoes are wearing to my feet+ đôi giày mới của tôi dần dần đi vừa chân
+- dùng, dùng được
+=good leather will wear for year+ da tốt dùng được lâu năm
+- (nghĩa bóng) dần dần trở nên
+=enthusiasm wears thin+ nhiệt tình dần dần trở nên sút kém
+!to wear away
+- làm mòn dần, làm mất dần
+- cũ dần, hỏng dần, mòn đi; yếu dần, suy nhược đi (sức khoẻ, tinh thần, cuộc sống); nguôi dần (nỗi đau khổ)
+- chậm chạp trôi qua (thời gian)
+!to waer down
+- làm mòn (đế giày, dụng cụ)
+- làm kiệt sức dần, tiêu hao dần (lực lượng địch)
+!to wear off
+- làm mòn mất; mòn mất
+- qua đi, mất đi
+!to wear on
+- tiếp tục, tiếp diễn, vẫn còn kéo dài (cuộc thảo luận)
+- trôi qua (thời gian)
+!to wear out
+- làm cho mòn hẳn; làm rách hết (quần áo...); mòn, hao mòn
+- làm mệt lử, làm kiệt sức; kiệt đi
+=to wear oneself out+ kiệt sức
+=patience wears out+ không thể kiên nhẫn được nữa
+- kéo dài, chậm chạp trôi qua (thời gian)
+=don't wear your youth out in trifles+ đừng để cho tuổi thanh xuân trôi qua vì những việc vụn vặt
+=to wear out one's welcome+ ở chơi lâu đến nỗi người ta không muốn tiếp nữa
+!to wear well
+- dùng bền, bền
+=woollen clothes wear well+ quần áo len mặc bền
+=their friendship has worn well+ (nghĩa bóng) tình bạn của họ bền lâu
+!to wear one's years well
+- trẻ lâu, trông còn trẻ
+@Chuyên ngành kinh tế
+-đồ trang phục
+@Chuyên ngành kỹ thuật
+-hao mòn
+-làm hao mòn
+-làm mòn
+-mặc
+-mang
+-sự bào mòn
+-sự gặm mòn
+-sự hao mòn
+-sự làm mòn
+-sự mài mòn
+-sự mòn
+-sự xói mòn
+@Lĩnh vực: giao thông & vận tải
+-bị mài mòn (thuyền buồn)
+-làm mòn (buồm)
+@Lĩnh vực: ô tô
+-độ mòn
+@Lĩnh vực: điện lạnh
+-sự hư mòn

@@ -1,3 +1,6 @@
-drupe
-	@drupe /dru:p/\n*  danh từ\n- (thực vật học) quả hạch\n@Chuyên ngành kinh tế\n-quả hạch
-
+drupe	
+@drupe /dru:p/
+*  danh từ
+- (thực vật học) quả hạch
+@Chuyên ngành kinh tế
+-quả hạch

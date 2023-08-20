@@ -1,3 +1,2 @@
-steady
-	@steady\n- ổn định
-
+steady	@steady
+- ổn định

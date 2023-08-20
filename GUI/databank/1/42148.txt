@@ -1,3 +1,2 @@
-plumaged
-	@plumaged\n- xem plumage
-
+plumaged	@plumaged
+- xem plumage

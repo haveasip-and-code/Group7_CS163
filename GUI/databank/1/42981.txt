@@ -1,3 +1,11 @@
-preamble
-	@preamble /pri:'æmbl/\n*  danh từ\n- lời nói đầu, lời mở đầu, lời tựa\n*  nội động từ\n- viết lời nói đầu, viết lời mở đầu, viết lời tựa\n@Chuyên ngành kinh tế\n-lời mào đầu (pháp quy, hợp đồng ...)\n@Chuyên ngành kỹ thuật\n-lời mở đầu\n-lời tựa\n-phần mở đầu
-
+preamble	@preamble /pri:'æmbl/
+*  danh từ
+- lời nói đầu, lời mở đầu, lời tựa
+*  nội động từ
+- viết lời nói đầu, viết lời mở đầu, viết lời tựa
+@Chuyên ngành kinh tế
+-lời mào đầu (pháp quy, hợp đồng ...)
+@Chuyên ngành kỹ thuật
+-lời mở đầu
+-lời tựa
+-phần mở đầu

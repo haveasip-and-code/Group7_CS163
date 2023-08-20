@@ -1,3 +1,2 @@
-delime
-	@Chuyên ngành kỹ thuật\n-loại vôi
-
+delime	@Chuyên ngành kỹ thuật
+-loại vôi

@@ -1,3 +1,20 @@
-pane
-	@pane /pein/\n*  danh từ\n- ô cửa kính\n- ô vuông (vải kẻ ô vuông)\n*  ngoại động từ,  (thường) động tính từ quá khứ\n- kẻ ô vuông (vải...)\n@Chuyên ngành kỹ thuật\n-đầu mũi búa\n-kẻ ô vuông\n-lắp kính\n-mũi búa\n-ốp tấm\n-tấm kính\n-tấm kính cửa sổ\n-tấm vuông\n@Lĩnh vực: xây dựng\n-ô cửa kính\n-ô kính\n@Lĩnh vực: toán & tin\n-ô vuông, cửa sổ
-
+pane	@pane /pein/
+*  danh từ
+- ô cửa kính
+- ô vuông (vải kẻ ô vuông)
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- kẻ ô vuông (vải...)
+@Chuyên ngành kỹ thuật
+-đầu mũi búa
+-kẻ ô vuông
+-lắp kính
+-mũi búa
+-ốp tấm
+-tấm kính
+-tấm kính cửa sổ
+-tấm vuông
+@Lĩnh vực: xây dựng
+-ô cửa kính
+-ô kính
+@Lĩnh vực: toán & tin
+-ô vuông, cửa sổ

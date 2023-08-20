@@ -1,3 +1,5 @@
-ski
-	@ski /ski:/\n*  danh từ,  số nhiều ski,  skis\n- Xki, ván trượt tuyết\n*  nội động từ ski'd\n- trượt tuyết; đi xki
-
+ski	@ski /ski:/
+*  danh từ,  số nhiều ski,  skis
+- Xki, ván trượt tuyết
+*  nội động từ ski'd
+- trượt tuyết; đi xki

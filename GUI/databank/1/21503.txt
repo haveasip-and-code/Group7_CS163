@@ -1,3 +1,27 @@
-flooring
-	@flooring /flooring/\n*  danh từ\n- nguyên vật liệu làm sàn\n- sự làm sàn nhà\n@Chuyên ngành kỹ thuật\n-lớp mặt\n-lớp trát mặt\n-nền nhà\n-sàn\n-sự lát nền\n-sự lát ván\n-sự ốp ván\n-ván sàn\n@Lĩnh vực: xây dựng\n-sự lát sàn\n@Chuyên ngành kỹ thuật\n-lớp mặt\n-lớp trát mặt\n-nền nhà\n-sàn\n-sự lát nền\n-sự lát ván\n-sự ốp ván\n-ván sàn\n@Lĩnh vực: xây dựng\n-sự lát sàn
-
+flooring	
+@flooring /flooring/
+*  danh từ
+- nguyên vật liệu làm sàn
+- sự làm sàn nhà
+@Chuyên ngành kỹ thuật
+-lớp mặt
+-lớp trát mặt
+-nền nhà
+-sàn
+-sự lát nền
+-sự lát ván
+-sự ốp ván
+-ván sàn
+@Lĩnh vực: xây dựng
+-sự lát sàn
+@Chuyên ngành kỹ thuật
+-lớp mặt
+-lớp trát mặt
+-nền nhà
+-sàn
+-sự lát nền
+-sự lát ván
+-sự ốp ván
+-ván sàn
+@Lĩnh vực: xây dựng
+-sự lát sàn

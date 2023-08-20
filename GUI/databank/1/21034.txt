@@ -1,3 +1,49 @@
-film
-	@film /film/\n*  danh từ\n- màng; mảng thuốc (trên phim ảnh, trên giấy ảnh...)\n- phim, phim ảnh, phim xi nê\n- (the films) buổi chiếu bóng\n- vảy cá (mắt)\n- màn sương mỏng\n- sợi nhỏ, tơ nhỏ (của mạng nhện)\n*  ngoại động từ\n- phủ một lớp màng, che bằng một lớp màng\n- che đi, làm mờ đi\n- quay thành phim\n=to film one of Shakespeare's plays+ quay một trong những vở kịch của Sếch-xpia thành phim\n*  nội động từ\n- bị che đi, bị mờ đi\n- quay thành phim\n=this play films well+ kịch này quay thành phim rất hay\n@Chuyên ngành kinh tế\n-lớp mỏng\n-màng\n-vỏ\n@Chuyên ngành kỹ thuật\n-lớp\n-lớp mỏng\n-lớp phủ\n-màng\n-màng bôi trơn\n-màng mỏng\n-phim\n-phim ảnh\n@Lĩnh vực: y học\n-màng phủ\n@Lĩnh vực: điện lạnh\n-phim (ảnh)\n@Chuyên ngành kỹ thuật\n-lớp\n-lớp mỏng\n-lớp phủ\n-màng\n-màng bôi trơn\n-màng mỏng\n-phim\n-phim ảnh\n@Lĩnh vực: y học\n-màng phủ\n@Lĩnh vực: điện lạnh\n-phim (ảnh)
-
+film	
+@film /film/
+*  danh từ
+- màng; mảng thuốc (trên phim ảnh, trên giấy ảnh...)
+- phim, phim ảnh, phim xi nê
+- (the films) buổi chiếu bóng
+- vảy cá (mắt)
+- màn sương mỏng
+- sợi nhỏ, tơ nhỏ (của mạng nhện)
+*  ngoại động từ
+- phủ một lớp màng, che bằng một lớp màng
+- che đi, làm mờ đi
+- quay thành phim=to film one of Shakespeare's plays
++ quay một trong những vở kịch của Sếch
+-xpia thành phim
+*  nội động từ
+- bị che đi, bị mờ đi
+- quay thành phim=this play films well
++ kịch này quay thành phim rất hay
+@Chuyên ngành kinh tế
+-lớp mỏng
+-màng
+-vỏ
+@Chuyên ngành kỹ thuật
+-lớp
+-lớp mỏng
+-lớp phủ
+-màng
+-màng bôi trơn
+-màng mỏng
+-phim
+-phim ảnh
+@Lĩnh vực: y học
+-màng phủ
+@Lĩnh vực: điện lạnh
+-phim (ảnh)
+@Chuyên ngành kỹ thuật
+-lớp
+-lớp mỏng
+-lớp phủ
+-màng
+-màng bôi trơn
+-màng mỏng
+-phim
+-phim ảnh
+@Lĩnh vực: y học
+-màng phủ
+@Lĩnh vực: điện lạnh
+-phim (ảnh)

@@ -1,3 +1,34 @@
-adhesion
-	@adhesion /əd'hi:ʤn/\n*  danh từ\n- sự dính chặt vào, sự bám chặt vào\n- sự tham gia, sự gia nhập (một đảng phái)\n- sự trung thành với; sự giữ vững (ý kiến lập trường...)\n- sự tán đồng, sự đồng ý\n@Chuyên ngành kinh tế\n-sự dính chặt\n@Chuyên ngành kỹ thuật\n-bám dính\n-cố kết\n-độ dính\n-kết dính\n-lực bám dính\n-lực cố kết\n-lực dính\n-lực dính kết\n-sự bám\n-sự bám dính\n-sự cố kết\n-sự dính\n-sự dính kết\n-sự gắn kết\n-sự nối khớp\n-sức bám\n@Lĩnh vực: ô tô\n-độ bám\n@Lĩnh vực: cơ khí & công trình\n-sự (dính) bám\n-sự bám (keo)\n@Lĩnh vực: xây dựng\n-sự dán dính\n-sự dính bám
-
+adhesion	
+@adhesion /əd'hi:ʤn/
+*  danh từ
+- sự dính chặt vào, sự bám chặt vào
+- sự tham gia, sự gia nhập (một đảng phái)
+- sự trung thành với; sự giữ vững (ý kiến lập trường...)
+- sự tán đồng, sự đồng ý
+@Chuyên ngành kinh tế
+-sự dính chặt
+@Chuyên ngành kỹ thuật
+-bám dính
+-cố kết
+-độ dính
+-kết dính
+-lực bám dính
+-lực cố kết
+-lực dính
+-lực dính kết
+-sự bám
+-sự bám dính
+-sự cố kết
+-sự dính
+-sự dính kết
+-sự gắn kết
+-sự nối khớp
+-sức bám
+@Lĩnh vực: ô tô
+-độ bám
+@Lĩnh vực: cơ khí & công trình
+-sự (dính) bám
+-sự bám (keo)
+@Lĩnh vực: xây dựng
+-sự dán dính
+-sự dính bám

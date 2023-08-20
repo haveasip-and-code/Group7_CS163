@@ -1,3 +1,4 @@
-licensed
-	@Chuyên ngành kinh tế\n-có đăng ký\n-có giấy phép\n-có môn bài
-
+licensed	@Chuyên ngành kinh tế
+-có đăng ký
+-có giấy phép
+-có môn bài

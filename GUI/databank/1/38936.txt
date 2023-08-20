@@ -1,3 +1,12 @@
-overseer
-	@overseer /'ouvəsiə/\n*  danh từ\n- giám thị\n- đốc công\n@Chuyên ngành kinh tế\n-cai thợ\n-đốc công\n-giám công\n-thợ cả\n-trưởng kíp\n@Chuyên ngành kỹ thuật\n-đốc công
-
+overseer	@overseer /'ouvəsiə/
+*  danh từ
+- giám thị
+- đốc công
+@Chuyên ngành kinh tế
+-cai thợ
+-đốc công
+-giám công
+-thợ cả
+-trưởng kíp
+@Chuyên ngành kỹ thuật
+-đốc công

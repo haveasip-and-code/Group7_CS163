@@ -1,3 +1,40 @@
-lamellar
-	@Chuyên ngành kỹ thuật\n-bản\n-chảy tầng\n-có lớp\n-có tầng\n-dạng lá\n-dạng phiến\n-dạng tấm (mỏng)\n-dạng vảy\n-lá\n-phân lớp\n-phân phiến\n-phiến\n-thành tầng\n@Lĩnh vực: xây dựng\n-dáng tấm\n@Lĩnh vực: toán & tin\n-nhiều đĩa\n@Lĩnh vực: vật lý\n-theo lớp\n@Chuyên ngành kỹ thuật\n-bản\n-chảy tầng\n-có lớp\n-có tầng\n-dạng lá\n-dạng phiến\n-dạng tấm (mỏng)\n-dạng vảy\n-lá\n-phân lớp\n-phân phiến\n-phiến\n-thành tầng\n@Lĩnh vực: xây dựng\n-dáng tấm\n@Lĩnh vực: toán & tin\n-nhiều đĩa\n@Lĩnh vực: vật lý\n-theo lớp
-
+lamellar	@Chuyên ngành kỹ thuật
+-bản
+-chảy tầng
+-có lớp
+-có tầng
+-dạng lá
+-dạng phiến
+-dạng tấm (mỏng)
+-dạng vảy
+-lá
+-phân lớp
+-phân phiến
+-phiến
+-thành tầng
+@Lĩnh vực: xây dựng
+-dáng tấm
+@Lĩnh vực: toán & tin
+-nhiều đĩa
+@Lĩnh vực: vật lý
+-theo lớp
+@Chuyên ngành kỹ thuật
+-bản
+-chảy tầng
+-có lớp
+-có tầng
+-dạng lá
+-dạng phiến
+-dạng tấm (mỏng)
+-dạng vảy
+-lá
+-phân lớp
+-phân phiến
+-phiến
+-thành tầng
+@Lĩnh vực: xây dựng
+-dáng tấm
+@Lĩnh vực: toán & tin
+-nhiều đĩa
+@Lĩnh vực: vật lý
+-theo lớp

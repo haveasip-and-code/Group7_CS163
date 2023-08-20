@@ -1,3 +1,9 @@
-countable
-	@countable\n* tính từ\n- có thể đếm được\n@Chuyên ngành kỹ thuật\n-đếm được\n@Lĩnh vực: toán & tin\n-có thể tính được\n-tính được
-
+countable	
+@countable
+* tính từ
+- có thể đếm được
+@Chuyên ngành kỹ thuật
+-đếm được
+@Lĩnh vực: toán & tin
+-có thể tính được
+-tính được

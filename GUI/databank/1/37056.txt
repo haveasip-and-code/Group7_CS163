@@ -1,3 +1,73 @@
-nose
-	@nose /nouz/\n*  danh từ\n- mũi (người); mõm (súc vật)\n=aquiline nose+ mũi khoằm\n=flat nose+ mũi tẹt\n=turned up nose+ mũi hếch\n=the bridge of the nose+ sống mũi\n=to blead at the nose+ chảy máu mũi, đổ máu cam\n- khứu giác; sự đánh hơi\n=to have a good nose+ thính mũi\n- mùi, hương vị\n- đầu mũi (của một vật gì)\n!to bit (snap) someone's nose off\n- trả lời một cách sỗ sàng\n!to cut off one's nose to spite one's face\n- trong cơn bực tức với mình lại tự mình làm hại thân mình\n!to follow one's nose\n- đi thẳng về phía trước\n- chỉ theo linh tính\n!to keep someone's nose to the grindstone\n- (xem) grindstone\n!to lead someone by the nose\n- (xem) lead\n!to look down one's nose at\n- (xem) look\n!nose of wax\n- người dễ uốn nắn; người bảo sao nghe vậy\n!parson's nose; pope's nose\n- phao câu (gà...)\n!as plain as the nose on one's nose into other people's affairs\n- chõ mũi vào việc của người khác\n!to pay through the nose\n- phải trả một giá cắt cổ\n!to put someone's nose out of joint\n- choán chỗ ai, hất cẳng ai\n- làm cho ai chưng hửng, làm cho ai thất vọng, làm cho ai vỡ mộng\n!to speak through one's nose\n- nói giọng mũi\n!to tell (count) noses\n- kiểm diện, đếm số người có mặt\n- kiểm phiếu; lấy đa số để quyết định một vấn đề gì\n!to turn up one's nose at\n- hếch mũi nhại (ai)\n!right under one's nose\n- ngay ở trước mắt, ngay ở trước mũi mình\n*  động từ\n- ngửi, đánh hơi ((nghĩa đen) & (nghĩa bóng))\n=to nose out+ đánh hơi thấy, khám phá ra\n- dính vào, chõ vào, xen vào\n=to nose into other people's business+ chõ vào việc của người khác\n=to nose about+ lục lọi, sục sạo, thọc mạch\n- dí mũi vào, lấy mũi di di (cái gì)\n- (nose down) đâm bổ xuống (máy bay)\n!to nose one's way\n- lấn đường\n@Chuyên ngành kỹ thuật\n-đầu mỏ\n-gờ\n-khấc lồi\n-lưỡi dao\n-mũi\n-mũi (biển)\n-mũi nhô\n-mũi nhọn\n-phần nhô\n-vai trục\n-vành tỳ\n-vấu\n-vòi\n@Lĩnh vực: cơ khí & công trình\n-mũi phân dòng\n@Lĩnh vực: xây dựng\n-tấm nẹp góc
-
+nose	@nose /nouz/
+*  danh từ
+- mũi (người); mõm (súc vật)
+=aquiline nose+ mũi khoằm
+=flat nose+ mũi tẹt
+=turned up nose+ mũi hếch
+=the bridge of the nose+ sống mũi
+=to blead at the nose+ chảy máu mũi, đổ máu cam
+- khứu giác; sự đánh hơi
+=to have a good nose+ thính mũi
+- mùi, hương vị
+- đầu mũi (của một vật gì)
+!to bit (snap) someone's nose off
+- trả lời một cách sỗ sàng
+!to cut off one's nose to spite one's face
+- trong cơn bực tức với mình lại tự mình làm hại thân mình
+!to follow one's nose
+- đi thẳng về phía trước
+- chỉ theo linh tính
+!to keep someone's nose to the grindstone
+- (xem) grindstone
+!to lead someone by the nose
+- (xem) lead
+!to look down one's nose at
+- (xem) look
+!nose of wax
+- người dễ uốn nắn; người bảo sao nghe vậy
+!parson's nose; pope's nose
+- phao câu (gà...)
+!as plain as the nose on one's nose into other people's affairs
+- chõ mũi vào việc của người khác
+!to pay through the nose
+- phải trả một giá cắt cổ
+!to put someone's nose out of joint
+- choán chỗ ai, hất cẳng ai
+- làm cho ai chưng hửng, làm cho ai thất vọng, làm cho ai vỡ mộng
+!to speak through one's nose
+- nói giọng mũi
+!to tell (count) noses
+- kiểm diện, đếm số người có mặt
+- kiểm phiếu; lấy đa số để quyết định một vấn đề gì
+!to turn up one's nose at
+- hếch mũi nhại (ai)
+!right under one's nose
+- ngay ở trước mắt, ngay ở trước mũi mình
+*  động từ
+- ngửi, đánh hơi ((nghĩa đen) & (nghĩa bóng))
+=to nose out+ đánh hơi thấy, khám phá ra
+- dính vào, chõ vào, xen vào
+=to nose into other people's business+ chõ vào việc của người khác
+=to nose about+ lục lọi, sục sạo, thọc mạch
+- dí mũi vào, lấy mũi di di (cái gì)
+- (nose down) đâm bổ xuống (máy bay)
+!to nose one's way
+- lấn đường
+@Chuyên ngành kỹ thuật
+-đầu mỏ
+-gờ
+-khấc lồi
+-lưỡi dao
+-mũi
+-mũi (biển)
+-mũi nhô
+-mũi nhọn
+-phần nhô
+-vai trục
+-vành tỳ
+-vấu
+-vòi
+@Lĩnh vực: cơ khí & công trình
+-mũi phân dòng
+@Lĩnh vực: xây dựng
+-tấm nẹp góc

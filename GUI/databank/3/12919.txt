@@ -1,3 +1,5 @@
-crystallinity
-	@crystallinity\n- xem crystalline\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-độ kết tinh
-
+crystallinity	@crystallinity
+- xem crystalline
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-độ kết tinh

@@ -1,3 +1,6 @@
-remnants
-	@Chuyên ngành kinh tế\n-hàng bán xôn\n-hàng cuối loạt\n-hàng ế\n@Chuyên ngành kỹ thuật\n-di tích
-
+remnants	@Chuyên ngành kinh tế
+-hàng bán xôn
+-hàng cuối loạt
+-hàng ế
+@Chuyên ngành kỹ thuật
+-di tích

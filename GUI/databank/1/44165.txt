@@ -1,3 +1,5 @@
-proscribe
-	@proscribe\n* ngoại động từ\n- đặt (ai) ra ngoài vòng pháp luật\n- trục xuất, đày ải\n- cấm, bài trừ (việc dùng cái gì coi (như) nguy hiểm)
-
+proscribe	@proscribe
+* ngoại động từ
+- đặt (ai) ra ngoài vòng pháp luật
+- trục xuất, đày ải
+- cấm, bài trừ (việc dùng cái gì coi (như) nguy hiểm)

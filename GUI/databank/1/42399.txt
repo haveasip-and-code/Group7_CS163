@@ -1,3 +1,2 @@
-polluter
-	@polluter\n- xem pollute
-
+polluter	@polluter
+- xem pollute

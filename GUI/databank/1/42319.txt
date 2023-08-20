@@ -1,3 +1,19 @@
-polarity
-	@polarity /pou'læriti/\n*  danh từ\n- (vật lý) tính có cực; chiều phân cực\n- tính hoàn toàn đối nhau, tính hoàn toàn trái ngược nhau\n- (nghĩa bóng) sự bị thu hút, sự bị ảnh hưởng\n@Chuyên ngành kỹ thuật\n-chiều phân cực\n-cực tinh\n-độ phân cực\n-sự phân cực\n@Lĩnh vực: y học\n-cực tính, tính phân cực\n@Lĩnh vực: điện\n-phân cực\n@Lĩnh vực: toán & tin\n-sự tương quan cực\n-sự tương ứng cực\n@Lĩnh vực: điện lạnh\n-tính có cực
-
+polarity	@polarity /pou'læriti/
+*  danh từ
+- (vật lý) tính có cực; chiều phân cực
+- tính hoàn toàn đối nhau, tính hoàn toàn trái ngược nhau
+- (nghĩa bóng) sự bị thu hút, sự bị ảnh hưởng
+@Chuyên ngành kỹ thuật
+-chiều phân cực
+-cực tinh
+-độ phân cực
+-sự phân cực
+@Lĩnh vực: y học
+-cực tính, tính phân cực
+@Lĩnh vực: điện
+-phân cực
+@Lĩnh vực: toán & tin
+-sự tương quan cực
+-sự tương ứng cực
+@Lĩnh vực: điện lạnh
+-tính có cực

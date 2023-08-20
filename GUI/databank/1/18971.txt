@@ -1,3 +1,11 @@
-ergonomic
-	@ergonomic\n- xem ergonomics\n@Chuyên ngành kỹ thuật\n-ecgonomic\n@Lĩnh vực: toán & tin\n-công thái học\n@Chuyên ngành kỹ thuật\n-ecgonomic\n@Lĩnh vực: toán & tin\n-công thái học
-
+ergonomic	
+@ergonomic
+- xem ergonomics
+@Chuyên ngành kỹ thuật
+-ecgonomic
+@Lĩnh vực: toán & tin
+-công thái học
+@Chuyên ngành kỹ thuật
+-ecgonomic
+@Lĩnh vực: toán & tin
+-công thái học

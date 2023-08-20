@@ -1,3 +1,4 @@
-poetry
-	@poetry /'pouitri/\n*  danh từ\n- thơ; nghệ thuật thơ\n- chất thơ, thi vị
-
+poetry	@poetry /'pouitri/
+*  danh từ
+- thơ; nghệ thuật thơ
+- chất thơ, thi vị

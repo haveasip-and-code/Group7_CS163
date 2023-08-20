@@ -1,3 +1,30 @@
-effluent
-	@effluent /'efluənt/\n*  tính từ\n- phát ra, tuôn ra (ánh sáng, điện...)\n*  danh từ\n- nhánh, dòng nhánh, sông nhánh\n@Chuyên ngành kinh tế\n-chất thải công nghiệp\n-chảy đi\n-dòng chảy\n-nước thải\n-nước thải, chất thải công nghiệp\n@Chuyên ngành kỹ thuật\n-dòng chảy\n-dòng chảy thoát\n-dòng nước thải\n-dòng thoát ra\n-nhánh\n-nhánh sông\n-nhánh suối\n-nước thải\n-nước thoát\n-sông nhánh\n@Lĩnh vực: cơ khí & công trình\n-chi lưu\n@Lĩnh vực: hóa học & vật liệu\n-dòng chảy ra\n-nước thải/ khí thải\n@Lĩnh vực: điện lạnh\n-dòng thải
-
+effluent	
+@effluent /'efluənt/
+*  tính từ
+- phát ra, tuôn ra (ánh sáng, điện...)
+*  danh từ
+- nhánh, dòng nhánh, sông nhánh
+@Chuyên ngành kinh tế
+-chất thải công nghiệp
+-chảy đi
+-dòng chảy
+-nước thải
+-nước thải, chất thải công nghiệp
+@Chuyên ngành kỹ thuật
+-dòng chảy
+-dòng chảy thoát
+-dòng nước thải
+-dòng thoát ra
+-nhánh
+-nhánh sông
+-nhánh suối
+-nước thải
+-nước thoát
+-sông nhánh
+@Lĩnh vực: cơ khí & công trình
+-chi lưu
+@Lĩnh vực: hóa học & vật liệu
+-dòng chảy ra
+-nước thải/ khí thải
+@Lĩnh vực: điện lạnh
+-dòng thải

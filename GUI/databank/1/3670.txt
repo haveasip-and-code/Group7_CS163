@@ -1,3 +1,22 @@
-assumption
-	@assumption /ə'sʌmpʃn/\n*  danh từ\n- sự mang, sự khoác, sự lấy (cái vẻ, tính chất...)\n- sự làm ra vẻ, sự giả bộ\n- sự mệnh danh (là đúng), sự cho rằng (là đúng), sự thừa nhận\n- sự nắm lấy, sự chiếm lấy\n- sự đảm đương, sự gánh vác, sự nhận vào mình\n- tính kiêu căng, tính kiêu ngạo, tính ngạo mạn\n- (tôn giáo) lễ thăng thiên của Đức mẹ đồng trinh\n@Chuyên ngành kinh tế\n-nhận nợ thay\n@Chuyên ngành kỹ thuật\n-điều giả định\n-dữ kiện\n-giả định\n-giả thiết\n-sự giả định\n@Lĩnh vực: toán & tin\n-giả thuyết\n@Lĩnh vực: xây dựng\n-sự giả thiết
-
+assumption	
+@assumption /ə'sʌmpʃn/
+*  danh từ
+- sự mang, sự khoác, sự lấy (cái vẻ, tính chất...)
+- sự làm ra vẻ, sự giả bộ
+- sự mệnh danh (là đúng), sự cho rằng (là đúng), sự thừa nhận
+- sự nắm lấy, sự chiếm lấy
+- sự đảm đương, sự gánh vác, sự nhận vào mình
+- tính kiêu căng, tính kiêu ngạo, tính ngạo mạn
+- (tôn giáo) lễ thăng thiên của Đức mẹ đồng trinh
+@Chuyên ngành kinh tế
+-nhận nợ thay
+@Chuyên ngành kỹ thuật
+-điều giả định
+-dữ kiện
+-giả định
+-giả thiết
+-sự giả định
+@Lĩnh vực: toán & tin
+-giả thuyết
+@Lĩnh vực: xây dựng
+-sự giả thiết

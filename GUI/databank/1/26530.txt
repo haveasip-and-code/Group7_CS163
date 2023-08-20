@@ -1,3 +1,9 @@
-hydrate
-	@hydrate /'haidreit/\n*  danh từ\n- (hoá học) Hydrat\n*  ngoại động từ\n- (hoá học) Hyddrat hoá, thuỷ hợp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hyđrat hóa
-
+hydrate	
+@hydrate /'haidreit/
+*  danh từ
+- (hoá học) Hydrat
+*  ngoại động từ
+- (hoá học) Hyddrat hoá, thuỷ hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hyđrat hóa

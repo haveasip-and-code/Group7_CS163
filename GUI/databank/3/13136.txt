@@ -1,3 +1,2 @@
-currentness
-	@currentness\n- xem current
-
+currentness	@currentness
+- xem current

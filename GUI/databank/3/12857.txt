@@ -1,3 +1,2 @@
-crustacea
-	@Chuyên ngành kỹ thuật\n-loài tôm cua, giáp xác
-
+crustacea	@Chuyên ngành kỹ thuật
+-loài tôm cua, giáp xác

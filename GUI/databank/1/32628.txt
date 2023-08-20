@@ -1,3 +1,4 @@
-logbook
-	@Chuyên ngành kỹ thuật\n-sổ theo dõi\n@Lĩnh vực: toán & tin\n-sổ ghi chép
-
+logbook	@Chuyên ngành kỹ thuật
+-sổ theo dõi
+@Lĩnh vực: toán & tin
+-sổ ghi chép

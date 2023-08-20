@@ -1,3 +1,4 @@
-refractiveness
-	@Chuyên ngành kỹ thuật\n-độ khúc xạ\n@Lĩnh vực: vật lý\n-tính khúc xạ
-
+refractiveness	@Chuyên ngành kỹ thuật
+-độ khúc xạ
+@Lĩnh vực: vật lý
+-tính khúc xạ

@@ -1,3 +1,10 @@
-cape
-	@cape /keip/\n*  danh từ\n- áo choàng không tay\n*  danh từ\n- mũi đất (nhô ra biển)\n=the cape of Good Hope+ mũi Hảo vọng\n@Chuyên ngành kỹ thuật\n-mỏm đất\n-mũi đất\n-mũi đất (địa lý)
-
+cape	@cape /keip/
+*  danh từ
+- áo choàng không tay
+*  danh từ
+- mũi đất (nhô ra biển)
+=the cape of Good Hope+ mũi Hảo vọng
+@Chuyên ngành kỹ thuật
+-mỏm đất
+-mũi đất
+-mũi đất (địa lý)

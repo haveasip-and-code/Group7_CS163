@@ -1,3 +1,11 @@
-prolific
-	@prolific /prolific/\n*  tính từ\n- sinh sản nhiều, sản xuất nhiều, đẻ nhiều; mắn (đẻ), sai (quả)\n=prolific rabbits+ những con thỏ mắn đẻ\n=prolific trees+ những cây sai quả\n=a prolific writer+ nhà văn viết nhiều\n=a controversy prolific of evil consequences+ một cuộc tranh luân gây nhiều hậu quả xấu\n- đầy phong phú\n@Chuyên ngành kinh tế\n-sản xuất nhiều\n-sinh sản nhiều
-
+prolific	@prolific /prolific/
+*  tính từ
+- sinh sản nhiều, sản xuất nhiều, đẻ nhiều; mắn (đẻ), sai (quả)
+=prolific rabbits+ những con thỏ mắn đẻ
+=prolific trees+ những cây sai quả
+=a prolific writer+ nhà văn viết nhiều
+=a controversy prolific of evil consequences+ một cuộc tranh luân gây nhiều hậu quả xấu
+- đầy phong phú
+@Chuyên ngành kinh tế
+-sản xuất nhiều
+-sinh sản nhiều

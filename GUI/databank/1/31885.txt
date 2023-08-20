@@ -1,3 +1,11 @@
-legroom
-	@legroom /'legrum/\n*  danh từ\n- chỗ duỗi chân, chỗ để chân (cho thoải mái)\n@Chuyên ngành kỹ thuật\n-chỗ để chân\n@Lĩnh vực: ô tô\n-chỗ duỗi chân\n@Chuyên ngành kỹ thuật\n-chỗ để chân\n@Lĩnh vực: ô tô\n-chỗ duỗi chân
-
+legroom	@legroom /'legrum/
+*  danh từ
+- chỗ duỗi chân, chỗ để chân (cho thoải mái)
+@Chuyên ngành kỹ thuật
+-chỗ để chân
+@Lĩnh vực: ô tô
+-chỗ duỗi chân
+@Chuyên ngành kỹ thuật
+-chỗ để chân
+@Lĩnh vực: ô tô
+-chỗ duỗi chân

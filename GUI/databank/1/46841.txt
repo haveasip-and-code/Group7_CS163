@@ -1,3 +1,29 @@
-repeater
-	@repeater /ri'pi:tə/\n*  danh từ\n- người nhắc lại (điều gì)\n- đồng hồ điểm chuông định kỳ\n- súng (tiểu liên, súng lục) bắn nhiều phát liền (mà không phải nạp đạn)\n- người phạm lại (tội gì)\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) học trò phải ở lại lớp\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người bỏ phiếu gian lận nhiều lần (trong cuộc bầu cử)\n- (toán học) phân số tuần hoàn\n@Chuyên ngành kỹ thuật\n-bộ bù\n-bộ chuyển tiếp (vô tuyến vũ trụ)\n-bộ khuếch đại\n-bộ lặp lại\n@Lĩnh vực: điện lạnh\n-bộ chuyển tiếp\n-cuộn ghép cảm ứng\n-cuộn lặp lại (giữa hai đoạn đường điện thoại)\n@Lĩnh vực: toán & tin\n-bộ lặp\n-bộ rơle\n-thiết bị lặp lại\n@Lĩnh vực: điện tử & viễn thông\n-bộ tăng âm\n-bộ tiếp sức\n@Lĩnh vực: xây dựng\n-máy khuếch âm\n-phân số tuần hoàn\n-trạm tiếp âm
-
+repeater	@repeater /ri'pi:tə/
+*  danh từ
+- người nhắc lại (điều gì)
+- đồng hồ điểm chuông định kỳ
+- súng (tiểu liên, súng lục) bắn nhiều phát liền (mà không phải nạp đạn)
+- người phạm lại (tội gì)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) học trò phải ở lại lớp
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người bỏ phiếu gian lận nhiều lần (trong cuộc bầu cử)
+- (toán học) phân số tuần hoàn
+@Chuyên ngành kỹ thuật
+-bộ bù
+-bộ chuyển tiếp (vô tuyến vũ trụ)
+-bộ khuếch đại
+-bộ lặp lại
+@Lĩnh vực: điện lạnh
+-bộ chuyển tiếp
+-cuộn ghép cảm ứng
+-cuộn lặp lại (giữa hai đoạn đường điện thoại)
+@Lĩnh vực: toán & tin
+-bộ lặp
+-bộ rơle
+-thiết bị lặp lại
+@Lĩnh vực: điện tử & viễn thông
+-bộ tăng âm
+-bộ tiếp sức
+@Lĩnh vực: xây dựng
+-máy khuếch âm
+-phân số tuần hoàn
+-trạm tiếp âm

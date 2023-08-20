@@ -1,3 +1,17 @@
-incense
-	@incense /'insens/\n*  danh từ\n- nhang, hương, trầm\n=an incense burner+ người thắp hương; lư hương\n- khói hương trầm (lúc cúng lễ)\n- lời ca ngợi, lời tán tụng; lời tâng bốc\n*  ngoại động từ\n- đốt nhang cúng, thắp hương cúng, đốt trầm cúng (thánh thần...)\n- làm ngát hương trầm (người, vật gì để xua tan uế khí...)\n*  nội động từ\n- đốt nhang, thắp hương, đốt trầm\n*  ngoại động từ\n- làm nổi giận, làm tức điên lên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thắp nhang
-
+incense	
+@incense /'insens/
+*  danh từ
+- nhang, hương, trầm=an incense burner
++ người thắp hương; lư hương
+- khói hương trầm (lúc cúng lễ)
+- lời ca ngợi, lời tán tụng; lời tâng bốc
+*  ngoại động từ
+- đốt nhang cúng, thắp hương cúng, đốt trầm cúng (thánh thần...)
+- làm ngát hương trầm (người, vật gì để xua tan uế khí...)
+*  nội động từ
+- đốt nhang, thắp hương, đốt trầm
+*  ngoại động từ
+- làm nổi giận, làm tức điên lên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thắp nhang

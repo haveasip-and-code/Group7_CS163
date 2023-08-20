@@ -1,3 +1,20 @@
-domain
-	@domain /də'mein/\n*  danh từ\n- đất đai tài sản, dinh cơ, ruộng nương nhà cửa (của địa chủ...)\n- lãnh địa; lãnh thổ\n- phạm vi (ảnh hưởng...), lĩnh vực (khoa học hoạt động...)\n@Chuyên ngành kỹ thuật\n-khu vực\n-lĩnh vực\n-miền\n-miền xác định\n-phạm vi\n-vùng\n@Lĩnh vực: xây dựng\n-địa hạt\n@Lĩnh vực: điện lạnh\n-đomen\n@Lĩnh vực: toán & tin\n-vùng (tri thức)\n-vùng định nghĩa
-
+domain	
+@domain /də'mein/
+*  danh từ
+- đất đai tài sản, dinh cơ, ruộng nương nhà cửa (của địa chủ...)
+- lãnh địa; lãnh thổ
+- phạm vi (ảnh hưởng...), lĩnh vực (khoa học hoạt động...)
+@Chuyên ngành kỹ thuật
+-khu vực
+-lĩnh vực
+-miền
+-miền xác định
+-phạm vi
+-vùng
+@Lĩnh vực: xây dựng
+-địa hạt
+@Lĩnh vực: điện lạnh
+-đomen
+@Lĩnh vực: toán & tin
+-vùng (tri thức)
+-vùng định nghĩa

@@ -1,3 +1,5 @@
-detailer
-	@detailer\n- xem detail\n@Chuyên ngành kinh tế\n-người chào hàng chuyên nghiệp
-
+detailer	
+@detailer
+- xem detail
+@Chuyên ngành kinh tế
+-người chào hàng chuyên nghiệp

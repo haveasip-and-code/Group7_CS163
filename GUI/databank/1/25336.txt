@@ -1,3 +1,6 @@
-heelpiece
-	@Chuyên ngành kỹ thuật\n-đế\n-gót\n@Lĩnh vực: xây dựng\n-guốc
-
+heelpiece	
+@Chuyên ngành kỹ thuật
+-đế
+-gót
+@Lĩnh vực: xây dựng
+-guốc

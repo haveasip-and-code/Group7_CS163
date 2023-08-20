@@ -1,3 +1,43 @@
-column
-	@column /'kɔləm/\n*  danh từ\n- cột, trụ ((nghĩa đen) & (nghĩa bóng))\n=the columns of a building+ những cột trụ của toà nhà\n=a column of smoke+ cột khói\n=a column of figures+ cột số\n=the spinal column+ cột sống\n=the right-hand column of a page+ cột bên phải của trang sách\n- hàng dọc; đội hình hàng dọc (đơn vị bộ đội, tàu chiến)\n=to march in two columns+ đi thành hai hàng dọc\n- cột; mục (báo)\n=in our columns+ trong tờ báo của chúng tôi\n!agony column\n- (xem) agony\n!fifth column\n- bọn cộng tác với địch (ở một nước đang có chiến tranh); bọn phản nước, bọn gián điệp\n=storming column+ đội quân xung kích\n@Chuyên ngành kinh tế\n-cột\n-mục (báo)\n@Chuyên ngành kỹ thuật\n-bệ\n-đế\n-gối kê\n-khung\n-tháp\n@Lĩnh vực: xây dựng\n-cấu kiện bị nén\n-cột chống\n-cột trụ chống\n-cột trục dãn hướng\n-trụ trục dãn hướng\n-trục dẫn đường\n@Lĩnh vực: toán & tin\n-cột in\n-hàng (chữ số)\n-trường\n@Lĩnh vực: y học\n-cột, trụ\n@Lĩnh vực: cơ khí & công trình\n-trụ máy\n@Lĩnh vực: hóa học & vật liệu\n-xylanh
-
+column	
+@column /'kɔləm/
+*  danh từ
+- cột, trụ ((nghĩa đen) & (nghĩa bóng))=the columns of a building
++ những cột trụ của toà nhà=a column of smoke
++ cột khói=a column of figures
++ cột số=the spinal column
++ cột sống=the right
+-hand column of a page
++ cột bên phải của trang sách
+- hàng dọc; đội hình hàng dọc (đơn vị bộ đội, tàu chiến)=to march in two columns
++ đi thành hai hàng dọc
+- cột; mục (báo)=in our columns
++ trong tờ báo của chúng tôi!agony column
+- (xem) agony!fifth column
+- bọn cộng tác với địch (ở một nước đang có chiến tranh); bọn phản nước, bọn gián điệp=storming column
++ đội quân xung kích
+@Chuyên ngành kinh tế
+-cột
+-mục (báo)
+@Chuyên ngành kỹ thuật
+-bệ
+-đế
+-gối kê
+-khung
+-tháp
+@Lĩnh vực: xây dựng
+-cấu kiện bị nén
+-cột chống
+-cột trụ chống
+-cột trục dãn hướng
+-trụ trục dãn hướng
+-trục dẫn đường
+@Lĩnh vực: toán & tin
+-cột in
+-hàng (chữ số)
+-trường
+@Lĩnh vực: y học
+-cột, trụ
+@Lĩnh vực: cơ khí & công trình
+-trụ máy
+@Lĩnh vực: hóa học & vật liệu
+-xylanh

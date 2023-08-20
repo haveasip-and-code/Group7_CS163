@@ -1,3 +1,6 @@
-syncline
-	@syncline\n* danh từ\n- (địa lý) nếp lõm; nếp uốn lõm\n@Chuyên ngành kỹ thuật\n-nếp lõm\n-nếp võng (địa chất)
-
+syncline	@syncline
+* danh từ
+- (địa lý) nếp lõm; nếp uốn lõm
+@Chuyên ngành kỹ thuật
+-nếp lõm
+-nếp võng (địa chất)

@@ -1,3 +1,2 @@
-bounds
-	@Chuyên ngành kỹ thuật\n-giới hạn
-
+bounds	@Chuyên ngành kỹ thuật
+-giới hạn

@@ -1,3 +1,4 @@
-veneered
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được lát mặt\n-được ốp mặt
-
+veneered	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được lát mặt
+-được ốp mặt

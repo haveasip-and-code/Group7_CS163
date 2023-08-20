@@ -1,3 +1,7 @@
-moneys
-	@Chuyên ngành kinh tế\n-của cải\n-những số tiền\n-tài sản\n-tiền của\n-tư bản\n-vốn
-
+moneys	@Chuyên ngành kinh tế
+-của cải
+-những số tiền
+-tài sản
+-tiền của
+-tư bản
+-vốn

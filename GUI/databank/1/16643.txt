@@ -1,3 +1,4 @@
-downtick
-	@Chuyên ngành kinh tế\n-dấu giảm\n-dấu giáng
-
+downtick	
+@Chuyên ngành kinh tế
+-dấu giảm
+-dấu giáng

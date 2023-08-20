@@ -1,3 +1,2 @@
-analyzable
-	@analyzable\n- xem analyze
-
+analyzable	@analyzable
+- xem analyze

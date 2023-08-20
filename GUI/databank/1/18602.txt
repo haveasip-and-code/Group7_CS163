@@ -1,3 +1,16 @@
-enumerate
-	@enumerate /i'nju:məreit/\n*  ngoại động từ\n- đếm; kê; liệt kê\n@Chuyên ngành kỹ thuật\n-đánh số\n-đếm\n-đếm được\n@Lĩnh vực: xây dựng\n-kê khai\n@Chuyên ngành kỹ thuật\n-đánh số\n-đếm\n-đếm được\n@Lĩnh vực: xây dựng\n-kê khai
-
+enumerate	
+@enumerate /i'nju:məreit/
+*  ngoại động từ
+- đếm; kê; liệt kê
+@Chuyên ngành kỹ thuật
+-đánh số
+-đếm
+-đếm được
+@Lĩnh vực: xây dựng
+-kê khai
+@Chuyên ngành kỹ thuật
+-đánh số
+-đếm
+-đếm được
+@Lĩnh vực: xây dựng
+-kê khai

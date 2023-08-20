@@ -1,3 +1,7 @@
-pollutant
-	@pollutant\n* danh từ\n- chất gây ô nhiễm (do xe cộ, động cơ  thải ra)\n@Chuyên ngành kỹ thuật\n-chất bẩn\n@Lĩnh vực: hóa học & vật liệu\n-chất làm ô nhiễm
-
+pollutant	@pollutant
+* danh từ
+- chất gây ô nhiễm (do xe cộ, động cơ  thải ra)
+@Chuyên ngành kỹ thuật
+-chất bẩn
+@Lĩnh vực: hóa học & vật liệu
+-chất làm ô nhiễm

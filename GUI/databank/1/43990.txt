@@ -1,3 +1,11 @@
-prominent
-	@prominent /prominent/\n*  tính từ\n- lồi lên, nhô lên\n- đáng chú ý, nổi bật\n- xuất chúng, lỗi lạc, nổi tiếng (người)\n@Chuyên ngành kinh tế\n-đáng chú ý\n-nổi bật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nổi bật
-
+prominent	@prominent /prominent/
+*  tính từ
+- lồi lên, nhô lên
+- đáng chú ý, nổi bật
+- xuất chúng, lỗi lạc, nổi tiếng (người)
+@Chuyên ngành kinh tế
+-đáng chú ý
+-nổi bật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nổi bật

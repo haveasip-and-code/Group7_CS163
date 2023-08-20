@@ -1,3 +1,5 @@
-toiletries
-	@toiletries\n* danh từ, pl\n- các vật dụng dùng khi tắm rửa (xà phòng, bàn chải )\n@Chuyên ngành kinh tế\n-mặt hàng trang điểm (đồ dùng trong việc rửa ráy, ăn mặc)
-
+toiletries	@toiletries
+* danh từ, pl
+- các vật dụng dùng khi tắm rửa (xà phòng, bàn chải )
+@Chuyên ngành kinh tế
+-mặt hàng trang điểm (đồ dùng trong việc rửa ráy, ăn mặc)

@@ -1,3 +1,2 @@
-pastiness
-	@pastiness\n- xem pasty
-
+pastiness	@pastiness
+- xem pasty

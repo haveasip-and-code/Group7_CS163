@@ -1,3 +1,7 @@
-statics
-	@statics /'stætiks/\n*  danh từ,  số nhiều dùng như số ít\n- tĩnh học\n@Chuyên ngành kỹ thuật\n-tĩnh\n@Lĩnh vực: y học\n-tĩnh học
-
+statics	@statics /'stætiks/
+*  danh từ,  số nhiều dùng như số ít
+- tĩnh học
+@Chuyên ngành kỹ thuật
+-tĩnh
+@Lĩnh vực: y học
+-tĩnh học

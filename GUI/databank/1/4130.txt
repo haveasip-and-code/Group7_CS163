@@ -1,3 +1,4 @@
-autostrada
-	@autostrada\n-xem auto-road
-
+autostrada	
+@autostrada
+-xem auto
+-road

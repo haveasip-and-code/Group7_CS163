@@ -1,3 +1,8 @@
-permafrost
-	@permafrost\n* danh từ\n- tầng đất bị đóng băng vĩnh cửu (ở vùng cực)\n@Chuyên ngành kỹ thuật\n-đóng băng vĩnh viễn\n@Lĩnh vực: xây dựng\n-đóng băng thường xuyên\n-tầng đất (có) băng vĩnh cữu
-
+permafrost	@permafrost
+* danh từ
+- tầng đất bị đóng băng vĩnh cửu (ở vùng cực)
+@Chuyên ngành kỹ thuật
+-đóng băng vĩnh viễn
+@Lĩnh vực: xây dựng
+-đóng băng thường xuyên
+-tầng đất (có) băng vĩnh cữu

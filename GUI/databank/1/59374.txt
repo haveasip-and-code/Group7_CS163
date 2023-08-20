@@ -1,3 +1,4 @@
-undocking
-	@undocking\n* danh từ\n- sự đưa ra khỏi bến (tàu, thuyền)\n- sự tách rời; sự tháo rời (các con tàu vũ trụ)
-
+undocking	@undocking
+* danh từ
+- sự đưa ra khỏi bến (tàu, thuyền)
+- sự tách rời; sự tháo rời (các con tàu vũ trụ)

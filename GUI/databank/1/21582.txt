@@ -1,3 +1,35 @@
-fluid
-	@fluid /fluid/\n*  tính từ\n- lỏng, dễ cháy\n- hay thay đổi\n=fluid opinion+ ý kiến hay thay đổi\n- (quân sự) di động (mặt trận...)\n*  danh từ\n- chất lỏng (gồm chất nước và chất khí)\n@Chuyên ngành kinh tế\n-chất lỏng\n-dễ chảy\n-lỏng\n@Chuyên ngành kỹ thuật\n-chất lưu động\n-dễ chảy\n-dung dịch\n-lỏng\n-lưu chất\n@Lĩnh vực: y học\n-chất lỏng\n@Lĩnh vực: điện\n-chất lỏng (*)\n@Chuyên ngành kỹ thuật\n-chất lưu động\n-dễ chảy\n-dung dịch\n-lỏng\n-lưu chất\n@Lĩnh vực: y học\n-chất lỏng\n@Lĩnh vực: điện\n-chất lỏng (*)
-
+fluid	
+@fluid /fluid/
+*  tính từ
+- lỏng, dễ cháy
+- hay thay đổi=fluid opinion
++ ý kiến hay thay đổi
+- (quân sự) di động (mặt trận...)
+*  danh từ
+- chất lỏng (gồm chất nước và chất khí)
+@Chuyên ngành kinh tế
+-chất lỏng
+-dễ chảy
+-lỏng
+@Chuyên ngành kỹ thuật
+-chất lưu động
+-dễ chảy
+-dung dịch
+-lỏng
+-lưu chất
+@Lĩnh vực: y học
+-chất lỏng
+@Lĩnh vực: điện
+-chất lỏng (
+*)
+@Chuyên ngành kỹ thuật
+-chất lưu động
+-dễ chảy
+-dung dịch
+-lỏng
+-lưu chất
+@Lĩnh vực: y học
+-chất lỏng
+@Lĩnh vực: điện
+-chất lỏng (
+*)

@@ -1,3 +1,10 @@
-endogen
-	@endogen\n* danh từ\n- (thực vật) thực vật nội trường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nội sinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nội sinh
-
+endogen	
+@endogen
+* danh từ
+- (thực vật) thực vật nội trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-nội sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-nội sinh

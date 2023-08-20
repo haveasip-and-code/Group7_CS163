@@ -1,3 +1,14 @@
-annotation
-	@annotation /,ænou'teiʃn/\n*  danh từ\n- sự chú giải, sự chú thích\n- lời chú giải, lời chú thích\n@Chuyên ngành kinh tế\n-chú thích\n-lời chú giải\n-sự chú giải\n@Chuyên ngành kỹ thuật\n-chú giải\n-diễn giải\n-ghi chú\n@Lĩnh vực: toán & tin\n-chú thích
-
+annotation	@annotation /,ænou'teiʃn/
+*  danh từ
+- sự chú giải, sự chú thích
+- lời chú giải, lời chú thích
+@Chuyên ngành kinh tế
+-chú thích
+-lời chú giải
+-sự chú giải
+@Chuyên ngành kỹ thuật
+-chú giải
+-diễn giải
+-ghi chú
+@Lĩnh vực: toán & tin
+-chú thích

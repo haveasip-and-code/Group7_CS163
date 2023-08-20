@@ -1,3 +1,12 @@
-jade
-	@jade /dʤeid/\n*  danh từ\n- ngọc bích\n- mùa ngọc bích\n*  danh từ\n- ngựa tồi, ngựa già ốm\n-(đùa cợt) con mụ, con bé\n*  ngoại động từ ((thường) động tính từ quá khứ)\n- bắt làm việc mệt nhoài; làm mệt lử\n@Chuyên ngành kỹ thuật\n-ngọc
-
+jade	
+@jade /dʤeid/
+*  danh từ
+- ngọc bích
+- mùa ngọc bích
+*  danh từ
+- ngựa tồi, ngựa già ốm
+-(đùa cợt) con mụ, con bé
+*  ngoại động từ ((thường) động tính từ quá khứ)
+- bắt làm việc mệt nhoài; làm mệt lử
+@Chuyên ngành kỹ thuật
+-ngọc

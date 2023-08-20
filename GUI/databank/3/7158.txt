@@ -1,3 +1,6 @@
-bunkering
-	@Chuyên ngành kinh tế\n-việc tiếp nhận nhiên liệu ở cảng\n@Chuyên ngành kỹ thuật\n-dự trữ nhiên liệu\n@Lĩnh vực: hóa học & vật liệu\n-chứa trong hầm
-
+bunkering	@Chuyên ngành kinh tế
+-việc tiếp nhận nhiên liệu ở cảng
+@Chuyên ngành kỹ thuật
+-dự trữ nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+-chứa trong hầm

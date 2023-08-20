@@ -1,3 +1,17 @@
-unequal
-	@unequal /'ʌn'i:kwəl/\n*  tính từ\n- không bằng, không ngang, không đều\n=unequal parts+ những phần không đều nhau\n=unequal pulse+ mạch không đều\n- thật thường\n=unequal temper+ tính khí thất thường\n- không bình đẳng\n=unequal treaty+ hiệp ước không bình đẳng\n- không vừa sức, không kham nổi\n=to be unequal to doing something+ không kham nổi việc gì, không đủ sức làm việc gì\n- không đồng đều từ đầu đến cuối, đoạn hay đoạn dở (bài viết)\n@Chuyên ngành kỹ thuật\n-không bằng\n-không bằng nhau\n-không cân bằng\n-không đều
-
+unequal	@unequal /'ʌn'i:kwəl/
+*  tính từ
+- không bằng, không ngang, không đều
+=unequal parts+ những phần không đều nhau
+=unequal pulse+ mạch không đều
+- thật thường
+=unequal temper+ tính khí thất thường
+- không bình đẳng
+=unequal treaty+ hiệp ước không bình đẳng
+- không vừa sức, không kham nổi
+=to be unequal to doing something+ không kham nổi việc gì, không đủ sức làm việc gì
+- không đồng đều từ đầu đến cuối, đoạn hay đoạn dở (bài viết)
+@Chuyên ngành kỹ thuật
+-không bằng
+-không bằng nhau
+-không cân bằng
+-không đều

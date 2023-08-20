@@ -1,3 +1,59 @@
-match
-	@match /mætʃ/\n*  danh từ\n- diêm\n- ngòi (châm súng hoả mai...)\n*  danh từ\n- cuộc thi đấu\n=a match of football+ một cuộc thi đấu bóng đá\n- địch thủ, đối thủ; người ngang tài, người ngang sức\n=to meet one's match+ gặp đối thủ\n=to have not one's+ không có đối thủ\n- cái xứng nhau, cái hợp nhau\n=these two kinds of cloth are a good match+ hai loại vải này rất hợp nhau\n- sự kết hôn; hôn nhân\n=to make a match+ tác thành nên một việc hôn nhân\n- đám (chỉ người định lấy làm vợ hay làm chồng)\n=she (he) is a good match+ cái đám ấy tốt đấy\n*  ngoại động từ\n- đối chọi, địch được, sánh được, đối được\n=worldly pleasures cannot match those joys+ những thú trần tục không thể sánh được với những niềm vui này\n- làm cho hợp, làm cho phù hợp\n=they are well matched+ hai người hợp nhau lắm, hai người rất tốt đôi; hai người thật là kỳ phùng địch thủ\n=to match words with deeds+ làm cho lời nói phù hợp với việc làm\n- gả, cho lấy\n*  nội động từ\n- xứng, hợp\n=these two colours do not match+ hai màu này không hợp nhau\n@Chuyên ngành kinh tế\n-doanh vụ bù trừ nhau\n-doanh vụ xứng hợp nhau\n@Chuyên ngành kỹ thuật\n-buộc\n-ghép\n-ghép mộng xoi\n-khớp\n-làm cho khớp\n-làm khớp\n-làm thích ứng\n-làm tiếp hợp\n-làm tương hợp\n-lắp vào\n-ngói (nổ)\n-nút\n-phối hợp\n-phù hợp\n-ràng buộc\n-so khớp\n-xoi rãnh\n@Lĩnh vực: toán & tin\n-cuộc đấu\n@Lĩnh vực: xây dựng\n-dây đốt\n-làm ván cừ\n@Lĩnh vực: hóa học & vật liệu\n-diêm// ngòi cháy\n-ngòi cháy/dây cháy chậm\n@Lĩnh vực: điện lạnh\n-ghép phù hợp\n@Lĩnh vực: cơ khí & công trình\n-phối chọn
-
+match	@match /mætʃ/
+*  danh từ
+- diêm
+- ngòi (châm súng hoả mai...)
+*  danh từ
+- cuộc thi đấu
+=a match of football+ một cuộc thi đấu bóng đá
+- địch thủ, đối thủ; người ngang tài, người ngang sức
+=to meet one's match+ gặp đối thủ
+=to have not one's+ không có đối thủ
+- cái xứng nhau, cái hợp nhau
+=these two kinds of cloth are a good match+ hai loại vải này rất hợp nhau
+- sự kết hôn; hôn nhân
+=to make a match+ tác thành nên một việc hôn nhân
+- đám (chỉ người định lấy làm vợ hay làm chồng)
+=she (he) is a good match+ cái đám ấy tốt đấy
+*  ngoại động từ
+- đối chọi, địch được, sánh được, đối được
+=worldly pleasures cannot match those joys+ những thú trần tục không thể sánh được với những niềm vui này
+- làm cho hợp, làm cho phù hợp
+=they are well matched+ hai người hợp nhau lắm, hai người rất tốt đôi; hai người thật là kỳ phùng địch thủ
+=to match words with deeds+ làm cho lời nói phù hợp với việc làm
+- gả, cho lấy
+*  nội động từ
+- xứng, hợp
+=these two colours do not match+ hai màu này không hợp nhau
+@Chuyên ngành kinh tế
+-doanh vụ bù trừ nhau
+-doanh vụ xứng hợp nhau
+@Chuyên ngành kỹ thuật
+-buộc
+-ghép
+-ghép mộng xoi
+-khớp
+-làm cho khớp
+-làm khớp
+-làm thích ứng
+-làm tiếp hợp
+-làm tương hợp
+-lắp vào
+-ngói (nổ)
+-nút
+-phối hợp
+-phù hợp
+-ràng buộc
+-so khớp
+-xoi rãnh
+@Lĩnh vực: toán & tin
+-cuộc đấu
+@Lĩnh vực: xây dựng
+-dây đốt
+-làm ván cừ
+@Lĩnh vực: hóa học & vật liệu
+-diêm// ngòi cháy
+-ngòi cháy/dây cháy chậm
+@Lĩnh vực: điện lạnh
+-ghép phù hợp
+@Lĩnh vực: cơ khí & công trình
+-phối chọn

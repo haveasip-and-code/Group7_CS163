@@ -1,3 +1,2 @@
-residues
-	@Chuyên ngành kỹ thuật\n-bã
-
+residues	@Chuyên ngành kỹ thuật
+-bã

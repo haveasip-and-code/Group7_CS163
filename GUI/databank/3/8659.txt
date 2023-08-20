@@ -1,3 +1,5 @@
-chairperson
-	@chairperson\n* danh từ\n- chủ tịch\n@Chuyên ngành kinh tế\n-chủ tịch
-
+chairperson	@chairperson
+* danh từ
+- chủ tịch
+@Chuyên ngành kinh tế
+-chủ tịch

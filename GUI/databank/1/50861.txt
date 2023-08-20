@@ -1,3 +1,5 @@
-sintering
-	@Chuyên ngành kỹ thuật\n-sự nung kết\n-sự tổng hợp\n@Lĩnh vực: điện lạnh\n-sự dung kết
-
+sintering	@Chuyên ngành kỹ thuật
+-sự nung kết
+-sự tổng hợp
+@Lĩnh vực: điện lạnh
+-sự dung kết

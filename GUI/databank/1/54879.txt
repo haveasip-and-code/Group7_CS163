@@ -1,3 +1,11 @@
-surtax
-	@surtax /'sə:tæks/\n*  ngoại động từ\n- thuế phụ\n- thuế lợi tức luỹ tiến\n*  ngoại động từ\n- đánh thuế phụ\n@Chuyên ngành kinh tế\n-đánh thuế phụ thu\n-đánh thuế thu nhập lũy tiến siêu ngạch\n-thuế phụ thu\n-thuế thu thêm theo mức thu nhập
-
+surtax	@surtax /'sə:tæks/
+*  ngoại động từ
+- thuế phụ
+- thuế lợi tức luỹ tiến
+*  ngoại động từ
+- đánh thuế phụ
+@Chuyên ngành kinh tế
+-đánh thuế phụ thu
+-đánh thuế thu nhập lũy tiến siêu ngạch
+-thuế phụ thu
+-thuế thu thêm theo mức thu nhập

@@ -1,3 +1,4 @@
-gyroscopes
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-động hồi chuyển
-
+gyroscopes	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-động hồi chuyển

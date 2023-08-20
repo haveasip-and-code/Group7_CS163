@@ -1,3 +1,8 @@
-tsunami
-	@tsunami\n* danh từ\n- số nhiều tsunamis\n- sóng lớn (gây ra do động đất ngầm dưới nước), sóng do địa chấn, sóng thần\n@Chuyên ngành kỹ thuật\n-sóng thần\n@Lĩnh vực: giao thông & vận tải\n-sóng địa chấn biển
-
+tsunami	@tsunami
+* danh từ
+- số nhiều tsunamis
+- sóng lớn (gây ra do động đất ngầm dưới nước), sóng do địa chấn, sóng thần
+@Chuyên ngành kỹ thuật
+-sóng thần
+@Lĩnh vực: giao thông & vận tải
+-sóng địa chấn biển

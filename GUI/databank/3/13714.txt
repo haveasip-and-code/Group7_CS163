@@ -1,3 +1,2 @@
-debunker
-	@debunker\n- xem debunk
-
+debunker	@debunker
+- xem debunk

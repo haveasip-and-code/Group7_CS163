@@ -1,3 +1,10 @@
-paginate
-	@paginate /'pædʤineit/\n*  ngoại động từ\n- đánh số trang\n@Chuyên ngành kỹ thuật\n-đánh số trang\n-phân trang\n@Lĩnh vực: toán & tin\n-chia trang\n@Lĩnh vực: xây dựng\n-sắp trang
-
+paginate	@paginate /'pædʤineit/
+*  ngoại động từ
+- đánh số trang
+@Chuyên ngành kỹ thuật
+-đánh số trang
+-phân trang
+@Lĩnh vực: toán & tin
+-chia trang
+@Lĩnh vực: xây dựng
+-sắp trang

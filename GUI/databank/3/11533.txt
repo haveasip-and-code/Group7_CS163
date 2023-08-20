@@ -1,3 +1,2 @@
-contester
-	@contester\n- xem contest
-
+contester	@contester
+- xem contest

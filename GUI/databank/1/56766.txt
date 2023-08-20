@@ -1,3 +1,8 @@
-tinting
-	@Chuyên ngành kỹ thuật\n-nhuộm\n-sự nhuộm màu\n-sự tô màu\n-sự tô màu dần\n@Lĩnh vực: hóa học & vật liệu\n-sự bôi màu\n-sự tạo sắc
-
+tinting	@Chuyên ngành kỹ thuật
+-nhuộm
+-sự nhuộm màu
+-sự tô màu
+-sự tô màu dần
+@Lĩnh vực: hóa học & vật liệu
+-sự bôi màu
+-sự tạo sắc

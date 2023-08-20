@@ -1,3 +1,6 @@
-zyme
-	@Chuyên ngành kinh tế\n-zymin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enzim\n-tác nhân gây lên men
-
+zyme	@Chuyên ngành kinh tế
+-zymin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-enzim
+-tác nhân gây lên men

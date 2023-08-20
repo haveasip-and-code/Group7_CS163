@@ -1,3 +1,8 @@
-typology
-	@typology\n* danh từ\n- loại hình học\n- hệ thống các kiểu hình, hệ thống các loại hình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-điển hình luận\n-kiểu loại học
-
+typology	@typology
+* danh từ
+- loại hình học
+- hệ thống các kiểu hình, hệ thống các loại hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-điển hình luận
+-kiểu loại học

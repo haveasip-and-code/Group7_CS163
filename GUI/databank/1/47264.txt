@@ -1,3 +1,2 @@
-retailers
-	@Chuyên ngành kinh tế\n-những người bán lẻ
-
+retailers	@Chuyên ngành kinh tế
+-những người bán lẻ

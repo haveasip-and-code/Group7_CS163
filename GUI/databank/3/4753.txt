@@ -1,3 +1,2 @@
-barographic
-	@barographic\n- xem barograph
-
+barographic	@barographic
+- xem barograph

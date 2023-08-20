@@ -1,3 +1,20 @@
-obsolete
-	@obsolete /'ɔbsəli:t/\n*  tính từ\n- không dùng nữa, cổ xưa, cũ; đã lỗi thời; đã quá hạn (vé xe...)\n=obsolete text-books+ những sách giáo khoa không còn dùng nữa\n=obsolete words+ những từ cũ\n- (sinh vật học) teo đi (cơ quan)\n*  danh từ\n- người cổ\n- vật cổ\n@Chuyên ngành kinh tế\n-bỏ đi\n-cũ kỹ\n-đã lỗi thời\n-hết dùng\n-phế bỏ\n@Chuyên ngành kỹ thuật\n-không đúng\n-lỗi thời\n-phế bỏ\n-quá hạn
-
+obsolete	@obsolete /'ɔbsəli:t/
+*  tính từ
+- không dùng nữa, cổ xưa, cũ; đã lỗi thời; đã quá hạn (vé xe...)
+=obsolete text-books+ những sách giáo khoa không còn dùng nữa
+=obsolete words+ những từ cũ
+- (sinh vật học) teo đi (cơ quan)
+*  danh từ
+- người cổ
+- vật cổ
+@Chuyên ngành kinh tế
+-bỏ đi
+-cũ kỹ
+-đã lỗi thời
+-hết dùng
+-phế bỏ
+@Chuyên ngành kỹ thuật
+-không đúng
+-lỗi thời
+-phế bỏ
+-quá hạn

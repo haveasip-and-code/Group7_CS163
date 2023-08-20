@@ -1,3 +1,6 @@
-chattering
-	@Chuyên ngành kỹ thuật\n-nói chuyện\n-tán gẫu\n-tiếng lách cách\n@Lĩnh vực: toán & tin\n-tán chuyện
-
+chattering	@Chuyên ngành kỹ thuật
+-nói chuyện
+-tán gẫu
+-tiếng lách cách
+@Lĩnh vực: toán & tin
+-tán chuyện

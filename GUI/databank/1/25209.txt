@@ -1,3 +1,6 @@
-headset
-	@headset /'hedset/\n*  danh từ\n- bộ ống nghe (điện đài)\n@Chuyên ngành kỹ thuật\n-ống choàng đầu
-
+headset	
+@headset /'hedset/
+*  danh từ
+- bộ ống nghe (điện đài)
+@Chuyên ngành kỹ thuật
+-ống choàng đầu

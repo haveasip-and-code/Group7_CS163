@@ -1,3 +1,5 @@
-depleted
-	@Chuyên ngành kỹ thuật\n-đã dùng hết\n@Lĩnh vực: hóa học & vật liệu\n-đã làm nghèo
-
+depleted	
+@Chuyên ngành kỹ thuật
+-đã dùng hết
+@Lĩnh vực: hóa học & vật liệu
+-đã làm nghèo

@@ -1,3 +1,9 @@
-enzymatic
-	@enzymatic\n- xem enzyme\n@Chuyên ngành kinh tế\n-thuộc enzim\n@Chuyên ngành kỹ thuật\n-men\n@Chuyên ngành kỹ thuật\n-men
-
+enzymatic	
+@enzymatic
+- xem enzyme
+@Chuyên ngành kinh tế
+-thuộc enzim
+@Chuyên ngành kỹ thuật
+-men
+@Chuyên ngành kỹ thuật
+-men

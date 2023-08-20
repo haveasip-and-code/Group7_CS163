@@ -1,3 +1,6 @@
-chiselling
-	@Chuyên ngành kinh tế\n-sự chặt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sự bạt bằng đục\n-sự chặt bằng đục
-
+chiselling	@Chuyên ngành kinh tế
+-sự chặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sự bạt bằng đục
+-sự chặt bằng đục

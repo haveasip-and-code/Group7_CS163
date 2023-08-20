@@ -1,3 +1,15 @@
-plenum
-	@plenum /'pli:nəm/\n*  danh từ\n- (vật lý) khoảng đầy (một chất gì, ngược với khoảng trống)\n- phiên họp toàn thể\n!plenum system\n- hệ thống thông gió vào\n@Chuyên ngành kỹ thuật\n-hệ thống thông gió vào\n-vùng cao áp\n@Lĩnh vực: xây dựng\n-khoảng chứa\n-khoảng đầy\n-phiên họp toàn thể\n@Lĩnh vực: ô tô\n-khoang chứa đầy
-
+plenum	@plenum /'pli:nəm/
+*  danh từ
+- (vật lý) khoảng đầy (một chất gì, ngược với khoảng trống)
+- phiên họp toàn thể
+!plenum system
+- hệ thống thông gió vào
+@Chuyên ngành kỹ thuật
+-hệ thống thông gió vào
+-vùng cao áp
+@Lĩnh vực: xây dựng
+-khoảng chứa
+-khoảng đầy
+-phiên họp toàn thể
+@Lĩnh vực: ô tô
+-khoang chứa đầy

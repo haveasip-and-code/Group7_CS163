@@ -1,3 +1,4 @@
-multipole
-	@multipole\n- (vật lí) cực bội\n@Chuyên ngành kỹ thuật\n-đa cực
-
+multipole	@multipole
+- (vật lí) cực bội
+@Chuyên ngành kỹ thuật
+-đa cực

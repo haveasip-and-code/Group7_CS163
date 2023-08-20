@@ -1,3 +1,9 @@
-stadium
-	@stadium /'steidjəm/\n*  danh từ,  số nhiều stadia\n- sân vận động\n- đường đua\n- Xtađiom (đơn vị đo chiều dài bằng khoảng 184 m)\n- (y học) giai đoạn, thời kỳ (bệnh)\n- (sinh vật học) thời kỳ gian biến thái (sâu bọ)\n@Chuyên ngành kỹ thuật\n-sân vận động
-
+stadium	@stadium /'steidjəm/
+*  danh từ,  số nhiều stadia
+- sân vận động
+- đường đua
+- Xtađiom (đơn vị đo chiều dài bằng khoảng 184 m)
+- (y học) giai đoạn, thời kỳ (bệnh)
+- (sinh vật học) thời kỳ gian biến thái (sâu bọ)
+@Chuyên ngành kỹ thuật
+-sân vận động

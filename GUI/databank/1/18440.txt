@@ -1,3 +1,22 @@
-enrich
-	@enrich /in'ritʃ/\n*  ngoại động từ\n- làm giàu, làm giàu thêm, làm phong phú\n- làm tốt thêm, làm màu mỡ thêm; bón phân (đất trồng)\n- (y học) cho vitamin vào (thức ăn, bánh mì...)\n@Chuyên ngành kinh tế\n-làm giàu\n-làm phong phú\n-vitaminh hóa\n@Chuyên ngành kỹ thuật\n-làm giàu\n@Lĩnh vực: hóa học & vật liệu\n-tuyển (quặng)\n@Lĩnh vực: xây dựng\n-tuyển khoáng\n@Chuyên ngành kỹ thuật\n-làm giàu\n@Lĩnh vực: hóa học & vật liệu\n-tuyển (quặng)\n@Lĩnh vực: xây dựng\n-tuyển khoáng
-
+enrich	
+@enrich /in'ritʃ/
+*  ngoại động từ
+- làm giàu, làm giàu thêm, làm phong phú
+- làm tốt thêm, làm màu mỡ thêm; bón phân (đất trồng)
+- (y học) cho vitamin vào (thức ăn, bánh mì...)
+@Chuyên ngành kinh tế
+-làm giàu
+-làm phong phú
+-vitaminh hóa
+@Chuyên ngành kỹ thuật
+-làm giàu
+@Lĩnh vực: hóa học & vật liệu
+-tuyển (quặng)
+@Lĩnh vực: xây dựng
+-tuyển khoáng
+@Chuyên ngành kỹ thuật
+-làm giàu
+@Lĩnh vực: hóa học & vật liệu
+-tuyển (quặng)
+@Lĩnh vực: xây dựng
+-tuyển khoáng

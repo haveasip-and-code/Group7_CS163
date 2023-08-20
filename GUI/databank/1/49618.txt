@@ -1,3 +1,4 @@
-seismicity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-độ động đất\n-tính động đất
-
+seismicity	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-độ động đất
+-tính động đất

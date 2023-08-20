@@ -1,3 +1,20 @@
-sliding
-	@sliding\n* danh từ\n- sự trượt\n* tính từ\n- dễ trượt\n@Chuyên ngành kỹ thuật\n-độ trượt\n-lướt\n-sự quay trượt\n-sự trườn\n-sự trượt\n-trượt\n@Lĩnh vực: xây dựng\n-sự luồn qua\n-sụt nở\n-trượt lở\n@Lĩnh vực: điện lạnh\n-sự lướt\n@Lĩnh vực: toán & tin\n-sự trượt, sự chạy
-
+sliding	@sliding
+* danh từ
+- sự trượt
+* tính từ
+- dễ trượt
+@Chuyên ngành kỹ thuật
+-độ trượt
+-lướt
+-sự quay trượt
+-sự trườn
+-sự trượt
+-trượt
+@Lĩnh vực: xây dựng
+-sự luồn qua
+-sụt nở
+-trượt lở
+@Lĩnh vực: điện lạnh
+-sự lướt
+@Lĩnh vực: toán & tin
+-sự trượt, sự chạy

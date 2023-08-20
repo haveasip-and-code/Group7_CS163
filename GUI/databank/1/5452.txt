@@ -1,3 +1,20 @@
-bidder
-	@bidder /'bidə/\n*  danh từ\n- người trả giá\n=the highest bidder+ người trả giá cao nhất\n- người mời\n- người xướng bài (bài brit)\n@Chuyên ngành kinh tế\n-người đấu giá\n-người đấu thầu\n-người ra giá (đấu thầu)\n@Chuyên ngành kỹ thuật\n-người dự đấu thầu\n-người mời\n-nhà thầu\n@Lĩnh vực: điện tử & viễn thông\n-bộ dẫn nhập\n@Lĩnh vực: xây dựng\n-người trả giá thầu\n-người ứng thầu
-
+bidder	
+@bidder /'bidə/
+*  danh từ
+- người trả giá=the highest bidder
++ người trả giá cao nhất
+- người mời
+- người xướng bài (bài brit)
+@Chuyên ngành kinh tế
+-người đấu giá
+-người đấu thầu
+-người ra giá (đấu thầu)
+@Chuyên ngành kỹ thuật
+-người dự đấu thầu
+-người mời
+-nhà thầu
+@Lĩnh vực: điện tử & viễn thông
+-bộ dẫn nhập
+@Lĩnh vực: xây dựng
+-người trả giá thầu
+-người ứng thầu

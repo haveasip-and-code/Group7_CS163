@@ -1,3 +1,21 @@
-recast
-	@recast /'ri:'kɑ:st/\n*  danh từ\n- sự đúc lại (một khẩu pháo...); vật đúc lại\n- sự viết lại (một chương)\n- sự tính lại (một cột số) số tính lại\n- (sân khấu) sự phân lại vai (trong một vở kịch); các vai phân lại\n*  ngoại động từ recast\n- đúc lại\n=to recast a gun+ đúc lại một khẩu pháo\n- viết lại\n=to recast a chapter+ viết lại một chương\n- tỉnh lại\n=to recast a column of figures+ tính lại, (cộng lại) một cột số\n- phân lại vai\n=to recast a play+ phân lại vai trong một vở kịch\n@Chuyên ngành kỹ thuật\n-đúc lại\n-sự đúc lại\n-sự tính lại\n@Lĩnh vực: toán & tin\n-tính lại
-
+recast	@recast /'ri:'kɑ:st/
+*  danh từ
+- sự đúc lại (một khẩu pháo...); vật đúc lại
+- sự viết lại (một chương)
+- sự tính lại (một cột số) số tính lại
+- (sân khấu) sự phân lại vai (trong một vở kịch); các vai phân lại
+*  ngoại động từ recast
+- đúc lại
+=to recast a gun+ đúc lại một khẩu pháo
+- viết lại
+=to recast a chapter+ viết lại một chương
+- tỉnh lại
+=to recast a column of figures+ tính lại, (cộng lại) một cột số
+- phân lại vai
+=to recast a play+ phân lại vai trong một vở kịch
+@Chuyên ngành kỹ thuật
+-đúc lại
+-sự đúc lại
+-sự tính lại
+@Lĩnh vực: toán & tin
+-tính lại

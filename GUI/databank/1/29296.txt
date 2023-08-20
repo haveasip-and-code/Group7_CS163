@@ -1,3 +1,7 @@
-interferon
-	@interferon\n* danh từ\n- loại prôtêin do tế bào cơ thể sinh ra khi bị vírut tấn công, nhằm ngăn không cho virut phát triển\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một chất do các tế bào bị nhiễm vi rút sản sinh ra có khả năng ức chế tăng trưởng virút
-
+interferon	
+@interferon
+* danh từ
+- loại prôtêin do tế bào cơ thể sinh ra khi bị vírut tấn công, nhằm ngăn không cho virut phát triển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một chất do các tế bào bị nhiễm vi rút sản sinh ra có khả năng ức chế tăng trưởng virút

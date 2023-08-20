@@ -1,3 +1,2 @@
-vanguardist
-	@vanguardist\n- xem vanguard
-
+vanguardist	@vanguardist
+- xem vanguard

@@ -1,3 +1,26 @@
-spline
-	@spline /splain/\n*  danh từ\n- chốt trục (ở bánh xe\n- (như) slat\n@Chuyên ngành kỹ thuật\n-cái chêm\n-chốt trục\n-đường rãnh\n-hình khía răng cưa\n-mặt xoắn ốc\n-mộng ghép\n-rãnh chữ V\n-then\n-then dẫn hướng\n@Lĩnh vực: cơ khí & công trình\n-chế tạo then hoa\n-chốt chìm\n-chốt rãnh\n-đường khía (ở đầu trục phát động)\n-rãnh then (trượt)\n@Lĩnh vực: xây dựng\n-đinh ghép nối\n-đóng chốt sắt\n@Lĩnh vực: toán & tin\n-hàm nối trục\n-hàm spine
-
+spline	@spline /splain/
+*  danh từ
+- chốt trục (ở bánh xe
+- (như) slat
+@Chuyên ngành kỹ thuật
+-cái chêm
+-chốt trục
+-đường rãnh
+-hình khía răng cưa
+-mặt xoắn ốc
+-mộng ghép
+-rãnh chữ V
+-then
+-then dẫn hướng
+@Lĩnh vực: cơ khí & công trình
+-chế tạo then hoa
+-chốt chìm
+-chốt rãnh
+-đường khía (ở đầu trục phát động)
+-rãnh then (trượt)
+@Lĩnh vực: xây dựng
+-đinh ghép nối
+-đóng chốt sắt
+@Lĩnh vực: toán & tin
+-hàm nối trục
+-hàm spine

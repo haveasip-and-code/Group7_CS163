@@ -1,3 +1,19 @@
-registered
-	@registered /'redʤistəd/\n*  tính từ\n- đã đăng ký\n=registered pattern+ kiểu đã đăng ký (tại toà)\n- bảo đảm (thư)\n=registered letter+ thư bảo đảm\n@Chuyên ngành kinh tế\n-bảo đảm\n-có đăng ký\n-có đăng ký, đã đăng ký, đã ghi vào sổ (ký hiệu ?)\n-có tên\n-có tên, ghi tên, ký danh\n-đã đăng ký\n-đã ghi vào sổ\n-ghi tên\n-ký danh\n@Chuyên ngành kỹ thuật\n-đã đăng ký\n-đã ghi
-
+registered	@registered /'redʤistəd/
+*  tính từ
+- đã đăng ký
+=registered pattern+ kiểu đã đăng ký (tại toà)
+- bảo đảm (thư)
+=registered letter+ thư bảo đảm
+@Chuyên ngành kinh tế
+-bảo đảm
+-có đăng ký
+-có đăng ký, đã đăng ký, đã ghi vào sổ (ký hiệu ?)
+-có tên
+-có tên, ghi tên, ký danh
+-đã đăng ký
+-đã ghi vào sổ
+-ghi tên
+-ký danh
+@Chuyên ngành kỹ thuật
+-đã đăng ký
+-đã ghi

@@ -1,3 +1,37 @@
-lighter
-	@lighter /'laitə/\n*  danh từ\n- người thắp đèn\n- cái bật lửa\n*  danh từ\n- sà lan; thuyền bốc dỡ hàng\n*  ngoại động từ\n- chở hàng bằng xà lan\n@Chuyên ngành kinh tế\n-tàu lõng hàng\n-tàu nhỏ chuyển cất hàng\n-tàu tắc-xi\n-xà lan (xuồng) chở hàng\n@Chuyên ngành kỹ thuật\n-bật lửa\n-kíp\n-ngòi nổ\n-xà lan\n-xuồng\n@Lĩnh vực: điện lạnh\n-đèn (chiếu sáng)\n@Lĩnh vực: xây dựng\n-phà tàu hỏa\n@Lĩnh vực: giao thông & vận tải\n-sà lan\n@Chuyên ngành kỹ thuật\n-bật lửa\n-kíp\n-ngòi nổ\n-xà lan\n-xuồng\n@Lĩnh vực: điện lạnh\n-đèn (chiếu sáng)\n@Lĩnh vực: xây dựng\n-phà tàu hỏa\n@Lĩnh vực: giao thông & vận tải\n-sà lan
-
+lighter	@lighter /'laitə/
+*  danh từ
+- người thắp đèn
+- cái bật lửa
+*  danh từ
+- sà lan; thuyền bốc dỡ hàng
+*  ngoại động từ
+- chở hàng bằng xà lan
+@Chuyên ngành kinh tế
+-tàu lõng hàng
+-tàu nhỏ chuyển cất hàng
+-tàu tắc-xi
+-xà lan (xuồng) chở hàng
+@Chuyên ngành kỹ thuật
+-bật lửa
+-kíp
+-ngòi nổ
+-xà lan
+-xuồng
+@Lĩnh vực: điện lạnh
+-đèn (chiếu sáng)
+@Lĩnh vực: xây dựng
+-phà tàu hỏa
+@Lĩnh vực: giao thông & vận tải
+-sà lan
+@Chuyên ngành kỹ thuật
+-bật lửa
+-kíp
+-ngòi nổ
+-xà lan
+-xuồng
+@Lĩnh vực: điện lạnh
+-đèn (chiếu sáng)
+@Lĩnh vực: xây dựng
+-phà tàu hỏa
+@Lĩnh vực: giao thông & vận tải
+-sà lan

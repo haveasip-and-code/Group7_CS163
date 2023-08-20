@@ -1,3 +1,4 @@
-isoagglutinin
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ngưng kết tố đồng loại
-
+isoagglutinin	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ngưng kết tố đồng loại

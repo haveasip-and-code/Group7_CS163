@@ -1,3 +1,4 @@
-detainee
-	@detainee\n* danh từpháp lý\n- người bị tạm giữ do tình nghi
-
+detainee	
+@detainee
+* danh từpháp lý
+- người bị tạm giữ do tình nghi

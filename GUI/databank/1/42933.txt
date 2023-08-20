@@ -1,3 +1,2 @@
-praiser
-	@praiser\n- xem praise
-
+praiser	@praiser
+- xem praise

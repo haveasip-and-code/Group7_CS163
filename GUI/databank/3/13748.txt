@@ -1,3 +1,2 @@
-decapitator
-	@decapitator\n- xem decapitate
-
+decapitator	@decapitator
+- xem decapitate

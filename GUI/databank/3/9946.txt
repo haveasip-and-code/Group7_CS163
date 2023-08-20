@@ -1,3 +1,23 @@
-coal
-	@coal /koul/\n*  danh từ\n- than đá\n- (số nhiều) viên than đá\n!to blow the coals\n- đổ thêm dầu vào lửa\n!to cary coals to Newcastle\n- (xem) carry\n!to hand (call, rake, drag) somebody over the coals\n- xỉ vả ai, mắng nhiếc ai\n!to heap coals of fire on someone's head\n- lấy ơn trả oán, lấy thiện trả ác\n*  ngoại động từ\n- cho (tàu) ăn than; tiếp tế than cho\n=to coal a ship+ cho tàu ăn than\n*  nội động từ\n- ăn than, lấy than\n=ships coal at a port+ tàu ăn than ở cảng\n@Chuyên ngành kỹ thuật\n-lấy than\n-than đá\n@Lĩnh vực: hóa học & vật liệu\n-cục đông
-
+coal	@coal /koul/
+*  danh từ
+- than đá
+- (số nhiều) viên than đá
+!to blow the coals
+- đổ thêm dầu vào lửa
+!to cary coals to Newcastle
+- (xem) carry
+!to hand (call, rake, drag) somebody over the coals
+- xỉ vả ai, mắng nhiếc ai
+!to heap coals of fire on someone's head
+- lấy ơn trả oán, lấy thiện trả ác
+*  ngoại động từ
+- cho (tàu) ăn than; tiếp tế than cho
+=to coal a ship+ cho tàu ăn than
+*  nội động từ
+- ăn than, lấy than
+=ships coal at a port+ tàu ăn than ở cảng
+@Chuyên ngành kỹ thuật
+-lấy than
+-than đá
+@Lĩnh vực: hóa học & vật liệu
+-cục đông

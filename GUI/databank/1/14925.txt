@@ -1,3 +1,6 @@
-deterministic
-	@deterministic\n- xem determinism\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tất định
-
+deterministic	
+@deterministic
+- xem determinism
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tất định

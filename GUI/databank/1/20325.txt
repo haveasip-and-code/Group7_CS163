@@ -1,3 +1,5 @@
-faker
-	@faker /'feikə/\n*  danh từ\n- kẻ giả mạo, kẻ lừa đảo\n- (từ Mỹ,nghĩa Mỹ) người bán rong đồ nữ trang rẻ tiền
-
+faker	
+@faker /'feikə/
+*  danh từ
+- kẻ giả mạo, kẻ lừa đảo
+- (từ Mỹ,nghĩa Mỹ) người bán rong đồ nữ trang rẻ tiền

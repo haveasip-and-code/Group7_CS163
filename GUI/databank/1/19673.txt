@@ -1,3 +1,34 @@
-exercise
-	@exercise /'eksəsaiz/\n*  danh từ\n- sự thi hành, sự thực hiện; sự sử dụng (quyền, nghề nghiệp, chức năng...)\n- thể dục, sự rèn luyện thân thể\n=to do exercises+ tập thể dục\n- sự rèn luyện trí óc\n- bài tập\n- bài thi diễn thuyết\n- (số nhiều) sự tập luyện; sự tập trận sự diễn tập; thể thao quốc phòng\n- sự thờ cúng, sự lễ bái\n- (từ Mỹ,nghĩa Mỹ) (số nhiều) lễ (ở trường học...)\n*  ngoại động từ\n- làm, thi hành, thực hiện (nhiệm vụ, chức vụ...); hành (nghề...); sử dụng\n=to exercise one's right+ sử dụng\n=to exercise one's right+ sử dụng quyền hạn\n- tập luyện, rèn luyện\n=to exercise the memory+ rèn luyện trí nhớ\n=to exercise oneself+ tập luyện, rèn luyện\n- thử thách\n- (thường) dạng bị động quấy rầy, làm phiền khổ; làm băn khoăn, làm lo âu\n=he was much exercised over it+ anh ta rất phiền khổ vì điều đó; anh ta rất băn khoăn lo lắng về điều đó\n*  nội động từ\n- tập luyện; rèn luyện thân thể\n@Chuyên ngành kinh tế\n-thực hiện\n@Chuyên ngành kỹ thuật\n-bài tập\n@Lĩnh vực: y học\n-thể dục\n@Chuyên ngành kỹ thuật\n-bài tập\n@Lĩnh vực: y học\n-thể dục
-
+exercise	
+@exercise /'eksəsaiz/
+*  danh từ
+- sự thi hành, sự thực hiện; sự sử dụng (quyền, nghề nghiệp, chức năng...)
+- thể dục, sự rèn luyện thân thể=to do exercises
++ tập thể dục
+- sự rèn luyện trí óc
+- bài tập
+- bài thi diễn thuyết
+- (số nhiều) sự tập luyện; sự tập trận sự diễn tập; thể thao quốc phòng
+- sự thờ cúng, sự lễ bái
+- (từ Mỹ,nghĩa Mỹ) (số nhiều) lễ (ở trường học...)
+*  ngoại động từ
+- làm, thi hành, thực hiện (nhiệm vụ, chức vụ...); hành (nghề...); sử dụng=to exercise one's right
++ sử dụng=to exercise one's right
++ sử dụng quyền hạn
+- tập luyện, rèn luyện=to exercise the memory
++ rèn luyện trí nhớ=to exercise oneself
++ tập luyện, rèn luyện
+- thử thách
+- (thường) dạng bị động quấy rầy, làm phiền khổ; làm băn khoăn, làm lo âu=he was much exercised over it
++ anh ta rất phiền khổ vì điều đó; anh ta rất băn khoăn lo lắng về điều đó
+*  nội động từ
+- tập luyện; rèn luyện thân thể
+@Chuyên ngành kinh tế
+-thực hiện
+@Chuyên ngành kỹ thuật
+-bài tập
+@Lĩnh vực: y học
+-thể dục
+@Chuyên ngành kỹ thuật
+-bài tập
+@Lĩnh vực: y học
+-thể dục

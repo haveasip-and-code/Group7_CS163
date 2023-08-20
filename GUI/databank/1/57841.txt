@@ -1,3 +1,15 @@
-triplet
-	@triplet /'triplit/\n*  danh từ\n- bộ ba\n- đứa con sinh ba\n- đoạn thơ ba câu\n- (âm nhạc) Triplê\n@Chuyên ngành kỹ thuật\n-bộ ba\n-nhóm ba\n-nhóm ba (phổ học)\n@Lĩnh vực: toán & tin\n-byte gồm ba bít\n@Lĩnh vực: điện lạnh\n-mức ba\n-vạch ba
-
+triplet	@triplet /'triplit/
+*  danh từ
+- bộ ba
+- đứa con sinh ba
+- đoạn thơ ba câu
+- (âm nhạc) Triplê
+@Chuyên ngành kỹ thuật
+-bộ ba
+-nhóm ba
+-nhóm ba (phổ học)
+@Lĩnh vực: toán & tin
+-byte gồm ba bít
+@Lĩnh vực: điện lạnh
+-mức ba
+-vạch ba

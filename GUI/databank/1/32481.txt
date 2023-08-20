@@ -1,3 +1,8 @@
-liveness
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tính khoáng đãng\n-tính sống động\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tính khoáng đãng\n-tính sống động
-
+liveness	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-tính khoáng đãng
+-tính sống động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-tính khoáng đãng
+-tính sống động

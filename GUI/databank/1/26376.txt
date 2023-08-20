@@ -1,3 +1,4 @@
-hulled
-	@Chuyên ngành kinh tế\n-bóc vỏ\n-làm sạch vỏ
-
+hulled	
+@Chuyên ngành kinh tế
+-bóc vỏ
+-làm sạch vỏ

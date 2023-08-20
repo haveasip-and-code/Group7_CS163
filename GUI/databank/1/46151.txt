@@ -1,3 +1,4 @@
-redesign
-	@Chuyên ngành kỹ thuật\n-tính toán lại\n@Lĩnh vực: xây dựng\n-thiết kế lại
-
+redesign	@Chuyên ngành kỹ thuật
+-tính toán lại
+@Lĩnh vực: xây dựng
+-thiết kế lại

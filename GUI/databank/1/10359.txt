@@ -1,3 +1,4 @@
-colorable
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tô màu được
-
+colorable	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tô màu được

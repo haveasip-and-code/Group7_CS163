@@ -1,3 +1,68 @@
-entry
-	@entry /'entri/\n*  danh từ\n- sự đi vào\n- (sân khấu) sự ra (của một diễn viên)\n- lối đi vào, cổng đi vào\n- (pháp lý) sự tiếp nhận\n- sự ghi vào (sổ sách); mục (ghi vào sổ)\n- mục từ (trong từ điển)\n- danh sách người thi đấu; sự ghi tên người thi đấu\n@Chuyên ngành kinh tế\n-bút toán\n-cửa vào\n-ghi\n-giấy khai hải quan\n-khai hải quan\n-sự đi vào\n-sự ghi vào sổ kế toán\n-sự khai hải quan\n-thâm nhập\n-thâm nhập (thị trường)\n-tiến nhập\n@Chuyên ngành kỹ thuật\n-cửa vào\n-đầu vào\n-hầm lò\n-lối vào\n-lối vào (bảng)\n-nhập mục\n-mục nhập\n-sự đưa vào\n-sự nhập\n-sự vào\n-tiếp nhận\n-vận chuyển\n@Lĩnh vực: toán & tin\n-đầu nhập\n-mục ghi chú\n-mục vào\n-sự gia nhập\n@Lĩnh vực: hóa học & vật liệu\n-lò chuẩn bị\n-vào sổ\n@Lĩnh vực: xây dựng\n-lối đi vào\n@Chuyên ngành kỹ thuật\n-cửa vào\n-đầu vào\n-hầm lò\n-lối vào\n-lối vào (bảng)\n-nhập mục\n-mục nhập\n-sự đưa vào\n-sự nhập\n-sự vào\n-tiếp nhận\n-vận chuyển\n@Lĩnh vực: toán & tin\n-đầu nhập\n-mục ghi chú\n-mục vào\n-sự gia nhập\n@Lĩnh vực: hóa học & vật liệu\n-lò chuẩn bị\n-vào sổ\n@Lĩnh vực: xây dựng\n-lối đi vào
-
+entry	
+@entry /'entri/
+*  danh từ
+- sự đi vào
+- (sân khấu) sự ra (của một diễn viên)
+- lối đi vào, cổng đi vào
+- (pháp lý) sự tiếp nhận
+- sự ghi vào (sổ sách); mục (ghi vào sổ)
+- mục từ (trong từ điển)
+- danh sách người thi đấu; sự ghi tên người thi đấu
+@Chuyên ngành kinh tế
+-bút toán
+-cửa vào
+-ghi
+-giấy khai hải quan
+-khai hải quan
+-sự đi vào
+-sự ghi vào sổ kế toán
+-sự khai hải quan
+-thâm nhập
+-thâm nhập (thị trường)
+-tiến nhập
+@Chuyên ngành kỹ thuật
+-cửa vào
+-đầu vào
+-hầm lò
+-lối vào
+-lối vào (bảng)
+-nhập mục
+-mục nhập
+-sự đưa vào
+-sự nhập
+-sự vào
+-tiếp nhận
+-vận chuyển
+@Lĩnh vực: toán & tin
+-đầu nhập
+-mục ghi chú
+-mục vào
+-sự gia nhập
+@Lĩnh vực: hóa học & vật liệu
+-lò chuẩn bị
+-vào sổ
+@Lĩnh vực: xây dựng
+-lối đi vào
+@Chuyên ngành kỹ thuật
+-cửa vào
+-đầu vào
+-hầm lò
+-lối vào
+-lối vào (bảng)
+-nhập mục
+-mục nhập
+-sự đưa vào
+-sự nhập
+-sự vào
+-tiếp nhận
+-vận chuyển
+@Lĩnh vực: toán & tin
+-đầu nhập
+-mục ghi chú
+-mục vào
+-sự gia nhập
+@Lĩnh vực: hóa học & vật liệu
+-lò chuẩn bị
+-vào sổ
+@Lĩnh vực: xây dựng
+-lối đi vào

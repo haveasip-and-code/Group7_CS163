@@ -1,3 +1,2 @@
-republicanize
-	@republicanize\n- xem republicanise
-
+republicanize	@republicanize
+- xem republicanise

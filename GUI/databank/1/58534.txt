@@ -1,3 +1,2 @@
-umbral
-	@umbral\n- xem umbra
-
+umbral	@umbral
+- xem umbra

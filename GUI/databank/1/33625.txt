@@ -1,3 +1,18 @@
-manufacturer
-	@manufacturer /,mænju'fæktʃərə/\n*  danh từ\n- người chế tạo, người sản xuất\n- nhà công nghiệp; chủ xí nghiệp, chủ xưởng\n@Chuyên ngành kinh tế\n-chủ xí nghiệp\n-chủ xưởng\n-người sản xuất\n-nhà chế tạo\n-nhà công nghiệp\n-nhà sản xuất\n@Chuyên ngành kỹ thuật\n-hãng sản xuất\n-người sản xuất\n-nhà sản xuất\n@Lĩnh vực: cơ khí & công trình\n-người chế tạo\n-nhà chế tạo
-
+manufacturer	@manufacturer /,mænju'fæktʃərə/
+*  danh từ
+- người chế tạo, người sản xuất
+- nhà công nghiệp; chủ xí nghiệp, chủ xưởng
+@Chuyên ngành kinh tế
+-chủ xí nghiệp
+-chủ xưởng
+-người sản xuất
+-nhà chế tạo
+-nhà công nghiệp
+-nhà sản xuất
+@Chuyên ngành kỹ thuật
+-hãng sản xuất
+-người sản xuất
+-nhà sản xuất
+@Lĩnh vực: cơ khí & công trình
+-người chế tạo
+-nhà chế tạo

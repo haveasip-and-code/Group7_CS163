@@ -1,3 +1,2 @@
-citable
-	@citable\n- xem cite
-
+citable	@citable
+- xem cite

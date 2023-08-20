@@ -1,3 +1,20 @@
-keypad
-	@Chuyên ngành kỹ thuật\n-bàn phím\n-vùng phím\n-vùng phím số\n@Lĩnh vực: toán & tin\n-bộ phím\n@Lĩnh vực: xây dựng\n-tấm phím\n@Lĩnh vực: điện tử & viễn thông\n-vùng bàn phím\n@Chuyên ngành kỹ thuật\n-bàn phím\n-vùng phím\n-vùng phím số\n@Lĩnh vực: toán & tin\n-bộ phím\n@Lĩnh vực: xây dựng\n-tấm phím\n@Lĩnh vực: điện tử & viễn thông\n-vùng bàn phím
-
+keypad	@Chuyên ngành kỹ thuật
+-bàn phím
+-vùng phím
+-vùng phím số
+@Lĩnh vực: toán & tin
+-bộ phím
+@Lĩnh vực: xây dựng
+-tấm phím
+@Lĩnh vực: điện tử & viễn thông
+-vùng bàn phím
+@Chuyên ngành kỹ thuật
+-bàn phím
+-vùng phím
+-vùng phím số
+@Lĩnh vực: toán & tin
+-bộ phím
+@Lĩnh vực: xây dựng
+-tấm phím
+@Lĩnh vực: điện tử & viễn thông
+-vùng bàn phím

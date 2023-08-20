@@ -1,3 +1,10 @@
-triangulate
-	@triangulate /trai'æɳhjulit/\n*  tính từ\n- (động vật học) điểm hình tam giác\n*  ngoại động từ\n- lập lưới tam giác (để đo đạc); đạc tam giác\n- làm thành hình tam giác\n@Chuyên ngành kỹ thuật\n-lập lưới tam giác\n@Lĩnh vực: toán & tin\n-tam giác phân
-
+triangulate	@triangulate /trai'æɳhjulit/
+*  tính từ
+- (động vật học) điểm hình tam giác
+*  ngoại động từ
+- lập lưới tam giác (để đo đạc); đạc tam giác
+- làm thành hình tam giác
+@Chuyên ngành kỹ thuật
+-lập lưới tam giác
+@Lĩnh vực: toán & tin
+-tam giác phân

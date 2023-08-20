@@ -1,3 +1,5 @@
-mandamus
-	@mandamus\n* danh từ\n- chỉ thị của toà án cấp cao với toà án cấp dưới\n@Chuyên ngành kinh tế\n-huấn lệnh
-
+mandamus	@mandamus
+* danh từ
+- chỉ thị của toà án cấp cao với toà án cấp dưới
+@Chuyên ngành kinh tế
+-huấn lệnh

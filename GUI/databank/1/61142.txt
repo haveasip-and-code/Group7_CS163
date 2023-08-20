@@ -1,3 +1,2 @@
-valine
-	@Chuyên ngành kỹ thuật\n-một amino axit thiết yếu
-
+valine	@Chuyên ngành kỹ thuật
+-một amino axit thiết yếu

@@ -1,3 +1,4 @@
-declass
-	@declass\n* ngoại động từ\n- tách ra khỏi lớp hạng của mình; đẩy xuống lớp hạng dưới
-
+declass	
+@declass
+* ngoại động từ
+- tách ra khỏi lớp hạng của mình; đẩy xuống lớp hạng dưới

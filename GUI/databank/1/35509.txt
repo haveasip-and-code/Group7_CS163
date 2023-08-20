@@ -1,3 +1,9 @@
-monogenic
-	@monogenic\n- đơn diễn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đơn diễn\n@Lĩnh vực: hóa học & vật liệu\n-đơn nguồn\n@Lĩnh vực: xây dựng\n-một nguồn
-
+monogenic	@monogenic
+- đơn diễn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đơn diễn
+@Lĩnh vực: hóa học & vật liệu
+-đơn nguồn
+@Lĩnh vực: xây dựng
+-một nguồn

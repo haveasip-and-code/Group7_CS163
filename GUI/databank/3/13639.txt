@@ -1,3 +1,16 @@
-deaf
-	@deaf /def/\n*  tính từ\n- điếc\n=deaf of an ear; deaf in one ear+ điếc một tai\n=deaf and dumb+ điếc và câm\n=a deaf ear+ tai điếc\n- làm thinh, làm ngơ\n=to be deaf to someone's advice+ làm thinh không nghe lời khuyên của ai\n=to turn a deaf ear to something+ làm thinh như không nghe thấy cái gì\n!as deaf as an adder (a beetle, a stone, a post)\n- điếc đặc, điếc lòi ra\n!there are none so deaf as those that will not hear\n- không có kẻ nào điếc hơn là kẻ không muốn nghe (lẽ phải...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-điếc
-
+deaf	@deaf /def/
+*  tính từ
+- điếc
+=deaf of an ear; deaf in one ear+ điếc một tai
+=deaf and dumb+ điếc và câm
+=a deaf ear+ tai điếc
+- làm thinh, làm ngơ
+=to be deaf to someone's advice+ làm thinh không nghe lời khuyên của ai
+=to turn a deaf ear to something+ làm thinh như không nghe thấy cái gì
+!as deaf as an adder (a beetle, a stone, a post)
+- điếc đặc, điếc lòi ra
+!there are none so deaf as those that will not hear
+- không có kẻ nào điếc hơn là kẻ không muốn nghe (lẽ phải...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-điếc

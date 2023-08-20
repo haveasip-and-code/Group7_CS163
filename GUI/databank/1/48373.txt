@@ -1,3 +1,51 @@
-saddle
-	@saddle /'sædl/\n*  danh từ\n- yên ngựa, yên xe\n- đèo (giữa hai đỉnh núi)\n- vật hình yên\n!in the saddle\n- đang cưỡi ngựa; (nghĩa bóng) tại chức, đang nắm chính quyền\n!to put saddle on the right (wrong) horse\n- phê bình đúng (sai) người nào\n*  ngoại động từ\n- thắng yên (ngựa)\n- dồn việc, dồn trách nhiệm (cho ai)\n- chất gánh nặng lên (ai)\n@Chuyên ngành kinh tế\n-mặt sàng\n-tấm chặn\n-yên ngựa\n@Chuyên ngành kỹ thuật\n-bàn dao\n-bàn dao chữ thập\n-bàn dao ngang\n-bàn trượt\n-bệ\n-cái yên\n-chân\n-chất nặng\n-chồng chất (các vật)\n-cột chống\n-đế\n-điểm yên ngựa\n-gối tựa\n-mặt đế\n-miếng lót\n-ổ đứng\n-rèn đai đỡ\n-rèn vòng kẹp\n-trụ\n-ụ trượt\n-vòm\n-yên ngựa\n@Lĩnh vực: xây dựng\n-có hình yên ngựa\n-đèo núi\n-gỗ mặt đế\n@Lĩnh vực: cơ khí & công trình\n-ê tô (máy tiện vít)\n@Lĩnh vực: điện lạnh\n-hình yên ngựa\n-mặt yên ngựa\n@Lĩnh vực: y học\n-yên
-
+saddle	@saddle /'sædl/
+*  danh từ
+- yên ngựa, yên xe
+- đèo (giữa hai đỉnh núi)
+- vật hình yên
+!in the saddle
+- đang cưỡi ngựa; (nghĩa bóng) tại chức, đang nắm chính quyền
+!to put saddle on the right (wrong) horse
+- phê bình đúng (sai) người nào
+*  ngoại động từ
+- thắng yên (ngựa)
+- dồn việc, dồn trách nhiệm (cho ai)
+- chất gánh nặng lên (ai)
+@Chuyên ngành kinh tế
+-mặt sàng
+-tấm chặn
+-yên ngựa
+@Chuyên ngành kỹ thuật
+-bàn dao
+-bàn dao chữ thập
+-bàn dao ngang
+-bàn trượt
+-bệ
+-cái yên
+-chân
+-chất nặng
+-chồng chất (các vật)
+-cột chống
+-đế
+-điểm yên ngựa
+-gối tựa
+-mặt đế
+-miếng lót
+-ổ đứng
+-rèn đai đỡ
+-rèn vòng kẹp
+-trụ
+-ụ trượt
+-vòm
+-yên ngựa
+@Lĩnh vực: xây dựng
+-có hình yên ngựa
+-đèo núi
+-gỗ mặt đế
+@Lĩnh vực: cơ khí & công trình
+-ê tô (máy tiện vít)
+@Lĩnh vực: điện lạnh
+-hình yên ngựa
+-mặt yên ngựa
+@Lĩnh vực: y học
+-yên

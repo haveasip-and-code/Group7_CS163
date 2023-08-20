@@ -1,3 +1,5 @@
-wholesaling
-	@Chuyên ngành kinh tế\n-nghề bán buôn\n-nghề buôn sỉ\n-việc buôn sỉ\n-việc buôn sỉ, nghề buôn sỉ
-
+wholesaling	@Chuyên ngành kinh tế
+-nghề bán buôn
+-nghề buôn sỉ
+-việc buôn sỉ
+-việc buôn sỉ, nghề buôn sỉ

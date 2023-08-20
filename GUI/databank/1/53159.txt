@@ -1,3 +1,39 @@
-steep
-	@steep /sti:p/\n*  tính từ\n- dốc\n=steep hill+ đồi dốc\n- (thông tục) quá quắt, không biết đều\n=steep demand+ sự đòi hỏi quá quắt\n- ngoa, phóng đại, không thể tin được\n=steep story+ câu chuyện không thể tin được\n*  danh từ\n- dốc, chỗ dốc, sườn dốc\n- sự ngâm (vào nước)\n=to put something in steep+ ngâm vật gì\n- nước ngâm\n*  ngoại động từ\n- ngâm vào nước\n=to steep in+ thấm, ngấm vào; mê mải, miệt mài\n=steeped in slumber+ ngủ mê mệt\n=steeped in misery+ nghèo rớt mồng tơi\n*  nội động từ\n- bị ngâm\n@Chuyên ngành kinh tế\n-ngâm vào nước\n-sự ngâm nước\n-sự thấm vào\n-thùng ngâm\n@Chuyên ngành kỹ thuật\n-độ dốc\n-dốc\n-dốc đứng\n-hút\n-ngâm\n-ngâm ướt\n-ngâm vào nước\n-nước ngâm\n-sự nhúng chìm\n-tẩm\n-vách đá đứng\n@Lĩnh vực: hóa học & vật liệu\n-vách dựng
-
+steep	@steep /sti:p/
+*  tính từ
+- dốc
+=steep hill+ đồi dốc
+- (thông tục) quá quắt, không biết đều
+=steep demand+ sự đòi hỏi quá quắt
+- ngoa, phóng đại, không thể tin được
+=steep story+ câu chuyện không thể tin được
+*  danh từ
+- dốc, chỗ dốc, sườn dốc
+- sự ngâm (vào nước)
+=to put something in steep+ ngâm vật gì
+- nước ngâm
+*  ngoại động từ
+- ngâm vào nước
+=to steep in+ thấm, ngấm vào; mê mải, miệt mài
+=steeped in slumber+ ngủ mê mệt
+=steeped in misery+ nghèo rớt mồng tơi
+*  nội động từ
+- bị ngâm
+@Chuyên ngành kinh tế
+-ngâm vào nước
+-sự ngâm nước
+-sự thấm vào
+-thùng ngâm
+@Chuyên ngành kỹ thuật
+-độ dốc
+-dốc
+-dốc đứng
+-hút
+-ngâm
+-ngâm ướt
+-ngâm vào nước
+-nước ngâm
+-sự nhúng chìm
+-tẩm
+-vách đá đứng
+@Lĩnh vực: hóa học & vật liệu
+-vách dựng

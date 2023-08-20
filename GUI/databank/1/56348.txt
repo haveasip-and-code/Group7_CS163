@@ -1,3 +1,4 @@
-thermoset
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất dẻo nhiệt rắn\n-nhựa phản ứng nóng
-
+thermoset	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất dẻo nhiệt rắn
+-nhựa phản ứng nóng

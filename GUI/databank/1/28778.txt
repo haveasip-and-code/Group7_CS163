@@ -1,3 +1,13 @@
-inoculate
-	@inoculate /i'nɔkleit/\n*  ngoại động từ\n- chủng, tiêm chủng\n=to inoculate somebody with the smallpox+ chủng phòng bệnh đậu mùa cho ai\n- tiêm nhiễm cho (ai)\n- (nông nghiệp) ghép (cây)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cấy truyền\n-tiêm truyền\n@Lĩnh vực: điện lạnh\n-gây mầm (kết tinh)
-
+inoculate	
+@inoculate /i'nɔkleit/
+*  ngoại động từ
+- chủng, tiêm chủng=to inoculate somebody with the smallpox
++ chủng phòng bệnh đậu mùa cho ai
+- tiêm nhiễm cho (ai)
+- (nông nghiệp) ghép (cây)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cấy truyền
+-tiêm truyền
+@Lĩnh vực: điện lạnh
+-gây mầm (kết tinh)

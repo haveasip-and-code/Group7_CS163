@@ -1,3 +1,16 @@
-privacy
-	@privacy /privacy/\n*  danh từ\n- sự riêng tư\n- sự xa lánh, sự cách biệt\n=to live in privacy+ sống cách biệt, sống xa lánh bên ngoài\n- sự bí mật, sự kín đáo\n=to secure privacy+ đảm bảo bí mật\n@Chuyên ngành kỹ thuật\n-đời tư\n-riêng biệt\n@Lĩnh vực: toán & tin\n-mã truy nhập\n-sự bảo mật\n-sự bí mật\n-sự riêng biệt\n-sự riêng tư
-
+privacy	@privacy /privacy/
+*  danh từ
+- sự riêng tư
+- sự xa lánh, sự cách biệt
+=to live in privacy+ sống cách biệt, sống xa lánh bên ngoài
+- sự bí mật, sự kín đáo
+=to secure privacy+ đảm bảo bí mật
+@Chuyên ngành kỹ thuật
+-đời tư
+-riêng biệt
+@Lĩnh vực: toán & tin
+-mã truy nhập
+-sự bảo mật
+-sự bí mật
+-sự riêng biệt
+-sự riêng tư

@@ -1,3 +1,3 @@
-sympathectomy
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cắt dây giao cảm
-
+sympathectomy	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cắt dây giao cảm

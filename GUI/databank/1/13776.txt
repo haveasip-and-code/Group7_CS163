@@ -1,3 +1,9 @@
-decelerate
-	@decelerate /di:'seləreit/\n*  động từ\n- đi chậm lại, chạy chậm lại, giảm tốc độ; hãm lại\n@Chuyên ngành kỹ thuật\n-giảm ga\n-giảm tốc\n-hãm\n-hãm lại
-
+decelerate	
+@decelerate /di:'seləreit/
+*  động từ
+- đi chậm lại, chạy chậm lại, giảm tốc độ; hãm lại
+@Chuyên ngành kỹ thuật
+-giảm ga
+-giảm tốc
+-hãm
+-hãm lại

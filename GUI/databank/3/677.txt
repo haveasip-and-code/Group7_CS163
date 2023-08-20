@@ -1,3 +1,21 @@
-adapt
-	@adapt /ə'dæpt/\n*  ngoại động từ\n- tra vào, lắp vào\n=to adapt one thing to another+ tra vật này vào vật kia\n- phỏng theo, sửa lại cho hợp\n=difficult books are often adapted for use in schools+ những sách khó thường được sửa lại cho hợp với trường học\n=a play adapted from a novel+ một vở kịch phỏng theo một cuốn tiểu thuyết\n=a novel adapted for the stage+ một cuốn tiểu thuyết được sửa lại để đưa lên sân khấu\n- làm thích nghi, làm thích ứng\n=to adapt onself to circumstances+ thích nghi với hoàn cảnh\n*  nội động từ\n- thích nghi (với môi trường...)\n@Chuyên ngành kinh tế\n-thích hợp\n-thích nghi\n@Chuyên ngành kỹ thuật\n-lắp\n-lắp vào\n@Lĩnh vực: xây dựng\n-tiếp hợp vào\n-tra
-
+adapt	@adapt /ə'dæpt/
+*  ngoại động từ
+- tra vào, lắp vào
+=to adapt one thing to another+ tra vật này vào vật kia
+- phỏng theo, sửa lại cho hợp
+=difficult books are often adapted for use in schools+ những sách khó thường được sửa lại cho hợp với trường học
+=a play adapted from a novel+ một vở kịch phỏng theo một cuốn tiểu thuyết
+=a novel adapted for the stage+ một cuốn tiểu thuyết được sửa lại để đưa lên sân khấu
+- làm thích nghi, làm thích ứng
+=to adapt onself to circumstances+ thích nghi với hoàn cảnh
+*  nội động từ
+- thích nghi (với môi trường...)
+@Chuyên ngành kinh tế
+-thích hợp
+-thích nghi
+@Chuyên ngành kỹ thuật
+-lắp
+-lắp vào
+@Lĩnh vực: xây dựng
+-tiếp hợp vào
+-tra

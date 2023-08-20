@@ -1,3 +1,23 @@
-page
-	@page /peidʤ/\n*  danh từ\n- trang (sách...); (nghĩa bóng) trang sử\n*  ngoại động từ\n- đánh số trang\n*  danh từ\n- tiểu đồng\n- em nhỏ phục vụ (ở khách sạn, rạp hát...)\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) sai em nhỏ phục vụ gọi (ai)\n*  nội động từ\n- (từ Mỹ,nghĩa Mỹ) làm em nhỏ phục vụ (ở khách sạn, rạp hát)\n@Chuyên ngành kinh tế\n-gọi để nhắn tin (trên loa)\n-gọi tên tìm\n-nhắn tin\n-trang\n@Chuyên ngành kỹ thuật\n-đánh số trang\n@Lĩnh vực: toán & tin\n-phân trang nhớ\n-trang nhớ\n-trang nhớ, trang
-
+page	@page /peidʤ/
+*  danh từ
+- trang (sách...); (nghĩa bóng) trang sử
+*  ngoại động từ
+- đánh số trang
+*  danh từ
+- tiểu đồng
+- em nhỏ phục vụ (ở khách sạn, rạp hát...)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) sai em nhỏ phục vụ gọi (ai)
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ) làm em nhỏ phục vụ (ở khách sạn, rạp hát)
+@Chuyên ngành kinh tế
+-gọi để nhắn tin (trên loa)
+-gọi tên tìm
+-nhắn tin
+-trang
+@Chuyên ngành kỹ thuật
+-đánh số trang
+@Lĩnh vực: toán & tin
+-phân trang nhớ
+-trang nhớ
+-trang nhớ, trang

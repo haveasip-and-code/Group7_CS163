@@ -1,3 +1,16 @@
-numerical
-	@numerical /nju:'merikəl/\n*  tính từ\n- (thuộc) số\n- bằng s\n@Chuyên ngành kinh tế\n-bằng số\n-thuộc số\n-thuộc về số\n-trên con số\n-về số lượng\n@Chuyên ngành kỹ thuật\n-bằng số\n-số\n@Lĩnh vực: toán & tin\n-số trị\n-thuộc số
-
+numerical	@numerical /nju:'merikəl/
+*  tính từ
+- (thuộc) số
+- bằng s
+@Chuyên ngành kinh tế
+-bằng số
+-thuộc số
+-thuộc về số
+-trên con số
+-về số lượng
+@Chuyên ngành kỹ thuật
+-bằng số
+-số
+@Lĩnh vực: toán & tin
+-số trị
+-thuộc số

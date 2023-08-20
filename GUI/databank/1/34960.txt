@@ -1,3 +1,2 @@
-minerals
-	@Chuyên ngành kinh tế\n-sản phẩm từ chất khoáng
-
+minerals	@Chuyên ngành kinh tế
+-sản phẩm từ chất khoáng

@@ -1,3 +1,6 @@
-likewise
-	@likewise /'laikwaiz/\n*  phó từ\n- cúng thế, giống như cậy\n- cũng, còn là\n*  liên từ\n- cũng vậy
-
+likewise	@likewise /'laikwaiz/
+*  phó từ
+- cúng thế, giống như cậy
+- cũng, còn là
+*  liên từ
+- cũng vậy

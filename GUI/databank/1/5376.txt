@@ -1,3 +1,10 @@
-beveled
-	@Chuyên ngành kỹ thuật\n-có gờ\n-nghiêng\n-vát\n@Lĩnh vực: xây dựng\n-được cắt vát mép\n-được làm vát\n@Lĩnh vực: hóa học & vật liệu\n-vát mép
-
+beveled	
+@Chuyên ngành kỹ thuật
+-có gờ
+-nghiêng
+-vát
+@Lĩnh vực: xây dựng
+-được cắt vát mép
+-được làm vát
+@Lĩnh vực: hóa học & vật liệu
+-vát mép

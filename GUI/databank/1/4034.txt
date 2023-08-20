@@ -1,3 +1,6 @@
-authorship
-	@authorship /'ɔ:θəʃip/\n*  danh từ\n- nghề viết văn\n- nguồn tác giả (một cuốn sách)\n=a book of doubrful authorship+ một cuốn sách chưa rõ nguồn tác giả (chưa rõ tác giả là ai)
-
+authorship	
+@authorship /'ɔ:θəʃip/
+*  danh từ
+- nghề viết văn
+- nguồn tác giả (một cuốn sách)=a book of doubrful authorship
++ một cuốn sách chưa rõ nguồn tác giả (chưa rõ tác giả là ai)

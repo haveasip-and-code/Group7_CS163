@@ -1,3 +1,10 @@
-bathroom
-	@bathroom\n- thành ngữ bath\n- bathroom\n- buồng tắm, nhà vệ sinh\n- thành ngữ bath\n- bathroom\n- buồng tắm, nhà vệ sinh\n@Chuyên ngành kỹ thuật\n-buồng tắm
-
+bathroom	
+@bathroom
+- thành ngữ bath
+- bathroom
+- buồng tắm, nhà vệ sinh
+- thành ngữ bath
+- bathroom
+- buồng tắm, nhà vệ sinh
+@Chuyên ngành kỹ thuật
+-buồng tắm

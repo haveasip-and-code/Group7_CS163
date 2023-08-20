@@ -1,3 +1,15 @@
-spew
-	@spew /spju:/\n*  danh từ\n- cái nôn ra, cái mửa ra, cái thổ ra\n*  động từ\n- nôn ra, mửa ra, thổ ra ((cũng) spue)\n*  nội động từ\n- chúc nòng (súng) (vì bắn nhanh quá) ((cũng) spue)\n@Chuyên ngành kinh tế\n-ép\n-sự ép\n-sự trào ra\n-trào ra\n@Chuyên ngành kỹ thuật\n-đẩy ra\n-rìa bờm
-
+spew	@spew /spju:/
+*  danh từ
+- cái nôn ra, cái mửa ra, cái thổ ra
+*  động từ
+- nôn ra, mửa ra, thổ ra ((cũng) spue)
+*  nội động từ
+- chúc nòng (súng) (vì bắn nhanh quá) ((cũng) spue)
+@Chuyên ngành kinh tế
+-ép
+-sự ép
+-sự trào ra
+-trào ra
+@Chuyên ngành kỹ thuật
+-đẩy ra
+-rìa bờm

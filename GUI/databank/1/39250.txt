@@ -1,3 +1,15 @@
-painter
-	@painter /peintə/\n*  danh từ\n- thợ sơn\n- hoạ sĩ\n*  danh từ\n- dây néo (thuyền tàu)\n!to cut the painter\n- (nghĩa bóng) cắt đứt, đoạn tuyệt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-dây néo (cố định tàu thuyền)\n@Lĩnh vực: xây dựng\n-họa sĩ\n-thợ quét vôi\n-thợ sơn
-
+painter	@painter /peintə/
+*  danh từ
+- thợ sơn
+- hoạ sĩ
+*  danh từ
+- dây néo (thuyền tàu)
+!to cut the painter
+- (nghĩa bóng) cắt đứt, đoạn tuyệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-dây néo (cố định tàu thuyền)
+@Lĩnh vực: xây dựng
+-họa sĩ
+-thợ quét vôi
+-thợ sơn

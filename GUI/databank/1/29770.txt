@@ -1,3 +1,25 @@
-inversion
-	@inversion /'in'və:ʃn/\n*  danh từ\n- sự lộn ngược, sự đảo ngược; sự bị lộn ngược, sự bị đảo ngược\n- (ngôn ngữ học) phép đảo (trật tự của từ)\n- (hoá học) sự nghịch chuyển\n- (tâm lý học) sự yêu người cùng tính; sự đồng dâm\n- (toán học) phép nghịch đảo\n@Chuyên ngành kinh tế\n-sự đảo ngược\n@Chuyên ngành kỹ thuật\n-đảo ngược\n-lộn ngược\n-nghịch đảo\n-phép nghịch đảo\n-sự đảo\n-sự đảo ngược\n-sự hoán vị\n-sự nghịch đảo\n@Lĩnh vực: điện\n-nghịch thế\n@Lĩnh vực: toán & tin\n-phép biến đổi ngược\n@Lĩnh vực: xây dựng\n-phép đảo nghịch
-
+inversion	
+@inversion /'in'və:ʃn/
+*  danh từ
+- sự lộn ngược, sự đảo ngược; sự bị lộn ngược, sự bị đảo ngược
+- (ngôn ngữ học) phép đảo (trật tự của từ)
+- (hoá học) sự nghịch chuyển
+- (tâm lý học) sự yêu người cùng tính; sự đồng dâm
+- (toán học) phép nghịch đảo
+@Chuyên ngành kinh tế
+-sự đảo ngược
+@Chuyên ngành kỹ thuật
+-đảo ngược
+-lộn ngược
+-nghịch đảo
+-phép nghịch đảo
+-sự đảo
+-sự đảo ngược
+-sự hoán vị
+-sự nghịch đảo
+@Lĩnh vực: điện
+-nghịch thế
+@Lĩnh vực: toán & tin
+-phép biến đổi ngược
+@Lĩnh vực: xây dựng
+-phép đảo nghịch

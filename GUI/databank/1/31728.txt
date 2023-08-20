@@ -1,3 +1,24 @@
-leaching
-	@Chuyên ngành kỹ thuật\n-ngâm chiết\n-nước ngâm rỉ\n-sự chiết\n-sự khử\n-sự ngâm chiết\n-sự ngâm rỉ\n-sự rửa lũa\n@Lĩnh vực: hóa học & vật liệu\n-lọc nước\n@Lĩnh vực: xây dựng\n-sự khử kiềm\n@Chuyên ngành kỹ thuật\n-ngâm chiết\n-nước ngâm rỉ\n-sự chiết\n-sự khử\n-sự ngâm chiết\n-sự ngâm rỉ\n-sự rửa lũa\n@Lĩnh vực: hóa học & vật liệu\n-lọc nước\n@Lĩnh vực: xây dựng\n-sự khử kiềm
-
+leaching	@Chuyên ngành kỹ thuật
+-ngâm chiết
+-nước ngâm rỉ
+-sự chiết
+-sự khử
+-sự ngâm chiết
+-sự ngâm rỉ
+-sự rửa lũa
+@Lĩnh vực: hóa học & vật liệu
+-lọc nước
+@Lĩnh vực: xây dựng
+-sự khử kiềm
+@Chuyên ngành kỹ thuật
+-ngâm chiết
+-nước ngâm rỉ
+-sự chiết
+-sự khử
+-sự ngâm chiết
+-sự ngâm rỉ
+-sự rửa lũa
+@Lĩnh vực: hóa học & vật liệu
+-lọc nước
+@Lĩnh vực: xây dựng
+-sự khử kiềm

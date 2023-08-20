@@ -1,3 +1,4 @@
-breadboard
-	@Chuyên ngành kỹ thuật\n-đèn hàn vảy\n@Lĩnh vực: toán & tin\n-bảng mạch khung
-
+breadboard	@Chuyên ngành kỹ thuật
+-đèn hàn vảy
+@Lĩnh vực: toán & tin
+-bảng mạch khung

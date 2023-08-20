@@ -1,3 +1,4 @@
-professor
-	@professor /professor/\n*  danh từ\n- giáo sư (đại học)\n- (tôn giáo) giáo đồ, tín đồ
-
+professor	@professor /professor/
+*  danh từ
+- giáo sư (đại học)
+- (tôn giáo) giáo đồ, tín đồ

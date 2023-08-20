@@ -1,3 +1,4 @@
-bedtime
-	@bedtime /'bedtaim/\n*  danh từ\n- giờ đi ngủ
-
+bedtime	
+@bedtime /'bedtaim/
+*  danh từ
+- giờ đi ngủ

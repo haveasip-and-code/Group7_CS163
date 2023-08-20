@@ -1,3 +1,5 @@
-sidewall
-	@Chuyên ngành kỹ thuật\n-mép lốp hơi\n@Lĩnh vực: ô tô\n-cạnh vỏ xe\n-sườn ốp
-
+sidewall	@Chuyên ngành kỹ thuật
+-mép lốp hơi
+@Lĩnh vực: ô tô
+-cạnh vỏ xe
+-sườn ốp

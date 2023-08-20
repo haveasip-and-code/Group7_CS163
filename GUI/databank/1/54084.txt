@@ -1,3 +1,7 @@
-sublease
-	@sublease /'sʌb'li:s/\n*  danh từ\n- sự cho thuê lại\n*  ngoại động từ\n- cho thuê lại\n@Chuyên ngành kinh tế\n-cho thuê lại
-
+sublease	@sublease /'sʌb'li:s/
+*  danh từ
+- sự cho thuê lại
+*  ngoại động từ
+- cho thuê lại
+@Chuyên ngành kinh tế
+-cho thuê lại

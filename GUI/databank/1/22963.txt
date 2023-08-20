@@ -1,3 +1,4 @@
-garnishment
-	@Chuyên ngành kinh tế\n-giấy báo sai áp\n-lệnh sai áp
-
+garnishment	
+@Chuyên ngành kinh tế
+-giấy báo sai áp
+-lệnh sai áp

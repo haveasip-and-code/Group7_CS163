@@ -1,3 +1,4 @@
-rodding
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự đâm\n-sự sọc
-
+rodding	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự đâm
+-sự sọc

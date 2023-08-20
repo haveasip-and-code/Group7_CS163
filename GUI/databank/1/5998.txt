@@ -1,3 +1,42 @@
-bloom
-	@bloom /blu:m/\n*  danh từ\n- hoa\n- sự ra hoa\n=in bloom+ đang ra hoa\n- (nghĩa bóng) tuổi thanh xuân; thời kỳ rực rỡ, thời kỳ tươi đẹp nhất\n=in the full bloom of youth+ trong lúc tuổi thanh xuân tươi đẹp nhất\n- phấn (ở vỏ quả)\n- sắc hồng hào khoẻ mạnh; vẻ tươi\n=to take the bloom off+ làm mất tươi\n*  nội động từ\n- có hoa, ra hoa, nở hoa\n- (nghĩa bóng) ở thời kỳ rực rỡ, ở thời kỳ tươi đẹp nhất\n*  danh từ\n- (kỹ thuật) thỏi đúc (sắt thép)\n*  ngoại động từ\n- (kỹ thuật) đúc (sắt thép) thành thỏi\n@Chuyên ngành kinh tế\n-hoa\n-phấn (quả)\n@Chuyên ngành kỹ thuật\n-bi khuấy\n-bi khuấy luyện\n-bọt màn hình\n-làm mờ\n-lớp cán thô/lớp bao phủ\n-phôi lớn\n-phôi ống\n-sắt hạt\n-sự mờ\n-súc\n@Lĩnh vực: xây dựng\n-khoáng vật dạng chất\n-làm nhòe\n@Lĩnh vực: cơ khí & công trình\n-khối thép\n@Lĩnh vực: hóa học & vật liệu\n-khối thép cán\n-màng ẩm\n-phôi lờn\n-tạo thỏi
-
+bloom	
+@bloom /blu:m/
+*  danh từ
+- hoa
+- sự ra hoa=in bloom
++ đang ra hoa
+- (nghĩa bóng) tuổi thanh xuân; thời kỳ rực rỡ, thời kỳ tươi đẹp nhất=in the full bloom of youth
++ trong lúc tuổi thanh xuân tươi đẹp nhất
+- phấn (ở vỏ quả)
+- sắc hồng hào khoẻ mạnh; vẻ tươi=to take the bloom off
++ làm mất tươi
+*  nội động từ
+- có hoa, ra hoa, nở hoa
+- (nghĩa bóng) ở thời kỳ rực rỡ, ở thời kỳ tươi đẹp nhất
+*  danh từ
+- (kỹ thuật) thỏi đúc (sắt thép)
+*  ngoại động từ
+- (kỹ thuật) đúc (sắt thép) thành thỏi
+@Chuyên ngành kinh tế
+-hoa
+-phấn (quả)
+@Chuyên ngành kỹ thuật
+-bi khuấy
+-bi khuấy luyện
+-bọt màn hình
+-làm mờ
+-lớp cán thô/lớp bao phủ
+-phôi lớn
+-phôi ống
+-sắt hạt
+-sự mờ
+-súc
+@Lĩnh vực: xây dựng
+-khoáng vật dạng chất
+-làm nhòe
+@Lĩnh vực: cơ khí & công trình
+-khối thép
+@Lĩnh vực: hóa học & vật liệu
+-khối thép cán
+-màng ẩm
+-phôi lờn
+-tạo thỏi

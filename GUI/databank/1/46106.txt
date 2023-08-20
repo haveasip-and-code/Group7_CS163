@@ -1,3 +1,11 @@
-recursion
-	@recursion\n- đệ qui\n@Chuyên ngành kỹ thuật\n-lần lặp\n-lặp lại\n-phép đệ quy\n-phép lặp\n@Lĩnh vực: toán & tin\n-đệ quy\n-phép truy hồi\n-sự đệ quy
-
+recursion	@recursion
+- đệ qui
+@Chuyên ngành kỹ thuật
+-lần lặp
+-lặp lại
+-phép đệ quy
+-phép lặp
+@Lĩnh vực: toán & tin
+-đệ quy
+-phép truy hồi
+-sự đệ quy

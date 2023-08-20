@@ -1,3 +1,10 @@
-multiphase
-	@multiphase\n* tính từ\n- có nhiều pha\n@Chuyên ngành kỹ thuật\n-đa pha\n-nhiều bước\n-nhiều giai đoạn\n-nhiều pha\n@Lĩnh vực: điện tử & viễn thông\n-thuộc nhiều pha
-
+multiphase	@multiphase
+* tính từ
+- có nhiều pha
+@Chuyên ngành kỹ thuật
+-đa pha
+-nhiều bước
+-nhiều giai đoạn
+-nhiều pha
+@Lĩnh vực: điện tử & viễn thông
+-thuộc nhiều pha

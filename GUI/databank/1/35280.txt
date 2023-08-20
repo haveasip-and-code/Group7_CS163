@@ -1,3 +1,9 @@
-moat
-	@moat /mout/\n*  danh từ\n- hào (xung quanh thành trì...)\n*  ngoại động từ\n- xây hào bao quanh\n@Chuyên ngành kỹ thuật\n-hồ\n@Lĩnh vực: xây dựng\n-hào phòng vệ
-
+moat	@moat /mout/
+*  danh từ
+- hào (xung quanh thành trì...)
+*  ngoại động từ
+- xây hào bao quanh
+@Chuyên ngành kỹ thuật
+-hồ
+@Lĩnh vực: xây dựng
+-hào phòng vệ

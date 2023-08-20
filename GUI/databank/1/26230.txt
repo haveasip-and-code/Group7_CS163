@@ -1,3 +1,49 @@
-horse
-	@horse /hɔ:s/\n*  danh từ\n- ngựa\n=to take horse+ đi ngựa, cưỡi ngựa\n=to horse!+ lên ngựa!\n- kỵ binh\n=horse and foot+ kỵ binh và bộ binh\n=light horse+ kỵ binh nhẹ\n- (thể dục,thể thao) ngựa gỗ ((cũng) vaulting horse)\n- giá (có chân để phơi quần áo...)\n- (thần thoại,thần học) quỷ đầu ngựa đuôi cá\n- (động vật học) cá ngựa\n- (động vật học) con moóc\n- (hàng hải) dây thừng, dây chão\n- (ngành mỏ) khối đá nằm ngang (trong mạch mỏ)\n- (từ Mỹ,nghĩa Mỹ) (như) horse-power\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bài dịch để quay cóp (của học sinh)\n!to back the wrong horse\n- đánh cá con ngựa thua\n- ủng hộ phe thua\n!black (dark) horse\n- con ngựa ít người biết đến trong cuộc đua\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ứng cử viên ít người biết đến trong cuộc bầu cử\n!to eat (work) like a horse\n- ăn (làm) khoẻ\n!to flog a dead horse\n- (xem) flog\n!to hold one's horses\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kìm sự nóng nảy\n!to mount (be on, get on, ride) the high horse\n- vênh váo, làm bộ làm tịch, lên mặt ta đây\n!to put the cart before the horse\n- (xem) cart\n!to swop (change) horse while crossing the stream\n- thay ngựa giữa dòng\n!that's a horse of another colour\n- đó là một vấn đề hoàn toàn khác\n*  nội động từ\n- cưỡi ngựa, đi ngựa\n- (từ Mỹ,nghĩa Mỹ) động đực (ngựa cái)\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đùa nhả ((cũng) to horse around)\n*  ngoại động từ\n- cấp ngựa cho (ai)\n- đóng ngựa vào (xe...)\n- cõng, cho cưỡi trên lưng\n- đặt (ai) lên lưng (người nào hoặc ngựa gỗ) để đánh đòn\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đùa nhả (ai)\n@Chuyên ngành kinh tế\n-ngựa\n@Chuyên ngành kỹ thuật\n-bệ máy\n-giá đỡ\n-giá khung\n-giàn giáo\n@Lĩnh vực: xây dựng\n-giá đỡ mộc
-
+horse	
+@horse /hɔ:s/
+*  danh từ
+- ngựa=to take horse
++ đi ngựa, cưỡi ngựa=to horse!
++ lên ngựa!
+- kỵ binh=horse and foot
++ kỵ binh và bộ binh=light horse
++ kỵ binh nhẹ
+- (thể dục,thể thao) ngựa gỗ ((cũng) vaulting horse)
+- giá (có chân để phơi quần áo...)
+- (thần thoại,thần học) quỷ đầu ngựa đuôi cá
+- (động vật học) cá ngựa
+- (động vật học) con moóc
+- (hàng hải) dây thừng, dây chão
+- (ngành mỏ) khối đá nằm ngang (trong mạch mỏ)
+- (từ Mỹ,nghĩa Mỹ) (như) horse
+-power
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bài dịch để quay cóp (của học sinh)!to back the wrong horse
+- đánh cá con ngựa thua
+- ủng hộ phe thua!black (dark) horse
+- con ngựa ít người biết đến trong cuộc đua
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ứng cử viên ít người biết đến trong cuộc bầu cử!to eat (work) like a horse
+- ăn (làm) khoẻ!to flog a dead horse
+- (xem) flog!to hold one's horses
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kìm sự nóng nảy!to mount (be on, get on, ride) the high horse
+- vênh váo, làm bộ làm tịch, lên mặt ta đây!to put the cart before the horse
+- (xem) cart!to swop (change) horse while crossing the stream
+- thay ngựa giữa dòng!that's a horse of another colour
+- đó là một vấn đề hoàn toàn khác
+*  nội động từ
+- cưỡi ngựa, đi ngựa
+- (từ Mỹ,nghĩa Mỹ) động đực (ngựa cái)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đùa nhả ((cũng) to horse around)
+*  ngoại động từ
+- cấp ngựa cho (ai)
+- đóng ngựa vào (xe...)
+- cõng, cho cưỡi trên lưng
+- đặt (ai) lên lưng (người nào hoặc ngựa gỗ) để đánh đòn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đùa nhả (ai)
+@Chuyên ngành kinh tế
+-ngựa
+@Chuyên ngành kỹ thuật
+-bệ máy
+-giá đỡ
+-giá khung
+-giàn giáo
+@Lĩnh vực: xây dựng
+-giá đỡ mộc

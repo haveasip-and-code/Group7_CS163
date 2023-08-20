@@ -1,3 +1,28 @@
-illumination
-	@illumination /i,lju:mi'neiʃn/\n*  danh từ\n- sự chiếu sáng, sự rọi sáng, sự soi sáng\n- sự treo đèn kết hoa; (số nhiều) đèn treo (để trang hoàng thành phố...), hoa đăng\n- sự sơn son thiếp vàng, sự tô màu rực rỡ (chữ đầu chương sách, bản cảo...); (số nhiều) chữ sơn son thiếp vàng, hình tô màu rực rỡ (để trang trí cho một cuốn sách, bản cảo...)\n- sự làm sáng mắt, sự làm sáng trí, sự mở mang trí óc, sự khai trí\n- (từ Mỹ,nghĩa Mỹ) sự làm rạng rỡ\n- (vật lý) độ rọi\n@Chuyên ngành kỹ thuật\n-ánh sáng\n-chiếu sáng\n-chiếu xạ\n-độ chiếu sáng\n-độ rọi\n-độ rọi sáng\n-sáng\n-sự chiếu sáng\n-sự thắp sáng\n@Lĩnh vực: điện lạnh\n-chiếu xạ (ăng ten)\n-sự chiếu xạ anten\n@Lĩnh vực: điện\n-cường độ rọi sáng\n@Lĩnh vực: xây dựng\n-sự bố trí đèn\n@Lĩnh vực: hóa học & vật liệu\n-sự rọi sáng
-
+illumination	
+@illumination /i,lju:mi'neiʃn/
+*  danh từ
+- sự chiếu sáng, sự rọi sáng, sự soi sáng
+- sự treo đèn kết hoa; (số nhiều) đèn treo (để trang hoàng thành phố...), hoa đăng
+- sự sơn son thiếp vàng, sự tô màu rực rỡ (chữ đầu chương sách, bản cảo...); (số nhiều) chữ sơn son thiếp vàng, hình tô màu rực rỡ (để trang trí cho một cuốn sách, bản cảo...)
+- sự làm sáng mắt, sự làm sáng trí, sự mở mang trí óc, sự khai trí
+- (từ Mỹ,nghĩa Mỹ) sự làm rạng rỡ
+- (vật lý) độ rọi
+@Chuyên ngành kỹ thuật
+-ánh sáng
+-chiếu sáng
+-chiếu xạ
+-độ chiếu sáng
+-độ rọi
+-độ rọi sáng
+-sáng
+-sự chiếu sáng
+-sự thắp sáng
+@Lĩnh vực: điện lạnh
+-chiếu xạ (ăng ten)
+-sự chiếu xạ anten
+@Lĩnh vực: điện
+-cường độ rọi sáng
+@Lĩnh vực: xây dựng
+-sự bố trí đèn
+@Lĩnh vực: hóa học & vật liệu
+-sự rọi sáng

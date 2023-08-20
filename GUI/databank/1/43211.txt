@@ -1,3 +1,2 @@
-prehistorian
-	@prehistorian\n- xem prehistory
-
+prehistorian	@prehistorian
+- xem prehistory

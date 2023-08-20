@@ -1,3 +1,24 @@
-retarder
-	@retarder\n* danh từ\n- chất làm chậm/ kìm hãm/ ức chế\n- thiết bị hãm; guốc hãm\n= car retarder+guốc hãm toa xe\n@Chuyên ngành kinh tế\n-chất cản\n-chất kìm hãm\n-chất ức chế\n@Chuyên ngành kỹ thuật\n-chất ức chế\n-phanh phụ\n-sự đông kết\n@Lĩnh vực: xây dựng\n-bộ hãm toa xe\n-cái chèn (toa xe)\n@Lĩnh vực: điện lạnh\n-chất cản\n-chất xúc tác âm\n@Lĩnh vực: hóa học & vật liệu\n-chất kìm hãm\n-chất làm chậm dần\n@Lĩnh vực: giao thông & vận tải\n-hãm ray
-
+retarder	@retarder
+* danh từ
+- chất làm chậm/ kìm hãm/ ức chế
+- thiết bị hãm; guốc hãm
+= car retarder+guốc hãm toa xe
+@Chuyên ngành kinh tế
+-chất cản
+-chất kìm hãm
+-chất ức chế
+@Chuyên ngành kỹ thuật
+-chất ức chế
+-phanh phụ
+-sự đông kết
+@Lĩnh vực: xây dựng
+-bộ hãm toa xe
+-cái chèn (toa xe)
+@Lĩnh vực: điện lạnh
+-chất cản
+-chất xúc tác âm
+@Lĩnh vực: hóa học & vật liệu
+-chất kìm hãm
+-chất làm chậm dần
+@Lĩnh vực: giao thông & vận tải
+-hãm ray

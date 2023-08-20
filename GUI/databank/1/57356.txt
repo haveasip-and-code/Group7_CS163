@@ -1,3 +1,13 @@
-transcribe
-	@transcribe /træns'kraib/\n*  ngoại động từ\n- sao lại, chép lại\n- (ngôn ngữ học) phiên âm (bằng dấu phiên âm)\n- (âm nhạc) chuyển biên\n- ghi lại để phát thanh, phát thanh theo chương trình đã ghi lại\n@Chuyên ngành kỹ thuật\n-chép lại\n-sao chép\n-sao lại\n@Lĩnh vực: toán & tin\n-phiên âm\n-sao, chép, ghi lại
-
+transcribe	@transcribe /træns'kraib/
+*  ngoại động từ
+- sao lại, chép lại
+- (ngôn ngữ học) phiên âm (bằng dấu phiên âm)
+- (âm nhạc) chuyển biên
+- ghi lại để phát thanh, phát thanh theo chương trình đã ghi lại
+@Chuyên ngành kỹ thuật
+-chép lại
+-sao chép
+-sao lại
+@Lĩnh vực: toán & tin
+-phiên âm
+-sao, chép, ghi lại

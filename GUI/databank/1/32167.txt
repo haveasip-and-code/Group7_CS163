@@ -1,3 +1,27 @@
-lifter
-	@Chuyên ngành kinh tế\n-máy nâng\n-thang máy\n@Chuyên ngành kỹ thuật\n-cần đẩy\n-cần nâng\n-con đội\n-máy nâng\n-thang máy\n@Lĩnh vực: cơ khí & công trình\n-cái nâng\n-cam nâng\n@Lĩnh vực: xây dựng\n-cần cẩu\n-thiết bị đẩy\n@Chuyên ngành kỹ thuật\n-cần đẩy\n-cần nâng\n-con đội\n-máy nâng\n-thang máy\n@Lĩnh vực: cơ khí & công trình\n-cái nâng\n-cam nâng\n@Lĩnh vực: xây dựng\n-cần cẩu\n-thiết bị đẩy
-
+lifter	@Chuyên ngành kinh tế
+-máy nâng
+-thang máy
+@Chuyên ngành kỹ thuật
+-cần đẩy
+-cần nâng
+-con đội
+-máy nâng
+-thang máy
+@Lĩnh vực: cơ khí & công trình
+-cái nâng
+-cam nâng
+@Lĩnh vực: xây dựng
+-cần cẩu
+-thiết bị đẩy
+@Chuyên ngành kỹ thuật
+-cần đẩy
+-cần nâng
+-con đội
+-máy nâng
+-thang máy
+@Lĩnh vực: cơ khí & công trình
+-cái nâng
+-cam nâng
+@Lĩnh vực: xây dựng
+-cần cẩu
+-thiết bị đẩy

@@ -1,3 +1,6 @@
-planet
-	@planet /'plænit/\n*  danh từ\n- (thiên văn học) hành tinh\n- (tôn giáo) áo lễ\n@Chuyên ngành kỹ thuật\n-hành tinh
-
+planet	@planet /'plænit/
+*  danh từ
+- (thiên văn học) hành tinh
+- (tôn giáo) áo lễ
+@Chuyên ngành kỹ thuật
+-hành tinh

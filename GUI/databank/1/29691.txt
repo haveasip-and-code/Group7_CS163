@@ -1,3 +1,10 @@
-intruder
-	@intruder /in'tru:də/\n*  danh từ\n- người vào bừa; người không mời mà đến (một nơi nào)\n- người xâm phạm, người xâm nhập (đời sống riêng tư của ai...)\n- (quân sự) máy bay xâm phạm (vùng trời, đối phương)\n- người bắt người khác phải chịu đựng mình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-xâm nhập viên
-
+intruder	
+@intruder /in'tru:də/
+*  danh từ
+- người vào bừa; người không mời mà đến (một nơi nào)
+- người xâm phạm, người xâm nhập (đời sống riêng tư của ai...)
+- (quân sự) máy bay xâm phạm (vùng trời, đối phương)
+- người bắt người khác phải chịu đựng mình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-xâm nhập viên

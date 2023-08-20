@@ -1,3 +1,7 @@
-typewrite
-	@typewrite /'taiprait/\n*  động từ\n- đánh máy\n@Chuyên ngành kinh tế\n-đánh máy chữ\n@Chuyên ngành kỹ thuật\n-đánh máy
-
+typewrite	@typewrite /'taiprait/
+*  động từ
+- đánh máy
+@Chuyên ngành kinh tế
+-đánh máy chữ
+@Chuyên ngành kỹ thuật
+-đánh máy

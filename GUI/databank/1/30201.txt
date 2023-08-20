@@ -1,3 +1,18 @@
-iteration
-	@iteration\n* danh từ\n- sự nhắc đi nhắc lại\n- tính lặp đi lặp lại\n@Chuyên ngành kinh tế\n-phép lặp\n@Chuyên ngành kỹ thuật\n-bước\n-bước lặp\n-lần lặp\n-lặp\n-lặp lại\n-phép lặp\n-sự lặp\n-sự lặp lại\n-sự nhắc lại\n-xấp xỉ
-
+iteration	
+@iteration
+* danh từ
+- sự nhắc đi nhắc lại
+- tính lặp đi lặp lại
+@Chuyên ngành kinh tế
+-phép lặp
+@Chuyên ngành kỹ thuật
+-bước
+-bước lặp
+-lần lặp
+-lặp
+-lặp lại
+-phép lặp
+-sự lặp
+-sự lặp lại
+-sự nhắc lại
+-xấp xỉ

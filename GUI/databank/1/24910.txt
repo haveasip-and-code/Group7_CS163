@@ -1,3 +1,13 @@
-handler
-	@handler /'hændlə/\n*  danh từ\n- người điều khiển, người xử dụng (máy...)\n- người huấn luyện võ sĩ quyền Anh\n@Chuyên ngành kỹ thuật\n-bộ điều hành\n-bộ điều khiển\n-bộ xử lý\n-người điều khiển\n@Lĩnh vực: toán & tin\n-bộ quản lý\n-trình xử lý
-
+handler	
+@handler /'hændlə/
+*  danh từ
+- người điều khiển, người xử dụng (máy...)
+- người huấn luyện võ sĩ quyền Anh
+@Chuyên ngành kỹ thuật
+-bộ điều hành
+-bộ điều khiển
+-bộ xử lý
+-người điều khiển
+@Lĩnh vực: toán & tin
+-bộ quản lý
+-trình xử lý

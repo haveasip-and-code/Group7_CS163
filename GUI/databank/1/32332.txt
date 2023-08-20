@@ -1,3 +1,11 @@
-linseed
-	@linseed /'linsi:d/\n*  danh từ\n- hạt lanh\n@Chuyên ngành kinh tế\n-hạt lanh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hạt lanh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hạt lanh
-
+linseed	@linseed /'linsi:d/
+*  danh từ
+- hạt lanh
+@Chuyên ngành kinh tế
+-hạt lanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hạt lanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hạt lanh

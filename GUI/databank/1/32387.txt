@@ -1,3 +1,6 @@
-lisp
-	@lisp /lisp/\n*  danh từ\n- sự nói nhịu\n- tiếng xào xạc (lá); tiếng rì rào (sóng)\n*  động từ\n- nói ngọng
-
+lisp	@lisp /lisp/
+*  danh từ
+- sự nói nhịu
+- tiếng xào xạc (lá); tiếng rì rào (sóng)
+*  động từ
+- nói ngọng

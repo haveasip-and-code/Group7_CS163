@@ -1,3 +1,14 @@
-else
-	@else /els/\n*  phó từ\n- khác, nữa\n=anyone else?+ người nào khác?\n=anything else?+ cái gì khác?, cái gì nữa?\n- nếu không\n=run, [or] else you'll miss your train+ chạy đi nếu không sẽ lỡ chuyến xe lửa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nếu không\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nếu không
-
+else	
+@else /els/
+*  phó từ
+- khác, nữa=anyone else?
++ người nào khác?=anything else?
++ cái gì khác?, cái gì nữa?
+- nếu không=run, [or] else you'll miss your train
++ chạy đi nếu không sẽ lỡ chuyến xe lửa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nếu không
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nếu không

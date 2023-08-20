@@ -1,3 +1,7 @@
-looping
-	@Chuyên ngành kỹ thuật\n-cốt đai\n-sự cuộn, sự tạo vòng\n@Lĩnh vực: xây dựng\n-móc (cần trục)\n@Lĩnh vực: điện tử & viễn thông\n-sự đặt vòng
-
+looping	@Chuyên ngành kỹ thuật
+-cốt đai
+-sự cuộn, sự tạo vòng
+@Lĩnh vực: xây dựng
+-móc (cần trục)
+@Lĩnh vực: điện tử & viễn thông
+-sự đặt vòng

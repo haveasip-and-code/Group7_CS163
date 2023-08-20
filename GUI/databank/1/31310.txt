@@ -1,3 +1,8 @@
-lacunary
-	@Chuyên ngành kỹ thuật\n-khuyết\n@Lĩnh vực: toán & tin\n-hổng\n@Chuyên ngành kỹ thuật\n-khuyết\n@Lĩnh vực: toán & tin\n-hổng
-
+lacunary	@Chuyên ngành kỹ thuật
+-khuyết
+@Lĩnh vực: toán & tin
+-hổng
+@Chuyên ngành kỹ thuật
+-khuyết
+@Lĩnh vực: toán & tin
+-hổng

@@ -1,3 +1,51 @@
-ferrule
-	@ferrule /'feru:l/ (ferrel) /'fə:vənt/\n*  danh từ\n- sắt bịt đầu, sắt bịt đầu ống\n- vòng sắt đệm, vòng sắt nối\n@Chuyên ngành kỹ thuật\n-đai\n-đầu bịt\n-măng sông\n-ống bọc cán\n-ống kẹp\n-ống nối\n-vành\n-vành tụ điện\n-vành tỳ\n-vòng kẹp\n@Lĩnh vực: hóa học & vật liệu\n-bịt đầu ống\n@Lĩnh vực: vật lý\n-đai chuôi\n@Lĩnh vực: xây dựng\n-ống bịt\n-ống măng sông\n@Lĩnh vực: cơ khí & công trình\n-ống tăng bền\n-vòng sắt đệm\n@Lĩnh vực: điện tử & viễn thông\n-vòng bọc\n@Chuyên ngành kỹ thuật\n-đai\n-đầu bịt\n-măng sông\n-ống bọc cán\n-ống kẹp\n-ống nối\n-vành\n-vành tụ điện\n-vành tỳ\n-vòng kẹp\n@Lĩnh vực: hóa học & vật liệu\n-bịt đầu ống\n@Lĩnh vực: vật lý\n-đai chuôi\n@Lĩnh vực: xây dựng\n-ống bịt\n-ống măng sông\n@Lĩnh vực: cơ khí & công trình\n-ống tăng bền\n-vòng sắt đệm\n@Lĩnh vực: điện tử & viễn thông\n-vòng bọc
-
+ferrule	
+@ferrule /'feru:l/ (ferrel) /'fə:vənt/
+*  danh từ
+- sắt bịt đầu, sắt bịt đầu ống
+- vòng sắt đệm, vòng sắt nối
+@Chuyên ngành kỹ thuật
+-đai
+-đầu bịt
+-măng sông
+-ống bọc cán
+-ống kẹp
+-ống nối
+-vành
+-vành tụ điện
+-vành tỳ
+-vòng kẹp
+@Lĩnh vực: hóa học & vật liệu
+-bịt đầu ống
+@Lĩnh vực: vật lý
+-đai chuôi
+@Lĩnh vực: xây dựng
+-ống bịt
+-ống măng sông
+@Lĩnh vực: cơ khí & công trình
+-ống tăng bền
+-vòng sắt đệm
+@Lĩnh vực: điện tử & viễn thông
+-vòng bọc
+@Chuyên ngành kỹ thuật
+-đai
+-đầu bịt
+-măng sông
+-ống bọc cán
+-ống kẹp
+-ống nối
+-vành
+-vành tụ điện
+-vành tỳ
+-vòng kẹp
+@Lĩnh vực: hóa học & vật liệu
+-bịt đầu ống
+@Lĩnh vực: vật lý
+-đai chuôi
+@Lĩnh vực: xây dựng
+-ống bịt
+-ống măng sông
+@Lĩnh vực: cơ khí & công trình
+-ống tăng bền
+-vòng sắt đệm
+@Lĩnh vực: điện tử & viễn thông
+-vòng bọc

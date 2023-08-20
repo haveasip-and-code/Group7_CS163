@@ -1,3 +1,17 @@
-advice
-	@advice /əd'vais/\n*  danh từ\n- lời khuyên, lời chỉ bảo\n=to act on advice+ làm (hành động) theo lời khuyên\n=to take advice+ theo lời khuyên, nghe theo lời khuyên\n=a piece of advice+ lời khuyên\n- ((thường) số nhiều) tin tức\n!according to our latest advices\n- theo những tin tức cuối cùng chúng tôi nhận được\n- (số nhiều) (thương nghiệp) thư thông báo ((cũng) letter of advice)\n@Chuyên ngành kinh tế\n-ý kiến (đóng góp)\n@Chuyên ngành kỹ thuật\n-lời khuyên\n-thư thông báo\n@Lĩnh vực: cơ khí & công trình\n-giấy báo
-
+advice	
+@advice /əd'vais/
+*  danh từ
+- lời khuyên, lời chỉ bảo=to act on advice
++ làm (hành động) theo lời khuyên=to take advice
++ theo lời khuyên, nghe theo lời khuyên=a piece of advice
++ lời khuyên
+- ((thường) số nhiều) tin tức!according to our latest advices
+- theo những tin tức cuối cùng chúng tôi nhận được
+- (số nhiều) (thương nghiệp) thư thông báo ((cũng) letter of advice)
+@Chuyên ngành kinh tế
+-ý kiến (đóng góp)
+@Chuyên ngành kỹ thuật
+-lời khuyên
+-thư thông báo
+@Lĩnh vực: cơ khí & công trình
+-giấy báo

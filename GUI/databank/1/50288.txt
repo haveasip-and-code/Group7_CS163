@@ -1,3 +1,29 @@
-shelf
-	@shelf /ʃelf/\n*  danh từ,  số nhiều shelves\n/ʃelvz/\n- giá sách; ngăn sách\n- cái xích đông\n- đá ngầm; bãi cạn\n- (địa lý,địa chất) thềm lục địa\n!on the shelf\n- đã xong; bỏ đi, xếp xó; không ai rước (con gái)\n@Chuyên ngành kinh tế\n-bệ\n-giá\n-giá (bày hàng)\n-giàn\n-kệ\n-ngăn\n@Chuyên ngành kỹ thuật\n-bãi cạn\n-đá ngầm\n-giá\n-tầng\n-thềm\n-thềm lục địa\n-vỉa\n@Lĩnh vực: hóa học & vật liệu\n-đá ngầm bãi cạn\n@Lĩnh vực: xây dựng\n-móc để giá\n-xích đông
-
+shelf	@shelf /ʃelf/
+*  danh từ,  số nhiều shelves
+/ʃelvz/
+- giá sách; ngăn sách
+- cái xích đông
+- đá ngầm; bãi cạn
+- (địa lý,địa chất) thềm lục địa
+!on the shelf
+- đã xong; bỏ đi, xếp xó; không ai rước (con gái)
+@Chuyên ngành kinh tế
+-bệ
+-giá
+-giá (bày hàng)
+-giàn
+-kệ
+-ngăn
+@Chuyên ngành kỹ thuật
+-bãi cạn
+-đá ngầm
+-giá
+-tầng
+-thềm
+-thềm lục địa
+-vỉa
+@Lĩnh vực: hóa học & vật liệu
+-đá ngầm bãi cạn
+@Lĩnh vực: xây dựng
+-móc để giá
+-xích đông

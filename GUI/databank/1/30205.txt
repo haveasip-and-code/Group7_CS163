@@ -1,3 +1,16 @@
-itinerary
-	@itinerary /ai'tinərəri/\n*  danh từ\n- hành trình, con đường đi\n- nhật ký đi đường\n- sách hướng dẫn du lịch\n*  tính từ\n- (thuộc) hành trình, (thuộc) đường đi\n@Chuyên ngành kinh tế\n-Bờ biển Nga\n-hành trình\n-lộ trình\n@Chuyên ngành kỹ thuật\n-đường đi\n-hành trình\n-lộ trình
-
+itinerary	
+@itinerary /ai'tinərəri/
+*  danh từ
+- hành trình, con đường đi
+- nhật ký đi đường
+- sách hướng dẫn du lịch
+*  tính từ
+- (thuộc) hành trình, (thuộc) đường đi
+@Chuyên ngành kinh tế
+-Bờ biển Nga
+-hành trình
+-lộ trình
+@Chuyên ngành kỹ thuật
+-đường đi
+-hành trình
+-lộ trình

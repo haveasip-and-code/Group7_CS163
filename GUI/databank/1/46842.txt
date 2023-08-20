@@ -1,3 +1,10 @@
-repeating
-	@repeating\n* tính từ\n- tuần hoàn\n= repeating decimal+số lẻ tuần hoàn\n- liên châu\n= repeating rifle+súng liên châu\n- đánh theo định kỳ\n= repeating watch+đồng hồ điểm chuông theo định kỳ\n@Chuyên ngành kỹ thuật\n-sự lặp lại
-
+repeating	@repeating
+* tính từ
+- tuần hoàn
+= repeating decimal+số lẻ tuần hoàn
+- liên châu
+= repeating rifle+súng liên châu
+- đánh theo định kỳ
+= repeating watch+đồng hồ điểm chuông theo định kỳ
+@Chuyên ngành kỹ thuật
+-sự lặp lại

@@ -1,3 +1,11 @@
-finite
-	@finite /'fainait/\n*  tính từ\n- có hạn; có chừng; hạn chế\n- (ngôn ngữ học) có ngôi (động từ)\n@Chuyên ngành kỹ thuật\n-hữu hạn\n-xác định\n@Chuyên ngành kỹ thuật\n-hữu hạn\n-xác định
-
+finite	
+@finite /'fainait/
+*  tính từ
+- có hạn; có chừng; hạn chế
+- (ngôn ngữ học) có ngôi (động từ)
+@Chuyên ngành kỹ thuật
+-hữu hạn
+-xác định
+@Chuyên ngành kỹ thuật
+-hữu hạn
+-xác định

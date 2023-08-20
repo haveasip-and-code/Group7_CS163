@@ -1,3 +1,8 @@
-callable
-	@callable\n* tính từ\n- có thể gọi được\n- có thể trả ngay được (tiền nợ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể gọi được
-
+callable	
+@callable
+* tính từ
+- có thể gọi được
+- có thể trả ngay được (tiền nợ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể gọi được

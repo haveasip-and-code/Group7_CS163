@@ -1,3 +1,14 @@
-insurer
-	@insurer /in'ʃuərə/\n*  danh từ\n- người nhận bảo hiểm (vật gì cho người khác)\n- công ty bảo hiểm\n@Chuyên ngành kinh tế\n-chủ hãng bảo hiểm\n-công ty bảo hiểm\n-người bảo hiểm\n-người nhận bảo hiểm\n@Chuyên ngành kỹ thuật\n-người bảo hiểm\n@Lĩnh vực: toán & tin\n-hội bảo hiểm
-
+insurer	
+@insurer /in'ʃuərə/
+*  danh từ
+- người nhận bảo hiểm (vật gì cho người khác)
+- công ty bảo hiểm
+@Chuyên ngành kinh tế
+-chủ hãng bảo hiểm
+-công ty bảo hiểm
+-người bảo hiểm
+-người nhận bảo hiểm
+@Chuyên ngành kỹ thuật
+-người bảo hiểm
+@Lĩnh vực: toán & tin
+-hội bảo hiểm

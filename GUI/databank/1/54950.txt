@@ -1,3 +1,2 @@
-swam
-	@swam\n- xem swim
-
+swam	@swam
+- xem swim

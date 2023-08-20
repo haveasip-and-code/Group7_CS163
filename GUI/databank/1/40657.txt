@@ -1,3 +1,12 @@
-periodicity
-	@periodicity /,piəri'disiti/\n*  danh từ\n- tính chu kỳ\n- tính định kỳ, tính thường kỳ\n- tính tuần hoàn\n@Chuyên ngành kỹ thuật\n-sự tuần hoàn\n@Lĩnh vực: y học\n-tính chu kỳ\n-tính tuần hoàn\n@Lĩnh vực: điện tử & viễn thông\n-tính có chu kỳ
-
+periodicity	@periodicity /,piəri'disiti/
+*  danh từ
+- tính chu kỳ
+- tính định kỳ, tính thường kỳ
+- tính tuần hoàn
+@Chuyên ngành kỹ thuật
+-sự tuần hoàn
+@Lĩnh vực: y học
+-tính chu kỳ
+-tính tuần hoàn
+@Lĩnh vực: điện tử & viễn thông
+-tính có chu kỳ

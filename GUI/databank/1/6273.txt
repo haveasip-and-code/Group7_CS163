@@ -1,3 +1,7 @@
-bookcase
-	@bookcase /'bukkeis/\n*  danh từ\n- tủ sách\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tủ sách
-
+bookcase	
+@bookcase /'bukkeis/
+*  danh từ
+- tủ sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tủ sách

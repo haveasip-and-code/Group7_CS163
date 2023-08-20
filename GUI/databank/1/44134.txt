@@ -1,3 +1,5 @@
-propped
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được chống\n@Lĩnh vực: hóa học & vật liệu\n-được dựng
-
+propped	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được chống
+@Lĩnh vực: hóa học & vật liệu
+-được dựng

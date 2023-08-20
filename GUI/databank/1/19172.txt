@@ -1,3 +1,16 @@
-etalon
-	@etalon\n* danh từ\n- chuẩn; mẫu (đo lường)\n@Chuyên ngành kỹ thuật\n-chuẩn\n-mẫu\n-mẫu chuẩn\n@Lĩnh vực: vật lý\n-chuẩn sơ cấp\n@Chuyên ngành kỹ thuật\n-chuẩn\n-mẫu\n-mẫu chuẩn\n@Lĩnh vực: vật lý\n-chuẩn sơ cấp
-
+etalon	
+@etalon
+* danh từ
+- chuẩn; mẫu (đo lường)
+@Chuyên ngành kỹ thuật
+-chuẩn
+-mẫu
+-mẫu chuẩn
+@Lĩnh vực: vật lý
+-chuẩn sơ cấp
+@Chuyên ngành kỹ thuật
+-chuẩn
+-mẫu
+-mẫu chuẩn
+@Lĩnh vực: vật lý
+-chuẩn sơ cấp

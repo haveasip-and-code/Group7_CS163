@@ -1,3 +1,57 @@
-boss
-	@boss /bɔs/\n*  danh từ\n- (từ lóng) ông chủ, thủ trưởng\n- (từ Mỹ,nghĩa Mỹ) ông trùm (của một tổ chức chính trị)\n- tay cừ (trong môn gì); nhà vô địch\n*  ngoại động từ\n- (từ lóng) chỉ huy, điều khiển\n=to the show+ quán xuyến mọi việc\n*  danh từ\n- cái bướu\n- (kỹ thuật) phần lồi, vấu lồi\n- (địa lý,địa chất) thế cán, thế bướu\n- (kiến trúc) chỗ xây nổi lên\n*  danh từ,  động từ\n- (như) bos\n@Chuyên ngành kinh tế\n-cai thợ\n-chủ\n-giám công ...\n-thợ cả\n-xếp\n@Chuyên ngành kỹ thuật\n-búa đập\n-búa rèn\n-bướu\n-đá phiến than\n-đe định hình\n-điều khiển\n-đốc công\n-khoét lỗ\n-khuôn\n-kiến trúc vòm\n-lãnh đạo\n-mấu lồi\n-mũi nhô\n-ống bọc\n-ống lót\n-vấu\n-vòm\n@Lĩnh vực: cơ khí & công trình\n-bậc mayơ\n-búa rèn khuôn\n-cánh gia cố\n-đe địa hình\n-gờ lồi\n-quản đốc\n-vấu lồi\n@Lĩnh vực: ô tô\n-gờ (mayơ bánh xe)\n@Lĩnh vực: toán & tin\n-kiến trúc bướu\n-thẻ vòm\n@Lĩnh vực: xây dựng\n-mấu gỗ\n-thể vòm\n@Lĩnh vực: hóa học & vật liệu\n-sét than dạng phiến
-
+boss	@boss /bɔs/
+*  danh từ
+- (từ lóng) ông chủ, thủ trưởng
+- (từ Mỹ,nghĩa Mỹ) ông trùm (của một tổ chức chính trị)
+- tay cừ (trong môn gì); nhà vô địch
+*  ngoại động từ
+- (từ lóng) chỉ huy, điều khiển
+=to the show+ quán xuyến mọi việc
+*  danh từ
+- cái bướu
+- (kỹ thuật) phần lồi, vấu lồi
+- (địa lý,địa chất) thế cán, thế bướu
+- (kiến trúc) chỗ xây nổi lên
+*  danh từ,  động từ
+- (như) bos
+@Chuyên ngành kinh tế
+-cai thợ
+-chủ
+-giám công ...
+-thợ cả
+-xếp
+@Chuyên ngành kỹ thuật
+-búa đập
+-búa rèn
+-bướu
+-đá phiến than
+-đe định hình
+-điều khiển
+-đốc công
+-khoét lỗ
+-khuôn
+-kiến trúc vòm
+-lãnh đạo
+-mấu lồi
+-mũi nhô
+-ống bọc
+-ống lót
+-vấu
+-vòm
+@Lĩnh vực: cơ khí & công trình
+-bậc mayơ
+-búa rèn khuôn
+-cánh gia cố
+-đe địa hình
+-gờ lồi
+-quản đốc
+-vấu lồi
+@Lĩnh vực: ô tô
+-gờ (mayơ bánh xe)
+@Lĩnh vực: toán & tin
+-kiến trúc bướu
+-thẻ vòm
+@Lĩnh vực: xây dựng
+-mấu gỗ
+-thể vòm
+@Lĩnh vực: hóa học & vật liệu
+-sét than dạng phiến

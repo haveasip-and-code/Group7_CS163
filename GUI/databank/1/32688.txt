@@ -1,3 +1,5 @@
-longest
-	@longest\n- dài nhất\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dài nhất
-
+longest	@longest
+- dài nhất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dài nhất

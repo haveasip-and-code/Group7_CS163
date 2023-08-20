@@ -1,3 +1,4 @@
-predrill
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-khoan sơ\n-khoan thô
-
+predrill	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-khoan sơ
+-khoan thô

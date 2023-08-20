@@ -1,3 +1,2 @@
-pressurizer
-	@pressurizer\n- xem pressurize
-
+pressurizer	@pressurizer
+- xem pressurize

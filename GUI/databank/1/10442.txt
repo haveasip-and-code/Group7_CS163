@@ -1,3 +1,5 @@
-combustor
-	@Chuyên ngành kỹ thuật\n-buồng cháy\n-buồng đốt\n-buồng lửa
-
+combustor	
+@Chuyên ngành kỹ thuật
+-buồng cháy
+-buồng đốt
+-buồng lửa

@@ -1,3 +1,10 @@
-cleaving
-	@Chuyên ngành kỹ thuật\n-đập vụn\n-sự chẻ\n-sự chia\n-sự đập vụn\n-sự tách\n@Lĩnh vực: xây dựng\n-chỗ tách\n-sự chặt nát
-
+cleaving	
+@Chuyên ngành kỹ thuật
+-đập vụn
+-sự chẻ
+-sự chia
+-sự đập vụn
+-sự tách
+@Lĩnh vực: xây dựng
+-chỗ tách
+-sự chặt nát

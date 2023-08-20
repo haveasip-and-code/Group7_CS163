@@ -1,3 +1,2 @@
-prolixly
-	@prolixly\n- xem prolix
-
+prolixly	@prolixly
+- xem prolix

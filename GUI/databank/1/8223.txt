@@ -1,3 +1,4 @@
-catacombs
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hầm mộ ngầm
-
+catacombs	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hầm mộ ngầm

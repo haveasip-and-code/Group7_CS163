@@ -1,3 +1,13 @@
-economist
-	@economist /i:'kɔnəmist/\n*  danh từ\n- nhà kinh tế học\n- người tiết kiệm\n- người quản lý (tiền bạc...)\n!rural economist\n- nhà nông học\n@Chuyên ngành kinh tế\n-chủ nghĩa kinh tế\n-kinh tế gia\n-nhà kinh tế\n@Chuyên ngành kỹ thuật\n-nhà kinh tế
-
+economist	
+@economist /i:'kɔnəmist/
+*  danh từ
+- nhà kinh tế học
+- người tiết kiệm
+- người quản lý (tiền bạc...)!rural economist
+- nhà nông học
+@Chuyên ngành kinh tế
+-chủ nghĩa kinh tế
+-kinh tế gia
+-nhà kinh tế
+@Chuyên ngành kỹ thuật
+-nhà kinh tế

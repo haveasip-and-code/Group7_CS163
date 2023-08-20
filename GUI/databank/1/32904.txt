@@ -1,3 +1,5 @@
-lugged
-	@Chuyên ngành kỹ thuật\n-có sườn\n@Lĩnh vực: cơ khí & công trình\n-có tai\n-có vấu
-
+lugged	@Chuyên ngành kỹ thuật
+-có sườn
+@Lĩnh vực: cơ khí & công trình
+-có tai
+-có vấu

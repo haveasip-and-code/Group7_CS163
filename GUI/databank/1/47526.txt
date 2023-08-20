@@ -1,3 +1,27 @@
-revolution
-	@revolution /,revə'lu:ʃn/\n*  danh từ\n- vòng, tua\n=revolutions per minute+ số vòng quay mỗi phút\n- (toán học); (thiên văn học) sự xoay vòng\n- cuộc cách mạng\n=the socialist revolution+ cuộc cách mạng xã hội chủ nghĩa\n=the national democratic revolution+ cuộc cách mạng dân tộc dân chủ\n@Chuyên ngành kỹ thuật\n-hồi quy\n-lập lại\n-máy đếm vòng\n-số vòng quay\n-sự quay\n-sự quay vòng\n-sự xoay\n-sự xoay vòng\n-vòng quanh\n-vòng quay\n@Lĩnh vực: toán & tin\n-phép quay\n-phép xoay\n-sự tiến hóa\n@Lĩnh vực: điện\n-vòng (quay)\n@Lĩnh vực: xây dựng\n-xoay tròn
-
+revolution	@revolution /,revə'lu:ʃn/
+*  danh từ
+- vòng, tua
+=revolutions per minute+ số vòng quay mỗi phút
+- (toán học); (thiên văn học) sự xoay vòng
+- cuộc cách mạng
+=the socialist revolution+ cuộc cách mạng xã hội chủ nghĩa
+=the national democratic revolution+ cuộc cách mạng dân tộc dân chủ
+@Chuyên ngành kỹ thuật
+-hồi quy
+-lập lại
+-máy đếm vòng
+-số vòng quay
+-sự quay
+-sự quay vòng
+-sự xoay
+-sự xoay vòng
+-vòng quanh
+-vòng quay
+@Lĩnh vực: toán & tin
+-phép quay
+-phép xoay
+-sự tiến hóa
+@Lĩnh vực: điện
+-vòng (quay)
+@Lĩnh vực: xây dựng
+-xoay tròn

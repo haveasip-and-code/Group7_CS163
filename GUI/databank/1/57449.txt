@@ -1,3 +1,2 @@
-transmissivity
-	@Chuyên ngành kỹ thuật\n-hệ số lan truyền
-
+transmissivity	@Chuyên ngành kỹ thuật
+-hệ số lan truyền

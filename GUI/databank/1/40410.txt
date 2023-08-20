@@ -1,3 +1,2 @@
-pennoned
-	@pennoned\n- xem pennon
-
+pennoned	@pennoned
+- xem pennon

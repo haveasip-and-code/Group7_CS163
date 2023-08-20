@@ -1,3 +1,18 @@
-disorder
-	@disorder /dis'ɔ:də/\n*  danh từ\n- sự mất trật tự, sự bừa bãi, sự lộn xộn\n- sự hỗn loạn, sự rối loạn, sự náo loạn\n- (y học) sự khó ở, sự rối loạn (một chức năng của cơ thể)\n*  ngoại động từ\n- làm mất trật tự, làm bừa bãi, làm lộn xộn\n- làm hỗn loạn, làm rối loạn, làm náo loạn\n- (y học) làm khó ở, làm rối loạn (một chức năng của cơ thể)\n@Chuyên ngành kinh tế\n-làm rối loạn\n-sự mất trật tự\n@Chuyên ngành kỹ thuật\n-chướng ngại\n-đường lệch mạng\n-sự hỗn độn\n-sự rối loạn
-
+disorder	
+@disorder /dis'ɔ:də/
+*  danh từ
+- sự mất trật tự, sự bừa bãi, sự lộn xộn
+- sự hỗn loạn, sự rối loạn, sự náo loạn
+- (y học) sự khó ở, sự rối loạn (một chức năng của cơ thể)
+*  ngoại động từ
+- làm mất trật tự, làm bừa bãi, làm lộn xộn
+- làm hỗn loạn, làm rối loạn, làm náo loạn
+- (y học) làm khó ở, làm rối loạn (một chức năng của cơ thể)
+@Chuyên ngành kinh tế
+-làm rối loạn
+-sự mất trật tự
+@Chuyên ngành kỹ thuật
+-chướng ngại
+-đường lệch mạng
+-sự hỗn độn
+-sự rối loạn

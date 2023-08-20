@@ -1,3 +1,32 @@
-blower
-	@blower /'blouə/\n*  danh từ\n- ống bễ\n- người thổi (đồ thuỷ tinh)\n- (kỹ thuật) máy quạt gió\n@Chuyên ngành kinh tế\n-điện thoại\n-máy quạt gió\n@Chuyên ngành kỹ thuật\n-bễ\n-bơm tăng áp\n-có\n-lò thông khí\n-máy quạt\n-máy quạt gió\n-máy thổi\n-quạt gió\n-quạt hút\n-quạt thông gió\n-sự quạt gió\n-tăng áp\n@Lĩnh vực: cơ khí & công trình\n-ống bễ\n@Lĩnh vực: hóa học & vật liệu\n-phụt khí\n@Lĩnh vực: ô tô\n-quạt gió (giàn lạnh)\n-quạt gió (máy lạnh)\n@Lĩnh vực: điện tử & viễn thông\n-quạt thổi gió\n@Lĩnh vực: xây dựng\n-thổi quạt gió
-
+blower	@blower /'blouə/
+*  danh từ
+- ống bễ
+- người thổi (đồ thuỷ tinh)
+- (kỹ thuật) máy quạt gió
+@Chuyên ngành kinh tế
+-điện thoại
+-máy quạt gió
+@Chuyên ngành kỹ thuật
+-bễ
+-bơm tăng áp
+-có
+-lò thông khí
+-máy quạt
+-máy quạt gió
+-máy thổi
+-quạt gió
+-quạt hút
+-quạt thông gió
+-sự quạt gió
+-tăng áp
+@Lĩnh vực: cơ khí & công trình
+-ống bễ
+@Lĩnh vực: hóa học & vật liệu
+-phụt khí
+@Lĩnh vực: ô tô
+-quạt gió (giàn lạnh)
+-quạt gió (máy lạnh)
+@Lĩnh vực: điện tử & viễn thông
+-quạt thổi gió
+@Lĩnh vực: xây dựng
+-thổi quạt gió

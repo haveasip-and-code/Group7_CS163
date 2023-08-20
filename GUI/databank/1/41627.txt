@@ -1,3 +1,8 @@
-pinhole
-	@Chuyên ngành kỹ thuật\n-ảnh qua lỗ kim\n-lỗ đóng chốt\n-lỗ ghim\n-lỗ ngắm\n-vết lõm\n@Lĩnh vực: cơ khí & công trình\n-lỗ đường kính nhỏ
-
+pinhole	@Chuyên ngành kỹ thuật
+-ảnh qua lỗ kim
+-lỗ đóng chốt
+-lỗ ghim
+-lỗ ngắm
+-vết lõm
+@Lĩnh vực: cơ khí & công trình
+-lỗ đường kính nhỏ

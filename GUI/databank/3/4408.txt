@@ -1,3 +1,5 @@
-backtracking
-	@backtracking\n- (Tech) tìm ngược, truy tích nghịch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự lần tìm ngược
-
+backtracking	@backtracking
+- (Tech) tìm ngược, truy tích nghịch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự lần tìm ngược

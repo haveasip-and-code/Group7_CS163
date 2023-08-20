@@ -1,3 +1,4 @@
-carb
-	@Chuyên ngành kỹ thuật\n-bộ chế hòa khí\n@Lĩnh vực: ô tô\n-bình xăng con
-
+carb	@Chuyên ngành kỹ thuật
+-bộ chế hòa khí
+@Lĩnh vực: ô tô
+-bình xăng con

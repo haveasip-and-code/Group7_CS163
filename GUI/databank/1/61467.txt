@@ -1,3 +1,9 @@
-venting
-	@venting\n* danh từ\n- sự thải ra không trung (khói, hơi...)\n- sự làm cho thông thoáng\n- sự thông gió\n@Chuyên ngành kỹ thuật\n-sự thông gió\n-sự thông hơi\n-sự thông khí
-
+venting	@venting
+* danh từ
+- sự thải ra không trung (khói, hơi...)
+- sự làm cho thông thoáng
+- sự thông gió
+@Chuyên ngành kỹ thuật
+-sự thông gió
+-sự thông hơi
+-sự thông khí

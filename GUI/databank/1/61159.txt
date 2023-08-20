@@ -1,3 +1,7 @@
-valuables
-	@valuables\n* danh từ, pl\n- đồ quý giá, vật có giá trị (đồ trang sức )\n@Chuyên ngành kinh tế\n-báu vật\n-đồ đáng giá\n-đồ quý giá
-
+valuables	@valuables
+* danh từ, pl
+- đồ quý giá, vật có giá trị (đồ trang sức )
+@Chuyên ngành kinh tế
+-báu vật
+-đồ đáng giá
+-đồ quý giá

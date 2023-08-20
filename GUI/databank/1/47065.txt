@@ -1,3 +1,4 @@
-resetting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự cài đặt lại\n-sự căng lại
-
+resetting	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự cài đặt lại
+-sự căng lại

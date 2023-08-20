@@ -1,3 +1,5 @@
-weds
-	@weds\n* (viết tắt)\n- thứ Tư (Wednesday)\n- viết tắt\n- thứ Tư (Wednesday)
-
+weds	@weds
+* (viết tắt)
+- thứ Tư (Wednesday)
+- viết tắt
+- thứ Tư (Wednesday)

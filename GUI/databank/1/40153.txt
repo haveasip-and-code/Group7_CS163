@@ -1,3 +1,2 @@
-peanuts
-	@Chuyên ngành kinh tế\n-số tiền nhỏ
-
+peanuts	@Chuyên ngành kinh tế
+-số tiền nhỏ

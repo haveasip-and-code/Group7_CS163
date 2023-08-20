@@ -1,3 +1,17 @@
-putrid
-	@putrid /'pju:trid/\n*  tính từ\n- thối, thối rữa\n- thối tha, độc hại\n- (nghĩa bóng) đồi bại, sa đoạ\n- (từ lóng) tồi, tồi tệ, hết sức khó chịu\n=putrid weather+ thời tiết hết sức khó chịu\n!putrid fever\n- (y học) bệnh sốt phát ban\n!putrid sore throat\n- (y học) bệnh bạch hầu\n@Chuyên ngành kinh tế\n-rữa\n-thối\n@Chuyên ngành kỹ thuật\n-rữa\n-thối
-
+putrid	@putrid /'pju:trid/
+*  tính từ
+- thối, thối rữa
+- thối tha, độc hại
+- (nghĩa bóng) đồi bại, sa đoạ
+- (từ lóng) tồi, tồi tệ, hết sức khó chịu
+=putrid weather+ thời tiết hết sức khó chịu
+!putrid fever
+- (y học) bệnh sốt phát ban
+!putrid sore throat
+- (y học) bệnh bạch hầu
+@Chuyên ngành kinh tế
+-rữa
+-thối
+@Chuyên ngành kỹ thuật
+-rữa
+-thối

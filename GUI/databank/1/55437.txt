@@ -1,3 +1,9 @@
-tailpiece
-	@tailpiece /'teilpi:s/\n*  danh từ\n- hình vẽ cuối chương sách\n- chốt mắc dây (ờ đàn viôtlông, đàn nguyệt...)\n@Chuyên ngành kỹ thuật\n-khớp lồng ống\n-minh họa cuối chương\n@Lĩnh vực: xây dựng\n-dầm đỡ một đầu
-
+tailpiece	@tailpiece /'teilpi:s/
+*  danh từ
+- hình vẽ cuối chương sách
+- chốt mắc dây (ờ đàn viôtlông, đàn nguyệt...)
+@Chuyên ngành kỹ thuật
+-khớp lồng ống
+-minh họa cuối chương
+@Lĩnh vực: xây dựng
+-dầm đỡ một đầu

@@ -1,3 +1,6 @@
-tailback
-	@tailback\n* danh từ\n- hàng dài xe cộ nối đuôi nhau (do bị ách tắc)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sự ùn tắc (xe cộ)
-
+tailback	@tailback
+* danh từ
+- hàng dài xe cộ nối đuôi nhau (do bị ách tắc)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-sự ùn tắc (xe cộ)

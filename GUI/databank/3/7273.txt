@@ -1,3 +1,74 @@
-business
-	@business /'biznis/ (biz) /biz/ (busyness) /'bizinis/\n*  danh từ\n- việc buôn bán, việc kinh doanh, việc thương mại\n=to do business with somebody+ buôn bán với ai\n=to go into business+ đi vào con đường kinh doanh\n- công tác, nghề nghiệp; công việc, nhiệm vụ việc phải làm\n=teacher's business+ công việc của giáo viên\n=to make it one's business to do something+ coi nhiệm vụ của mình là phải làm cái gì\n=to get (come) to business+ bắt tay vào công việc\n- quyền\n=you have no business to do that+ anh không có quyền làm như vậy\n- việc khó khăn\n=what a business it is to meet him+ gặp anh ta thật là một điều khó khăn\n- tuồm vấn đề; quá trình diễn biến\n=to be sick of the whole business+ chán ngấy với việc này rồi\n- vấn đề trong chương trình nghị sự\n=the business of the day+ chương trình nghị sự\n- sự giao dịch\n=man of business+ người thay đổi để giao dịch\n- (thông tục) phần có tác dụng thực tế (của cái gì)\n- cách diễn xuất (trên sân khấu)\n- nhuồm khoé\n!to be out of business\n- vỡ nợ, phá sản\n!business is business\n- công việc là công việc, tình là tình (không nhập nhằng lẫn lộn được)\n!to do big business\n- buôn bán lớn\n!to do somebody's business; to do the business for somebody\n- giết ai\n!everybody's business is nobody's business\n- (tục ngữ) làm sãi không ai đóng cửa chùa\n!go about your business!\n- (xem) go\n!good business!\n- (thông tục) rất tốt! tuyệt! cừ thật!\n!to mean business\n- thực bụng muốn làm ăn (với nhau)\n*  danh từ\n- tình trạng bận rộn\n@Chuyên ngành kinh tế\n-chức nghiệp\n-chức vụ\n-công tác\n-công việc\n-công việc doanh\n-công việc kinh doanh\n-công việc phải làm\n-cửa hiệu\n-doanh nghiệp\n-doanh nghiệp/ công việc kinh doanh/ vấn đề\n-hãng\n-nghiệp vụ\n-nhà kinh doanh\n-sự kiện\n-thương điếm\n-thương nghiệp\n-tiện\n-trách nhiệm\n-vấn đề\n-việc\n-việc làm\n-xí nghiệp\n@Chuyên ngành kỹ thuật\n-công việc\n-nghề nghiệp\n-ống lót khoan\n@Lĩnh vực: toán & tin\n-kinh doanh thương mại\n@Lĩnh vực: xây dựng\n-sự kinh doanh\n@Lĩnh vực: giao thông & vận tải\n-việc buôn bán\n-việc kinh doanh
-
+business	@business /'biznis/ (biz) /biz/ (busyness) /'bizinis/
+*  danh từ
+- việc buôn bán, việc kinh doanh, việc thương mại
+=to do business with somebody+ buôn bán với ai
+=to go into business+ đi vào con đường kinh doanh
+- công tác, nghề nghiệp; công việc, nhiệm vụ việc phải làm
+=teacher's business+ công việc của giáo viên
+=to make it one's business to do something+ coi nhiệm vụ của mình là phải làm cái gì
+=to get (come) to business+ bắt tay vào công việc
+- quyền
+=you have no business to do that+ anh không có quyền làm như vậy
+- việc khó khăn
+=what a business it is to meet him+ gặp anh ta thật là một điều khó khăn
+- tuồm vấn đề; quá trình diễn biến
+=to be sick of the whole business+ chán ngấy với việc này rồi
+- vấn đề trong chương trình nghị sự
+=the business of the day+ chương trình nghị sự
+- sự giao dịch
+=man of business+ người thay đổi để giao dịch
+- (thông tục) phần có tác dụng thực tế (của cái gì)
+- cách diễn xuất (trên sân khấu)
+- nhuồm khoé
+!to be out of business
+- vỡ nợ, phá sản
+!business is business
+- công việc là công việc, tình là tình (không nhập nhằng lẫn lộn được)
+!to do big business
+- buôn bán lớn
+!to do somebody's business; to do the business for somebody
+- giết ai
+!everybody's business is nobody's business
+- (tục ngữ) làm sãi không ai đóng cửa chùa
+!go about your business!
+- (xem) go
+!good business!
+- (thông tục) rất tốt! tuyệt! cừ thật!
+!to mean business
+- thực bụng muốn làm ăn (với nhau)
+*  danh từ
+- tình trạng bận rộn
+@Chuyên ngành kinh tế
+-chức nghiệp
+-chức vụ
+-công tác
+-công việc
+-công việc doanh
+-công việc kinh doanh
+-công việc phải làm
+-cửa hiệu
+-doanh nghiệp
+-doanh nghiệp/ công việc kinh doanh/ vấn đề
+-hãng
+-nghiệp vụ
+-nhà kinh doanh
+-sự kiện
+-thương điếm
+-thương nghiệp
+-tiện
+-trách nhiệm
+-vấn đề
+-việc
+-việc làm
+-xí nghiệp
+@Chuyên ngành kỹ thuật
+-công việc
+-nghề nghiệp
+-ống lót khoan
+@Lĩnh vực: toán & tin
+-kinh doanh thương mại
+@Lĩnh vực: xây dựng
+-sự kinh doanh
+@Lĩnh vực: giao thông & vận tải
+-việc buôn bán
+-việc kinh doanh

@@ -1,3 +1,16 @@
-solvent
-	@solvent /'sɔlvənt/\n*  tính từ\n- có khả năng hoà tan\n- (nghĩa bóng) có khả năng làm tan, có khả năng làm suy yếu (mê tín dị đoan...)\n- có thể trả được nợ\n*  danh từ\n- dung môi\n=water is the commonest solvent+ nước là dung môi thông thường nhất\n- yếu tố làm tan, yếu tố làm yếu đi\n=science as a solvent of religious belief+ khoa học với tính chất là một yếu tố có tác dụng đập tan đạo giáo\n@Chuyên ngành kinh tế\n-dung môi\n-người có khả năng trả nợ\n@Chuyên ngành kỹ thuật\n-chất hòa tan\n-dung môi
-
+solvent	@solvent /'sɔlvənt/
+*  tính từ
+- có khả năng hoà tan
+- (nghĩa bóng) có khả năng làm tan, có khả năng làm suy yếu (mê tín dị đoan...)
+- có thể trả được nợ
+*  danh từ
+- dung môi
+=water is the commonest solvent+ nước là dung môi thông thường nhất
+- yếu tố làm tan, yếu tố làm yếu đi
+=science as a solvent of religious belief+ khoa học với tính chất là một yếu tố có tác dụng đập tan đạo giáo
+@Chuyên ngành kinh tế
+-dung môi
+-người có khả năng trả nợ
+@Chuyên ngành kỹ thuật
+-chất hòa tan
+-dung môi

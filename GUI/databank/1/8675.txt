@@ -1,3 +1,22 @@
-challenge
-	@challenge /'tʃælindʤ/\n*  danh từ\n- (quân sự) tiếng hô "đứng lại" (của lính đứng gác)\n- sự thách thức\n=to issue (send) a challenge+ thách, thách thức\n=to take up (accept) a challenge+ nhận lời thách thức\n- (pháp lý) sự không thừa nhận\n- hiệu lệnh (cho tàu thuỷ, máy bay) bắt trưng bày dấu hiệu\n*  ngoại động từ\n- (quân sự) hô "đứng lại" (lính đứng gác)\n- thách, thách thức\n=to challenge someone to a duel+ thách ai đấu kiếm\n- không thừa nhận\n- đòi hỏi, yêu cầu\n=to challenge attention+ đòi hỏi sự chú ý\n@Chuyên ngành kinh tế\n-cáo tị\n-sự không thừa nhận\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thử thách
-
+challenge	
+@challenge /'tʃælindʤ/
+*  danh từ
+- (quân sự) tiếng hô "đứng lại" (của lính đứng gác)
+- sự thách thức=to issue (send) a challenge
++ thách, thách thức=to take up (accept) a challenge
++ nhận lời thách thức
+- (pháp lý) sự không thừa nhận
+- hiệu lệnh (cho tàu thuỷ, máy bay) bắt trưng bày dấu hiệu
+*  ngoại động từ
+- (quân sự) hô "đứng lại" (lính đứng gác)
+- thách, thách thức=to challenge someone to a duel
++ thách ai đấu kiếm
+- không thừa nhận
+- đòi hỏi, yêu cầu=to challenge attention
++ đòi hỏi sự chú ý
+@Chuyên ngành kinh tế
+-cáo tị
+-sự không thừa nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thử thách

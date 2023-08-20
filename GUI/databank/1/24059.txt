@@ -1,3 +1,4 @@
-grandpa
-	@grandpa /grandpa/\n*  danh từ\n- nhuấy &
-
+grandpa	
+@grandpa /grandpa/
+*  danh từ
+- nhuấy &

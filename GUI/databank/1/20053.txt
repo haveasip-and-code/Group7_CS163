@@ -1,3 +1,4 @@
-externally
-	@externally\n* phó từ\n- theo bên ngoài, theo bề ngoài
-
+externally	
+@externally
+* phó từ
+- theo bên ngoài, theo bề ngoài

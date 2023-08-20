@@ -1,3 +1,18 @@
-thermoplastic
-	@thermoplastic\n* tính từ\n- dẻo nóng (mềm, dễ uốn khi được nung nóng và cứng lại khi được làm lạnh)\n* danh từ\n- nhựa dẻo nóng\n@Chuyên ngành kỹ thuật\n-dẻo nhiệt\n-dẻo nóng\n-nhiệt dẻo\n-nhựa nhiệt dẻo\n@Lĩnh vực: hóa học & vật liệu\n-chất dẻo nóng\n@Lĩnh vực: điện\n-nhựa dẻo cảm nhiệt\n@Lĩnh vực: ô tô\n-nhựa dẻo khi nóng\n@Lĩnh vực: xây dựng\n-nhựa dẻo nhiệt
-
+thermoplastic	@thermoplastic
+* tính từ
+- dẻo nóng (mềm, dễ uốn khi được nung nóng và cứng lại khi được làm lạnh)
+* danh từ
+- nhựa dẻo nóng
+@Chuyên ngành kỹ thuật
+-dẻo nhiệt
+-dẻo nóng
+-nhiệt dẻo
+-nhựa nhiệt dẻo
+@Lĩnh vực: hóa học & vật liệu
+-chất dẻo nóng
+@Lĩnh vực: điện
+-nhựa dẻo cảm nhiệt
+@Lĩnh vực: ô tô
+-nhựa dẻo khi nóng
+@Lĩnh vực: xây dựng
+-nhựa dẻo nhiệt

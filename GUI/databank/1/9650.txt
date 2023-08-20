@@ -1,3 +1,22 @@
-classification
-	@classification /,klæsifi'keiʃn/\n*  danh từ\n- sự phân loại\n@Chuyên ngành kinh tế\n-phân loại hàng hóa\n-sự chia nhóm\n-sự phân loại\n-sự phân loại (hàng hóa)\n-xếp hạng (một con) tàu\n-xếp hạng tàu\n@Chuyên ngành kỹ thuật\n-phân loại\n-sắp xếp\n-sự phân cấp\n-sự phân hạng\n-sự phân loại\n-sự phân lớp\n-sự phân tầng\n@Lĩnh vực: giao thông & vận tải\n-sự chuyển đường tàu\n-sự xếp hạng (tàu)
-
+classification	
+@classification /,klæsifi'keiʃn/
+*  danh từ
+- sự phân loại
+@Chuyên ngành kinh tế
+-phân loại hàng hóa
+-sự chia nhóm
+-sự phân loại
+-sự phân loại (hàng hóa)
+-xếp hạng (một con) tàu
+-xếp hạng tàu
+@Chuyên ngành kỹ thuật
+-phân loại
+-sắp xếp
+-sự phân cấp
+-sự phân hạng
+-sự phân loại
+-sự phân lớp
+-sự phân tầng
+@Lĩnh vực: giao thông & vận tải
+-sự chuyển đường tàu
+-sự xếp hạng (tàu)

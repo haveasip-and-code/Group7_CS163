@@ -1,3 +1,2 @@
-defamer
-	@defamer\n- xem defame
-
+defamer	@defamer
+- xem defame

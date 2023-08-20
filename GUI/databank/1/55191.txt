@@ -1,3 +1,6 @@
-symptom
-	@symptom /'simptəm/\n*  danh từ\n- triệu chứng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-triệu chứng
-
+symptom	@symptom /'simptəm/
+*  danh từ
+- triệu chứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-triệu chứng

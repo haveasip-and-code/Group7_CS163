@@ -1,3 +1,79 @@
-kill
-	@kill /kil/\n*  ngoại động từ\n- giết, giết chết, làm chết, diệt ((nghĩa đen) & (nghĩa bóng))\n=to be killed on the spot+ bị giết ngay tại chỗ\n=to kill one's time+ giết thì giờ\n=to kill a colour+ làm chết màu\n- ngả, giết làm thịt (một con bò...)\n- tắt (máy...); làm át, làm lấp (tiếng...)\n=the drums kill the string+ tiếng trống làm át tiếng đàn dây\n- làm tiêu tan, làm hết (hy vọng...)\n- làm khỏi, trừ diệt (bệnh, đau...)\n- làm thất bại, làm hỏng; bác bỏ\n=to kill a bill+ bác bỏ một dự luật (ở quốc hội...)\n- làm phục lăn, làm choáng người, làm thích mê, làm cười vỡ bụng\n=got up (dolled up, dressed) to kill+ diện choáng người làm cho thiên hạ phục lăn\n=the story nearly killed me+ câu chuyện làm cho tôi cười gần chết\n- gây tai hại, làm chết dở\n=to kill somebody with kindness+ vì ân cần tử tế quá mà gây tai hại cho ai\n- (thể dục,thể thao) bạt một cú quyết định (quần vợt); chận đứng (bóng đá)\n- (kỹ thuật) ăn mòn\n*  nội động từ\n- giết, giết chết\n- giết thịt được\n=pigs do not kill well at that age+ lợn vào tuổi này giết thịt chưa được tốt\n!to kill off\n- giết sạch, tiêu diệt\n!to kill by inches\n- giết dần, giết mòn\n!to kill two birds with one stone\n- (xem) bird\n!to laugh fit to kill\n- (từ Mỹ,nghĩa Mỹ) cười vỡ bụng\n*  danh từ\n- sự giết\n- thú giết được (trong cuộc đi săn)\n@Chuyên ngành kinh tế\n-làm chết\n-mổ thịt\n-sự giết\n@Chuyên ngành kỹ thuật\n-bỏ\n-dập tắt\n-khử\n-làm chết\n-làm hỏng\n-làm lặng\n-làm tắt\n-làm tiêu tan\n-loại trừ\n-ngừng bơm\n-tắt\n-tẩy\n-triệt tiêu\n-xóa\n@Lĩnh vực: cơ khí & công trình\n-dạng đục\n-rửa (axit)\n@Lĩnh vực: xây dựng\n-giết\n@Chuyên ngành kỹ thuật\n-bỏ\n-dập tắt\n-khử\n-làm chết\n-làm hỏng\n-làm lặng\n-làm tắt\n-làm tiêu tan\n-loại trừ\n-ngừng bơm\n-tắt\n-tẩy\n-triệt tiêu\n-xóa\n@Lĩnh vực: cơ khí & công trình\n-dạng đục\n-rửa (axit)\n@Lĩnh vực: xây dựng\n-giết
-
+kill	@kill /kil/
+*  ngoại động từ
+- giết, giết chết, làm chết, diệt ((nghĩa đen) & (nghĩa bóng))
+=to be killed on the spot+ bị giết ngay tại chỗ
+=to kill one's time+ giết thì giờ
+=to kill a colour+ làm chết màu
+- ngả, giết làm thịt (một con bò...)
+- tắt (máy...); làm át, làm lấp (tiếng...)
+=the drums kill the string+ tiếng trống làm át tiếng đàn dây
+- làm tiêu tan, làm hết (hy vọng...)
+- làm khỏi, trừ diệt (bệnh, đau...)
+- làm thất bại, làm hỏng; bác bỏ
+=to kill a bill+ bác bỏ một dự luật (ở quốc hội...)
+- làm phục lăn, làm choáng người, làm thích mê, làm cười vỡ bụng
+=got up (dolled up, dressed) to kill+ diện choáng người làm cho thiên hạ phục lăn
+=the story nearly killed me+ câu chuyện làm cho tôi cười gần chết
+- gây tai hại, làm chết dở
+=to kill somebody with kindness+ vì ân cần tử tế quá mà gây tai hại cho ai
+- (thể dục,thể thao) bạt một cú quyết định (quần vợt); chận đứng (bóng đá)
+- (kỹ thuật) ăn mòn
+*  nội động từ
+- giết, giết chết
+- giết thịt được
+=pigs do not kill well at that age+ lợn vào tuổi này giết thịt chưa được tốt
+!to kill off
+- giết sạch, tiêu diệt
+!to kill by inches
+- giết dần, giết mòn
+!to kill two birds with one stone
+- (xem) bird
+!to laugh fit to kill
+- (từ Mỹ,nghĩa Mỹ) cười vỡ bụng
+*  danh từ
+- sự giết
+- thú giết được (trong cuộc đi săn)
+@Chuyên ngành kinh tế
+-làm chết
+-mổ thịt
+-sự giết
+@Chuyên ngành kỹ thuật
+-bỏ
+-dập tắt
+-khử
+-làm chết
+-làm hỏng
+-làm lặng
+-làm tắt
+-làm tiêu tan
+-loại trừ
+-ngừng bơm
+-tắt
+-tẩy
+-triệt tiêu
+-xóa
+@Lĩnh vực: cơ khí & công trình
+-dạng đục
+-rửa (axit)
+@Lĩnh vực: xây dựng
+-giết
+@Chuyên ngành kỹ thuật
+-bỏ
+-dập tắt
+-khử
+-làm chết
+-làm hỏng
+-làm lặng
+-làm tắt
+-làm tiêu tan
+-loại trừ
+-ngừng bơm
+-tắt
+-tẩy
+-triệt tiêu
+-xóa
+@Lĩnh vực: cơ khí & công trình
+-dạng đục
+-rửa (axit)
+@Lĩnh vực: xây dựng
+-giết

@@ -1,3 +1,11 @@
-rollover
-	@Chuyên ngành kinh tế\n-chuyển hạn\n-chuyển khoản\n-chuyển tài khoản\n-gia hạn\n-gia hạn (thanh toán)\n-vốn luân hồi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cùng ấn\n-nhấn đồng thời (phím)
-
+rollover	@Chuyên ngành kinh tế
+-chuyển hạn
+-chuyển khoản
+-chuyển tài khoản
+-gia hạn
+-gia hạn (thanh toán)
+-vốn luân hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cùng ấn
+-nhấn đồng thời (phím)

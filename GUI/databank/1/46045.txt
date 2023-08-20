@@ -1,3 +1,83 @@
-record
-	@record /'rekɔ:d/\n*  danh từ\n- (pháp lý) hồ sơ\n=to be on record+ được ghi vào hồ sơ; có thực (vì đã được ghi vào hồ sơ)\n=it is on record that...+ trong sử có ghi chép rằng...\n- biên bản\n- sự ghi chép\n- (số nhiều) văn thư; (thương nghiệp) sổ sách\n- di tích, đài, bia, vật kỷ niệm\n- lý lịch\n=to have a clean record+ có lý lịch trong sạch\n- (thể dục,thể thao) kỷ lục\n=to break (beat) a record+ phá kỷ lục\n=to achieve a record+ lập (đạt) một kỷ lục mới\n=to hold a record+ giữ một kỷ lục\n=world record+ kỷ lục thế giới\n- đĩa hát, đĩa ghi âm\n- (định ngữ) cao nhất, kỷ lục\n=a record output+ sản lượng kỷ lục\n=at record speed+ với một tốc độ cao nhất\n!to bear record to something\n- chứng thực (xác nhận) việc gì\n!to keep to the record\n- đi đúng vào vấn đề gì\n!off the record\n- không chính thức\n!to travel out of the record\n- đi ra ngoài đề[ri'kɔ:d]\n*  ngoại động từ\n- ghi, ghi chép\n=to record the proceeding of an assembly+ ghi biên bản hội nghị\n- thu, ghi (vào đĩa hát, máy ghi âm)\n- chỉ\n=the thermometer records 32 o+ cái đo nhiệt chỉ 32o\n- (thơ ca) hót khẽ (chim)\n!to record one's vote\n- bầu, bỏ phiếu\n@Chuyên ngành kinh tế\n-bản tường trình\n-biên bản\n-công văn giấy tờ lưu trữ\n-ghi\n-ghi âm (vào đĩa hát, máy ghi âm)\n-ghi chép\n-ghi chú\n-hồ sơ\n-kí sự\n-kỷ lục\n-lí lịch\n-sổ sách ghi chép\n-sựghi chép\n-tài liệu\n-thành tích\n-thành tích cao nhất\n-thu âm\n-tường thuật\n@Chuyên ngành kỹ thuật\n-bản ghi\n-bản ghi âm\n-bản ghi dữ liệu\n-bản ghi hình\n-bản tin\n-ghi\n-ghi âm\n-ghi biên bản\n-ghi dữ liệu\n-ghi hình\n-ghi lại\n-ghi thông tin\n-hồ sơ\n-lược sử\n-nhật ký (công tác) số ghi\n-sự ghi\n-sự ghi âm\n-sự ghi chép\n-sự ghi hình\n-sự ghi tín hiệu\n-tài liệu\n-thu\n@Lĩnh vực: xây dựng\n-kỷ lục\n@Lĩnh vực: toán & tin\n-mẩu tin
-
+record	@record /'rekɔ:d/
+*  danh từ
+- (pháp lý) hồ sơ
+=to be on record+ được ghi vào hồ sơ; có thực (vì đã được ghi vào hồ sơ)
+=it is on record that...+ trong sử có ghi chép rằng...
+- biên bản
+- sự ghi chép
+- (số nhiều) văn thư; (thương nghiệp) sổ sách
+- di tích, đài, bia, vật kỷ niệm
+- lý lịch
+=to have a clean record+ có lý lịch trong sạch
+- (thể dục,thể thao) kỷ lục
+=to break (beat) a record+ phá kỷ lục
+=to achieve a record+ lập (đạt) một kỷ lục mới
+=to hold a record+ giữ một kỷ lục
+=world record+ kỷ lục thế giới
+- đĩa hát, đĩa ghi âm
+- (định ngữ) cao nhất, kỷ lục
+=a record output+ sản lượng kỷ lục
+=at record speed+ với một tốc độ cao nhất
+!to bear record to something
+- chứng thực (xác nhận) việc gì
+!to keep to the record
+- đi đúng vào vấn đề gì
+!off the record
+- không chính thức
+!to travel out of the record
+- đi ra ngoài đề[ri'kɔ:d]
+*  ngoại động từ
+- ghi, ghi chép
+=to record the proceeding of an assembly+ ghi biên bản hội nghị
+- thu, ghi (vào đĩa hát, máy ghi âm)
+- chỉ
+=the thermometer records 32 o+ cái đo nhiệt chỉ 32o
+- (thơ ca) hót khẽ (chim)
+!to record one's vote
+- bầu, bỏ phiếu
+@Chuyên ngành kinh tế
+-bản tường trình
+-biên bản
+-công văn giấy tờ lưu trữ
+-ghi
+-ghi âm (vào đĩa hát, máy ghi âm)
+-ghi chép
+-ghi chú
+-hồ sơ
+-kí sự
+-kỷ lục
+-lí lịch
+-sổ sách ghi chép
+-sựghi chép
+-tài liệu
+-thành tích
+-thành tích cao nhất
+-thu âm
+-tường thuật
+@Chuyên ngành kỹ thuật
+-bản ghi
+-bản ghi âm
+-bản ghi dữ liệu
+-bản ghi hình
+-bản tin
+-ghi
+-ghi âm
+-ghi biên bản
+-ghi dữ liệu
+-ghi hình
+-ghi lại
+-ghi thông tin
+-hồ sơ
+-lược sử
+-nhật ký (công tác) số ghi
+-sự ghi
+-sự ghi âm
+-sự ghi chép
+-sự ghi hình
+-sự ghi tín hiệu
+-tài liệu
+-thu
+@Lĩnh vực: xây dựng
+-kỷ lục
+@Lĩnh vực: toán & tin
+-mẩu tin

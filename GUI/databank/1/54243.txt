@@ -1,3 +1,22 @@
-substrate
-	@substrate /'sʌbstreit/\n*  danh từ\n- (như) substratum\n- (hoá học) chất nền\n@Chuyên ngành kinh tế\n-chất gốc\n-chất nền\n-môi trường dinh dưỡng\n@Chuyên ngành kỹ thuật\n-đế\n-giá\n-lớp nền\n-nền\n-móng\n-tầng dưới\n-vật nền\n@Lĩnh vực: điện tử & viễn thông\n-chất tác dụng (hóa học)\n@Lĩnh vực: y học\n-cơ chất\n@Lĩnh vực: toán & tin\n-đế, nền
-
+substrate	@substrate /'sʌbstreit/
+*  danh từ
+- (như) substratum
+- (hoá học) chất nền
+@Chuyên ngành kinh tế
+-chất gốc
+-chất nền
+-môi trường dinh dưỡng
+@Chuyên ngành kỹ thuật
+-đế
+-giá
+-lớp nền
+-nền
+-móng
+-tầng dưới
+-vật nền
+@Lĩnh vực: điện tử & viễn thông
+-chất tác dụng (hóa học)
+@Lĩnh vực: y học
+-cơ chất
+@Lĩnh vực: toán & tin
+-đế, nền

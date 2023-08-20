@@ -1,3 +1,4 @@
-headword
-	@headword\n* danh từ\n- từ đầu (đề mục); từ đầu mục từ (ở từ điển)
-
+headword	
+@headword
+* danh từ
+- từ đầu (đề mục); từ đầu mục từ (ở từ điển)

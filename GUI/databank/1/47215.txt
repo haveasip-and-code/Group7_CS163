@@ -1,3 +1,32 @@
-restoration
-	@restoration /,restə'reiʃn/\n*  danh từ\n- sự hoàn lại, sự trả lại (vật gì mất)\n- sự sửa chữa, sự tu bổ lại; sự xây dựng lại như cũ\n- sự phục hồi (chức vị...)\n- sự khôi phục, sự hồi phục; sự lập lại\n=the restoration of health+ sự hồi phục sức khoẻ\n=the restoration of peace+ sự lập lại hoà bình\n- (the restoration) thời kỳ khôi phục chế độ quân chủ (ở Anh, 1660)\n- hình tạo lại (của một con vật đã tuyệt giống, của một công trình xây dựng đã đổ nát)\n@Chuyên ngành kinh tế\n-bồi thường\n-hồi phục\n-sự hồi phục\n-sự khôi phục\n-sự khử\n-sự sửa sang\n-sự trùng tu\n-sửa chữa lại\n-trùng tu (một ngôi nhà...)\n@Chuyên ngành kỹ thuật\n-phục hồi\n-sự hồi phục\n-sự khôi phục\n-sự phục hồi\n-sự sửa chữa\n-sự tu sửa\n@Lĩnh vực: xây dựng\n-sự phục chế\n-sự trùng tu\n@Lĩnh vực: ô tô\n-sự tân trang xe
-
+restoration	@restoration /,restə'reiʃn/
+*  danh từ
+- sự hoàn lại, sự trả lại (vật gì mất)
+- sự sửa chữa, sự tu bổ lại; sự xây dựng lại như cũ
+- sự phục hồi (chức vị...)
+- sự khôi phục, sự hồi phục; sự lập lại
+=the restoration of health+ sự hồi phục sức khoẻ
+=the restoration of peace+ sự lập lại hoà bình
+- (the restoration) thời kỳ khôi phục chế độ quân chủ (ở Anh, 1660)
+- hình tạo lại (của một con vật đã tuyệt giống, của một công trình xây dựng đã đổ nát)
+@Chuyên ngành kinh tế
+-bồi thường
+-hồi phục
+-sự hồi phục
+-sự khôi phục
+-sự khử
+-sự sửa sang
+-sự trùng tu
+-sửa chữa lại
+-trùng tu (một ngôi nhà...)
+@Chuyên ngành kỹ thuật
+-phục hồi
+-sự hồi phục
+-sự khôi phục
+-sự phục hồi
+-sự sửa chữa
+-sự tu sửa
+@Lĩnh vực: xây dựng
+-sự phục chế
+-sự trùng tu
+@Lĩnh vực: ô tô
+-sự tân trang xe

@@ -1,3 +1,4 @@
-stressed
-	@Chuyên ngành kỹ thuật\n-căng\n-chịu ứng suất\n-dự ứng lực
-
+stressed	@Chuyên ngành kỹ thuật
+-căng
+-chịu ứng suất
+-dự ứng lực

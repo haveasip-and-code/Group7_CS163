@@ -1,3 +1,9 @@
-renumber
-	@renumber /'ri:'nʌmbə/\n*  ngoại động từ\n- đếm lại\n- đánh số lại, ghi số lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đánh số lại\n@Lĩnh vực: xây dựng\n-ghi số lại
-
+renumber	@renumber /'ri:'nʌmbə/
+*  ngoại động từ
+- đếm lại
+- đánh số lại, ghi số lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đánh số lại
+@Lĩnh vực: xây dựng
+-ghi số lại

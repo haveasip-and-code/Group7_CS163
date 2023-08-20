@@ -1,3 +1,37 @@
-invalid
-	@invalid /'invəli:d/\n*  danh từ\n- người bệnh tật, người tàn tật, người tàn phế\n*  tính từ\n- bệnh tật, tàn tật, tàn phế\n- cho người bệnh tật, cho người tàn tật, cho người tàn phế; (thuộc) người bệnh tật, (thuộc) người tàn tật, (thuộc) người tàn phế\n=an invalid home+ nơi an dưỡng cho những người tàn tật\n*  tính từ\n- không có hiệu lực\n- (từ Mỹ,nghĩa Mỹ) không có căn cứ\n=invalid arguments+ những lý lẽ không có căn cứ\n- (toán học) vô hiệu\n*  ngoại động từ,  (thường) động tính từ quá khứ\n- làm cho không đủ năng lực vì bệnh tật\n- đối đãi như một kẻ tàn phế\n- cho giải ngũ vì tàn phế\n*  nội động từ\n- trở thành tàn phế\n@Chuyên ngành kinh tế\n-không có giá trị\n-không có hiệu lực pháp lý\n@Chuyên ngành kỹ thuật\n-bất hợp lệ\n-không đúng\n-không hợp lệ\n-sai\n-vô hiệu\n@Lĩnh vực: điện lạnh\n-không có giá trị\n@Lĩnh vực: giao thông & vận tải\n-không có hiệu lực\n@Lĩnh vực: toán & tin\n-không hợp pháp\n@Lĩnh vực: y học\n-người ốm yếu, người tàn tật\n-ốm yếu, tàn tật
-
+invalid	
+@invalid /'invəli:d/
+*  danh từ
+- người bệnh tật, người tàn tật, người tàn phế
+*  tính từ
+- bệnh tật, tàn tật, tàn phế
+- cho người bệnh tật, cho người tàn tật, cho người tàn phế; (thuộc) người bệnh tật, (thuộc) người tàn tật, (thuộc) người tàn phế=an invalid home
++ nơi an dưỡng cho những người tàn tật
+*  tính từ
+- không có hiệu lực
+- (từ Mỹ,nghĩa Mỹ) không có căn cứ=invalid arguments
++ những lý lẽ không có căn cứ
+- (toán học) vô hiệu
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- làm cho không đủ năng lực vì bệnh tật
+- đối đãi như một kẻ tàn phế
+- cho giải ngũ vì tàn phế
+*  nội động từ
+- trở thành tàn phế
+@Chuyên ngành kinh tế
+-không có giá trị
+-không có hiệu lực pháp lý
+@Chuyên ngành kỹ thuật
+-bất hợp lệ
+-không đúng
+-không hợp lệ
+-sai
+-vô hiệu
+@Lĩnh vực: điện lạnh
+-không có giá trị
+@Lĩnh vực: giao thông & vận tải
+-không có hiệu lực
+@Lĩnh vực: toán & tin
+-không hợp pháp
+@Lĩnh vực: y học
+-người ốm yếu, người tàn tật
+-ốm yếu, tàn tật

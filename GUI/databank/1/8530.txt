@@ -1,3 +1,14 @@
-centralizer
-	@centralizer\n- xem centralize\n@Chuyên ngành kỹ thuật\n-dụng cụ định tâm\n@Lĩnh vực: hóa học & vật liệu\n-bộ định tâm\n@Lĩnh vực: toán & tin\n-nhóm con tập trung\n-nhóm con trung tâm\n@Lĩnh vực: xây dựng\n-tấm chỉnh tâm\n@Lĩnh vực: cơ khí & công trình\n-thiết bị định tâm
-
+centralizer	
+@centralizer
+- xem centralize
+@Chuyên ngành kỹ thuật
+-dụng cụ định tâm
+@Lĩnh vực: hóa học & vật liệu
+-bộ định tâm
+@Lĩnh vực: toán & tin
+-nhóm con tập trung
+-nhóm con trung tâm
+@Lĩnh vực: xây dựng
+-tấm chỉnh tâm
+@Lĩnh vực: cơ khí & công trình
+-thiết bị định tâm

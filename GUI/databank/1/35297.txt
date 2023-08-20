@@ -1,3 +1,11 @@
-modal
-	@modal /'moudl/\n*  tính từ\n- (thuộc) cách thức, (thuộc) phương thức\n- (ngôn ngữ học) (thuộc) lối\n- (âm nhạc) (thuộc) điệu\n@Chuyên ngành kỹ thuật\n-cách thức\n-mốt\n-phương thức\n@Lĩnh vực: toán & tin\n-mô thái
-
+modal	@modal /'moudl/
+*  tính từ
+- (thuộc) cách thức, (thuộc) phương thức
+- (ngôn ngữ học) (thuộc) lối
+- (âm nhạc) (thuộc) điệu
+@Chuyên ngành kỹ thuật
+-cách thức
+-mốt
+-phương thức
+@Lĩnh vực: toán & tin
+-mô thái

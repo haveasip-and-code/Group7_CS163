@@ -1,3 +1,9 @@
-bequest
-	@bequest /bi'kwest/\n*  danh từ\n- sự để lại (bằng chúc thư)\n- vật để lại (bằng chúc thư)\n@Chuyên ngành kinh tế\n-di sản\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-vật để lại
-
+bequest	@bequest /bi'kwest/
+*  danh từ
+- sự để lại (bằng chúc thư)
+- vật để lại (bằng chúc thư)
+@Chuyên ngành kinh tế
+-di sản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-vật để lại

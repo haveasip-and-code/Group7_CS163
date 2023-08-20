@@ -1,3 +1,5 @@
-diphasic
-	@Chuyên ngành kỹ thuật\n-hai pha\n@Lĩnh vực: hóa học & vật liệu\n-hai tướng
-
+diphasic	
+@Chuyên ngành kỹ thuật
+-hai pha
+@Lĩnh vực: hóa học & vật liệu
+-hai tướng

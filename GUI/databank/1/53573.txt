@@ -1,3 +1,56 @@
-straight
-	@straight /streit/\n*  tính từ\n- thẳng\n=straight line+ đường thẳng\n=straight hair+ tóc thẳng, tóc không quăn\n=straight as a post+ thẳng như cái cột\n- thẳng, thẳng thắn, chân thật\n=straight speaking+ nói thẳng\n=to be perfectly straight in one's dealings+ rất chân thật trong việc đối xử\n- ngay ngắn, đều\n=to put things straight+ sắp xếp mọi vật cho ngay ngắn\n=to put a room straight+ xếp một căn phòng cho ngăn nắp thứ tự\n!a straight race\n- cuộc đua hào hứng\n!a straight tip\n- lời mách nước từ nguồn tin đáng tin cậy (đua ngựa)\n!a whisky straight\n- (từ Mỹ,nghĩa Mỹ) rượu uytky không pha\n!to vote the straight ticket\n- bỏ phiếu cho danh sách ứng cử viên đảng mình\n*  phó từ\n- thẳng, suốt\n=to go straight+ đi thẳng\n=he came straight from home+ anh ấy đi thẳng từ nhà đến đây\n- thẳng, thẳng thừng\n=I told it him straight out+ tôi nói thẳng với anh ta về vấn đề đó\n- đúng, đúng đắn, chính xác\n=to see straight+ nhìn đúng\n=to shoot straight+ bắn trúng\n- (từ cổ,nghĩa cổ) ngay lập tức\n!straight away\n- ngay lập tức, không chậm trễ\n!straight off\n- không do dự\n- (từ Mỹ,nghĩa Mỹ) (như) straight away\n*  danh từ\n- sự thẳng\n=to be out of the straight+ không thẳng, cong\n- chỗ thẳng, đoạn thẳng\n- (đánh bài) suốt (một bộ năm con liên tiếp, trong bài xì)\n@Chuyên ngành kỹ thuật\n-bằng phẳng\n-đặc\n-đường thẳng\n-hình trụ\n-ngang bằng\n-ngay\n-nhãn\n-nhẵn\n@Lĩnh vực: cơ khí & công trình\n-không cắt ren\n-không cắt ren (lỗ)\n-không loãng\n-xếp thành một hàng (động cơ)\n@Lĩnh vực: toán & tin\n-thẳng trực tiếp
-
+straight	@straight /streit/
+*  tính từ
+- thẳng
+=straight line+ đường thẳng
+=straight hair+ tóc thẳng, tóc không quăn
+=straight as a post+ thẳng như cái cột
+- thẳng, thẳng thắn, chân thật
+=straight speaking+ nói thẳng
+=to be perfectly straight in one's dealings+ rất chân thật trong việc đối xử
+- ngay ngắn, đều
+=to put things straight+ sắp xếp mọi vật cho ngay ngắn
+=to put a room straight+ xếp một căn phòng cho ngăn nắp thứ tự
+!a straight race
+- cuộc đua hào hứng
+!a straight tip
+- lời mách nước từ nguồn tin đáng tin cậy (đua ngựa)
+!a whisky straight
+- (từ Mỹ,nghĩa Mỹ) rượu uytky không pha
+!to vote the straight ticket
+- bỏ phiếu cho danh sách ứng cử viên đảng mình
+*  phó từ
+- thẳng, suốt
+=to go straight+ đi thẳng
+=he came straight from home+ anh ấy đi thẳng từ nhà đến đây
+- thẳng, thẳng thừng
+=I told it him straight out+ tôi nói thẳng với anh ta về vấn đề đó
+- đúng, đúng đắn, chính xác
+=to see straight+ nhìn đúng
+=to shoot straight+ bắn trúng
+- (từ cổ,nghĩa cổ) ngay lập tức
+!straight away
+- ngay lập tức, không chậm trễ
+!straight off
+- không do dự
+- (từ Mỹ,nghĩa Mỹ) (như) straight away
+*  danh từ
+- sự thẳng
+=to be out of the straight+ không thẳng, cong
+- chỗ thẳng, đoạn thẳng
+- (đánh bài) suốt (một bộ năm con liên tiếp, trong bài xì)
+@Chuyên ngành kỹ thuật
+-bằng phẳng
+-đặc
+-đường thẳng
+-hình trụ
+-ngang bằng
+-ngay
+-nhãn
+-nhẵn
+@Lĩnh vực: cơ khí & công trình
+-không cắt ren
+-không cắt ren (lỗ)
+-không loãng
+-xếp thành một hàng (động cơ)
+@Lĩnh vực: toán & tin
+-thẳng trực tiếp

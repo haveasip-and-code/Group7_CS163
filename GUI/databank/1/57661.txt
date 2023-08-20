@@ -1,3 +1,8 @@
-triage
-	@triage\n* danh từ\n- việc chọn để chữa theo thứ tự nguy cấp (các binh sĩ bị thương trong chiến tranh)\n- cà phê loại tồi\n@Chuyên ngành kinh tế\n-mảnh cà phê vụn\n-sản phẩm không lọt sàng\n-sự phân loại sản phẩm theo lỗ
-
+triage	@triage
+* danh từ
+- việc chọn để chữa theo thứ tự nguy cấp (các binh sĩ bị thương trong chiến tranh)
+- cà phê loại tồi
+@Chuyên ngành kinh tế
+-mảnh cà phê vụn
+-sản phẩm không lọt sàng
+-sự phân loại sản phẩm theo lỗ

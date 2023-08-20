@@ -1,3 +1,4 @@
-fluidics
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lưu thể học
-
+fluidics	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-lưu thể học

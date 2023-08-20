@@ -1,3 +1,47 @@
-raw
-	@raw /rɔ:/\n*  tính từ\n- sống (chưa nấu chín)\n=raw meat+ thịt sống\n- thô, chưa tinh chế, còn nguyên chất, sống\n=raw sugar+ đường thô\n=raw silk+ tơ sống\n=raw marterial+ nguyên liệu\n- non nớt, chưa có kinh nghiệm, mới vào nghề\n=a raw workman+ một người thợ mới vào nghề\n=raw recruits+ tân binh\n=a raw hand+ người non nớt chưa có kinh nghiệm\n- trầy da chảy máu, đau buốt (vết thương)\n- không viền\n=a raw edge of cloth+ mép vải không viền\n- ấm và lạnh; rét căm căm\n=raw weather+ thời tiết ấm và lạnh\n=raw wind+ gió rét căm căm\n- không gọt giũa, sống sượng\n=raw colours+ màu sống sượng\n- không công bằng; (từ Mỹ,nghĩa Mỹ),  (từ lóng) bất lương, bất chính\n=a raw deal+ cách đối xử không công bằng; ((từ Mỹ,nghĩa Mỹ),  (từ lóng)) việc làm bất chính, sự thông đồng bất chính\n!to pull a raw one\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nói chuyện tục tĩu, nói chuyện nhảm\n!raw head and bloody bone\n- ông ba bị, ông ngáo ộp\n*  danh từ\n- cái chưa được gọt giũa, cái còn để nguyên chất\n- chỗ trầy da chảy máu, vết thương đau buốt\n=to touch somebody on the raw+ (nghĩa bóng) chạm nọc ai, chạm tự ái của ai, làm động lòng ai\n*  ngoại động từ\n- làm trầy da, làm trầy da chảy máu\n@Chuyên ngành kinh tế\n-đường thô\n-nguyên liệu\n-thô\n@Chuyên ngành kỹ thuật\n-chưa nung\n-chưa trộn\n-chưa xử lý\n-nguyên\n-nguyên chất\n-nhám\n-sống\n@Lĩnh vực: hóa học & vật liệu\n-chưa chế biến\n-thô (nguyên liệu)
-
+raw	@raw /rɔ:/
+*  tính từ
+- sống (chưa nấu chín)
+=raw meat+ thịt sống
+- thô, chưa tinh chế, còn nguyên chất, sống
+=raw sugar+ đường thô
+=raw silk+ tơ sống
+=raw marterial+ nguyên liệu
+- non nớt, chưa có kinh nghiệm, mới vào nghề
+=a raw workman+ một người thợ mới vào nghề
+=raw recruits+ tân binh
+=a raw hand+ người non nớt chưa có kinh nghiệm
+- trầy da chảy máu, đau buốt (vết thương)
+- không viền
+=a raw edge of cloth+ mép vải không viền
+- ấm và lạnh; rét căm căm
+=raw weather+ thời tiết ấm và lạnh
+=raw wind+ gió rét căm căm
+- không gọt giũa, sống sượng
+=raw colours+ màu sống sượng
+- không công bằng; (từ Mỹ,nghĩa Mỹ),  (từ lóng) bất lương, bất chính
+=a raw deal+ cách đối xử không công bằng; ((từ Mỹ,nghĩa Mỹ),  (từ lóng)) việc làm bất chính, sự thông đồng bất chính
+!to pull a raw one
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nói chuyện tục tĩu, nói chuyện nhảm
+!raw head and bloody bone
+- ông ba bị, ông ngáo ộp
+*  danh từ
+- cái chưa được gọt giũa, cái còn để nguyên chất
+- chỗ trầy da chảy máu, vết thương đau buốt
+=to touch somebody on the raw+ (nghĩa bóng) chạm nọc ai, chạm tự ái của ai, làm động lòng ai
+*  ngoại động từ
+- làm trầy da, làm trầy da chảy máu
+@Chuyên ngành kinh tế
+-đường thô
+-nguyên liệu
+-thô
+@Chuyên ngành kỹ thuật
+-chưa nung
+-chưa trộn
+-chưa xử lý
+-nguyên
+-nguyên chất
+-nhám
+-sống
+@Lĩnh vực: hóa học & vật liệu
+-chưa chế biến
+-thô (nguyên liệu)

@@ -1,3 +1,18 @@
-dehumidification
-	@dehumidification\n* danh từ\n- việc làm mất sự ẩm ướt trong không khí; việc hong khô\n@Chuyên ngành kinh tế\n-sự làm khô\n-sự sấy\n-sự tách ẩm\n@Chuyên ngành kỹ thuật\n-hút ẩm\n-loại ẩm\n-sự hút ẩm\n-sự khử ẩm\n-sự khử nước\n-sự làm khô\n-sự sấy khô\n@Lĩnh vực: cơ khí & công trình\n-giảm độ ẩm
-
+dehumidification	
+@dehumidification
+* danh từ
+- việc làm mất sự ẩm ướt trong không khí; việc hong khô
+@Chuyên ngành kinh tế
+-sự làm khô
+-sự sấy
+-sự tách ẩm
+@Chuyên ngành kỹ thuật
+-hút ẩm
+-loại ẩm
+-sự hút ẩm
+-sự khử ẩm
+-sự khử nước
+-sự làm khô
+-sự sấy khô
+@Lĩnh vực: cơ khí & công trình
+-giảm độ ẩm

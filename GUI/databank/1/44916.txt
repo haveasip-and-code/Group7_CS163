@@ -1,3 +1,16 @@
-pylon
-	@pylon /'pailən/\n*  danh từ\n- cửa tháp, tháp môn (cung điện Ai-cập)\n- cột tháp (để mắc dây tải điện cao thế)\n@Chuyên ngành kinh tế\n-cột tháp quảng cáo ngoài trời\n@Chuyên ngành kỹ thuật\n-cột cầu treo\n-cột tháp\n-trụ\n-trụ cầu\n@Lĩnh vực: điện\n-cột khung thép\n-cột sắt\n@Lĩnh vực: xây dựng\n-cột tháp (của hệ treo)
-
+pylon	@pylon /'pailən/
+*  danh từ
+- cửa tháp, tháp môn (cung điện Ai-cập)
+- cột tháp (để mắc dây tải điện cao thế)
+@Chuyên ngành kinh tế
+-cột tháp quảng cáo ngoài trời
+@Chuyên ngành kỹ thuật
+-cột cầu treo
+-cột tháp
+-trụ
+-trụ cầu
+@Lĩnh vực: điện
+-cột khung thép
+-cột sắt
+@Lĩnh vực: xây dựng
+-cột tháp (của hệ treo)

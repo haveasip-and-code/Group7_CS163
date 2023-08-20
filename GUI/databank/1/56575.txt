@@ -1,3 +1,9 @@
-thruster
-	@thruster\n* danh từ\n- người tự đề cao (để giành một lợi thế )\n@Chuyên ngành kinh tế\n-kẻ vô sở bất vi\n-kẻ vô sử bất vi\n-người hãnh tiến\n@Chuyên ngành kỹ thuật\n-động cơ đẩy
-
+thruster	@thruster
+* danh từ
+- người tự đề cao (để giành một lợi thế )
+@Chuyên ngành kinh tế
+-kẻ vô sở bất vi
+-kẻ vô sử bất vi
+-người hãnh tiến
+@Chuyên ngành kỹ thuật
+-động cơ đẩy

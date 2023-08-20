@@ -1,3 +1,4 @@
-prosthetic
-	@prosthetic /prosthetic/\n*  tính từ\n- (y học) (thuộc) sự lắp bộ phận giả\n=prosthetic appliance+ bộ phận giả (răng, chân...)
-
+prosthetic	@prosthetic /prosthetic/
+*  tính từ
+- (y học) (thuộc) sự lắp bộ phận giả
+=prosthetic appliance+ bộ phận giả (răng, chân...)

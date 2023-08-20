@@ -1,3 +1,2 @@
-performable
-	@performable\n- xem perform
-
+performable	@performable
+- xem perform

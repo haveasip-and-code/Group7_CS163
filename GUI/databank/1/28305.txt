@@ -1,3 +1,16 @@
-inefficiency
-	@inefficiency /,ini'fiʃənsi/\n*  danh từ\n- sự thiếu khả năng, sự không có khả năng, sự bất tài (người); điều chứng tỏ thiếu khả năng; điều chứng tỏ không có khả năng\n- sự không có hiệu quả\n@Chuyên ngành kinh tế\n-hiệu suất thấp\n-không có hiệu suất\n-sự vô năng lực\n-thiếu hiệu quả\n-vô công hiệu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tính không hiệu quả\n@Lĩnh vực: xây dựng\n-vô hiệu suất
-
+inefficiency	
+@inefficiency /,ini'fiʃənsi/
+*  danh từ
+- sự thiếu khả năng, sự không có khả năng, sự bất tài (người); điều chứng tỏ thiếu khả năng; điều chứng tỏ không có khả năng
+- sự không có hiệu quả
+@Chuyên ngành kinh tế
+-hiệu suất thấp
+-không có hiệu suất
+-sự vô năng lực
+-thiếu hiệu quả
+-vô công hiệu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính không hiệu quả
+@Lĩnh vực: xây dựng
+-vô hiệu suất

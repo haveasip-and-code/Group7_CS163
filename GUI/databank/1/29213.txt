@@ -1,3 +1,4 @@
-intercepting
-	@Chuyên ngành kỹ thuật\n-sự chắn\n-sự chặn
-
+intercepting	
+@Chuyên ngành kỹ thuật
+-sự chắn
+-sự chặn

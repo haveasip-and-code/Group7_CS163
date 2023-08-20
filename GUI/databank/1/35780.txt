@@ -1,3 +1,5 @@
-motorist
-	@motorist /'moutəraiz/\n*  danh từ\n- người lái xe ô tô; người chơi xe ô tô\n@Chuyên ngành kỹ thuật\n-người lái xe
-
+motorist	@motorist /'moutəraiz/
+*  danh từ
+- người lái xe ô tô; người chơi xe ô tô
+@Chuyên ngành kỹ thuật
+-người lái xe

@@ -1,3 +1,40 @@
-weigh
-	@weigh /wei/\n*  danh từ\n- (hàng hi) under weigh đang đi, dọc đường\n*  ngoại động từ\n- cân\n=to weigh a parcel+ cân một cái gói\n- cầm, nhấc xem nặng nhẹ\n=to weigh a stone in the hand+ cầm hòn đá trong tay xem nặng nhẹ\n- cân nhấc, đắn đo\n=to weigh one's words+ đắn đo lời nói\n=to weigh the pros and cons+ cân nhắc lợi hại\n=to weigh anchor+ nhổ neo\n*  nội động từ\n- cân nặng, nặng\n=to weigh light+ cân nhẹ\n=to weigh five tons+ nặng năm tấn\n- cân, được cân\n=many chemicals weigh on precision scales+ nhiều chất hoá học được cân trên cân tiểu ly\n- có trọng lượng, có tác dụng, có nh hưởng; có tầm quan trọng lớn\n=an accusation without evidence does not weigh much+ lời buộc tội không có chứng cớ thì không có tác dụng\n- đè nặng, ám nh, day dứt\n=these worries weighed upon his mind+ những nỗi lo nghĩ này đè nặng lên tâm trí hắn\n!to weigh down\n- đè nặng lên (qu..., lên cành cây); làm nghiêng, làm lệch (cán cân); nặng hn (một vật khác)\n- đập tan (lập luận); đè bẹp, áp đo (kẻ thù)\n- làm cho mệt nhọc; làm cho bối rối, làm cho lo âu\n=weighed down with sorrow+ lòng đầy phiền muộn\n!to weigh in\n- (thể dục,thể thao) được cân trước khi đua (dô kề)\n!to weigh in with\n- viện ra một cách đắc thắng (lý lẽ, sự kiện...)\n!to weigh out\n- cân (từng tí một)\n=to weigh out butter, sugar for a cake+ cân b, đường để làm bánh\n- (thể dục,thể thao) được cân sau khi đua (dô kề)\n@Chuyên ngành kinh tế\n-sự cân\n@Chuyên ngành kỹ thuật\n-cái cân\n-nặng
-
+weigh	@weigh /wei/
+*  danh từ
+- (hàng hi) under weigh đang đi, dọc đường
+*  ngoại động từ
+- cân
+=to weigh a parcel+ cân một cái gói
+- cầm, nhấc xem nặng nhẹ
+=to weigh a stone in the hand+ cầm hòn đá trong tay xem nặng nhẹ
+- cân nhấc, đắn đo
+=to weigh one's words+ đắn đo lời nói
+=to weigh the pros and cons+ cân nhắc lợi hại
+=to weigh anchor+ nhổ neo
+*  nội động từ
+- cân nặng, nặng
+=to weigh light+ cân nhẹ
+=to weigh five tons+ nặng năm tấn
+- cân, được cân
+=many chemicals weigh on precision scales+ nhiều chất hoá học được cân trên cân tiểu ly
+- có trọng lượng, có tác dụng, có nh hưởng; có tầm quan trọng lớn
+=an accusation without evidence does not weigh much+ lời buộc tội không có chứng cớ thì không có tác dụng
+- đè nặng, ám nh, day dứt
+=these worries weighed upon his mind+ những nỗi lo nghĩ này đè nặng lên tâm trí hắn
+!to weigh down
+- đè nặng lên (qu..., lên cành cây); làm nghiêng, làm lệch (cán cân); nặng hn (một vật khác)
+- đập tan (lập luận); đè bẹp, áp đo (kẻ thù)
+- làm cho mệt nhọc; làm cho bối rối, làm cho lo âu
+=weighed down with sorrow+ lòng đầy phiền muộn
+!to weigh in
+- (thể dục,thể thao) được cân trước khi đua (dô kề)
+!to weigh in with
+- viện ra một cách đắc thắng (lý lẽ, sự kiện...)
+!to weigh out
+- cân (từng tí một)
+=to weigh out butter, sugar for a cake+ cân b, đường để làm bánh
+- (thể dục,thể thao) được cân sau khi đua (dô kề)
+@Chuyên ngành kinh tế
+-sự cân
+@Chuyên ngành kỹ thuật
+-cái cân
+-nặng

@@ -1,3 +1,2 @@
-neutrals
-	@Chuyên ngành kỹ thuật\n-dầu trung tính
-
+neutrals	@Chuyên ngành kỹ thuật
+-dầu trung tính

@@ -1,3 +1,6 @@
-osteocyte
-	@osteocyte\n* danh từ\n- tế bào xương\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cốt bào, tế bào xương
-
+osteocyte	@osteocyte
+* danh từ
+- tế bào xương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cốt bào, tế bào xương

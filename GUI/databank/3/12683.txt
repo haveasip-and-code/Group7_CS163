@@ -1,3 +1,2 @@
-crippler
-	@crippler\n- xem cripple
-
+crippler	@crippler
+- xem cripple

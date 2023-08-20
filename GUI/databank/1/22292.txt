@@ -1,3 +1,21 @@
-freighter
-	@freighter /'freitə/\n*  danh từ\n- người chất hàng (lên tàu)\n- người gửi hàng chở bằng đường bộ\n- người thuê tàu chuyên chở\n- người nhận chuyên chở hàng\n- tàu chuyên chở; máy bay chuyên chở\n@Chuyên ngành kinh tế\n-chủ hàng\n-máy bay chở hàng\n-máy bay vận tải\n-người chở hàng\n-người chuyển chở\n-người thuê tàu\n-phi cơ vận tải\n-tàu chở hàng\n-tàu hàng\n@Chuyên ngành kỹ thuật\n-tàu chở hàng\n-tàu vận tải
-
+freighter	
+@freighter /'freitə/
+*  danh từ
+- người chất hàng (lên tàu)
+- người gửi hàng chở bằng đường bộ
+- người thuê tàu chuyên chở
+- người nhận chuyên chở hàng
+- tàu chuyên chở; máy bay chuyên chở
+@Chuyên ngành kinh tế
+-chủ hàng
+-máy bay chở hàng
+-máy bay vận tải
+-người chở hàng
+-người chuyển chở
+-người thuê tàu
+-phi cơ vận tải
+-tàu chở hàng
+-tàu hàng
+@Chuyên ngành kỹ thuật
+-tàu chở hàng
+-tàu vận tải

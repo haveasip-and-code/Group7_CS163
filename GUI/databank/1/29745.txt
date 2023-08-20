@@ -1,3 +1,9 @@
-invariant
-	@invariant /in'veəriənt/\n*  tính từ\n- không thay đổi, bất biến\n*  danh từ\n- (toán học) lượng không đổi, lượng bất biến\n@Chuyên ngành kỹ thuật\n-bất biến\n-lượng bất biến
-
+invariant	
+@invariant /in'veəriənt/
+*  tính từ
+- không thay đổi, bất biến
+*  danh từ
+- (toán học) lượng không đổi, lượng bất biến
+@Chuyên ngành kỹ thuật
+-bất biến
+-lượng bất biến

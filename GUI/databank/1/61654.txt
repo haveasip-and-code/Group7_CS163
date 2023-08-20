@@ -1,3 +1,10 @@
-vestry
-	@vestry /'vestri/\n*  danh từ\n- phòng thay quần áo (ở nhà thờ)\n- nhà họp (ở nhà thờ)\n- tập thể những người đóng góp cho nhà xứ; đại diện của những người đóng góp cho nhà xứ\n- phòng họp của những người đóng góp cho nhà xứ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà họp (ở nhà thờ)\n-phòng áo lễ (trong nhà thờ)
-
+vestry	@vestry /'vestri/
+*  danh từ
+- phòng thay quần áo (ở nhà thờ)
+- nhà họp (ở nhà thờ)
+- tập thể những người đóng góp cho nhà xứ; đại diện của những người đóng góp cho nhà xứ
+- phòng họp của những người đóng góp cho nhà xứ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà họp (ở nhà thờ)
+-phòng áo lễ (trong nhà thờ)

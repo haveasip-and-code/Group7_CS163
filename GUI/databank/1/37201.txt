@@ -1,3 +1,65 @@
-number
-	@number /'nʌmbə/\n*  danh từ\n- số\n=even number+ số chãn\n=old number+ số lẻ\n=broken number+ phân số\n=a great number of+ nhiều\n=issued in numbers+ xuất bản từng đoạn, làm nhiều số\n=singular number+ (ngôn ngữ học) số ít\n=plural number+ (ngôn ngữ học) số nhiều\n- đám, bọn, nhóm, toán\n=he is not of our number+ nó không ở trong bọn chúng tôi\n- sự đếm số lượng\n=without number+ không thể đếm được, hằng hà sa số\n- (số nhiều) sự hơn về số lượng, số nhiều, đa số\n=to win by numbers+ thắng vì hơn về số lượng\n=he was by numbers+ thắng vì hơn về số lượng\n=he was compelled to yield to numbers+ nó bắt buộc phải chịu thua trước số đông\n- (thơ ca) nhịp điệu\n- (số nhiều) câu thơ\n- (số nhiều) số học\n=to be good at numbers+ giỏi về số học\n!to lose the number of one's mess\n- (quân sự),  (từ lóng) chết\n!number one\n- (thông tục) cá nhân, bản thân\n=to look only after number one+ chỉ chăm chăm chút chút bản thân\n- (quân sự),  (từ lóng) đại uý (hải quân)\n!his number goes up\n- (từ lóng) nó đã chầu trời rồi\n*  ngoại động từ\n- đếm\n=to number the stars+ đếm sao\n- (number among,  in,  with) kể vào, liệt vào, tính vào\n=I number him among my friends+ tôi kể anh ta vào số bạn tôi\n- đánh số, ghi số\n=these books are numbered from one to twenty+ những quyển sách này được đánh số từ một đến hai mươi\n- lên tới, gồm có, có số dân là (tổng số)\n=we numbered twenty in all+ chúng tôi tất cả gồm có hai mươi người\n=an army numbering eighty thousand+ một đạo quân lên tới 80 000 người\n=this village numbers 5,000+ làng này có đủ số dân là 5 000\n- thọ (bao nhiêu tuổi)\n=he numbers four score years+ cụ ấy thọ tám mươi\n!his years are numberef\n- anh ta cũng chẳng còn sống được bao lâu nữa\n@Chuyên ngành kinh tế\n-con số\n-đánh số\n-đánh số l ghi số\n-ghi số\n-số\n-số hiệu\n@Chuyên ngành kỹ thuật\n-đánh số\n-đếm\n-điểm\n-hệ số\n-số\n-số hiệu\n-số luợng\n-số lượng\n@Lĩnh vực: điện\n-số lần\n@Lĩnh vực: xây dựng\n-trị số
-
+number	@number /'nʌmbə/
+*  danh từ
+- số
+=even number+ số chãn
+=old number+ số lẻ
+=broken number+ phân số
+=a great number of+ nhiều
+=issued in numbers+ xuất bản từng đoạn, làm nhiều số
+=singular number+ (ngôn ngữ học) số ít
+=plural number+ (ngôn ngữ học) số nhiều
+- đám, bọn, nhóm, toán
+=he is not of our number+ nó không ở trong bọn chúng tôi
+- sự đếm số lượng
+=without number+ không thể đếm được, hằng hà sa số
+- (số nhiều) sự hơn về số lượng, số nhiều, đa số
+=to win by numbers+ thắng vì hơn về số lượng
+=he was by numbers+ thắng vì hơn về số lượng
+=he was compelled to yield to numbers+ nó bắt buộc phải chịu thua trước số đông
+- (thơ ca) nhịp điệu
+- (số nhiều) câu thơ
+- (số nhiều) số học
+=to be good at numbers+ giỏi về số học
+!to lose the number of one's mess
+- (quân sự),  (từ lóng) chết
+!number one
+- (thông tục) cá nhân, bản thân
+=to look only after number one+ chỉ chăm chăm chút chút bản thân
+- (quân sự),  (từ lóng) đại uý (hải quân)
+!his number goes up
+- (từ lóng) nó đã chầu trời rồi
+*  ngoại động từ
+- đếm
+=to number the stars+ đếm sao
+- (number among,  in,  with) kể vào, liệt vào, tính vào
+=I number him among my friends+ tôi kể anh ta vào số bạn tôi
+- đánh số, ghi số
+=these books are numbered from one to twenty+ những quyển sách này được đánh số từ một đến hai mươi
+- lên tới, gồm có, có số dân là (tổng số)
+=we numbered twenty in all+ chúng tôi tất cả gồm có hai mươi người
+=an army numbering eighty thousand+ một đạo quân lên tới 80 000 người
+=this village numbers 5,000+ làng này có đủ số dân là 5 000
+- thọ (bao nhiêu tuổi)
+=he numbers four score years+ cụ ấy thọ tám mươi
+!his years are numberef
+- anh ta cũng chẳng còn sống được bao lâu nữa
+@Chuyên ngành kinh tế
+-con số
+-đánh số
+-đánh số l ghi số
+-ghi số
+-số
+-số hiệu
+@Chuyên ngành kỹ thuật
+-đánh số
+-đếm
+-điểm
+-hệ số
+-số
+-số hiệu
+-số luợng
+-số lượng
+@Lĩnh vực: điện
+-số lần
+@Lĩnh vực: xây dựng
+-trị số

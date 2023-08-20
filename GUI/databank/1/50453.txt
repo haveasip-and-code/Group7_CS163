@@ -1,3 +1,40 @@
-shore
-	@shore /ʃɔ:/\n*  danh từ\n- bờ (biển, hồ lớn), bờ biển\n- (pháp lý) phần đất giữa hai nước triều\n*  danh từ\n- cột (chống tường, cây...) trụ\n*  ngoại động từ\n- chống, đỡ\n*  (từ cổ,nghĩa cổ),  thời quá khứ của shear\n@Chuyên ngành kinh tế\n-bờ (biển, hồ ....)\n-bờ (biển, hồ...)\n@Chuyên ngành kỹ thuật\n-bệ đỡ\n-bờ\n-bờ (biển, sông)\n-bờ biển\n-chằng\n-chống\n-chống đỡ (bằng cột chống)\n-chống tựa\n-cột\n-cột chống\n-cột móng\n-cột tháp\n-đỡ\n-đường bờ\n-néo gia cố\n-mang\n-sự chống\n-sự chống đỡ\n-sự tựa\n-tải\n-thanh chống\n-trụ\n-trụ chống\n-tựa\n@Lĩnh vực: xây dựng\n-cột chống thanh giằng\n-hệ thống đỡ
-
+shore	@shore /ʃɔ:/
+*  danh từ
+- bờ (biển, hồ lớn), bờ biển
+- (pháp lý) phần đất giữa hai nước triều
+*  danh từ
+- cột (chống tường, cây...) trụ
+*  ngoại động từ
+- chống, đỡ
+*  (từ cổ,nghĩa cổ),  thời quá khứ của shear
+@Chuyên ngành kinh tế
+-bờ (biển, hồ ....)
+-bờ (biển, hồ...)
+@Chuyên ngành kỹ thuật
+-bệ đỡ
+-bờ
+-bờ (biển, sông)
+-bờ biển
+-chằng
+-chống
+-chống đỡ (bằng cột chống)
+-chống tựa
+-cột
+-cột chống
+-cột móng
+-cột tháp
+-đỡ
+-đường bờ
+-néo gia cố
+-mang
+-sự chống
+-sự chống đỡ
+-sự tựa
+-tải
+-thanh chống
+-trụ
+-trụ chống
+-tựa
+@Lĩnh vực: xây dựng
+-cột chống thanh giằng
+-hệ thống đỡ

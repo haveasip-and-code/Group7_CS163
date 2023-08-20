@@ -1,3 +1,12 @@
-trendy
-	@trendy\n* tính từ\n- <thgt> hợp thời trang, rất mốt, chạy theo mốt\n- <thgt> thức thời\n* danh từ\n- người chạy theo mốt\n- <thgt> người rởm đời\n@Chuyên ngành kinh tế\n-đúng mốt\n-kiểu mới nhất\n-thời thượng\n-thời thượng, đúng mốt, kiểu mới nhất
-
+trendy	@trendy
+* tính từ
+- <thgt> hợp thời trang, rất mốt, chạy theo mốt
+- <thgt> thức thời
+* danh từ
+- người chạy theo mốt
+- <thgt> người rởm đời
+@Chuyên ngành kinh tế
+-đúng mốt
+-kiểu mới nhất
+-thời thượng
+-thời thượng, đúng mốt, kiểu mới nhất

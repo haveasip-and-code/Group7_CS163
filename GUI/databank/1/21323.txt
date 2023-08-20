@@ -1,3 +1,4 @@
-flatland
-	@flatland\n* danh từ\n- bình nguyên bằng phẳng
-
+flatland	
+@flatland
+* danh từ
+- bình nguyên bằng phẳng

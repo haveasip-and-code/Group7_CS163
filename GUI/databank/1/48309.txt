@@ -1,3 +1,8 @@
-sabin
-	@sabin\n* danh từ\n- xabin (đơn vị hấp thu âm)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sagin (đơn vị hấp thụ âm thanh)\n@Lĩnh vực: xây dựng\n-xabin (đơn vị hút âm)
-
+sabin	@sabin
+* danh từ
+- xabin (đơn vị hấp thu âm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sagin (đơn vị hấp thụ âm thanh)
+@Lĩnh vực: xây dựng
+-xabin (đơn vị hút âm)

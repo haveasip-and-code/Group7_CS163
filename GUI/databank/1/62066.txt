@@ -1,3 +1,8 @@
-vocabulary
-	@vocabulary /və'kæbjuləri/\n*  danh từ\n- (ngôn ngữ học) từ vựng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bảng từ vựng\n@Lĩnh vực: xây dựng\n-vốn từ
-
+vocabulary	@vocabulary /və'kæbjuləri/
+*  danh từ
+- (ngôn ngữ học) từ vựng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bảng từ vựng
+@Lĩnh vực: xây dựng
+-vốn từ

@@ -1,3 +1,6 @@
-lectotype
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lectolip\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lectolip
-
+lectotype	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-lectolip
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-lectolip

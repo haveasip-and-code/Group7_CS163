@@ -1,3 +1,9 @@
-edible
-	@edible /'edibl/\n*  tính từ\n- có thể ăn được (không độc)\n*  danh từ\n- vật ăn được\n- (số nhiều) thức ăn\n@Chuyên ngành kinh tế\n-thức ăn có thể ăn được
-
+edible	
+@edible /'edibl/
+*  tính từ
+- có thể ăn được (không độc)
+*  danh từ
+- vật ăn được
+- (số nhiều) thức ăn
+@Chuyên ngành kinh tế
+-thức ăn có thể ăn được

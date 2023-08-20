@@ -1,3 +1,5 @@
-thrustor
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bộ đẩy\n@Lĩnh vực: điện lạnh\n-kích điện thủy lực
-
+thrustor	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-bộ đẩy
+@Lĩnh vực: điện lạnh
+-kích điện thủy lực

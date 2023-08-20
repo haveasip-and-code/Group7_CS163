@@ -1,3 +1,51 @@
-entrance
-	@entrance /'entrəns/\n*  danh từ\n- sự đi vào\n- (sân khấu) sự ra (của diễn viên)\n- sự nhậm (chức...)\n- quyền vào, quyền gia nhập\n- tiền vào, tiền gia nhập ((cũng) entrance_fee)\n- cổng vào, lối vào\n*  ngoại động từ\n- làm xuất thần\n- làm mê li\n- mê hoặc (ai đén chỗ...)\n=to entrance someone to his destruction+ mê hoặc ai đến chỗ làm cho người ta bị thất cơ lỡ vận\n@Chuyên ngành kinh tế\n-cho gia nhập\n-cho vào\n-sự nhận vào\n-sự vào cảng\n@Chuyên ngành kỹ thuật\n-cửa vào\n-đi vào\n-điểm vào\n-đường vào\n-gia nhập\n-lối vào\n-ngõ vào\n-tiền sảnh\n@Lĩnh vực: xây dựng\n-cửa vào hầm\n-đầu âu tàu\n-đầu âu thuyền\n-lối vào, cổng vào\n@Lĩnh vực: toán & tin\n-sự gia nhập\n@Chuyên ngành kỹ thuật\n-cửa vào\n-đi vào\n-điểm vào\n-đường vào\n-gia nhập\n-lối vào\n-ngõ vào\n-tiền sảnh\n@Lĩnh vực: xây dựng\n-cửa vào hầm\n-đầu âu tàu\n-đầu âu thuyền\n-lối vào, cổng vào\n@Lĩnh vực: toán & tin\n-sự gia nhập
-
+entrance	
+@entrance /'entrəns/
+*  danh từ
+- sự đi vào
+- (sân khấu) sự ra (của diễn viên)
+- sự nhậm (chức...)
+- quyền vào, quyền gia nhập
+- tiền vào, tiền gia nhập ((cũng) entrance_fee)
+- cổng vào, lối vào
+*  ngoại động từ
+- làm xuất thần
+- làm mê li
+- mê hoặc (ai đén chỗ...)=to entrance someone to his destruction
++ mê hoặc ai đến chỗ làm cho người ta bị thất cơ lỡ vận
+@Chuyên ngành kinh tế
+-cho gia nhập
+-cho vào
+-sự nhận vào
+-sự vào cảng
+@Chuyên ngành kỹ thuật
+-cửa vào
+-đi vào
+-điểm vào
+-đường vào
+-gia nhập
+-lối vào
+-ngõ vào
+-tiền sảnh
+@Lĩnh vực: xây dựng
+-cửa vào hầm
+-đầu âu tàu
+-đầu âu thuyền
+-lối vào, cổng vào
+@Lĩnh vực: toán & tin
+-sự gia nhập
+@Chuyên ngành kỹ thuật
+-cửa vào
+-đi vào
+-điểm vào
+-đường vào
+-gia nhập
+-lối vào
+-ngõ vào
+-tiền sảnh
+@Lĩnh vực: xây dựng
+-cửa vào hầm
+-đầu âu tàu
+-đầu âu thuyền
+-lối vào, cổng vào
+@Lĩnh vực: toán & tin
+-sự gia nhập

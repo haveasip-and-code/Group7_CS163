@@ -1,3 +1,2 @@
-presider
-	@presider\n- xem preside
-
+presider	@presider
+- xem preside

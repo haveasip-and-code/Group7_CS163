@@ -1,3 +1,9 @@
-viewer
-	@viewer /'vju:ə/\n*  danh từ\n- người xem\n- người khám xét, người thẩm tra\n- người xem truyền hình\n@Chuyên ngành kỹ thuật\n-kính xem phim\n@Lĩnh vực: toán & tin\n-trình xem (dữ liệu)
-
+viewer	@viewer /'vju:ə/
+*  danh từ
+- người xem
+- người khám xét, người thẩm tra
+- người xem truyền hình
+@Chuyên ngành kỹ thuật
+-kính xem phim
+@Lĩnh vực: toán & tin
+-trình xem (dữ liệu)

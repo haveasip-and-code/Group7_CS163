@@ -1,3 +1,20 @@
-garden
-	@garden /'gɑ:dn/\n*  danh từ\n- vườn\n=a vegetable garden+ vườn rau\n- (số nhiều) công viên, vườn\n=zoological gardens+ vườn bách thú\n- vùng màu mỡ xanh tốt\n=to lead somebody up the garden [path]+ lừa phỉnh ai, đánh lừa ai\n*  nội động từ\n- làm vườn\n@Chuyên ngành kinh tế\n-vườn\n-vườn cây ăn quả\n@Chuyên ngành kỹ thuật\n-vườn hoa\n@Lĩnh vực: xây dựng\n-vườn\n-vườn quả\n-vườn rau
-
+garden	
+@garden /'gɑ:dn/
+*  danh từ
+- vườn=a vegetable garden
++ vườn rau
+- (số nhiều) công viên, vườn=zoological gardens
++ vườn bách thú
+- vùng màu mỡ xanh tốt=to lead somebody up the garden [path]
++ lừa phỉnh ai, đánh lừa ai
+*  nội động từ
+- làm vườn
+@Chuyên ngành kinh tế
+-vườn
+-vườn cây ăn quả
+@Chuyên ngành kỹ thuật
+-vườn hoa
+@Lĩnh vực: xây dựng
+-vườn
+-vườn quả
+-vườn rau

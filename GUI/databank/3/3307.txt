@@ -1,3 +1,28 @@
-armature
-	@armature /'ɑ:mətjuə/\n*  danh từ\n- (quân sự) áo giáp\n- (quân sự) vỏ sắt\n- (kỹ thuật) cốt, lõi\n- (điện học) phản ứng\n=neutral armature+ phần ứng trung hoà\n=polarized armature+ phần ứng phân cực\n=unipolar armature+ phần ứng đơn cực\n- (sinh vật học) giáp, vỏ giáp\n@Chuyên ngành kỹ thuật\n-cái phíp\n-cốt thép\n-lõi\n-phần ứng điện\n-thiết bị\n-vỏ cáp\n@Lĩnh vực: điện lạnh\n-bản cực cốt\n@Lĩnh vực: toán & tin\n-cốt (động cơ, kế điện)\n-phần ứng diện\n@Lĩnh vực: xây dựng\n-phần ứng\n@Lĩnh vực: ô tô\n-phần ứng (máy điện)\n@Lĩnh vực: cơ khí & công trình\n-phần ứng máy điện
-
+armature	@armature /'ɑ:mətjuə/
+*  danh từ
+- (quân sự) áo giáp
+- (quân sự) vỏ sắt
+- (kỹ thuật) cốt, lõi
+- (điện học) phản ứng
+=neutral armature+ phần ứng trung hoà
+=polarized armature+ phần ứng phân cực
+=unipolar armature+ phần ứng đơn cực
+- (sinh vật học) giáp, vỏ giáp
+@Chuyên ngành kỹ thuật
+-cái phíp
+-cốt thép
+-lõi
+-phần ứng điện
+-thiết bị
+-vỏ cáp
+@Lĩnh vực: điện lạnh
+-bản cực cốt
+@Lĩnh vực: toán & tin
+-cốt (động cơ, kế điện)
+-phần ứng diện
+@Lĩnh vực: xây dựng
+-phần ứng
+@Lĩnh vực: ô tô
+-phần ứng (máy điện)
+@Lĩnh vực: cơ khí & công trình
+-phần ứng máy điện

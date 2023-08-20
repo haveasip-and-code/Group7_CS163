@@ -1,3 +1,20 @@
-finisher
-	@finisher /'finiʃə/\n*  danh từ\n- người kết thúc\n- người sang sửa lần cuối cùng (trong quá trình sản xuất)\n- (thông tục) đòn kết liễu\n@Chuyên ngành kinh tế\n-máy chà\n-máy hoàn thiện\n-máy lăn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-máy hoàn thiện\n-thiết bị đánh bóng\n-thợ hoàn thiện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-máy hoàn thiện\n-thiết bị đánh bóng\n-thợ hoàn thiện
-
+finisher	
+@finisher /'finiʃə/
+*  danh từ
+- người kết thúc
+- người sang sửa lần cuối cùng (trong quá trình sản xuất)
+- (thông tục) đòn kết liễu
+@Chuyên ngành kinh tế
+-máy chà
+-máy hoàn thiện
+-máy lăn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-máy hoàn thiện
+-thiết bị đánh bóng
+-thợ hoàn thiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-máy hoàn thiện
+-thiết bị đánh bóng
+-thợ hoàn thiện

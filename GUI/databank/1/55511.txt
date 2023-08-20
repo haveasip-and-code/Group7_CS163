@@ -1,3 +1,41 @@
-tamper
-	@tamper /'tæmpə/\n*  danh từ\n- người đầm (đất)\n- cái đầm (để đầm đất)\n*  nội động từ (+ with)\n- vầy vào, lục lọi, làm xáo trộn\n=to tamper with the cash+ lục lọi tủ tiền\n- mua chuộc, đút lót\n=to tamper with someone+ mua chuộc ai\n- giả mạo, làm giả, chữa (giấy tờ...)\n=to tamper with a document+ làm giả tài liệu\n@Chuyên ngành kinh tế\n-búa đầm\n-búa đầu tròn\n-chùy\n-gỗ\n@Chuyên ngành kỹ thuật\n-búa đầm\n-búa đầu tròn\n-búa đóng cọc\n-cái nút\n-đầm\n-đầm rung\n-que khuấy\n-sự đầm\n-tấm rung\n@Lĩnh vực: xây dựng\n-chày\n-dụng cụ chèn tà vẹt\n-dụng cụ đầm\n-nén đất cho chắc\n-máy chèn tà vẹt\n-máy đầm balát\n@Lĩnh vực: cơ khí & công trình\n-nén ép\n@Lĩnh vực: toán & tin\n-máy chèn tà dẹt\n@Lĩnh vực: điện lạnh\n-thành phản xạ (hạt nhân)\n@Lĩnh vực: giao thông & vận tải\n-thiết bị chèn
-
+tamper	@tamper /'tæmpə/
+*  danh từ
+- người đầm (đất)
+- cái đầm (để đầm đất)
+*  nội động từ (+ with)
+- vầy vào, lục lọi, làm xáo trộn
+=to tamper with the cash+ lục lọi tủ tiền
+- mua chuộc, đút lót
+=to tamper with someone+ mua chuộc ai
+- giả mạo, làm giả, chữa (giấy tờ...)
+=to tamper with a document+ làm giả tài liệu
+@Chuyên ngành kinh tế
+-búa đầm
+-búa đầu tròn
+-chùy
+-gỗ
+@Chuyên ngành kỹ thuật
+-búa đầm
+-búa đầu tròn
+-búa đóng cọc
+-cái nút
+-đầm
+-đầm rung
+-que khuấy
+-sự đầm
+-tấm rung
+@Lĩnh vực: xây dựng
+-chày
+-dụng cụ chèn tà vẹt
+-dụng cụ đầm
+-nén đất cho chắc
+-máy chèn tà vẹt
+-máy đầm balát
+@Lĩnh vực: cơ khí & công trình
+-nén ép
+@Lĩnh vực: toán & tin
+-máy chèn tà dẹt
+@Lĩnh vực: điện lạnh
+-thành phản xạ (hạt nhân)
+@Lĩnh vực: giao thông & vận tải
+-thiết bị chèn

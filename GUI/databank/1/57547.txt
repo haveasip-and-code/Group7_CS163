@@ -1,3 +1,12 @@
-traveler
-	@traveler\n* danh từ\n- người đi, người đi du lịch, người đi du hành, lữ khách, người hay đi\n- người đi chào hàng\n- người Digan, người lang thang\n- <kỹ> cầu lăn\n@Chuyên ngành kinh tế\n-khách du hành\n@Chuyên ngành kỹ thuật\n-cầu trục\n@Lĩnh vực: xây dựng\n-ván khuôn lăn
-
+traveler	@traveler
+* danh từ
+- người đi, người đi du lịch, người đi du hành, lữ khách, người hay đi
+- người đi chào hàng
+- người Digan, người lang thang
+- <kỹ> cầu lăn
+@Chuyên ngành kinh tế
+-khách du hành
+@Chuyên ngành kỹ thuật
+-cầu trục
+@Lĩnh vực: xây dựng
+-ván khuôn lăn

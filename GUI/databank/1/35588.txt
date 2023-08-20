@@ -1,3 +1,22 @@
-monument
-	@monument /'mɔnjumənt/\n*  danh từ\n- vật kỷ niệm, đài kỷ niệm, bia kỷ niệm, công trình kỷ niệm\n- lâu đài\n- lăng mộ\n- công trình kiến trúc lớn\n- công trình lớn, công trình bất hủ (khoa học, văn học...)\n=a monument of science+ một công trình khoa học bất hủ\n- nhân vật xuất chúng, anh hùng; mẫu mực, gương sáng\n!the Monument\n- đài kỷ niệm hoả hoạn (năm 1666) ở Luân-ddôn\n@Chuyên ngành kỹ thuật\n-cột tiêu\n-di tích\n-điểm đánh dấu\n-mốc đồ đạc\n@Lĩnh vực: xây dựng\n-đài kỷ niệm\n-đài lịch sử\n-đài tưởng niệm\n-mốc tiêu\n-tượng đài
-
+monument	@monument /'mɔnjumənt/
+*  danh từ
+- vật kỷ niệm, đài kỷ niệm, bia kỷ niệm, công trình kỷ niệm
+- lâu đài
+- lăng mộ
+- công trình kiến trúc lớn
+- công trình lớn, công trình bất hủ (khoa học, văn học...)
+=a monument of science+ một công trình khoa học bất hủ
+- nhân vật xuất chúng, anh hùng; mẫu mực, gương sáng
+!the Monument
+- đài kỷ niệm hoả hoạn (năm 1666) ở Luân-ddôn
+@Chuyên ngành kỹ thuật
+-cột tiêu
+-di tích
+-điểm đánh dấu
+-mốc đồ đạc
+@Lĩnh vực: xây dựng
+-đài kỷ niệm
+-đài lịch sử
+-đài tưởng niệm
+-mốc tiêu
+-tượng đài

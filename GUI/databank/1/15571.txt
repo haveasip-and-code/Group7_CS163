@@ -1,3 +1,25 @@
-directory
-	@directory /di'rektəri/\n*  tính từ\n- chỉ bảo, chỉ dẫn, hướng dẫn, huấn thị\n*  danh từ\n- sách chỉ dẫn, sách hướng dẫn\n=a telephone directory+ sổ ghi số dây nói\n- số hộ khẩu (trong một vùng)\n- (Directory) (sử học) Hội đồng Đốc chính (thời cách mạng Pháp gồm 5 uỷ viên, từ 1795 đến 1799)\n- (từ Mỹ,nghĩa Mỹ) ban giám đốc\n@Chuyên ngành kinh tế\n-chỉ nam công thương danh lục công thương\n-danh bạ\n-hướng dẫn đường phố\n-mục lục thương mại\n-niên giám điện thoại\n-niên giám thương mại\n-sách chỉ dẫn\n@Chuyên ngành kỹ thuật\n-danh bạ\n-danh mục\n-thư mục\n-từ điển\n@Lĩnh vực: toán & tin\n-bảng kiểm kê
-
+directory	
+@directory /di'rektəri/
+*  tính từ
+- chỉ bảo, chỉ dẫn, hướng dẫn, huấn thị
+*  danh từ
+- sách chỉ dẫn, sách hướng dẫn=a telephone directory
++ sổ ghi số dây nói
+- số hộ khẩu (trong một vùng)
+- (Directory) (sử học) Hội đồng Đốc chính (thời cách mạng Pháp gồm 5 uỷ viên, từ 1795 đến 1799)
+- (từ Mỹ,nghĩa Mỹ) ban giám đốc
+@Chuyên ngành kinh tế
+-chỉ nam công thương danh lục công thương
+-danh bạ
+-hướng dẫn đường phố
+-mục lục thương mại
+-niên giám điện thoại
+-niên giám thương mại
+-sách chỉ dẫn
+@Chuyên ngành kỹ thuật
+-danh bạ
+-danh mục
+-thư mục
+-từ điển
+@Lĩnh vực: toán & tin
+-bảng kiểm kê

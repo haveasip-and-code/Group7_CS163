@@ -1,3 +1,10 @@
-inhibited
-	@inhibited\n* tính từ\n- gượng gạo, rụt rè, thiếu tự nhiên\n@Chuyên ngành kỹ thuật\n-bị cấm\n@Lĩnh vực: toán & tin\n-bị ngăn cản\n@Lĩnh vực: hóa học & vật liệu\n-bị ức chế
-
+inhibited	
+@inhibited
+* tính từ
+- gượng gạo, rụt rè, thiếu tự nhiên
+@Chuyên ngành kỹ thuật
+-bị cấm
+@Lĩnh vực: toán & tin
+-bị ngăn cản
+@Lĩnh vực: hóa học & vật liệu
+-bị ức chế

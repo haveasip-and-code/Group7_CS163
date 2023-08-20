@@ -1,3 +1,11 @@
-flanger
-	@flanger\n* danh từ\n- máy gấp mép\n- lưới nạo tuyết (ở bánh tàu hoả)\n@Chuyên ngành kinh tế\n-máy dập mép\n@Chuyên ngành kỹ thuật\n-máy gấp mép\n@Chuyên ngành kỹ thuật\n-máy gấp mép
-
+flanger	
+@flanger
+* danh từ
+- máy gấp mép
+- lưới nạo tuyết (ở bánh tàu hoả)
+@Chuyên ngành kinh tế
+-máy dập mép
+@Chuyên ngành kỹ thuật
+-máy gấp mép
+@Chuyên ngành kỹ thuật
+-máy gấp mép

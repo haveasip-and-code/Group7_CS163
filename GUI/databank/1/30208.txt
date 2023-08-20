@@ -1,3 +1,6 @@
-its
-	@its /its/\n*  tính từ sở hữu\n- của cái đó, của điều đó, của con vật đó\n*  đại từ sở hữu\n- cái của điều đó, cái của con vật đó
-
+its	
+@its /its/
+*  tính từ sở hữu
+- của cái đó, của điều đó, của con vật đó
+*  đại từ sở hữu
+- cái của điều đó, cái của con vật đó

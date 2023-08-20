@@ -1,3 +1,5 @@
-staddle
-	@staddle\n* danh từ\n- sàn đỡ, bệ đỡ\n@Chuyên ngành kỹ thuật\n-giàn giáo
-
+staddle	@staddle
+* danh từ
+- sàn đỡ, bệ đỡ
+@Chuyên ngành kỹ thuật
+-giàn giáo

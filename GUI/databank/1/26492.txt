@@ -1,3 +1,13 @@
-husbandry
-	@husbandry /'hʌzbəndri/\n*  danh từ\n- nghề làm ruộng, nghề nông\n- sự quản lý trông nom\n=good husbandry+ sự quản lý tốt\n=bad husbandry+ sự quản lý kém\n@Chuyên ngành kinh tế\n-nghề nông\n-nông nghiệp\n@Chuyên ngành kỹ thuật\n-nông nghiệp\n-nông phẩm
-
+husbandry	
+@husbandry /'hʌzbəndri/
+*  danh từ
+- nghề làm ruộng, nghề nông
+- sự quản lý trông nom=good husbandry
++ sự quản lý tốt=bad husbandry
++ sự quản lý kém
+@Chuyên ngành kinh tế
+-nghề nông
+-nông nghiệp
+@Chuyên ngành kỹ thuật
+-nông nghiệp
+-nông phẩm

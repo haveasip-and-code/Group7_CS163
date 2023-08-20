@@ -1,3 +1,4 @@
-unbundling
-	@Chuyên ngành kinh tế\n-không gom chung\n-tách ra\n-việc tháo gói
-
+unbundling	@Chuyên ngành kinh tế
+-không gom chung
+-tách ra
+-việc tháo gói

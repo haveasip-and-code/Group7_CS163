@@ -1,3 +1,2 @@
-borty
-	@borty\n- xem bort
-
+borty	@borty
+- xem bort

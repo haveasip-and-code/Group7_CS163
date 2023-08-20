@@ -1,3 +1,9 @@
-switchyard
-	@Chuyên ngành kỹ thuật\n-bãi đỗ xe\n-đường dồn tàu\n-ga phân loại tàu\n-sân ga chọn tàu\n-trạm chuyển\n-trạm dồn tàu\n-trạm phân loại\n-trạm phân phối điện
-
+switchyard	@Chuyên ngành kỹ thuật
+-bãi đỗ xe
+-đường dồn tàu
+-ga phân loại tàu
+-sân ga chọn tàu
+-trạm chuyển
+-trạm dồn tàu
+-trạm phân loại
+-trạm phân phối điện

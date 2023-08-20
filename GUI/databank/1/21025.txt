@@ -1,3 +1,7 @@
-filings
-	@Chuyên ngành kỹ thuật\n-mạt cưa\n-mạt giũa\n@Chuyên ngành kỹ thuật\n-mạt cưa\n-mạt giũa
-
+filings	
+@Chuyên ngành kỹ thuật
+-mạt cưa
+-mạt giũa
+@Chuyên ngành kỹ thuật
+-mạt cưa
+-mạt giũa

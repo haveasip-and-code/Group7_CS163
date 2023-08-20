@@ -1,3 +1,28 @@
-commercial
-	@commercial /kə'mə:ʃl/\n*  tính từ\n- (thuộc) buôn bán; (thuộc) thương mại; (thuộc) thương nghiệp\n=commercial school+ trường thương nghiệp\n=commercial treaty+ hiệp ước thương mại\n!commercial braodcast\n- (từ Mỹ,nghĩa Mỹ) buổi phát thanh quảng cáo hàng\n=commercial room+ phòng khách sạn cho những người đi chào hàng\n=commercial traveller+ người đi chào hàng\n*  danh từ\n- (thông tục) người chào hàng\n- buổi phát thanh quảng cáo hàng\n@Chuyên ngành kinh tế\n-có tính chất quảng cáo\n-dành cho buôn bán\n-khách sạn làm riêng cho những người đi chào hàng\n-mục quảng cáo hàng hóa\n-thuộc về mậu dịch\n-thuộc về thương mại\n@Chuyên ngành kỹ thuật\n-có tính thương mại\n-giao dịch\n-sự quảng cáo\n-thương nghiệp\n@Lĩnh vực: toán & tin\n-thương mại\n@Lĩnh vực: cơ khí & công trình\n-thương phẩm
-
+commercial	@commercial /kə'mə:ʃl/
+*  tính từ
+- (thuộc) buôn bán; (thuộc) thương mại; (thuộc) thương nghiệp
+=commercial school+ trường thương nghiệp
+=commercial treaty+ hiệp ước thương mại
+!commercial braodcast
+- (từ Mỹ,nghĩa Mỹ) buổi phát thanh quảng cáo hàng
+=commercial room+ phòng khách sạn cho những người đi chào hàng
+=commercial traveller+ người đi chào hàng
+*  danh từ
+- (thông tục) người chào hàng
+- buổi phát thanh quảng cáo hàng
+@Chuyên ngành kinh tế
+-có tính chất quảng cáo
+-dành cho buôn bán
+-khách sạn làm riêng cho những người đi chào hàng
+-mục quảng cáo hàng hóa
+-thuộc về mậu dịch
+-thuộc về thương mại
+@Chuyên ngành kỹ thuật
+-có tính thương mại
+-giao dịch
+-sự quảng cáo
+-thương nghiệp
+@Lĩnh vực: toán & tin
+-thương mại
+@Lĩnh vực: cơ khí & công trình
+-thương phẩm

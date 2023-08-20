@@ -1,3 +1,24 @@
-exploration
-	@exploration /,eksplɔ:'reiʃn/\n*  danh từ\n- sự thăm dò, sự thám hiểm\n- (y học) sự thông dò\n- sự khảo sát tỉ mỉ\n@Chuyên ngành kỹ thuật\n-khảo sát\n-sự điều tra\n-sự khảo sát\n-sự nghiên cứu\n-sự thăm dò\n-sự thám hiểm\n-thám hiểm\n-tìm kiếm\n@Chuyên ngành kỹ thuật\n-khảo sát\n-sự điều tra\n-sự khảo sát\n-sự nghiên cứu\n-sự thăm dò\n-sự thám hiểm\n-thám hiểm\n-tìm kiếm
-
+exploration	
+@exploration /,eksplɔ:'reiʃn/
+*  danh từ
+- sự thăm dò, sự thám hiểm
+- (y học) sự thông dò
+- sự khảo sát tỉ mỉ
+@Chuyên ngành kỹ thuật
+-khảo sát
+-sự điều tra
+-sự khảo sát
+-sự nghiên cứu
+-sự thăm dò
+-sự thám hiểm
+-thám hiểm
+-tìm kiếm
+@Chuyên ngành kỹ thuật
+-khảo sát
+-sự điều tra
+-sự khảo sát
+-sự nghiên cứu
+-sự thăm dò
+-sự thám hiểm
+-thám hiểm
+-tìm kiếm

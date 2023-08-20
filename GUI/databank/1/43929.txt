@@ -1,3 +1,8 @@
-prohibitive
-	@prohibitive /prohibitive/\n*  tính từ\n- cấm, cấm chỉ; để ngăn cấm (việc dùng hoặc mua cái gì)\n=prohibitive prices+ giá rất đắt để ngăn cấm (việc dùng hoặc mua cái gì)\n=prohibitive tax+ thuế rất cao để ngăn cấm (việc dùng hoặc mua cái gì)\n@Chuyên ngành kinh tế\n-cấm\n-cấm chỉ
-
+prohibitive	@prohibitive /prohibitive/
+*  tính từ
+- cấm, cấm chỉ; để ngăn cấm (việc dùng hoặc mua cái gì)
+=prohibitive prices+ giá rất đắt để ngăn cấm (việc dùng hoặc mua cái gì)
+=prohibitive tax+ thuế rất cao để ngăn cấm (việc dùng hoặc mua cái gì)
+@Chuyên ngành kinh tế
+-cấm
+-cấm chỉ

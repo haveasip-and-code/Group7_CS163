@@ -1,3 +1,7 @@
-scrolling
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cuốn\n-sự cuốn\n-sự cuộn\n-sự cuộn ngang (màn hình)\n-sự xem lướt
-
+scrolling	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cuốn
+-sự cuốn
+-sự cuộn
+-sự cuộn ngang (màn hình)
+-sự xem lướt

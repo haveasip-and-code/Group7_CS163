@@ -1,3 +1,9 @@
-unfix
-	@unfix /'ʌn'fiks/\n*  ngoại động từ\n- tháo ra, mở ra, cởi ra, bỏ ra\n*  nội động từ\n- bung ra, rời ra\n@Chuyên ngành kỹ thuật\n-mở ra\n@Lĩnh vực: xây dựng\n-bung ra
-
+unfix	@unfix /'ʌn'fiks/
+*  ngoại động từ
+- tháo ra, mở ra, cởi ra, bỏ ra
+*  nội động từ
+- bung ra, rời ra
+@Chuyên ngành kỹ thuật
+-mở ra
+@Lĩnh vực: xây dựng
+-bung ra

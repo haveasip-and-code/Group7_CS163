@@ -1,3 +1,18 @@
-effectiveness
-	@effectiveness /i'fektivnis/\n*  danh từ\n- sự có hiệu lực\n- ấn tượng sâu sắc\n@Chuyên ngành kinh tế\n-hiệu lực\n-hiệu nghiệm\n-hiệu quả\n-sự hữu hiệu\n-sự thành đạt\n-tính hiệu lực\n@Chuyên ngành kỹ thuật\n-hiệu lực\n-hiệu quả\n-hiệu suất\n@Lĩnh vực: toán & tin\n-tính hữu hiệu
-
+effectiveness	
+@effectiveness /i'fektivnis/
+*  danh từ
+- sự có hiệu lực
+- ấn tượng sâu sắc
+@Chuyên ngành kinh tế
+-hiệu lực
+-hiệu nghiệm
+-hiệu quả
+-sự hữu hiệu
+-sự thành đạt
+-tính hiệu lực
+@Chuyên ngành kỹ thuật
+-hiệu lực
+-hiệu quả
+-hiệu suất
+@Lĩnh vực: toán & tin
+-tính hữu hiệu

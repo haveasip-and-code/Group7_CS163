@@ -1,3 +1,4 @@
-accounts
-	@Chuyên ngành kinh tế\n-báo cáo kế toán\n-báo cáo kết toán
-
+accounts	
+@Chuyên ngành kinh tế
+-báo cáo kế toán
+-báo cáo kết toán

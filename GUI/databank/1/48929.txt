@@ -1,3 +1,20 @@
-scanning
-	@scanning /'skæniɳ/\n*  danh từ\n- (truyền hình) bộ phân hình\n- (truyền hình) sự phân hình\n- sự quét (máy rađa)\n*  tính từ\n- (truyền hình) phân hình\n- quét (máy rađa)\n@Chuyên ngành kỹ thuật\n-quét\n-sự lấy mẫu\n-sự phân tích ảnh\n-sự quét\n-sự quét ảnh\n-sự quét anten\n@Lĩnh vực: y học\n-sự quét bằng chùm tia điện tử\n-sự xem xét kỹ một địa điểm\n@Lĩnh vực: điện\n-sự quét hình
-
+scanning	@scanning /'skæniɳ/
+*  danh từ
+- (truyền hình) bộ phân hình
+- (truyền hình) sự phân hình
+- sự quét (máy rađa)
+*  tính từ
+- (truyền hình) phân hình
+- quét (máy rađa)
+@Chuyên ngành kỹ thuật
+-quét
+-sự lấy mẫu
+-sự phân tích ảnh
+-sự quét
+-sự quét ảnh
+-sự quét anten
+@Lĩnh vực: y học
+-sự quét bằng chùm tia điện tử
+-sự xem xét kỹ một địa điểm
+@Lĩnh vực: điện
+-sự quét hình

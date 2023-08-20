@@ -1,3 +1,17 @@
-diagonal
-	@diagonal /dai'ægənl/\n*  tính từ\n- chéo (đường)\n=diagonal cloth+ vải chéo go\n*  danh từ\n- đường chéo\n- vải chéo go\n@Chuyên ngành kỹ thuật\n-đường chéo\n-nghiêng\n-thanh chéo\n-thanh chống xiên\n-thanh giằng\n-thanh xiên\n-xiên\n@Lĩnh vực: xây dựng\n-thanh xiên (giàn)
-
+diagonal	@diagonal /dai'ægənl/
+*  tính từ
+- chéo (đường)
+=diagonal cloth+ vải chéo go
+*  danh từ
+- đường chéo
+- vải chéo go
+@Chuyên ngành kỹ thuật
+-đường chéo
+-nghiêng
+-thanh chéo
+-thanh chống xiên
+-thanh giằng
+-thanh xiên
+-xiên
+@Lĩnh vực: xây dựng
+-thanh xiên (giàn)

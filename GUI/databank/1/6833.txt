@@ -1,3 +1,12 @@
-broaching
-	@Chuyên ngành kỹ thuật\n-dao chuốt\n-dao khoét lỗ\n-khơi rộng (lỗ khoan)\n-mũi đục\n-mũi khoét\n-sự chuốt\n-sự chuốt hình\n@Lĩnh vực: cơ khí & công trình\n-sự doa\n-sự nong lỗ
-
+broaching	
+@Chuyên ngành kỹ thuật
+-dao chuốt
+-dao khoét lỗ
+-khơi rộng (lỗ khoan)
+-mũi đục
+-mũi khoét
+-sự chuốt
+-sự chuốt hình
+@Lĩnh vực: cơ khí & công trình
+-sự doa
+-sự nong lỗ

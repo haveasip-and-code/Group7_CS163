@@ -1,3 +1,9 @@
-dialect
-	@dialect /'daiəlekt/\n*  danh từ\n- tiếng địa phương, phương ngôn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thổ ngữ\n@Lĩnh vực: toán & tin\n-tiếng địa phương
-
+dialect	
+@dialect /'daiəlekt/
+*  danh từ
+- tiếng địa phương, phương ngôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thổ ngữ
+@Lĩnh vực: toán & tin
+-tiếng địa phương

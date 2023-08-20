@@ -1,3 +1,8 @@
-chamfered
-	@Chuyên ngành kỹ thuật\n-lượn\n-vát\n-vát cạnh\n-vát góc\n@Lĩnh vực: ô tô\n-mặt vạt\n-vạt cạnh
-
+chamfered	@Chuyên ngành kỹ thuật
+-lượn
+-vát
+-vát cạnh
+-vát góc
+@Lĩnh vực: ô tô
+-mặt vạt
+-vạt cạnh

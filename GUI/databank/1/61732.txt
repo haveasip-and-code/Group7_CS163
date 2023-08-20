@@ -1,3 +1,14 @@
-vicinity
-	@vicinity /vi'siniti/\n*  danh từ\n- sự lân cận, sự tiếp cận\n- vùng lân cận\n= Hanoi and its vicinity+ Hà nội và vùng lân cận\n=in the vicinity of+ ở gần\n- quan hệ gần gũi\n@Chuyên ngành kỹ thuật\n-lân cận\n-vùng lân cận\n-vùng phụ cận\n@Lĩnh vực: hóa học & vật liệu\n-độ gần\n-độ lân cận
-
+vicinity	@vicinity /vi'siniti/
+*  danh từ
+- sự lân cận, sự tiếp cận
+- vùng lân cận
+= Hanoi and its vicinity+ Hà nội và vùng lân cận
+=in the vicinity of+ ở gần
+- quan hệ gần gũi
+@Chuyên ngành kỹ thuật
+-lân cận
+-vùng lân cận
+-vùng phụ cận
+@Lĩnh vực: hóa học & vật liệu
+-độ gần
+-độ lân cận

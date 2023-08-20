@@ -1,3 +1,18 @@
-scaler
-	@scaler\n- danh từ\n- (radio) mạch đếm gộp\n- búa đánh cặn (nồi hơi)\n- máy đánh vảy\n@Chuyên ngành kinh tế\n-bộ phận đánh vảy\n-máy cạo vảy\n@Chuyên ngành kỹ thuật\n-mạch đếm gộp\n-máy đếm\n-máy đếm gộp\n-máy nạo\n@Lĩnh vực: cơ khí & công trình\n-búa tróc\n-búa tróc cặn\n@Lĩnh vực: toán & tin\n-mạch đến gộp
-
+scaler	@scaler
+- danh từ
+- (radio) mạch đếm gộp
+- búa đánh cặn (nồi hơi)
+- máy đánh vảy
+@Chuyên ngành kinh tế
+-bộ phận đánh vảy
+-máy cạo vảy
+@Chuyên ngành kỹ thuật
+-mạch đếm gộp
+-máy đếm
+-máy đếm gộp
+-máy nạo
+@Lĩnh vực: cơ khí & công trình
+-búa tróc
+-búa tróc cặn
+@Lĩnh vực: toán & tin
+-mạch đến gộp

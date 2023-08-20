@@ -1,3 +1,21 @@
-memorial
-	@memorial /mi'nɔ:riəl/\n*  tính từ\n- (thuộc) kỷ niệm; để ghi nhớ, để kỷ niệm\n- (thuộc) ký ức\n!Memorial Day\n- (từ Mỹ,nghĩa Mỹ) ngày chiến sĩ trận vong (30 tháng 5)\n!memorial service\n- lễ truy điệu\n*  danh từ\n- đài kỷ niệm, tượng kỷ niệm; vật kỷ niệm\n=war memorial+ đài liệt sĩ\n- (số nhiều) bản ghi chép; bản ghi niên đại\n- (ngoại giao) thông điệp\n- đơn thỉnh nguyện, bản kiến nghị\n@Chuyên ngành kỹ thuật\n-di tích\n-lưu niệm\n@Lĩnh vực: xây dựng\n-đài tưởng niệm\n-kỷ niệm\n-tượng đài
-
+memorial	@memorial /mi'nɔ:riəl/
+*  tính từ
+- (thuộc) kỷ niệm; để ghi nhớ, để kỷ niệm
+- (thuộc) ký ức
+!Memorial Day
+- (từ Mỹ,nghĩa Mỹ) ngày chiến sĩ trận vong (30 tháng 5)
+!memorial service
+- lễ truy điệu
+*  danh từ
+- đài kỷ niệm, tượng kỷ niệm; vật kỷ niệm
+=war memorial+ đài liệt sĩ
+- (số nhiều) bản ghi chép; bản ghi niên đại
+- (ngoại giao) thông điệp
+- đơn thỉnh nguyện, bản kiến nghị
+@Chuyên ngành kỹ thuật
+-di tích
+-lưu niệm
+@Lĩnh vực: xây dựng
+-đài tưởng niệm
+-kỷ niệm
+-tượng đài

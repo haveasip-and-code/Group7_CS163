@@ -1,3 +1,2 @@
-compartmental
-	@compartmental\n- xem compartment
-
+compartmental	@compartmental
+- xem compartment

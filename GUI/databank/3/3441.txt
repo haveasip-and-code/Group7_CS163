@@ -1,3 +1,2 @@
-artifactual
-	@artifactual\n- xem artifact
-
+artifactual	@artifactual
+- xem artifact

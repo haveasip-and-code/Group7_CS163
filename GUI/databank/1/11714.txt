@@ -1,3 +1,19 @@
-converse
-	@converse\n* nội động từ\n- nói chuyện, chuyện trò\n* danh từ\n- <toán> đảo đề\n* tính từ\n- trái ngược, nghịch đảo\n@Chuyên ngành kỹ thuật\n-chuỗi hội tụ\n-đảo\n-định lý đảo\n-hội thoại\n-nghịch\n@Lĩnh vực: điện lạnh\n-giá trị ngược\n-phần đảo\n@Lĩnh vực: xây dựng\n-trái
-
+converse	
+@converse
+* nội động từ
+- nói chuyện, chuyện trò
+* danh từ
+- <toán> đảo đề
+* tính từ
+- trái ngược, nghịch đảo
+@Chuyên ngành kỹ thuật
+-chuỗi hội tụ
+-đảo
+-định lý đảo
+-hội thoại
+-nghịch
+@Lĩnh vực: điện lạnh
+-giá trị ngược
+-phần đảo
+@Lĩnh vực: xây dựng
+-trái

@@ -1,3 +1,9 @@
-scenario
-	@scenario /si'nɑ:riou/\n*  danh từ,  số nhiều scenarios\n/si'nɑ:riouz/\n- truyện phim, cốt kịch, kịch bản\n@Chuyên ngành kinh tế\n-phương pháp kịch bản\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diễn tiến
-
+scenario	@scenario /si'nɑ:riou/
+*  danh từ,  số nhiều scenarios
+/si'nɑ:riouz/
+- truyện phim, cốt kịch, kịch bản
+@Chuyên ngành kinh tế
+-phương pháp kịch bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-diễn tiến

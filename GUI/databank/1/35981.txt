@@ -1,3 +1,6 @@
-multiplet
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nhóm bội\n@Lĩnh vực: điện lạnh\n-mức bội\n-vạch bội
-
+multiplet	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-nhóm bội
+@Lĩnh vực: điện lạnh
+-mức bội
+-vạch bội

@@ -1,3 +1,29 @@
-female
-	@female /'fi:meil/\n*  tính từ\n- cái, mái\n=a female dog+ con chó cái\n- (thuộc) đàn bà con gái, nữ\n=female candidate+ thí sinh nữ\n=female weakness+ sự mến yêu của đàn bà\n- yếu, nhạt, mờ\n=female sapphire+ xafia mờ\n- (kỹ thuật) có lỗ để lắp, có lỗ để tra\n*  danh từ\n- (động vật học) con cái, con mái\n- (thực vật học) gốc cái; cây cái\n- (từ hiếm,nghĩa hiếm) người đàn bà, người phụ nữ\n- (thông tục) con mụ, con mẹ\n@Chuyên ngành kinh tế\n-con cái\n-con mái\n@Chuyên ngành kỹ thuật\n-cái\n-nữ\n@Lĩnh vực: y học\n-thuộc phái nữ\n@Chuyên ngành kỹ thuật\n-cái\n-nữ\n@Lĩnh vực: y học\n-thuộc phái nữ
-
+female	
+@female /'fi:meil/
+*  tính từ
+- cái, mái=a female dog
++ con chó cái
+- (thuộc) đàn bà con gái, nữ=female candidate
++ thí sinh nữ=female weakness
++ sự mến yêu của đàn bà
+- yếu, nhạt, mờ=female sapphire
++ xafia mờ
+- (kỹ thuật) có lỗ để lắp, có lỗ để tra
+*  danh từ
+- (động vật học) con cái, con mái
+- (thực vật học) gốc cái; cây cái
+- (từ hiếm,nghĩa hiếm) người đàn bà, người phụ nữ
+- (thông tục) con mụ, con mẹ
+@Chuyên ngành kinh tế
+-con cái
+-con mái
+@Chuyên ngành kỹ thuật
+-cái
+-nữ
+@Lĩnh vực: y học
+-thuộc phái nữ
+@Chuyên ngành kỹ thuật
+-cái
+-nữ
+@Lĩnh vực: y học
+-thuộc phái nữ

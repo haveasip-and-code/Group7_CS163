@@ -1,3 +1,2 @@
-vacillator
-	@vacillator\n- xem vacillate
-
+vacillator	@vacillator
+- xem vacillate

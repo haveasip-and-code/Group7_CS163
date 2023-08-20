@@ -1,3 +1,12 @@
-residuary
-	@residuary /ri'zidjuəri/\n*  tính từ\n- dư, còn lại\n@Chuyên ngành kinh tế\n-còn dư\n-dư\n@Chuyên ngành kỹ thuật\n-còn sót\n-dư\n-dư lại\n@Lĩnh vực: hóa học & vật liệu\n-sót lại
-
+residuary	@residuary /ri'zidjuəri/
+*  tính từ
+- dư, còn lại
+@Chuyên ngành kinh tế
+-còn dư
+-dư
+@Chuyên ngành kỹ thuật
+-còn sót
+-dư
+-dư lại
+@Lĩnh vực: hóa học & vật liệu
+-sót lại

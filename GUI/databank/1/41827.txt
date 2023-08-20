@@ -1,3 +1,2 @@
-plagiarizer
-	@plagiarizer\n- xem plagiarize
-
+plagiarizer	@plagiarizer
+- xem plagiarize

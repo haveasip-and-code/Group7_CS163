@@ -1,3 +1,15 @@
-selectivity
-	@selectivity /silek'tiviti/\n*  danh từ\n- tính chọn lọc\n- (rađiô) độ chọn lọc\n@Chuyên ngành kinh tế\n-tính lựa chọn\n@Chuyên ngành kỹ thuật\n-độ chọn lọc\n@Lĩnh vực: xây dựng\n-khả năng chọn lọc\n@Lĩnh vực: toán & tin\n-khả năng lựa chọn\n-tính lựa chọn\n@Lĩnh vực: điện lạnh\n-tính lọc lựa (của một mạch)
-
+selectivity	@selectivity /silek'tiviti/
+*  danh từ
+- tính chọn lọc
+- (rađiô) độ chọn lọc
+@Chuyên ngành kinh tế
+-tính lựa chọn
+@Chuyên ngành kỹ thuật
+-độ chọn lọc
+@Lĩnh vực: xây dựng
+-khả năng chọn lọc
+@Lĩnh vực: toán & tin
+-khả năng lựa chọn
+-tính lựa chọn
+@Lĩnh vực: điện lạnh
+-tính lọc lựa (của một mạch)

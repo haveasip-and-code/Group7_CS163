@@ -1,3 +1,9 @@
-shredder
-	@shredder\n* danh từ\n- thiết bị cắt vụn, thiết bị xé vụn (nhất là loại dùng để cắt tài liệu thành những mảnh nhỏ để không thể đọc được)\n@Chuyên ngành kinh tế\n-máy xé hủy tài liệu (mật)\n@Chuyên ngành kỹ thuật\n-máy hủy giấy\n-máy hủy tài liệu\n-máy xé giấy
-
+shredder	@shredder
+* danh từ
+- thiết bị cắt vụn, thiết bị xé vụn (nhất là loại dùng để cắt tài liệu thành những mảnh nhỏ để không thể đọc được)
+@Chuyên ngành kinh tế
+-máy xé hủy tài liệu (mật)
+@Chuyên ngành kỹ thuật
+-máy hủy giấy
+-máy hủy tài liệu
+-máy xé giấy

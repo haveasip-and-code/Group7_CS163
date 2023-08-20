@@ -1,3 +1,10 @@
-computability
-	@computability /kəm,pju:tə'biliti/\n*  danh từ\n- tính có thể tính được, tính có thể tính toán được, tính có thể ước tính được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-khả năng tính toán\n-lý thuyết tính toán\n@Lĩnh vực: xây dựng\n-thực năng tính toán
-
+computability	
+@computability /kəm,pju:tə'biliti/
+*  danh từ
+- tính có thể tính được, tính có thể tính toán được, tính có thể ước tính được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-khả năng tính toán
+-lý thuyết tính toán
+@Lĩnh vực: xây dựng
+-thực năng tính toán

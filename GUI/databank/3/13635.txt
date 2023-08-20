@@ -1,3 +1,4 @@
-deadwood
-	@deadwood\n- người  vô  dụng\n@Chuyên ngành kỹ thuật\n-gỗ khô
-
+deadwood	@deadwood
+- người  vô  dụng
+@Chuyên ngành kỹ thuật
+-gỗ khô

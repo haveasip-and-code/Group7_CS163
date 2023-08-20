@@ -1,3 +1,40 @@
-pair
-	@pair /peə/\n*  danh từ\n- đôi, cặp\n=a pair of gloves+ đôi găng tay\n=pair of horses+ cặp ngựa\n- cặp vợ chồng; đôi đực cái, đôi trống mái (loài vật)\n- chiếc; cái (đồ vật có hai bộ phận)\n=a pair of scissor+ cái kéo\n=where is the pair to this sock?+ chiếc tất kia đâu rồi?\n- (chính trị) cặp (nghị sĩ ở hai đảng đối lập thoả thuận cùng không bỏ phiếu); người kết đôi (một trong hai nghị sĩ ở hai đảng đối lạp thoả thuận cùng không bỏ phiếu)\n=I cannot find a pair+ tôi không tìm được người kết đôi (trong việc bỏ phiếu)\n!in pairs\n- từng đôi, từng cặp\n!pairs of stairs\n!pair of steps\n- cầu thang, tầng gác\n!that is another pair of shoes\n- đó lại là vấn đề khác\n*  ngoại động từ\n- ghép đôi, ghép cặp\n- cho yêu nhau, cho lấy nhau (đôi trai gái)\n*  nội động từ\n- kết đôi, sánh cặp\n- yêu nhau, lấy nhau (đôi trai gái); kết đôi với nhau (con đực con cái, con trống con mái)\n!to pair off\n- ghép từng đôi một; hợp thành từng đôi; kết đôi (trong việc thoả thuận không bỏ phiếu ở nghị trường)\n!to pair off with\n- (thông tục) kết duyên với\n@Chuyên ngành kinh tế\n-một bộ hai cái\n-một cặp\n-một đôi\n@Chuyên ngành kỹ thuật\n-đôi\n-ghép cặp\n-ghép đôi\n@Lĩnh vực: điện lạnh\n-cặp dây dẫn\n@Lĩnh vực: toán & tin\n-cặp, ghép đôi
-
+pair	@pair /peə/
+*  danh từ
+- đôi, cặp
+=a pair of gloves+ đôi găng tay
+=pair of horses+ cặp ngựa
+- cặp vợ chồng; đôi đực cái, đôi trống mái (loài vật)
+- chiếc; cái (đồ vật có hai bộ phận)
+=a pair of scissor+ cái kéo
+=where is the pair to this sock?+ chiếc tất kia đâu rồi?
+- (chính trị) cặp (nghị sĩ ở hai đảng đối lập thoả thuận cùng không bỏ phiếu); người kết đôi (một trong hai nghị sĩ ở hai đảng đối lạp thoả thuận cùng không bỏ phiếu)
+=I cannot find a pair+ tôi không tìm được người kết đôi (trong việc bỏ phiếu)
+!in pairs
+- từng đôi, từng cặp
+!pairs of stairs
+!pair of steps
+- cầu thang, tầng gác
+!that is another pair of shoes
+- đó lại là vấn đề khác
+*  ngoại động từ
+- ghép đôi, ghép cặp
+- cho yêu nhau, cho lấy nhau (đôi trai gái)
+*  nội động từ
+- kết đôi, sánh cặp
+- yêu nhau, lấy nhau (đôi trai gái); kết đôi với nhau (con đực con cái, con trống con mái)
+!to pair off
+- ghép từng đôi một; hợp thành từng đôi; kết đôi (trong việc thoả thuận không bỏ phiếu ở nghị trường)
+!to pair off with
+- (thông tục) kết duyên với
+@Chuyên ngành kinh tế
+-một bộ hai cái
+-một cặp
+-một đôi
+@Chuyên ngành kỹ thuật
+-đôi
+-ghép cặp
+-ghép đôi
+@Lĩnh vực: điện lạnh
+-cặp dây dẫn
+@Lĩnh vực: toán & tin
+-cặp, ghép đôi

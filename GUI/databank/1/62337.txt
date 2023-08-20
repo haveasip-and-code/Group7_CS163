@@ -1,3 +1,59 @@
-wall
-	@wall /wɔ:l/\n*  danh từ\n- tường, vách\n=blank wall+ tường liền không cửa; tường không trang trí\n=a wall of partition+ vách ngăn\n- thàn, thành luỹ, thành quách\n=the Great Wall of China+ vạn lý trường thành\n=within the wall+ ở trong thành\n=without the wall+ ở ngoại thành\n=a wall of bayonets+ (nghĩa bóng) một bức thành lưỡi lê\n- lối đi sát tường nhà trên hè đường\n=to give somebody the wall+ nhường lối đi sát bờ tường trên hè đường cho ai; nhường lối đi tốt cho ai; nhường bước cho ai\n=to take the wall of+ tranh lấy lối đi tốt của\n- rặng cây ăn quả dựa vào tường; bức tường có cây ăn quả dựa vào\n- (địa lý,địa chất) vách ngoài vỉa\n- (giải phẫu) thành\n=wall of the heart+ thành tim\n!to go to the wall\n- bị gạt bỏ\n- bị phá sản, khánh kiệt; thất bại\n!to push (drive) somebody to the wall\n- dồn ai vào chân tường, dồn ai vào thế bí\n!to run one's head against a wall\n- húc đầu vào tường ((nghĩa đen) & (nghĩa bóng))\n!to see through brick wall\n- (xem) see\n!walls have ears\n- (xem) ear\n!the weakest goes to the wall\n- khôn sống vống chết\n!with one's back against (to) the wall\n- (xem) back\n*  ngoại động từ\n- xây tường bao quanh, xây thành bao quanh\n!to wall in\n- xây tường xung quanh\n!to wall off\n- ngăn bằng một bức tường\n!to wall up\n- xây bịt lại\n=to wall up an aperture+ xây bịt một lỗ hổng\n@Chuyên ngành kỹ thuật\n-bờ\n-liếp ngăn\n-lũy\n-màn chắn\n-tấm chắn\n-tường cánh\n-tường chắn\n-vách\n-vách chắn\n-vỏ cách\n-xây tường\n@Lĩnh vực: xây dựng\n-thành (bể)\n@Lĩnh vực: cơ khí & công trình\n-thành hay má (vỏ xe)\n@Lĩnh vực: y học\n-vách, thành, tường
-
+wall	@wall /wɔ:l/
+*  danh từ
+- tường, vách
+=blank wall+ tường liền không cửa; tường không trang trí
+=a wall of partition+ vách ngăn
+- thàn, thành luỹ, thành quách
+=the Great Wall of China+ vạn lý trường thành
+=within the wall+ ở trong thành
+=without the wall+ ở ngoại thành
+=a wall of bayonets+ (nghĩa bóng) một bức thành lưỡi lê
+- lối đi sát tường nhà trên hè đường
+=to give somebody the wall+ nhường lối đi sát bờ tường trên hè đường cho ai; nhường lối đi tốt cho ai; nhường bước cho ai
+=to take the wall of+ tranh lấy lối đi tốt của
+- rặng cây ăn quả dựa vào tường; bức tường có cây ăn quả dựa vào
+- (địa lý,địa chất) vách ngoài vỉa
+- (giải phẫu) thành
+=wall of the heart+ thành tim
+!to go to the wall
+- bị gạt bỏ
+- bị phá sản, khánh kiệt; thất bại
+!to push (drive) somebody to the wall
+- dồn ai vào chân tường, dồn ai vào thế bí
+!to run one's head against a wall
+- húc đầu vào tường ((nghĩa đen) & (nghĩa bóng))
+!to see through brick wall
+- (xem) see
+!walls have ears
+- (xem) ear
+!the weakest goes to the wall
+- khôn sống vống chết
+!with one's back against (to) the wall
+- (xem) back
+*  ngoại động từ
+- xây tường bao quanh, xây thành bao quanh
+!to wall in
+- xây tường xung quanh
+!to wall off
+- ngăn bằng một bức tường
+!to wall up
+- xây bịt lại
+=to wall up an aperture+ xây bịt một lỗ hổng
+@Chuyên ngành kỹ thuật
+-bờ
+-liếp ngăn
+-lũy
+-màn chắn
+-tấm chắn
+-tường cánh
+-tường chắn
+-vách
+-vách chắn
+-vỏ cách
+-xây tường
+@Lĩnh vực: xây dựng
+-thành (bể)
+@Lĩnh vực: cơ khí & công trình
+-thành hay má (vỏ xe)
+@Lĩnh vực: y học
+-vách, thành, tường

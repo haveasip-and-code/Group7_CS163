@@ -1,3 +1,4 @@
-ligand
-	@Chuyên ngành kỹ thuật\n-phối tử\n@Chuyên ngành kỹ thuật\n-phối tử
-
+ligand	@Chuyên ngành kỹ thuật
+-phối tử
+@Chuyên ngành kỹ thuật
+-phối tử

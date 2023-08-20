@@ -1,3 +1,7 @@
-compiling
-	@compiling\n- (Tech) biên dịch\n@Chuyên ngành kỹ thuật\n-sự biên dịch\n@Lĩnh vực: toán & tin\n-sự biên soạn
-
+compiling	
+@compiling
+- (Tech) biên dịch
+@Chuyên ngành kỹ thuật
+-sự biên dịch
+@Lĩnh vực: toán & tin
+-sự biên soạn

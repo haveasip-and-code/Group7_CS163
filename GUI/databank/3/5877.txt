@@ -1,3 +1,2 @@
-bleater
-	@bleater\n- xem bleat
-
+bleater	@bleater
+- xem bleat

@@ -1,3 +1,7 @@
-controlled
-	@controlled\n- được điều chỉnh, được kiểm tra\n@Chuyên ngành kỹ thuật\n-được điều chỉnh\n-được điều khiển\n@Lĩnh vực: toán & tin\n-được kiểm tra
-
+controlled	@controlled
+- được điều chỉnh, được kiểm tra
+@Chuyên ngành kỹ thuật
+-được điều chỉnh
+-được điều khiển
+@Lĩnh vực: toán & tin
+-được kiểm tra

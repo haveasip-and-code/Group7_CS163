@@ -1,3 +1,9 @@
-regrating
-	@Chuyên ngành kinh tế\n-mua chặn\n-mua vét\n-sự Mua vé (để đầu cơ tích trữ)\n-sự mua vét\n@Chuyên ngành kỹ thuật\n-lớp trát phun\n@Lĩnh vực: xây dựng\n-lớp trát sần sủi
-
+regrating	@Chuyên ngành kinh tế
+-mua chặn
+-mua vét
+-sự Mua vé (để đầu cơ tích trữ)
+-sự mua vét
+@Chuyên ngành kỹ thuật
+-lớp trát phun
+@Lĩnh vực: xây dựng
+-lớp trát sần sủi

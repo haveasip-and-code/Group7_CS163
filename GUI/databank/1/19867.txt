@@ -1,3 +1,11 @@
-experimental
-	@experimental /eks,peri'mentl/\n*  tính từ\n- dựa trên thí nghiệm\n- để thí nghiệm\n- thực nghiệm\n=experimental philosophy+ triết học thực nghiệm\n@Chuyên ngành kỹ thuật\n-thí nghiệm\n@Chuyên ngành kỹ thuật\n-thí nghiệm
-
+experimental	
+@experimental /eks,peri'mentl/
+*  tính từ
+- dựa trên thí nghiệm
+- để thí nghiệm
+- thực nghiệm=experimental philosophy
++ triết học thực nghiệm
+@Chuyên ngành kỹ thuật
+-thí nghiệm
+@Chuyên ngành kỹ thuật
+-thí nghiệm

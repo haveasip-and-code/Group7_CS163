@@ -1,3 +1,2 @@
-coproduct
-	@Chuyên ngành kinh tế\n-sản phẩm phụ
-
+coproduct	@Chuyên ngành kinh tế
+-sản phẩm phụ

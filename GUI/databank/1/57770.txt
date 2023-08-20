@@ -1,3 +1,14 @@
-trigeminal
-	@trigeminal\n* danh từ\n- dây thần kinh sinh ba\n- ba cấu trúc\n- cấu trúc bậc ba\n- dây thần kinh sọ V\n* tính từ\n- (thuộc) dây thần kinh sinh ba\n- (thuộc) ba cấu trúc\n- (thuộc) cấu trúc bậc ba\n- (thuộc) dây thần kinh sọ V\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc dây thần kinh sinh ba
-
+trigeminal	@trigeminal
+* danh từ
+- dây thần kinh sinh ba
+- ba cấu trúc
+- cấu trúc bậc ba
+- dây thần kinh sọ V
+* tính từ
+- (thuộc) dây thần kinh sinh ba
+- (thuộc) ba cấu trúc
+- (thuộc) cấu trúc bậc ba
+- (thuộc) dây thần kinh sọ V
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc dây thần kinh sinh ba

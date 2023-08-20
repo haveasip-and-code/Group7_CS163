@@ -1,3 +1,12 @@
-blaster
-	@blaster\n- xem blast\n@Chuyên ngành kỹ thuật\n-dây cháy\n-ngòi nổ\n-máy nổ\n-máy nổ mìn\n-phương tiện nổ mìn\n@Lĩnh vực: điện tử & viễn thông\n-bộ tạo âm\n@Lĩnh vực: xây dựng\n-thiết bị phun (cát)
-
+blaster	@blaster
+- xem blast
+@Chuyên ngành kỹ thuật
+-dây cháy
+-ngòi nổ
+-máy nổ
+-máy nổ mìn
+-phương tiện nổ mìn
+@Lĩnh vực: điện tử & viễn thông
+-bộ tạo âm
+@Lĩnh vực: xây dựng
+-thiết bị phun (cát)

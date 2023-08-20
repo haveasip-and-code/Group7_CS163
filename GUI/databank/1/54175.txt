@@ -1,3 +1,4 @@
-subsample
-	@subsample\n- (thống kê) mẫu con\n@Chuyên ngành kỹ thuật\n-mẫu con
-
+subsample	@subsample
+- (thống kê) mẫu con
+@Chuyên ngành kỹ thuật
+-mẫu con

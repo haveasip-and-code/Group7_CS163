@@ -1,3 +1,77 @@
-extension
-	@extension /iks'tenʃn/\n*  danh từ\n- sự duỗi thẳng ra; sự đưa ra\n- sự kéo dài ra, sự gia hạn; sự mở rộng\n- phần kéo dài, phần mở rộng, phần nối thêm (vào nhà, vào dây nói...)\n=an extension to a factory+ phần mở rộng thêm vào xưởng máy\n- (quân sự) sự dàn rộng ra\n- lớp đại học mở rộng, lớp đại học nhân dân, lớp đại học buổi tối, lớp đại học bằng thư (tổ chức cho những người không phải là học sinh) ((cũng) University Extension)\n- (thể dục,thể thao),  (từ lóng) sự làm dốc hết sức\n- sự dành cho (sự đón tiếp nồng nhiệt...); sự gửi tới (lời chúc tụng...)\n- sự chép ra chữ thường (bản tốc ký)\n- (vật lý) sự giãn, độ giãn\n@Chuyên ngành kinh tế\n-chuyến du lịch mở rộng\n-kéo dài kỳ hạn hữu hiệu (của thư tín dụng)\n-khuếch trương\n-máy phụ (điện thoại)\n-số tiền tính được\n-sự gia hạn\n-sự kéo dài kỳ hạn hữu hiệu (của thư tín dụng)\n-sự khuếch trương\n-sự mở rộng\n-sự triển hạn\n-triển hạn\n@Chuyên ngành kỹ thuật\n-độ giãn\n-kéo dài\n-kích thước\n-mở rộng\n-phần mở rộng\n-quy mô\n-sự giãn\n-sự giãn dài\n-sự giãn nở\n-sự kéo dài\n-sự mở rộng\n@Lĩnh vực: xây dựng\n-độ giãn nở\n-nhà xây thêm\n-phần xây thêm\n-sự gia hạn\n@Lĩnh vực: cơ khí & công trình\n-độ mở rộng\n@Lĩnh vực: toán & tin\n-đuôi mở rộng\n@Lĩnh vực: điện lạnh\n-đường dây trạm\n@Lĩnh vực: giao thông & vận tải\n-gia hạn\n-nới rộng\n@Chuyên ngành kỹ thuật\n-độ giãn\n-kéo dài\n-kích thước\n-mở rộng\n-phần mở rộng\n-quy mô\n-sự giãn\n-sự giãn dài\n-sự giãn nở\n-sự kéo dài\n-sự mở rộng\n@Lĩnh vực: xây dựng\n-độ giãn nở\n-nhà xây thêm\n-phần xây thêm\n-sự gia hạn\n@Lĩnh vực: cơ khí & công trình\n-độ mở rộng\n@Lĩnh vực: toán & tin\n-đuôi mở rộng\n@Lĩnh vực: điện lạnh\n-đường dây trạm\n@Lĩnh vực: giao thông & vận tải\n-gia hạn\n-nới rộng
-
+extension	
+@extension /iks'tenʃn/
+*  danh từ
+- sự duỗi thẳng ra; sự đưa ra
+- sự kéo dài ra, sự gia hạn; sự mở rộng
+- phần kéo dài, phần mở rộng, phần nối thêm (vào nhà, vào dây nói...)=an extension to a factory
++ phần mở rộng thêm vào xưởng máy
+- (quân sự) sự dàn rộng ra
+- lớp đại học mở rộng, lớp đại học nhân dân, lớp đại học buổi tối, lớp đại học bằng thư (tổ chức cho những người không phải là học sinh) ((cũng) University Extension)
+- (thể dục,thể thao),  (từ lóng) sự làm dốc hết sức
+- sự dành cho (sự đón tiếp nồng nhiệt...); sự gửi tới (lời chúc tụng...)
+- sự chép ra chữ thường (bản tốc ký)
+- (vật lý) sự giãn, độ giãn
+@Chuyên ngành kinh tế
+-chuyến du lịch mở rộng
+-kéo dài kỳ hạn hữu hiệu (của thư tín dụng)
+-khuếch trương
+-máy phụ (điện thoại)
+-số tiền tính được
+-sự gia hạn
+-sự kéo dài kỳ hạn hữu hiệu (của thư tín dụng)
+-sự khuếch trương
+-sự mở rộng
+-sự triển hạn
+-triển hạn
+@Chuyên ngành kỹ thuật
+-độ giãn
+-kéo dài
+-kích thước
+-mở rộng
+-phần mở rộng
+-quy mô
+-sự giãn
+-sự giãn dài
+-sự giãn nở
+-sự kéo dài
+-sự mở rộng
+@Lĩnh vực: xây dựng
+-độ giãn nở
+-nhà xây thêm
+-phần xây thêm
+-sự gia hạn
+@Lĩnh vực: cơ khí & công trình
+-độ mở rộng
+@Lĩnh vực: toán & tin
+-đuôi mở rộng
+@Lĩnh vực: điện lạnh
+-đường dây trạm
+@Lĩnh vực: giao thông & vận tải
+-gia hạn
+-nới rộng
+@Chuyên ngành kỹ thuật
+-độ giãn
+-kéo dài
+-kích thước
+-mở rộng
+-phần mở rộng
+-quy mô
+-sự giãn
+-sự giãn dài
+-sự giãn nở
+-sự kéo dài
+-sự mở rộng
+@Lĩnh vực: xây dựng
+-độ giãn nở
+-nhà xây thêm
+-phần xây thêm
+-sự gia hạn
+@Lĩnh vực: cơ khí & công trình
+-độ mở rộng
+@Lĩnh vực: toán & tin
+-đuôi mở rộng
+@Lĩnh vực: điện lạnh
+-đường dây trạm
+@Lĩnh vực: giao thông & vận tải
+-gia hạn
+-nới rộng

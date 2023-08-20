@@ -1,3 +1,4 @@
-predigest
-	@predigest\n* động từ\n- nấu nướng (thức ăn) làm sao cho dễ tiêu hoá\n- viết (sách ) làm sao cho dễ hiểu
-
+predigest	@predigest
+* động từ
+- nấu nướng (thức ăn) làm sao cho dễ tiêu hoá
+- viết (sách ) làm sao cho dễ hiểu

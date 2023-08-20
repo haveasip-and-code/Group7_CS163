@@ -1,3 +1,28 @@
-exhaustion
-	@exhaustion /ig'zɔ:stʃn/\n*  danh từ\n- (kỹ thuật) sự hút, sự hút hết; sự làm chân không, sự rút khí\n- sự làm kiệt; sự dốc hết, sự dùng hết\n- tình trạng mệt lử, tình trạng kiệt sức\n- tình trạng kiệt quệ, tình trạng bạc màu\n- (toán học) phép vét kiệt; phép khử liên tiếp\n- sự bàn hết khía cạnh, sự nghiên cứu hết mọi mặt (một vấn đề)\n@Chuyên ngành kinh tế\n-sự hút khí\n-sự làm thoát khí\n@Chuyên ngành kỹ thuật\n-hút ra\n-sự rút khí\n-xả khí\n@Lĩnh vực: hóa học & vật liệu\n-sự hút khí\n@Lĩnh vực: toán & tin\n-sự vét kiệt\n@Chuyên ngành kỹ thuật\n-hút ra\n-sự rút khí\n-xả khí\n@Lĩnh vực: hóa học & vật liệu\n-sự hút khí\n@Lĩnh vực: toán & tin\n-sự vét kiệt
-
+exhaustion	
+@exhaustion /ig'zɔ:stʃn/
+*  danh từ
+- (kỹ thuật) sự hút, sự hút hết; sự làm chân không, sự rút khí
+- sự làm kiệt; sự dốc hết, sự dùng hết
+- tình trạng mệt lử, tình trạng kiệt sức
+- tình trạng kiệt quệ, tình trạng bạc màu
+- (toán học) phép vét kiệt; phép khử liên tiếp
+- sự bàn hết khía cạnh, sự nghiên cứu hết mọi mặt (một vấn đề)
+@Chuyên ngành kinh tế
+-sự hút khí
+-sự làm thoát khí
+@Chuyên ngành kỹ thuật
+-hút ra
+-sự rút khí
+-xả khí
+@Lĩnh vực: hóa học & vật liệu
+-sự hút khí
+@Lĩnh vực: toán & tin
+-sự vét kiệt
+@Chuyên ngành kỹ thuật
+-hút ra
+-sự rút khí
+-xả khí
+@Lĩnh vực: hóa học & vật liệu
+-sự hút khí
+@Lĩnh vực: toán & tin
+-sự vét kiệt

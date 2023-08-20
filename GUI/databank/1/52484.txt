@@ -1,3 +1,4 @@
-spirochetosis
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh spirochaeta\n-bệnh xoắn khuẩn
-
+spirochetosis	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh spirochaeta
+-bệnh xoắn khuẩn

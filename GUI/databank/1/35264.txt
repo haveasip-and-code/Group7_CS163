@@ -1,3 +1,35 @@
-mix
-	@mix /miks/\n*  ngoại động từ\n- trộn, trộn lẫn, pha lẫn, hoà lẫn\n=to mix a dish of salad+ trộn món rau xà lách\n- pha\n=to mix drugds+ pha thuốc\n*  nội động từ\n- hợp vào, lẫn vào, hoà lẫn vào\n- ((thường) + with) dính dáng, giao thiệp, hợp tác\n=he doesn't mix well+ anh ấy không khéo giao thiệp\n- (từ lóng) thụi nhau tới tấp (quyền Anh)\n- bị lai giống\n!to mix up\n- trộn đều, hoà đều\n- dính dáng vào\n=to be mixed up in an affair+ có dính dáng vào việc gì, có liên can vào việc gì\n- lộn xộn, bối rối, rắc rối\n=it is all mixed up in my memory+ tất cả những cái đó lộn xộn trong ký ức\n=to be al mixed up+ bối rối vô cùng\n@Chuyên ngành kinh tế\n-hỗn hợp\n-hợp chất\n-pha trộn\n-trộn lẫn\n-vật hỗn hợp\n@Chuyên ngành kỹ thuật\n-hỗn hợp\n-lồng trộn\n-nhào trộn\n-pha\n-pha trộn\n@Lĩnh vực: toán & tin\n-hòa trộn\n@Lĩnh vực: cơ khí & công trình\n-trộn (hồ)
-
+mix	@mix /miks/
+*  ngoại động từ
+- trộn, trộn lẫn, pha lẫn, hoà lẫn
+=to mix a dish of salad+ trộn món rau xà lách
+- pha
+=to mix drugds+ pha thuốc
+*  nội động từ
+- hợp vào, lẫn vào, hoà lẫn vào
+- ((thường) + with) dính dáng, giao thiệp, hợp tác
+=he doesn't mix well+ anh ấy không khéo giao thiệp
+- (từ lóng) thụi nhau tới tấp (quyền Anh)
+- bị lai giống
+!to mix up
+- trộn đều, hoà đều
+- dính dáng vào
+=to be mixed up in an affair+ có dính dáng vào việc gì, có liên can vào việc gì
+- lộn xộn, bối rối, rắc rối
+=it is all mixed up in my memory+ tất cả những cái đó lộn xộn trong ký ức
+=to be al mixed up+ bối rối vô cùng
+@Chuyên ngành kinh tế
+-hỗn hợp
+-hợp chất
+-pha trộn
+-trộn lẫn
+-vật hỗn hợp
+@Chuyên ngành kỹ thuật
+-hỗn hợp
+-lồng trộn
+-nhào trộn
+-pha
+-pha trộn
+@Lĩnh vực: toán & tin
+-hòa trộn
+@Lĩnh vực: cơ khí & công trình
+-trộn (hồ)

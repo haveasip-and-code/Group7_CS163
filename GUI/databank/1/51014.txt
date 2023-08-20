@@ -1,3 +1,12 @@
-skipper
-	@skipper /'skipə/\n*  danh từ\n- người nhảy dây\n- người đọc sách hay bỏ quãng\n- (động vật học) bướm nâu\n- (động vật học) cá thu đao\n- thuyền trưởng\n- (hàng không) hoa tiêu trưởng\n- (thể dục,thể thao) đội trưởng, thủ quân\n@Chuyên ngành kinh tế\n-bướm nâu\n-cá thu đao
-
+skipper	@skipper /'skipə/
+*  danh từ
+- người nhảy dây
+- người đọc sách hay bỏ quãng
+- (động vật học) bướm nâu
+- (động vật học) cá thu đao
+- thuyền trưởng
+- (hàng không) hoa tiêu trưởng
+- (thể dục,thể thao) đội trưởng, thủ quân
+@Chuyên ngành kinh tế
+-bướm nâu
+-cá thu đao

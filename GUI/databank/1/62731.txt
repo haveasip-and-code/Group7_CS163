@@ -1,3 +1,13 @@
-wetting
-	@wetting /'weti /\n*  danh từ\n- sự làm ướt, sự thấm nước, sự dấp nước\n=to get a wetting+ bị ướt sạch\n@Chuyên ngành kỹ thuật\n-sự làm ẩm\n-sự làm ướt\n-sự nhúng nước\n-sự thấm ướt\n@Lĩnh vực: cơ khí & công trình\n-sự tẩm ướt\n@Lĩnh vực: điện lạnh\n-sự ướt tiếp điểm
-
+wetting	@wetting /'weti /
+*  danh từ
+- sự làm ướt, sự thấm nước, sự dấp nước
+=to get a wetting+ bị ướt sạch
+@Chuyên ngành kỹ thuật
+-sự làm ẩm
+-sự làm ướt
+-sự nhúng nước
+-sự thấm ướt
+@Lĩnh vực: cơ khí & công trình
+-sự tẩm ướt
+@Lĩnh vực: điện lạnh
+-sự ướt tiếp điểm

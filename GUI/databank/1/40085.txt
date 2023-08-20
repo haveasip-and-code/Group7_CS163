@@ -1,3 +1,23 @@
-pavement
-	@pavement /'peivmənt/\n*  danh từ\n- mặt lát (đường, sàn...)\n- vỉa hè, hè đường\n@Chuyên ngành kỹ thuật\n-áo đường\n-cái lát\n-đường đi bộ\n-lớp bảo vệ\n-lớp đường\n-lớp lát mặt đường\n-lớp mặt\n-mặt đường\n-mặt lát\n-vỉa hè\n@Lĩnh vực: xây dựng\n-đường có rải mặt\n-đường lát\n-vỉa hè bờ đường\n@Lĩnh vực: giao thông & vận tải\n-lề đường (phố)\n@Lĩnh vực: hóa học & vật liệu\n-mặt lát (đường)
-
+pavement	@pavement /'peivmənt/
+*  danh từ
+- mặt lát (đường, sàn...)
+- vỉa hè, hè đường
+@Chuyên ngành kỹ thuật
+-áo đường
+-cái lát
+-đường đi bộ
+-lớp bảo vệ
+-lớp đường
+-lớp lát mặt đường
+-lớp mặt
+-mặt đường
+-mặt lát
+-vỉa hè
+@Lĩnh vực: xây dựng
+-đường có rải mặt
+-đường lát
+-vỉa hè bờ đường
+@Lĩnh vực: giao thông & vận tải
+-lề đường (phố)
+@Lĩnh vực: hóa học & vật liệu
+-mặt lát (đường)

@@ -1,3 +1,28 @@
-sprinkler
-	@sprinkler /'spriɳklə/\n*  danh từ\n- bình tưới nước\n!street sprinkler\n- xe ô tô tưới đường\n@Chuyên ngành kinh tế\n-bơm vòi hoa sen\n-thiết bị phun\n-vòi phun\n@Chuyên ngành kỹ thuật\n-bình phun\n-bình tưới, bình phun\n-súng phun\n-thiết bị phun\n-vòi phun nước\n@Lĩnh vực: điện\n-bình phun dập lửa\n-đầu phun nước\n@Lĩnh vực: cơ khí & công trình\n-bộ phận tưới (phun)\n-cái phun\n@Lĩnh vực: hóa học & vật liệu\n-máy tưới\n@Lĩnh vực: xây dựng\n-thiết bị phun (chủ yếu để rập tắt lửa)\n-thiết bị phun nước\n-thiết bị tưới nước\n-xe phun nước
-
+sprinkler	@sprinkler /'spriɳklə/
+*  danh từ
+- bình tưới nước
+!street sprinkler
+- xe ô tô tưới đường
+@Chuyên ngành kinh tế
+-bơm vòi hoa sen
+-thiết bị phun
+-vòi phun
+@Chuyên ngành kỹ thuật
+-bình phun
+-bình tưới, bình phun
+-súng phun
+-thiết bị phun
+-vòi phun nước
+@Lĩnh vực: điện
+-bình phun dập lửa
+-đầu phun nước
+@Lĩnh vực: cơ khí & công trình
+-bộ phận tưới (phun)
+-cái phun
+@Lĩnh vực: hóa học & vật liệu
+-máy tưới
+@Lĩnh vực: xây dựng
+-thiết bị phun (chủ yếu để rập tắt lửa)
+-thiết bị phun nước
+-thiết bị tưới nước
+-xe phun nước

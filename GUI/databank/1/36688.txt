@@ -1,3 +1,9 @@
-news
-	@news /nju:z/\n*  danh từ,  số nhiều dùng như số ít\n- tin, tin tức\n=good news+ tin mừng, tin vui, tin lành\n=bad news+ tin buồn, tin dữ\n=what's the news?+ có tin tức gì mới?\n=ill news flies apace; bad news travels quickly+ tin dữ lan nhanh\n=no news is good news+ không có tin tức gì là bình yên\n=thats's no news to me+ tôi đã biết tin đó rồi
-
+news	@news /nju:z/
+*  danh từ,  số nhiều dùng như số ít
+- tin, tin tức
+=good news+ tin mừng, tin vui, tin lành
+=bad news+ tin buồn, tin dữ
+=what's the news?+ có tin tức gì mới?
+=ill news flies apace; bad news travels quickly+ tin dữ lan nhanh
+=no news is good news+ không có tin tức gì là bình yên
+=thats's no news to me+ tôi đã biết tin đó rồi

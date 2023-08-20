@@ -1,3 +1,13 @@
-bland
-	@bland /blænd/\n*  tính từ\n- có cử chỉ dịu dàng, lễ phép\n- mỉa mai\n- ôn hoà (khí hậu)\n- ngọt dịu, thơm dịu, thơm tho (rượu, đồ ăn)\n@Chuyên ngành kinh tế\n-ngọt dịu\n-thơm ngọt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-ôn hòa (khí hậu)
-
+bland	
+@bland /blænd/
+*  tính từ
+- có cử chỉ dịu dàng, lễ phép
+- mỉa mai
+- ôn hoà (khí hậu)
+- ngọt dịu, thơm dịu, thơm tho (rượu, đồ ăn)
+@Chuyên ngành kinh tế
+-ngọt dịu
+-thơm ngọt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: môi trường
+-ôn hòa (khí hậu)

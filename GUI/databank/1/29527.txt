@@ -1,3 +1,23 @@
-interval
-	@interval /'intəvəl/\n*  danh từ\n- khoảng (thời gian, không gian), khoảng cách\n- lúc nghỉ, lúc ngớt, lúc ngừng\n- (quân sự) khoảng cách, cự ly\n- (âm nhạc) quãng\n- (toán học) khoảng\n@Chuyên ngành kỹ thuật\n-cự li\n-đoạn\n-khoảng\n-khoảng cách\n-phạm vi\n-quãng\n-quãng cách\n@Lĩnh vực: vật lý\n-khoảng dừng\n-khoảng nghỉ\n@Lĩnh vực: y học\n-khoáng, khoảng cách\n@Lĩnh vực: cơ khí & công trình\n-từng quãng một
-
+interval	
+@interval /'intəvəl/
+*  danh từ
+- khoảng (thời gian, không gian), khoảng cách
+- lúc nghỉ, lúc ngớt, lúc ngừng
+- (quân sự) khoảng cách, cự ly
+- (âm nhạc) quãng
+- (toán học) khoảng
+@Chuyên ngành kỹ thuật
+-cự li
+-đoạn
+-khoảng
+-khoảng cách
+-phạm vi
+-quãng
+-quãng cách
+@Lĩnh vực: vật lý
+-khoảng dừng
+-khoảng nghỉ
+@Lĩnh vực: y học
+-khoáng, khoảng cách
+@Lĩnh vực: cơ khí & công trình
+-từng quãng một

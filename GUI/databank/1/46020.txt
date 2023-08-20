@@ -1,3 +1,4 @@
-reconfigure
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cấu hình lại\n-tái cấu hình
-
+reconfigure	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cấu hình lại
+-tái cấu hình

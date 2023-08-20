@@ -1,3 +1,3 @@
-booted
-	@booted\n- mang giầy kiểu nào đó
-
+booted	
+@booted
+- mang giầy kiểu nào đó

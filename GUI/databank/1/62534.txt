@@ -1,3 +1,9 @@
-waveband
-	@waveband\n* danh từ\n- băng tần (radio)\n@Chuyên ngành kỹ thuật\n-băng tần\n-dải sóng\n-dải tần\n@Lĩnh vực: ô tô\n-băng tần (rađiô)
-
+waveband	@waveband
+* danh từ
+- băng tần (radio)
+@Chuyên ngành kỹ thuật
+-băng tần
+-dải sóng
+-dải tần
+@Lĩnh vực: ô tô
+-băng tần (rađiô)

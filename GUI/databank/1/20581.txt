@@ -1,3 +1,7 @@
-faxing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự gửi fax\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự gửi fax
-
+faxing	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự gửi fax
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự gửi fax

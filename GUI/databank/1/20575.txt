@@ -1,3 +1,42 @@
-favour
-	@favour /'feivə/\n*  danh từ\n- thiện ý; sự quý mến\n=to find favour in the eyes of+ được quý mến\n=out of favour+ không được quý mến\n- sự đồng ý, sự thuận ý\n- sự chiếu cố; sự thiên vị; ân huệ; đặc ân\n=without fear or favour+ không thiên vị\n=should esteem it a favour+ phải coi đó như một ân huệ\n- sự giúp đỡ, sự che chở, sự ủng hộ\n=under favour of night+ nhờ bóng đêm; lợi dụng bóng đêm\n=to be in favour of something+ ủng hộ cái gì\n- vật ban cho; (từ Mỹ,nghĩa Mỹ) quà nhỏ, vật kỷ niệm\n- huy hiệu\n- (thương nghiệp) thư\n=your favour of yesterday+ thư ngài hôm qua\n- sự thứ lỗi; sự cho phép\n=by your favour+ (từ cổ,nghĩa cổ) được phép của ngài; được ngài thứ lỗi\n- (từ cổ,nghĩa cổ) vẻ mặt\n!as a favour\n- không mất tiền\n!to bestow one's favours on someone\n- đồng ý cho ai ăn nằm với mình; "ban ân" cho ai (đàn bà)\n!by favour of...\n- kính nhờ... chuyển\n!to curry favour with somebody\n- (xem) curry\n*  ngoại động từ\n- ưu đâi, biệt đãi, chiếu cố\n- thiên vị\n- bênh vực, giúp đỡ, ủng hộ; tỏ ra có lợi cho (ai); làm dễ dàng cho, làm thuận lợi cho\n- (thông tục) trông giống\n=to favour one's father+ trông giống bố\n- thích dùng (thứ áo, giày... nào; trong văn báo chí)\n!favoured by...\n- kính nhờ... chuyển\n@Chuyên ngành kinh tế\n-ân huệ\n-biệt đãi\n-đặc ân\n-đặc huệ\n-dành đặc ân\n-dành thuận lợi\n-sự chiếu cố\n-sự thuận lợi\n-ưu đãi
-
+favour	
+@favour /'feivə/
+*  danh từ
+- thiện ý; sự quý mến=to find favour in the eyes of
++ được quý mến=out of favour
++ không được quý mến
+- sự đồng ý, sự thuận ý
+- sự chiếu cố; sự thiên vị; ân huệ; đặc ân=without fear or favour
++ không thiên vị=should esteem it a favour
++ phải coi đó như một ân huệ
+- sự giúp đỡ, sự che chở, sự ủng hộ=under favour of night
++ nhờ bóng đêm; lợi dụng bóng đêm=to be in favour of something
++ ủng hộ cái gì
+- vật ban cho; (từ Mỹ,nghĩa Mỹ) quà nhỏ, vật kỷ niệm
+- huy hiệu
+- (thương nghiệp) thư=your favour of yesterday
++ thư ngài hôm qua
+- sự thứ lỗi; sự cho phép=by your favour
++ (từ cổ,nghĩa cổ) được phép của ngài; được ngài thứ lỗi
+- (từ cổ,nghĩa cổ) vẻ mặt!as a favour
+- không mất tiền!to bestow one's favours on someone
+- đồng ý cho ai ăn nằm với mình; "ban ân" cho ai (đàn bà)!by favour of...
+- kính nhờ... chuyển!to curry favour with somebody
+- (xem) curry
+*  ngoại động từ
+- ưu đâi, biệt đãi, chiếu cố
+- thiên vị
+- bênh vực, giúp đỡ, ủng hộ; tỏ ra có lợi cho (ai); làm dễ dàng cho, làm thuận lợi cho
+- (thông tục) trông giống=to favour one's father
++ trông giống bố
+- thích dùng (thứ áo, giày... nào; trong văn báo chí)!favoured by...
+- kính nhờ... chuyển
+@Chuyên ngành kinh tế
+-ân huệ
+-biệt đãi
+-đặc ân
+-đặc huệ
+-dành đặc ân
+-dành thuận lợi
+-sự chiếu cố
+-sự thuận lợi
+-ưu đãi

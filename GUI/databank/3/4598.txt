@@ -1,3 +1,6 @@
-bander
-	@Chuyên ngành kỹ thuật\n-băng\n-đai\n-vành\n@Lĩnh vực: cơ khí & công trình\n-máy đánh đai
-
+bander	@Chuyên ngành kỹ thuật
+-băng
+-đai
+-vành
+@Lĩnh vực: cơ khí & công trình
+-máy đánh đai

@@ -1,3 +1,2 @@
-plumply
-	@plumply\n- xem plump
-
+plumply	@plumply
+- xem plump

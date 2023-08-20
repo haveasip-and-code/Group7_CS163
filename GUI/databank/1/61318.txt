@@ -1,3 +1,17 @@
-vast
-	@vast /vɑ:st/\n*  tính từ\n- rộng lớn, mênh mông, bao la; to lớn ((nghĩa đen) & (nghĩa bóng))\n=a vast expanse of water+ một vùng nước mênh mông\n=a vast mountain+ quả núi lớn\n=a vast sum+ số tiền lớn\n=vast reading+ sự hiểu biết rộng; sự đọc rộng\n*  danh từ\n- (thơ ca); (văn học) khoảng rộng bao la\n=the vast of ocean+ đại dương rộng bao la\n=the vast of heaven+ bầu trời rộng bao la\n@Chuyên ngành kỹ thuật\n-lớn\n-rộng\n@Lĩnh vực: toán & tin\n-rộng, to, lớn\n-tô
-
+vast	@vast /vɑ:st/
+*  tính từ
+- rộng lớn, mênh mông, bao la; to lớn ((nghĩa đen) & (nghĩa bóng))
+=a vast expanse of water+ một vùng nước mênh mông
+=a vast mountain+ quả núi lớn
+=a vast sum+ số tiền lớn
+=vast reading+ sự hiểu biết rộng; sự đọc rộng
+*  danh từ
+- (thơ ca); (văn học) khoảng rộng bao la
+=the vast of ocean+ đại dương rộng bao la
+=the vast of heaven+ bầu trời rộng bao la
+@Chuyên ngành kỹ thuật
+-lớn
+-rộng
+@Lĩnh vực: toán & tin
+-rộng, to, lớn
+-tô

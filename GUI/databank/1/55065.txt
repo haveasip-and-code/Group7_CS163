@@ -1,3 +1,17 @@
-swirl
-	@swirl /swə:l/\n*  danh từ\n- chỗ nước xoáy, chỗ nước cuộn\n- gió xoáy, gió lốc\n*  động từ\n- cuộn, xoáy; cuốn đi, xoáy đi\n@Chuyên ngành kỹ thuật\n-chỗ nước cuộn\n-chỗ nước xoáy\n-cuộn\n-gió lốc\n-gió xoáy\n-sự xoáy\n-xoáy\n-xoáy nước\n@Lĩnh vực: hóa học & vật liệu\n-gió cuộn
-
+swirl	@swirl /swə:l/
+*  danh từ
+- chỗ nước xoáy, chỗ nước cuộn
+- gió xoáy, gió lốc
+*  động từ
+- cuộn, xoáy; cuốn đi, xoáy đi
+@Chuyên ngành kỹ thuật
+-chỗ nước cuộn
+-chỗ nước xoáy
+-cuộn
+-gió lốc
+-gió xoáy
+-sự xoáy
+-xoáy
+-xoáy nước
+@Lĩnh vực: hóa học & vật liệu
+-gió cuộn

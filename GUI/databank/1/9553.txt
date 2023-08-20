@@ -1,3 +1,23 @@
-civil
-	@civil /'sivl/\n*  tính từ\n- (thuộc) công dân\n=civil rights+ quyền công dân\n- (thuộc) thường dân (trái với quân đội)\n- (thuộc) bên đời (trái với bên đạo)\n=civil marriage+ cuộc kết hôn không theo lễ nghi tôn giáo\n- (pháp lý) hộ (thuộc) dân sự (trái với hình)\n=civil law+ luật hộ, luật dân sự\n- lễ phép, lễ độ, lịch sự\n- thường\n=civil day+ ngày thường (trái với ngày thiên văn)\n!Civil Defence\n- tổ chức phòng không nhân dân\n!civil disobedience\n- (Ân) phong trào chống thuế, chống luật pháp\n!civil list\n- tiền nghị viện cấp cho nhà vua Anh\n!to keep a civil tongue in one's head\n- giữ lễ phép, giữ lễ độ\n@Chuyên ngành kinh tế\n-dân chúng\n-dân sự\n-thuộc công dân\n@Chuyên ngành kỹ thuật\n-dân sự
-
+civil	
+@civil /'sivl/
+*  tính từ
+- (thuộc) công dân=civil rights
++ quyền công dân
+- (thuộc) thường dân (trái với quân đội)
+- (thuộc) bên đời (trái với bên đạo)=civil marriage
++ cuộc kết hôn không theo lễ nghi tôn giáo
+- (pháp lý) hộ (thuộc) dân sự (trái với hình)=civil law
++ luật hộ, luật dân sự
+- lễ phép, lễ độ, lịch sự
+- thường=civil day
++ ngày thường (trái với ngày thiên văn)!Civil Defence
+- tổ chức phòng không nhân dân!civil disobedience
+- (Ân) phong trào chống thuế, chống luật pháp!civil list
+- tiền nghị viện cấp cho nhà vua Anh!to keep a civil tongue in one's head
+- giữ lễ phép, giữ lễ độ
+@Chuyên ngành kinh tế
+-dân chúng
+-dân sự
+-thuộc công dân
+@Chuyên ngành kỹ thuật
+-dân sự

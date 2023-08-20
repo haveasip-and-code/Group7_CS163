@@ -1,3 +1,6 @@
-dewaxed
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đã loại parafin\n-đã loại sáp\n-đã tách parafin
-
+dewaxed	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đã loại parafin
+-đã loại sáp
+-đã tách parafin

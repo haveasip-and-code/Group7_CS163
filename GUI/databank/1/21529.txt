@@ -1,3 +1,6 @@
-florist
-	@florist /florist/\n*  danh từ\n- người bán hoa\n- người trồng hoa\n- người nghiên cứu hoa
-
+florist	
+@florist /florist/
+*  danh từ
+- người bán hoa
+- người trồng hoa
+- người nghiên cứu hoa

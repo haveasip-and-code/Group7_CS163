@@ -1,3 +1,18 @@
-latching
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cài chốt\n@Lĩnh vực: hóa học & vật liệu\n-sự cài chốt\n-sự tra chốt\n@Lĩnh vực: điện\n-sự chốt lại\n-sự khóa lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cài chốt\n@Lĩnh vực: hóa học & vật liệu\n-sự cài chốt\n-sự tra chốt\n@Lĩnh vực: điện\n-sự chốt lại\n-sự khóa lại
-
+latching	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-cài chốt
+@Lĩnh vực: hóa học & vật liệu
+-sự cài chốt
+-sự tra chốt
+@Lĩnh vực: điện
+-sự chốt lại
+-sự khóa lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-cài chốt
+@Lĩnh vực: hóa học & vật liệu
+-sự cài chốt
+-sự tra chốt
+@Lĩnh vực: điện
+-sự chốt lại
+-sự khóa lại

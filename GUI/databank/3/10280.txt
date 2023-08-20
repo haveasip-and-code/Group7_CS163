@@ -1,3 +1,2 @@
-collectorship
-	@collectorship\n- xem collector
-
+collectorship	@collectorship
+- xem collector

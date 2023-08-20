@@ -1,3 +1,2 @@
-rails
-	@Chuyên ngành kinh tế\n-chứng khoán đường sắt
-
+rails	@Chuyên ngành kinh tế
+-chứng khoán đường sắt

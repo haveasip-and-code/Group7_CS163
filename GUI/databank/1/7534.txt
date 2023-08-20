@@ -1,3 +1,5 @@
-calendaring
-	@Chuyên ngành kinh tế\n-việc đánh dấu lịch\n@Chuyên ngành kỹ thuật\n-sự cán láng
-
+calendaring	
+@Chuyên ngành kinh tế
+-việc đánh dấu lịch
+@Chuyên ngành kỹ thuật
+-sự cán láng

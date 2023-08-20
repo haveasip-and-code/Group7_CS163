@@ -1,3 +1,2 @@
-criticalness
-	@criticalness\n- xem critical
-
+criticalness	@criticalness
+- xem critical

@@ -1,3 +1,6 @@
-trimmings
-	@Chuyên ngành kinh tế\n-đồ phụ tùng\n@Chuyên ngành kỹ thuật\n-biên giấy\n-phoi bào\n-phoi cắt
-
+trimmings	@Chuyên ngành kinh tế
+-đồ phụ tùng
+@Chuyên ngành kỹ thuật
+-biên giấy
+-phoi bào
+-phoi cắt

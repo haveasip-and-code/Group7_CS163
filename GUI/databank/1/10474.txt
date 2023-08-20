@@ -1,3 +1,5 @@
-comics
-	@comics\n* danh từ\n- truyện tranh\n- văn học rẻ tiền
-
+comics	
+@comics
+* danh từ
+- truyện tranh
+- văn học rẻ tiền

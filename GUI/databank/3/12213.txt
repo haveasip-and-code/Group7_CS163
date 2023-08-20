@@ -1,3 +1,7 @@
-countdown
-	@countdown\n- (Tech) đếm ngược\n@Chuyên ngành kỹ thuật\n-máy đếm ngược\n@Lĩnh vực: điện tử & viễn thông\n-đếm lui ngược\n-đếm thụt lùi
-
+countdown	@countdown
+- (Tech) đếm ngược
+@Chuyên ngành kỹ thuật
+-máy đếm ngược
+@Lĩnh vực: điện tử & viễn thông
+-đếm lui ngược
+-đếm thụt lùi

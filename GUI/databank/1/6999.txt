@@ -1,3 +1,13 @@
-bucker
-	@bucker\n- xem buck\n@Chuyên ngành kinh tế\n-máy nghiền\n-máy tán\n@Chuyên ngành kỹ thuật\n-búa nghiền\n@Lĩnh vực: hóa học & vật liệu\n-búa nghiền quặng\n-công nhân nghiền quặng\n@Lĩnh vực: cơ khí & công trình\n-thợ nghiền
-
+bucker	
+@bucker
+- xem buck
+@Chuyên ngành kinh tế
+-máy nghiền
+-máy tán
+@Chuyên ngành kỹ thuật
+-búa nghiền
+@Lĩnh vực: hóa học & vật liệu
+-búa nghiền quặng
+-công nhân nghiền quặng
+@Lĩnh vực: cơ khí & công trình
+-thợ nghiền

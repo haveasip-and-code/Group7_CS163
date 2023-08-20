@@ -1,3 +1,9 @@
-scalar
-	@scalar /'skeilə/\n*  tính từ\n- (toán học) vô hướng\n@Chuyên ngành kỹ thuật\n-đại lượng vô hướng\n-thang đo\n-vô hướng\n@Lĩnh vực: toán & tin\n-lượng vô hướng
-
+scalar	@scalar /'skeilə/
+*  tính từ
+- (toán học) vô hướng
+@Chuyên ngành kỹ thuật
+-đại lượng vô hướng
+-thang đo
+-vô hướng
+@Lĩnh vực: toán & tin
+-lượng vô hướng

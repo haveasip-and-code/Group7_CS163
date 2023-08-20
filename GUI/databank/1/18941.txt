@@ -1,3 +1,24 @@
-erasure
-	@erasure\n* danh từ\n- sự xoá, sự xoá bỏ\n- vết xoá, vết cạo\n@Chuyên ngành kinh tế\n-sự xóa\n-vết xóa\n@Chuyên ngành kỹ thuật\n-dọn dẹp\n-sự khử\n-sự xóa\n-vết xóa\n-xóa\n@Lĩnh vực: điện tử & viễn thông\n-sự xóa đi\n@Chuyên ngành kỹ thuật\n-dọn dẹp\n-sự khử\n-sự xóa\n-vết xóa\n-xóa\n@Lĩnh vực: điện tử & viễn thông\n-sự xóa đi
-
+erasure	
+@erasure
+* danh từ
+- sự xoá, sự xoá bỏ
+- vết xoá, vết cạo
+@Chuyên ngành kinh tế
+-sự xóa
+-vết xóa
+@Chuyên ngành kỹ thuật
+-dọn dẹp
+-sự khử
+-sự xóa
+-vết xóa
+-xóa
+@Lĩnh vực: điện tử & viễn thông
+-sự xóa đi
+@Chuyên ngành kỹ thuật
+-dọn dẹp
+-sự khử
+-sự xóa
+-vết xóa
+-xóa
+@Lĩnh vực: điện tử & viễn thông
+-sự xóa đi

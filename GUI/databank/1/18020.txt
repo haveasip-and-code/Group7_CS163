@@ -1,3 +1,9 @@
-emphatic
-	@emphatic /im'fætik/\n*  tính từ\n- nhấn mạnh, nhấn giọng\n- (ngôn ngữ học) mang trọng âm (âm tiết)\n- mạnh mẽ, dứt khoát (hành động)\n=an emphatic refusal+ sự từ chối dứt khoát\n- rõ ràng, rành rành\n=an emphatic defeat+ sự thất bại rõ ràng
-
+emphatic	
+@emphatic /im'fætik/
+*  tính từ
+- nhấn mạnh, nhấn giọng
+- (ngôn ngữ học) mang trọng âm (âm tiết)
+- mạnh mẽ, dứt khoát (hành động)=an emphatic refusal
++ sự từ chối dứt khoát
+- rõ ràng, rành rành=an emphatic defeat
++ sự thất bại rõ ràng

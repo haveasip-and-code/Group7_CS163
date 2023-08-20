@@ -1,3 +1,17 @@
-ensure
-	@ensure /in'ʃuə/\n*  ngoại động từ\n- bảo đảm\n- giành được chắc chắn (cái gì) (cho ai)\n- (từ cổ,nghĩa cổ) bảo hiểm\n@Chuyên ngành kinh tế\n-bảo đảm\n-bảo hiểm\n@Chuyên ngành kỹ thuật\n-bảo đảm\n-đảm bảo\n-làm chắc\n@Chuyên ngành kỹ thuật\n-bảo đảm\n-đảm bảo\n-làm chắc
-
+ensure	
+@ensure /in'ʃuə/
+*  ngoại động từ
+- bảo đảm
+- giành được chắc chắn (cái gì) (cho ai)
+- (từ cổ,nghĩa cổ) bảo hiểm
+@Chuyên ngành kinh tế
+-bảo đảm
+-bảo hiểm
+@Chuyên ngành kỹ thuật
+-bảo đảm
+-đảm bảo
+-làm chắc
+@Chuyên ngành kỹ thuật
+-bảo đảm
+-đảm bảo
+-làm chắc

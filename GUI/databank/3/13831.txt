@@ -1,3 +1,2 @@
-decisional
-	@decisional\n- xem decision
-
+decisional	@decisional
+- xem decision

@@ -1,3 +1,8 @@
-lefter
-	@Chuyên ngành kỹ thuật\n-dụng cụ tháo\n@Lĩnh vực: xây dựng\n-đồ tháo\n@Chuyên ngành kỹ thuật\n-dụng cụ tháo\n@Lĩnh vực: xây dựng\n-đồ tháo
-
+lefter	@Chuyên ngành kỹ thuật
+-dụng cụ tháo
+@Lĩnh vực: xây dựng
+-đồ tháo
+@Chuyên ngành kỹ thuật
+-dụng cụ tháo
+@Lĩnh vực: xây dựng
+-đồ tháo

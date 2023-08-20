@@ -1,3 +1,14 @@
-labeled
-	@Chuyên ngành kỹ thuật\n-đánh dấu\n-được đánh dấu\n@Lĩnh vực: toán & tin\n-băng có nhãn\n@Lĩnh vực: hóa học & vật liệu\n-được dán nhãn\n@Chuyên ngành kỹ thuật\n-đánh dấu\n-được đánh dấu\n@Lĩnh vực: toán & tin\n-băng có nhãn\n@Lĩnh vực: hóa học & vật liệu\n-được dán nhãn
-
+labeled	@Chuyên ngành kỹ thuật
+-đánh dấu
+-được đánh dấu
+@Lĩnh vực: toán & tin
+-băng có nhãn
+@Lĩnh vực: hóa học & vật liệu
+-được dán nhãn
+@Chuyên ngành kỹ thuật
+-đánh dấu
+-được đánh dấu
+@Lĩnh vực: toán & tin
+-băng có nhãn
+@Lĩnh vực: hóa học & vật liệu
+-được dán nhãn

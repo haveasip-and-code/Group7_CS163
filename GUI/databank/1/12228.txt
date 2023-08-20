@@ -1,3 +1,7 @@
-countercurrent
-	@Chuyên ngành kỹ thuật\n-đối lưu\n-dòng ngược\n@Lĩnh vực: điện\n-dòng điện ngược\n-ngược dòng
-
+countercurrent	
+@Chuyên ngành kỹ thuật
+-đối lưu
+-dòng ngược
+@Lĩnh vực: điện
+-dòng điện ngược
+-ngược dòng

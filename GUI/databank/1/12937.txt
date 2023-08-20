@@ -1,3 +1,15 @@
-cubage
-	@cubage /'kju:bidʤ/ (cubature) /'kju:bətʃə/\n*  danh từ\n- phép tính thể tích\n@Chuyên ngành kinh tế\n-thể tích\n@Chuyên ngành kỹ thuật\n-dung tích\n-khối lượng\n-khối tích\n-số đo thể tích\n@Lĩnh vực: toán & tin\n-phép tìm thể tích\n@Lĩnh vực: xây dựng\n-thể khối
-
+cubage	
+@cubage /'kju:bidʤ/ (cubature) /'kju:bətʃə/
+*  danh từ
+- phép tính thể tích
+@Chuyên ngành kinh tế
+-thể tích
+@Chuyên ngành kỹ thuật
+-dung tích
+-khối lượng
+-khối tích
+-số đo thể tích
+@Lĩnh vực: toán & tin
+-phép tìm thể tích
+@Lĩnh vực: xây dựng
+-thể khối

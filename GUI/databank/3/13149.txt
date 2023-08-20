@@ -1,3 +1,2 @@
-curser
-	@curser\n- xem curse
-
+curser	@curser
+- xem curse

@@ -1,3 +1,2 @@
-weights
-	@Chuyên ngành kỹ thuật\n-quả cân
-
+weights	@Chuyên ngành kỹ thuật
+-quả cân

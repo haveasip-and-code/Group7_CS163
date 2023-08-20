@@ -1,3 +1,7 @@
-spiv
-	@spiv /spiv/\n*  danh từ\n- (từ lóng) dân phe phẩy; dân chợ đen\n@Chuyên ngành kinh tế\n-dân áp phe\n-dân chợ đen\n-dân phe phẩy
-
+spiv	@spiv /spiv/
+*  danh từ
+- (từ lóng) dân phe phẩy; dân chợ đen
+@Chuyên ngành kinh tế
+-dân áp phe
+-dân chợ đen
+-dân phe phẩy

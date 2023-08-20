@@ -1,3 +1,44 @@
-bucket
-	@bucket /'bʌkit/\n*  danh từ\n- thùng, xô (để múc nước)\n- pittông (ống bơm)\n- gầu (ở guồng nước)\n- lỗ căm (roi, súng, chân giả...)\n!to give the bucket\n- đuổi ra không cho làm, sa thải\n!to kick the bucket\n- (từ lóng) củ, ngoẻo\n*  động từ\n- bắt (ngựa) chạy quá sức\n- chèo (thuyền) vội vàng\n@Chuyên ngành kinh tế\n-gầu\n-thùng\n@Chuyên ngành kỹ thuật\n-cánh\n-gáo\n-gàu\n-gầu múc\n-gàu vét bùn\n-gàu xúc\n-khoang hút\n-lá cánh quạt\n-ngăn chứa\n-pittông\n-xô\n@Lĩnh vực: toán & tin\n-bộ chứa\n-vật chứa\n-vùng chứa\n@Lĩnh vực: cơ khí & công trình\n-cánh (tuabin)\n-gầu xúc đất\n-thùng gầu\n@Lĩnh vực: vật lý\n-gàu cánh quạt\n@Lĩnh vực: xây dựng\n-gàu chân đập tràn\n-gầu múc đất\n-thùng cào đất\n@Lĩnh vực: điện tử & viễn thông\n-thùng nén
-
+bucket	@bucket /'bʌkit/
+*  danh từ
+- thùng, xô (để múc nước)
+- pittông (ống bơm)
+- gầu (ở guồng nước)
+- lỗ căm (roi, súng, chân giả...)
+!to give the bucket
+- đuổi ra không cho làm, sa thải
+!to kick the bucket
+- (từ lóng) củ, ngoẻo
+*  động từ
+- bắt (ngựa) chạy quá sức
+- chèo (thuyền) vội vàng
+@Chuyên ngành kinh tế
+-gầu
+-thùng
+@Chuyên ngành kỹ thuật
+-cánh
+-gáo
+-gàu
+-gầu múc
+-gàu vét bùn
+-gàu xúc
+-khoang hút
+-lá cánh quạt
+-ngăn chứa
+-pittông
+-xô
+@Lĩnh vực: toán & tin
+-bộ chứa
+-vật chứa
+-vùng chứa
+@Lĩnh vực: cơ khí & công trình
+-cánh (tuabin)
+-gầu xúc đất
+-thùng gầu
+@Lĩnh vực: vật lý
+-gàu cánh quạt
+@Lĩnh vực: xây dựng
+-gàu chân đập tràn
+-gầu múc đất
+-thùng cào đất
+@Lĩnh vực: điện tử & viễn thông
+-thùng nén

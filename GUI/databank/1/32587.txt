@@ -1,3 +1,11 @@
-locknut
-	@Chuyên ngành kỹ thuật\n-đai ốc hãm\n-đai ốc khóa\n-đai ốc siết\n-êcu công\n-êcu hãm\n-sự đóng lại\n-sự khóa lại\n-sự ngăn chặn\n@Lĩnh vực: cơ khí & công trình\n-ốc công
-
+locknut	@Chuyên ngành kỹ thuật
+-đai ốc hãm
+-đai ốc khóa
+-đai ốc siết
+-êcu công
+-êcu hãm
+-sự đóng lại
+-sự khóa lại
+-sự ngăn chặn
+@Lĩnh vực: cơ khí & công trình
+-ốc công

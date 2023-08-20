@@ -1,3 +1,14 @@
-photocopy
-	@photocopy\n* danh từ\n- bản sao chụp\n* ngoại động từ(pied)\n- sao chụp\n@Chuyên ngành kinh tế\n-bản chụp pho-tô\n-bản chụp phô-tô\n-bản sao chụp\n-chụp phô-tô\n-phô-tô\n-sao chụp\n@Chuyên ngành kỹ thuật\n-sự sao chụp
-
+photocopy	@photocopy
+* danh từ
+- bản sao chụp
+* ngoại động từ(pied)
+- sao chụp
+@Chuyên ngành kinh tế
+-bản chụp pho-tô
+-bản chụp phô-tô
+-bản sao chụp
+-chụp phô-tô
+-phô-tô
+-sao chụp
+@Chuyên ngành kỹ thuật
+-sự sao chụp

@@ -1,3 +1,7 @@
-uncap
-	@uncap\n* ngoại động từ\n- bỏ mũ (để chào)\n- mở nắp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mở nắp
-
+uncap	@uncap
+* ngoại động từ
+- bỏ mũ (để chào)
+- mở nắp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-mở nắp

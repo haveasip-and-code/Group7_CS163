@@ -1,3 +1,7 @@
-viewpoint
-	@viewpoint\n* danh từ\n- chỗ đứng nhìn tốt, chỗ dễ nhìn\n- quan điểm, điểm nhìn\n@Chuyên ngành kỹ thuật\n-điểm nhìn, quan điểm\n-quan điểm
-
+viewpoint	@viewpoint
+* danh từ
+- chỗ đứng nhìn tốt, chỗ dễ nhìn
+- quan điểm, điểm nhìn
+@Chuyên ngành kỹ thuật
+-điểm nhìn, quan điểm
+-quan điểm

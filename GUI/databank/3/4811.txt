@@ -1,3 +1,8 @@
-baseboard
-	@baseboard\n* danh từ\n- ván gỗ ghép chân tường\n@Chuyên ngành kỹ thuật\n-bản gốc\n-bờ tường\n@Lĩnh vực: xây dựng\n-gờ chân tường
-
+baseboard	@baseboard
+* danh từ
+- ván gỗ ghép chân tường
+@Chuyên ngành kỹ thuật
+-bản gốc
+-bờ tường
+@Lĩnh vực: xây dựng
+-gờ chân tường

@@ -1,3 +1,9 @@
-brae
-	@brae /brei/\n*  danh từ\n- bờ dốc (sông)\n- sườn đồi\n@Chuyên ngành kỹ thuật\n-bờ dốc (sông)\n@Lĩnh vực: hóa học & vật liệu\n-bờ dốc (của sông)\n-sườn đồi
-
+brae	@brae /brei/
+*  danh từ
+- bờ dốc (sông)
+- sườn đồi
+@Chuyên ngành kỹ thuật
+-bờ dốc (sông)
+@Lĩnh vực: hóa học & vật liệu
+-bờ dốc (của sông)
+-sườn đồi

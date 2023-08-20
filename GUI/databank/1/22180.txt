@@ -1,3 +1,7 @@
-fractured
-	@Chuyên ngành kỹ thuật\n-bị gãy\n-bị nứt\n-bị vỡ\n@Lĩnh vực: xây dựng\n-bị nứt nẻ
-
+fractured	
+@Chuyên ngành kỹ thuật
+-bị gãy
+-bị nứt
+-bị vỡ
+@Lĩnh vực: xây dựng
+-bị nứt nẻ

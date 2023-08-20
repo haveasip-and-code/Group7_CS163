@@ -1,3 +1,26 @@
-jumper
-	@jumper /'dʤʌmpə/\n*  danh từ\n- người nhảy; thú nhảy; sâu bọ nhảy (như bọ chét, dế, châu chấu...)\n- dây néo cột buồm\n- choòng (đục đá)\n*  danh từ\n- áo ngoài mặc chui đầu (của phụ nữ)\n- áo va rơi (của thuỷ thủ)\n- (số nhiều) áo may liền với quần (của trẻ con)\n@Chuyên ngành kỹ thuật\n-cái choòng khoan\n-cái khoan tay\n-choòng khoan\n-đầu choòng\n-dây nối\n-đê quai\n-đoạn cáp nối\n-đoạn dây nối\n-mũi khoan nhỏ\n@Lĩnh vực: điện\n-bộ nhảy\n-dây lèo\n-dây nhảy\n@Lĩnh vực: toán & tin\n-chân nối
-
+jumper	
+@jumper /'dʤʌmpə/
+*  danh từ
+- người nhảy; thú nhảy; sâu bọ nhảy (như bọ chét, dế, châu chấu...)
+- dây néo cột buồm
+- choòng (đục đá)
+*  danh từ
+- áo ngoài mặc chui đầu (của phụ nữ)
+- áo va rơi (của thuỷ thủ)
+- (số nhiều) áo may liền với quần (của trẻ con)
+@Chuyên ngành kỹ thuật
+-cái choòng khoan
+-cái khoan tay
+-choòng khoan
+-đầu choòng
+-dây nối
+-đê quai
+-đoạn cáp nối
+-đoạn dây nối
+-mũi khoan nhỏ
+@Lĩnh vực: điện
+-bộ nhảy
+-dây lèo
+-dây nhảy
+@Lĩnh vực: toán & tin
+-chân nối

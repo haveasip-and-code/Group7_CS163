@@ -1,3 +1,39 @@
-vent
-	@vent /vent/\n*  danh từ\n- lỗ, lỗ thông, lỗ thoát, lỗ thủng\n=the vent of a cask+ lỗ thông hơi của cái thùng\n=vents of a flute+ lỗ sáo\n=a vent through the dykes+ lỗ thoát qua đê\n- (địa lý,địa chất) miệng phun\n=the vent of a valcano+ miệng núi lửa\n- (động vật học) lỗ đít; huyệt\n- (kiến trúc) ống khói\n=the vent of a chimney+ ống khói lò sưởi\n- sự ngoi lên mặt nước để thở (rái cá...)\n- (nghĩa bóng) lối thoát, cách bộc lộ (để cho hả)\n=to give vent to one's anger+ trút nỗi giận dữ của mình\n*  ngoại động từ\n- mở lỗ thông; làm cho thông hơi\n=to vent a barrel+ giùi lỗ thùng cho thông hơi\n- (nghĩa bóng) làm cho hả, trút\n=to vent one's hatred on the enemy+ trút căm thù vào đầu địch\n*  nội động từ\n- (động vật học) ngoi lên để thở\n=the otter vents from time to time+ thỉnh thoảng con rái cá ngoi lên để thở\n@Chuyên ngành kinh tế\n-lỗ\n-lỗ thoát\n-miệng phun\n@Chuyên ngành kỹ thuật\n-cửa (thông) gió\n-cửa thông gió\n-lỗ thoát\n-lỗ thông\n-lỗ thông gió\n-lỗ thông hơi\n-ống thông gió\n-ống thông hơi\n-thông hơi\n@Lĩnh vực: ô tô\n-cửa sổ thông khí\n-xả gió
-
+vent	@vent /vent/
+*  danh từ
+- lỗ, lỗ thông, lỗ thoát, lỗ thủng
+=the vent of a cask+ lỗ thông hơi của cái thùng
+=vents of a flute+ lỗ sáo
+=a vent through the dykes+ lỗ thoát qua đê
+- (địa lý,địa chất) miệng phun
+=the vent of a valcano+ miệng núi lửa
+- (động vật học) lỗ đít; huyệt
+- (kiến trúc) ống khói
+=the vent of a chimney+ ống khói lò sưởi
+- sự ngoi lên mặt nước để thở (rái cá...)
+- (nghĩa bóng) lối thoát, cách bộc lộ (để cho hả)
+=to give vent to one's anger+ trút nỗi giận dữ của mình
+*  ngoại động từ
+- mở lỗ thông; làm cho thông hơi
+=to vent a barrel+ giùi lỗ thùng cho thông hơi
+- (nghĩa bóng) làm cho hả, trút
+=to vent one's hatred on the enemy+ trút căm thù vào đầu địch
+*  nội động từ
+- (động vật học) ngoi lên để thở
+=the otter vents from time to time+ thỉnh thoảng con rái cá ngoi lên để thở
+@Chuyên ngành kinh tế
+-lỗ
+-lỗ thoát
+-miệng phun
+@Chuyên ngành kỹ thuật
+-cửa (thông) gió
+-cửa thông gió
+-lỗ thoát
+-lỗ thông
+-lỗ thông gió
+-lỗ thông hơi
+-ống thông gió
+-ống thông hơi
+-thông hơi
+@Lĩnh vực: ô tô
+-cửa sổ thông khí
+-xả gió

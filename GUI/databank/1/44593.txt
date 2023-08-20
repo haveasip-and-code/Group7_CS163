@@ -1,3 +1,10 @@
-puddling
-	@Chuyên ngành kỹ thuật\n-luyện putlinh\n-sự khuấy luyện thép\n-sự khuấy trộn\n-sự luyện puđlinh\n-sự nhào trộn\n@Lĩnh vực: hóa học & vật liệu\n-khuấy luyện\n@Lĩnh vực: cơ khí & công trình\n-sự đầm nén
-
+puddling	@Chuyên ngành kỹ thuật
+-luyện putlinh
+-sự khuấy luyện thép
+-sự khuấy trộn
+-sự luyện puđlinh
+-sự nhào trộn
+@Lĩnh vực: hóa học & vật liệu
+-khuấy luyện
+@Lĩnh vực: cơ khí & công trình
+-sự đầm nén

@@ -1,3 +1,7 @@
-byline
-	@byline\n- Trong ấn loát văn phòng, đây là dòng ghi tên tác giả thường còn có cả chức vụ trong tổ chức và địa chỉ được đặt ngay sau đầu đề của bài viết\n@Chuyên ngành kinh tế\n-hàng tên tác giả (trên bài báo)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thứ tuyến
-
+byline	@byline
+- Trong ấn loát văn phòng, đây là dòng ghi tên tác giả thường còn có cả chức vụ trong tổ chức và địa chỉ được đặt ngay sau đầu đề của bài viết
+@Chuyên ngành kinh tế
+-hàng tên tác giả (trên bài báo)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thứ tuyến

@@ -1,3 +1,2 @@
-castable
-	@Chuyên ngành kỹ thuật\n-đúc được
-
+castable	@Chuyên ngành kỹ thuật
+-đúc được

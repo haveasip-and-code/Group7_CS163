@@ -1,3 +1,4 @@
-readopt
-	@readopt\n* ngoại động từ\n- lại chấp nhận\n- lại nhận làm con nuôi, lại nhận làm người thừa tự
-
+readopt	@readopt
+* ngoại động từ
+- lại chấp nhận
+- lại nhận làm con nuôi, lại nhận làm người thừa tự

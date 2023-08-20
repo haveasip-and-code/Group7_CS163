@@ -1,3 +1,2 @@
-asserter
-	@asserter\n- xem assert
-
+asserter	@asserter
+- xem assert

@@ -1,3 +1,4 @@
-isolog
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất đồng cấu
-
+isolog	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất đồng cấu

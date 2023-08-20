@@ -1,3 +1,11 @@
-deaeration
-	@deaeration\n* danh từ\n- việc lấy không khí và khí ra\n@Chuyên ngành kinh tế\n-sự bài khí\n-sự khử mùi\n-sự loại khí\n@Chuyên ngành kỹ thuật\n-sự khử khí\n-sự loại bỏ không khí\n-sự xả khí
-
+deaeration	@deaeration
+* danh từ
+- việc lấy không khí và khí ra
+@Chuyên ngành kinh tế
+-sự bài khí
+-sự khử mùi
+-sự loại khí
+@Chuyên ngành kỹ thuật
+-sự khử khí
+-sự loại bỏ không khí
+-sự xả khí

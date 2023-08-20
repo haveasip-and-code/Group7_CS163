@@ -1,3 +1,7 @@
-grope
-	@grope /group/\n*  động từ\n- (+ for,  after) sờ soạng tìm\n- dò dẫm, mò mẫm\n=to grope one's way in the dark+ dò dẫm đường trong đêm tối
-
+grope	
+@grope /group/
+*  động từ
+- (
++ for,  after) sờ soạng tìm
+- dò dẫm, mò mẫm=to grope one's way in the dark
++ dò dẫm đường trong đêm tối

@@ -1,3 +1,18 @@
-dual
-	@dual /'dju:əl/\n*  tính từ\n- hai, lưỡng, kép, đôi; hai mặt; gấp đôi; tay đôi\n=dual ownership+ quyền sở hữu tay đôi\n=dual control+ sự điều khiển tay đôi\n- (ngôn ngữ học) đôi\n- (toán học) đối ngẫu\n=dual theorem+ định lý đối ngẫu\n*  danh từ,  (ngôn ngữ học)\n- số đôi\n- từ thuộc số đôi\n@Chuyên ngành kỹ thuật\n-đôi\n-đối ngẫu\n-hai\n-kép\n-lưỡng
-
+dual	
+@dual /'dju:əl/
+*  tính từ
+- hai, lưỡng, kép, đôi; hai mặt; gấp đôi; tay đôi=dual ownership
++ quyền sở hữu tay đôi=dual control
++ sự điều khiển tay đôi
+- (ngôn ngữ học) đôi
+- (toán học) đối ngẫu=dual theorem
++ định lý đối ngẫu
+*  danh từ,  (ngôn ngữ học)
+- số đôi
+- từ thuộc số đôi
+@Chuyên ngành kỹ thuật
+-đôi
+-đối ngẫu
+-hai
+-kép
+-lưỡng

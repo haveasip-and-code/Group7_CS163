@@ -1,3 +1,2 @@
-slit
-	@slit\n- (giải tích) nhát cắt
-
+slit	@slit
+- (giải tích) nhát cắt

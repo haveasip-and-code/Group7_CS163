@@ -99,6 +99,8 @@ pair<string,string> getWordDefAlways(TSTNode* dataSet,string &cur) {
     }
     else {
         kq=retrieveData(curDataSet,tmp->val);
+        if (kq.first=="") kq.first="Unknown word!!";
+        else if (kq.second=="") kq.second="A definition have not been set for this word.";
         debug("Successful when trying to get definition of string \""+cur+"\"!!!");
         return kq;
     }
@@ -335,4 +337,112 @@ string standardize(string x,int y,int z) {
         }
     }
     return kq;
+}
+
+int getsize(int startPath) {
+    int kq;
+    ifstream in;
+    //cout<<"databank/"+intToString(startPath)+"/maxslot.txt"<<'\n';
+    in.open("databank/"+intToString(startPath)+"/maxslot.txt");
+    in>>kq;
+    in.close();
+    return kq;
+}
+
+void searchDefThread(int startPath,int l,int r,vector<string>& val,int prio,atomic<bool>& isFound,atomic<int>& res) {
+    int m=val.size();
+    for (int i=l;i<=r;++i) {
+        ifstream in;
+        int kq=0;
+        string s;
+        in.open("databank/"+intToString(startPath)+'/'+intToString(i)+".txt");
+        while (in>>s) {
+            for (int j=0;j<m;++j) {
+                if (s==val[j]) {
+                    //cout<<s<<'\n';
+                    kq++;
+                    if (kq>=prio) {
+                        in.close();
+                        isFound=true;
+                        res=i;
+                        return;
+                    }
+                    break;
+                }
+            }
+            //cout<<i;
+        }
+        in.close();
+    }
+    return ;
+}
+
+int searchDef(int startPath,int startPos,vector<string>& val,int prio) {
+    int n=getsize(startPath);
+    int m=val.size();
+    //cout<<n<<'\n';
+    int numThreads = std::thread::hardware_concurrency();
+    int BlcSizeThreads=(n-startPos+numThreads-1)/numThreads;
+    cout<<numThreads<<'\n';
+
+    std::vector<std::thread> threads;
+    std::atomic<bool> found(false);
+    std::atomic<int> result(-1);
+
+    for (int i = 0; i < numThreads; i++) {
+        int pl = startPos+1+(i-1)*BlcSizeThreads;
+        int pr = startPos+i*BlcSizeThreads;
+        if (i+1==numThreads) pr=n;
+
+        threads.emplace_back(searchDefThread, startPath, pl, pr, ref(val),prio,ref(found),ref(result));
+    }
+    for (auto& thread : threads) {
+        thread.join();
+    }
+
+    if (found) {
+        return result;
+    } else {
+        return -1;
+    }
+    /*
+    for (int i=startPos+1;i<=n;++i) {
+        ifstream in;
+        int kq=0;
+        string s;
+        in.open("databank/"+intToString(startPath)+'/'+intToString(i)+".txt");
+        while (in>>s) {
+            for (int j=0;j<m;++j) {
+                if (s==val[j]) {
+                    //cout<<s<<'\n';
+                    kq++;
+                    if (kq>=prio) {
+                        in.close();
+                        return i;
+                    }
+                    break;
+                }
+            }
+            cout<<i;
+        }
+        in.close();
+    }
+    return -1;
+    */
+}
+
+
+void transformDef(string& s,vector<string>& targ) {
+    ofstream in;
+    in.open("coreData/medium.txt");
+    in<<s;
+    in.close();
+    ifstream out;
+    targ.clear();
+    string tmp;
+    out.open("coreData/medium.txt");
+    while (out>>tmp) {
+        targ.push_back(tmp);
+    }
+    out.close();
 }

@@ -1,3 +1,7 @@
-lehr
-	@lehr\n* danh từ\n- lò bếp dài\n@Chuyên ngành kỹ thuật\n-lò ủ kính\n@Chuyên ngành kỹ thuật\n-lò ủ kính
-
+lehr	@lehr
+* danh từ
+- lò bếp dài
+@Chuyên ngành kỹ thuật
+-lò ủ kính
+@Chuyên ngành kỹ thuật
+-lò ủ kính

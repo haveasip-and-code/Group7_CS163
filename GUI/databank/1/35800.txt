@@ -1,3 +1,13 @@
-mound
-	@mound /maund/\n*  danh từ\n- ụ (đất, đá), mô (đất, đá)\n- gò; đống; đồi; núi nhỏ\n@Chuyên ngành kỹ thuật\n-đồi\n-gò\n-ụ\n@Lĩnh vực: hóa học & vật liệu\n-mô (đất)\n@Lĩnh vực: xây dựng\n-mô đất\n-ụ đất
-
+mound	@mound /maund/
+*  danh từ
+- ụ (đất, đá), mô (đất, đá)
+- gò; đống; đồi; núi nhỏ
+@Chuyên ngành kỹ thuật
+-đồi
+-gò
+-ụ
+@Lĩnh vực: hóa học & vật liệu
+-mô (đất)
+@Lĩnh vực: xây dựng
+-mô đất
+-ụ đất

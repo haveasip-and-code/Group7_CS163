@@ -1,3 +1,12 @@
-transistor
-	@transistor /træn'sistə/\n*  danh từ\n- (y học) Tranzito, bóng bán dẫn\n=a transistor radio+ máy thu bán dẫn\n@Chuyên ngành kỹ thuật\n-điện trở\n@Lĩnh vực: xây dựng\n-bán dẫn nhiệt\n@Lĩnh vực: điện tử & viễn thông\n-bóng bán dẫn\n@Lĩnh vực: toán & tin\n-đèn bán dẫn
-
+transistor	@transistor /træn'sistə/
+*  danh từ
+- (y học) Tranzito, bóng bán dẫn
+=a transistor radio+ máy thu bán dẫn
+@Chuyên ngành kỹ thuật
+-điện trở
+@Lĩnh vực: xây dựng
+-bán dẫn nhiệt
+@Lĩnh vực: điện tử & viễn thông
+-bóng bán dẫn
+@Lĩnh vực: toán & tin
+-đèn bán dẫn

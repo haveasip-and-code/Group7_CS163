@@ -1,3 +1,16 @@
-parasite
-	@parasite /'pærəsait/\n*  danh từ\n- kẻ ăn bám\n- (sinh vật học) vật ký sinh\n@Chuyên ngành kỹ thuật\n-nhiễu âm\n@Lĩnh vực: điện lạnh\n-dòng ký sinh (ở một mạch điện)\n-dòng tạp\n@Lĩnh vực: toán & tin\n-hiện tượng parasit\n-hiện tượng parazit\n@Lĩnh vực: xây dựng\n-ký sinh\n@Lĩnh vực: y học\n-ký sinh trùng
-
+parasite	@parasite /'pærəsait/
+*  danh từ
+- kẻ ăn bám
+- (sinh vật học) vật ký sinh
+@Chuyên ngành kỹ thuật
+-nhiễu âm
+@Lĩnh vực: điện lạnh
+-dòng ký sinh (ở một mạch điện)
+-dòng tạp
+@Lĩnh vực: toán & tin
+-hiện tượng parasit
+-hiện tượng parazit
+@Lĩnh vực: xây dựng
+-ký sinh
+@Lĩnh vực: y học
+-ký sinh trùng

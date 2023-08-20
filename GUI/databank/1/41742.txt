@@ -1,3 +1,2 @@
-pitchout
-	@Chuyên ngành kỹ thuật\n-sự vát nhọn
-
+pitchout	@Chuyên ngành kỹ thuật
+-sự vát nhọn

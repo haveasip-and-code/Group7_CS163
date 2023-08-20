@@ -1,3 +1,7 @@
-wideband
-	@Chuyên ngành kỹ thuật\n-băng rộng\n-dải rộng\n-dải tần rộng\n@Lĩnh vực: toán & tin\n-băng tần rộng\n-dải (tần) rộng
-
+wideband	@Chuyên ngành kỹ thuật
+-băng rộng
+-dải rộng
+-dải tần rộng
+@Lĩnh vực: toán & tin
+-băng tần rộng
+-dải (tần) rộng

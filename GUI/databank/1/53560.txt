@@ -1,3 +1,15 @@
-stowage
-	@stowage /'stouidʤ/\n*  danh từ\n- sự xếp hàng hoá dưới tàu\n- nơi xếp hàng, kho xếp hàng\n- hàng hoá xếp vào, lượng hàng hoá xếp vào\n- cước xếp hàng hoá\n@Chuyên ngành kinh tế\n-cách xếp hàng hóa\n-lượng hàng hóa được xếp trên tàu, xe\n-phí xếp hàng hóa trên tàu, xe\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cước xếp hàng\n@Lĩnh vực: giao thông & vận tải\n-sự bốc xếp hàng hóa (tải trọng)
-
+stowage	@stowage /'stouidʤ/
+*  danh từ
+- sự xếp hàng hoá dưới tàu
+- nơi xếp hàng, kho xếp hàng
+- hàng hoá xếp vào, lượng hàng hoá xếp vào
+- cước xếp hàng hoá
+@Chuyên ngành kinh tế
+-cách xếp hàng hóa
+-lượng hàng hóa được xếp trên tàu, xe
+-phí xếp hàng hóa trên tàu, xe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-cước xếp hàng
+@Lĩnh vực: giao thông & vận tải
+-sự bốc xếp hàng hóa (tải trọng)

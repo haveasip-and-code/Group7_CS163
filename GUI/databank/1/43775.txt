@@ -1,3 +1,2 @@
-proclaimer
-	@proclaimer\n- xem proclaim
-
+proclaimer	@proclaimer
+- xem proclaim

@@ -1,3 +1,15 @@
-picker
-	@picker /'pikə/\n*  danh từ\n- người hái\n- người nhặt\n- đồ mở, đồ nạy (ổ khoá)\n- đồ dùng để hái, đồ dùng để nhặt, đồ dùng để bắt\n@Chuyên ngành kinh tế\n-công cụ để lấy thịt cua\n-máy hái quả\n@Chuyên ngành kỹ thuật\n-máy sàng\n@Lĩnh vực: hóa học & vật liệu\n-máy chọn khoáng\n-máy phân loại (quặng)\n-thợ chọn mẫu
-
+picker	@picker /'pikə/
+*  danh từ
+- người hái
+- người nhặt
+- đồ mở, đồ nạy (ổ khoá)
+- đồ dùng để hái, đồ dùng để nhặt, đồ dùng để bắt
+@Chuyên ngành kinh tế
+-công cụ để lấy thịt cua
+-máy hái quả
+@Chuyên ngành kỹ thuật
+-máy sàng
+@Lĩnh vực: hóa học & vật liệu
+-máy chọn khoáng
+-máy phân loại (quặng)
+-thợ chọn mẫu

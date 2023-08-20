@@ -1,3 +1,29 @@
-spend
-	@spend /spend/\n*  ngoại động từ spent\n- tiêu, tiêu pha\n- dùng (thì giờ...), tốn\n=to spend time in reading+ dùng thì giờ vào việc đọc\n- qua, sống qua\n=to spend the holidays by the seaside+ qua những ngày nghỉ ở bờ biển\n=to spend a sleepless night+ qua một đêm không ngủ\n- làm dịu đi, làm nguôi đi, làm hết đà; làm hết, làm kiệt, tiêu phí\n=his fury was spent+ cơn giận của hắn đã nguôi\n=anger spends itself+ cơn giận nguôi đi\n=the storm has spent itself+ cơn bão đã dịu đi\n=to spend one's energy+ tiêu phí nghị lực\n- (hàng hải) gãy; mất (cột buồm)\n*  nội động từ\n- tiêu pha, tiêu tiền\n- tàn, hết\n=candles spend fast in draught+ nên đốt ở chỗ gió lùa chóng hết\n- đẻ trứng (cá)\n!to spend a penny\n- (thông tục) đi đái; đi ỉa\n@Chuyên ngành kinh tế\n-tiêu\n-tiêu pha\n-tiêu phí (tiền bạc...)\n@Chuyên ngành kỹ thuật\n-chỉ tiêu\n@Lĩnh vực: toán & tin\n-tiêu, dùng
-
+spend	@spend /spend/
+*  ngoại động từ spent
+- tiêu, tiêu pha
+- dùng (thì giờ...), tốn
+=to spend time in reading+ dùng thì giờ vào việc đọc
+- qua, sống qua
+=to spend the holidays by the seaside+ qua những ngày nghỉ ở bờ biển
+=to spend a sleepless night+ qua một đêm không ngủ
+- làm dịu đi, làm nguôi đi, làm hết đà; làm hết, làm kiệt, tiêu phí
+=his fury was spent+ cơn giận của hắn đã nguôi
+=anger spends itself+ cơn giận nguôi đi
+=the storm has spent itself+ cơn bão đã dịu đi
+=to spend one's energy+ tiêu phí nghị lực
+- (hàng hải) gãy; mất (cột buồm)
+*  nội động từ
+- tiêu pha, tiêu tiền
+- tàn, hết
+=candles spend fast in draught+ nên đốt ở chỗ gió lùa chóng hết
+- đẻ trứng (cá)
+!to spend a penny
+- (thông tục) đi đái; đi ỉa
+@Chuyên ngành kinh tế
+-tiêu
+-tiêu pha
+-tiêu phí (tiền bạc...)
+@Chuyên ngành kỹ thuật
+-chỉ tiêu
+@Lĩnh vực: toán & tin
+-tiêu, dùng

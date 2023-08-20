@@ -1,3 +1,7 @@
-marque
-	@marque\n* danh từ\n- nhãn hiệu chế tạo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-nhãn hiệu xe\n-mác xe
-
+marque	@marque
+* danh từ
+- nhãn hiệu chế tạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-nhãn hiệu xe
+-mác xe

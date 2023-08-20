@@ -1,3 +1,9 @@
-calliper
-	@Chuyên ngành kỹ thuật\n-kích thước (giấy)\n-yên phanh\n@Lĩnh vực: cơ khí & công trình\n-đo bằng compa\n-đo bằng thước cặp\n@Lĩnh vực: ô tô\n-yên phanh đĩa
-
+calliper	
+@Chuyên ngành kỹ thuật
+-kích thước (giấy)
+-yên phanh
+@Lĩnh vực: cơ khí & công trình
+-đo bằng compa
+-đo bằng thước cặp
+@Lĩnh vực: ô tô
+-yên phanh đĩa

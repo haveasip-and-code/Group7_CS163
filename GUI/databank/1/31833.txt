@@ -1,3 +1,26 @@
-legal
-	@legal /'li:gəl/\n*  tính từ\n- hợp pháp, theo pháp luật\n- do pháp luật định\n- (thuộc) pháp luật\n@Chuyên ngành kinh tế\n-do luật định\n-được luật pháp thừa nhận\n-hợp pháp\n-pháp định\n-theo pháp luật\n-thuộc pháp luật\n-thuộc về pháp luật\n-về mặt pháp luật\n@Chuyên ngành kỹ thuật\n-hợp lệ\n-hợp pháp\n@Lĩnh vực: toán & tin\n-khả chấp\n-pháp lý\n@Chuyên ngành kỹ thuật\n-hợp lệ\n-hợp pháp\n@Lĩnh vực: toán & tin\n-khả chấp\n-pháp lý
-
+legal	@legal /'li:gəl/
+*  tính từ
+- hợp pháp, theo pháp luật
+- do pháp luật định
+- (thuộc) pháp luật
+@Chuyên ngành kinh tế
+-do luật định
+-được luật pháp thừa nhận
+-hợp pháp
+-pháp định
+-theo pháp luật
+-thuộc pháp luật
+-thuộc về pháp luật
+-về mặt pháp luật
+@Chuyên ngành kỹ thuật
+-hợp lệ
+-hợp pháp
+@Lĩnh vực: toán & tin
+-khả chấp
+-pháp lý
+@Chuyên ngành kỹ thuật
+-hợp lệ
+-hợp pháp
+@Lĩnh vực: toán & tin
+-khả chấp
+-pháp lý

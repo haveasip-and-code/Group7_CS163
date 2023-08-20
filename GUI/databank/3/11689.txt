@@ -1,3 +1,28 @@
-convention
-	@convention /kən'venʃn/\n*  danh từ\n- hội nghị (chính trị); sự triệu tập\n- hiệp định\n- sự thoả thuận (thường là ngầm)\n- tục lệ, lệ thường\n=social conventions+ tục lệ xã hội\n- quy ước (của một số trò chơi)\n@Chuyên ngành kinh tế\n-công ước\n-cuộc họp\n-điều ước\n-hiệp định\n-hội nghị\n-khế ước\n-quán lệ\n-tập quán\n-tập tục\n-thỏa ước\n@Chuyên ngành kỹ thuật\n-định chuẩn\n-định ước\n-giao thức\n-hiệp ước\n-ký hiệu quy ước\n-quy ước\n@Lĩnh vực: xây dựng\n-sự quy ước
-
+convention	@convention /kən'venʃn/
+*  danh từ
+- hội nghị (chính trị); sự triệu tập
+- hiệp định
+- sự thoả thuận (thường là ngầm)
+- tục lệ, lệ thường
+=social conventions+ tục lệ xã hội
+- quy ước (của một số trò chơi)
+@Chuyên ngành kinh tế
+-công ước
+-cuộc họp
+-điều ước
+-hiệp định
+-hội nghị
+-khế ước
+-quán lệ
+-tập quán
+-tập tục
+-thỏa ước
+@Chuyên ngành kỹ thuật
+-định chuẩn
+-định ước
+-giao thức
+-hiệp ước
+-ký hiệu quy ước
+-quy ước
+@Lĩnh vực: xây dựng
+-sự quy ước

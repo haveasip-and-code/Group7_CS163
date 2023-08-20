@@ -1,3 +1,2 @@
-quarterlies
-	@Chuyên ngành kinh tế\n-các báo cáo hàng quý
-
+quarterlies	@Chuyên ngành kinh tế
+-các báo cáo hàng quý

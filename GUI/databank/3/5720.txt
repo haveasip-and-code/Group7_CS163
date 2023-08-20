@@ -1,3 +1,35 @@
-bitter
-	@bitter /'bitə/\n*  tính từ & phó từ\n- đắng\n- cay đắng, chua xót, đau đớn; đau khổ, thảm thiết\n=bitter disappointment+ sự thất vọng cay đắng\n=bitter tears+ những giọt nước mắt đau khổ\n- chua cay, gay gắt; ác liệt, quyết liệt\n=bitter sarcasm+ lời chế nhạo chua cay\n=bitter remark+ lời phê bình gay gắt\n=bitter fighting+ sự đánh nhau ác liệt\n- rét buốt (thời tiết, gió...)\n=bitter wind+ gió rét buốt\n!bitter as gall (worm wood, aloes)\n- đắng như mật, đắng như bồ bòn\n!a bitter pill to swallow\n- viên thuốc đắng phải uống\n- điều đắng cay (điều tủi nhục) phải chịu đựng\n!to the bitte rend\n- cho đến cùng\n*  danh từ\n- vị đắng\n- nỗi đắng cay\n=the bitters of life+ những nỗi đắng cay của cuộc đời\n=to take the bitter with the sweet+ phải chịu những nỗi đắng cay cùng với những sự ngọt bùi ở đời\n- (sinh vật học) rượu bia đắng ((cũng) bitter beer) rượu thuốc apxin\n@Chuyên ngành kinh tế\n-vị cay\n-vị đắng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đắng\n@Lĩnh vực: cơ khí & công trình\n-rét buốt (thời tiết)\n@Lĩnh vực: hóa học & vật liệu\n-vị đắng
-
+bitter	@bitter /'bitə/
+*  tính từ & phó từ
+- đắng
+- cay đắng, chua xót, đau đớn; đau khổ, thảm thiết
+=bitter disappointment+ sự thất vọng cay đắng
+=bitter tears+ những giọt nước mắt đau khổ
+- chua cay, gay gắt; ác liệt, quyết liệt
+=bitter sarcasm+ lời chế nhạo chua cay
+=bitter remark+ lời phê bình gay gắt
+=bitter fighting+ sự đánh nhau ác liệt
+- rét buốt (thời tiết, gió...)
+=bitter wind+ gió rét buốt
+!bitter as gall (worm wood, aloes)
+- đắng như mật, đắng như bồ bòn
+!a bitter pill to swallow
+- viên thuốc đắng phải uống
+- điều đắng cay (điều tủi nhục) phải chịu đựng
+!to the bitte rend
+- cho đến cùng
+*  danh từ
+- vị đắng
+- nỗi đắng cay
+=the bitters of life+ những nỗi đắng cay của cuộc đời
+=to take the bitter with the sweet+ phải chịu những nỗi đắng cay cùng với những sự ngọt bùi ở đời
+- (sinh vật học) rượu bia đắng ((cũng) bitter beer) rượu thuốc apxin
+@Chuyên ngành kinh tế
+-vị cay
+-vị đắng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đắng
+@Lĩnh vực: cơ khí & công trình
+-rét buốt (thời tiết)
+@Lĩnh vực: hóa học & vật liệu
+-vị đắng

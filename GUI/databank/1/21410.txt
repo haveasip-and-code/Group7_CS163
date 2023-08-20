@@ -1,3 +1,4 @@
-flews
-	@flews /flews/\n*  danh từ số nhiều\n- môi sễ xuống (chó săn)
-
+flews	
+@flews /flews/
+*  danh từ số nhiều
+- môi sễ xuống (chó săn)

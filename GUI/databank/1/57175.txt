@@ -1,3 +1,4 @@
-towing
-	@Chuyên ngành kỹ thuật\n-sự dắt\n-sự kéo\n-sự lai dắt
-
+towing	@Chuyên ngành kỹ thuật
+-sự dắt
+-sự kéo
+-sự lai dắt

@@ -1,3 +1,6 @@
-cardiogram
-	@cardiogram\n* danh từ\n- như electrocardiogram\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tâm đồ
-
+cardiogram	@cardiogram
+* danh từ
+- như electrocardiogram
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tâm đồ

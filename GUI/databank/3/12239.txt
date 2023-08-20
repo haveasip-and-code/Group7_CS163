@@ -1,3 +1,7 @@
-countermine
-	@countermine /,kauntəmain/\n*  danh từ\n- mìn chống mìn\n- kẻ chống lại âm mưu, phản kế\n*  động từ\n- đặt mìn chống mìn\n- dùng mưu kế chống lại âm mưu, dùng phản kế
-
+countermine	@countermine /,kauntəmain/
+*  danh từ
+- mìn chống mìn
+- kẻ chống lại âm mưu, phản kế
+*  động từ
+- đặt mìn chống mìn
+- dùng mưu kế chống lại âm mưu, dùng phản kế

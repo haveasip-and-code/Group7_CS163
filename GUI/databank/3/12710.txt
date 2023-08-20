@@ -1,3 +1,2 @@
-criticizer
-	@criticizer\n- xem criticize
-
+criticizer	@criticizer
+- xem criticize

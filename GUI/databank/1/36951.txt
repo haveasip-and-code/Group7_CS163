@@ -1,3 +1,4 @@
-nonfat
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-không béo\n-không có mỡ
-
+nonfat	@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-không béo
+-không có mỡ

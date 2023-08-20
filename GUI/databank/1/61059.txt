@@ -1,3 +1,22 @@
-vacation
-	@vacation /və'keiʃn/\n*  danh từ\n- sự bỏ trống, sự bỏ không\n- sự bỏ, sự thôi\n- kỳ nghỉ hè, kỳ nghỉ lễ\n=long vacation+ nghỉ hè\n=Christmas vacation+ nghỉ lễ Nô-en\n- (từ Mỹ,nghĩa Mỹ) thời gian nghỉ việc\n=on vacation+ nghỉ việc\n- (pháp lý) kỳ hưu thẩm (của toà án)\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) (+ in,  at) đi nghỉ\n=to go vacationing+ đi nghỉ hè, đi nghỉ mát\n@Chuyên ngành kinh tế\n-kỳ hưu thẩm\n-kỳ nghỉ\n-kỳ nghỉ của tòa án\n-ngày lễ\n-ngày nghỉ\n-sự nghỉ\n@Chuyên ngành kỹ thuật\n-mùa nghỉ
-
+vacation	@vacation /və'keiʃn/
+*  danh từ
+- sự bỏ trống, sự bỏ không
+- sự bỏ, sự thôi
+- kỳ nghỉ hè, kỳ nghỉ lễ
+=long vacation+ nghỉ hè
+=Christmas vacation+ nghỉ lễ Nô-en
+- (từ Mỹ,nghĩa Mỹ) thời gian nghỉ việc
+=on vacation+ nghỉ việc
+- (pháp lý) kỳ hưu thẩm (của toà án)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) (+ in,  at) đi nghỉ
+=to go vacationing+ đi nghỉ hè, đi nghỉ mát
+@Chuyên ngành kinh tế
+-kỳ hưu thẩm
+-kỳ nghỉ
+-kỳ nghỉ của tòa án
+-ngày lễ
+-ngày nghỉ
+-sự nghỉ
+@Chuyên ngành kỹ thuật
+-mùa nghỉ

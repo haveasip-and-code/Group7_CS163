@@ -1,3 +1,2 @@
-derivable
-	@derivable\n- xem derive
-
+derivable	@derivable
+- xem derive

@@ -1,3 +1,13 @@
-pronounce
-	@pronounce /pronounce/\n*  ngoại động từ\n- tuyên bố\n=to pronounce a patient out of danger+ tuyên bố bệnh nhân thoát khỏi hiểm nghèo\n=to pronounce a death sentence+ tuyên án tử hình\n=to pronounce a curse+ nguyền rủa\n- phát âm, đọc\n=to pronounce a word+ phát âm một từ, đọc một từ\n*  nội động từ\n- tỏ ý, tuyên bố\n=to pronounce on a proposal+ tỏ ý về một đề nghị\n=to pronounce foor (in favour of) a proposal+ tỏ ý ủng hộ một đề nghị\n=to pronounce against a proposal+ tỏ ý chống lại một đề nghị
-
+pronounce	@pronounce /pronounce/
+*  ngoại động từ
+- tuyên bố
+=to pronounce a patient out of danger+ tuyên bố bệnh nhân thoát khỏi hiểm nghèo
+=to pronounce a death sentence+ tuyên án tử hình
+=to pronounce a curse+ nguyền rủa
+- phát âm, đọc
+=to pronounce a word+ phát âm một từ, đọc một từ
+*  nội động từ
+- tỏ ý, tuyên bố
+=to pronounce on a proposal+ tỏ ý về một đề nghị
+=to pronounce foor (in favour of) a proposal+ tỏ ý ủng hộ một đề nghị
+=to pronounce against a proposal+ tỏ ý chống lại một đề nghị

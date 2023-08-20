@@ -1,3 +1,17 @@
-brim
-	@brim /brim/\n*  danh từ\n- miệng (bát, chén, cốc)\n- vành (mũ)\n!full to the brim\n- đầy ắp, đầy phè\n*  ngoại động từ\n- đồ đầy đến miệng, đổ đầy ắp (chén, bát...)\n*  nội động từ\n- tràn ngập; đầy đến miệng, đổ đầy ắp\n!to brim over\n- tràn đầy\n=to brim over with joy+ tràn đầy sung sướng\n@Chuyên ngành kỹ thuật\n-bờ\n-lò dọc vỉa\n-lò ngách
-
+brim	@brim /brim/
+*  danh từ
+- miệng (bát, chén, cốc)
+- vành (mũ)
+!full to the brim
+- đầy ắp, đầy phè
+*  ngoại động từ
+- đồ đầy đến miệng, đổ đầy ắp (chén, bát...)
+*  nội động từ
+- tràn ngập; đầy đến miệng, đổ đầy ắp
+!to brim over
+- tràn đầy
+=to brim over with joy+ tràn đầy sung sướng
+@Chuyên ngành kỹ thuật
+-bờ
+-lò dọc vỉa
+-lò ngách

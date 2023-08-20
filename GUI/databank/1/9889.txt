@@ -1,3 +1,11 @@
-clown
-	@clown /klaun/\n*  danh từ\n- anh hề, vai hề\n- người quê mùa\n- người thô lỗ; người mất dạy\n*  nội động từ\n- làm hề; đóng vai hề\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hề
-
+clown	
+@clown /klaun/
+*  danh từ
+- anh hề, vai hề
+- người quê mùa
+- người thô lỗ; người mất dạy
+*  nội động từ
+- làm hề; đóng vai hề
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hề

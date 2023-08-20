@@ -1,3 +1,2 @@
-subordinations
-	@Chuyên ngành kỹ thuật\n-sự phụ thuộc
-
+subordinations	@Chuyên ngành kỹ thuật
+-sự phụ thuộc

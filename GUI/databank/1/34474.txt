@@ -1,3 +1,3 @@
-mesodermal
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc trung phôi bì
-
+mesodermal	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc trung phôi bì

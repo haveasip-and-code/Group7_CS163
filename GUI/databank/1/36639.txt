@@ -1,3 +1,3 @@
-neuron
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nơron tế bào thần kinh
-
+neuron	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nơron tế bào thần kinh

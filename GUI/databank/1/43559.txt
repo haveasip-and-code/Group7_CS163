@@ -1,3 +1,4 @@
-prewarmed
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gia nhiệt sơ bộ\n-sưởi ấm sơ bộ
-
+prewarmed	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-gia nhiệt sơ bộ
+-sưởi ấm sơ bộ

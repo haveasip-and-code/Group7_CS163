@@ -1,3 +1,29 @@
-divider
-	@divider /di'vaidə/\n*  danh từ\n- người chia\n- máy phân, cái phân\n=a power divider+ máy phân công suất\n=a frequency divider+ máy phân tán\n- (số nhiều) com-pa\n@Chuyên ngành kinh tế\n-máy phân chia\n-máy phân ly\n-thiết bị chia\n@Chuyên ngành kỹ thuật\n-bộ chia\n-bộ phân\n-compa đo\n-cống chia nước\n-dụng cụ chia\n-máy chia\n-số chia\n-thiết bị chia\n-tường phân chia\n-vách\n@Lĩnh vực: ô tô\n-com-pa\n@Lĩnh vực: toán & tin\n-số bị chia
-
+divider	
+@divider /di'vaidə/
+*  danh từ
+- người chia
+- máy phân, cái phân=a power divider
++ máy phân công suất=a frequency divider
++ máy phân tán
+- (số nhiều) com
+-pa
+@Chuyên ngành kinh tế
+-máy phân chia
+-máy phân ly
+-thiết bị chia
+@Chuyên ngành kỹ thuật
+-bộ chia
+-bộ phân
+-compa đo
+-cống chia nước
+-dụng cụ chia
+-máy chia
+-số chia
+-thiết bị chia
+-tường phân chia
+-vách
+@Lĩnh vực: ô tô
+-com
+-pa
+@Lĩnh vực: toán & tin
+-số bị chia

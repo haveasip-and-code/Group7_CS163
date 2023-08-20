@@ -1,3 +1,6 @@
-foodless
-	@foodless /'fu:dlis/\n*  tính từ\n- không có đồ ăn\n- nhịn ăn\n=to go foodless+ nhịn ăn
-
+foodless	
+@foodless /'fu:dlis/
+*  tính từ
+- không có đồ ăn
+- nhịn ăn=to go foodless
++ nhịn ăn

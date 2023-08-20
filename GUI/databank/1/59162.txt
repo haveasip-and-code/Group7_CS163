@@ -1,3 +1,16 @@
-undercharge
-	@undercharge /'ʌndə,kæridʤ/\n*  danh từ\n- sự nạp thiếu (chất nổ)\n- đạn nạp thiếu chất nổ\n*  ngoại động từ\n- (thương nghiệp) lấy giá quá rẻ\n- (quân sự) nạp thiếu chất nổ\n@Chuyên ngành kinh tế\n-định giá quá thấp\n-thu phí thấp\n-tiền tính thiếu\n-tính tiền rẻ\n@Chuyên ngành kỹ thuật\n-tải non\n@Lĩnh vực: điện lạnh\n-sự nạp non
-
+undercharge	@undercharge /'ʌndə,kæridʤ/
+*  danh từ
+- sự nạp thiếu (chất nổ)
+- đạn nạp thiếu chất nổ
+*  ngoại động từ
+- (thương nghiệp) lấy giá quá rẻ
+- (quân sự) nạp thiếu chất nổ
+@Chuyên ngành kinh tế
+-định giá quá thấp
+-thu phí thấp
+-tiền tính thiếu
+-tính tiền rẻ
+@Chuyên ngành kỹ thuật
+-tải non
+@Lĩnh vực: điện lạnh
+-sự nạp non

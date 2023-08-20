@@ -1,3 +1,69 @@
-pin
-	@pin /pin/\n*  danh từ\n- ghim, đinh ghim\n- cặp, kẹp\n- chốt, ngõng\n- ống\n- trục (đàn)\n- (số nhiều) (thông tục) cẳng, chân\n=to be quick on one's pin+ nhanh chân\n- thùng nhỏ (41 quoành galông)\n!I don't care a pin\n- (xem) care\n!in a merry pin\n- (từ cổ,nghĩa cổ) vui vẻ, phấn khởi\n!plus and needles\n- cảm giác tê tê buồn buồn, cảm giác như có kiến bò\n=to have pins and needles in one's legs+ có cảm giác như kiến bò ở chân\n!to be on pins and needles\n- bồn chồn (bứt rứt) như ngồi phải gai\n*  ngoại động từ\n- ((thường) + up,  together) ghim, găm, cặp, kẹp\n=to pin up one's hair+ cặp tóc\n=to pin sheets of paper together+ ghim những tờ giấy vào với nhau\n- chọc thủng bằng đinh ghim; đâm thủng bằng giáo mác\n- ghìm chặt\n=to pin something against the wall+ ghìm chặt ai vào tường\n- ((thường) + down) bắt buộc (ai phải giữ lời hứa...), trói chặt (ai... phải làm gì)\n=to pin someone down to a promise+ buộc ai phải giữ lời hứa\n=to pin someone down to a contract+ trói chặt ai phải theo đúng giao kèo\n- rào quanh bằng chấn song\n!to pin one's faith upon something\n- (xem) faith\n!to pin one's hopes\n- (xem) hope\n@Chuyên ngành kỹ thuật\n-bulông\n-chấu\n-chốt an toàn\n-chốt bản lề\n-chốt chẻ\n-cọc cắm\n-đinh đầu bẹt\n-đinh găm\n-đinh ghim\n-đinh mũ nhỏ\n-đinh ốc\n-đinh rệp\n-ghép chặt bằng chốt\n-ghim\n-kim\n-kim đo\n-kim ghim\n-lắp chốt\n-lõi khoan\n-ngõng\n-ống\n-phích cắm\n-sào ngắm\n-vít cấy\n@Lĩnh vực: điện tử & viễn thông\n-chân cắm\n@Lĩnh vực: điện\n-chân trục\n-dót trục\n-ty (sứ)\n@Lĩnh vực: cơ khí & công trình\n-chốt ngang (pittông)\n@Lĩnh vực: hóa học & vật liệu\n-đầu đường nối cần ống (khoan)
-
+pin	@pin /pin/
+*  danh từ
+- ghim, đinh ghim
+- cặp, kẹp
+- chốt, ngõng
+- ống
+- trục (đàn)
+- (số nhiều) (thông tục) cẳng, chân
+=to be quick on one's pin+ nhanh chân
+- thùng nhỏ (41 quoành galông)
+!I don't care a pin
+- (xem) care
+!in a merry pin
+- (từ cổ,nghĩa cổ) vui vẻ, phấn khởi
+!plus and needles
+- cảm giác tê tê buồn buồn, cảm giác như có kiến bò
+=to have pins and needles in one's legs+ có cảm giác như kiến bò ở chân
+!to be on pins and needles
+- bồn chồn (bứt rứt) như ngồi phải gai
+*  ngoại động từ
+- ((thường) + up,  together) ghim, găm, cặp, kẹp
+=to pin up one's hair+ cặp tóc
+=to pin sheets of paper together+ ghim những tờ giấy vào với nhau
+- chọc thủng bằng đinh ghim; đâm thủng bằng giáo mác
+- ghìm chặt
+=to pin something against the wall+ ghìm chặt ai vào tường
+- ((thường) + down) bắt buộc (ai phải giữ lời hứa...), trói chặt (ai... phải làm gì)
+=to pin someone down to a promise+ buộc ai phải giữ lời hứa
+=to pin someone down to a contract+ trói chặt ai phải theo đúng giao kèo
+- rào quanh bằng chấn song
+!to pin one's faith upon something
+- (xem) faith
+!to pin one's hopes
+- (xem) hope
+@Chuyên ngành kỹ thuật
+-bulông
+-chấu
+-chốt an toàn
+-chốt bản lề
+-chốt chẻ
+-cọc cắm
+-đinh đầu bẹt
+-đinh găm
+-đinh ghim
+-đinh mũ nhỏ
+-đinh ốc
+-đinh rệp
+-ghép chặt bằng chốt
+-ghim
+-kim
+-kim đo
+-kim ghim
+-lắp chốt
+-lõi khoan
+-ngõng
+-ống
+-phích cắm
+-sào ngắm
+-vít cấy
+@Lĩnh vực: điện tử & viễn thông
+-chân cắm
+@Lĩnh vực: điện
+-chân trục
+-dót trục
+-ty (sứ)
+@Lĩnh vực: cơ khí & công trình
+-chốt ngang (pittông)
+@Lĩnh vực: hóa học & vật liệu
+-đầu đường nối cần ống (khoan)

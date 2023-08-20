@@ -1,3 +1,9 @@
-sectorial
-	@sectorial\n* tính từ\n- (thuộc) hình quạt\n- (quân sự) (thuộc) quân khu\n- (thuộc) khu vực, lĩnh vực\n@Chuyên ngành kỹ thuật\n-ngành\n@Lĩnh vực: điện\n-có hình dạng quạt
-
+sectorial	@sectorial
+* tính từ
+- (thuộc) hình quạt
+- (quân sự) (thuộc) quân khu
+- (thuộc) khu vực, lĩnh vực
+@Chuyên ngành kỹ thuật
+-ngành
+@Lĩnh vực: điện
+-có hình dạng quạt

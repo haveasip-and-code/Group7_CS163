@@ -1,3 +1,10 @@
-matched
-	@matched\n- ngang nhau, tương ứng; phù hợp\n@Chuyên ngành kỹ thuật\n-phù hợp\n-thích ứng\n-tương ứng\n@Lĩnh vực: xây dựng\n-được làm khớp\n@Lĩnh vực: toán & tin\n-ngang nhau
-
+matched	@matched
+- ngang nhau, tương ứng; phù hợp
+@Chuyên ngành kỹ thuật
+-phù hợp
+-thích ứng
+-tương ứng
+@Lĩnh vực: xây dựng
+-được làm khớp
+@Lĩnh vực: toán & tin
+-ngang nhau

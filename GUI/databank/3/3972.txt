@@ -1,3 +1,21 @@
-aural
-	@aural /'ɔ:rəl/\n*  tính từ\n- (thuộc) hương toát ra (từ hoa...); (thuộc) tinh hoa phát tiết ra\n- (y học) (thuộc) hiện tượng thoáng qua\n- (thuộc) tai\n- đã nghe được bằng tai, qua tai\n*  tính từ\n- thuộc tai\n- đã nghe được bằng tai, qua tai\n@Chuyên ngành kỹ thuật\n-nghe\n-tai\n-thính giác\n@Lĩnh vực: điện\n-âm thanh nghe được\n@Lĩnh vực: y học\n-thuộc tai\n@Lĩnh vực: toán & tin\n-thuộc về âm\n@Lĩnh vực: xây dựng\n-thuộc về tai
-
+aural	@aural /'ɔ:rəl/
+*  tính từ
+- (thuộc) hương toát ra (từ hoa...); (thuộc) tinh hoa phát tiết ra
+- (y học) (thuộc) hiện tượng thoáng qua
+- (thuộc) tai
+- đã nghe được bằng tai, qua tai
+*  tính từ
+- thuộc tai
+- đã nghe được bằng tai, qua tai
+@Chuyên ngành kỹ thuật
+-nghe
+-tai
+-thính giác
+@Lĩnh vực: điện
+-âm thanh nghe được
+@Lĩnh vực: y học
+-thuộc tai
+@Lĩnh vực: toán & tin
+-thuộc về âm
+@Lĩnh vực: xây dựng
+-thuộc về tai

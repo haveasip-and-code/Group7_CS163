@@ -1,3 +1,13 @@
-quadrature
-	@quadrature /'kwɔdrətʃə/\n*  danh từ\n- (toán học) phép cầu phương\n=quadrature of the circle+ phép cầu phương một vòng tròn\n- (thiên văn học) vị trí góc vuông\n@Chuyên ngành kỹ thuật\n-pha vuông góc\n-phép cầu phương\n@Lĩnh vực: điện\n-lệch pha nhau 900\n-vị trí vuông góc\n@Lĩnh vực: toán & tin\n-trạng thái vuông góc
-
+quadrature	@quadrature /'kwɔdrətʃə/
+*  danh từ
+- (toán học) phép cầu phương
+=quadrature of the circle+ phép cầu phương một vòng tròn
+- (thiên văn học) vị trí góc vuông
+@Chuyên ngành kỹ thuật
+-pha vuông góc
+-phép cầu phương
+@Lĩnh vực: điện
+-lệch pha nhau 900
+-vị trí vuông góc
+@Lĩnh vực: toán & tin
+-trạng thái vuông góc

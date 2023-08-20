@@ -1,3 +1,11 @@
-interlayer
-	@Chuyên ngành kinh tế\n-lớp xen giữa\n@Chuyên ngành kỹ thuật\n-lớp kẹp\n-lớp trung gian\n-lớp xen\n-lớp xen giữa\n-lớp xen kẽ\n@Lĩnh vực: hóa học & vật liệu\n-vỉa xen (địa chất)
-
+interlayer	
+@Chuyên ngành kinh tế
+-lớp xen giữa
+@Chuyên ngành kỹ thuật
+-lớp kẹp
+-lớp trung gian
+-lớp xen
+-lớp xen giữa
+-lớp xen kẽ
+@Lĩnh vực: hóa học & vật liệu
+-vỉa xen (địa chất)

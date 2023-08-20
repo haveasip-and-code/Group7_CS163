@@ -1,3 +1,5 @@
-reversioner
-	@Chuyên ngành kinh tế\n-người có quyền chờ đợi\n-người có quyền thu hồi\n-người sẽ có quyền sở hữu\n-người sẽ hưởng quyền thừa kế
-
+reversioner	@Chuyên ngành kinh tế
+-người có quyền chờ đợi
+-người có quyền thu hồi
+-người sẽ có quyền sở hữu
+-người sẽ hưởng quyền thừa kế

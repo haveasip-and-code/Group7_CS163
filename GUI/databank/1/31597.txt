@@ -1,3 +1,8 @@
-laterals
-	@Chuyên ngành kỹ thuật\n-hệ giằng ngang\n@Lĩnh vực: xây dựng\n-hệ giằng gió\n@Chuyên ngành kỹ thuật\n-hệ giằng ngang\n@Lĩnh vực: xây dựng\n-hệ giằng gió
-
+laterals	@Chuyên ngành kỹ thuật
+-hệ giằng ngang
+@Lĩnh vực: xây dựng
+-hệ giằng gió
+@Chuyên ngành kỹ thuật
+-hệ giằng ngang
+@Lĩnh vực: xây dựng
+-hệ giằng gió

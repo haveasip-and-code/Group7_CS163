@@ -1,3 +1,7 @@
-backrest
-	@backrest\n* danh từ\n- cái dùng để tựa lưng\n@Chuyên ngành kỹ thuật\n-đệm dựa lưng\n-lưng ghế\n-lưng ghế tựa
-
+backrest	@backrest
+* danh từ
+- cái dùng để tựa lưng
+@Chuyên ngành kỹ thuật
+-đệm dựa lưng
+-lưng ghế
+-lưng ghế tựa

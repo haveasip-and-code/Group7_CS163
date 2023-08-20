@@ -1,3 +1,27 @@
-scaling
-	@scaling\n* danh từ\n- sự xác định tỷ xích\n- sự lập thang\n- sự đóng cặn\n- sự đánh cặn\n- sự tróc vảy\n- sự đếm gộp\n@Chuyên ngành kỹ thuật\n-sự bóc vỏ\n-sự đếm gộp\n-sự định tỷ lệ\n-sự lập thang đo\n@Lĩnh vực: toán & tin\n-chia tỉ lệ\n-chia tỷ lệ\n-chọn thang tỉ lệ\n-chọn thang tỷ lệ\n-phóng to thu nhỏ\n@Lĩnh vực: xây dựng\n-sự bóc thành lớp\n-sự bong theo lớp\n-sự tróc thành từng mảnh (bê tông)\n-sự tróc vảy (sơn)\n@Lĩnh vực: y học\n-sự đếm gộp lại\n-sự lấy cao răng
-
+scaling	@scaling
+* danh từ
+- sự xác định tỷ xích
+- sự lập thang
+- sự đóng cặn
+- sự đánh cặn
+- sự tróc vảy
+- sự đếm gộp
+@Chuyên ngành kỹ thuật
+-sự bóc vỏ
+-sự đếm gộp
+-sự định tỷ lệ
+-sự lập thang đo
+@Lĩnh vực: toán & tin
+-chia tỉ lệ
+-chia tỷ lệ
+-chọn thang tỉ lệ
+-chọn thang tỷ lệ
+-phóng to thu nhỏ
+@Lĩnh vực: xây dựng
+-sự bóc thành lớp
+-sự bong theo lớp
+-sự tróc thành từng mảnh (bê tông)
+-sự tróc vảy (sơn)
+@Lĩnh vực: y học
+-sự đếm gộp lại
+-sự lấy cao răng

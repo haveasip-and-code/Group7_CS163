@@ -1,3 +1,17 @@
-legibility
-	@legibility /,ledʤi'biliti/\n*  danh từ\n- tính dễ đọc dễ xem, tính rõ ràng\n@Chuyên ngành kinh tế\n-dễ xem\n-tính dễ đọc\n-tính rõ ràng\n@Chuyên ngành kỹ thuật\n-dễ đọc\n-rõ ràng\n@Lĩnh vực: xây dựng\n-tính dễ xem\n@Chuyên ngành kỹ thuật\n-dễ đọc\n-rõ ràng\n@Lĩnh vực: xây dựng\n-tính dễ xem
-
+legibility	@legibility /,ledʤi'biliti/
+*  danh từ
+- tính dễ đọc dễ xem, tính rõ ràng
+@Chuyên ngành kinh tế
+-dễ xem
+-tính dễ đọc
+-tính rõ ràng
+@Chuyên ngành kỹ thuật
+-dễ đọc
+-rõ ràng
+@Lĩnh vực: xây dựng
+-tính dễ xem
+@Chuyên ngành kỹ thuật
+-dễ đọc
+-rõ ràng
+@Lĩnh vực: xây dựng
+-tính dễ xem

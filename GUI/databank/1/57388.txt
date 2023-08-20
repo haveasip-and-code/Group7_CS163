@@ -1,3 +1,22 @@
-transformation
-	@transformation /,trænsfə'meiʃn/\n*  danh từ\n- sự thay đổi, sự biến đổi\n- sự biến chất, sự biến tính\n- chùm tóc giả (của phụ nữ)\n- (toán học) phép biến đổi\n@Chuyên ngành kinh tế\n-biến đổi\n-chế biến\n-sự thay đổi\n-sự thay đổi, sự chế biến, sự biến đổi\n@Chuyên ngành kỹ thuật\n-biến đổi\n-phép biến đổi\n-sự biến đổi\n-sự cải tạo\n-sự chuyển đổi\n-sự chuyển hóa\n-sự thay đổi\n@Lĩnh vực: toán & tin\n-phép ánh xạ\n-sự biến dổi
-
+transformation	@transformation /,trænsfə'meiʃn/
+*  danh từ
+- sự thay đổi, sự biến đổi
+- sự biến chất, sự biến tính
+- chùm tóc giả (của phụ nữ)
+- (toán học) phép biến đổi
+@Chuyên ngành kinh tế
+-biến đổi
+-chế biến
+-sự thay đổi
+-sự thay đổi, sự chế biến, sự biến đổi
+@Chuyên ngành kỹ thuật
+-biến đổi
+-phép biến đổi
+-sự biến đổi
+-sự cải tạo
+-sự chuyển đổi
+-sự chuyển hóa
+-sự thay đổi
+@Lĩnh vực: toán & tin
+-phép ánh xạ
+-sự biến dổi

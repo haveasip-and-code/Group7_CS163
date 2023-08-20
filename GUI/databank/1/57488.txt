@@ -1,3 +1,16 @@
-transporter
-	@transporter /træns'pɔ:tə/\n*  danh từ\n- người chuyên chở\n- (kỹ thuật) băng tải\n@Chuyên ngành kinh tế\n-chủ hãng vận tải\n-máy chuyên chở\n-máy tải\n-người chuyên chở\n-người vận tải\n-nhà vận tải\n-xe chuyên chở\n-xe tải lớn (để chở xe hơi..)\n-xe tải lớn (để chở xe hơi...)\n@Chuyên ngành kỹ thuật\n-thiết bị vận chuyển
-
+transporter	@transporter /træns'pɔ:tə/
+*  danh từ
+- người chuyên chở
+- (kỹ thuật) băng tải
+@Chuyên ngành kinh tế
+-chủ hãng vận tải
+-máy chuyên chở
+-máy tải
+-người chuyên chở
+-người vận tải
+-nhà vận tải
+-xe chuyên chở
+-xe tải lớn (để chở xe hơi..)
+-xe tải lớn (để chở xe hơi...)
+@Chuyên ngành kỹ thuật
+-thiết bị vận chuyển

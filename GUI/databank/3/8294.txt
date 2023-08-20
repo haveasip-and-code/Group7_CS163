@@ -1,3 +1,9 @@
-categorization
-	@categorization\n- xem categorize\n@Chuyên ngành kinh tế\n-sự phân loại\n@Chuyên ngành kỹ thuật\n-sự phân hạng\n-sự phân loại\n@Lĩnh vực: xây dựng\n-sự phân nhóm
-
+categorization	@categorization
+- xem categorize
+@Chuyên ngành kinh tế
+-sự phân loại
+@Chuyên ngành kỹ thuật
+-sự phân hạng
+-sự phân loại
+@Lĩnh vực: xây dựng
+-sự phân nhóm

@@ -1,3 +1,6 @@
-dockside
-	@dockside\n* danh từ\n- bờ biển hay vùng cạnh bến cảng\n@Chuyên ngành kỹ thuật\n-bến
-
+dockside	
+@dockside
+* danh từ
+- bờ biển hay vùng cạnh bến cảng
+@Chuyên ngành kỹ thuật
+-bến

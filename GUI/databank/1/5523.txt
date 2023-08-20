@@ -1,3 +1,17 @@
-billing
-	@billing ['biliη]\n*danh từ\n-  sự quảng cáo\n-  tầm quan trọng của diễn viên trong chương trình\n@Chuyên ngành kinh tế\n-lập hóa đơn\n-viết\n-viết, lập hóa đơn\n@Chuyên ngành kỹ thuật\n-sự lập hóa đơn\n@Lĩnh vực: cơ khí & công trình\n-sự lập dự toán\n@Lĩnh vực: điện\n-việc lập hóa đơn\n@Lĩnh vực: toán & tin\n-viết hóa đơn
-
+billing	
+@billing ['biliη]
+*danh từ
+-  sự quảng cáo
+-  tầm quan trọng của diễn viên trong chương trình
+@Chuyên ngành kinh tế
+-lập hóa đơn
+-viết
+-viết, lập hóa đơn
+@Chuyên ngành kỹ thuật
+-sự lập hóa đơn
+@Lĩnh vực: cơ khí & công trình
+-sự lập dự toán
+@Lĩnh vực: điện
+-việc lập hóa đơn
+@Lĩnh vực: toán & tin
+-viết hóa đơn

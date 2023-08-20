@@ -1,3 +1,7 @@
-ethylate
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-C2H5OM\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-C2H5OM
-
+ethylate	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-C2H5OM
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-C2H5OM

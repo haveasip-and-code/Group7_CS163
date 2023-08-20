@@ -1,3 +1,6 @@
-styliform
-	@styliform\n* danh từ\n- dạng trâm; dạng gai\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dạng trâm, dạng gai
-
+styliform	@styliform
+* danh từ
+- dạng trâm; dạng gai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dạng trâm, dạng gai

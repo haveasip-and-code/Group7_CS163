@@ -1,3 +1,5 @@
-wiretapping
-	@Chuyên ngành kinh tế\n-nghe lén điện thoại (bằng cách mắc ống nghe vào đường dây)\n-sự nghe trộm dây nói\n@Chuyên ngành kỹ thuật\n-sự nghe trộm
-
+wiretapping	@Chuyên ngành kinh tế
+-nghe lén điện thoại (bằng cách mắc ống nghe vào đường dây)
+-sự nghe trộm dây nói
+@Chuyên ngành kỹ thuật
+-sự nghe trộm

@@ -1,3 +1,9 @@
-gout
-	@gout /gaut/\n*  danh từ\n- (y học) bệnh gút\n- giọt, cục (máu...)\n- vết vấy bẩn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh thống phong
-
+gout	
+@gout /gaut/
+*  danh từ
+- (y học) bệnh gút
+- giọt, cục (máu...)
+- vết vấy bẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh thống phong

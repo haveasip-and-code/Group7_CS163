@@ -1,3 +1,5 @@
-electroplated
-	@Chuyên ngành kỹ thuật\n-được mạ điện\n@Chuyên ngành kỹ thuật\n-được mạ điện
-
+electroplated	
+@Chuyên ngành kỹ thuật
+-được mạ điện
+@Chuyên ngành kỹ thuật
+-được mạ điện

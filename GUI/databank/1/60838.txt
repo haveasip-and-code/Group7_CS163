@@ -1,3 +1,24 @@
-upgrade
-	@upgrade /' p'greid/\n*  ngoại động từ\n- đưa lên cấp bậc cao hn, nâng cấp\n@Chuyên ngành kinh tế\n-cải cách\n-cải thiện\n-cải tiến\n-nâng cao\n-sự hoàn thiện\n-thăng chức\n@Chuyên ngành kỹ thuật\n-độ dốc mái\n-độ nghiêng\n-đường dốc\n-nâng cấp\n-nâng cấp hoàn thiện\n-mái dốc\n-mở rộng\n-sự nâng cấp\n@Lĩnh vực: xây dựng\n-građien độ dốc\n-sự trục tải\n@Lĩnh vực: toán & tin\n-sự hoàn thiện (phần cứng)
-
+upgrade	@upgrade /' p'greid/
+*  ngoại động từ
+- đưa lên cấp bậc cao hn, nâng cấp
+@Chuyên ngành kinh tế
+-cải cách
+-cải thiện
+-cải tiến
+-nâng cao
+-sự hoàn thiện
+-thăng chức
+@Chuyên ngành kỹ thuật
+-độ dốc mái
+-độ nghiêng
+-đường dốc
+-nâng cấp
+-nâng cấp hoàn thiện
+-mái dốc
+-mở rộng
+-sự nâng cấp
+@Lĩnh vực: xây dựng
+-građien độ dốc
+-sự trục tải
+@Lĩnh vực: toán & tin
+-sự hoàn thiện (phần cứng)

@@ -1,3 +1,2 @@
-vinylic
-	@vinylic\n- xem vinyl
-
+vinylic	@vinylic
+- xem vinyl

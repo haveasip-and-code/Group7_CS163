@@ -1,3 +1,12 @@
-launching
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đúc đẩy\n-lao cầu\n-sự hạ thủy\n-sự lao cầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đúc đẩy\n-lao cầu\n-sự hạ thủy\n-sự lao cầu
-
+launching	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đúc đẩy
+-lao cầu
+-sự hạ thủy
+-sự lao cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đúc đẩy
+-lao cầu
+-sự hạ thủy
+-sự lao cầu

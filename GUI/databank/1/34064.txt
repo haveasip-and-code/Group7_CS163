@@ -1,3 +1,15 @@
-measuring
-	@Chuyên ngành kinh tế\n-sự đo\n-sự đong\n-việc đo lường\n@Chuyên ngành kỹ thuật\n-đo\n-phép đo\n-sự định lượng\n-sự đo\n-sự đo đạc\n-sự đo lường\n-sự pha chế\n@Lĩnh vực: điện\n-dùng để đo\n-việc đo
-
+measuring	@Chuyên ngành kinh tế
+-sự đo
+-sự đong
+-việc đo lường
+@Chuyên ngành kỹ thuật
+-đo
+-phép đo
+-sự định lượng
+-sự đo
+-sự đo đạc
+-sự đo lường
+-sự pha chế
+@Lĩnh vực: điện
+-dùng để đo
+-việc đo

@@ -1,3 +1,31 @@
-procedure
-	@procedure /procedure/\n*  danh từ\n- thủ tục\n=legal procedure+ thủ tục luật pháp\n=the procedure of the meeting+ thủ tục hội nghị\n@Chuyên ngành kinh tế\n-thủ tục\n-thủ tục tố tụng\n-trình tự\n-trình tự, thủ tục\n@Chuyên ngành kỹ thuật\n-biện pháp\n-cách tiến hành\n-lệnh\n-liệu pháp\n-nhiệm vụ\n-phương pháp\n-phương thức\n-quá trình\n-quá trình công nghệ\n-qui trình\n-quy trình\n-thao tác\n-tiến trình\n@Lĩnh vực: toán & tin\n-chỉ lệnh\n-thủ tục, phương pháp\n@Lĩnh vực: điện tử & viễn thông\n-khối thủ tục\n@Lĩnh vực: y học\n-phương thức, thủ tục
-
+procedure	@procedure /procedure/
+*  danh từ
+- thủ tục
+=legal procedure+ thủ tục luật pháp
+=the procedure of the meeting+ thủ tục hội nghị
+@Chuyên ngành kinh tế
+-thủ tục
+-thủ tục tố tụng
+-trình tự
+-trình tự, thủ tục
+@Chuyên ngành kỹ thuật
+-biện pháp
+-cách tiến hành
+-lệnh
+-liệu pháp
+-nhiệm vụ
+-phương pháp
+-phương thức
+-quá trình
+-quá trình công nghệ
+-qui trình
+-quy trình
+-thao tác
+-tiến trình
+@Lĩnh vực: toán & tin
+-chỉ lệnh
+-thủ tục, phương pháp
+@Lĩnh vực: điện tử & viễn thông
+-khối thủ tục
+@Lĩnh vực: y học
+-phương thức, thủ tục

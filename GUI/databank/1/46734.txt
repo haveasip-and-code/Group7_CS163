@@ -1,3 +1,9 @@
-removing
-	@Chuyên ngành kỹ thuật\n-sự giảm tải\n-sự loại bỏ\n@Lĩnh vực: xây dựng\n-sự bỏ tải\n-sự di chuyển đi\n-sự rời đi\n@Lĩnh vực: hóa học & vật liệu\n-sự tháo đi
-
+removing	@Chuyên ngành kỹ thuật
+-sự giảm tải
+-sự loại bỏ
+@Lĩnh vực: xây dựng
+-sự bỏ tải
+-sự di chuyển đi
+-sự rời đi
+@Lĩnh vực: hóa học & vật liệu
+-sự tháo đi

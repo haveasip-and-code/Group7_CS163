@@ -1,3 +1,2 @@
-reservationist
-	@Chuyên ngành kinh tế\n-nhân viên phụ trách đăng ký
-
+reservationist	@Chuyên ngành kinh tế
+-nhân viên phụ trách đăng ký

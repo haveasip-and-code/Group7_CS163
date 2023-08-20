@@ -1,3 +1,14 @@
-nodal
-	@nodal /'noudl/\n*  tính từ\n- (thuộc) nút\n=nodal point+ điểm nút\n@Chuyên ngành kỹ thuật\n-nút\n@Lĩnh vực: xây dựng\n-đầu mối\n-thuộc nút giàn\n-thuộc nút khung\n@Lĩnh vực: y học\n-thuộc nốt, hạch, nút\n@Lĩnh vực: điện lạnh\n-tiết điểm
-
+nodal	@nodal /'noudl/
+*  tính từ
+- (thuộc) nút
+=nodal point+ điểm nút
+@Chuyên ngành kỹ thuật
+-nút
+@Lĩnh vực: xây dựng
+-đầu mối
+-thuộc nút giàn
+-thuộc nút khung
+@Lĩnh vực: y học
+-thuộc nốt, hạch, nút
+@Lĩnh vực: điện lạnh
+-tiết điểm

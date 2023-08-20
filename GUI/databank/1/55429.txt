@@ -1,3 +1,4 @@
-tailgate
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cửa hậu\n-cửa sau xe
-
+tailgate	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cửa hậu
+-cửa sau xe

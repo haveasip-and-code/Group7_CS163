@@ -1,3 +1,2 @@
-pinball
-	@pinball\n- trò chi lăn bi ghim
-
+pinball	@pinball
+- trò chi lăn bi ghim

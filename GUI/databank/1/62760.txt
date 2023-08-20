@@ -1,3 +1,6 @@
-wheelbase
-	@wheelbase\n* danh từ\n- (kỹ thuật) khoảng cách giữa trước với trục sau của xe gắn động cơ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-khoảng cách giữa hai cầu xe (trước và sau)
-
+wheelbase	@wheelbase
+* danh từ
+- (kỹ thuật) khoảng cách giữa trước với trục sau của xe gắn động cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-khoảng cách giữa hai cầu xe (trước và sau)

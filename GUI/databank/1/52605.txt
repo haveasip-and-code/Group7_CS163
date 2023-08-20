@@ -1,3 +1,18 @@
-spooling
-	@spooling\n- (1) Một tiến trình mà trong đó nhiều thiết bị vào ra dường như hoạt động đồng thời, trong khi thực tế hệ thống đưa dữ liệu vào hoặc ra qua bộ đệm\n- (2) Dữ liệu được lưu trữ tạm thời trên các tập đựa hoặc băng từ cho tới khi một bộ phận khác của hệ thống sẵn sàng xử lí nó\n@Chuyên ngành kỹ thuật\n-sự cuộn\n-sự cuộn dây\n-sự quấn\n-sự tua băng\n@Lĩnh vực: toán & tin\n-cuộn dữ liệu\n-sự cuộn dữ liệu\n-sự đồng tác\n-sự lưu giữ tạm\n-sự lưu trữ tạm\n@Lĩnh vực: cơ khí & công trình\n-sự cuộn cáp (vào tang)\n@Lĩnh vực: vật lý\n-sự cuộn phim
-
+spooling	@spooling
+- (1) Một tiến trình mà trong đó nhiều thiết bị vào ra dường như hoạt động đồng thời, trong khi thực tế hệ thống đưa dữ liệu vào hoặc ra qua bộ đệm
+- (2) Dữ liệu được lưu trữ tạm thời trên các tập đựa hoặc băng từ cho tới khi một bộ phận khác của hệ thống sẵn sàng xử lí nó
+@Chuyên ngành kỹ thuật
+-sự cuộn
+-sự cuộn dây
+-sự quấn
+-sự tua băng
+@Lĩnh vực: toán & tin
+-cuộn dữ liệu
+-sự cuộn dữ liệu
+-sự đồng tác
+-sự lưu giữ tạm
+-sự lưu trữ tạm
+@Lĩnh vực: cơ khí & công trình
+-sự cuộn cáp (vào tang)
+@Lĩnh vực: vật lý
+-sự cuộn phim

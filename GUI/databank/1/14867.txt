@@ -1,3 +1,5 @@
-desulfurize
-	@Chuyên ngành kỹ thuật\n-khử lưu huỳnh\n-loại lưu huỳnh\n-tách lưu huỳnh
-
+desulfurize	
+@Chuyên ngành kỹ thuật
+-khử lưu huỳnh
+-loại lưu huỳnh
+-tách lưu huỳnh

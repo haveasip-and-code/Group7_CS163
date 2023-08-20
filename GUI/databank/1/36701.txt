@@ -1,3 +1,8 @@
-newsprint
-	@newsprint /'nju:zprint/\n*  danh từ\n- giấy in báo\n@Chuyên ngành kinh tế\n-giấy in báo\n@Chuyên ngành kỹ thuật\n-báo\n-giấy in báo
-
+newsprint	@newsprint /'nju:zprint/
+*  danh từ
+- giấy in báo
+@Chuyên ngành kinh tế
+-giấy in báo
+@Chuyên ngành kỹ thuật
+-báo
+-giấy in báo

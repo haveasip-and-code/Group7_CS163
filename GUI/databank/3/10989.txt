@@ -1,3 +1,2 @@
-condoner
-	@condoner\n- xem condone
-
+condoner	@condoner
+- xem condone

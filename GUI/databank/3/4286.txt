@@ -1,3 +1,4 @@
-axled
-	@Chuyên ngành kỹ thuật\n-trục\n@Lĩnh vực: cơ khí & công trình\n-chiều trục
-
+axled	@Chuyên ngành kỹ thuật
+-trục
+@Lĩnh vực: cơ khí & công trình
+-chiều trục

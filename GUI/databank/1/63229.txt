@@ -1,3 +1,27 @@
-wool
-	@wool /wul/\n*  danh từ\n- len; lông cừu, lông chiên\n=ball of wool+ cuộn len\n=raw wool+ len sống\n- hàng len; đồ len\n=the wool trade+ nghề buôn bán len, mậu dịch len\n- hàng giống len\n- (thông tục) tóc dày và quăn\n!to lose one's wool\n- (thông tục) nổi giận\n!much cry and little wool\n- (xem) cry\n!to pull the wool over a person's eye\n- lừa ai\n@Chuyên ngành kinh tế\n-dê\n-lạc đà không bướu\n-lông len làm thành bộ lông cừu\n@Chuyên ngành kỹ thuật\n-bông\n-hàng len\n-len\n-sợi\n-sợi len\n@Lĩnh vực: dệt may\n-phớt len
-
+wool	@wool /wul/
+*  danh từ
+- len; lông cừu, lông chiên
+=ball of wool+ cuộn len
+=raw wool+ len sống
+- hàng len; đồ len
+=the wool trade+ nghề buôn bán len, mậu dịch len
+- hàng giống len
+- (thông tục) tóc dày và quăn
+!to lose one's wool
+- (thông tục) nổi giận
+!much cry and little wool
+- (xem) cry
+!to pull the wool over a person's eye
+- lừa ai
+@Chuyên ngành kinh tế
+-dê
+-lạc đà không bướu
+-lông len làm thành bộ lông cừu
+@Chuyên ngành kỹ thuật
+-bông
+-hàng len
+-len
+-sợi
+-sợi len
+@Lĩnh vực: dệt may
+-phớt len

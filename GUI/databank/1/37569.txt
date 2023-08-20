@@ -1,3 +1,10 @@
-octroi
-	@octroi /'ɔktrwɑ:/\n*  danh từ\n- thuế nhập thị (đánh vào các hàng mang vào thành phố)\n- nơi thu thuế nhập thị\n- nhân viên thu thuế nhập thị\n@Chuyên ngành kinh tế\n-nhân viên thu thuế nhập thị\n-nơi thu thuế nhập thị\n-thuế chợ\n-thuế nhập thị (hàng hóa mang vào thành phố)
-
+octroi	@octroi /'ɔktrwɑ:/
+*  danh từ
+- thuế nhập thị (đánh vào các hàng mang vào thành phố)
+- nơi thu thuế nhập thị
+- nhân viên thu thuế nhập thị
+@Chuyên ngành kinh tế
+-nhân viên thu thuế nhập thị
+-nơi thu thuế nhập thị
+-thuế chợ
+-thuế nhập thị (hàng hóa mang vào thành phố)

@@ -1,3 +1,16 @@
-chimney
-	@chimney /'tʃimni/\n*  danh từ\n- ống khói\n- lò sưởi\n- thông phong đèn, bóng đèn\n- miệng (núi lửa)\n- khe núi, hẽm (núi)\n@Chuyên ngành kỹ thuật\n-đường dẫn khói\n-đường khói\n-lò sưởi\n-lò sưởi tường\n-ống hút thoát khí\n@Lĩnh vực: xây dựng\n-ống khói\n-ống khói (lò sưởi)
-
+chimney	@chimney /'tʃimni/
+*  danh từ
+- ống khói
+- lò sưởi
+- thông phong đèn, bóng đèn
+- miệng (núi lửa)
+- khe núi, hẽm (núi)
+@Chuyên ngành kỹ thuật
+-đường dẫn khói
+-đường khói
+-lò sưởi
+-lò sưởi tường
+-ống hút thoát khí
+@Lĩnh vực: xây dựng
+-ống khói
+-ống khói (lò sưởi)

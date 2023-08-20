@@ -1,3 +1,21 @@
-bass
-	@bass /bæs /\n*  danh từ số nhiều,  (thường) không đổi\n- (động vật học) cá pecca\n*  danh từ\n- (thực vật học) sợi vỏ cây đoạn\n- (từ Mỹ,nghĩa Mỹ) (như) bass-wood[beis]\n*  danh từ\n- (âm nhạc) giọng nam trầm\n- người hát giọng nam trầm; người có giọng trầm\n- kèn bát\n*  tính từ\n- (âm nhạc) trầm, nam trầm (giọng)\n@Chuyên ngành kinh tế\n-cá vược\n@Chuyên ngành kỹ thuật\n-âm trầm\n@Lĩnh vực: xây dựng\n-âm tần thấp\n-đất sét rắn\n@Lĩnh vực: điện\n-tiếng trầm
-
+bass	@bass /bæs /
+*  danh từ số nhiều,  (thường) không đổi
+- (động vật học) cá pecca
+*  danh từ
+- (thực vật học) sợi vỏ cây đoạn
+- (từ Mỹ,nghĩa Mỹ) (như) bass-wood[beis]
+*  danh từ
+- (âm nhạc) giọng nam trầm
+- người hát giọng nam trầm; người có giọng trầm
+- kèn bát
+*  tính từ
+- (âm nhạc) trầm, nam trầm (giọng)
+@Chuyên ngành kinh tế
+-cá vược
+@Chuyên ngành kỹ thuật
+-âm trầm
+@Lĩnh vực: xây dựng
+-âm tần thấp
+-đất sét rắn
+@Lĩnh vực: điện
+-tiếng trầm

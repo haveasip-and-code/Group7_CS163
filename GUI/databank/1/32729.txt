@@ -1,3 +1,13 @@
-loosening
-	@loosening\n* danh từ\n- sự nới lỏng (mối ghép)\n- sự vặn ra (vít)\n- sự xới tới (đất)\n@Chuyên ngành kỹ thuật\n-sự xới\n@Lĩnh vực: xây dựng\n-sự làm tơi\n-sự làm xốp\n-sự tơi\n@Lĩnh vực: hóa học & vật liệu\n-sự nới ra
-
+loosening	@loosening
+* danh từ
+- sự nới lỏng (mối ghép)
+- sự vặn ra (vít)
+- sự xới tới (đất)
+@Chuyên ngành kỹ thuật
+-sự xới
+@Lĩnh vực: xây dựng
+-sự làm tơi
+-sự làm xốp
+-sự tơi
+@Lĩnh vực: hóa học & vật liệu
+-sự nới ra

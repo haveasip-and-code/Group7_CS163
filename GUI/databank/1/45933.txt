@@ -1,3 +1,4 @@
-reciprocal
-	@reciprocal\n- đảo nghịch\n- r. of a matrix ma trận nghịch đảo\n- polar r. đối cực
-
+reciprocal	@reciprocal
+- đảo nghịch
+- r. of a matrix ma trận nghịch đảo
+- polar r. đối cực

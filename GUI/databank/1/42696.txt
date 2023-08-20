@@ -1,3 +1,17 @@
-portfolio
-	@portfolio /pɔ:t'fouljou/\n*  danh từ,  số nhiều portfolios  /pɔ:t'fouljouz/\n- cặp (giấy tờ, hồ sơ)\n- danh sách vốn đầu tư (của một công ty, một nhà ngân hàng)\n- (nghĩa bóng) chức vị bộ trưởng\n=minister without portfolio+ bộ trưởng không b\n@Chuyên ngành kinh tế\n-cặp đựng hồ sơ\n-danh mục đầu tư\n-danh mục vốn đầu tư\n-mục lục tài sản các chứng khoán có giá\n-quỹ đầu tư\n-tổ hợp chứng khoán đầu tư\n-toàn bộ chứng khoán có giá\n-tổng lượng đầu tư\n-tổng lượng tài sản\n-tổng ngạch phiếu khoán
-
+portfolio	@portfolio /pɔ:t'fouljou/
+*  danh từ,  số nhiều portfolios  /pɔ:t'fouljouz/
+- cặp (giấy tờ, hồ sơ)
+- danh sách vốn đầu tư (của một công ty, một nhà ngân hàng)
+- (nghĩa bóng) chức vị bộ trưởng
+=minister without portfolio+ bộ trưởng không b
+@Chuyên ngành kinh tế
+-cặp đựng hồ sơ
+-danh mục đầu tư
+-danh mục vốn đầu tư
+-mục lục tài sản các chứng khoán có giá
+-quỹ đầu tư
+-tổ hợp chứng khoán đầu tư
+-toàn bộ chứng khoán có giá
+-tổng lượng đầu tư
+-tổng lượng tài sản
+-tổng ngạch phiếu khoán

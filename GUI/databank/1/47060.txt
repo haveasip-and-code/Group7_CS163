@@ -1,3 +1,12 @@
-reserves
-	@Chuyên ngành kinh tế\n-dự trữ\n@Chuyên ngành kỹ thuật\n-dự trữ\n-lượng dự trữ\n-nguồn dự trữ\n-tài nguyên\n-tiềm lực\n-tiềm năng\n-vật dự trữ\n-vật liệu dự trữ\n-vật thay thế
-
+reserves	@Chuyên ngành kinh tế
+-dự trữ
+@Chuyên ngành kỹ thuật
+-dự trữ
+-lượng dự trữ
+-nguồn dự trữ
+-tài nguyên
+-tiềm lực
+-tiềm năng
+-vật dự trữ
+-vật liệu dự trữ
+-vật thay thế

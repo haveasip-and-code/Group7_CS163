@@ -1,3 +1,44 @@
-rust
-	@rust /rʌst/\n*  danh từ\n- gỉ (sắt, kim loại)\n- (nghĩa bóng) sự cùn trí nhớ, sự kém trí nhớ\n- (thực vật học) bệnh gỉ sắt\n*  nội động từ\n- gỉ\n*  ngoại động từ\n- làm gỉ\n!better wear out than rust out\n- thà rằng hoạt động mà suy nhược còn hơn là để chết dần chết mòn\n@Chuyên ngành kinh tế\n-bệnh đốm (thuốc lá)\n-bệnh rỉ sắt\n-bệnh than\n-bị sét\n-hỏng\n-ôi\n-sinh gỉ\n-sự gỉ sét\n-sự ôi khét\n@Chuyên ngành kỹ thuật\n-bị gỉ\n-gỉ\n-gỉ sắt\n-han gỉ\n-làm gỉ\n-làm han gỉ\n-muội\n-sự ăn mòn\n-sự gỉ\n-sự han gỉ\n-sự hóa màu đỏ\n-váng\n-vết gỉ\n@Lĩnh vực: thực phẩm\n-bệnh gỉ sắt\n@Lĩnh vực: y học\n-bệnh gỉ sắt (bệnh nấm cây)\n-gỉ (sắt, kim loại)\n@Lĩnh vực: toán & tin\n-gỉ, bị gỉ\n@Lĩnh vực: ô tô\n-hình thành gỉ
-
+rust	@rust /rʌst/
+*  danh từ
+- gỉ (sắt, kim loại)
+- (nghĩa bóng) sự cùn trí nhớ, sự kém trí nhớ
+- (thực vật học) bệnh gỉ sắt
+*  nội động từ
+- gỉ
+*  ngoại động từ
+- làm gỉ
+!better wear out than rust out
+- thà rằng hoạt động mà suy nhược còn hơn là để chết dần chết mòn
+@Chuyên ngành kinh tế
+-bệnh đốm (thuốc lá)
+-bệnh rỉ sắt
+-bệnh than
+-bị sét
+-hỏng
+-ôi
+-sinh gỉ
+-sự gỉ sét
+-sự ôi khét
+@Chuyên ngành kỹ thuật
+-bị gỉ
+-gỉ
+-gỉ sắt
+-han gỉ
+-làm gỉ
+-làm han gỉ
+-muội
+-sự ăn mòn
+-sự gỉ
+-sự han gỉ
+-sự hóa màu đỏ
+-váng
+-vết gỉ
+@Lĩnh vực: thực phẩm
+-bệnh gỉ sắt
+@Lĩnh vực: y học
+-bệnh gỉ sắt (bệnh nấm cây)
+-gỉ (sắt, kim loại)
+@Lĩnh vực: toán & tin
+-gỉ, bị gỉ
+@Lĩnh vực: ô tô
+-hình thành gỉ

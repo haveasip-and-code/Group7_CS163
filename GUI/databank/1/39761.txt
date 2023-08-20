@@ -1,3 +1,7 @@
-parlour
-	@parlour\n* danh từ\n- phòng khách (ở nhà riêng)\n- phòng khách riêng (ở khách sạn, quán trọ)\n- <Mỹ> cửa hiệu, dịch vụ\n@Chuyên ngành kỹ thuật\n-phòng tiếp khách
-
+parlour	@parlour
+* danh từ
+- phòng khách (ở nhà riêng)
+- phòng khách riêng (ở khách sạn, quán trọ)
+- <Mỹ> cửa hiệu, dịch vụ
+@Chuyên ngành kỹ thuật
+-phòng tiếp khách

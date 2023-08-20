@@ -1,3 +1,2 @@
-punctuator
-	@punctuator\n- xem punctuate
-
+punctuator	@punctuator
+- xem punctuate

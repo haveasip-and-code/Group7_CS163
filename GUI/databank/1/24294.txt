@@ -1,3 +1,9 @@
-grim
-	@grim /grim/\n*  tính từ\n- dữ tợn, tàn nhẫn, nhẫn tâm, ác nghiệt\n=a grim face+ nét mặt dữ tợn đầy sát khí\n=a grim smile+ nụ cười nham hiểm\n=a grim battle+ cuộc chiến đấu ác liệt\n- không lay chuyển được\n=grim determination+ quyết tâm không lay chuyển được
-
+grim	
+@grim /grim/
+*  tính từ
+- dữ tợn, tàn nhẫn, nhẫn tâm, ác nghiệt=a grim face
++ nét mặt dữ tợn đầy sát khí=a grim smile
++ nụ cười nham hiểm=a grim battle
++ cuộc chiến đấu ác liệt
+- không lay chuyển được=grim determination
++ quyết tâm không lay chuyển được

@@ -1,3 +1,2 @@
-confabulatory
-	@confabulatory\n- xem confabulate
-
+confabulatory	@confabulatory
+- xem confabulate

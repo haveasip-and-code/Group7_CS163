@@ -1,3 +1,35 @@
-truss
-	@truss /trʌs/\n*  danh từ\n- bó (rạ)\n- cụm (hoa)\n- (kiến trúc) vì kèo, giàn (mái nhà, cầu...)\n- (y học) băng giữ\n*  ngoại động từ\n- buộc, bó lại, trói gô lại\n=to truss a chicken before roasting+ buộc chân và cánh gà trước khi quay\n=to truss hay+ bó cỏ khô\n- (kiến trúc) đỡ (mái nhà...) bằng giàn\n- chụp, vồ, quắp (diều hâu...)\n@Chuyên ngành kỹ thuật\n-bó\n-bó buộc\n-chùm\n-dàn\n-gia cố\n-giàn\n-giàn giáo\n-giàn khung\n-giàn mái nhà\n-giàn mắt cáo\n-giàn rỗng\n-kèo mái\n-khung\n-khung mái lợp\n-khung sườn\n-liên kết\n-xà ngang\n@Lĩnh vực: xây dựng\n-kèo\n-vì kéo\n@Lĩnh vực: y học\n-nịt giữ thoát vị
-
+truss	@truss /trʌs/
+*  danh từ
+- bó (rạ)
+- cụm (hoa)
+- (kiến trúc) vì kèo, giàn (mái nhà, cầu...)
+- (y học) băng giữ
+*  ngoại động từ
+- buộc, bó lại, trói gô lại
+=to truss a chicken before roasting+ buộc chân và cánh gà trước khi quay
+=to truss hay+ bó cỏ khô
+- (kiến trúc) đỡ (mái nhà...) bằng giàn
+- chụp, vồ, quắp (diều hâu...)
+@Chuyên ngành kỹ thuật
+-bó
+-bó buộc
+-chùm
+-dàn
+-gia cố
+-giàn
+-giàn giáo
+-giàn khung
+-giàn mái nhà
+-giàn mắt cáo
+-giàn rỗng
+-kèo mái
+-khung
+-khung mái lợp
+-khung sườn
+-liên kết
+-xà ngang
+@Lĩnh vực: xây dựng
+-kèo
+-vì kéo
+@Lĩnh vực: y học
+-nịt giữ thoát vị

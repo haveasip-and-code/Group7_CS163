@@ -1,3 +1,2 @@
-deniability
-	@deniability\n- xem deniable
-
+deniability	@deniability
+- xem deniable

@@ -1,3 +1,9 @@
-millwright
-	@millwright /'milrait/\n*  danh từ\n- thợ cối xay\n@Chuyên ngành kỹ thuật\n-thợ lắp ráp\n@Lĩnh vực: cơ khí & công trình\n-thợ cối xay\n@Lĩnh vực: xây dựng\n-thợ lắp máy
-
+millwright	@millwright /'milrait/
+*  danh từ
+- thợ cối xay
+@Chuyên ngành kỹ thuật
+-thợ lắp ráp
+@Lĩnh vực: cơ khí & công trình
+-thợ cối xay
+@Lĩnh vực: xây dựng
+-thợ lắp máy

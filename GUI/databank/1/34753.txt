@@ -1,3 +1,6 @@
-micronized
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được micron hóa\n-được tán vụn\n@Lĩnh vực: xây dựng\n-được nghiền vụn
-
+micronized	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được micron hóa
+-được tán vụn
+@Lĩnh vực: xây dựng
+-được nghiền vụn

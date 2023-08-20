@@ -1,3 +1,7 @@
-propping
-	@Chuyên ngành kỹ thuật\n-hố đào\n-hố móng\n-sự chống\n-sự đỡ\n@Lĩnh vực: hóa học & vật liệu\n-sự dựng lên
-
+propping	@Chuyên ngành kỹ thuật
+-hố đào
+-hố móng
+-sự chống
+-sự đỡ
+@Lĩnh vực: hóa học & vật liệu
+-sự dựng lên

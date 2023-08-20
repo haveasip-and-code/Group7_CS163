@@ -1,3 +1,5 @@
-wives
-	@wives /waif/\n*  danh từ,  số nhiều wives\n- vợ\n=to take to wife+ (từ cổ,nghĩa cổ) lấy làm vợ, cưới làm vợ\n- (từ cổ,nghĩa cổ) người đàn bà; bà già
-
+wives	@wives /waif/
+*  danh từ,  số nhiều wives
+- vợ
+=to take to wife+ (từ cổ,nghĩa cổ) lấy làm vợ, cưới làm vợ
+- (từ cổ,nghĩa cổ) người đàn bà; bà già

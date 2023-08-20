@@ -1,3 +1,7 @@
-customize
-	@customize\n- (Tech) đặc chế\n@Chuyên ngành kỹ thuật\n-chiều lòng\n-tùy chỉnh\n@Lĩnh vực: toán & tin\n-tùy biến
-
+customize	@customize
+- (Tech) đặc chế
+@Chuyên ngành kỹ thuật
+-chiều lòng
+-tùy chỉnh
+@Lĩnh vực: toán & tin
+-tùy biến

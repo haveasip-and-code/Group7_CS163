@@ -1,3 +1,2 @@
-subemployment
-	@Chuyên ngành kinh tế\n-tình trạng không đủ công ăn việc làm
-
+subemployment	@Chuyên ngành kinh tế
+-tình trạng không đủ công ăn việc làm

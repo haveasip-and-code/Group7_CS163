@@ -1,3 +1,20 @@
-vaporize
-	@vaporize /'veipəraiz/ (vaporise) /'veipəraiz/\n*  ngoại động từ\n- làm cho bốc hơi\n- xì, bơm (nước hoa...)\n*  nội động từ\n- bốc hơi, lên hơi\n@Chuyên ngành kinh tế\n-bốc hơi\n-tạo hơi\n@Chuyên ngành kỹ thuật\n-bay hơi\n-bốc hơi\n-làm bay hơi\n-làm cho bốc hơi\n@Lĩnh vực: hóa học & vật liệu\n-hóa hơi\n@Lĩnh vực: y học\n-hóa hơi, bay hơi\n@Lĩnh vực: vật lý\n-làm bốc hơi
-
+vaporize	@vaporize /'veipəraiz/ (vaporise) /'veipəraiz/
+*  ngoại động từ
+- làm cho bốc hơi
+- xì, bơm (nước hoa...)
+*  nội động từ
+- bốc hơi, lên hơi
+@Chuyên ngành kinh tế
+-bốc hơi
+-tạo hơi
+@Chuyên ngành kỹ thuật
+-bay hơi
+-bốc hơi
+-làm bay hơi
+-làm cho bốc hơi
+@Lĩnh vực: hóa học & vật liệu
+-hóa hơi
+@Lĩnh vực: y học
+-hóa hơi, bay hơi
+@Lĩnh vực: vật lý
+-làm bốc hơi

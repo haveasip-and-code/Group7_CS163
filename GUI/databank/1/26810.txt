@@ -1,3 +1,5 @@
-hypostatic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cân bằng thấp\n-đọng chỗ thấp
-
+hypostatic	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cân bằng thấp
+-đọng chỗ thấp

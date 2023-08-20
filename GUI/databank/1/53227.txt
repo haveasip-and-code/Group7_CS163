@@ -1,3 +1,4 @@
-steps
-	@Chuyên ngành kỹ thuật\n-bước\n-giai đoạn\n-thứ tự
-
+steps	@Chuyên ngành kỹ thuật
+-bước
+-giai đoạn
+-thứ tự

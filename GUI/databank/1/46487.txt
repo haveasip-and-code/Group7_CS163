@@ -1,3 +1,9 @@
-reheater
-	@reheater\n* danh từ\n- dụng cụ để hâm lại, dụng cụ đun nóng lại\n@Chuyên ngành kỹ thuật\n-lò sưởi bổ sung\n@Lĩnh vực: điện\n-bộ hãm lại\n@Lĩnh vực: hóa học & vật liệu\n-thiết bị nung lại
-
+reheater	@reheater
+* danh từ
+- dụng cụ để hâm lại, dụng cụ đun nóng lại
+@Chuyên ngành kỹ thuật
+-lò sưởi bổ sung
+@Lĩnh vực: điện
+-bộ hãm lại
+@Lĩnh vực: hóa học & vật liệu
+-thiết bị nung lại

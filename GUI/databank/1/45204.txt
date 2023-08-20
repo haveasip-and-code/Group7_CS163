@@ -1,3 +1,21 @@
-quilt
-	@quilt /kwilt/\n*  danh từ\n- mền bông; mền đắp, chăn\n*  ngoại động từ\n- chần, may chần (mền, chăn...)\n- khâu (thư, tiền...) vào giữa hai lần áo\n- thu nhập tài liệu để biên soạn (sách)\n- (từ lóng) đánh, nện cho một trận\n@Chuyên ngành kỹ thuật\n-chăn bông\n-chăn lông vịt\n-đệm bông\n-đệm cách nhiệt\n-mềm bông\n-mền bông\n@Lĩnh vực: dệt may\n-chần\n-khâu đột\n-may chần\n-may xuống\n-mền chăn
-
+quilt	@quilt /kwilt/
+*  danh từ
+- mền bông; mền đắp, chăn
+*  ngoại động từ
+- chần, may chần (mền, chăn...)
+- khâu (thư, tiền...) vào giữa hai lần áo
+- thu nhập tài liệu để biên soạn (sách)
+- (từ lóng) đánh, nện cho một trận
+@Chuyên ngành kỹ thuật
+-chăn bông
+-chăn lông vịt
+-đệm bông
+-đệm cách nhiệt
+-mềm bông
+-mền bông
+@Lĩnh vực: dệt may
+-chần
+-khâu đột
+-may chần
+-may xuống
+-mền chăn

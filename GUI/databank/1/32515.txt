@@ -1,3 +1,18 @@
-loam
-	@loam /loun/\n*  danh từ\n- đất nhiều mùm\n- đất sét trộn (để trét vách, để làm gạch)\n@Chuyên ngành kỹ thuật\n-đất sét\n-đất sét pha\n-pha sét\n-sét pha\n@Lĩnh vực: xây dựng\n-đất á sét\n@Chuyên ngành kỹ thuật\n-đất sét\n-đất sét pha\n-pha sét\n-sét pha\n@Lĩnh vực: xây dựng\n-đất á sét
-
+loam	@loam /loun/
+*  danh từ
+- đất nhiều mùm
+- đất sét trộn (để trét vách, để làm gạch)
+@Chuyên ngành kỹ thuật
+-đất sét
+-đất sét pha
+-pha sét
+-sét pha
+@Lĩnh vực: xây dựng
+-đất á sét
+@Chuyên ngành kỹ thuật
+-đất sét
+-đất sét pha
+-pha sét
+-sét pha
+@Lĩnh vực: xây dựng
+-đất á sét

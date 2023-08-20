@@ -1,3 +1,8 @@
-mating
-	@Chuyên ngành kỹ thuật\n-nối tiếp\n-sự ăn khớp\n-sự đối tiếp\n-sự khớp nhau\n-sự liên hợp\n@Lĩnh vực: y học\n-giao cấu, ghép đôi
-
+mating	@Chuyên ngành kỹ thuật
+-nối tiếp
+-sự ăn khớp
+-sự đối tiếp
+-sự khớp nhau
+-sự liên hợp
+@Lĩnh vực: y học
+-giao cấu, ghép đôi

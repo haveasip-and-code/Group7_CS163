@@ -1,3 +1,9 @@
-chat
-	@chat /tʃæt/\n*  danh từ\n- chuyện phiếm, chuyện gẫu; chuyện thân thuộc\n*  nội động từ\n- nói chuyện phiếm, tán gẫu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chuyện gẫu
-
+chat	
+@chat /tʃæt/
+*  danh từ
+- chuyện phiếm, chuyện gẫu; chuyện thân thuộc
+*  nội động từ
+- nói chuyện phiếm, tán gẫu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chuyện gẫu

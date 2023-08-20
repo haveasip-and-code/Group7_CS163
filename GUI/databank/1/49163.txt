@@ -1,3 +1,6 @@
-scooping
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự múc vét\n-sự vét\n@Lĩnh vực: xây dựng\n-sự xúc
-
+scooping	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự múc vét
+-sự vét
+@Lĩnh vực: xây dựng
+-sự xúc

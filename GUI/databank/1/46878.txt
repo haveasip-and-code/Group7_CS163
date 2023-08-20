@@ -1,3 +1,10 @@
-replica
-	@replica /'replikə/\n*  danh từ\n- bản sao (của bức tranh, bức tượng)\n- (kỹ thuật) mẫu, kiểu, mô hình\n- (kỹ thuật) cái dưỡng, tấm dưỡng\n@Chuyên ngành kỹ thuật\n-bản sao\n@Lĩnh vực: điện lạnh\n-bản dập\n-bản in vết
-
+replica	@replica /'replikə/
+*  danh từ
+- bản sao (của bức tranh, bức tượng)
+- (kỹ thuật) mẫu, kiểu, mô hình
+- (kỹ thuật) cái dưỡng, tấm dưỡng
+@Chuyên ngành kỹ thuật
+-bản sao
+@Lĩnh vực: điện lạnh
+-bản dập
+-bản in vết

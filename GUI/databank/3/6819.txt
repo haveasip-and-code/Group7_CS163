@@ -1,3 +1,4 @@
-brisance
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sức nổ\n-tính nổ
-
+brisance	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sức nổ
+-tính nổ

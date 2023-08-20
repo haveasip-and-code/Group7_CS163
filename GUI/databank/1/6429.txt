@@ -1,3 +1,8 @@
-bottoms
-	@Chuyên ngành kỹ thuật\n-các đáy\n-đáy tách\n@Lĩnh vực: hóa học & vật liệu\n-cặn (chứng cất)\n-chất kết lắng\n-phần lắng
-
+bottoms	
+@Chuyên ngành kỹ thuật
+-các đáy
+-đáy tách
+@Lĩnh vực: hóa học & vật liệu
+-cặn (chứng cất)
+-chất kết lắng
+-phần lắng

@@ -1,3 +1,10 @@
-permanence
-	@permanence /'pə:mənəns/\n*  danh từ\n- sự lâu dài, sự lâu bền, sự vĩnh cửu, sự thường xuyên, sự thường trực; sự cố định\n- tính lâu dài, tính lâu bền, tính vĩnh cửu, tính thường xuyên; tính cố định\n- cái lâu bền; cái thường xuyên; cái cố định\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tính không đổi\n-tính thường trực\n-tính thường xuyên
-
+permanence	@permanence /'pə:mənəns/
+*  danh từ
+- sự lâu dài, sự lâu bền, sự vĩnh cửu, sự thường xuyên, sự thường trực; sự cố định
+- tính lâu dài, tính lâu bền, tính vĩnh cửu, tính thường xuyên; tính cố định
+- cái lâu bền; cái thường xuyên; cái cố định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính không đổi
+-tính thường trực
+-tính thường xuyên

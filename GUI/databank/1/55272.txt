@@ -1,3 +1,3 @@
-synfuel
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nhiên liệu tổng hợp
-
+synfuel	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-nhiên liệu tổng hợp

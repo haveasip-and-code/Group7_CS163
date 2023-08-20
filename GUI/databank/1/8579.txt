@@ -1,3 +1,4 @@
-cerebrospinal
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc não tủy
-
+cerebrospinal	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc não tủy

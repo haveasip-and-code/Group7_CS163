@@ -1,3 +1,23 @@
-poor
-	@poor /puə/\n*  tính từ\n- nghèo, bần cùng\n- xấu, tồi, kém, yếu\n=poor soil+ đất xấu\n=to be poor at mathematics+ kém toán\n- thô thiển\n=in my poor opinion+ theo thiển ý của tôi\n- đáng thương, tội nghiệp\n- đáng khinh, tầm thường, không đáng kể\n- hèn nhát, hèn hạ\n@Chuyên ngành kinh tế\n-chất lượng thấp\n-cùng dân\n-không có chất béo\n-không trộn bơ sữa (bột nhào)\n-nghèo\n-người bần cùng\n-người nghèo\n@Chuyên ngành kỹ thuật\n-nghèo\n-thô\n-xấu
-
+poor	@poor /puə/
+*  tính từ
+- nghèo, bần cùng
+- xấu, tồi, kém, yếu
+=poor soil+ đất xấu
+=to be poor at mathematics+ kém toán
+- thô thiển
+=in my poor opinion+ theo thiển ý của tôi
+- đáng thương, tội nghiệp
+- đáng khinh, tầm thường, không đáng kể
+- hèn nhát, hèn hạ
+@Chuyên ngành kinh tế
+-chất lượng thấp
+-cùng dân
+-không có chất béo
+-không trộn bơ sữa (bột nhào)
+-nghèo
+-người bần cùng
+-người nghèo
+@Chuyên ngành kỹ thuật
+-nghèo
+-thô
+-xấu

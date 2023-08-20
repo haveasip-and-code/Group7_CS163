@@ -1,3 +1,24 @@
-graduate
-	@graduate /'grædjut/\n*  danh từ\n- (như) grad\n- (hoá học) cốc chia độ\n*  ngoại động từ\n- chia độ\n- tăng dần dần\n- sắp xếp theo mức độ\n- cô đặc dần (bằng cách cho bay hơi)\n- cấp bằng tốt nghiệp đại học\n*  nội động từ\n- được cấp bằng tốt nghiệp đại học; tốt nghiệp đại học\n=to graduate in law+ tố nghiệp về luật\n- chuyển dần dần thành\n- tự bồi dưỡng để đạt tiêu chuẩn; tự bồi dưỡng để đủ tư cách\n=to attend an evening class to graduate as an engineer+ học lớp buổi tối để đạt trình độ kỹ sư\n@Chuyên ngành kỹ thuật\n-chia\n-phân cấp\n-phân loại\n-sắp xếp\n@Lĩnh vực: xây dựng\n-tốt nghiệp
-
+graduate	
+@graduate /'grædjut/
+*  danh từ
+- (như) grad
+- (hoá học) cốc chia độ
+*  ngoại động từ
+- chia độ
+- tăng dần dần
+- sắp xếp theo mức độ
+- cô đặc dần (bằng cách cho bay hơi)
+- cấp bằng tốt nghiệp đại học
+*  nội động từ
+- được cấp bằng tốt nghiệp đại học; tốt nghiệp đại học=to graduate in law
++ tố nghiệp về luật
+- chuyển dần dần thành
+- tự bồi dưỡng để đạt tiêu chuẩn; tự bồi dưỡng để đủ tư cách=to attend an evening class to graduate as an engineer
++ học lớp buổi tối để đạt trình độ kỹ sư
+@Chuyên ngành kỹ thuật
+-chia
+-phân cấp
+-phân loại
+-sắp xếp
+@Lĩnh vực: xây dựng
+-tốt nghiệp

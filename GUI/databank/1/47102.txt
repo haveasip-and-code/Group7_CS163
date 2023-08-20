@@ -1,3 +1,2 @@
-resins
-	@Chuyên ngành kỹ thuật\n-nhựa
-
+resins	@Chuyên ngành kỹ thuật
+-nhựa

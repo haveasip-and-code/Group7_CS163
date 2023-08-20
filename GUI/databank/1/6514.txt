@@ -1,3 +1,87 @@
-box
-	@box /bɔks/\n*  danh từ\n- hộp, thùng, tráp, bao\n- chỗ ngồi (của người đánh xe ngựa)\n- lô (rạp hát); phòng nhỏ (khách sạn); ô (chuồng ngựa)\n- chòi, điếm (canh)\n- ghế (ở toà án, cho quan toà, nhân chứng...)\n- tủ sắt, két sắt (để bạc); ông, hộp (bỏ tiền)\n=to put in the box+ bỏ ống\n- quà (lễ giáng sinh)\n- lều nhỏ, chỗ trú chân (của người đi săn)\n- (kỹ thuật) hộp ống lót\n!to be in the same box\n- cùng chung một cảnh ngộ (với ai)\n!to be in one's thinking box\n- suy nghĩ chính chắn, thận trọng\n=in a tight out box+ lâm vào hoàn cảnh khó khăn\n=to be in the wrong box+ lâm vào hoàn cảnh khó xử\n*  ngoại động từ\n- bỏ vào hộp\n- đệ (đơn) lên toà án\n- ngăn riêng ra; nhốt riêng vào từng ô chuồng\n!to box up\n- nhốt vào chuông hẹp\n- đóng kín vào hộp\n!to box the compass\n- (xem) compass\n*  danh từ\n- cái tát, cái bạt\n=a box on the ear+ cái bạt tai\n*  động từ\n- tát, bạt (tai...)\n=to box someone's ears+ bạt tai ai\n- đánh quyền Anh\n*  danh từ\n- (thực vật học) cây hoàng dương\n@Chuyên ngành kinh tế\n-bao\n-đóng vào thùng\n-giấy ký gửi chứng khoán\n-hòm\n-hộp\n-két\n-két nhỏ\n-thùng\n-tráp\n-tủ nhỏ\n-vô hộp\n-vô thùng\n@Chuyên ngành kỹ thuật\n-buồng nhỏ\n-chậu\n-đóng hộp\n-hòm\n-hòm khuôn\n-hộp\n-hộp bìa cứng\n-hộp các tông\n-hộp dao\n-hộp giảm thanh\n-hộp phân phối\n-khoang\n-khung\n-khuôn\n-lớp bọc vỏ bọc\n-ngăn\n-ngăn hộp\n-ống lót\n-vỏ bọc\n-vỏ chụp\n@Lĩnh vực: điện\n-bạc lót, hộp ống lót\n@Lĩnh vực: xây dựng\n-bệ sửa chữa\n-đóng thùng\n-hộp (khóa)\n-hộp giếng chìm\n-hộp ống lót\n@Lĩnh vực: giao thông & vận tải\n-hòm thung\n-hòm xe\n-ngăn chuồng\n@Lĩnh vực: cơ khí & công trình\n-máng lót (ổ trục)\n-mui ban đầu\n-thùng nhỏ\n@Lĩnh vực: toán & tin\n-ô vuông\n@Lĩnh vực: ô tô\n-xe goòng (dưới lò)
-
+box	
+@box /bɔks/
+*  danh từ
+- hộp, thùng, tráp, bao
+- chỗ ngồi (của người đánh xe ngựa)
+- lô (rạp hát); phòng nhỏ (khách sạn); ô (chuồng ngựa)
+- chòi, điếm (canh)
+- ghế (ở toà án, cho quan toà, nhân chứng...)
+- tủ sắt, két sắt (để bạc); ông, hộp (bỏ tiền)=to put in the box
++ bỏ ống
+- quà (lễ giáng sinh)
+- lều nhỏ, chỗ trú chân (của người đi săn)
+- (kỹ thuật) hộp ống lót!to be in the same box
+- cùng chung một cảnh ngộ (với ai)!to be in one's thinking box
+- suy nghĩ chính chắn, thận trọng=in a tight out box
++ lâm vào hoàn cảnh khó khăn=to be in the wrong box
++ lâm vào hoàn cảnh khó xử
+*  ngoại động từ
+- bỏ vào hộp
+- đệ (đơn) lên toà án
+- ngăn riêng ra; nhốt riêng vào từng ô chuồng!to box up
+- nhốt vào chuông hẹp
+- đóng kín vào hộp!to box the compass
+- (xem) compass
+*  danh từ
+- cái tát, cái bạt=a box on the ear
++ cái bạt tai
+*  động từ
+- tát, bạt (tai...)=to box someone's ears
++ bạt tai ai
+- đánh quyền Anh
+*  danh từ
+- (thực vật học) cây hoàng dương
+@Chuyên ngành kinh tế
+-bao
+-đóng vào thùng
+-giấy ký gửi chứng khoán
+-hòm
+-hộp
+-két
+-két nhỏ
+-thùng
+-tráp
+-tủ nhỏ
+-vô hộp
+-vô thùng
+@Chuyên ngành kỹ thuật
+-buồng nhỏ
+-chậu
+-đóng hộp
+-hòm
+-hòm khuôn
+-hộp
+-hộp bìa cứng
+-hộp các tông
+-hộp dao
+-hộp giảm thanh
+-hộp phân phối
+-khoang
+-khung
+-khuôn
+-lớp bọc vỏ bọc
+-ngăn
+-ngăn hộp
+-ống lót
+-vỏ bọc
+-vỏ chụp
+@Lĩnh vực: điện
+-bạc lót, hộp ống lót
+@Lĩnh vực: xây dựng
+-bệ sửa chữa
+-đóng thùng
+-hộp (khóa)
+-hộp giếng chìm
+-hộp ống lót
+@Lĩnh vực: giao thông & vận tải
+-hòm thung
+-hòm xe
+-ngăn chuồng
+@Lĩnh vực: cơ khí & công trình
+-máng lót (ổ trục)
+-mui ban đầu
+-thùng nhỏ
+@Lĩnh vực: toán & tin
+-ô vuông
+@Lĩnh vực: ô tô
+-xe goòng (dưới lò)

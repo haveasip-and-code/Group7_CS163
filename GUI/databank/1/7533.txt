@@ -1,3 +1,19 @@
-calendar
-	@calendar /'kælində/\n*  danh từ\n- lịch (ghi năm tháng)\n=calendar month+ tháng dương lịch\n- lịch công tác\n- (tôn giáo) danh sách các vị thánh\n- (pháp lý) danh sách những vụ án được đem ra xét xử\n- sổ hằng năm (của trường đại học)\n- (từ Mỹ,nghĩa Mỹ) chương trình nghị sự (của nghị viện...)\n*  ngoại động từ\n- ghi vào lịch\n- ghi vào danh sách\n- sắp xếp (tài liệu) theo trình tự thời gian\n@Chuyên ngành kinh tế\n-danh mục chứng khoán mới\n-danh sách\n@Chuyên ngành kỹ thuật\n-lịch
-
+calendar	
+@calendar /'kælində/
+*  danh từ
+- lịch (ghi năm tháng)=calendar month
++ tháng dương lịch
+- lịch công tác
+- (tôn giáo) danh sách các vị thánh
+- (pháp lý) danh sách những vụ án được đem ra xét xử
+- sổ hằng năm (của trường đại học)
+- (từ Mỹ,nghĩa Mỹ) chương trình nghị sự (của nghị viện...)
+*  ngoại động từ
+- ghi vào lịch
+- ghi vào danh sách
+- sắp xếp (tài liệu) theo trình tự thời gian
+@Chuyên ngành kinh tế
+-danh mục chứng khoán mới
+-danh sách
+@Chuyên ngành kỹ thuật
+-lịch

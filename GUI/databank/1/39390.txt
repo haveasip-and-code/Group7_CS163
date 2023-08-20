@@ -1,3 +1,8 @@
-pamphlet
-	@pamphlet /'pæmflit/\n*  danh từ\n- Pamfơlê, cuốn sách nhỏ (bàn về một vấn đề thời sự...)\n@Chuyên ngành kinh tế\n-cuốn sách nhỏ (tuyên truyền)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cuốn sách nhỏ
-
+pamphlet	@pamphlet /'pæmflit/
+*  danh từ
+- Pamfơlê, cuốn sách nhỏ (bàn về một vấn đề thời sự...)
+@Chuyên ngành kinh tế
+-cuốn sách nhỏ (tuyên truyền)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cuốn sách nhỏ

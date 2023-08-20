@@ -1,3 +1,5 @@
-marks
-	@Chuyên ngành kinh tế\n-ký hiệu hàng hóa\n-nhãn hiệu\n-nhãn hiệu chế tạo\n-nhãn hiệu hàng hóa
-
+marks	@Chuyên ngành kinh tế
+-ký hiệu hàng hóa
+-nhãn hiệu
+-nhãn hiệu chế tạo
+-nhãn hiệu hàng hóa

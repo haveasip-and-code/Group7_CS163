@@ -1,3 +1,6 @@
-liman
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vũng cửa sông\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vũng cửa sông
-
+liman	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-vũng cửa sông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-vũng cửa sông

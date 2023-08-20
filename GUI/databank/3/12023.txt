@@ -1,3 +1,8 @@
-correlated
-	@correlated\n- tương quan\n@Chuyên ngành kỹ thuật\n-tương quan\n@Lĩnh vực: hóa học & vật liệu\n-được liên hệ với\n-được liên kết với\n-tương ứng với
-
+correlated	@correlated
+- tương quan
+@Chuyên ngành kỹ thuật
+-tương quan
+@Lĩnh vực: hóa học & vật liệu
+-được liên hệ với
+-được liên kết với
+-tương ứng với

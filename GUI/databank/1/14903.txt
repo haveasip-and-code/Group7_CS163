@@ -1,3 +1,16 @@
-deteriorate
-	@deteriorate /di'tiəriəreit/\n*  ngoại động từ\n- làm hư hỏng\n- làm giảm giá trị, làm cho xấu hơn\n*  nội động từ\n- hư hỏng đi, giảm giá trị\n- (nghĩa bóng) thành sa đoạ, trở nên xấu hơn\n@Chuyên ngành kinh tế\n-hỏng\n-kém đi\n-xấu đi\n@Chuyên ngành kỹ thuật\n-bị hỏng\n-bị hủy hoại\n-làm hỏng
-
+deteriorate	
+@deteriorate /di'tiəriəreit/
+*  ngoại động từ
+- làm hư hỏng
+- làm giảm giá trị, làm cho xấu hơn
+*  nội động từ
+- hư hỏng đi, giảm giá trị
+- (nghĩa bóng) thành sa đoạ, trở nên xấu hơn
+@Chuyên ngành kinh tế
+-hỏng
+-kém đi
+-xấu đi
+@Chuyên ngành kỹ thuật
+-bị hỏng
+-bị hủy hoại
+-làm hỏng

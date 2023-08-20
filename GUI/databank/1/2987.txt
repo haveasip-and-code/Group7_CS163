@@ -1,3 +1,17 @@
-appliance
-	@appliance /ə'plaiəns/\n*  danh từ\n- sự gắn vào, sự áp vào, sự ghép vào, sự đính vào, sự đắp vào, sự tra vào ((cũng) appliance) ((cũng) application)\n- đồ thiết bị, trang thiết bị, dụng cụ\n=appliances of war+ dụng cụ chiến tranh\n=domestic electric appliances+ dụng cụ điện dùng trong nhà\n- (số nhiều) đồ phụ tùng (của một cái máy)\n@Chuyên ngành kỹ thuật\n-dụng cụ\n-dụng cụ, thiết bị\n-máy móc\n-phụ tùng\n@Lĩnh vực: cơ khí & công trình\n-phụ tùng máy\n@Lĩnh vực: xây dựng\n-sự ứng dụng
-
+appliance	
+@appliance /ə'plaiəns/
+*  danh từ
+- sự gắn vào, sự áp vào, sự ghép vào, sự đính vào, sự đắp vào, sự tra vào ((cũng) appliance) ((cũng) application)
+- đồ thiết bị, trang thiết bị, dụng cụ=appliances of war
++ dụng cụ chiến tranh=domestic electric appliances
++ dụng cụ điện dùng trong nhà
+- (số nhiều) đồ phụ tùng (của một cái máy)
+@Chuyên ngành kỹ thuật
+-dụng cụ
+-dụng cụ, thiết bị
+-máy móc
+-phụ tùng
+@Lĩnh vực: cơ khí & công trình
+-phụ tùng máy
+@Lĩnh vực: xây dựng
+-sự ứng dụng

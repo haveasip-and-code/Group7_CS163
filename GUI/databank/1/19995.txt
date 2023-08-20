@@ -1,3 +1,4 @@
-exscind
-	@exscind /ek'sind/\n*  ngoại động từ\n- cắt, cắt bỏ ((nghĩa đen) & (nghĩa bóng))
-
+exscind	
+@exscind /ek'sind/
+*  ngoại động từ
+- cắt, cắt bỏ ((nghĩa đen) & (nghĩa bóng))

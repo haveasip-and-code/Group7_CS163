@@ -1,3 +1,2 @@
-causable
-	@causable\n- xem cause
-
+causable	@causable
+- xem cause

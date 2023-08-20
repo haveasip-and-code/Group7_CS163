@@ -1,3 +1,14 @@
-aliment
-	@aliment /'ælimənt/\n*  danh từ\n- đồ ăn\n- sự cấp dưỡng; sự giúp đỡ về vật chất và tinh thần\n*  ngoại động từ\n- cho ăn, nuôi dưỡng\n- cấp dưỡng; giúp đỡ về vật chất và tinh thần\n@Chuyên ngành kinh tế\n-đồ ăn\n-sự cấp dưỡng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thức ăn
-
+aliment	
+@aliment /'ælimənt/
+*  danh từ
+- đồ ăn
+- sự cấp dưỡng; sự giúp đỡ về vật chất và tinh thần
+*  ngoại động từ
+- cho ăn, nuôi dưỡng
+- cấp dưỡng; giúp đỡ về vật chất và tinh thần
+@Chuyên ngành kinh tế
+-đồ ăn
+-sự cấp dưỡng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thức ăn

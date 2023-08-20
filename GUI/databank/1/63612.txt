@@ -1,3 +1,29 @@
-zone
-	@zone /zoun/\n*  danh từ\n- (địa lý,địa chất) đới\n=the torrid zone+ đới nóng, nhiệt đới\n=the temperate zone+ đới ôn hoà, ôn đới\n=the frigid zone+ đới lạnh, hàn đới\n- khu vực, miền; vùng\n=within the zone of submarine activity+ trong khu vực hoạt động của tàu ngầm\n=the zone of influence+ khu vực ảnh hưởng\n=the zone of operations+ khu vực tác chiến\n- (từ cổ,nghĩa cổ),  (thơ ca) dây nịt, dây dưng\n*  ngoại động từ\n- chia thành đới, chia thành khu vực, quy vùng\n=to zone a district for industry+ quy vùng một khu để xây dựng công nghiệp\n@Chuyên ngành kinh tế\n-địa đới\n-địa khu\n-đới\n-khu\n-khu bưu chính\n-khu vực\n-vùng\n@Chuyên ngành kỹ thuật\n-dải\n-đai\n-đới\n-khu vực\n-miền\n-vùng
-
+zone	@zone /zoun/
+*  danh từ
+- (địa lý,địa chất) đới
+=the torrid zone+ đới nóng, nhiệt đới
+=the temperate zone+ đới ôn hoà, ôn đới
+=the frigid zone+ đới lạnh, hàn đới
+- khu vực, miền; vùng
+=within the zone of submarine activity+ trong khu vực hoạt động của tàu ngầm
+=the zone of influence+ khu vực ảnh hưởng
+=the zone of operations+ khu vực tác chiến
+- (từ cổ,nghĩa cổ),  (thơ ca) dây nịt, dây dưng
+*  ngoại động từ
+- chia thành đới, chia thành khu vực, quy vùng
+=to zone a district for industry+ quy vùng một khu để xây dựng công nghiệp
+@Chuyên ngành kinh tế
+-địa đới
+-địa khu
+-đới
+-khu
+-khu bưu chính
+-khu vực
+-vùng
+@Chuyên ngành kỹ thuật
+-dải
+-đai
+-đới
+-khu vực
+-miền
+-vùng

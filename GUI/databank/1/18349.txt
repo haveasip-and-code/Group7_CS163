@@ -1,3 +1,5 @@
-engineered
-	@Chuyên ngành kỹ thuật\n-được thiết kế\n@Chuyên ngành kỹ thuật\n-được thiết kế
-
+engineered	
+@Chuyên ngành kỹ thuật
+-được thiết kế
+@Chuyên ngành kỹ thuật
+-được thiết kế

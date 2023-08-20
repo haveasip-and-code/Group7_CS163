@@ -1,3 +1,2 @@
-confider
-	@confider\n- xem confide
-
+confider	@confider
+- xem confide

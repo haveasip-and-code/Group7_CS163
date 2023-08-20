@@ -1,3 +1,4 @@
-sulfuric
-	@sulfuric\n- <hóa> xunfuric; chứa lưu hùynh hoá trị cao\n@Chuyên ngành kỹ thuật\n-sunfuric
-
+sulfuric	@sulfuric
+- <hóa> xunfuric; chứa lưu hùynh hoá trị cao
+@Chuyên ngành kỹ thuật
+-sunfuric

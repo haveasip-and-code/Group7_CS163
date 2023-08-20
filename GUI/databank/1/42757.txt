@@ -1,3 +1,9 @@
-postcode
-	@postcode\n* danh từ\n- mã thư tín\n@Chuyên ngành kinh tế\n-mã (số) bưu điện\n-mã số bưu điện\n-số hiệu bưu chính\n@Chuyên ngành kỹ thuật\n-mã bưu điện
-
+postcode	@postcode
+* danh từ
+- mã thư tín
+@Chuyên ngành kinh tế
+-mã (số) bưu điện
+-mã số bưu điện
+-số hiệu bưu chính
+@Chuyên ngành kỹ thuật
+-mã bưu điện

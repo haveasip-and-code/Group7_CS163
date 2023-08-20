@@ -1,3 +1,5 @@
-outvote
-	@outvote /aut'vout/\n*  ngoại động từ\n- thắng phiếu (trong cuộc bầu phiếu, trong sự biểu quyết)\n@Chuyên ngành kinh tế\n-đạt số phiếu bầu cao hơn (đối phương)
-
+outvote	@outvote /aut'vout/
+*  ngoại động từ
+- thắng phiếu (trong cuộc bầu phiếu, trong sự biểu quyết)
+@Chuyên ngành kinh tế
+-đạt số phiếu bầu cao hơn (đối phương)

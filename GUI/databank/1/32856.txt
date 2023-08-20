@@ -1,3 +1,2 @@
-lozenges
-	@Chuyên ngành kinh tế\n-kẹo lozenzic (kẹo dòn)
-
+lozenges	@Chuyên ngành kinh tế
+-kẹo lozenzic (kẹo dòn)

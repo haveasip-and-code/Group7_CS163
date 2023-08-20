@@ -1,3 +1,29 @@
-preserve
-	@preserve /pri'zə:v/\n*  danh từ\n- mứt\n- khu vực cấm săn, khu vực cấm câu cá\n- (số nhiều) kính phòng bụi, kính bảo hộ lao động\n*  ngoại động từ\n- giữ, giữ gìn, bảo quản, bảo tồn, duy trì\n=to preserve someone from the cold+ giữ cho ai khỏi lạnh\n=to preserve a youthful appearance+ giữ được vẻ trẻ trung\n=to preserve order+ giữ được trật tự\n- giữ để lâu (thức ăn, quả, thịt...) (bằng cách đóng hộp, ướp muối, nấu đường...)\n- (hoá học) giữ cho khỏi phân huỷ\n- giữ, dành riêng (khu săn, khu đánh cá...)\n@Chuyên ngành kinh tế\n-bảo quản\n-bảo vệ\n-đồ hộp được thanh trùng\n-sự bảo quản\n-sự bảo vệ\n@Chuyên ngành kỹ thuật\n-bảo quản\n-bảo toàn\n-bảo vệ\n-đóng hộp\n-duy trì\n-gìn giữ\n-giữ gìn\n@Lĩnh vực: toán & tin\n-bảo toàn, giữ gìn
-
+preserve	@preserve /pri'zə:v/
+*  danh từ
+- mứt
+- khu vực cấm săn, khu vực cấm câu cá
+- (số nhiều) kính phòng bụi, kính bảo hộ lao động
+*  ngoại động từ
+- giữ, giữ gìn, bảo quản, bảo tồn, duy trì
+=to preserve someone from the cold+ giữ cho ai khỏi lạnh
+=to preserve a youthful appearance+ giữ được vẻ trẻ trung
+=to preserve order+ giữ được trật tự
+- giữ để lâu (thức ăn, quả, thịt...) (bằng cách đóng hộp, ướp muối, nấu đường...)
+- (hoá học) giữ cho khỏi phân huỷ
+- giữ, dành riêng (khu săn, khu đánh cá...)
+@Chuyên ngành kinh tế
+-bảo quản
+-bảo vệ
+-đồ hộp được thanh trùng
+-sự bảo quản
+-sự bảo vệ
+@Chuyên ngành kỹ thuật
+-bảo quản
+-bảo toàn
+-bảo vệ
+-đóng hộp
+-duy trì
+-gìn giữ
+-giữ gìn
+@Lĩnh vực: toán & tin
+-bảo toàn, giữ gìn

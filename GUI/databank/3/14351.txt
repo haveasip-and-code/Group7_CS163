@@ -1,3 +1,2 @@
-demineralizer
-	@demineralizer\n- xem demineralize
-
+demineralizer	@demineralizer
+- xem demineralize

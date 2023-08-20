@@ -1,3 +1,70 @@
-slide
-	@slide /slaid/\n*  danh từ\n- sự trượt\n- đường trượt trên tuyết\n- mặt nghiêng, ván trượt (để trượt hàng hoá...)\n- khe trượt; bộ phận trượt (trong máy)\n- bản kính mang vật (ở kính hiển vi)\n- bản kính dương (đèn chiếu)\n- (âm nhạc) luyến ngắt\n*  nội động từ slid\n- trượt, chuyển động nhẹ nhàng\n=piston slides noiselessly up and down+ pittông chuyển động lên xuống rất êm\n- lướt qua, đi lướt\n=to slide over a delicate subject+ đi lướt qua một vấn đề tế nhị\n- đi qua, trôi qua\n=let things slide+ để sự việc trôi qua\n- rơi vào, sa ngã\n=to slide into sin+ sa ngã vào vòng tội lỗi\n- (âm nhạc) luyến\n=to slide from one note to another+ luyến từ nốt này sang nốt khác\n*  ngoại động từ\n- bỏ, thả, đẩy nhẹ, đẩy trượt\n=to slide timber+ thả gỗ theo sườn núi\n=to slide drawer into place+ đẩy nhẹ ngăn kéo vào\n@Chuyên ngành kinh tế\n-phần kéo ra được\n@Chuyên ngành kỹ thuật\n-bàn dao\n-bàn dao chữ thập\n-bàn trượt\n-con chạy (trên thước cân)\n-con mã\n-con trượt điều tiết\n-đầu trượt\n-đầu xọc\n-đẩy\n-đẩy trượt\n-dương bản\n-đường dẫn trượt\n-đường trượt\n-giá lắc\n-giấy bóng kính\n-khối nặng di động\n-khối nặng trượt\n-máng\n-máng thả\n-máng trượt\n-mặt nghiêng, ván trượt\n-mặt trượt\n-phim dương bản\n-pittông\n-rãnh trượt\n-sự quay trượt\n-sự trượt\n-ụ trượt\n-van cửa\n-van điều tiết\n-van trượt\n-vòng trượt\n@Lĩnh vực: điện tử & viễn thông\n-bộ trượt\n@Lĩnh vực: vật lý\n-cấu trượt\n-miếng kính đặt vật (kính hiển vi)\n@Lĩnh vực: toán & tin\n-phim đèn chiếu\n@Lĩnh vực: xây dựng\n-phim điapozitip\n@Lĩnh vực: điện lạnh\n-tấm phim (để) chiếu
-
+slide	@slide /slaid/
+*  danh từ
+- sự trượt
+- đường trượt trên tuyết
+- mặt nghiêng, ván trượt (để trượt hàng hoá...)
+- khe trượt; bộ phận trượt (trong máy)
+- bản kính mang vật (ở kính hiển vi)
+- bản kính dương (đèn chiếu)
+- (âm nhạc) luyến ngắt
+*  nội động từ slid
+- trượt, chuyển động nhẹ nhàng
+=piston slides noiselessly up and down+ pittông chuyển động lên xuống rất êm
+- lướt qua, đi lướt
+=to slide over a delicate subject+ đi lướt qua một vấn đề tế nhị
+- đi qua, trôi qua
+=let things slide+ để sự việc trôi qua
+- rơi vào, sa ngã
+=to slide into sin+ sa ngã vào vòng tội lỗi
+- (âm nhạc) luyến
+=to slide from one note to another+ luyến từ nốt này sang nốt khác
+*  ngoại động từ
+- bỏ, thả, đẩy nhẹ, đẩy trượt
+=to slide timber+ thả gỗ theo sườn núi
+=to slide drawer into place+ đẩy nhẹ ngăn kéo vào
+@Chuyên ngành kinh tế
+-phần kéo ra được
+@Chuyên ngành kỹ thuật
+-bàn dao
+-bàn dao chữ thập
+-bàn trượt
+-con chạy (trên thước cân)
+-con mã
+-con trượt điều tiết
+-đầu trượt
+-đầu xọc
+-đẩy
+-đẩy trượt
+-dương bản
+-đường dẫn trượt
+-đường trượt
+-giá lắc
+-giấy bóng kính
+-khối nặng di động
+-khối nặng trượt
+-máng
+-máng thả
+-máng trượt
+-mặt nghiêng, ván trượt
+-mặt trượt
+-phim dương bản
+-pittông
+-rãnh trượt
+-sự quay trượt
+-sự trượt
+-ụ trượt
+-van cửa
+-van điều tiết
+-van trượt
+-vòng trượt
+@Lĩnh vực: điện tử & viễn thông
+-bộ trượt
+@Lĩnh vực: vật lý
+-cấu trượt
+-miếng kính đặt vật (kính hiển vi)
+@Lĩnh vực: toán & tin
+-phim đèn chiếu
+@Lĩnh vực: xây dựng
+-phim điapozitip
+@Lĩnh vực: điện lạnh
+-tấm phim (để) chiếu

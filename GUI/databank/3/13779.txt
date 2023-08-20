@@ -1,3 +1,2 @@
-decelerator
-	@decelerator\n- xem decelerate
-
+decelerator	@decelerator
+- xem decelerate

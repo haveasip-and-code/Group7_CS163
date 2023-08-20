@@ -1,3 +1,17 @@
-babble
-	@babble /'bæbl/\n*  danh từ+ (babblement)\n/'bæblmənt/\n- tiếng bập bẹ, tiếng bi bô (trẻ con)\n- sự nói lảm nhảm, sự\n- tiếng rì rào, tiếng róc rách (suối)\n- sự tiết lộ (bí mật)\n*  động từ\n- bập bẹ, bi bô (trẻ con)\n- nói nhiều, nói lảm nhảm, bép xép\n- rì rào, róc rách (suối)\n- tiết lộ (bí mật)\n@Chuyên ngành kỹ thuật\n-âm nhiễu\n@Lĩnh vực: toán & tin\n-sự nhiễu âm\n-sự xuyên âm
-
+babble	@babble /'bæbl/
+*  danh từ+ (babblement)
+/'bæblmənt/
+- tiếng bập bẹ, tiếng bi bô (trẻ con)
+- sự nói lảm nhảm, sự
+- tiếng rì rào, tiếng róc rách (suối)
+- sự tiết lộ (bí mật)
+*  động từ
+- bập bẹ, bi bô (trẻ con)
+- nói nhiều, nói lảm nhảm, bép xép
+- rì rào, róc rách (suối)
+- tiết lộ (bí mật)
+@Chuyên ngành kỹ thuật
+-âm nhiễu
+@Lĩnh vực: toán & tin
+-sự nhiễu âm
+-sự xuyên âm

@@ -1,3 +1,3 @@
-misconnection
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự nối lệch
-
+misconnection	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự nối lệch

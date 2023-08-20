@@ -1,3 +1,2 @@
-apologizer
-	@apologizer\n- xem apologize
-
+apologizer	@apologizer
+- xem apologize

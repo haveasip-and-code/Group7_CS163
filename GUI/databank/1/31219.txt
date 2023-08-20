@@ -1,3 +1,21 @@
-labeling
-	@Chuyên ngành kinh tế\n-phí dán nhãn (hàng hóa)\n-sự dán nhãn\n@Chuyên ngành kỹ thuật\n-ghi nhãn\n-sự dán nhãn\n-sự ghi nhãn\n-sự làm nhãn\n@Lĩnh vực: vật lý\n-sự gán nhãn\n@Lĩnh vực: toán & tin\n-sự tạo nhãn\n@Chuyên ngành kỹ thuật\n-ghi nhãn\n-sự dán nhãn\n-sự ghi nhãn\n-sự làm nhãn\n@Lĩnh vực: vật lý\n-sự gán nhãn\n@Lĩnh vực: toán & tin\n-sự tạo nhãn
-
+labeling	@Chuyên ngành kinh tế
+-phí dán nhãn (hàng hóa)
+-sự dán nhãn
+@Chuyên ngành kỹ thuật
+-ghi nhãn
+-sự dán nhãn
+-sự ghi nhãn
+-sự làm nhãn
+@Lĩnh vực: vật lý
+-sự gán nhãn
+@Lĩnh vực: toán & tin
+-sự tạo nhãn
+@Chuyên ngành kỹ thuật
+-ghi nhãn
+-sự dán nhãn
+-sự ghi nhãn
+-sự làm nhãn
+@Lĩnh vực: vật lý
+-sự gán nhãn
+@Lĩnh vực: toán & tin
+-sự tạo nhãn

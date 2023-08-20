@@ -1,3 +1,5 @@
-treated
-	@Chuyên ngành kỹ thuật\n-chế biến\n-gia công\n@Lĩnh vực: điện lạnh\n-đã xử lý
-
+treated	@Chuyên ngành kỹ thuật
+-chế biến
+-gia công
+@Lĩnh vực: điện lạnh
+-đã xử lý

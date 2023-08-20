@@ -1,3 +1,60 @@
-lean
-	@lean /li:n/\n*  danh từ\n- độ nghiêng, độ dốc\n- chỗ nạc\n*  tính từ\n- gầy còm\n- nạc, không dính mỡ (thịt)\n- đói kém, mất mùa\n=a lean year+ một năm đói kém, một năm mất mùa\n- không bổ (thức ăn); gầy (than, quặng...); không lợi lộc gì (việc làm)\n*  ngoại động từ leaned,  leant\n- dựa, tựa, chống\n*  nội động từ\n- nghiêng đi\n- (+ back,  forward,  out,  over) cúi, ngả người\n=to lean forward+ ngả người về phía trước\n- (+ against,  on,  upon) dựa, tựa, chống\n=to lean against the wall+ dựa vào tường\n- ỷ vào, dựa vào; (quân sự) dựa vào sự yểm hộ bên sườn của (một đạo quân...)\n=to lean on someone's help+ dựa vào sự giúp đỡ của ai\n- (+ to,  towards) nghiêng về, thiên về\n=to lean towards communism+ thiên về chủ nghĩa cộng sản\n@Chuyên ngành kinh tế\n-đói kém\n-gầy\n-ít ỏi\n-không dính mỡ\n-mất mùa\n-nạc\n-ốm\n@Chuyên ngành kỹ thuật\n-độ dốc\n-độ nghiêng\n-gầy\n-lệch\n-nghèo\n-nghèo (khoáng vật)\n-nghiêng\n-yếu\n@Lĩnh vực: cơ khí & công trình\n-dựa vào\n@Lĩnh vực: xây dựng\n-gầy (đất sét)\n@Lĩnh vực: hóa học & vật liệu\n-không béo\n@Chuyên ngành kỹ thuật\n-độ dốc\n-độ nghiêng\n-gầy\n-lệch\n-nghèo\n-nghèo (khoáng vật)\n-nghiêng\n-yếu\n@Lĩnh vực: cơ khí & công trình\n-dựa vào\n@Lĩnh vực: xây dựng\n-gầy (đất sét)\n@Lĩnh vực: hóa học & vật liệu\n-không béo
-
+lean	@lean /li:n/
+*  danh từ
+- độ nghiêng, độ dốc
+- chỗ nạc
+*  tính từ
+- gầy còm
+- nạc, không dính mỡ (thịt)
+- đói kém, mất mùa
+=a lean year+ một năm đói kém, một năm mất mùa
+- không bổ (thức ăn); gầy (than, quặng...); không lợi lộc gì (việc làm)
+*  ngoại động từ leaned,  leant
+- dựa, tựa, chống
+*  nội động từ
+- nghiêng đi
+- (+ back,  forward,  out,  over) cúi, ngả người
+=to lean forward+ ngả người về phía trước
+- (+ against,  on,  upon) dựa, tựa, chống
+=to lean against the wall+ dựa vào tường
+- ỷ vào, dựa vào; (quân sự) dựa vào sự yểm hộ bên sườn của (một đạo quân...)
+=to lean on someone's help+ dựa vào sự giúp đỡ của ai
+- (+ to,  towards) nghiêng về, thiên về
+=to lean towards communism+ thiên về chủ nghĩa cộng sản
+@Chuyên ngành kinh tế
+-đói kém
+-gầy
+-ít ỏi
+-không dính mỡ
+-mất mùa
+-nạc
+-ốm
+@Chuyên ngành kỹ thuật
+-độ dốc
+-độ nghiêng
+-gầy
+-lệch
+-nghèo
+-nghèo (khoáng vật)
+-nghiêng
+-yếu
+@Lĩnh vực: cơ khí & công trình
+-dựa vào
+@Lĩnh vực: xây dựng
+-gầy (đất sét)
+@Lĩnh vực: hóa học & vật liệu
+-không béo
+@Chuyên ngành kỹ thuật
+-độ dốc
+-độ nghiêng
+-gầy
+-lệch
+-nghèo
+-nghèo (khoáng vật)
+-nghiêng
+-yếu
+@Lĩnh vực: cơ khí & công trình
+-dựa vào
+@Lĩnh vực: xây dựng
+-gầy (đất sét)
+@Lĩnh vực: hóa học & vật liệu
+-không béo

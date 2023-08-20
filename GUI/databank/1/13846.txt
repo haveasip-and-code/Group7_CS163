@@ -1,3 +1,28 @@
-declaration
-	@declaration /,deklə'reiʃn/\n*  danh từ\n- sự tuyên bố; lời tuyên bố\n=to make a declaration+ tuyên bố\n=a declaration of war+ sự tuyên chiến\n- bản tuyên ngôn\n=the Declaration of human rights+ bản tuyên ngôn nhân quyền\n- sự công bố\n=the declaration of the poll+ sự công bố kết quả bầu cử\n- (thương nghiệp); (pháp lý) sự khai, lời khai; tờ khai\n- (đánh bài) sự xướng lên\n@Chuyên ngành kinh tế\n-bản tuyên bố\n-khai báo\n-sự khai trình\n-sự tuyên bố\n-thông báo rời cảng\n-tờ khai\n-tờ thanh minh\n-tuyên cáo\n@Chuyên ngành kỹ thuật\n-khai báo\n-sự khai báo\n@Lĩnh vực: toán & tin\n-lời khai báo\n@Lĩnh vực: xây dựng\n-tuyên ngôn
-
+declaration	
+@declaration /,deklə'reiʃn/
+*  danh từ
+- sự tuyên bố; lời tuyên bố=to make a declaration
++ tuyên bố=a declaration of war
++ sự tuyên chiến
+- bản tuyên ngôn=the Declaration of human rights
++ bản tuyên ngôn nhân quyền
+- sự công bố=the declaration of the poll
++ sự công bố kết quả bầu cử
+- (thương nghiệp); (pháp lý) sự khai, lời khai; tờ khai
+- (đánh bài) sự xướng lên
+@Chuyên ngành kinh tế
+-bản tuyên bố
+-khai báo
+-sự khai trình
+-sự tuyên bố
+-thông báo rời cảng
+-tờ khai
+-tờ thanh minh
+-tuyên cáo
+@Chuyên ngành kỹ thuật
+-khai báo
+-sự khai báo
+@Lĩnh vực: toán & tin
+-lời khai báo
+@Lĩnh vực: xây dựng
+-tuyên ngôn

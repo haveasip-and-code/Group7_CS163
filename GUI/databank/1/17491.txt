@@ -1,3 +1,17 @@
-efflux
-	@efflux /'eflʌks/\n*  danh từ\n- sự tuôn ra\n- vật tuôn ra, cái tuôn ra\n@Chuyên ngành kỹ thuật\n-dòng chảy ra\n-sự chảy ra\n-sự chảy thoát\n-sự rò rỉ\n-sự thoát ra\n-sự tuôn ra\n@Lĩnh vực: hóa học & vật liệu\n-chảy thoát\n-tuôn ra\n@Lĩnh vực: điện\n-dòng thoát
-
+efflux	
+@efflux /'eflʌks/
+*  danh từ
+- sự tuôn ra
+- vật tuôn ra, cái tuôn ra
+@Chuyên ngành kỹ thuật
+-dòng chảy ra
+-sự chảy ra
+-sự chảy thoát
+-sự rò rỉ
+-sự thoát ra
+-sự tuôn ra
+@Lĩnh vực: hóa học & vật liệu
+-chảy thoát
+-tuôn ra
+@Lĩnh vực: điện
+-dòng thoát

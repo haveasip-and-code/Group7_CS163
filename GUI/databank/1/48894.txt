@@ -1,3 +1,9 @@
-scalene
-	@scalene /'skeili:n/\n*  tính từ\n- (toán học) lệch\n=scalene triangle+ tam giác lệch\n=scalene muscle+ cơ bậc thang\n@Chuyên ngành kỹ thuật\n-không cân\n-không đều cạnh\n-lệch
-
+scalene	@scalene /'skeili:n/
+*  tính từ
+- (toán học) lệch
+=scalene triangle+ tam giác lệch
+=scalene muscle+ cơ bậc thang
+@Chuyên ngành kỹ thuật
+-không cân
+-không đều cạnh
+-lệch

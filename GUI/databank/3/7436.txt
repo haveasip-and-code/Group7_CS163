@@ -1,3 +1,2 @@
-cadmic
-	@cadmic\n- xem cadmium
-
+cadmic	@cadmic
+- xem cadmium

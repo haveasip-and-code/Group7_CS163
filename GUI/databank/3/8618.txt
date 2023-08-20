@@ -1,3 +1,5 @@
-cerumen
-	@cerumen /si'ru:men/\n*  danh từ\n- ráy tai\n@Chuyên ngành kỹ thuật\n-ráy tai
-
+cerumen	@cerumen /si'ru:men/
+*  danh từ
+- ráy tai
+@Chuyên ngành kỹ thuật
+-ráy tai

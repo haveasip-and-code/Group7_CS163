@@ -1,3 +1,4 @@
-subzone
-	@Chuyên ngành kỹ thuật\n-phân khu\n@Lĩnh vực: xây dựng\n-tiểu khu
-
+subzone	@Chuyên ngành kỹ thuật
+-phân khu
+@Lĩnh vực: xây dựng
+-tiểu khu

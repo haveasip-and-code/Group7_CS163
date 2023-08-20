@@ -1,3 +1,13 @@
-sentinel
-	@sentinel /'sentinl/\n*  danh từ\n- lính gác, lính canh\n=to stand sentinel over+ đứng gác, đứng canh\n*  ngoại động từ\n- (thơ ca) đứng gác, đứng canh\n- (từ hiếm,nghĩa hiếm) đặt lính gác\n@Chuyên ngành kỹ thuật\n-cờ hiệu\n-dự phòng\n-dự trữ\n@Lĩnh vực: điện lạnh\n-ký hiệu báo (đầu cuối)
-
+sentinel	@sentinel /'sentinl/
+*  danh từ
+- lính gác, lính canh
+=to stand sentinel over+ đứng gác, đứng canh
+*  ngoại động từ
+- (thơ ca) đứng gác, đứng canh
+- (từ hiếm,nghĩa hiếm) đặt lính gác
+@Chuyên ngành kỹ thuật
+-cờ hiệu
+-dự phòng
+-dự trữ
+@Lĩnh vực: điện lạnh
+-ký hiệu báo (đầu cuối)

@@ -1,3 +1,21 @@
-yellow
-	@yellow /'jelou/\n*  tính từ\n- vàng\n=to grow (turn, get, become) yellow+ vàng ra, hoá vàng; úa vàng (lá)\n- ghen ghét, ghen tị, đố kỵ, ngờ vực\n=to cast a yellow look at+ nhìn (ai) bằng con mắt ghen ghét\n- (thông tục) nhút nhát, nhát gan\n- (từ Mỹ,nghĩa Mỹ) vàng; có tính chất giật gân (báo chí)\n*  danh từ\n- màu vàng\n- bướm vàng\n- (số nhiều) tính ghen ghét, tính ghen tị, tính đố kỵ\n- (thông tục) tính nhút nhát, tính nhát gan\n- (số nhiều) (y học) bệnh vàng da\n*  động từ\n- vàng ra, hoá vàng; nhuốm vàng, nhuộm vàng\n@Chuyên ngành kỹ thuật\n-màu vàng\n-vàng\n@Lĩnh vực: dệt may\n-hóa vàng
-
+yellow	@yellow /'jelou/
+*  tính từ
+- vàng
+=to grow (turn, get, become) yellow+ vàng ra, hoá vàng; úa vàng (lá)
+- ghen ghét, ghen tị, đố kỵ, ngờ vực
+=to cast a yellow look at+ nhìn (ai) bằng con mắt ghen ghét
+- (thông tục) nhút nhát, nhát gan
+- (từ Mỹ,nghĩa Mỹ) vàng; có tính chất giật gân (báo chí)
+*  danh từ
+- màu vàng
+- bướm vàng
+- (số nhiều) tính ghen ghét, tính ghen tị, tính đố kỵ
+- (thông tục) tính nhút nhát, tính nhát gan
+- (số nhiều) (y học) bệnh vàng da
+*  động từ
+- vàng ra, hoá vàng; nhuốm vàng, nhuộm vàng
+@Chuyên ngành kỹ thuật
+-màu vàng
+-vàng
+@Lĩnh vực: dệt may
+-hóa vàng

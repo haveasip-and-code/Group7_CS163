@@ -1,3 +1,14 @@
-lacuna
-	@lacuna /lə'kju:nə/\n*  danh từ,  số nhiều lacunae  /lə'kju:ni:/,  lacunas  /lə'kju:nəz/\n- kẽ hở, lỗ khuyết, lỗ hổng\n- chỗ thiếu, chỗ khuyết, chỗ sót\n@Chuyên ngành kỹ thuật\n-chỗ thiếu\n-lỗ hổng\n@Lĩnh vực: toán & tin\n-chỗ khuyết\n@Chuyên ngành kỹ thuật\n-chỗ thiếu\n-lỗ hổng\n@Lĩnh vực: toán & tin\n-chỗ khuyết
-
+lacuna	@lacuna /lə'kju:nə/
+*  danh từ,  số nhiều lacunae  /lə'kju:ni:/,  lacunas  /lə'kju:nəz/
+- kẽ hở, lỗ khuyết, lỗ hổng
+- chỗ thiếu, chỗ khuyết, chỗ sót
+@Chuyên ngành kỹ thuật
+-chỗ thiếu
+-lỗ hổng
+@Lĩnh vực: toán & tin
+-chỗ khuyết
+@Chuyên ngành kỹ thuật
+-chỗ thiếu
+-lỗ hổng
+@Lĩnh vực: toán & tin
+-chỗ khuyết

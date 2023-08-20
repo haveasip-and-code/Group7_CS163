@@ -1,3 +1,4 @@
-aftertax
-	@aftertax\n* danh từ\n- thuế phụ thu
-
+aftertax	
+@aftertax
+* danh từ
+- thuế phụ thu

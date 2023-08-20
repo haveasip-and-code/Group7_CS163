@@ -1,3 +1,28 @@
-loft
-	@loft /lɔft/\n*  danh từ\n- gác xép\n- giảng đàn (trong giáo đường)\n- chuồng bồ câu; đành bồ câu\n- (thể dục,thể thao) cú đánh võng lên (bóng gôn)\n*  ngoại động từ\n- nhốt (bồ câu) trong chuồng\n- (thể dục,thể thao) đánh võng lên (bóng gôn)\n@Chuyên ngành kinh tế\n-chái nhà kho\n-ngăn bếp lò\n@Chuyên ngành kỹ thuật\n-dưỡng\n-gác thượng\n-lò\n-tầng áp mái\n@Lĩnh vực: cơ khí & công trình\n-gác xép\n-gian vạch mẫu\n@Chuyên ngành kỹ thuật\n-dưỡng\n-gác thượng\n-lò\n-tầng áp mái\n@Lĩnh vực: cơ khí & công trình\n-gác xép\n-gian vạch mẫu
-
+loft	@loft /lɔft/
+*  danh từ
+- gác xép
+- giảng đàn (trong giáo đường)
+- chuồng bồ câu; đành bồ câu
+- (thể dục,thể thao) cú đánh võng lên (bóng gôn)
+*  ngoại động từ
+- nhốt (bồ câu) trong chuồng
+- (thể dục,thể thao) đánh võng lên (bóng gôn)
+@Chuyên ngành kinh tế
+-chái nhà kho
+-ngăn bếp lò
+@Chuyên ngành kỹ thuật
+-dưỡng
+-gác thượng
+-lò
+-tầng áp mái
+@Lĩnh vực: cơ khí & công trình
+-gác xép
+-gian vạch mẫu
+@Chuyên ngành kỹ thuật
+-dưỡng
+-gác thượng
+-lò
+-tầng áp mái
+@Lĩnh vực: cơ khí & công trình
+-gác xép
+-gian vạch mẫu

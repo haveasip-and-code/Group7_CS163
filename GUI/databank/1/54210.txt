@@ -1,3 +1,11 @@
-subsoil
-	@subsoil /'sʌbsɔil/\n*  danh từ\n- tầng đất cái\n*  ngoại động từ\n- đảo tầng đất cái lên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đất dưới bề mặt\n-tầng đất cái\n-tầng đất cát\n-tầng đất gốc
-
+subsoil	@subsoil /'sʌbsɔil/
+*  danh từ
+- tầng đất cái
+*  ngoại động từ
+- đảo tầng đất cái lên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đất dưới bề mặt
+-tầng đất cái
+-tầng đất cát
+-tầng đất gốc

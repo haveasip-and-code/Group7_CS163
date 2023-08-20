@@ -1,3 +1,17 @@
-recurrent
-	@recurrent /ri'kʌrənt/\n*  tính từ\n- trở lại luôn, thường tái diễn, có định kỳ\n- (y học) hồi quy\n=recurrent fever+ sốt hồi quy\n@Chuyên ngành kinh tế\n-định kỳ (phát sinh)\n-tái đi tái lại\n-thường tái diễn\n-thường xuyên (phát sinh)\n-trở lại luôn\n@Chuyên ngành kỹ thuật\n-lặp\n-lặp lại\n-trả lại\n@Lĩnh vực: y học\n-tái hồi
-
+recurrent	@recurrent /ri'kʌrənt/
+*  tính từ
+- trở lại luôn, thường tái diễn, có định kỳ
+- (y học) hồi quy
+=recurrent fever+ sốt hồi quy
+@Chuyên ngành kinh tế
+-định kỳ (phát sinh)
+-tái đi tái lại
+-thường tái diễn
+-thường xuyên (phát sinh)
+-trở lại luôn
+@Chuyên ngành kỹ thuật
+-lặp
+-lặp lại
+-trả lại
+@Lĩnh vực: y học
+-tái hồi

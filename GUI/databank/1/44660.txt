@@ -1,3 +1,4 @@
-pulpwood
-	@Chuyên ngành kỹ thuật\n-bột gỗ làm giấy\n-gỗ làm bột giấy\n-gỗ làm giấy
-
+pulpwood	@Chuyên ngành kỹ thuật
+-bột gỗ làm giấy
+-gỗ làm bột giấy
+-gỗ làm giấy

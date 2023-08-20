@@ -1,3 +1,9 @@
-electronically
-	@electronically\n* phó từ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kiểu điện tử\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kiểu điện tử
-
+electronically	
+@electronically
+* phó từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kiểu điện tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kiểu điện tử

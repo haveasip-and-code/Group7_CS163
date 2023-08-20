@@ -1,3 +1,6 @@
-hemihedral
-	@Chuyên ngành kỹ thuật\n-nửa đối xứng\n-nửa mặt\n@Lĩnh vực: hóa học & vật liệu\n-bán diện
-
+hemihedral	
+@Chuyên ngành kỹ thuật
+-nửa đối xứng
+-nửa mặt
+@Lĩnh vực: hóa học & vật liệu
+-bán diện

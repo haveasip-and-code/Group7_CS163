@@ -1,3 +1,2 @@
-physicality
-	@physicality\n- xem physical
-
+physicality	@physicality
+- xem physical

@@ -1,3 +1,11 @@
-preceding
-	@preceding /pri:'si:diɳ/\n*  tính từ\n- trước\n@Chuyên ngành kỹ thuật\n-sự đi trước\n-trước\n@Lĩnh vực: toán & tin\n-cách quãng\n@Lĩnh vực: cơ khí & công trình\n-sự có trước\n-sự đến trước
-
+preceding	@preceding /pri:'si:diɳ/
+*  tính từ
+- trước
+@Chuyên ngành kỹ thuật
+-sự đi trước
+-trước
+@Lĩnh vực: toán & tin
+-cách quãng
+@Lĩnh vực: cơ khí & công trình
+-sự có trước
+-sự đến trước

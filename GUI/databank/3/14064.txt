@@ -1,3 +1,2 @@
-definement
-	@definement\n- xem define
-
+definement	@definement
+- xem define

@@ -1,3 +1,9 @@
-continuos
-	@continuos\n- liên tục, kéo dài\n- c. on the left (right) liên tục bên trái, phải\n- absolutaly c. liên tục tuyệt đối\n- equally c. liên tục đồng bậc\n- piecewise c. liên tục từng mảnh\n- sectionally c. liên tục từng mảnh\n- totally c. liên tục tuyệt đối
-
+continuos	
+@continuos
+- liên tục, kéo dài
+- c. on the left (right) liên tục bên trái, phải
+- absolutaly c. liên tục tuyệt đối
+- equally c. liên tục đồng bậc
+- piecewise c. liên tục từng mảnh
+- sectionally c. liên tục từng mảnh
+- totally c. liên tục tuyệt đối

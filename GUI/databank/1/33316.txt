@@ -1,3 +1,8 @@
-mainframe
-	@mainframe\n- máy tính lớn\n@Chuyên ngành kỹ thuật\n-máy tính lớn\n@Lĩnh vực: xây dựng\n-đại khung\n@Lĩnh vực: điện lạnh\n-máy chính
-
+mainframe	@mainframe
+- máy tính lớn
+@Chuyên ngành kỹ thuật
+-máy tính lớn
+@Lĩnh vực: xây dựng
+-đại khung
+@Lĩnh vực: điện lạnh
+-máy chính

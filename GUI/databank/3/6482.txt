@@ -1,3 +1,17 @@
-bout
-	@bout /baut/\n*  danh từ\n- lần, lượt, đợi\n=a bout of fighting+ một đợt chiến đấu\n- cơn (bệnh); chầu (rượu)\n=a bad coughing bout+ cơn ho rũ rượi\n=a dringking bout+ một chầu say bí tỉ\n- cuộc vật lộn, cuộc chiến đấu; cuộc đọ sức\n=a bout with the enemy+ cuộc chiến đấu với kẻ địch\n=a bout with the gloves+ cuộc so găng\n!this bout\n- nhân dịp này\n@Chuyên ngành kinh tế\n-một khẩu phần bánh mì\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cơn
-
+bout	@bout /baut/
+*  danh từ
+- lần, lượt, đợi
+=a bout of fighting+ một đợt chiến đấu
+- cơn (bệnh); chầu (rượu)
+=a bad coughing bout+ cơn ho rũ rượi
+=a dringking bout+ một chầu say bí tỉ
+- cuộc vật lộn, cuộc chiến đấu; cuộc đọ sức
+=a bout with the enemy+ cuộc chiến đấu với kẻ địch
+=a bout with the gloves+ cuộc so găng
+!this bout
+- nhân dịp này
+@Chuyên ngành kinh tế
+-một khẩu phần bánh mì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cơn

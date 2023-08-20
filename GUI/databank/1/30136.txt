@@ -1,3 +1,16 @@
-isometric
-	@isometric /,aisou'metrik/ (isometrical) /,aisou'metrikəl/\n*  tính từ\n- cùng kích thước\n@Chuyên ngành kỹ thuật\n-cùng kích thước\n-đẳng cự\n-đẳng tích\n-đường đẳng cự\n-đường đẳng tích\n@Lĩnh vực: y học\n-cùng kích thước, đẳng trường\n@Lĩnh vực: xây dựng\n-đo bằng nhau\n@Lĩnh vực: toán & tin\n-hiển thị đẳng cự
-
+isometric	
+@isometric /,aisou'metrik/ (isometrical) /,aisou'metrikəl/
+*  tính từ
+- cùng kích thước
+@Chuyên ngành kỹ thuật
+-cùng kích thước
+-đẳng cự
+-đẳng tích
+-đường đẳng cự
+-đường đẳng tích
+@Lĩnh vực: y học
+-cùng kích thước, đẳng trường
+@Lĩnh vực: xây dựng
+-đo bằng nhau
+@Lĩnh vực: toán & tin
+-hiển thị đẳng cự

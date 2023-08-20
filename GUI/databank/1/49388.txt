@@ -1,3 +1,5 @@
-seabed
-	@seabed\n* danh từ\n- đáy biển\n@Chuyên ngành kỹ thuật\n-đáy biển
-
+seabed	@seabed
+* danh từ
+- đáy biển
+@Chuyên ngành kỹ thuật
+-đáy biển

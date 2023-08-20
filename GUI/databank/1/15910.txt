@@ -1,3 +1,22 @@
-disjunction
-	@disjunction /dis'dʤʌɳkʃn/\n*  danh từ\n- sự làm rời ra, sự tách rời ra, sự phân cách ra\n- (điện học) sự ngắt mạch\n@Chuyên ngành kỹ thuật\n-ngắt (mạch)\n-ngắt mạch\n-sự ngắt (mạch)\n-sự phân tách\n-sự tách rời\n-tách rời\n-tháo rời\n@Lĩnh vực: toán & tin\n-phép tuyến\n-phép tuyển\n@Lĩnh vực: điện lạnh\n-sự cắt (mạch)\n-sự đứt (mạch)\n-toán tử hoặc\n@Lĩnh vực: cơ khí & công trình\n-sự chia cắt
-
+disjunction	
+@disjunction /dis'dʤʌɳkʃn/
+*  danh từ
+- sự làm rời ra, sự tách rời ra, sự phân cách ra
+- (điện học) sự ngắt mạch
+@Chuyên ngành kỹ thuật
+-ngắt (mạch)
+-ngắt mạch
+-sự ngắt (mạch)
+-sự phân tách
+-sự tách rời
+-tách rời
+-tháo rời
+@Lĩnh vực: toán & tin
+-phép tuyến
+-phép tuyển
+@Lĩnh vực: điện lạnh
+-sự cắt (mạch)
+-sự đứt (mạch)
+-toán tử hoặc
+@Lĩnh vực: cơ khí & công trình
+-sự chia cắt

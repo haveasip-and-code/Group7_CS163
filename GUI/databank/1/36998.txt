@@ -1,3 +1,2 @@
-nontoxic
-	@Chuyên ngành kỹ thuật\n-không độc
-
+nontoxic	@Chuyên ngành kỹ thuật
+-không độc

@@ -1,3 +1,2 @@
-rhombuses
-	@rhombuses\n- xem rhombus
-
+rhombuses	@rhombuses
+- xem rhombus

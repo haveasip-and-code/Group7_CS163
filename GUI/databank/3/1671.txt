@@ -1,3 +1,2 @@
-alphabetical
-	@alphabetical\n-xem alphabetic
-
+alphabetical	@alphabetical
+-xem alphabetic

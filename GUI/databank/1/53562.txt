@@ -1,3 +1,13 @@
-stowing
-	@stowing\n* danh từ\n- sự chèn lắp\n- hand stowing\n- sự chèn lắp bằng tay\n- sự tuôn nước vào đầy\n@Chuyên ngành kỹ thuật\n-sự chạy lùi\n-sự lấp đầy\n-sự xắp xếp\n-sự xếp gọn\n@Lĩnh vực: hóa học & vật liệu\n-sự lấp đất đá
-
+stowing	@stowing
+* danh từ
+- sự chèn lắp
+- hand stowing
+- sự chèn lắp bằng tay
+- sự tuôn nước vào đầy
+@Chuyên ngành kỹ thuật
+-sự chạy lùi
+-sự lấp đầy
+-sự xắp xếp
+-sự xếp gọn
+@Lĩnh vực: hóa học & vật liệu
+-sự lấp đất đá

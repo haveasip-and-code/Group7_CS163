@@ -1,3 +1,4 @@
-dipstick
-	@Chuyên ngành kỹ thuật\n-que đo độ sâu\n@Lĩnh vực: ô tô\n-que thăm nhớt
-
+dipstick	@Chuyên ngành kỹ thuật
+-que đo độ sâu
+@Lĩnh vực: ô tô
+-que thăm nhớt

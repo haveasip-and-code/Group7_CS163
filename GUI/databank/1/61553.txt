@@ -1,3 +1,8 @@
-vermicelli
-	@vermicelli /,və:mi'seli/\n*  danh từ\n- bún, miến\n@Chuyên ngành kinh tế\n-mì sợi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-miến
-
+vermicelli	@vermicelli /,və:mi'seli/
+*  danh từ
+- bún, miến
+@Chuyên ngành kinh tế
+-mì sợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-miến

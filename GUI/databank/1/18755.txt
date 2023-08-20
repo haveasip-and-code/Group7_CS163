@@ -1,3 +1,11 @@
-epigraph
-	@epigraph /'epigrɑ:f/\n*  danh từ\n- chữ khắc (lên đá, đồng tiền...)\n- đề từ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đồ thị trên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đồ thị trên
-
+epigraph	
+@epigraph /'epigrɑ:f/
+*  danh từ
+- chữ khắc (lên đá, đồng tiền...)
+- đề từ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đồ thị trên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đồ thị trên

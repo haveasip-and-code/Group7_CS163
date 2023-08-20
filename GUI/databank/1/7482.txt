@@ -1,3 +1,17 @@
-caking
-	@Chuyên ngành kỹ thuật\n-dính kết\n-đóng bánh\n-sự đóng bánh\n-sự làm kết tụ\n-sự nung\n-sự nướng\n-sự thiêu kết\n-sự vón cục\n-thiêu kết\n@Lĩnh vực: hóa học & vật liệu\n-kết cục\n@Lĩnh vực: cơ khí & công trình\n-sự luyện cục\n@Lĩnh vực: thực phẩm\n-sự nướng bánh
-
+caking	
+@Chuyên ngành kỹ thuật
+-dính kết
+-đóng bánh
+-sự đóng bánh
+-sự làm kết tụ
+-sự nung
+-sự nướng
+-sự thiêu kết
+-sự vón cục
+-thiêu kết
+@Lĩnh vực: hóa học & vật liệu
+-kết cục
+@Lĩnh vực: cơ khí & công trình
+-sự luyện cục
+@Lĩnh vực: thực phẩm
+-sự nướng bánh

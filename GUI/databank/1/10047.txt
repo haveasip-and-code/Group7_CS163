@@ -1,3 +1,4 @@
-cocksfoot
-	@cocksfoot\n* danh từ\n- cỏ chân gà
-
+cocksfoot	
+@cocksfoot
+* danh từ
+- cỏ chân gà

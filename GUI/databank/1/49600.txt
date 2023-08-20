@@ -1,3 +1,25 @@
-segregation
-	@segregation /,segri'geiʃn/\n*  danh từ\n- sự tách riêng, sự chia tách, sự phân ly, sự phân biệt\n=racial segregation+ sự phân biệt chủng tộc\n- (số nhiều) sự phân ly\n@Chuyên ngành kỹ thuật\n-phân đoạn\n-phân tầng\n-sự cô lập\n-sự độc lập hóa\n-sự ngăn cách\n-sự phân chia\n-sự phân ly\n-sự phân tách (các khối sai hỏng)\n-sự phân tầng\n-sự phân tụ\n-sự tách\n-sự tách lỏng\n-sự tách ra\n-sự tách rời\n-sự thiên tích\n@Lĩnh vực: xây dựng\n-sự chia tách\n@Lĩnh vực: cơ khí & công trình\n-sự tách riêng
-
+segregation	@segregation /,segri'geiʃn/
+*  danh từ
+- sự tách riêng, sự chia tách, sự phân ly, sự phân biệt
+=racial segregation+ sự phân biệt chủng tộc
+- (số nhiều) sự phân ly
+@Chuyên ngành kỹ thuật
+-phân đoạn
+-phân tầng
+-sự cô lập
+-sự độc lập hóa
+-sự ngăn cách
+-sự phân chia
+-sự phân ly
+-sự phân tách (các khối sai hỏng)
+-sự phân tầng
+-sự phân tụ
+-sự tách
+-sự tách lỏng
+-sự tách ra
+-sự tách rời
+-sự thiên tích
+@Lĩnh vực: xây dựng
+-sự chia tách
+@Lĩnh vực: cơ khí & công trình
+-sự tách riêng

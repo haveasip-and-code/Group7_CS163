@@ -1,3 +1,18 @@
-emerge
-	@emerge /i'mə:dʤ/\n*  nội động từ\n- nổi lên, hiện ra, lòi ra\n- (nghĩa bóng) nổi bật lên, rõ nét lên; nổi lên, nảy ra (vấn đề...)\n- thoát khỏi (sự đau khổ)\n@Chuyên ngành kỹ thuật\n-ló ra\n-nhô lên\n-nhô ra\n-nổi lên\n-xuất hiện\n@Chuyên ngành kỹ thuật\n-ló ra\n-nhô lên\n-nhô ra\n-nổi lên\n-xuất hiện
-
+emerge	
+@emerge /i'mə:dʤ/
+*  nội động từ
+- nổi lên, hiện ra, lòi ra
+- (nghĩa bóng) nổi bật lên, rõ nét lên; nổi lên, nảy ra (vấn đề...)
+- thoát khỏi (sự đau khổ)
+@Chuyên ngành kỹ thuật
+-ló ra
+-nhô lên
+-nhô ra
+-nổi lên
+-xuất hiện
+@Chuyên ngành kỹ thuật
+-ló ra
+-nhô lên
+-nhô ra
+-nổi lên
+-xuất hiện

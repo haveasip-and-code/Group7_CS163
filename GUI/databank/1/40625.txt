@@ -1,3 +1,2 @@
-pericyclic
-	@pericyclic\n- xem pericycle
-
+pericyclic	@pericyclic
+- xem pericycle

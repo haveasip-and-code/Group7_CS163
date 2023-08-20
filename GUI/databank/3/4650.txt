@@ -1,3 +1,26 @@
-banquette
-	@banquette /'bæɳ'ket/\n*  danh từ\n- (quân sự) chỗ đứng bắn (trong thành luỹ)\n- ghế dài (trên xe ngựa)\n- (từ Mỹ,nghĩa Mỹ) bờ đường\n@Chuyên ngành kinh tế\n-bàn tiệc\n@Chuyên ngành kỹ thuật\n-bờ bảo hộ\n-bờ đất\n-bờ đường\n-con chạch\n-con trạch\n-đê bồi\n-đê nhỏ\n-đường đi bộ\n-lớp mặt\n-mặt lát\n@Lĩnh vực: cơ khí & công trình\n-bờ vùng\n-cơ đập\n-cơ đê\n-đê quây\n@Lĩnh vực: xây dựng\n-ghế dài bọc nệm\n-rãnh ven con trạch
-
+banquette	@banquette /'bæɳ'ket/
+*  danh từ
+- (quân sự) chỗ đứng bắn (trong thành luỹ)
+- ghế dài (trên xe ngựa)
+- (từ Mỹ,nghĩa Mỹ) bờ đường
+@Chuyên ngành kinh tế
+-bàn tiệc
+@Chuyên ngành kỹ thuật
+-bờ bảo hộ
+-bờ đất
+-bờ đường
+-con chạch
+-con trạch
+-đê bồi
+-đê nhỏ
+-đường đi bộ
+-lớp mặt
+-mặt lát
+@Lĩnh vực: cơ khí & công trình
+-bờ vùng
+-cơ đập
+-cơ đê
+-đê quây
+@Lĩnh vực: xây dựng
+-ghế dài bọc nệm
+-rãnh ven con trạch

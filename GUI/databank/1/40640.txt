@@ -1,3 +1,17 @@
-peril
-	@peril /'peril/\n*  danh từ\n- sự nguy hiểm, hiểm hoạ, cơn nguy\n=at the peril of one's life+ nguy đến tính mệnh\n- sự liều\n=at one's peril+ liều, liều mạng\n=keep off at your peril+ tránh xa ra nếu không thì nguy hiểm\n*  ngoại động từ\n- đẩy vào chỗ nguy hiểm, làm nguy hiểm\n@Chuyên ngành kinh tế\n-cơn nguy\n-đầy hiểm họa\n-hiểm họa\n-hoàn cảnh nguy hiểm\n-rủi ro\n-sự cố nguy hiểm\n-tai họa
-
+peril	@peril /'peril/
+*  danh từ
+- sự nguy hiểm, hiểm hoạ, cơn nguy
+=at the peril of one's life+ nguy đến tính mệnh
+- sự liều
+=at one's peril+ liều, liều mạng
+=keep off at your peril+ tránh xa ra nếu không thì nguy hiểm
+*  ngoại động từ
+- đẩy vào chỗ nguy hiểm, làm nguy hiểm
+@Chuyên ngành kinh tế
+-cơn nguy
+-đầy hiểm họa
+-hiểm họa
+-hoàn cảnh nguy hiểm
+-rủi ro
+-sự cố nguy hiểm
+-tai họa

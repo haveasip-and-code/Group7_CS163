@@ -1,3 +1,10 @@
-proliferation
-	@proliferation /proliferation/\n*  danh từ\n- (sinh vật học) sự nảy nở\n- sự tăng nhanh\n@Chuyên ngành kinh tế\n-sự nảy nở\n-sự tăng nhanh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự sinh sôi
-
+proliferation	@proliferation /proliferation/
+*  danh từ
+- (sinh vật học) sự nảy nở
+- sự tăng nhanh
+@Chuyên ngành kinh tế
+-sự nảy nở
+-sự tăng nhanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự sinh sôi

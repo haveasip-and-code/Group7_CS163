@@ -1,3 +1,2 @@
-postexposure
-	@Chuyên ngành kỹ thuật\n-sự lộ sáng sau
-
+postexposure	@Chuyên ngành kỹ thuật
+-sự lộ sáng sau

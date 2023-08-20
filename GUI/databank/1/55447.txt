@@ -1,3 +1,2 @@
-takable
-	@takable\n- xem take
-
+takable	@takable
+- xem take

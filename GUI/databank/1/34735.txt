@@ -1,3 +1,6 @@
-micrograph
-	@Chuyên ngành kinh tế\n-vi ký\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ảnh hiển vi\n-vi ảnh
-
+micrograph	@Chuyên ngành kinh tế
+-vi ký
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ảnh hiển vi
+-vi ảnh

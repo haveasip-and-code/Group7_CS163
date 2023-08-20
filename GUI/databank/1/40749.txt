@@ -1,3 +1,2 @@
-permutational
-	@permutational\n- xem permutation
-
+permutational	@permutational
+- xem permutation

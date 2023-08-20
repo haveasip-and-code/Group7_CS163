@@ -1,3 +1,15 @@
-ineffective
-	@ineffective /,ini'fektiv/\n*  tính từ\n- không có hiệu quả\n- vô tích sự, không làm được trò trống gì (người)\n- (nghệ thuật) không gây được ấn tượng, không tác động\n@Chuyên ngành kinh tế\n-không có năng lực\n-vô hiệu\n@Chuyên ngành kỹ thuật\n-không có hiệu quả\n-không hiệu quả\n-vô hiệu\n@Lĩnh vực: xây dựng\n-không hiệu nghiệm
-
+ineffective	
+@ineffective /,ini'fektiv/
+*  tính từ
+- không có hiệu quả
+- vô tích sự, không làm được trò trống gì (người)
+- (nghệ thuật) không gây được ấn tượng, không tác động
+@Chuyên ngành kinh tế
+-không có năng lực
+-vô hiệu
+@Chuyên ngành kỹ thuật
+-không có hiệu quả
+-không hiệu quả
+-vô hiệu
+@Lĩnh vực: xây dựng
+-không hiệu nghiệm

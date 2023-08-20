@@ -1,3 +1,2 @@
-monobasic
-	@Chuyên ngành kỹ thuật\n-đơn hóa trị
-
+monobasic	@Chuyên ngành kỹ thuật
+-đơn hóa trị

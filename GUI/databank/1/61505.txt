@@ -1,3 +1,5 @@
-verbalist
-	@verbalist /'və:bəlist/\n*  danh từ\n- nhà phê bình về từ\n- người quá nệ về cách dùng từ\n- người có tài chơi chữ
-
+verbalist	@verbalist /'və:bəlist/
+*  danh từ
+- nhà phê bình về từ
+- người quá nệ về cách dùng từ
+- người có tài chơi chữ

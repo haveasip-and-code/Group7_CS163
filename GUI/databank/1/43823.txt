@@ -1,3 +1,22 @@
-producer
-	@producer /producer/\n*  danh từ\n- người sản xuất\n- người xuất bản (sách)\n- chủ nhiệm (phim, kịch)\n- (kỹ thuật) máy sinh, máy phát\n@Chuyên ngành kinh tế\n-người cung cấp nguyên liệu\n-người sản xuất\n-nhà chế tạo (công nghiệp)\n-nhà sản xuất (nông nghiệp)\n@Chuyên ngành kỹ thuật\n-giếng sản xuất\n-người sản xuất\n-nguồn\n-máy phát\n-thiết bị sinh khí\n@Lĩnh vực: cơ khí & công trình\n-máy công tác\n@Lĩnh vực: điện lạnh\n-máy sinh\n-vật sinh
-
+producer	@producer /producer/
+*  danh từ
+- người sản xuất
+- người xuất bản (sách)
+- chủ nhiệm (phim, kịch)
+- (kỹ thuật) máy sinh, máy phát
+@Chuyên ngành kinh tế
+-người cung cấp nguyên liệu
+-người sản xuất
+-nhà chế tạo (công nghiệp)
+-nhà sản xuất (nông nghiệp)
+@Chuyên ngành kỹ thuật
+-giếng sản xuất
+-người sản xuất
+-nguồn
+-máy phát
+-thiết bị sinh khí
+@Lĩnh vực: cơ khí & công trình
+-máy công tác
+@Lĩnh vực: điện lạnh
+-máy sinh
+-vật sinh

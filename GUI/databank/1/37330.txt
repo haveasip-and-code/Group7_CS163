@@ -1,3 +1,32 @@
-object
-	@object /'ɔbdʤikt/\n*  danh từ\n- đồ vật, vật thể\n- đối tượng; (triết học) khách thể\n- mục tiêu, mục đích\n- người đáng thương, người lố lăng, vật đáng khinh, vật lố lăng\n- (ngôn ngữ học) bổ ngữ\n!no object\n- không thành vấn đề (dùng trong quảng cáo...)\n=quantity, size, price, no object+ về số lượng, khổ, giá thì không thành vấn đề\n*  ngoại động từ\n- phản đối, chống, chống đối\n*  nội động từ\n- ghét, không thích, cảm thấy khó chịu\n=I object to being treated like this+ tôi không thích bị đối xử như vậy\n@Chuyên ngành kinh tế\n-đồ vật\n-đối tượng\n-mục tiêu\n-vật thể\n@Chuyên ngành kỹ thuật\n-công trình\n-đồ vật\n-đối tượng\n-môn học\n-mục đích\n-mục tiêu\n-thực thể\n-vật\n-vật thể\n@Lĩnh vực: toán & tin\n-biến đối tuợng
-
+object	@object /'ɔbdʤikt/
+*  danh từ
+- đồ vật, vật thể
+- đối tượng; (triết học) khách thể
+- mục tiêu, mục đích
+- người đáng thương, người lố lăng, vật đáng khinh, vật lố lăng
+- (ngôn ngữ học) bổ ngữ
+!no object
+- không thành vấn đề (dùng trong quảng cáo...)
+=quantity, size, price, no object+ về số lượng, khổ, giá thì không thành vấn đề
+*  ngoại động từ
+- phản đối, chống, chống đối
+*  nội động từ
+- ghét, không thích, cảm thấy khó chịu
+=I object to being treated like this+ tôi không thích bị đối xử như vậy
+@Chuyên ngành kinh tế
+-đồ vật
+-đối tượng
+-mục tiêu
+-vật thể
+@Chuyên ngành kỹ thuật
+-công trình
+-đồ vật
+-đối tượng
+-môn học
+-mục đích
+-mục tiêu
+-thực thể
+-vật
+-vật thể
+@Lĩnh vực: toán & tin
+-biến đối tuợng

@@ -1,3 +1,2 @@
-patly
-	@patly\n- xem pat
-
+patly	@patly
+- xem pat

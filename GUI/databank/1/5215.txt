@@ -1,3 +1,12 @@
-belting
-	@belting\n* danh từ\n- trận đòn\n@Chuyên ngành kỹ thuật\n-dẫn động đai\n-dây đai\n-truyền động bằng đai\n@Lĩnh vực: hóa học & vật liệu\n-truyền động bằng curoa\n-vải làm đai\n-vật liệu làm đai
-
+belting	
+@belting
+* danh từ
+- trận đòn
+@Chuyên ngành kỹ thuật
+-dẫn động đai
+-dây đai
+-truyền động bằng đai
+@Lĩnh vực: hóa học & vật liệu
+-truyền động bằng curoa
+-vải làm đai
+-vật liệu làm đai

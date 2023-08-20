@@ -1,3 +1,18 @@
-acceptor
-	@acceptor /ək'septə/\n*  danh từ\n- (thương nghiệp) người nhận thanh toán (hoá đơn...)\n- (vật lý); (hoá học) chất nhận\n@Chuyên ngành kinh tế\n-người chấp nhận\n@Chuyên ngành kỹ thuật\n-người chấp nhận\n-mạch nhận\n-phần tử nhận\n@Lĩnh vực: điện lạnh\n-axepto\n@Lĩnh vực: hóa học & vật liệu\n-chất hấp thu (chất nhận)\n-nguyên tử nhận\n@Lĩnh vực: y học\n-chất nhận
-
+acceptor	
+@acceptor /ək'septə/
+*  danh từ
+- (thương nghiệp) người nhận thanh toán (hoá đơn...)
+- (vật lý); (hoá học) chất nhận
+@Chuyên ngành kinh tế
+-người chấp nhận
+@Chuyên ngành kỹ thuật
+-người chấp nhận
+-mạch nhận
+-phần tử nhận
+@Lĩnh vực: điện lạnh
+-axepto
+@Lĩnh vực: hóa học & vật liệu
+-chất hấp thu (chất nhận)
+-nguyên tử nhận
+@Lĩnh vực: y học
+-chất nhận

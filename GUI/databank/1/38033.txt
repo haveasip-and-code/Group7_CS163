@@ -1,3 +1,6 @@
-optimizer
-	@optimizer\n* danh từ\n- người lạc quan hoá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bộ tối ưu hóa
-
+optimizer	@optimizer
+* danh từ
+- người lạc quan hoá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bộ tối ưu hóa

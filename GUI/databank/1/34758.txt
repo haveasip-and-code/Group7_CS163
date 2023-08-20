@@ -1,3 +1,11 @@
-microphone
-	@microphone /'maikrəfoun/\n*  danh từ\n- micrô ((thông tục) mike)\n@Chuyên ngành kỹ thuật\n-máy vi âm\n-micrô\n-ống nói\n@Lĩnh vực: điện\n-ống phóng thanh\n@Lĩnh vực: vật lý\n-ống vi âm
-
+microphone	@microphone /'maikrəfoun/
+*  danh từ
+- micrô ((thông tục) mike)
+@Chuyên ngành kỹ thuật
+-máy vi âm
+-micrô
+-ống nói
+@Lĩnh vực: điện
+-ống phóng thanh
+@Lĩnh vực: vật lý
+-ống vi âm

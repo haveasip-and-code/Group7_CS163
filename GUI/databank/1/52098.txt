@@ -1,3 +1,4 @@
-spadework
-	@spadework\n* danh từ\n- việc đào bằng mai\n- công việc chuẩn bị vất vả
-
+spadework	@spadework
+* danh từ
+- việc đào bằng mai
+- công việc chuẩn bị vất vả

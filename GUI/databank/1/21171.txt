@@ -1,3 +1,23 @@
-fishing
-	@fishing /'fiʃiɳ/\n*  danh từ\n- sự đánh cá, sự câu cá\n- nghề cá\n=deep-sea fishing+ nghề khơi\n@Chuyên ngành kinh tế\n-nghề cá\n-sự cân cá\n-sự đánh cá\n@Chuyên ngành kỹ thuật\n-nghề cá\n-mối nối ray\n-mối ốp ray\n@Lĩnh vực: cơ khí & công trình\n-sự đánh cá\n@Chuyên ngành kỹ thuật\n-nghề cá\n-mối nối ray\n-mối ốp ray\n@Lĩnh vực: cơ khí & công trình\n-sự đánh cá
-
+fishing	
+@fishing /'fiʃiɳ/
+*  danh từ
+- sự đánh cá, sự câu cá
+- nghề cá=deep
+-sea fishing
++ nghề khơi
+@Chuyên ngành kinh tế
+-nghề cá
+-sự cân cá
+-sự đánh cá
+@Chuyên ngành kỹ thuật
+-nghề cá
+-mối nối ray
+-mối ốp ray
+@Lĩnh vực: cơ khí & công trình
+-sự đánh cá
+@Chuyên ngành kỹ thuật
+-nghề cá
+-mối nối ray
+-mối ốp ray
+@Lĩnh vực: cơ khí & công trình
+-sự đánh cá

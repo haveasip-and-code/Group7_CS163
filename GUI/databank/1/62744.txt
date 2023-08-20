@@ -1,3 +1,22 @@
-wharf
-	@wharf /w :f/\n*  danh từ,  số nhiều wharfs,  wharves\n- (hàng hi) bến tàu, cầu tàu\n*  ngoại động từ\n- (hàng hi) cho (hàng) vào kho ở bến\n- (hàng hi) buộc (tàu) vào bến\n@Chuyên ngành kinh tế\n-bến cảnh\n-bến tàu\n-bến tàu cầu cảng\n-cầu cảng\n@Chuyên ngành kỹ thuật\n-bến tàu\n-cho vào bến\n-kè đá\n@Lĩnh vực: xây dựng\n-bến (tàu) cảng\n-buộc tàu thuyền\n-buộc vào bến\n-cầu tàu\n-công trình cập bến\n-nơi thả neo
-
+wharf	@wharf /w :f/
+*  danh từ,  số nhiều wharfs,  wharves
+- (hàng hi) bến tàu, cầu tàu
+*  ngoại động từ
+- (hàng hi) cho (hàng) vào kho ở bến
+- (hàng hi) buộc (tàu) vào bến
+@Chuyên ngành kinh tế
+-bến cảnh
+-bến tàu
+-bến tàu cầu cảng
+-cầu cảng
+@Chuyên ngành kỹ thuật
+-bến tàu
+-cho vào bến
+-kè đá
+@Lĩnh vực: xây dựng
+-bến (tàu) cảng
+-buộc tàu thuyền
+-buộc vào bến
+-cầu tàu
+-công trình cập bến
+-nơi thả neo

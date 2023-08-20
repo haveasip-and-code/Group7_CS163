@@ -1,3 +1,12 @@
-valuator
-	@valuator /'væljueitə/\n*  danh từ\n- người định giá\n@Chuyên ngành kinh tế\n-người định giá\n-người định giá, người giám định\n-người giám định\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bộ tính giá trị\n@Lĩnh vực: đo lường & điều khiển\n-người định giá
-
+valuator	@valuator /'væljueitə/
+*  danh từ
+- người định giá
+@Chuyên ngành kinh tế
+-người định giá
+-người định giá, người giám định
+-người giám định
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bộ tính giá trị
+@Lĩnh vực: đo lường & điều khiển
+-người định giá

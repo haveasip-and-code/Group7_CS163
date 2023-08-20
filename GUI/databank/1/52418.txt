@@ -1,3 +1,31 @@
-spindle
-	@spindle /'spindl/\n*  nội động từ\n- mọc thẳng lên, mọc vút lên\n*  ngoại động từ\n- làm thành hình con suốt\n- lắp con suối\n@Chuyên ngành kỹ thuật\n-cần trục\n-con quay\n-cốt\n-kim phun\n-ngõng trục bánh xe\n-thanh\n-trụ đỡ\n-trục đỡ\n-trục đứng\n-trục quay\n-trục spinđen\n-trục vít\n-vít me\n@Lĩnh vực: toán & tin\n-côn quay\n-trục đĩa\n@Lĩnh vực: xây dựng\n-con suốt\n@Lĩnh vực: cơ khí & công trình\n-con suốt (để xe chỉ)\n-nòng ụ máy\n-trụ đỡ (đồng hồ đo)\n@Lĩnh vực: y học\n-thoi
-
+spindle	@spindle /'spindl/
+*  nội động từ
+- mọc thẳng lên, mọc vút lên
+*  ngoại động từ
+- làm thành hình con suốt
+- lắp con suối
+@Chuyên ngành kỹ thuật
+-cần trục
+-con quay
+-cốt
+-kim phun
+-ngõng trục bánh xe
+-thanh
+-trụ đỡ
+-trục đỡ
+-trục đứng
+-trục quay
+-trục spinđen
+-trục vít
+-vít me
+@Lĩnh vực: toán & tin
+-côn quay
+-trục đĩa
+@Lĩnh vực: xây dựng
+-con suốt
+@Lĩnh vực: cơ khí & công trình
+-con suốt (để xe chỉ)
+-nòng ụ máy
+-trụ đỡ (đồng hồ đo)
+@Lĩnh vực: y học
+-thoi

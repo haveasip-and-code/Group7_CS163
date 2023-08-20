@@ -1,3 +1,5 @@
-nogging
-	@Chuyên ngành kỹ thuật\n-khối xây chèn\n-xà ngang\n@Lĩnh vực: xây dựng\n-đổ ngang
-
+nogging	@Chuyên ngành kỹ thuật
+-khối xây chèn
+-xà ngang
+@Lĩnh vực: xây dựng
+-đổ ngang

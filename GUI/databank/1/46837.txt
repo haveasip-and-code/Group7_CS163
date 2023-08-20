@@ -1,3 +1,5 @@
-repeatability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-khả năng lặp lại\n@Lĩnh vực: điện lạnh\n-tính lặp lại
-
+repeatability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-khả năng lặp lại
+@Lĩnh vực: điện lạnh
+-tính lặp lại

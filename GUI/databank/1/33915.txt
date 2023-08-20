@@ -1,3 +1,2 @@
-math
-	@math\n- toán
-
+math	@math
+- toán

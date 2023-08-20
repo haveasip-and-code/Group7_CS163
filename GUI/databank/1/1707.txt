@@ -1,3 +1,8 @@
-altimetry
-	@altimetry\n- xem altimeter\n@Chuyên ngành kỹ thuật\n-phép đo cao\n@Lĩnh vực: xây dựng\n-phép đo độ cao\n-số đo độ cao
-
+altimetry	
+@altimetry
+- xem altimeter
+@Chuyên ngành kỹ thuật
+-phép đo cao
+@Lĩnh vực: xây dựng
+-phép đo độ cao
+-số đo độ cao

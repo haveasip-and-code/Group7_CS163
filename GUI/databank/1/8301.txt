@@ -1,3 +1,12 @@
-catenation
-	@catenation\n- (Tech) xâu chuỗi, nối chuỗi, kết nối (d)\n@Chuyên ngành kỹ thuật\n-ghép\n-nối\n-sự ghép nối\n-sự kết giao\n-sự kết hợp\n-sự liên kết\n@Lĩnh vực: toán & tin\n-sự kết thành chuỗi
-
+catenation	
+@catenation
+- (Tech) xâu chuỗi, nối chuỗi, kết nối (d)
+@Chuyên ngành kỹ thuật
+-ghép
+-nối
+-sự ghép nối
+-sự kết giao
+-sự kết hợp
+-sự liên kết
+@Lĩnh vực: toán & tin
+-sự kết thành chuỗi

@@ -1,3 +1,6 @@
-physicist
-	@physicist /'fizisist/\n*  danh từ\n- nhà vật lý học\n- nhà duy vật\n@Chuyên ngành kỹ thuật\n-nhà vật lý
-
+physicist	@physicist /'fizisist/
+*  danh từ
+- nhà vật lý học
+- nhà duy vật
+@Chuyên ngành kỹ thuật
+-nhà vật lý

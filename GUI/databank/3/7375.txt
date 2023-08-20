@@ -1,3 +1,3 @@
-cabinetwork
-	@Chuyên ngành kỹ thuật\n-công tác mộc\n-nghề mộc
-
+cabinetwork	@Chuyên ngành kỹ thuật
+-công tác mộc
+-nghề mộc

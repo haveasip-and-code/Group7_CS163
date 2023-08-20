@@ -1,3 +1,4 @@
-provident
-	@provident /provident/\n*  tính từ\n- lo xa, biết lo trước, biết dự phòng\n- tằn tiện, tiết kiệm
-
+provident	@provident /provident/
+*  tính từ
+- lo xa, biết lo trước, biết dự phòng
+- tằn tiện, tiết kiệm

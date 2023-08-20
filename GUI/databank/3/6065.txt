@@ -1,3 +1,2 @@
-bluffly
-	@bluffly\n- xem bluff
-
+bluffly	@bluffly
+- xem bluff

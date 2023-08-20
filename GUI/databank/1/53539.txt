@@ -1,3 +1,20 @@
-storing
-	@storing\n* danh từ\n- sự cất giữ vào kho\n- (tin) sự ghi vào bộ nhớ\n@Chuyên ngành kinh tế\n-sự cất giữ vào kho\n-sự lưu vào bộ nhớ\n@Chuyên ngành kỹ thuật\n-lưu trữ\n-sự dự trữ\n-sự lưu trữ\n-sự tích đọng\n-sự tích lũy\n-sự tích trữ\n@Lĩnh vực: toán & tin\n-cất giữ\n@Lĩnh vực: hóa học & vật liệu\n-sự để dành\n@Lĩnh vực: xây dựng\n-sự tích lắng
-
+storing	@storing
+* danh từ
+- sự cất giữ vào kho
+- (tin) sự ghi vào bộ nhớ
+@Chuyên ngành kinh tế
+-sự cất giữ vào kho
+-sự lưu vào bộ nhớ
+@Chuyên ngành kỹ thuật
+-lưu trữ
+-sự dự trữ
+-sự lưu trữ
+-sự tích đọng
+-sự tích lũy
+-sự tích trữ
+@Lĩnh vực: toán & tin
+-cất giữ
+@Lĩnh vực: hóa học & vật liệu
+-sự để dành
+@Lĩnh vực: xây dựng
+-sự tích lắng

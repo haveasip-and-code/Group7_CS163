@@ -1,3 +1,21 @@
-cam
-	@cam /kæm/\n*  danh từ\n- (kỹ thuật) cam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chuẩn CAM\n@Chuyên ngành kỹ thuật\n-bản mẫu\n-bánh lệch tâm\n-chốt\n-đĩa cam\n-răng cưa\n-vấu\n@Lĩnh vực: điện\n-bánh (đĩa) lệch tâm\n@Lĩnh vực: toán & tin\n-đĩa lệnh trục\n@Lĩnh vực: xây dựng\n-mẫu chép\n@Lĩnh vực: thực phẩm\n-quả đào
-
+cam	@cam /kæm/
+*  danh từ
+- (kỹ thuật) cam
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chuẩn CAM
+@Chuyên ngành kỹ thuật
+-bản mẫu
+-bánh lệch tâm
+-chốt
+-đĩa cam
+-răng cưa
+-vấu
+@Lĩnh vực: điện
+-bánh (đĩa) lệch tâm
+@Lĩnh vực: toán & tin
+-đĩa lệnh trục
+@Lĩnh vực: xây dựng
+-mẫu chép
+@Lĩnh vực: thực phẩm
+-quả đào

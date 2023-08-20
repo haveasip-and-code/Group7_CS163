@@ -1,3 +1,71 @@
-fly
-	@fly /fly/\n*  danh từ\n- con ruồi\n- ruồi (làm mồi câu); ruồi giả (làm mồi câu cá)\n- (nông nghiệp) bệnh do ruồi, sâu bệnh\n!to crush a fly upon the wheel\n!to break a fly upon the wheel\n- dùng dao mổ trâu cắt tiết gà, lấy búa đạp muỗi\n!a fly on the wheel (on the coatch wheel)\n- người lăng xăng tưởng mình quan trọng\n!no flies on him\n- (từ lóng) anh ta rất đắc lực, anh ta rất được việc\n- (từ Mỹ,nghĩa Mỹ) anh ta rất láu\n*  danh từ\n- sự bay; quãng đường bay\n=on the fly+ đang bay\n- vạt cài cúc (ở áo)\n- cánh cửa lều vải\n- đuôi cờ\n- (sân khấu), (số nhiều) khoảng trên đầu sân khấu (có để những bộ kéo phông)\n- bộ phận điều chỉnh tốc độ (ở đồng hồ)\n- (kỹ thuật) (như) fly-wheel\n- (từ cổ,nghĩa cổ) xe độc mã\n*  nội động từ flew,  flown\n- bay\n- đi máy bay, đáp máy bay\n=to fly home+ đáp máy bay về nhà\n- bay vút lên cao (diều hâu, để đánh nhau)\n- bay phấp phới, tung bay\n=flags are flying+ cờ tung bay phấp phới\n- đi nhanh, chạy nhanh, rảo bước\n=it's late, we must fly+ đã muộn rồi, chúng ta phải đi nhanh lên\n- tung; chạy vùn vụt như bay\n=the door flew open+ cửa mở tung\n=time flies+ thời gian vùn vụt trôi qua\n- (thời quá khứ fled) chạy trốn, tẩu thoát\n*  ngoại động từ\n- làm bay phấp phới, làm tung bay\n=to fly a flag+ cờ tung bay phấp phới\n- thả (cho bay)\n=to fly pigeons+ thả chim bồ câu\n- lái (máy bay...); chuyên chở bằng máy bay\n!to fly at\n!to fly on\n- xông lên; tấn công\n=to fly at the enemy+ xông lên tấn công quân địch\n!to fly into\n- nổi (khùng), rớn (mừng)\n=to fly into a rage+ nổi xung, nổi cơn thịnh nộ\n- xông vào, xộc vào (trong phòng...)\n!to fly off\n- bay đi (chim); chuồn đi\n- đứt mất (cúc áo)\n!to fly out\n- tuôn ra một thôi một hồi\n- nổi cơn hung hăng\n!to fly over\n- nhảy qua\n=to fly over fence+ nhảy qua hàng rào\n!to fly round\n- quay (bánh xe)\n!to fly upon\n- (như) to fly at\n!as the crow flies\n- (xem) crow\n!the bird in flown\n- (nghĩa bóng) chim đã lọt lưới rồi, hung thủ đã tẩu thoát rồi\n!to fly to arms\n- (xem) arm\n!to fly the country\n- chạy trốn; đi khỏi nước\n!to fly in the face of\n- (xem) face\n!to fly high\n!to fly at high game\n- có tham vọng, có hoài bão lớn\n!to fly a kite\n- (xem) kite\n!to fly low\n- nằm im, lẩn lút\n!go fly a kite!\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bước đi, đừng quấy rầy nữa!\n!to let fly\n- (xem) let\n!to make the money fly\n- tiêu tiền như rác\n*  tính từ\n- (từ lóng) cẩn thận, tỉnh táo, cảnh giác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bay\n@Lĩnh vực: y học\n-ruồi
-
+fly	
+@fly /fly/
+*  danh từ
+- con ruồi
+- ruồi (làm mồi câu); ruồi giả (làm mồi câu cá)
+- (nông nghiệp) bệnh do ruồi, sâu bệnh!to crush a fly upon the wheel!to break a fly upon the wheel
+- dùng dao mổ trâu cắt tiết gà, lấy búa đạp muỗi!a fly on the wheel (on the coatch wheel)
+- người lăng xăng tưởng mình quan trọng!no flies on him
+- (từ lóng) anh ta rất đắc lực, anh ta rất được việc
+- (từ Mỹ,nghĩa Mỹ) anh ta rất láu
+*  danh từ
+- sự bay; quãng đường bay=on the fly
++ đang bay
+- vạt cài cúc (ở áo)
+- cánh cửa lều vải
+- đuôi cờ
+- (sân khấu), (số nhiều) khoảng trên đầu sân khấu (có để những bộ kéo phông)
+- bộ phận điều chỉnh tốc độ (ở đồng hồ)
+- (kỹ thuật) (như) fly
+-wheel
+- (từ cổ,nghĩa cổ) xe độc mã
+*  nội động từ flew,  flown
+- bay
+- đi máy bay, đáp máy bay=to fly home
++ đáp máy bay về nhà
+- bay vút lên cao (diều hâu, để đánh nhau)
+- bay phấp phới, tung bay=flags are flying
++ cờ tung bay phấp phới
+- đi nhanh, chạy nhanh, rảo bước=it's late, we must fly
++ đã muộn rồi, chúng ta phải đi nhanh lên
+- tung; chạy vùn vụt như bay=the door flew open
++ cửa mở tung=time flies
++ thời gian vùn vụt trôi qua
+- (thời quá khứ fled) chạy trốn, tẩu thoát
+*  ngoại động từ
+- làm bay phấp phới, làm tung bay=to fly a flag
++ cờ tung bay phấp phới
+- thả (cho bay)=to fly pigeons
++ thả chim bồ câu
+- lái (máy bay...); chuyên chở bằng máy bay!to fly at!to fly on
+- xông lên; tấn công=to fly at the enemy
++ xông lên tấn công quân địch!to fly into
+- nổi (khùng), rớn (mừng)=to fly into a rage
++ nổi xung, nổi cơn thịnh nộ
+- xông vào, xộc vào (trong phòng...)!to fly off
+- bay đi (chim); chuồn đi
+- đứt mất (cúc áo)!to fly out
+- tuôn ra một thôi một hồi
+- nổi cơn hung hăng!to fly over
+- nhảy qua=to fly over fence
++ nhảy qua hàng rào!to fly round
+- quay (bánh xe)!to fly upon
+- (như) to fly at!as the crow flies
+- (xem) crow!the bird in flown
+- (nghĩa bóng) chim đã lọt lưới rồi, hung thủ đã tẩu thoát rồi!to fly to arms
+- (xem) arm!to fly the country
+- chạy trốn; đi khỏi nước!to fly in the face of
+- (xem) face!to fly high!to fly at high game
+- có tham vọng, có hoài bão lớn!to fly a kite
+- (xem) kite!to fly low
+- nằm im, lẩn lút!go fly a kite!
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bước đi, đừng quấy rầy nữa!!to let fly
+- (xem) let!to make the money fly
+- tiêu tiền như rác
+*  tính từ
+- (từ lóng) cẩn thận, tỉnh táo, cảnh giác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bay
+@Lĩnh vực: y học
+-ruồi

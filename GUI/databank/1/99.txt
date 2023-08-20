@@ -1,3 +1,4 @@
-ablating
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sự tan mòn
-
+ablating	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sự tan mòn

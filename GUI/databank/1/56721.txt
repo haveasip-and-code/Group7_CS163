@@ -1,3 +1,3 @@
-timework
-	@timework\n* danh từ\n- việc làm tính giờ
-
+timework	@timework
+* danh từ
+- việc làm tính giờ

@@ -1,3 +1,3 @@
-altitudinal
-	@altitudinal\n- xem altitude
-
+altitudinal	
+@altitudinal
+- xem altitude

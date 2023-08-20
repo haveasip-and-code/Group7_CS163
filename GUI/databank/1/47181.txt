@@ -1,3 +1,44 @@
-response
-	@response /ris'pɔns/\n*  danh từ\n- sự trả lời\n- sự đáp lại, sự hưởng ứng\n=in response to the appeal+ hưởng ứng lời kêu gọi\n=to meet with a warm response+ được hưởng ứng nhiệt liệt\n- sự phản ứng lại; vận động phản ứng lại (khi bị kích thích...)\n- (tôn giáo),  (như) responsory\n@Chuyên ngành kinh tế\n-câu trả lời\n-đáp ứng\n-hưởng ứng\n-phản ứng\n-sự đáp lại\n-sự hồi đáp\n-sự trả lời\n-thư hồi đáp\n-thư trả lời\n@Chuyên ngành kỹ thuật\n-bộ đáp ứng\n-đặc trưng\n-đáp ứng\n-độ đáp ứng\n-độ nhạy\n-đường đặc trưng\n-phản ứng\n-sự báo nhận\n-sự đáp ứng\n-sự tiêu hao\n-tín hiệu đáp\n@Lĩnh vực: điện\n-đáp tuyến\n-sự trả lời\n@Lĩnh vực: vật lý\n-hệ số đáp ứng\n-sự đáp ứng tần\n@Lĩnh vực: xây dựng\n-sự gây phản ứng\n@Lĩnh vực: điện lạnh\n-sự hưởng ứng\n@Lĩnh vực: cơ khí & công trình\n-sự phản ứng lại\n@Lĩnh vực: y học\n-sự trả lời, đáp lại, phản ứng
-
+response	@response /ris'pɔns/
+*  danh từ
+- sự trả lời
+- sự đáp lại, sự hưởng ứng
+=in response to the appeal+ hưởng ứng lời kêu gọi
+=to meet with a warm response+ được hưởng ứng nhiệt liệt
+- sự phản ứng lại; vận động phản ứng lại (khi bị kích thích...)
+- (tôn giáo),  (như) responsory
+@Chuyên ngành kinh tế
+-câu trả lời
+-đáp ứng
+-hưởng ứng
+-phản ứng
+-sự đáp lại
+-sự hồi đáp
+-sự trả lời
+-thư hồi đáp
+-thư trả lời
+@Chuyên ngành kỹ thuật
+-bộ đáp ứng
+-đặc trưng
+-đáp ứng
+-độ đáp ứng
+-độ nhạy
+-đường đặc trưng
+-phản ứng
+-sự báo nhận
+-sự đáp ứng
+-sự tiêu hao
+-tín hiệu đáp
+@Lĩnh vực: điện
+-đáp tuyến
+-sự trả lời
+@Lĩnh vực: vật lý
+-hệ số đáp ứng
+-sự đáp ứng tần
+@Lĩnh vực: xây dựng
+-sự gây phản ứng
+@Lĩnh vực: điện lạnh
+-sự hưởng ứng
+@Lĩnh vực: cơ khí & công trình
+-sự phản ứng lại
+@Lĩnh vực: y học
+-sự trả lời, đáp lại, phản ứng

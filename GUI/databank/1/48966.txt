@@ -1,3 +1,10 @@
-scarp
-	@scarp /skɑ:p/\n*  danh từ\n- tường phía trong (công sự), luỹ phía trong (chiến hào), luỹ phía trong (chiến hào)\n- sườn dốc (của một quả đồi)\n*  ngoại động từ\n- đắp thành dốc, làm thành dốc\n@Chuyên ngành kỹ thuật\n-dốc đứng\n-sườn dốc\n-vách đứng
-
+scarp	@scarp /skɑ:p/
+*  danh từ
+- tường phía trong (công sự), luỹ phía trong (chiến hào), luỹ phía trong (chiến hào)
+- sườn dốc (của một quả đồi)
+*  ngoại động từ
+- đắp thành dốc, làm thành dốc
+@Chuyên ngành kỹ thuật
+-dốc đứng
+-sườn dốc
+-vách đứng

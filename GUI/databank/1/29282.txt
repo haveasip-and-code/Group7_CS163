@@ -1,3 +1,31 @@
-interface
-	@interface /'intəfeis/\n*  danh từ\n- bề mặt chung (cho hai vật...); mặt phân giới\n- những cái chung (của hai ngành học thuật...)\n=the interface of chemistry and physics+ những cái chung của hoá học và vật lý\n@Chuyên ngành kinh tế\n-bề mặt phân chia\n@Chuyên ngành kỹ thuật\n-bề mặt chuyển tiếp\n-giao diện\n-khớp nối\n-lớp trung gian\n-mặt phân cách\n-mặt phân giới\n-mặt tiếp xúc\n-phân lớp\n-sự ghép nối\n@Lĩnh vực: y học\n-bề mặt chung, mặt phân giãn\n@Lĩnh vực: toán & tin\n-mạch ghép nối\n-sự phân giới\n-thiết bị ghép nối\n@Lĩnh vực: xây dựng\n-mặt liên kết\n-mặt phân tầng\n@Lĩnh vực: vật lý\n-mặt phân chia\n@Lĩnh vực: hóa học & vật liệu\n-mặt trung gian
-
+interface	
+@interface /'intəfeis/
+*  danh từ
+- bề mặt chung (cho hai vật...); mặt phân giới
+- những cái chung (của hai ngành học thuật...)=the interface of chemistry and physics
++ những cái chung của hoá học và vật lý
+@Chuyên ngành kinh tế
+-bề mặt phân chia
+@Chuyên ngành kỹ thuật
+-bề mặt chuyển tiếp
+-giao diện
+-khớp nối
+-lớp trung gian
+-mặt phân cách
+-mặt phân giới
+-mặt tiếp xúc
+-phân lớp
+-sự ghép nối
+@Lĩnh vực: y học
+-bề mặt chung, mặt phân giãn
+@Lĩnh vực: toán & tin
+-mạch ghép nối
+-sự phân giới
+-thiết bị ghép nối
+@Lĩnh vực: xây dựng
+-mặt liên kết
+-mặt phân tầng
+@Lĩnh vực: vật lý
+-mặt phân chia
+@Lĩnh vực: hóa học & vật liệu
+-mặt trung gian

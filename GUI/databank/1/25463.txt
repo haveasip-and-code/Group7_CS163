@@ -1,3 +1,4 @@
-hemolyze
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tan huyết, tan máu
-
+hemolyze	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tan huyết, tan máu

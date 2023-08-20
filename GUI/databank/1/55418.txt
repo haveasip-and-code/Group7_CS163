@@ -1,3 +1,5 @@
-tagged
-	@Chuyên ngành kỹ thuật\n-được đánh dấu\n-mặt tốc (ở chuôi dụng cụ cắt)\n@Lĩnh vực: điện lạnh\n-đã đánh dấu
-
+tagged	@Chuyên ngành kỹ thuật
+-được đánh dấu
+-mặt tốc (ở chuôi dụng cụ cắt)
+@Lĩnh vực: điện lạnh
+-đã đánh dấu

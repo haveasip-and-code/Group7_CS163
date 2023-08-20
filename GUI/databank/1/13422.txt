@@ -1,3 +1,14 @@
-dairy
-	@dairy /'deəri/\n*  danh từ\n- nơi trữ và sản xuất bơ sữa\n- cửa hàng bơ sữa\n- trại sản suất bơ sữa\n- sự sản xuất bơ sữa\n- bầy bò sữa (trong trại sản xuất sữa)\n@Chuyên ngành kinh tế\n-bầy bò sữa\n-cửa hàng bơ sữa\n-nhà máy bơ sữa\n-nơi trữ và sản xuất bơ sữa\n-sự sản xuất bơ sữa
-
+dairy	
+@dairy /'deəri/
+*  danh từ
+- nơi trữ và sản xuất bơ sữa
+- cửa hàng bơ sữa
+- trại sản suất bơ sữa
+- sự sản xuất bơ sữa
+- bầy bò sữa (trong trại sản xuất sữa)
+@Chuyên ngành kinh tế
+-bầy bò sữa
+-cửa hàng bơ sữa
+-nhà máy bơ sữa
+-nơi trữ và sản xuất bơ sữa
+-sự sản xuất bơ sữa

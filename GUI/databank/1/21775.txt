@@ -1,3 +1,40 @@
-footing
-	@footing /'futiɳ/\n*  danh từ\n- chỗ để chân; chỗ đứng\n- (nghĩa bóng) địa vị chắc chắn, vị trí chắc chắn, cơ sở chắc chắn\n=to get a footing in society+ có vị trí chắc chắn trong xã hội\n=this undertaking must be put on a sound footing+ công việc này phải được đặt trên cơ sở chắc chắn\n- cơ sở quan hệ; vị trí trong quan hệ (với người khác)\n=to be on a good footing with somebody+ có quan hệ tốt với ai\n- sự được kết nạp (vào một đoàn thể)\n=to pay for one's footing+ đóng tiền nguyệt liễm\n- chân tường, chân cột, bệ\n- sự thay bàn chân cho bít tất; sự khâu bàn chân cho bít tất; vải để khâu bàn chân cho bít tất\n- sự cộng (một hàng số); tổng số (dưới hàng số)\n@Chuyên ngành kinh tế\n-cộng dọc\n-tinh thể dưỡng\n-tổng cộng\n-tổng số\n@Chuyên ngành kỹ thuật\n-bệ\n-bệ đỡ\n-bệ móng\n-chân cột\n-chân tường\n-đế móng\n-đế tường\n-gối tựa\n-khối nền đơn\n-lớp dưới\n-lớp lót\n-nền chịu lực\n-móng\n-móng đơn\n-móng nông\n-móng riêng lẻ\n@Lĩnh vực: xây dựng\n-chân móng\n@Lĩnh vực: cơ khí & công trình\n-chân trường
-
+footing	
+@footing /'futiɳ/
+*  danh từ
+- chỗ để chân; chỗ đứng
+- (nghĩa bóng) địa vị chắc chắn, vị trí chắc chắn, cơ sở chắc chắn=to get a footing in society
++ có vị trí chắc chắn trong xã hội=this undertaking must be put on a sound footing
++ công việc này phải được đặt trên cơ sở chắc chắn
+- cơ sở quan hệ; vị trí trong quan hệ (với người khác)=to be on a good footing with somebody
++ có quan hệ tốt với ai
+- sự được kết nạp (vào một đoàn thể)=to pay for one's footing
++ đóng tiền nguyệt liễm
+- chân tường, chân cột, bệ
+- sự thay bàn chân cho bít tất; sự khâu bàn chân cho bít tất; vải để khâu bàn chân cho bít tất
+- sự cộng (một hàng số); tổng số (dưới hàng số)
+@Chuyên ngành kinh tế
+-cộng dọc
+-tinh thể dưỡng
+-tổng cộng
+-tổng số
+@Chuyên ngành kỹ thuật
+-bệ
+-bệ đỡ
+-bệ móng
+-chân cột
+-chân tường
+-đế móng
+-đế tường
+-gối tựa
+-khối nền đơn
+-lớp dưới
+-lớp lót
+-nền chịu lực
+-móng
+-móng đơn
+-móng nông
+-móng riêng lẻ
+@Lĩnh vực: xây dựng
+-chân móng
+@Lĩnh vực: cơ khí & công trình
+-chân trường

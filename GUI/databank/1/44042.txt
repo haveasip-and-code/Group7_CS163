@@ -1,3 +1,2 @@
-pronouncer
-	@pronouncer\n- xem pronounce
-
+pronouncer	@pronouncer
+- xem pronounce

@@ -1,3 +1,15 @@
-intensifier
-	@intensifier /in'tensifaiə/\n*  danh từ\n- người (cái) làm tăng cao lên\n- người (cái) làm mãnh liệt; người (cái) làm dữ dội\n- (kỹ thuật) máy tăng cường, chất tăng cường\n- máy khuếch đại; bộ phận khuếch đại\n@Chuyên ngành kinh tế\n-chất làm tăng\n-máy làm tăng\n@Chuyên ngành kỹ thuật\n-bộ tăng cường\n@Lĩnh vực: điện lạnh\n-chất tăng cường\n-máy tăng cường
-
+intensifier	
+@intensifier /in'tensifaiə/
+*  danh từ
+- người (cái) làm tăng cao lên
+- người (cái) làm mãnh liệt; người (cái) làm dữ dội
+- (kỹ thuật) máy tăng cường, chất tăng cường
+- máy khuếch đại; bộ phận khuếch đại
+@Chuyên ngành kinh tế
+-chất làm tăng
+-máy làm tăng
+@Chuyên ngành kỹ thuật
+-bộ tăng cường
+@Lĩnh vực: điện lạnh
+-chất tăng cường
+-máy tăng cường

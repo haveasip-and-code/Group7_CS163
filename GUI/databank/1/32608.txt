@@ -1,3 +1,41 @@
-lodge
-	@lodge /lɔdʤ/\n*  danh từ\n- nhà nghỉ (ở nơi săn bắn)\n- túp lều (của người da đỏ)\n- nhà người giữ cửa (công viên); nhà người thường trực\n- hàng thú\n- nơi họp của hội Tam điểm; chi nhánh của hội Tam điểm\n=grand lodge+ ban lânh đạo của hội Tam điểm (hay của hội cùng loại)\n- nhà hiệu trưởng (trường đại học Căm-brít)\n*  ngoại động từ\n- cho ở, cho trọ, chứa trọ là nơi ở cho (ai); chứa đựng\n- gửi (ở ngân hàng...); đưa, trao\n=to lodge money in the bank+ gửi tiền ở ngân hàng\n=to lodge a postest with+ đưa cho một bản kháng nghị\n=to lodge power with someone+ trao quyền hành cho ai\n- đệ đơn kiện\n- bắn vào, đặt vào, giáng\n=to lodge a blow on someone's jaw+ giáng một quả đấm vào quai hàn ai\n- tìm ra (hang thú); tìm thấy (dấu vết của hang thú)\n- đè rạp (gió)\n=the wind lodged the yellow rice plants+ gió đè rạp những cây lúa vàng\n*  nội động từ\n- ở, cư trú\n- trọ, tạm trú\n=to lodge in someone's house+ trọ ở nhà ai\n- nằm, ở\n=bullet lodged in arm+ viên đạn nằm ở trong cánh tay\n@Chuyên ngành kinh tế\n-cho trọ\n-gửi\n-ký gửi\n-nộp\n-ở trọ\n@Chuyên ngành kỹ thuật\n-lều\n@Lĩnh vực: xây dựng\n-trạm gác\n@Chuyên ngành kỹ thuật\n-lều\n@Lĩnh vực: xây dựng\n-trạm gác
-
+lodge	@lodge /lɔdʤ/
+*  danh từ
+- nhà nghỉ (ở nơi săn bắn)
+- túp lều (của người da đỏ)
+- nhà người giữ cửa (công viên); nhà người thường trực
+- hàng thú
+- nơi họp của hội Tam điểm; chi nhánh của hội Tam điểm
+=grand lodge+ ban lânh đạo của hội Tam điểm (hay của hội cùng loại)
+- nhà hiệu trưởng (trường đại học Căm-brít)
+*  ngoại động từ
+- cho ở, cho trọ, chứa trọ là nơi ở cho (ai); chứa đựng
+- gửi (ở ngân hàng...); đưa, trao
+=to lodge money in the bank+ gửi tiền ở ngân hàng
+=to lodge a postest with+ đưa cho một bản kháng nghị
+=to lodge power with someone+ trao quyền hành cho ai
+- đệ đơn kiện
+- bắn vào, đặt vào, giáng
+=to lodge a blow on someone's jaw+ giáng một quả đấm vào quai hàn ai
+- tìm ra (hang thú); tìm thấy (dấu vết của hang thú)
+- đè rạp (gió)
+=the wind lodged the yellow rice plants+ gió đè rạp những cây lúa vàng
+*  nội động từ
+- ở, cư trú
+- trọ, tạm trú
+=to lodge in someone's house+ trọ ở nhà ai
+- nằm, ở
+=bullet lodged in arm+ viên đạn nằm ở trong cánh tay
+@Chuyên ngành kinh tế
+-cho trọ
+-gửi
+-ký gửi
+-nộp
+-ở trọ
+@Chuyên ngành kỹ thuật
+-lều
+@Lĩnh vực: xây dựng
+-trạm gác
+@Chuyên ngành kỹ thuật
+-lều
+@Lĩnh vực: xây dựng
+-trạm gác

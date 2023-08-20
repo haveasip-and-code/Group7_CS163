@@ -1,3 +1,5 @@
-indict
-	@indict /in'dait/\n*  ngoại động từ\n- truy tố, buộc tội\n=to indict someone for something (on a charge of doing something)+ truy tố ai về tội gì
-
+indict	
+@indict /in'dait/
+*  ngoại động từ
+- truy tố, buộc tội=to indict someone for something (on a charge of doing something)
++ truy tố ai về tội gì

@@ -1,3 +1,41 @@
-upset
-	@upset / p'set/\n*  ngoại động từ upset\n- làm đổ, đánh đổ, lật đổ; đánh ng\n=to upset a bottle+ đánh đổ cái chai\n=to upset a car+ đánh đổ xe\n=to upset someone+ đánh ng  ai\n- (hàng hi) làm lật úp (thuyền...)\n- làm rối tung, làm xáo lộn, làm lộn bậy, làm đo lộn\n=to upset a room+ làm lộn bậy c căn phòng\n=to upset a plan+ làm đo lộn kế hoạch\n- làm khó chịu; làm rối loạn (bộ máy tiêu hoá...)\n- làm bối rối, làm lo ngại\n=the least thing upsets him+ một tí cái gì cũng làm cho anh ấy lo ngại bối rối\n- (kỹ thuật) chồn\n*  danh từ\n- sự đổ, sự lật đổ, sự lật úp; sự đánh ng\n- tình trạng lộn xộn, tình trạng rối loạn\n- sự bối rối, sự lúng túng\n- sự c i lộn, sự bất hoà\n- trạng thái nôn nao khó chịu\n- (thể dục,thể thao) kết qu bất ngờ\n- (kỹ thuật) sự chồn\n@Chuyên ngành kỹ thuật\n-dát phẳng (không tạo hình)\n-lật\n-lật đổ\n-rối loạn\n-sự chồn\n-sự ép thẳng\n-sự lật úp\n-sự rối loạn\n-sự tán\n@Lĩnh vực: xây dựng\n-đảo lộn\n@Lĩnh vực: giao thông & vận tải\n-lật úp (thuyền)\n@Lĩnh vực: cơ khí & công trình\n-sự đẩy lên\n-xe đổ\n@Lĩnh vực: hóa học & vật liệu\n-sự rèn chồn (cần ống khoan)
-
+upset	@upset / p'set/
+*  ngoại động từ upset
+- làm đổ, đánh đổ, lật đổ; đánh ng
+=to upset a bottle+ đánh đổ cái chai
+=to upset a car+ đánh đổ xe
+=to upset someone+ đánh ng  ai
+- (hàng hi) làm lật úp (thuyền...)
+- làm rối tung, làm xáo lộn, làm lộn bậy, làm đo lộn
+=to upset a room+ làm lộn bậy c căn phòng
+=to upset a plan+ làm đo lộn kế hoạch
+- làm khó chịu; làm rối loạn (bộ máy tiêu hoá...)
+- làm bối rối, làm lo ngại
+=the least thing upsets him+ một tí cái gì cũng làm cho anh ấy lo ngại bối rối
+- (kỹ thuật) chồn
+*  danh từ
+- sự đổ, sự lật đổ, sự lật úp; sự đánh ng
+- tình trạng lộn xộn, tình trạng rối loạn
+- sự bối rối, sự lúng túng
+- sự c i lộn, sự bất hoà
+- trạng thái nôn nao khó chịu
+- (thể dục,thể thao) kết qu bất ngờ
+- (kỹ thuật) sự chồn
+@Chuyên ngành kỹ thuật
+-dát phẳng (không tạo hình)
+-lật
+-lật đổ
+-rối loạn
+-sự chồn
+-sự ép thẳng
+-sự lật úp
+-sự rối loạn
+-sự tán
+@Lĩnh vực: xây dựng
+-đảo lộn
+@Lĩnh vực: giao thông & vận tải
+-lật úp (thuyền)
+@Lĩnh vực: cơ khí & công trình
+-sự đẩy lên
+-xe đổ
+@Lĩnh vực: hóa học & vật liệu
+-sự rèn chồn (cần ống khoan)

@@ -1,3 +1,2 @@
-placater
-	@placater\n- xem placate
-
+placater	@placater
+- xem placate

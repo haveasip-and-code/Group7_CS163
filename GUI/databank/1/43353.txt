@@ -1,3 +1,4 @@
-preprogramming
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự lập trình trước\n-sự tiền lập trình
-
+preprogramming	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự lập trình trước
+-sự tiền lập trình

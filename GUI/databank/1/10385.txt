@@ -1,3 +1,70 @@
-colour
-	@colour /'kʌlə/\n*  danh từ\n- màu, sắc, màu sắc\n- (số nhiều) thuốc vẽ, thuốc màu\n- nghệ thuật vẽ màu\n- nước da, sắc da (mặt)\n=to change colour+ biến sắc\n=to lose one's colour+ tái đi, xanh xao\n=to have a high colour+ có nước da hồng hào\n- màu sắc, vẻ, sắc thái, nét\n=local colour+ màu sắc địa phương\n=the colour of a newspaper+ màu sắc chính trị của một tờ báo\n=his story has some colour of truth+ câu chuyện của anh ta có vẻ thật\n- (số nhiều) cờ; màu cờ, sắc áo (để phân biệt giữa các đội thể thao...)\n=troopong of the colours+ lễ chào cờ\n=to get one's colours+ được gia nhập hội\n- cớ\n=under colour of+ lấy cớ là\n!to be off colour\n- không khoẻ, khó chịu, khó ở\n- không đúng màu, bệch bạc\n- đáng ngờ, đáng nghi ngại; không tốt lắm\n=his reputation was a trifle off colour+ tiếng tăm của anh ta cũng chẳng tốt đẹp gì lắm đâu\n- chưa đủ, còn tồi\n=he has mighty little English and may native was still off colour+ anh ta biết ít tiếng Anh quá, mà vốn tiếng địa phương của tôi thì còn tồi quá\n!to call to the colours\n- (quân sự) động viên, gọi nhập ngũ\n!to cast (give, put) false colours on\n- tô điểm thêm, bóp méo, làm sai sự thật\n!to cast (put) lively colours on\n- tô màu sặc sỡ; tô hồng (cái gì)\n!to come off with flying colours\n- thành công rực rỡ\n- gây được uy tín\n!to come out in one's true colours\n- để lộ rõ chân tướng\n!to desert the colours\n- (quân sự) đào ngũ\n!to gain colour\n- lại có da, có thịt, lại có sắc mặt, lại hồng hào\n!to join the colours\n- (quân sự) nhập ngũ, tòng quân\n!to lower one's colours\n- hạ cờ; đầu hang, chịu thua\n!to nail colours to mast\n- kiên quyết bênh vực quan điểm của mình; kiên quyết không chịu lui; kiên quyết đuổi theo đến cùng\n!to paint in dark colours\n- vẽ màu tối; bôi đen (cái gì)\n!to paint something in true colours\n- nói lên sự thật của cái gì\n!to sail under false colours\n- (hàng hải) treo cờ giả\n- (nghĩa bóng) giấu tên thật để hoạt động\n- (nghĩa bóng) đánh lừa, chê đậy ý định thật\n!to see the colours of someone's money\n- được ai trả cho chút tiền (trong số lớn của nợ)\n!to see things in their true colours\n- nhìn sự thật của vấn đề\n!to show one's colours x show to stick to one's colours\n- trung thành, kiên định (với ý định của mình, với đảng phái...)\n!to take colour with somebody\n- đứng hẳn về phe ai\n*  ngoại động từ\n- tô màu\n- (nghĩa bóng) tô điểm, tô vẽ\n=to colour a story+ tô điểm cho câu chuyện\n*  nội động từ\n- đổi màu, ngả màu\n=to leaves have begun to colour+ lá bắt đầu ngả màu\n- ửng đỏ, đỏ bừng (mặt)\n@Chuyên ngành kinh tế\n-chất màu\n-độ màu\n-màu sắc\n@Chuyên ngành kỹ thuật\n-chất màu\n-màu\n-màu (Anh)\n-màu sắc\n-sắc\n-thuốc màu\n-thuốc nhuộm\n-tô màu\n@Lĩnh vực: điện lạnh\n-màu (trong sự nhìn)\n@Lĩnh vực: xây dựng\n-thuốc nhuộm màu
-
+colour	
+@colour /'kʌlə/
+*  danh từ
+- màu, sắc, màu sắc
+- (số nhiều) thuốc vẽ, thuốc màu
+- nghệ thuật vẽ màu
+- nước da, sắc da (mặt)=to change colour
++ biến sắc=to lose one's colour
++ tái đi, xanh xao=to have a high colour
++ có nước da hồng hào
+- màu sắc, vẻ, sắc thái, nét=local colour
++ màu sắc địa phương=the colour of a newspaper
++ màu sắc chính trị của một tờ báo=his story has some colour of truth
++ câu chuyện của anh ta có vẻ thật
+- (số nhiều) cờ; màu cờ, sắc áo (để phân biệt giữa các đội thể thao...)=troopong of the colours
++ lễ chào cờ=to get one's colours
++ được gia nhập hội
+- cớ=under colour of
++ lấy cớ là!to be off colour
+- không khoẻ, khó chịu, khó ở
+- không đúng màu, bệch bạc
+- đáng ngờ, đáng nghi ngại; không tốt lắm=his reputation was a trifle off colour
++ tiếng tăm của anh ta cũng chẳng tốt đẹp gì lắm đâu
+- chưa đủ, còn tồi=he has mighty little English and may native was still off colour
++ anh ta biết ít tiếng Anh quá, mà vốn tiếng địa phương của tôi thì còn tồi quá!to call to the colours
+- (quân sự) động viên, gọi nhập ngũ!to cast (give, put) false colours on
+- tô điểm thêm, bóp méo, làm sai sự thật!to cast (put) lively colours on
+- tô màu sặc sỡ; tô hồng (cái gì)!to come off with flying colours
+- thành công rực rỡ
+- gây được uy tín!to come out in one's true colours
+- để lộ rõ chân tướng!to desert the colours
+- (quân sự) đào ngũ!to gain colour
+- lại có da, có thịt, lại có sắc mặt, lại hồng hào!to join the colours
+- (quân sự) nhập ngũ, tòng quân!to lower one's colours
+- hạ cờ; đầu hang, chịu thua!to nail colours to mast
+- kiên quyết bênh vực quan điểm của mình; kiên quyết không chịu lui; kiên quyết đuổi theo đến cùng!to paint in dark colours
+- vẽ màu tối; bôi đen (cái gì)!to paint something in true colours
+- nói lên sự thật của cái gì!to sail under false colours
+- (hàng hải) treo cờ giả
+- (nghĩa bóng) giấu tên thật để hoạt động
+- (nghĩa bóng) đánh lừa, chê đậy ý định thật!to see the colours of someone's money
+- được ai trả cho chút tiền (trong số lớn của nợ)!to see things in their true colours
+- nhìn sự thật của vấn đề!to show one's colours x show to stick to one's colours
+- trung thành, kiên định (với ý định của mình, với đảng phái...)!to take colour with somebody
+- đứng hẳn về phe ai
+*  ngoại động từ
+- tô màu
+- (nghĩa bóng) tô điểm, tô vẽ=to colour a story
++ tô điểm cho câu chuyện
+*  nội động từ
+- đổi màu, ngả màu=to leaves have begun to colour
++ lá bắt đầu ngả màu
+- ửng đỏ, đỏ bừng (mặt)
+@Chuyên ngành kinh tế
+-chất màu
+-độ màu
+-màu sắc
+@Chuyên ngành kỹ thuật
+-chất màu
+-màu
+-màu (Anh)
+-màu sắc
+-sắc
+-thuốc màu
+-thuốc nhuộm
+-tô màu
+@Lĩnh vực: điện lạnh
+-màu (trong sự nhìn)
+@Lĩnh vực: xây dựng
+-thuốc nhuộm màu

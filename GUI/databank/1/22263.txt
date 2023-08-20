@@ -1,3 +1,4 @@
-freeboot
-	@freeboot /'fri:bu:t/\n*  nội động từ\n- ăn cướp
-
+freeboot	
+@freeboot /'fri:bu:t/
+*  nội động từ
+- ăn cướp

@@ -1,3 +1,2 @@
-prosecutable
-	@prosecutable\n- xem prosecute
-
+prosecutable	@prosecutable
+- xem prosecute

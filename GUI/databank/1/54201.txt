@@ -1,3 +1,25 @@
-subsidiary
-	@subsidiary /səb'saidəns/\n*  tính từ\n- phụ, trợ, bổ sung\n- thuê, mướn (quân đội)\n- lép vốn (công ty) (bị một công ty khác có quá nửa cổ phần kiểm soát)\n*  danh từ\n- người phụ, vật phụ; người bổ sung, vật bổ sung\n- công ty lép vốn (bị một công ty khác có quá nửa cổ phần kiểm soát)\n@Chuyên ngành kinh tế\n-công ty chi nhánh\n-công ty con\n-công ty phụ thuộc\n-cửa hàng chi nhánh\n-phụ\n-phụ thuộc\n-thứ yếu\n@Chuyên ngành kỹ thuật\n-bổ sung\n-dự trữ\n-phụ\n-phụ trợ\n@Lĩnh vực: toán & tin\n-bổ trợ\n@Lĩnh vực: cơ khí & công trình\n-sự tắt dần phụ
-
+subsidiary	@subsidiary /səb'saidəns/
+*  tính từ
+- phụ, trợ, bổ sung
+- thuê, mướn (quân đội)
+- lép vốn (công ty) (bị một công ty khác có quá nửa cổ phần kiểm soát)
+*  danh từ
+- người phụ, vật phụ; người bổ sung, vật bổ sung
+- công ty lép vốn (bị một công ty khác có quá nửa cổ phần kiểm soát)
+@Chuyên ngành kinh tế
+-công ty chi nhánh
+-công ty con
+-công ty phụ thuộc
+-cửa hàng chi nhánh
+-phụ
+-phụ thuộc
+-thứ yếu
+@Chuyên ngành kỹ thuật
+-bổ sung
+-dự trữ
+-phụ
+-phụ trợ
+@Lĩnh vực: toán & tin
+-bổ trợ
+@Lĩnh vực: cơ khí & công trình
+-sự tắt dần phụ

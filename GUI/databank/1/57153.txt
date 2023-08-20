@@ -1,3 +1,4 @@
-touristy
-	@touristy\n* tính từ\n- <thgt> đầy khách du lịch\n- <thgt> được thiết kế để hấp dẫn khách du lịch
-
+touristy	@touristy
+* tính từ
+- <thgt> đầy khách du lịch
+- <thgt> được thiết kế để hấp dẫn khách du lịch

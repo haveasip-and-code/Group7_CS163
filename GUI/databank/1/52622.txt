@@ -1,3 +1,8 @@
-sporicide
-	@sporicide\n* danh từ\n- thuốc diệt (trừ) bào tử\n@Chuyên ngành kinh tế\n-thuốc diệt bào tử\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chết diệt bào tử
-
+sporicide	@sporicide
+* danh từ
+- thuốc diệt (trừ) bào tử
+@Chuyên ngành kinh tế
+-thuốc diệt bào tử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chết diệt bào tử

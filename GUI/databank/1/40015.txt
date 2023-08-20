@@ -1,3 +1,2 @@
-patiently
-	@patiently\n- xem patient
-
+patiently	@patiently
+- xem patient

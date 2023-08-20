@@ -1,3 +1,5 @@
-mono
-	@mono ['mounou]\n*tính từ\n-  xem monophonic\n@Chuyên ngành kỹ thuật\n-đơn sắc
-
+mono	@mono ['mounou]
+*tính từ
+-  xem monophonic
+@Chuyên ngành kỹ thuật
+-đơn sắc

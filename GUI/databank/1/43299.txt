@@ -1,3 +1,4 @@
-prep
-	@prep /prep/\n*  danh từ\n-(ngôn ngữ nhà trường),  (từ lóng) sự soạn bài; bài soạn\n- trường dự bị
-
+prep	@prep /prep/
+*  danh từ
+-(ngôn ngữ nhà trường),  (từ lóng) sự soạn bài; bài soạn
+- trường dự bị

@@ -1,3 +1,7 @@
-isoelectric
-	@isoelectric /,aisoui'lektrik/\n*  tính từ\n- (vật lý) đẳng điện\n=isoelectric points+ điểm đẳng điện\n@Chuyên ngành kỹ thuật\n-đẳng điện
-
+isoelectric	
+@isoelectric /,aisoui'lektrik/
+*  tính từ
+- (vật lý) đẳng điện=isoelectric points
++ điểm đẳng điện
+@Chuyên ngành kỹ thuật
+-đẳng điện

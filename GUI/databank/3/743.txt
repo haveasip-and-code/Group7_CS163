@@ -1,3 +1,28 @@
-adhesive
-	@adhesive /əd'hi:siv/\n*  tính từ\n- dính, bám chắc\n=adhesive tape+ băng dính\n=adhesive plaster+ thuốc cao dán\n*  danh từ\n- chất dính, chất dán\n@Chuyên ngành kinh tế\n-chất dính\n@Chuyên ngành kỹ thuật\n-bám dính\n-chất dính kết\n-dính\n-dính bám\n-keo\n-nối khớp\n-vật liệu dính kết\n@Lĩnh vực: y học\n-chất dính\n@Lĩnh vực: xây dựng\n-có tính dính kết\n-dán dính\n-keo hồ\n-nhựa (cao su)\n@Lĩnh vực: hóa học & vật liệu\n-dính cố kết\n@Lĩnh vực: cơ khí & công trình\n-vật liệu dính
-
+adhesive	@adhesive /əd'hi:siv/
+*  tính từ
+- dính, bám chắc
+=adhesive tape+ băng dính
+=adhesive plaster+ thuốc cao dán
+*  danh từ
+- chất dính, chất dán
+@Chuyên ngành kinh tế
+-chất dính
+@Chuyên ngành kỹ thuật
+-bám dính
+-chất dính kết
+-dính
+-dính bám
+-keo
+-nối khớp
+-vật liệu dính kết
+@Lĩnh vực: y học
+-chất dính
+@Lĩnh vực: xây dựng
+-có tính dính kết
+-dán dính
+-keo hồ
+-nhựa (cao su)
+@Lĩnh vực: hóa học & vật liệu
+-dính cố kết
+@Lĩnh vực: cơ khí & công trình
+-vật liệu dính

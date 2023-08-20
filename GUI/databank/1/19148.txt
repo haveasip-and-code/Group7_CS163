@@ -1,3 +1,42 @@
-estimate
-	@estimate /'estimit - 'estimeit/\n- 'estimeit/\n*  danh từ\n- sự đánh giá, sự ước lượng\n- số lượng ước đoán\n- bản kê giá cả (thầu khoán)\n!the Estimates\n- dự thảo ngân sách\n*  ngoại động từ\n- đánh giá; ước lượng\n@Chuyên ngành kinh tế\n-đánh giá\n-đánh giá lượng giá\n-dự kế\n-dự tính\n-lượng giá\n-sự đánh giá\n-sự ước lượng\n-sự ước tính\n-ước lượng\n-ước tính\n@Chuyên ngành kỹ thuật\n-đánh giá\n-dự đoán\n-dự toán\n-sự đánh giá\n-sự ước lượng\n-sự ước tính\n-ước đoán\n-ước lượng\n-ước tính\n@Chuyên ngành kỹ thuật\n-đánh giá\n-dự đoán\n-dự toán\n-sự đánh giá\n-sự ước lượng\n-sự ước tính\n-ước đoán\n-ước lượng\n-ước tính
-
+estimate	
+@estimate /'estimit 
+- 'estimeit/
+- 'estimeit/
+*  danh từ
+- sự đánh giá, sự ước lượng
+- số lượng ước đoán
+- bản kê giá cả (thầu khoán)!the Estimates
+- dự thảo ngân sách
+*  ngoại động từ
+- đánh giá; ước lượng
+@Chuyên ngành kinh tế
+-đánh giá
+-đánh giá lượng giá
+-dự kế
+-dự tính
+-lượng giá
+-sự đánh giá
+-sự ước lượng
+-sự ước tính
+-ước lượng
+-ước tính
+@Chuyên ngành kỹ thuật
+-đánh giá
+-dự đoán
+-dự toán
+-sự đánh giá
+-sự ước lượng
+-sự ước tính
+-ước đoán
+-ước lượng
+-ước tính
+@Chuyên ngành kỹ thuật
+-đánh giá
+-dự đoán
+-dự toán
+-sự đánh giá
+-sự ước lượng
+-sự ước tính
+-ước đoán
+-ước lượng
+-ước tính

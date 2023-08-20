@@ -1,3 +1,2 @@
-slugging
-	@Chuyên ngành kỹ thuật\n-sự nút kín
-
+slugging	@Chuyên ngành kỹ thuật
+-sự nút kín

@@ -1,3 +1,24 @@
-facies
-	@facies\n* danh từ\n- số nhiều facies\n- mặt; diện; bề mặt\n- dáng; vẻ\n- (sinh học) quần diện thay thế\n- (địa chất) nham tướng; khoáng tướng\n@Chuyên ngành kỹ thuật\n-diện\n-mặt\n@Lĩnh vực: cơ khí & công trình\n-mặt diện\n-tướng (đá)\n@Lĩnh vực: y học\n-vẻ mặt\n@Chuyên ngành kỹ thuật\n-diện\n-mặt\n@Lĩnh vực: cơ khí & công trình\n-mặt diện\n-tướng (đá)\n@Lĩnh vực: y học\n-vẻ mặt
-
+facies	
+@facies
+* danh từ
+- số nhiều facies
+- mặt; diện; bề mặt
+- dáng; vẻ
+- (sinh học) quần diện thay thế
+- (địa chất) nham tướng; khoáng tướng
+@Chuyên ngành kỹ thuật
+-diện
+-mặt
+@Lĩnh vực: cơ khí & công trình
+-mặt diện
+-tướng (đá)
+@Lĩnh vực: y học
+-vẻ mặt
+@Chuyên ngành kỹ thuật
+-diện
+-mặt
+@Lĩnh vực: cơ khí & công trình
+-mặt diện
+-tướng (đá)
+@Lĩnh vực: y học
+-vẻ mặt

@@ -1,3 +1,24 @@
-ask
-	@ask /ɑ:sk/\n*  động từ\n- hỏi\n=to ask the time+ hỏi giờ\n- xin, yêu cầu, thỉnh cầu\n=to ask a favour of someone+ xin ai một đặc ân\n=to ask somebody to do something+ yêu cầu ai làm gì\n- mời\n=to ask someone to dinner+ mời cơm ai\n- đòi hỏi\n=it asks [for] attention+ điều đó đòi hỏi sự chú ý\n- đòi\n=to ask 600đ for a bicycle+ đòi 600đ một cái xe đạp\n- (thông tục) chuốc lấy\n=to ask for trouble; to ask for it+ chuốc lấy sự phiền luỵ\n!to ask about\n- hỏi về\n!to ask after\n- hỏi thăm\n!ask me another!\n- (thông tục) không biết, đừng hỏi tôi nữa!\n!to ask the banns\n- (xem) bann\n@Chuyên ngành kinh tế\n-giá chào bán\n@Chuyên ngành kỹ thuật\n-hỏi
-
+ask	
+@ask /ɑ:sk/
+*  động từ
+- hỏi=to ask the time
++ hỏi giờ
+- xin, yêu cầu, thỉnh cầu=to ask a favour of someone
++ xin ai một đặc ân=to ask somebody to do something
++ yêu cầu ai làm gì
+- mời=to ask someone to dinner
++ mời cơm ai
+- đòi hỏi=it asks [for] attention
++ điều đó đòi hỏi sự chú ý
+- đòi=to ask 600đ for a bicycle
++ đòi 600đ một cái xe đạp
+- (thông tục) chuốc lấy=to ask for trouble; to ask for it
++ chuốc lấy sự phiền luỵ!to ask about
+- hỏi về!to ask after
+- hỏi thăm!ask me another!
+- (thông tục) không biết, đừng hỏi tôi nữa!!to ask the banns
+- (xem) bann
+@Chuyên ngành kinh tế
+-giá chào bán
+@Chuyên ngành kỹ thuật
+-hỏi

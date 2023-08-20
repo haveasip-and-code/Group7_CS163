@@ -1,3 +1,4 @@
-beautify
-	@beautify /'bju:tifai/\n*  ngoại động từ\n- làm đẹp, tô điểm
-
+beautify	
+@beautify /'bju:tifai/
+*  ngoại động từ
+- làm đẹp, tô điểm

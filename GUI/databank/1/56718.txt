@@ -1,3 +1,5 @@
-times
-	@times\n* giới từ\n- nhân với\n* danh từ, pl\n- gấp (dùng để chỉ sự nhân lên)
-
+times	@times
+* giới từ
+- nhân với
+* danh từ, pl
+- gấp (dùng để chỉ sự nhân lên)

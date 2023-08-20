@@ -1,3 +1,47 @@
-thin
-	@thin /θin/\n*  tính từ\n- mỏng, mảnh\n=a thin sheet of paper+ tờ giấy mỏng\n=a thin piece of string+ sợi dây mảnh\n- gầy gò, mảnh dẻ, mảnh khảnh\n=as thin as a lath+ gầy như cái que\n- loãng\n=thin porridge+ cháo loãng\n=thin wine+ rượu nhẹ, rượu pha loãng\n=thin air+ không khí loãng\n- thưa, thưa thớt, lơ thơ\n=thin hair+ tóc thưa\n=thin audience+ thính giả thưa thớt\n- nhỏ, nhỏ hẹp, yếu ớt\n=a thin voice+ giọng nói nhỏ nhẹ\n- mong manh; nghèo nàn\n=a thin excuse+ một lý do cáo lỗi mong manh không vững\n=a thin story+ một câu chuyện nghèo nàn\n- (từ lóng) khó chịu, buồn chán\n=to have a thin time+ buồn bực, chán\n*  ngoại động từ\n- làm cho mỏng, làm cho mảnh\n- làm gầy đi, làm gầy bớt\n- làm loãng, pha loãng\n- làm thưa, làm giảm bớt, tỉa bớt\n=to thin out the leaves+ tỉa bớt lá\n*  nội động từ\n- mỏng ra, mảnh đi\n- gầy đi\n- loãng ra\n- thưa bớt đi, thưa thớt\n@Chuyên ngành kỹ thuật\n-làm mỏng\n-loãng\n-loãng (axit)\n-nhạt\n-mảnh\n-mịn\n-mờ (in ấn)\n-mỏng\n-pha loãng\n-vát nhọn (mũi khoan ruột gà)\n@Lĩnh vực: toán & tin\n-nửa xác định\n@Lĩnh vực: ô tô\n-pha loãng sơn
-
+thin	@thin /θin/
+*  tính từ
+- mỏng, mảnh
+=a thin sheet of paper+ tờ giấy mỏng
+=a thin piece of string+ sợi dây mảnh
+- gầy gò, mảnh dẻ, mảnh khảnh
+=as thin as a lath+ gầy như cái que
+- loãng
+=thin porridge+ cháo loãng
+=thin wine+ rượu nhẹ, rượu pha loãng
+=thin air+ không khí loãng
+- thưa, thưa thớt, lơ thơ
+=thin hair+ tóc thưa
+=thin audience+ thính giả thưa thớt
+- nhỏ, nhỏ hẹp, yếu ớt
+=a thin voice+ giọng nói nhỏ nhẹ
+- mong manh; nghèo nàn
+=a thin excuse+ một lý do cáo lỗi mong manh không vững
+=a thin story+ một câu chuyện nghèo nàn
+- (từ lóng) khó chịu, buồn chán
+=to have a thin time+ buồn bực, chán
+*  ngoại động từ
+- làm cho mỏng, làm cho mảnh
+- làm gầy đi, làm gầy bớt
+- làm loãng, pha loãng
+- làm thưa, làm giảm bớt, tỉa bớt
+=to thin out the leaves+ tỉa bớt lá
+*  nội động từ
+- mỏng ra, mảnh đi
+- gầy đi
+- loãng ra
+- thưa bớt đi, thưa thớt
+@Chuyên ngành kỹ thuật
+-làm mỏng
+-loãng
+-loãng (axit)
+-nhạt
+-mảnh
+-mịn
+-mờ (in ấn)
+-mỏng
+-pha loãng
+-vát nhọn (mũi khoan ruột gà)
+@Lĩnh vực: toán & tin
+-nửa xác định
+@Lĩnh vực: ô tô
+-pha loãng sơn

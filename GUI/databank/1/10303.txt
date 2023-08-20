@@ -1,3 +1,25 @@
-collision
-	@collision /kə'liʤn/\n*  danh từ\n- sự đụng, sự va\n=the two cars had a slight collision+ hai chiếc ô tô va nhẹ vào nhau\n- sự va chạm, sự xung đột\n=to came into collision with+ va chạm với, xung đột với\n@Chuyên ngành kinh tế\n-đâm va (tàu xe....)\n-sự câu kết\n-sự va chạm\n-thông đồng\n@Chuyên ngành kỹ thuật\n-đụng\n-sự va chạm\n-sự va đập\n-sự xung đột\n-va\n@Lĩnh vực: cơ khí & công trình\n-cộng tuyến\n-đồng thẳng\n@Lĩnh vực: xây dựng\n-sự chạm nhau\n@Lĩnh vực: toán & tin\n-xung đột
-
+collision	
+@collision /kə'liʤn/
+*  danh từ
+- sự đụng, sự va=the two cars had a slight collision
++ hai chiếc ô tô va nhẹ vào nhau
+- sự va chạm, sự xung đột=to came into collision with
++ va chạm với, xung đột với
+@Chuyên ngành kinh tế
+-đâm va (tàu xe....)
+-sự câu kết
+-sự va chạm
+-thông đồng
+@Chuyên ngành kỹ thuật
+-đụng
+-sự va chạm
+-sự va đập
+-sự xung đột
+-va
+@Lĩnh vực: cơ khí & công trình
+-cộng tuyến
+-đồng thẳng
+@Lĩnh vực: xây dựng
+-sự chạm nhau
+@Lĩnh vực: toán & tin
+-xung đột

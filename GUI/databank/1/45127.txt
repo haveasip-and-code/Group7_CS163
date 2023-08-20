@@ -1,3 +1,13 @@
-quay
-	@quay /ki:/\n*  danh từ\n- ke, bến (cảng)\n@Chuyên ngành kinh tế\n-gần như đình trệ\n@Chuyên ngành kỹ thuật\n-bến\n-bến tàu\n-kè đá\n@Lĩnh vực: giao thông & vận tải\n-bến cảng nhỏ\n@Lĩnh vực: xây dựng\n-ke
-
+quay	@quay /ki:/
+*  danh từ
+- ke, bến (cảng)
+@Chuyên ngành kinh tế
+-gần như đình trệ
+@Chuyên ngành kỹ thuật
+-bến
+-bến tàu
+-kè đá
+@Lĩnh vực: giao thông & vận tải
+-bến cảng nhỏ
+@Lĩnh vực: xây dựng
+-ke

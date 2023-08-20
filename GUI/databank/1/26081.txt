@@ -1,3 +1,4 @@
-homopolymer
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pôlyme đồng nhất
-
+homopolymer	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-pôlyme đồng nhất

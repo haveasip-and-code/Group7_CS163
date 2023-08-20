@@ -1,3 +1,15 @@
-mattress
-	@mattress /'mætris/\n*  danh từ\n- nệm, đệm\n@Chuyên ngành kỹ thuật\n-đệm\n-đệm bông\n-đệm cách nhiệt\n-ghế\n-gối\n-gối tựa\n-nệm\n-mền bông\n-tham gia\n@Lĩnh vực: xây dựng\n-đệm giường
-
+mattress	@mattress /'mætris/
+*  danh từ
+- nệm, đệm
+@Chuyên ngành kỹ thuật
+-đệm
+-đệm bông
+-đệm cách nhiệt
+-ghế
+-gối
+-gối tựa
+-nệm
+-mền bông
+-tham gia
+@Lĩnh vực: xây dựng
+-đệm giường

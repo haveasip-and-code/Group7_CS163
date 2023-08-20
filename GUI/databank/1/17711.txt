@@ -1,3 +1,20 @@
-electroscope
-	@electroscope /i'lektrəskoup/\n*  danh từ\n- cái nghiệm tĩnh điện\n@Chuyên ngành kỹ thuật\n-điện nghiệm\n@Lĩnh vực: điện lạnh\n-máy điện nghiệm\n@Lĩnh vực: điện\n-tĩnh điện kế\n@Lĩnh vực: hóa học & vật liệu\n-tĩnh điện nghiệm\n@Chuyên ngành kỹ thuật\n-điện nghiệm\n@Lĩnh vực: điện lạnh\n-máy điện nghiệm\n@Lĩnh vực: điện\n-tĩnh điện kế\n@Lĩnh vực: hóa học & vật liệu\n-tĩnh điện nghiệm
-
+electroscope	
+@electroscope /i'lektrəskoup/
+*  danh từ
+- cái nghiệm tĩnh điện
+@Chuyên ngành kỹ thuật
+-điện nghiệm
+@Lĩnh vực: điện lạnh
+-máy điện nghiệm
+@Lĩnh vực: điện
+-tĩnh điện kế
+@Lĩnh vực: hóa học & vật liệu
+-tĩnh điện nghiệm
+@Chuyên ngành kỹ thuật
+-điện nghiệm
+@Lĩnh vực: điện lạnh
+-máy điện nghiệm
+@Lĩnh vực: điện
+-tĩnh điện kế
+@Lĩnh vực: hóa học & vật liệu
+-tĩnh điện nghiệm

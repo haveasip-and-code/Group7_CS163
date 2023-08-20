@@ -1,3 +1,10 @@
-autonomous
-	@autonomous /ɔ:'tɔnəməs/\n*  tính từ\n- tự trị\n@Chuyên ngành kỹ thuật\n-độc lập\n-tự sinh\n@Lĩnh vực: toán & tin\n-tự quản\n@Lĩnh vực: điện\n-tự xử lý
-
+autonomous	@autonomous /ɔ:'tɔnəməs/
+*  tính từ
+- tự trị
+@Chuyên ngành kỹ thuật
+-độc lập
+-tự sinh
+@Lĩnh vực: toán & tin
+-tự quản
+@Lĩnh vực: điện
+-tự xử lý

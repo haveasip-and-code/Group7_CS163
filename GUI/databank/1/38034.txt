@@ -1,3 +1,2 @@
-optimum
-	@optimum\n- tối ưu
-
+optimum	@optimum
+- tối ưu

@@ -1,3 +1,6 @@
-hyphenless
-	@hyphenless\n* tính từ\n- không có dấu gạch nối\n* tính từ\n- không có dấu gạch nối
-
+hyphenless	
+@hyphenless
+* tính từ
+- không có dấu gạch nối
+* tính từ
+- không có dấu gạch nối

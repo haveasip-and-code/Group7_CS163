@@ -1,3 +1,2 @@
-contrastable
-	@contrastable\n- xem contrast
-
+contrastable	@contrastable
+- xem contrast

@@ -1,3 +1,6 @@
-spaceport
-	@spaceport\n* danh từ\n- sân bay vũ trụ\n@Chuyên ngành kỹ thuật\n-nhà ga vũ trụ\n-sân bay vũ trụ
-
+spaceport	@spaceport
+* danh từ
+- sân bay vũ trụ
+@Chuyên ngành kỹ thuật
+-nhà ga vũ trụ
+-sân bay vũ trụ

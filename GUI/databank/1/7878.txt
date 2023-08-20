@@ -1,3 +1,7 @@
-caps
-	@caps\n* danh từ\n- những chữ cái hoa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kiểu chữ hoa
-
+caps	
+@caps
+* danh từ
+- những chữ cái hoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kiểu chữ hoa

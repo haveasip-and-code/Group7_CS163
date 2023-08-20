@@ -1,3 +1,4 @@
-strutter
-	@strutter\n* danh từ\n- người đi khệnh khạng\n- người ngạo mạn
-
+strutter	@strutter
+* danh từ
+- người đi khệnh khạng
+- người ngạo mạn

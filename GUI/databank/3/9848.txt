@@ -1,3 +1,2 @@
-clonic
-	@clonic\n- xem clonus
-
+clonic	@clonic
+- xem clonus

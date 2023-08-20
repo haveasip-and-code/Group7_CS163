@@ -1,3 +1,8 @@
-prosecutor
-	@prosecutor /prosecutor/\n*  danh từ\n- người khởi tố, bên nguyên\n!public prosecutor\n- uỷ viên công tố\n@Chuyên ngành kinh tế\n-bên nguyên\n-người khởi tố
-
+prosecutor	@prosecutor /prosecutor/
+*  danh từ
+- người khởi tố, bên nguyên
+!public prosecutor
+- uỷ viên công tố
+@Chuyên ngành kinh tế
+-bên nguyên
+-người khởi tố

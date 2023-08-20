@@ -1,3 +1,14 @@
-describe
-	@describe /dis'kraib/\n*  ngoại động từ\n- tả, diễn tả, mô tả, miêu tả\n- vạch, vẽ\n=to describe a circle with a pair of compasses+ vạch một vòng tròn bằng com-pa\n- cho là, coi là; định rõ tính chất\n=he described hinself as a doctor+ nó tự xưng là bác sĩ\n@Chuyên ngành kỹ thuật\n-đi (theo)\n-miêu tả\n-mô tả\n@Lĩnh vực: điện lạnh\n-vạch ra\n-vẽ ra
-
+describe	@describe /dis'kraib/
+*  ngoại động từ
+- tả, diễn tả, mô tả, miêu tả
+- vạch, vẽ
+=to describe a circle with a pair of compasses+ vạch một vòng tròn bằng com-pa
+- cho là, coi là; định rõ tính chất
+=he described hinself as a doctor+ nó tự xưng là bác sĩ
+@Chuyên ngành kỹ thuật
+-đi (theo)
+-miêu tả
+-mô tả
+@Lĩnh vực: điện lạnh
+-vạch ra
+-vẽ ra

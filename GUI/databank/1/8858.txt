@@ -1,3 +1,30 @@
-chatter
-	@chatter /'tʃætə/\n*  danh từ\n- tiếng hót líu lo, tiếng ríu rít (chim); tiếng róc rách (suối)\n- sự nói huyên thiên, sự nói luôn mồm (người)\n- tiếng lập cập (răng)\n- tiếng lạch cạch (của máy bị xọc xạch, bị jơ)\n*  nội động từ\n- hót líu lo, hót ríu rít (chim); róc rách (suối)\n- nói huyên thiên, nói luôn mồm\n- lập cập (răng đập vào nhau)\n- kêu lạch cạch (máy bị xọc xạch, bị jơ)\n!to chatter like a magpie\n- nói như khướu\n@Chuyên ngành kỹ thuật\n-chấn động\n-gõ\n-làm kêu lạch cạch\n-làm rung lạch cạch\n-rung\n-rung lạch cạch\n-sự rung\n-sự rung lắc\n-va đập\n@Lĩnh vực: cơ khí & công trình\n-kêu lạch cạch\n-tiếng rung lạch cạch\n@Lĩnh vực: điện lạnh\n-rung đóng mở\n@Lĩnh vực: ô tô\n-sự rung xe
-
+chatter	
+@chatter /'tʃætə/
+*  danh từ
+- tiếng hót líu lo, tiếng ríu rít (chim); tiếng róc rách (suối)
+- sự nói huyên thiên, sự nói luôn mồm (người)
+- tiếng lập cập (răng)
+- tiếng lạch cạch (của máy bị xọc xạch, bị jơ)
+*  nội động từ
+- hót líu lo, hót ríu rít (chim); róc rách (suối)
+- nói huyên thiên, nói luôn mồm
+- lập cập (răng đập vào nhau)
+- kêu lạch cạch (máy bị xọc xạch, bị jơ)!to chatter like a magpie
+- nói như khướu
+@Chuyên ngành kỹ thuật
+-chấn động
+-gõ
+-làm kêu lạch cạch
+-làm rung lạch cạch
+-rung
+-rung lạch cạch
+-sự rung
+-sự rung lắc
+-va đập
+@Lĩnh vực: cơ khí & công trình
+-kêu lạch cạch
+-tiếng rung lạch cạch
+@Lĩnh vực: điện lạnh
+-rung đóng mở
+@Lĩnh vực: ô tô
+-sự rung xe

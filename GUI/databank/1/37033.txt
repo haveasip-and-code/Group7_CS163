@@ -1,3 +1,4 @@
-normalized
-	@Chuyên ngành kỹ thuật\n-định mức\n@Lĩnh vực: điện lạnh\n-chuẩn hóa
-
+normalized	@Chuyên ngành kỹ thuật
+-định mức
+@Lĩnh vực: điện lạnh
+-chuẩn hóa

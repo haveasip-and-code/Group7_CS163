@@ -1,3 +1,2 @@
-viewdata
-	@Chuyên ngành kinh tế\n-hệ thống hiển thị dữ liệu
-
+viewdata	@Chuyên ngành kinh tế
+-hệ thống hiển thị dữ liệu

@@ -1,3 +1,6 @@
-naos
-	@Chuyên ngành kỹ thuật\n-phòng nhỏ\n-xà lim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đền Hy Lạp
-
+naos	@Chuyên ngành kỹ thuật
+-phòng nhỏ
+-xà lim
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đền Hy Lạp

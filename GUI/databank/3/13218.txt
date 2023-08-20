@@ -1,3 +1,14 @@
-customer
-	@customer /'kʌstəmə/\n*  danh từ\n- khách hàng\n- (thông tục) gã, anh chàng\n=queer customer+ một gã kỳ quặc\n@Chuyên ngành kinh tế\n-bạn hàng\n-bên mua\n-khách hàng\n@Chuyên ngành kỹ thuật\n-bên đặt hàng\n-khách hàng\n-người đặt hàng\n-người thuê bao
-
+customer	@customer /'kʌstəmə/
+*  danh từ
+- khách hàng
+- (thông tục) gã, anh chàng
+=queer customer+ một gã kỳ quặc
+@Chuyên ngành kinh tế
+-bạn hàng
+-bên mua
+-khách hàng
+@Chuyên ngành kỹ thuật
+-bên đặt hàng
+-khách hàng
+-người đặt hàng
+-người thuê bao

@@ -1,3 +1,20 @@
-inhibition
-	@inhibition /,inhi'biʃn/\n*  danh từ\n- sự ngăn chặn, sự hạn chế, sự kiềm chế\n- (hoá học) (tâm lý học); (sinh vật học) sự ức chế\n@Chuyên ngành kinh tế\n-sự kìm hãm\n-sự làm chận lại\n-sự ngăn chặn\n@Chuyên ngành kỹ thuật\n-sự cấm\n-sự kìm hãm\n-sự trễ\n-ức chế\n@Lĩnh vực: điện tử & viễn thông\n-sự cản (mạch cửa)\n@Lĩnh vực: toán & tin\n-sự ngăn cản\n@Lĩnh vực: điện lạnh\n-sự ức chế
-
+inhibition	
+@inhibition /,inhi'biʃn/
+*  danh từ
+- sự ngăn chặn, sự hạn chế, sự kiềm chế
+- (hoá học) (tâm lý học); (sinh vật học) sự ức chế
+@Chuyên ngành kinh tế
+-sự kìm hãm
+-sự làm chận lại
+-sự ngăn chặn
+@Chuyên ngành kỹ thuật
+-sự cấm
+-sự kìm hãm
+-sự trễ
+-ức chế
+@Lĩnh vực: điện tử & viễn thông
+-sự cản (mạch cửa)
+@Lĩnh vực: toán & tin
+-sự ngăn cản
+@Lĩnh vực: điện lạnh
+-sự ức chế

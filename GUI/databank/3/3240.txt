@@ -1,3 +1,5 @@
-areolar
-	@areolar\n- xem areola\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rỗ, lỗ chỗ, thuộc quần
-
+areolar	@areolar
+- xem areola
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-rỗ, lỗ chỗ, thuộc quần

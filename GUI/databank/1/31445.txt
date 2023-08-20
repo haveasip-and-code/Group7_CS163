@@ -1,3 +1,11 @@
-landlord
-	@landlord /'lændlɔ:d/\n*  danh từ\n- chủ nhà (nhà cho thuê)\n- chủ quán trọ, chủ khách sạn\n- địa ch\n@Chuyên ngành kinh tế\n-chủ đất\n-chủ khách sạn\n-chủ nhà\n-chủ nhà trọ\n-địa chỉ
-
+landlord	@landlord /'lændlɔ:d/
+*  danh từ
+- chủ nhà (nhà cho thuê)
+- chủ quán trọ, chủ khách sạn
+- địa ch
+@Chuyên ngành kinh tế
+-chủ đất
+-chủ khách sạn
+-chủ nhà
+-chủ nhà trọ
+-địa chỉ

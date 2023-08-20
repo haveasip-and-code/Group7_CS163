@@ -1,3 +1,43 @@
-toe
-	@toe /tou/\n*  danh từ\n- ngón chân\n=big toe+ ngón chân cái\n=little toe+ ngón chân út\n=from top to toe+ từ đầu đến chân\n- mũi (giày, dép, ủng)\n- chân (tường)\n- phía trước móng sắt ngựa; ổ đứng, ổ chặn\n!to tread on someone's toes\n- (xem) tread\n!to turn up one's toes\n- chết, bỏ đời\n*  ngoại động từ\n- đặt ngón chân vào\n- đóng mũi (giày); vá (mạng) đầu mũi (bít tất)\n- (thể dục,thể thao) sút (bóng)\n- (thông tục) đá đít\n=to toe someone+ đá đít ai\n!to toe in\n- đi chân chữ bát\n!to toe in\n- đi chân chữ bát\n!to toe out\n- đi chân vòng kiềng\n!to toe the line\n- đứng vào vạch đợi lệnh xuất phát (chạy đua)\n- tuân mệnh lệnh, phục tùng (đảng của mình)\n!to make someone toe the line\n- bắt ai đứng vào vạch trước khi xuất phát (chạy đua)\n- bắt ai phục tùng\n@Chuyên ngành kỹ thuật\n-chân\n-chân (tường, đập, đê)\n-ngón chân\n-rãnh\n-vệt rãnh từ\n@Lĩnh vực: cơ khí & công trình\n-chân răng (bánh răng)\n@Lĩnh vực: y học\n-ngón tay\n@Lĩnh vực: xây dựng\n-thành phần giống ngón chân
-
+toe	@toe /tou/
+*  danh từ
+- ngón chân
+=big toe+ ngón chân cái
+=little toe+ ngón chân út
+=from top to toe+ từ đầu đến chân
+- mũi (giày, dép, ủng)
+- chân (tường)
+- phía trước móng sắt ngựa; ổ đứng, ổ chặn
+!to tread on someone's toes
+- (xem) tread
+!to turn up one's toes
+- chết, bỏ đời
+*  ngoại động từ
+- đặt ngón chân vào
+- đóng mũi (giày); vá (mạng) đầu mũi (bít tất)
+- (thể dục,thể thao) sút (bóng)
+- (thông tục) đá đít
+=to toe someone+ đá đít ai
+!to toe in
+- đi chân chữ bát
+!to toe in
+- đi chân chữ bát
+!to toe out
+- đi chân vòng kiềng
+!to toe the line
+- đứng vào vạch đợi lệnh xuất phát (chạy đua)
+- tuân mệnh lệnh, phục tùng (đảng của mình)
+!to make someone toe the line
+- bắt ai đứng vào vạch trước khi xuất phát (chạy đua)
+- bắt ai phục tùng
+@Chuyên ngành kỹ thuật
+-chân
+-chân (tường, đập, đê)
+-ngón chân
+-rãnh
+-vệt rãnh từ
+@Lĩnh vực: cơ khí & công trình
+-chân răng (bánh răng)
+@Lĩnh vực: y học
+-ngón tay
+@Lĩnh vực: xây dựng
+-thành phần giống ngón chân

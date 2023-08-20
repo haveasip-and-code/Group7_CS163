@@ -1,3 +1,4 @@
-chloasma
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chứng xám da
-
+chloasma	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chứng xám da

@@ -1,3 +1,8 @@
-probing
-	@probing\n* tính từ\n- nhằm phát hiện sự thật; tìm kiếm\n@Chuyên ngành kỹ thuật\n-lấy mẫu thử\n-sự dò\n-sự khoan mẫu\n-sự thăm dò
-
+probing	@probing
+* tính từ
+- nhằm phát hiện sự thật; tìm kiếm
+@Chuyên ngành kỹ thuật
+-lấy mẫu thử
+-sự dò
+-sự khoan mẫu
+-sự thăm dò

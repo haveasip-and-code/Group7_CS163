@@ -1,3 +1,2 @@
-overborrowed
-	@Chuyên ngành kinh tế\n-vay quá mức
-
+overborrowed	@Chuyên ngành kinh tế
+-vay quá mức

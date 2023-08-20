@@ -1,3 +1,5 @@
-proofer
-	@proofer\n- xem proof\n@Chuyên ngành kinh tế\n-cái thử nghiệm\n-người thử nhiệm
-
+proofer	@proofer
+- xem proof
+@Chuyên ngành kinh tế
+-cái thử nghiệm
+-người thử nhiệm

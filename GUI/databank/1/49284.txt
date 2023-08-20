@@ -1,3 +1,10 @@
-scrip
-	@scrip /skrip/\n*  danh từ\n- (từ cổ,nghĩa cổ) cái túi (của người đi đường), cái bị (của ăn mày)\n- chứng khoán tạm thời\n@Chuyên ngành kinh tế\n-chứng chỉ chứng khoán\n-chứng khoán\n-chứng khoán tạm thời\n-chứng thư\n-giấy chứng nhận (cổ phiếu) tạm thời
-
+scrip	@scrip /skrip/
+*  danh từ
+- (từ cổ,nghĩa cổ) cái túi (của người đi đường), cái bị (của ăn mày)
+- chứng khoán tạm thời
+@Chuyên ngành kinh tế
+-chứng chỉ chứng khoán
+-chứng khoán
+-chứng khoán tạm thời
+-chứng thư
+-giấy chứng nhận (cổ phiếu) tạm thời

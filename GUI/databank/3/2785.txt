@@ -1,3 +1,2 @@
-aper
-	@aper\n- xem ape
-
+aper	@aper
+- xem ape

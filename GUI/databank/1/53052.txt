@@ -1,3 +1,9 @@
-stated
-	@stated /'steitid/\n*  tính từ\n- đã định\n- đã được phát biểu, đã được tuyên bố\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được biết\n-được phát biểu\n-được trình bày
-
+stated	@stated /'steitid/
+*  tính từ
+- đã định
+- đã được phát biểu, đã được tuyên bố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được biết
+-được phát biểu
+-được trình bày

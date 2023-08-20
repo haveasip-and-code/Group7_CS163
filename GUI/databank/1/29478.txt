@@ -1,3 +1,5 @@
-interrupted
-	@Chuyên ngành kỹ thuật\n-gián đoạn\n@Lĩnh vực: xây dựng\n-ngắt quãng
-
+interrupted	
+@Chuyên ngành kỹ thuật
+-gián đoạn
+@Lĩnh vực: xây dựng
+-ngắt quãng

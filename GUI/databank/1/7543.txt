@@ -1,3 +1,11 @@
-calibrated
-	@calibrated\n- (Tech) được lấy chuẩn\n@Chuyên ngành kỹ thuật\n-chia đã hiệu chuẩn\n-đã điều chỉnh\n-đã định cỡ\n-đã hiệu chỉnh\n@Lĩnh vực: cơ khí & công trình\n-đã hiệu chuẩn\n-được định cỡ
-
+calibrated	
+@calibrated
+- (Tech) được lấy chuẩn
+@Chuyên ngành kỹ thuật
+-chia đã hiệu chuẩn
+-đã điều chỉnh
+-đã định cỡ
+-đã hiệu chỉnh
+@Lĩnh vực: cơ khí & công trình
+-đã hiệu chuẩn
+-được định cỡ

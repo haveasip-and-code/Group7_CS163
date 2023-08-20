@@ -1,3 +1,52 @@
-bag
-	@bag /bæg/\n*  danh từ\n- bao, túi, bị, xắc\n- mẻ săn\n=to get a good bag+ săn được nhiều\n- (động vật học) túi, bọng, bọc\n=honey bag+ bọng ong\n- vú (bò)\n- chỗ húp lên (dưới mắt)\n- (số nhiều) của cải, tiền bạc\n- (số nhiều) (từ lóng) quần; chỗ phùng ra, chỗ lụng thụng (ở quần áo...)\n!bag of bones\n- người gầy giơ xương, người toàn xương\n!bag of wind\n- kẻ lắm điều, kẻ hay ba hoa, kẻ hay bép xép, kẻ hay nói huyên thuyên\n!to give somebody the bag to hold\n- chuồn, bỏ mặc ai trong lúc khó khăn\n!in the bag\n- (thông tục) nắm chắc trong tay, chắc chắn\n!in the bottom of one's bag\n- cùng kế\n!to let the cat out of the bag\n- (xem) let\n!to pack up bag and baggage\n- cuốn gói trốn đi\n!to put somebody in a bag\n- thắng ai\n!whole bag of tricks\n- đủ các mưu mẹo, thiên phương bách kế\n- tất cả không để lại cái gì\n*  ngoại động từ\n- bỏ vào túi, bỏ vào bao\n- (săn bắn) bỏ vào túi săn; bắn giết, săn được\n- thu nhặt\n- (thông tục) lấy, ăn cắp\n*  nội động từ\n- phồng lên, nở ra, phùng ra\n=these trousers bag at the knees+ cái quần này phùng ra ở đầu gối\n- (hàng hải) thõng xuống (buồm)\n- đi chệch hướng (thuyền)\n!I bag; bags I; bags!\n-(ngôn ngữ nhà trường), lóng đến lượt tớ, đến phiên tớ!\n*  ngoại động từ\n- gặt (lúa) bằng liềm\n@Chuyên ngành kinh tế\n-bao\n-cái bao\n-cái túi\n-cái xắc\n-túi\n-xắc\n@Chuyên ngành kỹ thuật\n-bao bì\n-bị\n-bọc\n-đóng bao\n-đóng túi\n-ruột tượng\n@Lĩnh vực: xây dựng\n-đổ vào bao\n-túi lọc
-
+bag	
+@bag /bæg/
+*  danh từ
+- bao, túi, bị, xắc
+- mẻ săn=to get a good bag
++ săn được nhiều
+- (động vật học) túi, bọng, bọc=honey bag
++ bọng ong
+- vú (bò)
+- chỗ húp lên (dưới mắt)
+- (số nhiều) của cải, tiền bạc
+- (số nhiều) (từ lóng) quần; chỗ phùng ra, chỗ lụng thụng (ở quần áo...)!bag of bones
+- người gầy giơ xương, người toàn xương!bag of wind
+- kẻ lắm điều, kẻ hay ba hoa, kẻ hay bép xép, kẻ hay nói huyên thuyên!to give somebody the bag to hold
+- chuồn, bỏ mặc ai trong lúc khó khăn!in the bag
+- (thông tục) nắm chắc trong tay, chắc chắn!in the bottom of one's bag
+- cùng kế!to let the cat out of the bag
+- (xem) let!to pack up bag and baggage
+- cuốn gói trốn đi!to put somebody in a bag
+- thắng ai!whole bag of tricks
+- đủ các mưu mẹo, thiên phương bách kế
+- tất cả không để lại cái gì
+*  ngoại động từ
+- bỏ vào túi, bỏ vào bao
+- (săn bắn) bỏ vào túi săn; bắn giết, săn được
+- thu nhặt
+- (thông tục) lấy, ăn cắp
+*  nội động từ
+- phồng lên, nở ra, phùng ra=these trousers bag at the knees
++ cái quần này phùng ra ở đầu gối
+- (hàng hải) thõng xuống (buồm)
+- đi chệch hướng (thuyền)!I bag; bags I; bags!
+-(ngôn ngữ nhà trường), lóng đến lượt tớ, đến phiên tớ!
+*  ngoại động từ
+- gặt (lúa) bằng liềm
+@Chuyên ngành kinh tế
+-bao
+-cái bao
+-cái túi
+-cái xắc
+-túi
+-xắc
+@Chuyên ngành kỹ thuật
+-bao bì
+-bị
+-bọc
+-đóng bao
+-đóng túi
+-ruột tượng
+@Lĩnh vực: xây dựng
+-đổ vào bao
+-túi lọc

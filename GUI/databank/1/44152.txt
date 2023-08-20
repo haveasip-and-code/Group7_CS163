@@ -1,3 +1,3 @@
-propyl
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-C3H7
-
+propyl	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-C3H7

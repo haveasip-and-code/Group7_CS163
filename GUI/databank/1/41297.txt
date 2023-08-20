@@ -1,3 +1,4 @@
-photomask
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mạng che quang\n-phim mạng che
-
+photomask	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-mạng che quang
+-phim mạng che

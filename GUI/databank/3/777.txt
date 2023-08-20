@@ -1,3 +1,2 @@
-adjuncts
-	@Chuyên ngành kỹ thuật\n-phụ tùng
-
+adjuncts	@Chuyên ngành kỹ thuật
+-phụ tùng

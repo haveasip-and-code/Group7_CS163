@@ -1,3 +1,47 @@
-dark
-	@dark /dɑ:k/\n*  tính từ\n- tối, tối tăm, tối mò; mù mịt, u ám\n=it is gretting dark+ trời bắt đầu tối\n=a dark moonless night+ một đêm tối trời không trăng sao\n=a dark sky+ bầu trời u ám\n- ngăm ngăm đen, đen huyền\n=a dark skin+ da ngăm đen\n=dark eyes+ mắt huyền\n- thẫm sẫm (màu)\n- mờ mịt, mơ hồ, không rõ ràng, không minh bạch\n=a dark future+ tương lai mờ mịt\n- tối tăm, dốt nát, ngu dốt\n=in the darkess ignorance+ trong sự ngu dốt tối tăm tột bậc\n- bí mật, kín đáo, không ai hay biết gì, không cho ai biết điều gì\n- buồn rầu, chán nản, bi quan\n=to look on the dark side of thing+ bi quan\n- đen tối, ám muội; ghê tởm, nham hiểm, cay độc\n=dark thoughts+ ý nghĩ đen tối\n=a dark crime+ tội ác ghê tởm\n=dark humour+ tính hóm hỉnh cay độc\n!the dark ages\n- thời kỳ Trung cổ; đêm trường Trung cổ\n!the Dark Continent\n- Châu phi\n!a dark horse\n- (xem) horse\n*  danh từ\n- bóng tối, chỗ tối; lúc đêm tối, lúc trời tối\n=at dark+ lúc đêm tối, lúc tối trời\n=before dark+ lúc tối trời, lúc màn đêm buông xuống\n- (nghệ thuật) chỗ tối; màu tối (trên một bức hoạ)\n=the lights and darks of a picture+ chỗ sáng và chỗ tối của một bức hoạ\n- sự tối tăm, sự ngu dốt; sự không biết gì\n=to be in the dark about someone's intentions+ không biết về ý định của ai\n=to keep somebody in the dark+ giữ bí mật đối với ai, không cho ai biết điều gì\n=to live in the dark+ sống trong cảnh tối tăm ngu dốt\n!in the dark of the moon\n- lúc trăng non\n!to leap in the dark\n- làm một việc mạo hiểm liều lĩnh, nhắm mắt nhảy liều\n@Chuyên ngành kinh tế\n-nghỉ\n@Chuyên ngành kỹ thuật\n-đậm\n-màu đen\n-sẫm màu
-
+dark	@dark /dɑ:k/
+*  tính từ
+- tối, tối tăm, tối mò; mù mịt, u ám
+=it is gretting dark+ trời bắt đầu tối
+=a dark moonless night+ một đêm tối trời không trăng sao
+=a dark sky+ bầu trời u ám
+- ngăm ngăm đen, đen huyền
+=a dark skin+ da ngăm đen
+=dark eyes+ mắt huyền
+- thẫm sẫm (màu)
+- mờ mịt, mơ hồ, không rõ ràng, không minh bạch
+=a dark future+ tương lai mờ mịt
+- tối tăm, dốt nát, ngu dốt
+=in the darkess ignorance+ trong sự ngu dốt tối tăm tột bậc
+- bí mật, kín đáo, không ai hay biết gì, không cho ai biết điều gì
+- buồn rầu, chán nản, bi quan
+=to look on the dark side of thing+ bi quan
+- đen tối, ám muội; ghê tởm, nham hiểm, cay độc
+=dark thoughts+ ý nghĩ đen tối
+=a dark crime+ tội ác ghê tởm
+=dark humour+ tính hóm hỉnh cay độc
+!the dark ages
+- thời kỳ Trung cổ; đêm trường Trung cổ
+!the Dark Continent
+- Châu phi
+!a dark horse
+- (xem) horse
+*  danh từ
+- bóng tối, chỗ tối; lúc đêm tối, lúc trời tối
+=at dark+ lúc đêm tối, lúc tối trời
+=before dark+ lúc tối trời, lúc màn đêm buông xuống
+- (nghệ thuật) chỗ tối; màu tối (trên một bức hoạ)
+=the lights and darks of a picture+ chỗ sáng và chỗ tối của một bức hoạ
+- sự tối tăm, sự ngu dốt; sự không biết gì
+=to be in the dark about someone's intentions+ không biết về ý định của ai
+=to keep somebody in the dark+ giữ bí mật đối với ai, không cho ai biết điều gì
+=to live in the dark+ sống trong cảnh tối tăm ngu dốt
+!in the dark of the moon
+- lúc trăng non
+!to leap in the dark
+- làm một việc mạo hiểm liều lĩnh, nhắm mắt nhảy liều
+@Chuyên ngành kinh tế
+-nghỉ
+@Chuyên ngành kỹ thuật
+-đậm
+-màu đen
+-sẫm màu

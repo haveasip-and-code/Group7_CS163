@@ -1,3 +1,31 @@
-redeem
-	@redeem /ri'di:m/\n*  ngoại động từ\n- mua lại, chuộc lại (vật cầm thế); trả hết (nợ)\n=to redeem one's watch [from pawnshop]+ chuộc đồng hồ (đã cầm)\n- chuộc lỗi\n- bù lại\n=to redeem the time+ bù lại thì giờ đã mất\n=his good points redeem his faults+ những điểm tốt của anh ta bù lại cho những điểm xấu\n- thực hiện, giữ trọn (lời hứa...)\n- cứu nguy, cứu thoát, cứu (loài người) khỏi vòng tội lỗi (Chúa...)\n@Chuyên ngành kinh tế\n-chuộc lại\n-chuộc lại (tài sản cầm cố, vật thế chấp bằng cách trả nợ)\n-chuộc ra\n-hoàn lại\n-hoàn lại, chuộc lại, thực hiện\n-hoàn trả, bồi hoàn (một trái khoán, một khoản tiền vay)\n-mua lại (vật dã bán)\n-thanh toán (một hối phiếu)\n-thu tiền, đổi lấy tiền mặt (các phiếu khoán)\n-thực hiện\n-thực hiện (lời hứa, khế ước)\n-trả\n-trả hết (một món nợ)\n-trái khoán có thể hoàn trả\n@Chuyên ngành kỹ thuật\n-bồi thường\n-chuộc lại\n@Lĩnh vực: toán & tin\n-chuộc\n-trả (nợ)
-
+redeem	@redeem /ri'di:m/
+*  ngoại động từ
+- mua lại, chuộc lại (vật cầm thế); trả hết (nợ)
+=to redeem one's watch [from pawnshop]+ chuộc đồng hồ (đã cầm)
+- chuộc lỗi
+- bù lại
+=to redeem the time+ bù lại thì giờ đã mất
+=his good points redeem his faults+ những điểm tốt của anh ta bù lại cho những điểm xấu
+- thực hiện, giữ trọn (lời hứa...)
+- cứu nguy, cứu thoát, cứu (loài người) khỏi vòng tội lỗi (Chúa...)
+@Chuyên ngành kinh tế
+-chuộc lại
+-chuộc lại (tài sản cầm cố, vật thế chấp bằng cách trả nợ)
+-chuộc ra
+-hoàn lại
+-hoàn lại, chuộc lại, thực hiện
+-hoàn trả, bồi hoàn (một trái khoán, một khoản tiền vay)
+-mua lại (vật dã bán)
+-thanh toán (một hối phiếu)
+-thu tiền, đổi lấy tiền mặt (các phiếu khoán)
+-thực hiện
+-thực hiện (lời hứa, khế ước)
+-trả
+-trả hết (một món nợ)
+-trái khoán có thể hoàn trả
+@Chuyên ngành kỹ thuật
+-bồi thường
+-chuộc lại
+@Lĩnh vực: toán & tin
+-chuộc
+-trả (nợ)

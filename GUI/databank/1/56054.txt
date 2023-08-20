@@ -1,3 +1,33 @@
-termination
-	@termination /,tə:mi'neiʃn/\n*  danh từ\n- sự làm xong, sự kết thúc, sự hoàn thành, sự chấm dứt\n=to put a termination to something+ làm xong việc gì\n- giới hạn; phần kết thúc, phần kết luận\n- (ngôn ngữ học) phần đuôi từ, từ vĩ\n@Chuyên ngành kinh tế\n-hủy bỏ\n-kết thúc\n-mãn hạn\n-sự chấm dứt\n-sự chấm dứt, mãn hạn\n@Chuyên ngành kỹ thuật\n-đầu cuối\n-điểm cuối\n-đường bao\n-đường biên\n-ga cuối\n-kết thúc\n-sự kết thúc\n-sự kết thúc (các quá trình)\n@Lĩnh vực: giao thông & vận tải\n-chấm dứt\n@Lĩnh vực: điện\n-chụp đầu cáp\n@Lĩnh vực: xây dựng\n-cuối đường dây\n@Lĩnh vực: điện lạnh\n-điểm kết thúc (ở ống dẫn sóng)\n-gánh cuối\n-tải kết thúc\n@Lĩnh vực: toán & tin\n-sự chấm dứt
-
+termination	@termination /,tə:mi'neiʃn/
+*  danh từ
+- sự làm xong, sự kết thúc, sự hoàn thành, sự chấm dứt
+=to put a termination to something+ làm xong việc gì
+- giới hạn; phần kết thúc, phần kết luận
+- (ngôn ngữ học) phần đuôi từ, từ vĩ
+@Chuyên ngành kinh tế
+-hủy bỏ
+-kết thúc
+-mãn hạn
+-sự chấm dứt
+-sự chấm dứt, mãn hạn
+@Chuyên ngành kỹ thuật
+-đầu cuối
+-điểm cuối
+-đường bao
+-đường biên
+-ga cuối
+-kết thúc
+-sự kết thúc
+-sự kết thúc (các quá trình)
+@Lĩnh vực: giao thông & vận tải
+-chấm dứt
+@Lĩnh vực: điện
+-chụp đầu cáp
+@Lĩnh vực: xây dựng
+-cuối đường dây
+@Lĩnh vực: điện lạnh
+-điểm kết thúc (ở ống dẫn sóng)
+-gánh cuối
+-tải kết thúc
+@Lĩnh vực: toán & tin
+-sự chấm dứt

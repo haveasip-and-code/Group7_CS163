@@ -1,3 +1,4 @@
-reassessment
-	@Chuyên ngành kinh tế\n-định giá lại\n-định mức lại\n-sự đánh giá lại
-
+reassessment	@Chuyên ngành kinh tế
+-định giá lại
+-định mức lại
+-sự đánh giá lại

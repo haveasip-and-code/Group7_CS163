@@ -1,3 +1,2 @@
-photonic
-	@photonic\n- xem photon
-
+photonic	@photonic
+- xem photon

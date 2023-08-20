@@ -1,3 +1,21 @@
-arc
-	@arc /ɑ:k/\n*  danh từ\n- hình cung\n- (toán học) cung\n- cầu võng\n- (điện học) cung lửa; hồ quang\n=voltaic arc; electric arc+ cung lửa điện\n@Chuyên ngành kỹ thuật\n-cung lửa\n-cuốn\n-hình cung\n-hồ quang\n-vòm\n@Lĩnh vực: điện\n-cung điện\n@Lĩnh vực: điện lạnh\n-cung lửa hồ quang\n@Lĩnh vực: ô tô\n-hồ điện quang\n@Lĩnh vực: xây dựng\n-vòm quấn
-
+arc	@arc /ɑ:k/
+*  danh từ
+- hình cung
+- (toán học) cung
+- cầu võng
+- (điện học) cung lửa; hồ quang
+=voltaic arc; electric arc+ cung lửa điện
+@Chuyên ngành kỹ thuật
+-cung lửa
+-cuốn
+-hình cung
+-hồ quang
+-vòm
+@Lĩnh vực: điện
+-cung điện
+@Lĩnh vực: điện lạnh
+-cung lửa hồ quang
+@Lĩnh vực: ô tô
+-hồ điện quang
+@Lĩnh vực: xây dựng
+-vòm quấn

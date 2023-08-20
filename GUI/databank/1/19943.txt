@@ -1,3 +1,9 @@
-exposed
-	@Chuyên ngành kỹ thuật\n-để lộ\n-được lộ sáng\n-lộ\n@Chuyên ngành kỹ thuật\n-để lộ\n-được lộ sáng\n-lộ
-
+exposed	
+@Chuyên ngành kỹ thuật
+-để lộ
+-được lộ sáng
+-lộ
+@Chuyên ngành kỹ thuật
+-để lộ
+-được lộ sáng
+-lộ

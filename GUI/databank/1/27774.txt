@@ -1,3 +1,7 @@
-inching
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đóng-ngắt nhanh lặp\n@Lĩnh vực: điện\n-lắc nhanh công tắc
-
+inching	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đóng
+-ngắt nhanh lặp
+@Lĩnh vực: điện
+-lắc nhanh công tắc

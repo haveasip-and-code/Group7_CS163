@@ -1,3 +1,11 @@
-plaintiff
-	@plaintiff /'pleintif/\n*  danh từ\n- (pháp lý) nguyên đơn, người đứng kiện\n@Chuyên ngành kinh tế\n-bên nguyên\n-người đòi bồi thường\n-người đứng kiện\n-người đứng ra kiện\n-người tố cáo\n-nguyên cáo\n-nguyên đơn
-
+plaintiff	@plaintiff /'pleintif/
+*  danh từ
+- (pháp lý) nguyên đơn, người đứng kiện
+@Chuyên ngành kinh tế
+-bên nguyên
+-người đòi bồi thường
+-người đứng kiện
+-người đứng ra kiện
+-người tố cáo
+-nguyên cáo
+-nguyên đơn

@@ -1,3 +1,5 @@
-undecidability
-	@undecidability\n- (logic học) tính không giải được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tính không giải được
-
+undecidability	@undecidability
+- (logic học) tính không giải được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính không giải được

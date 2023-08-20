@@ -1,3 +1,13 @@
-metrology
-	@metrology /'metrənoum/\n*  danh từ\n- khoa đo lường\n- hệ thống đo lường\n@Chuyên ngành kinh tế\n-hệ thống cân lường\n-kế lượng học\n@Chuyên ngành kỹ thuật\n-đo lường học\n@Lĩnh vực: đo lường & điều khiển\n-ngành đo lường\n@Lĩnh vực: y học\n-môn học đo lường, đo lường học
-
+metrology	@metrology /'metrənoum/
+*  danh từ
+- khoa đo lường
+- hệ thống đo lường
+@Chuyên ngành kinh tế
+-hệ thống cân lường
+-kế lượng học
+@Chuyên ngành kỹ thuật
+-đo lường học
+@Lĩnh vực: đo lường & điều khiển
+-ngành đo lường
+@Lĩnh vực: y học
+-môn học đo lường, đo lường học

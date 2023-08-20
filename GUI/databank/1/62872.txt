@@ -1,3 +1,15 @@
-whiten
-	@whiten /'waitn/\n*  ngoại động từ\n- làm trắng; làm bạc (tóc)\n- sn trắng, quét vôi trắng (lên tường...)\n- mạ thiếc (kim loại)\n*  nội động từ\n- hoá trắng, trắng ra\n- tái, tái nhợt đi, trắng bệch ra (mặt)\n@Chuyên ngành kỹ thuật\n-làm trắng\n-quét trắng\n-quét vôi trắng\n-tẩy trắng\n@Lĩnh vực: xây dựng\n-sơn trắng
-
+whiten	@whiten /'waitn/
+*  ngoại động từ
+- làm trắng; làm bạc (tóc)
+- sn trắng, quét vôi trắng (lên tường...)
+- mạ thiếc (kim loại)
+*  nội động từ
+- hoá trắng, trắng ra
+- tái, tái nhợt đi, trắng bệch ra (mặt)
+@Chuyên ngành kỹ thuật
+-làm trắng
+-quét trắng
+-quét vôi trắng
+-tẩy trắng
+@Lĩnh vực: xây dựng
+-sơn trắng

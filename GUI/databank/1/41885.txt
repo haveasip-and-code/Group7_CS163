@@ -1,3 +1,2 @@
-planktonic
-	@planktonic\n- xem plankton
-
+planktonic	@planktonic
+- xem plankton

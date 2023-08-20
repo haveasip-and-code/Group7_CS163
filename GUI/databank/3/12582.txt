@@ -1,3 +1,7 @@
-creed
-	@creed /kri:p/\n*  danh từ\n- tín điều\n- tín ngưỡng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tín điều
-
+creed	@creed /kri:p/
+*  danh từ
+- tín điều
+- tín ngưỡng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tín điều

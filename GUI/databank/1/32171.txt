@@ -1,3 +1,4 @@
-liftoff
-	@Chuyên ngành kỹ thuật\n-sự bay lên\n@Chuyên ngành kỹ thuật\n-sự bay lên
-
+liftoff	@Chuyên ngành kỹ thuật
+-sự bay lên
+@Chuyên ngành kỹ thuật
+-sự bay lên

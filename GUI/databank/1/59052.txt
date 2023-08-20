@@ -1,3 +1,2 @@
-uncoupler
-	@uncoupler\n- xem uncouple
-
+uncoupler	@uncoupler
+- xem uncouple

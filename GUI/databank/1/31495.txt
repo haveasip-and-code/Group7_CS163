@@ -1,3 +1,127 @@
-lap
-	@lap /læp/\n*  danh từ\n- vạt áo, vạt váy\n- lòng\n=the baby sat on his mother's lap+ đứa bé ngồi trong lòng mẹ\n- dái tai\n- thung (chỗ trũng giữa hai quả đồi)\n!to be in Fortune's lap\n- may mắn\n!in the lap of gods\n- có trời biết\n!in the lap of luxury\n- trong cảnh xa hoa\n*  danh từ\n- vật phủ (lên một vật khác)\n- vòng dây, vòng chỉ (quấn vào một cuộn)\n- (thể dục,thể thao) vòng chạy, vòng đua\n- (kỹ thuật) tấm nối (đường ray) ((cũng) half lap)\n*  ngoại động từ\n- phủ lên, chụp lên, bọc\n- quấn, cuộn; gói\n=to lap something round something+ quấn vật gì chung quanh vật khác\n- vượt hơn một vòng (trong cuộc chạy đua)\n*  nội động từ\n- phủ lên, chụp lên\n*  danh từ\n- (kỹ thuật) đá mài\n*  ngoại động từ\n- (kỹ thuật) mài bằng đá mài\n*  danh từ\n- cái liềm, cái tớp\n- thức ăn lỏng (cho chó...)\n- tiếng vỗ bập bềnh (sóng)\n*  động từ\n- liếm, tớp (bằng lưỡi)\n- nốc, uống ừng ực\n- vỗ bập bềnh (sóng)\n!to lap up everything one is told\n- ai nói gì cũng tin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-giao thức LAP\n@Chuyên ngành kỹ thuật\n-cái nắp\n-cái vung\n-cuộn băng\n-đá mài\n-đường xoi\n-khe mộng\n-khe nứt\n-lập lách\n-lợp\n-nếp gấp\n-nếp nhăn\n-nối\n-mài\n-mài nghiền\n-mài rà\n-mối nối bậc\n-mộng\n-mộng xoi\n-phần ghép chồng\n-phủ\n-phủ lên nhau\n-rà\n-rà bột\n-rãnh\n-sự chồng\n-sự trùng khớp\n-tấm\n-tấn\n-vật phủ\n-vòng (chạy)\n@Lĩnh vực: cơ khí & công trình\n-ghép chồng\n-mép dư\n-sự di trượt\n-sự phủ lên\n-vật phủ (lên)\n@Lĩnh vực: dệt may\n-lớp bông\n@Lĩnh vực: hóa học & vật liệu\n-tấm nối chồng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-giao thức LAP\n@Chuyên ngành kỹ thuật\n-cái nắp\n-cái vung\n-cuộn băng\n-đá mài\n-đường xoi\n-khe mộng\n-khe nứt\n-lập lách\n-lợp\n-nếp gấp\n-nếp nhăn\n-nối\n-mài\n-mài nghiền\n-mài rà\n-mối nối bậc\n-mộng\n-mộng xoi\n-phần ghép chồng\n-phủ\n-phủ lên nhau\n-rà\n-rà bột\n-rãnh\n-sự chồng\n-sự trùng khớp\n-tấm\n-tấn\n-vật phủ\n-vòng (chạy)\n@Lĩnh vực: cơ khí & công trình\n-ghép chồng\n-mép dư\n-sự di trượt\n-sự phủ lên\n-vật phủ (lên)\n@Lĩnh vực: dệt may\n-lớp bông\n@Lĩnh vực: hóa học & vật liệu\n-tấm nối chồng
-
+lap	@lap /læp/
+*  danh từ
+- vạt áo, vạt váy
+- lòng
+=the baby sat on his mother's lap+ đứa bé ngồi trong lòng mẹ
+- dái tai
+- thung (chỗ trũng giữa hai quả đồi)
+!to be in Fortune's lap
+- may mắn
+!in the lap of gods
+- có trời biết
+!in the lap of luxury
+- trong cảnh xa hoa
+*  danh từ
+- vật phủ (lên một vật khác)
+- vòng dây, vòng chỉ (quấn vào một cuộn)
+- (thể dục,thể thao) vòng chạy, vòng đua
+- (kỹ thuật) tấm nối (đường ray) ((cũng) half lap)
+*  ngoại động từ
+- phủ lên, chụp lên, bọc
+- quấn, cuộn; gói
+=to lap something round something+ quấn vật gì chung quanh vật khác
+- vượt hơn một vòng (trong cuộc chạy đua)
+*  nội động từ
+- phủ lên, chụp lên
+*  danh từ
+- (kỹ thuật) đá mài
+*  ngoại động từ
+- (kỹ thuật) mài bằng đá mài
+*  danh từ
+- cái liềm, cái tớp
+- thức ăn lỏng (cho chó...)
+- tiếng vỗ bập bềnh (sóng)
+*  động từ
+- liếm, tớp (bằng lưỡi)
+- nốc, uống ừng ực
+- vỗ bập bềnh (sóng)
+!to lap up everything one is told
+- ai nói gì cũng tin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-giao thức LAP
+@Chuyên ngành kỹ thuật
+-cái nắp
+-cái vung
+-cuộn băng
+-đá mài
+-đường xoi
+-khe mộng
+-khe nứt
+-lập lách
+-lợp
+-nếp gấp
+-nếp nhăn
+-nối
+-mài
+-mài nghiền
+-mài rà
+-mối nối bậc
+-mộng
+-mộng xoi
+-phần ghép chồng
+-phủ
+-phủ lên nhau
+-rà
+-rà bột
+-rãnh
+-sự chồng
+-sự trùng khớp
+-tấm
+-tấn
+-vật phủ
+-vòng (chạy)
+@Lĩnh vực: cơ khí & công trình
+-ghép chồng
+-mép dư
+-sự di trượt
+-sự phủ lên
+-vật phủ (lên)
+@Lĩnh vực: dệt may
+-lớp bông
+@Lĩnh vực: hóa học & vật liệu
+-tấm nối chồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-giao thức LAP
+@Chuyên ngành kỹ thuật
+-cái nắp
+-cái vung
+-cuộn băng
+-đá mài
+-đường xoi
+-khe mộng
+-khe nứt
+-lập lách
+-lợp
+-nếp gấp
+-nếp nhăn
+-nối
+-mài
+-mài nghiền
+-mài rà
+-mối nối bậc
+-mộng
+-mộng xoi
+-phần ghép chồng
+-phủ
+-phủ lên nhau
+-rà
+-rà bột
+-rãnh
+-sự chồng
+-sự trùng khớp
+-tấm
+-tấn
+-vật phủ
+-vòng (chạy)
+@Lĩnh vực: cơ khí & công trình
+-ghép chồng
+-mép dư
+-sự di trượt
+-sự phủ lên
+-vật phủ (lên)
+@Lĩnh vực: dệt may
+-lớp bông
+@Lĩnh vực: hóa học & vật liệu
+-tấm nối chồng

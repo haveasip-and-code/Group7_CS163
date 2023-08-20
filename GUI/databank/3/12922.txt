@@ -1,3 +1,8 @@
-crystallizable
-	@crystallizable\n- xem crystallize\n@Chuyên ngành kinh tế\n-có khả năng kết tinh\n-đã kết tinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-kết tinh được
-
+crystallizable	@crystallizable
+- xem crystallize
+@Chuyên ngành kinh tế
+-có khả năng kết tinh
+-đã kết tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-kết tinh được

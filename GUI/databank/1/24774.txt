@@ -1,3 +1,37 @@
-hair
-	@hair /heə/\n*  danh từ\n- tóc, lông (người, thú, cây...); bộ lông (thú)\n=to do one's hair+ vấn tóc, làm đầu\n=to have (get) one's hair cut+ vấn tóc lên, búi tóc lên\n=to part one's hair+ rẽ đường ngôi\n=to let down one's hair+ bỏ xoã tóc (đàn bà)\n- (thông tục) xuềnh xoàng, tự nhiên, không nghi thức gò bó\n!against the hair\n- ngược lông (vuốt)\n- (nghĩa bóng) trái với y muốn, trái ngược\n!both of a hair\n- cùng một giuộc\n!to bring somebody's gray hairs to the grave\n!to bring somebody's gray hairs with (in) sorrow to the grave\n- làm cho ai chết vì buồn\n!by a hair\n!within a hair of\n- suýt nữa, chỉ một ít nữa\n!to a hair\n- rất đúng, đúng hoàn toàn\n!to comb somebody's hair for him\n!to stroke somebody's hair\n- mắng mỏ ai, xỉ vả ai, sửa lưng ai\n!to get (take) somebody by the short hairs\n- (từ lóng) khống chế ai, bắt ai thế nào cũng chịu\n!to hang by a hair\n- treo trên sợi tóc\n!to keep one's hair on\n- (từ lóng) bình tĩnh\n!to lose one's hair\n- rụng tóc, rụng lông\n- (thông tục) nổi cáu, mất bình tĩnh\n!to make somebody's hair curl\n- làm cho ai sửng sốt, làm cho ai ngạc nhiên, làm cho ai kinh ngạc\n- làm cho ai khiếp sợ\n!not to turn a hair\n!without turning a hair\n- không tỏ ra vẻ mệt nhọc một chút nào\n- phớt tỉnh, không sợ hãi, không nao núng\n!one's hair stands on end\n- tóc dựng ngược lên (vì sợ hãi...)\n!to split hairs\n- (xem) split\n!to take a hair of the dog that bit you\n- (tục ngữ) lấy độc trị độc\n@Chuyên ngành kinh tế\n-lông\n-tóc\n@Chuyên ngành kỹ thuật\n-lông, tóc\n@Lĩnh vực: dệt may\n-lông\n@Lĩnh vực: điện lạnh\n-sợi tóc
-
+hair	
+@hair /heə/
+*  danh từ
+- tóc, lông (người, thú, cây...); bộ lông (thú)=to do one's hair
++ vấn tóc, làm đầu=to have (get) one's hair cut
++ vấn tóc lên, búi tóc lên=to part one's hair
++ rẽ đường ngôi=to let down one's hair
++ bỏ xoã tóc (đàn bà)
+- (thông tục) xuềnh xoàng, tự nhiên, không nghi thức gò bó!against the hair
+- ngược lông (vuốt)
+- (nghĩa bóng) trái với y muốn, trái ngược!both of a hair
+- cùng một giuộc!to bring somebody's gray hairs to the grave!to bring somebody's gray hairs with (in) sorrow to the grave
+- làm cho ai chết vì buồn!by a hair!within a hair of
+- suýt nữa, chỉ một ít nữa!to a hair
+- rất đúng, đúng hoàn toàn!to comb somebody's hair for him!to stroke somebody's hair
+- mắng mỏ ai, xỉ vả ai, sửa lưng ai!to get (take) somebody by the short hairs
+- (từ lóng) khống chế ai, bắt ai thế nào cũng chịu!to hang by a hair
+- treo trên sợi tóc!to keep one's hair on
+- (từ lóng) bình tĩnh!to lose one's hair
+- rụng tóc, rụng lông
+- (thông tục) nổi cáu, mất bình tĩnh!to make somebody's hair curl
+- làm cho ai sửng sốt, làm cho ai ngạc nhiên, làm cho ai kinh ngạc
+- làm cho ai khiếp sợ!not to turn a hair!without turning a hair
+- không tỏ ra vẻ mệt nhọc một chút nào
+- phớt tỉnh, không sợ hãi, không nao núng!one's hair stands on end
+- tóc dựng ngược lên (vì sợ hãi...)!to split hairs
+- (xem) split!to take a hair of the dog that bit you
+- (tục ngữ) lấy độc trị độc
+@Chuyên ngành kinh tế
+-lông
+-tóc
+@Chuyên ngành kỹ thuật
+-lông, tóc
+@Lĩnh vực: dệt may
+-lông
+@Lĩnh vực: điện lạnh
+-sợi tóc

@@ -1,3 +1,12 @@
-gulch
-	@gulch\n* danh từ\n- <Mỹ> khe sâu\n@Chuyên ngành kỹ thuật\n-chỗ lõm\n-khe hẻm\n-lạch nước\n@Lĩnh vực: cơ khí & công trình\n-dòng nước nhỏ\n@Lĩnh vực: xây dựng\n-đường trũng
-
+gulch	
+@gulch
+* danh từ
+- <Mỹ> khe sâu
+@Chuyên ngành kỹ thuật
+-chỗ lõm
+-khe hẻm
+-lạch nước
+@Lĩnh vực: cơ khí & công trình
+-dòng nước nhỏ
+@Lĩnh vực: xây dựng
+-đường trũng

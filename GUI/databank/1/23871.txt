@@ -1,3 +1,4 @@
-goods
-	@goods\n- hàng hoá\n- sportg., g. in stock hàng hiện có
-
+goods	
+@goods
+- hàng hoá
+- sportg., g. in stock hàng hiện có

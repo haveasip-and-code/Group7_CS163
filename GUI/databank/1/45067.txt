@@ -1,3 +1,2 @@
-quantities
-	@Chuyên ngành kỹ thuật\n-khối lượng
-
+quantities	@Chuyên ngành kỹ thuật
+-khối lượng

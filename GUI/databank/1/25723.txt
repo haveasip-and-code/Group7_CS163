@@ -1,3 +1,33 @@
-hide
-	@hide /haid/\n*  danh từ\n- da sống (chưa thuộc, mới chỉ cạo và rửa)\n-(đùa cợt) da người\n!neither hide not hair\n- không có bất cứ một dấu vết gì\n!to save one's own hide\n- để cứu lấy tính mạng mình; cầu an bảo mạng\n*  ngoại động từ\n- lột da\n- (thông tục) đánh đòn\n*  danh từ\n- (sử học) Haiddơ (đơn vị đo ruộng đất từ 60 đến 120 mẫu Anh tuỳ theo từng địa phương ở Anh)\n- nơi nấp để rình thú rừng\n*  nội động từ hidden,  hid\n- trốn, ẩn nấp, náu\n*  ngoại động từ\n- che giấu, che đậy, giấu giếm; giữ kín (một điều gì)\n- che khuất\n!to hide one's head\n- giấu mặt đi vì xấu hổ, xấu hổ vì không dám ló mặt ra\n!not to hide one's light (candle) under a bushel\n- (xem) bushel\n@Chuyên ngành kinh tế\n-bộ da\n-da sống\n-lột da\n-nguyên liệu giầy da\n@Chuyên ngành kỹ thuật\n-che khuất\n-dấu\n-trơn\n@Lĩnh vực: hóa học & vật liệu\n-da sống, da mới lột, da chưa thuộc\n@Lĩnh vực: xây dựng\n-làm khuất
-
+hide	
+@hide /haid/
+*  danh từ
+- da sống (chưa thuộc, mới chỉ cạo và rửa)
+-(đùa cợt) da người!neither hide not hair
+- không có bất cứ một dấu vết gì!to save one's own hide
+- để cứu lấy tính mạng mình; cầu an bảo mạng
+*  ngoại động từ
+- lột da
+- (thông tục) đánh đòn
+*  danh từ
+- (sử học) Haiddơ (đơn vị đo ruộng đất từ 60 đến 120 mẫu Anh tuỳ theo từng địa phương ở Anh)
+- nơi nấp để rình thú rừng
+*  nội động từ hidden,  hid
+- trốn, ẩn nấp, náu
+*  ngoại động từ
+- che giấu, che đậy, giấu giếm; giữ kín (một điều gì)
+- che khuất!to hide one's head
+- giấu mặt đi vì xấu hổ, xấu hổ vì không dám ló mặt ra!not to hide one's light (candle) under a bushel
+- (xem) bushel
+@Chuyên ngành kinh tế
+-bộ da
+-da sống
+-lột da
+-nguyên liệu giầy da
+@Chuyên ngành kỹ thuật
+-che khuất
+-dấu
+-trơn
+@Lĩnh vực: hóa học & vật liệu
+-da sống, da mới lột, da chưa thuộc
+@Lĩnh vực: xây dựng
+-làm khuất

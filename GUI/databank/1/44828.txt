@@ -1,3 +1,22 @@
-purse
-	@purse /pə:s/\n*  danh từ\n- ví tiền, hầu bao\n- (nghĩa bóng) tiền, vốn\n=to have a common purse+ có vốn chung\n=to have a long (heavy) purse+ giàu có, lắm tiền\n=to have a light purse+ nghèo, ít tiền\n=the public purse+ ngân quỹ nhà nước\n=privy purse+ quỹ đen, quỹ riêng (của nhà vua...); người giữ quỹ đen\n- tiền quyên làm giải thưởng, tiền đóng góp làm giải thưởng\n=to make up a purse+ quyên tiền làm giải thưởng\n=to give (put up) a purse+ cho tiền làm giải thưởng\n- (sinh vật học) túi, bìu, bọng\n- (từ Mỹ,nghĩa Mỹ) ví tay, túi cầm tay (đàn bà)\n*  ngoại động từ\n- mắm, mím (môi), nhíu, cau (mày)\n- (từ hiếm,nghĩa hiếm) bỏ vào túi, bỏ vào hầu bao\n@Chuyên ngành kinh tế\n-hầu bao\n-túi bắt cá\n-túi tiền,\n-ví tiền
-
+purse	@purse /pə:s/
+*  danh từ
+- ví tiền, hầu bao
+- (nghĩa bóng) tiền, vốn
+=to have a common purse+ có vốn chung
+=to have a long (heavy) purse+ giàu có, lắm tiền
+=to have a light purse+ nghèo, ít tiền
+=the public purse+ ngân quỹ nhà nước
+=privy purse+ quỹ đen, quỹ riêng (của nhà vua...); người giữ quỹ đen
+- tiền quyên làm giải thưởng, tiền đóng góp làm giải thưởng
+=to make up a purse+ quyên tiền làm giải thưởng
+=to give (put up) a purse+ cho tiền làm giải thưởng
+- (sinh vật học) túi, bìu, bọng
+- (từ Mỹ,nghĩa Mỹ) ví tay, túi cầm tay (đàn bà)
+*  ngoại động từ
+- mắm, mím (môi), nhíu, cau (mày)
+- (từ hiếm,nghĩa hiếm) bỏ vào túi, bỏ vào hầu bao
+@Chuyên ngành kinh tế
+-hầu bao
+-túi bắt cá
+-túi tiền,
+-ví tiền

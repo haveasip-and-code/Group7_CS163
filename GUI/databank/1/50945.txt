@@ -1,3 +1,26 @@
-skeleton
-	@skeleton /'skelitn/\n*  danh từ\n- bộ xương\n- bộ khung, bộ gọng\n- nhân, lõi, khung; nòng cốt\n- dàn bài, sườn (bài)\n- người gầy da bọc xương\n!skeleton at the feast\n- điều làm cho cụt hứng, điều làm mất vui\n!skeleton in the cupboard; family skeleton\n- việc xấu xa phải giấu giếm, việc ô nhục phải che đậy trong gia đình\n@Chuyên ngành kỹ thuật\n-bộ khung\n-bộ xương\n-cốt\n-giá\n-khung\n-khung cốt\n-khung, sườn ( nhà cửa)\n-phôi ống thải (cắt đứt)\n-sơ đồ\n@Lĩnh vực: toán & tin\n-bộ khung, bộ xương\n@Lĩnh vực: xây dựng\n-cốt sườn\n-sơ đồ (của giàn)
-
+skeleton	@skeleton /'skelitn/
+*  danh từ
+- bộ xương
+- bộ khung, bộ gọng
+- nhân, lõi, khung; nòng cốt
+- dàn bài, sườn (bài)
+- người gầy da bọc xương
+!skeleton at the feast
+- điều làm cho cụt hứng, điều làm mất vui
+!skeleton in the cupboard; family skeleton
+- việc xấu xa phải giấu giếm, việc ô nhục phải che đậy trong gia đình
+@Chuyên ngành kỹ thuật
+-bộ khung
+-bộ xương
+-cốt
+-giá
+-khung
+-khung cốt
+-khung, sườn ( nhà cửa)
+-phôi ống thải (cắt đứt)
+-sơ đồ
+@Lĩnh vực: toán & tin
+-bộ khung, bộ xương
+@Lĩnh vực: xây dựng
+-cốt sườn
+-sơ đồ (của giàn)

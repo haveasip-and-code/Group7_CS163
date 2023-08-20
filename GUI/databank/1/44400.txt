@@ -1,3 +1,5 @@
-prunello
-	@prunello /prunello/\n*  danh từ,  số nhiều prunellos\n- mận khô (loại ngon nhất)\n@Chuyên ngành kinh tế\n-mận khô (loại thượng hạng)
-
+prunello	@prunello /prunello/
+*  danh từ,  số nhiều prunellos
+- mận khô (loại ngon nhất)
+@Chuyên ngành kinh tế
+-mận khô (loại thượng hạng)

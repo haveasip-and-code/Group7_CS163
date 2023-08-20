@@ -1,3 +1,6 @@
-podiatry
-	@podiatry\n* danh từ\n- thuật chữa bệnh chân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-điều trị bệnh chân
-
+podiatry	@podiatry
+* danh từ
+- thuật chữa bệnh chân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-điều trị bệnh chân

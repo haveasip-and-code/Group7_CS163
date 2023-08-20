@@ -1,3 +1,20 @@
-progressive
-	@progressive /progressive/\n*  tính từ\n- tiến lên, tiến tới\n=progressive motion+ sự chuyển động tiến lên\n- tiến bộ\n=progressive movement+ phong trào tiến bộ\n=progressive policy+ chính sách tiến bộ\n- luỹ tiến; tăng dần lên; tăng không ngừng, phát triển không ngừng\n=progressive taxation+ sự đánh thuế luỹ tiến\n- (ngôn ngữ học) tiến hành\n=progressive form+ thể tiến hành\n*  danh từ\n- người tiến bộ\n- (Progressive) đảng viên đảng Cấp tiến\n@Chuyên ngành kinh tế\n-lũy tiến\n-ngày càng tăng\n-tăng dần\n@Chuyên ngành kỹ thuật\n-tiền
-
+progressive	@progressive /progressive/
+*  tính từ
+- tiến lên, tiến tới
+=progressive motion+ sự chuyển động tiến lên
+- tiến bộ
+=progressive movement+ phong trào tiến bộ
+=progressive policy+ chính sách tiến bộ
+- luỹ tiến; tăng dần lên; tăng không ngừng, phát triển không ngừng
+=progressive taxation+ sự đánh thuế luỹ tiến
+- (ngôn ngữ học) tiến hành
+=progressive form+ thể tiến hành
+*  danh từ
+- người tiến bộ
+- (Progressive) đảng viên đảng Cấp tiến
+@Chuyên ngành kinh tế
+-lũy tiến
+-ngày càng tăng
+-tăng dần
+@Chuyên ngành kỹ thuật
+-tiền

@@ -1,3 +1,7 @@
-headpiece
-	@headpiece /'hedpi:s/\n*  danh từ\n- mũ sắt\n- đầu óc, trí óc\n- người thông minh\n- hình trang trí ở đầu chương mục
-
+headpiece	
+@headpiece /'hedpi:s/
+*  danh từ
+- mũ sắt
+- đầu óc, trí óc
+- người thông minh
+- hình trang trí ở đầu chương mục

@@ -1,3 +1,8 @@
-preheat
-	@preheat /pri:'hi:t/\n*  ngoại động từ\n- nung sơ b\n@Chuyên ngành kỹ thuật\n-đun nóng sơ bộ\n-nung sơ bộ\n@Lĩnh vực: điện lạnh\n-làm nóng sơ bộ
-
+preheat	@preheat /pri:'hi:t/
+*  ngoại động từ
+- nung sơ b
+@Chuyên ngành kỹ thuật
+-đun nóng sơ bộ
+-nung sơ bộ
+@Lĩnh vực: điện lạnh
+-làm nóng sơ bộ

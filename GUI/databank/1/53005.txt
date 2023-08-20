@@ -1,3 +1,10 @@
-starboard
-	@starboard /'sta:bəd/\n*  danh từ\n- (hàng hải) mạn phải (của tàu, thuyền...)\n*  ngoại động từ\n- bát (trái với cạy)\n@Chuyên ngành kinh tế\n-mạn lái\n-mạn phải\n@Chuyên ngành kỹ thuật\n-mạn phải
-
+starboard	@starboard /'sta:bəd/
+*  danh từ
+- (hàng hải) mạn phải (của tàu, thuyền...)
+*  ngoại động từ
+- bát (trái với cạy)
+@Chuyên ngành kinh tế
+-mạn lái
+-mạn phải
+@Chuyên ngành kỹ thuật
+-mạn phải

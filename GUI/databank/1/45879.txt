@@ -1,3 +1,9 @@
-recalibration
-	@recalibration\n* danh từ\n- sự chia độ lại, sự hiệu chuẩn lại\n@Chuyên ngành kỹ thuật\n-sự chia độ lại\n-sự hiệu chuẩn lại\n@Lĩnh vực: điện tử & viễn thông\n-sự định cỡ lại\n-sự lấy mẫu lại
-
+recalibration	@recalibration
+* danh từ
+- sự chia độ lại, sự hiệu chuẩn lại
+@Chuyên ngành kỹ thuật
+-sự chia độ lại
+-sự hiệu chuẩn lại
+@Lĩnh vực: điện tử & viễn thông
+-sự định cỡ lại
+-sự lấy mẫu lại

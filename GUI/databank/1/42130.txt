@@ -1,3 +1,2 @@
-plower
-	@plower\n- xem plow
-
+plower	@plower
+- xem plow

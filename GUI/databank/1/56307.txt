@@ -1,3 +1,4 @@
-thermae
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cơ sở nước suối nóng\n-suối nước nóng
-
+thermae	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cơ sở nước suối nóng
+-suối nước nóng

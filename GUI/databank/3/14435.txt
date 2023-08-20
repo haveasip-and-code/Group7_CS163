@@ -1,3 +1,12 @@
-denaturation
-	@denaturation /di:,neitʃə'reiʃn/\n*  danh từ\n- sự làm biến tính, sự làm biến chất\n@Chuyên ngành kinh tế\n-sự làm biến chất\n-sự làm biến tính\n@Chuyên ngành kỹ thuật\n-biến chất\n@Lĩnh vực: hóa học & vật liệu\n-biến tinh\n@Lĩnh vực: y học\n-sự đổi tính, sự biến chất
-
+denaturation	@denaturation /di:,neitʃə'reiʃn/
+*  danh từ
+- sự làm biến tính, sự làm biến chất
+@Chuyên ngành kinh tế
+-sự làm biến chất
+-sự làm biến tính
+@Chuyên ngành kỹ thuật
+-biến chất
+@Lĩnh vực: hóa học & vật liệu
+-biến tinh
+@Lĩnh vực: y học
+-sự đổi tính, sự biến chất

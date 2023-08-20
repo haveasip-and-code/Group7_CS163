@@ -1,3 +1,5 @@
-predigestion
-	@predigestion\n- xem predigest\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tiền tiêu hóa
-
+predigestion	@predigestion
+- xem predigest
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tiền tiêu hóa

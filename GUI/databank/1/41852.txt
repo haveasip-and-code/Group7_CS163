@@ -1,3 +1,13 @@
-plait
-	@plait /plæt/\n*  danh từ\n- đường xếp nếp gấp (ở quần áo) ((cũng) pleat)\n- bím tóc, đuôi sam; dây tết, dây bện; con cúi (bằng rơm...) ((cũng) plat)\n*  ngoại động từ\n- xếp nếp (quần áo) ((cũng) pleat)\n- tết, bện ((cũng) plat)\n@Chuyên ngành kinh tế\n-xoắn (bánh mì)\n@Chuyên ngành kỹ thuật\n-đan\n-dây bện\n-miếng đệm
-
+plait	@plait /plæt/
+*  danh từ
+- đường xếp nếp gấp (ở quần áo) ((cũng) pleat)
+- bím tóc, đuôi sam; dây tết, dây bện; con cúi (bằng rơm...) ((cũng) plat)
+*  ngoại động từ
+- xếp nếp (quần áo) ((cũng) pleat)
+- tết, bện ((cũng) plat)
+@Chuyên ngành kinh tế
+-xoắn (bánh mì)
+@Chuyên ngành kỹ thuật
+-đan
+-dây bện
+-miếng đệm

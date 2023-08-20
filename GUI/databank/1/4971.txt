@@ -1,3 +1,6 @@
-beaming
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-sự mắc sợi dọc\n@Lĩnh vực: toán & tin\n-sự phát chùm tia
-
+beaming	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+-sự mắc sợi dọc
+@Lĩnh vực: toán & tin
+-sự phát chùm tia

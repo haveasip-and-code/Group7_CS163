@@ -1,3 +1,13 @@
-edit
-	@edit /'edit/\n*  ngoại động từ\n- thu nhập và diễn giải\n- chọn lọc, cắt xén, thêm bớt (tin của phóng viên báo gửi về)\n*  nội động từ\n- làm chủ bút (ở một tờ báo...)\n@Chuyên ngành kỹ thuật\n-chỉnh lý\n-hiệu chỉnh\n-soạn thảo\n@Lĩnh vực: toán & tin\n-biên tập
-
+edit	
+@edit /'edit/
+*  ngoại động từ
+- thu nhập và diễn giải
+- chọn lọc, cắt xén, thêm bớt (tin của phóng viên báo gửi về)
+*  nội động từ
+- làm chủ bút (ở một tờ báo...)
+@Chuyên ngành kỹ thuật
+-chỉnh lý
+-hiệu chỉnh
+-soạn thảo
+@Lĩnh vực: toán & tin
+-biên tập

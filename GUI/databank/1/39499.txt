@@ -1,3 +1,2 @@
-paperer
-	@paperer\n- xem paper
-
+paperer	@paperer
+- xem paper

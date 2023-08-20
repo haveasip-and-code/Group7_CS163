@@ -1,3 +1,22 @@
-abrupt
-	@abrupt /ə'brʌpt/\n*  tính từ\n- bất ngờ, đột ngột; vội vã\n=an abrupt turn+ chỗ ngoặc bất ngờ\n=an abrupt departure+ sự ra đi vội vã (đột ngột)\n- cộc lốc, lấc cấc, thô lỗ\n=an abrupt answers+ câu trả lời cộc lốc\n=abrupt manners+ cách cư xử lấc cấc\n- dốc đứng, hiểm trở, gian nan\n=abrupt coast+ bờ biển dốc đứng\n=the road to science is very abrupt+ con đường đi tới khoa học rất gian nan\n- trúc trắc, rời rạc (văn)\n- bị đốn, bị chặt cụt; như thể bị đốn, bị chặt cụt (cây...)\n@Chuyên ngành kỹ thuật\n-dốc đứng\n-đột ngột\n-gián đoạn\n@Lĩnh vực: xây dựng\n-đột ngột (chỗ ngoặt)\n-đứng (dốc)\n@Lĩnh vực: cơ khí & công trình\n-hiểm trở
-
+abrupt	@abrupt /ə'brʌpt/
+*  tính từ
+- bất ngờ, đột ngột; vội vã
+=an abrupt turn+ chỗ ngoặc bất ngờ
+=an abrupt departure+ sự ra đi vội vã (đột ngột)
+- cộc lốc, lấc cấc, thô lỗ
+=an abrupt answers+ câu trả lời cộc lốc
+=abrupt manners+ cách cư xử lấc cấc
+- dốc đứng, hiểm trở, gian nan
+=abrupt coast+ bờ biển dốc đứng
+=the road to science is very abrupt+ con đường đi tới khoa học rất gian nan
+- trúc trắc, rời rạc (văn)
+- bị đốn, bị chặt cụt; như thể bị đốn, bị chặt cụt (cây...)
+@Chuyên ngành kỹ thuật
+-dốc đứng
+-đột ngột
+-gián đoạn
+@Lĩnh vực: xây dựng
+-đột ngột (chỗ ngoặt)
+-đứng (dốc)
+@Lĩnh vực: cơ khí & công trình
+-hiểm trở

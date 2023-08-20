@@ -1,3 +1,2 @@
-variegator
-	@variegator\n- xem variegate
-
+variegator	@variegator
+- xem variegate

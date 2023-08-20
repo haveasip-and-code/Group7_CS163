@@ -1,3 +1,15 @@
-printing
-	@printing /'printiɳ/\n*  danh từ\n- sự in\n- nghề ấn loát\n@Chuyên ngành kỹ thuật\n-in\n-nghề in\n-quá trình in\n-sự in\n-sự in ảnh\n@Lĩnh vực: điện\n-ấn phẩm\n-việc in\n@Lĩnh vực: điện tử & viễn thông\n-kỹ thuật in
-
+printing	@printing /'printiɳ/
+*  danh từ
+- sự in
+- nghề ấn loát
+@Chuyên ngành kỹ thuật
+-in
+-nghề in
+-quá trình in
+-sự in
+-sự in ảnh
+@Lĩnh vực: điện
+-ấn phẩm
+-việc in
+@Lĩnh vực: điện tử & viễn thông
+-kỹ thuật in

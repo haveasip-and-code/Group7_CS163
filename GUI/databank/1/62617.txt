@@ -1,3 +1,48 @@
-web
-	@web /web/\n*  danh từ\n- vi dệt; tấm vi\n- súc giấy, cuộn giấy lớn\n=web paper+ giấy súc (chưa cắt ra từng tờ)\n- (động vật học) mạng\n=spider's web+ mạng nhện\n- (động vật học) t (lông chim)\n- (động vật học) màng da (ở chân vịt...)\n- (kiến trúc) thân (thanh rầm)\n- (kỹ thuật) đĩa (bánh xe), mỏ (chìa khoá); lưỡi (cưa); thân (của thanh ray)\n!a web of lies\n- một mớ chuyện dối trá\n!the web of life\n- cuộc đời; số phận con người\n@Chuyên ngành kỹ thuật\n-băng giấy\n-bụng giàn\n-đê quai\n-đường gân\n-đường gờ\n-đường trượt\n-gân tăng cường (của các xà cánh máy bay)\n-hàng dệt\n-liên kết chốt ren\n-liếp ngăn\n-lõi (mũi khoan ruột gà)\n-lõi ngăn gạch rỗng\n-lưới\n-má trục khuỷu\n-mạng\n-mạng lưới\n-mặt bên\n-quần áo\n-sản phẩm dệt (dạng cuộn)\n-sườn\n-sườn bên\n-tấm chắn\n-vải\n-vải dệt\n@Lĩnh vực: xây dựng\n-bụng dầm\n-cổ ray\n-tấm chắn bụng dầm\n-tấm chắn thành dầm\n-vách thành\n@Lĩnh vực: toán & tin\n-thân dầm
-
+web	@web /web/
+*  danh từ
+- vi dệt; tấm vi
+- súc giấy, cuộn giấy lớn
+=web paper+ giấy súc (chưa cắt ra từng tờ)
+- (động vật học) mạng
+=spider's web+ mạng nhện
+- (động vật học) t (lông chim)
+- (động vật học) màng da (ở chân vịt...)
+- (kiến trúc) thân (thanh rầm)
+- (kỹ thuật) đĩa (bánh xe), mỏ (chìa khoá); lưỡi (cưa); thân (của thanh ray)
+!a web of lies
+- một mớ chuyện dối trá
+!the web of life
+- cuộc đời; số phận con người
+@Chuyên ngành kỹ thuật
+-băng giấy
+-bụng giàn
+-đê quai
+-đường gân
+-đường gờ
+-đường trượt
+-gân tăng cường (của các xà cánh máy bay)
+-hàng dệt
+-liên kết chốt ren
+-liếp ngăn
+-lõi (mũi khoan ruột gà)
+-lõi ngăn gạch rỗng
+-lưới
+-má trục khuỷu
+-mạng
+-mạng lưới
+-mặt bên
+-quần áo
+-sản phẩm dệt (dạng cuộn)
+-sườn
+-sườn bên
+-tấm chắn
+-vải
+-vải dệt
+@Lĩnh vực: xây dựng
+-bụng dầm
+-cổ ray
+-tấm chắn bụng dầm
+-tấm chắn thành dầm
+-vách thành
+@Lĩnh vực: toán & tin
+-thân dầm

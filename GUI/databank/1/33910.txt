@@ -1,3 +1,7 @@
-materiel
-	@materiel\n* danh từ\n- trang thiết bị\n@Chuyên ngành kinh tế\n-phương tiện vật chất\n@Chuyên ngành kỹ thuật\n-thiết bị
-
+materiel	@materiel
+* danh từ
+- trang thiết bị
+@Chuyên ngành kinh tế
+-phương tiện vật chất
+@Chuyên ngành kỹ thuật
+-thiết bị

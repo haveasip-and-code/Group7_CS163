@@ -1,3 +1,2 @@
-preclearance
-	@Chuyên ngành kinh tế\n-sự thông quan trước
-
+preclearance	@Chuyên ngành kinh tế
+-sự thông quan trước

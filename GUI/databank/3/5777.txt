@@ -1,3 +1,2 @@
-blacklister
-	@blacklister\n- xem blacklist
-
+blacklister	@blacklister
+- xem blacklist

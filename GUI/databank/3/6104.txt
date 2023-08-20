@@ -1,3 +1,4 @@
-boards
-	@Chuyên ngành kinh tế\n-gỗ xẻ dầy 50mm hoặc mỏng hơn\n@Chuyên ngành kỹ thuật\n-giàn giáo
-
+boards	@Chuyên ngành kinh tế
+-gỗ xẻ dầy 50mm hoặc mỏng hơn
+@Chuyên ngành kỹ thuật
+-giàn giáo

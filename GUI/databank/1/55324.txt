@@ -1,3 +1,2 @@
-sysop
-	@sysop\n- Từ tắt của SYStem OPerator
-
+sysop	@sysop
+- Từ tắt của SYStem OPerator

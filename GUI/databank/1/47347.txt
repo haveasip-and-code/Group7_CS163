@@ -1,3 +1,15 @@
-retract
-	@retract /ri'trækt/\n*  ngoại động từ\n- rụt vào, thụt vào, co vào\n=the tortoise retracted its head+ con rùa rụt đầu vào\n- rút lại (lời hứa); rút lui (ý kiến); huỷ bỏ (lời tuyên bố); chối, không nhận, nuốt (lời)\n=to retract one's opinion+ rút lui ý kiến\n=to retract a statement+ huỷ bỏ lời tuyên bố\n*  nội động từ\n- rụt vào, thụt vào, co vào (cổ...)\n- rút lui ý kiến; nuốt lời; (pháp lý) phản cung\n@Chuyên ngành kỹ thuật\n-co lại\n-co rút, co\n-rút lại\n-xếp lại
-
+retract	@retract /ri'trækt/
+*  ngoại động từ
+- rụt vào, thụt vào, co vào
+=the tortoise retracted its head+ con rùa rụt đầu vào
+- rút lại (lời hứa); rút lui (ý kiến); huỷ bỏ (lời tuyên bố); chối, không nhận, nuốt (lời)
+=to retract one's opinion+ rút lui ý kiến
+=to retract a statement+ huỷ bỏ lời tuyên bố
+*  nội động từ
+- rụt vào, thụt vào, co vào (cổ...)
+- rút lui ý kiến; nuốt lời; (pháp lý) phản cung
+@Chuyên ngành kỹ thuật
+-co lại
+-co rút, co
+-rút lại
+-xếp lại

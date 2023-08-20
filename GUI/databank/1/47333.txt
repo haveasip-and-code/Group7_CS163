@@ -1,3 +1,32 @@
-retire
-	@retire /ri'taiə/\n*  nội động từ\n- rời bỏ, đi ra, rút về, lui về (một nơi nào kín đáo...)\n=to retire from the room+ ra khỏi căn phòng\n=to retire from the world+ rời bỏ thế tục, sống ẩn dật; đi tu\n=to retire for the night; to retire to bed+ đi ngủ\n=to retire into oneself+ thu vào cái vỏ của mình mà sống\n- đi ngủ ((cũng) to retire to bed)\n- thôi việc; về hưu\n=to retire from business+ thôi không kinh doanh nữa\n=to retire on a pension+ về hưu\n=retiring pension+ lương hưu trí\n=retiting age+ tuổi về hưu\n- (quân sự) rút lui\n- thể bỏ cuộc\n=to retire from the race+ bỏ cuộc đua\n*  ngoại động từ\n- cho về hưu (công chức)\n- (quân sự) cho rút lui\n- (tài chính) rút về, không cho lưu hành (một loại tiền...)\n*  danh từ\n- (quân sự) hiệu lệnh rút lui\n=to sound the retire+ thổi kèn ra lệnh rút lui\n@Chuyên ngành kinh tế\n-cho nghỉ hưu\n-cho thôi việc\n-cho về hưu\n-không cho lưu hành\n-không cho lưu hành (một loại tiền...)\n-mãn nhiệm\n-rút về\n-về hưu
-
+retire	@retire /ri'taiə/
+*  nội động từ
+- rời bỏ, đi ra, rút về, lui về (một nơi nào kín đáo...)
+=to retire from the room+ ra khỏi căn phòng
+=to retire from the world+ rời bỏ thế tục, sống ẩn dật; đi tu
+=to retire for the night; to retire to bed+ đi ngủ
+=to retire into oneself+ thu vào cái vỏ của mình mà sống
+- đi ngủ ((cũng) to retire to bed)
+- thôi việc; về hưu
+=to retire from business+ thôi không kinh doanh nữa
+=to retire on a pension+ về hưu
+=retiring pension+ lương hưu trí
+=retiting age+ tuổi về hưu
+- (quân sự) rút lui
+- thể bỏ cuộc
+=to retire from the race+ bỏ cuộc đua
+*  ngoại động từ
+- cho về hưu (công chức)
+- (quân sự) cho rút lui
+- (tài chính) rút về, không cho lưu hành (một loại tiền...)
+*  danh từ
+- (quân sự) hiệu lệnh rút lui
+=to sound the retire+ thổi kèn ra lệnh rút lui
+@Chuyên ngành kinh tế
+-cho nghỉ hưu
+-cho thôi việc
+-cho về hưu
+-không cho lưu hành
+-không cho lưu hành (một loại tiền...)
+-mãn nhiệm
+-rút về
+-về hưu

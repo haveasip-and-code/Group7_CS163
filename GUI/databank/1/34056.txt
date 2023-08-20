@@ -1,3 +1,70 @@
-measure
-	@measure /'meʤə/\n*  danh từ\n- sự đo, sự đo lường; đơn vị đo lường, cái để đo\n=to take somebody's measure+ đo người cho ai (để may quần áo); (nghĩa bóng) đánh giá tính tình ai, đánh giá bằng khả năng... của ai\n=a metre is a measure of length+ mét là một đơn vị đo chiều dài\n- (nghĩa bóng) hạn độ, phạm vi, giới hạn, chừng mức\n=without measure+ không có giới hạn nào, không có chừng mức nào)\n=to set measures to+ đặt giới hạn cho, hạn chế\n=im some measure+ trong một phạm vi nào, trong một chừng mức nào\n=in a great (large) measure+ trong một phạm vi nào, trong một chừng mức nào\n=in a great (large) measure+ trong một phạm vi rộng lớn\n- tiêu chuẩn để đánh giá; cái để đánh giá, cái để xét; thước đo\n=a chain's weakest link is the measure of its strength+ mắt xích yếu nhất là cái để đánh giá sức chịu đựng của cái xích\n- phương sách, biện pháp, cách xử trí\n=to take measure+ tìm cách xử trí\n=to take strong measure against+ dùng những biện pháp kiên quyết để chống lại\n- (toán học) ước số\n=greatest commom measure+ ước số chung lớn nhất\n- (âm nhạc); (thơ ca) nhịp, nhịp điệu\n- (địa lý,ddịa chất) lớp tâng\n- (từ cổ,nghĩa cổ) điệu nhảy\n!measure for measure\n- ăn miếng trả miếng\n*  động từ\n- đo, đo lường\n=to measure a piece of cloth+ đo một mảnh vải\n=to measure someone for new clothes+ đo kích thước của người nào để may quần áo mới\n- đo được\n=the floor measures 6 m by 4+ sàn nhà đo được 6 m chiều dài 4 m chiều rộng\n- so với, đọ với; (nghĩa bóng) đọ sức với\n=to measure one's strength with someone+ đọ sức với ai\n- liệu chừng, liệu\n- ((thường) + off,  out) phân phối, phân ra, chia ra\n=to measure out a quantity of medicine+ phân phối một số lượng thuốc\n- (thơ ca) vượt, đi qua\n=to measure a distance+ vượt được một quâng đường\n!to measure one's length\n- ngã sóng soài\n!to measure someone with one's eye\n- nhìn ai từ đầu đến chân\n@Chuyên ngành kinh tế\n-biện pháp\n-biện pháp, cách thức\n-cách thức\n-định lượng\n-đơn vị đo lường\n-hạn độ\n-kích thước\n-sự đo\n-sự đo lường\n-thước đo\n@Chuyên ngành kỹ thuật\n-biện pháp\n-bước\n-đo\n-độ\n-đo đạc\n-độ đo\n-đo lường\n-đơn vị đo\n-dụng cụ đo\n-hệ đo\n-khổ dòng (in)\n-kích thước\n-máy đo\n-số đo\n-sự đo\n-sự đo lường\n-tầng\n-thước đo
-
+measure	@measure /'meʤə/
+*  danh từ
+- sự đo, sự đo lường; đơn vị đo lường, cái để đo
+=to take somebody's measure+ đo người cho ai (để may quần áo); (nghĩa bóng) đánh giá tính tình ai, đánh giá bằng khả năng... của ai
+=a metre is a measure of length+ mét là một đơn vị đo chiều dài
+- (nghĩa bóng) hạn độ, phạm vi, giới hạn, chừng mức
+=without measure+ không có giới hạn nào, không có chừng mức nào)
+=to set measures to+ đặt giới hạn cho, hạn chế
+=im some measure+ trong một phạm vi nào, trong một chừng mức nào
+=in a great (large) measure+ trong một phạm vi nào, trong một chừng mức nào
+=in a great (large) measure+ trong một phạm vi rộng lớn
+- tiêu chuẩn để đánh giá; cái để đánh giá, cái để xét; thước đo
+=a chain's weakest link is the measure of its strength+ mắt xích yếu nhất là cái để đánh giá sức chịu đựng của cái xích
+- phương sách, biện pháp, cách xử trí
+=to take measure+ tìm cách xử trí
+=to take strong measure against+ dùng những biện pháp kiên quyết để chống lại
+- (toán học) ước số
+=greatest commom measure+ ước số chung lớn nhất
+- (âm nhạc); (thơ ca) nhịp, nhịp điệu
+- (địa lý,ddịa chất) lớp tâng
+- (từ cổ,nghĩa cổ) điệu nhảy
+!measure for measure
+- ăn miếng trả miếng
+*  động từ
+- đo, đo lường
+=to measure a piece of cloth+ đo một mảnh vải
+=to measure someone for new clothes+ đo kích thước của người nào để may quần áo mới
+- đo được
+=the floor measures 6 m by 4+ sàn nhà đo được 6 m chiều dài 4 m chiều rộng
+- so với, đọ với; (nghĩa bóng) đọ sức với
+=to measure one's strength with someone+ đọ sức với ai
+- liệu chừng, liệu
+- ((thường) + off,  out) phân phối, phân ra, chia ra
+=to measure out a quantity of medicine+ phân phối một số lượng thuốc
+- (thơ ca) vượt, đi qua
+=to measure a distance+ vượt được một quâng đường
+!to measure one's length
+- ngã sóng soài
+!to measure someone with one's eye
+- nhìn ai từ đầu đến chân
+@Chuyên ngành kinh tế
+-biện pháp
+-biện pháp, cách thức
+-cách thức
+-định lượng
+-đơn vị đo lường
+-hạn độ
+-kích thước
+-sự đo
+-sự đo lường
+-thước đo
+@Chuyên ngành kỹ thuật
+-biện pháp
+-bước
+-đo
+-độ
+-đo đạc
+-độ đo
+-đo lường
+-đơn vị đo
+-dụng cụ đo
+-hệ đo
+-khổ dòng (in)
+-kích thước
+-máy đo
+-số đo
+-sự đo
+-sự đo lường
+-tầng
+-thước đo

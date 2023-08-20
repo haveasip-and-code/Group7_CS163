@@ -1,3 +1,6 @@
-vis
-	@vis\n* (viết tắt) (Vis)\n- tử tước (Viscount)\n- nữ tử tước (Viscountess)\n@Chuyên ngành kỹ thuật\n-lực, sức lực
-
+vis	@vis
+* (viết tắt) (Vis)
+- tử tước (Viscount)
+- nữ tử tước (Viscountess)
+@Chuyên ngành kỹ thuật
+-lực, sức lực

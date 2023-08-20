@@ -1,3 +1,13 @@
-mason
-	@mason /'meisn/\n*  danh từ\n- thợ nề\n- (Mason) hội viên hội Tam điểm\n@Chuyên ngành kỹ thuật\n-thợ xây\n-xây\n-xây tường\n-xây vòm\n@Lĩnh vực: xây dựng\n-chèn lắp\n-xây gạch\n-xếp gạch
-
+mason	@mason /'meisn/
+*  danh từ
+- thợ nề
+- (Mason) hội viên hội Tam điểm
+@Chuyên ngành kỹ thuật
+-thợ xây
+-xây
+-xây tường
+-xây vòm
+@Lĩnh vực: xây dựng
+-chèn lắp
+-xây gạch
+-xếp gạch

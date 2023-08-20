@@ -1,3 +1,16 @@
-exude
-	@exude /ig'zju:d/\n*  động từ\n- rỉ, ứa\n@Chuyên ngành kinh tế\n-sự rỉ ra\n-sự tách ra\n-sự tiết ra\n@Chuyên ngành kỹ thuật\n-rỉ\n-rò thấm\n-tách lỏng\n@Chuyên ngành kỹ thuật\n-rỉ\n-rò thấm\n-tách lỏng
-
+exude	
+@exude /ig'zju:d/
+*  động từ
+- rỉ, ứa
+@Chuyên ngành kinh tế
+-sự rỉ ra
+-sự tách ra
+-sự tiết ra
+@Chuyên ngành kỹ thuật
+-rỉ
+-rò thấm
+-tách lỏng
+@Chuyên ngành kỹ thuật
+-rỉ
+-rò thấm
+-tách lỏng

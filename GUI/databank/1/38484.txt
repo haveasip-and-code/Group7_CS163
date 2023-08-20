@@ -1,3 +1,4 @@
-outgassing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự loại khí\n-sự nhả khí
-
+outgassing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự loại khí
+-sự nhả khí

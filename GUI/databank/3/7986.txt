@@ -1,3 +1,15 @@
-cardboard
-	@cardboard /'kɑ:dbɔ:d/\n*  danh từ\n- bìa cưng, giấy bồi, các tông\n@Chuyên ngành kỹ thuật\n-bìa\n-bìa cứng\n-các tông\n-các tông xây dựng\n-giấy bồi\n-hộp bìa cứng\n-hộp các tông\n@Lĩnh vực: hóa học & vật liệu\n-bìa cứng, giấy các tông\n@Lĩnh vực: xây dựng\n-bìa xây dựng
-
+cardboard	@cardboard /'kɑ:dbɔ:d/
+*  danh từ
+- bìa cưng, giấy bồi, các tông
+@Chuyên ngành kỹ thuật
+-bìa
+-bìa cứng
+-các tông
+-các tông xây dựng
+-giấy bồi
+-hộp bìa cứng
+-hộp các tông
+@Lĩnh vực: hóa học & vật liệu
+-bìa cứng, giấy các tông
+@Lĩnh vực: xây dựng
+-bìa xây dựng

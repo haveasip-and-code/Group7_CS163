@@ -1,3 +1,25 @@
-encapsulation
-	@encapsulation\n- xem encapsulate\n@Chuyên ngành kỹ thuật\n-đóng bao\n-sự bịt\n-sự bọc kín\n-sự đóng bao\n-sự đóng kín\n-sự gắn vào\n-sự kết bao\n-vỏ bọc\n@Lĩnh vực: toán & tin\n-sự đóng gói\n@Chuyên ngành kỹ thuật\n-đóng bao\n-sự bịt\n-sự bọc kín\n-sự đóng bao\n-sự đóng kín\n-sự gắn vào\n-sự kết bao\n-vỏ bọc\n@Lĩnh vực: toán & tin\n-sự đóng gói
-
+encapsulation	
+@encapsulation
+- xem encapsulate
+@Chuyên ngành kỹ thuật
+-đóng bao
+-sự bịt
+-sự bọc kín
+-sự đóng bao
+-sự đóng kín
+-sự gắn vào
+-sự kết bao
+-vỏ bọc
+@Lĩnh vực: toán & tin
+-sự đóng gói
+@Chuyên ngành kỹ thuật
+-đóng bao
+-sự bịt
+-sự bọc kín
+-sự đóng bao
+-sự đóng kín
+-sự gắn vào
+-sự kết bao
+-vỏ bọc
+@Lĩnh vực: toán & tin
+-sự đóng gói

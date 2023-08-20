@@ -1,3 +1,2 @@
-components
-	@Chuyên ngành kỹ thuật\n-thành phần
-
+components	@Chuyên ngành kỹ thuật
+-thành phần

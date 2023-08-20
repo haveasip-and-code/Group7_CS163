@@ -1,3 +1,2 @@
-pinnular
-	@pinnular\n- xem pinnule
-
+pinnular	@pinnular
+- xem pinnule

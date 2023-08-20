@@ -1,3 +1,18 @@
-clarifier
-	@clarifier\n- xem clarify\n@Chuyên ngành kinh tế\n-chất làm trong\n-thiết bị làm trong\n-thùng lắng trong\n@Chuyên ngành kỹ thuật\n-bể kết tủa\n-bể lắng\n-bộ lọc\n-chất làm trong\n-thiết bị làm sạch\n-thiết bị lắng\n@Lĩnh vực: xây dựng\n-bể lắng trong\n@Lĩnh vực: cơ khí & công trình\n-thiết bị gạn
-
+clarifier	
+@clarifier
+- xem clarify
+@Chuyên ngành kinh tế
+-chất làm trong
+-thiết bị làm trong
+-thùng lắng trong
+@Chuyên ngành kỹ thuật
+-bể kết tủa
+-bể lắng
+-bộ lọc
+-chất làm trong
+-thiết bị làm sạch
+-thiết bị lắng
+@Lĩnh vực: xây dựng
+-bể lắng trong
+@Lĩnh vực: cơ khí & công trình
+-thiết bị gạn

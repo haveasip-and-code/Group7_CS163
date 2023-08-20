@@ -1,3 +1,18 @@
-squeak
-	@squeak /skwi:k/\n*  danh từ\n- tiếng rúc rích, tiếng chít chít (chuột)\n- tiếng cọt kẹt, tiếng cót két\n!to have a narrow squeak\n- (xem) narrow\n*  nội động từ\n- rúc rích, kêu chít chít (chuột)\n- cọt kẹt, cót két\n- (từ lóng) mách lẻo; làm chỉ điểm\n*  ngoại động từ\n- rít lên\n=to squeak a word+ rít lên một tiếng\n- làm (cửa...) kêu cọt kẹt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-kêu rít\n-tiếng rít (mũi khoan)
-
+squeak	@squeak /skwi:k/
+*  danh từ
+- tiếng rúc rích, tiếng chít chít (chuột)
+- tiếng cọt kẹt, tiếng cót két
+!to have a narrow squeak
+- (xem) narrow
+*  nội động từ
+- rúc rích, kêu chít chít (chuột)
+- cọt kẹt, cót két
+- (từ lóng) mách lẻo; làm chỉ điểm
+*  ngoại động từ
+- rít lên
+=to squeak a word+ rít lên một tiếng
+- làm (cửa...) kêu cọt kẹt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-kêu rít
+-tiếng rít (mũi khoan)

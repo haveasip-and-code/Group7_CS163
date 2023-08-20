@@ -1,3 +1,5 @@
-videodisk
-	@videodisk\n- đựa video tương tác\n@Chuyên ngành kỹ thuật\n-đĩa hình\n-đĩa video
-
+videodisk	@videodisk
+- đựa video tương tác
+@Chuyên ngành kỹ thuật
+-đĩa hình
+-đĩa video

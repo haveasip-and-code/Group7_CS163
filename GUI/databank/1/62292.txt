@@ -1,3 +1,28 @@
-wagon
-	@wagon /'wægən/ (waggon) /'wægən/\n*  danh từ\n- xe ngựa, xe bò (chở hàng)\n- (ngành đường sắt) toa trần (chở hàng)\n- (ngành mỏ) xe goòng\n- (thông tục) xe trẻ con\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) máy bay\n!to be on the wagon\n- kiêng rượu\n!to hitch one's wagon to a star\n- làm việc quá sức (khả năng) mình\n@Chuyên ngành kinh tế\n-toa xe lửa chở hàng\n-xe goòng\n@Chuyên ngành kỹ thuật\n-toa chở hàng\n-toa đóng kín\n-xe goòng\n-xe kín\n-xe thùng\n-xe vận tải\n@Lĩnh vực: cơ khí & công trình\n-toa tàu\n@Lĩnh vực: giao thông & vận tải\n-toa xe hàng\n-vagon\n@Lĩnh vực: xây dựng\n-xe vật tải
-
+wagon	@wagon /'wægən/ (waggon) /'wægən/
+*  danh từ
+- xe ngựa, xe bò (chở hàng)
+- (ngành đường sắt) toa trần (chở hàng)
+- (ngành mỏ) xe goòng
+- (thông tục) xe trẻ con
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) máy bay
+!to be on the wagon
+- kiêng rượu
+!to hitch one's wagon to a star
+- làm việc quá sức (khả năng) mình
+@Chuyên ngành kinh tế
+-toa xe lửa chở hàng
+-xe goòng
+@Chuyên ngành kỹ thuật
+-toa chở hàng
+-toa đóng kín
+-xe goòng
+-xe kín
+-xe thùng
+-xe vận tải
+@Lĩnh vực: cơ khí & công trình
+-toa tàu
+@Lĩnh vực: giao thông & vận tải
+-toa xe hàng
+-vagon
+@Lĩnh vực: xây dựng
+-xe vật tải

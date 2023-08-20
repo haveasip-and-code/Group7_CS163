@@ -1,3 +1,23 @@
-turnbuckle
-	@turnbuckle\n* danh từ\n- (kỹ thuật) đai ốc siết\n@Chuyên ngành kỹ thuật\n-cái căng\n-cái nói có ren\n-chão\n-đai ốc siết\n-rắc co nối (cửa chớp)\n@Lĩnh vực: xây dựng\n-bộ căng\n-bộ căng bằng vít\n-êcu vặn tăng đơ\n-hộp căng bằng ren\n-khớp căng bằng ren\n-măng song xiết chặt\n-tăng đơ hai đầu\n-thanh căng bằng vít\n-trục vít căng\n@Lĩnh vực: điện\n-đai căng\n@Lĩnh vực: điện lạnh\n-tăng đơ (điều chỉnh lực căng của dây)
-
+turnbuckle	@turnbuckle
+* danh từ
+- (kỹ thuật) đai ốc siết
+@Chuyên ngành kỹ thuật
+-cái căng
+-cái nói có ren
+-chão
+-đai ốc siết
+-rắc co nối (cửa chớp)
+@Lĩnh vực: xây dựng
+-bộ căng
+-bộ căng bằng vít
+-êcu vặn tăng đơ
+-hộp căng bằng ren
+-khớp căng bằng ren
+-măng song xiết chặt
+-tăng đơ hai đầu
+-thanh căng bằng vít
+-trục vít căng
+@Lĩnh vực: điện
+-đai căng
+@Lĩnh vực: điện lạnh
+-tăng đơ (điều chỉnh lực căng của dây)

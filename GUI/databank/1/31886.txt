@@ -1,3 +1,21 @@
-legume
-	@legume /'legju:m/\n*  danh từ\n- (thực vật học) quả đậu\n- (thực vật học) cây họ đậu\n- rau đậu, rau ăn\n@Chuyên ngành kinh tế\n-cây họ đậu\n-quả đậu\n-rau đậu\n@Chuyên ngành kỹ thuật\n-cây họ đậu\n-hạt đậu\n@Lĩnh vực: thực phẩm\n-quả đậu\n-rau đậu\n@Chuyên ngành kỹ thuật\n-cây họ đậu\n-hạt đậu\n@Lĩnh vực: thực phẩm\n-quả đậu\n-rau đậu
-
+legume	@legume /'legju:m/
+*  danh từ
+- (thực vật học) quả đậu
+- (thực vật học) cây họ đậu
+- rau đậu, rau ăn
+@Chuyên ngành kinh tế
+-cây họ đậu
+-quả đậu
+-rau đậu
+@Chuyên ngành kỹ thuật
+-cây họ đậu
+-hạt đậu
+@Lĩnh vực: thực phẩm
+-quả đậu
+-rau đậu
+@Chuyên ngành kỹ thuật
+-cây họ đậu
+-hạt đậu
+@Lĩnh vực: thực phẩm
+-quả đậu
+-rau đậu

@@ -1,3 +1,10 @@
-downtime
-	@downtime /'dauntaim/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) thời gian chết (của máy móc... trong giờ làm việc bình thường)\n@Chuyên ngành kinh tế\n-giờ chết\n-thời gian chết\n-thời gian dừng việc\n-thời gian lãng phí\n-thời gian vô dụng
-
+downtime	
+@downtime /'dauntaim/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) thời gian chết (của máy móc... trong giờ làm việc bình thường)
+@Chuyên ngành kinh tế
+-giờ chết
+-thời gian chết
+-thời gian dừng việc
+-thời gian lãng phí
+-thời gian vô dụng

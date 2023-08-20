@@ -1,3 +1,43 @@
-rolling
-	@rolling /'rɔlikiɳ/\n*  danh từ\n- (kỹ thuật) sự lăn, sự cán\n- sự tròng trành, sự lắc lư nghiêng ngả\n- tiếng vang rền (sấm, trống...)\n*  tính từ\n- lăn\n- dâng lên cuồn cuộn\n- trôi qua\n=the rolling years+ năm tháng trôi qua\n!rolling stone gathers no moss\n- (xem) gather\n@Chuyên ngành kinh tế\n-sự cán\n-sự dát\n-sự nghiền\n-sự sụt lở\n-sự tán nhỏ\n-sự tung sản phẩm ra từ từ (trên thị trường)\n@Chuyên ngành kỹ thuật\n-cán\n-dao động ngang\n-dát\n-làm sạch\n-lăn\n-lăn rèn\n-sự cán\n-sự cán nhẵn\n-sự chuyển động xoay\n-sự đầm lăn\n-sự dát\n-sự đu đưa\n-sự lăn\n-sự nghiêng cánh\n-sự quay\n@Lĩnh vực: toán & tin\n-cuộn theo hàng dọc\n-sự lăn, sự cuộn\n@Lĩnh vực: giao thông & vận tải\n-dao động lăn ngang\n-sự lắc ngang (chuyển động của tàu)\n@Lĩnh vực: xây dựng\n-sự lăn (lèn)
-
+rolling	@rolling /'rɔlikiɳ/
+*  danh từ
+- (kỹ thuật) sự lăn, sự cán
+- sự tròng trành, sự lắc lư nghiêng ngả
+- tiếng vang rền (sấm, trống...)
+*  tính từ
+- lăn
+- dâng lên cuồn cuộn
+- trôi qua
+=the rolling years+ năm tháng trôi qua
+!rolling stone gathers no moss
+- (xem) gather
+@Chuyên ngành kinh tế
+-sự cán
+-sự dát
+-sự nghiền
+-sự sụt lở
+-sự tán nhỏ
+-sự tung sản phẩm ra từ từ (trên thị trường)
+@Chuyên ngành kỹ thuật
+-cán
+-dao động ngang
+-dát
+-làm sạch
+-lăn
+-lăn rèn
+-sự cán
+-sự cán nhẵn
+-sự chuyển động xoay
+-sự đầm lăn
+-sự dát
+-sự đu đưa
+-sự lăn
+-sự nghiêng cánh
+-sự quay
+@Lĩnh vực: toán & tin
+-cuộn theo hàng dọc
+-sự lăn, sự cuộn
+@Lĩnh vực: giao thông & vận tải
+-dao động lăn ngang
+-sự lắc ngang (chuyển động của tàu)
+@Lĩnh vực: xây dựng
+-sự lăn (lèn)

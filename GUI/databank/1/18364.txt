@@ -1,3 +1,15 @@
-engrave
-	@engrave /in'greiv/\n*  ngoại động từ\n- khắc, trổ, chạm\n- (nghĩa bóng) in sâu, khắc sâu (vào óc...)\n@Chuyên ngành kỹ thuật\n-chạm\n-khắc\n-làm bản kẽm\n-làm bản khắc\n@Chuyên ngành kỹ thuật\n-chạm\n-khắc\n-làm bản kẽm\n-làm bản khắc
-
+engrave	
+@engrave /in'greiv/
+*  ngoại động từ
+- khắc, trổ, chạm
+- (nghĩa bóng) in sâu, khắc sâu (vào óc...)
+@Chuyên ngành kỹ thuật
+-chạm
+-khắc
+-làm bản kẽm
+-làm bản khắc
+@Chuyên ngành kỹ thuật
+-chạm
+-khắc
+-làm bản kẽm
+-làm bản khắc

@@ -1,3 +1,4 @@
-houseless
-	@houseless /'hauslis/\n*  tính từ\n- không cửa không nhà
-
+houseless	
+@houseless /'hauslis/
+*  tính từ
+- không cửa không nhà

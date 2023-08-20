@@ -1,3 +1,32 @@
-grass
-	@grass /grɑ:s/\n*  danh từ\n- cỏ\n- bâi cỏ, đồng cỏ\n- bãi cỏ, thảm cỏ (ở công viên)\n=please, keep off the grass; do not walk on the grass+ xin đừng đi lên cỏ, xin đừng giẫm lên bãi cỏ\n- (số nhiều) cây thân cỏ\n- (ngành mỏ) mặt đất\n=to bring ore to grass+ đưa quặng lên mặt đất\n- (từ lóng) măng tây\n- (thông tục) mùa xuân\n=she will be two years old next grass+ mùa xuân sang năm nó sẽ lên hai\n!to be at grass\n- đang gặm cỏ\n- (nghĩa bóng) đang nghỉ ngơi; không có việc\n!to cut the grass under somebody's feet\n- phỗng tay trên ai, nâng tay trên ai\n!to go to grass\n- ra đồng ăn cỏ (súc vật)\n- (từ lóng) ngã sóng soài (người)\n- (từ lóng) chết\n!to go grass!\n- chết quách đi cho rồi\n!to bear the grass grow\n- rất thính tai\n!not to let grass under one's feet\n- không để mất thì giờ (khi làm một việc gì)\n!to send to grass\n- cho (súc vật) ra đồng ăn cỏ\n- (từ lóng) đánh ngã sóng soài\n*  ngoại động từ\n- để cỏ mọc; trồng cỏ\n- đánh ngã sóng soài\n- bắn rơi (chim); kéo (cá) về đất liền; đưa (quặng) lên mặt đất\n- căng (vải...) trên cỏ để phơi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cỏ citromila grass cây sả
-
+grass	
+@grass /grɑ:s/
+*  danh từ
+- cỏ
+- bâi cỏ, đồng cỏ
+- bãi cỏ, thảm cỏ (ở công viên)=please, keep off the grass; do not walk on the grass
++ xin đừng đi lên cỏ, xin đừng giẫm lên bãi cỏ
+- (số nhiều) cây thân cỏ
+- (ngành mỏ) mặt đất=to bring ore to grass
++ đưa quặng lên mặt đất
+- (từ lóng) măng tây
+- (thông tục) mùa xuân=she will be two years old next grass
++ mùa xuân sang năm nó sẽ lên hai!to be at grass
+- đang gặm cỏ
+- (nghĩa bóng) đang nghỉ ngơi; không có việc!to cut the grass under somebody's feet
+- phỗng tay trên ai, nâng tay trên ai!to go to grass
+- ra đồng ăn cỏ (súc vật)
+- (từ lóng) ngã sóng soài (người)
+- (từ lóng) chết!to go grass!
+- chết quách đi cho rồi!to bear the grass grow
+- rất thính tai!not to let grass under one's feet
+- không để mất thì giờ (khi làm một việc gì)!to send to grass
+- cho (súc vật) ra đồng ăn cỏ
+- (từ lóng) đánh ngã sóng soài
+*  ngoại động từ
+- để cỏ mọc; trồng cỏ
+- đánh ngã sóng soài
+- bắn rơi (chim); kéo (cá) về đất liền; đưa (quặng) lên mặt đất
+- căng (vải...) trên cỏ để phơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cỏ citromila grass cây sả

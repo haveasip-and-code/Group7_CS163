@@ -1,3 +1,5 @@
-multiprogramming
-	@Chuyên ngành kinh tế\n-đa lập trình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đa lập trình
-
+multiprogramming	@Chuyên ngành kinh tế
+-đa lập trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đa lập trình

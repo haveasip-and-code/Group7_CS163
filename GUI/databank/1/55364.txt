@@ -1,3 +1,12 @@
-tabling
-	@tabling\n* danh từ\n- việc lập biểu; bảng\n- vải làm khăn bàn; khăn bàn khăn ăn nói chung\n- (kiến trúc) cooc nie; thành gờ; mái đua\n- sự tuyển quặng\n@Chuyên ngành kinh tế\n-trình bày thành bảng\n-việc xếp thành bảng\n-xếp thành bảng\n@Chuyên ngành kỹ thuật\n-sự lập bảng
-
+tabling	@tabling
+* danh từ
+- việc lập biểu; bảng
+- vải làm khăn bàn; khăn bàn khăn ăn nói chung
+- (kiến trúc) cooc nie; thành gờ; mái đua
+- sự tuyển quặng
+@Chuyên ngành kinh tế
+-trình bày thành bảng
+-việc xếp thành bảng
+-xếp thành bảng
+@Chuyên ngành kỹ thuật
+-sự lập bảng

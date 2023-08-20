@@ -1,3 +1,24 @@
-while
-	@while /wail/\n*  danh từ\n- lúc, chốc, lát\n=after a while+ một lát sau\n=a long while+ một lúc lâu, một thời gian dài\n=in a little while+ ngay\n=for a long while past+ từ lâu\n=all the while+ suốt thời gian\n=between whiles+ giữa lúc đó\n=for a while+ một lúc\n=the while+ trong lúc đó, trong khi\n=once in a while+ thỉnh thong, đôi khi\n!to be worth [one's] while\n- bõ công, đáng làm\n*  ngoại động từ\n- to while away l ng phí, làm mất, để trôi qua; giết (thì giờ)\n=to while away the time+ để thì giờ trôi qua; giết thì giờ\n*  liên từ ((cũng) whilst)\n- trong lúc, trong khi, đang khi, đang lúc\n=while at school, he worked very hard+ khi còn ở trường anh ta học tập rất chăm chỉ\n- chừng nào còn, còn\n=while there is life, there is hope+ còn sống thì còn hy vọng; còn nước còn tát\n- còn, trong khi mà, mà\n=the hat is red, while the shoes are black+ mũ thì đỏ mà giày thì lại đen
-
+while	@while /wail/
+*  danh từ
+- lúc, chốc, lát
+=after a while+ một lát sau
+=a long while+ một lúc lâu, một thời gian dài
+=in a little while+ ngay
+=for a long while past+ từ lâu
+=all the while+ suốt thời gian
+=between whiles+ giữa lúc đó
+=for a while+ một lúc
+=the while+ trong lúc đó, trong khi
+=once in a while+ thỉnh thong, đôi khi
+!to be worth [one's] while
+- bõ công, đáng làm
+*  ngoại động từ
+- to while away l ng phí, làm mất, để trôi qua; giết (thì giờ)
+=to while away the time+ để thì giờ trôi qua; giết thì giờ
+*  liên từ ((cũng) whilst)
+- trong lúc, trong khi, đang khi, đang lúc
+=while at school, he worked very hard+ khi còn ở trường anh ta học tập rất chăm chỉ
+- chừng nào còn, còn
+=while there is life, there is hope+ còn sống thì còn hy vọng; còn nước còn tát
+- còn, trong khi mà, mà
+=the hat is red, while the shoes are black+ mũ thì đỏ mà giày thì lại đen

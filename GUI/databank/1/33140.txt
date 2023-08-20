@@ -1,3 +1,6 @@
-macrofossil
-	@macrofossil\n* danh từ\n- đại hoá thạch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hóa đá lớn
-
+macrofossil	@macrofossil
+* danh từ
+- đại hoá thạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hóa đá lớn

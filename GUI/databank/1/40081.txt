@@ -1,3 +1,21 @@
-pause
-	@pause /pɔ:z/\n*  danh từ\n- sự tạm nghỉ, sự tạm ngừng\n- sự ngập ngừng\n=to give pause to+ làm cho (ai) ngập ngừng\n- sự ngắt giọng (trong khi đang nói, đang đọc); chỗ ngắt giọng, chỗ ngắt\n=the after a short pause, he resumed his speech+ sau khi ngắt giọng một giây, ông ấy lại tiếp tục bài diễn văn của mình\n- (âm nhạc) dấu dãn nhịp\n*  nội động từ\n- tạm nghỉ, tạm ngừng\n- chờ đợi; ngập ngừng\n- (+ upon) ngừng lại\n=let us pause upon this phrase+ chúng ta hãy ngừng lại ở nhóm từ này\n@Chuyên ngành kỹ thuật\n-nghỉ\n-ngừng\n-sự tạm ngừng\n@Lĩnh vực: toán & tin\n-sự tạm dừng\n@Lĩnh vực: y học\n-sự tạm dừng, nghỉ, đình
-
+pause	@pause /pɔ:z/
+*  danh từ
+- sự tạm nghỉ, sự tạm ngừng
+- sự ngập ngừng
+=to give pause to+ làm cho (ai) ngập ngừng
+- sự ngắt giọng (trong khi đang nói, đang đọc); chỗ ngắt giọng, chỗ ngắt
+=the after a short pause, he resumed his speech+ sau khi ngắt giọng một giây, ông ấy lại tiếp tục bài diễn văn của mình
+- (âm nhạc) dấu dãn nhịp
+*  nội động từ
+- tạm nghỉ, tạm ngừng
+- chờ đợi; ngập ngừng
+- (+ upon) ngừng lại
+=let us pause upon this phrase+ chúng ta hãy ngừng lại ở nhóm từ này
+@Chuyên ngành kỹ thuật
+-nghỉ
+-ngừng
+-sự tạm ngừng
+@Lĩnh vực: toán & tin
+-sự tạm dừng
+@Lĩnh vực: y học
+-sự tạm dừng, nghỉ, đình

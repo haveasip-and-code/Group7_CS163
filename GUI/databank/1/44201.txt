@@ -1,3 +1,8 @@
-prospector
-	@prospector /prospector/\n*  danh từ\n- người điều tra, người thăm dò (quặng, vàng...)\n@Chuyên ngành kinh tế\n-nhà tìm mỏ\n@Chuyên ngành kỹ thuật\n-người điều tra\n-người thăm dò
-
+prospector	@prospector /prospector/
+*  danh từ
+- người điều tra, người thăm dò (quặng, vàng...)
+@Chuyên ngành kinh tế
+-nhà tìm mỏ
+@Chuyên ngành kỹ thuật
+-người điều tra
+-người thăm dò

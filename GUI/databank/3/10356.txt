@@ -1,3 +1,12 @@
-colophon
-	@colophon /'kɔləfən/\n*  danh từ\n- lời ghi cuối sách (sách cổ)\n=from title-page to colophon+ từ đầu đến cuối sách\n@Chuyên ngành kinh tế\n-nhãn hiệu của nhà xuất bản\n-trang bản quyền\n-trang tên sách\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phần cuối sách\n-thư vĩ
-
+colophon	@colophon /'kɔləfən/
+*  danh từ
+- lời ghi cuối sách (sách cổ)
+=from title-page to colophon+ từ đầu đến cuối sách
+@Chuyên ngành kinh tế
+-nhãn hiệu của nhà xuất bản
+-trang bản quyền
+-trang tên sách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phần cuối sách
+-thư vĩ

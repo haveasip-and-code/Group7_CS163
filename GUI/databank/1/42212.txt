@@ -1,3 +1,24 @@
-pneumatic
-	@pneumatic /nju:'mætik/\n*  tính từ\n- (thuộc) khí, (thuộc) hơi\n- (kỹ thuật) chạy bằng khí, chạy bằng hơi\n=pneumatic hammer+ búa hơi, búa gió\n- chạy bằng lốp hơi, có lốp hơi\n- (động vật học) có nhiều khoang khí, xốp (xương chim)\n- (tôn giáo) (thuộc) tinh thần, (thuộc) linh hồn\n*  danh từ\n- lốp hơi, lốp bơm hơi\n- xe chạy bằng lốp hơi\n@Chuyên ngành kỹ thuật\n-chạy bằng khí\n-hơi\n-khí nén\n@Lĩnh vực: điện lạnh\n-khí lực\n@Lĩnh vực: xây dựng\n-kiểu khí nén\n@Lĩnh vực: vật lý\n-thuộc hơi\n-thuộc khí nén\n@Lĩnh vực: cơ khí & công trình\n-thuộc khí
-
+pneumatic	@pneumatic /nju:'mætik/
+*  tính từ
+- (thuộc) khí, (thuộc) hơi
+- (kỹ thuật) chạy bằng khí, chạy bằng hơi
+=pneumatic hammer+ búa hơi, búa gió
+- chạy bằng lốp hơi, có lốp hơi
+- (động vật học) có nhiều khoang khí, xốp (xương chim)
+- (tôn giáo) (thuộc) tinh thần, (thuộc) linh hồn
+*  danh từ
+- lốp hơi, lốp bơm hơi
+- xe chạy bằng lốp hơi
+@Chuyên ngành kỹ thuật
+-chạy bằng khí
+-hơi
+-khí nén
+@Lĩnh vực: điện lạnh
+-khí lực
+@Lĩnh vực: xây dựng
+-kiểu khí nén
+@Lĩnh vực: vật lý
+-thuộc hơi
+-thuộc khí nén
+@Lĩnh vực: cơ khí & công trình
+-thuộc khí

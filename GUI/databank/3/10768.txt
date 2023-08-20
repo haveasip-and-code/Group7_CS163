@@ -1,3 +1,12 @@
-compounding
-	@Chuyên ngành kinh tế\n-giải quyết\n-tính lãi kép\n-tính nhồi cả vốn lời\n@Chuyên ngành kỹ thuật\n-hóa hợp\n-hỗn hợp\n-sự hỗn hợp\n@Lĩnh vực: cơ khí & công trình\n-sư ghép\n-sự pha (trộn)\n-sự phức hợp
-
+compounding	@Chuyên ngành kinh tế
+-giải quyết
+-tính lãi kép
+-tính nhồi cả vốn lời
+@Chuyên ngành kỹ thuật
+-hóa hợp
+-hỗn hợp
+-sự hỗn hợp
+@Lĩnh vực: cơ khí & công trình
+-sư ghép
+-sự pha (trộn)
+-sự phức hợp

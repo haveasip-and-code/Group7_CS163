@@ -1,3 +1,12 @@
-defence
-	@defence /di'fens/\n*  danh từ\n- cái để bảo vệ, vật để chống đỡ, vật để chặn lại\n- sự che chở, sự bảo vệ, sự phòng thủ, sự chống giữ\n=national defence+ quốc phòng\n=to gight in defence of one's fatherland+ chiến đấu để bảo vệ tổ quốc\n- (quân sự), (số nhiều) công sự bảo vệ, công sự phòng ngự, thành luỹ\n=line of defence+ tuyến phòng ngự\n- lời cãi, lời biện hộ; sự bào chữa, sự biện hộ\n=counsel (lawyer) for the defence+ luật sư bào chữa\n@Chuyên ngành kỹ thuật\n-sự bảo vệ
-
+defence	@defence /di'fens/
+*  danh từ
+- cái để bảo vệ, vật để chống đỡ, vật để chặn lại
+- sự che chở, sự bảo vệ, sự phòng thủ, sự chống giữ
+=national defence+ quốc phòng
+=to gight in defence of one's fatherland+ chiến đấu để bảo vệ tổ quốc
+- (quân sự), (số nhiều) công sự bảo vệ, công sự phòng ngự, thành luỹ
+=line of defence+ tuyến phòng ngự
+- lời cãi, lời biện hộ; sự bào chữa, sự biện hộ
+=counsel (lawyer) for the defence+ luật sư bào chữa
+@Chuyên ngành kỹ thuật
+-sự bảo vệ

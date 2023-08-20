@@ -1,3 +1,11 @@
-decoding
-	@Chuyên ngành kinh tế\n-giải mã\n@Chuyên ngành kỹ thuật\n-giải mã\n-mã dịch\n-sự dịch mã\n-sự đọc mã\n-sự giải mã\n@Lĩnh vực: toán & tin\n-sự giải đoán
-
+decoding	
+@Chuyên ngành kinh tế
+-giải mã
+@Chuyên ngành kỹ thuật
+-giải mã
+-mã dịch
+-sự dịch mã
+-sự đọc mã
+-sự giải mã
+@Lĩnh vực: toán & tin
+-sự giải đoán

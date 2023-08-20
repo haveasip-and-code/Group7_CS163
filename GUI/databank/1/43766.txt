@@ -1,3 +1,9 @@
-processed
-	@Chuyên ngành kỹ thuật\n-tiến triển\n@Lĩnh vực: điện lạnh\n-đã chế biến\n-đã xử lý\n@Lĩnh vực: toán & tin\n-đã được xử lý\n@Lĩnh vực: dệt may\n-đã gia công
-
+processed	@Chuyên ngành kỹ thuật
+-tiến triển
+@Lĩnh vực: điện lạnh
+-đã chế biến
+-đã xử lý
+@Lĩnh vực: toán & tin
+-đã được xử lý
+@Lĩnh vực: dệt may
+-đã gia công

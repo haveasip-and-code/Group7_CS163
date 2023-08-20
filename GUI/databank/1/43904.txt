@@ -1,3 +1,19 @@
-program
-	@program /program/\n*  danh từ\n- chương trình (công tác, biểu diễn văn nghệ...)\n- cương lĩnh (của tổ chức, đảng phái)\n*  ngoại động từ\n- đặt chương trình, lập chương trình\n@Chuyên ngành kinh tế\n-sự lập trình\n@Chuyên ngành kỹ thuật\n-biểu đồ\n-cương lĩnh\n-dựng chương trình\n-ghi chương trình\n-kế hoạch\n-lập chương trình\n-lập trình\n@Lĩnh vực: toán & tin\n-đặt chương trình\n-viết chương trình
-
+program	@program /program/
+*  danh từ
+- chương trình (công tác, biểu diễn văn nghệ...)
+- cương lĩnh (của tổ chức, đảng phái)
+*  ngoại động từ
+- đặt chương trình, lập chương trình
+@Chuyên ngành kinh tế
+-sự lập trình
+@Chuyên ngành kỹ thuật
+-biểu đồ
+-cương lĩnh
+-dựng chương trình
+-ghi chương trình
+-kế hoạch
+-lập chương trình
+-lập trình
+@Lĩnh vực: toán & tin
+-đặt chương trình
+-viết chương trình

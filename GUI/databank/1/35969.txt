@@ -1,3 +1,10 @@
-multinational
-	@multinational\n* tính từ\n- bao gồm nhiều nước; đa quốc gia\n= a multinational organization, operation, agreement+một tổ chức, hoạt động, hiệp định đa quốc gia\n* danh từ\n- công ty kinh doanh ở nhiều nước khác nhau; công ty đa quốc gia\n@Chuyên ngành kinh tế\n-công ty đa quốc gia\n-đa quốc gia\n-thuộc công ty đa quốc gia
-
+multinational	@multinational
+* tính từ
+- bao gồm nhiều nước; đa quốc gia
+= a multinational organization, operation, agreement+một tổ chức, hoạt động, hiệp định đa quốc gia
+* danh từ
+- công ty kinh doanh ở nhiều nước khác nhau; công ty đa quốc gia
+@Chuyên ngành kinh tế
+-công ty đa quốc gia
+-đa quốc gia
+-thuộc công ty đa quốc gia

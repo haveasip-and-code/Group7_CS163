@@ -1,3 +1,5 @@
-pinole
-	@pinole /pi'nouli/\n*  danh từ\n- món bột ngô nấu với đường\n@Chuyên ngành kinh tế\n-hạt kiều mạch rang (làm cà phê)
-
+pinole	@pinole /pi'nouli/
+*  danh từ
+- món bột ngô nấu với đường
+@Chuyên ngành kinh tế
+-hạt kiều mạch rang (làm cà phê)

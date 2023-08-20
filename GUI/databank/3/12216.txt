@@ -1,3 +1,52 @@
-counter
-	@counter /'kauntə/\n*  danh từ\n- quầy hàng, quầy thu tiền\n=to serve behind the counter+ phục vụ ở quầy hàng, bán hàng\n- ghi sê (ngân hàng)\n- bàn tính, máy tính\n- người đếm\n- thẻ (để đánh bạc thay tiền)\n- ức ngực\n- (hàng hải) thành đuôi tàu\n- miếng đệm lót giày\n*  tính từ\n- đối lập, chống lại, trái lại, ngược lại\n- sao để đối chiếu (bản văn kiện)\n*  phó từ\n- đối lập, chống lại, trái lại, ngược lại\n=to act counter to someone's wishes+ hành động chống lại y muốn của một người nào\n!to go counter\n- đi ngược lại, làm trái lại\n*  động từ\n- phản đối, chống lại, làm trái ngược lại, nói ngược lại\n- chặn lại và đánh trả, phản công (đấu kiếm, quyền Anh)\n@Chuyên ngành kinh tế\n-ghi- sê (ngân hàng)\n-máy đếm\n-máy tính\n-quầy giao dịch\n-quầy hàng, quầy thu tiền\n-quầy thu ngân\n@Chuyên ngành kỹ thuật\n-bộ đếm\n-chống\n-đối\n-đồng hồ đo\n-ngược\n-ngược lại\n-máy đếm\n-máy đếm tần số\n-máy đo\n-máy tính\n-ống đếm\n-quân cờ nhảy\n-tốc kế\n@Lĩnh vực: đo lường & điều khiển\n-bộ đếm tần số\n@Lĩnh vực: vật lý\n-cấu đếm\n@Lĩnh vực: xây dựng\n-đối lại\n-người tính toán\n@Lĩnh vực: giao thông & vận tải\n-đuôi nở (đóng tàu)
-
+counter	@counter /'kauntə/
+*  danh từ
+- quầy hàng, quầy thu tiền
+=to serve behind the counter+ phục vụ ở quầy hàng, bán hàng
+- ghi sê (ngân hàng)
+- bàn tính, máy tính
+- người đếm
+- thẻ (để đánh bạc thay tiền)
+- ức ngực
+- (hàng hải) thành đuôi tàu
+- miếng đệm lót giày
+*  tính từ
+- đối lập, chống lại, trái lại, ngược lại
+- sao để đối chiếu (bản văn kiện)
+*  phó từ
+- đối lập, chống lại, trái lại, ngược lại
+=to act counter to someone's wishes+ hành động chống lại y muốn của một người nào
+!to go counter
+- đi ngược lại, làm trái lại
+*  động từ
+- phản đối, chống lại, làm trái ngược lại, nói ngược lại
+- chặn lại và đánh trả, phản công (đấu kiếm, quyền Anh)
+@Chuyên ngành kinh tế
+-ghi- sê (ngân hàng)
+-máy đếm
+-máy tính
+-quầy giao dịch
+-quầy hàng, quầy thu tiền
+-quầy thu ngân
+@Chuyên ngành kỹ thuật
+-bộ đếm
+-chống
+-đối
+-đồng hồ đo
+-ngược
+-ngược lại
+-máy đếm
+-máy đếm tần số
+-máy đo
+-máy tính
+-ống đếm
+-quân cờ nhảy
+-tốc kế
+@Lĩnh vực: đo lường & điều khiển
+-bộ đếm tần số
+@Lĩnh vực: vật lý
+-cấu đếm
+@Lĩnh vực: xây dựng
+-đối lại
+-người tính toán
+@Lĩnh vực: giao thông & vận tải
+-đuôi nở (đóng tàu)

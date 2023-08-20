@@ -1,3 +1,22 @@
-turbulence
-	@turbulence\n* danh từ\n- sự hỗn loạn; sự bất an, sự náo động\n- sự nhiễu loạn, sự chuyển động dữ dội, sự chuyển động không đều (của không khí, nước)\n@Chuyên ngành kỹ thuật\n-chảy rối\n-dòng xoáy\n-góc xoáy\n-luồng xoáy\n-sự chảy rối\n-sự nhiễu loạn\n-sự xoáy lốc\n@Lĩnh vực: điện tử & viễn thông\n-độ cuốn xoáy\n@Lĩnh vực: toán & tin\n-giác loạn\n@Lĩnh vực: điện lạnh\n-hiện tượng chảy rối\n-hiện tượng cuộn xoáy\n@Lĩnh vực: xây dựng\n-sự chảy xoáy\n-tính chảy rối
-
+turbulence	@turbulence
+* danh từ
+- sự hỗn loạn; sự bất an, sự náo động
+- sự nhiễu loạn, sự chuyển động dữ dội, sự chuyển động không đều (của không khí, nước)
+@Chuyên ngành kỹ thuật
+-chảy rối
+-dòng xoáy
+-góc xoáy
+-luồng xoáy
+-sự chảy rối
+-sự nhiễu loạn
+-sự xoáy lốc
+@Lĩnh vực: điện tử & viễn thông
+-độ cuốn xoáy
+@Lĩnh vực: toán & tin
+-giác loạn
+@Lĩnh vực: điện lạnh
+-hiện tượng chảy rối
+-hiện tượng cuộn xoáy
+@Lĩnh vực: xây dựng
+-sự chảy xoáy
+-tính chảy rối

@@ -1,3 +1,6 @@
-biunique
-	@biunique\n- một đối một\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-một đôi một\n-một đối một
-
+biunique	@biunique
+- một đối một
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-một đôi một
+-một đối một

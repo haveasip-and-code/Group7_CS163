@@ -1,3 +1,24 @@
-collapsible
-	@collapsible /kə'læpsəbl/\n*  tính từ\n- có thể gập lại, xếp lại được\n=a collapsible chair+ ghế gấp\n=a collapsible gate+ cửa sắt xếp hẹp được\n@Chuyên ngành kỹ thuật\n-có thể cuộn được\n-gấp được\n-gấp gọn dược\n-tháo lắp được\n-xếp được\n-xếp gọn được\n@Lĩnh vực: toán & tin\n-co được\n-rút được\n@Lĩnh vực: xây dựng\n-có thể bị sụp\n-dỡ được\n-gập lại được\n-xếp lại được\n@Lĩnh vực: hóa học & vật liệu\n-có thể giãn được\n@Lĩnh vực: cơ khí & công trình\n-gấp xếp được
-
+collapsible	@collapsible /kə'læpsəbl/
+*  tính từ
+- có thể gập lại, xếp lại được
+=a collapsible chair+ ghế gấp
+=a collapsible gate+ cửa sắt xếp hẹp được
+@Chuyên ngành kỹ thuật
+-có thể cuộn được
+-gấp được
+-gấp gọn dược
+-tháo lắp được
+-xếp được
+-xếp gọn được
+@Lĩnh vực: toán & tin
+-co được
+-rút được
+@Lĩnh vực: xây dựng
+-có thể bị sụp
+-dỡ được
+-gập lại được
+-xếp lại được
+@Lĩnh vực: hóa học & vật liệu
+-có thể giãn được
+@Lĩnh vực: cơ khí & công trình
+-gấp xếp được

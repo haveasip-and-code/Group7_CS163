@@ -1,3 +1,4 @@
-heaped
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được chất đống
-
+heaped	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được chất đống

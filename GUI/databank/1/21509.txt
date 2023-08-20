@@ -1,3 +1,12 @@
-floppy
-	@floppy\n* tính từ\n- mềm, nhẹ\n@Chuyên ngành kỹ thuật\n-đĩa mềm\n@Lĩnh vực: toán & tin\n-đĩa (mềm)\n@Chuyên ngành kỹ thuật\n-đĩa mềm\n@Lĩnh vực: toán & tin\n-đĩa (mềm)
-
+floppy	
+@floppy
+* tính từ
+- mềm, nhẹ
+@Chuyên ngành kỹ thuật
+-đĩa mềm
+@Lĩnh vực: toán & tin
+-đĩa (mềm)
+@Chuyên ngành kỹ thuật
+-đĩa mềm
+@Lĩnh vực: toán & tin
+-đĩa (mềm)

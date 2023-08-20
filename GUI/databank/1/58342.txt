@@ -1,3 +1,7 @@
-twisted
-	@Chuyên ngành kỹ thuật\n-bện\n-bị xoắn\n-vặn\n-xoắn\n@Lĩnh vực: hóa học & vật liệu\n-được xoắn được vặn
-
+twisted	@Chuyên ngành kỹ thuật
+-bện
+-bị xoắn
+-vặn
+-xoắn
+@Lĩnh vực: hóa học & vật liệu
+-được xoắn được vặn

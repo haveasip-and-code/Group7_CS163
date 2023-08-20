@@ -1,3 +1,23 @@
-electricity
-	@electricity /ilek'trisiti/\n*  danh từ\n- điện, điện lực\n=static electricity+ tĩnh điện\n=magnetic electricity+ điện tử\n=positive electricity+ điện dương\n=negastive electricity+ điện âm\n- điện học\n@Chuyên ngành kỹ thuật\n-điện\n-điện (tích)\n-điện học\n-điện lượng\n@Lĩnh vực: điện lạnh\n-hiện tượng điện\n@Chuyên ngành kỹ thuật\n-điện\n-điện (tích)\n-điện học\n-điện lượng\n@Lĩnh vực: điện lạnh\n-hiện tượng điện
-
+electricity	
+@electricity /ilek'trisiti/
+*  danh từ
+- điện, điện lực=static electricity
++ tĩnh điện=magnetic electricity
++ điện tử=positive electricity
++ điện dương=negastive electricity
++ điện âm
+- điện học
+@Chuyên ngành kỹ thuật
+-điện
+-điện (tích)
+-điện học
+-điện lượng
+@Lĩnh vực: điện lạnh
+-hiện tượng điện
+@Chuyên ngành kỹ thuật
+-điện
+-điện (tích)
+-điện học
+-điện lượng
+@Lĩnh vực: điện lạnh
+-hiện tượng điện

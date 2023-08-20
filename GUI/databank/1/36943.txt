@@ -1,3 +1,3 @@
-nondisjunction
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-không phân ly
-
+nondisjunction	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-không phân ly

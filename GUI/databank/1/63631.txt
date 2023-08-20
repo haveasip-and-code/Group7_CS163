@@ -1,3 +1,6 @@
-zooming
-	@Chuyên ngành kỹ thuật\n-phóng đại\n-sự phóng đại\n@Lĩnh vực: toán & tin\n-phóng to thu nhỏ\n-sự thu-phóng (của biểu diễn ảnh)
-
+zooming	@Chuyên ngành kỹ thuật
+-phóng đại
+-sự phóng đại
+@Lĩnh vực: toán & tin
+-phóng to thu nhỏ
+-sự thu-phóng (của biểu diễn ảnh)

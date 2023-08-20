@@ -1,3 +1,11 @@
-barometer
-	@barometer /bə'rɔmitə/\n*  danh từ\n- (vật lý) phong vũ biểu, cái đo khí áp\n@Chuyên ngành kinh tế\n-phong vũ biểu thị trường\n@Chuyên ngành kỹ thuật\n-cái đo khí áp\n-khí áp kế\n-phong vũ biểu\n@Lĩnh vực: điện lạnh\n-khí (quyển) áp kế
-
+barometer	@barometer /bə'rɔmitə/
+*  danh từ
+- (vật lý) phong vũ biểu, cái đo khí áp
+@Chuyên ngành kinh tế
+-phong vũ biểu thị trường
+@Chuyên ngành kỹ thuật
+-cái đo khí áp
+-khí áp kế
+-phong vũ biểu
+@Lĩnh vực: điện lạnh
+-khí (quyển) áp kế

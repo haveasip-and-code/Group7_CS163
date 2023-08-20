@@ -1,3 +1,7 @@
-zoo
-	@zoo /zu:/\n*  danh từ\n- (thông tục) ((viết tắt) của zoological garden) vườn bách thú, vườn thú\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sở thú\n-vườn bách thú
-
+zoo	@zoo /zu:/
+*  danh từ
+- (thông tục) ((viết tắt) của zoological garden) vườn bách thú, vườn thú
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sở thú
+-vườn bách thú

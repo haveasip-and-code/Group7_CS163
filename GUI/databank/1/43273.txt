@@ -1,3 +1,37 @@
-premium
-	@premium /'pri:mjəm/\n*  danh từ\n- phần thưởng\n- tiền thưởng\n- tiền đóng bảo hiểm\n- tiền học việc (trả ngay cho người dạy nghề)\n- tiền các đổi tiền ((cũng) premium on exchange)\n!at a premium\n- cao hơn giá qui định; (nghĩa bóng) được đánh giá cao\n!to put a premium on something\n- khuyến khích cái gì, xúi giục cái gì\n@Chuyên ngành kinh tế\n-học phí\n-hồi kim\n-phí bảo hiểm\n-sai kim\n-thượng hảo hạng\n-tiền bù\n-tiền các\n-tiền các (hối đoái)\n-tiền chênh lệch\n-tiền học nghề\n-tiền học việc\n-tiền lời bán ngoại tệ\n-tiền thuê trả nước (trước khi kí kết hợp đồng)\n-tiền thuê trả trước (trước khi ký hợp đồng)\n-tiền thưởng\n@Chuyên ngành kỹ thuật\n-phần thưởng\n-tiền\n@Lĩnh vực: xây dựng\n-lệ phí\n@Lĩnh vực: toán & tin\n-phí tổn (bảo hiểm)\n-tiền phí tổn (bảo hiểm)\n@Lĩnh vực: hóa học & vật liệu\n-tiền đóng bảo hiểm
-
+premium	@premium /'pri:mjəm/
+*  danh từ
+- phần thưởng
+- tiền thưởng
+- tiền đóng bảo hiểm
+- tiền học việc (trả ngay cho người dạy nghề)
+- tiền các đổi tiền ((cũng) premium on exchange)
+!at a premium
+- cao hơn giá qui định; (nghĩa bóng) được đánh giá cao
+!to put a premium on something
+- khuyến khích cái gì, xúi giục cái gì
+@Chuyên ngành kinh tế
+-học phí
+-hồi kim
+-phí bảo hiểm
+-sai kim
+-thượng hảo hạng
+-tiền bù
+-tiền các
+-tiền các (hối đoái)
+-tiền chênh lệch
+-tiền học nghề
+-tiền học việc
+-tiền lời bán ngoại tệ
+-tiền thuê trả nước (trước khi kí kết hợp đồng)
+-tiền thuê trả trước (trước khi ký hợp đồng)
+-tiền thưởng
+@Chuyên ngành kỹ thuật
+-phần thưởng
+-tiền
+@Lĩnh vực: xây dựng
+-lệ phí
+@Lĩnh vực: toán & tin
+-phí tổn (bảo hiểm)
+-tiền phí tổn (bảo hiểm)
+@Lĩnh vực: hóa học & vật liệu
+-tiền đóng bảo hiểm

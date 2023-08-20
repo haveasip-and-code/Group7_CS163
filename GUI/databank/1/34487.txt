@@ -1,3 +1,2 @@
-mesoscale
-	@Chuyên ngành kỹ thuật\n-cỡ trung bình
-
+mesoscale	@Chuyên ngành kỹ thuật
+-cỡ trung bình

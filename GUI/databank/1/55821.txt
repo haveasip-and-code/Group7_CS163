@@ -1,3 +1,12 @@
-telecommuting
-	@telecommuting\n- làm việc từ xa\n@Chuyên ngành kinh tế\n-làm việc từ nhà\n-liên lạc từ xa\n-sự làm việc (điều khiển) từ xa\n-sự làm việc điều khiển từ xa\n-sự làm việc từ nhà\n@Chuyên ngành kỹ thuật\n-liên lạc từ xa\n@Lĩnh vực: toán & tin\n-làm việc tại nhà
-
+telecommuting	@telecommuting
+- làm việc từ xa
+@Chuyên ngành kinh tế
+-làm việc từ nhà
+-liên lạc từ xa
+-sự làm việc (điều khiển) từ xa
+-sự làm việc điều khiển từ xa
+-sự làm việc từ nhà
+@Chuyên ngành kỹ thuật
+-liên lạc từ xa
+@Lĩnh vực: toán & tin
+-làm việc tại nhà

@@ -1,3 +1,22 @@
-sieve
-	@sieve /siv/\n*  danh từ\n- cái giần, cái sàng, cái rây\n- người hay ba hoa; người hay hở chuyện\n*  ngoại động từ\n- giần, sàng, rây\n@Chuyên ngành kinh tế\n-lọc\n-lưới\n-lưới hút\n-sàng\n@Chuyên ngành kỹ thuật\n-bộ lọc\n-chọn lọc\n-lọc\n-lưới hút\n-máy sàng\n-phân loại (quặng)\n-rây\n-sàng\n@Lĩnh vực: xây dựng\n-cái lọc sàng
-
+sieve	@sieve /siv/
+*  danh từ
+- cái giần, cái sàng, cái rây
+- người hay ba hoa; người hay hở chuyện
+*  ngoại động từ
+- giần, sàng, rây
+@Chuyên ngành kinh tế
+-lọc
+-lưới
+-lưới hút
+-sàng
+@Chuyên ngành kỹ thuật
+-bộ lọc
+-chọn lọc
+-lọc
+-lưới hút
+-máy sàng
+-phân loại (quặng)
+-rây
+-sàng
+@Lĩnh vực: xây dựng
+-cái lọc sàng

@@ -1,3 +1,2 @@
-posturer
-	@posturer\n- xem posture
-
+posturer	@posturer
+- xem posture

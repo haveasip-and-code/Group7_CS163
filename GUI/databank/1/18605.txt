@@ -1,3 +1,18 @@
-enumerator
-	@enumerator /i,nju:məreitə/\n*  danh từ\n- người đếm; người kê; người liệt kê\n@Chuyên ngành kỹ thuật\n-bộ đếm\n-người đếm\n@Lĩnh vực: toán & tin\n-bộ đánh số\n-bộ liệt kê\n-người đánh số\n@Chuyên ngành kỹ thuật\n-bộ đếm\n-người đếm\n@Lĩnh vực: toán & tin\n-bộ đánh số\n-bộ liệt kê\n-người đánh số
-
+enumerator	
+@enumerator /i,nju:məreitə/
+*  danh từ
+- người đếm; người kê; người liệt kê
+@Chuyên ngành kỹ thuật
+-bộ đếm
+-người đếm
+@Lĩnh vực: toán & tin
+-bộ đánh số
+-bộ liệt kê
+-người đánh số
+@Chuyên ngành kỹ thuật
+-bộ đếm
+-người đếm
+@Lĩnh vực: toán & tin
+-bộ đánh số
+-bộ liệt kê
+-người đánh số

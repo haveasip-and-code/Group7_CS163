@@ -1,3 +1,5 @@
-cables
-	@Chuyên ngành kinh tế\n-chữ tắt dùng trong điện báo\n-dụng ngữ điện báo\n-văn thể điện báo
-
+cables	
+@Chuyên ngành kinh tế
+-chữ tắt dùng trong điện báo
+-dụng ngữ điện báo
+-văn thể điện báo

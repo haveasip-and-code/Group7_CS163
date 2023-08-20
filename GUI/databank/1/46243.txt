@@ -1,3 +1,12 @@
-reek
-	@reek /ri:k/\n*  danh từ\n- mùi mốc; mùi nồng nặc, mùi thối\n=the reek of tobaco+ mùi thuốc lá nồng nặc\n- không khí hôi thối\n- (thơ ca) (Ê-cốt) khói\n- (từ lóng) tiền\n*  nội động từ\n- toả khói, bốc khói; bốc hơi lên\n- (+ of) sặc mùi, nồng nặc, có mùi hôi thối\n=to reek of alcohol+ sặc mùi rượu\n=to reek of murder+ (nghĩa bóng) sặc mùi giết người
-
+reek	@reek /ri:k/
+*  danh từ
+- mùi mốc; mùi nồng nặc, mùi thối
+=the reek of tobaco+ mùi thuốc lá nồng nặc
+- không khí hôi thối
+- (thơ ca) (Ê-cốt) khói
+- (từ lóng) tiền
+*  nội động từ
+- toả khói, bốc khói; bốc hơi lên
+- (+ of) sặc mùi, nồng nặc, có mùi hôi thối
+=to reek of alcohol+ sặc mùi rượu
+=to reek of murder+ (nghĩa bóng) sặc mùi giết người

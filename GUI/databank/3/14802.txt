@@ -1,3 +1,2 @@
-desolater
-	@desolater\n- xem desolate
-
+desolater	@desolater
+- xem desolate

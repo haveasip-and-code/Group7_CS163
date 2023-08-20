@@ -1,3 +1,4 @@
-drawstring
-	@drawstring\n* danh từ\n- dải rút (cột miệng túi, xiết chặt quần áo)
-
+drawstring	
+@drawstring
+* danh từ
+- dải rút (cột miệng túi, xiết chặt quần áo)

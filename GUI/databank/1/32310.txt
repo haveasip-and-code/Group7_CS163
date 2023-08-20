@@ -1,3 +1,9 @@
-linguistic
-	@linguistic\n* tính từ\n- (thuộc) ngôn ngữ, (thuộc) ngôn ngữ học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ngôn ngữ học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ngôn ngữ học
-
+linguistic	@linguistic
+* tính từ
+- (thuộc) ngôn ngữ, (thuộc) ngôn ngữ học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-ngôn ngữ học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-ngôn ngữ học

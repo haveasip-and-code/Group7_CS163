@@ -1,3 +1,12 @@
-seamer
-	@seamer\n* danh từ\n- người khâu\n- máy khâu đột\n@Chuyên ngành kinh tế\n-máy cuộn\n-máy lăn\n-máy tán\n-thiết bị tạo đường nối\n@Chuyên ngành kỹ thuật\n-máy gấp mép\n-máy uốn mép
-
+seamer	@seamer
+* danh từ
+- người khâu
+- máy khâu đột
+@Chuyên ngành kinh tế
+-máy cuộn
+-máy lăn
+-máy tán
+-thiết bị tạo đường nối
+@Chuyên ngành kỹ thuật
+-máy gấp mép
+-máy uốn mép

@@ -1,3 +1,15 @@
-reentrant
-	@reentrant\n- n\n- đồng dụng\n* tính từ\n- <toán> lõm vào (góc)\n* danh từ\n- <toán> góc lõm\n@Chuyên ngành kỹ thuật\n-lõm\n-lõm (góc)\n-trở lại\n@Lĩnh vực: toán & tin\n-dùng lại được\n-tái lập\n-vào lại, lập lại
-
+reentrant	@reentrant
+- n
+- đồng dụng
+* tính từ
+- <toán> lõm vào (góc)
+* danh từ
+- <toán> góc lõm
+@Chuyên ngành kỹ thuật
+-lõm
+-lõm (góc)
+-trở lại
+@Lĩnh vực: toán & tin
+-dùng lại được
+-tái lập
+-vào lại, lập lại

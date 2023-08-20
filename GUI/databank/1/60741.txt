@@ -1,3 +1,6 @@
-unvisited
-	@unvisited /' n'vizitid/\n*  tính từ\n- không ai thăm viếng\n- không ai tham quan\n- chưa ai ghé đến\n=unvisited island+ hòn đo chưa ai ghé đến
-
+unvisited	@unvisited /' n'vizitid/
+*  tính từ
+- không ai thăm viếng
+- không ai tham quan
+- chưa ai ghé đến
+=unvisited island+ hòn đo chưa ai ghé đến

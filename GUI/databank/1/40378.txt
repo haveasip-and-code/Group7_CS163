@@ -1,3 +1,2 @@
-pengos
-	@pengos\n- xem pengou
-
+pengos	@pengos
+- xem pengou

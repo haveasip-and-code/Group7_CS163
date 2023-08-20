@@ -1,3 +1,24 @@
-implication
-	@implication /,impli'keiʃn/\n*  danh từ\n- sự lôi kéo vào; sự liên can, sự dính líu; ẩn ý, điều ngụ ý; điều gợi ý\n=what are the implications of this statement?+ những ẩn ý của lời tuyên bố này là thế nào?\n- (số nhiều) quan hệ mật thiết\n- (từ hiếm,nghĩa hiếm) sự bện lại, sự tết lại, sự xoắn lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép kéo theo\n@Chuyên ngành kỹ thuật\n-hệ quả\n-ngụ ý\n-phép tất suy\n-sự bao hàm\n-sự kéo theo\n-thao tác nếu-thì\n@Lĩnh vực: toán & tin\n-nhóm tất suy\n-sự suy ra\n@Lĩnh vực: xây dựng\n-sự liên can\n-sự lôi kéo vào
-
+implication	
+@implication /,impli'keiʃn/
+*  danh từ
+- sự lôi kéo vào; sự liên can, sự dính líu; ẩn ý, điều ngụ ý; điều gợi ý=what are the implications of this statement?
++ những ẩn ý của lời tuyên bố này là thế nào?
+- (số nhiều) quan hệ mật thiết
+- (từ hiếm,nghĩa hiếm) sự bện lại, sự tết lại, sự xoắn lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép kéo theo
+@Chuyên ngành kỹ thuật
+-hệ quả
+-ngụ ý
+-phép tất suy
+-sự bao hàm
+-sự kéo theo
+-thao tác nếu
+-thì
+@Lĩnh vực: toán & tin
+-nhóm tất suy
+-sự suy ra
+@Lĩnh vực: xây dựng
+-sự liên can
+-sự lôi kéo vào

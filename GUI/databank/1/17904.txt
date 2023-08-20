@@ -1,3 +1,7 @@
-emboldening
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự in đậm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự in đậm
-
+emboldening	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự in đậm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự in đậm

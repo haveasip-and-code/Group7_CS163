@@ -1,3 +1,9 @@
-divert
-	@divert /dai'və:t/\n*  ngoại động từ\n- làm trệch đi, làm trệch hướng\n- hướng (sự chú ý...) sang phía khác, làm lãng (trí...)\n- làm giải trí, làm tiêu khiển, làm vui\n@Chuyên ngành kỹ thuật\n-làm lệch hướng\n-làm trệch hướng
-
+divert	
+@divert /dai'və:t/
+*  ngoại động từ
+- làm trệch đi, làm trệch hướng
+- hướng (sự chú ý...) sang phía khác, làm lãng (trí...)
+- làm giải trí, làm tiêu khiển, làm vui
+@Chuyên ngành kỹ thuật
+-làm lệch hướng
+-làm trệch hướng

@@ -1,3 +1,4 @@
-donatives
-	@Chuyên ngành kinh tế\n-để cho\n-để tặng
-
+donatives	
+@Chuyên ngành kinh tế
+-để cho
+-để tặng

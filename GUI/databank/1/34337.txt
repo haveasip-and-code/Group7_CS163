@@ -1,3 +1,2 @@
-menservants
-	@menservants\n- số nhiều của manservant
-
+menservants	@menservants
+- số nhiều của manservant

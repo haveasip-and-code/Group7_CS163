@@ -1,3 +1,16 @@
-territorial
-	@territorial /,teri'tɔ:riəl/\n*  tính từ\n- (thuộc) đất đai, (thuộc) địa hạt, (thuộc) lãnh thổ\n=territorial tax+ thuế đất\n=territorial right+ quyền lãnh thổ\n=territorial integrity+ sự toàn vẹn lãnh thổ\n- (thuộc) khu vực, (thuộc) vùng, (thuộc) miền\n- (Territorial) (từ Mỹ,nghĩa Mỹ) (thuộc) hạt (vùng chưa được hưởng những quyền lợi như một bang)\n- (quân sự) (thuộc) quân địa phương\n=Territorial Army+ quân địa phương\n*  danh từ\n- quân địa phương\n@Chuyên ngành kỹ thuật\n-khu đất\n-lãnh thổ\n-nguồn lục địa
-
+territorial	@territorial /,teri'tɔ:riəl/
+*  tính từ
+- (thuộc) đất đai, (thuộc) địa hạt, (thuộc) lãnh thổ
+=territorial tax+ thuế đất
+=territorial right+ quyền lãnh thổ
+=territorial integrity+ sự toàn vẹn lãnh thổ
+- (thuộc) khu vực, (thuộc) vùng, (thuộc) miền
+- (Territorial) (từ Mỹ,nghĩa Mỹ) (thuộc) hạt (vùng chưa được hưởng những quyền lợi như một bang)
+- (quân sự) (thuộc) quân địa phương
+=Territorial Army+ quân địa phương
+*  danh từ
+- quân địa phương
+@Chuyên ngành kỹ thuật
+-khu đất
+-lãnh thổ
+-nguồn lục địa

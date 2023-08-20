@@ -1,3 +1,16 @@
-zenith
-	@zenith /'zeniθ/\n*  danh từ\n- (thiên văn học) thiên đỉnh\n- (nghĩa bóng) điểm cao nhất, cực điểm, tột đỉnh\n=to be at the zenith of+ lên đến cực điểm của\n=to have passed one's zenith+ đã qua thời kỳ oanh liệt nhất, đã qua thời kỳ thịnh vượng nhất\n@Chuyên ngành kỹ thuật\n-cực điểm\n-điểm\n@Lĩnh vực: vật lý\n-điện áp zener\n@Lĩnh vực: hóa học & vật liệu\n-tham số zener-hollomon\n@Lĩnh vực: xây dựng\n-thiên điểm\n-tuyệt điểm
-
+zenith	@zenith /'zeniθ/
+*  danh từ
+- (thiên văn học) thiên đỉnh
+- (nghĩa bóng) điểm cao nhất, cực điểm, tột đỉnh
+=to be at the zenith of+ lên đến cực điểm của
+=to have passed one's zenith+ đã qua thời kỳ oanh liệt nhất, đã qua thời kỳ thịnh vượng nhất
+@Chuyên ngành kỹ thuật
+-cực điểm
+-điểm
+@Lĩnh vực: vật lý
+-điện áp zener
+@Lĩnh vực: hóa học & vật liệu
+-tham số zener-hollomon
+@Lĩnh vực: xây dựng
+-thiên điểm
+-tuyệt điểm

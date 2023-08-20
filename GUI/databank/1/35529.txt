@@ -1,3 +1,4 @@
-monomeric
-	@Chuyên ngành kỹ thuật\n-đơn thể\n@Lĩnh vực: điện lạnh\n-monome
-
+monomeric	@Chuyên ngành kỹ thuật
+-đơn thể
+@Lĩnh vực: điện lạnh
+-monome

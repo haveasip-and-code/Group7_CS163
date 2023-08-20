@@ -1,3 +1,4 @@
-diseconomy
-	@Chuyên ngành kinh tế\n-gia tăng phí tổn (tăng sản phẩm thu)\n-sự không kinh tế
-
+diseconomy	
+@Chuyên ngành kinh tế
+-gia tăng phí tổn (tăng sản phẩm thu)
+-sự không kinh tế

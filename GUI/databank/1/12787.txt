@@ -1,3 +1,11 @@
-crowbar
-	@crowbar\n* danh từ\n- cái xà beng, cái nạy nắp thùng, cái đòn bẫy\n@Chuyên ngành kỹ thuật\n-choòng\n@Lĩnh vực: điện lạnh\n-đòn ngắt cầu dao\n@Lĩnh vực: xây dựng\n-gậy sắt\n-xà beng
-
+crowbar	
+@crowbar
+* danh từ
+- cái xà beng, cái nạy nắp thùng, cái đòn bẫy
+@Chuyên ngành kỹ thuật
+-choòng
+@Lĩnh vực: điện lạnh
+-đòn ngắt cầu dao
+@Lĩnh vực: xây dựng
+-gậy sắt
+-xà beng

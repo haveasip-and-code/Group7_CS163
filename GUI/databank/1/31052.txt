@@ -1,3 +1,17 @@
-kitty
-	@kitty /'kiti/\n*  danh từ\n- nhuây khót vốn chung; vốn góp (đánh bài, hoặc làm việc gì...)\n@Chuyên ngành kinh tế\n-tiền góp\n-vốn chung\n-vốn góp\n@Chuyên ngành kỹ thuật\n-nút bấm\n@Lĩnh vực: toán & tin\n-cái núm\n-tiền thua cuộc\n@Chuyên ngành kỹ thuật\n-nút bấm\n@Lĩnh vực: toán & tin\n-cái núm\n-tiền thua cuộc
-
+kitty	@kitty /'kiti/
+*  danh từ
+- nhuây khót vốn chung; vốn góp (đánh bài, hoặc làm việc gì...)
+@Chuyên ngành kinh tế
+-tiền góp
+-vốn chung
+-vốn góp
+@Chuyên ngành kỹ thuật
+-nút bấm
+@Lĩnh vực: toán & tin
+-cái núm
+-tiền thua cuộc
+@Chuyên ngành kỹ thuật
+-nút bấm
+@Lĩnh vực: toán & tin
+-cái núm
+-tiền thua cuộc

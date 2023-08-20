@@ -1,3 +1,22 @@
-uniform
-	@uniform /'ju:nifɔ:m/\n*  tính từ\n- đồng dạng, cùng một kiểu, giống nhau\n=of uniform length+ cùng một chiều dài như nhau\n- không thay đổi, không biến hoá, đều\n=to keep at a uniform temperature+ giữ ở một nhiệt độ không đổi\n=uniform movement+ chuyển động đều\n*  danh từ\n- đồng phục; (quân) quân phục\n*  ngoại động từ\n- (quân sự) mặc quân phục\n@Chuyên ngành kỹ thuật\n-đều\n-đều đặn\n-đều đều\n-đơn điệu\n-đồng đều\n-đồng nhất\n@Lĩnh vực: toán & tin\n-đều, không đổi\n@Lĩnh vực: xây dựng\n-đơn điệu (địa hình)
-
+uniform	@uniform /'ju:nifɔ:m/
+*  tính từ
+- đồng dạng, cùng một kiểu, giống nhau
+=of uniform length+ cùng một chiều dài như nhau
+- không thay đổi, không biến hoá, đều
+=to keep at a uniform temperature+ giữ ở một nhiệt độ không đổi
+=uniform movement+ chuyển động đều
+*  danh từ
+- đồng phục; (quân) quân phục
+*  ngoại động từ
+- (quân sự) mặc quân phục
+@Chuyên ngành kỹ thuật
+-đều
+-đều đặn
+-đều đều
+-đơn điệu
+-đồng đều
+-đồng nhất
+@Lĩnh vực: toán & tin
+-đều, không đổi
+@Lĩnh vực: xây dựng
+-đơn điệu (địa hình)

@@ -1,3 +1,5 @@
-lessee
-	@lessee /le'si:/\n*  danh từ\n- người thuê theo hợp đồng (nhà, đất)\n@Chuyên ngành kinh tế\n-người thuê
-
+lessee	@lessee /le'si:/
+*  danh từ
+- người thuê theo hợp đồng (nhà, đất)
+@Chuyên ngành kinh tế
+-người thuê

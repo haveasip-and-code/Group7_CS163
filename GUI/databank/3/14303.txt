@@ -1,3 +1,2 @@
-delver
-	@delver\n- xem delve
-
+delver	@delver
+- xem delve

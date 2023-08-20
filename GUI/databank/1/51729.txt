@@ -1,3 +1,28 @@
-solder
-	@solder /'soldə/\n*  danh từ\n- hợp kim (để) hàn, chất hàn\n=hard solder+ chất hàn cứng\n=soft solder+ chất hàn mềm\n- sự hàn\n- (nghĩa bóng) người hàn gắn, vật hàn gắn\n*  ngoại động từ\n- hàn\n- (nghĩa bóng) hàn gắn\n*  nội động từ\n- hàn lại\n@Chuyên ngành kỹ thuật\n-hàn\n-hàn thiếc\n-hàn vảy\n-hợp kim để hàn\n-mối hàn vảy\n-sự gắn\n-sự hàn\n@Lĩnh vực: ô tô\n-hợp kim hàn\n@Lĩnh vực: xây dựng\n-thợ hàn vảy\n@Lĩnh vực: cơ khí & công trình\n-thuốc hàn mềm\n-thuốc hàn vẩy\n-vảy hàn
-
+solder	@solder /'soldə/
+*  danh từ
+- hợp kim (để) hàn, chất hàn
+=hard solder+ chất hàn cứng
+=soft solder+ chất hàn mềm
+- sự hàn
+- (nghĩa bóng) người hàn gắn, vật hàn gắn
+*  ngoại động từ
+- hàn
+- (nghĩa bóng) hàn gắn
+*  nội động từ
+- hàn lại
+@Chuyên ngành kỹ thuật
+-hàn
+-hàn thiếc
+-hàn vảy
+-hợp kim để hàn
+-mối hàn vảy
+-sự gắn
+-sự hàn
+@Lĩnh vực: ô tô
+-hợp kim hàn
+@Lĩnh vực: xây dựng
+-thợ hàn vảy
+@Lĩnh vực: cơ khí & công trình
+-thuốc hàn mềm
+-thuốc hàn vẩy
+-vảy hàn

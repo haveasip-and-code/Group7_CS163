@@ -1,3 +1,6 @@
-reconnect
-	@Chuyên ngành kỹ thuật\n-ghép lại\n@Lĩnh vực: toán & tin\n-kết nối lại\n@Lĩnh vực: điện\n-nối lại (mạch)
-
+reconnect	@Chuyên ngành kỹ thuật
+-ghép lại
+@Lĩnh vực: toán & tin
+-kết nối lại
+@Lĩnh vực: điện
+-nối lại (mạch)

@@ -1,3 +1,2 @@
-phonogramic
-	@phonogramic\n- xem phonogram
-
+phonogramic	@phonogramic
+- xem phonogram

@@ -1,3 +1,11 @@
-prospective
-	@prospective /prospective/\n*  tính từ\n- (thuộc) tương lai, sẽ tới về sau\n=this law is purely prospective+ đạo luật này chỉ áp dụng ở tương lai\n=the prospective profit+ món lãi tương lai, món lãi về sau\n@Chuyên ngành kỹ thuật\n-phối cảnh\n@Lĩnh vực: hóa học & vật liệu\n-có triển vọng (khoáng sản)\n@Lĩnh vực: toán & tin\n-sắp tới
-
+prospective	@prospective /prospective/
+*  tính từ
+- (thuộc) tương lai, sẽ tới về sau
+=this law is purely prospective+ đạo luật này chỉ áp dụng ở tương lai
+=the prospective profit+ món lãi tương lai, món lãi về sau
+@Chuyên ngành kỹ thuật
+-phối cảnh
+@Lĩnh vực: hóa học & vật liệu
+-có triển vọng (khoáng sản)
+@Lĩnh vực: toán & tin
+-sắp tới

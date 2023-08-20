@@ -1,3 +1,18 @@
-vane
-	@vane /vein/\n*  danh từ\n- chong chóng gió (để xem chiều gió)\n- cánh, cánh quạt (của chân vịt, cối xay)\n- cánh đuôi (bom)\n@Chuyên ngành kỹ thuật\n-dụng cụ ngắm chuẩn (trắc địa)\n-gàu\n-gàu xúc\n-gờ\n-lá cánh quạt\n-lá tĩnh (động cơ tuabin)\n-mốc trắc địa mỏ\n-mũi tên gió\n-phiến\n-vấu\n@Lĩnh vực: cơ khí & công trình\n-cánh quạt chong chóng
-
+vane	@vane /vein/
+*  danh từ
+- chong chóng gió (để xem chiều gió)
+- cánh, cánh quạt (của chân vịt, cối xay)
+- cánh đuôi (bom)
+@Chuyên ngành kỹ thuật
+-dụng cụ ngắm chuẩn (trắc địa)
+-gàu
+-gàu xúc
+-gờ
+-lá cánh quạt
+-lá tĩnh (động cơ tuabin)
+-mốc trắc địa mỏ
+-mũi tên gió
+-phiến
+-vấu
+@Lĩnh vực: cơ khí & công trình
+-cánh quạt chong chóng

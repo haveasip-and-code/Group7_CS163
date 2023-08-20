@@ -1,3 +1,43 @@
-farm
-	@farm /fɑ:m/\n*  danh từ\n- trại, trang trại, đồn điền\n- nông trường\n=a collective farm+ nông trường tập thể\n=a state farm+ nông trường quốc doanh\n- khu nuôi thuỷ sản\n- trại trẻ\n- (như) farm-house\n*  ngoại động từ\n- cày cấy, trồng trọt\n- cho thuê (nhân công)\n- trông nom trẻ em (ở trại trẻ)\n- trưng (thuê)\n*  nội động từ\n- làm ruộng\n@Chuyên ngành kinh tế\n-đồn điền\n-nông trại\n-nông trang\n-nông trường\n-sự trồng trọt\n-trang trại\n@Chuyên ngành kỹ thuật\n-ấp\n-điền trang\n-nông trại\n-nông trang\n-nông trường\n-trang trại\n@Lĩnh vực: xây dựng\n-trại\n@Chuyên ngành kỹ thuật\n-ấp\n-điền trang\n-nông trại\n-nông trang\n-nông trường\n-trang trại\n@Lĩnh vực: xây dựng\n-trại
-
+farm	
+@farm /fɑ:m/
+*  danh từ
+- trại, trang trại, đồn điền
+- nông trường=a collective farm
++ nông trường tập thể=a state farm
++ nông trường quốc doanh
+- khu nuôi thuỷ sản
+- trại trẻ
+- (như) farm
+-house
+*  ngoại động từ
+- cày cấy, trồng trọt
+- cho thuê (nhân công)
+- trông nom trẻ em (ở trại trẻ)
+- trưng (thuê)
+*  nội động từ
+- làm ruộng
+@Chuyên ngành kinh tế
+-đồn điền
+-nông trại
+-nông trang
+-nông trường
+-sự trồng trọt
+-trang trại
+@Chuyên ngành kỹ thuật
+-ấp
+-điền trang
+-nông trại
+-nông trang
+-nông trường
+-trang trại
+@Lĩnh vực: xây dựng
+-trại
+@Chuyên ngành kỹ thuật
+-ấp
+-điền trang
+-nông trại
+-nông trang
+-nông trường
+-trang trại
+@Lĩnh vực: xây dựng
+-trại

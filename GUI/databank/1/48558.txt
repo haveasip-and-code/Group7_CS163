@@ -1,3 +1,8 @@
-samba
-	@samba /'sæmbə/\n*  danh từ\n- điệu nhảy xamba\n*  nội động từ\n- điệu nhảy xamba\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chương trình Samba
-
+samba	@samba /'sæmbə/
+*  danh từ
+- điệu nhảy xamba
+*  nội động từ
+- điệu nhảy xamba
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chương trình Samba

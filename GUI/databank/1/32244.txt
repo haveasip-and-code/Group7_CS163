@@ -1,3 +1,42 @@
-limit
-	@limit /'limit/\n*  danh từ\n- giới hạn, hạn độ\n=there is no limit to his impudence]+ sự hỗn xược của nó thật không còn giới hạn nào\n- (thông tục) (the limit) người quá quắc; điều quá quắc\n=really you are the limit+ anh (chị) thật là quá quắt\n*  ngoại động từ\n- giới hạn, hạn chế\n- làm giới hạn cho\n@Chuyên ngành kinh tế\n-định giới hạn\n-giới hạn\n-hạn chế\n-hạn định\n-hạn độ\n-hạn giá\n-hạn ngạch\n-mức giới hạn\n-sự hạn chế\n-sự hạn định\n@Chuyên ngành kỹ thuật\n-biên giới\n-cận\n-cữ chặn\n-dung sai\n-giới hạn\n-hạn chế\n-phạm vi\n-ranh giới\n@Lĩnh vực: cơ khí & công trình\n-cữ (chặn)\n@Chuyên ngành kỹ thuật\n-biên giới\n-cận\n-cữ chặn\n-dung sai\n-giới hạn\n-hạn chế\n-phạm vi\n-ranh giới\n@Lĩnh vực: cơ khí & công trình\n-cữ (chặn)
-
+limit	@limit /'limit/
+*  danh từ
+- giới hạn, hạn độ
+=there is no limit to his impudence]+ sự hỗn xược của nó thật không còn giới hạn nào
+- (thông tục) (the limit) người quá quắc; điều quá quắc
+=really you are the limit+ anh (chị) thật là quá quắt
+*  ngoại động từ
+- giới hạn, hạn chế
+- làm giới hạn cho
+@Chuyên ngành kinh tế
+-định giới hạn
+-giới hạn
+-hạn chế
+-hạn định
+-hạn độ
+-hạn giá
+-hạn ngạch
+-mức giới hạn
+-sự hạn chế
+-sự hạn định
+@Chuyên ngành kỹ thuật
+-biên giới
+-cận
+-cữ chặn
+-dung sai
+-giới hạn
+-hạn chế
+-phạm vi
+-ranh giới
+@Lĩnh vực: cơ khí & công trình
+-cữ (chặn)
+@Chuyên ngành kỹ thuật
+-biên giới
+-cận
+-cữ chặn
+-dung sai
+-giới hạn
+-hạn chế
+-phạm vi
+-ranh giới
+@Lĩnh vực: cơ khí & công trình
+-cữ (chặn)

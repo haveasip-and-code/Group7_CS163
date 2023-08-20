@@ -1,3 +1,4 @@
-hashing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-băm
-
+hashing	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-băm

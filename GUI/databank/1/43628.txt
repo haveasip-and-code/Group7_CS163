@@ -1,3 +1,9 @@
-primitiveness
-	@primitiveness\n* danh từ\n- tính nguyên thủy\n- tính thô sơ, sự cổ xưa\n- tính chất gốc (từ, mẫu)\n- <toán><địa> tính nguyên thủy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tính nguyên thủy
-
+primitiveness	@primitiveness
+* danh từ
+- tính nguyên thủy
+- tính thô sơ, sự cổ xưa
+- tính chất gốc (từ, mẫu)
+- <toán><địa> tính nguyên thủy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tính nguyên thủy

@@ -1,3 +1,13 @@
-locust
-	@locust /'loukəst/\n*  danh từ\n- con châu chấu\n- người ăn ngấu nghiến; người phá hoại\n- (như) locust-tree\n@Chuyên ngành kinh tế\n-châu chấu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gỗ bồ kết ba gai\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gỗ bồ kết ba gai
-
+locust	@locust /'loukəst/
+*  danh từ
+- con châu chấu
+- người ăn ngấu nghiến; người phá hoại
+- (như) locust-tree
+@Chuyên ngành kinh tế
+-châu chấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-gỗ bồ kết ba gai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-gỗ bồ kết ba gai

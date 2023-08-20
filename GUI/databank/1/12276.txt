@@ -1,3 +1,4 @@
-coupe
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-xe 2 cửa
-
+coupe	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-xe 2 cửa

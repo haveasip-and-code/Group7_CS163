@@ -1,3 +1,32 @@
-elimination
-	@elimination /i,limi'neiʃn/\n*  danh từ\n- sự loại ra, sự loại trừ\n- (sinh vật học) sự bài tiết\n- sự lờ đi\n- (toán học) sự khử\n- sự rút ra (yếu tố...)\n- (thể dục,thể thao) cuộc đấu loại\n@Chuyên ngành kinh tế\n-sự làm sạch\n-sự loại bỏ\n@Chuyên ngành kỹ thuật\n-bài tiết\n-khử\n-phép khử\n-sự bỏ\n-sự khử\n-sự loại bỏ\n-sự loại trừ\n-tách ra\n-thải ra\n@Chuyên ngành kỹ thuật\n-bài tiết\n-khử\n-phép khử\n-sự bỏ\n-sự khử\n-sự loại bỏ\n-sự loại trừ\n-tách ra\n-thải ra
-
+elimination	
+@elimination /i,limi'neiʃn/
+*  danh từ
+- sự loại ra, sự loại trừ
+- (sinh vật học) sự bài tiết
+- sự lờ đi
+- (toán học) sự khử
+- sự rút ra (yếu tố...)
+- (thể dục,thể thao) cuộc đấu loại
+@Chuyên ngành kinh tế
+-sự làm sạch
+-sự loại bỏ
+@Chuyên ngành kỹ thuật
+-bài tiết
+-khử
+-phép khử
+-sự bỏ
+-sự khử
+-sự loại bỏ
+-sự loại trừ
+-tách ra
+-thải ra
+@Chuyên ngành kỹ thuật
+-bài tiết
+-khử
+-phép khử
+-sự bỏ
+-sự khử
+-sự loại bỏ
+-sự loại trừ
+-tách ra
+-thải ra

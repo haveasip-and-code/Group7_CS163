@@ -1,3 +1,8 @@
-census
-	@census /'sensəs/\n*  danh từ\n- sự điều tra số dân\n@Chuyên ngành kỹ thuật\n-sự kiểm kê\n@Lĩnh vực: điện tử & viễn thông\n-tổng điều tra
-
+census	
+@census /'sensəs/
+*  danh từ
+- sự điều tra số dân
+@Chuyên ngành kỹ thuật
+-sự kiểm kê
+@Lĩnh vực: điện tử & viễn thông
+-tổng điều tra

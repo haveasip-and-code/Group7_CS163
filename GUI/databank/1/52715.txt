@@ -1,3 +1,5 @@
-sprint
-	@sprint /sprint/\n*  danh từ\n- sự chạy nhanh, sự chạy nước rút; nước rút\n*  động từ\n- chạy nước rút, chạy hết tốc lực
-
+sprint	@sprint /sprint/
+*  danh từ
+- sự chạy nhanh, sự chạy nước rút; nước rút
+*  động từ
+- chạy nước rút, chạy hết tốc lực

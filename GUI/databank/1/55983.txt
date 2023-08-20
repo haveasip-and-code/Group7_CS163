@@ -1,3 +1,4 @@
-tenoner
-	@Chuyên ngành kỹ thuật\n-máy cắt mộng\n@Lĩnh vực: xây dựng\n-máy đẽo mộng
-
+tenoner	@Chuyên ngành kỹ thuật
+-máy cắt mộng
+@Lĩnh vực: xây dựng
+-máy đẽo mộng

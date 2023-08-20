@@ -1,3 +1,2 @@
-arguer
-	@arguer\n- xem argue
-
+arguer	@arguer
+- xem argue

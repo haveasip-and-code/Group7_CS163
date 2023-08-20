@@ -1,3 +1,2 @@
-chewable
-	@chewable\n- xem chew
-
+chewable	@chewable
+- xem chew

@@ -1,3 +1,18 @@
-infection
-	@infection /in'fekʃn/\n*  danh từ\n- sự nhiễm, sự làm nhiễm độc, sự làm nhiễm trùng\n- vật lây nhiễm\n- bệnh lây nhiễm\n- sự tiêm nhiễm, sự đầu độc\n- ảnh hưởng lan truyền\n@Chuyên ngành kinh tế\n-sự làm nhiễm\n-sự nhiễm\n@Chuyên ngành kỹ thuật\n-nhiễm bẩn\n-sự ảnh hưởng\n@Lĩnh vực: y học\n-nhiễm trùng\n@Lĩnh vực: toán & tin\n-sự nhiễm độc
-
+infection	
+@infection /in'fekʃn/
+*  danh từ
+- sự nhiễm, sự làm nhiễm độc, sự làm nhiễm trùng
+- vật lây nhiễm
+- bệnh lây nhiễm
+- sự tiêm nhiễm, sự đầu độc
+- ảnh hưởng lan truyền
+@Chuyên ngành kinh tế
+-sự làm nhiễm
+-sự nhiễm
+@Chuyên ngành kỹ thuật
+-nhiễm bẩn
+-sự ảnh hưởng
+@Lĩnh vực: y học
+-nhiễm trùng
+@Lĩnh vực: toán & tin
+-sự nhiễm độc

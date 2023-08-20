@@ -1,3 +1,7 @@
-strangler
-	@strangler\n* danh từ\n- người bóp cổ giết ai\n@Chuyên ngành kỹ thuật\n-van tiết lưu\n@Lĩnh vực: hóa học & vật liệu\n-bộ phận tiết lưu
-
+strangler	@strangler
+* danh từ
+- người bóp cổ giết ai
+@Chuyên ngành kỹ thuật
+-van tiết lưu
+@Lĩnh vực: hóa học & vật liệu
+-bộ phận tiết lưu

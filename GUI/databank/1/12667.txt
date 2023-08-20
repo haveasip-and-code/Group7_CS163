@@ -1,3 +1,11 @@
-crimping
-	@crimping\n- (Tech) bóp chân/đầu nối\n@Chuyên ngành kỹ thuật\n-sự gấp mép\n-sự uốn nếp\n@Lĩnh vực: điện lạnh\n-sự gá\n-sự ghép cuộn mép\n@Lĩnh vực: cơ khí & công trình\n-sự uốn sóng
-
+crimping	
+@crimping
+- (Tech) bóp chân/đầu nối
+@Chuyên ngành kỹ thuật
+-sự gấp mép
+-sự uốn nếp
+@Lĩnh vực: điện lạnh
+-sự gá
+-sự ghép cuộn mép
+@Lĩnh vực: cơ khí & công trình
+-sự uốn sóng

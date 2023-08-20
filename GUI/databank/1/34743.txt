@@ -1,3 +1,4 @@
-micromanipulator
-	@Chuyên ngành kỹ thuật\n-đũa cầm nhỏ\n@Lĩnh vực: y học\n-máy vi thao tác
-
+micromanipulator	@Chuyên ngành kỹ thuật
+-đũa cầm nhỏ
+@Lĩnh vực: y học
+-máy vi thao tác

@@ -1,3 +1,15 @@
-nomenclature
-	@nomenclature /nou'menklətʃə/\n*  danh từ\n- phép đặt tên gọi, danh pháp\n- thuật ngữ (của một ngành khoa học...)\n- (từ hiếm,nghĩa hiếm) mục lục\n@Chuyên ngành kinh tế\n-danh mục (hàng hóa)\n-danh mục hàng hóa\n@Chuyên ngành kỹ thuật\n-cách đặt tên\n-danh mục\n-danh pháp\n-thuật ngữ\n@Lĩnh vực: xây dựng\n-bảng danh pháp
-
+nomenclature	@nomenclature /nou'menklətʃə/
+*  danh từ
+- phép đặt tên gọi, danh pháp
+- thuật ngữ (của một ngành khoa học...)
+- (từ hiếm,nghĩa hiếm) mục lục
+@Chuyên ngành kinh tế
+-danh mục (hàng hóa)
+-danh mục hàng hóa
+@Chuyên ngành kỹ thuật
+-cách đặt tên
+-danh mục
+-danh pháp
+-thuật ngữ
+@Lĩnh vực: xây dựng
+-bảng danh pháp

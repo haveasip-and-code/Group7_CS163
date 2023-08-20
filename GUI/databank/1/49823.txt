@@ -1,3 +1,24 @@
-sensitive
-	@sensitive /'sensitiv/\n*  tính từ\n- có cảm giác; (thuộc) cảm giác\n- dễ cảm, dễ cảm động, dễ cảm xúc; nhạy cảm\n=sensitive to cold+ dễ bị lạnh, yếu chịu lạnh\n- nhạy\n=sensitive scales+ cân nhạy\n=sensitive paper+ giấy (ảnh) bắt nhạy\n=a sensitive ear+ tai thính\n=sensitive market+ thị trường dễ lên xuống bất thường\n*  danh từ\n- người dễ bị thôi miên\n@Chuyên ngành kinh tế\n-dễ cảm ứng\n-nhạy cảm\n@Chuyên ngành kỹ thuật\n-chính xác\n-nhạy\n-nhạy cảm\n@Lĩnh vực: toán & tin\n-có cảm giác\n-có phân biệt\n@Lĩnh vực: cơ khí & công trình\n-được chạy dao bằng tay (máy công cụ)
-
+sensitive	@sensitive /'sensitiv/
+*  tính từ
+- có cảm giác; (thuộc) cảm giác
+- dễ cảm, dễ cảm động, dễ cảm xúc; nhạy cảm
+=sensitive to cold+ dễ bị lạnh, yếu chịu lạnh
+- nhạy
+=sensitive scales+ cân nhạy
+=sensitive paper+ giấy (ảnh) bắt nhạy
+=a sensitive ear+ tai thính
+=sensitive market+ thị trường dễ lên xuống bất thường
+*  danh từ
+- người dễ bị thôi miên
+@Chuyên ngành kinh tế
+-dễ cảm ứng
+-nhạy cảm
+@Chuyên ngành kỹ thuật
+-chính xác
+-nhạy
+-nhạy cảm
+@Lĩnh vực: toán & tin
+-có cảm giác
+-có phân biệt
+@Lĩnh vực: cơ khí & công trình
+-được chạy dao bằng tay (máy công cụ)

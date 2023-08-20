@@ -1,3 +1,4 @@
-pleating
-	@Chuyên ngành kỹ thuật\n-gấp nếp\n@Lĩnh vực: dệt may\n-sự xếp nếp
-
+pleating	@Chuyên ngành kỹ thuật
+-gấp nếp
+@Lĩnh vực: dệt may
+-sự xếp nếp

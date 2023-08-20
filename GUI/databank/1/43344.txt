@@ -1,3 +1,11 @@
-preprint
-	@preprint\n* danh từ\n- việc in báo cáo, diễn văn trước khi đọc\n- bài nghiên cứu phát dưới hình thức sơ bộ trước khi xuất bản\n- phần in trước (td quảng cáo) trước bài chính\n* ngoại động từ\n- in trước\n@Chuyên ngành kinh tế\n-bản in gốc\n@Chuyên ngành kỹ thuật\n-bản in trước
-
+preprint	@preprint
+* danh từ
+- việc in báo cáo, diễn văn trước khi đọc
+- bài nghiên cứu phát dưới hình thức sơ bộ trước khi xuất bản
+- phần in trước (td quảng cáo) trước bài chính
+* ngoại động từ
+- in trước
+@Chuyên ngành kinh tế
+-bản in gốc
+@Chuyên ngành kỹ thuật
+-bản in trước

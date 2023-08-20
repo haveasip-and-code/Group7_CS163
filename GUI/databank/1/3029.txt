@@ -1,3 +1,22 @@
-apprentice
-	@apprentice /ə'prentis/\n*  danh từ\n- người học việc, người học nghề\n=to bind somebody apprentice+ nhận cho ai học việc\n=to be bound apprentice to a tailor+ học nghề ở nhà một ông thợ may\n- người mới vào nghề, người mới tập sự\n- (hàng hải) thuỷ thủ mới vào nghề; hoa tiêu mới tập sự\n*  ngoại động từ\n- cho học việc, cho học nghề\n=to apprentice somebody to a tailor+ cho ai học việc ở nhà ông thợ may\n@Chuyên ngành kinh tế\n-người học nghề\n-người học việc\n-người học viên\n@Chuyên ngành kỹ thuật\n-mái che\n-mái một dốc\n@Lĩnh vực: xây dựng\n-nhà một mái\n@Lĩnh vực: cơ khí & công trình\n-thợ học nghề
-
+apprentice	
+@apprentice /ə'prentis/
+*  danh từ
+- người học việc, người học nghề=to bind somebody apprentice
++ nhận cho ai học việc=to be bound apprentice to a tailor
++ học nghề ở nhà một ông thợ may
+- người mới vào nghề, người mới tập sự
+- (hàng hải) thuỷ thủ mới vào nghề; hoa tiêu mới tập sự
+*  ngoại động từ
+- cho học việc, cho học nghề=to apprentice somebody to a tailor
++ cho ai học việc ở nhà ông thợ may
+@Chuyên ngành kinh tế
+-người học nghề
+-người học việc
+-người học viên
+@Chuyên ngành kỹ thuật
+-mái che
+-mái một dốc
+@Lĩnh vực: xây dựng
+-nhà một mái
+@Lĩnh vực: cơ khí & công trình
+-thợ học nghề

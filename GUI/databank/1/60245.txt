@@ -1,3 +1,5 @@
-unread
-	@unread /' n'red/\n*  tính từ\n- không đọc, không ai đọc\n=an unread book+ một quyển sách không ai đọc\n- không có học, dốt nát
-
+unread	@unread /' n'red/
+*  tính từ
+- không đọc, không ai đọc
+=an unread book+ một quyển sách không ai đọc
+- không có học, dốt nát

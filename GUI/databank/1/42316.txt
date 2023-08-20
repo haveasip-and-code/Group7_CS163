@@ -1,3 +1,5 @@
-polarimetry
-	@polarimetry\n- xem polarimeter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đo phân cực
-
+polarimetry	@polarimetry
+- xem polarimeter
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đo phân cực

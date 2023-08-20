@@ -1,3 +1,74 @@
-collar
-	@collar /'kɔlə/\n*  danh từ\n- cổ áo\n=soft collar+ cổ mềm\n=stiff collar+ cổ cứng\n=detachable collar+ cổ rời\n- vòng cổ (chó, ngựa)\n- (kỹ thuật) vòng đai; vòng đệm\n- vòng lông cổ (chim, thú)\n- chả cuộn (thịt, cá)\n!byron collar\n- cổ hở\n!to be in collar\n- đang làm việc, đang có làm việc\n!to be out of collar\n- không có việc làm, thất nghiệp\n!to work against the collar\n- làm việc hết sức căng thẳng; vất vả cực nhọc\n*  ngoại động từ\n- tóm, tóm cổ, bắt\n- (từ lóng) chiếm, lây, xoáy\n- cuôn lại mà nướng (thịt, cá)\n- (kỹ thuật) đóng đai\n- (thể dục,thể thao) chặn (đối phương đang cầm bóng) (bóng bầu dục)\n@Chuyên ngành kinh tế\n-chả cuộn\n-cuộn chả\n-vòng đai\n@Chuyên ngành kỹ thuật\n-bạc\n-bạc nối\n-bắt\n-bích\n-chỗ phình\n-đai\n-đai cọc\n-đệm\n-đệm bít\n-gờ\n-khớp nối\n-nẹp giữ kính\n-măng song\n-mặt bích\n-miệng giếng\n-ống\n-ống kẹp\n-ống lồng\n-ống lót\n-ống nối\n-ống xẻ\n-phễu nạp liệu\n-vai\n-vành\n-vành cổ\n-vành đai\n-vành tụ điện\n-vành tỳ\n-vỏ bọc\n-vòng\n-vòng bít\n-vòng đai\n-vòng kẹp\n@Lĩnh vực: xây dựng\n-bích chống thấm\n-vòng điện\n@Lĩnh vực: cơ khí & công trình\n-đai siết dạng vòng\n-vành tì\n@Lĩnh vực: toán & tin\n-vòm đệm\n@Lĩnh vực: ô tô\n-vòng đệm loong đền\n@Lĩnh vực: y học\n-vòng, vòng cổ
-
+collar	@collar /'kɔlə/
+*  danh từ
+- cổ áo
+=soft collar+ cổ mềm
+=stiff collar+ cổ cứng
+=detachable collar+ cổ rời
+- vòng cổ (chó, ngựa)
+- (kỹ thuật) vòng đai; vòng đệm
+- vòng lông cổ (chim, thú)
+- chả cuộn (thịt, cá)
+!byron collar
+- cổ hở
+!to be in collar
+- đang làm việc, đang có làm việc
+!to be out of collar
+- không có việc làm, thất nghiệp
+!to work against the collar
+- làm việc hết sức căng thẳng; vất vả cực nhọc
+*  ngoại động từ
+- tóm, tóm cổ, bắt
+- (từ lóng) chiếm, lây, xoáy
+- cuôn lại mà nướng (thịt, cá)
+- (kỹ thuật) đóng đai
+- (thể dục,thể thao) chặn (đối phương đang cầm bóng) (bóng bầu dục)
+@Chuyên ngành kinh tế
+-chả cuộn
+-cuộn chả
+-vòng đai
+@Chuyên ngành kỹ thuật
+-bạc
+-bạc nối
+-bắt
+-bích
+-chỗ phình
+-đai
+-đai cọc
+-đệm
+-đệm bít
+-gờ
+-khớp nối
+-nẹp giữ kính
+-măng song
+-mặt bích
+-miệng giếng
+-ống
+-ống kẹp
+-ống lồng
+-ống lót
+-ống nối
+-ống xẻ
+-phễu nạp liệu
+-vai
+-vành
+-vành cổ
+-vành đai
+-vành tụ điện
+-vành tỳ
+-vỏ bọc
+-vòng
+-vòng bít
+-vòng đai
+-vòng kẹp
+@Lĩnh vực: xây dựng
+-bích chống thấm
+-vòng điện
+@Lĩnh vực: cơ khí & công trình
+-đai siết dạng vòng
+-vành tì
+@Lĩnh vực: toán & tin
+-vòm đệm
+@Lĩnh vực: ô tô
+-vòng đệm loong đền
+@Lĩnh vực: y học
+-vòng, vòng cổ

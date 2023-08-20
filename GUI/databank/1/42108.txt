@@ -1,3 +1,2 @@
-plighter
-	@plighter\n- xem plight
-
+plighter	@plighter
+- xem plight

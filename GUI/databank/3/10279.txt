@@ -1,3 +1,31 @@
-collector
-	@collector /kə'lektə/\n*  danh từ\n- người thu thập, người sưu tầm; người thu (thuế, tiền...)\n- người đi quyên\n- (kỹ thuật) cổ góp, vành góp, cực góp, ống góp\n@Chuyên ngành kinh tế\n-người thu (thuế, tiền...)\n-thiết bị thu\n@Chuyên ngành kỹ thuật\n-bộ gom\n-bộ phận thu góp\n-mương tập trung nước\n-ống góp\n-ống thu\n-ống tụ\n-tầng chứa\n-vành góp\n-xe thu gom rác\n@Lĩnh vực: điện\n-bộ thu ống góp\n-vành góp (điện)\n@Lĩnh vực: điện lạnh\n-chất góp\n-góp điện\n@Lĩnh vực: cơ khí & công trình\n-cổ góp\n-cổ góp điện\n@Lĩnh vực: xây dựng\n-cực thâu\n-đường gom\n-ống thu thập nước
-
+collector	@collector /kə'lektə/
+*  danh từ
+- người thu thập, người sưu tầm; người thu (thuế, tiền...)
+- người đi quyên
+- (kỹ thuật) cổ góp, vành góp, cực góp, ống góp
+@Chuyên ngành kinh tế
+-người thu (thuế, tiền...)
+-thiết bị thu
+@Chuyên ngành kỹ thuật
+-bộ gom
+-bộ phận thu góp
+-mương tập trung nước
+-ống góp
+-ống thu
+-ống tụ
+-tầng chứa
+-vành góp
+-xe thu gom rác
+@Lĩnh vực: điện
+-bộ thu ống góp
+-vành góp (điện)
+@Lĩnh vực: điện lạnh
+-chất góp
+-góp điện
+@Lĩnh vực: cơ khí & công trình
+-cổ góp
+-cổ góp điện
+@Lĩnh vực: xây dựng
+-cực thâu
+-đường gom
+-ống thu thập nước

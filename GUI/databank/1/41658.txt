@@ -1,3 +1,14 @@
-pint
-	@pint /paint/\n*  danh từ\n- Panh (đơn vị đo lường bằng 0, 57 lít ở Mỹ)\n@Chuyên ngành kinh tế\n-panh, đơn vị đo lường chất lỏng và chất khô\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đơn vị đo chất lỏng (0150)\n@Lĩnh vực: cơ khí & công trình\n-gần nửa lít\n@Lĩnh vực: hóa học & vật liệu\n-pin (đơn vị đo lường)\n@Lĩnh vực: điện\n-pintơ (0, 568 lit)
-
+pint	@pint /paint/
+*  danh từ
+- Panh (đơn vị đo lường bằng 0, 57 lít ở Mỹ)
+@Chuyên ngành kinh tế
+-panh, đơn vị đo lường chất lỏng và chất khô
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đơn vị đo chất lỏng (0150)
+@Lĩnh vực: cơ khí & công trình
+-gần nửa lít
+@Lĩnh vực: hóa học & vật liệu
+-pin (đơn vị đo lường)
+@Lĩnh vực: điện
+-pintơ (0, 568 lit)

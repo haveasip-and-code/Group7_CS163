@@ -1,3 +1,12 @@
-sweeper
-	@sweeper /'swi:pə/\n*  danh từ\n- người quét; máy quét\n- người ở (ở Ân độ)\n@Chuyên ngành kỹ thuật\n-máy quét dọn\n@Lĩnh vực: cơ khí & công trình\n-chổi cơ khí\n-mặt quét\n@Lĩnh vực: xây dựng\n-dụng cụ nạo ống (thoát nước)\n-xe quét đường
-
+sweeper	@sweeper /'swi:pə/
+*  danh từ
+- người quét; máy quét
+- người ở (ở Ân độ)
+@Chuyên ngành kỹ thuật
+-máy quét dọn
+@Lĩnh vực: cơ khí & công trình
+-chổi cơ khí
+-mặt quét
+@Lĩnh vực: xây dựng
+-dụng cụ nạo ống (thoát nước)
+-xe quét đường

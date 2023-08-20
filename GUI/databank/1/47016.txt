@@ -1,3 +1,6 @@
-res
-	@res\n* danh từ\n- số nhiều\n- đồ vật\n= res immobilis+bất động sản\n= res mobilis+động sản
-
+res	@res
+* danh từ
+- số nhiều
+- đồ vật
+= res immobilis+bất động sản
+= res mobilis+động sản

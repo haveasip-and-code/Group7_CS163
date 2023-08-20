@@ -1,3 +1,24 @@
-kickback
-	@kickback /'kikbæk/\n*  danh từ\n- sự phản ứng mãnh liệt\n- (từ Mỹ,nghĩa Mỹ) sự trả lại (của ăn cắp hoặc một phần số tiền do bị ép buộc hay thoả thuận riêng mà phải nhận...)\n@Chuyên ngành kinh tế\n-đá đi\n-đuổi việc\n-hoa hồng lén lút\n-phần trăm hoa hồng\n-tiền lại quả\n@Lĩnh vực: ttck\n-tiền đút lót, tiền cò\n@Chuyên ngành kỹ thuật\n-lực đẩy\n@Lĩnh vực: vật lý\n-lực đẩy ngược\n@Lĩnh vực: ô tô\n-sự phản hồi\n@Chuyên ngành kỹ thuật\n-lực đẩy\n@Lĩnh vực: vật lý\n-lực đẩy ngược\n@Lĩnh vực: ô tô\n-sự phản hồi
-
+kickback	@kickback /'kikbæk/
+*  danh từ
+- sự phản ứng mãnh liệt
+- (từ Mỹ,nghĩa Mỹ) sự trả lại (của ăn cắp hoặc một phần số tiền do bị ép buộc hay thoả thuận riêng mà phải nhận...)
+@Chuyên ngành kinh tế
+-đá đi
+-đuổi việc
+-hoa hồng lén lút
+-phần trăm hoa hồng
+-tiền lại quả
+@Lĩnh vực: ttck
+-tiền đút lót, tiền cò
+@Chuyên ngành kỹ thuật
+-lực đẩy
+@Lĩnh vực: vật lý
+-lực đẩy ngược
+@Lĩnh vực: ô tô
+-sự phản hồi
+@Chuyên ngành kỹ thuật
+-lực đẩy
+@Lĩnh vực: vật lý
+-lực đẩy ngược
+@Lĩnh vực: ô tô
+-sự phản hồi

@@ -1,3 +1,9 @@
-zap
-	@zap\n* danh từ\n- sự phấn khởi dạt dào\n* ngoại động từ\n- hạ gục\n* nội động từ\n- vụt đi, vọt\n@Chuyên ngành kỹ thuật\n-sự sửa đổi
-
+zap	@zap
+* danh từ
+- sự phấn khởi dạt dào
+* ngoại động từ
+- hạ gục
+* nội động từ
+- vụt đi, vọt
+@Chuyên ngành kỹ thuật
+-sự sửa đổi

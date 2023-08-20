@@ -1,3 +1,7 @@
-gunboat
-	@gunboat\n* danh từ\n- tàu chiến, pháo hạm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-goòng lật
-
+gunboat	
+@gunboat
+* danh từ
+- tàu chiến, pháo hạm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-goòng lật

@@ -1,3 +1,14 @@
-demodulation
-	@demodulation\n- (Tech) sự hoàn điệu\n@Chuyên ngành kỹ thuật\n-giải điều biến\n-sự hoàn điều\n@Lĩnh vực: điện tử & viễn thông\n-giải điều chế\n-sự tách sóng\n@Lĩnh vực: điện lạnh\n-sự giải điều\n-sự hoàn điệu\n@Lĩnh vực: xây dựng\n-sự hoàn điêu
-
+demodulation	
+@demodulation
+- (Tech) sự hoàn điệu
+@Chuyên ngành kỹ thuật
+-giải điều biến
+-sự hoàn điều
+@Lĩnh vực: điện tử & viễn thông
+-giải điều chế
+-sự tách sóng
+@Lĩnh vực: điện lạnh
+-sự giải điều
+-sự hoàn điệu
+@Lĩnh vực: xây dựng
+-sự hoàn điêu

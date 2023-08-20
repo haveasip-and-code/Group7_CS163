@@ -1,3 +1,5 @@
-toppings
-	@Chuyên ngành kỹ thuật\n-dầu nhẹ\n@Lĩnh vực: hóa học & vật liệu\n-sản phẩm cất ngọn\n-sản phẩn ngọn
-
+toppings	@Chuyên ngành kỹ thuật
+-dầu nhẹ
+@Lĩnh vực: hóa học & vật liệu
+-sản phẩm cất ngọn
+-sản phẩn ngọn

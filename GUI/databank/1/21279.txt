@@ -1,3 +1,49 @@
-flame
-	@flame /fleim/\n*  danh từ\n- ngọn lửa\n=to be in flames+ đang cháy\n=to burst into flames+ bốc cháy\n- ánh hồng\n=the flames of sunset+ ánh hồng lúc mặt trời lặn\n- cơn, cơn bừng bừng\n=a flame of snger+ cơn giận\n=a flame of infignation+ cơn phẫn nộ\n-(đùa cợt) người yêu, người tình\n=an old flame of mine+ một trong những người tình cũ của tôi\n!to commit to the flames\n- đốt cháy\n!in fan the flame\n- đổ dầu vào lửa\n*  nội động từ\n- ((thường) + away,  forth,  out,  up) cháy, bốc cháy, cháy bùng\n- bùng lên, bừng lên, nổ ra\n=face flames with anger+ mặt đỏ bừng vì tức giận\n=anger flamed out+ cơn giận nổi lên đùng đùng\n- phừng phừng (như lửa)\n*  ngoại động từ\n- ra (hiệu) bằng lửa\n- hơ lửa\n=sterilized by flaming+ khử trùng bằng cách hơ vào lửa\n!to flame out\n- bốc cháy, cháy bùng\n- nổi giận đùng đùng, nổi xung\n!to flame up nh to flame out\n- thẹn đỏ bừng mặt\n@Chuyên ngành kỹ thuật\n-đám cháy\n-đốt\n-hỏa hoạn\n-khiêu khích\n-lửa\n-ngọn lửa\n-xúc phạm\n@Lĩnh vực: toán & tin\n-gây khiêu khích\n@Chuyên ngành kỹ thuật\n-đám cháy\n-đốt\n-hỏa hoạn\n-khiêu khích\n-lửa\n-ngọn lửa\n-xúc phạm\n@Lĩnh vực: toán & tin\n-gây khiêu khích
-
+flame	
+@flame /fleim/
+*  danh từ
+- ngọn lửa=to be in flames
++ đang cháy=to burst into flames
++ bốc cháy
+- ánh hồng=the flames of sunset
++ ánh hồng lúc mặt trời lặn
+- cơn, cơn bừng bừng=a flame of snger
++ cơn giận=a flame of infignation
++ cơn phẫn nộ
+-(đùa cợt) người yêu, người tình=an old flame of mine
++ một trong những người tình cũ của tôi!to commit to the flames
+- đốt cháy!in fan the flame
+- đổ dầu vào lửa
+*  nội động từ
+- ((thường) 
++ away,  forth,  out,  up) cháy, bốc cháy, cháy bùng
+- bùng lên, bừng lên, nổ ra=face flames with anger
++ mặt đỏ bừng vì tức giận=anger flamed out
++ cơn giận nổi lên đùng đùng
+- phừng phừng (như lửa)
+*  ngoại động từ
+- ra (hiệu) bằng lửa
+- hơ lửa=sterilized by flaming
++ khử trùng bằng cách hơ vào lửa!to flame out
+- bốc cháy, cháy bùng
+- nổi giận đùng đùng, nổi xung!to flame up nh to flame out
+- thẹn đỏ bừng mặt
+@Chuyên ngành kỹ thuật
+-đám cháy
+-đốt
+-hỏa hoạn
+-khiêu khích
+-lửa
+-ngọn lửa
+-xúc phạm
+@Lĩnh vực: toán & tin
+-gây khiêu khích
+@Chuyên ngành kỹ thuật
+-đám cháy
+-đốt
+-hỏa hoạn
+-khiêu khích
+-lửa
+-ngọn lửa
+-xúc phạm
+@Lĩnh vực: toán & tin
+-gây khiêu khích

@@ -1,3 +1,9 @@
-verbose
-	@verbose /və:'bous/\n*  tính từ\n- nói dài\n=a verbose speaker+ người nói dài\n- dài dòng\n=a verbose argument+ lý lẽ dài dòng\n@Chuyên ngành kỹ thuật\n-dài dòng\n-rườm rà
-
+verbose	@verbose /və:'bous/
+*  tính từ
+- nói dài
+=a verbose speaker+ người nói dài
+- dài dòng
+=a verbose argument+ lý lẽ dài dòng
+@Chuyên ngành kỹ thuật
+-dài dòng
+-rườm rà

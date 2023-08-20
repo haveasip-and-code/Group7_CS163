@@ -1,3 +1,59 @@
-office
-	@office /'ɔfis/\n*  danh từ\n- sự giúp đỡ\n=by the good offices of...+ nhờ sự giúp đỡ của...\n- nhiệm vụ\n- chức vụ\n=to take (enter upon) office+ nhận chức, nhậm chức\n=to resign (leave) office+ từ chức\n- lễ nghi\n=to perform the last offices to someone+ làm lễ tang cho ai\n- (tôn giáo) hình thức thờ phụng; kính\n=to say office+ đọc kinh, cầu kinh\n!Office for the Dead\n- lễ truy điệu\n- cơ quan, sở, văn phòng, phòng giấy\n- chi nhánh, cơ sở (hãng buôn)\n- bộ\n!the Foreign Office\n- bộ Ngoại giao (Anh)\n- (số nhiều) nhà phụ, chái, kho\n- (từ lóng) lời gợi ý, hiệu\n=to give the office+ ra hiệu\n=to take the office+ nhận (nắm được) ý ra hiệu\n!the Holy Office\n- toà án tôn giáo\n@Chuyên ngành kinh tế\n-chức vụ\n-cơ quan\n-cơ quan bộ\n-công ty\n-doanh sở\n-hãng\n-nhân viên\n-nhiệm vụ\n-quan chức\n-sở\n-trụ sở\n-trụ sở làm việc\n-văn phòng\n-viên chức\n@Chuyên ngành kỹ thuật\n-bộ\n-công sở\n-cục\n-đài\n-nhiệm vụ\n-nơi làm việc\n-phòng\n-sở\n-tổng đài\n-trách nhiệm\n-trạm\n-trạm điện thoại\n-văn phòng\n@Lĩnh vực: toán & tin\n-chức vụ\n@Lĩnh vực: xây dựng\n-gian bưu điện\n-vụ
-
+office	@office /'ɔfis/
+*  danh từ
+- sự giúp đỡ
+=by the good offices of...+ nhờ sự giúp đỡ của...
+- nhiệm vụ
+- chức vụ
+=to take (enter upon) office+ nhận chức, nhậm chức
+=to resign (leave) office+ từ chức
+- lễ nghi
+=to perform the last offices to someone+ làm lễ tang cho ai
+- (tôn giáo) hình thức thờ phụng; kính
+=to say office+ đọc kinh, cầu kinh
+!Office for the Dead
+- lễ truy điệu
+- cơ quan, sở, văn phòng, phòng giấy
+- chi nhánh, cơ sở (hãng buôn)
+- bộ
+!the Foreign Office
+- bộ Ngoại giao (Anh)
+- (số nhiều) nhà phụ, chái, kho
+- (từ lóng) lời gợi ý, hiệu
+=to give the office+ ra hiệu
+=to take the office+ nhận (nắm được) ý ra hiệu
+!the Holy Office
+- toà án tôn giáo
+@Chuyên ngành kinh tế
+-chức vụ
+-cơ quan
+-cơ quan bộ
+-công ty
+-doanh sở
+-hãng
+-nhân viên
+-nhiệm vụ
+-quan chức
+-sở
+-trụ sở
+-trụ sở làm việc
+-văn phòng
+-viên chức
+@Chuyên ngành kỹ thuật
+-bộ
+-công sở
+-cục
+-đài
+-nhiệm vụ
+-nơi làm việc
+-phòng
+-sở
+-tổng đài
+-trách nhiệm
+-trạm
+-trạm điện thoại
+-văn phòng
+@Lĩnh vực: toán & tin
+-chức vụ
+@Lĩnh vực: xây dựng
+-gian bưu điện
+-vụ

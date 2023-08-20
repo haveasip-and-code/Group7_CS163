@@ -1,3 +1,14 @@
-proportionality
-	@proportionality /proportionality/\n*  danh từ\n- tính cân xứng, tính cân đối\n- tính tỷ lệ\n@Chuyên ngành kỹ thuật\n-cùng kích thước\n@Lĩnh vực: xây dựng\n-cùng cớ cân đối\n-cùng cớ tỉ lệ\n-sự hợp cỡ\n@Lĩnh vực: điện lạnh\n-sự tỷ lệ\n@Lĩnh vực: toán & tin\n-tính tỷ lệ
-
+proportionality	@proportionality /proportionality/
+*  danh từ
+- tính cân xứng, tính cân đối
+- tính tỷ lệ
+@Chuyên ngành kỹ thuật
+-cùng kích thước
+@Lĩnh vực: xây dựng
+-cùng cớ cân đối
+-cùng cớ tỉ lệ
+-sự hợp cỡ
+@Lĩnh vực: điện lạnh
+-sự tỷ lệ
+@Lĩnh vực: toán & tin
+-tính tỷ lệ

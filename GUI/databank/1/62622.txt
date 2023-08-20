@@ -1,3 +1,3 @@
-webless
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-không thành mạng
-
+webless	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-không thành mạng

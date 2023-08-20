@@ -1,3 +1,24 @@
-contest
-	@contest /kən'test/\n*  danh từ\n- cuộc tranh luận, cuộc tranh cãi\n=beyond contest+ không thể tranh cãi vào đâu được nữa\n- (thể dục,thể thao) cuộc thi; trận đấu, trận giao tranh\n=musical contest+ cuộc thi âm nhạc\n=a baxing contest+ trận đấu quyền Anh\n- cuộc chiến đấu, cuộc đấu tranh\n*  động từ\n- tranh cãi, tranh luận (một vấn đề gì với ai)\n=to contest with someone+ tranh cãi với ai\n- đặt vấn đề nghi ngờ không thừa nhận\n=to contest someone's right+ không thừa nhận quyền của ai\n- tranh, tranh giành, tranh đoạt\n=to contest for a prize+ tranh giải\n=the enemy contested every inch of ground+ quân địch cố giành từng tất đất\n- tranh cử (nghị viện)\n=to contest a seat in the parliament+ tranh một ghế ở nghị viện\n=a contested election+ cuộn bầu cử có nhiều người ra tranh cử\n@Chuyên ngành kinh tế\n-cuộc thi (quảng cáo)\n-thi đua có thưởng\n-tranh luận
-
+contest	
+@contest /kən'test/
+*  danh từ
+- cuộc tranh luận, cuộc tranh cãi=beyond contest
++ không thể tranh cãi vào đâu được nữa
+- (thể dục,thể thao) cuộc thi; trận đấu, trận giao tranh=musical contest
++ cuộc thi âm nhạc=a baxing contest
++ trận đấu quyền Anh
+- cuộc chiến đấu, cuộc đấu tranh
+*  động từ
+- tranh cãi, tranh luận (một vấn đề gì với ai)=to contest with someone
++ tranh cãi với ai
+- đặt vấn đề nghi ngờ không thừa nhận=to contest someone's right
++ không thừa nhận quyền của ai
+- tranh, tranh giành, tranh đoạt=to contest for a prize
++ tranh giải=the enemy contested every inch of ground
++ quân địch cố giành từng tất đất
+- tranh cử (nghị viện)=to contest a seat in the parliament
++ tranh một ghế ở nghị viện=a contested election
++ cuộn bầu cử có nhiều người ra tranh cử
+@Chuyên ngành kinh tế
+-cuộc thi (quảng cáo)
+-thi đua có thưởng
+-tranh luận

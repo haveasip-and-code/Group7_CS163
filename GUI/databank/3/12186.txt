@@ -1,3 +1,2 @@
-coucher
-	@coucher\n- xem couch
-
+coucher	@coucher
+- xem couch

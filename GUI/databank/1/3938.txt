@@ -1,3 +1,15 @@
-audiometer
-	@audiometer /,ɔ:di'ɔmitə/\n*  danh từ\n- cái đo sức nghe\n@Chuyên ngành kinh tế\n-máy báo khán giả\n-máy đếm khán thính giả (nghe phát thanh, truyền hình)\n@Chuyên ngành kỹ thuật\n-âm kế\n@Lĩnh vực: điện lạnh\n-máy đo thính lực\n@Lĩnh vực: điện\n-thích lực kế\n@Lĩnh vực: y học\n-thính lực kế
-
+audiometer	
+@audiometer /,ɔ:di'ɔmitə/
+*  danh từ
+- cái đo sức nghe
+@Chuyên ngành kinh tế
+-máy báo khán giả
+-máy đếm khán thính giả (nghe phát thanh, truyền hình)
+@Chuyên ngành kỹ thuật
+-âm kế
+@Lĩnh vực: điện lạnh
+-máy đo thính lực
+@Lĩnh vực: điện
+-thích lực kế
+@Lĩnh vực: y học
+-thính lực kế

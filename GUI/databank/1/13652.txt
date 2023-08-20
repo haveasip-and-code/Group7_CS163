@@ -1,3 +1,4 @@
-deaminase
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-deaminaza
-
+deaminase	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-deaminaza

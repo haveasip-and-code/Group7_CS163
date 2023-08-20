@@ -1,3 +1,6 @@
-impedance
-	@impedance /im'pi:dəns/\n*  danh từ\n- (điện học) trở kháng\n=internal impedance+ trở kháng trong\n=acoustic impedance+ trở kháng âm học
-
+impedance	
+@impedance /im'pi:dəns/
+*  danh từ
+- (điện học) trở kháng=internal impedance
++ trở kháng trong=acoustic impedance
++ trở kháng âm học

@@ -1,3 +1,13 @@
-pinpoint
-	@pinpoint\n* danh từ\n- đầu đinh ghim; <bóng> vật nhỏ và nhọn\n- <đngữ><qsự> rất nhỏ đòi hỏi sự chính xác tuyệt đối khi ném bom (khi bắn phá mục tiêu)\n* ngoại động từ\n- xác định, định vị (cái gì) chính xác; định nghĩa (cái gì) chính xác\n@Chuyên ngành kỹ thuật\n-chấm\n-chỉ rõ\n@Lĩnh vực: điện\n-chỉ xạ\n@Lĩnh vực: xây dựng\n-đầu ghim
-
+pinpoint	@pinpoint
+* danh từ
+- đầu đinh ghim; <bóng> vật nhỏ và nhọn
+- <đngữ><qsự> rất nhỏ đòi hỏi sự chính xác tuyệt đối khi ném bom (khi bắn phá mục tiêu)
+* ngoại động từ
+- xác định, định vị (cái gì) chính xác; định nghĩa (cái gì) chính xác
+@Chuyên ngành kỹ thuật
+-chấm
+-chỉ rõ
+@Lĩnh vực: điện
+-chỉ xạ
+@Lĩnh vực: xây dựng
+-đầu ghim

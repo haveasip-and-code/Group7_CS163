@@ -1,3 +1,19 @@
-clothing
-	@clothing /'klouðiɳ/\n*  danh từ\n- quần áo, y phục\n=summer clothing+ quần áo mùa hè\n@Chuyên ngành kinh tế\n-sự nhồi thịt\n@Chuyên ngành kỹ thuật\n-bao\n-bọc\n-che phủ\n-lớp áo\n-lớp bọc\n-lớp phủ\n-quần áo\n-sự đông tụ\n-sự phủ\n-sự trát vữa\n-sự vón cục\n-vỏ
-
+clothing	@clothing /'klouðiɳ/
+*  danh từ
+- quần áo, y phục
+=summer clothing+ quần áo mùa hè
+@Chuyên ngành kinh tế
+-sự nhồi thịt
+@Chuyên ngành kỹ thuật
+-bao
+-bọc
+-che phủ
+-lớp áo
+-lớp bọc
+-lớp phủ
+-quần áo
+-sự đông tụ
+-sự phủ
+-sự trát vữa
+-sự vón cục
+-vỏ

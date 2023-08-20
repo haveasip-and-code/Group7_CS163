@@ -1,3 +1,9 @@
-dotted
-	@dotted\n* tính từ\n- có nhiều chấm\n= dotted line+đường nhiều chấm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chấm cách\n-chấm chấm (...)
-
+dotted	
+@dotted
+* tính từ
+- có nhiều chấm= dotted line
++đường nhiều chấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chấm cách
+-chấm chấm (...)

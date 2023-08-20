@@ -1,3 +1,2 @@
-pharmacologic
-	@pharmacologic\n- xem pharmacology
-
+pharmacologic	@pharmacologic
+- xem pharmacology

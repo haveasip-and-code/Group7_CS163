@@ -1,3 +1,2 @@
-cine
-	@cine\n- điện ảnh
-
+cine	@cine
+- điện ảnh

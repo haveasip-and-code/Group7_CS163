@@ -1,3 +1,11 @@
-associative
-	@associative /ə'souʃjətiv/\n*  tính từ\n- liên tưởng\n- kết hợp, liên hợp, liên kết; liên đới\n=associative algebra+ đại số kết hợp\n=associative law+ luật kết hợp\n=associative relation+ liên hệ kết hợp\n@Chuyên ngành kỹ thuật\n-kết hợp\n-liên kết
-
+associative	
+@associative /ə'souʃjətiv/
+*  tính từ
+- liên tưởng
+- kết hợp, liên hợp, liên kết; liên đới=associative algebra
++ đại số kết hợp=associative law
++ luật kết hợp=associative relation
++ liên hệ kết hợp
+@Chuyên ngành kỹ thuật
+-kết hợp
+-liên kết

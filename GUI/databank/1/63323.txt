@@ -1,3 +1,17 @@
-wrapper
-	@wrapper /'ræpə/\n*  danh từ\n- tờ bọc (sách); băng (tờ báo); lá áo (điếu xì gà)\n- người bao gói; giấy gói, vải gói\n- áo choàng đàn bà (mặc trong nhà)\n@Chuyên ngành kỹ thuật\n-bao bì\n-giấy gói\n-vỏ hộp\n@Lĩnh vực: hóa học & vật liệu\n-đồ bọc\n@Lĩnh vực: xây dựng\n-giấy bọc ngoài\n@Lĩnh vực: toán & tin\n-trình bao bọc\n@Lĩnh vực: dệt may\n-vải bọc áo ngủ
-
+wrapper	@wrapper /'ræpə/
+*  danh từ
+- tờ bọc (sách); băng (tờ báo); lá áo (điếu xì gà)
+- người bao gói; giấy gói, vải gói
+- áo choàng đàn bà (mặc trong nhà)
+@Chuyên ngành kỹ thuật
+-bao bì
+-giấy gói
+-vỏ hộp
+@Lĩnh vực: hóa học & vật liệu
+-đồ bọc
+@Lĩnh vực: xây dựng
+-giấy bọc ngoài
+@Lĩnh vực: toán & tin
+-trình bao bọc
+@Lĩnh vực: dệt may
+-vải bọc áo ngủ

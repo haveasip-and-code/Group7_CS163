@@ -1,3 +1,30 @@
-bread
-	@bread /bred/\n*  ngoại động từ\n- làm thủng\n- (quân sự) chọc thủng, phá vỡ (tuyến phòng thủ)\n*  nội động từ\n- nhảy lên khỏi mặt nước (cá voi)\n*  danh từ\n- bánh mì\n=a loaf of bread+ ổ bánh mì\n- (nghĩa bóng) miếng ăn, kế sinh nhai\n=daily bread+ miếng ăn hàng ngày\n!bread and butter\n- bánh mì phết bơ\n- miếng ăn; kế sinh nhai\n!bread and cheese\n- miếng ăn; kế sinh nhai\n- cuộc sống thanh đạm\n!bread buttered on both sides\n- sự phong lưu, sự sung túc\n!to earn (make) one's bread\n- kiếm ăn, kiếm sống\n!to eat the bread of affiction\n- phiền não, sầu khổ, đau buồn\n!to eat the bread of idleness\n- nhàn rỗi, vô công rỗi nghề\n!to have one's bread buttered for life\n- suốt đời sống dư dật sung túc\n!to know which side one's bread is buttered\n- (xem) butter\n!to live on bread and chesse\n- sống đạm bạc\n!to quarrel with one's bread and butter\n- (xem) quarel\n!to take the bread out of someone's mouth\n- lấy mất kế sinh nhai của ai, cướp cơm chim của ai\n@Chuyên ngành kinh tế\n-bánh mì\n-kế sinh nhai\n@Chuyên ngành kỹ thuật\n-bánh mì
-
+bread	
+@bread /bred/
+*  ngoại động từ
+- làm thủng
+- (quân sự) chọc thủng, phá vỡ (tuyến phòng thủ)
+*  nội động từ
+- nhảy lên khỏi mặt nước (cá voi)
+*  danh từ
+- bánh mì=a loaf of bread
++ ổ bánh mì
+- (nghĩa bóng) miếng ăn, kế sinh nhai=daily bread
++ miếng ăn hàng ngày!bread and butter
+- bánh mì phết bơ
+- miếng ăn; kế sinh nhai!bread and cheese
+- miếng ăn; kế sinh nhai
+- cuộc sống thanh đạm!bread buttered on both sides
+- sự phong lưu, sự sung túc!to earn (make) one's bread
+- kiếm ăn, kiếm sống!to eat the bread of affiction
+- phiền não, sầu khổ, đau buồn!to eat the bread of idleness
+- nhàn rỗi, vô công rỗi nghề!to have one's bread buttered for life
+- suốt đời sống dư dật sung túc!to know which side one's bread is buttered
+- (xem) butter!to live on bread and chesse
+- sống đạm bạc!to quarrel with one's bread and butter
+- (xem) quarel!to take the bread out of someone's mouth
+- lấy mất kế sinh nhai của ai, cướp cơm chim của ai
+@Chuyên ngành kinh tế
+-bánh mì
+-kế sinh nhai
+@Chuyên ngành kỹ thuật
+-bánh mì

@@ -1,3 +1,4 @@
-succeeding
-	@Chuyên ngành kỹ thuật\n-kế tiếp\n@Lĩnh vực: xây dựng\n-kế sau
-
+succeeding	@Chuyên ngành kỹ thuật
+-kế tiếp
+@Lĩnh vực: xây dựng
+-kế sau

@@ -1,3 +1,4 @@
-waterworn
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bị nước xói mòn\n-bị rửa xối
-
+waterworn	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bị nước xói mòn
+-bị rửa xối

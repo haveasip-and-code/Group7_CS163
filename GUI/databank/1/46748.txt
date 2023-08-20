@@ -1,3 +1,21 @@
-rendering
-	@rendering\n* danh từ\n- sự biểu diễn (một vai kịch, một bản nhạc )\n- sự dịch (cái gì bằng văn bản); bản dịch\n- vữa lót (trên đá, gạch)\n@Chuyên ngành kinh tế\n-bơ nấu chảy\n-mỡ nấu chảy\n-sự nấu chảy\n@Chuyên ngành kỹ thuật\n-bản vẽ phối cảnh\n-lớp trát nền\n-lớp vữa trát\n-sự trát\n-sự trát vữa\n@Lĩnh vực: xây dựng\n-lớp trát ngoài\n-sự phun (vữa...)\n-sự trát lót\n@Lĩnh vực: toán & tin\n-vữa lót
-
+rendering	@rendering
+* danh từ
+- sự biểu diễn (một vai kịch, một bản nhạc )
+- sự dịch (cái gì bằng văn bản); bản dịch
+- vữa lót (trên đá, gạch)
+@Chuyên ngành kinh tế
+-bơ nấu chảy
+-mỡ nấu chảy
+-sự nấu chảy
+@Chuyên ngành kỹ thuật
+-bản vẽ phối cảnh
+-lớp trát nền
+-lớp vữa trát
+-sự trát
+-sự trát vữa
+@Lĩnh vực: xây dựng
+-lớp trát ngoài
+-sự phun (vữa...)
+-sự trát lót
+@Lĩnh vực: toán & tin
+-vữa lót

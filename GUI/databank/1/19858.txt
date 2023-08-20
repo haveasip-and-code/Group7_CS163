@@ -1,3 +1,11 @@
-expenses
-	@Chuyên ngành kinh tế\n-chi phí\n@Chuyên ngành kỹ thuật\n-chi phí\n-phí\n-phí tổn\n@Chuyên ngành kỹ thuật\n-chi phí\n-phí\n-phí tổn
-
+expenses	
+@Chuyên ngành kinh tế
+-chi phí
+@Chuyên ngành kỹ thuật
+-chi phí
+-phí
+-phí tổn
+@Chuyên ngành kỹ thuật
+-chi phí
+-phí
+-phí tổn

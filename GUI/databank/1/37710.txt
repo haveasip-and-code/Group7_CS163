@@ -1,3 +1,23 @@
-oiler
-	@oiler /'ɔilə/\n*  danh từ\n- tàu chở dầu\n- người tra dầu, người đổ dầu (vào máy)\n- vịt dầu, cái bơm dầu\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) áo vải dầu\n@Chuyên ngành kỹ thuật\n-bình tra dầu\n-bơm dầu\n-cái tra dầu mỡ\n-giếng dầu\n-tàu chở dầu\n-vịt dầu\n@Lĩnh vực: ô tô\n-bình (dầu nhớt)\n-bình châm dầu (nhớt)\n@Lĩnh vực: xây dựng\n-cái vịt dầu\n-thợ tra dầu\n@Lĩnh vực: cơ khí & công trình\n-ống vô dầu\n@Lĩnh vực: giao thông & vận tải\n-thiết bị bơm dầu
-
+oiler	@oiler /'ɔilə/
+*  danh từ
+- tàu chở dầu
+- người tra dầu, người đổ dầu (vào máy)
+- vịt dầu, cái bơm dầu
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) áo vải dầu
+@Chuyên ngành kỹ thuật
+-bình tra dầu
+-bơm dầu
+-cái tra dầu mỡ
+-giếng dầu
+-tàu chở dầu
+-vịt dầu
+@Lĩnh vực: ô tô
+-bình (dầu nhớt)
+-bình châm dầu (nhớt)
+@Lĩnh vực: xây dựng
+-cái vịt dầu
+-thợ tra dầu
+@Lĩnh vực: cơ khí & công trình
+-ống vô dầu
+@Lĩnh vực: giao thông & vận tải
+-thiết bị bơm dầu

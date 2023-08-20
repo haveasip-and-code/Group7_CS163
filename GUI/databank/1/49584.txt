@@ -1,3 +1,12 @@
-seep
-	@seep /si:n/\n*  nội động từ\n- rỉ ra, thấm qua\n@Chuyên ngành kỹ thuật\n-lọt ra\n-rò rỉ\n-thấm\n@Lĩnh vực: hóa học & vật liệu\n-rỉ ra\n-thấm ra\n@Lĩnh vực: điện lạnh\n-thấm (qua)
-
+seep	@seep /si:n/
+*  nội động từ
+- rỉ ra, thấm qua
+@Chuyên ngành kỹ thuật
+-lọt ra
+-rò rỉ
+-thấm
+@Lĩnh vực: hóa học & vật liệu
+-rỉ ra
+-thấm ra
+@Lĩnh vực: điện lạnh
+-thấm (qua)

@@ -1,3 +1,38 @@
-exhauster
-	@exhauster /ig'zɔ:stə/\n*  danh từ (kỹ thuật)\n- quạt hút gió; máy hút gió\n- thiết bị hút bụi chân không (luyện kim)\n- máy hút bụi\n@Chuyên ngành kinh tế\n-thiết bị bài khí\n@Chuyên ngành kỹ thuật\n-bơm hút\n-máy hút\n-máy hút bụi\n-mùi\n-quạt hút\n@Lĩnh vực: điện lạnh\n-máy hút (khí)\n-quạt thổi ra\n@Lĩnh vực: toán & tin\n-máy xả\n@Lĩnh vực: xây dựng\n-máy xả (bụi)\n@Lĩnh vực: hóa học & vật liệu\n-máy xả khí\n@Chuyên ngành kỹ thuật\n-bơm hút\n-máy hút\n-máy hút bụi\n-mùi\n-quạt hút\n@Lĩnh vực: điện lạnh\n-máy hút (khí)\n-quạt thổi ra\n@Lĩnh vực: toán & tin\n-máy xả\n@Lĩnh vực: xây dựng\n-máy xả (bụi)\n@Lĩnh vực: hóa học & vật liệu\n-máy xả khí
-
+exhauster	
+@exhauster /ig'zɔ:stə/
+*  danh từ (kỹ thuật)
+- quạt hút gió; máy hút gió
+- thiết bị hút bụi chân không (luyện kim)
+- máy hút bụi
+@Chuyên ngành kinh tế
+-thiết bị bài khí
+@Chuyên ngành kỹ thuật
+-bơm hút
+-máy hút
+-máy hút bụi
+-mùi
+-quạt hút
+@Lĩnh vực: điện lạnh
+-máy hút (khí)
+-quạt thổi ra
+@Lĩnh vực: toán & tin
+-máy xả
+@Lĩnh vực: xây dựng
+-máy xả (bụi)
+@Lĩnh vực: hóa học & vật liệu
+-máy xả khí
+@Chuyên ngành kỹ thuật
+-bơm hút
+-máy hút
+-máy hút bụi
+-mùi
+-quạt hút
+@Lĩnh vực: điện lạnh
+-máy hút (khí)
+-quạt thổi ra
+@Lĩnh vực: toán & tin
+-máy xả
+@Lĩnh vực: xây dựng
+-máy xả (bụi)
+@Lĩnh vực: hóa học & vật liệu
+-máy xả khí

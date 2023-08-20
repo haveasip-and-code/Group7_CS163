@@ -1,3 +1,2 @@
-rebar
-	@Chuyên ngành kỹ thuật\n-thanh cốt thép
-
+rebar	@Chuyên ngành kỹ thuật
+-thanh cốt thép

@@ -1,3 +1,18 @@
-flaking
-	@Chuyên ngành kinh tế\n-sự làm nở\n-sự tạo cốm\n@Chuyên ngành kỹ thuật\n-sự tạo vảy\n-sự tróc vảy\n@Lĩnh vực: giao thông & vận tải\n-gỉ trên ray\n@Lĩnh vực: hóa học & vật liệu\n-làm chất lỏng đóng băng\n@Chuyên ngành kỹ thuật\n-sự tạo vảy\n-sự tróc vảy\n@Lĩnh vực: giao thông & vận tải\n-gỉ trên ray\n@Lĩnh vực: hóa học & vật liệu\n-làm chất lỏng đóng băng
-
+flaking	
+@Chuyên ngành kinh tế
+-sự làm nở
+-sự tạo cốm
+@Chuyên ngành kỹ thuật
+-sự tạo vảy
+-sự tróc vảy
+@Lĩnh vực: giao thông & vận tải
+-gỉ trên ray
+@Lĩnh vực: hóa học & vật liệu
+-làm chất lỏng đóng băng
+@Chuyên ngành kỹ thuật
+-sự tạo vảy
+-sự tróc vảy
+@Lĩnh vực: giao thông & vận tải
+-gỉ trên ray
+@Lĩnh vực: hóa học & vật liệu
+-làm chất lỏng đóng băng

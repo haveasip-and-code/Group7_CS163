@@ -1,3 +1,2 @@
-neighborliness
-	@neighborliness\n- như neighbourliness
-
+neighborliness	@neighborliness
+- như neighbourliness

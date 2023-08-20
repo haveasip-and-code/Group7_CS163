@@ -1,3 +1,15 @@
-wane
-	@wane /wein/\n*  danh từ\n- (thiên văn học) sự khuyết, tuần trăng khuyết\n=moon on the wane+ trăng khuyết\n- (nghĩa bóng) sự tàn; lúc tàn, lúc xế, lúc hết thời\n=to be on the wane+ khuyết, xế (trăng); về già (người), tàn tạ (sắc đẹp); lu mờ (tiếng tăm)\n=night is on the wane+ đêm sắp tàn\n=his star is on the wane+ hắn ta hết thời\n*  nội động từ\n- khuyết, xế (trăng)\n- (nghĩa bóng) giảm, suy yếu, tàn tạ\n=strength is waning+ sức lực suy yếu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chỗ khuyết của gỗ
-
+wane	@wane /wein/
+*  danh từ
+- (thiên văn học) sự khuyết, tuần trăng khuyết
+=moon on the wane+ trăng khuyết
+- (nghĩa bóng) sự tàn; lúc tàn, lúc xế, lúc hết thời
+=to be on the wane+ khuyết, xế (trăng); về già (người), tàn tạ (sắc đẹp); lu mờ (tiếng tăm)
+=night is on the wane+ đêm sắp tàn
+=his star is on the wane+ hắn ta hết thời
+*  nội động từ
+- khuyết, xế (trăng)
+- (nghĩa bóng) giảm, suy yếu, tàn tạ
+=strength is waning+ sức lực suy yếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-chỗ khuyết của gỗ

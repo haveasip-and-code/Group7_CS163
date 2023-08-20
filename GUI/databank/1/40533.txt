@@ -1,3 +1,21 @@
-percolation
-	@percolation /,pə:kə'leiʃn/\n*  danh từ\n- sự lọc qua, sự thấm qua; sự chiết ngâm\n@Chuyên ngành kinh tế\n-sự ngâm chiết\n-sự thấm rửa\n@Chuyên ngành kỹ thuật\n-nước mưa ngấm xuống\n-sự lọc\n-sự ngấm\n-sự rò\n-sự thấm lọc\n-sự thấm ra\n-sự xuyên qua\n-thấm\n@Lĩnh vực: ô tô\n-hiện tượng thẩm thấu\n@Lĩnh vực: điện lạnh\n-sự lọc (qua)\n@Lĩnh vực: hóa học & vật liệu\n-sự ngâm chiết
-
+percolation	@percolation /,pə:kə'leiʃn/
+*  danh từ
+- sự lọc qua, sự thấm qua; sự chiết ngâm
+@Chuyên ngành kinh tế
+-sự ngâm chiết
+-sự thấm rửa
+@Chuyên ngành kỹ thuật
+-nước mưa ngấm xuống
+-sự lọc
+-sự ngấm
+-sự rò
+-sự thấm lọc
+-sự thấm ra
+-sự xuyên qua
+-thấm
+@Lĩnh vực: ô tô
+-hiện tượng thẩm thấu
+@Lĩnh vực: điện lạnh
+-sự lọc (qua)
+@Lĩnh vực: hóa học & vật liệu
+-sự ngâm chiết

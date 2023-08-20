@@ -1,3 +1,4 @@
-denazify
-	@denazify /di:'nɑ:tsifai/\n*  ngoại động từ\n- tiêu diệt chủ nghĩa nazi\n- xoá bỏ ảnh hưởng chủ nghĩa nazi
-
+denazify	@denazify /di:'nɑ:tsifai/
+*  ngoại động từ
+- tiêu diệt chủ nghĩa nazi
+- xoá bỏ ảnh hưởng chủ nghĩa nazi

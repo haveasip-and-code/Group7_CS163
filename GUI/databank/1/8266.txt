@@ -1,3 +1,121 @@
-catch
-	@catch /kætʃ/\n*  danh từ\n- sự bắt, sự nắm lấy; cái bắt, cái vồ, cái chộp\n=a good catch+ một quả bắt đẹp mắt (bóng đá)\n- sự đánh cá; mẻ cá\n=a fine catch of fish+ một mẻ cá nhiều\n- nhiều người bị bắt, vật bị túm được; mồi ngon đáng để bẫy; món bở\n=it is no catch+ món này chẳng bở gì\n- cái gài, cái móc, cái then cửa, cái chốt cửa\n- cái bẫy, mưu kế lừa người; câu hỏi mẹo (để cho ai vào bẫy)\n- đoạn (bài nói, câu chuyện...) chợt nghe thấy\n- (kỹ thuật) cái hãm, máy hãm, khoá dừng\n*  ngoại động từ (caught)\n- bắt lấy, nắm lấy, tóm lấy, chộp lấy\n=to catch a ball+ bắt quả bóng\n=to catch somebody by the arm+ nắm lấy cánh tay ai\n- đánh được, câu được (cá)\n- bắt kịp, theo kịp, đuổi kịp\n=to catch a train+ bắt kịp xe lửa\n- mắc, bị nhiễm\n=to catch [a] cold+ nhiễm lạnh, cảm lạnh\n=to catch measles+ mắc bệnh đậu mùa\n=to catch a habit+ nhiễm một thói quen\n=to catch fire+ bắt lửa, cháy\n- hiểu được, nắm được (ý nghĩa); nhận ra\n=to catch someone's meaning+ hiểu được ý ai muốn nói gì\n=to catch a tune+ thuộc và hát lại được ngay một điệu hát\n=to catch a likeness+ nhận ra sự giống nhau và vẽ lại được\n- bắt gặp, bắt được quả tang; chợt gặp, chợt thấy\n=to be caught in the act+ bị bắt quả tang\n=let me catch you at it agains!+ cứ để tôi bắt gặp anh làm cái đó một lần nữa mà xem!\n- mắc vào, vướng, móc, kẹp\n=nail catches dress+ đính móc vào\n=to catch one's finger in a door+ kẹp ngón tay vào cửa\n=boat is caught in the reeds+ thuyền bị vướng trong đám lau sậy\n- chặn đứng, nén, giữ\n=to catch one's breath+ nín hơi, nín thở\n- thu hút, lôi cuốn\n=to catch the attention+ thu hút được sự chú ý\n=this will catch the public+ cái này có thể lôi cuốn được công chúng\n- đánh, giáng\n=to catch someone a blow+ giáng cho ai một cú\n=to catch somebody one on the jaw+ đánh cho ai một cú quai hàm\n*  nội động từ\n- bắt lửa (cái gì...)\n=wet wood does not catch+ gỗ ẩm không bắt lửa\n- đóng băng\n=river catches+ con sông bắt đầu đóng băng\n- mắc, vướng, móc, kẹp\n=dress catches on a nail+ áo móc phải đinh\n- ăn khớp, vừa\n=the key does not catch+ khoá này không vừa\n- bấu, víu lấy, níu lấy, chộp lấy\n=to catch at an apportunity+ chộp lấy cơ hội\n=a drawning man will catch at an apportunity+ chộp lấy cơ hội\n=a drawning man will catch at a straw+ sắp chết đuối thì vớ được cọng rơm cũng cố víu lấy\n!to catch on\n- nổi tiếng; trở thành cái mốt; được mọi người ưa chuộng\n- (thông tục) hiểu được, nắm được\n!to catch out\n- (nghĩa bóng) bất chợt bắt được (ai) đang làm gì\n!to catch up\n- đuổi kịp, theo kịp, bắt kịp\n=go on in from, I'll soon catch you up+ cứ đi trước đi, tôi sẽ đuổi kịp anh ngay\n- ngắt lời\n=to catch up a speaker+ ngắt lời người phát biểu\n- nhiễm (thói quen)\n=to catch up a habit+ nhiễm một thói quen\n!to catch a glimpse of something\n- nắm lấy cái gì, tóm được cái gì\n!to catch it\n- (thông tục) bị la mắng, quở phạt, bị đánh đập\n!catch me!; catch me at it!; catch me doing that!\n- tớ mà lại làm cái đó à, không đời nào!\n!to catch the speaker's eye\n- (xem) eye\n@Chuyên ngành kinh tế\n-săn bắt\n-sự khai thác\n-sự săn bắt\n@Chuyên ngành kỹ thuật\n-bánh cóc\n-bắt\n-cái kẹp\n-cái mốc\n-cặp\n-chặn\n-chìa vít\n-chốt cửa\n-chốt hãm\n-chốt khóa\n-cố kết\n-đánh\n-đinh chốt\n-đinh móc\n-đồ gá cặp\n-đông cứng\n-dụng cụ chặn\n-dụng cụ khóa\n-giá đỡ\n-gióng cửa\n-gờ\n-hãm\n-kẹp\n-khóa\n-khóa chốt\n-móc\n-móc hãm\n-phần lồi\n-sự cặp\n-sự gắp\n-sự mang\n-tay vặn\n-then cửa\n-tích tụ\n-vấu\n-vùng tụ nước\n@Lĩnh vực: cơ khí & công trình\n-bộ phận thu\n-gá kẹp chốt cài\n-khóa dừng bulông\n-ngạnh chống xoay\n-nối vấu\n@Lĩnh vực: xây dựng\n-gắp\n@Lĩnh vực: hóa học & vật liệu\n-gom
-
+catch	
+@catch /kætʃ/
+*  danh từ
+- sự bắt, sự nắm lấy; cái bắt, cái vồ, cái chộp=a good catch
++ một quả bắt đẹp mắt (bóng đá)
+- sự đánh cá; mẻ cá=a fine catch of fish
++ một mẻ cá nhiều
+- nhiều người bị bắt, vật bị túm được; mồi ngon đáng để bẫy; món bở=it is no catch
++ món này chẳng bở gì
+- cái gài, cái móc, cái then cửa, cái chốt cửa
+- cái bẫy, mưu kế lừa người; câu hỏi mẹo (để cho ai vào bẫy)
+- đoạn (bài nói, câu chuyện...) chợt nghe thấy
+- (kỹ thuật) cái hãm, máy hãm, khoá dừng
+*  ngoại động từ (caught)
+- bắt lấy, nắm lấy, tóm lấy, chộp lấy=to catch a ball
++ bắt quả bóng=to catch somebody by the arm
++ nắm lấy cánh tay ai
+- đánh được, câu được (cá)
+- bắt kịp, theo kịp, đuổi kịp=to catch a train
++ bắt kịp xe lửa
+- mắc, bị nhiễm=to catch [a] cold
++ nhiễm lạnh, cảm lạnh=to catch measles
++ mắc bệnh đậu mùa=to catch a habit
++ nhiễm một thói quen=to catch fire
++ bắt lửa, cháy
+- hiểu được, nắm được (ý nghĩa); nhận ra=to catch someone's meaning
++ hiểu được ý ai muốn nói gì=to catch a tune
++ thuộc và hát lại được ngay một điệu hát=to catch a likeness
++ nhận ra sự giống nhau và vẽ lại được
+- bắt gặp, bắt được quả tang; chợt gặp, chợt thấy=to be caught in the act
++ bị bắt quả tang=let me catch you at it agains!
++ cứ để tôi bắt gặp anh làm cái đó một lần nữa mà xem!
+- mắc vào, vướng, móc, kẹp=nail catches dress
++ đính móc vào=to catch one's finger in a door
++ kẹp ngón tay vào cửa=boat is caught in the reeds
++ thuyền bị vướng trong đám lau sậy
+- chặn đứng, nén, giữ=to catch one's breath
++ nín hơi, nín thở
+- thu hút, lôi cuốn=to catch the attention
++ thu hút được sự chú ý=this will catch the public
++ cái này có thể lôi cuốn được công chúng
+- đánh, giáng=to catch someone a blow
++ giáng cho ai một cú=to catch somebody one on the jaw
++ đánh cho ai một cú quai hàm
+*  nội động từ
+- bắt lửa (cái gì...)=wet wood does not catch
++ gỗ ẩm không bắt lửa
+- đóng băng=river catches
++ con sông bắt đầu đóng băng
+- mắc, vướng, móc, kẹp=dress catches on a nail
++ áo móc phải đinh
+- ăn khớp, vừa=the key does not catch
++ khoá này không vừa
+- bấu, víu lấy, níu lấy, chộp lấy=to catch at an apportunity
++ chộp lấy cơ hội=a drawning man will catch at an apportunity
++ chộp lấy cơ hội=a drawning man will catch at a straw
++ sắp chết đuối thì vớ được cọng rơm cũng cố víu lấy!to catch on
+- nổi tiếng; trở thành cái mốt; được mọi người ưa chuộng
+- (thông tục) hiểu được, nắm được!to catch out
+- (nghĩa bóng) bất chợt bắt được (ai) đang làm gì!to catch up
+- đuổi kịp, theo kịp, bắt kịp=go on in from, I'll soon catch you up
++ cứ đi trước đi, tôi sẽ đuổi kịp anh ngay
+- ngắt lời=to catch up a speaker
++ ngắt lời người phát biểu
+- nhiễm (thói quen)=to catch up a habit
++ nhiễm một thói quen!to catch a glimpse of something
+- nắm lấy cái gì, tóm được cái gì!to catch it
+- (thông tục) bị la mắng, quở phạt, bị đánh đập!catch me!; catch me at it!; catch me doing that!
+- tớ mà lại làm cái đó à, không đời nào!!to catch the speaker's eye
+- (xem) eye
+@Chuyên ngành kinh tế
+-săn bắt
+-sự khai thác
+-sự săn bắt
+@Chuyên ngành kỹ thuật
+-bánh cóc
+-bắt
+-cái kẹp
+-cái mốc
+-cặp
+-chặn
+-chìa vít
+-chốt cửa
+-chốt hãm
+-chốt khóa
+-cố kết
+-đánh
+-đinh chốt
+-đinh móc
+-đồ gá cặp
+-đông cứng
+-dụng cụ chặn
+-dụng cụ khóa
+-giá đỡ
+-gióng cửa
+-gờ
+-hãm
+-kẹp
+-khóa
+-khóa chốt
+-móc
+-móc hãm
+-phần lồi
+-sự cặp
+-sự gắp
+-sự mang
+-tay vặn
+-then cửa
+-tích tụ
+-vấu
+-vùng tụ nước
+@Lĩnh vực: cơ khí & công trình
+-bộ phận thu
+-gá kẹp chốt cài
+-khóa dừng bulông
+-ngạnh chống xoay
+-nối vấu
+@Lĩnh vực: xây dựng
+-gắp
+@Lĩnh vực: hóa học & vật liệu
+-gom

@@ -1,3 +1,14 @@
-telephone
-	@telephone /'telifoun/\n*  danh từ\n- dây nói, điện thoại\n=to be on the telephone+ đang liên lạc bằng điện thoại\n*  động từ\n- gọi điện, nói chuyện bằng điện thoại\n@Chuyên ngành kinh tế\n-điện thoại, gọi điện thoại cho\n-gọi điện thoại cho\n-máy điện thoại\n@Chuyên ngành kỹ thuật\n-điện thoại\n-gọi điện thoại\n-máy điện thoại
-
+telephone	@telephone /'telifoun/
+*  danh từ
+- dây nói, điện thoại
+=to be on the telephone+ đang liên lạc bằng điện thoại
+*  động từ
+- gọi điện, nói chuyện bằng điện thoại
+@Chuyên ngành kinh tế
+-điện thoại, gọi điện thoại cho
+-gọi điện thoại cho
+-máy điện thoại
+@Chuyên ngành kỹ thuật
+-điện thoại
+-gọi điện thoại
+-máy điện thoại

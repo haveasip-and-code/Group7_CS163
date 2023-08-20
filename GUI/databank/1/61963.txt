@@ -1,3 +1,22 @@
-visible
-	@visible /'vizəbl/\n*  tính từ\n- thấy được, có thể trông thấy được\n=visible to naked eye+ thấy được bằng mắt trần (không cần kính hiển vi...)\n=to become visible+ xuất hiện\n- rõ ràng, rõ rệt\n=without visible cause+ không có nguyên nhân rõ rệt\n- sẵn sàng tiếp khách\n=is the visible?+ bà ta có sẵn sàng tiếp khách không?\n@Chuyên ngành kinh tế\n-có thể thấy được\n-hàng hóa hữu hình (mậu dịch xuất nhập khẩu)\n-hiển nhiên\n-hữu hình\n-mậu dịch hữu hình (hàng hóa xuất nhập khẩu)\n-rõ ràng\n@Chuyên ngành kỹ thuật\n-khả kiến\n-nhìn thấy\n-nhìn thấy được\n@Lĩnh vực: toán & tin\n-có thể thấy được
-
+visible	@visible /'vizəbl/
+*  tính từ
+- thấy được, có thể trông thấy được
+=visible to naked eye+ thấy được bằng mắt trần (không cần kính hiển vi...)
+=to become visible+ xuất hiện
+- rõ ràng, rõ rệt
+=without visible cause+ không có nguyên nhân rõ rệt
+- sẵn sàng tiếp khách
+=is the visible?+ bà ta có sẵn sàng tiếp khách không?
+@Chuyên ngành kinh tế
+-có thể thấy được
+-hàng hóa hữu hình (mậu dịch xuất nhập khẩu)
+-hiển nhiên
+-hữu hình
+-mậu dịch hữu hình (hàng hóa xuất nhập khẩu)
+-rõ ràng
+@Chuyên ngành kỹ thuật
+-khả kiến
+-nhìn thấy
+-nhìn thấy được
+@Lĩnh vực: toán & tin
+-có thể thấy được

@@ -1,3 +1,2 @@
-underlined
-	@Chuyên ngành kỹ thuật\n-gạch dưới
-
+underlined	@Chuyên ngành kỹ thuật
+-gạch dưới

@@ -1,3 +1,34 @@
-not
-	@not /nɔt/\n*  phó từ\n- không\n=I did not say so+ tôi không hề nói như vậy\n=not without reason+ không phải là không có lý\n!as likely as not\n- hẳn là, chắc là\n=he'll be at home now, as likes as not+ hẳn là bây giờ nó có nhà\n!not but that (what)\n- (xem) but\n!not half\n- (xem) half\n!not less than\n- ít nhất cũng bằng\n!not more than\n- nhiều nhất cũng chỉ bằng\n!not only... but also\n- (xem) also\n!not once nor twice\n- không phải một hai lần; nhiều lần rồi, luôn luôn\n!not seldom\n- (xem) seldom\n!not that\n- không phải rằng (là)\n=not that I fear him+ không phải là tôi sợ n\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép NOT\n-phép phủ định\n@Chuyên ngành kỹ thuật\n-cực\n-không\n@Lĩnh vực: toán & tin\n-hàm NOT
-
+not	@not /nɔt/
+*  phó từ
+- không
+=I did not say so+ tôi không hề nói như vậy
+=not without reason+ không phải là không có lý
+!as likely as not
+- hẳn là, chắc là
+=he'll be at home now, as likes as not+ hẳn là bây giờ nó có nhà
+!not but that (what)
+- (xem) but
+!not half
+- (xem) half
+!not less than
+- ít nhất cũng bằng
+!not more than
+- nhiều nhất cũng chỉ bằng
+!not only... but also
+- (xem) also
+!not once nor twice
+- không phải một hai lần; nhiều lần rồi, luôn luôn
+!not seldom
+- (xem) seldom
+!not that
+- không phải rằng (là)
+=not that I fear him+ không phải là tôi sợ n
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép NOT
+-phép phủ định
+@Chuyên ngành kỹ thuật
+-cực
+-không
+@Lĩnh vực: toán & tin
+-hàm NOT

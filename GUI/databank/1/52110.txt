@@ -1,3 +1,18 @@
-spall
-	@spall /spɔ:l/\n*  danh từ\n- mạnh vụn, mảnh (đá)\n*  ngoại động từ\n- đập nhỏ (quặng) để chọn\n@Chuyên ngành kỹ thuật\n-bị bóc vỏ\n-bị đập vỡ\n-chẻ\n-đá vụn\n-đập nhỏ (quặng), đẽo nhỏ (đá), mảnh vụn (quặng, đá)\n-đập vỡ\n-đập vụn\n-mảnh vụn\n@Lĩnh vực: xây dựng\n-gọt vỏ\n-nứt vỡ\n-sỏi chèn khối xây (đá hộc)
-
+spall	@spall /spɔ:l/
+*  danh từ
+- mạnh vụn, mảnh (đá)
+*  ngoại động từ
+- đập nhỏ (quặng) để chọn
+@Chuyên ngành kỹ thuật
+-bị bóc vỏ
+-bị đập vỡ
+-chẻ
+-đá vụn
+-đập nhỏ (quặng), đẽo nhỏ (đá), mảnh vụn (quặng, đá)
+-đập vỡ
+-đập vụn
+-mảnh vụn
+@Lĩnh vực: xây dựng
+-gọt vỏ
+-nứt vỡ
+-sỏi chèn khối xây (đá hộc)

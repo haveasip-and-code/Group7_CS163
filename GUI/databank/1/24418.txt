@@ -1,3 +1,8 @@
-grove
-	@grove /grouv/\n*  danh từ\n- lùm cây, khu rừng nhỏ\n@Chuyên ngành kỹ thuật\n-lùm cây\n@Lĩnh vực: cơ khí & công trình\n-khu rừng nhỏ
-
+grove	
+@grove /grouv/
+*  danh từ
+- lùm cây, khu rừng nhỏ
+@Chuyên ngành kỹ thuật
+-lùm cây
+@Lĩnh vực: cơ khí & công trình
+-khu rừng nhỏ

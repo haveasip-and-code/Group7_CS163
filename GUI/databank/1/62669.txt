@@ -1,3 +1,19 @@
-weir
-	@weir /wi /\n*  danh từ\n- đập nước\n- đăng cá\n@Chuyên ngành kỹ thuật\n-cửa cống\n-đập\n-dập nước\n-đập tràn\n-đê\n-lỗ tháo\n-lỗ tràn\n@Lĩnh vực: xây dựng\n-đập (tràn)\n-đập dâng nước\n-không trọng lượng\n-mất trọng lượng\n@Lĩnh vực: hóa học & vật liệu\n-vửa van
-
+weir	@weir /wi /
+*  danh từ
+- đập nước
+- đăng cá
+@Chuyên ngành kỹ thuật
+-cửa cống
+-đập
+-dập nước
+-đập tràn
+-đê
+-lỗ tháo
+-lỗ tràn
+@Lĩnh vực: xây dựng
+-đập (tràn)
+-đập dâng nước
+-không trọng lượng
+-mất trọng lượng
+@Lĩnh vực: hóa học & vật liệu
+-vửa van

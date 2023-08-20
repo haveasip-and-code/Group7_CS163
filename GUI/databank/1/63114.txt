@@ -1,3 +1,3 @@
-withdrawable
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-kéo ra được
-
+withdrawable	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-kéo ra được

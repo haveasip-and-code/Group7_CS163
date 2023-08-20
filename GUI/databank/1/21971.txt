@@ -1,3 +1,27 @@
-forge
-	@forge /fɔ:dʤ/\n*  danh từ\n- lò rèn; xưởng rèn\n- lò luyện kim, xưởng luyện kim\n*  ngoại động từ\n- rèn (dao, móng ngựa...)\n- giả mạo (chữ ký...); bịa (chuyện)\n=to forge a signature+ giả mạo chữ ký\n*  nội động từ\n- làm nghề rèn, rèn\n- giả mạo; phạm tội giả mạo (chữ ký...)\n*  nội động từ\n- tiến lên (vượt mọi khó khăn...)\n=to forge ahead+ dẫn đầu, tiến lên phía trước\n@Chuyên ngành kỹ thuật\n-dập ép\n-đập nóng\n-lò rèn\n-rèn\n-rèn dập\n-rèn khuôn\n-xưởng rèn\n@Lĩnh vực: xây dựng\n-nối (lò)\n@Lĩnh vực: ô tô\n-rèn kim loại
-
+forge	
+@forge /fɔ:dʤ/
+*  danh từ
+- lò rèn; xưởng rèn
+- lò luyện kim, xưởng luyện kim
+*  ngoại động từ
+- rèn (dao, móng ngựa...)
+- giả mạo (chữ ký...); bịa (chuyện)=to forge a signature
++ giả mạo chữ ký
+*  nội động từ
+- làm nghề rèn, rèn
+- giả mạo; phạm tội giả mạo (chữ ký...)
+*  nội động từ
+- tiến lên (vượt mọi khó khăn...)=to forge ahead
++ dẫn đầu, tiến lên phía trước
+@Chuyên ngành kỹ thuật
+-dập ép
+-đập nóng
+-lò rèn
+-rèn
+-rèn dập
+-rèn khuôn
+-xưởng rèn
+@Lĩnh vực: xây dựng
+-nối (lò)
+@Lĩnh vực: ô tô
+-rèn kim loại

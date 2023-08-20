@@ -1,3 +1,16 @@
-vesicular
-	@vesicular /vi'sikjulə/\n*  tính từ\n- (giải phẫu); (thực vật học) (thuộc) bọng, (thuộc) túi; có bọng, có túi\n- (giải phẫu) (thuộc) phế nang\n- (y học) (thuộc) mụn nước; có mụn nước\n- (địa lý,địa chất) có lỗ hổng (trong tảng đá)\n@Chuyên ngành kỹ thuật\n-có nhiều lỗ rỗng\n-dạng tổ ong\n-nhiều bọt\n@Lĩnh vực: hóa học & vật liệu\n-có bọt khí (trong khoáng vật)\n@Lĩnh vực: xây dựng\n-có nhiều hang lỗ\n-nhiều lỗ\n-rỗ tổ ong
-
+vesicular	@vesicular /vi'sikjulə/
+*  tính từ
+- (giải phẫu); (thực vật học) (thuộc) bọng, (thuộc) túi; có bọng, có túi
+- (giải phẫu) (thuộc) phế nang
+- (y học) (thuộc) mụn nước; có mụn nước
+- (địa lý,địa chất) có lỗ hổng (trong tảng đá)
+@Chuyên ngành kỹ thuật
+-có nhiều lỗ rỗng
+-dạng tổ ong
+-nhiều bọt
+@Lĩnh vực: hóa học & vật liệu
+-có bọt khí (trong khoáng vật)
+@Lĩnh vực: xây dựng
+-có nhiều hang lỗ
+-nhiều lỗ
+-rỗ tổ ong

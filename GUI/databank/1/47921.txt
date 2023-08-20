@@ -1,3 +1,9 @@
-rollback
-	@Chuyên ngành kinh tế\n-đẩy lùi tăng giá\n-sự hạ giá xuống (mức cũ)\n-sự hạ giá xuống mức cũ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hủy giao dịch\n@Lĩnh vực: hóa học & vật liệu\n-sự hạ giá (do quyết định của nhà cầm quyền)
-
+rollback	@Chuyên ngành kinh tế
+-đẩy lùi tăng giá
+-sự hạ giá xuống (mức cũ)
+-sự hạ giá xuống mức cũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hủy giao dịch
+@Lĩnh vực: hóa học & vật liệu
+-sự hạ giá (do quyết định của nhà cầm quyền)

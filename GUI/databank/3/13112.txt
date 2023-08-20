@@ -1,3 +1,2 @@
-curie
-	@curie\n- (Tech) curi (đơn vị phóng xạ)
-
+curie	@curie
+- (Tech) curi (đơn vị phóng xạ)

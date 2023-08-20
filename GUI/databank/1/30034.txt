@@ -1,3 +1,19 @@
-irreversible
-	@irreversible /,iri'və:səbl/\n*  tính từ\n- không thể đảo ngược lại; không thể thay đổi được\n- (hoá học) không thuận nghịch\n@Chuyên ngành kỹ thuật\n-không đảo chiều được\n-không đảo lại\n-không đảo ngược được\n-không thuận nghịch\n@Lĩnh vực: xây dựng\n-không hồi phục\n@Lĩnh vực: toán & tin\n-không khả nghịch\n@Lĩnh vực: cơ khí & công trình\n-không quay lại được\n@Lĩnh vực: y học\n-không thể đảo ngược\n-không thể phục hồi
-
+irreversible	
+@irreversible /,iri'və:səbl/
+*  tính từ
+- không thể đảo ngược lại; không thể thay đổi được
+- (hoá học) không thuận nghịch
+@Chuyên ngành kỹ thuật
+-không đảo chiều được
+-không đảo lại
+-không đảo ngược được
+-không thuận nghịch
+@Lĩnh vực: xây dựng
+-không hồi phục
+@Lĩnh vực: toán & tin
+-không khả nghịch
+@Lĩnh vực: cơ khí & công trình
+-không quay lại được
+@Lĩnh vực: y học
+-không thể đảo ngược
+-không thể phục hồi

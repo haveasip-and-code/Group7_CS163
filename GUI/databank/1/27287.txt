@@ -1,3 +1,4 @@
-immutable
-	@immutable /i'mju:təbl/\n*  tính từ\n- không thay đổi, không biến đổi; không thể thay đổi được, không thể biến đổi được
-
+immutable	
+@immutable /i'mju:təbl/
+*  tính từ
+- không thay đổi, không biến đổi; không thể thay đổi được, không thể biến đổi được

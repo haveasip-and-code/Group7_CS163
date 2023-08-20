@@ -1,3 +1,4 @@
-programmers
-	@Chuyên ngành kỹ thuật\n-lập trình viên\n@Lĩnh vực: toán & tin\n-người thảo chương
-
+programmers	@Chuyên ngành kỹ thuật
+-lập trình viên
+@Lĩnh vực: toán & tin
+-người thảo chương

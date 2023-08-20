@@ -1,3 +1,6 @@
-phyllode
-	@phyllode\n* danh từ\n- cuống dạng lá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hình lá, dạng lá
-
+phyllode	@phyllode
+* danh từ
+- cuống dạng lá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hình lá, dạng lá

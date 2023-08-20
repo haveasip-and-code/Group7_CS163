@@ -1,3 +1,4 @@
-infest
-	@infest /in'fest/\n*  ngoại động từ\n- tràn vào quấy phá, tràn vào phá hoại (sâu bọ, giặc cướp...)
-
+infest	
+@infest /in'fest/
+*  ngoại động từ
+- tràn vào quấy phá, tràn vào phá hoại (sâu bọ, giặc cướp...)

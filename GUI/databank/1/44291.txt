@@ -1,3 +1,8 @@
-protoplast
-	@protoplast /protoplast/\n*  danh từ\n- con người đầu tiên\n- nguyên hình, nguyên mẫu, mẫu đầu tiên\n- (sinh vật học) thể nguyên sinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tế bào nguyên sinh
-
+protoplast	@protoplast /protoplast/
+*  danh từ
+- con người đầu tiên
+- nguyên hình, nguyên mẫu, mẫu đầu tiên
+- (sinh vật học) thể nguyên sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tế bào nguyên sinh

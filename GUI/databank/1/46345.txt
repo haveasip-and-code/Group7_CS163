@@ -1,3 +1,3 @@
-refractometry
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đo chiết suất
-
+refractometry	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đo chiết suất

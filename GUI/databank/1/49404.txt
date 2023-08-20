@@ -1,3 +1,62 @@
-seam
-	@seam /si:m/\n*  danh từ\n- đường may nổi\n- vết sẹo\n- đường phân giới\n- (giải phẫu) sự khâu nổi vết thương; đường khâu nổi vết thương\n- lớp (than đá, quặng...); vỉa than\n*  ngoại động từ\n- ((thường) động tính từ quá khứ) có nhiều đường khâu; có nhiều sẹo (mặt)\n=face seamed with scars+ mặt chằng chịt những sẹo\n- (từ hiếm,nghĩa hiếm) khâu nối lại, máy nối lại\n@Chuyên ngành kinh tế\n-độ trắng mịn\n-đường nối\n-sự cuộn mép hộp\n@Chuyên ngành kỹ thuật\n-chỗ hàn\n-đường hàn\n-đường may\n-đường nối\n-đường xoi\n-gấp mép\n-gấp mép nối\n-gờ\n-hàn nối\n-kẽ nứt\n-khâu nối\n-khe\n-khe mộng\n-khe nứt\n-khớp nối\n-lớp\n-lớp kẹp\n-mạch (vữa)\n-mạch nối\n-may nổi\n-mép gấp\n-mối ghép\n-mối hàn\n-mối khâu\n-mối nối\n-mộng\n-mộng xoi\n-rãnh\n-rìa xờm\n-tầng\n-uốn mép\n-vạch hàn\n-vết nứt nhỏ\n-vỉa\n-vỉa kẹp\n-viền gấp\n@Lĩnh vực: xây dựng\n-đường ghép\n-khe để theo hình dạng (của công trình)\n-khe nối\n-vỉa kép mạch xây\n@Lĩnh vực: hóa học & vật liệu\n-mạch mỏng\n@Lĩnh vực: cơ khí & công trình\n-tạp chất (mặt vật rèn)\n-vết ghép
-
+seam	@seam /si:m/
+*  danh từ
+- đường may nổi
+- vết sẹo
+- đường phân giới
+- (giải phẫu) sự khâu nổi vết thương; đường khâu nổi vết thương
+- lớp (than đá, quặng...); vỉa than
+*  ngoại động từ
+- ((thường) động tính từ quá khứ) có nhiều đường khâu; có nhiều sẹo (mặt)
+=face seamed with scars+ mặt chằng chịt những sẹo
+- (từ hiếm,nghĩa hiếm) khâu nối lại, máy nối lại
+@Chuyên ngành kinh tế
+-độ trắng mịn
+-đường nối
+-sự cuộn mép hộp
+@Chuyên ngành kỹ thuật
+-chỗ hàn
+-đường hàn
+-đường may
+-đường nối
+-đường xoi
+-gấp mép
+-gấp mép nối
+-gờ
+-hàn nối
+-kẽ nứt
+-khâu nối
+-khe
+-khe mộng
+-khe nứt
+-khớp nối
+-lớp
+-lớp kẹp
+-mạch (vữa)
+-mạch nối
+-may nổi
+-mép gấp
+-mối ghép
+-mối hàn
+-mối khâu
+-mối nối
+-mộng
+-mộng xoi
+-rãnh
+-rìa xờm
+-tầng
+-uốn mép
+-vạch hàn
+-vết nứt nhỏ
+-vỉa
+-vỉa kẹp
+-viền gấp
+@Lĩnh vực: xây dựng
+-đường ghép
+-khe để theo hình dạng (của công trình)
+-khe nối
+-vỉa kép mạch xây
+@Lĩnh vực: hóa học & vật liệu
+-mạch mỏng
+@Lĩnh vực: cơ khí & công trình
+-tạp chất (mặt vật rèn)
+-vết ghép

@@ -1,3 +1,6 @@
-centerless
-	@Chuyên ngành kỹ thuật\n-không mũi tâm\n-không tâm\n@Lĩnh vực: hóa học & vật liệu\n-không có tâm
-
+centerless	
+@Chuyên ngành kỹ thuật
+-không mũi tâm
+-không tâm
+@Lĩnh vực: hóa học & vật liệu
+-không có tâm

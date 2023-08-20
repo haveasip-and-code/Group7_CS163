@@ -1,3 +1,6 @@
-sized
-	@sized\n* tính từ\n- (trong từ ghép) có quy mô như thế nào đó\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được xếp theo cỡ
-
+sized	@sized
+* tính từ
+- (trong từ ghép) có quy mô như thế nào đó
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được xếp theo cỡ

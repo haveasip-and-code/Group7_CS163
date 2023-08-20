@@ -1,3 +1,37 @@
-contact
-	@contact /kɔntækt/\n*  danh từ\n- sự chạm, sự tiếp xúc\n=our troops are in contact with the enemy+ quân ta đã chạm với quân địch\n=point of contact+ điểm tiếp xúc\n- (toán học) tiếp điểm\n- (điện học) sự cho tiếp xúc; chỗ tiếp xúc (hai dòng điện); cái ngắt điện, cái công tắc ((cũng) contact piece)\n=to break contact+ cắt điện, ngắt điện\n- sự tiếp xúc, sự giao thiệp, sự gặp gỡ, sự giao dịch, sự đi lại, sự lui tới\n=to be in contact with someone+ giao thiệp với ai, tiếp xúc với ai\n- (số nhiều) (từ Mỹ,nghĩa Mỹ) cơ hội gặp gỡ, cơ hội làm quen\n- người đầu mối liên lạc\n- (y học) người có thể truyền bệnh (vì đã tiếp xúc với người bệnh)\n!to come in (into) contact with\n- tiếp xúc với, giao thiệp với\n!out of contact\n- không có quan hệ gì, không gần gũi, không tiếp xúc\n!to lose contact with\n- mất bóng (ai); đứt liên lạc với (ai); không gặp (ai)\n*  ngoại động từ\n- cho tiếp với, cho tiếp xúc với\n@Chuyên ngành kinh tế\n-gặp gỡ\n-giao tiếp\n-sự chạm\n-sự tiếp xúc\n-tiếp xúc\n@Chuyên ngành kỹ thuật\n-liên hệ\n-sự ăn khớp\n-sự giao tiếp\n-sự khớp nối\n-sự tiếp xúc\n-tiếp điểm điện\n@Lĩnh vực: điện lạnh\n-tiếp xúc điện\n@Lĩnh vực: xây dựng\n-tiếp xúc với\n-vật tiếp điện
-
+contact	
+@contact /kɔntækt/
+*  danh từ
+- sự chạm, sự tiếp xúc=our troops are in contact with the enemy
++ quân ta đã chạm với quân địch=point of contact
++ điểm tiếp xúc
+- (toán học) tiếp điểm
+- (điện học) sự cho tiếp xúc; chỗ tiếp xúc (hai dòng điện); cái ngắt điện, cái công tắc ((cũng) contact piece)=to break contact
++ cắt điện, ngắt điện
+- sự tiếp xúc, sự giao thiệp, sự gặp gỡ, sự giao dịch, sự đi lại, sự lui tới=to be in contact with someone
++ giao thiệp với ai, tiếp xúc với ai
+- (số nhiều) (từ Mỹ,nghĩa Mỹ) cơ hội gặp gỡ, cơ hội làm quen
+- người đầu mối liên lạc
+- (y học) người có thể truyền bệnh (vì đã tiếp xúc với người bệnh)!to come in (into) contact with
+- tiếp xúc với, giao thiệp với!out of contact
+- không có quan hệ gì, không gần gũi, không tiếp xúc!to lose contact with
+- mất bóng (ai); đứt liên lạc với (ai); không gặp (ai)
+*  ngoại động từ
+- cho tiếp với, cho tiếp xúc với
+@Chuyên ngành kinh tế
+-gặp gỡ
+-giao tiếp
+-sự chạm
+-sự tiếp xúc
+-tiếp xúc
+@Chuyên ngành kỹ thuật
+-liên hệ
+-sự ăn khớp
+-sự giao tiếp
+-sự khớp nối
+-sự tiếp xúc
+-tiếp điểm điện
+@Lĩnh vực: điện lạnh
+-tiếp xúc điện
+@Lĩnh vực: xây dựng
+-tiếp xúc với
+-vật tiếp điện

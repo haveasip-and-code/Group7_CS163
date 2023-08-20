@@ -1,3 +1,8 @@
-supercomputer
-	@supercomputer\n- siêu máy tính\n@Chuyên ngành kỹ thuật\n-máy tính chính\n-máy tính cỡ lớn\n-siêu máy tính\n@Lĩnh vực: toán & tin\n-bộ tốc hoạt số
-
+supercomputer	@supercomputer
+- siêu máy tính
+@Chuyên ngành kỹ thuật
+-máy tính chính
+-máy tính cỡ lớn
+-siêu máy tính
+@Lĩnh vực: toán & tin
+-bộ tốc hoạt số

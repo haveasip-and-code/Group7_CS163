@@ -1,3 +1,39 @@
-incline
-	@incline /in'klain/\n*  danh từ\n- mặt nghiêng\n- chỗ dốc, con đường dốc\n*  ngoại động từ,  (thường),  dạng bị động\n- khiến cho sãn sàng, khiến cho có ý thiên về, khiến cho có khuynh hướng, khiến cho có chiều hướng\n=this result will incline them to try again+ kết quả đó khiến cho họ có ý muốn thử lại một lần nữa\n=to be inclined to believe that...+ có ý tin là...\n=to be inclined to lazy+ có khuynh hướng muốn lười\n*  nội động từ\n- có ý sãn sàng, có ý thích, có ý thiên về, có khuynh hướng, có chiều hướng\n=I incline to believe...+ tôi sãn sàng tin là..., tôi có ý tin là...\n=to incline to obesity+ có chiều hướng béo phị ra\n- nghiêng đi, xiên đi\n- nghiêng mình, cúi đầu\n@Chuyên ngành kinh tế\n-chỗ dốc\n-mặt nghiêng\n@Chuyên ngành kỹ thuật\n-độ chênh lệch\n-độ dốc\n-độ dốc mái\n-độ nghiêng\n-dốc\n-đường dốc\n-đường dốc xuống\n-giảm\n-làm nghiêng\n-lệch\n-lò thượng\n-nghiêng\n-mái dốc\n-mặt nghiêng\n-mặt phẳng nghiêng\n-sườn dốc\n@Lĩnh vực: xây dựng\n-chiều dọc\n-đường tới nghiêng
-
+incline	
+@incline /in'klain/
+*  danh từ
+- mặt nghiêng
+- chỗ dốc, con đường dốc
+*  ngoại động từ,  (thường),  dạng bị động
+- khiến cho sãn sàng, khiến cho có ý thiên về, khiến cho có khuynh hướng, khiến cho có chiều hướng=this result will incline them to try again
++ kết quả đó khiến cho họ có ý muốn thử lại một lần nữa=to be inclined to believe that...
++ có ý tin là...=to be inclined to lazy
++ có khuynh hướng muốn lười
+*  nội động từ
+- có ý sãn sàng, có ý thích, có ý thiên về, có khuynh hướng, có chiều hướng=I incline to believe...
++ tôi sãn sàng tin là..., tôi có ý tin là...=to incline to obesity
++ có chiều hướng béo phị ra
+- nghiêng đi, xiên đi
+- nghiêng mình, cúi đầu
+@Chuyên ngành kinh tế
+-chỗ dốc
+-mặt nghiêng
+@Chuyên ngành kỹ thuật
+-độ chênh lệch
+-độ dốc
+-độ dốc mái
+-độ nghiêng
+-dốc
+-đường dốc
+-đường dốc xuống
+-giảm
+-làm nghiêng
+-lệch
+-lò thượng
+-nghiêng
+-mái dốc
+-mặt nghiêng
+-mặt phẳng nghiêng
+-sườn dốc
+@Lĩnh vực: xây dựng
+-chiều dọc
+-đường tới nghiêng

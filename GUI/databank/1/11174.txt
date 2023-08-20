@@ -1,3 +1,19 @@
-congruence
-	@congruence /'kɔɳgruəns/ (congruency) /'kɔɳgruənsi/ (congruity) /kɔɳ'gru:iti/\n*  danh từ\n- sự thích hợp, sự phù hợp\n- (toán học) đoàn\n=congruence of circles+ đoàn vòng tròn\n- (toán học) đồng dư; tương đẳng\n=congruence group+ nhóm đồng dư\n=congruence of figures+ sự tương đẳng của các hình\n@Chuyên ngành kỹ thuật\n-đoàn\n-đồng dư\n-sự so sánh\n-tương đẳng\n@Lĩnh vực: toán & tin\n-đồng dư thức\n-tính tương đẳng\n@Lĩnh vực: điện lạnh\n-sự tương đẳng
-
+congruence	
+@congruence /'kɔɳgruəns/ (congruency) /'kɔɳgruənsi/ (congruity) /kɔɳ'gru:iti/
+*  danh từ
+- sự thích hợp, sự phù hợp
+- (toán học) đoàn=congruence of circles
++ đoàn vòng tròn
+- (toán học) đồng dư; tương đẳng=congruence group
++ nhóm đồng dư=congruence of figures
++ sự tương đẳng của các hình
+@Chuyên ngành kỹ thuật
+-đoàn
+-đồng dư
+-sự so sánh
+-tương đẳng
+@Lĩnh vực: toán & tin
+-đồng dư thức
+-tính tương đẳng
+@Lĩnh vực: điện lạnh
+-sự tương đẳng

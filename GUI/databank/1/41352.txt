@@ -1,3 +1,6 @@
-phototypesetting
-	@Chuyên ngành kinh tế\n-sự sắp chữ bằng in chụp\n@Chuyên ngành kỹ thuật\n-sự chế bản phim\n@Lĩnh vực: toán & tin\n-sự sắp chữ quang
-
+phototypesetting	@Chuyên ngành kinh tế
+-sự sắp chữ bằng in chụp
+@Chuyên ngành kỹ thuật
+-sự chế bản phim
+@Lĩnh vực: toán & tin
+-sự sắp chữ quang

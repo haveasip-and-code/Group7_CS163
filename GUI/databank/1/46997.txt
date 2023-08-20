@@ -1,3 +1,34 @@
-requisition
-	@requisition /,rekwi'ziʃn/\n*  danh từ\n- sự yêu cầu\n- tiêu chuẩn đòi hỏi\n=the requisitions for a university degree+ các tiêu chuẩn được cấp bằng đại học\n- lệnh\n=under the requisition of the town council+ theo lệnh của hội đồng thành phố\n- lệnh trưng dụng, lệnh trưng thu\n=to put in requisition; to bring (call) into requisition+ trưng dụng\n*  ngoại động từ\n- trưng dụng, trưng thu\n@Chuyên ngành kinh tế\n-điều kiện bắt buộc\n-điều kiện cần thiết\n-đơn xin\n-đơn xin mua hàng\n-đơn yêu cầu\n-giấy phép yêu cầu\n-lệnh trưng dụng\n-sự trưng dụng\n-sự yêu cầu\n-thỉnh cầu\n-tiêu chuẩn đòi hỏi\n-trưng dụng\n-trưng tập\n-trưng thu\n-trưng thu (tài sản)\n-trưng thu (tài sản...)\n-việc trưng dụng\n@Chuyên ngành kỹ thuật\n-sự yêu cầu\n@Lĩnh vực: xây dựng\n-lệnh trưng thu\n-trưng dụng
-
+requisition	@requisition /,rekwi'ziʃn/
+*  danh từ
+- sự yêu cầu
+- tiêu chuẩn đòi hỏi
+=the requisitions for a university degree+ các tiêu chuẩn được cấp bằng đại học
+- lệnh
+=under the requisition of the town council+ theo lệnh của hội đồng thành phố
+- lệnh trưng dụng, lệnh trưng thu
+=to put in requisition; to bring (call) into requisition+ trưng dụng
+*  ngoại động từ
+- trưng dụng, trưng thu
+@Chuyên ngành kinh tế
+-điều kiện bắt buộc
+-điều kiện cần thiết
+-đơn xin
+-đơn xin mua hàng
+-đơn yêu cầu
+-giấy phép yêu cầu
+-lệnh trưng dụng
+-sự trưng dụng
+-sự yêu cầu
+-thỉnh cầu
+-tiêu chuẩn đòi hỏi
+-trưng dụng
+-trưng tập
+-trưng thu
+-trưng thu (tài sản)
+-trưng thu (tài sản...)
+-việc trưng dụng
+@Chuyên ngành kỹ thuật
+-sự yêu cầu
+@Lĩnh vực: xây dựng
+-lệnh trưng thu
+-trưng dụng

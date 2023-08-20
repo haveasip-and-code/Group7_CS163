@@ -1,3 +1,10 @@
-morphology
-	@morphology /mɔ:'fɔlədʤi/\n*  danh từ\n- hình thái học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình thái\n@Lĩnh vực: xây dựng\n-hình thái (học)\n@Lĩnh vực: y học\n-hình thái học
-
+morphology	@morphology /mɔ:'fɔlədʤi/
+*  danh từ
+- hình thái học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình thái
+@Lĩnh vực: xây dựng
+-hình thái (học)
+@Lĩnh vực: y học
+-hình thái học

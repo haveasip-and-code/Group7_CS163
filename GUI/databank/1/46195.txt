@@ -1,3 +1,2 @@
-redresser
-	@Chuyên ngành kinh tế\n-máy sàng kiểm tra
-
+redresser	@Chuyên ngành kinh tế
+-máy sàng kiểm tra

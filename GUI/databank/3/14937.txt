@@ -1,3 +1,2 @@
-detester
-	@detester\n- xem detest
-
+detester	@detester
+- xem detest

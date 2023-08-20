@@ -1,3 +1,2 @@
-subtitles
-	@Chuyên ngành kỹ thuật\n-phụ đề
-
+subtitles	@Chuyên ngành kỹ thuật
+-phụ đề

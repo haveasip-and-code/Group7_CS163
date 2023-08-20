@@ -1,3 +1,6 @@
-cuisine
-	@cuisine /kwi':zi:n/\n*  danh từ\n- cách nấu nướng\n@Chuyên ngành kinh tế\n-cách nấu nướng\n-nghệ thuật
-
+cuisine	@cuisine /kwi':zi:n/
+*  danh từ
+- cách nấu nướng
+@Chuyên ngành kinh tế
+-cách nấu nướng
+-nghệ thuật

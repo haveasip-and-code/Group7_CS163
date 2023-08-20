@@ -1,3 +1,18 @@
-mixture
-	@mixture /'mikstʃə/\n*  danh từ\n- sự pha trộn, sự hỗn hợp\n- thứ pha trộn, vật hỗn hợp\n- (dược học) hỗn dược\n@Chuyên ngành kinh tế\n-hỗn hợp\n-mẻ trộn\n-mix-up\n-sự trộn\n@Chuyên ngành kỹ thuật\n-hỗn hợp\n-sự hòa lẫn\n-sự hỗn hợp\n-sự pha lẫn\n-sự pha trộn\n-sự trộn\n-trộn lẫn
-
+mixture	@mixture /'mikstʃə/
+*  danh từ
+- sự pha trộn, sự hỗn hợp
+- thứ pha trộn, vật hỗn hợp
+- (dược học) hỗn dược
+@Chuyên ngành kinh tế
+-hỗn hợp
+-mẻ trộn
+-mix-up
+-sự trộn
+@Chuyên ngành kỹ thuật
+-hỗn hợp
+-sự hòa lẫn
+-sự hỗn hợp
+-sự pha lẫn
+-sự pha trộn
+-sự trộn
+-trộn lẫn

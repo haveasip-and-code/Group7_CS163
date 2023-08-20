@@ -1,3 +1,5 @@
-drillability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tính dễ khoan\n-tính khoan được
-
+drillability	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tính dễ khoan
+-tính khoan được

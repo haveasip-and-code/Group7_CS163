@@ -1,3 +1,6 @@
-tramping
-	@Chuyên ngành kinh tế\n-tàu không định kỳ\n-tàu rông\n-tàu thả\n@Chuyên ngành kỹ thuật\n-sự lẫn bẩn
-
+tramping	@Chuyên ngành kinh tế
+-tàu không định kỳ
+-tàu rông
+-tàu thả
+@Chuyên ngành kỹ thuật
+-sự lẫn bẩn

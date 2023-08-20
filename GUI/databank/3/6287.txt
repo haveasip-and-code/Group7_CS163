@@ -1,3 +1,5 @@
-bookmark
-	@bookmark\n- thẻ đánh dấu trang sách\n@Chuyên ngành kỹ thuật\n-dấu sách\n-làm dấu
-
+bookmark	@bookmark
+- thẻ đánh dấu trang sách
+@Chuyên ngành kỹ thuật
+-dấu sách
+-làm dấu

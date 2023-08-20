@@ -1,3 +1,10 @@
-hex
-	@hex\n* động từ\n- làm ma thuật, bỏ bùa mê\n* danh từ\n- bùa ma thuật\n@Chuyên ngành kỹ thuật\n-hình lục giác\n-hình sáu cạnh\n-hình sáu góc
-
+hex	
+@hex
+* động từ
+- làm ma thuật, bỏ bùa mê
+* danh từ
+- bùa ma thuật
+@Chuyên ngành kỹ thuật
+-hình lục giác
+-hình sáu cạnh
+-hình sáu góc

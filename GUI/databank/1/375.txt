@@ -1,3 +1,29 @@
-accord
-	@accord /ə'kɔ:d/\n*  danh từ\n- sự đồng lòng, sự đồng ý, sự tán thành\n=with one accord; of one accord+ đồng lòng, nhất trí\n- hoà ước\n- sự phù hợp, sự hoà hợp\n=individual interests must be in accord with the common ones+ quyền lợi cá nhân phải phù hợp với quyền lợi chung\n- (âm nhạc) sự hợp âm\n- ý chí, ý muốn\n=to do something of one's own accord+ tự nguyện làm cái gì\n*  ngoại động từ\n- làm cho hoà hợp\n- cho, ban cho, chấp thuận, chấp nhận\n=to accord a request+ chấp thuận một yêu cầu\n=to accord a hearty welcome+ tiếp đãi niềm nở thân ái\n*  nội động từ\n- (+ with) phù hợp với, hoà hợp với, thống nhất với, nhất trí với\n=words do not accord with deeds+ lời nói không thống nhất với hành động, lời nói không đi đôi với việc làm\n@Chuyên ngành kinh tế\n-hiệp định\n-hiệp nghị\n-hòa ước\n-sự thỏa thuận\n@Chuyên ngành kỹ thuật\n-sự ăn khớp\n-sự hòa âm\n-sự phù hợp
-
+accord	
+@accord /ə'kɔ:d/
+*  danh từ
+- sự đồng lòng, sự đồng ý, sự tán thành=with one accord; of one accord
++ đồng lòng, nhất trí
+- hoà ước
+- sự phù hợp, sự hoà hợp=individual interests must be in accord with the common ones
++ quyền lợi cá nhân phải phù hợp với quyền lợi chung
+- (âm nhạc) sự hợp âm
+- ý chí, ý muốn=to do something of one's own accord
++ tự nguyện làm cái gì
+*  ngoại động từ
+- làm cho hoà hợp
+- cho, ban cho, chấp thuận, chấp nhận=to accord a request
++ chấp thuận một yêu cầu=to accord a hearty welcome
++ tiếp đãi niềm nở thân ái
+*  nội động từ
+- (
++ with) phù hợp với, hoà hợp với, thống nhất với, nhất trí với=words do not accord with deeds
++ lời nói không thống nhất với hành động, lời nói không đi đôi với việc làm
+@Chuyên ngành kinh tế
+-hiệp định
+-hiệp nghị
+-hòa ước
+-sự thỏa thuận
+@Chuyên ngành kỹ thuật
+-sự ăn khớp
+-sự hòa âm
+-sự phù hợp

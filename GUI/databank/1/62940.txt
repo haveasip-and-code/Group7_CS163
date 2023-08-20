@@ -1,3 +1,10 @@
-widening
-	@widening /'waidni /\n*  danh từ\n- sự làm rộng, sự nới rộng, sự mở rộng\n- (nghĩa bóng) sự làm lan rộng, sự khuếch trưng\n@Chuyên ngành kinh tế\n-mở rộng\n@Chuyên ngành kỹ thuật\n-sự mở rộng\n@Lĩnh vực: hóa học & vật liệu\n-sự làm rộng
-
+widening	@widening /'waidni /
+*  danh từ
+- sự làm rộng, sự nới rộng, sự mở rộng
+- (nghĩa bóng) sự làm lan rộng, sự khuếch trưng
+@Chuyên ngành kinh tế
+-mở rộng
+@Chuyên ngành kỹ thuật
+-sự mở rộng
+@Lĩnh vực: hóa học & vật liệu
+-sự làm rộng

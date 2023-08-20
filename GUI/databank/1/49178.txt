@@ -1,3 +1,12 @@
-scoria
-	@scoria /scoria/\n*  danh từ,  số nhiều scoriae\n- xỉ\n@Chuyên ngành kỹ thuật\n-đồ phế thải\n-gỉ sắt\n-vảy sắt\n-xỉ lò\n-xỉ núi lửa\n-xỉ tro\n@Lĩnh vực: hóa học & vật liệu\n-xỉ
-
+scoria	@scoria /scoria/
+*  danh từ,  số nhiều scoriae
+- xỉ
+@Chuyên ngành kỹ thuật
+-đồ phế thải
+-gỉ sắt
+-vảy sắt
+-xỉ lò
+-xỉ núi lửa
+-xỉ tro
+@Lĩnh vực: hóa học & vật liệu
+-xỉ

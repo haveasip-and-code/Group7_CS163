@@ -1,3 +1,5 @@
-agribusiness
-	@Chuyên ngành kinh tế\n-ngành thực phẩm\n-xí nghiệp công nông liên hợp\n-xí nghiệp nông thực phẩm
-
+agribusiness	
+@Chuyên ngành kinh tế
+-ngành thực phẩm
+-xí nghiệp công nông liên hợp
+-xí nghiệp nông thực phẩm

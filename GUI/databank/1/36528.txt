@@ -1,3 +1,2 @@
-neighborly
-	@neighborly\n- như neighbourly
-
+neighborly	@neighborly
+- như neighbourly

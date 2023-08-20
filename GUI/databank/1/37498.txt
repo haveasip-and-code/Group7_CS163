@@ -1,3 +1,11 @@
-occupancy
-	@occupancy /'ɔkjupənsi/\n*  danh từ\n- sự chiếm đóng, sự chiếm giữ\n- thời gian chiếm đóng\n@Chuyên ngành kỹ thuật\n-sự chiếm chỗ\n@Lĩnh vực: điện lạnh\n-độ cư trú\n-trạng thái bận\n@Lĩnh vực: xây dựng\n-sự chiếm giữ
-
+occupancy	@occupancy /'ɔkjupənsi/
+*  danh từ
+- sự chiếm đóng, sự chiếm giữ
+- thời gian chiếm đóng
+@Chuyên ngành kỹ thuật
+-sự chiếm chỗ
+@Lĩnh vực: điện lạnh
+-độ cư trú
+-trạng thái bận
+@Lĩnh vực: xây dựng
+-sự chiếm giữ

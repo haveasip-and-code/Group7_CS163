@@ -1,3 +1,3 @@
-inductively
-	@inductively\n- xem inductive
-
+inductively	
+@inductively
+- xem inductive

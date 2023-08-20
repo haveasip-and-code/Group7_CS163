@@ -1,3 +1,4 @@
-nimble
-	@nimble /'nimbl/\n*  tính từ\n- lanh lẹ, nhanh nhẹn\n- linh lợi (trí óc); nhanh trí
-
+nimble	@nimble /'nimbl/
+*  tính từ
+- lanh lẹ, nhanh nhẹn
+- linh lợi (trí óc); nhanh trí

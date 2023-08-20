@@ -1,3 +1,10 @@
-buffering
-	@buffering\n- (Tech) chuyển hoán đệm; ổn xung\n@Chuyên ngành kỹ thuật\n-đệm\n-sự đệm\n-sự tách chuyển\n@Lĩnh vực: toán & tin\n-phương pháp đệm\n@Lĩnh vực: điện tử & viễn thông\n-tạo đệm
-
+buffering	@buffering
+- (Tech) chuyển hoán đệm; ổn xung
+@Chuyên ngành kỹ thuật
+-đệm
+-sự đệm
+-sự tách chuyển
+@Lĩnh vực: toán & tin
+-phương pháp đệm
+@Lĩnh vực: điện tử & viễn thông
+-tạo đệm

@@ -1,3 +1,4 @@
-hest
-	@hest /hest/\n*  danh từ\n- (từ cổ,nghĩa cổ) (như) behest
-
+hest	
+@hest /hest/
+*  danh từ
+- (từ cổ,nghĩa cổ) (như) behest

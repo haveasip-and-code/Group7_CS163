@@ -1,3 +1,26 @@
-backward
-	@backward /'bækwəd/\n*  tính từ\n- về phía sau, giật lùi\n- chậm tiến, lạc hậu\n=a backward country+ nước lạc hậu\n=a backward child+ đứa trẻ chậm tiêu\n- muộn, chậm trễ\n=a backward harvest+ mùa gặt muộn\n- ngần ngại\n=to backward in doing something+ ngần ngại làm việc gì\n*  phó từ\n- về phía sau, lùi\n=to look backward+ nhìn về phía sau; nhìn về quá khứ\n=to walk backward+ đi lùi\n=his work is going backward+ công việc của hắn ta thụt lùi không tiến lên được\n- ngược\n=to stroke the cat backward+ vuốt ngược lông con mèo\n@Chuyên ngành kỹ thuật\n-lạc hậu\n-lùi lại\n-ngược lại\n-ở phía sau\n-về phía sau\n@Lĩnh vực: toán & tin\n-theo chiều ngược
-
+backward	
+@backward /'bækwəd/
+*  tính từ
+- về phía sau, giật lùi
+- chậm tiến, lạc hậu=a backward country
++ nước lạc hậu=a backward child
++ đứa trẻ chậm tiêu
+- muộn, chậm trễ=a backward harvest
++ mùa gặt muộn
+- ngần ngại=to backward in doing something
++ ngần ngại làm việc gì
+*  phó từ
+- về phía sau, lùi=to look backward
++ nhìn về phía sau; nhìn về quá khứ=to walk backward
++ đi lùi=his work is going backward
++ công việc của hắn ta thụt lùi không tiến lên được
+- ngược=to stroke the cat backward
++ vuốt ngược lông con mèo
+@Chuyên ngành kỹ thuật
+-lạc hậu
+-lùi lại
+-ngược lại
+-ở phía sau
+-về phía sau
+@Lĩnh vực: toán & tin
+-theo chiều ngược

@@ -1,3 +1,9 @@
-enabled
-	@Chuyên ngành kỹ thuật\n-cho phép\n-có hiệu lực\n-được phép\n@Chuyên ngành kỹ thuật\n-cho phép\n-có hiệu lực\n-được phép
-
+enabled	
+@Chuyên ngành kỹ thuật
+-cho phép
+-có hiệu lực
+-được phép
+@Chuyên ngành kỹ thuật
+-cho phép
+-có hiệu lực
+-được phép

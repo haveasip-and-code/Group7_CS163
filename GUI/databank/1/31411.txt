@@ -1,3 +1,46 @@
-lamp
-	@lamp /læmp/\n*  danh từ\n- đèn\n=electric lamp+ đèn điện\n=oil lamp+ đèn dầu\n=table lamp+ đèn để bàn\n- mặt trời, mặt trăng, sao\n=lamp of Phoebus+ (thơ ca) mặt trời\n=lamp of heaven+ (thơ ca) mặt trăng\n- nguồn ánh sáng (tinh thần...), nguồn hy vọng\n!to pass (band) on the lamp\n- góp phần vào bước tiến (của khoa học, của một sự nghiệp...)\n!to smell of the lamp\n- tỏ ra công phu; phải thức đêm thức hôm để làm\n- nặng nề, không thanh thoát; cầu kỳ (văn)\n*  động từ\n- chiếu sáng, rọi sáng\n- treo đèn, chăng đèn\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn\n@Chuyên ngành kinh tế\n-chiếu sáng\n-rọi sáng\n@Chuyên ngành kỹ thuật\n-bóng đèn\n-cái đèn\n-đèn\n-đèn báo\n-đèn điện\n-đèn nóng sáng\n-đèn tín hiệu\n-nguồn sáng\n-ống\n@Lĩnh vực: điện lạnh\n-đèn (điện)\n@Chuyên ngành kỹ thuật\n-bóng đèn\n-cái đèn\n-đèn\n-đèn báo\n-đèn điện\n-đèn nóng sáng\n-đèn tín hiệu\n-nguồn sáng\n-ống\n@Lĩnh vực: điện lạnh\n-đèn (điện)
-
+lamp	@lamp /læmp/
+*  danh từ
+- đèn
+=electric lamp+ đèn điện
+=oil lamp+ đèn dầu
+=table lamp+ đèn để bàn
+- mặt trời, mặt trăng, sao
+=lamp of Phoebus+ (thơ ca) mặt trời
+=lamp of heaven+ (thơ ca) mặt trăng
+- nguồn ánh sáng (tinh thần...), nguồn hy vọng
+!to pass (band) on the lamp
+- góp phần vào bước tiến (của khoa học, của một sự nghiệp...)
+!to smell of the lamp
+- tỏ ra công phu; phải thức đêm thức hôm để làm
+- nặng nề, không thanh thoát; cầu kỳ (văn)
+*  động từ
+- chiếu sáng, rọi sáng
+- treo đèn, chăng đèn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn
+@Chuyên ngành kinh tế
+-chiếu sáng
+-rọi sáng
+@Chuyên ngành kỹ thuật
+-bóng đèn
+-cái đèn
+-đèn
+-đèn báo
+-đèn điện
+-đèn nóng sáng
+-đèn tín hiệu
+-nguồn sáng
+-ống
+@Lĩnh vực: điện lạnh
+-đèn (điện)
+@Chuyên ngành kỹ thuật
+-bóng đèn
+-cái đèn
+-đèn
+-đèn báo
+-đèn điện
+-đèn nóng sáng
+-đèn tín hiệu
+-nguồn sáng
+-ống
+@Lĩnh vực: điện lạnh
+-đèn (điện)

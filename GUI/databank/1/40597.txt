@@ -1,3 +1,17 @@
-perfume
-	@perfume /'pə:fju:m/\n*  danh từ\n- hương thơm; mùi thơm\n- nước hoa; dầu thơm\n*  ngoại động từ\n- toả hương thơm vào, toả mùi thơm vào (không khí...)\n- xức nước hoa vào (khăn tay, tóc...)\n@Chuyên ngành kinh tế\n-bổ sung thêm chất thơm\n-chất thơm\n-mùi thơm\n-nước hoa\n-tăng thêm mùi thơm\n@Chuyên ngành kỹ thuật\n-dầu thơm\n@Lĩnh vực: hóa học & vật liệu\n-nước hoa
-
+perfume	@perfume /'pə:fju:m/
+*  danh từ
+- hương thơm; mùi thơm
+- nước hoa; dầu thơm
+*  ngoại động từ
+- toả hương thơm vào, toả mùi thơm vào (không khí...)
+- xức nước hoa vào (khăn tay, tóc...)
+@Chuyên ngành kinh tế
+-bổ sung thêm chất thơm
+-chất thơm
+-mùi thơm
+-nước hoa
+-tăng thêm mùi thơm
+@Chuyên ngành kỹ thuật
+-dầu thơm
+@Lĩnh vực: hóa học & vật liệu
+-nước hoa

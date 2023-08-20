@@ -1,3 +1,5 @@
-monotonic
-	@monotonic\n- đơn điệu\n@Chuyên ngành kỹ thuật\n-đều đều\n-đơn điệu
-
+monotonic	@monotonic
+- đơn điệu
+@Chuyên ngành kỹ thuật
+-đều đều
+-đơn điệu

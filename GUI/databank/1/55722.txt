@@ -1,3 +1,6 @@
-teal
-	@teal /ti:l/\n*  danh từ,  số nhiều không đổi\n- (động vật học) mòng két\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mòng két
-
+teal	@teal /ti:l/
+*  danh từ,  số nhiều không đổi
+- (động vật học) mòng két
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-mòng két

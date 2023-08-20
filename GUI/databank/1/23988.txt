@@ -1,3 +1,21 @@
-grader
-	@grader\n* danh từ\n- máy san đất; máy ủi\n- máy tuyển chọn; máy phân hạng; máy phân loại\n- học sinh thuộc một cấp lớp nào đó trong trường tiểu học hoặc trung học\n= tenth graders+các học sinh lớp 10\n@Chuyên ngành kinh tế\n-máy phân loại\n@Chuyên ngành kỹ thuật\n-máy phân loại\n-máy san\n-máy san bằng\n-máy san đất\n-máy san đường\n-máy ủi\n@Lĩnh vực: hóa học & vật liệu\n-máy đãi quặng\n@Lĩnh vực: xây dựng\n-máy phân hạng\n-máy san nền
-
+grader	
+@grader
+* danh từ
+- máy san đất; máy ủi
+- máy tuyển chọn; máy phân hạng; máy phân loại
+- học sinh thuộc một cấp lớp nào đó trong trường tiểu học hoặc trung học= tenth graders
++các học sinh lớp 10
+@Chuyên ngành kinh tế
+-máy phân loại
+@Chuyên ngành kỹ thuật
+-máy phân loại
+-máy san
+-máy san bằng
+-máy san đất
+-máy san đường
+-máy ủi
+@Lĩnh vực: hóa học & vật liệu
+-máy đãi quặng
+@Lĩnh vực: xây dựng
+-máy phân hạng
+-máy san nền

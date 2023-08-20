@@ -1,3 +1,8 @@
-scratcher
-	@scratcher\n* danh từ\n- dụng cụ nạo; dao nạo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dao vạch cữ\n-dao vuốt mạch\n-dụng cụ cạo (bề mặt)
-
+scratcher	@scratcher
+* danh từ
+- dụng cụ nạo; dao nạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dao vạch cữ
+-dao vuốt mạch
+-dụng cụ cạo (bề mặt)

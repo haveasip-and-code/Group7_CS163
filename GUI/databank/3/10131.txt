@@ -1,3 +1,2 @@
-coffers
-	@Chuyên ngành kinh tế\n-kho bạc
-
+coffers	@Chuyên ngành kinh tế
+-kho bạc

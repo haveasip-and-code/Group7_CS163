@@ -1,3 +1,18 @@
-relative
-	@relative /'relətiv/\n*  tính từ\n- có kiên quan\n=relative evidence+ bằng chứng liên quan\n=to give facts relative to the matter+ đưa ra những sự việc liên quan đến vấn đề\n- cân xứng với, cân đối vơi, tuỳ theo\n=supply is relative to demand+ số cung cân xứng với số cầu\n=beauty is relative to the beholder's eyes+ vẻ đẹp là tuỳ theo ở mắt của người nhìn\n- (ngôn ngữ học) quan hệ\n=relative pronoun+ đại từ quan hệ\n- tương đối\n*  danh từ\n- bà con thân thuộc, người có họ\n=a remote relative+ người bà con xa, người có họ xa\n- (ngôn ngữ học) đại từ quan hệ ((cũng) relative pronoun)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tỷ đối
-
+relative	@relative /'relətiv/
+*  tính từ
+- có kiên quan
+=relative evidence+ bằng chứng liên quan
+=to give facts relative to the matter+ đưa ra những sự việc liên quan đến vấn đề
+- cân xứng với, cân đối vơi, tuỳ theo
+=supply is relative to demand+ số cung cân xứng với số cầu
+=beauty is relative to the beholder's eyes+ vẻ đẹp là tuỳ theo ở mắt của người nhìn
+- (ngôn ngữ học) quan hệ
+=relative pronoun+ đại từ quan hệ
+- tương đối
+*  danh từ
+- bà con thân thuộc, người có họ
+=a remote relative+ người bà con xa, người có họ xa
+- (ngôn ngữ học) đại từ quan hệ ((cũng) relative pronoun)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tỷ đối

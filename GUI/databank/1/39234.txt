@@ -1,3 +1,14 @@
-pail
-	@pail /peid/\n*  danh từ\n- cái thùng, cái xô\n- thùng (đầy), xô (đầy)\n=half a pail of milk+ nửa xô sữa\n@Chuyên ngành kinh tế\n-bãi cá\n-cái xô\n-thùng\n-thùng xách tay\n-xô\n@Chuyên ngành kỹ thuật\n-gàu\n-xô
-
+pail	@pail /peid/
+*  danh từ
+- cái thùng, cái xô
+- thùng (đầy), xô (đầy)
+=half a pail of milk+ nửa xô sữa
+@Chuyên ngành kinh tế
+-bãi cá
+-cái xô
+-thùng
+-thùng xách tay
+-xô
+@Chuyên ngành kỹ thuật
+-gàu
+-xô

@@ -1,3 +1,6 @@
-metastable
-	@Chuyên ngành kỹ thuật\n-nửa bền\n@Lĩnh vực: cơ khí & công trình\n-giả ổn định\n@Lĩnh vực: vật lý\n-nửa bền (vững)
-
+metastable	@Chuyên ngành kỹ thuật
+-nửa bền
+@Lĩnh vực: cơ khí & công trình
+-giả ổn định
+@Lĩnh vực: vật lý
+-nửa bền (vững)

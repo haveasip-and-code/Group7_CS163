@@ -1,3 +1,2 @@
-admissive
-	@admissive\n- xem admission
-
+admissive	@admissive
+- xem admission

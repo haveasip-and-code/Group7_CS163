@@ -1,3 +1,22 @@
-poise
-	@poise /pɔiz/\n*  danh từ\n- thế thăng bằng, thế cân bằng\n- dáng, tư thế (đầu...)\n- tư thế đĩnh đạc, tư thế đàng hoàng\n- tính đĩnh đạc\n!to hang at poise\n- chưa quyết định, chưa ngã ngũ\n*  ngoại động từ\n- làm thăng bằng, làm cân bằng\n- để lơ lửng, treo lơ lửng\n- để (đầu... ở một tư thế nào đó); để (cái gì...) ở tư thế sẵn sàng\n*  nội động từ\n- thăng bằng, cân bằng\n- lơ lửng\n@Chuyên ngành kỹ thuật\n-cân bằng\n-đối trọng\n-làm cân bằng\n-sự cân bằng\n@Lĩnh vực: hóa học & vật liệu\n-poa (đơn vị độ nhớt CGS)
-
+poise	@poise /pɔiz/
+*  danh từ
+- thế thăng bằng, thế cân bằng
+- dáng, tư thế (đầu...)
+- tư thế đĩnh đạc, tư thế đàng hoàng
+- tính đĩnh đạc
+!to hang at poise
+- chưa quyết định, chưa ngã ngũ
+*  ngoại động từ
+- làm thăng bằng, làm cân bằng
+- để lơ lửng, treo lơ lửng
+- để (đầu... ở một tư thế nào đó); để (cái gì...) ở tư thế sẵn sàng
+*  nội động từ
+- thăng bằng, cân bằng
+- lơ lửng
+@Chuyên ngành kỹ thuật
+-cân bằng
+-đối trọng
+-làm cân bằng
+-sự cân bằng
+@Lĩnh vực: hóa học & vật liệu
+-poa (đơn vị độ nhớt CGS)

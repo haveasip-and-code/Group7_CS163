@@ -1,3 +1,4 @@
-milligram
-	@Chuyên ngành kỹ thuật\n-miligam\n@Lĩnh vực: y học\n-milligam (một phần ngàn gam, ký hiệu mg)
-
+milligram	@Chuyên ngành kỹ thuật
+-miligam
+@Lĩnh vực: y học
+-milligam (một phần ngàn gam, ký hiệu mg)

@@ -1,3 +1,11 @@
-gripper
-	@gripper\n- xem grip\n@Chuyên ngành kỹ thuật\n-bộ kẹp\n-cái kim\n-cái kìm\n-dụng cụ kẹp\n-kìm thông dụng\n@Lĩnh vực: hóa học & vật liệu\n-cái móc đuôi
-
+gripper	
+@gripper
+- xem grip
+@Chuyên ngành kỹ thuật
+-bộ kẹp
+-cái kim
+-cái kìm
+-dụng cụ kẹp
+-kìm thông dụng
+@Lĩnh vực: hóa học & vật liệu
+-cái móc đuôi

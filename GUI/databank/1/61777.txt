@@ -1,3 +1,6 @@
-viewfinder
-	@Chuyên ngành kỹ thuật\n-kính ngắm\n@Lĩnh vực: điện\n-bộ ngắm\n@Lĩnh vực: điện lạnh\n-bộ ngắm điện tử
-
+viewfinder	@Chuyên ngành kỹ thuật
+-kính ngắm
+@Lĩnh vực: điện
+-bộ ngắm
+@Lĩnh vực: điện lạnh
+-bộ ngắm điện tử

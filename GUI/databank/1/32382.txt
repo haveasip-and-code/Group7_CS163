@@ -1,3 +1,29 @@
-liquor
-	@liquor /'likə/\n*  danh từ\n- chất lỏng\n- rượu\n- (từ lóng) cốc rượu nhỏ; hớp rượu\n- nước luộc (thức ăn)\n- (dược học) thuộc nước, dung dịch\n!to be in liquor\n!to be the worse for liquor\n!to be disguised with liquor\n- sự say rượu, chếnh choáng hơi men\n*  động từ\n- thoa mỡ, bôi mỡ (lên giấy, lên da)\n- nhúng vào nước, trộn vào nước (mạch nha...)\n- (từ lóng) đánh chén\n@Chuyên ngành kinh tế\n-chất dịch\n-chất lỏng\n-nước muối\n@Chuyên ngành kỹ thuật\n-chất lỏng\n-dung dịch\n@Lĩnh vực: hóa học & vật liệu\n-rượu\n@Chuyên ngành kỹ thuật\n-chất lỏng\n-dung dịch\n@Lĩnh vực: hóa học & vật liệu\n-rượu
-
+liquor	@liquor /'likə/
+*  danh từ
+- chất lỏng
+- rượu
+- (từ lóng) cốc rượu nhỏ; hớp rượu
+- nước luộc (thức ăn)
+- (dược học) thuộc nước, dung dịch
+!to be in liquor
+!to be the worse for liquor
+!to be disguised with liquor
+- sự say rượu, chếnh choáng hơi men
+*  động từ
+- thoa mỡ, bôi mỡ (lên giấy, lên da)
+- nhúng vào nước, trộn vào nước (mạch nha...)
+- (từ lóng) đánh chén
+@Chuyên ngành kinh tế
+-chất dịch
+-chất lỏng
+-nước muối
+@Chuyên ngành kỹ thuật
+-chất lỏng
+-dung dịch
+@Lĩnh vực: hóa học & vật liệu
+-rượu
+@Chuyên ngành kỹ thuật
+-chất lỏng
+-dung dịch
+@Lĩnh vực: hóa học & vật liệu
+-rượu

@@ -1,3 +1,6 @@
-groupoid
-	@groupoid\n- (đại số) phỏng nhóm\n- metric g. (đại số) phỏng nhóm mêtric|\n@Chuyên ngành kỹ thuật\n-phỏng nhóm
-
+groupoid	
+@groupoid
+- (đại số) phỏng nhóm
+- metric g. (đại số) phỏng nhóm mêtric|
+@Chuyên ngành kỹ thuật
+-phỏng nhóm

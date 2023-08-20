@@ -1,3 +1,17 @@
-privy
-	@privy /privy/\n*  tính từ\n- riêng, tư; kín, bí mật\n=to be privy to something+ được biết riêng việc gì\n=privy parts+ chỗ kín (bộ phận sinh dục)\n!Privy Council\n- Hội đồng cơ mật (hoàng gia Anh)\n!Privy Counsellor (Councillor)\n- uỷ viên hội đồng cơ mật (hoàng gia Anh)\n!Lord Privy Seal\n- quan giữ ấn nhỏ\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) nhà triệu phú, nhà xí\n- (pháp lý) đương sự, người hữu quan\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hố xí riêng (không có đường ống thoát)
-
+privy	@privy /privy/
+*  tính từ
+- riêng, tư; kín, bí mật
+=to be privy to something+ được biết riêng việc gì
+=privy parts+ chỗ kín (bộ phận sinh dục)
+!Privy Council
+- Hội đồng cơ mật (hoàng gia Anh)
+!Privy Counsellor (Councillor)
+- uỷ viên hội đồng cơ mật (hoàng gia Anh)
+!Lord Privy Seal
+- quan giữ ấn nhỏ
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) nhà triệu phú, nhà xí
+- (pháp lý) đương sự, người hữu quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hố xí riêng (không có đường ống thoát)

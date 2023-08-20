@@ -1,3 +1,19 @@
-decade
-	@decade /'dekeid/\n*  danh từ\n- bộ mười, nhóm mười\n- thời kỳ mười năm\n- tuần (mười ngày)\n@Chuyên ngành kinh tế\n-thập kỷ\n-thập niên\n@Chuyên ngành kỹ thuật\n-bộ mười\n-mười năm\n@Lĩnh vực: toán & tin\n-nhóm mười\n-một chục năm\n-thập kỉ\n@Lĩnh vực: điện lạnh\n-thang thập tiến\n-thập tiến
-
+decade	
+@decade /'dekeid/
+*  danh từ
+- bộ mười, nhóm mười
+- thời kỳ mười năm
+- tuần (mười ngày)
+@Chuyên ngành kinh tế
+-thập kỷ
+-thập niên
+@Chuyên ngành kỹ thuật
+-bộ mười
+-mười năm
+@Lĩnh vực: toán & tin
+-nhóm mười
+-một chục năm
+-thập kỉ
+@Lĩnh vực: điện lạnh
+-thang thập tiến
+-thập tiến

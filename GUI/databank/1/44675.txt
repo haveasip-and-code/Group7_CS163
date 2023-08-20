@@ -1,3 +1,20 @@
-pulverize
-	@pulverize /'pʌlvəraiz/ (pulverizator) /'pʌlvəraizeitə/ (pulverise) /'pʌlvəraiz/\n*  ngoại động từ\n- tán thành bột, giã nhỏ như cám; phun bụi nước\n- (nghĩa bóng) đạp vụn tan thành, phá huỷ hoàn toàn\n*  nội động từ\n- bị đạp vụn tan tành, nát vụn như cám; thành bụi\n@Chuyên ngành kinh tế\n-nghiền mịn\n-phun bụi\n-tán nhỏ thành bột mịn\n@Chuyên ngành kỹ thuật\n-nghiền\n-nghiền mịn\n-nghiền thành bột\n-nghiền vụn\n-nghiền, tán, phun\n-phun\n-tán\n@Lĩnh vực: hóa học & vật liệu\n-phun thành bụi (nước)
-
+pulverize	@pulverize /'pʌlvəraiz/ (pulverizator) /'pʌlvəraizeitə/ (pulverise) /'pʌlvəraiz/
+*  ngoại động từ
+- tán thành bột, giã nhỏ như cám; phun bụi nước
+- (nghĩa bóng) đạp vụn tan thành, phá huỷ hoàn toàn
+*  nội động từ
+- bị đạp vụn tan tành, nát vụn như cám; thành bụi
+@Chuyên ngành kinh tế
+-nghiền mịn
+-phun bụi
+-tán nhỏ thành bột mịn
+@Chuyên ngành kỹ thuật
+-nghiền
+-nghiền mịn
+-nghiền thành bột
+-nghiền vụn
+-nghiền, tán, phun
+-phun
+-tán
+@Lĩnh vực: hóa học & vật liệu
+-phun thành bụi (nước)

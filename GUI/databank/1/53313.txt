@@ -1,3 +1,3 @@
-stich
-	@stich\n* danh từ\n- dòng thơ, câu thơ
-
+stich	@stich
+* danh từ
+- dòng thơ, câu thơ

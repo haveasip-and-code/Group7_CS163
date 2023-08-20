@@ -1,3 +1,8 @@
-technic
-	@technic /'teknik/\n*  tính từ\n- (từ hiếm,nghĩa hiếm) (như) technical\n*  danh từ\n- kỹ thuật\n- ((thường) số nhiều) các nghành kỹ thuật\n- (số nhiều) chi tiết kỹ thuật\n- (số nhiều) thuật ngữ kỹ thuật
-
+technic	@technic /'teknik/
+*  tính từ
+- (từ hiếm,nghĩa hiếm) (như) technical
+*  danh từ
+- kỹ thuật
+- ((thường) số nhiều) các nghành kỹ thuật
+- (số nhiều) chi tiết kỹ thuật
+- (số nhiều) thuật ngữ kỹ thuật

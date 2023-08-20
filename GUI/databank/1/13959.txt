@@ -1,3 +1,9 @@
-deduce
-	@deduce /di'dju:s/\n*  ngoại động từ\n- suy ra, luận ra, suy luận, suy diễn\n- vạch lại lai lịch nguồn gốc (của người nào...)\n@Chuyên ngành kỹ thuật\n-kết luận\n-suy diễn\n-suy ra
-
+deduce	
+@deduce /di'dju:s/
+*  ngoại động từ
+- suy ra, luận ra, suy luận, suy diễn
+- vạch lại lai lịch nguồn gốc (của người nào...)
+@Chuyên ngành kỹ thuật
+-kết luận
+-suy diễn
+-suy ra

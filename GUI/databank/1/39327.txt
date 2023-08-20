@@ -1,3 +1,7 @@
-palletizing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự hóa cục\n-sự hóa hạt\n-sự hóa hòn\n@Lĩnh vực: xây dựng\n-sự trộn bằng xẻng
-
+palletizing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự hóa cục
+-sự hóa hạt
+-sự hóa hòn
+@Lĩnh vực: xây dựng
+-sự trộn bằng xẻng

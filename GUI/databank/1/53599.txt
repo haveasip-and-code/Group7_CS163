@@ -1,3 +1,50 @@
-strand
-	@strand /strænd/\n*  danh từ\n- (thơ ca); (văn học) bờ (biển, sông, hồ)\n*  ngoại động từ\n- làm mắc cạn\n*  nội động từ\n- mắc cạn (tàu)\n*  danh từ\n- tao (của dây)\n- thành phần, bộ phận (của một thể phức hợp)\n*  ngoại động từ\n- đánh đứt một tao (của một sợi dây thừng...)\n- bện (thừng) bằng tao\n@Chuyên ngành kinh tế\n-mắc cạn (tàu)\n-tàu mắc cạn, bị mắc cạn\n@Chuyên ngành kỹ thuật\n-bó (cáp)\n-bờ hồ\n-bộ phận\n-bờ sông\n-dảnh dây\n-dảnh sợi thủy tinh\n-dây bện\n-dây cáp\n-dây đơn\n-lõi cáp\n-miếng đệm\n-thành phần\n@Lĩnh vực: điện\n-bện dây\n-nhánh dây\n-xe dây\n@Lĩnh vực: xây dựng\n-bện thành dảnh\n-bó sợi xoắn\n-cáp trong bê tông\n-dảnh (cáp)\n-tảo\n-tao cáp\n@Lĩnh vực: giao thông & vận tải\n-bó cáp\n@Lĩnh vực: toán & tin\n-cáp\n@Lĩnh vực: y học\n-sợi, dải\n@Lĩnh vực: hóa học & vật liệu\n-tao (của dây)\n@Lĩnh vực: cơ khí & công trình\n-tạo sợi con
-
+strand	@strand /strænd/
+*  danh từ
+- (thơ ca); (văn học) bờ (biển, sông, hồ)
+*  ngoại động từ
+- làm mắc cạn
+*  nội động từ
+- mắc cạn (tàu)
+*  danh từ
+- tao (của dây)
+- thành phần, bộ phận (của một thể phức hợp)
+*  ngoại động từ
+- đánh đứt một tao (của một sợi dây thừng...)
+- bện (thừng) bằng tao
+@Chuyên ngành kinh tế
+-mắc cạn (tàu)
+-tàu mắc cạn, bị mắc cạn
+@Chuyên ngành kỹ thuật
+-bó (cáp)
+-bờ hồ
+-bộ phận
+-bờ sông
+-dảnh dây
+-dảnh sợi thủy tinh
+-dây bện
+-dây cáp
+-dây đơn
+-lõi cáp
+-miếng đệm
+-thành phần
+@Lĩnh vực: điện
+-bện dây
+-nhánh dây
+-xe dây
+@Lĩnh vực: xây dựng
+-bện thành dảnh
+-bó sợi xoắn
+-cáp trong bê tông
+-dảnh (cáp)
+-tảo
+-tao cáp
+@Lĩnh vực: giao thông & vận tải
+-bó cáp
+@Lĩnh vực: toán & tin
+-cáp
+@Lĩnh vực: y học
+-sợi, dải
+@Lĩnh vực: hóa học & vật liệu
+-tao (của dây)
+@Lĩnh vực: cơ khí & công trình
+-tạo sợi con

@@ -1,3 +1,8 @@
-quantizer
-	@quantizer\n* danh từ\n- bộ lượng tử hoá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bộ lượng tử hóa\n@Lĩnh vực: toán & tin\n-máy lượng tử hóa
-
+quantizer	@quantizer
+* danh từ
+- bộ lượng tử hoá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bộ lượng tử hóa
+@Lĩnh vực: toán & tin
+-máy lượng tử hóa

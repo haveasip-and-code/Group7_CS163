@@ -1,3 +1,18 @@
-ammunition
-	@ammunition /,æmju'niʃn/\n*  danh từ\n- đạn dược\n*  định ngữ\n- (thuộc) đạn dược\n=ammunition belt+ (từ Mỹ,nghĩa Mỹ) bằng đạn\n=ammunition+ hòm đạn\n=ammunition depot+ kho đạn\n=ammunition factory+ xưởng đúc đạn\n=ammunition waggon+ toa chở đạn dược\n- (nghĩa bóng) lý lẽ, sự kiện (để công kích hay bào chữa)\n- (sử học) quân trang quân dụng\n=amminition boots+ giày quân dụng\n=ammunition bread+ bánh quân dụng\n=ammunition leg+ (thông tục) chân gỗ, chân giả\n*  ngoại động từ\n- cung cấp đạn dược
-
+ammunition	
+@ammunition /,æmju'niʃn/
+*  danh từ
+- đạn dược
+*  định ngữ
+- (thuộc) đạn dược=ammunition belt
++ (từ Mỹ,nghĩa Mỹ) bằng đạn=ammunition
++ hòm đạn=ammunition depot
++ kho đạn=ammunition factory
++ xưởng đúc đạn=ammunition waggon
++ toa chở đạn dược
+- (nghĩa bóng) lý lẽ, sự kiện (để công kích hay bào chữa)
+- (sử học) quân trang quân dụng=amminition boots
++ giày quân dụng=ammunition bread
++ bánh quân dụng=ammunition leg
++ (thông tục) chân gỗ, chân giả
+*  ngoại động từ
+- cung cấp đạn dược

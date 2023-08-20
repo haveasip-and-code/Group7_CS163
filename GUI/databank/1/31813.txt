@@ -1,3 +1,24 @@
-ledger
-	@ledger /'ledʤə/\n*  danh từ\n- (kế toán) sổ cái\n- (kiến trúc) phiến đá phẳng (để xây bệ thờ, xây mộ...)\n- gióng ngang (của giàn giáo)\n- cần câu\n@Chuyên ngành kinh tế\n-sổ cái (kế toán)\n@Chuyên ngành kỹ thuật\n-gióng ngang\n-sổ cái\n-tà vẹt\n-xà gồ\n@Lĩnh vực: xây dựng\n-dóng ngang\n-gióng ngang (giàn)\n@Chuyên ngành kỹ thuật\n-gióng ngang\n-sổ cái\n-tà vẹt\n-xà gồ\n@Lĩnh vực: xây dựng\n-dóng ngang\n-gióng ngang (giàn)
-
+ledger	@ledger /'ledʤə/
+*  danh từ
+- (kế toán) sổ cái
+- (kiến trúc) phiến đá phẳng (để xây bệ thờ, xây mộ...)
+- gióng ngang (của giàn giáo)
+- cần câu
+@Chuyên ngành kinh tế
+-sổ cái (kế toán)
+@Chuyên ngành kỹ thuật
+-gióng ngang
+-sổ cái
+-tà vẹt
+-xà gồ
+@Lĩnh vực: xây dựng
+-dóng ngang
+-gióng ngang (giàn)
+@Chuyên ngành kỹ thuật
+-gióng ngang
+-sổ cái
+-tà vẹt
+-xà gồ
+@Lĩnh vực: xây dựng
+-dóng ngang
+-gióng ngang (giàn)

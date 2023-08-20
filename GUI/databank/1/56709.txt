@@ -1,3 +1,8 @@
-timekeeper
-	@timekeeper /'taim,ki:pə/\n*  danh từ\n- người ghi giờ làm việc\n- người ghi sự có mặt (của công nhân)\n- (thể dục,thể thao) người bấm giờ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-người chấm công
-
+timekeeper	@timekeeper /'taim,ki:pə/
+*  danh từ
+- người ghi giờ làm việc
+- người ghi sự có mặt (của công nhân)
+- (thể dục,thể thao) người bấm giờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-người chấm công

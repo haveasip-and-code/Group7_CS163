@@ -1,3 +1,17 @@
-compaction
-	@compaction\n- (Tech) ép, nén\n@Chuyên ngành kỹ thuật\n-nén chặt\n-sự ép\n-sự ép chặt\n-sự lèn chặt\n-sự nén\n-sự nén chặt\n-sự nén đất xuống\n@Lĩnh vực: xây dựng\n-đầm lèn\n-lu lèn\n-sự dầm chặt\n@Lĩnh vực: toán & tin\n-sự nén (dữ liệu)
-
+compaction	
+@compaction
+- (Tech) ép, nén
+@Chuyên ngành kỹ thuật
+-nén chặt
+-sự ép
+-sự ép chặt
+-sự lèn chặt
+-sự nén
+-sự nén chặt
+-sự nén đất xuống
+@Lĩnh vực: xây dựng
+-đầm lèn
+-lu lèn
+-sự dầm chặt
+@Lĩnh vực: toán & tin
+-sự nén (dữ liệu)

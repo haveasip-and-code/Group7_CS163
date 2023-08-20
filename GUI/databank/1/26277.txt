@@ -1,3 +1,47 @@
-hot
-	@hot /hɔt/\n*  tính từ\n- nóng, nóng bức\n=hot climate+ khí hậu nóng bức\n- cay nồng, cay bỏng (ớt, tiêu...)\n- nồng nặc, còn ngửi thấy rõ (hơi thú săn)\n- nóng nảy\n=hot temper+ tính nóng nảy\n- sôi nổi, hăng hái; gay gắt, kịch liệt\n=hot dispute+ cuộc tranh cãi sôi nổi\n- nóng hổi, sốt dẻo (tin tức)\n- mới phát hành giấy bạc\n- (âm nhạc) giật gân\n=hot music+ nhạc giật gân\n- (thể dục,thể thao) được mọi người hy vọng, thắng hơn cả (vận động viên chạy...)\n- (từ lóng) dễ nhận ra và khó sử dụng (đồ tư trang lấy cắp, giấy bạc...)\n- (điện học) thế hiệu cao\n- (từ Mỹ,nghĩa Mỹ),  (vật lý) phóng xạ\n- (từ Mỹ,nghĩa Mỹ) dâm đãng, dê (người)\n- (từ Mỹ,nghĩa Mỹ) vừa mới kiếm được một cách bất chính; vừa mới ăn cắp được\n- (từ Mỹ,nghĩa Mỹ) bị công an truy nã\n- (từ Mỹ,nghĩa Mỹ) không an toàn cho kẻ trốn tránh\n!hot and hot\n- ăn nóng (thức ăn)\n!hot and strong\n- sôi nổi, kịch liệt\n!to make it (the place) too hot for somebody\n- gây khó khăn rắc rối làm cho ai khó chịu phải bỏ chỗ nào mà đi\n*  phó từ\n- nóng\n- nóng nảy, giận dữ\n- sôi nổi; kịch liệt\n!to blow hot and cold\n- hay dao động, ngả nghiêng, hay thay đổi ý kiến\n!to give it somebody hot\n- (xem) give\n*  ngoại động từ\n- đun nóng, hâm\n@Chuyên ngành kinh tế\n-cay\n-hăng\n-nóng sốt\n@Chuyên ngành kỹ thuật\n-điện\n-được cấp điện\n-được kích hoạt\n-nóng\n-nóng (dây)\n-mang điện\n@Lĩnh vực: vật lý\n-nung đỏ
-
+hot	
+@hot /hɔt/
+*  tính từ
+- nóng, nóng bức=hot climate
++ khí hậu nóng bức
+- cay nồng, cay bỏng (ớt, tiêu...)
+- nồng nặc, còn ngửi thấy rõ (hơi thú săn)
+- nóng nảy=hot temper
++ tính nóng nảy
+- sôi nổi, hăng hái; gay gắt, kịch liệt=hot dispute
++ cuộc tranh cãi sôi nổi
+- nóng hổi, sốt dẻo (tin tức)
+- mới phát hành giấy bạc
+- (âm nhạc) giật gân=hot music
++ nhạc giật gân
+- (thể dục,thể thao) được mọi người hy vọng, thắng hơn cả (vận động viên chạy...)
+- (từ lóng) dễ nhận ra và khó sử dụng (đồ tư trang lấy cắp, giấy bạc...)
+- (điện học) thế hiệu cao
+- (từ Mỹ,nghĩa Mỹ),  (vật lý) phóng xạ
+- (từ Mỹ,nghĩa Mỹ) dâm đãng, dê (người)
+- (từ Mỹ,nghĩa Mỹ) vừa mới kiếm được một cách bất chính; vừa mới ăn cắp được
+- (từ Mỹ,nghĩa Mỹ) bị công an truy nã
+- (từ Mỹ,nghĩa Mỹ) không an toàn cho kẻ trốn tránh!hot and hot
+- ăn nóng (thức ăn)!hot and strong
+- sôi nổi, kịch liệt!to make it (the place) too hot for somebody
+- gây khó khăn rắc rối làm cho ai khó chịu phải bỏ chỗ nào mà đi
+*  phó từ
+- nóng
+- nóng nảy, giận dữ
+- sôi nổi; kịch liệt!to blow hot and cold
+- hay dao động, ngả nghiêng, hay thay đổi ý kiến!to give it somebody hot
+- (xem) give
+*  ngoại động từ
+- đun nóng, hâm
+@Chuyên ngành kinh tế
+-cay
+-hăng
+-nóng sốt
+@Chuyên ngành kỹ thuật
+-điện
+-được cấp điện
+-được kích hoạt
+-nóng
+-nóng (dây)
+-mang điện
+@Lĩnh vực: vật lý
+-nung đỏ

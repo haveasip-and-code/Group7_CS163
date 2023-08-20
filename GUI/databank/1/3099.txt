@@ -1,3 +1,7 @@
-aquiferous
-	@aquiferous\n- xem aquifer\n@Chuyên ngành kỹ thuật\n-tính chịu nước\n@Lĩnh vực: hóa học & vật liệu\n-chứa nước
-
+aquiferous	
+@aquiferous
+- xem aquifer
+@Chuyên ngành kỹ thuật
+-tính chịu nước
+@Lĩnh vực: hóa học & vật liệu
+-chứa nước

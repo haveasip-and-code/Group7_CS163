@@ -1,3 +1,18 @@
-diversity
-	@diversity /dai'və:siti/\n*  danh từ\n- tính nhiều dạng, tính nhiều vẻ\n- loại khác nhau\n@Chuyên ngành kinh tế\n-tính đa dạng\n@Chuyên ngành kỹ thuật\n-loại\n-nhiều thứ\n-sự khác nhau\n-sự phân tập\n@Lĩnh vực: điện lạnh\n-sự đa dạng\n-sự phong phú\n@Lĩnh vực: hóa học & vật liệu\n-tính nhiều vẻ\n-tính phong phú
-
+diversity	
+@diversity /dai'və:siti/
+*  danh từ
+- tính nhiều dạng, tính nhiều vẻ
+- loại khác nhau
+@Chuyên ngành kinh tế
+-tính đa dạng
+@Chuyên ngành kỹ thuật
+-loại
+-nhiều thứ
+-sự khác nhau
+-sự phân tập
+@Lĩnh vực: điện lạnh
+-sự đa dạng
+-sự phong phú
+@Lĩnh vực: hóa học & vật liệu
+-tính nhiều vẻ
+-tính phong phú

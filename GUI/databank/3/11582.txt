@@ -1,3 +1,2 @@
-contrabassist
-	@contrabassist\n- xem contrabass
-
+contrabassist	@contrabassist
+- xem contrabass

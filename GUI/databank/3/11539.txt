@@ -1,3 +1,18 @@
-contiguous
-	@contiguous /kən'tigjuəs/\n*  tính từ\n- kề nhau, giáp nhau, tiếp giáp (vườn, ruộng, nhà...); láng giềng, bên cạnh\n=to be contiguous to something+ tiếp giáp với cái gì, gần với cái gì\n=contiguous angles+ (toán học) góc kề\n@Chuyên ngành kỹ thuật\n-có liên quan\n-kề\n-lân cận\n-liền kề\n-mật tiếp\n-tiếp cận\n-tiếp giáp\n-tiếp liên\n@Lĩnh vực: toán & tin\n-giàu ngữ cảnh\n@Lĩnh vực: xây dựng\n-kề (bên)
-
+contiguous	@contiguous /kən'tigjuəs/
+*  tính từ
+- kề nhau, giáp nhau, tiếp giáp (vườn, ruộng, nhà...); láng giềng, bên cạnh
+=to be contiguous to something+ tiếp giáp với cái gì, gần với cái gì
+=contiguous angles+ (toán học) góc kề
+@Chuyên ngành kỹ thuật
+-có liên quan
+-kề
+-lân cận
+-liền kề
+-mật tiếp
+-tiếp cận
+-tiếp giáp
+-tiếp liên
+@Lĩnh vực: toán & tin
+-giàu ngữ cảnh
+@Lĩnh vực: xây dựng
+-kề (bên)

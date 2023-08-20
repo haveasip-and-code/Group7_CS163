@@ -1,3 +1,4 @@
-redirection
-	@Chuyên ngành kỹ thuật\n-đổi hướng\n@Lĩnh vực: toán & tin\n-sự đổi hướng (vào, ra)
-
+redirection	@Chuyên ngành kỹ thuật
+-đổi hướng
+@Lĩnh vực: toán & tin
+-sự đổi hướng (vào, ra)

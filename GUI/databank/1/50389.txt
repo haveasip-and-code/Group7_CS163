@@ -1,3 +1,6 @@
-shipowner
-	@shipowner /'ʃip,ounə/\n*  danh từ\n- chủ tàu\n@Chuyên ngành kinh tế\n-chủ cho thuê tàu\n-chủ tàu
-
+shipowner	@shipowner /'ʃip,ounə/
+*  danh từ
+- chủ tàu
+@Chuyên ngành kinh tế
+-chủ cho thuê tàu
+-chủ tàu

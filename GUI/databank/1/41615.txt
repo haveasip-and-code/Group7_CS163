@@ -1,3 +1,7 @@
-pinching
-	@Chuyên ngành kỹ thuật\n-sự ép\n-sự nén\n-sự thắt lại\n-sự vát nhọn\n@Lĩnh vực: hóa học & vật liệu\n-sự teo đi
-
+pinching	@Chuyên ngành kỹ thuật
+-sự ép
+-sự nén
+-sự thắt lại
+-sự vát nhọn
+@Lĩnh vực: hóa học & vật liệu
+-sự teo đi

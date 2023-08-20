@@ -1,3 +1,19 @@
-likely
-	@likely /'laikli/\n*  tính từ\n- chắc đúng, có lẽ đúng, có lẽ thật\n=that is not likely+ điều đó không chắc đúng chút nào\n- có thể\n=he is not likely to come now+ có thể là nó không đến bây giờ\n- thích hợp, đúng với\n=the most likely (the likeliest) place for camping+ chỗ thích hợp nhất để cắm trại\n- có vẻ có năng lực\n=a likely young lad+ một thanh niên trông có vẻ có năng lực\n*  phó từ\n- có thể, chắc\n=is it going to rains? - very likely+ trời sắp mưa chăng? rất có thể\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể đúng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể đúng
-
+likely	@likely /'laikli/
+*  tính từ
+- chắc đúng, có lẽ đúng, có lẽ thật
+=that is not likely+ điều đó không chắc đúng chút nào
+- có thể
+=he is not likely to come now+ có thể là nó không đến bây giờ
+- thích hợp, đúng với
+=the most likely (the likeliest) place for camping+ chỗ thích hợp nhất để cắm trại
+- có vẻ có năng lực
+=a likely young lad+ một thanh niên trông có vẻ có năng lực
+*  phó từ
+- có thể, chắc
+=is it going to rains? - very likely+ trời sắp mưa chăng? rất có thể
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể đúng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể đúng

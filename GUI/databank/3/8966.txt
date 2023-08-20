@@ -1,3 +1,2 @@
-chequered
-	@chequered\n- Cách viết khác : checkered
-
+chequered	@chequered
+- Cách viết khác : checkered

@@ -1,3 +1,6 @@
-reshape
-	@reshape\n* ngoại động từ\n- tạo lại hình dáng, làm lại hình dáng; phục hồi hình dạng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tạo lại dạng
-
+reshape	@reshape
+* ngoại động từ
+- tạo lại hình dáng, làm lại hình dáng; phục hồi hình dạng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tạo lại dạng

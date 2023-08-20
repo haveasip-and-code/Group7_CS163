@@ -1,3 +1,11 @@
-braille
-	@braille /breil/\n*  danh từ\n- hệ thống chữ Bray (chữ nổi cho người mù)\n*  ngoại động từ\n- in bằng hệ thống chữ Bray (người mù)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chữ nổi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chữ Braille
-
+braille	@braille /breil/
+*  danh từ
+- hệ thống chữ Bray (chữ nổi cho người mù)
+*  ngoại động từ
+- in bằng hệ thống chữ Bray (người mù)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chữ nổi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chữ Braille

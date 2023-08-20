@@ -1,3 +1,18 @@
-receptor
-	@receptor\n* danh từ\n- cơ quan nhận cảm, thụ quan\n@Chuyên ngành kỹ thuật\n-bộ nhận\n-chất nhận\n-máy thu\n-ống nghe điện thoại\n@Lĩnh vực: hóa học & vật liệu\n-máy nhận\n@Lĩnh vực: xây dựng\n-máy thâu\n@Lĩnh vực: môi trường\n-môi trường nhận\n@Lĩnh vực: vật lý\n-quan cảm nhận\n@Lĩnh vực: y học\n-thụ thể
-
+receptor	@receptor
+* danh từ
+- cơ quan nhận cảm, thụ quan
+@Chuyên ngành kỹ thuật
+-bộ nhận
+-chất nhận
+-máy thu
+-ống nghe điện thoại
+@Lĩnh vực: hóa học & vật liệu
+-máy nhận
+@Lĩnh vực: xây dựng
+-máy thâu
+@Lĩnh vực: môi trường
+-môi trường nhận
+@Lĩnh vực: vật lý
+-quan cảm nhận
+@Lĩnh vực: y học
+-thụ thể

@@ -1,3 +1,8 @@
-oath
-	@oath /ouθ/\n*  danh từ,  số nhiều oaths\n- lời thề, lời tuyên thệ\n=to take (make, swear) an oath+ tuyên thệ\n=on (one's) oath+ đã thề, đã tuyên thệ\n=to put someone on his oath+ bắt ai thề\n=oath of allegiance+ lời thề trung thành\n- lời nguyền rủa
-
+oath	@oath /ouθ/
+*  danh từ,  số nhiều oaths
+- lời thề, lời tuyên thệ
+=to take (make, swear) an oath+ tuyên thệ
+=on (one's) oath+ đã thề, đã tuyên thệ
+=to put someone on his oath+ bắt ai thề
+=oath of allegiance+ lời thề trung thành
+- lời nguyền rủa

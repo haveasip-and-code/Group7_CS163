@@ -1,3 +1,15 @@
-supervision
-	@supervision /,sju:pə'viʤn/\n*  danh từ\n- sự trông nom, sự giám sát\n@Chuyên ngành kinh tế\n-giám sát\n-tình trạng bị giám sát\n-việc giám sát\n@Chuyên ngành kỹ thuật\n-giám sát\n-sự giám sát\n-sự theo dõi\n@Lĩnh vực: điện tử & viễn thông\n-sự giám sát (điện thoại)\n@Lĩnh vực: hóa học & vật liệu\n-sự trông nom
-
+supervision	@supervision /,sju:pə'viʤn/
+*  danh từ
+- sự trông nom, sự giám sát
+@Chuyên ngành kinh tế
+-giám sát
+-tình trạng bị giám sát
+-việc giám sát
+@Chuyên ngành kỹ thuật
+-giám sát
+-sự giám sát
+-sự theo dõi
+@Lĩnh vực: điện tử & viễn thông
+-sự giám sát (điện thoại)
+@Lĩnh vực: hóa học & vật liệu
+-sự trông nom

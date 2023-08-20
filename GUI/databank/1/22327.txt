@@ -1,3 +1,6 @@
-fresnel
-	@fresnel\n- (Tech) fresnen, têtrahec (10 lũy thừa 12 Hz)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frenen (1012 Hz)
-
+fresnel	
+@fresnel
+- (Tech) fresnen, têtrahec (10 lũy thừa 12 Hz)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-frenen (1012 Hz)

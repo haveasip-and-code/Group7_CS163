@@ -1,3 +1,10 @@
-bifilar
-	@bifilar\n- (Tech) hai dây, dây chập đôi\n@Chuyên ngành kỹ thuật\n-dây chập đôi\n-hai dây\n@Lĩnh vực: điện lạnh\n-chập đôi\n@Lĩnh vực: điện\n-dây xếp đôi\n-được quấn xếp đôi
-
+bifilar	@bifilar
+- (Tech) hai dây, dây chập đôi
+@Chuyên ngành kỹ thuật
+-dây chập đôi
+-hai dây
+@Lĩnh vực: điện lạnh
+-chập đôi
+@Lĩnh vực: điện
+-dây xếp đôi
+-được quấn xếp đôi

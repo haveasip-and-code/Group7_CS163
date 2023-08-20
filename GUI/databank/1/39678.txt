@@ -1,3 +1,2 @@
-paratroop
-	@paratroop\n- xem paratroops
-
+paratroop	@paratroop
+- xem paratroops

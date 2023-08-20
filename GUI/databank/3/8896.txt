@@ -1,3 +1,10 @@
-checkpoint
-	@checkpoint\n- (Tech) điểm kiểm tra, điểm đánh dấu\n@Chuyên ngành kinh tế\n-điểm trọng yếu thỏa thuận (quảng cáo)\n-trạm kiểm soát\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đặt điểm kiểm tra\n-kiểm tra điểm\n-tạo điểm kiểm tra
-
+checkpoint	@checkpoint
+- (Tech) điểm kiểm tra, điểm đánh dấu
+@Chuyên ngành kinh tế
+-điểm trọng yếu thỏa thuận (quảng cáo)
+-trạm kiểm soát
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đặt điểm kiểm tra
+-kiểm tra điểm
+-tạo điểm kiểm tra

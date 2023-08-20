@@ -1,3 +1,9 @@
-dependency
-	@dependency /di'pendənsi/\n*  danh từ\n- vật phụ thuộc; phần phụ thuộc\n- nước phụ thuộc\n@Chuyên ngành kỹ thuật\n-lệ thuộc\n@Lĩnh vực: toán & tin\n-phần phụ thuộc\n-tính phụ thuộc
-
+dependency	@dependency /di'pendənsi/
+*  danh từ
+- vật phụ thuộc; phần phụ thuộc
+- nước phụ thuộc
+@Chuyên ngành kỹ thuật
+-lệ thuộc
+@Lĩnh vực: toán & tin
+-phần phụ thuộc
+-tính phụ thuộc

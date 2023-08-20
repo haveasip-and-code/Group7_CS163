@@ -1,3 +1,40 @@
-inventory
-	@inventory /in'ventri/\n*  danh từ\n- sự kiểm kê; nằng kiểm kê; (từ Mỹ,nghĩa Mỹ) hàng hoá tồn kho (của một nhà buôn)\n- (từ Mỹ,nghĩa Mỹ) sự tóm tắt; bản tóm tắt\n- bản kê tài nguyên; bản kê thú rừng... (ở một vùng...)\n*  ngoại động từ\n- kiểm kê\n- (từ Mỹ,nghĩa Mỹ) tóm tắt\n*  nội động từ\n- đáng giá (theo kiểm kê)\n=stocks inventorying at 2,000,000+ kho hàng đáng giá 2 triệu đồng theo kiểm kê\n@Chuyên ngành kinh tế\n-bản kê tài sản\n-bản kê tình trạng nơi ở\n-bản kiểm kê\n-bản liệt kê\n-hàng hóa tồn trữ\n-hàng tồn kho\n-kho hàng\n-kiểm kê\n-số hàng trữ kho\n-sự kiểm kê\n-tồn kho\n-tồn trữ\n@Chuyên ngành kỹ thuật\n-bản tóm tắt\n-dự trữ\n-kiểm kê\n-lượng kiểm kê\n-lượng tồn kho\n-sự kiểm kê\n-sự kiểm tra\n-thư mục\n@Lĩnh vực: điện lạnh\n-bản kiểm kê\n@Lĩnh vực: toán & tin\n-bảng kiểm kê\n-danh sách kiểm kê\n-quỹ luân chuyển
-
+inventory	
+@inventory /in'ventri/
+*  danh từ
+- sự kiểm kê; nằng kiểm kê; (từ Mỹ,nghĩa Mỹ) hàng hoá tồn kho (của một nhà buôn)
+- (từ Mỹ,nghĩa Mỹ) sự tóm tắt; bản tóm tắt
+- bản kê tài nguyên; bản kê thú rừng... (ở một vùng...)
+*  ngoại động từ
+- kiểm kê
+- (từ Mỹ,nghĩa Mỹ) tóm tắt
+*  nội động từ
+- đáng giá (theo kiểm kê)=stocks inventorying at 2,000,000
++ kho hàng đáng giá 2 triệu đồng theo kiểm kê
+@Chuyên ngành kinh tế
+-bản kê tài sản
+-bản kê tình trạng nơi ở
+-bản kiểm kê
+-bản liệt kê
+-hàng hóa tồn trữ
+-hàng tồn kho
+-kho hàng
+-kiểm kê
+-số hàng trữ kho
+-sự kiểm kê
+-tồn kho
+-tồn trữ
+@Chuyên ngành kỹ thuật
+-bản tóm tắt
+-dự trữ
+-kiểm kê
+-lượng kiểm kê
+-lượng tồn kho
+-sự kiểm kê
+-sự kiểm tra
+-thư mục
+@Lĩnh vực: điện lạnh
+-bản kiểm kê
+@Lĩnh vực: toán & tin
+-bảng kiểm kê
+-danh sách kiểm kê
+-quỹ luân chuyển

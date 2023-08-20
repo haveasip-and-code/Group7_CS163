@@ -1,3 +1,45 @@
-contraction
-	@contraction /kən'trækʃn/\n*  danh từ\n- sự tiêm nhiễm, sự mắc (bệnh, nợ)\n=contraction of a habit+ sự mắc thói quen\n=contraction of debts+ sự mắc nợ\n*  danh từ\n- sự thu nhỏ, sự co, sự teo lại\n- (ngôn ngữ học) cách viết gọn; sự rút gọn; từ rút gọn\n@Chuyên ngành kinh tế\n-co rút\n-sự co lại\n-sự thu hẹp\n-sự thu rút\n-thu hẹp (về kinh tế, thương mại)\n@Chuyên ngành kỹ thuật\n-co\n-đất lún\n-độ co\n-độ lún\n-độ sụt\n-ngót\n-phép\n-sự cắt ngang\n-sự co\n-sự co ngót\n-sự co rút\n-sự co thắt\n-sự co thể tích\n-sự rút gọn\n-sự rút ngắn\n-sự thắt\n-sự thu nhỏ\n-thu lại\n@Lĩnh vực: toán & tin\n-ánh xạ co\n-sự thu gon\n@Lĩnh vực: xây dựng\n-co ngắn lại\n-co ngót (ngang)\n-sự làm chặt\n-sự thót ngang\n@Lĩnh vực: cơ khí & công trình\n-sự ngót\n-sự tóp
-
+contraction	
+@contraction /kən'trækʃn/
+*  danh từ
+- sự tiêm nhiễm, sự mắc (bệnh, nợ)=contraction of a habit
++ sự mắc thói quen=contraction of debts
++ sự mắc nợ
+*  danh từ
+- sự thu nhỏ, sự co, sự teo lại
+- (ngôn ngữ học) cách viết gọn; sự rút gọn; từ rút gọn
+@Chuyên ngành kinh tế
+-co rút
+-sự co lại
+-sự thu hẹp
+-sự thu rút
+-thu hẹp (về kinh tế, thương mại)
+@Chuyên ngành kỹ thuật
+-co
+-đất lún
+-độ co
+-độ lún
+-độ sụt
+-ngót
+-phép
+-sự cắt ngang
+-sự co
+-sự co ngót
+-sự co rút
+-sự co thắt
+-sự co thể tích
+-sự rút gọn
+-sự rút ngắn
+-sự thắt
+-sự thu nhỏ
+-thu lại
+@Lĩnh vực: toán & tin
+-ánh xạ co
+-sự thu gon
+@Lĩnh vực: xây dựng
+-co ngắn lại
+-co ngót (ngang)
+-sự làm chặt
+-sự thót ngang
+@Lĩnh vực: cơ khí & công trình
+-sự ngót
+-sự tóp

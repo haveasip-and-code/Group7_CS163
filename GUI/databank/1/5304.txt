@@ -1,3 +1,31 @@
-berth
-	@berth /bə:θ/\n*  danh từ\n- giường ngủ (trên tàu thuỷ hoặc xe lửa)\n- chỗ tàu có thể bỏ neo, chỗ tàu đậu ở bến\n- (thực vật học) địa vị, việc làm\n!to fall into a good (nice) berth\n- tìm được công ăn việc làm tốt\n!to give a wide berth to\n- (hàng hải) cho (tàu) tránh rộng ra\n- (từ lóng) tránh xa (ai)\n*  ngoại động từ\n- bỏ neo; buộc, cột (tàu)\n- sắp xếp chỗ ngủ (cho ai ở trên tàu)\n@Chuyên ngành kinh tế\n-chỗ tàu đậu\n-chỗ tàu neo\n-đậu bến\n-giường ngủ\n-giường xếp\n-nơi đậu tại bến tàu\n-thả neo\n@Chuyên ngành kỹ thuật\n-bến tàu\n-buộc tàu\n-cầu tàu\n-chỗ neo tàu\n-neo tàu\n@Lĩnh vực: xây dựng\n-giường ngủ\n-hầm tàu\n-khoang tàu\n-nơi tàu cập bến
-
+berth	
+@berth /bə:θ/
+*  danh từ
+- giường ngủ (trên tàu thuỷ hoặc xe lửa)
+- chỗ tàu có thể bỏ neo, chỗ tàu đậu ở bến
+- (thực vật học) địa vị, việc làm!to fall into a good (nice) berth
+- tìm được công ăn việc làm tốt!to give a wide berth to
+- (hàng hải) cho (tàu) tránh rộng ra
+- (từ lóng) tránh xa (ai)
+*  ngoại động từ
+- bỏ neo; buộc, cột (tàu)
+- sắp xếp chỗ ngủ (cho ai ở trên tàu)
+@Chuyên ngành kinh tế
+-chỗ tàu đậu
+-chỗ tàu neo
+-đậu bến
+-giường ngủ
+-giường xếp
+-nơi đậu tại bến tàu
+-thả neo
+@Chuyên ngành kỹ thuật
+-bến tàu
+-buộc tàu
+-cầu tàu
+-chỗ neo tàu
+-neo tàu
+@Lĩnh vực: xây dựng
+-giường ngủ
+-hầm tàu
+-khoang tàu
+-nơi tàu cập bến

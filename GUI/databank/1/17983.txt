@@ -1,3 +1,61 @@
-emission
-	@emission /i'miʃn/\n*  danh từ\n- sự phát ra (ánh sáng, nhiệt...), sự bốc ra, sự toả ra (mùi vị, hơi...)\n- vật phát ra, vật bốc ra, vật toả ra\n- (y học) sự xuất tinh\n- sự phát hành (giấy bạc...)\n@Chuyên ngành kỹ thuật\n-bốc lên\n-chất thải\n-khí phát tán\n-khí xả\n-phát xạ\n-phun khí\n-sự bức xạ\n-sự phát ra\n-sự phát tán\n-sự phát thải\n-sự phát xạ\n-sự phóng xạ\n-sự truyền\n-thoát ra\n-tỏa ra\n@Lĩnh vực: điện tử & viễn thông\n-buổi truyền hình\n-buổi truyền thanh\n@Lĩnh vực: xây dựng\n-điện phát ra\n-phát sóng\n-phát thanh\n@Lĩnh vực: điện\n-sự bức xa\n@Lĩnh vực: y học\n-xuất tinh\n@Chuyên ngành kỹ thuật\n-bốc lên\n-chất thải\n-khí phát tán\n-khí xả\n-phát xạ\n-phun khí\n-sự bức xạ\n-sự phát ra\n-sự phát tán\n-sự phát thải\n-sự phát xạ\n-sự phóng xạ\n-sự truyền\n-thoát ra\n-tỏa ra\n@Lĩnh vực: điện tử & viễn thông\n-buổi truyền hình\n-buổi truyền thanh\n@Lĩnh vực: xây dựng\n-điện phát ra\n-phát sóng\n-phát thanh\n@Lĩnh vực: điện\n-sự bức xa\n@Lĩnh vực: y học\n-xuất tinh
-
+emission	
+@emission /i'miʃn/
+*  danh từ
+- sự phát ra (ánh sáng, nhiệt...), sự bốc ra, sự toả ra (mùi vị, hơi...)
+- vật phát ra, vật bốc ra, vật toả ra
+- (y học) sự xuất tinh
+- sự phát hành (giấy bạc...)
+@Chuyên ngành kỹ thuật
+-bốc lên
+-chất thải
+-khí phát tán
+-khí xả
+-phát xạ
+-phun khí
+-sự bức xạ
+-sự phát ra
+-sự phát tán
+-sự phát thải
+-sự phát xạ
+-sự phóng xạ
+-sự truyền
+-thoát ra
+-tỏa ra
+@Lĩnh vực: điện tử & viễn thông
+-buổi truyền hình
+-buổi truyền thanh
+@Lĩnh vực: xây dựng
+-điện phát ra
+-phát sóng
+-phát thanh
+@Lĩnh vực: điện
+-sự bức xa
+@Lĩnh vực: y học
+-xuất tinh
+@Chuyên ngành kỹ thuật
+-bốc lên
+-chất thải
+-khí phát tán
+-khí xả
+-phát xạ
+-phun khí
+-sự bức xạ
+-sự phát ra
+-sự phát tán
+-sự phát thải
+-sự phát xạ
+-sự phóng xạ
+-sự truyền
+-thoát ra
+-tỏa ra
+@Lĩnh vực: điện tử & viễn thông
+-buổi truyền hình
+-buổi truyền thanh
+@Lĩnh vực: xây dựng
+-điện phát ra
+-phát sóng
+-phát thanh
+@Lĩnh vực: điện
+-sự bức xa
+@Lĩnh vực: y học
+-xuất tinh

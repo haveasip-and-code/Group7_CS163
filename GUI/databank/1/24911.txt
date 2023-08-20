@@ -1,3 +1,31 @@
-handling
-	@handling\n* danh từ\n- cách trình bày, diễn xuất (tác phẩm (sân khấu))\n- tội chứa chấp hàng ăn cắp\n- quá trình tiến hành công việc mua bán (đóng gói đưa lên tàu cho người tiêu thụ)\n@Chuyên ngành kinh tế\n-sự điều khiển\n-sự sản xuất\n-sự vận chuyển\n@Chuyên ngành kỹ thuật\n-chỉnh lý\n-điều khiển\n-gia công\n-sự chỉnh lý\n-sự chuyển hàng\n-sự chuyển vận\n-sự điều khiển\n-sự gia công\n-sự làm hàng\n-sự quản lý\n-sự thao tác\n-sự vận chuyển\n-sự vận hành\n-sự xếp tải\n-sự xử lý\n-thao tác\n-thủ thuật\n-xử lý\n@Lĩnh vực: điện lạnh\n-sự xử lí
-
+handling	
+@handling
+* danh từ
+- cách trình bày, diễn xuất (tác phẩm (sân khấu))
+- tội chứa chấp hàng ăn cắp
+- quá trình tiến hành công việc mua bán (đóng gói đưa lên tàu cho người tiêu thụ)
+@Chuyên ngành kinh tế
+-sự điều khiển
+-sự sản xuất
+-sự vận chuyển
+@Chuyên ngành kỹ thuật
+-chỉnh lý
+-điều khiển
+-gia công
+-sự chỉnh lý
+-sự chuyển hàng
+-sự chuyển vận
+-sự điều khiển
+-sự gia công
+-sự làm hàng
+-sự quản lý
+-sự thao tác
+-sự vận chuyển
+-sự vận hành
+-sự xếp tải
+-sự xử lý
+-thao tác
+-thủ thuật
+-xử lý
+@Lĩnh vực: điện lạnh
+-sự xử lí

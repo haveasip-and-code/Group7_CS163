@@ -1,3 +1,5 @@
-reecho
-	@reecho\n* danh từ\n- tiếng vang lại, tiếng dội lại\n* động từ\n- vang lại, dội lại (tiếng kêu...)
-
+reecho	@reecho
+* danh từ
+- tiếng vang lại, tiếng dội lại
+* động từ
+- vang lại, dội lại (tiếng kêu...)

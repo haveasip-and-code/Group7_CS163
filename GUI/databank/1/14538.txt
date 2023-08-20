@@ -1,3 +1,35 @@
-department
-	@department /di'pɑ:tmənt/\n*  danh từ\n- cục; sở; ty; ban; khoa\n- gian hàng, khu bày hàng (trong cửa hiệu)\n=the ladies's hats department+ gian hàng bán mũ phụ nữ\n=a department store+ cửa hàng tổng hợp, mậu dịch tổng hợp\n- khu hành chính (ở Pháp)\n- (từ Mỹ,nghĩa Mỹ) bộ\n=State Department+ Quốc vụ viện; Bộ ngoại giao\n=Department of the Navy+ Bộ hải quân\n@Chuyên ngành kinh tế\n-ban\n-bộ\n-bộ phận\n-cục\n-doanh nghiệp\n-gian hàng\n-khoa\n-phân xưởng\n-phòng\n-quầy hàng\n-sở\n@Chuyên ngành kỹ thuật\n-ban\n-bộ\n-bộ môn\n-phân xưởng\n-phòng\n-sở\n@Lĩnh vực: hóa học & vật liệu\n-gian hàng\n@Lĩnh vực: xây dựng\n-khoa\n-vụ
-
+department	
+@department /di'pɑ:tmənt/
+*  danh từ
+- cục; sở; ty; ban; khoa
+- gian hàng, khu bày hàng (trong cửa hiệu)=the ladies's hats department
++ gian hàng bán mũ phụ nữ=a department store
++ cửa hàng tổng hợp, mậu dịch tổng hợp
+- khu hành chính (ở Pháp)
+- (từ Mỹ,nghĩa Mỹ) bộ=State Department
++ Quốc vụ viện; Bộ ngoại giao=Department of the Navy
++ Bộ hải quân
+@Chuyên ngành kinh tế
+-ban
+-bộ
+-bộ phận
+-cục
+-doanh nghiệp
+-gian hàng
+-khoa
+-phân xưởng
+-phòng
+-quầy hàng
+-sở
+@Chuyên ngành kỹ thuật
+-ban
+-bộ
+-bộ môn
+-phân xưởng
+-phòng
+-sở
+@Lĩnh vực: hóa học & vật liệu
+-gian hàng
+@Lĩnh vực: xây dựng
+-khoa
+-vụ

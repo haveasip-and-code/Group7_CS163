@@ -1,3 +1,13 @@
-terminable
-	@terminable /'tə:minəbl/\n*  tính từ\n- có thể làm xong, có thể hoàn thành, có thể kết thúc được\n- có thể huỷ bỏ được (khế ước)\n@Chuyên ngành kinh tế\n-có thể giải hiệu\n-có thể giải tiêu\n-có thể hoàn thành\n-có thể kết thúc được\n-có thể xong\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thời hạn
-
+terminable	@terminable /'tə:minəbl/
+*  tính từ
+- có thể làm xong, có thể hoàn thành, có thể kết thúc được
+- có thể huỷ bỏ được (khế ước)
+@Chuyên ngành kinh tế
+-có thể giải hiệu
+-có thể giải tiêu
+-có thể hoàn thành
+-có thể kết thúc được
+-có thể xong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thời hạn

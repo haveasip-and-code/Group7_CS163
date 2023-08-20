@@ -1,3 +1,15 @@
-why
-	@why /wai/\n*  phó từ\n- tại sao, vì sao\n=why was he late?+ sao anh ấy đến muộn?\n=why not?+ tại sao không?\n=that's the reason why+ đó là lý do vì sao\n=not to know why+ không biết tại sao\n*  danh từ,  số nhiều whys\n- lý do, lý do tại sao\n*  thán từ\n- sao!, thế nào!\n=why, it's quite easy!+ sao, thật là dễ!\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tại sao
-
+why	@why /wai/
+*  phó từ
+- tại sao, vì sao
+=why was he late?+ sao anh ấy đến muộn?
+=why not?+ tại sao không?
+=that's the reason why+ đó là lý do vì sao
+=not to know why+ không biết tại sao
+*  danh từ,  số nhiều whys
+- lý do, lý do tại sao
+*  thán từ
+- sao!, thế nào!
+=why, it's quite easy!+ sao, thật là dễ!
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tại sao

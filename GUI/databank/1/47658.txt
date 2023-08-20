@@ -1,3 +1,3 @@
-ribonuclease
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enzyme ở trong tiêu thể của tế bào
-
+ribonuclease	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-enzyme ở trong tiêu thể của tế bào

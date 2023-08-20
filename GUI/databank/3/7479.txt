@@ -1,3 +1,56 @@
-cake
-	@cake /keik/\n*  danh từ\n- bánh ngọt\n- thức ăn đóng thành bánh\n=fish cake+ cá đóng bánh\n- miếng bánh\n=cake of soap+ một bánh xà phòng\n=cake of tobacco+ một bánh thuốc lá\n!cakes and ale\n- vui liên hoan, cuộc truy hoan\n!to go (sell) like hot cakes\n- bán chạy như tôm tươi\n!to have one's cake baked\n- sống sung túc, sống phong lưu\n!piece of cake\n- (từ lóng) việc ngon ơ, việc dễ làm\n- việc thú vị\n!to take the cake\n- chiếm giải, chiếm giải nhất; chiếm địa vị danh dự hơn tất cả mọi người\n!you cannot eat your cake and have it\n- được cái nọ mất cái kia\n*  động từ\n- đóng thành bánh, đóng bánh\n=that sort of coals cakes+ loại than ấy dễ đóng bánh\n=trousers caked with mud+ quần đóng kết những bùn\n@Chuyên ngành kinh tế\n-bánh gatô\n-bánh ngọt\n-bỏng\n-khô dầu\n@Chuyên ngành kỹ thuật\n-bã\n-bánh\n-bùn\n-cặn\n-cục\n-đóng bánh\n-đóng bánh thiêu kết\n-khối\n-khối nhỏ\n-luyện cục\n-miếng\n-tảng\n-vón cục\n@Lĩnh vực: hóa học & vật liệu\n-chất lắng (do lọc)\n-nung kết\n@Lĩnh vực: xây dựng\n-đất) Miếng\n-tấm (đệm)\n@Lĩnh vực: thực phẩm\n-đồng bánh\n-nướng bánh\n@Lĩnh vực: cơ khí & công trình\n-thỏi\n-vật liệu thiêu kết
-
+cake	@cake /keik/
+*  danh từ
+- bánh ngọt
+- thức ăn đóng thành bánh
+=fish cake+ cá đóng bánh
+- miếng bánh
+=cake of soap+ một bánh xà phòng
+=cake of tobacco+ một bánh thuốc lá
+!cakes and ale
+- vui liên hoan, cuộc truy hoan
+!to go (sell) like hot cakes
+- bán chạy như tôm tươi
+!to have one's cake baked
+- sống sung túc, sống phong lưu
+!piece of cake
+- (từ lóng) việc ngon ơ, việc dễ làm
+- việc thú vị
+!to take the cake
+- chiếm giải, chiếm giải nhất; chiếm địa vị danh dự hơn tất cả mọi người
+!you cannot eat your cake and have it
+- được cái nọ mất cái kia
+*  động từ
+- đóng thành bánh, đóng bánh
+=that sort of coals cakes+ loại than ấy dễ đóng bánh
+=trousers caked with mud+ quần đóng kết những bùn
+@Chuyên ngành kinh tế
+-bánh gatô
+-bánh ngọt
+-bỏng
+-khô dầu
+@Chuyên ngành kỹ thuật
+-bã
+-bánh
+-bùn
+-cặn
+-cục
+-đóng bánh
+-đóng bánh thiêu kết
+-khối
+-khối nhỏ
+-luyện cục
+-miếng
+-tảng
+-vón cục
+@Lĩnh vực: hóa học & vật liệu
+-chất lắng (do lọc)
+-nung kết
+@Lĩnh vực: xây dựng
+-đất) Miếng
+-tấm (đệm)
+@Lĩnh vực: thực phẩm
+-đồng bánh
+-nướng bánh
+@Lĩnh vực: cơ khí & công trình
+-thỏi
+-vật liệu thiêu kết

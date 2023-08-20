@@ -1,3 +1,9 @@
-petrogenesis
-	@petrogenesis\n* danh từ\n- sự hình thành đá, sự cấu thành đá\n@Chuyên ngành kỹ thuật\n-sự sinh đá\n@Lĩnh vực: hóa học & vật liệu\n-sự tạo đá\n@Lĩnh vực: cơ khí & công trình\n-sự tạo thành đá
-
+petrogenesis	@petrogenesis
+* danh từ
+- sự hình thành đá, sự cấu thành đá
+@Chuyên ngành kỹ thuật
+-sự sinh đá
+@Lĩnh vực: hóa học & vật liệu
+-sự tạo đá
+@Lĩnh vực: cơ khí & công trình
+-sự tạo thành đá

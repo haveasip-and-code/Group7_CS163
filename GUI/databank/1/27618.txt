@@ -1,3 +1,18 @@
-impure
-	@impure /im'pjuə/\n*  tính từ\n- không trong sạch, không tinh khiết; dơ bẩn, ô uế\n- không trinh bạch, không trong trắng\n- có pha trộn, pha tạp; có lẫn màu khác\n- (nghệ thuật) không trong sáng; có lẫn màu khác\n- (nghệ thuật) không trong sáng (văn); lai căng\n@Chuyên ngành kinh tế\n-có tạp chất\n-không sạch\n@Chuyên ngành kỹ thuật\n-bẩn\n-không tinh khiết\n-nhiễm bẩn\n-tạp chất\n@Lĩnh vực: hóa học & vật liệu\n-có tạp chất
-
+impure	
+@impure /im'pjuə/
+*  tính từ
+- không trong sạch, không tinh khiết; dơ bẩn, ô uế
+- không trinh bạch, không trong trắng
+- có pha trộn, pha tạp; có lẫn màu khác
+- (nghệ thuật) không trong sáng; có lẫn màu khác
+- (nghệ thuật) không trong sáng (văn); lai căng
+@Chuyên ngành kinh tế
+-có tạp chất
+-không sạch
+@Chuyên ngành kỹ thuật
+-bẩn
+-không tinh khiết
+-nhiễm bẩn
+-tạp chất
+@Lĩnh vực: hóa học & vật liệu
+-có tạp chất

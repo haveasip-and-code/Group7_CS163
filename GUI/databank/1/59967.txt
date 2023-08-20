@@ -1,3 +1,4 @@
-unlit
-	@unlit /'ʌn'lit/\n*  tính từ\n- không có ánh sáng, không sang sủa\n- không thắp, không châm (đèn...)
-
+unlit	@unlit /'ʌn'lit/
+*  tính từ
+- không có ánh sáng, không sang sủa
+- không thắp, không châm (đèn...)

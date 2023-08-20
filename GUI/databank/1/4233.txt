@@ -1,3 +1,26 @@
-award
-	@award /ə'wɔ:d/\n*  danh từ\n- phần thưởng, tặng thưởng (do quan toà, hội đồng trọng tài, hội đồng giám khảo... quyết định ban cho)\n- sự quyết định của quan toà, của hội đồng giám khảo...\n- sự trừng phạt, hình phạt (do quan toà, hội đồng trọng tài, hội đồng giám khảo... quyết định bắt phải chịu)\n*  ngoại động từ\n- tặng, tặng thưởng, trao tặng\n=to award somebody a gold medal+ tặng ai huy chương vàng\n- quyết định ban cho, quyết định cấp cho (quan toà, hội đồng trọng tài, hội đồng giám khảo...)\n@Chuyên ngành kinh tế\n-ban cho\n-cấp\n-cho\n-học bổng\n-phán định cho\n-phán quyết trọng tài\n-phần thưởng\n-quyết định cho thầu\n-quyết định của (tòa án) trọng tài\n-quyết định trao cho\n-quyết thầu\n-sự phán quyết\n-sự quyết định cho thầu\n-sự thưởng\n-thuận cho
-
+award	
+@award /ə'wɔ:d/
+*  danh từ
+- phần thưởng, tặng thưởng (do quan toà, hội đồng trọng tài, hội đồng giám khảo... quyết định ban cho)
+- sự quyết định của quan toà, của hội đồng giám khảo...
+- sự trừng phạt, hình phạt (do quan toà, hội đồng trọng tài, hội đồng giám khảo... quyết định bắt phải chịu)
+*  ngoại động từ
+- tặng, tặng thưởng, trao tặng=to award somebody a gold medal
++ tặng ai huy chương vàng
+- quyết định ban cho, quyết định cấp cho (quan toà, hội đồng trọng tài, hội đồng giám khảo...)
+@Chuyên ngành kinh tế
+-ban cho
+-cấp
+-cho
+-học bổng
+-phán định cho
+-phán quyết trọng tài
+-phần thưởng
+-quyết định cho thầu
+-quyết định của (tòa án) trọng tài
+-quyết định trao cho
+-quyết thầu
+-sự phán quyết
+-sự quyết định cho thầu
+-sự thưởng
+-thuận cho

@@ -1,3 +1,2 @@
-copyreader
-	@Chuyên ngành kỹ thuật\n-độc giả bản sao
-
+copyreader	@Chuyên ngành kỹ thuật
+-độc giả bản sao

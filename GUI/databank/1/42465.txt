@@ -1,3 +1,2 @@
-polyhistoric
-	@polyhistoric\n- xem polyhistor
-
+polyhistoric	@polyhistoric
+- xem polyhistor

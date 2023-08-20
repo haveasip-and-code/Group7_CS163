@@ -1,3 +1,7 @@
-contingencies
-	@Chuyên ngành kinh tế\n-các điều kiện ngẫu nhiên\n-các điều kiện tùy thuộc\n-sự cố bất ngờ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-các sự ngẫu nhiên
-
+contingencies	@Chuyên ngành kinh tế
+-các điều kiện ngẫu nhiên
+-các điều kiện tùy thuộc
+-sự cố bất ngờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-các sự ngẫu nhiên

@@ -1,3 +1,27 @@
-molding
-	@Chuyên ngành kỹ thuật\n-đổ khuôn\n-đúc\n-dựng khuôn\n-đường chỉ\n-đường gờ\n-ép khuôn\n-ép theo khuôn\n-gờ trang trí\n-nẹp gỗ\n-nẹp ván\n-mái đua\n-mái hắt\n-rót khuôn\n-sản phẩm đúc\n-sự đúc\n-sự ép khuôn\n-sự làm khuôn\n-sự tạo hình\n-ván ốp\n-vật đúc\n-vật ép\n@Lĩnh vực: xây dựng\n-đường gờ, đường chỉ\n-sự nặn\n@Lĩnh vực: cơ khí & công trình\n-sản phẩm ép
-
+molding	@Chuyên ngành kỹ thuật
+-đổ khuôn
+-đúc
+-dựng khuôn
+-đường chỉ
+-đường gờ
+-ép khuôn
+-ép theo khuôn
+-gờ trang trí
+-nẹp gỗ
+-nẹp ván
+-mái đua
+-mái hắt
+-rót khuôn
+-sản phẩm đúc
+-sự đúc
+-sự ép khuôn
+-sự làm khuôn
+-sự tạo hình
+-ván ốp
+-vật đúc
+-vật ép
+@Lĩnh vực: xây dựng
+-đường gờ, đường chỉ
+-sự nặn
+@Lĩnh vực: cơ khí & công trình
+-sản phẩm ép

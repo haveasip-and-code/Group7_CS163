@@ -1,3 +1,28 @@
-exclusive
-	@exclusive /iks'klu:siv/\n*  tính từ\n- loại trừ\n- riêng biệt, dành riêng (câu lạc bộ, cửa hàng...); độc chiếm, độc quyền\n=an exclusive interview+ cuộc phỏng vấn dành riêng (cho một tờ báo)\n=exclusive right to sell something+ độc quyền bán cái gì\n- độc nhất\n=one's exclusive occupation+ công việc độc nhất của mình\n- (dùng như phó từ) trừ, không kể, không gồm\n=from page one to page ten exclusive+ từ trang 1 đến trang 10 không kể trang 10\n=100,000 people exclusive of women+ 100 000 người không kể đàn bà con gái\n@Chuyên ngành kỹ thuật\n-chuyên biệt\n-dành riêng\n-độc quyền\n-loại trừ\n-riêng\n@Lĩnh vực: toán & tin\n-chuyên dụng\n@Chuyên ngành kỹ thuật\n-chuyên biệt\n-dành riêng\n-độc quyền\n-loại trừ\n-riêng\n@Lĩnh vực: toán & tin\n-chuyên dụng
-
+exclusive	
+@exclusive /iks'klu:siv/
+*  tính từ
+- loại trừ
+- riêng biệt, dành riêng (câu lạc bộ, cửa hàng...); độc chiếm, độc quyền=an exclusive interview
++ cuộc phỏng vấn dành riêng (cho một tờ báo)=exclusive right to sell something
++ độc quyền bán cái gì
+- độc nhất=one's exclusive occupation
++ công việc độc nhất của mình
+- (dùng như phó từ) trừ, không kể, không gồm=from page one to page ten exclusive
++ từ trang 1 đến trang 10 không kể trang 10=100,000 people exclusive of women
++ 100 000 người không kể đàn bà con gái
+@Chuyên ngành kỹ thuật
+-chuyên biệt
+-dành riêng
+-độc quyền
+-loại trừ
+-riêng
+@Lĩnh vực: toán & tin
+-chuyên dụng
+@Chuyên ngành kỹ thuật
+-chuyên biệt
+-dành riêng
+-độc quyền
+-loại trừ
+-riêng
+@Lĩnh vực: toán & tin
+-chuyên dụng

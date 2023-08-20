@@ -1,3 +1,3 @@
-cocarcinogen
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất đồng gây ung thư
-
+cocarcinogen	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất đồng gây ung thư

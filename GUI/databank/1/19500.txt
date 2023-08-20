@@ -1,3 +1,14 @@
-examiner
-	@examiner /ig'zæminə/\n*  danh từ\n- (như) examinant\n- người chấm thi\n@Chuyên ngành kinh tế\n-kiểm tra viên\n-người kiểm tra\n-người thẩm tra\n-thẩm tra viên\n@Chuyên ngành kỹ thuật\n-người xem xét\n@Chuyên ngành kỹ thuật\n-người xem xét
-
+examiner	
+@examiner /ig'zæminə/
+*  danh từ
+- (như) examinant
+- người chấm thi
+@Chuyên ngành kinh tế
+-kiểm tra viên
+-người kiểm tra
+-người thẩm tra
+-thẩm tra viên
+@Chuyên ngành kỹ thuật
+-người xem xét
+@Chuyên ngành kỹ thuật
+-người xem xét

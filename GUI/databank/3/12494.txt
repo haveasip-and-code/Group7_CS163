@@ -1,3 +1,2 @@
-crasher
-	@crasher\n- xem crash
-
+crasher	@crasher
+- xem crash

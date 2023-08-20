@@ -1,3 +1,15 @@
-epicenter
-	@epicenter\n- chấn tâm\n@Chuyên ngành kỹ thuật\n-điểm trung tâm\n@Lĩnh vực: điện lạnh\n-chấn tâm ngoài\n@Lĩnh vực: xây dựng\n-tiêu điểm\n@Chuyên ngành kỹ thuật\n-điểm trung tâm\n@Lĩnh vực: điện lạnh\n-chấn tâm ngoài\n@Lĩnh vực: xây dựng\n-tiêu điểm
-
+epicenter	
+@epicenter
+- chấn tâm
+@Chuyên ngành kỹ thuật
+-điểm trung tâm
+@Lĩnh vực: điện lạnh
+-chấn tâm ngoài
+@Lĩnh vực: xây dựng
+-tiêu điểm
+@Chuyên ngành kỹ thuật
+-điểm trung tâm
+@Lĩnh vực: điện lạnh
+-chấn tâm ngoài
+@Lĩnh vực: xây dựng
+-tiêu điểm

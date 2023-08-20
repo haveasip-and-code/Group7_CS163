@@ -1,3 +1,2 @@
-countably
-	@countably\n- xem countable
-
+countably	@countably
+- xem countable

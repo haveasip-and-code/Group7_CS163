@@ -1,3 +1,7 @@
-hypertext
-	@hypertext\n* danh từ\n- siêu văn bản\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-siêu văn bản
-
+hypertext	
+@hypertext
+* danh từ
+- siêu văn bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-siêu văn bản

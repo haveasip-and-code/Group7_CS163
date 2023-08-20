@@ -1,3 +1,52 @@
-lagging
-	@lagging /'lægiɳ/\n*  danh từ\n- sự đi chậm đằng sau\n*  tính từ\n- đi chậm đằng sau\n@Chuyên ngành kinh tế\n-giao hàng chậm trễ\n-việc giao hàng chậm trễ\n@Chuyên ngành kỹ thuật\n-hào\n-lớp bọc\n-lớp cách\n-lớp phủ\n-sự cách ly\n-sự cách nhiệt\n-sự chậm\n-sự muộn\n-sự ốp ván\n-sự trễ\n-tấm chèn\n-tấm ván\n-ván sàn\n@Lĩnh vực: hóa học & vật liệu\n-chất không dẫn nhiệt\n@Lĩnh vực: điện\n-sự chậm (pha)\n@Lĩnh vực: xây dựng\n-tầm mặt\n@Lĩnh vực: cơ khí & công trình\n-tính trễ\n@Chuyên ngành kỹ thuật\n-hào\n-lớp bọc\n-lớp cách\n-lớp phủ\n-sự cách ly\n-sự cách nhiệt\n-sự chậm\n-sự muộn\n-sự ốp ván\n-sự trễ\n-tấm chèn\n-tấm ván\n-ván sàn\n@Lĩnh vực: hóa học & vật liệu\n-chất không dẫn nhiệt\n@Lĩnh vực: điện\n-sự chậm (pha)\n@Lĩnh vực: xây dựng\n-tầm mặt\n@Lĩnh vực: cơ khí & công trình\n-tính trễ
-
+lagging	@lagging /'lægiɳ/
+*  danh từ
+- sự đi chậm đằng sau
+*  tính từ
+- đi chậm đằng sau
+@Chuyên ngành kinh tế
+-giao hàng chậm trễ
+-việc giao hàng chậm trễ
+@Chuyên ngành kỹ thuật
+-hào
+-lớp bọc
+-lớp cách
+-lớp phủ
+-sự cách ly
+-sự cách nhiệt
+-sự chậm
+-sự muộn
+-sự ốp ván
+-sự trễ
+-tấm chèn
+-tấm ván
+-ván sàn
+@Lĩnh vực: hóa học & vật liệu
+-chất không dẫn nhiệt
+@Lĩnh vực: điện
+-sự chậm (pha)
+@Lĩnh vực: xây dựng
+-tầm mặt
+@Lĩnh vực: cơ khí & công trình
+-tính trễ
+@Chuyên ngành kỹ thuật
+-hào
+-lớp bọc
+-lớp cách
+-lớp phủ
+-sự cách ly
+-sự cách nhiệt
+-sự chậm
+-sự muộn
+-sự ốp ván
+-sự trễ
+-tấm chèn
+-tấm ván
+-ván sàn
+@Lĩnh vực: hóa học & vật liệu
+-chất không dẫn nhiệt
+@Lĩnh vực: điện
+-sự chậm (pha)
+@Lĩnh vực: xây dựng
+-tầm mặt
+@Lĩnh vực: cơ khí & công trình
+-tính trễ

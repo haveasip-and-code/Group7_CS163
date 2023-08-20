@@ -1,3 +1,25 @@
-limited
-	@limited /'limitid/\n*  tính từ\n- có hạn, hạn chế, hạn định\n@Chuyên ngành kinh tế\n-hữu hạn\n-xe du lịch đường dài cao cấp\n-xe lửa cao cấp\n@Chuyên ngành kỹ thuật\n-bị chặn\n@Lĩnh vực: toán & tin\n-bị giới hạn\n-bị hạn chế\n-được giới hạn\n@Lĩnh vực: điện\n-có hạn\n-đã hạn chế\n@Chuyên ngành kỹ thuật\n-bị chặn\n@Lĩnh vực: toán & tin\n-bị giới hạn\n-bị hạn chế\n-được giới hạn\n@Lĩnh vực: điện\n-có hạn\n-đã hạn chế
-
+limited	@limited /'limitid/
+*  tính từ
+- có hạn, hạn chế, hạn định
+@Chuyên ngành kinh tế
+-hữu hạn
+-xe du lịch đường dài cao cấp
+-xe lửa cao cấp
+@Chuyên ngành kỹ thuật
+-bị chặn
+@Lĩnh vực: toán & tin
+-bị giới hạn
+-bị hạn chế
+-được giới hạn
+@Lĩnh vực: điện
+-có hạn
+-đã hạn chế
+@Chuyên ngành kỹ thuật
+-bị chặn
+@Lĩnh vực: toán & tin
+-bị giới hạn
+-bị hạn chế
+-được giới hạn
+@Lĩnh vực: điện
+-có hạn
+-đã hạn chế

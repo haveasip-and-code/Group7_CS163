@@ -1,3 +1,10 @@
-asterism
-	@asterism /'æstərizm/\n*  danh từ\n- chòm sao\n- dấu hình ba sao\n@Chuyên ngành kỹ thuật\n-dấu sao\n@Lĩnh vực: điện lạnh\n-ánh sao\n-tính hình sao
-
+asterism	
+@asterism /'æstərizm/
+*  danh từ
+- chòm sao
+- dấu hình ba sao
+@Chuyên ngành kỹ thuật
+-dấu sao
+@Lĩnh vực: điện lạnh
+-ánh sao
+-tính hình sao

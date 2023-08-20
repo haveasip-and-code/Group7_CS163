@@ -1,3 +1,35 @@
-fare
-	@fare /feə/\n*  danh từ\n- tiền xe, tiền đò, tiền phà; tiền vé (tàu, máy bay...)\n- khách đi xe thuê\n- thức ăn, đồ ăn, chế độ ăn\n=plentiful fare+ thức ăn thừa thãi\n=to be fond of good fare+ thích ăn ngon\n*  nội động từ\n- đi đường, đi du lịch\n- xảy ra, ở vào tình trạng (nào đó); làm ăn\n=how fares it?+ tình hình thế nào?\n=he fared well in his business+ nó làm ăn tốt trong việc kinh doanh\n- được khao, được thết\n- ăn uống, bồi dưỡng\n=to fare badly+ ăn tồi\n!to fare well\n- có sức khoẻ tốt\n- công việc làm ăn ổn thoả\n- ăn ngon\n!to fare well with somebody\n- tâm đầu hợp ý với ai\n!to fare ill\n- có sức khoẻ kém\n- công việc làm ăn gặp khó khăn\n!to fare ill with something\n- gặp khó khăn về vấn đề gì; không may về vấn đề gì\n@Chuyên ngành kinh tế\n-chế độ ăn uống\n-giá vé hành khách\n-thức ăn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-trụ bảo vệ\n-trụ mỏ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-trụ bảo vệ\n-trụ mỏ
-
+fare	
+@fare /feə/
+*  danh từ
+- tiền xe, tiền đò, tiền phà; tiền vé (tàu, máy bay...)
+- khách đi xe thuê
+- thức ăn, đồ ăn, chế độ ăn=plentiful fare
++ thức ăn thừa thãi=to be fond of good fare
++ thích ăn ngon
+*  nội động từ
+- đi đường, đi du lịch
+- xảy ra, ở vào tình trạng (nào đó); làm ăn=how fares it?
++ tình hình thế nào?=he fared well in his business
++ nó làm ăn tốt trong việc kinh doanh
+- được khao, được thết
+- ăn uống, bồi dưỡng=to fare badly
++ ăn tồi!to fare well
+- có sức khoẻ tốt
+- công việc làm ăn ổn thoả
+- ăn ngon!to fare well with somebody
+- tâm đầu hợp ý với ai!to fare ill
+- có sức khoẻ kém
+- công việc làm ăn gặp khó khăn!to fare ill with something
+- gặp khó khăn về vấn đề gì; không may về vấn đề gì
+@Chuyên ngành kinh tế
+-chế độ ăn uống
+-giá vé hành khách
+-thức ăn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-trụ bảo vệ
+-trụ mỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-trụ bảo vệ
+-trụ mỏ

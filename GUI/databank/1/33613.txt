@@ -1,3 +1,30 @@
-mantle
-	@mantle /'mæntl/\n*  danh từ\n- áo khoác, áo choàng không tay\n- (nghĩa bóng) cái che phủ, cái che đậy\n- măng sông đèn\n- (giải phẫu) vỏ nâo, vỏ đại não\n- (động vật học) áo (của động vật thân mềm)\n*  ngoại động từ\n- choàng, phủ khăn choàng\n- che phủ, che đậy, bao bọc\n*  nội động từ\n- sủi bọt, có váng (nước, rượu)\n- xông lên mặt (máu); đỏ ửng lên (mặt)\n=face mantled with blushes+ mặt đỏ ửng lên\n=blushes mantled on one's cheeks+ má đỏ ửng lên\n@Chuyên ngành kỹ thuật\n-áo\n-bao\n-đoạn ống\n-lớp\n-lớp áo\n-lớp ốp mặt\n-lớp phủ\n-nắp\n-ống\n-vỏ\n-vỏ bọc\n-vỏ mỏng\n@Lĩnh vực: cơ khí & công trình\n-măngsông đèn
-
+mantle	@mantle /'mæntl/
+*  danh từ
+- áo khoác, áo choàng không tay
+- (nghĩa bóng) cái che phủ, cái che đậy
+- măng sông đèn
+- (giải phẫu) vỏ nâo, vỏ đại não
+- (động vật học) áo (của động vật thân mềm)
+*  ngoại động từ
+- choàng, phủ khăn choàng
+- che phủ, che đậy, bao bọc
+*  nội động từ
+- sủi bọt, có váng (nước, rượu)
+- xông lên mặt (máu); đỏ ửng lên (mặt)
+=face mantled with blushes+ mặt đỏ ửng lên
+=blushes mantled on one's cheeks+ má đỏ ửng lên
+@Chuyên ngành kỹ thuật
+-áo
+-bao
+-đoạn ống
+-lớp
+-lớp áo
+-lớp ốp mặt
+-lớp phủ
+-nắp
+-ống
+-vỏ
+-vỏ bọc
+-vỏ mỏng
+@Lĩnh vực: cơ khí & công trình
+-măngsông đèn

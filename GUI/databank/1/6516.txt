@@ -1,3 +1,6 @@
-boxed
-	@Chuyên ngành kỹ thuật\n-đóng bao\n-được đóng hộp\n@Lĩnh vực: cơ khí & công trình\n-đóng trong hòm
-
+boxed	
+@Chuyên ngành kỹ thuật
+-đóng bao
+-được đóng hộp
+@Lĩnh vực: cơ khí & công trình
+-đóng trong hòm

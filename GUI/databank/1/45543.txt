@@ -1,3 +1,4 @@
-randomize
-	@randomize\n- ngẫu nhiên hoá\n@Chuyên ngành kỹ thuật\n-ngẫu nhiên hóa
-
+randomize	@randomize
+- ngẫu nhiên hoá
+@Chuyên ngành kỹ thuật
+-ngẫu nhiên hóa

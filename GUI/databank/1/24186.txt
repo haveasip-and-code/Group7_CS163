@@ -1,3 +1,4 @@
-graying
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tô xám
-
+graying	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tô xám

@@ -1,3 +1,2 @@
-ammonitic
-	@ammonitic\n- xem ammonite
-
+ammonitic	@ammonitic
+- xem ammonite

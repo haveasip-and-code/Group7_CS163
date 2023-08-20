@@ -1,3 +1,17 @@
-fertilizer
-	@fertilizer /'fə:tilaizə/\n*  tính từ\n- phân bón\n- (sinh vật học) cái làm thụ tinh; người làm thụ thai\n@Chuyên ngành kinh tế\n-phân bón\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phân bón\n@Lĩnh vực: xây dựng\n-phân hóa học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phân bón\n@Lĩnh vực: xây dựng\n-phân hóa học
-
+fertilizer	
+@fertilizer /'fə:tilaizə/
+*  tính từ
+- phân bón
+- (sinh vật học) cái làm thụ tinh; người làm thụ thai
+@Chuyên ngành kinh tế
+-phân bón
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phân bón
+@Lĩnh vực: xây dựng
+-phân hóa học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phân bón
+@Lĩnh vực: xây dựng
+-phân hóa học

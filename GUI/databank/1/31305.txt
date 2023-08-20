@@ -1,3 +1,11 @@
-lactose
-	@lactose /'læktous/\n*  danh từ\n- Lactoza, đường sữa\n@Chuyên ngành kinh tế\n-đường sữa\n@Chuyên ngành kỹ thuật\n-đường sữa\n-lactoza\n@Chuyên ngành kỹ thuật\n-đường sữa\n-lactoza
-
+lactose	@lactose /'læktous/
+*  danh từ
+- Lactoza, đường sữa
+@Chuyên ngành kinh tế
+-đường sữa
+@Chuyên ngành kỹ thuật
+-đường sữa
+-lactoza
+@Chuyên ngành kỹ thuật
+-đường sữa
+-lactoza

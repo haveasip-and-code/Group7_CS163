@@ -1,3 +1,4 @@
-linguist
-	@linguist /'liɳgwist/\n*  danh từ\n- nhà ngôn ngữ học\n- người biết nhiều thứ tiếng
-
+linguist	@linguist /'liɳgwist/
+*  danh từ
+- nhà ngôn ngữ học
+- người biết nhiều thứ tiếng

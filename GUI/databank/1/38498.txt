@@ -1,3 +1,4 @@
-outhouse
-	@outhouse /'authaus/\n*  danh từ\n- nhà phụ, nhà ngoài\n- nhà xí xa nhà
-
+outhouse	@outhouse /'authaus/
+*  danh từ
+- nhà phụ, nhà ngoài
+- nhà xí xa nhà

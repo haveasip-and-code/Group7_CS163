@@ -1,3 +1,7 @@
-switchman
-	@switchman\n* danh từ\n- (ngành đường sắt) người bẻ ghi\n@Chuyên ngành kinh tế\n-người bẻ ghi (đường sắt)\n@Chuyên ngành kỹ thuật\n-người bẻ ghi
-
+switchman	@switchman
+* danh từ
+- (ngành đường sắt) người bẻ ghi
+@Chuyên ngành kinh tế
+-người bẻ ghi (đường sắt)
+@Chuyên ngành kỹ thuật
+-người bẻ ghi

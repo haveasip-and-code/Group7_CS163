@@ -1,3 +1,66 @@
-pipe
-	@pipe /paip/\n*  danh từ\n- ống dẫn (nước, dầu...)\n- (âm nhạc) ống sáo, ống tiêu; (số nhiều) kèn túi (của người chăn cừu Ê-cốt)\n- (giải phẫu) ống quần\n- điếu, tẩu (hút thuốc) ((cũng) tobacco pipe); (một) tẩu thuốc\n=to smoke a pipe+ hút thuốc bằng tẩu; hút một tẩu thuốc\n- (ngành mỏ) mạch ống (quặng)\n- còi của thuyền trưởng; tiếng còi của thuyền trưởng\n- tiếng hát; tiếng chim hót\n- đường bẫy chim rừng\n- thùng (đơn vị đo lường rượu bằng 105 galông)\n!to bit the pipe\n- (từ Mỹ,nghĩa Mỹ) hút thuốc phiện\n!King's (Queen) pipe\n- lò đốt thuốc lá buôn lậu (ở cảng Luân-đôn)\n!put that in your pipe and smoke it\n- cố mà nhớ lấy cái điều đó; hây ngẫm nghĩ nhớ đời cái điều đó\n!to put someone's pipe out\n- trội hơn ai, vượt ai, làm cho lu mờ ai\n!to smoke the pipe of peace\n- sống hoà bình với nhau, thân thiện giao hảo với nhau\n*  ngoại động từ\n- đặt ống dẫn (ở nơi nào); dẫn (nước, dầu...) bằng ống\n- thổi sáo, thổi tiêu (một bản nhạc)\n- thổi còi ra lệnh; thổi còi tập hợp (một bản nhạc)\n- thổi còi ra lệnh; thổi còi tập họp (thuỷ thủ...)\n=to pipe all hands on deck+ thổi còi tập họp tất cả các thuỷ thủ lên boong\n=to pipe the crew up to meal+ thổi còi tập họp tất cả các thuỷ thủ đi ăn cơm\n- hát lanh lảnh; hót lanh lảnh\n- viền nối (áo); trang trí đường cột thừng (trên mặt bánh)\n- trồng (cây cẩm chướng...) bằng cành giâm\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn, trông\n*  nội động từ\n- thổi còi\n- thổi sáo, thổi tiêu\n- hát lanh lảnh; hót lanh lảnh\n- rít, thổi vi vu (gió)\n!to pipe away\n- (hàng hải) thổi còi ra hiệu cho (tàu...) rời bến\n!to pipe down\n- (hàng hải) thổi còi ra lệnh cho (thuỷ thủ...) nghỉ\n- (từ lóng) bớt làm om sòm, hạ giọng; bớt kiêu căng, bớt lên mặt ta đây\n!to pipe up\n- bắt đầu diễn, bắt đầu hát\n- nói to lên (làm cho người ta để ý đến mình)\n!to pipe one eye(s)\n- khóc\n@Chuyên ngành kinh tế\n-ống dẫn\n@Chuyên ngành kỹ thuật\n-bọt khí\n-dẫn bằng ống\n-đặt đường ống\n-đặt ống\n-đường ống\n-mạch\n-ống\n-ống dẫn\n-ống nhỏ\n-ống quặng\n-rỗ co\n-rỗ khí\n@Lĩnh vực: toán & tin\n-ký hiệu ống dẫn\n-ống dẫn (truyền dữ liệu)
-
+pipe	@pipe /paip/
+*  danh từ
+- ống dẫn (nước, dầu...)
+- (âm nhạc) ống sáo, ống tiêu; (số nhiều) kèn túi (của người chăn cừu Ê-cốt)
+- (giải phẫu) ống quần
+- điếu, tẩu (hút thuốc) ((cũng) tobacco pipe); (một) tẩu thuốc
+=to smoke a pipe+ hút thuốc bằng tẩu; hút một tẩu thuốc
+- (ngành mỏ) mạch ống (quặng)
+- còi của thuyền trưởng; tiếng còi của thuyền trưởng
+- tiếng hát; tiếng chim hót
+- đường bẫy chim rừng
+- thùng (đơn vị đo lường rượu bằng 105 galông)
+!to bit the pipe
+- (từ Mỹ,nghĩa Mỹ) hút thuốc phiện
+!King's (Queen) pipe
+- lò đốt thuốc lá buôn lậu (ở cảng Luân-đôn)
+!put that in your pipe and smoke it
+- cố mà nhớ lấy cái điều đó; hây ngẫm nghĩ nhớ đời cái điều đó
+!to put someone's pipe out
+- trội hơn ai, vượt ai, làm cho lu mờ ai
+!to smoke the pipe of peace
+- sống hoà bình với nhau, thân thiện giao hảo với nhau
+*  ngoại động từ
+- đặt ống dẫn (ở nơi nào); dẫn (nước, dầu...) bằng ống
+- thổi sáo, thổi tiêu (một bản nhạc)
+- thổi còi ra lệnh; thổi còi tập hợp (một bản nhạc)
+- thổi còi ra lệnh; thổi còi tập họp (thuỷ thủ...)
+=to pipe all hands on deck+ thổi còi tập họp tất cả các thuỷ thủ lên boong
+=to pipe the crew up to meal+ thổi còi tập họp tất cả các thuỷ thủ đi ăn cơm
+- hát lanh lảnh; hót lanh lảnh
+- viền nối (áo); trang trí đường cột thừng (trên mặt bánh)
+- trồng (cây cẩm chướng...) bằng cành giâm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn, trông
+*  nội động từ
+- thổi còi
+- thổi sáo, thổi tiêu
+- hát lanh lảnh; hót lanh lảnh
+- rít, thổi vi vu (gió)
+!to pipe away
+- (hàng hải) thổi còi ra hiệu cho (tàu...) rời bến
+!to pipe down
+- (hàng hải) thổi còi ra lệnh cho (thuỷ thủ...) nghỉ
+- (từ lóng) bớt làm om sòm, hạ giọng; bớt kiêu căng, bớt lên mặt ta đây
+!to pipe up
+- bắt đầu diễn, bắt đầu hát
+- nói to lên (làm cho người ta để ý đến mình)
+!to pipe one eye(s)
+- khóc
+@Chuyên ngành kinh tế
+-ống dẫn
+@Chuyên ngành kỹ thuật
+-bọt khí
+-dẫn bằng ống
+-đặt đường ống
+-đặt ống
+-đường ống
+-mạch
+-ống
+-ống dẫn
+-ống nhỏ
+-ống quặng
+-rỗ co
+-rỗ khí
+@Lĩnh vực: toán & tin
+-ký hiệu ống dẫn
+-ống dẫn (truyền dữ liệu)

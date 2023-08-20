@@ -1,3 +1,12 @@
-assembling
-	@assembling\n- (Tech) dịch ngữ mã số (d); lắp ráp, tổ hợp\n@Chuyên ngành kỹ thuật\n-lắp ráp\n-sự ghép\n-sự ghép nối\n-sự lắp ghép\n-sự lắp ráp\n@Lĩnh vực: xây dựng\n-sự đá đặt\n@Lĩnh vực: điện\n-việc lắp ráp
-
+assembling	@assembling
+- (Tech) dịch ngữ mã số (d); lắp ráp, tổ hợp
+@Chuyên ngành kỹ thuật
+-lắp ráp
+-sự ghép
+-sự ghép nối
+-sự lắp ghép
+-sự lắp ráp
+@Lĩnh vực: xây dựng
+-sự đá đặt
+@Lĩnh vực: điện
+-việc lắp ráp

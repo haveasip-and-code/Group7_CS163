@@ -1,3 +1,13 @@
-welfare
-	@welfare /'welfe /\n*  danh từ\n- hạnh phúc; phúc lợi\n=to work for the welfare of the nation+ làm việc cho hạnh phúc của dân tộc\n=public welfare+ phúc lợi công cộng\n=welfare work+ công tác ci thiện đời sống (công nhân viên chức...)\n- (y học) sự bo vệ, sự chăm sóc\n=child welfare centre+ c quan bo vệ thiếu nhi\n=infant welfare centre+ phòng khám sức khoẻ nhi đồng\n@Chuyên ngành kinh tế\n-phúc lợi\n@Chuyên ngành kỹ thuật\n-phúc lợi
-
+welfare	@welfare /'welfe /
+*  danh từ
+- hạnh phúc; phúc lợi
+=to work for the welfare of the nation+ làm việc cho hạnh phúc của dân tộc
+=public welfare+ phúc lợi công cộng
+=welfare work+ công tác ci thiện đời sống (công nhân viên chức...)
+- (y học) sự bo vệ, sự chăm sóc
+=child welfare centre+ c quan bo vệ thiếu nhi
+=infant welfare centre+ phòng khám sức khoẻ nhi đồng
+@Chuyên ngành kinh tế
+-phúc lợi
+@Chuyên ngành kỹ thuật
+-phúc lợi

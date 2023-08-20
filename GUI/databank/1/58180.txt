@@ -1,3 +1,2 @@
-tung
-	@tung\n- xem tung-tree
-
+tung	@tung
+- xem tung-tree

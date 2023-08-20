@@ -1,3 +1,2 @@
-pidginization
-	@pidginization\n- xem pidgin
-
+pidginization	@pidginization
+- xem pidgin

@@ -1,3 +1,9 @@
-blurb
-	@blurb /blə:b/\n*  danh từ\n- lời quảng cáo sách, lời giới thiệu sách (của nhà xuất bản)\n@Chuyên ngành kinh tế\n-lời giới thiệu ngắn\n-lời giới thiệu ngắn gọn ngoài bao bì\n@Chuyên ngành kỹ thuật\n-lời quảng cáo sách\n-phụ đề
-
+blurb	@blurb /blə:b/
+*  danh từ
+- lời quảng cáo sách, lời giới thiệu sách (của nhà xuất bản)
+@Chuyên ngành kinh tế
+-lời giới thiệu ngắn
+-lời giới thiệu ngắn gọn ngoài bao bì
+@Chuyên ngành kỹ thuật
+-lời quảng cáo sách
+-phụ đề

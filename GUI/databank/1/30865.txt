@@ -1,3 +1,12 @@
-ketonic
-	@ketonic\n- xem ketone\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-keton\n@Lĩnh vực: y học\n-thuộc xeton\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-keton\n@Lĩnh vực: y học\n-thuộc xeton
-
+ketonic	@ketonic
+- xem ketone
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-keton
+@Lĩnh vực: y học
+-thuộc xeton
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-keton
+@Lĩnh vực: y học
+-thuộc xeton

@@ -1,3 +1,27 @@
-fencing
-	@fencing /'fensiɳ/\n*  danh từ\n- sự rào dậu\n- hàng rào; vật liệu làm hàng rào\n- (kỹ thuật) cái chắn\n- thuật đánh kiếm\n- (từ Mỹ,nghĩa Mỹ) sự tranh luận\n- sự che chở, sự bảo vệ\n- sự đẩy lui, sự ngăn chặn được, sự tránh được, sự gạt được\n- sự oa trữ (của ăn cắp)\n@Chuyên ngành kỹ thuật\n-hàng rào\n-lá chắn\n-rào\n-tường ngăn\n-tường vây\n@Lĩnh vực: xây dựng\n-kết cấu ngăn\n@Chuyên ngành kỹ thuật\n-hàng rào\n-lá chắn\n-rào\n-tường ngăn\n-tường vây\n@Lĩnh vực: xây dựng\n-kết cấu ngăn
-
+fencing	
+@fencing /'fensiɳ/
+*  danh từ
+- sự rào dậu
+- hàng rào; vật liệu làm hàng rào
+- (kỹ thuật) cái chắn
+- thuật đánh kiếm
+- (từ Mỹ,nghĩa Mỹ) sự tranh luận
+- sự che chở, sự bảo vệ
+- sự đẩy lui, sự ngăn chặn được, sự tránh được, sự gạt được
+- sự oa trữ (của ăn cắp)
+@Chuyên ngành kỹ thuật
+-hàng rào
+-lá chắn
+-rào
+-tường ngăn
+-tường vây
+@Lĩnh vực: xây dựng
+-kết cấu ngăn
+@Chuyên ngành kỹ thuật
+-hàng rào
+-lá chắn
+-rào
+-tường ngăn
+-tường vây
+@Lĩnh vực: xây dựng
+-kết cấu ngăn

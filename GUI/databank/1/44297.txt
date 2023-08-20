@@ -1,3 +1,25 @@
-prototype
-	@prototype /prototype/\n*  danh từ\n- người đầu tiên; vật đầu tiên; mẫu đầu tiên, nguyên mẫu\n@Chuyên ngành kinh tế\n-kiểu đầu tiên\n-nguyên bản\n-nguyên mẫu\n@Chuyên ngành kỹ thuật\n-hệ thống dùng thử\n-nguyên mẫu\n-nguyên mẫu// mẫu đầu tiên// vật dùng làm mẫu\n-mẫu ban đầu\n-mẫu đầu tiên\n-mẫu thử\n@Lĩnh vực: toán & tin\n-bản chạy thử\n-mẫu đầu\n-mẫu thử nghiệm\n-sản phẩm dùng thử\n@Lĩnh vực: điện lạnh\n-chuẩn gốc\n@Lĩnh vực: xây dựng\n-nguyên hình\n@Lĩnh vực: ô tô\n-xe mẫu
-
+prototype	@prototype /prototype/
+*  danh từ
+- người đầu tiên; vật đầu tiên; mẫu đầu tiên, nguyên mẫu
+@Chuyên ngành kinh tế
+-kiểu đầu tiên
+-nguyên bản
+-nguyên mẫu
+@Chuyên ngành kỹ thuật
+-hệ thống dùng thử
+-nguyên mẫu
+-nguyên mẫu// mẫu đầu tiên// vật dùng làm mẫu
+-mẫu ban đầu
+-mẫu đầu tiên
+-mẫu thử
+@Lĩnh vực: toán & tin
+-bản chạy thử
+-mẫu đầu
+-mẫu thử nghiệm
+-sản phẩm dùng thử
+@Lĩnh vực: điện lạnh
+-chuẩn gốc
+@Lĩnh vực: xây dựng
+-nguyên hình
+@Lĩnh vực: ô tô
+-xe mẫu

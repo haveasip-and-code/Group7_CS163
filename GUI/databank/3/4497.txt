@@ -1,3 +1,2 @@
-baiter
-	@baiter\n- xem bait
-
+baiter	@baiter
+- xem bait

@@ -1,3 +1,51 @@
-reduction
-	@reduction /ri'dʌkʃn/\n*  danh từ\n- sự thu nhỏ, sự giảm bớt\n=reduction of armaments+ sự giảm quân bị\n- sự giảm giá, sự hạ giá\n- sự biến đổi (sang một trạng thái, hình thức kém hơn, thấp hơn)\n=reduction to ashes+ sự biến thành tro bụi\n- sự giáng cấp (một sĩ quan...)\n=reduction to the ranks+ sự giáng cấp xuống làm lính thường\n- sự chinh phục, sự bắt phải đi đầu hàng\n- bản thu nhỏ (bản đồ...)\n- (y học) sự chữa, sự bó (xương gây), sự nắn (chỗ trật khớp)\n- (hoá học) sự khử\n- (toán học) sự rút gọn, phép rút gọn, phép quy về\n=reduction of a fraction+ sự rút gọn một phân số\n- (kỹ thuật) sự cán, sự dát; sự ép, sự nén\n@Chuyên ngành kinh tế\n-giảm nhẹ (thuế...)\n-giảm thấp (sản lượng...)\n-rút ngắn (giờ làm việc...)\n-sự biến đổi\n-sự giảm bớt\n-sự giảm giá\n-sự giảm nhẹ (thuế)\n-sự giảm thấp (sản lượng..)\n-sự hạ giảm (giá cả, tiền lương...)\n-sự nghiền nhỏ\n-sự rút ngắn (giờ làm việc)\n-tiền bớt\n@Chuyên ngành kỹ thuật\n-giảm bớt\n-giảm tốc\n-sự giảm\n-sự giảm bớt\n-sự giảm giá\n-sự hạ giá\n-sự hoàn nguyên\n-sự rút gọn\n-sự thu nhỏ\n-sự xây dựng lại\n@Lĩnh vực: cơ khí & công trình\n-bản thu nhỏ\n@Lĩnh vực: y học\n-hối vị giảm\n@Lĩnh vực: xây dựng\n-khấu bớt\n-sự phục hồi khử (ôxi)\n@Lĩnh vực: giao thông & vận tải\n-sự giảm xuống\n@Lĩnh vực: điện lạnh\n-sự quy về
-
+reduction	@reduction /ri'dʌkʃn/
+*  danh từ
+- sự thu nhỏ, sự giảm bớt
+=reduction of armaments+ sự giảm quân bị
+- sự giảm giá, sự hạ giá
+- sự biến đổi (sang một trạng thái, hình thức kém hơn, thấp hơn)
+=reduction to ashes+ sự biến thành tro bụi
+- sự giáng cấp (một sĩ quan...)
+=reduction to the ranks+ sự giáng cấp xuống làm lính thường
+- sự chinh phục, sự bắt phải đi đầu hàng
+- bản thu nhỏ (bản đồ...)
+- (y học) sự chữa, sự bó (xương gây), sự nắn (chỗ trật khớp)
+- (hoá học) sự khử
+- (toán học) sự rút gọn, phép rút gọn, phép quy về
+=reduction of a fraction+ sự rút gọn một phân số
+- (kỹ thuật) sự cán, sự dát; sự ép, sự nén
+@Chuyên ngành kinh tế
+-giảm nhẹ (thuế...)
+-giảm thấp (sản lượng...)
+-rút ngắn (giờ làm việc...)
+-sự biến đổi
+-sự giảm bớt
+-sự giảm giá
+-sự giảm nhẹ (thuế)
+-sự giảm thấp (sản lượng..)
+-sự hạ giảm (giá cả, tiền lương...)
+-sự nghiền nhỏ
+-sự rút ngắn (giờ làm việc)
+-tiền bớt
+@Chuyên ngành kỹ thuật
+-giảm bớt
+-giảm tốc
+-sự giảm
+-sự giảm bớt
+-sự giảm giá
+-sự hạ giá
+-sự hoàn nguyên
+-sự rút gọn
+-sự thu nhỏ
+-sự xây dựng lại
+@Lĩnh vực: cơ khí & công trình
+-bản thu nhỏ
+@Lĩnh vực: y học
+-hối vị giảm
+@Lĩnh vực: xây dựng
+-khấu bớt
+-sự phục hồi khử (ôxi)
+@Lĩnh vực: giao thông & vận tải
+-sự giảm xuống
+@Lĩnh vực: điện lạnh
+-sự quy về

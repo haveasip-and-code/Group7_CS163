@@ -1,3 +1,3 @@
-echoer
-	@echoer\n- xem echo
-
+echoer	
+@echoer
+- xem echo

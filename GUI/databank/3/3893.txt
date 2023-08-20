@@ -1,3 +1,2 @@
-attitudinal
-	@attitudinal\n- xem attitude
-
+attitudinal	@attitudinal
+- xem attitude

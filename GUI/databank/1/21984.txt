@@ -1,3 +1,17 @@
-forgive
-	@forgive /fə'givn/\n*  ngoại động từ forgave\n- tha, tha thứ\n=to forgive somebody+ tha thứ cho ai\n- miễn nợ (cho ai), miễn (nợ)\n*  nội động từ\n- tha thứ\n@Chuyên ngành kinh tế\n-miễn\n-miễn (nợ)\n-miễn nợ (cho ai)\n-từ bỏ mọi đòi hỏi\n-xóa (nợ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tha thứ
-
+forgive	
+@forgive /fə'givn/
+*  ngoại động từ forgave
+- tha, tha thứ=to forgive somebody
++ tha thứ cho ai
+- miễn nợ (cho ai), miễn (nợ)
+*  nội động từ
+- tha thứ
+@Chuyên ngành kinh tế
+-miễn
+-miễn (nợ)
+-miễn nợ (cho ai)
+-từ bỏ mọi đòi hỏi
+-xóa (nợ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tha thứ

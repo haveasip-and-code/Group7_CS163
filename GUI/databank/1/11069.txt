@@ -1,3 +1,27 @@
-confirm
-	@confirm /kən'fə:m/\n*  ngoại động từ\n- xác nhận; chứng thực\n=to confirm someone's statement+ xác nhận lời tuyên bố của ai\n- thừa nhận, phê chuẩn\n=to confirm a treaty+ phê chuẩn một bản hiệp ước\n- làm vững chắc, củng cố\n=to confirm one's power+ củng cố quyền lực\n- làm cho (ai) nhiễm sâu (một thói quen, một nếp nghĩ...)\n=to confirm someone in his chain-smoking+ làm cho ai nhiễm sâu cái tật hút thuốc lá liên tục\n- (tôn giáo) làm lễ kiên tín cho\n@Chuyên ngành kinh tế\n-báo chi (xác nhận trả)\n-chuẩn nhận (một tờ trình)\n-chứng thực\n-củng cố\n-hợp thức hóa\n-làm cho chắc\n-phê chuẩn (một điều ước)\n-xác nhận\n-xác nhận sự hữu hiệu (của một cuộc tổng tuyển cử)\n@Chuyên ngành kỹ thuật\n-chứng thực\n-khẳng định\n-xác nhận
-
+confirm	
+@confirm /kən'fə:m/
+*  ngoại động từ
+- xác nhận; chứng thực=to confirm someone's statement
++ xác nhận lời tuyên bố của ai
+- thừa nhận, phê chuẩn=to confirm a treaty
++ phê chuẩn một bản hiệp ước
+- làm vững chắc, củng cố=to confirm one's power
++ củng cố quyền lực
+- làm cho (ai) nhiễm sâu (một thói quen, một nếp nghĩ...)=to confirm someone in his chain
+-smoking
++ làm cho ai nhiễm sâu cái tật hút thuốc lá liên tục
+- (tôn giáo) làm lễ kiên tín cho
+@Chuyên ngành kinh tế
+-báo chi (xác nhận trả)
+-chuẩn nhận (một tờ trình)
+-chứng thực
+-củng cố
+-hợp thức hóa
+-làm cho chắc
+-phê chuẩn (một điều ước)
+-xác nhận
+-xác nhận sự hữu hiệu (của một cuộc tổng tuyển cử)
+@Chuyên ngành kỹ thuật
+-chứng thực
+-khẳng định
+-xác nhận

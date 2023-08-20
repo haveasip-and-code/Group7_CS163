@@ -1,3 +1,6 @@
-intercooler
-	@Chuyên ngành kinh tế\n-thiết bị làm nguội trung gian\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bình lạnh trung gian
-
+intercooler	
+@Chuyên ngành kinh tế
+-thiết bị làm nguội trung gian
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bình lạnh trung gian

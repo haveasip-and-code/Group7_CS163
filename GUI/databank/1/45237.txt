@@ -1,3 +1,4 @@
-quip
-	@quip /kwip/\n*  danh từ\n- lời châm biếm, lời nói chua cay\n- lời nói nước đôi
-
+quip	@quip /kwip/
+*  danh từ
+- lời châm biếm, lời nói chua cay
+- lời nói nước đôi

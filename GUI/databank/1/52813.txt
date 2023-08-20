@@ -1,3 +1,5 @@
-squealing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sự tạo tiếng danh\n@Lĩnh vực: điện\n-tiếng hú giao thoa
-
+squealing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sự tạo tiếng danh
+@Lĩnh vực: điện
+-tiếng hú giao thoa

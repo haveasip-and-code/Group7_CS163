@@ -1,3 +1,8 @@
-sapwood
-	@sapwood\n* danh từ\n- dác gỗ (lớp mềm bên ngoài của gỗ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dác gỗ\n@Lĩnh vực: hóa học & vật liệu\n-gỗ dác
-
+sapwood	@sapwood
+* danh từ
+- dác gỗ (lớp mềm bên ngoài của gỗ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dác gỗ
+@Lĩnh vực: hóa học & vật liệu
+-gỗ dác

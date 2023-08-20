@@ -1,3 +1,2 @@
-swamis
-	@swamis\n- xem swami
-
+swamis	@swamis
+- xem swami

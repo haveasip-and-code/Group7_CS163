@@ -1,3 +1,8 @@
-ale
-	@ale /eil/\n*  danh từ\n- rượu bia\n- cuộc vui liên hoan uống bia\n!Adam's ale\n- (xem) Adam\n@Chuyên ngành kinh tế\n-bia
-
+ale	@ale /eil/
+*  danh từ
+- rượu bia
+- cuộc vui liên hoan uống bia
+!Adam's ale
+- (xem) Adam
+@Chuyên ngành kinh tế
+-bia

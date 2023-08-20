@@ -1,3 +1,21 @@
-blasting
-	@blasting /'blɑ:stiɳ/\n*  danh từ\n- sự làm nổ tung, sự phá bằng thuốc nổ\n- sự làm tan vỡ (hy vọng, cơ đồ...)\n@Chuyên ngành kỹ thuật\n-phun khí\n-quạt gió\n-sự nổ\n-sự nổ mìn\n-sự quạt gió\n-sự thổi\n-sự thổi gió\n@Lĩnh vực: xây dựng\n-công tác nổ mìn\n-sự nổ (mìn)\n-sự phun thổi\n-sự rỉ nước\n@Lĩnh vực: cơ khí & công trình\n-công việc nổ mìn\n@Lĩnh vực: hóa học & vật liệu\n-mìn nổ
-
+blasting	@blasting /'blɑ:stiɳ/
+*  danh từ
+- sự làm nổ tung, sự phá bằng thuốc nổ
+- sự làm tan vỡ (hy vọng, cơ đồ...)
+@Chuyên ngành kỹ thuật
+-phun khí
+-quạt gió
+-sự nổ
+-sự nổ mìn
+-sự quạt gió
+-sự thổi
+-sự thổi gió
+@Lĩnh vực: xây dựng
+-công tác nổ mìn
+-sự nổ (mìn)
+-sự phun thổi
+-sự rỉ nước
+@Lĩnh vực: cơ khí & công trình
+-công việc nổ mìn
+@Lĩnh vực: hóa học & vật liệu
+-mìn nổ

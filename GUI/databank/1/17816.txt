@@ -1,3 +1,7 @@
-eluent
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dung môi rửa giải hấp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dung môi rửa giải hấp
-
+eluent	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dung môi rửa giải hấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dung môi rửa giải hấp

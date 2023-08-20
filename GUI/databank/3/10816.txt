@@ -1,3 +1,4 @@
-computerizable
-	@computerizable\n- xem computerize\n@Chuyên ngành kinh tế\n-có thể tin học hóa
-
+computerizable	@computerizable
+- xem computerize
+@Chuyên ngành kinh tế
+-có thể tin học hóa

@@ -1,3 +1,6 @@
-reinoculation
-	@Chuyên ngành kinh tế\n-sự cấy (vi khuẩn)\n-sự gieo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự tái hòa hợp
-
+reinoculation	@Chuyên ngành kinh tế
+-sự cấy (vi khuẩn)
+-sự gieo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự tái hòa hợp

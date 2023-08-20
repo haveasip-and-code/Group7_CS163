@@ -1,3 +1,11 @@
-synopsis
-	@synopsis /si'nɔpis/\n*  danh từ,  số nhiều synopses\n- bảng tóm tắt, bảng toát yếu\n@Chuyên ngành kinh tế\n-bảng tóm lược\n-biểu nhất lãm\n-nhất lãm biểu\n-nhất lãm biểu (biểu nhất lãm)\n@Chuyên ngành kỹ thuật\n-bản toát yếu\n-bản tóm tắt
-
+synopsis	@synopsis /si'nɔpis/
+*  danh từ,  số nhiều synopses
+- bảng tóm tắt, bảng toát yếu
+@Chuyên ngành kinh tế
+-bảng tóm lược
+-biểu nhất lãm
+-nhất lãm biểu
+-nhất lãm biểu (biểu nhất lãm)
+@Chuyên ngành kỹ thuật
+-bản toát yếu
+-bản tóm tắt

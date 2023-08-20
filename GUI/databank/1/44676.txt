@@ -1,3 +1,10 @@
-pulverized
-	@Chuyên ngành kinh tế\n-biến thành bột\n-nghiền thành bột\n@Chuyên ngành kỹ thuật\n-dạng bột\n@Lĩnh vực: xây dựng\n-có bụi\n-được nghiền thành bột\n@Lĩnh vực: hóa học & vật liệu\n-được tán thành bột
-
+pulverized	@Chuyên ngành kinh tế
+-biến thành bột
+-nghiền thành bột
+@Chuyên ngành kỹ thuật
+-dạng bột
+@Lĩnh vực: xây dựng
+-có bụi
+-được nghiền thành bột
+@Lĩnh vực: hóa học & vật liệu
+-được tán thành bột

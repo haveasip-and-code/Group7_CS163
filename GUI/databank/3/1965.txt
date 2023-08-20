@@ -1,3 +1,2 @@
-amplifiers
-	@Chuyên ngành kỹ thuật\n-bộ khuếch đại
-
+amplifiers	@Chuyên ngành kỹ thuật
+-bộ khuếch đại

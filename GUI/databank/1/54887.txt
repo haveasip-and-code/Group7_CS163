@@ -1,3 +1,2 @@
-survivals
-	@Chuyên ngành kỹ thuật\n-vật còn sót
-
+survivals	@Chuyên ngành kỹ thuật
+-vật còn sót

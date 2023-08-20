@@ -1,3 +1,28 @@
-landscape
-	@landscape /'lænskeip/\n*  danh từ\n- phong cảnh\n*  động từ\n- làm đẹp phong cảnh\n- làm nghề xây dựng vườn hoa và công viên\n@Chuyên ngành kỹ thuật\n-phong cảnh\n-quang cảnh\n-quang cảnh rộng\n@Lĩnh vực: xây dựng\n-trồng cây\n-trồng hoa\n@Lĩnh vực: điện lạnh\n-trường rộng\n@Lĩnh vực: điện tử & viễn thông\n-xoay ngang\n@Chuyên ngành kỹ thuật\n-phong cảnh\n-quang cảnh\n-quang cảnh rộng\n@Lĩnh vực: xây dựng\n-trồng cây\n-trồng hoa\n@Lĩnh vực: điện lạnh\n-trường rộng\n@Lĩnh vực: điện tử & viễn thông\n-xoay ngang
-
+landscape	@landscape /'lænskeip/
+*  danh từ
+- phong cảnh
+*  động từ
+- làm đẹp phong cảnh
+- làm nghề xây dựng vườn hoa và công viên
+@Chuyên ngành kỹ thuật
+-phong cảnh
+-quang cảnh
+-quang cảnh rộng
+@Lĩnh vực: xây dựng
+-trồng cây
+-trồng hoa
+@Lĩnh vực: điện lạnh
+-trường rộng
+@Lĩnh vực: điện tử & viễn thông
+-xoay ngang
+@Chuyên ngành kỹ thuật
+-phong cảnh
+-quang cảnh
+-quang cảnh rộng
+@Lĩnh vực: xây dựng
+-trồng cây
+-trồng hoa
+@Lĩnh vực: điện lạnh
+-trường rộng
+@Lĩnh vực: điện tử & viễn thông
+-xoay ngang

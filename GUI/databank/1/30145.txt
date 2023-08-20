@@ -1,3 +1,6 @@
-isopach
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-đường cùng độ dày\n@Lĩnh vực: xây dựng\n-đường đẳng dày
-
+isopach	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-đường cùng độ dày
+@Lĩnh vực: xây dựng
+-đường đẳng dày

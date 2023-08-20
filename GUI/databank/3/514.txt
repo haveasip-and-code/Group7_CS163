@@ -1,3 +1,6 @@
-acidulation
-	@acidulation\n- xem acidulate\n@Chuyên ngành kinh tế\n-sự axit hóa\n@Chuyên ngành kỹ thuật\n-axit hóa
-
+acidulation	@acidulation
+- xem acidulate
+@Chuyên ngành kinh tế
+-sự axit hóa
+@Chuyên ngành kỹ thuật
+-axit hóa

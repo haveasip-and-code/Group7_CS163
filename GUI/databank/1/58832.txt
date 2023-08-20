@@ -1,3 +1,4 @@
-uncased
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-không chống ống\n-không đứt ống (khoan)
-
+uncased	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-không chống ống
+-không đứt ống (khoan)

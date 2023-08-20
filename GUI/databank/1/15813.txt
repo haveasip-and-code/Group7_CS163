@@ -1,3 +1,4 @@
-disentitle
-	@disentitle\n* ngoại động từ\n- tước bỏ quyền lợi, tước bỏ chức vị
-
+disentitle	
+@disentitle
+* ngoại động từ
+- tước bỏ quyền lợi, tước bỏ chức vị

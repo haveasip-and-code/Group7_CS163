@@ -1,3 +1,12 @@
-elm
-	@elm /elm/\n*  danh từ\n- (thực vật học) cây đu\n@Chuyên ngành kỹ thuật\n-cây đu\n@Lĩnh vực: xây dựng\n-gỗ đu\n@Chuyên ngành kỹ thuật\n-cây đu\n@Lĩnh vực: xây dựng\n-gỗ đu
-
+elm	
+@elm /elm/
+*  danh từ
+- (thực vật học) cây đu
+@Chuyên ngành kỹ thuật
+-cây đu
+@Lĩnh vực: xây dựng
+-gỗ đu
+@Chuyên ngành kỹ thuật
+-cây đu
+@Lĩnh vực: xây dựng
+-gỗ đu

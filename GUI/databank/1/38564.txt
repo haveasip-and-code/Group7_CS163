@@ -1,3 +1,4 @@
-outroot
-	@outroot /aut'ru:t/\n*  ngoại động từ\n- nhổ cả gốc, làm bật gốc\n- (nghĩa bóng) trừ tận gốc
-
+outroot	@outroot /aut'ru:t/
+*  ngoại động từ
+- nhổ cả gốc, làm bật gốc
+- (nghĩa bóng) trừ tận gốc

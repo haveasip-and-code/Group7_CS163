@@ -1,3 +1,5 @@
-stairwell
-	@stairwell\n* danh từ\n- phần của ngôi nhà nơi xây cầu thang; chỗ dành cho cầu thang\n@Chuyên ngành kỹ thuật\n-lồng cầu thang
-
+stairwell	@stairwell
+* danh từ
+- phần của ngôi nhà nơi xây cầu thang; chỗ dành cho cầu thang
+@Chuyên ngành kỹ thuật
+-lồng cầu thang

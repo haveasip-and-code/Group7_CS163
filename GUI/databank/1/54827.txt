@@ -1,3 +1,12 @@
-surfactant
-	@surfactant\n* tính từ\n- có hoạt tính bề mặt\n* danh từ\n- chất có hoạt tính bề mặt\n@Chuyên ngành kinh tế\n-chất hoạt dịch\n-chất hoạt động bề mặt\n@Chuyên ngành kỹ thuật\n-hoạt chất bề mặt\n@Lĩnh vực: y học\n-chất hoạt tính bề mặt
-
+surfactant	@surfactant
+* tính từ
+- có hoạt tính bề mặt
+* danh từ
+- chất có hoạt tính bề mặt
+@Chuyên ngành kinh tế
+-chất hoạt dịch
+-chất hoạt động bề mặt
+@Chuyên ngành kỹ thuật
+-hoạt chất bề mặt
+@Lĩnh vực: y học
+-chất hoạt tính bề mặt

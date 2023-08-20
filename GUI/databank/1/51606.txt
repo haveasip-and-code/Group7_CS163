@@ -1,3 +1,5 @@
-soapstone
-	@Chuyên ngành kỹ thuật\n-đá tan\n-hoạt thạch\n@Lĩnh vực: hóa học & vật liệu\n-đá xà phòng
-
+soapstone	@Chuyên ngành kỹ thuật
+-đá tan
+-hoạt thạch
+@Lĩnh vực: hóa học & vật liệu
+-đá xà phòng

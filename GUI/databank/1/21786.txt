@@ -1,3 +1,12 @@
-footprint
-	@footprint /'futprint/\n*  danh từ\n- dấu chân, vết chân\n@Chuyên ngành kỹ thuật\n-điện thế\n-vùng phủ sóng\n@Lĩnh vực: xây dựng\n-vết bánh xe\n-vết chân\n@Lĩnh vực: ô tô\n-vết tiếp xúc
-
+footprint	
+@footprint /'futprint/
+*  danh từ
+- dấu chân, vết chân
+@Chuyên ngành kỹ thuật
+-điện thế
+-vùng phủ sóng
+@Lĩnh vực: xây dựng
+-vết bánh xe
+-vết chân
+@Lĩnh vực: ô tô
+-vết tiếp xúc

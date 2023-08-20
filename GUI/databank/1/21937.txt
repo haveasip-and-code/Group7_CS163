@@ -1,3 +1,7 @@
-forestage
-	@forestage\n* danh từ\n- phần trước sân khấu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phần tiền cảnh
-
+forestage	
+@forestage
+* danh từ
+- phần trước sân khấu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phần tiền cảnh

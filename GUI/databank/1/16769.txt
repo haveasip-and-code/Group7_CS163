@@ -1,3 +1,25 @@
-dredge
-	@dredge /dredʤ/\n*  danh từ\n- lưới vét (bắt sò hến ở đáy sông)\n- máy nạo vét lòng sông\n*  động từ\n- kéo lưới vét, đánh lưới vét (bắt sò...)\n=to dredge [for] oysters+ đánh lưới; vét bắt sò\n- nạo vét (sông, biển bằng máy nạo vét)\n*  ngoại động từ\n- rắc (bột, muối, hạt tiêu...)\n@Chuyên ngành kinh tế\n-lưới vét\n-máy nạo vét\n-nạo vét\n@Chuyên ngành kỹ thuật\n-nạo\n-nạo vét\n-máy nạo vét\n-tàu vét bùn\n@Lĩnh vực: xây dựng\n-hút bùn\n-vét bùn\n@Lĩnh vực: hóa học & vật liệu\n-phần quặng thải
-
+dredge	
+@dredge /dredʤ/
+*  danh từ
+- lưới vét (bắt sò hến ở đáy sông)
+- máy nạo vét lòng sông
+*  động từ
+- kéo lưới vét, đánh lưới vét (bắt sò...)=to dredge [for] oysters
++ đánh lưới; vét bắt sò
+- nạo vét (sông, biển bằng máy nạo vét)
+*  ngoại động từ
+- rắc (bột, muối, hạt tiêu...)
+@Chuyên ngành kinh tế
+-lưới vét
+-máy nạo vét
+-nạo vét
+@Chuyên ngành kỹ thuật
+-nạo
+-nạo vét
+-máy nạo vét
+-tàu vét bùn
+@Lĩnh vực: xây dựng
+-hút bùn
+-vét bùn
+@Lĩnh vực: hóa học & vật liệu
+-phần quặng thải

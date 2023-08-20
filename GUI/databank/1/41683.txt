@@ -1,3 +1,31 @@
-piping
-	@piping /'pipin/\n*  danh từ\n- sự thổi sáo, sự thổi tiêu; sự thổi kèn túi\n- tiếng sáo, tiếng tiêu; tiếng kèn túi; tiếng gió vi vu; tiếng gió vi vu; tiếng chim hót\n- sự viền, dải viền cuộn thừng (quần áo); đường cuộn thừng (bằng kem... trang trí trên mặt bánh)\n- ống dẫn (nói chung); hệ thống ống dẫn\n*  tính từ\n- trong như tiếng sáo, lanh lảnh\n!the piping times os peace\n- thời thanh bình (khắp nơi vang tiếng sáo)\n!piping hot\n- sói réo lên; nóng sôi sùng sục\n@Chuyên ngành kinh tế\n-hình vẽ trên bánh kem\n@Chuyên ngành kỹ thuật\n-đường ống\n-đường ống dẫn\n-hệ ống\n-hệ ống dẫn\n-hệ thống đường ống\n-hệ thống ống dẫn\n-lỗ rò\n-ống dẫn\n-sự đặt đường ống\n-sự đặt ống (dẫn dầu)\n-sự xói ngầm\n-vật liệu làm ống\n@Lĩnh vực: cơ khí & công trình\n-mạch lùng\n@Lĩnh vực: toán & tin\n-sự dẫn bằng ống
-
+piping	@piping /'pipin/
+*  danh từ
+- sự thổi sáo, sự thổi tiêu; sự thổi kèn túi
+- tiếng sáo, tiếng tiêu; tiếng kèn túi; tiếng gió vi vu; tiếng gió vi vu; tiếng chim hót
+- sự viền, dải viền cuộn thừng (quần áo); đường cuộn thừng (bằng kem... trang trí trên mặt bánh)
+- ống dẫn (nói chung); hệ thống ống dẫn
+*  tính từ
+- trong như tiếng sáo, lanh lảnh
+!the piping times os peace
+- thời thanh bình (khắp nơi vang tiếng sáo)
+!piping hot
+- sói réo lên; nóng sôi sùng sục
+@Chuyên ngành kinh tế
+-hình vẽ trên bánh kem
+@Chuyên ngành kỹ thuật
+-đường ống
+-đường ống dẫn
+-hệ ống
+-hệ ống dẫn
+-hệ thống đường ống
+-hệ thống ống dẫn
+-lỗ rò
+-ống dẫn
+-sự đặt đường ống
+-sự đặt ống (dẫn dầu)
+-sự xói ngầm
+-vật liệu làm ống
+@Lĩnh vực: cơ khí & công trình
+-mạch lùng
+@Lĩnh vực: toán & tin
+-sự dẫn bằng ống

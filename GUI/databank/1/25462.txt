@@ -1,3 +1,4 @@
-hemolysis
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự tiêu máu
-
+hemolysis	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự tiêu máu

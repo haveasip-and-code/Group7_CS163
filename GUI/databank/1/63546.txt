@@ -1,3 +1,5 @@
-zaire
-	@Chuyên ngành kinh tế\n-da-ia (tên nước)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh dịch tả (Bồ Đào Nha)
-
+zaire	@Chuyên ngành kinh tế
+-da-ia (tên nước)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh dịch tả (Bồ Đào Nha)

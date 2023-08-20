@@ -1,3 +1,21 @@
-programme
-	@programme /programme/\n*  danh từ\n- chương trình (công tác, biểu diễn văn nghệ...)\n- cương lĩnh (của tổ chức, đảng phái)\n*  ngoại động từ\n- đặt chương trình, lập chương trình\n@Chuyên ngành kinh tế\n-chương trình\n-kế hoạch\n-phương án\n-quy hoạch\n-quy hoạch phương án\n@Chuyên ngành kỹ thuật\n-biểu đồ\n-chương trình\n-cương lĩnh\n-dựng chương trình\n-ghi chương trình\n-kế hoạch\n-lập trình\n-tiến độ
-
+programme	@programme /programme/
+*  danh từ
+- chương trình (công tác, biểu diễn văn nghệ...)
+- cương lĩnh (của tổ chức, đảng phái)
+*  ngoại động từ
+- đặt chương trình, lập chương trình
+@Chuyên ngành kinh tế
+-chương trình
+-kế hoạch
+-phương án
+-quy hoạch
+-quy hoạch phương án
+@Chuyên ngành kỹ thuật
+-biểu đồ
+-chương trình
+-cương lĩnh
+-dựng chương trình
+-ghi chương trình
+-kế hoạch
+-lập trình
+-tiến độ

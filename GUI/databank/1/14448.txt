@@ -1,3 +1,7 @@
-dendron
-	@dendron\n* danh từ\n- sợi nhánh; đọt nhánh (tế bào thần kinh)\n@Chuyên ngành kỹ thuật\n-cây\n-nhánh cây
-
+dendron	
+@dendron
+* danh từ
+- sợi nhánh; đọt nhánh (tế bào thần kinh)
+@Chuyên ngành kỹ thuật
+-cây
+-nhánh cây

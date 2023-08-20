@@ -1,3 +1,5 @@
-gettering
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sự khử khí\n-sự thu khí
-
+gettering	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-sự khử khí
+-sự thu khí

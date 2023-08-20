@@ -1,3 +1,6 @@
-pretext
-	@pretext /'pri:tekst/\n*  danh từ\n- cớ; lý do, cớ thoái thác, lý do không thành thật\n=on (under, upon) the pretext of+ lấy cớ là, lấy lý do là\n*  ngoại động từ\n- lấy cớ là; viện ra làm lý do
-
+pretext	@pretext /'pri:tekst/
+*  danh từ
+- cớ; lý do, cớ thoái thác, lý do không thành thật
+=on (under, upon) the pretext of+ lấy cớ là, lấy lý do là
+*  ngoại động từ
+- lấy cớ là; viện ra làm lý do

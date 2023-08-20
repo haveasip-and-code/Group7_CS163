@@ -1,3 +1,7 @@
-dimer
-	@dimer\n* danh từ\n- (hoá học) chất nhị trùng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đime
-
+dimer	
+@dimer
+* danh từ
+- (hoá học) chất nhị trùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đime

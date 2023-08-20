@@ -1,3 +1,2 @@
-affirmable
-	@affirmable\n- xem affirm
-
+affirmable	@affirmable
+- xem affirm

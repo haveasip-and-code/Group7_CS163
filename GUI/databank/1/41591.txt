@@ -1,3 +1,2 @@
-pilots
-	@Chuyên ngành kỹ thuật\n-hoa tiêu
-
+pilots	@Chuyên ngành kỹ thuật
+-hoa tiêu

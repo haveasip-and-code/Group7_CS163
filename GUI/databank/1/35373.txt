@@ -1,3 +1,2 @@
-molder
-	@Chuyên ngành kỹ thuật\n-máy làm khuôn
-
+molder	@Chuyên ngành kỹ thuật
+-máy làm khuôn

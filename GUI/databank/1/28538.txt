@@ -1,3 +1,10 @@
-informatics
-	@informatics\n* danh từ\n- khoa học về thông tin, tin học\n@Chuyên ngành kinh tế\n-tin học\n@Chuyên ngành kỹ thuật\n-khoa học thông tin\n@Lĩnh vực: toán & tin\n-môn tin học
-
+informatics	
+@informatics
+* danh từ
+- khoa học về thông tin, tin học
+@Chuyên ngành kinh tế
+-tin học
+@Chuyên ngành kỹ thuật
+-khoa học thông tin
+@Lĩnh vực: toán & tin
+-môn tin học

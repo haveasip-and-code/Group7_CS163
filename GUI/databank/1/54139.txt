@@ -1,3 +1,9 @@
-suboptimal
-	@suboptimal\n* tính từ\n- gần (dưới) điểm cực thuận\n@Chuyên ngành kinh tế\n-dưới điểm tối ưu\n-gần điểm tối ưu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ở dưới điều kiện tốt nhất
-
+suboptimal	@suboptimal
+* tính từ
+- gần (dưới) điểm cực thuận
+@Chuyên ngành kinh tế
+-dưới điểm tối ưu
+-gần điểm tối ưu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ở dưới điều kiện tốt nhất

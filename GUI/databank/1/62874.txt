@@ -1,3 +1,16 @@
-whitening
-	@whitening /'waitni /\n*  danh từ\n- sự chuội, sự tẩy trắng, sự làm cho trắng\n- (kỹ thuật) sự mạ thiếc (kim loại)\n- vôi bột trắng (để quét tường)\n@Chuyên ngành kỹ thuật\n-dung dịch vôi\n-nước vôi\n-sự làm trắng\n-sự quét trắng\n@Lĩnh vực: hóa học & vật liệu\n-phấn bột trắng\n@Lĩnh vực: xây dựng\n-quét vôi\n-sự quét (màu) trắng\n-vôi quét tường
-
+whitening	@whitening /'waitni /
+*  danh từ
+- sự chuội, sự tẩy trắng, sự làm cho trắng
+- (kỹ thuật) sự mạ thiếc (kim loại)
+- vôi bột trắng (để quét tường)
+@Chuyên ngành kỹ thuật
+-dung dịch vôi
+-nước vôi
+-sự làm trắng
+-sự quét trắng
+@Lĩnh vực: hóa học & vật liệu
+-phấn bột trắng
+@Lĩnh vực: xây dựng
+-quét vôi
+-sự quét (màu) trắng
+-vôi quét tường

@@ -1,3 +1,2 @@
-platemaking
-	@Chuyên ngành kỹ thuật\n-sự tạo khuôn in
-
+platemaking	@Chuyên ngành kỹ thuật
+-sự tạo khuôn in

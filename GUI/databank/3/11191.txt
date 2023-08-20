@@ -1,3 +1,8 @@
-coning
-	@Chuyên ngành kỹ thuật\n-hình côn\n@Lĩnh vực: hóa học & vật liệu\n-độ nón\n-góc nón\n-hình thành mặt nón\n@Lĩnh vực: cơ khí & công trình\n-sự tạo hình côn
-
+coning	@Chuyên ngành kỹ thuật
+-hình côn
+@Lĩnh vực: hóa học & vật liệu
+-độ nón
+-góc nón
+-hình thành mặt nón
+@Lĩnh vực: cơ khí & công trình
+-sự tạo hình côn

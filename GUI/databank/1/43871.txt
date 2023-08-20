@@ -1,3 +1,15 @@
-profiteer
-	@profiteer /profiteer/\n*  danh từ\n- kẻ trục lợi, kẻ đầu cơ trục lợi\n*  nội động từ\n- trục lợi, đầu cơ trục lợi\n@Chuyên ngành kinh tế\n-đầu cơ trục lợi\n-gian thương\n-kẻ bạo lợi\n-kẻ đầu cơ thời cuộc\n-kẻ đầu cơ trục lợi\n-kẻ hoạch tài\n-kẻ hoạnh tài\n-tay ap-phe\n-tay áp-phe
-
+profiteer	@profiteer /profiteer/
+*  danh từ
+- kẻ trục lợi, kẻ đầu cơ trục lợi
+*  nội động từ
+- trục lợi, đầu cơ trục lợi
+@Chuyên ngành kinh tế
+-đầu cơ trục lợi
+-gian thương
+-kẻ bạo lợi
+-kẻ đầu cơ thời cuộc
+-kẻ đầu cơ trục lợi
+-kẻ hoạch tài
+-kẻ hoạnh tài
+-tay ap-phe
+-tay áp-phe

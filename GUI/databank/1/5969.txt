@@ -1,3 +1,41 @@
-blocking
-	@blocking\n- (Tech) khóa; chặn; kết khối\n@Chuyên ngành kinh tế\n-sự đăng ký nguyên lô\n@Chuyên ngành kỹ thuật\n-bộ ròng rọc\n-cản\n-đóng\n-kẹp chặt\n-khóa\n-khóa liên động\n-kiềm chế\n-mắc kẹt\n-sự bắt chặt\n-sự chặn\n-sự chẹn\n-sự đóng đường\n-sự kẹt\n-sự kết giao\n-sự kết hợp\n-sự khấu giật\n-sự khóa liên động\n-sự kìm hãm\n-sự liên kết\n-sự nhóm khối\n-sự tắc nghẽn\n@Lĩnh vực: xây dựng\n-gỗ chêm\n-sự kết dính vật liệu không mang muốn\n@Lĩnh vực: điện tử & viễn thông\n-méo tầng khuếch đại\n-sự nghẽn\n-tắc nghẽn\n@Lĩnh vực: hóa học & vật liệu\n-sự chán\n@Lĩnh vực: toán & tin\n-sự nghẽn mạch\n-tạo khối\n@Lĩnh vực: y học\n-sự phong bế, sự hãm
-
+blocking	
+@blocking
+- (Tech) khóa; chặn; kết khối
+@Chuyên ngành kinh tế
+-sự đăng ký nguyên lô
+@Chuyên ngành kỹ thuật
+-bộ ròng rọc
+-cản
+-đóng
+-kẹp chặt
+-khóa
+-khóa liên động
+-kiềm chế
+-mắc kẹt
+-sự bắt chặt
+-sự chặn
+-sự chẹn
+-sự đóng đường
+-sự kẹt
+-sự kết giao
+-sự kết hợp
+-sự khấu giật
+-sự khóa liên động
+-sự kìm hãm
+-sự liên kết
+-sự nhóm khối
+-sự tắc nghẽn
+@Lĩnh vực: xây dựng
+-gỗ chêm
+-sự kết dính vật liệu không mang muốn
+@Lĩnh vực: điện tử & viễn thông
+-méo tầng khuếch đại
+-sự nghẽn
+-tắc nghẽn
+@Lĩnh vực: hóa học & vật liệu
+-sự chán
+@Lĩnh vực: toán & tin
+-sự nghẽn mạch
+-tạo khối
+@Lĩnh vực: y học
+-sự phong bế, sự hãm

@@ -1,3 +1,20 @@
-suppression
-	@suppression /sə'preʃn/\n*  danh từ\n- sự chặn (bệnh); sự triệt (tiếng ồn)\n- sự đàn áp\n- sự cấm chỉ\n- sự nén, sự cầm lại (tình cảm...)\n- sự giữ kín; sự lấp liếm (một chứng cớ...), sự ỉm đi\n- sự thu hồi (sách...)\n@Chuyên ngành kinh tế\n-sự triệt bọt\n@Chuyên ngành kỹ thuật\n-lược bỏ\n-sự bỏ\n-sự khử\n-sự loại trừ\n-sự triệt\n-sự xóa\n-sự xóa bỏ\n@Lĩnh vực: y học\n-chặn
-
+suppression	@suppression /sə'preʃn/
+*  danh từ
+- sự chặn (bệnh); sự triệt (tiếng ồn)
+- sự đàn áp
+- sự cấm chỉ
+- sự nén, sự cầm lại (tình cảm...)
+- sự giữ kín; sự lấp liếm (một chứng cớ...), sự ỉm đi
+- sự thu hồi (sách...)
+@Chuyên ngành kinh tế
+-sự triệt bọt
+@Chuyên ngành kỹ thuật
+-lược bỏ
+-sự bỏ
+-sự khử
+-sự loại trừ
+-sự triệt
+-sự xóa
+-sự xóa bỏ
+@Lĩnh vực: y học
+-chặn

@@ -1,3 +1,9 @@
-stipple
-	@stipple /'stipl/\n*  danh từ\n- thuật vẽ bằng chấm\n- bản vẽ bằng chấm\n*  động từ\n- khắc chấm vào, vẽ bằng chấm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thuật vẽ bằng chấm
-
+stipple	@stipple /'stipl/
+*  danh từ
+- thuật vẽ bằng chấm
+- bản vẽ bằng chấm
+*  động từ
+- khắc chấm vào, vẽ bằng chấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thuật vẽ bằng chấm

@@ -1,3 +1,60 @@
-casing
-	@casing /'keisiɳ/\n*  danh từ\n- vỏ bọc, bao\n=copper wire with a casing of rubber+ dây đồng hồ có vỏ bọc cao su\n@Chuyên ngành kinh tế\n-màng bọc\n-màng ruột\n-phí đóng thùng\n-sự vô thùng\n-vỏ\n@Chuyên ngành kỹ thuật\n-áo\n-bao\n-bệ\n-bơm ly tâm\n-cácte\n-cái bao\n-cái vỏ\n-cat te\n-đai\n-đế\n-giá\n-hòm khuôn\n-hộp\n-hộp đựng\n-khoang\n-khung khuôn\n-khuôn cửa\n-khuôn cửa sổ\n-lồng\n-lớp bọc\n-lớp phủ\n-ngăn\n-màng bao\n-máy quạt gió\n-ống chống\n-ống chống (giếng khoan)\n-ống lót\n-ống lót vách\n-tạo khuôn\n-thành\n-thiết bị lạnh\n-ván khuôn\n-vỏ\n-vỏ bao\n-vỏ máy\n@Lĩnh vực: ô tô\n-cạnh vỏ\n@Lĩnh vực: hóa học & vật liệu\n-chống ống (khoan)\n@Lĩnh vực: cơ khí & công trình\n-hộ\n-hộp bảo vệ\n@Lĩnh vực: xây dựng\n-ống bọc ngoài\n-sự đặt ống lót\n-vỏ bọc\n@Lĩnh vực: điện lạnh\n-vỏ giàn lạnh
-
+casing	
+@casing /'keisiɳ/
+*  danh từ
+- vỏ bọc, bao=copper wire with a casing of rubber
++ dây đồng hồ có vỏ bọc cao su
+@Chuyên ngành kinh tế
+-màng bọc
+-màng ruột
+-phí đóng thùng
+-sự vô thùng
+-vỏ
+@Chuyên ngành kỹ thuật
+-áo
+-bao
+-bệ
+-bơm ly tâm
+-cácte
+-cái bao
+-cái vỏ
+-cat te
+-đai
+-đế
+-giá
+-hòm khuôn
+-hộp
+-hộp đựng
+-khoang
+-khung khuôn
+-khuôn cửa
+-khuôn cửa sổ
+-lồng
+-lớp bọc
+-lớp phủ
+-ngăn
+-màng bao
+-máy quạt gió
+-ống chống
+-ống chống (giếng khoan)
+-ống lót
+-ống lót vách
+-tạo khuôn
+-thành
+-thiết bị lạnh
+-ván khuôn
+-vỏ
+-vỏ bao
+-vỏ máy
+@Lĩnh vực: ô tô
+-cạnh vỏ
+@Lĩnh vực: hóa học & vật liệu
+-chống ống (khoan)
+@Lĩnh vực: cơ khí & công trình
+-hộ
+-hộp bảo vệ
+@Lĩnh vực: xây dựng
+-ống bọc ngoài
+-sự đặt ống lót
+-vỏ bọc
+@Lĩnh vực: điện lạnh
+-vỏ giàn lạnh

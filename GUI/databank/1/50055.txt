@@ -1,3 +1,11 @@
-setup
-	@setup\n- cơ cấu của một tổ chức\n- mưu mô sắp đặt để lừa người\n- cài đặt, thiết lập\n@Chuyên ngành kinh tế\n-sự chu tất\n-sự cung liệu đầy đủ\n@Chuyên ngành kỹ thuật\n-sự cài đặt\n@Lĩnh vực: toán & tin\n-thiết lập, cài đặt
-
+setup	@setup
+- cơ cấu của một tổ chức
+- mưu mô sắp đặt để lừa người
+- cài đặt, thiết lập
+@Chuyên ngành kinh tế
+-sự chu tất
+-sự cung liệu đầy đủ
+@Chuyên ngành kỹ thuật
+-sự cài đặt
+@Lĩnh vực: toán & tin
+-thiết lập, cài đặt

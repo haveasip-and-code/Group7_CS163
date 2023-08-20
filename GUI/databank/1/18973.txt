@@ -1,3 +1,19 @@
-ergonomics
-	@ergonomics\n- (Tech) môn tối ưu nhân tố\n@Chuyên ngành kinh tế\n-công hiệu toán học\n-công thái học\n-khoa học lao động\n@Chuyên ngành kỹ thuật\n-ecgonomic\n-khoa nghiên cứu về lao động\n-ngành sinh lý lao động\n@Lĩnh vực: toán & tin\n-công thái học\n@Chuyên ngành kỹ thuật\n-ecgonomic\n-khoa nghiên cứu về lao động\n-ngành sinh lý lao động\n@Lĩnh vực: toán & tin\n-công thái học
-
+ergonomics	
+@ergonomics
+- (Tech) môn tối ưu nhân tố
+@Chuyên ngành kinh tế
+-công hiệu toán học
+-công thái học
+-khoa học lao động
+@Chuyên ngành kỹ thuật
+-ecgonomic
+-khoa nghiên cứu về lao động
+-ngành sinh lý lao động
+@Lĩnh vực: toán & tin
+-công thái học
+@Chuyên ngành kỹ thuật
+-ecgonomic
+-khoa nghiên cứu về lao động
+-ngành sinh lý lao động
+@Lĩnh vực: toán & tin
+-công thái học

@@ -1,3 +1,2 @@
-cash
-	@cash\n- (toán kinh tế) tiền mặt
-
+cash	@cash
+- (toán kinh tế) tiền mặt

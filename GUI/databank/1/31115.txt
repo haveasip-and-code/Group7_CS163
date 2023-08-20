@@ -1,3 +1,19 @@
-knoll
-	@knoll /noul/\n*  danh từ\n- đồi nhỏ, gò\n*  nội động từ\n- (từ cổ,nghĩa cổ) rung (chuông)\n*  ngoại động từ (từ cổ,nghĩa cổ)\n- rung (chuông)\n- đánh chuông điểm (giờ)\n- rung chuông gọi\n@Chuyên ngành kỹ thuật\n-đồi nhỏ\n-gò\n@Lĩnh vực: hóa học & vật liệu\n-đỉnh doi cát\n@Chuyên ngành kỹ thuật\n-đồi nhỏ\n-gò\n@Lĩnh vực: hóa học & vật liệu\n-đỉnh doi cát
-
+knoll	@knoll /noul/
+*  danh từ
+- đồi nhỏ, gò
+*  nội động từ
+- (từ cổ,nghĩa cổ) rung (chuông)
+*  ngoại động từ (từ cổ,nghĩa cổ)
+- rung (chuông)
+- đánh chuông điểm (giờ)
+- rung chuông gọi
+@Chuyên ngành kỹ thuật
+-đồi nhỏ
+-gò
+@Lĩnh vực: hóa học & vật liệu
+-đỉnh doi cát
+@Chuyên ngành kỹ thuật
+-đồi nhỏ
+-gò
+@Lĩnh vực: hóa học & vật liệu
+-đỉnh doi cát

@@ -1,3 +1,5 @@
-outbound
-	@outbound /'autbaund/\n*  tính từ\n- đi đến một hải cảng nước ngoài, đi ra nước ngoài\n@Chuyên ngành kinh tế\n-đi ra nước ngoài
-
+outbound	@outbound /'autbaund/
+*  tính từ
+- đi đến một hải cảng nước ngoài, đi ra nước ngoài
+@Chuyên ngành kinh tế
+-đi ra nước ngoài

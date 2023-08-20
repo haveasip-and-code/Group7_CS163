@@ -1,3 +1,5 @@
-duplicated
-	@duplicated\n- lặp lại\n@Chuyên ngành kỹ thuật\n-lặp lại
-
+duplicated	
+@duplicated
+- lặp lại
+@Chuyên ngành kỹ thuật
+-lặp lại

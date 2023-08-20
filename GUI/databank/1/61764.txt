@@ -1,3 +1,4 @@
-videophone
-	@Chuyên ngành kinh tế\n-điện thoại truyền hình\n@Chuyên ngành kỹ thuật\n-điện thoại truyền hình
-
+videophone	@Chuyên ngành kinh tế
+-điện thoại truyền hình
+@Chuyên ngành kỹ thuật
+-điện thoại truyền hình

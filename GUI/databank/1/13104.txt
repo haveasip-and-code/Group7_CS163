@@ -1,3 +1,55 @@
-cure
-	@cure /kjuə/\n*  danh từ\n- cách chữa bệnh, cách điều trị; việc chữa bệnh, việc điều trị; đợt chữa bệnh (bằng cách ăn uống cái gì... liên tục trong một thời gian)\n=his cure took six weeks+ việc điều trị của anh ta mất sáu tuần lễ\n=the hot water cure+ đợt chữa tắm nóng\n- thuốc, phương thuốc\n=a good cure for chilblains+ một phương thuốc tốt để chữa cước nẻ\n- sự lưu hoá (cao su)\n- (tôn giáo) thánh chức\n*  ngoại động từ\n- chữa bênh, điều trị\n=to cure a patient+ điều trị một người bệnh\n- (nghĩa bóng) chữa (thói xấu, tật xấu)\n=to cure laziness+ chữa bệnh lười biếng\n- xử lý để có thể để lâu (bằng cách ướp muối, xông khói, phơi khô)\n- lưu hoá (cao su)\n@Chuyên ngành kinh tế\n-phơi khô\n-sự phơi khô\n-sự sấy khô\n-sự tẩy trắng\n-sự ướp\n-sự xử lý\n-ướp muối\n-xông khói\n@Chuyên ngành kỹ thuật\n-bảo dưỡng\n-hong khô\n-làm cứng\n-liên kết ngang\n-lưu hóa\n-sấy\n-sấy khô\n-sự cứng lại\n-sự hóa cứng\n-sự lưu hóa\n-tôi\n-xông khói\n-xử lý\n@Lĩnh vực: xây dựng\n-bảo dưỡng (tàu)\n-ninh kết\n-sự bảo dưỡng (bêtông)\n-xử lý (khuyết tật)\n@Lĩnh vực: hóa học & vật liệu\n-làm biền cứng\n-lưu hóa (keo dán)\n@Lĩnh vực: thực phẩm\n-phơi khô (thịt)\n-ướp muối\n@Lĩnh vực: y học\n-sự chữa bệnh trị liệu\n@Lĩnh vực: cơ khí & công trình\n-sự hóa cứng (chất dẻo)
-
+cure	
+@cure /kjuə/
+*  danh từ
+- cách chữa bệnh, cách điều trị; việc chữa bệnh, việc điều trị; đợt chữa bệnh (bằng cách ăn uống cái gì... liên tục trong một thời gian)=his cure took six weeks
++ việc điều trị của anh ta mất sáu tuần lễ=the hot water cure
++ đợt chữa tắm nóng
+- thuốc, phương thuốc=a good cure for chilblains
++ một phương thuốc tốt để chữa cước nẻ
+- sự lưu hoá (cao su)
+- (tôn giáo) thánh chức
+*  ngoại động từ
+- chữa bênh, điều trị=to cure a patient
++ điều trị một người bệnh
+- (nghĩa bóng) chữa (thói xấu, tật xấu)=to cure laziness
++ chữa bệnh lười biếng
+- xử lý để có thể để lâu (bằng cách ướp muối, xông khói, phơi khô)
+- lưu hoá (cao su)
+@Chuyên ngành kinh tế
+-phơi khô
+-sự phơi khô
+-sự sấy khô
+-sự tẩy trắng
+-sự ướp
+-sự xử lý
+-ướp muối
+-xông khói
+@Chuyên ngành kỹ thuật
+-bảo dưỡng
+-hong khô
+-làm cứng
+-liên kết ngang
+-lưu hóa
+-sấy
+-sấy khô
+-sự cứng lại
+-sự hóa cứng
+-sự lưu hóa
+-tôi
+-xông khói
+-xử lý
+@Lĩnh vực: xây dựng
+-bảo dưỡng (tàu)
+-ninh kết
+-sự bảo dưỡng (bêtông)
+-xử lý (khuyết tật)
+@Lĩnh vực: hóa học & vật liệu
+-làm biền cứng
+-lưu hóa (keo dán)
+@Lĩnh vực: thực phẩm
+-phơi khô (thịt)
+-ướp muối
+@Lĩnh vực: y học
+-sự chữa bệnh trị liệu
+@Lĩnh vực: cơ khí & công trình
+-sự hóa cứng (chất dẻo)

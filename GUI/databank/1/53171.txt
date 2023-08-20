@@ -1,3 +1,27 @@
-steer
-	@steer /stiə/\n*  ngoại động từ\n- lái (tàu thuỷ, ô tô)\n- (thông tục) hướng (bước...) về\n=we steered our course for the railway station+ chúng tôi hướng bước về phía nhà ga\n*  nội động từ\n- lái ô tô, lái tàu thuỷ...\n- bị lái, lái được\n=this car steers easily+ ô tô này dễ lái\n- hướng theo một con đường, hướng bước về\n=to steer for a place+ đi về phía nơi nào\n!to steer clear of\n- tránh, lánh xa\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời gợi ý; lời mách nước (làm việc gì)\n*  danh từ\n- bò non thiến\n- bò đực non; trâu đực non\n@Chuyên ngành kinh tế\n-bê thiến\n-nghé thiến\n@Chuyên ngành kỹ thuật\n-bay theo hướng\n-đi theo hướng\n-điều khiển\n-lái\n-lái theo hướng
-
+steer	@steer /stiə/
+*  ngoại động từ
+- lái (tàu thuỷ, ô tô)
+- (thông tục) hướng (bước...) về
+=we steered our course for the railway station+ chúng tôi hướng bước về phía nhà ga
+*  nội động từ
+- lái ô tô, lái tàu thuỷ...
+- bị lái, lái được
+=this car steers easily+ ô tô này dễ lái
+- hướng theo một con đường, hướng bước về
+=to steer for a place+ đi về phía nơi nào
+!to steer clear of
+- tránh, lánh xa
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời gợi ý; lời mách nước (làm việc gì)
+*  danh từ
+- bò non thiến
+- bò đực non; trâu đực non
+@Chuyên ngành kinh tế
+-bê thiến
+-nghé thiến
+@Chuyên ngành kỹ thuật
+-bay theo hướng
+-đi theo hướng
+-điều khiển
+-lái
+-lái theo hướng

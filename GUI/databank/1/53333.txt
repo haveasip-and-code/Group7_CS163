@@ -1,3 +1,59 @@
-stiff
-	@stiff /stif/\n*  tính từ\n- cứng, cứng đơ, ngay đơ\n=stiff collar+ cổ cứng\n=to lie stiff in death+ nằm chết cứng\n=a stiff leg+ chân bị ngay đơ\n- cứng rắn, kiên quyết, không nhân nhượng\n=a stiff denial+ sự từ chối kiên quyết; sự bác bỏ kiên quyết\n=a stiff resistance+ sự kháng cự kiên quyết\n- cứng, nhắc, không tự nhiên\n=stiff movement+ cử động cứng nhắc\n=stiff manners+ bộ dạng không tự nhiên\n=stiff style+ văn phong không tự nhiên\n- rít, không trơn\n=stiff hinge+ bản lề rít\n- khó, khó nhọc, vất vả\n=stiff examination+ kỳ thi khó\n=a stiff slope+ dốc khó trèo\n- hà khắc, khắc nghiệt\n=a stiff punishment+ sự trừng phạt khắc nghiệt\n- cao (giá cả)\n- nặng (rượu); mạnh (liều thuốc...)\n- đặc, quánh\n=to beat the egg whites until stiff+ đánh lòng trắng trứng cho đến khi quánh lại\n- (Ê-cốt) lực lượng\n!to keep a stiff upper lip\n- (xem) lip\n!to be bored stiff\n- chán ngấy, buồn đến chết được\n!to be scared stiff\n- sợ chết cứng\n!a stiff un\n- nhà thể thao lão thành\n- (từ lóng) xác chết\n*  danh từ\n- (từ lóng) xác chết\n- người không thể sửa đổi được\n- (từ Mỹ,nghĩa Mỹ) người vụng về thô kệch\n- (từ Mỹ,nghĩa Mỹ) người lang thang, ma cà bông\n@Chuyên ngành kinh tế\n-cứng\n-đặc\n-khắc nghiệt\n-quá đáng\n@Chuyên ngành kỹ thuật\n-chắc\n-chặt\n-đặc\n-không đàn hồi\n-ngàm\n-ngàm chặt\n-rắn chắc\n-thô\n-vững chắc\n@Lĩnh vực: ô tô\n-cứng khó uốn\n@Lĩnh vực: cơ khí & công trình\n-khó uốn\n-không trơn
-
+stiff	@stiff /stif/
+*  tính từ
+- cứng, cứng đơ, ngay đơ
+=stiff collar+ cổ cứng
+=to lie stiff in death+ nằm chết cứng
+=a stiff leg+ chân bị ngay đơ
+- cứng rắn, kiên quyết, không nhân nhượng
+=a stiff denial+ sự từ chối kiên quyết; sự bác bỏ kiên quyết
+=a stiff resistance+ sự kháng cự kiên quyết
+- cứng, nhắc, không tự nhiên
+=stiff movement+ cử động cứng nhắc
+=stiff manners+ bộ dạng không tự nhiên
+=stiff style+ văn phong không tự nhiên
+- rít, không trơn
+=stiff hinge+ bản lề rít
+- khó, khó nhọc, vất vả
+=stiff examination+ kỳ thi khó
+=a stiff slope+ dốc khó trèo
+- hà khắc, khắc nghiệt
+=a stiff punishment+ sự trừng phạt khắc nghiệt
+- cao (giá cả)
+- nặng (rượu); mạnh (liều thuốc...)
+- đặc, quánh
+=to beat the egg whites until stiff+ đánh lòng trắng trứng cho đến khi quánh lại
+- (Ê-cốt) lực lượng
+!to keep a stiff upper lip
+- (xem) lip
+!to be bored stiff
+- chán ngấy, buồn đến chết được
+!to be scared stiff
+- sợ chết cứng
+!a stiff un
+- nhà thể thao lão thành
+- (từ lóng) xác chết
+*  danh từ
+- (từ lóng) xác chết
+- người không thể sửa đổi được
+- (từ Mỹ,nghĩa Mỹ) người vụng về thô kệch
+- (từ Mỹ,nghĩa Mỹ) người lang thang, ma cà bông
+@Chuyên ngành kinh tế
+-cứng
+-đặc
+-khắc nghiệt
+-quá đáng
+@Chuyên ngành kỹ thuật
+-chắc
+-chặt
+-đặc
+-không đàn hồi
+-ngàm
+-ngàm chặt
+-rắn chắc
+-thô
+-vững chắc
+@Lĩnh vực: ô tô
+-cứng khó uốn
+@Lĩnh vực: cơ khí & công trình
+-khó uốn
+-không trơn

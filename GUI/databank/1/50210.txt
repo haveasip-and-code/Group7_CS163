@@ -1,3 +1,5 @@
-shared
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được chia sẻ\n-được dùng chung\n-được phân chia
-
+shared	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được chia sẻ
+-được dùng chung
+-được phân chia

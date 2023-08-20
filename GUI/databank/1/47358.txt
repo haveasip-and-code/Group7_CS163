@@ -1,3 +1,4 @@
-retranslate
-	@retranslate /'ri:træns'leit/\n*  ngoại động từ\n- dịch lại\n- dịch trở lại nguyên văn
-
+retranslate	@retranslate /'ri:træns'leit/
+*  ngoại động từ
+- dịch lại
+- dịch trở lại nguyên văn

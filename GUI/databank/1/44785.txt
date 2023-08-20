@@ -1,3 +1,8 @@
-purger
-	@purger\n- xem purge\n@Chuyên ngành kỹ thuật\n-máy làm sạch\n-máy lọc\n-máy tách\n@Lĩnh vực: xây dựng\n-vòi tháo rửa
-
+purger	@purger
+- xem purge
+@Chuyên ngành kỹ thuật
+-máy làm sạch
+-máy lọc
+-máy tách
+@Lĩnh vực: xây dựng
+-vòi tháo rửa

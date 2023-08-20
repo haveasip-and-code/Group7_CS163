@@ -1,3 +1,2 @@
-vetoer
-	@vetoer\n- xem veto
-
+vetoer	@vetoer
+- xem veto

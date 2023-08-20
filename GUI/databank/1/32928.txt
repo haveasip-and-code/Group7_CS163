@@ -1,3 +1,8 @@
-luminaire
-	@luminaire\n* danh từ\n- bộ đèn\n- nguồn phát sáng\n@Chuyên ngành kỹ thuật\n-đèn\n-lumine\n-nguồn sáng
-
+luminaire	@luminaire
+* danh từ
+- bộ đèn
+- nguồn phát sáng
+@Chuyên ngành kỹ thuật
+-đèn
+-lumine
+-nguồn sáng

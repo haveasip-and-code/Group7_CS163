@@ -1,3 +1,2 @@
-unemployables
-	@Chuyên ngành kinh tế\n-người không thể được thuê làm
-
+unemployables	@Chuyên ngành kinh tế
+-người không thể được thuê làm

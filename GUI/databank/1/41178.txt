@@ -1,3 +1,6 @@
-phonetic
-	@phonetic /fou'netik/\n*  tính từ\n- (thuộc) ngữ âm\n- (thuộc) ngữ âm học\n@Chuyên ngành kỹ thuật\n-ngữ âm
-
+phonetic	@phonetic /fou'netik/
+*  tính từ
+- (thuộc) ngữ âm
+- (thuộc) ngữ âm học
+@Chuyên ngành kỹ thuật
+-ngữ âm

@@ -1,3 +1,2 @@
-allegorizer
-	@allegorizer\n- xem allegorize
-
+allegorizer	@allegorizer
+- xem allegorize

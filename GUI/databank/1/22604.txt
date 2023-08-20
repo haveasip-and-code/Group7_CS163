@@ -1,3 +1,8 @@
-fungibles
-	@fungibles\n* danh từ số nhiều\n- hàng hoá có thể thay thế được\n@Chuyên ngành kinh tế\n-Có thể chuyến đổi-Có thể hoán đổi\n-những thứ có thể thay thế nhau
-
+fungibles	
+@fungibles
+* danh từ số nhiều
+- hàng hoá có thể thay thế được
+@Chuyên ngành kinh tế
+-Có thể chuyến đổi
+-Có thể hoán đổi
+-những thứ có thể thay thế nhau

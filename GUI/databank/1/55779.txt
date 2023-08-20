@@ -1,3 +1,27 @@
-tee
-	@tee /ti:/\n*  danh từ\n- chữ T\n- vật hình T\n- (thể dục,thể thao) điểm phát bóng (chơi gôn)\n*  động từ\n- (thể dục,thể thao) đặt ở điểm phát bóng (chơi gôn)\n!to tee off\n- (thể dục,thể thao) phát bóng\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) bắt đầu\n@Chuyên ngành kỹ thuật\n-chữ T\n@Chuyên ngành kỹ thuật\n-mặt cắt chữ T\n-ống chạc\n-ống chạc ba\n-thép hình chữ T\n-xà chữ T\n@Lĩnh vực: xây dựng\n-cái tê (ống nước)\n-rầm chữ T\n-vật hình chữ T\n@Lĩnh vực: cơ khí & công trình\n-khuỷu chữ T\n-ống ba nhánh\n@Lĩnh vực: hóa học & vật liệu\n-ống nối hình T
-
+tee	@tee /ti:/
+*  danh từ
+- chữ T
+- vật hình T
+- (thể dục,thể thao) điểm phát bóng (chơi gôn)
+*  động từ
+- (thể dục,thể thao) đặt ở điểm phát bóng (chơi gôn)
+!to tee off
+- (thể dục,thể thao) phát bóng
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bắt đầu
+@Chuyên ngành kỹ thuật
+-chữ T
+@Chuyên ngành kỹ thuật
+-mặt cắt chữ T
+-ống chạc
+-ống chạc ba
+-thép hình chữ T
+-xà chữ T
+@Lĩnh vực: xây dựng
+-cái tê (ống nước)
+-rầm chữ T
+-vật hình chữ T
+@Lĩnh vực: cơ khí & công trình
+-khuỷu chữ T
+-ống ba nhánh
+@Lĩnh vực: hóa học & vật liệu
+-ống nối hình T

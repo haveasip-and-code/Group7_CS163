@@ -1,3 +1,45 @@
-find
-	@find /faind/\n*  danh từ\n- sự tìm thấy (chồn, cáo, mỏ, vàng...)\n=a sure find+ nơi chắc tìm thấy vật gì; nơi chắc có cáo, có chồn...\n- vật tìm thấy\n*  ngoại động từ\n- thấy, tìm thấy, tìm ra, bắt được\n- nhận, nhận được, được\n=to find favour+ được chiếu cố\n- nhận thấy, xét thấy, thấy\n=how do you find yourself this morning?+ sáng nay anh thấy người thế nào?\n=to find it necessary to do something+ thấy cần thiết phải làm việc gì\n- thấy có (thời gian, can đảm...)\n=I can't find time to read+ tôi không thấy có thời gian để đọc\n=to find courage to do something+ thấy có can đảm để làm việc gì\n=nobody can find it in his heart to do that+ không ai nỡ lòng nào mà làm việc đó\n- (từ Mỹ,nghĩa Mỹ) tới, đạt tới, trúng\n=the blow found his chin+ quả đấm trúng cằm hắn\n- cung cấp\n=to find someone in clothes+ cung cấp cho ai quần áo\n=to be well found in food+ được cung cấp đầy đủ về thức ăn\n=all found+ được cấp đầy đủ cả ăn, ở, quần áo, ngoài lương ra (người ở)\n- (pháp lý) xác minh và tuyên bố (tội, tội giết người...)\n=to find somebody guilty+ xác minh và tuyên bố ai có tội\n!to find out\n- khám phá ra, tìm ra\n- phát minh ra\n- giải (một vấn đề)\n!to find out about\n- hỏi về, tìm hiểu về\n!to find one's account in\n- lợi dụng\n!to find one's feet\n- đi đứng được\n- (nghĩa bóng) tự lực được\n!to find [a] true bill\n- (xem) bill\n!to find oneself\n- thấy được sở trường năng khiếu của mình\n- tự cung cấp cho mình\n@Chuyên ngành kỹ thuật\n-dò\n-khảo sát\n@Lĩnh vực: toán & tin\n-tìm thấy\n@Chuyên ngành kỹ thuật\n-dò\n-khảo sát\n@Lĩnh vực: toán & tin\n-tìm thấy
-
+find	
+@find /faind/
+*  danh từ
+- sự tìm thấy (chồn, cáo, mỏ, vàng...)=a sure find
++ nơi chắc tìm thấy vật gì; nơi chắc có cáo, có chồn...
+- vật tìm thấy
+*  ngoại động từ
+- thấy, tìm thấy, tìm ra, bắt được
+- nhận, nhận được, được=to find favour
++ được chiếu cố
+- nhận thấy, xét thấy, thấy=how do you find yourself this morning?
++ sáng nay anh thấy người thế nào?=to find it necessary to do something
++ thấy cần thiết phải làm việc gì
+- thấy có (thời gian, can đảm...)=I can't find time to read
++ tôi không thấy có thời gian để đọc=to find courage to do something
++ thấy có can đảm để làm việc gì=nobody can find it in his heart to do that
++ không ai nỡ lòng nào mà làm việc đó
+- (từ Mỹ,nghĩa Mỹ) tới, đạt tới, trúng=the blow found his chin
++ quả đấm trúng cằm hắn
+- cung cấp=to find someone in clothes
++ cung cấp cho ai quần áo=to be well found in food
++ được cung cấp đầy đủ về thức ăn=all found
++ được cấp đầy đủ cả ăn, ở, quần áo, ngoài lương ra (người ở)
+- (pháp lý) xác minh và tuyên bố (tội, tội giết người...)=to find somebody guilty
++ xác minh và tuyên bố ai có tội!to find out
+- khám phá ra, tìm ra
+- phát minh ra
+- giải (một vấn đề)!to find out about
+- hỏi về, tìm hiểu về!to find one's account in
+- lợi dụng!to find one's feet
+- đi đứng được
+- (nghĩa bóng) tự lực được!to find [a] true bill
+- (xem) bill!to find oneself
+- thấy được sở trường năng khiếu của mình
+- tự cung cấp cho mình
+@Chuyên ngành kỹ thuật
+-dò
+-khảo sát
+@Lĩnh vực: toán & tin
+-tìm thấy
+@Chuyên ngành kỹ thuật
+-dò
+-khảo sát
+@Lĩnh vực: toán & tin
+-tìm thấy

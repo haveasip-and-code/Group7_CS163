@@ -1,3 +1,9 @@
-byte
-	@byte\n- (Tech) bai (8 bit)\n@Chuyên ngành kỹ thuật\n-bai\n@Lĩnh vực: toán & tin\n-byte\n-nhóm 8 bit\n-nhóm bít
-
+byte	
+@byte
+- (Tech) bai (8 bit)
+@Chuyên ngành kỹ thuật
+-bai
+@Lĩnh vực: toán & tin
+-byte
+-nhóm 8 bit
+-nhóm bít

@@ -1,3 +1,10 @@
-customization
-	@customization\n* danh từ\n- sự chế tạo (hoặc sửa chữa) theo yêu cầu của khách hàng\n- <tin> sự tùy biến\n@Chuyên ngành kinh tế\n-sự chế tạo theo yêu cầu cụ thể của khách\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự sửa đổi riêng\n-sự tùy biến
-
+customization	@customization
+* danh từ
+- sự chế tạo (hoặc sửa chữa) theo yêu cầu của khách hàng
+- <tin> sự tùy biến
+@Chuyên ngành kinh tế
+-sự chế tạo theo yêu cầu cụ thể của khách
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự sửa đổi riêng
+-sự tùy biến

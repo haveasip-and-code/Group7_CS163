@@ -1,3 +1,12 @@
-articulate
-	@articulate /ɑ:'tikjulit/\n*  tính từ\n- có khớp, có đốt\n- đọc rõ ràng, phát âm rõ ràng\n- (kỹ thuật) có bản lề; có khớp nối\n*  động từ\n- nối bằng khớp; khớp lại với nhau\n- đọc rõ ràng; phát âm rõ ràng, nói rõ ràng\n@Chuyên ngành kỹ thuật\n-nối khớp\n@Lĩnh vực: cơ khí & công trình\n-nối bản lề
-
+articulate	@articulate /ɑ:'tikjulit/
+*  tính từ
+- có khớp, có đốt
+- đọc rõ ràng, phát âm rõ ràng
+- (kỹ thuật) có bản lề; có khớp nối
+*  động từ
+- nối bằng khớp; khớp lại với nhau
+- đọc rõ ràng; phát âm rõ ràng, nói rõ ràng
+@Chuyên ngành kỹ thuật
+-nối khớp
+@Lĩnh vực: cơ khí & công trình
+-nối bản lề

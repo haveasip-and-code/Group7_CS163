@@ -1,3 +1,2 @@
-previousness
-	@previousness\n- xem previous
-
+previousness	@previousness
+- xem previous

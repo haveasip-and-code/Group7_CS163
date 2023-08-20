@@ -1,3 +1,4 @@
-overboiled
-	@Chuyên ngành kinh tế\n-quá chín\n@Chuyên ngành kỹ thuật\n-quá sôi
-
+overboiled	@Chuyên ngành kinh tế
+-quá chín
+@Chuyên ngành kỹ thuật
+-quá sôi

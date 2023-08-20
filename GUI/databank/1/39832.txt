@@ -1,3 +1,18 @@
-particle
-	@particle /'pɑ:tikl/\n*  danh từ\n- chút, tí chút\n=he has not a particle of sense+ nó không có một tí ý thức nào cả\n- (ngôn ngữ học) tiểu từ không biến đổi; tiền tố, hậu tố\n- (vật lý) hạt\n@Chuyên ngành kỹ thuật\n-chất điểm\n-điều khoản\n-hạt\n-phần tử\n@Lĩnh vực: toán & tin\n-hạt, phần tử\n@Lĩnh vực: cơ khí & công trình\n-mảnh nhỏ\n-mảnh vụn (kim khí)\n@Lĩnh vực: xây dựng\n-thể bị hao
-
+particle	@particle /'pɑ:tikl/
+*  danh từ
+- chút, tí chút
+=he has not a particle of sense+ nó không có một tí ý thức nào cả
+- (ngôn ngữ học) tiểu từ không biến đổi; tiền tố, hậu tố
+- (vật lý) hạt
+@Chuyên ngành kỹ thuật
+-chất điểm
+-điều khoản
+-hạt
+-phần tử
+@Lĩnh vực: toán & tin
+-hạt, phần tử
+@Lĩnh vực: cơ khí & công trình
+-mảnh nhỏ
+-mảnh vụn (kim khí)
+@Lĩnh vực: xây dựng
+-thể bị hao

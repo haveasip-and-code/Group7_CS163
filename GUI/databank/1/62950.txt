@@ -1,3 +1,31 @@
-width
-	@width /wid /\n*  danh từ\n- tính chất rộng\n=a road of great width+ con đường rộng\n- bề rộng, bề ngang\n=10 metres in width+ rộng 10 mét\n- khổ (vi)\n=double width+ khổ dôi\n=to join two widths of cloth+ nối hai khổ vi\n- (nghĩa bóng) tính chất rộng r i\n=width of mind+ óc rộng r i\n=width of views+ quan điểm rộng r i\n@Chuyên ngành kinh tế\n-chiều ngang\n-chiều rộng\n-chiều rộng, chiều ngang\n@Chuyên ngành kỹ thuật\n-bề rộng\n-độ rộng\n-độ rộng theo set\n-khẩu độ\n-set\n-vải khăn trải giường\n-vải khổ rộng\n-vĩ độ\n@Lĩnh vực: toán & tin\n-chiều (rộng)\n-độ rộng, khoảng rộng\n@Lĩnh vực: xây dựng\n-độ dày (của vỉa)\n-khổ vải
-
+width	@width /wid /
+*  danh từ
+- tính chất rộng
+=a road of great width+ con đường rộng
+- bề rộng, bề ngang
+=10 metres in width+ rộng 10 mét
+- khổ (vi)
+=double width+ khổ dôi
+=to join two widths of cloth+ nối hai khổ vi
+- (nghĩa bóng) tính chất rộng r i
+=width of mind+ óc rộng r i
+=width of views+ quan điểm rộng r i
+@Chuyên ngành kinh tế
+-chiều ngang
+-chiều rộng
+-chiều rộng, chiều ngang
+@Chuyên ngành kỹ thuật
+-bề rộng
+-độ rộng
+-độ rộng theo set
+-khẩu độ
+-set
+-vải khăn trải giường
+-vải khổ rộng
+-vĩ độ
+@Lĩnh vực: toán & tin
+-chiều (rộng)
+-độ rộng, khoảng rộng
+@Lĩnh vực: xây dựng
+-độ dày (của vỉa)
+-khổ vải

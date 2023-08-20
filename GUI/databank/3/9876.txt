@@ -1,3 +1,2 @@
-cloudily
-	@cloudily\n- xem cloudy
-
+cloudily	@cloudily
+- xem cloudy

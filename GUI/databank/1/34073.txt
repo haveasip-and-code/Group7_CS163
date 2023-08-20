@@ -1,3 +1,11 @@
-mechanic
-	@mechanic /mi'kænik/\n*  danh từ\n- thợ máy, công nhân cơ khí\n@Chuyên ngành kỹ thuật\n-cơ học\n-thợ kim khí\n@Lĩnh vực: cơ khí & công trình\n-cơ khí\n-thợ cơ khí\n@Lĩnh vực: xây dựng\n-thợ chữa máy
-
+mechanic	@mechanic /mi'kænik/
+*  danh từ
+- thợ máy, công nhân cơ khí
+@Chuyên ngành kỹ thuật
+-cơ học
+-thợ kim khí
+@Lĩnh vực: cơ khí & công trình
+-cơ khí
+-thợ cơ khí
+@Lĩnh vực: xây dựng
+-thợ chữa máy

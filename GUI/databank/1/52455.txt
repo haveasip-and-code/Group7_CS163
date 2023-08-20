@@ -1,3 +1,29 @@
-spire
-	@spire /'spaiə/\n*  danh từ\n- đường xoắn ốc\n- vòng xoắn; khúc cuộn (con rắn)\n- chóp hình nón, chóp nhọn (tháp...); tháp hình chóp\n- vật hình chóp nón thuôn\n- (thực vật học) ngọn thân (kể từ chỗ bắt đầu có cành trở lên); cọng (cỏ)\n*  nội động từ\n- mọc thẳng lên, đâm vút lên\n*  ngoại động từ\n- xây tháp hình chóp cho\n@Chuyên ngành kỹ thuật\n-cầu thang xoắn\n-cuộn dây\n-đỉnh nhọn\n-đường xoắn ốc\n-mũi nhọn\n-ống ruột gà\n-vòng ren\n@Lĩnh vực: toán & tin\n-chóp hình nón\n@Lĩnh vực: xây dựng\n-đỉnh (nhọn)\n-mái vút\n-mũi (nhọn)\n-tháp hình chóp\n-tời (kiểu đứng)\n@Lĩnh vực: hóa học & vật liệu\n-tháp hình nón
-
+spire	@spire /'spaiə/
+*  danh từ
+- đường xoắn ốc
+- vòng xoắn; khúc cuộn (con rắn)
+- chóp hình nón, chóp nhọn (tháp...); tháp hình chóp
+- vật hình chóp nón thuôn
+- (thực vật học) ngọn thân (kể từ chỗ bắt đầu có cành trở lên); cọng (cỏ)
+*  nội động từ
+- mọc thẳng lên, đâm vút lên
+*  ngoại động từ
+- xây tháp hình chóp cho
+@Chuyên ngành kỹ thuật
+-cầu thang xoắn
+-cuộn dây
+-đỉnh nhọn
+-đường xoắn ốc
+-mũi nhọn
+-ống ruột gà
+-vòng ren
+@Lĩnh vực: toán & tin
+-chóp hình nón
+@Lĩnh vực: xây dựng
+-đỉnh (nhọn)
+-mái vút
+-mũi (nhọn)
+-tháp hình chóp
+-tời (kiểu đứng)
+@Lĩnh vực: hóa học & vật liệu
+-tháp hình nón

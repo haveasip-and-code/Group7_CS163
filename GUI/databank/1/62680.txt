@@ -1,3 +1,11 @@
-weldable
-	@weldable /'weld bl/\n*  tính từ\n- có thể hàn được\n@Chuyên ngành kỹ thuật\n-dễ hàn\n@Lĩnh vực: hóa học & vật liệu\n-có thể hàn được\n@Lĩnh vực: xây dựng\n-hàn được\n@Lĩnh vực: toán & tin\n-không hàn được
-
+weldable	@weldable /'weld bl/
+*  tính từ
+- có thể hàn được
+@Chuyên ngành kỹ thuật
+-dễ hàn
+@Lĩnh vực: hóa học & vật liệu
+-có thể hàn được
+@Lĩnh vực: xây dựng
+-hàn được
+@Lĩnh vực: toán & tin
+-không hàn được

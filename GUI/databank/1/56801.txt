@@ -1,3 +1,13 @@
-tissue
-	@tissue /'tisju:/\n*  danh từ\n- vải mỏng\n- mớ, tràng, dây (chuyện nói láo, chuyện vô lý...)\n- giấy lụa ((cũng) tissue-paper)\n- (sinh vật học) mô\n=nervous tissue+ mô thần kinh\n@Chuyên ngành kinh tế\n-mô\n@Chuyên ngành kỹ thuật\n-giấy lụa\n-giấy mỏng\n-mô
-
+tissue	@tissue /'tisju:/
+*  danh từ
+- vải mỏng
+- mớ, tràng, dây (chuyện nói láo, chuyện vô lý...)
+- giấy lụa ((cũng) tissue-paper)
+- (sinh vật học) mô
+=nervous tissue+ mô thần kinh
+@Chuyên ngành kinh tế
+-mô
+@Chuyên ngành kỹ thuật
+-giấy lụa
+-giấy mỏng
+-mô

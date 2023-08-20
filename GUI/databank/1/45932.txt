@@ -1,3 +1,21 @@
-recipient
-	@recipient /ri'sipiənt/\n*  tính từ\n- (như) receptive\n*  danh từ\n- người nhận (tiền, quà biếu...); nước nhận (viện trợ...)\n@Chuyên ngành kinh tế\n-bể chứa\n-chứa\n-người hưởng\n-người hưởng (một chi phiếu, một phiếu khoán)\n-người hưởng trợ cấp\n-người nhận\n-người nhận (một bức thư)\n-người thụ tặng\n-người thụ tặng (một di sản)\n-túi chứa\n@Chuyên ngành kỹ thuật\n-người nhận\n-người nhận, nơi nhận\n-người tiếp nhận\n-nơi nhận
-
+recipient	@recipient /ri'sipiənt/
+*  tính từ
+- (như) receptive
+*  danh từ
+- người nhận (tiền, quà biếu...); nước nhận (viện trợ...)
+@Chuyên ngành kinh tế
+-bể chứa
+-chứa
+-người hưởng
+-người hưởng (một chi phiếu, một phiếu khoán)
+-người hưởng trợ cấp
+-người nhận
+-người nhận (một bức thư)
+-người thụ tặng
+-người thụ tặng (một di sản)
+-túi chứa
+@Chuyên ngành kỹ thuật
+-người nhận
+-người nhận, nơi nhận
+-người tiếp nhận
+-nơi nhận

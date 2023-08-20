@@ -1,3 +1,13 @@
-initialize
-	@initialize\n- khởi chạy, chuẩn bị làm việc\n@Chuyên ngành kỹ thuật\n-khởi đầu\n-khởi động\n-khởi tạo\n@Lĩnh vực: toán & tin\n-chuẩn bị làm việc\n-khởi chạy\n-thiết lập ban đầu\n@Lĩnh vực: xây dựng\n-khởi xướng hóa
-
+initialize	
+@initialize
+- khởi chạy, chuẩn bị làm việc
+@Chuyên ngành kỹ thuật
+-khởi đầu
+-khởi động
+-khởi tạo
+@Lĩnh vực: toán & tin
+-chuẩn bị làm việc
+-khởi chạy
+-thiết lập ban đầu
+@Lĩnh vực: xây dựng
+-khởi xướng hóa

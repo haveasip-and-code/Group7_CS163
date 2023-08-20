@@ -1,3 +1,2 @@
-stars
-	@Chuyên ngành kinh tế\n-mì hoa
-
+stars	@Chuyên ngành kinh tế
+-mì hoa

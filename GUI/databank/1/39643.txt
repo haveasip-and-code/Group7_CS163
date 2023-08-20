@@ -1,3 +1,5 @@
-paraplegic
-	@paraplegic\n- xem paraplegia\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-liệt hai chi dưới
-
+paraplegic	@paraplegic
+- xem paraplegia
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-liệt hai chi dưới

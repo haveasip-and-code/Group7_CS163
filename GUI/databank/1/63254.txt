@@ -1,3 +1,14 @@
-worker
-	@worker /'wə:kə/\n*  danh từ\n- người lao động, người làm việc\n- thợ, công nhân\n- (số nhiều) giai cấp công nhân, nhân dân lao động\n- (động vật học) ong thợ\n@Chuyên ngành kinh tế\n-công nhân\n-công nhân, người lao động, nhân viên\n-người làm việc\n-người lao động\n-nhân viên\n@Chuyên ngành kỹ thuật\n-thợ
-
+worker	@worker /'wə:kə/
+*  danh từ
+- người lao động, người làm việc
+- thợ, công nhân
+- (số nhiều) giai cấp công nhân, nhân dân lao động
+- (động vật học) ong thợ
+@Chuyên ngành kinh tế
+-công nhân
+-công nhân, người lao động, nhân viên
+-người làm việc
+-người lao động
+-nhân viên
+@Chuyên ngành kỹ thuật
+-thợ

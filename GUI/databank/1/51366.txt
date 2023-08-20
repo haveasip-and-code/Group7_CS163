@@ -1,3 +1,13 @@
-smelt
-	@smelt /smelt/\n*  thời quá khứ & động tính từ quá khứ của smell\n*  ngoại động từ\n- luyện nấu chảy (lấy kim loại từ quặng bằng cách nấu chảy)\n*  danh từ\n- (động vật học) cá ôtme\n@Chuyên ngành kinh tế\n-cá đặc trắng\n-cá mướp\n@Chuyên ngành kỹ thuật\n-nấu chảy\n-nóng chảy\n-sự nấu chảy
-
+smelt	@smelt /smelt/
+*  thời quá khứ & động tính từ quá khứ của smell
+*  ngoại động từ
+- luyện nấu chảy (lấy kim loại từ quặng bằng cách nấu chảy)
+*  danh từ
+- (động vật học) cá ôtme
+@Chuyên ngành kinh tế
+-cá đặc trắng
+-cá mướp
+@Chuyên ngành kỹ thuật
+-nấu chảy
+-nóng chảy
+-sự nấu chảy

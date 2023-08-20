@@ -1,3 +1,23 @@
-stamping
-	@Chuyên ngành kinh tế\n-dán tem\n-sự dán tem\n-sự đóng dấu (văn kiện, hàng hóa)\n@Chuyên ngành kỹ thuật\n-la tôn dập\n-sự chọc thủng\n-sự đóng dấu\n-sự in dập\n-sự ráp khuôn\n-sự rèn bằng búa\n-sự ren khuôn\n-sự rèn khuôn\n-vật đúc\n@Lĩnh vực: hóa học & vật liệu\n-lá tôn dập\n@Lĩnh vực: điện tử & viễn thông\n-lá tôn mạch từ\n@Lĩnh vực: cơ khí & công trình\n-sản phẩm dập\n-sự dập khuôn\n@Lĩnh vực: điện\n-tấm dập
-
+stamping	@Chuyên ngành kinh tế
+-dán tem
+-sự dán tem
+-sự đóng dấu (văn kiện, hàng hóa)
+@Chuyên ngành kỹ thuật
+-la tôn dập
+-sự chọc thủng
+-sự đóng dấu
+-sự in dập
+-sự ráp khuôn
+-sự rèn bằng búa
+-sự ren khuôn
+-sự rèn khuôn
+-vật đúc
+@Lĩnh vực: hóa học & vật liệu
+-lá tôn dập
+@Lĩnh vực: điện tử & viễn thông
+-lá tôn mạch từ
+@Lĩnh vực: cơ khí & công trình
+-sản phẩm dập
+-sự dập khuôn
+@Lĩnh vực: điện
+-tấm dập

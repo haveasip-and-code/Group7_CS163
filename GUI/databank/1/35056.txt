@@ -1,3 +1,2 @@
-misbehavior
-	@misbehavior\n- như misbehaviour
-
+misbehavior	@misbehavior
+- như misbehaviour

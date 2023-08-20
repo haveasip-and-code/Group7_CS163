@@ -1,3 +1,2 @@
-penlight
-	@penlight\n- Cách viết khác : penlite
-
+penlight	@penlight
+- Cách viết khác : penlite

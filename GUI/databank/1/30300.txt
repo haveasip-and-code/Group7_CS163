@@ -1,3 +1,46 @@
-jar
-	@jar /dʤɑ:/\n*  danh từ\n- vại, lọ, bình\n- (điện học) chai\n= Leyden jar+ chai lêdden\n- ((thông tục)) on the jar; on a jar; on jar hé mở (cửa)\n- tiếng động chói tai; tiếng ken két làm gai người\n- sự rung chuyển mạnh, sự chao đảo mạnh (làm chói tai)\n- sự choáng người, sự choáng óc; sự gai người; sự bực bội, sự khó chịu (thần kinh, cân não...)\n=the news gave me a nasty jar+ tin đó làm tôi bực bội khó chịu\n- sự va chạm (quyền lợi...), sự bất đồng, sự không hoà hợp (ý kiến...)\n- sự bất hoà, sự cãi nhau\n- (kỹ thuật) sự rung, sự chấn động\n*  nội động từ\n- phát ra tiếng động chói tai; kêu ken két làm gai người\n- (+ upon) gây cảm giác khó chịu, gây bực bội\n=to jar upon ear+ gây chói tai\n=to jar uopn nerves+ gây bực bội thất kinh\n- (+ upon,  against) cọ ken két, nghiến ken két\n- ((thường) + with) va chạm, xung đột, bất đồng, mâu thuẫn, không hoà hợp (quyền lợi, ý kiến...)\n- cãi nhau\n- (kỹ thuật) rung, chấn động\n*  ngoại động từ\n- làm rung động mạnh, làm chấn động mạnh\n- làm kêu chói tai, làm kêu ken két gai người\n- làm choáng (óc), làm gai (người...), làm chói (tai...), làm bực bội, làm khó chịu (thần kinh, cân não...)\n@Chuyên ngành kinh tế\n-bình\n-ca\n-chum\n-lọ\n-vại\n@Chuyên ngành kỹ thuật\n-bình\n-dằn\n-khoan rung\n-lọ (chai)\n-rung\n-sự chấn động\n-sự va đập\n-thùng chứa\n-vại
-
+jar	
+@jar /dʤɑ:/
+*  danh từ
+- vại, lọ, bình
+- (điện học) chai= Leyden jar
++ chai lêdden
+- ((thông tục)) on the jar; on a jar; on jar hé mở (cửa)
+- tiếng động chói tai; tiếng ken két làm gai người
+- sự rung chuyển mạnh, sự chao đảo mạnh (làm chói tai)
+- sự choáng người, sự choáng óc; sự gai người; sự bực bội, sự khó chịu (thần kinh, cân não...)=the news gave me a nasty jar
++ tin đó làm tôi bực bội khó chịu
+- sự va chạm (quyền lợi...), sự bất đồng, sự không hoà hợp (ý kiến...)
+- sự bất hoà, sự cãi nhau
+- (kỹ thuật) sự rung, sự chấn động
+*  nội động từ
+- phát ra tiếng động chói tai; kêu ken két làm gai người
+- (
++ upon) gây cảm giác khó chịu, gây bực bội=to jar upon ear
++ gây chói tai=to jar uopn nerves
++ gây bực bội thất kinh
+- (
++ upon,  against) cọ ken két, nghiến ken két
+- ((thường) 
++ with) va chạm, xung đột, bất đồng, mâu thuẫn, không hoà hợp (quyền lợi, ý kiến...)
+- cãi nhau
+- (kỹ thuật) rung, chấn động
+*  ngoại động từ
+- làm rung động mạnh, làm chấn động mạnh
+- làm kêu chói tai, làm kêu ken két gai người
+- làm choáng (óc), làm gai (người...), làm chói (tai...), làm bực bội, làm khó chịu (thần kinh, cân não...)
+@Chuyên ngành kinh tế
+-bình
+-ca
+-chum
+-lọ
+-vại
+@Chuyên ngành kỹ thuật
+-bình
+-dằn
+-khoan rung
+-lọ (chai)
+-rung
+-sự chấn động
+-sự va đập
+-thùng chứa
+-vại

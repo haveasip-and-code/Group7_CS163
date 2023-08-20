@@ -1,3 +1,2 @@
-opsonize
-	@opsonize\n- Cách viết khác : opsonise
-
+opsonize	@opsonize
+- Cách viết khác : opsonise

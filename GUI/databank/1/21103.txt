@@ -1,3 +1,22 @@
-fining
-	@Chuyên ngành kinh tế\n-làm sạch\n-làm trong\n-sự làm sạch\n-sự làm trong\n-sự tinh chế\n-tinh chế\n@Chuyên ngành kỹ thuật\n-lắng trong\n-sự làm mịn\n-sự làm sạch\n-sự làm trong\n-sự tinh chế\n-tinh chế\n@Chuyên ngành kỹ thuật\n-lắng trong\n-sự làm mịn\n-sự làm sạch\n-sự làm trong\n-sự tinh chế\n-tinh chế
-
+fining	
+@Chuyên ngành kinh tế
+-làm sạch
+-làm trong
+-sự làm sạch
+-sự làm trong
+-sự tinh chế
+-tinh chế
+@Chuyên ngành kỹ thuật
+-lắng trong
+-sự làm mịn
+-sự làm sạch
+-sự làm trong
+-sự tinh chế
+-tinh chế
+@Chuyên ngành kỹ thuật
+-lắng trong
+-sự làm mịn
+-sự làm sạch
+-sự làm trong
+-sự tinh chế
+-tinh chế

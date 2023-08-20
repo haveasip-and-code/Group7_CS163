@@ -1,3 +1,7 @@
-kana
-	@kana\n* danh từ\n- chữ Kana (Nhật)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chữ kana
-
+kana	
+@kana
+* danh từ
+- chữ Kana (Nhật)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chữ kana

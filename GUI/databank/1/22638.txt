@@ -1,3 +1,5 @@
-furies
-	@furies\n* danh từ số nhiều\n- các nữ thần trả thù (thần thoại Hy-lạp)
-
+furies	
+@furies
+* danh từ số nhiều
+- các nữ thần trả thù (thần thoại Hy
+-lạp)

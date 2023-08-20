@@ -1,3 +1,18 @@
-deputy
-	@deputy /'depjuti/\n*  danh từ\n- người được uỷ quyền, người thay quyền; người thay mặt, đại biểu, đại diện\n=by deputy+ thay quyền, được uỷ quyền\n- (trong danh từ ghép) phó\n=deputy chairman+ phó chủ tịch\n- nghị sĩ\n=Chamber of Deputies+ hạ nghị viện (ở Pháp)\n- người quản lý nhà trọ (cho người nghèo ở các nước tư bản)\n@Chuyên ngành kinh tế\n-đại biểu\n-đại diện\n-nghị sĩ\n-người được ủy quyền\n-người quản lý nhà trọ\n-người thay mặt\n-phó
-
+deputy	
+@deputy /'depjuti/
+*  danh từ
+- người được uỷ quyền, người thay quyền; người thay mặt, đại biểu, đại diện=by deputy
++ thay quyền, được uỷ quyền
+- (trong danh từ ghép) phó=deputy chairman
++ phó chủ tịch
+- nghị sĩ=Chamber of Deputies
++ hạ nghị viện (ở Pháp)
+- người quản lý nhà trọ (cho người nghèo ở các nước tư bản)
+@Chuyên ngành kinh tế
+-đại biểu
+-đại diện
+-nghị sĩ
+-người được ủy quyền
+-người quản lý nhà trọ
+-người thay mặt
+-phó

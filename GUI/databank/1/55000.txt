@@ -1,3 +1,35 @@
-sweating
-	@sweating\n* danh từ\n- sự đổ mồ hôi\n- sự hàn thiếc\n- sự hấp hơi (làm mềm da)\n@Chuyên ngành kinh tế\n-làm mòn\n-sản phẩm phụ lỏng lên men\n-sự cân bằng ẩm (làm đều ẩm trong quả khô)\n-sự đổ mồ hôi\n-sự làm ẩm\n-sự lên men thuốc lá\n-sự thoát mồ hôi\n@Chuyên ngành kỹ thuật\n-đổ mồ hôi\n-đọng nước\n-ngưng tụ\n-ra mồ hôi\n-sự hàn chắc\n-sự ngưng tụ\n-sự nung\n-sự tách lỏng\n-sự tụ hơi ẩm\n@Lĩnh vực: hóa học & vật liệu\n-hoạt động tách\n-sự hàn thiếc\n-sự thoát mồ hôi\n@Lĩnh vực: điện lạnh\n-sự đổ mồ hôi\n@Lĩnh vực: điện\n-sự đọng hơi ẩm\n@Lĩnh vực: cơ khí & công trình\n-sự miết phẳng (mối hàn)\n@Lĩnh vực: xây dựng\n-sự thoát hơi nước
-
+sweating	@sweating
+* danh từ
+- sự đổ mồ hôi
+- sự hàn thiếc
+- sự hấp hơi (làm mềm da)
+@Chuyên ngành kinh tế
+-làm mòn
+-sản phẩm phụ lỏng lên men
+-sự cân bằng ẩm (làm đều ẩm trong quả khô)
+-sự đổ mồ hôi
+-sự làm ẩm
+-sự lên men thuốc lá
+-sự thoát mồ hôi
+@Chuyên ngành kỹ thuật
+-đổ mồ hôi
+-đọng nước
+-ngưng tụ
+-ra mồ hôi
+-sự hàn chắc
+-sự ngưng tụ
+-sự nung
+-sự tách lỏng
+-sự tụ hơi ẩm
+@Lĩnh vực: hóa học & vật liệu
+-hoạt động tách
+-sự hàn thiếc
+-sự thoát mồ hôi
+@Lĩnh vực: điện lạnh
+-sự đổ mồ hôi
+@Lĩnh vực: điện
+-sự đọng hơi ẩm
+@Lĩnh vực: cơ khí & công trình
+-sự miết phẳng (mối hàn)
+@Lĩnh vực: xây dựng
+-sự thoát hơi nước

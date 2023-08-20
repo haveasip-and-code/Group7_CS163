@@ -1,3 +1,10 @@
-ketene
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cacbon mêtan\n-CH2=C=O\n-etenon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cacbon mêtan\n-CH2=C=O\n-etenon
-
+ketene	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-cacbon mêtan
+-CH2=C=O
+-etenon
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-cacbon mêtan
+-CH2=C=O
+-etenon

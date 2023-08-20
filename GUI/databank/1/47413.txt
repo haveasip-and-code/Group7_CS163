@@ -1,3 +1,20 @@
-returns
-	@Chuyên ngành kinh tế\n-các điểm lợi\n-hàng bán trả lại\n-hàng bị trả lại\n-hàng ế\n-hàng không bán được\n-hàng tồn đọng\n-hàng trả lại\n-lợi nhuận\n-phí bớt lại\n-phí trả bớt lại\n-sách báo đọng lại\n-sách báo ế\n-sự thống kê (dân số...)\n-tiền thu vô\n-tiền trả bớt lại (trên số tiền đã trả dư)\n@Chuyên ngành kỹ thuật\n-tiền lãi\n@Lĩnh vực: cơ khí & công trình\n-tiền thu nhập
-
+returns	@Chuyên ngành kinh tế
+-các điểm lợi
+-hàng bán trả lại
+-hàng bị trả lại
+-hàng ế
+-hàng không bán được
+-hàng tồn đọng
+-hàng trả lại
+-lợi nhuận
+-phí bớt lại
+-phí trả bớt lại
+-sách báo đọng lại
+-sách báo ế
+-sự thống kê (dân số...)
+-tiền thu vô
+-tiền trả bớt lại (trên số tiền đã trả dư)
+@Chuyên ngành kỹ thuật
+-tiền lãi
+@Lĩnh vực: cơ khí & công trình
+-tiền thu nhập

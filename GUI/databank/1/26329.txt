@@ -1,3 +1,11 @@
-hovercraft
-	@hovercraft\n* danh từ\n- tàu di chuyển nhờ đệm không khí\n@Chuyên ngành kinh tế\n-tàu đệm hơi\n@Chuyên ngành kỹ thuật\n-canô đệm hơi\n-canô đệm khí\n@Lĩnh vực: giao thông & vận tải\n-tàu đệm khí
-
+hovercraft	
+@hovercraft
+* danh từ
+- tàu di chuyển nhờ đệm không khí
+@Chuyên ngành kinh tế
+-tàu đệm hơi
+@Chuyên ngành kỹ thuật
+-canô đệm hơi
+-canô đệm khí
+@Lĩnh vực: giao thông & vận tải
+-tàu đệm khí

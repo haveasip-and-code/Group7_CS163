@@ -1,3 +1,41 @@
-belt
-	@belt /belt/\n*  danh từ\n- dây lưng, thắt lưng\n- dây đai (đeo gươm...)\n- dây curoa\n- vành đai\n!to hit below the belt\n- (xem) hit\n!to tighten one's belt\n- (xem) tighten\n*  ngoại động từ\n- đeo thắt lưng; buộc chặt bằng dây lưng\n- quật bằng dây lưng\n- đeo vào dây đai (gươm...)\n- đánh dấu (cừu...) bằng đai màu\n@Chuyên ngành kỹ thuật\n-băng\n-băng (đúc)\n-băng chuyền\n-băng tải\n-dải\n-đai\n-đai truyền\n-đai truyền động\n-dây curoa\n-dây đai an toàn\n-đới\n-truyền động bằng đai\n-vành đai\n-vùng\n@Lĩnh vực: cơ khí & công trình\n-buộc bằng đai\n-dây đai truyền lực\n@Lĩnh vực: xây dựng\n-cánh (giàn)\n-cuaroa\n@Lĩnh vực: điện lạnh\n-đai (truyền)\n@Lĩnh vực: ô tô\n-dây đai (truyền động)\n-lớp bố vỏ xe
-
+belt	@belt /belt/
+*  danh từ
+- dây lưng, thắt lưng
+- dây đai (đeo gươm...)
+- dây curoa
+- vành đai
+!to hit below the belt
+- (xem) hit
+!to tighten one's belt
+- (xem) tighten
+*  ngoại động từ
+- đeo thắt lưng; buộc chặt bằng dây lưng
+- quật bằng dây lưng
+- đeo vào dây đai (gươm...)
+- đánh dấu (cừu...) bằng đai màu
+@Chuyên ngành kỹ thuật
+-băng
+-băng (đúc)
+-băng chuyền
+-băng tải
+-dải
+-đai
+-đai truyền
+-đai truyền động
+-dây curoa
+-dây đai an toàn
+-đới
+-truyền động bằng đai
+-vành đai
+-vùng
+@Lĩnh vực: cơ khí & công trình
+-buộc bằng đai
+-dây đai truyền lực
+@Lĩnh vực: xây dựng
+-cánh (giàn)
+-cuaroa
+@Lĩnh vực: điện lạnh
+-đai (truyền)
+@Lĩnh vực: ô tô
+-dây đai (truyền động)
+-lớp bố vỏ xe

@@ -1,3 +1,27 @@
-node
-	@node /noud/\n*  danh từ\n- (thực vật học) mấu, đốt, mắt\n- (y học) cục u, bướu cứng\n- (toán học); (vật lý) giao điểm; nút\n@Chuyên ngành kỹ thuật\n-điểm nối\n-điểm nút\n-điểm phân nhánh\n-đốt\n-nút\n-nút điện áp\n-nút giàn\n-nút khung\n-nút mạng\n-mắt\n-mấu\n-mối nối\n-tiếp điểm\n@Lĩnh vực: toán & tin\n-điểm tự cắt\n-node\n-nút, mắt\n@Lĩnh vực: y học\n-nút, một chỗ phồng nhỏ hay một nốt ở mô\n@Lĩnh vực: xây dựng\n-sự buộc nút
-
+node	@node /noud/
+*  danh từ
+- (thực vật học) mấu, đốt, mắt
+- (y học) cục u, bướu cứng
+- (toán học); (vật lý) giao điểm; nút
+@Chuyên ngành kỹ thuật
+-điểm nối
+-điểm nút
+-điểm phân nhánh
+-đốt
+-nút
+-nút điện áp
+-nút giàn
+-nút khung
+-nút mạng
+-mắt
+-mấu
+-mối nối
+-tiếp điểm
+@Lĩnh vực: toán & tin
+-điểm tự cắt
+-node
+-nút, mắt
+@Lĩnh vực: y học
+-nút, một chỗ phồng nhỏ hay một nốt ở mô
+@Lĩnh vực: xây dựng
+-sự buộc nút

@@ -1,3 +1,3 @@
-provenance
-	@provenance /provenance/\n*  danh từ\n- nguồn gốc, lai lịch, nơi phát hành
-
+provenance	@provenance /provenance/
+*  danh từ
+- nguồn gốc, lai lịch, nơi phát hành

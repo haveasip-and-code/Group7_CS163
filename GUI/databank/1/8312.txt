@@ -1,3 +1,21 @@
-cathead
-	@cathead\n* danh từ\n- bộ phận đầu mũi thuyền để buộc dây neo\n- tời neo\n- xà mũi tàu\n@Chuyên ngành kỹ thuật\n-ống hẹp\n-trục phụ\n@Lĩnh vực: xây dựng\n-búa đầu rộng\n-độc cao mối hàn\n-góc hàn\n-rầm nhô ra\n-tay cầu cẩu\n@Lĩnh vực: cơ khí & công trình\n-đầu (cắt) ren\n-tời neo\n@Lĩnh vực: hóa học & vật liệu\n-tời trục đứng\n-trục tời
-
+cathead	
+@cathead
+* danh từ
+- bộ phận đầu mũi thuyền để buộc dây neo
+- tời neo
+- xà mũi tàu
+@Chuyên ngành kỹ thuật
+-ống hẹp
+-trục phụ
+@Lĩnh vực: xây dựng
+-búa đầu rộng
+-độc cao mối hàn
+-góc hàn
+-rầm nhô ra
+-tay cầu cẩu
+@Lĩnh vực: cơ khí & công trình
+-đầu (cắt) ren
+-tời neo
+@Lĩnh vực: hóa học & vật liệu
+-tời trục đứng
+-trục tời

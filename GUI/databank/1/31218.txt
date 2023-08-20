@@ -1,3 +1,6 @@
-labeler
-	@Chuyên ngành kỹ thuật\n-người dãn nhãn\n-máy dán nhãn\n@Chuyên ngành kỹ thuật\n-người dãn nhãn\n-máy dán nhãn
-
+labeler	@Chuyên ngành kỹ thuật
+-người dãn nhãn
+-máy dán nhãn
+@Chuyên ngành kỹ thuật
+-người dãn nhãn
+-máy dán nhãn

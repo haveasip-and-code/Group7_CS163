@@ -1,3 +1,4 @@
-millimeter
-	@Chuyên ngành kỹ thuật\n-milimet\n@Lĩnh vực: điện lạnh\n-mm
-
+millimeter	@Chuyên ngành kỹ thuật
+-milimet
+@Lĩnh vực: điện lạnh
+-mm

@@ -1,3 +1,23 @@
-distributor
-	@distributor /dis'tribjutə/\n*  danh từ\n- người phân phối, người phân phát\n- (kỹ thuật) bộ phân phối\n@Chuyên ngành kinh tế\n-người được quyền khai thác\n-người nhận ký gửi\n-người phân phối\n-nhà kinh tiêu\n-nhà phân phối\n@Chuyên ngành kỹ thuật\n-bộ phân phối\n-cống chia nước\n-ống phân phối\n-phân phối\n@Lĩnh vực: điện lạnh\n-bộ chia điện\n-hộp chia điện\n@Lĩnh vực: toán & tin\n-bộ phân bố\n@Lĩnh vực: ô tô\n-bộ phân chia
-
+distributor	
+@distributor /dis'tribjutə/
+*  danh từ
+- người phân phối, người phân phát
+- (kỹ thuật) bộ phân phối
+@Chuyên ngành kinh tế
+-người được quyền khai thác
+-người nhận ký gửi
+-người phân phối
+-nhà kinh tiêu
+-nhà phân phối
+@Chuyên ngành kỹ thuật
+-bộ phân phối
+-cống chia nước
+-ống phân phối
+-phân phối
+@Lĩnh vực: điện lạnh
+-bộ chia điện
+-hộp chia điện
+@Lĩnh vực: toán & tin
+-bộ phân bố
+@Lĩnh vực: ô tô
+-bộ phân chia

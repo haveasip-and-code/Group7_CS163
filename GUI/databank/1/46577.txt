@@ -1,3 +1,4 @@
-relaunch
-	@Chuyên ngành kinh tế\n-giới thiệu lại\n-giới thiệu lại (sản phẩm trên thị trường)\n-tung ra lại
-
+relaunch	@Chuyên ngành kinh tế
+-giới thiệu lại
+-giới thiệu lại (sản phẩm trên thị trường)
+-tung ra lại

@@ -1,3 +1,2 @@
-testability
-	@Chuyên ngành kỹ thuật\n-khả năng kiểm tra
-
+testability	@Chuyên ngành kỹ thuật
+-khả năng kiểm tra

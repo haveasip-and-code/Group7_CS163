@@ -1,3 +1,60 @@
-bow
-	@bow /bou/\n*  danh từ\n- cái cung\n=ro draw (bend) the bow+ giương cung\n- vĩ (viôlông)\n- cầu vồng\n- cái nơ con bướm\n- cốt yên ngựa ((cũng) saddke)\n- (điện học) cần lấy điện (xe điện...)\n- (kiến trúc) vòm\n!to draw the long bow\n- (nghĩa bóng) nói ngoa; cường điệu, nói phóng đại\n!to have two strings to one's bow\n- có phương sách dự phòng\n*  ngoại động từ\n- (âm nhạc) kéo vĩ (viôlông)\n*  danh từ\n- sự chào, sự cúi chào, sự cúi đầu\n=to make one's bow+ cúi đầu chào\n=to return a bow+ chào lại\n*  động từ\n- cúi (đầu, mình); khòm, khom (lưng); quỳ (gối)\n- cúi đầu, cúi chào, cúi mình, khòm lưng quỳ gối\n=to bow under the weight of years+ còng lưng vì tuổi già\n- nhượng bộ, đầu hàng, chịu khuất phục, luồn cúi\n=to bow to the inevitable+ chịu khuất phục trước điều không thể tránh khỏi\n=never to bow to the enemy+ không bao giờ đầu hàng kẻ thù\n!to bow down\n- cúi đầu, cúi mình, cong xuống\n=to be bowed down by care+ còng lưng đi vì lo nghĩ\n- uốn cong, bẻ cong; bẻ gãy\n!to bow in\n- gật đầu bảo ra; chào mời ai\n!to bow oneself out\n- chào để đi ra\n!bowing acquaintance\n- (xem) accquaintance\n*  danh từ\n- mũi tàu\n- người chèo mũi\n@Chuyên ngành kinh tế\n-mũi tàu\n@Chuyên ngành kỹ thuật\n-cốt đai\n-độ cong\n-độ uốn\n-độ vòng\n-giá cung\n-giá hình cung\n-má kẹp\n-mũi tàu\n-mũi thuyền\n-phần nhô ra\n-sự vênh\n-tàu\n-uốn cong\n-vòm\n-vòng kẹp\n-vòng ôm\n@Lĩnh vực: xây dựng\n-cung\n-cuốn vòm\n@Lĩnh vực: cơ khí & công trình\n-đầu thuyền\n-vòng kẹp đai
-
+bow	
+@bow /bou/
+*  danh từ
+- cái cung=ro draw (bend) the bow
++ giương cung
+- vĩ (viôlông)
+- cầu vồng
+- cái nơ con bướm
+- cốt yên ngựa ((cũng) saddke)
+- (điện học) cần lấy điện (xe điện...)
+- (kiến trúc) vòm!to draw the long bow
+- (nghĩa bóng) nói ngoa; cường điệu, nói phóng đại!to have two strings to one's bow
+- có phương sách dự phòng
+*  ngoại động từ
+- (âm nhạc) kéo vĩ (viôlông)
+*  danh từ
+- sự chào, sự cúi chào, sự cúi đầu=to make one's bow
++ cúi đầu chào=to return a bow
++ chào lại
+*  động từ
+- cúi (đầu, mình); khòm, khom (lưng); quỳ (gối)
+- cúi đầu, cúi chào, cúi mình, khòm lưng quỳ gối=to bow under the weight of years
++ còng lưng vì tuổi già
+- nhượng bộ, đầu hàng, chịu khuất phục, luồn cúi=to bow to the inevitable
++ chịu khuất phục trước điều không thể tránh khỏi=never to bow to the enemy
++ không bao giờ đầu hàng kẻ thù!to bow down
+- cúi đầu, cúi mình, cong xuống=to be bowed down by care
++ còng lưng đi vì lo nghĩ
+- uốn cong, bẻ cong; bẻ gãy!to bow in
+- gật đầu bảo ra; chào mời ai!to bow oneself out
+- chào để đi ra!bowing acquaintance
+- (xem) accquaintance
+*  danh từ
+- mũi tàu
+- người chèo mũi
+@Chuyên ngành kinh tế
+-mũi tàu
+@Chuyên ngành kỹ thuật
+-cốt đai
+-độ cong
+-độ uốn
+-độ vòng
+-giá cung
+-giá hình cung
+-má kẹp
+-mũi tàu
+-mũi thuyền
+-phần nhô ra
+-sự vênh
+-tàu
+-uốn cong
+-vòm
+-vòng kẹp
+-vòng ôm
+@Lĩnh vực: xây dựng
+-cung
+-cuốn vòm
+@Lĩnh vực: cơ khí & công trình
+-đầu thuyền
+-vòng kẹp đai

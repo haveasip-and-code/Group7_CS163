@@ -1,3 +1,2 @@
-monish
-	@monish\n- xem admonish
-
+monish	@monish
+- xem admonish

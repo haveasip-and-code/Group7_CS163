@@ -1,3 +1,19 @@
-infrastructure
-	@infrastructure /'infrə,strʌktʃə/\n*  danh từ\n- cơ sở hạ tầng\n@Chuyên ngành kinh tế\n-cơ sở hạ tầng\n@Chuyên ngành kỹ thuật\n-cấu trúc hạ tầng\n-hạ tầng\n-nền móng\n@Lĩnh vực: xây dựng\n-hạ tầng cơ sở\n-kết cấu bên dưới\n-kết cấu hạ tầng\n-kết cấu móng\n@Lĩnh vực: hóa học & vật liệu\n-hạ tầng kinh tế\n@Lĩnh vực: cơ khí & công trình\n-thiết bị đỡ cố định
-
+infrastructure	
+@infrastructure /'infrə,strʌktʃə/
+*  danh từ
+- cơ sở hạ tầng
+@Chuyên ngành kinh tế
+-cơ sở hạ tầng
+@Chuyên ngành kỹ thuật
+-cấu trúc hạ tầng
+-hạ tầng
+-nền móng
+@Lĩnh vực: xây dựng
+-hạ tầng cơ sở
+-kết cấu bên dưới
+-kết cấu hạ tầng
+-kết cấu móng
+@Lĩnh vực: hóa học & vật liệu
+-hạ tầng kinh tế
+@Lĩnh vực: cơ khí & công trình
+-thiết bị đỡ cố định

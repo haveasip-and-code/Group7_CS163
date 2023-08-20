@@ -1,3 +1,36 @@
-glow
-	@glow /glou/\n*  danh từ\n- ánh sáng rực rỡ\n=the red glow of the setting sun+ ánh sáng đỏ rực của mặt trời lặn\n- sức nóng rực\n=summer's scorching glow+ cái nóng như thiểu như đốt của mùa hè\n- nét ửng đỏ (vì then, vì ngồi cạnh lửa...); nước da hồng hào, sắc đỏ hây hây (khoẻ mạnh)\n=to be in a glow; to be all of a glow+ đỏ bừng mặt, thẹn đỏ mặt\n- cảm giác âm ấm (khắp mình)\n=to be in a nice glow; to feet a nice glow+ cảm thấy trong người âm ấm dễ chịu (sau khi tập thể dục...)\n- (nghĩa bóng) sự hăng hái, sự sôi nổi nhiệt tình\n=the glow of youth+ nhiệt tình của tuổi trẻ\n- (vật lý) sự phát sáng; lớp sáng\n=positive glow+ lớp sáng anôt\n=the negative glow+ lớp sáng catôt\n*  nội động từ\n- rực sáng, bừng sáng\n- nóng rực\n- đỏ bừng (mặt vì thẹn), bừng bừng, nóng bừng, rực lên\n=face glowed with anger+ nét mặt bừng bừng giận dữ\n- rực rỡ (màu sắc)\n- cảm thấy âm ấm (trong mình)\n@Chuyên ngành kỹ thuật\n-lớp sáng\n-phát sáng\n-sáng\n-sự phát sáng\n@Lĩnh vực: hóa học & vật liệu\n-ánh (sáng rực)\n@Lĩnh vực: xây dựng\n-rực\n@Lĩnh vực: điện\n-sáng lên\n@Lĩnh vực: ô tô\n-xông
-
+glow	
+@glow /glou/
+*  danh từ
+- ánh sáng rực rỡ=the red glow of the setting sun
++ ánh sáng đỏ rực của mặt trời lặn
+- sức nóng rực=summer's scorching glow
++ cái nóng như thiểu như đốt của mùa hè
+- nét ửng đỏ (vì then, vì ngồi cạnh lửa...); nước da hồng hào, sắc đỏ hây hây (khoẻ mạnh)=to be in a glow; to be all of a glow
++ đỏ bừng mặt, thẹn đỏ mặt
+- cảm giác âm ấm (khắp mình)=to be in a nice glow; to feet a nice glow
++ cảm thấy trong người âm ấm dễ chịu (sau khi tập thể dục...)
+- (nghĩa bóng) sự hăng hái, sự sôi nổi nhiệt tình=the glow of youth
++ nhiệt tình của tuổi trẻ
+- (vật lý) sự phát sáng; lớp sáng=positive glow
++ lớp sáng anôt=the negative glow
++ lớp sáng catôt
+*  nội động từ
+- rực sáng, bừng sáng
+- nóng rực
+- đỏ bừng (mặt vì thẹn), bừng bừng, nóng bừng, rực lên=face glowed with anger
++ nét mặt bừng bừng giận dữ
+- rực rỡ (màu sắc)
+- cảm thấy âm ấm (trong mình)
+@Chuyên ngành kỹ thuật
+-lớp sáng
+-phát sáng
+-sáng
+-sự phát sáng
+@Lĩnh vực: hóa học & vật liệu
+-ánh (sáng rực)
+@Lĩnh vực: xây dựng
+-rực
+@Lĩnh vực: điện
+-sáng lên
+@Lĩnh vực: ô tô
+-xông

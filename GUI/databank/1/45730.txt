@@ -1,3 +1,15 @@
-react
-	@react /ri:'ækt/\n*  nội động từ\n- tác động trở lại, ảnh hưởng trở lại, phản ứng lại\n=tyranny reacts upon the tyrant himself+ sự bạo ngược tác hại trở lại ngay đối với kẻ bạo ngược\n- (vật lý); (hoá học) phản ứng\n- (+ against) chống lại, đối phó lại\n- (quân sự) phản công, đánh trả lại lại\n- (tài chính) sụt, hạ (giá cả)\n@Chuyên ngành kỹ thuật\n-phản ứng\n@Lĩnh vực: điện lạnh\n-phản ứng (với)\n-tương tác (với)\n@Lĩnh vực: toán & tin\n-tác động trở lại
-
+react	@react /ri:'ækt/
+*  nội động từ
+- tác động trở lại, ảnh hưởng trở lại, phản ứng lại
+=tyranny reacts upon the tyrant himself+ sự bạo ngược tác hại trở lại ngay đối với kẻ bạo ngược
+- (vật lý); (hoá học) phản ứng
+- (+ against) chống lại, đối phó lại
+- (quân sự) phản công, đánh trả lại lại
+- (tài chính) sụt, hạ (giá cả)
+@Chuyên ngành kỹ thuật
+-phản ứng
+@Lĩnh vực: điện lạnh
+-phản ứng (với)
+-tương tác (với)
+@Lĩnh vực: toán & tin
+-tác động trở lại

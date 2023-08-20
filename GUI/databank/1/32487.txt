@@ -1,3 +1,18 @@
-livery
-	@livery /'livəri/\n*  tính từ\n- có màu gan\n- mắc bệnh gan, đau gan\n- cáu kỉnh, dễ phật ý\n*  danh từ\n- chế phục (quần áo của người hầu các nhà quyền quý)\n=to be in livery+ mặc chế phục\n=to be out of livery+ không mặc chế phục\n=livery servant+ đầy tớ mặc chế phục\n- tư cách hội viên phường hội của Luân-ddôn\n=livery company+ phường hội của Luân-ddôn\n- tiền (để) mua cỏ cho ngựa\n- (pháp lý) sự cho chiếm hữu\n@Chuyên ngành kinh tế\n-phường hội của Luân Đôn\n-sự cho chiếm hữu\n-tư cách hội viên
-
+livery	@livery /'livəri/
+*  tính từ
+- có màu gan
+- mắc bệnh gan, đau gan
+- cáu kỉnh, dễ phật ý
+*  danh từ
+- chế phục (quần áo của người hầu các nhà quyền quý)
+=to be in livery+ mặc chế phục
+=to be out of livery+ không mặc chế phục
+=livery servant+ đầy tớ mặc chế phục
+- tư cách hội viên phường hội của Luân-ddôn
+=livery company+ phường hội của Luân-ddôn
+- tiền (để) mua cỏ cho ngựa
+- (pháp lý) sự cho chiếm hữu
+@Chuyên ngành kinh tế
+-phường hội của Luân Đôn
+-sự cho chiếm hữu
+-tư cách hội viên

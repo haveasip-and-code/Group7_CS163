@@ -1,3 +1,5 @@
-florae
-	@florae /florae/\n*  danh từ,  số nhiều floras,  florae\n- hệ thực vật (của một vùng)\n- danh sách thực vật, thực vật chí
-
+florae	
+@florae /florae/
+*  danh từ,  số nhiều floras,  florae
+- hệ thực vật (của một vùng)
+- danh sách thực vật, thực vật chí

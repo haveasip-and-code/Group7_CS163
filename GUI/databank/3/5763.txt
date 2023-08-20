@@ -1,3 +1,2 @@
-blackener
-	@blackener\n- xem blacken
-
+blackener	@blackener
+- xem blacken

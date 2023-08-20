@@ -1,3 +1,8 @@
-analytics
-	@analytics /,ænə'litiks/\n*  danh từ,  số nhiều dùng như số ít\n- môn phân tích\n- môn giải tích\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-giải tích học\n-phân tích học
-
+analytics	@analytics /,ænə'litiks/
+*  danh từ,  số nhiều dùng như số ít
+- môn phân tích
+- môn giải tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-giải tích học
+-phân tích học

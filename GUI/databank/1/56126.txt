@@ -1,3 +1,7 @@
-testate
-	@testate /'testit/\n*  tính từ\n- có làm di chúc, có làm chúc thư, có thể di chúc lại\n=to die testate+ chết có để di chúc lại\n@Chuyên ngành kinh tế\n-có để lại di chúc (hợp pháp)\n-để lại di chúc
-
+testate	@testate /'testit/
+*  tính từ
+- có làm di chúc, có làm chúc thư, có thể di chúc lại
+=to die testate+ chết có để di chúc lại
+@Chuyên ngành kinh tế
+-có để lại di chúc (hợp pháp)
+-để lại di chúc

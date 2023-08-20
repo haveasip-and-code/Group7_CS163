@@ -1,3 +1,11 @@
-requisitioning
-	@Chuyên ngành kinh tế\n-lệnh trưng dụng\n-trưng dụng\n-văn thư yêu cầu\n-vận thư yêu cầu\n-việc trưng dụng\n-việc trưng dụng (tài sản)\n-yêu cầu chính thức\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự trưng dụng
-
+requisitioning	@Chuyên ngành kinh tế
+-lệnh trưng dụng
+-trưng dụng
+-văn thư yêu cầu
+-vận thư yêu cầu
+-việc trưng dụng
+-việc trưng dụng (tài sản)
+-yêu cầu chính thức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự trưng dụng

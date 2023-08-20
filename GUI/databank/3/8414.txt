@@ -1,3 +1,37 @@
-cavity
-	@cavity /'kæviti/\n*  danh từ\n- lỗ hổng\n- (giải phẫu) hố hốc, ổ, khoang\n=nasal cavity+ ổ mũi\n@Chuyên ngành kinh tế\n-hốc\n-khoang\n-lỗ hổng\n@Chuyên ngành kỹ thuật\n-buồng cộng hưởng\n-chỗ trũng\n-độ rỗng\n-hang\n-hố\n-hốc\n-hốc (được) điều hưởng\n-hốc cộng hưởng\n-hốc vi ba\n-khe nứt\n-khoang\n-lỗ\n-lỗ hổng\n-lỗ hổng (vật đúc)\n-lỗ khe nứt\n-lỗ rỗng\n-ổ\n-phần tử cộng hưởng\n-rãnh\n-rỗ\n-túi\n@Lĩnh vực: toán & tin\n-cái hốc\n@Lĩnh vực: y học\n-khoang, ổ\n@Lĩnh vực: ô tô\n-rãnh gắn cầu chì
-
+cavity	@cavity /'kæviti/
+*  danh từ
+- lỗ hổng
+- (giải phẫu) hố hốc, ổ, khoang
+=nasal cavity+ ổ mũi
+@Chuyên ngành kinh tế
+-hốc
+-khoang
+-lỗ hổng
+@Chuyên ngành kỹ thuật
+-buồng cộng hưởng
+-chỗ trũng
+-độ rỗng
+-hang
+-hố
+-hốc
+-hốc (được) điều hưởng
+-hốc cộng hưởng
+-hốc vi ba
+-khe nứt
+-khoang
+-lỗ
+-lỗ hổng
+-lỗ hổng (vật đúc)
+-lỗ khe nứt
+-lỗ rỗng
+-ổ
+-phần tử cộng hưởng
+-rãnh
+-rỗ
+-túi
+@Lĩnh vực: toán & tin
+-cái hốc
+@Lĩnh vực: y học
+-khoang, ổ
+@Lĩnh vực: ô tô
+-rãnh gắn cầu chì

@@ -1,3 +1,5 @@
-surjection
-	@surjection\n- toàn ánh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-toàn ánh
-
+surjection	@surjection
+- toàn ánh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-toàn ánh

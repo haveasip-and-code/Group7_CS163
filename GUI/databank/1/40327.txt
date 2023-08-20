@@ -1,3 +1,2 @@
-pelter
-	@pelter\n- xem pelt
-
+pelter	@pelter
+- xem pelt

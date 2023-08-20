@@ -1,3 +1,28 @@
-map
-	@map /mæp/\n*  danh từ\n- bản đồ\n- (toán học) bản đồ; ảnh tượng\n- (từ lóng) mặt\n!off the map\n- (thông tục) không quan trọng\n- (thông tục) lỗi thời\n- (từ lóng) biến mất\n!in the map\n- (thông tục) quan trọng có tiếng\n- nóng hổi, có tính chất thời sự (vấn đề...)\n*  ngoại động từ\n- vẽ lên bản đồ\n- sắp xếp, sắp đặt, vạch ra\n=to map out one's time+ sắp xếp thời gian\n=to map out a strategy+ vạch ra một chiến lược\n@Chuyên ngành kỹ thuật\n-ánh xạ\n-bản đồ\n-bảng phân phối\n-kế hoạch\n-lập bản đồ\n-lập kế hoạch\n-phiếu\n-phương án\n@Lĩnh vực: toán & tin\n-ảnh (bộ nhớ)
-
+map	@map /mæp/
+*  danh từ
+- bản đồ
+- (toán học) bản đồ; ảnh tượng
+- (từ lóng) mặt
+!off the map
+- (thông tục) không quan trọng
+- (thông tục) lỗi thời
+- (từ lóng) biến mất
+!in the map
+- (thông tục) quan trọng có tiếng
+- nóng hổi, có tính chất thời sự (vấn đề...)
+*  ngoại động từ
+- vẽ lên bản đồ
+- sắp xếp, sắp đặt, vạch ra
+=to map out one's time+ sắp xếp thời gian
+=to map out a strategy+ vạch ra một chiến lược
+@Chuyên ngành kỹ thuật
+-ánh xạ
+-bản đồ
+-bảng phân phối
+-kế hoạch
+-lập bản đồ
+-lập kế hoạch
+-phiếu
+-phương án
+@Lĩnh vực: toán & tin
+-ảnh (bộ nhớ)

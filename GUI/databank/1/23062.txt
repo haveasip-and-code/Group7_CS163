@@ -1,3 +1,13 @@
-gauging
-	@Chuyên ngành kinh tế\n-sự đo dung tích\n@Chuyên ngành kỹ thuật\n-hiệu chuẩn\n-sự định cỡ\n-sự đo\n-sự hiệu chỉnh\n-sự kiểm tra\n-sự nắn đường\n-sự phối liệu\n@Lĩnh vực: hóa học & vật liệu\n-sự đo kiểm
-
+gauging	
+@Chuyên ngành kinh tế
+-sự đo dung tích
+@Chuyên ngành kỹ thuật
+-hiệu chuẩn
+-sự định cỡ
+-sự đo
+-sự hiệu chỉnh
+-sự kiểm tra
+-sự nắn đường
+-sự phối liệu
+@Lĩnh vực: hóa học & vật liệu
+-sự đo kiểm

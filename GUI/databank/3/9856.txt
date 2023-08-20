@@ -1,3 +1,19 @@
-closeness
-	@closeness /'klousnis/\n*  danh từ\n- sự gần gũi, sự thân mật\n- sự chật chội; sự bí hơi; sự ngột ngạt khó thở (không khí...)\n- tính dày chặt, tính khít, tính mau (vải...)\n- tính dè dặt, tính kín đáo\n- tính hà tiện, tính bủn xỉn, tính keo cú\n- tính chặt chẽ (lý luận)\n@Chuyên ngành kinh tế\n-tính dày đặc\n-tính khít\n@Chuyên ngành kỹ thuật\n-độ chặt\n-mật độ\n-tính chính xác\n@Lĩnh vực: toán & tin\n-sự gần\n@Lĩnh vực: xây dựng\n-sự gần gũi
-
+closeness	@closeness /'klousnis/
+*  danh từ
+- sự gần gũi, sự thân mật
+- sự chật chội; sự bí hơi; sự ngột ngạt khó thở (không khí...)
+- tính dày chặt, tính khít, tính mau (vải...)
+- tính dè dặt, tính kín đáo
+- tính hà tiện, tính bủn xỉn, tính keo cú
+- tính chặt chẽ (lý luận)
+@Chuyên ngành kinh tế
+-tính dày đặc
+-tính khít
+@Chuyên ngành kỹ thuật
+-độ chặt
+-mật độ
+-tính chính xác
+@Lĩnh vực: toán & tin
+-sự gần
+@Lĩnh vực: xây dựng
+-sự gần gũi

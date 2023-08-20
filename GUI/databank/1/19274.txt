@@ -1,3 +1,7 @@
-euclidean
-	@euclidean /'ju:klidiən/\n*  danh từ\n- (toán học) (thuộc) O-clit\n=euclidean algorithm+ thuật toán O-clit
-
+euclidean	
+@euclidean /'ju:klidiən/
+*  danh từ
+- (toán học) (thuộc) O
+-clit=euclidean algorithm
++ thuật toán O
+-clit

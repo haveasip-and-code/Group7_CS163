@@ -1,3 +1,8 @@
-subspace
-	@subspace\n- không gian con\n- complementary s. không gian con bù\n- isotropic s. (đại số) không gian con đẳng hướng\n- non-isotropic s. (đại số) không gian con không đẳng hướng\n- total vector s. không gian con vectơ toàn phần\n@Chuyên ngành kỹ thuật\n-không gian con
-
+subspace	@subspace
+- không gian con
+- complementary s. không gian con bù
+- isotropic s. (đại số) không gian con đẳng hướng
+- non-isotropic s. (đại số) không gian con không đẳng hướng
+- total vector s. không gian con vectơ toàn phần
+@Chuyên ngành kỹ thuật
+-không gian con

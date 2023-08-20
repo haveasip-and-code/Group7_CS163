@@ -1,3 +1,13 @@
-swiss
-	@swiss /swis/\n*  tính từ\n- (thuộc) Thụy sĩ\n*  danh từ\n- người Thụy sĩ\n@Chuyên ngành kinh tế\n-người Thuỵ Sĩ\n-người Thụy Sĩ\n-nước Thụy Sĩ\n-phong cách Thuỵ Sĩ\n-phong cách Thụy Sĩ\n-thuộc về Thuỵ Sĩ\n-Thụy Sĩ
-
+swiss	@swiss /swis/
+*  tính từ
+- (thuộc) Thụy sĩ
+*  danh từ
+- người Thụy sĩ
+@Chuyên ngành kinh tế
+-người Thuỵ Sĩ
+-người Thụy Sĩ
+-nước Thụy Sĩ
+-phong cách Thuỵ Sĩ
+-phong cách Thụy Sĩ
+-thuộc về Thuỵ Sĩ
+-Thụy Sĩ

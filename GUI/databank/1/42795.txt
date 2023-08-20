@@ -1,3 +1,2 @@
-postponer
-	@postponer\n- xem postpone
-
+postponer	@postponer
+- xem postpone

@@ -1,3 +1,4 @@
-classifiable
-	@classifiable\n* tính từ\n- có thể phân loại được
-
+classifiable	
+@classifiable
+* tính từ
+- có thể phân loại được

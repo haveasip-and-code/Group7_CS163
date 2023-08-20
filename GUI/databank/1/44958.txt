@@ -1,3 +1,4 @@
-pyrometallurgy
-	@Chuyên ngành kỹ thuật\n-luyện kim cao nhiệt\n@Lĩnh vực: điện lạnh\n-hỏa luyện kim học
-
+pyrometallurgy	@Chuyên ngành kỹ thuật
+-luyện kim cao nhiệt
+@Lĩnh vực: điện lạnh
+-hỏa luyện kim học

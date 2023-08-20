@@ -1,3 +1,2 @@
-panicled
-	@panicled\n- xem panicle
-
+panicled	@panicled
+- xem panicle

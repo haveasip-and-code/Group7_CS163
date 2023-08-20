@@ -1,3 +1,2 @@
-pawnable
-	@pawnable\n- xem pawn
-
+pawnable	@pawnable
+- xem pawn

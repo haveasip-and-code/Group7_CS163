@@ -1,3 +1,4 @@
-isooctane
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isooctane ((CH3)2CH(CH2)4CH3)
-
+isooctane	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-isooctane ((CH3)2CH(CH2)4CH3)

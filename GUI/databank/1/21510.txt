@@ -1,3 +1,7 @@
-flora
-	@flora /flora/\n*  danh từ,  số nhiều floras,  florae\n- hệ thực vật (của một vùng)\n- danh sách thực vật, thực vật chí\n@Chuyên ngành kinh tế\n-hệ
-
+flora	
+@flora /flora/
+*  danh từ,  số nhiều floras,  florae
+- hệ thực vật (của một vùng)
+- danh sách thực vật, thực vật chí
+@Chuyên ngành kinh tế
+-hệ

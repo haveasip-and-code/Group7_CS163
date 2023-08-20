@@ -1,3 +1,8 @@
-kitting
-	@Chuyên ngành kinh tế\n-ký phát hối phiếu khống\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sắp xếp, bố trí lắp đặt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sắp xếp, bố trí lắp đặt
-
+kitting	@Chuyên ngành kinh tế
+-ký phát hối phiếu khống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sắp xếp, bố trí lắp đặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sắp xếp, bố trí lắp đặt

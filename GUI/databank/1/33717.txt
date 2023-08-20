@@ -1,3 +1,32 @@
-marking
-	@marking\n* danh từ\n- sự ghi nhãn\n- sự đánh dấu/ghi dấu\n- vết dụng cụ (trên bề mặt gia công)\n@Chuyên ngành kinh tế\n-dấu\n-ghi giá\n-ghi ký hiệu\n-in dấu\n-ký mã hiệu\n-ký mã hiệu xếp chở hàng hóa\n-làm nhãn\n-ngấn\n-sự ấn dấu\n-sự dán nhãn\n-sự đánh dấu\n-sự ghi giá (chứng khoán)\n-vạch\n-việc ghi chép doanh vụ\n@Chuyên ngành kỹ thuật\n-đánh dấu\n-sự đánh dấu\n-sự ghi nhãn\n-sự lấy dấu\n-sự núng lỗ\n-sự sắp đặt\n-sự vạch dấu\n@Lĩnh vực: xây dựng\n-sự cắm mốc\n-sự làm dấu\n-vạch chỉ
-
+marking	@marking
+* danh từ
+- sự ghi nhãn
+- sự đánh dấu/ghi dấu
+- vết dụng cụ (trên bề mặt gia công)
+@Chuyên ngành kinh tế
+-dấu
+-ghi giá
+-ghi ký hiệu
+-in dấu
+-ký mã hiệu
+-ký mã hiệu xếp chở hàng hóa
+-làm nhãn
+-ngấn
+-sự ấn dấu
+-sự dán nhãn
+-sự đánh dấu
+-sự ghi giá (chứng khoán)
+-vạch
+-việc ghi chép doanh vụ
+@Chuyên ngành kỹ thuật
+-đánh dấu
+-sự đánh dấu
+-sự ghi nhãn
+-sự lấy dấu
+-sự núng lỗ
+-sự sắp đặt
+-sự vạch dấu
+@Lĩnh vực: xây dựng
+-sự cắm mốc
+-sự làm dấu
+-vạch chỉ

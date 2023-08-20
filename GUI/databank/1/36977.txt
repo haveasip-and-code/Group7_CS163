@@ -1,3 +1,2 @@
-nonrefundable
-	@Chuyên ngành kinh tế\n-không thể trả lại
-
+nonrefundable	@Chuyên ngành kinh tế
+-không thể trả lại

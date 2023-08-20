@@ -1,3 +1,4 @@
-vim
-	@vim /vim/\n*  danh từ\n- (thông tục) sức mạnh, sức sống\n=full of vim+ đầy sức sống
-
+vim	@vim /vim/
+*  danh từ
+- (thông tục) sức mạnh, sức sống
+=full of vim+ đầy sức sống

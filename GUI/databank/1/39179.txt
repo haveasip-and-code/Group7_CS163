@@ -1,3 +1,13 @@
-packed
-	@packed\n* tính từ\n- nhồi nhét\n= an action packed story+một câu chuyện nhồi nhét hành động\n- đầu tràn\n@Chuyên ngành kinh tế\n-được bao gói\n-được đóng gói\n@Chuyên ngành kỹ thuật\n-lèn chặt\n@Lĩnh vực: hóa học & vật liệu\n-được bao gói\n-được đóng bánh
-
+packed	@packed
+* tính từ
+- nhồi nhét
+= an action packed story+một câu chuyện nhồi nhét hành động
+- đầu tràn
+@Chuyên ngành kinh tế
+-được bao gói
+-được đóng gói
+@Chuyên ngành kỹ thuật
+-lèn chặt
+@Lĩnh vực: hóa học & vật liệu
+-được bao gói
+-được đóng bánh

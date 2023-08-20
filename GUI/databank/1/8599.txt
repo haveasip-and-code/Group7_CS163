@@ -1,3 +1,5 @@
-cermets
-	@Chuyên ngành kỹ thuật\n-gốm kim loại\n@Lĩnh vực: cơ khí & công trình\n-kim loại gốm
-
+cermets	
+@Chuyên ngành kỹ thuật
+-gốm kim loại
+@Lĩnh vực: cơ khí & công trình
+-kim loại gốm

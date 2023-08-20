@@ -1,3 +1,2 @@
-viatores
-	@viatores\n- số nhiều của viator
-
+viatores	@viatores
+- số nhiều của viator

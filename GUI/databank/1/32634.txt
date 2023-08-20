@@ -1,3 +1,25 @@
-logging
-	@logging /'lɔgiɳ/\n*  danh từ\n- việc đốn gỗ\n@Chuyên ngành kỹ thuật\n-sự đăng ký\n-sự ghi chép\n@Lĩnh vực: xây dựng\n-carôta\n-sự cưa gỗ\n-việc chặt gỗ\n-việc đốn gỗ\n@Lĩnh vực: hóa học & vật liệu\n-kỹ thuật carota\n-kỹ thuật log\n@Chuyên ngành kỹ thuật\n-sự đăng ký\n-sự ghi chép\n@Lĩnh vực: xây dựng\n-carôta\n-sự cưa gỗ\n-việc chặt gỗ\n-việc đốn gỗ\n@Lĩnh vực: hóa học & vật liệu\n-kỹ thuật carota\n-kỹ thuật log
-
+logging	@logging /'lɔgiɳ/
+*  danh từ
+- việc đốn gỗ
+@Chuyên ngành kỹ thuật
+-sự đăng ký
+-sự ghi chép
+@Lĩnh vực: xây dựng
+-carôta
+-sự cưa gỗ
+-việc chặt gỗ
+-việc đốn gỗ
+@Lĩnh vực: hóa học & vật liệu
+-kỹ thuật carota
+-kỹ thuật log
+@Chuyên ngành kỹ thuật
+-sự đăng ký
+-sự ghi chép
+@Lĩnh vực: xây dựng
+-carôta
+-sự cưa gỗ
+-việc chặt gỗ
+-việc đốn gỗ
+@Lĩnh vực: hóa học & vật liệu
+-kỹ thuật carota
+-kỹ thuật log

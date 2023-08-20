@@ -1,3 +1,8 @@
-silvering
-	@Chuyên ngành kỹ thuật\n-sự mạ bạc\n-sự mạ bạc (gương)\n@Lĩnh vực: hóa học & vật liệu\n-sự phủ bạc\n-sự tráng bạc\n@Lĩnh vực: điện\n-việc mạ bạc
-
+silvering	@Chuyên ngành kỹ thuật
+-sự mạ bạc
+-sự mạ bạc (gương)
+@Lĩnh vực: hóa học & vật liệu
+-sự phủ bạc
+-sự tráng bạc
+@Lĩnh vực: điện
+-việc mạ bạc

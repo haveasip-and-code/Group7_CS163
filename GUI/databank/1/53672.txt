@@ -1,3 +1,36 @@
-strength
-	@strength /'streɳθ/\n*  danh từ\n- sức mạnh, sức lực, sức khoẻ\n- độ đậm, nồng độ; cường độ\n=the strength of tea+ độ đậm của nước trà\n=the strength of wine+ nồng độ của rượu\n- số lượng đầy đủ (của một tập thể...)\n=they were there in great (full) strength+ họ có mặt đông đủ cả\n- (quân sự) số quân hiện có\n- (kỹ thuật) sức bền; độ bền\n=strength of materials+ sức bền vật liệu\n!to measure one's strength with someone\n- (xem) measure\n!on the strength of\n- tin vào, cậy vào; được sự khuyến khích của; căn cứ vào, lập luận từ\n=I did it on the strength of your promise+ tôi làm việc đó là tin vào lời hứa của anh\n@Chuyên ngành kinh tế\n-độ bền\n-độ chặt\n-nồng độ\n-xu thế giá lên (thị trường cổ phiếu)\n@Chuyên ngành kỹ thuật\n-độ bền\n-độ dài\n-độ đậm\n-giới hạn bền\n-lực\n-số lượng\n-sức bền\n-sức chịu\n@Lĩnh vực: cơ khí & công trình\n-chuẩn độ (dung dịch)\n-nồng độ\n-sức bền (vật liệu)\n@Lĩnh vực: toán & tin\n-sức mạnh
-
+strength	@strength /'streɳθ/
+*  danh từ
+- sức mạnh, sức lực, sức khoẻ
+- độ đậm, nồng độ; cường độ
+=the strength of tea+ độ đậm của nước trà
+=the strength of wine+ nồng độ của rượu
+- số lượng đầy đủ (của một tập thể...)
+=they were there in great (full) strength+ họ có mặt đông đủ cả
+- (quân sự) số quân hiện có
+- (kỹ thuật) sức bền; độ bền
+=strength of materials+ sức bền vật liệu
+!to measure one's strength with someone
+- (xem) measure
+!on the strength of
+- tin vào, cậy vào; được sự khuyến khích của; căn cứ vào, lập luận từ
+=I did it on the strength of your promise+ tôi làm việc đó là tin vào lời hứa của anh
+@Chuyên ngành kinh tế
+-độ bền
+-độ chặt
+-nồng độ
+-xu thế giá lên (thị trường cổ phiếu)
+@Chuyên ngành kỹ thuật
+-độ bền
+-độ dài
+-độ đậm
+-giới hạn bền
+-lực
+-số lượng
+-sức bền
+-sức chịu
+@Lĩnh vực: cơ khí & công trình
+-chuẩn độ (dung dịch)
+-nồng độ
+-sức bền (vật liệu)
+@Lĩnh vực: toán & tin
+-sức mạnh

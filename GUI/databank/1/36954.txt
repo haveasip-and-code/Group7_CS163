@@ -1,3 +1,5 @@
-nonfreezing
-	@Chuyên ngành kỹ thuật\n-chống đóng băng\n@Lĩnh vực: điện lạnh\n-không đông đặc\n-không kết đông
-
+nonfreezing	@Chuyên ngành kỹ thuật
+-chống đóng băng
+@Lĩnh vực: điện lạnh
+-không đông đặc
+-không kết đông

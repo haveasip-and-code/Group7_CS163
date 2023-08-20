@@ -1,3 +1,2 @@
-clearable
-	@clearable\n- xem clear
-
+clearable	@clearable
+- xem clear

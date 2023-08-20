@@ -1,3 +1,9 @@
-spiel
-	@spiel /spi:l/\n*  danh từ\n- (từ lóng) bài diễn văn, bài nói\n- câu chuyện\n*  nội động từ\n- (từ lóng) diễn thuyết\n- nói chuyện\n*  ngoại động từ\n- (từ lóng) kể, tuôn ra (chuyện)
-
+spiel	@spiel /spi:l/
+*  danh từ
+- (từ lóng) bài diễn văn, bài nói
+- câu chuyện
+*  nội động từ
+- (từ lóng) diễn thuyết
+- nói chuyện
+*  ngoại động từ
+- (từ lóng) kể, tuôn ra (chuyện)

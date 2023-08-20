@@ -1,3 +1,16 @@
-entrepreneur
-	@entrepreneur /,ɔntrəprə'nə:/\n*  danh từ\n- người phụ trách hãng buôn\n- người thầu khoán\n@Chuyên ngành kinh tế\n-người khởi nghiệp\n-người quản lý nội bộ\n-người sáng lập và quản lý\n-người thầu khoán\n-nhà doanh nghiệp\n-nhà kinh doanh\n@Chuyên ngành kỹ thuật\n-chủ thầu\n@Chuyên ngành kỹ thuật\n-chủ thầu
-
+entrepreneur	
+@entrepreneur /,ɔntrəprə'nə:/
+*  danh từ
+- người phụ trách hãng buôn
+- người thầu khoán
+@Chuyên ngành kinh tế
+-người khởi nghiệp
+-người quản lý nội bộ
+-người sáng lập và quản lý
+-người thầu khoán
+-nhà doanh nghiệp
+-nhà kinh doanh
+@Chuyên ngành kỹ thuật
+-chủ thầu
+@Chuyên ngành kỹ thuật
+-chủ thầu

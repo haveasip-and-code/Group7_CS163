@@ -1,3 +1,19 @@
-basis
-	@basis /'beisis/\n*  (bất qui tắc) danh từ,  số nhiều bases\n/'beisi:z/\n- nền tảng, cơ sở\n- căn cứ (quân sự)\n@Chuyên ngành kinh tế\n-cơ sở\n-điểm cơ sở\n-điểm gốc\n-nền tảng\n@Chuyên ngành kỹ thuật\n-chuẩn\n-đường đáy\n-nền\n-nền tảng\n@Lĩnh vực: xây dựng\n-cơ sở hạ tầng\n@Lĩnh vực: cơ khí & công trình\n-tuyến gốc
-
+basis	@basis /'beisis/
+*  (bất qui tắc) danh từ,  số nhiều bases
+/'beisi:z/
+- nền tảng, cơ sở
+- căn cứ (quân sự)
+@Chuyên ngành kinh tế
+-cơ sở
+-điểm cơ sở
+-điểm gốc
+-nền tảng
+@Chuyên ngành kỹ thuật
+-chuẩn
+-đường đáy
+-nền
+-nền tảng
+@Lĩnh vực: xây dựng
+-cơ sở hạ tầng
+@Lĩnh vực: cơ khí & công trình
+-tuyến gốc

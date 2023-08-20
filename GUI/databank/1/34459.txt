@@ -1,3 +1,57 @@
-mesh
-	@mesh /meʃ/\n*  danh từ\n- mắc lưới\n- (số nhiều) mạng lưới\n=the meshest of a spider's web+ lưới mạng nhện\n- (số nhiều) cạm, bẫy\n=cơ in mesh+ khớp nhau (bánh xe răng)\n*  ngoại động từ\n- bắt vào lưới, dồn vào lưới\n- đưa vào cạm bẫy\n*  nội động từ\n- khớp nhau (bánh xe răng...)\n@Chuyên ngành kinh tế\n-lỗ\n-mắt lưới\n-mắt sàng\n@Chuyên ngành kỹ thuật\n-độ hạt\n-đối tiếp\n-khóa chuyền\n-khớp nhau\n-khớp vào\n-liên hợp\n-lỗ\n-lỗ lưới\n-lỗ sàng\n-lỗ vải\n-lưới\n-mạch đenta\n-mạng\n-mạng (điện)\n-mạng (lưới)\n-mạng lưới\n-mạng mắt lưới\n-mắt lưới\n-mắt sàng\n-móc nối\n-mũi đan\n-mũi khâu\n-mũi thêu\n-ô lưới\n-rây\n-sàng\n-sự ăn khớp\n-sự khớp vào\n-sự móc vào\n-tế bào\n-vào khớp\n@Lĩnh vực: cơ khí & công trình\n-ăn khớp (bánh răng truyền động)\n-mắt (sàng)\n-mắt lưới sàng\n@Lĩnh vực: toán & tin\n-độ nhỏ\n-mắt (lưới)\n@Lĩnh vực: xây dựng\n-lỗ rây
-
+mesh	@mesh /meʃ/
+*  danh từ
+- mắc lưới
+- (số nhiều) mạng lưới
+=the meshest of a spider's web+ lưới mạng nhện
+- (số nhiều) cạm, bẫy
+=cơ in mesh+ khớp nhau (bánh xe răng)
+*  ngoại động từ
+- bắt vào lưới, dồn vào lưới
+- đưa vào cạm bẫy
+*  nội động từ
+- khớp nhau (bánh xe răng...)
+@Chuyên ngành kinh tế
+-lỗ
+-mắt lưới
+-mắt sàng
+@Chuyên ngành kỹ thuật
+-độ hạt
+-đối tiếp
+-khóa chuyền
+-khớp nhau
+-khớp vào
+-liên hợp
+-lỗ
+-lỗ lưới
+-lỗ sàng
+-lỗ vải
+-lưới
+-mạch đenta
+-mạng
+-mạng (điện)
+-mạng (lưới)
+-mạng lưới
+-mạng mắt lưới
+-mắt lưới
+-mắt sàng
+-móc nối
+-mũi đan
+-mũi khâu
+-mũi thêu
+-ô lưới
+-rây
+-sàng
+-sự ăn khớp
+-sự khớp vào
+-sự móc vào
+-tế bào
+-vào khớp
+@Lĩnh vực: cơ khí & công trình
+-ăn khớp (bánh răng truyền động)
+-mắt (sàng)
+-mắt lưới sàng
+@Lĩnh vực: toán & tin
+-độ nhỏ
+-mắt (lưới)
+@Lĩnh vực: xây dựng
+-lỗ rây

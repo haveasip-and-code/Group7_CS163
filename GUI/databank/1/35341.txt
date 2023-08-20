@@ -1,3 +1,11 @@
-modulate
-	@modulate\n* động từ\n- sửa lại cho đúng, điều chỉnh\n- (+to) làm cho phù hợp\n- uốn giọng, ngân nga, lên giọng xuống giọng\n- <nhạc> chuyển giọng\n- <rađiô> điều biến\n@Chuyên ngành kỹ thuật\n-biến điệu\n-điều biến\n-điều chế
-
+modulate	@modulate
+* động từ
+- sửa lại cho đúng, điều chỉnh
+- (+to) làm cho phù hợp
+- uốn giọng, ngân nga, lên giọng xuống giọng
+- <nhạc> chuyển giọng
+- <rađiô> điều biến
+@Chuyên ngành kỹ thuật
+-biến điệu
+-điều biến
+-điều chế

@@ -1,3 +1,3 @@
-dialyses
-	@dialyses /dai'ælisi:z/\n*  danh từ,  số nhiều dialyses\n- sự thẩm tách
-
+dialyses	@dialyses /dai'ælisi:z/
+*  danh từ,  số nhiều dialyses
+- sự thẩm tách

@@ -1,3 +1,11 @@
-reagent
-	@reagent\n* danh từ\n- <hóa> thuốc thử\n- chất phản ứng\n@Chuyên ngành kinh tế\n-chất phản ứng\n-thuốc thử\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-chai chất phản ứng\n-chai thuốc thử
-
+reagent	@reagent
+* danh từ
+- <hóa> thuốc thử
+- chất phản ứng
+@Chuyên ngành kinh tế
+-chất phản ứng
+-thuốc thử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-chai chất phản ứng
+-chai thuốc thử

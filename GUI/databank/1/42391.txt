@@ -1,3 +1,2 @@
-pollinizer
-	@pollinizer\n- Cách viết khác : polliniser
-
+pollinizer	@pollinizer
+- Cách viết khác : polliniser

@@ -1,3 +1,26 @@
-crawl
-	@crawl /krɔ:l/\n*  danh từ\n- ao nuôi cá\n- chỗ nuôi rùa; chỗ nuôi tôm\n- sự bò, sự trường\n- (thể dục,thể thao) lối bơi crôn, lối bơi trường ((cũng) crawl stroke)\n- sự kéo lê đi\n=to go at a crawl+ đi kéo lê, đi chậm rề rề, bò lê ra\n*  nội động từ\n- bò, trườn\n- lê bước, lê chân, bò lê\n- bò nhung nhúc, bò lúc nhúc\n=the ground crawls with ants+ đất nhung nhúc những kiến\n- luồn cúi, quỵ luỵ\n=to crawl before somebody+ luồn cúi ai\n- sởn gai ốc\n=it makes my flesh crawl+ cái đó làm tôi sởn gai ốc lên\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) không giữ lời, nuốt lời, tháo lui\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cuốn chậm\n-di chuyển chậm\n-quay chậm\n@Lĩnh vực: xây dựng\n-trườn
-
+crawl	
+@crawl /krɔ:l/
+*  danh từ
+- ao nuôi cá
+- chỗ nuôi rùa; chỗ nuôi tôm
+- sự bò, sự trường
+- (thể dục,thể thao) lối bơi crôn, lối bơi trường ((cũng) crawl stroke)
+- sự kéo lê đi=to go at a crawl
++ đi kéo lê, đi chậm rề rề, bò lê ra
+*  nội động từ
+- bò, trườn
+- lê bước, lê chân, bò lê
+- bò nhung nhúc, bò lúc nhúc=the ground crawls with ants
++ đất nhung nhúc những kiến
+- luồn cúi, quỵ luỵ=to crawl before somebody
++ luồn cúi ai
+- sởn gai ốc=it makes my flesh crawl
++ cái đó làm tôi sởn gai ốc lên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) không giữ lời, nuốt lời, tháo lui
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cuốn chậm
+-di chuyển chậm
+-quay chậm
+@Lĩnh vực: xây dựng
+-trườn

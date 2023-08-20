@@ -1,3 +1,42 @@
-breaker
-	@breaker /'breikə/\n*  danh từ\n- người bẻ gãy, người đập vỡ\n- người vi phạm (luật pháp...)\n- người tập, người dạy (ngựa...)\n- sóng lớn vỗ bờ\n- (kỹ thuật) máy đập, máy nghiền, máy tán\n- (điện học) cái ngắt điện, cái công tắc\n- tàu phá băng\n*  danh từ\n- (hàng hải) thùng gỗ nhỏ\n@Chuyên ngành kinh tế\n-máy cắt\n-máy đập\n-máy nghiền\n-máy tán\n@Chuyên ngành kỹ thuật\n-bộ ngắt\n-bộ ngắt điện\n-búa đập bê tông\n-cái ngắt\n-đê chắn sóng\n-lớp phân cách\n-mạch ngắt\n-máy cán\n-máy đập\n-máy nghiền\n-sóng xô bờ\n-thiết bị nghiền\n-tường chắn sóng\n-vít lửa\n@Lĩnh vực: điện\n-cái ngắt điện\n@Lĩnh vực: ô tô\n-công tắc tiếp điểm\n@Lĩnh vực: giao thông & vận tải\n-sóng nhào\n@Lĩnh vực: cơ khí & công trình\n-sóng vỡ\n-sự vỡ của sóng\n@Lĩnh vực: xây dựng\n-thiết bị đập
-
+breaker	@breaker /'breikə/
+*  danh từ
+- người bẻ gãy, người đập vỡ
+- người vi phạm (luật pháp...)
+- người tập, người dạy (ngựa...)
+- sóng lớn vỗ bờ
+- (kỹ thuật) máy đập, máy nghiền, máy tán
+- (điện học) cái ngắt điện, cái công tắc
+- tàu phá băng
+*  danh từ
+- (hàng hải) thùng gỗ nhỏ
+@Chuyên ngành kinh tế
+-máy cắt
+-máy đập
+-máy nghiền
+-máy tán
+@Chuyên ngành kỹ thuật
+-bộ ngắt
+-bộ ngắt điện
+-búa đập bê tông
+-cái ngắt
+-đê chắn sóng
+-lớp phân cách
+-mạch ngắt
+-máy cán
+-máy đập
+-máy nghiền
+-sóng xô bờ
+-thiết bị nghiền
+-tường chắn sóng
+-vít lửa
+@Lĩnh vực: điện
+-cái ngắt điện
+@Lĩnh vực: ô tô
+-công tắc tiếp điểm
+@Lĩnh vực: giao thông & vận tải
+-sóng nhào
+@Lĩnh vực: cơ khí & công trình
+-sóng vỡ
+-sự vỡ của sóng
+@Lĩnh vực: xây dựng
+-thiết bị đập

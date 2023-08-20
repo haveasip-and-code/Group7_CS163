@@ -1,3 +1,11 @@
-remelt
-	@Chuyên ngành kinh tế\n-đường vàng hòa tan\n-nấu lại\n-sự loại bỏ\n@Chuyên ngành kỹ thuật\n-đúc lại\n-luyện lại\n-nấu chảy lại\n-nấu lại\n@Lĩnh vực: điện lạnh\n-nóng chảy lại
-
+remelt	@Chuyên ngành kinh tế
+-đường vàng hòa tan
+-nấu lại
+-sự loại bỏ
+@Chuyên ngành kỹ thuật
+-đúc lại
+-luyện lại
+-nấu chảy lại
+-nấu lại
+@Lĩnh vực: điện lạnh
+-nóng chảy lại

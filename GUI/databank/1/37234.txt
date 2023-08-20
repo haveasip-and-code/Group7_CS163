@@ -1,3 +1,25 @@
-nurse
-	@nurse /nə:s/\n*  danh từ\n- (động vật học) cá nhám\n*  danh từ\n- vú em, người bảo mẫu, người giữ trẻ\n- sự nuôi, sự cho bú, sự trông nom; sự được nuôi, sự được cho bú\n=a child at nurse+ trẻ nhỏ đang tuổi phải cho bú\n- nơi nuôi dưỡng, xứ sở, vườn ương ((nghĩa bóng)), cái nôi ((nghĩa bóng))\n=the nurse of liberty+ xứ sở của tự do\n- y tá, nữ y tá\n- (nông nghiệp) cây che bóng\n- (động vật học) ong thợ; kiến thợ\n*  ngoại động từ\n- cho bú, nuôi, trông nom (trẻ nhỏ)\n- bồng, ãm; nựng\n- săn sóc (người bệnh); chữa (bệnh)\n=he stays at home mursing his cold+ nó ở nhà để chữa cho hết cảm\n- chăm chút (cây con, mảnh vườn...); nâng niu (một việc gì...))\n- nuôi, nuôi dưỡng, ấp ủ (hy vọng, hận thù; phong trào văn nghệ...)\n- ngồi ôm lấy, ngồi thu mình bên (lồng ấp, đống lửa...)\n@Chuyên ngành kinh tế\n-ong thợ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-y tá, điều dưỡng
-
+nurse	@nurse /nə:s/
+*  danh từ
+- (động vật học) cá nhám
+*  danh từ
+- vú em, người bảo mẫu, người giữ trẻ
+- sự nuôi, sự cho bú, sự trông nom; sự được nuôi, sự được cho bú
+=a child at nurse+ trẻ nhỏ đang tuổi phải cho bú
+- nơi nuôi dưỡng, xứ sở, vườn ương ((nghĩa bóng)), cái nôi ((nghĩa bóng))
+=the nurse of liberty+ xứ sở của tự do
+- y tá, nữ y tá
+- (nông nghiệp) cây che bóng
+- (động vật học) ong thợ; kiến thợ
+*  ngoại động từ
+- cho bú, nuôi, trông nom (trẻ nhỏ)
+- bồng, ãm; nựng
+- săn sóc (người bệnh); chữa (bệnh)
+=he stays at home mursing his cold+ nó ở nhà để chữa cho hết cảm
+- chăm chút (cây con, mảnh vườn...); nâng niu (một việc gì...))
+- nuôi, nuôi dưỡng, ấp ủ (hy vọng, hận thù; phong trào văn nghệ...)
+- ngồi ôm lấy, ngồi thu mình bên (lồng ấp, đống lửa...)
+@Chuyên ngành kinh tế
+-ong thợ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-y tá, điều dưỡng

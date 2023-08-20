@@ -1,3 +1,4 @@
-visitable
-	@visitable /'visitəbl/\n*  tính từ\n- có thể thăm được\n- có thể tham quan được
-
+visitable	@visitable /'visitəbl/
+*  tính từ
+- có thể thăm được
+- có thể tham quan được

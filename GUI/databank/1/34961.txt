@@ -1,3 +1,2 @@
-mines
-	@Chuyên ngành kinh tế\n-các chứng khoán (công ty) mỏ
-
+mines	@Chuyên ngành kinh tế
+-các chứng khoán (công ty) mỏ

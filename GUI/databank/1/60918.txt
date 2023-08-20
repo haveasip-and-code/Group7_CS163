@@ -1,3 +1,6 @@
-uptrend
-	@uptrend\n* danh từ\n- khuynh hướng đi lên\n@Chuyên ngành kinh tế\n-chiều hướng lên giá\n-xu hướng giá lên
-
+uptrend	@uptrend
+* danh từ
+- khuynh hướng đi lên
+@Chuyên ngành kinh tế
+-chiều hướng lên giá
+-xu hướng giá lên

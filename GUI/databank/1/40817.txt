@@ -1,3 +1,5 @@
-personalist
-	@personalist\n* danh từ\n- người theo thuyết nhân cách\n* tính từ\n- thuộc thuyết nhân cách
-
+personalist	@personalist
+* danh từ
+- người theo thuyết nhân cách
+* tính từ
+- thuộc thuyết nhân cách

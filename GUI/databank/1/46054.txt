@@ -1,3 +1,8 @@
-recoupment
-	@recoupment\n* danh từ\n- sự đền bù, sự bồi thường\n@Chuyên ngành kinh tế\n-quyền đòi trả lại\n-quyền truy đòi\n-sự bồi thường\n-sự khấu trừ
-
+recoupment	@recoupment
+* danh từ
+- sự đền bù, sự bồi thường
+@Chuyên ngành kinh tế
+-quyền đòi trả lại
+-quyền truy đòi
+-sự bồi thường
+-sự khấu trừ

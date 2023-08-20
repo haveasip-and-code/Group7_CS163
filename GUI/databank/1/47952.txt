@@ -1,3 +1,31 @@
-roof
-	@roof /ru:f/\n*  danh từ\n- mái nhà, nóc\n=tiled roof+ mái ngói\n=under one's roof+ ở nhà của mình\n=to have a roof over head+ có nơi ăn chốn ở\n- vòm\n=the roof of heaven+ vòm trời\n=under a roof of foliage+ dưới vòm lá cây\n=the roof of the mouth+ vòm miệng\n=the roof of the world+ nóc nhà trời, dãy núi cao\n- nóc xe\n- (hàng không) trần (máy bay)\n*  ngoại động từ\n- lợp (nhà)\n- làm mái che cho; (nghĩa bóng) cho trú ngụ, cho ở\n@Chuyên ngành kỹ thuật\n-lợp mái\n-nóc\n-mái\n-mái lò\n-mái nhà\n-phủ mái\n-vách\n-vòm\n-vòm lò\n@Lĩnh vực: xây dựng\n-lớp lợp\n-lợp nhà\n-mái hầm\n-mái, lớp lợp
-
+roof	@roof /ru:f/
+*  danh từ
+- mái nhà, nóc
+=tiled roof+ mái ngói
+=under one's roof+ ở nhà của mình
+=to have a roof over head+ có nơi ăn chốn ở
+- vòm
+=the roof of heaven+ vòm trời
+=under a roof of foliage+ dưới vòm lá cây
+=the roof of the mouth+ vòm miệng
+=the roof of the world+ nóc nhà trời, dãy núi cao
+- nóc xe
+- (hàng không) trần (máy bay)
+*  ngoại động từ
+- lợp (nhà)
+- làm mái che cho; (nghĩa bóng) cho trú ngụ, cho ở
+@Chuyên ngành kỹ thuật
+-lợp mái
+-nóc
+-mái
+-mái lò
+-mái nhà
+-phủ mái
+-vách
+-vòm
+-vòm lò
+@Lĩnh vực: xây dựng
+-lớp lợp
+-lợp nhà
+-mái hầm
+-mái, lớp lợp

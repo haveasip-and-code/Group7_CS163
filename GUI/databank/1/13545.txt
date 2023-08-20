@@ -1,3 +1,9 @@
-dashboard
-	@dashboard /'dæʃbɔ:d/\n*  danh từ\n- cái chắn bùn (trước xe...)\n- bảng đồng hồ (bảng đặt các đồng hồ đo tốc độ, mức dầu mỡ... ở ô tô)\n@Chuyên ngành kỹ thuật\n-bảng điều khiển\n@Lĩnh vực: ô tô\n-bảng khí cụ
-
+dashboard	
+@dashboard /'dæʃbɔ:d/
+*  danh từ
+- cái chắn bùn (trước xe...)
+- bảng đồng hồ (bảng đặt các đồng hồ đo tốc độ, mức dầu mỡ... ở ô tô)
+@Chuyên ngành kỹ thuật
+-bảng điều khiển
+@Lĩnh vực: ô tô
+-bảng khí cụ

@@ -1,3 +1,9 @@
-physics
-	@physics /'fiziks/\n*  danh từ,  số nhiều dùng như số ít\n- vật lý học\n@Chuyên ngành kỹ thuật\n-vật lý\n@Lĩnh vực: điện lạnh\n-vật lý (học)\n@Lĩnh vực: y học\n-vật lý học
-
+physics	@physics /'fiziks/
+*  danh từ,  số nhiều dùng như số ít
+- vật lý học
+@Chuyên ngành kỹ thuật
+-vật lý
+@Lĩnh vực: điện lạnh
+-vật lý (học)
+@Lĩnh vực: y học
+-vật lý học

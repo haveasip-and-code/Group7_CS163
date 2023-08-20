@@ -1,3 +1,7 @@
-copybook
-	@copybook\n* danh từ\n- vở tập viết\n* tính từ\n- đúng bài bản\n- rũrích, sáo
-
+copybook	
+@copybook
+* danh từ
+- vở tập viết
+* tính từ
+- đúng bài bản
+- rũrích, sáo

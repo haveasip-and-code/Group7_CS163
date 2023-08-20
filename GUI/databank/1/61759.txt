@@ -1,3 +1,2 @@
-videoconference
-	@Chuyên ngành kinh tế\n-hội nghị qua viđeo
-
+videoconference	@Chuyên ngành kinh tế
+-hội nghị qua viđeo

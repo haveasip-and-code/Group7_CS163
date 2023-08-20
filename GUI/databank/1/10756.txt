@@ -1,3 +1,6 @@
-composites
-	@composites\n- hợp tử\n- c. of fields (đại số) hợp tử của trường\n@Chuyên ngành kỹ thuật\n-hợp tử
-
+composites	
+@composites
+- hợp tử
+- c. of fields (đại số) hợp tử của trường
+@Chuyên ngành kỹ thuật
+-hợp tử

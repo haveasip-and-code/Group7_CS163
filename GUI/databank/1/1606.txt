@@ -1,3 +1,34 @@
-allow
-	@allow /ə'lau/\n*  ngoại động từ\n- cho phép để cho\n=allow me to help you+ cho phép tôi được giúp anh một tay\n=smoking is not allowed here+ không được hút thuốc lá ở đây\n=to allow oneself+ tự cho phép mình\n=I'll not allow you to be ill-treated+ tôi sẽ không để cho anh bị ngược đãi đâu\n- thừa nhận, công nhận, chấp nhận\n=to allow something to be true+ công nhận cái gì là đúng sự thật\n=I allow that I am wrong+ tôi nhận là tôi sai\n=to allow a request+ chấp đơn\n- cho, cấp cho, trợ cấp, cấp phát\n=to be allowed 300đ a year+ mỗi năm được trợ cấp 300đ\n- (thương nghiệp); (tài chính) trừ bớt; thêm\n=to allow 5 per cent for breakage+ trừ 5 rò (tài chính) nủm nạnh 8; thêm 5 rò (tài chính) nủm nạnh 8\n*  nội động từ\n- (+ for) kể đến, tính đến; chiếu cố đến, chú ý đến\n=allow to for the delays coused by bad weather+ tính đến sự chậm trễ do thời tiết xấu gây ra\n=after allowing for...+ sau khi đã tính đến...\n- (+ of) cho phép; chịu được, dung thứ được, chấp nhận\n=the question allows of no dispute+ vấn đề không cho phép bàn cãi gì cả\n=I can't allow of this noise going on+ tôi không thể chịu được cái tiếng ầm ỹ ấy cứ kéo dài mãi\n@Chuyên ngành kinh tế\n-cấp phát (lợi tức)\n-chấp nhận (về mức chênh lệch, vận chuyển)\n-cho\n-cho (chiết khấu)\n-cho phép\n@Chuyên ngành kỹ thuật\n-cấp phát
-
+allow	
+@allow /ə'lau/
+*  ngoại động từ
+- cho phép để cho=allow me to help you
++ cho phép tôi được giúp anh một tay=smoking is not allowed here
++ không được hút thuốc lá ở đây=to allow oneself
++ tự cho phép mình=I'll not allow you to be ill
+-treated
++ tôi sẽ không để cho anh bị ngược đãi đâu
+- thừa nhận, công nhận, chấp nhận=to allow something to be true
++ công nhận cái gì là đúng sự thật=I allow that I am wrong
++ tôi nhận là tôi sai=to allow a request
++ chấp đơn
+- cho, cấp cho, trợ cấp, cấp phát=to be allowed 300đ a year
++ mỗi năm được trợ cấp 300đ
+- (thương nghiệp); (tài chính) trừ bớt; thêm=to allow 5 per cent for breakage
++ trừ 5 rò (tài chính) nủm nạnh 8; thêm 5 rò (tài chính) nủm nạnh 8
+*  nội động từ
+- (
++ for) kể đến, tính đến; chiếu cố đến, chú ý đến=allow to for the delays coused by bad weather
++ tính đến sự chậm trễ do thời tiết xấu gây ra=after allowing for...
++ sau khi đã tính đến...
+- (
++ of) cho phép; chịu được, dung thứ được, chấp nhận=the question allows of no dispute
++ vấn đề không cho phép bàn cãi gì cả=I can't allow of this noise going on
++ tôi không thể chịu được cái tiếng ầm ỹ ấy cứ kéo dài mãi
+@Chuyên ngành kinh tế
+-cấp phát (lợi tức)
+-chấp nhận (về mức chênh lệch, vận chuyển)
+-cho
+-cho (chiết khấu)
+-cho phép
+@Chuyên ngành kỹ thuật
+-cấp phát

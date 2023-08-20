@@ -1,3 +1,9 @@
-channeling
-	@channeling\n- (Tech) mở kênh, truyền qua kênh\n@Chuyên ngành kinh tế\n-hệ thống kênh\n@Chuyên ngành kỹ thuật\n-sự đào kênh\n@Lĩnh vực: điện tử & viễn thông\n-sự truyền kênh theo
-
+channeling	
+@channeling
+- (Tech) mở kênh, truyền qua kênh
+@Chuyên ngành kinh tế
+-hệ thống kênh
+@Chuyên ngành kỹ thuật
+-sự đào kênh
+@Lĩnh vực: điện tử & viễn thông
+-sự truyền kênh theo

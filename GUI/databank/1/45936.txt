@@ -1,3 +1,7 @@
-reciprocating
-	@Chuyên ngành kỹ thuật\n-chuyển động qua lại\n-qua lại\n-sự tịnh tiến\n-xoay chiều\n@Lĩnh vực: điện lạnh\n-kiểu pittông
-
+reciprocating	@Chuyên ngành kỹ thuật
+-chuyển động qua lại
+-qua lại
+-sự tịnh tiến
+-xoay chiều
+@Lĩnh vực: điện lạnh
+-kiểu pittông

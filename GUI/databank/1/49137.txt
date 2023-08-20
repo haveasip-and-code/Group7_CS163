@@ -1,3 +1,5 @@
-scleroprotein
-	@scleroprotein\n* danh từ\n- prôtêin cứng (chất sừng, chất keo, chất sụn)\n@Chuyên ngành kinh tế\n-protein cứng
-
+scleroprotein	@scleroprotein
+* danh từ
+- prôtêin cứng (chất sừng, chất keo, chất sụn)
+@Chuyên ngành kinh tế
+-protein cứng

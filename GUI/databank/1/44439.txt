@@ -1,3 +1,6 @@
-pseudomorph
-	@pseudomorph\n* danh từ\n- dạng giả\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-giả hình
-
+pseudomorph	@pseudomorph
+* danh từ
+- dạng giả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-giả hình

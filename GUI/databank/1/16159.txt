@@ -1,3 +1,13 @@
-distillate
-	@distillate /'distilit/\n*  danh từ\n- (hoá học) phần cất, sản phẩm cất\n@Chuyên ngành kinh tế\n-phần cất\n-sản phẩm cất\n@Chuyên ngành kỹ thuật\n-phần cất\n@Lĩnh vực: hóa học & vật liệu\n-phần (chưng) cất\n@Lĩnh vực: điện lạnh\n-sự chưng cất
-
+distillate	
+@distillate /'distilit/
+*  danh từ
+- (hoá học) phần cất, sản phẩm cất
+@Chuyên ngành kinh tế
+-phần cất
+-sản phẩm cất
+@Chuyên ngành kỹ thuật
+-phần cất
+@Lĩnh vực: hóa học & vật liệu
+-phần (chưng) cất
+@Lĩnh vực: điện lạnh
+-sự chưng cất

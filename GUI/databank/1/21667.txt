@@ -1,3 +1,5 @@
-foaminess
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-độ bọt\n-tính tạo bọt
-
+foaminess	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-độ bọt
+-tính tạo bọt

@@ -1,3 +1,33 @@
-worm
-	@worm /wə:m/\n*  danh từ\n- (động vật học) giun; sâu, trùng\n- (kỹ thuật) đường ren (của vít)\n- (nghĩa bóng) người không đáng kể, người đáng khinh, đồ giun dế\n!I am a worm today\n- hôm nay tôi không được khoẻ\n!even a worm will turn\n- con giun xéo lắm cũng quằn\n!the worm of conscience\n- sự cắn rứt của lương tâm\n*  nội động từ\n- bò\n- (nghĩa bóng) chui vào, luồn vào, lẻn vào\n*  ngoại động từ\n- tẩy giun sán cho\n- bắt sâu, trừ sâu (ở luống rau...)\n- bò vào; lần vào, chui vào, luồn qua ((nghĩa đen) & (nghĩa bóng))\n=to worm one's way through the bushes+ luồn qua các bụi rậm\n=to worm oneself into+ lần vào\n=to worm oneself into someone's favour+ khéo lấy lòng ai\n- (kỹ thuật) ren (một vít)\n- (nghĩa bóng) moi\n=to worm a secret out of someone+ moi ở người nào một điều bí mật\n@Chuyên ngành kỹ thuật\n-guồng xoắn\n-ống ruột gà (máy chưng cất)\n-ống xoắn\n-trục vít\n-vít tải\n-vít vô tận\n@Lĩnh vực: điện\n-trục vít nổi
-
+worm	@worm /wə:m/
+*  danh từ
+- (động vật học) giun; sâu, trùng
+- (kỹ thuật) đường ren (của vít)
+- (nghĩa bóng) người không đáng kể, người đáng khinh, đồ giun dế
+!I am a worm today
+- hôm nay tôi không được khoẻ
+!even a worm will turn
+- con giun xéo lắm cũng quằn
+!the worm of conscience
+- sự cắn rứt của lương tâm
+*  nội động từ
+- bò
+- (nghĩa bóng) chui vào, luồn vào, lẻn vào
+*  ngoại động từ
+- tẩy giun sán cho
+- bắt sâu, trừ sâu (ở luống rau...)
+- bò vào; lần vào, chui vào, luồn qua ((nghĩa đen) & (nghĩa bóng))
+=to worm one's way through the bushes+ luồn qua các bụi rậm
+=to worm oneself into+ lần vào
+=to worm oneself into someone's favour+ khéo lấy lòng ai
+- (kỹ thuật) ren (một vít)
+- (nghĩa bóng) moi
+=to worm a secret out of someone+ moi ở người nào một điều bí mật
+@Chuyên ngành kỹ thuật
+-guồng xoắn
+-ống ruột gà (máy chưng cất)
+-ống xoắn
+-trục vít
+-vít tải
+-vít vô tận
+@Lĩnh vực: điện
+-trục vít nổi

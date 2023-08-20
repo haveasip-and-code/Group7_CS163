@@ -1,3 +1,82 @@
-power
-	@power /'pauə/\n*  danh từ\n- khả năng, tài năng, năng lực\n=I will help you to the utmost of my power+ tôi sẽ giúp anh với tất cả khả năng (quyền hạn) của tôi!\n=it's beyond my power+ cái đó vượt quá khả năng (quyền hạn) của tôi!\n=as far as lies within my power+ chừng nào trong phạm vi khả năng (quyền hạn) của tôi!\n=a man of varied powers+ người có nhiều tài năng\n=mental powers+ năng lực trí tuệ\n=a remarkable power of speech+ tài ăn nói đặc biệt\n- sức, lực, sức mạnh\n=an attractive power+ sức thu hút, sức hấp dẫn\n=the power of one's arm+ sức mạnh của cánh tay\n- quyền, chính quyền, quyền hạn, quyền lực, quyền thế, thế lực, uy quyền\n=supreme power+ quyền tối cao\n=the executive power+ quyền hành pháp\n=to come into power+ nắm chính quyền\n=the party in power+ đảng cầm quyền\n=to have somebody is one's power+ nắm ai dưới quyền\n=to have no power over...+ không có quyền đối với...\n=power of attorney+ quyền uỷ nhiệm\n- người quyền thế, người cầm quyền; cơ quan có quyền lực\n=the power s that be+ các nhà cầm quyền\n=the press has become a power in the state+ báo chí trở thành một cơ quan có quyền lực của nhà nước\n- trời, thánh thần\n=merciful powers!+ thánh thần lượng cả bao dung!, thánh thần từ bi hỉ xả!\n- cường quốc\n=the big powers+ các cường quốc lớn\n=the European powers+ những cường quốc châu Âu\n- (kỹ thuật); (vật lý) lực; công suất, năng suất; năng lượng\n=absorption power+ năng xuất hút thu\n=electric power+ điện năng\n=atomoc power+ năng lượng nguyên tử; cường quốc nguyên tử\n- (toán học) luỹ thừa\n- (vật lý) số phóng to (kính hiển vi...)\n- (thông tục) số lượng lớn, nhiều\n=to have a power of work to do+ có nhiều việc phải làm\n=a power of money+ nhiều tiền\n!the mechanical powers\n- máy đơn giản\n!more power to your elbow!\n- cố lên nữa nào!\n*  ngoại động từ\n- cung cấp lực (cho máy...)\n@Chuyên ngành kinh tế\n-cường quốc\n-lực\n-năng lực\n-năng lượng (điện, hạt nhân...)\n-nước lớn\n-quyền hạn\n-quyền lực\n-sức\n-sức mạnh\n@Chuyên ngành kỹ thuật\n-bậc\n-cường độ\n-điện\n-điện năng\n-độ\n-độ rõ nét\n-khả năng\n-lực\n-lực lượng\n-lũy thừa\n-năng lực\n-năng lực, khả năng\n-năng lượng\n-năng suất\n-năng suất hiệu quả\n-nguồn điện\n-số mũ\n-trợ lực\n@Lĩnh vực: ô tô\n-cấp công suất\n@Lĩnh vực: xây dựng\n-đồ dày vỉa quặng\n@Lĩnh vực: vật lý\n-độ tụ\n@Lĩnh vực: giao thông & vận tải\n-quyền lực\n@Lĩnh vực: hóa học & vật liệu\n-sức
-
+power	@power /'pauə/
+*  danh từ
+- khả năng, tài năng, năng lực
+=I will help you to the utmost of my power+ tôi sẽ giúp anh với tất cả khả năng (quyền hạn) của tôi!
+=it's beyond my power+ cái đó vượt quá khả năng (quyền hạn) của tôi!
+=as far as lies within my power+ chừng nào trong phạm vi khả năng (quyền hạn) của tôi!
+=a man of varied powers+ người có nhiều tài năng
+=mental powers+ năng lực trí tuệ
+=a remarkable power of speech+ tài ăn nói đặc biệt
+- sức, lực, sức mạnh
+=an attractive power+ sức thu hút, sức hấp dẫn
+=the power of one's arm+ sức mạnh của cánh tay
+- quyền, chính quyền, quyền hạn, quyền lực, quyền thế, thế lực, uy quyền
+=supreme power+ quyền tối cao
+=the executive power+ quyền hành pháp
+=to come into power+ nắm chính quyền
+=the party in power+ đảng cầm quyền
+=to have somebody is one's power+ nắm ai dưới quyền
+=to have no power over...+ không có quyền đối với...
+=power of attorney+ quyền uỷ nhiệm
+- người quyền thế, người cầm quyền; cơ quan có quyền lực
+=the power s that be+ các nhà cầm quyền
+=the press has become a power in the state+ báo chí trở thành một cơ quan có quyền lực của nhà nước
+- trời, thánh thần
+=merciful powers!+ thánh thần lượng cả bao dung!, thánh thần từ bi hỉ xả!
+- cường quốc
+=the big powers+ các cường quốc lớn
+=the European powers+ những cường quốc châu Âu
+- (kỹ thuật); (vật lý) lực; công suất, năng suất; năng lượng
+=absorption power+ năng xuất hút thu
+=electric power+ điện năng
+=atomoc power+ năng lượng nguyên tử; cường quốc nguyên tử
+- (toán học) luỹ thừa
+- (vật lý) số phóng to (kính hiển vi...)
+- (thông tục) số lượng lớn, nhiều
+=to have a power of work to do+ có nhiều việc phải làm
+=a power of money+ nhiều tiền
+!the mechanical powers
+- máy đơn giản
+!more power to your elbow!
+- cố lên nữa nào!
+*  ngoại động từ
+- cung cấp lực (cho máy...)
+@Chuyên ngành kinh tế
+-cường quốc
+-lực
+-năng lực
+-năng lượng (điện, hạt nhân...)
+-nước lớn
+-quyền hạn
+-quyền lực
+-sức
+-sức mạnh
+@Chuyên ngành kỹ thuật
+-bậc
+-cường độ
+-điện
+-điện năng
+-độ
+-độ rõ nét
+-khả năng
+-lực
+-lực lượng
+-lũy thừa
+-năng lực
+-năng lực, khả năng
+-năng lượng
+-năng suất
+-năng suất hiệu quả
+-nguồn điện
+-số mũ
+-trợ lực
+@Lĩnh vực: ô tô
+-cấp công suất
+@Lĩnh vực: xây dựng
+-đồ dày vỉa quặng
+@Lĩnh vực: vật lý
+-độ tụ
+@Lĩnh vực: giao thông & vận tải
+-quyền lực
+@Lĩnh vực: hóa học & vật liệu
+-sức

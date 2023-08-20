@@ -1,3 +1,9 @@
-regress
-	@regress /'ri:gres/\n*  danh từ\n- sự thoái bộ, sự thoái lui\n*  nội động từ\n- thoái bộ, thoái lui\n- đi giật lùi, đi ngược trở lại\n- (thiên văn học) chuyển ngược, nghịch hành\n@Chuyên ngành kỹ thuật\n-thoái hóa
-
+regress	@regress /'ri:gres/
+*  danh từ
+- sự thoái bộ, sự thoái lui
+*  nội động từ
+- thoái bộ, thoái lui
+- đi giật lùi, đi ngược trở lại
+- (thiên văn học) chuyển ngược, nghịch hành
+@Chuyên ngành kỹ thuật
+-thoái hóa

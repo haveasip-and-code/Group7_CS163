@@ -1,3 +1,9 @@
-casserole
-	@casserole /'kæsəroul/\n*  danh từ\n- nồi đất\n- món thịt hầm\n@Chuyên ngành kinh tế\n-món thịt và rau hầm\n@Chuyên ngành kỹ thuật\n-xoong
-
+casserole	
+@casserole /'kæsəroul/
+*  danh từ
+- nồi đất
+- món thịt hầm
+@Chuyên ngành kinh tế
+-món thịt và rau hầm
+@Chuyên ngành kỹ thuật
+-xoong

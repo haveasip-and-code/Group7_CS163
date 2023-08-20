@@ -1,3 +1,11 @@
-rev
-	@rev /rev/\n*  danh từ\n- (viết tắt) của revolution, vòng quay\n=two thousand revs minute+ hai nghìn vòng quay một phút\n*  động từ\n- quay, xoay\n=to rev up an engine began to rev+ máy bắt đầu quay nhanh, máy bắt đầu rú\n@Chuyên ngành kỹ thuật\n-số vòng quay\n@Lĩnh vực: ô tô\n-tốc độ động cơ
-
+rev	@rev /rev/
+*  danh từ
+- (viết tắt) của revolution, vòng quay
+=two thousand revs minute+ hai nghìn vòng quay một phút
+*  động từ
+- quay, xoay
+=to rev up an engine began to rev+ máy bắt đầu quay nhanh, máy bắt đầu rú
+@Chuyên ngành kỹ thuật
+-số vòng quay
+@Lĩnh vực: ô tô
+-tốc độ động cơ

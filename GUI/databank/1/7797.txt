@@ -1,3 +1,8 @@
-cantilevered
-	@Chuyên ngành kỹ thuật\n-chìa\n-côngxon\n-dầm chìa\n-dầm hẫng\n@Lĩnh vực: xây dựng\n-thuộc côngxon
-
+cantilevered	
+@Chuyên ngành kỹ thuật
+-chìa
+-côngxon
+-dầm chìa
+-dầm hẫng
+@Lĩnh vực: xây dựng
+-thuộc côngxon

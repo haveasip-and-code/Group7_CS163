@@ -1,3 +1,3 @@
-musculoskeletal
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc cơ xương
-
+musculoskeletal	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc cơ xương

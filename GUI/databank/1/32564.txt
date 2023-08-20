@@ -1,3 +1,25 @@
-localization
-	@localization /,loukəlai'zeiʃn/\n*  danh từ\n- sự hạn định vào một nơi, sự hạn định vào một địa phương\n- sự địa phương hoá\n- sự xác định vị trí, sự định vị\n@Chuyên ngành kỹ thuật\n-sự định vị\n-sự định xứ\n-sự khoanh vùng\n@Lĩnh vực: toán & tin\n-bản địa hóa\n-địa phương hóa\n-sự định\n@Lĩnh vực: y học\n-khu trú\n@Chuyên ngành kỹ thuật\n-sự định vị\n-sự định xứ\n-sự khoanh vùng\n@Lĩnh vực: toán & tin\n-bản địa hóa\n-địa phương hóa\n-sự định\n@Lĩnh vực: y học\n-khu trú
-
+localization	@localization /,loukəlai'zeiʃn/
+*  danh từ
+- sự hạn định vào một nơi, sự hạn định vào một địa phương
+- sự địa phương hoá
+- sự xác định vị trí, sự định vị
+@Chuyên ngành kỹ thuật
+-sự định vị
+-sự định xứ
+-sự khoanh vùng
+@Lĩnh vực: toán & tin
+-bản địa hóa
+-địa phương hóa
+-sự định
+@Lĩnh vực: y học
+-khu trú
+@Chuyên ngành kỹ thuật
+-sự định vị
+-sự định xứ
+-sự khoanh vùng
+@Lĩnh vực: toán & tin
+-bản địa hóa
+-địa phương hóa
+-sự định
+@Lĩnh vực: y học
+-khu trú

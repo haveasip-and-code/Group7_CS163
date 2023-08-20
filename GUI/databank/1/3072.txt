@@ -1,3 +1,14 @@
-apt
-	@apt /æpt/\n*  tính từ\n- có khuynh hướng hay, dễ\n=apt to take fire+ dễ bắt lửa\n=apt to promise apt to forget+ dễ hứa thì lại hay quên\n- có khả năng, có thể\n=such a remark is apt to be misunderstood+ một lời nhận xét như thế rất có thể bị hiểu lầm\n- có năng khiếu; có năng lực, tài, giỏi; nhanh trí, thông minh\n=an apt child+ một đứa bé có năng khiếu\n=to be apt at mathematics+ có năng khiếu về toán, giỏi toán\n- thích hợp, đúng\n=an apt quotation+ một câu trích dẫn thích hợp\n=there is no apter word+ không có từ nào đúng hơn
-
+apt	
+@apt /æpt/
+*  tính từ
+- có khuynh hướng hay, dễ=apt to take fire
++ dễ bắt lửa=apt to promise apt to forget
++ dễ hứa thì lại hay quên
+- có khả năng, có thể=such a remark is apt to be misunderstood
++ một lời nhận xét như thế rất có thể bị hiểu lầm
+- có năng khiếu; có năng lực, tài, giỏi; nhanh trí, thông minh=an apt child
++ một đứa bé có năng khiếu=to be apt at mathematics
++ có năng khiếu về toán, giỏi toán
+- thích hợp, đúng=an apt quotation
++ một câu trích dẫn thích hợp=there is no apter word
++ không có từ nào đúng hơn

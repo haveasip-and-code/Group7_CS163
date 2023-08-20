@@ -1,3 +1,10 @@
-replication
-	@replication\n* danh từ\n- sự tái tạo; tình trạng là bản sao của (cái gì)\n@Chuyên ngành kỹ thuật\n-sao chép\n-sự sao chép\n-sự sao lại\n-sự tái tạo\n@Lĩnh vực: toán & tin\n-sự tạo bản sao
-
+replication	@replication
+* danh từ
+- sự tái tạo; tình trạng là bản sao của (cái gì)
+@Chuyên ngành kỹ thuật
+-sao chép
+-sự sao chép
+-sự sao lại
+-sự tái tạo
+@Lĩnh vực: toán & tin
+-sự tạo bản sao

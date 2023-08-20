@@ -1,3 +1,19 @@
-stereoscope
-	@stereoscope /'stiəriəskoup/\n*  danh từ\n- kính nhìn nổi\n@Chuyên ngành kỹ thuật\n-kính lập thể\n@Lĩnh vực: điện tử & viễn thông\n-kính nhìn\n-kính nổi\n@Lĩnh vực: điện lạnh\n-kính nhìn (ảnh) nổi\n@Lĩnh vực: vật lý\n-kính nhìn hình nổi\n-kính xem phim nổi\n@Lĩnh vực: hóa học & vật liệu\n-kính nhìn nổi\n@Lĩnh vực: y học\n-kính soi nổi\n@Lĩnh vực: xây dựng\n-kính tập thể
-
+stereoscope	@stereoscope /'stiəriəskoup/
+*  danh từ
+- kính nhìn nổi
+@Chuyên ngành kỹ thuật
+-kính lập thể
+@Lĩnh vực: điện tử & viễn thông
+-kính nhìn
+-kính nổi
+@Lĩnh vực: điện lạnh
+-kính nhìn (ảnh) nổi
+@Lĩnh vực: vật lý
+-kính nhìn hình nổi
+-kính xem phim nổi
+@Lĩnh vực: hóa học & vật liệu
+-kính nhìn nổi
+@Lĩnh vực: y học
+-kính soi nổi
+@Lĩnh vực: xây dựng
+-kính tập thể

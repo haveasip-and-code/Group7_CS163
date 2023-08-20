@@ -1,3 +1,6 @@
-transposed
-	@transposed\n- chuyển vị\n@Chuyên ngành kỹ thuật\n-chuyển vị\n@Lĩnh vực: điện lạnh\n-được chuyển vị
-
+transposed	@transposed
+- chuyển vị
+@Chuyên ngành kỹ thuật
+-chuyển vị
+@Lĩnh vực: điện lạnh
+-được chuyển vị

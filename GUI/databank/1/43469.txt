@@ -1,3 +1,7 @@
-prestressed
-	@prestressed\n* tính từ\n- (kỹ thuật) có ứng suất trước\n@Chuyên ngành kỹ thuật\n-dự ứng lực\n@Lĩnh vực: xây dựng\n-có ứng lực trước
-
+prestressed	@prestressed
+* tính từ
+- (kỹ thuật) có ứng suất trước
+@Chuyên ngành kỹ thuật
+-dự ứng lực
+@Lĩnh vực: xây dựng
+-có ứng lực trước

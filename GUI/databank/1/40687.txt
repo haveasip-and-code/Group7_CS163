@@ -1,3 +1,12 @@
-perishable
-	@perishable /'periʃəbl/\n*  tính từ\n- có thể bị diệt vong; có thể chết\n- có thể bị tàn lụi, có thể bị héo rụi\n- dễ thối, dễ hỏng (rau, hoa quả...)\n@Chuyên ngành kinh tế\n-dễ hỏng\n-dễ thối\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-chóng hỏng\n-sản phẩm chóng hỏng
-
+perishable	@perishable /'periʃəbl/
+*  tính từ
+- có thể bị diệt vong; có thể chết
+- có thể bị tàn lụi, có thể bị héo rụi
+- dễ thối, dễ hỏng (rau, hoa quả...)
+@Chuyên ngành kinh tế
+-dễ hỏng
+-dễ thối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-chóng hỏng
+-sản phẩm chóng hỏng

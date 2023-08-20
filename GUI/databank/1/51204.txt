@@ -1,3 +1,2 @@
-slinked
-	@slinked\n- xem slink
-
+slinked	@slinked
+- xem slink

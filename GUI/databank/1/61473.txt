@@ -1,3 +1,2 @@
-ventriculi
-	@ventriculi\n- xem ventriculus
-
+ventriculi	@ventriculi
+- xem ventriculus

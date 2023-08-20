@@ -1,3 +1,15 @@
-quadric
-	@quadric /'kwɔdrik/\n*  tính từ\n- (toán học) Quađric, bậc hai\n=quadric cone+ mặt nón bậc hai\n=quadric cylinder+ mặt trụ bậc hai\n*  danh từ\n- (toán học) Quađric\n=quadric of revolution+ quađric tròn xoay\n@Chuyên ngành kỹ thuật\n-bậc hai\n-cấp hai\n-dạng toàn phương\n-quađric\n@Lĩnh vực: xây dựng\n-mặt bậc hai
-
+quadric	@quadric /'kwɔdrik/
+*  tính từ
+- (toán học) Quađric, bậc hai
+=quadric cone+ mặt nón bậc hai
+=quadric cylinder+ mặt trụ bậc hai
+*  danh từ
+- (toán học) Quađric
+=quadric of revolution+ quađric tròn xoay
+@Chuyên ngành kỹ thuật
+-bậc hai
+-cấp hai
+-dạng toàn phương
+-quađric
+@Lĩnh vực: xây dựng
+-mặt bậc hai

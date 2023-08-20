@@ -1,3 +1,4 @@
-protectorate
-	@protectorate /protectorate/\n*  danh từ\n- chế độ bảo hộ; nước bị bảo hộ\n- chức vị quan bảo quốc; thời gian nhiếp chính
-
+protectorate	@protectorate /protectorate/
+*  danh từ
+- chế độ bảo hộ; nước bị bảo hộ
+- chức vị quan bảo quốc; thời gian nhiếp chính

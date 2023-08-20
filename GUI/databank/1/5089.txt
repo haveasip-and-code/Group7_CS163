@@ -1,3 +1,9 @@
-beet
-	@beet /bi:t/\n*  danh từ\n- (thực vật học) cây củ cải đường\n@Chuyên ngành kinh tế\n-củ cải đường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-củ cải đường
-
+beet	
+@beet /bi:t/
+*  danh từ
+- (thực vật học) cây củ cải đường
+@Chuyên ngành kinh tế
+-củ cải đường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-củ cải đường

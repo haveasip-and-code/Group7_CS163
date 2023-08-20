@@ -1,3 +1,2 @@
-shortener
-	@Chuyên ngành kinh tế\n-thiết bị làm tơi
-
+shortener	@Chuyên ngành kinh tế
+-thiết bị làm tơi

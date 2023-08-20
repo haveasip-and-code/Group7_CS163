@@ -1,3 +1,2 @@
-sourcing
-	@Chuyên ngành kinh tế\n-tìm nguồn cung ứng
-
+sourcing	@Chuyên ngành kinh tế
+-tìm nguồn cung ứng

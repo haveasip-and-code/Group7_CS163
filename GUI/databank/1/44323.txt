@@ -1,3 +1,5 @@
-provable
-	@provable /provable/\n*  tính từ\n- có thể chứng tỏ, có thể chứng minh\n@Chuyên ngành kỹ thuật\n-chứng minh được
-
+provable	@provable /provable/
+*  tính từ
+- có thể chứng tỏ, có thể chứng minh
+@Chuyên ngành kỹ thuật
+-chứng minh được

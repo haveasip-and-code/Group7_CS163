@@ -1,3 +1,13 @@
-flounce
-	@flounce /flounce/\n*  danh từ\n- sự đi hối hả\n- sự khoa tay múa chân\n*  nội động từ\n- đi hối hả\n=to flounce out of the room+ đi hối hả ra khỏi buồng\n- khoa tay múa chân\n*  danh từ\n- đường viền ren (ở váy phụ nữ)\n*  ngoại động từ\n- viền đường ren (vào váy phụ nữ)
-
+flounce	
+@flounce /flounce/
+*  danh từ
+- sự đi hối hả
+- sự khoa tay múa chân
+*  nội động từ
+- đi hối hả=to flounce out of the room
++ đi hối hả ra khỏi buồng
+- khoa tay múa chân
+*  danh từ
+- đường viền ren (ở váy phụ nữ)
+*  ngoại động từ
+- viền đường ren (vào váy phụ nữ)

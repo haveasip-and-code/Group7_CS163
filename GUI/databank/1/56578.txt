@@ -1,3 +1,6 @@
-thruway
-	@Chuyên ngành kỹ thuật\n-đường liên tục\n-đường thông\n@Lĩnh vực: giao thông & vận tải\n-đường chạy thẳng\n-đường hành lang
-
+thruway	@Chuyên ngành kỹ thuật
+-đường liên tục
+-đường thông
+@Lĩnh vực: giao thông & vận tải
+-đường chạy thẳng
+-đường hành lang

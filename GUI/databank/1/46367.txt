@@ -1,3 +1,4 @@
-refrozen
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-được tái lạnh đông\n-tái lạnh đông
-
+refrozen	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-được tái lạnh đông
+-tái lạnh đông

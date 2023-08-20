@@ -1,3 +1,13 @@
-troubleshooter
-	@troubleshooter\n* danh từ\n- thợ chữa máy\n- người dàn xếp\n@Chuyên ngành kinh tế\n-người điều giải\n-người gỡ rối\n-người hòa giải\n-người kiểm tu\n-thợ sửa chữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trình gỡ sự cố
-
+troubleshooter	@troubleshooter
+* danh từ
+- thợ chữa máy
+- người dàn xếp
+@Chuyên ngành kinh tế
+-người điều giải
+-người gỡ rối
+-người hòa giải
+-người kiểm tu
+-thợ sửa chữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-trình gỡ sự cố

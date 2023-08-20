@@ -1,3 +1,22 @@
-tint
-	@tint /tint/\n*  danh từ\n- màu nhẹ, màu sắc\n=autumn tints+ những màu úa vàng mùa thu\n- đường gạch bóng, nét chải (trên hình vẽ...)\n*  ngoại động từ\n- nhuốm màu, tô màu\n- gạch gạch, đánh bóng bằng đường gạch\n@Chuyên ngành kỹ thuật\n-độ màu\n-nét chải\n-màu sắc\n-sắc độ\n-sắc thái\n-tô màu\n-vẽ\n-vẻ\n@Lĩnh vực: xây dựng\n-bôi màu\n-đường phân gạch\n-màu vẽ\n-tạo sắc
-
+tint	@tint /tint/
+*  danh từ
+- màu nhẹ, màu sắc
+=autumn tints+ những màu úa vàng mùa thu
+- đường gạch bóng, nét chải (trên hình vẽ...)
+*  ngoại động từ
+- nhuốm màu, tô màu
+- gạch gạch, đánh bóng bằng đường gạch
+@Chuyên ngành kỹ thuật
+-độ màu
+-nét chải
+-màu sắc
+-sắc độ
+-sắc thái
+-tô màu
+-vẽ
+-vẻ
+@Lĩnh vực: xây dựng
+-bôi màu
+-đường phân gạch
+-màu vẽ
+-tạo sắc

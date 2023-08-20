@@ -1,3 +1,2 @@
-deadener
-	@deadener\n- xem deaden
-
+deadener	@deadener
+- xem deaden

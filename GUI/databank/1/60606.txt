@@ -1,3 +1,12 @@
-unsupported
-	@unsupported /' ns 'p :tid/\n*  tính từ\n- không có gì chống đỡ\n- không có chỗ dựa, không ni nưng tựa\n- (nghĩa bóng) không được ủng hộ\n@Chuyên ngành kỹ thuật\n-không tương thích\n@Lĩnh vực: hóa học & vật liệu\n-không có giá đỡ\n-không được chống đỡ\n@Lĩnh vực: cơ khí & công trình\n-không có gối đỡ
-
+unsupported	@unsupported /' ns 'p :tid/
+*  tính từ
+- không có gì chống đỡ
+- không có chỗ dựa, không ni nưng tựa
+- (nghĩa bóng) không được ủng hộ
+@Chuyên ngành kỹ thuật
+-không tương thích
+@Lĩnh vực: hóa học & vật liệu
+-không có giá đỡ
+-không được chống đỡ
+@Lĩnh vực: cơ khí & công trình
+-không có gối đỡ

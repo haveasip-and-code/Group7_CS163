@@ -1,3 +1,59 @@
-crush
-	@crush /krʌʃ/\n*  danh từ\n- sự ép, sự vắt; sự nghiến, sự đè nát\n- đám đông, chen chúc, đám đông xô đẩy chen lấn nhau\n- buổi hội họp đông đúc\n- đòn trí mạng; (quân sự) sự tiêu diệt\n- sự vò nhàu, sự vò nát\n- nước vắt (cam, chanh...)\n- (từ lóng) sự phải lòng, sự mê\n=to have a crush on someone+ phải lòng ai, mê ai\n- đường rào chỉ đủ một con vật đi (Uc)\n*  ngoại động từ\n- ép, vắt (hoa quả); nghiến, đè nát, đè bẹp\n=to crush grapes+ ép nho\n- nhồi nhét, ấn, xô đẩy\n=to crush people into a hall+ nhồi nhét người vào phòng\n- (nghĩa bóng) tiêu diệt, diệt; dẹp tan, làm tiêu tan\n=to crush one's enemy+ tiêu diệt kẻ thù\n=hope is crush ed+ hy vọng bị tiêu tan\n- vò nhàu, làm nhàu nát (quần áo, tờ giấy...)\n- uống cạn\n=to crush a drink of wine+ uống cạn cố rượu\n*  nội động từ\n- chen, chen chúc\n- nhàu nát\n!to crush down\n- tán vụn\n!to crush out\n- ép, vắt ra\n- dẹp tan, bóp chết (một cuộc nổi dậy...)\n!to crush up\n- nghiền nát\n@Chuyên ngành kinh tế\n-đập nhỏ\n-dịch ép\n-dịch vắt\n-ép\n-sự đập nhỏ\n-sự ép\n-sự vắt\n-vắt\n@Chuyên ngành kỹ thuật\n-đập nhỏ\n-đập vỡ\n-đập vụn\n-ép\n-ép vụn\n-nén\n-nghiền\n-nghiền nát\n-sập đổ\n-sự đập vụn\n-sự nghiền vụn\n-vắt (quả)\n-xay nhỏ\n@Lĩnh vực: y học\n-đè, ép\n@Lĩnh vực: vật lý\n-nén vỡ\n@Lĩnh vực: dệt may\n-nhàu
-
+crush	
+@crush /krʌʃ/
+*  danh từ
+- sự ép, sự vắt; sự nghiến, sự đè nát
+- đám đông, chen chúc, đám đông xô đẩy chen lấn nhau
+- buổi hội họp đông đúc
+- đòn trí mạng; (quân sự) sự tiêu diệt
+- sự vò nhàu, sự vò nát
+- nước vắt (cam, chanh...)
+- (từ lóng) sự phải lòng, sự mê=to have a crush on someone
++ phải lòng ai, mê ai
+- đường rào chỉ đủ một con vật đi (Uc)
+*  ngoại động từ
+- ép, vắt (hoa quả); nghiến, đè nát, đè bẹp=to crush grapes
++ ép nho
+- nhồi nhét, ấn, xô đẩy=to crush people into a hall
++ nhồi nhét người vào phòng
+- (nghĩa bóng) tiêu diệt, diệt; dẹp tan, làm tiêu tan=to crush one's enemy
++ tiêu diệt kẻ thù=hope is crush ed
++ hy vọng bị tiêu tan
+- vò nhàu, làm nhàu nát (quần áo, tờ giấy...)
+- uống cạn=to crush a drink of wine
++ uống cạn cố rượu
+*  nội động từ
+- chen, chen chúc
+- nhàu nát!to crush down
+- tán vụn!to crush out
+- ép, vắt ra
+- dẹp tan, bóp chết (một cuộc nổi dậy...)!to crush up
+- nghiền nát
+@Chuyên ngành kinh tế
+-đập nhỏ
+-dịch ép
+-dịch vắt
+-ép
+-sự đập nhỏ
+-sự ép
+-sự vắt
+-vắt
+@Chuyên ngành kỹ thuật
+-đập nhỏ
+-đập vỡ
+-đập vụn
+-ép
+-ép vụn
+-nén
+-nghiền
+-nghiền nát
+-sập đổ
+-sự đập vụn
+-sự nghiền vụn
+-vắt (quả)
+-xay nhỏ
+@Lĩnh vực: y học
+-đè, ép
+@Lĩnh vực: vật lý
+-nén vỡ
+@Lĩnh vực: dệt may
+-nhàu

@@ -1,3 +1,13 @@
-planimeter
-	@planimeter /plæ'nimitə/\n*  danh từ\n- cái đo diện tích (mặt bằng)\n@Chuyên ngành kỹ thuật\n-diện tích kế\n-máy đo diện tích\n@Lĩnh vực: xây dựng\n-máy đo diện tích (trên bản đồ)\n@Lĩnh vực: toán & tin\n-máy tính diện tích\n-máy tính tích phân\n@Lĩnh vực: điện lạnh\n-thước đo diện tích
-
+planimeter	@planimeter /plæ'nimitə/
+*  danh từ
+- cái đo diện tích (mặt bằng)
+@Chuyên ngành kỹ thuật
+-diện tích kế
+-máy đo diện tích
+@Lĩnh vực: xây dựng
+-máy đo diện tích (trên bản đồ)
+@Lĩnh vực: toán & tin
+-máy tính diện tích
+-máy tính tích phân
+@Lĩnh vực: điện lạnh
+-thước đo diện tích

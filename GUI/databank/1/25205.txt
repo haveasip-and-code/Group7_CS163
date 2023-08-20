@@ -1,3 +1,5 @@
-headrest
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-điểm tựa đầu\n-gối đỡ đầu
-
+headrest	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-điểm tựa đầu
+-gối đỡ đầu

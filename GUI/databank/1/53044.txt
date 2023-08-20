@@ -1,3 +1,4 @@
-starver
-	@starver\n* danh từ\n- người chết đói\n- kẻ bắt người khác nhịn đói
-
+starver	@starver
+* danh từ
+- người chết đói
+- kẻ bắt người khác nhịn đói

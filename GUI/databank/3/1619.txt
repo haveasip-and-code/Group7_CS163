@@ -1,3 +1,7 @@
-allure
-	@allure /ə'ljuə/\n*  danh từ\n- sức quyến rũ, sức lôi cuốn, sức cám dỗ; duyên\n*  ngoại động từ\n- quyến rũ, lôi cuốn, cám dỗ; làm say mê, làm xiêu lòng\n@Chuyên ngành kỹ thuật\n-lôi quấn
-
+allure	@allure /ə'ljuə/
+*  danh từ
+- sức quyến rũ, sức lôi cuốn, sức cám dỗ; duyên
+*  ngoại động từ
+- quyến rũ, lôi cuốn, cám dỗ; làm say mê, làm xiêu lòng
+@Chuyên ngành kỹ thuật
+-lôi quấn

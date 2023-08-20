@@ -1,3 +1,7 @@
-confocal
-	@confocal\n- (Tech) thuộc đồng/cộng tiêu, thuộc đồng tập điểm\n@Chuyên ngành kỹ thuật\n-đồng tiêu\n@Lĩnh vực: điện lạnh\n-đồng tụ
-
+confocal	
+@confocal
+- (Tech) thuộc đồng/cộng tiêu, thuộc đồng tập điểm
+@Chuyên ngành kỹ thuật
+-đồng tiêu
+@Lĩnh vực: điện lạnh
+-đồng tụ

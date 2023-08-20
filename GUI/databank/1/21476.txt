@@ -1,3 +1,24 @@
-flocculation
-	@flocculation /flocculation/\n*  danh từ\n- sự kết bông, sự lên bông\n@Chuyên ngành kỹ thuật\n-keo tụ\n@Lĩnh vực: hóa học & vật liệu\n-kết bông\n@Lĩnh vực: xây dựng\n-sự keo tụ\n@Lĩnh vực: điện lạnh\n-sự kết bông\n@Lĩnh vực: y học\n-sự lên bông\n@Chuyên ngành kỹ thuật\n-keo tụ\n@Lĩnh vực: hóa học & vật liệu\n-kết bông\n@Lĩnh vực: xây dựng\n-sự keo tụ\n@Lĩnh vực: điện lạnh\n-sự kết bông\n@Lĩnh vực: y học\n-sự lên bông
-
+flocculation	
+@flocculation /flocculation/
+*  danh từ
+- sự kết bông, sự lên bông
+@Chuyên ngành kỹ thuật
+-keo tụ
+@Lĩnh vực: hóa học & vật liệu
+-kết bông
+@Lĩnh vực: xây dựng
+-sự keo tụ
+@Lĩnh vực: điện lạnh
+-sự kết bông
+@Lĩnh vực: y học
+-sự lên bông
+@Chuyên ngành kỹ thuật
+-keo tụ
+@Lĩnh vực: hóa học & vật liệu
+-kết bông
+@Lĩnh vực: xây dựng
+-sự keo tụ
+@Lĩnh vực: điện lạnh
+-sự kết bông
+@Lĩnh vực: y học
+-sự lên bông

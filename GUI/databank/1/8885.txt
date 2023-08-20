@@ -1,3 +1,3 @@
-checkable
-	@checkable\n- xem check
-
+checkable	
+@checkable
+- xem check

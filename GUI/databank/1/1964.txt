@@ -1,3 +1,16 @@
-amplifier
-	@amplifier /'æmplifaiə/\n*  danh từ\n- máy khuếch đại, bộ khuếch đại\n=buffer amplifier+ bộ khuếch đại đệm\n=harmonic amplifier+ máy khuếch đại tần hài\n=pulse amplifier+ bộ khuếch đại xung\n=cascade amplifier+ bộ khuếch đại có tầng\n@Chuyên ngành kỹ thuật\n-bộ khuếch đại\n-máy khuếch đại\n-máy phóng thanh\n@Lĩnh vực: điện tử & viễn thông\n-âm li\n@Lĩnh vực: toán & tin\n-mạch khuếch đại
-
+amplifier	
+@amplifier /'æmplifaiə/
+*  danh từ
+- máy khuếch đại, bộ khuếch đại=buffer amplifier
++ bộ khuếch đại đệm=harmonic amplifier
++ máy khuếch đại tần hài=pulse amplifier
++ bộ khuếch đại xung=cascade amplifier
++ bộ khuếch đại có tầng
+@Chuyên ngành kỹ thuật
+-bộ khuếch đại
+-máy khuếch đại
+-máy phóng thanh
+@Lĩnh vực: điện tử & viễn thông
+-âm li
+@Lĩnh vực: toán & tin
+-mạch khuếch đại

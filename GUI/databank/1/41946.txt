@@ -1,3 +1,12 @@
-plated
-	@plated /'pleitid/\n*  tính từ\n- bọc sắt, bọc kim loại\n- mạ; mạ vàng, mạ bạc\n=plated ware+ đồ mạ vàng, đồ mạ bạc\n@Chuyên ngành kỹ thuật\n-được mạ điện\n-được mạ kim loại\n-được phủ\n-được phủ kim loại\n@Lĩnh vực: điện lạnh\n-được mạ
-
+plated	@plated /'pleitid/
+*  tính từ
+- bọc sắt, bọc kim loại
+- mạ; mạ vàng, mạ bạc
+=plated ware+ đồ mạ vàng, đồ mạ bạc
+@Chuyên ngành kỹ thuật
+-được mạ điện
+-được mạ kim loại
+-được phủ
+-được phủ kim loại
+@Lĩnh vực: điện lạnh
+-được mạ

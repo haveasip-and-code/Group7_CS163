@@ -1,3 +1,8 @@
-dividing
-	@Chuyên ngành kinh tế\n-chung hai bên\n@Chuyên ngành kỹ thuật\n-chia\n-sự chia độ\n-sự phân chia\n-sự phân vùng
-
+dividing	
+@Chuyên ngành kinh tế
+-chung hai bên
+@Chuyên ngành kỹ thuật
+-chia
+-sự chia độ
+-sự phân chia
+-sự phân vùng

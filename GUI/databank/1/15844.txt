@@ -1,3 +1,33 @@
-dish
-	@dish /diʃ/\n*  danh từ\n- đĩa (đựng thức ăn)\n- móm ăn (đựng trong đĩa)\n=a make dish+ món ăn cầu kỳ (có nhiều thứ gia giảm)\n=a standing dish+ món ăn thường ngày\n- vật hình đĩa\n- (từ cổ,nghĩa cổ) chén, tách\n=a dish of tea+ tách trà\n!a dish of gossip\n- cuộc nói chuyện gẫu\n*  ngoại động từ\n- sắp (đồ ăn) vào đĩa (để dọn cơm)\n- làm lõm xuống thành lòng đĩa\n- đánh bại được, dùng mẹo lừa được (đối phương); (chính) áp dụng chính sách đường lối của đối phương để đánh bại (đối phương)\n*  nội động từ\n- chạy chân trước khoằm vào (ngựa)\n!to dish up\n- dọn ăn, dọn cơm\n- (nghĩa bóng) trình bày (sự việc...) một cách hấp dẫn\n@Chuyên ngành kinh tế\n-chén\n-đĩa\n-hộp to\n-món ăn\n@Chuyên ngành kỹ thuật\n-ăng ten chảo\n-ăng ten vòng\n-chậu\n-dập đĩa\n-dập lòng đĩa\n-đĩa\n-vòng tay lái\n-vuốt thúc sâu
-
+dish	
+@dish /diʃ/
+*  danh từ
+- đĩa (đựng thức ăn)
+- móm ăn (đựng trong đĩa)=a make dish
++ món ăn cầu kỳ (có nhiều thứ gia giảm)=a standing dish
++ món ăn thường ngày
+- vật hình đĩa
+- (từ cổ,nghĩa cổ) chén, tách=a dish of tea
++ tách trà!a dish of gossip
+- cuộc nói chuyện gẫu
+*  ngoại động từ
+- sắp (đồ ăn) vào đĩa (để dọn cơm)
+- làm lõm xuống thành lòng đĩa
+- đánh bại được, dùng mẹo lừa được (đối phương); (chính) áp dụng chính sách đường lối của đối phương để đánh bại (đối phương)
+*  nội động từ
+- chạy chân trước khoằm vào (ngựa)!to dish up
+- dọn ăn, dọn cơm
+- (nghĩa bóng) trình bày (sự việc...) một cách hấp dẫn
+@Chuyên ngành kinh tế
+-chén
+-đĩa
+-hộp to
+-món ăn
+@Chuyên ngành kỹ thuật
+-ăng ten chảo
+-ăng ten vòng
+-chậu
+-dập đĩa
+-dập lòng đĩa
+-đĩa
+-vòng tay lái
+-vuốt thúc sâu

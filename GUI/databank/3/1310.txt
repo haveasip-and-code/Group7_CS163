@@ -1,3 +1,2 @@
-aider
-	@aider\n- xem aid
-
+aider	@aider
+- xem aid

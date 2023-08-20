@@ -1,3 +1,4 @@
-meed
-	@meed /mi:d/\n*  danh từ,  (thơ ca)\n- phần thưởng\n- phần được hưởng (trong sự khen thưởng)
-
+meed	@meed /mi:d/
+*  danh từ,  (thơ ca)
+- phần thưởng
+- phần được hưởng (trong sự khen thưởng)

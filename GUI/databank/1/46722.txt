@@ -1,3 +1,4 @@
-remortgage
-	@Chuyên ngành kinh tế\n-cầm cố lại\n-thế chấp lại\n-thế nợ lại
-
+remortgage	@Chuyên ngành kinh tế
+-cầm cố lại
+-thế chấp lại
+-thế nợ lại

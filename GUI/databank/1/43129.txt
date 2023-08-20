@@ -1,3 +1,2 @@
-predictions
-	@Chuyên ngành kỹ thuật\n-dự đoán
-
+predictions	@Chuyên ngành kỹ thuật
+-dự đoán

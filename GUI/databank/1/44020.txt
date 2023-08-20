@@ -1,3 +1,4 @@
-promulgation
-	@promulgation /promulgation/\n*  danh từ\n- sự công bố, sự ban bố, sự ban hành (luật)\n- sự truyền bá
-
+promulgation	@promulgation /promulgation/
+*  danh từ
+- sự công bố, sự ban bố, sự ban hành (luật)
+- sự truyền bá

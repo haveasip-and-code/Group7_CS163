@@ -1,3 +1,7 @@
-particularization
-	@particularization\n* danh từ\n- sự đặc biệt hoá, tính đặc thù hoá\n- sự đặc tả, sự liệt kê, sự tỉ mỉ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự chi tiết hóa
-
+particularization	@particularization
+* danh từ
+- sự đặc biệt hoá, tính đặc thù hoá
+- sự đặc tả, sự liệt kê, sự tỉ mỉ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự chi tiết hóa

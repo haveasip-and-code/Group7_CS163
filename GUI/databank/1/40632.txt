@@ -1,3 +1,7 @@
-perigon
-	@perigon\n- góc 360 0 , góc đầy\n@Chuyên ngành kỹ thuật\n-góc 360 độ\n-góc đầy\n@Lĩnh vực: toán & tin\n-góc 360, góc đầy
-
+perigon	@perigon
+- góc 360 0 , góc đầy
+@Chuyên ngành kỹ thuật
+-góc 360 độ
+-góc đầy
+@Lĩnh vực: toán & tin
+-góc 360, góc đầy

@@ -1,3 +1,11 @@
-glycoside
-	@glycoside\n* danh từ\n- glicozit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hợp chất tạo thành bằng cách thay thế nhóm hydroxyl (-OH) của một loài đường bằng một nhóm khác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-glycosit
-
+glycoside	
+@glycoside
+* danh từ
+- glicozit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hợp chất tạo thành bằng cách thay thế nhóm hydroxyl (
+-OH) của một loài đường bằng một nhóm khác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-glycosit

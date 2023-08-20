@@ -1,3 +1,32 @@
-target
-	@target /'tɑ:git/\n*  danh từ\n- bia (để bắn)\n=target practice+ sự tập bắn bia\n- mục tiêu, đích (đen & bóng)\n=selected target+ mục tiêu chọn lọc\n=target area+ vùng mục tiêu\n- (ngành đường sắt) cọc tín hiệu (cắm ở đường ghi)\n- (từ cổ,nghĩa cổ) khiên nhỏ, mộc nhỏ\n- chỉ tiêu phấn đấu\n@Chuyên ngành kinh tế\n-chỉ tiêu giá\n-mục tiêu\n-mục tiêu, chỉ tiêu\n-thuốc lá tấm\n@Chuyên ngành kỹ thuật\n-bia\n-chỉ tiêu\n-cọc cắm\n-đích\n-đối tượng\n-giá trị cuối\n-kế hoạch\n-mục tiêu\n@Lĩnh vực: điện\n-biển báo\n@Lĩnh vực: xây dựng\n-biển ngắm\n-cọc mia (trắc địa)\n-cọc ngắm\n-thanh mức\n-tín hiệu ban ngày
-
+target	@target /'tɑ:git/
+*  danh từ
+- bia (để bắn)
+=target practice+ sự tập bắn bia
+- mục tiêu, đích (đen & bóng)
+=selected target+ mục tiêu chọn lọc
+=target area+ vùng mục tiêu
+- (ngành đường sắt) cọc tín hiệu (cắm ở đường ghi)
+- (từ cổ,nghĩa cổ) khiên nhỏ, mộc nhỏ
+- chỉ tiêu phấn đấu
+@Chuyên ngành kinh tế
+-chỉ tiêu giá
+-mục tiêu
+-mục tiêu, chỉ tiêu
+-thuốc lá tấm
+@Chuyên ngành kỹ thuật
+-bia
+-chỉ tiêu
+-cọc cắm
+-đích
+-đối tượng
+-giá trị cuối
+-kế hoạch
+-mục tiêu
+@Lĩnh vực: điện
+-biển báo
+@Lĩnh vực: xây dựng
+-biển ngắm
+-cọc mia (trắc địa)
+-cọc ngắm
+-thanh mức
+-tín hiệu ban ngày

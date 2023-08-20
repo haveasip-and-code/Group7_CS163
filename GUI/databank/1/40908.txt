@@ -1,3 +1,6 @@
-pesticide
-	@pesticide /'pestisaid/\n*  danh từ\n- thuốc trừ vật hại (sâu chuột làm hại hoa màu)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuốc trừ sâu
-
+pesticide	@pesticide /'pestisaid/
+*  danh từ
+- thuốc trừ vật hại (sâu chuột làm hại hoa màu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuốc trừ sâu

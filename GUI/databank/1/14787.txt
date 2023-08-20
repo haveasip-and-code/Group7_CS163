@@ -1,3 +1,7 @@
-desired
-	@desired\n- muốn có đòi hỏi\n@Chuyên ngành kỹ thuật\n-đòi hỏi\n@Lĩnh vực: toán & tin\n-muốn có
-
+desired	
+@desired
+- muốn có đòi hỏi
+@Chuyên ngành kỹ thuật
+-đòi hỏi
+@Lĩnh vực: toán & tin
+-muốn có

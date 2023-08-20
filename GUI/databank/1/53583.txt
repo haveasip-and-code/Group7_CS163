@@ -1,3 +1,2 @@
-straights
-	@Chuyên ngành kinh tế\n-trái phiếu cố định
-
+straights	@Chuyên ngành kinh tế
+-trái phiếu cố định

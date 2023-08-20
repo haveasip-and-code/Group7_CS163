@@ -1,3 +1,47 @@
-elbow
-	@elbow /elbou/\n*  danh từ\n- khuỷu tay; khuỷu tay áo\n- góc, khuỷu (giống khuỷu tay)\n!at ssomeone's elbow\n- ở cạnh nách ai\n!to crock (lift) one's elbow\n- hay chè chén\n!out at elbows\n- sờn khuỷu, thủng khuỷu tay (áo)\n- nghèo xơ nghèo xác (người)\n!to rub elbows with someone\n- sát cánh với ai\n=to rub elbow with death+ suýt chết\n!up to the elbows in work\n- bận rộn, tối tăm mặt mũi\n*  ngoại động từ\n- thúc (bằng) khuỷu tay, hích\n=to elbow someone aside+ thúc ai ra một bên\n=to elbow one's way through the crowd+ thúc khuỷu tay đi lách qua đám đông\n=to elbow someone off (out off) something+ hích ai ra khỏi cái gì, loại ai ra khỏi cái gì\n*  nội động từ\n- lượn khúc (đường đi, sông...)\n@Chuyên ngành kỹ thuật\n-khuỷu\n-khuỷu nối\n-khuỷu nối ống\n-khuỷu ống\n-ống cút\n-ống góp\n-ống khuỷu\n-ống nhánh\n-ống nối\n@Lĩnh vực: xây dựng\n-khủy tay\n@Lĩnh vực: vật lý\n-khuỷu (tay máy)\n@Chuyên ngành kỹ thuật\n-khuỷu\n-khuỷu nối\n-khuỷu nối ống\n-khuỷu ống\n-ống cút\n-ống góp\n-ống khuỷu\n-ống nhánh\n-ống nối\n@Lĩnh vực: xây dựng\n-khủy tay\n@Lĩnh vực: vật lý\n-khuỷu (tay máy)
-
+elbow	
+@elbow /elbou/
+*  danh từ
+- khuỷu tay; khuỷu tay áo
+- góc, khuỷu (giống khuỷu tay)!at ssomeone's elbow
+- ở cạnh nách ai!to crock (lift) one's elbow
+- hay chè chén!out at elbows
+- sờn khuỷu, thủng khuỷu tay (áo)
+- nghèo xơ nghèo xác (người)!to rub elbows with someone
+- sát cánh với ai=to rub elbow with death
++ suýt chết!up to the elbows in work
+- bận rộn, tối tăm mặt mũi
+*  ngoại động từ
+- thúc (bằng) khuỷu tay, hích=to elbow someone aside
++ thúc ai ra một bên=to elbow one's way through the crowd
++ thúc khuỷu tay đi lách qua đám đông=to elbow someone off (out off) something
++ hích ai ra khỏi cái gì, loại ai ra khỏi cái gì
+*  nội động từ
+- lượn khúc (đường đi, sông...)
+@Chuyên ngành kỹ thuật
+-khuỷu
+-khuỷu nối
+-khuỷu nối ống
+-khuỷu ống
+-ống cút
+-ống góp
+-ống khuỷu
+-ống nhánh
+-ống nối
+@Lĩnh vực: xây dựng
+-khủy tay
+@Lĩnh vực: vật lý
+-khuỷu (tay máy)
+@Chuyên ngành kỹ thuật
+-khuỷu
+-khuỷu nối
+-khuỷu nối ống
+-khuỷu ống
+-ống cút
+-ống góp
+-ống khuỷu
+-ống nhánh
+-ống nối
+@Lĩnh vực: xây dựng
+-khủy tay
+@Lĩnh vực: vật lý
+-khuỷu (tay máy)

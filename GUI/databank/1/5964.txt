@@ -1,3 +1,4 @@
-blockbusting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đại bịp
-
+blockbusting	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đại bịp

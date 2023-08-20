@@ -1,3 +1,10 @@
-stringing
-	@stringing\n* danh từ\n- sự chằng buộc; ghép thành chuỗi\n@Chuyên ngành kỹ thuật\n-sự chằng\n@Lĩnh vực: xây dựng\n-sự (kéo) căng dây dẫn\n-sự treo nâng\n@Lĩnh vực: điện lạnh\n-sự căng dây (ở đường dây)
-
+stringing	@stringing
+* danh từ
+- sự chằng buộc; ghép thành chuỗi
+@Chuyên ngành kỹ thuật
+-sự chằng
+@Lĩnh vực: xây dựng
+-sự (kéo) căng dây dẫn
+-sự treo nâng
+@Lĩnh vực: điện lạnh
+-sự căng dây (ở đường dây)

@@ -1,3 +1,14 @@
-rennet
-	@rennet /'renit/\n*  danh từ\n- men dịch vị (lấy ở dạ dày bò con dùng làm cho đặc sữa khi chế biến phó mát)\n*  danh từ\n- (thực vật học) táo rennet\n@Chuyên ngành kinh tế\n-enzim đông sữa\n-món thịt nhồi bao tử\n-rennin dạ múi khế\n-sự thử độ đông đặc bằng men\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-enzym đông sữa\n-renin dạ múi khế
-
+rennet	@rennet /'renit/
+*  danh từ
+- men dịch vị (lấy ở dạ dày bò con dùng làm cho đặc sữa khi chế biến phó mát)
+*  danh từ
+- (thực vật học) táo rennet
+@Chuyên ngành kinh tế
+-enzim đông sữa
+-món thịt nhồi bao tử
+-rennin dạ múi khế
+-sự thử độ đông đặc bằng men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-enzym đông sữa
+-renin dạ múi khế

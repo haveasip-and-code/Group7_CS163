@@ -1,3 +1,4 @@
-reallocation
-	@Chuyên ngành kinh tế\n-cấp lại\n-cấp lại (vốn kinh phí)\n-sự phân phối lại
-
+reallocation	@Chuyên ngành kinh tế
+-cấp lại
+-cấp lại (vốn kinh phí)
+-sự phân phối lại

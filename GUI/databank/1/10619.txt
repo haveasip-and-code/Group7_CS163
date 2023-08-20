@@ -1,3 +1,7 @@
-compactor
-	@compactor\n- (Tech) bộ ép, bộ nén\n@Chuyên ngành kỹ thuật\n-xe lu\n@Lĩnh vực: xây dựng\n-máy lu
-
+compactor	
+@compactor
+- (Tech) bộ ép, bộ nén
+@Chuyên ngành kỹ thuật
+-xe lu
+@Lĩnh vực: xây dựng
+-máy lu

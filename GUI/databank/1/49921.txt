@@ -1,3 +1,9 @@
-sequestrate
-	@sequestrate\n* ngoại động từ\n- tạm thời tịch thu\n@Chuyên ngành kinh tế\n-người bảo quản tạm thời (tài sản có tranh chấp)\n-người thi hành lệnh tịch biên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tạm thu
-
+sequestrate	@sequestrate
+* ngoại động từ
+- tạm thời tịch thu
+@Chuyên ngành kinh tế
+-người bảo quản tạm thời (tài sản có tranh chấp)
+-người thi hành lệnh tịch biên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tạm thu

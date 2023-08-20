@@ -1,3 +1,14 @@
-muzzle
-	@muzzle /'mʌzl/\n*  danh từ\n- mõm (chó, cáo...)\n- rọ (đai) bịt mõm (chó, ngựa)\n- miệng súng, họng súng\n*  ngoại động từ\n- bịt mõm, khoá mõm (chó, ngựa...)\n- (nghĩa bóng) cấm đoán tự do ngôn luận, khoá miệng\n@Chuyên ngành kỹ thuật\n-miệng phun\n-ống phun\n-vòi phun\n@Lĩnh vực: hóa học & vật liệu\n-miệng lắp ống
-
+muzzle	@muzzle /'mʌzl/
+*  danh từ
+- mõm (chó, cáo...)
+- rọ (đai) bịt mõm (chó, ngựa)
+- miệng súng, họng súng
+*  ngoại động từ
+- bịt mõm, khoá mõm (chó, ngựa...)
+- (nghĩa bóng) cấm đoán tự do ngôn luận, khoá miệng
+@Chuyên ngành kỹ thuật
+-miệng phun
+-ống phun
+-vòi phun
+@Lĩnh vực: hóa học & vật liệu
+-miệng lắp ống

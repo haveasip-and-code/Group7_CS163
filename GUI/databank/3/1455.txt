@@ -1,3 +1,2 @@
-algal
-	@algal\n- xem alga
-
+algal	@algal
+- xem alga

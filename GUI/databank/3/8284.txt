@@ -1,3 +1,2 @@
-catechization
-	@catechization\n- xem catechize
-
+catechization	@catechization
+- xem catechize

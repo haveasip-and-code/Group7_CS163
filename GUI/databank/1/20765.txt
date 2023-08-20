@@ -1,3 +1,7 @@
-fermion
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hạt Fermi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hạt Fermi
-
+fermion	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hạt Fermi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hạt Fermi

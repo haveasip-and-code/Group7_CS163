@@ -1,3 +1,56 @@
-drink
-	@drink /driɳk/\n*  danh từ\n- đồ uống, thức uống\n=solf drinks+ đồ uống nhẹ (không có chất rượu)\n=strong drinks+ rượu mạnh\n- rượu mạnh ((cũng) strong drink)\n- hớp, ngụm; cốc, ly (rượu, nước giải khát)\n=to have a drink+ uống một cốc (rượu...)\n=to stand drinks round+ thết một chầu uống (rượu...)\n- thói rượu chè, thói nghiện rượu\n=to be on the drink+ rượu chè bê tha, uống rượu tí bỉ\n=to take to drink+ nhiễm thói rượu chè\n=to be in drink+ say rượu\n- (hàng không),  (từ lóng) biển\n*  ngoại động từ drank; drunk; (thơ ca) drunken\n- uống (rượu, nước...)\n=to drink the waters+ uống nước suối khoáng (để chữa bệnh)\n- uống cạn; (nghĩa bóng) tận hưởng; chịu đựng cho đến cùng\n=he has drunk two cups of tea+ anh ấy đã uống (cạn) hai tách trà\n=to drink the cup of joy+ tận hưởng niềm vui\n=to drink the cup of pain+ chịu đựng cho đến cùng nỗi đau đớn\n- uống hết, rượu chè phung phí hết (tiền...)\n=to drink one's wages+ uống hết tiền lương, rượu chè phung phí hết tiền lương\n- uống cho đến nỗi\n=to drink oneself drunk+ uống say luý tuý\n=to drink oneself to dealth+ uống nhiều quá đến chết mất\n=to drink oneself into debt+ uống cho đến mang công mắc nợ\n- nâng cốc chúc\n=to drink someone's health+ nâng cốc chúc sức khoẻ ai\n=to drink success to someone+ uống chúc mừng ai thành công\n- ((thường) + up,  in) hút, thấm (nước) (cây, giấy thấm...)\n*  nội động từ\n- uống\n- (+ to) nâng cốc chúc\n=to drink to somebody+ nâng cốc chúc sức khoẻ ai\n- uống rượu, uống say, nghiện rượu\n=to drink deep; to drink hard; to drink heavily; to drink like a fish+ uống luý tuý, uống rượu như hũ chìm\n!to drink away\n- rượu chè mất hết (lý trí...)\n- uống cho quên hết (nỗi sầu...)\n!to drink [someone] down\n- uống hơn (ai), tửu lượng bỏ ai (xa)\n!to drink in\n- hút vào, thấm vào\n- nghe như uống lấy, nghe say sưa; ngắm nhìn như uống lấy, ngắm nhìn say sưa\n- (thông tục) nốc (rượu) vào\n!to drink off; to drink up\n- uống một hơi, nốc thẳng một hơi\n!to drink confusion to somebody\n- (xem) confusion\n!to drink someone under the table\n- uống được nhiều rượu hơn ai, tửu lượng bỏ xa ai\n@Chuyên ngành kinh tế\n-đồ uống\n-thức uống\n-uống\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-uống
-
+drink	
+@drink /driɳk/
+*  danh từ
+- đồ uống, thức uống=solf drinks
++ đồ uống nhẹ (không có chất rượu)=strong drinks
++ rượu mạnh
+- rượu mạnh ((cũng) strong drink)
+- hớp, ngụm; cốc, ly (rượu, nước giải khát)=to have a drink
++ uống một cốc (rượu...)=to stand drinks round
++ thết một chầu uống (rượu...)
+- thói rượu chè, thói nghiện rượu=to be on the drink
++ rượu chè bê tha, uống rượu tí bỉ=to take to drink
++ nhiễm thói rượu chè=to be in drink
++ say rượu
+- (hàng không),  (từ lóng) biển
+*  ngoại động từ drank; drunk; (thơ ca) drunken
+- uống (rượu, nước...)=to drink the waters
++ uống nước suối khoáng (để chữa bệnh)
+- uống cạn; (nghĩa bóng) tận hưởng; chịu đựng cho đến cùng=he has drunk two cups of tea
++ anh ấy đã uống (cạn) hai tách trà=to drink the cup of joy
++ tận hưởng niềm vui=to drink the cup of pain
++ chịu đựng cho đến cùng nỗi đau đớn
+- uống hết, rượu chè phung phí hết (tiền...)=to drink one's wages
++ uống hết tiền lương, rượu chè phung phí hết tiền lương
+- uống cho đến nỗi=to drink oneself drunk
++ uống say luý tuý=to drink oneself to dealth
++ uống nhiều quá đến chết mất=to drink oneself into debt
++ uống cho đến mang công mắc nợ
+- nâng cốc chúc=to drink someone's health
++ nâng cốc chúc sức khoẻ ai=to drink success to someone
++ uống chúc mừng ai thành công
+- ((thường) 
++ up,  in) hút, thấm (nước) (cây, giấy thấm...)
+*  nội động từ
+- uống
+- (
++ to) nâng cốc chúc=to drink to somebody
++ nâng cốc chúc sức khoẻ ai
+- uống rượu, uống say, nghiện rượu=to drink deep; to drink hard; to drink heavily; to drink like a fish
++ uống luý tuý, uống rượu như hũ chìm!to drink away
+- rượu chè mất hết (lý trí...)
+- uống cho quên hết (nỗi sầu...)!to drink [someone] down
+- uống hơn (ai), tửu lượng bỏ ai (xa)!to drink in
+- hút vào, thấm vào
+- nghe như uống lấy, nghe say sưa; ngắm nhìn như uống lấy, ngắm nhìn say sưa
+- (thông tục) nốc (rượu) vào!to drink off; to drink up
+- uống một hơi, nốc thẳng một hơi!to drink confusion to somebody
+- (xem) confusion!to drink someone under the table
+- uống được nhiều rượu hơn ai, tửu lượng bỏ xa ai
+@Chuyên ngành kinh tế
+-đồ uống
+-thức uống
+-uống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-uống

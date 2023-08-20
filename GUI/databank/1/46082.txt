@@ -1,3 +1,11 @@
-rectifiable
-	@rectifiable /'rektifaiəbl/\n*  tính từ\n- có thể sửa chữa được; có thể sửa cho thẳng được\n- (vật lý) có thể chỉnh lưu\n- (hoá học) có thể cất lại, có thể tinh cất\n- (rađiô) có thể tách sóng\n- (toán học) cầu trường được\n=rectifiable curve+ đường cầu trường được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cầu trường được
-
+rectifiable	@rectifiable /'rektifaiəbl/
+*  tính từ
+- có thể sửa chữa được; có thể sửa cho thẳng được
+- (vật lý) có thể chỉnh lưu
+- (hoá học) có thể cất lại, có thể tinh cất
+- (rađiô) có thể tách sóng
+- (toán học) cầu trường được
+=rectifiable curve+ đường cầu trường được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cầu trường được

@@ -1,3 +1,4 @@
-him
-	@him /him/\n*  danh từ\n- nó, hắn, ông ấy, anh ấy
-
+him	
+@him /him/
+*  danh từ
+- nó, hắn, ông ấy, anh ấy

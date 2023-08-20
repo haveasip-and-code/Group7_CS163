@@ -1,3 +1,13 @@
-classifier
-	@classifier\n* danh từ\n- người phân loại\n@Chuyên ngành kinh tế\n-máy chia hạng\n-máy phân loại\n@Chuyên ngành kỹ thuật\n-người phân loại\n-máy phân loại\n@Lĩnh vực: cơ khí & công trình\n-máy phân cấp\n@Lĩnh vực: xây dựng\n-thiết bị, phân loại
-
+classifier	@classifier
+* danh từ
+- người phân loại
+@Chuyên ngành kinh tế
+-máy chia hạng
+-máy phân loại
+@Chuyên ngành kỹ thuật
+-người phân loại
+-máy phân loại
+@Lĩnh vực: cơ khí & công trình
+-máy phân cấp
+@Lĩnh vực: xây dựng
+-thiết bị, phân loại

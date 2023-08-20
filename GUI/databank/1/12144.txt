@@ -1,3 +1,12 @@
-cost
-	@cost\n- (toán kinh tế) chi phí, phí tổn\n- c. of handling stock giá bảo quản hàng tồn kho\n- c. of observation (thống kê) phí tổn quan trắc; giá thành quan sát\n- c. of ordering giá đặt hàng\n- c. of production giá thành sản xuất\n- c. of a sample phí tổn của mẫu\n- manufacturing c. giá thành sản suất\n- marginal c. chi phí giới hạn\n- prime c. giá thành sản phẩm\n- purchasing c. giá bán lẻ
-
+cost	
+@cost
+- (toán kinh tế) chi phí, phí tổn
+- c. of handling stock giá bảo quản hàng tồn kho
+- c. of observation (thống kê) phí tổn quan trắc; giá thành quan sát
+- c. of ordering giá đặt hàng
+- c. of production giá thành sản xuất
+- c. of a sample phí tổn của mẫu
+- manufacturing c. giá thành sản suất
+- marginal c. chi phí giới hạn
+- prime c. giá thành sản phẩm
+- purchasing c. giá bán lẻ

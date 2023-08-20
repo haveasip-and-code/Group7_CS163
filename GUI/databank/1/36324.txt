@@ -1,3 +1,36 @@
-narrow
-	@narrow /'nærou/\n*  tính từ\n- hẹp, chật hẹp, eo hẹp\n=a narrow strêt+ một phố hẹp\n=within narrow bounds+ trong phạm vi chật hẹp\n- hẹp hòi, nhỏ nhen\n=narrow mind+ trí óc hẹp hòi nhỏ nhen\n- kỹ lưỡng, tỉ mỉ\n=a narrow examination+ sự xem xét kỹ lưỡng\n!to have a narrow escape\n- (xem) escape\n!to have a narrow squeak (shave)\n- (thông tục) may mà thoát được, may mà tránh được\n!narrow victory\n- thắng lợi đạt được một cách khó khăn; sự thắng chật vật\n!narrow majority\n- đa số ít ỏi (số phiếu trong cuộc bầu cử)\n!the narrow bed (home, house)\n- nấm mồ\n*  danh từ,  (thường) số nhiều\n- khúc sông hẹp; đoạn đường phố hẹp; hẽm núi; cửa biển hẹp, cửa sông hẹp\n*  động từ\n- thu hẹp, làm hẹp lại, co lại, rút lại, thành hẹp hòi\n@Chuyên ngành kỹ thuật\n-đèo\n-hẻm núi\n-hẹp\n-khúc sông hẹp\n-thung lũng hẹp\n@Lĩnh vực: xây dựng\n-cửa sông hẹp\n@Lĩnh vực: hóa học & vật liệu\n-khoảng hẹp\n@Lĩnh vực: cơ khí & công trình\n-thau\n-thu hẹp
-
+narrow	@narrow /'nærou/
+*  tính từ
+- hẹp, chật hẹp, eo hẹp
+=a narrow strêt+ một phố hẹp
+=within narrow bounds+ trong phạm vi chật hẹp
+- hẹp hòi, nhỏ nhen
+=narrow mind+ trí óc hẹp hòi nhỏ nhen
+- kỹ lưỡng, tỉ mỉ
+=a narrow examination+ sự xem xét kỹ lưỡng
+!to have a narrow escape
+- (xem) escape
+!to have a narrow squeak (shave)
+- (thông tục) may mà thoát được, may mà tránh được
+!narrow victory
+- thắng lợi đạt được một cách khó khăn; sự thắng chật vật
+!narrow majority
+- đa số ít ỏi (số phiếu trong cuộc bầu cử)
+!the narrow bed (home, house)
+- nấm mồ
+*  danh từ,  (thường) số nhiều
+- khúc sông hẹp; đoạn đường phố hẹp; hẽm núi; cửa biển hẹp, cửa sông hẹp
+*  động từ
+- thu hẹp, làm hẹp lại, co lại, rút lại, thành hẹp hòi
+@Chuyên ngành kỹ thuật
+-đèo
+-hẻm núi
+-hẹp
+-khúc sông hẹp
+-thung lũng hẹp
+@Lĩnh vực: xây dựng
+-cửa sông hẹp
+@Lĩnh vực: hóa học & vật liệu
+-khoảng hẹp
+@Lĩnh vực: cơ khí & công trình
+-thau
+-thu hẹp

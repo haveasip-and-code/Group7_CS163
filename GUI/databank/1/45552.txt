@@ -1,3 +1,7 @@
-ranging
-	@Chuyên ngành kỹ thuật\n-phép đo khoảng cách\n-sự định cự ly\n-sự đo khoảng cách\n-sự đo xa\n@Lĩnh vực: điện lạnh\n-sự định tầm
-
+ranging	@Chuyên ngành kỹ thuật
+-phép đo khoảng cách
+-sự định cự ly
+-sự đo khoảng cách
+-sự đo xa
+@Lĩnh vực: điện lạnh
+-sự định tầm

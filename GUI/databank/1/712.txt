@@ -1,3 +1,9 @@
-addressee
-	@addressee /,ædre'si:/\n*  danh từ\n- người nhận (thư...)\n@Chuyên ngành kinh tế\n-người nhận điện\n-người nhận thư\n@Chuyên ngành kỹ thuật\n-người nhận
-
+addressee	
+@addressee /,ædre'si:/
+*  danh từ
+- người nhận (thư...)
+@Chuyên ngành kinh tế
+-người nhận điện
+-người nhận thư
+@Chuyên ngành kỹ thuật
+-người nhận

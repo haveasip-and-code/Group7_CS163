@@ -1,3 +1,2 @@
-prefacer
-	@prefacer\n- xem preface
-
+prefacer	@prefacer
+- xem preface

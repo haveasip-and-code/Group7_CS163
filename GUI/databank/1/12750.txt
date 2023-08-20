@@ -1,3 +1,10 @@
-crossbar
-	@Chuyên ngành kỹ thuật\n-đồ gá kẹp\n-giằng gió\n@Lĩnh vực: xây dựng\n-dầm đỉnh xà nóc\n-dầm nóc xà nóc\n-xà ngang\n@Lĩnh vực: giao thông & vận tải\n-thanh tà vẹt
-
+crossbar	
+@Chuyên ngành kỹ thuật
+-đồ gá kẹp
+-giằng gió
+@Lĩnh vực: xây dựng
+-dầm đỉnh xà nóc
+-dầm nóc xà nóc
+-xà ngang
+@Lĩnh vực: giao thông & vận tải
+-thanh tà vẹt

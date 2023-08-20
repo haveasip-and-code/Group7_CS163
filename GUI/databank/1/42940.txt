@@ -1,3 +1,2 @@
-prancer
-	@prancer\n- xem prance
-
+prancer	@prancer
+- xem prance

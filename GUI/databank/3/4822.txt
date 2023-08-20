@@ -1,3 +1,2 @@
-basher
-	@basher\n- xem bash
-
+basher	@basher
+- xem bash

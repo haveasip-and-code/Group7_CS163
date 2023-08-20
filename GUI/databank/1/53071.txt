@@ -1,3 +1,5 @@
-statically
-	@statically\n- một cách tĩnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-một cách tĩnh
-
+statically	@statically
+- một cách tĩnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-một cách tĩnh

@@ -1,3 +1,25 @@
-revetment
-	@revetment /ri'vetmənt/\n*  danh từ\n- lớp vữa (trát lên tường); lớp đá xây phủ ngoài (công sự, bờ đê...)\n@Chuyên ngành kỹ thuật\n-áo\n-áo đường\n-lớp bảo vệ\n-lớp lát\n-lớp ốp\n-lớp ốp mặt\n-lớp ốp tường\n-lớp phủ ngoài\n-lớp phủ taluy\n-tấm bọc\n-tấm lát\n-tường chắn\n-tường chắn đất\n-tường đỡ\n-tường hồi\n-vỏ bọc\n@Lĩnh vực: xây dựng\n-lớp ốp (bờ)\n-lớp ốp mặt (nhà)\n-sự ốp tường\n-tường chắn đá
-
+revetment	@revetment /ri'vetmənt/
+*  danh từ
+- lớp vữa (trát lên tường); lớp đá xây phủ ngoài (công sự, bờ đê...)
+@Chuyên ngành kỹ thuật
+-áo
+-áo đường
+-lớp bảo vệ
+-lớp lát
+-lớp ốp
+-lớp ốp mặt
+-lớp ốp tường
+-lớp phủ ngoài
+-lớp phủ taluy
+-tấm bọc
+-tấm lát
+-tường chắn
+-tường chắn đất
+-tường đỡ
+-tường hồi
+-vỏ bọc
+@Lĩnh vực: xây dựng
+-lớp ốp (bờ)
+-lớp ốp mặt (nhà)
+-sự ốp tường
+-tường chắn đá

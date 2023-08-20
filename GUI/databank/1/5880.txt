@@ -1,3 +1,30 @@
-bleed
-	@bleed /bli:d/\n*  (bất qui tắc) động từ bled\n- chảy máu, mất máu\n- rỉ nhựa (cây cối)\n- đổ máu, hy sinh\n=to bleed for one's country+ hy sinh cho tổ quốc\n- (y học) lấy máu (để thử)\n- bòn rút, ((nghĩa bóng)) hút máu hút mủ\n- dốc túi, xuỳ tiền ra; bị bòn rút\n- (nghĩa bóng) thương xót, đau đớn\n!to bleed white\n- (xem) white\n@Chuyên ngành kinh tế\n-tháo ra\n-trích máu\n-xả ra\n@Chuyên ngành kỹ thuật\n-dây mực\n-mất màu\n-miệng phun\n-ra ra ngoài lề\n-rỉ nhựa\n-tháo nước\n-xả\n@Lĩnh vực: y học\n-chảy máu\n@Lĩnh vực: ô tô\n-xả gió\n@Lĩnh vực: cơ khí & công trình\n-xả hơi
-
+bleed	
+@bleed /bli:d/
+*  (bất qui tắc) động từ bled
+- chảy máu, mất máu
+- rỉ nhựa (cây cối)
+- đổ máu, hy sinh=to bleed for one's country
++ hy sinh cho tổ quốc
+- (y học) lấy máu (để thử)
+- bòn rút, ((nghĩa bóng)) hút máu hút mủ
+- dốc túi, xuỳ tiền ra; bị bòn rút
+- (nghĩa bóng) thương xót, đau đớn!to bleed white
+- (xem) white
+@Chuyên ngành kinh tế
+-tháo ra
+-trích máu
+-xả ra
+@Chuyên ngành kỹ thuật
+-dây mực
+-mất màu
+-miệng phun
+-ra ra ngoài lề
+-rỉ nhựa
+-tháo nước
+-xả
+@Lĩnh vực: y học
+-chảy máu
+@Lĩnh vực: ô tô
+-xả gió
+@Lĩnh vực: cơ khí & công trình
+-xả hơi

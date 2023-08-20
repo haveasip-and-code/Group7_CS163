@@ -1,3 +1,25 @@
-voucher
-	@voucher /'vautʃə/\n*  danh từ\n- (pháp lý) người bảo đảm\n- (tài chính) chứng chỉ, giấy chứng thực; biên lai\n- vé tạm (phát cho người xem muốn ra ngoài) (ở nhà hát, rạp chiếu bóng)\n@Chuyên ngành kinh tế\n-biên lai\n-biên lai thu tiền\n-biên nhận\n-chứng kiện\n-chứng thư\n-chứng từ (kế toán)\n-giấy chứng minh\n-giấy chứng thực\n-giấy tờ chứng minh\n-người bảo chứng\n-phiếu quà tặng\n-phiếu thu\n@Chuyên ngành kỹ thuật\n-biên lai\n-giấy chứng nhận\n@Lĩnh vực: điện tử & viễn thông\n-giấy chứng thực\n@Lĩnh vực: điện\n-phiếu thu
-
+voucher	@voucher /'vautʃə/
+*  danh từ
+- (pháp lý) người bảo đảm
+- (tài chính) chứng chỉ, giấy chứng thực; biên lai
+- vé tạm (phát cho người xem muốn ra ngoài) (ở nhà hát, rạp chiếu bóng)
+@Chuyên ngành kinh tế
+-biên lai
+-biên lai thu tiền
+-biên nhận
+-chứng kiện
+-chứng thư
+-chứng từ (kế toán)
+-giấy chứng minh
+-giấy chứng thực
+-giấy tờ chứng minh
+-người bảo chứng
+-phiếu quà tặng
+-phiếu thu
+@Chuyên ngành kỹ thuật
+-biên lai
+-giấy chứng nhận
+@Lĩnh vực: điện tử & viễn thông
+-giấy chứng thực
+@Lĩnh vực: điện
+-phiếu thu

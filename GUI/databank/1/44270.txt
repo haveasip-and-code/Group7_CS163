@@ -1,3 +1,7 @@
-prothesis
-	@prothesis /prothesis/\n*  danh từ\n- (tôn giáo) bàn để đồ lễ\n- (ngôn ngữ học) (như) prosthesis\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bàn để đồ lễ
-
+prothesis	@prothesis /prothesis/
+*  danh từ
+- (tôn giáo) bàn để đồ lễ
+- (ngôn ngữ học) (như) prosthesis
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bàn để đồ lễ

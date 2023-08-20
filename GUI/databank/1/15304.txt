@@ -1,3 +1,5 @@
-differentiable
-	@Chuyên ngành kỹ thuật\n-khả vi\n@Lĩnh vực: điện lạnh\n-vi phân được
-
+differentiable	
+@Chuyên ngành kỹ thuật
+-khả vi
+@Lĩnh vực: điện lạnh
+-vi phân được

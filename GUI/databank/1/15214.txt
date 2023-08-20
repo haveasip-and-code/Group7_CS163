@@ -1,3 +1,4 @@
-diazotize
-	@diazotize\n* ngoại động từ\n- điazo hoá
-
+diazotize	
+@diazotize
+* ngoại động từ
+- điazo hoá

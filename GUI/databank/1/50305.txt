@@ -1,3 +1,13 @@
-shelve
-	@shelve /ʃelv/\n*  ngoại động từ\n- xếp (sách) vào ngăn\n- (nghĩa bóng) cho (một kế hoạch) vào ngăn kéo, bỏ xó\n- thải (người làm)\n- đóng ngăn (cho tủ)\n*  nội động từ\n- dốc thoai thoải\n@Chuyên ngành kinh tế\n-bảo quản trên các hệ\n-xếp lên bệ\n@Chuyên ngành kỹ thuật\n-dốc thoải
-
+shelve	@shelve /ʃelv/
+*  ngoại động từ
+- xếp (sách) vào ngăn
+- (nghĩa bóng) cho (một kế hoạch) vào ngăn kéo, bỏ xó
+- thải (người làm)
+- đóng ngăn (cho tủ)
+*  nội động từ
+- dốc thoai thoải
+@Chuyên ngành kinh tế
+-bảo quản trên các hệ
+-xếp lên bệ
+@Chuyên ngành kỹ thuật
+-dốc thoải

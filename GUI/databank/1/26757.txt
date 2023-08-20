@@ -1,3 +1,8 @@
-hyphenate
-	@hyphenate /'haifən/\n*  danh từ\n- dấu nối\n- quâng ngắt (giữa hai âm, khi nói)\n*  ngoại động từ+ (hyphenate) /'haifəneit/\n- gạch dấu nối (trong từ ghép); nối (hai từ) bằng dấu nối
-
+hyphenate	
+@hyphenate /'haifən/
+*  danh từ
+- dấu nối
+- quâng ngắt (giữa hai âm, khi nói)
+*  ngoại động từ
++ (hyphenate) /'haifəneit/
+- gạch dấu nối (trong từ ghép); nối (hai từ) bằng dấu nối

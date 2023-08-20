@@ -1,3 +1,20 @@
-jitter
-	@jitter /'dʤitə/\n*  nội động từ (từ lóng)\n- bồn chồn, lo sợ; hốt hoảng kinh hâi; hành động hốt hoảng\n@Chuyên ngành kỹ thuật\n-sự biến động\n-sự chập chờn\n-sự rung\n-tần số\n@Lĩnh vực: toán & tin\n-chập chờn\n@Lĩnh vực: đo lường & điều khiển\n-độ dài xung\n@Lĩnh vực: điện lạnh\n-méo chập chờn\n-méo rung\n@Lĩnh vực: hóa học & vật liệu\n-sự lung lay\n@Lĩnh vực: xây dựng\n-xung thế
-
+jitter	
+@jitter /'dʤitə/
+*  nội động từ (từ lóng)
+- bồn chồn, lo sợ; hốt hoảng kinh hâi; hành động hốt hoảng
+@Chuyên ngành kỹ thuật
+-sự biến động
+-sự chập chờn
+-sự rung
+-tần số
+@Lĩnh vực: toán & tin
+-chập chờn
+@Lĩnh vực: đo lường & điều khiển
+-độ dài xung
+@Lĩnh vực: điện lạnh
+-méo chập chờn
+-méo rung
+@Lĩnh vực: hóa học & vật liệu
+-sự lung lay
+@Lĩnh vực: xây dựng
+-xung thế

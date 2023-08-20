@@ -1,3 +1,30 @@
-van
-	@van /væn/\n*  danh từ\n- (quân sự) tiền đội, quân tiên phong\n- những người đi tiên phong, những người lãnh đạo (một phong trào); địa vị hàng đầu\n=men in the van of the movement+ những người đi tiên phong trong phong trào\n=in the van of nations fighting for independence+ ở hàng đầu trong các nước đang đấu tranh giành độc lập\n*  danh từ\n- xe hành lý, xe tải\n- (ngành đường sắt) toa hành lý, toa hàng ((cũng) luggage van)\n*  ngoại động từ\n- chuyên chở bằng xe tải\n*  danh từ\n- (từ cổ,nghĩa cổ) máy quạt thóc\n- (từ cổ,nghĩa cổ); (thơ ca) cánh chim\n*  ngoại động từ\n- đãi (quặng)\n@Chuyên ngành kinh tế\n-côngtenơ\n-toa chở hàng (dùng để chở hành lý, thư từ, hàng hóa)\n-toa xe lửa có mui\n-xe tải lớn có mui\n@Chuyên ngành kỹ thuật\n-xe tải nhỏ\n@Lĩnh vực: giao thông & vận tải\n-toa cung ứng\n-toa trở hàng\n@Lĩnh vực: ô tô\n-xe tải (chuyên chở hành lý hoặc người)\n-xe tải giao hàng\n-xe thùng
-
+van	@van /væn/
+*  danh từ
+- (quân sự) tiền đội, quân tiên phong
+- những người đi tiên phong, những người lãnh đạo (một phong trào); địa vị hàng đầu
+=men in the van of the movement+ những người đi tiên phong trong phong trào
+=in the van of nations fighting for independence+ ở hàng đầu trong các nước đang đấu tranh giành độc lập
+*  danh từ
+- xe hành lý, xe tải
+- (ngành đường sắt) toa hành lý, toa hàng ((cũng) luggage van)
+*  ngoại động từ
+- chuyên chở bằng xe tải
+*  danh từ
+- (từ cổ,nghĩa cổ) máy quạt thóc
+- (từ cổ,nghĩa cổ); (thơ ca) cánh chim
+*  ngoại động từ
+- đãi (quặng)
+@Chuyên ngành kinh tế
+-côngtenơ
+-toa chở hàng (dùng để chở hành lý, thư từ, hàng hóa)
+-toa xe lửa có mui
+-xe tải lớn có mui
+@Chuyên ngành kỹ thuật
+-xe tải nhỏ
+@Lĩnh vực: giao thông & vận tải
+-toa cung ứng
+-toa trở hàng
+@Lĩnh vực: ô tô
+-xe tải (chuyên chở hành lý hoặc người)
+-xe tải giao hàng
+-xe thùng

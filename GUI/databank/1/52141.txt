@@ -1,3 +1,14 @@
-sparking
-	@sparking\n* danh từ\n- sự loé lửa; phát ra tia lửa\n@Chuyên ngành kỹ thuật\n-sự đánh lửa\n-sự mồi lửa\n-sự phóng hồ quang\n-sự toé lửa\n-sự yếu nguồn\n@Lĩnh vực: hóa học & vật liệu\n-sự bật tia điện\n@Lĩnh vực: cơ khí & công trình\n-sự châm lửa\n-sự đánh tia lửa
-
+sparking	@sparking
+* danh từ
+- sự loé lửa; phát ra tia lửa
+@Chuyên ngành kỹ thuật
+-sự đánh lửa
+-sự mồi lửa
+-sự phóng hồ quang
+-sự toé lửa
+-sự yếu nguồn
+@Lĩnh vực: hóa học & vật liệu
+-sự bật tia điện
+@Lĩnh vực: cơ khí & công trình
+-sự châm lửa
+-sự đánh tia lửa

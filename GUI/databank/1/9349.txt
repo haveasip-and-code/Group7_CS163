@@ -1,3 +1,18 @@
-church
-	@church /tʃə:tʃ/\n*  danh từ\n- nhà thờ\n- buổi lễ (ở nhà thờ)\n=what time does church begin?+ buổi lễ bắt đầu lúc nào?\n- Church giáo hội; giáo phái\n!the Catholic Church\n- giáo phái Thiên chúa\n!as poor as a church mouse\n- nghèo xơ nghèo xác\n!to go into the church\n- đi tu\n!to go to church\n- đi nhà thờ, đi lễ (nhà thờ)\n- lấy vợ, lấy chồng\n*  ngoại động từ\n- đưa (người đàn bà) đến nhà thờ chịu lễ giải cữ\n@Chuyên ngành kỹ thuật\n-nhà thờ\n@Lĩnh vực: xây dựng\n-giáo đường
-
+church	
+@church /tʃə:tʃ/
+*  danh từ
+- nhà thờ
+- buổi lễ (ở nhà thờ)=what time does church begin?
++ buổi lễ bắt đầu lúc nào?
+- Church giáo hội; giáo phái!the Catholic Church
+- giáo phái Thiên chúa!as poor as a church mouse
+- nghèo xơ nghèo xác!to go into the church
+- đi tu!to go to church
+- đi nhà thờ, đi lễ (nhà thờ)
+- lấy vợ, lấy chồng
+*  ngoại động từ
+- đưa (người đàn bà) đến nhà thờ chịu lễ giải cữ
+@Chuyên ngành kỹ thuật
+-nhà thờ
+@Lĩnh vực: xây dựng
+-giáo đường

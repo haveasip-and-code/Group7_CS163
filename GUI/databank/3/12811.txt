@@ -1,3 +1,4 @@
-crud
-	@crud\n* danh từ\n- đồ thừa cần tống khứ\n- kẻ gây khó chịu
-
+crud	@crud
+* danh từ
+- đồ thừa cần tống khứ
+- kẻ gây khó chịu

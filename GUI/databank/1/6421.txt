@@ -1,3 +1,4 @@
-bottling
-	@Chuyên ngành kinh tế\n-sự chiết chai\n-vô lọ
-
+bottling	
+@Chuyên ngành kinh tế
+-sự chiết chai
+-vô lọ

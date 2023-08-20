@@ -1,3 +1,4 @@
-weighed
-	@Chuyên ngành kỹ thuật\n-sức nặng\n@Lĩnh vực: điện lạnh\n-được cân
-
+weighed	@Chuyên ngành kỹ thuật
+-sức nặng
+@Lĩnh vực: điện lạnh
+-được cân

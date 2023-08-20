@@ -1,3 +1,5 @@
-timbre
-	@timbre /te:mbr/\n*  danh từ\n- (âm nhạc) âm sắc\n@Chuyên ngành kỹ thuật\n-âm sắc
-
+timbre	@timbre /te:mbr/
+*  danh từ
+- (âm nhạc) âm sắc
+@Chuyên ngành kỹ thuật
+-âm sắc

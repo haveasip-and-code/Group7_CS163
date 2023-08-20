@@ -1,3 +1,10 @@
-statistic
-	@statistic\n- (thống kê) thống kê\n- auxiliary s. thống kê\n- chi square s. thống kê binh phương\n- classification s. thống kê để phân loại\n- distribution-free s. thống kê phi tham số\n- inefficient s. thống kê vô hiệu\n- sufficient s. thống kê đủ\n- systematic s. thống kê hệ thống\n- test s. thống kê kiểm định
-
+statistic	@statistic
+- (thống kê) thống kê
+- auxiliary s. thống kê
+- chi square s. thống kê binh phương
+- classification s. thống kê để phân loại
+- distribution-free s. thống kê phi tham số
+- inefficient s. thống kê vô hiệu
+- sufficient s. thống kê đủ
+- systematic s. thống kê hệ thống
+- test s. thống kê kiểm định

@@ -1,3 +1,19 @@
-distress
-	@distress /dis'tres/\n*  danh từ\n- nỗi đau buồn, nỗi đau khổ, nỗi đau đớn\n- cảnh khốn cùng, cảnh túng quẫn, cảnh gieo neo\n- tai hoạ, cảnh hiểm nghèo, cảnh hiểm nguy\n=a signal of distress+ tín hiệu báo lâm nguy\n- tình trạng kiệt sức, tình trạng mệt lả, tình trạng mệt đứt hơi\n- (pháp lý) sự tịch biên\n*  ngoại động từ\n- làm đau buồn, làm đau khổ, làm đau đớn\n- làm lo âu, làm lo lắng\n- bắt chịu gian nan, bắt chịu khốn khổ\n- làm kiệt sức\n@Chuyên ngành kinh tế\n-cảnh hiểm nghèo\n-sự tịch biên\n-tai họa\n-tai nạn
-
+distress	
+@distress /dis'tres/
+*  danh từ
+- nỗi đau buồn, nỗi đau khổ, nỗi đau đớn
+- cảnh khốn cùng, cảnh túng quẫn, cảnh gieo neo
+- tai hoạ, cảnh hiểm nghèo, cảnh hiểm nguy=a signal of distress
++ tín hiệu báo lâm nguy
+- tình trạng kiệt sức, tình trạng mệt lả, tình trạng mệt đứt hơi
+- (pháp lý) sự tịch biên
+*  ngoại động từ
+- làm đau buồn, làm đau khổ, làm đau đớn
+- làm lo âu, làm lo lắng
+- bắt chịu gian nan, bắt chịu khốn khổ
+- làm kiệt sức
+@Chuyên ngành kinh tế
+-cảnh hiểm nghèo
+-sự tịch biên
+-tai họa
+-tai nạn

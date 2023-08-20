@@ -1,3 +1,5 @@
-replate
-	@replate\n* động từ\n- thay đổi bản in một trang báo (để đưa tin mới)\n* danh từ\n- sự thay đổi bản in một trang báo (để đưa tin mới)
-
+replate	@replate
+* động từ
+- thay đổi bản in một trang báo (để đưa tin mới)
+* danh từ
+- sự thay đổi bản in một trang báo (để đưa tin mới)

@@ -1,3 +1,8 @@
-creamery
-	@creamery /'kri:mi/\n*  danh từ\n- xưởng sản xuất bơ, phó mát, kem\n- hiệu bán sữa bơ, kem\n@Chuyên ngành kinh tế\n-cửa hàng bán kem\n-xưởng sản xuất kem
-
+creamery	
+@creamery /'kri:mi/
+*  danh từ
+- xưởng sản xuất bơ, phó mát, kem
+- hiệu bán sữa bơ, kem
+@Chuyên ngành kinh tế
+-cửa hàng bán kem
+-xưởng sản xuất kem

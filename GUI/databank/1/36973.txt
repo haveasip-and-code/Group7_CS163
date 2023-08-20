@@ -1,3 +1,3 @@
-nonporous
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không xốp
-
+nonporous	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không xốp

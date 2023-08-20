@@ -1,3 +1,7 @@
-delayed
-	@delayed\n- bị chậm\n@Chuyên ngành kỹ thuật\n-làm trễ\n@Lĩnh vực: toán & tin\n-bị chậm
-
+delayed	
+@delayed
+- bị chậm
+@Chuyên ngành kỹ thuật
+-làm trễ
+@Lĩnh vực: toán & tin
+-bị chậm

@@ -1,3 +1,8 @@
-presetting
-	@presetting\n* danh từ\n- sự preset\n@Chuyên ngành kinh tế\n-sự đông đặc sơ bộ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự thiết lập trước
-
+presetting	@presetting
+* danh từ
+- sự preset
+@Chuyên ngành kinh tế
+-sự đông đặc sơ bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự thiết lập trước
