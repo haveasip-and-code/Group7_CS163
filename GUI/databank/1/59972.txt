@@ -1,3 +1,10 @@
-unloader
-	@unloader\n- xem unload\n@Chuyên ngành kỹ thuật\n-máy dỡ hàng\n@Lĩnh vực: xây dựng\n-điều áp\n-máy dỡ tải\n-thiết bị dỡ hàng\n-thiết bị dỡ tải\n-thiết bị hạ áp
-
+unloader	@unloader
+- xem unload
+@Chuyên ngành kỹ thuật
+-máy dỡ hàng
+@Lĩnh vực: xây dựng
+-điều áp
+-máy dỡ tải
+-thiết bị dỡ hàng
+-thiết bị dỡ tải
+-thiết bị hạ áp

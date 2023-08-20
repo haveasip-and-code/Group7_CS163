@@ -1,3 +1,10 @@
-rights
-	@Chuyên ngành kinh tế\n-các quyền\n-các quyền lợi\n-quyền công dân\n-quyền nhận mua cổ phần mới\n-thứ tự\n-thực huống\n-thực trạng\n@Chuyên ngành kỹ thuật\n-quyền
-
+rights	@Chuyên ngành kinh tế
+-các quyền
+-các quyền lợi
+-quyền công dân
+-quyền nhận mua cổ phần mới
+-thứ tự
+-thực huống
+-thực trạng
+@Chuyên ngành kỹ thuật
+-quyền

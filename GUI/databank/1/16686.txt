@@ -1,3 +1,5 @@
-dragger
-	@Chuyên ngành kỹ thuật\n-băng cào\n-máng cào\n-tàu hút bùn
-
+dragger	
+@Chuyên ngành kỹ thuật
+-băng cào
+-máng cào
+-tàu hút bùn

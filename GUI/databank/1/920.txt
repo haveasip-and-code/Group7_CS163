@@ -1,3 +1,4 @@
-advective
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bình lưu
-
+advective	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bình lưu

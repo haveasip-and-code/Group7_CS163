@@ -1,3 +1,21 @@
-spillage
-	@spillage\n* danh từ\n- sự đổ ra; lượng bị đổ ra\n@Chuyên ngành kinh tế\n-sự hao hụt\n-sự phun\n-sự rò\n-sự vẩy\n@Chuyên ngành kỹ thuật\n-đk (sự) tràn (dầu)\n-quá tải\n-rác bẩn\n-sự đổ tràn\n-trần\n@Lĩnh vực: xây dựng\n-sự bắn toé (bùn, nước...)\n@Lĩnh vực: cơ khí & công trình\n-sự chảy rò\n-vết đánh toé (kim loại)\n@Lĩnh vực: hóa học & vật liệu\n-sự làm tràn
-
+spillage	@spillage
+* danh từ
+- sự đổ ra; lượng bị đổ ra
+@Chuyên ngành kinh tế
+-sự hao hụt
+-sự phun
+-sự rò
+-sự vẩy
+@Chuyên ngành kỹ thuật
+-đk (sự) tràn (dầu)
+-quá tải
+-rác bẩn
+-sự đổ tràn
+-trần
+@Lĩnh vực: xây dựng
+-sự bắn toé (bùn, nước...)
+@Lĩnh vực: cơ khí & công trình
+-sự chảy rò
+-vết đánh toé (kim loại)
+@Lĩnh vực: hóa học & vật liệu
+-sự làm tràn

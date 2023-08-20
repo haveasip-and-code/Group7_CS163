@@ -1,3 +1,5 @@
-rewire
-	@rewire\n* ngoại động từ\n- mắc lại dây điện của (một toà nhà )\n@Chuyên ngành kỹ thuật\n-đi lại dây
-
+rewire	@rewire
+* ngoại động từ
+- mắc lại dây điện của (một toà nhà )
+@Chuyên ngành kỹ thuật
+-đi lại dây

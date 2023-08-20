@@ -1,3 +1,9 @@
-cedilla
-	@cedilla /si'dilə/\n*  danh từ\n- dấu móc dưới (dấu chính tả)\n@Chuyên ngành kinh tế\n-dấu móc dưới\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dấu phẩy (, )
-
+cedilla	
+@cedilla /si'dilə/
+*  danh từ
+- dấu móc dưới (dấu chính tả)
+@Chuyên ngành kinh tế
+-dấu móc dưới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dấu phẩy (, )

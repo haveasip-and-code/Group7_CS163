@@ -1,3 +1,8 @@
-dextran
-	@dextran\n* danh từ\n- (hoá học) đestran\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đextran\n@Lĩnh vực: y học\n-một loại carbohydrate
-
+dextran	@dextran
+* danh từ
+- (hoá học) đestran
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đextran
+@Lĩnh vực: y học
+-một loại carbohydrate

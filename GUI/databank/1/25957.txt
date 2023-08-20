@@ -1,3 +1,49 @@
-hole
-	@hole /'houl/\n*  danh từ\n- lỗ, lỗ thủng; lỗ trống; lỗ khoan\n- lỗ đáo; lỗ đặt bóng (trong một số trò chơi)\n- chỗ sâu, chỗ trũng (ở dòng suối); hố\n- hang (chuột, chồn...)\n- túp lều tồi tàn, nhà ổ chuột\n- (thể dục,thể thao) điểm thắng (khi đánh được quả gôn từ lỗ nọ sang lỗ kia)\n- (hàng không) lỗ trống (trong không khí)\n- (kỹ thuật) rỗ kim, rỗ tổ ong\n- khuyết điểm; thiếu sót, lỗ hổng (bóng)\n=we found holes in his argument+ trong lý lẽ của anh ta chúng tôi thấy có những lỗ hổng (thiếu sót)\n- (từ lóng) tình thế khó xử, hoàn cảnh lúng túng\n=to out somebody in a hole+ đẩy ai vào một tình thế khó xử\n=to be in a devil of a hole+ ở trong một tình thế hết sức lúng túng khó khăn\n!a hole in one's coast\n- (nghĩa bóng) vết nhơ đối với thanh danh của mình\n=a man with a hole in his coat+ người mà thanh danh không phải hoàn toàn không có vết\n!to make a hole in\n- (nghĩa bóng) gây một chỗ trống lớn (trong ngân quỹ...)\n- lấy ra một phần lớn (cái hì...)\n!to pick holes in\n- tìm khuyết điểm, bới lông tìm vết\n!a round peg in a square hole\n!a square peg in a round hole\n- nồi tròn vung méo, người đặt không đúng chỗ, người bố trí không thích hợp với công tác\n*  ngoại động từ\n- đào lỗ, đục lỗ; chọc thủng, làm thủng\n- (thể dục,thể thao) để vào lỗ, đánh vào lỗ\n- đào (hầm), khoan (giếng)\n*  nội động từ\n- thủng\n- (thể dục,thể thao) đánh bóng vào lỗ (đánh gôn)\n- (ngành mỏ) đào hầm thông (từ hầm này sang hầm khác)\n- nấp trốn trong hang (thú vật)\n@Chuyên ngành kỹ thuật\n-cái lỗ\n-đào lỗ\n-đục lỗ\n-giếng khoan\n-hầm lò nhỏ\n-hố\n-hốc\n-khoan lỗ\n-khoan lỗ mìn\n-khoét lỗ\n-lỗ\n-lỗ khoan\n-lô mìn\n-lỗ mìn\n-lỗ thủng\n@Lĩnh vực: vật lý\n-ống ngắm
-
+hole	
+@hole /'houl/
+*  danh từ
+- lỗ, lỗ thủng; lỗ trống; lỗ khoan
+- lỗ đáo; lỗ đặt bóng (trong một số trò chơi)
+- chỗ sâu, chỗ trũng (ở dòng suối); hố
+- hang (chuột, chồn...)
+- túp lều tồi tàn, nhà ổ chuột
+- (thể dục,thể thao) điểm thắng (khi đánh được quả gôn từ lỗ nọ sang lỗ kia)
+- (hàng không) lỗ trống (trong không khí)
+- (kỹ thuật) rỗ kim, rỗ tổ ong
+- khuyết điểm; thiếu sót, lỗ hổng (bóng)=we found holes in his argument
++ trong lý lẽ của anh ta chúng tôi thấy có những lỗ hổng (thiếu sót)
+- (từ lóng) tình thế khó xử, hoàn cảnh lúng túng=to out somebody in a hole
++ đẩy ai vào một tình thế khó xử=to be in a devil of a hole
++ ở trong một tình thế hết sức lúng túng khó khăn!a hole in one's coast
+- (nghĩa bóng) vết nhơ đối với thanh danh của mình=a man with a hole in his coat
++ người mà thanh danh không phải hoàn toàn không có vết!to make a hole in
+- (nghĩa bóng) gây một chỗ trống lớn (trong ngân quỹ...)
+- lấy ra một phần lớn (cái hì...)!to pick holes in
+- tìm khuyết điểm, bới lông tìm vết!a round peg in a square hole!a square peg in a round hole
+- nồi tròn vung méo, người đặt không đúng chỗ, người bố trí không thích hợp với công tác
+*  ngoại động từ
+- đào lỗ, đục lỗ; chọc thủng, làm thủng
+- (thể dục,thể thao) để vào lỗ, đánh vào lỗ
+- đào (hầm), khoan (giếng)
+*  nội động từ
+- thủng
+- (thể dục,thể thao) đánh bóng vào lỗ (đánh gôn)
+- (ngành mỏ) đào hầm thông (từ hầm này sang hầm khác)
+- nấp trốn trong hang (thú vật)
+@Chuyên ngành kỹ thuật
+-cái lỗ
+-đào lỗ
+-đục lỗ
+-giếng khoan
+-hầm lò nhỏ
+-hố
+-hốc
+-khoan lỗ
+-khoan lỗ mìn
+-khoét lỗ
+-lỗ
+-lỗ khoan
+-lô mìn
+-lỗ mìn
+-lỗ thủng
+@Lĩnh vực: vật lý
+-ống ngắm

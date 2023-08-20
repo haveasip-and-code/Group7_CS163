@@ -1,3 +1,7 @@
-globin
-	@globin\n* danh từ\n- (sinh,  (hoá học)) globin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một loại protein có trong cơ thể (có thể kết hợp với các nhóm chứa sắt để tạo thành hemoglobin)
-
+globin	
+@globin
+* danh từ
+- (sinh,  (hoá học)) globin
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một loại protein có trong cơ thể (có thể kết hợp với các nhóm chứa sắt để tạo thành hemoglobin)

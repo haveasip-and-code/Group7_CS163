@@ -1,3 +1,15 @@
-resignation
-	@resignation /,rezig'neiʃn/\n*  danh từ\n- sự từ chức; đơn xin từ chức\n=to send in (tender, give) one's resignation+ đưa đơn xin từ chức\n- sự từ bỏ, sự trao, sự nhường (quyền lợi, hy vọng...)\n- sự cam chịu; sự nhẫn nhục\n=to accept one's fate with resignation+ cam chịu số phận\n@Chuyên ngành kinh tế\n-đơn xin từ chức\n-sự từ bỏ (một quyền lợi...)\n-sự từ bỏ (một quyền lợi...) sự từ chức\n-sự từ chức\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-từ chức
-
+resignation	@resignation /,rezig'neiʃn/
+*  danh từ
+- sự từ chức; đơn xin từ chức
+=to send in (tender, give) one's resignation+ đưa đơn xin từ chức
+- sự từ bỏ, sự trao, sự nhường (quyền lợi, hy vọng...)
+- sự cam chịu; sự nhẫn nhục
+=to accept one's fate with resignation+ cam chịu số phận
+@Chuyên ngành kinh tế
+-đơn xin từ chức
+-sự từ bỏ (một quyền lợi...)
+-sự từ bỏ (một quyền lợi...) sự từ chức
+-sự từ chức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-từ chức

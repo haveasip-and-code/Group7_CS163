@@ -1,3 +1,25 @@
-fascine
-	@fascine /fæ'si:n/\n*  danh từ\n- bó cành để làm cừ\n=fascine dwelling+ nhà sàn trên mặt hồ (thời tiền sử)\n@Chuyên ngành kỹ thuật\n-bó cành\n-bó cành cây\n-rồng cây\n-rồng đá\n-rồng đất\n@Lĩnh vực: xây dựng\n-bó quạt\n@Lĩnh vực: cơ khí & công trình\n-trồng cây\n@Chuyên ngành kỹ thuật\n-bó cành\n-bó cành cây\n-rồng cây\n-rồng đá\n-rồng đất\n@Lĩnh vực: xây dựng\n-bó quạt\n@Lĩnh vực: cơ khí & công trình\n-trồng cây
-
+fascine	
+@fascine /fæ'si:n/
+*  danh từ
+- bó cành để làm cừ=fascine dwelling
++ nhà sàn trên mặt hồ (thời tiền sử)
+@Chuyên ngành kỹ thuật
+-bó cành
+-bó cành cây
+-rồng cây
+-rồng đá
+-rồng đất
+@Lĩnh vực: xây dựng
+-bó quạt
+@Lĩnh vực: cơ khí & công trình
+-trồng cây
+@Chuyên ngành kỹ thuật
+-bó cành
+-bó cành cây
+-rồng cây
+-rồng đá
+-rồng đất
+@Lĩnh vực: xây dựng
+-bó quạt
+@Lĩnh vực: cơ khí & công trình
+-trồng cây

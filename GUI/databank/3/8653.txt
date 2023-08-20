@@ -1,3 +1,40 @@
-chain
-	@chain /tʃein/\n*  danh từ\n- dây, xích\n- dãy, chuỗi, loạt\n=a chain of mountains+ một dãy núi\n=a chain of events+ một loạt các sự kiện\n- thước dây (để đo chiều dài); dây (chiều dài của thước dây, bằng 20m115)\n- dây chuyền (làm việc...)\n=to form a chain+ làm thành dây chuyền, đứng thành dây chuyền\n- (số nhiều) xiềng xích\n=to break the chains+ phá xiềng xích\n*  ngoại động từ\n- xích lại, trói buộc, buộc chặt ((nghĩa đen) & (nghĩa bóng))\n- ngáng dây (qua đường phố...)\n- đo bằng thước dây\n@Chuyên ngành kinh tế\n-băng chuyền\n-chuỗi\n-dãy\n-loạt\n-xích\n@Chuyên ngành kỹ thuật\n-buộc\n-chuỗi\n-dãy\n-dây chuyền\n-dây chuyền sản xuất\n-dây xích\n-đo bằng thước xích\n-khóa kéo\n-mạch\n-mạch (điện)\n-sợi dọc\n-xích\n-xích lại\n@Lĩnh vực: y học\n-dây chuyền, xích\n-mạch, dây\n@Lĩnh vực: cơ khí & công trình\n-xích chạy xe
-
+chain	@chain /tʃein/
+*  danh từ
+- dây, xích
+- dãy, chuỗi, loạt
+=a chain of mountains+ một dãy núi
+=a chain of events+ một loạt các sự kiện
+- thước dây (để đo chiều dài); dây (chiều dài của thước dây, bằng 20m115)
+- dây chuyền (làm việc...)
+=to form a chain+ làm thành dây chuyền, đứng thành dây chuyền
+- (số nhiều) xiềng xích
+=to break the chains+ phá xiềng xích
+*  ngoại động từ
+- xích lại, trói buộc, buộc chặt ((nghĩa đen) & (nghĩa bóng))
+- ngáng dây (qua đường phố...)
+- đo bằng thước dây
+@Chuyên ngành kinh tế
+-băng chuyền
+-chuỗi
+-dãy
+-loạt
+-xích
+@Chuyên ngành kỹ thuật
+-buộc
+-chuỗi
+-dãy
+-dây chuyền
+-dây chuyền sản xuất
+-dây xích
+-đo bằng thước xích
+-khóa kéo
+-mạch
+-mạch (điện)
+-sợi dọc
+-xích
+-xích lại
+@Lĩnh vực: y học
+-dây chuyền, xích
+-mạch, dây
+@Lĩnh vực: cơ khí & công trình
+-xích chạy xe

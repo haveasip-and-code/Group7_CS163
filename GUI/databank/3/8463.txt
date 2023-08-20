@@ -1,3 +1,10 @@
-cellule
-	@cellule /'selju:l/\n*  danh từ\n- (giải phẫu) tế bào\n@Chuyên ngành kỹ thuật\n-ô\n-tế bào\n@Lĩnh vực: toán & tin\n-tế bào (nhỏ)\n@Lĩnh vực: xây dựng\n-tiểu mạch
-
+cellule	@cellule /'selju:l/
+*  danh từ
+- (giải phẫu) tế bào
+@Chuyên ngành kỹ thuật
+-ô
+-tế bào
+@Lĩnh vực: toán & tin
+-tế bào (nhỏ)
+@Lĩnh vực: xây dựng
+-tiểu mạch

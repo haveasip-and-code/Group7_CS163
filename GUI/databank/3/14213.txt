@@ -1,3 +1,2 @@
-delayer
-	@delayer\n- xem delay
-
+delayer	@delayer
+- xem delay

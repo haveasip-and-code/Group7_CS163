@@ -1,3 +1,10 @@
-deselect
-	@deselect\n* động từ\n- loại bỏ một ứng cử viên, vì người ấy đang có chân trong quốc hội\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bỏ lựa\n@Lĩnh vực: toán & tin\n-hủy lựa\n-không lựa\n-khử lựa
-
+deselect	@deselect
+* động từ
+- loại bỏ một ứng cử viên, vì người ấy đang có chân trong quốc hội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bỏ lựa
+@Lĩnh vực: toán & tin
+-hủy lựa
+-không lựa
+-khử lựa

@@ -1,3 +1,17 @@
-lens
-	@lens /lenz/\n*  danh từ\n- thấu kính\n=positive lens+ thấu kính hội tụ\n=negative lens+ thấu kính phân kỳ\n- kính lúp; kính hiển vi\n- ống kính (máy ảnh)\n*  ngoại động từ\n- chụp ảnh; quay thành phim\n@Chuyên ngành kỹ thuật\n-dạng thấu kính\n-ống kính\n-thân quặng\n@Chuyên ngành kỹ thuật\n-dạng thấu kính\n-ống kính\n-thân quặng
-
+lens	@lens /lenz/
+*  danh từ
+- thấu kính
+=positive lens+ thấu kính hội tụ
+=negative lens+ thấu kính phân kỳ
+- kính lúp; kính hiển vi
+- ống kính (máy ảnh)
+*  ngoại động từ
+- chụp ảnh; quay thành phim
+@Chuyên ngành kỹ thuật
+-dạng thấu kính
+-ống kính
+-thân quặng
+@Chuyên ngành kỹ thuật
+-dạng thấu kính
+-ống kính
+-thân quặng

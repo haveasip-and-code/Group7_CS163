@@ -1,3 +1,20 @@
-duplication
-	@duplication /,dju:pli'keiʃn/\n*  danh từ\n- sự sao lại, sự sao lục, sự làm thành hai bản\n- sự gấp đôi, sự nhân đôi\n@Chuyên ngành kinh tế\n-in lại\n-lặp lại (quảng cáo...)\n-sự sao lại\n@Chuyên ngành kỹ thuật\n-dư thừa\n-làm dư thừa\n-nhân đôi\n-sự nhân đôi\n-sự sao\n-sự sao chép\n-sự sao lại\n@Lĩnh vực: điện lạnh\n-sự gấp đôi\n-sự nhân (bản)
-
+duplication	
+@duplication /,dju:pli'keiʃn/
+*  danh từ
+- sự sao lại, sự sao lục, sự làm thành hai bản
+- sự gấp đôi, sự nhân đôi
+@Chuyên ngành kinh tế
+-in lại
+-lặp lại (quảng cáo...)
+-sự sao lại
+@Chuyên ngành kỹ thuật
+-dư thừa
+-làm dư thừa
+-nhân đôi
+-sự nhân đôi
+-sự sao
+-sự sao chép
+-sự sao lại
+@Lĩnh vực: điện lạnh
+-sự gấp đôi
+-sự nhân (bản)

@@ -1,3 +1,2 @@
-needlepoint
-	@Chuyên ngành kỹ thuật\n-đầu kim
-
+needlepoint	@Chuyên ngành kỹ thuật
+-đầu kim

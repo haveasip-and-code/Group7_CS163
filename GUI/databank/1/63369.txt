@@ -1,3 +1,58 @@
-wrong
-	@wrong /rɔɳ/\n*  tính từ\n- xấu, không tốt, tồi\n=it is wrong to speak ill of one's companion+ nói xấu bạn là không tốt\n- trái, ngược\n=in the wrong sense+ trái chiều, ngược\n=the wrong side+ mặt trái\n=wrong side foremost+ ngược, trước ra sau\n=wrong side out+ trái, trong ra ngoài\n=wrong side up+ ngược, trên xuống dưới\n- sai, không đúng, lầm; trái lý, sai trái\n=my watch is wrong+ đồng hồ tôi không đúng\n=wrong use of a word+ sự dùng từ sai\n=to be wrong+ trái lý, sai\n- không ổn\n=there is something wrong with him+ anh ta có điều gì không ổn\n=what's wrong with that?+ được cả, không có gì không ổn phải không?\n!to be on the wrong side of forty\n- (xem) side\n!to be in the wrong box\n- (xem) box\n!to have (get) hold of the wrong end of the stick\n- có ý nghĩ hoàn toàn lầm; có cảm tưởng hoàn toàn lầm\n!on the wrong foot\n- (thể dục,thể thao) trái chân, tréo giò\n*  phó từ\n- sai, không đúng, không đáng, bậy\n=to do a sum wrong+ làm sai một bài tính\n- lạc\n=to lead someone wrong+ dẫn ai lạc đường\n!to get in wrong with someone\n- (từ Mỹ,nghĩa Mỹ) bị ai ghét\n!to get someone in wrong\n- làm cho ai mất tín nhiệm; làm cho ai bị ghét bỏ\n!to go wrong\n- lạc đường, lầm đường\n- (kỹ thuật) hỏng, không chạy (máy)\n- (thương nghiệp) không chạy, tiến hành không tốt\n- (nghĩa bóng) trở nên xấu, hỏng đi\n- (nghĩa bóng) sa ngã, lầm lạc\n*  danh từ\n- điều xấu, điều không tốt, mặt xấu, cái xấu\n=to make wrong right+ làm cho cái xấu thành tốt\n=to know right from wrong+ biết phân biệt phải trái\n- điều sai trái, điều bất công\n=to be in the wrong+ trái\n=to put someone in the wrong+ đổ cái sai cho ai\n- (pháp lý) điều thiệt hại, điều tổn hại\n=to do somebody wrong+ làm hại ai\n*  ngoại động từ\n- làm hại, làm thiệt hại (người nào)\n- đối đãi bất công (với người nào)\n- chụp mũ, gán cho những động cơ không tốt\n@Chuyên ngành kinh tế\n-lỗi\n-tội\n@Chuyên ngành kỹ thuật\n-sai
-
+wrong	@wrong /rɔɳ/
+*  tính từ
+- xấu, không tốt, tồi
+=it is wrong to speak ill of one's companion+ nói xấu bạn là không tốt
+- trái, ngược
+=in the wrong sense+ trái chiều, ngược
+=the wrong side+ mặt trái
+=wrong side foremost+ ngược, trước ra sau
+=wrong side out+ trái, trong ra ngoài
+=wrong side up+ ngược, trên xuống dưới
+- sai, không đúng, lầm; trái lý, sai trái
+=my watch is wrong+ đồng hồ tôi không đúng
+=wrong use of a word+ sự dùng từ sai
+=to be wrong+ trái lý, sai
+- không ổn
+=there is something wrong with him+ anh ta có điều gì không ổn
+=what's wrong with that?+ được cả, không có gì không ổn phải không?
+!to be on the wrong side of forty
+- (xem) side
+!to be in the wrong box
+- (xem) box
+!to have (get) hold of the wrong end of the stick
+- có ý nghĩ hoàn toàn lầm; có cảm tưởng hoàn toàn lầm
+!on the wrong foot
+- (thể dục,thể thao) trái chân, tréo giò
+*  phó từ
+- sai, không đúng, không đáng, bậy
+=to do a sum wrong+ làm sai một bài tính
+- lạc
+=to lead someone wrong+ dẫn ai lạc đường
+!to get in wrong with someone
+- (từ Mỹ,nghĩa Mỹ) bị ai ghét
+!to get someone in wrong
+- làm cho ai mất tín nhiệm; làm cho ai bị ghét bỏ
+!to go wrong
+- lạc đường, lầm đường
+- (kỹ thuật) hỏng, không chạy (máy)
+- (thương nghiệp) không chạy, tiến hành không tốt
+- (nghĩa bóng) trở nên xấu, hỏng đi
+- (nghĩa bóng) sa ngã, lầm lạc
+*  danh từ
+- điều xấu, điều không tốt, mặt xấu, cái xấu
+=to make wrong right+ làm cho cái xấu thành tốt
+=to know right from wrong+ biết phân biệt phải trái
+- điều sai trái, điều bất công
+=to be in the wrong+ trái
+=to put someone in the wrong+ đổ cái sai cho ai
+- (pháp lý) điều thiệt hại, điều tổn hại
+=to do somebody wrong+ làm hại ai
+*  ngoại động từ
+- làm hại, làm thiệt hại (người nào)
+- đối đãi bất công (với người nào)
+- chụp mũ, gán cho những động cơ không tốt
+@Chuyên ngành kinh tế
+-lỗi
+-tội
+@Chuyên ngành kỹ thuật
+-sai

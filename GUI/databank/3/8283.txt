@@ -1,3 +1,2 @@
-catechistic
-	@catechistic\n- xem catechist
-
+catechistic	@catechistic
+- xem catechist

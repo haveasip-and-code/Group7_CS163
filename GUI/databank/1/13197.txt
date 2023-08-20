@@ -1,3 +1,16 @@
-cusp
-	@cusp /kʌsp/\n*  danh từ\n- đỉnh, chỏm, ngọn (núi...)\n- (toán học) điểm lùi\n- (thực vật học) mũi nhọn (lá...)\n@Chuyên ngành kỹ thuật\n-chỏm\n-điểm lùi\n-đỉnh\n-mỏm núi\n-mũi\n-mũi nhọn\n@Lĩnh vực: xây dựng\n-chỏm mũi nhọn\n-mũi (đất)
-
+cusp	
+@cusp /kʌsp/
+*  danh từ
+- đỉnh, chỏm, ngọn (núi...)
+- (toán học) điểm lùi
+- (thực vật học) mũi nhọn (lá...)
+@Chuyên ngành kỹ thuật
+-chỏm
+-điểm lùi
+-đỉnh
+-mỏm núi
+-mũi
+-mũi nhọn
+@Lĩnh vực: xây dựng
+-chỏm mũi nhọn
+-mũi (đất)

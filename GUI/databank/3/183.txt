@@ -1,3 +1,8 @@
-abscess
-	@abscess /'æbsis/\n*  danh từ\n- (y học) áp xe : sự tụ mủ cục bộ\n- (kỹ thuật) chỗ rỗ (ở kim loại)\n@Chuyên ngành kỹ thuật\n-rỗ\n@Lĩnh vực: y học\n-áp xe (sự tụ mủ cục bộ)
-
+abscess	@abscess /'æbsis/
+*  danh từ
+- (y học) áp xe : sự tụ mủ cục bộ
+- (kỹ thuật) chỗ rỗ (ở kim loại)
+@Chuyên ngành kỹ thuật
+-rỗ
+@Lĩnh vực: y học
+-áp xe (sự tụ mủ cục bộ)

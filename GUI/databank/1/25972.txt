@@ -1,3 +1,60 @@
-hollow
-	@hollow /'hɔlou/\n*  tính từ\n- rỗng\n- trống rỗng, đói meo (bụng)\n- hõm vào, lõm vào, trũng sâu hoắm\n=hollow cheeks+ má hõm\n- ốm ốm, rỗng (âm thanh)\n- rỗng tuếch\n=hollow words+ những lời rỗng tuếch\n- giả dối, không thành thật\n=hollow promises+ những lời hứa giả dối, những lời hứa suông\n!a hollow race\n- cuộc đua uể oải\n*  phó từ\n- hoàn toàn\n=to beat somebody hollow+ hoàn toàn đánh bại ai; đánh ai tơi bời\n*  danh từ\n- chỗ rống\n- chỗ trũng, chỗ lõm sâu hoắm\n- thung lũng lòng chảo\n*  ngoại động từ\n- làm rỗng\n- làm lõm sâu vào; đào trũng ((cũng) to hollow out)\n@Chuyên ngành kỹ thuật\n-chỗ lõm\n-chỗ trũng\n-đào hố\n-dập khuôn\n-đục rãnh\n-hố trũng\n-hốc\n-khoan\n-làm khuôn\n-làm rỗng\n-làm trũng sâu\n-lỗ\n-lỗ hổng\n-lõm\n-máng\n-ổ\n-rãnh\n-rãnh máng\n-rỗng\n-trống\n-trống rỗng\n-trũng\n-vùng trũng\n@Lĩnh vực: xây dựng\n-bào xọc\n-cấu kiện rỗng\n-có lỗ\n-có thân rỗng\n-đục rãnh then\n-tạo thành rãnh\n-trong khi\n-vật rỗng\n@Lĩnh vực: hóa học & vật liệu\n-hố sụt\n@Lĩnh vực: cơ khí & công trình\n-hốc hố trũng
-
+hollow	
+@hollow /'hɔlou/
+*  tính từ
+- rỗng
+- trống rỗng, đói meo (bụng)
+- hõm vào, lõm vào, trũng sâu hoắm=hollow cheeks
++ má hõm
+- ốm ốm, rỗng (âm thanh)
+- rỗng tuếch=hollow words
++ những lời rỗng tuếch
+- giả dối, không thành thật=hollow promises
++ những lời hứa giả dối, những lời hứa suông!a hollow race
+- cuộc đua uể oải
+*  phó từ
+- hoàn toàn=to beat somebody hollow
++ hoàn toàn đánh bại ai; đánh ai tơi bời
+*  danh từ
+- chỗ rống
+- chỗ trũng, chỗ lõm sâu hoắm
+- thung lũng lòng chảo
+*  ngoại động từ
+- làm rỗng
+- làm lõm sâu vào; đào trũng ((cũng) to hollow out)
+@Chuyên ngành kỹ thuật
+-chỗ lõm
+-chỗ trũng
+-đào hố
+-dập khuôn
+-đục rãnh
+-hố trũng
+-hốc
+-khoan
+-làm khuôn
+-làm rỗng
+-làm trũng sâu
+-lỗ
+-lỗ hổng
+-lõm
+-máng
+-ổ
+-rãnh
+-rãnh máng
+-rỗng
+-trống
+-trống rỗng
+-trũng
+-vùng trũng
+@Lĩnh vực: xây dựng
+-bào xọc
+-cấu kiện rỗng
+-có lỗ
+-có thân rỗng
+-đục rãnh then
+-tạo thành rãnh
+-trong khi
+-vật rỗng
+@Lĩnh vực: hóa học & vật liệu
+-hố sụt
+@Lĩnh vực: cơ khí & công trình
+-hốc hố trũng

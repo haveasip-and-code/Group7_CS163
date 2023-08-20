@@ -1,3 +1,12 @@
-fattening
-	@Chuyên ngành kinh tế\n-sự nuôi béo\n-sự vỗ béo\n@Chuyên ngành kỹ thuật\n-sự làm đặc\n@Lĩnh vực: hóa học & vật liệu\n-làm sệt\n@Chuyên ngành kỹ thuật\n-sự làm đặc\n@Lĩnh vực: hóa học & vật liệu\n-làm sệt
-
+fattening	
+@Chuyên ngành kinh tế
+-sự nuôi béo
+-sự vỗ béo
+@Chuyên ngành kỹ thuật
+-sự làm đặc
+@Lĩnh vực: hóa học & vật liệu
+-làm sệt
+@Chuyên ngành kỹ thuật
+-sự làm đặc
+@Lĩnh vực: hóa học & vật liệu
+-làm sệt

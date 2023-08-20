@@ -1,3 +1,24 @@
-abrasive
-	@abrasive /ə'breisiv/\n*  tính từ\n- làm trầy (da)\n- để cọ xơ ra\n- để mài mòn\n*  danh từ\n- chất mài mòn\n@Chuyên ngành kỹ thuật\n-bột mài\n-nhám\n-mài\n-mài mòn\n-ráp\n-vật liệu mài\n@Lĩnh vực: điện lạnh\n-chất mài\n@Lĩnh vực: hóa học & vật liệu\n-chất nhám\n-có tính mài mòn\n@Lĩnh vực: điện\n-được mài\n@Lĩnh vực: cơ khí & công trình\n-vật liệu mài mòn
-
+abrasive	
+@abrasive /ə'breisiv/
+*  tính từ
+- làm trầy (da)
+- để cọ xơ ra
+- để mài mòn
+*  danh từ
+- chất mài mòn
+@Chuyên ngành kỹ thuật
+-bột mài
+-nhám
+-mài
+-mài mòn
+-ráp
+-vật liệu mài
+@Lĩnh vực: điện lạnh
+-chất mài
+@Lĩnh vực: hóa học & vật liệu
+-chất nhám
+-có tính mài mòn
+@Lĩnh vực: điện
+-được mài
+@Lĩnh vực: cơ khí & công trình
+-vật liệu mài mòn

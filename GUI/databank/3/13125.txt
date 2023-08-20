@@ -1,3 +1,2 @@
-curlily
-	@curlily\n- xem curly
-
+curlily	@curlily
+- xem curly

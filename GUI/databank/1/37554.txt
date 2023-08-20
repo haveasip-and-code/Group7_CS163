@@ -1,3 +1,13 @@
-octant
-	@octant /'ɔktənt/\n*  danh từ\n- Octan (một phần tám của vòng tròn); góc 45 độ, cung 45 độ (trên vòng tròn)\n- cái Octan (dụng cụ hình một phần tám hình tròn, dùng để đo độ trong thiên văn và hàng hải)\n- (thiên văn học) vị trí Octan (vị trí của một hành tinh cách một điểm đã định 45 o trong sự di động biểu kiến của hành tinh ấy)\n@Chuyên ngành kỹ thuật\n-góc phần tám\n-máy đo góc\n@Lĩnh vực: điện lạnh\n-cung phần tám\n-hình bát phân\n@Lĩnh vực: xây dựng\n-góc 45 độ
-
+octant	@octant /'ɔktənt/
+*  danh từ
+- Octan (một phần tám của vòng tròn); góc 45 độ, cung 45 độ (trên vòng tròn)
+- cái Octan (dụng cụ hình một phần tám hình tròn, dùng để đo độ trong thiên văn và hàng hải)
+- (thiên văn học) vị trí Octan (vị trí của một hành tinh cách một điểm đã định 45 o trong sự di động biểu kiến của hành tinh ấy)
+@Chuyên ngành kỹ thuật
+-góc phần tám
+-máy đo góc
+@Lĩnh vực: điện lạnh
+-cung phần tám
+-hình bát phân
+@Lĩnh vực: xây dựng
+-góc 45 độ

@@ -1,3 +1,4 @@
-semimetals
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bán kim loại\n-chất bán kim loại
-
+semimetals	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bán kim loại
+-chất bán kim loại

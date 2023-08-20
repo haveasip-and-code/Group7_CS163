@@ -1,3 +1,2 @@
-pluralization
-	@pluralization\n- xem pluralize
-
+pluralization	@pluralization
+- xem pluralize

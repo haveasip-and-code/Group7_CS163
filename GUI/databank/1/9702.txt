@@ -1,3 +1,13 @@
-cleanse
-	@cleanse /klenz/\n*  ngoại động từ\n- làm cho sạch sẽ; làm cho tinh khiết; tẩy, rửa\n=to cleanse the blood+ tẩy máu\n=to cleanse someone of his sin+ tẩy rửa hết tội lỗi cho ai\n- nạo, vét (cống...)\n- (kinh thánh) chữa khỏi (bệnh hủi, phong...)\n@Chuyên ngành kỹ thuật\n-khử bỏ tạp chất\n-làm sạch\n-nạo vét\n-tẩy rửa
-
+cleanse	
+@cleanse /klenz/
+*  ngoại động từ
+- làm cho sạch sẽ; làm cho tinh khiết; tẩy, rửa=to cleanse the blood
++ tẩy máu=to cleanse someone of his sin
++ tẩy rửa hết tội lỗi cho ai
+- nạo, vét (cống...)
+- (kinh thánh) chữa khỏi (bệnh hủi, phong...)
+@Chuyên ngành kỹ thuật
+-khử bỏ tạp chất
+-làm sạch
+-nạo vét
+-tẩy rửa

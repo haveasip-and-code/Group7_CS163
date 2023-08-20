@@ -1,3 +1,22 @@
-hover
-	@hover /'hɔvə/\n*  danh từ\n- sự bay lượn, sự bay liệng; sự trôi lơ lửng\n- sự lởn vởn, sự lảng vảng, sự quanh quất\n- sự do dự, sự băn khoăn, sự phân vân; tính mạng lơ lửng\n*  nội động từ\n- (+ about,  over) bay lượn, bay liệng (chim...); trôi lơ lửng (mây...)\n- (+ about,  over) lơ lửng đe doạ; thoáng\n=danger hovered over them+ mối nguy hiểm đe doạ họ\n=a smile hovers about (over) her lips+ một nụ cười thoáng trên môi cô ta\n- (+ about) lởn vởn, lảng vảng, quanh quất (ở gần ai, nơi nào)\n=to hover on the verge of dealth+ gần đến cõi chết\n- do dự, băn khoăn, phân vân; ở trong một tình trạng lơ lửng\n=to hover between two courses of action+ do dự giữa hai đường lối hành động\n=to hover between life and death+ ở trong tình trạng nửa sống nửa chết\n*  ngoại động từ,  (từ Mỹ,nghĩa Mỹ)\n- ấp ủ\n=hen hovers her chicks+ gà mái ấp ủ gà con
-
+hover	
+@hover /'hɔvə/
+*  danh từ
+- sự bay lượn, sự bay liệng; sự trôi lơ lửng
+- sự lởn vởn, sự lảng vảng, sự quanh quất
+- sự do dự, sự băn khoăn, sự phân vân; tính mạng lơ lửng
+*  nội động từ
+- (
++ about,  over) bay lượn, bay liệng (chim...); trôi lơ lửng (mây...)
+- (
++ about,  over) lơ lửng đe doạ; thoáng=danger hovered over them
++ mối nguy hiểm đe doạ họ=a smile hovers about (over) her lips
++ một nụ cười thoáng trên môi cô ta
+- (
++ about) lởn vởn, lảng vảng, quanh quất (ở gần ai, nơi nào)=to hover on the verge of dealth
++ gần đến cõi chết
+- do dự, băn khoăn, phân vân; ở trong một tình trạng lơ lửng=to hover between two courses of action
++ do dự giữa hai đường lối hành động=to hover between life and death
++ ở trong tình trạng nửa sống nửa chết
+*  ngoại động từ,  (từ Mỹ,nghĩa Mỹ)
+- ấp ủ=hen hovers her chicks
++ gà mái ấp ủ gà con

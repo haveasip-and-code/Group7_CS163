@@ -1,3 +1,13 @@
-condensable
-	@condensable /kən'densəbl/\n*  tính từ\n- có thể hoá đặc (chất lỏng); có thể ngưng lại (hơi); có thể tụ lại (ánh sáng)\n- có thể cô lại (lời, văn...)\n@Chuyên ngành kinh tế\n-có thể cô đặc\n-có thể hóa đặc\n-có thể ngưng tụ\n@Chuyên ngành kỹ thuật\n-hơi ngưng tụ\n-ngưng tụ được\n@Lĩnh vực: xây dựng\n-tụ được
-
+condensable	@condensable /kən'densəbl/
+*  tính từ
+- có thể hoá đặc (chất lỏng); có thể ngưng lại (hơi); có thể tụ lại (ánh sáng)
+- có thể cô lại (lời, văn...)
+@Chuyên ngành kinh tế
+-có thể cô đặc
+-có thể hóa đặc
+-có thể ngưng tụ
+@Chuyên ngành kỹ thuật
+-hơi ngưng tụ
+-ngưng tụ được
+@Lĩnh vực: xây dựng
+-tụ được

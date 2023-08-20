@@ -1,3 +1,12 @@
-nitrate
-	@nitrate /'naitreit/\n*  danh từ\n- (hoá học) Nitrat\n*  nội động từ\n- (hoá học) Nitro hoá\n@Chuyên ngành kỹ thuật\n-nitrat hóa\n-nitro hóa\n@Lĩnh vực: y học\n-nitrat\n@Lĩnh vực: hóa học & vật liệu\n-MNO3
-
+nitrate	@nitrate /'naitreit/
+*  danh từ
+- (hoá học) Nitrat
+*  nội động từ
+- (hoá học) Nitro hoá
+@Chuyên ngành kỹ thuật
+-nitrat hóa
+-nitro hóa
+@Lĩnh vực: y học
+-nitrat
+@Lĩnh vực: hóa học & vật liệu
+-MNO3

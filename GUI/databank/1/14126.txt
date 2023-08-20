@@ -1,3 +1,5 @@
-defuse
-	@defuse\n* động từ\n- tháo ngòi nổ\n- làm lắng dịu, xoa dịu
-
+defuse	
+@defuse
+* động từ
+- tháo ngòi nổ
+- làm lắng dịu, xoa dịu

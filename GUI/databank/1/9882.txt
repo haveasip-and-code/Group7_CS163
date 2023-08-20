@@ -1,3 +1,20 @@
-cloudy
-	@cloudy /'klaudi/\n*  tính từ\n- có mây phủ, đầy mây; u ám\n=cloudy sky+ bầu trời đầy mây\n- đục, vẩn\n=a cloudy liquid+ chất nước đục\n=a cloudy diamond+ viên kim cương có vẩn\n- tối nghĩa, không sáng tỏ, không rõ ràng (văn)\n- buồn bã, u buồn (người)\n@Chuyên ngành kinh tế\n-có vẩn đục\n-đục\n@Chuyên ngành kỹ thuật\n-đục\n-không trong suốt\n-mờ\n-mù mây\n@Lĩnh vực: hóa học & vật liệu\n-vẩn
-
+cloudy	
+@cloudy /'klaudi/
+*  tính từ
+- có mây phủ, đầy mây; u ám=cloudy sky
++ bầu trời đầy mây
+- đục, vẩn=a cloudy liquid
++ chất nước đục=a cloudy diamond
++ viên kim cương có vẩn
+- tối nghĩa, không sáng tỏ, không rõ ràng (văn)
+- buồn bã, u buồn (người)
+@Chuyên ngành kinh tế
+-có vẩn đục
+-đục
+@Chuyên ngành kỹ thuật
+-đục
+-không trong suốt
+-mờ
+-mù mây
+@Lĩnh vực: hóa học & vật liệu
+-vẩn

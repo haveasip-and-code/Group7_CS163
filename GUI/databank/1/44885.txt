@@ -1,3 +1,2 @@
-putschist
-	@putschist\n- xem putsch
-
+putschist	@putschist
+- xem putsch

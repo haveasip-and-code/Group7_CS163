@@ -1,3 +1,5 @@
-engram
-	@Chuyên ngành kỹ thuật\n-vết tích\n@Chuyên ngành kỹ thuật\n-vết tích
-
+engram	
+@Chuyên ngành kỹ thuật
+-vết tích
+@Chuyên ngành kỹ thuật
+-vết tích

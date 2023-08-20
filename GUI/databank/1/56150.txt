@@ -1,3 +1,3 @@
-tetany
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-co cứng
-
+tetany	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-co cứng

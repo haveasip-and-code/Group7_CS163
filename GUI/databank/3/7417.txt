@@ -1,3 +1,6 @@
-cadastre
-	@Chuyên ngành kỹ thuật\n-người đạc điền\n@Lĩnh vực: đo lường & điều khiển\n-người đo ruộng đất\n@Lĩnh vực: xây dựng\n-sổ địa bạ
-
+cadastre	@Chuyên ngành kỹ thuật
+-người đạc điền
+@Lĩnh vực: đo lường & điều khiển
+-người đo ruộng đất
+@Lĩnh vực: xây dựng
+-sổ địa bạ

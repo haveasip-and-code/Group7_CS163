@@ -1,3 +1,4 @@
-sternpost
-	@Chuyên ngành kỹ thuật\n-sống đuôi\n@Lĩnh vực: giao thông & vận tải\n-sống đuôi tàu (đóng tàu)
-
+sternpost	@Chuyên ngành kỹ thuật
+-sống đuôi
+@Lĩnh vực: giao thông & vận tải
+-sống đuôi tàu (đóng tàu)

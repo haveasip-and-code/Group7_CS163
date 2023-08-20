@@ -1,3 +1,6 @@
-desalinate
-	@desalinate\n* động từ\n- khử muối\n@Chuyên ngành kỹ thuật\n-loại bỏ muối
-
+desalinate	
+@desalinate
+* động từ
+- khử muối
+@Chuyên ngành kỹ thuật
+-loại bỏ muối

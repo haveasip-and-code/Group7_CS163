@@ -1,3 +1,3 @@
-tenderometer
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-máy đo độ quánh
-
+tenderometer	@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-máy đo độ quánh

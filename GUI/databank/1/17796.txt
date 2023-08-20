@@ -1,3 +1,28 @@
-elongate
-	@elongate /'i:lɔɳgit/\n*  ngoại động từ\n- làm dài ra, kéo dài ra\n*  nội động từ\n- (thực vật học) có hình thon dài\n*  tính từ\n- (thực vật học) thon dài\n@Chuyên ngành kỹ thuật\n-giãn ra\n-kéo dài ra\n-ly độ\n-ly giác\n-nối dài\n@Lĩnh vực: xây dựng\n-kéo dài thêm\n@Lĩnh vực: toán & tin\n-ly nhật độ\n@Chuyên ngành kỹ thuật\n-giãn ra\n-kéo dài ra\n-ly độ\n-ly giác\n-nối dài\n@Lĩnh vực: xây dựng\n-kéo dài thêm\n@Lĩnh vực: toán & tin\n-ly nhật độ
-
+elongate	
+@elongate /'i:lɔɳgit/
+*  ngoại động từ
+- làm dài ra, kéo dài ra
+*  nội động từ
+- (thực vật học) có hình thon dài
+*  tính từ
+- (thực vật học) thon dài
+@Chuyên ngành kỹ thuật
+-giãn ra
+-kéo dài ra
+-ly độ
+-ly giác
+-nối dài
+@Lĩnh vực: xây dựng
+-kéo dài thêm
+@Lĩnh vực: toán & tin
+-ly nhật độ
+@Chuyên ngành kỹ thuật
+-giãn ra
+-kéo dài ra
+-ly độ
+-ly giác
+-nối dài
+@Lĩnh vực: xây dựng
+-kéo dài thêm
+@Lĩnh vực: toán & tin
+-ly nhật độ

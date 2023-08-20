@@ -1,3 +1,29 @@
-dab
-	@dab /dæb/\n*  ngoại động từ\n- đánh nhẹ, vỗ nhẹ, mổ nhẹ, gõ nhẹ\n=to dab with one's finger+ lấy ngón tay gõ nhẹ\n- chấm chấm nhẹ\n=to dab one's forehead with a handkerchief+ chấm chấm nhẹ trán bằng khăn tay\n=to dab paint on something+ chấm nhẹ sơn lên vật gì\n- (kỹ thuật) đột nhẹ\n*  danh từ\n- sự (cái) đánh nhẹ, sự (cái) mổ nhẹ\n- sự chấm chấm nhẹ (mồ hôi, phấn); sự (cái) chấm nhẹ (sơn...); sự thấm (bằng bọt biển...)\n=to give a picture a dab of paint+ phết nhẹ sơn lên bức hoạ\n- miếng, cục (cái gì mềm)\n=a dab of cheese+ miếng phó mát\n- vết (mực, sơn)\n*  danh từ\n- (động vật học) cá bơn\n*  danh từ\n- (từ lóng) tay giỏi, tay cừ, tay thạo\n=he is a dab at maths+ hắn là tay giỏi toán\n*  tính từ\n- (từ lóng) tài, giỏi, khéo, cừ; thạo\n=he is a dab hand at painting+ hắn ta vẽ rất cừ\n@Chuyên ngành kinh tế\n-cá bơn\n@Chuyên ngành kỹ thuật\n-điểm\n-vết
-
+dab	
+@dab /dæb/
+*  ngoại động từ
+- đánh nhẹ, vỗ nhẹ, mổ nhẹ, gõ nhẹ=to dab with one's finger
++ lấy ngón tay gõ nhẹ
+- chấm chấm nhẹ=to dab one's forehead with a handkerchief
++ chấm chấm nhẹ trán bằng khăn tay=to dab paint on something
++ chấm nhẹ sơn lên vật gì
+- (kỹ thuật) đột nhẹ
+*  danh từ
+- sự (cái) đánh nhẹ, sự (cái) mổ nhẹ
+- sự chấm chấm nhẹ (mồ hôi, phấn); sự (cái) chấm nhẹ (sơn...); sự thấm (bằng bọt biển...)=to give a picture a dab of paint
++ phết nhẹ sơn lên bức hoạ
+- miếng, cục (cái gì mềm)=a dab of cheese
++ miếng phó mát
+- vết (mực, sơn)
+*  danh từ
+- (động vật học) cá bơn
+*  danh từ
+- (từ lóng) tay giỏi, tay cừ, tay thạo=he is a dab at maths
++ hắn là tay giỏi toán
+*  tính từ
+- (từ lóng) tài, giỏi, khéo, cừ; thạo=he is a dab hand at painting
++ hắn ta vẽ rất cừ
+@Chuyên ngành kinh tế
+-cá bơn
+@Chuyên ngành kỹ thuật
+-điểm
+-vết

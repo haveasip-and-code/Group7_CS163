@@ -1,3 +1,2 @@
-stuffers
-	@Chuyên ngành kinh tế\n-tập giấy xếp quảng cáo
-
+stuffers	@Chuyên ngành kinh tế
+-tập giấy xếp quảng cáo

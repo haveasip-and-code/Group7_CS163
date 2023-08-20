@@ -1,3 +1,10 @@
-remains
-	@remains\n* danh từ, pl\n- đồ thừa, cái còn lại\n- phế tích, tàn tích (những toà nhà  cổ xưa còn lại đã bị phá hủy)\n- di cảo (của một tác giả)\n- thi hài; hài cốt (của người chết)\n@Chuyên ngành kỹ thuật\n-di tích\n-phần dư\n-tàn tích
-
+remains	@remains
+* danh từ, pl
+- đồ thừa, cái còn lại
+- phế tích, tàn tích (những toà nhà  cổ xưa còn lại đã bị phá hủy)
+- di cảo (của một tác giả)
+- thi hài; hài cốt (của người chết)
+@Chuyên ngành kỹ thuật
+-di tích
+-phần dư
+-tàn tích

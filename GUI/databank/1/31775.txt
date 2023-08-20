@@ -1,3 +1,28 @@
-lease
-	@lease /li:s/\n*  danh từ\n- hợp đồng cho thuê\n=to take a house on a lease of several years+ thuê một căn nhà có ký hợp đồng trong nhiều năm\n=long lease+ hợp đồng cho thuê dài hạn\n!to put out to lease\n- đem cho thuê\n!on a lease\n- cho thuê theo hợp đồng\n!to take (have, get) a new lease of life\n- lại hoạt động, lại vui sống (sau khi ốm nặng hay sau khi một việc lo buồn)\n*  động từ\n- cho thuê; thuê\n@Chuyên ngành kinh tế\n-cho thuê\n-được thuê\n-hợp đồng cho thuê bất động sản\n-hợp đồng thuê mướn\n-hợp đồng thuê mướn (bất động sản)\n-khế ước cho thuê\n-thuê\n-thuê được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thuê hợp đồng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thuê hợp đồng
-
+lease	@lease /li:s/
+*  danh từ
+- hợp đồng cho thuê
+=to take a house on a lease of several years+ thuê một căn nhà có ký hợp đồng trong nhiều năm
+=long lease+ hợp đồng cho thuê dài hạn
+!to put out to lease
+- đem cho thuê
+!on a lease
+- cho thuê theo hợp đồng
+!to take (have, get) a new lease of life
+- lại hoạt động, lại vui sống (sau khi ốm nặng hay sau khi một việc lo buồn)
+*  động từ
+- cho thuê; thuê
+@Chuyên ngành kinh tế
+-cho thuê
+-được thuê
+-hợp đồng cho thuê bất động sản
+-hợp đồng thuê mướn
+-hợp đồng thuê mướn (bất động sản)
+-khế ước cho thuê
+-thuê
+-thuê được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thuê hợp đồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thuê hợp đồng

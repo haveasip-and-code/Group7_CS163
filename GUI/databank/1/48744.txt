@@ -1,3 +1,20 @@
-sash
-	@sash /sæʃ/\n*  danh từ\n- khăn quàng vai; khăn thắt lưng ((từ Mỹ,nghĩa Mỹ) (cũng) scarf)\n*  danh từ+ (sash-frame)\n/sæʃfreim/\n- khung kính trượt (có thể đưa lên đưa xuống được)\n@Chuyên ngành kỹ thuật\n-khung\n-khung cửa sổ\n-khung máy cưa\n@Lĩnh vực: xây dựng\n-cánh cửa sổ treo\n-cánh cửa sổ trượt\n-cánh cửa sổ xoay\n-khung cánh cửa\n-khuôn cửa sổ lật\n@Lĩnh vực: cơ khí & công trình\n-khung (ca)\n@Lĩnh vực: toán & tin\n-khung cánh cửa sổ
-
+sash	@sash /sæʃ/
+*  danh từ
+- khăn quàng vai; khăn thắt lưng ((từ Mỹ,nghĩa Mỹ) (cũng) scarf)
+*  danh từ+ (sash-frame)
+/sæʃfreim/
+- khung kính trượt (có thể đưa lên đưa xuống được)
+@Chuyên ngành kỹ thuật
+-khung
+-khung cửa sổ
+-khung máy cưa
+@Lĩnh vực: xây dựng
+-cánh cửa sổ treo
+-cánh cửa sổ trượt
+-cánh cửa sổ xoay
+-khung cánh cửa
+-khuôn cửa sổ lật
+@Lĩnh vực: cơ khí & công trình
+-khung (ca)
+@Lĩnh vực: toán & tin
+-khung cánh cửa sổ

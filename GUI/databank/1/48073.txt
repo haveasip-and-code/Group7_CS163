@@ -1,3 +1,3 @@
-rounder
-	@Chuyên ngành kinh tế\n-máy vê tròn khối bộ\n-người thao tác ở máy vê tròn
-
+rounder	@Chuyên ngành kinh tế
+-máy vê tròn khối bộ
+-người thao tác ở máy vê tròn

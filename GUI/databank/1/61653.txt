@@ -1,3 +1,2 @@
-vestmental
-	@vestmental\n- xem vestment
-
+vestmental	@vestmental
+- xem vestment

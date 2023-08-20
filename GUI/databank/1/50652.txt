@@ -1,3 +1,8 @@
-sifting
-	@Chuyên ngành kinh tế\n-sàng thí nghiệm\n@Chuyên ngành kỹ thuật\n-chọn lọc\n-lựa chọn\n-sự rây\n-sự sàng\n-trích
-
+sifting	@Chuyên ngành kinh tế
+-sàng thí nghiệm
+@Chuyên ngành kỹ thuật
+-chọn lọc
+-lựa chọn
+-sự rây
+-sự sàng
+-trích

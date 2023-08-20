@@ -1,3 +1,42 @@
-grid
-	@grid /grid/\n*  danh từ\n- hệ thống đường dây (điện phân bố trong một khu vực)\n- đường kẻ ô (để vẽ bản đồ)\n- vỉ (nướng chả)\n- chấn song sắt\n- (raddiô) lưới điều khiển\n@Chuyên ngành kinh tế\n-vị (nướng chả)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-GRID\n@Chuyên ngành kỹ thuật\n-ghi\n-ghi lò\n-giàn mắt cáo\n-giát\n-hệ thống đường dây\n-lưới điện\n-lưới điều khiển\n-lưới khiển\n-lưới tọa độ\n-mạng\n-mạng lưới\n-mặt sang\n-ô tọa độ\n-rèm\n@Lĩnh vực: xây dựng\n-chân song\n-mạng thành bụng\n@Lĩnh vực: điện lạnh\n-cực lưới\n@Lĩnh vực: điện tử & viễn thông\n-điện thoại)\n@Lĩnh vực: dệt may\n-đường ô kẻ\n@Lĩnh vực: toán & tin\n-khung lưới\n-lưới ô vuông\n@Lĩnh vực: điện\n-mạng lưới (điện
-
+grid	
+@grid /grid/
+*  danh từ
+- hệ thống đường dây (điện phân bố trong một khu vực)
+- đường kẻ ô (để vẽ bản đồ)
+- vỉ (nướng chả)
+- chấn song sắt
+- (raddiô) lưới điều khiển
+@Chuyên ngành kinh tế
+-vị (nướng chả)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-GRID
+@Chuyên ngành kỹ thuật
+-ghi
+-ghi lò
+-giàn mắt cáo
+-giát
+-hệ thống đường dây
+-lưới điện
+-lưới điều khiển
+-lưới khiển
+-lưới tọa độ
+-mạng
+-mạng lưới
+-mặt sang
+-ô tọa độ
+-rèm
+@Lĩnh vực: xây dựng
+-chân song
+-mạng thành bụng
+@Lĩnh vực: điện lạnh
+-cực lưới
+@Lĩnh vực: điện tử & viễn thông
+-điện thoại)
+@Lĩnh vực: dệt may
+-đường ô kẻ
+@Lĩnh vực: toán & tin
+-khung lưới
+-lưới ô vuông
+@Lĩnh vực: điện
+-mạng lưới (điện

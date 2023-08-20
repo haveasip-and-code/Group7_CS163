@@ -1,3 +1,2 @@
-plaguer
-	@plaguer\n- xem plague
-
+plaguer	@plaguer
+- xem plague

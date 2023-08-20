@@ -1,3 +1,3 @@
-thindown
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sự làm mỏng đi
-
+thindown	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sự làm mỏng đi

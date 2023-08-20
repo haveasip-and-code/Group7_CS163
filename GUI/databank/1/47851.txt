@@ -1,3 +1,30 @@
-roast
-	@roast /roust/\n*  danh từ\n- thịt quay, thịt nướng; sự quay thịt, sự nướng thịt\n- (từ Mỹ,nghĩa Mỹ) lời phê bình nghiêm khắc, lời giễu cợt cay độc\n- (kỹ thuật) sự nung\n!to rule the roast\n- (xem) rule\n*  tính từ\n- quay, nướng\n=roast pig+ thịt lợn quay\n*  ngoại động từ\n- quay, nướng (thịt)\n- rang (cà phê)\n=to roast coffee-beans+ rang cà phê\n- sưởi ấm; hơ lửa, bắt (ai) đứng vào lửa (để tra tấn)\n=to roast oneself at the fire+ sưởi ấm bên bếp lửa\n- (kỹ thuật) nung\n- (từ Mỹ,nghĩa Mỹ) phê bình nghiêm khắc\n- chế nhạo, giễu cợt, chế giễu\n@Chuyên ngành kinh tế\n-nướng\n-rán\n-thịt nướng\n-thịt rán\n@Chuyên ngành kỹ thuật\n-đốt\n-nung\n-sự thiêu\n@Lĩnh vực: hóa học & vật liệu\n-thiếu
-
+roast	@roast /roust/
+*  danh từ
+- thịt quay, thịt nướng; sự quay thịt, sự nướng thịt
+- (từ Mỹ,nghĩa Mỹ) lời phê bình nghiêm khắc, lời giễu cợt cay độc
+- (kỹ thuật) sự nung
+!to rule the roast
+- (xem) rule
+*  tính từ
+- quay, nướng
+=roast pig+ thịt lợn quay
+*  ngoại động từ
+- quay, nướng (thịt)
+- rang (cà phê)
+=to roast coffee-beans+ rang cà phê
+- sưởi ấm; hơ lửa, bắt (ai) đứng vào lửa (để tra tấn)
+=to roast oneself at the fire+ sưởi ấm bên bếp lửa
+- (kỹ thuật) nung
+- (từ Mỹ,nghĩa Mỹ) phê bình nghiêm khắc
+- chế nhạo, giễu cợt, chế giễu
+@Chuyên ngành kinh tế
+-nướng
+-rán
+-thịt nướng
+-thịt rán
+@Chuyên ngành kỹ thuật
+-đốt
+-nung
+-sự thiêu
+@Lĩnh vực: hóa học & vật liệu
+-thiếu

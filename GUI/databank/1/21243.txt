@@ -1,3 +1,60 @@
-flag
-	@flag /'flæg/\n*  danh từ\n- (thực vật học) cây irit\n*  danh từ\n- phiến đá lát đường ((cũng) flag stone)\n- (số nhiều) mặt đường lát bằng đá phiến\n*  ngoại động từ\n- lát bằng đá phiến\n*  danh từ\n- lông cánh (chin) ((cũng) flag feather)\n*  danh từ\n- cờ\n=to hoist the flag+ kéo cờ trên đất mới khám phá\n- (hàng hải) cờ lệnh (trên tàu có hàng đô đốc)\n- đuôi cờ (của một loại chó săn)\n!to boist one's flag\n- nhận quyền chỉ huy\n!to strike one's flag\n- từ bỏ quyền chỉ huy\n- hạ cờ đầu hàng\n*  ngoại động từ\n- trang hoàng bằng cờ; treo cờ\n- ra hiệu bằng cờ\n- đánh dấu bằng cờ\n*  nội động từ\n- yếu đi, giảm sút; héo đi\n=never flagging enthusiasm+ nhiệt tình không bao giờ giảm sút\n- lả đi\n- trở nên nhạt nhẽo\n=conversation is flagging+ câu chuyện trở nên nhạt nhẽo, câu chuyện trở nên rời rạc\n@Chuyên ngành kinh tế\n-cờ hiệu\n-đồ thị (dạng ngọn cờ)\n-thuyền kỳ\n-thuyền tịch\n@Chuyên ngành kỹ thuật\n-bộ chỉ báo\n-đá lát đường\n-dán nhãn\n-dấu hiệu\n-lớp đá\n-lớp đá lát\n-lớp đá mỏng\n-nhãn\n-phiến đá\n-tấm lát đường\n@Lĩnh vực: toán & tin\n-dán cờ\n@Chuyên ngành kỹ thuật\n-bộ chỉ báo\n-đá lát đường\n-dán nhãn\n-dấu hiệu\n-lớp đá\n-lớp đá lát\n-lớp đá mỏng\n-nhãn\n-phiến đá\n-tấm lát đường\n@Lĩnh vực: toán & tin\n-dán cờ
-
+flag	
+@flag /'flæg/
+*  danh từ
+- (thực vật học) cây irit
+*  danh từ
+- phiến đá lát đường ((cũng) flag stone)
+- (số nhiều) mặt đường lát bằng đá phiến
+*  ngoại động từ
+- lát bằng đá phiến
+*  danh từ
+- lông cánh (chin) ((cũng) flag feather)
+*  danh từ
+- cờ=to hoist the flag
++ kéo cờ trên đất mới khám phá
+- (hàng hải) cờ lệnh (trên tàu có hàng đô đốc)
+- đuôi cờ (của một loại chó săn)!to boist one's flag
+- nhận quyền chỉ huy!to strike one's flag
+- từ bỏ quyền chỉ huy
+- hạ cờ đầu hàng
+*  ngoại động từ
+- trang hoàng bằng cờ; treo cờ
+- ra hiệu bằng cờ
+- đánh dấu bằng cờ
+*  nội động từ
+- yếu đi, giảm sút; héo đi=never flagging enthusiasm
++ nhiệt tình không bao giờ giảm sút
+- lả đi
+- trở nên nhạt nhẽo=conversation is flagging
++ câu chuyện trở nên nhạt nhẽo, câu chuyện trở nên rời rạc
+@Chuyên ngành kinh tế
+-cờ hiệu
+-đồ thị (dạng ngọn cờ)
+-thuyền kỳ
+-thuyền tịch
+@Chuyên ngành kỹ thuật
+-bộ chỉ báo
+-đá lát đường
+-dán nhãn
+-dấu hiệu
+-lớp đá
+-lớp đá lát
+-lớp đá mỏng
+-nhãn
+-phiến đá
+-tấm lát đường
+@Lĩnh vực: toán & tin
+-dán cờ
+@Chuyên ngành kỹ thuật
+-bộ chỉ báo
+-đá lát đường
+-dán nhãn
+-dấu hiệu
+-lớp đá
+-lớp đá lát
+-lớp đá mỏng
+-nhãn
+-phiến đá
+-tấm lát đường
+@Lĩnh vực: toán & tin
+-dán cờ

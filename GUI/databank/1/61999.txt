@@ -1,3 +1,2 @@
-vitamer
-	@Chuyên ngành kỹ thuật\n-loại vitamin
-
+vitamer	@Chuyên ngành kỹ thuật
+-loại vitamin

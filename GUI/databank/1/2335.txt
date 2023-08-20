@@ -1,3 +1,6 @@
-annuities
-	@Chuyên ngành kinh tế\n-trả niên kim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tiền trả hằng năm
-
+annuities	
+@Chuyên ngành kinh tế
+-trả niên kim
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tiền trả hằng năm

@@ -1,3 +1,14 @@
-tradition
-	@tradition /trə'diʃn/\n*  danh từ\n- sự truyền miệng (truyện cổ tích, phong tục tập quán... từ đời nọ qua đời kia)\n- truyền thuyết\n=based only on tradition(s)+ chỉ dựa vào truyền thuyết\n- truyền thống\n=the tradition of heroism+ truyền thống anh hùng\n@Chuyên ngành kinh tế\n-sự chuyển nhượng (quyền sở hữu)\n-truyền thống\n-truyền thống, (sự) chuyển nhượng (quyền sở hữu)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-truyền thống
-
+tradition	@tradition /trə'diʃn/
+*  danh từ
+- sự truyền miệng (truyện cổ tích, phong tục tập quán... từ đời nọ qua đời kia)
+- truyền thuyết
+=based only on tradition(s)+ chỉ dựa vào truyền thuyết
+- truyền thống
+=the tradition of heroism+ truyền thống anh hùng
+@Chuyên ngành kinh tế
+-sự chuyển nhượng (quyền sở hữu)
+-truyền thống
+-truyền thống, (sự) chuyển nhượng (quyền sở hữu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-truyền thống

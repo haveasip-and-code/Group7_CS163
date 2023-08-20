@@ -1,3 +1,24 @@
-recurrence
-	@recurrence /ri'kʌrəns/\n*  danh từ\n- sự trở lại (một vấn đề...)\n- sự trở lại trong trí nhớ\n- sự tái diễn, sự diễn lại\n- (y học) sự phát sinh lại\n- (toán học) phép truy toán\n=recurrence theorem+ định lý truy toán\n@Chuyên ngành kinh tế\n-sự lặp lại\n-tái lại\n-xuất hiện trở lại\n@Chuyên ngành kỹ thuật\n-hồi quy\n-lập lại\n-sự lặp lại\n-sự trở lại\n-tần suất\n@Lĩnh vực: toán & tin\n-phép truy toán\n@Lĩnh vực: cơ khí & công trình\n-sự tái diễn\n@Lĩnh vực: y học\n-sự tái phát
-
+recurrence	@recurrence /ri'kʌrəns/
+*  danh từ
+- sự trở lại (một vấn đề...)
+- sự trở lại trong trí nhớ
+- sự tái diễn, sự diễn lại
+- (y học) sự phát sinh lại
+- (toán học) phép truy toán
+=recurrence theorem+ định lý truy toán
+@Chuyên ngành kinh tế
+-sự lặp lại
+-tái lại
+-xuất hiện trở lại
+@Chuyên ngành kỹ thuật
+-hồi quy
+-lập lại
+-sự lặp lại
+-sự trở lại
+-tần suất
+@Lĩnh vực: toán & tin
+-phép truy toán
+@Lĩnh vực: cơ khí & công trình
+-sự tái diễn
+@Lĩnh vực: y học
+-sự tái phát

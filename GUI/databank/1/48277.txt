@@ -1,3 +1,6 @@
-rusting
-	@Chuyên ngành kỹ thuật\n-sự gỉ\n@Lĩnh vực: ô tô\n-sự gỉ (sắt)\n@Lĩnh vực: xây dựng\n-sự hóa gỉ
-
+rusting	@Chuyên ngành kỹ thuật
+-sự gỉ
+@Lĩnh vực: ô tô
+-sự gỉ (sắt)
+@Lĩnh vực: xây dựng
+-sự hóa gỉ

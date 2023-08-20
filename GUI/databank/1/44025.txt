@@ -1,3 +1,6 @@
-pronator
-	@pronator /pronator/\n*  danh từ\n- (giải phẫu) cơ quay sấp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cơ quay sấp
-
+pronator	@pronator /pronator/
+*  danh từ
+- (giải phẫu) cơ quay sấp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cơ quay sấp

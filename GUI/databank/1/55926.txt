@@ -1,3 +1,6 @@
-tempt
-	@tempt /tempt/\n*  ngoại động từ\n- xúi, xúi giục\n=to tempt someone to evil+ xúi ai làm điều ác\n- cám dỗ, quyến rũ, nhử, làm thèm, gợi thèm\n=to tempt the appetite+ làm cho thèm ăn
-
+tempt	@tempt /tempt/
+*  ngoại động từ
+- xúi, xúi giục
+=to tempt someone to evil+ xúi ai làm điều ác
+- cám dỗ, quyến rũ, nhử, làm thèm, gợi thèm
+=to tempt the appetite+ làm cho thèm ăn

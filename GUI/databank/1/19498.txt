@@ -1,3 +1,6 @@
-examined
-	@Chuyên ngành kinh tế\n-đã đọc\n-đã kiểm tra\n-đã xem\n-đọc đã kiểm tra
-
+examined	
+@Chuyên ngành kinh tế
+-đã đọc
+-đã kiểm tra
+-đã xem
+-đọc đã kiểm tra

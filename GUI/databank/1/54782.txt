@@ -1,3 +1,16 @@
-suppress
-	@suppress /sə'pres/\n*  ngoại động từ\n- chặn (bệnh); triệt (tiếng ồn)\n- đàn áp\n=to suppress a rebellion+ đàn áp một cuộc nổi loạn\n- bỏ, cấm, cấm hoạt động\n=to suppress a fascist association+ cấm một tổ chức phát xít\n- nín, nén, cầm lại\n=to suppress a laugh+ nín cười\n- giữ kín; lấp liếm, ỉm đi\n=to suppress evidence+ giữ kín chứng cớ; lấp liếm chứng cớ\n=to suppress a book+ ỉm một quyển sách đi (không có phát hành); thu hồi một cuốn sách\n!to suppress one's conscience\n- làm im tiếng nói của lương tâm\n@Chuyên ngành kỹ thuật\n-xóa bỏ
-
+suppress	@suppress /sə'pres/
+*  ngoại động từ
+- chặn (bệnh); triệt (tiếng ồn)
+- đàn áp
+=to suppress a rebellion+ đàn áp một cuộc nổi loạn
+- bỏ, cấm, cấm hoạt động
+=to suppress a fascist association+ cấm một tổ chức phát xít
+- nín, nén, cầm lại
+=to suppress a laugh+ nín cười
+- giữ kín; lấp liếm, ỉm đi
+=to suppress evidence+ giữ kín chứng cớ; lấp liếm chứng cớ
+=to suppress a book+ ỉm một quyển sách đi (không có phát hành); thu hồi một cuốn sách
+!to suppress one's conscience
+- làm im tiếng nói của lương tâm
+@Chuyên ngành kỹ thuật
+-xóa bỏ

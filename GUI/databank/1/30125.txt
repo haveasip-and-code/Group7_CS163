@@ -1,3 +1,22 @@
-isolator
-	@isolator\n- xem isolate\n@Chuyên ngành kỹ thuật\n-bộ cách ly\n-cầu dao\n-cầu dao cách ly\n-chất cách điện\n-dụng cụ cách điện\n-sứ cách điện\n-vật cách điện\n-vật cách ly\n@Lĩnh vực: xây dựng\n-bộ phận cách ly\n-dao cách ly\n@Lĩnh vực: điện\n-cái cách điện\n-cái cắt mạch điện\n@Lĩnh vực: toán & tin\n-cái tách\n@Lĩnh vực: ô tô\n-vật ngăn cách
-
+isolator	
+@isolator
+- xem isolate
+@Chuyên ngành kỹ thuật
+-bộ cách ly
+-cầu dao
+-cầu dao cách ly
+-chất cách điện
+-dụng cụ cách điện
+-sứ cách điện
+-vật cách điện
+-vật cách ly
+@Lĩnh vực: xây dựng
+-bộ phận cách ly
+-dao cách ly
+@Lĩnh vực: điện
+-cái cách điện
+-cái cắt mạch điện
+@Lĩnh vực: toán & tin
+-cái tách
+@Lĩnh vực: ô tô
+-vật ngăn cách

@@ -1,3 +1,25 @@
-charger
-	@charger /'tʃɑ:dʤə/\n*  danh từ\n- ngựa của sĩ quan; ngựa chiến\n- ổ nạp đạn\n- (điện học) bộ nạp điện\n@Chuyên ngành kinh tế\n-chủ nợ\n@Chuyên ngành kỹ thuật\n-bộ nạp\n-bộ nạp ắcqui\n-bộ nạp điện\n-thiết bị chất tải\n@Lĩnh vực: cơ khí & công trình\n-bộ (phận) nạp (điện)\n-máy nạp liệu\n-ổ nạp đạn\n@Lĩnh vực: điện\n-bộ nạp (điện)\n@Lĩnh vực: toán & tin\n-người nạp liệu\n@Lĩnh vực: ô tô\n-máy nạp bình\n@Lĩnh vực: xây dựng\n-thiết bị cấp điện\n-thiết bị nạp điện
-
+charger	@charger /'tʃɑ:dʤə/
+*  danh từ
+- ngựa của sĩ quan; ngựa chiến
+- ổ nạp đạn
+- (điện học) bộ nạp điện
+@Chuyên ngành kinh tế
+-chủ nợ
+@Chuyên ngành kỹ thuật
+-bộ nạp
+-bộ nạp ắcqui
+-bộ nạp điện
+-thiết bị chất tải
+@Lĩnh vực: cơ khí & công trình
+-bộ (phận) nạp (điện)
+-máy nạp liệu
+-ổ nạp đạn
+@Lĩnh vực: điện
+-bộ nạp (điện)
+@Lĩnh vực: toán & tin
+-người nạp liệu
+@Lĩnh vực: ô tô
+-máy nạp bình
+@Lĩnh vực: xây dựng
+-thiết bị cấp điện
+-thiết bị nạp điện

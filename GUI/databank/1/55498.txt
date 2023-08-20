@@ -1,3 +1,16 @@
-tambour
-	@tambour /tæbuə/\n*  danh từ\n- cái trống\n- khung thêu\n=tambour work+ đồ thêu trên khung\n*  ngoại động từ\n- thêu trên khung thêu\n@Chuyên ngành kỹ thuật\n-trống\n@Lĩnh vực: xây dựng\n-buồng đệm\n-đầu cột chứa corin\n-đồ thêu trên khung\n-ngăn đệm\n-tường đỡ vòm\n-vành đỡ vòm
-
+tambour	@tambour /tæbuə/
+*  danh từ
+- cái trống
+- khung thêu
+=tambour work+ đồ thêu trên khung
+*  ngoại động từ
+- thêu trên khung thêu
+@Chuyên ngành kỹ thuật
+-trống
+@Lĩnh vực: xây dựng
+-buồng đệm
+-đầu cột chứa corin
+-đồ thêu trên khung
+-ngăn đệm
+-tường đỡ vòm
+-vành đỡ vòm

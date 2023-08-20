@@ -1,3 +1,2 @@
-projectional
-	@projectional\n- xem projection
-
+projectional	@projectional
+- xem projection

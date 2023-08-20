@@ -1,3 +1,6 @@
-nosebleed
-	@nosebleed\n* danh từ\n- sự chảy máu từ mũi ra; sự chảy máu cam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chảy máu mũi
-
+nosebleed	@nosebleed
+* danh từ
+- sự chảy máu từ mũi ra; sự chảy máu cam
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chảy máu mũi

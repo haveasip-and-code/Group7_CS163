@@ -1,3 +1,28 @@
-relation
-	@relation /ri'leiʃn/\n*  danh từ\n- sự kể lại, sự thuật lại; chuyện kể lại\n- sự liên lạc, mối quan hệ, mối tương quan, mối liên hệ\n=the relations of production+ quan hệ sản xuất\n=the relation between knowledge and practice+ mối quan hệ trí thức và thực hành\n- (số nhiều) sự giao thiệp\n=to have business relations somebody+ có giao thiệp buôn bán với ai\n=to enter into relations with someone+ giao thiệp với ai\n- người bà con, họ hàng, thân thuộc\n=he is a relation to me+ anh ta là người bà con của tôi\n=relation by (on) the father's side+ người bà con bên nội\n- (pháp lý) sự đưa đơn lên chưởng lý\n@Chuyên ngành kinh tế\n-quan hệ, mỗi quan hệ, (sự) tương quan\n@Chuyên ngành kỹ thuật\n-hệ thức\n-mối liên hệ\n-mối quan hệ\n-quan hệ\n-sự liên hệ\n-sự quan hệ\n-sự tương quan\n-toán tử quan hệ\n@Lĩnh vực: toán & tin\n-quan hệ, tỷ suất\n@Lĩnh vực: xây dựng\n-tỉ suất
-
+relation	@relation /ri'leiʃn/
+*  danh từ
+- sự kể lại, sự thuật lại; chuyện kể lại
+- sự liên lạc, mối quan hệ, mối tương quan, mối liên hệ
+=the relations of production+ quan hệ sản xuất
+=the relation between knowledge and practice+ mối quan hệ trí thức và thực hành
+- (số nhiều) sự giao thiệp
+=to have business relations somebody+ có giao thiệp buôn bán với ai
+=to enter into relations with someone+ giao thiệp với ai
+- người bà con, họ hàng, thân thuộc
+=he is a relation to me+ anh ta là người bà con của tôi
+=relation by (on) the father's side+ người bà con bên nội
+- (pháp lý) sự đưa đơn lên chưởng lý
+@Chuyên ngành kinh tế
+-quan hệ, mỗi quan hệ, (sự) tương quan
+@Chuyên ngành kỹ thuật
+-hệ thức
+-mối liên hệ
+-mối quan hệ
+-quan hệ
+-sự liên hệ
+-sự quan hệ
+-sự tương quan
+-toán tử quan hệ
+@Lĩnh vực: toán & tin
+-quan hệ, tỷ suất
+@Lĩnh vực: xây dựng
+-tỉ suất

@@ -1,3 +1,4 @@
-windowing
-	@Chuyên ngành kỹ thuật\n-sự tạo cửa sổ\n@Lĩnh vực: toán & tin\n-sự phân chia cửa sổ (màn hình máy tính)
-
+windowing	@Chuyên ngành kỹ thuật
+-sự tạo cửa sổ
+@Lĩnh vực: toán & tin
+-sự phân chia cửa sổ (màn hình máy tính)

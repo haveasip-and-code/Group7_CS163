@@ -1,3 +1,14 @@
-assembler
-	@assembler\n- (Tech) chương trình dịch mã số; thợ lắp ráp\n@Chuyên ngành kinh tế\n-thợ lắp ráp\n@Chuyên ngành kỹ thuật\n-thợ lắp ráp\n@Lĩnh vực: điện lạnh\n-bộ lắp ghép\n-phần tử lắp ráp\n@Lĩnh vực: xây dựng\n-ráp viên\n@Lĩnh vực: cơ khí & công trình\n-thiết bị lắp ráp
-
+assembler	
+@assembler
+- (Tech) chương trình dịch mã số; thợ lắp ráp
+@Chuyên ngành kinh tế
+-thợ lắp ráp
+@Chuyên ngành kỹ thuật
+-thợ lắp ráp
+@Lĩnh vực: điện lạnh
+-bộ lắp ghép
+-phần tử lắp ráp
+@Lĩnh vực: xây dựng
+-ráp viên
+@Lĩnh vực: cơ khí & công trình
+-thiết bị lắp ráp

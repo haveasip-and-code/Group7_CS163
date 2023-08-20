@@ -1,3 +1,4 @@
-propound
-	@propound /propound/\n*  ngoại động từ\n- đề nghị, đề xuất, đưa ra để nghiên cứu (một vấn đề, một kế hoạch...)\n- đưa chứng thực (bản chúc thư)
-
+propound	@propound /propound/
+*  ngoại động từ
+- đề nghị, đề xuất, đưa ra để nghiên cứu (một vấn đề, một kế hoạch...)
+- đưa chứng thực (bản chúc thư)

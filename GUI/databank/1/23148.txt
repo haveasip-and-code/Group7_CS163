@@ -1,3 +1,7 @@
-gendarme
-	@gendarme /'ʤỴ:ndɑ:m/\n*  danh từ\n- sen đầm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hiến binh
-
+gendarme	
+@gendarme /'ʤỴ:ndɑ:m/
+*  danh từ
+- sen đầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hiến binh

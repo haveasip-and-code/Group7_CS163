@@ -1,3 +1,23 @@
-isolation
-	@isolation /,aisə'leiʃn/\n*  danh từ\n- sự cô lập\n- (y học) sự cách ly\n- (điện học) sự cách\n- (hoá học) sự tách ra\n@Chuyên ngành kỹ thuật\n-sự cách điện\n-sự cách ly\n-sự cách nhiệt\n-sự cô lập\n-sự độc lập hóa\n-sự ngăn cách\n-sự tách rời\n@Lĩnh vực: y học\n-cách ly\n@Lĩnh vực: điện tử & viễn thông\n-sự khử ghép\n@Lĩnh vực: điện\n-sự tách riêng\n@Lĩnh vực: hóa học & vật liệu\n-tách riêng
-
+isolation	
+@isolation /,aisə'leiʃn/
+*  danh từ
+- sự cô lập
+- (y học) sự cách ly
+- (điện học) sự cách
+- (hoá học) sự tách ra
+@Chuyên ngành kỹ thuật
+-sự cách điện
+-sự cách ly
+-sự cách nhiệt
+-sự cô lập
+-sự độc lập hóa
+-sự ngăn cách
+-sự tách rời
+@Lĩnh vực: y học
+-cách ly
+@Lĩnh vực: điện tử & viễn thông
+-sự khử ghép
+@Lĩnh vực: điện
+-sự tách riêng
+@Lĩnh vực: hóa học & vật liệu
+-tách riêng

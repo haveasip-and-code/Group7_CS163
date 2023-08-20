@@ -1,3 +1,7 @@
-makeweight
-	@makeweight /'meikweit/\n*  danh từ\n- vật bù vào cho cân\n- đối trọng\n- người điền trống, vật điền trống (lấp vào chỗ trống); người thêm vào cho đông, vật thêm vào cho nhiều\n@Chuyên ngành kinh tế\n-trọng lượng thêm vào cho đủ
-
+makeweight	@makeweight /'meikweit/
+*  danh từ
+- vật bù vào cho cân
+- đối trọng
+- người điền trống, vật điền trống (lấp vào chỗ trống); người thêm vào cho đông, vật thêm vào cho nhiều
+@Chuyên ngành kinh tế
+-trọng lượng thêm vào cho đủ

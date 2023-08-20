@@ -1,3 +1,5 @@
-complexing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất tạo càng (cua)\n-sự tạo chelat\n-sự tạo phức
-
+complexing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất tạo càng (cua)
+-sự tạo chelat
+-sự tạo phức

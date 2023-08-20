@@ -1,3 +1,2 @@
-patentable
-	@patentable\n- xem patent
-
+patentable	@patentable
+- xem patent

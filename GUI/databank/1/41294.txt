@@ -1,3 +1,2 @@
-photolytic
-	@photolytic\n- xem photolysis
-
+photolytic	@photolytic
+- xem photolysis

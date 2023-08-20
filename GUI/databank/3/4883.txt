@@ -1,3 +1,7 @@
-bateau
-	@bateau\n* danh từ\n- số nhiều bateaux\n- thuyền đáy bằng (chạy trên sông Bắc Mỹ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuyền đãi mẫu
-
+bateau	@bateau
+* danh từ
+- số nhiều bateaux
+- thuyền đáy bằng (chạy trên sông Bắc Mỹ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuyền đãi mẫu

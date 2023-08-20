@@ -1,3 +1,4 @@
-underpart
-	@underpart /'ʌndəpɑ:t/\n*  danh từ\n- phần dưới\n- (sân khấu) vai phụ
-
+underpart	@underpart /'ʌndəpɑ:t/
+*  danh từ
+- phần dưới
+- (sân khấu) vai phụ

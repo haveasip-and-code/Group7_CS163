@@ -1,3 +1,12 @@
-figuring
-	@figuring\n* danh từ\n- sự vẽ hình, sự in hình\n@Chuyên ngành kỹ thuật\n-sự in hình\n-sự tạo hình\n-sự vẽ hình\n@Chuyên ngành kỹ thuật\n-sự in hình\n-sự tạo hình\n-sự vẽ hình
-
+figuring	
+@figuring
+* danh từ
+- sự vẽ hình, sự in hình
+@Chuyên ngành kỹ thuật
+-sự in hình
+-sự tạo hình
+-sự vẽ hình
+@Chuyên ngành kỹ thuật
+-sự in hình
+-sự tạo hình
+-sự vẽ hình

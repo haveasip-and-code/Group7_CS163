@@ -1,3 +1,7 @@
-inherited
-	@inherited\n- được thừa hưởng, được kế tục\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được kế tục\n-được thừa hưởng
-
+inherited	
+@inherited
+- được thừa hưởng, được kế tục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được kế tục
+-được thừa hưởng

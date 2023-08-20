@@ -1,3 +1,58 @@
-recess
-	@recess /ri'ses/\n*  danh từ\n- thời gian ngừng họp (quốc hội...)\n- (từ Mỹ,nghĩa Mỹ) kỳ nghỉ (trường trung học, đại học)\n- (từ Mỹ,nghĩa Mỹ) giờ giải lao, giờ ra chơi chính (trường học)\n- (từ hiếm,nghĩa hiếm) sự rút đi (thuỷ triều)\n- chỗ thầm kín, nơi sâu kín, nơi hẻo lánh\n=in the recesses of the mountains+ ở nơi thâm sơn cùng cốc\n=in the inmost recesses of the heart+ trong thâm tâm\n- chỗ thụt vào (của dãy núi)\n- hốc tường (để đặt tượng...)\n- (giải phẫu) ngách, hốc\n- (kỹ thuật) lỗ thủng, rânh, hố đào; chỗ lõm\n*  ngoại động từ\n- đục lõm vào, đào hốc (ở tường...)\n- để (cái gì) ở nơi sâu kín; để (cái gì) vào hốc tường...\n*  nội động từ\n- ngừng họp; hoãn lại (phiên họp...)\n@Chuyên ngành kỹ thuật\n-bậc\n-đào hố\n-đào rãnh\n-dấu vạch\n-độ hở\n-đục rãnh\n-đường xoi\n-góc sau\n-hố\n-hốc\n-hốc rỗng\n-hốc tường\n-hõm\n-hõm tường\n-khoảng hở\n-khoét hốc\n-làm lõm\n-làm rãnh\n-lỗ khoét\n-lỗ rỗng\n-lõm\n-lòng máng\n-ngách\n-ngấn\n-phần lồi\n-rãnh\n-rãnh cắt\n-rãnh chìm cổ trục\n-rèn thô\n-sự vạch dấu\n-tầng\n-vết cắt\n-vết khắc\n@Lĩnh vực: xây dựng\n-hốc lõm\n-hốc số\n-vách đáy\n@Lĩnh vực: y học\n-hõm, hố
-
+recess	@recess /ri'ses/
+*  danh từ
+- thời gian ngừng họp (quốc hội...)
+- (từ Mỹ,nghĩa Mỹ) kỳ nghỉ (trường trung học, đại học)
+- (từ Mỹ,nghĩa Mỹ) giờ giải lao, giờ ra chơi chính (trường học)
+- (từ hiếm,nghĩa hiếm) sự rút đi (thuỷ triều)
+- chỗ thầm kín, nơi sâu kín, nơi hẻo lánh
+=in the recesses of the mountains+ ở nơi thâm sơn cùng cốc
+=in the inmost recesses of the heart+ trong thâm tâm
+- chỗ thụt vào (của dãy núi)
+- hốc tường (để đặt tượng...)
+- (giải phẫu) ngách, hốc
+- (kỹ thuật) lỗ thủng, rânh, hố đào; chỗ lõm
+*  ngoại động từ
+- đục lõm vào, đào hốc (ở tường...)
+- để (cái gì) ở nơi sâu kín; để (cái gì) vào hốc tường...
+*  nội động từ
+- ngừng họp; hoãn lại (phiên họp...)
+@Chuyên ngành kỹ thuật
+-bậc
+-đào hố
+-đào rãnh
+-dấu vạch
+-độ hở
+-đục rãnh
+-đường xoi
+-góc sau
+-hố
+-hốc
+-hốc rỗng
+-hốc tường
+-hõm
+-hõm tường
+-khoảng hở
+-khoét hốc
+-làm lõm
+-làm rãnh
+-lỗ khoét
+-lỗ rỗng
+-lõm
+-lòng máng
+-ngách
+-ngấn
+-phần lồi
+-rãnh
+-rãnh cắt
+-rãnh chìm cổ trục
+-rèn thô
+-sự vạch dấu
+-tầng
+-vết cắt
+-vết khắc
+@Lĩnh vực: xây dựng
+-hốc lõm
+-hốc số
+-vách đáy
+@Lĩnh vực: y học
+-hõm, hố

@@ -1,3 +1,3 @@
-prosodist
-	@prosodist /prosodist/\n*  danh từ\n- nhà nghiên cứu phép làm thơ
-
+prosodist	@prosodist /prosodist/
+*  danh từ
+- nhà nghiên cứu phép làm thơ

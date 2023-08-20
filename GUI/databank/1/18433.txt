@@ -1,3 +1,25 @@
-enquiry
-	@enquiry /in'kwaiəri/\n*  danh từ\n- sự điều tra, sự thẩm tra; sự thẩm vấn, sự hỏi\n- câu hỏi\n@Chuyên ngành kinh tế\n-câu hỏi\n-điều tra\n-hỏi giá\n-hỏi tiền\n-thư hỏi giá\n@Chuyên ngành kỹ thuật\n-đòi hỏi\n-sự hỏi\n-sự vấn tin\n-sự yêu cầu\n-truy vấn\n-yêu cầu\n@Chuyên ngành kỹ thuật\n-đòi hỏi\n-sự hỏi\n-sự vấn tin\n-sự yêu cầu\n-truy vấn\n-yêu cầu
-
+enquiry	
+@enquiry /in'kwaiəri/
+*  danh từ
+- sự điều tra, sự thẩm tra; sự thẩm vấn, sự hỏi
+- câu hỏi
+@Chuyên ngành kinh tế
+-câu hỏi
+-điều tra
+-hỏi giá
+-hỏi tiền
+-thư hỏi giá
+@Chuyên ngành kỹ thuật
+-đòi hỏi
+-sự hỏi
+-sự vấn tin
+-sự yêu cầu
+-truy vấn
+-yêu cầu
+@Chuyên ngành kỹ thuật
+-đòi hỏi
+-sự hỏi
+-sự vấn tin
+-sự yêu cầu
+-truy vấn
+-yêu cầu

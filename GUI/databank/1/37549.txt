@@ -1,3 +1,11 @@
-octal
-	@octal\n* tính từ\n- thuộc hệ thống lấy số 8 làm cơ sở\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bát phân\n-cơ số 8\n-cơ số tám\n-hệ tám, bát phân\n@Lĩnh vực: xây dựng\n-có tám mặt
-
+octal	@octal
+* tính từ
+- thuộc hệ thống lấy số 8 làm cơ sở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bát phân
+-cơ số 8
+-cơ số tám
+-hệ tám, bát phân
+@Lĩnh vực: xây dựng
+-có tám mặt

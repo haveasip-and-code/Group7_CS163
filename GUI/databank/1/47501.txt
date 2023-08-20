@@ -1,3 +1,18 @@
-revision
-	@revision /ri'viʤn/\n*  danh từ\n- sự xem lại, sự xét lại, sự duyệt lại\n- sự sửa lại\n@Chuyên ngành kinh tế\n-hiệu chỉnh\n-sự hiệu đính\n-sửa đổi\n@Chuyên ngành kỹ thuật\n-sự hiệu chỉnh\n-sự kiểm tra\n@Lĩnh vực: điện tử & viễn thông\n-duyệt xét\n@Lĩnh vực: xây dựng\n-sự soát lại\n@Lĩnh vực: toán & tin\n-sự xem lại\n-việc xem lại
-
+revision	@revision /ri'viʤn/
+*  danh từ
+- sự xem lại, sự xét lại, sự duyệt lại
+- sự sửa lại
+@Chuyên ngành kinh tế
+-hiệu chỉnh
+-sự hiệu đính
+-sửa đổi
+@Chuyên ngành kỹ thuật
+-sự hiệu chỉnh
+-sự kiểm tra
+@Lĩnh vực: điện tử & viễn thông
+-duyệt xét
+@Lĩnh vực: xây dựng
+-sự soát lại
+@Lĩnh vực: toán & tin
+-sự xem lại
+-việc xem lại

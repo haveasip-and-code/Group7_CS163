@@ -1,3 +1,2 @@
-abstracter
-	@abstracter\n- xem abstract
-
+abstracter	@abstracter
+- xem abstract

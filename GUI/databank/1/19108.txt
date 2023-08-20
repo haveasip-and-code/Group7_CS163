@@ -1,3 +1,10 @@
-espionage
-	@espionage\n* danh từ\n- hoạt động tình báo, hoạt động gián điệp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gián điệp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gián điệp
-
+espionage	
+@espionage
+* danh từ
+- hoạt động tình báo, hoạt động gián điệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-gián điệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-gián điệp

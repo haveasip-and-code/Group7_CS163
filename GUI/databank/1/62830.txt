@@ -1,3 +1,44 @@
-whip
-	@whip /wip/\n*  danh từ\n- roi, roi da\n- người đánh xe ngựa\n- người phụ trách chó (khi đi săn) ((cũng) whipper-in)\n- nghị viên phụ trách tổ chức (của nhóm nghị sĩ của một đng trong nghị viện Anh); giấy báo của nghị viên phụ\ntrách tổ chức\n- cánh quạt máy xay gió\n- (hàng hi) cáp kéo\n*  nội động từ\n- xông, lao, chạy vụt\n=to whip behind someone+ chạy vụt tới sau một người\n=to whip down the stairs+ lao nhanh xuống cầu thang\n- quất, đập mạnh vào\n=the rain whipped against the panes+ mưa đập mạnh vào cửa kính\n*  ngoại động từ\n- đánh bằng roi, quất\n=to whip a horse+ quất ngựa\n- khâu vắt\n=to whip a seam+ khâu vắt một đường may\n- rút, giật, cởi phắt\n=to whip a knife out of one's pocket+ rút nhanh con dao nhíp trong túi ra\n=to whip off one's coat+ cởi phắt áo choàng ra\n- đánh (kem, trứng)\n- (hàng hi) quấn chặt (đầu sợi dây)\n- (từ lóng) đánh bại, thắng (một địch thủ)\n!to whip away\n- đánh, quất, đuổi (người nào)\n!to whip in\n- tập trung, lùa vào một ni (bằng roi)\n- (nghĩa bóng) triệu tập\n!to whip on\n- quất ngựa chạy tới\n!to whip out\n- rút nhanh; tuốt (kiếm)\n!to whip up\n- giục (ngựa) chạy tới\n- triệu tập gấp (hội viên, đng viên)\n!to whip creation\n- hn tất c\n@Chuyên ngành kinh tế\n-cáp kéo\n@Chuyên ngành kỹ thuật\n-roi
-
+whip	@whip /wip/
+*  danh từ
+- roi, roi da
+- người đánh xe ngựa
+- người phụ trách chó (khi đi săn) ((cũng) whipper-in)
+- nghị viên phụ trách tổ chức (của nhóm nghị sĩ của một đng trong nghị viện Anh); giấy báo của nghị viên phụ
+trách tổ chức
+- cánh quạt máy xay gió
+- (hàng hi) cáp kéo
+*  nội động từ
+- xông, lao, chạy vụt
+=to whip behind someone+ chạy vụt tới sau một người
+=to whip down the stairs+ lao nhanh xuống cầu thang
+- quất, đập mạnh vào
+=the rain whipped against the panes+ mưa đập mạnh vào cửa kính
+*  ngoại động từ
+- đánh bằng roi, quất
+=to whip a horse+ quất ngựa
+- khâu vắt
+=to whip a seam+ khâu vắt một đường may
+- rút, giật, cởi phắt
+=to whip a knife out of one's pocket+ rút nhanh con dao nhíp trong túi ra
+=to whip off one's coat+ cởi phắt áo choàng ra
+- đánh (kem, trứng)
+- (hàng hi) quấn chặt (đầu sợi dây)
+- (từ lóng) đánh bại, thắng (một địch thủ)
+!to whip away
+- đánh, quất, đuổi (người nào)
+!to whip in
+- tập trung, lùa vào một ni (bằng roi)
+- (nghĩa bóng) triệu tập
+!to whip on
+- quất ngựa chạy tới
+!to whip out
+- rút nhanh; tuốt (kiếm)
+!to whip up
+- giục (ngựa) chạy tới
+- triệu tập gấp (hội viên, đng viên)
+!to whip creation
+- hn tất c
+@Chuyên ngành kinh tế
+-cáp kéo
+@Chuyên ngành kỹ thuật
+-roi

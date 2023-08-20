@@ -1,3 +1,5 @@
-predate
-	@predate /pri:'deit/\n*  ngoại động từ\n- đề lùi ngày tháng về trước (một văn kiện...)\n@Chuyên ngành kinh tế\n-đề lùi ngày về trước (trên phiếu khoán, chi phiếu)
-
+predate	@predate /pri:'deit/
+*  ngoại động từ
+- đề lùi ngày tháng về trước (một văn kiện...)
+@Chuyên ngành kinh tế
+-đề lùi ngày về trước (trên phiếu khoán, chi phiếu)

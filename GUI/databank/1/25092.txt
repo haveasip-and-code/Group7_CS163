@@ -1,3 +1,58 @@
-hatch
-	@hatch /hætʃ/\n*  danh từ\n- cửa sập, cửa hầm (dưới sàn nhà); cửa hầm chứa hàng (của tàu thuỷ)\n=under hatches+ để dưới hầm tàu, giam trong hầm tàu\n- cửa cống, cửa đập nước\n- (nghĩa bóng) sự chết\n- (nghĩa bóng) sự đẩy vào cảnh tối tăm bần cùng\n*  danh từ\n- sự nở (trứng)\n- sự ấp trứng\n- ổ chim con mới nở\n- ổ trứng ấp\n!hatches, catches, matches, dispaches\n- mục sinh tử giá thú (trên báo)\n*  ngoại động từ\n- làm nở trứng\n- ấp (trứng)\n- ngấm ngầm bày đặt, ngấm ngầm dự định (âm mưu...)\n*  nội động từ\n- nở (trứng, gà con)\n!to count one's chickens before they are hatched\n- (tục ngữ) (xem) chicken\n*  danh từ\n- nét chải, đường gạch bóng (trên hình vẽ)\n*  ngoại động từ\n- tô nét chải, gạch đường bóng (trên hình vẽ)\n@Chuyên ngành kinh tế\n-ấp trứng\n-cửa hầm tàu\n-cửa khoang\n-máng\n-một lứa ấp trứng\n-nở trứng\n-sự nở trứng\n@Chuyên ngành kỹ thuật\n-cửa sập\n-đường gạch gạch\n-gạch chéo\n-kẻ nét chải\n-khắc\n-lối vào\n-nét\n-nét bóng\n-nét cắt\n-nét chải\n-nét đứt\n-nét gạch\n-nét gạch gạch\n-vạch\n@Lĩnh vực: xây dựng\n-cửa dập\n-đường gạch bóng\n-kẻ chéo\n-kẻ sọc\n-vuốt ở góc\n@Lĩnh vực: giao thông & vận tải\n-cửa lỗ\n-cửa nắp vỏ\n-miệng khoang hàng
-
+hatch	
+@hatch /hætʃ/
+*  danh từ
+- cửa sập, cửa hầm (dưới sàn nhà); cửa hầm chứa hàng (của tàu thuỷ)=under hatches
++ để dưới hầm tàu, giam trong hầm tàu
+- cửa cống, cửa đập nước
+- (nghĩa bóng) sự chết
+- (nghĩa bóng) sự đẩy vào cảnh tối tăm bần cùng
+*  danh từ
+- sự nở (trứng)
+- sự ấp trứng
+- ổ chim con mới nở
+- ổ trứng ấp!hatches, catches, matches, dispaches
+- mục sinh tử giá thú (trên báo)
+*  ngoại động từ
+- làm nở trứng
+- ấp (trứng)
+- ngấm ngầm bày đặt, ngấm ngầm dự định (âm mưu...)
+*  nội động từ
+- nở (trứng, gà con)!to count one's chickens before they are hatched
+- (tục ngữ) (xem) chicken
+*  danh từ
+- nét chải, đường gạch bóng (trên hình vẽ)
+*  ngoại động từ
+- tô nét chải, gạch đường bóng (trên hình vẽ)
+@Chuyên ngành kinh tế
+-ấp trứng
+-cửa hầm tàu
+-cửa khoang
+-máng
+-một lứa ấp trứng
+-nở trứng
+-sự nở trứng
+@Chuyên ngành kỹ thuật
+-cửa sập
+-đường gạch gạch
+-gạch chéo
+-kẻ nét chải
+-khắc
+-lối vào
+-nét
+-nét bóng
+-nét cắt
+-nét chải
+-nét đứt
+-nét gạch
+-nét gạch gạch
+-vạch
+@Lĩnh vực: xây dựng
+-cửa dập
+-đường gạch bóng
+-kẻ chéo
+-kẻ sọc
+-vuốt ở góc
+@Lĩnh vực: giao thông & vận tải
+-cửa lỗ
+-cửa nắp vỏ
+-miệng khoang hàng

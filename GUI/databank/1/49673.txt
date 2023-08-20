@@ -1,3 +1,14 @@
-selling
-	@selling\n* danh từ\n- sự bán hàng\n@Chuyên ngành kinh tế\n-tiêu thụ (hàng hóa...)\n-việc bán\n-việc bán (hàng)\n-việc chào hàng\n-việc rao hàng\n-việc tiêu thụ (hàng hóa)\n-việc tìm kiếm người mua\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự bán (hàng)
-
+selling	@selling
+* danh từ
+- sự bán hàng
+@Chuyên ngành kinh tế
+-tiêu thụ (hàng hóa...)
+-việc bán
+-việc bán (hàng)
+-việc chào hàng
+-việc rao hàng
+-việc tiêu thụ (hàng hóa)
+-việc tìm kiếm người mua
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự bán (hàng)

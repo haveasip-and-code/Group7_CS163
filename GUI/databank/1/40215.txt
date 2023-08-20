@@ -1,3 +1,4 @@
-pedant
-	@pedant /'dedənt/\n*  danh từ\n- người thông thái rởm\n- người ra vẻ mô phạm
-
+pedant	@pedant /'dedənt/
+*  danh từ
+- người thông thái rởm
+- người ra vẻ mô phạm

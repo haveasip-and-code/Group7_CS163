@@ -1,3 +1,11 @@
-fluted
-	@fluted\n* tính từ\n- có đường rãnh (cột)\n@Chuyên ngành kỹ thuật\n-dạng sóng\n-lăn hoa\n-lăn vân\n-rãnh\n@Lĩnh vực: hóa học & vật liệu\n-được khía rãnh
-
+fluted	
+@fluted
+* tính từ
+- có đường rãnh (cột)
+@Chuyên ngành kỹ thuật
+-dạng sóng
+-lăn hoa
+-lăn vân
+-rãnh
+@Lĩnh vực: hóa học & vật liệu
+-được khía rãnh

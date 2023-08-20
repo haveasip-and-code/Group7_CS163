@@ -1,3 +1,17 @@
-benchmark
-	@benchmark\n- (Tech) tiêu chuẩn, cơ chuẩn; điểm chuẩn, điểm mốc; kiểm chuẩn\n@Chuyên ngành kinh tế\n-dấu kiểm soát\n-điểm chuẩn\n@Chuyên ngành kỹ thuật\n-điểm chuẩn\n-điểm định chuẩn\n-điểm mốc\n-mốc\n@Lĩnh vực: vật lý\n-chương trình thử\n-thử điểm định chuẩn\n@Lĩnh vực: toán & tin\n-đánh giá tính năng\n@Lĩnh vực: điện tử & viễn thông\n-điểm quy chuẩn
-
+benchmark	@benchmark
+- (Tech) tiêu chuẩn, cơ chuẩn; điểm chuẩn, điểm mốc; kiểm chuẩn
+@Chuyên ngành kinh tế
+-dấu kiểm soát
+-điểm chuẩn
+@Chuyên ngành kỹ thuật
+-điểm chuẩn
+-điểm định chuẩn
+-điểm mốc
+-mốc
+@Lĩnh vực: vật lý
+-chương trình thử
+-thử điểm định chuẩn
+@Lĩnh vực: toán & tin
+-đánh giá tính năng
+@Lĩnh vực: điện tử & viễn thông
+-điểm quy chuẩn

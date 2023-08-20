@@ -1,3 +1,4 @@
-pipage
-	@Chuyên ngành kỹ thuật\n-dẫn nước/đường ống dẫn\n@Lĩnh vực: hóa học & vật liệu\n-hệ đường ống
-
+pipage	@Chuyên ngành kỹ thuật
+-dẫn nước/đường ống dẫn
+@Lĩnh vực: hóa học & vật liệu
+-hệ đường ống

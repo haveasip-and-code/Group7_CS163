@@ -1,3 +1,7 @@
-dehydrogenate
-	@Chuyên ngành kỹ thuật\n-khử hyđro\n-loại hyđro\n@Lĩnh vực: hóa học & vật liệu\n-loại bỏ hyđro\n-tách hyđro
-
+dehydrogenate	
+@Chuyên ngành kỹ thuật
+-khử hyđro
+-loại hyđro
+@Lĩnh vực: hóa học & vật liệu
+-loại bỏ hyđro
+-tách hyđro

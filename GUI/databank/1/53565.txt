@@ -1,3 +1,23 @@
-straddle
-	@straddle /'strædl/\n*  danh từ\n- sự đứng giạng chân\n- sự ngồi hai chân hai bên (như khi cưỡi ngựa), sự cưỡi lên\n- (nghĩa bóng) sự đứng chân trong chân ngoài\n- hợp đồng chứng khoán hai chiều (cho phép đòi hay giao chứng khoán với giá quy định)\n*  ngoại động từ\n- giạng (chân); giạng chân trên, đứng giạng chân trên\n=to stand straddling a ditch+ đứng giạng chân trên hố\n- ngồi hai chân hai bên, cưỡi\n=to straddle a horse+ cưỡi ngựa\n- (hàng hải) bắn điều chỉnh (bắn đằng trước và đằng sau mục tiêu... để điều chỉnh hướng bắn)\n- (hàng không) rải bom suốt từ bên này sang bên kia (mục tiêu)\n*  nội động từ\n- đứng giạng háng\n- (nghĩa bóng) dao động, lưỡng lự; chân trong chân ngoài; đứng giữa (không theo bên nào)\n@Chuyên ngành kinh tế\n-hợp đồng lựa chọn hai chiều\n-hợp đồng lựa chọn kép\n@Chuyên ngành kỹ thuật\n-ôm từ hai phía\n@Lĩnh vực: cơ khí & công trình\n-không trung tâm (bulông và đinh tán)
-
+straddle	@straddle /'strædl/
+*  danh từ
+- sự đứng giạng chân
+- sự ngồi hai chân hai bên (như khi cưỡi ngựa), sự cưỡi lên
+- (nghĩa bóng) sự đứng chân trong chân ngoài
+- hợp đồng chứng khoán hai chiều (cho phép đòi hay giao chứng khoán với giá quy định)
+*  ngoại động từ
+- giạng (chân); giạng chân trên, đứng giạng chân trên
+=to stand straddling a ditch+ đứng giạng chân trên hố
+- ngồi hai chân hai bên, cưỡi
+=to straddle a horse+ cưỡi ngựa
+- (hàng hải) bắn điều chỉnh (bắn đằng trước và đằng sau mục tiêu... để điều chỉnh hướng bắn)
+- (hàng không) rải bom suốt từ bên này sang bên kia (mục tiêu)
+*  nội động từ
+- đứng giạng háng
+- (nghĩa bóng) dao động, lưỡng lự; chân trong chân ngoài; đứng giữa (không theo bên nào)
+@Chuyên ngành kinh tế
+-hợp đồng lựa chọn hai chiều
+-hợp đồng lựa chọn kép
+@Chuyên ngành kỹ thuật
+-ôm từ hai phía
+@Lĩnh vực: cơ khí & công trình
+-không trung tâm (bulông và đinh tán)

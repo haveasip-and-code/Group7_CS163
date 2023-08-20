@@ -1,3 +1,8 @@
-perpendicularity
-	@perpendicularity\n* danh từ\n- sự vuông góc, sự trực giao\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tính thẳng góc\n-tính trực giao\n-tính vuông góc
-
+perpendicularity	@perpendicularity
+* danh từ
+- sự vuông góc, sự trực giao
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính thẳng góc
+-tính trực giao
+-tính vuông góc

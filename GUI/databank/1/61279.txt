@@ -1,3 +1,10 @@
-varistor
-	@Chuyên ngành kỹ thuật\n-biến trở\n@Lĩnh vực: điện\n-điện trở biến đổi (theo điện áp)\n-điện trở thay đổi\n-điện trở tự biến\n-varixto\n@Lĩnh vực: điện lạnh\n-điện trở biến thiên (linh kiện bán dẫn)\n-varito
-
+varistor	@Chuyên ngành kỹ thuật
+-biến trở
+@Lĩnh vực: điện
+-điện trở biến đổi (theo điện áp)
+-điện trở thay đổi
+-điện trở tự biến
+-varixto
+@Lĩnh vực: điện lạnh
+-điện trở biến thiên (linh kiện bán dẫn)
+-varito

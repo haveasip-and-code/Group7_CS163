@@ -1,3 +1,5 @@
-logger
-	@logger /'lɔgə/\n*  danh từ\n- người tiều phu; người đốn củi, người đốn gỗ ((từ Mỹ,nghĩa Mỹ) (cũng) log-man)\n@Chuyên ngành kỹ thuật\n-máy ghi
-
+logger	@logger /'lɔgə/
+*  danh từ
+- người tiều phu; người đốn củi, người đốn gỗ ((từ Mỹ,nghĩa Mỹ) (cũng) log-man)
+@Chuyên ngành kỹ thuật
+-máy ghi

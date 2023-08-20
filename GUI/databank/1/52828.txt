@@ -1,3 +1,10 @@
-squid
-	@squid /skwid/\n*  danh từ\n- súng cối bắn tàu ngầm\n- mực ống\n- mồi nhân tạo\n*  nội động từ\n- câu bằng mồi mực\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-thiết bị SQUID
-
+squid	@squid /skwid/
+*  danh từ
+- súng cối bắn tàu ngầm
+- mực ống
+- mồi nhân tạo
+*  nội động từ
+- câu bằng mồi mực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-thiết bị SQUID

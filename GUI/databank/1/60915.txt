@@ -1,3 +1,11 @@
-uptime
-	@Chuyên ngành kỹ thuật\n-hiện đại\n-thời gian chạy\n-thời gian vận hành\n@Lĩnh vực: xây dựng\n-kịp thời\n@Lĩnh vực: toán & tin\n-thời gian chạy máy\n-thời gian máy chạy\n-thời gian thao tác\n-thời gian vận hành máy (của các hệ thống)
-
+uptime	@Chuyên ngành kỹ thuật
+-hiện đại
+-thời gian chạy
+-thời gian vận hành
+@Lĩnh vực: xây dựng
+-kịp thời
+@Lĩnh vực: toán & tin
+-thời gian chạy máy
+-thời gian máy chạy
+-thời gian thao tác
+-thời gian vận hành máy (của các hệ thống)

@@ -1,3 +1,2 @@
-derating
-	@Chuyên ngành kỹ thuật\n-sự giảm tải
-
+derating	@Chuyên ngành kỹ thuật
+-sự giảm tải

@@ -1,3 +1,2 @@
-clinal
-	@clinal\n- xem cline
-
+clinal	@clinal
+- xem cline

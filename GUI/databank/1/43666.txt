@@ -1,3 +1,6 @@
-printable
-	@printable\n* tính từ\n- có thể xuất bản, có thể in được, đăng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-in được
-
+printable	@printable
+* tính từ
+- có thể xuất bản, có thể in được, đăng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-in được

@@ -1,3 +1,12 @@
-folium
-	@folium\n* danh từ\n- số nhiều folia\n- lá\n- (toán học) đường cong hình lá\n- (địa chất) tầng mỏng\n@Chuyên ngành kỹ thuật\n-lá\n-lớp\n@Lĩnh vực: cơ khí & công trình\n-mạch mỏng
-
+folium	
+@folium
+* danh từ
+- số nhiều folia
+- lá
+- (toán học) đường cong hình lá
+- (địa chất) tầng mỏng
+@Chuyên ngành kỹ thuật
+-lá
+-lớp
+@Lĩnh vực: cơ khí & công trình
+-mạch mỏng

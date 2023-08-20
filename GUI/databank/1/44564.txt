@@ -1,3 +1,34 @@
-public
-	@public /'pʌblik/\n*  tính từ\n- chung, công, công cộng\n=public holiday+ ngày lễ chung\n=public opinion+ dư luận, công luận\n=public library+ thư viện công cộng\n=public school+ trường công\n=public utilities+ những ngành phục vụ công cộng (điện, nước...)\n- công khai\n=to make a public protest+ phản đối công khai\n=to give something public utterance+ công bố cái gì\n*  danh từ\n- công chúng, quần chúng\n=to append to the public+ kêu gọi quần chúng\n- nhân dân, dân chúng\n=the British public+ nhân dân Anh\n- giới\n=the sporting public+ giới ham chuộng thể thao\n=the reading public+ giới bạn đọc\n- (thông tục),  (như) public_house\n!in public\n- giữa công chúng, công khai\n@Chuyên ngành kinh tế\n-công\n-công chúng\n-công cộng\n-công khai\n-độc giả\n-khán giả\n-thuộc về quốc doanh\n@Chuyên ngành kỹ thuật\n-dùng chung\n@Lĩnh vực: toán & tin\n-chung, công cộng
-
+public	@public /'pʌblik/
+*  tính từ
+- chung, công, công cộng
+=public holiday+ ngày lễ chung
+=public opinion+ dư luận, công luận
+=public library+ thư viện công cộng
+=public school+ trường công
+=public utilities+ những ngành phục vụ công cộng (điện, nước...)
+- công khai
+=to make a public protest+ phản đối công khai
+=to give something public utterance+ công bố cái gì
+*  danh từ
+- công chúng, quần chúng
+=to append to the public+ kêu gọi quần chúng
+- nhân dân, dân chúng
+=the British public+ nhân dân Anh
+- giới
+=the sporting public+ giới ham chuộng thể thao
+=the reading public+ giới bạn đọc
+- (thông tục),  (như) public_house
+!in public
+- giữa công chúng, công khai
+@Chuyên ngành kinh tế
+-công
+-công chúng
+-công cộng
+-công khai
+-độc giả
+-khán giả
+-thuộc về quốc doanh
+@Chuyên ngành kỹ thuật
+-dùng chung
+@Lĩnh vực: toán & tin
+-chung, công cộng

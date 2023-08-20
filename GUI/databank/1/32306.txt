@@ -1,3 +1,4 @@
-lingua
-	@Chuyên ngành kỹ thuật\n-lưỡi\n@Chuyên ngành kỹ thuật\n-lưỡi
-
+lingua	@Chuyên ngành kỹ thuật
+-lưỡi
+@Chuyên ngành kỹ thuật
+-lưỡi

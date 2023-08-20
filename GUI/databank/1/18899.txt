@@ -1,3 +1,20 @@
-equipage
-	@equipage /'ekwipidʤ/\n*  danh từ\n- đồ dùng cần thiết (cho một cuộc đi...)\n- cỗ xe (gồm cả xe, ngựa và người phục vụ)\n- (từ cổ,nghĩa cổ) đoàn tuỳ tùng (đi theo quan to...)\n@Chuyên ngành kinh tế\n-đồ trang bị\n-dụng cụ (tàu bè, quân đội, thám hiểm...)\n-thiết bị\n@Chuyên ngành kỹ thuật\n-đoàn tàu\n-máy móc\n-sự trang bị\n-trang thiết bị\n@Chuyên ngành kỹ thuật\n-đoàn tàu\n-máy móc\n-sự trang bị\n-trang thiết bị
-
+equipage	
+@equipage /'ekwipidʤ/
+*  danh từ
+- đồ dùng cần thiết (cho một cuộc đi...)
+- cỗ xe (gồm cả xe, ngựa và người phục vụ)
+- (từ cổ,nghĩa cổ) đoàn tuỳ tùng (đi theo quan to...)
+@Chuyên ngành kinh tế
+-đồ trang bị
+-dụng cụ (tàu bè, quân đội, thám hiểm...)
+-thiết bị
+@Chuyên ngành kỹ thuật
+-đoàn tàu
+-máy móc
+-sự trang bị
+-trang thiết bị
+@Chuyên ngành kỹ thuật
+-đoàn tàu
+-máy móc
+-sự trang bị
+-trang thiết bị

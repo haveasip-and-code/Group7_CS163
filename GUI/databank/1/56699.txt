@@ -1,3 +1,2 @@
-tiltmeter
-	@Chuyên ngành kỹ thuật\n-cái đo độ nghiêng
-
+tiltmeter	@Chuyên ngành kỹ thuật
+-cái đo độ nghiêng

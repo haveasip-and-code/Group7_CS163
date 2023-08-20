@@ -1,3 +1,16 @@
-grappling
-	@grappling\n* danh từ\n- sự móc hàm\n- sự giữ néo bằng móc\n@Chuyên ngành kỹ thuật\n-sự kéo\n-sự móc\n@Lĩnh vực: điện tử & viễn thông\n-níu lấy\n-sự túm lấy\n@Lĩnh vực: hóa học & vật liệu\n-sự câu lên\n@Lĩnh vực: xây dựng\n-sự neo giằng\n-thép giằng
-
+grappling	
+@grappling
+* danh từ
+- sự móc hàm
+- sự giữ néo bằng móc
+@Chuyên ngành kỹ thuật
+-sự kéo
+-sự móc
+@Lĩnh vực: điện tử & viễn thông
+-níu lấy
+-sự túm lấy
+@Lĩnh vực: hóa học & vật liệu
+-sự câu lên
+@Lĩnh vực: xây dựng
+-sự neo giằng
+-thép giằng

@@ -1,3 +1,28 @@
-erratic
-	@erratic /i'rætik/\n*  tính từ\n- thất thường, được chăng hay chớ, bạ đâu hay đấy\n- (y học) chạy, di chuyển (chỗ đau)\n- (từ hiếm,nghĩa hiếm) lang thang\n=erratic blocks+ (địa lý,địa chất) đá tảng lang thang\n!erratic driving\n- sự lái chưa vững, sự lái chập choạng (ô tô)\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) người tính tình thất thường, người được chăng hay chớ, người bạ đâu hay đấy\n@Chuyên ngành kỹ thuật\n-không ổn định\n-lang thang\n-tản mạn\n-thất thường\n@Lĩnh vực: hóa học & vật liệu\n-không định kỳ\n@Lĩnh vực: xây dựng\n-tảng trôi dạt\n@Chuyên ngành kỹ thuật\n-không ổn định\n-lang thang\n-tản mạn\n-thất thường\n@Lĩnh vực: hóa học & vật liệu\n-không định kỳ\n@Lĩnh vực: xây dựng\n-tảng trôi dạt
-
+erratic	
+@erratic /i'rætik/
+*  tính từ
+- thất thường, được chăng hay chớ, bạ đâu hay đấy
+- (y học) chạy, di chuyển (chỗ đau)
+- (từ hiếm,nghĩa hiếm) lang thang=erratic blocks
++ (địa lý,địa chất) đá tảng lang thang!erratic driving
+- sự lái chưa vững, sự lái chập choạng (ô tô)
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) người tính tình thất thường, người được chăng hay chớ, người bạ đâu hay đấy
+@Chuyên ngành kỹ thuật
+-không ổn định
+-lang thang
+-tản mạn
+-thất thường
+@Lĩnh vực: hóa học & vật liệu
+-không định kỳ
+@Lĩnh vực: xây dựng
+-tảng trôi dạt
+@Chuyên ngành kỹ thuật
+-không ổn định
+-lang thang
+-tản mạn
+-thất thường
+@Lĩnh vực: hóa học & vật liệu
+-không định kỳ
+@Lĩnh vực: xây dựng
+-tảng trôi dạt

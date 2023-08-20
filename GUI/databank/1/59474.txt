@@ -1,3 +1,2 @@
-unequally
-	@unequally\n- xem unequal
-
+unequally	@unequally
+- xem unequal

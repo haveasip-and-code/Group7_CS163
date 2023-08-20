@@ -1,3 +1,5 @@
-hematopoietic
-	@Chuyên ngành kỹ thuật\n-thuộc tạo huyết\n@Lĩnh vực: y học\n-chất sinh huyết
-
+hematopoietic	
+@Chuyên ngành kỹ thuật
+-thuộc tạo huyết
+@Lĩnh vực: y học
+-chất sinh huyết

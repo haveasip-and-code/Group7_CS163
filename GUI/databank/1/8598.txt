@@ -1,3 +1,5 @@
-cermet
-	@cermet\n- (Tech) gốm kim thuộc\n@Chuyên ngành kỹ thuật\n-gốm kim loại
-
+cermet	
+@cermet
+- (Tech) gốm kim thuộc
+@Chuyên ngành kỹ thuật
+-gốm kim loại

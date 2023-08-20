@@ -1,3 +1,4 @@
-ganglioside
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một chất thuộc nhóm các glucolipid trong não, gan, lách và hồng cầu
-
+ganglioside	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một chất thuộc nhóm các glucolipid trong não, gan, lách và hồng cầu

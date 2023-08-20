@@ -1,3 +1,6 @@
-protozoa
-	@protozoa /protozoa/\n*  danh từ số nhiều\n- (động vật học) ngành động vật nguyên sinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ngành protozoa, ngành nguyên sinh động vật
-
+protozoa	@protozoa /protozoa/
+*  danh từ số nhiều
+- (động vật học) ngành động vật nguyên sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ngành protozoa, ngành nguyên sinh động vật

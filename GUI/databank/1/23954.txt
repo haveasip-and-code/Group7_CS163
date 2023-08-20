@@ -1,3 +1,31 @@
-governor
-	@governor /'gʌvənə/\n*  danh từ\n- kẻ thống trị\n=the governors and the governed+ kẻ thống trị và những người bị trị\n- thống sử, thủ hiến, thống đốc\n=the governor of Alabama State+ thống đốc bang A-la-ba-ma\n- uỷ viên hội đồng quản trị (một trường học, một bệnh viện...)\n- thủ lĩnh; chủ\n- cha, bố\n- (kỹ thuật),  (vật lý) máy điều chỉnh máy điều tốc\n@Chuyên ngành kinh tế\n-viên chức chính phủ đứng đầu một địa phương\n@Chuyên ngành kỹ thuật\n-bộ điều chỉnh\n-bộ điều hành\n-bộ điều khiển\n-bộ điều tốc\n-cái điều chỉnh\n-cấu điều chỉnh\n-van điều chỉnh\n-van điều tiết\n@Lĩnh vực: toán & tin\n-cái ổn định\n@Lĩnh vực: ô tô\n-cụm điều chỉnh\n@Lĩnh vực: điện lạnh\n-máy điều tốc
-
+governor	
+@governor /'gʌvənə/
+*  danh từ
+- kẻ thống trị=the governors and the governed
++ kẻ thống trị và những người bị trị
+- thống sử, thủ hiến, thống đốc=the governor of Alabama State
++ thống đốc bang A
+-la
+-ba
+-ma
+- uỷ viên hội đồng quản trị (một trường học, một bệnh viện...)
+- thủ lĩnh; chủ
+- cha, bố
+- (kỹ thuật),  (vật lý) máy điều chỉnh máy điều tốc
+@Chuyên ngành kinh tế
+-viên chức chính phủ đứng đầu một địa phương
+@Chuyên ngành kỹ thuật
+-bộ điều chỉnh
+-bộ điều hành
+-bộ điều khiển
+-bộ điều tốc
+-cái điều chỉnh
+-cấu điều chỉnh
+-van điều chỉnh
+-van điều tiết
+@Lĩnh vực: toán & tin
+-cái ổn định
+@Lĩnh vực: ô tô
+-cụm điều chỉnh
+@Lĩnh vực: điện lạnh
+-máy điều tốc

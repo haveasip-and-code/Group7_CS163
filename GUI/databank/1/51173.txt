@@ -1,3 +1,2 @@
-slices
-	@Chuyên ngành kỹ thuật\n-lát, khoanh
-
+slices	@Chuyên ngành kỹ thuật
+-lát, khoanh

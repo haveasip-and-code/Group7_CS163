@@ -1,3 +1,8 @@
-rodenticide
-	@rodenticide\n* danh từ\n- thuốc diệt động vật gặm nhấm\n@Chuyên ngành kinh tế\n-thuốc diệt động vật gặm nhấm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuốc diệt động vật gặm nhấm
-
+rodenticide	@rodenticide
+* danh từ
+- thuốc diệt động vật gặm nhấm
+@Chuyên ngành kinh tế
+-thuốc diệt động vật gặm nhấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuốc diệt động vật gặm nhấm

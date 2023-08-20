@@ -1,3 +1,22 @@
-submit
-	@submit /səb'mit/\n*  ngoại động từ\n- to submit oneself to... chịu phục tùng...\n- đệ trình, đưa ra ý kiến là\n=I should like to submit it to your inspection+ tôi xin đệ trình vấn đề này để ông kiểm tra\n*  nội động từ\n- chịu, cam chịu, quy phục\n=to submit to defeat+ cam chịu thất bại\n=will never submit+ không bao giờ chịu quy phục\n- trịnh trọng trình bày\n=that, I submit, is a false inference+ tôi xin trịnh trọng trình bày rằng đó là một sự suy luận sai lầm\n@Chuyên ngành kinh tế\n-chịu khuất phục\n-đệ trình (một dự án...lên)\n-phục tùng\n-trình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chịu phụ thuộc\n-chịu sự kiểm tra\n@Lĩnh vực: xây dựng\n-đệ trình
-
+submit	@submit /səb'mit/
+*  ngoại động từ
+- to submit oneself to... chịu phục tùng...
+- đệ trình, đưa ra ý kiến là
+=I should like to submit it to your inspection+ tôi xin đệ trình vấn đề này để ông kiểm tra
+*  nội động từ
+- chịu, cam chịu, quy phục
+=to submit to defeat+ cam chịu thất bại
+=will never submit+ không bao giờ chịu quy phục
+- trịnh trọng trình bày
+=that, I submit, is a false inference+ tôi xin trịnh trọng trình bày rằng đó là một sự suy luận sai lầm
+@Chuyên ngành kinh tế
+-chịu khuất phục
+-đệ trình (một dự án...lên)
+-phục tùng
+-trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chịu phụ thuộc
+-chịu sự kiểm tra
+@Lĩnh vực: xây dựng
+-đệ trình

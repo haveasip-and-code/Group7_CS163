@@ -1,3 +1,5 @@
-carbureted
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được chế hòa khí\n-được thấm cacbon
-
+carbureted	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được chế hòa khí
+-được thấm cacbon

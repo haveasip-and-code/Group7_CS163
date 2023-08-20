@@ -1,3 +1,13 @@
-polycyclic
-	@polycyclic\n* tính từ\n- có nhiều vòng, có nhiều chu kỳ\n@Chuyên ngành kỹ thuật\n-đa nhân\n@Lĩnh vực: y học\n-có nhiều vòng\n@Lĩnh vực: toán & tin\n-đa chu trình\n-đa cyclic\n-đa xiclic\n@Lĩnh vực: hóa học & vật liệu\n-đa vòng
-
+polycyclic	@polycyclic
+* tính từ
+- có nhiều vòng, có nhiều chu kỳ
+@Chuyên ngành kỹ thuật
+-đa nhân
+@Lĩnh vực: y học
+-có nhiều vòng
+@Lĩnh vực: toán & tin
+-đa chu trình
+-đa cyclic
+-đa xiclic
+@Lĩnh vực: hóa học & vật liệu
+-đa vòng

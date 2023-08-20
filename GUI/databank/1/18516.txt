@@ -1,3 +1,23 @@
-enthalpy
-	@enthalpy\n* danh từ\n- (hoá học) entanpi\n= entanpi of liquid+entanpi chất lỏng\n@Chuyên ngành kỹ thuật\n-entanpi\n-entanpy\n@Lĩnh vực: hóa học & vật liệu\n-entalpy\n@Lĩnh vực: điện lạnh\n-entanpyi\n@Lĩnh vực: điện\n-hàm nhiệt\n@Chuyên ngành kỹ thuật\n-entanpi\n-entanpy\n@Lĩnh vực: hóa học & vật liệu\n-entalpy\n@Lĩnh vực: điện lạnh\n-entanpyi\n@Lĩnh vực: điện\n-hàm nhiệt
-
+enthalpy	
+@enthalpy
+* danh từ
+- (hoá học) entanpi= entanpi of liquid
++entanpi chất lỏng
+@Chuyên ngành kỹ thuật
+-entanpi
+-entanpy
+@Lĩnh vực: hóa học & vật liệu
+-entalpy
+@Lĩnh vực: điện lạnh
+-entanpyi
+@Lĩnh vực: điện
+-hàm nhiệt
+@Chuyên ngành kỹ thuật
+-entanpi
+-entanpy
+@Lĩnh vực: hóa học & vật liệu
+-entalpy
+@Lĩnh vực: điện lạnh
+-entanpyi
+@Lĩnh vực: điện
+-hàm nhiệt

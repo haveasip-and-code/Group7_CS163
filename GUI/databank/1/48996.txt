@@ -1,3 +1,6 @@
-scend
-	@scend /send/\n*  danh từ ((cũng) send)\n- sức sóng xô\n- sự bị sóng xô\n*  nội động từ ((cũng) send)\n- bị sóng xô
-
+scend	@scend /send/
+*  danh từ ((cũng) send)
+- sức sóng xô
+- sự bị sóng xô
+*  nội động từ ((cũng) send)
+- bị sóng xô

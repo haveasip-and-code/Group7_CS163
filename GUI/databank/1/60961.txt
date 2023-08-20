@@ -1,3 +1,2 @@
-urgently
-	@urgently\n- xem urgent
-
+urgently	@urgently
+- xem urgent

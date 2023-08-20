@@ -1,3 +1,2 @@
-curatorial
-	@curatorial\n- xem curator
-
+curatorial	@curatorial
+- xem curator

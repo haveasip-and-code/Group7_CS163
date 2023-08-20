@@ -1,3 +1,14 @@
-overriding
-	@overriding\n* tính từ\n- quan trọng hơn bất cứ nhận định nào khác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-động mạch chủ chuyển sang phải\n-tình trạng xương gãy gối lên nhau\n-xương sọ gối lên nhau (thai nhì)\n@Lĩnh vực: vật lý\n-khống chế được\n-sự giành được quyền\n@Lĩnh vực: toán & tin\n-sự giành quyền\n-sự ưu tiên
-
+overriding	@overriding
+* tính từ
+- quan trọng hơn bất cứ nhận định nào khác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-động mạch chủ chuyển sang phải
+-tình trạng xương gãy gối lên nhau
+-xương sọ gối lên nhau (thai nhì)
+@Lĩnh vực: vật lý
+-khống chế được
+-sự giành được quyền
+@Lĩnh vực: toán & tin
+-sự giành quyền
+-sự ưu tiên

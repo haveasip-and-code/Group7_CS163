@@ -1,3 +1,5 @@
-zwitterion
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-icon lưỡng tính\n@Lĩnh vực: y học\n-iôn lưỡng tính
-
+zwitterion	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-icon lưỡng tính
+@Lĩnh vực: y học
+-iôn lưỡng tính

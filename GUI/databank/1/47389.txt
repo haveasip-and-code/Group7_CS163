@@ -1,3 +1,27 @@
-retrograde
-	@retrograde /'retrougreid/\n*  tính từ+ (retrogressive) /,retrou'gresiv/\n- lùi lại, thụt lùi\n- thoái hoá, suy đồi\n- (thiên văn học) đi ngược, đi nghịch hành (hành tinh)\n- ngược, nghịch\n=in retrograde order+ theo thứ tự đảo ngược\n- (quân sự) rút lui, rút chạy\n*  danh từ\n- (từ hiếm,nghĩa hiếm) người thoái hoá, người suy đồi, người lạc hậu\n- khuynh hướng lạc hậu\n*  nội động từ\n- đi giật lùi, lùi lại\n- (thiên văn học) đi ngược, đi nghịch hành (hành tinh)\n- thoái hoá, suy đồi\n- (quân sự) rút lui, rút chạy\n@Chuyên ngành kỹ thuật\n-đi chậm\n-đi lùi\n-giảm\n-lùi\n-nghịch hành\n@Lĩnh vực: toán & tin\n-đi ngược\n@Lĩnh vực: hóa học & vật liệu\n-giật lùi\n-thóai hóa
-
+retrograde	@retrograde /'retrougreid/
+*  tính từ+ (retrogressive) /,retrou'gresiv/
+- lùi lại, thụt lùi
+- thoái hoá, suy đồi
+- (thiên văn học) đi ngược, đi nghịch hành (hành tinh)
+- ngược, nghịch
+=in retrograde order+ theo thứ tự đảo ngược
+- (quân sự) rút lui, rút chạy
+*  danh từ
+- (từ hiếm,nghĩa hiếm) người thoái hoá, người suy đồi, người lạc hậu
+- khuynh hướng lạc hậu
+*  nội động từ
+- đi giật lùi, lùi lại
+- (thiên văn học) đi ngược, đi nghịch hành (hành tinh)
+- thoái hoá, suy đồi
+- (quân sự) rút lui, rút chạy
+@Chuyên ngành kỹ thuật
+-đi chậm
+-đi lùi
+-giảm
+-lùi
+-nghịch hành
+@Lĩnh vực: toán & tin
+-đi ngược
+@Lĩnh vực: hóa học & vật liệu
+-giật lùi
+-thóai hóa

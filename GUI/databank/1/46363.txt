@@ -1,3 +1,2 @@
-refrigerated
-	@Chuyên ngành kỹ thuật\n-được làm lạnh
-
+refrigerated	@Chuyên ngành kỹ thuật
+-được làm lạnh

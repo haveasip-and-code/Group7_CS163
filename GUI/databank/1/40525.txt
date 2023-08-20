@@ -1,3 +1,32 @@
-perch
-	@perch /pə:tʃ/\n*  danh từ\n- (động vật học) cá pecca\n*  danh từ\n- sào để chim đậu, cành để chim đậu\n=bird taken its perch+ con chim đậu xuống\n- trục chuyển động giữa (xe bốn bánh)\n- con sào (đơn vị chiều dài bằng khoảng 5 mét)\n- (nghĩa bóng) địa vị cao, địa vị vững chắc\n!come off your perch\n- (xem) come\n!to hop the perch\n- chết\n!to knock someone off his perch\n- tiêu diệt ai, đánh gục ai\n*  ngoại động từ,  (thường) động tính từ quá khứ\n- xây dựng ở trên cao, đặt ở trên cao\n=a town perched on a hill+ một thành phố ở trên một ngọn đồi\n*  nội động từ\n- (+ upon) đậu trên (cành) (chim...); ngồi trên, ở trên (chỗ cao) (người)\n@Chuyên ngành kinh tế\n-cá sơn\n-cá vược\n@Chuyên ngành kỹ thuật\n-mái đua\n-mái hắt\n-que sào\n@Lĩnh vực: xây dựng\n-cọc sào\n-ôvăng\n@Lĩnh vực: hóa học & vật liệu\n-pec (đơn vị đo chiều dài bằng 5, 03m)
-
+perch	@perch /pə:tʃ/
+*  danh từ
+- (động vật học) cá pecca
+*  danh từ
+- sào để chim đậu, cành để chim đậu
+=bird taken its perch+ con chim đậu xuống
+- trục chuyển động giữa (xe bốn bánh)
+- con sào (đơn vị chiều dài bằng khoảng 5 mét)
+- (nghĩa bóng) địa vị cao, địa vị vững chắc
+!come off your perch
+- (xem) come
+!to hop the perch
+- chết
+!to knock someone off his perch
+- tiêu diệt ai, đánh gục ai
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- xây dựng ở trên cao, đặt ở trên cao
+=a town perched on a hill+ một thành phố ở trên một ngọn đồi
+*  nội động từ
+- (+ upon) đậu trên (cành) (chim...); ngồi trên, ở trên (chỗ cao) (người)
+@Chuyên ngành kinh tế
+-cá sơn
+-cá vược
+@Chuyên ngành kỹ thuật
+-mái đua
+-mái hắt
+-que sào
+@Lĩnh vực: xây dựng
+-cọc sào
+-ôvăng
+@Lĩnh vực: hóa học & vật liệu
+-pec (đơn vị đo chiều dài bằng 5, 03m)

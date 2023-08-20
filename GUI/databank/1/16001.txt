@@ -1,3 +1,56 @@
-displacement
-	@displacement /dis'pleismənt/\n*  danh từ\n- sự đổi chỗ, sự dời chỗ, sự chuyển chỗ\n- sự thải ra, sự cách chức (một công chức...)\n- sự chiếm chỗ, sự hất ra khỏi chỗ\n- sự thay thế\n- (điện học) sự dịch chuyển; độ dịch chuyển\n- (hàng hải) trọng lượng nước rẽ (của tàu)\n=a ship with a displacement of ten thousand tons+ con tàu có trọng lượng nước rẽ mười nghìn tấn\n@Chuyên ngành kinh tế\n-lượng giãn nước\n-sự thay thế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép dời hình\n@Chuyên ngành kỹ thuật\n-chuyển dời\n-chuyển vị\n-di chuyển\n-dịch chuyển\n-độ choán chỗ\n-độ di chuyển\n-độ dịch chuyển\n-độ điện dịch\n-dời chỗ\n-dung tích\n-hành trình\n-khoảng chạy\n-lượng choán nước\n-lượng chuyển\n-sự biến vị\n-sự choán chỗ\n-sự chuyển dịch\n-sự di chuyển\n-sự dịch chuyển\n-sự dời\n-sự dời chỗ\n-sự đổi chỗ\n-sự lệch\n-sự so le\n-sự tịnh tiến\n-sự trệch\n-sự xê dịch\n@Lĩnh vực: xây dựng\n-độ chuyển vị\n-độ dịch vị\n-sự rời chỗ\n@Lĩnh vực: điện lạnh\n-độ dịch\n-độ dời\n-sự chuyển dời\n@Lĩnh vực: toán & tin\n-dời hình\n@Lĩnh vực: cơ khí & công trình\n-sự chuyển chỗ
-
+displacement	
+@displacement /dis'pleismənt/
+*  danh từ
+- sự đổi chỗ, sự dời chỗ, sự chuyển chỗ
+- sự thải ra, sự cách chức (một công chức...)
+- sự chiếm chỗ, sự hất ra khỏi chỗ
+- sự thay thế
+- (điện học) sự dịch chuyển; độ dịch chuyển
+- (hàng hải) trọng lượng nước rẽ (của tàu)=a ship with a displacement of ten thousand tons
++ con tàu có trọng lượng nước rẽ mười nghìn tấn
+@Chuyên ngành kinh tế
+-lượng giãn nước
+-sự thay thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép dời hình
+@Chuyên ngành kỹ thuật
+-chuyển dời
+-chuyển vị
+-di chuyển
+-dịch chuyển
+-độ choán chỗ
+-độ di chuyển
+-độ dịch chuyển
+-độ điện dịch
+-dời chỗ
+-dung tích
+-hành trình
+-khoảng chạy
+-lượng choán nước
+-lượng chuyển
+-sự biến vị
+-sự choán chỗ
+-sự chuyển dịch
+-sự di chuyển
+-sự dịch chuyển
+-sự dời
+-sự dời chỗ
+-sự đổi chỗ
+-sự lệch
+-sự so le
+-sự tịnh tiến
+-sự trệch
+-sự xê dịch
+@Lĩnh vực: xây dựng
+-độ chuyển vị
+-độ dịch vị
+-sự rời chỗ
+@Lĩnh vực: điện lạnh
+-độ dịch
+-độ dời
+-sự chuyển dời
+@Lĩnh vực: toán & tin
+-dời hình
+@Lĩnh vực: cơ khí & công trình
+-sự chuyển chỗ

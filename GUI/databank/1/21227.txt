@@ -1,3 +1,16 @@
-fizz
-	@fizz /fiz/\n*  danh từ\n- tiếng xèo xèo; tiếng xì xì\n- (từ lóng) rượu sâm banh\n*  nội động từ\n- xèo xèo; xì xì\n@Chuyên ngành kinh tế\n-rượu sâm banh\n-rượu sủi bọt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rò (rỉ) khí\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rò (rỉ) khí
-
+fizz	
+@fizz /fiz/
+*  danh từ
+- tiếng xèo xèo; tiếng xì xì
+- (từ lóng) rượu sâm banh
+*  nội động từ
+- xèo xèo; xì xì
+@Chuyên ngành kinh tế
+-rượu sâm banh
+-rượu sủi bọt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-rò (rỉ) khí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-rò (rỉ) khí

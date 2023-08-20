@@ -1,3 +1,56 @@
-contract
-	@contract /'kɔntrækt/\n*  danh từ\n- hợp đồng, giao kèo, khế ước, giấy ký kết\n=marriage contract+ giấy giá thú\n=to bind oneself by contract+ cam kết bằng hợp đồng\n=a contract for a supply of coal+ hợp đồng cung cấp than\n- sự ký hợp đồng, sự ký giao kèo, việc bỏ thầu, việc đấu giá\n=to make (enter into) a contract with+ ký hợp đồng với\n=to put up to contract+ cho bỏ thầu, cho đấu giá\n=the contract for a bridge+ việc bỏ thầu xây một cái cầu\n=to put work out to contract+ cho thầu một công việc\n=to place (give out) the contract for an undertaking+ ký hợp đồng để cho ai thầu một công việc\n=to get (win, secure) a contract for something+ thầu được một công việc gì\n*  ngoại động từ\n- đính ước, giao ước, kết giao\n=to contract a friendship+ kết bạn\n- nhiễm, mắc, tiêm nhiễm\n=to contract bad habits+ nhiễm thói xấu\n=to contract debts+ mắc nợ\n=to contract a serious illeness+ mắc bệnh nặng\n- ký giao kèo, thầu (làm việc gì)\n=to contract to build a bridge+ thầu xây dựng một cái cầu\n*  nội động từ\n- ký giao kèo, ky hợp đồng, thầu\n=to contract for a supply of something+ thầu cung cấp cái gì\n!to contract oneself out of\n- thoả thuận trước mà tránh, thoả thuận trước mà miễn (việc gì)\n*  động từ\n- thu nhỏ lại, co lại, rút lại, chụm lại, teo lại\n=to contract a muscle+ làm co bắp cơ\n=to contract the heart+ làm co bóp trái tim\n- (nghĩa bóng) làm đau lòng\n=his intellect seems to contract+ (nghĩa bóng) trí thông minh của anh ấy dường như là co hẹp lại (cùn gỉ đi)\n- (ngôn ngữ học) rút gọn\n=contract ed word+ từ rút gọn (ví dụ can't thay cho cannot)\n@Chuyên ngành kinh tế\n-giao kèo\n-giao ước\n-giấy ký kết\n-hiệp ước\n-hợp đồng\n-khế ước\n-luật hợp đồng\n@Chuyên ngành kỹ thuật\n-co rút lại\n-giao kèo\n-hợp đồng\n-rút ngắn\n@Lĩnh vực: toán & tin\n-co rút ngắn\n@Lĩnh vực: xây dựng\n-khế ước\n@Lĩnh vực: điện\n-ký hợp đồng\n@Lĩnh vực: cơ khí & công trình\n-sự phay biên dạng
-
+contract	
+@contract /'kɔntrækt/
+*  danh từ
+- hợp đồng, giao kèo, khế ước, giấy ký kết=marriage contract
++ giấy giá thú=to bind oneself by contract
++ cam kết bằng hợp đồng=a contract for a supply of coal
++ hợp đồng cung cấp than
+- sự ký hợp đồng, sự ký giao kèo, việc bỏ thầu, việc đấu giá=to make (enter into) a contract with
++ ký hợp đồng với=to put up to contract
++ cho bỏ thầu, cho đấu giá=the contract for a bridge
++ việc bỏ thầu xây một cái cầu=to put work out to contract
++ cho thầu một công việc=to place (give out) the contract for an undertaking
++ ký hợp đồng để cho ai thầu một công việc=to get (win, secure) a contract for something
++ thầu được một công việc gì
+*  ngoại động từ
+- đính ước, giao ước, kết giao=to contract a friendship
++ kết bạn
+- nhiễm, mắc, tiêm nhiễm=to contract bad habits
++ nhiễm thói xấu=to contract debts
++ mắc nợ=to contract a serious illeness
++ mắc bệnh nặng
+- ký giao kèo, thầu (làm việc gì)=to contract to build a bridge
++ thầu xây dựng một cái cầu
+*  nội động từ
+- ký giao kèo, ky hợp đồng, thầu=to contract for a supply of something
++ thầu cung cấp cái gì!to contract oneself out of
+- thoả thuận trước mà tránh, thoả thuận trước mà miễn (việc gì)
+*  động từ
+- thu nhỏ lại, co lại, rút lại, chụm lại, teo lại=to contract a muscle
++ làm co bắp cơ=to contract the heart
++ làm co bóp trái tim
+- (nghĩa bóng) làm đau lòng=his intellect seems to contract
++ (nghĩa bóng) trí thông minh của anh ấy dường như là co hẹp lại (cùn gỉ đi)
+- (ngôn ngữ học) rút gọn=contract ed word
++ từ rút gọn (ví dụ can't thay cho cannot)
+@Chuyên ngành kinh tế
+-giao kèo
+-giao ước
+-giấy ký kết
+-hiệp ước
+-hợp đồng
+-khế ước
+-luật hợp đồng
+@Chuyên ngành kỹ thuật
+-co rút lại
+-giao kèo
+-hợp đồng
+-rút ngắn
+@Lĩnh vực: toán & tin
+-co rút ngắn
+@Lĩnh vực: xây dựng
+-khế ước
+@Lĩnh vực: điện
+-ký hợp đồng
+@Lĩnh vực: cơ khí & công trình
+-sự phay biên dạng

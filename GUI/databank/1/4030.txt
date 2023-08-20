@@ -1,3 +1,17 @@
-authorization
-	@authorization /,ɔ:θərai'zeiʃn/\n*  danh từ\n- sự cho quyền, sự cho phép\n- uỷ quyền, quyền được cho phép\n@Chuyên ngành kinh tế\n-cho phép\n-phê chuẩn\n-sự giao quyền\n-sự ủy thác\n-ủy quyền\n@Chuyên ngành kỹ thuật\n-quyền\n-sự cho phép\n@Lĩnh vực: toán & tin\n-quyền hạn\n-sự ủy quyền
-
+authorization	
+@authorization /,ɔ:θərai'zeiʃn/
+*  danh từ
+- sự cho quyền, sự cho phép
+- uỷ quyền, quyền được cho phép
+@Chuyên ngành kinh tế
+-cho phép
+-phê chuẩn
+-sự giao quyền
+-sự ủy thác
+-ủy quyền
+@Chuyên ngành kỹ thuật
+-quyền
+-sự cho phép
+@Lĩnh vực: toán & tin
+-quyền hạn
+-sự ủy quyền

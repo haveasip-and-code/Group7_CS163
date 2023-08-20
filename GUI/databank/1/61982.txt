@@ -1,3 +1,10 @@
-visual
-	@visual /'vizjuəl/\n*  tính từ\n- (thuộc sự) nhìn, (thuộc) thị giác\n=visual nerve+ dây thần kinh thị giác\n@Chuyên ngành kỹ thuật\n-thị giác\n@Lĩnh vực: xây dựng\n-thuộc về thị giác\n@Lĩnh vực: toán & tin\n-trực quan
-
+visual	@visual /'vizjuəl/
+*  tính từ
+- (thuộc sự) nhìn, (thuộc) thị giác
+=visual nerve+ dây thần kinh thị giác
+@Chuyên ngành kỹ thuật
+-thị giác
+@Lĩnh vực: xây dựng
+-thuộc về thị giác
+@Lĩnh vực: toán & tin
+-trực quan

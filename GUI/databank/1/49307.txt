@@ -1,3 +1,24 @@
-scrub
-	@scrub /skrʌb/\n*  danh từ\n- bụi cây, bụi rậm; nơi có bụi cây, nơi có bụi rậm\n- bàn chải mòn, có ria ngắn\n- người còi, con vật còi, cây còi; người tầm thường, vật vô giá trị\n- (thể dục,thể thao) đấu thủ loại kém, đấu thủ không được vào chính thức; (số nhiều) đội gồm toàn đấu thủ loại kém; đội gồm toàn đấu thủ tạp nham\n*  động từ\n- lau, chùi, cọ\n- lọc hơi đốt\n- (từ lóng) bỏ đi, huỷ bỏ\n@Chuyên ngành kinh tế\n-bàn chải mòn\n-bụi\n-làm sạch\n-rửa\n-thuốc lá chất lượng thấp\n@Chuyên ngành kỹ thuật\n-chùi\n-làm sạch\n-lau\n-lọc\n-tinh chế\n@Lĩnh vực: toán & tin\n-chùi, xóa
-
+scrub	@scrub /skrʌb/
+*  danh từ
+- bụi cây, bụi rậm; nơi có bụi cây, nơi có bụi rậm
+- bàn chải mòn, có ria ngắn
+- người còi, con vật còi, cây còi; người tầm thường, vật vô giá trị
+- (thể dục,thể thao) đấu thủ loại kém, đấu thủ không được vào chính thức; (số nhiều) đội gồm toàn đấu thủ loại kém; đội gồm toàn đấu thủ tạp nham
+*  động từ
+- lau, chùi, cọ
+- lọc hơi đốt
+- (từ lóng) bỏ đi, huỷ bỏ
+@Chuyên ngành kinh tế
+-bàn chải mòn
+-bụi
+-làm sạch
+-rửa
+-thuốc lá chất lượng thấp
+@Chuyên ngành kỹ thuật
+-chùi
+-làm sạch
+-lau
+-lọc
+-tinh chế
+@Lĩnh vực: toán & tin
+-chùi, xóa

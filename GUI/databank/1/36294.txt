@@ -1,3 +1,4 @@
-naphthol
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-naphtol\n-naptol
-
+naphthol	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-naphtol
+-naptol

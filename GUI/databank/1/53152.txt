@@ -1,3 +1,7 @@
-steeling
-	@steeling\n* danh từ\n- sự bọc thép; mạ thép; hàn đắp bằng thép\n@Chuyên ngành kỹ thuật\n-sự bọc thép\n-sự hàn đắp thép\n-sự mạ thép
-
+steeling	@steeling
+* danh từ
+- sự bọc thép; mạ thép; hàn đắp bằng thép
+@Chuyên ngành kỹ thuật
+-sự bọc thép
+-sự hàn đắp thép
+-sự mạ thép

@@ -1,3 +1,57 @@
-coil
-	@coil /kɔil/\n*  danh từ\n- cuộn\n=a coil of rope+ cuộn thừng\n- vòng, cuộn (con rắn...)\n- mớ tóc quăn\n- (điện học) cuộn (dây)\n- (kỹ thuật) ống xoắn ruột gà\n- (từ cổ,nghĩa cổ),  (thơ ca) sự thăng trầm, sóng gió (của cuộc đời)\n*  động từ\n- cuộn, quấn\n=the snake coiled up in the sun+ con rắn nằm cuộn tròn dưới ánh mặt trời\n=to coil oneself in bed+ nằm cuộn tròn trong giường, nằm co con tôm trong giường\n=the snake coiled [itself] round the branch+ con rắn quấn quanh cành cây\n- quanh co, uốn khúc, ngoằn ngoèo\n@Chuyên ngành kinh tế\n-cuộn\n-ống xoắn\n-ống xoắn ruột gà\n-quấn\n@Chuyên ngành kỹ thuật\n-bộ trao đổi nhiệt\n-cuộn cảm\n-giàn lạnh\n-giàn ống\n-ống dây\n-ống ruột gà\n-ống xoắn\n-ống xoắn dẫn nhiệt\n-ống xoắn gia nhiệt\n-ống xoắn lạnh\n-quấn (lò xo)\n-quấn lại\n-vòng ren\n@Lĩnh vực: cơ khí & công trình\n-bộ biến điện (bôbin)\n-cuộn ruột gà\n-ống (xoắn ruột gà)\n-ống xoắn ốc\n-quấn ruột gà\n@Lĩnh vực: xây dựng\n-cái lõi\n-cuộn dây cao thế\n-ống xoắn ruột gà\n@Lĩnh vực: điện lạnh\n-cụm dàn ống\n-cụm giàn ống\n-dàn ống xoắn\n@Lĩnh vực: đo lường & điều khiển\n-cuộn\n@Lĩnh vực: điện\n-cuộn dây cảm điện\n@Lĩnh vực: ô tô\n-cuộn dây kích từ\n@Lĩnh vực: y học\n-cuộn, vòng xoắn
-
+coil	
+@coil /kɔil/
+*  danh từ
+- cuộn=a coil of rope
++ cuộn thừng
+- vòng, cuộn (con rắn...)
+- mớ tóc quăn
+- (điện học) cuộn (dây)
+- (kỹ thuật) ống xoắn ruột gà
+- (từ cổ,nghĩa cổ),  (thơ ca) sự thăng trầm, sóng gió (của cuộc đời)
+*  động từ
+- cuộn, quấn=the snake coiled up in the sun
++ con rắn nằm cuộn tròn dưới ánh mặt trời=to coil oneself in bed
++ nằm cuộn tròn trong giường, nằm co con tôm trong giường=the snake coiled [itself] round the branch
++ con rắn quấn quanh cành cây
+- quanh co, uốn khúc, ngoằn ngoèo
+@Chuyên ngành kinh tế
+-cuộn
+-ống xoắn
+-ống xoắn ruột gà
+-quấn
+@Chuyên ngành kỹ thuật
+-bộ trao đổi nhiệt
+-cuộn cảm
+-giàn lạnh
+-giàn ống
+-ống dây
+-ống ruột gà
+-ống xoắn
+-ống xoắn dẫn nhiệt
+-ống xoắn gia nhiệt
+-ống xoắn lạnh
+-quấn (lò xo)
+-quấn lại
+-vòng ren
+@Lĩnh vực: cơ khí & công trình
+-bộ biến điện (bôbin)
+-cuộn ruột gà
+-ống (xoắn ruột gà)
+-ống xoắn ốc
+-quấn ruột gà
+@Lĩnh vực: xây dựng
+-cái lõi
+-cuộn dây cao thế
+-ống xoắn ruột gà
+@Lĩnh vực: điện lạnh
+-cụm dàn ống
+-cụm giàn ống
+-dàn ống xoắn
+@Lĩnh vực: đo lường & điều khiển
+-cuộn
+@Lĩnh vực: điện
+-cuộn dây cảm điện
+@Lĩnh vực: ô tô
+-cuộn dây kích từ
+@Lĩnh vực: y học
+-cuộn, vòng xoắn

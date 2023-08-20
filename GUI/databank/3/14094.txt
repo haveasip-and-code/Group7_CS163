@@ -1,3 +1,2 @@
-deflowerer
-	@deflowerer\n- xem deflower
-
+deflowerer	@deflowerer
+- xem deflower

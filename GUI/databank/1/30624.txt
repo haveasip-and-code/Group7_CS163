@@ -1,3 +1,40 @@
-junction
-	@junction /'dʤʌɳkʃn/\n*  danh từ\n- sự nối liền, sự gặp nhau\n- mối nối, chỗ nối; chỗ gặp nhau (của các con đường...)\n- (ngành đường sắt) ga đầu mối (nơi các đường xe lửa gặp nhau)\n@Chuyên ngành kỹ thuật\n-điểm nút\n-đường ống nhánh\n-ga đầu mối\n-khớp liên kết\n-khớp nối\n-lớp chuyển tiếp\n-ngã tư\n-ngã tư đường\n-mạch nối tiếp\n-mặt tiếp giáp\n-mối ghép\n-mối hàn\n-mối nối\n-ống nối\n-sự hợp lưu\n-sự kết hợp\n-sự kết nối\n-sự liên kết\n-sự nối\n-sự nối dây\n-sự nối liền\n-sự nối tiếp\n-sự phân nhánh\n-sự tiếp xúc\n@Lĩnh vực: hóa học & vật liệu\n-nơi hợp lưu\n@Lĩnh vực: xây dựng\n-rắc co\n-sự tiếp cận\n@Lĩnh vực: cơ khí & công trình\n-sự ráp nối\n@Lĩnh vực: y học\n-tiếp giáp, tiếp hợp
-
+junction	
+@junction /'dʤʌɳkʃn/
+*  danh từ
+- sự nối liền, sự gặp nhau
+- mối nối, chỗ nối; chỗ gặp nhau (của các con đường...)
+- (ngành đường sắt) ga đầu mối (nơi các đường xe lửa gặp nhau)
+@Chuyên ngành kỹ thuật
+-điểm nút
+-đường ống nhánh
+-ga đầu mối
+-khớp liên kết
+-khớp nối
+-lớp chuyển tiếp
+-ngã tư
+-ngã tư đường
+-mạch nối tiếp
+-mặt tiếp giáp
+-mối ghép
+-mối hàn
+-mối nối
+-ống nối
+-sự hợp lưu
+-sự kết hợp
+-sự kết nối
+-sự liên kết
+-sự nối
+-sự nối dây
+-sự nối liền
+-sự nối tiếp
+-sự phân nhánh
+-sự tiếp xúc
+@Lĩnh vực: hóa học & vật liệu
+-nơi hợp lưu
+@Lĩnh vực: xây dựng
+-rắc co
+-sự tiếp cận
+@Lĩnh vực: cơ khí & công trình
+-sự ráp nối
+@Lĩnh vực: y học
+-tiếp giáp, tiếp hợp

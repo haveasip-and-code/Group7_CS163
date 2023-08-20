@@ -1,3 +1,12 @@
-reheating
-	@reheating\n* danh từ\n- xem reheat\n- sự đun nóng kim loại đến nhiệt độ gia công\n@Chuyên ngành kinh tế\n-sự đốt nóng\n-sự hâm lại\n@Chuyên ngành kỹ thuật\n-sự gia nhiệt lại\n-sự nung lại\n@Lĩnh vực: điện lạnh\n-sự sưởi bổ sung
-
+reheating	@reheating
+* danh từ
+- xem reheat
+- sự đun nóng kim loại đến nhiệt độ gia công
+@Chuyên ngành kinh tế
+-sự đốt nóng
+-sự hâm lại
+@Chuyên ngành kỹ thuật
+-sự gia nhiệt lại
+-sự nung lại
+@Lĩnh vực: điện lạnh
+-sự sưởi bổ sung

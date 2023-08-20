@@ -1,3 +1,2 @@
-voider
-	@voider\n- xem void
-
+voider	@voider
+- xem void

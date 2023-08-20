@@ -1,3 +1,3 @@
-dingbats
-	@dingbats\n- Một loại ký tự trang trí
-
+dingbats	
+@dingbats
+- Một loại ký tự trang trí

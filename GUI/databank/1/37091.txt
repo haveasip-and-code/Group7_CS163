@@ -1,3 +1,5 @@
-notebook
-	@notebook /'noutbuk/\n*  danh từ\n- sổ tay, sổ ghi chép\n@Chuyên ngành kỹ thuật\n-sổ
-
+notebook	@notebook /'noutbuk/
+*  danh từ
+- sổ tay, sổ ghi chép
+@Chuyên ngành kỹ thuật
+-sổ

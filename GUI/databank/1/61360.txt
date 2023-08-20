@@ -1,3 +1,19 @@
-vegetable
-	@vegetable /'vedʤitəbl/\n*  tính từ\n- (thực vật học) (thuộc) thực vật\n=vegetable kingdom+ giới thực vật\n=vegetable physiology+ sinh lý thực vật\n- (thuộc) rau\n=vegetable soup+ xúp rau\n*  danh từ\n- rau\n=green vegetable+ rau xanh\n@Chuyên ngành kinh tế\n-rau\n@Chuyên ngành kỹ thuật\n-thực vật\n@Lĩnh vực: thực phẩm\n-rau\n-rau cải\n@Lĩnh vực: y học\n-thuộc thực vật
-
+vegetable	@vegetable /'vedʤitəbl/
+*  tính từ
+- (thực vật học) (thuộc) thực vật
+=vegetable kingdom+ giới thực vật
+=vegetable physiology+ sinh lý thực vật
+- (thuộc) rau
+=vegetable soup+ xúp rau
+*  danh từ
+- rau
+=green vegetable+ rau xanh
+@Chuyên ngành kinh tế
+-rau
+@Chuyên ngành kỹ thuật
+-thực vật
+@Lĩnh vực: thực phẩm
+-rau
+-rau cải
+@Lĩnh vực: y học
+-thuộc thực vật

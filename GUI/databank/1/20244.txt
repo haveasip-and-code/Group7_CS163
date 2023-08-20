@@ -1,3 +1,54 @@
-facing
-	@facing /'feisiɳ/\n*  danh từ\n- sự đương đầu (với một tình thế)\n- sự lật (quân bài)\n- sự quay (về một hướng)\n- (số nhiều) cổ áo màu; cửa tay màu (của quân phục)\n- sự phủ lên mặt ngoài, sự tráng lên mặt ngoài\n- khả năng; sự thông thạo\n=to put somebody through his facings+ thử khả năng của ai\n=to go through one's facing+ qua sự kiểm tra về khả năng\n- (quân sự), (số nhiều) động tác quay\n@Chuyên ngành kinh tế\n-sự lột ra từ bên sườn\n-sự phủ mặt\n-sự tráng lên mặt\n@Chuyên ngành kỹ thuật\n-lớp áo bọc\n-lớp bọc\n-lớp ngoài\n-lớp ốp\n-lớp phủ mặt\n-lớp tráng\n-phủ\n-tráng\n@Lĩnh vực: xây dựng\n-lớp lát mặt\n-mặt ốp\n-tường mặt\n-vật liệu ốp\n-vật liệu phủ\n-việc học ngoài\n@Lĩnh vực: cơ khí & công trình\n-lớp ống ngoài\n-sự phủ mặt\n@Chuyên ngành kỹ thuật\n-lớp áo bọc\n-lớp bọc\n-lớp ngoài\n-lớp ốp\n-lớp phủ mặt\n-lớp tráng\n-phủ\n-tráng\n@Lĩnh vực: xây dựng\n-lớp lát mặt\n-mặt ốp\n-tường mặt\n-vật liệu ốp\n-vật liệu phủ\n-việc học ngoài\n@Lĩnh vực: cơ khí & công trình\n-lớp ống ngoài\n-sự phủ mặt
-
+facing	
+@facing /'feisiɳ/
+*  danh từ
+- sự đương đầu (với một tình thế)
+- sự lật (quân bài)
+- sự quay (về một hướng)
+- (số nhiều) cổ áo màu; cửa tay màu (của quân phục)
+- sự phủ lên mặt ngoài, sự tráng lên mặt ngoài
+- khả năng; sự thông thạo=to put somebody through his facings
++ thử khả năng của ai=to go through one's facing
++ qua sự kiểm tra về khả năng
+- (quân sự), (số nhiều) động tác quay
+@Chuyên ngành kinh tế
+-sự lột ra từ bên sườn
+-sự phủ mặt
+-sự tráng lên mặt
+@Chuyên ngành kỹ thuật
+-lớp áo bọc
+-lớp bọc
+-lớp ngoài
+-lớp ốp
+-lớp phủ mặt
+-lớp tráng
+-phủ
+-tráng
+@Lĩnh vực: xây dựng
+-lớp lát mặt
+-mặt ốp
+-tường mặt
+-vật liệu ốp
+-vật liệu phủ
+-việc học ngoài
+@Lĩnh vực: cơ khí & công trình
+-lớp ống ngoài
+-sự phủ mặt
+@Chuyên ngành kỹ thuật
+-lớp áo bọc
+-lớp bọc
+-lớp ngoài
+-lớp ốp
+-lớp phủ mặt
+-lớp tráng
+-phủ
+-tráng
+@Lĩnh vực: xây dựng
+-lớp lát mặt
+-mặt ốp
+-tường mặt
+-vật liệu ốp
+-vật liệu phủ
+-việc học ngoài
+@Lĩnh vực: cơ khí & công trình
+-lớp ống ngoài
+-sự phủ mặt

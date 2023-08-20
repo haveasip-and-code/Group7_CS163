@@ -1,3 +1,15 @@
-cockpit
-	@cockpit /'kɔkpit/\n*  danh từ\n- chỗ chọi gà, bãi chọi gà\n- trường chiến tranh (nơi hay diễn ra chiến tranh)\n- (hàng không) buồng lái (của phi công)\n@Chuyên ngành kinh tế\n-buồng lái\n@Chuyên ngành kỹ thuật\n-buồng lái\n-cabin\n@Lĩnh vực: giao thông & vận tải\n-buồng lái máy bay\n-buồng lái tàu\n@Lĩnh vực: ô tô\n-khoang hàng khách
-
+cockpit	@cockpit /'kɔkpit/
+*  danh từ
+- chỗ chọi gà, bãi chọi gà
+- trường chiến tranh (nơi hay diễn ra chiến tranh)
+- (hàng không) buồng lái (của phi công)
+@Chuyên ngành kinh tế
+-buồng lái
+@Chuyên ngành kỹ thuật
+-buồng lái
+-cabin
+@Lĩnh vực: giao thông & vận tải
+-buồng lái máy bay
+-buồng lái tàu
+@Lĩnh vực: ô tô
+-khoang hàng khách

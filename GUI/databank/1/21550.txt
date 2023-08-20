@@ -1,3 +1,4 @@
-flowcharting
-	@flowcharting\n* danh từ\n- việc lập biểu đồ tiến trình
-
+flowcharting	
+@flowcharting
+* danh từ
+- việc lập biểu đồ tiến trình

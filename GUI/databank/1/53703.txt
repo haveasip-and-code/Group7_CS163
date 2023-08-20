@@ -1,3 +1,8 @@
-striae
-	@striae /stria/\n*  danh từ,  số nhiều striae\n- (sinh vật học) vằn, sọc; đường khía\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-đường gợn\n@Lĩnh vực: điện lạnh\n-vằn sáng (khi phóng điện)
-
+striae	@striae /stria/
+*  danh từ,  số nhiều striae
+- (sinh vật học) vằn, sọc; đường khía
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-đường gợn
+@Lĩnh vực: điện lạnh
+-vằn sáng (khi phóng điện)

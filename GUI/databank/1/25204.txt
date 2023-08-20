@@ -1,3 +1,10 @@
-headrace
-	@headrace /'hedreis/\n*  danh từ\n- sông đào dẫn nước (vào máy xay...)\n@Chuyên ngành kỹ thuật\n-đoạn đầu âu\n-đường dẫn nước\n-ống dẫn nước\n@Lĩnh vực: cơ khí & công trình\n-đường dẫm nước
-
+headrace	
+@headrace /'hedreis/
+*  danh từ
+- sông đào dẫn nước (vào máy xay...)
+@Chuyên ngành kỹ thuật
+-đoạn đầu âu
+-đường dẫn nước
+-ống dẫn nước
+@Lĩnh vực: cơ khí & công trình
+-đường dẫm nước

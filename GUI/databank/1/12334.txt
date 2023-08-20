@@ -1,3 +1,118 @@
-cover
-	@cover /'kʌvə/\n*  danh từ\n- vỏ, vỏ bọc, cái bọc ngoài; bìa sách; phong bì\n=under the same cover+ trong cùng một bọc, trong cùng một phong bì\n- vung, nắp\n=the cover of a pan+ vung chão, vung xoong\n- lùm cây, bụi rậm\n- chỗ núp, chỗ trốn, chỗ trú\n- màn che, lốt, mặt nạ ((nghĩa bóng))\n=under the cover of religion+ đội lốt tôn giáo, giả danh tôn giáo\n- bộ đồ ăn cho một người (ở bàn ăn)\n- (thương nghiệp) tiền bảo chứng\n!air cover\n- lực lượng không quân yểm hộ (cho một cuộc hành quân)\n!to break cover\n- ra khỏi nơi trú ẩn (thú rừng)\n!to read a book from cover to cover\n- đọc một quyển sách từ đầu đến cuối\n!to take cover\n- (quân sự) ẩn núp\n=under [the] cover of+ giả danh, đội lốt\n- dưới sự yểm trợ của\n=under cover of the night+ thừa lúc đêm tối\n*  ngoại động từ\n- che, phủ, bao phủ, bao trùm, bao bọc\n=to cover a wall with paper+ dán giấy phủ lên tường\n=to cover one's face with one's hands+ lấy tay che mặt\n=to cover someone with disgrace+ (nghĩa bóng) ghẻ lạnh ai, bỏ rơi ai\n=to cover oneself with glory+ được vẻ vang\n- mặc quần áo, đội mũ\n=cover yourself up, it's cold today+ hôm nay trời lạnh đấy mắc quần áo ấm vào\n=to stand covered; to remain covered+ cứ đội mũ, cứ để nguyên mũ trên đầu, không bỏ ra\n- (quân sự) che chở, bảo vệ, yểm hộ; khống chế, kiểm soát\n=to cover the retreat+ yểm hộ cuộc rút lui\n=to cover an area+ khống chế cả một vùng (pháo đài, ổ pháo...), kiểm soát cả một vùng\n- giấu, che giấu, che đậy\n=to cover one's confusion+ che dấu sự bối rối\n=to cover one's tracks+ làm mất dấu vết\n- bao gồm, bao hàm, gồm\n=the definition does not cover all the meanings of the word+ định nghĩa đó không bao hàm được tất cả ý của từ\n=the book covers the whole subject+ cuốn sách bao hàm toàn bộ vấn đề\n- trải ra\n=the city covers ten square miles+ thành phố trải ra trên mười dặm vuông\n- đi được\n=to cover sixty kilometres in three hours+ đi được sáu kilômét trong ba tiếng đồng hồ\n- đủ để bù đắp lại được, đủ để trả\n=this must be enough to cover your expenses+ số tiền này ắt là đủ để trả các khoản chi tiêu của anh\n=to cover a loss+ đủ để bù đắp lại chỗ mất mát\n- nhằm, chĩa vào (ai)\n=to cover someone with a revolver+ chĩa súng lục vào ai\n- ấp (trứng)\n- (động vật học) phủ (cái), nhảy (cái)\n- theo dõi (dự) để điện tin tức về nhà báo\n=to cover a conference+ theo dõi (dự) một hội nghị với tư cách là phóng viên\n- bảo hiểm\n=a covered house+ một toà nhà có bảo hiểm\n!to cover in\n- che phủ, phủ kín\n- phủ đầy đất, lấp đất (một nấm mồ...)\n!to cover up\n- bọc kỹ, bọc kín\n- giấu giếm, che đậy\n@Chuyên ngành kinh tế\n-bảo đảm\n-bao gồm\n-bảo hiểm\n-bảo hộ\n-bảo lãnh\n-bao quát\n-bù lấp (khoản tổn thất)\n-bù thêm\n-che chở\n-đủ để bù vào (chi phí)\n-lớp phủ mặt sàng chống bọt (khi lên men)\n-mức đảm bảo\n-nắp\n-phạm vi bảo hiểm\n-tiền bảo chứng\n-tiền cược\n-tiền ký quỹ\n-vỏ bọc\n-vung\n@Chuyên ngành kỹ thuật\n-áo\n-áo bọc\n-bao\n-bao phủ\n-bảo vệ\n-cái nắp\n-che đậy\n-che phủ\n-đậy\n-lớp bảo vệ\n-lớp bồi tích\n-lớp che\n-lớp lát\n-lớp mái\n-lớp mặt\n-lớp phủ\n-lớp phủ (nền đường)\n-nắp\n-nắp bảo vệ\n-náp phủ\n-mái\n-mặt đường\n-mũ\n-phủ\n-sự che phủ\n-sự phủ\n-tầng phủ\n-vành\n-vỏ\n-vỏ bọc\n@Lĩnh vực: toán & tin\n-bao gói\n-tờ bìa\n-vật che đậy máy\n@Lĩnh vực: xây dựng\n-bề rộng có ích\n-lợp (nhà)\n-lớp lát lò\n@Lĩnh vực: ô tô\n-lốp (kiểu lốp Mỹ)
-
+cover	
+@cover /'kʌvə/
+*  danh từ
+- vỏ, vỏ bọc, cái bọc ngoài; bìa sách; phong bì=under the same cover
++ trong cùng một bọc, trong cùng một phong bì
+- vung, nắp=the cover of a pan
++ vung chão, vung xoong
+- lùm cây, bụi rậm
+- chỗ núp, chỗ trốn, chỗ trú
+- màn che, lốt, mặt nạ ((nghĩa bóng))=under the cover of religion
++ đội lốt tôn giáo, giả danh tôn giáo
+- bộ đồ ăn cho một người (ở bàn ăn)
+- (thương nghiệp) tiền bảo chứng!air cover
+- lực lượng không quân yểm hộ (cho một cuộc hành quân)!to break cover
+- ra khỏi nơi trú ẩn (thú rừng)!to read a book from cover to cover
+- đọc một quyển sách từ đầu đến cuối!to take cover
+- (quân sự) ẩn núp=under [the] cover of
++ giả danh, đội lốt
+- dưới sự yểm trợ của=under cover of the night
++ thừa lúc đêm tối
+*  ngoại động từ
+- che, phủ, bao phủ, bao trùm, bao bọc=to cover a wall with paper
++ dán giấy phủ lên tường=to cover one's face with one's hands
++ lấy tay che mặt=to cover someone with disgrace
++ (nghĩa bóng) ghẻ lạnh ai, bỏ rơi ai=to cover oneself with glory
++ được vẻ vang
+- mặc quần áo, đội mũ=cover yourself up, it's cold today
++ hôm nay trời lạnh đấy mắc quần áo ấm vào=to stand covered; to remain covered
++ cứ đội mũ, cứ để nguyên mũ trên đầu, không bỏ ra
+- (quân sự) che chở, bảo vệ, yểm hộ; khống chế, kiểm soát=to cover the retreat
++ yểm hộ cuộc rút lui=to cover an area
++ khống chế cả một vùng (pháo đài, ổ pháo...), kiểm soát cả một vùng
+- giấu, che giấu, che đậy=to cover one's confusion
++ che dấu sự bối rối=to cover one's tracks
++ làm mất dấu vết
+- bao gồm, bao hàm, gồm=the definition does not cover all the meanings of the word
++ định nghĩa đó không bao hàm được tất cả ý của từ=the book covers the whole subject
++ cuốn sách bao hàm toàn bộ vấn đề
+- trải ra=the city covers ten square miles
++ thành phố trải ra trên mười dặm vuông
+- đi được=to cover sixty kilometres in three hours
++ đi được sáu kilômét trong ba tiếng đồng hồ
+- đủ để bù đắp lại được, đủ để trả=this must be enough to cover your expenses
++ số tiền này ắt là đủ để trả các khoản chi tiêu của anh=to cover a loss
++ đủ để bù đắp lại chỗ mất mát
+- nhằm, chĩa vào (ai)=to cover someone with a revolver
++ chĩa súng lục vào ai
+- ấp (trứng)
+- (động vật học) phủ (cái), nhảy (cái)
+- theo dõi (dự) để điện tin tức về nhà báo=to cover a conference
++ theo dõi (dự) một hội nghị với tư cách là phóng viên
+- bảo hiểm=a covered house
++ một toà nhà có bảo hiểm!to cover in
+- che phủ, phủ kín
+- phủ đầy đất, lấp đất (một nấm mồ...)!to cover up
+- bọc kỹ, bọc kín
+- giấu giếm, che đậy
+@Chuyên ngành kinh tế
+-bảo đảm
+-bao gồm
+-bảo hiểm
+-bảo hộ
+-bảo lãnh
+-bao quát
+-bù lấp (khoản tổn thất)
+-bù thêm
+-che chở
+-đủ để bù vào (chi phí)
+-lớp phủ mặt sàng chống bọt (khi lên men)
+-mức đảm bảo
+-nắp
+-phạm vi bảo hiểm
+-tiền bảo chứng
+-tiền cược
+-tiền ký quỹ
+-vỏ bọc
+-vung
+@Chuyên ngành kỹ thuật
+-áo
+-áo bọc
+-bao
+-bao phủ
+-bảo vệ
+-cái nắp
+-che đậy
+-che phủ
+-đậy
+-lớp bảo vệ
+-lớp bồi tích
+-lớp che
+-lớp lát
+-lớp mái
+-lớp mặt
+-lớp phủ
+-lớp phủ (nền đường)
+-nắp
+-nắp bảo vệ
+-náp phủ
+-mái
+-mặt đường
+-mũ
+-phủ
+-sự che phủ
+-sự phủ
+-tầng phủ
+-vành
+-vỏ
+-vỏ bọc
+@Lĩnh vực: toán & tin
+-bao gói
+-tờ bìa
+-vật che đậy máy
+@Lĩnh vực: xây dựng
+-bề rộng có ích
+-lợp (nhà)
+-lớp lát lò
+@Lĩnh vực: ô tô
+-lốp (kiểu lốp Mỹ)

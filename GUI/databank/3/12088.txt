@@ -1,3 +1,6 @@
-cortisone
-	@cortisone\n* danh từ\n- hormon chữa viêm và dị ứng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một corticosteroid có tự nhiên dùng chữa bệnh Ađison và sau phẩu thuật cắt bỏ tuyến thượng thận
-
+cortisone	@cortisone
+* danh từ
+- hormon chữa viêm và dị ứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một corticosteroid có tự nhiên dùng chữa bệnh Ađison và sau phẩu thuật cắt bỏ tuyến thượng thận

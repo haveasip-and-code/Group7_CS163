@@ -1,3 +1,4 @@
-multimode
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đa chế độ\n-nhiều chế độ
-
+multimode	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đa chế độ
+-nhiều chế độ

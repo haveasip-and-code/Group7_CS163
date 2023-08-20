@@ -1,3 +1,2 @@
-transistorise
-	@transistorise\n- Cách viết khác : transistorize
-
+transistorise	@transistorise
+- Cách viết khác : transistorize

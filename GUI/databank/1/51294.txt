@@ -1,3 +1,10 @@
-sluicing
-	@sluicing\n* danh từ\n- sự tháo cống\n- sự đưa tàu vào âu\n@Chuyên ngành kỹ thuật\n-rửa\n-sự tháo cống\n-sự xả cống\n@Lĩnh vực: xây dựng\n-sự xói bùn cát
-
+sluicing	@sluicing
+* danh từ
+- sự tháo cống
+- sự đưa tàu vào âu
+@Chuyên ngành kỹ thuật
+-rửa
+-sự tháo cống
+-sự xả cống
+@Lĩnh vực: xây dựng
+-sự xói bùn cát

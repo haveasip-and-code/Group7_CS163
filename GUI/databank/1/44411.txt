@@ -1,3 +1,2 @@
-prussianize
-	@prussianize\n- xem prussianise
-
+prussianize	@prussianize
+- xem prussianise

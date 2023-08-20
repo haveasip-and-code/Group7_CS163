@@ -1,3 +1,4 @@
-driveline
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-đường truyền lực
-
+driveline	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-đường truyền lực

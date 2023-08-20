@@ -1,3 +1,6 @@
-silverware
-	@silverware\n* danh từ\n- đồ làm bằng bạc\n@Chuyên ngành kỹ thuật\n-đồ bạc\n-đồ dùng bằng bạc
-
+silverware	@silverware
+* danh từ
+- đồ làm bằng bạc
+@Chuyên ngành kỹ thuật
+-đồ bạc
+-đồ dùng bằng bạc

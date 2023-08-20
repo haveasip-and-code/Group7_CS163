@@ -1,3 +1,6 @@
-handpress
-	@handpress\n* danh từ\n- máy in bằng tay\n@Chuyên ngành kỹ thuật\n-máy in tay
-
+handpress	
+@handpress
+* danh từ
+- máy in bằng tay
+@Chuyên ngành kỹ thuật
+-máy in tay

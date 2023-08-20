@@ -1,3 +1,4 @@
-punning
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự đầm bằng tay\n-sự xọc bê tông
-
+punning	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự đầm bằng tay
+-sự xọc bê tông

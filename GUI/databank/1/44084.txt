@@ -1,3 +1,2 @@
-propertyless
-	@propertyless\n- xem property
-
+propertyless	@propertyless
+- xem property

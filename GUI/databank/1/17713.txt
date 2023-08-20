@@ -1,3 +1,13 @@
-electrostatic
-	@electrostatic\n- tĩnh điện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thuộc tĩnh điện\n@Lĩnh vực: điện lạnh\n-tĩnh điện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thuộc tĩnh điện\n@Lĩnh vực: điện lạnh\n-tĩnh điện
-
+electrostatic	
+@electrostatic
+- tĩnh điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-thuộc tĩnh điện
+@Lĩnh vực: điện lạnh
+-tĩnh điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-thuộc tĩnh điện
+@Lĩnh vực: điện lạnh
+-tĩnh điện

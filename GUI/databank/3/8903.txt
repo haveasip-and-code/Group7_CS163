@@ -1,3 +1,38 @@
-cheek
-	@cheek /tʃi:k/\n*  danh từ\n- má\n=a rosy cheek+ má hồng\n- sự táo tợn, sự cả gan; thói trơ tráo, tính không biết xấu hổ\n=to have a cheek to do something+ táo tợn làm việc gì, mặt dạn mày dày làm việc gì\n=what cheek!+ đồ không biết xấu hổ!\n- lời nói láo xược, lời nói vô lễ\n=no more of your cheek!+ im ngay cái lối ăn nói láo xược ấy đi!; hỗn vừa chứ!\n- thanh má, thanh đứng (của khung cửa)\n- (số nhiều) má (kìm, ròng rọc,  êtô)\n!cheek by jowl\n- vai kề vai; thân thiết với nhau, tớ tớ mình mình, mày mày tao tao\n!to one's own cheek\n- cho riêng mình không chia xẻ với ai cả\n!to speak with (to have) one's tongue in one's cheek\n- không thành thật, giả dối\n- chế nhạo, nhạo báng\n*  ngoại động từ\n- láo xược với (ai), hỗn xược với (ai)\n@Chuyên ngành kinh tế\n-gò má\n-hàm\n@Chuyên ngành kỹ thuật\n-đường trượt\n-guốc phanh\n-hàm\n-hòm khuôn trung gian\n-mặt bên\n-tấm bên\n-tấm ngăn\n-tường bên\n-vách\n@Lĩnh vực: cơ khí & công trình\n-tấm vách\n-thanh má\n@Lĩnh vực: hóa học & vật liệu\n-vách mạch
-
+cheek	@cheek /tʃi:k/
+*  danh từ
+- má
+=a rosy cheek+ má hồng
+- sự táo tợn, sự cả gan; thói trơ tráo, tính không biết xấu hổ
+=to have a cheek to do something+ táo tợn làm việc gì, mặt dạn mày dày làm việc gì
+=what cheek!+ đồ không biết xấu hổ!
+- lời nói láo xược, lời nói vô lễ
+=no more of your cheek!+ im ngay cái lối ăn nói láo xược ấy đi!; hỗn vừa chứ!
+- thanh má, thanh đứng (của khung cửa)
+- (số nhiều) má (kìm, ròng rọc,  êtô)
+!cheek by jowl
+- vai kề vai; thân thiết với nhau, tớ tớ mình mình, mày mày tao tao
+!to one's own cheek
+- cho riêng mình không chia xẻ với ai cả
+!to speak with (to have) one's tongue in one's cheek
+- không thành thật, giả dối
+- chế nhạo, nhạo báng
+*  ngoại động từ
+- láo xược với (ai), hỗn xược với (ai)
+@Chuyên ngành kinh tế
+-gò má
+-hàm
+@Chuyên ngành kỹ thuật
+-đường trượt
+-guốc phanh
+-hàm
+-hòm khuôn trung gian
+-mặt bên
+-tấm bên
+-tấm ngăn
+-tường bên
+-vách
+@Lĩnh vực: cơ khí & công trình
+-tấm vách
+-thanh má
+@Lĩnh vực: hóa học & vật liệu
+-vách mạch

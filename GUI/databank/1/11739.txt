@@ -1,3 +1,10 @@
-convict
-	@convict /'kɔnvikt/\n*  danh từ\n- người bị kết án tù, người tù\n=convict prison (establishment)+ nhà tù, khám lớn\n=returned convict+ tù được phóng thích\n*  ngoại động từ\n- kết án, tuyên bố có tội\n=to convict someone of a crime+ tuyên bố người nào phạm tội\n- làm cho nhận thức thấy (sai lầm, tội tù...)
-
+convict	
+@convict /'kɔnvikt/
+*  danh từ
+- người bị kết án tù, người tù=convict prison (establishment)
++ nhà tù, khám lớn=returned convict
++ tù được phóng thích
+*  ngoại động từ
+- kết án, tuyên bố có tội=to convict someone of a crime
++ tuyên bố người nào phạm tội
+- làm cho nhận thức thấy (sai lầm, tội tù...)

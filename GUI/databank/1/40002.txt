@@ -1,3 +1,5 @@
-pathogenic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gây bệnh (có khả năng gây bệnh)\n@Lĩnh vực: hóa học & vật liệu\n-sinh bệnh
-
+pathogenic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-gây bệnh (có khả năng gây bệnh)
+@Lĩnh vực: hóa học & vật liệu
+-sinh bệnh

@@ -1,3 +1,4 @@
-pseudorandom
-	@pseudorandom\n- giả ngẫu nhiên\n@Chuyên ngành kỹ thuật\n-ngẫu nhiên giả
-
+pseudorandom	@pseudorandom
+- giả ngẫu nhiên
+@Chuyên ngành kỹ thuật
+-ngẫu nhiên giả

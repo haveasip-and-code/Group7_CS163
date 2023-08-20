@@ -1,3 +1,6 @@
-merchandizing
-	@Chuyên ngành kinh tế\n-bán hàng\n-quảng cáo tiêu thụ hàng hóa\n-thương phẩm học\n-việc bán hàng\n-việc quảng cáo tiêu thụ hàng hóa
-
+merchandizing	@Chuyên ngành kinh tế
+-bán hàng
+-quảng cáo tiêu thụ hàng hóa
+-thương phẩm học
+-việc bán hàng
+-việc quảng cáo tiêu thụ hàng hóa

@@ -1,3 +1,5 @@
-tarp
-	@Chuyên ngành kỹ thuật\n-vải dầu\n@Lĩnh vực: hóa học & vật liệu\n-vải hắc ín\n-vải tẩm nhựa
-
+tarp	@Chuyên ngành kỹ thuật
+-vải dầu
+@Lĩnh vực: hóa học & vật liệu
+-vải hắc ín
+-vải tẩm nhựa

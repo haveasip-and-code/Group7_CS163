@@ -1,3 +1,10 @@
-telemarketing
-	@telemarketing\n* danh từ\n- chào hàng qua điện thoại, hình thức tiếp thị qua điện thoại\n@Chuyên ngành kinh tế\n-bán hàng, tiếp thị qua điện thoại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-maketing từ xa\n@Lĩnh vực: toán & tin\n-marketing từ xa
-
+telemarketing	@telemarketing
+* danh từ
+- chào hàng qua điện thoại, hình thức tiếp thị qua điện thoại
+@Chuyên ngành kinh tế
+-bán hàng, tiếp thị qua điện thoại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-maketing từ xa
+@Lĩnh vực: toán & tin
+-marketing từ xa

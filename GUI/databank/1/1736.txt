@@ -1,3 +1,7 @@
-always
-	@always /'ɔ:lwəz/\n*  phó từ\n- luôn luôn, lúc nào cũng, bao giờ cũng, mãi mãi, hoài\n!not always\n- đôi khi, đôi lúc, thỉnh thoảng\n@Chuyên ngành kỹ thuật\n-luôn luôn
-
+always	
+@always /'ɔ:lwəz/
+*  phó từ
+- luôn luôn, lúc nào cũng, bao giờ cũng, mãi mãi, hoài!not always
+- đôi khi, đôi lúc, thỉnh thoảng
+@Chuyên ngành kỹ thuật
+-luôn luôn

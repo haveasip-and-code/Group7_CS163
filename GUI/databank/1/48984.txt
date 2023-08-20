@@ -1,3 +1,5 @@
-scattergram
-	@scattergram\n- biểu đồ tán xạ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biểu đồ tán xạ
-
+scattergram	@scattergram
+- biểu đồ tán xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-biểu đồ tán xạ

@@ -1,3 +1,9 @@
-topsoil
-	@topsoil\n* danh từ\n- (nông nghiệp) tầng đất mặt; lớp đất cay\n@Chuyên ngành kỹ thuật\n-lớp đất phủ\n@Lĩnh vực: xây dựng\n-đất (trên) mặt\n-đất mặt\n-lớp đất trên
-
+topsoil	@topsoil
+* danh từ
+- (nông nghiệp) tầng đất mặt; lớp đất cay
+@Chuyên ngành kỹ thuật
+-lớp đất phủ
+@Lĩnh vực: xây dựng
+-đất (trên) mặt
+-đất mặt
+-lớp đất trên

@@ -1,3 +1,36 @@
-burner
-	@burner /'bə:nə/\n*  danh từ\n- người đốt, người nung ((thường) trong từ ghép)\n=a brick burner+ người nung gạch\n- đèn\n=an oil burner+ đèn dầu\n=blowpipe burner+ đèn xì\n- mỏ đèn\n@Chuyên ngành kinh tế\n-sự đốt\n-sự khét\n-sự khô\n-sự thiêu\n@Chuyên ngành kỹ thuật\n-bộ xóa\n-buồng đốt\n-buồng lửa\n-đèn khí\n-đèn xì\n-lò\n-lò đốt\n-mỏ đèn xì\n-mỏ đốt\n-mỏ hàn\n-mỏ hàn hơi\n@Lĩnh vực: điện lạnh\n-bộ đốt\n@Lĩnh vực: toán & tin\n-bộ phận cháy\n@Lĩnh vực: điện\n-đèn đốt\n-vòi đốt\n@Lĩnh vực: xây dựng\n-mỏ đốt Bunsen\n@Lĩnh vực: cơ khí & công trình\n-mỏ xì
-
+burner	@burner /'bə:nə/
+*  danh từ
+- người đốt, người nung ((thường) trong từ ghép)
+=a brick burner+ người nung gạch
+- đèn
+=an oil burner+ đèn dầu
+=blowpipe burner+ đèn xì
+- mỏ đèn
+@Chuyên ngành kinh tế
+-sự đốt
+-sự khét
+-sự khô
+-sự thiêu
+@Chuyên ngành kỹ thuật
+-bộ xóa
+-buồng đốt
+-buồng lửa
+-đèn khí
+-đèn xì
+-lò
+-lò đốt
+-mỏ đèn xì
+-mỏ đốt
+-mỏ hàn
+-mỏ hàn hơi
+@Lĩnh vực: điện lạnh
+-bộ đốt
+@Lĩnh vực: toán & tin
+-bộ phận cháy
+@Lĩnh vực: điện
+-đèn đốt
+-vòi đốt
+@Lĩnh vực: xây dựng
+-mỏ đốt Bunsen
+@Lĩnh vực: cơ khí & công trình
+-mỏ xì

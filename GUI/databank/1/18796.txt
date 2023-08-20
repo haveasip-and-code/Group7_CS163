@@ -1,3 +1,16 @@
-episode
-	@episode /,episoud/\n*  danh từ\n- phần giữa (hai bài đồng ca trong bi kịch Hy-lạp)\n- đoạn, hồi; tình tiết (trong truyện...)\n@Chuyên ngành kỹ thuật\n-giai đoạn\n@Lĩnh vực: xây dựng\n-sự đoạn\n-tránh sự kiện\n@Chuyên ngành kỹ thuật\n-giai đoạn\n@Lĩnh vực: xây dựng\n-sự đoạn\n-tránh sự kiện
-
+episode	
+@episode /,episoud/
+*  danh từ
+- phần giữa (hai bài đồng ca trong bi kịch Hy
+-lạp)
+- đoạn, hồi; tình tiết (trong truyện...)
+@Chuyên ngành kỹ thuật
+-giai đoạn
+@Lĩnh vực: xây dựng
+-sự đoạn
+-tránh sự kiện
+@Chuyên ngành kỹ thuật
+-giai đoạn
+@Lĩnh vực: xây dựng
+-sự đoạn
+-tránh sự kiện

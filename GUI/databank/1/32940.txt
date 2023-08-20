@@ -1,3 +1,43 @@
-lump
-	@lump /lʌmp/\n*  danh từ\n- cục, tảng, miếng\n=a lump of sugar+ một cục đường\n=a lump of clay+ một cục đất sét\n=lump sugar+ đường miếng\n- cái bướu, chỗ sưng u lên, chỗ u lồi lên\n=a bad lump on the forehead+ u ở trán\n- cả mớ, toàn bộ, toàn thể\n=in the lump+ tính cả mớ, tính tất cả\n=a lump sum+ số tiền tính gộp cả lại; tiền mặt trả gọn\n- người đần độn, người chậm chạp\n!to be a lump of selfishness\n- đại ích kỷ\n!to feel (have) a lump in one's throat\n- cảm thấy cổ họng như nghẹn tắc lại\n*  ngoại động từ\n- xếp lại thành đống, thu gọn lại thành đống; gộp lại\n- coi như cá mè một lứa, cho là một giuộc\n*  nội động từ\n- đóng cục lại, vón lại, kết thành tảng\n*  nội động từ\n- (+ along) kéo lê, lết đi\n- (+ down) ngồi phệt xuống\n*  ngoại động từ\n- chịu đựng; ngậm đắng nuốt cay\n=if you don't like it you will have to lump it+ nếu anh không thích cái đó thì anh cũng phải chịu đựng vậy thôi; thích hay không thích thì anh cùng phải nhận thôi\n@Chuyên ngành kinh tế\n-cục\n-miếng\n-người gia công thầu lại\n-tảng\n-tạo thành tảng\n-tàu chở gỗ\n@Chuyên ngành kỹ thuật\n-khối\n-khối chung\n-lấy chung\n-miếng\n-tập trung\n-thu thập\n@Lĩnh vực: xây dựng\n-làm thành khối
-
+lump	@lump /lʌmp/
+*  danh từ
+- cục, tảng, miếng
+=a lump of sugar+ một cục đường
+=a lump of clay+ một cục đất sét
+=lump sugar+ đường miếng
+- cái bướu, chỗ sưng u lên, chỗ u lồi lên
+=a bad lump on the forehead+ u ở trán
+- cả mớ, toàn bộ, toàn thể
+=in the lump+ tính cả mớ, tính tất cả
+=a lump sum+ số tiền tính gộp cả lại; tiền mặt trả gọn
+- người đần độn, người chậm chạp
+!to be a lump of selfishness
+- đại ích kỷ
+!to feel (have) a lump in one's throat
+- cảm thấy cổ họng như nghẹn tắc lại
+*  ngoại động từ
+- xếp lại thành đống, thu gọn lại thành đống; gộp lại
+- coi như cá mè một lứa, cho là một giuộc
+*  nội động từ
+- đóng cục lại, vón lại, kết thành tảng
+*  nội động từ
+- (+ along) kéo lê, lết đi
+- (+ down) ngồi phệt xuống
+*  ngoại động từ
+- chịu đựng; ngậm đắng nuốt cay
+=if you don't like it you will have to lump it+ nếu anh không thích cái đó thì anh cũng phải chịu đựng vậy thôi; thích hay không thích thì anh cùng phải nhận thôi
+@Chuyên ngành kinh tế
+-cục
+-miếng
+-người gia công thầu lại
+-tảng
+-tạo thành tảng
+-tàu chở gỗ
+@Chuyên ngành kỹ thuật
+-khối
+-khối chung
+-lấy chung
+-miếng
+-tập trung
+-thu thập
+@Lĩnh vực: xây dựng
+-làm thành khối

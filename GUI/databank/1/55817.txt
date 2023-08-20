@@ -1,3 +1,17 @@
-telecommunication
-	@telecommunication /'telikə,mju:ni'keiʃn/\n*  danh từ\n- viễn thông, sự thông tin từ xa\n@Chuyên ngành kinh tế\n-viễn thông\n-vô tuyến viễn thông\n@Chuyên ngành kỹ thuật\n-liên lạc từ xa\n-viễn thông\n@Lĩnh vực: điện\n-kỹ thuật viễn thông\n@Lĩnh vực: hóa học & vật liệu\n-thông tin từ xa\n@Lĩnh vực: toán & tin\n-truyền thông đường dài\n@Lĩnh vực: điện tử & viễn thông\n-viễn thông thông tin
-
+telecommunication	@telecommunication /'telikə,mju:ni'keiʃn/
+*  danh từ
+- viễn thông, sự thông tin từ xa
+@Chuyên ngành kinh tế
+-viễn thông
+-vô tuyến viễn thông
+@Chuyên ngành kỹ thuật
+-liên lạc từ xa
+-viễn thông
+@Lĩnh vực: điện
+-kỹ thuật viễn thông
+@Lĩnh vực: hóa học & vật liệu
+-thông tin từ xa
+@Lĩnh vực: toán & tin
+-truyền thông đường dài
+@Lĩnh vực: điện tử & viễn thông
+-viễn thông thông tin

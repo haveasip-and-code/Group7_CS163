@@ -1,3 +1,6 @@
-trinomial
-	@trinomial /trai'noumjəl/\n*  tính từ\n- (toán học) (thuộc) tam thức\n=trinomial equation+ phương trình tam thức\n*  danh từ\n- (toán học) tam thức
-
+trinomial	@trinomial /trai'noumjəl/
+*  tính từ
+- (toán học) (thuộc) tam thức
+=trinomial equation+ phương trình tam thức
+*  danh từ
+- (toán học) tam thức

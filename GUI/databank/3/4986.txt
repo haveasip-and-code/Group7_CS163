@@ -1,3 +1,77 @@
-bearing
-	@bearing /'beəriɳ/\n*  danh từ\n- sự mang\n- sự chịu đựng\n=his conceit it past (beyond all) bearing+ không ai chịu được cái tính tự cao tự đại của nó\n- sự sinh nở, sự sinh đẻ\n=child bearing+ sự sinh con\n=to be in full bearing+ đang trong thời kỳ sinh nở (đàn bà); đang ra quả (cây);\n=to be past bearing quá thời kỳ sinh nở+ thái độ, dáng điệu, bộ dạng, tác phong\n=modest bearing+ thái độ khiêm tốn\n- phương diện, mặt (của một vấn đề)\n=to examine a question in all its bearings+ xem xét một vấn đề trên mọi phương diện\n- sự liên quan, mối quan hệ\n=this remark has no bearing on the question+ lời nhận xết ấy không có liên quan gì tới vấn đề\n- ý nghĩa, nghĩa\n=the precise bearing of the word+ nghĩa chính xác của từ đó\n- (kỹ thuật) cái giá, cái trụ, cái đệm,  cuxinê\n=ball bearings+ vòng bi, ổ bi (xe đạp...)\n- (hàng hải); (hàng không) quân... vị trí phương hướng\n=to take one's bearings+ xác định vị trí, định rõ phương hướng (nghĩa đen) & (nghĩa bóng)\n=to lose one's bearings+ lạc mất phương hướng không biết mình ở đâu (nghĩa đen) & (nghĩa bóng)\n- (số nhiều) hình vẽ và chữ đề (trên quốc huy, huy hiệu...)\n@Chuyên ngành kinh tế\n-sự giữ (phiếu)\n@Chuyên ngành kỹ thuật\n-áp lực tựa\n-bạc đạn\n-bạc lót\n-bạc ổ trục\n-bệ\n-bệ đỡ\n-cái giá\n-chỗ tựa\n-điểm tựa\n-đỡ được\n-đường phương\n-giá đỡ\n-giá tựa\n-góc định hướng\n-góc phương vị\n-gối (tựa)\n-gối cầu\n-gối đỡ\n-gối tựa\n-khả năng chịu lực\n-mang\n-mặt tựa\n-mặt tỳ\n-ổ bi\n-ổ điện\n-ổ đỡ\n-ổ đơn giản\n-ổ kiểu ma sát\n-ổ nối (cái)\n-ổ trục\n-ổ trượt\n-ổ tựa\n-ống lót ổ trục\n-phương giác\n-phương vị\n-sự đỡ\n-sự mang\n-sự ngắm\n-sức chịu\n-vòng bi\n@Lĩnh vực: cơ khí & công trình\n-bạc lót (ổ trượt)\n-cái trụ\n-ổ (trục)\n-ổ gối đỡ\n-sự chịu tải\n@Lĩnh vực: xây dựng\n-bộ mang trục\n-bộ phận chịu tải\n-đỡ, tựa (thuộc) gối trụ\n-góc định vị\n-sự tựa, sự kê
-
+bearing	@bearing /'beəriɳ/
+*  danh từ
+- sự mang
+- sự chịu đựng
+=his conceit it past (beyond all) bearing+ không ai chịu được cái tính tự cao tự đại của nó
+- sự sinh nở, sự sinh đẻ
+=child bearing+ sự sinh con
+=to be in full bearing+ đang trong thời kỳ sinh nở (đàn bà); đang ra quả (cây);
+=to be past bearing quá thời kỳ sinh nở+ thái độ, dáng điệu, bộ dạng, tác phong
+=modest bearing+ thái độ khiêm tốn
+- phương diện, mặt (của một vấn đề)
+=to examine a question in all its bearings+ xem xét một vấn đề trên mọi phương diện
+- sự liên quan, mối quan hệ
+=this remark has no bearing on the question+ lời nhận xết ấy không có liên quan gì tới vấn đề
+- ý nghĩa, nghĩa
+=the precise bearing of the word+ nghĩa chính xác của từ đó
+- (kỹ thuật) cái giá, cái trụ, cái đệm,  cuxinê
+=ball bearings+ vòng bi, ổ bi (xe đạp...)
+- (hàng hải); (hàng không) quân... vị trí phương hướng
+=to take one's bearings+ xác định vị trí, định rõ phương hướng (nghĩa đen) & (nghĩa bóng)
+=to lose one's bearings+ lạc mất phương hướng không biết mình ở đâu (nghĩa đen) & (nghĩa bóng)
+- (số nhiều) hình vẽ và chữ đề (trên quốc huy, huy hiệu...)
+@Chuyên ngành kinh tế
+-sự giữ (phiếu)
+@Chuyên ngành kỹ thuật
+-áp lực tựa
+-bạc đạn
+-bạc lót
+-bạc ổ trục
+-bệ
+-bệ đỡ
+-cái giá
+-chỗ tựa
+-điểm tựa
+-đỡ được
+-đường phương
+-giá đỡ
+-giá tựa
+-góc định hướng
+-góc phương vị
+-gối (tựa)
+-gối cầu
+-gối đỡ
+-gối tựa
+-khả năng chịu lực
+-mang
+-mặt tựa
+-mặt tỳ
+-ổ bi
+-ổ điện
+-ổ đỡ
+-ổ đơn giản
+-ổ kiểu ma sát
+-ổ nối (cái)
+-ổ trục
+-ổ trượt
+-ổ tựa
+-ống lót ổ trục
+-phương giác
+-phương vị
+-sự đỡ
+-sự mang
+-sự ngắm
+-sức chịu
+-vòng bi
+@Lĩnh vực: cơ khí & công trình
+-bạc lót (ổ trượt)
+-cái trụ
+-ổ (trục)
+-ổ gối đỡ
+-sự chịu tải
+@Lĩnh vực: xây dựng
+-bộ mang trục
+-bộ phận chịu tải
+-đỡ, tựa (thuộc) gối trụ
+-góc định vị
+-sự tựa, sự kê

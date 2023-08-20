@@ -1,3 +1,14 @@
-behave
-	@behave /bi'heiv/\n*  động từ\n- ăn ở, đối xử, cư xử\n=to behave kindly towards someone+ đối xử tốt với ai\n!to behave oneself\n- cư xử (ăn ở) cho phải phép\n=he does not know how to behave himself+ nó không biết cách ăn ở (cho phải phép)\n- chạy (máy móc...)\n=how is new watch behaving?+ cái đồng hồ đeo tay mới của anh chạy như thế nào?\n@Chuyên ngành kỹ thuật\n-đối xử\n-hành động\n-vận hành\n-xử lý
-
+behave	
+@behave /bi'heiv/
+*  động từ
+- ăn ở, đối xử, cư xử=to behave kindly towards someone
++ đối xử tốt với ai!to behave oneself
+- cư xử (ăn ở) cho phải phép=he does not know how to behave himself
++ nó không biết cách ăn ở (cho phải phép)
+- chạy (máy móc...)=how is new watch behaving?
++ cái đồng hồ đeo tay mới của anh chạy như thế nào?
+@Chuyên ngành kỹ thuật
+-đối xử
+-hành động
+-vận hành
+-xử lý

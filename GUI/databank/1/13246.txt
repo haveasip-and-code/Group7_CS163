@@ -1,3 +1,23 @@
-cutoff
-	@Chuyên ngành kỹ thuật\n-điểm cắt\n-điểm ngắt\n-dòng cắt\n-ngắt dừng\n-ngắt mạch\n-ngừng\n-sự cắt đứt\n-sự cắt mép\n-sự chặn\n-sự ngăn\n-sự ngắt mạch\n-sự tắt máy\n-sự xén (chất dẻo)\n-tần số cắt\n@Lĩnh vực: cơ khí & công trình\n-cơ cấu cắt\n-cơ cấu ngắt đứt\n@Lĩnh vực: xây dựng\n-sự cắt khí\n@Lĩnh vực: điện\n-sự ngắt (điện)
-
+cutoff	
+@Chuyên ngành kỹ thuật
+-điểm cắt
+-điểm ngắt
+-dòng cắt
+-ngắt dừng
+-ngắt mạch
+-ngừng
+-sự cắt đứt
+-sự cắt mép
+-sự chặn
+-sự ngăn
+-sự ngắt mạch
+-sự tắt máy
+-sự xén (chất dẻo)
+-tần số cắt
+@Lĩnh vực: cơ khí & công trình
+-cơ cấu cắt
+-cơ cấu ngắt đứt
+@Lĩnh vực: xây dựng
+-sự cắt khí
+@Lĩnh vực: điện
+-sự ngắt (điện)

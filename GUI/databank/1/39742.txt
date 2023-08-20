@@ -1,3 +1,4 @@
-parities
-	@Chuyên ngành kinh tế\n-các bình giá\n-hối suất\n-tỉ giá hối đoái
-
+parities	@Chuyên ngành kinh tế
+-các bình giá
+-hối suất
+-tỉ giá hối đoái

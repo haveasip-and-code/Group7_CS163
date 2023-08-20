@@ -1,3 +1,4 @@
-terne
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tên mờ\n-tráng chì
-
+terne	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-tên mờ
+-tráng chì

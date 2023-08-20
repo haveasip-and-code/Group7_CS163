@@ -1,3 +1,2 @@
-deterrable
-	@deterrable\n- xem deter
-
+deterrable	@deterrable
+- xem deter

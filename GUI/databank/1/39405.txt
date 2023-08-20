@@ -1,3 +1,3 @@
-pancreozymin
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enzym kích tụy của tá tràng
-
+pancreozymin	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-enzym kích tụy của tá tràng

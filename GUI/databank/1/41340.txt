@@ -1,3 +1,2 @@
-photospheric
-	@photospheric\n- xem photosphere
-
+photospheric	@photospheric
+- xem photosphere

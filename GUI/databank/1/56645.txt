@@ -1,3 +1,2 @@
-ticktacktoe
-	@ticktacktoe\n- như noughts and crosses
-
+ticktacktoe	@ticktacktoe
+- như noughts and crosses

@@ -1,3 +1,2 @@
-bunter
-	@bunter\n- xem bunt
-
+bunter	@bunter
+- xem bunt

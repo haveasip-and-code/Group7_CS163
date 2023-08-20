@@ -1,3 +1,10 @@
-humor
-	@humor\n* danh từ\n- sự hài hước, sự hóm hỉnh\n- khả năng nhận thức được cái hài hước; khả năng nhận thức được cái hóm hỉnh, sự biết hài hước, sự biết đùa\n- tính khí, tâm trạng\n- ý thích, ý thiên về\n- dịch, thể dịch (trong cơ thể)\n* ngoại động từ\n- chiều lòng, làm vừa lòng, chiều theo (ý thích, tính khí của ai)
-
+humor	
+@humor
+* danh từ
+- sự hài hước, sự hóm hỉnh
+- khả năng nhận thức được cái hài hước; khả năng nhận thức được cái hóm hỉnh, sự biết hài hước, sự biết đùa
+- tính khí, tâm trạng
+- ý thích, ý thiên về
+- dịch, thể dịch (trong cơ thể)
+* ngoại động từ
+- chiều lòng, làm vừa lòng, chiều theo (ý thích, tính khí của ai)

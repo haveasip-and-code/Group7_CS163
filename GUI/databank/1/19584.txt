@@ -1,3 +1,3 @@
-exclusion
-	@exclusion\n- sự loại trừ
-
+exclusion	
+@exclusion
+- sự loại trừ

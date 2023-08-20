@@ -1,3 +1,25 @@
-resolve
-	@resolve /ri'zɔlv/\n*  danh từ\n- quyết tâm, ý kiên quyết\n=to take a great resolve to shrink from no difficulty+ kiên quyết không lùi bước trước một khó khăn nào\n*  động từ\n- kiên quyết (làm gì)\n=to be resolved+ kiên quyết\n- quyết định\n- giải quyết (khó khăn, vấn đề, mối nghi ngờ...)\n- (hoá học) phân giải, phân tích, chuyển (sang một trạng thái khác)\n=water may be resolved into oxygen and hydrogen+ nước có thể phân tích thành ôxy và hyđro\n- tiêu độc, tiêu tan\n- (âm nhạc) chuyển sang thuận tai\n- (toán học) giải (bài toán...)\n@Chuyên ngành kinh tế\n-hòa tan\n@Chuyên ngành kỹ thuật\n-giải\n-giải quyết\n-hòa tan\n-nghị quyết\n-phân giải\n-tách ra\n@Lĩnh vực: toán & tin\n-giải, phân giải
-
+resolve	@resolve /ri'zɔlv/
+*  danh từ
+- quyết tâm, ý kiên quyết
+=to take a great resolve to shrink from no difficulty+ kiên quyết không lùi bước trước một khó khăn nào
+*  động từ
+- kiên quyết (làm gì)
+=to be resolved+ kiên quyết
+- quyết định
+- giải quyết (khó khăn, vấn đề, mối nghi ngờ...)
+- (hoá học) phân giải, phân tích, chuyển (sang một trạng thái khác)
+=water may be resolved into oxygen and hydrogen+ nước có thể phân tích thành ôxy và hyđro
+- tiêu độc, tiêu tan
+- (âm nhạc) chuyển sang thuận tai
+- (toán học) giải (bài toán...)
+@Chuyên ngành kinh tế
+-hòa tan
+@Chuyên ngành kỹ thuật
+-giải
+-giải quyết
+-hòa tan
+-nghị quyết
+-phân giải
+-tách ra
+@Lĩnh vực: toán & tin
+-giải, phân giải

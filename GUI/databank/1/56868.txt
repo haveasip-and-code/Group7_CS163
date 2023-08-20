@@ -1,3 +1,6 @@
-today
-	@today\n* danh từ\n- hôm nay, ngày này, ngày hôm nay\n- ngày nay, thời kỳ hiện nay, thời đại này\n* phó từ\n- vào ngày này
-
+today	@today
+* danh từ
+- hôm nay, ngày này, ngày hôm nay
+- ngày nay, thời kỳ hiện nay, thời đại này
+* phó từ
+- vào ngày này

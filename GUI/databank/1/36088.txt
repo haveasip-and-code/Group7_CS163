@@ -1,3 +1,4 @@
-musician
-	@musician /mju:'ziʃn/\n*  danh từ\n- nhạc sĩ\n- nhà soạn nhạc
-
+musician	@musician /mju:'ziʃn/
+*  danh từ
+- nhạc sĩ
+- nhà soạn nhạc

@@ -1,3 +1,36 @@
-defect
-	@defect /di'fekt/\n*  danh từ\n- thiếu sót, sai sót, nhược điểm; tật xấu, khuyết điểm\n=to have the defects of one's qualities+ trong ưu điểm có những nhược điểm\n- (vật lý) sự hụt; độ hụt\n=mass defect+ độ hụt khối lượng\n- (toán học) số khuyết, góc khuyết\n=defect of a triangle+ số khuyết của một tam giác\n*  nội động từ\n- đào ngũ; bỏ đi theo địch; bỏ đảng; (tôn giáo) bỏ đạo, bội giáo\n@Chuyên ngành kinh tế\n-khuyết điểm\n-nhược điểm\n-sai sót\n-sự hao hụt\n-sự thiếu sót\n-thiếu sót\n-tì vết\n@Chuyên ngành kỹ thuật\n-chỗ hỏng\n-chỗ hư hỏng\n-đào ngũ\n-độ hụt\n-khuyết điểm\n-khuyết tật\n-lỗi\n-sai hỏng\n-sai sót\n-số khuyết\n-sự cố\n-sự hụt\n-vết\n@Lĩnh vực: ô tô\n-chỗ sai\n@Lĩnh vực: y học\n-sự thiếu, khuyết
-
+defect	@defect /di'fekt/
+*  danh từ
+- thiếu sót, sai sót, nhược điểm; tật xấu, khuyết điểm
+=to have the defects of one's qualities+ trong ưu điểm có những nhược điểm
+- (vật lý) sự hụt; độ hụt
+=mass defect+ độ hụt khối lượng
+- (toán học) số khuyết, góc khuyết
+=defect of a triangle+ số khuyết của một tam giác
+*  nội động từ
+- đào ngũ; bỏ đi theo địch; bỏ đảng; (tôn giáo) bỏ đạo, bội giáo
+@Chuyên ngành kinh tế
+-khuyết điểm
+-nhược điểm
+-sai sót
+-sự hao hụt
+-sự thiếu sót
+-thiếu sót
+-tì vết
+@Chuyên ngành kỹ thuật
+-chỗ hỏng
+-chỗ hư hỏng
+-đào ngũ
+-độ hụt
+-khuyết điểm
+-khuyết tật
+-lỗi
+-sai hỏng
+-sai sót
+-số khuyết
+-sự cố
+-sự hụt
+-vết
+@Lĩnh vực: ô tô
+-chỗ sai
+@Lĩnh vực: y học
+-sự thiếu, khuyết

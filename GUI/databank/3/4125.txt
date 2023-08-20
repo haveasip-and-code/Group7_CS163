@@ -1,3 +1,2 @@
-autoradiograph
-	@Chuyên ngành kỹ thuật\n-ảnh chụp tự động bằng phóng xạ
-
+autoradiograph	@Chuyên ngành kỹ thuật
+-ảnh chụp tự động bằng phóng xạ

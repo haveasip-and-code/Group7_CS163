@@ -1,3 +1,4 @@
-scrutinize
-	@scrutinize /'skru:tinaiz/\n*  ngoại động từ\n- nhìn chăm chú, nhìn kỹ\n- xem xét kỹ lưỡng, nghiên cứu cẩn thận
-
+scrutinize	@scrutinize /'skru:tinaiz/
+*  ngoại động từ
+- nhìn chăm chú, nhìn kỹ
+- xem xét kỹ lưỡng, nghiên cứu cẩn thận

@@ -1,3 +1,24 @@
-safety
-	@safety /'seifti/\n*  danh từ\n- sự an toàn, sự chắc chắn\n=to be in safety+ ở chỗ an toàn\n=to play for safety+ chơi cẩn thận; chơi ăn chắc\n- tính an toàn, tính chất không nguy hiểm\n=the safety of an experiment+ tính chất không nguy hiểm của cuộc thí nghiệm\n- chốt an toàn (ở súng)\n@Chuyên ngành kinh tế\n-sự an toàn\n@Chuyên ngành kỹ thuật\n-an toàn\n-bảo vệ\n-độ an toàn\n-độ tin cậy\n-kẹp chặt\n-sự an toàn\n-sự chắc chắn\n-sự tin cậy\n@Lĩnh vực: cơ khí & công trình\n-chốt an toàn (súng)\n-giữ cố định\n-móc treo thang máy\n-sự bền chắc
-
+safety	@safety /'seifti/
+*  danh từ
+- sự an toàn, sự chắc chắn
+=to be in safety+ ở chỗ an toàn
+=to play for safety+ chơi cẩn thận; chơi ăn chắc
+- tính an toàn, tính chất không nguy hiểm
+=the safety of an experiment+ tính chất không nguy hiểm của cuộc thí nghiệm
+- chốt an toàn (ở súng)
+@Chuyên ngành kinh tế
+-sự an toàn
+@Chuyên ngành kỹ thuật
+-an toàn
+-bảo vệ
+-độ an toàn
+-độ tin cậy
+-kẹp chặt
+-sự an toàn
+-sự chắc chắn
+-sự tin cậy
+@Lĩnh vực: cơ khí & công trình
+-chốt an toàn (súng)
+-giữ cố định
+-móc treo thang máy
+-sự bền chắc

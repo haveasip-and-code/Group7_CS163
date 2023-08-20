@@ -1,3 +1,20 @@
-replacement
-	@replacement /ri'pleismənt/\n*  danh từ\n- sự thay thế; vật thay thế, người thay thế\n- sự đặt lại chỗ c\n@Chuyên ngành kinh tế\n-bố trí lại\n-hàng thay thế\n-kế toán phí tổn thay thế (tài sản cố định)\n-người thay thế\n-sản phẩm thay thế\n-sự sắp xếp lại\n-sự thay thế\n-vật thay thế\n@Chuyên ngành kỹ thuật\n-chuyển đổi\n-hoán vị\n-sự thay thế\n-thay chỗ\n-thay thế\n-vật thay thế
-
+replacement	@replacement /ri'pleismənt/
+*  danh từ
+- sự thay thế; vật thay thế, người thay thế
+- sự đặt lại chỗ c
+@Chuyên ngành kinh tế
+-bố trí lại
+-hàng thay thế
+-kế toán phí tổn thay thế (tài sản cố định)
+-người thay thế
+-sản phẩm thay thế
+-sự sắp xếp lại
+-sự thay thế
+-vật thay thế
+@Chuyên ngành kỹ thuật
+-chuyển đổi
+-hoán vị
+-sự thay thế
+-thay chỗ
+-thay thế
+-vật thay thế

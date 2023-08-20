@@ -1,3 +1,18 @@
-stevedore
-	@stevedore /'sti:vidɔ:/\n*  danh từ\n- công nhân bốc dỡ\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) bốc dỡ\n@Chuyên ngành kinh tế\n-bốc vác\n-công nhân (bốc xếp) ở cảng\n-công nhân bốc dỡ hàng ở cảng\n-công nhân bốc vác\n-công nhân bốc xếp ở cảng\n-công nhân bốc xếp, bốc dỡ\n-người bốc dỡ hàng\n-phí bốc hàng (lên xuống tàu)\n-phí chuyển cất hàng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-công nhân bốc xếp (ở cảng)
-
+stevedore	@stevedore /'sti:vidɔ:/
+*  danh từ
+- công nhân bốc dỡ
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) bốc dỡ
+@Chuyên ngành kinh tế
+-bốc vác
+-công nhân (bốc xếp) ở cảng
+-công nhân bốc dỡ hàng ở cảng
+-công nhân bốc vác
+-công nhân bốc xếp ở cảng
+-công nhân bốc xếp, bốc dỡ
+-người bốc dỡ hàng
+-phí bốc hàng (lên xuống tàu)
+-phí chuyển cất hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-công nhân bốc xếp (ở cảng)

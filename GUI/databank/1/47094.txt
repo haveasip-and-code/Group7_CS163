@@ -1,3 +1,10 @@
-resilient
-	@resilient /ri'ziliənt/\n*  tính từ\n- bật nảy; co giân, đàn hồi\n- sôi nổi; không hay chán nản, không hay nản lòng\n- có khả năng phục hồi nhanh sức mạnh (thể chất hoặc tinh thần); có sức bật\n@Chuyên ngành kỹ thuật\n-co giãn\n-đàn hồi\n@Lĩnh vực: xây dựng\n-bật nảy
-
+resilient	@resilient /ri'ziliənt/
+*  tính từ
+- bật nảy; co giân, đàn hồi
+- sôi nổi; không hay chán nản, không hay nản lòng
+- có khả năng phục hồi nhanh sức mạnh (thể chất hoặc tinh thần); có sức bật
+@Chuyên ngành kỹ thuật
+-co giãn
+-đàn hồi
+@Lĩnh vực: xây dựng
+-bật nảy

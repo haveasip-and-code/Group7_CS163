@@ -1,3 +1,8 @@
-defoam
-	@Chuyên ngành kinh tế\n-khử bọt\n-làm mất bọt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-khử bọt\n-tiêu bọt
-
+defoam	
+@Chuyên ngành kinh tế
+-khử bọt
+-làm mất bọt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-khử bọt
+-tiêu bọt

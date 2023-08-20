@@ -1,3 +1,7 @@
-formatter
-	@Chuyên ngành kỹ thuật\n-bộ khuôn\n@Lĩnh vực: toán & tin\n-bộ định dạng\n-bộ mẫu\n-bộ tạo khuôn
-
+formatter	
+@Chuyên ngành kỹ thuật
+-bộ khuôn
+@Lĩnh vực: toán & tin
+-bộ định dạng
+-bộ mẫu
+-bộ tạo khuôn

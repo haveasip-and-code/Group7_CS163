@@ -1,3 +1,6 @@
-earthed
-	@Chuyên ngành kỹ thuật\n-được nối đất\n@Lĩnh vực: điện\n-đã tiếp địa\n-được nói đất
-
+earthed	
+@Chuyên ngành kỹ thuật
+-được nối đất
+@Lĩnh vực: điện
+-đã tiếp địa
+-được nói đất

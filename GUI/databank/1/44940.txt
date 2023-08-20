@@ -1,3 +1,4 @@
-pyrite
-	@Chuyên ngành kỹ thuật\n-pirit\n@Lĩnh vực: xây dựng\n-FeS2
-
+pyrite	@Chuyên ngành kỹ thuật
+-pirit
+@Lĩnh vực: xây dựng
+-FeS2

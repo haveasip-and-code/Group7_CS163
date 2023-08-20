@@ -1,3 +1,11 @@
-variance
-	@variance\n- (thống kê) phương sai\n- accidental v. phương sai ngẫu nhiên\n- external v. phương sai ngoài\n- generlized v. phương sai suy rộng\n- interclass v. phương sai giữa các lớp\n- internal v. phương sai trong\n- minimun v. phương sai nhỏ nhất\n- relative v. phương sai tương đối (bình phương của số biến thiên)\n- residual v. phương sai thặng dư\n- within-group v. phương sai trong nhóm
-
+variance	@variance
+- (thống kê) phương sai
+- accidental v. phương sai ngẫu nhiên
+- external v. phương sai ngoài
+- generlized v. phương sai suy rộng
+- interclass v. phương sai giữa các lớp
+- internal v. phương sai trong
+- minimun v. phương sai nhỏ nhất
+- relative v. phương sai tương đối (bình phương của số biến thiên)
+- residual v. phương sai thặng dư
+- within-group v. phương sai trong nhóm

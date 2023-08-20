@@ -1,3 +1,2 @@
-cubicly
-	@cubicly\n- xem cubic
-
+cubicly	@cubicly
+- xem cubic

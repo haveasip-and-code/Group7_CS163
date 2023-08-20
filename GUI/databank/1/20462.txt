@@ -1,3 +1,32 @@
-fascia
-	@fascia /'fæʃiə/ (fasciae) /'fæʃii:/\n*  danh từ\n- băng, dải (vải)\n- (y học) băng\n- (kiến trúc) biển nôi, bảng nổi trên tường\n- (giải phẫu) cân\n- (kỹ thuật) bảng đồng hồ (trong xe ô tô) ((cũng) fascia board)\n@Chuyên ngành kỹ thuật\n-băng\n-dải\n-đai\n-gờ\n@Lĩnh vực: ô tô\n-bảng đồng hồ (trong xe ô tô)\n@Lĩnh vực: y học\n-cân mạc\n@Lĩnh vực: xây dựng\n-dầm biên cầu\n-tấm cách// (bằng mái chìa, ván mái chìa)\n@Chuyên ngành kỹ thuật\n-băng\n-dải\n-đai\n-gờ\n@Lĩnh vực: ô tô\n-bảng đồng hồ (trong xe ô tô)\n@Lĩnh vực: y học\n-cân mạc\n@Lĩnh vực: xây dựng\n-dầm biên cầu\n-tấm cách// (bằng mái chìa, ván mái chìa)
-
+fascia	
+@fascia /'fæʃiə/ (fasciae) /'fæʃii:/
+*  danh từ
+- băng, dải (vải)
+- (y học) băng
+- (kiến trúc) biển nôi, bảng nổi trên tường
+- (giải phẫu) cân
+- (kỹ thuật) bảng đồng hồ (trong xe ô tô) ((cũng) fascia board)
+@Chuyên ngành kỹ thuật
+-băng
+-dải
+-đai
+-gờ
+@Lĩnh vực: ô tô
+-bảng đồng hồ (trong xe ô tô)
+@Lĩnh vực: y học
+-cân mạc
+@Lĩnh vực: xây dựng
+-dầm biên cầu
+-tấm cách// (bằng mái chìa, ván mái chìa)
+@Chuyên ngành kỹ thuật
+-băng
+-dải
+-đai
+-gờ
+@Lĩnh vực: ô tô
+-bảng đồng hồ (trong xe ô tô)
+@Lĩnh vực: y học
+-cân mạc
+@Lĩnh vực: xây dựng
+-dầm biên cầu
+-tấm cách// (bằng mái chìa, ván mái chìa)

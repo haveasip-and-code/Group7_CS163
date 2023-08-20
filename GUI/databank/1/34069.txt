@@ -1,3 +1,2 @@
-meatuses
-	@meatuses\n- số nhiều của meatus
-
+meatuses	@meatuses
+- số nhiều của meatus

@@ -1,3 +1,12 @@
-desktop
-	@desktop\n- bàn giấy, mặt bàn\n@Chuyên ngành kinh tế\n-mặt bàn giấy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bàn giấy\n-màn hình nền\n-mặt bàn\n@Lĩnh vực: xây dựng\n-mặt bàn viết
-
+desktop	
+@desktop
+- bàn giấy, mặt bàn
+@Chuyên ngành kinh tế
+-mặt bàn giấy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bàn giấy
+-màn hình nền
+-mặt bàn
+@Lĩnh vực: xây dựng
+-mặt bàn viết

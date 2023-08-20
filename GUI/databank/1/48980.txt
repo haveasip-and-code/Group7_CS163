@@ -1,3 +1,2 @@
-scatter
-	@scatter\n- tán xạ, tản mạn
-
+scatter	@scatter
+- tán xạ, tản mạn

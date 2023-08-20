@@ -1,3 +1,2 @@
-visuals
-	@Chuyên ngành kinh tế\n-các phương tiện nhìn
-
+visuals	@Chuyên ngành kinh tế
+-các phương tiện nhìn

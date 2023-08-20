@@ -1,3 +1,6 @@
-mosquito
-	@mosquito /məs'ki:tou/\n*  danh từ\n- con muỗi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-muỗi
-
+mosquito	@mosquito /məs'ki:tou/
+*  danh từ
+- con muỗi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-muỗi

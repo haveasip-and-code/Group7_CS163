@@ -1,3 +1,2 @@
-multiplexor
-	@Chuyên ngành kỹ thuật\n-bộ dồn kênh
-
+multiplexor	@Chuyên ngành kỹ thuật
+-bộ dồn kênh

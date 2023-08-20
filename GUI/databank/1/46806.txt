@@ -1,3 +1,9 @@
-repack
-	@repack\n* ngoại động từ\n- bao gói lại; làm lại bao bì\n@Chuyên ngành kinh tế\n-đóng gói lại\n-đóng góp lại\n-đóng kiện lại\n-vô bao bì lại (hàng hóa)\n-vô thùng lại
-
+repack	@repack
+* ngoại động từ
+- bao gói lại; làm lại bao bì
+@Chuyên ngành kinh tế
+-đóng gói lại
+-đóng góp lại
+-đóng kiện lại
+-vô bao bì lại (hàng hóa)
+-vô thùng lại

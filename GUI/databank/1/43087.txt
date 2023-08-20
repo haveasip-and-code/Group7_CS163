@@ -1,3 +1,5 @@
-precooled
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-được làm lạnh trước\n@Lĩnh vực: thực phẩm\n-được làm nguội trước
-
+precooled	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-được làm lạnh trước
+@Lĩnh vực: thực phẩm
+-được làm nguội trước

@@ -1,3 +1,5 @@
-punctured
-	@punctured\n- bị đâm thủng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bị chấm thủng
-
+punctured	@punctured
+- bị đâm thủng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bị chấm thủng

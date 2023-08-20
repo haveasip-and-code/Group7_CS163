@@ -1,3 +1,4 @@
-reusability
-	@Chuyên ngành kỹ thuật\n-khả năng dùng lại\n@Lĩnh vực: toán & tin\n-tính dùng lại được
-
+reusability	@Chuyên ngành kỹ thuật
+-khả năng dùng lại
+@Lĩnh vực: toán & tin
+-tính dùng lại được

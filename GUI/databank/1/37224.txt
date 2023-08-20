@@ -1,3 +1,4 @@
-nummary
-	@nummary\n- Cách viết khác : nummalary\n@Chuyên ngành kinh tế\n-bằng tiền
-
+nummary	@nummary
+- Cách viết khác : nummalary
+@Chuyên ngành kinh tế
+-bằng tiền

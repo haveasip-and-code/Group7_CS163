@@ -1,3 +1,59 @@
-bind
-	@bind /baind/\n*  (bất qui tắc) ngoại động từ bound\n/baund/,  bounden\n/'baundən/ (từ cổ,nghĩa cổ)\n- trói, buộc, bỏ lại\n=to bind hand and foot+ trói tay, trói chân\n=to be bound to do something+ bắt buộc phải làm gì; nhất định phải làm gì\n- ký hợp đồng học nghề\n=to be bound [as an] apprentice+ ký hợp đồng học nghề\n- ràng buộc\n=to bind oneself+ tự mình ràng buộc với, giao ước, hứa hẹn, cam đoan\n=to be bound by an oath+ bị ràng buộc bởi lời thề\n- chấp nhận, thừa nhận (một giao kèo, giá cả mua bán...)\n=to bind a bargain+ chấp nhận giá cả mua bán\n- làm táo bón (đồ ăn)\n- băng bó (vết thương); đánh đai nẹp (thùng...); đóng (sách); tết quanh\n=head bound with laurels+ đầu tết vòng hoa nguyệt quế\n*  (bất qui tắc) nội động từ bound\n/baund/\n- kết lại với nhau, kết thành khối rắn\n=clay binds to heat+ đất sét rắn lại khi đem nung\n- (kỹ thuật) kẹt (cán bộ phân trong máy)\n- táo bón\n!to bind over\n- bắt buộc\n=to bind over appear+ buộc phải ra toà\n!to bind up\n- băng bó (vết thương)\n- đóng (nhiều quyển sách) thành một tập\n*  danh từ\n- (ngành mỏ) vỉa đất sét (giữa hai vỉa than)\n- (như) bire\n- (âm nhạc) dấu nối\n@Chuyên ngành kinh tế\n-bắt buộc\n-ràng buộc\n-trói buộc\n@Chuyên ngành kỹ thuật\n-buộc\n-cột\n-dính kết\n-đóng kết\n-gắn kết\n-kẹp chặt\n-liên kết\n-ngàm\n-nối\n-mắc kẹt\n-mắc kẹt (dụng cụ)\n-sách liên kết\n-sự kẹp chặt\n@Lĩnh vực: cơ khí & công trình\n-chi tiết nối ghép\n@Lĩnh vực: xây dựng\n-đóng đai\n-liên (xi măng)\n@Lĩnh vực: toán & tin\n-kết\n-kết buộc
-
+bind	@bind /baind/
+*  (bất qui tắc) ngoại động từ bound
+/baund/,  bounden
+/'baundən/ (từ cổ,nghĩa cổ)
+- trói, buộc, bỏ lại
+=to bind hand and foot+ trói tay, trói chân
+=to be bound to do something+ bắt buộc phải làm gì; nhất định phải làm gì
+- ký hợp đồng học nghề
+=to be bound [as an] apprentice+ ký hợp đồng học nghề
+- ràng buộc
+=to bind oneself+ tự mình ràng buộc với, giao ước, hứa hẹn, cam đoan
+=to be bound by an oath+ bị ràng buộc bởi lời thề
+- chấp nhận, thừa nhận (một giao kèo, giá cả mua bán...)
+=to bind a bargain+ chấp nhận giá cả mua bán
+- làm táo bón (đồ ăn)
+- băng bó (vết thương); đánh đai nẹp (thùng...); đóng (sách); tết quanh
+=head bound with laurels+ đầu tết vòng hoa nguyệt quế
+*  (bất qui tắc) nội động từ bound
+/baund/
+- kết lại với nhau, kết thành khối rắn
+=clay binds to heat+ đất sét rắn lại khi đem nung
+- (kỹ thuật) kẹt (cán bộ phân trong máy)
+- táo bón
+!to bind over
+- bắt buộc
+=to bind over appear+ buộc phải ra toà
+!to bind up
+- băng bó (vết thương)
+- đóng (nhiều quyển sách) thành một tập
+*  danh từ
+- (ngành mỏ) vỉa đất sét (giữa hai vỉa than)
+- (như) bire
+- (âm nhạc) dấu nối
+@Chuyên ngành kinh tế
+-bắt buộc
+-ràng buộc
+-trói buộc
+@Chuyên ngành kỹ thuật
+-buộc
+-cột
+-dính kết
+-đóng kết
+-gắn kết
+-kẹp chặt
+-liên kết
+-ngàm
+-nối
+-mắc kẹt
+-mắc kẹt (dụng cụ)
+-sách liên kết
+-sự kẹp chặt
+@Lĩnh vực: cơ khí & công trình
+-chi tiết nối ghép
+@Lĩnh vực: xây dựng
+-đóng đai
+-liên (xi măng)
+@Lĩnh vực: toán & tin
+-kết
+-kết buộc

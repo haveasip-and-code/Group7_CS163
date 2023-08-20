@@ -1,3 +1,2 @@
-deflectable
-	@deflectable\n- xem deflect
-
+deflectable	@deflectable
+- xem deflect

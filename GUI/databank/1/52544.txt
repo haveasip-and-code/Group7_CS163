@@ -1,3 +1,13 @@
-splint
-	@splint /splint/\n*  danh từ\n- thanh nẹp\n- (thú y học) xương ngón treo (xương ngón II và IV đã teo nhỏ ở hai bên ngón chân ngựa)\n- bướu xương ngón treo (ngựa)\n- (giải phẫu) (như) splinter-bone\n*  ngoại động từ\n- bó (xương gãy) bằng nẹp\n@Chuyên ngành kỹ thuật\n-chốt chẻ\n-mặt tiếp giáp\n-phoi\n-thanh nẹp
-
+splint	@splint /splint/
+*  danh từ
+- thanh nẹp
+- (thú y học) xương ngón treo (xương ngón II và IV đã teo nhỏ ở hai bên ngón chân ngựa)
+- bướu xương ngón treo (ngựa)
+- (giải phẫu) (như) splinter-bone
+*  ngoại động từ
+- bó (xương gãy) bằng nẹp
+@Chuyên ngành kỹ thuật
+-chốt chẻ
+-mặt tiếp giáp
+-phoi
+-thanh nẹp

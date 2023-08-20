@@ -1,3 +1,35 @@
-flake
-	@flake /fleik/\n*  danh từ\n- giàn, giá phơi (để phơi cá...)\n*  danh từ\n- bông (tuyết)\n=flake s of snow+ bông tuyết\n- đóm lửa, tàn lửa\n- lớp (thịt của cá)\n- mảnh dẹt, váy (như cốm)\n=flakes of rust+ vảy gỉ\n- (thông tục) cây cẩm chướng hoa vằn\n*  nội động từ\n- rơi (như tuyết)\n- (+ away,  off) bong ra\n@Chuyên ngành kinh tế\n-giá phơi\n-tấm mỏng\n@Chuyên ngành kỹ thuật\n-cuộn cáp\n-lớp mỏng\n-tấm\n-vảy\n@Lĩnh vực: hóa học & vật liệu\n-phiến nhỏ\n-vây\n@Chuyên ngành kỹ thuật\n-cuộn cáp\n-lớp mỏng\n-tấm\n-vảy\n@Lĩnh vực: hóa học & vật liệu\n-phiến nhỏ\n-vây
-
+flake	
+@flake /fleik/
+*  danh từ
+- giàn, giá phơi (để phơi cá...)
+*  danh từ
+- bông (tuyết)=flake s of snow
++ bông tuyết
+- đóm lửa, tàn lửa
+- lớp (thịt của cá)
+- mảnh dẹt, váy (như cốm)=flakes of rust
++ vảy gỉ
+- (thông tục) cây cẩm chướng hoa vằn
+*  nội động từ
+- rơi (như tuyết)
+- (
++ away,  off) bong ra
+@Chuyên ngành kinh tế
+-giá phơi
+-tấm mỏng
+@Chuyên ngành kỹ thuật
+-cuộn cáp
+-lớp mỏng
+-tấm
+-vảy
+@Lĩnh vực: hóa học & vật liệu
+-phiến nhỏ
+-vây
+@Chuyên ngành kỹ thuật
+-cuộn cáp
+-lớp mỏng
+-tấm
+-vảy
+@Lĩnh vực: hóa học & vật liệu
+-phiến nhỏ
+-vây

@@ -1,3 +1,2 @@
-wants
-	@Chuyên ngành kinh tế\n-nhu cầu
-
+wants	@Chuyên ngành kinh tế
+-nhu cầu

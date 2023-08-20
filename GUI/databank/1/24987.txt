@@ -1,3 +1,37 @@
-harden
-	@harden /'hɑ:dn/\n*  ngoại động từ\n- làm cho cứng, làm cho rắn\n- (kỹ thuật) tôi (thép...)\n- (nghĩa bóng) làm chai điếng, làm cứng rắn, làm trở thành nhẫn tâm\n=to harden someone's heart+ làm cho lòng ai chai điếng đi\n- làm cho dày dạn\n*  nội động từ\n- cứng lại, rắn lại\n- (nghĩa bóng) chai điếng đi, cứng rắn lại, trở thành nhẫn tâm (trái tim...)\n- dày dạn đi\n@Chuyên ngành kinh tế\n-giá cả tăng vững\n-làm cho cứng lại\n-làm cho rắn lại\n@Chuyên ngành kỹ thuật\n-củng cố\n-cứng lại\n-đông cứng\n-đông lại\n-hóa rắn\n-làm cho chắc\n-làm cho cứng\n-làm cứng\n-làm hóa cứng\n-làm tăng bền\n-luyện\n-tăng cường\n-tôi (thép)\n@Lĩnh vực: điện lạnh\n-hóa cứng\n-tôi cứng (kem)\n@Lĩnh vực: xây dựng\n-khô cứng\n-tăng bền\n-trui cứng
-
+harden	
+@harden /'hɑ:dn/
+*  ngoại động từ
+- làm cho cứng, làm cho rắn
+- (kỹ thuật) tôi (thép...)
+- (nghĩa bóng) làm chai điếng, làm cứng rắn, làm trở thành nhẫn tâm=to harden someone's heart
++ làm cho lòng ai chai điếng đi
+- làm cho dày dạn
+*  nội động từ
+- cứng lại, rắn lại
+- (nghĩa bóng) chai điếng đi, cứng rắn lại, trở thành nhẫn tâm (trái tim...)
+- dày dạn đi
+@Chuyên ngành kinh tế
+-giá cả tăng vững
+-làm cho cứng lại
+-làm cho rắn lại
+@Chuyên ngành kỹ thuật
+-củng cố
+-cứng lại
+-đông cứng
+-đông lại
+-hóa rắn
+-làm cho chắc
+-làm cho cứng
+-làm cứng
+-làm hóa cứng
+-làm tăng bền
+-luyện
+-tăng cường
+-tôi (thép)
+@Lĩnh vực: điện lạnh
+-hóa cứng
+-tôi cứng (kem)
+@Lĩnh vực: xây dựng
+-khô cứng
+-tăng bền
+-trui cứng

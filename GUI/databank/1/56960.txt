@@ -1,3 +1,9 @@
-tonne
-	@tonne\n* danh từ\n- <vt>  tn tấn (1000 kg)\n@Chuyên ngành kinh tế\n-tấn\n-tân mét hệ (=1000kg)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tấn (1000kg)
-
+tonne	@tonne
+* danh từ
+- <vt>  tn tấn (1000 kg)
+@Chuyên ngành kinh tế
+-tấn
+-tân mét hệ (=1000kg)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tấn (1000kg)

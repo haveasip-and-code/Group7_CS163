@@ -1,3 +1,5 @@
-shrouding
-	@Chuyên ngành kỹ thuật\n-đai\n-vành đai\n@Lĩnh vực: cơ khí & công trình\n-vỏ che vành đai
-
+shrouding	@Chuyên ngành kỹ thuật
+-đai
+-vành đai
+@Lĩnh vực: cơ khí & công trình
+-vỏ che vành đai

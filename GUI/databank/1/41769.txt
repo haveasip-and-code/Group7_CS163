@@ -1,3 +1,13 @@
-pitted
-	@pitted\n* tính từ\n- rỗ hoa (vì đậu mùa)\n- có hõm; có hốc\n@Chuyên ngành kỹ thuật\n-bị ăn mòn\n-bị rỗ\n-có hố\n-hõm có hốc\n-lỗ chỗ\n-lủng lỗ\n@Lĩnh vực: cơ khí & công trình\n-lõm, rỗ (vít lửa)
-
+pitted	@pitted
+* tính từ
+- rỗ hoa (vì đậu mùa)
+- có hõm; có hốc
+@Chuyên ngành kỹ thuật
+-bị ăn mòn
+-bị rỗ
+-có hố
+-hõm có hốc
+-lỗ chỗ
+-lủng lỗ
+@Lĩnh vực: cơ khí & công trình
+-lõm, rỗ (vít lửa)

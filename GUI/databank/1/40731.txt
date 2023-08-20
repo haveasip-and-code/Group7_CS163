@@ -1,3 +1,2 @@
-permeant
-	@permeant\n- xem permeate
-
+permeant	@permeant
+- xem permeate

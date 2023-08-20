@@ -1,3 +1,15 @@
-distiller
-	@distiller /dis'tilə/\n*  danh từ\n- người cất (rượu)\n- máy cất\n@Chuyên ngành kinh tế\n-dụng cụ chưng cất\n-thiết bị chưng cất\n@Chuyên ngành kỹ thuật\n-nồi cất\n-nồi chưng cất\n@Lĩnh vực: điện lạnh\n-máy cất\n@Lĩnh vực: xây dựng\n-máy chưng cất
-
+distiller	
+@distiller /dis'tilə/
+*  danh từ
+- người cất (rượu)
+- máy cất
+@Chuyên ngành kinh tế
+-dụng cụ chưng cất
+-thiết bị chưng cất
+@Chuyên ngành kỹ thuật
+-nồi cất
+-nồi chưng cất
+@Lĩnh vực: điện lạnh
+-máy cất
+@Lĩnh vực: xây dựng
+-máy chưng cất

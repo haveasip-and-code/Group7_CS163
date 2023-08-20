@@ -1,3 +1,2 @@
-uptowner
-	@uptowner\n- xem uptown
-
+uptowner	@uptowner
+- xem uptown

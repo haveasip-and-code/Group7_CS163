@@ -1,3 +1,15 @@
-fluctuate
-	@fluctuate /fluctuate/\n*  nội động từ\n- dao động, lên xuống, thay đổi bất thường\n- (từ hiếm,nghĩa hiếm) bập bềnh\n@Chuyên ngành kỹ thuật\n-dao động\n-lên xuống\n@Lĩnh vực: toán & tin\n-thăng giáng\n@Chuyên ngành kỹ thuật\n-dao động\n-lên xuống\n@Lĩnh vực: toán & tin\n-thăng giáng
-
+fluctuate	
+@fluctuate /fluctuate/
+*  nội động từ
+- dao động, lên xuống, thay đổi bất thường
+- (từ hiếm,nghĩa hiếm) bập bềnh
+@Chuyên ngành kỹ thuật
+-dao động
+-lên xuống
+@Lĩnh vực: toán & tin
+-thăng giáng
+@Chuyên ngành kỹ thuật
+-dao động
+-lên xuống
+@Lĩnh vực: toán & tin
+-thăng giáng

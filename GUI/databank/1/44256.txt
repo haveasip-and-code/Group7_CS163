@@ -1,3 +1,2 @@
-proteinase
-	@Chuyên ngành kinh tế\n-proteinaza
-
+proteinase	@Chuyên ngành kinh tế
+-proteinaza

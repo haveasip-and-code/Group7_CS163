@@ -1,3 +1,8 @@
-ovule
-	@ovule /'ouvju:l/\n*  danh từ\n- (thực vật học) noãn\n- (sinh vật học) tế bào trứng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-noãn\n-trứng
-
+ovule	@ovule /'ouvju:l/
+*  danh từ
+- (thực vật học) noãn
+- (sinh vật học) tế bào trứng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-noãn
+-trứng

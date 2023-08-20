@@ -1,3 +1,13 @@
-rind
-	@rind /raind/\n*  danh từ\n- vỏ cây; vỏ quả, cùi phó mát; màng lá mỡ\n- (nghĩa bóng) bề ngoài, bề mặt\n*  ngoại động từ\n- bóc vỏ, gọt vỏ\n@Chuyên ngành kinh tế\n-cạo rễ\n-loại rễ\n-rễ\n-vỏ bánh mì\n-vỏ gomat\n-vỏ quả
-
+rind	@rind /raind/
+*  danh từ
+- vỏ cây; vỏ quả, cùi phó mát; màng lá mỡ
+- (nghĩa bóng) bề ngoài, bề mặt
+*  ngoại động từ
+- bóc vỏ, gọt vỏ
+@Chuyên ngành kinh tế
+-cạo rễ
+-loại rễ
+-rễ
+-vỏ bánh mì
+-vỏ gomat
+-vỏ quả

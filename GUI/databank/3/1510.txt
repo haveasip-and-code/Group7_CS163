@@ -1,3 +1,2 @@
-aliveness
-	@aliveness\n- xem alive
-
+aliveness	@aliveness
+- xem alive

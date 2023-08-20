@@ -1,3 +1,32 @@
-gall
-	@gall /gɔ:l/\n*  danh từ\n- mật\n- túi mật\n- chất đắng; vị đắng\n- (nghĩa bóng) nỗi cay đắng, mối hiềm oán\n=the gall of life+ nỗi cay đắng ở đời\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự trơ tráo; sự láo xược\n=to have the gall to do something+ dám trơ tráo làm việc gì, dám mặt dạn máy dày làm việc gì\n!gall and wormwood\n- cái đáng căm ghét\n- sự hằn học\n!a pen dipped in gall\n- ngòi bút châm biếm cay độc\n*  danh từ\n- (thực vật học) mụn cây, vú lá\n- vết sầy da, chỗ trượt da (ở ngựa...)\n- chỗ trơ trụi (ở cánh đồng...)\n- sự xúc phạm, sự chạm (lòng tự ái...)\n*  động từ\n- làm sầy da, làm trượt da\n- làm phiền, làm khó chịu; xúc phạm lòng tự ái\n=to gall somebody with one's remarks+ xúc phạm lòng tự ái của ai vì những nhận xét của mình\n@Chuyên ngành kinh tế\n-chất đắng\n-mật\n-túi mật\n-vị đắng\n@Chuyên ngành kỹ thuật\n-bọt\n-mật\n@Lĩnh vực: y học\n-nốt, mụn cây, vú lá
-
+gall	
+@gall /gɔ:l/
+*  danh từ
+- mật
+- túi mật
+- chất đắng; vị đắng
+- (nghĩa bóng) nỗi cay đắng, mối hiềm oán=the gall of life
++ nỗi cay đắng ở đời
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự trơ tráo; sự láo xược=to have the gall to do something
++ dám trơ tráo làm việc gì, dám mặt dạn máy dày làm việc gì!gall and wormwood
+- cái đáng căm ghét
+- sự hằn học!a pen dipped in gall
+- ngòi bút châm biếm cay độc
+*  danh từ
+- (thực vật học) mụn cây, vú lá
+- vết sầy da, chỗ trượt da (ở ngựa...)
+- chỗ trơ trụi (ở cánh đồng...)
+- sự xúc phạm, sự chạm (lòng tự ái...)
+*  động từ
+- làm sầy da, làm trượt da
+- làm phiền, làm khó chịu; xúc phạm lòng tự ái=to gall somebody with one's remarks
++ xúc phạm lòng tự ái của ai vì những nhận xét của mình
+@Chuyên ngành kinh tế
+-chất đắng
+-mật
+-túi mật
+-vị đắng
+@Chuyên ngành kỹ thuật
+-bọt
+-mật
+@Lĩnh vực: y học
+-nốt, mụn cây, vú lá

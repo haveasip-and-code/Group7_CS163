@@ -1,3 +1,12 @@
-explant
-	@explant\n* ngoại động từ\n- cấy mô sang; cấy mô khỏi sinh vật\n* danh từ\n- mô lấy từ sinh vật để nuôi nhân tạo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mô cấy (cấy mô) bên ngoài\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mô cấy (cấy mô) bên ngoài
-
+explant	
+@explant
+* ngoại động từ
+- cấy mô sang; cấy mô khỏi sinh vật
+* danh từ
+- mô lấy từ sinh vật để nuôi nhân tạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-mô cấy (cấy mô) bên ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-mô cấy (cấy mô) bên ngoài

@@ -1,3 +1,2 @@
-pedimental
-	@pedimental\n- xem pediment
-
+pedimental	@pedimental
+- xem pediment

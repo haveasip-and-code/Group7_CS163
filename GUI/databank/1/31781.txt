@@ -1,3 +1,34 @@
-least
-	@least /li:st/\n*  tính từ,  số nhiều của little\n- tối thiểu, nhỏ nhất, ít nhất, kém nhất\n=there is not the least wind today+ hôm nay không có một tí gió nào\n=least common multiple+ (toán học) bội số chung bé nhất\n*  phó từ\n- tối thiểu, ít nhất\n!least of all\n- ít hơn cả, kém hơn cả\n*  danh từ\n- tối thiểu, cái nhỏ nhất, cái kém nhất\n!at [the] least\n- tối thiểu, ít nhất\n!in the least\n- tối thiểu, chút nào\n!not in the least\n- không một chút nào, không một tí nào\n![the] least said [the] somest mended\n!the least said the better\n- (tục ngữ) nói ít đỡ hớ, nói nhiều thì hơn\n!to say the least of it\n- nói giảm nhẹ, nói giảm đên mức tối thiểu đi\n@Chuyên ngành kỹ thuật\n-bé nhất\n@Lĩnh vực: xây dựng\n-ít nhất\n@Lĩnh vực: toán & tin\n-nhỏ hơn cả\n@Chuyên ngành kỹ thuật\n-bé nhất\n@Lĩnh vực: xây dựng\n-ít nhất\n@Lĩnh vực: toán & tin\n-nhỏ hơn cả
-
+least	@least /li:st/
+*  tính từ,  số nhiều của little
+- tối thiểu, nhỏ nhất, ít nhất, kém nhất
+=there is not the least wind today+ hôm nay không có một tí gió nào
+=least common multiple+ (toán học) bội số chung bé nhất
+*  phó từ
+- tối thiểu, ít nhất
+!least of all
+- ít hơn cả, kém hơn cả
+*  danh từ
+- tối thiểu, cái nhỏ nhất, cái kém nhất
+!at [the] least
+- tối thiểu, ít nhất
+!in the least
+- tối thiểu, chút nào
+!not in the least
+- không một chút nào, không một tí nào
+![the] least said [the] somest mended
+!the least said the better
+- (tục ngữ) nói ít đỡ hớ, nói nhiều thì hơn
+!to say the least of it
+- nói giảm nhẹ, nói giảm đên mức tối thiểu đi
+@Chuyên ngành kỹ thuật
+-bé nhất
+@Lĩnh vực: xây dựng
+-ít nhất
+@Lĩnh vực: toán & tin
+-nhỏ hơn cả
+@Chuyên ngành kỹ thuật
+-bé nhất
+@Lĩnh vực: xây dựng
+-ít nhất
+@Lĩnh vực: toán & tin
+-nhỏ hơn cả

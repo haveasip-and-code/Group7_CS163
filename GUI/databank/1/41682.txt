@@ -1,3 +1,10 @@
-pipette
-	@pipette /pi'pet/\n*  danh từ\n- pipet (dùng trong thí nghiệm hoá học)\n@Chuyên ngành kỹ thuật\n-ống nhỏ giọt\n@Lĩnh vực: điện\n-côntơgut\n-ống nhỏ nhọt\n@Lĩnh vực: vật lý\n-ống pipet
-
+pipette	@pipette /pi'pet/
+*  danh từ
+- pipet (dùng trong thí nghiệm hoá học)
+@Chuyên ngành kỹ thuật
+-ống nhỏ giọt
+@Lĩnh vực: điện
+-côntơgut
+-ống nhỏ nhọt
+@Lĩnh vực: vật lý
+-ống pipet

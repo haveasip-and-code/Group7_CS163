@@ -1,3 +1,11 @@
-eatable
-	@eatable /'i:təbl/\n*  tính từ\n- ăn được; ăn ngon\n*  danh từ,  (thường) số nhiều\n- thức ăn, đồ ăn\n=eatables and drinkables+ đồ ăn thức uống\n@Chuyên ngành kinh tế\n-ăn được\n-ăn ngon\n-thức ăn
-
+eatable	
+@eatable /'i:təbl/
+*  tính từ
+- ăn được; ăn ngon
+*  danh từ,  (thường) số nhiều
+- thức ăn, đồ ăn=eatables and drinkables
++ đồ ăn thức uống
+@Chuyên ngành kinh tế
+-ăn được
+-ăn ngon
+-thức ăn

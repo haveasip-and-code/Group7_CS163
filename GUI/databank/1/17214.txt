@@ -1,3 +1,9 @@
-earthmover
-	@Chuyên ngành kỹ thuật\n-máy gạt\n-xe xúc đất\n@Lĩnh vực: xây dựng\n-máy húc\n@Lĩnh vực: cơ khí & công trình\n-xe cạp\n-xe ủi
-
+earthmover	
+@Chuyên ngành kỹ thuật
+-máy gạt
+-xe xúc đất
+@Lĩnh vực: xây dựng
+-máy húc
+@Lĩnh vực: cơ khí & công trình
+-xe cạp
+-xe ủi

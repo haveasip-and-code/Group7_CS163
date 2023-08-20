@@ -1,3 +1,30 @@
-amount
-	@amount /ə'maunt/\n*  danh từ\n- số lượng, số nhiều\n=a considerable amount+ một số lượng đáng kể\n=a large amount of work+ rất nhiều việc\n- tổng số\n=what's the amount of this?+ tổng số cái này là bao nhiêu?\n- thực chất, giá trị thực; tầm quan trọng, ý nghĩa\n=this is the amount of what he promised+ thực chất lời hứa của hắn là đây\n*  nội động từ\n- lên đến, lên tới (tiền)\n=the bill amounts to 100đ+ hoá đơn lên đến 100đ\n- chung qui là, rốt cuộc là, có nghĩa là, chẳng khác gì là\n=it amounts to the same thing+ rốt cuộc cũng thế cả\n=this amounts to a refusal+ cái đó chẳng khác gì là một lời từ chối\n=not to amount to much+ không quan trọng, không đáng kể, không có ý nghĩa gì\n@Chuyên ngành kinh tế\n-số lượng\n-số tiền\n-tổng số\n-tổng số tiền\n@Chuyên ngành kỹ thuật\n-đại lượng\n-độ lớn\n-giá trị\n-lượng\n-số lượng\n-tổng\n-tổng số
-
+amount	
+@amount /ə'maunt/
+*  danh từ
+- số lượng, số nhiều=a considerable amount
++ một số lượng đáng kể=a large amount of work
++ rất nhiều việc
+- tổng số=what's the amount of this?
++ tổng số cái này là bao nhiêu?
+- thực chất, giá trị thực; tầm quan trọng, ý nghĩa=this is the amount of what he promised
++ thực chất lời hứa của hắn là đây
+*  nội động từ
+- lên đến, lên tới (tiền)=the bill amounts to 100đ
++ hoá đơn lên đến 100đ
+- chung qui là, rốt cuộc là, có nghĩa là, chẳng khác gì là=it amounts to the same thing
++ rốt cuộc cũng thế cả=this amounts to a refusal
++ cái đó chẳng khác gì là một lời từ chối=not to amount to much
++ không quan trọng, không đáng kể, không có ý nghĩa gì
+@Chuyên ngành kinh tế
+-số lượng
+-số tiền
+-tổng số
+-tổng số tiền
+@Chuyên ngành kỹ thuật
+-đại lượng
+-độ lớn
+-giá trị
+-lượng
+-số lượng
+-tổng
+-tổng số

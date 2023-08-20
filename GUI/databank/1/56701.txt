@@ -1,3 +1,43 @@
-timber
-	@timber /'timbə/\n*  danh từ\n- gỗ làm nhà, gỗ kiến trúc, gỗ\n=rough timber+ gỗ mới đốn\n=squared timber+ gỗ đẽo vuông\n- cây gỗ\n=to cut down timber+ đẵn gỗ\n- kèo, xà\n- (từ Mỹ,nghĩa Mỹ) khả năng, đức tính (của một người để làm được việc gì)\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) trồng rừng\n- cung cấp gỗ\n- xây dựng bằng gỗ, làm bằng gỗ\n=timbered house+ nhà bằng gỗ\n- đóng gỗ xung quanh, lát gỗ xung quanh (miệng giếng...)\n*  nội động từ\n- đốn gỗ\n@Chuyên ngành kỹ thuật\n-âm sắc\n-bằng gỗ\n-chống bằng gỗ\n-dầm gỗ\n-gỗ\n-gỗ chống lò\n-gỗ làm nhà\n-gỗ xây dựng\n-gỗ xẻ\n-khúc gỗ\n-lát gỗ\n-rầm gỗ\n-rừng\n-vật liệu gỗ xẻ\n-vì chống\n@Lĩnh vực: xây dựng\n-bọc bằng gỗ\n-gỗ đẽo\n-ốp mặt bằng gỗ\n-vật liệu gỗ\n@Lĩnh vực: giao thông & vận tải\n-dầm gỗ (đóng tàu)\n-gỗ chống\n-gỗ đóng tàu\n-tà vẹt gỗ
-
+timber	@timber /'timbə/
+*  danh từ
+- gỗ làm nhà, gỗ kiến trúc, gỗ
+=rough timber+ gỗ mới đốn
+=squared timber+ gỗ đẽo vuông
+- cây gỗ
+=to cut down timber+ đẵn gỗ
+- kèo, xà
+- (từ Mỹ,nghĩa Mỹ) khả năng, đức tính (của một người để làm được việc gì)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) trồng rừng
+- cung cấp gỗ
+- xây dựng bằng gỗ, làm bằng gỗ
+=timbered house+ nhà bằng gỗ
+- đóng gỗ xung quanh, lát gỗ xung quanh (miệng giếng...)
+*  nội động từ
+- đốn gỗ
+@Chuyên ngành kỹ thuật
+-âm sắc
+-bằng gỗ
+-chống bằng gỗ
+-dầm gỗ
+-gỗ
+-gỗ chống lò
+-gỗ làm nhà
+-gỗ xây dựng
+-gỗ xẻ
+-khúc gỗ
+-lát gỗ
+-rầm gỗ
+-rừng
+-vật liệu gỗ xẻ
+-vì chống
+@Lĩnh vực: xây dựng
+-bọc bằng gỗ
+-gỗ đẽo
+-ốp mặt bằng gỗ
+-vật liệu gỗ
+@Lĩnh vực: giao thông & vận tải
+-dầm gỗ (đóng tàu)
+-gỗ chống
+-gỗ đóng tàu
+-tà vẹt gỗ

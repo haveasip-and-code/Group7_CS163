@@ -1,3 +1,2 @@
-nos
-	@nos\n- hệ điều hành mạng
-
+nos	@nos
+- hệ điều hành mạng

@@ -1,3 +1,14 @@
-stemming
-	@stemming\n* danh từ\n- sự nhồi đầy; nhét đầy\n- sand stemming\n- sự nhét đầy cát\n- sự lấp lỗ khoan (nổ mìn)\n= clay stemming+sự nút lỗ mìn bằng đất sét\n- vật liệu nhét lỗ mìn\n@Chuyên ngành kỹ thuật\n-búa\n-nút mìn\n-sự đắp đập\n-sự ngăn lại\n-sự nút lỗ mìn
-
+stemming	@stemming
+* danh từ
+- sự nhồi đầy; nhét đầy
+- sand stemming
+- sự nhét đầy cát
+- sự lấp lỗ khoan (nổ mìn)
+= clay stemming+sự nút lỗ mìn bằng đất sét
+- vật liệu nhét lỗ mìn
+@Chuyên ngành kỹ thuật
+-búa
+-nút mìn
+-sự đắp đập
+-sự ngăn lại
+-sự nút lỗ mìn

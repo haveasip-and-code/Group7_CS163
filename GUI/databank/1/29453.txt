@@ -1,3 +1,28 @@
-interpreter
-	@interpreter /in'tə:pritə/\n*  danh từ\n- người giải thích, người làm sáng tỏ\n- người hiểu (theo một cách nhất định)\n- người trình diễn, người diễn xuất; người thể hiện\n- người phiên dịch\n@Chuyên ngành kinh tế\n-người giải thích\n-người phiên dịch\n-người thông dịch\n-thông dịch viên\n@Chuyên ngành kỹ thuật\n-bộ chuyển đổi\n-bộ dịch\n-chương trình dịch\n-người phiên dịch\n-trình biên dịch\n@Lĩnh vực: toán & tin\n-bộ diễn dịch\n-bộ diễn giải\n-bộ thông dịch\n-chương trình thông dịch\n-trình thông dịch\n@Lĩnh vực: điện\n-máy dịch phiếu\n@Lĩnh vực: xây dựng\n-thông dịch viên
-
+interpreter	
+@interpreter /in'tə:pritə/
+*  danh từ
+- người giải thích, người làm sáng tỏ
+- người hiểu (theo một cách nhất định)
+- người trình diễn, người diễn xuất; người thể hiện
+- người phiên dịch
+@Chuyên ngành kinh tế
+-người giải thích
+-người phiên dịch
+-người thông dịch
+-thông dịch viên
+@Chuyên ngành kỹ thuật
+-bộ chuyển đổi
+-bộ dịch
+-chương trình dịch
+-người phiên dịch
+-trình biên dịch
+@Lĩnh vực: toán & tin
+-bộ diễn dịch
+-bộ diễn giải
+-bộ thông dịch
+-chương trình thông dịch
+-trình thông dịch
+@Lĩnh vực: điện
+-máy dịch phiếu
+@Lĩnh vực: xây dựng
+-thông dịch viên

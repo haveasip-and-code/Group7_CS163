@@ -1,3 +1,2 @@
-utterer
-	@utterer\n- xem utter
-
+utterer	@utterer
+- xem utter

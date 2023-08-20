@@ -1,3 +1,4 @@
-internucleon
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-giữa các nuclon
-
+internucleon	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-giữa các nuclon

@@ -1,3 +1,2 @@
-lodgings
-	@Chuyên ngành kinh tế\n-phòng có sẵn đồ cho thuê
-
+lodgings	@Chuyên ngành kinh tế
+-phòng có sẵn đồ cho thuê

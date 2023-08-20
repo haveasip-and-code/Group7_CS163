@@ -1,3 +1,2 @@
-sluiceway
-	@Chuyên ngành kỹ thuật\n-hành lang xả đáy
-
+sluiceway	@Chuyên ngành kỹ thuật
+-hành lang xả đáy

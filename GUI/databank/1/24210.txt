@@ -1,3 +1,5 @@
-greater
-	@greater\n- lớn hơn, có ý nghĩa hơn\n@Chuyên ngành kỹ thuật\n-lớn hơn
-
+greater	
+@greater
+- lớn hơn, có ý nghĩa hơn
+@Chuyên ngành kỹ thuật
+-lớn hơn

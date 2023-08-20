@@ -1,3 +1,7 @@
-faceting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự bào ép\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự bào ép
-
+faceting	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự bào ép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự bào ép

@@ -1,3 +1,5 @@
-occluded
-	@Chuyên ngành kỹ thuật\n-được bít kín\n@Lĩnh vực: hóa học & vật liệu\n-bị hấp lưu\n-bị hút giữ
-
+occluded	@Chuyên ngành kỹ thuật
+-được bít kín
+@Lĩnh vực: hóa học & vật liệu
+-bị hấp lưu
+-bị hút giữ

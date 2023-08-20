@@ -1,3 +1,2 @@
-preference
-	@preference\n- sự thích hơn
-
+preference	@preference
+- sự thích hơn

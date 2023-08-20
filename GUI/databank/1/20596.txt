@@ -1,3 +1,16 @@
-feasibility
-	@feasibility /,fi:zə'biliti/\n*  danh từ\n- sự có thể thực hành được, sự có thể thực hiện được, sự có thể làm được\n- tính tiện lợi\n- tính có thể tin được, tính có lợi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khả thi\n@Lĩnh vực: cơ khí & công trình\n-tính hiện thực\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khả thi\n@Lĩnh vực: cơ khí & công trình\n-tính hiện thực
-
+feasibility	
+@feasibility /,fi:zə'biliti/
+*  danh từ
+- sự có thể thực hành được, sự có thể thực hiện được, sự có thể làm được
+- tính tiện lợi
+- tính có thể tin được, tính có lợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khả thi
+@Lĩnh vực: cơ khí & công trình
+-tính hiện thực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khả thi
+@Lĩnh vực: cơ khí & công trình
+-tính hiện thực

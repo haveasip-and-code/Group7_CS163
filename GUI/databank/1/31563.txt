@@ -1,3 +1,13 @@
-laser
-	@laser\n* danh từ\n- <kỹ> la-de\n@Chuyên ngành kỹ thuật\n-laze\n-laze hồng ngoại\n@Lĩnh vực: cơ khí & công trình\n-lade\n@Chuyên ngành kỹ thuật\n-laze\n-laze hồng ngoại\n@Lĩnh vực: cơ khí & công trình\n-lade
-
+laser	@laser
+* danh từ
+- <kỹ> la-de
+@Chuyên ngành kỹ thuật
+-laze
+-laze hồng ngoại
+@Lĩnh vực: cơ khí & công trình
+-lade
+@Chuyên ngành kỹ thuật
+-laze
+-laze hồng ngoại
+@Lĩnh vực: cơ khí & công trình
+-lade

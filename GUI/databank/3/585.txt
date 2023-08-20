@@ -1,3 +1,2 @@
-acronymic
-	@acronymic\n- xem acronym
-
+acronymic	@acronymic
+- xem acronym

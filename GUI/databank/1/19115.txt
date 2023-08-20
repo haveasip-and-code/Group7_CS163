@@ -1,3 +1,4 @@
-espy
-	@espy /is'pai/\n*  ngoại động từ\n- trông thấy, nhìn thấy, nhận thấy
-
+espy	
+@espy /is'pai/
+*  ngoại động từ
+- trông thấy, nhìn thấy, nhận thấy

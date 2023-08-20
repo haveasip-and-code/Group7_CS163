@@ -1,3 +1,5 @@
-monofilament
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sợi cơ bản\n@Lĩnh vực: hóa học & vật liệu\n-sợi đơn
-
+monofilament	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sợi cơ bản
+@Lĩnh vực: hóa học & vật liệu
+-sợi đơn

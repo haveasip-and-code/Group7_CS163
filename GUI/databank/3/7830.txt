@@ -1,3 +1,15 @@
-capacitance
-	@capacitance /kə'pæsitəns/\n*  danh từ\n- (điện học) điện dung\n@Chuyên ngành kỹ thuật\n-điện dung\n-dug lượng\n-dung kháng\n-dung tích\n-dung trở\n-khả năng\n-năng lực\n-sức chịu tải\n-sức chứa\n@Lĩnh vực: điện\n-dung kháng (dung trở)
-
+capacitance	@capacitance /kə'pæsitəns/
+*  danh từ
+- (điện học) điện dung
+@Chuyên ngành kỹ thuật
+-điện dung
+-dug lượng
+-dung kháng
+-dung tích
+-dung trở
+-khả năng
+-năng lực
+-sức chịu tải
+-sức chứa
+@Lĩnh vực: điện
+-dung kháng (dung trở)

@@ -1,3 +1,3 @@
-rectangularity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tính vuông góc
-
+rectangularity	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính vuông góc

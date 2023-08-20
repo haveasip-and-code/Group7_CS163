@@ -1,3 +1,19 @@
-ringing
-	@ringing\n* tính từ\n- trong trẻo; vang vọng (giọng)\n- rõ ràng; dứt khoát\n= ringing condemnation+sự lên án dứt khoát\n* danh từ\n- sự gọi/ bấm chuông\n= battery ringing+sự bấm chuông bằng pin\n@Chuyên ngành kỹ thuật\n-sự đổ chuông\n-sự gọi\n-sự gọi chuông\n-sự rung chuông\n@Lĩnh vực: đo lường & điều khiển\n-dao động ringing\n@Lĩnh vực: điện\n-dao động sót lại\n@Lĩnh vực: xây dựng\n-sự kết vòng
-
+ringing	@ringing
+* tính từ
+- trong trẻo; vang vọng (giọng)
+- rõ ràng; dứt khoát
+= ringing condemnation+sự lên án dứt khoát
+* danh từ
+- sự gọi/ bấm chuông
+= battery ringing+sự bấm chuông bằng pin
+@Chuyên ngành kỹ thuật
+-sự đổ chuông
+-sự gọi
+-sự gọi chuông
+-sự rung chuông
+@Lĩnh vực: đo lường & điều khiển
+-dao động ringing
+@Lĩnh vực: điện
+-dao động sót lại
+@Lĩnh vực: xây dựng
+-sự kết vòng

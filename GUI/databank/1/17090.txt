@@ -1,3 +1,4 @@
-duvet
-	@duvet /'dju:vei/\n*  danh từ\n- chăn lông vịt
-
+duvet	
+@duvet /'dju:vei/
+*  danh từ
+- chăn lông vịt

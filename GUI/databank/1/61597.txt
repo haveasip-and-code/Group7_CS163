@@ -1,3 +1,7 @@
-versify
-	@versify /'və:sifai/\n*  ngoại động từ\n- chuyển thành thơ\n- viết bằng thơ\n=to versify a story+ viết một chuyện bằng thơ\n*  nội động từ\n- làm thơ
-
+versify	@versify /'və:sifai/
+*  ngoại động từ
+- chuyển thành thơ
+- viết bằng thơ
+=to versify a story+ viết một chuyện bằng thơ
+*  nội động từ
+- làm thơ

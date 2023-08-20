@@ -1,3 +1,5 @@
-metaphrase
-	@metaphrase /'metəfreiz/\n*  danh từ\n- bản dịch từng chữ, bản dịch theo đúng nguyên văn\n*  ngoại động từ\n- dịch từng chữ, dịch theo đúng nguyên văn
-
+metaphrase	@metaphrase /'metəfreiz/
+*  danh từ
+- bản dịch từng chữ, bản dịch theo đúng nguyên văn
+*  ngoại động từ
+- dịch từng chữ, dịch theo đúng nguyên văn

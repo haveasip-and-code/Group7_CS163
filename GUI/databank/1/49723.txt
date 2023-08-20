@@ -1,3 +1,2 @@
-semigroup
-	@Chuyên ngành kỹ thuật\n-nửa nhóm
-
+semigroup	@Chuyên ngành kỹ thuật
+-nửa nhóm

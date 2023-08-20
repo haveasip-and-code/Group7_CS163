@@ -1,3 +1,4 @@
-outpaint
-	@outpaint /aut'peint/\n*  ngoại động từ\n- vẻ đẹp hơn\n- tô đậm hơn
-
+outpaint	@outpaint /aut'peint/
+*  ngoại động từ
+- vẻ đẹp hơn
+- tô đậm hơn

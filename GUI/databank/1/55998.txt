@@ -1,3 +1,9 @@
-tensioner
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-bộ căng đai\n-thiết bị kéo căng (xích)\n@Lĩnh vực: cơ khí & công trình\n-cái kéo căng\n-thiết bị kéo căng\n@Lĩnh vực: xây dựng\n-thiết bị kéo
-
+tensioner	@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-bộ căng đai
+-thiết bị kéo căng (xích)
+@Lĩnh vực: cơ khí & công trình
+-cái kéo căng
+-thiết bị kéo căng
+@Lĩnh vực: xây dựng
+-thiết bị kéo

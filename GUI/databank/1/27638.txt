@@ -1,3 +1,11 @@
-inactivate
-	@inactivate /in'æktiveit/\n*  ngoại động từ\n- làm cho không hoạt động\n- (y học),  (hoá học) khử hoạt tính\n- (quân sự) rút (một đơn vị) ra khỏi danh sách quân thường trực\n@Chuyên ngành kinh tế\n-làm cho không hoạt tính\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không kích hoạt
-
+inactivate	
+@inactivate /in'æktiveit/
+*  ngoại động từ
+- làm cho không hoạt động
+- (y học),  (hoá học) khử hoạt tính
+- (quân sự) rút (một đơn vị) ra khỏi danh sách quân thường trực
+@Chuyên ngành kinh tế
+-làm cho không hoạt tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không kích hoạt

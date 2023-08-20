@@ -1,3 +1,4 @@
-bearers
-	@Chuyên ngành kinh tế\n-chỗ tựa\n-thanh đỡ
-
+bearers	
+@Chuyên ngành kinh tế
+-chỗ tựa
+-thanh đỡ

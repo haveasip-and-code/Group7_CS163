@@ -1,3 +1,3 @@
-simplist
-	@simplist\n* danh từ\n- người chữa bệnh bằng thuốc lá
-
+simplist	@simplist
+* danh từ
+- người chữa bệnh bằng thuốc lá

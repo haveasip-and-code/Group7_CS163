@@ -1,3 +1,11 @@
-sago
-	@sago /'seigou/\n*  danh từ\n- bột cọ\n@Chuyên ngành kinh tế\n-bột cọ\n-cao lương\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bột cọ sagu\n@Lĩnh vực: y học\n-bột cọ sagus
-
+sago	@sago /'seigou/
+*  danh từ
+- bột cọ
+@Chuyên ngành kinh tế
+-bột cọ
+-cao lương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bột cọ sagu
+@Lĩnh vực: y học
+-bột cọ sagus

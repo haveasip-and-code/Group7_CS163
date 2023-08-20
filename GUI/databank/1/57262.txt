@@ -1,3 +1,12 @@
-tradesman
-	@tradesman /'treidzmən/\n*  danh từ\n- người buôn bán; chủ cửa hàng\n- thợ thủ công\n@Chuyên ngành kinh tế\n-chủ cửa hàng\n-chủ tiệm\n-người bán lẻ\n-người chủ hiệu\n-người thợ thủ công\n-thương nhân\n-thương nhân, chủ cửa hàng, chủ tiệm, người bán lẻ
-
+tradesman	@tradesman /'treidzmən/
+*  danh từ
+- người buôn bán; chủ cửa hàng
+- thợ thủ công
+@Chuyên ngành kinh tế
+-chủ cửa hàng
+-chủ tiệm
+-người bán lẻ
+-người chủ hiệu
+-người thợ thủ công
+-thương nhân
+-thương nhân, chủ cửa hàng, chủ tiệm, người bán lẻ

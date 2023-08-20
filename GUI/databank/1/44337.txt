@@ -1,3 +1,27 @@
-provide
-	@provide /provide/\n*  nội động từ\n- ((thường) + for,  against) chuẩn bị đầy đủ, dự phòng\n=to provide for an entertaiment+ chuẩn bị đầy đủ cho một cuộc tiếp đãi\n=to provide against an attack+ chuẩn bị đầy đủ cho một tấn công, dự phòng chống lại một cuộc tấn công\n- ((thường) + for) cung cấp, chu cấp, lo cho cái ăn cái mặc cho; lo liệu cho\n=to provide for a large family+ lo cái ăn cái mặc cho một gia đình đông con\n=to be well provided for+ được lo liệu đầy đủ cái ăn cái mặc, được cung cấp đầy đủ\n*  ngoại động từ\n- ((thường) + with,  for,  to) cung cấp, kiếm cho\n=to provide someone with something+ cung cấp cho ai cái gì\n=to be well provided with arms and ammunitions+ được cung cấp đầy đủ súng đạn\n=to provide something for (to) somebody+ kiếm cái gì cho ai\n- (pháp lý) quy định\n=to provide that+ quy định rằng\n=a clause which provides that the tenant shall be held responsible for repairs+ điều khoản quy định rằng người thuê có trách nhiệm sửa chữa\n- (sử học),  (tôn giáo) (+ to) chỉ định, bổ nhiệm (ai vào một thánh chức có lộc)\n@Chuyên ngành kinh tế\n-chuẩn bị đầy đủ\n-cung cấp đầy đủ\n@Chuyên ngành kỹ thuật\n-cung cấp\n-lắp ráp\n-lo liệu cho\n-nhà cung cấp\n@Lĩnh vực: toán & tin\n-quản lý viên
-
+provide	@provide /provide/
+*  nội động từ
+- ((thường) + for,  against) chuẩn bị đầy đủ, dự phòng
+=to provide for an entertaiment+ chuẩn bị đầy đủ cho một cuộc tiếp đãi
+=to provide against an attack+ chuẩn bị đầy đủ cho một tấn công, dự phòng chống lại một cuộc tấn công
+- ((thường) + for) cung cấp, chu cấp, lo cho cái ăn cái mặc cho; lo liệu cho
+=to provide for a large family+ lo cái ăn cái mặc cho một gia đình đông con
+=to be well provided for+ được lo liệu đầy đủ cái ăn cái mặc, được cung cấp đầy đủ
+*  ngoại động từ
+- ((thường) + with,  for,  to) cung cấp, kiếm cho
+=to provide someone with something+ cung cấp cho ai cái gì
+=to be well provided with arms and ammunitions+ được cung cấp đầy đủ súng đạn
+=to provide something for (to) somebody+ kiếm cái gì cho ai
+- (pháp lý) quy định
+=to provide that+ quy định rằng
+=a clause which provides that the tenant shall be held responsible for repairs+ điều khoản quy định rằng người thuê có trách nhiệm sửa chữa
+- (sử học),  (tôn giáo) (+ to) chỉ định, bổ nhiệm (ai vào một thánh chức có lộc)
+@Chuyên ngành kinh tế
+-chuẩn bị đầy đủ
+-cung cấp đầy đủ
+@Chuyên ngành kỹ thuật
+-cung cấp
+-lắp ráp
+-lo liệu cho
+-nhà cung cấp
+@Lĩnh vực: toán & tin
+-quản lý viên

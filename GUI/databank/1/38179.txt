@@ -1,3 +1,12 @@
-originator
-	@originator /ə'ridʤineitə/\n*  danh từ\n- người khởi đầu, người khởi thuỷ\n- người tạo thành, người sáng tạo\n@Chuyên ngành kinh tế\n-người khởi phát\n-người khởi thủy\n@Chuyên ngành kỹ thuật\n-người khởi đầu\n-người tạo\n@Lĩnh vực: toán & tin\n-người truyền dữ liệu
-
+originator	@originator /ə'ridʤineitə/
+*  danh từ
+- người khởi đầu, người khởi thuỷ
+- người tạo thành, người sáng tạo
+@Chuyên ngành kinh tế
+-người khởi phát
+-người khởi thủy
+@Chuyên ngành kỹ thuật
+-người khởi đầu
+-người tạo
+@Lĩnh vực: toán & tin
+-người truyền dữ liệu

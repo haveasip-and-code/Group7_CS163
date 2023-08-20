@@ -1,3 +1,5 @@
-redelivery
-	@redelivery\n* danh từ\n- xem redeliver\n@Chuyên ngành kinh tế\n-sự giao hàng bán lại
-
+redelivery	@redelivery
+* danh từ
+- xem redeliver
+@Chuyên ngành kinh tế
+-sự giao hàng bán lại

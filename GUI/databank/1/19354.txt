@@ -1,3 +1,11 @@
-evacuated
-	@Chuyên ngành kỹ thuật\n-được tháo ra\n-được xả\n@Lĩnh vực: hóa học & vật liệu\n-được giải tỏa\n@Chuyên ngành kỹ thuật\n-được tháo ra\n-được xả\n@Lĩnh vực: hóa học & vật liệu\n-được giải tỏa
-
+evacuated	
+@Chuyên ngành kỹ thuật
+-được tháo ra
+-được xả
+@Lĩnh vực: hóa học & vật liệu
+-được giải tỏa
+@Chuyên ngành kỹ thuật
+-được tháo ra
+-được xả
+@Lĩnh vực: hóa học & vật liệu
+-được giải tỏa

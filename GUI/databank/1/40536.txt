@@ -1,3 +1,16 @@
-percussion
-	@percussion /pə:'kʌʃn/\n*  danh từ\n- sự đánh (trống, kẻng); sự gõ (mõ); sự chạm vào (của cò súng)\n- (y học) sự gõ (để chẩn đoán bệnh)\n@Chuyên ngành kỹ thuật\n-sự kích động\n-sự rung động\n-sự va chạm\n-sự va đập\n@Lĩnh vực: xây dựng\n-bít choòng khoan đập\n-sự gõ\n@Lĩnh vực: y học\n-gõ khám\n@Lĩnh vực: cơ khí & công trình\n-sự va
-
+percussion	@percussion /pə:'kʌʃn/
+*  danh từ
+- sự đánh (trống, kẻng); sự gõ (mõ); sự chạm vào (của cò súng)
+- (y học) sự gõ (để chẩn đoán bệnh)
+@Chuyên ngành kỹ thuật
+-sự kích động
+-sự rung động
+-sự va chạm
+-sự va đập
+@Lĩnh vực: xây dựng
+-bít choòng khoan đập
+-sự gõ
+@Lĩnh vực: y học
+-gõ khám
+@Lĩnh vực: cơ khí & công trình
+-sự va

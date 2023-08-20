@@ -1,3 +1,23 @@
-spud
-	@spud /spʌd/\n*  danh từ\n- cái thuồng giãy cỏ\n- (từ lóng) khoai tây\n*  ngoại động từ\n- giãy (cỏ dại) bằng thuổng\n@Chuyên ngành kỹ thuật\n-cái cuốc\n-cọc định vị\n-dao nạo\n-làm tơi đất\n-mộng\n-móng đánh dấu, đinh đóng dấu\n-mũi khoan đập\n-tấm ép\n-tấm kẹp\n@Lĩnh vực: xây dựng\n-dao gọt\n-khoan kéo dây\n-ống nối (để phân phối)\n-xẻng bé\n@Lĩnh vực: y học\n-kim rút
-
+spud	@spud /spʌd/
+*  danh từ
+- cái thuồng giãy cỏ
+- (từ lóng) khoai tây
+*  ngoại động từ
+- giãy (cỏ dại) bằng thuổng
+@Chuyên ngành kỹ thuật
+-cái cuốc
+-cọc định vị
+-dao nạo
+-làm tơi đất
+-mộng
+-móng đánh dấu, đinh đóng dấu
+-mũi khoan đập
+-tấm ép
+-tấm kẹp
+@Lĩnh vực: xây dựng
+-dao gọt
+-khoan kéo dây
+-ống nối (để phân phối)
+-xẻng bé
+@Lĩnh vực: y học
+-kim rút

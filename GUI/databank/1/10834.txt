@@ -1,3 +1,10 @@
-conceal
-	@conceal /kən'si:l/\n*  ngoại động từ\n- giấu giếm, giấu, che đậy\n@Chuyên ngành kỹ thuật\n-che\n-dấu\n@Lĩnh vực: xây dựng\n-giấu\n-làm khuất
-
+conceal	
+@conceal /kən'si:l/
+*  ngoại động từ
+- giấu giếm, giấu, che đậy
+@Chuyên ngành kỹ thuật
+-che
+-dấu
+@Lĩnh vực: xây dựng
+-giấu
+-làm khuất

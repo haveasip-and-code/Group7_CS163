@@ -1,3 +1,2 @@
-catechizer
-	@catechizer\n- xem catechize
-
+catechizer	@catechizer
+- xem catechize

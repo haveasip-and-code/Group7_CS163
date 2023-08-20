@@ -1,3 +1,31 @@
-coverage
-	@coverage /'kʌvəridʤ/\n*  danh từ\n- vùng được gộp vào; số lượng được gôm ào\n- sự theo dõi để điện tin tức về (báo chí)\n@Chuyên ngành kinh tế\n-độ bao phủ (của đài truyền hình...)\n-hạng mục bảo hiểm\n-lượng khán thính giả\n-mức bảo hiểm\n-phạm vi bảo hiểm\n-phạm vi đạt tới (của quảng cáo...)\n-vùng phủ sóng\n@Chuyên ngành kỹ thuật\n-khoảng đo\n-khoảng quét\n-lớp bảo vệ\n-sự phủ sóng\n-sự quét\n-vùng hoạt động\n-vùng phổ sóng\n@Lĩnh vực: hóa học & vật liệu\n-cự ly tác dụng\n@Lĩnh vực: điện lạnh\n-độ phủ\n-độ quét\n@Lĩnh vực: đo lường & điều khiển\n-khoảng bao quát\n@Lĩnh vực: xây dựng\n-sự bao quát\n-tầm tác dụng\n-vùng tác dụng
-
+coverage	@coverage /'kʌvəridʤ/
+*  danh từ
+- vùng được gộp vào; số lượng được gôm ào
+- sự theo dõi để điện tin tức về (báo chí)
+@Chuyên ngành kinh tế
+-độ bao phủ (của đài truyền hình...)
+-hạng mục bảo hiểm
+-lượng khán thính giả
+-mức bảo hiểm
+-phạm vi bảo hiểm
+-phạm vi đạt tới (của quảng cáo...)
+-vùng phủ sóng
+@Chuyên ngành kỹ thuật
+-khoảng đo
+-khoảng quét
+-lớp bảo vệ
+-sự phủ sóng
+-sự quét
+-vùng hoạt động
+-vùng phổ sóng
+@Lĩnh vực: hóa học & vật liệu
+-cự ly tác dụng
+@Lĩnh vực: điện lạnh
+-độ phủ
+-độ quét
+@Lĩnh vực: đo lường & điều khiển
+-khoảng bao quát
+@Lĩnh vực: xây dựng
+-sự bao quát
+-tầm tác dụng
+-vùng tác dụng

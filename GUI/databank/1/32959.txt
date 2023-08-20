@@ -1,3 +1,10 @@
-lunch
-	@lunch /lʌntʃ/\n*  danh từ\n- bữa ăn trưa\n- bữa ăn nhẹ trước cơm trưa\n*  ngoại động từ\n- dọn bữa ăn trưa cho\n*  nội động từ\n- dự bữa ăn trưa\n@Chuyên ngành kinh tế\n-bữa ăn trưa
-
+lunch	@lunch /lʌntʃ/
+*  danh từ
+- bữa ăn trưa
+- bữa ăn nhẹ trước cơm trưa
+*  ngoại động từ
+- dọn bữa ăn trưa cho
+*  nội động từ
+- dự bữa ăn trưa
+@Chuyên ngành kinh tế
+-bữa ăn trưa

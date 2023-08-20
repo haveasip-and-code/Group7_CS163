@@ -1,3 +1,29 @@
-absorber
-	@absorber /əb'sɔ:bə/\n*  danh từ\n- (kỹ thuật) thiết bị hút thu\n- cái giảm xóc (ô tô)\n@Chuyên ngành kinh tế\n-thiết bị hấp thụ\n@Chuyên ngành kỹ thuật\n-bình hấp thụ\n-bình lọc\n-bộ hấp thu năng lượng\n-bộ hút thu\n-giấy lọc\n-máy hút thu\n-thiết bị chống rung\n-thiết bị giảm rung\n@Lĩnh vực: toán & tin\n-bộ giảm sút\n-bộ nhún\n@Lĩnh vực: điện\n-bộ hấp thụ\n@Lĩnh vực: điện lạnh\n-bộ tắt dao động\n-vật hấp thụ\n@Lĩnh vực: hóa học & vật liệu\n-chất hút thu\n@Lĩnh vực: xây dựng\n-máy hấp thụ\n-thiết bị hút thu
-
+absorber	
+@absorber /əb'sɔ:bə/
+*  danh từ
+- (kỹ thuật) thiết bị hút thu
+- cái giảm xóc (ô tô)
+@Chuyên ngành kinh tế
+-thiết bị hấp thụ
+@Chuyên ngành kỹ thuật
+-bình hấp thụ
+-bình lọc
+-bộ hấp thu năng lượng
+-bộ hút thu
+-giấy lọc
+-máy hút thu
+-thiết bị chống rung
+-thiết bị giảm rung
+@Lĩnh vực: toán & tin
+-bộ giảm sút
+-bộ nhún
+@Lĩnh vực: điện
+-bộ hấp thụ
+@Lĩnh vực: điện lạnh
+-bộ tắt dao động
+-vật hấp thụ
+@Lĩnh vực: hóa học & vật liệu
+-chất hút thu
+@Lĩnh vực: xây dựng
+-máy hấp thụ
+-thiết bị hút thu

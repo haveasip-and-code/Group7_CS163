@@ -1,3 +1,57 @@
-wire
-	@wire /wai /\n*  danh từ\n- dây (kim loại)\n=silver wire+ dây bạc\n=iron wire+ dây thép\n=barbed wire+ dây thép gai\n=to pull the wires+ giật dây (nghĩa bóng)\n- bức điện báo\n=by wire+ bằng điện báo\n=to send off a wire+ đánh một bức điện\n=let me know by wire+ h y báo cho tôi biết bằng điện\n!live wire\n- (xem) live\n*  ngoại động từ\n- bọc bằng dây sắt\n- buộc bằng dây sắt\n- chăng lưới thép (cửa sổ)\n- xỏ vào dây thép\n- bẫy (thỏ, chim...) bằng dây thép\n- đánh điện\n- (điện học) mắc (dây) điện, bắt điện\n=to wire a house for electricity+ mắc điện cho một ngôi nhà\n*  nội động từ\n- đánh điện\n=to wire to someone+ đánh điện cho ai\n=to wire for someone+ đánh điện mời ai đến\n!to wire in\n- (từ lóng) rán hết sức làm (một việc gì)\n!to wire off\n- rào dây thép để tách ra\n!to wire into somebody\n- đấm ai một cú thật mạnh, dùng hết sức giáng cho ai một đòn\n@Chuyên ngành kinh tế\n-đánh điện báo\n-điện báo\n-điện tín\n@Chuyên ngành kỹ thuật\n-dây\n-dây dẫn\n-dây dẫn điện\n-dây điện\n-dây kim loại\n-dây thép\n-lưới xeo\n-nối dây\n-nối mạch điện\n-ráp mạch điện\n-sợi dây\n-thước dây\n@Lĩnh vực: xây dựng\n-bằng dây (kim loại)\n-sợi thép\n@Lĩnh vực: điện\n-bện dây điện\n-đi dây\n@Lĩnh vực: điện tử & viễn thông\n-lõi dẫn (cáp sợi quang)
-
+wire	@wire /wai /
+*  danh từ
+- dây (kim loại)
+=silver wire+ dây bạc
+=iron wire+ dây thép
+=barbed wire+ dây thép gai
+=to pull the wires+ giật dây (nghĩa bóng)
+- bức điện báo
+=by wire+ bằng điện báo
+=to send off a wire+ đánh một bức điện
+=let me know by wire+ h y báo cho tôi biết bằng điện
+!live wire
+- (xem) live
+*  ngoại động từ
+- bọc bằng dây sắt
+- buộc bằng dây sắt
+- chăng lưới thép (cửa sổ)
+- xỏ vào dây thép
+- bẫy (thỏ, chim...) bằng dây thép
+- đánh điện
+- (điện học) mắc (dây) điện, bắt điện
+=to wire a house for electricity+ mắc điện cho một ngôi nhà
+*  nội động từ
+- đánh điện
+=to wire to someone+ đánh điện cho ai
+=to wire for someone+ đánh điện mời ai đến
+!to wire in
+- (từ lóng) rán hết sức làm (một việc gì)
+!to wire off
+- rào dây thép để tách ra
+!to wire into somebody
+- đấm ai một cú thật mạnh, dùng hết sức giáng cho ai một đòn
+@Chuyên ngành kinh tế
+-đánh điện báo
+-điện báo
+-điện tín
+@Chuyên ngành kỹ thuật
+-dây
+-dây dẫn
+-dây dẫn điện
+-dây điện
+-dây kim loại
+-dây thép
+-lưới xeo
+-nối dây
+-nối mạch điện
+-ráp mạch điện
+-sợi dây
+-thước dây
+@Lĩnh vực: xây dựng
+-bằng dây (kim loại)
+-sợi thép
+@Lĩnh vực: điện
+-bện dây điện
+-đi dây
+@Lĩnh vực: điện tử & viễn thông
+-lõi dẫn (cáp sợi quang)

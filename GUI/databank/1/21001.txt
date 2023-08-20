@@ -1,3 +1,40 @@
-filament
-	@filament /'filəmənt/\n*  danh từ\n- sợi nhỏ, dây nhỏ, tơ\n- sợi đèn, dây tóc (đèn)\n- (thực vật học) chỉ nhị\n@Chuyên ngành kỹ thuật\n-dây tóc\n-dây tóc đèn\n-sợi\n-sợi chỉ\n-sợi đốt\n-sợi nung\n@Lĩnh vực: điện\n-sợi dây đèn\n-sợi tóc đèn\n-tim đèn\n@Lĩnh vực: hóa học & vật liệu\n-sợi tơ\n@Lĩnh vực: dệt may\n-tơ cơ bản\n-tơ đơn\n-tơ filamăng\n@Chuyên ngành kỹ thuật\n-dây tóc\n-dây tóc đèn\n-sợi\n-sợi chỉ\n-sợi đốt\n-sợi nung\n@Lĩnh vực: điện\n-sợi dây đèn\n-sợi tóc đèn\n-tim đèn\n@Lĩnh vực: hóa học & vật liệu\n-sợi tơ\n@Lĩnh vực: dệt may\n-tơ cơ bản\n-tơ đơn\n-tơ filamăng
-
+filament	
+@filament /'filəmənt/
+*  danh từ
+- sợi nhỏ, dây nhỏ, tơ
+- sợi đèn, dây tóc (đèn)
+- (thực vật học) chỉ nhị
+@Chuyên ngành kỹ thuật
+-dây tóc
+-dây tóc đèn
+-sợi
+-sợi chỉ
+-sợi đốt
+-sợi nung
+@Lĩnh vực: điện
+-sợi dây đèn
+-sợi tóc đèn
+-tim đèn
+@Lĩnh vực: hóa học & vật liệu
+-sợi tơ
+@Lĩnh vực: dệt may
+-tơ cơ bản
+-tơ đơn
+-tơ filamăng
+@Chuyên ngành kỹ thuật
+-dây tóc
+-dây tóc đèn
+-sợi
+-sợi chỉ
+-sợi đốt
+-sợi nung
+@Lĩnh vực: điện
+-sợi dây đèn
+-sợi tóc đèn
+-tim đèn
+@Lĩnh vực: hóa học & vật liệu
+-sợi tơ
+@Lĩnh vực: dệt may
+-tơ cơ bản
+-tơ đơn
+-tơ filamăng

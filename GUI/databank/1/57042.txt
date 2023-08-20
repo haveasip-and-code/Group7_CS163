@@ -1,3 +1,36 @@
-torch
-	@torch /'tɔ:tʃ/\n*  danh từ\n- đuốc ((nghĩa đen) & (nghĩa bóng))\n=the torch of liberty+ ngọn đuốc tự do\n- đèn\n=electric torch+ đèn pin\n!to carry a (the) torch for\n- (từ Mỹ,nghĩa Mỹ),  (nghĩa bóng) mê (ai), yêu (ai)\n!to hand on the torch\n- truyền lại kiến thức\n@Chuyên ngành kinh tế\n-đánh bắt dưới ánh đuốc\n-đèn xì\n-đuốc\n-mỏ bàn\n@Chuyên ngành kỹ thuật\n-đập mỏ hàn\n-đê mỏ hàn\n-đèn hàn\n-đèn pin\n-đèn xì\n-đuốc\n-đuốc ngọn lửa\n-ngọn đuốc\n-mỏ cắt\n-mỏ đèn xì\n-mỏ đốt\n-mỏ hàn\n-mỏ hàn hơi\n@Lĩnh vực: xây dựng\n-chèn vữa (trong xây đá)\n-đèn tay\n@Lĩnh vực: điện\n-ngọn đèn hàn\n@Lĩnh vực: cơ khí & công trình\n-mỏ hàn gió đá
-
+torch	@torch /'tɔ:tʃ/
+*  danh từ
+- đuốc ((nghĩa đen) & (nghĩa bóng))
+=the torch of liberty+ ngọn đuốc tự do
+- đèn
+=electric torch+ đèn pin
+!to carry a (the) torch for
+- (từ Mỹ,nghĩa Mỹ),  (nghĩa bóng) mê (ai), yêu (ai)
+!to hand on the torch
+- truyền lại kiến thức
+@Chuyên ngành kinh tế
+-đánh bắt dưới ánh đuốc
+-đèn xì
+-đuốc
+-mỏ bàn
+@Chuyên ngành kỹ thuật
+-đập mỏ hàn
+-đê mỏ hàn
+-đèn hàn
+-đèn pin
+-đèn xì
+-đuốc
+-đuốc ngọn lửa
+-ngọn đuốc
+-mỏ cắt
+-mỏ đèn xì
+-mỏ đốt
+-mỏ hàn
+-mỏ hàn hơi
+@Lĩnh vực: xây dựng
+-chèn vữa (trong xây đá)
+-đèn tay
+@Lĩnh vực: điện
+-ngọn đèn hàn
+@Lĩnh vực: cơ khí & công trình
+-mỏ hàn gió đá

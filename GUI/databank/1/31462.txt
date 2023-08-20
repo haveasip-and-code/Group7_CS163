@@ -1,3 +1,53 @@
-lane
-	@lane /lein/\n*  danh từ\n- đường nhỏ, đường làng\n- đường hẻm, ngõ hẻm (ở thành phố)\n- khoảng giữa hàng người\n- đường quy định cho tàu biển\n- đường dành riêng cho xe cộ đi hàng một\n!it is a long lane that has no turning\n- hết cơn bỉ cực đến tuần thái lai\n@Chuyên ngành kinh tế\n-đường chạy số 1\n@Chuyên ngành kỹ thuật\n-đường bay\n-đường nhỏ\n-đường phố\n-lạch\n-làn đường\n-làn xe\n-lối đi\n-luồng lạch\n-ngõ\n-tuyến đường biển\n@Lĩnh vực: xây dựng\n-dải giao thông\n-đường làng\n-đường một chiều\n-ngõ hẻm\n@Lĩnh vực: ô tô\n-đường hẹp\n-tuyến xe\n@Lĩnh vực: giao thông & vận tải\n-lằn đường\n@Chuyên ngành kỹ thuật\n-đường bay\n-đường nhỏ\n-đường phố\n-lạch\n-làn đường\n-làn xe\n-lối đi\n-luồng lạch\n-ngõ\n-tuyến đường biển\n@Lĩnh vực: xây dựng\n-dải giao thông\n-đường làng\n-đường một chiều\n-ngõ hẻm\n@Lĩnh vực: ô tô\n-đường hẹp\n-tuyến xe\n@Lĩnh vực: giao thông & vận tải\n-lằn đường
-
+lane	@lane /lein/
+*  danh từ
+- đường nhỏ, đường làng
+- đường hẻm, ngõ hẻm (ở thành phố)
+- khoảng giữa hàng người
+- đường quy định cho tàu biển
+- đường dành riêng cho xe cộ đi hàng một
+!it is a long lane that has no turning
+- hết cơn bỉ cực đến tuần thái lai
+@Chuyên ngành kinh tế
+-đường chạy số 1
+@Chuyên ngành kỹ thuật
+-đường bay
+-đường nhỏ
+-đường phố
+-lạch
+-làn đường
+-làn xe
+-lối đi
+-luồng lạch
+-ngõ
+-tuyến đường biển
+@Lĩnh vực: xây dựng
+-dải giao thông
+-đường làng
+-đường một chiều
+-ngõ hẻm
+@Lĩnh vực: ô tô
+-đường hẹp
+-tuyến xe
+@Lĩnh vực: giao thông & vận tải
+-lằn đường
+@Chuyên ngành kỹ thuật
+-đường bay
+-đường nhỏ
+-đường phố
+-lạch
+-làn đường
+-làn xe
+-lối đi
+-luồng lạch
+-ngõ
+-tuyến đường biển
+@Lĩnh vực: xây dựng
+-dải giao thông
+-đường làng
+-đường một chiều
+-ngõ hẻm
+@Lĩnh vực: ô tô
+-đường hẹp
+-tuyến xe
+@Lĩnh vực: giao thông & vận tải
+-lằn đường

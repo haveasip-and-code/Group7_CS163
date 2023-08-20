@@ -1,3 +1,29 @@
-grub
-	@grub /grʌb/\n*  danh từ\n- ấu trùng, con giòi\n- (từ lóng) thức ăn, đồ nhậu; bữa chén đẫy\n- văn sĩ, viết thuê\n- người ăn mặc lôi thôi lếch thếch; người bẩn thỉu dơ dáy\n- người lang thang kiếm ăn lần hồi; người phải làm việc lần hồi; người phải làm việc vất vả cực nhọc\n- (thể dục,thể thao) quả bóng ném sát đất (crikê)\n- (từ Mỹ,nghĩa Mỹ) học sinh học gạo\n*  động từ\n- xới đất, bới đất\n- xới bới (khoai...), nhổ (cổ)\n=to grub up potatoes+ bới khoai\n=to grub up weeds+ nhổ cỏ dại\n- (grub about) lục tím\n=to grub about in the library+ lục tìm trong thư viện\n=pigs grub about among bushes+ lợn rúc tìm ăn trong bờ bụi\n- (grub on,  along; away) vất vả, khó nhọc\n=to grub on (along)+ đi nặng nề khó nhọc; làm vất vả cực nhọc\n- (từ lóng) cho ăn cho uống, cho chén; ăn uống, nhậu nhẹt\n@Chuyên ngành kỹ thuật\n-dọn sạch\n-nhổ rễ\n@Lĩnh vực: xây dựng\n-bới đất\n-xới đất\n@Lĩnh vực: hóa học & vật liệu\n-đào gốc cây
-
+grub	
+@grub /grʌb/
+*  danh từ
+- ấu trùng, con giòi
+- (từ lóng) thức ăn, đồ nhậu; bữa chén đẫy
+- văn sĩ, viết thuê
+- người ăn mặc lôi thôi lếch thếch; người bẩn thỉu dơ dáy
+- người lang thang kiếm ăn lần hồi; người phải làm việc lần hồi; người phải làm việc vất vả cực nhọc
+- (thể dục,thể thao) quả bóng ném sát đất (crikê)
+- (từ Mỹ,nghĩa Mỹ) học sinh học gạo
+*  động từ
+- xới đất, bới đất
+- xới bới (khoai...), nhổ (cổ)=to grub up potatoes
++ bới khoai=to grub up weeds
++ nhổ cỏ dại
+- (grub about) lục tím=to grub about in the library
++ lục tìm trong thư viện=pigs grub about among bushes
++ lợn rúc tìm ăn trong bờ bụi
+- (grub on,  along; away) vất vả, khó nhọc=to grub on (along)
++ đi nặng nề khó nhọc; làm vất vả cực nhọc
+- (từ lóng) cho ăn cho uống, cho chén; ăn uống, nhậu nhẹt
+@Chuyên ngành kỹ thuật
+-dọn sạch
+-nhổ rễ
+@Lĩnh vực: xây dựng
+-bới đất
+-xới đất
+@Lĩnh vực: hóa học & vật liệu
+-đào gốc cây

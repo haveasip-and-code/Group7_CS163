@@ -1,3 +1,8 @@
-fluoride
-	@fluoride /fluoride/\n*  danh từ\n- (hoá học) Florua\n@Chuyên ngành kỹ thuật\n-florua\n@Lĩnh vực: y học\n-một hợp chất của fluor
-
+fluoride	
+@fluoride /fluoride/
+*  danh từ
+- (hoá học) Florua
+@Chuyên ngành kỹ thuật
+-florua
+@Lĩnh vực: y học
+-một hợp chất của fluor

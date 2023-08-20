@@ -1,3 +1,4 @@
-probationer
-	@probationer /probationer/\n*  danh từ\n- người đang tập sự (y tá, y sĩ...)\n- (pháp lý) phạm nhân được tạm tha có theo dõi
-
+probationer	@probationer /probationer/
+*  danh từ
+- người đang tập sự (y tá, y sĩ...)
+- (pháp lý) phạm nhân được tạm tha có theo dõi

@@ -1,3 +1,12 @@
-reformat
-	@reformat\n- định lại khuôn thức, lập lại qui cách\n@Chuyên ngành kỹ thuật\n-lập lại quy cách\n@Lĩnh vực: toán & tin\n-định dạng khuôn thức\n-định dạng lại\n-format lại (đĩa)\n@Lĩnh vực: hóa học & vật liệu\n-sản phẩm cải tạo\n@Lĩnh vực: điện tử & viễn thông\n-tạo khuôn lại
-
+reformat	@reformat
+- định lại khuôn thức, lập lại qui cách
+@Chuyên ngành kỹ thuật
+-lập lại quy cách
+@Lĩnh vực: toán & tin
+-định dạng khuôn thức
+-định dạng lại
+-format lại (đĩa)
+@Lĩnh vực: hóa học & vật liệu
+-sản phẩm cải tạo
+@Lĩnh vực: điện tử & viễn thông
+-tạo khuôn lại

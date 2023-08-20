@@ -1,3 +1,5 @@
-checkrow
-	@checkrow\n* danh từ\n- dải đất, ô đất\n- thửa ruộng
-
+checkrow	
+@checkrow
+* danh từ
+- dải đất, ô đất
+- thửa ruộng

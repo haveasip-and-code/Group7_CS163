@@ -1,3 +1,4 @@
-median
-	@median\n- (hình học) trung tuyến; (thống kê) međian; trung bình; trung tâm\n- m. of a trapezoid đường trung bình của hình thang\n- m. of a truangle trung tuyến của tam giác
-
+median	@median
+- (hình học) trung tuyến; (thống kê) međian; trung bình; trung tâm
+- m. of a trapezoid đường trung bình của hình thang
+- m. of a truangle trung tuyến của tam giác

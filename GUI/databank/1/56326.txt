@@ -1,3 +1,6 @@
-thermoforming
-	@Chuyên ngành kỹ thuật\n-sự tạo hình nóng\n@Lĩnh vực: hóa học & vật liệu\n-sự ép nóng\n@Lĩnh vực: ô tô\n-uốn nhựa bằng nhiệt
-
+thermoforming	@Chuyên ngành kỹ thuật
+-sự tạo hình nóng
+@Lĩnh vực: hóa học & vật liệu
+-sự ép nóng
+@Lĩnh vực: ô tô
+-uốn nhựa bằng nhiệt

@@ -1,3 +1,11 @@
-nutriment
-	@nutriment /'nju:trimənt/\n*  danh từ\n- đồ ăn bổ, chất ăn bổ; chất dinh dưỡng\n@Chuyên ngành kinh tế\n-bổ\n-chất dinh dưỡng\n-chất nuôi dưỡng\n-dinh dưỡng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất dinh dưỡng
-
+nutriment	@nutriment /'nju:trimənt/
+*  danh từ
+- đồ ăn bổ, chất ăn bổ; chất dinh dưỡng
+@Chuyên ngành kinh tế
+-bổ
+-chất dinh dưỡng
+-chất nuôi dưỡng
+-dinh dưỡng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất dinh dưỡng

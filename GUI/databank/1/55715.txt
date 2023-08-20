@@ -1,3 +1,7 @@
-teach
-	@teach /ti:tʃ/\n*  động từ taught\n- dạy, dạy học; dạy bảo, dạy dỗ\n=to teach children to swim+ dạy cho trẻ con tập bơi\n=to teach school+ (từ Mỹ,nghĩa Mỹ) dạy học ở một trường, làm nghề nhà giáo\n@Chuyên ngành kỹ thuật\n-dạy học
-
+teach	@teach /ti:tʃ/
+*  động từ taught
+- dạy, dạy học; dạy bảo, dạy dỗ
+=to teach children to swim+ dạy cho trẻ con tập bơi
+=to teach school+ (từ Mỹ,nghĩa Mỹ) dạy học ở một trường, làm nghề nhà giáo
+@Chuyên ngành kỹ thuật
+-dạy học

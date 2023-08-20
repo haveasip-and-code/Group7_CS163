@@ -1,3 +1,22 @@
-orb
-	@orb /ɔ:b/\n*  danh từ\n- hình cầu, quả cầu\n- thiên thể\n- (thơ ca) con mắt, cầu mắt\n- tổng thể\n- (từ hiếm,nghĩa hiếm) hình tròn, đường tròn\n- quả cầu cắm thánh giá (tượng trưng cho uy quyền của nhà vua)\n- (từ cổ,nghĩa cổ) quả đất\n- (từ cổ,nghĩa cổ) quỹ đạo (của một thiên thể)\n*  ngoại động từ\n- tạo thành hình cầu\n- bao vây, vây tròn\n*  nội động từ\n- thành hình tròn, thành hình cầu\n- (từ hiếm,nghĩa hiếm) chuyển động trên quỹ đạo\n@Chuyên ngành kỹ thuật\n-hình cầu\n-hình tròn\n-quả cầu\n-quỹ đạo\n-vòng tròn
-
+orb	@orb /ɔ:b/
+*  danh từ
+- hình cầu, quả cầu
+- thiên thể
+- (thơ ca) con mắt, cầu mắt
+- tổng thể
+- (từ hiếm,nghĩa hiếm) hình tròn, đường tròn
+- quả cầu cắm thánh giá (tượng trưng cho uy quyền của nhà vua)
+- (từ cổ,nghĩa cổ) quả đất
+- (từ cổ,nghĩa cổ) quỹ đạo (của một thiên thể)
+*  ngoại động từ
+- tạo thành hình cầu
+- bao vây, vây tròn
+*  nội động từ
+- thành hình tròn, thành hình cầu
+- (từ hiếm,nghĩa hiếm) chuyển động trên quỹ đạo
+@Chuyên ngành kỹ thuật
+-hình cầu
+-hình tròn
+-quả cầu
+-quỹ đạo
+-vòng tròn

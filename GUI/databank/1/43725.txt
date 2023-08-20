@@ -1,3 +1,16 @@
-probability
-	@probability\n- xác suất\n- absolute p. xác suất không điều kiện\n- absorption p. xác suất hấp thu\n- a priori p. xác suất tiêu nghiệm\n- composite p. xác suất đầy đủ\n- compound p. xác suất phức hợp\n- conditional p. xác suất có điều kiện\n- empiric p. xác suất thực nghiệm\n- extinction p. xác suất [tắt, ngắt] (một quá trình)\n- inverse p. xác suất nghịch đảo\n- marginal p. xác suất biên duyên\n- personal p. xác suất chủ quan\n- posterior p. xác suất hậu nghiệm\n- prior p. xác suất tiên nghiệm\n- transition p. (xác suất) xác suất chuyển
-
+probability	@probability
+- xác suất
+- absolute p. xác suất không điều kiện
+- absorption p. xác suất hấp thu
+- a priori p. xác suất tiêu nghiệm
+- composite p. xác suất đầy đủ
+- compound p. xác suất phức hợp
+- conditional p. xác suất có điều kiện
+- empiric p. xác suất thực nghiệm
+- extinction p. xác suất [tắt, ngắt] (một quá trình)
+- inverse p. xác suất nghịch đảo
+- marginal p. xác suất biên duyên
+- personal p. xác suất chủ quan
+- posterior p. xác suất hậu nghiệm
+- prior p. xác suất tiên nghiệm
+- transition p. (xác suất) xác suất chuyển

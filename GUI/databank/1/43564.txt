@@ -1,3 +1,2 @@
-preyer
-	@preyer\n- xem prey
-
+preyer	@preyer
+- xem prey

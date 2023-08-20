@@ -1,3 +1,56 @@
-tack
-	@tack /tæk/\n*  danh từ\n- đồ ăn\n- đinh đầu bẹt; đinh bấm\n- đường khâu lược\n- (hàng hải) dây néo góc buồm\n- (hàng hải) đường chạy (của thuyền buồm dựa theo chiều gió)\n- (nghĩa bóng) đường lối, chính sách, chiến thuật ((thường) là khác với đường lối chính sách, chiến thuật trước đó)\n=on the right tack+ theo đường lối đúng\n!to come down to brass tacks\n- (xem) brass\n*  ngoại động từ\n- đóng bằng đinh đầu bẹt, đóng bằng đinh bấm\n=to tack the carpet down+ đóng thấm thảm vào sàn nhà\n- khâu lược, đính tạm\n- (hàng hải) đôi đường chạy, trở buồm (của thuyền)\n*  nội động từ\n- trở buồm để lợi gió (thuyền buồm)\n- thay đổi đường lối, thay đổi chính sách\n@Chuyên ngành kinh tế\n-khế ước thuê mướn ruộng đất (ở Xcốt-len)\n@Chuyên ngành kinh tế\n-điều khoản bổ sung (kèm sau đề án về tài chánh)\n-điều khoản bổ sung (kèm sau đề án về tài chính)\n-giàn\n-khế ước thuê mướn ruộng đất (ở Scốt-len)\n-ngăn\n-thuê mướn ruộng đất\n@Chuyên ngành kỹ thuật\n-bulông\n-chốt\n-chốt định vị\n-đinh bấm\n-đinh đầu bẹt\n-đinh lớn\n-đinh mũ\n-đinh rệp\n-đinh to đầu\n-kẹp chặt\n-lèo\n-nút bấm\n-sự kẹp chặt (để hàn)\n-trở buồm\n@Lĩnh vực: xây dựng\n-bấm\n-găm\n@Lĩnh vực: hóa học & vật liệu\n-chất dính\n-độ dính chưa khô\n@Lĩnh vực: cơ khí & công trình\n-đinh móc chữ T\n-đinh nhỏ\n-dính tạm\n-sự gá tạm\n@Lĩnh vực: giao thông & vận tải\n-đổi hướng chạy (thuyền buồm)
-
+tack	@tack /tæk/
+*  danh từ
+- đồ ăn
+- đinh đầu bẹt; đinh bấm
+- đường khâu lược
+- (hàng hải) dây néo góc buồm
+- (hàng hải) đường chạy (của thuyền buồm dựa theo chiều gió)
+- (nghĩa bóng) đường lối, chính sách, chiến thuật ((thường) là khác với đường lối chính sách, chiến thuật trước đó)
+=on the right tack+ theo đường lối đúng
+!to come down to brass tacks
+- (xem) brass
+*  ngoại động từ
+- đóng bằng đinh đầu bẹt, đóng bằng đinh bấm
+=to tack the carpet down+ đóng thấm thảm vào sàn nhà
+- khâu lược, đính tạm
+- (hàng hải) đôi đường chạy, trở buồm (của thuyền)
+*  nội động từ
+- trở buồm để lợi gió (thuyền buồm)
+- thay đổi đường lối, thay đổi chính sách
+@Chuyên ngành kinh tế
+-khế ước thuê mướn ruộng đất (ở Xcốt-len)
+@Chuyên ngành kinh tế
+-điều khoản bổ sung (kèm sau đề án về tài chánh)
+-điều khoản bổ sung (kèm sau đề án về tài chính)
+-giàn
+-khế ước thuê mướn ruộng đất (ở Scốt-len)
+-ngăn
+-thuê mướn ruộng đất
+@Chuyên ngành kỹ thuật
+-bulông
+-chốt
+-chốt định vị
+-đinh bấm
+-đinh đầu bẹt
+-đinh lớn
+-đinh mũ
+-đinh rệp
+-đinh to đầu
+-kẹp chặt
+-lèo
+-nút bấm
+-sự kẹp chặt (để hàn)
+-trở buồm
+@Lĩnh vực: xây dựng
+-bấm
+-găm
+@Lĩnh vực: hóa học & vật liệu
+-chất dính
+-độ dính chưa khô
+@Lĩnh vực: cơ khí & công trình
+-đinh móc chữ T
+-đinh nhỏ
+-dính tạm
+-sự gá tạm
+@Lĩnh vực: giao thông & vận tải
+-đổi hướng chạy (thuyền buồm)

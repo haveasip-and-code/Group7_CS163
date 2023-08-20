@@ -1,3 +1,9 @@
-greenhouse
-	@greenhouse /'gri:nhaus/\n*  danh từ\n- nhà kính (trồng rau, hoa)\n@Chuyên ngành kinh tế\n-nhà kính (trồng rau)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà kính
-
+greenhouse	
+@greenhouse /'gri:nhaus/
+*  danh từ
+- nhà kính (trồng rau, hoa)
+@Chuyên ngành kinh tế
+-nhà kính (trồng rau)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà kính

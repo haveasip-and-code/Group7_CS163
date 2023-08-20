@@ -1,3 +1,4 @@
-propagandist
-	@propagandist /propagandist/\n*  danh từ\n- nhân viên tuyên truyền\n- (tôn giáo) người truyền giáo
-
+propagandist	@propagandist /propagandist/
+*  danh từ
+- nhân viên tuyên truyền
+- (tôn giáo) người truyền giáo

@@ -1,3 +1,5 @@
-binomial
-	@binomial\n- (Tech) nhị thức\n@Chuyên ngành kỹ thuật\n-nhị thức
-
+binomial	
+@binomial
+- (Tech) nhị thức
+@Chuyên ngành kỹ thuật
+-nhị thức

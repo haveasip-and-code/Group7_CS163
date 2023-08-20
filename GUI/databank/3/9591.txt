@@ -1,3 +1,2 @@
-clammer
-	@clammer\n- xem clam
-
+clammer	@clammer
+- xem clam

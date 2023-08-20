@@ -1,3 +1,3 @@
-linac
-	@linac\n* danh từ\n- (vật lý) máy gia tốc tuyến tính
-
+linac	@linac
+* danh từ
+- (vật lý) máy gia tốc tuyến tính

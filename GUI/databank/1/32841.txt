@@ -1,3 +1,6 @@
-lowest
-	@lowest\n- thấp nhất; nhỏ nhất\n@Chuyên ngành kỹ thuật\n-nhỏ nhất\n@Lĩnh vực: toán & tin\n-thấp nhất
-
+lowest	@lowest
+- thấp nhất; nhỏ nhất
+@Chuyên ngành kỹ thuật
+-nhỏ nhất
+@Lĩnh vực: toán & tin
+-thấp nhất

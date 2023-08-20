@@ -1,3 +1,67 @@
-serve
-	@serve /sə:v/\n*  danh từ\n- (thể dục,thể thao) cú giao bóng; lượt giao bóng (quần vợt...)\n=whose serve is it?+ đến lượt ai giao bóng?\n*  động từ\n- phục vụ, phụng sự\n=to serve one's country+ phục vụ tổ quốc\n=to serve in the army+ phục vụ trong quân đội\n=to serve at table+ đứng hầu bàn ăn\n- đáp ứng, có lợi cho, thoả mãn, hợp với\n=to serve a purpose+ đáp ứng một mục đích\n=to serve some private ends+ có lợi cho những mục đích riêng\n=1 kg serves him for a week+ một kilôgam có thể đủ cho anh ta trong một tuần\n=nothing would serve him+ chẳng có gì hợp với anh ta cả\n- dọn ăn, dọn bàn\n=to serve up dinner+ dọn cơm ăn\n=to serve somebody with soup+ dọn cháo cho ai ăn\n=to serve chicken three days running+ cho ăn thịt gà ba ngày liền\n- cung cấp, tiếp tế; phân phát\n=to serve ammunition+ tiếp đạn; phân phát đạn\n=to serve ration+ phân chia khẩu phần\n=to serve the town with water+ cung cấp nước cho thành phố\n=to serve a battery+ tiếp đạn cho một khẩu đội\n=to serve a customer with something+ bán cái gì cho một khách hàng\n- (thể dục,thể thao) giao bóng; giao (bóng)\n=to serve the ball+ giao bóng\n- đối xử, đối đãi\n=you may serve me as you will+ anh muốn đối với tôi thế nào cũng được\n=to serve somebody a trick+ chơi xỏ ai một vố\n- (pháp lý) tống đạt, gửi\n=to serve a writ on someone; to serve someone with a writ+ tống đạt trát đòi người nào ra toà\n- dùng (về việc gì)\n=a sofa serving as a bed+ một ghế xôfa dùng làm giường\n- nhảy (cái) (ngựa giống)\n!as occasion serves\n- khi có điều kiện thuận lợi, lúc thuận lợi\n!as memory serves\n- mỗi khi nhớ đến\n!to serve the devil\n- độc ác, nham hiểm\n!to serve God (the Lord)\n- ngoan đạo\n!if my memory serves me right\n- nếu tôi không nhầm\n!it serves him right!\n- (xem) right\n!to serve an office\n- làm hết một nhiệm kỳ\n!to serve one's apprenticeship\n- (xem) apprenticeship\n!to serve one's sentence\n- chịu hết hạn tù\n!to serve one's time\n- giữ chức vụ hết nhiệm kỳ\n- (như) to serve one's sentence\n!to serve somebody with the same sauce\n!to serve somebody out\n- trả thù ai, ăn miếng trả miếng ai\n@Chuyên ngành kỹ thuật\n-phục vụ\n-thỏa mãn\n-xử lý\n@Lĩnh vực: toán & tin\n-điều khiển (máy)\n@Lĩnh vực: xây dựng\n-thụ ủy\n-thụ ủy viên
-
+serve	@serve /sə:v/
+*  danh từ
+- (thể dục,thể thao) cú giao bóng; lượt giao bóng (quần vợt...)
+=whose serve is it?+ đến lượt ai giao bóng?
+*  động từ
+- phục vụ, phụng sự
+=to serve one's country+ phục vụ tổ quốc
+=to serve in the army+ phục vụ trong quân đội
+=to serve at table+ đứng hầu bàn ăn
+- đáp ứng, có lợi cho, thoả mãn, hợp với
+=to serve a purpose+ đáp ứng một mục đích
+=to serve some private ends+ có lợi cho những mục đích riêng
+=1 kg serves him for a week+ một kilôgam có thể đủ cho anh ta trong một tuần
+=nothing would serve him+ chẳng có gì hợp với anh ta cả
+- dọn ăn, dọn bàn
+=to serve up dinner+ dọn cơm ăn
+=to serve somebody with soup+ dọn cháo cho ai ăn
+=to serve chicken three days running+ cho ăn thịt gà ba ngày liền
+- cung cấp, tiếp tế; phân phát
+=to serve ammunition+ tiếp đạn; phân phát đạn
+=to serve ration+ phân chia khẩu phần
+=to serve the town with water+ cung cấp nước cho thành phố
+=to serve a battery+ tiếp đạn cho một khẩu đội
+=to serve a customer with something+ bán cái gì cho một khách hàng
+- (thể dục,thể thao) giao bóng; giao (bóng)
+=to serve the ball+ giao bóng
+- đối xử, đối đãi
+=you may serve me as you will+ anh muốn đối với tôi thế nào cũng được
+=to serve somebody a trick+ chơi xỏ ai một vố
+- (pháp lý) tống đạt, gửi
+=to serve a writ on someone; to serve someone with a writ+ tống đạt trát đòi người nào ra toà
+- dùng (về việc gì)
+=a sofa serving as a bed+ một ghế xôfa dùng làm giường
+- nhảy (cái) (ngựa giống)
+!as occasion serves
+- khi có điều kiện thuận lợi, lúc thuận lợi
+!as memory serves
+- mỗi khi nhớ đến
+!to serve the devil
+- độc ác, nham hiểm
+!to serve God (the Lord)
+- ngoan đạo
+!if my memory serves me right
+- nếu tôi không nhầm
+!it serves him right!
+- (xem) right
+!to serve an office
+- làm hết một nhiệm kỳ
+!to serve one's apprenticeship
+- (xem) apprenticeship
+!to serve one's sentence
+- chịu hết hạn tù
+!to serve one's time
+- giữ chức vụ hết nhiệm kỳ
+- (như) to serve one's sentence
+!to serve somebody with the same sauce
+!to serve somebody out
+- trả thù ai, ăn miếng trả miếng ai
+@Chuyên ngành kỹ thuật
+-phục vụ
+-thỏa mãn
+-xử lý
+@Lĩnh vực: toán & tin
+-điều khiển (máy)
+@Lĩnh vực: xây dựng
+-thụ ủy
+-thụ ủy viên

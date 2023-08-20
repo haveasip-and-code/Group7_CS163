@@ -1,3 +1,2 @@
-motors
-	@Chuyên ngành kinh tế\n-chứng khoán công ty xe hơi
-
+motors	@Chuyên ngành kinh tế
+-chứng khoán công ty xe hơi

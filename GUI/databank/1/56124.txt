@@ -1,3 +1,12 @@
-testament
-	@testament /'testəmənt/\n*  danh từ\n- lời di chúc, chúc thư\n=to make one'stestament+ làm di chúc\n- (Testament) kinh thánh\n=the Old Testament+ kinh Cựu ước\n=the New Testament+ kinh Tân ước\n@Chuyên ngành kinh tế\n-chúc thư\n-di chúc\n@Chuyên ngành kỹ thuật\n-di chúc
-
+testament	@testament /'testəmənt/
+*  danh từ
+- lời di chúc, chúc thư
+=to make one'stestament+ làm di chúc
+- (Testament) kinh thánh
+=the Old Testament+ kinh Cựu ước
+=the New Testament+ kinh Tân ước
+@Chuyên ngành kinh tế
+-chúc thư
+-di chúc
+@Chuyên ngành kỹ thuật
+-di chúc

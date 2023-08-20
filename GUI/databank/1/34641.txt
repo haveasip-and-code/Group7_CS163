@@ -1,3 +1,3 @@
-metopic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc trán
-
+metopic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc trán

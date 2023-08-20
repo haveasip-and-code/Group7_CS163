@@ -1,3 +1,8 @@
-restart
-	@restart /'ri:'stɑ:t/\n*  ngoại động từ\n- lại bắt đầu, lại khởi đầu\n@Chuyên ngành kỹ thuật\n-bắt đầu lại\n-khởi động lại\n@Lĩnh vực: toán & tin\n-sự khởi động lại
-
+restart	@restart /'ri:'stɑ:t/
+*  ngoại động từ
+- lại bắt đầu, lại khởi đầu
+@Chuyên ngành kỹ thuật
+-bắt đầu lại
+-khởi động lại
+@Lĩnh vực: toán & tin
+-sự khởi động lại

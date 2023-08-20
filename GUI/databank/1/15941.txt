@@ -1,3 +1,4 @@
-dismounted
-	@Chuyên ngành kỹ thuật\n-đã dỡ xuống\n-đã tháo
-
+dismounted	
+@Chuyên ngành kỹ thuật
+-đã dỡ xuống
+-đã tháo

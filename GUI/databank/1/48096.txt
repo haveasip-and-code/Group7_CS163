@@ -1,3 +1,2 @@
-routinize
-	@routinize\n- xem routinise
-
+routinize	@routinize
+- xem routinise

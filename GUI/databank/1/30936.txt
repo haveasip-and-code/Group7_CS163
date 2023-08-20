@@ -1,3 +1,14 @@
-killer
-	@killer /'kilə/\n*  danh từ\n- người giết, kẻ giết người\n- dụng cụ giết thịt (súc vật)\n- (động vật học) cá heo ((cũng) killer whale)\n@Chuyên ngành kinh tế\n-dụng cụ diệt trừ\n-dụng cụ giết mổ\n@Chuyên ngành kỹ thuật\n-bộ triệt\n-bộ xóa\n@Chuyên ngành kỹ thuật\n-bộ triệt\n-bộ xóa
-
+killer	@killer /'kilə/
+*  danh từ
+- người giết, kẻ giết người
+- dụng cụ giết thịt (súc vật)
+- (động vật học) cá heo ((cũng) killer whale)
+@Chuyên ngành kinh tế
+-dụng cụ diệt trừ
+-dụng cụ giết mổ
+@Chuyên ngành kỹ thuật
+-bộ triệt
+-bộ xóa
+@Chuyên ngành kỹ thuật
+-bộ triệt
+-bộ xóa

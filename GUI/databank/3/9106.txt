@@ -1,3 +1,2 @@
-chirping
-	@Chuyên ngành kỹ thuật\n-sự di tần
-
+chirping	@Chuyên ngành kỹ thuật
+-sự di tần

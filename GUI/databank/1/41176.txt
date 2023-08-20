@@ -1,3 +1,2 @@
-phonemicist
-	@phonemicist\n- xem phonemics
-
+phonemicist	@phonemicist
+- xem phonemics

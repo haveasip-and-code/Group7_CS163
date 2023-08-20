@@ -1,3 +1,4 @@
-isogloss
-	@isogloss\n* danh từ\n- đường đồng ngữ
-
+isogloss	
+@isogloss
+* danh từ
+- đường đồng ngữ

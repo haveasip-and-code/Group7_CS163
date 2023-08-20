@@ -1,3 +1,19 @@
-beak
-	@beak /bi:k/\n*  danh từ\n- mỏ (chim)\n- vật hình mỏ\n- mũi khoằm\n- mũi đe (đầu nhọn của cái đe)\n- vòi ấm\n- (thông tục) thẩm phán, quan toà\n- (từ lóng) giáo viên; hiệu trưởng\n@Chuyên ngành kinh tế\n-miệng chai\n-vòi\n-vòi ấm\n@Chuyên ngành kỹ thuật\n-mỏ\n@Lĩnh vực: cơ khí & công trình\n-mỏ đe\n-mũi (tôn kim loại)
-
+beak	
+@beak /bi:k/
+*  danh từ
+- mỏ (chim)
+- vật hình mỏ
+- mũi khoằm
+- mũi đe (đầu nhọn của cái đe)
+- vòi ấm
+- (thông tục) thẩm phán, quan toà
+- (từ lóng) giáo viên; hiệu trưởng
+@Chuyên ngành kinh tế
+-miệng chai
+-vòi
+-vòi ấm
+@Chuyên ngành kỹ thuật
+-mỏ
+@Lĩnh vực: cơ khí & công trình
+-mỏ đe
+-mũi (tôn kim loại)

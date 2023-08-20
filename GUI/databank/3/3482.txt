@@ -1,3 +1,2 @@
-ascendible
-	@ascendible\n- xem ascend
-
+ascendible	@ascendible
+- xem ascend

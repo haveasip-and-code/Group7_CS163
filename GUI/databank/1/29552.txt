@@ -1,3 +1,5 @@
-interzonal
-	@Chuyên ngành kỹ thuật\n-liên vùng\n@Lĩnh vực: điện lạnh\n-giữa các vùng
-
+interzonal	
+@Chuyên ngành kỹ thuật
+-liên vùng
+@Lĩnh vực: điện lạnh
+-giữa các vùng

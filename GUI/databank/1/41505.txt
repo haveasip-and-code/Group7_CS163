@@ -1,3 +1,4 @@
-pied
-	@pied /paid/\n*  tính từ\n- lẫn màu, pha nhiều màu\n- khoang (chó), vá (ngựa)
-
+pied	@pied /paid/
+*  tính từ
+- lẫn màu, pha nhiều màu
+- khoang (chó), vá (ngựa)

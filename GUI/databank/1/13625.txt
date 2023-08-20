@@ -1,3 +1,14 @@
-deadening
-	@deadening\n* danh từ\n- việc làm cho yếu đi\n- sự dập tắt; sự tiêu hủy\n@Chuyên ngành kỹ thuật\n-làm yếu\n-sự cách âm\n-sự hả hơi\n-sự làm mờ\n-sự tiêu âm\n@Lĩnh vực: xây dựng\n-sự làm dịu\n-sự làm giảm
-
+deadening	
+@deadening
+* danh từ
+- việc làm cho yếu đi
+- sự dập tắt; sự tiêu hủy
+@Chuyên ngành kỹ thuật
+-làm yếu
+-sự cách âm
+-sự hả hơi
+-sự làm mờ
+-sự tiêu âm
+@Lĩnh vực: xây dựng
+-sự làm dịu
+-sự làm giảm

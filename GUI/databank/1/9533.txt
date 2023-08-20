@@ -1,3 +1,4 @@
-citify
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thành thị hóa
-
+citify	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thành thị hóa

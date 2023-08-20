@@ -1,3 +1,2 @@
-wabbling
-	@wabbling\n- xem wobbling
-
+wabbling	@wabbling
+- xem wobbling

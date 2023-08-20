@@ -1,3 +1,7 @@
-hepatocyte
-	@hepatocyte\n* danh từ\n- tế bào gan\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tế bào gan
-
+hepatocyte	
+@hepatocyte
+* danh từ
+- tế bào gan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tế bào gan

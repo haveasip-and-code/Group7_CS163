@@ -1,3 +1,4 @@
-forename
-	@forename /'fɔ:moust/\n*  danh từ\n- tên, tên thánh
-
+forename	
+@forename /'fɔ:moust/
+*  danh từ
+- tên, tên thánh

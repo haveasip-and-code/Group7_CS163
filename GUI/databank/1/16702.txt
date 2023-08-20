@@ -1,3 +1,15 @@
-draining
-	@Chuyên ngành kinh tế\n-sự chảy\n-sự tháo khô nước\n@Chuyên ngành kỹ thuật\n-nhỏ giọt\n-sự tháo nước\n-sự thoát nước\n-sự tiêu nước\n-tháo nước\n-thoát nước\n@Lĩnh vực: xây dựng\n-sự rút nước\n@Lĩnh vực: cơ khí & công trình\n-sự tháo khô
-
+draining	
+@Chuyên ngành kinh tế
+-sự chảy
+-sự tháo khô nước
+@Chuyên ngành kỹ thuật
+-nhỏ giọt
+-sự tháo nước
+-sự thoát nước
+-sự tiêu nước
+-tháo nước
+-thoát nước
+@Lĩnh vực: xây dựng
+-sự rút nước
+@Lĩnh vực: cơ khí & công trình
+-sự tháo khô

@@ -1,3 +1,9 @@
-slowness
-	@slowness /'slounis/\n*  danh từ\n- sự chậm chạp\n- sự kém lanh lợi, sự đần độn\n- sự buồn tẻ (cuộc biểu diễn)\n- sự chậm lại (đồng hồ)\n@Chuyên ngành kỹ thuật\n-sự chậm\n-sự muộn
-
+slowness	@slowness /'slounis/
+*  danh từ
+- sự chậm chạp
+- sự kém lanh lợi, sự đần độn
+- sự buồn tẻ (cuộc biểu diễn)
+- sự chậm lại (đồng hồ)
+@Chuyên ngành kỹ thuật
+-sự chậm
+-sự muộn

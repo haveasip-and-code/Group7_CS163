@@ -1,3 +1,7 @@
-groceries
-	@groceries\n* danh từ số nhiều\n- hàng tạp phẩm\n@Chuyên ngành kinh tế\n-hàng tạp hóa và thực phẩm phụ\n-hàng tạp phẩm
-
+groceries	
+@groceries
+* danh từ số nhiều
+- hàng tạp phẩm
+@Chuyên ngành kinh tế
+-hàng tạp hóa và thực phẩm phụ
+-hàng tạp phẩm

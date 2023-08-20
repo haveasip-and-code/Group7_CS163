@@ -1,3 +1,13 @@
-cyst
-	@cyst /sist/\n*  danh từ\n- (sinh vật học) túi bao, nang, bào xác\n- (y học) nang, u nang\n@Chuyên ngành kinh tế\n-bọng\n-nang\n-túi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nang (u nang)\n@Lĩnh vực: xây dựng\n-thớ xoắn (gỗ)
-
+cyst	@cyst /sist/
+*  danh từ
+- (sinh vật học) túi bao, nang, bào xác
+- (y học) nang, u nang
+@Chuyên ngành kinh tế
+-bọng
+-nang
+-túi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nang (u nang)
+@Lĩnh vực: xây dựng
+-thớ xoắn (gỗ)

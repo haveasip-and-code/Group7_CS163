@@ -1,3 +1,42 @@
-reed
-	@reed /ri:d/\n*  danh từ\n- (thực vật học) sậy\n- tranh (để lợp nhà)\n- (thơ ca) mũi tên\n- (thơ ca) ống sáo bằng sậy\n- thơ đồng quê\n- (âm nhạc) lưỡi gà\n- (số nhiều) nhạc khí có lưỡi gà\n- (nghành dệt) khổ khuôn, go\n!a broken reed\n- người không thể nhờ cậy được; vật không thể dựa vào được\n!to lean on a read\n- dựa vào một cái gì không chắc chắn, nhờ cậy người nào không có thế lực\n*  ngoại động từ\n- lợp tranh (mái nhà)\n- đánh (cỏ) thành tranh\n- (âm nhạc) đặt lưỡi gà (vào nhạc khí)\n@Chuyên ngành kinh tế\n-dạ cỏ (gia súc)\n-lau sậy\n-thuốc sợi (được làm thơm để làm thuốc điếu)\n@Chuyên ngành kỹ thuật\n-cây sậy\n-lau\n-lau sậy\n-lược bóc (máy chải)\n-lược khổ\n-lưỡi gà\n-sậy\n@Lĩnh vực: cơ khí & công trình\n-cỏ tranh\n@Lĩnh vực: xây dựng\n-hình trang trí gờ\n-lợp tranh\n-thanh cửa chắn\n-tranh lợp nhà\n@Lĩnh vực: dệt may\n-khổ bìa\n-khung go\n@Lĩnh vực: ô tô\n-lưỡi gà (trong van lưỡi gà)
-
+reed	@reed /ri:d/
+*  danh từ
+- (thực vật học) sậy
+- tranh (để lợp nhà)
+- (thơ ca) mũi tên
+- (thơ ca) ống sáo bằng sậy
+- thơ đồng quê
+- (âm nhạc) lưỡi gà
+- (số nhiều) nhạc khí có lưỡi gà
+- (nghành dệt) khổ khuôn, go
+!a broken reed
+- người không thể nhờ cậy được; vật không thể dựa vào được
+!to lean on a read
+- dựa vào một cái gì không chắc chắn, nhờ cậy người nào không có thế lực
+*  ngoại động từ
+- lợp tranh (mái nhà)
+- đánh (cỏ) thành tranh
+- (âm nhạc) đặt lưỡi gà (vào nhạc khí)
+@Chuyên ngành kinh tế
+-dạ cỏ (gia súc)
+-lau sậy
+-thuốc sợi (được làm thơm để làm thuốc điếu)
+@Chuyên ngành kỹ thuật
+-cây sậy
+-lau
+-lau sậy
+-lược bóc (máy chải)
+-lược khổ
+-lưỡi gà
+-sậy
+@Lĩnh vực: cơ khí & công trình
+-cỏ tranh
+@Lĩnh vực: xây dựng
+-hình trang trí gờ
+-lợp tranh
+-thanh cửa chắn
+-tranh lợp nhà
+@Lĩnh vực: dệt may
+-khổ bìa
+-khung go
+@Lĩnh vực: ô tô
+-lưỡi gà (trong van lưỡi gà)

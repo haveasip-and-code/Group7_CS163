@@ -1,3 +1,28 @@
-departure
-	@departure /di'pɑ:tʃə/\n*  danh từ\n- sự rời khỏi, sự ra đi, sự khởi hành\n=to take one's departure+ ra đi, lên đường\n- sự sao lãng (nhiệm vụ); sự đi trệch (hướng), sự lạc (đề)\n- (từ lóng) sự chệch hướng; sự đổi hướng\n=a new departure in politics+ một hướng mới về chính trị\n- (định ngữ) khởi hành; xuất phát\n=departure position+ vị trí xuất phát\n@Chuyên ngành kinh tế\n-khởi hành\n-rời cảng (của tàu bè)\n-sự xuất phát\n@Chuyên ngành kỹ thuật\n-độ lệch\n-độ sai\n-sự lệch\n-sự sai lệch\n-sự xuất phát\n-xuất phát\n@Lĩnh vực: toán & tin\n-độ lệnh\n@Lĩnh vực: xây dựng\n-kinh sai\n@Lĩnh vực: điện lạnh\n-nơi xuất phát\n-sự sai khác
-
+departure	
+@departure /di'pɑ:tʃə/
+*  danh từ
+- sự rời khỏi, sự ra đi, sự khởi hành=to take one's departure
++ ra đi, lên đường
+- sự sao lãng (nhiệm vụ); sự đi trệch (hướng), sự lạc (đề)
+- (từ lóng) sự chệch hướng; sự đổi hướng=a new departure in politics
++ một hướng mới về chính trị
+- (định ngữ) khởi hành; xuất phát=departure position
++ vị trí xuất phát
+@Chuyên ngành kinh tế
+-khởi hành
+-rời cảng (của tàu bè)
+-sự xuất phát
+@Chuyên ngành kỹ thuật
+-độ lệch
+-độ sai
+-sự lệch
+-sự sai lệch
+-sự xuất phát
+-xuất phát
+@Lĩnh vực: toán & tin
+-độ lệnh
+@Lĩnh vực: xây dựng
+-kinh sai
+@Lĩnh vực: điện lạnh
+-nơi xuất phát
+-sự sai khác

@@ -1,3 +1,2 @@
-stollen
-	@Chuyên ngành kinh tế\n-bánh mì ngọt
-
+stollen	@Chuyên ngành kinh tế
+-bánh mì ngọt

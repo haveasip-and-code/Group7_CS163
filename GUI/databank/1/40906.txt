@@ -1,3 +1,2 @@
-pesterer
-	@pesterer\n- xem pester
-
+pesterer	@pesterer
+- xem pester

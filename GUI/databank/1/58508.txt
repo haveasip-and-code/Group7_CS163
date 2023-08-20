@@ -1,3 +1,8 @@
-ultraviolet
-	@ultraviolet\n* tính từ\n- (vật lý) cực tím, tử ngoại (về bức xạ)\n= ultraviolet rays+những tia tử ngoại\n- (thuộc) sự phát quang; sử dụng sự phát quang (của tia cực tím)\n= an ultraviolet lamp+đèn tử ngoại\n@Chuyên ngành kỹ thuật\n-bức xạ tử ngoại
-
+ultraviolet	@ultraviolet
+* tính từ
+- (vật lý) cực tím, tử ngoại (về bức xạ)
+= ultraviolet rays+những tia tử ngoại
+- (thuộc) sự phát quang; sử dụng sự phát quang (của tia cực tím)
+= an ultraviolet lamp+đèn tử ngoại
+@Chuyên ngành kỹ thuật
+-bức xạ tử ngoại

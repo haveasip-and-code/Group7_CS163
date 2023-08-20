@@ -1,3 +1,50 @@
-crash
-	@crash /kræʃ/\n*  danh từ\n- vải thô (làm khăn lau...)\n- tiếng đổ vỡ loảng xoảng, tiếng va chạm loảng xoảng, tiếng đổ sầm, tiếng nổ (sét...)\n- sự rơi (máy bay); sự đâm sầm vào (ô tô)\n- (nghĩa bóng) sự phá sản, sự sụp đổ\n*  nội động từ\n- rơi vỡ loảng xoảng, dổ ầm xuống\n- đâm sầm xuống, đâm sầm vào\n=the aeroplane crashed on the hillside+ chiếc máy bay đâm sầm xuống sườn đồi\n=the car crashed into the gate+ chiếc xe hơi đâm sầm vào cổng\n- (nghĩa bóng) phá sản\n*  ngoại động từ\n- phá tan tành, phá vụn\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lẻn vào không có giấy mời, lẻn vào không có vé\n=to crash a party+ lẻn vào dự cuộc liên hoan không có giấy mời\n=to crash the gate+ lẻn vào cửa không có vé\n!to crash in (on)\n- tràn vào, đọt nhập vào, xâm nhập\n@Chuyên ngành kinh tế\n-phá sản tài chính\n-sự phá sản\n-sự phá sản hàng loạt\n-sự sụp đổ\n-sụp đổ (công ty)\n@Chuyên ngành kỹ thuật\n-bị hỏng\n-đổ vỡ\n-hỏng hóc\n-phá hủy\n-sự cố\n-sự đổ\n-tiếng nổ\n@Lĩnh vực: toán & tin\n-bị sự cố\n-sự cố chương trình\n-sự hỏng chương trình\n@Lĩnh vực: y học\n-đâm\n@Lĩnh vực: ô tô\n-sự đụng xe\n@Lĩnh vực: giao thông & vận tải\n-sự rơi (máy bay)\n-sự va đụng\n-sự va quệt (ôtô)\n@Lĩnh vực: cơ khí & công trình\n-sự va vỡ\n-tai biến\n@Lĩnh vực: xây dựng\n-tiếng vỡ bể
-
+crash	@crash /kræʃ/
+*  danh từ
+- vải thô (làm khăn lau...)
+- tiếng đổ vỡ loảng xoảng, tiếng va chạm loảng xoảng, tiếng đổ sầm, tiếng nổ (sét...)
+- sự rơi (máy bay); sự đâm sầm vào (ô tô)
+- (nghĩa bóng) sự phá sản, sự sụp đổ
+*  nội động từ
+- rơi vỡ loảng xoảng, dổ ầm xuống
+- đâm sầm xuống, đâm sầm vào
+=the aeroplane crashed on the hillside+ chiếc máy bay đâm sầm xuống sườn đồi
+=the car crashed into the gate+ chiếc xe hơi đâm sầm vào cổng
+- (nghĩa bóng) phá sản
+*  ngoại động từ
+- phá tan tành, phá vụn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lẻn vào không có giấy mời, lẻn vào không có vé
+=to crash a party+ lẻn vào dự cuộc liên hoan không có giấy mời
+=to crash the gate+ lẻn vào cửa không có vé
+!to crash in (on)
+- tràn vào, đọt nhập vào, xâm nhập
+@Chuyên ngành kinh tế
+-phá sản tài chính
+-sự phá sản
+-sự phá sản hàng loạt
+-sự sụp đổ
+-sụp đổ (công ty)
+@Chuyên ngành kỹ thuật
+-bị hỏng
+-đổ vỡ
+-hỏng hóc
+-phá hủy
+-sự cố
+-sự đổ
+-tiếng nổ
+@Lĩnh vực: toán & tin
+-bị sự cố
+-sự cố chương trình
+-sự hỏng chương trình
+@Lĩnh vực: y học
+-đâm
+@Lĩnh vực: ô tô
+-sự đụng xe
+@Lĩnh vực: giao thông & vận tải
+-sự rơi (máy bay)
+-sự va đụng
+-sự va quệt (ôtô)
+@Lĩnh vực: cơ khí & công trình
+-sự va vỡ
+-tai biến
+@Lĩnh vực: xây dựng
+-tiếng vỡ bể

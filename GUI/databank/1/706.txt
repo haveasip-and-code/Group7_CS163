@@ -1,3 +1,26 @@
-additive
-	@additive /'æditiv/\n*  tính từ\n- để cộng vào, để thêm vào\n*  danh từ\n- vật để cộng vào, vật để thêm vào\n- (kỹ thuật) chất cho thêm vào (vào dầu máy...)\n@Chuyên ngành kinh tế\n-chất phụ gia\n@Chuyên ngành kỹ thuật\n-bám dính\n-bổ sung\n-chất pha\n-cộng\n-phụ gia\n-thêm\n@Lĩnh vực: xây dựng\n-chất độn dính\n@Lĩnh vực: toán & tin\n-có tính cộng\n-cộng được\n-cộng tính\n-cộng tính (số hạng)\n@Lĩnh vực: điện lạnh\n-cộng vào\n-tính cộng
-
+additive	
+@additive /'æditiv/
+*  tính từ
+- để cộng vào, để thêm vào
+*  danh từ
+- vật để cộng vào, vật để thêm vào
+- (kỹ thuật) chất cho thêm vào (vào dầu máy...)
+@Chuyên ngành kinh tế
+-chất phụ gia
+@Chuyên ngành kỹ thuật
+-bám dính
+-bổ sung
+-chất pha
+-cộng
+-phụ gia
+-thêm
+@Lĩnh vực: xây dựng
+-chất độn dính
+@Lĩnh vực: toán & tin
+-có tính cộng
+-cộng được
+-cộng tính
+-cộng tính (số hạng)
+@Lĩnh vực: điện lạnh
+-cộng vào
+-tính cộng

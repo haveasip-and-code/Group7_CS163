@@ -1,3 +1,6 @@
-upthrust
-	@upthrust /' p' r st/\n*  danh từ\n- (địa lý,địa chất) sự nâng lên, sự trồi lên\n@Chuyên ngành kỹ thuật\n-phay nghịch\n-sự trồi lên
-
+upthrust	@upthrust /' p' r st/
+*  danh từ
+- (địa lý,địa chất) sự nâng lên, sự trồi lên
+@Chuyên ngành kỹ thuật
+-phay nghịch
+-sự trồi lên

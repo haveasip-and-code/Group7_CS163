@@ -1,3 +1,2 @@
-thoraxes
-	@thoraxes\n- xem thoraxes
-
+thoraxes	@thoraxes
+- xem thoraxes

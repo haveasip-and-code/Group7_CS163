@@ -1,3 +1,2 @@
-provincialization
-	@provincialization\n- xem provincialize
-
+provincialization	@provincialization
+- xem provincialize

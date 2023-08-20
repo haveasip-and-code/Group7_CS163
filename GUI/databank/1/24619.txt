@@ -1,3 +1,30 @@
-gut
-	@gut /gʌt/\n*  danh từ\n- ruột\n=small gut+ ruột non\n=blind gut+ ruột tịt\n- (số nhiều) ruột, lòng (thú vật)\n- sự can đảm, sự quyết tâm; (số nhiều) (thực vật học) sự gan góc, sự gan dạ, khí phách, tinh thần chịu đựng\n=a fellow full of gut+ người can đảm gan góc\n- (số nhiều) (thông tục) cái bụng, cái thùng chứa (tượng trưng cho sự tham ăn, tham uống)\n- (số nhiều) (thông tục) nội dung chính, phần có giá trị (của cái gì)\n=guts of a speech+ nội dung chính của bài nói\n- dây ruột mèo (dùng cho đàn viôlông); dây cước (để câu cá); chỉ khâu vết mổ\n- đường hẻm nhỏ; cửa hẹp (sông, biển)\n*  ngoại động từ\n- moi ruột (một con vật)\n=to gut a fish+ moi ruột cá\n- phá huỷ bên trong\n=a house gutted by fire+ ngôi nhà bị lửa thiêu sạch bên trong (chỉ còn bốn bức tường)\n- rút ruột, rút gan; rút hết tinh tuý (một cuốn sách)\n*  nội động từ\n- tọng, nốc cho đầy\n@Chuyên ngành kinh tế\n-bỏ ruột\n-moi ruột\n-ruột\n@Chuyên ngành kỹ thuật\n-kênh\n-máng\n-ruột
-
+gut	
+@gut /gʌt/
+*  danh từ
+- ruột=small gut
++ ruột non=blind gut
++ ruột tịt
+- (số nhiều) ruột, lòng (thú vật)
+- sự can đảm, sự quyết tâm; (số nhiều) (thực vật học) sự gan góc, sự gan dạ, khí phách, tinh thần chịu đựng=a fellow full of gut
++ người can đảm gan góc
+- (số nhiều) (thông tục) cái bụng, cái thùng chứa (tượng trưng cho sự tham ăn, tham uống)
+- (số nhiều) (thông tục) nội dung chính, phần có giá trị (của cái gì)=guts of a speech
++ nội dung chính của bài nói
+- dây ruột mèo (dùng cho đàn viôlông); dây cước (để câu cá); chỉ khâu vết mổ
+- đường hẻm nhỏ; cửa hẹp (sông, biển)
+*  ngoại động từ
+- moi ruột (một con vật)=to gut a fish
++ moi ruột cá
+- phá huỷ bên trong=a house gutted by fire
++ ngôi nhà bị lửa thiêu sạch bên trong (chỉ còn bốn bức tường)
+- rút ruột, rút gan; rút hết tinh tuý (một cuốn sách)
+*  nội động từ
+- tọng, nốc cho đầy
+@Chuyên ngành kinh tế
+-bỏ ruột
+-moi ruột
+-ruột
+@Chuyên ngành kỹ thuật
+-kênh
+-máng
+-ruột

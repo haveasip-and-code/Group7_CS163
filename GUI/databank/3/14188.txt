@@ -1,3 +1,2 @@
-deionize
-	@Chuyên ngành kỹ thuật\n-khử iôn hóa
-
+deionize	@Chuyên ngành kỹ thuật
+-khử iôn hóa

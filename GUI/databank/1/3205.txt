@@ -1,3 +1,18 @@
-archives
-	@archives /'ɑ:kitreiv/\n*  danh từ số nhiều\n- văn thư lưu trữ\n- cơ quan lưu trữ\n@Chuyên ngành kinh tế\n-kho văn thư lưu trữ\n-văn thư lưu trữ\n@Chuyên ngành kỹ thuật\n-lưu trữ\n-nơi lưu trữ\n-phòng lưu trữ\n@Lĩnh vực: toán & tin\n-kho chữ\n-kho lưu trữ\n-niêm cất\n@Lĩnh vực: xây dựng\n-nhà lưu trữ
-
+archives	
+@archives /'ɑ:kitreiv/
+*  danh từ số nhiều
+- văn thư lưu trữ
+- cơ quan lưu trữ
+@Chuyên ngành kinh tế
+-kho văn thư lưu trữ
+-văn thư lưu trữ
+@Chuyên ngành kỹ thuật
+-lưu trữ
+-nơi lưu trữ
+-phòng lưu trữ
+@Lĩnh vực: toán & tin
+-kho chữ
+-kho lưu trữ
+-niêm cất
+@Lĩnh vực: xây dựng
+-nhà lưu trữ

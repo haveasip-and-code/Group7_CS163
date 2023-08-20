@@ -1,3 +1,3 @@
-salometer
-	@Chuyên ngành kinh tế\n-dụng cụ đo nước muối\n-phù kế muối
-
+salometer	@Chuyên ngành kinh tế
+-dụng cụ đo nước muối
+-phù kế muối

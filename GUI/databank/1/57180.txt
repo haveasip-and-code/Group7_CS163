@@ -1,3 +1,6 @@
-townsfolk
-	@townsfolk /'taunzfouk/\n*  danh từ\n- dân thành thị\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dân đô thị
-
+townsfolk	@townsfolk /'taunzfouk/
+*  danh từ
+- dân thành thị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dân đô thị

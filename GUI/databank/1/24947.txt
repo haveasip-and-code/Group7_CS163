@@ -1,3 +1,8 @@
-hangover
-	@hangover\n* danh từ\n- dư vị khó chịu do dùng thức uống có nồng độ cồn cao\n- vết tích, tàn tích\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sự tồn lưu
-
+hangover	
+@hangover
+* danh từ
+- dư vị khó chịu do dùng thức uống có nồng độ cồn cao
+- vết tích, tàn tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sự tồn lưu

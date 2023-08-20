@@ -1,3 +1,6 @@
-carotenoid
-	@Chuyên ngành kinh tế\n-carotinoit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nhóm chất carotene
-
+carotenoid	
+@Chuyên ngành kinh tế
+-carotinoit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nhóm chất carotene

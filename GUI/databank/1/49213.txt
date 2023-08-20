@@ -1,3 +1,11 @@
-scrabble
-	@scrabble /'skræbl/\n*  danh từ\n- chữ nguệch ngoạc, chữ viết ngoáy\n- sự cào bới\n- sự quờ quạng (tìm vật gì)\n*  ngoại động từ\n- viết nguệch ngoạc, viết ngoáy\n- cào, bới\n- quờ quạng, sờ soạng (tìm vật gì...)\n@Chuyên ngành kỹ thuật\n-bò trườn
-
+scrabble	@scrabble /'skræbl/
+*  danh từ
+- chữ nguệch ngoạc, chữ viết ngoáy
+- sự cào bới
+- sự quờ quạng (tìm vật gì)
+*  ngoại động từ
+- viết nguệch ngoạc, viết ngoáy
+- cào, bới
+- quờ quạng, sờ soạng (tìm vật gì...)
+@Chuyên ngành kỹ thuật
+-bò trườn

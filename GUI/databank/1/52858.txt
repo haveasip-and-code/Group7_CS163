@@ -1,3 +1,27 @@
-stabilizer
-	@stabilizer /'steibilalzə/\n*  danh từ\n- máy ổn định, bộ ổn định; chất ổn định; chất ổn định\n- bộ phận thăng bằng (ở sườn tàu thuỷ, ở đuôi máy bay)\n@Chuyên ngành kinh tế\n-chất làm ổn định\n-máy điều hòa\n@Chuyên ngành kỹ thuật\n-bộ ổn áp\n-bộ ổn định\n-chất gia cố\n-mặt thăng bằng ngang\n-ống làm ổn định\n@Lĩnh vực: điện lạnh\n-bộ ổn định tàu thủy (giảm chao đảo)\n@Lĩnh vực: xây dựng\n-chân chống (ở máy trục di động để tạo sự ổn định)\n@Lĩnh vực: hóa học & vật liệu\n-chất (làm) ổn định\n-chất làm ổn định\n-chất nhũ tương hóa\n-chất ổn định\n@Lĩnh vực: cơ khí & công trình\n-chất chống đông tụ\n-máy ổn định\n@Lĩnh vực: điện\n-máy ổn áp
-
+stabilizer	@stabilizer /'steibilalzə/
+*  danh từ
+- máy ổn định, bộ ổn định; chất ổn định; chất ổn định
+- bộ phận thăng bằng (ở sườn tàu thuỷ, ở đuôi máy bay)
+@Chuyên ngành kinh tế
+-chất làm ổn định
+-máy điều hòa
+@Chuyên ngành kỹ thuật
+-bộ ổn áp
+-bộ ổn định
+-chất gia cố
+-mặt thăng bằng ngang
+-ống làm ổn định
+@Lĩnh vực: điện lạnh
+-bộ ổn định tàu thủy (giảm chao đảo)
+@Lĩnh vực: xây dựng
+-chân chống (ở máy trục di động để tạo sự ổn định)
+@Lĩnh vực: hóa học & vật liệu
+-chất (làm) ổn định
+-chất làm ổn định
+-chất nhũ tương hóa
+-chất ổn định
+@Lĩnh vực: cơ khí & công trình
+-chất chống đông tụ
+-máy ổn định
+@Lĩnh vực: điện
+-máy ổn áp

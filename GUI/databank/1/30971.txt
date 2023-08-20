@@ -1,3 +1,2 @@
-kindler
-	@kindler\n- xem kindle
-
+kindler	@kindler
+- xem kindle

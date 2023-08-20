@@ -1,3 +1,2 @@
-compositional
-	@compositional\n- xem composition
-
+compositional	@compositional
+- xem composition

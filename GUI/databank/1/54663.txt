@@ -1,3 +1,5 @@
-supermini
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-máy tính siêu mini\n-máy tính siêu nhỏ\n-siêu nhỏ
-
+supermini	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-máy tính siêu mini
+-máy tính siêu nhỏ
+-siêu nhỏ

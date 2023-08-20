@@ -1,3 +1,2 @@
-piscinal
-	@piscinal\n- xem piscina
-
+piscinal	@piscinal
+- xem piscina

@@ -1,3 +1,18 @@
-swift
-	@swift /swift/\n*  tính từ & phó từ\n- mau, nhanh\n=a swift runner+ người chạy nhanh\n=a swift response+ câu trả lời nhanh\n=to have a swift wit+ nhanh trí\n=he answered swift+ nó trả lời nhanh\n*  danh từ\n- (động vật học) chim én\n- (động vật học) thằn lằn\n- (động vật học) con sa giông\n- khung xa (quay tơ)\n@Chuyên ngành kỹ thuật\n-chạy nhanh\n-cuộn dây\n@Lĩnh vực: dệt may\n-guồng quần\n-ống quần
-
+swift	@swift /swift/
+*  tính từ & phó từ
+- mau, nhanh
+=a swift runner+ người chạy nhanh
+=a swift response+ câu trả lời nhanh
+=to have a swift wit+ nhanh trí
+=he answered swift+ nó trả lời nhanh
+*  danh từ
+- (động vật học) chim én
+- (động vật học) thằn lằn
+- (động vật học) con sa giông
+- khung xa (quay tơ)
+@Chuyên ngành kỹ thuật
+-chạy nhanh
+-cuộn dây
+@Lĩnh vực: dệt may
+-guồng quần
+-ống quần

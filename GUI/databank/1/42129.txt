@@ -1,3 +1,2 @@
-plowable
-	@plowable\n- xem ploughable
-
+plowable	@plowable
+- xem ploughable

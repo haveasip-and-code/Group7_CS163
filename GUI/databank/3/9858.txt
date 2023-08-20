@@ -1,3 +1,9 @@
-closer
-	@closer\n- xem close\n@Chuyên ngành kỹ thuật\n-cái nắp\n-cái nút\n@Lĩnh vực: cơ khí & công trình\n-bộ phận đóng kín\n-bộ phận khép kín\n-máy bện (cáp)
-
+closer	@closer
+- xem close
+@Chuyên ngành kỹ thuật
+-cái nắp
+-cái nút
+@Lĩnh vực: cơ khí & công trình
+-bộ phận đóng kín
+-bộ phận khép kín
+-máy bện (cáp)

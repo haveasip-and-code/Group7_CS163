@@ -1,3 +1,9 @@
-puttying
-	@Chuyên ngành kỹ thuật\n-sự bôi trơn\n-sự trát kín\n@Lĩnh vực: xây dựng\n-sự bôi dầu\n-sự bôi mỡ\n-sự chèn lấp\n-sự gắn matit\n-sự trát matit
-
+puttying	@Chuyên ngành kỹ thuật
+-sự bôi trơn
+-sự trát kín
+@Lĩnh vực: xây dựng
+-sự bôi dầu
+-sự bôi mỡ
+-sự chèn lấp
+-sự gắn matit
+-sự trát matit

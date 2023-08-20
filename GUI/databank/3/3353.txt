@@ -1,3 +1,44 @@
-arrangement
-	@arrangement /ə'reindʤmənt/\n*  danh từ\n- sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt\n- ((thường) số nhiều) sự thu xếp, sự chuẩn bị\n=to make one's own arrangements+ tự thu xếp\n- sự dàn xếp, sự hoà giải\n=to come to on an arrangement+ đi đến chỗ dàn xếp, đi đến chỗ hoà giải\n=to make arrangements with somebody+ dàn xếp với ai\n- sự cải biên, sự soạn lại (bản nhạc, vở kịch...); bản cải tiến, bản soạn lại\n- (toán học) sự chỉnh hợp\n- (kỹ thuật) sự lắp ráp\n@Chuyên ngành kinh tế\n-dàn xếp\n-điều đình\n-hiệp định\n-sắp đặt\n-sự thương lượng\n-thỏa thuận\n@Chuyên ngành kỹ thuật\n-bố cục\n-bố trí\n-quy hoạch\n-sắp xếp\n-sơ đồ\n-sự bố cục\n-sự bố trí\n-sự chỉnh hợp\n-sự đặt\n-sự lắp ráp\n-sự phối hợp\n-sự sắp đặt\n-sự sắp xếp\n-sự tổ hợp\n-sự xắp xếp\n-thiết bị\n@Lĩnh vực: toán & tin\n-cách sắp đặt\n-chỉnh hợp\n@Lĩnh vực: xây dựng\n-cách xếp đặt\n-qui hoạch\n-sự ghép bộ\n-sự sửa soạn\n-sự xếp
-
+arrangement	@arrangement /ə'reindʤmənt/
+*  danh từ
+- sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt
+- ((thường) số nhiều) sự thu xếp, sự chuẩn bị
+=to make one's own arrangements+ tự thu xếp
+- sự dàn xếp, sự hoà giải
+=to come to on an arrangement+ đi đến chỗ dàn xếp, đi đến chỗ hoà giải
+=to make arrangements with somebody+ dàn xếp với ai
+- sự cải biên, sự soạn lại (bản nhạc, vở kịch...); bản cải tiến, bản soạn lại
+- (toán học) sự chỉnh hợp
+- (kỹ thuật) sự lắp ráp
+@Chuyên ngành kinh tế
+-dàn xếp
+-điều đình
+-hiệp định
+-sắp đặt
+-sự thương lượng
+-thỏa thuận
+@Chuyên ngành kỹ thuật
+-bố cục
+-bố trí
+-quy hoạch
+-sắp xếp
+-sơ đồ
+-sự bố cục
+-sự bố trí
+-sự chỉnh hợp
+-sự đặt
+-sự lắp ráp
+-sự phối hợp
+-sự sắp đặt
+-sự sắp xếp
+-sự tổ hợp
+-sự xắp xếp
+-thiết bị
+@Lĩnh vực: toán & tin
+-cách sắp đặt
+-chỉnh hợp
+@Lĩnh vực: xây dựng
+-cách xếp đặt
+-qui hoạch
+-sự ghép bộ
+-sự sửa soạn
+-sự xếp

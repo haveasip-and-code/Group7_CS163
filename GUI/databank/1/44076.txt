@@ -1,3 +1,8 @@
-propensity
-	@propensity /propensity/\n*  danh từ\n- thiên hướng\n@Chuyên ngành kinh tế\n-khuynh hướng\n@Chuyên ngành kỹ thuật\n-khuynh hướng\n-xu hướng
-
+propensity	@propensity /propensity/
+*  danh từ
+- thiên hướng
+@Chuyên ngành kinh tế
+-khuynh hướng
+@Chuyên ngành kỹ thuật
+-khuynh hướng
+-xu hướng

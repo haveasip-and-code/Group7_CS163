@@ -1,3 +1,77 @@
-double
-	@double /'dʌbl/\n*  tính từ\n- đôi, hai, kép\n=double chin+ cằm hai ngấn, cằm xị\n=double bed+ giường đôi\n=double note+ (âm nhạc) nốt đôi\n- gập đôi\n- nước đôi, hai mặt, hai nghĩa; giả dối, không thành thật, lá mặt, lá trái\n=to play a double game+ (thể dục,thể thao) đấu một trận kép (quần vợt, bóng bàn); chơi nước đôi, chơi lá mặt, lá trái\n- gấp đôi, to gấp đôi, mạnh gấp đôi, có giá trị gấp đôi\n=double ale+ xuất bia đôi\n- (thực vật học) kép (hoa)\n*  danh từ\n- cái gấp đôi, lượng gấp đôi\n- bản giống hệt, bản sao lục, cái giống hệt (cái khác); người giống hệt (người khác)\n- (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)\n=mixed doubles+ trận đánh đôi nam nữ\n- (sân khấu) người đóng thay thế (một vai)\n- bóng ma, hồn (người chết hiện hình)\n- sự chạy ngoặt thình lình (thú bị săn đuổi); khúc ngoặt đột ngột (của dòng sông)\n- (quân sự),  (thể dục,thể thao) bước chạy đều\n=to advance at the double+ tiến lên theo bước chạy đều\n*  phó từ\n- đôi, gấp đôi, gấp hai\n=to ride double+ cưỡi ngựa hai người (chung một ngựa)\n=to see double+ nhìn hoá hai\n=to pay double for something+ giả tiền gấp đôi cái gì\n- gập đôi, còng gập lại\n=bent double with age+ lưng còng gập lại vì tuổi tác\n*  ngoại động từ\n- làm gấp đôi, tăng gấp đôi, nhân gấp đôi\n=to double someone's wages+ tăng lương gấp đôi cho ai\n=to double the work+ làm gấp đôi công việc\n- ((thường) + up) gập đôi\n=to double up a sheet of paper+ gập người làm đôi\n- xếp (một hành khách...) vào cùng phòng với một người khác\n- (âm nhạc) tăng đôi\n- (sân khấu); (điện ảnh) đóng thay thế\n=to double a part+ đóng thay thế một vai\n=to double parts+ đóng hai vai trong cùng một vở, đóng hai vai trong cùng một phim\n- nắm chặt (nắm tay)\n=to double one's fist+ nắm chặt tay\n- (hàng hải) đi quanh (mũi biển)\n*  nội động từ\n- gấp đôi, tăng gấp đôi\n- ((thường) + up) bị gập đôi (tờ giấy...); gập người làm đôi\n=to double up with pain+ đau gập người lại\n- rẽ ngoặt thình lình, chạy ngoằn ngoèo (trong khi chạy trốn...)\n- (quân sự); (thể dục,thể thao) đi bước rào, chạy bước chạy đều\n@Chuyên ngành kinh tế\n-cái gấp đôi\n-đôi\n-gấp đôi\n-gấp hai\n-hai\n-kép\n-làm gấp đôi\n-lượng gấp đôi\n-nước đôi\n-tăng gấp đôi\n@Chuyên ngành kỹ thuật\n-đôi\n-đôi, hai, kép\n-gấp đôi\n-ghép\n-hai\n-kép\n-làm gấp đôi\n-lưỡng\n-nhân đôi\n@Lĩnh vực: điện lạnh\n-bội hai\n@Lĩnh vực: giao thông & vận tải\n-đi vòng qua
-
+double	
+@double /'dʌbl/
+*  tính từ
+- đôi, hai, kép=double chin
++ cằm hai ngấn, cằm xị=double bed
++ giường đôi=double note
++ (âm nhạc) nốt đôi
+- gập đôi
+- nước đôi, hai mặt, hai nghĩa; giả dối, không thành thật, lá mặt, lá trái=to play a double game
++ (thể dục,thể thao) đấu một trận kép (quần vợt, bóng bàn); chơi nước đôi, chơi lá mặt, lá trái
+- gấp đôi, to gấp đôi, mạnh gấp đôi, có giá trị gấp đôi=double ale
++ xuất bia đôi
+- (thực vật học) kép (hoa)
+*  danh từ
+- cái gấp đôi, lượng gấp đôi
+- bản giống hệt, bản sao lục, cái giống hệt (cái khác); người giống hệt (người khác)
+- (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)=mixed doubles
++ trận đánh đôi nam nữ
+- (sân khấu) người đóng thay thế (một vai)
+- bóng ma, hồn (người chết hiện hình)
+- sự chạy ngoặt thình lình (thú bị săn đuổi); khúc ngoặt đột ngột (của dòng sông)
+- (quân sự),  (thể dục,thể thao) bước chạy đều=to advance at the double
++ tiến lên theo bước chạy đều
+*  phó từ
+- đôi, gấp đôi, gấp hai=to ride double
++ cưỡi ngựa hai người (chung một ngựa)=to see double
++ nhìn hoá hai=to pay double for something
++ giả tiền gấp đôi cái gì
+- gập đôi, còng gập lại=bent double with age
++ lưng còng gập lại vì tuổi tác
+*  ngoại động từ
+- làm gấp đôi, tăng gấp đôi, nhân gấp đôi=to double someone's wages
++ tăng lương gấp đôi cho ai=to double the work
++ làm gấp đôi công việc
+- ((thường) 
++ up) gập đôi=to double up a sheet of paper
++ gập người làm đôi
+- xếp (một hành khách...) vào cùng phòng với một người khác
+- (âm nhạc) tăng đôi
+- (sân khấu); (điện ảnh) đóng thay thế=to double a part
++ đóng thay thế một vai=to double parts
++ đóng hai vai trong cùng một vở, đóng hai vai trong cùng một phim
+- nắm chặt (nắm tay)=to double one's fist
++ nắm chặt tay
+- (hàng hải) đi quanh (mũi biển)
+*  nội động từ
+- gấp đôi, tăng gấp đôi
+- ((thường) 
++ up) bị gập đôi (tờ giấy...); gập người làm đôi=to double up with pain
++ đau gập người lại
+- rẽ ngoặt thình lình, chạy ngoằn ngoèo (trong khi chạy trốn...)
+- (quân sự); (thể dục,thể thao) đi bước rào, chạy bước chạy đều
+@Chuyên ngành kinh tế
+-cái gấp đôi
+-đôi
+-gấp đôi
+-gấp hai
+-hai
+-kép
+-làm gấp đôi
+-lượng gấp đôi
+-nước đôi
+-tăng gấp đôi
+@Chuyên ngành kỹ thuật
+-đôi
+-đôi, hai, kép
+-gấp đôi
+-ghép
+-hai
+-kép
+-làm gấp đôi
+-lưỡng
+-nhân đôi
+@Lĩnh vực: điện lạnh
+-bội hai
+@Lĩnh vực: giao thông & vận tải
+-đi vòng qua

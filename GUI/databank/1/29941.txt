@@ -1,3 +1,20 @@
-irradiation
-	@irradiation /i,reidi'eiʃn/\n*  danh từ\n- sự soi sáng; được soi sáng ((nghĩa đen) & (nghĩa bóng))\n- sự sáng chói\n- tia sáng\n- (vật lý) sự chiếu (bức xạ...); sự rọi\n@Chuyên ngành kinh tế\n-sự chiếu bức xạ\n@Chuyên ngành kỹ thuật\n-bức xạ\n-sự chiếu sáng\n-sự chiếu xạ\n-sự rọi\n@Lĩnh vực: xây dựng\n-bức xạ (chiếu)\n@Lĩnh vực: y học\n-chiếu xạ\n@Lĩnh vực: điện lạnh\n-sự chiếu
-
+irradiation	
+@irradiation /i,reidi'eiʃn/
+*  danh từ
+- sự soi sáng; được soi sáng ((nghĩa đen) & (nghĩa bóng))
+- sự sáng chói
+- tia sáng
+- (vật lý) sự chiếu (bức xạ...); sự rọi
+@Chuyên ngành kinh tế
+-sự chiếu bức xạ
+@Chuyên ngành kỹ thuật
+-bức xạ
+-sự chiếu sáng
+-sự chiếu xạ
+-sự rọi
+@Lĩnh vực: xây dựng
+-bức xạ (chiếu)
+@Lĩnh vực: y học
+-chiếu xạ
+@Lĩnh vực: điện lạnh
+-sự chiếu

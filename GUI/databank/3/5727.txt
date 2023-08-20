@@ -1,3 +1,7 @@
-bitts
-	@bitts /bits/\n*  (bất qui tắc) danh từ số nhiều\n- (hàng hải) cọc buộc dây cáp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cọc neo kép\n-cột neo kép
-
+bitts	@bitts /bits/
+*  (bất qui tắc) danh từ số nhiều
+- (hàng hải) cọc buộc dây cáp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-cọc neo kép
+-cột neo kép

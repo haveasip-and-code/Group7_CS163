@@ -1,3 +1,6 @@
-maskable
-	@maskable\n* tính từ\n- có thể che giấu/ngụy trang\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khả ngụy
-
+maskable	@maskable
+* tính từ
+- có thể che giấu/ngụy trang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khả ngụy

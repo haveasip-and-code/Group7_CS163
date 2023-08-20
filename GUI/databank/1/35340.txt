@@ -1,3 +1,10 @@
-modularity
-	@Chuyên ngành kinh tế\n-tính môđun\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hệ modun\n-tính đơn thể\n-tính mô đun\n-tính modun\n@Lĩnh vực: xây dựng\n-tính có môđun
-
+modularity	@Chuyên ngành kinh tế
+-tính môđun
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hệ modun
+-tính đơn thể
+-tính mô đun
+-tính modun
+@Lĩnh vực: xây dựng
+-tính có môđun

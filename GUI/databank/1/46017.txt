@@ -1,3 +1,12 @@
-reconditioning
-	@Chuyên ngành kỹ thuật\n-sự khôi phục\n-sự phục hồi\n-sự phục hồi lại\n-sự sửa chữa\n-sự tái tạo điều kiện\n-sự xây dựng lại\n@Lĩnh vực: cơ khí & công trình\n-công việc sửa chữa\n-sự sửa lại\n@Lĩnh vực: hóa học & vật liệu\n-sự tu sửa lại
-
+reconditioning	@Chuyên ngành kỹ thuật
+-sự khôi phục
+-sự phục hồi
+-sự phục hồi lại
+-sự sửa chữa
+-sự tái tạo điều kiện
+-sự xây dựng lại
+@Lĩnh vực: cơ khí & công trình
+-công việc sửa chữa
+-sự sửa lại
+@Lĩnh vực: hóa học & vật liệu
+-sự tu sửa lại

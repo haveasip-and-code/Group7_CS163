@@ -1,3 +1,5 @@
-radiocarbon
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-các bon phóng xạ\n@Lĩnh vực: điện lạnh\n-cacbon phóng xạ
-
+radiocarbon	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-các bon phóng xạ
+@Lĩnh vực: điện lạnh
+-cacbon phóng xạ

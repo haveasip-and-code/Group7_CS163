@@ -1,3 +1,10 @@
-aside
-	@aside /ə'said/\n*  phó từ\n- về một bên, sang một bên\n=to stand aside+ đứng sang một bên\n- riêng ra\n=to speak aside+ nói nhỏ, nói riêng (cho người khác khỏi nghe thấy)\n!aside from\n- (từ Mỹ,nghĩa Mỹ) ngoài ra, trừ ra\n*  danh từ\n- (sân khấu) lời nói một mình; lời nói riêng (không để cho diễn viên khác nghe thấy)
-
+aside	@aside /ə'said/
+*  phó từ
+- về một bên, sang một bên
+=to stand aside+ đứng sang một bên
+- riêng ra
+=to speak aside+ nói nhỏ, nói riêng (cho người khác khỏi nghe thấy)
+!aside from
+- (từ Mỹ,nghĩa Mỹ) ngoài ra, trừ ra
+*  danh từ
+- (sân khấu) lời nói một mình; lời nói riêng (không để cho diễn viên khác nghe thấy)

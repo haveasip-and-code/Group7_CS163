@@ -1,3 +1,6 @@
-lest
-	@lest /lest/\n*  danh từ\n- (e) rằng, (sợ) rằng\n=we were afraid lest he should get here too late+ chúng tôi nghĩ rằng nó sẽ đến quá muộn\n- để... không để... khỏi\n=he ran away lest he shoud be seen+ nó bỏ chạy để cho người ta khỏi trông thấy
-
+lest	@lest /lest/
+*  danh từ
+- (e) rằng, (sợ) rằng
+=we were afraid lest he should get here too late+ chúng tôi nghĩ rằng nó sẽ đến quá muộn
+- để... không để... khỏi
+=he ran away lest he shoud be seen+ nó bỏ chạy để cho người ta khỏi trông thấy

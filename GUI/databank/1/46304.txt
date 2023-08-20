@@ -1,3 +1,13 @@
-reflectometer
-	@reflectometer\n* danh từ\n- phản xạ kế\n@Chuyên ngành kinh tế\n-phản xạ kế\n@Chuyên ngành kỹ thuật\n-phản xạ kế\n@Lĩnh vực: điện\n-đồng hồ phản xạ\n-máy đo xung dội\n@Lĩnh vực: điện lạnh\n-máy đo (ánh sáng) phản xạ\n-phản xạ kế viba
-
+reflectometer	@reflectometer
+* danh từ
+- phản xạ kế
+@Chuyên ngành kinh tế
+-phản xạ kế
+@Chuyên ngành kỹ thuật
+-phản xạ kế
+@Lĩnh vực: điện
+-đồng hồ phản xạ
+-máy đo xung dội
+@Lĩnh vực: điện lạnh
+-máy đo (ánh sáng) phản xạ
+-phản xạ kế viba

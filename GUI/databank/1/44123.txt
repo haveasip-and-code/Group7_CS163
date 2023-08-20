@@ -1,3 +1,8 @@
-proportioning
-	@Chuyên ngành kinh tế\n-sự cân đo liều lượng\n@Chuyên ngành kỹ thuật\n-sự định liều lượng\n-sự phối liệu\n-tỷ lệ\n@Lĩnh vực: xây dựng\n-sự chia liều lượng
-
+proportioning	@Chuyên ngành kinh tế
+-sự cân đo liều lượng
+@Chuyên ngành kỹ thuật
+-sự định liều lượng
+-sự phối liệu
+-tỷ lệ
+@Lĩnh vực: xây dựng
+-sự chia liều lượng

@@ -1,3 +1,38 @@
-bevel
-	@bevel /'bevəl/\n*  danh từ\n- góc xiên, cạnh xiên\n- cái đặt góc (của thợ mộc, thợ nề)\n*  ngoại động từ\n- làm cho xiên góc\n@Chuyên ngành kỹ thuật\n-cạnh vát\n-cắt chếch\n-cắt chéo\n-cắt xiên\n-độ nghiêng\n-dụng cụ đo góc\n-góc nghiêng\n-góc xiên\n-hình côn\n-hình nón\n-nghiêng\n-mặt dốc\n-mặt nghiêng\n-mặt nón\n-mặt vát\n-mép cắt vát\n-mép vát\n-sự vát chéo\n@Lĩnh vực: điện lạnh\n-dụng cụ định góc\n-thước định góc\n@Lĩnh vực: xây dựng\n-góc cắt vát\n-góc xiên (góc tà)\n-sự vạt cạnh\n-thợ nề)\n-thước đo 45 độ\n-thước nách\n@Lĩnh vực: cơ khí & công trình\n-vát nghiêng
-
+bevel	
+@bevel /'bevəl/
+*  danh từ
+- góc xiên, cạnh xiên
+- cái đặt góc (của thợ mộc, thợ nề)
+*  ngoại động từ
+- làm cho xiên góc
+@Chuyên ngành kỹ thuật
+-cạnh vát
+-cắt chếch
+-cắt chéo
+-cắt xiên
+-độ nghiêng
+-dụng cụ đo góc
+-góc nghiêng
+-góc xiên
+-hình côn
+-hình nón
+-nghiêng
+-mặt dốc
+-mặt nghiêng
+-mặt nón
+-mặt vát
+-mép cắt vát
+-mép vát
+-sự vát chéo
+@Lĩnh vực: điện lạnh
+-dụng cụ định góc
+-thước định góc
+@Lĩnh vực: xây dựng
+-góc cắt vát
+-góc xiên (góc tà)
+-sự vạt cạnh
+-thợ nề)
+-thước đo 45 độ
+-thước nách
+@Lĩnh vực: cơ khí & công trình
+-vát nghiêng

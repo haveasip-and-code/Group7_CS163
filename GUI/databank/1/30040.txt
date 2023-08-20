@@ -1,3 +1,16 @@
-irrigate
-	@irrigate /'irigeit/\n*  ngoại động từ\n- tưới (đất, ruộng)\n- (y học) rửa (vết thương...)\n- làm ướt, làm ẩm\n*  nội động từ\n- tưới\n- (từ lóng) uống bứ bừ\n@Chuyên ngành kỹ thuật\n-làm ẩm\n-làm ướt\n-nước tưới\n-tưới phun\n@Lĩnh vực: cơ khí & công trình\n-có thể tưới được
-
+irrigate	
+@irrigate /'irigeit/
+*  ngoại động từ
+- tưới (đất, ruộng)
+- (y học) rửa (vết thương...)
+- làm ướt, làm ẩm
+*  nội động từ
+- tưới
+- (từ lóng) uống bứ bừ
+@Chuyên ngành kỹ thuật
+-làm ẩm
+-làm ướt
+-nước tưới
+-tưới phun
+@Lĩnh vực: cơ khí & công trình
+-có thể tưới được

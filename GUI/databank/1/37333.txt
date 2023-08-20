@@ -1,3 +1,12 @@
-objection
-	@objection /əb'dʤekʃn/\n*  danh từ\n- sự phản đối, sự chống đối\n=to take objection+ phản đối\n=to raise no objection+ không phản đối\n- sự bất bình; sự không thích, sự khó chịu\n- điều bị phản đối\n- lý do phản đối\n@Chuyên ngành kỹ thuật\n-phản đối\n-sự đòi bồi thường\n-sự kháng nghị
-
+objection	@objection /əb'dʤekʃn/
+*  danh từ
+- sự phản đối, sự chống đối
+=to take objection+ phản đối
+=to raise no objection+ không phản đối
+- sự bất bình; sự không thích, sự khó chịu
+- điều bị phản đối
+- lý do phản đối
+@Chuyên ngành kỹ thuật
+-phản đối
+-sự đòi bồi thường
+-sự kháng nghị

@@ -1,3 +1,8 @@
-rounds
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-biến dạng tròn\n-đai tròn\n-gờ bán nguyệt\n-gờ tròn\n@Lĩnh vực: cơ khí & công trình\n-profin tròn
-
+rounds	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-biến dạng tròn
+-đai tròn
+-gờ bán nguyệt
+-gờ tròn
+@Lĩnh vực: cơ khí & công trình
+-profin tròn

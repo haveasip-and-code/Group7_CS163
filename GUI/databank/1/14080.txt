@@ -1,3 +1,22 @@
-deflate
-	@deflate /di'fleit/\n*  ngoại động từ\n- tháo hơi, xả hơi; làm xì hơi, làm xẹp\n- (tài chính) giải lạm phát\n- (từ Mỹ,nghĩa Mỹ) giảm giá, hạ giá\n@Chuyên ngành kinh tế\n-bình giảm (nền kinh tế)\n-giảm giá\n-giảm phát\n-làm chậm lại\n@Chuyên ngành kỹ thuật\n-giãn ra\n-làm xẹp\n-xả\n@Lĩnh vực: toán & tin\n-hạ hạng\n@Lĩnh vực: xây dựng\n-tháo hơi\n-xẹp xuống\n@Lĩnh vực: cơ khí & công trình\n-xì
-
+deflate	
+@deflate /di'fleit/
+*  ngoại động từ
+- tháo hơi, xả hơi; làm xì hơi, làm xẹp
+- (tài chính) giải lạm phát
+- (từ Mỹ,nghĩa Mỹ) giảm giá, hạ giá
+@Chuyên ngành kinh tế
+-bình giảm (nền kinh tế)
+-giảm giá
+-giảm phát
+-làm chậm lại
+@Chuyên ngành kỹ thuật
+-giãn ra
+-làm xẹp
+-xả
+@Lĩnh vực: toán & tin
+-hạ hạng
+@Lĩnh vực: xây dựng
+-tháo hơi
+-xẹp xuống
+@Lĩnh vực: cơ khí & công trình
+-xì

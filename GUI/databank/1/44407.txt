@@ -1,3 +1,6 @@
-prurigo
-	@prurigo /prurigo/\n*  danh từ\n- (y học) bệnh ngứa sần\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ngứa sần
-
+prurigo	@prurigo /prurigo/
+*  danh từ
+- (y học) bệnh ngứa sần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ngứa sần

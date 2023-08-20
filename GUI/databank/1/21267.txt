@@ -1,3 +1,9 @@
-flaked
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thành phiến nhỏ\n-thành tấm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thành phiến nhỏ\n-thành tấm
-
+flaked	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thành phiến nhỏ
+-thành tấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thành phiến nhỏ
+-thành tấm

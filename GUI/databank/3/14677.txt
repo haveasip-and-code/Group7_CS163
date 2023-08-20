@@ -1,3 +1,5 @@
-derived
-	@Chuyên ngành kỹ thuật\n-dẫn xuất\n-suy ra\n@Lĩnh vực: toán & tin\n-được suy ra
-
+derived	@Chuyên ngành kỹ thuật
+-dẫn xuất
+-suy ra
+@Lĩnh vực: toán & tin
+-được suy ra

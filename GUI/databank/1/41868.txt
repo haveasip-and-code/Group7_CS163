@@ -1,3 +1,2 @@
-planetoidal
-	@planetoidal\n- xem planetoid
-
+planetoidal	@planetoidal
+- xem planetoid

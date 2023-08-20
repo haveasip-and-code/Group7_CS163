@@ -1,3 +1,3 @@
-outdate
-	@outdate /aut'deit/\n*  ngoại động từ\n- làm lỗi thời
-
+outdate	@outdate /aut'deit/
+*  ngoại động từ
+- làm lỗi thời

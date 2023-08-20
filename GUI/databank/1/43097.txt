@@ -1,3 +1,6 @@
-predator
-	@predator /'predətə/\n*  danh từ\n- thú ăn mồi sống, thú ăn thịt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-côn trùng ăn mồi sống
-
+predator	@predator /'predətə/
+*  danh từ
+- thú ăn mồi sống, thú ăn thịt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-côn trùng ăn mồi sống

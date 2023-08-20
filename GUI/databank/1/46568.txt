@@ -1,3 +1,10 @@
-relational
-	@relational\n* tính từ\n- liên quan; liên hệ\n- thân thuộc; hôn nhân\n- có tính chất quan hệ, có biểu thị quan hệ\n@Chuyên ngành kỹ thuật\n-quan hệ\n-tương quan\n@Lĩnh vực: toán & tin\n-có quan hệ
-
+relational	@relational
+* tính từ
+- liên quan; liên hệ
+- thân thuộc; hôn nhân
+- có tính chất quan hệ, có biểu thị quan hệ
+@Chuyên ngành kỹ thuật
+-quan hệ
+-tương quan
+@Lĩnh vực: toán & tin
+-có quan hệ

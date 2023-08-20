@@ -1,3 +1,2 @@
-previsor
-	@previsor\n- xem previse
-
+previsor	@previsor
+- xem previse

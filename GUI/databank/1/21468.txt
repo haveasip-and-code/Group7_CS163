@@ -1,3 +1,7 @@
-floated
-	@Chuyên ngành kỹ thuật\n-láng\n-xoa mặt\n@Chuyên ngành kỹ thuật\n-láng\n-xoa mặt
-
+floated	
+@Chuyên ngành kỹ thuật
+-láng
+-xoa mặt
+@Chuyên ngành kỹ thuật
+-láng
+-xoa mặt

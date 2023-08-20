@@ -1,3 +1,2 @@
-overdried
-	@Chuyên ngành kinh tế\n-quá khô
-
+overdried	@Chuyên ngành kinh tế
+-quá khô

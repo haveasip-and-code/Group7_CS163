@@ -1,3 +1,8 @@
-thermistor
-	@Chuyên ngành kỹ thuật\n-điện trở nhiệt\n-nhiệt điện trở\n-nhiệt nhôm\n@Lĩnh vực: đo lường & điều khiển\n-nhiệt kế điện tử\n@Lĩnh vực: điện\n-nhiệt trở bán dẫn
-
+thermistor	@Chuyên ngành kỹ thuật
+-điện trở nhiệt
+-nhiệt điện trở
+-nhiệt nhôm
+@Lĩnh vực: đo lường & điều khiển
+-nhiệt kế điện tử
+@Lĩnh vực: điện
+-nhiệt trở bán dẫn

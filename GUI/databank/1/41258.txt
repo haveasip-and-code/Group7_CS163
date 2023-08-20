@@ -1,3 +1,7 @@
-photocurrent
-	@photocurrent\n* danh từ\n- dòng quang điện\n@Chuyên ngành kỹ thuật\n-dòng quang điện\n@Lĩnh vực: điện\n-dòng (điện) quang điện
-
+photocurrent	@photocurrent
+* danh từ
+- dòng quang điện
+@Chuyên ngành kỹ thuật
+-dòng quang điện
+@Lĩnh vực: điện
+-dòng (điện) quang điện

@@ -1,3 +1,2 @@
-collinearity
-	@collinearity\n- tính cộng tuyến
-
+collinearity	@collinearity
+- tính cộng tuyến

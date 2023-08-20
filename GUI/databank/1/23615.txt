@@ -1,3 +1,13 @@
-global
-	@global /'gloubəl/\n*  tính từ\n- toàn cầu\n=global strategy+ chiến lược toàn cầu\n- toàn thể, toàn bộ\n@Chuyên ngành kỹ thuật\n-chung\n-quả đất\n-toàn bộ\n-toàn thể\n@Lĩnh vực: xây dựng\n-địa cầu
-
+global	
+@global /'gloubəl/
+*  tính từ
+- toàn cầu=global strategy
++ chiến lược toàn cầu
+- toàn thể, toàn bộ
+@Chuyên ngành kỹ thuật
+-chung
+-quả đất
+-toàn bộ
+-toàn thể
+@Lĩnh vực: xây dựng
+-địa cầu

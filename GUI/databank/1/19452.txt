@@ -1,3 +1,21 @@
-evoke
-	@evoke /i'vouk/\n*  ngoại động từ\n- gọi lên (hồn...), gợi lên (ký ức, tình cảm...)\n- (pháp lý) gọi ra toà trên\n@Chuyên ngành kỹ thuật\n-gây ra\n-gọi ra\n-gợi ra\n@Lĩnh vực: toán & tin\n-gọi chương trình\n@Lĩnh vực: xây dựng\n-gợi lên\n@Chuyên ngành kỹ thuật\n-gây ra\n-gọi ra\n-gợi ra\n@Lĩnh vực: toán & tin\n-gọi chương trình\n@Lĩnh vực: xây dựng\n-gợi lên
-
+evoke	
+@evoke /i'vouk/
+*  ngoại động từ
+- gọi lên (hồn...), gợi lên (ký ức, tình cảm...)
+- (pháp lý) gọi ra toà trên
+@Chuyên ngành kỹ thuật
+-gây ra
+-gọi ra
+-gợi ra
+@Lĩnh vực: toán & tin
+-gọi chương trình
+@Lĩnh vực: xây dựng
+-gợi lên
+@Chuyên ngành kỹ thuật
+-gây ra
+-gọi ra
+-gợi ra
+@Lĩnh vực: toán & tin
+-gọi chương trình
+@Lĩnh vực: xây dựng
+-gợi lên

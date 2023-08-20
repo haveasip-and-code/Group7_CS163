@@ -1,3 +1,4 @@
-conchoids
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conchoit
-
+conchoids	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-conchoit

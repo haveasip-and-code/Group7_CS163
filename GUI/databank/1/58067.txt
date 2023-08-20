@@ -1,3 +1,17 @@
-truth
-	@truth /tru:θ/\n*  danh từ\n- sự thật, lẽ phải, chân lý\n=to tell the truth+ nói sự thật\n=the truth of science+ chân lý khoa học\n=the truth is that...+ sự thật là...\n- sự đúng đắn, sự chính xác\n=there is no truth in his report+ trong bản báo cáo của hắn không có gì là chính xác cả (không có gì là đúng sự thực cả)\n- tính thật thà, lòng chân thật\n=I can rely on his truth+ tôi có thể tin vào lòng chân thật của nó\n- (kỹ thuật) sự lắp đúng\n=the wheel is out of truth+ bánh xe lắp lệch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chân lý\n@Lĩnh vực: xây dựng\n-sự thật
-
+truth	@truth /tru:θ/
+*  danh từ
+- sự thật, lẽ phải, chân lý
+=to tell the truth+ nói sự thật
+=the truth of science+ chân lý khoa học
+=the truth is that...+ sự thật là...
+- sự đúng đắn, sự chính xác
+=there is no truth in his report+ trong bản báo cáo của hắn không có gì là chính xác cả (không có gì là đúng sự thực cả)
+- tính thật thà, lòng chân thật
+=I can rely on his truth+ tôi có thể tin vào lòng chân thật của nó
+- (kỹ thuật) sự lắp đúng
+=the wheel is out of truth+ bánh xe lắp lệch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chân lý
+@Lĩnh vực: xây dựng
+-sự thật

@@ -1,3 +1,6 @@
-trilinear
-	@trilinear\n* tính từ\n- có ba đường, thuộc ba đường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tam tuyến
-
+trilinear	@trilinear
+* tính từ
+- có ba đường, thuộc ba đường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tam tuyến

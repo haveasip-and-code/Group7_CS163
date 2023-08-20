@@ -1,3 +1,2 @@
-cranker
-	@Chuyên ngành kỹ thuật\n-tay quay
-
+cranker	@Chuyên ngành kỹ thuật
+-tay quay

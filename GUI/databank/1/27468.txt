@@ -1,3 +1,10 @@
-implied
-	@implied /im'ploud/\n*  tính từ\n- ngụ ý, bao hàm, ám chỉ; mặc nhiên\n@Chuyên ngành kinh tế\n-hàm ẩn\n-hiểu ngầm\n-mặc nhiên\n@Chuyên ngành kỹ thuật\n-ngụ ý
-
+implied	
+@implied /im'ploud/
+*  tính từ
+- ngụ ý, bao hàm, ám chỉ; mặc nhiên
+@Chuyên ngành kinh tế
+-hàm ẩn
+-hiểu ngầm
+-mặc nhiên
+@Chuyên ngành kỹ thuật
+-ngụ ý

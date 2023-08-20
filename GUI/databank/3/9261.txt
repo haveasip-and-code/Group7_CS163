@@ -1,3 +1,2 @@
-chromatographer
-	@chromatographer\n- xem chromatography
-
+chromatographer	@chromatographer
+- xem chromatography

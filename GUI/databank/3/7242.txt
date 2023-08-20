@@ -1,3 +1,5 @@
-bursal
-	@bursal\n- xem bursa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc túi
-
+bursal	@bursal
+- xem bursa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc túi

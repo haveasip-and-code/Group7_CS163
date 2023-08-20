@@ -1,3 +1,20 @@
-tenor
-	@tenor /'tenə/\n*  danh từ\n- phương hướng chung, tiến trình\n- ý nghĩa, tinh thần chung, nội dung chính\n=the tenor of his speech+ tinh thần chung (nội dung chính) bài nói của ông ta\n- kỳ hạn (hối phiếu)\n- (pháp lý) bản sao (tài liệu\n- (âm nhạc) giọng nam cao\n- (âm nhạc) bè têno\n- (âm nhạc) kèn têno\n@Chuyên ngành kinh tế\n-bản sao chính xác\n-kỳ hạn (của một hối phiếu)\n-nội dung (của một văn kiện...)\n-văn bản chính xác\n@Lĩnh vực: ttck\n-lề thói hằng ngày, quy định thời hạn\n@Chuyên ngành kỹ thuật\n-hàm lượng\n-lượng chứa
-
+tenor	@tenor /'tenə/
+*  danh từ
+- phương hướng chung, tiến trình
+- ý nghĩa, tinh thần chung, nội dung chính
+=the tenor of his speech+ tinh thần chung (nội dung chính) bài nói của ông ta
+- kỳ hạn (hối phiếu)
+- (pháp lý) bản sao (tài liệu
+- (âm nhạc) giọng nam cao
+- (âm nhạc) bè têno
+- (âm nhạc) kèn têno
+@Chuyên ngành kinh tế
+-bản sao chính xác
+-kỳ hạn (của một hối phiếu)
+-nội dung (của một văn kiện...)
+-văn bản chính xác
+@Lĩnh vực: ttck
+-lề thói hằng ngày, quy định thời hạn
+@Chuyên ngành kỹ thuật
+-hàm lượng
+-lượng chứa

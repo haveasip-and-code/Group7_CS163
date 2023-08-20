@@ -1,3 +1,4 @@
-anorthic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tam tà
-
+anorthic	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tam tà

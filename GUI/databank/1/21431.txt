@@ -1,3 +1,15 @@
-flier
-	@flier /flier/\n*  danh từ\n- vật bay, con vật có cánh (như chim, sâu bọ...)\n- xe đi nhanh như bay; con vật bay nhanh\n- người lái máy bay\n- cái nhảy vút lên\n- (thông tục) người nhiều tham vọng\n- (kỹ thuật) bánh đà\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bậc mâm thang\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bậc mâm thang
-
+flier	
+@flier /flier/
+*  danh từ
+- vật bay, con vật có cánh (như chim, sâu bọ...)
+- xe đi nhanh như bay; con vật bay nhanh
+- người lái máy bay
+- cái nhảy vút lên
+- (thông tục) người nhiều tham vọng
+- (kỹ thuật) bánh đà
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bậc mâm thang
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bậc mâm thang

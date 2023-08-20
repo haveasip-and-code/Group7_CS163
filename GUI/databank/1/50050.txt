@@ -1,3 +1,44 @@
-settlement
-	@settlement /'setlmənt/\n*  danh từ\n- sự giải quyết, sự dàn xếp, sự hoà giải\n- sự thanh toán\n- sự đến ở, sự định cư, sự an cư lạc nghiệp; khu định cư, khu đất mới có người đến ở lập nghiệp\n- sự chiếm làm thuộc địa; thuộc địa\n- (pháp lý) sự chuyển gia tài\n- sự làm lắng xuống; sự lắng xuống, sự lún xuống (mặt nhà, tường, đất)\n- nhóm người chủ trương cải cách xã hội ba cùng với công nhân\n@Chuyên ngành kinh tế\n-giấy ký thác\n-giấy ký túc\n-kết toán\n-ngày thanh toán\n-sự quyết định (ngay ...)\n-sự quyết định (ngày..)\n-sự quyết toán\n-sự thanh toán\n-thỏa thuận\n-thỏa ước\n-việc giải quyết xong\n-việc thanh toán xong\n@Chuyên ngành kỹ thuật\n-biến dạng\n-chất kết tủa\n-chất lắng\n-độ lún\n-khu dân cư\n-khu nhà ở\n-lún\n-quyết toán\n-sự đóng rắn\n-sự hạ thấp\n-sự lắng\n-sự lắng đọng\n@Lĩnh vực: xây dựng\n-chất cặn\n-sự chồn hõm lún\n-sự lắng xuống (bê tông tươi)\n@Lĩnh vực: toán & tin\n-điểm dân cư\n-độ lắng\n@Lĩnh vực: điện tử & viễn thông\n-sự sa lắng
-
+settlement	@settlement /'setlmənt/
+*  danh từ
+- sự giải quyết, sự dàn xếp, sự hoà giải
+- sự thanh toán
+- sự đến ở, sự định cư, sự an cư lạc nghiệp; khu định cư, khu đất mới có người đến ở lập nghiệp
+- sự chiếm làm thuộc địa; thuộc địa
+- (pháp lý) sự chuyển gia tài
+- sự làm lắng xuống; sự lắng xuống, sự lún xuống (mặt nhà, tường, đất)
+- nhóm người chủ trương cải cách xã hội ba cùng với công nhân
+@Chuyên ngành kinh tế
+-giấy ký thác
+-giấy ký túc
+-kết toán
+-ngày thanh toán
+-sự quyết định (ngay ...)
+-sự quyết định (ngày..)
+-sự quyết toán
+-sự thanh toán
+-thỏa thuận
+-thỏa ước
+-việc giải quyết xong
+-việc thanh toán xong
+@Chuyên ngành kỹ thuật
+-biến dạng
+-chất kết tủa
+-chất lắng
+-độ lún
+-khu dân cư
+-khu nhà ở
+-lún
+-quyết toán
+-sự đóng rắn
+-sự hạ thấp
+-sự lắng
+-sự lắng đọng
+@Lĩnh vực: xây dựng
+-chất cặn
+-sự chồn hõm lún
+-sự lắng xuống (bê tông tươi)
+@Lĩnh vực: toán & tin
+-điểm dân cư
+-độ lắng
+@Lĩnh vực: điện tử & viễn thông
+-sự sa lắng

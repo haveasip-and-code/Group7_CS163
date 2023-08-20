@@ -1,3 +1,6 @@
-kips
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-da bò\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-da bò
-
+kips	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-da bò
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-da bò

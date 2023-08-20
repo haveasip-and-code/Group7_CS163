@@ -1,3 +1,19 @@
-induce
-	@induce /in'dju:s/\n*  ngoại động từ\n- xui, xui khiến\n=to induce someone to do something+ xui ai làm việc gì\n- gây ra, đem lại\n=to induce sleep+ gây buồn ngủ, làm cho buồn ngủ\n- (điện học) cảm\n- quy vào, kết luận\n@Chuyên ngành kỹ thuật\n-cảm hóa\n-gây ra\n-kết luận\n@Lĩnh vực: toán & tin\n-cảm sinh\n@Lĩnh vực: xây dựng\n-đem lại\n@Lĩnh vực: ô tô\n-tạo ra
-
+induce	
+@induce /in'dju:s/
+*  ngoại động từ
+- xui, xui khiến=to induce someone to do something
++ xui ai làm việc gì
+- gây ra, đem lại=to induce sleep
++ gây buồn ngủ, làm cho buồn ngủ
+- (điện học) cảm
+- quy vào, kết luận
+@Chuyên ngành kỹ thuật
+-cảm hóa
+-gây ra
+-kết luận
+@Lĩnh vực: toán & tin
+-cảm sinh
+@Lĩnh vực: xây dựng
+-đem lại
+@Lĩnh vực: ô tô
+-tạo ra

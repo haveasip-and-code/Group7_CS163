@@ -1,3 +1,4 @@
-notched
-	@Chuyên ngành kỹ thuật\n-được cắt khấc\n-được cắt nấc\n-được cắt rãnh
-
+notched	@Chuyên ngành kỹ thuật
+-được cắt khấc
+-được cắt nấc
+-được cắt rãnh

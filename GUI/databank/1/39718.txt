@@ -1,3 +1,2 @@
-parer
-	@parer\n- xem pare
-
+parer	@parer
+- xem pare

@@ -1,3 +1,2 @@
-protease
-	@Chuyên ngành kinh tế\n-proteaza
-
+protease	@Chuyên ngành kinh tế
+-proteaza

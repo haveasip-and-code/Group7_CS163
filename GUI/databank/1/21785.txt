@@ -1,3 +1,8 @@
-footpath
-	@Chuyên ngành kinh tế\n-đường đất\n-đường đi bộ\n@Chuyên ngành kỹ thuật\n-vỉa hè\n@Lĩnh vực: xây dựng\n-đường đi dạo
-
+footpath	
+@Chuyên ngành kinh tế
+-đường đất
+-đường đi bộ
+@Chuyên ngành kỹ thuật
+-vỉa hè
+@Lĩnh vực: xây dựng
+-đường đi dạo

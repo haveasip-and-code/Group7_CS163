@@ -1,3 +1,54 @@
-soak
-	@soak /souk/\n*  danh từ\n- sự ngâm, sự thấm nước, sự nhúng nước\n- (từ Mỹ,nghĩa Mỹ) nước để ngâm, nước để nhúng\n- (từ lóng) bữa chè chén\n- (từ lóng) người nghiện rượu nặng\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tình trạng bị đem cầm cố\n=to be in soak+ bị đem cầm cố\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cú đấm điếng người\n*  ngoại động từ\n- ngâm, nhúng\n=to soak gherkins in vinegar+ ngâm dưa chuột vào giấm\n- làm ướt đẫm\n- (từ lóng) bòn tiền, rút tiền (của ai); cưa nặng, giã nặng, lấy giá cắt cổ\n- (từ lóng) uống lu bù\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giáng cho một đòn\n*  nội động từ\n- ngấm, thấm (đen & bóng)\n=rain soaks through shirt+ nước mưa thấm qua áo sơ mi\n=the fact soaked into his head+ sự việc đó thấm sâu vào trí óc nó\n- say be bét; chè chén lu bù\n!to soak oneself in a subject\n- miệt mài học tập một môn học\n@Chuyên ngành kinh tế\n-đánh thuế nặng\n-giá nặng\n-giã nặng\n-hút\n-sự hút vào\n-sự ngấm\n-sự thấm\n-sự thấm nước để bóc ra\n-thấm\n@Chuyên ngành kỹ thuật\n-hút\n-ngâm\n-ngâm nhúng\n-ngâm ướt\n-ngâm vào nước\n-nhúng\n-nung đều\n-sự ngâm\n-sự nhúng nước\n-sự thấm nước\n-tẩm\n-thấm nước\n-thấm ướt\n-ủ đều\n@Lĩnh vực: toán & tin\n-chạy thử ban đầu\n@Lĩnh vực: xây dựng\n-gia công nhiệt\n@Lĩnh vực: cơ khí & công trình\n-kích thích mạnh
-
+soak	@soak /souk/
+*  danh từ
+- sự ngâm, sự thấm nước, sự nhúng nước
+- (từ Mỹ,nghĩa Mỹ) nước để ngâm, nước để nhúng
+- (từ lóng) bữa chè chén
+- (từ lóng) người nghiện rượu nặng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tình trạng bị đem cầm cố
+=to be in soak+ bị đem cầm cố
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cú đấm điếng người
+*  ngoại động từ
+- ngâm, nhúng
+=to soak gherkins in vinegar+ ngâm dưa chuột vào giấm
+- làm ướt đẫm
+- (từ lóng) bòn tiền, rút tiền (của ai); cưa nặng, giã nặng, lấy giá cắt cổ
+- (từ lóng) uống lu bù
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giáng cho một đòn
+*  nội động từ
+- ngấm, thấm (đen & bóng)
+=rain soaks through shirt+ nước mưa thấm qua áo sơ mi
+=the fact soaked into his head+ sự việc đó thấm sâu vào trí óc nó
+- say be bét; chè chén lu bù
+!to soak oneself in a subject
+- miệt mài học tập một môn học
+@Chuyên ngành kinh tế
+-đánh thuế nặng
+-giá nặng
+-giã nặng
+-hút
+-sự hút vào
+-sự ngấm
+-sự thấm
+-sự thấm nước để bóc ra
+-thấm
+@Chuyên ngành kỹ thuật
+-hút
+-ngâm
+-ngâm nhúng
+-ngâm ướt
+-ngâm vào nước
+-nhúng
+-nung đều
+-sự ngâm
+-sự nhúng nước
+-sự thấm nước
+-tẩm
+-thấm nước
+-thấm ướt
+-ủ đều
+@Lĩnh vực: toán & tin
+-chạy thử ban đầu
+@Lĩnh vực: xây dựng
+-gia công nhiệt
+@Lĩnh vực: cơ khí & công trình
+-kích thích mạnh

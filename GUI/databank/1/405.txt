@@ -1,3 +1,25 @@
-accretion
-	@accretion /æ'kri:ʃn/\n*  danh từ\n- sự lớn dần lên, sự phát triển dần lên,\n- sự bồi dần vào\n- phần bồi thêm, phần phát triển dần lên\n- (pháp lý) sự tăng thêm (của cải, tài sản...)\n@Chuyên ngành kinh tế\n-sự tăng trị\n-sự tăng trưởng nội tại\n-trị giá (thực tế) tăng lên\n@Chuyên ngành kỹ thuật\n-bùn cát\n-đất bồi\n-lớp bồi tích\n-sự bồi đắp\n-sự bồi lắng\n-sự bồi tích\n-sự lắng đọng\n-sự nâng cao\n@Lĩnh vực: điện tử & viễn thông\n-phát triển dần lên\n-sự lớn dần lên\n@Lĩnh vực: xây dựng\n-sự bồi lấp
-
+accretion	
+@accretion /æ'kri:ʃn/
+*  danh từ
+- sự lớn dần lên, sự phát triển dần lên,
+- sự bồi dần vào
+- phần bồi thêm, phần phát triển dần lên
+- (pháp lý) sự tăng thêm (của cải, tài sản...)
+@Chuyên ngành kinh tế
+-sự tăng trị
+-sự tăng trưởng nội tại
+-trị giá (thực tế) tăng lên
+@Chuyên ngành kỹ thuật
+-bùn cát
+-đất bồi
+-lớp bồi tích
+-sự bồi đắp
+-sự bồi lắng
+-sự bồi tích
+-sự lắng đọng
+-sự nâng cao
+@Lĩnh vực: điện tử & viễn thông
+-phát triển dần lên
+-sự lớn dần lên
+@Lĩnh vực: xây dựng
+-sự bồi lấp

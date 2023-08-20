@@ -1,3 +1,4 @@
-translatable
-	@translatable /'træns'leitəbl/\n*  tính từ\n- có thể dịch được\n=a translatable book+ một quyển sách có thể dịch được
-
+translatable	@translatable /'træns'leitəbl/
+*  tính từ
+- có thể dịch được
+=a translatable book+ một quyển sách có thể dịch được

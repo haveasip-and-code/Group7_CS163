@@ -1,3 +1,24 @@
-pontoon
-	@pontoon /pɔn'tu:n/\n*  danh từ\n- lối chơi bài " 21"\n- phà\n- cầu phao ((cũng) pontoon bridge)\n*  danh từ ((cũng) caisson)\n- (kỹ thuật) thùng lặn (dùng cho công nhân xây dựng dưới nước)\n- (hàng hải) thùng chắn (thùng to hình thuyền để chắn ở cữa vũng sữa chữa tàu)\n*  ngoại động từ\n- bắc cầu phao qua (sông); qua (sông) bằng cầu phao\n@Chuyên ngành kinh tế\n-cầu nổi\n-sà lan\n-sà-lan\n-tàu đáy bằng\n@Chuyên ngành kỹ thuật\n-cầu nổi\n-cầu phao thùng\n-phà\n-phao\n-sàn thi công\n-tàu đáy bằng\n-xà lan\n-xà lan đáy bằng
-
+pontoon	@pontoon /pɔn'tu:n/
+*  danh từ
+- lối chơi bài " 21"
+- phà
+- cầu phao ((cũng) pontoon bridge)
+*  danh từ ((cũng) caisson)
+- (kỹ thuật) thùng lặn (dùng cho công nhân xây dựng dưới nước)
+- (hàng hải) thùng chắn (thùng to hình thuyền để chắn ở cữa vũng sữa chữa tàu)
+*  ngoại động từ
+- bắc cầu phao qua (sông); qua (sông) bằng cầu phao
+@Chuyên ngành kinh tế
+-cầu nổi
+-sà lan
+-sà-lan
+-tàu đáy bằng
+@Chuyên ngành kỹ thuật
+-cầu nổi
+-cầu phao thùng
+-phà
+-phao
+-sàn thi công
+-tàu đáy bằng
+-xà lan
+-xà lan đáy bằng

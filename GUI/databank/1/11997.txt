@@ -1,3 +1,9 @@
-corpse
-	@corpse /kɔ:ps/\n*  danh từ\n- xác chết, thi hài\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tử thi\n@Lĩnh vực: y học\n-tử thi, xác chết, thi hài
-
+corpse	
+@corpse /kɔ:ps/
+*  danh từ
+- xác chết, thi hài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tử thi
+@Lĩnh vực: y học
+-tử thi, xác chết, thi hài

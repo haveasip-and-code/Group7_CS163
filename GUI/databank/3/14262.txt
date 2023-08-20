@@ -1,3 +1,12 @@
-delimiter
-	@delimiter\n- (Tech) dấu giới hạn, dấu tách; dấu định nghĩa\n@Chuyên ngành kỹ thuật\n-dấu tách\n@Lĩnh vực: toán & tin\n-dâu phân cách\n-dấu phân cách\n-dấu phân tách\n-dấu tác\n-ký hiệu tách\n@Lĩnh vực: xây dựng\n-giới hạn tự
-
+delimiter	@delimiter
+- (Tech) dấu giới hạn, dấu tách; dấu định nghĩa
+@Chuyên ngành kỹ thuật
+-dấu tách
+@Lĩnh vực: toán & tin
+-dâu phân cách
+-dấu phân cách
+-dấu phân tách
+-dấu tác
+-ký hiệu tách
+@Lĩnh vực: xây dựng
+-giới hạn tự

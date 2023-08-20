@@ -1,3 +1,13 @@
-coaster
-	@coaster /'koustə/\n*  danh từ\n- tàu buôn dọc theo bờ biển; người buôn bán dọc theo bờ biển\n- (từ Mỹ,nghĩa Mỹ) người lao dốc (xe trượt tuyết, xe đạp, mô tô)\n- khay bưng rượu; cái lót cốc (ở bàn)\n- cái đế gác chân (ở phuốc xe đạp)\n@Chuyên ngành kinh tế\n-tàu buôn dọc bờ biển\n-tàu diên hàng\n-tàu hàng ven biển\n@Chuyên ngành kỹ thuật\n-tàu chạy ven bờ
-
+coaster	
+@coaster /'koustə/
+*  danh từ
+- tàu buôn dọc theo bờ biển; người buôn bán dọc theo bờ biển
+- (từ Mỹ,nghĩa Mỹ) người lao dốc (xe trượt tuyết, xe đạp, mô tô)
+- khay bưng rượu; cái lót cốc (ở bàn)
+- cái đế gác chân (ở phuốc xe đạp)
+@Chuyên ngành kinh tế
+-tàu buôn dọc bờ biển
+-tàu diên hàng
+-tàu hàng ven biển
+@Chuyên ngành kỹ thuật
+-tàu chạy ven bờ

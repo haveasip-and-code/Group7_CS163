@@ -1,3 +1,19 @@
-consultant
-	@consultant /kən'sʌltənt/\n*  danh từ\n- người hỏi ý kiến\n- (y học) thầy thuốc chỉ đạo chuyên môn; thầy thuốc tư vấn\n- nhà chuyên môn; chuyên viên, cố vấn; người cho ý kiến; người được hỏi ý kiến\n@Chuyên ngành kinh tế\n-người tư vấn\n@Chuyên ngành kỹ thuật\n-chuyên viên\n-cố vấn\n-nhà tư vấn\n@Lĩnh vực: y học\n-bác sĩ tư vấn\n@Lĩnh vực: điện tử & viễn thông\n-chuyên gia tư vấn\n@Lĩnh vực: xây dựng\n-tư vấn\n-tư vấn viên
-
+consultant	
+@consultant /kən'sʌltənt/
+*  danh từ
+- người hỏi ý kiến
+- (y học) thầy thuốc chỉ đạo chuyên môn; thầy thuốc tư vấn
+- nhà chuyên môn; chuyên viên, cố vấn; người cho ý kiến; người được hỏi ý kiến
+@Chuyên ngành kinh tế
+-người tư vấn
+@Chuyên ngành kỹ thuật
+-chuyên viên
+-cố vấn
+-nhà tư vấn
+@Lĩnh vực: y học
+-bác sĩ tư vấn
+@Lĩnh vực: điện tử & viễn thông
+-chuyên gia tư vấn
+@Lĩnh vực: xây dựng
+-tư vấn
+-tư vấn viên

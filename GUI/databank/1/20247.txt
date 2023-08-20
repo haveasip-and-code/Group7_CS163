@@ -1,3 +1,11 @@
-faction
-	@faction /'fækʃn/\n*  danh từ\n- bè phái, bè cánh\n- óc bè phái, tư tưởng bè phái\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bè phái\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bè phái
-
+faction	
+@faction /'fækʃn/
+*  danh từ
+- bè phái, bè cánh
+- óc bè phái, tư tưởng bè phái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bè phái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bè phái

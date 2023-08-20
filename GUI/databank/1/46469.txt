@@ -1,3 +1,4 @@
-reguli
-	@reguli\n* danh từ\n- số nhiều\n- xem regulus
-
+reguli	@reguli
+* danh từ
+- số nhiều
+- xem regulus

@@ -1,3 +1,8 @@
-rom
-	@rom\n* (viết tắt)\n- (máy tính) bộ nhớ chỉ đọc (read only memory)\n@Chuyên ngành kinh tế\n-bộ nhớ chỉ đọc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rom mét nghịch đảo (đơn vị độ dẫn điện)
-
+rom	@rom
+* (viết tắt)
+- (máy tính) bộ nhớ chỉ đọc (read only memory)
+@Chuyên ngành kinh tế
+-bộ nhớ chỉ đọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-rom mét nghịch đảo (đơn vị độ dẫn điện)

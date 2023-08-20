@@ -1,3 +1,5 @@
-wearability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-độ hao mòn\n-tính chịu được mòn\n-tính hao mòn
-
+wearability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-độ hao mòn
+-tính chịu được mòn
+-tính hao mòn

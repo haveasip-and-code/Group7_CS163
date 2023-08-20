@@ -1,3 +1,4 @@
-isograft
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mảnh ghép đồng nhất
-
+isograft	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-mảnh ghép đồng nhất

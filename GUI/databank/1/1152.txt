@@ -1,3 +1,26 @@
-against
-	@against /ə'geinst/\n*  giới từ\n- chống lại, ngược lại, phản đối\n=to fight against aggression+ chiến đấu chống xâm lược\n=to be against aggression wars+ phản đối chiến tranh xâm lược\n=to go against the wind+ đi ngược chiều gió\n- tương phản với\n=black is against white+ màu đen tương phản với màu trắng\n- dựa vào, tỳ vào, áp vào, đập vào\n=to stand against the wall+ đứng dựa vào tường\n=to run against a rock+ chạy va phải tảng đá\n=rain beats against the window-panes+ mưa đập vào kính cửa sổ\n- phòng, đề phòng, phòng xa\n=to keep provisions against rainy days+ dự trữ thực phẩm đề phòng những ngày mưa\n- ((thường) over against) đối diện với\n=his house is over against mine+ nhà anh ta đối diện với nhà tôi\n!against time\n- (xem) time\n@Chuyên ngành kinh tế\n-bảo... (hiểm)\n-căn cứ...\n-để tránh...\n-đổi lấy...\n-đối với...\n-dựa theo...
-
+against	
+@against /ə'geinst/
+*  giới từ
+- chống lại, ngược lại, phản đối=to fight against aggression
++ chiến đấu chống xâm lược=to be against aggression wars
++ phản đối chiến tranh xâm lược=to go against the wind
++ đi ngược chiều gió
+- tương phản với=black is against white
++ màu đen tương phản với màu trắng
+- dựa vào, tỳ vào, áp vào, đập vào=to stand against the wall
++ đứng dựa vào tường=to run against a rock
++ chạy va phải tảng đá=rain beats against the window
+-panes
++ mưa đập vào kính cửa sổ
+- phòng, đề phòng, phòng xa=to keep provisions against rainy days
++ dự trữ thực phẩm đề phòng những ngày mưa
+- ((thường) over against) đối diện với=his house is over against mine
++ nhà anh ta đối diện với nhà tôi!against time
+- (xem) time
+@Chuyên ngành kinh tế
+-bảo... (hiểm)
+-căn cứ...
+-để tránh...
+-đổi lấy...
+-đối với...
+-dựa theo...

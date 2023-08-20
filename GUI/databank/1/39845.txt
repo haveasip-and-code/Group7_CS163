@@ -1,3 +1,23 @@
-parting
-	@parting /'pɑ:tiɳ/\n*  danh từ\n- sự chia ly, sự chia tay, sự từ biệt\n=on parting+ lúc chia tay\n- đường ngôi (của tóc)\n- chỗ rẽ, ngã ba\n=parting of the ways+ ngã ba đường ((nghĩa đen) & (nghĩa bóng))\n@Chuyên ngành kỹ thuật\n-đường phân thủy\n-lớp\n-lớp kẹp\n-sự chẻ\n-sự chia\n-sự ngắt\n-sự phân chia\n-sự tách\n-sự tách rời\n-sự tháo\n-thớ chẻ\n@Lĩnh vực: cơ khí & công trình\n-ke nứt\n@Lĩnh vực: hóa học & vật liệu\n-khối nứt
-
+parting	@parting /'pɑ:tiɳ/
+*  danh từ
+- sự chia ly, sự chia tay, sự từ biệt
+=on parting+ lúc chia tay
+- đường ngôi (của tóc)
+- chỗ rẽ, ngã ba
+=parting of the ways+ ngã ba đường ((nghĩa đen) & (nghĩa bóng))
+@Chuyên ngành kỹ thuật
+-đường phân thủy
+-lớp
+-lớp kẹp
+-sự chẻ
+-sự chia
+-sự ngắt
+-sự phân chia
+-sự tách
+-sự tách rời
+-sự tháo
+-thớ chẻ
+@Lĩnh vực: cơ khí & công trình
+-ke nứt
+@Lĩnh vực: hóa học & vật liệu
+-khối nứt

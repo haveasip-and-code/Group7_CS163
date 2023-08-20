@@ -1,3 +1,30 @@
-event
-	@event /i'vent/\n*  danh từ\n- sự việc, sự kiện\n- sự kiện quan trọng\n- (thể dục,thể thao) cuộc đấu, cuộc thi\n- trường hợp, khả năng có thể xảy ra\n=in the event of success+ trong trường hợp thành công\n=at all events; in any event+ trong bất kỳ trường hợp nào\n- kết quả, hậu quả\n@Chuyên ngành kinh tế\n-biến cố\n-sự kiện\n-sự kiện (quan trọng)\n@Chuyên ngành kỹ thuật\n-biến cố\n-lần tác động\n-lần tác dụng\n-trường hợp\n@Lĩnh vực: toán & tin\n-sự kiện\n-sự việc\n@Chuyên ngành kỹ thuật\n-biến cố\n-lần tác động\n-lần tác dụng\n-trường hợp\n@Lĩnh vực: toán & tin\n-sự kiện\n-sự việc
-
+event	
+@event /i'vent/
+*  danh từ
+- sự việc, sự kiện
+- sự kiện quan trọng
+- (thể dục,thể thao) cuộc đấu, cuộc thi
+- trường hợp, khả năng có thể xảy ra=in the event of success
++ trong trường hợp thành công=at all events; in any event
++ trong bất kỳ trường hợp nào
+- kết quả, hậu quả
+@Chuyên ngành kinh tế
+-biến cố
+-sự kiện
+-sự kiện (quan trọng)
+@Chuyên ngành kỹ thuật
+-biến cố
+-lần tác động
+-lần tác dụng
+-trường hợp
+@Lĩnh vực: toán & tin
+-sự kiện
+-sự việc
+@Chuyên ngành kỹ thuật
+-biến cố
+-lần tác động
+-lần tác dụng
+-trường hợp
+@Lĩnh vực: toán & tin
+-sự kiện
+-sự việc

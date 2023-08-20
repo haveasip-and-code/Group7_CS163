@@ -1,3 +1,2 @@
-reseller
-	@Chuyên ngành kinh tế\n-người bán lại
-
+reseller	@Chuyên ngành kinh tế
+-người bán lại

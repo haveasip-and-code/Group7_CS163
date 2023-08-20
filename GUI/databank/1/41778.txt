@@ -1,3 +1,2 @@
-pivotable
-	@pivotable\n- xem pivot
-
+pivotable	@pivotable
+- xem pivot

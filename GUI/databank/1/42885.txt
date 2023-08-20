@@ -1,3 +1,2 @@
-powderer
-	@powderer\n- xem powder
-
+powderer	@powderer
+- xem powder

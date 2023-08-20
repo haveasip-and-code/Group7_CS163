@@ -1,3 +1,8 @@
-flinch
-	@flinch /flinch/\n*  ngoại động từ\n- (như) flench\n*  nội động từ\n- chùn bước, nao núng\n=to flinch from difficulties+ chùn bước trước khó khăn\n- do dự, lưỡng lự, ngần ngại
-
+flinch	
+@flinch /flinch/
+*  ngoại động từ
+- (như) flench
+*  nội động từ
+- chùn bước, nao núng=to flinch from difficulties
++ chùn bước trước khó khăn
+- do dự, lưỡng lự, ngần ngại

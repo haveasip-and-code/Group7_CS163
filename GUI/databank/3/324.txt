@@ -1,3 +1,14 @@
-accepted
-	@accepted /ək'septid/\n*  tính từ\n- đã được thừa nhận, đã được công nhận\n@Chuyên ngành kinh tế\n-đã chấp nhận\n-đã được chấp nhận\n-đã nhận thanh toán\n-đã nhận trả\n-đã tiếp nhận\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được chấp nhận\n-được công nhận\n-được thừa nhận
-
+accepted	@accepted /ək'septid/
+*  tính từ
+- đã được thừa nhận, đã được công nhận
+@Chuyên ngành kinh tế
+-đã chấp nhận
+-đã được chấp nhận
+-đã nhận thanh toán
+-đã nhận trả
+-đã tiếp nhận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được chấp nhận
+-được công nhận
+-được thừa nhận

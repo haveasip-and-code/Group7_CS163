@@ -1,3 +1,6 @@
-overheads
-	@overheads\n* danh từ\n- tổng phí (tiền công, tiền thuê )\n@Chuyên ngành kinh tế\n-chi phí chung\n-chi phí điều hành
-
+overheads	@overheads
+* danh từ
+- tổng phí (tiền công, tiền thuê )
+@Chuyên ngành kinh tế
+-chi phí chung
+-chi phí điều hành

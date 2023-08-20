@@ -1,3 +1,5 @@
-extras
-	@Chuyên ngành kinh tế\n-chi phí bổ sung\n-phụ phí\n-phụ thu
-
+extras	
+@Chuyên ngành kinh tế
+-chi phí bổ sung
+-phụ phí
+-phụ thu

@@ -1,3 +1,15 @@
-eluant
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-chất để chiết\n@Lĩnh vực: hóa học & vật liệu\n-chất ngâm rỉ\n-chất rửa giải\n-chất rửa thôi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-chất để chiết\n@Lĩnh vực: hóa học & vật liệu\n-chất ngâm rỉ\n-chất rửa giải\n-chất rửa thôi
-
+eluant	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-chất để chiết
+@Lĩnh vực: hóa học & vật liệu
+-chất ngâm rỉ
+-chất rửa giải
+-chất rửa thôi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-chất để chiết
+@Lĩnh vực: hóa học & vật liệu
+-chất ngâm rỉ
+-chất rửa giải
+-chất rửa thôi

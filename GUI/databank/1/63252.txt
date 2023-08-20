@@ -1,3 +1,5 @@
-workday
-	@workday /'wə:kdei/\n*  danh từ\n- ngày làm việc, ngày công\n@Chuyên ngành kỹ thuật\n-ngày làm việc
-
+workday	@workday /'wə:kdei/
+*  danh từ
+- ngày làm việc, ngày công
+@Chuyên ngành kỹ thuật
+-ngày làm việc

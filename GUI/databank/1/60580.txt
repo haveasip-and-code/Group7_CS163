@@ -1,3 +1,8 @@
-unstressed
-	@unstressed /' n'strest/\n*  tính từ\n- không nhấn mạnh\n@Chuyên ngành kỹ thuật\n-không chịu lực\n@Lĩnh vực: xây dựng\n-không căng\n-không ứng suất
-
+unstressed	@unstressed /' n'strest/
+*  tính từ
+- không nhấn mạnh
+@Chuyên ngành kỹ thuật
+-không chịu lực
+@Lĩnh vực: xây dựng
+-không căng
+-không ứng suất

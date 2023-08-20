@@ -1,3 +1,2 @@
-tobaccoes
-	@tobaccoes\n- xem tobacco
-
+tobaccoes	@tobaccoes
+- xem tobacco

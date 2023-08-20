@@ -1,3 +1,4 @@
-inviter
-	@inviter\n* danh từ\n- người mời
-
+inviter	
+@inviter
+* danh từ
+- người mời

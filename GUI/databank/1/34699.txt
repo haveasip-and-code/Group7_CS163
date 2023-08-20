@@ -1,3 +1,6 @@
-microcephaly
-	@microcephaly\n* danh từ\n- sự nhỏ đầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tật đầu nhỏ
-
+microcephaly	@microcephaly
+* danh từ
+- sự nhỏ đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tật đầu nhỏ

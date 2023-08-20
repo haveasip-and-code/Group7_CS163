@@ -1,3 +1,2 @@
-mats
-	@Chuyên ngành kỹ thuật\n-nóc giả
-
+mats	@Chuyên ngành kỹ thuật
+-nóc giả

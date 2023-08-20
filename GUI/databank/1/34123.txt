@@ -1,3 +1,5 @@
-medicate
-	@medicate /'medikeit/\n*  ngoại động từ\n- bốc thuốc, cho thuốc\n- tẩm thuốc, ngâm thuốc\n=medicated gauze+ gạc có tẩm thuốc
-
+medicate	@medicate /'medikeit/
+*  ngoại động từ
+- bốc thuốc, cho thuốc
+- tẩm thuốc, ngâm thuốc
+=medicated gauze+ gạc có tẩm thuốc

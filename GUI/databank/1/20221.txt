@@ -1,3 +1,21 @@
-facade
-	@facade /fə:sɑ:d/\n*  danh từ\n- mặt chính (nhà)\n- bề ngoài vẻ ngoài, mã ngoài\n@Chuyên ngành kỹ thuật\n-mặt chính\n-mặt tiền\n-mặt trước\n@Lĩnh vực: xây dựng\n-hướng ra sân\n-mặt chiếu đứng\n-mặt tiền, mặt chính\n@Chuyên ngành kỹ thuật\n-mặt chính\n-mặt tiền\n-mặt trước\n@Lĩnh vực: xây dựng\n-hướng ra sân\n-mặt chiếu đứng\n-mặt tiền, mặt chính
-
+facade	
+@facade /fə:sɑ:d/
+*  danh từ
+- mặt chính (nhà)
+- bề ngoài vẻ ngoài, mã ngoài
+@Chuyên ngành kỹ thuật
+-mặt chính
+-mặt tiền
+-mặt trước
+@Lĩnh vực: xây dựng
+-hướng ra sân
+-mặt chiếu đứng
+-mặt tiền, mặt chính
+@Chuyên ngành kỹ thuật
+-mặt chính
+-mặt tiền
+-mặt trước
+@Lĩnh vực: xây dựng
+-hướng ra sân
+-mặt chiếu đứng
+-mặt tiền, mặt chính

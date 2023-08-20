@@ -1,3 +1,42 @@
-composite
-	@composite /'kɔmpəzit/\n*  tính từ\n- hợp lại; ghép, ghép lại\n=a composite photograph+ ảnh ghép\n- (thực vật học) (thuộc) kiểu hoa cúc\n- (kiến trúc) theo kiểu hỗn hợp\n- (hàng hải) làm bằng gỗ và sắt (tàu)\n- (ngành đường sắt) đủ các hạng\n=a composite carriage+ toa xe có ghế đủ các hạng\n- (toán học) đa hợp\n=a composite function+ hàm đa hợp\n*  danh từ\n- (hoá học) hợp chất\n- (thực vật học) cây (thuộc) họ cúc\n- (kiến trúc) kiến trúc hỗn hợp\n- (toán học) hợp tử\n=composite of field+ hợp tử của trường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Thức Composite\n@Chuyên ngành kỹ thuật\n-đa hợp\n-được ghép\n-ghép\n-hỗn hợp\n-hợp\n-hợp chất\n-hợp phần\n-hợp thành\n-hợp thể\n-kết hợp\n-phần\n-phối hợp\n-phức hợp\n-thành phần\n-vật liệu hỗn hợp\n@Lĩnh vực: điện\n-chất phức hợp\n-nhựa phức hợp\n@Lĩnh vực: cơ khí & công trình\n-vật liệu (kết) hợp
-
+composite	
+@composite /'kɔmpəzit/
+*  tính từ
+- hợp lại; ghép, ghép lại=a composite photograph
++ ảnh ghép
+- (thực vật học) (thuộc) kiểu hoa cúc
+- (kiến trúc) theo kiểu hỗn hợp
+- (hàng hải) làm bằng gỗ và sắt (tàu)
+- (ngành đường sắt) đủ các hạng=a composite carriage
++ toa xe có ghế đủ các hạng
+- (toán học) đa hợp=a composite function
++ hàm đa hợp
+*  danh từ
+- (hoá học) hợp chất
+- (thực vật học) cây (thuộc) họ cúc
+- (kiến trúc) kiến trúc hỗn hợp
+- (toán học) hợp tử=composite of field
++ hợp tử của trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-Thức Composite
+@Chuyên ngành kỹ thuật
+-đa hợp
+-được ghép
+-ghép
+-hỗn hợp
+-hợp
+-hợp chất
+-hợp phần
+-hợp thành
+-hợp thể
+-kết hợp
+-phần
+-phối hợp
+-phức hợp
+-thành phần
+-vật liệu hỗn hợp
+@Lĩnh vực: điện
+-chất phức hợp
+-nhựa phức hợp
+@Lĩnh vực: cơ khí & công trình
+-vật liệu (kết) hợp

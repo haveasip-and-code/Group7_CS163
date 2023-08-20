@@ -1,3 +1,7 @@
-paster
-	@paster\n* danh từ\n- máy dán\n- thợ dán nhãn hàng hoá\n- băng dính\n@Chuyên ngành kỹ thuật\n-băng dính
-
+paster	@paster
+* danh từ
+- máy dán
+- thợ dán nhãn hàng hoá
+- băng dính
+@Chuyên ngành kỹ thuật
+-băng dính

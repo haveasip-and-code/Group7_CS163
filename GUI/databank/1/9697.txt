@@ -1,3 +1,23 @@
-cleaning
-	@cleaning /'kli:niɳ/\n*  danh từ\n- sự quét tước, sự dọn dẹp\n@Chuyên ngành kỹ thuật\n-cọ rửa\n-dọn sạch\n-làm sạch\n-lọc\n-rửa\n-sự làm sạch\n-sự phá vỡ\n-sự tắm\n-sự tẩy sạch\n-tẩy\n@Lĩnh vực: xây dựng\n-cạo (nồi súp de)\n-công việc làm sạch\n-sự lau chùi\n@Lĩnh vực: toán & tin\n-sự dọn\n@Lĩnh vực: điện\n-việc làm sạch
-
+cleaning	
+@cleaning /'kli:niɳ/
+*  danh từ
+- sự quét tước, sự dọn dẹp
+@Chuyên ngành kỹ thuật
+-cọ rửa
+-dọn sạch
+-làm sạch
+-lọc
+-rửa
+-sự làm sạch
+-sự phá vỡ
+-sự tắm
+-sự tẩy sạch
+-tẩy
+@Lĩnh vực: xây dựng
+-cạo (nồi súp de)
+-công việc làm sạch
+-sự lau chùi
+@Lĩnh vực: toán & tin
+-sự dọn
+@Lĩnh vực: điện
+-việc làm sạch

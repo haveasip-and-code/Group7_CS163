@@ -1,3 +1,4 @@
-floweriness
-	@floweriness /floweriness/\n*  danh từ\n- tính chất văn hoa, tính chất hoa mỹ
-
+floweriness	
+@floweriness /floweriness/
+*  danh từ
+- tính chất văn hoa, tính chất hoa mỹ

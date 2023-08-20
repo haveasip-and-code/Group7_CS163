@@ -1,3 +1,29 @@
-tin
-	@tin /tin/\n*  danh từ\n- thiếc\n- sắt tây; giấy thiếc\n- hộp thiếc, hộp sắt tây\n=a tin of sardine+ hộp cá trích\n- (từ lóng) tiền\n*  ngoại động từ\n- tráng thiếc\n- đóng hộp\n=tinned food+ đồ hộp\n@Chuyên ngành kinh tế\n-dụng cụ bằng thiếc\n-hộp sắt tây\n-khuôn nướng bánh mì\n-thiếc, hộp, đồ hộp, tiền, vô hộp, đóng hộp\n@Chuyên ngành kỹ thuật\n-bình\n-đóng hộp\n-hộp\n-hộp sắt tây (đựng đồ hộp)\n-lọ\n-nhúng thiếc\n-mạ thiếc\n-tráng thiếc\n@Lĩnh vực: cơ khí & công trình\n-đồ thiếc\n@Lĩnh vực: toán & tin\n-thiếc, mạ, xi thiếc
-
+tin	@tin /tin/
+*  danh từ
+- thiếc
+- sắt tây; giấy thiếc
+- hộp thiếc, hộp sắt tây
+=a tin of sardine+ hộp cá trích
+- (từ lóng) tiền
+*  ngoại động từ
+- tráng thiếc
+- đóng hộp
+=tinned food+ đồ hộp
+@Chuyên ngành kinh tế
+-dụng cụ bằng thiếc
+-hộp sắt tây
+-khuôn nướng bánh mì
+-thiếc, hộp, đồ hộp, tiền, vô hộp, đóng hộp
+@Chuyên ngành kỹ thuật
+-bình
+-đóng hộp
+-hộp
+-hộp sắt tây (đựng đồ hộp)
+-lọ
+-nhúng thiếc
+-mạ thiếc
+-tráng thiếc
+@Lĩnh vực: cơ khí & công trình
+-đồ thiếc
+@Lĩnh vực: toán & tin
+-thiếc, mạ, xi thiếc

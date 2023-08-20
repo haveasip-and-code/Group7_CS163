@@ -1,3 +1,7 @@
-reflected
-	@reflected\n- phản xạ\n@Chuyên ngành kỹ thuật\n-phản xạ\n@Lĩnh vực: điện lạnh\n-bị phản xạ\n-được phản chiếu
-
+reflected	@reflected
+- phản xạ
+@Chuyên ngành kỹ thuật
+-phản xạ
+@Lĩnh vực: điện lạnh
+-bị phản xạ
+-được phản chiếu

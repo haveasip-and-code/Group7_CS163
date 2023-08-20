@@ -1,3 +1,6 @@
-newspaper
-	@newspaper /'nju:z,peipə/\n*  danh từ\n- báo\n=daily newspaper+ báo hằng ngày\n@Chuyên ngành kỹ thuật\n-báo
-
+newspaper	@newspaper /'nju:z,peipə/
+*  danh từ
+- báo
+=daily newspaper+ báo hằng ngày
+@Chuyên ngành kỹ thuật
+-báo

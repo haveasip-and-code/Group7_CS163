@@ -1,3 +1,9 @@
-releasing
-	@Chuyên ngành kỹ thuật\n-sự cắt mạch\n-sự ngắt mạch\n-sự nhả khớp\n-sự tách\n-sự tháo ra\n-sự thoát ra\n@Lĩnh vực: xây dựng\n-sự tháo khớp
-
+releasing	@Chuyên ngành kỹ thuật
+-sự cắt mạch
+-sự ngắt mạch
+-sự nhả khớp
+-sự tách
+-sự tháo ra
+-sự thoát ra
+@Lĩnh vực: xây dựng
+-sự tháo khớp

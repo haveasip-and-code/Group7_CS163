@@ -1,3 +1,17 @@
-ellipse
-	@ellipse /i'lips/\n*  danh từ\n- (toán học) Elip\n- (như) ellipsis\n@Chuyên ngành kỹ thuật\n-elip\n@Lĩnh vực: xây dựng\n-hình bầu dục\n@Lĩnh vực: điện\n-hình e líp\n@Chuyên ngành kỹ thuật\n-elip\n@Lĩnh vực: xây dựng\n-hình bầu dục\n@Lĩnh vực: điện\n-hình e líp
-
+ellipse	
+@ellipse /i'lips/
+*  danh từ
+- (toán học) Elip
+- (như) ellipsis
+@Chuyên ngành kỹ thuật
+-elip
+@Lĩnh vực: xây dựng
+-hình bầu dục
+@Lĩnh vực: điện
+-hình e líp
+@Chuyên ngành kỹ thuật
+-elip
+@Lĩnh vực: xây dựng
+-hình bầu dục
+@Lĩnh vực: điện
+-hình e líp

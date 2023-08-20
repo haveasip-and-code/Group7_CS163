@@ -1,3 +1,6 @@
-urologist
-	@urologist\n- xem urology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bác sĩ chuyên khoa niệu\n-nhà niệu học
-
+urologist	@urologist
+- xem urology
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bác sĩ chuyên khoa niệu
+-nhà niệu học

@@ -1,3 +1,20 @@
-flatting
-	@flatting\n* danh từ\n- cách làm đồ vật bằng và láng\n@Chuyên ngành kỹ thuật\n-dát mỏng\n-dát phẳng\n-làm bẹt\n-san phẳng\n-sự làm bằng\n-sự làm phẳng\n-sự mài mờ\n@Chuyên ngành kỹ thuật\n-dát mỏng\n-dát phẳng\n-làm bẹt\n-san phẳng\n-sự làm bằng\n-sự làm phẳng\n-sự mài mờ
-
+flatting	
+@flatting
+* danh từ
+- cách làm đồ vật bằng và láng
+@Chuyên ngành kỹ thuật
+-dát mỏng
+-dát phẳng
+-làm bẹt
+-san phẳng
+-sự làm bằng
+-sự làm phẳng
+-sự mài mờ
+@Chuyên ngành kỹ thuật
+-dát mỏng
+-dát phẳng
+-làm bẹt
+-san phẳng
+-sự làm bằng
+-sự làm phẳng
+-sự mài mờ

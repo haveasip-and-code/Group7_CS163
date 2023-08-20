@@ -1,3 +1,28 @@
-stoppage
-	@stoppage /'stɔpidʤ/\n*  danh từ\n- sự ngừng lại, sự đình chỉ\n- sự tắc, sự nghẽn\n@Chuyên ngành kinh tế\n-đình chỉ (công việc, việc kinh doanh)\n-ngưng trả tiền\n-sự giữ lại\n-sự giữ lại, khấu trừ (tiền lương)\n-sự khấu trừ (tiền lương...)\n-sự ngừng lại\n-sự ngưng trả (tiền)\n-tạm ngừng hoạt động\n@Chuyên ngành kỹ thuật\n-dừng\n-hoãn\n-ngắt\n-nút lỗ rót\n-nút sắt\n-sự bít\n-sự chắn\n-sự dừng\n-sự ngừng lại\n-sự tắc\n@Lĩnh vực: cơ khí & công trình\n-sự nghỉ (làm việc)\n@Lĩnh vực: hóa học & vật liệu\n-sự ngưng trệ
-
+stoppage	@stoppage /'stɔpidʤ/
+*  danh từ
+- sự ngừng lại, sự đình chỉ
+- sự tắc, sự nghẽn
+@Chuyên ngành kinh tế
+-đình chỉ (công việc, việc kinh doanh)
+-ngưng trả tiền
+-sự giữ lại
+-sự giữ lại, khấu trừ (tiền lương)
+-sự khấu trừ (tiền lương...)
+-sự ngừng lại
+-sự ngưng trả (tiền)
+-tạm ngừng hoạt động
+@Chuyên ngành kỹ thuật
+-dừng
+-hoãn
+-ngắt
+-nút lỗ rót
+-nút sắt
+-sự bít
+-sự chắn
+-sự dừng
+-sự ngừng lại
+-sự tắc
+@Lĩnh vực: cơ khí & công trình
+-sự nghỉ (làm việc)
+@Lĩnh vực: hóa học & vật liệu
+-sự ngưng trệ

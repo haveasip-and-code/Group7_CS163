@@ -1,3 +1,24 @@
-infiltration
-	@infiltration /,infil'treiʃn/\n*  danh từ\n- sự rỉ qua; vật rỉ qua\n- (quân sự); (chính trị) sự xâm nhập từng tốp\n- (từ Mỹ,nghĩa Mỹ),  (quân sự) sự chuyển vận (quân và xe cộ) từng tốp (để tránh máy bay địch)\n- (y học) sự thâm nhiễm\n@Chuyên ngành kinh tế\n-sự hút qua\n-sự lọc qua\n@Chuyên ngành kỹ thuật\n-sự ngấm\n-sự rỉ\n-sự rò\n-sự thấm\n-sự thấm lọc\n-sự thấm qua\n-sự thấm ra\n-sự thẩm thấu\n-vật liệu thấm lọc\n@Lĩnh vực: điện lạnh\n-sự thấm (qua)\n@Lĩnh vực: điện\n-thấm qua lọc
-
+infiltration	
+@infiltration /,infil'treiʃn/
+*  danh từ
+- sự rỉ qua; vật rỉ qua
+- (quân sự); (chính trị) sự xâm nhập từng tốp
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) sự chuyển vận (quân và xe cộ) từng tốp (để tránh máy bay địch)
+- (y học) sự thâm nhiễm
+@Chuyên ngành kinh tế
+-sự hút qua
+-sự lọc qua
+@Chuyên ngành kỹ thuật
+-sự ngấm
+-sự rỉ
+-sự rò
+-sự thấm
+-sự thấm lọc
+-sự thấm qua
+-sự thấm ra
+-sự thẩm thấu
+-vật liệu thấm lọc
+@Lĩnh vực: điện lạnh
+-sự thấm (qua)
+@Lĩnh vực: điện
+-thấm qua lọc

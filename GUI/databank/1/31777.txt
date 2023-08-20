@@ -1,3 +1,12 @@
-leasehold
-	@leasehold /'li:should/\n*  tính từ\n- thuê có hợp đồng\n@Chuyên ngành kinh tế\n-cho thuê\n-hợp đồng thuê mướn\n-quyền nắm giữ theo hợp đồng thuê\n-quyền theo hợp đồng thuê\n-quyền thừa\n-quyền thuê\n-tài sản thuê mướn\n-thuê
-
+leasehold	@leasehold /'li:should/
+*  tính từ
+- thuê có hợp đồng
+@Chuyên ngành kinh tế
+-cho thuê
+-hợp đồng thuê mướn
+-quyền nắm giữ theo hợp đồng thuê
+-quyền theo hợp đồng thuê
+-quyền thừa
+-quyền thuê
+-tài sản thuê mướn
+-thuê

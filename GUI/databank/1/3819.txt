@@ -1,3 +1,16 @@
-atomizer
-	@atomizer /'ætəmaizə/\n*  danh từ\n- máy phun\n- máy tán\n@Chuyên ngành kinh tế\n-máy phun\n@Chuyên ngành kỹ thuật\n-bộ phun\n-máy phun\n-máy tán\n-vòi phun\n@Lĩnh vực: xây dựng\n-dụng cụ phun\n@Lĩnh vực: cơ khí & công trình\n-thiết bị phun mù
-
+atomizer	
+@atomizer /'ætəmaizə/
+*  danh từ
+- máy phun
+- máy tán
+@Chuyên ngành kinh tế
+-máy phun
+@Chuyên ngành kỹ thuật
+-bộ phun
+-máy phun
+-máy tán
+-vòi phun
+@Lĩnh vực: xây dựng
+-dụng cụ phun
+@Lĩnh vực: cơ khí & công trình
+-thiết bị phun mù

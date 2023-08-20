@@ -1,3 +1,9 @@
-twelve
-	@twelve /twelv/\n*  tính từ\n- mười hai\n=he is twelve+ nó mười hai tuổi\n*  danh từ\n- số mười hai\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mười hai
-
+twelve	@twelve /twelv/
+*  tính từ
+- mười hai
+=he is twelve+ nó mười hai tuổi
+*  danh từ
+- số mười hai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-mười hai

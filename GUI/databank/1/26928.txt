@@ -1,3 +1,14 @@
-identical
-	@identical /ai'dentik/\n*  danh từ\n- (ngoại giao) identic note công hàm tư tưởng (do nhiều nước cùng gửi cho một nước)\n*  tính từ+ (identical) /ai'dentikəl/\n- đúng, chính\n=the identic room where Lenin was born+ đúng căn phòng nơi Lê-nin sinh ra\n- (lôgic,  toán) đồng nhất\n=identic proposition+ (lôgíc) mệnh đề đồng nhất\n@Chuyên ngành kỹ thuật\n-đồng nhất\n-giống nhau
-
+identical	
+@identical /ai'dentik/
+*  danh từ
+- (ngoại giao) identic note công hàm tư tưởng (do nhiều nước cùng gửi cho một nước)
+*  tính từ
++ (identical) /ai'dentikəl/
+- đúng, chính=the identic room where Lenin was born
++ đúng căn phòng nơi Lê
+-nin sinh ra
+- (lôgic,  toán) đồng nhất=identic proposition
++ (lôgíc) mệnh đề đồng nhất
+@Chuyên ngành kỹ thuật
+-đồng nhất
+-giống nhau

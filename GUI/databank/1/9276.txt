@@ -1,3 +1,10 @@
-chromogen
-	@chromogen\n* danh từ\n- chất tạo sắc\n- thể nhiễm sắc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất tạo hợp chất màu\n@Lĩnh vực: hóa học & vật liệu\n-nhóm sinh màu
-
+chromogen	
+@chromogen
+* danh từ
+- chất tạo sắc
+- thể nhiễm sắc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất tạo hợp chất màu
+@Lĩnh vực: hóa học & vật liệu
+-nhóm sinh màu

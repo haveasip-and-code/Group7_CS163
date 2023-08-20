@@ -1,3 +1,18 @@
-multiplication
-	@multiplication /,mʌltipli'keiʃn/\n*  danh từ\n- sự nhân\n- (toán học) tính nhân\n@Chuyên ngành kinh tế\n-sự nhân lên\n-sự tăng bội\n-tăng bội\n@Chuyên ngành kỹ thuật\n-sự khuếch đại\n-sự nhân\n-sự nhân lên\n@Lĩnh vực: điện lạnh\n-phép nhân\n@Lĩnh vực: toán & tin\n-tính nhân\n@Lĩnh vực: xây dựng\n-toán nhân
-
+multiplication	@multiplication /,mʌltipli'keiʃn/
+*  danh từ
+- sự nhân
+- (toán học) tính nhân
+@Chuyên ngành kinh tế
+-sự nhân lên
+-sự tăng bội
+-tăng bội
+@Chuyên ngành kỹ thuật
+-sự khuếch đại
+-sự nhân
+-sự nhân lên
+@Lĩnh vực: điện lạnh
+-phép nhân
+@Lĩnh vực: toán & tin
+-tính nhân
+@Lĩnh vực: xây dựng
+-toán nhân

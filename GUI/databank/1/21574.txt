@@ -1,3 +1,5 @@
-fluency
-	@fluency /fluency/\n*  danh từ\n- sự lưu loát, sự trôi chảy\n- sự nói lưu loát, sự viết trôi chảy
-
+fluency	
+@fluency /fluency/
+*  danh từ
+- sự lưu loát, sự trôi chảy
+- sự nói lưu loát, sự viết trôi chảy

@@ -1,3 +1,15 @@
-anode
-	@anode /'ænoud/\n*  danh từ\n- (vật lý) cực dương,  anôt\n=rotating anode+ anôt quay\n=auxiliary anode+ anôt phụ\n=main anode+ anôt chính\n=ignition anode+ anôt mồi\n=hollow anode+ anôt rỗng\n=satarting anode+ anôt khởi động\n@Chuyên ngành kỹ thuật\n-dương cực\n@Lĩnh vực: điện\n-anôt\n@Lĩnh vực: điện lạnh\n-anôt cực dương
-
+anode	@anode /'ænoud/
+*  danh từ
+- (vật lý) cực dương,  anôt
+=rotating anode+ anôt quay
+=auxiliary anode+ anôt phụ
+=main anode+ anôt chính
+=ignition anode+ anôt mồi
+=hollow anode+ anôt rỗng
+=satarting anode+ anôt khởi động
+@Chuyên ngành kỹ thuật
+-dương cực
+@Lĩnh vực: điện
+-anôt
+@Lĩnh vực: điện lạnh
+-anôt cực dương

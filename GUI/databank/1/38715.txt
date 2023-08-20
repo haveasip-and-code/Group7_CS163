@@ -1,3 +1,8 @@
-overbuild
-	@overbuild /'ouvə'bild/\n*  ngoại động từ overbuilt\n- xây trùm lên\n- xây quá nhiều nhà (trên một mảnh đất)\n- xây (nhà) quá lớn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-xây trùm lên
-
+overbuild	@overbuild /'ouvə'bild/
+*  ngoại động từ overbuilt
+- xây trùm lên
+- xây quá nhiều nhà (trên một mảnh đất)
+- xây (nhà) quá lớn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-xây trùm lên

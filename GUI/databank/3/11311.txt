@@ -1,3 +1,22 @@
-conservation
-	@conservation /,kɔnsə:'veiʃn/\n*  danh từ\n- sự giữ gìn, sự duy trì, sự bảo tồn, sự bảo toàn\n=conservation of energy+ sự bảo toàn năng lượng\n@Chuyên ngành kinh tế\n-bảo tồn (môi trường thiên nhiên)\n-sự bảo quản\n-sự dự trữ\n-sự giữ gìn\n@Chuyên ngành kỹ thuật\n-bảo toàn\n-bảo tồn\n-bảo vệ\n-gìn giữ\n-giữ gìn\n-sự bao gói\n-sự bảo quản\n-sự bảo toàn\n-sự bảo vệ\n-sự đóng hộp\n@Lĩnh vực: xây dựng\n-sự bảo tồn
-
+conservation	@conservation /,kɔnsə:'veiʃn/
+*  danh từ
+- sự giữ gìn, sự duy trì, sự bảo tồn, sự bảo toàn
+=conservation of energy+ sự bảo toàn năng lượng
+@Chuyên ngành kinh tế
+-bảo tồn (môi trường thiên nhiên)
+-sự bảo quản
+-sự dự trữ
+-sự giữ gìn
+@Chuyên ngành kỹ thuật
+-bảo toàn
+-bảo tồn
+-bảo vệ
+-gìn giữ
+-giữ gìn
+-sự bao gói
+-sự bảo quản
+-sự bảo toàn
+-sự bảo vệ
+-sự đóng hộp
+@Lĩnh vực: xây dựng
+-sự bảo tồn

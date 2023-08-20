@@ -1,3 +1,8 @@
-potting
-	@Chuyên ngành kỹ thuật\n-sự gắn vào\n-sự kết bao\n@Lĩnh vực: điện lạnh\n-sự bọc kín\n-sự tạo vỏ kín\n@Lĩnh vực: hóa học & vật liệu\n-sự hình thành vết rỗ (tàu vũ trụ)
-
+potting	@Chuyên ngành kỹ thuật
+-sự gắn vào
+-sự kết bao
+@Lĩnh vực: điện lạnh
+-sự bọc kín
+-sự tạo vỏ kín
+@Lĩnh vực: hóa học & vật liệu
+-sự hình thành vết rỗ (tàu vũ trụ)

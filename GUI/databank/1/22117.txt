@@ -1,3 +1,72 @@
-foul
-	@foul /faul/\n*  tính từ\n- hôi hám, hôi thối\n=a foul smell+ mùi hôi thối\n- bẩn thỉu, cáu bẩn\n=a foul pipe+ cái tẩu cáu bẩn\n- ươn (cá)\n- xấu, đáng ghét (thời tiết)\n- xấu, tồi, thô tục, tục tĩu, thô lỗ\n=foul motive+ động cơ xấu\n=foul talk+ chuyện tục tĩu\n- (từ lóng) gớm, tởm, kinh tởm\n- nhiễm độc\n=foul air+ không khí nhiễm độc\n- nhiều rêu; nhiều hà (đáy tàu)\n- tắc nghẽn\n=a foul gun-barrel+ nòng súng bị tắc\n- rối (dây thừng)\n- trái luật, gian lận\n=a foul blow+ cú đấm trái luật\n=foul game+ trò chơi gian lận\n- ngược (gió)\n- (ngành in) nhiều lỗi\n=a foul copy+ bản in nhiều lỗi\n!by fair means or foul\n- (xem) mean\n*  phó từ\n- trái luật, gian trá, gian lận\n=to hit foul+ đánh một cú trái luật\n=to play somebody foul+ chơi xỏ ai; gian trá đối với ai\n!to fall (go, run) foul of\n- va phải, đụng phải\n- (nghĩa bóng) đụng chạm với, va chạm với\n*  danh từ\n- vật bẩn, vật hôi thối\n- điều xấu\n- sự đụng, sự chạm, sự va\n- sự vướng mắc vào nhau, sự rối\n- cú đấm trái luật; cú ăn gian; cú chơi xấu (bóng đá...)\n!through foul and fair\n- bằng mọi cách\n*  nội động từ\n- trở nên bẩn, trở nên hôi thối\n- va chạm, đụng chạm\n- bị tắc nghẽn; bị vướng, bị rối\n- chơi trái luật; chơi ăn gian; chơi xấu\n*  ngoại động từ\n- làm xấu, làm dơ bẩn, làm nhơ nhuốc\n- đụng chạm vào, va chạm vào (cái gì)\n- làm tắc nghẽn (đường đi lại); làm rối\n!to foul up\n- (thông tục) làm rối tung\n!to foul one's nest\n- làm ô danh gia đình\n@Chuyên ngành kinh tế\n-bẩn thỉu\n-đâm va\n-đụng chạm\n-sự đâm va\n-sự đụng\n-thô tục\n-tồi\n-va chạm\n-xấu\n@Chuyên ngành kỹ thuật\n-bị nghẹt\n-bị rối\n-chất bẩn\n-đóng cáu\n-làm tắc nghẽn\n@Lĩnh vực: môi trường\n-làm hôi hám\n@Lĩnh vực: giao thông & vận tải\n-làm rối\n-rối (dây thừng)
-
+foul	
+@foul /faul/
+*  tính từ
+- hôi hám, hôi thối=a foul smell
++ mùi hôi thối
+- bẩn thỉu, cáu bẩn=a foul pipe
++ cái tẩu cáu bẩn
+- ươn (cá)
+- xấu, đáng ghét (thời tiết)
+- xấu, tồi, thô tục, tục tĩu, thô lỗ=foul motive
++ động cơ xấu=foul talk
++ chuyện tục tĩu
+- (từ lóng) gớm, tởm, kinh tởm
+- nhiễm độc=foul air
++ không khí nhiễm độc
+- nhiều rêu; nhiều hà (đáy tàu)
+- tắc nghẽn=a foul gun
+-barrel
++ nòng súng bị tắc
+- rối (dây thừng)
+- trái luật, gian lận=a foul blow
++ cú đấm trái luật=foul game
++ trò chơi gian lận
+- ngược (gió)
+- (ngành in) nhiều lỗi=a foul copy
++ bản in nhiều lỗi!by fair means or foul
+- (xem) mean
+*  phó từ
+- trái luật, gian trá, gian lận=to hit foul
++ đánh một cú trái luật=to play somebody foul
++ chơi xỏ ai; gian trá đối với ai!to fall (go, run) foul of
+- va phải, đụng phải
+- (nghĩa bóng) đụng chạm với, va chạm với
+*  danh từ
+- vật bẩn, vật hôi thối
+- điều xấu
+- sự đụng, sự chạm, sự va
+- sự vướng mắc vào nhau, sự rối
+- cú đấm trái luật; cú ăn gian; cú chơi xấu (bóng đá...)!through foul and fair
+- bằng mọi cách
+*  nội động từ
+- trở nên bẩn, trở nên hôi thối
+- va chạm, đụng chạm
+- bị tắc nghẽn; bị vướng, bị rối
+- chơi trái luật; chơi ăn gian; chơi xấu
+*  ngoại động từ
+- làm xấu, làm dơ bẩn, làm nhơ nhuốc
+- đụng chạm vào, va chạm vào (cái gì)
+- làm tắc nghẽn (đường đi lại); làm rối!to foul up
+- (thông tục) làm rối tung!to foul one's nest
+- làm ô danh gia đình
+@Chuyên ngành kinh tế
+-bẩn thỉu
+-đâm va
+-đụng chạm
+-sự đâm va
+-sự đụng
+-thô tục
+-tồi
+-va chạm
+-xấu
+@Chuyên ngành kỹ thuật
+-bị nghẹt
+-bị rối
+-chất bẩn
+-đóng cáu
+-làm tắc nghẽn
+@Lĩnh vực: môi trường
+-làm hôi hám
+@Lĩnh vực: giao thông & vận tải
+-làm rối
+-rối (dây thừng)

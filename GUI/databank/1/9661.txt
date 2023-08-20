@@ -1,3 +1,4 @@
-clast
-	@clast\n* danh từ\n- mảnh đá
-
+clast	
+@clast
+* danh từ
+- mảnh đá

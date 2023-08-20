@@ -1,3 +1,7 @@
-quartered
-	@Chuyên ngành kinh tế\n-cắt thành bốn\n-chia bốn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được cắt thành tư\n-được chia tư
-
+quartered	@Chuyên ngành kinh tế
+-cắt thành bốn
+-chia bốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được cắt thành tư
+-được chia tư

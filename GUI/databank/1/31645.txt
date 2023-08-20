@@ -1,3 +1,41 @@
-laugh
-	@laugh /lɑ:f/\n*  danh từ\n- tiếng cười\n=to burst into a laugh+ cười phá lên\n=to have a good laugh at somebody+ được cười ai một trận thoả thích\n=to have (get) the laugh of (at, on) somebody; to have (get) the laugh on someone's side+ cười lại ai (nghĩa bóng) quật lại thắng thế ai\n=to force a laugh+ gượng cười\n*  động từ\n- cười, cười vui, cười cợt\n=to laugh oneself into fits (convulsions)+ cười đau cả bụng\n=to burst out laughing+ cười phá lên\n=to laugh a bitter laugh+ cười cái cười chua chát\n=to laugh oneself helpless+ cười phát sặc lên, cười phát ho lên\n!to laugh at\n- cười, cười nhạo, cười coi thường\n!to laugh away\n- cười để xua đuổi, cười để gạt bỏ (cái gì)\n=to laugh away one's fears and anxiety+ cười để xua đuổi những nỗi lo âu sợ hãi\n!to laugh down\n- cười át đi\n!to laugh off\n- cười mà tránh đi (khó khăn...), cười xoà\n!to laugh over\n- cười khi xem xét, cười khi thảo luận (vấn đề gì)\n!to laugh in someone's face\n- cười vào mặt ai, chế diễu ai, chế nhạo ai\n!to laugh in one's sleeve\n- cười thầm\n!to laugh on the other side (corner) of the mouth\n!to laugh on the wrong side of one's mouth (face)\n- đang vui trở nên buồn, đang cười lại mếu\n!to laugh somebody out of court\n- bêu rếu ai để mọi người cười làm cho toà không còn nghe được người người ấy khai nữa\n!to laugh somebody out of some habit\n- cười người nào để cho bỏ một thói gì đi\n!he laughs best who laughts last\n- (tục ngữ) cười người chớ khá cười lâu, cười người hôm trước hôm sau người cười\n@Chuyên ngành kỹ thuật\n-cười\n@Chuyên ngành kỹ thuật\n-cười
-
+laugh	@laugh /lɑ:f/
+*  danh từ
+- tiếng cười
+=to burst into a laugh+ cười phá lên
+=to have a good laugh at somebody+ được cười ai một trận thoả thích
+=to have (get) the laugh of (at, on) somebody; to have (get) the laugh on someone's side+ cười lại ai (nghĩa bóng) quật lại thắng thế ai
+=to force a laugh+ gượng cười
+*  động từ
+- cười, cười vui, cười cợt
+=to laugh oneself into fits (convulsions)+ cười đau cả bụng
+=to burst out laughing+ cười phá lên
+=to laugh a bitter laugh+ cười cái cười chua chát
+=to laugh oneself helpless+ cười phát sặc lên, cười phát ho lên
+!to laugh at
+- cười, cười nhạo, cười coi thường
+!to laugh away
+- cười để xua đuổi, cười để gạt bỏ (cái gì)
+=to laugh away one's fears and anxiety+ cười để xua đuổi những nỗi lo âu sợ hãi
+!to laugh down
+- cười át đi
+!to laugh off
+- cười mà tránh đi (khó khăn...), cười xoà
+!to laugh over
+- cười khi xem xét, cười khi thảo luận (vấn đề gì)
+!to laugh in someone's face
+- cười vào mặt ai, chế diễu ai, chế nhạo ai
+!to laugh in one's sleeve
+- cười thầm
+!to laugh on the other side (corner) of the mouth
+!to laugh on the wrong side of one's mouth (face)
+- đang vui trở nên buồn, đang cười lại mếu
+!to laugh somebody out of court
+- bêu rếu ai để mọi người cười làm cho toà không còn nghe được người người ấy khai nữa
+!to laugh somebody out of some habit
+- cười người nào để cho bỏ một thói gì đi
+!he laughs best who laughts last
+- (tục ngữ) cười người chớ khá cười lâu, cười người hôm trước hôm sau người cười
+@Chuyên ngành kỹ thuật
+-cười
+@Chuyên ngành kỹ thuật
+-cười

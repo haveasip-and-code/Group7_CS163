@@ -1,3 +1,4 @@
-glial
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc thần kinh đệm
-
+glial	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc thần kinh đệm

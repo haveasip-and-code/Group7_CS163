@@ -1,3 +1,15 @@
-mains
-	@Chuyên ngành kỹ thuật\n-lưới\n-lưới điện\n-lưới điện chính\n-nguồn điện chính\n-nguồn điện lưới\n-mạng cấp điện\n-mạng điện\n-mạng điện chính\n-mạng điện năng\n-mạng lưới\n@Lĩnh vực: điện\n-nguồn (điện) chính\n-nguồn (điện) lưới\n-mạng điện (năng)
-
+mains	@Chuyên ngành kỹ thuật
+-lưới
+-lưới điện
+-lưới điện chính
+-nguồn điện chính
+-nguồn điện lưới
+-mạng cấp điện
+-mạng điện
+-mạng điện chính
+-mạng điện năng
+-mạng lưới
+@Lĩnh vực: điện
+-nguồn (điện) chính
+-nguồn (điện) lưới
+-mạng điện (năng)

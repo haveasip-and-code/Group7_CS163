@@ -1,3 +1,8 @@
-dielectric
-	@dielectric\n- (Tech) điện môi\n@Chuyên ngành kỹ thuật\n-vật cách điện\n@Lĩnh vực: hóa học & vật liệu\n-chất điện môi\n@Lĩnh vực: y học\n-điện môi
-
+dielectric	@dielectric
+- (Tech) điện môi
+@Chuyên ngành kỹ thuật
+-vật cách điện
+@Lĩnh vực: hóa học & vật liệu
+-chất điện môi
+@Lĩnh vực: y học
+-điện môi

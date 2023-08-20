@@ -1,3 +1,14 @@
-refractivity
-	@refractivity /,rifræk'tiviti/\n*  danh từ\n- (vật lý) tính khúc xạ\n@Chuyên ngành kỹ thuật\n-độ khúc xạ\n-hiện tượng khúc xạ\n@Lĩnh vực: điện tử & viễn thông\n-chỉ số khúc xạ\n@Lĩnh vực: điện lạnh\n-độ khúc xạ (riêng)\n@Lĩnh vực: hóa học & vật liệu\n-độ khúc xạ riêng\n@Lĩnh vực: y học\n-tính khúc xạ
-
+refractivity	@refractivity /,rifræk'tiviti/
+*  danh từ
+- (vật lý) tính khúc xạ
+@Chuyên ngành kỹ thuật
+-độ khúc xạ
+-hiện tượng khúc xạ
+@Lĩnh vực: điện tử & viễn thông
+-chỉ số khúc xạ
+@Lĩnh vực: điện lạnh
+-độ khúc xạ (riêng)
+@Lĩnh vực: hóa học & vật liệu
+-độ khúc xạ riêng
+@Lĩnh vực: y học
+-tính khúc xạ

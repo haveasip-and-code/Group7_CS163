@@ -1,3 +1,5 @@
-readable
-	@readable /'ri:dəbl/\n*  tính từ\n- hay, đọc được (sách)\n- (từ hiếm,nghĩa hiếm) dễ đọc, viết rõ\n=readable handwriting+ chữ viết dễ đọc
-
+readable	@readable /'ri:dəbl/
+*  tính từ
+- hay, đọc được (sách)
+- (từ hiếm,nghĩa hiếm) dễ đọc, viết rõ
+=readable handwriting+ chữ viết dễ đọc

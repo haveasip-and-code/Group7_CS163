@@ -1,3 +1,23 @@
-flourish
-	@flourish /flourish/\n*  danh từ\n- sự trang trí bay bướm; nét trang trí hoa mỹ; nét viền hoa mỹ\n- sự diễn đạt hoa mỹ; sự vận động tu từ\n- sự vung (gươm, vũ khí, tay)\n- (âm nhạc) hồi kèn; nét hoa mỹ; đoạn nhạc đệm tuỳ ứng; nhạc dạo tuỳ ứng\n- (từ hiếm,nghĩa hiếm) sự thịnh vượng\n- sự phồn thịnh\n=in full flourish+ vào lúc phồn thịnh nhất\n*  nội động từ\n- hưng thịnh, thịnh vượng, phát đạt; thành công; phát triển, mọc sum sê (cây...)\n- viết hoa mỹ, nói hoa mỹ\n- khoa trương\n- (âm nhạc) dạo nhạc một cách bay bướm; thổi một hồi kèn\n*  ngoại động từ\n- vung (vũ khí); khoa (chân), múa (tay)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phát đạt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phát đạt
-
+flourish	
+@flourish /flourish/
+*  danh từ
+- sự trang trí bay bướm; nét trang trí hoa mỹ; nét viền hoa mỹ
+- sự diễn đạt hoa mỹ; sự vận động tu từ
+- sự vung (gươm, vũ khí, tay)
+- (âm nhạc) hồi kèn; nét hoa mỹ; đoạn nhạc đệm tuỳ ứng; nhạc dạo tuỳ ứng
+- (từ hiếm,nghĩa hiếm) sự thịnh vượng
+- sự phồn thịnh=in full flourish
++ vào lúc phồn thịnh nhất
+*  nội động từ
+- hưng thịnh, thịnh vượng, phát đạt; thành công; phát triển, mọc sum sê (cây...)
+- viết hoa mỹ, nói hoa mỹ
+- khoa trương
+- (âm nhạc) dạo nhạc một cách bay bướm; thổi một hồi kèn
+*  ngoại động từ
+- vung (vũ khí); khoa (chân), múa (tay)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phát đạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phát đạt

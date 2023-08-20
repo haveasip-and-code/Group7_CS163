@@ -1,3 +1,14 @@
-tailing
-	@tailing\n* danh từ\n- phần cuối\n- (số nhiều) vật thải; cặn bã; vật đầu thừa đuôi thẹo\n@Chuyên ngành kinh tế\n-phế phẩm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-quặng đuôi (tuyển khoáng)\n@Lĩnh vực: cơ khí & công trình\n-rẻo thừa\n-sự kẹp phần đuôi (của bộ phận côngxôn)\n@Lĩnh vực: xây dựng\n-sự ngàm đầu
-
+tailing	@tailing
+* danh từ
+- phần cuối
+- (số nhiều) vật thải; cặn bã; vật đầu thừa đuôi thẹo
+@Chuyên ngành kinh tế
+-phế phẩm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-quặng đuôi (tuyển khoáng)
+@Lĩnh vực: cơ khí & công trình
+-rẻo thừa
+-sự kẹp phần đuôi (của bộ phận côngxôn)
+@Lĩnh vực: xây dựng
+-sự ngàm đầu

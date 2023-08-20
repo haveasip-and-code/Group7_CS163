@@ -1,3 +1,19 @@
-prolong
-	@prolong /prolong/\n*  ngoại động từ\n- kéo dài; nối dài; gia hạn\n=to prolong a straigh line+ kéo dài một đường thẳng\n=to prolong a visit+ kéo dài cuộc đi thăm\n=to prolong a wall+ nối dài thêm một bức tường\n- phát âm kéo dài (một âm tiết...)\n@Chuyên ngành kinh tế\n-kéo dài\n-nối dài\n@Chuyên ngành kỹ thuật\n-kéo dài\n-mở rộng\n@Lĩnh vực: xây dựng\n-gia hạn\n@Lĩnh vực: hóa học & vật liệu\n-ống ngưng\n@Lĩnh vực: toán & tin\n-thác triển
-
+prolong	@prolong /prolong/
+*  ngoại động từ
+- kéo dài; nối dài; gia hạn
+=to prolong a straigh line+ kéo dài một đường thẳng
+=to prolong a visit+ kéo dài cuộc đi thăm
+=to prolong a wall+ nối dài thêm một bức tường
+- phát âm kéo dài (một âm tiết...)
+@Chuyên ngành kinh tế
+-kéo dài
+-nối dài
+@Chuyên ngành kỹ thuật
+-kéo dài
+-mở rộng
+@Lĩnh vực: xây dựng
+-gia hạn
+@Lĩnh vực: hóa học & vật liệu
+-ống ngưng
+@Lĩnh vực: toán & tin
+-thác triển

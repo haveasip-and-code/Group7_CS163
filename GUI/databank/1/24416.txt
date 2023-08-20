@@ -1,3 +1,13 @@
-grouting
-	@Chuyên ngành kỹ thuật\n-sự đệm\n-sự phun vữa\n-sự trám\n-sự trét\n-vữa lỏng\n@Lĩnh vực: xây dựng\n-phun vữa\n-phun vữa ximăng\n-quét nước ximăng\n-sự đổ vữa\n-tiêm vữa
-
+grouting	
+@Chuyên ngành kỹ thuật
+-sự đệm
+-sự phun vữa
+-sự trám
+-sự trét
+-vữa lỏng
+@Lĩnh vực: xây dựng
+-phun vữa
+-phun vữa ximăng
+-quét nước ximăng
+-sự đổ vữa
+-tiêm vữa

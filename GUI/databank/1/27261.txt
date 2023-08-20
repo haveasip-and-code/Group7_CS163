@@ -1,3 +1,19 @@
-immovable
-	@immovable /i'mu:vəbl/\n*  tính từ\n- không chuyển động được, không xê dịch được; bất động\n- bất di bất dịch, không thay đổi\n=an immovable stand+ lập trường bất di bất dịch\n- không lay chuyển được; không xúc động\n- (pháp lý) bất động (tài sản)\n*  danh từ,  (thường) số nhiều\n- (pháp lý) của bất động, bất động sản\n@Chuyên ngành kinh tế\n-bất động (tài sản)\n@Chuyên ngành kỹ thuật\n-bất động\n-không di động\n@Lĩnh vực: toán & tin\n-không chuyển động được\n@Lĩnh vực: xây dựng\n-không di chuyển (được)
-
+immovable	
+@immovable /i'mu:vəbl/
+*  tính từ
+- không chuyển động được, không xê dịch được; bất động
+- bất di bất dịch, không thay đổi=an immovable stand
++ lập trường bất di bất dịch
+- không lay chuyển được; không xúc động
+- (pháp lý) bất động (tài sản)
+*  danh từ,  (thường) số nhiều
+- (pháp lý) của bất động, bất động sản
+@Chuyên ngành kinh tế
+-bất động (tài sản)
+@Chuyên ngành kỹ thuật
+-bất động
+-không di động
+@Lĩnh vực: toán & tin
+-không chuyển động được
+@Lĩnh vực: xây dựng
+-không di chuyển (được)

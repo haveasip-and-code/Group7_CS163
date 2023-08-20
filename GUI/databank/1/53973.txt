@@ -1,3 +1,20 @@
-subbase
-	@subbase\n* danh từ\n- cái nền ở dưới; dưới nền\n@Chuyên ngành kỹ thuật\n-chân cột\n-chân tường\n-gờ chân cột\n-lớp (đất) ở dưới\n-lớp đệm\n-lớp móng\n-nền\n-móng\n@Lĩnh vực: toán & tin\n-cơ sở con\n@Lĩnh vực: xây dựng\n-lớp móng dưới\n-lớp nền (đường) lớp móng\n-nền (xây dựng móng)\n-nền dưới\n-móng dưới
-
+subbase	@subbase
+* danh từ
+- cái nền ở dưới; dưới nền
+@Chuyên ngành kỹ thuật
+-chân cột
+-chân tường
+-gờ chân cột
+-lớp (đất) ở dưới
+-lớp đệm
+-lớp móng
+-nền
+-móng
+@Lĩnh vực: toán & tin
+-cơ sở con
+@Lĩnh vực: xây dựng
+-lớp móng dưới
+-lớp nền (đường) lớp móng
+-nền (xây dựng móng)
+-nền dưới
+-móng dưới

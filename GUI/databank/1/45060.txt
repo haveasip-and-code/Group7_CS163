@@ -1,3 +1,9 @@
-quantic
-	@quantic\n- (đại số) dạng\n- binary q. dạng song biến\n- eubic q. dạng bậc ba\n- quartic q. dạng bậc bốn\n- quaternary q. dạng bốn biến số\n- ternary q. dạng ba biến số\n@Chuyên ngành kỹ thuật\n-dạng
-
+quantic	@quantic
+- (đại số) dạng
+- binary q. dạng song biến
+- eubic q. dạng bậc ba
+- quartic q. dạng bậc bốn
+- quaternary q. dạng bốn biến số
+- ternary q. dạng ba biến số
+@Chuyên ngành kỹ thuật
+-dạng

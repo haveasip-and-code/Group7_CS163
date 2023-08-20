@@ -1,3 +1,14 @@
-vegetation
-	@vegetation /,vedʤi'teiʃn/\n*  danh từ\n- cây cối, cây cỏ, thực vật\n=the luxuriant vegetation of tropical forests+ cây cối sum sê của những rừng nhiệt đới\n=no signs of vegetation for miles round+ không có dấu vết cây cỏ gì trong hàng dặm quanh đấy\n- (sinh vật học) sự sinh dưỡng\n- (y học) sùi\n@Chuyên ngành kinh tế\n-rau quả\n-thực vật\n@Chuyên ngành kỹ thuật\n-thực vật\n@Lĩnh vực: y học\n-sùi (trong bệnh học)
-
+vegetation	@vegetation /,vedʤi'teiʃn/
+*  danh từ
+- cây cối, cây cỏ, thực vật
+=the luxuriant vegetation of tropical forests+ cây cối sum sê của những rừng nhiệt đới
+=no signs of vegetation for miles round+ không có dấu vết cây cỏ gì trong hàng dặm quanh đấy
+- (sinh vật học) sự sinh dưỡng
+- (y học) sùi
+@Chuyên ngành kinh tế
+-rau quả
+-thực vật
+@Chuyên ngành kỹ thuật
+-thực vật
+@Lĩnh vực: y học
+-sùi (trong bệnh học)

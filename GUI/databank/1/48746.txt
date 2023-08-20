@@ -1,3 +1,5 @@
-sass
-	@sass /sæs/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) lời nói hỗn xược\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) nói hỗn xược (với ai)
-
+sass	@sass /sæs/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lời nói hỗn xược
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nói hỗn xược (với ai)

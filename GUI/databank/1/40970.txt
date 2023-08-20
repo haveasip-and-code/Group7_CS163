@@ -1,3 +1,2 @@
-petter
-	@petter\n- xem pet
-
+petter	@petter
+- xem pet

@@ -1,3 +1,2 @@
-conflictive
-	@conflictive\n- xem conflict
-
+conflictive	@conflictive
+- xem conflict

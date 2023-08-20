@@ -1,3 +1,22 @@
-polarization
-	@polarization /,poulərai'zeiʃn/\n*  danh từ\n- sự phân cực, độ phân cực\n=magnetic polarization+ sự phân cực từ\n=nuclear polarization+ sự phân cực hạt nhân\n@Chuyên ngành kinh tế\n-sự phân cực\n@Chuyên ngành kỹ thuật\n-độ phân cực\n-độ phân cực điện\n-sự cực hưởng\n-sự phân cực\n@Lĩnh vực: điện tử & viễn thông\n-hiện tượng phân cực\n@Lĩnh vực: xây dựng\n-kính phân quang\n-sự cực hóa\n@Lĩnh vực: hóa học & vật liệu\n-phân cực hóa\n@Lĩnh vực: điện lạnh\n-sự phân cực (trong điện trường)\n-sự phân cực pin
-
+polarization	@polarization /,poulərai'zeiʃn/
+*  danh từ
+- sự phân cực, độ phân cực
+=magnetic polarization+ sự phân cực từ
+=nuclear polarization+ sự phân cực hạt nhân
+@Chuyên ngành kinh tế
+-sự phân cực
+@Chuyên ngành kỹ thuật
+-độ phân cực
+-độ phân cực điện
+-sự cực hưởng
+-sự phân cực
+@Lĩnh vực: điện tử & viễn thông
+-hiện tượng phân cực
+@Lĩnh vực: xây dựng
+-kính phân quang
+-sự cực hóa
+@Lĩnh vực: hóa học & vật liệu
+-phân cực hóa
+@Lĩnh vực: điện lạnh
+-sự phân cực (trong điện trường)
+-sự phân cực pin

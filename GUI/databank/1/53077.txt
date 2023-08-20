@@ -1,3 +1,5 @@
-stationing
-	@Chuyên ngành kỹ thuật\n-định vị\n@Lĩnh vực: xây dựng\n-hệ thống cọc đo\n-sự đặt cọc đo
-
+stationing	@Chuyên ngành kỹ thuật
+-định vị
+@Lĩnh vực: xây dựng
+-hệ thống cọc đo
+-sự đặt cọc đo

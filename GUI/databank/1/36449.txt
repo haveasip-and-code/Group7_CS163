@@ -1,3 +1,2 @@
-necessities
-	@Chuyên ngành kinh tế\n-vật dụng cần thiết
-
+necessities	@Chuyên ngành kinh tế
+-vật dụng cần thiết

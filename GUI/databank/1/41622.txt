@@ -1,3 +1,8 @@
-ping
-	@ping /piɳ/\n*  danh từ\n- tiếng vèo (đạn bay...)\n*  nội động từ\n- bay vèo (đạn)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phát ra tiếng ping
-
+ping	@ping /piɳ/
+*  danh từ
+- tiếng vèo (đạn bay...)
+*  nội động từ
+- bay vèo (đạn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phát ra tiếng ping

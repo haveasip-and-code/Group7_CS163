@@ -1,3 +1,5 @@
-backscatter
-	@Chuyên ngành kỹ thuật\n-sự tán xạ ngược\n@Lĩnh vực: vật lý\n-làm tán xạ ngược
-
+backscatter	
+@Chuyên ngành kỹ thuật
+-sự tán xạ ngược
+@Lĩnh vực: vật lý
+-làm tán xạ ngược

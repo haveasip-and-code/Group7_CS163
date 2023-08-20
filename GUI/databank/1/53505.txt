@@ -1,3 +1,6 @@
-stoning
-	@Chuyên ngành kỹ thuật\n-sự đổ đá\n-sự mài men sứ\n-sự mài mòn\n@Lĩnh vực: xây dựng\n-đắp đá
-
+stoning	@Chuyên ngành kỹ thuật
+-sự đổ đá
+-sự mài men sứ
+-sự mài mòn
+@Lĩnh vực: xây dựng
+-đắp đá

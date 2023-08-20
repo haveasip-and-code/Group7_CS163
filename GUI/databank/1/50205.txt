@@ -1,3 +1,20 @@
-shaping
-	@Chuyên ngành kinh tế\n-sự tạo hình\n@Chuyên ngành kỹ thuật\n-hình vẽ\n-sự định hình\n-sự tạo dạng\n-sự tạo dạng (bánh răng)\n-sự tạo hình\n-sự tạo khuôn\n@Lĩnh vực: cơ khí & công trình\n-sự bào ngang\n-sự thành hình\n@Lĩnh vực: điện tử & viễn thông\n-sự chỉnh dạng\n@Lĩnh vực: điện lạnh\n-sự tạo dáng\n@Lĩnh vực: y học\n-tạo dáng\n@Lĩnh vực: toán & tin\n-vẽ hình
-
+shaping	@Chuyên ngành kinh tế
+-sự tạo hình
+@Chuyên ngành kỹ thuật
+-hình vẽ
+-sự định hình
+-sự tạo dạng
+-sự tạo dạng (bánh răng)
+-sự tạo hình
+-sự tạo khuôn
+@Lĩnh vực: cơ khí & công trình
+-sự bào ngang
+-sự thành hình
+@Lĩnh vực: điện tử & viễn thông
+-sự chỉnh dạng
+@Lĩnh vực: điện lạnh
+-sự tạo dáng
+@Lĩnh vực: y học
+-tạo dáng
+@Lĩnh vực: toán & tin
+-vẽ hình

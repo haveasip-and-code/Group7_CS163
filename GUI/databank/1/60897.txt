@@ -1,3 +1,8 @@
-upsilon
-	@upsilon\n- epxilon (&#949;)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-epsilon\n-epxilon\n@Lĩnh vực: điện lạnh\n-hạt upsilon
-
+upsilon	@upsilon
+- epxilon (&#949;)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-epsilon
+-epxilon
+@Lĩnh vực: điện lạnh
+-hạt upsilon

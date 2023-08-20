@@ -1,3 +1,4 @@
-knocking
-	@Chuyên ngành kỹ thuật\n-sự kích nổ\n@Chuyên ngành kỹ thuật\n-sự kích nổ
-
+knocking	@Chuyên ngành kỹ thuật
+-sự kích nổ
+@Chuyên ngành kỹ thuật
+-sự kích nổ

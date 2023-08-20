@@ -1,3 +1,6 @@
-debase
-	@debase /di'beis/\n*  ngoại động từ\n- làm mất phẩm cách, làm xấu đi, làm đê tiện, làm đê hèn\n- làm giảm giá trị, làm giảm chất lượng\n- làm giả (tiền...)
-
+debase	
+@debase /di'beis/
+*  ngoại động từ
+- làm mất phẩm cách, làm xấu đi, làm đê tiện, làm đê hèn
+- làm giảm giá trị, làm giảm chất lượng
+- làm giả (tiền...)

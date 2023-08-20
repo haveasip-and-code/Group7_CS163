@@ -1,3 +1,23 @@
-conveyor
-	@conveyor\n- (Tech) băng truyền; máy truyền; băng tải\n@Chuyên ngành kinh tế\n-băng tải\n-người chuyển nhượng tài sản\n-người vận chuyển (hàng hóa)\n-thiết bị chuyền tải\n-thiết bị vận chuyển\n@Chuyên ngành kỹ thuật\n-băng chuyền\n-băng chuyển\n-băng tải\n-băng truyền\n-thiết bị vận chuyển\n-vật dẫn điện\n@Lĩnh vực: xây dựng\n-máy tải\n-thang lăn\n-thiết bị chuyền tải\n@Lĩnh vực: giao thông & vận tải\n-thiết bị chuyên chở\n-thiết bị chuyên tải
-
+conveyor	
+@conveyor
+- (Tech) băng truyền; máy truyền; băng tải
+@Chuyên ngành kinh tế
+-băng tải
+-người chuyển nhượng tài sản
+-người vận chuyển (hàng hóa)
+-thiết bị chuyền tải
+-thiết bị vận chuyển
+@Chuyên ngành kỹ thuật
+-băng chuyền
+-băng chuyển
+-băng tải
+-băng truyền
+-thiết bị vận chuyển
+-vật dẫn điện
+@Lĩnh vực: xây dựng
+-máy tải
+-thang lăn
+-thiết bị chuyền tải
+@Lĩnh vực: giao thông & vận tải
+-thiết bị chuyên chở
+-thiết bị chuyên tải

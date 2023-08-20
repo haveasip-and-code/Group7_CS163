@@ -1,3 +1,4 @@
-prepared
-	@Chuyên ngành kỹ thuật\n-đã chuẩn bị\n-đã xử lý sơ bộ\n-được điều chế
-
+prepared	@Chuyên ngành kỹ thuật
+-đã chuẩn bị
+-đã xử lý sơ bộ
+-được điều chế

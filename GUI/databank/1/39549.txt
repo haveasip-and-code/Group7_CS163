@@ -1,3 +1,2 @@
-parader
-	@parader\n- xem parade
-
+parader	@parader
+- xem parade

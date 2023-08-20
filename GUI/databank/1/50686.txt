@@ -1,3 +1,8 @@
-signed
-	@signed\n- có dấu\n@Chuyên ngành kinh tế\n-đã ký\n@Chuyên ngành kỹ thuật\n-đã ký\n@Lĩnh vực: toán & tin\n-có dấu
-
+signed	@signed
+- có dấu
+@Chuyên ngành kinh tế
+-đã ký
+@Chuyên ngành kỹ thuật
+-đã ký
+@Lĩnh vực: toán & tin
+-có dấu

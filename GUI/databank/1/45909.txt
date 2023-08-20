@@ -1,3 +1,31 @@
-reception
-	@reception /ri'sepʃn/\n*  danh từ\n- sự nhận, sự thu nhận, sự lĩnh\n- sự tiếp nhận, sự kết nạp (vào một tổ chức nào...)\n=to be honoured by reception into the Academy+ được vinh dự tiếp nhận vào viện hàn lâm\n- sự đón tiếp\n=to give someone a warm reception+ tiếp đón ai niềm nở\n=the play met with a warm reception+ vở kịch được nhiệt liệt hoan nghênh\n- sự tiếp nhận; tiệc chiêu đãi\n=to give a reception+ tổ chức chiêu đãi\n- (kỹ thuật),  (rađiô) sự thu; phép thu\n=shortdistance reception+ sự thu tầm gần\n- sự tiếp thu (tư tưởng...)\n=to have a great faculty of reception+ có khả năng tiếp thu lớn\n@Chuyên ngành kinh tế\n-bàn tiếp đãi\n-phòng tiếp tân\n-quầy tiếp tân\n-sự thu nhận\n-sự tiếp đãi\n-sự tiếp đón\n@Chuyên ngành kỹ thuật\n-sự nhận\n-sự thu\n-sự thu nhận\n@Lĩnh vực: điện lạnh\n-phép thu\n@Lĩnh vực: toán & tin\n-sự thu nhận (tín hiệu)\n@Lĩnh vực: xây dựng\n-tiếp đón
-
+reception	@reception /ri'sepʃn/
+*  danh từ
+- sự nhận, sự thu nhận, sự lĩnh
+- sự tiếp nhận, sự kết nạp (vào một tổ chức nào...)
+=to be honoured by reception into the Academy+ được vinh dự tiếp nhận vào viện hàn lâm
+- sự đón tiếp
+=to give someone a warm reception+ tiếp đón ai niềm nở
+=the play met with a warm reception+ vở kịch được nhiệt liệt hoan nghênh
+- sự tiếp nhận; tiệc chiêu đãi
+=to give a reception+ tổ chức chiêu đãi
+- (kỹ thuật),  (rađiô) sự thu; phép thu
+=shortdistance reception+ sự thu tầm gần
+- sự tiếp thu (tư tưởng...)
+=to have a great faculty of reception+ có khả năng tiếp thu lớn
+@Chuyên ngành kinh tế
+-bàn tiếp đãi
+-phòng tiếp tân
+-quầy tiếp tân
+-sự thu nhận
+-sự tiếp đãi
+-sự tiếp đón
+@Chuyên ngành kỹ thuật
+-sự nhận
+-sự thu
+-sự thu nhận
+@Lĩnh vực: điện lạnh
+-phép thu
+@Lĩnh vực: toán & tin
+-sự thu nhận (tín hiệu)
+@Lĩnh vực: xây dựng
+-tiếp đón

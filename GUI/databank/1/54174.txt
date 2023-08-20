@@ -1,3 +1,2 @@
-subsale
-	@Chuyên ngành kinh tế\n-sự bán lại
-
+subsale	@Chuyên ngành kinh tế
+-sự bán lại

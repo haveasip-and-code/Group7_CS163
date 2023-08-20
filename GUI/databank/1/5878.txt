@@ -1,3 +1,4 @@
-bleb
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mụn, mụn nước
-
+bleb	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-mụn, mụn nước

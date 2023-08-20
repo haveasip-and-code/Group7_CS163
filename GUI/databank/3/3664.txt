@@ -1,3 +1,2 @@
-assumable
-	@assumable\n- xem assume
-
+assumable	@assumable
+- xem assume

@@ -1,3 +1,26 @@
-actuator
-	@actuator\n- (Tech) bộ [cần] truyền động; bộ kích thích; bộ viết-đọc; bộ điều tiết; thiết bị truyền động [TQ]\n@Chuyên ngành kỹ thuật\n-bộ dẫn động\n-bộ khởi động\n-bộ kích động\n-bộ kích thích\n-bộ phận truyền động\n-cơ cấu điều chỉnh\n-cơ cấu phát động\n-cơ cấu truyền động\n-hệ khởi động\n-phần tử dẫn động\n@Lĩnh vực: điện tử & viễn thông\n-bộ phận thao diễn\n@Lĩnh vực: điện\n-bộ tác động\n@Lĩnh vực: cơ khí & công trình\n-cái trợ động\n@Lĩnh vực: ô tô\n-cơ cấu chấp hành\n@Lĩnh vực: toán & tin\n-cơ chế truy cập\n-cơ chế truy xuất\n@Lĩnh vực: xây dựng\n-sự dẫn động máy
-
+actuator	@actuator
+- (Tech) bộ [cần] truyền động; bộ kích thích; bộ viết-đọc; bộ điều tiết; thiết bị truyền động [TQ]
+@Chuyên ngành kỹ thuật
+-bộ dẫn động
+-bộ khởi động
+-bộ kích động
+-bộ kích thích
+-bộ phận truyền động
+-cơ cấu điều chỉnh
+-cơ cấu phát động
+-cơ cấu truyền động
+-hệ khởi động
+-phần tử dẫn động
+@Lĩnh vực: điện tử & viễn thông
+-bộ phận thao diễn
+@Lĩnh vực: điện
+-bộ tác động
+@Lĩnh vực: cơ khí & công trình
+-cái trợ động
+@Lĩnh vực: ô tô
+-cơ cấu chấp hành
+@Lĩnh vực: toán & tin
+-cơ chế truy cập
+-cơ chế truy xuất
+@Lĩnh vực: xây dựng
+-sự dẫn động máy

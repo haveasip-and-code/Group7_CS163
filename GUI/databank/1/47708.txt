@@ -1,3 +1,22 @@
-rifle
-	@rifle /'raifl/\n*  danh từ\n- đường rânh xoắn (ở nòng súng)\n- súng có nòng xẻ rânh xoắn; súng săn; súng trường\n- (số nhiều) đội quân vũ trang bằng súng trường\n*  ngoại động từ\n- cướp, lấy, vơ vét (đồ đạc của người nào); lục lọi và cuỗm hết (tiền bạc của người nào)\n=to rifle a cupboard of its contents+ vơ vét hết đồ đạc trong tủ\n=to rifle someone's pocket+ lục lọi và cuỗm hết các thứ ở trong túi ai\n- xẻ rânh xoắn ở nòng (súng trường)\n- bắn vào (bằng súng trường)\n*  nội động từ\n- bắn (bằng súng trường)\n@Chuyên ngành kỹ thuật\n-đường ren\n-khương tuyến\n-nét khắc\n-máng\n-rãnh\n-rãnh nòng súng\n-rãnh xoắn\n-súng có rãnh nòng
-
+rifle	@rifle /'raifl/
+*  danh từ
+- đường rânh xoắn (ở nòng súng)
+- súng có nòng xẻ rânh xoắn; súng săn; súng trường
+- (số nhiều) đội quân vũ trang bằng súng trường
+*  ngoại động từ
+- cướp, lấy, vơ vét (đồ đạc của người nào); lục lọi và cuỗm hết (tiền bạc của người nào)
+=to rifle a cupboard of its contents+ vơ vét hết đồ đạc trong tủ
+=to rifle someone's pocket+ lục lọi và cuỗm hết các thứ ở trong túi ai
+- xẻ rânh xoắn ở nòng (súng trường)
+- bắn vào (bằng súng trường)
+*  nội động từ
+- bắn (bằng súng trường)
+@Chuyên ngành kỹ thuật
+-đường ren
+-khương tuyến
+-nét khắc
+-máng
+-rãnh
+-rãnh nòng súng
+-rãnh xoắn
+-súng có rãnh nòng

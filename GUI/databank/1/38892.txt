@@ -1,3 +1,5 @@
-overpayment
-	@Chuyên ngành kinh tế\n-nộp thừa\n-sự trả vượt mức\n-tính lố\n-trả lố
-
+overpayment	@Chuyên ngành kinh tế
+-nộp thừa
+-sự trả vượt mức
+-tính lố
+-trả lố

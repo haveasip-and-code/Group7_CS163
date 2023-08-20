@@ -1,3 +1,19 @@
-displace
-	@displace /dis'pitiəs/\n*  ngoại động từ\n- đổi chỗ, dời chỗ, chuyển chỗ\n- thải ra, cách chức (một công chức...)\n- chiếm chỗ, hất ra khỏi chỗ\n- thay thế\n@Chuyên ngành kỹ thuật\n-cắt\n-choán chỗ\n-chuyển dời\n-chuyển vị\n-di chuyển\n-di động\n-dịch chuyển\n-điều chỉnh\n-dời chỗ\n-đổi chỗ\n-thế
-
+displace	
+@displace /dis'pitiəs/
+*  ngoại động từ
+- đổi chỗ, dời chỗ, chuyển chỗ
+- thải ra, cách chức (một công chức...)
+- chiếm chỗ, hất ra khỏi chỗ
+- thay thế
+@Chuyên ngành kỹ thuật
+-cắt
+-choán chỗ
+-chuyển dời
+-chuyển vị
+-di chuyển
+-di động
+-dịch chuyển
+-điều chỉnh
+-dời chỗ
+-đổi chỗ
+-thế

@@ -1,3 +1,4 @@
-tails
-	@Chuyên ngành kỹ thuật\n-phế liệu\n-quặng đuôi\n-xỉ
-
+tails	@Chuyên ngành kỹ thuật
+-phế liệu
+-quặng đuôi
+-xỉ

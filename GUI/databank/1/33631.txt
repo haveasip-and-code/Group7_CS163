@@ -1,3 +1,6 @@
-manus
-	@manus\n* danh từ\n- bàn tay (người)\n- chân trước (động vật)\n@Chuyên ngành kỹ thuật\n-bàn tay
-
+manus	@manus
+* danh từ
+- bàn tay (người)
+- chân trước (động vật)
+@Chuyên ngành kỹ thuật
+-bàn tay

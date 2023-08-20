@@ -1,3 +1,4 @@
-antefix
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tấm trang trí trước
-
+antefix	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tấm trang trí trước

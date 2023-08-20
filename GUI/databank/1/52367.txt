@@ -1,3 +1,2 @@
-spic
-	@spic\n- Cách viết khác : spik
-
+spic	@spic
+- Cách viết khác : spik

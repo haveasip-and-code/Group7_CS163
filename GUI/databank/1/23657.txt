@@ -1,3 +1,6 @@
-glossator
-	@glossator\n* danh từ\n- người chú thích, chú giải, bình chú\n* danh từgười làm bảng chú giải; người soạn từ điển thuật ngữ (cổ ngữ, thổ ngữ)\n- người bình chú dân luật, quy tắc tôn giáo
-
+glossator	
+@glossator
+* danh từ
+- người chú thích, chú giải, bình chú
+* danh từgười làm bảng chú giải; người soạn từ điển thuật ngữ (cổ ngữ, thổ ngữ)
+- người bình chú dân luật, quy tắc tôn giáo

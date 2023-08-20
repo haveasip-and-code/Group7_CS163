@@ -1,3 +1,32 @@
-doctor
-	@doctor /'dɔktə/\n*  danh từ\n- bác sĩ y khoa\n- tiến sĩ\n=Doctor of Mathematics+ tiến sĩ toán học\n- (hàng hải),  (từ lóng) người đầu bếp, anh nuôi (trên tàu)\n- bộ phận điều chỉnh (ở máy)\n- ruồi già (để câu cá)\n- (từ cổ,nghĩa cổ) nhà học giả, nhà thông thái\n*  ngoại động từ\n- chữa bệnh cho (ai); cho uống thuốc, tống thuốc vào\n=he is always doctoring himself+ hắn ta cứ (uống) thuốc suốt\n- cấp bằng bác sĩ y khoa cho\n- thiến, hoạn\n- sửa chữa, chấp vá (máy...)\n- làm giả, giả mạo\n- ((thường) + up) pha, pha trộn (rượu, thức ăn...) (để làm kém phẩm chất)\n*  nội động từ\n- làm bác sĩ y khoa\n@Chuyên ngành kinh tế\n-chất chống kêt dính\n-chất phụ gia\n@Chuyên ngành kỹ thuật\n-dao cạo\n@Lĩnh vực: điện lạnh\n-cực giả\n@Lĩnh vực: xây dựng\n-tiến sĩ\n@Lĩnh vực: điện\n-trong mạ điện
-
+doctor	
+@doctor /'dɔktə/
+*  danh từ
+- bác sĩ y khoa
+- tiến sĩ=Doctor of Mathematics
++ tiến sĩ toán học
+- (hàng hải),  (từ lóng) người đầu bếp, anh nuôi (trên tàu)
+- bộ phận điều chỉnh (ở máy)
+- ruồi già (để câu cá)
+- (từ cổ,nghĩa cổ) nhà học giả, nhà thông thái
+*  ngoại động từ
+- chữa bệnh cho (ai); cho uống thuốc, tống thuốc vào=he is always doctoring himself
++ hắn ta cứ (uống) thuốc suốt
+- cấp bằng bác sĩ y khoa cho
+- thiến, hoạn
+- sửa chữa, chấp vá (máy...)
+- làm giả, giả mạo
+- ((thường) 
++ up) pha, pha trộn (rượu, thức ăn...) (để làm kém phẩm chất)
+*  nội động từ
+- làm bác sĩ y khoa
+@Chuyên ngành kinh tế
+-chất chống kêt dính
+-chất phụ gia
+@Chuyên ngành kỹ thuật
+-dao cạo
+@Lĩnh vực: điện lạnh
+-cực giả
+@Lĩnh vực: xây dựng
+-tiến sĩ
+@Lĩnh vực: điện
+-trong mạ điện

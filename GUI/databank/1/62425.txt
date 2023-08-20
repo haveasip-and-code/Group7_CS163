@@ -1,3 +1,40 @@
-warrant
-	@warrant /'wɔrənt/\n*  danh từ\n- sự cho phép; giấy phép\n- lý do, lý do xác đáng (của việc làm, báo cáo...)\n- sự bảo đảm (cho việc gì)\n- lệnh, trát\n=warrant of arrest+ lệnh bắt, trát bắt\n=a warrant is out against someone+ có lệnh bắt ai\n- (thương nghiệp) giấy chứng nhận\n=warehouse (dock) warrant+ giấy chứng nhận có gửi hàng\n- (tài chính) lệnh (trả tiền)\n- (quân sự) bằng phong chuẩn uý\n*  ngoại động từ\n- biện hộ cho\n- đảm bảo, chứng thực\n- cho quyền\n@Chuyên ngành kinh tế\n-bảo đảm\n-biên lai\n-biên lai gửi kho\n-chứng chỉ\n-chứng khế\n-chứng từ thu chi\n-giấy chứng nhận\n-giấy chứng quyền nhận mua cổ phần\n-giấy phép\n-giấy ủy quyền\n-lệnh\n-lệnh sưu tra\n-phiếu lưu kho\n-sự bảo chứng\n-sự cho phép\n-sự ủy quyền\n-sự uỷquyền\n-trát bắt giam\n@Chuyên ngành kỹ thuật\n-bảo đảm\n-chứng thực\n@Lĩnh vực: giao thông & vận tải\n-phiếu lưu kho
-
+warrant	@warrant /'wɔrənt/
+*  danh từ
+- sự cho phép; giấy phép
+- lý do, lý do xác đáng (của việc làm, báo cáo...)
+- sự bảo đảm (cho việc gì)
+- lệnh, trát
+=warrant of arrest+ lệnh bắt, trát bắt
+=a warrant is out against someone+ có lệnh bắt ai
+- (thương nghiệp) giấy chứng nhận
+=warehouse (dock) warrant+ giấy chứng nhận có gửi hàng
+- (tài chính) lệnh (trả tiền)
+- (quân sự) bằng phong chuẩn uý
+*  ngoại động từ
+- biện hộ cho
+- đảm bảo, chứng thực
+- cho quyền
+@Chuyên ngành kinh tế
+-bảo đảm
+-biên lai
+-biên lai gửi kho
+-chứng chỉ
+-chứng khế
+-chứng từ thu chi
+-giấy chứng nhận
+-giấy chứng quyền nhận mua cổ phần
+-giấy phép
+-giấy ủy quyền
+-lệnh
+-lệnh sưu tra
+-phiếu lưu kho
+-sự bảo chứng
+-sự cho phép
+-sự ủy quyền
+-sự uỷquyền
+-trát bắt giam
+@Chuyên ngành kỹ thuật
+-bảo đảm
+-chứng thực
+@Lĩnh vực: giao thông & vận tải
+-phiếu lưu kho

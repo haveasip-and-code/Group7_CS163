@@ -1,3 +1,27 @@
-quit
-	@quit /kwit/\n*  tính từ\n- vị ngữ thoát khỏi, giũ sạch được\n=to get quit of somebody+ thoát hẳn không bị ai quấy rầy nữa, tống khứ được ai\n=to get quit of one's debts+ thoát nợ, giũ sạch nợ nần\n*  ngoại động từ quitted (từ Mỹ,nghĩa Mỹ),  (thông tục) quit\n- bỏ, rời, buông\n=to quit hold of+ bỏ ra buông ra\n=to quit office+ bỏ việc\n- (từ Mỹ,nghĩa Mỹ) thôi, ngừng, nghỉ\n=quit that!+ thôi đừng làm việc ấy nữa!\n=to quit work+ nghỉ việc\n- rời đi, bỏ đi\n=to have notice to quit+ nhận được giấy báo dọn nhà đi\n- (thơ ca) trả lại, đáp lại, báo đền lại; trả sạch, thanh toán hết\n=to quit love with hate+ lấy oán trả ơn\n=death quits all scores+ chết là hết nợ\n- (từ cổ,nghĩa cổ) cư xử, xử sự\n=quit you like men+ hãy xử sự như một con người\n- (từ cổ,nghĩa cổ) to quit onself on thanh toán hết, giũ sạch được, thoát khỏi được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dứt\n@Lĩnh vực: điện lạnh\n-ra khỏi\n@Lĩnh vực: toán & tin\n-thoát, ra khỏi
-
+quit	@quit /kwit/
+*  tính từ
+- vị ngữ thoát khỏi, giũ sạch được
+=to get quit of somebody+ thoát hẳn không bị ai quấy rầy nữa, tống khứ được ai
+=to get quit of one's debts+ thoát nợ, giũ sạch nợ nần
+*  ngoại động từ quitted (từ Mỹ,nghĩa Mỹ),  (thông tục) quit
+- bỏ, rời, buông
+=to quit hold of+ bỏ ra buông ra
+=to quit office+ bỏ việc
+- (từ Mỹ,nghĩa Mỹ) thôi, ngừng, nghỉ
+=quit that!+ thôi đừng làm việc ấy nữa!
+=to quit work+ nghỉ việc
+- rời đi, bỏ đi
+=to have notice to quit+ nhận được giấy báo dọn nhà đi
+- (thơ ca) trả lại, đáp lại, báo đền lại; trả sạch, thanh toán hết
+=to quit love with hate+ lấy oán trả ơn
+=death quits all scores+ chết là hết nợ
+- (từ cổ,nghĩa cổ) cư xử, xử sự
+=quit you like men+ hãy xử sự như một con người
+- (từ cổ,nghĩa cổ) to quit onself on thanh toán hết, giũ sạch được, thoát khỏi được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dứt
+@Lĩnh vực: điện lạnh
+-ra khỏi
+@Lĩnh vực: toán & tin
+-thoát, ra khỏi

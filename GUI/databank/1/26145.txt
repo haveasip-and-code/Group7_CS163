@@ -1,3 +1,6 @@
-hooklet
-	@hooklet /'huklit/\n*  danh từ\n- cái móc nhỏ\n@Chuyên ngành kinh tế\n-cái móc nhỏ
-
+hooklet	
+@hooklet /'huklit/
+*  danh từ
+- cái móc nhỏ
+@Chuyên ngành kinh tế
+-cái móc nhỏ

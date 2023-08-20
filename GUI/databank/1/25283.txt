@@ -1,3 +1,4 @@
-heatstroke
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-say nóng
-
+heatstroke	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-say nóng

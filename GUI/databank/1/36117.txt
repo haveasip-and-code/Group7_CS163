@@ -1,3 +1,8 @@
-mutable
-	@mutable /'mju:təbl/\n*  tính từ\n- có thể đổi, có thể biến đổi\n- không bền, không kiên định, hay thay đổi\n@Chuyên ngành kỹ thuật\n-biến đổi được\n@Lĩnh vực: toán & tin\n-thay đổi được
-
+mutable	@mutable /'mju:təbl/
+*  tính từ
+- có thể đổi, có thể biến đổi
+- không bền, không kiên định, hay thay đổi
+@Chuyên ngành kỹ thuật
+-biến đổi được
+@Lĩnh vực: toán & tin
+-thay đổi được

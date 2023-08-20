@@ -1,3 +1,2 @@
-vidette
-	@vidette\n- xem vedetre
-
+vidette	@vidette
+- xem vedetre

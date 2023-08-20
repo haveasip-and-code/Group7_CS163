@@ -1,3 +1,2 @@
-stackable
-	@Chuyên ngành kỹ thuật\n-xếp chồng được
-
+stackable	@Chuyên ngành kỹ thuật
+-xếp chồng được

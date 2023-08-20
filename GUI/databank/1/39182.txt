@@ -1,3 +1,67 @@
-packing
-	@packing /'pækiɳ/\n*  danh từ\n- sự gói đồ, sự đóng kiện, sự đóng gói, sự xếp hàng vào bao bì\n- bao bì\n- sự xếp chặt, sự ních vào\n- sự thồ, sự khuân vác; sự chất hàng (lên lưng súc vật thồ)\n- (từ Mỹ,nghĩa Mỹ) sự gắn kín, sự nhét kín, sự đệm kín\n- vật liệu để gắn kín, vật liệu để nhét kín, vật liệu để đệm kín\n- (y học) sự đắp bằng khăn ướt, sự cuốn bằng mền ướt\n@Chuyên ngành kinh tế\n-điều kiện về bao bì\n-đồ dùng để gói\n-đóng kiện\n-phí bao bì\n-sự đóng gói\n-sự gói hàng\n-sự phân loại xì gà\n-sự xếp gói\n-vật liệu làm bao bì\n-vật liệu phụ\n-việc vô bao bì\n-việc vô hộp thực phẩm chế biến\n@Chuyên ngành kỹ thuật\n-bao bì\n-đặc\n-ép chặt\n-gói\n-kín khít\n-lèn chặt\n-nén\n-sự bịt kín\n-sự chèn\n-sự đắp\n-sự đệm kín\n-sự độn\n-sự đóng bánh\n-sự đóng bao\n-sự đóng gói\n-sự lấp\n-sự lèn\n-sự nén\n-sự nhồi\n-vật liệu bọc\n-vật liệu chèn\n-vật liệu độn\n-vật liệu đóng gói\n-vòng đệm kín\n@Lĩnh vực: hóa học & vật liệu\n-độ cô kết\n-độ đặc xít\n@Lĩnh vực: xây dựng\n-độn đệm kín\n-đóng đánh đống\n-đóng thành kiện\n-sự đóng thành gói\n-sự trét kín\n-sự/vật liệu độn\n@Lĩnh vực: điện lạnh\n-sự bó\n@Lĩnh vực: điện tử & viễn thông\n-sự ép nén\n@Lĩnh vực: toán & tin\n-sự hợp lại\n@Lĩnh vực: cơ khí & công trình\n-sự nén kín\n@Lĩnh vực: giao thông & vận tải\n-vòng bít làm kín
-
+packing	@packing /'pækiɳ/
+*  danh từ
+- sự gói đồ, sự đóng kiện, sự đóng gói, sự xếp hàng vào bao bì
+- bao bì
+- sự xếp chặt, sự ních vào
+- sự thồ, sự khuân vác; sự chất hàng (lên lưng súc vật thồ)
+- (từ Mỹ,nghĩa Mỹ) sự gắn kín, sự nhét kín, sự đệm kín
+- vật liệu để gắn kín, vật liệu để nhét kín, vật liệu để đệm kín
+- (y học) sự đắp bằng khăn ướt, sự cuốn bằng mền ướt
+@Chuyên ngành kinh tế
+-điều kiện về bao bì
+-đồ dùng để gói
+-đóng kiện
+-phí bao bì
+-sự đóng gói
+-sự gói hàng
+-sự phân loại xì gà
+-sự xếp gói
+-vật liệu làm bao bì
+-vật liệu phụ
+-việc vô bao bì
+-việc vô hộp thực phẩm chế biến
+@Chuyên ngành kỹ thuật
+-bao bì
+-đặc
+-ép chặt
+-gói
+-kín khít
+-lèn chặt
+-nén
+-sự bịt kín
+-sự chèn
+-sự đắp
+-sự đệm kín
+-sự độn
+-sự đóng bánh
+-sự đóng bao
+-sự đóng gói
+-sự lấp
+-sự lèn
+-sự nén
+-sự nhồi
+-vật liệu bọc
+-vật liệu chèn
+-vật liệu độn
+-vật liệu đóng gói
+-vòng đệm kín
+@Lĩnh vực: hóa học & vật liệu
+-độ cô kết
+-độ đặc xít
+@Lĩnh vực: xây dựng
+-độn đệm kín
+-đóng đánh đống
+-đóng thành kiện
+-sự đóng thành gói
+-sự trét kín
+-sự/vật liệu độn
+@Lĩnh vực: điện lạnh
+-sự bó
+@Lĩnh vực: điện tử & viễn thông
+-sự ép nén
+@Lĩnh vực: toán & tin
+-sự hợp lại
+@Lĩnh vực: cơ khí & công trình
+-sự nén kín
+@Lĩnh vực: giao thông & vận tải
+-vòng bít làm kín

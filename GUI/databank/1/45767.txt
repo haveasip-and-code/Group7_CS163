@@ -1,3 +1,10 @@
-realignment
-	@realignment\n* danh từ\n- sự tổ chức lại, sự tập hợp lại\n@Chuyên ngành kinh tế\n-chỉnh đốn lại\n-sắp xếp lại (tỷ giá)\n@Chuyên ngành kỹ thuật\n-sự nắn thẳng\n@Lĩnh vực: cơ khí & công trình\n-sự nắn tuyến
-
+realignment	@realignment
+* danh từ
+- sự tổ chức lại, sự tập hợp lại
+@Chuyên ngành kinh tế
+-chỉnh đốn lại
+-sắp xếp lại (tỷ giá)
+@Chuyên ngành kỹ thuật
+-sự nắn thẳng
+@Lĩnh vực: cơ khí & công trình
+-sự nắn tuyến

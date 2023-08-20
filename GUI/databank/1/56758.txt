@@ -1,3 +1,3 @@
-tinplate
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sắt tây, tráng thiếc
-
+tinplate	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sắt tây, tráng thiếc

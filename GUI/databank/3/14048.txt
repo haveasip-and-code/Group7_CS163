@@ -1,3 +1,6 @@
-defibrillator
-	@defibrillator\n* danh từ\n- máy khử rung tim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-máy khử rung
-
+defibrillator	@defibrillator
+* danh từ
+- máy khử rung tim
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-máy khử rung

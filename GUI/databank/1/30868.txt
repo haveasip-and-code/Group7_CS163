@@ -1,3 +1,35 @@
-kettle
-	@kettle /'ketl/\n*  danh từ\n- ấm đun nước\n!pretty (fine, nice) kettle of fish\n- tình thế rất khó xử, việc rắc rối\n@Chuyên ngành kỹ thuật\n-chảo nấu\n-lò hơi\n-nồi đun\n-nồi hơi\n-thùng\n@Lĩnh vực: thực phẩm\n-két nấu\n@Lĩnh vực: hóa học & vật liệu\n-nồi hơi nhỏ\n-thùng đựng quặng\n-vùng lòng chảo\n@Lĩnh vực: cơ khí & công trình\n-tang\n-vỏ gàu\n@Chuyên ngành kỹ thuật\n-chảo nấu\n-lò hơi\n-nồi đun\n-nồi hơi\n-thùng\n@Lĩnh vực: thực phẩm\n-két nấu\n@Lĩnh vực: hóa học & vật liệu\n-nồi hơi nhỏ\n-thùng đựng quặng\n-vùng lòng chảo\n@Lĩnh vực: cơ khí & công trình\n-tang\n-vỏ gàu
-
+kettle	@kettle /'ketl/
+*  danh từ
+- ấm đun nước
+!pretty (fine, nice) kettle of fish
+- tình thế rất khó xử, việc rắc rối
+@Chuyên ngành kỹ thuật
+-chảo nấu
+-lò hơi
+-nồi đun
+-nồi hơi
+-thùng
+@Lĩnh vực: thực phẩm
+-két nấu
+@Lĩnh vực: hóa học & vật liệu
+-nồi hơi nhỏ
+-thùng đựng quặng
+-vùng lòng chảo
+@Lĩnh vực: cơ khí & công trình
+-tang
+-vỏ gàu
+@Chuyên ngành kỹ thuật
+-chảo nấu
+-lò hơi
+-nồi đun
+-nồi hơi
+-thùng
+@Lĩnh vực: thực phẩm
+-két nấu
+@Lĩnh vực: hóa học & vật liệu
+-nồi hơi nhỏ
+-thùng đựng quặng
+-vùng lòng chảo
+@Lĩnh vực: cơ khí & công trình
+-tang
+-vỏ gàu

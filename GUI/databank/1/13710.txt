@@ -1,3 +1,8 @@
-debug
-	@debug\n- (Tech) chỉnh lỗi, gỡ rối\n@Chuyên ngành kỹ thuật\n-sửa tạm\n@Lĩnh vực: toán & tin\n-gỡ rối\n-hiệu chỉnh lỗi
-
+debug	
+@debug
+- (Tech) chỉnh lỗi, gỡ rối
+@Chuyên ngành kỹ thuật
+-sửa tạm
+@Lĩnh vực: toán & tin
+-gỡ rối
+-hiệu chỉnh lỗi

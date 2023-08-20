@@ -1,3 +1,14 @@
-buyer
-	@buyer /baiə/\n*  danh từ\n- người mua\n- người mua hàng vào (cho một cửa hàng lớn)\n!buyer's market\n- tình trạng hàng thừa khách thiếu\n!buyers over\n- tình trạng cung ít cầu nhiều; tình trạng hàng khan hiếm mà nhiều người mua\n!buyer's strike\n- sự tẩy chay (của khách hàng) để bắt hạ giá (một loại hàng gì)\n@Chuyên ngành kinh tế\n-người mua\n-người mua vào\n-người tiếp liệu\n@Chuyên ngành kỹ thuật\n-người mua
-
+buyer	
+@buyer /baiə/
+*  danh từ
+- người mua
+- người mua hàng vào (cho một cửa hàng lớn)!buyer's market
+- tình trạng hàng thừa khách thiếu!buyers over
+- tình trạng cung ít cầu nhiều; tình trạng hàng khan hiếm mà nhiều người mua!buyer's strike
+- sự tẩy chay (của khách hàng) để bắt hạ giá (một loại hàng gì)
+@Chuyên ngành kinh tế
+-người mua
+-người mua vào
+-người tiếp liệu
+@Chuyên ngành kỹ thuật
+-người mua

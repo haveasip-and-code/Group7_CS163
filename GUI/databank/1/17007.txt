@@ -1,3 +1,7 @@
-dune
-	@dune /dju:n/\n*  danh từ\n- cồn cát, đụn cát\n@Chuyên ngành kỹ thuật\n-cồn\n-đụn cát
-
+dune	
+@dune /dju:n/
+*  danh từ
+- cồn cát, đụn cát
+@Chuyên ngành kỹ thuật
+-cồn
+-đụn cát

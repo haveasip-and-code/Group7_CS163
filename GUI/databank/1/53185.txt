@@ -1,3 +1,59 @@
-stem
-	@stem /stem/\n*  danh từ\n- (thực vật học) thân (cây); cuống, cọng (lá, hoa)\n- chân (cốc uống rượu)\n- ống (tẩu thuốc)\n- (ngôn ngữ học) thân từ\n- dòng họ\n- (hàng hải) tấm sống mũi; mũi (tàu, thuyền)\n=from stem to stern+ từ đầu tàu đến cuối tàu; (bóng) từ đầu đến cuối\n- bộ phận lên dây (đồng hồ)\n*  ngoại động từ\n- tước cọng (lá thuốc lá)\n- làm cuống cho (hoa giả...)\n*  nội động từ\n- (+ in) phát sinh, bắt nguồn\n- (+ from) xuất phát từ\n*  ngoại động từ\n- đắp đập ngăn (một dòng sông)\n- ngăn cản, ngăn trở, chặn\n- đi ngược (dòng nước)\n- đánh lui, đẩy lui\n@Chuyên ngành kinh tế\n-cọng\n-cuống\n-mũi tàu\n-tách cuống\n-thân\n-tước cọng\n-tước cọng giữa lá thuốc lá\n@Chuyên ngành kỹ thuật\n-bộ phận lên dây\n-cây\n-dán\n-đắp đập ngăn (nước)\n-ngăn cản\n-ống chân không// Bộ phận lên dây// Chất nhồi\n-tay quay\n-thân\n-thân cột\n-thân đinh tán\n@Lĩnh vực: hóa học & vật liệu\n-cần gắn mũi khoan\n@Lĩnh vực: xây dựng\n-cần ván\n-thân rầm chữ I\n-thân tường chắn đất\n@Lĩnh vực: cơ khí & công trình\n-cầu, đòn\n-chốt nhỏ\n-đuôi xupáp\n-đuôi, chuôi (dụng cụ)\n-thân (dụng cụ)\n-trụ đỡ con mã\n@Lĩnh vực: toán & tin\n-cuống\n-đi ngược dòng\n-thân dầm chữ I\n@Lĩnh vực: giao thông & vận tải\n-đường sắt (từ lóng)
-
+stem	@stem /stem/
+*  danh từ
+- (thực vật học) thân (cây); cuống, cọng (lá, hoa)
+- chân (cốc uống rượu)
+- ống (tẩu thuốc)
+- (ngôn ngữ học) thân từ
+- dòng họ
+- (hàng hải) tấm sống mũi; mũi (tàu, thuyền)
+=from stem to stern+ từ đầu tàu đến cuối tàu; (bóng) từ đầu đến cuối
+- bộ phận lên dây (đồng hồ)
+*  ngoại động từ
+- tước cọng (lá thuốc lá)
+- làm cuống cho (hoa giả...)
+*  nội động từ
+- (+ in) phát sinh, bắt nguồn
+- (+ from) xuất phát từ
+*  ngoại động từ
+- đắp đập ngăn (một dòng sông)
+- ngăn cản, ngăn trở, chặn
+- đi ngược (dòng nước)
+- đánh lui, đẩy lui
+@Chuyên ngành kinh tế
+-cọng
+-cuống
+-mũi tàu
+-tách cuống
+-thân
+-tước cọng
+-tước cọng giữa lá thuốc lá
+@Chuyên ngành kỹ thuật
+-bộ phận lên dây
+-cây
+-dán
+-đắp đập ngăn (nước)
+-ngăn cản
+-ống chân không// Bộ phận lên dây// Chất nhồi
+-tay quay
+-thân
+-thân cột
+-thân đinh tán
+@Lĩnh vực: hóa học & vật liệu
+-cần gắn mũi khoan
+@Lĩnh vực: xây dựng
+-cần ván
+-thân rầm chữ I
+-thân tường chắn đất
+@Lĩnh vực: cơ khí & công trình
+-cầu, đòn
+-chốt nhỏ
+-đuôi xupáp
+-đuôi, chuôi (dụng cụ)
+-thân (dụng cụ)
+-trụ đỡ con mã
+@Lĩnh vực: toán & tin
+-cuống
+-đi ngược dòng
+-thân dầm chữ I
+@Lĩnh vực: giao thông & vận tải
+-đường sắt (từ lóng)

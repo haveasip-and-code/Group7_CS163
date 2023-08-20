@@ -1,3 +1,12 @@
-resume
-	@resume /ri'zju:m/\n*  ngoại động từ\n- lấy lại, chiếm lại, hồi phục lại\n=to resume one's spirits+ lấy lại tinh thần, lấy lại can đảm\n=to resume a territory+ chiếm lại một lãnh thổ\n- lại bắt đầu, lại tiếp tục (sau khi nghỉ, dừng)\n=to resume work+ lại tiếp tục công việc\n- tóm tắt lại, nêu điểm chính\n@Chuyên ngành kỹ thuật\n-nối tiếp\n@Lĩnh vực: toán & tin\n-tiếp tục lại
-
+resume	@resume /ri'zju:m/
+*  ngoại động từ
+- lấy lại, chiếm lại, hồi phục lại
+=to resume one's spirits+ lấy lại tinh thần, lấy lại can đảm
+=to resume a territory+ chiếm lại một lãnh thổ
+- lại bắt đầu, lại tiếp tục (sau khi nghỉ, dừng)
+=to resume work+ lại tiếp tục công việc
+- tóm tắt lại, nêu điểm chính
+@Chuyên ngành kỹ thuật
+-nối tiếp
+@Lĩnh vực: toán & tin
+-tiếp tục lại

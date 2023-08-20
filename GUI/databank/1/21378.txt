@@ -1,3 +1,14 @@
-flection
-	@flection /flection/\n*  danh từ\n- sự uốn\n- chỗ uốn\n- (ngôn ngữ học) biến tố\n- (toán học) độ uốn\n=flexion of a surface+ độ uốn của một mặt\n@Chuyên ngành kỹ thuật\n-chỗ uốn\n-sự uốn\n@Chuyên ngành kỹ thuật\n-chỗ uốn\n-sự uốn
-
+flection	
+@flection /flection/
+*  danh từ
+- sự uốn
+- chỗ uốn
+- (ngôn ngữ học) biến tố
+- (toán học) độ uốn=flexion of a surface
++ độ uốn của một mặt
+@Chuyên ngành kỹ thuật
+-chỗ uốn
+-sự uốn
+@Chuyên ngành kỹ thuật
+-chỗ uốn
+-sự uốn

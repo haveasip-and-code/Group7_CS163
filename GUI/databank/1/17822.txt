@@ -1,3 +1,16 @@
-elute
-	@elute\n* ngoại động từ\n- tách rửa\n@Chuyên ngành kỹ thuật\n-nước giải hấp\n-rửa giải\n-rửa thôi\n@Lĩnh vực: hóa học & vật liệu\n-ngâm rỉ\n@Chuyên ngành kỹ thuật\n-nước giải hấp\n-rửa giải\n-rửa thôi\n@Lĩnh vực: hóa học & vật liệu\n-ngâm rỉ
-
+elute	
+@elute
+* ngoại động từ
+- tách rửa
+@Chuyên ngành kỹ thuật
+-nước giải hấp
+-rửa giải
+-rửa thôi
+@Lĩnh vực: hóa học & vật liệu
+-ngâm rỉ
+@Chuyên ngành kỹ thuật
+-nước giải hấp
+-rửa giải
+-rửa thôi
+@Lĩnh vực: hóa học & vật liệu
+-ngâm rỉ

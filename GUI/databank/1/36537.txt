@@ -1,3 +1,2 @@
-nematodes
-	@Chuyên ngành kinh tế\n-giun tròn
-
+nematodes	@Chuyên ngành kinh tế
+-giun tròn

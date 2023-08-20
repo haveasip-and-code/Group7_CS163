@@ -1,3 +1,50 @@
-removal
-	@removal /ri'mu:vəl/\n*  danh từ\n- việc dời đi, việc di chuyển; sự dọn (đồ đạc...)\n=the removal of furniture+ việc dọn đồ đạc\n- sự dọn nhà, sự đổi chỗ ở\n- sự tháo (lốp xe...)\n- sự cách chức (viên chức)\n- sự tẩy trừ (thói tham nhũng, sự loại bỏ (cái gì...); sự xoá bỏ (dấu vết, tật xấu)\n- sự giết, sự thủ tiêu (ai)\n- sự bóc (niêm phong)\n- (y học) sự cắt bỏ\n!three removals are as bad as a fire\n- (tục ngữ) ba lần dọn nhà bằng một lần cháy nhà\n@Chuyên ngành kinh tế\n-bãi chức\n-bài trừ\n-di chuyển\n-dời đi\n-dọn đi\n-khai trừ (một viên chức...)\n-loại bỏ\n-sa thải\n-sự cách chức\n-sự dời chỗ\n-sự dọn nhà, dời chỗ ở\n-sự loại bỏ\n-sự tẩy trừ\n-sự tháo\n-thải hồi\n-vận chuyển\n-việc di chuyển\n-việc điều tiết chuyển\n-việc dọn đi\n-việc sa thải\n@Chuyên ngành kỹ thuật\n-loại bỏ (thanh ghép)\n-sự cắt bỏ\n-sự chuyển dịch\n-sự di chuyển đi\n-sự dịch chuyển\n-sự dời đi\n-sự loại bỏ\n-sự loại trừ\n-sự tách ra\n-sự tách rời\n-sự tháo dỡ\n@Lĩnh vực: toán & tin\n-sự bỏ, sự xóa\n@Lĩnh vực: hóa học & vật liệu\n-sự tháo đi
-
+removal	@removal /ri'mu:vəl/
+*  danh từ
+- việc dời đi, việc di chuyển; sự dọn (đồ đạc...)
+=the removal of furniture+ việc dọn đồ đạc
+- sự dọn nhà, sự đổi chỗ ở
+- sự tháo (lốp xe...)
+- sự cách chức (viên chức)
+- sự tẩy trừ (thói tham nhũng, sự loại bỏ (cái gì...); sự xoá bỏ (dấu vết, tật xấu)
+- sự giết, sự thủ tiêu (ai)
+- sự bóc (niêm phong)
+- (y học) sự cắt bỏ
+!three removals are as bad as a fire
+- (tục ngữ) ba lần dọn nhà bằng một lần cháy nhà
+@Chuyên ngành kinh tế
+-bãi chức
+-bài trừ
+-di chuyển
+-dời đi
+-dọn đi
+-khai trừ (một viên chức...)
+-loại bỏ
+-sa thải
+-sự cách chức
+-sự dời chỗ
+-sự dọn nhà, dời chỗ ở
+-sự loại bỏ
+-sự tẩy trừ
+-sự tháo
+-thải hồi
+-vận chuyển
+-việc di chuyển
+-việc điều tiết chuyển
+-việc dọn đi
+-việc sa thải
+@Chuyên ngành kỹ thuật
+-loại bỏ (thanh ghép)
+-sự cắt bỏ
+-sự chuyển dịch
+-sự di chuyển đi
+-sự dịch chuyển
+-sự dời đi
+-sự loại bỏ
+-sự loại trừ
+-sự tách ra
+-sự tách rời
+-sự tháo dỡ
+@Lĩnh vực: toán & tin
+-sự bỏ, sự xóa
+@Lĩnh vực: hóa học & vật liệu
+-sự tháo đi

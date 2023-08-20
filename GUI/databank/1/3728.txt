@@ -1,3 +1,8 @@
-astronaut
-	@astronaut\n* danh từ\n- phi hành gia, nhà du hành vũ trụ\n@Chuyên ngành kỹ thuật\n-phi hành gia\n@Lĩnh vực: điện lạnh\n-phi công vũ trụ
-
+astronaut	
+@astronaut
+* danh từ
+- phi hành gia, nhà du hành vũ trụ
+@Chuyên ngành kỹ thuật
+-phi hành gia
+@Lĩnh vực: điện lạnh
+-phi công vũ trụ

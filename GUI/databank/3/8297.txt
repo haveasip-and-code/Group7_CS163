@@ -1,3 +1,16 @@
-category
-	@category /'kætigəri/\n*  danh từ\n- hạng, loại\n- (triết học) phạm trù\n@Chuyên ngành kinh tế\n-hạng\n-loại\n-loại (hàng)\n@Chuyên ngành kỹ thuật\n-hạng\n-hạng mục\n-loại\n-loại hộ thuê bao\n-lớp\n-mục\n-phạm trù
-
+category	@category /'kætigəri/
+*  danh từ
+- hạng, loại
+- (triết học) phạm trù
+@Chuyên ngành kinh tế
+-hạng
+-loại
+-loại (hàng)
+@Chuyên ngành kỹ thuật
+-hạng
+-hạng mục
+-loại
+-loại hộ thuê bao
+-lớp
+-mục
+-phạm trù

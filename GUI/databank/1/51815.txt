@@ -1,3 +1,9 @@
-solver
-	@solver\n* danh từ\n- (trong từ ghép) người tìm ra câu trả lời hoặc giải pháp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bộ giải\n-chương trình giải\n-dụng cụ giải\n-thiết bị giải
-
+solver	@solver
+* danh từ
+- (trong từ ghép) người tìm ra câu trả lời hoặc giải pháp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bộ giải
+-chương trình giải
+-dụng cụ giải
+-thiết bị giải

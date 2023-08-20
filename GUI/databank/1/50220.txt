@@ -1,3 +1,15 @@
-sharpening
-	@sharpening\n* danh từ\n- sự mài sắc\n@Chuyên ngành kỹ thuật\n-sự mài\n-sự tiện\n@Lĩnh vực: cơ khí & công trình\n-mài sắc bén, nhọn\n-sự gọt nhọn\n-sự mài sắc\n@Lĩnh vực: hóa học & vật liệu\n-sự làm nhọn\n-sự làm sắc\n@Lĩnh vực: xây dựng\n-sự mài (sắc)
-
+sharpening	@sharpening
+* danh từ
+- sự mài sắc
+@Chuyên ngành kỹ thuật
+-sự mài
+-sự tiện
+@Lĩnh vực: cơ khí & công trình
+-mài sắc bén, nhọn
+-sự gọt nhọn
+-sự mài sắc
+@Lĩnh vực: hóa học & vật liệu
+-sự làm nhọn
+-sự làm sắc
+@Lĩnh vực: xây dựng
+-sự mài (sắc)

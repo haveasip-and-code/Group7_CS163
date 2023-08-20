@@ -1,3 +1,6 @@
-protozoology
-	@protozoology /protozoology/\n*  danh từ\n- môn động vật nguyên sinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nguyên sinh động vật học
-
+protozoology	@protozoology /protozoology/
+*  danh từ
+- môn động vật nguyên sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nguyên sinh động vật học

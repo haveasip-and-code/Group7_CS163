@@ -1,3 +1,6 @@
-puissance
-	@puissance\n* danh từ\n- quyền lực; sức mạnh; uy lực\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phương tích
-
+puissance	@puissance
+* danh từ
+- quyền lực; sức mạnh; uy lực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phương tích

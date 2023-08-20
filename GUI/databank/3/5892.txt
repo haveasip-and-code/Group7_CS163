@@ -1,3 +1,13 @@
-blender
-	@Chuyên ngành kinh tế\n-máy khuấy\n-máy trộn\n@Chuyên ngành kỹ thuật\n-bộ trộn\n-máy khuấy\n-máy trộn\n-thiết bị trộn\n@Lĩnh vực: hóa học & vật liệu\n-bộ pha trộn\n@Lĩnh vực: xây dựng\n-bơm trộn\n-vòi trộn (nước nóng, nước lạnh)
-
+blender	@Chuyên ngành kinh tế
+-máy khuấy
+-máy trộn
+@Chuyên ngành kỹ thuật
+-bộ trộn
+-máy khuấy
+-máy trộn
+-thiết bị trộn
+@Lĩnh vực: hóa học & vật liệu
+-bộ pha trộn
+@Lĩnh vực: xây dựng
+-bơm trộn
+-vòi trộn (nước nóng, nước lạnh)

@@ -1,3 +1,13 @@
-gluey
-	@gluey /'glu:i/\n*  tính từ\n- dính như keo, như hồ\n- đầy keo, đầy hồ\n@Chuyên ngành kinh tế\n-đầy hồ\n-đầy keo\n-dính\n-như hồ\n-như keo\n@Chuyên ngành kỹ thuật\n-dính
-
+gluey	
+@gluey /'glu:i/
+*  tính từ
+- dính như keo, như hồ
+- đầy keo, đầy hồ
+@Chuyên ngành kinh tế
+-đầy hồ
+-đầy keo
+-dính
+-như hồ
+-như keo
+@Chuyên ngành kỹ thuật
+-dính

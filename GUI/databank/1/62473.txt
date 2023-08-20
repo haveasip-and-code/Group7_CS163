@@ -1,3 +1,8 @@
-wasteland
-	@wasteland\n* danh từ\n- đất hoang, đất khô cằn; khu đất không thể sử dụng được, khu đất không sử dụng\n- hoang mạc\n- <bóng> cuộc sống khô cằn (cuộc sống không sáng tạo được gì về văn hoá hoặc tinh thần)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khu đất hoang
-
+wasteland	@wasteland
+* danh từ
+- đất hoang, đất khô cằn; khu đất không thể sử dụng được, khu đất không sử dụng
+- hoang mạc
+- <bóng> cuộc sống khô cằn (cuộc sống không sáng tạo được gì về văn hoá hoặc tinh thần)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khu đất hoang

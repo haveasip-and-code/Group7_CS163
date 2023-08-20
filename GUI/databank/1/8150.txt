@@ -1,3 +1,28 @@
-cascade
-	@cascade /kæs'keid/\n*  danh từ\n- thác nước\n- (vật lý) tầng, đợt\n=distillation cascade+ tầng cất\n=hard cascade+ đợt cứng\n- màn ren treo rủ\n*  nội động từ\n- đổ xuống như thác, chảy như thác\n@Chuyên ngành kỹ thuật\n-bậc\n-chảy như thác\n-đợt\n-hàn từng đợt\n-nối\n-sắp xếp theo tầng\n-sự nối tầng\n-tăng\n@Lĩnh vực: xây dựng\n-bậc thác nước\n-ráp chồng\n@Lĩnh vực: điện\n-ghép từng tầng\n-tầng chồng\n@Lĩnh vực: toán & tin\n-tác động nối tiếp\n-xếp tầng
-
+cascade	
+@cascade /kæs'keid/
+*  danh từ
+- thác nước
+- (vật lý) tầng, đợt=distillation cascade
++ tầng cất=hard cascade
++ đợt cứng
+- màn ren treo rủ
+*  nội động từ
+- đổ xuống như thác, chảy như thác
+@Chuyên ngành kỹ thuật
+-bậc
+-chảy như thác
+-đợt
+-hàn từng đợt
+-nối
+-sắp xếp theo tầng
+-sự nối tầng
+-tăng
+@Lĩnh vực: xây dựng
+-bậc thác nước
+-ráp chồng
+@Lĩnh vực: điện
+-ghép từng tầng
+-tầng chồng
+@Lĩnh vực: toán & tin
+-tác động nối tiếp
+-xếp tầng

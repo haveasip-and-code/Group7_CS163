@@ -1,3 +1,60 @@
-survey
-	@survey /'sə:vei/\n*  danh từ\n- sự nhìn chung; cái nhìn tổng quát\n- sự nghiên cứu (tình hình...)\n- cục đo đạc địa hình\n- bản đồ địa hình\n*  ngoại động từ\n- quan sát, nhìn chung\n- xem xét, nghiên cứu\n- lập bản đồ, vẽ bản đồ (đất đai)\n@Chuyên ngành kinh tế\n-bản đồ đo đạc (địa hình)\n-cục bản đồ\n-điều nghiên\n-điều tra\n-đo đạc (đất đai...)\n-giám sát\n-khảo sát\n-khảo sát bản đồ đo đạc (địa hình)\n-kiểm nghiệm\n-kiểm tra\n-nghiên cứu\n-sự điều tra\n-sự giám định\n-thăm dò (thị trường)\n-thăm dò (thị trường...)\n-thị sát\n-tổng luận\n-tổng quan\n-trắc lượng\n-việc điều tra nghiên cứu\n-việc đo đạc địa hình và lập bản đồ\n-việc giám định\n@Chuyên ngành kỹ thuật\n-điều tra\n-đo đạc\n-khảo sát\n-khảo sát / điều tra\n-sự chụp ảnh\n-sự điều tra\n-sự đo đạc\n-sự đo vẽ\n-sự đo vẽ (bản đồ công trình)\n-sự giám định\n-sự giám sát\n-sự khảo sát\n-sự kiểm tra\n-sự nghiên cứu\n-sự thăm dò\n-sự thanh tra\n-sự tìm kiếm\n-sự xem xét\n-tổng quan\n@Lĩnh vực: xây dựng\n-công tác trắc địa\n-đo vẽ địa hình\n@Lĩnh vực: y học\n-cuộc nghiên cứu, thăm dò, điều tra, khảo sát\n@Lĩnh vực: điện\n-đo vẽ sơ đồ (tại hiện trường)
-
+survey	@survey /'sə:vei/
+*  danh từ
+- sự nhìn chung; cái nhìn tổng quát
+- sự nghiên cứu (tình hình...)
+- cục đo đạc địa hình
+- bản đồ địa hình
+*  ngoại động từ
+- quan sát, nhìn chung
+- xem xét, nghiên cứu
+- lập bản đồ, vẽ bản đồ (đất đai)
+@Chuyên ngành kinh tế
+-bản đồ đo đạc (địa hình)
+-cục bản đồ
+-điều nghiên
+-điều tra
+-đo đạc (đất đai...)
+-giám sát
+-khảo sát
+-khảo sát bản đồ đo đạc (địa hình)
+-kiểm nghiệm
+-kiểm tra
+-nghiên cứu
+-sự điều tra
+-sự giám định
+-thăm dò (thị trường)
+-thăm dò (thị trường...)
+-thị sát
+-tổng luận
+-tổng quan
+-trắc lượng
+-việc điều tra nghiên cứu
+-việc đo đạc địa hình và lập bản đồ
+-việc giám định
+@Chuyên ngành kỹ thuật
+-điều tra
+-đo đạc
+-khảo sát
+-khảo sát / điều tra
+-sự chụp ảnh
+-sự điều tra
+-sự đo đạc
+-sự đo vẽ
+-sự đo vẽ (bản đồ công trình)
+-sự giám định
+-sự giám sát
+-sự khảo sát
+-sự kiểm tra
+-sự nghiên cứu
+-sự thăm dò
+-sự thanh tra
+-sự tìm kiếm
+-sự xem xét
+-tổng quan
+@Lĩnh vực: xây dựng
+-công tác trắc địa
+-đo vẽ địa hình
+@Lĩnh vực: y học
+-cuộc nghiên cứu, thăm dò, điều tra, khảo sát
+@Lĩnh vực: điện
+-đo vẽ sơ đồ (tại hiện trường)

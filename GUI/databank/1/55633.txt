@@ -1,3 +1,5 @@
-tasking
-	@Chuyên ngành kỹ thuật\n-công việc\n-nhiệm vụ\n@Lĩnh vực: toán & tin\n-tác vụ
-
+tasking	@Chuyên ngành kỹ thuật
+-công việc
+-nhiệm vụ
+@Lĩnh vực: toán & tin
+-tác vụ

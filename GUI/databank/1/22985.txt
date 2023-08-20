@@ -1,3 +1,6 @@
-gasholder
-	@Chuyên ngành kỹ thuật\n-bình ga\n@Lĩnh vực: xây dựng\n-bể chứa khí\n-tháp chứa khí
-
+gasholder	
+@Chuyên ngành kỹ thuật
+-bình ga
+@Lĩnh vực: xây dựng
+-bể chứa khí
+-tháp chứa khí

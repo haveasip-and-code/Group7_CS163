@@ -1,3 +1,5 @@
-photonics
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-photon học\n@Lĩnh vực: điện lạnh\n-quang tử học
-
+photonics	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-photon học
+@Lĩnh vực: điện lạnh
+-quang tử học

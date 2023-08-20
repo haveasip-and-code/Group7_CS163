@@ -1,3 +1,15 @@
-pooling
-	@pooling\n- sự hợp nhất, sự gộp\n- p. of classes (thống kê) sự gộp các lớp\n@Chuyên ngành kinh tế\n-chung vốn (kinh doanh)\n-liên doanh\n-liên kết kinh doanh\n-sự chung vốn (kinh doanh)\n-sự góp chung (vốn)\n-sự liên doanh\n-sự liên kết kinh doanh\n@Chuyên ngành kỹ thuật\n-sự hợp nhất\n@Lĩnh vực: toán & tin\n-sự gộp
-
+pooling	@pooling
+- sự hợp nhất, sự gộp
+- p. of classes (thống kê) sự gộp các lớp
+@Chuyên ngành kinh tế
+-chung vốn (kinh doanh)
+-liên doanh
+-liên kết kinh doanh
+-sự chung vốn (kinh doanh)
+-sự góp chung (vốn)
+-sự liên doanh
+-sự liên kết kinh doanh
+@Chuyên ngành kỹ thuật
+-sự hợp nhất
+@Lĩnh vực: toán & tin
+-sự gộp

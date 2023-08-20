@@ -1,3 +1,8 @@
-restructure
-	@restructure\n* ngoại động từ\n- cơ cấu lại; tổ chức lại; sắp xếp lại\n@Chuyên ngành kinh tế\n-cải tổ\n-cấu trúc lại\n-điều chỉnh\n-sắp xếp lại
-
+restructure	@restructure
+* ngoại động từ
+- cơ cấu lại; tổ chức lại; sắp xếp lại
+@Chuyên ngành kinh tế
+-cải tổ
+-cấu trúc lại
+-điều chỉnh
+-sắp xếp lại

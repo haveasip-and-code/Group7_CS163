@@ -1,3 +1,28 @@
-starter
-	@starter /'stɑ:tlə/\n*  danh từ\n- người ra lệnh xuất phát (một cuộc đua)\n- đấu thủ xuất phát trong cuộc đua\n- (kỹ thuật) nhân viên điều độ\n- (kỹ thuật) bộ khởi động\n@Chuyên ngành kinh tế\n-chất mồi\n-men\n-men rượu\n@Chuyên ngành kỹ thuật\n-biến trở khởi động\n-bộ khởi động\n-bộ khởi động, máy khoan khởi động\n-điện cực khởi động\n-động cơ khởi động\n-men\n-thiết bị khởi động\n@Lĩnh vực: toán & tin\n-bộ khởi đầu\n@Lĩnh vực: xây dựng\n-bộ phận khởi động\n@Lĩnh vực: điện\n-cầu dao khởi động\n-công tắc khởi động\n-tắc te (đèn ống)\n@Lĩnh vực: thực phẩm\n-chất mồi (sản phẩm sữa)
-
+starter	@starter /'stɑ:tlə/
+*  danh từ
+- người ra lệnh xuất phát (một cuộc đua)
+- đấu thủ xuất phát trong cuộc đua
+- (kỹ thuật) nhân viên điều độ
+- (kỹ thuật) bộ khởi động
+@Chuyên ngành kinh tế
+-chất mồi
+-men
+-men rượu
+@Chuyên ngành kỹ thuật
+-biến trở khởi động
+-bộ khởi động
+-bộ khởi động, máy khoan khởi động
+-điện cực khởi động
+-động cơ khởi động
+-men
+-thiết bị khởi động
+@Lĩnh vực: toán & tin
+-bộ khởi đầu
+@Lĩnh vực: xây dựng
+-bộ phận khởi động
+@Lĩnh vực: điện
+-cầu dao khởi động
+-công tắc khởi động
+-tắc te (đèn ống)
+@Lĩnh vực: thực phẩm
+-chất mồi (sản phẩm sữa)

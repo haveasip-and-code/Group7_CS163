@@ -1,3 +1,16 @@
-fragile
-	@fragile /'frædʤail/\n*  tính từ\n- dễ vỡ, dễ gây, dễ hỏng; mỏng mảnh, mỏng manh ((nghĩa đen) & (nghĩa bóng))\n=fragile happiness+ hạnh phúc mỏng manh\n- yếu ớt, mảnh dẻ\n=fragile health+ sức khoẻ yếu ớt\n@Chuyên ngành kinh tế\n-dễ vỡ\n-giòn\n@Chuyên ngành kỹ thuật\n-dễ gãy\n-dễ vỡ\n-giòn\n@Lĩnh vực: xây dựng\n-mỏng manh
-
+fragile	
+@fragile /'frædʤail/
+*  tính từ
+- dễ vỡ, dễ gây, dễ hỏng; mỏng mảnh, mỏng manh ((nghĩa đen) & (nghĩa bóng))=fragile happiness
++ hạnh phúc mỏng manh
+- yếu ớt, mảnh dẻ=fragile health
++ sức khoẻ yếu ớt
+@Chuyên ngành kinh tế
+-dễ vỡ
+-giòn
+@Chuyên ngành kỹ thuật
+-dễ gãy
+-dễ vỡ
+-giòn
+@Lĩnh vực: xây dựng
+-mỏng manh

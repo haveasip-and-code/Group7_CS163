@@ -1,3 +1,20 @@
-waterproofing
-	@Chuyên ngành kỹ thuật\n-cách nước\n-chịu nước\n-hàng xây chắn ẩm\n-lớp cách ẩm\n-lớp chắn ẩm\n-mạch ngăn ẩm\n-sự bít kín\n-sự không thấm nước\n-sự làm chống thấm\n-trét kín\n@Lĩnh vực: hóa học & vật liệu\n-chống thấm nước\n-sự chịu nước\n@Lĩnh vực: xây dựng\n-công tác cách nước\n-công tác chống thấm (nước)\n-sự cách ẩm\n-sự cách nước\n-sự chống thấm nước
-
+waterproofing	@Chuyên ngành kỹ thuật
+-cách nước
+-chịu nước
+-hàng xây chắn ẩm
+-lớp cách ẩm
+-lớp chắn ẩm
+-mạch ngăn ẩm
+-sự bít kín
+-sự không thấm nước
+-sự làm chống thấm
+-trét kín
+@Lĩnh vực: hóa học & vật liệu
+-chống thấm nước
+-sự chịu nước
+@Lĩnh vực: xây dựng
+-công tác cách nước
+-công tác chống thấm (nước)
+-sự cách ẩm
+-sự cách nước
+-sự chống thấm nước

@@ -1,3 +1,34 @@
-cage
-	@cage /keidʤ/\n*  danh từ\n- lồng, chuồng, cũi\n- trại giam tù binh; nhà giam, nhà lao\n- buồng (thang máy)\n- bộ khung, bộ sườn (nhà...)\n*  ngoại động từ\n- nhốt vào lồng, nhốt vào cũi\n- giam giữ\n@Chuyên ngành kinh tế\n-buồng\n-đàn\n-khoang\n-khung\n-phòng quỹ\n@Chuyên ngành kỹ thuật\n-bệ máy\n-buồng\n-buồng thang máy\n-gàu\n-giá đỡ\n-kho\n-khung\n-khuôn\n-lồng\n-lồng sóng\n-lồng thanh điện\n-lớp bọc\n-vỏ bọc\n-vỏ hộp\n@Lĩnh vực: cơ khí & công trình\n-buồng (thang máy)\n-vòng cách (ổ trục)\n-vòng cánh (ổ lăn)
-
+cage	@cage /keidʤ/
+*  danh từ
+- lồng, chuồng, cũi
+- trại giam tù binh; nhà giam, nhà lao
+- buồng (thang máy)
+- bộ khung, bộ sườn (nhà...)
+*  ngoại động từ
+- nhốt vào lồng, nhốt vào cũi
+- giam giữ
+@Chuyên ngành kinh tế
+-buồng
+-đàn
+-khoang
+-khung
+-phòng quỹ
+@Chuyên ngành kỹ thuật
+-bệ máy
+-buồng
+-buồng thang máy
+-gàu
+-giá đỡ
+-kho
+-khung
+-khuôn
+-lồng
+-lồng sóng
+-lồng thanh điện
+-lớp bọc
+-vỏ bọc
+-vỏ hộp
+@Lĩnh vực: cơ khí & công trình
+-buồng (thang máy)
+-vòng cách (ổ trục)
+-vòng cánh (ổ lăn)

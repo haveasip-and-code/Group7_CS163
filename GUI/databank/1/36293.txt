@@ -1,3 +1,4 @@
-naphthenic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-naphten\n-naphtenic
-
+naphthenic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-naphten
+-naphtenic

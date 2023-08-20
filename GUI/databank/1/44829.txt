@@ -1,3 +1,2 @@
-purselike
-	@purselike\n- xem purse
-
+purselike	@purselike
+- xem purse

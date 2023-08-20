@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 #include "trie.h"
 #include "ternarySearchTree.h"
+#include <thread>
+#include <atomic> //Why tf did i use this
 
 using namespace std;
 
@@ -37,5 +39,14 @@ void loadHistory();
 void favourite(pair<string,string> &cur);
 void saveFav();
 void loadFav();
+
+string standardize(string x,int y,int z);
+
+int getsize(int);
+int searchDef(int,int,vector<string>&,int);
+void searchDefThread(int,int,int,vector<string>&,int,atomic<bool>&,atomic<int>&);
+
+void transformDef(string&,vector<string>&);
+
 
 #endif // CORE_H

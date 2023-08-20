@@ -1,3 +1,2 @@
-crystallographer
-	@crystallographer\n- xem crystallography
-
+crystallographer	@crystallographer
+- xem crystallography

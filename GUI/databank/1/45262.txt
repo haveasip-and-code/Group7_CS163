@@ -1,3 +1,14 @@
-quizzes
-	@quizzes\n* danh từ\n- <Mỹ> kỳ thi kiểm tra nói (miệng), kỳ thi vấn đáp; câu hỏi kiểm tra nói (miệng), câu hỏi thi vấn đáp\n- cuộc thi đố (ở đài phát thanh, đài truyền hình)\n- người hay trêu ghẹo chế nhạo\n- người hay nhìn tọc mạch\n- <hiếm> người lố bịch, người kỳ quặc\n- <hiếm> cái dùng để chế giễu như hình nộm, tranh vẽ, lời nói\n* ngoại động từ\n- <Mỹ> kiểm tra, thi (vấn đáp)\n- căn vặn, quay, hỏi ai nhiều câu hỏi\n- trêu chọc, chế giễu, chế nhạo\n- nhìn chòng chọc, nhìn tọc mạch; nhìn chế giễu\n- <hiếm> nhìn qua ống nhòm, nhìn qua kính một mắt
-
+quizzes	@quizzes
+* danh từ
+- <Mỹ> kỳ thi kiểm tra nói (miệng), kỳ thi vấn đáp; câu hỏi kiểm tra nói (miệng), câu hỏi thi vấn đáp
+- cuộc thi đố (ở đài phát thanh, đài truyền hình)
+- người hay trêu ghẹo chế nhạo
+- người hay nhìn tọc mạch
+- <hiếm> người lố bịch, người kỳ quặc
+- <hiếm> cái dùng để chế giễu như hình nộm, tranh vẽ, lời nói
+* ngoại động từ
+- <Mỹ> kiểm tra, thi (vấn đáp)
+- căn vặn, quay, hỏi ai nhiều câu hỏi
+- trêu chọc, chế giễu, chế nhạo
+- nhìn chòng chọc, nhìn tọc mạch; nhìn chế giễu
+- <hiếm> nhìn qua ống nhòm, nhìn qua kính một mắt

@@ -1,3 +1,19 @@
-fitter
-	@fitter /'fitə/\n*  danh từ\n- thợ lắp ráp (máy)\n- người thử quần áo (cho khách hàng)\n@Chuyên ngành kinh tế\n-thợ lắp máy\n@Chuyên ngành kỹ thuật\n-lắp ráp\n@Lĩnh vực: cơ khí & công trình\n-thợ lắp máy\n@Lĩnh vực: xây dựng\n-thợ lắp ráp.\n@Chuyên ngành kỹ thuật\n-lắp ráp\n@Lĩnh vực: cơ khí & công trình\n-thợ lắp máy\n@Lĩnh vực: xây dựng\n-thợ lắp ráp.
-
+fitter	
+@fitter /'fitə/
+*  danh từ
+- thợ lắp ráp (máy)
+- người thử quần áo (cho khách hàng)
+@Chuyên ngành kinh tế
+-thợ lắp máy
+@Chuyên ngành kỹ thuật
+-lắp ráp
+@Lĩnh vực: cơ khí & công trình
+-thợ lắp máy
+@Lĩnh vực: xây dựng
+-thợ lắp ráp.
+@Chuyên ngành kỹ thuật
+-lắp ráp
+@Lĩnh vực: cơ khí & công trình
+-thợ lắp máy
+@Lĩnh vực: xây dựng
+-thợ lắp ráp.

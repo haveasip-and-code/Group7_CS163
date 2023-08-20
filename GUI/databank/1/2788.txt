@@ -1,3 +1,12 @@
-aperiodic
-	@aperiodic\n- (Tech) không tuần hoàn, phi chu kỳ\n@Chuyên ngành kỹ thuật\n-không chu kỳ\n-không tuần hoàn\n@Lĩnh vực: xây dựng\n-không điều hòa\n-không lắc\n@Lĩnh vực: điện\n-không theo chu kỳ\n-phi chu kỳ
-
+aperiodic	
+@aperiodic
+- (Tech) không tuần hoàn, phi chu kỳ
+@Chuyên ngành kỹ thuật
+-không chu kỳ
+-không tuần hoàn
+@Lĩnh vực: xây dựng
+-không điều hòa
+-không lắc
+@Lĩnh vực: điện
+-không theo chu kỳ
+-phi chu kỳ

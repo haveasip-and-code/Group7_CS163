@@ -1,3 +1,4 @@
-conventionalize
-	@conventionalize\n* động từ\n- làm thành quy ước, quy ước hoá
-
+conventionalize	
+@conventionalize
+* động từ
+- làm thành quy ước, quy ước hoá

@@ -1,3 +1,4 @@
-floweret
-	@floweret /floweret/\n*  danh từ\n- bông hoa nhỏ
-
+floweret	
+@floweret /floweret/
+*  danh từ
+- bông hoa nhỏ

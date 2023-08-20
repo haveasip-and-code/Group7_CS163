@@ -1,3 +1,4 @@
-flatling
-	@flatling\n* phó từ\n- hoàn toàn
-
+flatling	
+@flatling
+* phó từ
+- hoàn toàn

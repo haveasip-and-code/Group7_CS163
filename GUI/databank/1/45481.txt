@@ -1,3 +1,71 @@
-rake
-	@rake /reik/\n*  danh từ\n- kẻ chơi bời phóng đãng; kẻ trác táng\n- cái cào\n- cái cào than; que cời than\n- cái cào tiền, cái gạt tiền (ở sòng bạc)\n*  động từ\n- cào, cời\n=to rake hay+ cào cỏ khô\n=to rake a fire+ cời lửa\n=to rake clean+ cào sạch\n=to rake level+ cào cho bằng\n- tìm kỹ, lục soát\n=to rake one's memory+ tìm trong trí nhớ\n=to rake in (among, into) old records+ lục soát trong đám hồ sơ cũ\n- nhìn bao quát\n- nhìn bao quát, nhìn khắp; nhìn ra\n=the window rakes the whole panorama+ cửa sổ nhìn ra toàn bộ phong cảnh đó\n- (quân sự) quét, lia (súng...)\n!to rake away\n- cáo sạch đi\n!to rake in\n- cào vào, lấy cào gạt vào\n=to rake in money+ lấy cào gạt tiền vào (ở sòng bạc)\n!to rake of\n- cào sạch\n=to rake off the dead leaves+ cào sạch lá khô\n!to rake out\n- cào bới ra\n=to rake out a fire+ cào ngọn lửa, làm tắt ngọn lửa\n!to rake over\n- cào xới lên\n=to rake over a flowerbed+ cào xới lên một luống hoa\n!to rake up\n- cào gọn lại (thành đống)\n=to rake up the hay+ cào cỏ khô gọn lại thành đống\n=to rake up the fire+ cời to ngọn lửa\n- khơi lại, nhắc lại\n=to rake up an old quarrel+ khơi lại chuyện bất hoà cũ\n=to rake up all sorts of objections+ tìm bới mọi cách phản đối\n!to rake somebody over the coals\n- (xem) coal\n*  danh từ\n- sự nghiêng về phía sau; độ nghiêng về phía sau (cột buồm, ống khói tàu...)\n*  ngoại động từ\n- làm nghiêng về phía sau\n*  nội động từ\n- nhô ra (cột buồm)\n- nghiêng về phía sau (cột buồm, ống khói tàu)\n@Chuyên ngành kinh tế\n-cào\n@Chuyên ngành kỹ thuật\n-cái móc\n-cánh (chong chóng, quạt)\n-cào\n-cời\n-độ dốc\n-độ nghiêng\n-đoàn toa (xe)\n-dốc\n-góc nghiêng\n-mái dốc\n-mái nghiêng\n-răng cào\n-răng nạo\n@Lĩnh vực: hóa học & vật liệu\n-cái gạt\n-độ nghiêng, làm nghiêng\n@Lĩnh vực: xây dựng\n-cột nghiêng\n-đồ trang trí mái
-
+rake	@rake /reik/
+*  danh từ
+- kẻ chơi bời phóng đãng; kẻ trác táng
+- cái cào
+- cái cào than; que cời than
+- cái cào tiền, cái gạt tiền (ở sòng bạc)
+*  động từ
+- cào, cời
+=to rake hay+ cào cỏ khô
+=to rake a fire+ cời lửa
+=to rake clean+ cào sạch
+=to rake level+ cào cho bằng
+- tìm kỹ, lục soát
+=to rake one's memory+ tìm trong trí nhớ
+=to rake in (among, into) old records+ lục soát trong đám hồ sơ cũ
+- nhìn bao quát
+- nhìn bao quát, nhìn khắp; nhìn ra
+=the window rakes the whole panorama+ cửa sổ nhìn ra toàn bộ phong cảnh đó
+- (quân sự) quét, lia (súng...)
+!to rake away
+- cáo sạch đi
+!to rake in
+- cào vào, lấy cào gạt vào
+=to rake in money+ lấy cào gạt tiền vào (ở sòng bạc)
+!to rake of
+- cào sạch
+=to rake off the dead leaves+ cào sạch lá khô
+!to rake out
+- cào bới ra
+=to rake out a fire+ cào ngọn lửa, làm tắt ngọn lửa
+!to rake over
+- cào xới lên
+=to rake over a flowerbed+ cào xới lên một luống hoa
+!to rake up
+- cào gọn lại (thành đống)
+=to rake up the hay+ cào cỏ khô gọn lại thành đống
+=to rake up the fire+ cời to ngọn lửa
+- khơi lại, nhắc lại
+=to rake up an old quarrel+ khơi lại chuyện bất hoà cũ
+=to rake up all sorts of objections+ tìm bới mọi cách phản đối
+!to rake somebody over the coals
+- (xem) coal
+*  danh từ
+- sự nghiêng về phía sau; độ nghiêng về phía sau (cột buồm, ống khói tàu...)
+*  ngoại động từ
+- làm nghiêng về phía sau
+*  nội động từ
+- nhô ra (cột buồm)
+- nghiêng về phía sau (cột buồm, ống khói tàu)
+@Chuyên ngành kinh tế
+-cào
+@Chuyên ngành kỹ thuật
+-cái móc
+-cánh (chong chóng, quạt)
+-cào
+-cời
+-độ dốc
+-độ nghiêng
+-đoàn toa (xe)
+-dốc
+-góc nghiêng
+-mái dốc
+-mái nghiêng
+-răng cào
+-răng nạo
+@Lĩnh vực: hóa học & vật liệu
+-cái gạt
+-độ nghiêng, làm nghiêng
+@Lĩnh vực: xây dựng
+-cột nghiêng
+-đồ trang trí mái

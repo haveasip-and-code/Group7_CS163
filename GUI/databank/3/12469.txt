@@ -1,3 +1,29 @@
-crank
-	@crank /kræɳk/\n*  danh từ\n- lối chơi chữ, lối nói kỳ quặc\n- ý nghĩ quái gỡ; hành động kỳ quặc, hành động lập dị\n- người kỳ quặc, người lập dị\n- cái quay tay (máy hơi nước, máy nổ)\n*  ngoại động từ\n- lắp quay tay\n- bẻ thành hình quay tay\n- (crank up) quay (máy)\n=to crank up an engine+ quay một cái máy\n*  tính từ\n- không vững, ọp ẹp, xộc xệch\n- (hàng hải) tròng trành, không vững (tàu, thuyền)\n@Chuyên ngành kỹ thuật\n-khởi động\n-khuỷu\n-quay\n-quay máy chạy\n-trục cuộn\n-trục khuỷu\n@Lĩnh vực: ô tô\n-cái tay quay\n-đề\n-khởi động xe\n@Lĩnh vực: giao thông & vận tải\n-thanh khuỷu (ghi)\n@Lĩnh vực: cơ khí & công trình\n-uốn khuỷu
-
+crank	@crank /kræɳk/
+*  danh từ
+- lối chơi chữ, lối nói kỳ quặc
+- ý nghĩ quái gỡ; hành động kỳ quặc, hành động lập dị
+- người kỳ quặc, người lập dị
+- cái quay tay (máy hơi nước, máy nổ)
+*  ngoại động từ
+- lắp quay tay
+- bẻ thành hình quay tay
+- (crank up) quay (máy)
+=to crank up an engine+ quay một cái máy
+*  tính từ
+- không vững, ọp ẹp, xộc xệch
+- (hàng hải) tròng trành, không vững (tàu, thuyền)
+@Chuyên ngành kỹ thuật
+-khởi động
+-khuỷu
+-quay
+-quay máy chạy
+-trục cuộn
+-trục khuỷu
+@Lĩnh vực: ô tô
+-cái tay quay
+-đề
+-khởi động xe
+@Lĩnh vực: giao thông & vận tải
+-thanh khuỷu (ghi)
+@Lĩnh vực: cơ khí & công trình
+-uốn khuỷu

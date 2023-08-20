@@ -1,3 +1,4 @@
-reversals
-	@Chuyên ngành kỹ thuật\n-nửa chu kỳ\n@Lĩnh vực: điện tử & viễn thông\n-nửa phiên
-
+reversals	@Chuyên ngành kỹ thuật
+-nửa chu kỳ
+@Lĩnh vực: điện tử & viễn thông
+-nửa phiên

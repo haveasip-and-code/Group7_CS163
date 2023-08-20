@@ -1,3 +1,2 @@
-acclimatizer
-	@acclimatizer\n- xem acclimatize
-
+acclimatizer	@acclimatizer
+- xem acclimatize

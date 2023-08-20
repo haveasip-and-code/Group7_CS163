@@ -1,3 +1,4 @@
-irradiated
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-được chiếu xạ
-
+irradiated	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-được chiếu xạ

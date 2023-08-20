@@ -1,3 +1,3 @@
-welcomer
-	@welcomer /'welk m /\n*  danh từ\n- người đón tiếp
-
+welcomer	@welcomer /'welk m /
+*  danh từ
+- người đón tiếp

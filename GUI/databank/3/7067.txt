@@ -1,3 +1,36 @@
-bulb
-	@bulb /bʌlb/\n*  danh từ\n- củ (hành, tỏi...); (thực vật học) (thân) hành\n- (giải phẫu) hành\n- bóng đèn\n- bầu\n=bulb of thermometer+ bầu nhiệt biểu\n- quả bóp (bơm nước hoa...)\n@Chuyên ngành kỹ thuật\n-bầu nhiệt kế\n-bình cầu\n-bình chứa\n-bong bóng\n-bóng đèn\n-bọt\n-đèn nóng sáng\n-phồng lên\n-vỏ\n@Lĩnh vực: điện lạnh\n-bầu (con)\n-bầu cảm nhiệt\n-bóng (đèn) nhỏ\n@Lĩnh vực: hóa học & vật liệu\n-bầu (nhiệt kế)\n@Lĩnh vực: điện\n-bầu đèn\n-bóng đèn tròn\n-bóng điện\n-vầu (nhiệt kế)\n@Lĩnh vực: xây dựng\n-bóng đèn (điện)\n-ống (hàn thử điện)\n@Lĩnh vực: cơ khí & công trình\n-chi tiết hình cầu\n@Lĩnh vực: y học\n-hành
-
+bulb	@bulb /bʌlb/
+*  danh từ
+- củ (hành, tỏi...); (thực vật học) (thân) hành
+- (giải phẫu) hành
+- bóng đèn
+- bầu
+=bulb of thermometer+ bầu nhiệt biểu
+- quả bóp (bơm nước hoa...)
+@Chuyên ngành kỹ thuật
+-bầu nhiệt kế
+-bình cầu
+-bình chứa
+-bong bóng
+-bóng đèn
+-bọt
+-đèn nóng sáng
+-phồng lên
+-vỏ
+@Lĩnh vực: điện lạnh
+-bầu (con)
+-bầu cảm nhiệt
+-bóng (đèn) nhỏ
+@Lĩnh vực: hóa học & vật liệu
+-bầu (nhiệt kế)
+@Lĩnh vực: điện
+-bầu đèn
+-bóng đèn tròn
+-bóng điện
+-vầu (nhiệt kế)
+@Lĩnh vực: xây dựng
+-bóng đèn (điện)
+-ống (hàn thử điện)
+@Lĩnh vực: cơ khí & công trình
+-chi tiết hình cầu
+@Lĩnh vực: y học
+-hành

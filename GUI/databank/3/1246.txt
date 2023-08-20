@@ -1,3 +1,4 @@
-agnomen
-	@agnomen /æg'noumen/\n*  danh từ,  số nhiều agnomina\n/æg'nɔminə/\n- tên hiệu, tên lóng
-
+agnomen	@agnomen /æg'noumen/
+*  danh từ,  số nhiều agnomina
+/æg'nɔminə/
+- tên hiệu, tên lóng

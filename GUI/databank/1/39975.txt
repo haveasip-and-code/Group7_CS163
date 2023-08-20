@@ -1,3 +1,40 @@
-patent
-	@patent /'peitənt/\n*  tính từ\n- có bằng sáng chế, có bằng công nhận đặc quyền chế tạo\n- (thông tục) tài tình, khéo léo, tinh xảo\n=a patent device+ một phương sách tài tình\n- mỏ (cửa...)\n- rõ ràng, hiển nhiên, rõ rành rành\n=a patent fact+ sự việc rõ rành rành\n*  danh từ\n- giấy môn bài, giấy đăng ký\n- bằng sáng chế\n- việc sáng chế (được công nhận bởi một bằng sáng chế; đặc quyền chế tạo\n- (nghĩa bóng) chứng chỉ (về tư cách đạo đức...)\n*  ngoại động từ\n- lấy bằng sáng chế về; được cấp bằng sáng chế về\n- (từ hiếm,nghĩa hiếm) cấp bằng sáng chế\n@Chuyên ngành kinh tế\n-bản quyền sáng chế phát minh\n-bằng sáng chế\n-cấp bằng (sáng chế)\n-có bản quyền sáng chế\n-đặc quyền\n-đặc quyền sáng chế\n-độc quyền kinh doanh khai thác\n-được cấp bằng (sáng chế)\n-giấy độc quyền\n-giấy phép\n-hiển nhiên\n-lấy bằng sáng chế cho (một phát minh)\n-môn bài\n-phát minh được cấp bằng\n-rõ ràng\n@Chuyên ngành kỹ thuật\n-bằng phát minh\n-bằng sáng chế\n-mở\n@Lĩnh vực: hóa học & vật liệu\n-giấy môn bài\n@Lĩnh vực: y học\n-rõ ràng, hiển nhiên
-
+patent	@patent /'peitənt/
+*  tính từ
+- có bằng sáng chế, có bằng công nhận đặc quyền chế tạo
+- (thông tục) tài tình, khéo léo, tinh xảo
+=a patent device+ một phương sách tài tình
+- mỏ (cửa...)
+- rõ ràng, hiển nhiên, rõ rành rành
+=a patent fact+ sự việc rõ rành rành
+*  danh từ
+- giấy môn bài, giấy đăng ký
+- bằng sáng chế
+- việc sáng chế (được công nhận bởi một bằng sáng chế; đặc quyền chế tạo
+- (nghĩa bóng) chứng chỉ (về tư cách đạo đức...)
+*  ngoại động từ
+- lấy bằng sáng chế về; được cấp bằng sáng chế về
+- (từ hiếm,nghĩa hiếm) cấp bằng sáng chế
+@Chuyên ngành kinh tế
+-bản quyền sáng chế phát minh
+-bằng sáng chế
+-cấp bằng (sáng chế)
+-có bản quyền sáng chế
+-đặc quyền
+-đặc quyền sáng chế
+-độc quyền kinh doanh khai thác
+-được cấp bằng (sáng chế)
+-giấy độc quyền
+-giấy phép
+-hiển nhiên
+-lấy bằng sáng chế cho (một phát minh)
+-môn bài
+-phát minh được cấp bằng
+-rõ ràng
+@Chuyên ngành kỹ thuật
+-bằng phát minh
+-bằng sáng chế
+-mở
+@Lĩnh vực: hóa học & vật liệu
+-giấy môn bài
+@Lĩnh vực: y học
+-rõ ràng, hiển nhiên

@@ -1,3 +1,15 @@
-stimulus
-	@stimulus /'stimjuləs/\n*  danh từ,  số nhiều stimuli\n- sự kích thích; tác dụng kích khích\n=under the stimulus of hunger+ do tác dụng kích thích\n- (thực vật học) lông ngứa\n- (tôn giáo) đầu gậy của mục sư\n@Chuyên ngành kinh tế\n-nhân tố kích thích\n-sự kích thích\n-tác nhân kích thích\n-vật kích thích\n@Chuyên ngành kỹ thuật\n-kích thích\n@Lĩnh vực: đo lường & điều khiển\n-tác nhân kích thích
-
+stimulus	@stimulus /'stimjuləs/
+*  danh từ,  số nhiều stimuli
+- sự kích thích; tác dụng kích khích
+=under the stimulus of hunger+ do tác dụng kích thích
+- (thực vật học) lông ngứa
+- (tôn giáo) đầu gậy của mục sư
+@Chuyên ngành kinh tế
+-nhân tố kích thích
+-sự kích thích
+-tác nhân kích thích
+-vật kích thích
+@Chuyên ngành kỹ thuật
+-kích thích
+@Lĩnh vực: đo lường & điều khiển
+-tác nhân kích thích

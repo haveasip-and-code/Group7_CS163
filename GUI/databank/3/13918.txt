@@ -1,3 +1,10 @@
-decoupling
-	@Chuyên ngành kỹ thuật\n-sự cách ly\n-sự tháo\n@Lĩnh vực: điện lạnh\n-sự gỡ\n@Lĩnh vực: điện tử & viễn thông\n-sự khử ghép\n@Lĩnh vực: điện\n-sự nhả\n-sự tách
-
+decoupling	@Chuyên ngành kỹ thuật
+-sự cách ly
+-sự tháo
+@Lĩnh vực: điện lạnh
+-sự gỡ
+@Lĩnh vực: điện tử & viễn thông
+-sự khử ghép
+@Lĩnh vực: điện
+-sự nhả
+-sự tách

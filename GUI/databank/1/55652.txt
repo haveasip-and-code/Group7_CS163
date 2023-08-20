@@ -1,3 +1,7 @@
-tasting
-	@tasting\n* danh từ\n- cuộc thi nếm\n- (tạo nên những tính từ ghép) có vị được nói rõ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-sự thử nếm
-
+tasting	@tasting
+* danh từ
+- cuộc thi nếm
+- (tạo nên những tính từ ghép) có vị được nói rõ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-sự thử nếm

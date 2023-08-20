@@ -1,3 +1,61 @@
-separator
-	@separator /'sepəreitə/\n*  danh từ\n- người chia ra, người tách ra\n- máy gạn kem\n- máy tách; chất tách\n=frequency separator+ máy tách tần số\n@Chuyên ngành kinh tế\n-máy làm sạch bụi\n-máy tách\n-rây\n-sàng\n-thiết bị phân loại\n@Chuyên ngành kỹ thuật\n-bẫy tách\n-bộ chia\n-bộ phận chia chọn\n-bộ phân tích\n-bộ tách\n-dải phân cách\n-dấu phân tách\n-dấu tách\n-đệm\n-dụng cụ tách\n-ký tự phân cách\n-lọc\n-máy phân ly\n-máy sàng\n-máy tách\n-tấm cách điện\n-thanh giằng\n-thiết bị làm sạch\n-thiết bị tách\n-thiết bị tinh chế\n-vòng cách\n@Lĩnh vực: điện tử & viễn thông\n-bộ cách ly\n@Lĩnh vực: điện\n-bộ phân li\n-vặt ngăn cách\n@Lĩnh vực: xây dựng\n-bộ phân ly\n-máy chọn quặng\n-tấm cách\n-thiết bị cách ly\n@Lĩnh vực: toán & tin\n-dấu ngăn cách\n-dấu phân cách\n-dụng cụ ngăn cách\n-ký hiệu ngăn cách\n-tấm cách thanh giằng\n-thiết bị ngăn cách\n@Lĩnh vực: điện lạnh\n-máy (phân) tách\n-tấm phân tách (ở acquy)\n@Lĩnh vực: cơ khí & công trình\n-ống phân ly\n-vòng ngăn\n@Lĩnh vực: ô tô\n-tấm cách điện (ắc quy)\n@Lĩnh vực: hóa học & vật liệu\n-thiết bị tuyển
-
+separator	@separator /'sepəreitə/
+*  danh từ
+- người chia ra, người tách ra
+- máy gạn kem
+- máy tách; chất tách
+=frequency separator+ máy tách tần số
+@Chuyên ngành kinh tế
+-máy làm sạch bụi
+-máy tách
+-rây
+-sàng
+-thiết bị phân loại
+@Chuyên ngành kỹ thuật
+-bẫy tách
+-bộ chia
+-bộ phận chia chọn
+-bộ phân tích
+-bộ tách
+-dải phân cách
+-dấu phân tách
+-dấu tách
+-đệm
+-dụng cụ tách
+-ký tự phân cách
+-lọc
+-máy phân ly
+-máy sàng
+-máy tách
+-tấm cách điện
+-thanh giằng
+-thiết bị làm sạch
+-thiết bị tách
+-thiết bị tinh chế
+-vòng cách
+@Lĩnh vực: điện tử & viễn thông
+-bộ cách ly
+@Lĩnh vực: điện
+-bộ phân li
+-vặt ngăn cách
+@Lĩnh vực: xây dựng
+-bộ phân ly
+-máy chọn quặng
+-tấm cách
+-thiết bị cách ly
+@Lĩnh vực: toán & tin
+-dấu ngăn cách
+-dấu phân cách
+-dụng cụ ngăn cách
+-ký hiệu ngăn cách
+-tấm cách thanh giằng
+-thiết bị ngăn cách
+@Lĩnh vực: điện lạnh
+-máy (phân) tách
+-tấm phân tách (ở acquy)
+@Lĩnh vực: cơ khí & công trình
+-ống phân ly
+-vòng ngăn
+@Lĩnh vực: ô tô
+-tấm cách điện (ắc quy)
+@Lĩnh vực: hóa học & vật liệu
+-thiết bị tuyển

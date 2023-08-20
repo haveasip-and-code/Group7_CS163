@@ -1,3 +1,6 @@
-leukopenic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc thiếu bạch cầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc thiếu bạch cầu
-
+leukopenic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc thiếu bạch cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc thiếu bạch cầu

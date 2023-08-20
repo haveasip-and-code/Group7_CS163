@@ -1,3 +1,2 @@
-seasoner
-	@Chuyên ngành kinh tế\n-đồ gia vị
-
+seasoner	@Chuyên ngành kinh tế
+-đồ gia vị

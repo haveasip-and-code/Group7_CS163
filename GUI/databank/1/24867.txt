@@ -1,3 +1,60 @@
-hammer
-	@hammer /'hæmə/\n*  danh từ\n- búa\n=pneumatic hammer+ búa hơi, búa gió\n- búa gỗ (cho người bán đấu giá)\n=to bring to the hammer+ đem bán đấu giá\n=to come to the hammer+ bị đem bán đấu giá\n- đầu cần (đàn pianô)\n- cò (súng)\n!between hammer ans anvil\n- trên đe dưới búa\n!hammer and sickle\n- búa liềm (cờ Liên-xô, cờ đảng)\n!hammer and tongs\n- dốc hết sức lực, với tất cả sức mạnh\n!to go (be) at it hammer and tongs\n- đánh nhau kịch liệt, cãi nhau kịch liệt\n!knight of the hammer\n- thợ rèn\n!throwing the hammer\n- (thể dục,thể thao) môn ném búa\n!up to the hammer\n- (thông tục) đặc sắc, cừ khôi\n*  ngoại động từ\n- quai, búa, nện, đóng, đạp mạnh (bằng búa hoặc như bằng búa)\n=to hammer a nail in+ đóng đinh\n=to hammer a piece of metal flat+ đập bẹp mảnh kim loại\n- (thông tục) đánh bại, giáng cho những thất bại nặng nề (trong chiến tranh, trong thi đấu thể thao...)\n- nhồi nhét, tọng\n=to hammer an idea into someone's head+ nhồi nhét một ý kiền vào đầu ai\n- (từ Mỹ,nghĩa Mỹ) phê bình kịch liệt; chỉ trích kịch liệt\n- gõ ba lần búa tuyên bố (ai) vỡ nợ\n*  nội động từ ((thường) + at)\n- làm bền bỉ; cố sức làm, gắng công làm (việc gì)\n- quấy rầy, quấy nhiễu (ai)\n!to hammer away\n- tiếp tục làm (việc gì...); gắng công gắng sức làm (việc gì...)\n- nã liên hồi, nã dồn dập (súng lớn)\n=to hammer away at the enemy positions+ nã liên hồi vào vị trí địch (súng lớn)\n!to hammer out\n- (kỹ thuật) đập bẹt, đập mỏng\n- nghĩ ra, tìm ra\n=to hammer out a new scheme+ nghĩ ra một kế hoạch mới\n@Chuyên ngành kinh tế\n-búa gỗ\n-cái búa\n-gõ búa thị trường\n-gõ búa tuyên bố vỡ nợ\n-tuyên bố vỡ nợ (tại sở giao dịch chứng khoán)\n@Chuyên ngành kỹ thuật\n-búa\n-búa đóng\n-búa đóng cọc\n-búa gỗ\n-cái búa\n-đánh búa\n-đập\n-đập búa\n-đầu búa\n-gõ\n-gõ búa\n-nện\n-xương búa\n@Lĩnh vực: xây dựng\n-búa dầm\n-đánh bằng búa
-
+hammer	
+@hammer /'hæmə/
+*  danh từ
+- búa=pneumatic hammer
++ búa hơi, búa gió
+- búa gỗ (cho người bán đấu giá)=to bring to the hammer
++ đem bán đấu giá=to come to the hammer
++ bị đem bán đấu giá
+- đầu cần (đàn pianô)
+- cò (súng)!between hammer ans anvil
+- trên đe dưới búa!hammer and sickle
+- búa liềm (cờ Liên
+-xô, cờ đảng)!hammer and tongs
+- dốc hết sức lực, với tất cả sức mạnh!to go (be) at it hammer and tongs
+- đánh nhau kịch liệt, cãi nhau kịch liệt!knight of the hammer
+- thợ rèn!throwing the hammer
+- (thể dục,thể thao) môn ném búa!up to the hammer
+- (thông tục) đặc sắc, cừ khôi
+*  ngoại động từ
+- quai, búa, nện, đóng, đạp mạnh (bằng búa hoặc như bằng búa)=to hammer a nail in
++ đóng đinh=to hammer a piece of metal flat
++ đập bẹp mảnh kim loại
+- (thông tục) đánh bại, giáng cho những thất bại nặng nề (trong chiến tranh, trong thi đấu thể thao...)
+- nhồi nhét, tọng=to hammer an idea into someone's head
++ nhồi nhét một ý kiền vào đầu ai
+- (từ Mỹ,nghĩa Mỹ) phê bình kịch liệt; chỉ trích kịch liệt
+- gõ ba lần búa tuyên bố (ai) vỡ nợ
+*  nội động từ ((thường) 
++ at)
+- làm bền bỉ; cố sức làm, gắng công làm (việc gì)
+- quấy rầy, quấy nhiễu (ai)!to hammer away
+- tiếp tục làm (việc gì...); gắng công gắng sức làm (việc gì...)
+- nã liên hồi, nã dồn dập (súng lớn)=to hammer away at the enemy positions
++ nã liên hồi vào vị trí địch (súng lớn)!to hammer out
+- (kỹ thuật) đập bẹt, đập mỏng
+- nghĩ ra, tìm ra=to hammer out a new scheme
++ nghĩ ra một kế hoạch mới
+@Chuyên ngành kinh tế
+-búa gỗ
+-cái búa
+-gõ búa thị trường
+-gõ búa tuyên bố vỡ nợ
+-tuyên bố vỡ nợ (tại sở giao dịch chứng khoán)
+@Chuyên ngành kỹ thuật
+-búa
+-búa đóng
+-búa đóng cọc
+-búa gỗ
+-cái búa
+-đánh búa
+-đập
+-đập búa
+-đầu búa
+-gõ
+-gõ búa
+-nện
+-xương búa
+@Lĩnh vực: xây dựng
+-búa dầm
+-đánh bằng búa

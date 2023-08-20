@@ -1,3 +1,41 @@
-curl
-	@curl /kə:l/\n*  danh từ\n- món tóc quăn\n- sự uốn quăn; sự quăn\n=to keep the hair in curl+ giữ cho tóc quăn\n- làn (khói...); cuộn; cái bĩu (môi)\n- bệnh xoắn lá (của khoai tây)\n*  ngoại động từ\n- uốn, uốn quăn, làm xoăn\n=to curl the hair+ uốn tóc\n*  nội động từ\n- quăn, xoắn, cuộn\n=hair curls naturally+ tóc quăn tự nhiên\n!to curl up\n- cuộn lại, xoắn lại; cuồn cuộn lên (khói)\n- co tròn lại, thu mình lại\n=to lie curled up+ nằm co tròn\n- (từ lóng) ngã sụp xuống (vì mệt, vì trúng đạn...)\n@Chuyên ngành kinh tế\n-bệnh xoăn lá (khoai tây)\n-cuốn\n-uốn\n@Chuyên ngành kỹ thuật\n-bị uốn quăn\n-chun\n-cuộn\n-nhăn\n-quăn\n-sự cuốn quăn\n-sự gấp nếp\n-sự quăn\n-sự xoắn\n-sự xoáy\n-uốn\n@Lĩnh vực: dệt may\n-làm xoắn\n-uốn quăn\n@Lĩnh vực: cơ khí & công trình\n-mép cuốn\n@Lĩnh vực: toán & tin\n-rota (của trường vectơ)
-
+curl	
+@curl /kə:l/
+*  danh từ
+- món tóc quăn
+- sự uốn quăn; sự quăn=to keep the hair in curl
++ giữ cho tóc quăn
+- làn (khói...); cuộn; cái bĩu (môi)
+- bệnh xoắn lá (của khoai tây)
+*  ngoại động từ
+- uốn, uốn quăn, làm xoăn=to curl the hair
++ uốn tóc
+*  nội động từ
+- quăn, xoắn, cuộn=hair curls naturally
++ tóc quăn tự nhiên!to curl up
+- cuộn lại, xoắn lại; cuồn cuộn lên (khói)
+- co tròn lại, thu mình lại=to lie curled up
++ nằm co tròn
+- (từ lóng) ngã sụp xuống (vì mệt, vì trúng đạn...)
+@Chuyên ngành kinh tế
+-bệnh xoăn lá (khoai tây)
+-cuốn
+-uốn
+@Chuyên ngành kỹ thuật
+-bị uốn quăn
+-chun
+-cuộn
+-nhăn
+-quăn
+-sự cuốn quăn
+-sự gấp nếp
+-sự quăn
+-sự xoắn
+-sự xoáy
+-uốn
+@Lĩnh vực: dệt may
+-làm xoắn
+-uốn quăn
+@Lĩnh vực: cơ khí & công trình
+-mép cuốn
+@Lĩnh vực: toán & tin
+-rota (của trường vectơ)

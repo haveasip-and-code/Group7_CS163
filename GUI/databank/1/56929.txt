@@ -1,3 +1,9 @@
-tome
-	@tome /toum/\n*  danh từ\n- quyển, tập\n=a dictionary in two tomes+ một quyển từ điển gồm hai tập\n@Chuyên ngành kỹ thuật\n-cuốn\n@Lĩnh vực: toán & tin\n-cuốn, tập sách\n-tập (sách)
-
+tome	@tome /toum/
+*  danh từ
+- quyển, tập
+=a dictionary in two tomes+ một quyển từ điển gồm hai tập
+@Chuyên ngành kỹ thuật
+-cuốn
+@Lĩnh vực: toán & tin
+-cuốn, tập sách
+-tập (sách)

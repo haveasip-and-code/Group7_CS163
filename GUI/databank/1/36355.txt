@@ -1,3 +1,6 @@
-nation
-	@nation /'neiʃn/\n*  danh từ\n- dân tộc\n- nước, quốc gia\n@Chuyên ngành kỹ thuật\n-quốc gia
-
+nation	@nation /'neiʃn/
+*  danh từ
+- dân tộc
+- nước, quốc gia
+@Chuyên ngành kỹ thuật
+-quốc gia

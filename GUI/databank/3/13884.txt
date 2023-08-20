@@ -1,3 +1,2 @@
-decompensate
-	@decompensate\n- xem decompensation
-
+decompensate	@decompensate
+- xem decompensation

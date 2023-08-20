@@ -1,3 +1,2 @@
-preordainment
-	@preordainment\n- xem preordain
-
+preordainment	@preordainment
+- xem preordain

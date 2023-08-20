@@ -1,3 +1,24 @@
-pavilion
-	@pavilion /pə'viljən/\n*  danh từ\n- lều vải, rạp\n- đinh, tạ (ở cạnh lâu đài, sân thể thao, nơi giải trí...)\n- (kiến trúc) phần nhà nhô ra\n*  ngoại động từ\n- che bằng lều; dựng lều, dựng rạp\n@Chuyên ngành kỹ thuật\n-lều tạm\n-nhà phụ\n-quán nhỏ báo\n-quán nhỏ sách\n@Lĩnh vực: xây dựng\n-cánh cửa phụ\n-cung, gian (nhà cao, rộng không có cột trong)\n-gian nhà triển lãm\n-lều vải\n-nhà hóng mát\n-quán nghỉ\n-quán nhỏ bán hàng\n-sảnh\n-thủy tạ\n@Lĩnh vực: y học\n-phần loe, xòe
-
+pavilion	@pavilion /pə'viljən/
+*  danh từ
+- lều vải, rạp
+- đinh, tạ (ở cạnh lâu đài, sân thể thao, nơi giải trí...)
+- (kiến trúc) phần nhà nhô ra
+*  ngoại động từ
+- che bằng lều; dựng lều, dựng rạp
+@Chuyên ngành kỹ thuật
+-lều tạm
+-nhà phụ
+-quán nhỏ báo
+-quán nhỏ sách
+@Lĩnh vực: xây dựng
+-cánh cửa phụ
+-cung, gian (nhà cao, rộng không có cột trong)
+-gian nhà triển lãm
+-lều vải
+-nhà hóng mát
+-quán nghỉ
+-quán nhỏ bán hàng
+-sảnh
+-thủy tạ
+@Lĩnh vực: y học
+-phần loe, xòe

@@ -1,3 +1,9 @@
-publisher
-	@publisher /'pʌbliʃə/\n*  danh từ\n- người xuất bản, nhà xuất bản (sách báo...)\n- (từ Mỹ,nghĩa Mỹ) chủ báo\n@Chuyên ngành kinh tế\n-giá phát hành (sách, báo)\n@Chuyên ngành kỹ thuật\n-người xuất bản\n-nhà xuất bản
-
+publisher	@publisher /'pʌbliʃə/
+*  danh từ
+- người xuất bản, nhà xuất bản (sách báo...)
+- (từ Mỹ,nghĩa Mỹ) chủ báo
+@Chuyên ngành kinh tế
+-giá phát hành (sách, báo)
+@Chuyên ngành kỹ thuật
+-người xuất bản
+-nhà xuất bản

@@ -1,3 +1,10 @@
-packaged
-	@packaged\n* tính từ\n- được đóng gói\n@Chuyên ngành kỹ thuật\n-chặt\n-đặc\n-gọn\n-hợp khối\n@Lĩnh vực: xây dựng\n-trọn gói
-
+packaged	@packaged
+* tính từ
+- được đóng gói
+@Chuyên ngành kỹ thuật
+-chặt
+-đặc
+-gọn
+-hợp khối
+@Lĩnh vực: xây dựng
+-trọn gói

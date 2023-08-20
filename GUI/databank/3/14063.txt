@@ -1,3 +1,5 @@
-defined
-	@Chuyên ngành kỹ thuật\n-xác định\n@Lĩnh vực: toán & tin\n-được định nghĩa\n-được xác định
-
+defined	@Chuyên ngành kỹ thuật
+-xác định
+@Lĩnh vực: toán & tin
+-được định nghĩa
+-được xác định

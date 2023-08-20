@@ -1,3 +1,20 @@
-legislation
-	@legislation /,ledʤis'leiʃn/\n*  danh từ\n- sự làm luật, sự lập pháp\n- pháp luật, pháp chế\n- sự ban hành pháp luật\n@Chuyên ngành kinh tế\n-luật pháp\n-pháp chế\n-pháp luật\n-sự ban hàng pháp luật\n-sự ban hành luật pháp\n-sự lập pháp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pháp chế\n-pháp luật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pháp chế\n-pháp luật
-
+legislation	@legislation /,ledʤis'leiʃn/
+*  danh từ
+- sự làm luật, sự lập pháp
+- pháp luật, pháp chế
+- sự ban hành pháp luật
+@Chuyên ngành kinh tế
+-luật pháp
+-pháp chế
+-pháp luật
+-sự ban hàng pháp luật
+-sự ban hành luật pháp
+-sự lập pháp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-pháp chế
+-pháp luật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-pháp chế
+-pháp luật

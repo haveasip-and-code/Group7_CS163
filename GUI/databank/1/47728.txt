@@ -1,3 +1,20 @@
-rigid
-	@rigid /'ridʤid/\n*  tính từ\n- cứng\n- (nghĩa bóng) cứng rắn, cứng nhắc\n=rigid principles+ nguyên tắc cứng rắn\n=rigid discipline+ kỷ luật cứng nhắc\n@Chuyên ngành kỹ thuật\n-bắt chặt\n-bền\n-bền vững\n-cố định\n-giữ chặt\n-kẹp chặt\n-rắn\n-rắn cứng\n-vững chắc\n@Lĩnh vực: toán & tin\n-cứng, rắn\n@Lĩnh vực: ô tô\n-không mềm dẻo
-
+rigid	@rigid /'ridʤid/
+*  tính từ
+- cứng
+- (nghĩa bóng) cứng rắn, cứng nhắc
+=rigid principles+ nguyên tắc cứng rắn
+=rigid discipline+ kỷ luật cứng nhắc
+@Chuyên ngành kỹ thuật
+-bắt chặt
+-bền
+-bền vững
+-cố định
+-giữ chặt
+-kẹp chặt
+-rắn
+-rắn cứng
+-vững chắc
+@Lĩnh vực: toán & tin
+-cứng, rắn
+@Lĩnh vực: ô tô
+-không mềm dẻo

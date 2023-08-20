@@ -1,3 +1,5 @@
-accelerometer
-	@accelerometer\n- (Tech) máy đo gia tốc, gia tốc kế\n@Chuyên ngành kỹ thuật\n-gia tốc kế
-
+accelerometer	
+@accelerometer
+- (Tech) máy đo gia tốc, gia tốc kế
+@Chuyên ngành kỹ thuật
+-gia tốc kế

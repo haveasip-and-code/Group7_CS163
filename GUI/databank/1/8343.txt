@@ -1,3 +1,12 @@
-catwalk
-	@catwalk\n* danh từ\n- lối đi hẹp\n- lối đi men cầu (cho công nhân đứng sửa...)\n@Chuyên ngành kỹ thuật\n-đường đi bộ\n-giàn\n-giàn giáo\n-lối đi men\n@Lĩnh vực: cơ khí & công trình\n-sàn (đứng máy)
-
+catwalk	
+@catwalk
+* danh từ
+- lối đi hẹp
+- lối đi men cầu (cho công nhân đứng sửa...)
+@Chuyên ngành kỹ thuật
+-đường đi bộ
+-giàn
+-giàn giáo
+-lối đi men
+@Lĩnh vực: cơ khí & công trình
+-sàn (đứng máy)

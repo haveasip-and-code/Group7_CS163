@@ -1,3 +1,8 @@
-atrium
-	@atrium\n* danh từ\n- cửa\n- tâm nhĩ\n- khoang tai ngoài\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sân trước, hội trường
-
+atrium	@atrium
+* danh từ
+- cửa
+- tâm nhĩ
+- khoang tai ngoài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sân trước, hội trường

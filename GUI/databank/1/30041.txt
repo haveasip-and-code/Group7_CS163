@@ -1,3 +1,18 @@
-irrigation
-	@irrigation /,iri'geiʃn/\n*  danh từ\n- sự tưới (đất, ruộng); sự tưới cho tươi tốt; tình trạng được tưới\n- (y học) sự rửa (vết thương)\n@Chuyên ngành kỹ thuật\n-sự dẫn nước\n-sự phun\n-sự tưới (nước)\n-sự tưới nước\n-sự tưới tràn bờ\n-thụt rửa\n@Lĩnh vực: xây dựng\n-dẫn nước\n-sự dẫn nước tưới\n-thủy lợi\n@Lĩnh vực: cơ khí & công trình\n-tưới ruộng
-
+irrigation	
+@irrigation /,iri'geiʃn/
+*  danh từ
+- sự tưới (đất, ruộng); sự tưới cho tươi tốt; tình trạng được tưới
+- (y học) sự rửa (vết thương)
+@Chuyên ngành kỹ thuật
+-sự dẫn nước
+-sự phun
+-sự tưới (nước)
+-sự tưới nước
+-sự tưới tràn bờ
+-thụt rửa
+@Lĩnh vực: xây dựng
+-dẫn nước
+-sự dẫn nước tưới
+-thủy lợi
+@Lĩnh vực: cơ khí & công trình
+-tưới ruộng

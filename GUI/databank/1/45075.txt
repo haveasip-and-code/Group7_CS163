@@ -1,3 +1,23 @@
-quarantine
-	@quarantine /'kwɔrənti:n/\n*  danh từ\n- thời gian cách ly, thời gian kiểm dịch; sự cách ly, sự kiểm dịch (tàu mới đến bị nghi là có chở khách mắc bệnh dịch...)\n=to clear one's quarantine+ ở trong thời gian kiểm dịch\n=to be kept in quarantine for six months+ bị cách ly trong sáu tháng\n*  ngoại động từ\n- cách ly, giữ để kiểm dịch\n- khám xét theo luật lệ kiểm dịch\n@Chuyên ngành kinh tế\n-cách ly\n-giữ lại để kiểm dịch\n-khoảng thời gian cách ly, kiểm dịch\n-kiểm dịch\n-kỳ kiểm dịch\n-sự cách ly\n-sự cách ly kiểm dịch\n-thời gian cách ly\n@Chuyên ngành kỹ thuật\n-sự kiểm dịch\n@Lĩnh vực: y học\n-cách ly kiểm dịch\n@Lĩnh vực: giao thông & vận tải\n-kiểm dịch
-
+quarantine	@quarantine /'kwɔrənti:n/
+*  danh từ
+- thời gian cách ly, thời gian kiểm dịch; sự cách ly, sự kiểm dịch (tàu mới đến bị nghi là có chở khách mắc bệnh dịch...)
+=to clear one's quarantine+ ở trong thời gian kiểm dịch
+=to be kept in quarantine for six months+ bị cách ly trong sáu tháng
+*  ngoại động từ
+- cách ly, giữ để kiểm dịch
+- khám xét theo luật lệ kiểm dịch
+@Chuyên ngành kinh tế
+-cách ly
+-giữ lại để kiểm dịch
+-khoảng thời gian cách ly, kiểm dịch
+-kiểm dịch
+-kỳ kiểm dịch
+-sự cách ly
+-sự cách ly kiểm dịch
+-thời gian cách ly
+@Chuyên ngành kỹ thuật
+-sự kiểm dịch
+@Lĩnh vực: y học
+-cách ly kiểm dịch
+@Lĩnh vực: giao thông & vận tải
+-kiểm dịch

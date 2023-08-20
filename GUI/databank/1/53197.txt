@@ -1,3 +1,23 @@
-stencil
-	@stencil /'stensl/\n*  danh từ\n- khuôn tô (khuôn chữ, khuôn hoa, khuôn hình trang trí, dùng khi bôi màu, sơn... để in hình xuống vật để bên dưới) ((cũng) stencil  plate)\n- hình tô bằng khuôn tô\n- giấy nến, giấy xtăngxin\n*  ngoại động từ\n- tô bằng khuôn tô\n- in bằng giấy nến\n@Chuyên ngành kinh tế\n-giấy nến (giấy stăng -xin, để quay rô -nê-ôl)\n-giấy nến (giấy xtăng-xin, để quay rô-nê-ô)\n@Chuyên ngành kỹ thuật\n-cỡ\n-dưỡng\n-giấy nến\n-khuôn\n-khuôn chữ đúc\n-khuôn thủng\n-mẫu\n@Lĩnh vực: toán & tin\n-giấy stencil\n@Lĩnh vực: xây dựng\n-tô khuôn
-
+stencil	@stencil /'stensl/
+*  danh từ
+- khuôn tô (khuôn chữ, khuôn hoa, khuôn hình trang trí, dùng khi bôi màu, sơn... để in hình xuống vật để bên dưới) ((cũng) stencil  plate)
+- hình tô bằng khuôn tô
+- giấy nến, giấy xtăngxin
+*  ngoại động từ
+- tô bằng khuôn tô
+- in bằng giấy nến
+@Chuyên ngành kinh tế
+-giấy nến (giấy stăng -xin, để quay rô -nê-ôl)
+-giấy nến (giấy xtăng-xin, để quay rô-nê-ô)
+@Chuyên ngành kỹ thuật
+-cỡ
+-dưỡng
+-giấy nến
+-khuôn
+-khuôn chữ đúc
+-khuôn thủng
+-mẫu
+@Lĩnh vực: toán & tin
+-giấy stencil
+@Lĩnh vực: xây dựng
+-tô khuôn

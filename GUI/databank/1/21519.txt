@@ -1,3 +1,4 @@
-floriculture
-	@floriculture /floriculture/\n*  danh từ\n- nghề trồng hoa
-
+floriculture	
+@floriculture /floriculture/
+*  danh từ
+- nghề trồng hoa

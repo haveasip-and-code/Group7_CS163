@@ -1,3 +1,20 @@
-bilge
-	@bilge /bildʤ/\n*  danh từ\n- đáy tàu\n- nước bẩn ở đáy tàu\n- bụng (thùng rượu...)\n- (thông tục) chuyện nhảm nhí, chuyện bậy bạ\n*  ngoại động từ\n- làm thủng đáy (tàu thuyền)\n*  nội động từ\n- phình ra, phồng ra\n@Chuyên ngành kinh tế\n-bụng (thùng rượu)\n-đáy khoang\n-đáy tàu\n-phần giữa (thùng rượu)\n@Chuyên ngành kỹ thuật\n-độ lồi\n-độ võng\n@Lĩnh vực: giao thông & vận tải\n-hầm hàng
-
+bilge	@bilge /bildʤ/
+*  danh từ
+- đáy tàu
+- nước bẩn ở đáy tàu
+- bụng (thùng rượu...)
+- (thông tục) chuyện nhảm nhí, chuyện bậy bạ
+*  ngoại động từ
+- làm thủng đáy (tàu thuyền)
+*  nội động từ
+- phình ra, phồng ra
+@Chuyên ngành kinh tế
+-bụng (thùng rượu)
+-đáy khoang
+-đáy tàu
+-phần giữa (thùng rượu)
+@Chuyên ngành kỹ thuật
+-độ lồi
+-độ võng
+@Lĩnh vực: giao thông & vận tải
+-hầm hàng

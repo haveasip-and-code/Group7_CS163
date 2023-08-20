@@ -1,3 +1,8 @@
-composer
-	@composer /kəm'pouzə/\n*  danh từ\n- người soạn nhạc\n- người soạn, người sáng tác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-soạn thảo viên
-
+composer	
+@composer /kəm'pouzə/
+*  danh từ
+- người soạn nhạc
+- người soạn, người sáng tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-soạn thảo viên

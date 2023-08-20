@@ -1,3 +1,21 @@
-detention
-	@detention /di'tenʃn/\n*  danh từ\n- sự giam cầm, sự cầm tù; tình trạng bị giam cầm, tình trạng bị cầm tù\n=a house of detention+ nhà tù, nhà giam\n=detention barracks+ (quân sự) trại gian\n- sự phạt không cho ra ngoài; sự bắt ở lại trường sau khi tan học\n- sự cầm giữ (tài sản, đồ vật...)\n- sự chậm trễ bắt buộc\n@Chuyên ngành kinh tế\n-bắt giữ\n-cầm giữ\n-giam giữ\n-giữ\n-lưu giữ\n-lưu tàu\n@Chuyên ngành kỹ thuật\n-sự giữ\n-sự giữ nước\n@Lĩnh vực: cơ khí & công trình\n-sự chứa\n-sự trữ
-
+detention	@detention /di'tenʃn/
+*  danh từ
+- sự giam cầm, sự cầm tù; tình trạng bị giam cầm, tình trạng bị cầm tù
+=a house of detention+ nhà tù, nhà giam
+=detention barracks+ (quân sự) trại gian
+- sự phạt không cho ra ngoài; sự bắt ở lại trường sau khi tan học
+- sự cầm giữ (tài sản, đồ vật...)
+- sự chậm trễ bắt buộc
+@Chuyên ngành kinh tế
+-bắt giữ
+-cầm giữ
+-giam giữ
+-giữ
+-lưu giữ
+-lưu tàu
+@Chuyên ngành kỹ thuật
+-sự giữ
+-sự giữ nước
+@Lĩnh vực: cơ khí & công trình
+-sự chứa
+-sự trữ

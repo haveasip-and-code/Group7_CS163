@@ -1,3 +1,15 @@
-workshop
-	@workshop /'wə:kʃɔp/\n*  danh từ\n- xưởng\n@Chuyên ngành kinh tế\n-phân xưởng\n-xưởng\n@Chuyên ngành kỹ thuật\n-cuộc hội thảo\n-nhà máy\n-xưởng\n-xưởng máy\n-xưởng sửa chữa\n@Lĩnh vực: xây dựng\n-nhà xưởng\n-nơi chuẩn bị
-
+workshop	@workshop /'wə:kʃɔp/
+*  danh từ
+- xưởng
+@Chuyên ngành kinh tế
+-phân xưởng
+-xưởng
+@Chuyên ngành kỹ thuật
+-cuộc hội thảo
+-nhà máy
+-xưởng
+-xưởng máy
+-xưởng sửa chữa
+@Lĩnh vực: xây dựng
+-nhà xưởng
+-nơi chuẩn bị

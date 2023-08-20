@@ -1,3 +1,5 @@
-complemented
-	@complemented\n- được bù\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được bù
-
+complemented	@complemented
+- được bù
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được bù

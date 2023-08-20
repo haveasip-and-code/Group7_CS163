@@ -1,3 +1,76 @@
-balance
-	@balance /'bæləns/\n*  danh từ\n- cái cân\n=precision balance+ cân chính xác, cân tiểu ly\n=analytical balance+ cân phân tích\n- sự thăng bằng sự cân bằng; cán cân\n=balance of forces+ cán cân lực lượng\n=balance of power+ (chính trị) chính sách giữ thăng bằng cán cân lực lượng giữa các nước\n=to keep one's balance+ giữ thăng bằng; (nghĩa bóng) bình tĩnh\n=to lose one's balance+ mất thăng bằng; (nghĩa bóng) mất bình tĩnh, rối trí\n=to be off one's balance+ ngã (vì mất thăng bằng); bối rối\n- sự cân nhắc kỹ\n=on balance+ sau khi cân nhắc kỹ\n- sự thăng trầm của số mệnh\n- (Balance) (thiên văn học) cung thiên bình, toà thiên bình\n- đối trọng\n- quả lắc (đồng hồ)\n- (thương nghiệp) bản đối chiếu thu chi, bản quyết toán\n=to strikle a balance+ làm bản quyết toán\n- sai ngạch; số còn lại, số dư\n=balance in hand+ sai ngạch thừa\n=balance due+ sai ngạch thiếu\n- (nghệ thuật) sự cân xứng\n!to be (tremble, swing, hang) in the balance\n- do dự, lưỡng lự\n- ở vào tình trạng (nguy ngập)\n!the balance of advantage lies with him\n- anh ta ở vào thế có lợi\n!to hold the balance even between two parties\n- cầm cân nảy mực\n!to turn balance\n- (xem) turn\n*  ngoại động từ\n- làm cho thăng bằng; làm cho cân bằng\n- làm cho cân xứng\n- cân nhắc (một vấn đề, một giải pháp)\n- (thương nghiệp) quyết toán\n=to balance the accounts+ quyết toán các khoản chi thu\n*  nội động từ\n- do dự, lưỡng lự\n=to balance a long time before coming to a decision+ do dự lâu trước khi quyết định\n- cân nhau, cân xứng\n=the penalty does not balance with the offence+ hình phạt không cân xứng với tội lỗi\n- (thương nghiệp) cân bằng\n=the accounts don't balance+ sổ sách không cân bằng\n@Chuyên ngành kinh tế\n-bảng cân đối\n-cái cân\n-cân\n-cân bằng\n-cán cân\n-sai ngạch\n-số dư\n-sự cân đối\n@Chuyên ngành kỹ thuật\n-bản quyết toán\n-cái cân\n-cân chính xác\n-đĩa cân\n-điều chỉnh đúng\n-điều hòa\n-đối trọng\n-làm cân bằng\n-số dư\n-sự bình sai\n-sự cân bằng\n-sự cân đối\n-thăng bằng\n-thiết bị cân\n-trạng thái cân bằng\n@Lĩnh vực: xây dựng\n-biểu cân đối\n@Lĩnh vực: toán & tin\n-cán cân\n@Lĩnh vực: vật lý\n-cân nhạy\n-quả lắc đồng hồ\n@Lĩnh vực: cơ khí & công trình\n-sự thăng bằng
-
+balance	
+@balance /'bæləns/
+*  danh từ
+- cái cân=precision balance
++ cân chính xác, cân tiểu ly=analytical balance
++ cân phân tích
+- sự thăng bằng sự cân bằng; cán cân=balance of forces
++ cán cân lực lượng=balance of power
++ (chính trị) chính sách giữ thăng bằng cán cân lực lượng giữa các nước=to keep one's balance
++ giữ thăng bằng; (nghĩa bóng) bình tĩnh=to lose one's balance
++ mất thăng bằng; (nghĩa bóng) mất bình tĩnh, rối trí=to be off one's balance
++ ngã (vì mất thăng bằng); bối rối
+- sự cân nhắc kỹ=on balance
++ sau khi cân nhắc kỹ
+- sự thăng trầm của số mệnh
+- (Balance) (thiên văn học) cung thiên bình, toà thiên bình
+- đối trọng
+- quả lắc (đồng hồ)
+- (thương nghiệp) bản đối chiếu thu chi, bản quyết toán=to strikle a balance
++ làm bản quyết toán
+- sai ngạch; số còn lại, số dư=balance in hand
++ sai ngạch thừa=balance due
++ sai ngạch thiếu
+- (nghệ thuật) sự cân xứng!to be (tremble, swing, hang) in the balance
+- do dự, lưỡng lự
+- ở vào tình trạng (nguy ngập)!the balance of advantage lies with him
+- anh ta ở vào thế có lợi!to hold the balance even between two parties
+- cầm cân nảy mực!to turn balance
+- (xem) turn
+*  ngoại động từ
+- làm cho thăng bằng; làm cho cân bằng
+- làm cho cân xứng
+- cân nhắc (một vấn đề, một giải pháp)
+- (thương nghiệp) quyết toán=to balance the accounts
++ quyết toán các khoản chi thu
+*  nội động từ
+- do dự, lưỡng lự=to balance a long time before coming to a decision
++ do dự lâu trước khi quyết định
+- cân nhau, cân xứng=the penalty does not balance with the offence
++ hình phạt không cân xứng với tội lỗi
+- (thương nghiệp) cân bằng=the accounts don't balance
++ sổ sách không cân bằng
+@Chuyên ngành kinh tế
+-bảng cân đối
+-cái cân
+-cân
+-cân bằng
+-cán cân
+-sai ngạch
+-số dư
+-sự cân đối
+@Chuyên ngành kỹ thuật
+-bản quyết toán
+-cái cân
+-cân chính xác
+-đĩa cân
+-điều chỉnh đúng
+-điều hòa
+-đối trọng
+-làm cân bằng
+-số dư
+-sự bình sai
+-sự cân bằng
+-sự cân đối
+-thăng bằng
+-thiết bị cân
+-trạng thái cân bằng
+@Lĩnh vực: xây dựng
+-biểu cân đối
+@Lĩnh vực: toán & tin
+-cán cân
+@Lĩnh vực: vật lý
+-cân nhạy
+-quả lắc đồng hồ
+@Lĩnh vực: cơ khí & công trình
+-sự thăng bằng

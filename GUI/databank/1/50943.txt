@@ -1,3 +1,10 @@
-skein
-	@skein /skein/\n*  danh từ\n- cuộn chỉ, cuộc len\n- đàn vịt trời đang bay\n- việc rắc rối như mớ bòng bong\n@Chuyên ngành kỹ thuật\n-bó\n-cuộn\n@Lĩnh vực: cơ khí & công trình\n-ống mayơ
-
+skein	@skein /skein/
+*  danh từ
+- cuộn chỉ, cuộc len
+- đàn vịt trời đang bay
+- việc rắc rối như mớ bòng bong
+@Chuyên ngành kỹ thuật
+-bó
+-cuộn
+@Lĩnh vực: cơ khí & công trình
+-ống mayơ

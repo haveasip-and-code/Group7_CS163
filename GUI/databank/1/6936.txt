@@ -1,3 +1,20 @@
-browse
-	@browse /brauz/\n*  danh từ\n- cành non, chồi non\n- sự gặm (cành non, chồi non)\n*  ngoại động từ\n- cho (súc vật) gặm (cành non, chồi non)\n*  nội động từ\n- gặm (cành non, chồi non)\n- (nghĩa bóng) đọc lướt qua, xem lướt qua, đọc bỏ quãng (một cuốn sách)\n@Chuyên ngành kỹ thuật\n-cuộn\n-đọc lướt\n-quét\n-truy tìm\n-xem lướt\n-xem trộm\n@Lĩnh vực: toán & tin\n-duyệt\n-duyệt qua
-
+browse	
+@browse /brauz/
+*  danh từ
+- cành non, chồi non
+- sự gặm (cành non, chồi non)
+*  ngoại động từ
+- cho (súc vật) gặm (cành non, chồi non)
+*  nội động từ
+- gặm (cành non, chồi non)
+- (nghĩa bóng) đọc lướt qua, xem lướt qua, đọc bỏ quãng (một cuốn sách)
+@Chuyên ngành kỹ thuật
+-cuộn
+-đọc lướt
+-quét
+-truy tìm
+-xem lướt
+-xem trộm
+@Lĩnh vực: toán & tin
+-duyệt
+-duyệt qua

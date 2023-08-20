@@ -1,3 +1,2 @@
-verifiableness
-	@verifiableness\n- xem verifiable
-
+verifiableness	@verifiableness
+- xem verifiable

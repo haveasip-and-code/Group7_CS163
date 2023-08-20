@@ -1,3 +1,2 @@
-piccoloist
-	@piccoloist\n- xem piccolo
-
+piccoloist	@piccoloist
+- xem piccolo

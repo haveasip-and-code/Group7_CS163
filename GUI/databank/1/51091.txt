@@ -1,3 +1,40 @@
-slant
-	@slant /slɑ:nt/\n*  tính từ\n- (thơ ca) xiên, nghiêng\n*  danh từ\n- đường xiên, đường nghiêng\n=hải a slant of wind+ gió hiu hiu thổi xuôi\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) cách nhìn vấn đề, quan điểm, thái độ\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) cái liếc\n- (từ cổ,nghĩa cổ) sự quở mắng gián tiếp, sự phê bình gián tiếp\n*  ngoại động từ\n- làm nghiêng; làm cho đi chệch đường\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) đưa (tin) theo một quan điểm riêng; bày tỏ thái độ, bày tỏ quan điểm (bằng cách nói ra hoặc viết ra)\n*  nội động từ\n- dốc nghiêng đi, xiên; đi chệch đường\n@Chuyên ngành kinh tế\n-môi trường thạch nghiêng\n-ống nghiệm thạch nghiêng\n-thạch nghiêng\n@Chuyên ngành kỹ thuật\n-độ chao\n-độ chênh lệch dần\n-độ dốc\n-độ nghiêng\n-độ sụt\n-đường dốc xuống\n-hướng dốc\n-làm nghiêng\n-làm xiên\n-lệch\n-nghiêng\n-mái dốc\n-mặt nghiêng\n-mặt vát\n-sự chuyển hướng\n-sự nghiêng\n-sườn dốc\n-vị trí nghiêng\n-xiên\n@Lĩnh vực: cơ khí & công trình\n-đĩa (lắp) nghiêng trên trục
-
+slant	@slant /slɑ:nt/
+*  tính từ
+- (thơ ca) xiên, nghiêng
+*  danh từ
+- đường xiên, đường nghiêng
+=hải a slant of wind+ gió hiu hiu thổi xuôi
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cách nhìn vấn đề, quan điểm, thái độ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cái liếc
+- (từ cổ,nghĩa cổ) sự quở mắng gián tiếp, sự phê bình gián tiếp
+*  ngoại động từ
+- làm nghiêng; làm cho đi chệch đường
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đưa (tin) theo một quan điểm riêng; bày tỏ thái độ, bày tỏ quan điểm (bằng cách nói ra hoặc viết ra)
+*  nội động từ
+- dốc nghiêng đi, xiên; đi chệch đường
+@Chuyên ngành kinh tế
+-môi trường thạch nghiêng
+-ống nghiệm thạch nghiêng
+-thạch nghiêng
+@Chuyên ngành kỹ thuật
+-độ chao
+-độ chênh lệch dần
+-độ dốc
+-độ nghiêng
+-độ sụt
+-đường dốc xuống
+-hướng dốc
+-làm nghiêng
+-làm xiên
+-lệch
+-nghiêng
+-mái dốc
+-mặt nghiêng
+-mặt vát
+-sự chuyển hướng
+-sự nghiêng
+-sườn dốc
+-vị trí nghiêng
+-xiên
+@Lĩnh vực: cơ khí & công trình
+-đĩa (lắp) nghiêng trên trục

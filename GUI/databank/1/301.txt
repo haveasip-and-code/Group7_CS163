@@ -1,3 +1,3 @@
-acceder
-	@acceder\n- xem accede
-
+acceder	
+@acceder
+- xem accede

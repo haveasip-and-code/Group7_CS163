@@ -1,3 +1,2 @@
-profaner
-	@profaner\n- xem profane
-
+profaner	@profaner
+- xem profane

@@ -1,3 +1,66 @@
-wheel
-	@wheel /wi:l/\n*  danh từ\n- bánh (xe) ((nghĩa đen) & (nghĩa bóng))\n=front wheel+ bánh trước\n=back wheel+ bánh sau\n=the wheel of history+ bánh xe lịch sử\n- (số nhiều) hệ thống bánh xe (của máy...)\n- xe hình (để buộc tội nhân vào mà đánh)\n=to break on the wheel+ xử xe hình\n- (kỹ thuật) bàn quay (của người làm đồ gốm)\n- bánh lái, tay lái\n=man of the wheel+ người cầm lái, người lái tàu\n- sự quay tròn, sự xoay; (quân sự) sự quay\n=left wheel+ sự quay sang trái\n- (nghĩa bóng) sự thăng trầm\n=the wheels of life+ những thăng trầm của cuộc đời\n=fortune's wheel+ sự thăng trầm của số phận\n- (nghĩa bóng) bộ máy\n=the wheel of government+ bộ máy chính quyền\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) xe đạp\n!big wheels\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) bọn tai to mặt lớn, bọn quyền cao chức trọng\n!to go on wheels\n- chạy, trôi chy, tiến hành thuận lợi\n!wheels within wheels\n- máy móc phức tạp\n- (nghĩa bóng) tình hình rắc rối phức tạp\n- (nghĩa bóng) mưu đồ đen tối\n*  ngoại động từ\n- lăn, đẩy cho lăn\n=to wheel a barrow+ đẩy (cho lăn) một xe cút kít\n- dắt (xe đạp)\n- làm quay tròn, xoay\n=to wheel one's chair+ xoay cái ghế\n- chở trên một xe lăn\n=to wheel something in a barrow+ chở vật gì bằng xe cút kít\n- xử tội xe hình; đánh nhừ tử\n- (quân sự) cho (hàng quân) quay\n*  nội động từ\n- quay, xoay\n- lượn vòng\n=the sea-gulls wheeled over the sea+ những con chim mòng biển lượn vòng trên mặt biển\n- (quân sự) quay\n=right wheel!+ bên phi quay!\n- (từ Mỹ,nghĩa Mỹ) đi xe đạp\n!to wheel round (about)\n- quay lại, xoay trở lại\n@Chuyên ngành kỹ thuật\n-bánh (răng)\n-bánh (xe)\n-bánh đà\n-bánh đai\n-bánh lái\n-bánh mài\n-bánh răng chốt\n-bánh xe\n-bánh xe chữ thập\n-đá mài\n-đĩa mài\n-lăn\n-mâm đúc\n-quay\n-vật hình đĩa\n-vô lăng\n-vòng đệm\n-vòng đệm dẹt
-
+wheel	@wheel /wi:l/
+*  danh từ
+- bánh (xe) ((nghĩa đen) & (nghĩa bóng))
+=front wheel+ bánh trước
+=back wheel+ bánh sau
+=the wheel of history+ bánh xe lịch sử
+- (số nhiều) hệ thống bánh xe (của máy...)
+- xe hình (để buộc tội nhân vào mà đánh)
+=to break on the wheel+ xử xe hình
+- (kỹ thuật) bàn quay (của người làm đồ gốm)
+- bánh lái, tay lái
+=man of the wheel+ người cầm lái, người lái tàu
+- sự quay tròn, sự xoay; (quân sự) sự quay
+=left wheel+ sự quay sang trái
+- (nghĩa bóng) sự thăng trầm
+=the wheels of life+ những thăng trầm của cuộc đời
+=fortune's wheel+ sự thăng trầm của số phận
+- (nghĩa bóng) bộ máy
+=the wheel of government+ bộ máy chính quyền
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) xe đạp
+!big wheels
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bọn tai to mặt lớn, bọn quyền cao chức trọng
+!to go on wheels
+- chạy, trôi chy, tiến hành thuận lợi
+!wheels within wheels
+- máy móc phức tạp
+- (nghĩa bóng) tình hình rắc rối phức tạp
+- (nghĩa bóng) mưu đồ đen tối
+*  ngoại động từ
+- lăn, đẩy cho lăn
+=to wheel a barrow+ đẩy (cho lăn) một xe cút kít
+- dắt (xe đạp)
+- làm quay tròn, xoay
+=to wheel one's chair+ xoay cái ghế
+- chở trên một xe lăn
+=to wheel something in a barrow+ chở vật gì bằng xe cút kít
+- xử tội xe hình; đánh nhừ tử
+- (quân sự) cho (hàng quân) quay
+*  nội động từ
+- quay, xoay
+- lượn vòng
+=the sea-gulls wheeled over the sea+ những con chim mòng biển lượn vòng trên mặt biển
+- (quân sự) quay
+=right wheel!+ bên phi quay!
+- (từ Mỹ,nghĩa Mỹ) đi xe đạp
+!to wheel round (about)
+- quay lại, xoay trở lại
+@Chuyên ngành kỹ thuật
+-bánh (răng)
+-bánh (xe)
+-bánh đà
+-bánh đai
+-bánh lái
+-bánh mài
+-bánh răng chốt
+-bánh xe
+-bánh xe chữ thập
+-đá mài
+-đĩa mài
+-lăn
+-mâm đúc
+-quay
+-vật hình đĩa
+-vô lăng
+-vòng đệm
+-vòng đệm dẹt

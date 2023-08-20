@@ -1,3 +1,15 @@
-optional
-	@optional /'ɔpʃənl/\n*  tính từ\n- tuỳ ý, không bắt buộc\n- để cho chọn\n@Chuyên ngành kinh tế\n-không bắt buộc\n-tùy ý\n@Chuyên ngành kỹ thuật\n-không bắt buộc\n-ngẫu nhiên\n@Lĩnh vực: toán & tin\n-tín hiệu tùy chọn\n-tùy chọn, tùy ý\n@Lĩnh vực: điện lạnh\n-tùy chọn
-
+optional	@optional /'ɔpʃənl/
+*  tính từ
+- tuỳ ý, không bắt buộc
+- để cho chọn
+@Chuyên ngành kinh tế
+-không bắt buộc
+-tùy ý
+@Chuyên ngành kỹ thuật
+-không bắt buộc
+-ngẫu nhiên
+@Lĩnh vực: toán & tin
+-tín hiệu tùy chọn
+-tùy chọn, tùy ý
+@Lĩnh vực: điện lạnh
+-tùy chọn

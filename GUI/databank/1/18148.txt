@@ -1,3 +1,70 @@
-enclosure
-	@enclosure /in'klouʤə/ (inclosure) /in'klouʤə/\n*  danh từ\n- sự rào lại (đất đai...)\n- hàng rào vây quanh\n- đất có rào vây quanh\n- tài liệu gửi kèm (theo thư)\n@Chuyên ngành kinh tế\n-đất có rào vây quanh\n-giấy tờ kèm theo, đính kèm\n-giữ đất\n-hàng rào vây quanh\n-phụ kiện\n-quây rào\n-sự rào lại (đất đai)\n-sự rào lại (đất đai...)\n@Chuyên ngành kỹ thuật\n-bộ tiêu âm\n-hàng rào\n-khoang kín\n-sự bọc\n-tường ngăn\n-tường vây\n-vỏ\n-vỏ bao\n-vỏ bọc\n-vỏ máy\n-vỏ mỏng\n-vỏ ngoài\n@Lĩnh vực: giao thông & vận tải\n-đính kèm\n@Lĩnh vực: xây dựng\n-nơi khép kín\n-vỏ bao che\n@Lĩnh vực: điện lạnh\n-sự đóng vỏ\n-vách cách âm\n@Lĩnh vực: cơ khí & công trình\n-sự rào lại\n@Lĩnh vực: hóa học & vật liệu\n-vây bọc\n@Lĩnh vực: điện\n-vỏ hộp máy\n@Chuyên ngành kỹ thuật\n-bộ tiêu âm\n-hàng rào\n-khoang kín\n-sự bọc\n-tường ngăn\n-tường vây\n-vỏ\n-vỏ bao\n-vỏ bọc\n-vỏ máy\n-vỏ mỏng\n-vỏ ngoài\n@Lĩnh vực: giao thông & vận tải\n-đính kèm\n@Lĩnh vực: xây dựng\n-nơi khép kín\n-vỏ bao che\n@Lĩnh vực: điện lạnh\n-sự đóng vỏ\n-vách cách âm\n@Lĩnh vực: cơ khí & công trình\n-sự rào lại\n@Lĩnh vực: hóa học & vật liệu\n-vây bọc\n@Lĩnh vực: điện\n-vỏ hộp máy
-
+enclosure	
+@enclosure /in'klouʤə/ (inclosure) /in'klouʤə/
+*  danh từ
+- sự rào lại (đất đai...)
+- hàng rào vây quanh
+- đất có rào vây quanh
+- tài liệu gửi kèm (theo thư)
+@Chuyên ngành kinh tế
+-đất có rào vây quanh
+-giấy tờ kèm theo, đính kèm
+-giữ đất
+-hàng rào vây quanh
+-phụ kiện
+-quây rào
+-sự rào lại (đất đai)
+-sự rào lại (đất đai...)
+@Chuyên ngành kỹ thuật
+-bộ tiêu âm
+-hàng rào
+-khoang kín
+-sự bọc
+-tường ngăn
+-tường vây
+-vỏ
+-vỏ bao
+-vỏ bọc
+-vỏ máy
+-vỏ mỏng
+-vỏ ngoài
+@Lĩnh vực: giao thông & vận tải
+-đính kèm
+@Lĩnh vực: xây dựng
+-nơi khép kín
+-vỏ bao che
+@Lĩnh vực: điện lạnh
+-sự đóng vỏ
+-vách cách âm
+@Lĩnh vực: cơ khí & công trình
+-sự rào lại
+@Lĩnh vực: hóa học & vật liệu
+-vây bọc
+@Lĩnh vực: điện
+-vỏ hộp máy
+@Chuyên ngành kỹ thuật
+-bộ tiêu âm
+-hàng rào
+-khoang kín
+-sự bọc
+-tường ngăn
+-tường vây
+-vỏ
+-vỏ bao
+-vỏ bọc
+-vỏ máy
+-vỏ mỏng
+-vỏ ngoài
+@Lĩnh vực: giao thông & vận tải
+-đính kèm
+@Lĩnh vực: xây dựng
+-nơi khép kín
+-vỏ bao che
+@Lĩnh vực: điện lạnh
+-sự đóng vỏ
+-vách cách âm
+@Lĩnh vực: cơ khí & công trình
+-sự rào lại
+@Lĩnh vực: hóa học & vật liệu
+-vây bọc
+@Lĩnh vực: điện
+-vỏ hộp máy

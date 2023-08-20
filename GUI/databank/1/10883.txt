@@ -1,3 +1,23 @@
-concession
-	@concession /kən'seʃn/\n*  danh từ\n- sự nhượng, sự nhượng bộ; sự nhường (đất đai...)\n=to make concessions+ nhượng bộ, nhân nhượng\n- đất nhượng (đất đai, đồn điền, mỏ do chính quyền thực dân chiếm đoạt của nhân dân để cấp cho bè lũ)\n- (ngoại giao) nhượng địa, tô giới\n@Chuyên ngành kinh tế\n-đặc nhượng\n-đất nhượng\n-giảm bớt\n-nhượng địa\n-nhượng độc quyền\n-quyền đặc hứa (đầu tư nước ngoài)\n-quyền đặc nhượng\n-sự giảm nhượng thuế quan\n-sự nhượng quyền\n-tô giới\n-tô nhượng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự nhượng đất đai\n-sự nhượng nhà cửa
-
+concession	
+@concession /kən'seʃn/
+*  danh từ
+- sự nhượng, sự nhượng bộ; sự nhường (đất đai...)=to make concessions
++ nhượng bộ, nhân nhượng
+- đất nhượng (đất đai, đồn điền, mỏ do chính quyền thực dân chiếm đoạt của nhân dân để cấp cho bè lũ)
+- (ngoại giao) nhượng địa, tô giới
+@Chuyên ngành kinh tế
+-đặc nhượng
+-đất nhượng
+-giảm bớt
+-nhượng địa
+-nhượng độc quyền
+-quyền đặc hứa (đầu tư nước ngoài)
+-quyền đặc nhượng
+-sự giảm nhượng thuế quan
+-sự nhượng quyền
+-tô giới
+-tô nhượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự nhượng đất đai
+-sự nhượng nhà cửa

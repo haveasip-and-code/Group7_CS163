@@ -1,3 +1,4 @@
-sheared
-	@Chuyên ngành kỹ thuật\n-bị cắt\n-độ nghiêng của lưỡi cắt (cắt, gọt)\n-lưỡi cắt nghiêng
-
+sheared	@Chuyên ngành kỹ thuật
+-bị cắt
+-độ nghiêng của lưỡi cắt (cắt, gọt)
+-lưỡi cắt nghiêng

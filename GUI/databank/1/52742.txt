@@ -1,3 +1,59 @@
-spur
-	@spur /spə:/\n*  danh từ\n- đinh thúc ngựa\n- cựa (gà)\n- cựa sắt (móc và cựa gà khi chọi)\n- (thực vật học) cựa (ở cánh hoa...)\n- mũi núi\n- tường cựa gà (chạy ngang bức thành)\n- sự kích thích, sự khuyến khích, sự khích lệ\n=on the spur of the moment+ do sự khích lệ của tình thế\n!to need the spur\n- uể oải, cần được lên dây cót\n!to win one's spurs\n- (sử học) được tặng danh hiệu hiệp sĩ\n- (từ lóng) nổi tiếng\n*  ngoại động từ\n- thúc (ngựa)\n- lắp đinh (vào giày)\n- lắp cựa sắt (vào cựa gà)\n- khích lệ, khuyến khích\n=to spur someone to do something+ khuyến khích ai làm việc gì\n*  nội động từ\n- thúc ngựa\n- ((thường) + on,  forward) phi nhanh, chạy nhanh; vội vã\n!to spur a willing horse\n- làm phiền một cách không cần thiết\n@Chuyên ngành kỹ thuật\n-bulông\n-cột chống\n-cột tháp\n-đế cột\n-đinh móc\n-đường nhánh\n-hệ chống đỡ\n-kè chắn\n-nhánh\n-nhánh đường sắt\n-nhánh núi đâm ngang\n-sườn\n-thanh chống\n-thanh giằng\n-vết\n@Lĩnh vực: xây dựng\n-bậc sắt\n-bờ chắn\n-mũi núi\n-sự chống sự tựa\n-tấm chống trượt\n-trụ cột, cột móng\n-tường cựa gà\n-vấu tường\n@Lĩnh vực: y học\n-cựa\n@Lĩnh vực: cơ khí & công trình\n-đinh thúc ngựa\n@Lĩnh vực: điện lạnh\n-nhánh rẽ thêm (mở rộng mạch vòng)\n@Lĩnh vực: điện tử & viễn thông\n-ổ nối (ở hệ phân phối cáp)
-
+spur	@spur /spə:/
+*  danh từ
+- đinh thúc ngựa
+- cựa (gà)
+- cựa sắt (móc và cựa gà khi chọi)
+- (thực vật học) cựa (ở cánh hoa...)
+- mũi núi
+- tường cựa gà (chạy ngang bức thành)
+- sự kích thích, sự khuyến khích, sự khích lệ
+=on the spur of the moment+ do sự khích lệ của tình thế
+!to need the spur
+- uể oải, cần được lên dây cót
+!to win one's spurs
+- (sử học) được tặng danh hiệu hiệp sĩ
+- (từ lóng) nổi tiếng
+*  ngoại động từ
+- thúc (ngựa)
+- lắp đinh (vào giày)
+- lắp cựa sắt (vào cựa gà)
+- khích lệ, khuyến khích
+=to spur someone to do something+ khuyến khích ai làm việc gì
+*  nội động từ
+- thúc ngựa
+- ((thường) + on,  forward) phi nhanh, chạy nhanh; vội vã
+!to spur a willing horse
+- làm phiền một cách không cần thiết
+@Chuyên ngành kỹ thuật
+-bulông
+-cột chống
+-cột tháp
+-đế cột
+-đinh móc
+-đường nhánh
+-hệ chống đỡ
+-kè chắn
+-nhánh
+-nhánh đường sắt
+-nhánh núi đâm ngang
+-sườn
+-thanh chống
+-thanh giằng
+-vết
+@Lĩnh vực: xây dựng
+-bậc sắt
+-bờ chắn
+-mũi núi
+-sự chống sự tựa
+-tấm chống trượt
+-trụ cột, cột móng
+-tường cựa gà
+-vấu tường
+@Lĩnh vực: y học
+-cựa
+@Lĩnh vực: cơ khí & công trình
+-đinh thúc ngựa
+@Lĩnh vực: điện lạnh
+-nhánh rẽ thêm (mở rộng mạch vòng)
+@Lĩnh vực: điện tử & viễn thông
+-ổ nối (ở hệ phân phối cáp)

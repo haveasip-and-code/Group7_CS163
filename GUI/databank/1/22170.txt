@@ -1,3 +1,6 @@
-fractals
-	@Chuyên ngành kỹ thuật\n-phân hình\n@Lĩnh vực: điện lạnh\n-chiết hình\n-fractan
-
+fractals	
+@Chuyên ngành kỹ thuật
+-phân hình
+@Lĩnh vực: điện lạnh
+-chiết hình
+-fractan

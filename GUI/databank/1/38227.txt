@@ -1,3 +1,6 @@
-orthicon
-	@Chuyên ngành kỹ thuật\n-octicon\n@Lĩnh vực: điện\n-đèn orthicon\n@Lĩnh vực: hóa học & vật liệu\n-octicon (ống ghi hình)
-
+orthicon	@Chuyên ngành kỹ thuật
+-octicon
+@Lĩnh vực: điện
+-đèn orthicon
+@Lĩnh vực: hóa học & vật liệu
+-octicon (ống ghi hình)

@@ -1,3 +1,4 @@
-greedily
-	@greedily\n* phó từ\n- tham lam, thèm khát
-
+greedily	
+@greedily
+* phó từ
+- tham lam, thèm khát

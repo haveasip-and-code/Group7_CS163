@@ -1,3 +1,41 @@
-creep
-	@creep /kri:p/\n*  danh từ\n- (số nhiều) sự ghê rợn, sự rùng mình, sự sởn gáy, sự khiếp đảm, sự hãi hùng\n=to give somebody the creeps+ làm ai sởn gáy lên\n- sự bó, sự trườn\n- lỗ hốc (trong hàng rào...)\n- (địa lý,địa chất) sự lở (đá...)\n- (vật lý) sự dão\n=thermal creep+ sự dão vì nhiệt\n*  nội động từ crept\n- bò, trườn\n- đi rón rén, lén, lẻn ((nghĩa đen) & (nghĩa bóng))\n=to creep into the room+ lẻn vào phòng\n=old age creeps upon one unawares+ tuổi già đén với người ta lúc nào không biết\n- bò; leo (cây leo)\n- có cảm giác râm ran như kiến bò, rùng mình sởn gai ốc\n=to make someone's flesh creep+ làm cho ai sởn gai ốc\n- (nghĩa bóng) luồn cúi, luồn lọt\n=to creep into someone's favour+ luồn lọt để chiếm được lòng tin yêu của ai\n@Chuyên ngành kỹ thuật\n-biến dạng từ biến\n-bò\n-độ rão\n-rão\n-sự chảy nguội\n-sự trượt\n-sự trượt đất\n@Lĩnh vực: điện\n-chuyển động sên\n-hiện tượng tự quay\n@Lĩnh vực: xây dựng\n-hiện tượng ray bò\n-sự rão\n-tính rão\n@Lĩnh vực: ô tô\n-sự trườn\n@Lĩnh vực: cơ khí & công trình\n-trườn\n@Lĩnh vực: giao thông & vận tải\n-xô ray
-
+creep	
+@creep /kri:p/
+*  danh từ
+- (số nhiều) sự ghê rợn, sự rùng mình, sự sởn gáy, sự khiếp đảm, sự hãi hùng=to give somebody the creeps
++ làm ai sởn gáy lên
+- sự bó, sự trườn
+- lỗ hốc (trong hàng rào...)
+- (địa lý,địa chất) sự lở (đá...)
+- (vật lý) sự dão=thermal creep
++ sự dão vì nhiệt
+*  nội động từ crept
+- bò, trườn
+- đi rón rén, lén, lẻn ((nghĩa đen) & (nghĩa bóng))=to creep into the room
++ lẻn vào phòng=old age creeps upon one unawares
++ tuổi già đén với người ta lúc nào không biết
+- bò; leo (cây leo)
+- có cảm giác râm ran như kiến bò, rùng mình sởn gai ốc=to make someone's flesh creep
++ làm cho ai sởn gai ốc
+- (nghĩa bóng) luồn cúi, luồn lọt=to creep into someone's favour
++ luồn lọt để chiếm được lòng tin yêu của ai
+@Chuyên ngành kỹ thuật
+-biến dạng từ biến
+-bò
+-độ rão
+-rão
+-sự chảy nguội
+-sự trượt
+-sự trượt đất
+@Lĩnh vực: điện
+-chuyển động sên
+-hiện tượng tự quay
+@Lĩnh vực: xây dựng
+-hiện tượng ray bò
+-sự rão
+-tính rão
+@Lĩnh vực: ô tô
+-sự trườn
+@Lĩnh vực: cơ khí & công trình
+-trườn
+@Lĩnh vực: giao thông & vận tải
+-xô ray

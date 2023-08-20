@@ -1,3 +1,14 @@
-skinner
-	@skinner /'skinə/\n*  danh từ\n- người lột da thú\n- người buôn bán da thú, người buôn bán áo bằng da lông\n- (từ lóng) kẻ lừa đảo\n@Chuyên ngành kinh tế\n-dao cạo da\n-máy đánh vảy cá\n-máy lột bì\n-máy lột da\n-sự lột da\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-dụng cụ gỡ vỏ bọc (cách điện)
-
+skinner	@skinner /'skinə/
+*  danh từ
+- người lột da thú
+- người buôn bán da thú, người buôn bán áo bằng da lông
+- (từ lóng) kẻ lừa đảo
+@Chuyên ngành kinh tế
+-dao cạo da
+-máy đánh vảy cá
+-máy lột bì
+-máy lột da
+-sự lột da
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-dụng cụ gỡ vỏ bọc (cách điện)

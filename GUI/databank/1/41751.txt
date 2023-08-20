@@ -1,3 +1,3 @@
-pithing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hủy não
-
+pithing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hủy não

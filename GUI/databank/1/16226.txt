@@ -1,3 +1,7 @@
-dithering
-	@dithering\n- (Tech) rung động cao tần\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phối màu\n-sự hòa sắc
-
+dithering	
+@dithering
+- (Tech) rung động cao tần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phối màu
+-sự hòa sắc

@@ -1,3 +1,6 @@
-microform
-	@microform\n* danh từ\n- dạng thu nhỏ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-vi dạng
-
+microform	@microform
+* danh từ
+- dạng thu nhỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-vi dạng

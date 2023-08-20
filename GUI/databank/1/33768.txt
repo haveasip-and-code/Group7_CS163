@@ -1,3 +1,8 @@
-marshalling
-	@Chuyên ngành kinh tế\n-sự xếp toa (xe lửa)\n@Chuyên ngành kỹ thuật\n-sự dồn toa\n@Lĩnh vực: xây dựng\n-sự lập tầu\n@Lĩnh vực: điện\n-sự xếp nối
-
+marshalling	@Chuyên ngành kinh tế
+-sự xếp toa (xe lửa)
+@Chuyên ngành kỹ thuật
+-sự dồn toa
+@Lĩnh vực: xây dựng
+-sự lập tầu
+@Lĩnh vực: điện
+-sự xếp nối

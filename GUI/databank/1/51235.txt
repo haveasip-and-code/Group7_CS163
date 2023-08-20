@@ -1,3 +1,2 @@
-sloganize
-	@sloganize\n- Cách viết khác : sloganise
-
+sloganize	@sloganize
+- Cách viết khác : sloganise

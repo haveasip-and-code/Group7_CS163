@@ -1,3 +1,5 @@
-bricking
-	@Chuyên ngành kỹ thuật\n-khối xây gạch\n-sự xây gạch\n@Lĩnh vực: xây dựng\n-thể xây gạch và vữa
-
+bricking	@Chuyên ngành kỹ thuật
+-khối xây gạch
+-sự xây gạch
+@Lĩnh vực: xây dựng
+-thể xây gạch và vữa

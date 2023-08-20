@@ -1,3 +1,3 @@
-cards
-	@Chuyên ngành kỹ thuật\n-thẻ
-
+cards	
+@Chuyên ngành kỹ thuật
+-thẻ

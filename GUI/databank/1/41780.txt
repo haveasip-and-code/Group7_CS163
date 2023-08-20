@@ -1,3 +1,2 @@
-pivotally
-	@pivotally\n- xem pivotal
-
+pivotally	@pivotally
+- xem pivotal

@@ -1,3 +1,9 @@
-ordered
-	@ordered\n* tính từ\n- ngăn nắp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được (ra) lệnh\n-được lệnh\n-được sắp\n-được sắp xếp
-
+ordered	@ordered
+* tính từ
+- ngăn nắp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được (ra) lệnh
+-được lệnh
+-được sắp
+-được sắp xếp

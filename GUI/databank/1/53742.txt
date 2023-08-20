@@ -1,3 +1,2 @@
-stringhalt
-	@stringhalt\n- Cách viết khác : springhalt
-
+stringhalt	@stringhalt
+- Cách viết khác : springhalt

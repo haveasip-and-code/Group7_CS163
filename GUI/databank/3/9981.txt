@@ -1,3 +1,15 @@
-coax
-	@coax /kouks/\n*  động từ\n- dỗ, dỗ ngọt, nói ngọt, vỗ về, tán tỉnh\n=to coax a child to take his medicine+ dỗ đứa trẻ uống thuốc\n=to coax something out of somebody+ dỗ ngọt được của ai cái gì, tán tỉnh được cái gì của ai\n=to coax somebody into doing something+ tán ai làm gì\n=to coax fire to light+ cời lửa cho cháy\n=to coax key into lock+ lựa khoá vào ổ\n@Chuyên ngành kỹ thuật\n-cáp đồng tâm\n-cáp đồng trục\n-đường dây đồng tâm\n-đường dây đồng trục\n-đường truyền đồng tâm\n-đường truyền đồng trục
-
+coax	@coax /kouks/
+*  động từ
+- dỗ, dỗ ngọt, nói ngọt, vỗ về, tán tỉnh
+=to coax a child to take his medicine+ dỗ đứa trẻ uống thuốc
+=to coax something out of somebody+ dỗ ngọt được của ai cái gì, tán tỉnh được cái gì của ai
+=to coax somebody into doing something+ tán ai làm gì
+=to coax fire to light+ cời lửa cho cháy
+=to coax key into lock+ lựa khoá vào ổ
+@Chuyên ngành kỹ thuật
+-cáp đồng tâm
+-cáp đồng trục
+-đường dây đồng tâm
+-đường dây đồng trục
+-đường truyền đồng tâm
+-đường truyền đồng trục

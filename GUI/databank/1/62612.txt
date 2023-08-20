@@ -1,3 +1,11 @@
-weatherproof
-	@weatherproof\n* tính từ\n- có thể chịu được (mưa, gió, tuyết ); có thể ngăn được (mưa, gió, tuyết )\n@Chuyên ngành kỹ thuật\n-chịu được (tác động) khí quyển\n-chịu được thời tiết\n-chịu mưa nắng\n@Lĩnh vực: xây dựng\n-bền khí quyển\n@Lĩnh vực: hóa học & vật liệu\n-chịu thời tiết (mưa, gió...)
-
+weatherproof	@weatherproof
+* tính từ
+- có thể chịu được (mưa, gió, tuyết ); có thể ngăn được (mưa, gió, tuyết )
+@Chuyên ngành kỹ thuật
+-chịu được (tác động) khí quyển
+-chịu được thời tiết
+-chịu mưa nắng
+@Lĩnh vực: xây dựng
+-bền khí quyển
+@Lĩnh vực: hóa học & vật liệu
+-chịu thời tiết (mưa, gió...)

@@ -1,3 +1,45 @@
-agreement
-	@agreement /ə'gri:mənt/\n*  danh từ\n- hiệp định, hiệp nghị\n- hợp đồng, giao kèo\n- sự bằng lòng, sự tán thành, sự đồng ý, sự thoả thuận\n=by mutural agreement+ theo sự thoả thuận chung\n- sự phù hợp, sự hoà hợp\n=to be in agreement with+ bằng lòng, thoả thuận, tán thành, đồng ý; phù hợp với, thống nhất với\n=individualism in not in agreement with the common interests+ chủ nghĩa cá nhân không phù hợp với ích lợi chung\n- (ngôn ngữ học) sự hợp (cách, giống, số...)\n=to come to an agreement+ đi đến sự thoả thuận; đi đến ký kết một hiệp định\n!to enter into an agreement with somebody\n- ký kết một hợp đồng với ai\n!executive agreement\n- (từ Mỹ,nghĩa Mỹ) bản hiệp định ký kết giữa tổng thống (Mỹ) với chính phủ một nước khác không cần thông qua thượng nghị viện\n!to make an agreement with\n- thoả thuận với; ký kết một hợp đồng với\n@Chuyên ngành kinh tế\n-định ước\n-giao kèo (mua bán)\n-hiệp định\n-hiệp ước\n-hợp đồng\n-sự đồng ý\n-sự hợp đồng\n-sự thỏa thuận\n-thỏa thuận\n-thỏa thuận hiệp định\n-thỏa ước\n@Chuyên ngành kỹ thuật\n-định chuẩn\n-định ước\n-giao kèo\n-giao thức\n-hiệp định\n-hợp đồng\n-sự phù hợp\n@Lĩnh vực: xây dựng\n-bản thỏa thuận\n-sự thỏa thuận\n-thỏa thuận\n-thỏa thuận hợp đồng\n@Lĩnh vực: toán & tin\n-hợp đồng (kinh tế)\n-qui ước\n-sự thỏa thuận quy-ước
-
+agreement	
+@agreement /ə'gri:mənt/
+*  danh từ
+- hiệp định, hiệp nghị
+- hợp đồng, giao kèo
+- sự bằng lòng, sự tán thành, sự đồng ý, sự thoả thuận=by mutural agreement
++ theo sự thoả thuận chung
+- sự phù hợp, sự hoà hợp=to be in agreement with
++ bằng lòng, thoả thuận, tán thành, đồng ý; phù hợp với, thống nhất với=individualism in not in agreement with the common interests
++ chủ nghĩa cá nhân không phù hợp với ích lợi chung
+- (ngôn ngữ học) sự hợp (cách, giống, số...)=to come to an agreement
++ đi đến sự thoả thuận; đi đến ký kết một hiệp định!to enter into an agreement with somebody
+- ký kết một hợp đồng với ai!executive agreement
+- (từ Mỹ,nghĩa Mỹ) bản hiệp định ký kết giữa tổng thống (Mỹ) với chính phủ một nước khác không cần thông qua thượng nghị viện!to make an agreement with
+- thoả thuận với; ký kết một hợp đồng với
+@Chuyên ngành kinh tế
+-định ước
+-giao kèo (mua bán)
+-hiệp định
+-hiệp ước
+-hợp đồng
+-sự đồng ý
+-sự hợp đồng
+-sự thỏa thuận
+-thỏa thuận
+-thỏa thuận hiệp định
+-thỏa ước
+@Chuyên ngành kỹ thuật
+-định chuẩn
+-định ước
+-giao kèo
+-giao thức
+-hiệp định
+-hợp đồng
+-sự phù hợp
+@Lĩnh vực: xây dựng
+-bản thỏa thuận
+-sự thỏa thuận
+-thỏa thuận
+-thỏa thuận hợp đồng
+@Lĩnh vực: toán & tin
+-hợp đồng (kinh tế)
+-qui ước
+-sự thỏa thuận quy
+-ước

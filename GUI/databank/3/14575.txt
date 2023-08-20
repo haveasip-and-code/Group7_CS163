@@ -1,3 +1,2 @@
-deployable
-	@deployable\n- xem deploy
-
+deployable	@deployable
+- xem deploy

@@ -1,3 +1,4 @@
-linter
-	@linter\n* danh từ\n- máy để khử ơ bông\n- (số nhiều) xơ bông
-
+linter	@linter
+* danh từ
+- máy để khử ơ bông
+- (số nhiều) xơ bông

@@ -1,3 +1,14 @@
-isolated
-	@isolated /'aisəleitid/\n*  tính từ\n- cô lập\n- (y học) cách ly\n- (điện học) cách\n- (hoá học) tách ra\n@Chuyên ngành kỹ thuật\n-được cách nhiệt\n@Lĩnh vực: toán & tin\n-bị cô lập\n@Lĩnh vực: xây dựng\n-được cách điện\n-được cách ly
-
+isolated	
+@isolated /'aisəleitid/
+*  tính từ
+- cô lập
+- (y học) cách ly
+- (điện học) cách
+- (hoá học) tách ra
+@Chuyên ngành kỹ thuật
+-được cách nhiệt
+@Lĩnh vực: toán & tin
+-bị cô lập
+@Lĩnh vực: xây dựng
+-được cách điện
+-được cách ly

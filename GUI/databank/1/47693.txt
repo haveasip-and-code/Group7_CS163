@@ -1,3 +1,6 @@
-ridging
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự [làm, lợp] nóc\n@Lĩnh vực: cơ khí & công trình\n-sự đắp bờ (ruộng)\n-sự vun thành luống
-
+ridging	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự [làm, lợp] nóc
+@Lĩnh vực: cơ khí & công trình
+-sự đắp bờ (ruộng)
+-sự vun thành luống

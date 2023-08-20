@@ -1,3 +1,11 @@
-cryogenic
-	@cryogenic\n- (Tech) thuộc siêu hàn, cryôgênic\n@Chuyên ngành kỹ thuật\n-làm lạnh\n-làm lạnh cryo\n-làm lạnh sâu\n-lạnh cryo\n-lạnh sâu\n-nhiệt độ thấp\n@Lĩnh vực: điện lạnh\n-cryo
-
+cryogenic	@cryogenic
+- (Tech) thuộc siêu hàn, cryôgênic
+@Chuyên ngành kỹ thuật
+-làm lạnh
+-làm lạnh cryo
+-làm lạnh sâu
+-lạnh cryo
+-lạnh sâu
+-nhiệt độ thấp
+@Lĩnh vực: điện lạnh
+-cryo

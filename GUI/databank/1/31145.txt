@@ -1,3 +1,13 @@
-knurled
-	@knurled /nə:ld/\n*  tính từ\n- có khía, có những cục nổi tròn (ở kim loại)\n@Chuyên ngành kỹ thuật\n-có rãnh\n@Lĩnh vực: xây dựng\n-có lăn hoa\n-có lăn vân\n@Chuyên ngành kỹ thuật\n-có rãnh\n@Lĩnh vực: xây dựng\n-có lăn hoa\n-có lăn vân
-
+knurled	@knurled /nə:ld/
+*  tính từ
+- có khía, có những cục nổi tròn (ở kim loại)
+@Chuyên ngành kỹ thuật
+-có rãnh
+@Lĩnh vực: xây dựng
+-có lăn hoa
+-có lăn vân
+@Chuyên ngành kỹ thuật
+-có rãnh
+@Lĩnh vực: xây dựng
+-có lăn hoa
+-có lăn vân

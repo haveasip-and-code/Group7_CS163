@@ -1,3 +1,8 @@
-safelight
-	@safelight\n* danh từ\n- nguồn sáng an toàn/ không có tác dụng quang hoá (dùng trong phòng làm ảnh)\n@Chuyên ngành kỹ thuật\n-đèn an toàn\n-nguồn sáng an toàn\n@Lĩnh vực: điện tử & viễn thông\n-đèn rửa ảnh
-
+safelight	@safelight
+* danh từ
+- nguồn sáng an toàn/ không có tác dụng quang hoá (dùng trong phòng làm ảnh)
+@Chuyên ngành kỹ thuật
+-đèn an toàn
+-nguồn sáng an toàn
+@Lĩnh vực: điện tử & viễn thông
+-đèn rửa ảnh

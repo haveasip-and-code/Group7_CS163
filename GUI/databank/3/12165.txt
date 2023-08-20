@@ -1,3 +1,5 @@
-cote
-	@cote /kout/\n*  danh từ\n- cái chuồng (nhốt vật nuôi)\n@Chuyên ngành kỹ thuật\n-độ cao
-
+cote	@cote /kout/
+*  danh từ
+- cái chuồng (nhốt vật nuôi)
+@Chuyên ngành kỹ thuật
+-độ cao

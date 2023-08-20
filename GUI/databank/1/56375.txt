@@ -1,3 +1,2 @@
-thiamin
-	@Chuyên ngành kinh tế\n-tiamin
-
+thiamin	@Chuyên ngành kinh tế
+-tiamin

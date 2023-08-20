@@ -1,3 +1,5 @@
-branding
-	@Chuyên ngành kinh tế\n-chọn nhãn hiệu\n-nhận biết nhãn hiệu\n@Chuyên ngành kỹ thuật\n-nhãn ray
-
+branding	@Chuyên ngành kinh tế
+-chọn nhãn hiệu
+-nhận biết nhãn hiệu
+@Chuyên ngành kỹ thuật
+-nhãn ray

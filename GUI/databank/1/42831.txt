@@ -1,3 +1,31 @@
-potential
-	@potential /pə'tenʃəl/\n*  tính từ\n- tiềm tàng\n- (vật lý) (thuộc) điện thế\n=potential difference+ hiệu số điện thế\n- (ngôn ngữ học) khả năng\n=potential mood+ lối khả năng\n- (từ hiếm,nghĩa hiếm) hùng mạnh\n*  danh từ\n- tiềm lực; khả năng\n- (vật lý) điện thế; thế\n=nuclear potential+ thế hạt nhân\n=radiation potential+ thế bức xạ\n- (ngôn ngữ học) lối khả năng\n@Chuyên ngành kinh tế\n-khả năng phát triển\n-tiềm lực\n-tiềm lực phát triển\n-tiềm năng phát triển\n@Chuyên ngành kỹ thuật\n-điện áp\n-điện thế\n-thế vị\n-tiềm năng\n@Lĩnh vực: y học\n-điện thế, thế\n-tiềm lực, khả năng\n@Lĩnh vực: vật lý\n-hàm thế\n@Lĩnh vực: xây dựng\n-thế điện
-
+potential	@potential /pə'tenʃəl/
+*  tính từ
+- tiềm tàng
+- (vật lý) (thuộc) điện thế
+=potential difference+ hiệu số điện thế
+- (ngôn ngữ học) khả năng
+=potential mood+ lối khả năng
+- (từ hiếm,nghĩa hiếm) hùng mạnh
+*  danh từ
+- tiềm lực; khả năng
+- (vật lý) điện thế; thế
+=nuclear potential+ thế hạt nhân
+=radiation potential+ thế bức xạ
+- (ngôn ngữ học) lối khả năng
+@Chuyên ngành kinh tế
+-khả năng phát triển
+-tiềm lực
+-tiềm lực phát triển
+-tiềm năng phát triển
+@Chuyên ngành kỹ thuật
+-điện áp
+-điện thế
+-thế vị
+-tiềm năng
+@Lĩnh vực: y học
+-điện thế, thế
+-tiềm lực, khả năng
+@Lĩnh vực: vật lý
+-hàm thế
+@Lĩnh vực: xây dựng
+-thế điện

@@ -1,3 +1,23 @@
-inductor
-	@inductor /in'dʌktə/\n*  danh từ\n- người làm lễ nhậm chức (cho một mục sư)\n- (điện học) phần cảm điện\n@Chuyên ngành kỹ thuật\n-bộ điện kháng\n-cảm biến\n-cuộn (dây)\n-cuộn cảm ứng\n-cuộn cản\n-độ tự cảm\n-ống dây\n-phần cảm\n@Lĩnh vực: hóa học & vật liệu\n-chất cảm ứng\n@Lĩnh vực: y học\n-chất gây cảm ứng\n-mô tạo cảm ứng\n@Lĩnh vực: điện tử & viễn thông\n-điện cảm\n@Lĩnh vực: điện\n-phần cảm điện
-
+inductor	
+@inductor /in'dʌktə/
+*  danh từ
+- người làm lễ nhậm chức (cho một mục sư)
+- (điện học) phần cảm điện
+@Chuyên ngành kỹ thuật
+-bộ điện kháng
+-cảm biến
+-cuộn (dây)
+-cuộn cảm ứng
+-cuộn cản
+-độ tự cảm
+-ống dây
+-phần cảm
+@Lĩnh vực: hóa học & vật liệu
+-chất cảm ứng
+@Lĩnh vực: y học
+-chất gây cảm ứng
+-mô tạo cảm ứng
+@Lĩnh vực: điện tử & viễn thông
+-điện cảm
+@Lĩnh vực: điện
+-phần cảm điện

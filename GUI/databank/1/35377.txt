@@ -1,3 +1,6 @@
-molecule
-	@molecule /'mɔlikju:l/\n*  danh từ\n- (hoá học) phân t\n@Chuyên ngành kỹ thuật\n-phân tử\n-phần tử
-
+molecule	@molecule /'mɔlikju:l/
+*  danh từ
+- (hoá học) phân t
+@Chuyên ngành kỹ thuật
+-phân tử
+-phần tử

@@ -1,3 +1,9 @@
-sawing
-	@Chuyên ngành kỹ thuật\n-cưa\n-sự cưa\n-xẻ\n@Lĩnh vực: xây dựng\n-mạch cưa\n-sự xẻ\n@Lĩnh vực: toán & tin\n-sự cưa, sự xẻ
-
+sawing	@Chuyên ngành kỹ thuật
+-cưa
+-sự cưa
+-xẻ
+@Lĩnh vực: xây dựng
+-mạch cưa
+-sự xẻ
+@Lĩnh vực: toán & tin
+-sự cưa, sự xẻ

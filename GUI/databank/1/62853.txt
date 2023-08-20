@@ -1,3 +1,25 @@
-whisk
-	@whisk /wisk/\n*  danh từ\n- sự cử động mau lẹ; cái lướt nhanh, động tác vút nhanh; cái vẫy nhẹ\n=a whisk of the tail+ cái vẫy đuôi nhẹ\n- phất trần, chổi quét bụi; cái xua ruồi\n- cái đánh trứng, cái đánh kem\n*  ngoại động từ\n- vụt, đập vút vút\n=to whisk the air+ đập vút vút vào không khí\n- vẫy (đuôi)\n- đánh (trứng, kem...)\n*  nội động từ\n- lướt nhanh như gió\n!to whisk along\n- lôi nhanh đi\n!to whisk away\n- xua (ruồi)\n- lấy nhanh, đưa (mang) nhanh đi, lấy biến đi (cái gì)\n- gạt thầm, chùi vội (nước mắt)\n- đi vun vút\n!to whisk off\n- đưa (mang) nhanh ra khỏi; lấy biến đi\n@Chuyên ngành kinh tế\n-que đánh kem\n-que đánh trứng
-
+whisk	@whisk /wisk/
+*  danh từ
+- sự cử động mau lẹ; cái lướt nhanh, động tác vút nhanh; cái vẫy nhẹ
+=a whisk of the tail+ cái vẫy đuôi nhẹ
+- phất trần, chổi quét bụi; cái xua ruồi
+- cái đánh trứng, cái đánh kem
+*  ngoại động từ
+- vụt, đập vút vút
+=to whisk the air+ đập vút vút vào không khí
+- vẫy (đuôi)
+- đánh (trứng, kem...)
+*  nội động từ
+- lướt nhanh như gió
+!to whisk along
+- lôi nhanh đi
+!to whisk away
+- xua (ruồi)
+- lấy nhanh, đưa (mang) nhanh đi, lấy biến đi (cái gì)
+- gạt thầm, chùi vội (nước mắt)
+- đi vun vút
+!to whisk off
+- đưa (mang) nhanh ra khỏi; lấy biến đi
+@Chuyên ngành kinh tế
+-que đánh kem
+-que đánh trứng

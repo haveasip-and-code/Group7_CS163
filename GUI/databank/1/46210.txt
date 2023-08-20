@@ -1,3 +1,8 @@
-reductant
-	@reductant\n* danh từ\n- (hoá học) chất khử; chất hoàn nguyên\n@Chuyên ngành kinh tế\n-chất khử\n@Chuyên ngành kỹ thuật\n-chất khử\n-tác nhân khử
-
+reductant	@reductant
+* danh từ
+- (hoá học) chất khử; chất hoàn nguyên
+@Chuyên ngành kinh tế
+-chất khử
+@Chuyên ngành kỹ thuật
+-chất khử
+-tác nhân khử

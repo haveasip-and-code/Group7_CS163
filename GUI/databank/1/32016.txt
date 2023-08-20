@@ -1,3 +1,8 @@
-leveled
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được san bằng\n-san bằng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được san bằng\n-san bằng
-
+leveled	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được san bằng
+-san bằng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được san bằng
+-san bằng

@@ -1,3 +1,22 @@
-temple
-	@temple /'templ/\n*  danh từ\n- đến, điện, miếu, thánh thất, thánh đường\n- (giải phẫu) thái dương\n- cái căng vải (trong khung cửi)\n@Chuyên ngành kỹ thuật\n-đền\n-điện\n-tấm đỡ\n@Lĩnh vực: điện\n-đền đài\n@Lĩnh vực: dệt may\n-dụng cụ duỗi khổ\n-máy văng sấy\n-văng khổ\n@Lĩnh vực: xây dựng\n-miếu\n-thánh đường\n@Lĩnh vực: cơ khí & công trình\n-tấm đệm lò xo\n@Lĩnh vực: y học\n-thái dương
-
+temple	@temple /'templ/
+*  danh từ
+- đến, điện, miếu, thánh thất, thánh đường
+- (giải phẫu) thái dương
+- cái căng vải (trong khung cửi)
+@Chuyên ngành kỹ thuật
+-đền
+-điện
+-tấm đỡ
+@Lĩnh vực: điện
+-đền đài
+@Lĩnh vực: dệt may
+-dụng cụ duỗi khổ
+-máy văng sấy
+-văng khổ
+@Lĩnh vực: xây dựng
+-miếu
+-thánh đường
+@Lĩnh vực: cơ khí & công trình
+-tấm đệm lò xo
+@Lĩnh vực: y học
+-thái dương

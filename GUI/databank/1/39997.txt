@@ -1,3 +1,5 @@
-pathfinding
-	@pathfinding\n- xem pathfinder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tìm đường
-
+pathfinding	@pathfinding
+- xem pathfinder
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tìm đường

@@ -1,3 +1,4 @@
-rules
-	@Chuyên ngành kỹ thuật\n-quy tắc\n@Lĩnh vực: xây dựng\n-nội quy
-
+rules	@Chuyên ngành kỹ thuật
+-quy tắc
+@Lĩnh vực: xây dựng
+-nội quy

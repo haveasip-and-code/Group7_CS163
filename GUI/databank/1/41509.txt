@@ -1,3 +1,15 @@
-piercer
-	@piercer /piəsə/\n*  danh từ\n- (kỹ thuật) cái đột lỗ, mũi đột, mũi khoan, giùi\n@Chuyên ngành kỹ thuật\n-cái đột\n-cái đột lỗ\n-cái giùi\n-máy khoan\n-mũi đột\n-mũi đột rèn\n-mũi khoan\n@Lĩnh vực: xây dựng\n-cái dùi\n@Lĩnh vực: toán & tin\n-máy khoan, cái dùi
-
+piercer	@piercer /piəsə/
+*  danh từ
+- (kỹ thuật) cái đột lỗ, mũi đột, mũi khoan, giùi
+@Chuyên ngành kỹ thuật
+-cái đột
+-cái đột lỗ
+-cái giùi
+-máy khoan
+-mũi đột
+-mũi đột rèn
+-mũi khoan
+@Lĩnh vực: xây dựng
+-cái dùi
+@Lĩnh vực: toán & tin
+-máy khoan, cái dùi

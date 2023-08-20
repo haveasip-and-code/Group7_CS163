@@ -1,3 +1,13 @@
-lactation
-	@lactation\n* danh từ\n- sự sinh sữa, sự chảy sữa\n- sự cho bú\n@Chuyên ngành kinh tế\n-sự cho bú\n-sự sinh sữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự tiết sữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự tiết sữa
-
+lactation	@lactation
+* danh từ
+- sự sinh sữa, sự chảy sữa
+- sự cho bú
+@Chuyên ngành kinh tế
+-sự cho bú
+-sự sinh sữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự tiết sữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự tiết sữa

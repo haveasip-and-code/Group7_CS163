@@ -1,3 +1,2 @@
-crudity
-	@crudity\n- xem crudness
-
+crudity	@crudity
+- xem crudness

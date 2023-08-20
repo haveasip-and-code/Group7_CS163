@@ -1,3 +1,2 @@
-pawnage
-	@pawnage\n- xem pawn
-
+pawnage	@pawnage
+- xem pawn

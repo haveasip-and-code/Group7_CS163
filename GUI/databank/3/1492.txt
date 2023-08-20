@@ -1,3 +1,6 @@
-aligned
-	@aligned\n- (Tech) được đồng chỉnh\n@Chuyên ngành kỹ thuật\n-căn lề\n@Lĩnh vực: toán & tin\n-được sắp hàng
-
+aligned	@aligned
+- (Tech) được đồng chỉnh
+@Chuyên ngành kỹ thuật
+-căn lề
+@Lĩnh vực: toán & tin
+-được sắp hàng

@@ -1,3 +1,20 @@
-lethal
-	@lethal /'li:θəl/\n*  tính từ\n- làm chết người, gây chết người\n=lethal chamber+ phòng giết súc vật bằng hơi\n=a lethal dose of poison+ một liều thuốc độc chết người\n=lethal weapons+ những vũ khí giết người\n@Chuyên ngành kỹ thuật\n-chết\n-chết người\n@Lĩnh vực: y học\n-gây chết\n@Lĩnh vực: xây dựng\n-gây chết người\n@Chuyên ngành kỹ thuật\n-chết\n-chết người\n@Lĩnh vực: y học\n-gây chết\n@Lĩnh vực: xây dựng\n-gây chết người
-
+lethal	@lethal /'li:θəl/
+*  tính từ
+- làm chết người, gây chết người
+=lethal chamber+ phòng giết súc vật bằng hơi
+=a lethal dose of poison+ một liều thuốc độc chết người
+=lethal weapons+ những vũ khí giết người
+@Chuyên ngành kỹ thuật
+-chết
+-chết người
+@Lĩnh vực: y học
+-gây chết
+@Lĩnh vực: xây dựng
+-gây chết người
+@Chuyên ngành kỹ thuật
+-chết
+-chết người
+@Lĩnh vực: y học
+-gây chết
+@Lĩnh vực: xây dựng
+-gây chết người

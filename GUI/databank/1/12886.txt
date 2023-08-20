@@ -1,3 +1,5 @@
-cryostatic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-điều nhiệt cryo\n-ổn cryo
-
+cryostatic	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-điều nhiệt cryo
+-ổn cryo

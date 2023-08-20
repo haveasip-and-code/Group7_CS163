@@ -1,3 +1,9 @@
-throttling
-	@Chuyên ngành kỹ thuật\n-sự cản\n-sự chắn\n-sự điều chỉnh\n-sự tiết lưu\n@Lĩnh vực: đo lường & điều khiển\n-hoạt động điều chỉnh\n@Lĩnh vực: ô tô\n-sự giảm ga
-
+throttling	@Chuyên ngành kỹ thuật
+-sự cản
+-sự chắn
+-sự điều chỉnh
+-sự tiết lưu
+@Lĩnh vực: đo lường & điều khiển
+-hoạt động điều chỉnh
+@Lĩnh vực: ô tô
+-sự giảm ga

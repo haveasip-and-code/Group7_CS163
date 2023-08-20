@@ -1,3 +1,17 @@
-opacity
-	@opacity /ou'pæsiti/\n*  danh từ\n- tính mờ đục\n- (vật lý) tính chắn sáng; độ chắn sáng\n- sự tối nghĩa (của một từ)\n- sự trì độn\n@Chuyên ngành kỹ thuật\n-độ chắn sáng\n-độ mờ đục\n-không trong suốt\n@Lĩnh vực: điện lạnh\n-độ không trong suốt\n-tính mở\n@Lĩnh vực: xây dựng\n-sự mờ đục\n-tính bịt kín\n-tính tiêu âm
-
+opacity	@opacity /ou'pæsiti/
+*  danh từ
+- tính mờ đục
+- (vật lý) tính chắn sáng; độ chắn sáng
+- sự tối nghĩa (của một từ)
+- sự trì độn
+@Chuyên ngành kỹ thuật
+-độ chắn sáng
+-độ mờ đục
+-không trong suốt
+@Lĩnh vực: điện lạnh
+-độ không trong suốt
+-tính mở
+@Lĩnh vực: xây dựng
+-sự mờ đục
+-tính bịt kín
+-tính tiêu âm

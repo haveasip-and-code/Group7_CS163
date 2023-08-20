@@ -1,3 +1,12 @@
-numeral
-	@numeral /'nju:mərəl/\n*  tính từ\n- (thuộc) số\n*  danh từ\n- số, chữ số\n=Arabic numerals+ chữ số A-rập\n=Roman numerals+ chữ số La mã\n- (ngôn ngữ học) số t\n@Chuyên ngành kỹ thuật\n-số\n@Lĩnh vực: toán & tin\n-số, chữ số
-
+numeral	@numeral /'nju:mərəl/
+*  tính từ
+- (thuộc) số
+*  danh từ
+- số, chữ số
+=Arabic numerals+ chữ số A-rập
+=Roman numerals+ chữ số La mã
+- (ngôn ngữ học) số t
+@Chuyên ngành kỹ thuật
+-số
+@Lĩnh vực: toán & tin
+-số, chữ số

@@ -1,3 +1,10 @@
-postscript
-	@postscript /'pousskript/\n*  danh từ,  (viết tắt) P.S.\n- tái bút\n- bài nói chuyện sau bản tin (đài B.B.C.)\n@Chuyên ngành kinh tế\n-phụ bút\n-tái bút\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-PostScript
-
+postscript	@postscript /'pousskript/
+*  danh từ,  (viết tắt) P.S.
+- tái bút
+- bài nói chuyện sau bản tin (đài B.B.C.)
+@Chuyên ngành kinh tế
+-phụ bút
+-tái bút
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-PostScript

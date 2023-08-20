@@ -1,3 +1,6 @@
-idling
-	@Chuyên ngành kỹ thuật\n-sự không hoạt động\n-sự không tải\n@Lĩnh vực: điện\n-sự chạy không
-
+idling	
+@Chuyên ngành kỹ thuật
+-sự không hoạt động
+-sự không tải
+@Lĩnh vực: điện
+-sự chạy không

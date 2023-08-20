@@ -1,3 +1,2 @@
-compassable
-	@compassable\n- xem compass
-
+compassable	@compassable
+- xem compass

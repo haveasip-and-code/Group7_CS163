@@ -1,3 +1,2 @@
-accessorial
-	@accessorial\n- xem accessory
-
+accessorial	@accessorial
+- xem accessory

@@ -1,3 +1,2 @@
-calctufa
-	@Chuyên ngành kỹ thuật\n-tup vôi
-
+calctufa	@Chuyên ngành kỹ thuật
+-tup vôi

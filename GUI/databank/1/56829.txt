@@ -1,3 +1,4 @@
-titrant
-	@Chuyên ngành kinh tế\n-dung dịch chuẩn\n@Chuyên ngành kỹ thuật\n-dung dịch tiêu chuẩn
-
+titrant	@Chuyên ngành kinh tế
+-dung dịch chuẩn
+@Chuyên ngành kỹ thuật
+-dung dịch tiêu chuẩn

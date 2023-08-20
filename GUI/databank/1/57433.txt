@@ -1,3 +1,9 @@
-transliterate
-	@transliterate /trænz'litəreit/\n*  ngoại động từ\n- chuyển chữ\n=to transliterate russian into Roman letters+ chuyển chữ Nga sang chữ cái La-tinh\n@Chuyên ngành kỹ thuật\n-chuyển tự\n@Lĩnh vực: toán & tin\n-chuyển chữ\n-chuyển chữ, dịch chữ
-
+transliterate	@transliterate /trænz'litəreit/
+*  ngoại động từ
+- chuyển chữ
+=to transliterate russian into Roman letters+ chuyển chữ Nga sang chữ cái La-tinh
+@Chuyên ngành kỹ thuật
+-chuyển tự
+@Lĩnh vực: toán & tin
+-chuyển chữ
+-chuyển chữ, dịch chữ

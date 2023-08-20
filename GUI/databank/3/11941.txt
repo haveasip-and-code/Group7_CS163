@@ -1,3 +1,4 @@
-cornering
-	@Chuyên ngành kỹ thuật\n-chỗ lượn\n-chỗ ngoặt\n-sự quay vòng
-
+cornering	@Chuyên ngành kỹ thuật
+-chỗ lượn
+-chỗ ngoặt
+-sự quay vòng

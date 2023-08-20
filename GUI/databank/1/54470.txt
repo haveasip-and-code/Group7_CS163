@@ -1,3 +1,27 @@
-sum
-	@sum /sʌm/\n*  danh từ\n- tổng số; (toán) tổng\n=the sum of two and three is five+ tổng của hai và ba là năm\n- số tiền\n=a round sum+ một số tiền đáng kể\n- nội dung tổng quát\n=the sum and substance of his objections is this+ nội dung tổng quát và thực chất những lời phản đối của anh ta là điều này\n- bài toán số học\n=to be good at sums+ giỏi toán\n!in sum\n- nói tóm lại\n*  ngoại động từ\n- cộng\n- phát biểu ý kiến về tính nết (của ai)\n*  nội động từ\n- cộng lại\n!to sum up\n- tóm tắt, tổng kết (ý kiến...)\n- kết luận (một vụ kiện)\n@Chuyên ngành kinh tế\n-số tiền\n-tổng cộng\n-tổng số\n@Chuyên ngành kỹ thuật\n-cộng\n-lấy tổng
-
+sum	@sum /sʌm/
+*  danh từ
+- tổng số; (toán) tổng
+=the sum of two and three is five+ tổng của hai và ba là năm
+- số tiền
+=a round sum+ một số tiền đáng kể
+- nội dung tổng quát
+=the sum and substance of his objections is this+ nội dung tổng quát và thực chất những lời phản đối của anh ta là điều này
+- bài toán số học
+=to be good at sums+ giỏi toán
+!in sum
+- nói tóm lại
+*  ngoại động từ
+- cộng
+- phát biểu ý kiến về tính nết (của ai)
+*  nội động từ
+- cộng lại
+!to sum up
+- tóm tắt, tổng kết (ý kiến...)
+- kết luận (một vụ kiện)
+@Chuyên ngành kinh tế
+-số tiền
+-tổng cộng
+-tổng số
+@Chuyên ngành kỹ thuật
+-cộng
+-lấy tổng

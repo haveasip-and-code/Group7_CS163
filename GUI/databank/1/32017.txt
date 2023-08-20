@@ -1,3 +1,13 @@
-leveler
-	@leveler\n* danh từ\n- người chủ truong san bằng mọi khác biệt xã hội\n@Chuyên ngành kỹ thuật\n-máy nắn thẳng\n-máy san bằng\n-máy san đường\n-máy thủy bình\n@Chuyên ngành kỹ thuật\n-máy nắn thẳng\n-máy san bằng\n-máy san đường\n-máy thủy bình
-
+leveler	@leveler
+* danh từ
+- người chủ truong san bằng mọi khác biệt xã hội
+@Chuyên ngành kỹ thuật
+-máy nắn thẳng
+-máy san bằng
+-máy san đường
+-máy thủy bình
+@Chuyên ngành kỹ thuật
+-máy nắn thẳng
+-máy san bằng
+-máy san đường
+-máy thủy bình

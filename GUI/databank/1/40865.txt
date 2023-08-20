@@ -1,3 +1,8 @@
-perturb
-	@perturb /pə'tə:b/\n*  ngoại động từ\n- làm đảo lộn, xáo trộn\n- làm lộn xộn, làm xao xuyến, làm lo sợ\n@Chuyên ngành kỹ thuật\n-nhiễu\n@Lĩnh vực: toán & tin\n-làm nhiễu loạn
-
+perturb	@perturb /pə'tə:b/
+*  ngoại động từ
+- làm đảo lộn, xáo trộn
+- làm lộn xộn, làm xao xuyến, làm lo sợ
+@Chuyên ngành kỹ thuật
+-nhiễu
+@Lĩnh vực: toán & tin
+-làm nhiễu loạn

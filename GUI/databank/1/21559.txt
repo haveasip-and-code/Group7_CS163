@@ -1,3 +1,4 @@
-flowerless
-	@flowerless /flowerless/\n*  tính từ\n- không có hoa
-
+flowerless	
+@flowerless /flowerless/
+*  tính từ
+- không có hoa

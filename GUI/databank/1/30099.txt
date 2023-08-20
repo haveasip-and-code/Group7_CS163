@@ -1,3 +1,4 @@
-isodose
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đồng liều (lượng)
-
+isodose	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đồng liều (lượng)

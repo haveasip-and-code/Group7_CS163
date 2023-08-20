@@ -1,3 +1,8 @@
-ibidem
-	@ibidem /i'baidem/\n*  phó từ\n- ((viết tắt) ibid,  ib) trong cuốn sách này, trong cùng chương này, trong cùng đoạn này\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cùng chỗ ấy\n-cùng đoạn ấy
-
+ibidem	
+@ibidem /i'baidem/
+*  phó từ
+- ((viết tắt) ibid,  ib) trong cuốn sách này, trong cùng chương này, trong cùng đoạn này
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-cùng chỗ ấy
+-cùng đoạn ấy

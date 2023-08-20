@@ -1,3 +1,17 @@
-bobbin
-	@bobbin /'bɔbin/\n*  danh từ\n- ông chỉ, suốt chỉ\n- then nâng chốt cửa\n- (điện học) cuộn dây, ống dây,  bôbin\n@Chuyên ngành kỹ thuật\n-cuộn cảm\n-dưỡng cuộn dây\n-lõi cuộn dây\n-lõi uốn\n-ống dây\n-ống sợi\n@Lĩnh vực: dệt may\n-búp sợi\n-quả sợi\n@Lĩnh vực: cơ khí & công trình\n-lõi (để cuộn)
-
+bobbin	@bobbin /'bɔbin/
+*  danh từ
+- ông chỉ, suốt chỉ
+- then nâng chốt cửa
+- (điện học) cuộn dây, ống dây,  bôbin
+@Chuyên ngành kỹ thuật
+-cuộn cảm
+-dưỡng cuộn dây
+-lõi cuộn dây
+-lõi uốn
+-ống dây
+-ống sợi
+@Lĩnh vực: dệt may
+-búp sợi
+-quả sợi
+@Lĩnh vực: cơ khí & công trình
+-lõi (để cuộn)

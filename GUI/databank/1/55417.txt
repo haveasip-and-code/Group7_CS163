@@ -1,3 +1,72 @@
-tag
-	@tag /tæ/\n*  danh từ\n- sắt bịt đầu (dây giày...)\n- mép khuy giày ủng\n- thẻ ghi tên và địa chỉ (buộc vào va li...)\n=price tag+ thẻ ghi giá tiền\n- mảnh (vải, giấy, da...) buộc lòng thòng\n- đầu (cái) đuôi (thú vật)\n- túm lông (trên lưng cừu)\n- (sân khấu) lời nói bế mạc\n- (nghĩa bóng) câu nói lặp đi lặp lại; câu nói sáo\n=old tag+ ngạn ngữ, tục ngữ\n- đoạn điệp (của bài hát), câu điệp (của bài thơ); vài hát nhai đi nhai lại\n- trò chơi đuổi bắt (của trẻ em)\n*  ngoại động từ\n- bịt đầu (dây giày...)\n- buộc thẻ ghi địa chỉ vào\n- buộc, khâu, đính\n=to tag together+ buộc vào (khâu vào, đính vào) với nhau\n=to tag something [on] to something+ buộc nối vật này vào vật khác\n- chạm phải, bắt (trong trò chơi đuổi bắt)\n- tìm vần, trau chuốt (bài thơ)\n- thêm lời nói bế mạc (sau buổi diễn)\n*  nội động từ\n- (+ after) theo lẽo đẽo, bám sát gót, theo như hình với bóng\n=he tagged after his mother+ nói cữ lẽo đẽo theo sau mẹ nó\n@Chuyên ngành kinh tế\n-dán nhãn\n-gắn nhãn (vào hàng...)\n-khẩu hiệu (quảng cáo)\n-lời kết thúc quảng cáo\n-nhãn (giá...)\n-nhãn hiệu\n-tấm thẻ\n@Chuyên ngành kỹ thuật\n-bùn xỉ\n-cán\n-cặn\n-chuôi\n-cờ\n-dán nhãn\n-danh hiệu\n-đầu cáp\n-ghi nhãn\n-làm nhãn\n-nhãn\n-nhận dạng\n-nhãn hàng\n-mảnh\n-miếng\n-phù hiệu\n-thẻ\n-xỉ\n@Lĩnh vực: toán & tin\n-báo hiệu bằng cờ\n-báo hiệu bằng nhãn\n-dán hiệu\n-gắn thẻ\n-ký tự nhận dạng\n-tạo nhãn\n-thẻ ghi nhãn\n@Lĩnh vực: xây dựng\n-bít đầu dây\n-dấu (hiệu)\n-ê te két\n@Lĩnh vực: cơ khí & công trình\n-chỗ kẹp (trên vật rèn)\n-đầu bịt kim loại\n-nhãn hiệu (máy)\n@Lĩnh vực: dệt may\n-vòng kéo\n-vòng khuyết
-
+tag	@tag /tæ/
+*  danh từ
+- sắt bịt đầu (dây giày...)
+- mép khuy giày ủng
+- thẻ ghi tên và địa chỉ (buộc vào va li...)
+=price tag+ thẻ ghi giá tiền
+- mảnh (vải, giấy, da...) buộc lòng thòng
+- đầu (cái) đuôi (thú vật)
+- túm lông (trên lưng cừu)
+- (sân khấu) lời nói bế mạc
+- (nghĩa bóng) câu nói lặp đi lặp lại; câu nói sáo
+=old tag+ ngạn ngữ, tục ngữ
+- đoạn điệp (của bài hát), câu điệp (của bài thơ); vài hát nhai đi nhai lại
+- trò chơi đuổi bắt (của trẻ em)
+*  ngoại động từ
+- bịt đầu (dây giày...)
+- buộc thẻ ghi địa chỉ vào
+- buộc, khâu, đính
+=to tag together+ buộc vào (khâu vào, đính vào) với nhau
+=to tag something [on] to something+ buộc nối vật này vào vật khác
+- chạm phải, bắt (trong trò chơi đuổi bắt)
+- tìm vần, trau chuốt (bài thơ)
+- thêm lời nói bế mạc (sau buổi diễn)
+*  nội động từ
+- (+ after) theo lẽo đẽo, bám sát gót, theo như hình với bóng
+=he tagged after his mother+ nói cữ lẽo đẽo theo sau mẹ nó
+@Chuyên ngành kinh tế
+-dán nhãn
+-gắn nhãn (vào hàng...)
+-khẩu hiệu (quảng cáo)
+-lời kết thúc quảng cáo
+-nhãn (giá...)
+-nhãn hiệu
+-tấm thẻ
+@Chuyên ngành kỹ thuật
+-bùn xỉ
+-cán
+-cặn
+-chuôi
+-cờ
+-dán nhãn
+-danh hiệu
+-đầu cáp
+-ghi nhãn
+-làm nhãn
+-nhãn
+-nhận dạng
+-nhãn hàng
+-mảnh
+-miếng
+-phù hiệu
+-thẻ
+-xỉ
+@Lĩnh vực: toán & tin
+-báo hiệu bằng cờ
+-báo hiệu bằng nhãn
+-dán hiệu
+-gắn thẻ
+-ký tự nhận dạng
+-tạo nhãn
+-thẻ ghi nhãn
+@Lĩnh vực: xây dựng
+-bít đầu dây
+-dấu (hiệu)
+-ê te két
+@Lĩnh vực: cơ khí & công trình
+-chỗ kẹp (trên vật rèn)
+-đầu bịt kim loại
+-nhãn hiệu (máy)
+@Lĩnh vực: dệt may
+-vòng kéo
+-vòng khuyết

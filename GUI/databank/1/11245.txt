@@ -1,3 +1,11 @@
-connectivity
-	@connectivity\n- xem connective\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-khả năng ghép nối\n-khả năng liên kết\n-sự ghép nối\n-sự liên kết\n-tính ghép nối\n-tính liên kết
-
+connectivity	
+@connectivity
+- xem connective
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-khả năng ghép nối
+-khả năng liên kết
+-sự ghép nối
+-sự liên kết
+-tính ghép nối
+-tính liên kết

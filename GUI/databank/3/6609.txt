@@ -1,3 +1,37 @@
-brand
-	@brand /brænd/\n*  danh từ\n- nhãn (hàng hoá)\n- loại hàng\n- dấu sắt nung (đóng vào vai tội nhân); vết dấu sắt nung\n- vết nhơ, vết nhục\n- khúc củi đang cháy dở\n- (thơ ca) cây đuốc\n- (thơ ca) thanh gươm, thanh kiếm\n- bệnh gỉ (cây)\n!to much a brand from the burning\n- cứu ra khỏi tình trạng bị huỷ diệt\n*  ngoại động từ\n- đóng nhãn (hàng hoá)\n- đóng dấu bằng sắt nung (lên vai tội nhân); đốt bằng sắt nung\n- làm nhục, làm ô danh\n- khắc sâu (vào trí nhớ)\n- gọi (ai) là, quy (ai) là\n=he was branded as a war criminal+ hắn bị quy là tội phạm chiến tranh\n@Chuyên ngành kinh tế\n-hiệu hàng\n-nhãn\n-nhãn hàng\n-nhãn hiệu\n-nhãn hiệu hàng hóa\n-tên hiệu\n@Chuyên ngành kỹ thuật\n-loại\n-nhãn\n-nhãn hiệu\n-mác\n@Lĩnh vực: cơ khí & công trình\n-hiệu\n-khắc dấu\n@Lĩnh vực: xây dựng\n-in dấu sét nung\n-sắt nung
-
+brand	@brand /brænd/
+*  danh từ
+- nhãn (hàng hoá)
+- loại hàng
+- dấu sắt nung (đóng vào vai tội nhân); vết dấu sắt nung
+- vết nhơ, vết nhục
+- khúc củi đang cháy dở
+- (thơ ca) cây đuốc
+- (thơ ca) thanh gươm, thanh kiếm
+- bệnh gỉ (cây)
+!to much a brand from the burning
+- cứu ra khỏi tình trạng bị huỷ diệt
+*  ngoại động từ
+- đóng nhãn (hàng hoá)
+- đóng dấu bằng sắt nung (lên vai tội nhân); đốt bằng sắt nung
+- làm nhục, làm ô danh
+- khắc sâu (vào trí nhớ)
+- gọi (ai) là, quy (ai) là
+=he was branded as a war criminal+ hắn bị quy là tội phạm chiến tranh
+@Chuyên ngành kinh tế
+-hiệu hàng
+-nhãn
+-nhãn hàng
+-nhãn hiệu
+-nhãn hiệu hàng hóa
+-tên hiệu
+@Chuyên ngành kỹ thuật
+-loại
+-nhãn
+-nhãn hiệu
+-mác
+@Lĩnh vực: cơ khí & công trình
+-hiệu
+-khắc dấu
+@Lĩnh vực: xây dựng
+-in dấu sét nung
+-sắt nung

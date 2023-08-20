@@ -1,3 +1,8 @@
-tilde
-	@tilde /tild/\n*  danh từ\n- dấu sóng (dùng thay từ lặp lại trong từ điển)\n- dẫu ngã, dấu mềm (trên chữ n ở tiếng Tây ban nha)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dấu ngã\n-dấu sóng
-
+tilde	@tilde /tild/
+*  danh từ
+- dấu sóng (dùng thay từ lặp lại trong từ điển)
+- dẫu ngã, dấu mềm (trên chữ n ở tiếng Tây ban nha)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dấu ngã
+-dấu sóng

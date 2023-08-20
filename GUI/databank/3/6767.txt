@@ -1,3 +1,2 @@
-briefer
-	@briefer\n- xem brief
-
+briefer	@briefer
+- xem brief

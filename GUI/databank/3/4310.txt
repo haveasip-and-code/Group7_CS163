@@ -1,3 +1,2 @@
-azurite
-	@Chuyên ngành kỹ thuật\n-quặng lam đồng
-
+azurite	@Chuyên ngành kỹ thuật
+-quặng lam đồng

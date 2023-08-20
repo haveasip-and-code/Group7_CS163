@@ -1,3 +1,5 @@
-vaporized
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-đã bay hơi\n@Lĩnh vực: hóa học & vật liệu\n-hóa hơi
-
+vaporized	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-đã bay hơi
+@Lĩnh vực: hóa học & vật liệu
+-hóa hơi

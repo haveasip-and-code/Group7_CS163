@@ -1,3 +1,2 @@
-turbo
-	@turbo\n- có tính nhanh, có tính tốc độ
-
+turbo	@turbo
+- có tính nhanh, có tính tốc độ

@@ -1,3 +1,7 @@
-firedog
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cột chống chịu lửa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cột chống chịu lửa
-
+firedog	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cột chống chịu lửa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cột chống chịu lửa

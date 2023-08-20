@@ -1,3 +1,8 @@
-sustainer
-	@sustainer\n* danh từ\n- nạng chống; thanh chống\n- điểm tựa; ổ tựa\n- người duy trì; giúp đỡ; nâng đỡ\n@Chuyên ngành kỹ thuật\n-điểm tựa\n-ổ tựa
-
+sustainer	@sustainer
+* danh từ
+- nạng chống; thanh chống
+- điểm tựa; ổ tựa
+- người duy trì; giúp đỡ; nâng đỡ
+@Chuyên ngành kỹ thuật
+-điểm tựa
+-ổ tựa

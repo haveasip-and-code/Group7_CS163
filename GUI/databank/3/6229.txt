@@ -1,3 +1,2 @@
-bonbon
-	@Chuyên ngành kinh tế\n-kẹo
-
+bonbon	@Chuyên ngành kinh tế
+-kẹo

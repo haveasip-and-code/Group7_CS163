@@ -1,3 +1,20 @@
-sprig
-	@sprig /sprig/\n*  danh từ\n- cành con; chồi\n- cành thoa\n- đinh nhỏ không đầu\n- nẹp ba góc (để lồng kính)\n- (thông tục) cậu ấm, anh chàng chưa ráo máu đầu\n*  ngoại động từ\n- tỉa cành con (ở cây)\n- trang trí bằng cành cây nhỏ\n- thêu cành lá (trên vải, lụa...)\n- đóng bằng đinh không đầu\n@Chuyên ngành kỹ thuật\n-chốt chẻ\n-đinh ghim\n-đinh không mũ\n-đóng chốt\n-vít cấy\n@Lĩnh vực: cơ khí & công trình\n-đinh không đầu
-
+sprig	@sprig /sprig/
+*  danh từ
+- cành con; chồi
+- cành thoa
+- đinh nhỏ không đầu
+- nẹp ba góc (để lồng kính)
+- (thông tục) cậu ấm, anh chàng chưa ráo máu đầu
+*  ngoại động từ
+- tỉa cành con (ở cây)
+- trang trí bằng cành cây nhỏ
+- thêu cành lá (trên vải, lụa...)
+- đóng bằng đinh không đầu
+@Chuyên ngành kỹ thuật
+-chốt chẻ
+-đinh ghim
+-đinh không mũ
+-đóng chốt
+-vít cấy
+@Lĩnh vực: cơ khí & công trình
+-đinh không đầu

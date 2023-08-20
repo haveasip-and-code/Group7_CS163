@@ -1,3 +1,6 @@
-mermaid
-	@mermaid /'mə:meid/\n*  danh từ\n- (thần thoại,thần học) cô gái mình người đuôi cá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tiên cá
-
+mermaid	@mermaid /'mə:meid/
+*  danh từ
+- (thần thoại,thần học) cô gái mình người đuôi cá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tiên cá

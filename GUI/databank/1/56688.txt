@@ -1,3 +1,24 @@
-tiling
-	@tiling /'tailiɳ/\n*  danh từ\n- sự lợp ngói\n- ngói\n- mái ngói\n- sự lát đá; sự lát gạch vuông\n@Chuyên ngành kỹ thuật\n-lớp lát\n-mái ngói\n-sàn lát gạch vuông\n-sàn tấm\n-sự lát gạch\n-sự lát gạch vuông\n@Lĩnh vực: xây dựng\n-công tác lát đá\n-công tác lát gạch\n-công tác lợp ngói\n-mái lợp ngói\n-ốp lát\n-sàn lát\n-sự lợp ngói\n@Lĩnh vực: điện lạnh\n-kỹ thuật lát\n-kỹ thuật lợp
-
+tiling	@tiling /'tailiɳ/
+*  danh từ
+- sự lợp ngói
+- ngói
+- mái ngói
+- sự lát đá; sự lát gạch vuông
+@Chuyên ngành kỹ thuật
+-lớp lát
+-mái ngói
+-sàn lát gạch vuông
+-sàn tấm
+-sự lát gạch
+-sự lát gạch vuông
+@Lĩnh vực: xây dựng
+-công tác lát đá
+-công tác lát gạch
+-công tác lợp ngói
+-mái lợp ngói
+-ốp lát
+-sàn lát
+-sự lợp ngói
+@Lĩnh vực: điện lạnh
+-kỹ thuật lát
+-kỹ thuật lợp

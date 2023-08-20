@@ -1,3 +1,2 @@
-minorities
-	@Chuyên ngành kinh tế\n-những cổ đông thiểu số
-
+minorities	@Chuyên ngành kinh tế
+-những cổ đông thiểu số

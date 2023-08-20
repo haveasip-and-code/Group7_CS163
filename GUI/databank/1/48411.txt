@@ -1,3 +1,29 @@
-sagging
-	@sagging\n* danh từ\n- sự lún, sự sụt xuống\n- sagging of the vault\n- sự sụt vòm\n- sự võng xuống\n= sagging of the belt+sự võng xuống của đai truyền\n- sự đi chệch hướng (máy bay)\n- (kinh tế) sự sụt giá\n@Chuyên ngành kỹ thuật\n-độ lún\n-độ võng\n-lớp lót\n-lượng hụt cân\n-sự lún\n-sự sụt\n-sự võng\n-sự võng xuống\n@Lĩnh vực: cơ khí & công trình\n-sự đảo (đai truyền)\n@Lĩnh vực: xây dựng\n-sự làm chùng\n-sự làm võng\n-vết sơn rộp\n@Lĩnh vực: giao thông & vận tải\n-sự tạo độ võng (đóng tàu)\n@Lĩnh vực: hóa học & vật liệu\n-sự tạo màng ngăn\n-sự trũng
-
+sagging	@sagging
+* danh từ
+- sự lún, sự sụt xuống
+- sagging of the vault
+- sự sụt vòm
+- sự võng xuống
+= sagging of the belt+sự võng xuống của đai truyền
+- sự đi chệch hướng (máy bay)
+- (kinh tế) sự sụt giá
+@Chuyên ngành kỹ thuật
+-độ lún
+-độ võng
+-lớp lót
+-lượng hụt cân
+-sự lún
+-sự sụt
+-sự võng
+-sự võng xuống
+@Lĩnh vực: cơ khí & công trình
+-sự đảo (đai truyền)
+@Lĩnh vực: xây dựng
+-sự làm chùng
+-sự làm võng
+-vết sơn rộp
+@Lĩnh vực: giao thông & vận tải
+-sự tạo độ võng (đóng tàu)
+@Lĩnh vực: hóa học & vật liệu
+-sự tạo màng ngăn
+-sự trũng

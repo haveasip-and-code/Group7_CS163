@@ -1,3 +1,11 @@
-pout
-	@pout /paut/\n*  danh từ\n- (động vật học) cá nheo\n- cái bĩu môi (hờn dỗi, khó chịu...)\n!to be in the pouts\n- hờn dỗi, nhăn nhó khó chịu\n*  ngoại động từ\n- bĩu môi\n*  nội động từ\n- bĩu môi, trề môi\n- bĩu ra, trề ra (môi)
-
+pout	@pout /paut/
+*  danh từ
+- (động vật học) cá nheo
+- cái bĩu môi (hờn dỗi, khó chịu...)
+!to be in the pouts
+- hờn dỗi, nhăn nhó khó chịu
+*  ngoại động từ
+- bĩu môi
+*  nội động từ
+- bĩu môi, trề môi
+- bĩu ra, trề ra (môi)

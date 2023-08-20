@@ -1,3 +1,2 @@
-quota
-	@quota\n- phần, lô
-
+quota	@quota
+- phần, lô

@@ -1,3 +1,2 @@
-newsroom
-	@Chuyên ngành kỹ thuật\n-phòng tin tức
-
+newsroom	@Chuyên ngành kỹ thuật
+-phòng tin tức

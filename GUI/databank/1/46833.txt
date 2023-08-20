@@ -1,3 +1,16 @@
-repayment
-	@repayment /ri:'peimənt/\n*  danh từ\n- sự trả lại\n- sự báo đáp, sự đền đáp\n@Chuyên ngành kinh tế\n-hoàn tiền lại\n-sự trả lại\n@Chuyên ngành kỹ thuật\n-sự hoàn lại\n-sự trả lại\n@Lĩnh vực: xây dựng\n-sự bù trừ\n@Lĩnh vực: hóa học & vật liệu\n-sự đền đáp\n@Lĩnh vực: cơ khí & công trình\n-sự trả nợ
-
+repayment	@repayment /ri:'peimənt/
+*  danh từ
+- sự trả lại
+- sự báo đáp, sự đền đáp
+@Chuyên ngành kinh tế
+-hoàn tiền lại
+-sự trả lại
+@Chuyên ngành kỹ thuật
+-sự hoàn lại
+-sự trả lại
+@Lĩnh vực: xây dựng
+-sự bù trừ
+@Lĩnh vực: hóa học & vật liệu
+-sự đền đáp
+@Lĩnh vực: cơ khí & công trình
+-sự trả nợ

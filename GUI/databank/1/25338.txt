@@ -1,3 +1,12 @@
-heft
-	@heft /heft/\n*  danh từ (từ Mỹ,nghĩa Mỹ)\n- trọng lượng, sức nặng\n- sự đẩy, sự nâng lên, sự nhấc lên\n*  ngoại động từ (từ Mỹ,nghĩa Mỹ)\n- (từ Mỹ,nghĩa Mỹ) nhấc lên để ước lượng sức nặng\n@Chuyên ngành kỹ thuật\n-sức nặng\n-trọng lượng\n@Lĩnh vực: hóa học & vật liệu\n-sức nâng lên
-
+heft	
+@heft /heft/
+*  danh từ (từ Mỹ,nghĩa Mỹ)
+- trọng lượng, sức nặng
+- sự đẩy, sự nâng lên, sự nhấc lên
+*  ngoại động từ (từ Mỹ,nghĩa Mỹ)
+- (từ Mỹ,nghĩa Mỹ) nhấc lên để ước lượng sức nặng
+@Chuyên ngành kỹ thuật
+-sức nặng
+-trọng lượng
+@Lĩnh vực: hóa học & vật liệu
+-sức nâng lên

@@ -1,3 +1,29 @@
-deed
-	@deed /di:d/\n*  danh từ\n- việc làm, hành động, hành vi\n=a good deed+ hành động tốt, việc làm tốt\n=to combine words and deed+ kết hợp lời nói với việc làm\n=in words and deed+ bằng lời nói và bằng việc làm\n=in deed and not in name+ bằng những việc làm chứ không bằng lời nói suông\n- kỳ công, chiến công, thành tích lớn\n=heroic deeds+ chiến công anh hùng\n- (pháp lý) văn bản, chứng thư\n=to draw up a deed+ làm chứng thư\n!in very deed\n- (xem) very\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ) chuyển nhượng bằng chứng thư\n@Chuyên ngành kinh tế\n-chứng thư\n-chứng thư khế ước\n-chứng từ khế ước\n-giấy tờ\n-hành động\n-hành vi\n-văn bản\n-văn kiện\n@Chuyên ngành kỹ thuật\n-chứng thư\n-văn bản\n@Lĩnh vực: xây dựng\n-chứng nhượng
-
+deed	
+@deed /di:d/
+*  danh từ
+- việc làm, hành động, hành vi=a good deed
++ hành động tốt, việc làm tốt=to combine words and deed
++ kết hợp lời nói với việc làm=in words and deed
++ bằng lời nói và bằng việc làm=in deed and not in name
++ bằng những việc làm chứ không bằng lời nói suông
+- kỳ công, chiến công, thành tích lớn=heroic deeds
++ chiến công anh hùng
+- (pháp lý) văn bản, chứng thư=to draw up a deed
++ làm chứng thư!in very deed
+- (xem) very
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) chuyển nhượng bằng chứng thư
+@Chuyên ngành kinh tế
+-chứng thư
+-chứng thư khế ước
+-chứng từ khế ước
+-giấy tờ
+-hành động
+-hành vi
+-văn bản
+-văn kiện
+@Chuyên ngành kỹ thuật
+-chứng thư
+-văn bản
+@Lĩnh vực: xây dựng
+-chứng nhượng

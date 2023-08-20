@@ -1,3 +1,18 @@
-monitoring
-	@monitoring\n* danh từ\n- sự định phân\n- sự kiểm tra\n- sự kiểm tra định lượng\n- sự ghi thông báo vô tuyến đị 6 n\n@Chuyên ngành kinh tế\n-giám sát (tiếp thị)\n-sự giám sát (tiếp thị)\n-sự kiểm tra liên tục\n@Chuyên ngành kỹ thuật\n-sự định lượng\n-sự giám kiểm\n-sự giám sát\n-sự kiểm tra\n@Lĩnh vực: y học\n-máy theo dõi tình hình bệnh\n-sự phát hiện nhiễm chất phóng xạ
-
+monitoring	@monitoring
+* danh từ
+- sự định phân
+- sự kiểm tra
+- sự kiểm tra định lượng
+- sự ghi thông báo vô tuyến đị 6 n
+@Chuyên ngành kinh tế
+-giám sát (tiếp thị)
+-sự giám sát (tiếp thị)
+-sự kiểm tra liên tục
+@Chuyên ngành kỹ thuật
+-sự định lượng
+-sự giám kiểm
+-sự giám sát
+-sự kiểm tra
+@Lĩnh vực: y học
+-máy theo dõi tình hình bệnh
+-sự phát hiện nhiễm chất phóng xạ

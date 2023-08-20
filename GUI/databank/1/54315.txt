@@ -1,3 +1,22 @@
-succession
-	@succession /sək'seʃn/\n*  danh từ\n- sự kế tiếp; sự liên tiếp\n=three great victories in succession+ ba thắng lợi to lớn liên tiếp\n- sự nối ngôi, sự kế vị; quyền kế vị\n=to claim the succession+ đòi quyền kế vị\n- sự thừa kế, sự ăn thừa tự\n=right of succession+ quyền thừa kế, quyền ăn thừa tự\n- tràng, dãy, chuỗi\n=a succession of disasters+ một chuỗi tai hoạ\n@Chuyên ngành kinh tế\n-sự thừa kế\n-thừa kế\n@Chuyên ngành kỹ thuật\n-chuỗi\n-dãy\n-sự kế tiếp\n@Lĩnh vực: giao thông & vận tải\n-kế tục\n-thừa kế\n@Lĩnh vực: xây dựng\n-tính liên tục dãy
-
+succession	@succession /sək'seʃn/
+*  danh từ
+- sự kế tiếp; sự liên tiếp
+=three great victories in succession+ ba thắng lợi to lớn liên tiếp
+- sự nối ngôi, sự kế vị; quyền kế vị
+=to claim the succession+ đòi quyền kế vị
+- sự thừa kế, sự ăn thừa tự
+=right of succession+ quyền thừa kế, quyền ăn thừa tự
+- tràng, dãy, chuỗi
+=a succession of disasters+ một chuỗi tai hoạ
+@Chuyên ngành kinh tế
+-sự thừa kế
+-thừa kế
+@Chuyên ngành kỹ thuật
+-chuỗi
+-dãy
+-sự kế tiếp
+@Lĩnh vực: giao thông & vận tải
+-kế tục
+-thừa kế
+@Lĩnh vực: xây dựng
+-tính liên tục dãy

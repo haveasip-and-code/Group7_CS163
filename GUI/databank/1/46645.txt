@@ -1,3 +1,33 @@
-remainder
-	@remainder /ri'meində/\n*  danh từ\n- phần còn lại, chỗ còn lại\n=the remainder of his life+ quâng đời còn lại của ông ta\n- (toán học) dư, số dư\n=division with no remainder+ phép chia không có số dư\n=remainder function+ hàm dư\n- (pháp lý) quyền thừa kế\n- những loại sách ế (đem bán hạ giá)\n@Chuyên ngành kinh tế\n-bán hạ giá\n-bán hạ giá (sách ế, hàng ế...)\n-bán xôn\n-bán xốn\n-hàng ế\n-những người còn lại\n-phần còn lại\n-quyền thừa kế\n-quyền thừa kế (tài sản đất đai còn lại)\n-sách ế\n-số còn lại\n-số còn thiếu\n-số dư\n-số tiền còn dư lại\n-số tiền còn thiếu lại (sau khi đã trả)\n-vật còn lại\n@Chuyên ngành kỹ thuật\n-bã\n-phần còn lại\n-phần dư\n-số dư\n@Lĩnh vực: toán & tin\n-phần dư, số dư
-
+remainder	@remainder /ri'meində/
+*  danh từ
+- phần còn lại, chỗ còn lại
+=the remainder of his life+ quâng đời còn lại của ông ta
+- (toán học) dư, số dư
+=division with no remainder+ phép chia không có số dư
+=remainder function+ hàm dư
+- (pháp lý) quyền thừa kế
+- những loại sách ế (đem bán hạ giá)
+@Chuyên ngành kinh tế
+-bán hạ giá
+-bán hạ giá (sách ế, hàng ế...)
+-bán xôn
+-bán xốn
+-hàng ế
+-những người còn lại
+-phần còn lại
+-quyền thừa kế
+-quyền thừa kế (tài sản đất đai còn lại)
+-sách ế
+-số còn lại
+-số còn thiếu
+-số dư
+-số tiền còn dư lại
+-số tiền còn thiếu lại (sau khi đã trả)
+-vật còn lại
+@Chuyên ngành kỹ thuật
+-bã
+-phần còn lại
+-phần dư
+-số dư
+@Lĩnh vực: toán & tin
+-phần dư, số dư

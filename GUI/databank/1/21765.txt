@@ -1,3 +1,4 @@
-footbath
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khoang tắm đứng
-
+footbath	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khoang tắm đứng

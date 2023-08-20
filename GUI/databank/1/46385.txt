@@ -1,3 +1,6 @@
-refute
-	@refute /ri'fju:t/\n*  ngoại động từ\n- bác, bẻ lại\n=to refute someone's argument+ bác lý lẽ của ai\n@Chuyên ngành kỹ thuật\n-bác bỏ
-
+refute	@refute /ri'fju:t/
+*  ngoại động từ
+- bác, bẻ lại
+=to refute someone's argument+ bác lý lẽ của ai
+@Chuyên ngành kỹ thuật
+-bác bỏ

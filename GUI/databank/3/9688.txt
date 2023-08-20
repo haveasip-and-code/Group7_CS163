@@ -1,3 +1,17 @@
-clay
-	@clay /klei/\n*  danh từ\n- đất sét, sét\n- (nghĩa bóng) cơ thể người\n!to wet (moisten) one's clay\n- uống (nước...) nhấp giọng\n- ống điếu bằng đất sét ((cũng) clay pipe)\n@Chuyên ngành kỹ thuật\n-đá vôi sét\n-đất sét\n-gạch mộc\n-sét\n-vật liệu sét\n@Lĩnh vực: toán & tin\n-trái đất sét\n@Lĩnh vực: xây dựng\n-trát đất sét
-
+clay	@clay /klei/
+*  danh từ
+- đất sét, sét
+- (nghĩa bóng) cơ thể người
+!to wet (moisten) one's clay
+- uống (nước...) nhấp giọng
+- ống điếu bằng đất sét ((cũng) clay pipe)
+@Chuyên ngành kỹ thuật
+-đá vôi sét
+-đất sét
+-gạch mộc
+-sét
+-vật liệu sét
+@Lĩnh vực: toán & tin
+-trái đất sét
+@Lĩnh vực: xây dựng
+-trát đất sét

@@ -1,3 +1,10 @@
-disallow
-	@disallow /'disə'lau/\n*  ngoại động từ\n- không nhận, không công nhận, không thừa nhận, bác; cự tuyệt\n- cấm, không cho phép\n@Chuyên ngành kinh tế\n-bác bỏ\n-cự tuyệt\n-không chấp nhận\n-không công nhận\n-khước từ
-
+disallow	@disallow /'disə'lau/
+*  ngoại động từ
+- không nhận, không công nhận, không thừa nhận, bác; cự tuyệt
+- cấm, không cho phép
+@Chuyên ngành kinh tế
+-bác bỏ
+-cự tuyệt
+-không chấp nhận
+-không công nhận
+-khước từ

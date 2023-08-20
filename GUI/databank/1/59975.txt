@@ -1,3 +1,13 @@
-unlock
-	@unlock /'ʌn'lɔk/\n*  ngoại động từ\n- mở, mở khoá\n=to unlock a door+ mở cửa\n- để lộ, tiết lộ\n=to unlock a secret+ tiết lộ một điều bí mật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bỏ khóa\n@Lĩnh vực: toán & tin\n-không khóa, mở khóa\n@Lĩnh vực: điện tử & viễn thông\n-mở khóa
-
+unlock	@unlock /'ʌn'lɔk/
+*  ngoại động từ
+- mở, mở khoá
+=to unlock a door+ mở cửa
+- để lộ, tiết lộ
+=to unlock a secret+ tiết lộ một điều bí mật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bỏ khóa
+@Lĩnh vực: toán & tin
+-không khóa, mở khóa
+@Lĩnh vực: điện tử & viễn thông
+-mở khóa

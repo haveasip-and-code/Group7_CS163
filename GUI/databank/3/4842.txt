@@ -1,3 +1,33 @@
-basin
-	@basin /'beisn/\n*  danh từ\n- cái chậu\n- chỗ trũng lòng chảo\n- (địa lý,địa chất) lưu vực, bể, bồn\n=river basin+ lưu vực sộng\n=coal basin+ bể than\n- vũng, vịnh nhỏ\n@Chuyên ngành kinh tế\n-cây húng quế\n@Chuyên ngành kỹ thuật\n-bể\n-bể (nước)\n-bể chứa\n-bồn\n-bồn (nước)\n-bồn rửa\n-bồn trũng\n-chậu rửa\n-hồ chứa\n-khay\n-lưu vực\n-lưu vực dòng chảy\n-vịnh nhỏ\n-vũng\n-vũng nhỏ\n-vũng nước\n-vùng trũng hình cầu\n@Lĩnh vực: vật lý\n-bồn chứa\n@Lĩnh vực: giao thông & vận tải\n-vùng nước ở cảng\n-vùng tàu đậu
-
+basin	@basin /'beisn/
+*  danh từ
+- cái chậu
+- chỗ trũng lòng chảo
+- (địa lý,địa chất) lưu vực, bể, bồn
+=river basin+ lưu vực sộng
+=coal basin+ bể than
+- vũng, vịnh nhỏ
+@Chuyên ngành kinh tế
+-cây húng quế
+@Chuyên ngành kỹ thuật
+-bể
+-bể (nước)
+-bể chứa
+-bồn
+-bồn (nước)
+-bồn rửa
+-bồn trũng
+-chậu rửa
+-hồ chứa
+-khay
+-lưu vực
+-lưu vực dòng chảy
+-vịnh nhỏ
+-vũng
+-vũng nhỏ
+-vũng nước
+-vùng trũng hình cầu
+@Lĩnh vực: vật lý
+-bồn chứa
+@Lĩnh vực: giao thông & vận tải
+-vùng nước ở cảng
+-vùng tàu đậu

@@ -1,3 +1,2 @@
-compasses
-	@Chuyên ngành kỹ thuật\n-dụng cụ đo
-
+compasses	@Chuyên ngành kỹ thuật
+-dụng cụ đo

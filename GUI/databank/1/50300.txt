@@ -1,3 +1,40 @@
-shelter
-	@shelter /'ʃeltə/\n*  danh từ\n- chỗ che, chỗ nương tựa, chỗ ẩn, chỗ núp, hầm\n=to give shelter to somebody+ cho ai nương náu, bảo vệ ai\n=Anderson shelter+ hầm An-đe-xon, hầm sắt lưu động\n- lầu, chòi\n- phòng,  cabin (người lái)\n*  động từ\n- che, che chở, bảo vệ\n=to shelter someone from the rain+ che cho ai khỏi mưa\n- ẩn, núp, nấp, trốn\n=to shelter oneself behind a tree+ nấp sau cây\n@Chuyên ngành kỹ thuật\n-bến tàu\n-cabin\n-cầu tàu\n-che\n-che kín\n-chỗ neo tàu\n-lều tạm\n-lều, nhà tạm\n-nơi trú ẩn\n-mái che\n-ổ hang\n-ô văng\n@Lĩnh vực: giao thông & vận tải\n-chắn che\n-che chở\n-chỗ che\n-nha chờ\n-tìm chỗ che chở\n-tìm chỗ trú\n@Lĩnh vực: xây dựng\n-hầm trú\n-lán mái che\n-nhà chờ xe (điện, bus)\n-nhà tầng hầm\n-sự che đậy\n@Lĩnh vực: hóa học & vật liệu\n-nơi ẩn
-
+shelter	@shelter /'ʃeltə/
+*  danh từ
+- chỗ che, chỗ nương tựa, chỗ ẩn, chỗ núp, hầm
+=to give shelter to somebody+ cho ai nương náu, bảo vệ ai
+=Anderson shelter+ hầm An-đe-xon, hầm sắt lưu động
+- lầu, chòi
+- phòng,  cabin (người lái)
+*  động từ
+- che, che chở, bảo vệ
+=to shelter someone from the rain+ che cho ai khỏi mưa
+- ẩn, núp, nấp, trốn
+=to shelter oneself behind a tree+ nấp sau cây
+@Chuyên ngành kỹ thuật
+-bến tàu
+-cabin
+-cầu tàu
+-che
+-che kín
+-chỗ neo tàu
+-lều tạm
+-lều, nhà tạm
+-nơi trú ẩn
+-mái che
+-ổ hang
+-ô văng
+@Lĩnh vực: giao thông & vận tải
+-chắn che
+-che chở
+-chỗ che
+-nha chờ
+-tìm chỗ che chở
+-tìm chỗ trú
+@Lĩnh vực: xây dựng
+-hầm trú
+-lán mái che
+-nhà chờ xe (điện, bus)
+-nhà tầng hầm
+-sự che đậy
+@Lĩnh vực: hóa học & vật liệu
+-nơi ẩn

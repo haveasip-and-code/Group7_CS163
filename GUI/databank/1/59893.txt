@@ -1,3 +1,11 @@
-university
-	@university /,ju:ni'və:siti/\n*  danh từ\n- trường đại học\n- tập thể (của một) trường đại học\n- đội đại học (đội thể thao của một trường đại học)\n@Chuyên ngành kỹ thuật\n-trường đại học\n@Lĩnh vực: điện tử & viễn thông\n-đại học\n@Lĩnh vực: điện\n-viện đại học
-
+university	@university /,ju:ni'və:siti/
+*  danh từ
+- trường đại học
+- tập thể (của một) trường đại học
+- đội đại học (đội thể thao của một trường đại học)
+@Chuyên ngành kỹ thuật
+-trường đại học
+@Lĩnh vực: điện tử & viễn thông
+-đại học
+@Lĩnh vực: điện
+-viện đại học

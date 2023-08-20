@@ -1,3 +1,13 @@
-resin
-	@resin /'rezin/\n*  danh từ\n- nhựa (cây)\n@Chuyên ngành kinh tế\n-chất thơm\n-nhựa\n-phết nhựa\n@Chuyên ngành kỹ thuật\n-keo\n-nhựa\n-nhựa dẻo\n@Lĩnh vực: xây dựng\n-nhựa (cây)
-
+resin	@resin /'rezin/
+*  danh từ
+- nhựa (cây)
+@Chuyên ngành kinh tế
+-chất thơm
+-nhựa
+-phết nhựa
+@Chuyên ngành kỹ thuật
+-keo
+-nhựa
+-nhựa dẻo
+@Lĩnh vực: xây dựng
+-nhựa (cây)

@@ -1,3 +1,2 @@
-details
-	@Chuyên ngành kỹ thuật\n-chi tiết
-
+details	@Chuyên ngành kỹ thuật
+-chi tiết

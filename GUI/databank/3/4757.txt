@@ -1,3 +1,9 @@
-barometry
-	@barometry\n- xem barometer\n@Chuyên ngành kỹ thuật\n-khí áp học\n@Lĩnh vực: điện lạnh\n-đo áp suất khí quyển\n-đo khí áp\n@Lĩnh vực: hóa học & vật liệu\n-phép đo khí áp
-
+barometry	@barometry
+- xem barometer
+@Chuyên ngành kỹ thuật
+-khí áp học
+@Lĩnh vực: điện lạnh
+-đo áp suất khí quyển
+-đo khí áp
+@Lĩnh vực: hóa học & vật liệu
+-phép đo khí áp

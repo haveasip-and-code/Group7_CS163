@@ -1,3 +1,76 @@
-log
-	@log /lɔg/\n*  danh từ\n- khúc gỗ mới đốn, khúc gỗ mới xẻ\n=in the log+ còn chưa xẻ\n- (hàng hải) máy đo tốc độ (tàu)\n- (như) log-book\n- người đần, người ngu, người ngớ ngẩn\n!to fall like a log\n- ngã vật xuống, ngã như trời giáng\n!to keep the log rolling\n- (từ Mỹ,nghĩa Mỹ) làm với một nhịp độ nhanh\n!roll my log anf I'll roll yours\n- hây giúp tôi, tôi sẽ giúp lại anh (trong những mưu toan chính trị, trong việc tâng bốc tác phẩm của nhau giữa các nhà phê bình văn học)\n!to split the log\n- (từ Mỹ,nghĩa Mỹ),  (nghĩa bóng) giải thích cái gì, cắt nghĩa cái gì\n*  ngoại động từ\n- chặt (đốn) thành từng khúc\n- (hàng hải) ghi (số dặm đã đi) vào sổ nhật ký hàng hải; đi được (bao nhiêu dặm)\n- (hàng hải) ghi (tên, lỗi của thuỷ thủ) vào sổ phạt; phạt (ai)\n!to log off\n- nhổ lên, đào gốc (cây)\n@Chuyên ngành kinh tế\n-khối gỗ\n-máy đo vận tốc và đường đi\n-nhật ký đi biển\n-nhật ký hàng hải\n-nhật ký hành trình\n-nhật ký phi hành\n-sổ đăng ký xe (đường bộ)\n-súc gỗ\n@Chuyên ngành kỹ thuật\n-bản thuyết minh\n-biên bản\n-biểu đồ\n-đốn gỗ\n-ghi nhật ký\n-lược sử\n-nhập\n-nhật ký\n-máng dẫn\n-sổ nhật ký\n-tốc độ kế\n@Lĩnh vực: toán & tin\n-bản ghi vết\n-ghi sổ\n-lg (viết tắt)\n-nhật ký (máy)\n-nhật ký máy\n-sổ trực\n@Lĩnh vực: hóa học & vật liệu\n-carota\n@Lĩnh vực: xây dựng\n-súc gỗ\n@Chuyên ngành kỹ thuật\n-bản thuyết minh\n-biên bản\n-biểu đồ\n-đốn gỗ\n-ghi nhật ký\n-lược sử\n-nhập\n-nhật ký\n-máng dẫn\n-sổ nhật ký\n-tốc độ kế\n@Lĩnh vực: toán & tin\n-bản ghi vết\n-ghi sổ\n-lg (viết tắt)\n-nhật ký (máy)\n-nhật ký máy\n-sổ trực\n@Lĩnh vực: hóa học & vật liệu\n-carota\n@Lĩnh vực: xây dựng\n-súc gỗ
-
+log	@log /lɔg/
+*  danh từ
+- khúc gỗ mới đốn, khúc gỗ mới xẻ
+=in the log+ còn chưa xẻ
+- (hàng hải) máy đo tốc độ (tàu)
+- (như) log-book
+- người đần, người ngu, người ngớ ngẩn
+!to fall like a log
+- ngã vật xuống, ngã như trời giáng
+!to keep the log rolling
+- (từ Mỹ,nghĩa Mỹ) làm với một nhịp độ nhanh
+!roll my log anf I'll roll yours
+- hây giúp tôi, tôi sẽ giúp lại anh (trong những mưu toan chính trị, trong việc tâng bốc tác phẩm của nhau giữa các nhà phê bình văn học)
+!to split the log
+- (từ Mỹ,nghĩa Mỹ),  (nghĩa bóng) giải thích cái gì, cắt nghĩa cái gì
+*  ngoại động từ
+- chặt (đốn) thành từng khúc
+- (hàng hải) ghi (số dặm đã đi) vào sổ nhật ký hàng hải; đi được (bao nhiêu dặm)
+- (hàng hải) ghi (tên, lỗi của thuỷ thủ) vào sổ phạt; phạt (ai)
+!to log off
+- nhổ lên, đào gốc (cây)
+@Chuyên ngành kinh tế
+-khối gỗ
+-máy đo vận tốc và đường đi
+-nhật ký đi biển
+-nhật ký hàng hải
+-nhật ký hành trình
+-nhật ký phi hành
+-sổ đăng ký xe (đường bộ)
+-súc gỗ
+@Chuyên ngành kỹ thuật
+-bản thuyết minh
+-biên bản
+-biểu đồ
+-đốn gỗ
+-ghi nhật ký
+-lược sử
+-nhập
+-nhật ký
+-máng dẫn
+-sổ nhật ký
+-tốc độ kế
+@Lĩnh vực: toán & tin
+-bản ghi vết
+-ghi sổ
+-lg (viết tắt)
+-nhật ký (máy)
+-nhật ký máy
+-sổ trực
+@Lĩnh vực: hóa học & vật liệu
+-carota
+@Lĩnh vực: xây dựng
+-súc gỗ
+@Chuyên ngành kỹ thuật
+-bản thuyết minh
+-biên bản
+-biểu đồ
+-đốn gỗ
+-ghi nhật ký
+-lược sử
+-nhập
+-nhật ký
+-máng dẫn
+-sổ nhật ký
+-tốc độ kế
+@Lĩnh vực: toán & tin
+-bản ghi vết
+-ghi sổ
+-lg (viết tắt)
+-nhật ký (máy)
+-nhật ký máy
+-sổ trực
+@Lĩnh vực: hóa học & vật liệu
+-carota
+@Lĩnh vực: xây dựng
+-súc gỗ

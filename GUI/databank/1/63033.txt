@@ -1,3 +1,4 @@
-wineglass
-	@wineglass /'waingl :s/\n*  danh từ\n- cốc uống rượu\n- (y học) cốc (đn vị đong thuốc nước bằng bốn thìa xúp) ((cũng) wineglassful)
-
+wineglass	@wineglass /'waingl :s/
+*  danh từ
+- cốc uống rượu
+- (y học) cốc (đn vị đong thuốc nước bằng bốn thìa xúp) ((cũng) wineglassful)

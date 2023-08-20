@@ -1,3 +1,11 @@
-slicer
-	@slicer\n* danh từ\n- máy thái (cắt) mỏng\n= beet slicer+máy thái củ cải\n@Chuyên ngành kinh tế\n-máy cắt\n-máy thái\n@Chuyên ngành kỹ thuật\n-máy cắt\n@Lĩnh vực: thực phẩm\n-máy thái
-
+slicer	@slicer
+* danh từ
+- máy thái (cắt) mỏng
+= beet slicer+máy thái củ cải
+@Chuyên ngành kinh tế
+-máy cắt
+-máy thái
+@Chuyên ngành kỹ thuật
+-máy cắt
+@Lĩnh vực: thực phẩm
+-máy thái

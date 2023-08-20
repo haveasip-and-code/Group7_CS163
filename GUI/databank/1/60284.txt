@@ -1,3 +1,8 @@
-unregulated
-	@unregulated /' n'regjuleitid/\n*  tính từ\n- không được điều chỉnh\n- không được sắp đặt, không được chỉnh đốn (công việc...)\n- không được điều hoà (số tiền chi tiêu...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-không được điều tiết
-
+unregulated	@unregulated /' n'regjuleitid/
+*  tính từ
+- không được điều chỉnh
+- không được sắp đặt, không được chỉnh đốn (công việc...)
+- không được điều hoà (số tiền chi tiêu...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-không được điều tiết

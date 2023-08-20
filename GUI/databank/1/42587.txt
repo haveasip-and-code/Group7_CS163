@@ -1,3 +1,2 @@
-pontificator
-	@pontificator\n- xem pontificate
-
+pontificator	@pontificator
+- xem pontificate

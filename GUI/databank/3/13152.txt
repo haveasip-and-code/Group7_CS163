@@ -1,3 +1,2 @@
-cursiveness
-	@cursiveness\n- xem cursive
-
+cursiveness	@cursiveness
+- xem cursive

@@ -1,3 +1,15 @@
-youth
-	@youth /ju:θ/\n*  danh từ\n- tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu\n=the days of youth+ thời kỳ niên thiếu\n=from youth upwards+ từ lúc còn trẻ, từ nhỏ\n=the enthusiasm of youth+ nhiệt tình của tuổi trẻ\n- (nghĩa bóng) buổi ban đầu; thời non trẻ\n=the youth of civilization+ buổi ban đầu của nền văn minh\n=the youth of a nation+ thời kỳ non trẻ của một quốc gia\n- thanh niên; tầng lớp thanh niên, lứa tuổi thanh niên\n=a promising youth+ một thanh niên đầy hứa hẹn\n=a bevy of youths+ một đám thanh niên\n=the youth of one country+ lứa tuổi thanh niên của một nước\n=The Communist Youth League+ Đoàn thanh niên cộng sản\n=The Ho Chi Minh Labour Youth Union+ Đoàn thanh niên lao động Hồ Chí Minh
-
+youth	@youth /ju:θ/
+*  danh từ
+- tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
+=the days of youth+ thời kỳ niên thiếu
+=from youth upwards+ từ lúc còn trẻ, từ nhỏ
+=the enthusiasm of youth+ nhiệt tình của tuổi trẻ
+- (nghĩa bóng) buổi ban đầu; thời non trẻ
+=the youth of civilization+ buổi ban đầu của nền văn minh
+=the youth of a nation+ thời kỳ non trẻ của một quốc gia
+- thanh niên; tầng lớp thanh niên, lứa tuổi thanh niên
+=a promising youth+ một thanh niên đầy hứa hẹn
+=a bevy of youths+ một đám thanh niên
+=the youth of one country+ lứa tuổi thanh niên của một nước
+=The Communist Youth League+ Đoàn thanh niên cộng sản
+=The Ho Chi Minh Labour Youth Union+ Đoàn thanh niên lao động Hồ Chí Minh

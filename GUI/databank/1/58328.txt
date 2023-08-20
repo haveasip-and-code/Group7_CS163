@@ -1,3 +1,27 @@
-twin
-	@twin /twin/\n*  tính từ\n- sinh đôi\n=twin brothers+ anh em sinh đôi\n- cặp đôi, ghép đôi\n*  danh từ\n- trẻ sinh đôi\n*  động từ\n- để sinh đôi\n- (+ with) cặp đôi với, ghép đôi với\n- kết hợp chặt chẽ\n=eye and hand are twinned in action+ mắt và tay kết hợp chặt chẽ trong hành động\n@Chuyên ngành kinh tế\n-cặp\n@Chuyên ngành kỹ thuật\n-ghép đôi\n-kép\n-mắc đôi\n-sinh đôi\n-sóng đôi\n-song tinh\n@Lĩnh vực: cơ khí & công trình\n-cách đánh lửa kép\n@Lĩnh vực: hóa học & vật liệu\n-tinh thể đôi\n@Lĩnh vực: điện lạnh\n-tinh thể sinh đôi
-
+twin	@twin /twin/
+*  tính từ
+- sinh đôi
+=twin brothers+ anh em sinh đôi
+- cặp đôi, ghép đôi
+*  danh từ
+- trẻ sinh đôi
+*  động từ
+- để sinh đôi
+- (+ with) cặp đôi với, ghép đôi với
+- kết hợp chặt chẽ
+=eye and hand are twinned in action+ mắt và tay kết hợp chặt chẽ trong hành động
+@Chuyên ngành kinh tế
+-cặp
+@Chuyên ngành kỹ thuật
+-ghép đôi
+-kép
+-mắc đôi
+-sinh đôi
+-sóng đôi
+-song tinh
+@Lĩnh vực: cơ khí & công trình
+-cách đánh lửa kép
+@Lĩnh vực: hóa học & vật liệu
+-tinh thể đôi
+@Lĩnh vực: điện lạnh
+-tinh thể sinh đôi

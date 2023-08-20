@@ -1,3 +1,13 @@
-pedometer
-	@pedometer /pi'dɔmitə/\n*  danh từ\n- cái đo bước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bộ tĩnh kế\n@Lĩnh vực: vật lý\n-dụng cụ đo bước\n-thước đo bước\n@Lĩnh vực: điện lạnh\n-máy đếm bước chân\n@Lĩnh vực: xây dựng\n-máy đo bước
-
+pedometer	@pedometer /pi'dɔmitə/
+*  danh từ
+- cái đo bước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bộ tĩnh kế
+@Lĩnh vực: vật lý
+-dụng cụ đo bước
+-thước đo bước
+@Lĩnh vực: điện lạnh
+-máy đếm bước chân
+@Lĩnh vực: xây dựng
+-máy đo bước

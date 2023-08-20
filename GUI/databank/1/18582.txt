@@ -1,3 +1,5 @@
-entrepot
-	@Chuyên ngành kinh tế\n-bãi gom chuyển hàng hóa\n-kho chất hàng\n-kho hải quan
-
+entrepot	
+@Chuyên ngành kinh tế
+-bãi gom chuyển hàng hóa
+-kho chất hàng
+-kho hải quan

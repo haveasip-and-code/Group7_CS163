@@ -1,3 +1,8 @@
-isobutane
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất Isobutan\n-isobutane ((CH3)CHCH3)\n@Lĩnh vực: điện lạnh\n-isobutan CH(CH3)3\n-isobutane ((CH3)3CHCH3)
-
+isobutane	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất Isobutan
+-isobutane ((CH3)CHCH3)
+@Lĩnh vực: điện lạnh
+-isobutan CH(CH3)3
+-isobutane ((CH3)3CHCH3)

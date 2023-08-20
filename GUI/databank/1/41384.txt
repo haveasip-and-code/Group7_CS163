@@ -1,3 +1,5 @@
-phyllite
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filit\n@Lĩnh vực: xây dựng\n-philit
-
+phyllite	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-filit
+@Lĩnh vực: xây dựng
+-philit

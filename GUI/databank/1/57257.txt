@@ -1,3 +1,4 @@
-tradeable
-	@Chuyên ngành kinh tế\n-buôn bán\n-thuộc về sự buôn bán\n-thương mại
-
+tradeable	@Chuyên ngành kinh tế
+-buôn bán
+-thuộc về sự buôn bán
+-thương mại

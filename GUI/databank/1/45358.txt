@@ -1,3 +1,30 @@
-radical
-	@radical /'rædikəl/\n*  tính từ\n- gốc, căn bản\n=radical change+ sự thay đổi căn bản\n- (chính trị) cấp tiến\n!the Radical Party\n- đảng Cấp tiến\n- (toán học) căn\n=radical function+ hàm căn\n=radical sign+ dấu căn\n- (thực vật học) (thuộc) rễ; mọc ở rễ\n- (ngôn ngữ học) gốc, (thuộc) gốc từ\n*  danh từ\n- (triết học) nguồn gốc căn bản; nguyên lý cơ bản\n- (toán học) căn thức, dấu căn ((cũng) radical sign)\n=radical of an algebra+ căn của một đại số\n- (hoá học) gốc\n- (chính trị) người cấp tiến, đảng viên đảng Cấp tiến\n- (ngôn ngữ học) thán từ\n@Chuyên ngành kỹ thuật\n-dấu căn\n-gốc\n-nguyên tố\n@Lĩnh vực: y học\n-căn (toán)\n-gốc (lý)\n-tận gốc, triệt căn\n@Lĩnh vực: toán & tin\n-căn số\n-đẳng phương
-
+radical	@radical /'rædikəl/
+*  tính từ
+- gốc, căn bản
+=radical change+ sự thay đổi căn bản
+- (chính trị) cấp tiến
+!the Radical Party
+- đảng Cấp tiến
+- (toán học) căn
+=radical function+ hàm căn
+=radical sign+ dấu căn
+- (thực vật học) (thuộc) rễ; mọc ở rễ
+- (ngôn ngữ học) gốc, (thuộc) gốc từ
+*  danh từ
+- (triết học) nguồn gốc căn bản; nguyên lý cơ bản
+- (toán học) căn thức, dấu căn ((cũng) radical sign)
+=radical of an algebra+ căn của một đại số
+- (hoá học) gốc
+- (chính trị) người cấp tiến, đảng viên đảng Cấp tiến
+- (ngôn ngữ học) thán từ
+@Chuyên ngành kỹ thuật
+-dấu căn
+-gốc
+-nguyên tố
+@Lĩnh vực: y học
+-căn (toán)
+-gốc (lý)
+-tận gốc, triệt căn
+@Lĩnh vực: toán & tin
+-căn số
+-đẳng phương

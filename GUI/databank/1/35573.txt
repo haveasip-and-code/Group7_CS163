@@ -1,3 +1,2 @@
-mons
-	@Chuyên ngành kỹ thuật\n-gò
-
+mons	@Chuyên ngành kỹ thuật
+-gò

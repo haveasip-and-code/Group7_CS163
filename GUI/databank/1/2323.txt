@@ -1,3 +1,12 @@
-announce
-	@announce /ə'nauns/\n*  ngoại động từ\n- báo, loan báo, thông tri\n=to announce a piece of news+ loan báo một tin tức\n=to announce a visitor+ báo có khách\n- công bố, tuyên bố\n*  nội động từ\n- đọc bản giới thiêu tin tức, đọc chương trình (ở đài phát thanh)\n- (từ Mỹ,nghĩa Mỹ) tuyên bố ra ứng cử\n@Chuyên ngành kỹ thuật\n-loan báo
-
+announce	
+@announce /ə'nauns/
+*  ngoại động từ
+- báo, loan báo, thông tri=to announce a piece of news
++ loan báo một tin tức=to announce a visitor
++ báo có khách
+- công bố, tuyên bố
+*  nội động từ
+- đọc bản giới thiêu tin tức, đọc chương trình (ở đài phát thanh)
+- (từ Mỹ,nghĩa Mỹ) tuyên bố ra ứng cử
+@Chuyên ngành kỹ thuật
+-loan báo

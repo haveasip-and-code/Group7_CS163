@@ -1,3 +1,28 @@
-attenuate
-	@attenuate /ə'tenjueit/\n*  ngoại động từ\n- làm mỏng đi, làm mảnh đi, làm gầy đi\n- làm yếu đi\n- làm loãng\n- (vật lý) làm tắt dần, làm suy giảm\n*  tính từ\n- mỏng bớt, mảnh bớt\n- gầy còm, mảnh dẻ\n- yếu đi, giảm bớt\n- loãng đi\n@Chuyên ngành kinh tế\n-pha loãng\n@Chuyên ngành kỹ thuật\n-làm giảm\n-làm loãng\n-làm loãng đi\n-làm yếu\n-làm yếu đi\n-sự khuếch tán\n-sự suy giảm\n-sự tắt dần\n-suy giảm\n-yếu dần\n@Lĩnh vực: xây dựng\n-giảm va đập\n@Lĩnh vực: cơ khí & công trình\n-tắt (dao động)
-
+attenuate	@attenuate /ə'tenjueit/
+*  ngoại động từ
+- làm mỏng đi, làm mảnh đi, làm gầy đi
+- làm yếu đi
+- làm loãng
+- (vật lý) làm tắt dần, làm suy giảm
+*  tính từ
+- mỏng bớt, mảnh bớt
+- gầy còm, mảnh dẻ
+- yếu đi, giảm bớt
+- loãng đi
+@Chuyên ngành kinh tế
+-pha loãng
+@Chuyên ngành kỹ thuật
+-làm giảm
+-làm loãng
+-làm loãng đi
+-làm yếu
+-làm yếu đi
+-sự khuếch tán
+-sự suy giảm
+-sự tắt dần
+-suy giảm
+-yếu dần
+@Lĩnh vực: xây dựng
+-giảm va đập
+@Lĩnh vực: cơ khí & công trình
+-tắt (dao động)

@@ -1,3 +1,2 @@
-vulnerableness
-	@vulnerableness\n- xem vulnerable
-
+vulnerableness	@vulnerableness
+- xem vulnerable

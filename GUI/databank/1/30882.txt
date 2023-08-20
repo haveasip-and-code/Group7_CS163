@@ -1,3 +1,13 @@
-keypunch
-	@keypunch\n* danh từ\n- máy bấm lỗ\n* ngoại động từ\n- bấm lỗ bằng máy\n@Chuyên ngành kỹ thuật\n-máy đục bìa\n@Lĩnh vực: toán & tin\n-lỗ bàn phím\n@Chuyên ngành kỹ thuật\n-máy đục bìa\n@Lĩnh vực: toán & tin\n-lỗ bàn phím
-
+keypunch	@keypunch
+* danh từ
+- máy bấm lỗ
+* ngoại động từ
+- bấm lỗ bằng máy
+@Chuyên ngành kỹ thuật
+-máy đục bìa
+@Lĩnh vực: toán & tin
+-lỗ bàn phím
+@Chuyên ngành kỹ thuật
+-máy đục bìa
+@Lĩnh vực: toán & tin
+-lỗ bàn phím

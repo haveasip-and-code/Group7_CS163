@@ -1,3 +1,2 @@
-payday
-	@Chuyên ngành kinh tế\n-hạn thanh toán và giao hàng
-
+payday	@Chuyên ngành kinh tế
+-hạn thanh toán và giao hàng

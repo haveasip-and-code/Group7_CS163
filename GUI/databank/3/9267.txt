@@ -1,3 +1,7 @@
-chrome
-	@chrome /kroum/\n*  danh từ\n- (hoá học) crom\n- thuốc màu vàng\n@Chuyên ngành kỹ thuật\n-crôm\n-mạ crôm
-
+chrome	@chrome /kroum/
+*  danh từ
+- (hoá học) crom
+- thuốc màu vàng
+@Chuyên ngành kỹ thuật
+-crôm
+-mạ crôm

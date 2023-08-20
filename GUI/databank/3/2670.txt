@@ -1,3 +1,13 @@
-antiquity
-	@antiquity /æn'tikwiti/\n*  danh từ\n- tình trạng cổ xưa\n- đời xưa\n- người đời xưa, cổ nhân\n- (số nhiều) đồ cổ, tác phẩm mỹ thuật đời xưa; di tích cổ\n- (số nhiều) phong tục đời xưa, việc đời xưa\n@Chuyên ngành kỹ thuật\n-người thượng cổ\n@Lĩnh vực: xây dựng\n-kiến trúc cổ đại\n-thời thượng cổ\n-tính cổ đại
-
+antiquity	@antiquity /æn'tikwiti/
+*  danh từ
+- tình trạng cổ xưa
+- đời xưa
+- người đời xưa, cổ nhân
+- (số nhiều) đồ cổ, tác phẩm mỹ thuật đời xưa; di tích cổ
+- (số nhiều) phong tục đời xưa, việc đời xưa
+@Chuyên ngành kỹ thuật
+-người thượng cổ
+@Lĩnh vực: xây dựng
+-kiến trúc cổ đại
+-thời thượng cổ
+-tính cổ đại

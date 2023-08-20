@@ -1,3 +1,5 @@
-roster
-	@roster /'roustə/\n*  danh từ\n- (quân sự) bảng phân công\n@Chuyên ngành kỹ thuật\n-lịch tưới
-
+roster	@roster /'roustə/
+*  danh từ
+- (quân sự) bảng phân công
+@Chuyên ngành kỹ thuật
+-lịch tưới

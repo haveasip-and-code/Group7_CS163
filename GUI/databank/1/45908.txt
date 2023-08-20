@@ -1,3 +1,21 @@
-receptacle
-	@receptacle /ri'septəkl/\n*  danh từ\n- đồ đựng (thùng, chai, lọ, hũ...)\n- chỗ chứa\n- (thực vật học) đế hoa\n@Chuyên ngành kinh tế\n-chỗ chứa\n-thể tích\n@Chuyên ngành kỹ thuật\n-chỗ chứa\n-đồ chứa\n-đồ đựng\n-đui đèn\n-hốc cắm\n-hốc cắm điện\n-ổ cắm\n-ổ cắm chìm\n-ổ cắm cố định\n-ổ cắm điện\n-ổ cắm trên tường\n-ổ nhận
-
+receptacle	@receptacle /ri'septəkl/
+*  danh từ
+- đồ đựng (thùng, chai, lọ, hũ...)
+- chỗ chứa
+- (thực vật học) đế hoa
+@Chuyên ngành kinh tế
+-chỗ chứa
+-thể tích
+@Chuyên ngành kỹ thuật
+-chỗ chứa
+-đồ chứa
+-đồ đựng
+-đui đèn
+-hốc cắm
+-hốc cắm điện
+-ổ cắm
+-ổ cắm chìm
+-ổ cắm cố định
+-ổ cắm điện
+-ổ cắm trên tường
+-ổ nhận

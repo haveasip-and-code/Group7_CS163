@@ -1,3 +1,10 @@
-boned
-	@boned /bound/\n*  tính từ\n- có xương ((thường) ở từ ghép)\n=brittle boned+ có xương giòn\n- được gỡ xương\n=boned chicken+ gà giò gỡ xương\n- có mép xương (cổ áo sơ mi...)\n@Chuyên ngành kinh tế\n-có xương\n-được gỡ xương
-
+boned	@boned /bound/
+*  tính từ
+- có xương ((thường) ở từ ghép)
+=brittle boned+ có xương giòn
+- được gỡ xương
+=boned chicken+ gà giò gỡ xương
+- có mép xương (cổ áo sơ mi...)
+@Chuyên ngành kinh tế
+-có xương
+-được gỡ xương

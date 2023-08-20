@@ -1,3 +1,6 @@
-proximal
-	@proximal /proximal/\n*  tính từ\n- (giải phẫu) ở đầu gần\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gần gốc
-
+proximal	@proximal /proximal/
+*  tính từ
+- (giải phẫu) ở đầu gần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-gần gốc

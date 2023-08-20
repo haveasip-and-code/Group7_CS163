@@ -1,3 +1,25 @@
-employment
-	@employment /im'plɔimənt/\n*  danh từ\n- sự dùng, sự thuê làm (công...)\n- sự làm công, việc làm\n=out of employment+ không có việc làm, thất nghiệp\n@Chuyên ngành kinh tế\n-công ăn việc làm\n-công việc\n-làm công\n-sử dụng\n-sự dùng\n-sự làm công\n-sự sử dụng\n-sự thuê làm\n-thuê làm\n-việc làm\n@Chuyên ngành kỹ thuật\n-sự dùng\n@Lĩnh vực: xây dựng\n-sự làm công\n@Chuyên ngành kỹ thuật\n-sự dùng\n@Lĩnh vực: xây dựng\n-sự làm công
-
+employment	
+@employment /im'plɔimənt/
+*  danh từ
+- sự dùng, sự thuê làm (công...)
+- sự làm công, việc làm=out of employment
++ không có việc làm, thất nghiệp
+@Chuyên ngành kinh tế
+-công ăn việc làm
+-công việc
+-làm công
+-sử dụng
+-sự dùng
+-sự làm công
+-sự sử dụng
+-sự thuê làm
+-thuê làm
+-việc làm
+@Chuyên ngành kỹ thuật
+-sự dùng
+@Lĩnh vực: xây dựng
+-sự làm công
+@Chuyên ngành kỹ thuật
+-sự dùng
+@Lĩnh vực: xây dựng
+-sự làm công

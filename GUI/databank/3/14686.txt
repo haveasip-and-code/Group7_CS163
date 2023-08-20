@@ -1,3 +1,5 @@
-dermatological
-	@dermatological\n- xem dermatology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc ngoài da
-
+dermatological	@dermatological
+- xem dermatology
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc ngoài da

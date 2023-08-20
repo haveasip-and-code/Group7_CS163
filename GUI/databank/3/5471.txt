@@ -1,3 +1,23 @@
-bifurcation
-	@bifurcation /,baifə:'keiʃn/\n*  động từ\n- chia làm hai nhánh, rẽ đôi\n*  danh từ\n- sự chia làm hai nhánh, sự rẽ đôi\n- chỗ chia làm hai nhánh, chỗ rẽ đôi\n- nhánh rẽ (trong hai nhánh)\n@Chuyên ngành kỹ thuật\n-chỗ đường giao nhau\n-nhánh rẽ\n-sự chia nhánh\n-sự phân đôi\n-sự phân nhánh\n-sự rẽ đôi\n@Lĩnh vực: xây dựng\n-chỗ rẽ đôi\n-nhánh rẽ đôi\n@Lĩnh vực: giao thông & vận tải\n-nút đường\n@Lĩnh vực: y học\n-rẽ hai\n@Lĩnh vực: toán & tin\n-sự tách đôi
-
+bifurcation	@bifurcation /,baifə:'keiʃn/
+*  động từ
+- chia làm hai nhánh, rẽ đôi
+*  danh từ
+- sự chia làm hai nhánh, sự rẽ đôi
+- chỗ chia làm hai nhánh, chỗ rẽ đôi
+- nhánh rẽ (trong hai nhánh)
+@Chuyên ngành kỹ thuật
+-chỗ đường giao nhau
+-nhánh rẽ
+-sự chia nhánh
+-sự phân đôi
+-sự phân nhánh
+-sự rẽ đôi
+@Lĩnh vực: xây dựng
+-chỗ rẽ đôi
+-nhánh rẽ đôi
+@Lĩnh vực: giao thông & vận tải
+-nút đường
+@Lĩnh vực: y học
+-rẽ hai
+@Lĩnh vực: toán & tin
+-sự tách đôi

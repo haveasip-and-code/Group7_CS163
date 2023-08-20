@@ -1,3 +1,4 @@
-nonmagnetic
-	@Chuyên ngành kỹ thuật\n-không từ tính\n@Lĩnh vực: điện tử & viễn thông\n-phi từ tính
-
+nonmagnetic	@Chuyên ngành kỹ thuật
+-không từ tính
+@Lĩnh vực: điện tử & viễn thông
+-phi từ tính

@@ -1,3 +1,34 @@
-consolidation
-	@consolidation /kən,sɔli'deiʃn/\n*  danh từ\n- sự làm vững chắc, sự làm củng cố\n- sự hợp nhất, sự thống nhất\n@Chuyên ngành kinh tế\n-gom các hàng hóa lại (thành công-ten-nơ để gửi đi)\n-làm cho vững chắc\n-nhập chung (công ty)\n-sự củng cố\n-sự giữ vững\n-sự hợp nhất\n-sự tập hợp (hàng hóa)\n-tổng hợp (chương mục)\n-việc hợp nhất\n@Chuyên ngành kỹ thuật\n-cố kết\n-đầm chặt\n-gia cố\n-nén chặt\n-sự cố kết\n-sự củng cố\n-sự đông đặc\n-sự gắn kết\n-sự hóa cứng\n-sự hợp nhất\n-sự lèn chặt\n@Lĩnh vực: xây dựng\n-sự đầm (chặt)\n-sự hóa chặt\n@Lĩnh vực: cơ khí & công trình\n-sự làm chắc\n-sự liền chặt\n@Lĩnh vực: toán & tin\n-sự tập hợp lại
-
+consolidation	@consolidation /kən,sɔli'deiʃn/
+*  danh từ
+- sự làm vững chắc, sự làm củng cố
+- sự hợp nhất, sự thống nhất
+@Chuyên ngành kinh tế
+-gom các hàng hóa lại (thành công-ten-nơ để gửi đi)
+-làm cho vững chắc
+-nhập chung (công ty)
+-sự củng cố
+-sự giữ vững
+-sự hợp nhất
+-sự tập hợp (hàng hóa)
+-tổng hợp (chương mục)
+-việc hợp nhất
+@Chuyên ngành kỹ thuật
+-cố kết
+-đầm chặt
+-gia cố
+-nén chặt
+-sự cố kết
+-sự củng cố
+-sự đông đặc
+-sự gắn kết
+-sự hóa cứng
+-sự hợp nhất
+-sự lèn chặt
+@Lĩnh vực: xây dựng
+-sự đầm (chặt)
+-sự hóa chặt
+@Lĩnh vực: cơ khí & công trình
+-sự làm chắc
+-sự liền chặt
+@Lĩnh vực: toán & tin
+-sự tập hợp lại

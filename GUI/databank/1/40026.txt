@@ -1,3 +1,2 @@
-patness
-	@patness\n- xem pat
-
+patness	@patness
+- xem pat

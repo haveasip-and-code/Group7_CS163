@@ -1,3 +1,4 @@
-doxycycline
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một kháng sinh chữa các bệnh nhiễm do vi trùng hay vi sinh vật
-
+doxycycline	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một kháng sinh chữa các bệnh nhiễm do vi trùng hay vi sinh vật

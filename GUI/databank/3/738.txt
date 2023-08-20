@@ -1,3 +1,6 @@
-adherend
-	@Chuyên ngành kỹ thuật\n-chi tiết (được) nối\n-mặt dán\n@Lĩnh vực: hóa học & vật liệu\n-mặt bám\n-mặt dính
-
+adherend	@Chuyên ngành kỹ thuật
+-chi tiết (được) nối
+-mặt dán
+@Lĩnh vực: hóa học & vật liệu
+-mặt bám
+-mặt dính

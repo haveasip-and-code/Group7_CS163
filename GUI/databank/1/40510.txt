@@ -1,3 +1,20 @@
-percentage
-	@percentage /pə'sentidʤ/\n*  danh từ\n- tỷ lệ phần trăm\n- tỷ lệ; phần\n=onlt a small percentage of his books are worth reading+ chỉ một tỉ lệ nhỏ (phần nhỏ) sách của anh ta là đáng đọc\n@Chuyên ngành kinh tế\n-hoa hồng\n-hoa hồng mức khấu trừ\n-mức khấu trừ\n-mức lỗ hay lãi\n-tỉ lệ bách phân\n-tỉ lệ phần trăm\n-tỷ lệ phần trăm\n-tỷ phần nói chung\n@Chuyên ngành kỹ thuật\n-phần trăm\n-tỉ lệ phần trăm\n@Lĩnh vực: toán & tin\n-phép tính phần trăm\n-số phần trăm
-
+percentage	@percentage /pə'sentidʤ/
+*  danh từ
+- tỷ lệ phần trăm
+- tỷ lệ; phần
+=onlt a small percentage of his books are worth reading+ chỉ một tỉ lệ nhỏ (phần nhỏ) sách của anh ta là đáng đọc
+@Chuyên ngành kinh tế
+-hoa hồng
+-hoa hồng mức khấu trừ
+-mức khấu trừ
+-mức lỗ hay lãi
+-tỉ lệ bách phân
+-tỉ lệ phần trăm
+-tỷ lệ phần trăm
+-tỷ phần nói chung
+@Chuyên ngành kỹ thuật
+-phần trăm
+-tỉ lệ phần trăm
+@Lĩnh vực: toán & tin
+-phép tính phần trăm
+-số phần trăm

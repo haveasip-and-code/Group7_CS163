@@ -1,3 +1,2 @@
-burier
-	@burier\n- xem bury
-
+burier	@burier
+- xem bury

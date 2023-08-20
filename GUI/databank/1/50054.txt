@@ -1,3 +1,11 @@
-settlor
-	@settlor /'setlə/\n*  danh từ\n- (pháp lý) người chuyển nhượng gia tài\n@Chuyên ngành kinh tế\n-người cho\n-người chuyển nhượng gia tài\n-người chuyển nhượng gia tài (tài sản)\n-người ký thác gia tài\n-người tặng\n@Lĩnh vực: ttck\n-người tặng, ủy thác
-
+settlor	@settlor /'setlə/
+*  danh từ
+- (pháp lý) người chuyển nhượng gia tài
+@Chuyên ngành kinh tế
+-người cho
+-người chuyển nhượng gia tài
+-người chuyển nhượng gia tài (tài sản)
+-người ký thác gia tài
+-người tặng
+@Lĩnh vực: ttck
+-người tặng, ủy thác

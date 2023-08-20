@@ -1,3 +1,5 @@
-cathepsin
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catepsin (enzym)\n@Lĩnh vực: y học\n-chất thuộc nhóm phân hóa tố
-
+cathepsin	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-catepsin (enzym)
+@Lĩnh vực: y học
+-chất thuộc nhóm phân hóa tố

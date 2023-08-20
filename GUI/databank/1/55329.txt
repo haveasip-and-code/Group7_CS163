@@ -1,3 +1,9 @@
-systematics
-	@systematics /,sisti'mætiks/\n*  danh từ,  số nhiều dùng như số ít\n- phân loại học\n- phương pháp phân loại\n- sự phân loại\n@Chuyên ngành kỹ thuật\n-sự phân loại\n@Lĩnh vực: điện lạnh\n-phân loại học
-
+systematics	@systematics /,sisti'mætiks/
+*  danh từ,  số nhiều dùng như số ít
+- phân loại học
+- phương pháp phân loại
+- sự phân loại
+@Chuyên ngành kỹ thuật
+-sự phân loại
+@Lĩnh vực: điện lạnh
+-phân loại học

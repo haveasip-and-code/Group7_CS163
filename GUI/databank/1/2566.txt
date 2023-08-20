@@ -1,3 +1,4 @@
-antigens
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đối giống
-
+antigens	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đối giống

@@ -1,3 +1,11 @@
-metric
-	@metric /'metrik/\n*  tính từ\n- (thuộc) mét\n=the metric system+ hệ thống mét\n- (như) metrical\n- (toán học) Mêtric\n=metric geometry+ hình học mêtric\n@Chuyên ngành kỹ thuật\n-mét\n@Lĩnh vực: toán & tin\n-theo hệ mét
-
+metric	@metric /'metrik/
+*  tính từ
+- (thuộc) mét
+=the metric system+ hệ thống mét
+- (như) metrical
+- (toán học) Mêtric
+=metric geometry+ hình học mêtric
+@Chuyên ngành kỹ thuật
+-mét
+@Lĩnh vực: toán & tin
+-theo hệ mét

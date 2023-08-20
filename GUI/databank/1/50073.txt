@@ -1,3 +1,12 @@
-severity
-	@severity /si'veriti/\n*  danh từ\n- tính nghiêm khắc; tính nghiêm nghị; sự ngặt nghèo\n- tính khốc liệt, tính dữ dội, tính gay go, tính ác liệt\n- tính mộc mạc, tính giản dị\n- giọng châm biếm, giọng mỉa mai\n- sự đối đãi khắc nghiệt; sự trừng phạt khắc nghiệt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự khắc nghiệt\n@Lĩnh vực: toán & tin\n-tính nghiêm trọng
-
+severity	@severity /si'veriti/
+*  danh từ
+- tính nghiêm khắc; tính nghiêm nghị; sự ngặt nghèo
+- tính khốc liệt, tính dữ dội, tính gay go, tính ác liệt
+- tính mộc mạc, tính giản dị
+- giọng châm biếm, giọng mỉa mai
+- sự đối đãi khắc nghiệt; sự trừng phạt khắc nghiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự khắc nghiệt
+@Lĩnh vực: toán & tin
+-tính nghiêm trọng

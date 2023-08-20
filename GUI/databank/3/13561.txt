@@ -1,3 +1,2 @@
-dateable
-	@dateable\n- xem date
-
+dateable	@dateable
+- xem date

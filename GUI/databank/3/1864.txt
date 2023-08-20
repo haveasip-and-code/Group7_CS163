@@ -1,3 +1,2 @@
-amidic
-	@amidic\n- xem amide
-
+amidic	@amidic
+- xem amide

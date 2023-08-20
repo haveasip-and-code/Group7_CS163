@@ -1,3 +1,40 @@
-wood
-	@wood /wud/\n*  danh từ\n- gỗ\n=soft wood+ gỗ mềm\n=made of wood+ làm bằng gỗ\n- củi\n=to put wood on the fire+ bỏ củi vào bếp\n- ((thường) số nhiều) rừng\n=a wood of beech+ rừng sồi\n- thùng gỗ (đựng rượu)\n- (âm nhạc) (the wood) kèn sáo bằng gỗ\n!to be unable to see the wood for the trees\n- thấy cây mà không thấy rừng, nhìn thấy hiện tượng mà không thấy bản chất\n!he is wood from the neck up\n- (thông tục) nó dốt đặc, nó ngu lắm\n!out of the wood\n- khỏi nguy hiểm, thoát nạn\n!to run to wood\n- phát cáu, nổi giận\n!to take to the woods\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chạy trốn, tẩu thoát\n*  tính từ\n- bằng gỗ\n=wood floor+ sàn gỗ\n- (thuộc) rừng\n=wood flowers+ những bông hoa rừng\n*  động từ\n- cung cấp củi; lấy củi\n- trồng rừng\n@Chuyên ngành kỹ thuật\n-bằng gỗ\n-gỗ\n-gỗ làm nhà\n-gỗ xẻ\n-rừng\n-tà vẹt\n-trồng rừng\n-vật liệu gỗ\n@Lĩnh vực: hóa học & vật liệu\n-vật liệu bằng gỗ
-
+wood	@wood /wud/
+*  danh từ
+- gỗ
+=soft wood+ gỗ mềm
+=made of wood+ làm bằng gỗ
+- củi
+=to put wood on the fire+ bỏ củi vào bếp
+- ((thường) số nhiều) rừng
+=a wood of beech+ rừng sồi
+- thùng gỗ (đựng rượu)
+- (âm nhạc) (the wood) kèn sáo bằng gỗ
+!to be unable to see the wood for the trees
+- thấy cây mà không thấy rừng, nhìn thấy hiện tượng mà không thấy bản chất
+!he is wood from the neck up
+- (thông tục) nó dốt đặc, nó ngu lắm
+!out of the wood
+- khỏi nguy hiểm, thoát nạn
+!to run to wood
+- phát cáu, nổi giận
+!to take to the woods
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chạy trốn, tẩu thoát
+*  tính từ
+- bằng gỗ
+=wood floor+ sàn gỗ
+- (thuộc) rừng
+=wood flowers+ những bông hoa rừng
+*  động từ
+- cung cấp củi; lấy củi
+- trồng rừng
+@Chuyên ngành kỹ thuật
+-bằng gỗ
+-gỗ
+-gỗ làm nhà
+-gỗ xẻ
+-rừng
+-tà vẹt
+-trồng rừng
+-vật liệu gỗ
+@Lĩnh vực: hóa học & vật liệu
+-vật liệu bằng gỗ

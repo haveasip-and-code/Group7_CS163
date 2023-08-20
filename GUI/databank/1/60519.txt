@@ -1,3 +1,2 @@
-unsolvable
-	@unsolvable\n- không giải được
-
+unsolvable	@unsolvable
+- không giải được

@@ -1,3 +1,12 @@
-encrypt
-	@encrypt\n* ngoại động từ\n- viết lại thành mật mã\n@Chuyên ngành kỹ thuật\n-mã hóa\n@Lĩnh vực: điện tử & viễn thông\n-cài mã\n@Chuyên ngành kỹ thuật\n-mã hóa\n@Lĩnh vực: điện tử & viễn thông\n-cài mã
-
+encrypt	
+@encrypt
+* ngoại động từ
+- viết lại thành mật mã
+@Chuyên ngành kỹ thuật
+-mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-cài mã
+@Chuyên ngành kỹ thuật
+-mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-cài mã

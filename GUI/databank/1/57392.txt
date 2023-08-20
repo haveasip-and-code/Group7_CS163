@@ -1,3 +1,14 @@
-transformer
-	@transformer /træns'fɔ:mə/\n*  danh từ\n- người làm biến đổi; vật làm biến đổi\n- (điện học) máy biến thế\n@Chuyên ngành kỹ thuật\n-biến thế\n-bộ chuyển đổi\n-máy biến áp\n-máy biến thế\n@Lĩnh vực: điện\n-biến áp\n-bộ biến thế\n@Lĩnh vực: toán & tin\n-bộ biến áp
-
+transformer	@transformer /træns'fɔ:mə/
+*  danh từ
+- người làm biến đổi; vật làm biến đổi
+- (điện học) máy biến thế
+@Chuyên ngành kỹ thuật
+-biến thế
+-bộ chuyển đổi
+-máy biến áp
+-máy biến thế
+@Lĩnh vực: điện
+-biến áp
+-bộ biến thế
+@Lĩnh vực: toán & tin
+-bộ biến áp

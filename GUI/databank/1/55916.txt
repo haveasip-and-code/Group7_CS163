@@ -1,3 +1,13 @@
-temporal
-	@temporal /'tempərəl/\n*  tính từ\n- (thuộc) thời gian\n=temporal concept+ khái niệm thời gian\n- (thuộc) trần tục, (thuộc) thế tục; (thuộc) thế gian\n=the temporal power of the pope+ quyền thế tục của giáo hoàng\n*  tính từ\n- (giải phẫu) (thuộc) thái dương\n*  danh từ\n- xương thái dương\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc thái dương
-
+temporal	@temporal /'tempərəl/
+*  tính từ
+- (thuộc) thời gian
+=temporal concept+ khái niệm thời gian
+- (thuộc) trần tục, (thuộc) thế tục; (thuộc) thế gian
+=the temporal power of the pope+ quyền thế tục của giáo hoàng
+*  tính từ
+- (giải phẫu) (thuộc) thái dương
+*  danh từ
+- xương thái dương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc thái dương

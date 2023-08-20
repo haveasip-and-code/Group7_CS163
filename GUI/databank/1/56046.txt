@@ -1,3 +1,61 @@
-term
-	@term /tə:m/\n*  danh từ\n- hạn, giới hạn, định hạn\n=to set a term to one's expenses+ giới hạn việc tiêu pha của mình\n- thời hạn, kỳ hạn\n=a term of imprisonment+ hạn tù\n=term of office+ nhiệm kỳ, thời gian tại chức\n=to have reached her term+ đến kỳ ở cữ (đàn bà)\n- phiên (toà), kỳ học, quý, khoá\n=the beginning of term+ bắt đầu kỳ học\n=Michaelmas (Hilary, Easter, Trinity) term+ kỳ học mùa thu (mùa đông, mùa xuân, mùa hạ)\n- (số nhiều) điều kiện, điều khoản\n=the terms of a treaty+ những điều khoản của một hiệp ước\n=not on any terms+ không với bất cứ một điều kiện nào\n=to dictate terms+ bắt phải chịu những điều kiện\n=to make terms with+ thoả thuận với, ký kết với\n- (số nhiều) giá, điều kiện\n=on easy terms+ với điều kiện trả tiền dễ dãi\n=on moderate terms+ với giá phải chăng\n- (số nhiều) quan hệ, sự giao thiệp, sự giao hảo, sự đi lại\n=to be on good terms with someone+ có quan hệ tốt với ai\n=to be on speaking terms with someone+ quen biết ai có thể chuyện trò với nhau được; có quan hệ đi lại với ai, giao thiệp với ai\n- thuật ngữ\n=technical term+ thuật ngữ kỹ thuật\n- (số nhiều) lời lẽ, ngôn ngữ\n=in set terms+ bằng những lời lẽ dứt khoát rõ ràng\n=in terms of praise+ bằng những lời khen ngợi\n- (toán học) số hạng\n*  ngoại động từ\n- gọi, đặt tên là, chỉ định; cho là\n=he terms himself a doctor+ hắn tự xưng là bác sĩ\n@Chuyên ngành kinh tế\n-đặt tên là\n-định hạn\n-dụng ngữ\n-hạn\n-kỳ\n-kỳ hạn\n-thời gian\n-thời hạn\n-thời hiệu\n-thời kỳ\n-thuật ngữ\n-từ chuyên môn\n@Lĩnh vực: ttck\n-kỳ hạn, điều khoản, nhiệm kỳ\n@Chuyên ngành kỹ thuật\n-điều khoản\n-điều kiện\n-giới hạn\n-kỳ hạn\n-ngày trả tiền\n-nhiệm kì\n-mức năng lượng\n-số hạng\n-số hạng (của chuỗi)\n-sự biểu thị\n@Lĩnh vực: điện\n-học kì\n@Lĩnh vực: toán & tin\n-tecbi
-
+term	@term /tə:m/
+*  danh từ
+- hạn, giới hạn, định hạn
+=to set a term to one's expenses+ giới hạn việc tiêu pha của mình
+- thời hạn, kỳ hạn
+=a term of imprisonment+ hạn tù
+=term of office+ nhiệm kỳ, thời gian tại chức
+=to have reached her term+ đến kỳ ở cữ (đàn bà)
+- phiên (toà), kỳ học, quý, khoá
+=the beginning of term+ bắt đầu kỳ học
+=Michaelmas (Hilary, Easter, Trinity) term+ kỳ học mùa thu (mùa đông, mùa xuân, mùa hạ)
+- (số nhiều) điều kiện, điều khoản
+=the terms of a treaty+ những điều khoản của một hiệp ước
+=not on any terms+ không với bất cứ một điều kiện nào
+=to dictate terms+ bắt phải chịu những điều kiện
+=to make terms with+ thoả thuận với, ký kết với
+- (số nhiều) giá, điều kiện
+=on easy terms+ với điều kiện trả tiền dễ dãi
+=on moderate terms+ với giá phải chăng
+- (số nhiều) quan hệ, sự giao thiệp, sự giao hảo, sự đi lại
+=to be on good terms with someone+ có quan hệ tốt với ai
+=to be on speaking terms with someone+ quen biết ai có thể chuyện trò với nhau được; có quan hệ đi lại với ai, giao thiệp với ai
+- thuật ngữ
+=technical term+ thuật ngữ kỹ thuật
+- (số nhiều) lời lẽ, ngôn ngữ
+=in set terms+ bằng những lời lẽ dứt khoát rõ ràng
+=in terms of praise+ bằng những lời khen ngợi
+- (toán học) số hạng
+*  ngoại động từ
+- gọi, đặt tên là, chỉ định; cho là
+=he terms himself a doctor+ hắn tự xưng là bác sĩ
+@Chuyên ngành kinh tế
+-đặt tên là
+-định hạn
+-dụng ngữ
+-hạn
+-kỳ
+-kỳ hạn
+-thời gian
+-thời hạn
+-thời hiệu
+-thời kỳ
+-thuật ngữ
+-từ chuyên môn
+@Lĩnh vực: ttck
+-kỳ hạn, điều khoản, nhiệm kỳ
+@Chuyên ngành kỹ thuật
+-điều khoản
+-điều kiện
+-giới hạn
+-kỳ hạn
+-ngày trả tiền
+-nhiệm kì
+-mức năng lượng
+-số hạng
+-số hạng (của chuỗi)
+-sự biểu thị
+@Lĩnh vực: điện
+-học kì
+@Lĩnh vực: toán & tin
+-tecbi

@@ -1,3 +1,16 @@
-dashpot
-	@dashpot\n* danh từ\n- cái giảm chấn, giảm xóc\n@Chuyên ngành kỹ thuật\n-bộ giảm chấn\n-bộ giảm xóc\n-đệm giảm chấn\n-đệm gió\n-hộp gió\n-nắp gió\n@Lĩnh vực: vật lý\n-bình giảm chấn\n-đậu giảm chấn\n@Lĩnh vực: điện\n-bộ hoãn xung
-
+dashpot	
+@dashpot
+* danh từ
+- cái giảm chấn, giảm xóc
+@Chuyên ngành kỹ thuật
+-bộ giảm chấn
+-bộ giảm xóc
+-đệm giảm chấn
+-đệm gió
+-hộp gió
+-nắp gió
+@Lĩnh vực: vật lý
+-bình giảm chấn
+-đậu giảm chấn
+@Lĩnh vực: điện
+-bộ hoãn xung

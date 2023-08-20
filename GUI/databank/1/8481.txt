@@ -1,3 +1,5 @@
-cense
-	@cense /sens/\n*  ngoại động từ\n- xông trầm\n- dâng hương
-
+cense	
+@cense /sens/
+*  ngoại động từ
+- xông trầm
+- dâng hương

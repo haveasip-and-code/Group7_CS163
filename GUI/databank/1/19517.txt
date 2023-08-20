@@ -1,3 +1,35 @@
-excavation
-	@excavation /,ekskə'veiʃn/\n*  danh từ\n- sự đào; hố đào\n- sự khai quật\n@Chuyên ngành kỹ thuật\n-đào\n-đào đất\n-hầm\n-hào\n-hố\n-hố đào\n-khai thác\n-sự đào đất\n-sự khai đào\n-sự khai thác\n@Lĩnh vực: hóa học & vật liệu\n-khai đào\n@Lĩnh vực: xây dựng\n-nền đường đào\n@Chuyên ngành kỹ thuật\n-đào\n-đào đất\n-hầm\n-hào\n-hố\n-hố đào\n-khai thác\n-sự đào đất\n-sự khai đào\n-sự khai thác\n@Lĩnh vực: hóa học & vật liệu\n-khai đào\n@Lĩnh vực: xây dựng\n-nền đường đào
-
+excavation	
+@excavation /,ekskə'veiʃn/
+*  danh từ
+- sự đào; hố đào
+- sự khai quật
+@Chuyên ngành kỹ thuật
+-đào
+-đào đất
+-hầm
+-hào
+-hố
+-hố đào
+-khai thác
+-sự đào đất
+-sự khai đào
+-sự khai thác
+@Lĩnh vực: hóa học & vật liệu
+-khai đào
+@Lĩnh vực: xây dựng
+-nền đường đào
+@Chuyên ngành kỹ thuật
+-đào
+-đào đất
+-hầm
+-hào
+-hố
+-hố đào
+-khai thác
+-sự đào đất
+-sự khai đào
+-sự khai thác
+@Lĩnh vực: hóa học & vật liệu
+-khai đào
+@Lĩnh vực: xây dựng
+-nền đường đào

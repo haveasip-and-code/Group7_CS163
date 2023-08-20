@@ -1,3 +1,13 @@
-dehydrate
-	@dehydrate /di:'haidreit/\n*  ngoại động từ\n- (hoá học) loại nước\n@Chuyên ngành kinh tế\n-làm khô\n-loại nước\n@Chuyên ngành kỹ thuật\n-hút nước\n-khử nước\n-loại nước\n@Lĩnh vực: hóa học & vật liệu\n-loại nước, khử nước
-
+dehydrate	
+@dehydrate /di:'haidreit/
+*  ngoại động từ
+- (hoá học) loại nước
+@Chuyên ngành kinh tế
+-làm khô
+-loại nước
+@Chuyên ngành kỹ thuật
+-hút nước
+-khử nước
+-loại nước
+@Lĩnh vực: hóa học & vật liệu
+-loại nước, khử nước

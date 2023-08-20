@@ -1,3 +1,15 @@
-president
-	@president /'prezidənt/\n*  danh từ\n- chủ tịch (buổi họp, hội nước...)\n- (từ Mỹ,nghĩa Mỹ) tổng thống\n- hiệu trưởng (trường đại học)\n- (sử học) thống sứ, thống đốc (ở một nước thuộc địa)\n@Chuyên ngành kinh tế\n-chủ tịch\n-chủ tịch (công ty)\n-hội trưởng\n-tổng giám đốc (công ty vô danh)\n-tổng thống\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tổng thống
-
+president	@president /'prezidənt/
+*  danh từ
+- chủ tịch (buổi họp, hội nước...)
+- (từ Mỹ,nghĩa Mỹ) tổng thống
+- hiệu trưởng (trường đại học)
+- (sử học) thống sứ, thống đốc (ở một nước thuộc địa)
+@Chuyên ngành kinh tế
+-chủ tịch
+-chủ tịch (công ty)
+-hội trưởng
+-tổng giám đốc (công ty vô danh)
+-tổng thống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tổng thống

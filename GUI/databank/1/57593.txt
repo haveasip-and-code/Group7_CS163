@@ -1,3 +1,24 @@
-treatment
-	@treatment /'tri:tmənt/\n*  danh từ\n- sự đối xử, sự đối đãi, sự cư xử (với người nào)\n- (y học) sự điều trị; phép trị bệnh\n=to be under medical treatment+ đang chữa bệnh, đang điều trị\n- (hoá học) sự xử lý\n- sự luận bàn, sự nghiên cứu; sự giải quyết (một vấn đề)\n@Chuyên ngành kinh tế\n-đãi ngộ\n-sự chế biến\n-sự xử lý\n-sự xử lý, đãi ngộ\n@Chuyên ngành kỹ thuật\n-bảo quản\n-đối xử\n-sự chế biến\n-sự xử lý\n-xử lý\n@Lĩnh vực: điện lạnh\n-khảo luận\n@Lĩnh vực: điện\n-việc gia công\n-việc nhiệt luyện\n-việc xử lí
-
+treatment	@treatment /'tri:tmənt/
+*  danh từ
+- sự đối xử, sự đối đãi, sự cư xử (với người nào)
+- (y học) sự điều trị; phép trị bệnh
+=to be under medical treatment+ đang chữa bệnh, đang điều trị
+- (hoá học) sự xử lý
+- sự luận bàn, sự nghiên cứu; sự giải quyết (một vấn đề)
+@Chuyên ngành kinh tế
+-đãi ngộ
+-sự chế biến
+-sự xử lý
+-sự xử lý, đãi ngộ
+@Chuyên ngành kỹ thuật
+-bảo quản
+-đối xử
+-sự chế biến
+-sự xử lý
+-xử lý
+@Lĩnh vực: điện lạnh
+-khảo luận
+@Lĩnh vực: điện
+-việc gia công
+-việc nhiệt luyện
+-việc xử lí

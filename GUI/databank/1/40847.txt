@@ -1,3 +1,2 @@
-persuader
-	@persuader\n- xem persuade
-
+persuader	@persuader
+- xem persuade

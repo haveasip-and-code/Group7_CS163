@@ -1,3 +1,4 @@
-buyable
-	@buyable\n- xem buy\n@Chuyên ngành kinh tế\n-có thể mua được
-
+buyable	@buyable
+- xem buy
+@Chuyên ngành kinh tế
+-có thể mua được

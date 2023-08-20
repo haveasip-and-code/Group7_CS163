@@ -1,3 +1,12 @@
-refined
-	@refined /ri'faind/\n*  tính từ\n- nguyên chất (vàng)\n- đã lọc; đã tinh chế (đường, dầu)\n- lịch sự, tao nhã, tế nhị; có học thức (người)\n@Chuyên ngành kỹ thuật\n-được tinh chế\n-được tinh lọc\n-được tinh luyện\n-tinh dầu\n@Lĩnh vực: hóa học & vật liệu\n-chất bị lọc
-
+refined	@refined /ri'faind/
+*  tính từ
+- nguyên chất (vàng)
+- đã lọc; đã tinh chế (đường, dầu)
+- lịch sự, tao nhã, tế nhị; có học thức (người)
+@Chuyên ngành kỹ thuật
+-được tinh chế
+-được tinh lọc
+-được tinh luyện
+-tinh dầu
+@Lĩnh vực: hóa học & vật liệu
+-chất bị lọc

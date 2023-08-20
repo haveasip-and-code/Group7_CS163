@@ -1,3 +1,7 @@
-exopeptidase
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ngoại peptidase\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ngoại peptidase
-
+exopeptidase	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ngoại peptidase
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ngoại peptidase

@@ -1,3 +1,2 @@
-courtroom
-	@Chuyên ngành kinh tế\n-phòng xử án
-
+courtroom	@Chuyên ngành kinh tế
+-phòng xử án

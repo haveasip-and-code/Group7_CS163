@@ -1,3 +1,12 @@
-undermining
-	@Chuyên ngành kỹ thuật\n-sự đào\n-sự gặm mòn\n-sự xói mòn\n@Lĩnh vực: xây dựng\n-sự đào dưới\n-sự đào dưới chân\n-sự khoét chân\n@Lĩnh vực: hóa học & vật liệu\n-sự khai đào ngầm\n@Lĩnh vực: cơ khí & công trình\n-sự xói lở chân
-
+undermining	@Chuyên ngành kỹ thuật
+-sự đào
+-sự gặm mòn
+-sự xói mòn
+@Lĩnh vực: xây dựng
+-sự đào dưới
+-sự đào dưới chân
+-sự khoét chân
+@Lĩnh vực: hóa học & vật liệu
+-sự khai đào ngầm
+@Lĩnh vực: cơ khí & công trình
+-sự xói lở chân

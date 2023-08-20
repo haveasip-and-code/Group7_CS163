@@ -1,3 +1,2 @@
-politicalize
-	@politicalize\n- xem political
-
+politicalize	@politicalize
+- xem political

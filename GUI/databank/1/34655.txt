@@ -1,3 +1,12 @@
-metropolitan
-	@metropolitan /,metrə'pɔlitən/\n*  tính từ\n- (thuộc) thủ đô; có tính chất thủ đô\n- (thuộc) trung tâm, có tính chất trung tâm (văn hoá, chính trị...)\n- (thuộc) nước mẹ, (thuộc) mẫu quốc\n- (tôn giáo) (thuộc) thủ đô giáo khu\n*  danh từ\n- người dân thủ đô\n- người dân mẫu quốc\n- (tôn giáo) Tổng giám mục\n@Chuyên ngành kỹ thuật\n-đô thị
-
+metropolitan	@metropolitan /,metrə'pɔlitən/
+*  tính từ
+- (thuộc) thủ đô; có tính chất thủ đô
+- (thuộc) trung tâm, có tính chất trung tâm (văn hoá, chính trị...)
+- (thuộc) nước mẹ, (thuộc) mẫu quốc
+- (tôn giáo) (thuộc) thủ đô giáo khu
+*  danh từ
+- người dân thủ đô
+- người dân mẫu quốc
+- (tôn giáo) Tổng giám mục
+@Chuyên ngành kỹ thuật
+-đô thị

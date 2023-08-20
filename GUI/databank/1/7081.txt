@@ -1,3 +1,27 @@
-bulkhead
-	@bulkhead /'bʌlkhed/\n*  danh từ\n- (hàng hải) vách ngăn\n=watertight bulkhead+ vách ngăn kín không để nước thấm qua\n- buồng, phòng (trên tàu)\n@Chuyên ngành kinh tế\n-vách ngăn khoang (tàu, máy bay)\n@Chuyên ngành kỹ thuật\n-cửa phai\n-đê bảo vệ\n-đê quai\n-đê quai thi công\n-phai\n-tấm ngăn\n-tấm phai\n-tường chắn\n-tường chắn đất\n@Lĩnh vực: cơ khí & công trình\n-cừ ngăn\n@Lĩnh vực: xây dựng\n-lối vào hầm\n-miệng ống thoát nước\n-tường chân (đất)\n-vách chân nước\n-vách không thấm nước\n-vách ngăn
-
+bulkhead	
+@bulkhead /'bʌlkhed/
+*  danh từ
+- (hàng hải) vách ngăn=watertight bulkhead
++ vách ngăn kín không để nước thấm qua
+- buồng, phòng (trên tàu)
+@Chuyên ngành kinh tế
+-vách ngăn khoang (tàu, máy bay)
+@Chuyên ngành kỹ thuật
+-cửa phai
+-đê bảo vệ
+-đê quai
+-đê quai thi công
+-phai
+-tấm ngăn
+-tấm phai
+-tường chắn
+-tường chắn đất
+@Lĩnh vực: cơ khí & công trình
+-cừ ngăn
+@Lĩnh vực: xây dựng
+-lối vào hầm
+-miệng ống thoát nước
+-tường chân (đất)
+-vách chân nước
+-vách không thấm nước
+-vách ngăn

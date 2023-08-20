@@ -1,3 +1,6 @@
-serif
-	@serif\n* danh từ\n- nét nhỏ ở đầu nét sổ của chữ in trong một số loại chữ; chân chữ\n@Chuyên ngành kỹ thuật\n-đường gạch chân\n-nút đầu mút
-
+serif	@serif
+* danh từ
+- nét nhỏ ở đầu nét sổ của chữ in trong một số loại chữ; chân chữ
+@Chuyên ngành kỹ thuật
+-đường gạch chân
+-nút đầu mút

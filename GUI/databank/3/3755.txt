@@ -1,3 +1,5 @@
-asymptote
-	@asymptote\n- đường tiệm cận\n- curvilinear a. tiệm cận cong\n- inflexional a. tiệm cận uốn\n- reetilinear a. tiệm cận thẳng
-
+asymptote	@asymptote
+- đường tiệm cận
+- curvilinear a. tiệm cận cong
+- inflexional a. tiệm cận uốn
+- reetilinear a. tiệm cận thẳng

@@ -1,3 +1,18 @@
-intersect
-	@intersect /,intə'sekt/\n*  nội động từ\n- cắt ngang nhau, chéo nhau\n- (toán học) cắt giao nhau\n@Chuyên ngành kỹ thuật\n-cắt\n-gặp nhau\n-giao nhau\n-hội\n-sự gặp nhau\n-xuyên qua\n@Lĩnh vực: xây dựng\n-cắt qua\n@Lĩnh vực: toán & tin\n-giao (nhau)\n-nhân lôgic\n-phép giao
-
+intersect	
+@intersect /,intə'sekt/
+*  nội động từ
+- cắt ngang nhau, chéo nhau
+- (toán học) cắt giao nhau
+@Chuyên ngành kỹ thuật
+-cắt
+-gặp nhau
+-giao nhau
+-hội
+-sự gặp nhau
+-xuyên qua
+@Lĩnh vực: xây dựng
+-cắt qua
+@Lĩnh vực: toán & tin
+-giao (nhau)
+-nhân lôgic
+-phép giao

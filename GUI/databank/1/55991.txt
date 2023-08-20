@@ -1,3 +1,2 @@
-tenser
-	@tenser\n- xem tensor
-
+tenser	@tenser
+- xem tensor

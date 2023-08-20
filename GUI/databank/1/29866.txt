@@ -1,3 +1,4 @@
-inwrap
-	@Chuyên ngành kinh tế\n-cứng lại\n-rắn lại
-
+inwrap	
+@Chuyên ngành kinh tế
+-cứng lại
+-rắn lại

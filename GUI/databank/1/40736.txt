@@ -1,3 +1,12 @@
-permissible
-	@permissible /pə'misəbl/\n*  tính từ\n- cho phép được, chấp nhận được, dung được\n@Chuyên ngành kỹ thuật\n-có thể\n-được phép\n@Lĩnh vực: toán & tin\n-cho phép được\n@Lĩnh vực: cơ khí & công trình\n-có thể chấp nhận\n@Lĩnh vực: điện lạnh\n-trong dung hạn
-
+permissible	@permissible /pə'misəbl/
+*  tính từ
+- cho phép được, chấp nhận được, dung được
+@Chuyên ngành kỹ thuật
+-có thể
+-được phép
+@Lĩnh vực: toán & tin
+-cho phép được
+@Lĩnh vực: cơ khí & công trình
+-có thể chấp nhận
+@Lĩnh vực: điện lạnh
+-trong dung hạn

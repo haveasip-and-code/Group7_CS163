@@ -1,3 +1,12 @@
-collapsing
-	@Chuyên ngành kỹ thuật\n-ép bẹp\n-làm oằn\n-làm sụt\n-lở\n-phá hỏng\n@Lĩnh vực: cơ khí & công trình\n-gấp xếp\n-tháo lắp\n@Lĩnh vực: hóa học & vật liệu\n-sụp
-
+collapsing	
+@Chuyên ngành kỹ thuật
+-ép bẹp
+-làm oằn
+-làm sụt
+-lở
+-phá hỏng
+@Lĩnh vực: cơ khí & công trình
+-gấp xếp
+-tháo lắp
+@Lĩnh vực: hóa học & vật liệu
+-sụp

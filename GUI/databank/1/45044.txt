@@ -1,3 +1,25 @@
-qualification
-	@qualification /,kwɔlifi'keiʃn/\n*  danh từ\n- sự cho là; sự gọi là; sự định tính chất, sự định phẩm chất\n=the qualification of his policy as opportunist is unfair+ cho chính sách của ông ta là cơ hội thì không đúng\n- tư cách khả năng, điều kiện, tiêu chuẩn, trình độ chuyên môn (để đảm nhiệm một chức vụ...); (số nhiều) giấy tờ chứng nhận khả năng\n=the qualification for membership+ tiêu chuẩn gia nhập (một đoàn thể)\n=a doctor's qualifications+ những văn bằng chứng nhận của một bác sĩ\n- sự hạn chế; sự dè dặt\n=this statement is to be accepted with qualifications+ phải dè dặt đối với lời tuyên bố này\n@Chuyên ngành kinh tế\n-bằng cấp\n-bằng văn bản thẩm định\n-đủ tư cách\n-khả năng\n-khả năng chuyên môn\n-phẩm chất\n-sự hạn chế\n-tiêu chuẩn chuyên môn\n-trình độ chuyên môn\n-tư cách\n-văn bằng\n@Chuyên ngành kỹ thuật\n-sự xác định\n@Lĩnh vực: điện tử & viễn thông\n-sự định tính
-
+qualification	@qualification /,kwɔlifi'keiʃn/
+*  danh từ
+- sự cho là; sự gọi là; sự định tính chất, sự định phẩm chất
+=the qualification of his policy as opportunist is unfair+ cho chính sách của ông ta là cơ hội thì không đúng
+- tư cách khả năng, điều kiện, tiêu chuẩn, trình độ chuyên môn (để đảm nhiệm một chức vụ...); (số nhiều) giấy tờ chứng nhận khả năng
+=the qualification for membership+ tiêu chuẩn gia nhập (một đoàn thể)
+=a doctor's qualifications+ những văn bằng chứng nhận của một bác sĩ
+- sự hạn chế; sự dè dặt
+=this statement is to be accepted with qualifications+ phải dè dặt đối với lời tuyên bố này
+@Chuyên ngành kinh tế
+-bằng cấp
+-bằng văn bản thẩm định
+-đủ tư cách
+-khả năng
+-khả năng chuyên môn
+-phẩm chất
+-sự hạn chế
+-tiêu chuẩn chuyên môn
+-trình độ chuyên môn
+-tư cách
+-văn bằng
+@Chuyên ngành kỹ thuật
+-sự xác định
+@Lĩnh vực: điện tử & viễn thông
+-sự định tính

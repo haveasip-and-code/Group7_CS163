@@ -1,3 +1,18 @@
-expertise
-	@expertise /,ekspə'ti:z/\n*  danh từ\n- sự thành thạo, sự tinh thông\n- tài chuyên môn; ý kiến về mặt chuyên môn\n- sự giám định\n@Chuyên ngành kinh tế\n-bí quyết\n-khả năng\n-kỹ năng chuyên môn\n-sở trường chuyên môn\n-sự giám định\n-sự thành thạo\n-sự tinh thông\n-sự tinh thông kỹ năng\n-thành thạo\n-tinh thông\n-tri thức chuyên môn
-
+expertise	
+@expertise /,ekspə'ti:z/
+*  danh từ
+- sự thành thạo, sự tinh thông
+- tài chuyên môn; ý kiến về mặt chuyên môn
+- sự giám định
+@Chuyên ngành kinh tế
+-bí quyết
+-khả năng
+-kỹ năng chuyên môn
+-sở trường chuyên môn
+-sự giám định
+-sự thành thạo
+-sự tinh thông
+-sự tinh thông kỹ năng
+-thành thạo
+-tinh thông
+-tri thức chuyên môn

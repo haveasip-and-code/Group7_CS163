@@ -1,3 +1,18 @@
-cousin
-	@cousin /'kʌzn/\n*  danh từ\n- anh (em họ); anh con bác, em con chú; anh (em) con cô con cậu; anh (em) con dì; anh cháu bác, em cháu chú\n- các hạ (tiếng vua xưng hô với nhau)\n!first cousin; cousin german\n- anh (chị) con bác, em con chú; anh (em) con cô con cậu ruột\n!first cousin once removed\n- cháu gọi bằng bác (chú, cô, dì)\n!first cousin twice removed\n- cháu gọi bằng ông bác (bà bác, ông chú, bà cô, bà dì)\n!second cousin\n- anh (chị) con bác, em con chú họ; anh (chị, em) con cô con cậu họ\n!second cousin once removed\n- cháu gọi bằng bác (chú, côm dì) họ\n!second cousin twice removed\n- cháu gọi bằng ông bác (bà bác, ông chú, bà cô, bà dì) họ\n!to call cousin with somebody\n- tự nhiên là có họ với ai
-
+cousin	@cousin /'kʌzn/
+*  danh từ
+- anh (em họ); anh con bác, em con chú; anh (em) con cô con cậu; anh (em) con dì; anh cháu bác, em cháu chú
+- các hạ (tiếng vua xưng hô với nhau)
+!first cousin; cousin german
+- anh (chị) con bác, em con chú; anh (em) con cô con cậu ruột
+!first cousin once removed
+- cháu gọi bằng bác (chú, cô, dì)
+!first cousin twice removed
+- cháu gọi bằng ông bác (bà bác, ông chú, bà cô, bà dì)
+!second cousin
+- anh (chị) con bác, em con chú họ; anh (chị, em) con cô con cậu họ
+!second cousin once removed
+- cháu gọi bằng bác (chú, côm dì) họ
+!second cousin twice removed
+- cháu gọi bằng ông bác (bà bác, ông chú, bà cô, bà dì) họ
+!to call cousin with somebody
+- tự nhiên là có họ với ai

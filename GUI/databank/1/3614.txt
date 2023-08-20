@@ -1,3 +1,17 @@
-assets
-	@assets\n- (toán kinh tế) tài sản; tiền có\n- fixed a. tài sản cố định\n- personal a. động sản\n- real a.bất động sản\n@Chuyên ngành kinh tế\n-các khoản có\n-tài sản\n-tài sản có\n-tích sản\n@Chuyên ngành kỹ thuật\n-của cải\n-năng động\n-vốn đầu tư\n@Lĩnh vực: toán & tin\n-tiền có
-
+assets	
+@assets
+- (toán kinh tế) tài sản; tiền có
+- fixed a. tài sản cố định
+- personal a. động sản
+- real a.bất động sản
+@Chuyên ngành kinh tế
+-các khoản có
+-tài sản
+-tài sản có
+-tích sản
+@Chuyên ngành kỹ thuật
+-của cải
+-năng động
+-vốn đầu tư
+@Lĩnh vực: toán & tin
+-tiền có

@@ -1,3 +1,4 @@
-hookup
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cách đi dây
-
+hookup	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-cách đi dây

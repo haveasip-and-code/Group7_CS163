@@ -1,3 +1,3 @@
-microbus
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-ô tô buýt nhỏ
-
+microbus	@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-ô tô buýt nhỏ

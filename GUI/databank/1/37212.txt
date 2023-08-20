@@ -1,3 +1,17 @@
-numeration
-	@numeration /,nju:mə'reiʃn/\n*  danh từ\n- phép đếm, phép đọc số\n- sự ghi số, sự đánh s\n@Chuyên ngành kinh tế\n-cách đếm\n-cách đếm phép đếm\n-phép đếm\n-sự đếm\n@Chuyên ngành kỹ thuật\n-biểu diễn số\n-hệ thống đếm\n-phép đếm\n-sự đánh số\n-sự đếm\n@Lĩnh vực: điện lạnh\n-hệ (thống) đếm
-
+numeration	@numeration /,nju:mə'reiʃn/
+*  danh từ
+- phép đếm, phép đọc số
+- sự ghi số, sự đánh s
+@Chuyên ngành kinh tế
+-cách đếm
+-cách đếm phép đếm
+-phép đếm
+-sự đếm
+@Chuyên ngành kỹ thuật
+-biểu diễn số
+-hệ thống đếm
+-phép đếm
+-sự đánh số
+-sự đếm
+@Lĩnh vực: điện lạnh
+-hệ (thống) đếm

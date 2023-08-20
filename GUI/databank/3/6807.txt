@@ -1,3 +1,2 @@
-bringer
-	@bringer\n- xem bring
-
+bringer	@bringer
+- xem bring

@@ -1,3 +1,60 @@
-weight
-	@weight /'weit/\n*  danh từ\n- trọng lượng, sức nặng\n=he is twice my weight+ anh ấy nặng bằng hai tôi\n=to try the weight of+ nhấc lên xem nặng nhẹ\n=to lose weight+ sụt cân\n=to gain (put on) weight+ lên cân, béo ra\n- cái chặn (giấy...)\n- qu cân\n=set of weights+ một bộ qu cân\n=weights and measures+ đo lường, cân đo\n- qu lắc (đồng hồ)\n- (thưng nghiệp) cân\n=to be sold by weight+ bán theo cân\n=to give good (short) weight+ cân già (non)\n- (thể dục,thể thao) hạng (võ sĩ); tạ\n=to put the weight+ ném tạ\n- (y học) sự nặng (đầu); sự đầy, sự nặng (bụng)\n- (kiến trúc); (kỹ thuật) ti trọng, sức nặng\n=to support the weight of the roof+ chịu ti ti trọng của mái nhà\n- (vật lý) trọng lực; trọng lượng riêng\n- (nghĩa bóng) tầm quan trọng, sức thuyết phục; trọng lượng, tác dụng, nh hưởng\n=an argument of great weight+ một lý lẽ có sức thuyết phục lớn (có trọng lượng)\n=to have no (little, great) weight with somebody+ không có (có ít, có nhiều) uy tín (nh hưởng) đối với ai\n=man of weight+ người quan trọng, người có nh hưởng lớn\n=to carry weight+ có thế; có tầm quan trọng; có nh hưởng lớn\n!to pull one's weight\n- hết sức, nỗ lực; đm đưng phần việc của mình, chịu phần trách nhiệm của mình\n*  ngoại động từ\n- buộc thêm vật nặng, làm nặng thêm\n=to weight a net+ buộc chì vào lưới\n- đè nặng lên, chất nặng ((nghĩa đen) & (nghĩa bóng))\n- (kỹ thuật) xử lý cho chắc thêm (vi)\n@Chuyên ngành kinh tế\n-đơn vị trọng lượng\n-hệ thống trọng lượng\n-quả cân\n-trọng lực\n-trọng lượng\n@Chuyên ngành kỹ thuật\n-độ đậm\n-độ đậm nhạt\n-độ dày\n-độ mập\n-đối trọng\n-gia trọng\n-khối lượng (ở Anh)\n-làm nặng thêm\n-quả cân\n-sức nặng\n-trọng lượng\n@Lĩnh vực: xây dựng\n-khối nặng\n@Lĩnh vực: ô tô\n-quả văng (sớm ly tâm)\n-trọng lượng cân bằng (miếng chì gắn vào niềng)\n@Lĩnh vực: toán & tin\n-trọng lượng (chữ)\n-trọng số\n-trọng số (thống kê)
-
+weight	@weight /'weit/
+*  danh từ
+- trọng lượng, sức nặng
+=he is twice my weight+ anh ấy nặng bằng hai tôi
+=to try the weight of+ nhấc lên xem nặng nhẹ
+=to lose weight+ sụt cân
+=to gain (put on) weight+ lên cân, béo ra
+- cái chặn (giấy...)
+- qu cân
+=set of weights+ một bộ qu cân
+=weights and measures+ đo lường, cân đo
+- qu lắc (đồng hồ)
+- (thưng nghiệp) cân
+=to be sold by weight+ bán theo cân
+=to give good (short) weight+ cân già (non)
+- (thể dục,thể thao) hạng (võ sĩ); tạ
+=to put the weight+ ném tạ
+- (y học) sự nặng (đầu); sự đầy, sự nặng (bụng)
+- (kiến trúc); (kỹ thuật) ti trọng, sức nặng
+=to support the weight of the roof+ chịu ti ti trọng của mái nhà
+- (vật lý) trọng lực; trọng lượng riêng
+- (nghĩa bóng) tầm quan trọng, sức thuyết phục; trọng lượng, tác dụng, nh hưởng
+=an argument of great weight+ một lý lẽ có sức thuyết phục lớn (có trọng lượng)
+=to have no (little, great) weight with somebody+ không có (có ít, có nhiều) uy tín (nh hưởng) đối với ai
+=man of weight+ người quan trọng, người có nh hưởng lớn
+=to carry weight+ có thế; có tầm quan trọng; có nh hưởng lớn
+!to pull one's weight
+- hết sức, nỗ lực; đm đưng phần việc của mình, chịu phần trách nhiệm của mình
+*  ngoại động từ
+- buộc thêm vật nặng, làm nặng thêm
+=to weight a net+ buộc chì vào lưới
+- đè nặng lên, chất nặng ((nghĩa đen) & (nghĩa bóng))
+- (kỹ thuật) xử lý cho chắc thêm (vi)
+@Chuyên ngành kinh tế
+-đơn vị trọng lượng
+-hệ thống trọng lượng
+-quả cân
+-trọng lực
+-trọng lượng
+@Chuyên ngành kỹ thuật
+-độ đậm
+-độ đậm nhạt
+-độ dày
+-độ mập
+-đối trọng
+-gia trọng
+-khối lượng (ở Anh)
+-làm nặng thêm
+-quả cân
+-sức nặng
+-trọng lượng
+@Lĩnh vực: xây dựng
+-khối nặng
+@Lĩnh vực: ô tô
+-quả văng (sớm ly tâm)
+-trọng lượng cân bằng (miếng chì gắn vào niềng)
+@Lĩnh vực: toán & tin
+-trọng lượng (chữ)
+-trọng số
+-trọng số (thống kê)

@@ -1,3 +1,11 @@
-tessera
-	@tessera\n* danh từ\n- số nhiều tesserae,  tesseri\n- vật để khảm, đá để cẩn, vật liệu dùng để lắp ghép, các khối lắp ghép\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khối để khảm, dát\n-mặt sàn ghép mảnh\n-trang trí ghép mảnh\n@Lĩnh vực: toán & tin\n-mắt lưới tổ ong
-
+tessera	@tessera
+* danh từ
+- số nhiều tesserae,  tesseri
+- vật để khảm, đá để cẩn, vật liệu dùng để lắp ghép, các khối lắp ghép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khối để khảm, dát
+-mặt sàn ghép mảnh
+-trang trí ghép mảnh
+@Lĩnh vực: toán & tin
+-mắt lưới tổ ong

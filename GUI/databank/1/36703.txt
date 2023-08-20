@@ -1,3 +1,3 @@
-newsreel
-	@newsreel\n* danh từ\n- phim thời sự
-
+newsreel	@newsreel
+* danh từ
+- phim thời sự

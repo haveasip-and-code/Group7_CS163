@@ -1,3 +1,28 @@
-behaviour
-	@behaviour /bi'heivjə/\n*  danh từ\n- thái độ, cách đối xử; cách cư xử, cách ăn ở; tư cách đạo đức\n=good behaviour+ tư cách đạo đức tốt\n- cách chạy (máy móc); tác động (chất...)\n!to be one's good (best) behaviour\n- gắng có thái độ tốt, gắng đối xử tốt; hết sức thận trọng giữ gìn trong cách đối xử sao cho đúng đắn\n!to put someone on his best behaviour\n- tạo điều kiện cho ai có thể tu tỉnh lại\n@Chuyên ngành kinh tế\n-cách ứng xử (của khách hàng)\n-hành vi\n-thái độ\n@Chuyên ngành kỹ thuật\n-chế độ\n-dáng điệu\n-động thái\n-hành vi\n-sự biến diễn\n-sự làm việc\n-tác động\n-tính chất\n-tính năng\n@Lĩnh vực: toán & tin\n-cách đối xử\n-thái độ\n@Lĩnh vực: xây dựng\n-sự đối xử
-
+behaviour	@behaviour /bi'heivjə/
+*  danh từ
+- thái độ, cách đối xử; cách cư xử, cách ăn ở; tư cách đạo đức
+=good behaviour+ tư cách đạo đức tốt
+- cách chạy (máy móc); tác động (chất...)
+!to be one's good (best) behaviour
+- gắng có thái độ tốt, gắng đối xử tốt; hết sức thận trọng giữ gìn trong cách đối xử sao cho đúng đắn
+!to put someone on his best behaviour
+- tạo điều kiện cho ai có thể tu tỉnh lại
+@Chuyên ngành kinh tế
+-cách ứng xử (của khách hàng)
+-hành vi
+-thái độ
+@Chuyên ngành kỹ thuật
+-chế độ
+-dáng điệu
+-động thái
+-hành vi
+-sự biến diễn
+-sự làm việc
+-tác động
+-tính chất
+-tính năng
+@Lĩnh vực: toán & tin
+-cách đối xử
+-thái độ
+@Lĩnh vực: xây dựng
+-sự đối xử

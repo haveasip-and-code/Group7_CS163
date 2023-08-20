@@ -1,3 +1,5 @@
-artist
-	@artist /'ɑ:tist/\n*  danh từ\n- nghệ sĩ\n=to be an artist in words+ là một nghệ sĩ về cách dùng từ\n- hoạ sĩ
-
+artist	@artist /'ɑ:tist/
+*  danh từ
+- nghệ sĩ
+=to be an artist in words+ là một nghệ sĩ về cách dùng từ
+- hoạ sĩ

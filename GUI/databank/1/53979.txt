@@ -1,3 +1,2 @@
-subcell
-	@Chuyên ngành kỹ thuật\n-hố nhỏ
-
+subcell	@Chuyên ngành kỹ thuật
+-hố nhỏ

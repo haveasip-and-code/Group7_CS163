@@ -1,3 +1,5 @@
-biosensor
-	@biosensor\n- (Tech) đầu cảm thụ sinh vật\n@Chuyên ngành kỹ thuật\n-bộ cảm biến sinh học
-
+biosensor	
+@biosensor
+- (Tech) đầu cảm thụ sinh vật
+@Chuyên ngành kỹ thuật
+-bộ cảm biến sinh học

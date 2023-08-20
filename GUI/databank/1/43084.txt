@@ -1,3 +1,11 @@
-precook
-	@precook\n* ngoại động từ\n- nấu trước một phần hay toàn bộ\n@Chuyên ngành kinh tế\n-chần\n-chần nước sôi\n-đun sôi nhẹ\n-hấp\n-hấp hơi nước\n-sự chần\n-sự hấp
-
+precook	@precook
+* ngoại động từ
+- nấu trước một phần hay toàn bộ
+@Chuyên ngành kinh tế
+-chần
+-chần nước sôi
+-đun sôi nhẹ
+-hấp
+-hấp hơi nước
+-sự chần
+-sự hấp

@@ -1,3 +1,2 @@
-tiros
-	@tiros\n- xem tiro
-
+tiros	@tiros
+- xem tiro

@@ -1,3 +1,37 @@
-bird
-	@bird /bə:d/\n*  danh từ\n- con chim\n- (thông tục) gã, thằng cha\n=a queer bird+ thằng cha kỳ dị\n- (từ lóng) cô gái\n!a bird in the bush\n- điều mình không biết; điều không chắc chắn có\n!birds of a feather\n- những người giống tính nết nhau, những người cùng một giuộc\n!birds of a feather flock together\n- (tục ngữ) ngưu tầm ngưu, mã tầm mã\n!a bird in the hand\n- vật mình có chắc trong tay; điều mình chắc chắn\n!a bird in the hand is worth two in the bush\n- (tục ngữ) không nên thả mồi bắt bóng\n!bird of ill omen\n- người mang tin xấu\n- người không may, người gặp vận rủi\n!bird of passage\n- chim di trú; (nghĩa bóng) người nay đây mai đó\n!bird of peace\n- chim hoà bình, bồ câu\n!to get the bird\n- bị huýt sáo, bị la ó\n- bị đuổi đi\n!to give someone the bird\n- huýt sáo ai, la ó ai\n- đuổi ai, tống cổ ai đi\n!to kill two birds with one stone\n- một công đôi việc\n!little bird\n- người báo tin vô danh\n!old bird\n- (xem) old\n@Chuyên ngành kinh tế\n-chim
-
+bird	@bird /bə:d/
+*  danh từ
+- con chim
+- (thông tục) gã, thằng cha
+=a queer bird+ thằng cha kỳ dị
+- (từ lóng) cô gái
+!a bird in the bush
+- điều mình không biết; điều không chắc chắn có
+!birds of a feather
+- những người giống tính nết nhau, những người cùng một giuộc
+!birds of a feather flock together
+- (tục ngữ) ngưu tầm ngưu, mã tầm mã
+!a bird in the hand
+- vật mình có chắc trong tay; điều mình chắc chắn
+!a bird in the hand is worth two in the bush
+- (tục ngữ) không nên thả mồi bắt bóng
+!bird of ill omen
+- người mang tin xấu
+- người không may, người gặp vận rủi
+!bird of passage
+- chim di trú; (nghĩa bóng) người nay đây mai đó
+!bird of peace
+- chim hoà bình, bồ câu
+!to get the bird
+- bị huýt sáo, bị la ó
+- bị đuổi đi
+!to give someone the bird
+- huýt sáo ai, la ó ai
+- đuổi ai, tống cổ ai đi
+!to kill two birds with one stone
+- một công đôi việc
+!little bird
+- người báo tin vô danh
+!old bird
+- (xem) old
+@Chuyên ngành kinh tế
+-chim

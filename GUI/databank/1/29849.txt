@@ -1,3 +1,26 @@
-involve
-	@involve /in'vɔlv/\n*  ngoại động từ\n- gồm, bao hàm\n- làm cho mắc míu (vào chuyện gì); làm liên luỵ, làm dính líu, làm dính dáng\n- ((thường) dạng bị động) thu hút tâm trí của; để hết tâm trí vào (cái gì)\n=he was involved in working out a solution to the problem+ anh ấy để hết tâm trí tìm cách giải quyết vấn đề\n- đòi hỏi phải, cần phải, kéo theo\n=expansion is business involves expenditure+ sự mở rộng việc kinh doanh đòi hỏi phải chi tiêu\n- cuộn vào, quấn lại\n@Chuyên ngành kỹ thuật\n-bao hàm\n-chứa\n-kéo theo\n-lôi kéo\n-quấn lại\n-quay theo\n-xoáy\n@Lĩnh vực: toán & tin\n-cuộn vào\n-nâng lên lũy thừa\n@Lĩnh vực: cơ khí & công trình\n-gồm\n-kể cả\n@Lĩnh vực: hóa học & vật liệu\n-tham gia vào
-
+involve	
+@involve /in'vɔlv/
+*  ngoại động từ
+- gồm, bao hàm
+- làm cho mắc míu (vào chuyện gì); làm liên luỵ, làm dính líu, làm dính dáng
+- ((thường) dạng bị động) thu hút tâm trí của; để hết tâm trí vào (cái gì)=he was involved in working out a solution to the problem
++ anh ấy để hết tâm trí tìm cách giải quyết vấn đề
+- đòi hỏi phải, cần phải, kéo theo=expansion is business involves expenditure
++ sự mở rộng việc kinh doanh đòi hỏi phải chi tiêu
+- cuộn vào, quấn lại
+@Chuyên ngành kỹ thuật
+-bao hàm
+-chứa
+-kéo theo
+-lôi kéo
+-quấn lại
+-quay theo
+-xoáy
+@Lĩnh vực: toán & tin
+-cuộn vào
+-nâng lên lũy thừa
+@Lĩnh vực: cơ khí & công trình
+-gồm
+-kể cả
+@Lĩnh vực: hóa học & vật liệu
+-tham gia vào

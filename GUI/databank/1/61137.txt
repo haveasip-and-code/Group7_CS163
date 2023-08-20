@@ -1,3 +1,23 @@
-valid
-	@valid /'vælid/\n*  tính từ\n- vững chắc, có căn cứ\n=a valid argument+ một lý lẽ vững chắc\n- (pháp lý) có giá trị, có hiệu lực; hợp lệ\n=valid contract+ hợp đồng có giá trị (về pháp lý)\n=valid passport+ hộ chiếu hợp lệ\n=the ticket is no longer valid+ vé không còn giá trị nữa\n@Chuyên ngành kinh tế\n-có giá trị\n-có giá trị pháp lý\n-có giá trị pháp lý, hợp pháp\n-có hiệu lực\n-có hiệu lực pháp lý\n-hợp lệ\n-hợp pháp\n-hợp thức\n-hữu hiệu\n@Chuyên ngành kỹ thuật\n-hiệu lực\n-hợp lệ\n-hợp pháp\n-vững chắc
-
+valid	@valid /'vælid/
+*  tính từ
+- vững chắc, có căn cứ
+=a valid argument+ một lý lẽ vững chắc
+- (pháp lý) có giá trị, có hiệu lực; hợp lệ
+=valid contract+ hợp đồng có giá trị (về pháp lý)
+=valid passport+ hộ chiếu hợp lệ
+=the ticket is no longer valid+ vé không còn giá trị nữa
+@Chuyên ngành kinh tế
+-có giá trị
+-có giá trị pháp lý
+-có giá trị pháp lý, hợp pháp
+-có hiệu lực
+-có hiệu lực pháp lý
+-hợp lệ
+-hợp pháp
+-hợp thức
+-hữu hiệu
+@Chuyên ngành kỹ thuật
+-hiệu lực
+-hợp lệ
+-hợp pháp
+-vững chắc

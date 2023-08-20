@@ -1,3 +1,2 @@
-noncallable
-	@Chuyên ngành kinh tế\n-không thể chuộc lại
-
+noncallable	@Chuyên ngành kinh tế
+-không thể chuộc lại

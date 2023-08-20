@@ -1,3 +1,11 @@
-voltage
-	@voltage /'voultidʤ/\n*  danh từ\n- (điện học) điện áp\n=high voltage+ điện áp cao, cao thế\n@Chuyên ngành kỹ thuật\n-điện áp\n-điện thế\n-hiệu điện thế\n@Lĩnh vực: toán & tin\n-điện áp ngưỡng\n-thế hiệu
-
+voltage	@voltage /'voultidʤ/
+*  danh từ
+- (điện học) điện áp
+=high voltage+ điện áp cao, cao thế
+@Chuyên ngành kỹ thuật
+-điện áp
+-điện thế
+-hiệu điện thế
+@Lĩnh vực: toán & tin
+-điện áp ngưỡng
+-thế hiệu

@@ -1,3 +1,6 @@
-gyrator
-	@gyrator\n- (Tech) bộ hồi chuyển (không thể nghịch chiều), girato\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-bộ hồi chuyển
-
+gyrator	
+@gyrator
+- (Tech) bộ hồi chuyển (không thể nghịch chiều), girato
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-bộ hồi chuyển

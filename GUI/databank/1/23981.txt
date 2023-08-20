@@ -1,3 +1,9 @@
-gradable
-	@gradable\n* tính từ, cũng gradeable\n- có thể chia thành độ, cấp bậc để so sánh\n= beauty is gradable+cái đẹp có thể chia thành cấp độ được\n@Chuyên ngành kỹ thuật\n-phân bậc\n@Lĩnh vực: toán & tin\n-phân bậc được
-
+gradable	
+@gradable
+* tính từ, cũng gradeable
+- có thể chia thành độ, cấp bậc để so sánh= beauty is gradable
++cái đẹp có thể chia thành cấp độ được
+@Chuyên ngành kỹ thuật
+-phân bậc
+@Lĩnh vực: toán & tin
+-phân bậc được

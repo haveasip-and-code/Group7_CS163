@@ -1,3 +1,8 @@
-baseline
-	@baseline\n- (Tech) đường gốc, đường không; đường quét\n@Chuyên ngành kỹ thuật\n-đường cơ sở\n-đường gốc\n-đường kế\n@Lĩnh vực: điện tử & viễn thông\n-đường dây gốc
-
+baseline	@baseline
+- (Tech) đường gốc, đường không; đường quét
+@Chuyên ngành kỹ thuật
+-đường cơ sở
+-đường gốc
+-đường kế
+@Lĩnh vực: điện tử & viễn thông
+-đường dây gốc

@@ -1,3 +1,29 @@
-copper
-	@copper /'kɔpə/\n*  danh từ\n- (từ lóng) cảnh sát, mật thám, cớm\n- đồng (đỏ)\n- đồng xu đồng\n- thùng nấu quần áo bằng đồng; chảo nấu đồng\n- (thông tục) mồm, miệng, cổ họng\n=to have hot coppers+ miệng khô như rang (vì uống nhiều rượu)\n!to cool one's coppers\n- giải khát, uống cho mát họng\n*  tính từ\n- bọc đồng (đáy tàu); mạ đồng\n- bằng đồng\n- có màu đồng\n*  ngoại động từ\n- bọc đồng (đáy tàu)\n@Chuyên ngành kinh tế\n-cổ họng\n-miệng\n-mõm\n-thùng nấu xà phòng\n-thùng nước quả\n@Chuyên ngành kỹ thuật\n-đồng\n-đồng Cu\n-đồng đỏ\n-mạ đồng\n@Lĩnh vực: điện lạnh\n-cu
-
+copper	
+@copper /'kɔpə/
+*  danh từ
+- (từ lóng) cảnh sát, mật thám, cớm
+- đồng (đỏ)
+- đồng xu đồng
+- thùng nấu quần áo bằng đồng; chảo nấu đồng
+- (thông tục) mồm, miệng, cổ họng=to have hot coppers
++ miệng khô như rang (vì uống nhiều rượu)!to cool one's coppers
+- giải khát, uống cho mát họng
+*  tính từ
+- bọc đồng (đáy tàu); mạ đồng
+- bằng đồng
+- có màu đồng
+*  ngoại động từ
+- bọc đồng (đáy tàu)
+@Chuyên ngành kinh tế
+-cổ họng
+-miệng
+-mõm
+-thùng nấu xà phòng
+-thùng nước quả
+@Chuyên ngành kỹ thuật
+-đồng
+-đồng Cu
+-đồng đỏ
+-mạ đồng
+@Lĩnh vực: điện lạnh
+-cu

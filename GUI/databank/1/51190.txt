@@ -1,3 +1,23 @@
-slime
-	@slime\n* danh từ\n- chất lỏng đặc, trơn ướt (nhất là bùn); chất nhờn\n- chất nhớt (do sên, ốc  nhả ra)\n@Chuyên ngành kinh tế\n-cặn\n-chất nhớt\n-loại bỏ chất nhớt\n-xỉ\n@Chuyên ngành kỹ thuật\n-bã\n-bột đá\n-bùn\n-bùn cát\n-bùn chưa lắng\n-bùn khoan\n-bùn loãng\n-bùn lỏng\n-bùn quặng\n-bùn xỉ\n-cặn\n-nước bùn\n-mùn khoan
-
+slime	@slime
+* danh từ
+- chất lỏng đặc, trơn ướt (nhất là bùn); chất nhờn
+- chất nhớt (do sên, ốc  nhả ra)
+@Chuyên ngành kinh tế
+-cặn
+-chất nhớt
+-loại bỏ chất nhớt
+-xỉ
+@Chuyên ngành kỹ thuật
+-bã
+-bột đá
+-bùn
+-bùn cát
+-bùn chưa lắng
+-bùn khoan
+-bùn loãng
+-bùn lỏng
+-bùn quặng
+-bùn xỉ
+-cặn
+-nước bùn
+-mùn khoan

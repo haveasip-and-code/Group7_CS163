@@ -1,3 +1,7 @@
-microelement
-	@microelement /'maikrou'elimənt/\n*  danh từ\n- nguyên tố vi lượng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-vi linh kiện\n-vi phần tử
-
+microelement	@microelement /'maikrou'elimənt/
+*  danh từ
+- nguyên tố vi lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-vi linh kiện
+-vi phần tử

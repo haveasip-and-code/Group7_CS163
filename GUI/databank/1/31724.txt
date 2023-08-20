@@ -1,3 +1,29 @@
-leach
-	@leach /li:tʃ/\n*  danh từ\n- nước tro (dùng để giặt)\n- chậu chắt nước tro\n*  ngoại động từ\n- cho lọc qua\n- lọc lấy nước\n*  nội động từ\n- lọc qua\n@Chuyên ngành kỹ thuật\n-chất ngâm chiết\n-chiết\n-khử\n-làm xói mòn\n-lọc qua\n-ngâm chiết\n-sự chiết\n-sự khử\n-sự ngâm chiết\n@Chuyên ngành kỹ thuật\n-chất ngâm chiết\n-chiết\n-khử\n-làm xói mòn\n-lọc qua\n-ngâm chiết\n-sự chiết\n-sự khử\n-sự ngâm chiết
-
+leach	@leach /li:tʃ/
+*  danh từ
+- nước tro (dùng để giặt)
+- chậu chắt nước tro
+*  ngoại động từ
+- cho lọc qua
+- lọc lấy nước
+*  nội động từ
+- lọc qua
+@Chuyên ngành kỹ thuật
+-chất ngâm chiết
+-chiết
+-khử
+-làm xói mòn
+-lọc qua
+-ngâm chiết
+-sự chiết
+-sự khử
+-sự ngâm chiết
+@Chuyên ngành kỹ thuật
+-chất ngâm chiết
+-chiết
+-khử
+-làm xói mòn
+-lọc qua
+-ngâm chiết
+-sự chiết
+-sự khử
+-sự ngâm chiết

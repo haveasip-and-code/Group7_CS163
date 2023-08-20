@@ -1,3 +1,4 @@
-proneness
-	@proneness /proneness/\n*  danh từ\n- trạng thái úp sấp\n- ngả về, thiên về, thiên hướng (về việc gì...)
-
+proneness	@proneness /proneness/
+*  danh từ
+- trạng thái úp sấp
+- ngả về, thiên về, thiên hướng (về việc gì...)

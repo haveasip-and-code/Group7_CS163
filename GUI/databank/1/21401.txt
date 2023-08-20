@@ -1,3 +1,5 @@
-flesher
-	@flesher /flesher/\n*  danh từ\n- (Ê-cốt) đồ tể
-
+flesher	
+@flesher /flesher/
+*  danh từ
+- (Ê
+-cốt) đồ tể

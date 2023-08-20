@@ -1,3 +1,7 @@
-undirected
-	@undirected /'ʌndi'rektid/\n*  tính từ\n- không có địa chỉ (thư)\n- không được hướng dẫn\n- không có mệnh lệnh; không có chỉ dẫn\n@Chuyên ngành kỹ thuật\n-không định hướng
-
+undirected	@undirected /'ʌndi'rektid/
+*  tính từ
+- không có địa chỉ (thư)
+- không được hướng dẫn
+- không có mệnh lệnh; không có chỉ dẫn
+@Chuyên ngành kỹ thuật
+-không định hướng

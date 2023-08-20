@@ -1,3 +1,16 @@
-controllable
-	@controllable /kən'trouləbl/\n*  tính từ\n- có thể kiểm tra, có thể kiểm soát, có thể làm chủ\n- dễ vận dụng, dễ điều khiển\n- có thể chế ngự, có thể kiềm chế (tình dục)\n@Chuyên ngành kinh tế\n-chi phối được\n-có thể kiểm soát\n-có thể kiểm tra\n-kiểm soát được\n-quản lý được\n-ức chế được\n@Chuyên ngành kỹ thuật\n-điều chỉnh được\n-điều khiển được
-
+controllable	
+@controllable /kən'trouləbl/
+*  tính từ
+- có thể kiểm tra, có thể kiểm soát, có thể làm chủ
+- dễ vận dụng, dễ điều khiển
+- có thể chế ngự, có thể kiềm chế (tình dục)
+@Chuyên ngành kinh tế
+-chi phối được
+-có thể kiểm soát
+-có thể kiểm tra
+-kiểm soát được
+-quản lý được
+-ức chế được
+@Chuyên ngành kỹ thuật
+-điều chỉnh được
+-điều khiển được

@@ -1,3 +1,34 @@
-combine
-	@combine /'kɔmbain/\n*  danh từ\n- (thương nghiệp) côngbin,  xanhđica\n=a wheat combine+ côngbin lúa mì\n- máy liên hợp, máy gặt đập ((cũng) combine harvester)\n*  động từ\n- kết hợp, phối hợp\n=to combine forces+ phối hợp các lực lượng\n=combined operation+ (quân sự) cuộc hành quân phối hợp\n- (hoá học) hoá hợp\n- (toán học) tổ hợp\n@Chuyên ngành kinh tế\n-cacten\n-côngbin\n-liên minh công nghiệp\n-nghiệp hội\n-phường\n-tơrơt\n-vạn\n-xanhđica\n@Chuyên ngành kỹ thuật\n-kết hợp\n-liên kết\n-nhà máy liên hợp\n-máy liên hợp\n-phối hợp\n-sự kết hợp\n-tổ hợp\n@Lĩnh vực: toán & tin\n-tổ hợp (chương trình)\n-tổ hợp lại\n@Lĩnh vực: xây dựng\n-xí nghiệp liên hợp
-
+combine	
+@combine /'kɔmbain/
+*  danh từ
+- (thương nghiệp) côngbin,  xanhđica=a wheat combine
++ côngbin lúa mì
+- máy liên hợp, máy gặt đập ((cũng) combine harvester)
+*  động từ
+- kết hợp, phối hợp=to combine forces
++ phối hợp các lực lượng=combined operation
++ (quân sự) cuộc hành quân phối hợp
+- (hoá học) hoá hợp
+- (toán học) tổ hợp
+@Chuyên ngành kinh tế
+-cacten
+-côngbin
+-liên minh công nghiệp
+-nghiệp hội
+-phường
+-tơrơt
+-vạn
+-xanhđica
+@Chuyên ngành kỹ thuật
+-kết hợp
+-liên kết
+-nhà máy liên hợp
+-máy liên hợp
+-phối hợp
+-sự kết hợp
+-tổ hợp
+@Lĩnh vực: toán & tin
+-tổ hợp (chương trình)
+-tổ hợp lại
+@Lĩnh vực: xây dựng
+-xí nghiệp liên hợp

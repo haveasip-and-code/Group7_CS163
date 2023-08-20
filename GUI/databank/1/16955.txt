@@ -1,3 +1,4 @@
-duellist
-	@duellist /'dju:əlist/\n*  danh từ\n- người (tham gia cuộc) đọ kiếm tay đôi, người (tham gia cuộc) đọ súng tay đôi
-
+duellist	
+@duellist /'dju:əlist/
+*  danh từ
+- người (tham gia cuộc) đọ kiếm tay đôi, người (tham gia cuộc) đọ súng tay đôi

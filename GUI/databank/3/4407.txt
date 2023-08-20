@@ -1,3 +1,7 @@
-backtrack
-	@backtrack /'bæktræk/\n*  nội động từ\n- quay về theo lối cũ\n- rút lui\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dò ngược
-
+backtrack	@backtrack /'bæktræk/
+*  nội động từ
+- quay về theo lối cũ
+- rút lui
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dò ngược

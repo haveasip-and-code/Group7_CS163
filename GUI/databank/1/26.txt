@@ -1,3 +1,28 @@
-abate
-	@abate /ə'beit/\n*  ngoại động từ\n- làm dịu đi, làm yếu đi, làm giảm bớt\n=to abate a pain+ làm dịu đau\n- hạ (giá), bớt (giá)\n- làm nhụt (nhụt khí...)\n- làm cùn (lưỡi dao...)\n- thanh toán, làm mất hết (những điều khó chịu, bực bội)\n- (pháp lý) huỷ bỏ, thủ tiêu\n- (kỹ thuật) ram (thép)\n*  nội động từ\n- dịu đi, yếu đi, nhụt đi, đỡ, bớt, ngớt\n=paint abates+ cơn đau dịu đi\n=storm abates+ cơn bão ngớt\n@Chuyên ngành kinh tế\n-giảm giá\n@Chuyên ngành kỹ thuật\n-giảm\n-giảm đi\n-giảm giá\n-hủy bỏ\n-ram\n@Lĩnh vực: cơ khí & công trình\n-ram (thép)\n@Lĩnh vực: giao thông & vận tải\n-xấu đi (thời tiết)\n-yếu đi (gió)
-
+abate	
+@abate /ə'beit/
+*  ngoại động từ
+- làm dịu đi, làm yếu đi, làm giảm bớt=to abate a pain
++ làm dịu đau
+- hạ (giá), bớt (giá)
+- làm nhụt (nhụt khí...)
+- làm cùn (lưỡi dao...)
+- thanh toán, làm mất hết (những điều khó chịu, bực bội)
+- (pháp lý) huỷ bỏ, thủ tiêu
+- (kỹ thuật) ram (thép)
+*  nội động từ
+- dịu đi, yếu đi, nhụt đi, đỡ, bớt, ngớt=paint abates
++ cơn đau dịu đi=storm abates
++ cơn bão ngớt
+@Chuyên ngành kinh tế
+-giảm giá
+@Chuyên ngành kỹ thuật
+-giảm
+-giảm đi
+-giảm giá
+-hủy bỏ
+-ram
+@Lĩnh vực: cơ khí & công trình
+-ram (thép)
+@Lĩnh vực: giao thông & vận tải
+-xấu đi (thời tiết)
+-yếu đi (gió)

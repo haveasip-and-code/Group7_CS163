@@ -1,3 +1,13 @@
-cutback
-	@cutback\n* danh từ\n- sự cắt giảm\n@Chuyên ngành kinh tế\n-sự giảm bớt\n-sụt giảm (về sản xuất, giá cả, chi tiêu, nhân sự...)\n-suy thoái\n@Chuyên ngành kỹ thuật\n-cắt bớt\n@Lĩnh vực: hóa học & vật liệu\n-pha loãng\n@Lĩnh vực: điện tử & viễn thông\n-sự cắt bớt
-
+cutback	@cutback
+* danh từ
+- sự cắt giảm
+@Chuyên ngành kinh tế
+-sự giảm bớt
+-sụt giảm (về sản xuất, giá cả, chi tiêu, nhân sự...)
+-suy thoái
+@Chuyên ngành kỹ thuật
+-cắt bớt
+@Lĩnh vực: hóa học & vật liệu
+-pha loãng
+@Lĩnh vực: điện tử & viễn thông
+-sự cắt bớt

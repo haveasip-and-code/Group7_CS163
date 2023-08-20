@@ -1,3 +1,13 @@
-revise
-	@revise /ri'vaiz/\n*  ngoại động từ\n- đọc lại, xem lại, duyệt lại, xét lại\n- sửa (bản in thử); sửa đổi (đạo luật...)\n@Chuyên ngành kỹ thuật\n-duyệt lại\n-kiểm tra lại\n-làm lại\n-sửa lại\n-xem lại\n@Lĩnh vực: xây dựng\n-hiệu chỉnh lại\n-soát lại
-
+revise	@revise /ri'vaiz/
+*  ngoại động từ
+- đọc lại, xem lại, duyệt lại, xét lại
+- sửa (bản in thử); sửa đổi (đạo luật...)
+@Chuyên ngành kỹ thuật
+-duyệt lại
+-kiểm tra lại
+-làm lại
+-sửa lại
+-xem lại
+@Lĩnh vực: xây dựng
+-hiệu chỉnh lại
+-soát lại

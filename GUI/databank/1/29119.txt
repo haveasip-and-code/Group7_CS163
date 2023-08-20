@@ -1,3 +1,10 @@
-integrand
-	@integrand /'intigrænd/\n*  danh từ\n- (toán học) hàm bị tích\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biểu thức tích phân\n-hàm lấy tích phân\n@Lĩnh vực: điện lạnh\n-hàm bị tích (phân)
-
+integrand	
+@integrand /'intigrænd/
+*  danh từ
+- (toán học) hàm bị tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-biểu thức tích phân
+-hàm lấy tích phân
+@Lĩnh vực: điện lạnh
+-hàm bị tích (phân)

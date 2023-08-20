@@ -1,3 +1,4 @@
-corbelling
-	@Chuyên ngành kỹ thuật\n-chỉ gạch đua\n@Lĩnh vực: xây dựng\n-sự xây nhô ra
-
+corbelling	@Chuyên ngành kỹ thuật
+-chỉ gạch đua
+@Lĩnh vực: xây dựng
+-sự xây nhô ra

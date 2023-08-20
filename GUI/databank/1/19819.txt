@@ -1,3 +1,21 @@
-expect
-	@expect /iks'pekt/\n*  ngoại động từ\n- mong chờ, chờ đợi, ngóng chờ, trông mong\n=don't expect me till you see me+ đừng ngóng chờ tôi, lúc nào có thể đến là tôi sẽ đến\n- (thông tục) nghĩ rằng, chắc rằng, cho rằng\n!to be expecting\n- (thông tục) có mang, có thai\n@Chuyên ngành kỹ thuật\n-chờ đợi\n-kỳ vọng\n@Lĩnh vực: toán & tin\n-hy vọng\n@Lĩnh vực: xây dựng\n-mong chờ\n@Chuyên ngành kỹ thuật\n-chờ đợi\n-kỳ vọng\n@Lĩnh vực: toán & tin\n-hy vọng\n@Lĩnh vực: xây dựng\n-mong chờ
-
+expect	
+@expect /iks'pekt/
+*  ngoại động từ
+- mong chờ, chờ đợi, ngóng chờ, trông mong=don't expect me till you see me
++ đừng ngóng chờ tôi, lúc nào có thể đến là tôi sẽ đến
+- (thông tục) nghĩ rằng, chắc rằng, cho rằng!to be expecting
+- (thông tục) có mang, có thai
+@Chuyên ngành kỹ thuật
+-chờ đợi
+-kỳ vọng
+@Lĩnh vực: toán & tin
+-hy vọng
+@Lĩnh vực: xây dựng
+-mong chờ
+@Chuyên ngành kỹ thuật
+-chờ đợi
+-kỳ vọng
+@Lĩnh vực: toán & tin
+-hy vọng
+@Lĩnh vực: xây dựng
+-mong chờ

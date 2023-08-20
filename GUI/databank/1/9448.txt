@@ -1,3 +1,13 @@
-circuitry
-	@circuitry\n- (Tech) mạch điện; hệ thống mạch điện\n@Chuyên ngành kỹ thuật\n-lý thuyết mạch\n-mạng điện\n-sơ đồ điện\n-sơ đồ mạch điện\n@Lĩnh vực: điện lạnh\n-hệ mạch\n@Lĩnh vực: toán & tin\n-hệ mạch điện\n-sư đồ mạch
-
+circuitry	
+@circuitry
+- (Tech) mạch điện; hệ thống mạch điện
+@Chuyên ngành kỹ thuật
+-lý thuyết mạch
+-mạng điện
+-sơ đồ điện
+-sơ đồ mạch điện
+@Lĩnh vực: điện lạnh
+-hệ mạch
+@Lĩnh vực: toán & tin
+-hệ mạch điện
+-sư đồ mạch

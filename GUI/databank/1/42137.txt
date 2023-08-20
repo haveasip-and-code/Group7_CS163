@@ -1,3 +1,6 @@
-plucker
-	@plucker\n- xem pluck\n@Chuyên ngành kinh tế\n-máy vặt lông\n-sọt chứa chè\n-sọt chứa quả
-
+plucker	@plucker
+- xem pluck
+@Chuyên ngành kinh tế
+-máy vặt lông
+-sọt chứa chè
+-sọt chứa quả

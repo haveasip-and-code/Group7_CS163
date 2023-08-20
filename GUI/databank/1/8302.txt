@@ -1,3 +1,6 @@
-catenoid
-	@catenoid\n- mặt catinoit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mặt catenoit
-
+catenoid	
+@catenoid
+- mặt catinoit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-mặt catenoit

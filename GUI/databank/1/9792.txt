@@ -1,3 +1,10 @@
-clinic
-	@clinic /'klinik/\n*  danh từ\n- bệnh viện thực hành\n- (y học) sự lên lớp ở buồng bệnh, sự thực hành ở buồng bệnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bệnh viện tư\n@Lĩnh vực: y học\n-lâm sàng học, bệnh khoa
-
+clinic	
+@clinic /'klinik/
+*  danh từ
+- bệnh viện thực hành
+- (y học) sự lên lớp ở buồng bệnh, sự thực hành ở buồng bệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bệnh viện tư
+@Lĩnh vực: y học
+-lâm sàng học, bệnh khoa

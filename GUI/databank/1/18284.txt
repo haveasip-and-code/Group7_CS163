@@ -1,3 +1,12 @@
-endotoxin
-	@endotoxin\n* danh từ\n- nội độc tố\n@Chuyên ngành kinh tế\n-nội độc tố\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nội độc tố\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nội độc tố
-
+endotoxin	
+@endotoxin
+* danh từ
+- nội độc tố
+@Chuyên ngành kinh tế
+-nội độc tố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nội độc tố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nội độc tố

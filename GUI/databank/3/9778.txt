@@ -1,3 +1,2 @@
-climbable
-	@climbable\n- xem climb
-
+climbable	@climbable
+- xem climb

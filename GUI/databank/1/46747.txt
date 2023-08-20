@@ -1,3 +1,35 @@
-render
-	@render /'rendə/\n*  ngoại động từ\n- trả, trả lại, hoàn lại\n=to render thanks to+ trả ơn\n- dâng, nộp, trao\n=to render [up] a city to the enemy+ nộp một thành phố cho quân địch\n=to render a message+ trao một bức thông điệp\n- đưa ra, nêu ra\n=he can render no reason for it+ nó không đưa ra được một lý do gì về việc đó\n=to render an account of+ đưa ra một báo cáo về, báo cáo về (vấn đề gì...)\n- làm, làm cho\n=to render a service+ giúp đỡ\n=to be rendered speechless with rage+ giận điên lên (làm cho) không nói được nữa\n- biểu hiện, diễn tả\n=the writer's thought is well rendered in his works+ tư tưởng của nhà văn biểu hiện rất rõ ràng trong những tác phẩm của ông\n- diễn, đóng (vai kịch); trình diễn, diễn tấu (một bản nhạc)\n- dịch\n=this sentence can't be rendered into English+ câu này không thể dịch được sang tiếng Anh\n- thắng (đường); nấu chảy (mỡ...); lọc ((cũng) to render down)\n- trát vữa (tường...)\n@Chuyên ngành kinh tế\n-chuẩn bị gửi đi\n-đưa ra\n-hoàn lại\n-nấu chảy (mỡ)\n-nêu ra\n-thực hiện\n-tiến hành\n-trả\n@Chuyên ngành kỹ thuật\n-lớp trát\n-sự trát vữa\n-vữa trát\n@Lĩnh vực: toán & tin\n-hoàn trả
-
+render	@render /'rendə/
+*  ngoại động từ
+- trả, trả lại, hoàn lại
+=to render thanks to+ trả ơn
+- dâng, nộp, trao
+=to render [up] a city to the enemy+ nộp một thành phố cho quân địch
+=to render a message+ trao một bức thông điệp
+- đưa ra, nêu ra
+=he can render no reason for it+ nó không đưa ra được một lý do gì về việc đó
+=to render an account of+ đưa ra một báo cáo về, báo cáo về (vấn đề gì...)
+- làm, làm cho
+=to render a service+ giúp đỡ
+=to be rendered speechless with rage+ giận điên lên (làm cho) không nói được nữa
+- biểu hiện, diễn tả
+=the writer's thought is well rendered in his works+ tư tưởng của nhà văn biểu hiện rất rõ ràng trong những tác phẩm của ông
+- diễn, đóng (vai kịch); trình diễn, diễn tấu (một bản nhạc)
+- dịch
+=this sentence can't be rendered into English+ câu này không thể dịch được sang tiếng Anh
+- thắng (đường); nấu chảy (mỡ...); lọc ((cũng) to render down)
+- trát vữa (tường...)
+@Chuyên ngành kinh tế
+-chuẩn bị gửi đi
+-đưa ra
+-hoàn lại
+-nấu chảy (mỡ)
+-nêu ra
+-thực hiện
+-tiến hành
+-trả
+@Chuyên ngành kỹ thuật
+-lớp trát
+-sự trát vữa
+-vữa trát
+@Lĩnh vực: toán & tin
+-hoàn trả

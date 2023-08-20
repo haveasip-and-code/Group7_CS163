@@ -1,3 +1,3 @@
-bonneted
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cuốn sách có dạng vòm
-
+bonneted	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cuốn sách có dạng vòm

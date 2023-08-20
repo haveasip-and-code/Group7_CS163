@@ -1,3 +1,7 @@
-microprogram
-	@Chuyên ngành kinh tế\n-vi chương trình\n@Chuyên ngành kỹ thuật\n-vi chương trình\n@Lĩnh vực: toán & tin\n-vi thủ tục\n-vi thường trình
-
+microprogram	@Chuyên ngành kinh tế
+-vi chương trình
+@Chuyên ngành kỹ thuật
+-vi chương trình
+@Lĩnh vực: toán & tin
+-vi thủ tục
+-vi thường trình

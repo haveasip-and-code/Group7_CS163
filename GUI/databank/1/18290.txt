@@ -1,3 +1,9 @@
-endpoint
-	@Chuyên ngành kỹ thuật\n-điểm cuối\n@Lĩnh vực: toán & tin\n-điểm đầu nút\n@Chuyên ngành kỹ thuật\n-điểm cuối\n@Lĩnh vực: toán & tin\n-điểm đầu nút
-
+endpoint	
+@Chuyên ngành kỹ thuật
+-điểm cuối
+@Lĩnh vực: toán & tin
+-điểm đầu nút
+@Chuyên ngành kỹ thuật
+-điểm cuối
+@Lĩnh vực: toán & tin
+-điểm đầu nút

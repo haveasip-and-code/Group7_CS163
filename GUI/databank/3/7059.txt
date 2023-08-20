@@ -1,3 +1,2 @@
-bugs
-	@Chuyên ngành kinh tế\n-ảnh nhỏ trong quảng cáo
-
+bugs	@Chuyên ngành kinh tế
+-ảnh nhỏ trong quảng cáo

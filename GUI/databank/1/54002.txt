@@ -1,3 +1,7 @@
-subcooling
-	@Chuyên ngành kinh tế\n-sự quá lạnh\n@Chuyên ngành kỹ thuật\n-sự đông lạnh\n-sự quá lạnh\n@Lĩnh vực: cơ khí & công trình\n-sự quá nguội
-
+subcooling	@Chuyên ngành kinh tế
+-sự quá lạnh
+@Chuyên ngành kỹ thuật
+-sự đông lạnh
+-sự quá lạnh
+@Lĩnh vực: cơ khí & công trình
+-sự quá nguội

@@ -1,3 +1,2 @@
-prescriber
-	@prescriber\n- xem prescribe
-
+prescriber	@prescriber
+- xem prescribe

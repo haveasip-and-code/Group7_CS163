@@ -1,3 +1,8 @@
-sphericity
-	@sphericity /sfe'risiti/\n*  danh từ\n- cầu hình; tính tròn (của quả đất...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cầu tính\n@Lĩnh vực: toán & tin\n-tính cầu
-
+sphericity	@sphericity /sfe'risiti/
+*  danh từ
+- cầu hình; tính tròn (của quả đất...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-cầu tính
+@Lĩnh vực: toán & tin
+-tính cầu

@@ -1,3 +1,19 @@
-littoral
-	@littoral /'litərəl/\n*  tính từ\n- (thuộc) bờ biển\n- ven biển\n*  danh từ\n- bờ biển\n- miền ven biển\n@Chuyên ngành kỹ thuật\n-bờ biển\n-duyên hải\n-miền ven biển\n@Lĩnh vực: hóa học & vật liệu\n-ven biển\n@Chuyên ngành kỹ thuật\n-bờ biển\n-duyên hải\n-miền ven biển\n@Lĩnh vực: hóa học & vật liệu\n-ven biển
-
+littoral	@littoral /'litərəl/
+*  tính từ
+- (thuộc) bờ biển
+- ven biển
+*  danh từ
+- bờ biển
+- miền ven biển
+@Chuyên ngành kỹ thuật
+-bờ biển
+-duyên hải
+-miền ven biển
+@Lĩnh vực: hóa học & vật liệu
+-ven biển
+@Chuyên ngành kỹ thuật
+-bờ biển
+-duyên hải
+-miền ven biển
+@Lĩnh vực: hóa học & vật liệu
+-ven biển

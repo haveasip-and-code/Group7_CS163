@@ -1,3 +1,11 @@
-coordinate
-	@coordinate\n- (Tech) tọa độ (d); điều hợp, phối hợp (đ)\n@Chuyên ngành kinh tế\n-tọa độ\n@Chuyên ngành kỹ thuật\n-điều phối\n-phối hợp\n-sắp xếp\n@Lĩnh vực: hóa học & vật liệu\n-chỉ số phối trí\n-phối trí
-
+coordinate	@coordinate
+- (Tech) tọa độ (d); điều hợp, phối hợp (đ)
+@Chuyên ngành kinh tế
+-tọa độ
+@Chuyên ngành kỹ thuật
+-điều phối
+-phối hợp
+-sắp xếp
+@Lĩnh vực: hóa học & vật liệu
+-chỉ số phối trí
+-phối trí

@@ -1,3 +1,5 @@
-filmland
-	@filmland\n* danh từ\n- thế giới điện ảnh\n= filmland actor+diễn viên điện ảnh
-
+filmland	
+@filmland
+* danh từ
+- thế giới điện ảnh= filmland actor
++diễn viên điện ảnh

@@ -1,3 +1,6 @@
-melanocyte
-	@melanocyte\n* danh từ\n- tế bào biểu bì tạo hắc tố\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tế bào hắc tố
-
+melanocyte	@melanocyte
+* danh từ
+- tế bào biểu bì tạo hắc tố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tế bào hắc tố

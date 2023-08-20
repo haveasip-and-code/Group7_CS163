@@ -1,3 +1,12 @@
-jacketed
-	@jacketed\n- xem jacket\n@Chuyên ngành kỹ thuật\n-được bao\n-được bọc\n@Lĩnh vực: xây dựng\n-có hai thành\n-có vỏ bọc\n-được đậy nắp\n@Lĩnh vực: hóa học & vật liệu\n-có hai vỏ
-
+jacketed	
+@jacketed
+- xem jacket
+@Chuyên ngành kỹ thuật
+-được bao
+-được bọc
+@Lĩnh vực: xây dựng
+-có hai thành
+-có vỏ bọc
+-được đậy nắp
+@Lĩnh vực: hóa học & vật liệu
+-có hai vỏ

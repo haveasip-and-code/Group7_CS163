@@ -1,3 +1,36 @@
-safe
-	@safe /seif/\n*  danh từ\n- chạn (đựng đồ ăn)\n- tủ sắt, két bạc\n*  tính từ\n- an toàn, chắc chắn\n=to feel safe+ cảm thấy an toàn\n=to see somebody safe home+ đưa người nào về nhà an toàn\n=to be safe from the enemy+ chắc chắn không bị địch tấn công\n=to put something in a safe place+ để vật gì vào một nơi chắc chắn\n=to be on the safe side+ để cho chắc chân\n=it is safe to say that+ có thể nói một cách chắc rằng\n- có thể tin cậy, chắc chắn\n- thận trọng, dè dặt\n=a safe critic+ một nhà phê bình thận trọng\n!safe and sound\n- bình an vô sự\n@Chuyên ngành kinh tế\n-an toàn\n-dè dặt\n-dè dặt thận trọng\n-két an toàn\n-không nguy hiểm\n-máy lạnh gia đình\n-thận trọng\n-tủ đựng tiền\n-tủ sắt\n-tủ sắt, tủ đựng tiền\n@Chuyên ngành kỹ thuật\n-an toàn\n-cho phép\n-két sắt\n-tin cậy\n@Lĩnh vực: xây dựng\n-tủ sắt\n-tủ sắt két sắt
-
+safe	@safe /seif/
+*  danh từ
+- chạn (đựng đồ ăn)
+- tủ sắt, két bạc
+*  tính từ
+- an toàn, chắc chắn
+=to feel safe+ cảm thấy an toàn
+=to see somebody safe home+ đưa người nào về nhà an toàn
+=to be safe from the enemy+ chắc chắn không bị địch tấn công
+=to put something in a safe place+ để vật gì vào một nơi chắc chắn
+=to be on the safe side+ để cho chắc chân
+=it is safe to say that+ có thể nói một cách chắc rằng
+- có thể tin cậy, chắc chắn
+- thận trọng, dè dặt
+=a safe critic+ một nhà phê bình thận trọng
+!safe and sound
+- bình an vô sự
+@Chuyên ngành kinh tế
+-an toàn
+-dè dặt
+-dè dặt thận trọng
+-két an toàn
+-không nguy hiểm
+-máy lạnh gia đình
+-thận trọng
+-tủ đựng tiền
+-tủ sắt
+-tủ sắt, tủ đựng tiền
+@Chuyên ngành kỹ thuật
+-an toàn
+-cho phép
+-két sắt
+-tin cậy
+@Lĩnh vực: xây dựng
+-tủ sắt
+-tủ sắt két sắt

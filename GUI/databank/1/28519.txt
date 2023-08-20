@@ -1,3 +1,21 @@
-inflow
-	@inflow /'inflou/\n*  danh từ\n- sự chảy vào trong\n- dòng vào\n@Chuyên ngành kỹ thuật\n-dòng\n-dòng chảy đến\n-dòng chảy vào\n-dòng phụ\n-dòng vào\n-lượng nước vào\n-luồng vào\n-sự chảy vào\n@Lĩnh vực: hóa học & vật liệu\n-dòng nước đến\n@Lĩnh vực: xây dựng\n-được đưa vào\n-sự chảy vào trong\n@Lĩnh vực: điện lạnh\n-thông thượng vào
-
+inflow	
+@inflow /'inflou/
+*  danh từ
+- sự chảy vào trong
+- dòng vào
+@Chuyên ngành kỹ thuật
+-dòng
+-dòng chảy đến
+-dòng chảy vào
+-dòng phụ
+-dòng vào
+-lượng nước vào
+-luồng vào
+-sự chảy vào
+@Lĩnh vực: hóa học & vật liệu
+-dòng nước đến
+@Lĩnh vực: xây dựng
+-được đưa vào
+-sự chảy vào trong
+@Lĩnh vực: điện lạnh
+-thông thượng vào

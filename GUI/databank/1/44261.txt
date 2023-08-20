@@ -1,3 +1,2 @@
-proteolytic
-	@Chuyên ngành kinh tế\n-protein phân giải
-
+proteolytic	@Chuyên ngành kinh tế
+-protein phân giải

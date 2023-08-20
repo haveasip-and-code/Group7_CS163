@@ -1,3 +1,4 @@
-whereof
-	@whereof /we r' v/\n*  phó từ\n- (từ cổ,nghĩa cổ) về cái gì, về ai\n- mà
-
+whereof	@whereof /we r' v/
+*  phó từ
+- (từ cổ,nghĩa cổ) về cái gì, về ai
+- mà

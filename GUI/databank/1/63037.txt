@@ -1,3 +1,62 @@
-wing
-	@wing /wi /\n*  danh từ\n- (động vật học); (thực vật học) cánh (chim, sâu bọ; qu, hạt)\n=to lend (add) wing to+ chắp cánh cho, làm cho chạy mau\n- sự bay, sự cất cánh; (nghĩa bóng) sự bay bổng\n=on the wing+ đang bay\n=to take wing+ cất cánh bay, bay đi\n- (kiến trúc) cánh, chái (nhà)\n=the east wing of a building+ chái phía đông của toà nhà\n- cánh (máy bay, quạt)\n- (hàng hi) mạn (tàu)\n- (số nhiều) (sân khấu) cánh gà\n- (quân sự) cánh\n=right wing+ cánh hữu\n=left wing+ cánh t\n- phi đội (không quân Anh); (số nhiều) phù hiệu phi công\n- (thể dục,thể thao) biên\n=right wing+ hữu biên\n=left wing+ t biên\n-(đùa cợt) cánh tay (bị thưng)\n- (thông tục) sự che chở, sự bo trợ\n=under the wing of someone+ được người nào che chở\n=to take someone under one's wing+ bo trợ ai\n!to clip someone's wings\n- hạn chế sự cử động (tham vọng, sự tiêu pha) của ai; chặt đôi cánh của ai (nghĩa bóng)\n!to come on the wings of the wind\n- đến nhanh như gió\n*  ngoại động từ\n- lắp lông vào (mũi tên)\n- thêm cánh, chắp cánh; làm cho nhanh hn\n=fear winged his steps+ sự sợ h i làm cho nó chạy nhanh như bay\n=to wing one's words+ nói liến thoắng\n- bay, bay qua\n=to wing one's way+ bay\n- bắn ra\n=to wing an arrow+ bắn mũi tên ra\n- bắn trúng cánh (con chim); (thông tục) bắn trúng cánh tay\n- (kiến trúc) làm thêm chái\n=to wing a hospital+ làm thêm chái cho một bệnh viện\n- (quân sự) bố phòng ở cánh bên\n@Chuyên ngành kỹ thuật\n-cánh cửa\n-cánh nếp uốn\n-cánh quạt\n-chái nhà\n-nhà phụ\n-tấm chắn bùn\n-vè xe\n@Lĩnh vực: xây dựng\n-cánh\n-cánh cửa xoay\n-cánh mặt đứt gãy\n-cánh mố cầu\n-cánh nhà\n-cánh tường\n-làm thêm chái nhà\n-nhà cạnh\n-nhà ngang\n@Lĩnh vực: toán & tin\n-cánh hình mũi tên\n@Lĩnh vực: ô tô\n-thanh cản va
-
+wing	@wing /wi /
+*  danh từ
+- (động vật học); (thực vật học) cánh (chim, sâu bọ; qu, hạt)
+=to lend (add) wing to+ chắp cánh cho, làm cho chạy mau
+- sự bay, sự cất cánh; (nghĩa bóng) sự bay bổng
+=on the wing+ đang bay
+=to take wing+ cất cánh bay, bay đi
+- (kiến trúc) cánh, chái (nhà)
+=the east wing of a building+ chái phía đông của toà nhà
+- cánh (máy bay, quạt)
+- (hàng hi) mạn (tàu)
+- (số nhiều) (sân khấu) cánh gà
+- (quân sự) cánh
+=right wing+ cánh hữu
+=left wing+ cánh t
+- phi đội (không quân Anh); (số nhiều) phù hiệu phi công
+- (thể dục,thể thao) biên
+=right wing+ hữu biên
+=left wing+ t biên
+-(đùa cợt) cánh tay (bị thưng)
+- (thông tục) sự che chở, sự bo trợ
+=under the wing of someone+ được người nào che chở
+=to take someone under one's wing+ bo trợ ai
+!to clip someone's wings
+- hạn chế sự cử động (tham vọng, sự tiêu pha) của ai; chặt đôi cánh của ai (nghĩa bóng)
+!to come on the wings of the wind
+- đến nhanh như gió
+*  ngoại động từ
+- lắp lông vào (mũi tên)
+- thêm cánh, chắp cánh; làm cho nhanh hn
+=fear winged his steps+ sự sợ h i làm cho nó chạy nhanh như bay
+=to wing one's words+ nói liến thoắng
+- bay, bay qua
+=to wing one's way+ bay
+- bắn ra
+=to wing an arrow+ bắn mũi tên ra
+- bắn trúng cánh (con chim); (thông tục) bắn trúng cánh tay
+- (kiến trúc) làm thêm chái
+=to wing a hospital+ làm thêm chái cho một bệnh viện
+- (quân sự) bố phòng ở cánh bên
+@Chuyên ngành kỹ thuật
+-cánh cửa
+-cánh nếp uốn
+-cánh quạt
+-chái nhà
+-nhà phụ
+-tấm chắn bùn
+-vè xe
+@Lĩnh vực: xây dựng
+-cánh
+-cánh cửa xoay
+-cánh mặt đứt gãy
+-cánh mố cầu
+-cánh nhà
+-cánh tường
+-làm thêm chái nhà
+-nhà cạnh
+-nhà ngang
+@Lĩnh vực: toán & tin
+-cánh hình mũi tên
+@Lĩnh vực: ô tô
+-thanh cản va

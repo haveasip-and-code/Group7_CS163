@@ -1,3 +1,3 @@
-loads
-	@loads\n* phó từ\n- rất nhiều
-
+loads	@loads
+* phó từ
+- rất nhiều

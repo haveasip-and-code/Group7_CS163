@@ -1,3 +1,21 @@
-sealed
-	@sealed\n* tính từ\n- kín khít; được bịt kín\n@Chuyên ngành kinh tế\n-dán kín\n-đậy kín\n-đóng kín\n-hàn\n@Chuyên ngành kỹ thuật\n-đóng kín\n-được bít kín\n-được bịt kín\n-được đóng kín\n-được hàn kín\n-được trám kín\n-kín\n-kín khít\n@Lĩnh vực: toán & tin\n-kín, niêm chặt\n@Lĩnh vực: xây dựng\n-niêm chặt
-
+sealed	@sealed
+* tính từ
+- kín khít; được bịt kín
+@Chuyên ngành kinh tế
+-dán kín
+-đậy kín
+-đóng kín
+-hàn
+@Chuyên ngành kỹ thuật
+-đóng kín
+-được bít kín
+-được bịt kín
+-được đóng kín
+-được hàn kín
+-được trám kín
+-kín
+-kín khít
+@Lĩnh vực: toán & tin
+-kín, niêm chặt
+@Lĩnh vực: xây dựng
+-niêm chặt

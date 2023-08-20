@@ -1,3 +1,45 @@
-rot
-	@rot /rɔt/\n*  danh từ\n- sự mục nát, sự thối rữa\n- (từ lóng) chuyện vớ vẩn, chuyện dại dột ((cũng) tommy rot)\n=don't talk rot!+ đừng có nói vớ vẩn!\n- ((thường) the rot) bệnh sán lá gan (ở cừu)\n- một loạt những thất bại (trong môn crickê, trong chiến tranh...)\n=a rot set in+ bắt đầu một loạt những thất bại\n- tình trạng phiền toái khó chịu\n*  nội động từ\n- mục rữa\n- nói đùa, nói bỡn; chòng ghẹo, trêu tức; nói mỉa\n- chết mòn, kiệt quệ dần\n=to be left to rot in goal+ bị ngồi tù đến chết dần chết mòn\n*  ngoại động từ\n- làm cho mục nát\n- (từ lóng) làm hỏng, làm đảo lộn (kế hoạch...)\n- nói dối, lừa phỉnh (ai)\n!to rot about\n- lơ vơ lẩn vẩn lãng phí thì giờ\n!to rot away\n- chết dần chết mòn\n!to rot off\n- tàn héo, tàn tạ\n@Chuyên ngành kinh tế\n-chỗ mục\n-hỏng\n-mục nát\n-thối rữa\n-vật mục\n@Chuyên ngành kỹ thuật\n-gỗ mục\n-mục\n-rữa\n-sự mục nát\n-sự phong hóa\n-thối rữa\n@Lĩnh vực: y học\n-bệnh sán lá gan\n-sự phân hủy, thối rữa\n@Lĩnh vực: giao thông & vận tải\n-chỗ mục (gỗ)\n@Lĩnh vực: xây dựng\n-thối, hỏng (gỗ)\n-vật mục
-
+rot	@rot /rɔt/
+*  danh từ
+- sự mục nát, sự thối rữa
+- (từ lóng) chuyện vớ vẩn, chuyện dại dột ((cũng) tommy rot)
+=don't talk rot!+ đừng có nói vớ vẩn!
+- ((thường) the rot) bệnh sán lá gan (ở cừu)
+- một loạt những thất bại (trong môn crickê, trong chiến tranh...)
+=a rot set in+ bắt đầu một loạt những thất bại
+- tình trạng phiền toái khó chịu
+*  nội động từ
+- mục rữa
+- nói đùa, nói bỡn; chòng ghẹo, trêu tức; nói mỉa
+- chết mòn, kiệt quệ dần
+=to be left to rot in goal+ bị ngồi tù đến chết dần chết mòn
+*  ngoại động từ
+- làm cho mục nát
+- (từ lóng) làm hỏng, làm đảo lộn (kế hoạch...)
+- nói dối, lừa phỉnh (ai)
+!to rot about
+- lơ vơ lẩn vẩn lãng phí thì giờ
+!to rot away
+- chết dần chết mòn
+!to rot off
+- tàn héo, tàn tạ
+@Chuyên ngành kinh tế
+-chỗ mục
+-hỏng
+-mục nát
+-thối rữa
+-vật mục
+@Chuyên ngành kỹ thuật
+-gỗ mục
+-mục
+-rữa
+-sự mục nát
+-sự phong hóa
+-thối rữa
+@Lĩnh vực: y học
+-bệnh sán lá gan
+-sự phân hủy, thối rữa
+@Lĩnh vực: giao thông & vận tải
+-chỗ mục (gỗ)
+@Lĩnh vực: xây dựng
+-thối, hỏng (gỗ)
+-vật mục

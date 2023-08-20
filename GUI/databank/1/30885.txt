@@ -1,3 +1,14 @@
-keystroke
-	@keystroke\n- (động tác) gõ phím, nhấn phím\n@Chuyên ngành kỹ thuật\n-nhấn phím\n-sự gõ phím\n-sự nhấn phím\n@Lĩnh vực: điện tử & viễn thông\n-đánh phím\n@Chuyên ngành kỹ thuật\n-nhấn phím\n-sự gõ phím\n-sự nhấn phím\n@Lĩnh vực: điện tử & viễn thông\n-đánh phím
-
+keystroke	@keystroke
+- (động tác) gõ phím, nhấn phím
+@Chuyên ngành kỹ thuật
+-nhấn phím
+-sự gõ phím
+-sự nhấn phím
+@Lĩnh vực: điện tử & viễn thông
+-đánh phím
+@Chuyên ngành kỹ thuật
+-nhấn phím
+-sự gõ phím
+-sự nhấn phím
+@Lĩnh vực: điện tử & viễn thông
+-đánh phím

@@ -1,3 +1,22 @@
-sew
-	@sew /sou/\n*  động từ sewed\n/soud/,  sewn\n/soun/\n- may khâu\n=to sew piece together+ khâu những mảnh vào với nhau\n=to sew (on) a button+ đinh khuy\n=to sew in a patch+ khâu miếng vá\n- đóng (trang sách)\n!to sew up\n- khâu lại\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) nắm quyền tuyệt đối, nắm độc quyền\n!to be sewed up\n- (từ lóng) mệt lử, mệt nhoài\n- say\n!to sew someone up\n- (từ lóng) làm cho ai mệt lử\n@Chuyên ngành kinh tế\n-buộc dây\n-thắt chặt\n@Chuyên ngành kỹ thuật\n-khâu
-
+sew	@sew /sou/
+*  động từ sewed
+/soud/,  sewn
+/soun/
+- may khâu
+=to sew piece together+ khâu những mảnh vào với nhau
+=to sew (on) a button+ đinh khuy
+=to sew in a patch+ khâu miếng vá
+- đóng (trang sách)
+!to sew up
+- khâu lại
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nắm quyền tuyệt đối, nắm độc quyền
+!to be sewed up
+- (từ lóng) mệt lử, mệt nhoài
+- say
+!to sew someone up
+- (từ lóng) làm cho ai mệt lử
+@Chuyên ngành kinh tế
+-buộc dây
+-thắt chặt
+@Chuyên ngành kỹ thuật
+-khâu

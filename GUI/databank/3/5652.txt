@@ -1,3 +1,7 @@
-bipod
-	@bipod\n* danh từ\n- giá hai chân\n@Chuyên ngành kỹ thuật\n-giá hai chân\n@Lĩnh vực: cơ khí & công trình\n-hai chấu
-
+bipod	@bipod
+* danh từ
+- giá hai chân
+@Chuyên ngành kỹ thuật
+-giá hai chân
+@Lĩnh vực: cơ khí & công trình
+-hai chấu

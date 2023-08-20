@@ -1,3 +1,2 @@
-propagandizer
-	@propagandizer\n- xem propagandize
-
+propagandizer	@propagandizer
+- xem propagandize

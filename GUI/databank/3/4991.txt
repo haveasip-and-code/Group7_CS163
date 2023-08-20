@@ -1,3 +1,15 @@
-beast
-	@beast /bi:st/\n*  danh từ\n- thú vật, súc vật\n=beast of prey+ thú săn mồi\n- (số nhiều không đổi) thú nuôi, gia súc\n- người hung bạo\n- người mình ghét\n!the Beast\n- kẻ thù của Chúa\n!the beast\n- thú tính (trong con người)\n@Chuyên ngành kinh tế\n-súc vật\n-thú nuôi\n-thú vật
-
+beast	@beast /bi:st/
+*  danh từ
+- thú vật, súc vật
+=beast of prey+ thú săn mồi
+- (số nhiều không đổi) thú nuôi, gia súc
+- người hung bạo
+- người mình ghét
+!the Beast
+- kẻ thù của Chúa
+!the beast
+- thú tính (trong con người)
+@Chuyên ngành kinh tế
+-súc vật
+-thú nuôi
+-thú vật

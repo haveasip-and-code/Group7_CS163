@@ -1,3 +1,13 @@
-virtual
-	@virtual /'və:tjuəl/\n*  tính từ\n- thực sự, thực tế\n=a virtual promise+ lời hứa thực sự\n=the virtual leader+ người lãnh đạo thực sự\n- (vật lý) áo\n=virtual focus+ tiêu điểm ảo\n@Chuyên ngành kỹ thuật\n-ảo\n-ảo giác\n-hiệu dụng\n@Lĩnh vực: xây dựng\n-mãnh liệt
-
+virtual	@virtual /'və:tjuəl/
+*  tính từ
+- thực sự, thực tế
+=a virtual promise+ lời hứa thực sự
+=the virtual leader+ người lãnh đạo thực sự
+- (vật lý) áo
+=virtual focus+ tiêu điểm ảo
+@Chuyên ngành kỹ thuật
+-ảo
+-ảo giác
+-hiệu dụng
+@Lĩnh vực: xây dựng
+-mãnh liệt

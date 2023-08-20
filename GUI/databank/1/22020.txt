@@ -1,3 +1,24 @@
-format
-	@format /'fɔ:mæt/\n*  danh từ\n- khổ (sách, giấy, bìa...)\n@Chuyên ngành kinh tế\n-bản mẫu\n-cỡ\n-dạng\n-khổ\n-khuôn khổ\n@Chuyên ngành kỹ thuật\n-biểu mẫu\n-dạng\n-định dạng\n-hình thức\n-khổ\n-khuôn\n-khuôn dạng\n-khuôn thức\n-mẫu\n@Lĩnh vực: toán & tin\n-dạng mẫu\n-dạng thức\n-quy cách
-
+format	
+@format /'fɔ:mæt/
+*  danh từ
+- khổ (sách, giấy, bìa...)
+@Chuyên ngành kinh tế
+-bản mẫu
+-cỡ
+-dạng
+-khổ
+-khuôn khổ
+@Chuyên ngành kỹ thuật
+-biểu mẫu
+-dạng
+-định dạng
+-hình thức
+-khổ
+-khuôn
+-khuôn dạng
+-khuôn thức
+-mẫu
+@Lĩnh vực: toán & tin
+-dạng mẫu
+-dạng thức
+-quy cách

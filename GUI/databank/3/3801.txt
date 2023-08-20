@@ -1,3 +1,19 @@
-atmosphere
-	@atmosphere /'ætməsfiə/\n*  danh từ\n- quyển khí\n=upper atmosphere+ tầng quyển khí cao\n=outer atmosphere+ tầng quyển khí ngoài\n- không khí (nghĩa đen) & bóng\n=the noisy atmosphere of a big city+ không khí náo nhiệt của một thành phố lớn\n=tense atmosphere+ không khí căng thẳng\n- Atmôfe (đơn vị)\n=absolute atmosphere+ atmôtfe tuyệt đối\n=normal atmosphere+ atmôfe tiêu chuẩn\n=technical atmosphere+ atmôfe kỹ thuật\n@Chuyên ngành kỹ thuật\n-khí quyển\n-không khí\n-môi trường\n-quyển khí\n@Lĩnh vực: điện lạnh\n-môi trường (khí)
-
+atmosphere	@atmosphere /'ætməsfiə/
+*  danh từ
+- quyển khí
+=upper atmosphere+ tầng quyển khí cao
+=outer atmosphere+ tầng quyển khí ngoài
+- không khí (nghĩa đen) & bóng
+=the noisy atmosphere of a big city+ không khí náo nhiệt của một thành phố lớn
+=tense atmosphere+ không khí căng thẳng
+- Atmôfe (đơn vị)
+=absolute atmosphere+ atmôtfe tuyệt đối
+=normal atmosphere+ atmôfe tiêu chuẩn
+=technical atmosphere+ atmôfe kỹ thuật
+@Chuyên ngành kỹ thuật
+-khí quyển
+-không khí
+-môi trường
+-quyển khí
+@Lĩnh vực: điện lạnh
+-môi trường (khí)

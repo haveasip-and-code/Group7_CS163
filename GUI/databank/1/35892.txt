@@ -1,3 +1,5 @@
-mudflats
-	@Chuyên ngành kỹ thuật\n-bãi lầy\n-đầm lầy\n@Lĩnh vực: giao thông & vận tải\n-thềm bùn
-
+mudflats	@Chuyên ngành kỹ thuật
+-bãi lầy
+-đầm lầy
+@Lĩnh vực: giao thông & vận tải
+-thềm bùn

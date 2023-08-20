@@ -1,3 +1,16 @@
-reproduce
-	@reproduce /,ri:prə'dju:s/\n*  động từ\n- tái sản xuất\n- làm sinh sôi nẩy nở; tái sinh, mọc lại\n=can lizards reproduce their tails?+ thằn lằn có thể mọc lại đuôi không?\n- sao chép, sao lại, mô phỏng\n=to reproduce a picture+ sao lại một bức tranh\n@Chuyên ngành kinh tế\n-tái sản xuất\n@Chuyên ngành kỹ thuật\n-sao lại\n-tạo bản sao\n@Lĩnh vực: xây dựng\n-sao chép lại\n@Lĩnh vực: toán & tin\n-sao chụp lại
-
+reproduce	@reproduce /,ri:prə'dju:s/
+*  động từ
+- tái sản xuất
+- làm sinh sôi nẩy nở; tái sinh, mọc lại
+=can lizards reproduce their tails?+ thằn lằn có thể mọc lại đuôi không?
+- sao chép, sao lại, mô phỏng
+=to reproduce a picture+ sao lại một bức tranh
+@Chuyên ngành kinh tế
+-tái sản xuất
+@Chuyên ngành kỹ thuật
+-sao lại
+-tạo bản sao
+@Lĩnh vực: xây dựng
+-sao chép lại
+@Lĩnh vực: toán & tin
+-sao chụp lại

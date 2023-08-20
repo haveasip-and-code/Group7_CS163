@@ -1,3 +1,6 @@
-supertanker
-	@supertanker\n* danh từ\n- tàu chở dầu cực lớn\n@Chuyên ngành kinh tế\n-tàu đầu khổng lồ\n-tàu đầu siêu cấp
-
+supertanker	@supertanker
+* danh từ
+- tàu chở dầu cực lớn
+@Chuyên ngành kinh tế
+-tàu đầu khổng lồ
+-tàu đầu siêu cấp

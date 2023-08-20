@@ -1,3 +1,7 @@
-reproducibility
-	@reproducibility\n- tính tái sản xuất được, tính sản lại được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khả năng tái sinh\n@Lĩnh vực: điện lạnh\n-tính lặp lại được
-
+reproducibility	@reproducibility
+- tính tái sản xuất được, tính sản lại được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khả năng tái sinh
+@Lĩnh vực: điện lạnh
+-tính lặp lại được

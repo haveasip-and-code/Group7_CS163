@@ -1,3 +1,2 @@
-diagraph
-	@Chuyên ngành kỹ thuật\n-phân độ xích
-
+diagraph	@Chuyên ngành kỹ thuật
+-phân độ xích

@@ -1,3 +1,4 @@
-advices
-	@Chuyên ngành kinh tế\n-tin tức\n-tin tức (thông báo)
-
+advices	
+@Chuyên ngành kinh tế
+-tin tức
+-tin tức (thông báo)

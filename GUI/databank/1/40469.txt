@@ -1,3 +1,2 @@
-peopler
-	@peopler\n- xem people
-
+peopler	@peopler
+- xem people

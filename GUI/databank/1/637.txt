@@ -1,3 +1,14 @@
-actor
-	@actor /'æktə/\n*  danh từ\n- diễn viên (kịch, tuồng, chèo, điện ảnh...); kép, kép hát\n=film actor+ tài tử đóng phim, diễn viên điện ảnh\n- (từ hiếm,nghĩa hiếm) người làm (một việc gì)\n=a bad actor+ (từ Mỹ,nghĩa Mỹ) người khó tin cậy\n@Chuyên ngành kỹ thuật\n-người hành động\n@Lĩnh vực: vật lý\n-cấu tác động\n-cấu thực hiện\n@Lĩnh vực: hóa học & vật liệu\n-chất đồng tác
-
+actor	
+@actor /'æktə/
+*  danh từ
+- diễn viên (kịch, tuồng, chèo, điện ảnh...); kép, kép hát=film actor
++ tài tử đóng phim, diễn viên điện ảnh
+- (từ hiếm,nghĩa hiếm) người làm (một việc gì)=a bad actor
++ (từ Mỹ,nghĩa Mỹ) người khó tin cậy
+@Chuyên ngành kỹ thuật
+-người hành động
+@Lĩnh vực: vật lý
+-cấu tác động
+-cấu thực hiện
+@Lĩnh vực: hóa học & vật liệu
+-chất đồng tác

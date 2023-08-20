@@ -1,3 +1,2 @@
-tost
-	@tost\n- xem toss
-
+tost	@tost
+- xem toss

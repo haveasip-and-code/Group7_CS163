@@ -1,3 +1,17 @@
-overlapping
-	@overlapping\n* danh từ\n- sự chồng\n- độ chập; độ trùng khớp (bánh răng)\n@Chuyên ngành kỹ thuật\n-phủ chờm\n-sự phủ nhau\n-tấm che\n-tấm lợp\n@Lĩnh vực: xây dựng\n-đường nảy mực\n-trần ngăn\n@Lĩnh vực: điện lạnh\n-sự chồng chéo\n@Lĩnh vực: toán & tin\n-sự gối lên nhau\n-sự lấn lên nhau
-
+overlapping	@overlapping
+* danh từ
+- sự chồng
+- độ chập; độ trùng khớp (bánh răng)
+@Chuyên ngành kỹ thuật
+-phủ chờm
+-sự phủ nhau
+-tấm che
+-tấm lợp
+@Lĩnh vực: xây dựng
+-đường nảy mực
+-trần ngăn
+@Lĩnh vực: điện lạnh
+-sự chồng chéo
+@Lĩnh vực: toán & tin
+-sự gối lên nhau
+-sự lấn lên nhau

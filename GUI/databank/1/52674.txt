@@ -1,3 +1,13 @@
-sprag
-	@sprag /spræg/\n*  danh từ\n- miếng gỗ chèn xe\n@Chuyên ngành kỹ thuật\n-cột chống\n-cột trống\n-giá đỡ\n-nạng nâng\n-miếng gỗ chèn xe\n@Lĩnh vực: xây dựng\n-gỗ chèm\n@Lĩnh vực: cơ khí & công trình\n-miếng nâng (trong bộ đệm chạy tuôn)
-
+sprag	@sprag /spræg/
+*  danh từ
+- miếng gỗ chèn xe
+@Chuyên ngành kỹ thuật
+-cột chống
+-cột trống
+-giá đỡ
+-nạng nâng
+-miếng gỗ chèn xe
+@Lĩnh vực: xây dựng
+-gỗ chèm
+@Lĩnh vực: cơ khí & công trình
+-miếng nâng (trong bộ đệm chạy tuôn)

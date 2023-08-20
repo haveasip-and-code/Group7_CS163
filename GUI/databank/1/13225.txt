@@ -1,3 +1,18 @@
-customs
-	@customs\n* danh từ số nhiều\n- thuế đánh vào hàng nhập từ nước ngoài vào; thuế nhập khẩu\n= to pay customs on something+đóng thuế nhập khẩu cái gì\n- cơ quan chính phủ thu sắc thuế này; hải quan\n= The Customs have found heroin hidden in freight+Hải quan đã tìm ra hê rô in giấu trong lô hàng\n= customs officer+cán bộ hải quan\n= customs duty+thuế hải quan\n= customs formalities+thủ tục hải quan\n= a customs check/search+cuộc kiểm tra/khám xét của hải quan\n= how long does it take to get through customs?+làm thủ tục hải quan mất bao lâu?\n@Chuyên ngành kinh tế\n-hải quan\n@Chuyên ngành kỹ thuật\n-hải quan\n@Lĩnh vực: điện\n-thuế hải quan
-
+customs	
+@customs
+* danh từ số nhiều
+- thuế đánh vào hàng nhập từ nước ngoài vào; thuế nhập khẩu= to pay customs on something
++đóng thuế nhập khẩu cái gì
+- cơ quan chính phủ thu sắc thuế này; hải quan= The Customs have found heroin hidden in freight
++Hải quan đã tìm ra hê rô in giấu trong lô hàng= customs officer
++cán bộ hải quan= customs duty
++thuế hải quan= customs formalities
++thủ tục hải quan= a customs check/search
++cuộc kiểm tra/khám xét của hải quan= how long does it take to get through customs?
++làm thủ tục hải quan mất bao lâu?
+@Chuyên ngành kinh tế
+-hải quan
+@Chuyên ngành kỹ thuật
+-hải quan
+@Lĩnh vực: điện
+-thuế hải quan

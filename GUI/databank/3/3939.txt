@@ -1,3 +1,2 @@
-audiometric
-	@audiometric\n- xem audiometer
-
+audiometric	@audiometric
+- xem audiometer

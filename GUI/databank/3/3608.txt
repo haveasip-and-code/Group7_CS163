@@ -1,3 +1,4 @@
-assertor
-	@assertor /ə'sə:tə/\n*  danh từ\n- người xác nhận, người khẳng định\n- người bênh vực (lẽ phải, sự thật...)
-
+assertor	@assertor /ə'sə:tə/
+*  danh từ
+- người xác nhận, người khẳng định
+- người bênh vực (lẽ phải, sự thật...)

@@ -1,3 +1,4 @@
-ancestry
-	@ancestry /'ænsistri/\n*  danh từ\n- tổ tiên, tổ tông, tông môn\n- dòng họ
-
+ancestry	@ancestry /'ænsistri/
+*  danh từ
+- tổ tiên, tổ tông, tông môn
+- dòng họ

@@ -1,3 +1,9 @@
-workability
-	@Chuyên ngành kỹ thuật\n-khả năng khai thác\n-tính dễ gia công\n@Lĩnh vực: xây dựng\n-dễ tạo hình (đối với bê tông)\n-tính dễ gia công (vật liệu)\n-tính dễ thi công\n@Lĩnh vực: hóa học & vật liệu\n-khả năng gia công
-
+workability	@Chuyên ngành kỹ thuật
+-khả năng khai thác
+-tính dễ gia công
+@Lĩnh vực: xây dựng
+-dễ tạo hình (đối với bê tông)
+-tính dễ gia công (vật liệu)
+-tính dễ thi công
+@Lĩnh vực: hóa học & vật liệu
+-khả năng gia công

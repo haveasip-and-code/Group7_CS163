@@ -1,3 +1,31 @@
-statement
-	@statement /'steitmənt/\n*  danh từ\n- sự bày tỏ, sự trình bày, sự phát biểu\n=to require clearer statement+ cần được trình bày rõ ràng hơn nữa\n- lời tuyên bố; bản tuyên bố\n=a well-founded statement+ lời tuyên bố có cơ sở\n=joint statement+ bản tuyên bố chung\n@Chuyên ngành kinh tế\n-bản báo cáo\n-bản báo cáo tài chính\n-bản kê\n-bản kê khai\n-bản kết toán\n-bản tính toán\n-bản tường trình\n-báo cáo\n-biểu\n-lời tuyên bố\n-thuyết minh\n@Chuyên ngành kỹ thuật\n-hướng dẫn\n-lệnh\n-mệnh đề\n-sự phát biểu\n@Lĩnh vực: toán & tin\n-câu lệnh\n-câu lệnh (trong chương trình)\n-câu lệnh khai báo\n-chỉ lệnh\n@Lĩnh vực: xây dựng\n-tờ khai
-
+statement	@statement /'steitmənt/
+*  danh từ
+- sự bày tỏ, sự trình bày, sự phát biểu
+=to require clearer statement+ cần được trình bày rõ ràng hơn nữa
+- lời tuyên bố; bản tuyên bố
+=a well-founded statement+ lời tuyên bố có cơ sở
+=joint statement+ bản tuyên bố chung
+@Chuyên ngành kinh tế
+-bản báo cáo
+-bản báo cáo tài chính
+-bản kê
+-bản kê khai
+-bản kết toán
+-bản tính toán
+-bản tường trình
+-báo cáo
+-biểu
+-lời tuyên bố
+-thuyết minh
+@Chuyên ngành kỹ thuật
+-hướng dẫn
+-lệnh
+-mệnh đề
+-sự phát biểu
+@Lĩnh vực: toán & tin
+-câu lệnh
+-câu lệnh (trong chương trình)
+-câu lệnh khai báo
+-chỉ lệnh
+@Lĩnh vực: xây dựng
+-tờ khai

@@ -1,3 +1,2 @@
-pieces
-	@Chuyên ngành kỹ thuật\n-linh kiện
-
+pieces	@Chuyên ngành kỹ thuật
+-linh kiện

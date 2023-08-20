@@ -1,3 +1,6 @@
-counting
-	@Chuyên ngành kinh tế\n-sự tính (toán)\n@Chuyên ngành kỹ thuật\n-đếm\n-tính
-
+counting	
+@Chuyên ngành kinh tế
+-sự tính (toán)
+@Chuyên ngành kỹ thuật
+-đếm
+-tính

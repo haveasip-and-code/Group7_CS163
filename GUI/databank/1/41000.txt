@@ -1,3 +1,2 @@
-phagocytize
-	@phagocytize\n- xem phagocytise
-
+phagocytize	@phagocytize
+- xem phagocytise

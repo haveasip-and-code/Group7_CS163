@@ -1,3 +1,13 @@
-commute
-	@commute /kə'mju:t/\n*  động từ\n- thay thế, thay đổi nhau, đổi nhau, giao hoán\n- (pháp lý) giảm (hình phạt, tội)\n=to commute the dealth penalty to life imprisonment+ làm giảm tội tử hình xuống tù chung thân\n- (từ Mỹ,nghĩa Mỹ) đi làm hằng ngày bằng vé tháng; đi lại đều đặn (giữa hai địa điểm)\n- (điện học) đảo mạch, chuyển mạch\n@Chuyên ngành kỹ thuật\n-chuyển mạch\n-giao hoán\n@Lĩnh vực: xây dựng\n-giao toán\n-trao đổi lẫn nhau
-
+commute	@commute /kə'mju:t/
+*  động từ
+- thay thế, thay đổi nhau, đổi nhau, giao hoán
+- (pháp lý) giảm (hình phạt, tội)
+=to commute the dealth penalty to life imprisonment+ làm giảm tội tử hình xuống tù chung thân
+- (từ Mỹ,nghĩa Mỹ) đi làm hằng ngày bằng vé tháng; đi lại đều đặn (giữa hai địa điểm)
+- (điện học) đảo mạch, chuyển mạch
+@Chuyên ngành kỹ thuật
+-chuyển mạch
+-giao hoán
+@Lĩnh vực: xây dựng
+-giao toán
+-trao đổi lẫn nhau

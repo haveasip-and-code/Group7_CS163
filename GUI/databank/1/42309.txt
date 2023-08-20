@@ -1,3 +1,2 @@
-pokily
-	@pokily\n- xem poky
-
+pokily	@pokily
+- xem poky

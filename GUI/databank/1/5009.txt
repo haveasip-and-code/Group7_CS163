@@ -1,3 +1,4 @@
-beautifier
-	@beautifier /'bju:tifaiə/\n*  danh từ\n- người làm đẹp, người tô điểm
-
+beautifier	
+@beautifier /'bju:tifaiə/
+*  danh từ
+- người làm đẹp, người tô điểm

@@ -1,3 +1,22 @@
-cancellation
-	@cancellation /,kænse'leiʃn/\n*  danh từ\n- sự bỏ, sự huỷ bỏ; sự xoá bỏ, sự bãi bỏ\n- dấu xoá bỏ\n- (toán học) sự khử, sự ước lược\n@Chuyên ngành kinh tế\n-giải ước\n-hủy bỏ\n-sự hủy bỏ\n-sự thủ tiêu\n@Chuyên ngành kỹ thuật\n-hủy bỏ\n-sự cắt\n-sự hủy\n-sự khử\n-sự triệt tiêu\n-thanh toán (nợ)\n-xóa bỏ\n@Lĩnh vực: toán & tin\n-sự giản ước\n-sự triệt tiêu nhau
-
+cancellation	
+@cancellation /,kænse'leiʃn/
+*  danh từ
+- sự bỏ, sự huỷ bỏ; sự xoá bỏ, sự bãi bỏ
+- dấu xoá bỏ
+- (toán học) sự khử, sự ước lược
+@Chuyên ngành kinh tế
+-giải ước
+-hủy bỏ
+-sự hủy bỏ
+-sự thủ tiêu
+@Chuyên ngành kỹ thuật
+-hủy bỏ
+-sự cắt
+-sự hủy
+-sự khử
+-sự triệt tiêu
+-thanh toán (nợ)
+-xóa bỏ
+@Lĩnh vực: toán & tin
+-sự giản ước
+-sự triệt tiêu nhau

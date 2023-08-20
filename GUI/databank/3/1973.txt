@@ -1,3 +1,2 @@
-ampullar
-	@ampullar\n- xem ampulla
-
+ampullar	@ampullar
+- xem ampulla

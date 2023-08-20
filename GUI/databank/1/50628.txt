@@ -1,3 +1,12 @@
-sideslip
-	@sideslip ['said'slip]\n*danh từ\n-  sự trượt sang một bên của xe có động cơ\n-  (hàng không) sự bay liệng (sự bay nghiêng của một máy bay đang lượn vòng)\n-  mầm cây\n-  con hoang\n-  (sân khấu) cánh gà sân khấu (nơi kéo phông, kéo màn...)\n*nội động từ\n-  trượt sang một bên, dịch sang một bên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sự trượt bên
-
+sideslip	@sideslip ['said'slip]
+*danh từ
+-  sự trượt sang một bên của xe có động cơ
+-  (hàng không) sự bay liệng (sự bay nghiêng của một máy bay đang lượn vòng)
+-  mầm cây
+-  con hoang
+-  (sân khấu) cánh gà sân khấu (nơi kéo phông, kéo màn...)
+*nội động từ
+-  trượt sang một bên, dịch sang một bên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sự trượt bên

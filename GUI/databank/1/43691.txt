@@ -1,3 +1,10 @@
-prison
-	@prison /prison/\n*  danh từ\n- nhà tù, nhà lao, nhà giam\n=to send someone to prison; to put (throw) someone in prison+ bỏ ai vào tù\n=to be in prison+ bị bắt giam\n*  ngoại động từ\n- (thơ ca) bỏ tù, bỏ ngục, giam cầm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà tù
-
+prison	@prison /prison/
+*  danh từ
+- nhà tù, nhà lao, nhà giam
+=to send someone to prison; to put (throw) someone in prison+ bỏ ai vào tù
+=to be in prison+ bị bắt giam
+*  ngoại động từ
+- (thơ ca) bỏ tù, bỏ ngục, giam cầm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà tù

@@ -1,3 +1,2 @@
-scenarios
-	@Chuyên ngành kỹ thuật\n-kịch bản
-
+scenarios	@Chuyên ngành kỹ thuật
+-kịch bản

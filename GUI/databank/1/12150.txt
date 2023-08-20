@@ -1,3 +1,17 @@
-costing
-	@costing\n- (Tech) định giá\n@Chuyên ngành kinh tế\n-cách tính giá thành\n-cách tính phí tổn\n-định giá thành\n-sự định phí tổn\n@Chuyên ngành kỹ thuật\n-đánh giá\n-dự toán\n-ước lượng\n@Lĩnh vực: xây dựng\n-dự chi\n-dự toán chi phí\n@Lĩnh vực: cơ khí & công trình\n-sự tính giá thành
-
+costing	
+@costing
+- (Tech) định giá
+@Chuyên ngành kinh tế
+-cách tính giá thành
+-cách tính phí tổn
+-định giá thành
+-sự định phí tổn
+@Chuyên ngành kỹ thuật
+-đánh giá
+-dự toán
+-ước lượng
+@Lĩnh vực: xây dựng
+-dự chi
+-dự toán chi phí
+@Lĩnh vực: cơ khí & công trình
+-sự tính giá thành

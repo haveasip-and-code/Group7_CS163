@@ -1,3 +1,9 @@
-notification
-	@notification /,noutifi'keiʃn/\n*  danh từ\n- sự báo, sự khai báo; sự thông báo\n@Chuyên ngành kinh tế\n-thông cáo\n-thư thông báo\n@Chuyên ngành kỹ thuật\n-sự báo\n-sự thông báo
-
+notification	@notification /,noutifi'keiʃn/
+*  danh từ
+- sự báo, sự khai báo; sự thông báo
+@Chuyên ngành kinh tế
+-thông cáo
+-thư thông báo
+@Chuyên ngành kỹ thuật
+-sự báo
+-sự thông báo

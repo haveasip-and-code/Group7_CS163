@@ -1,3 +1,13 @@
-frequency
-	@frequency\n- (Tech) tần số\n@Chuyên ngành kinh tế\n-tần số\n-tần số xuất hiện\n-tần suất xuất hiện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-số lần\n-tấn suất\n@Lĩnh vực: xây dựng\n-tần xuất
-
+frequency	
+@frequency
+- (Tech) tần số
+@Chuyên ngành kinh tế
+-tần số
+-tần số xuất hiện
+-tần suất xuất hiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-số lần
+-tấn suất
+@Lĩnh vực: xây dựng
+-tần xuất

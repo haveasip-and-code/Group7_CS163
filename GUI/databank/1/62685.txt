@@ -1,3 +1,6 @@
-weldment
-	@Chuyên ngành kỹ thuật\n-bộ hàn\n-kết cấu hàn\n@Lĩnh vực: vật lý\n-bộ phận hàn\n-sản phẩm hàn
-
+weldment	@Chuyên ngành kỹ thuật
+-bộ hàn
+-kết cấu hàn
+@Lĩnh vực: vật lý
+-bộ phận hàn
+-sản phẩm hàn

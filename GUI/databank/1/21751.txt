@@ -1,3 +1,4 @@
-foodstuff
-	@foodstuff\n* danh từ\n- thực phẩm
-
+foodstuff	
+@foodstuff
+* danh từ
+- thực phẩm

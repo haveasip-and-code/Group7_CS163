@@ -1,3 +1,64 @@
-body
-	@body /'bɔdi/\n*  danh từ\n- thân thể, thể xác\n=sound in mind and body+ lành mạnh cả tâm hồn lẫn thể xác\n- xác chết, thi thể\n- thân (máy, xe, tàu, cây...)\n=the body of a machine+ thân máy\n- nhóm, đoàn, đội, ban, hội đồng\n=a legislative body+ hội đồng lập pháp\n=the diplomatic body+ đoàn ngoại giao\n=a body of cavalry+ đội kỵ binh\n=an examining body+ ban chấm thi\n- khối; số lượng lớn; nhiều\n=to have a large body of facts to prove one's statements+ có nhiều sự kiện để chứng minh những lời phát biểu của mình\n- con người, người\n=a nice body+ (thông tục) một người tốt\n- vật thể\n=a solid body+ vật thể rắn\n=heavenly bodies+ thiên thể\n*  ngoại động từ\n- tạo nên một hình thể cho (cái gì)\n- ((thường) + forth) thể hiện, tượng trưng\n@Chuyên ngành kinh tế\n-chất nền\n-cơ quan\n-độ đặc\n-tổ chức\n-vật thể\n@Chuyên ngành kỹ thuật\n-cabin\n-đế\n-độ nhớt\n-độ sệt\n-giá\n-giá đỡ\n-hạt (dầu)\n-hộp\n-khối\n-khung\n-khung xe\n-phần chính\n-sườn\n-thân bulông\n-thùng xe\n-vật\n-vật thể\n-vỏ\n-vỏ máy\n@Lĩnh vực: giao thông & vận tải\n-khung toa\n-sườn toa\n@Lĩnh vực: xây dựng\n-lớp nền (sơn)\n-thân khung xe\n-vật (thể)\n@Lĩnh vực: ô tô\n-thân\n-thân vật thể\n-thùng, thân xe\n@Lĩnh vực: điện lạnh\n-thân người\n@Lĩnh vực: cơ khí & công trình\n-thân trục (cán)\n-thùng thân xe
-
+body	@body /'bɔdi/
+*  danh từ
+- thân thể, thể xác
+=sound in mind and body+ lành mạnh cả tâm hồn lẫn thể xác
+- xác chết, thi thể
+- thân (máy, xe, tàu, cây...)
+=the body of a machine+ thân máy
+- nhóm, đoàn, đội, ban, hội đồng
+=a legislative body+ hội đồng lập pháp
+=the diplomatic body+ đoàn ngoại giao
+=a body of cavalry+ đội kỵ binh
+=an examining body+ ban chấm thi
+- khối; số lượng lớn; nhiều
+=to have a large body of facts to prove one's statements+ có nhiều sự kiện để chứng minh những lời phát biểu của mình
+- con người, người
+=a nice body+ (thông tục) một người tốt
+- vật thể
+=a solid body+ vật thể rắn
+=heavenly bodies+ thiên thể
+*  ngoại động từ
+- tạo nên một hình thể cho (cái gì)
+- ((thường) + forth) thể hiện, tượng trưng
+@Chuyên ngành kinh tế
+-chất nền
+-cơ quan
+-độ đặc
+-tổ chức
+-vật thể
+@Chuyên ngành kỹ thuật
+-cabin
+-đế
+-độ nhớt
+-độ sệt
+-giá
+-giá đỡ
+-hạt (dầu)
+-hộp
+-khối
+-khung
+-khung xe
+-phần chính
+-sườn
+-thân bulông
+-thùng xe
+-vật
+-vật thể
+-vỏ
+-vỏ máy
+@Lĩnh vực: giao thông & vận tải
+-khung toa
+-sườn toa
+@Lĩnh vực: xây dựng
+-lớp nền (sơn)
+-thân khung xe
+-vật (thể)
+@Lĩnh vực: ô tô
+-thân
+-thân vật thể
+-thùng, thân xe
+@Lĩnh vực: điện lạnh
+-thân người
+@Lĩnh vực: cơ khí & công trình
+-thân trục (cán)
+-thùng thân xe

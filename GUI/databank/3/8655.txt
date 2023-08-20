@@ -1,3 +1,14 @@
-chaining
-	@chaining\n- (Tech) móc xích, móc nối, nối kết, chuỗi\n@Chuyên ngành kỹ thuật\n-chuỗi\n-dãy\n-đo bằng thước dây\n-lập chuỗi\n-sự định tuyến\n-sự liên kết\n-sự móc nối\n@Lĩnh vực: toán & tin\n-kỹ thuật móc nối\n@Lĩnh vực: y học\n-sự kết chuỗi
-
+chaining	@chaining
+- (Tech) móc xích, móc nối, nối kết, chuỗi
+@Chuyên ngành kỹ thuật
+-chuỗi
+-dãy
+-đo bằng thước dây
+-lập chuỗi
+-sự định tuyến
+-sự liên kết
+-sự móc nối
+@Lĩnh vực: toán & tin
+-kỹ thuật móc nối
+@Lĩnh vực: y học
+-sự kết chuỗi

@@ -1,3 +1,20 @@
-captain
-	@captain /'kæptin/\n*  danh từ\n- người cầm đầu, người chỉ huy, thủ lĩnh\n- tướng lão luyện; nhà chiến lược\n- (quân sự) đại uý\n- (hàng hải) thuyền trưởng, hạm trưởng\n- (thể dục,thể thao) đội trưởng, thủ quân\n-(ngôn ngữ nhà trường) trường lớp\n- (ngành mỏ) trưởng kíp\n- (hàng không) phi công\n@Chuyên ngành kinh tế\n-đội trưởng\n-nhóm trưởng\n-thuyền trưởng\n-tiếp viên trưởng\n-tổ trưởng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-thuyền trưởng (trên tàu)
-
+captain	
+@captain /'kæptin/
+*  danh từ
+- người cầm đầu, người chỉ huy, thủ lĩnh
+- tướng lão luyện; nhà chiến lược
+- (quân sự) đại uý
+- (hàng hải) thuyền trưởng, hạm trưởng
+- (thể dục,thể thao) đội trưởng, thủ quân
+-(ngôn ngữ nhà trường) trường lớp
+- (ngành mỏ) trưởng kíp
+- (hàng không) phi công
+@Chuyên ngành kinh tế
+-đội trưởng
+-nhóm trưởng
+-thuyền trưởng
+-tiếp viên trưởng
+-tổ trưởng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-thuyền trưởng (trên tàu)

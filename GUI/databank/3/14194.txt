@@ -1,3 +1,9 @@
-deity
-	@deity /'di:iti/\n*  danh từ\n- tính thần\n- vị thần\n!the Deity\n- Chúa trời,  Thượng đế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thượng đế
-
+deity	@deity /'di:iti/
+*  danh từ
+- tính thần
+- vị thần
+!the Deity
+- Chúa trời,  Thượng đế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thượng đế

@@ -1,3 +1,35 @@
-apply
-	@apply /ə'plai/\n*  ngoại động từ\n- gắn vào, áp vào, ghép vào, đính vào, đắp vào, tra vào\n=to plaster to the wound+ đắp thuốc vào vết thương\n=to apply one's ear to the wall+ áp tai vào tường\n=to apply the brake+ bóp nhanh; đạp nhanh\n- dùng ứng dụng, dùng áp dụng\n=to apply a new method+ áp dụng một phương pháp mới\n=to apply pressure on+ gây (dùng) sức ép đối với (ai...)\n- chăm chú, chuyên tâm\n=to apply oneself to a task+ chuyên tâm vào nhiệm vụ; hết lòng hết sức làm nhiệm vụ\n=to apply one's mind to something+ chú ý vào việc gì\n*  nội động từ\n- xin, thỉnh cầu\n=to apply for a post+ xin việc làm\n- có thể áp dụng vào, thích ứng với, hợp với\n=this applies to my case+ việc này thích ứng với trường hợp của tôi\n- apply to,  at hỏi\n=you must apply to the secretary+ anh phải hỏi người thư ký\n=apply at the ofice+ anh hãy đến hỏi ở sở\n@Chuyên ngành kinh tế\n-áp dụng\n-sử dụng (vào việc gì ...)\n-ứng dụng\n@Chuyên ngành kỹ thuật\n-áp dụng\n-đặt\n-đặt lên\n-gắn\n-ghép\n-thi hành\n-ứng dụng\n@Lĩnh vực: xây dựng\n-áp đặt
-
+apply	
+@apply /ə'plai/
+*  ngoại động từ
+- gắn vào, áp vào, ghép vào, đính vào, đắp vào, tra vào=to plaster to the wound
++ đắp thuốc vào vết thương=to apply one's ear to the wall
++ áp tai vào tường=to apply the brake
++ bóp nhanh; đạp nhanh
+- dùng ứng dụng, dùng áp dụng=to apply a new method
++ áp dụng một phương pháp mới=to apply pressure on
++ gây (dùng) sức ép đối với (ai...)
+- chăm chú, chuyên tâm=to apply oneself to a task
++ chuyên tâm vào nhiệm vụ; hết lòng hết sức làm nhiệm vụ=to apply one's mind to something
++ chú ý vào việc gì
+*  nội động từ
+- xin, thỉnh cầu=to apply for a post
++ xin việc làm
+- có thể áp dụng vào, thích ứng với, hợp với=this applies to my case
++ việc này thích ứng với trường hợp của tôi
+- apply to,  at hỏi=you must apply to the secretary
++ anh phải hỏi người thư ký=apply at the ofice
++ anh hãy đến hỏi ở sở
+@Chuyên ngành kinh tế
+-áp dụng
+-sử dụng (vào việc gì ...)
+-ứng dụng
+@Chuyên ngành kỹ thuật
+-áp dụng
+-đặt
+-đặt lên
+-gắn
+-ghép
+-thi hành
+-ứng dụng
+@Lĩnh vực: xây dựng
+-áp đặt

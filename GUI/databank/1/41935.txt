@@ -1,3 +1,6 @@
-plasticizing
-	@Chuyên ngành kinh tế\n-sự tạo hình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự hóa dẻo\n-tăng tính dẻo
-
+plasticizing	@Chuyên ngành kinh tế
+-sự tạo hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự hóa dẻo
+-tăng tính dẻo

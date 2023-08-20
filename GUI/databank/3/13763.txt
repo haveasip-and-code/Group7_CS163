@@ -1,3 +1,2 @@
-decayer
-	@decayer\n- xem decay
-
+decayer	@decayer
+- xem decay

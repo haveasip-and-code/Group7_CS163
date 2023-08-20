@@ -1,3 +1,2 @@
-meterage
-	@Chuyên ngành kỹ thuật\n-sự đo lường
-
+meterage	@Chuyên ngành kỹ thuật
+-sự đo lường

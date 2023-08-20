@@ -1,3 +1,10 @@
-vaporizable
-	@vaporizable /'veipəraizəbl/\n*  tính từ\n- có thể bốc hơi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bốc hơi được\n-hóa hơi được\n@Lĩnh vực: xây dựng\n-có thể bốc hơi\n-khả khí hóa
-
+vaporizable	@vaporizable /'veipəraizəbl/
+*  tính từ
+- có thể bốc hơi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bốc hơi được
+-hóa hơi được
+@Lĩnh vực: xây dựng
+-có thể bốc hơi
+-khả khí hóa

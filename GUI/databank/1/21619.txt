@@ -1,3 +1,7 @@
-fluorite
-	@fluorite /fluorite/\n*  danh từ\n- (khoáng chất) Fluorit\n@Chuyên ngành kỹ thuật\n-florit\n-florua
-
+fluorite	
+@fluorite /fluorite/
+*  danh từ
+- (khoáng chất) Fluorit
+@Chuyên ngành kỹ thuật
+-florit
+-florua

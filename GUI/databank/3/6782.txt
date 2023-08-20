@@ -1,3 +1,35 @@
-bright
-	@bright /brait/\n*  tính từ\n- sáng, sáng chói\n=bright sunshine+ mặt trời sáng chói\n- tươi\n=bright red+ đỏ tươi\n- sáng sủa; rạng rỡ, sáng ngời; rực rỡ\n=a bright force+ khuôn mặt sáng sủa\n=a bright smile+ nụ cười rạng rỡ\n=bright eyes+ cặp mắt sáng ngời\n=a future+ tương lai rực rỡ\n- (thường), (mỉa mai) sáng dạ, thông minh, nhanh trí\n=a bright boy+ một đứa bé sáng dạ\n- vui tươi\n- lanh lợi, hoạt bát, nhanh nhẹn\n!to look on the bright side of everything\n- (xem) side\n*  phó từ\n- sáng chói, sáng ngời\n@Chuyên ngành kinh tế\n-sáng\n-tươi\n@Chuyên ngành kỹ thuật\n-bóng láng\n-nhẫn\n-sáng\n-sáng bóng\n-sáng chói\n@Lĩnh vực: toán & tin\n-chói\n@Lĩnh vực: cơ khí & công trình\n-đã đánh bóng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh Bright
-
+bright	@bright /brait/
+*  tính từ
+- sáng, sáng chói
+=bright sunshine+ mặt trời sáng chói
+- tươi
+=bright red+ đỏ tươi
+- sáng sủa; rạng rỡ, sáng ngời; rực rỡ
+=a bright force+ khuôn mặt sáng sủa
+=a bright smile+ nụ cười rạng rỡ
+=bright eyes+ cặp mắt sáng ngời
+=a future+ tương lai rực rỡ
+- (thường), (mỉa mai) sáng dạ, thông minh, nhanh trí
+=a bright boy+ một đứa bé sáng dạ
+- vui tươi
+- lanh lợi, hoạt bát, nhanh nhẹn
+!to look on the bright side of everything
+- (xem) side
+*  phó từ
+- sáng chói, sáng ngời
+@Chuyên ngành kinh tế
+-sáng
+-tươi
+@Chuyên ngành kỹ thuật
+-bóng láng
+-nhẫn
+-sáng
+-sáng bóng
+-sáng chói
+@Lĩnh vực: toán & tin
+-chói
+@Lĩnh vực: cơ khí & công trình
+-đã đánh bóng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh Bright

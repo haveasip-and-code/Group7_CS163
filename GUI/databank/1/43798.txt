@@ -1,3 +1,9 @@
-proctor
-	@proctor /proctor/\n*  danh từ\n- giám thị (ở trường đại học Căm-brít,  Ôc-phớt)\n- (từ Mỹ,nghĩa Mỹ) người coi thi\n!King's Proctor\n!Queen Proctor\n- uỷ viên kiểm sát (ở toà án Anh)\n*  động từ\n- (từ Mỹ,nghĩa Mỹ) coi thi
-
+proctor	@proctor /proctor/
+*  danh từ
+- giám thị (ở trường đại học Căm-brít,  Ôc-phớt)
+- (từ Mỹ,nghĩa Mỹ) người coi thi
+!King's Proctor
+!Queen Proctor
+- uỷ viên kiểm sát (ở toà án Anh)
+*  động từ
+- (từ Mỹ,nghĩa Mỹ) coi thi

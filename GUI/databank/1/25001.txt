@@ -1,3 +1,4 @@
-hardpan
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tầng đất cứng
-
+hardpan	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-tầng đất cứng

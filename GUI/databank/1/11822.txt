@@ -1,3 +1,6 @@
-coplanar
-	@coplanar\n- (Tech) đồng diện\n@Chuyên ngành kỹ thuật\n-đồng diện\n-đồng phẳng
-
+coplanar	
+@coplanar
+- (Tech) đồng diện
+@Chuyên ngành kỹ thuật
+-đồng diện
+-đồng phẳng

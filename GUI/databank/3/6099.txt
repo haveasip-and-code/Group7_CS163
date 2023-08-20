@@ -1,3 +1,100 @@
-board
-	@board /bɔ:d/\n*  danh từ\n- tấm ván\n- bảng\n=a notice board+ bảng thông cáo\n- giấy bồi, bìa cứng\n- cơm tháng, cơm trọ; tiền cơm tháng\n- bàn ăn\n=the festive board+ bàn tiệc\n=groaning board+ bữa ăn thịnh soạn\n=bed and board+ quan hệ vợ chồng ăn cùng mâm nằm cùng chiếu\n- bàn\n=to sweep the board+ vơ hết bài (vơ hết tiền) trên bàn bạc\n- ban, uỷ ban, bộ\n=board of directors+ ban giám đốc\n=the board of education+ bộ giáo dục\n- boong tàu, mạn thuyền\n=on board+ trên tàu thuỷ,  (từ Mỹ,nghĩa Mỹ) trên xe lửa, trên xe điện...\n=to go on board+ lên tàu\n=to go by the board+ rơi (ngã) từ trên tàu xuống\n- (số nhiều) sân khấu\n=to tread the boards+ là diễn viên sân khấu\n- (hàng hải) đường chạy vát\n=to make boards+ chạy vát\n*  động từ\n- lót ván, lát ván\n- đóng bìa cứng (sách)\n- ăn cơm tháng, ăn cơm trọ; cho ăn cơm trọ, nấu cơm tháng cho\n=to board at (with) someone's+ ăn cơm tháng ở nhà ai\n- lên tàu, đáp tàu\n- (hàng hải) xông vào tấn công (tàu địch); nhảy sang tàu (để tấn công, để khám xét...)\n- (hàng hải) chạy vát\n- khám sức khoẻ (trước hội đồng y khoa)\n!to board out\n- ăn cơm tháng (ở nhà khác nhà mình ở)\n- cho ra khỏi quân đội (vì thiếu sức khoẻ)\n!to board up\n- bít kín (cửa sổ...) bằng ván\n@Chuyên ngành kinh tế\n-ăn trọ\n-bảng\n-boong tàu\n-cơm tháng\n-cơm trọ\n-cục bộ\n-hội đồng\n-khoang (tàu, xe ...)\n-lên thuyền\n-lên xe\n-mạn thuyền\n-tấm\n-tấm ván\n-tiền cơm tháng\n-ủy ban\n@Chuyên ngành kỹ thuật\n-ban\n-bàn\n-bản\n-bảng\n-bảng mạch\n-bia\n-bìa cứng\n-boong tàu\n-các tông\n-giấy bồi bìa\n-hội đồng\n-lát\n-lên tàu\n-ngăn\n-màn\n-mạn (thuyền)\n-mạn tàu\n-mạn thuyền\n-panô\n-phiến\n-tấm chắn\n-tấm ván\n-trạm\n-ván\n-ván lát\n-ván ốp\n@Lĩnh vực: xây dựng\n-bảng phối liệu\n-bọc ốp mặt\n-cửa cống nhỏ\n-đặt đòn tay\n-đóng ván\n-lát ván\n-ốp van\n-tấm chắn nhỏ\n-tấm vật liệu\n-ván đày\n@Lĩnh vực: hóa học & vật liệu\n-bảng tấm\n@Lĩnh vực: giao thông & vận tải\n-biển báo chạy tàu\n@Lĩnh vực: ô tô\n-bo mạch\n@Lĩnh vực: toán & tin\n-tấm (mạch)
-
+board	@board /bɔ:d/
+*  danh từ
+- tấm ván
+- bảng
+=a notice board+ bảng thông cáo
+- giấy bồi, bìa cứng
+- cơm tháng, cơm trọ; tiền cơm tháng
+- bàn ăn
+=the festive board+ bàn tiệc
+=groaning board+ bữa ăn thịnh soạn
+=bed and board+ quan hệ vợ chồng ăn cùng mâm nằm cùng chiếu
+- bàn
+=to sweep the board+ vơ hết bài (vơ hết tiền) trên bàn bạc
+- ban, uỷ ban, bộ
+=board of directors+ ban giám đốc
+=the board of education+ bộ giáo dục
+- boong tàu, mạn thuyền
+=on board+ trên tàu thuỷ,  (từ Mỹ,nghĩa Mỹ) trên xe lửa, trên xe điện...
+=to go on board+ lên tàu
+=to go by the board+ rơi (ngã) từ trên tàu xuống
+- (số nhiều) sân khấu
+=to tread the boards+ là diễn viên sân khấu
+- (hàng hải) đường chạy vát
+=to make boards+ chạy vát
+*  động từ
+- lót ván, lát ván
+- đóng bìa cứng (sách)
+- ăn cơm tháng, ăn cơm trọ; cho ăn cơm trọ, nấu cơm tháng cho
+=to board at (with) someone's+ ăn cơm tháng ở nhà ai
+- lên tàu, đáp tàu
+- (hàng hải) xông vào tấn công (tàu địch); nhảy sang tàu (để tấn công, để khám xét...)
+- (hàng hải) chạy vát
+- khám sức khoẻ (trước hội đồng y khoa)
+!to board out
+- ăn cơm tháng (ở nhà khác nhà mình ở)
+- cho ra khỏi quân đội (vì thiếu sức khoẻ)
+!to board up
+- bít kín (cửa sổ...) bằng ván
+@Chuyên ngành kinh tế
+-ăn trọ
+-bảng
+-boong tàu
+-cơm tháng
+-cơm trọ
+-cục bộ
+-hội đồng
+-khoang (tàu, xe ...)
+-lên thuyền
+-lên xe
+-mạn thuyền
+-tấm
+-tấm ván
+-tiền cơm tháng
+-ủy ban
+@Chuyên ngành kỹ thuật
+-ban
+-bàn
+-bản
+-bảng
+-bảng mạch
+-bia
+-bìa cứng
+-boong tàu
+-các tông
+-giấy bồi bìa
+-hội đồng
+-lát
+-lên tàu
+-ngăn
+-màn
+-mạn (thuyền)
+-mạn tàu
+-mạn thuyền
+-panô
+-phiến
+-tấm chắn
+-tấm ván
+-trạm
+-ván
+-ván lát
+-ván ốp
+@Lĩnh vực: xây dựng
+-bảng phối liệu
+-bọc ốp mặt
+-cửa cống nhỏ
+-đặt đòn tay
+-đóng ván
+-lát ván
+-ốp van
+-tấm chắn nhỏ
+-tấm vật liệu
+-ván đày
+@Lĩnh vực: hóa học & vật liệu
+-bảng tấm
+@Lĩnh vực: giao thông & vận tải
+-biển báo chạy tàu
+@Lĩnh vực: ô tô
+-bo mạch
+@Lĩnh vực: toán & tin
+-tấm (mạch)

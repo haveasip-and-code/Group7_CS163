@@ -1,3 +1,22 @@
-dream
-	@dream /dri:m/\n*  danh từ\n- giấc mơ, giấc mộng\n=in a dream+ trong giấc mơ\n=to see a dream+ nằm mơ\n- sự mơ mộng, sự mơ màng, sự mộng tưởng\n=in a waking dream+ trong lúc mơ màng, trong lúc mơ mộng\n- điều mơ tưởng, điều mơ ước; điều kỳ ảo như trong giấc mơ\n=the dream of one's life+ điều mơ tưởng của đời mình\n*  động từ dreamt,  dreamed\n- mơ, nằm mơ thấy\n=he must have dreamt it+ hẳn là nó nằm mơ thấy điều đó\n- mơ màng, mơ mộng, vẩn vơ\n=to dream away one's time+ mơ mộng vẩn vơ hết thì giờ\n- (thường),  phủ định tưởng tượng, mơ tưởng; nghĩ rằng, tưởng rằng, có ý niệm rằng\n=I never dream of doing such a thing+ tôi không hề bao giờ nghĩ đến chuyện làm một điều như thế\n=to dream of something+ mơ tưởng tới cái gì\n!to dream up\n- (thông tục) tưởng tượng ra, bịa ra\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mơ
-
+dream	
+@dream /dri:m/
+*  danh từ
+- giấc mơ, giấc mộng=in a dream
++ trong giấc mơ=to see a dream
++ nằm mơ
+- sự mơ mộng, sự mơ màng, sự mộng tưởng=in a waking dream
++ trong lúc mơ màng, trong lúc mơ mộng
+- điều mơ tưởng, điều mơ ước; điều kỳ ảo như trong giấc mơ=the dream of one's life
++ điều mơ tưởng của đời mình
+*  động từ dreamt,  dreamed
+- mơ, nằm mơ thấy=he must have dreamt it
++ hẳn là nó nằm mơ thấy điều đó
+- mơ màng, mơ mộng, vẩn vơ=to dream away one's time
++ mơ mộng vẩn vơ hết thì giờ
+- (thường),  phủ định tưởng tượng, mơ tưởng; nghĩ rằng, tưởng rằng, có ý niệm rằng=I never dream of doing such a thing
++ tôi không hề bao giờ nghĩ đến chuyện làm một điều như thế=to dream of something
++ mơ tưởng tới cái gì!to dream up
+- (thông tục) tưởng tượng ra, bịa ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-mơ

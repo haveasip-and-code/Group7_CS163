@@ -1,3 +1,4 @@
-spinor
-	@spinor\n- spinơ\n@Chuyên ngành kỹ thuật\n-spinơ
-
+spinor	@spinor
+- spinơ
+@Chuyên ngành kỹ thuật
+-spinơ

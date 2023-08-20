@@ -1,3 +1,2 @@
-south
-	@south\n- (thiên văn) phương nam
-
+south	@south
+- (thiên văn) phương nam

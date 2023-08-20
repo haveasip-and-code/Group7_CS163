@@ -1,3 +1,11 @@
-devolution
-	@devolution /,di:və'lu:ʃn/\n*  danh từ\n- sự trao cho, sự uỷ thác cho (quyền hành, trách nhiệm...)\n- sự để lại (tài sản...)\n- (sinh vật học) sự thoái hoá\n@Chuyên ngành kinh tế\n-sự chuyển nhượng (tài sản . . .)\n-sự ủy quyền\n@Chuyên ngành kỹ thuật\n-sự biến tính\n-sự thoái hóa
-
+devolution	@devolution /,di:və'lu:ʃn/
+*  danh từ
+- sự trao cho, sự uỷ thác cho (quyền hành, trách nhiệm...)
+- sự để lại (tài sản...)
+- (sinh vật học) sự thoái hoá
+@Chuyên ngành kinh tế
+-sự chuyển nhượng (tài sản . . .)
+-sự ủy quyền
+@Chuyên ngành kỹ thuật
+-sự biến tính
+-sự thoái hóa

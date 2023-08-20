@@ -1,3 +1,10 @@
-disease
-	@disease /di'zi:z/\n*  danh từ\n- bệnh, bệnh tật\n- (nghĩa bóng) tệ nạn; sự hủ bại (xã hội...)\n@Chuyên ngành kinh tế\n-bệnh\n-sự mắc bệnh\n@Chuyên ngành kỹ thuật\n-bệnh
-
+disease	
+@disease /di'zi:z/
+*  danh từ
+- bệnh, bệnh tật
+- (nghĩa bóng) tệ nạn; sự hủ bại (xã hội...)
+@Chuyên ngành kinh tế
+-bệnh
+-sự mắc bệnh
+@Chuyên ngành kỹ thuật
+-bệnh

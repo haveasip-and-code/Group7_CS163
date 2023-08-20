@@ -1,3 +1,7 @@
-workbench
-	@Chuyên ngành kinh tế\n-bàn thợ\n@Chuyên ngành kỹ thuật\n-bàn máy\n-bàn thợ\n@Lĩnh vực: xây dựng\n-kệ làm việc
-
+workbench	@Chuyên ngành kinh tế
+-bàn thợ
+@Chuyên ngành kỹ thuật
+-bàn máy
+-bàn thợ
+@Lĩnh vực: xây dựng
+-kệ làm việc

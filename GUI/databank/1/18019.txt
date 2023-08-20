@@ -1,3 +1,7 @@
-emphasized
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được nhấn mạnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được nhấn mạnh
-
+emphasized	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được nhấn mạnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được nhấn mạnh

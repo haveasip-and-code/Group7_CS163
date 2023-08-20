@@ -1,3 +1,10 @@
-subsystem
-	@subsystem\n* danh từ\n- hệ thống phụ; con\n@Chuyên ngành kỹ thuật\n-hệ con\n-phân hệ\n@Lĩnh vực: toán & tin\n-hệ thống con\n@Lĩnh vực: điện tử & viễn thông\n-tiểu hệ thống
-
+subsystem	@subsystem
+* danh từ
+- hệ thống phụ; con
+@Chuyên ngành kỹ thuật
+-hệ con
+-phân hệ
+@Lĩnh vực: toán & tin
+-hệ thống con
+@Lĩnh vực: điện tử & viễn thông
+-tiểu hệ thống

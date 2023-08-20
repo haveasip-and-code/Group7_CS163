@@ -1,3 +1,3 @@
-aphagia
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chứng không chịu ăn
-
+aphagia	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chứng không chịu ăn

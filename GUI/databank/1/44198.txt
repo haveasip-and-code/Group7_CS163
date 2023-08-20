@@ -1,3 +1,6 @@
-prospecting
-	@Chuyên ngành kỹ thuật\n-sự điều tra\n-sự khảo sát\n-sự thăm dò\n@Lĩnh vực: hóa học & vật liệu\n-sự thăm dò dầu (tìm khu mỏ)
-
+prospecting	@Chuyên ngành kỹ thuật
+-sự điều tra
+-sự khảo sát
+-sự thăm dò
+@Lĩnh vực: hóa học & vật liệu
+-sự thăm dò dầu (tìm khu mỏ)

@@ -1,3 +1,26 @@
-mud
-	@mud /mʌd/\n*  danh từ\n- bùn ((nghĩa đen) & (nghĩa bóng))\n=to fling mud at somebody+ ném bùn vào ai; (nghĩa bóng) nói xấu ai, bôi nhọ ai\n!to stick in the mud\n- bảo thủ; chậm tiến, lạc hậu\n*  ngoại động từ\n- vấy bùn, trát bùn lên\n- làm đục, khuấy đục\n*  nội động từ\n- chui xuống bùn\n@Chuyên ngành kinh tế\n-bùn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trò chơi MUD\n@Chuyên ngành kỹ thuật\n-bã\n-bùn\n-cặn\n-cho bùn vào\n-làm đục\n-xỉ\n@Lĩnh vực: xây dựng\n-bùn đất\n-trát bùn
-
+mud	@mud /mʌd/
+*  danh từ
+- bùn ((nghĩa đen) & (nghĩa bóng))
+=to fling mud at somebody+ ném bùn vào ai; (nghĩa bóng) nói xấu ai, bôi nhọ ai
+!to stick in the mud
+- bảo thủ; chậm tiến, lạc hậu
+*  ngoại động từ
+- vấy bùn, trát bùn lên
+- làm đục, khuấy đục
+*  nội động từ
+- chui xuống bùn
+@Chuyên ngành kinh tế
+-bùn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-trò chơi MUD
+@Chuyên ngành kỹ thuật
+-bã
+-bùn
+-cặn
+-cho bùn vào
+-làm đục
+-xỉ
+@Lĩnh vực: xây dựng
+-bùn đất
+-trát bùn

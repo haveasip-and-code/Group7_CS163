@@ -1,3 +1,2 @@
-undercapitalized
-	@Chuyên ngành kinh tế\n-thiếu vốn
-
+undercapitalized	@Chuyên ngành kinh tế
+-thiếu vốn

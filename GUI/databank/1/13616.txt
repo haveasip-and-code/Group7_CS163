@@ -1,3 +1,4 @@
-deacidify
-	@deacidify\n* ngoại động từ\n- khử axit
-
+deacidify	
+@deacidify
+* ngoại động từ
+- khử axit

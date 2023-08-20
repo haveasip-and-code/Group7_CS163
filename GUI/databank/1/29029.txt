@@ -1,3 +1,12 @@
-instruct
-	@instruct /in'strʌkt/\n*  ngoại động từ\n- chỉ dẫn, chỉ thị cho\n- dạy, đào tạo\n- truyền kiến thức cho; cung cấp tin tức cho, cung cấp tài liệu cho, cho hay, cho biết\n@Chuyên ngành kỹ thuật\n-chỉ dẫn\n-hướng dẫn\n@Lĩnh vực: toán & tin\n-giảng dạy\n-giảng dậy
-
+instruct	
+@instruct /in'strʌkt/
+*  ngoại động từ
+- chỉ dẫn, chỉ thị cho
+- dạy, đào tạo
+- truyền kiến thức cho; cung cấp tin tức cho, cung cấp tài liệu cho, cho hay, cho biết
+@Chuyên ngành kỹ thuật
+-chỉ dẫn
+-hướng dẫn
+@Lĩnh vực: toán & tin
+-giảng dạy
+-giảng dậy

@@ -1,3 +1,16 @@
-quintet
-	@quintet /kwin'tet/ (quintette) /kwin'tet/\n*  danh từ\n- bộ năm, nhóm năm\n- (âm nhạc) bộ năm; bản nhạc cho bộ năm\n- (từ Mỹ,nghĩa Mỹ) đội bóng rổ năm người\n@Chuyên ngành kỹ thuật\n-mức năm\n-vạch năm\n@Lĩnh vực: điện lạnh\n-bộ năm\n@Lĩnh vực: hóa học & vật liệu\n-nhóm năm\n@Lĩnh vực: vật lý\n-nhóm năm (phổ học)\n@Lĩnh vực: toán & tin\n-nhóm năm, bộ năm
-
+quintet	@quintet /kwin'tet/ (quintette) /kwin'tet/
+*  danh từ
+- bộ năm, nhóm năm
+- (âm nhạc) bộ năm; bản nhạc cho bộ năm
+- (từ Mỹ,nghĩa Mỹ) đội bóng rổ năm người
+@Chuyên ngành kỹ thuật
+-mức năm
+-vạch năm
+@Lĩnh vực: điện lạnh
+-bộ năm
+@Lĩnh vực: hóa học & vật liệu
+-nhóm năm
+@Lĩnh vực: vật lý
+-nhóm năm (phổ học)
+@Lĩnh vực: toán & tin
+-nhóm năm, bộ năm

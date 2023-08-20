@@ -1,3 +1,11 @@
-prohibit
-	@prohibit /prohibit/\n*  ngoại động từ\n- cấm, ngăn cấm, cấm chỉ\n=smoking is prohibited+ cấm hút thuốc\n=to prohibit someone from doing something+ ngăn cấm người nào làm việc gì\n@Chuyên ngành kinh tế\n-cấm\n-ngăn cản\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cấm chỉ
-
+prohibit	@prohibit /prohibit/
+*  ngoại động từ
+- cấm, ngăn cấm, cấm chỉ
+=smoking is prohibited+ cấm hút thuốc
+=to prohibit someone from doing something+ ngăn cấm người nào làm việc gì
+@Chuyên ngành kinh tế
+-cấm
+-ngăn cản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cấm chỉ

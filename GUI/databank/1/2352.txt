@@ -1,3 +1,4 @@
-anodize
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lớp oxít hóa anốt
-
+anodize	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-lớp oxít hóa anốt

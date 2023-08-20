@@ -1,3 +1,9 @@
-kurtosis
-	@kurtosis\n- (toán kinh tế) độ nhọn\n- normal k. độ nhọn chuẩn.\n@Chuyên ngành kinh tế\n-độ lồi cao\n@Chuyên ngành kỹ thuật\n-độ nhọn\n@Chuyên ngành kỹ thuật\n-độ nhọn
-
+kurtosis	@kurtosis
+- (toán kinh tế) độ nhọn
+- normal k. độ nhọn chuẩn.
+@Chuyên ngành kinh tế
+-độ lồi cao
+@Chuyên ngành kỹ thuật
+-độ nhọn
+@Chuyên ngành kỹ thuật
+-độ nhọn

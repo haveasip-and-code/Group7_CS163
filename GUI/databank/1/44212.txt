@@ -1,3 +1,6 @@
-prostatitis
-	@prostatitis /prostatitis/\n*  danh từ\n- (y học) viêm tuyến tiền liệt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-viêm tuyến tiền liệt
-
+prostatitis	@prostatitis /prostatitis/
+*  danh từ
+- (y học) viêm tuyến tiền liệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-viêm tuyến tiền liệt

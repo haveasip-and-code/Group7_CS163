@@ -1,3 +1,4 @@
-antielectron
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-phản electron
-
+antielectron	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-phản electron

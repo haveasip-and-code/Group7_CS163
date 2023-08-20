@@ -1,3 +1,20 @@
-copying
-	@copying\n- (Tech) sao lại, in lại\n@Chuyên ngành kỹ thuật\n-chụp lại\n-sao chép\n-sự can\n-sự chép hình\n-sự sao\n-sự sao chép\n-sự sao lại\n@Lĩnh vực: cơ khí & công trình\n-sự can vẽ\n-sự chép\n-sự phỏng tạo\n@Lĩnh vực: xây dựng\n-sự in chụp lại\n-sự sao (chép)\n@Lĩnh vực: toán & tin\n-thuật sao chép
-
+copying	
+@copying
+- (Tech) sao lại, in lại
+@Chuyên ngành kỹ thuật
+-chụp lại
+-sao chép
+-sự can
+-sự chép hình
+-sự sao
+-sự sao chép
+-sự sao lại
+@Lĩnh vực: cơ khí & công trình
+-sự can vẽ
+-sự chép
+-sự phỏng tạo
+@Lĩnh vực: xây dựng
+-sự in chụp lại
+-sự sao (chép)
+@Lĩnh vực: toán & tin
+-thuật sao chép

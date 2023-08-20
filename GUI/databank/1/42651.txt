@@ -1,3 +1,11 @@
-porch
-	@porch /pɔ:tʃ/\n*  danh từ\n- cổng (ra vào); cổng vòm\n- (từ Mỹ,nghĩa Mỹ) hành lang\n- (the porch) cổng vòm ở thành A-ten (nơi Giê-non truyền bá triết lý cho các môn đệ); trường phái cấm dục của Giê-non); triết lý cấm dục của Giê-non\n@Chuyên ngành kỹ thuật\n-ban công\n-hành lang kín\n-hiên có mái\n@Lĩnh vực: xây dựng\n-mái hiên nhỏ (trước lối vào nhà)
-
+porch	@porch /pɔ:tʃ/
+*  danh từ
+- cổng (ra vào); cổng vòm
+- (từ Mỹ,nghĩa Mỹ) hành lang
+- (the porch) cổng vòm ở thành A-ten (nơi Giê-non truyền bá triết lý cho các môn đệ); trường phái cấm dục của Giê-non); triết lý cấm dục của Giê-non
+@Chuyên ngành kỹ thuật
+-ban công
+-hành lang kín
+-hiên có mái
+@Lĩnh vực: xây dựng
+-mái hiên nhỏ (trước lối vào nhà)

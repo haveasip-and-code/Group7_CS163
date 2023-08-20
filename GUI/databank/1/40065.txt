@@ -1,3 +1,2 @@
-patterer
-	@patterer\n- xem patter
-
+patterer	@patterer
+- xem patter

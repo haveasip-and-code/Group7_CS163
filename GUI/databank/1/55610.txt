@@ -1,3 +1,19 @@
-tarpaulin
-	@tarpaulin /tɑ:'pɔ:lin/\n*  danh từ\n- vải nhựa, vải dầu\n- (hàng hải) mũ bằng vải dầu\n- (từ cổ,nghĩa cổ) thuỷ thủ\n@Chuyên ngành kỹ thuật\n-tấm che\n-vải bạt\n-vải dầu\n-vải không thấm nước\n@Lĩnh vực: giao thông & vận tải\n-bạt che\n-tấm bạt\n@Lĩnh vực: hóa học & vật liệu\n-vải hắc ín\n-vải tẩm nhựa\n@Lĩnh vực: xây dựng\n-vải nhựa\n-vải tẩm nhựa đường
-
+tarpaulin	@tarpaulin /tɑ:'pɔ:lin/
+*  danh từ
+- vải nhựa, vải dầu
+- (hàng hải) mũ bằng vải dầu
+- (từ cổ,nghĩa cổ) thuỷ thủ
+@Chuyên ngành kỹ thuật
+-tấm che
+-vải bạt
+-vải dầu
+-vải không thấm nước
+@Lĩnh vực: giao thông & vận tải
+-bạt che
+-tấm bạt
+@Lĩnh vực: hóa học & vật liệu
+-vải hắc ín
+-vải tẩm nhựa
+@Lĩnh vực: xây dựng
+-vải nhựa
+-vải tẩm nhựa đường

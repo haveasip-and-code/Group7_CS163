@@ -1,3 +1,16 @@
-acoustic
-	@acoustic /ə'ku:mitə/\n*  tính từ\n- (thuộc) âm thanh; (thuộc) âm học\n- (thuộc) thính giác\n=acoustic nerves+ dây thần kinh thính giác\n=acoustic mine+ mìn âm thanh\n@Chuyên ngành kỹ thuật\n-âm\n-âm học\n-âm thanh\n@Lĩnh vực: xây dựng\n-thính âm\n@Lĩnh vực: toán & tin\n-thuộc âm thanh\n@Lĩnh vực: y học\n-thuộc thính giác
-
+acoustic	@acoustic /ə'ku:mitə/
+*  tính từ
+- (thuộc) âm thanh; (thuộc) âm học
+- (thuộc) thính giác
+=acoustic nerves+ dây thần kinh thính giác
+=acoustic mine+ mìn âm thanh
+@Chuyên ngành kỹ thuật
+-âm
+-âm học
+-âm thanh
+@Lĩnh vực: xây dựng
+-thính âm
+@Lĩnh vực: toán & tin
+-thuộc âm thanh
+@Lĩnh vực: y học
+-thuộc thính giác

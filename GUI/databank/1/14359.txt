@@ -1,3 +1,5 @@
-demo
-	@demo\n* danh từ\n- cuộc biểu tình\n- <tin> giới thiệu, chương trình giới thiệu
-
+demo	
+@demo
+* danh từ
+- cuộc biểu tình
+- <tin> giới thiệu, chương trình giới thiệu

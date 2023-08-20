@@ -1,3 +1,7 @@
-mediator
-	@mediator /'mi:dieitə/\n*  danh từ\n- người điều đình, người dàn xếp\n@Chuyên ngành kinh tế\n-người dàn xếp\n-người điều giải\n-người trung gian hòa giải
-
+mediator	@mediator /'mi:dieitə/
+*  danh từ
+- người điều đình, người dàn xếp
+@Chuyên ngành kinh tế
+-người dàn xếp
+-người điều giải
+-người trung gian hòa giải

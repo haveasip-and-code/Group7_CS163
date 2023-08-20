@@ -1,3 +1,2 @@
-vacuous
-	@vacuous\n- rỗng
-
+vacuous	@vacuous
+- rỗng

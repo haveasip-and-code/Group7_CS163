@@ -1,3 +1,3 @@
-noncoplanar
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không đồng diện
-
+noncoplanar	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không đồng diện

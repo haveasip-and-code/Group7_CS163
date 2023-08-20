@@ -1,3 +1,31 @@
-address
-	@address /ə'dres/\n*  danh từ\n- địa chỉ\n- bài nói chuyện, diễn văn\n- cách nói năng; tác phong lúc nói chuyện\n- sự khéo léo, sự khôn ngoan\n- (số nhiều) sự ngỏ ý, sự tỏ tình, sự tán tỉnh\n=to pay one's addresses to a lady+ tán tỉnh một bà, tỏ tình với một bà\n- (thương nghiệp) sự gửi đi một chuyến tàu hàng\n*  ngoại động từ\n- đề địa chỉ\n=to a letter+ đề địa chỉ trên một bức thư\n- gửi\n=to address a letter to somebody+ gửi một bức thư cho ai\n- xưng hô, gọi\n=how to address an ambassador+ xưng hô như thế nào với một đại sứ\n- nói với, nói chuyện với, diễn thuyết trước; viết cho\n=to oneself to someone+ nói với ai; viết (thư) cho ai\n=to address an audience+ nói với thính giả, diễn thuyết trước thính giả\n- to address oneself to chăm chú, toàn tâm toàn ý\n=to address oneself to a task+ toàn tâm toàn ý với nhiệm vụ\n- (thể dục,thể thao) nhắm\n=to address the ball+ nhắm quả bóng (trước khi đánh gôn)\n@Chuyên ngành kinh tế\n-địa chỉ\n@Chuyên ngành kỹ thuật\n-địa chỉ\n-định địa chỉ\n-gán địa chỉ\n@Lĩnh vực: xây dựng\n-đánh địa chỉ
-
+address	@address /ə'dres/
+*  danh từ
+- địa chỉ
+- bài nói chuyện, diễn văn
+- cách nói năng; tác phong lúc nói chuyện
+- sự khéo léo, sự khôn ngoan
+- (số nhiều) sự ngỏ ý, sự tỏ tình, sự tán tỉnh
+=to pay one's addresses to a lady+ tán tỉnh một bà, tỏ tình với một bà
+- (thương nghiệp) sự gửi đi một chuyến tàu hàng
+*  ngoại động từ
+- đề địa chỉ
+=to a letter+ đề địa chỉ trên một bức thư
+- gửi
+=to address a letter to somebody+ gửi một bức thư cho ai
+- xưng hô, gọi
+=how to address an ambassador+ xưng hô như thế nào với một đại sứ
+- nói với, nói chuyện với, diễn thuyết trước; viết cho
+=to oneself to someone+ nói với ai; viết (thư) cho ai
+=to address an audience+ nói với thính giả, diễn thuyết trước thính giả
+- to address oneself to chăm chú, toàn tâm toàn ý
+=to address oneself to a task+ toàn tâm toàn ý với nhiệm vụ
+- (thể dục,thể thao) nhắm
+=to address the ball+ nhắm quả bóng (trước khi đánh gôn)
+@Chuyên ngành kinh tế
+-địa chỉ
+@Chuyên ngành kỹ thuật
+-địa chỉ
+-định địa chỉ
+-gán địa chỉ
+@Lĩnh vực: xây dựng
+-đánh địa chỉ

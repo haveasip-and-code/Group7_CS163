@@ -1,3 +1,9 @@
-manifesto
-	@manifesto /,mæni'festou/\n*  danh từ\n- bản tuyên ngôn\n=to issue a manifesto+ ra một bản tuyên ngôn\n@Chuyên ngành kinh tế\n-bản tuyên ngôn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tuyên ngôn
-
+manifesto	@manifesto /,mæni'festou/
+*  danh từ
+- bản tuyên ngôn
+=to issue a manifesto+ ra một bản tuyên ngôn
+@Chuyên ngành kinh tế
+-bản tuyên ngôn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tuyên ngôn

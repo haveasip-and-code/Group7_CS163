@@ -1,3 +1,26 @@
-unload
-	@unload /'ʌn'loud/\n*  ngoại động từ\n- cất gánh nặng, dỡ hàng\n=to unload a ship+ dỡ hàng ở tàu xuống\n=to unload cargo+ dỡ hàng\n- tháo đạn (ở súng) ra\n- bán tống hết (chứng khoán)\n- (nghĩa bóng) làm cho khuây, an ủi; thổ lộ\n=to unload one's heart+ thổ lộ tâm tình; làm cho khuây nỗi lòng\n*  nội động từ\n- dỡ hàng\n@Chuyên ngành kinh tế\n-chuyển đi\n-dỡ (hàng)\n-dỡ hàng\n@Chuyên ngành kỹ thuật\n-bốc dỡ (tàu thủy)\n-dỡ hàng\n-đổ xuống\n-không tải\n@Lĩnh vực: xây dựng\n-dỡ tải\n@Lĩnh vực: hóa học & vật liệu\n-tháo liệu\n@Lĩnh vực: cơ khí & công trình\n-xuống hàng (hàng hóa)
-
+unload	@unload /'ʌn'loud/
+*  ngoại động từ
+- cất gánh nặng, dỡ hàng
+=to unload a ship+ dỡ hàng ở tàu xuống
+=to unload cargo+ dỡ hàng
+- tháo đạn (ở súng) ra
+- bán tống hết (chứng khoán)
+- (nghĩa bóng) làm cho khuây, an ủi; thổ lộ
+=to unload one's heart+ thổ lộ tâm tình; làm cho khuây nỗi lòng
+*  nội động từ
+- dỡ hàng
+@Chuyên ngành kinh tế
+-chuyển đi
+-dỡ (hàng)
+-dỡ hàng
+@Chuyên ngành kỹ thuật
+-bốc dỡ (tàu thủy)
+-dỡ hàng
+-đổ xuống
+-không tải
+@Lĩnh vực: xây dựng
+-dỡ tải
+@Lĩnh vực: hóa học & vật liệu
+-tháo liệu
+@Lĩnh vực: cơ khí & công trình
+-xuống hàng (hàng hóa)

@@ -1,3 +1,2 @@
-perihelial
-	@perihelial\n- xem perihelion
-
+perihelial	@perihelial
+- xem perihelion

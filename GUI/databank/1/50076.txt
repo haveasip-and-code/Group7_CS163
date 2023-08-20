@@ -1,3 +1,29 @@
-sewer
-	@sewer /'sjuə/\n*  danh từ\n- người khâu, người may\n- máy đóng sách\n- (sử học) người hầu tiệc\n- cống, rãnh\n*  ngoại động từ\n- tháo bằng cống\n- cây cống\n@Chuyên ngành kỹ thuật\n-cống thoát nước\n-đường ống thoát nước\n-hầm tháo nước\n-kênh nước thải\n-kênh tháo nước\n-kênh tiêu nước\n-nước thải\n-ống góp\n-ống tháo\n-ống thoát nước\n-rãnh thoát nước\n@Lĩnh vực: toán & tin\n-cống ngầm\n@Lĩnh vực: hóa học & vật liệu\n-cống nước thải\n@Lĩnh vực: xây dựng\n-cống rãnh\n-ống tháo (nước bẩn)\n-rãnh nước ngầm
-
+sewer	@sewer /'sjuə/
+*  danh từ
+- người khâu, người may
+- máy đóng sách
+- (sử học) người hầu tiệc
+- cống, rãnh
+*  ngoại động từ
+- tháo bằng cống
+- cây cống
+@Chuyên ngành kỹ thuật
+-cống thoát nước
+-đường ống thoát nước
+-hầm tháo nước
+-kênh nước thải
+-kênh tháo nước
+-kênh tiêu nước
+-nước thải
+-ống góp
+-ống tháo
+-ống thoát nước
+-rãnh thoát nước
+@Lĩnh vực: toán & tin
+-cống ngầm
+@Lĩnh vực: hóa học & vật liệu
+-cống nước thải
+@Lĩnh vực: xây dựng
+-cống rãnh
+-ống tháo (nước bẩn)
+-rãnh nước ngầm

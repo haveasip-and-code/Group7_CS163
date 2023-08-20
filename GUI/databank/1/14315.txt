@@ -1,3 +1,7 @@
-demandable
-	@demandable\n- xem demand\n@Chuyên ngành kinh tế\n-có thể đòi (nợ...)\n-có thể thỉnh cầu\n-có thể yêu cầu
-
+demandable	
+@demandable
+- xem demand
+@Chuyên ngành kinh tế
+-có thể đòi (nợ...)
+-có thể thỉnh cầu
+-có thể yêu cầu

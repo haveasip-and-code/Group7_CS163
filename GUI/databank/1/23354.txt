@@ -1,3 +1,18 @@
-getter
-	@getter /'getə/\n*  danh từ\n- người mua được, người kiếm được, người lấy được, người được\n- (ngành mỏ) thợ mỏ, thợ gương lò\n- ngựa (đực) giống\n- (vật lý); (raddiô) chất thu khí\n@Chuyên ngành kỹ thuật\n-hấp thụ khí\n-thợ mỏ\n@Lĩnh vực: điện\n-chất hút khí\n-chất thu\n@Lĩnh vực: điện lạnh\n-chất khử khí\n-chất thu khí\n@Lĩnh vực: hóa học & vật liệu\n-thợ khai thác
-
+getter	
+@getter /'getə/
+*  danh từ
+- người mua được, người kiếm được, người lấy được, người được
+- (ngành mỏ) thợ mỏ, thợ gương lò
+- ngựa (đực) giống
+- (vật lý); (raddiô) chất thu khí
+@Chuyên ngành kỹ thuật
+-hấp thụ khí
+-thợ mỏ
+@Lĩnh vực: điện
+-chất hút khí
+-chất thu
+@Lĩnh vực: điện lạnh
+-chất khử khí
+-chất thu khí
+@Lĩnh vực: hóa học & vật liệu
+-thợ khai thác

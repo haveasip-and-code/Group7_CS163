@@ -1,3 +1,12 @@
-tomography
-	@tomography\n* danh từ\n- phương pháp rọi kiếng, chụp X quang các phần trong cơ thể, sự rọi kiếng, sự chụp X quang\n@Chuyên ngành kỹ thuật\n-sự chụp cắt lớp\n@Lĩnh vực: điện lạnh\n-chụp cắt lát\n-phép tomo\n@Lĩnh vực: y học\n-chụp cắt lớp\n@Lĩnh vực: toán & tin\n-phép cụp cắt lớp
-
+tomography	@tomography
+* danh từ
+- phương pháp rọi kiếng, chụp X quang các phần trong cơ thể, sự rọi kiếng, sự chụp X quang
+@Chuyên ngành kỹ thuật
+-sự chụp cắt lớp
+@Lĩnh vực: điện lạnh
+-chụp cắt lát
+-phép tomo
+@Lĩnh vực: y học
+-chụp cắt lớp
+@Lĩnh vực: toán & tin
+-phép cụp cắt lớp

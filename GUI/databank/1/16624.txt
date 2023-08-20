@@ -1,3 +1,11 @@
-download
-	@download\n- (Tech) nạp xuống; viễn nạp\n@Chuyên ngành kỹ thuật\n-nạp xuôi\n@Lĩnh vực: xây dựng\n-hạ tải\n@Lĩnh vực: đo lường & điều khiển\n-tải vào\n@Lĩnh vực: toán & tin\n-truyền xuống
-
+download	
+@download
+- (Tech) nạp xuống; viễn nạp
+@Chuyên ngành kỹ thuật
+-nạp xuôi
+@Lĩnh vực: xây dựng
+-hạ tải
+@Lĩnh vực: đo lường & điều khiển
+-tải vào
+@Lĩnh vực: toán & tin
+-truyền xuống

@@ -1,3 +1,2 @@
-burler
-	@burler\n- xem burl
-
+burler	@burler
+- xem burl

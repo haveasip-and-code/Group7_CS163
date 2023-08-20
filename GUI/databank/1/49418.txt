@@ -1,3 +1,8 @@
-seaplane
-	@seaplane /'si:plein/\n*  danh từ\n- thuỷ phi cơ\n@Chuyên ngành kinh tế\n-thủy phi cơ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thủy phi cơ
-
+seaplane	@seaplane /'si:plein/
+*  danh từ
+- thuỷ phi cơ
+@Chuyên ngành kinh tế
+-thủy phi cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thủy phi cơ

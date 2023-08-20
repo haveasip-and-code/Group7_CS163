@@ -1,3 +1,13 @@
-county
-	@county /'kaunti/\n*  danh từ\n- hạt, tỉnh (đơn vị hành chính lớn nhất của Anh)\n- (the county) nhân dân (một) hạt (tỉnh)\n- đất (phong của) bá tước\n!county borough\n- thành phố (trên 50 000 dân) tương đương một hạt (về mặt hành chính)\n!county family\n- gia đình sống ở một hạt qua nhiều thế hệ\n!county town\n- thị xã (nơi đóng cơ quan hành chính của hạt)\n@Chuyên ngành kỹ thuật\n-tĩnh
-
+county	@county /'kaunti/
+*  danh từ
+- hạt, tỉnh (đơn vị hành chính lớn nhất của Anh)
+- (the county) nhân dân (một) hạt (tỉnh)
+- đất (phong của) bá tước
+!county borough
+- thành phố (trên 50 000 dân) tương đương một hạt (về mặt hành chính)
+!county family
+- gia đình sống ở một hạt qua nhiều thế hệ
+!county town
+- thị xã (nơi đóng cơ quan hành chính của hạt)
+@Chuyên ngành kỹ thuật
+-tĩnh

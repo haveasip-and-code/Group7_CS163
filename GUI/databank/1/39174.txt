@@ -1,3 +1,2 @@
-packable
-	@packable\n- xem pack
-
+packable	@packable
+- xem pack

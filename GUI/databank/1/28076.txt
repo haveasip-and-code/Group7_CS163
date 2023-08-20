@@ -1,3 +1,16 @@
-indemnify
-	@indemnify /in'demnifai/\n*  ngoại động từ\n- bồi thường, đền bù\n=to indemnify someone for a loss+ bồi thường thiệt hại cho ai\n- bảo đảm\n=to indemnify someone from (against) loss+ bảo đảm cho ai khỏi bị mất mát\n@Chuyên ngành kinh tế\n-bảo đảm\n-bảo hiểm\n-bảo kê\n-bảo lãnh\n-bồi thường\n-bồi thường tổn thất\n-đền bù\n-hoàn lại tiền
-
+indemnify	
+@indemnify /in'demnifai/
+*  ngoại động từ
+- bồi thường, đền bù=to indemnify someone for a loss
++ bồi thường thiệt hại cho ai
+- bảo đảm=to indemnify someone from (against) loss
++ bảo đảm cho ai khỏi bị mất mát
+@Chuyên ngành kinh tế
+-bảo đảm
+-bảo hiểm
+-bảo kê
+-bảo lãnh
+-bồi thường
+-bồi thường tổn thất
+-đền bù
+-hoàn lại tiền

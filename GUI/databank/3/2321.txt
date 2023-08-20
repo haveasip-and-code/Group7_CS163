@@ -1,3 +1,2 @@
-annotative
-	@annotative\n- xem annotate
-
+annotative	@annotative
+- xem annotate

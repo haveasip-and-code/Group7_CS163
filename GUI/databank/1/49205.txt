@@ -1,3 +1,17 @@
-scout
-	@scout /skaut/\n*  danh từ\n- (quân sự) người trinh sát; sự đi trinh sát; sự do thám\n=to be on the scout+ đi trinh sát, đi do thám\n- tàu thám thính\n- máy bay nhỏ và nhanh\n- (động vật học) chim anca; chim rụt cổ\n- hướng đạo sinh ((cũng) boy scout)\n- (thể dục,thể thao) người được cử đi thăm dò chiến thuật của đối phương; người đi phát hiện những tài năng mới\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gã, anh chàng\n*  ngoại động từ\n- theo dõi, theo sát, do thám\n- (từ Mỹ,nghĩa Mỹ) lùng tìm, tìm kiếm\n@Chuyên ngành kỹ thuật\n-người thăm dò\n@Lĩnh vực: xây dựng\n-hướng đạo
-
+scout	@scout /skaut/
+*  danh từ
+- (quân sự) người trinh sát; sự đi trinh sát; sự do thám
+=to be on the scout+ đi trinh sát, đi do thám
+- tàu thám thính
+- máy bay nhỏ và nhanh
+- (động vật học) chim anca; chim rụt cổ
+- hướng đạo sinh ((cũng) boy scout)
+- (thể dục,thể thao) người được cử đi thăm dò chiến thuật của đối phương; người đi phát hiện những tài năng mới
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gã, anh chàng
+*  ngoại động từ
+- theo dõi, theo sát, do thám
+- (từ Mỹ,nghĩa Mỹ) lùng tìm, tìm kiếm
+@Chuyên ngành kỹ thuật
+-người thăm dò
+@Lĩnh vực: xây dựng
+-hướng đạo

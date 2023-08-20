@@ -1,3 +1,30 @@
-pride
-	@pride /praid/\n*  danh từ\n- sự kiêu hãnh, sự hãnh diện; niềm kiêu hãnh, niềm hãnh diện, tính tự cao, tính tự phụ, tính kiêu căng\n=false pride+ tính tự ái; tính kiêu căng ngạo mạn; tính hư danh, tính hiếu danh\n=he is his father's pride+ anh ta là niềm kiêu hãnh của ông bố\n- lòng tự trọng ((cũng) proper pride); lòng tự hào về công việc của mình\n- độ đẹp nhất, độ rực rỡ nhất, độ chín muồi, độ phát triển nhất\n=in the full pride of youth+ ở tuổi thanh xuân phơi phới\n=a peacock in his pride+ con công đang xoè đuôi\n=in pride of grease+ béo, giết thịt được rồi\n- tính hăng (ngựa)\n- (văn học) sự tráng lệ, sự huy hoàng, sự lộng lẫy\n- đàn, bầy\n=a pride of lions+ đàn sư tử\n!pride of the morning\n- sương lúc mặt trời mọc\n!pride of place\n- địa vị cao quý\n- sự tự phụ về địa vị cao quý của mình; sự ngạo mạn\n!pride will have a fall\n- (xem) fall\n!to put one's pride in one's pocket\n!to swallow one's pride\n- nén tự ái, đẹp lòng tự ái\n*  phó từ (+ on,  upon)\n- lấy làm kiêu hãnh (về cái gì...)\n- lấy làm tự hào (về việc gì...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tự hào
-
+pride	@pride /praid/
+*  danh từ
+- sự kiêu hãnh, sự hãnh diện; niềm kiêu hãnh, niềm hãnh diện, tính tự cao, tính tự phụ, tính kiêu căng
+=false pride+ tính tự ái; tính kiêu căng ngạo mạn; tính hư danh, tính hiếu danh
+=he is his father's pride+ anh ta là niềm kiêu hãnh của ông bố
+- lòng tự trọng ((cũng) proper pride); lòng tự hào về công việc của mình
+- độ đẹp nhất, độ rực rỡ nhất, độ chín muồi, độ phát triển nhất
+=in the full pride of youth+ ở tuổi thanh xuân phơi phới
+=a peacock in his pride+ con công đang xoè đuôi
+=in pride of grease+ béo, giết thịt được rồi
+- tính hăng (ngựa)
+- (văn học) sự tráng lệ, sự huy hoàng, sự lộng lẫy
+- đàn, bầy
+=a pride of lions+ đàn sư tử
+!pride of the morning
+- sương lúc mặt trời mọc
+!pride of place
+- địa vị cao quý
+- sự tự phụ về địa vị cao quý của mình; sự ngạo mạn
+!pride will have a fall
+- (xem) fall
+!to put one's pride in one's pocket
+!to swallow one's pride
+- nén tự ái, đẹp lòng tự ái
+*  phó từ (+ on,  upon)
+- lấy làm kiêu hãnh (về cái gì...)
+- lấy làm tự hào (về việc gì...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tự hào

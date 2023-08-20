@@ -1,3 +1,3 @@
-emasculator
-	@emasculator\n- xem emasculate
-
+emasculator	
+@emasculator
+- xem emasculate

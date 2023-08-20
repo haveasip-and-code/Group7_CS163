@@ -1,3 +1,12 @@
-polling
-	@polling\n* danh từ\n- việc bỏ phiếu\n- địa điểm bỏ phiếu, địa điểm bầu cử\n@Chuyên ngành kỹ thuật\n-sự gọi\n-sự hỏi vòng\n-sự kiểm tra vòng\n-sự mời gửi\n@Lĩnh vực: toán & tin\n-kiểm soát vòng\n-lần lượt hỏi
-
+polling	@polling
+* danh từ
+- việc bỏ phiếu
+- địa điểm bỏ phiếu, địa điểm bầu cử
+@Chuyên ngành kỹ thuật
+-sự gọi
+-sự hỏi vòng
+-sự kiểm tra vòng
+-sự mời gửi
+@Lĩnh vực: toán & tin
+-kiểm soát vòng
+-lần lượt hỏi

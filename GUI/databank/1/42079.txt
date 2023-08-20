@@ -1,3 +1,3 @@
-plethysmography
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phép ghi biến đổi thể tích
-
+plethysmography	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-phép ghi biến đổi thể tích

@@ -1,3 +1,6 @@
-typesetting
-	@typesetting\n- xếp chữ\n@Chuyên ngành kỹ thuật\n-bát chữ\n-phần chính văn\n-sự sắp chữ
-
+typesetting	@typesetting
+- xếp chữ
+@Chuyên ngành kỹ thuật
+-bát chữ
+-phần chính văn
+-sự sắp chữ

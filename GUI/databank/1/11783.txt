@@ -1,3 +1,13 @@
-cooling
-	@Chuyên ngành kinh tế\n-nước muối cặn\n-sự làm lạnh\n@Chuyên ngành kỹ thuật\n-làm lạnh\n-làm mát\n-làm nguội\n-sự làm lạnh\n-sự làm mát\n-sự làm nguội\n@Lĩnh vực: y học\n-sự làm lạnh, hạ nhiệt
-
+cooling	
+@Chuyên ngành kinh tế
+-nước muối cặn
+-sự làm lạnh
+@Chuyên ngành kỹ thuật
+-làm lạnh
+-làm mát
+-làm nguội
+-sự làm lạnh
+-sự làm mát
+-sự làm nguội
+@Lĩnh vực: y học
+-sự làm lạnh, hạ nhiệt

@@ -1,3 +1,15 @@
-masking
-	@masking\n* danh từ\n- tấm chắn, tấm che\n- sự đeo mặt nạ\n- sự che mặt\n- sự hoá trang\n@Chuyên ngành kỹ thuật\n-sự chắn\n-sự che\n-sự che chắn\n-sự che, sự phủ\n@Lĩnh vực: điện\n-âm che\n@Lĩnh vực: xây dựng\n-sự ngụy trang
-
+masking	@masking
+* danh từ
+- tấm chắn, tấm che
+- sự đeo mặt nạ
+- sự che mặt
+- sự hoá trang
+@Chuyên ngành kỹ thuật
+-sự chắn
+-sự che
+-sự che chắn
+-sự che, sự phủ
+@Lĩnh vực: điện
+-âm che
+@Lĩnh vực: xây dựng
+-sự ngụy trang

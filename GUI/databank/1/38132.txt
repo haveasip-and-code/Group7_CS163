@@ -1,3 +1,17 @@
-organization
-	@organization /,ɔ:gənai'zeiʃn/\n*  danh từ\n- sự tổ chức, sự cấu tạo\n- tổ chức, cơ quan\n=world organizations+ các tổ chức quốc tế\n@Chuyên ngành kinh tế\n-cơ cấu\n-cơ quan\n-tổ chức\n@Chuyên ngành kỹ thuật\n-đơn vị\n-sự cấu tạo\n-sự tổ chức\n@Lĩnh vực: y học\n-sự mê hóa\n-sự tổ chức cấu tạo\n-tổ chức cơ quan
-
+organization	@organization /,ɔ:gənai'zeiʃn/
+*  danh từ
+- sự tổ chức, sự cấu tạo
+- tổ chức, cơ quan
+=world organizations+ các tổ chức quốc tế
+@Chuyên ngành kinh tế
+-cơ cấu
+-cơ quan
+-tổ chức
+@Chuyên ngành kỹ thuật
+-đơn vị
+-sự cấu tạo
+-sự tổ chức
+@Lĩnh vực: y học
+-sự mê hóa
+-sự tổ chức cấu tạo
+-tổ chức cơ quan

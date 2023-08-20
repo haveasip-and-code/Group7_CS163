@@ -1,3 +1,7 @@
-wavelength
-	@wavelength ['weivleηθ]\n*danh từ\n-  (vật lý) bước sóng (khoảng cách giữa hai điểm tương ứng trong sóng âm thanh hoặc sóng điện từ)\n-  bước sóng truyền thanh (chiều dài của làn sóng ( ra-đi-ô) của một đài phát thanh sử dụng để truyền đi các chương trình của nó)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chiều dài bước sóng
-
+wavelength	@wavelength ['weivleηθ]
+*danh từ
+-  (vật lý) bước sóng (khoảng cách giữa hai điểm tương ứng trong sóng âm thanh hoặc sóng điện từ)
+-  bước sóng truyền thanh (chiều dài của làn sóng ( ra-đi-ô) của một đài phát thanh sử dụng để truyền đi các chương trình của nó)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-chiều dài bước sóng

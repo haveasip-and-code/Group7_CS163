@@ -1,3 +1,15 @@
-leakless
-	@leakless /'li:klis/\n*  tính từ\n- không rò, không có lỗ h\n@Chuyên ngành kỹ thuật\n-không rò khí\n-không rò rỉ\n-kín\n@Lĩnh vực: xây dựng\n-không rò nước\n@Chuyên ngành kỹ thuật\n-không rò khí\n-không rò rỉ\n-kín\n@Lĩnh vực: xây dựng\n-không rò nước
-
+leakless	@leakless /'li:klis/
+*  tính từ
+- không rò, không có lỗ h
+@Chuyên ngành kỹ thuật
+-không rò khí
+-không rò rỉ
+-kín
+@Lĩnh vực: xây dựng
+-không rò nước
+@Chuyên ngành kỹ thuật
+-không rò khí
+-không rò rỉ
+-kín
+@Lĩnh vực: xây dựng
+-không rò nước

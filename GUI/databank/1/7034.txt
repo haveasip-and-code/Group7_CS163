@@ -1,3 +1,5 @@
-budgeting
-	@Chuyên ngành kinh tế\n-dự thảo ngân sách\n-quá trình dự thảo ngân sách\n-sự cấu tạo ngân sách
-
+budgeting	
+@Chuyên ngành kinh tế
+-dự thảo ngân sách
+-quá trình dự thảo ngân sách
+-sự cấu tạo ngân sách

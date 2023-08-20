@@ -1,3 +1,22 @@
-capping
-	@Chuyên ngành kinh tế\n-Bán giựt giá/ Tung ra bán để kéo giá xuống\n@Chuyên ngành kỹ thuật\n-bao\n-bịt đầu, đậy nắp\n-gờ chân tường\n-nắp\n-mũ cọc\n-sự bịt kín\n-sự đặt van bít\n-sự lắp van bít\n-tầng phủ\n@Lĩnh vực: y học\n-chụp\n@Lĩnh vực: hóa học & vật liệu\n-đất đá phủ\n@Lĩnh vực: xây dựng\n-gờ đỉnh tường\n-sự nút chặt\n@Lĩnh vực: ô tô\n-miếng roong cửa
-
+capping	
+@Chuyên ngành kinh tế
+-Bán giựt giá/ Tung ra bán để kéo giá xuống
+@Chuyên ngành kỹ thuật
+-bao
+-bịt đầu, đậy nắp
+-gờ chân tường
+-nắp
+-mũ cọc
+-sự bịt kín
+-sự đặt van bít
+-sự lắp van bít
+-tầng phủ
+@Lĩnh vực: y học
+-chụp
+@Lĩnh vực: hóa học & vật liệu
+-đất đá phủ
+@Lĩnh vực: xây dựng
+-gờ đỉnh tường
+-sự nút chặt
+@Lĩnh vực: ô tô
+-miếng roong cửa

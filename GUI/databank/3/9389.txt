@@ -1,3 +1,2 @@
-cigars
-	@Chuyên ngành kinh tế\n-xì gà
-
+cigars	@Chuyên ngành kinh tế
+-xì gà

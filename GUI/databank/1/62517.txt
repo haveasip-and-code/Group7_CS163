@@ -1,3 +1,13 @@
-watershed
-	@watershed /'wɔ:təʃed/\n*  danh từ\n- đường phân nước\n- lưu vực sông\n- dốc có nước chảy\n@Chuyên ngành kỹ thuật\n-đường chia nước\n-đường phân nước\n-lưu vực sông\n@Lĩnh vực: xây dựng\n-dốc có nước chảy\n-đường phân hủy\n-đường phân thủy
-
+watershed	@watershed /'wɔ:təʃed/
+*  danh từ
+- đường phân nước
+- lưu vực sông
+- dốc có nước chảy
+@Chuyên ngành kỹ thuật
+-đường chia nước
+-đường phân nước
+-lưu vực sông
+@Lĩnh vực: xây dựng
+-dốc có nước chảy
+-đường phân hủy
+-đường phân thủy

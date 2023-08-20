@@ -1,3 +1,5 @@
-enhanced
-	@Chuyên ngành kỹ thuật\n-được tăng cường\n@Chuyên ngành kỹ thuật\n-được tăng cường
-
+enhanced	
+@Chuyên ngành kỹ thuật
+-được tăng cường
+@Chuyên ngành kỹ thuật
+-được tăng cường

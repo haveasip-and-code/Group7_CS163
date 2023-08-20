@@ -1,3 +1,8 @@
-bulking
-	@Chuyên ngành kinh tế\n-sự xếp thành đống\n-xếp thành khối\n@Chuyên ngành kỹ thuật\n-sự chất đống\n-sự phình ra\n-sự tăng thể tích
-
+bulking	
+@Chuyên ngành kinh tế
+-sự xếp thành đống
+-xếp thành khối
+@Chuyên ngành kỹ thuật
+-sự chất đống
+-sự phình ra
+-sự tăng thể tích

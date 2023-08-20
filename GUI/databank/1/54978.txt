@@ -1,3 +1,13 @@
-swash
-	@swash /swɔʃ/\n*  danh từ\n- sóng vỗ; tiếng sóng vỗ ì oàm\n- (từ Mỹ,nghĩa Mỹ) sự nghênh ngang, sự huênh hoang khoác lác; sự nạt nổ thét lác\n*  động từ\n- (từ cổ,nghĩa cổ) quật mạnh\n- vỗ ì oàm (sóng)\n@Chuyên ngành kỹ thuật\n-sóng xô bờ\n@Lĩnh vực: xây dựng\n-sóng vỗ\n@Lĩnh vực: giao thông & vận tải\n-sóng vỗ (biển)
-
+swash	@swash /swɔʃ/
+*  danh từ
+- sóng vỗ; tiếng sóng vỗ ì oàm
+- (từ Mỹ,nghĩa Mỹ) sự nghênh ngang, sự huênh hoang khoác lác; sự nạt nổ thét lác
+*  động từ
+- (từ cổ,nghĩa cổ) quật mạnh
+- vỗ ì oàm (sóng)
+@Chuyên ngành kỹ thuật
+-sóng xô bờ
+@Lĩnh vực: xây dựng
+-sóng vỗ
+@Lĩnh vực: giao thông & vận tải
+-sóng vỗ (biển)

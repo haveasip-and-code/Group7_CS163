@@ -1,3 +1,2 @@
-decimally
-	@decimally\n- xem decimal
-
+decimally	@decimally
+- xem decimal

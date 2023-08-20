@@ -1,3 +1,19 @@
-cellar
-	@cellar /'selə/\n*  danh từ\n- hầm chứa (thức ăn, rượu...)\n- hầm rượu ((cũng) wine cellar) kho rượu cất dưới hầm\n=to keep a good cellar+ trữ một hầm rượu ngon\n*  ngoại động từ\n- cất (rượu...) vào hầm\n@Chuyên ngành kinh tế\n-hầm chứa (thức ăn)\n-hầm rượu\n@Chuyên ngành kỹ thuật\n-tầng hầm\n-tầng ngầm\n@Lĩnh vực: xây dựng\n-hầm rượu\n@Lĩnh vực: toán & tin\n-khu chứa\n@Lĩnh vực: hóa học & vật liệu\n-miệng giếng (dầu)
-
+cellar	@cellar /'selə/
+*  danh từ
+- hầm chứa (thức ăn, rượu...)
+- hầm rượu ((cũng) wine cellar) kho rượu cất dưới hầm
+=to keep a good cellar+ trữ một hầm rượu ngon
+*  ngoại động từ
+- cất (rượu...) vào hầm
+@Chuyên ngành kinh tế
+-hầm chứa (thức ăn)
+-hầm rượu
+@Chuyên ngành kỹ thuật
+-tầng hầm
+-tầng ngầm
+@Lĩnh vực: xây dựng
+-hầm rượu
+@Lĩnh vực: toán & tin
+-khu chứa
+@Lĩnh vực: hóa học & vật liệu
+-miệng giếng (dầu)

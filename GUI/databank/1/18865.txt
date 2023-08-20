@@ -1,3 +1,25 @@
-equalization
-	@equalization /,i:kwəlai'zeiʃn/\n*  danh từ\n- sự làm bằng nhau, sự làm ngang nhau\n- (thể dục,thể thao) sự gỡ hoà\n@Chuyên ngành kinh tế\n-sự cân bằng áp lực\n@Chuyên ngành kỹ thuật\n-sự bù\n-sự cân bằng\n-sự chỉnh giảm\n-sự hiệu chỉnh\n-sự ổn định\n-sự san bằng\n@Lĩnh vực: toán & tin\n-sự bằng nhau\n@Chuyên ngành kỹ thuật\n-sự bù\n-sự cân bằng\n-sự chỉnh giảm\n-sự hiệu chỉnh\n-sự ổn định\n-sự san bằng\n@Lĩnh vực: toán & tin\n-sự bằng nhau
-
+equalization	
+@equalization /,i:kwəlai'zeiʃn/
+*  danh từ
+- sự làm bằng nhau, sự làm ngang nhau
+- (thể dục,thể thao) sự gỡ hoà
+@Chuyên ngành kinh tế
+-sự cân bằng áp lực
+@Chuyên ngành kỹ thuật
+-sự bù
+-sự cân bằng
+-sự chỉnh giảm
+-sự hiệu chỉnh
+-sự ổn định
+-sự san bằng
+@Lĩnh vực: toán & tin
+-sự bằng nhau
+@Chuyên ngành kỹ thuật
+-sự bù
+-sự cân bằng
+-sự chỉnh giảm
+-sự hiệu chỉnh
+-sự ổn định
+-sự san bằng
+@Lĩnh vực: toán & tin
+-sự bằng nhau

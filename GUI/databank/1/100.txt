@@ -1,3 +1,21 @@
-ablation
-	@ablation /æb'leʃn/\n*  danh từ\n- (y học) sự cắt bỏ (một bộ phận trong cơ thể)\n- (địa lý,địa chất) sự tải mòn (đá)\n- (địa lý,địa chất) sự tiêu mòn (sông băng)\n@Chuyên ngành kỹ thuật\n-sự cắt bỏ\n-sự khắc mòn\n-sự mòn\n-sự tải mòn\n-sự tan mòn\n-sự thải\n@Lĩnh vực: điện lạnh\n-sự bốc bay\n@Lĩnh vực: y học\n-sự bong tách\n-sự cắt bỏ một mô, một phần của cơ thể hoặc vùng sinh trưởng bất thường\n@Lĩnh vực: hóa học & vật liệu\n-tải mòn\n-tan mòn
-
+ablation	
+@ablation /æb'leʃn/
+*  danh từ
+- (y học) sự cắt bỏ (một bộ phận trong cơ thể)
+- (địa lý,địa chất) sự tải mòn (đá)
+- (địa lý,địa chất) sự tiêu mòn (sông băng)
+@Chuyên ngành kỹ thuật
+-sự cắt bỏ
+-sự khắc mòn
+-sự mòn
+-sự tải mòn
+-sự tan mòn
+-sự thải
+@Lĩnh vực: điện lạnh
+-sự bốc bay
+@Lĩnh vực: y học
+-sự bong tách
+-sự cắt bỏ một mô, một phần của cơ thể hoặc vùng sinh trưởng bất thường
+@Lĩnh vực: hóa học & vật liệu
+-tải mòn
+-tan mòn

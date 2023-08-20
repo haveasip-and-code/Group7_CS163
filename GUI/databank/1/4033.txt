@@ -1,3 +1,6 @@
-authorizer
-	@authorizer\n- xem authorize\n@Chuyên ngành kỹ thuật\n-người phê chuẩn\n-người phê duyệt
-
+authorizer	
+@authorizer
+- xem authorize
+@Chuyên ngành kỹ thuật
+-người phê chuẩn
+-người phê duyệt

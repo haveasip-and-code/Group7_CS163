@@ -1,3 +1,17 @@
-stopping
-	@stopping\n* danh từ\n- sự trám răng; chất trám răng\n@Chuyên ngành kinh tế\n-sự chặn\n@Chuyên ngành kỹ thuật\n-sự chặn\n-sự đóng\n-sự dừng\n-sự dừng lại\n-sự ngừng\n-tường chắn\n@Lĩnh vực: xây dựng\n-sự bịt kẽ\n-sự trám kẽ\n@Lĩnh vực: điện lạnh\n-sự chậm lại
-
+stopping	@stopping
+* danh từ
+- sự trám răng; chất trám răng
+@Chuyên ngành kinh tế
+-sự chặn
+@Chuyên ngành kỹ thuật
+-sự chặn
+-sự đóng
+-sự dừng
+-sự dừng lại
+-sự ngừng
+-tường chắn
+@Lĩnh vực: xây dựng
+-sự bịt kẽ
+-sự trám kẽ
+@Lĩnh vực: điện lạnh
+-sự chậm lại

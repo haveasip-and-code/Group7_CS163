@@ -1,3 +1,6 @@
-anolyte
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-anôlit\n@Lĩnh vực: điện lạnh\n-chất điện phân quanh cực dương
-
+anolyte	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-anôlit
+@Lĩnh vực: điện lạnh
+-chất điện phân quanh cực dương

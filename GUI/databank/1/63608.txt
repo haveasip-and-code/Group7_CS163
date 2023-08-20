@@ -1,3 +1,4 @@
-zombie
-	@zombie\n* danh từ\n- thây ma sống lại nhờ phù phép\n- người dở sống dở chết
-
+zombie	@zombie
+* danh từ
+- thây ma sống lại nhờ phù phép
+- người dở sống dở chết

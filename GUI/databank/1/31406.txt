@@ -1,3 +1,42 @@
-lamination
-	@lamination /,læmi'neiʃn/\n*  danh từ\n- sự cán mỏng, sự dát mỏng\n@Chuyên ngành kinh tế\n-sự cán mỏng\n-sự dát mỏng\n@Chuyên ngành kỹ thuật\n-lá tôn cán\n-lớp mỏng\n-sự dát mỏng\n-sự ép\n-sự phân lớp\n-sự phân phiến\n-sự phân vỉa\n-sự tách lớp\n-tấm mỏng\n-thép lá\n-tôn\n-vỉa\n@Lĩnh vực: điện lạnh\n-sự cán mỏng\n@Lĩnh vực: cơ khí & công trình\n-sự cán tấm\n-sự dát (mỏng)\n@Chuyên ngành kỹ thuật\n-lá tôn cán\n-lớp mỏng\n-sự dát mỏng\n-sự ép\n-sự phân lớp\n-sự phân phiến\n-sự phân vỉa\n-sự tách lớp\n-tấm mỏng\n-thép lá\n-tôn\n-vỉa\n@Lĩnh vực: điện lạnh\n-sự cán mỏng\n@Lĩnh vực: cơ khí & công trình\n-sự cán tấm\n-sự dát (mỏng)
-
+lamination	@lamination /,læmi'neiʃn/
+*  danh từ
+- sự cán mỏng, sự dát mỏng
+@Chuyên ngành kinh tế
+-sự cán mỏng
+-sự dát mỏng
+@Chuyên ngành kỹ thuật
+-lá tôn cán
+-lớp mỏng
+-sự dát mỏng
+-sự ép
+-sự phân lớp
+-sự phân phiến
+-sự phân vỉa
+-sự tách lớp
+-tấm mỏng
+-thép lá
+-tôn
+-vỉa
+@Lĩnh vực: điện lạnh
+-sự cán mỏng
+@Lĩnh vực: cơ khí & công trình
+-sự cán tấm
+-sự dát (mỏng)
+@Chuyên ngành kỹ thuật
+-lá tôn cán
+-lớp mỏng
+-sự dát mỏng
+-sự ép
+-sự phân lớp
+-sự phân phiến
+-sự phân vỉa
+-sự tách lớp
+-tấm mỏng
+-thép lá
+-tôn
+-vỉa
+@Lĩnh vực: điện lạnh
+-sự cán mỏng
+@Lĩnh vực: cơ khí & công trình
+-sự cán tấm
+-sự dát (mỏng)

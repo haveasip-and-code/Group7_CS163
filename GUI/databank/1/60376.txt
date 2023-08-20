@@ -1,3 +1,2 @@
-unsafety
-	@unsafety\n- xem unsafe
-
+unsafety	@unsafety
+- xem unsafe

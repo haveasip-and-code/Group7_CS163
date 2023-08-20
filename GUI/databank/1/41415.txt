@@ -1,3 +1,6 @@
-physiotherapist
-	@physiotherapist\n* danh từ\n- nhà vật lý trị liệu <thgt>\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bác sĩ điều trị vật lý
-
+physiotherapist	@physiotherapist
+* danh từ
+- nhà vật lý trị liệu <thgt>
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bác sĩ điều trị vật lý

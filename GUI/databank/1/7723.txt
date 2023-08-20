@@ -1,3 +1,20 @@
-cane
-	@cane /kein/\n*  danh từ\n- cây trúc, cây mía ((cũng) sugar cane); cây lau\n- cây mây, sợi mây (để đan mặt ghế...)\n- can, ba toong, gậy\n- roi (để đánh)\n- thỏi (sáp...)\n*  ngoại động từ\n- đánh bằng roi, quất\n- (thông tục) dùng đòn vọt để bắt (học)\n- đan mây vào\n=to cane the seat of a chair+ đan mây mặt ghế\n@Chuyên ngành kinh tế\n-cây mía\n@Chuyên ngành kỹ thuật\n-cói\n-gậy\n-lau\n-sậy
-
+cane	
+@cane /kein/
+*  danh từ
+- cây trúc, cây mía ((cũng) sugar cane); cây lau
+- cây mây, sợi mây (để đan mặt ghế...)
+- can, ba toong, gậy
+- roi (để đánh)
+- thỏi (sáp...)
+*  ngoại động từ
+- đánh bằng roi, quất
+- (thông tục) dùng đòn vọt để bắt (học)
+- đan mây vào=to cane the seat of a chair
++ đan mây mặt ghế
+@Chuyên ngành kinh tế
+-cây mía
+@Chuyên ngành kỹ thuật
+-cói
+-gậy
+-lau
+-sậy

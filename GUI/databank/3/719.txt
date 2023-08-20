@@ -1,3 +1,2 @@
-adductive
-	@adductive\n- xem adduct
-
+adductive	@adductive
+- xem adduct

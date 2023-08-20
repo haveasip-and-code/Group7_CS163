@@ -1,3 +1,24 @@
-abort
-	@abort /ə'bɔ:t/\n*  nội động từ\n- sẩy thai; đẻ non ((nghĩa đen) & (nghĩa bóng))\n- (sinh vật học) không phát triển, thui\n*  ngoại động từ\n- làm sẩy thai, phá thai\n@Chuyên ngành kỹ thuật\n-bỏ\n-gạt bỏ\n-hủy bỏ\n-kết thúc bất thường\n-ngừng\n-ngưng dừng hơi sớm\n-phá hủy\n-phá thai\n-sự hủy\n@Lĩnh vực: toán & tin\n-bãi bỏ\n-bỏ ngang\n-hủy\n@Lĩnh vực: điện tử & viễn thông\n-cắt mạch hơi sớm\n@Lĩnh vực: y học\n-Chặn tiến triển Sảy thai Không phát triển, thui
-
+abort	@abort /ə'bɔ:t/
+*  nội động từ
+- sẩy thai; đẻ non ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) không phát triển, thui
+*  ngoại động từ
+- làm sẩy thai, phá thai
+@Chuyên ngành kỹ thuật
+-bỏ
+-gạt bỏ
+-hủy bỏ
+-kết thúc bất thường
+-ngừng
+-ngưng dừng hơi sớm
+-phá hủy
+-phá thai
+-sự hủy
+@Lĩnh vực: toán & tin
+-bãi bỏ
+-bỏ ngang
+-hủy
+@Lĩnh vực: điện tử & viễn thông
+-cắt mạch hơi sớm
+@Lĩnh vực: y học
+-Chặn tiến triển Sảy thai Không phát triển, thui

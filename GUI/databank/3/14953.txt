@@ -1,3 +1,2 @@
-detoxify
-	@detoxify\n- giải độc
-
+detoxify	@detoxify
+- giải độc

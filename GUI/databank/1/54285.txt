@@ -1,3 +1,14 @@
-suburb
-	@suburb /'sʌbə:b/\n*  danh từ\n- ngoại ô\n=the suburbs+ khu vực ngoại ô\n@Chuyên ngành kinh tế\n-ngoại ô\n-ngoại thành\n@Chuyên ngành kỹ thuật\n-ngoại ô\n-ngoại thành\n-ngoại thị\n@Lĩnh vực: xây dựng\n-khu ngoại thành\n-ven
-
+suburb	@suburb /'sʌbə:b/
+*  danh từ
+- ngoại ô
+=the suburbs+ khu vực ngoại ô
+@Chuyên ngành kinh tế
+-ngoại ô
+-ngoại thành
+@Chuyên ngành kỹ thuật
+-ngoại ô
+-ngoại thành
+-ngoại thị
+@Lĩnh vực: xây dựng
+-khu ngoại thành
+-ven

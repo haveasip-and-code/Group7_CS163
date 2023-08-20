@@ -1,3 +1,8 @@
-postcard
-	@postcard /'poustkɑ:d/\n*  danh từ\n- bưu thiếp\n@Chuyên ngành kinh tế\n-bưu thiếp\n@Chuyên ngành kỹ thuật\n-bưu thiếp\n-cạc postal
-
+postcard	@postcard /'poustkɑ:d/
+*  danh từ
+- bưu thiếp
+@Chuyên ngành kinh tế
+-bưu thiếp
+@Chuyên ngành kỹ thuật
+-bưu thiếp
+-cạc postal

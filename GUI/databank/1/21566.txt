@@ -1,3 +1,4 @@
-flu
-	@flu /flu/\n*  danh từ\n- (thông tục),  (viết tắt) của influenza, bệnh cúm ((cũng) flue)
-
+flu	
+@flu /flu/
+*  danh từ
+- (thông tục),  (viết tắt) của influenza, bệnh cúm ((cũng) flue)

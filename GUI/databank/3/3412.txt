@@ -1,3 +1,6 @@
-arteriole
-	@arteriole\n* danh từ\n- động mạch con; tiểu động mạch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tiểu động mạch
-
+arteriole	@arteriole
+* danh từ
+- động mạch con; tiểu động mạch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tiểu động mạch

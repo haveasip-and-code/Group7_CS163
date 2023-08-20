@@ -1,3 +1,4 @@
-loophole
-	@Chuyên ngành kinh tế\n-thủ thuật né tránh thuế\n@Chuyên ngành kỹ thuật\n-lỗ thông khí
-
+loophole	@Chuyên ngành kinh tế
+-thủ thuật né tránh thuế
+@Chuyên ngành kỹ thuật
+-lỗ thông khí

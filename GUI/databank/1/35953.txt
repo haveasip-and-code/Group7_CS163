@@ -1,3 +1,3 @@
-multifrequency
-	@Chuyên ngành kỹ thuật\n-đa tần\n-nhiều tần số
-
+multifrequency	@Chuyên ngành kỹ thuật
+-đa tần
+-nhiều tần số

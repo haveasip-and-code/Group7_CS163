@@ -1,3 +1,12 @@
-spume
-	@spume /spju:m/\n*  danh từ\n- bọt (nước)\n*  nội động từ\n- nổi bọt\n@Chuyên ngành kinh tế\n-bọt\n-tạo bọt\n@Chuyên ngành kỹ thuật\n-bọt\n@Lĩnh vực: điện lạnh\n-bọt sủi
-
+spume	@spume /spju:m/
+*  danh từ
+- bọt (nước)
+*  nội động từ
+- nổi bọt
+@Chuyên ngành kinh tế
+-bọt
+-tạo bọt
+@Chuyên ngành kỹ thuật
+-bọt
+@Lĩnh vực: điện lạnh
+-bọt sủi

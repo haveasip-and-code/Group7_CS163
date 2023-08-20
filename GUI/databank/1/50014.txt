@@ -1,3 +1,10 @@
-servicing
-	@servicing\n* danh từ\n- sự bảo quản, sự bảo dưỡng\n@Chuyên ngành kỹ thuật\n-dịch vụ\n-phục vụ\n-sự bảo dưỡng\n-sửa chữa\n@Lĩnh vực: cơ khí & công trình\n-sự phục vụ (lắp ráp, sửa chữa, bảo quản)
-
+servicing	@servicing
+* danh từ
+- sự bảo quản, sự bảo dưỡng
+@Chuyên ngành kỹ thuật
+-dịch vụ
+-phục vụ
+-sự bảo dưỡng
+-sửa chữa
+@Lĩnh vực: cơ khí & công trình
+-sự phục vụ (lắp ráp, sửa chữa, bảo quản)

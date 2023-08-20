@@ -1,3 +1,22 @@
-perpendicular
-	@perpendicular /,pə:pən'dikjulə/\n*  tính từ\n- (+ to) vuông góc, trực giao\n=perpendicular to a line+ vuông góc với một đường\n- thẳng đứng; dốc đứng\n-(đùa cợt) đứng, đứng ngay\n*  danh từ\n- đường vuông góc, đường trực giao\n- vị trí thẳng đứng\n- dây dọi; thước vuông góc\n- (từ lóng) tiệc ăn đứng\n@Chuyên ngành kỹ thuật\n-dây dọi\n-đường thẳng đứng\n-đường trực giao\n-đường vuông góc\n-pháp tuyến\n-quả dọi\n-thẳng\n-thẳng góc\n-vị trí thẳng đứng\n-vuông góc
-
+perpendicular	@perpendicular /,pə:pən'dikjulə/
+*  tính từ
+- (+ to) vuông góc, trực giao
+=perpendicular to a line+ vuông góc với một đường
+- thẳng đứng; dốc đứng
+-(đùa cợt) đứng, đứng ngay
+*  danh từ
+- đường vuông góc, đường trực giao
+- vị trí thẳng đứng
+- dây dọi; thước vuông góc
+- (từ lóng) tiệc ăn đứng
+@Chuyên ngành kỹ thuật
+-dây dọi
+-đường thẳng đứng
+-đường trực giao
+-đường vuông góc
+-pháp tuyến
+-quả dọi
+-thẳng
+-thẳng góc
+-vị trí thẳng đứng
+-vuông góc

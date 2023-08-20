@@ -1,3 +1,5 @@
-tweet
-	@tweet /twi:t/\n*  danh từ\n- tiếng kêu chiêm chiếp, tiếng hót líu lo (chim)\n*  nội động từ\n- kêu chiêm chiếp, hót líu lo (chim)
-
+tweet	@tweet /twi:t/
+*  danh từ
+- tiếng kêu chiêm chiếp, tiếng hót líu lo (chim)
+*  nội động từ
+- kêu chiêm chiếp, hót líu lo (chim)

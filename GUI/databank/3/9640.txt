@@ -1,3 +1,46 @@
-class
-	@class /klɑ:s/\n*  danh từ\n- giai cấp\n=the working class+ giai cấp công nhân\n=the peasant class+ giai cấp nông dân\n- hạng, loại\n=to travel first class+ đi vé hạng nhất\n- (sinh vật học) lớp\n=scientists divide animals and plants into classes+ các nhà kha học phân chia đông vật và thực vật thành các lớp\n- lớp học\n=first-year class+ lớp năm thứ nhất\n=second-year class+ lớp năm thứ hai\n=the top of the class+ học sinh nhất lớp\n- giờ học, buổi học\n=what time does the class begin?+ giờ học bắt đầu lúc nào?\n- (quân sự), (không phải Anh) khoá lính (lớp lính trong một năm)\n- (từ Mỹ,nghĩa Mỹ) khoá học sinh (đại học)\n- tính ưu tú, tính tuyệt vời\n- sự thanh nhã, sự thanh cao\n!class prize\n- phần thưởng hạng ưu\n!in a class by itself\n- khác biệt, khác đời; tốt hơn cả, hay hơn cả, đẹp hơn cả\n!it is no class\n- (từ lóng) cái này chẳng dùng làm gì được\n!to take a class\n- giành được vinh dự\n@Chuyên ngành kinh tế\n-cấp (của một con tàu, một số tiền thu...)\n-chủng loại\n-hạng\n-loại\n-loại (hàng hóa, chương mục..)\n-tiểu loại\n@Chuyên ngành kỹ thuật\n-bậc\n-hạng\n-loại\n-loại hạng\n-lớp\n-lớp, nhóm\n-phân loại\n@Lĩnh vực: toán & tin\n-lớp (mođulo)\n@Lĩnh vực: xây dựng\n-xếp loại
-
+class	@class /klɑ:s/
+*  danh từ
+- giai cấp
+=the working class+ giai cấp công nhân
+=the peasant class+ giai cấp nông dân
+- hạng, loại
+=to travel first class+ đi vé hạng nhất
+- (sinh vật học) lớp
+=scientists divide animals and plants into classes+ các nhà kha học phân chia đông vật và thực vật thành các lớp
+- lớp học
+=first-year class+ lớp năm thứ nhất
+=second-year class+ lớp năm thứ hai
+=the top of the class+ học sinh nhất lớp
+- giờ học, buổi học
+=what time does the class begin?+ giờ học bắt đầu lúc nào?
+- (quân sự), (không phải Anh) khoá lính (lớp lính trong một năm)
+- (từ Mỹ,nghĩa Mỹ) khoá học sinh (đại học)
+- tính ưu tú, tính tuyệt vời
+- sự thanh nhã, sự thanh cao
+!class prize
+- phần thưởng hạng ưu
+!in a class by itself
+- khác biệt, khác đời; tốt hơn cả, hay hơn cả, đẹp hơn cả
+!it is no class
+- (từ lóng) cái này chẳng dùng làm gì được
+!to take a class
+- giành được vinh dự
+@Chuyên ngành kinh tế
+-cấp (của một con tàu, một số tiền thu...)
+-chủng loại
+-hạng
+-loại
+-loại (hàng hóa, chương mục..)
+-tiểu loại
+@Chuyên ngành kỹ thuật
+-bậc
+-hạng
+-loại
+-loại hạng
+-lớp
+-lớp, nhóm
+-phân loại
+@Lĩnh vực: toán & tin
+-lớp (mođulo)
+@Lĩnh vực: xây dựng
+-xếp loại

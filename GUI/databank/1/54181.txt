@@ -1,3 +1,6 @@
-subscript
-	@subscript\n- chỉ số dưới\n@Chuyên ngành kỹ thuật\n-chỉ số dưới dòng\n@Lĩnh vực: toán & tin\n-chỉ số dưới
-
+subscript	@subscript
+- chỉ số dưới
+@Chuyên ngành kỹ thuật
+-chỉ số dưới dòng
+@Lĩnh vực: toán & tin
+-chỉ số dưới

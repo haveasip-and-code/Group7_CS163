@@ -1,3 +1,6 @@
-whereby
-	@whereby /we 'bai/\n*  phó từ\n- do cái gì, bằng cách gì\n=whereby shall we know him?+ bằng cách nào mà chúng ta sẽ biết được nó?\n- nhờ đó, bởi đó\n=he devised a plan whereby he might escape+ nó vạch một kế hoạch nhờ đó nó có thể thoát được
-
+whereby	@whereby /we 'bai/
+*  phó từ
+- do cái gì, bằng cách gì
+=whereby shall we know him?+ bằng cách nào mà chúng ta sẽ biết được nó?
+- nhờ đó, bởi đó
+=he devised a plan whereby he might escape+ nó vạch một kế hoạch nhờ đó nó có thể thoát được

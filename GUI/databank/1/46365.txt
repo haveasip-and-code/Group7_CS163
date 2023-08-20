@@ -1,3 +1,17 @@
-refrigeration
-	@refrigeration /ri,fridʤə'reiʃn/\n*  danh từ\n- sự làm lạnh; sự ướp lạnh (thịt, hoa quả)\n@Chuyên ngành kinh tế\n-chứa lạnh\n-giữ lạnh\n-làm lạnh\n-sự đông lạnh\n-sự làm lạnh\n-sự ướp lạnh\n-ướp lạnh\n@Chuyên ngành kỹ thuật\n-kỹ thuật làm lạnh\n-kỹ thuật lạnh sâu\n-làm lạnh\n-sự làm lạnh\n-sự ướp lạnh
-
+refrigeration	@refrigeration /ri,fridʤə'reiʃn/
+*  danh từ
+- sự làm lạnh; sự ướp lạnh (thịt, hoa quả)
+@Chuyên ngành kinh tế
+-chứa lạnh
+-giữ lạnh
+-làm lạnh
+-sự đông lạnh
+-sự làm lạnh
+-sự ướp lạnh
+-ướp lạnh
+@Chuyên ngành kỹ thuật
+-kỹ thuật làm lạnh
+-kỹ thuật lạnh sâu
+-làm lạnh
+-sự làm lạnh
+-sự ướp lạnh

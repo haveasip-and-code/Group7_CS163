@@ -1,3 +1,29 @@
-nipple
-	@nipple /'nipl/\n*  danh từ\n- núm vú, đầu vú cao su (ở bầu sữa trẻ con)\n- núm (ở da, thuỷ tinh, kim loại...)\n- mô đất (trên núi)\n- (kỹ thuật) miếng nối, ống nói (có chân ốc)\n@Chuyên ngành kỹ thuật\n-đai ốc nối\n-khớp nối\n-khớp vặn\n-núm vô mỡ\n-măng sông\n-miệng\n-mối ghép bulông\n-mối nối bulông\n-mũ nan hoa\n-ống nối\n-ren\n-vòi\n-vòi phun\n@Lĩnh vực: cơ khí & công trình\n-núm nhỏ\n@Lĩnh vực: y học\n-núm vú\n@Lĩnh vực: ô tô\n-nút tra mỡ\n-ốc xả gió\n@Lĩnh vực: hóa học & vật liệu\n-miếng nối
-
+nipple	@nipple /'nipl/
+*  danh từ
+- núm vú, đầu vú cao su (ở bầu sữa trẻ con)
+- núm (ở da, thuỷ tinh, kim loại...)
+- mô đất (trên núi)
+- (kỹ thuật) miếng nối, ống nói (có chân ốc)
+@Chuyên ngành kỹ thuật
+-đai ốc nối
+-khớp nối
+-khớp vặn
+-núm vô mỡ
+-măng sông
+-miệng
+-mối ghép bulông
+-mối nối bulông
+-mũ nan hoa
+-ống nối
+-ren
+-vòi
+-vòi phun
+@Lĩnh vực: cơ khí & công trình
+-núm nhỏ
+@Lĩnh vực: y học
+-núm vú
+@Lĩnh vực: ô tô
+-nút tra mỡ
+-ốc xả gió
+@Lĩnh vực: hóa học & vật liệu
+-miếng nối

@@ -1,3 +1,9 @@
-abortion
-	@abortion /ə'bɔ:ʃn/\n*  danh từ\n- sự sẩy thai, sự phá thai; sự nạo thai\n- người lùn tịt; đứa bé đẻ non, vật đẻ non; vật dị dạng, quái thai\n- sự chết non chết yểu, sự sớm thất bại (của một kế hoạch, ý đồ...)\n- (sinh vật học) tình trạng phát triển không đầy đủ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự sẩy thai (sự lấy ra khỏi tử cung một phôi hoặc thai nhi tại một thời điểm nào đó của thai kỳ khi thai chưa thể sống độc lập được)
-
+abortion	@abortion /ə'bɔ:ʃn/
+*  danh từ
+- sự sẩy thai, sự phá thai; sự nạo thai
+- người lùn tịt; đứa bé đẻ non, vật đẻ non; vật dị dạng, quái thai
+- sự chết non chết yểu, sự sớm thất bại (của một kế hoạch, ý đồ...)
+- (sinh vật học) tình trạng phát triển không đầy đủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự sẩy thai (sự lấy ra khỏi tử cung một phôi hoặc thai nhi tại một thời điểm nào đó của thai kỳ khi thai chưa thể sống độc lập được)

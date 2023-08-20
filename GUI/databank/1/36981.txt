@@ -1,3 +1,3 @@
-nonrigid
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không rắn
-
+nonrigid	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không rắn

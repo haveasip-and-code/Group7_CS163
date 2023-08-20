@@ -1,3 +1,6 @@
-sulfonamide
-	@sulfonamide\n- <hóa> xunfônamit (hợp chất <hóa> dùng để giết các vi khuẩn)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sunfonamit\n-sunphonamit
-
+sulfonamide	@sulfonamide
+- <hóa> xunfônamit (hợp chất <hóa> dùng để giết các vi khuẩn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sunfonamit
+-sunphonamit

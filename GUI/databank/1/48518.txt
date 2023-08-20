@@ -1,3 +1,14 @@
-saltern
-	@saltern /'sɔ:ltə:n/\n*  danh từ\n- xí nghiệp muối\n- ruộng muối\n@Chuyên ngành kinh tế\n-ruộng muối\n-xí nghiệp muối\n@Chuyên ngành kỹ thuật\n-ruộng muối\n-xí nghiệp muối/ ruộng muối\n@Lĩnh vực: thực phẩm\n-xí nghiệp muối\n@Lĩnh vực: xây dựng\n-xưởng (làm) muối
-
+saltern	@saltern /'sɔ:ltə:n/
+*  danh từ
+- xí nghiệp muối
+- ruộng muối
+@Chuyên ngành kinh tế
+-ruộng muối
+-xí nghiệp muối
+@Chuyên ngành kỹ thuật
+-ruộng muối
+-xí nghiệp muối/ ruộng muối
+@Lĩnh vực: thực phẩm
+-xí nghiệp muối
+@Lĩnh vực: xây dựng
+-xưởng (làm) muối

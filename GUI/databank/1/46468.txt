@@ -1,3 +1,25 @@
-regulator
-	@regulator /'regjuleitə/\n*  danh từ\n- người điều chỉnh\n- máy điều chỉnh\n@Chuyên ngành kinh tế\n-máy điều chỉnh\n-máy điều chỉnh, máy điều tiết\n-máy điều tiết\n-người điều chỉnh\n-người quản lý\n-người quản lý, người điều chỉnh\n@Chuyên ngành kỹ thuật\n-bộ điều chỉnh\n-bộ điều khiển\n-bộ điều tiết\n-bộ ổn định\n-cấu điều chỉnh\n-cống điều tiết\n-máy điều chỉnh\n-mưa điều chỉnh\n-thiết bị điều chỉnh\n@Lĩnh vực: đo lường & điều khiển\n-cái điều chỉnh\n@Lĩnh vực: cơ khí & công trình\n-cửa cống lấy nước
-
+regulator	@regulator /'regjuleitə/
+*  danh từ
+- người điều chỉnh
+- máy điều chỉnh
+@Chuyên ngành kinh tế
+-máy điều chỉnh
+-máy điều chỉnh, máy điều tiết
+-máy điều tiết
+-người điều chỉnh
+-người quản lý
+-người quản lý, người điều chỉnh
+@Chuyên ngành kỹ thuật
+-bộ điều chỉnh
+-bộ điều khiển
+-bộ điều tiết
+-bộ ổn định
+-cấu điều chỉnh
+-cống điều tiết
+-máy điều chỉnh
+-mưa điều chỉnh
+-thiết bị điều chỉnh
+@Lĩnh vực: đo lường & điều khiển
+-cái điều chỉnh
+@Lĩnh vực: cơ khí & công trình
+-cửa cống lấy nước

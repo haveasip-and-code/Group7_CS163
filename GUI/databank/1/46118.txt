@@ -1,3 +1,37 @@
-red
-	@red /red/\n*  tính từ\n- đỏ\n=red ink+ mực đỏ\n=red cheeks+ má đỏ\n=to become red in the face+ đỏ mặt\n=to turn red+ đỏ mặt; hoá đỏ\n=red with anger+ giận đỏ mặt\n- hung hung đỏ, đỏ hoe\n=red hair+ tóc hung hung đỏ\n- đẫm máu, ác liệt\n=red hands+ những bàn tay đẫm máu\n=red battle+ cuộc huyết chiến, cuộc chiến đấu ác liệt\n- cách mạng, cộng sản; cực tả\n=red flag+ cờ đỏ, cờ cách mạng\n=red ideas+ những tư tưởng cách mạng, những tư tưởng cộng sản\n!to see red\n- bừng bừng nổi giận, nổi xung\n*  danh từ\n- màu đỏ\n- (the reds) (từ Mỹ,nghĩa Mỹ), (số nhiều) những người da đỏ\n- hòn bi a đỏ\n- ô đỏ (bàn rulet đánh bạc)\n- quần áo màu đỏ\n=to be dressed in red+ mặc quần áo đỏ\n- ((thường) the Reds) những người cách mạng, những người cộng sản\n- (từ lóng) vàng\n- (kế toán) bên nợ\n=to be in the red+ (từ Mỹ,nghĩa Mỹ) bị thiếu hụt, bị hụt tiền\n- mắc nợ\n!to go into the red\n- (từ Mỹ,nghĩa Mỹ) bị hụt tiền\n@Chuyên ngành kinh tế\n-đỏ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đỏ
-
+red	@red /red/
+*  tính từ
+- đỏ
+=red ink+ mực đỏ
+=red cheeks+ má đỏ
+=to become red in the face+ đỏ mặt
+=to turn red+ đỏ mặt; hoá đỏ
+=red with anger+ giận đỏ mặt
+- hung hung đỏ, đỏ hoe
+=red hair+ tóc hung hung đỏ
+- đẫm máu, ác liệt
+=red hands+ những bàn tay đẫm máu
+=red battle+ cuộc huyết chiến, cuộc chiến đấu ác liệt
+- cách mạng, cộng sản; cực tả
+=red flag+ cờ đỏ, cờ cách mạng
+=red ideas+ những tư tưởng cách mạng, những tư tưởng cộng sản
+!to see red
+- bừng bừng nổi giận, nổi xung
+*  danh từ
+- màu đỏ
+- (the reds) (từ Mỹ,nghĩa Mỹ), (số nhiều) những người da đỏ
+- hòn bi a đỏ
+- ô đỏ (bàn rulet đánh bạc)
+- quần áo màu đỏ
+=to be dressed in red+ mặc quần áo đỏ
+- ((thường) the Reds) những người cách mạng, những người cộng sản
+- (từ lóng) vàng
+- (kế toán) bên nợ
+=to be in the red+ (từ Mỹ,nghĩa Mỹ) bị thiếu hụt, bị hụt tiền
+- mắc nợ
+!to go into the red
+- (từ Mỹ,nghĩa Mỹ) bị hụt tiền
+@Chuyên ngành kinh tế
+-đỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đỏ

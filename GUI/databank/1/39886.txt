@@ -1,3 +1,5 @@
-passband
-	@Chuyên ngành kỹ thuật\n-dải thông\n@Lĩnh vực: điện tử & viễn thông\n-dải thông bộ lọc\n-dải truyền qua
-
+passband	@Chuyên ngành kỹ thuật
+-dải thông
+@Lĩnh vực: điện tử & viễn thông
+-dải thông bộ lọc
+-dải truyền qua

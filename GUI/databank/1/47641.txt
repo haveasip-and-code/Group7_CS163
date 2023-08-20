@@ -1,3 +1,2 @@
-rhythmize
-	@rhythmize\n- xem rhythmise
-
+rhythmize	@rhythmize
+- xem rhythmise

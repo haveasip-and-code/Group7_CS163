@@ -1,3 +1,14 @@
-docking
-	@docking\n* danh từ\n- việc cho tàu vào cảng\n@Chuyên ngành kinh tế\n-đi vào ụ tàu\n-việc đi vào bến tàu\n@Chuyên ngành kỹ thuật\n-chỗ nối\n-sự áp sát\n-sự cập bến\n-tiếp giáp\n@Lĩnh vực: toán & tin\n-trạm nối
-
+docking	
+@docking
+* danh từ
+- việc cho tàu vào cảng
+@Chuyên ngành kinh tế
+-đi vào ụ tàu
+-việc đi vào bến tàu
+@Chuyên ngành kỹ thuật
+-chỗ nối
+-sự áp sát
+-sự cập bến
+-tiếp giáp
+@Lĩnh vực: toán & tin
+-trạm nối

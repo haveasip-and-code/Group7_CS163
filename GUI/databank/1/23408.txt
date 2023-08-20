@@ -1,3 +1,13 @@
-gig
-	@gig /gig/\n*  danh từ\n- xe độc mã hai banh\n- (hàng hải) xuồng nhỏ (để trên tàu, dành cho thuyền trưởng khi cần)\n- cái xiên (đâm cá)\n*  ngoại động từ\n- đâm (cá) bằng xiên\n@Chuyên ngành kinh tế\n-cái xiên\n-xiên cá\n@Chuyên ngành kỹ thuật\n-bàn tời
-
+gig	
+@gig /gig/
+*  danh từ
+- xe độc mã hai banh
+- (hàng hải) xuồng nhỏ (để trên tàu, dành cho thuyền trưởng khi cần)
+- cái xiên (đâm cá)
+*  ngoại động từ
+- đâm (cá) bằng xiên
+@Chuyên ngành kinh tế
+-cái xiên
+-xiên cá
+@Chuyên ngành kỹ thuật
+-bàn tời

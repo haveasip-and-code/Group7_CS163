@@ -1,3 +1,19 @@
-adaptation
-	@adaptation /,ædæ /'teiʃn/\n*  danh từ\n- sự tra vào, sự lắp vào\n- sự phỏng theo, sự sửa lại cho hợp\n- tài liệu viết phỏng theo, tài liệu sửa lại cho hợp\n- sự thích nghi\n@Chuyên ngành kỹ thuật\n-sự điều chỉnh\n-sự lắp vào\n-sự phối hợp\n-sự thích nghi\n-sự thích ứng\n-sự tra vào\n-thích nghi\n@Lĩnh vực: điện\n-sự phối ứng\n@Lĩnh vực: cơ khí & công trình\n-sự tự lựa
-
+adaptation	
+@adaptation /,ædæ /'teiʃn/
+*  danh từ
+- sự tra vào, sự lắp vào
+- sự phỏng theo, sự sửa lại cho hợp
+- tài liệu viết phỏng theo, tài liệu sửa lại cho hợp
+- sự thích nghi
+@Chuyên ngành kỹ thuật
+-sự điều chỉnh
+-sự lắp vào
+-sự phối hợp
+-sự thích nghi
+-sự thích ứng
+-sự tra vào
+-thích nghi
+@Lĩnh vực: điện
+-sự phối ứng
+@Lĩnh vực: cơ khí & công trình
+-sự tự lựa

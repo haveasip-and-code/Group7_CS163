@@ -1,3 +1,32 @@
-linked
-	@linked\n* tính từ\n- có sự nối liền; có quan hệ dòng dõi\n- có mắt xích, khâu nối\n@Chuyên ngành kỹ thuật\n-cố kết\n-được khóa chuyền\n-được liên kết\n-được nối\n-liên kết\n@Lĩnh vực: xây dựng\n-được ghép nối\n@Lĩnh vực: hóa học & vật liệu\n-được hóa hợp\n@Lĩnh vực: toán & tin\n-được kết nối\n@Lĩnh vực: y học\n-liên kết, tiếp hợp\n@Chuyên ngành kỹ thuật\n-cố kết\n-được khóa chuyền\n-được liên kết\n-được nối\n-liên kết\n@Lĩnh vực: xây dựng\n-được ghép nối\n@Lĩnh vực: hóa học & vật liệu\n-được hóa hợp\n@Lĩnh vực: toán & tin\n-được kết nối\n@Lĩnh vực: y học\n-liên kết, tiếp hợp
-
+linked	@linked
+* tính từ
+- có sự nối liền; có quan hệ dòng dõi
+- có mắt xích, khâu nối
+@Chuyên ngành kỹ thuật
+-cố kết
+-được khóa chuyền
+-được liên kết
+-được nối
+-liên kết
+@Lĩnh vực: xây dựng
+-được ghép nối
+@Lĩnh vực: hóa học & vật liệu
+-được hóa hợp
+@Lĩnh vực: toán & tin
+-được kết nối
+@Lĩnh vực: y học
+-liên kết, tiếp hợp
+@Chuyên ngành kỹ thuật
+-cố kết
+-được khóa chuyền
+-được liên kết
+-được nối
+-liên kết
+@Lĩnh vực: xây dựng
+-được ghép nối
+@Lĩnh vực: hóa học & vật liệu
+-được hóa hợp
+@Lĩnh vực: toán & tin
+-được kết nối
+@Lĩnh vực: y học
+-liên kết, tiếp hợp

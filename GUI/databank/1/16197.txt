@@ -1,3 +1,21 @@
-distribute
-	@distribute /dis'tribju:t/\n*  ngoại động từ\n- phân bổ, phân phối, phân phát\n=to distribute letters+ phát thư\n- rắc, rải\n=to distribute manure over a field+ rắc phân lên khắp cánh đồng\n- sắp xếp, xếp loại, phân loại\n=to distribute book into classes+ sắp xếp sách thành loại\n- (ngành in) bỏ (chữ in) (dỡ chữ xếp vào từng ô)\n@Chuyên ngành kinh tế\n-phân phối\n-tiêu thụ ra\n@Chuyên ngành kỹ thuật\n-cấp phát\n-mở rộng\n-phân bố\n-phân phối\n-phân tán\n@Lĩnh vực: xây dựng\n-giải tán
-
+distribute	
+@distribute /dis'tribju:t/
+*  ngoại động từ
+- phân bổ, phân phối, phân phát=to distribute letters
++ phát thư
+- rắc, rải=to distribute manure over a field
++ rắc phân lên khắp cánh đồng
+- sắp xếp, xếp loại, phân loại=to distribute book into classes
++ sắp xếp sách thành loại
+- (ngành in) bỏ (chữ in) (dỡ chữ xếp vào từng ô)
+@Chuyên ngành kinh tế
+-phân phối
+-tiêu thụ ra
+@Chuyên ngành kỹ thuật
+-cấp phát
+-mở rộng
+-phân bố
+-phân phối
+-phân tán
+@Lĩnh vực: xây dựng
+-giải tán

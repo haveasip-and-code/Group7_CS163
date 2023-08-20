@@ -1,3 +1,10 @@
-streaking
-	@streaking\n* danh từ\n- sự cấy thành vạch\n@Chuyên ngành kinh tế\n-sự cấy thành vạch (vi sinh vật)\n@Chuyên ngành kỹ thuật\n-dư huy\n-sự kéo theo\n@Lĩnh vực: điện tử & viễn thông\n-sự kéo vệt
-
+streaking	@streaking
+* danh từ
+- sự cấy thành vạch
+@Chuyên ngành kinh tế
+-sự cấy thành vạch (vi sinh vật)
+@Chuyên ngành kỹ thuật
+-dư huy
+-sự kéo theo
+@Lĩnh vực: điện tử & viễn thông
+-sự kéo vệt

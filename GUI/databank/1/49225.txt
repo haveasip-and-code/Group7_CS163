@@ -1,3 +1,58 @@
-scrap
-	@scrap /skræp/\n*  danh từ\n- mảnh nhỏ, mảnh rời\n- (số nhiều) đầu thừa đuôi thẹo, mấu thừa\n- đoạn cắt, ảnh cắt (cắt ở báo để đóng thành tập)\n- kim loại vụn; phế liệu\n- tóp mỡ, bã cá (để ép hết dầu)\n*  ngoại động từ\n- đập vụn ra\n- thải ra, loại ra, bỏ đi\n*  danh từ\n- (từ lóng) cuộc ẩu đả, cuộc đánh nhau\n=to hose a bit of a scrap with somebody+ ẩu đả với ai\n*  nội động từ\n- (từ lóng) ẩu đả, đánh nhau\n@Chuyên ngành kinh tế\n-bỏ\n-bỏ đi\n-bỏ đi (làm phế liệu...)\n-bỏ vào bãi phế liệu\n-bỏ xó\n-cặn bã\n-chất thải\n-đồ bỏ đi\n-kim loại\n-kim loại phế liệu\n-làm phế liệu\n-loại ra\n-mảnh\n-mảnh nhỏ\n-mảnh vụn\n-mẫu\n-mẩu\n-phế liệu\n-quăng bỏ\n-sắt vụn\n-thải ra\n-thuốc lá vụn\n-tóp mỡ\n@Chuyên ngành kỹ thuật\n-bỏ đi\n-chất thải\n-đập vụn\n-loại bỏ\n-mảnh vỡ\n-mảnh vụn\n-phẩm không sửa được\n-phế bỏ\n-phế liệu\n-phế liệu tái chế\n-sắt vụn\n-thải ra\n-vụn kim loại\n-vụn than\n@Lĩnh vực: ô tô\n-kim loại vụn\n@Lĩnh vực: cơ khí & công trình\n-phế liệu kim loại
-
+scrap	@scrap /skræp/
+*  danh từ
+- mảnh nhỏ, mảnh rời
+- (số nhiều) đầu thừa đuôi thẹo, mấu thừa
+- đoạn cắt, ảnh cắt (cắt ở báo để đóng thành tập)
+- kim loại vụn; phế liệu
+- tóp mỡ, bã cá (để ép hết dầu)
+*  ngoại động từ
+- đập vụn ra
+- thải ra, loại ra, bỏ đi
+*  danh từ
+- (từ lóng) cuộc ẩu đả, cuộc đánh nhau
+=to hose a bit of a scrap with somebody+ ẩu đả với ai
+*  nội động từ
+- (từ lóng) ẩu đả, đánh nhau
+@Chuyên ngành kinh tế
+-bỏ
+-bỏ đi
+-bỏ đi (làm phế liệu...)
+-bỏ vào bãi phế liệu
+-bỏ xó
+-cặn bã
+-chất thải
+-đồ bỏ đi
+-kim loại
+-kim loại phế liệu
+-làm phế liệu
+-loại ra
+-mảnh
+-mảnh nhỏ
+-mảnh vụn
+-mẫu
+-mẩu
+-phế liệu
+-quăng bỏ
+-sắt vụn
+-thải ra
+-thuốc lá vụn
+-tóp mỡ
+@Chuyên ngành kỹ thuật
+-bỏ đi
+-chất thải
+-đập vụn
+-loại bỏ
+-mảnh vỡ
+-mảnh vụn
+-phẩm không sửa được
+-phế bỏ
+-phế liệu
+-phế liệu tái chế
+-sắt vụn
+-thải ra
+-vụn kim loại
+-vụn than
+@Lĩnh vực: ô tô
+-kim loại vụn
+@Lĩnh vực: cơ khí & công trình
+-phế liệu kim loại

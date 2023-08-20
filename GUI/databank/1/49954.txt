@@ -1,3 +1,5 @@
-serialization
-	@serialization\n- tuần tự hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự nối tiếp hóa
-
+serialization	@serialization
+- tuần tự hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự nối tiếp hóa

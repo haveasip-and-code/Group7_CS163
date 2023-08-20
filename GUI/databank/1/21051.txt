@@ -1,3 +1,25 @@
-filtrate
-	@filtrate /'filtrit/\n*  danh từ\n- phần lọc, phần nước lọc ra\n*  động từ\n- (như) filter\n@Chuyên ngành kinh tế\n-dịch lọc\n-lọc\n@Chuyên ngành kỹ thuật\n-chất lọc\n-nước lọc\n-phần lọc\n-phần thấm qua\n@Lĩnh vực: xây dựng\n-phần thấm\n-sản phẩm lọc\n@Chuyên ngành kỹ thuật\n-chất lọc\n-nước lọc\n-phần lọc\n-phần thấm qua\n@Lĩnh vực: xây dựng\n-phần thấm\n-sản phẩm lọc
-
+filtrate	
+@filtrate /'filtrit/
+*  danh từ
+- phần lọc, phần nước lọc ra
+*  động từ
+- (như) filter
+@Chuyên ngành kinh tế
+-dịch lọc
+-lọc
+@Chuyên ngành kỹ thuật
+-chất lọc
+-nước lọc
+-phần lọc
+-phần thấm qua
+@Lĩnh vực: xây dựng
+-phần thấm
+-sản phẩm lọc
+@Chuyên ngành kỹ thuật
+-chất lọc
+-nước lọc
+-phần lọc
+-phần thấm qua
+@Lĩnh vực: xây dựng
+-phần thấm
+-sản phẩm lọc

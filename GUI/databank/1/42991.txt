@@ -1,3 +1,2 @@
-prebendal
-	@prebendal\n- xem prebend
-
+prebendal	@prebendal
+- xem prebend

@@ -1,3 +1,2 @@
-paralyzer
-	@paralyzer\n- xem paralyze
-
+paralyzer	@paralyzer
+- xem paralyze

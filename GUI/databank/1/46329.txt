@@ -1,3 +1,4 @@
-reformatting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-định dạng lại\n-sự tái định dạng
-
+reformatting	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-định dạng lại
+-sự tái định dạng

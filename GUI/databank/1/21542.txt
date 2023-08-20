@@ -1,3 +1,19 @@
-flour
-	@flour /flour/\n*  danh từ\n- bột, bột mì\n*  ngoại động từ\n- rắc bột (mì)\n- (từ Mỹ,nghĩa Mỹ) xay thành bột\n@Chuyên ngành kinh tế\n-bột\n-nghiền thành bột\n-xay thành bột\n@Chuyên ngành kỹ thuật\n-bột\n@Lĩnh vực: cơ khí & công trình\n-bụi (đá) bột\n@Chuyên ngành kỹ thuật\n-bột\n@Lĩnh vực: cơ khí & công trình\n-bụi (đá) bột
-
+flour	
+@flour /flour/
+*  danh từ
+- bột, bột mì
+*  ngoại động từ
+- rắc bột (mì)
+- (từ Mỹ,nghĩa Mỹ) xay thành bột
+@Chuyên ngành kinh tế
+-bột
+-nghiền thành bột
+-xay thành bột
+@Chuyên ngành kỹ thuật
+-bột
+@Lĩnh vực: cơ khí & công trình
+-bụi (đá) bột
+@Chuyên ngành kỹ thuật
+-bột
+@Lĩnh vực: cơ khí & công trình
+-bụi (đá) bột

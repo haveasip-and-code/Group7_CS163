@@ -1,3 +1,2 @@
-basidial
-	@basidial\n- xem basidium
-
+basidial	@basidial
+- xem basidium

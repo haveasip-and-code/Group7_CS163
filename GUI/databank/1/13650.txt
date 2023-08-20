@@ -1,3 +1,5 @@
-deals
-	@Chuyên ngành kinh tế\n-dày ít nhất 50mm\n-gỗ xẻ\n-rộng 230 hoặc 250min
-
+deals	
+@Chuyên ngành kinh tế
+-dày ít nhất 50mm
+-gỗ xẻ
+-rộng 230 hoặc 250min

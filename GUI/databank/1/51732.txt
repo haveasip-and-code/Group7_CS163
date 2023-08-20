@@ -1,3 +1,4 @@
-solderer
-	@Chuyên ngành kỹ thuật\n-máy hàn\n-mỏ hàn\n-thợ hàn
-
+solderer	@Chuyên ngành kỹ thuật
+-máy hàn
+-mỏ hàn
+-thợ hàn

@@ -1,3 +1,7 @@
-bicycle
-	@bicycle /'baisikl/\n*  danh từ\n- xe đạp\n*  nội động từ\n- đi xe đạp\n@Chuyên ngành kỹ thuật\n-xe đạp
-
+bicycle	@bicycle /'baisikl/
+*  danh từ
+- xe đạp
+*  nội động từ
+- đi xe đạp
+@Chuyên ngành kỹ thuật
+-xe đạp

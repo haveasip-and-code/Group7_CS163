@@ -1,3 +1,20 @@
-rudder
-	@rudder /'rʌdə/\n*  danh từ\n- bánh lái\n- (nghĩa bóng) nguyên tắc chỉ đạo\n- đũa khuấy (dùng để khuấy mầm lúa mạch trong thùng ủ bia)\n@Chuyên ngành kỹ thuật\n-bánh lái\n-bánh lái (tàu) cánh đuôi lái (phi cơ)\n-cánh lái điều khiển\n-đũa khuấy\n-mặt điều khiển\n-tay lái\n@Lĩnh vực: xây dựng\n-bánh lái (tàu)\n-cánh đuôi lái (phi cơ)\n-xà treo (dùng trong đường ống)\n@Lĩnh vực: giao thông & vận tải\n-bánh lái hướng\n-cánh lái hướng\n-tấm lái
-
+rudder	@rudder /'rʌdə/
+*  danh từ
+- bánh lái
+- (nghĩa bóng) nguyên tắc chỉ đạo
+- đũa khuấy (dùng để khuấy mầm lúa mạch trong thùng ủ bia)
+@Chuyên ngành kỹ thuật
+-bánh lái
+-bánh lái (tàu) cánh đuôi lái (phi cơ)
+-cánh lái điều khiển
+-đũa khuấy
+-mặt điều khiển
+-tay lái
+@Lĩnh vực: xây dựng
+-bánh lái (tàu)
+-cánh đuôi lái (phi cơ)
+-xà treo (dùng trong đường ống)
+@Lĩnh vực: giao thông & vận tải
+-bánh lái hướng
+-cánh lái hướng
+-tấm lái

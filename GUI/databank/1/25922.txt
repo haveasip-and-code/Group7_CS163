@@ -1,3 +1,16 @@
-hoe
-	@hoe /hou/\n*  danh từ\n- cái cuốc\n=weeding hoe+ cuốc để giẫy cỏ\n*  động từ\n- cuốc; xới; giẫy (cỏ...)\n@Chuyên ngành kinh tế\n-cuốc\n-rẫy\n-xới\n@Chuyên ngành kỹ thuật\n-cái cuốc\n-cuốc chim\n-gàu (máy xúc)\n-máy cạp
-
+hoe	
+@hoe /hou/
+*  danh từ
+- cái cuốc=weeding hoe
++ cuốc để giẫy cỏ
+*  động từ
+- cuốc; xới; giẫy (cỏ...)
+@Chuyên ngành kinh tế
+-cuốc
+-rẫy
+-xới
+@Chuyên ngành kỹ thuật
+-cái cuốc
+-cuốc chim
+-gàu (máy xúc)
+-máy cạp

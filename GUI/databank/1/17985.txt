@@ -1,3 +1,9 @@
-emissivity
-	@emissivity\n* danh từ\n- độ phát xạ\n= radiant emissivity+độ bức xạ\n@Chuyên ngành kỹ thuật\n-độ phát xạ\n@Chuyên ngành kỹ thuật\n-độ phát xạ
-
+emissivity	
+@emissivity
+* danh từ
+- độ phát xạ= radiant emissivity
++độ bức xạ
+@Chuyên ngành kỹ thuật
+-độ phát xạ
+@Chuyên ngành kỹ thuật
+-độ phát xạ

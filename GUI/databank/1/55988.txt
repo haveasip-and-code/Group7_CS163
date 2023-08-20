@@ -1,3 +1,10 @@
-tense
-	@tense /tens/\n*  danh từ\n- (ngôn ngữ học) thời (của động từ)\n=the present tense+ thời hiện tại\n=the past tense+ thời quá khứ\n*  tính từ\n- căng\n=a tense wire+ sợi dây căng\n- căng thẳng, găng\n=tense situation+ tình hình căng thẳng
-
+tense	@tense /tens/
+*  danh từ
+- (ngôn ngữ học) thời (của động từ)
+=the present tense+ thời hiện tại
+=the past tense+ thời quá khứ
+*  tính từ
+- căng
+=a tense wire+ sợi dây căng
+- căng thẳng, găng
+=tense situation+ tình hình căng thẳng

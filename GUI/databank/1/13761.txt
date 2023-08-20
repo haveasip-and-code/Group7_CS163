@@ -1,3 +1,61 @@
-decay
-	@decay /di'kei/\n*  danh từ\n- tình trạng suy tàn, tình trạng suy sụp, tình trạng sa sút (quốc gia, gia đình...)\n- tình trạng đổ nát, tình trạng mục nát (nhà cửa...)\n- tình trạng thối rữa; chỗ thối (quả)\n- tình trạng sâu, tình trạng mục (răng, xương, gỗ...)\n- (vật lý) sự rã, sự phân rã\n=radioactive decay+ sự phân rã phóng xạ\n!to fall into decay\n- suy tàn, suy sụp (quốc gia, gia đình...)\n- đổ nát, mục nát (nhà cửa...)\n*  nội động từ\n- suy tàn, suy sụp, sa sút (quốc gia, gia đình...)\n- hư nát, đổ nát, mục nát (nhà cửa...)\n- sự suy nhược (sức khoẻ)\n- thối rữa (quả)\n- sâu, mục (răng, xương, gỗ...)\n=a decayed tooth+ răng sâu\n=decayed wood+ gỗ mục\n- (vật lý) rã, phân rã\n*  ngoại động từ\n- làm sâu (răng...), làm mục nát (gỗ...)\n@Chuyên ngành kinh tế\n-bấy nát\n-hư nát\n-sự hư hỏng\n-sự mục nát\n-sự thối rữa\n-tình trạng mục nát\n@Chuyên ngành kỹ thuật\n-giảm bớt\n-làm suy giảm\n-mục (của gỗ)\n-phân hủy\n-phân rã\n-sự cản dịu\n-sự giảm\n-sự giảm dần\n-sự làm nhạt\n-sự mục nát\n-sự phân hủy\n-sự phân rã\n-sự phong hóa\n-sự rã hình\n-sự thối rữa\n@Lĩnh vực: xây dựng\n-chỗ mục\n-sự phóng hóa\n-sự suy thoái\n-vật mục\n@Lĩnh vực: điện lạnh\n-sự (phân) rã\n@Lĩnh vực: điện\n-sự giảm suất\n@Lĩnh vực: cơ khí & công trình\n-sự rã\n@Lĩnh vực: toán & tin\n-sự suy giảm\n-sự yếu đi\n@Lĩnh vực: y học\n-sự suy yếu
-
+decay	
+@decay /di'kei/
+*  danh từ
+- tình trạng suy tàn, tình trạng suy sụp, tình trạng sa sút (quốc gia, gia đình...)
+- tình trạng đổ nát, tình trạng mục nát (nhà cửa...)
+- tình trạng thối rữa; chỗ thối (quả)
+- tình trạng sâu, tình trạng mục (răng, xương, gỗ...)
+- (vật lý) sự rã, sự phân rã=radioactive decay
++ sự phân rã phóng xạ!to fall into decay
+- suy tàn, suy sụp (quốc gia, gia đình...)
+- đổ nát, mục nát (nhà cửa...)
+*  nội động từ
+- suy tàn, suy sụp, sa sút (quốc gia, gia đình...)
+- hư nát, đổ nát, mục nát (nhà cửa...)
+- sự suy nhược (sức khoẻ)
+- thối rữa (quả)
+- sâu, mục (răng, xương, gỗ...)=a decayed tooth
++ răng sâu=decayed wood
++ gỗ mục
+- (vật lý) rã, phân rã
+*  ngoại động từ
+- làm sâu (răng...), làm mục nát (gỗ...)
+@Chuyên ngành kinh tế
+-bấy nát
+-hư nát
+-sự hư hỏng
+-sự mục nát
+-sự thối rữa
+-tình trạng mục nát
+@Chuyên ngành kỹ thuật
+-giảm bớt
+-làm suy giảm
+-mục (của gỗ)
+-phân hủy
+-phân rã
+-sự cản dịu
+-sự giảm
+-sự giảm dần
+-sự làm nhạt
+-sự mục nát
+-sự phân hủy
+-sự phân rã
+-sự phong hóa
+-sự rã hình
+-sự thối rữa
+@Lĩnh vực: xây dựng
+-chỗ mục
+-sự phóng hóa
+-sự suy thoái
+-vật mục
+@Lĩnh vực: điện lạnh
+-sự (phân) rã
+@Lĩnh vực: điện
+-sự giảm suất
+@Lĩnh vực: cơ khí & công trình
+-sự rã
+@Lĩnh vực: toán & tin
+-sự suy giảm
+-sự yếu đi
+@Lĩnh vực: y học
+-sự suy yếu

@@ -1,3 +1,7 @@
-producible
-	@producible /producible/\n*  tính từ\n- sản xuất được, chế tạo được\n- sinh sản được, sinh lợi được\n@Chuyên ngành kinh tế\n-chế tạo được\n-sản xuất được
-
+producible	@producible /producible/
+*  tính từ
+- sản xuất được, chế tạo được
+- sinh sản được, sinh lợi được
+@Chuyên ngành kinh tế
+-chế tạo được
+-sản xuất được

@@ -1,3 +1,40 @@
-just
-	@just /dʤʌst/\n*  tính từ\n- công bằng\n=to be just to someone+ công bằng đối với ai\n- xứng đáng, đích đáng, thích đáng\n=a just reward+ phần thưởng xứng đáng\n=a just punishment+ sự trừng phạt đích đáng\n- chính đáng, chính nghĩa, hợp lẽ phải\n=just cause+ chính nghĩa\n- đúng, đúng đắn, có căn cứ\n*  phó từ\n- đúng, chính\n=just at that spot+ đúng ở chỗ đó\n=just here+ chính tại đây\n=just three o'clock+ đúng ba giờ\n=just as you say+ đúng như anh nói\n=just so+ đúng vậy\n=that is just it+ đúng như thế đấy\n- vừa đúng, vừa đủ, vừa kịp\n=I just caught the train+ tôi chỉ vừa kịp lên xe lửa\n=just in time+ vừa đúng lúc\n- vừa mới\n=I have just seen him+ tôi vừa mới trông thấy nó\n=just now+ đúng lúc này; vừa mới xong, ngay vừa rồi\n- chỉ\n=take just one+ chỉ được lấy một chiếc thôi\n=just a moment, please!+ yêu cầu chỉ đợi cho một lát\n=I'll say just this+ tôi sẽ chỉ nói điều này thôi\n- (thông tục) hoàn toàn, thật đúng là\n=it is just splendid+ thật đúng là lộng lẫy\n- (thông tục), (thân mật) một chút, một tí; thử xem\n=just feel it+ thử mà xem\n=just shut the door, will you?+ phiền ông đóng hộ cửa một tí\n*  danh từ & nội động từ\n- (như) joust\n@Chuyên ngành kỹ thuật\n-chính đáng\n-chính là\n-đúng
-
+just	
+@just /dʤʌst/
+*  tính từ
+- công bằng=to be just to someone
++ công bằng đối với ai
+- xứng đáng, đích đáng, thích đáng=a just reward
++ phần thưởng xứng đáng=a just punishment
++ sự trừng phạt đích đáng
+- chính đáng, chính nghĩa, hợp lẽ phải=just cause
++ chính nghĩa
+- đúng, đúng đắn, có căn cứ
+*  phó từ
+- đúng, chính=just at that spot
++ đúng ở chỗ đó=just here
++ chính tại đây=just three o'clock
++ đúng ba giờ=just as you say
++ đúng như anh nói=just so
++ đúng vậy=that is just it
++ đúng như thế đấy
+- vừa đúng, vừa đủ, vừa kịp=I just caught the train
++ tôi chỉ vừa kịp lên xe lửa=just in time
++ vừa đúng lúc
+- vừa mới=I have just seen him
++ tôi vừa mới trông thấy nó=just now
++ đúng lúc này; vừa mới xong, ngay vừa rồi
+- chỉ=take just one
++ chỉ được lấy một chiếc thôi=just a moment, please!
++ yêu cầu chỉ đợi cho một lát=I'll say just this
++ tôi sẽ chỉ nói điều này thôi
+- (thông tục) hoàn toàn, thật đúng là=it is just splendid
++ thật đúng là lộng lẫy
+- (thông tục), (thân mật) một chút, một tí; thử xem=just feel it
++ thử mà xem=just shut the door, will you?
++ phiền ông đóng hộ cửa một tí
+*  danh từ & nội động từ
+- (như) joust
+@Chuyên ngành kỹ thuật
+-chính đáng
+-chính là
+-đúng

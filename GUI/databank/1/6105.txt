@@ -1,3 +1,8 @@
-boardwalk
-	@boardwalk\n* danh từ\n- lối đi có lót ván (dọc theo bãi biển)\n@Chuyên ngành kinh tế\n-đường cầu ván\n@Chuyên ngành kỹ thuật\n-lối đi lát ván (dọc bờ sông, bờ biển)
-
+boardwalk	
+@boardwalk
+* danh từ
+- lối đi có lót ván (dọc theo bãi biển)
+@Chuyên ngành kinh tế
+-đường cầu ván
+@Chuyên ngành kỹ thuật
+-lối đi lát ván (dọc bờ sông, bờ biển)

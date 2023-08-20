@@ -1,3 +1,2 @@
-confuter
-	@confuter\n- xem confute
-
+confuter	@confuter
+- xem confute

@@ -1,3 +1,13 @@
-deplete
-	@deplete /di'pli:t/\n*  ngoại động từ\n- tháo hết ra, rút hết ra, xả hết ra; làm rỗng không\n=to deplete a base of troops+ rút hết quân ở một căn cứ\n- làm suy yếu, làm kiệt (sức...)\n- (y học) làm tan máu; làm tiêu dịch\n@Chuyên ngành kỹ thuật\n-làm khô kiệt\n-làm thiếu\n-thiếu hụt\n@Lĩnh vực: hóa học & vật liệu\n-làm nghèo\n-làm nghèo quặng
-
+deplete	@deplete /di'pli:t/
+*  ngoại động từ
+- tháo hết ra, rút hết ra, xả hết ra; làm rỗng không
+=to deplete a base of troops+ rút hết quân ở một căn cứ
+- làm suy yếu, làm kiệt (sức...)
+- (y học) làm tan máu; làm tiêu dịch
+@Chuyên ngành kỹ thuật
+-làm khô kiệt
+-làm thiếu
+-thiếu hụt
+@Lĩnh vực: hóa học & vật liệu
+-làm nghèo
+-làm nghèo quặng

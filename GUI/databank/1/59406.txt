@@ -1,3 +1,18 @@
-undulation
-	@undulation /,ʌndju'leiʃn/\n*  danh từ\n- sự gợn sóng, sự nhấp nhô\n- chuyển động sóng\n- (y học) cảm giác tim chập chờn\n@Chuyên ngành kỹ thuật\n-gợn sóng\n-sự gợn sóng\n-sự lượn sóng\n-sự nhấp nhô\n-sự uốn nếp\n@Lĩnh vực: xây dựng\n-bề mặt dạng sóng\n-độ (gợn) sóng\n@Lĩnh vực: vật lý\n-chuyển động dạng sóng\n@Lĩnh vực: toán & tin\n-sự chuyển động sóng
-
+undulation	@undulation /,ʌndju'leiʃn/
+*  danh từ
+- sự gợn sóng, sự nhấp nhô
+- chuyển động sóng
+- (y học) cảm giác tim chập chờn
+@Chuyên ngành kỹ thuật
+-gợn sóng
+-sự gợn sóng
+-sự lượn sóng
+-sự nhấp nhô
+-sự uốn nếp
+@Lĩnh vực: xây dựng
+-bề mặt dạng sóng
+-độ (gợn) sóng
+@Lĩnh vực: vật lý
+-chuyển động dạng sóng
+@Lĩnh vực: toán & tin
+-sự chuyển động sóng

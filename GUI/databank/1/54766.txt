@@ -1,3 +1,2 @@
-supported
-	@Chuyên ngành kỹ thuật\n-tựa
-
+supported	@Chuyên ngành kỹ thuật
+-tựa

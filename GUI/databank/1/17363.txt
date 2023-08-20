@@ -1,3 +1,4 @@
-ectozoon
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ngoại ký sinh trùng
-
+ectozoon	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ngoại ký sinh trùng

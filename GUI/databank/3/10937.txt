@@ -1,3 +1,2 @@
-concretization
-	@concretization\n- xem concretize
-
+concretization	@concretization
+- xem concretize

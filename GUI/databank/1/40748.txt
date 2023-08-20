@@ -1,3 +1,15 @@
-permutation
-	@permutation /,pə:mju:'teiʃn/\n*  danh từ\n- sự đôi trật tự (vị trí)\n- (toán học) sự hoán vị; pháp hoán vị\n=old permutation+ phép hoán vị lẻ\n=cyclic permutation+ phép hoán vị vòng quanh\n@Chuyên ngành kinh tế\n-hoán vị\n-phép hoán vị\n-sự hoán vị\n@Chuyên ngành kỹ thuật\n-hoán vị\n-phép hoán vị\n-sự hoán vị\n-thay thế
-
+permutation	@permutation /,pə:mju:'teiʃn/
+*  danh từ
+- sự đôi trật tự (vị trí)
+- (toán học) sự hoán vị; pháp hoán vị
+=old permutation+ phép hoán vị lẻ
+=cyclic permutation+ phép hoán vị vòng quanh
+@Chuyên ngành kinh tế
+-hoán vị
+-phép hoán vị
+-sự hoán vị
+@Chuyên ngành kỹ thuật
+-hoán vị
+-phép hoán vị
+-sự hoán vị
+-thay thế

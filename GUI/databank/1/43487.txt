@@ -1,3 +1,3 @@
-presymptomatic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc tiền triệu chứng
-
+presymptomatic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc tiền triệu chứng

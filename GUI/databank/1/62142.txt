@@ -1,3 +1,35 @@
-volume
-	@volume /'vɔljum/\n*  danh từ\n- quyển, tập\n=a work in three volumes+ một tác phẩm gồm ba tập\n- khối\n- dung tích, thể tích\n- (vật lý) âm lượng\n- (số nhiều) làn, đám, cuộn (khói, mây...)\n=volumes of smoke+ cuộn khói\n!to speak (tell, express) volumes for\n- nói lên một cách hùng hồn, chứng minh một cách hùng hồn\n@Chuyên ngành kinh tế\n-dung tích\n-khối lượng\n-thể tích\n@Chuyên ngành kỹ thuật\n-âm lượng\n-đĩa\n-dung dịch\n-dung lượng\n-dung tích\n-khối\n-khối lượng\n-môi trường ghi\n-mức âm lượng\n-phương tiện nhớ\n-tập nhớ\n-thể tích\n-vật mang dữ liệu\n@Lĩnh vực: toán & tin\n-bộ đĩa\n-tập (sách báo)\n-volum\n@Lĩnh vực: điện lạnh\n-độ to (của âm)
-
+volume	@volume /'vɔljum/
+*  danh từ
+- quyển, tập
+=a work in three volumes+ một tác phẩm gồm ba tập
+- khối
+- dung tích, thể tích
+- (vật lý) âm lượng
+- (số nhiều) làn, đám, cuộn (khói, mây...)
+=volumes of smoke+ cuộn khói
+!to speak (tell, express) volumes for
+- nói lên một cách hùng hồn, chứng minh một cách hùng hồn
+@Chuyên ngành kinh tế
+-dung tích
+-khối lượng
+-thể tích
+@Chuyên ngành kỹ thuật
+-âm lượng
+-đĩa
+-dung dịch
+-dung lượng
+-dung tích
+-khối
+-khối lượng
+-môi trường ghi
+-mức âm lượng
+-phương tiện nhớ
+-tập nhớ
+-thể tích
+-vật mang dữ liệu
+@Lĩnh vực: toán & tin
+-bộ đĩa
+-tập (sách báo)
+-volum
+@Lĩnh vực: điện lạnh
+-độ to (của âm)

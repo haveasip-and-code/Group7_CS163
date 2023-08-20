@@ -1,3 +1,4 @@
-dimmed
-	@Chuyên ngành kỹ thuật\n-bị mờ\n-được làm mờ\n-được nhúng
-
+dimmed	@Chuyên ngành kỹ thuật
+-bị mờ
+-được làm mờ
+-được nhúng

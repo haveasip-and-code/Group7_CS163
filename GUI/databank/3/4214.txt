@@ -1,3 +1,2 @@
-avoider
-	@avoider\n- xem avoid
-
+avoider	@avoider
+- xem avoid

@@ -1,3 +1,21 @@
-spade
-	@spade /speid/\n*  danh từ\n- (đánh bài) con pích\n- cái mai, cái thuổng\n- dao lạng mỡ cá voi\n- (quân sự) phần đuôi (để chống xuống đất) của cỗ pháo\n!to call a spade a spade\n- nói thẳng nói thật, nói toạc móng heo, nói trắng\n*  ngoại động từ\n- đào bằng mai\n- lặng mỡ (cá voi)\n@Chuyên ngành kinh tế\n-dao lạng mỡ cá voi\n@Chuyên ngành kỹ thuật\n-cái mai\n-con pích\n-mai\n-xẻng\n@Lĩnh vực: xây dựng\n-đào đất (bằng mai)\n-xúc bằng xẻng (bê tông)
-
+spade	@spade /speid/
+*  danh từ
+- (đánh bài) con pích
+- cái mai, cái thuổng
+- dao lạng mỡ cá voi
+- (quân sự) phần đuôi (để chống xuống đất) của cỗ pháo
+!to call a spade a spade
+- nói thẳng nói thật, nói toạc móng heo, nói trắng
+*  ngoại động từ
+- đào bằng mai
+- lặng mỡ (cá voi)
+@Chuyên ngành kinh tế
+-dao lạng mỡ cá voi
+@Chuyên ngành kỹ thuật
+-cái mai
+-con pích
+-mai
+-xẻng
+@Lĩnh vực: xây dựng
+-đào đất (bằng mai)
+-xúc bằng xẻng (bê tông)

@@ -1,3 +1,18 @@
-where
-	@where /we /\n*  phó từ\n- đâu, ở đâu, ở ni nào, ở chỗ nào, ở phía nào, ở mặt nào\n=where are you going?+ anh đi đâu đấy?\n=where are my gloves?+ đôi găng của tôi đâu?\n=where am I wrong?+ tôi sai ở chỗ nào?\n=I know where he is+ tôi biết hắn ta ở đâu\n- như thế nào, ra làm sao\n=where will you be if you fail?+ nếu anh thất bại thì rồi anh sẽ ra làm sao?\n*  đại từ\n- đâu, từ đâu; ở đâu\n=where do you come from?+ anh từ đâu đến?\n=where are you going to?+ anh đi đâu?\n- ni (mà), chỗ (mà), điểm (mà)\n=the house where I was born+ căn nhà ni (mà) tôi sinh ra\n*  danh từ\n- ni chốn, địa điểm\n=I must have the wheres and whens+ tôi cần có đầy đủ chi tiết về địa điểm và thời gian
-
+where	@where /we /
+*  phó từ
+- đâu, ở đâu, ở ni nào, ở chỗ nào, ở phía nào, ở mặt nào
+=where are you going?+ anh đi đâu đấy?
+=where are my gloves?+ đôi găng của tôi đâu?
+=where am I wrong?+ tôi sai ở chỗ nào?
+=I know where he is+ tôi biết hắn ta ở đâu
+- như thế nào, ra làm sao
+=where will you be if you fail?+ nếu anh thất bại thì rồi anh sẽ ra làm sao?
+*  đại từ
+- đâu, từ đâu; ở đâu
+=where do you come from?+ anh từ đâu đến?
+=where are you going to?+ anh đi đâu?
+- ni (mà), chỗ (mà), điểm (mà)
+=the house where I was born+ căn nhà ni (mà) tôi sinh ra
+*  danh từ
+- ni chốn, địa điểm
+=I must have the wheres and whens+ tôi cần có đầy đủ chi tiết về địa điểm và thời gian

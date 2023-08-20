@@ -1,3 +1,20 @@
-idler
-	@idler /'aidlə/\n*  danh từ\n- người ăn không ngồi rồi; người lười biếng\n- (kỹ thuật) bánh xe đệm, bánh xe dẫn hướng ((cũng) idle_wheel)\n- (kỹ thuật) Puli đệm ((cũng) idle_pulley)\n- toa (xe lửa) chở hàng đệm\n@Chuyên ngành kỹ thuật\n-bánh chạy không\n-bánh puli đệm\n-bánh răng\n-bánh răng chủ động\n-bánh xe dẫn hướng\n-bộ chạy không\n-bộ đệm\n-puli căng\n-puli dẫn hướng\n@Lĩnh vực: hóa học & vật liệu\n-con lăn không tải\n-puli nghịch chuyển
-
+idler	
+@idler /'aidlə/
+*  danh từ
+- người ăn không ngồi rồi; người lười biếng
+- (kỹ thuật) bánh xe đệm, bánh xe dẫn hướng ((cũng) idle_wheel)
+- (kỹ thuật) Puli đệm ((cũng) idle_pulley)
+- toa (xe lửa) chở hàng đệm
+@Chuyên ngành kỹ thuật
+-bánh chạy không
+-bánh puli đệm
+-bánh răng
+-bánh răng chủ động
+-bánh xe dẫn hướng
+-bộ chạy không
+-bộ đệm
+-puli căng
+-puli dẫn hướng
+@Lĩnh vực: hóa học & vật liệu
+-con lăn không tải
+-puli nghịch chuyển

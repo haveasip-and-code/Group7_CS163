@@ -1,3 +1,4 @@
-iontophoresis
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-điện chuyển iôn
-
+iontophoresis	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-điện chuyển iôn

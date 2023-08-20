@@ -1,3 +1,2 @@
-pubertal
-	@pubertal\n- xem puberty
-
+pubertal	@pubertal
+- xem puberty

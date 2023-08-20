@@ -1,3 +1,7 @@
-manufactures
-	@manufactures\n- sự sản xuất; sự gia công; sự xử lý // sản xuất; gia công\n@Chuyên ngành kinh tế\n-chế tạo\n-hàng chế tạo\n-sản phẩm\n-việc chế tạo
-
+manufactures	@manufactures
+- sự sản xuất; sự gia công; sự xử lý // sản xuất; gia công
+@Chuyên ngành kinh tế
+-chế tạo
+-hàng chế tạo
+-sản phẩm
+-việc chế tạo

@@ -1,3 +1,7 @@
-preprocess
-	@preprocess\n* danh từ\n- (kỹ thuật) tiền quá trình; tiền xử lý; xử lý trước\n@Chuyên ngành kỹ thuật\n-xử lý trước\n@Lĩnh vực: toán & tin\n-tiền xử lý
-
+preprocess	@preprocess
+* danh từ
+- (kỹ thuật) tiền quá trình; tiền xử lý; xử lý trước
+@Chuyên ngành kỹ thuật
+-xử lý trước
+@Lĩnh vực: toán & tin
+-tiền xử lý

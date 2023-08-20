@@ -1,3 +1,38 @@
-dissolve
-	@dissolve /di'zɔlv/\n*  ngoại động từ\n- rã ra, tan rã, phân huỷ\n- hoà tan; làm tan ra\n=sun dissolves ice+ mặt trời làm băng tan ra\n=to be dissolved in téa+ (nghĩa bóng) đầm đìa nước mắt, giàn giụa nước mắt\n- giải tán (nghị viện, quốc hội...); giải thể (công ty, tổ chức...)\n- huỷ bỏ (giao kèo, cuộc hôn nhân...)\n- làm tan, làm biến đi (mây mù, hình ảnh...)\n*  nội động từ\n- rã ra, tan rã, phân huỷ\n- hoà tan; tan ra\n=ice dissolves in the sun+ băng tan dưới ánh mặt trời\n- giải tán, bị giải tán (nghị viện, quốc hội); giải thể, bị giải thể (công ty, tổ chức...)\n- bị huỷ bỏ\n- tan biến, biến mất\n- (điện ảnh) mờ, chồng\n=to dissolve in+ mờ đóng\n=to dissolve out+ mờ sáng\n*  danh từ\n- (điện ảnh) sự mờ chồng\n@Chuyên ngành kinh tế\n-chấm dứt\n-giải tán (quốc hội...)\n-giải thể\n-hòa tan\n-hủy\n-hủy bỏ (hợp đồng...)\n-kết thúc\n-pha loãng\n@Chuyên ngành kỹ thuật\n-hòa tan\n-làm tan\n@Lĩnh vực: toán & tin\n-dissolve\n@Lĩnh vực: vật lý\n-làm tan biến
-
+dissolve	
+@dissolve /di'zɔlv/
+*  ngoại động từ
+- rã ra, tan rã, phân huỷ
+- hoà tan; làm tan ra=sun dissolves ice
++ mặt trời làm băng tan ra=to be dissolved in téa
++ (nghĩa bóng) đầm đìa nước mắt, giàn giụa nước mắt
+- giải tán (nghị viện, quốc hội...); giải thể (công ty, tổ chức...)
+- huỷ bỏ (giao kèo, cuộc hôn nhân...)
+- làm tan, làm biến đi (mây mù, hình ảnh...)
+*  nội động từ
+- rã ra, tan rã, phân huỷ
+- hoà tan; tan ra=ice dissolves in the sun
++ băng tan dưới ánh mặt trời
+- giải tán, bị giải tán (nghị viện, quốc hội); giải thể, bị giải thể (công ty, tổ chức...)
+- bị huỷ bỏ
+- tan biến, biến mất
+- (điện ảnh) mờ, chồng=to dissolve in
++ mờ đóng=to dissolve out
++ mờ sáng
+*  danh từ
+- (điện ảnh) sự mờ chồng
+@Chuyên ngành kinh tế
+-chấm dứt
+-giải tán (quốc hội...)
+-giải thể
+-hòa tan
+-hủy
+-hủy bỏ (hợp đồng...)
+-kết thúc
+-pha loãng
+@Chuyên ngành kỹ thuật
+-hòa tan
+-làm tan
+@Lĩnh vực: toán & tin
+-dissolve
+@Lĩnh vực: vật lý
+-làm tan biến

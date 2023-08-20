@@ -1,3 +1,14 @@
-recognize
-	@recognize /'rekəgnaiz/ (recognise) /'rekəgnaiz/\n*  ngoại động từ\n- công nhận, thừa nhận, chấp nhận\n=to recognize a government+ công nhận một chính phủ\n- nhìn nhận\n=to recognize a far remote relation+ nhìn nhận một người bà con xa\n- nhận ra\n=to recognize an old acquaintance+ nhận ra một người quen cũ\n=to recognize someone by his walk+ trông dáng đi của một người nào mà nhận ra được\n- (từ Mỹ,nghĩa Mỹ) chấp nhận cho (một đại biểu) phát biểu\n@Chuyên ngành kỹ thuật\n-nhận dạng\n@Lĩnh vực: toán & tin\n-đoán, nhận, nhận ra
-
+recognize	@recognize /'rekəgnaiz/ (recognise) /'rekəgnaiz/
+*  ngoại động từ
+- công nhận, thừa nhận, chấp nhận
+=to recognize a government+ công nhận một chính phủ
+- nhìn nhận
+=to recognize a far remote relation+ nhìn nhận một người bà con xa
+- nhận ra
+=to recognize an old acquaintance+ nhận ra một người quen cũ
+=to recognize someone by his walk+ trông dáng đi của một người nào mà nhận ra được
+- (từ Mỹ,nghĩa Mỹ) chấp nhận cho (một đại biểu) phát biểu
+@Chuyên ngành kỹ thuật
+-nhận dạng
+@Lĩnh vực: toán & tin
+-đoán, nhận, nhận ra

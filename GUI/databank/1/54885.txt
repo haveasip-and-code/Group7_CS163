@@ -1,3 +1,5 @@
-survivability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-khả năng sinh tồn\n-khả năng sống còn\n-khả năng sống sót
-
+survivability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-khả năng sinh tồn
+-khả năng sống còn
+-khả năng sống sót

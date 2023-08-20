@@ -1,3 +1,14 @@
-prominence
-	@prominence /prominence/\n*  danh từ\n- tình trạng lồi lên, tình trạng nhô lên; chỗ lồi lên, chỗ nhô lên\n=the prominences of the face+ những chỗ lồi lên ở trên mặt\n- sự chú ý đặc biệt; sự nổi bật\n- sự xuất chúng, sự lỗi lạc\n@Chuyên ngành kinh tế\n-sự nổi bật\n-tình trạng nổi lên\n@Chuyên ngành kỹ thuật\n-chỗ lồi\n-gò\n@Lĩnh vực: điện lạnh\n-tai lửa (của mặt trời)
-
+prominence	@prominence /prominence/
+*  danh từ
+- tình trạng lồi lên, tình trạng nhô lên; chỗ lồi lên, chỗ nhô lên
+=the prominences of the face+ những chỗ lồi lên ở trên mặt
+- sự chú ý đặc biệt; sự nổi bật
+- sự xuất chúng, sự lỗi lạc
+@Chuyên ngành kinh tế
+-sự nổi bật
+-tình trạng nổi lên
+@Chuyên ngành kỹ thuật
+-chỗ lồi
+-gò
+@Lĩnh vực: điện lạnh
+-tai lửa (của mặt trời)

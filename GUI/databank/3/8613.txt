@@ -1,3 +1,2 @@
-certifier
-	@certifier\n- xem certify
-
+certifier	@certifier
+- xem certify

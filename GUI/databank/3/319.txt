@@ -1,3 +1,13 @@
-acceptable
-	@acceptable /ək'septəbl/\n*  tính từ\n- có thể nhận, có thể chấp nhận\n- có thể thừa nhận\n- thoả đáng, làm hài lòng; được hoan nghênh, được tán thưởng\n@Chuyên ngành kinh tế\n-chấp nhận\n-hối phiếu đã được chấp nhận\n@Chuyên ngành kỹ thuật\n-nhận được\n-thừa nhận được\n@Lĩnh vực: toán & tin\n-chấp nhận được
-
+acceptable	@acceptable /ək'septəbl/
+*  tính từ
+- có thể nhận, có thể chấp nhận
+- có thể thừa nhận
+- thoả đáng, làm hài lòng; được hoan nghênh, được tán thưởng
+@Chuyên ngành kinh tế
+-chấp nhận
+-hối phiếu đã được chấp nhận
+@Chuyên ngành kỹ thuật
+-nhận được
+-thừa nhận được
+@Lĩnh vực: toán & tin
+-chấp nhận được

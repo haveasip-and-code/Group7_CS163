@@ -1,3 +1,6 @@
-hardback
-	@hardback\n* danh từ\n- sách đóng bìa cứng\n@Chuyên ngành kỹ thuật\n-bìa cứng
-
+hardback	
+@hardback
+* danh từ
+- sách đóng bìa cứng
+@Chuyên ngành kỹ thuật
+-bìa cứng

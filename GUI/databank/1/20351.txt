@@ -1,3 +1,23 @@
-falling
-	@Chuyên ngành kỹ thuật\n-hạ thấp\n-sự giảm\n-sự hạ thấp\n-sự rơi\n-sự sụt\n-sự sụt đất\n-sụp đổ\n-sụt lở\n@Lĩnh vực: cơ khí & công trình\n-sự giảm xuống\n@Chuyên ngành kỹ thuật\n-hạ thấp\n-sự giảm\n-sự hạ thấp\n-sự rơi\n-sự sụt\n-sự sụt đất\n-sụp đổ\n-sụt lở\n@Lĩnh vực: cơ khí & công trình\n-sự giảm xuống
-
+falling	
+@Chuyên ngành kỹ thuật
+-hạ thấp
+-sự giảm
+-sự hạ thấp
+-sự rơi
+-sự sụt
+-sự sụt đất
+-sụp đổ
+-sụt lở
+@Lĩnh vực: cơ khí & công trình
+-sự giảm xuống
+@Chuyên ngành kỹ thuật
+-hạ thấp
+-sự giảm
+-sự hạ thấp
+-sự rơi
+-sự sụt
+-sự sụt đất
+-sụp đổ
+-sụt lở
+@Lĩnh vực: cơ khí & công trình
+-sự giảm xuống

@@ -1,3 +1,4 @@
-john
-	@john\n* danh từ\n- nhà vệ sinh
-
+john	
+@john
+* danh từ
+- nhà vệ sinh

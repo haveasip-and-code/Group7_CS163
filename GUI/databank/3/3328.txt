@@ -1,3 +1,7 @@
-armouring
-	@Chuyên ngành kỹ thuật\n-sự bọc thép\n-vỏ cáp\n@Lĩnh vực: xây dựng\n-sự bọc sắt\n@Lĩnh vực: điện tử & viễn thông\n-vỏ chịu cứng (cáp)
-
+armouring	@Chuyên ngành kỹ thuật
+-sự bọc thép
+-vỏ cáp
+@Lĩnh vực: xây dựng
+-sự bọc sắt
+@Lĩnh vực: điện tử & viễn thông
+-vỏ chịu cứng (cáp)

@@ -1,3 +1,2 @@
-collagist
-	@collagist\n- xem collage
-
+collagist	@collagist
+- xem collage

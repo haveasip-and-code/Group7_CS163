@@ -1,3 +1,4 @@
-percept
-	@percept /'pə:sept/\n*  danh từ\n- (triết học) đối tượng tri giác\n- kết quả của tri giác
-
+percept	@percept /'pə:sept/
+*  danh từ
+- (triết học) đối tượng tri giác
+- kết quả của tri giác

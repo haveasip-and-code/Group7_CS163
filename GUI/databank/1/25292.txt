@@ -1,3 +1,10 @@
-heaving
-	@Chuyên ngành kỹ thuật\n-đường nhánh\n-sự kéo lên\n-sự nâng lên\n-sự nở\n-sự phồng\n-sự trương nở\n@Lĩnh vực: cơ khí & công trình\n-sự ép thoát
-
+heaving	
+@Chuyên ngành kỹ thuật
+-đường nhánh
+-sự kéo lên
+-sự nâng lên
+-sự nở
+-sự phồng
+-sự trương nở
+@Lĩnh vực: cơ khí & công trình
+-sự ép thoát

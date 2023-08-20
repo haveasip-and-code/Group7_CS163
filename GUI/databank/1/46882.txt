@@ -1,3 +1,2 @@
-repo
-	@Chuyên ngành kinh tế\n-hợp đồng mua lại
-
+repo	@Chuyên ngành kinh tế
+-hợp đồng mua lại

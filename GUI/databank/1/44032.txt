@@ -1,3 +1,6 @@
-pronged
-	@pronged /pronged/\n*  tính từ\n- có răng, có ngạnh, có chĩa\n@Chuyên ngành kinh tế\n-có ngạnh\n-có răng
-
+pronged	@pronged /pronged/
+*  tính từ
+- có răng, có ngạnh, có chĩa
+@Chuyên ngành kinh tế
+-có ngạnh
+-có răng

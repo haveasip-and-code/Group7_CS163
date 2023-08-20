@@ -1,3 +1,2 @@
-cabalist
-	@cabalist\n- xem cabala
-
+cabalist	@cabalist
+- xem cabala

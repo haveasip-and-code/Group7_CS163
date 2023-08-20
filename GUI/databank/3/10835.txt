@@ -1,3 +1,2 @@
-concealable
-	@concealable\n- xem conceal
-
+concealable	@concealable
+- xem conceal

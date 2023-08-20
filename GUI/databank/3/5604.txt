@@ -1,3 +1,7 @@
-biomass
-	@Chuyên ngành kỹ thuật\n-khối lượng sinh vật\n-sinh khối\n@Lĩnh vực: y học\n-khối sinh vật, sinh khối\n@Lĩnh vực: xây dựng\n-sinh chất
-
+biomass	@Chuyên ngành kỹ thuật
+-khối lượng sinh vật
+-sinh khối
+@Lĩnh vực: y học
+-khối sinh vật, sinh khối
+@Lĩnh vực: xây dựng
+-sinh chất

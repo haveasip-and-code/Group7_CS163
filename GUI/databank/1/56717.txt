@@ -1,3 +1,27 @@
-timer
-	@timer /'taimə/\n*  danh từ\n- người bấm giờ\n- đồng hồ bấm giờ\n@Chuyên ngành kinh tế\n-máy điều chỉnh thời gian\n@Chuyên ngành kỹ thuật\n-bộ định thời\n-cái điểm thời\n-đồng hồ bấm giờ\n-rơle thời gian\n-thời kế\n@Lĩnh vực: toán & tin\n-bộ đo thời gian\n@Lĩnh vực: xây dựng\n-bộ hẹn giờ\n-bộ phận định giờ\n@Lĩnh vực: cơ khí & công trình\n-chỉnh thời gian\n-thiết bị bấm giờ\n@Lĩnh vực: điện tử & viễn thông\n-đồng hồ hẹn giờ\n@Lĩnh vực: điện lạnh\n-đồng hộ nhịp\n-đồng hồ thời gian\n@Lĩnh vực: điện\n-thì kế
-
+timer	@timer /'taimə/
+*  danh từ
+- người bấm giờ
+- đồng hồ bấm giờ
+@Chuyên ngành kinh tế
+-máy điều chỉnh thời gian
+@Chuyên ngành kỹ thuật
+-bộ định thời
+-cái điểm thời
+-đồng hồ bấm giờ
+-rơle thời gian
+-thời kế
+@Lĩnh vực: toán & tin
+-bộ đo thời gian
+@Lĩnh vực: xây dựng
+-bộ hẹn giờ
+-bộ phận định giờ
+@Lĩnh vực: cơ khí & công trình
+-chỉnh thời gian
+-thiết bị bấm giờ
+@Lĩnh vực: điện tử & viễn thông
+-đồng hồ hẹn giờ
+@Lĩnh vực: điện lạnh
+-đồng hộ nhịp
+-đồng hồ thời gian
+@Lĩnh vực: điện
+-thì kế

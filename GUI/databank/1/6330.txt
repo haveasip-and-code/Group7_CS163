@@ -1,3 +1,16 @@
-bootstrap
-	@bootstrap\n- (Tech) mạch tự nâng; chương trình mồi, chương trình khởi động\n@Chuyên ngành kỹ thuật\n-chương trình khởi động\n-khởi động\n-mạch tự nâng\n-tự khởi động\n@Lĩnh vực: xây dựng\n-đai giày ống\n@Lĩnh vực: toán & tin\n-sự tự khởi động\n-sự tự mồi\n-tự mồi\n@Lĩnh vực: cơ khí & công trình\n-thanh nối ốp đầu
-
+bootstrap	
+@bootstrap
+- (Tech) mạch tự nâng; chương trình mồi, chương trình khởi động
+@Chuyên ngành kỹ thuật
+-chương trình khởi động
+-khởi động
+-mạch tự nâng
+-tự khởi động
+@Lĩnh vực: xây dựng
+-đai giày ống
+@Lĩnh vực: toán & tin
+-sự tự khởi động
+-sự tự mồi
+-tự mồi
+@Lĩnh vực: cơ khí & công trình
+-thanh nối ốp đầu

@@ -1,3 +1,9 @@
-crystallizer
-	@crystallizer\n- xem crystallize\n@Chuyên ngành kinh tế\n-thiết bị kết tinh\n-thùng kết tinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bộ kết tinh\n-thiết bị kết tinh
-
+crystallizer	@crystallizer
+- xem crystallize
+@Chuyên ngành kinh tế
+-thiết bị kết tinh
+-thùng kết tinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bộ kết tinh
+-thiết bị kết tinh

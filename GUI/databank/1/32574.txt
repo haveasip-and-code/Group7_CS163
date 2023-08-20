@@ -1,3 +1,15 @@
-locator
-	@locator /'loukeitə/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) người quy định ranh giới (một khoảng đất, một khu mỏ...)\n@Chuyên ngành kỹ thuật\n-bộ định vị\n-cái định vị\n-chốt định vị\n-máy định vị\n-máy dò\n@Lĩnh vực: xây dựng\n-định vị viên\n@Lĩnh vực: đo lường & điều khiển\n-người định vị\n@Lĩnh vực: y học\n-thiết bị định vị dị vật
-
+locator	@locator /'loukeitə/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) người quy định ranh giới (một khoảng đất, một khu mỏ...)
+@Chuyên ngành kỹ thuật
+-bộ định vị
+-cái định vị
+-chốt định vị
+-máy định vị
+-máy dò
+@Lĩnh vực: xây dựng
+-định vị viên
+@Lĩnh vực: đo lường & điều khiển
+-người định vị
+@Lĩnh vực: y học
+-thiết bị định vị dị vật

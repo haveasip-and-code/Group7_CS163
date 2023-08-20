@@ -1,3 +1,14 @@
-oversupply
-	@oversupply /'ouvəsə'plai/\n*  danh từ\n- sự cung cấp quá mức\n*  ngoại động từ\n- cung cấp quá mức\n@Chuyên ngành kinh tế\n-cung cấp quá nhiều\n-cung cấp quá thừa\n-cung ứng quá số lượng\n-cung vượt cầu\n-sự cung cấp quá nhiều\n-sự thặng dư\n@Chuyên ngành kỹ thuật\n-nạp quá
-
+oversupply	@oversupply /'ouvəsə'plai/
+*  danh từ
+- sự cung cấp quá mức
+*  ngoại động từ
+- cung cấp quá mức
+@Chuyên ngành kinh tế
+-cung cấp quá nhiều
+-cung cấp quá thừa
+-cung ứng quá số lượng
+-cung vượt cầu
+-sự cung cấp quá nhiều
+-sự thặng dư
+@Chuyên ngành kỹ thuật
+-nạp quá

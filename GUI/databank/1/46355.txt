@@ -1,3 +1,9 @@
-refreezing
-	@Chuyên ngành kinh tế\n-sự làm lạnh đông lại\n@Chuyên ngành kỹ thuật\n-sự làm lạnh lại\n@Lĩnh vực: hóa học & vật liệu\n-sự đông lạnh lại\n-sự ướp lạnh lại\n@Lĩnh vực: điện lạnh\n-sự tái kết đông
-
+refreezing	@Chuyên ngành kinh tế
+-sự làm lạnh đông lại
+@Chuyên ngành kỹ thuật
+-sự làm lạnh lại
+@Lĩnh vực: hóa học & vật liệu
+-sự đông lạnh lại
+-sự ướp lạnh lại
+@Lĩnh vực: điện lạnh
+-sự tái kết đông

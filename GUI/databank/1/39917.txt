@@ -1,3 +1,33 @@
-paste
-	@paste /peist/\n*  danh từ\n- bột nhồi, bột nhâo; hồ bột (để dán)\n- kẹo mềm\n- thuỷ tinh giả kim cương\n- (từ lóng) cú đấm\n*  ngoại động từ\n- dán (bằng hồ)\n=to paste up+ niêm yết; dán lên\n- (từ lóng) đấm, đánh\n@Chuyên ngành kinh tế\n-bột làm kẹo hồ\n-bột làm mì miến\n-bột nhão\n-chuẩn bị bột nhão\n-patê\n@Chuyên ngành kỹ thuật\n-bồi\n-bột nhão\n-dán\n-dán vào\n-phủ\n-vữa\n@Lĩnh vực: điện lạnh\n-bột nhão (điện phân)\n@Lĩnh vực: toán & tin\n-chèn vào\n@Lĩnh vực: xây dựng\n-đất sét nhão\n-hỗn hợp nhão\n-mẻ trộn\n@Lĩnh vực: hóa học & vật liệu\n-hồ bột
-
+paste	@paste /peist/
+*  danh từ
+- bột nhồi, bột nhâo; hồ bột (để dán)
+- kẹo mềm
+- thuỷ tinh giả kim cương
+- (từ lóng) cú đấm
+*  ngoại động từ
+- dán (bằng hồ)
+=to paste up+ niêm yết; dán lên
+- (từ lóng) đấm, đánh
+@Chuyên ngành kinh tế
+-bột làm kẹo hồ
+-bột làm mì miến
+-bột nhão
+-chuẩn bị bột nhão
+-patê
+@Chuyên ngành kỹ thuật
+-bồi
+-bột nhão
+-dán
+-dán vào
+-phủ
+-vữa
+@Lĩnh vực: điện lạnh
+-bột nhão (điện phân)
+@Lĩnh vực: toán & tin
+-chèn vào
+@Lĩnh vực: xây dựng
+-đất sét nhão
+-hỗn hợp nhão
+-mẻ trộn
+@Lĩnh vực: hóa học & vật liệu
+-hồ bột

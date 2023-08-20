@@ -1,3 +1,17 @@
-cultivation
-	@cultivation /,kʌlti'veiʃn/\n*  danh từ\n- sự cày cấy, sự trồng trọt\n=land under cultivation+ đất đai đang được trồng trọt\n=extensive cultivation+ quảng canh\n=intensive cultivation+ thâm canh\n- sự dạy dỗ, sự mở mang, sự giáo hoá; sự trau dồi, sự tu dưỡng, sự nuôi dưỡng, sự bồi dưỡng (tình cảm...)\n@Chuyên ngành kinh tế\n-khai khẩn\n-sự canh tác\n-sự cày cấy\n-sự nuôi dưỡng\n-sự trồng trọt\n@Chuyên ngành kỹ thuật\n-canh tác\n@Lĩnh vực: xây dựng\n-diện tích trồng trọt
-
+cultivation	@cultivation /,kʌlti'veiʃn/
+*  danh từ
+- sự cày cấy, sự trồng trọt
+=land under cultivation+ đất đai đang được trồng trọt
+=extensive cultivation+ quảng canh
+=intensive cultivation+ thâm canh
+- sự dạy dỗ, sự mở mang, sự giáo hoá; sự trau dồi, sự tu dưỡng, sự nuôi dưỡng, sự bồi dưỡng (tình cảm...)
+@Chuyên ngành kinh tế
+-khai khẩn
+-sự canh tác
+-sự cày cấy
+-sự nuôi dưỡng
+-sự trồng trọt
+@Chuyên ngành kỹ thuật
+-canh tác
+@Lĩnh vực: xây dựng
+-diện tích trồng trọt

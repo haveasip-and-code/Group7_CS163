@@ -1,3 +1,2 @@
-spreadable
-	@Chuyên ngành kinh tế\n-có khả năng bôi trơn
-
+spreadable	@Chuyên ngành kinh tế
+-có khả năng bôi trơn

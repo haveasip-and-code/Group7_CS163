@@ -1,3 +1,23 @@
-recycle
-	@recycle\n* nội động từ\n- tái sinh (vật liệu đã dùng để dùng lại)\n- phục hồi, tái chế (sản phẩm tự nhiên)\n@Chuyên ngành kinh tế\n-chế tạo lại để sử dụng\n-làm lại\n-nước cất hồi lưu\n-phục hội\n-phục hồi, tái tạo, làm lại, chế tạo lại để sử dụng\n-sự tuần hoàn\n-tái tạo\n-tuần hoàn\n@Chuyên ngành kỹ thuật\n-sự quay vòng\n-sự tái chu chuyển\n-sự tái tuần hoàn\n@Lĩnh vực: toán & tin\n-chu trình lặp\n@Lĩnh vực: điện lạnh\n-chu trình lặp lại\n@Lĩnh vực: điện tử & viễn thông\n-lặp lại chu kỳ
-
+recycle	@recycle
+* nội động từ
+- tái sinh (vật liệu đã dùng để dùng lại)
+- phục hồi, tái chế (sản phẩm tự nhiên)
+@Chuyên ngành kinh tế
+-chế tạo lại để sử dụng
+-làm lại
+-nước cất hồi lưu
+-phục hội
+-phục hồi, tái tạo, làm lại, chế tạo lại để sử dụng
+-sự tuần hoàn
+-tái tạo
+-tuần hoàn
+@Chuyên ngành kỹ thuật
+-sự quay vòng
+-sự tái chu chuyển
+-sự tái tuần hoàn
+@Lĩnh vực: toán & tin
+-chu trình lặp
+@Lĩnh vực: điện lạnh
+-chu trình lặp lại
+@Lĩnh vực: điện tử & viễn thông
+-lặp lại chu kỳ

@@ -1,3 +1,30 @@
-ray
-	@ray /rei/\n*  danh từ\n- (động vật học) cá đuối\n*  danh từ\n- tia ((nghĩa đen) & (nghĩa bóng))\n=the rays of the sun+ tia nắng\n=refelected ray+ tia phản xạ;\n=X ray+ tia X\n=ray of hope+ (nghĩa bóng) tia hy vọng\n- (nghĩa bóng) tia hy vọng\n- (toán học),  (từ hiếm,nghĩa hiếm) bán kính\n- (thực vật học) hoa phía ngoài của cụm hoa đầu\n- (động vật học) cánh sao (của con sao biển); tai cây (cá)\n*  ngoại động từ\n- (thơ ca) toả, rọi (ánh sáng)\n*  nội động từ\n- (+ off,  out,  forth) chiếu, toả ra (ánh sáng...)\n@Chuyên ngành kinh tế\n-cá đuối\n-tia\n@Chuyên ngành kỹ thuật\n-cạnh ngắm đa giác\n-tia\n-tia sáng\n@Lĩnh vực: cơ khí & công trình\n-mạch nước rỉ\n@Lĩnh vực: xây dựng\n-phát tia\n@Lĩnh vực: toán & tin\n-tia, nửa đường thẳng
-
+ray	@ray /rei/
+*  danh từ
+- (động vật học) cá đuối
+*  danh từ
+- tia ((nghĩa đen) & (nghĩa bóng))
+=the rays of the sun+ tia nắng
+=refelected ray+ tia phản xạ;
+=X ray+ tia X
+=ray of hope+ (nghĩa bóng) tia hy vọng
+- (nghĩa bóng) tia hy vọng
+- (toán học),  (từ hiếm,nghĩa hiếm) bán kính
+- (thực vật học) hoa phía ngoài của cụm hoa đầu
+- (động vật học) cánh sao (của con sao biển); tai cây (cá)
+*  ngoại động từ
+- (thơ ca) toả, rọi (ánh sáng)
+*  nội động từ
+- (+ off,  out,  forth) chiếu, toả ra (ánh sáng...)
+@Chuyên ngành kinh tế
+-cá đuối
+-tia
+@Chuyên ngành kỹ thuật
+-cạnh ngắm đa giác
+-tia
+-tia sáng
+@Lĩnh vực: cơ khí & công trình
+-mạch nước rỉ
+@Lĩnh vực: xây dựng
+-phát tia
+@Lĩnh vực: toán & tin
+-tia, nửa đường thẳng

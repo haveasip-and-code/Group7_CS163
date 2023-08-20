@@ -1,3 +1,10 @@
-perlite
-	@perlite /'pə:plait/\n*  danh từ\n- Peclit, đá trân châu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cấu trúc như peclit\n@Lĩnh vực: xây dựng\n-đá trân châu\n@Lĩnh vực: hóa học & vật liệu\n-peclit
-
+perlite	@perlite /'pə:plait/
+*  danh từ
+- Peclit, đá trân châu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-cấu trúc như peclit
+@Lĩnh vực: xây dựng
+-đá trân châu
+@Lĩnh vực: hóa học & vật liệu
+-peclit

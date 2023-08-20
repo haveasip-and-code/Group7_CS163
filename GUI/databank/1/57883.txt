@@ -1,3 +1,13 @@
-triturate
-	@triturate /'tritju:reit/\n*  ngoại động từ\n- nghiền, tán nhỏ\n@Chuyên ngành kinh tế\n-dập\n-nghiền\n-tán thành bột\n@Chuyên ngành kỹ thuật\n-nghiền nhỏ\n-nghiền thành bột\n-tán thành bột\n@Lĩnh vực: hóa học & vật liệu\n-giã thành bột
-
+triturate	@triturate /'tritju:reit/
+*  ngoại động từ
+- nghiền, tán nhỏ
+@Chuyên ngành kinh tế
+-dập
+-nghiền
+-tán thành bột
+@Chuyên ngành kỹ thuật
+-nghiền nhỏ
+-nghiền thành bột
+-tán thành bột
+@Lĩnh vực: hóa học & vật liệu
+-giã thành bột

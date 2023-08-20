@@ -1,3 +1,10 @@
-pentode
-	@pentode /'pentoud/\n*  danh từ\n- (vật lý) Pentôt, ống năm cực\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đèm 5 cực\n@Lĩnh vực: điện tử & viễn thông\n-đèn năm cực\n@Lĩnh vực: toán & tin\n-pentode, đèn năm cực
-
+pentode	@pentode /'pentoud/
+*  danh từ
+- (vật lý) Pentôt, ống năm cực
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đèm 5 cực
+@Lĩnh vực: điện tử & viễn thông
+-đèn năm cực
+@Lĩnh vực: toán & tin
+-pentode, đèn năm cực

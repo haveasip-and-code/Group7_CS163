@@ -1,3 +1,4 @@
-birefringent
-	@Chuyên ngành kỹ thuật\n-lưỡng chiết\n@Lĩnh vực: vật lý\n-khúc xạ kép
-
+birefringent	@Chuyên ngành kỹ thuật
+-lưỡng chiết
+@Lĩnh vực: vật lý
+-khúc xạ kép

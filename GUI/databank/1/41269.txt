@@ -1,3 +1,10 @@
-photoelectron
-	@photoelectron\n* danh từ\n- quang điện tử\n@Chuyên ngành kỹ thuật\n-quang điện tử\n@Lĩnh vực: điện\n-electron quang\n@Lĩnh vực: điện lạnh\n-electron quang điện\n-quang electron
-
+photoelectron	@photoelectron
+* danh từ
+- quang điện tử
+@Chuyên ngành kỹ thuật
+-quang điện tử
+@Lĩnh vực: điện
+-electron quang
+@Lĩnh vực: điện lạnh
+-electron quang điện
+-quang electron

@@ -1,3 +1,2 @@
-uprooter
-	@uprooter\n- xem uproot
-
+uprooter	@uprooter
+- xem uproot

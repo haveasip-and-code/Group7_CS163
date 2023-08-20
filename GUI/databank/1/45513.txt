@@ -1,3 +1,43 @@
-ramp
-	@ramp /ræmp/\n*  danh từ\n- dốc, bờ dốc, đoạn đường thoai thoải\n=approach ramp of a bridge+ dốc lên cầu\n- (hàng không) thang lên máy bay\n- bệ tên lửa\n*  nội động từ\n- dốc thoai thoải\n- chồm đứng lên, chồm hai chân trước lên (sư tử trên huy hiệu)\n-(đùa cợt) nổi xung, giận điên lên\n*  ngoại động từ\n- (kiến trúc) xây dốc thoai thoải (một bức tường)\n*  danh từ\n- (từ lóng) sự lừa đảo\n- sự tăng giá cao quá cao\n*  nội động từ\n- lừa đảo\n- tăng giá quá cao\n@Chuyên ngành kỹ thuật\n-cầu nâng\n-dốc\n-dốc nước\n-dốc thoải\n-mặt dốc\n-mặt nghiêng\n-phay nghịch chờm\n-sườn dốc\n@Lĩnh vực: giao thông & vận tải\n-bãi đậu máy bay\n-cửa đậu máy bay\n@Lĩnh vực: xây dựng\n-cái chèn bánh\n-cái chèn bánh (tàu hòa)\n-ghềng\n-nhánh nối rẽ\n-rầm thang nghiêng\n@Lĩnh vực: ô tô\n-con đội chết\n@Lĩnh vực: điện\n-độ biến đổi\n-sự biến đổi dòng điện\n@Lĩnh vực: điện lạnh\n-tín hiệu răng cưa
-
+ramp	@ramp /ræmp/
+*  danh từ
+- dốc, bờ dốc, đoạn đường thoai thoải
+=approach ramp of a bridge+ dốc lên cầu
+- (hàng không) thang lên máy bay
+- bệ tên lửa
+*  nội động từ
+- dốc thoai thoải
+- chồm đứng lên, chồm hai chân trước lên (sư tử trên huy hiệu)
+-(đùa cợt) nổi xung, giận điên lên
+*  ngoại động từ
+- (kiến trúc) xây dốc thoai thoải (một bức tường)
+*  danh từ
+- (từ lóng) sự lừa đảo
+- sự tăng giá cao quá cao
+*  nội động từ
+- lừa đảo
+- tăng giá quá cao
+@Chuyên ngành kỹ thuật
+-cầu nâng
+-dốc
+-dốc nước
+-dốc thoải
+-mặt dốc
+-mặt nghiêng
+-phay nghịch chờm
+-sườn dốc
+@Lĩnh vực: giao thông & vận tải
+-bãi đậu máy bay
+-cửa đậu máy bay
+@Lĩnh vực: xây dựng
+-cái chèn bánh
+-cái chèn bánh (tàu hòa)
+-ghềng
+-nhánh nối rẽ
+-rầm thang nghiêng
+@Lĩnh vực: ô tô
+-con đội chết
+@Lĩnh vực: điện
+-độ biến đổi
+-sự biến đổi dòng điện
+@Lĩnh vực: điện lạnh
+-tín hiệu răng cưa

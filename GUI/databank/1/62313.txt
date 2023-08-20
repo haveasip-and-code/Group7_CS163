@@ -1,3 +1,6 @@
-waitress
-	@waitress /'weitris/\n*  danh từ\n- chị hầu bàn\n@Chuyên ngành kinh tế\n-cô chạy bàn\n-nữ phục vụ viên
-
+waitress	@waitress /'weitris/
+*  danh từ
+- chị hầu bàn
+@Chuyên ngành kinh tế
+-cô chạy bàn
+-nữ phục vụ viên

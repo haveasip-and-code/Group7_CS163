@@ -1,3 +1,6 @@
-sleet
-	@sleet /sli:t/\n*  danh từ\n- mưa tuyết\n*  nội động từ\n- mưa tuyết\n=it sleets+ trời mưa tuyết
-
+sleet	@sleet /sli:t/
+*  danh từ
+- mưa tuyết
+*  nội động từ
+- mưa tuyết
+=it sleets+ trời mưa tuyết

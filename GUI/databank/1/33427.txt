@@ -1,3 +1,16 @@
-malleable
-	@malleable /'mæliəbl/\n*  tính từ\n- dễ dát mỏng, dễ uốn\n- (nghĩa bóng) dễ bảo\n@Chuyên ngành kỹ thuật\n-có thể dát\n-dát\n-dễ dát (mỏng)\n-dễ rèn\n-dẻo\n-rèn được dẻo\n@Lĩnh vực: cơ khí & công trình\n-cán mỏng được\n-rèn được\n@Lĩnh vực: điện lạnh\n-dát (mỏng) được
-
+malleable	@malleable /'mæliəbl/
+*  tính từ
+- dễ dát mỏng, dễ uốn
+- (nghĩa bóng) dễ bảo
+@Chuyên ngành kỹ thuật
+-có thể dát
+-dát
+-dễ dát (mỏng)
+-dễ rèn
+-dẻo
+-rèn được dẻo
+@Lĩnh vực: cơ khí & công trình
+-cán mỏng được
+-rèn được
+@Lĩnh vực: điện lạnh
+-dát (mỏng) được

@@ -1,3 +1,4 @@
-factorial
-	@factorial\n- giai thừa; nhân tố\n- generalized f. giai thừa suy rộng
-
+factorial	
+@factorial
+- giai thừa; nhân tố
+- generalized f. giai thừa suy rộng

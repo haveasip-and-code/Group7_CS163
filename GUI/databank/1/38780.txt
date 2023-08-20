@@ -1,3 +1,2 @@
-overdub
-	@Chuyên ngành kỹ thuật\n-sang âm quá mức
-
+overdub	@Chuyên ngành kỹ thuật
+-sang âm quá mức

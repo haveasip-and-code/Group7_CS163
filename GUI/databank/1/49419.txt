@@ -1,3 +1,9 @@
-seaport
-	@seaport /'si:pɔ:t/\n*  danh từ\n- hải cảng\n- thành phố cảng\n@Chuyên ngành kinh tế\n-hải cảng\n@Chuyên ngành kỹ thuật\n-cảng thương mại\n-hải cảng
-
+seaport	@seaport /'si:pɔ:t/
+*  danh từ
+- hải cảng
+- thành phố cảng
+@Chuyên ngành kinh tế
+-hải cảng
+@Chuyên ngành kỹ thuật
+-cảng thương mại
+-hải cảng

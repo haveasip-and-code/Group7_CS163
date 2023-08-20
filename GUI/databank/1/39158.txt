@@ -1,3 +1,2 @@
-pacifiable
-	@pacifiable\n- xem pacify
-
+pacifiable	@pacifiable
+- xem pacify

@@ -1,3 +1,2 @@
-cackler
-	@cackler\n- xem cackle
-
+cackler	@cackler
+- xem cackle

@@ -1,3 +1,13 @@
-rotate
-	@rotate /rou'teit/\n*  động từ\n- quay, xoay quanh\n- luân phiên nhau\n=to rotate the crops+ trồng luân phiên, luân canh\n*  tính từ\n- (thực vật học) có hình bánh xe\n@Chuyên ngành kỹ thuật\n-bị quay\n-quay\n-xoay\n@Lĩnh vực: toán & tin\n-quay, xoay
-
+rotate	@rotate /rou'teit/
+*  động từ
+- quay, xoay quanh
+- luân phiên nhau
+=to rotate the crops+ trồng luân phiên, luân canh
+*  tính từ
+- (thực vật học) có hình bánh xe
+@Chuyên ngành kỹ thuật
+-bị quay
+-quay
+-xoay
+@Lĩnh vực: toán & tin
+-quay, xoay

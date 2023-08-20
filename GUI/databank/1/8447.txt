@@ -1,3 +1,6 @@
-celery
-	@celery /'sələri/\n*  danh từ\n- (thực vật học) cần tây\n@Chuyên ngành kinh tế\n-cần tây
-
+celery	
+@celery /'sələri/
+*  danh từ
+- (thực vật học) cần tây
+@Chuyên ngành kinh tế
+-cần tây

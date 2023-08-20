@@ -1,3 +1,12 @@
-seconds
-	@Chuyên ngành kinh tế\n-bột loại hai\n-bột nghiền thô\n-hàng không đạt tiêu chuẩn chất lượng\n-hàng loại hai\n-hàng loại hai (hàng không đạt tiêu chuẩn chất lượng)\n-hàng thứ phẩm\n-sản phẩm loại hai\n-tấm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thứ phẩm
-
+seconds	@Chuyên ngành kinh tế
+-bột loại hai
+-bột nghiền thô
+-hàng không đạt tiêu chuẩn chất lượng
+-hàng loại hai
+-hàng loại hai (hàng không đạt tiêu chuẩn chất lượng)
+-hàng thứ phẩm
+-sản phẩm loại hai
+-tấm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-thứ phẩm

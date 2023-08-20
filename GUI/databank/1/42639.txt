@@ -1,3 +1,9 @@
-populate
-	@populate /'pɔpjuleit/\n*  ngoại động từ\n- ở, cư trú (một vùng)\n=a densely populated town+ một thành phố đông dân\n- đưa dân đến\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cắm linh kiện vào\n-gắn linh kiện vào
-
+populate	@populate /'pɔpjuleit/
+*  ngoại động từ
+- ở, cư trú (một vùng)
+=a densely populated town+ một thành phố đông dân
+- đưa dân đến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cắm linh kiện vào
+-gắn linh kiện vào

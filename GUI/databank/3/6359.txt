@@ -1,3 +1,8 @@
-borehole
-	@borehole\n* danh từ\n- lỗ khoang trong lòng đất (để lấy nước, dầu...)\n@Chuyên ngành kỹ thuật\n-giếng khoan\n-lỗ khoan\n-lỗ mìn\n-lỗ rãnh
-
+borehole	@borehole
+* danh từ
+- lỗ khoang trong lòng đất (để lấy nước, dầu...)
+@Chuyên ngành kỹ thuật
+-giếng khoan
+-lỗ khoan
+-lỗ mìn
+-lỗ rãnh

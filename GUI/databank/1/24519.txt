@@ -1,3 +1,8 @@
-guideway
-	@guideway\n* danh từ\n- đường dẫn\n@Chuyên ngành kỹ thuật\n-đường dẫn\n-đường rãnh dẫn\n-đường trượt
-
+guideway	
+@guideway
+* danh từ
+- đường dẫn
+@Chuyên ngành kỹ thuật
+-đường dẫn
+-đường rãnh dẫn
+-đường trượt

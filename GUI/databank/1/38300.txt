@@ -1,3 +1,9 @@
-osmometer
-	@osmometer\n* danh từ\n- thẩm thấu kế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-khứu kế\n-thẩm áp kế\n@Lĩnh vực: điện lạnh\n-máy đo thẩm áp
-
+osmometer	@osmometer
+* danh từ
+- thẩm thấu kế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-khứu kế
+-thẩm áp kế
+@Lĩnh vực: điện lạnh
+-máy đo thẩm áp

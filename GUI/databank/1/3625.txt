@@ -1,3 +1,4 @@
-assigned
-	@Chuyên ngành kinh tế\n-đã chuyển nhượng\n-đã sang tên
-
+assigned	
+@Chuyên ngành kinh tế
+-đã chuyển nhượng
+-đã sang tên

@@ -29,23 +29,45 @@ int main() {
     ofstream out;
     in.open("maxslot.txt");
     in>>n;
+    //cout<<n<<'\n';
     in.close();
     for (int it=1;it<=n;it++) {
         in.open(intToString(it)+".txt");
+        out.open(intToString(0)+".txt");
         while (getline(in,s)) {
+            //cout<<s<<'\n';
             ans="";
             for (int i=0;i<s.length();i++) {
                 if (i+1<s.length()&&s[i]=='\\'&&s[i+1]=='n') {
-                    ans+='\n';
+                    out<<'\n';
+                    //cout<<'\n';
+                    i++;
+                }
+                else if (s[i]=='@'||s[i]=='*'||s[i]=='-'||s[i]=='+') {
+                    out<<'\n';
+                    out<<s[i];
                 }
                 else {
-                    ans+=s[i];
+                    out<<s[i];
+                    //cout<<s[i];
                 }
             }
         }
         in.close();
-        out.open(intToString(it)+".txt");
-        out<<ans;
+        //out<<ans;
+        //cout<<"?"<<ans<<'\n';
         out.close();
+        in.open(intToString(0)+".txt");
+        out.open(intToString(it)+".txt");
+        while (getline(in,s)) {
+            //cout<<s<<'\n';
+            out<<s<<'\n';
+        }
+        in.close();
+        //out<<ans;
+        //cout<<"?"<<ans<<'\n';
+        out.close();
+        if (it%100==0) cout<<it<<'\n';
     }
+    //cin>>n;
 }

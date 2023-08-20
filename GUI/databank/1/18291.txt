@@ -1,3 +1,11 @@
-ends
-	@Chuyên ngành kinh tế\n-các mục đích\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-điểm thừa\n-tấm ván ngắn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-điểm thừa\n-tấm ván ngắn
-
+ends	
+@Chuyên ngành kinh tế
+-các mục đích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-điểm thừa
+-tấm ván ngắn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-điểm thừa
+-tấm ván ngắn

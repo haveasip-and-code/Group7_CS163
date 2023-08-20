@@ -1,3 +1,6 @@
-scintillator
-	@scintillator\n* danh từ\n- chất phát sáng nhấp nháy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất lấp lánh
-
+scintillator	@scintillator
+* danh từ
+- chất phát sáng nhấp nháy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất lấp lánh

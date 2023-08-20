@@ -1,3 +1,19 @@
-upkeep
-	@upkeep /' pki:p/\n*  danh từ\n- sự bo dưỡng, sự sửa sang\n- phí tổn bo dưỡng, phí tổn sửa sang\n@Chuyên ngành kinh tế\n-chi phí bảo dưỡng\n-chi phí sửa sang\n-sự bảo dưỡng\n-sự sửa sang\n@Chuyên ngành kỹ thuật\n-gìn giữ\n-sự bảo dưỡng\n-sự bảo quản\n-sự bảo trì\n-sự dưỡng hộ\n-sự theo dõi\n-sửa chữa\n@Lĩnh vực: hóa học & vật liệu\n-bảo dưỡng (tàu)
-
+upkeep	@upkeep /' pki:p/
+*  danh từ
+- sự bo dưỡng, sự sửa sang
+- phí tổn bo dưỡng, phí tổn sửa sang
+@Chuyên ngành kinh tế
+-chi phí bảo dưỡng
+-chi phí sửa sang
+-sự bảo dưỡng
+-sự sửa sang
+@Chuyên ngành kỹ thuật
+-gìn giữ
+-sự bảo dưỡng
+-sự bảo quản
+-sự bảo trì
+-sự dưỡng hộ
+-sự theo dõi
+-sửa chữa
+@Lĩnh vực: hóa học & vật liệu
+-bảo dưỡng (tàu)

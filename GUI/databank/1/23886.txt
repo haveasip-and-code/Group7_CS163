@@ -1,3 +1,14 @@
-goose
-	@goose /gu:s/\n*  danh từ,  số nhiều geese\n- (động vật học) ngỗng, ngỗng cái\n- thịt ngỗng\n- người ngốc nghếch, người khờ dại\n!all his geese are swans\n- (xem) swan\n!can't say bo to a goose\n- (xem) bo\n!to cook that lays the golden eggs\n- tham lợi trước mắt\n*  danh từ,  số nhiều gooses\n- bàn là cổ ngỗng (của thợ may)\n@Chuyên ngành kinh tế\n-con ngỗng\n-thịt ngỗng
-
+goose	
+@goose /gu:s/
+*  danh từ,  số nhiều geese
+- (động vật học) ngỗng, ngỗng cái
+- thịt ngỗng
+- người ngốc nghếch, người khờ dại!all his geese are swans
+- (xem) swan!can't say bo to a goose
+- (xem) bo!to cook that lays the golden eggs
+- tham lợi trước mắt
+*  danh từ,  số nhiều gooses
+- bàn là cổ ngỗng (của thợ may)
+@Chuyên ngành kinh tế
+-con ngỗng
+-thịt ngỗng

@@ -1,3 +1,54 @@
-stack
-	@stack /stæk/\n*  danh từ\n- cây rơm, đụn rơm\n- Xtec (đơn vị đo gỗ bằng khoảng 3 mét khối)\n- đống (than, củi)\n- (thông tục) một số lượng lớn, nhiều\n=to have stacks of work+ có nhiều việc\n- (quân sự) cụm súng dựng chụm vào nhau\n- ống khói (nhà máy, xe lửa...); đám ống khói (trong nhà máy)\n- núi đá cao (ngoài biển khơi Ê-cốt)\n- giá sách; (số nhiều) nhà kho sách\n*  ngoại động từ\n- đánh (rơm, rạ) thành đống; chồng thành đống, chất thành đống\n- (hàng không) hướng dẫn bay lượn vòng (trong khi chờ đợi hạ cánh)\n- (quân sự) dựng (súng) chụm vào nhau\n!to stack the cards\n- (từ Mỹ,nghĩa Mỹ) xếp bài gian lận (để chia đúng cho ai một quân gì)\n- (nghĩa bóng) gian lận bố trí trước, bí mật sắp đặt trước để gian lận\n@Chuyên ngành kinh tế\n-chồng\n-đánh chồng\n-đánh đống\n-đống\n@Chuyên ngành kỹ thuật\n-bó\n-bộ nhớ lồng nhau\n-chồng\n-chùm\n-chùng\n-đánh đống\n-đống\n-giá sách\n-ngăn xếp\n-ống đốt\n-ống đứng\n-ống thải nước\n-ống thông hơi\n-ống xả\n-xếp chồng\n-xếp đống\n-xếp thành đống, chồng thành đống\n@Lĩnh vực: cơ khí & công trình\n-chồng hòm khuôn\n@Lĩnh vực: điện\n-lỏng (dây)\n@Lĩnh vực: xây dựng\n-ống đứng hơi\n-ống khói\n-xếp chồng đống\n@Lĩnh vực: điện lạnh\n-ống sưởi\n@Lĩnh vực: toán & tin\n-xếp thành chồng\n-xếp thành đống
-
+stack	@stack /stæk/
+*  danh từ
+- cây rơm, đụn rơm
+- Xtec (đơn vị đo gỗ bằng khoảng 3 mét khối)
+- đống (than, củi)
+- (thông tục) một số lượng lớn, nhiều
+=to have stacks of work+ có nhiều việc
+- (quân sự) cụm súng dựng chụm vào nhau
+- ống khói (nhà máy, xe lửa...); đám ống khói (trong nhà máy)
+- núi đá cao (ngoài biển khơi Ê-cốt)
+- giá sách; (số nhiều) nhà kho sách
+*  ngoại động từ
+- đánh (rơm, rạ) thành đống; chồng thành đống, chất thành đống
+- (hàng không) hướng dẫn bay lượn vòng (trong khi chờ đợi hạ cánh)
+- (quân sự) dựng (súng) chụm vào nhau
+!to stack the cards
+- (từ Mỹ,nghĩa Mỹ) xếp bài gian lận (để chia đúng cho ai một quân gì)
+- (nghĩa bóng) gian lận bố trí trước, bí mật sắp đặt trước để gian lận
+@Chuyên ngành kinh tế
+-chồng
+-đánh chồng
+-đánh đống
+-đống
+@Chuyên ngành kỹ thuật
+-bó
+-bộ nhớ lồng nhau
+-chồng
+-chùm
+-chùng
+-đánh đống
+-đống
+-giá sách
+-ngăn xếp
+-ống đốt
+-ống đứng
+-ống thải nước
+-ống thông hơi
+-ống xả
+-xếp chồng
+-xếp đống
+-xếp thành đống, chồng thành đống
+@Lĩnh vực: cơ khí & công trình
+-chồng hòm khuôn
+@Lĩnh vực: điện
+-lỏng (dây)
+@Lĩnh vực: xây dựng
+-ống đứng hơi
+-ống khói
+-xếp chồng đống
+@Lĩnh vực: điện lạnh
+-ống sưởi
+@Lĩnh vực: toán & tin
+-xếp thành chồng
+-xếp thành đống

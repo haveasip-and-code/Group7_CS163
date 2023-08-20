@@ -1,3 +1,2 @@
-agrochemical
-	@Chuyên ngành kinh tế\n-sản phẩm nông hóa học
-
+agrochemical	@Chuyên ngành kinh tế
+-sản phẩm nông hóa học

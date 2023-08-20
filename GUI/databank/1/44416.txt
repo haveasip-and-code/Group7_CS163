@@ -1,3 +1,2 @@
-pryingly
-	@pryingly\n- xem pry
-
+pryingly	@pryingly
+- xem pry

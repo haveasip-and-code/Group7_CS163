@@ -1,3 +1,2 @@
-peplus
-	@peplus\n- xem peplos
-
+peplus	@peplus
+- xem peplos

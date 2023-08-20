@@ -1,3 +1,9 @@
-hotel
-	@hotel /hou'tel/\n*  danh từ\n- khách sạn\n@Chuyên ngành kinh tế\n-khách sạn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khách sạn
-
+hotel	
+@hotel /hou'tel/
+*  danh từ
+- khách sạn
+@Chuyên ngành kinh tế
+-khách sạn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khách sạn

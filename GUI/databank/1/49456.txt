@@ -1,3 +1,6 @@
-sec
-	@sec /sek/\n*  tính từ\n- nguyên chất, không pha ngọt, không thêm vị hoa quả (rượu)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SEC
-
+sec	@sec /sek/
+*  tính từ
+- nguyên chất, không pha ngọt, không thêm vị hoa quả (rượu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-SEC

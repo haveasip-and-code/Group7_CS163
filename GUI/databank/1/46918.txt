@@ -1,3 +1,13 @@
-repress
-	@repress /ri'pres/\n*  ngoại động từ\n- dẹp, đàn áp, trấn áp\n=to repress a rebellion+ dẹp một cuộc nổi loạn\n- kiềm chế, nén lại, cầm lại\n=to repress one's anger+ nén giận\n=to repress one's tears+ cầm nước mắt\n@Chuyên ngành kinh tế\n-đoàn đại biểu công nhân viên chức\n-nhân viên đại diện\n-nhân viên tiêu biểu\n@Chuyên ngành kỹ thuật\n-ép lại
-
+repress	@repress /ri'pres/
+*  ngoại động từ
+- dẹp, đàn áp, trấn áp
+=to repress a rebellion+ dẹp một cuộc nổi loạn
+- kiềm chế, nén lại, cầm lại
+=to repress one's anger+ nén giận
+=to repress one's tears+ cầm nước mắt
+@Chuyên ngành kinh tế
+-đoàn đại biểu công nhân viên chức
+-nhân viên đại diện
+-nhân viên tiêu biểu
+@Chuyên ngành kỹ thuật
+-ép lại

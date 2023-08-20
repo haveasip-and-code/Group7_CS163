@@ -1,3 +1,10 @@
-cabana
-	@cabana\n* danh từ\n- cái nhà nhỏ\n- cái lều\n@Chuyên ngành kinh tế\n-lều\n-nhà chồi\n@Chuyên ngành kỹ thuật\n-lều du mục
-
+cabana	
+@cabana
+* danh từ
+- cái nhà nhỏ
+- cái lều
+@Chuyên ngành kinh tế
+-lều
+-nhà chồi
+@Chuyên ngành kỹ thuật
+-lều du mục

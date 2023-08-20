@@ -1,3 +1,5 @@
-steelworker
-	@steelworker\n* danh từ\n- công nhân ngành thép\n@Chuyên ngành kinh tế\n-công nhân luyện thép
-
+steelworker	@steelworker
+* danh từ
+- công nhân ngành thép
+@Chuyên ngành kinh tế
+-công nhân luyện thép

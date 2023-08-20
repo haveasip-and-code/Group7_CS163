@@ -1,3 +1,4 @@
-afterdeck
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-boong phía đuôi
-
+afterdeck	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-boong phía đuôi

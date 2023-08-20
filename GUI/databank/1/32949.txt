@@ -1,3 +1,5 @@
-lumps
-	@Chuyên ngành kỹ thuật\n-cục\n-đá khối\n-địa khối\n-tảng
-
+lumps	@Chuyên ngành kỹ thuật
+-cục
+-đá khối
+-địa khối
+-tảng

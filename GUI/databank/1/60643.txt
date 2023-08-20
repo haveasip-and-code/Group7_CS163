@@ -1,3 +1,10 @@
-untaxed
-	@untaxed /' n't kst/\n*  tính từ\n- không bị đánh thuế, không tính cước\n- không bị quy cho (một lỗi gì), không bị chê\n@Chuyên ngành kinh tế\n-chưa nộp thuế\n-không bị đánh thuế\n-không đánh thuế\n-miễn (thuế)\n-miễn thuế
-
+untaxed	@untaxed /' n't kst/
+*  tính từ
+- không bị đánh thuế, không tính cước
+- không bị quy cho (một lỗi gì), không bị chê
+@Chuyên ngành kinh tế
+-chưa nộp thuế
+-không bị đánh thuế
+-không đánh thuế
+-miễn (thuế)
+-miễn thuế

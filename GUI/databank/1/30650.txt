@@ -1,3 +1,16 @@
-jurisdiction
-	@jurisdiction /,dʤuəris'dikʃn/\n*  danh từ\n- quyền lực pháp lý, quyền xử xét, quyền tài phán\n- quyền hạn, phạm vi quyền hạn; khu vực nằm trong phạm vi quyền hạn\n@Chuyên ngành kinh tế\n-phạm vi quyền hạn\n-quyền hạn\n-quyền lực pháp lý\n-quyền quản hạt\n-quyền tài phán\n-quyền tư pháp\n-quyền xét xử\n-thẩm quyển\n@Lĩnh vực: ttck\n-pháp quyền, phạm vi quyền hạn
-
+jurisdiction	
+@jurisdiction /,dʤuəris'dikʃn/
+*  danh từ
+- quyền lực pháp lý, quyền xử xét, quyền tài phán
+- quyền hạn, phạm vi quyền hạn; khu vực nằm trong phạm vi quyền hạn
+@Chuyên ngành kinh tế
+-phạm vi quyền hạn
+-quyền hạn
+-quyền lực pháp lý
+-quyền quản hạt
+-quyền tài phán
+-quyền tư pháp
+-quyền xét xử
+-thẩm quyển
+@Lĩnh vực: ttck
+-pháp quyền, phạm vi quyền hạn

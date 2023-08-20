@@ -1,3 +1,5 @@
-relocatable
-	@relocatable\n- khả tái định vị\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tái định vị được
-
+relocatable	@relocatable
+- khả tái định vị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tái định vị được

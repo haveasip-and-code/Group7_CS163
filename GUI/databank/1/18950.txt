@@ -1,3 +1,42 @@
-erection
-	@erection /i'rekʃn/\n*  danh từ\n- sự đứng thẳng; sự dựng đứng\n- sự dựng lên, sự xây dựng; công trình xây dựng ((nghĩa đen) & (nghĩa bóng))\n- (sinh vật học) sự cương; trạng thái cương\n- (kỹ thuật) sự ghép, sự lắp ráp\n- (toán học) sự dựng (hình...)\n@Chuyên ngành kỹ thuật\n-sự dựng\n-sự dựng lắp\n-sự ghép\n-sự lắp đặt\n-sự lắp ráp\n-sự xây dựng\n-xây dựng\n@Lĩnh vực: xây dựng\n-lắp dựng\n-sự dựng, sự lắp dựng\n-sự xây lắp\n@Lĩnh vực: toán & tin\n-sự lắp đăt\n@Lĩnh vực: điện\n-việc lắp đặt\n-việc xây dựng\n@Chuyên ngành kỹ thuật\n-sự dựng\n-sự dựng lắp\n-sự ghép\n-sự lắp đặt\n-sự lắp ráp\n-sự xây dựng\n-xây dựng\n@Lĩnh vực: xây dựng\n-lắp dựng\n-sự dựng, sự lắp dựng\n-sự xây lắp\n@Lĩnh vực: toán & tin\n-sự lắp đăt\n@Lĩnh vực: điện\n-việc lắp đặt\n-việc xây dựng
-
+erection	
+@erection /i'rekʃn/
+*  danh từ
+- sự đứng thẳng; sự dựng đứng
+- sự dựng lên, sự xây dựng; công trình xây dựng ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) sự cương; trạng thái cương
+- (kỹ thuật) sự ghép, sự lắp ráp
+- (toán học) sự dựng (hình...)
+@Chuyên ngành kỹ thuật
+-sự dựng
+-sự dựng lắp
+-sự ghép
+-sự lắp đặt
+-sự lắp ráp
+-sự xây dựng
+-xây dựng
+@Lĩnh vực: xây dựng
+-lắp dựng
+-sự dựng, sự lắp dựng
+-sự xây lắp
+@Lĩnh vực: toán & tin
+-sự lắp đăt
+@Lĩnh vực: điện
+-việc lắp đặt
+-việc xây dựng
+@Chuyên ngành kỹ thuật
+-sự dựng
+-sự dựng lắp
+-sự ghép
+-sự lắp đặt
+-sự lắp ráp
+-sự xây dựng
+-xây dựng
+@Lĩnh vực: xây dựng
+-lắp dựng
+-sự dựng, sự lắp dựng
+-sự xây lắp
+@Lĩnh vực: toán & tin
+-sự lắp đăt
+@Lĩnh vực: điện
+-việc lắp đặt
+-việc xây dựng

@@ -1,3 +1,21 @@
-hash
-	@hash /hæʃ/\n*  danh từ\n- món thịt băm\n- (nghĩa bóng) bình mới rượu cũ (đồ cũ sửa lại với hình thức mới)\n- mớ lộn xộn, mớ linh tinh\n!to make a bash of a job\n- làm hỏng việc, làm cho việc trở bên be bét rối tinh\n!to settle somebody's hash\n- (xem) settle\n*  ngoại động từ\n- băm (thịt...)\n- (nghĩa bóng) làm hỏng, làm rối tinh lên\n@Chuyên ngành kinh tế\n-băm nhỏ\n-món thịt băm\n-thái nhỏ\n@Chuyên ngành kỹ thuật\n-rác liệu\n@Lĩnh vực: toán & tin\n-dữ liệu hỏng\n@Lĩnh vực: điện\n-nhiễu Hash
-
+hash	
+@hash /hæʃ/
+*  danh từ
+- món thịt băm
+- (nghĩa bóng) bình mới rượu cũ (đồ cũ sửa lại với hình thức mới)
+- mớ lộn xộn, mớ linh tinh!to make a bash of a job
+- làm hỏng việc, làm cho việc trở bên be bét rối tinh!to settle somebody's hash
+- (xem) settle
+*  ngoại động từ
+- băm (thịt...)
+- (nghĩa bóng) làm hỏng, làm rối tinh lên
+@Chuyên ngành kinh tế
+-băm nhỏ
+-món thịt băm
+-thái nhỏ
+@Chuyên ngành kỹ thuật
+-rác liệu
+@Lĩnh vực: toán & tin
+-dữ liệu hỏng
+@Lĩnh vực: điện
+-nhiễu Hash

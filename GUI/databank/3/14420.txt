@@ -1,3 +1,2 @@
-demurer
-	@Chuyên ngành kinh tế\n-sự tách công ty
-
+demurer	@Chuyên ngành kinh tế
+-sự tách công ty

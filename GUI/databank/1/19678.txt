@@ -1,3 +1,13 @@
-exert
-	@exert /ig'zə:t/\n*  ngoại động từ\n- dùng, sử dụng (sức mạnh, ảnh hưởng...)\n=to exert oneself+ cố gắng, rán sức\n@Chuyên ngành kỹ thuật\n-tác dụng\n@Lĩnh vực: vật lý\n-gây ra (lực)\n@Chuyên ngành kỹ thuật\n-tác dụng\n@Lĩnh vực: vật lý\n-gây ra (lực)
-
+exert	
+@exert /ig'zə:t/
+*  ngoại động từ
+- dùng, sử dụng (sức mạnh, ảnh hưởng...)=to exert oneself
++ cố gắng, rán sức
+@Chuyên ngành kỹ thuật
+-tác dụng
+@Lĩnh vực: vật lý
+-gây ra (lực)
+@Chuyên ngành kỹ thuật
+-tác dụng
+@Lĩnh vực: vật lý
+-gây ra (lực)

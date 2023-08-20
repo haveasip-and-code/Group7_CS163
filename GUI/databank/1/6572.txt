@@ -1,3 +1,11 @@
-braiding
-	@Chuyên ngành kỹ thuật\n-dải bện\n-sự bện\n-sự bện dây\n-sự đan\n-sự tết\n@Lĩnh vực: điện lạnh\n-dây tết bọc ngoài\n@Lĩnh vực: dệt may\n-sản phẩm bện
-
+braiding	
+@Chuyên ngành kỹ thuật
+-dải bện
+-sự bện
+-sự bện dây
+-sự đan
+-sự tết
+@Lĩnh vực: điện lạnh
+-dây tết bọc ngoài
+@Lĩnh vực: dệt may
+-sản phẩm bện

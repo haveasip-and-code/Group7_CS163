@@ -1,3 +1,8 @@
-trifocal
-	@trifocal\n* tính từ\n- có ba tiêu điểm\n* danh từ\n- kính ba tiêu điểm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-kính ba tròng
-
+trifocal	@trifocal
+* tính từ
+- có ba tiêu điểm
+* danh từ
+- kính ba tiêu điểm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-kính ba tròng

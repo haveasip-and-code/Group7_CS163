@@ -1,3 +1,3 @@
-scoreboard
-	@Chuyên ngành kinh tế\n-bảng niêm yết\n-bảng yết thị
-
+scoreboard	@Chuyên ngành kinh tế
+-bảng niêm yết
+-bảng yết thị

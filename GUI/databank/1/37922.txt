@@ -1,3 +1,64 @@
-opening
-	@opening /'oupniɳ/\n*  danh từ\n- khe hở, lỗ\n- sự mở, sự bắt đầu, sự khai mạc; phần đầu\n- những nước đi đầu (đánh cờ)\n- cơ hội, dịp tốt, hoàn cảnh thuận lợi\n- việc chưa có người làm, chức vị chưa có người giao, chân khuyết\n- (từ Mỹ,nghĩa Mỹ) chỗ rừng thưa\n- (điện học); (rađiô) sự cắt mạch\n*  tính từ\n- bắt đầu, mở đầu, khai mạc\n=opening ceremony+ lễ khai mạc\n=opening speech+ bài diễn văn khai mạc\n=the opening day of the exhibition+ ngày khai mạc cuộc triển lãm\n@Chuyên ngành kinh tế\n-bước đầu\n-chân khuyết\n-chức vụ còn khuyết\n-giá mở hàng\n-khe hở\n-lỗ\n-lúc mở cửa\n-sự khai mạc\n-sự khai thủy\n-sự mở\n-sự mở đầu\n-sự mổ xẻ\n-việc chưa có người làm\n@Chuyên ngành kỹ thuật\n-cửa sông\n-độ mở\n-hầm lò\n-hốc tường\n-khẩu độ\n-khe\n-khe hở\n-khe mở\n-lỗ\n-lỗ cửa\n-lỗ hổng\n-lỗ tia\n-lỗ tường\n-lối lên đò\n-lối lên lò\n-nhịp\n-nhịp cầu\n-miệng phun\n-mở\n-rãnh\n-sự khai thác\n-sự mở\n-sự mở rộng\n-sự mở vỉa\n@Lĩnh vực: điện lạnh\n-chỗ hở\n-chỗ mở\n@Lĩnh vực: cơ khí & công trình\n-công trình khai đào\n-khoang trống trong rừng\n-lỗ mở\n@Lĩnh vực: xây dựng\n-công trình khai thác\n-miệng chặt\n-sự khai trương
-
+opening	@opening /'oupniɳ/
+*  danh từ
+- khe hở, lỗ
+- sự mở, sự bắt đầu, sự khai mạc; phần đầu
+- những nước đi đầu (đánh cờ)
+- cơ hội, dịp tốt, hoàn cảnh thuận lợi
+- việc chưa có người làm, chức vị chưa có người giao, chân khuyết
+- (từ Mỹ,nghĩa Mỹ) chỗ rừng thưa
+- (điện học); (rađiô) sự cắt mạch
+*  tính từ
+- bắt đầu, mở đầu, khai mạc
+=opening ceremony+ lễ khai mạc
+=opening speech+ bài diễn văn khai mạc
+=the opening day of the exhibition+ ngày khai mạc cuộc triển lãm
+@Chuyên ngành kinh tế
+-bước đầu
+-chân khuyết
+-chức vụ còn khuyết
+-giá mở hàng
+-khe hở
+-lỗ
+-lúc mở cửa
+-sự khai mạc
+-sự khai thủy
+-sự mở
+-sự mở đầu
+-sự mổ xẻ
+-việc chưa có người làm
+@Chuyên ngành kỹ thuật
+-cửa sông
+-độ mở
+-hầm lò
+-hốc tường
+-khẩu độ
+-khe
+-khe hở
+-khe mở
+-lỗ
+-lỗ cửa
+-lỗ hổng
+-lỗ tia
+-lỗ tường
+-lối lên đò
+-lối lên lò
+-nhịp
+-nhịp cầu
+-miệng phun
+-mở
+-rãnh
+-sự khai thác
+-sự mở
+-sự mở rộng
+-sự mở vỉa
+@Lĩnh vực: điện lạnh
+-chỗ hở
+-chỗ mở
+@Lĩnh vực: cơ khí & công trình
+-công trình khai đào
+-khoang trống trong rừng
+-lỗ mở
+@Lĩnh vực: xây dựng
+-công trình khai thác
+-miệng chặt
+-sự khai trương

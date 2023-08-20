@@ -1,3 +1,49 @@
-factor
-	@factor /'fæktə/\n*  danh từ\n- nhân tố\n=human factor+ nhân tố con người\n- người quản lý, người đại diện\n- người buôn bán ăn hoa hồng\n- (Ê-cốt) người quản lý ruộng đất\n- (toán học) thừa số\n- (kỹ thuật) hệ số\n=factor of safety+ hệ số an toàn\n@Chuyên ngành kinh tế\n-hệ số\n-người bao thanh toán\n-người đại lý độc lập\n-người môi giới buôn bán (hàng hóa)\n-người quản lý ruộng\n-người quản lý ruộng đất\n-nhân số\n-nhân tố\n-nhân tử, số nhân\n-quản gia\n-thành phần\n-thương nhân trung gian\n-yếu tố\n-yếu tố sản xuất\n@Chuyên ngành kỹ thuật\n-chỉ số\n-chỉ tiêu\n-hệ số\n-nhân tố\n-nhân tử\n-số nhân\n-thông số\n-yếu tố\n@Lĩnh vực: xây dựng\n-phân tố\n@Chuyên ngành kỹ thuật\n-chỉ số\n-chỉ tiêu\n-hệ số\n-nhân tố\n-nhân tử\n-số nhân\n-thông số\n-yếu tố\n@Lĩnh vực: xây dựng\n-phân tố
-
+factor	
+@factor /'fæktə/
+*  danh từ
+- nhân tố=human factor
++ nhân tố con người
+- người quản lý, người đại diện
+- người buôn bán ăn hoa hồng
+- (Ê
+-cốt) người quản lý ruộng đất
+- (toán học) thừa số
+- (kỹ thuật) hệ số=factor of safety
++ hệ số an toàn
+@Chuyên ngành kinh tế
+-hệ số
+-người bao thanh toán
+-người đại lý độc lập
+-người môi giới buôn bán (hàng hóa)
+-người quản lý ruộng
+-người quản lý ruộng đất
+-nhân số
+-nhân tố
+-nhân tử, số nhân
+-quản gia
+-thành phần
+-thương nhân trung gian
+-yếu tố
+-yếu tố sản xuất
+@Chuyên ngành kỹ thuật
+-chỉ số
+-chỉ tiêu
+-hệ số
+-nhân tố
+-nhân tử
+-số nhân
+-thông số
+-yếu tố
+@Lĩnh vực: xây dựng
+-phân tố
+@Chuyên ngành kỹ thuật
+-chỉ số
+-chỉ tiêu
+-hệ số
+-nhân tố
+-nhân tử
+-số nhân
+-thông số
+-yếu tố
+@Lĩnh vực: xây dựng
+-phân tố

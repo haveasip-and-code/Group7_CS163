@@ -1,3 +1,9 @@
-leukocyte
-	@leukocyte\n* danh từ\n- <sinh> bạch cầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bạch cầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bạch cầu
-
+leukocyte	@leukocyte
+* danh từ
+- <sinh> bạch cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bạch cầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bạch cầu

@@ -1,3 +1,13 @@
-mandate
-	@mandate /'mændeit/\n*  danh từ\n- lệnh, trát\n- sự uỷ nhiệm, sự uỷ thác\n- sự uỷ mị\n- chỉ thị, yêu cầu (của người bỏ phiếu đối với nghị viên, cho công đoàn viên đối với người đại diện...)\n@Chuyên ngành kinh tế\n-chỉ thị\n-giấy ủy nhiệm\n-giấy ủy quyền\n-giấy ủy thác (tài sản)\n-lệnh\n-sự ủy nhiệm
-
+mandate	@mandate /'mændeit/
+*  danh từ
+- lệnh, trát
+- sự uỷ nhiệm, sự uỷ thác
+- sự uỷ mị
+- chỉ thị, yêu cầu (của người bỏ phiếu đối với nghị viên, cho công đoàn viên đối với người đại diện...)
+@Chuyên ngành kinh tế
+-chỉ thị
+-giấy ủy nhiệm
+-giấy ủy quyền
+-giấy ủy thác (tài sản)
+-lệnh
+-sự ủy nhiệm

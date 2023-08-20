@@ -1,3 +1,19 @@
-bandwidth
-	@bandwidth\n- (Tech) dải thông, bề rộng băng tần, dãy sóng\n@Chuyên ngành kỹ thuật\n-băng tần\n-dải tần\n-dải thông\n@Lĩnh vực: ô tô\n-băng tần (rađiô)\n@Lĩnh vực: toán & tin\n-băng thông\n-độ rộng băng tần\n-độ rộng dải tần\n@Lĩnh vực: điện lạnh\n-bề rộng dải\n@Lĩnh vực: cơ khí & công trình\n-chiều rộng dải tần\n@Lĩnh vực: xây dựng\n-giai tần\n-khổ tần số
-
+bandwidth	@bandwidth
+- (Tech) dải thông, bề rộng băng tần, dãy sóng
+@Chuyên ngành kỹ thuật
+-băng tần
+-dải tần
+-dải thông
+@Lĩnh vực: ô tô
+-băng tần (rađiô)
+@Lĩnh vực: toán & tin
+-băng thông
+-độ rộng băng tần
+-độ rộng dải tần
+@Lĩnh vực: điện lạnh
+-bề rộng dải
+@Lĩnh vực: cơ khí & công trình
+-chiều rộng dải tần
+@Lĩnh vực: xây dựng
+-giai tần
+-khổ tần số

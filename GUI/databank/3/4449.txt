@@ -1,3 +1,2 @@
-badging
-	@Chuyên ngành kỹ thuật\n-sự tạo nhãn hiệu
-
+badging	@Chuyên ngành kỹ thuật
+-sự tạo nhãn hiệu

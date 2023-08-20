@@ -1,3 +1,15 @@
-password
-	@password /'pɑ:swə:d/\n*  danh từ\n- khẩu lệnh\n@Chuyên ngành kinh tế\n-mã khóa\n-mật hiệu\n-mật khẩu\n-mật lệnh\n@Chuyên ngành kỹ thuật\n-từ khóa\n-từ nhận dạng\n@Lĩnh vực: toán & tin\n-mật khẩu\n-mật khẩu, mật lệnh\n-mật lệnh
-
+password	@password /'pɑ:swə:d/
+*  danh từ
+- khẩu lệnh
+@Chuyên ngành kinh tế
+-mã khóa
+-mật hiệu
+-mật khẩu
+-mật lệnh
+@Chuyên ngành kỹ thuật
+-từ khóa
+-từ nhận dạng
+@Lĩnh vực: toán & tin
+-mật khẩu
+-mật khẩu, mật lệnh
+-mật lệnh

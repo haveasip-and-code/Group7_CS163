@@ -1,3 +1,23 @@
-bake
-	@bake /beik/\n*  động từ\n- bỏ lò, nướng bằng lò\n- nung\n=to bake bricks+ nung gạch\n- làm rám (da mặt, quả cây) (mặt trời); bị rám\n@Chuyên ngành kinh tế\n-bánh nướng\n-sự nướng\n@Chuyên ngành kỹ thuật\n-làm kết tụ\n-làm khô\n-nung\n-nướng\n-nướng lò\n-sấy\n-sấy khô\n@Lĩnh vực: dệt may\n-dệt xử lý nhiệt (in hàng dệt, chỗ bị bẩn)\n@Lĩnh vực: xây dựng\n-nung (gạch)\n@Lĩnh vực: hóa học & vật liệu\n-nung ủ (thép)
-
+bake	@bake /beik/
+*  động từ
+- bỏ lò, nướng bằng lò
+- nung
+=to bake bricks+ nung gạch
+- làm rám (da mặt, quả cây) (mặt trời); bị rám
+@Chuyên ngành kinh tế
+-bánh nướng
+-sự nướng
+@Chuyên ngành kỹ thuật
+-làm kết tụ
+-làm khô
+-nung
+-nướng
+-nướng lò
+-sấy
+-sấy khô
+@Lĩnh vực: dệt may
+-dệt xử lý nhiệt (in hàng dệt, chỗ bị bẩn)
+@Lĩnh vực: xây dựng
+-nung (gạch)
+@Lĩnh vực: hóa học & vật liệu
+-nung ủ (thép)

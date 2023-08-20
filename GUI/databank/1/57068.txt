@@ -1,3 +1,17 @@
-torque
-	@torque /tɔ:k/\n*  danh từ\n- (khảo cổ học) vòng cổ ((cũng) torc)\n- (kỹ thuật) mômen xoắn\n@Chuyên ngành kỹ thuật\n-lực xoắn\n-mômen\n-mômen lực\n-mômen quay\n-mômen xoắn\n-sự quay\n-sự xoắn\n@Lĩnh vực: điện tử & viễn thông\n-cặp ngẫu lực\n@Lĩnh vực: vật lý\n-lực xoay\n-mômen xoáy
-
+torque	@torque /tɔ:k/
+*  danh từ
+- (khảo cổ học) vòng cổ ((cũng) torc)
+- (kỹ thuật) mômen xoắn
+@Chuyên ngành kỹ thuật
+-lực xoắn
+-mômen
+-mômen lực
+-mômen quay
+-mômen xoắn
+-sự quay
+-sự xoắn
+@Lĩnh vực: điện tử & viễn thông
+-cặp ngẫu lực
+@Lĩnh vực: vật lý
+-lực xoay
+-mômen xoáy

@@ -1,3 +1,26 @@
-wobble
-	@wobble /'wɔbl/ (wabble) /'wɔbl/\n*  danh từ\n- sực lắc lư, sự nghiêng bên nọ ngả bên kia\n- sự rung rinh\n- sự rung rung, sự run run (giọng nói)\n- (nghĩa bóng) sự do dự, sự lưỡng lự; sự nghiêng ngả (về chính kiến...)\n*  nội động từ\n- lắc lư, nghiêng bên nọ ngả bên kia\n- lung lay (cái bàn...)\n- lảo đảo, loạng choạng (người)\n- rung rung, run run (giọng nói)\n- (nghĩa bóng) lưỡng lự, do dự, nghiêng ngả\n=to wobble between two opinions+ lưỡng lự giữa hai ý kiến\n@Chuyên ngành kỹ thuật\n-đảo\n-lắc\n-lắc lư\n-làm đu đưa\n-làm trao đảo\n-rung (khoan)\n-sự dao động\n-sự dao động ngang\n-sự lắc lư\n-sự trao đảo\n@Lĩnh vực: hóa học & vật liệu\n-sự ngả nghiêng
-
+wobble	@wobble /'wɔbl/ (wabble) /'wɔbl/
+*  danh từ
+- sực lắc lư, sự nghiêng bên nọ ngả bên kia
+- sự rung rinh
+- sự rung rung, sự run run (giọng nói)
+- (nghĩa bóng) sự do dự, sự lưỡng lự; sự nghiêng ngả (về chính kiến...)
+*  nội động từ
+- lắc lư, nghiêng bên nọ ngả bên kia
+- lung lay (cái bàn...)
+- lảo đảo, loạng choạng (người)
+- rung rung, run run (giọng nói)
+- (nghĩa bóng) lưỡng lự, do dự, nghiêng ngả
+=to wobble between two opinions+ lưỡng lự giữa hai ý kiến
+@Chuyên ngành kỹ thuật
+-đảo
+-lắc
+-lắc lư
+-làm đu đưa
+-làm trao đảo
+-rung (khoan)
+-sự dao động
+-sự dao động ngang
+-sự lắc lư
+-sự trao đảo
+@Lĩnh vực: hóa học & vật liệu
+-sự ngả nghiêng

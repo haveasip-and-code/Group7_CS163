@@ -1,3 +1,15 @@
-tabulate
-	@tabulate /'tæbjuleit/\n*  ngoại động từ\n- xếp thành bảng, xếp thành cột\n- làm cho có mặt phẳng, tạo mặt phẳng cho\n@Chuyên ngành kinh tế\n-sắp (các con số..) thành bảng biểu\n-sắp (các con số...) thành bảng biểu\n@Chuyên ngành kỹ thuật\n-lập bảng\n@Lĩnh vực: toán & tin\n-lập bảng biểu\n@Lĩnh vực: xây dựng\n-tạo mặt phẳng\n-tạo thành mặt phẳng\n-xếp thành bảng
-
+tabulate	@tabulate /'tæbjuleit/
+*  ngoại động từ
+- xếp thành bảng, xếp thành cột
+- làm cho có mặt phẳng, tạo mặt phẳng cho
+@Chuyên ngành kinh tế
+-sắp (các con số..) thành bảng biểu
+-sắp (các con số...) thành bảng biểu
+@Chuyên ngành kỹ thuật
+-lập bảng
+@Lĩnh vực: toán & tin
+-lập bảng biểu
+@Lĩnh vực: xây dựng
+-tạo mặt phẳng
+-tạo thành mặt phẳng
+-xếp thành bảng

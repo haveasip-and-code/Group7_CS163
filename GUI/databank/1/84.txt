@@ -1,3 +1,22 @@
-ability
-	@ability /ə'biliti/\n*  danh từ\n- năng lực, khả năng (làm việc gì)\n- (số nhiều) tài năng, tài cán\n=a man of abilities+ một người tài năng\n*  (pháp lý)\n- thẩm quyền\n- (thương nghiệp) khả năng thanh toán được; vốn sẵn có, nguồn vốn (để đáp ứng khi cần thiết)\n=to be best of one's ability+ với tư cách khả năng của mình\n@Chuyên ngành kinh tế\n-khả năng\n-thẩm quyền\n@Chuyên ngành kỹ thuật\n-khả năng\n-năng lực\n-nguồn vốn\n@Lĩnh vực: cơ khí & công trình\n-khả năng thanh toán\n-vốn sẵn có\n@Lĩnh vực: xây dựng\n-thực năng
-
+ability	
+@ability /ə'biliti/
+*  danh từ
+- năng lực, khả năng (làm việc gì)
+- (số nhiều) tài năng, tài cán=a man of abilities
++ một người tài năng
+*  (pháp lý)
+- thẩm quyền
+- (thương nghiệp) khả năng thanh toán được; vốn sẵn có, nguồn vốn (để đáp ứng khi cần thiết)=to be best of one's ability
++ với tư cách khả năng của mình
+@Chuyên ngành kinh tế
+-khả năng
+-thẩm quyền
+@Chuyên ngành kỹ thuật
+-khả năng
+-năng lực
+-nguồn vốn
+@Lĩnh vực: cơ khí & công trình
+-khả năng thanh toán
+-vốn sẵn có
+@Lĩnh vực: xây dựng
+-thực năng

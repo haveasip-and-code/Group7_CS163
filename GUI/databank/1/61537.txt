@@ -1,3 +1,11 @@
-verifiable
-	@verifiable /'verifaiəbl/\n*  tính từ\n- có thể thẩm tra lại\n- có thể xác minh\n- có thể thực hiện được (lời hứa, lời tiên đoán)\n@Chuyên ngành kinh tế\n-có thể kiểm tra\n-có thể thẩm tra lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thử lại được
-
+verifiable	@verifiable /'verifaiəbl/
+*  tính từ
+- có thể thẩm tra lại
+- có thể xác minh
+- có thể thực hiện được (lời hứa, lời tiên đoán)
+@Chuyên ngành kinh tế
+-có thể kiểm tra
+-có thể thẩm tra lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thử lại được

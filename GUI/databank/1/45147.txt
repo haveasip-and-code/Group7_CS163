@@ -1,3 +1,5 @@
-quenched
-	@Chuyên ngành kỹ thuật\n-có tôi\n@Lĩnh vực: xây dựng\n-đã tôi\n-được tôi
-
+quenched	@Chuyên ngành kỹ thuật
+-có tôi
+@Lĩnh vực: xây dựng
+-đã tôi
+-được tôi

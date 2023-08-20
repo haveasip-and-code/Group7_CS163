@@ -1,3 +1,6 @@
-workforce
-	@workforce\n* danh từ\n- lực lượng lao động\n@Chuyên ngành kinh tế\n-lực lượng lao động, nhân công\n-số nhân viên
-
+workforce	@workforce
+* danh từ
+- lực lượng lao động
+@Chuyên ngành kinh tế
+-lực lượng lao động, nhân công
+-số nhân viên

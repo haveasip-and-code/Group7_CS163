@@ -1,3 +1,6 @@
-flunkey
-	@flunkey /flunkey/\n*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flunky)\n- ghuộm khoeo kẻ tôi tớ\n- kẻ hay bợ đỡ, kẻ xu nịnh\n- kẻ học làm sang; kẻ thích người sang
-
+flunkey	
+@flunkey /flunkey/
+*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flunky)
+- ghuộm khoeo kẻ tôi tớ
+- kẻ hay bợ đỡ, kẻ xu nịnh
+- kẻ học làm sang; kẻ thích người sang

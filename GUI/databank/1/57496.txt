@@ -1,3 +1,13 @@
-transshipment
-	@transshipment\n* danh từ\n- sự chuyển tàu, sự sang tàu\n@Chuyên ngành kinh tế\n-chuyển tàu, chuyển sang tàu khác\n-sự chuyển vận, chuyển tải\n@Chuyên ngành kỹ thuật\n-sự chuyển tải\n@Lĩnh vực: xây dựng\n-sự chuyển hành khách\n-sự chuyển vật liệu\n@Lĩnh vực: hóa học & vật liệu\n-sự sang tải (đường thủy)
-
+transshipment	@transshipment
+* danh từ
+- sự chuyển tàu, sự sang tàu
+@Chuyên ngành kinh tế
+-chuyển tàu, chuyển sang tàu khác
+-sự chuyển vận, chuyển tải
+@Chuyên ngành kỹ thuật
+-sự chuyển tải
+@Lĩnh vực: xây dựng
+-sự chuyển hành khách
+-sự chuyển vật liệu
+@Lĩnh vực: hóa học & vật liệu
+-sự sang tải (đường thủy)

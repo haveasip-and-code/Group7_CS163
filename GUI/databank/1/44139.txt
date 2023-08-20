@@ -1,3 +1,33 @@
-proprietary
-	@proprietary /proprietary/\n*  tính từ\n- thuộc chủ, người có quyền sở hữu\n=proprietary rights+ quyền của người chủ, quyền sở hữu\n- có tài sản, có của\n=the proprietary classes+ giai cấp có của\n- (thuộc) quyền sở hữu, giữ làm tài sản riêng; giữ độc quyền (bán, sản xuất...)\n=proprietary medicines+ thuốc đã đăng ký độc quyền sản xuất (bán); biệt dược\n*  danh từ\n- quyền sở hữu\n- giới chủ, tầng lớp chủ\n=the landed proprietary+ tầng lớp địa chủ\n@Chuyên ngành kinh tế\n-chuyên hữu\n-có cầu chứng nhãn hiệu sản xuất\n-có đăng ký độc quyền sản xuất\n-có tài sản\n-độc quyền bán\n-độc quyền khai thác\n-giới chủ\n-giữ độc quyền\n-hữu sản\n-người chủ\n-người có quyền sở hữu\n-quyền sở hữu\n-thuộc giới chủ\n-thuộc nghiệp chủ\n-thuộc người có quyền sở hữu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cá nhân\n-quyền sở hữu riêng\n-riêng
-
+proprietary	@proprietary /proprietary/
+*  tính từ
+- thuộc chủ, người có quyền sở hữu
+=proprietary rights+ quyền của người chủ, quyền sở hữu
+- có tài sản, có của
+=the proprietary classes+ giai cấp có của
+- (thuộc) quyền sở hữu, giữ làm tài sản riêng; giữ độc quyền (bán, sản xuất...)
+=proprietary medicines+ thuốc đã đăng ký độc quyền sản xuất (bán); biệt dược
+*  danh từ
+- quyền sở hữu
+- giới chủ, tầng lớp chủ
+=the landed proprietary+ tầng lớp địa chủ
+@Chuyên ngành kinh tế
+-chuyên hữu
+-có cầu chứng nhãn hiệu sản xuất
+-có đăng ký độc quyền sản xuất
+-có tài sản
+-độc quyền bán
+-độc quyền khai thác
+-giới chủ
+-giữ độc quyền
+-hữu sản
+-người chủ
+-người có quyền sở hữu
+-quyền sở hữu
+-thuộc giới chủ
+-thuộc nghiệp chủ
+-thuộc người có quyền sở hữu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cá nhân
+-quyền sở hữu riêng
+-riêng

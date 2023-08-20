@@ -1,3 +1,3 @@
-allocate
-	@allocate\n- sắp xếp, phân bố
-
+allocate	
+@allocate
+- sắp xếp, phân bố

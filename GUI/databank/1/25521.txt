@@ -1,3 +1,13 @@
-herb
-	@herb /hə:b/\n*  danh từ\n- cỏ, cây thảo\n=medicinal herbs+ cỏ làm thuốc, dược thảo\n@Chuyên ngành kinh tế\n-cây gia vị\n-cây tinh dầu\n-cỏ\n-cỏ cây\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cây thuốc, dược thảo
-
+herb	
+@herb /hə:b/
+*  danh từ
+- cỏ, cây thảo=medicinal herbs
++ cỏ làm thuốc, dược thảo
+@Chuyên ngành kinh tế
+-cây gia vị
+-cây tinh dầu
+-cỏ
+-cỏ cây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cây thuốc, dược thảo

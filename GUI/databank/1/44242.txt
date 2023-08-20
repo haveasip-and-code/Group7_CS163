@@ -1,3 +1,10 @@
-protectionism
-	@protectionism /protectionism/\n*  danh từ\n- chế độ bảo vệ nền công nghiệp trong nước\n@Chuyên ngành kinh tế\n-chính sách bảo hộ (mậu dịch)\n-chính sách bảo hộ mậu dịch\n-chủ nghĩa bảo hộ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bảo hộ
-
+protectionism	@protectionism /protectionism/
+*  danh từ
+- chế độ bảo vệ nền công nghiệp trong nước
+@Chuyên ngành kinh tế
+-chính sách bảo hộ (mậu dịch)
+-chính sách bảo hộ mậu dịch
+-chủ nghĩa bảo hộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bảo hộ

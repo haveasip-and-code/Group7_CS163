@@ -1,3 +1,2 @@
-plushily
-	@plushily\n- xem plushy
-
+plushily	@plushily
+- xem plushy

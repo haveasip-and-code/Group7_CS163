@@ -1,3 +1,26 @@
-recuperate
-	@recuperate /ri'kju:pəreit/\n*  động từ\n- hồi phục (sức khoẻ)\n=to recuperate one's health+ hồi phục sức khoẻ; lấy lại sức khoẻ\n- lấy lại (số tiền đã mất...)\n- (kỹ thuật) thu hồi (nhiệt...)\n@Chuyên ngành kinh tế\n-bồi thường\n-bồi thường thiệt hại\n-khôi phục\n-lại tăng\n-lấy lại\n-lên lại\n-phục hồi\n-tái sinh\n-thu hồi\n-thu lại được\n-thu lại được (một số tiền)\n@Chuyên ngành kỹ thuật\n-hồi phục\n-làm nóng sơ bộ\n-phục hồi\n-xây dựng lại\n@Lĩnh vực: xây dựng\n-khử (oxi) hoàn nguyên\n-truy hồi
-
+recuperate	@recuperate /ri'kju:pəreit/
+*  động từ
+- hồi phục (sức khoẻ)
+=to recuperate one's health+ hồi phục sức khoẻ; lấy lại sức khoẻ
+- lấy lại (số tiền đã mất...)
+- (kỹ thuật) thu hồi (nhiệt...)
+@Chuyên ngành kinh tế
+-bồi thường
+-bồi thường thiệt hại
+-khôi phục
+-lại tăng
+-lấy lại
+-lên lại
+-phục hồi
+-tái sinh
+-thu hồi
+-thu lại được
+-thu lại được (một số tiền)
+@Chuyên ngành kỹ thuật
+-hồi phục
+-làm nóng sơ bộ
+-phục hồi
+-xây dựng lại
+@Lĩnh vực: xây dựng
+-khử (oxi) hoàn nguyên
+-truy hồi

@@ -1,3 +1,2 @@
-deliverability
-	@deliverability\n- xem deliver
-
+deliverability	@deliverability
+- xem deliver

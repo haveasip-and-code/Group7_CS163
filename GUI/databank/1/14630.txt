@@ -1,3 +1,12 @@
-depressor
-	@depressor\n* danh từ\n- (giải phẫu) cơ hạ\n- (sinh học) chất giảm vận động\n@Chuyên ngành kỹ thuật\n-chất ức chế\n@Lĩnh vực: hóa học & vật liệu\n-chất giảm vận động\n-chất khống chế\n@Lĩnh vực: y học\n-nén, giảm, cơ hạ
-
+depressor	
+@depressor
+* danh từ
+- (giải phẫu) cơ hạ
+- (sinh học) chất giảm vận động
+@Chuyên ngành kỹ thuật
+-chất ức chế
+@Lĩnh vực: hóa học & vật liệu
+-chất giảm vận động
+-chất khống chế
+@Lĩnh vực: y học
+-nén, giảm, cơ hạ

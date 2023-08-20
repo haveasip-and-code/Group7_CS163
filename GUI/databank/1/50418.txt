@@ -1,3 +1,2 @@
-shoat
-	@Chuyên ngành kinh tế\n-lợn con
-
+shoat	@Chuyên ngành kinh tế
+-lợn con

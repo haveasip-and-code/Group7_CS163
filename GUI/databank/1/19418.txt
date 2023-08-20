@@ -1,3 +1,11 @@
-eversion
-	@eversion /i'və:ʃn/\n*  danh từ\n- (số nhiều) sự lộn ra\n- (từ cổ,nghĩa cổ) sự lật đổ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự lộn ra\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự lộn ra
-
+eversion	
+@eversion /i'və:ʃn/
+*  danh từ
+- (số nhiều) sự lộn ra
+- (từ cổ,nghĩa cổ) sự lật đổ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự lộn ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự lộn ra

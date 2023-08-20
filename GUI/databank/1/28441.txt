@@ -1,3 +1,12 @@
-infer
-	@infer /in'fə:/\n*  ngoại động từ\n- suy ra, luận ra; kết luận, đưa đến kết luận\n- hàm ý, gợi ý\n- đoán, phỏng đoán\n@Chuyên ngành kỹ thuật\n-kết luận\n-suy luận\n-suy ra\n@Lĩnh vực: xây dựng\n-suy (ra)
-
+infer	
+@infer /in'fə:/
+*  ngoại động từ
+- suy ra, luận ra; kết luận, đưa đến kết luận
+- hàm ý, gợi ý
+- đoán, phỏng đoán
+@Chuyên ngành kỹ thuật
+-kết luận
+-suy luận
+-suy ra
+@Lĩnh vực: xây dựng
+-suy (ra)

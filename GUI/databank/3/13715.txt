@@ -1,3 +1,7 @@
-debut
-	@debut\n* danh từ\n- lần trình diễn đầu tiên (của diễn viên)\n- sự xuất hiện đầu tiên trước công chúng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khởi kiện
-
+debut	@debut
+* danh từ
+- lần trình diễn đầu tiên (của diễn viên)
+- sự xuất hiện đầu tiên trước công chúng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khởi kiện

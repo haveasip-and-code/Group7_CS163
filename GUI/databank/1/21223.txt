@@ -1,3 +1,14 @@
-fixity
-	@fixity /'fiksiti/\n*  danh từ\n- sự cố định, sự bất động\n- sự chăm chú\n=fixity of look+ cái nhìn chăm chú\n- tính ổn định, tính thường trực\n- (vật lý) tính chịu nhiệt, không hao (không mất trọng lượng hay bay hơi khi nhiệt tăng lên)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sự ngàm chặt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sự ngàm chặt
-
+fixity	
+@fixity /'fiksiti/
+*  danh từ
+- sự cố định, sự bất động
+- sự chăm chú=fixity of look
++ cái nhìn chăm chú
+- tính ổn định, tính thường trực
+- (vật lý) tính chịu nhiệt, không hao (không mất trọng lượng hay bay hơi khi nhiệt tăng lên)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sự ngàm chặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sự ngàm chặt

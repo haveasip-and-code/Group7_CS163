@@ -1,3 +1,16 @@
-brightness
-	@brightness /'braitnis/\n*  danh từ\n- sự sáng ngời; sự rực rỡ\n- sự sáng dạ, sự thông minh, sự nhanh trí\n@Chuyên ngành kỹ thuật\n-ánh\n-độ bóng\n-độ chói\n-độ sáng\n-quang lượng\n-sự sáng chói\n@Lĩnh vực: xây dựng\n-ánh (kim)\n-sự sáng\n@Lĩnh vực: hóa học & vật liệu\n-sự mài nhẫn
-
+brightness	@brightness /'braitnis/
+*  danh từ
+- sự sáng ngời; sự rực rỡ
+- sự sáng dạ, sự thông minh, sự nhanh trí
+@Chuyên ngành kỹ thuật
+-ánh
+-độ bóng
+-độ chói
+-độ sáng
+-quang lượng
+-sự sáng chói
+@Lĩnh vực: xây dựng
+-ánh (kim)
+-sự sáng
+@Lĩnh vực: hóa học & vật liệu
+-sự mài nhẫn

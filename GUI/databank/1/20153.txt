@@ -1,3 +1,33 @@
-extrusion
-	@extrusion /eks'tru:ʤn/\n*  danh từ\n- sự đẩy ra, sự ấn ra, sự ẩy ra\n@Chuyên ngành kinh tế\n-sự đùn ra\n-sự tạo hình (bằng cách ép đùn qua mặt bích ca lô)\n@Chuyên ngành kỹ thuật\n-đùn ra\n-ép trồi\n-phun trào\n-sự đẩy ra\n-sự đẩy, ép ra\n-sự đột dập\n-sự đúc ép\n-sự đùn\n-sự ép đùn\n-sự ép trồi\n@Lĩnh vực: y học\n-nhô ra (bị đẩy ra)\n@Chuyên ngành kỹ thuật\n-đùn ra\n-ép trồi\n-phun trào\n-sự đẩy ra\n-sự đẩy, ép ra\n-sự đột dập\n-sự đúc ép\n-sự đùn\n-sự ép đùn\n-sự ép trồi\n@Lĩnh vực: y học\n-nhô ra (bị đẩy ra)
-
+extrusion	
+@extrusion /eks'tru:ʤn/
+*  danh từ
+- sự đẩy ra, sự ấn ra, sự ẩy ra
+@Chuyên ngành kinh tế
+-sự đùn ra
+-sự tạo hình (bằng cách ép đùn qua mặt bích ca lô)
+@Chuyên ngành kỹ thuật
+-đùn ra
+-ép trồi
+-phun trào
+-sự đẩy ra
+-sự đẩy, ép ra
+-sự đột dập
+-sự đúc ép
+-sự đùn
+-sự ép đùn
+-sự ép trồi
+@Lĩnh vực: y học
+-nhô ra (bị đẩy ra)
+@Chuyên ngành kỹ thuật
+-đùn ra
+-ép trồi
+-phun trào
+-sự đẩy ra
+-sự đẩy, ép ra
+-sự đột dập
+-sự đúc ép
+-sự đùn
+-sự ép đùn
+-sự ép trồi
+@Lĩnh vực: y học
+-nhô ra (bị đẩy ra)

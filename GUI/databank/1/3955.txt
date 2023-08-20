@@ -1,3 +1,21 @@
-augment
-	@augment /'ɔ:gmənt /\n*  danh từ\n- (ngôn ngữ học) gia tố, yếu tố thêm[ɔ:g'ment]\n*  ngoại động từ\n- làm tăng lên\n- (ngôn ngữ học) thêm gia tố\n*  nội động từ\n- tăng lên\n@Chuyên ngành kinh tế\n-gia tăng\n-làm tăng lên\n-tăng\n-tăng lên\n@Chuyên ngành kỹ thuật\n-bổ sung\n@Lĩnh vực: toán & tin\n-số hạng thứ hai\n-tăng thêm\n@Lĩnh vực: xây dựng\n-tăng trưởng
-
+augment	
+@augment /'ɔ:gmənt /
+*  danh từ
+- (ngôn ngữ học) gia tố, yếu tố thêm[ɔ:g'ment]
+*  ngoại động từ
+- làm tăng lên
+- (ngôn ngữ học) thêm gia tố
+*  nội động từ
+- tăng lên
+@Chuyên ngành kinh tế
+-gia tăng
+-làm tăng lên
+-tăng
+-tăng lên
+@Chuyên ngành kỹ thuật
+-bổ sung
+@Lĩnh vực: toán & tin
+-số hạng thứ hai
+-tăng thêm
+@Lĩnh vực: xây dựng
+-tăng trưởng

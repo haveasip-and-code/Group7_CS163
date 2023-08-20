@@ -1,3 +1,2 @@
-bankability
-	@bankability\n- xem bankable
-
+bankability	@bankability
+- xem bankable

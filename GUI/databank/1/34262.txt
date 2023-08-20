@@ -1,3 +1,7 @@
-melter
-	@Chuyên ngành kinh tế\n-nồi nấu mỡ\n@Chuyên ngành kỹ thuật\n-bộ làm chảy\n@Lĩnh vực: xây dựng\n-bể luyện\n-bể nấu
-
+melter	@Chuyên ngành kinh tế
+-nồi nấu mỡ
+@Chuyên ngành kỹ thuật
+-bộ làm chảy
+@Lĩnh vực: xây dựng
+-bể luyện
+-bể nấu

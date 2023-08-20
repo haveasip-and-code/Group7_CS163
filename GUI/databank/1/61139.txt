@@ -1,3 +1,16 @@
-validation
-	@validation /,væli'deiʃn/\n*  danh từ\n- sự làm cho có hiệu lực; sự phê chuẩn; sự công nhận có đủ giá trị\n@Chuyên ngành kinh tế\n-phê chuẩn công nhận (có đủ giá trị)\n-sự hiệu lực hóa\n-sự làm cho có hiệu lực\n-xác nhận hữu hiệu\n@Chuyên ngành kỹ thuật\n-hợp lệ\n-sự hợp thức hóa\n-sự xác nhận\n@Lĩnh vực: toán & tin\n-sự hợp lệ\n-sự phê chuẩn\n-sự thừa nhận (tính khách quan của mẫu)
-
+validation	@validation /,væli'deiʃn/
+*  danh từ
+- sự làm cho có hiệu lực; sự phê chuẩn; sự công nhận có đủ giá trị
+@Chuyên ngành kinh tế
+-phê chuẩn công nhận (có đủ giá trị)
+-sự hiệu lực hóa
+-sự làm cho có hiệu lực
+-xác nhận hữu hiệu
+@Chuyên ngành kỹ thuật
+-hợp lệ
+-sự hợp thức hóa
+-sự xác nhận
+@Lĩnh vực: toán & tin
+-sự hợp lệ
+-sự phê chuẩn
+-sự thừa nhận (tính khách quan của mẫu)

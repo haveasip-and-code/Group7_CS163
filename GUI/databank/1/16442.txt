@@ -1,3 +1,19 @@
-domestic
-	@domestic /də'mestik/\n*  tính từ\n- (thuộc) gia đình, (thuộc) việc nhà, nội trợ\n=domestic science+ khoa nội trợ\n- nuôi trong nhà (súc vật)\n- trong nước (làm ở) trong nước, nội (đối với ngoại)\n=domestic trade+ nội thương\n- thích ở nhà, thích đời sống gia đình; chỉ quanh quẩn ở nhà, chỉ ru rú xó nhà\n*  danh từ\n- người hầu, người nhà\n- (số nhiều) hàng nội\n@Chuyên ngành kỹ thuật\n-gia đình\n-gia dụng\n-ngôi nhà\n-nội địa\n@Lĩnh vực: ô tô\n-nội địa (xe)
-
+domestic	
+@domestic /də'mestik/
+*  tính từ
+- (thuộc) gia đình, (thuộc) việc nhà, nội trợ=domestic science
++ khoa nội trợ
+- nuôi trong nhà (súc vật)
+- trong nước (làm ở) trong nước, nội (đối với ngoại)=domestic trade
++ nội thương
+- thích ở nhà, thích đời sống gia đình; chỉ quanh quẩn ở nhà, chỉ ru rú xó nhà
+*  danh từ
+- người hầu, người nhà
+- (số nhiều) hàng nội
+@Chuyên ngành kỹ thuật
+-gia đình
+-gia dụng
+-ngôi nhà
+-nội địa
+@Lĩnh vực: ô tô
+-nội địa (xe)

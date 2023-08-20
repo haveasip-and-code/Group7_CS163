@@ -1,3 +1,38 @@
-feeding
-	@feeding /'fi:diɳ/\n*  danh từ\n- sự cho ăn; sự nuôi lớn\n- sự bồi dưỡng\n- sự cung cấp (chất liệu cho máy)\n- (sân khấu),  (từ lóng) sự nhắc nhau bằng vĩ bạch (giữa hai diễn viên)\n- (thể dục,thể thao) sự chuyền bóng (cho đồng đội sút làm bàn)\n- đồng cỏ\n@Chuyên ngành kinh tế\n-sự cho ăn\n-sự nuôi\n@Chuyên ngành kỹ thuật\n-cung cấp\n-đồng cỏ\n-nạp liệu\n-sự cung cấp\n-sự tiếp liệu\n@Lĩnh vực: xây dựng\n-phản ứng feeding\n@Lĩnh vực: toán & tin\n-sự cấp (liệu)\n-sự cung dưỡng\n@Lĩnh vực: cơ khí & công trình\n-sự dẫn tiếp\n@Chuyên ngành kỹ thuật\n-cung cấp\n-đồng cỏ\n-nạp liệu\n-sự cung cấp\n-sự tiếp liệu\n@Lĩnh vực: xây dựng\n-phản ứng feeding\n@Lĩnh vực: toán & tin\n-sự cấp (liệu)\n-sự cung dưỡng\n@Lĩnh vực: cơ khí & công trình\n-sự dẫn tiếp
-
+feeding	
+@feeding /'fi:diɳ/
+*  danh từ
+- sự cho ăn; sự nuôi lớn
+- sự bồi dưỡng
+- sự cung cấp (chất liệu cho máy)
+- (sân khấu),  (từ lóng) sự nhắc nhau bằng vĩ bạch (giữa hai diễn viên)
+- (thể dục,thể thao) sự chuyền bóng (cho đồng đội sút làm bàn)
+- đồng cỏ
+@Chuyên ngành kinh tế
+-sự cho ăn
+-sự nuôi
+@Chuyên ngành kỹ thuật
+-cung cấp
+-đồng cỏ
+-nạp liệu
+-sự cung cấp
+-sự tiếp liệu
+@Lĩnh vực: xây dựng
+-phản ứng feeding
+@Lĩnh vực: toán & tin
+-sự cấp (liệu)
+-sự cung dưỡng
+@Lĩnh vực: cơ khí & công trình
+-sự dẫn tiếp
+@Chuyên ngành kỹ thuật
+-cung cấp
+-đồng cỏ
+-nạp liệu
+-sự cung cấp
+-sự tiếp liệu
+@Lĩnh vực: xây dựng
+-phản ứng feeding
+@Lĩnh vực: toán & tin
+-sự cấp (liệu)
+-sự cung dưỡng
+@Lĩnh vực: cơ khí & công trình
+-sự dẫn tiếp

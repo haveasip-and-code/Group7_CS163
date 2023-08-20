@@ -1,3 +1,10 @@
-arithmetical
-	@arithmetical /ə'riθ'metikəl/\n*  tính từ ((cũng) arithmetic)\n- (thuộc) số học\n=arithmetical series+ chuỗi số học\n- cộng\n=arithmetical progression+ cấp số cộng\n=arithmetical mean+ trung bình cộng\n@Chuyên ngành kỹ thuật\n-số học
-
+arithmetical	
+@arithmetical /ə'riθ'metikəl/
+*  tính từ ((cũng) arithmetic)
+- (thuộc) số học=arithmetical series
++ chuỗi số học
+- cộng=arithmetical progression
++ cấp số cộng=arithmetical mean
++ trung bình cộng
+@Chuyên ngành kỹ thuật
+-số học

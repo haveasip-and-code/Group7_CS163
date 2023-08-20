@@ -1,3 +1,2 @@
-amortizable
-	@amortizable\n- xem amortize
-
+amortizable	@amortizable
+- xem amortize

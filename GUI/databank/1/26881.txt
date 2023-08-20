@@ -1,3 +1,5 @@
-icier
-	@Chuyên ngành kinh tế\n-máy đổ nước đá vào toa tàu\n@Chuyên ngành kỹ thuật\n-máy tráng băng
-
+icier	
+@Chuyên ngành kinh tế
+-máy đổ nước đá vào toa tàu
+@Chuyên ngành kỹ thuật
+-máy tráng băng

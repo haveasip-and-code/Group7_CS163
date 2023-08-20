@@ -1,3 +1,26 @@
-currency
-	@currency /'kʌrənsi/\n*  danh từ\n- sự lưu hành; thời gian lưu hành ((thường) nói về tiền tệ)\n- tiền, tiền tệ\n=foreign currency+ tiền nước ngoài, ngoại tệ\n=paper currency+ tiền giấy\n- (nghĩa bóng) sự phổ biến, sự thịnh hành\n=to gain currency+ trở thành phổ biến\n@Chuyên ngành kinh tế\n-đồng tiền\n-đồng tiền (của một nước)\n-khoảng thời gian lưu hành\n-kỳ hạn\n-lưu thông\n-sự lưu hành\n-thời hạn\n-tiền\n-tiền tệ\n@Chuyên ngành kỹ thuật\n-kỳ hạn\n-lưu hành\n@Lĩnh vực: điện\n-hệ thống tiền tệ\n@Lĩnh vực: xây dựng\n-sự lưu hành
-
+currency	
+@currency /'kʌrənsi/
+*  danh từ
+- sự lưu hành; thời gian lưu hành ((thường) nói về tiền tệ)
+- tiền, tiền tệ=foreign currency
++ tiền nước ngoài, ngoại tệ=paper currency
++ tiền giấy
+- (nghĩa bóng) sự phổ biến, sự thịnh hành=to gain currency
++ trở thành phổ biến
+@Chuyên ngành kinh tế
+-đồng tiền
+-đồng tiền (của một nước)
+-khoảng thời gian lưu hành
+-kỳ hạn
+-lưu thông
+-sự lưu hành
+-thời hạn
+-tiền
+-tiền tệ
+@Chuyên ngành kỹ thuật
+-kỳ hạn
+-lưu hành
+@Lĩnh vực: điện
+-hệ thống tiền tệ
+@Lĩnh vực: xây dựng
+-sự lưu hành

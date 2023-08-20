@@ -1,3 +1,14 @@
-refiner
-	@refiner /ri'fainə/\n*  danh từ\n- máy tinh chế\n- lò luyện tinh (kim loại)\n@Chuyên ngành kinh tế\n-chất tinh chế\n-máy nghiền socola\n-thiết bị tinh chế đường\n@Chuyên ngành kỹ thuật\n-máy nghiền bột giấy\n-máy tinh chế\n-thiết bị tinh chế\n@Lĩnh vực: cơ khí & công trình\n-lò luyện kim (kim loại) :
-
+refiner	@refiner /ri'fainə/
+*  danh từ
+- máy tinh chế
+- lò luyện tinh (kim loại)
+@Chuyên ngành kinh tế
+-chất tinh chế
+-máy nghiền socola
+-thiết bị tinh chế đường
+@Chuyên ngành kỹ thuật
+-máy nghiền bột giấy
+-máy tinh chế
+-thiết bị tinh chế
+@Lĩnh vực: cơ khí & công trình
+-lò luyện kim (kim loại) :

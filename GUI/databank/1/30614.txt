@@ -1,3 +1,17 @@
-jumble
-	@jumble /'dʤʌmbl/\n*  danh từ\n- (như) jumbal\n- mớ lộn xộn, mớ bòng bong\n*  ngoại động từ\n- trộn lộn xộn, làm lộn xộn, làm lẫn lộn lung tung\n*  nội động từ\n- lộn xộn, lẫn lộn lung tung cả\n@Chuyên ngành kinh tế\n-cuộc bán từ thiện đồ cũ tạp nham\n-đồ bán từ thiện tap nhạp\n-đồ bán từ thiện tạp nhạp\n-đồ tạp nham\n-sự bán đấu giá đồ cũ linh tinh\n@Chuyên ngành kỹ thuật\n-xáo trộn
-
+jumble	
+@jumble /'dʤʌmbl/
+*  danh từ
+- (như) jumbal
+- mớ lộn xộn, mớ bòng bong
+*  ngoại động từ
+- trộn lộn xộn, làm lộn xộn, làm lẫn lộn lung tung
+*  nội động từ
+- lộn xộn, lẫn lộn lung tung cả
+@Chuyên ngành kinh tế
+-cuộc bán từ thiện đồ cũ tạp nham
+-đồ bán từ thiện tap nhạp
+-đồ bán từ thiện tạp nhạp
+-đồ tạp nham
+-sự bán đấu giá đồ cũ linh tinh
+@Chuyên ngành kỹ thuật
+-xáo trộn

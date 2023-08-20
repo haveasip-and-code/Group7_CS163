@@ -1,3 +1,2 @@
-valuate
-	@Chuyên ngành kinh tế\n-định giá
-
+valuate	@Chuyên ngành kinh tế
+-định giá

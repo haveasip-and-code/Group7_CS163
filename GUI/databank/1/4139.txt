@@ -1,3 +1,8 @@
-autotype
-	@autotype /'ɔ:tətaip/\n*  danh từ\n- bản sao đúng\n- thuật in ảnh\n*  ngoại động từ\n- sao đúng\n- in ảnh
-
+autotype	
+@autotype /'ɔ:tətaip/
+*  danh từ
+- bản sao đúng
+- thuật in ảnh
+*  ngoại động từ
+- sao đúng
+- in ảnh

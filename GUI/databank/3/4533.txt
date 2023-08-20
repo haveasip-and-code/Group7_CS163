@@ -1,3 +1,2 @@
-balker
-	@balker\n- xem balk
-
+balker	@balker
+- xem balk

@@ -1,3 +1,4 @@
-interzone
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-liên khu
-
+interzone	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-liên khu

@@ -1,3 +1,4 @@
-professorate
-	@professorate /professorate/\n*  danh từ\n- các giáo sư, tập thể giáo sư (của một trường đại học) ((cũng) professoriate)\n- chức giáo sư đại học
-
+professorate	@professorate /professorate/
+*  danh từ
+- các giáo sư, tập thể giáo sư (của một trường đại học) ((cũng) professoriate)
+- chức giáo sư đại học

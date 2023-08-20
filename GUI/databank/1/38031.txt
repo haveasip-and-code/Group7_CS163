@@ -1,3 +1,12 @@
-optimization
-	@optimization\n- sự tối ưu hoá\n@Chuyên ngành kinh tế\n-sự tối ưu hóa\n-tối ưu hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự làm tối ưu\n@Lĩnh vực: toán & tin\n-sự tối ưu hóa\n@Lĩnh vực: điện tử & viễn thông\n-tối ưu hóa
-
+optimization	@optimization
+- sự tối ưu hoá
+@Chuyên ngành kinh tế
+-sự tối ưu hóa
+-tối ưu hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự làm tối ưu
+@Lĩnh vực: toán & tin
+-sự tối ưu hóa
+@Lĩnh vực: điện tử & viễn thông
+-tối ưu hóa

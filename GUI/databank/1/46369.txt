@@ -1,3 +1,8 @@
-refuel
-	@refuel\n* ngoại động từ\n- tiếp nhiên liệu (cho xe hơi )\n@Chuyên ngành kỹ thuật\n-bổ sung nhiên liệu\n-nạp nhiên liệu\n@Lĩnh vực: hóa học & vật liệu\n-cung cấp nhiên liệu
-
+refuel	@refuel
+* ngoại động từ
+- tiếp nhiên liệu (cho xe hơi )
+@Chuyên ngành kỹ thuật
+-bổ sung nhiên liệu
+-nạp nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+-cung cấp nhiên liệu

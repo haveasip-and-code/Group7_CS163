@@ -1,3 +1,23 @@
-tarnish
-	@tarnish /'tɑ:niʃ/\n*  danh từ\n- trạng thái mờ, trạng thái xỉn\n- (nghĩa rộng) vết nhơ, vết bẩn, điều xấu\n*  ngoại động từ\n- làm cho mờ, làm cho xỉn\n=to tarnish the mirror+ làm cho gương mờ\n- (nghĩa rộng) làm lu mờ; làm ô uế, làm nhơ nhuốc\n=to tarnish one's reputation+ làm lu mờ thanh danh của mình\n*  nội động từ\n- mờ đi, xỉn đi\n@Chuyên ngành kỹ thuật\n-làm mờ\n-làm xỉn\n-làm xỉn (mặt kim loại)\n-sự làm mờ\n@Lĩnh vực: cơ khí & công trình\n-màng oxit\n@Lĩnh vực: ô tô\n-phai màu sơn\n@Lĩnh vực: xây dựng\n-sự biến màu nhiệt\n-sự lấp lánh
-
+tarnish	@tarnish /'tɑ:niʃ/
+*  danh từ
+- trạng thái mờ, trạng thái xỉn
+- (nghĩa rộng) vết nhơ, vết bẩn, điều xấu
+*  ngoại động từ
+- làm cho mờ, làm cho xỉn
+=to tarnish the mirror+ làm cho gương mờ
+- (nghĩa rộng) làm lu mờ; làm ô uế, làm nhơ nhuốc
+=to tarnish one's reputation+ làm lu mờ thanh danh của mình
+*  nội động từ
+- mờ đi, xỉn đi
+@Chuyên ngành kỹ thuật
+-làm mờ
+-làm xỉn
+-làm xỉn (mặt kim loại)
+-sự làm mờ
+@Lĩnh vực: cơ khí & công trình
+-màng oxit
+@Lĩnh vực: ô tô
+-phai màu sơn
+@Lĩnh vực: xây dựng
+-sự biến màu nhiệt
+-sự lấp lánh

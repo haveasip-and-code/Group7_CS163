@@ -1,3 +1,14 @@
-ceramic
-	@ceramic /si'ræmik/\n*  tính từ\n- (thuộc) nghề làm đồ gốm\n@Chuyên ngành kỹ thuật\n-đồ gốm\n@Lĩnh vực: điện\n-bằng gốm\n@Lĩnh vực: điện tử & viễn thông\n-chất liệu đồ gốm\n@Lĩnh vực: hóa học & vật liệu\n-gốm\n@Lĩnh vực: xây dựng\n-thuộc gốm
-
+ceramic	
+@ceramic /si'ræmik/
+*  tính từ
+- (thuộc) nghề làm đồ gốm
+@Chuyên ngành kỹ thuật
+-đồ gốm
+@Lĩnh vực: điện
+-bằng gốm
+@Lĩnh vực: điện tử & viễn thông
+-chất liệu đồ gốm
+@Lĩnh vực: hóa học & vật liệu
+-gốm
+@Lĩnh vực: xây dựng
+-thuộc gốm

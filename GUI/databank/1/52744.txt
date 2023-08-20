@@ -1,3 +1,13 @@
-spurious
-	@spurious /'spjuəriəs/\n*  tính từ\n- giả, giả mạo\n=spurious coin+ đồng tiền giả\n=spurious eyes+ (y học) mắt giả\n@Chuyên ngành kỹ thuật\n-giả\n-giả tạo\n-hỏng\n-sai\n-tạp\n@Lĩnh vực: điện tử & viễn thông\n-tạp nhiễu
-
+spurious	@spurious /'spjuəriəs/
+*  tính từ
+- giả, giả mạo
+=spurious coin+ đồng tiền giả
+=spurious eyes+ (y học) mắt giả
+@Chuyên ngành kỹ thuật
+-giả
+-giả tạo
+-hỏng
+-sai
+-tạp
+@Lĩnh vực: điện tử & viễn thông
+-tạp nhiễu

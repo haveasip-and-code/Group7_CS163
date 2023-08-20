@@ -1,3 +1,10 @@
-paver
-	@paver /'peivə/\n*  danh từ\n- thợ lát (đường, sàn...) ((từ hiếm,nghĩa hiếm) (cũng) paviour)\n@Chuyên ngành kỹ thuật\n-thợ lát đường\n@Lĩnh vực: cơ khí & công trình\n-máy trộn bê tông (lát đường)\n@Lĩnh vực: xây dựng\n-thợ lát đá hè\n-xe rải nhựa đường
-
+paver	@paver /'peivə/
+*  danh từ
+- thợ lát (đường, sàn...) ((từ hiếm,nghĩa hiếm) (cũng) paviour)
+@Chuyên ngành kỹ thuật
+-thợ lát đường
+@Lĩnh vực: cơ khí & công trình
+-máy trộn bê tông (lát đường)
+@Lĩnh vực: xây dựng
+-thợ lát đá hè
+-xe rải nhựa đường

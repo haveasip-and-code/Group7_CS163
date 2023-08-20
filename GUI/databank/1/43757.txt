@@ -1,3 +1,30 @@
-proceed
-	@proceed /proceed/\n*  nội động từ\n- tiến lên; theo đuổi; đi đến\n=to proceed to London+ đi Luân-đôn\n- tiếp tục, tiếp diễn; tiếp tục nói\n=the story proceeds as follows+ câu chuyện tiếp diễn như sau\n=proceed with your work!+ cứ làm tiếp việc của anh đi!\n=lets's proceed to the next subject+ chúng ta hãy chuyển sang vấn đề tiếp theo\n- làm, hành động\n=how shall we proceed?+ chúng ta sẽ phải làm thế nào?\n- xuất phát, phát ra từ\n=our plan proceeded from the new development of the situation+ kế hoạch của chúng ta xuất phát từ sự phát triển mới của tình hình\n=sobs heard to proceed from the next room+ tiếng khóc nghe từ phòng bên đưa lại\n!to proceed against\n- (pháp lý) khởi tố, kiện\n@Chuyên ngành kinh tế\n-bắt nguồn từ\n-khởi tố\n-kiện\n-phát ra từ\n-xuất phát\n@Chuyên ngành kỹ thuật\n-làm\n-tiến hành\n-tiến triển\n-tiếp tục\n@Lĩnh vực: điện lạnh\n-diến biến\n@Lĩnh vực: toán & tin\n-tiếp tục, làm
-
+proceed	@proceed /proceed/
+*  nội động từ
+- tiến lên; theo đuổi; đi đến
+=to proceed to London+ đi Luân-đôn
+- tiếp tục, tiếp diễn; tiếp tục nói
+=the story proceeds as follows+ câu chuyện tiếp diễn như sau
+=proceed with your work!+ cứ làm tiếp việc của anh đi!
+=lets's proceed to the next subject+ chúng ta hãy chuyển sang vấn đề tiếp theo
+- làm, hành động
+=how shall we proceed?+ chúng ta sẽ phải làm thế nào?
+- xuất phát, phát ra từ
+=our plan proceeded from the new development of the situation+ kế hoạch của chúng ta xuất phát từ sự phát triển mới của tình hình
+=sobs heard to proceed from the next room+ tiếng khóc nghe từ phòng bên đưa lại
+!to proceed against
+- (pháp lý) khởi tố, kiện
+@Chuyên ngành kinh tế
+-bắt nguồn từ
+-khởi tố
+-kiện
+-phát ra từ
+-xuất phát
+@Chuyên ngành kỹ thuật
+-làm
+-tiến hành
+-tiến triển
+-tiếp tục
+@Lĩnh vực: điện lạnh
+-diến biến
+@Lĩnh vực: toán & tin
+-tiếp tục, làm

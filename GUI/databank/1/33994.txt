@@ -1,3 +1,15 @@
-maximize
-	@maximize /'mæksimaiz/ (maximise) /'mæksimaiz/\n*  ngoại động từ\n- làm tăng lên đến tột độ\n@Chuyên ngành kinh tế\n-tối đa hóa\n@Chuyên ngành kỹ thuật\n-phóng đại\n-phóng lớn\n@Lĩnh vực: toán & tin\n-cực đại hóa\n-tăng tối đa\n@Lĩnh vực: vật lý\n-làm cực đại\n@Lĩnh vực: xây dựng\n-tối đa hóa
-
+maximize	@maximize /'mæksimaiz/ (maximise) /'mæksimaiz/
+*  ngoại động từ
+- làm tăng lên đến tột độ
+@Chuyên ngành kinh tế
+-tối đa hóa
+@Chuyên ngành kỹ thuật
+-phóng đại
+-phóng lớn
+@Lĩnh vực: toán & tin
+-cực đại hóa
+-tăng tối đa
+@Lĩnh vực: vật lý
+-làm cực đại
+@Lĩnh vực: xây dựng
+-tối đa hóa

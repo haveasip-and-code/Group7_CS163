@@ -1,3 +1,14 @@
-encrustation
-	@Chuyên ngành kinh tế\n-sự đóng cặn\n-sự kết vỏ\n@Chuyên ngành kỹ thuật\n-đóng cặn\n-lớp cạn nồi hơi\n@Lĩnh vực: hóa học & vật liệu\n-bao vỏ cứng\n@Chuyên ngành kỹ thuật\n-đóng cặn\n-lớp cạn nồi hơi\n@Lĩnh vực: hóa học & vật liệu\n-bao vỏ cứng
-
+encrustation	
+@Chuyên ngành kinh tế
+-sự đóng cặn
+-sự kết vỏ
+@Chuyên ngành kỹ thuật
+-đóng cặn
+-lớp cạn nồi hơi
+@Lĩnh vực: hóa học & vật liệu
+-bao vỏ cứng
+@Chuyên ngành kỹ thuật
+-đóng cặn
+-lớp cạn nồi hơi
+@Lĩnh vực: hóa học & vật liệu
+-bao vỏ cứng

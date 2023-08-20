@@ -1,3 +1,21 @@
-evaluate
-	@evaluate /i'væljueit/\n*  ngoại động từ\n- ước lượng\n- định giá\n@Chuyên ngành kinh tế\n-đánh giá\n@Chuyên ngành kỹ thuật\n-đánh giá\n-ra giá\n-ước lượng\n-ước tính\n@Lĩnh vực: xây dựng\n-định trị\n@Chuyên ngành kỹ thuật\n-đánh giá\n-ra giá\n-ước lượng\n-ước tính\n@Lĩnh vực: xây dựng\n-định trị
-
+evaluate	
+@evaluate /i'væljueit/
+*  ngoại động từ
+- ước lượng
+- định giá
+@Chuyên ngành kinh tế
+-đánh giá
+@Chuyên ngành kỹ thuật
+-đánh giá
+-ra giá
+-ước lượng
+-ước tính
+@Lĩnh vực: xây dựng
+-định trị
+@Chuyên ngành kỹ thuật
+-đánh giá
+-ra giá
+-ước lượng
+-ước tính
+@Lĩnh vực: xây dựng
+-định trị

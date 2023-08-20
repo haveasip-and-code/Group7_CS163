@@ -1,3 +1,9 @@
-plugger
-	@plugger\n- xem plug\n@Chuyên ngành kinh tế\n-người quảng cáo rùm beng (cho một sản phẩm)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-búa khoan hơi ép\n@Lĩnh vực: y học\n-cây nhồi chất trám
-
+plugger	@plugger
+- xem plug
+@Chuyên ngành kinh tế
+-người quảng cáo rùm beng (cho một sản phẩm)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-búa khoan hơi ép
+@Lĩnh vực: y học
+-cây nhồi chất trám

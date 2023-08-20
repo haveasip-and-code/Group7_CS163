@@ -1,3 +1,5 @@
-orthorhombic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hệ thoi\n@Lĩnh vực: điện lạnh\n-trực thoi
-
+orthorhombic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hệ thoi
+@Lĩnh vực: điện lạnh
+-trực thoi

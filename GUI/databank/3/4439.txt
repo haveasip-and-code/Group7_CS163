@@ -1,3 +1,8 @@
-bacteriostat
-	@bacteriostat\n* danh từ\n- chất kìm hãm vi khuẩn\n@Chuyên ngành kinh tế\n-chất hãm vi khuẩn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-chất hãm vi khuẩn
-
+bacteriostat	@bacteriostat
+* danh từ
+- chất kìm hãm vi khuẩn
+@Chuyên ngành kinh tế
+-chất hãm vi khuẩn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-chất hãm vi khuẩn

@@ -1,3 +1,3 @@
-determiner
-	@determiner\n* danh từ\n- từ hạn định (chẳng hạn some, your, the...)
-
+determiner	@determiner
+* danh từ
+- từ hạn định (chẳng hạn some, your, the...)

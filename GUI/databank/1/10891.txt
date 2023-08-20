@@ -1,3 +1,3 @@
-conchal
-	@conchal\n- xem concha
-
+conchal	
+@conchal
+- xem concha

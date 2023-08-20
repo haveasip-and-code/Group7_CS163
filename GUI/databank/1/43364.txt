@@ -1,3 +1,5 @@
-prerecord
-	@prerecord\n* ngoại động từ\n- ghi lại (td một chương trình vô tuyến...) để sau này sử dụng\n@Chuyên ngành kỹ thuật\n-ghi trước
-
+prerecord	@prerecord
+* ngoại động từ
+- ghi lại (td một chương trình vô tuyến...) để sau này sử dụng
+@Chuyên ngành kỹ thuật
+-ghi trước

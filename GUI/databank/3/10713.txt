@@ -1,3 +1,19 @@
-completion
-	@completion /kəm'pli:ʃn/\n*  danh từ\n- sự hoàn thành, sự làm xong\n=near completion+ sự gần xong\n- sự làm cho hoàn toàn, sự làm cho đầy đủ\n@Chuyên ngành kinh tế\n-hoàn thành\n-sự hoàn tất\n-sự làm xong\n@Chuyên ngành kỹ thuật\n-hoàn tất\n-sự bổ sung\n-sự cải tiến\n-sự hoàn thành\n-sự hoàn thiện\n-sự mở rộng\n@Lĩnh vực: cơ khí & công trình\n-sự làm đủ\n-sự làm trọn bộ
-
+completion	@completion /kəm'pli:ʃn/
+*  danh từ
+- sự hoàn thành, sự làm xong
+=near completion+ sự gần xong
+- sự làm cho hoàn toàn, sự làm cho đầy đủ
+@Chuyên ngành kinh tế
+-hoàn thành
+-sự hoàn tất
+-sự làm xong
+@Chuyên ngành kỹ thuật
+-hoàn tất
+-sự bổ sung
+-sự cải tiến
+-sự hoàn thành
+-sự hoàn thiện
+-sự mở rộng
+@Lĩnh vực: cơ khí & công trình
+-sự làm đủ
+-sự làm trọn bộ

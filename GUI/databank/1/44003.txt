@@ -1,3 +1,11 @@
-promo
-	@promo\n* danh từ\n- số nhiều promos\n- (thông tục) quảng cáo (viết tắt) của promotion\n@Chuyên ngành kinh tế\n-cổ động\n-đề xướng\n-phát khởi\n-thăng cấp\n-thăng chức\n-tuyên truyền
-
+promo	@promo
+* danh từ
+- số nhiều promos
+- (thông tục) quảng cáo (viết tắt) của promotion
+@Chuyên ngành kinh tế
+-cổ động
+-đề xướng
+-phát khởi
+-thăng cấp
+-thăng chức
+-tuyên truyền

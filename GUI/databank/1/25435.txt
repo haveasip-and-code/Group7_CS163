@@ -1,3 +1,4 @@
-hematoma
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-khối tụ máu
-
+hematoma	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-khối tụ máu

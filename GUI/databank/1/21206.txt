@@ -1,3 +1,54 @@
-fitting
-	@fitting /'fitiɳ/\n*  danh từ\n- sự làm cho khớp, sự điều chỉnh; sự thử (quần áo)\n- sự lắp ráp\n- (số nhiều) đồ đạc, đồ đạc cố định (trong nhà); đồ trang trí (trong nhà, ô tô...)\n- (số nhiều) máy móc\n*  tính từ\n- thích hợp, phù hợp\n- phải, đúng\n@Chuyên ngành kỹ thuật\n-bộ phận nối\n-đầu nối ống\n-khớp nối ống\n-khuỷu ống\n-làm cho khớp\n-lắp ráp\n-mối nối\n-ống nối\n-sự điều chỉnh\n-sự làm khít\n-sự lắp\n-sự lắp ráp\n-sự thích hợp\n@Lĩnh vực: cơ khí & công trình\n-khít khao\n-sự vừa vặn\n@Lĩnh vực: toán & tin\n-ống lối\n@Lĩnh vực: điện lạnh\n-sự chỉnh khớp\n-sự làm khớp\n@Chuyên ngành kỹ thuật\n-bộ phận nối\n-đầu nối ống\n-khớp nối ống\n-khuỷu ống\n-làm cho khớp\n-lắp ráp\n-mối nối\n-ống nối\n-sự điều chỉnh\n-sự làm khít\n-sự lắp\n-sự lắp ráp\n-sự thích hợp\n@Lĩnh vực: cơ khí & công trình\n-khít khao\n-sự vừa vặn\n@Lĩnh vực: toán & tin\n-ống lối\n@Lĩnh vực: điện lạnh\n-sự chỉnh khớp\n-sự làm khớp
-
+fitting	
+@fitting /'fitiɳ/
+*  danh từ
+- sự làm cho khớp, sự điều chỉnh; sự thử (quần áo)
+- sự lắp ráp
+- (số nhiều) đồ đạc, đồ đạc cố định (trong nhà); đồ trang trí (trong nhà, ô tô...)
+- (số nhiều) máy móc
+*  tính từ
+- thích hợp, phù hợp
+- phải, đúng
+@Chuyên ngành kỹ thuật
+-bộ phận nối
+-đầu nối ống
+-khớp nối ống
+-khuỷu ống
+-làm cho khớp
+-lắp ráp
+-mối nối
+-ống nối
+-sự điều chỉnh
+-sự làm khít
+-sự lắp
+-sự lắp ráp
+-sự thích hợp
+@Lĩnh vực: cơ khí & công trình
+-khít khao
+-sự vừa vặn
+@Lĩnh vực: toán & tin
+-ống lối
+@Lĩnh vực: điện lạnh
+-sự chỉnh khớp
+-sự làm khớp
+@Chuyên ngành kỹ thuật
+-bộ phận nối
+-đầu nối ống
+-khớp nối ống
+-khuỷu ống
+-làm cho khớp
+-lắp ráp
+-mối nối
+-ống nối
+-sự điều chỉnh
+-sự làm khít
+-sự lắp
+-sự lắp ráp
+-sự thích hợp
+@Lĩnh vực: cơ khí & công trình
+-khít khao
+-sự vừa vặn
+@Lĩnh vực: toán & tin
+-ống lối
+@Lĩnh vực: điện lạnh
+-sự chỉnh khớp
+-sự làm khớp

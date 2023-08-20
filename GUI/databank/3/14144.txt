@@ -1,3 +1,2 @@
-degrader
-	@degrader\n- xem degrade
-
+degrader	@degrader
+- xem degrade

@@ -1,3 +1,10 @@
-microfiche
-	@microfiche\n* danh từ\n- tấm vi phim\n@Chuyên ngành kinh tế\n-vi phiếu\n@Chuyên ngành kỹ thuật\n-vi phiếu\n-vi thẻ\n@Lĩnh vực: toán & tin\n-tấm vi phim
-
+microfiche	@microfiche
+* danh từ
+- tấm vi phim
+@Chuyên ngành kinh tế
+-vi phiếu
+@Chuyên ngành kỹ thuật
+-vi phiếu
+-vi thẻ
+@Lĩnh vực: toán & tin
+-tấm vi phim

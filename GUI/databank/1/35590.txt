@@ -1,3 +1,4 @@
-monumentality
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tính đồ sộ\n-tính hoàng tráng
-
+monumentality	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tính đồ sộ
+-tính hoàng tráng

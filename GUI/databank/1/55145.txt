@@ -1,3 +1,10 @@
-symbiosis
-	@symbiosis /,simbi'ousis/\n*  danh từ\n- (sinh vật học) sự cộng sinh\n@Chuyên ngành kinh tế\n-đời sống cộng sinh\n-hiện tượng cộng sinh\n@Chuyên ngành kỹ thuật\n-sự cộng sinh\n@Lĩnh vực: y học\n-cộng sinh
-
+symbiosis	@symbiosis /,simbi'ousis/
+*  danh từ
+- (sinh vật học) sự cộng sinh
+@Chuyên ngành kinh tế
+-đời sống cộng sinh
+-hiện tượng cộng sinh
+@Chuyên ngành kỹ thuật
+-sự cộng sinh
+@Lĩnh vực: y học
+-cộng sinh

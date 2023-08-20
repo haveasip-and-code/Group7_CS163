@@ -1,3 +1,5 @@
-crediting
-	@Chuyên ngành kinh tế\n-cho vay\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự cho vay
-
+crediting	@Chuyên ngành kinh tế
+-cho vay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự cho vay

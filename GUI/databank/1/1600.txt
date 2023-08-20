@@ -1,3 +1,28 @@
-allotment
-	@allotment /ə'lɔtmənt/\n*  danh từ\n- sự phân công, sự giao việc (phần việc); sự định dùng (một số tiền vào việc gì)\n- sự chia phần, sự phân phối; sự định phần\n- phần được chia, phần được phân phối\n- mảnh đất được phân phối để cày cấy\n- (quân sự) sự phiên chế\n- (quân sự) sự chuyển (một phần lương) cho gia đình\n@Chuyên ngành kinh tế\n-cấp (ngân sách)\n-dành\n-sự phân phối\n-việc phân phối cổ phiếu\n@Chuyên ngành kỹ thuật\n-bộ phân\n-bộ phận\n-khu mỏ\n-một phần\n-sự cấp kinh phí\n-sự phân bố\n-sự phân phối\n@Lĩnh vực: hóa học & vật liệu\n-địa phần\n@Lĩnh vực: cơ khí & công trình\n-sự cấp vốn\n@Lĩnh vực: xây dựng\n-sự chia lô
-
+allotment	
+@allotment /ə'lɔtmənt/
+*  danh từ
+- sự phân công, sự giao việc (phần việc); sự định dùng (một số tiền vào việc gì)
+- sự chia phần, sự phân phối; sự định phần
+- phần được chia, phần được phân phối
+- mảnh đất được phân phối để cày cấy
+- (quân sự) sự phiên chế
+- (quân sự) sự chuyển (một phần lương) cho gia đình
+@Chuyên ngành kinh tế
+-cấp (ngân sách)
+-dành
+-sự phân phối
+-việc phân phối cổ phiếu
+@Chuyên ngành kỹ thuật
+-bộ phân
+-bộ phận
+-khu mỏ
+-một phần
+-sự cấp kinh phí
+-sự phân bố
+-sự phân phối
+@Lĩnh vực: hóa học & vật liệu
+-địa phần
+@Lĩnh vực: cơ khí & công trình
+-sự cấp vốn
+@Lĩnh vực: xây dựng
+-sự chia lô

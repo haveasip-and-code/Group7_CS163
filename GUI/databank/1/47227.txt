@@ -1,3 +1,18 @@
-restriction
-	@restriction /ris'trikʃn/\n*  danh từ\n- sự hạn chế, sự giới hạn, sự thu hẹp\n=without restriction+ không hạn chế\n=to impose restrictions+ buộc phải hạn chế, bắt phải giới hạn\n=to lift restriction+ bãi bỏ những hạn chế\n@Chuyên ngành kinh tế\n-sự hạn chế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép thu hẹp\n@Chuyên ngành kỹ thuật\n-hạn chế\n-sự giới hạn\n-sự hạn chế\n-sự thu hẹp\n@Lĩnh vực: điện lạnh\n-sự bó hẹp
-
+restriction	@restriction /ris'trikʃn/
+*  danh từ
+- sự hạn chế, sự giới hạn, sự thu hẹp
+=without restriction+ không hạn chế
+=to impose restrictions+ buộc phải hạn chế, bắt phải giới hạn
+=to lift restriction+ bãi bỏ những hạn chế
+@Chuyên ngành kinh tế
+-sự hạn chế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép thu hẹp
+@Chuyên ngành kỹ thuật
+-hạn chế
+-sự giới hạn
+-sự hạn chế
+-sự thu hẹp
+@Lĩnh vực: điện lạnh
+-sự bó hẹp

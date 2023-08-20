@@ -1,3 +1,13 @@
-tempering
-	@tempering\n* danh từ\n- sự tôi (thép)\n- (kiến trúc) sự trộn vữa\n- sự hoà trộn; sự xáo trộn\n@Chuyên ngành kinh tế\n-sự điều hòa nhiệt độ\n@Chuyên ngành kỹ thuật\n-ram\n-sự ram\n@Lĩnh vực: cơ khí & công trình\n-sự ram (thép)\n-sự tôi và ram
-
+tempering	@tempering
+* danh từ
+- sự tôi (thép)
+- (kiến trúc) sự trộn vữa
+- sự hoà trộn; sự xáo trộn
+@Chuyên ngành kinh tế
+-sự điều hòa nhiệt độ
+@Chuyên ngành kỹ thuật
+-ram
+-sự ram
+@Lĩnh vực: cơ khí & công trình
+-sự ram (thép)
+-sự tôi và ram

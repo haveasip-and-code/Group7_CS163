@@ -1,3 +1,18 @@
-compile
-	@compile /kəm'pail/\n*  ngoại động từ\n- biên soạn, sưu tập tài liệu\n@Chuyên ngành kinh tế\n-biên soạn\n-sưu tầm tài liệu\n@Chuyên ngành kỹ thuật\n-biên dịch\n-biên soạn\n-dịch\n-kết hợp\n-lập\n-tập hợp\n-thông dịch\n@Lĩnh vực: xây dựng\n-biên vẽ\n-sưu tập
-
+compile	
+@compile /kəm'pail/
+*  ngoại động từ
+- biên soạn, sưu tập tài liệu
+@Chuyên ngành kinh tế
+-biên soạn
+-sưu tầm tài liệu
+@Chuyên ngành kỹ thuật
+-biên dịch
+-biên soạn
+-dịch
+-kết hợp
+-lập
+-tập hợp
+-thông dịch
+@Lĩnh vực: xây dựng
+-biên vẽ
+-sưu tập

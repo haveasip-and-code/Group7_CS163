@@ -1,3 +1,17 @@
-tachometer
-	@tachometer /tæ'kɔmitə/\n*  danh từ\n- (kỹ thuật) máy đo tốc độ gốc\n@Chuyên ngành kỹ thuật\n-đồng hồ tốc độ\n-máy đo khoảng cách\n-máy đo xa\n-máy thị cự\n-tốc độ kế\n@Lĩnh vực: điện lạnh\n-cự kế\n@Lĩnh vực: xây dựng\n-giác cự kế\n-máy đo vòng quay\n-máy toàn đạc\n@Lĩnh vực: ô tô\n-tốc (độ) kế
-
+tachometer	@tachometer /tæ'kɔmitə/
+*  danh từ
+- (kỹ thuật) máy đo tốc độ gốc
+@Chuyên ngành kỹ thuật
+-đồng hồ tốc độ
+-máy đo khoảng cách
+-máy đo xa
+-máy thị cự
+-tốc độ kế
+@Lĩnh vực: điện lạnh
+-cự kế
+@Lĩnh vực: xây dựng
+-giác cự kế
+-máy đo vòng quay
+-máy toàn đạc
+@Lĩnh vực: ô tô
+-tốc (độ) kế

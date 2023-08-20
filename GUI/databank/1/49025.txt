@@ -1,3 +1,2 @@
-schematize
-	@schematize\n- xem schematise
-
+schematize	@schematize
+- xem schematise

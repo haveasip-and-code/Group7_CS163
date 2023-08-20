@@ -41,6 +41,9 @@
 // };
 
 int cmd;
+int mode;
+int factor;
+int deltaPos;
 
 wxString curWord;
 wxString curDef;
@@ -54,6 +57,8 @@ extern vector<pair<string,string>> historyList;
 extern TST data;
 
 bool isEditable;
+
+vector<string> inputRegex;
 
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
@@ -76,10 +81,14 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     chooseMode->SetFont(myAppFont);
 
     chooseMode->SetSelection(0);
+    mode=1;
+    cmd=1;
 
     chooseMode->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
         wxString selectedText = chooseMode->GetStringSelection();
-        wxLogMessage("Selected: %s", selectedText);
+        //wxLogMessage("Selected: %s", selectedText);
+        if (selectedText=="By keyword") mode=1;
+        else mode=2;
     });
 
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
@@ -117,19 +126,35 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         wxString searchText = searchBar->GetValue();
-        wxMessageBox("Searching for: " + searchText);
+        //wxMessageBox("Searching for: " + searchText);
         //wxMessageBox(getPath(1));
-        string tmp=string(searchText.mb_str());
+        string tmp=wxStringToString(searchText);
         //string testStr="make";
         //cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
-        pair<string,string> searchResult=getWordDefAlways(data,tmp);
-        curDef=stringToWxString(searchResult.second);
-        curWord=stringToWxString(searchResult.first);
-        //cout<<curDef<<' '<<curWord<<'\n';
-        //wxMessageBox(curWord+" "+curDef);
-        //definition->ChangeValue("To hell with wxWidgets");
-        word->ChangeValue(curWord);
-        definition->ChangeValue(curDef);
+        if (mode==1) {
+            pair<string,string> searchResult=getWordDefAlways(data,tmp);
+            curDef=stringToWxString(searchResult.second);
+            curWord=stringToWxString(searchResult.first);
+            //cout<<curDef<<' '<<curWord<<'\n';
+            //wxMessageBox(curWord+" "+curDef);
+            //definition->ChangeValue("To hell with wxWidgets");
+            word->ChangeValue(curWord);
+            definition->ChangeValue(curDef);
+        }
+        else {
+            factor=1;
+            deltaPos=0;
+            transformDef(tmp,inputRegex);
+            cout<<searchDef(cmd,deltaPos,inputRegex,inputRegex.size()/factor);
+            pair<string,string> searchResult=retrieveData(curDataSet,searchDef(cmd,deltaPos,inputRegex,inputRegex.size()/factor));
+            curDef=stringToWxString(searchResult.second);
+            curWord=stringToWxString(searchResult.first);
+            //cout<<curDef<<' '<<curWord<<'\n';
+            //wxMessageBox(curWord+" "+curDef);
+            //definition->ChangeValue("To hell with wxWidgets");
+            word->ChangeValue(curWord);
+            definition->ChangeValue(curDef);
+        }
     });
 
     sizer->Add(chooseMode, 0, wxLEFT);
@@ -493,7 +518,9 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=standardize(getRandomWord(data),500,5);
+        p[i]=getRandomWord(data);
+        //p[i].first=standardize(p[i].first,500,5);
+        //p[i].second=standardize(p[i].second,500,5);
     }
     _q->SetLabel(stringToWxString(p[idx].first));
     _a[1]->SetLabel(stringToWxString(p[1].second));
@@ -567,6 +594,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         answerButton[1]->SetSize(wxSize(586,130));
         answerButton[1]->SetPosition(wxPoint(0,195));
         answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        //answerButton[1]->SetMaxLines(5);
 
         answerButton[2] = new wxButton(panel, wxID_ANY);
         answerButton[2]->SetSize(wxSize(586,130));

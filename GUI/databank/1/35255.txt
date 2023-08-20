@@ -1,3 +1,3 @@
-mitogen
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất gây giãn phân
-
+mitogen	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất gây giãn phân

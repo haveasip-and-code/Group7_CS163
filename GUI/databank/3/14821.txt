@@ -1,3 +1,2 @@
-despiser
-	@despiser\n- xem despise
-
+despiser	@despiser
+- xem despise

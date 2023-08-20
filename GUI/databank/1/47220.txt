@@ -1,3 +1,20 @@
-restrain
-	@restrain /ris'trein/\n*  ngoại động từ\n- ngăn trở; cản trở, ngăn giữ\n=to restrain someone from doing harm+ ngăn giữ ai gây tai hại\n- kiếm chế, nén, dằn lại; hạn chế\n=to restrain one's stemper+ nén giận\n=to restrain oneself+ tự kiềm chế mình\n- cầm giữ, giam (những người bị bệnh thần kinh)\n@Chuyên ngành kỹ thuật\n-cản trở\n-hạn chế\n-kiềm chế\n-ngăn cản\n-ngăn giữ\n-ngăn trở\n@Lĩnh vực: toán & tin\n-giới hạn, hạn chế\n@Lĩnh vực: hóa học & vật liệu\n-kìm chế\n-kìm giữ lại
-
+restrain	@restrain /ris'trein/
+*  ngoại động từ
+- ngăn trở; cản trở, ngăn giữ
+=to restrain someone from doing harm+ ngăn giữ ai gây tai hại
+- kiếm chế, nén, dằn lại; hạn chế
+=to restrain one's stemper+ nén giận
+=to restrain oneself+ tự kiềm chế mình
+- cầm giữ, giam (những người bị bệnh thần kinh)
+@Chuyên ngành kỹ thuật
+-cản trở
+-hạn chế
+-kiềm chế
+-ngăn cản
+-ngăn giữ
+-ngăn trở
+@Lĩnh vực: toán & tin
+-giới hạn, hạn chế
+@Lĩnh vực: hóa học & vật liệu
+-kìm chế
+-kìm giữ lại

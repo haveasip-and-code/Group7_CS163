@@ -1,3 +1,44 @@
-approach
-	@approach /ə'proutʃ/\n*  danh từ\n- sự đến gần, sự lại gần\n=easy of approach+ dễ đến (địa điểm); dễ gần (người)\n=difficult of approach+ khó đến (địa điểm); khó gần (người)\n- sự gần như, sự gần giống như\n=some approach to truth+ một cái gì gần như là chân lý\n- đường đi đến, lối vào\n=the approach to a city+ lối vào thành phố\n- (số nhiều) (quân sự) đường để lọt vào trận tuyến địch; đường hào để đến gần vị trí địch\n- sự thăm dò ý kiến; sự tiếp xúc để đặt vấn đề\n- cách bắt đầu giải quyết, phương pháp bắt đầu giải quyết (một vấn đề)\n- (toán học) sự gần đúng; phép tính gần đúng\n=approach velocity+ vận tốc gần đúng\n- sự gạ gẫm (đàn bà)\n*  động từ\n- đến gần, lại gần, tới gần\n=winter is approaching+ mùa đông đang đến\n- gần như\n=his eccentricity approaches to madness+ tính lập dị của anh ta gần như là điên\n- thăm dò ý kiến; tiếp xúc để đặt vấn đề\n=to approach someone on some matter+ thăm dò ý kiến ai về vấn đề gì\n- bắt đầu giải quyết (một vấn đề)\n- gạ gẫm (đàn bà)\n@Chuyên ngành kinh tế\n-khảo hướng\n-phương pháp tiếp cận\n@Chuyên ngành kỹ thuật\n-cách tiếp cận\n-đến gần\n-gần như\n-giống như\n-lối vào\n-sự gần đúng\n-tiệm cận\n-tiếp cận\n@Lĩnh vực: toán & tin\n-phép xấp xỉ\n@Lĩnh vực: y học\n-phương thức tiếp cận\n@Lĩnh vực: cơ khí & công trình\n-sự đến gần\n-sự lại gần
-
+approach	
+@approach /ə'proutʃ/
+*  danh từ
+- sự đến gần, sự lại gần=easy of approach
++ dễ đến (địa điểm); dễ gần (người)=difficult of approach
++ khó đến (địa điểm); khó gần (người)
+- sự gần như, sự gần giống như=some approach to truth
++ một cái gì gần như là chân lý
+- đường đi đến, lối vào=the approach to a city
++ lối vào thành phố
+- (số nhiều) (quân sự) đường để lọt vào trận tuyến địch; đường hào để đến gần vị trí địch
+- sự thăm dò ý kiến; sự tiếp xúc để đặt vấn đề
+- cách bắt đầu giải quyết, phương pháp bắt đầu giải quyết (một vấn đề)
+- (toán học) sự gần đúng; phép tính gần đúng=approach velocity
++ vận tốc gần đúng
+- sự gạ gẫm (đàn bà)
+*  động từ
+- đến gần, lại gần, tới gần=winter is approaching
++ mùa đông đang đến
+- gần như=his eccentricity approaches to madness
++ tính lập dị của anh ta gần như là điên
+- thăm dò ý kiến; tiếp xúc để đặt vấn đề=to approach someone on some matter
++ thăm dò ý kiến ai về vấn đề gì
+- bắt đầu giải quyết (một vấn đề)
+- gạ gẫm (đàn bà)
+@Chuyên ngành kinh tế
+-khảo hướng
+-phương pháp tiếp cận
+@Chuyên ngành kỹ thuật
+-cách tiếp cận
+-đến gần
+-gần như
+-giống như
+-lối vào
+-sự gần đúng
+-tiệm cận
+-tiếp cận
+@Lĩnh vực: toán & tin
+-phép xấp xỉ
+@Lĩnh vực: y học
+-phương thức tiếp cận
+@Lĩnh vực: cơ khí & công trình
+-sự đến gần
+-sự lại gần

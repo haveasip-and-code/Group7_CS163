@@ -1,3 +1,5 @@
-elements
-	@Chuyên ngành kỹ thuật\n-phần tử\n@Chuyên ngành kỹ thuật\n-phần tử
-
+elements	
+@Chuyên ngành kỹ thuật
+-phần tử
+@Chuyên ngành kỹ thuật
+-phần tử

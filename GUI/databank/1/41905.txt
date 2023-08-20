@@ -1,3 +1,9 @@
-plaque
-	@plaque /plɑ:k/\n*  danh từ\n- tấm, bản (bằng đồng, sứ...)\n- thẻ, bài (bằng ngà... ghi chức tước...)\n- (y học) mảng (phát ban...)\n@Chuyên ngành kỹ thuật\n-bản\n-mảng\n-tấm
-
+plaque	@plaque /plɑ:k/
+*  danh từ
+- tấm, bản (bằng đồng, sứ...)
+- thẻ, bài (bằng ngà... ghi chức tước...)
+- (y học) mảng (phát ban...)
+@Chuyên ngành kỹ thuật
+-bản
+-mảng
+-tấm

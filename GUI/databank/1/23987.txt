@@ -1,3 +1,12 @@
-graded
-	@graded\n* tính từ\n- xếp hạng; phân hạng; xếp loại\n- chọn lọc\n@Chuyên ngành kỹ thuật\n-chia độ\n-phân loại\n-xếp hạng\n@Lĩnh vực: toán & tin\n-bị phân bậc\n-có chia độ
-
+graded	
+@graded
+* tính từ
+- xếp hạng; phân hạng; xếp loại
+- chọn lọc
+@Chuyên ngành kỹ thuật
+-chia độ
+-phân loại
+-xếp hạng
+@Lĩnh vực: toán & tin
+-bị phân bậc
+-có chia độ

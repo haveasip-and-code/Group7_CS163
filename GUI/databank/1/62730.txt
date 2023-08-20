@@ -1,3 +1,6 @@
-wettability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-khả năng tẩm ướt\n-tính thấm ướt được\n@Lĩnh vực: điện lạnh\n-tính thấm ẩm
-
+wettability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-khả năng tẩm ướt
+-tính thấm ướt được
+@Lĩnh vực: điện lạnh
+-tính thấm ẩm

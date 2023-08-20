@@ -1,3 +1,5 @@
-chelation
-	@Chuyên ngành kỹ thuật\n-sự tạo chelat\n-sự tạo phức\n@Lĩnh vực: hóa học & vật liệu\n-tạo vòng càng cua
-
+chelation	@Chuyên ngành kỹ thuật
+-sự tạo chelat
+-sự tạo phức
+@Lĩnh vực: hóa học & vật liệu
+-tạo vòng càng cua

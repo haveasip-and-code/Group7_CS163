@@ -1,3 +1,33 @@
-steam
-	@steam /sti:m/\n*  danh từ\n- hơi nước\n- (thông tục) nghị lực, sức cố gắng\n=to get up steam+ tập trung sức lực, đem hết nghị lực\n=to let off steam+ xả hơi\n*  nội động từ\n- bốc hơi, lên hơi\n=soup steams on the table+ cháo bốc hơi lên bàn\n- chạy bằng hơi\n=boat steam down the river+ chiếc tàu chạy xuôi dòng sông\n*  (thông tục)\n- làm việc hăng say, làm việc tích cực; tiến bộ mạnh\n=let's steam ahead!+ nào! chúng ta tích cực lên nào!\n*  ngoại động từ\n- đồ, hấp (thức ăn; gỗ cho đẻo ra để uốn...)\n@Chuyên ngành kinh tế\n-cô đặc\n-công bằng hơi\n-hơi\n-tạo hơi\n-xông hơi\n@Chuyên ngành kỹ thuật\n-bốc hơi\n-chưng\n-đệm hơi\n-hấp\n-hấp bằng hơi nước\n-hấp hơi nước\n-hơi\n-hơi nước\n-xông hơi\n-xử lý bằng hơi
-
+steam	@steam /sti:m/
+*  danh từ
+- hơi nước
+- (thông tục) nghị lực, sức cố gắng
+=to get up steam+ tập trung sức lực, đem hết nghị lực
+=to let off steam+ xả hơi
+*  nội động từ
+- bốc hơi, lên hơi
+=soup steams on the table+ cháo bốc hơi lên bàn
+- chạy bằng hơi
+=boat steam down the river+ chiếc tàu chạy xuôi dòng sông
+*  (thông tục)
+- làm việc hăng say, làm việc tích cực; tiến bộ mạnh
+=let's steam ahead!+ nào! chúng ta tích cực lên nào!
+*  ngoại động từ
+- đồ, hấp (thức ăn; gỗ cho đẻo ra để uốn...)
+@Chuyên ngành kinh tế
+-cô đặc
+-công bằng hơi
+-hơi
+-tạo hơi
+-xông hơi
+@Chuyên ngành kỹ thuật
+-bốc hơi
+-chưng
+-đệm hơi
+-hấp
+-hấp bằng hơi nước
+-hấp hơi nước
+-hơi
+-hơi nước
+-xông hơi
+-xử lý bằng hơi

@@ -1,3 +1,12 @@
-floss
-	@floss /floss/\n*  danh từ\n- tơ sồi\n- sồi, vải sồi\n- quần áo sồi\n@Chuyên ngành kỹ thuật\n-vảy\n-xỉ\n@Chuyên ngành kỹ thuật\n-vảy\n-xỉ
-
+floss	
+@floss /floss/
+*  danh từ
+- tơ sồi
+- sồi, vải sồi
+- quần áo sồi
+@Chuyên ngành kỹ thuật
+-vảy
+-xỉ
+@Chuyên ngành kỹ thuật
+-vảy
+-xỉ

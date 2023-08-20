@@ -1,3 +1,2 @@
-blubbery
-	@blubbery\n- xem blubber
-
+blubbery	@blubbery
+- xem blubber

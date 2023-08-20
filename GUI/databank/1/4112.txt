@@ -1,3 +1,12 @@
-automorphism
-	@automorphism\n- [tính, phép, sự] tự đẳng cấu, phép nguyên hình\n- central a. tự đẳng cấu trung tâm\n- interior a. (đại số) phép tự đẳng cấu trong\n- outer a. phép tự đẳng cấu ngoài\n- singular a. phép tự đẳng cấu kỹ dị\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép nguyên hình\n-sự tự đẳng cấu\n-tự đẳng cấu
-
+automorphism	
+@automorphism
+- [tính, phép, sự] tự đẳng cấu, phép nguyên hình
+- central a. tự đẳng cấu trung tâm
+- interior a. (đại số) phép tự đẳng cấu trong
+- outer a. phép tự đẳng cấu ngoài
+- singular a. phép tự đẳng cấu kỹ dị
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép nguyên hình
+-sự tự đẳng cấu
+-tự đẳng cấu

@@ -1,3 +1,10 @@
-theft
-	@theft /θeft/\n*  danh từ\n- sự ăn trộm, sự trộm cắp\n=to commit theft+ phạm tội ăn trộm\n=petty theft+ sự ăn cắp vặt\n@Chuyên ngành kinh tế\n-trộm cắp\n@Chuyên ngành kỹ thuật\n-sự ăn cắp\n-sự ăn trộm
-
+theft	@theft /θeft/
+*  danh từ
+- sự ăn trộm, sự trộm cắp
+=to commit theft+ phạm tội ăn trộm
+=petty theft+ sự ăn cắp vặt
+@Chuyên ngành kinh tế
+-trộm cắp
+@Chuyên ngành kỹ thuật
+-sự ăn cắp
+-sự ăn trộm

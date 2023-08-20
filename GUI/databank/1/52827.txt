@@ -1,3 +1,13 @@
-squib
-	@squib /skwib/\n*  danh từ\n- pháo ném\n- mồi nổ\n- bài văn châm biếm\n*  động từ\n- đốt pháo ném\n- viết bài châm biếm (ai)\n@Chuyên ngành kỹ thuật\n-ngòi súng đại bác\n-mồi nổ\n@Lĩnh vực: hóa học & vật liệu\n-khói thuốc nổ nhỏ
-
+squib	@squib /skwib/
+*  danh từ
+- pháo ném
+- mồi nổ
+- bài văn châm biếm
+*  động từ
+- đốt pháo ném
+- viết bài châm biếm (ai)
+@Chuyên ngành kỹ thuật
+-ngòi súng đại bác
+-mồi nổ
+@Lĩnh vực: hóa học & vật liệu
+-khói thuốc nổ nhỏ

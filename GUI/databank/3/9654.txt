@@ -1,3 +1,13 @@
-classify
-	@classify /'klæsifai/\n*  ngoại động từ\n- phân loại\n@Chuyên ngành kinh tế\n-phân cấp\n-phân hạng\n-phân loại\n@Chuyên ngành kỹ thuật\n-phân cấp\n-phân giải\n-phân hạng\n-phân loại\n-phân lớp
-
+classify	@classify /'klæsifai/
+*  ngoại động từ
+- phân loại
+@Chuyên ngành kinh tế
+-phân cấp
+-phân hạng
+-phân loại
+@Chuyên ngành kỹ thuật
+-phân cấp
+-phân giải
+-phân hạng
+-phân loại
+-phân lớp

@@ -1,3 +1,11 @@
-stores
-	@Chuyên ngành kinh tế\n-cửa hàng bách hóa\n-cửa hàng tổng hợp\n-đại thương xá\n-đồ cung ứng\n-đồ dự trữ\n-hàng tích trữ\n-nguyên vật liệu\n-vật liệu dự trữ\n@Chuyên ngành kỹ thuật\n-kho tàng
-
+stores	@Chuyên ngành kinh tế
+-cửa hàng bách hóa
+-cửa hàng tổng hợp
+-đại thương xá
+-đồ cung ứng
+-đồ dự trữ
+-hàng tích trữ
+-nguyên vật liệu
+-vật liệu dự trữ
+@Chuyên ngành kỹ thuật
+-kho tàng

@@ -1,3 +1,43 @@
-ship
-	@ship /ʃip/\n*  danh từ\n- tàu thuỷ, tàu\n=to take ship+ xuống tàu\n- (từ Mỹ,nghĩa Mỹ) máy bay, phi cơ\n- (từ lóng) thuyền (đua)\n!the ship of the desert\n- con lạc đà\n!when my ship comes home\n- khi nào tôi đã công thành danh toại, khi nào tôi làm ăn phát đạt\n*  ngoại động từ\n- xếp (hàng) xuống tàu, cho (hành khách, thuỷ thủ) xuống tàu\n- gửi bằng tàu thuỷ, chở bằng tàu thuỷ\n- (từ Mỹ,nghĩa Mỹ) gửi bằng xe lửa, chở bằng xe lửa; gửi bằng máy bay, chở bằng máy bay\n- thuê (người) làm trên tàu thuỷ\n- gắn vào tàu, lắp vào thuyền\n=to ship the oar+ lắp mái chèo vào thuyền\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) đuổi đi, tống khứ\n*  nội động từ\n- đi tàu, xuống tàu\n- làm việc trên tàu (thuỷ thủ)\n!to ship a sea\n- (xem) sea\n@Chuyên ngành kinh tế\n-chất xếp hàng xuống tàu\n-chở (hàng) bằng tàu thủy, đường thủy\n-gởi (hàng) bằng tàu thủy\n-tàu\n-tàu biển\n-tàu thủy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-chở bằng tàu\n-cho khách xuống tàu\n-chuyên chở bằng tàu\n-đi tàu thủy (hành khách)\n-xếp hàng xuống tàu\n@Lĩnh vực: xây dựng\n-đi tàu\n-gửi (hàng) bằng tàu thủy\n-xếp xuống tàu\n@Lĩnh vực: điện lạnh\n-tàu (thủy)
-
+ship	@ship /ʃip/
+*  danh từ
+- tàu thuỷ, tàu
+=to take ship+ xuống tàu
+- (từ Mỹ,nghĩa Mỹ) máy bay, phi cơ
+- (từ lóng) thuyền (đua)
+!the ship of the desert
+- con lạc đà
+!when my ship comes home
+- khi nào tôi đã công thành danh toại, khi nào tôi làm ăn phát đạt
+*  ngoại động từ
+- xếp (hàng) xuống tàu, cho (hành khách, thuỷ thủ) xuống tàu
+- gửi bằng tàu thuỷ, chở bằng tàu thuỷ
+- (từ Mỹ,nghĩa Mỹ) gửi bằng xe lửa, chở bằng xe lửa; gửi bằng máy bay, chở bằng máy bay
+- thuê (người) làm trên tàu thuỷ
+- gắn vào tàu, lắp vào thuyền
+=to ship the oar+ lắp mái chèo vào thuyền
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đuổi đi, tống khứ
+*  nội động từ
+- đi tàu, xuống tàu
+- làm việc trên tàu (thuỷ thủ)
+!to ship a sea
+- (xem) sea
+@Chuyên ngành kinh tế
+-chất xếp hàng xuống tàu
+-chở (hàng) bằng tàu thủy, đường thủy
+-gởi (hàng) bằng tàu thủy
+-tàu
+-tàu biển
+-tàu thủy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-chở bằng tàu
+-cho khách xuống tàu
+-chuyên chở bằng tàu
+-đi tàu thủy (hành khách)
+-xếp hàng xuống tàu
+@Lĩnh vực: xây dựng
+-đi tàu
+-gửi (hàng) bằng tàu thủy
+-xếp xuống tàu
+@Lĩnh vực: điện lạnh
+-tàu (thủy)

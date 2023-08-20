@@ -1,3 +1,11 @@
-latticework
-	@latticework\n* danh từ\n- xem lattice\n@Chuyên ngành kỹ thuật\n-giàn mắt cáo\n-hệ giằng\n-lưới mắt cáo\n@Chuyên ngành kỹ thuật\n-giàn mắt cáo\n-hệ giằng\n-lưới mắt cáo
-
+latticework	@latticework
+* danh từ
+- xem lattice
+@Chuyên ngành kỹ thuật
+-giàn mắt cáo
+-hệ giằng
+-lưới mắt cáo
+@Chuyên ngành kỹ thuật
+-giàn mắt cáo
+-hệ giằng
+-lưới mắt cáo

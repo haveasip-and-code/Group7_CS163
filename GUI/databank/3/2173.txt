@@ -1,3 +1,6 @@
-anemia
-	@anemia\n* danh từ\n- <y> bệnh thiếu máu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thiếu máu
-
+anemia	@anemia
+* danh từ
+- <y> bệnh thiếu máu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thiếu máu

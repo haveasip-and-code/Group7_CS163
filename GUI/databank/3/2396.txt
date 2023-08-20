@@ -1,3 +1,4 @@
-antae
-	@Chuyên ngành kỹ thuật\n-trụ bổ tường\n@Lĩnh vực: xây dựng\n-ante
-
+antae	@Chuyên ngành kỹ thuật
+-trụ bổ tường
+@Lĩnh vực: xây dựng
+-ante

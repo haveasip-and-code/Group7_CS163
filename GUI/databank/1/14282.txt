@@ -1,3 +1,5 @@
-delivered
-	@Chuyên ngành kinh tế\n-chở tới nơi\n-đã giao (hàng)\n-giao hàng đến địa điểm chỉ định
-
+delivered	
+@Chuyên ngành kinh tế
+-chở tới nơi
+-đã giao (hàng)
+-giao hàng đến địa điểm chỉ định

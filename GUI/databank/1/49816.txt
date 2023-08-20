@@ -1,3 +1,14 @@
-sensibility
-	@sensibility /,sensi'biliti/\n*  danh từ\n- tri giác, cảm giác\n- tính đa cảm, tính dễ cảm\n- (số nhiều) sự nhạy cảm\n- (từ hiếm,nghĩa hiếm) sự nhạy, độ nhạy (của dụng cụ khoa học)\n@Chuyên ngành kỹ thuật\n-độ chính xác\n-độ nhạy\n-tính nhạy cảm\n@Lĩnh vực: y học\n-tính mẫn cảm\n@Lĩnh vực: điện lạnh\n-tính nhạy
-
+sensibility	@sensibility /,sensi'biliti/
+*  danh từ
+- tri giác, cảm giác
+- tính đa cảm, tính dễ cảm
+- (số nhiều) sự nhạy cảm
+- (từ hiếm,nghĩa hiếm) sự nhạy, độ nhạy (của dụng cụ khoa học)
+@Chuyên ngành kỹ thuật
+-độ chính xác
+-độ nhạy
+-tính nhạy cảm
+@Lĩnh vực: y học
+-tính mẫn cảm
+@Lĩnh vực: điện lạnh
+-tính nhạy

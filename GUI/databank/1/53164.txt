@@ -1,3 +1,12 @@
-steeple
-	@steeple /'sti:pl/\n*  danh từ\n- gác chuông, tháp chuông (nhà thờ)\n@Chuyên ngành kỹ thuật\n-đỉnh nhọn\n-gác chuông\n-mái hình tháp\n-mũi nhọn\n-tháp chuông\n@Lĩnh vực: xây dựng\n-đỉnh (nhọn)\n-tời (kiểu đứng)
-
+steeple	@steeple /'sti:pl/
+*  danh từ
+- gác chuông, tháp chuông (nhà thờ)
+@Chuyên ngành kỹ thuật
+-đỉnh nhọn
+-gác chuông
+-mái hình tháp
+-mũi nhọn
+-tháp chuông
+@Lĩnh vực: xây dựng
+-đỉnh (nhọn)
+-tời (kiểu đứng)

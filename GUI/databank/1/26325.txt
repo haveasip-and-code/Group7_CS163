@@ -1,3 +1,47 @@
-housing
-	@housing /'hauziɳ/\n*  danh từ\n- sự cho ở\n- sự cất vào kho; sự lùa (súc vật) vào chuồng\n- sự cung cấp nhà ở\n- nhà ở (nói chung)\n=the housing problem+ vấn đề nhà ở\n*  danh từ\n- vải phủ lưng ngựa (cho đẹp)\n@Chuyên ngành kinh tế\n-nhà đất\n-nhà ở cấp cho công chúng\n-sự cho vào kho\n-sự cung cấp nhà ở\n@Chuyên ngành kỹ thuật\n-cácte\n-đường rãnh\n-giá đỡ\n-hốc\n-hõm\n-hòm khuôn\n-hộp\n-hộp đựng\n-hộp vỏ\n-khe\n-khoang\n-khung\n-khuôn\n-lồng\n-ngăn\n-nhà ở\n-máng\n-rãnh\n-sự ở\n-thùng máy\n-tủ\n-vỏ\n-vỏ bao\n-vỏ bọc\n-vỏ hộp\n-vỏ máy\n@Lĩnh vực: điện\n-hộp chứa\n-nơi cất đặt\n@Lĩnh vực: toán & tin\n-tủ máy
-
+housing	
+@housing /'hauziɳ/
+*  danh từ
+- sự cho ở
+- sự cất vào kho; sự lùa (súc vật) vào chuồng
+- sự cung cấp nhà ở
+- nhà ở (nói chung)=the housing problem
++ vấn đề nhà ở
+*  danh từ
+- vải phủ lưng ngựa (cho đẹp)
+@Chuyên ngành kinh tế
+-nhà đất
+-nhà ở cấp cho công chúng
+-sự cho vào kho
+-sự cung cấp nhà ở
+@Chuyên ngành kỹ thuật
+-cácte
+-đường rãnh
+-giá đỡ
+-hốc
+-hõm
+-hòm khuôn
+-hộp
+-hộp đựng
+-hộp vỏ
+-khe
+-khoang
+-khung
+-khuôn
+-lồng
+-ngăn
+-nhà ở
+-máng
+-rãnh
+-sự ở
+-thùng máy
+-tủ
+-vỏ
+-vỏ bao
+-vỏ bọc
+-vỏ hộp
+-vỏ máy
+@Lĩnh vực: điện
+-hộp chứa
+-nơi cất đặt
+@Lĩnh vực: toán & tin
+-tủ máy

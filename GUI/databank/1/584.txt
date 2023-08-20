@@ -1,3 +1,13 @@
-acronym
-	@acronym /'ækrənim/\n*  danh từ\n- từ (cấu tạo bằng) chữ đầu (của những từ khác) (ví dụ NATO,  radar...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chữ viết tắt\n-cụm từ viết tắt\n-từ viết tắt\n@Lĩnh vực: xây dựng\n-đầu tự\n@Lĩnh vực: y học\n-từ cấu tạo bằng những đầu của một từ kép
-
+acronym	
+@acronym /'ækrənim/
+*  danh từ
+- từ (cấu tạo bằng) chữ đầu (của những từ khác) (ví dụ NATO,  radar...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chữ viết tắt
+-cụm từ viết tắt
+-từ viết tắt
+@Lĩnh vực: xây dựng
+-đầu tự
+@Lĩnh vực: y học
+-từ cấu tạo bằng những đầu của một từ kép

@@ -1,3 +1,6 @@
-pseudo
-	@pseudo\n* tính từ\n- giả, giả tạo, không chân thật, giả mạo, không thành thật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-giả (tiếp đầu ngữ)
-
+pseudo	@pseudo
+* tính từ
+- giả, giả tạo, không chân thật, giả mạo, không thành thật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-giả (tiếp đầu ngữ)

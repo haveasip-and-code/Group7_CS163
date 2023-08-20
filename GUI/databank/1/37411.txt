@@ -1,3 +1,26 @@
-observation
-	@observation /,ɔbzə:'veiʃn/\n*  danh từ\n- sự quan sát, sự để ý, sự chú ý, sự theo dõi\n=observation post+ trạm quan sát\n=to keep someone under observation+ theo dõi ai\n- khả năng quan sát, năng lực quan sát\n=a man of no observation+ người không có năng lực quan sát\n- lời nhận xét, điều quan sát được, điều nhận thấy\n- lời bình phẩm\n- (quân sự) sự quan sát, sự theo dõi\n- sự xác định toạ độ theo độ cao của mặt trời\n@Chuyên ngành kinh tế\n-việc quan sát\n@Chuyên ngành kỹ thuật\n-quan sát\n-sự chụp ảnh\n-sự đo vẽ\n-sự quan sát\n-sự quan trắc\n-sự theo dõi\n@Lĩnh vực: cơ khí & công trình\n-sự đo ngầm\n@Lĩnh vực: hóa học & vật liệu\n-sự đo ngắm\n@Lĩnh vực: xây dựng\n-sự ngắm đo
-
+observation	@observation /,ɔbzə:'veiʃn/
+*  danh từ
+- sự quan sát, sự để ý, sự chú ý, sự theo dõi
+=observation post+ trạm quan sát
+=to keep someone under observation+ theo dõi ai
+- khả năng quan sát, năng lực quan sát
+=a man of no observation+ người không có năng lực quan sát
+- lời nhận xét, điều quan sát được, điều nhận thấy
+- lời bình phẩm
+- (quân sự) sự quan sát, sự theo dõi
+- sự xác định toạ độ theo độ cao của mặt trời
+@Chuyên ngành kinh tế
+-việc quan sát
+@Chuyên ngành kỹ thuật
+-quan sát
+-sự chụp ảnh
+-sự đo vẽ
+-sự quan sát
+-sự quan trắc
+-sự theo dõi
+@Lĩnh vực: cơ khí & công trình
+-sự đo ngầm
+@Lĩnh vực: hóa học & vật liệu
+-sự đo ngắm
+@Lĩnh vực: xây dựng
+-sự ngắm đo

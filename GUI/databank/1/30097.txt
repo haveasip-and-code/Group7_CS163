@@ -1,3 +1,4 @@
-isocyclic
-	@Chuyên ngành kỹ thuật\n-đồng vòng\n-vòng cacbon
-
+isocyclic	
+@Chuyên ngành kỹ thuật
+-đồng vòng
+-vòng cacbon

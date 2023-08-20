@@ -1,3 +1,3 @@
-budget
-	@budget\n- (toán kinh tế) ngân sách
-
+budget	
+@budget
+- (toán kinh tế) ngân sách

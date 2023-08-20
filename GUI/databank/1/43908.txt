@@ -1,3 +1,10 @@
-programmable
-	@programmable\n- xem program\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể program hóa\n-lập trình được\n@Lĩnh vực: xây dựng\n-khả chương trình\n@Lĩnh vực: đo lường & điều khiển\n-khả lập trình
-
+programmable	@programmable
+- xem program
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể program hóa
+-lập trình được
+@Lĩnh vực: xây dựng
+-khả chương trình
+@Lĩnh vực: đo lường & điều khiển
+-khả lập trình

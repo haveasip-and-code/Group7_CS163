@@ -1,3 +1,2 @@
-perlitic
-	@perlitic\n- xem perlite
-
+perlitic	@perlitic
+- xem perlite

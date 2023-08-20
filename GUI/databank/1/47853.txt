@@ -1,3 +1,18 @@
-roaster
-	@roaster /'roustə/\n*  danh từ\n- người quay thịt, lò quay thịt\n- chảo rang cà phê, máy rang cà phê\n- thức ăn quay nướng được (gà, lợn sữa...)\n- (kỹ thuật) lò nung\n@Chuyên ngành kinh tế\n-lò nung\n-lò rán\n-lưới của lò rán\n-que nướng thịt\n-que xiên thịt nướng\n-sản phẩm quay rán\n-thiết bị quay rán\n-thiết bị rán\n@Chuyên ngành kỹ thuật\n-lò nung\n-lò nướng
-
+roaster	@roaster /'roustə/
+*  danh từ
+- người quay thịt, lò quay thịt
+- chảo rang cà phê, máy rang cà phê
+- thức ăn quay nướng được (gà, lợn sữa...)
+- (kỹ thuật) lò nung
+@Chuyên ngành kinh tế
+-lò nung
+-lò rán
+-lưới của lò rán
+-que nướng thịt
+-que xiên thịt nướng
+-sản phẩm quay rán
+-thiết bị quay rán
+-thiết bị rán
+@Chuyên ngành kỹ thuật
+-lò nung
+-lò nướng

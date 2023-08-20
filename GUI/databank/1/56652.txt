@@ -1,3 +1,9 @@
-tideway
-	@tideway\n* danh từ\n- luồng thủy triều\n- đoạn sông bị ảnh hưởng thủy triều\n@Chuyên ngành kỹ thuật\n-dòng triều\n-kênh triều\n@Lĩnh vực: cơ khí & công trình\n-đường triều
-
+tideway	@tideway
+* danh từ
+- luồng thủy triều
+- đoạn sông bị ảnh hưởng thủy triều
+@Chuyên ngành kỹ thuật
+-dòng triều
+-kênh triều
+@Lĩnh vực: cơ khí & công trình
+-đường triều

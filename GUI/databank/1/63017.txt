@@ -1,3 +1,30 @@
-window
-	@window /'windou/\n*  danh từ\n- cửa sổ\n=French window+ cửa sổ sát mặt đất\n=blank (blind, false) window+ cửa sổ gi\n- cửa kính (ô tô, xe lửa)\n=to lower (open) the window+ hạ kính xuống\n=to raise (close) the window+ nâng kính lên\n=rear window+ kính hậu\n- (thưng nghiệp) tủ kính bày hàng\n=in the window+ bày ở tủ kính\n- (quân sự),  (hàng không) vật th xuống để nhiễu xạ\n!to have all one's goods in the window\n- tỏ ra hời hợt nông cạn\n@Chuyên ngành kinh tế\n-cửa sổ\n-ghi-sê\n-ghi-sê (bán vé thu tiền)\n-quyền thanh toán\n-tủ kính bày hàng\n-tủ kính bày hàng (trong cửa hàng)\n@Chuyên ngành kỹ thuật\n-cửa lò\n@Lĩnh vực: xây dựng\n-cửa sổ\n-lắp cửa sổ\n@Lĩnh vực: điện\n-khe cửa\n@Lĩnh vực: toán & tin\n-ô cửa
-
+window	@window /'windou/
+*  danh từ
+- cửa sổ
+=French window+ cửa sổ sát mặt đất
+=blank (blind, false) window+ cửa sổ gi
+- cửa kính (ô tô, xe lửa)
+=to lower (open) the window+ hạ kính xuống
+=to raise (close) the window+ nâng kính lên
+=rear window+ kính hậu
+- (thưng nghiệp) tủ kính bày hàng
+=in the window+ bày ở tủ kính
+- (quân sự),  (hàng không) vật th xuống để nhiễu xạ
+!to have all one's goods in the window
+- tỏ ra hời hợt nông cạn
+@Chuyên ngành kinh tế
+-cửa sổ
+-ghi-sê
+-ghi-sê (bán vé thu tiền)
+-quyền thanh toán
+-tủ kính bày hàng
+-tủ kính bày hàng (trong cửa hàng)
+@Chuyên ngành kỹ thuật
+-cửa lò
+@Lĩnh vực: xây dựng
+-cửa sổ
+-lắp cửa sổ
+@Lĩnh vực: điện
+-khe cửa
+@Lĩnh vực: toán & tin
+-ô cửa

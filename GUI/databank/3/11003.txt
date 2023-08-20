@@ -1,3 +1,24 @@
-conductivity
-	@conductivity /,kɔndʌk'tiviti/\n*  danh từ\n- (vật lý) tính dẫn\n- suất dẫn\n@Chuyên ngành kinh tế\n-hệ số dẫn\n-tính dẫn\n@Chuyên ngành kỹ thuật\n-điện dẫn suất\n-độ dẫn\n-độ dẫn điện\n-độ dẫn điện riêng\n-nhiệt\n-tính dẫn nhiệt\n@Lĩnh vực: cơ khí & công trình\n-bộ dẫn điện\n-tính dẫn\n@Lĩnh vực: điện\n-sự truyền dẫn\n-tính truyền dẫn\n@Lĩnh vực: điện tử & viễn thông\n-suất dẫn điện\n@Lĩnh vực: toán & tin\n-tính dẫn (điện)
-
+conductivity	@conductivity /,kɔndʌk'tiviti/
+*  danh từ
+- (vật lý) tính dẫn
+- suất dẫn
+@Chuyên ngành kinh tế
+-hệ số dẫn
+-tính dẫn
+@Chuyên ngành kỹ thuật
+-điện dẫn suất
+-độ dẫn
+-độ dẫn điện
+-độ dẫn điện riêng
+-nhiệt
+-tính dẫn nhiệt
+@Lĩnh vực: cơ khí & công trình
+-bộ dẫn điện
+-tính dẫn
+@Lĩnh vực: điện
+-sự truyền dẫn
+-tính truyền dẫn
+@Lĩnh vực: điện tử & viễn thông
+-suất dẫn điện
+@Lĩnh vực: toán & tin
+-tính dẫn (điện)

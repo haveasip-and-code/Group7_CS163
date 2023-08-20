@@ -1,3 +1,2 @@
-mortarboard
-	@Chuyên ngành kỹ thuật\n-bàn xoa
-
+mortarboard	@Chuyên ngành kỹ thuật
+-bàn xoa

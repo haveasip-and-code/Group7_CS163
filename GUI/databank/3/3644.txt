@@ -1,3 +1,29 @@
-association
-	@association /ə,sousi'eiʃn/\n*  danh từ\n- sự kết hợp, sự liên hợp, sự liên kết; sự liên đới\n- sự kết giao, sự giao thiệp\n- sự liên tưởng\n- hội, hội liên hiệp; đoàn thể, công ty\n=deed of association+ điều lệ của một công ty trách nhiệm có hạn\n- (sinh vật học) quần hợp\n- môn bóng đá ((cũng) association foot-ball)\n@Chuyên ngành kinh tế\n-công ty\n-hiệp hội\n-hội\n-thương hội\n@Chuyên ngành kỹ thuật\n-bộ nối\n-hiệp hội\n-hiệp hội ứng dụng\n-hội\n-liên kết\n-sự ghép\n-sự kết giao\n-sự kết hợp\n-sự kết tụ\n-sự liên kết\n@Lĩnh vực: điện lạnh\n-sự liên đới\n@Lĩnh vực: y học\n-sự liên hợp, phối hợp, liên kết, quần hợp
-
+association	@association /ə,sousi'eiʃn/
+*  danh từ
+- sự kết hợp, sự liên hợp, sự liên kết; sự liên đới
+- sự kết giao, sự giao thiệp
+- sự liên tưởng
+- hội, hội liên hiệp; đoàn thể, công ty
+=deed of association+ điều lệ của một công ty trách nhiệm có hạn
+- (sinh vật học) quần hợp
+- môn bóng đá ((cũng) association foot-ball)
+@Chuyên ngành kinh tế
+-công ty
+-hiệp hội
+-hội
+-thương hội
+@Chuyên ngành kỹ thuật
+-bộ nối
+-hiệp hội
+-hiệp hội ứng dụng
+-hội
+-liên kết
+-sự ghép
+-sự kết giao
+-sự kết hợp
+-sự kết tụ
+-sự liên kết
+@Lĩnh vực: điện lạnh
+-sự liên đới
+@Lĩnh vực: y học
+-sự liên hợp, phối hợp, liên kết, quần hợp

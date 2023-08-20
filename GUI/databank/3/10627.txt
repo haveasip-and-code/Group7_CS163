@@ -1,3 +1,2 @@
-companionway
-	@Chuyên ngành kinh tế\n-cầu thang giữa các tầng tàu
-
+companionway	@Chuyên ngành kinh tế
+-cầu thang giữa các tầng tàu

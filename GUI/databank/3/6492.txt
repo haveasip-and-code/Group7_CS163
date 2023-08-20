@@ -1,3 +1,2 @@
-bowdlerizer
-	@bowdlerizer\n- xem bowdlerize
-
+bowdlerizer	@bowdlerizer
+- xem bowdlerize

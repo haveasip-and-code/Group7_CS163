@@ -1,3 +1,4 @@
-variate
-	@variate\n- (thống kê) biến ngẫu nhiên; đại lượng ngẫu nhiên\n@Chuyên ngành kỹ thuật\n-đại lượng ngẫu nhiên
-
+variate	@variate
+- (thống kê) biến ngẫu nhiên; đại lượng ngẫu nhiên
+@Chuyên ngành kỹ thuật
+-đại lượng ngẫu nhiên

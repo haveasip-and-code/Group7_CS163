@@ -1,3 +1,24 @@
-owner
-	@owner /'ounə/\n*  danh từ\n- người chủ, chủ nhân\n!the owner\n- (từ lóng) thuyền trưởng\n@Chuyên ngành kinh tế\n-chủ nhân\n-chủ sở hữu\n-chủ tàu\n-nghiệp chủ\n-người cho thuê tàu\n-người sở hữu\n@Chuyên ngành kỹ thuật\n-chủ\n-chủ công trình\n-chủ hàng\n-chủ nhiệm công trình\n-chủ nhiệm dự án\n-nghiệp chủ\n-người chủ\n-người gọi thầu\n-người sở hữu\n@Lĩnh vực: xây dựng\n-chủ đầu tư
-
+owner	@owner /'ounə/
+*  danh từ
+- người chủ, chủ nhân
+!the owner
+- (từ lóng) thuyền trưởng
+@Chuyên ngành kinh tế
+-chủ nhân
+-chủ sở hữu
+-chủ tàu
+-nghiệp chủ
+-người cho thuê tàu
+-người sở hữu
+@Chuyên ngành kỹ thuật
+-chủ
+-chủ công trình
+-chủ hàng
+-chủ nhiệm công trình
+-chủ nhiệm dự án
+-nghiệp chủ
+-người chủ
+-người gọi thầu
+-người sở hữu
+@Lĩnh vực: xây dựng
+-chủ đầu tư

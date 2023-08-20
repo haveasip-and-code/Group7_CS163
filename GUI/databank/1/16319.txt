@@ -1,3 +1,7 @@
-doc
-	@doc /dɔk/\n*  danh từ\n- (thông tục) thầy thuốc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-doc
-
+doc	
+@doc /dɔk/
+*  danh từ
+- (thông tục) thầy thuốc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-doc

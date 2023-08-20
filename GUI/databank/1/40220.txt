@@ -1,3 +1,8 @@
-peddle
-	@peddle /'pedl/\n*  động từ\n- bán rong, báo rao\n- bán lẻ nhỏ giọt\n- lần mần, bận tâm về những cái lặt vặt\n- (nghĩa bóng) kháo chuyện, ngồi lê đôi mách\n@Chuyên ngành kỹ thuật\n-bán rong
-
+peddle	@peddle /'pedl/
+*  động từ
+- bán rong, báo rao
+- bán lẻ nhỏ giọt
+- lần mần, bận tâm về những cái lặt vặt
+- (nghĩa bóng) kháo chuyện, ngồi lê đôi mách
+@Chuyên ngành kỹ thuật
+-bán rong

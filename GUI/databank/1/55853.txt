@@ -1,3 +1,8 @@
-telephonist
-	@telephonist /ti'lefənist/\n*  danh từ\n- nhân viên điện thoại\n@Chuyên ngành kinh tế\n-điện thoại viên\n-nhân viên điện thoại\n@Chuyên ngành kỹ thuật\n-điện thoại viên
-
+telephonist	@telephonist /ti'lefənist/
+*  danh từ
+- nhân viên điện thoại
+@Chuyên ngành kinh tế
+-điện thoại viên
+-nhân viên điện thoại
+@Chuyên ngành kỹ thuật
+-điện thoại viên

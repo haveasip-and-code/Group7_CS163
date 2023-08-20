@@ -1,3 +1,2 @@
-recalibrate
-	@Chuyên ngành kỹ thuật\n-hiệu chuẩn lại
-
+recalibrate	@Chuyên ngành kỹ thuật
+-hiệu chuẩn lại

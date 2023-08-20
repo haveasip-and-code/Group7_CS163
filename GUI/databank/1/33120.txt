@@ -1,3 +1,2 @@
-macintosh
-	@macintosh\n- như mackintosh
-
+macintosh	@macintosh
+- như mackintosh

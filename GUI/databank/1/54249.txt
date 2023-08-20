@@ -1,3 +1,10 @@
-subsurface
-	@subsurface\n* danh từ\n- lớp dưới bề mặt\n@Chuyên ngành kỹ thuật\n-dòng chảy mặt\n-dưới đất\n-dưới mặt đất\n-mặt dưới\n@Lĩnh vực: xây dựng\n-dưới lớp thổ nhưỡng
-
+subsurface	@subsurface
+* danh từ
+- lớp dưới bề mặt
+@Chuyên ngành kỹ thuật
+-dòng chảy mặt
+-dưới đất
+-dưới mặt đất
+-mặt dưới
+@Lĩnh vực: xây dựng
+-dưới lớp thổ nhưỡng

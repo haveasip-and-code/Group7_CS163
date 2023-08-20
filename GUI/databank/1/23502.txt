@@ -1,3 +1,7 @@
-glade
-	@glade /gleid/\n*  danh từ\n- (địa lý,ddịa chất) trảng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-khoảng rừng thưa
-
+glade	
+@glade /gleid/
+*  danh từ
+- (địa lý,ddịa chất) trảng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-khoảng rừng thưa

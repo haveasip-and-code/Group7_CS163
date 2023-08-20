@@ -1,3 +1,35 @@
-interference
-	@interference /,intə'fiərəns/\n*  danh từ\n- sự gây trở ngại, sự quấy rầy; điều gây trở ngại\n- sự can thiệp, sự xen vào, sự dính vào\n- (vật lý) sự giao thoa\n- (raddiô) sự nhiễu\n- sự đá chân nọ vào chân kia (ngựa)\n- (thể dục,thể thao) sự chặn trái phép; sự cản đối phương cho đồng đội dắt bóng lên; sự phạt việc chặn trái phép\n- sự chạm vào nhau, sự đụng vào nhau; sự đối lập với nhau\n@Chuyên ngành kinh tế\n-sự can dự\n-sự can thiệp\n@Chuyên ngành kỹ thuật\n-giao thoa\n-nhiễu\n-sự chèn\n-sự kẹt\n-sự nhiễu\n-sự nhiễu loạn\n-sự phủ chờm\n-sự quá kích thước\n-sự trục trặc\n-sự xếp chồng\n@Lĩnh vực: vật lý\n-hiện tượng giao thoa\n@Lĩnh vực: xây dựng\n-hiện tượng méo\n@Lĩnh vực: điện\n-sự can nhiễu\n@Lĩnh vực: cơ khí & công trình\n-sự cắt chân răng\n-sự tương hỗ\n@Lĩnh vực: y học\n-sự giao thoa
-
+interference	
+@interference /,intə'fiərəns/
+*  danh từ
+- sự gây trở ngại, sự quấy rầy; điều gây trở ngại
+- sự can thiệp, sự xen vào, sự dính vào
+- (vật lý) sự giao thoa
+- (raddiô) sự nhiễu
+- sự đá chân nọ vào chân kia (ngựa)
+- (thể dục,thể thao) sự chặn trái phép; sự cản đối phương cho đồng đội dắt bóng lên; sự phạt việc chặn trái phép
+- sự chạm vào nhau, sự đụng vào nhau; sự đối lập với nhau
+@Chuyên ngành kinh tế
+-sự can dự
+-sự can thiệp
+@Chuyên ngành kỹ thuật
+-giao thoa
+-nhiễu
+-sự chèn
+-sự kẹt
+-sự nhiễu
+-sự nhiễu loạn
+-sự phủ chờm
+-sự quá kích thước
+-sự trục trặc
+-sự xếp chồng
+@Lĩnh vực: vật lý
+-hiện tượng giao thoa
+@Lĩnh vực: xây dựng
+-hiện tượng méo
+@Lĩnh vực: điện
+-sự can nhiễu
+@Lĩnh vực: cơ khí & công trình
+-sự cắt chân răng
+-sự tương hỗ
+@Lĩnh vực: y học
+-sự giao thoa

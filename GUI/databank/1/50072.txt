@@ -1,3 +1,3 @@
-severities
-	@severities\n* danh từ, pl\n- cách cư xử nghiêm khắc, điều kiện nghiêm khắc
-
+severities	@severities
+* danh từ, pl
+- cách cư xử nghiêm khắc, điều kiện nghiêm khắc

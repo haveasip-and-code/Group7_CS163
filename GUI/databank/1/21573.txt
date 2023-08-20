@@ -1,3 +1,42 @@
-flue
-	@flue /flue/\n*  danh từ\n- lưới đánh cá ba lớp mắt\n*  danh từ\n- nùi bông, nạm bông\n- ống khói\n- (kỹ thuật) ống hơi\n*  danh từ ((cũng) fluke)\n- đầu càng mỏ neo\n- đầu đinh ba (có mấu)\n- thuỳ đuôi cá voi; (số nhiều) đuôi cá voi\n*  danh từ\n- bệnh cúm ((cũng) flu)\n*  nội động từ\n- loe (lỗ, cửa)\n*  ngoại động từ\n- mở rộng (lỗ cửa) (vào trong hay ra ngoài)\n@Chuyên ngành kỹ thuật\n-đường dẫn khói\n-đường khói\n-lỗ khói\n-ống dẫn khói\n-ống dẫn lửa\n-ống dẫn nhiệt\n-ống hơi\n-ống khói\n-ống lửa\n@Lĩnh vực: điện\n-đường dẫn lửa\n@Chuyên ngành kỹ thuật\n-đường dẫn khói\n-đường khói\n-lỗ khói\n-ống dẫn khói\n-ống dẫn lửa\n-ống dẫn nhiệt\n-ống hơi\n-ống khói\n-ống lửa\n@Lĩnh vực: điện\n-đường dẫn lửa
-
+flue	
+@flue /flue/
+*  danh từ
+- lưới đánh cá ba lớp mắt
+*  danh từ
+- nùi bông, nạm bông
+- ống khói
+- (kỹ thuật) ống hơi
+*  danh từ ((cũng) fluke)
+- đầu càng mỏ neo
+- đầu đinh ba (có mấu)
+- thuỳ đuôi cá voi; (số nhiều) đuôi cá voi
+*  danh từ
+- bệnh cúm ((cũng) flu)
+*  nội động từ
+- loe (lỗ, cửa)
+*  ngoại động từ
+- mở rộng (lỗ cửa) (vào trong hay ra ngoài)
+@Chuyên ngành kỹ thuật
+-đường dẫn khói
+-đường khói
+-lỗ khói
+-ống dẫn khói
+-ống dẫn lửa
+-ống dẫn nhiệt
+-ống hơi
+-ống khói
+-ống lửa
+@Lĩnh vực: điện
+-đường dẫn lửa
+@Chuyên ngành kỹ thuật
+-đường dẫn khói
+-đường khói
+-lỗ khói
+-ống dẫn khói
+-ống dẫn lửa
+-ống dẫn nhiệt
+-ống hơi
+-ống khói
+-ống lửa
+@Lĩnh vực: điện
+-đường dẫn lửa

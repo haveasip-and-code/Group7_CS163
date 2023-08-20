@@ -1,3 +1,2 @@
-versional
-	@versional\n- xem version
-
+versional	@versional
+- xem version

@@ -1,3 +1,8 @@
-proteolysis
-	@proteolysis /proteolysis/\n*  danh từ\n- (sinh vật học) sự phân giải protein\n@Chuyên ngành kinh tế\n-sự phân hủy protein\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự hủy protein
-
+proteolysis	@proteolysis /proteolysis/
+*  danh từ
+- (sinh vật học) sự phân giải protein
+@Chuyên ngành kinh tế
+-sự phân hủy protein
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự hủy protein

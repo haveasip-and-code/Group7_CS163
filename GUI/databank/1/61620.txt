@@ -1,3 +1,2 @@
-vertu
-	@vertu\n- xem virtu
-
+vertu	@vertu
+- xem virtu

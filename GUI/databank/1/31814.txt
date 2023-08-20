@@ -1,3 +1,17 @@
-lee
-	@lee /li:/\n*  danh từ\n- chỗ che, chỗ tránh gió\n=under the lee of a house+ được một căn nhà che cho khuất gió\n- (hàng hải) mạn dưới gió, mạn khuất gió của con tàu\n@Chuyên ngành kỹ thuật\n-kín gió\n@Lĩnh vực: xây dựng\n-khuất gió\n@Lĩnh vực: giao thông & vận tải\n-phía khuất gió\n@Chuyên ngành kỹ thuật\n-kín gió\n@Lĩnh vực: xây dựng\n-khuất gió\n@Lĩnh vực: giao thông & vận tải\n-phía khuất gió
-
+lee	@lee /li:/
+*  danh từ
+- chỗ che, chỗ tránh gió
+=under the lee of a house+ được một căn nhà che cho khuất gió
+- (hàng hải) mạn dưới gió, mạn khuất gió của con tàu
+@Chuyên ngành kỹ thuật
+-kín gió
+@Lĩnh vực: xây dựng
+-khuất gió
+@Lĩnh vực: giao thông & vận tải
+-phía khuất gió
+@Chuyên ngành kỹ thuật
+-kín gió
+@Lĩnh vực: xây dựng
+-khuất gió
+@Lĩnh vực: giao thông & vận tải
+-phía khuất gió

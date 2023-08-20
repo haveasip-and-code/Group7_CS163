@@ -1,3 +1,24 @@
-buoy
-	@buoy /bɔi/\n*  danh từ\n- (hàng hải) phao, phao cứu đắm ((cũng) life buoy)\n- (nghĩa bóng) chỗ nương tựa\n*  ngoại động từ\n- đặt phao, thả phao\n=to buoy [out] a channel+ thả phao ở eo biển\n- ((thường) + up) giữ cho khỏi chìm, làm cho nổi, nâng lên\n- ((thường) + up) giữ vững tinh thần, làm cho phấn chấn\n=to be buoyed up with new hope+ phấn chấn lên với niềm hy vọng mới\n@Chuyên ngành kinh tế\n-phao\n-phao cứu đắm\n@Chuyên ngành kỹ thuật\n-đặt phao\n-phao\n-phao hiệu\n-phao tiêu\n-tiêu\n@Lĩnh vực: giao thông & vận tải\n-phao (mốc hàng hải)
-
+buoy	
+@buoy /bɔi/
+*  danh từ
+- (hàng hải) phao, phao cứu đắm ((cũng) life buoy)
+- (nghĩa bóng) chỗ nương tựa
+*  ngoại động từ
+- đặt phao, thả phao=to buoy [out] a channel
++ thả phao ở eo biển
+- ((thường) 
++ up) giữ cho khỏi chìm, làm cho nổi, nâng lên
+- ((thường) 
++ up) giữ vững tinh thần, làm cho phấn chấn=to be buoyed up with new hope
++ phấn chấn lên với niềm hy vọng mới
+@Chuyên ngành kinh tế
+-phao
+-phao cứu đắm
+@Chuyên ngành kỹ thuật
+-đặt phao
+-phao
+-phao hiệu
+-phao tiêu
+-tiêu
+@Lĩnh vực: giao thông & vận tải
+-phao (mốc hàng hải)

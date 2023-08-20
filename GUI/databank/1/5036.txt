@@ -1,3 +1,9 @@
-bedded
-	@Chuyên ngành kỹ thuật\n-phân lớp\n-thành lớp\n@Lĩnh vực: cơ khí & công trình\n-đã rà (khớp)\n@Lĩnh vực: xây dựng\n-thành vỉa\n-xếp lớp
-
+bedded	
+@Chuyên ngành kỹ thuật
+-phân lớp
+-thành lớp
+@Lĩnh vực: cơ khí & công trình
+-đã rà (khớp)
+@Lĩnh vực: xây dựng
+-thành vỉa
+-xếp lớp

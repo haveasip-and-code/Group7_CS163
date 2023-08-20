@@ -1,3 +1,4 @@
-hematocrit
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hematocrit (tỷ lệ thể tích huyết cầu)
-
+hematocrit	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hematocrit (tỷ lệ thể tích huyết cầu)

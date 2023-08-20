@@ -1,3 +1,35 @@
-heating
-	@heating /'hi:tiɳ/\n*  danh từ\n- sự đốt nóng, sự đun nóng; sự làm nóng\n- (kỹ thuật),  (vật lý) sự nung; sự nóng lên\n=electrice heating+ sự nung điện\n=collisional heating+ sự nóng lên do va chạm\n@Chuyên ngành kinh tế\n-sự đốt nóng\n-sự hung nóng\n-sự xử lý nhiệt\n@Chuyên ngành kỹ thuật\n-cấp nhiệt\n-lò sưởi\n-nung nóng\n-sự đốt nóng\n-sự đun\n-sự gia nhiệt\n-sự làm nóng\n-sự nóng lên\n-sự nung\n-sự nung nóng\n-sự phát nóng\n-sự sấy\n-sự sưởi\n-sự sưởi ấm\n-sự tăng nhiệt\n-sưởi\n-sưởi ấm\n-tăng nhiệt\n@Lĩnh vực: xây dựng\n-sự đun nóng\n-sự hâm nóng\n-sự nung trước\n-sưởi, nung (nóng)
-
+heating	
+@heating /'hi:tiɳ/
+*  danh từ
+- sự đốt nóng, sự đun nóng; sự làm nóng
+- (kỹ thuật),  (vật lý) sự nung; sự nóng lên=electrice heating
++ sự nung điện=collisional heating
++ sự nóng lên do va chạm
+@Chuyên ngành kinh tế
+-sự đốt nóng
+-sự hung nóng
+-sự xử lý nhiệt
+@Chuyên ngành kỹ thuật
+-cấp nhiệt
+-lò sưởi
+-nung nóng
+-sự đốt nóng
+-sự đun
+-sự gia nhiệt
+-sự làm nóng
+-sự nóng lên
+-sự nung
+-sự nung nóng
+-sự phát nóng
+-sự sấy
+-sự sưởi
+-sự sưởi ấm
+-sự tăng nhiệt
+-sưởi
+-sưởi ấm
+-tăng nhiệt
+@Lĩnh vực: xây dựng
+-sự đun nóng
+-sự hâm nóng
+-sự nung trước
+-sưởi, nung (nóng)

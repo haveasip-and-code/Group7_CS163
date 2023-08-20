@@ -1,3 +1,11 @@
-wharfage
-	@wharfage /'w :fid /\n*  danh từ\n- (hàng hi) thuế bến\n@Chuyên ngành kinh tế\n-phí bến\n-phí neo đậu\n-phí trữ hàng ở cầu cảng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuế bến\n-thuế ke
-
+wharfage	@wharfage /'w :fid /
+*  danh từ
+- (hàng hi) thuế bến
+@Chuyên ngành kinh tế
+-phí bến
+-phí neo đậu
+-phí trữ hàng ở cầu cảng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuế bến
+-thuế ke

@@ -1,3 +1,4 @@
-interlaminar
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-giữa các lớp
-
+interlaminar	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-giữa các lớp

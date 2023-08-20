@@ -1,3 +1,2 @@
-adjuratory
-	@adjuratory\n- xem adjuration
-
+adjuratory	@adjuratory
+- xem adjuration

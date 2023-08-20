@@ -1,3 +1,14 @@
-parchment
-	@parchment /'pɑ:tʃmənt/\n*  danh từ\n- giấy da\n- bản viết trên giấy da\n- vật tựa da khô\n@Chuyên ngành kinh tế\n-chất chống ẩm\n-giấy dầu\n@Chuyên ngành kỹ thuật\n-giấy da cừu\n-giấy da dê\n@Lĩnh vực: hóa học & vật liệu\n-giấy bán thấm\n-giấy da, giấy giả da
-
+parchment	@parchment /'pɑ:tʃmənt/
+*  danh từ
+- giấy da
+- bản viết trên giấy da
+- vật tựa da khô
+@Chuyên ngành kinh tế
+-chất chống ẩm
+-giấy dầu
+@Chuyên ngành kỹ thuật
+-giấy da cừu
+-giấy da dê
+@Lĩnh vực: hóa học & vật liệu
+-giấy bán thấm
+-giấy da, giấy giả da

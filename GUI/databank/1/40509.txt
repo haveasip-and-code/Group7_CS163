@@ -1,3 +1,9 @@
-percent
-	@percent\n- phần trăm\n@Chuyên ngành kinh tế\n-phần trăm\n-phần trăm (ký hiệu : %)\n@Chuyên ngành kỹ thuật\n-phần trăm\n@Lĩnh vực: toán & tin\n-phần trăm (%)
-
+percent	@percent
+- phần trăm
+@Chuyên ngành kinh tế
+-phần trăm
+-phần trăm (ký hiệu : %)
+@Chuyên ngành kỹ thuật
+-phần trăm
+@Lĩnh vực: toán & tin
+-phần trăm (%)

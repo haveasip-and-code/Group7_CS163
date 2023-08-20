@@ -1,3 +1,8 @@
-interatomic
-	@interatomic\n* tính từ\n- tồn tại hoặc hoạt động giữa các nguyên tử\n@Chuyên ngành kỹ thuật\n-liên nguyên tử\n@Lĩnh vực: điện lạnh\n-giữa các nguyên tử
-
+interatomic	
+@interatomic
+* tính từ
+- tồn tại hoặc hoạt động giữa các nguyên tử
+@Chuyên ngành kỹ thuật
+-liên nguyên tử
+@Lĩnh vực: điện lạnh
+-giữa các nguyên tử

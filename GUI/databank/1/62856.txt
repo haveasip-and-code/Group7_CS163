@@ -1,3 +1,4 @@
-whiskers
-	@whiskers /'wisk z/\n*  danh từ số nhiều\n- tóc mai dài (người)\n- râu, ria (mèo, chuột)
-
+whiskers	@whiskers /'wisk z/
+*  danh từ số nhiều
+- tóc mai dài (người)
+- râu, ria (mèo, chuột)

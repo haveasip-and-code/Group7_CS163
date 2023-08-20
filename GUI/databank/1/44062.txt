@@ -1,3 +1,7 @@
-propagandize
-	@propagandize /propagandize/\n*  động từ\n- tuyên truyền\n=to propagandize democratic principles+ tuyên truyền những nguyên tắc dân chủ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tuyên truyền
-
+propagandize	@propagandize /propagandize/
+*  động từ
+- tuyên truyền
+=to propagandize democratic principles+ tuyên truyền những nguyên tắc dân chủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tuyên truyền

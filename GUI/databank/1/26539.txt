@@ -1,3 +1,9 @@
-hydride
-	@hydride /'haidraid/\n*  danh từ\n- (hoá học) hyddrua\n=potasium hydride+ kali hyddrua\n=sodium hydride+ natri hyddrua\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hydrua
-
+hydride	
+@hydride /'haidraid/
+*  danh từ
+- (hoá học) hyddrua=potasium hydride
++ kali hyddrua=sodium hydride
++ natri hyddrua
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hydrua

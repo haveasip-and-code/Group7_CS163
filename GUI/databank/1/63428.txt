@@ -1,3 +1,7 @@
-yack
-	@yack\n* danh từ\n- lối nói chuyện ba hoa\n* động từ\n- ba hoa, khoác lác\n@Chuyên ngành kỹ thuật\n-luyên thuyên
-
+yack	@yack
+* danh từ
+- lối nói chuyện ba hoa
+* động từ
+- ba hoa, khoác lác
+@Chuyên ngành kỹ thuật
+-luyên thuyên

@@ -1,3 +1,7 @@
-marc
-	@marc /mɑ:k/\n*  danh từ\n- bã nho\n- rượu bạc nho, rượu mác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bã ép quả
-
+marc	@marc /mɑ:k/
+*  danh từ
+- bã nho
+- rượu bạc nho, rượu mác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bã ép quả

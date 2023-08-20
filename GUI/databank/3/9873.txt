@@ -1,3 +1,42 @@
-cloud
-	@cloud /klaud/\n*  danh từ\n- mây, đám mây\n- đám (khói, bụi)\n=a cloud of dust+ đám bụi\n- đàn, đoàn, bầy (ruồi, muỗi đang bay, ngựa đang phi...)\n=a cloud of horsemen+ đoàn kỵ sĩ (đang phi ngựa)\n=a cloud of flies+ đàn ruồi (đang bay)\n- (nghĩa bóng) bóng mây, bóng đen; sự buồn rầu; điều bất hạnh\n=cloud of war+ bóng đen chiến tranh\n=a cloud of grief+ bóng mây buồn; vẻ buồn phiền\n- vết vẩn đục (trong hòn ngọc...)\n- (số nhiều) trời, bầu trời\n=to sail up into the clouds+ bay lên trời\n!to be under a cloud\n- lâm vào hoàn cảnh đáng buồn, bị thất thế\n- (từ lóng) bị tu tội\n!cloud on one's brow\n- vẻ buồn hiện lên nét mặt\n!to drop from the clouds\n- rơi từ trên máy bay xuống\n!every cloud has a silver lining\n- (xem) silver\n!to have one's head in the clouds; to be in the clouds\n- lúc nào cũng mơ tưởng viển vông; sống ở trên mây\n*  ngoại động từ\n- mây che, che phủ; làm tối sầm\n=the sun was clouded+ mặt trời bị mây che\n- (nghĩa bóng) làm phiền muộn, làm buồn\n=a clouded countenance+ vẻ mặt phiền muộn\n- làm vẩn đục ((nghĩa đen) & (nghĩa bóng))\n=to cloud someone's happiness+ làm vẩn đục hạnh phúc của ai\n*  nội động từ (up,  over)\n- bị mây che, sầm lại ((nghĩa đen) & (nghĩa bóng))\n=sky clouds over+ bầu trời bị mây che phủ\n=brow clouds over+ vầng trán sầm lại, mặt sầm lại\n@Chuyên ngành kinh tế\n-cặn\n-chất vẩn đục\n-che phủ\n@Chuyên ngành kỹ thuật\n-mây
-
+cloud	@cloud /klaud/
+*  danh từ
+- mây, đám mây
+- đám (khói, bụi)
+=a cloud of dust+ đám bụi
+- đàn, đoàn, bầy (ruồi, muỗi đang bay, ngựa đang phi...)
+=a cloud of horsemen+ đoàn kỵ sĩ (đang phi ngựa)
+=a cloud of flies+ đàn ruồi (đang bay)
+- (nghĩa bóng) bóng mây, bóng đen; sự buồn rầu; điều bất hạnh
+=cloud of war+ bóng đen chiến tranh
+=a cloud of grief+ bóng mây buồn; vẻ buồn phiền
+- vết vẩn đục (trong hòn ngọc...)
+- (số nhiều) trời, bầu trời
+=to sail up into the clouds+ bay lên trời
+!to be under a cloud
+- lâm vào hoàn cảnh đáng buồn, bị thất thế
+- (từ lóng) bị tu tội
+!cloud on one's brow
+- vẻ buồn hiện lên nét mặt
+!to drop from the clouds
+- rơi từ trên máy bay xuống
+!every cloud has a silver lining
+- (xem) silver
+!to have one's head in the clouds; to be in the clouds
+- lúc nào cũng mơ tưởng viển vông; sống ở trên mây
+*  ngoại động từ
+- mây che, che phủ; làm tối sầm
+=the sun was clouded+ mặt trời bị mây che
+- (nghĩa bóng) làm phiền muộn, làm buồn
+=a clouded countenance+ vẻ mặt phiền muộn
+- làm vẩn đục ((nghĩa đen) & (nghĩa bóng))
+=to cloud someone's happiness+ làm vẩn đục hạnh phúc của ai
+*  nội động từ (up,  over)
+- bị mây che, sầm lại ((nghĩa đen) & (nghĩa bóng))
+=sky clouds over+ bầu trời bị mây che phủ
+=brow clouds over+ vầng trán sầm lại, mặt sầm lại
+@Chuyên ngành kinh tế
+-cặn
+-chất vẩn đục
+-che phủ
+@Chuyên ngành kỹ thuật
+-mây

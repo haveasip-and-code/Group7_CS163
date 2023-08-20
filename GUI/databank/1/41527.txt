@@ -1,3 +1,2 @@
-pigeonhole
-	@Chuyên ngành kỹ thuật\n-ngăn hộc
-
+pigeonhole	@Chuyên ngành kỹ thuật
+-ngăn hộc

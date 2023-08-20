@@ -1,3 +1,11 @@
-locomotor
-	@locomotor /,loukə'moutə/\n*  danh từ\n- người vận động; vậy di động\n*  tính từ\n- di động, vận động\n@Chuyên ngành kỹ thuật\n-vận động\n@Lĩnh vực: y học\n-vận động, di động\n@Lĩnh vực: hóa học & vật liệu\n-vật di động
-
+locomotor	@locomotor /,loukə'moutə/
+*  danh từ
+- người vận động; vậy di động
+*  tính từ
+- di động, vận động
+@Chuyên ngành kỹ thuật
+-vận động
+@Lĩnh vực: y học
+-vận động, di động
+@Lĩnh vực: hóa học & vật liệu
+-vật di động

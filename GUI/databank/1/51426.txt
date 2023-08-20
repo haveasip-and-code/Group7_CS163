@@ -1,3 +1,16 @@
-smudge
-	@smudge /smʌdʤ/\n*  danh từ ((cũng) smutch)\n- lửa hun (ruồi, muỗi...; làm tan sương giá để bảo vệ cây...)\n- vết bẩn, vết dơ\n- đường mờ, dấu vết mờ mờ\n*  ngoại động từ ((cũng) smutch)\n- làm bẩn, làm dơ; làm nhoè\n- làm hại, làm tổn thương, bôi nhọ (danh dự...)\n*  nội động từ\n- mờ; nhoè\n=this ink smudges easily+ mực này dễ nhoè\n@Chuyên ngành kỹ thuật\n-muội than\n-vết bẩn\n@Lĩnh vực: hóa học & vật liệu\n-khói hun
-
+smudge	@smudge /smʌdʤ/
+*  danh từ ((cũng) smutch)
+- lửa hun (ruồi, muỗi...; làm tan sương giá để bảo vệ cây...)
+- vết bẩn, vết dơ
+- đường mờ, dấu vết mờ mờ
+*  ngoại động từ ((cũng) smutch)
+- làm bẩn, làm dơ; làm nhoè
+- làm hại, làm tổn thương, bôi nhọ (danh dự...)
+*  nội động từ
+- mờ; nhoè
+=this ink smudges easily+ mực này dễ nhoè
+@Chuyên ngành kỹ thuật
+-muội than
+-vết bẩn
+@Lĩnh vực: hóa học & vật liệu
+-khói hun

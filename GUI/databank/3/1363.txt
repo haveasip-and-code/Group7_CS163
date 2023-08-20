@@ -1,3 +1,4 @@
-airtightness
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tính không lọt khí\n-tính không thấm khí
-
+airtightness	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tính không lọt khí
+-tính không thấm khí

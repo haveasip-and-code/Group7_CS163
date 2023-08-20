@@ -1,3 +1,24 @@
-manage
-	@manage /'mænidʤ/\n*  ngoại động từ\n- quản lý, trông nom\n=to manage a bank+ quản lý một nhà ngân hàng\n=to manage a household+ trông nom công việc gia đình\n- chế ngự, kiềm chế; điều khiển, sai khiến, dạy dỗ, dạy bảo\n=I cannot manage that horse+ tôi không thể nào chế ngự nổi con ngựa kia\n=a child very difficult to manage+ một đứa trẻ khó dạy (bảo)\n- thoát khỏi, gỡ khỏi; xoay xở được, giải quyết được\n=how could you manage that bisiness?+ anh làm thế nào để có thể giải quyết được vấn đề ấy?\n- dùng, sử dụng\n=how do you manage those levers?+ anh sử dụng những cái đòn bẫy này thế nào?\n=can you manage another bottle?+ anh có thể làm thêm một chai nữa không?\n*  nội động từ\n- đạt kết quả, đạt mục đích, xoay sở được, tìm được cách\n=he knows how to manage+ nó biết cách xoay sở, nó biết cách giải quyết\n@Chuyên ngành kinh tế\n-chỉ huy\n-điều khiển\n-quản lý\n-quản trị\n@Chuyên ngành kỹ thuật\n-điều khiển\n-quản lý
-
+manage	@manage /'mænidʤ/
+*  ngoại động từ
+- quản lý, trông nom
+=to manage a bank+ quản lý một nhà ngân hàng
+=to manage a household+ trông nom công việc gia đình
+- chế ngự, kiềm chế; điều khiển, sai khiến, dạy dỗ, dạy bảo
+=I cannot manage that horse+ tôi không thể nào chế ngự nổi con ngựa kia
+=a child very difficult to manage+ một đứa trẻ khó dạy (bảo)
+- thoát khỏi, gỡ khỏi; xoay xở được, giải quyết được
+=how could you manage that bisiness?+ anh làm thế nào để có thể giải quyết được vấn đề ấy?
+- dùng, sử dụng
+=how do you manage those levers?+ anh sử dụng những cái đòn bẫy này thế nào?
+=can you manage another bottle?+ anh có thể làm thêm một chai nữa không?
+*  nội động từ
+- đạt kết quả, đạt mục đích, xoay sở được, tìm được cách
+=he knows how to manage+ nó biết cách xoay sở, nó biết cách giải quyết
+@Chuyên ngành kinh tế
+-chỉ huy
+-điều khiển
+-quản lý
+-quản trị
+@Chuyên ngành kỹ thuật
+-điều khiển
+-quản lý

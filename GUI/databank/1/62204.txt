@@ -1,3 +1,4 @@
-vouching
-	@Chuyên ngành kinh tế\n-trách nhiệm xác minh\n-việc xác minh\n-xác minh
-
+vouching	@Chuyên ngành kinh tế
+-trách nhiệm xác minh
+-việc xác minh
+-xác minh

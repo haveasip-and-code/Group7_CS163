@@ -1,3 +1,19 @@
-switchboard
-	@switchboard /'switʃbɔ:d/\n*  danh từ\n- tổng đài\n@Chuyên ngành kinh tế\n-bảng điều động (tổng đại điện thoại)\n-tổng đài (điện thoại)\n-tổng đài điện thoại\n@Chuyên ngành kỹ thuật\n-bảng chuyển mạch\n-bảng ổ cắm\n-bảng phân phối\n@Lĩnh vực: toán & tin\n-bảng đảo mạch\n@Lĩnh vực: xây dựng\n-bảng phối điện\n@Lĩnh vực: điện tử & viễn thông\n-tổng đài điện thoại\n@Lĩnh vực: điện\n-tủ (bảng) điều khiển
-
+switchboard	@switchboard /'switʃbɔ:d/
+*  danh từ
+- tổng đài
+@Chuyên ngành kinh tế
+-bảng điều động (tổng đại điện thoại)
+-tổng đài (điện thoại)
+-tổng đài điện thoại
+@Chuyên ngành kỹ thuật
+-bảng chuyển mạch
+-bảng ổ cắm
+-bảng phân phối
+@Lĩnh vực: toán & tin
+-bảng đảo mạch
+@Lĩnh vực: xây dựng
+-bảng phối điện
+@Lĩnh vực: điện tử & viễn thông
+-tổng đài điện thoại
+@Lĩnh vực: điện
+-tủ (bảng) điều khiển

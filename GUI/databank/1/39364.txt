@@ -1,3 +1,2 @@
-palpator
-	@palpator\n- xem palpate
-
+palpator	@palpator
+- xem palpate

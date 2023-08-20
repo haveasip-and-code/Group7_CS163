@@ -1,3 +1,7 @@
-superstore
-	@superstore\n* danh từ\n- cửa hàng lớn\n@Chuyên ngành kinh tế\n-cửa hàng lớn\n-cửa hàng siêu cấp\n-siêu thị
-
+superstore	@superstore
+* danh từ
+- cửa hàng lớn
+@Chuyên ngành kinh tế
+-cửa hàng lớn
+-cửa hàng siêu cấp
+-siêu thị

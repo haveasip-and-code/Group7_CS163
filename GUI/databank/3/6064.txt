@@ -1,3 +1,2 @@
-bluffer
-	@bluffer\n- xem bluff
-
+bluffer	@bluffer
+- xem bluff

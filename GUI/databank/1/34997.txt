@@ -1,3 +1,28 @@
-minor
-	@minor /'mainə/\n*  tính từ\n- nhỏ (hơn), không quan trọng, thứ yếu\n=minor mistakes+ những lỗi nhỏ\n=to play a minor part+ đóng một vai thứ yếu, đóng một vai phụ\n- em, bé (dùng trong trường hợp có hai anh em học cùng trường)\n= Smith minor+ Xmít bé\n- (âm nhạc) thứ\n=minor interval+ quãng thứ\n*  danh từ\n- người vị thành niên\n- (âm nhạc) điệu th\n@Chuyên ngành kinh tế\n-không quan trọng\n-môn phụ (môn học phụ, môn thi phụ)\n-người vị thành niên\n-nhỏ\n-thứ yếu\n@Chuyên ngành kỹ thuật\n-bé\n-định thức con\n-nhỏ\n-nhỏ hơn\n-phụ\n@Lĩnh vực: cơ khí & công trình\n-thứ cấp\n@Lĩnh vực: điện lạnh\n-thuộc số ít
-
+minor	@minor /'mainə/
+*  tính từ
+- nhỏ (hơn), không quan trọng, thứ yếu
+=minor mistakes+ những lỗi nhỏ
+=to play a minor part+ đóng một vai thứ yếu, đóng một vai phụ
+- em, bé (dùng trong trường hợp có hai anh em học cùng trường)
+= Smith minor+ Xmít bé
+- (âm nhạc) thứ
+=minor interval+ quãng thứ
+*  danh từ
+- người vị thành niên
+- (âm nhạc) điệu th
+@Chuyên ngành kinh tế
+-không quan trọng
+-môn phụ (môn học phụ, môn thi phụ)
+-người vị thành niên
+-nhỏ
+-thứ yếu
+@Chuyên ngành kỹ thuật
+-bé
+-định thức con
+-nhỏ
+-nhỏ hơn
+-phụ
+@Lĩnh vực: cơ khí & công trình
+-thứ cấp
+@Lĩnh vực: điện lạnh
+-thuộc số ít

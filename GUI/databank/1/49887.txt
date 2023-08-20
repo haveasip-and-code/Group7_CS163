@@ -1,3 +1,6 @@
-sepsis
-	@sepsis /'sepsis/\n*  danh từ\n- (y học) sự nhiễm trùng máu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nhiễm khuẩn huyết
-
+sepsis	@sepsis /'sepsis/
+*  danh từ
+- (y học) sự nhiễm trùng máu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nhiễm khuẩn huyết

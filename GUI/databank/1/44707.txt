@@ -1,3 +1,2 @@
-punctation
-	@punctation\n- xem punctate
-
+punctation	@punctation
+- xem punctate

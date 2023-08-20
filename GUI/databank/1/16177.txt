@@ -1,3 +1,32 @@
-distortion
-	@distortion /dis'tɔ:ʃn/\n*  danh từ\n- sự vặn vẹo, sự bóp méo, sự làm méo mó\n- sự bóp méo, sự xuyên tạc (sự thật...)\n- tình trạng không rõ và không chính xác (dây nói...)\n@Chuyên ngành kỹ thuật\n-biến dạng\n-biến dạng xoắn\n-độ méo\n-méo\n-sự biến dạng\n-sự biến hình\n-sự cong\n-sự cong vênh\n-sự lệch\n-sự méo\n-sự méo mó\n-sự vặn\n-sự xoắn\n-xoắn\n-xoắn vặn\n@Lĩnh vực: cơ khí & công trình\n-sự bong\n@Lĩnh vực: điện lạnh\n-sự méo ảnh\n@Lĩnh vực: điện\n-sự méo dạng\n@Lĩnh vực: xây dựng\n-sự văn\n@Lĩnh vực: y học\n-sự xoắn vặn
-
+distortion	
+@distortion /dis'tɔ:ʃn/
+*  danh từ
+- sự vặn vẹo, sự bóp méo, sự làm méo mó
+- sự bóp méo, sự xuyên tạc (sự thật...)
+- tình trạng không rõ và không chính xác (dây nói...)
+@Chuyên ngành kỹ thuật
+-biến dạng
+-biến dạng xoắn
+-độ méo
+-méo
+-sự biến dạng
+-sự biến hình
+-sự cong
+-sự cong vênh
+-sự lệch
+-sự méo
+-sự méo mó
+-sự vặn
+-sự xoắn
+-xoắn
+-xoắn vặn
+@Lĩnh vực: cơ khí & công trình
+-sự bong
+@Lĩnh vực: điện lạnh
+-sự méo ảnh
+@Lĩnh vực: điện
+-sự méo dạng
+@Lĩnh vực: xây dựng
+-sự văn
+@Lĩnh vực: y học
+-sự xoắn vặn

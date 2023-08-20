@@ -1,3 +1,7 @@
-subtracter
-	@subtracter\n- (máy tính) thiết bị trừ, sơ đồ trừ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bộ trừ\n-sơ đồ trừ\n-thiết bị trừ
-
+subtracter	@subtracter
+- (máy tính) thiết bị trừ, sơ đồ trừ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bộ trừ
+-sơ đồ trừ
+-thiết bị trừ

@@ -1,3 +1,19 @@
-native
-	@native /'neitiv/\n*  tính từ\n- (thuộc) nơi sinh\n=native country; native place+ nơi sinh, quê hương\n- tự nhiên, bẩm sinh\n=native ability+ tài năng bẩm sinh, thiên tư\n- (thuộc) địa phương; (thuộc) thổ dân\n=native customs+ những phong tục của dân địa phương\n- tự nhiên (kim loại, khoáng chất)\n=native gold+ vàng tự nhiên\n*  danh từ\n- người sinh ở, người quê quán ở, người địa phương, thổ dân\n=a native of Hanoi+ người quê ở Hà nội\n- loài (vật, cây) địa phương, loài nguyên sản; thổ sản\n- sò nuôi (ở bờ biển Anh)\n@Chuyên ngành kỹ thuật\n-riêng\n@Lĩnh vực: xây dựng\n-thổ dân
-
+native	@native /'neitiv/
+*  tính từ
+- (thuộc) nơi sinh
+=native country; native place+ nơi sinh, quê hương
+- tự nhiên, bẩm sinh
+=native ability+ tài năng bẩm sinh, thiên tư
+- (thuộc) địa phương; (thuộc) thổ dân
+=native customs+ những phong tục của dân địa phương
+- tự nhiên (kim loại, khoáng chất)
+=native gold+ vàng tự nhiên
+*  danh từ
+- người sinh ở, người quê quán ở, người địa phương, thổ dân
+=a native of Hanoi+ người quê ở Hà nội
+- loài (vật, cây) địa phương, loài nguyên sản; thổ sản
+- sò nuôi (ở bờ biển Anh)
+@Chuyên ngành kỹ thuật
+-riêng
+@Lĩnh vực: xây dựng
+-thổ dân

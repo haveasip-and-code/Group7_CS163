@@ -1,3 +1,4 @@
-plowing
-	@Chuyên ngành kỹ thuật\n-sự xới\n@Lĩnh vực: xây dựng\n-sự cày
-
+plowing	@Chuyên ngành kỹ thuật
+-sự xới
+@Lĩnh vực: xây dựng
+-sự cày

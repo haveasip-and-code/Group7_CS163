@@ -1,3 +1,19 @@
-profitable
-	@profitable /profitable/\n*  tính từ\n- có lợi, có ích\n=profitable advic+ lời khuyên có ích\n- sinh lãi, mang lợi\n=a profitable undertaking+ một công việc mang lợi\n@Chuyên ngành kinh tế\n-có lãi\n-có lời\n-có lợi\n-sinh lợi\n@Chuyên ngành kỹ thuật\n-có lãi\n-ích lợi\n-lợi nhuận\n-sinh lợi\n-thu nhập\n@Lĩnh vực: toán & tin\n-có thu nhập
-
+profitable	@profitable /profitable/
+*  tính từ
+- có lợi, có ích
+=profitable advic+ lời khuyên có ích
+- sinh lãi, mang lợi
+=a profitable undertaking+ một công việc mang lợi
+@Chuyên ngành kinh tế
+-có lãi
+-có lời
+-có lợi
+-sinh lợi
+@Chuyên ngành kỹ thuật
+-có lãi
+-ích lợi
+-lợi nhuận
+-sinh lợi
+-thu nhập
+@Lĩnh vực: toán & tin
+-có thu nhập

@@ -1,3 +1,22 @@
-revive
-	@revive /ri'vaiv/\n*  ngoại động từ\n- làm sống lại, làm tỉnh lại\n- đem diễn lại\n=to revive a play+ đem diễn lại một vở kịch (sau khi đã có sửa đổi đôi chút)\n- nắn lại, sửa lại cho khỏi nhăn nheo (cái mũ, cái áo)\n- làm phấn khởi, làm hào hứng; khơi lại\n=to revive one's hopes+ khơi lại mối hy vọng\n- làm sống lại, hồi sinh; phục hồi (phong tục...); đem thi hành lại, ban hành lại (một đạo luật) làm cho trở nên đậm đà, làm cho vui vẻ hơn trước (cuộc nói chuyện...)\n*  nội động từ\n- sống lại, tỉnh lại\n- phấn khởi lại, hào hứng lại\n- khoẻ ra, hồi tỉnh, phục hồi\n=to feel one's hopes reviring+ cảm thấy hy vọng trở lại\n- lại được thịnh hành, lại được ưa thích (mốt...)\n@Chuyên ngành kinh tế\n-hoạt hóa lại\n-tái sinh\n@Chuyên ngành kỹ thuật\n-làm sống lại\n@Lĩnh vực: hóa học & vật liệu\n-hồi sinh
-
+revive	@revive /ri'vaiv/
+*  ngoại động từ
+- làm sống lại, làm tỉnh lại
+- đem diễn lại
+=to revive a play+ đem diễn lại một vở kịch (sau khi đã có sửa đổi đôi chút)
+- nắn lại, sửa lại cho khỏi nhăn nheo (cái mũ, cái áo)
+- làm phấn khởi, làm hào hứng; khơi lại
+=to revive one's hopes+ khơi lại mối hy vọng
+- làm sống lại, hồi sinh; phục hồi (phong tục...); đem thi hành lại, ban hành lại (một đạo luật) làm cho trở nên đậm đà, làm cho vui vẻ hơn trước (cuộc nói chuyện...)
+*  nội động từ
+- sống lại, tỉnh lại
+- phấn khởi lại, hào hứng lại
+- khoẻ ra, hồi tỉnh, phục hồi
+=to feel one's hopes reviring+ cảm thấy hy vọng trở lại
+- lại được thịnh hành, lại được ưa thích (mốt...)
+@Chuyên ngành kinh tế
+-hoạt hóa lại
+-tái sinh
+@Chuyên ngành kỹ thuật
+-làm sống lại
+@Lĩnh vực: hóa học & vật liệu
+-hồi sinh

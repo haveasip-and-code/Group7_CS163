@@ -1,3 +1,12 @@
-diffraction
-	@diffraction /di'frækʃn/\n*  danh từ\n- (vật lý) sự nhiễu xạ\n=diffraction of light+ sự nhiễu xạ ánh sáng\n=electron diffraction+ sự nhiễu xạ electron\n=crystal diffraction+ sự nhiễu xạ qua tinh thể\n=X-ray diffraction+ sự nhiễu xạ qua tia X\n@Chuyên ngành kỹ thuật\n-sự nhiễm xạ\n-sự nhiễu xạ\n@Lĩnh vực: vật lý\n-nhiễu xạ
-
+diffraction	@diffraction /di'frækʃn/
+*  danh từ
+- (vật lý) sự nhiễu xạ
+=diffraction of light+ sự nhiễu xạ ánh sáng
+=electron diffraction+ sự nhiễu xạ electron
+=crystal diffraction+ sự nhiễu xạ qua tinh thể
+=X-ray diffraction+ sự nhiễu xạ qua tia X
+@Chuyên ngành kỹ thuật
+-sự nhiễm xạ
+-sự nhiễu xạ
+@Lĩnh vực: vật lý
+-nhiễu xạ

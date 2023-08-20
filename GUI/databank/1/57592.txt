@@ -1,3 +1,9 @@
-treatise
-	@treatise /'tri:tiz/\n*  danh từ\n- luận án, luận thuyết\n=a treatise on mathematics+ bản luận án về toán học\n@Chuyên ngành kỹ thuật\n-luận án\n-luận thuyết\n@Lĩnh vực: toán & tin\n-chuyên luận
-
+treatise	@treatise /'tri:tiz/
+*  danh từ
+- luận án, luận thuyết
+=a treatise on mathematics+ bản luận án về toán học
+@Chuyên ngành kỹ thuật
+-luận án
+-luận thuyết
+@Lĩnh vực: toán & tin
+-chuyên luận

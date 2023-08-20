@@ -1,3 +1,22 @@
-override
-	@override /,ouvə'raid/\n*  ngoại động từ overrode,  overridden\n- cưỡi (ngựa) đến kiệt lực\n- cho quân đội tràn qua (đất địch)\n- cho ngựa giày xéo\n- (nghĩa bóng) giày xéo\n- (nghĩa bóng) gạt ra một bên, không thèm đếm xỉa đến, không chịu nghe theo; có quyền cao hơn, cho là mình có quyền cao hơn\n=to override someone's pleas+ không chịu nghe những lời biện hộ của ai\n=to override one's commission+ lạm quyền của mình\n- (y học) gối lên (xương gãy)\n@Chuyên ngành kinh tế\n-suất lũy tiến/phụ trội\n-vi phạm luật, hợp đồng\n@Chuyên ngành kỹ thuật\n-cưỡi qua\n-ghi đè\n-giành quyền\n-hủy bỏ\n-khống chế được\n-làm mất hiệu lực\n-sự giành được quyền\n-sự xoắn quá
-
+override	@override /,ouvə'raid/
+*  ngoại động từ overrode,  overridden
+- cưỡi (ngựa) đến kiệt lực
+- cho quân đội tràn qua (đất địch)
+- cho ngựa giày xéo
+- (nghĩa bóng) giày xéo
+- (nghĩa bóng) gạt ra một bên, không thèm đếm xỉa đến, không chịu nghe theo; có quyền cao hơn, cho là mình có quyền cao hơn
+=to override someone's pleas+ không chịu nghe những lời biện hộ của ai
+=to override one's commission+ lạm quyền của mình
+- (y học) gối lên (xương gãy)
+@Chuyên ngành kinh tế
+-suất lũy tiến/phụ trội
+-vi phạm luật, hợp đồng
+@Chuyên ngành kỹ thuật
+-cưỡi qua
+-ghi đè
+-giành quyền
+-hủy bỏ
+-khống chế được
+-làm mất hiệu lực
+-sự giành được quyền
+-sự xoắn quá

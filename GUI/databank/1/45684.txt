@@ -1,3 +1,34 @@
-rattle
-	@rattle /rætl/\n*  danh từ\n- cái trống lắc, cái lúc lắc (đồ chơi trẻ con)\n- (động vật học) vòng sừng (ở đuôi của rắn chuông)\n- (thực vật học) cây có hạt nổ tách (khi quả chín)\n- tiếng nổ lốp bốp; tiếng lách cách, tiếng lạch cạch (của cánh cửa, xe bò...); tiếng lộp bộp (mưa...)\n=the rattle of shutters+ tiếng cánh cửa chớp rung lạch cạch\n- tiếng rầm rầm, tiếng huyên náo\n- tiếng nấc hấp hối ((cũng) dealth rattle)\n- chuyện huyên thiên, chuyện ba hoa; người lắm lời, người hay nói huyên thiên\n*  nội động từ\n- kêu lách cách, kêu lạch cạch; rơi lộp bộp (mưa...)\n=the windows rattled+ cửa sổ lắc lạch cạch\n- chạy râm rầm (xe cộ...)\n=the tram rattled through the streets+ xe điện chạy rầm rầm qua phố\n- nói huyên thiên, nói liến láu\n*  ngoại động từ\n- làm kêu lách cách, làm kêu lạch cạch; rung lách cách, khua lạch cạch...\n=the wind rattles the shutters+ gió rung cánh cửa chớp kêu lạch cạch\n- (+ off,  out,  away) đọc liến láu, đọc thẳng một mạch (bài học, bài diễn văn)\n=to rattle off one's lesson+ đọc bài học một mạch\n- vội thông qua (một dự luật...)\n=to rattle a bill through the House+ vội vã đem ra nghị viện thông qua một dự luật\n- (từ lóng) làm hồi hộp, làm bối rối, làm lo sợ, làm lo lắng, làm ngơ ngác...\n=don't get rattled over it+ đừng sợ gì, đừng có việc gì phải cuống lên\n!to rattle up\n- (hàng hải) kéo lên (neo)\n- làm vui lên, làm hăng lên, làm phấn khởi\n!to rattle the sabre\n- (nghĩa bóng) đe doạ gây chiến tranh\n@Chuyên ngành kinh tế\n-đùi bò trước\n@Chuyên ngành kỹ thuật\n-làm sạch (vật đúc)
-
+rattle	@rattle /rætl/
+*  danh từ
+- cái trống lắc, cái lúc lắc (đồ chơi trẻ con)
+- (động vật học) vòng sừng (ở đuôi của rắn chuông)
+- (thực vật học) cây có hạt nổ tách (khi quả chín)
+- tiếng nổ lốp bốp; tiếng lách cách, tiếng lạch cạch (của cánh cửa, xe bò...); tiếng lộp bộp (mưa...)
+=the rattle of shutters+ tiếng cánh cửa chớp rung lạch cạch
+- tiếng rầm rầm, tiếng huyên náo
+- tiếng nấc hấp hối ((cũng) dealth rattle)
+- chuyện huyên thiên, chuyện ba hoa; người lắm lời, người hay nói huyên thiên
+*  nội động từ
+- kêu lách cách, kêu lạch cạch; rơi lộp bộp (mưa...)
+=the windows rattled+ cửa sổ lắc lạch cạch
+- chạy râm rầm (xe cộ...)
+=the tram rattled through the streets+ xe điện chạy rầm rầm qua phố
+- nói huyên thiên, nói liến láu
+*  ngoại động từ
+- làm kêu lách cách, làm kêu lạch cạch; rung lách cách, khua lạch cạch...
+=the wind rattles the shutters+ gió rung cánh cửa chớp kêu lạch cạch
+- (+ off,  out,  away) đọc liến láu, đọc thẳng một mạch (bài học, bài diễn văn)
+=to rattle off one's lesson+ đọc bài học một mạch
+- vội thông qua (một dự luật...)
+=to rattle a bill through the House+ vội vã đem ra nghị viện thông qua một dự luật
+- (từ lóng) làm hồi hộp, làm bối rối, làm lo sợ, làm lo lắng, làm ngơ ngác...
+=don't get rattled over it+ đừng sợ gì, đừng có việc gì phải cuống lên
+!to rattle up
+- (hàng hải) kéo lên (neo)
+- làm vui lên, làm hăng lên, làm phấn khởi
+!to rattle the sabre
+- (nghĩa bóng) đe doạ gây chiến tranh
+@Chuyên ngành kinh tế
+-đùi bò trước
+@Chuyên ngành kỹ thuật
+-làm sạch (vật đúc)

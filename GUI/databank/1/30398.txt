@@ -1,3 +1,13 @@
-jetting
-	@Chuyên ngành kinh tế\n-sự phun\n@Chuyên ngành kỹ thuật\n-sự hạ cọc\n-sự khoan\n-sự phun tia\n-sự xói\n-thủy lực\n@Lĩnh vực: xây dựng\n-kỹ thuật vòi phun\n@Lĩnh vực: cơ khí & công trình\n-sự phun rửa
-
+jetting	
+@Chuyên ngành kinh tế
+-sự phun
+@Chuyên ngành kỹ thuật
+-sự hạ cọc
+-sự khoan
+-sự phun tia
+-sự xói
+-thủy lực
+@Lĩnh vực: xây dựng
+-kỹ thuật vòi phun
+@Lĩnh vực: cơ khí & công trình
+-sự phun rửa

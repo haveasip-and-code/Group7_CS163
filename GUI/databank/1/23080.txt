@@ -1,3 +1,7 @@
-gawk
-	@gawk /gɔ:k/\n*  danh từ\n- người lóng ngóng\n- người nhút nhát rụt rè\n*  nội động từ\n- trố mắt ra nhìn một cách ngớ ngẩn
-
+gawk	
+@gawk /gɔ:k/
+*  danh từ
+- người lóng ngóng
+- người nhút nhát rụt rè
+*  nội động từ
+- trố mắt ra nhìn một cách ngớ ngẩn

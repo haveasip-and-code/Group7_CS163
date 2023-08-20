@@ -1,3 +1,4 @@
-technicals
-	@Chuyên ngành kỹ thuật\n-chi tiết kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sản phẩm kỹ thuật
-
+technicals	@Chuyên ngành kỹ thuật
+-chi tiết kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-sản phẩm kỹ thuật

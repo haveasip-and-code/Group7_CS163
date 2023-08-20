@@ -1,3 +1,2 @@
-uglifier
-	@uglifier\n- xem uglify
-
+uglifier	@uglifier
+- xem uglify

@@ -1,3 +1,10 @@
-prepaid
-	@prepaid /'pri:'pei/\n*  ngoại động từ prepaid\n- trả trước\n- trả trước (bưu phí); dán tem trả trước, cước phí (thư, gói hàng...)\n@Chuyên ngành kinh tế\n-đã trả cước\n-đã trả dứt\n-đã trả trước\n@Chuyên ngành kỹ thuật\n-đã trả trước
-
+prepaid	@prepaid /'pri:'pei/
+*  ngoại động từ prepaid
+- trả trước
+- trả trước (bưu phí); dán tem trả trước, cước phí (thư, gói hàng...)
+@Chuyên ngành kinh tế
+-đã trả cước
+-đã trả dứt
+-đã trả trước
+@Chuyên ngành kỹ thuật
+-đã trả trước

@@ -1,3 +1,30 @@
-stale
-	@stale /steil/\n*  tính từ\n- cũ, để đã lâu; ôi, chớm thối, chớm hỏng (thịt, trứng...)\n=stale bread+ bánh mì cũ\n- cũ rích, nhạt nhẽo (vì nhai đi nhai lại mãi...)\n=stale news+ tin cũ rích\n=stale joke+ câu nói đùa nhạt nhẽo\n- luyện tập quá sức (vận động viên)\n- mụ mẫm (học sinh, vì học nhiều quá)\n- (pháp lý) mất hiệu lực (vì không dùng đến)\n*  ngoại động từ\n- làm cho cũ; để ôi, để chớm thối, để chớm hỏng\n- làm cho rũ rích, làm thành nhạt nhẽo\n- (pháp lý) làm cho mất hiệu lực\n*  nội động từ\n- cũ đi; ôi đi, chớm thổi, chớm hỏng\n- thành cũ rích (tin tức), thành nhạt nhẽo (câu nói đùa)\n- (pháp lý) mất hiệu lực\n*  nội động từ\n- (từ cổ,nghĩa cổ),  (tiếng địa phương) đái (súc vật)\n*  danh từ\n- (từ cổ,nghĩa cổ),  (tiếng địa phương) nước đái (súc vật)\n@Chuyên ngành kinh tế\n-cũ\n-lâu\n-ôi\n-sự chớm thối\n-sự cũ\n-sự đã để lâu\n-sự ôi
-
+stale	@stale /steil/
+*  tính từ
+- cũ, để đã lâu; ôi, chớm thối, chớm hỏng (thịt, trứng...)
+=stale bread+ bánh mì cũ
+- cũ rích, nhạt nhẽo (vì nhai đi nhai lại mãi...)
+=stale news+ tin cũ rích
+=stale joke+ câu nói đùa nhạt nhẽo
+- luyện tập quá sức (vận động viên)
+- mụ mẫm (học sinh, vì học nhiều quá)
+- (pháp lý) mất hiệu lực (vì không dùng đến)
+*  ngoại động từ
+- làm cho cũ; để ôi, để chớm thối, để chớm hỏng
+- làm cho rũ rích, làm thành nhạt nhẽo
+- (pháp lý) làm cho mất hiệu lực
+*  nội động từ
+- cũ đi; ôi đi, chớm thổi, chớm hỏng
+- thành cũ rích (tin tức), thành nhạt nhẽo (câu nói đùa)
+- (pháp lý) mất hiệu lực
+*  nội động từ
+- (từ cổ,nghĩa cổ),  (tiếng địa phương) đái (súc vật)
+*  danh từ
+- (từ cổ,nghĩa cổ),  (tiếng địa phương) nước đái (súc vật)
+@Chuyên ngành kinh tế
+-cũ
+-lâu
+-ôi
+-sự chớm thối
+-sự cũ
+-sự đã để lâu
+-sự ôi

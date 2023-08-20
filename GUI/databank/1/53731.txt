@@ -1,3 +1,4 @@
-strikeout
-	@strikeout\n- gạch bỏ (một dạng phông)\n@Chuyên ngành kỹ thuật\n-gạch bỏ
-
+strikeout	@strikeout
+- gạch bỏ (một dạng phông)
+@Chuyên ngành kỹ thuật
+-gạch bỏ

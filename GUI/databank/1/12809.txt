@@ -1,3 +1,11 @@
-cruciform
-	@cruciform\n* tính từ\n- có hình dạng như chữ thập\n@Chuyên ngành kỹ thuật\n-hình chữ thập\n@Lĩnh vực: toán & tin\n-có hình chữ thập\n@Lĩnh vực: xây dựng\n-dạng thức chữ thập\n-hình thập ác
-
+cruciform	
+@cruciform
+* tính từ
+- có hình dạng như chữ thập
+@Chuyên ngành kỹ thuật
+-hình chữ thập
+@Lĩnh vực: toán & tin
+-có hình chữ thập
+@Lĩnh vực: xây dựng
+-dạng thức chữ thập
+-hình thập ác

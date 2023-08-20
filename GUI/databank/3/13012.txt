@@ -1,3 +1,2 @@
-cultivatable
-	@cultivatable\n- xem cultivate
-
+cultivatable	@cultivatable
+- xem cultivate

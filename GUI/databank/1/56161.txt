@@ -1,3 +1,8 @@
-tetragonal
-	@tetragonal /te'trægənl/\n*  tính từ\n- (toán học) (thuộc) hình bốn cạnh, (thuộc) tứ giác\n- có bốn cạnh\n@Chuyên ngành kỹ thuật\n-tứ giác\n@Lĩnh vực: hóa học & vật liệu\n-bốn góc
-
+tetragonal	@tetragonal /te'trægənl/
+*  tính từ
+- (toán học) (thuộc) hình bốn cạnh, (thuộc) tứ giác
+- có bốn cạnh
+@Chuyên ngành kỹ thuật
+-tứ giác
+@Lĩnh vực: hóa học & vật liệu
+-bốn góc

@@ -1,3 +1,2 @@
-blockader
-	@blockader\n- xem blockade
-
+blockader	@blockader
+- xem blockade

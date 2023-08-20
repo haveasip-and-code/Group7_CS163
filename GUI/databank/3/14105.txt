@@ -1,3 +1,2 @@
-defoliator
-	@defoliator\n- xem defoliate
-
+defoliator	@defoliator
+- xem defoliate

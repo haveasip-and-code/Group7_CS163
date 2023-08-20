@@ -1,3 +1,2 @@
-lowlight
-	@Chuyên ngành kỹ thuật\n-sự phản quang
-
+lowlight	@Chuyên ngành kỹ thuật
+-sự phản quang

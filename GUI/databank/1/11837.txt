@@ -1,3 +1,9 @@
-coprocessor
-	@coprocessor\n- (Tech) bộ đồng xử lý; bộ (vi) xử lý phụ; bộ xử lý liên tiếp\n@Chuyên ngành kỹ thuật\n-bộ đồng xử lý\n@Lĩnh vực: toán & tin\n-bộ đồng xử lí\n@Lĩnh vực: xây dựng\n-xử lí cộng viên
-
+coprocessor	
+@coprocessor
+- (Tech) bộ đồng xử lý; bộ (vi) xử lý phụ; bộ xử lý liên tiếp
+@Chuyên ngành kỹ thuật
+-bộ đồng xử lý
+@Lĩnh vực: toán & tin
+-bộ đồng xử lí
+@Lĩnh vực: xây dựng
+-xử lí cộng viên

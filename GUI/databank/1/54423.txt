@@ -1,3 +1,5 @@
-sulfate
-	@sulfate\n- <hóa> Sunfat, muối của axit xunfuric\n@Chuyên ngành kỹ thuật\n-sunfat\n-sunphat
-
+sulfate	@sulfate
+- <hóa> Sunfat, muối của axit xunfuric
+@Chuyên ngành kỹ thuật
+-sunfat
+-sunphat

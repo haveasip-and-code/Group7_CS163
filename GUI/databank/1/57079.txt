@@ -1,3 +1,2 @@
-torsi
-	@torsi\n- xem torso
-
+torsi	@torsi
+- xem torso

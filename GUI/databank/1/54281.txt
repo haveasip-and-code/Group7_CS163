@@ -1,3 +1,7 @@
-subtype
-	@subtype\n* danh từ\n- kiểu phụ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kiểu con\n-kiểu phụ
-
+subtype	@subtype
+* danh từ
+- kiểu phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kiểu con
+-kiểu phụ

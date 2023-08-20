@@ -1,3 +1,7 @@
-bondholder
-	@bondholder\n* danh từ\n- người giữ phiếu nợ của công ty, người giữ phiếu quốc trái\n@Chuyên ngành kinh tế\n-người nắm giữ trái phiếu\n-người nắm giữ văn tự nợ
-
+bondholder	
+@bondholder
+* danh từ
+- người giữ phiếu nợ của công ty, người giữ phiếu quốc trái
+@Chuyên ngành kinh tế
+-người nắm giữ trái phiếu
+-người nắm giữ văn tự nợ

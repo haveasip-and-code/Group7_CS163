@@ -1,3 +1,8 @@
-subtitle
-	@subtitle /'sʌb,taitl/\n*  danh từ\n- tiểu đề\n- lời thuyết minh (in ở dưới cảnh trong phim)\n@Chuyên ngành kỹ thuật\n-đoạn chú thích\n@Lĩnh vực: toán & tin\n-phụ đề
-
+subtitle	@subtitle /'sʌb,taitl/
+*  danh từ
+- tiểu đề
+- lời thuyết minh (in ở dưới cảnh trong phim)
+@Chuyên ngành kỹ thuật
+-đoạn chú thích
+@Lĩnh vực: toán & tin
+-phụ đề

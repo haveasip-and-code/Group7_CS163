@@ -1,3 +1,2 @@
-commemorator
-	@commemorator\n- xem commemorate
-
+commemorator	@commemorator
+- xem commemorate

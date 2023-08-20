@@ -1,3 +1,42 @@
-operator
-	@operator /'ɔpəreitə/\n*  danh từ\n- người thợ máy; người sử dụng máy móc\n- người coi tổng đài (dây nói)\n- (y học) người mổ\n- (từ Mỹ,nghĩa Mỹ) người buôn bán chứng khoán\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người có tài xoay xở; kẻ phất (trong bọn tài phiệt); người ăn nói giỏi\n- (từ Mỹ,nghĩa Mỹ) người điều khiển (xí nghiệp); người khai thác (mỏ...)\n- (toán học) toán tử\n@Chuyên ngành kinh tế\n-chủ xưởng\n-điện báo viên\n-điện thoại viên\n-giám đốc xí nghiệp\n-người coi tổng đài (điện thoại)\n-người đầu cơ (chứng khoán)\n-người điều hành\n-người điều khiển\n-người kinh doanh đường sắt\n-người môi giới chứng khoán\n-người sử dụng\n-người thợ máy\n-người trực điện thoại\n-nhà khai thác\n-nhân viên thao tác (máy móc)\n@Chuyên ngành kỹ thuật\n-điện thoại viên\n-người điều khiển\n-người quan trắc\n-người thao tác\n-người vận hành\n-nhân viên thao tác\n@Lĩnh vực: hóa học & vật liệu\n-công ty điều hành\n@Lĩnh vực: điện lạnh\n-điện báo viên\n@Lĩnh vực: xây dựng\n-người điều hành\n@Lĩnh vực: điện tử & viễn thông\n-người khai thác mạng\n@Lĩnh vực: cơ khí & công trình\n-tài xế (cơ giới)
-
+operator	@operator /'ɔpəreitə/
+*  danh từ
+- người thợ máy; người sử dụng máy móc
+- người coi tổng đài (dây nói)
+- (y học) người mổ
+- (từ Mỹ,nghĩa Mỹ) người buôn bán chứng khoán
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người có tài xoay xở; kẻ phất (trong bọn tài phiệt); người ăn nói giỏi
+- (từ Mỹ,nghĩa Mỹ) người điều khiển (xí nghiệp); người khai thác (mỏ...)
+- (toán học) toán tử
+@Chuyên ngành kinh tế
+-chủ xưởng
+-điện báo viên
+-điện thoại viên
+-giám đốc xí nghiệp
+-người coi tổng đài (điện thoại)
+-người đầu cơ (chứng khoán)
+-người điều hành
+-người điều khiển
+-người kinh doanh đường sắt
+-người môi giới chứng khoán
+-người sử dụng
+-người thợ máy
+-người trực điện thoại
+-nhà khai thác
+-nhân viên thao tác (máy móc)
+@Chuyên ngành kỹ thuật
+-điện thoại viên
+-người điều khiển
+-người quan trắc
+-người thao tác
+-người vận hành
+-nhân viên thao tác
+@Lĩnh vực: hóa học & vật liệu
+-công ty điều hành
+@Lĩnh vực: điện lạnh
+-điện báo viên
+@Lĩnh vực: xây dựng
+-người điều hành
+@Lĩnh vực: điện tử & viễn thông
+-người khai thác mạng
+@Lĩnh vực: cơ khí & công trình
+-tài xế (cơ giới)

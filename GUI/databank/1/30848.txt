@@ -1,3 +1,2 @@
-kerneled
-	@kerneled\n- xem kernel
-
+kerneled	@kerneled
+- xem kernel

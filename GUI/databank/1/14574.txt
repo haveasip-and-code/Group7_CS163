@@ -1,3 +1,6 @@
-deploy
-	@deploy /di'plɔi/\n*  danh từ\n- (quân sự) sự dàn quân, sự dàn trận, sự triển khai\n*  động từ\n- (quân sự) dàn quân, dàn trận, triển khai
-
+deploy	
+@deploy /di'plɔi/
+*  danh từ
+- (quân sự) sự dàn quân, sự dàn trận, sự triển khai
+*  động từ
+- (quân sự) dàn quân, dàn trận, triển khai

@@ -1,3 +1,15 @@
-lorry
-	@lorry /'lɔri/\n*  danh từ\n- xe tải ((cũng) motor lorry)\n- (ngành đường sắt) toa chở hàng (không có mui)\n*  động từ\n- đi bằng xe tải; vận chuyển bằng xe tải\n@Chuyên ngành kinh tế\n-toa chở hàng\n-xe tải\n@Chuyên ngành kỹ thuật\n-xe moóc\n-xe rùa\n-xe tải\n@Lĩnh vực: ô tô\n-xe tải lớn
-
+lorry	@lorry /'lɔri/
+*  danh từ
+- xe tải ((cũng) motor lorry)
+- (ngành đường sắt) toa chở hàng (không có mui)
+*  động từ
+- đi bằng xe tải; vận chuyển bằng xe tải
+@Chuyên ngành kinh tế
+-toa chở hàng
+-xe tải
+@Chuyên ngành kỹ thuật
+-xe moóc
+-xe rùa
+-xe tải
+@Lĩnh vực: ô tô
+-xe tải lớn

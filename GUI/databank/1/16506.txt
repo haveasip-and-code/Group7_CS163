@@ -1,3 +1,4 @@
-dopa
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dopa (một hợp chất sinh lý)
-
+dopa	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dopa (một hợp chất sinh lý)

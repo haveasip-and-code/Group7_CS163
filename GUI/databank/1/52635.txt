@@ -1,3 +1,27 @@
-sport
-	@sport /spɔ:t/\n*  danh từ\n- thể thao\n=inter-university sports+ cuộc thi thể thao giữa các trường đại học\n=athletic sports+ điền kinh, cuộc thi điền kinh\n- sự giải trí; sự chơi đùa, sự nô đùa; trò đùa, trò cười, trò trớ trêu\n=in sport+ đùa, chơi\n=to make sport of somebody+ trêu ai\n=to be the sport of Fortune+ là trò trớ trêu của số mệnh, bị số mệnh trớ trêu\n- cuộc giải trí, cuộc vui chơi ngoài trời (đi săn, đi câu...)\n- (từ lóng) người tốt, người có tinh thần tượng võ, người thẳng thắn, người trung thực, người có dũng khí\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) con bạc\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) anh chàng ăn diện, công tử bột\n- (sinh vật học) biến dị\n*  nội động từ\n- giải trí; chơi đùa, nô đùa, đùa cợt; trêu chòng\n- (sinh vật học) biến dị\n*  ngoại động từ\n- chưng, diện\n=to sport a gold tie-clip+ chưng cái kẹp ca vát bằng vàng\n!to sport away\n- tiêu phí (thời gian...) bằng nô đùa, chơi thể thao...\n!to sport one's oak\n- (xem) oak\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự biến dị, đột biến chồi
-
+sport	@sport /spɔ:t/
+*  danh từ
+- thể thao
+=inter-university sports+ cuộc thi thể thao giữa các trường đại học
+=athletic sports+ điền kinh, cuộc thi điền kinh
+- sự giải trí; sự chơi đùa, sự nô đùa; trò đùa, trò cười, trò trớ trêu
+=in sport+ đùa, chơi
+=to make sport of somebody+ trêu ai
+=to be the sport of Fortune+ là trò trớ trêu của số mệnh, bị số mệnh trớ trêu
+- cuộc giải trí, cuộc vui chơi ngoài trời (đi săn, đi câu...)
+- (từ lóng) người tốt, người có tinh thần tượng võ, người thẳng thắn, người trung thực, người có dũng khí
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) con bạc
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) anh chàng ăn diện, công tử bột
+- (sinh vật học) biến dị
+*  nội động từ
+- giải trí; chơi đùa, nô đùa, đùa cợt; trêu chòng
+- (sinh vật học) biến dị
+*  ngoại động từ
+- chưng, diện
+=to sport a gold tie-clip+ chưng cái kẹp ca vát bằng vàng
+!to sport away
+- tiêu phí (thời gian...) bằng nô đùa, chơi thể thao...
+!to sport one's oak
+- (xem) oak
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự biến dị, đột biến chồi

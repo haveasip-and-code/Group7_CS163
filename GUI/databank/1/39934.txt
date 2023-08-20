@@ -1,3 +1,4 @@
-pastilles
-	@Chuyên ngành kinh tế\n-kẹo cao su\n-kẹo dẻo bạc hà\n-kẹo mềm viên nhỏ
-
+pastilles	@Chuyên ngành kinh tế
+-kẹo cao su
+-kẹo dẻo bạc hà
+-kẹo mềm viên nhỏ

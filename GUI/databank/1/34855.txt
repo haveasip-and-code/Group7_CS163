@@ -1,3 +1,5 @@
-milepost
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cột dặm\n@Lĩnh vực: giao thông & vận tải\n-cột lý trình
-
+milepost	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cột dặm
+@Lĩnh vực: giao thông & vận tải
+-cột lý trình

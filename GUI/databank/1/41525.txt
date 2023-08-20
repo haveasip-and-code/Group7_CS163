@@ -1,3 +1,41 @@
-pig
-	@pig /pig/\n*  danh từ\n- lợn heo\n- thịt lợn; thịt lợn sữa\n=roast pig+ thịt lợn quay\n- (thông tục) người phàm ăn; người bẩn thỉu; người khó chịu; người thô tục; người quạu cọ\n- thoi kim loại (chủ yếu là gang)\n- khoanh cam\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cảnh sát; mật thám, chỉ điểm, cớm\n!to buy a pig in a poke\n- mua vật gì mà không được trông thấy (biết) rõ, mua trâu vẽ bóng\n!to bring one's pigs to a fine (a pretty the wrong) market\n- làm ăn thất bại\n!to make a pig of oneself\n- ăn phàm, ăn tham, ăn uống thô tục như lợn\n!pigs might fly\n- biết đâu lại chẳng có chuyện thần kỳ xảy ra\n!please the pigs\n-(đùa cợt) lạy trời!, lạy chúa tôi!\n*  ngoại động từ\n- đẻ (lợn)\n*  nội động từ\n- đẻ con (lợn)\n- ở bẩn lúc nhúc như lợn\n!to pig it\n- ở bẩn lúc nhúc như lợn\n@Chuyên ngành kinh tế\n-lợn\n-thịt lợn sữa\n@Chuyên ngành kỹ thuật\n-dao nạo\n-đậu ngót ngầm\n-gang\n-gang thỏi\n-mẫu hình con vật\n-máy cạo\n-vật đưa xuống\n@Lĩnh vực: hóa học & vật liệu\n-dụng cụ nạo (đường ống)\n@Lĩnh vực: xây dựng\n-thỏi (kim loại)
-
+pig	@pig /pig/
+*  danh từ
+- lợn heo
+- thịt lợn; thịt lợn sữa
+=roast pig+ thịt lợn quay
+- (thông tục) người phàm ăn; người bẩn thỉu; người khó chịu; người thô tục; người quạu cọ
+- thoi kim loại (chủ yếu là gang)
+- khoanh cam
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cảnh sát; mật thám, chỉ điểm, cớm
+!to buy a pig in a poke
+- mua vật gì mà không được trông thấy (biết) rõ, mua trâu vẽ bóng
+!to bring one's pigs to a fine (a pretty the wrong) market
+- làm ăn thất bại
+!to make a pig of oneself
+- ăn phàm, ăn tham, ăn uống thô tục như lợn
+!pigs might fly
+- biết đâu lại chẳng có chuyện thần kỳ xảy ra
+!please the pigs
+-(đùa cợt) lạy trời!, lạy chúa tôi!
+*  ngoại động từ
+- đẻ (lợn)
+*  nội động từ
+- đẻ con (lợn)
+- ở bẩn lúc nhúc như lợn
+!to pig it
+- ở bẩn lúc nhúc như lợn
+@Chuyên ngành kinh tế
+-lợn
+-thịt lợn sữa
+@Chuyên ngành kỹ thuật
+-dao nạo
+-đậu ngót ngầm
+-gang
+-gang thỏi
+-mẫu hình con vật
+-máy cạo
+-vật đưa xuống
+@Lĩnh vực: hóa học & vật liệu
+-dụng cụ nạo (đường ống)
+@Lĩnh vực: xây dựng
+-thỏi (kim loại)

@@ -1,3 +1,4 @@
-rulable
-	@rulable\n* tính từ\n- có thể cai quản, có thể chi phối\n- thuận theo qui tắc
-
+rulable	@rulable
+* tính từ
+- có thể cai quản, có thể chi phối
+- thuận theo qui tắc

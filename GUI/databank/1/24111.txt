@@ -1,3 +1,9 @@
-graphics
-	@graphics\n- (Tech) môn đồ họa, môn đồ hình; thiết bị dồ họa/hình\n@Chuyên ngành kinh tế\n-đồ họa\n@Chuyên ngành kỹ thuật\n-đồ họa\n@Lĩnh vực: xây dựng\n-tranh đồ họa
-
+graphics	
+@graphics
+- (Tech) môn đồ họa, môn đồ hình; thiết bị dồ họa/hình
+@Chuyên ngành kinh tế
+-đồ họa
+@Chuyên ngành kỹ thuật
+-đồ họa
+@Lĩnh vực: xây dựng
+-tranh đồ họa

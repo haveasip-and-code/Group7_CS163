@@ -1,3 +1,16 @@
-directive
-	@directive /di'rektiv/\n*  tính từ\n- chỉ huy, chi phối; chỉ dẫn, hướng dẫn\n*  danh từ\n- chỉ thị, lời hướng dẫn\n@Chuyên ngành kinh tế\n-chỉ lệnh\n-chỉ thị\n@Chuyên ngành kỹ thuật\n-có hướng\n-điều khiển\n-định hướng\n-lệnh\n@Lĩnh vực: toán & tin\n-lệnh dẫn hướng
-
+directive	
+@directive /di'rektiv/
+*  tính từ
+- chỉ huy, chi phối; chỉ dẫn, hướng dẫn
+*  danh từ
+- chỉ thị, lời hướng dẫn
+@Chuyên ngành kinh tế
+-chỉ lệnh
+-chỉ thị
+@Chuyên ngành kỹ thuật
+-có hướng
+-điều khiển
+-định hướng
+-lệnh
+@Lĩnh vực: toán & tin
+-lệnh dẫn hướng

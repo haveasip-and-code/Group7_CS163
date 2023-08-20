@@ -1,3 +1,37 @@
-mechanism
-	@mechanism /'mekənizm/\n*  danh từ\n- máy móc, cơ cấu, cơ chế ((nghĩa đen) & (nghĩa bóng))\n=the mechanism of government+ cơ cấu chính quyền\n- kỹ thuật, kỹ xảo\n=the mechanism of a pianist+ kỹ xảo của một người chơi pianô\n- (triết học) thuyết cơ giới\n@Chuyên ngành kinh tế\n-cơ cấu\n-cơ chế\n-cơ chế (điều tiết) tiền tệ\n-cơ giới\n-kết cấu\n-kỹ xảo\n-máy móc\n-thủ pháp\n@Chuyên ngành kỹ thuật\n-bộ dẫn động\n-bộ phận\n-cấu tạo\n-cấu truyền động\n-chi tiết\n-cơ giới\n-cơ quan\n-dụng cụ\n-hộp chạy dao\n-hộp số\n-máy\n-máy móc\n@Lĩnh vực: vật lý\n-chế\n@Lĩnh vực: y học\n-máy móc, cơ chế\n-thuyết cơ giới\n@Lĩnh vực: toán & tin\n-thiết bị hàm\n-thiết bị máy
-
+mechanism	@mechanism /'mekənizm/
+*  danh từ
+- máy móc, cơ cấu, cơ chế ((nghĩa đen) & (nghĩa bóng))
+=the mechanism of government+ cơ cấu chính quyền
+- kỹ thuật, kỹ xảo
+=the mechanism of a pianist+ kỹ xảo của một người chơi pianô
+- (triết học) thuyết cơ giới
+@Chuyên ngành kinh tế
+-cơ cấu
+-cơ chế
+-cơ chế (điều tiết) tiền tệ
+-cơ giới
+-kết cấu
+-kỹ xảo
+-máy móc
+-thủ pháp
+@Chuyên ngành kỹ thuật
+-bộ dẫn động
+-bộ phận
+-cấu tạo
+-cấu truyền động
+-chi tiết
+-cơ giới
+-cơ quan
+-dụng cụ
+-hộp chạy dao
+-hộp số
+-máy
+-máy móc
+@Lĩnh vực: vật lý
+-chế
+@Lĩnh vực: y học
+-máy móc, cơ chế
+-thuyết cơ giới
+@Lĩnh vực: toán & tin
+-thiết bị hàm
+-thiết bị máy

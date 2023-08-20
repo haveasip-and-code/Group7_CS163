@@ -1,3 +1,5 @@
-beads
-	@Chuyên ngành kỹ thuật\n-hạt kim loại\n@Lĩnh vực: điện tử & viễn thông\n-vòng hạt
-
+beads	
+@Chuyên ngành kỹ thuật
+-hạt kim loại
+@Lĩnh vực: điện tử & viễn thông
+-vòng hạt

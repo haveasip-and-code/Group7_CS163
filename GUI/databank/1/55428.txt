@@ -1,3 +1,2 @@
-tailer
-	@Chuyên ngành kinh tế\n-người mua cổ phiếu theo đuôi
-
+tailer	@Chuyên ngành kinh tế
+-người mua cổ phiếu theo đuôi

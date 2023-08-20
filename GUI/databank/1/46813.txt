@@ -1,3 +1,2 @@
-repairability
-	@Chuyên ngành kỹ thuật\n-khả năng sửa chữa
-
+repairability	@Chuyên ngành kỹ thuật
+-khả năng sửa chữa

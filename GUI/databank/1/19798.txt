@@ -1,3 +1,30 @@
-expand
-	@expand /iks'pænd/\n*  động từ\n- mở rộng, trải ra\n- nở ra, phồng ra, giãn\n- (toán học) khai triển\n- phát triển (một vấn đề...)\n- trở nên cởi mở\n@Chuyên ngành kỹ thuật\n-giãn\n-giãn ra\n-khai triển\n-nở\n-mở rộng\n-phát triển\n-phình ra\n-trương\n@Lĩnh vực: xây dựng\n-trương phình\n@Chuyên ngành kỹ thuật\n-giãn\n-giãn ra\n-khai triển\n-nở\n-mở rộng\n-phát triển\n-phình ra\n-trương\n@Lĩnh vực: xây dựng\n-trương phình
-
+expand	
+@expand /iks'pænd/
+*  động từ
+- mở rộng, trải ra
+- nở ra, phồng ra, giãn
+- (toán học) khai triển
+- phát triển (một vấn đề...)
+- trở nên cởi mở
+@Chuyên ngành kỹ thuật
+-giãn
+-giãn ra
+-khai triển
+-nở
+-mở rộng
+-phát triển
+-phình ra
+-trương
+@Lĩnh vực: xây dựng
+-trương phình
+@Chuyên ngành kỹ thuật
+-giãn
+-giãn ra
+-khai triển
+-nở
+-mở rộng
+-phát triển
+-phình ra
+-trương
+@Lĩnh vực: xây dựng
+-trương phình

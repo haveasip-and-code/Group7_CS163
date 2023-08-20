@@ -1,3 +1,7 @@
-holotype
-	@holotype\n* danh từ\n- (sinh học) mẫu gốc,  holotip\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toàn kiểu
-
+holotype	
+@holotype
+* danh từ
+- (sinh học) mẫu gốc,  holotip
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-toàn kiểu

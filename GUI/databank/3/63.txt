@@ -1,3 +1,24 @@
-aberration
-	@aberration /æ'be'reiʃn/\n*  danh từ\n- sự lầm lạc; phút lầm lạc\n- sự kém trí khôn, sự loạn trí\n- sự khác thường\n- (vật lý) quang sai\n=lateral aberration+ quang sai ngang\n- (thiên văn học) tính sai\n=secular aberration+ tính sai trường kỳ\n=annual aberration+ tính sai hằng năm\n@Chuyên ngành kỹ thuật\n-độ lệch\n-sắc sai\n-sự biến hình\n-sự sai lệch\n-tinh sai\n@Lĩnh vực: y học\n-quang sai\n-sự sai hình\n-sự sai trệch\n@Lĩnh vực: xây dựng\n-sự méo hình\n@Lĩnh vực: điện tử & viễn thông\n-sự quang sai
-
+aberration	@aberration /æ'be'reiʃn/
+*  danh từ
+- sự lầm lạc; phút lầm lạc
+- sự kém trí khôn, sự loạn trí
+- sự khác thường
+- (vật lý) quang sai
+=lateral aberration+ quang sai ngang
+- (thiên văn học) tính sai
+=secular aberration+ tính sai trường kỳ
+=annual aberration+ tính sai hằng năm
+@Chuyên ngành kỹ thuật
+-độ lệch
+-sắc sai
+-sự biến hình
+-sự sai lệch
+-tinh sai
+@Lĩnh vực: y học
+-quang sai
+-sự sai hình
+-sự sai trệch
+@Lĩnh vực: xây dựng
+-sự méo hình
+@Lĩnh vực: điện tử & viễn thông
+-sự quang sai

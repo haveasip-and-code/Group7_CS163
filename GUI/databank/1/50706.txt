@@ -1,3 +1,4 @@
-silencing
-	@Chuyên ngành kỹ thuật\n-tiêu âm\n@Lĩnh vực: cơ khí & công trình\n-sự triệt âm
-
+silencing	@Chuyên ngành kỹ thuật
+-tiêu âm
+@Lĩnh vực: cơ khí & công trình
+-sự triệt âm

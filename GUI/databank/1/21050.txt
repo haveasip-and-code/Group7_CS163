@@ -1,3 +1,4 @@
-filtrable
-	@filtrable\n* tính từ\n- có thể lọc được
-
+filtrable	
+@filtrable
+* tính từ
+- có thể lọc được

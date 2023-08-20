@@ -1,3 +1,32 @@
-compression
-	@compression /kəm'preʃn/\n*  danh từ\n- sự ép, sự nén\n- (nghĩa bóng) sự cô lại, sự cô đọng; sự giảm bớt\n=compression of ideas+ sự cô đọng ý\n=the compression of expenses+ sự giảm bớt các khoản chi tiêu\n- (kỹ thuật) sự độn, sự lèn, sự đầm\n@Chuyên ngành kinh tế\n-mức độ ép\n-sự ép\n-sự nén\n@Chuyên ngành kỹ thuật\n-lực nén\n-nén\n-quá trình nén\n-sự biến dạng nén\n-sự ép\n-sự ép chặt\n-sự lèn chặt\n-sự nén\n-sức nén\n@Lĩnh vực: xây dựng\n-cấu kiện chịu nén\n@Lĩnh vực: cơ khí & công trình\n-sự cô (đặc)\n-sự nén ép\n-xéc măng khí\n@Lĩnh vực: điện\n-sự nén (âm lượng)\n@Lĩnh vực: toán & tin\n-tóp sự co
-
+compression	
+@compression /kəm'preʃn/
+*  danh từ
+- sự ép, sự nén
+- (nghĩa bóng) sự cô lại, sự cô đọng; sự giảm bớt=compression of ideas
++ sự cô đọng ý=the compression of expenses
++ sự giảm bớt các khoản chi tiêu
+- (kỹ thuật) sự độn, sự lèn, sự đầm
+@Chuyên ngành kinh tế
+-mức độ ép
+-sự ép
+-sự nén
+@Chuyên ngành kỹ thuật
+-lực nén
+-nén
+-quá trình nén
+-sự biến dạng nén
+-sự ép
+-sự ép chặt
+-sự lèn chặt
+-sự nén
+-sức nén
+@Lĩnh vực: xây dựng
+-cấu kiện chịu nén
+@Lĩnh vực: cơ khí & công trình
+-sự cô (đặc)
+-sự nén ép
+-xéc măng khí
+@Lĩnh vực: điện
+-sự nén (âm lượng)
+@Lĩnh vực: toán & tin
+-tóp sự co

@@ -1,3 +1,11 @@
-vacate
-	@vacate /və'keit/\n*  ngoại động từ\n- bỏ trống, bỏ không\n=to vacate one's seat+ bỏ nghề trống\n=to vacate a house+ rời bỏ một ngôi nhà\n- bỏ, thôi, xin thôi\n=to vacate office+ từ chức, xin thôi việc\n- (pháp lý) huỷ bỏ (hợp đồng...)\n@Chuyên ngành kỹ thuật\n-bỏ không\n-bỏ trống
-
+vacate	@vacate /və'keit/
+*  ngoại động từ
+- bỏ trống, bỏ không
+=to vacate one's seat+ bỏ nghề trống
+=to vacate a house+ rời bỏ một ngôi nhà
+- bỏ, thôi, xin thôi
+=to vacate office+ từ chức, xin thôi việc
+- (pháp lý) huỷ bỏ (hợp đồng...)
+@Chuyên ngành kỹ thuật
+-bỏ không
+-bỏ trống

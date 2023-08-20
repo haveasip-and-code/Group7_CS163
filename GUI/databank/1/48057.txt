@@ -1,3 +1,11 @@
-roughing
-	@roughing\n* danh từ\n- sự gia công\n@Chuyên ngành kỹ thuật\n-sự cán thô\n-sự gia công sơ bộ\n-sự gia công thô\n-sự tách thô\n-sự tuyển nổi chính\n-sự tuyển nổi thô\n-sự tuyển sơ bộ
-
+roughing	@roughing
+* danh từ
+- sự gia công
+@Chuyên ngành kỹ thuật
+-sự cán thô
+-sự gia công sơ bộ
+-sự gia công thô
+-sự tách thô
+-sự tuyển nổi chính
+-sự tuyển nổi thô
+-sự tuyển sơ bộ

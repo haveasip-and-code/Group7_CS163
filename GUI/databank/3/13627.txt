@@ -1,3 +1,13 @@
-deadhead
-	@deadhead /'dedhed/\n*  danh từ\n- người đi xem hát không phải trả tiền; người đi tàu không phải trả tiền\n@Chuyên ngành kinh tế\n-bay không\n-hành khách miễn phí\n-sự chạy\n@Chuyên ngành kỹ thuật\n-ụ định tâm\n-ụ đỡ\n-ụ sau\n@Lĩnh vực: giao thông & vận tải\n-xe chạy không
-
+deadhead	@deadhead /'dedhed/
+*  danh từ
+- người đi xem hát không phải trả tiền; người đi tàu không phải trả tiền
+@Chuyên ngành kinh tế
+-bay không
+-hành khách miễn phí
+-sự chạy
+@Chuyên ngành kỹ thuật
+-ụ định tâm
+-ụ đỡ
+-ụ sau
+@Lĩnh vực: giao thông & vận tải
+-xe chạy không

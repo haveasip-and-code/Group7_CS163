@@ -1,3 +1,6 @@
-prophet
-	@prophet /prophet/\n*  danh từ\n- nhà tiên tri; người đoán trước\n- người chủ trương, người đề xướng (một nguyên lý, một chủ nghĩa)\n- (tôn giáo) giáo đồ\n- (từ lóng) người mách nước (đánh cá ngựa)
-
+prophet	@prophet /prophet/
+*  danh từ
+- nhà tiên tri; người đoán trước
+- người chủ trương, người đề xướng (một nguyên lý, một chủ nghĩa)
+- (tôn giáo) giáo đồ
+- (từ lóng) người mách nước (đánh cá ngựa)

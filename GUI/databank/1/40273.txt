@@ -1,3 +1,23 @@
-peer
-	@peer /piə/\n*  danh từ\n- người cùng địa vị xã hội, người ngang hàng, người tương đương\n=you will not easily his peers+ anh khó mà tìm được người như anh ấy\n- khanh tướng (Anh), người quý tộc; huân tước\n- thượng nghị sĩ (Anh)\n=House of Peers+ thượng nghị viện Anh\n*  ngoại động từ\n- bằng (ai), ngang hàng với (ai)\n- phong chức khanh tướng cho (ai)\n*  nội động từ\n- (+ with) ngang hàng (với ai)\n*  nội động từ\n- ((thường) + at,  into,  through...) nhìn chăm chú, nhìn kỹ, nhòm, ngó\n- hé ra, nhú ra, ló ra (mặt trời, hoa...)\n@Chuyên ngành kỹ thuật\n-ngang hàng\n-sự tương đương\n@Lĩnh vực: toán & tin\n-sự bình đẳng\n-sự ngang hàng\n-thiết bị cùng mức\n-thiết bị ngang hàng
-
+peer	@peer /piə/
+*  danh từ
+- người cùng địa vị xã hội, người ngang hàng, người tương đương
+=you will not easily his peers+ anh khó mà tìm được người như anh ấy
+- khanh tướng (Anh), người quý tộc; huân tước
+- thượng nghị sĩ (Anh)
+=House of Peers+ thượng nghị viện Anh
+*  ngoại động từ
+- bằng (ai), ngang hàng với (ai)
+- phong chức khanh tướng cho (ai)
+*  nội động từ
+- (+ with) ngang hàng (với ai)
+*  nội động từ
+- ((thường) + at,  into,  through...) nhìn chăm chú, nhìn kỹ, nhòm, ngó
+- hé ra, nhú ra, ló ra (mặt trời, hoa...)
+@Chuyên ngành kỹ thuật
+-ngang hàng
+-sự tương đương
+@Lĩnh vực: toán & tin
+-sự bình đẳng
+-sự ngang hàng
+-thiết bị cùng mức
+-thiết bị ngang hàng

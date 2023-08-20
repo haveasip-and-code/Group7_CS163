@@ -1,3 +1,9 @@
-mainmast
-	@mainmast /'meinmɑ:st/\n*  danh từ\n- (hàng hải) cột buồm chính\n@Chuyên ngành kinh tế\n-cột buồm chính\n-cột buồm giữa\n-cột buồn giữa\n@Chuyên ngành kỹ thuật\n-cột buồm chính
-
+mainmast	@mainmast /'meinmɑ:st/
+*  danh từ
+- (hàng hải) cột buồm chính
+@Chuyên ngành kinh tế
+-cột buồm chính
+-cột buồm giữa
+-cột buồn giữa
+@Chuyên ngành kỹ thuật
+-cột buồm chính

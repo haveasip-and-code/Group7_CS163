@@ -1,3 +1,25 @@
-component
-	@component /kəm'pounənt/\n*  tính từ\n- hợp thành, cấu thành\n=component parts+ những bộ phân cấu thành\n*  danh từ\n- thành phần, phần hợp thành\n@Chuyên ngành kinh tế\n-bộ phận hợp thành\n-thành phần\n-yếu tố\n@Chuyên ngành kỹ thuật\n-bộ phận\n-bộ phận cấu thành\n-cấu tạo\n-hợp phần\n-linh kiện\n-phần tử\n-phần tử mạch\n-thành phần\n-thấu kính\n@Lĩnh vực: xây dựng\n-bộ phận (máy)\n@Lĩnh vực: y học\n-hệ nơron
-
+component	
+@component /kəm'pounənt/
+*  tính từ
+- hợp thành, cấu thành=component parts
++ những bộ phân cấu thành
+*  danh từ
+- thành phần, phần hợp thành
+@Chuyên ngành kinh tế
+-bộ phận hợp thành
+-thành phần
+-yếu tố
+@Chuyên ngành kỹ thuật
+-bộ phận
+-bộ phận cấu thành
+-cấu tạo
+-hợp phần
+-linh kiện
+-phần tử
+-phần tử mạch
+-thành phần
+-thấu kính
+@Lĩnh vực: xây dựng
+-bộ phận (máy)
+@Lĩnh vực: y học
+-hệ nơron

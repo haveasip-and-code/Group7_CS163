@@ -1,3 +1,23 @@
-plugging
-	@plugging\n* danh từ\n- sự nút, sự bịt kín\n@Chuyên ngành kỹ thuật\n-hãm tái sinh\n-sự bit kín\n-sự bít kín\n-sự đệm\n-sự mạng\n-sự nút kín\n-sự trám\n-sự vá\n@Lĩnh vực: điện lạnh\n-hãm đảo pha\n-hãm đấu ngược\n@Lĩnh vực: dệt may\n-nút cách âm\n-mặt phân cách âm\n@Lĩnh vực: hóa học & vật liệu\n-sự đặt cầu khoan\n@Lĩnh vực: xây dựng\n-sự nút\n-sự phun vữa ximăng
-
+plugging	@plugging
+* danh từ
+- sự nút, sự bịt kín
+@Chuyên ngành kỹ thuật
+-hãm tái sinh
+-sự bit kín
+-sự bít kín
+-sự đệm
+-sự mạng
+-sự nút kín
+-sự trám
+-sự vá
+@Lĩnh vực: điện lạnh
+-hãm đảo pha
+-hãm đấu ngược
+@Lĩnh vực: dệt may
+-nút cách âm
+-mặt phân cách âm
+@Lĩnh vực: hóa học & vật liệu
+-sự đặt cầu khoan
+@Lĩnh vực: xây dựng
+-sự nút
+-sự phun vữa ximăng

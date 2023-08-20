@@ -1,3 +1,5 @@
-sieving
-	@Chuyên ngành kỹ thuật\n-sự đo cỡ hạt\n-sự rây\n-sự sàng\n-sự sàng lọc
-
+sieving	@Chuyên ngành kỹ thuật
+-sự đo cỡ hạt
+-sự rây
+-sự sàng
+-sự sàng lọc

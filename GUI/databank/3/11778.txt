@@ -1,3 +1,43 @@
-cool
-	@cool /ku:l/\n*  tính từ\n- mát mẻ, mát; hơi lạnh, nguội\n=it's getting cool+ trời trở mát\n=to leave one's soup to get cool+ để xúp nguội bớt\n- trầm tĩnh, điềm tĩnh, bình tĩnh\n=to keep cool; to keep a cool head+ giữ bình tĩnh, điềm tĩnh\n- lãn đạm, nhạt nhẽo, thờ ơ, không sốt sắng, không nhiệt tình, không mặn mà, không đằm thắm\n=to be cool toward someone+ lãnh đạm với ai\n=to give someone a cool reception+ tiếp đãi ai nhạt nhẽo\n- trơ tráo, mặt dạn mày dày, không biết xấu hổ, không biết ngượng\n=I call that cool!+ tớ cho thế là mặt dạn mày dày\n=a cool hand (card, customer, fish)+ thằng cha trơ tráo, thằng cha không biết xấu hổ\n- (thông tục) tròn, gọn (một số tiền)\n=it cost me a cool thousand+ tớ phải giả đứt đi tròn một nghìn đồng\n!as cool as a cucumber\n- bình tĩnh, không hề nao núng\n*  danh từ\n- khí mát\n=the cool of the evening+ khí mát buổi chiều\n- chỗ mát mẻ\n*  động từ\n- làm mát, làm nguội, trở mát, nguội đi\n- làm mát, làm giảm (nhiệt tình...); nguôi đi\n=to cool one's anger+ nguôi giận\n=to cool one's enthusian+ giảm nhiệt tình\n!to cool down\n- nguôi đi, bình tĩnh lại\n!to cool off\n- nguội lạnh đi, giảm đi (nhiệt tình)\n!to cool one's heels\n- (xem) heel\n@Chuyên ngành kinh tế\n-làm lạnh\n-làm nguội\n@Chuyên ngành kỹ thuật\n-làm lạnh\n-làm mát\n-làm nguội\n-làm nguội lại\n-lạnh\n-nguội\n-mát
-
+cool	@cool /ku:l/
+*  tính từ
+- mát mẻ, mát; hơi lạnh, nguội
+=it's getting cool+ trời trở mát
+=to leave one's soup to get cool+ để xúp nguội bớt
+- trầm tĩnh, điềm tĩnh, bình tĩnh
+=to keep cool; to keep a cool head+ giữ bình tĩnh, điềm tĩnh
+- lãn đạm, nhạt nhẽo, thờ ơ, không sốt sắng, không nhiệt tình, không mặn mà, không đằm thắm
+=to be cool toward someone+ lãnh đạm với ai
+=to give someone a cool reception+ tiếp đãi ai nhạt nhẽo
+- trơ tráo, mặt dạn mày dày, không biết xấu hổ, không biết ngượng
+=I call that cool!+ tớ cho thế là mặt dạn mày dày
+=a cool hand (card, customer, fish)+ thằng cha trơ tráo, thằng cha không biết xấu hổ
+- (thông tục) tròn, gọn (một số tiền)
+=it cost me a cool thousand+ tớ phải giả đứt đi tròn một nghìn đồng
+!as cool as a cucumber
+- bình tĩnh, không hề nao núng
+*  danh từ
+- khí mát
+=the cool of the evening+ khí mát buổi chiều
+- chỗ mát mẻ
+*  động từ
+- làm mát, làm nguội, trở mát, nguội đi
+- làm mát, làm giảm (nhiệt tình...); nguôi đi
+=to cool one's anger+ nguôi giận
+=to cool one's enthusian+ giảm nhiệt tình
+!to cool down
+- nguôi đi, bình tĩnh lại
+!to cool off
+- nguội lạnh đi, giảm đi (nhiệt tình)
+!to cool one's heels
+- (xem) heel
+@Chuyên ngành kinh tế
+-làm lạnh
+-làm nguội
+@Chuyên ngành kỹ thuật
+-làm lạnh
+-làm mát
+-làm nguội
+-làm nguội lại
+-lạnh
+-nguội
+-mát

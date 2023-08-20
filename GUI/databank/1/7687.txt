@@ -1,3 +1,5 @@
-cancan
-	@cancan /'kænkæn/\n*  danh từ\n- điệu nhảy căng-căng
-
+cancan	
+@cancan /'kænkæn/
+*  danh từ
+- điệu nhảy căng
+-căng

@@ -1,3 +1,10 @@
-appurtenances
-	@Chuyên ngành kinh tế\n-đồ phụ tùng\n-thiết bị và phụ tùng\n@Chuyên ngành kỹ thuật\n-đồ phụ tùng\n-phụ kiện\n-phụ tùng\n@Lĩnh vực: xây dựng\n-các chi tiết phụ
-
+appurtenances	
+@Chuyên ngành kinh tế
+-đồ phụ tùng
+-thiết bị và phụ tùng
+@Chuyên ngành kỹ thuật
+-đồ phụ tùng
+-phụ kiện
+-phụ tùng
+@Lĩnh vực: xây dựng
+-các chi tiết phụ

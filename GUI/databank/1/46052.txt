@@ -1,3 +1,6 @@
-recount
-	@recount /'ri'kaunt/\n*  ngoại động từ\n- thuật kỹ lại, kể lại chi tiết\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kiểm lại
-
+recount	@recount /'ri'kaunt/
+*  ngoại động từ
+- thuật kỹ lại, kể lại chi tiết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-kiểm lại

@@ -1,3 +1,12 @@
-crouch
-	@crouch /kautʃ/\n*  danh từ\n- sự né, sự núp, sự cúi mình (để tránh đòn)\n- sự luồn cúi\n*  nội động từ\n- thu mình lấy đà (để nhảy)\n- né, núp, cúi mình (để tránh đòn)\n- luồn cúi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thu hình
-
+crouch	
+@crouch /kautʃ/
+*  danh từ
+- sự né, sự núp, sự cúi mình (để tránh đòn)
+- sự luồn cúi
+*  nội động từ
+- thu mình lấy đà (để nhảy)
+- né, núp, cúi mình (để tránh đòn)
+- luồn cúi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thu hình

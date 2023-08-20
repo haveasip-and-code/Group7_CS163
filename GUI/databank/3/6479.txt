@@ -1,3 +1,8 @@
-bourse
-	@bourse /buəs/\n*  danh từ\n- thị trường chứng khoán Pa-ri; thị trường chứng khoán\n@Chuyên ngành kinh tế\n-Sở giao dịch chứng khoán (châu Âu)\n@Chuyên ngành kinh tế\n-sở giao dịch chứng khoán\n-sở giao dịch hàng hóa
-
+bourse	@bourse /buəs/
+*  danh từ
+- thị trường chứng khoán Pa-ri; thị trường chứng khoán
+@Chuyên ngành kinh tế
+-Sở giao dịch chứng khoán (châu Âu)
+@Chuyên ngành kinh tế
+-sở giao dịch chứng khoán
+-sở giao dịch hàng hóa

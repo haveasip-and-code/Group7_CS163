@@ -1,3 +1,18 @@
-drug
-	@drug /drʌg/\n*  danh từ\n- thuốc, dược phẩm\n- thuốc ngủ, thuốc tê mê, ma tuý\n- hàng ế thừa ((cũng) drug in (on) the market)\n*  ngoại động từ\n- pha thuốc ngủ vào, pha thuốc tê mê vào; pha thuốc độc vào (đồ uống...)\n- cho uống thuốc; cho uống thuốc; ngủ, đánh thuốc tê mê, cho hít chất ma tuý; cho uống thuốc độc\n- kích thích (ngựa thi) bằng thuốc\n*  nội động từ\n- uống thuốc ngủ, hít thuốc tê mê, nghiện thuốc ngủ, nghiện thuốc tê mê, nghiện ma tuý\n- chán mứa ra\n@Chuyên ngành kỹ thuật\n-dược phẩm\n@Lĩnh vực: y học\n-chất ma túy\n-thuốc
-
+drug	
+@drug /drʌg/
+*  danh từ
+- thuốc, dược phẩm
+- thuốc ngủ, thuốc tê mê, ma tuý
+- hàng ế thừa ((cũng) drug in (on) the market)
+*  ngoại động từ
+- pha thuốc ngủ vào, pha thuốc tê mê vào; pha thuốc độc vào (đồ uống...)
+- cho uống thuốc; cho uống thuốc; ngủ, đánh thuốc tê mê, cho hít chất ma tuý; cho uống thuốc độc
+- kích thích (ngựa thi) bằng thuốc
+*  nội động từ
+- uống thuốc ngủ, hít thuốc tê mê, nghiện thuốc ngủ, nghiện thuốc tê mê, nghiện ma tuý
+- chán mứa ra
+@Chuyên ngành kỹ thuật
+-dược phẩm
+@Lĩnh vực: y học
+-chất ma túy
+-thuốc

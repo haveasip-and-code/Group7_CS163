@@ -1,3 +1,12 @@
-tipper
-	@Chuyên ngành kinh tế\n-máy cắt ngọn thuốc lá\n-thiết bị lật đảo\n@Chuyên ngành kỹ thuật\n-thiết bị lật\n-xe ben\n-xe tự đổ\n@Lĩnh vực: vật lý\n-cấu lật (goòng)\n@Lĩnh vực: ô tô\n-toa lật\n-xe lật
-
+tipper	@Chuyên ngành kinh tế
+-máy cắt ngọn thuốc lá
+-thiết bị lật đảo
+@Chuyên ngành kỹ thuật
+-thiết bị lật
+-xe ben
+-xe tự đổ
+@Lĩnh vực: vật lý
+-cấu lật (goòng)
+@Lĩnh vực: ô tô
+-toa lật
+-xe lật

@@ -1,3 +1,2 @@
-princeship
-	@princeship\n- xem prince
-
+princeship	@princeship
+- xem prince

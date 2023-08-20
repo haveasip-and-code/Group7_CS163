@@ -1,3 +1,12 @@
-overpressure
-	@overpressure /'ouvə'preʃə/\n*  danh từ\n- áp lực quá cao\n- việc làm quá bận\n@Chuyên ngành kỹ thuật\n-áp suất dư\n-quá áp\n@Lĩnh vực: cơ khí & công trình\n-áp lực quá cao\n-siêu áp\n@Lĩnh vực: xây dựng\n-sự quá áp
-
+overpressure	@overpressure /'ouvə'preʃə/
+*  danh từ
+- áp lực quá cao
+- việc làm quá bận
+@Chuyên ngành kỹ thuật
+-áp suất dư
+-quá áp
+@Lĩnh vực: cơ khí & công trình
+-áp lực quá cao
+-siêu áp
+@Lĩnh vực: xây dựng
+-sự quá áp

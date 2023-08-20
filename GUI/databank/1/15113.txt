@@ -1,3 +1,14 @@
-diagnosis
-	@diagnosis /,daiəg'nousis/\n*  danh từ,  số nhiều diagnoses\n- (y học) phép chẩn đoán; sự chẩn đoán; lời chẩn đoán\n- (sinh vật học) sự miêu tả đặc trưng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chẩn đoán\n@Lĩnh vực: toán & tin\n-phép chuẩn đoán\n-sự chẩn đoán\n-sự chuẩn đoán\n-sự chuẩn lỗi\n-sự chuẩn sai
-
+diagnosis	
+@diagnosis /,daiəg'nousis/
+*  danh từ,  số nhiều diagnoses
+- (y học) phép chẩn đoán; sự chẩn đoán; lời chẩn đoán
+- (sinh vật học) sự miêu tả đặc trưng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chẩn đoán
+@Lĩnh vực: toán & tin
+-phép chuẩn đoán
+-sự chẩn đoán
+-sự chuẩn đoán
+-sự chuẩn lỗi
+-sự chuẩn sai

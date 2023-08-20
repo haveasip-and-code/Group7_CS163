@@ -1,3 +1,4 @@
-precedents
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ô giá trị chính\n-tiền lệ
-
+precedents	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-ô giá trị chính
+-tiền lệ

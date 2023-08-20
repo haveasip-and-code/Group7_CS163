@@ -1,3 +1,21 @@
-backbone
-	@backbone /'bækboun/\n*  danh từ\n- xương sống\n- (nghĩa bóng) xương sống, cột trụ\n=he is the backbone of the football team+ anh ấy là cột trụ của đội bóng\n- (nghĩa bóng) nghị lực; sức mạnh\n=to lack backbone+ thiếu nghị lực\n!to the backbone\n- chính cống, hoàn toàn\n=he is an Englishman to the backbone+ hắn là một người Anh chính cống\n@Chuyên ngành kỹ thuật\n-cột trụ\n-đường truyền chính\n-sườn\n-trục chính\n-xương sống\n@Lĩnh vực: xây dựng\n-cột chính\n-phần chịu lực\n@Lĩnh vực: y học\n-xương sống (cột sống)
-
+backbone	@backbone /'bækboun/
+*  danh từ
+- xương sống
+- (nghĩa bóng) xương sống, cột trụ
+=he is the backbone of the football team+ anh ấy là cột trụ của đội bóng
+- (nghĩa bóng) nghị lực; sức mạnh
+=to lack backbone+ thiếu nghị lực
+!to the backbone
+- chính cống, hoàn toàn
+=he is an Englishman to the backbone+ hắn là một người Anh chính cống
+@Chuyên ngành kỹ thuật
+-cột trụ
+-đường truyền chính
+-sườn
+-trục chính
+-xương sống
+@Lĩnh vực: xây dựng
+-cột chính
+-phần chịu lực
+@Lĩnh vực: y học
+-xương sống (cột sống)

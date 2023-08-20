@@ -1,3 +1,9 @@
-subprogram
-	@subprogram\n* danh từ\n- chương trình con (toán)\n@Chuyên ngành kỹ thuật\n-chương trình phụ\n-thường trình con\n@Lĩnh vực: toán & tin\n-chương trình được gọi\n-trình con
-
+subprogram	@subprogram
+* danh từ
+- chương trình con (toán)
+@Chuyên ngành kỹ thuật
+-chương trình phụ
+-thường trình con
+@Lĩnh vực: toán & tin
+-chương trình được gọi
+-trình con

@@ -1,3 +1,60 @@
-fan
-	@fan /fæn/\n*  danh từ\n- người hâm mộ, người say mê\n=film fans+ những người mê chiếu bóng\n=football fans+ những người hâm mộ bóng đá\n*  danh từ\n- cái quạt\n=an electric fan+ quạt máy, quạt điện\n- cái quạt lúa\n- đuổi chim, cánh chim (xoè ra như cái quạt)\n- (hàng hải) cánh chân vịt; chân vịt\n- bản hướng gió (ở cối xay gió)\n*  ngoại động từ\n- quạt (thóc...)\n- thổi bùng, xúi giục\n=to fan the flame of war+ thổi bùng ngọn lửa chiến tranh\n- trải qua theo hình quạt\n*  nội động từ\n- quạt\n- thổi hiu hiu (gió)\n- xoè ra như hình quạt\n!to fan the air\n- đấm gió\n@Chuyên ngành kinh tế\n-máy quạt lúa\n-quạt máy\n@Chuyên ngành kỹ thuật\n-cánh\n-máy quạt\n-máy thông gió\n-phong trào\n-quạt chân vịt\n-quạt điện\n-quạt gió\n-quạt làm mát\n-quạt thông gió\n@Lĩnh vực: giao thông & vận tải\n-cái quạt\n@Lĩnh vực: điện lạnh\n-quạt\n-quạt đẩy\n@Lĩnh vực: cơ khí & công trình\n-quạt bồi tích\n@Chuyên ngành kỹ thuật\n-cánh\n-máy quạt\n-máy thông gió\n-phong trào\n-quạt chân vịt\n-quạt điện\n-quạt gió\n-quạt làm mát\n-quạt thông gió\n@Lĩnh vực: giao thông & vận tải\n-cái quạt\n@Lĩnh vực: điện lạnh\n-quạt\n-quạt đẩy\n@Lĩnh vực: cơ khí & công trình\n-quạt bồi tích
-
+fan	
+@fan /fæn/
+*  danh từ
+- người hâm mộ, người say mê=film fans
++ những người mê chiếu bóng=football fans
++ những người hâm mộ bóng đá
+*  danh từ
+- cái quạt=an electric fan
++ quạt máy, quạt điện
+- cái quạt lúa
+- đuổi chim, cánh chim (xoè ra như cái quạt)
+- (hàng hải) cánh chân vịt; chân vịt
+- bản hướng gió (ở cối xay gió)
+*  ngoại động từ
+- quạt (thóc...)
+- thổi bùng, xúi giục=to fan the flame of war
++ thổi bùng ngọn lửa chiến tranh
+- trải qua theo hình quạt
+*  nội động từ
+- quạt
+- thổi hiu hiu (gió)
+- xoè ra như hình quạt!to fan the air
+- đấm gió
+@Chuyên ngành kinh tế
+-máy quạt lúa
+-quạt máy
+@Chuyên ngành kỹ thuật
+-cánh
+-máy quạt
+-máy thông gió
+-phong trào
+-quạt chân vịt
+-quạt điện
+-quạt gió
+-quạt làm mát
+-quạt thông gió
+@Lĩnh vực: giao thông & vận tải
+-cái quạt
+@Lĩnh vực: điện lạnh
+-quạt
+-quạt đẩy
+@Lĩnh vực: cơ khí & công trình
+-quạt bồi tích
+@Chuyên ngành kỹ thuật
+-cánh
+-máy quạt
+-máy thông gió
+-phong trào
+-quạt chân vịt
+-quạt điện
+-quạt gió
+-quạt làm mát
+-quạt thông gió
+@Lĩnh vực: giao thông & vận tải
+-cái quạt
+@Lĩnh vực: điện lạnh
+-quạt
+-quạt đẩy
+@Lĩnh vực: cơ khí & công trình
+-quạt bồi tích

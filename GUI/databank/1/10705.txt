@@ -1,3 +1,4 @@
-complementarity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tính bổ sung
-
+complementarity	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tính bổ sung

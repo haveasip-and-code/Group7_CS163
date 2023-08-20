@@ -1,3 +1,4 @@
-expectantly
-	@expectantly\n* phó từ\n- mong đợi, hy vọng
-
+expectantly	
+@expectantly
+* phó từ
+- mong đợi, hy vọng

@@ -1,3 +1,2 @@
-confiscator
-	@confiscator\n- xem confiscate
-
+confiscator	@confiscator
+- xem confiscate

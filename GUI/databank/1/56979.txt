@@ -1,3 +1,4 @@
-toolbox
-	@toolbox\n- hộp dụng cụ\n@Chuyên ngành kỹ thuật\n-hộp dụng cụ
-
+toolbox	@toolbox
+- hộp dụng cụ
+@Chuyên ngành kỹ thuật
+-hộp dụng cụ

@@ -1,3 +1,2 @@
-overextend
-	@Chuyên ngành kinh tế\n-vay quá mức
-
+overextend	@Chuyên ngành kinh tế
+-vay quá mức

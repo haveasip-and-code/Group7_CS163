@@ -1,3 +1,5 @@
-printability
-	@printability\n- xem printable\n@Chuyên ngành kỹ thuật\n-in ra được\n-khả năng in ra được
-
+printability	@printability
+- xem printable
+@Chuyên ngành kỹ thuật
+-in ra được
+-khả năng in ra được

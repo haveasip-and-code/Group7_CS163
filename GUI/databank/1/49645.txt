@@ -1,3 +1,30 @@
-selection
-	@selection /si'lekʃn/\n*  danh từ\n- sự lựa chọn, sự chọn lọc, sự tuyển lựa\n- người (vật) được chọn lựa\n=the new headmaster is a good selection+ ông hiệu trưởng mới là người đã được tuyển lựa cẩn thận\n- (sinh vật học) sự chọn lọc\n=natural selection+ sự chọn lọc tự nhiên\n=artificial selection+ sự chọn lọc nhân tạo\n@Chuyên ngành kinh tế\n-sự lựa chọn\n-tuyển chọn\n@Chuyên ngành kỹ thuật\n-lựa chọn\n-sự chọn\n-sự chọn lọc\n-sự chọn lọc trình đơn (máy tính)\n-sự lựa chọn\n-trích\n-tuyển chọn\n@Lĩnh vực: toán & tin\n-nhánh lựa chọn\n-phần được chọn\n-phần lựa chọn\n-sự lựa\n-vùng chọn\n-vùng lựa chọn\n@Lĩnh vực: điện lạnh\n-sự chọn (lọc)\n@Lĩnh vực: cơ khí & công trình\n-sự chọn lựa
-
+selection	@selection /si'lekʃn/
+*  danh từ
+- sự lựa chọn, sự chọn lọc, sự tuyển lựa
+- người (vật) được chọn lựa
+=the new headmaster is a good selection+ ông hiệu trưởng mới là người đã được tuyển lựa cẩn thận
+- (sinh vật học) sự chọn lọc
+=natural selection+ sự chọn lọc tự nhiên
+=artificial selection+ sự chọn lọc nhân tạo
+@Chuyên ngành kinh tế
+-sự lựa chọn
+-tuyển chọn
+@Chuyên ngành kỹ thuật
+-lựa chọn
+-sự chọn
+-sự chọn lọc
+-sự chọn lọc trình đơn (máy tính)
+-sự lựa chọn
+-trích
+-tuyển chọn
+@Lĩnh vực: toán & tin
+-nhánh lựa chọn
+-phần được chọn
+-phần lựa chọn
+-sự lựa
+-vùng chọn
+-vùng lựa chọn
+@Lĩnh vực: điện lạnh
+-sự chọn (lọc)
+@Lĩnh vực: cơ khí & công trình
+-sự chọn lựa

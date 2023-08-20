@@ -1,3 +1,8 @@
-merchandiser
-	@merchandiser\n* danh từ\n- người buôn bán\n@Chuyên ngành kinh tế\n-kỹ thuật viên bán hàng\n-luật nhãn hiệu hàng hóa\n-người buôn bán\n-thương nhân
-
+merchandiser	@merchandiser
+* danh từ
+- người buôn bán
+@Chuyên ngành kinh tế
+-kỹ thuật viên bán hàng
+-luật nhãn hiệu hàng hóa
+-người buôn bán
+-thương nhân

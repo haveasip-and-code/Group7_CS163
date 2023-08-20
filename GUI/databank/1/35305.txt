@@ -1,3 +1,23 @@
-moderate
-	@moderate /'mɔdərit/\n*  tính từ\n- vừa phải; phải chăng, có mức độ; điều độ\n=moderate prices+ giá cả phải chăng\n- ôn hoà, không quá khích\n=a man of moderate opinion+ một người có tư tưởng ôn hoà\n*  danh từ\n- người ôn hoà\n*  ngoại động từ\n- làm cho ôn hoà, làm dịu, làm giảm nhẹ, làm bớt đi, tiết chế\n=to moderate one's anger+ bớt giận\n*  nội động từ\n- dịu đi, nhẹ đi, bớt đi\n=the wind is moderrating+ gió nhẹ đi, gió bớt lộng\n@Chuyên ngành kỹ thuật\n-điều tiết\n-giảm tốc\n-làm chậm\n-ôn hòa\n@Lĩnh vực: vật lý\n-làm giảm tốc\n@Lĩnh vực: xây dựng\n-vừa phải
-
+moderate	@moderate /'mɔdərit/
+*  tính từ
+- vừa phải; phải chăng, có mức độ; điều độ
+=moderate prices+ giá cả phải chăng
+- ôn hoà, không quá khích
+=a man of moderate opinion+ một người có tư tưởng ôn hoà
+*  danh từ
+- người ôn hoà
+*  ngoại động từ
+- làm cho ôn hoà, làm dịu, làm giảm nhẹ, làm bớt đi, tiết chế
+=to moderate one's anger+ bớt giận
+*  nội động từ
+- dịu đi, nhẹ đi, bớt đi
+=the wind is moderrating+ gió nhẹ đi, gió bớt lộng
+@Chuyên ngành kỹ thuật
+-điều tiết
+-giảm tốc
+-làm chậm
+-ôn hòa
+@Lĩnh vực: vật lý
+-làm giảm tốc
+@Lĩnh vực: xây dựng
+-vừa phải

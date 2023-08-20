@@ -1,3 +1,9 @@
-addend
-	@addend\n- (Tech) số hạng (của tổng), số cộng\n@Chuyên ngành kỹ thuật\n-số hạng\n@Lĩnh vực: toán & tin\n-hạng thức\n-số cộng\n-toán hạng thứ nhất
-
+addend	
+@addend
+- (Tech) số hạng (của tổng), số cộng
+@Chuyên ngành kỹ thuật
+-số hạng
+@Lĩnh vực: toán & tin
+-hạng thức
+-số cộng
+-toán hạng thứ nhất

@@ -1,3 +1,5 @@
-pressboard
-	@Chuyên ngành kỹ thuật\n-các tông\n-tấm ép\n@Lĩnh vực: xây dựng\n-bìa ép
-
+pressboard	@Chuyên ngành kỹ thuật
+-các tông
+-tấm ép
+@Lĩnh vực: xây dựng
+-bìa ép

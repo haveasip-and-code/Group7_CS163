@@ -1,3 +1,6 @@
-keelboat
-	@Chuyên ngành kinh tế\n-sà-lan\n-tàu chở hàng trên sông\n-tàu đáy bằng
-
+keelboat	
+@Chuyên ngành kinh tế
+-sà
+-lan
+-tàu chở hàng trên sông
+-tàu đáy bằng

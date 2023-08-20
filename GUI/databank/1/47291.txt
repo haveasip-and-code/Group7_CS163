@@ -1,3 +1,21 @@
-retention
-	@retention /ri'tenʃn/\n*  danh từ\n- sự giữ lại, sự cầm lại\n- sự duy trì\n- sự ghi nhớ; trí nhớ\n- (y học) sự bí (đái...)\n@Chuyên ngành kinh tế\n-lưu giữ bắt buộc\n-sự giữ lại\n-tiền giữ lại, dành lại, khấu trừ\n@Chuyên ngành kỹ thuật\n-duy trì\n-lượng (mưa) trữ lại\n-sự duy trì\n-sự giữ\n-sự giữ lại\n-sự lưu giữ\n-sự lưu lại\n-van một chiều\n@Lĩnh vực: y học\n-bí tiểu
-
+retention	@retention /ri'tenʃn/
+*  danh từ
+- sự giữ lại, sự cầm lại
+- sự duy trì
+- sự ghi nhớ; trí nhớ
+- (y học) sự bí (đái...)
+@Chuyên ngành kinh tế
+-lưu giữ bắt buộc
+-sự giữ lại
+-tiền giữ lại, dành lại, khấu trừ
+@Chuyên ngành kỹ thuật
+-duy trì
+-lượng (mưa) trữ lại
+-sự duy trì
+-sự giữ
+-sự giữ lại
+-sự lưu giữ
+-sự lưu lại
+-van một chiều
+@Lĩnh vực: y học
+-bí tiểu

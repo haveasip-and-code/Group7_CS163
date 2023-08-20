@@ -1,3 +1,4 @@
-doxorubicin
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một loại kháng sinh anthracycline chủ trị ung thư bạch cầu và các ung thư khác
-
+doxorubicin	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một loại kháng sinh anthracycline chủ trị ung thư bạch cầu và các ung thư khác

@@ -1,3 +1,2 @@
-perigeal
-	@perigeal\n- xem perigee
-
+perigeal	@perigeal
+- xem perigee

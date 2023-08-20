@@ -1,3 +1,6 @@
-ultrafiltrate
-	@ultrafiltrate\n* danh từ\n- vật liệu siêu lọc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất siêu lọc
-
+ultrafiltrate	@ultrafiltrate
+* danh từ
+- vật liệu siêu lọc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất siêu lọc

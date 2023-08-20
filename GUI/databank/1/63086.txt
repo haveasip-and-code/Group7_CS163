@@ -1,3 +1,27 @@
-wiring
-	@wiring /'wai ri /\n*  danh từ\n- (rađiô) sự lắp ráp\n- (kỹ thuật) sự chằng lưới sắt\n- (điện học) sự đặt đường dây; hệ thống dây điện\n@Chuyên ngành kỹ thuật\n-đánh điện\n-dây dẫn\n-dây nối\n-nối dây\n-mắc dây\n-sự dẫn\n-sự đấu dây\n-việc mắc dây điện\n@Lĩnh vực: y học\n-buộc vòng\n@Lĩnh vực: điện\n-cách bắt dây\n-cách đi dây\n@Lĩnh vực: điện lạnh\n-sự đặt dây dẫn\n-sự đấu dây điện\n-sự đi dây dẫn\n-sự mắc dây\n@Lĩnh vực: xây dựng\n-sự đặt đường dây (điện)\n-sự đi dây
-
+wiring	@wiring /'wai ri /
+*  danh từ
+- (rađiô) sự lắp ráp
+- (kỹ thuật) sự chằng lưới sắt
+- (điện học) sự đặt đường dây; hệ thống dây điện
+@Chuyên ngành kỹ thuật
+-đánh điện
+-dây dẫn
+-dây nối
+-nối dây
+-mắc dây
+-sự dẫn
+-sự đấu dây
+-việc mắc dây điện
+@Lĩnh vực: y học
+-buộc vòng
+@Lĩnh vực: điện
+-cách bắt dây
+-cách đi dây
+@Lĩnh vực: điện lạnh
+-sự đặt dây dẫn
+-sự đấu dây điện
+-sự đi dây dẫn
+-sự mắc dây
+@Lĩnh vực: xây dựng
+-sự đặt đường dây (điện)
+-sự đi dây

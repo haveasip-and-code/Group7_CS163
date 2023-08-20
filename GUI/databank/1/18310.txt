@@ -1,3 +1,36 @@
-energize
-	@energize /'enədʤaiz/ (energize) /'enədʤaiz/\n*  ngoại động từ\n- làm mạnh mẽ, làm mãnh liệt, tiếp nghị lực cho, tiếp sinh lực cho\n*  nội động từ\n- hoạt động mạnh mẽ\n@Chuyên ngành kỹ thuật\n-đóng điện cho\n-hoạt hóa\n-kích hoạt\n-kích thích\n-nuôi\n-mở máy\n-tăng cường\n@Lĩnh vực: điện\n-cấp điện (cho)\n-đóng điện (cho)\n@Lĩnh vực: điện lạnh\n-cấp năng lượng\n@Lĩnh vực: xây dựng\n-khích thích\n@Chuyên ngành kỹ thuật\n-đóng điện cho\n-hoạt hóa\n-kích hoạt\n-kích thích\n-nuôi\n-mở máy\n-tăng cường\n@Lĩnh vực: điện\n-cấp điện (cho)\n-đóng điện (cho)\n@Lĩnh vực: điện lạnh\n-cấp năng lượng\n@Lĩnh vực: xây dựng\n-khích thích
-
+energize	
+@energize /'enədʤaiz/ (energize) /'enədʤaiz/
+*  ngoại động từ
+- làm mạnh mẽ, làm mãnh liệt, tiếp nghị lực cho, tiếp sinh lực cho
+*  nội động từ
+- hoạt động mạnh mẽ
+@Chuyên ngành kỹ thuật
+-đóng điện cho
+-hoạt hóa
+-kích hoạt
+-kích thích
+-nuôi
+-mở máy
+-tăng cường
+@Lĩnh vực: điện
+-cấp điện (cho)
+-đóng điện (cho)
+@Lĩnh vực: điện lạnh
+-cấp năng lượng
+@Lĩnh vực: xây dựng
+-khích thích
+@Chuyên ngành kỹ thuật
+-đóng điện cho
+-hoạt hóa
+-kích hoạt
+-kích thích
+-nuôi
+-mở máy
+-tăng cường
+@Lĩnh vực: điện
+-cấp điện (cho)
+-đóng điện (cho)
+@Lĩnh vực: điện lạnh
+-cấp năng lượng
+@Lĩnh vực: xây dựng
+-khích thích

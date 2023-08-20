@@ -1,3 +1,70 @@
-hang
-	@hang /hæɳ/\n*  danh từ, chỉ số ít\n- sự cúi xuống, sự gục xuống\n- dốc, mặt dốc\n- cách treo (một vật gì)\n- ý riêng, nghĩa riêng; cách làm, cách nói\n=to get the hang of something+ hiểu rõ cái gì\n!not to care a hang\n- (thông tục) bất chấp, cóc cần\n*  ngoại động từ hung\n- treo, mắc\n=to hang a picture+ treo bức tranh\n- treo cổ (người)\n=to hang oneself+ treo cổ tự tử\n=hang him!+ thằng chết tiệt!\n=hang it!+ đồ chết tiệt!\n- dán (giấy lên tường)\n- gục (đầu, vì hổ thẹn...), cụp (tai, vì xấu hổ...)\n*  nội động từ\n- treo, bị treo, bị mắc\n=the picture hangs up against the wall+ bức tranh (bị) treo trên tường\n=to hang by a thread+ treo đầu sợi tóc (rất mong manh, nguy kịch)\n- (hanged) bị treo cổ\n=he will hang for it+ nó sẽ bị treo cổ vì tội đó\n- cheo leo, lơ lửng; phấp phới; rủ xuống, xoã xuống, thõng xuống, lòng thòng\n=a cloud of smoke hangs over the town+ đám khói lơ lửng trên thành phố\n=curtain hangs loose+ màn rủ lòng thòng\n=hair hangs down one's back+ tóc xoã xuống lưng\n- nghiêng\n=the mast hangs aft+ cột buồm nghiêng về phía đuôi tàu\n!to hang about\n- đi lang thang, đi phất phơ, đi vơ vẩn, la cà\n- quanh quẩn, quanh quất\n- sắp đến, đến gần\n=there's a storm hanging about+ trời sắp có bão\n!to hang back\n- do dự, lưỡng lự\n- có ý muốn lùi lại, chùn lại\n!to hang behind\n- tụt lại đằng sau, đà đẫn ở đằng sau\n!to hang down\n- rủ xuống, xoã xuống, bỏ thõng xuống, lòng thòng\n- nghiêng, cúi\n=to hang down one's head+ cúi đầu\n!to hang off\n- do dự, lưỡng lự\n- lùi lại, chùn lại, có ý muốn lùi; (thông tục) muốn lĩnh, muốn chuồn\n!to hang on (upon)\n- dựa vào, tuỳ vào\n- bám vào, bám riết lấy, cố bám, kiên trì ((nghĩa đen) & (nghĩa bóng))\n=to hang on someone's arm+ bám chặt lấy cánh tay ai\n=to hang upon the left flank of the enemy+ bám chặt lấy cánh trái của địch\n- (thông tục) giữ máy (không cắt khi gọi dây nói)\n!to hang out\n- trèo ra ngoài; thò cổ ra ngoài (cửa sổ...); thè ra (lưỡi)\n- thõng xuống, lòng thòng\n- (từ lóng) ở\n- (từ Mỹ,nghĩa Mỹ) lang thang, vơ vẩn lãng phí thời giờ (ở quán cà phê, tiệm trà...)\n!to hang together\n- đoàn kết với nhau, gắn bó với nhau\n- có mạch lạc, ăn khớp với nhau (lập luận)\n!to hang up\n- treo lên\n- (nghĩa bóng) để treo đầy, hoân lại (không biết đến bao giờ mới làm)\n!to hang fire\n- nổ chậm (súng)\n!to hang heavy\n- trôi đi chậm chạp (thời gian)\n!to hang on (upon) somebody's lips (words)\n- lắng nghe như uống từng lời từng chữ của ai\n!to hang on the line\n- treo (tranh...) ngang tầm mắt\n@Chuyên ngành kỹ thuật\n-mắc\n-mái dốc\n-mái nghiêng\n-mặt nghiêng\n-móc\n-móc vào\n@Lĩnh vực: toán & tin\n-gác\n@Lĩnh vực: cơ khí & công trình\n-treo lên
-
+hang	
+@hang /hæɳ/
+*  danh từ, chỉ số ít
+- sự cúi xuống, sự gục xuống
+- dốc, mặt dốc
+- cách treo (một vật gì)
+- ý riêng, nghĩa riêng; cách làm, cách nói=to get the hang of something
++ hiểu rõ cái gì!not to care a hang
+- (thông tục) bất chấp, cóc cần
+*  ngoại động từ hung
+- treo, mắc=to hang a picture
++ treo bức tranh
+- treo cổ (người)=to hang oneself
++ treo cổ tự tử=hang him!
++ thằng chết tiệt!=hang it!
++ đồ chết tiệt!
+- dán (giấy lên tường)
+- gục (đầu, vì hổ thẹn...), cụp (tai, vì xấu hổ...)
+*  nội động từ
+- treo, bị treo, bị mắc=the picture hangs up against the wall
++ bức tranh (bị) treo trên tường=to hang by a thread
++ treo đầu sợi tóc (rất mong manh, nguy kịch)
+- (hanged) bị treo cổ=he will hang for it
++ nó sẽ bị treo cổ vì tội đó
+- cheo leo, lơ lửng; phấp phới; rủ xuống, xoã xuống, thõng xuống, lòng thòng=a cloud of smoke hangs over the town
++ đám khói lơ lửng trên thành phố=curtain hangs loose
++ màn rủ lòng thòng=hair hangs down one's back
++ tóc xoã xuống lưng
+- nghiêng=the mast hangs aft
++ cột buồm nghiêng về phía đuôi tàu!to hang about
+- đi lang thang, đi phất phơ, đi vơ vẩn, la cà
+- quanh quẩn, quanh quất
+- sắp đến, đến gần=there's a storm hanging about
++ trời sắp có bão!to hang back
+- do dự, lưỡng lự
+- có ý muốn lùi lại, chùn lại!to hang behind
+- tụt lại đằng sau, đà đẫn ở đằng sau!to hang down
+- rủ xuống, xoã xuống, bỏ thõng xuống, lòng thòng
+- nghiêng, cúi=to hang down one's head
++ cúi đầu!to hang off
+- do dự, lưỡng lự
+- lùi lại, chùn lại, có ý muốn lùi; (thông tục) muốn lĩnh, muốn chuồn!to hang on (upon)
+- dựa vào, tuỳ vào
+- bám vào, bám riết lấy, cố bám, kiên trì ((nghĩa đen) & (nghĩa bóng))=to hang on someone's arm
++ bám chặt lấy cánh tay ai=to hang upon the left flank of the enemy
++ bám chặt lấy cánh trái của địch
+- (thông tục) giữ máy (không cắt khi gọi dây nói)!to hang out
+- trèo ra ngoài; thò cổ ra ngoài (cửa sổ...); thè ra (lưỡi)
+- thõng xuống, lòng thòng
+- (từ lóng) ở
+- (từ Mỹ,nghĩa Mỹ) lang thang, vơ vẩn lãng phí thời giờ (ở quán cà phê, tiệm trà...)!to hang together
+- đoàn kết với nhau, gắn bó với nhau
+- có mạch lạc, ăn khớp với nhau (lập luận)!to hang up
+- treo lên
+- (nghĩa bóng) để treo đầy, hoân lại (không biết đến bao giờ mới làm)!to hang fire
+- nổ chậm (súng)!to hang heavy
+- trôi đi chậm chạp (thời gian)!to hang on (upon) somebody's lips (words)
+- lắng nghe như uống từng lời từng chữ của ai!to hang on the line
+- treo (tranh...) ngang tầm mắt
+@Chuyên ngành kỹ thuật
+-mắc
+-mái dốc
+-mái nghiêng
+-mặt nghiêng
+-móc
+-móc vào
+@Lĩnh vực: toán & tin
+-gác
+@Lĩnh vực: cơ khí & công trình
+-treo lên

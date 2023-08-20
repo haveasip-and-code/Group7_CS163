@@ -1,3 +1,18 @@
-stretching
-	@stretching\n* danh từ\n- sự kéo căng; giãn dài; vuốt dài\n@Chuyên ngành kỹ thuật\n-sự căng\n-sự giãn dài\n-sự kéo căng\n-sự kéo dài\n-sự mở rộng\n-sự nở\n-sức căng\n-sức kéo\n@Lĩnh vực: xây dựng\n-độ kéo\n-độ vuốt\n-sự vuốt\n@Lĩnh vực: điện\n-sự căng dây
-
+stretching	@stretching
+* danh từ
+- sự kéo căng; giãn dài; vuốt dài
+@Chuyên ngành kỹ thuật
+-sự căng
+-sự giãn dài
+-sự kéo căng
+-sự kéo dài
+-sự mở rộng
+-sự nở
+-sức căng
+-sức kéo
+@Lĩnh vực: xây dựng
+-độ kéo
+-độ vuốt
+-sự vuốt
+@Lĩnh vực: điện
+-sự căng dây

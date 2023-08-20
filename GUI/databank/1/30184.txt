@@ -1,3 +1,9 @@
-italic
-	@italic /i'tælik/\n*  danh từ\n- (ngành in), ((thường) số nhiều) chữ ngả\n@Chuyên ngành kỹ thuật\n-chữ nghiêng\n-kiểu chữ nghiêng\n-nghiêng\n-nghiêng (chữ)
-
+italic	
+@italic /i'tælik/
+*  danh từ
+- (ngành in), ((thường) số nhiều) chữ ngả
+@Chuyên ngành kỹ thuật
+-chữ nghiêng
+-kiểu chữ nghiêng
+-nghiêng
+-nghiêng (chữ)

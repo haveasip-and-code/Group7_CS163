@@ -1,3 +1,31 @@
-buttress
-	@buttress /'bʌtris/\n*  danh từ\n- (kiến trúc) trụ ốp tường, trụ tường\n- núi ngang, hoành sơn\n- (nghĩa bóng) chỗ tựa; sự ủng hộ\n*  ngoại động từ\n- chống đỡ, làm cho vững chắc thêm\n!to buttress up by argument\n- làm cho vững chắc thêm lý lẽ\n@Chuyên ngành kỹ thuật\n-bản chống\n-chống\n-cột chống\n-đỡ\n-gia cố\n-kẹp chặt\n-liên kết\n-mang\n-mố\n-tải\n-tăng cường\n-thanh chống\n-tựa\n-xây tường\n@Lĩnh vực: xây dựng\n-bộ tựa\n-sườn chống\n-trụ chống tường\n-trụ ốp\n-tường chông\n-xây trụ gia cố
-
+buttress	
+@buttress /'bʌtris/
+*  danh từ
+- (kiến trúc) trụ ốp tường, trụ tường
+- núi ngang, hoành sơn
+- (nghĩa bóng) chỗ tựa; sự ủng hộ
+*  ngoại động từ
+- chống đỡ, làm cho vững chắc thêm!to buttress up by argument
+- làm cho vững chắc thêm lý lẽ
+@Chuyên ngành kỹ thuật
+-bản chống
+-chống
+-cột chống
+-đỡ
+-gia cố
+-kẹp chặt
+-liên kết
+-mang
+-mố
+-tải
+-tăng cường
+-thanh chống
+-tựa
+-xây tường
+@Lĩnh vực: xây dựng
+-bộ tựa
+-sườn chống
+-trụ chống tường
+-trụ ốp
+-tường chông
+-xây trụ gia cố

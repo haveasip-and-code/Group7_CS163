@@ -1,3 +1,2 @@
-transsonic
-	@transsonic\n- Cách viết khác : transonic
-
+transsonic	@transsonic
+- Cách viết khác : transonic

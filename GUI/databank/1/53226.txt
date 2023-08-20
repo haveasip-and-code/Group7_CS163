@@ -1,3 +1,12 @@
-stepping
-	@stepping\n* danh từ\n- sự làm thành bậc; thành nấc\n- sự chia thành từng bước\n- sự đắp bậc thang\n@Chuyên ngành kỹ thuật\n-bước nhảy\n@Lĩnh vực: cơ khí & công trình\n-sự chuyển cấp\n-sự thay đổi bậc\n@Lĩnh vực: xây dựng\n-sự đào thành bậc
-
+stepping	@stepping
+* danh từ
+- sự làm thành bậc; thành nấc
+- sự chia thành từng bước
+- sự đắp bậc thang
+@Chuyên ngành kỹ thuật
+-bước nhảy
+@Lĩnh vực: cơ khí & công trình
+-sự chuyển cấp
+-sự thay đổi bậc
+@Lĩnh vực: xây dựng
+-sự đào thành bậc

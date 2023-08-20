@@ -1,3 +1,10 @@
-domed
-	@domed /doumd/\n*  tính từ\n- hình vòm\n- có vòm\n@Chuyên ngành kỹ thuật\n-có dạng vòm\n-hình vòm\n@Lĩnh vực: hóa học & vật liệu\n-có vòm
-
+domed	
+@domed /doumd/
+*  tính từ
+- hình vòm
+- có vòm
+@Chuyên ngành kỹ thuật
+-có dạng vòm
+-hình vòm
+@Lĩnh vực: hóa học & vật liệu
+-có vòm

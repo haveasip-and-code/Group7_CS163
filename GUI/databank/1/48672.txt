@@ -1,3 +1,12 @@
-saponifier
-	@saponifier\n* danh từ\n- chất xà phòng hoá\n@Chuyên ngành kinh tế\n-chất tạo xà phòng\n-chất xà phòng hóa\n-lò xà phòng hóa\n-tác nhân xà phòng hóa\n-thiết bị để xà phòng hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất xà phòng hóa
-
+saponifier	@saponifier
+* danh từ
+- chất xà phòng hoá
+@Chuyên ngành kinh tế
+-chất tạo xà phòng
+-chất xà phòng hóa
+-lò xà phòng hóa
+-tác nhân xà phòng hóa
+-thiết bị để xà phòng hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất xà phòng hóa

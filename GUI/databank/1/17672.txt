@@ -1,3 +1,14 @@
-electrolyte
-	@electrolyte /i'lektroulait/\n*  danh từ\n- chất điện phân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất điện giải\n@Lĩnh vực: y học\n-chất điện phân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất điện giải\n@Lĩnh vực: y học\n-chất điện phân
-
+electrolyte	
+@electrolyte /i'lektroulait/
+*  danh từ
+- chất điện phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất điện giải
+@Lĩnh vực: y học
+-chất điện phân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất điện giải
+@Lĩnh vực: y học
+-chất điện phân

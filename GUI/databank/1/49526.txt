@@ -1,3 +1,11 @@
-sedan
-	@sedan /si'dæn/\n*  danh từ\n- ghế kiệu ((cũng) sedan-chair)\n- xe ô tô mui kín\n@Chuyên ngành kỹ thuật\n-xe mui kín\n@Lĩnh vực: ô tô\n-xe du lịch\n-xe ôtô mui kín\n@Lĩnh vực: cơ khí & công trình\n-xe kín mui
-
+sedan	@sedan /si'dæn/
+*  danh từ
+- ghế kiệu ((cũng) sedan-chair)
+- xe ô tô mui kín
+@Chuyên ngành kỹ thuật
+-xe mui kín
+@Lĩnh vực: ô tô
+-xe du lịch
+-xe ôtô mui kín
+@Lĩnh vực: cơ khí & công trình
+-xe kín mui

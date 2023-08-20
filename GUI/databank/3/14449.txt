@@ -1,3 +1,10 @@
-dene
-	@dene /di:n/\n*  danh từ\n- đụn cát, cồn cát\n*  danh từ\n- thung lũng sâu và hẹp ((cũng) dean)\n@Chuyên ngành kỹ thuật\n-cồn cát\n-đụn cát\n@Lĩnh vực: cơ khí & công trình\n-giải cát
-
+dene	@dene /di:n/
+*  danh từ
+- đụn cát, cồn cát
+*  danh từ
+- thung lũng sâu và hẹp ((cũng) dean)
+@Chuyên ngành kỹ thuật
+-cồn cát
+-đụn cát
+@Lĩnh vực: cơ khí & công trình
+-giải cát

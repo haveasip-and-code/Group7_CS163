@@ -1,3 +1,3 @@
-prelate
-	@prelate /'prelit/\n*  danh từ\n- giáo chủ; giám mục
-
+prelate	@prelate /'prelit/
+*  danh từ
+- giáo chủ; giám mục

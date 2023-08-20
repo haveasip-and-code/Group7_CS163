@@ -1,3 +1,15 @@
-cryptography
-	@cryptography /krip'tɔgrəfi/\n*  danh từ\n- mật mã\n- cách viết mật mã\n@Chuyên ngành kỹ thuật\n-kỹ thuật mã hóa\n-mật mã\n-sự ghi mật mã\n@Lĩnh vực: toán & tin\n-công nghệ mã hóa\n-phép ghi mật mã\n-sự viết mật mã\n@Lĩnh vực: điện tử & viễn thông\n-ghi mật mã
-
+cryptography	
+@cryptography /krip'tɔgrəfi/
+*  danh từ
+- mật mã
+- cách viết mật mã
+@Chuyên ngành kỹ thuật
+-kỹ thuật mã hóa
+-mật mã
+-sự ghi mật mã
+@Lĩnh vực: toán & tin
+-công nghệ mã hóa
+-phép ghi mật mã
+-sự viết mật mã
+@Lĩnh vực: điện tử & viễn thông
+-ghi mật mã

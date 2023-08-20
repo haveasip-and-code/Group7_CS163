@@ -1,3 +1,11 @@
-hydrophobic
-	@Chuyên ngành kỹ thuật\n-ghét nước\n-kỵ ẩm\n@Lĩnh vực: điện lạnh\n-chất không ướt\n-chất kị nước\n-trơn tuột nước\n@Lĩnh vực: điện\n-không bắt nước\n-không dính nước
-
+hydrophobic	
+@Chuyên ngành kỹ thuật
+-ghét nước
+-kỵ ẩm
+@Lĩnh vực: điện lạnh
+-chất không ướt
+-chất kị nước
+-trơn tuột nước
+@Lĩnh vực: điện
+-không bắt nước
+-không dính nước

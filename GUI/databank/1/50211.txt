@@ -1,3 +1,7 @@
-shareholder
-	@shareholder /'ʃeə,houldə/\n*  danh từ\n- người có cổ phần\n@Chuyên ngành kinh tế\n-cổ đông\n@Chuyên ngành kỹ thuật\n-cổ đông
-
+shareholder	@shareholder /'ʃeə,houldə/
+*  danh từ
+- người có cổ phần
+@Chuyên ngành kinh tế
+-cổ đông
+@Chuyên ngành kỹ thuật
+-cổ đông

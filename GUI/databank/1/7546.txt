@@ -1,3 +1,15 @@
-calibrator
-	@calibrator\n- (Tech) bộ lấy chuẩn\n@Chuyên ngành kỹ thuật\n-định cỡ\n-lấy mẫu\n-máy đo mẫu\n@Lĩnh vực: cơ khí & công trình\n-bộ định chuẩn\n@Lĩnh vực: điện lạnh\n-bộ định cỡ\n-bộ lấy chuẩn\n-vật cỡ\n@Lĩnh vực: y học\n-dụng cụ nong niệu đạo
-
+calibrator	
+@calibrator
+- (Tech) bộ lấy chuẩn
+@Chuyên ngành kỹ thuật
+-định cỡ
+-lấy mẫu
+-máy đo mẫu
+@Lĩnh vực: cơ khí & công trình
+-bộ định chuẩn
+@Lĩnh vực: điện lạnh
+-bộ định cỡ
+-bộ lấy chuẩn
+-vật cỡ
+@Lĩnh vực: y học
+-dụng cụ nong niệu đạo

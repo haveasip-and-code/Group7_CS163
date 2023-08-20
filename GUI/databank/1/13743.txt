@@ -1,3 +1,16 @@
-decanter
-	@decanter /di'kæntə/\n*  danh từ\n- bình thon cổ (đựng rượu, nước...)\n@Chuyên ngành kinh tế\n-bình thon cổ (đựng rượu, nước ...)\n-lọc\n-thiết bị gạn\n-thiết bị tách ly\n@Chuyên ngành kỹ thuật\n-bình lắng gạn\n-thùng lắng gạn\n@Lĩnh vực: điện lạnh\n-bình lắng\n@Lĩnh vực: hóa học & vật liệu\n-máy lắng gạn
-
+decanter	
+@decanter /di'kæntə/
+*  danh từ
+- bình thon cổ (đựng rượu, nước...)
+@Chuyên ngành kinh tế
+-bình thon cổ (đựng rượu, nước ...)
+-lọc
+-thiết bị gạn
+-thiết bị tách ly
+@Chuyên ngành kỹ thuật
+-bình lắng gạn
+-thùng lắng gạn
+@Lĩnh vực: điện lạnh
+-bình lắng
+@Lĩnh vực: hóa học & vật liệu
+-máy lắng gạn

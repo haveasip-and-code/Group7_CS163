@@ -1,3 +1,6 @@
-betting
-	@betting\n- sự đánh cuộc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự đánh cuộc
-
+betting	
+@betting
+- sự đánh cuộc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự đánh cuộc

@@ -1,3 +1,2 @@
-decidability
-	@decidability\n- xem decide
-
+decidability	@decidability
+- xem decide

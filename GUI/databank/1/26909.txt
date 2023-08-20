@@ -1,3 +1,17 @@
-ideal
-	@ideal /ai'diəl/\n*  tính từ\n- (thuộc) quan niệm, (thuộc) tư tưởng\n- chỉ có trong ý nghĩ, chỉ có trong trí tưởng tượng, tưởng tượng\n- lý tưởng\n- (triết học) (thuộc) mẫu mực lý tưởng (theo Pla-ton)\n- (từ Mỹ,nghĩa Mỹ),  (triết học) duy tâm\n*  danh từ\n- lý tưởng\n- người lý tưởng; vật lý tưởng\n- cái tinh thần; điều chỉ có trong tâm trí\n- (toán học) Iddêan\n=ideal product+ tích iddêan\n@Chuyên ngành kỹ thuật\n-lý tưởng
-
+ideal	
+@ideal /ai'diəl/
+*  tính từ
+- (thuộc) quan niệm, (thuộc) tư tưởng
+- chỉ có trong ý nghĩ, chỉ có trong trí tưởng tượng, tưởng tượng
+- lý tưởng
+- (triết học) (thuộc) mẫu mực lý tưởng (theo Pla
+-ton)
+- (từ Mỹ,nghĩa Mỹ),  (triết học) duy tâm
+*  danh từ
+- lý tưởng
+- người lý tưởng; vật lý tưởng
+- cái tinh thần; điều chỉ có trong tâm trí
+- (toán học) Iddêan=ideal product
++ tích iddêan
+@Chuyên ngành kỹ thuật
+-lý tưởng

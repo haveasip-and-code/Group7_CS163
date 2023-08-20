@@ -1,3 +1,4 @@
-potion
-	@potion /'pouʃn/\n*  danh từ\n- liều thuốc nước\n- liều thuốc độc
-
+potion	@potion /'pouʃn/
+*  danh từ
+- liều thuốc nước
+- liều thuốc độc

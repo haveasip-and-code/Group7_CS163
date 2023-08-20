@@ -1,3 +1,8 @@
-martensite
-	@martensite\n* danh từ\n- (luyện kim) Mactensit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mactensit\n@Lĩnh vực: cơ khí & công trình\n-mactenxit
-
+martensite	@martensite
+* danh từ
+- (luyện kim) Mactensit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-mactensit
+@Lĩnh vực: cơ khí & công trình
+-mactenxit

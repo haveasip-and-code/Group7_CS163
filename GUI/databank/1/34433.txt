@@ -1,3 +1,7 @@
-merlon
-	@merlon\n* danh từ\n- bộ phận chìa ra của thành lũy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-meclong\n-thành lỗ châu mai
-
+merlon	@merlon
+* danh từ
+- bộ phận chìa ra của thành lũy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-meclong
+-thành lỗ châu mai

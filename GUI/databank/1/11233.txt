@@ -1,3 +1,6 @@
-connectable
-	@connectable\n- xem connect\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể kết nối
-
+connectable	
+@connectable
+- xem connect
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể kết nối

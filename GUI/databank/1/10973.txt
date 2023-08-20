@@ -1,3 +1,45 @@
-condition
-	@condition /kən'diʃn/\n*  danh từ\n- điều kiện\n=on (upon) condition that+ với điều kiện là\n- (số nhiều) hoàn cảnh, tình cảnh, tình thế\n=under the present conditions+ trong hoàn cảnh hiện tại\n=favourable conditions+ hoàn cảnh thuận lợi\n- địa vị, thân phận\n=a man of condition+ người có địa vị\n=men of all conditions+ người đủ mọi địa vị, người đủ mọi từng lớp\n- trạng thái, tình trạng\n=eggs arrived in good condition+ trứng về còn (ở tình trạng) tốt nguyên\n- (ngôn ngữ học) mệnh đề điều kiện\n- (từ Mỹ,nghĩa Mỹ) kỳ thi vớt\n!to change one's condition\n- lấy vợ, lấy chồng, lập gia đình\n*  ngoại động từ\n- ước định, quy định\n- tuỳ thuộc vào, quyết định bởi\n=the size of the carpet is conditioned by the area of the room+ bề rộng của tấm thảm tuỳ thuộc vào diện tích của gian phòng\n- là điều kiện của, cần thiết cho\n=the two things condition each other+ hai cái đó cần thiết lẫn cho nhau\n- (thương nghiệp) thử, kiểm tra phẩm chất (hàng hoá)\n- làm cho sung sức; chăm sóc cho khoẻ mạnh\n- (từ Mỹ,nghĩa Mỹ) dự kỳ thi vớt\n@Chuyên ngành kinh tế\n-chế độ\n-điều kiện\n-sự điều hòa\n-tình trạng\n-trạng thái\n@Chuyên ngành kỹ thuật\n-chế độ\n-đặc tính\n-đặt điều kiện\n-địa vị\n-điều kiện\n-điều phối\n-sự ràng buộc\n-trạng thái\n-yêu cầu\n@Lĩnh vực: cơ khí & công trình\n-qui định\n@Lĩnh vực: xây dựng\n-tạo điều kiện
-
+condition	
+@condition /kən'diʃn/
+*  danh từ
+- điều kiện=on (upon) condition that
++ với điều kiện là
+- (số nhiều) hoàn cảnh, tình cảnh, tình thế=under the present conditions
++ trong hoàn cảnh hiện tại=favourable conditions
++ hoàn cảnh thuận lợi
+- địa vị, thân phận=a man of condition
++ người có địa vị=men of all conditions
++ người đủ mọi địa vị, người đủ mọi từng lớp
+- trạng thái, tình trạng=eggs arrived in good condition
++ trứng về còn (ở tình trạng) tốt nguyên
+- (ngôn ngữ học) mệnh đề điều kiện
+- (từ Mỹ,nghĩa Mỹ) kỳ thi vớt!to change one's condition
+- lấy vợ, lấy chồng, lập gia đình
+*  ngoại động từ
+- ước định, quy định
+- tuỳ thuộc vào, quyết định bởi=the size of the carpet is conditioned by the area of the room
++ bề rộng của tấm thảm tuỳ thuộc vào diện tích của gian phòng
+- là điều kiện của, cần thiết cho=the two things condition each other
++ hai cái đó cần thiết lẫn cho nhau
+- (thương nghiệp) thử, kiểm tra phẩm chất (hàng hoá)
+- làm cho sung sức; chăm sóc cho khoẻ mạnh
+- (từ Mỹ,nghĩa Mỹ) dự kỳ thi vớt
+@Chuyên ngành kinh tế
+-chế độ
+-điều kiện
+-sự điều hòa
+-tình trạng
+-trạng thái
+@Chuyên ngành kỹ thuật
+-chế độ
+-đặc tính
+-đặt điều kiện
+-địa vị
+-điều kiện
+-điều phối
+-sự ràng buộc
+-trạng thái
+-yêu cầu
+@Lĩnh vực: cơ khí & công trình
+-qui định
+@Lĩnh vực: xây dựng
+-tạo điều kiện

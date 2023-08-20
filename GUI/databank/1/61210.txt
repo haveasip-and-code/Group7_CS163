@@ -1,3 +1,2 @@
-vanisher
-	@vanisher\n- xem vanish
-
+vanisher	@vanisher
+- xem vanish

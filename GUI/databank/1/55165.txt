@@ -1,3 +1,15 @@
-symmetry
-	@symmetry /'simitri/\n*  danh từ\n- sự đối xứng; tính đối xứng\n- cấu trúc cân đối\n@Chuyên ngành kỹ thuật\n-cân đối\n-đối xứng\n@Lĩnh vực: xây dựng\n-phép đối xứng\n-sự cân đối\n-sự cân xứng\n@Lĩnh vực: y học\n-sự đối xứng\n@Lĩnh vực: toán & tin\n-tính đối xứng hóa
-
+symmetry	@symmetry /'simitri/
+*  danh từ
+- sự đối xứng; tính đối xứng
+- cấu trúc cân đối
+@Chuyên ngành kỹ thuật
+-cân đối
+-đối xứng
+@Lĩnh vực: xây dựng
+-phép đối xứng
+-sự cân đối
+-sự cân xứng
+@Lĩnh vực: y học
+-sự đối xứng
+@Lĩnh vực: toán & tin
+-tính đối xứng hóa

@@ -1,3 +1,8 @@
-slicing
-	@Chuyên ngành kinh tế\n-sự thái thành sợi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự bóc lớp\n-sự tách lớp (mỏng)\n@Lĩnh vực: xây dựng\n-sự đào (đất) theo lớp
-
+slicing	@Chuyên ngành kinh tế
+-sự thái thành sợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự bóc lớp
+-sự tách lớp (mỏng)
+@Lĩnh vực: xây dựng
+-sự đào (đất) theo lớp

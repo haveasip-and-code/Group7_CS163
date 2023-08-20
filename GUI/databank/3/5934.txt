@@ -1,3 +1,12 @@
-blip
-	@blip\n* danh từ\n- đốm sáng trên màn hình radar\n- tiếng nổ lách tách\n@Chuyên ngành kỹ thuật\n-đốm sáng\n-sự đáp ứng\n-tín hiệu nhiễu\n@Lĩnh vực: toán & tin\n-điểm nhạy quang\n@Lĩnh vực: điện\n-vạch sáng
-
+blip	@blip
+* danh từ
+- đốm sáng trên màn hình radar
+- tiếng nổ lách tách
+@Chuyên ngành kỹ thuật
+-đốm sáng
+-sự đáp ứng
+-tín hiệu nhiễu
+@Lĩnh vực: toán & tin
+-điểm nhạy quang
+@Lĩnh vực: điện
+-vạch sáng

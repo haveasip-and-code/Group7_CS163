@@ -1,3 +1,71 @@
-file
-	@file /fail/\n*  danh từ\n- cái giũa\n- (từ lóng) thằng cha láu cá, thằng cha quay quắt\n=a deep (an old) file+ thằng cha quay quắt\n!to bite (gnaw) file\n- lấy thúng úp voi; lấy gậy chọc trời\n*  ngoại động từ\n- giũa\n=to file one's finger nails+ giũa móng tay\n=to file something+ giũa nhãn vật gì\n- gọt giũa\n=to file a sentence+ gọt giũa một câu văn\n*  danh từ\n- ô đựng tài liêu, hồ sơ; dây thép móc hồ sơ\n=a bill file; a spike file+ cái móc giấy\n- hồ sơ, tài liệu\n- tập báo (xếp theo thứ tự)\n*  ngoại động từ\n- sắp xếp, sắp đặt (giấy má, thư từ...)\n- (từ Mỹ,nghĩa Mỹ) đệ trình đưa ra (một văn kiện...), đưa (đơn...)\n*  danh từ\n- hàng, dãy (người, vật)\n- (quân sự) hàng quân\n=to march in file+ đi hàng đôi\n=in single (Indian) file+ thành hành một\n!connecting file\n- liên lạc viên\n!a file of men\n- (quân sự) nhóm công tác hai người\n!the rank and file\n- (xem) rank\n*  ngoại động từ\n- cho đi thành hàng\n*  nội động từ\n- đi thành hàng\n!to file away\n- (như) to file off\n!to file in\n- đi vào từng người một, đi vào thành hàng một, nối đuôi nhau đi vào\n!to file off\n- kéo đi thành hàng nối đuôi nhau\n!to file out\n- đi ra từng người một, đi ra thành hàng một, nối đuôi nhau đi ra\n@Chuyên ngành kỹ thuật\n-bộ phiếu\n-dãy\n-giũa\n-gọt giũa\n-hàng\n-hồ sơ\n-tài liệu\n@Lĩnh vực: cơ khí & công trình\n-cái dũa\n@Lĩnh vực: y học\n-cái giũa\n@Lĩnh vực: toán & tin\n-phiếu ghi tin\n-tập tin\n-tệp\n-tệp tin\n@Chuyên ngành kỹ thuật\n-bộ phiếu\n-dãy\n-giũa\n-gọt giũa\n-hàng\n-hồ sơ\n-tài liệu\n@Lĩnh vực: cơ khí & công trình\n-cái dũa\n@Lĩnh vực: y học\n-cái giũa\n@Lĩnh vực: toán & tin\n-phiếu ghi tin\n-tập tin\n-tệp\n-tệp tin
-
+file	
+@file /fail/
+*  danh từ
+- cái giũa
+- (từ lóng) thằng cha láu cá, thằng cha quay quắt=a deep (an old) file
++ thằng cha quay quắt!to bite (gnaw) file
+- lấy thúng úp voi; lấy gậy chọc trời
+*  ngoại động từ
+- giũa=to file one's finger nails
++ giũa móng tay=to file something
++ giũa nhãn vật gì
+- gọt giũa=to file a sentence
++ gọt giũa một câu văn
+*  danh từ
+- ô đựng tài liêu, hồ sơ; dây thép móc hồ sơ=a bill file; a spike file
++ cái móc giấy
+- hồ sơ, tài liệu
+- tập báo (xếp theo thứ tự)
+*  ngoại động từ
+- sắp xếp, sắp đặt (giấy má, thư từ...)
+- (từ Mỹ,nghĩa Mỹ) đệ trình đưa ra (một văn kiện...), đưa (đơn...)
+*  danh từ
+- hàng, dãy (người, vật)
+- (quân sự) hàng quân=to march in file
++ đi hàng đôi=in single (Indian) file
++ thành hành một!connecting file
+- liên lạc viên!a file of men
+- (quân sự) nhóm công tác hai người!the rank and file
+- (xem) rank
+*  ngoại động từ
+- cho đi thành hàng
+*  nội động từ
+- đi thành hàng!to file away
+- (như) to file off!to file in
+- đi vào từng người một, đi vào thành hàng một, nối đuôi nhau đi vào!to file off
+- kéo đi thành hàng nối đuôi nhau!to file out
+- đi ra từng người một, đi ra thành hàng một, nối đuôi nhau đi ra
+@Chuyên ngành kỹ thuật
+-bộ phiếu
+-dãy
+-giũa
+-gọt giũa
+-hàng
+-hồ sơ
+-tài liệu
+@Lĩnh vực: cơ khí & công trình
+-cái dũa
+@Lĩnh vực: y học
+-cái giũa
+@Lĩnh vực: toán & tin
+-phiếu ghi tin
+-tập tin
+-tệp
+-tệp tin
+@Chuyên ngành kỹ thuật
+-bộ phiếu
+-dãy
+-giũa
+-gọt giũa
+-hàng
+-hồ sơ
+-tài liệu
+@Lĩnh vực: cơ khí & công trình
+-cái dũa
+@Lĩnh vực: y học
+-cái giũa
+@Lĩnh vực: toán & tin
+-phiếu ghi tin
+-tập tin
+-tệp
+-tệp tin

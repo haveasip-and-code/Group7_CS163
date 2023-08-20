@@ -1,3 +1,6 @@
-commissioning
-	@Chuyên ngành kỹ thuật\n-khai thác\n-sự thử kiểm tra\n-sự ủy nhiệm\n@Lĩnh vực: điện lạnh\n-sự ủy thác
-
+commissioning	@Chuyên ngành kỹ thuật
+-khai thác
+-sự thử kiểm tra
+-sự ủy nhiệm
+@Lĩnh vực: điện lạnh
+-sự ủy thác

@@ -1,3 +1,2 @@
-sailboard
-	@Chuyên ngành kỹ thuật\n-thuyền buồm
-
+sailboard	@Chuyên ngành kỹ thuật
+-thuyền buồm

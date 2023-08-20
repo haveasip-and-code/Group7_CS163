@@ -1,3 +1,62 @@
-reach
-	@reach /ri:tʃ/\n*  danh từ\n- sự chìa ra, sự trải ra\n- sự với (tay); tầm với\n=out of (beyond) reach+ ngoài tầm với, quá xa không với tới được\n=within reach of+ trong tầm tay, ở gần với tới được\n=within easy reach of the station+ ở gần nhà ga\n- (thể dục,thể thao) tầm duỗi tay (để đấm đối phương...)\n- (nghĩa bóng) tầm hiểu biết, trình độ, khả năng; phạm vi hoạt động\n=within someone's reach+ vừa trình độ ai\n=beyond someone's reach+ quá sức ai\n- khoảng rộng, dài rộng (đất...)\n=a reach of land+ một dải đất rộng\n- khúc sông (trông thấy được giữa hai chỗ ngoặt)\n- (hàng hải) đường chạy vát (của thuyền)\n*  ngoại động từ\n- (+ out) chìa ra, đưa (tay) ra\n=to reach out one's hand+ chìa tay ra\n=trees reach out their branches+ cây chìa cành ra\n- với tay, với lấy\n=to reach the ceiling+ với tới trần nhà\n=to reach down one's hat+ với lấy cái mũ xuống\n=reach me the dictionary, will you?+ anh làm ơn với giùm tôi cuốn từ điển\n- đến, tới, đi đến\n=your letter reached me yesterday+ thư anh đến tôi hôm qua\n=to reach an agreement+ đi đến một sự thoả thuận\n=to reach the age of sixty+ đến tuổi sáu mươi\n- có thể thấu tới, có thể ảnh hưởng đến\n=to reach someone's conscience+ thấu đến lương tâm ai\n*  nội động từ\n- trải ra tới, chạy dài tới\n=the garden reaches the rives+ khu vườn chạy dài đến tận con sông\n- với tay, với lấy\n=to reach out for something+ với lấy cái gì\n- đến, tới\n=as far as the eyes can reach+ xa tít, xa tới nơi tầm mắt có thể nhìn tới được\n=to reach to the bottom+ xuống tận đáy\n=the memory reaches back over many years+ ký ức nhớ lại được những năm xa xưa\n@Chuyên ngành kinh tế\n-mức đạt tới\n@Chuyên ngành kỹ thuật\n-bán kính ảnh hưởng\n-bán kính hoạt động\n-đạt được\n-đòn tay\n-miền\n-miền ảnh hưởng\n-phạm vi ảnh hưởng\n-rầm dọc\n-tầm nhìn xa\n-với\n@Lĩnh vực: xây dựng\n-đoạn kênh thẳng\n-đoạn sông\n-đoạn sông thẳng\n-khúc sông\n-khuỷu tay\n-sự với\n-tầm với/ đoạn kênh\n@Lĩnh vực: điện tử & viễn thông\n-gọi được (thuê bao)\n-liên lạc được
-
+reach	@reach /ri:tʃ/
+*  danh từ
+- sự chìa ra, sự trải ra
+- sự với (tay); tầm với
+=out of (beyond) reach+ ngoài tầm với, quá xa không với tới được
+=within reach of+ trong tầm tay, ở gần với tới được
+=within easy reach of the station+ ở gần nhà ga
+- (thể dục,thể thao) tầm duỗi tay (để đấm đối phương...)
+- (nghĩa bóng) tầm hiểu biết, trình độ, khả năng; phạm vi hoạt động
+=within someone's reach+ vừa trình độ ai
+=beyond someone's reach+ quá sức ai
+- khoảng rộng, dài rộng (đất...)
+=a reach of land+ một dải đất rộng
+- khúc sông (trông thấy được giữa hai chỗ ngoặt)
+- (hàng hải) đường chạy vát (của thuyền)
+*  ngoại động từ
+- (+ out) chìa ra, đưa (tay) ra
+=to reach out one's hand+ chìa tay ra
+=trees reach out their branches+ cây chìa cành ra
+- với tay, với lấy
+=to reach the ceiling+ với tới trần nhà
+=to reach down one's hat+ với lấy cái mũ xuống
+=reach me the dictionary, will you?+ anh làm ơn với giùm tôi cuốn từ điển
+- đến, tới, đi đến
+=your letter reached me yesterday+ thư anh đến tôi hôm qua
+=to reach an agreement+ đi đến một sự thoả thuận
+=to reach the age of sixty+ đến tuổi sáu mươi
+- có thể thấu tới, có thể ảnh hưởng đến
+=to reach someone's conscience+ thấu đến lương tâm ai
+*  nội động từ
+- trải ra tới, chạy dài tới
+=the garden reaches the rives+ khu vườn chạy dài đến tận con sông
+- với tay, với lấy
+=to reach out for something+ với lấy cái gì
+- đến, tới
+=as far as the eyes can reach+ xa tít, xa tới nơi tầm mắt có thể nhìn tới được
+=to reach to the bottom+ xuống tận đáy
+=the memory reaches back over many years+ ký ức nhớ lại được những năm xa xưa
+@Chuyên ngành kinh tế
+-mức đạt tới
+@Chuyên ngành kỹ thuật
+-bán kính ảnh hưởng
+-bán kính hoạt động
+-đạt được
+-đòn tay
+-miền
+-miền ảnh hưởng
+-phạm vi ảnh hưởng
+-rầm dọc
+-tầm nhìn xa
+-với
+@Lĩnh vực: xây dựng
+-đoạn kênh thẳng
+-đoạn sông
+-đoạn sông thẳng
+-khúc sông
+-khuỷu tay
+-sự với
+-tầm với/ đoạn kênh
+@Lĩnh vực: điện tử & viễn thông
+-gọi được (thuê bao)
+-liên lạc được

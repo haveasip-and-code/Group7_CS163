@@ -1,3 +1,3 @@
-adjuror
-	@adjuror\n- xem adjure
-
+adjuror	
+@adjuror
+- xem adjure

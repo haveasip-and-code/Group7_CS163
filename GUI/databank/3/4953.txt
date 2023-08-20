@@ -1,3 +1,32 @@
-be
-	@be /bi:/\n*  (bất qui tắc) nội động từ & trợ động từ (số ít was,  số nhiều were,  been)\n- thì, là\n=the earth is round+ quả đất (thì) tròn\n=he is a teacher+ anh ta là giáo viên\n- có, tồn tại, ở, sống\n=there is a concert today+ hôm nay có một buổi hoà nhạc\n=are you often in town?+ anh thường có ở tỉnh không\n=to be or not to be, that is the question+ sống hay là chết đây, đó là vấn đề\n- trở nên, trở thành\n=they'll be linguists in some years time+ vài năm nữa họ sẽ trở thành những nhà ngôn ngữ học\n- xảy ra, diễn ra\n=when is the wedding to be+ bao giờ đám cưới sẽ cử hành\n- giá\n=this book is five pence+ cuốn sách này giá năm xu\n- be to phải, định, sẽ\n=what time am I to come?+ mấy giờ tôi phải đến\n=he is to leave for Hanoi tomorrow+ ngày mai nó sẽ đi Hà nội\n- (+ động tính từ hiện tại) đang\n=they are doing their work+ họ đang làm việc của họ\n- (+ động tính từ quá khứ) bị, được\n=the boy is scolded by his mother+ đứa bé bị mẹ mắng\n=the house is being built+ ngôi nhà đang được xây\n!to have been\n- đã đi, đã đến\n=I've been to Peking once+ tôi đã đi Bắc kinh một lần\n=has anyone been during my absence?+ trong khi tôi đi vắng có ai đến không?\n=he's been and took my books+ (thông tục) cái thằng ấy đã đến lấy mất sách của mình\n!to be against\n- chống lại\n!to be for\n- tán thành, đứng về phía
-
+be	@be /bi:/
+*  (bất qui tắc) nội động từ & trợ động từ (số ít was,  số nhiều were,  been)
+- thì, là
+=the earth is round+ quả đất (thì) tròn
+=he is a teacher+ anh ta là giáo viên
+- có, tồn tại, ở, sống
+=there is a concert today+ hôm nay có một buổi hoà nhạc
+=are you often in town?+ anh thường có ở tỉnh không
+=to be or not to be, that is the question+ sống hay là chết đây, đó là vấn đề
+- trở nên, trở thành
+=they'll be linguists in some years time+ vài năm nữa họ sẽ trở thành những nhà ngôn ngữ học
+- xảy ra, diễn ra
+=when is the wedding to be+ bao giờ đám cưới sẽ cử hành
+- giá
+=this book is five pence+ cuốn sách này giá năm xu
+- be to phải, định, sẽ
+=what time am I to come?+ mấy giờ tôi phải đến
+=he is to leave for Hanoi tomorrow+ ngày mai nó sẽ đi Hà nội
+- (+ động tính từ hiện tại) đang
+=they are doing their work+ họ đang làm việc của họ
+- (+ động tính từ quá khứ) bị, được
+=the boy is scolded by his mother+ đứa bé bị mẹ mắng
+=the house is being built+ ngôi nhà đang được xây
+!to have been
+- đã đi, đã đến
+=I've been to Peking once+ tôi đã đi Bắc kinh một lần
+=has anyone been during my absence?+ trong khi tôi đi vắng có ai đến không?
+=he's been and took my books+ (thông tục) cái thằng ấy đã đến lấy mất sách của mình
+!to be against
+- chống lại
+!to be for
+- tán thành, đứng về phía

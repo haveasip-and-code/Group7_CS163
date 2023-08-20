@@ -1,3 +1,13 @@
-jamming
-	@Chuyên ngành kỹ thuật\n-gây nhiễu\n-sự chẹn\n-sự gây nhiễu\n-sự kẹt\n-sự làm tắc\n-sự phá rối\n-sự tắc nghẽn\n@Lĩnh vực: điện\n-phá nhiễu\n@Lĩnh vực: hóa học & vật liệu\n-sự làm kẹt
-
+jamming	
+@Chuyên ngành kỹ thuật
+-gây nhiễu
+-sự chẹn
+-sự gây nhiễu
+-sự kẹt
+-sự làm tắc
+-sự phá rối
+-sự tắc nghẽn
+@Lĩnh vực: điện
+-phá nhiễu
+@Lĩnh vực: hóa học & vật liệu
+-sự làm kẹt

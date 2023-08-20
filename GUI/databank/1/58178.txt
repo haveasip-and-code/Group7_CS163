@@ -1,3 +1,17 @@
-tuner
-	@tuner /'tju:nə/\n*  danh từ\n- người lên dây (pianô...)\n@Chuyên ngành kỹ thuật\n-bộ cộng hưởng\n@Lĩnh vực: toán & tin\n-bộ điều hưởng\n-thiết bị điều hướng\n@Lĩnh vực: ô tô\n-bộ dò đài (rađiô)\n-bộ phận dò sóng\n@Lĩnh vực: điện tử & viễn thông\n-nút chỉnh\n@Lĩnh vực: điện\n-phần cao tần\n@Lĩnh vực: xây dựng\n-phím điều chỉnh
-
+tuner	@tuner /'tju:nə/
+*  danh từ
+- người lên dây (pianô...)
+@Chuyên ngành kỹ thuật
+-bộ cộng hưởng
+@Lĩnh vực: toán & tin
+-bộ điều hưởng
+-thiết bị điều hướng
+@Lĩnh vực: ô tô
+-bộ dò đài (rađiô)
+-bộ phận dò sóng
+@Lĩnh vực: điện tử & viễn thông
+-nút chỉnh
+@Lĩnh vực: điện
+-phần cao tần
+@Lĩnh vực: xây dựng
+-phím điều chỉnh

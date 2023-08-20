@@ -1,3 +1,10 @@
-shorts
-	@shorts\n* danh từ, pl\n- quần sóoc (quần ngắn không đến đầu gối, mặc chơi thể thao hoặc vào mùa nóng)\n- <Mỹ> quần đùi của đàn ông\n@Chuyên ngành kinh tế\n-chứng khoán ngắn hạn\n-công trái ngắn hạn\n-số lượng còn thiếu\n@Chuyên ngành kỹ thuật\n-hạt quá cỡ
-
+shorts	@shorts
+* danh từ, pl
+- quần sóoc (quần ngắn không đến đầu gối, mặc chơi thể thao hoặc vào mùa nóng)
+- <Mỹ> quần đùi của đàn ông
+@Chuyên ngành kinh tế
+-chứng khoán ngắn hạn
+-công trái ngắn hạn
+-số lượng còn thiếu
+@Chuyên ngành kỹ thuật
+-hạt quá cỡ

@@ -1,3 +1,9 @@
-tuyere
-	@Chuyên ngành kỹ thuật\n-lỗ gió\n-ống gió\n-ống hút gió\n-vòi phun\n@Lĩnh vực: hóa học & vật liệu\n-mặt gió\n@Lĩnh vực: cơ khí & công trình\n-ống bễ (lò rèn)
-
+tuyere	@Chuyên ngành kỹ thuật
+-lỗ gió
+-ống gió
+-ống hút gió
+-vòi phun
+@Lĩnh vực: hóa học & vật liệu
+-mặt gió
+@Lĩnh vực: cơ khí & công trình
+-ống bễ (lò rèn)

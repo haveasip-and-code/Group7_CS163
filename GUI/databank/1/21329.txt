@@ -1,3 +1,40 @@
-flatten
-	@flatten /'flætn/\n*  ngoại động từ\n- dát mỏng, dát phẳng, làm bẹt ra, san phẳng\n- đánh ngã sóng soài\n*  nội động từ\n- trở nên phẳng bẹt\n- trở nên yên tĩnh, trở nên yên lặng, dịu lại\n=storm has flattened+ bâo đã ngớt\n- bay hơi, bay mùi, hả\n=this beer has flattened+ bia đã hả hơi\n!to flatten out\n- trải ra, trải phẳng\n- cho (máy bay) bay song song với mặt đất\n@Chuyên ngành kinh tế\n-bay hơi\n-bay mùi\n@Chuyên ngành kỹ thuật\n-dát mỏng\n-dát phẳng\n-kéo căng\n-làm bằng\n-làm bẹt\n-làm bẹt ra\n-san bằng\n-san phẳng\n@Lĩnh vực: xây dựng\n-bẹt ra\n-làm phẳng mái\n@Chuyên ngành kỹ thuật\n-dát mỏng\n-dát phẳng\n-kéo căng\n-làm bằng\n-làm bẹt\n-làm bẹt ra\n-san bằng\n-san phẳng\n@Lĩnh vực: xây dựng\n-bẹt ra\n-làm phẳng mái
-
+flatten	
+@flatten /'flætn/
+*  ngoại động từ
+- dát mỏng, dát phẳng, làm bẹt ra, san phẳng
+- đánh ngã sóng soài
+*  nội động từ
+- trở nên phẳng bẹt
+- trở nên yên tĩnh, trở nên yên lặng, dịu lại=storm has flattened
++ bâo đã ngớt
+- bay hơi, bay mùi, hả=this beer has flattened
++ bia đã hả hơi!to flatten out
+- trải ra, trải phẳng
+- cho (máy bay) bay song song với mặt đất
+@Chuyên ngành kinh tế
+-bay hơi
+-bay mùi
+@Chuyên ngành kỹ thuật
+-dát mỏng
+-dát phẳng
+-kéo căng
+-làm bằng
+-làm bẹt
+-làm bẹt ra
+-san bằng
+-san phẳng
+@Lĩnh vực: xây dựng
+-bẹt ra
+-làm phẳng mái
+@Chuyên ngành kỹ thuật
+-dát mỏng
+-dát phẳng
+-kéo căng
+-làm bằng
+-làm bẹt
+-làm bẹt ra
+-san bằng
+-san phẳng
+@Lĩnh vực: xây dựng
+-bẹt ra
+-làm phẳng mái

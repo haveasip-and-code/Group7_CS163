@@ -1,3 +1,4 @@
-multitracking
-	@Chuyên ngành kỹ thuật\n-đa nhiệm (vụ)\n@Lĩnh vực: toán & tin\n-đa tác (vụ)
-
+multitracking	@Chuyên ngành kỹ thuật
+-đa nhiệm (vụ)
+@Lĩnh vực: toán & tin
+-đa tác (vụ)

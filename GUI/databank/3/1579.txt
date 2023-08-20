@@ -1,3 +1,2 @@
-allocable
-	@allocable\n- xem allocate
-
+allocable	@allocable
+- xem allocate

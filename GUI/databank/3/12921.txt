@@ -1,3 +1,9 @@
-crystallite
-	@Chuyên ngành kinh tế\n-mầm tinh thể\n-vi tinh thể\n@Chuyên ngành kỹ thuật\n-vi tinh thể\n@Lĩnh vực: hóa học & vật liệu\n-mầm tinh thể\n@Lĩnh vực: điện lạnh\n-tinh thể hạt nhỏ
-
+crystallite	@Chuyên ngành kinh tế
+-mầm tinh thể
+-vi tinh thể
+@Chuyên ngành kỹ thuật
+-vi tinh thể
+@Lĩnh vực: hóa học & vật liệu
+-mầm tinh thể
+@Lĩnh vực: điện lạnh
+-tinh thể hạt nhỏ

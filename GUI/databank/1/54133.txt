@@ -1,3 +1,5 @@
-subnetwork
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mạng con\n@Lĩnh vực: toán & tin\n-mạng con, mạng phụ
-
+subnetwork	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-mạng con
+@Lĩnh vực: toán & tin
+-mạng con, mạng phụ

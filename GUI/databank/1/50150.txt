@@ -1,3 +1,24 @@
-shaker
-	@shaker /'ʃeikə/\n*  danh từ\n- người rung, người lắc\n- bình trộn rượu côctay; cốc trộn sữa trứng\n- (kỹ thuật) sàng lắc\n- (Shaker) Sêcơ (tín đồ của một giáo phái ở Mỹ)\n@Chuyên ngành kinh tế\n-băng tải lắc\n-cơ cấu xé vụn thuốc lá\n-sàng lắc\n-sàng rung\n@Chuyên ngành kỹ thuật\n-lắc máy\n-máy lắc\n-máy lắc điện từ\n-máy rung\n-sàng rung\n@Lĩnh vực: điện lạnh\n-bàn lắc, sàng lắc\n@Lĩnh vực: xây dựng\n-bàn rung lắc, sàng lắc\n-bệ rung\n-máy khuấy động\n-thiết bị khuấy động
-
+shaker	@shaker /'ʃeikə/
+*  danh từ
+- người rung, người lắc
+- bình trộn rượu côctay; cốc trộn sữa trứng
+- (kỹ thuật) sàng lắc
+- (Shaker) Sêcơ (tín đồ của một giáo phái ở Mỹ)
+@Chuyên ngành kinh tế
+-băng tải lắc
+-cơ cấu xé vụn thuốc lá
+-sàng lắc
+-sàng rung
+@Chuyên ngành kỹ thuật
+-lắc máy
+-máy lắc
+-máy lắc điện từ
+-máy rung
+-sàng rung
+@Lĩnh vực: điện lạnh
+-bàn lắc, sàng lắc
+@Lĩnh vực: xây dựng
+-bàn rung lắc, sàng lắc
+-bệ rung
+-máy khuấy động
+-thiết bị khuấy động

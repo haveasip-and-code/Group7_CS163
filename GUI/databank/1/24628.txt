@@ -1,3 +1,45 @@
-gutter
-	@gutter /'gʌtə/\n*  danh từ\n- máng nước, ống máng, máng xối (dưới mái nhà)\n- rânh nước (xung quanh nhà, hai bên đường phố...)\n- (nghĩa bóng) nơi bùn lầy nước đọng; cặn bã (xã hội)\n=the language of the gutter+ giọng du côn đểu cáng\n=the manners of the gutter+ tác phong du côn\n=to take the child out of the gutter; to raise the child from the gutter+ đưa đứa bé ra khỏi chốn bùn lầy nước đọng\n*  ngoại động từ\n- bắc máng nước\n- đào rãnh\n*  nội động từ\n- chảy thành rãnh\n- chảy (nến)\n@Chuyên ngành kinh tế\n-máng\n-rãnh\n@Chuyên ngành kỹ thuật\n-kênh\n-khe cột\n-khoảng trắng\n-lò dọc\n-lỗ tháo nước\n-lòng sông\n-máng\n-máng nước\n-máng nước mưa\n-máng thoát nước\n-máng tiêu nước\n-máng xối\n-mương\n-mương tiêu nước\n-rãnh\n-rãnh thoát nước\n@Lĩnh vực: xây dựng\n-khe thoát nước\n-ống xối\n-rãnh nước\n@Lĩnh vực: toán & tin\n-lề bên trong\n@Lĩnh vực: cơ khí & công trình\n-rãnh máng chảy\n@Lĩnh vực: ô tô\n-rãnh mòn
-
+gutter	
+@gutter /'gʌtə/
+*  danh từ
+- máng nước, ống máng, máng xối (dưới mái nhà)
+- rânh nước (xung quanh nhà, hai bên đường phố...)
+- (nghĩa bóng) nơi bùn lầy nước đọng; cặn bã (xã hội)=the language of the gutter
++ giọng du côn đểu cáng=the manners of the gutter
++ tác phong du côn=to take the child out of the gutter; to raise the child from the gutter
++ đưa đứa bé ra khỏi chốn bùn lầy nước đọng
+*  ngoại động từ
+- bắc máng nước
+- đào rãnh
+*  nội động từ
+- chảy thành rãnh
+- chảy (nến)
+@Chuyên ngành kinh tế
+-máng
+-rãnh
+@Chuyên ngành kỹ thuật
+-kênh
+-khe cột
+-khoảng trắng
+-lò dọc
+-lỗ tháo nước
+-lòng sông
+-máng
+-máng nước
+-máng nước mưa
+-máng thoát nước
+-máng tiêu nước
+-máng xối
+-mương
+-mương tiêu nước
+-rãnh
+-rãnh thoát nước
+@Lĩnh vực: xây dựng
+-khe thoát nước
+-ống xối
+-rãnh nước
+@Lĩnh vực: toán & tin
+-lề bên trong
+@Lĩnh vực: cơ khí & công trình
+-rãnh máng chảy
+@Lĩnh vực: ô tô
+-rãnh mòn

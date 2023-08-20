@@ -1,3 +1,13 @@
-subtotal
-	@subtotal\n* danh từ\n- tổng số phụ (tổng số của một loạt con số nằm trong một nhóm con số lớn hơn)\n@Chuyên ngành kinh tế\n-cộng đầu kỳ và tăng\n-cộng từng phần (trước khi tổng cộng)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thực hiện tổng con\n-tổng con\n-tổng số phụ\n-tổng số riêng phần\n-tổng từng phần
-
+subtotal	@subtotal
+* danh từ
+- tổng số phụ (tổng số của một loạt con số nằm trong một nhóm con số lớn hơn)
+@Chuyên ngành kinh tế
+-cộng đầu kỳ và tăng
+-cộng từng phần (trước khi tổng cộng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thực hiện tổng con
+-tổng con
+-tổng số phụ
+-tổng số riêng phần
+-tổng từng phần

@@ -1,3 +1,9 @@
-sunspot
-	@sunspot\n* danh từ\n- vệt đen ở mặt trời\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-nhật ban trống quấn (bảng pin mặt trời)\n-vệt đen mặt trời\n@Lĩnh vực: điện lạnh\n-vết (đen) (của) mặt trời
-
+sunspot	@sunspot
+* danh từ
+- vệt đen ở mặt trời
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-nhật ban trống quấn (bảng pin mặt trời)
+-vệt đen mặt trời
+@Lĩnh vực: điện lạnh
+-vết (đen) (của) mặt trời

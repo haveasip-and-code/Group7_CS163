@@ -1,3 +1,4 @@
-sheetlike
-	@Chuyên ngành kỹ thuật\n-có lớp\n-dạng phiến\n-dạng tấm
-
+sheetlike	@Chuyên ngành kỹ thuật
+-có lớp
+-dạng phiến
+-dạng tấm

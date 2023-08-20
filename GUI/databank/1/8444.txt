@@ -1,3 +1,7 @@
-celebrity
-	@celebrity /si'lebriti/\n*  danh từ\n- sự nổi danh, sự nổi tiếng, danh tiếng\n- nhân vật có danh tiếng, người nổi danh\n- (định ngữ) (thuộc) nhân vật có danh tiếng\n=celebrity meeting+ cuộc gặp gỡ của những nhân vật có danh tiếng
-
+celebrity	
+@celebrity /si'lebriti/
+*  danh từ
+- sự nổi danh, sự nổi tiếng, danh tiếng
+- nhân vật có danh tiếng, người nổi danh
+- (định ngữ) (thuộc) nhân vật có danh tiếng=celebrity meeting
++ cuộc gặp gỡ của những nhân vật có danh tiếng

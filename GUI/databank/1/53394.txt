@@ -1,3 +1,6 @@
-stipend
-	@stipend /'staipend/\n*  tính từ\n- (thực vật học) lương, tiền thù lao thường kỳ (mục sư, quan toà...)\n@Chuyên ngành kinh tế\n-lương tiền thù lao thường kỳ\n-lương, lương bổng (của một giáo sĩ, một thẩm phán)
-
+stipend	@stipend /'staipend/
+*  tính từ
+- (thực vật học) lương, tiền thù lao thường kỳ (mục sư, quan toà...)
+@Chuyên ngành kinh tế
+-lương tiền thù lao thường kỳ
+-lương, lương bổng (của một giáo sĩ, một thẩm phán)

@@ -1,3 +1,11 @@
-windshield
-	@windshield\n* danh từ\n- <Mỹ> kính chắn gió xe hơi\n- kính chắn gió xe máy\n@Chuyên ngành kỹ thuật\n-kính chắn gió\n-màn chắn gió\n-màn gió\n-tấm chắn gió\n@Lĩnh vực: ô tô\n-kính chắn gió xe hơi (kính trước)
-
+windshield	@windshield
+* danh từ
+- <Mỹ> kính chắn gió xe hơi
+- kính chắn gió xe máy
+@Chuyên ngành kỹ thuật
+-kính chắn gió
+-màn chắn gió
+-màn gió
+-tấm chắn gió
+@Lĩnh vực: ô tô
+-kính chắn gió xe hơi (kính trước)

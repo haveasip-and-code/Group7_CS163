@@ -1,3 +1,56 @@
-package
-	@package /'pækidʤ/\n*  danh từ\n- gói đồ; kiện hàng; hộp để đóng hàng\n- sự đóng gói hàng\n- (từ Mỹ,nghĩa Mỹ) chương trình quảng cáo hoàn chỉnh (trên đài truyền thanh, đài truyền hình)\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) món\n=that girl is a pretty package+ cô ả kia là một món xinh\n*  ngoại động từ\n- đóng gói, đóng kiện, xếp vào bao bì\n- (từ Mỹ,nghĩa Mỹ) trình bày và sản xuất bao bì cho (một thứ hàng)\n- (từ Mỹ,nghĩa Mỹ) kết hợp (gộp) (các bộ phận) thành một đơn vị\n@Chuyên ngành kinh tế\n-bao bì\n-bao gói\n-bỏ bao\n-bưu kiện\n-đóng gói\n-đóng kiện\n-đóng thùng\n-gói\n-kiện\n-mua trọn\n-phí bao bì\n-sự mua bao\n-thiết kế và làm bao bì\n-trình bày bao bì cho sản phẩm\n-xếp bao bì\n-xếp vào bao bì\n@Chuyên ngành kỹ thuật\n-bó\n-bộ\n-bộ chương trình\n-bó sợi\n-gói\n-khối\n-ống sợi\n-phí tổn đóng gói\n-sự bao gói\n-sự đóng bánh\n-sự đóng gói\n-sự khoanh vùng\n@Lĩnh vực: điện\n-bó (bit nối dữ liệu)\n-chương trình chuyên dụng\n-kiện hàng\n@Lĩnh vực: toán & tin\n-bộ phần mềm\n-bó, gói\n@Lĩnh vực: dệt may\n-bọc sợi\n-búp sợi\n-cuộn sợi\n-kiện (hàng sợi)\n@Lĩnh vực: xây dựng\n-gói thầu\n-thiết bị đóng gói
-
+package	@package /'pækidʤ/
+*  danh từ
+- gói đồ; kiện hàng; hộp để đóng hàng
+- sự đóng gói hàng
+- (từ Mỹ,nghĩa Mỹ) chương trình quảng cáo hoàn chỉnh (trên đài truyền thanh, đài truyền hình)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) món
+=that girl is a pretty package+ cô ả kia là một món xinh
+*  ngoại động từ
+- đóng gói, đóng kiện, xếp vào bao bì
+- (từ Mỹ,nghĩa Mỹ) trình bày và sản xuất bao bì cho (một thứ hàng)
+- (từ Mỹ,nghĩa Mỹ) kết hợp (gộp) (các bộ phận) thành một đơn vị
+@Chuyên ngành kinh tế
+-bao bì
+-bao gói
+-bỏ bao
+-bưu kiện
+-đóng gói
+-đóng kiện
+-đóng thùng
+-gói
+-kiện
+-mua trọn
+-phí bao bì
+-sự mua bao
+-thiết kế và làm bao bì
+-trình bày bao bì cho sản phẩm
+-xếp bao bì
+-xếp vào bao bì
+@Chuyên ngành kỹ thuật
+-bó
+-bộ
+-bộ chương trình
+-bó sợi
+-gói
+-khối
+-ống sợi
+-phí tổn đóng gói
+-sự bao gói
+-sự đóng bánh
+-sự đóng gói
+-sự khoanh vùng
+@Lĩnh vực: điện
+-bó (bit nối dữ liệu)
+-chương trình chuyên dụng
+-kiện hàng
+@Lĩnh vực: toán & tin
+-bộ phần mềm
+-bó, gói
+@Lĩnh vực: dệt may
+-bọc sợi
+-búp sợi
+-cuộn sợi
+-kiện (hàng sợi)
+@Lĩnh vực: xây dựng
+-gói thầu
+-thiết bị đóng gói

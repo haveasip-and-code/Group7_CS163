@@ -1,3 +1,9 @@
-nutritional
-	@nutritional\n* tính từ\n- dinh dưỡng\n@Chuyên ngành kinh tế\n-bổ\n-dinh dưỡng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc dinh đưỡng
-
+nutritional	@nutritional
+* tính từ
+- dinh dưỡng
+@Chuyên ngành kinh tế
+-bổ
+-dinh dưỡng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc dinh đưỡng

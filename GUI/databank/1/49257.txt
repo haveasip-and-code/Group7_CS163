@@ -1,3 +1,4 @@
-screeding
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự san bằng bêtông\n-sự xoa phẳng
-
+screeding	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự san bằng bêtông
+-sự xoa phẳng

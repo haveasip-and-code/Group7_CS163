@@ -1,3 +1,12 @@
-parametric
-	@parametric /,pærə'metrik/\n*  tính từ\n- (toán học) (thuộc) thông số, (thuộc) tham số, (thuộc) tham biến\n=parametric equation+ phương trình tham số\n=parametric problem+ bài toán tham số\n@Chuyên ngành kỹ thuật\n-tham số\n-thông số\n@Lĩnh vực: y học\n-ở gần tử cung, cận tử cung\n@Lĩnh vực: toán & tin\n-thuộc tham số
-
+parametric	@parametric /,pærə'metrik/
+*  tính từ
+- (toán học) (thuộc) thông số, (thuộc) tham số, (thuộc) tham biến
+=parametric equation+ phương trình tham số
+=parametric problem+ bài toán tham số
+@Chuyên ngành kỹ thuật
+-tham số
+-thông số
+@Lĩnh vực: y học
+-ở gần tử cung, cận tử cung
+@Lĩnh vực: toán & tin
+-thuộc tham số

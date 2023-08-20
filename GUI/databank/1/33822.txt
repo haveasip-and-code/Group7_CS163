@@ -1,3 +1,18 @@
-masonry
-	@masonry /'meisnri/\n*  danh từ\n- nghề thợ nề\n- công trình nề, phần xây nề (trong một cái nhà)\n@Chuyên ngành kỹ thuật\n-khối xây\n-khối xây gạch\n-nghề nề\n-sự xây tường\n-tường\n@Lĩnh vực: toán & tin\n-công trình nề\n-khối xây nề\n-sự xây nề\n@Lĩnh vực: xây dựng\n-công trình xây dựng\n-khối xây đá\n-nghề xây
-
+masonry	@masonry /'meisnri/
+*  danh từ
+- nghề thợ nề
+- công trình nề, phần xây nề (trong một cái nhà)
+@Chuyên ngành kỹ thuật
+-khối xây
+-khối xây gạch
+-nghề nề
+-sự xây tường
+-tường
+@Lĩnh vực: toán & tin
+-công trình nề
+-khối xây nề
+-sự xây nề
+@Lĩnh vực: xây dựng
+-công trình xây dựng
+-khối xây đá
+-nghề xây

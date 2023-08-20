@@ -1,3 +1,7 @@
-narration
-	@narration /næ'reiʃn/\n*  danh từ\n- sự kể chuyện, sự tường thuật, sự thuật lại\n- chuyện kể, bài tường thuật\n@Chuyên ngành kinh tế\n-dẫn giải\n-thuyết trình
-
+narration	@narration /næ'reiʃn/
+*  danh từ
+- sự kể chuyện, sự tường thuật, sự thuật lại
+- chuyện kể, bài tường thuật
+@Chuyên ngành kinh tế
+-dẫn giải
+-thuyết trình

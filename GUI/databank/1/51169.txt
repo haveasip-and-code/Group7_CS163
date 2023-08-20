@@ -1,3 +1,18 @@
-slew
-	@slew /slu:/\n*  danh từ ((cũng) slue)\n- vũng bùn, chổ bùn lầy, bãi lầy ((cũng) slough)\n- (thông tục) lô, đống, số lượng lớn\n- sự quay, sự xoay; sự vặn\n*  ngoại động từ ((cũng) slue)\n- quay, xoay; vặn (vật gì)\n=to slew round+ quay (vật gì) quanh trục\n*  thời quá khứ của slay\n@Chuyên ngành kỹ thuật\n-quay\n-sự quay\n-sự xoay\n-xoay\n@Lĩnh vực: toán & tin\n-sự nhảy, nhảy (giấy)\n@Lĩnh vực: điện tử & viễn thông\n-sự vận
-
+slew	@slew /slu:/
+*  danh từ ((cũng) slue)
+- vũng bùn, chổ bùn lầy, bãi lầy ((cũng) slough)
+- (thông tục) lô, đống, số lượng lớn
+- sự quay, sự xoay; sự vặn
+*  ngoại động từ ((cũng) slue)
+- quay, xoay; vặn (vật gì)
+=to slew round+ quay (vật gì) quanh trục
+*  thời quá khứ của slay
+@Chuyên ngành kỹ thuật
+-quay
+-sự quay
+-sự xoay
+-xoay
+@Lĩnh vực: toán & tin
+-sự nhảy, nhảy (giấy)
+@Lĩnh vực: điện tử & viễn thông
+-sự vận

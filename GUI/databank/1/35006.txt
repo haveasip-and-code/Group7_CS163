@@ -1,3 +1,5 @@
-minuend
-	@minuend\n- số bị trừ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-số bị trừ
-
+minuend	@minuend
+- số bị trừ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-số bị trừ

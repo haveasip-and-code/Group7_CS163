@@ -1,3 +1,2 @@
-sockdolager
-	@sockdolager\n- Cách viết khác : sockdologer
-
+sockdolager	@sockdolager
+- Cách viết khác : sockdologer

@@ -1,3 +1,2 @@
-publishable
-	@publishable\n- xem publish
-
+publishable	@publishable
+- xem publish

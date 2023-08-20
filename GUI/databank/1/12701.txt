@@ -1,3 +1,6 @@
-critic
-	@critic /'kritik/\n*  danh từ\n- nhà phê bình (văn nghệ)\n=a literary critic+ nhà phê bình văn học\n- người chỉ trích
-
+critic	
+@critic /'kritik/
+*  danh từ
+- nhà phê bình (văn nghệ)=a literary critic
++ nhà phê bình văn học
+- người chỉ trích

@@ -1,3 +1,5 @@
-fastenings
-	@Chuyên ngành kỹ thuật\n-cái kẹp\n@Chuyên ngành kỹ thuật\n-cái kẹp
-
+fastenings	
+@Chuyên ngành kỹ thuật
+-cái kẹp
+@Chuyên ngành kỹ thuật
+-cái kẹp

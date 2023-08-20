@@ -1,3 +1,25 @@
-mute
-	@mute /mju:t/\n*  tính từ\n- câm, thầm lặng, lặng thinh, ngầm, không nói được nên lời, im hơi lặng tiếng\n=to stand mute+ đứng lặng thinh\n=in mute love+ trong tình yêu thầm lặng\n=mute e+ e câm\n!to stand mute of malice\n- (pháp lý) khăng khăng từ chối không chịu biện bạch\n*  danh từ\n- người câm\n- (sân khấu) vai tuồng câm\n- (ngôn ngữ học) nguyên âm câm; phụ âm câm\n- người đi đưa ma thuê; người khóc mướn\n- người đầy tớ câm\n- (âm nhạc) cái chặn tiếng\n*  ngoại động từ\n- (âm nhạc) chặn tiếng\n- (âm nhạc) lắp cái chặn tiếng\n- (từ Mỹ,nghĩa Mỹ) làm câm\n*  nội động từ\n- ỉa (chim)\n@Chuyên ngành kỹ thuật\n-câm\n@Lĩnh vực: điện tử & viễn thông\n-sự im lặng
-
+mute	@mute /mju:t/
+*  tính từ
+- câm, thầm lặng, lặng thinh, ngầm, không nói được nên lời, im hơi lặng tiếng
+=to stand mute+ đứng lặng thinh
+=in mute love+ trong tình yêu thầm lặng
+=mute e+ e câm
+!to stand mute of malice
+- (pháp lý) khăng khăng từ chối không chịu biện bạch
+*  danh từ
+- người câm
+- (sân khấu) vai tuồng câm
+- (ngôn ngữ học) nguyên âm câm; phụ âm câm
+- người đi đưa ma thuê; người khóc mướn
+- người đầy tớ câm
+- (âm nhạc) cái chặn tiếng
+*  ngoại động từ
+- (âm nhạc) chặn tiếng
+- (âm nhạc) lắp cái chặn tiếng
+- (từ Mỹ,nghĩa Mỹ) làm câm
+*  nội động từ
+- ỉa (chim)
+@Chuyên ngành kỹ thuật
+-câm
+@Lĩnh vực: điện tử & viễn thông
+-sự im lặng

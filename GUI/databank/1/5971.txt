@@ -1,3 +1,6 @@
-blocks
-	@Chuyên ngành kỹ thuật\n-cục\n-đá khối\n-địa khối\n-tảng
-
+blocks	
+@Chuyên ngành kỹ thuật
+-cục
+-đá khối
+-địa khối
+-tảng

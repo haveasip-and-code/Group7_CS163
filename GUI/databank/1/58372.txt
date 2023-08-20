@@ -1,3 +1,49 @@
-type
-	@type /taip/\n*  danh từ\n- kiểu mẫu\n=a fine type of patriotism+ kiểu mẫu đẹp đẽ của tinh thần yêu nước\n- kiểu\n=Nordic type+ kiểu người Bắc Âu\n- chữ in\n=printed in large type+ in chữ lớn\n=to be in type+ sẵn sàng đưa in\n=to set type+ sắp chữ\n- (sinh vật học) đại diện điển hình (của một nhóm phân loại)\n=type genus+ giống điển hình của họ\n*  động từ\n- đánh máy\n=to type a letter+ đánh máy một bức thư\n=to type well+ đánh máy giỏi\n@Chuyên ngành kinh tế\n-cỡ loại\n-con chữ (dùng để in hoặc dùng trong máy đánh chữ)\n-con chữ (thường dùng để in hoặc dùng trong máy đánh chữ)\n-đánh máy\n-điển hình\n-hình thức\n-kiểu\n-kiểu loại tiêu biểu\n-loại\n-mẫu\n-số cỡ\n@Chuyên ngành kỹ thuật\n-đánh máy\n-đánh máy chữ\n-gõ\n-kiểu\n-kiểu chữ\n-làm bản khắc\n-loại\n-loại con chữ\n-mẫu\n-mô hình\n@Lĩnh vực: toán & tin\n-chữ in\n-phông chữ\n@Lĩnh vực: điện lạnh\n-con chữ đúc\n-đánh chữ\n@Lĩnh vực: hóa học & vật liệu\n-kiểu loại\n@Lĩnh vực: y học\n-kiểu, mẫu, loại
-
+type	@type /taip/
+*  danh từ
+- kiểu mẫu
+=a fine type of patriotism+ kiểu mẫu đẹp đẽ của tinh thần yêu nước
+- kiểu
+=Nordic type+ kiểu người Bắc Âu
+- chữ in
+=printed in large type+ in chữ lớn
+=to be in type+ sẵn sàng đưa in
+=to set type+ sắp chữ
+- (sinh vật học) đại diện điển hình (của một nhóm phân loại)
+=type genus+ giống điển hình của họ
+*  động từ
+- đánh máy
+=to type a letter+ đánh máy một bức thư
+=to type well+ đánh máy giỏi
+@Chuyên ngành kinh tế
+-cỡ loại
+-con chữ (dùng để in hoặc dùng trong máy đánh chữ)
+-con chữ (thường dùng để in hoặc dùng trong máy đánh chữ)
+-đánh máy
+-điển hình
+-hình thức
+-kiểu
+-kiểu loại tiêu biểu
+-loại
+-mẫu
+-số cỡ
+@Chuyên ngành kỹ thuật
+-đánh máy
+-đánh máy chữ
+-gõ
+-kiểu
+-kiểu chữ
+-làm bản khắc
+-loại
+-loại con chữ
+-mẫu
+-mô hình
+@Lĩnh vực: toán & tin
+-chữ in
+-phông chữ
+@Lĩnh vực: điện lạnh
+-con chữ đúc
+-đánh chữ
+@Lĩnh vực: hóa học & vật liệu
+-kiểu loại
+@Lĩnh vực: y học
+-kiểu, mẫu, loại

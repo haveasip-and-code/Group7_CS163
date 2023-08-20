@@ -1,3 +1,7 @@
-ecosphere
-	@ecosphere\n* danh từ\n- sinh quyển\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sinh khí quyển
-
+ecosphere	
+@ecosphere
+* danh từ
+- sinh quyển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-sinh khí quyển

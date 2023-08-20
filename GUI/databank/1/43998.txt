@@ -1,3 +1,2 @@
-promiser
-	@promiser\n- xem promise
-
+promiser	@promiser
+- xem promise

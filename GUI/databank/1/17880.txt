@@ -1,3 +1,43 @@
-embedding
-	@embedding\n* danh từ\n- sự đưa vào, sự gắn vào\n- (hoá học) tạp chất\n@Chuyên ngành kỹ thuật\n-gắn vào\n-nhúng\n-sự ấn lõm\n-sự bịt\n-sự đặt vào\n-sự gắn\n-sự gắn vào\n-sự kết bao\n-sự nhúng\n@Lĩnh vực: toán & tin\n-phép nhúng\n-sự lồng vào\n@Lĩnh vực: xây dựng\n-sự chôn móng\n-sự đặt móng\n-vùi\n@Lĩnh vực: y học\n-sự cố định mô\n@Chuyên ngành kỹ thuật\n-gắn vào\n-nhúng\n-sự ấn lõm\n-sự bịt\n-sự đặt vào\n-sự gắn\n-sự gắn vào\n-sự kết bao\n-sự nhúng\n@Lĩnh vực: toán & tin\n-phép nhúng\n-sự lồng vào\n@Lĩnh vực: xây dựng\n-sự chôn móng\n-sự đặt móng\n-vùi\n@Lĩnh vực: y học\n-sự cố định mô
-
+embedding	
+@embedding
+* danh từ
+- sự đưa vào, sự gắn vào
+- (hoá học) tạp chất
+@Chuyên ngành kỹ thuật
+-gắn vào
+-nhúng
+-sự ấn lõm
+-sự bịt
+-sự đặt vào
+-sự gắn
+-sự gắn vào
+-sự kết bao
+-sự nhúng
+@Lĩnh vực: toán & tin
+-phép nhúng
+-sự lồng vào
+@Lĩnh vực: xây dựng
+-sự chôn móng
+-sự đặt móng
+-vùi
+@Lĩnh vực: y học
+-sự cố định mô
+@Chuyên ngành kỹ thuật
+-gắn vào
+-nhúng
+-sự ấn lõm
+-sự bịt
+-sự đặt vào
+-sự gắn
+-sự gắn vào
+-sự kết bao
+-sự nhúng
+@Lĩnh vực: toán & tin
+-phép nhúng
+-sự lồng vào
+@Lĩnh vực: xây dựng
+-sự chôn móng
+-sự đặt móng
+-vùi
+@Lĩnh vực: y học
+-sự cố định mô

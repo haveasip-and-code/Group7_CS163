@@ -1,3 +1,3 @@
-factorable
-	@factorable\n- phân tích được (thành nhân tử)
-
+factorable	
+@factorable
+- phân tích được (thành nhân tử)

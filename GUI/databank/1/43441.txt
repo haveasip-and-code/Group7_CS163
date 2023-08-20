@@ -1,3 +1,114 @@
-press
-	@press /pres/\n*  danh từ\n- sự ép, sự nén, sự bóp, sự ấn\n=a press of the hand+ cái bóp tay\n=to give something a slight press+ bóp nhẹ cái gì, ấn nhẹ cái gì\n- sự đông đúc, sự chen chúc; đám đông chen chúc, đám đông xô lấn\n=to be lost in the press+ bị lạc trong đám đông chen chúc\n- sự thúc ép, sự hối hả, sự tất bật\n=there is a great press of business+ công việc hết sức hối hả tất bật\n- cuộc hỗn chiến, cuộc loạn đả (trong một trận đánh nhau)\n- cái ép; máy ép; máy nén bàn là\n=hydraulic press+ máy ép dùng sức nước\n- máy in ((cũng) orinting press); nhà máy in; thuật in; sự in\n=in the press+ đang in (sách...)\n=to send (go, come) to [the] press+ đưa in, đem in\n=to correct the press+ chữa những lỗi in\n=to sign for press+ ký cho in\n- báo chí\n=freedom of the press+ quyền tự do báo chí\n=to be favourably noticed by the press; to have a good press+ được báo chí ca ngợi\n- tủ đóng vào tường; tủ đứng nhiều ngăn (để quần áo, sách vở...)\n- (hàng hải) sự căng hết\n=press of salt (canvas)+ sự căng hết buồm\n*  ngoại động từ\n- ép, nép, bóp, ấn\n=to press grapes+ ép nho\n=to press juice from (out of) orange+ ép (vắt) cam lấy nước\n=to press the trigger of a gun+ bóp cò súng\n=to press the button+ ấn nút, bấm nút (cho máy chạy, bấm chuông điện...); (nghĩa bóng) khởi đầu, quyết định\n- là\n=to press clothes+ là quần áo\n- ép chặt, ghì chặt, siết chặt, ôm chặt, bóp chặt\n=to press someone's hand+ siết chặt tay ai\n=to press someone to one's heart+ ôm chặt ai vào lòng\n- thúc ép, thúc bách, dồn ép\n=to press an attack+ dồn dập tấn công\n=to press the enemy hard+ dồn ép kẻ địch\n=to be hard pressed+ bị thúc ép; bị lâm vào cảnh khó khăn o ép\n=to be pressed with questions+ bị hỏi dồn\n- thúc giục, giục giã, khẩn hoản, nài ép (ai làm gì)\n=to press someone for something+ nài ép ai lấy cái gì\n=to press someone to do something+ thúc giục ai làm cái gì\n=to press a gilf upon someone+ nài ép ai phải nhận món quà tặng\n=to press an opinion upon someone+ ép ai phải theo ý kiến\n- nhấn mạnh\n=to press the question+ nhấn mạnh vào vấn đề\n- đè nặng\n=to press the mind+ đè nặng lên tâm trí\n*  nội động từ\n- ép, bóp, ấn\n=to press on a button+ ấn nút (điện...)\n- xúm xít, túm tụm, chen lấn, quây chặt lấy\n=to press round someone+ xúm xít quanh ai, quây chặt lấy ai\n- thúc giục, thúc ép, thúc bách\n=time presses+ thì giờ thúc bách\n=nothing remains that presses+ không còn có gì thúc bách, không còn lại việc gì phải làm gấp\n- hối hả, vội vã, tất bật\n=to press through a crowd+ hối hả chen lấn qua đám đông\n- (+ on,  upon) đè nặng\n=to press upon one's mind+ đè nặng lên tâm trí\n!to press down\n- ấn xuống, ép xuống, đè xuống\n!to press for\n- thúc giục, thúc bách, đòi hỏi thúc bách\n=to be pressed for money+ túng quẫn\n=to be pressed for time+ thiếu thì giờ, thì giờ eo hẹp\n!to press fowrad\n- hối hả, vội vã\n!to press on\n!to press foward\n- thúc giục, giục giã, thúc gấp\n!to press out\n- ép ra, vắt ra\n!to press up\n- xúm xít lại, túm tụm lại, quây chặt lại\n*  danh từ\n- (sử học) sự bắt lính\n*  ngoại động từ\n- (sử học) bắt (lính); (nghĩa bóng) lấy, tước đoạt\n=to press something into the service of...+ tước đoạt cái gì để dùng cho...\n- trưng dụng (ngựa...)\n@Chuyên ngành kinh tế\n-áp lực\n-áp suất\n-bã ép\n-ép\n-máy ép\n-nén\n-sự nén\n@Chuyên ngành kỹ thuật\n-ấn\n-ép\n-ép đè kim (vải)\n-ép là\n-ép vắt\n-giập\n-nén\n-máy dập\n-máy đập\n-máy ép\n-máy giập\n-máy in\n-máy nén\n-máy nén ép\n-sự dập\n-sự ép\n-sự nén\n-súng phun\n@Lĩnh vực: cơ khí & công trình\n-đè\n@Lĩnh vực: toán & tin\n-nhấn, ấn, bấm (phím)\n@Lĩnh vực: xây dựng\n-sự ấn
-
+press	@press /pres/
+*  danh từ
+- sự ép, sự nén, sự bóp, sự ấn
+=a press of the hand+ cái bóp tay
+=to give something a slight press+ bóp nhẹ cái gì, ấn nhẹ cái gì
+- sự đông đúc, sự chen chúc; đám đông chen chúc, đám đông xô lấn
+=to be lost in the press+ bị lạc trong đám đông chen chúc
+- sự thúc ép, sự hối hả, sự tất bật
+=there is a great press of business+ công việc hết sức hối hả tất bật
+- cuộc hỗn chiến, cuộc loạn đả (trong một trận đánh nhau)
+- cái ép; máy ép; máy nén bàn là
+=hydraulic press+ máy ép dùng sức nước
+- máy in ((cũng) orinting press); nhà máy in; thuật in; sự in
+=in the press+ đang in (sách...)
+=to send (go, come) to [the] press+ đưa in, đem in
+=to correct the press+ chữa những lỗi in
+=to sign for press+ ký cho in
+- báo chí
+=freedom of the press+ quyền tự do báo chí
+=to be favourably noticed by the press; to have a good press+ được báo chí ca ngợi
+- tủ đóng vào tường; tủ đứng nhiều ngăn (để quần áo, sách vở...)
+- (hàng hải) sự căng hết
+=press of salt (canvas)+ sự căng hết buồm
+*  ngoại động từ
+- ép, nép, bóp, ấn
+=to press grapes+ ép nho
+=to press juice from (out of) orange+ ép (vắt) cam lấy nước
+=to press the trigger of a gun+ bóp cò súng
+=to press the button+ ấn nút, bấm nút (cho máy chạy, bấm chuông điện...); (nghĩa bóng) khởi đầu, quyết định
+- là
+=to press clothes+ là quần áo
+- ép chặt, ghì chặt, siết chặt, ôm chặt, bóp chặt
+=to press someone's hand+ siết chặt tay ai
+=to press someone to one's heart+ ôm chặt ai vào lòng
+- thúc ép, thúc bách, dồn ép
+=to press an attack+ dồn dập tấn công
+=to press the enemy hard+ dồn ép kẻ địch
+=to be hard pressed+ bị thúc ép; bị lâm vào cảnh khó khăn o ép
+=to be pressed with questions+ bị hỏi dồn
+- thúc giục, giục giã, khẩn hoản, nài ép (ai làm gì)
+=to press someone for something+ nài ép ai lấy cái gì
+=to press someone to do something+ thúc giục ai làm cái gì
+=to press a gilf upon someone+ nài ép ai phải nhận món quà tặng
+=to press an opinion upon someone+ ép ai phải theo ý kiến
+- nhấn mạnh
+=to press the question+ nhấn mạnh vào vấn đề
+- đè nặng
+=to press the mind+ đè nặng lên tâm trí
+*  nội động từ
+- ép, bóp, ấn
+=to press on a button+ ấn nút (điện...)
+- xúm xít, túm tụm, chen lấn, quây chặt lấy
+=to press round someone+ xúm xít quanh ai, quây chặt lấy ai
+- thúc giục, thúc ép, thúc bách
+=time presses+ thì giờ thúc bách
+=nothing remains that presses+ không còn có gì thúc bách, không còn lại việc gì phải làm gấp
+- hối hả, vội vã, tất bật
+=to press through a crowd+ hối hả chen lấn qua đám đông
+- (+ on,  upon) đè nặng
+=to press upon one's mind+ đè nặng lên tâm trí
+!to press down
+- ấn xuống, ép xuống, đè xuống
+!to press for
+- thúc giục, thúc bách, đòi hỏi thúc bách
+=to be pressed for money+ túng quẫn
+=to be pressed for time+ thiếu thì giờ, thì giờ eo hẹp
+!to press fowrad
+- hối hả, vội vã
+!to press on
+!to press foward
+- thúc giục, giục giã, thúc gấp
+!to press out
+- ép ra, vắt ra
+!to press up
+- xúm xít lại, túm tụm lại, quây chặt lại
+*  danh từ
+- (sử học) sự bắt lính
+*  ngoại động từ
+- (sử học) bắt (lính); (nghĩa bóng) lấy, tước đoạt
+=to press something into the service of...+ tước đoạt cái gì để dùng cho...
+- trưng dụng (ngựa...)
+@Chuyên ngành kinh tế
+-áp lực
+-áp suất
+-bã ép
+-ép
+-máy ép
+-nén
+-sự nén
+@Chuyên ngành kỹ thuật
+-ấn
+-ép
+-ép đè kim (vải)
+-ép là
+-ép vắt
+-giập
+-nén
+-máy dập
+-máy đập
+-máy ép
+-máy giập
+-máy in
+-máy nén
+-máy nén ép
+-sự dập
+-sự ép
+-sự nén
+-súng phun
+@Lĩnh vực: cơ khí & công trình
+-đè
+@Lĩnh vực: toán & tin
+-nhấn, ấn, bấm (phím)
+@Lĩnh vực: xây dựng
+-sự ấn

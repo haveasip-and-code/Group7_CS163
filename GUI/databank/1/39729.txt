@@ -1,3 +1,2 @@
-pargeting
-	@pargeting\n- xem parget
-
+pargeting	@pargeting
+- xem parget

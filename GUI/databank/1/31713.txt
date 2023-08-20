@@ -1,3 +1,6 @@
-layup
-	@Chuyên ngành kỹ thuật\n-dàn\n-sự ép ráp\n@Chuyên ngành kỹ thuật\n-dàn\n-sự ép ráp
-
+layup	@Chuyên ngành kỹ thuật
+-dàn
+-sự ép ráp
+@Chuyên ngành kỹ thuật
+-dàn
+-sự ép ráp

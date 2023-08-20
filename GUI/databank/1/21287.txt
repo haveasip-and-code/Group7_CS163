@@ -1,3 +1,20 @@
-flammable
-	@flammable\n* tính từ\n- bén lửa, dễ cháy\n@Chuyên ngành kỹ thuật\n-dễ bắt cháy\n-dễ bắt lửa\n-dễ bốc cháy\n-dễ cháy\n-dễ cháy (tt)\n@Lĩnh vực: hóa học & vật liệu\n-cháy được\n@Chuyên ngành kỹ thuật\n-dễ bắt cháy\n-dễ bắt lửa\n-dễ bốc cháy\n-dễ cháy\n-dễ cháy (tt)\n@Lĩnh vực: hóa học & vật liệu\n-cháy được
-
+flammable	
+@flammable
+* tính từ
+- bén lửa, dễ cháy
+@Chuyên ngành kỹ thuật
+-dễ bắt cháy
+-dễ bắt lửa
+-dễ bốc cháy
+-dễ cháy
+-dễ cháy (tt)
+@Lĩnh vực: hóa học & vật liệu
+-cháy được
+@Chuyên ngành kỹ thuật
+-dễ bắt cháy
+-dễ bắt lửa
+-dễ bốc cháy
+-dễ cháy
+-dễ cháy (tt)
+@Lĩnh vực: hóa học & vật liệu
+-cháy được

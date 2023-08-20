@@ -1,3 +1,19 @@
-cargo
-	@cargo /'kɑ:gou/\n*  danh từ\n- hàng hoá (chở trên tàu thuỷ)\n@Chuyên ngành kinh tế\n-hàng chở\n-hàng hóa\n-hàng hóa (chở trên tàu thủy)\n-hàng hóa (trên tàu, xe ...)\n@Chuyên ngành kỹ thuật\n-hàng chuyên chở\n-hàng hóa\n-hàng hóa trên tàu\n-lô hàng\n-tải trọng\n-tải trọng có ích\n@Lĩnh vực: điện\n-hàng hóa vận chuyển\n@Lĩnh vực: xây dựng\n-mức chở hàng
-
+cargo	@cargo /'kɑ:gou/
+*  danh từ
+- hàng hoá (chở trên tàu thuỷ)
+@Chuyên ngành kinh tế
+-hàng chở
+-hàng hóa
+-hàng hóa (chở trên tàu thủy)
+-hàng hóa (trên tàu, xe ...)
+@Chuyên ngành kỹ thuật
+-hàng chuyên chở
+-hàng hóa
+-hàng hóa trên tàu
+-lô hàng
+-tải trọng
+-tải trọng có ích
+@Lĩnh vực: điện
+-hàng hóa vận chuyển
+@Lĩnh vực: xây dựng
+-mức chở hàng

@@ -1,3 +1,26 @@
-sector
-	@sector /'sektə/\n*  danh từ\n- (toán học) hình quạt\n- (quân sự) quân khu\n- khu vực\n=the state sector of economy+ khu vực kinh tế nhà nước\n@Chuyên ngành kinh tế\n-địa hạt\n-khu vực\n-khu vực (chứng khoán ) chuyên ngành\n-lĩnh vực\n@Chuyên ngành kỹ thuật\n-bộ môn\n-bộ phận\n-hình quạt\n-khu vực\n-ngành\n-thanh trượt\n@Lĩnh vực: toán & tin\n-cung từ\n-hình quạt, khu vực\n@Lĩnh vực: xây dựng\n-điạ hạt\n-phân khu, khu vực\n@Lĩnh vực: điện lạnh\n-quạt phủ sóng (rađa)
-
+sector	@sector /'sektə/
+*  danh từ
+- (toán học) hình quạt
+- (quân sự) quân khu
+- khu vực
+=the state sector of economy+ khu vực kinh tế nhà nước
+@Chuyên ngành kinh tế
+-địa hạt
+-khu vực
+-khu vực (chứng khoán ) chuyên ngành
+-lĩnh vực
+@Chuyên ngành kỹ thuật
+-bộ môn
+-bộ phận
+-hình quạt
+-khu vực
+-ngành
+-thanh trượt
+@Lĩnh vực: toán & tin
+-cung từ
+-hình quạt, khu vực
+@Lĩnh vực: xây dựng
+-điạ hạt
+-phân khu, khu vực
+@Lĩnh vực: điện lạnh
+-quạt phủ sóng (rađa)

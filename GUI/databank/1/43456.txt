@@ -1,3 +1,3 @@
-pressurized
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được tăng áp (bị) nén
-
+pressurized	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được tăng áp (bị) nén

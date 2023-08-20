@@ -1,3 +1,10 @@
-geostationary
-	@geostationary\n- (Tech) địa tĩnh, cố định đối với mặt đất\n@Chuyên ngành kinh tế\n-trạm địa hình\n@Chuyên ngành kỹ thuật\n-địa tĩnh\n@Lĩnh vực: điện tử & viễn thông\n-địa dừng\n-địa tĩnh học
-
+geostationary	
+@geostationary
+- (Tech) địa tĩnh, cố định đối với mặt đất
+@Chuyên ngành kinh tế
+-trạm địa hình
+@Chuyên ngành kỹ thuật
+-địa tĩnh
+@Lĩnh vực: điện tử & viễn thông
+-địa dừng
+-địa tĩnh học

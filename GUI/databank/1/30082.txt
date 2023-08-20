@@ -1,3 +1,7 @@
-isobaths
-	@Chuyên ngành kinh tế\n-đường đồng bề sâu\n@Chuyên ngành kỹ thuật\n-đường đẳng sâu\n@Lĩnh vực: xây dựng\n-đường cùng độ sâu
-
+isobaths	
+@Chuyên ngành kinh tế
+-đường đồng bề sâu
+@Chuyên ngành kỹ thuật
+-đường đẳng sâu
+@Lĩnh vực: xây dựng
+-đường cùng độ sâu

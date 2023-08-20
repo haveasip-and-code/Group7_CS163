@@ -1,3 +1,2 @@
-rejector
-	@Chuyên ngành kỹ thuật\n-bộ loại trừ
-
+rejector	@Chuyên ngành kỹ thuật
+-bộ loại trừ

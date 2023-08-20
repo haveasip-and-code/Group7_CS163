@@ -1,3 +1,12 @@
-hologram
-	@hologram\n* danh từ\n- kỹ thuật tạo ảnh ba chiều khi có ánh sáng thích hợp\n@Chuyên ngành kinh tế\n-ảnh nổi ba chiều\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ảnh toàn ký\n@Lĩnh vực: điện lạnh\n-hologam\n-toàn ảnh (kí)
-
+hologram	
+@hologram
+* danh từ
+- kỹ thuật tạo ảnh ba chiều khi có ánh sáng thích hợp
+@Chuyên ngành kinh tế
+-ảnh nổi ba chiều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-ảnh toàn ký
+@Lĩnh vực: điện lạnh
+-hologam
+-toàn ảnh (kí)

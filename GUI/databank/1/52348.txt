@@ -1,3 +1,17 @@
-spherical
-	@spherical /'sferikəl/\n*  tính từ\n- cầu, (thuộc) hình cầu; có hình cầu\n=spherical angle+ góc cầu\n@Chuyên ngành kỹ thuật\n-cầu\n-dạng cầu\n-hình cầu\n-mặt cầu\n@Lĩnh vực: toán & tin\n-chỉ đồ cầu\n@Lĩnh vực: điện\n-có dạng hình cầu\n@Lĩnh vực: cơ khí & công trình\n-có hình cầu\n@Lĩnh vực: xây dựng\n-thuộc hình cầu
-
+spherical	@spherical /'sferikəl/
+*  tính từ
+- cầu, (thuộc) hình cầu; có hình cầu
+=spherical angle+ góc cầu
+@Chuyên ngành kỹ thuật
+-cầu
+-dạng cầu
+-hình cầu
+-mặt cầu
+@Lĩnh vực: toán & tin
+-chỉ đồ cầu
+@Lĩnh vực: điện
+-có dạng hình cầu
+@Lĩnh vực: cơ khí & công trình
+-có hình cầu
+@Lĩnh vực: xây dựng
+-thuộc hình cầu

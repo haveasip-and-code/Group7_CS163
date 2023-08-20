@@ -1,3 +1,4 @@
-photoexcitation
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự kích thích quang (học)\n-sự quang kích thích
-
+photoexcitation	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự kích thích quang (học)
+-sự quang kích thích

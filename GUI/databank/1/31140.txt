@@ -1,3 +1,42 @@
-knuckle
-	@knuckle /'nʌkl/\n*  danh từ\n- khớp đốt ngón tay\n- khuỷ, đốt khuỷ (chân giò lơn, cừu...)\n- (kỹ thuật) khớp nối\n!to get a rap on (over) the knuckles\n- bị đánh vào đốt ngón tay\n- (nghĩa bóng) bị mắng mỏ, bị trách phạt\n!near the knuckle\n- (thông tục) gần đi đến chỗ thô thục bất lịch sự (câu chuyện, câu nói đùa...)\n*  ngoại động từ\n- cốc (bằng ngón tay)\n- ấn bằng ngón tay gặp lại\n*  nội động từ\n- tì đốt ngón tay xuống đất (để bắn bi)\n!to knuckle down; to knuckle under\n- đầu hàng, chịu khuất phục\n!to knuckle down to one's work\n- tích cực (kiên quyết) bắt tay vào việc\n@Chuyên ngành kinh tế\n-khớp nối\n-khuỷu\n@Chuyên ngành kỹ thuật\n-bản lề\n-khớp\n-khớp nối\n-khuỷu\n-vấu\n@Lĩnh vực: cơ khí & công trình\n-khớp di động\n@Lĩnh vực: toán & tin\n-khuỷu, khớp nối\n@Chuyên ngành kỹ thuật\n-bản lề\n-khớp\n-khớp nối\n-khuỷu\n-vấu\n@Lĩnh vực: cơ khí & công trình\n-khớp di động\n@Lĩnh vực: toán & tin\n-khuỷu, khớp nối
-
+knuckle	@knuckle /'nʌkl/
+*  danh từ
+- khớp đốt ngón tay
+- khuỷ, đốt khuỷ (chân giò lơn, cừu...)
+- (kỹ thuật) khớp nối
+!to get a rap on (over) the knuckles
+- bị đánh vào đốt ngón tay
+- (nghĩa bóng) bị mắng mỏ, bị trách phạt
+!near the knuckle
+- (thông tục) gần đi đến chỗ thô thục bất lịch sự (câu chuyện, câu nói đùa...)
+*  ngoại động từ
+- cốc (bằng ngón tay)
+- ấn bằng ngón tay gặp lại
+*  nội động từ
+- tì đốt ngón tay xuống đất (để bắn bi)
+!to knuckle down; to knuckle under
+- đầu hàng, chịu khuất phục
+!to knuckle down to one's work
+- tích cực (kiên quyết) bắt tay vào việc
+@Chuyên ngành kinh tế
+-khớp nối
+-khuỷu
+@Chuyên ngành kỹ thuật
+-bản lề
+-khớp
+-khớp nối
+-khuỷu
+-vấu
+@Lĩnh vực: cơ khí & công trình
+-khớp di động
+@Lĩnh vực: toán & tin
+-khuỷu, khớp nối
+@Chuyên ngành kỹ thuật
+-bản lề
+-khớp
+-khớp nối
+-khuỷu
+-vấu
+@Lĩnh vực: cơ khí & công trình
+-khớp di động
+@Lĩnh vực: toán & tin
+-khuỷu, khớp nối

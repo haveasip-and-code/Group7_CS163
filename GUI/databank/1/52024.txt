@@ -1,3 +1,4 @@
-souring
-	@Chuyên ngành kinh tế\n-sự làm chua\n-sự lên men chua\n-sự muối chua
-
+souring	@Chuyên ngành kinh tế
+-sự làm chua
+-sự lên men chua
+-sự muối chua

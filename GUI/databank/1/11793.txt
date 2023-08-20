@@ -1,3 +1,10 @@
-cooperation
-	@cooperation\n- sự hợp tác\n@Chuyên ngành kinh tế\n-hiệp tác\n-sự hợp tác\n@Chuyên ngành kỹ thuật\n-hợp tác\n@Lĩnh vực: toán & tin\n-sự hợp tác
-
+cooperation	
+@cooperation
+- sự hợp tác
+@Chuyên ngành kinh tế
+-hiệp tác
+-sự hợp tác
+@Chuyên ngành kỹ thuật
+-hợp tác
+@Lĩnh vực: toán & tin
+-sự hợp tác

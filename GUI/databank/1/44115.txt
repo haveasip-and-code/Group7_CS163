@@ -1,3 +1,32 @@
-proportion
-	@proportion /proportion/\n*  danh từ\n- sự cân xứng, sự cân đối\n=in proportion to+ cân xứng với\n=out of proportion to+ không cân xứng với\n- tỷ lệ\n=the proportion of three to one+ tỷ lệ ba một\n- (toán học) tỷ lệ thức\n- (toán học) quy tắc tam xuất\n- phần\n=a large proportion of the earth's surface+ một phần lớn bề mặt trái đất\n- (số nhiều) kích thước, tầm vóc\n=a building of magnificent proportions+ toà nhà bề thế\n=an athlete of magnificent proportions+ vận động viên tầm vóc lực lưỡng\n*  ngoại động từ\n- làm cân xứng, làm cân đối\n=to proportion one's expenses to one's income+ làm cho số tiền chi tiêu cân đối với số tiền thu nhập\n- chia thành phần\n@Chuyên ngành kinh tế\n-phần\n-sự cân đối\n-tỷ lệ\n@Chuyên ngành kỹ thuật\n-luật tam suất\n-luật tam xuất\n-sự tỷ lệ\n@Lĩnh vực: toán & tin\n-tỉ lệ thức\n-tỷ lệ thực\n@Lĩnh vực: xây dựng\n-tính tương quan (về kích thước)\n-tính tỷ lệ
-
+proportion	@proportion /proportion/
+*  danh từ
+- sự cân xứng, sự cân đối
+=in proportion to+ cân xứng với
+=out of proportion to+ không cân xứng với
+- tỷ lệ
+=the proportion of three to one+ tỷ lệ ba một
+- (toán học) tỷ lệ thức
+- (toán học) quy tắc tam xuất
+- phần
+=a large proportion of the earth's surface+ một phần lớn bề mặt trái đất
+- (số nhiều) kích thước, tầm vóc
+=a building of magnificent proportions+ toà nhà bề thế
+=an athlete of magnificent proportions+ vận động viên tầm vóc lực lưỡng
+*  ngoại động từ
+- làm cân xứng, làm cân đối
+=to proportion one's expenses to one's income+ làm cho số tiền chi tiêu cân đối với số tiền thu nhập
+- chia thành phần
+@Chuyên ngành kinh tế
+-phần
+-sự cân đối
+-tỷ lệ
+@Chuyên ngành kỹ thuật
+-luật tam suất
+-luật tam xuất
+-sự tỷ lệ
+@Lĩnh vực: toán & tin
+-tỉ lệ thức
+-tỷ lệ thực
+@Lĩnh vực: xây dựng
+-tính tương quan (về kích thước)
+-tính tỷ lệ

@@ -1,3 +1,2 @@
-clumpy
-	@clumpy\n- xem clump
-
+clumpy	@clumpy
+- xem clump

@@ -1,3 +1,14 @@
-contaminate
-	@contaminate /kən'tæmineit/\n*  ngoại động từ\n- làm bẩn, làm ô uế\n- làm nhiễm (bệnh)\n- làm hư hỏng\n=to be contaminated by companions+ bị bạn xấu làm hư hỏng\n@Chuyên ngành kinh tế\n-làm bẩn\n-làm ô uế\n-nhiễm\n@Chuyên ngành kỹ thuật\n-lây bẩn\n-nhiễm bẩn
-
+contaminate	
+@contaminate /kən'tæmineit/
+*  ngoại động từ
+- làm bẩn, làm ô uế
+- làm nhiễm (bệnh)
+- làm hư hỏng=to be contaminated by companions
++ bị bạn xấu làm hư hỏng
+@Chuyên ngành kinh tế
+-làm bẩn
+-làm ô uế
+-nhiễm
+@Chuyên ngành kỹ thuật
+-lây bẩn
+-nhiễm bẩn

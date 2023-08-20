@@ -1,3 +1,32 @@
-dirt
-	@dirt /də:t/\n*  ngoại động từ\n- đâm bằng dao găm\n*  danh từ\n- đồ bẩn thỉu, đồ dơ bẩn, đồ dơ dáy\n- bùn nhão; ghét\n=hands igrained with dirt+ tay cáu ghét\n- đất\n- vật rác rưởi, vật vô giá trị\n- lời nói tục tĩu, lời thô bỉ, lời thô tục\n=to talk dirt+ nói tục tĩu\n!to eat dirt\n- nuốt nhục\n!to fling (throw, cast) dirt at somebody\n- chửi rủa ai\n- bôi nhọ ai, bôi xấu ai, gièm pha ai\n!yellow dirt\n- vàng\n@Chuyên ngành kinh tế\n-đống\n@Chuyên ngành kỹ thuật\n-bụi\n-bùn\n-đá mùn thải\n-đất\n-đất bùn\n-lớp phủ\n@Lĩnh vực: cơ khí & công trình\n-bùn nhão\n@Lĩnh vực: xây dựng\n-cát có vàng\n-sự dơ bẩn\n@Lĩnh vực: hóa học & vật liệu\n-đá thải
-
+dirt	
+@dirt /də:t/
+*  ngoại động từ
+- đâm bằng dao găm
+*  danh từ
+- đồ bẩn thỉu, đồ dơ bẩn, đồ dơ dáy
+- bùn nhão; ghét=hands igrained with dirt
++ tay cáu ghét
+- đất
+- vật rác rưởi, vật vô giá trị
+- lời nói tục tĩu, lời thô bỉ, lời thô tục=to talk dirt
++ nói tục tĩu!to eat dirt
+- nuốt nhục!to fling (throw, cast) dirt at somebody
+- chửi rủa ai
+- bôi nhọ ai, bôi xấu ai, gièm pha ai!yellow dirt
+- vàng
+@Chuyên ngành kinh tế
+-đống
+@Chuyên ngành kỹ thuật
+-bụi
+-bùn
+-đá mùn thải
+-đất
+-đất bùn
+-lớp phủ
+@Lĩnh vực: cơ khí & công trình
+-bùn nhão
+@Lĩnh vực: xây dựng
+-cát có vàng
+-sự dơ bẩn
+@Lĩnh vực: hóa học & vật liệu
+-đá thải

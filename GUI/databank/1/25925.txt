@@ -1,3 +1,26 @@
-hog
-	@hog /hɔg/\n*  danh từ\n- lợn; lợn thiến\n- (tiếng địa phương) cừu non (trước khi xén lông lần thứ nhất)\n- (nghĩa bóng) người tham ăn; người thô tục; người bẩn thỉu\n!to go the whole hog\n- làm đến nơi đến chốn, không bỏ nửa chừng\n!hog in armour\n- người trông vụng về cứng đơ\n*  ngoại động từ\n- cong (lưng...)\n- cắt ngắn, xén (bờm ngựa)\n- (từ Mỹ,nghĩa Mỹ) lấy quá phần, lấn phần\n*  nội động từ\n- cong lên, bị cong\n- (thông tục) lái ẩu, đi ẩu (lái ô tô, đi xe đạp...)\n@Chuyên ngành kinh tế\n-cừu non\n-lợn thiến\n@Chuyên ngành kỹ thuật\n-cong lên\n-độ vênh\n-độ võng\n-sự lồi\n-uốn cong\n@Lĩnh vực: vật lý\n-làm cong
-
+hog	
+@hog /hɔg/
+*  danh từ
+- lợn; lợn thiến
+- (tiếng địa phương) cừu non (trước khi xén lông lần thứ nhất)
+- (nghĩa bóng) người tham ăn; người thô tục; người bẩn thỉu!to go the whole hog
+- làm đến nơi đến chốn, không bỏ nửa chừng!hog in armour
+- người trông vụng về cứng đơ
+*  ngoại động từ
+- cong (lưng...)
+- cắt ngắn, xén (bờm ngựa)
+- (từ Mỹ,nghĩa Mỹ) lấy quá phần, lấn phần
+*  nội động từ
+- cong lên, bị cong
+- (thông tục) lái ẩu, đi ẩu (lái ô tô, đi xe đạp...)
+@Chuyên ngành kinh tế
+-cừu non
+-lợn thiến
+@Chuyên ngành kỹ thuật
+-cong lên
+-độ vênh
+-độ võng
+-sự lồi
+-uốn cong
+@Lĩnh vực: vật lý
+-làm cong

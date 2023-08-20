@@ -1,3 +1,4 @@
-wobbling
-	@Chuyên ngành kỹ thuật\n-sự quét tần\n@Lĩnh vực: điện tử & viễn thông\n-sự đu đưa tần
-
+wobbling	@Chuyên ngành kỹ thuật
+-sự quét tần
+@Lĩnh vực: điện tử & viễn thông
+-sự đu đưa tần

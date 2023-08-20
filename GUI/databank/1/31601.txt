@@ -1,3 +1,19 @@
-latest
-	@latest /'leitist/\n*  tính từ,  cấp cao nhất của late\n- muộn nhất; mới nhất, gần đây nhất\n=the latest news+ tin mới nhất\n=at the latest+ muộn nhất\n@Chuyên ngành kỹ thuật\n-cuối cùng\n-gần nhất\n-mới nhất\n@Lĩnh vực: toán & tin\n-chậm nhất\n-muộn nhất\n@Chuyên ngành kỹ thuật\n-cuối cùng\n-gần nhất\n-mới nhất\n@Lĩnh vực: toán & tin\n-chậm nhất\n-muộn nhất
-
+latest	@latest /'leitist/
+*  tính từ,  cấp cao nhất của late
+- muộn nhất; mới nhất, gần đây nhất
+=the latest news+ tin mới nhất
+=at the latest+ muộn nhất
+@Chuyên ngành kỹ thuật
+-cuối cùng
+-gần nhất
+-mới nhất
+@Lĩnh vực: toán & tin
+-chậm nhất
+-muộn nhất
+@Chuyên ngành kỹ thuật
+-cuối cùng
+-gần nhất
+-mới nhất
+@Lĩnh vực: toán & tin
+-chậm nhất
+-muộn nhất

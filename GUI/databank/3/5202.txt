@@ -1,3 +1,27 @@
-belly
-	@belly /'beli/\n*  danh từ\n- bụng; dạ dày\n=with an empty belly+ bụng đói\n=to be belly pinched+ kiến bò bụng, đói\n- bầu (bình, lọ); chỗ khum lên (mặt đàn viôlông), chỗ phồng ra (buồm)\n!a hungry belly has no ears\n- (tục ngữ) bụng đói thì tai điếc\n*  động từ\n- (thường) + out phồng ra (cánh buồm...)\n@Chuyên ngành kinh tế\n-bụng\n-cục bột nhào\n-dạ dày\n-đáy bao lưới\n-đoạn giữa đùi lợn\n@Chuyên ngành kỹ thuật\n-canô\n-chỗ phình\n-chỗ phồng\n-phần bụng\n-sự phình\n@Lĩnh vực: y học\n-bụng, cơ bụng\n@Lĩnh vực: giao thông & vận tải\n-sự căng gió\n-sự đầy gió (buồm)
-
+belly	@belly /'beli/
+*  danh từ
+- bụng; dạ dày
+=with an empty belly+ bụng đói
+=to be belly pinched+ kiến bò bụng, đói
+- bầu (bình, lọ); chỗ khum lên (mặt đàn viôlông), chỗ phồng ra (buồm)
+!a hungry belly has no ears
+- (tục ngữ) bụng đói thì tai điếc
+*  động từ
+- (thường) + out phồng ra (cánh buồm...)
+@Chuyên ngành kinh tế
+-bụng
+-cục bột nhào
+-dạ dày
+-đáy bao lưới
+-đoạn giữa đùi lợn
+@Chuyên ngành kỹ thuật
+-canô
+-chỗ phình
+-chỗ phồng
+-phần bụng
+-sự phình
+@Lĩnh vực: y học
+-bụng, cơ bụng
+@Lĩnh vực: giao thông & vận tải
+-sự căng gió
+-sự đầy gió (buồm)

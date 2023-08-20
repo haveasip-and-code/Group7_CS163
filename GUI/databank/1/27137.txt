@@ -1,3 +1,8 @@
-imaging
-	@Chuyên ngành kỹ thuật\n-sự tạo ảnh\n@Lĩnh vực: toán & tin\n-ảnh hóa\n-sự ảnh hóa\n@Lĩnh vực: điện tử & viễn thông\n-sự tổng hợp ảnh
-
+imaging	
+@Chuyên ngành kỹ thuật
+-sự tạo ảnh
+@Lĩnh vực: toán & tin
+-ảnh hóa
+-sự ảnh hóa
+@Lĩnh vực: điện tử & viễn thông
+-sự tổng hợp ảnh

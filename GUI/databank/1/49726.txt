@@ -1,3 +1,4 @@
-semilogarithmic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bán lôgarit\n-nửa lôgarit
-
+semilogarithmic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bán lôgarit
+-nửa lôgarit

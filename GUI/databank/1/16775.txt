@@ -1,3 +1,10 @@
-dregs
-	@dregs\n* danh từ\n- cặn (ở đáy bình)\n- cặn bã\n@Chuyên ngành kinh tế\n-cặn bã\n-rác rưởi\n@Chuyên ngành kỹ thuật\n-vật thải
-
+dregs	
+@dregs
+* danh từ
+- cặn (ở đáy bình)
+- cặn bã
+@Chuyên ngành kinh tế
+-cặn bã
+-rác rưởi
+@Chuyên ngành kỹ thuật
+-vật thải

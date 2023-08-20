@@ -1,3 +1,9 @@
-nor
-	@nor /nɔ:/\n*  phó từ & liên từ\n- mà... cũng không, và... không\n=neither good nor bad+ không tốt mà cũng không xấu\n=he can neither read nor write+ nó không biết đọc mà cũng không biết viết\n=he can't do it, nor can I, nor can you, nor can anybody+ nó không làm được cái đó, mà cả tôi, cả anh hay bất cứ một người nào cũng không làm được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép NOR
-
+nor	@nor /nɔ:/
+*  phó từ & liên từ
+- mà... cũng không, và... không
+=neither good nor bad+ không tốt mà cũng không xấu
+=he can neither read nor write+ nó không biết đọc mà cũng không biết viết
+=he can't do it, nor can I, nor can you, nor can anybody+ nó không làm được cái đó, mà cả tôi, cả anh hay bất cứ một người nào cũng không làm được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép NOR

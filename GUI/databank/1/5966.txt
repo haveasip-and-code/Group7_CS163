@@ -1,3 +1,6 @@
-blocker
-	@blocker\n- xem block\n@Chuyên ngành kỹ thuật\n-khuôn rèn thô\n-rãnh dập thô
-
+blocker	
+@blocker
+- xem block
+@Chuyên ngành kỹ thuật
+-khuôn rèn thô
+-rãnh dập thô

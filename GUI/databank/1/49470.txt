@@ -1,3 +1,43 @@
-second
-	@second /'sekənd/\n*  tính từ\n- thứ hai, thứ nhì\n=to be the second to come+ là người đến thứ nhì\n=to come in (finish) second+ về thứ hai, chiếm giải nhì\n- phụ, thứ yếu; bổ sung\n=second ballot+ cuộc bỏ phiếu bổ sung\n!to be second to none\n- không thua kém ai\n!to learn something at second hand\n- nghe hơi nồi chõ\n!to play second fiddle\n- (xem) fiddle\n*  danh từ\n- người về nhì (trong cuộc đua)\n=a good second+ người thứ nhì sát nút\n- người thứ hai, vật thứ hai; viên phó\n=second in command+ (quân sự) phó chỉ huy\n- người phụ tá võ sĩ (trong cuộc thử thách đấu gươm); người săn sóc võ sĩ\n- (số nhiều) hàng thứ phẩm (bánh mì, bột...)\n*  danh từ\n- giây (1 thoành 0 phút)\n- giây lát, một chốc, một lúc\n*  ngoại động từ\n- giúp đỡ, phụ lực, ủng hộ\n=will you second me if I ask him?+ nếu tôi hỏi nó thì anh có ủng hộ tôi không?\n- tán thành (một đề nghị)\n=to second a motion+ tán thành một đề nghị\n!to second words with deeds\n- nói là làm ngay\n*  ngoại động từ\n- (quân sự) thuyên chuyển; cho (một sĩ quan) nghỉ để giao công tác mới\n- biệt phái một thời gian\n@Chuyên ngành kỹ thuật\n-giây\n-giây (thời gian)\n-thứ yếu\n@Lĩnh vực: điện\n-giây (đơn vị đo thời gian)\n@Lĩnh vực: điện lạnh\n-giây (đơn vị thời gian)\n@Lĩnh vực: xây dựng\n-thứ nhì
-
+second	@second /'sekənd/
+*  tính từ
+- thứ hai, thứ nhì
+=to be the second to come+ là người đến thứ nhì
+=to come in (finish) second+ về thứ hai, chiếm giải nhì
+- phụ, thứ yếu; bổ sung
+=second ballot+ cuộc bỏ phiếu bổ sung
+!to be second to none
+- không thua kém ai
+!to learn something at second hand
+- nghe hơi nồi chõ
+!to play second fiddle
+- (xem) fiddle
+*  danh từ
+- người về nhì (trong cuộc đua)
+=a good second+ người thứ nhì sát nút
+- người thứ hai, vật thứ hai; viên phó
+=second in command+ (quân sự) phó chỉ huy
+- người phụ tá võ sĩ (trong cuộc thử thách đấu gươm); người săn sóc võ sĩ
+- (số nhiều) hàng thứ phẩm (bánh mì, bột...)
+*  danh từ
+- giây (1 thoành 0 phút)
+- giây lát, một chốc, một lúc
+*  ngoại động từ
+- giúp đỡ, phụ lực, ủng hộ
+=will you second me if I ask him?+ nếu tôi hỏi nó thì anh có ủng hộ tôi không?
+- tán thành (một đề nghị)
+=to second a motion+ tán thành một đề nghị
+!to second words with deeds
+- nói là làm ngay
+*  ngoại động từ
+- (quân sự) thuyên chuyển; cho (một sĩ quan) nghỉ để giao công tác mới
+- biệt phái một thời gian
+@Chuyên ngành kỹ thuật
+-giây
+-giây (thời gian)
+-thứ yếu
+@Lĩnh vực: điện
+-giây (đơn vị đo thời gian)
+@Lĩnh vực: điện lạnh
+-giây (đơn vị thời gian)
+@Lĩnh vực: xây dựng
+-thứ nhì

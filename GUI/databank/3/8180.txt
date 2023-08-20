@@ -1,3 +1,14 @@
-cassette
-	@cassette\n- (Tech) hộp (băng); máy ghi âm (loại) hộp băng, cátxét, cassette\n@Chuyên ngành kinh tế\n-băng cát-sét\n-hộp băng từ\n@Chuyên ngành kỹ thuật\n-băng từ\n-hộp băng\n-hộp băng từ\n-máy ghi âm\n@Lĩnh vực: toán & tin\n-cát xét\n@Lĩnh vực: y học\n-hộp đựng phim
-
+cassette	@cassette
+- (Tech) hộp (băng); máy ghi âm (loại) hộp băng, cátxét, cassette
+@Chuyên ngành kinh tế
+-băng cát-sét
+-hộp băng từ
+@Chuyên ngành kỹ thuật
+-băng từ
+-hộp băng
+-hộp băng từ
+-máy ghi âm
+@Lĩnh vực: toán & tin
+-cát xét
+@Lĩnh vực: y học
+-hộp đựng phim

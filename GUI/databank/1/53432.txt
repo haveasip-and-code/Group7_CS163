@@ -1,3 +1,2 @@
-stocker
-	@Chuyên ngành kỹ thuật\n-thợ đốt lò
-
+stocker	@Chuyên ngành kỹ thuật
+-thợ đốt lò

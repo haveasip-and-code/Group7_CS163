@@ -1,3 +1,4 @@
-detoxicating
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-giải độc\n-khử độc
-
+detoxicating	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-giải độc
+-khử độc

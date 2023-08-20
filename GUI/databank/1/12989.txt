@@ -1,3 +1,6 @@
-culling
-	@Chuyên ngành kỹ thuật\n-sự chọn\n-sự lấy ra\n-sự lựa chọn\n-sự phân loại
-
+culling	
+@Chuyên ngành kỹ thuật
+-sự chọn
+-sự lấy ra
+-sự lựa chọn
+-sự phân loại

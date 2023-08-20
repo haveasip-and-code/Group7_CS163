@@ -1,3 +1,2 @@
-chemotherapeutic
-	@chemotherapeutic\n- xem chemotherapy
-
+chemotherapeutic	@chemotherapeutic
+- xem chemotherapy

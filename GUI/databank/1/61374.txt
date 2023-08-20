@@ -1,3 +1,26 @@
-veil
-	@veil /veil/\n*  danh từ\n- mạng che mặt\n=to raise the veil+ nâng mạng che mặt lên\n=to drop the veil+ bỏ mạng che mặt xuống\n- trướng, màn\n=the veil of the temple+ bức trướng của ngôi đền\n=a veil of clound+ màn mây\n=a veil of mist+ màn sương\n=the veil of night+ màn đêm\n- bê ngoài giả dối, lốt\n=under the veil of religion+ đột lốt tôn giáo\n- tiếng khàn, tiếng khản (do bị cảm lạnh...)\n- (như) velum\n!beyond the veil\n- ở thế giới bên kia, ở âm phủ\n!to take the veil\n- đi tu\n*  ngoại động từ\n- che mạng\n=to veil one's face+ che mặt bằng mạng\n- che, ám, phủ\n=a cloud veiled the sun+ một đám mây che mặt trời\n- che đậy, che giấu, giấu kín\n=to veil one's purpose+ chay đậy mục dích của mình\n=to be veiled in mystery+ bị giấu kín trong màn bí mật
-
+veil	@veil /veil/
+*  danh từ
+- mạng che mặt
+=to raise the veil+ nâng mạng che mặt lên
+=to drop the veil+ bỏ mạng che mặt xuống
+- trướng, màn
+=the veil of the temple+ bức trướng của ngôi đền
+=a veil of clound+ màn mây
+=a veil of mist+ màn sương
+=the veil of night+ màn đêm
+- bê ngoài giả dối, lốt
+=under the veil of religion+ đột lốt tôn giáo
+- tiếng khàn, tiếng khản (do bị cảm lạnh...)
+- (như) velum
+!beyond the veil
+- ở thế giới bên kia, ở âm phủ
+!to take the veil
+- đi tu
+*  ngoại động từ
+- che mạng
+=to veil one's face+ che mặt bằng mạng
+- che, ám, phủ
+=a cloud veiled the sun+ một đám mây che mặt trời
+- che đậy, che giấu, giấu kín
+=to veil one's purpose+ chay đậy mục dích của mình
+=to be veiled in mystery+ bị giấu kín trong màn bí mật

@@ -1,3 +1,4 @@
-foldable
-	@foldable\n* tính từ\n- có thể gấp lại được
-
+foldable	
+@foldable
+* tính từ
+- có thể gấp lại được

@@ -1,3 +1,7 @@
-psychrometry
-	@Chuyên ngành kinh tế\n-phép đo ẩm\n@Chuyên ngành kỹ thuật\n-nghiên cứu độ ẩm\n@Lĩnh vực: điện lạnh\n-đo độ ẩm (không khí)\n-phép đo độ ẩm
-
+psychrometry	@Chuyên ngành kinh tế
+-phép đo ẩm
+@Chuyên ngành kỹ thuật
+-nghiên cứu độ ẩm
+@Lĩnh vực: điện lạnh
+-đo độ ẩm (không khí)
+-phép đo độ ẩm

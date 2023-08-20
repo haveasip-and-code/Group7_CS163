@@ -1,3 +1,12 @@
-seminar
-	@seminar /'seminɑ:/\n*  danh từ\n- Xêmina, hội nghị chuyên đề\n- nhóm nghiên cứu chuyên đề\n- chuyên đề nghiên cứu\n- nơi họp (của) nhóm nghiên cứu chuyên đề\n@Chuyên ngành kinh tế\n-cuộc hội thảo\n-hội thảo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hội thảo
-
+seminar	@seminar /'seminɑ:/
+*  danh từ
+- Xêmina, hội nghị chuyên đề
+- nhóm nghiên cứu chuyên đề
+- chuyên đề nghiên cứu
+- nơi họp (của) nhóm nghiên cứu chuyên đề
+@Chuyên ngành kinh tế
+-cuộc hội thảo
+-hội thảo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hội thảo

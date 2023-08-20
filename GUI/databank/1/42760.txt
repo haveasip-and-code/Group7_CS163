@@ -1,3 +1,3 @@
-postdating
-	@Chuyên ngành kinh tế\n-chi phiếu đề lùi ngày\n-việc đề lùi ngày
-
+postdating	@Chuyên ngành kinh tế
+-chi phiếu đề lùi ngày
+-việc đề lùi ngày

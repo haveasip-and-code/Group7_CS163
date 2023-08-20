@@ -1,3 +1,7 @@
-adsorbable
-	@adsorbable\n- xem adsorb\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-có thể hấp thụ\n-hấp thụ được
-
+adsorbable	
+@adsorbable
+- xem adsorb
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-có thể hấp thụ
+-hấp thụ được

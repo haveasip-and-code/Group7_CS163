@@ -1,3 +1,4 @@
-cribbage
-	@cribbage /'kribidʤ/\n*  danh từ\n- lối chơi bài kipbi
-
+cribbage	
+@cribbage /'kribidʤ/
+*  danh từ
+- lối chơi bài kipbi

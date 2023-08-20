@@ -1,3 +1,8 @@
-lemma
-	@lemma /'lemə/\n*  danh từ,  số nhiều lemmas  /'leməz/,  lemmata  /'lemətə/\n- (toán học) bổ đề\n- cước chú (cho tranh ảnh)\n@Chuyên ngành kỹ thuật\n-bổ đề\n@Chuyên ngành kỹ thuật\n-bổ đề
-
+lemma	@lemma /'lemə/
+*  danh từ,  số nhiều lemmas  /'leməz/,  lemmata  /'lemətə/
+- (toán học) bổ đề
+- cước chú (cho tranh ảnh)
+@Chuyên ngành kỹ thuật
+-bổ đề
+@Chuyên ngành kỹ thuật
+-bổ đề

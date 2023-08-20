@@ -1,3 +1,3 @@
-microfauna
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vi động vật địa phương
-
+microfauna	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vi động vật địa phương

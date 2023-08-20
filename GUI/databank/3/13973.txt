@@ -1,3 +1,4 @@
-deepening
-	@Chuyên ngành kỹ thuật\n-đào sâu\n@Lĩnh vực: hóa học & vật liệu\n-khoét sâu
-
+deepening	@Chuyên ngành kỹ thuật
+-đào sâu
+@Lĩnh vực: hóa học & vật liệu
+-khoét sâu

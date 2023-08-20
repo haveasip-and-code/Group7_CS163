@@ -1,3 +1,4 @@
-quadrantal
-	@quadrantal\n- (thuộc) gốc phần tư\n@Chuyên ngành kỹ thuật\n-góc phần tư
-
+quadrantal	@quadrantal
+- (thuộc) gốc phần tư
+@Chuyên ngành kỹ thuật
+-góc phần tư

@@ -1,3 +1,15 @@
-flameproof
-	@Chuyên ngành kỹ thuật\n-chống cháy\n-không bắt cháy\n-không cháy được\n-phòng cháy\n@Lĩnh vực: điện lạnh\n-chống lửa\n@Chuyên ngành kỹ thuật\n-chống cháy\n-không bắt cháy\n-không cháy được\n-phòng cháy\n@Lĩnh vực: điện lạnh\n-chống lửa
-
+flameproof	
+@Chuyên ngành kỹ thuật
+-chống cháy
+-không bắt cháy
+-không cháy được
+-phòng cháy
+@Lĩnh vực: điện lạnh
+-chống lửa
+@Chuyên ngành kỹ thuật
+-chống cháy
+-không bắt cháy
+-không cháy được
+-phòng cháy
+@Lĩnh vực: điện lạnh
+-chống lửa

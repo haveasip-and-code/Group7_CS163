@@ -1,3 +1,2 @@
-prefigurement
-	@prefigurement\n- xem prefigure
-
+prefigurement	@prefigurement
+- xem prefigure

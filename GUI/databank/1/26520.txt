@@ -1,3 +1,21 @@
-hybrid
-	@hybrid /'haibrid/\n*  danh từ\n- cây lai; vật lai; người lai\n- từ ghép lai\n*  tính từ\n- lai\n@Chuyên ngành kỹ thuật\n-hỗn hợp\n-lai\n-vật lai\n@Lĩnh vực: điện tử & viễn thông\n-bộ ghép lại\n@Lĩnh vực: xây dựng\n-đá lai\n@Lĩnh vực: toán & tin\n-giống lai\n@Lĩnh vực: hóa học & vật liệu\n-lai chủng\n@Lĩnh vực: điện lạnh\n-thể lai
-
+hybrid	
+@hybrid /'haibrid/
+*  danh từ
+- cây lai; vật lai; người lai
+- từ ghép lai
+*  tính từ
+- lai
+@Chuyên ngành kỹ thuật
+-hỗn hợp
+-lai
+-vật lai
+@Lĩnh vực: điện tử & viễn thông
+-bộ ghép lại
+@Lĩnh vực: xây dựng
+-đá lai
+@Lĩnh vực: toán & tin
+-giống lai
+@Lĩnh vực: hóa học & vật liệu
+-lai chủng
+@Lĩnh vực: điện lạnh
+-thể lai

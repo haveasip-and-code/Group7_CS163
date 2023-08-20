@@ -1,3 +1,2 @@
-newshawk
-	@newshawk\n- Cách viết khác : newshaker
-
+newshawk	@newshawk
+- Cách viết khác : newshaker

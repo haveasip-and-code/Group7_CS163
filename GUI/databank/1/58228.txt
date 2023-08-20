@@ -1,3 +1,2 @@
-turista
-	@Chuyên ngành kinh tế\n-sự chói nước
-
+turista	@Chuyên ngành kinh tế
+-sự chói nước

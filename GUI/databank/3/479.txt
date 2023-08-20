@@ -1,3 +1,16 @@
-achieve
-	@achieve /ə'tʃi:v/\n*  ngoại động từ\n- đạt được, giành được\n=to achieve one's purpose (aim)+ đạt mục đích\n=to achieve good results+ đạt được những kết quả tốt\n=to achieve national independence+ giành độc lập dân tộc\n=to achieve great victories+ giành được những chiến thắng lớn\n- hoàn thành, thực hiện\n=to achieve a great work+ hoàn thành một công trình lớn\n=to achieve one's task+ hoàn thành nhiệm vụ\n@Chuyên ngành kinh tế\n-đạt được\n-hoàn thành\n-thực hiện\n@Chuyên ngành kỹ thuật\n-đạt được
-
+achieve	@achieve /ə'tʃi:v/
+*  ngoại động từ
+- đạt được, giành được
+=to achieve one's purpose (aim)+ đạt mục đích
+=to achieve good results+ đạt được những kết quả tốt
+=to achieve national independence+ giành độc lập dân tộc
+=to achieve great victories+ giành được những chiến thắng lớn
+- hoàn thành, thực hiện
+=to achieve a great work+ hoàn thành một công trình lớn
+=to achieve one's task+ hoàn thành nhiệm vụ
+@Chuyên ngành kinh tế
+-đạt được
+-hoàn thành
+-thực hiện
+@Chuyên ngành kỹ thuật
+-đạt được

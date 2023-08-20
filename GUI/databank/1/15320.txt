@@ -1,3 +1,23 @@
-diffuse
-	@diffuse /di'fju:s/\n*  tính từ\n- (vật lý) khuếch tán\n=diffuse light+ ánh sáng khuếch tán\n- rườm rà, dài dòng (văn)\n*  ngoại động từ\n- truyền, đồn (tin); truyền bá; phổ biến\n=to diffuse knowledge+ truyền bá kiến thức\n- (vật lý) khuếch tán (ánh sáng)\n*  nội động từ\n- tràn, lan\n- (vật lý) khuếch tán (ánh sáng)\n@Chuyên ngành kinh tế\n-khuếch tán\n-sản phẩm khuếch tán\n@Chuyên ngành kỹ thuật\n-nhòe nhòa\n-tản mạn\n-tán xạ\n-truyền\n@Lĩnh vực: toán & tin\n-khuếch tán
-
+diffuse	
+@diffuse /di'fju:s/
+*  tính từ
+- (vật lý) khuếch tán=diffuse light
++ ánh sáng khuếch tán
+- rườm rà, dài dòng (văn)
+*  ngoại động từ
+- truyền, đồn (tin); truyền bá; phổ biến=to diffuse knowledge
++ truyền bá kiến thức
+- (vật lý) khuếch tán (ánh sáng)
+*  nội động từ
+- tràn, lan
+- (vật lý) khuếch tán (ánh sáng)
+@Chuyên ngành kinh tế
+-khuếch tán
+-sản phẩm khuếch tán
+@Chuyên ngành kỹ thuật
+-nhòe nhòa
+-tản mạn
+-tán xạ
+-truyền
+@Lĩnh vực: toán & tin
+-khuếch tán

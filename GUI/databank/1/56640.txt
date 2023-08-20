@@ -1,3 +1,12 @@
-tickler
-	@tickler /'tiklə/\n*  danh từ\n- người cù; cái lông để cù\n- (nghĩa bóng) vấn đề khó giải quyết, vấn đề hắc búa\n- (từ Mỹ,nghĩa Mỹ) sổ tay (để giúp trí nhớ); phiếu ghi (để giúp trí nhớ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cuộn dây kích thích\n@Lĩnh vực: điện lạnh\n-cuộn phản hồi anôt\n@Lĩnh vực: ô tô\n-mạch khởi động (chế hòa khí)
-
+tickler	@tickler /'tiklə/
+*  danh từ
+- người cù; cái lông để cù
+- (nghĩa bóng) vấn đề khó giải quyết, vấn đề hắc búa
+- (từ Mỹ,nghĩa Mỹ) sổ tay (để giúp trí nhớ); phiếu ghi (để giúp trí nhớ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-cuộn dây kích thích
+@Lĩnh vực: điện lạnh
+-cuộn phản hồi anôt
+@Lĩnh vực: ô tô
+-mạch khởi động (chế hòa khí)

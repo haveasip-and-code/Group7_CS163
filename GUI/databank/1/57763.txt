@@ -1,3 +1,5 @@
-trifolium
-	@trifolium\n- hình ba lá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình ba lá
-
+trifolium	@trifolium
+- hình ba lá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình ba lá

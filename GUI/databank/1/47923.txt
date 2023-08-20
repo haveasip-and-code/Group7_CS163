@@ -1,3 +1,47 @@
-roller
-	@roller /'roulə/\n*  danh từ\n- trục lăn, con lăn; xe lăn đường; ống lăn mực (in...)\n- trục cán, máy cán\n- ống cuộn\n- (y học) cuộn băng ((cũng) roller bandage)\n- đợt sóng cuồn cuộn\n- (động vật học) chim sả rừng\n@Chuyên ngành kinh tế\n-con lăn (trên các đường treo)\n-máy lăn\n-máy nghiền trục\n-máy tạo hình\n-thợ cán\n-thùng quay\n-trục\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-hiệu xe Rolls-Royce\n@Chuyên ngành kỹ thuật\n-bánh đà\n-bánh đai\n-bánh dẫn\n-bánh lái\n-bánh xe\n-lăn\n-lô in\n-máy cán\n-máy đầm\n-máy lăn\n-máy lăn đường\n-máy lu\n-ống cuộn\n-ống cuộn thước\n-puli\n-xe lăn đường\n@Lĩnh vực: cơ khí & công trình\n-bánh lăn\n-xe hủ lô\n@Lĩnh vực: ô tô\n-bi đũa\n@Lĩnh vực: xây dựng\n-có tính lăn\n-máy rầm\n-vòng (ổ bi)\n@Lĩnh vực: giao thông & vận tải\n-sóng lừng (trạng thái biển)
-
+roller	@roller /'roulə/
+*  danh từ
+- trục lăn, con lăn; xe lăn đường; ống lăn mực (in...)
+- trục cán, máy cán
+- ống cuộn
+- (y học) cuộn băng ((cũng) roller bandage)
+- đợt sóng cuồn cuộn
+- (động vật học) chim sả rừng
+@Chuyên ngành kinh tế
+-con lăn (trên các đường treo)
+-máy lăn
+-máy nghiền trục
+-máy tạo hình
+-thợ cán
+-thùng quay
+-trục
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-hiệu xe Rolls-Royce
+@Chuyên ngành kỹ thuật
+-bánh đà
+-bánh đai
+-bánh dẫn
+-bánh lái
+-bánh xe
+-lăn
+-lô in
+-máy cán
+-máy đầm
+-máy lăn
+-máy lăn đường
+-máy lu
+-ống cuộn
+-ống cuộn thước
+-puli
+-xe lăn đường
+@Lĩnh vực: cơ khí & công trình
+-bánh lăn
+-xe hủ lô
+@Lĩnh vực: ô tô
+-bi đũa
+@Lĩnh vực: xây dựng
+-có tính lăn
+-máy rầm
+-vòng (ổ bi)
+@Lĩnh vực: giao thông & vận tải
+-sóng lừng (trạng thái biển)

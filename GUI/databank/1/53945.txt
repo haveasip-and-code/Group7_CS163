@@ -1,3 +1,10 @@
-sub
-	@sub /sʌb/\n*  danh từ\n- (thông tục) người cấp dưới\n- tàu ngầm\n- sự mua báo dài hạn\n- sự thay thế; người thay thế\n*  nội động từ\n- (thông tục) đại diện (cho ai), thay thế (cho ai)\n@Chuyên ngành kinh tế\n-tiền ứng trước (của tiền lương)
-
+sub	@sub /sʌb/
+*  danh từ
+- (thông tục) người cấp dưới
+- tàu ngầm
+- sự mua báo dài hạn
+- sự thay thế; người thay thế
+*  nội động từ
+- (thông tục) đại diện (cho ai), thay thế (cho ai)
+@Chuyên ngành kinh tế
+-tiền ứng trước (của tiền lương)

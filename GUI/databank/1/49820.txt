@@ -1,3 +1,16 @@
-sensing
-	@sensing\n- sự thụ cảm; cảm giác\n- photoelectric s. sự thụ cảm quang điện\n@Chuyên ngành kỹ thuật\n-cảm biến\n-cảm giác\n-dò đọc\n-nhận biết\n-sự lấy mẫu\n-sự nhận biết\n@Lĩnh vực: xây dựng\n-sự chỉ phương hướng\n-sự tiếp thu\n@Lĩnh vực: toán & tin\n-sự dò đọc\n-sự thụ cảm
-
+sensing	@sensing
+- sự thụ cảm; cảm giác
+- photoelectric s. sự thụ cảm quang điện
+@Chuyên ngành kỹ thuật
+-cảm biến
+-cảm giác
+-dò đọc
+-nhận biết
+-sự lấy mẫu
+-sự nhận biết
+@Lĩnh vực: xây dựng
+-sự chỉ phương hướng
+-sự tiếp thu
+@Lĩnh vực: toán & tin
+-sự dò đọc
+-sự thụ cảm

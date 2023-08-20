@@ -1,3 +1,62 @@
-principal
-	@principal /'prinsəpəl/\n*  tính từ\n- chính, chủ yếu\n=principal cause+ nguyên nhân chính\n=principal boy+ vai nam chính (trong một vở tuồng câm)\n=principal girl+ vai nữ chính (trong một vở tuồng câm)\n- (ngôn ngữ học) chính\n=principal clause+ mệnh đề chính\n*  danh từ\n- người đứng đầu\n- giám đốc, hiệu trưởng\n=lady principal+ bà hiệu trưởng\n- chủ, chủ mướn, chủ thuê\n- người uỷ nhiệm\n- người đọ súng (đọ gươm) tay đôi\n- thủ phạm chính\n- (thương nghiệp) tiền vốn; vốn chính, vốn nguyên thuỷ\n- (kiến trúc) xà cái, xà chính\n@Chuyên ngành kinh tế\n-chính\n-chủ\n-chủ mướn\n-chủ thuê\n-chủ yếu\n-giám đốc\n-người chủ\n-người chủ sự\n-người phụ trách\n-người ủy nhiệm\n-người ủy thác\n-người xuất lệnh phát phiếu\n-phần vốn chính\n-thân chủ (của một luật sư)\n-thủ trưởng\n-tiền vốn\n-tiền vốn vay\n@Chuyên ngành kỹ thuật\n-chủ yếu\n-cơ bản\n-cơ sở\n-dàn\n-giám đốc\n-kèo mái\n-rầm đỡ\n-vốn\n-vốn ban đầu\n-xà gỗ\n@Lĩnh vực: toán & tin\n-chính, vốn, tiền gốc\n-tiền gốc\n@Lĩnh vực: xây dựng\n-dàn kèo mái\n-dàn mái\n-dàn mái nhà\n-dàn mái tam giác\n-vì kèo chính\n@Lĩnh vực: cơ khí & công trình\n-tiền vốn\n-vốn chính\n-vốn gốc\n@Lĩnh vực: hóa học & vật liệu\n-vốn khởi đầu
-
+principal	@principal /'prinsəpəl/
+*  tính từ
+- chính, chủ yếu
+=principal cause+ nguyên nhân chính
+=principal boy+ vai nam chính (trong một vở tuồng câm)
+=principal girl+ vai nữ chính (trong một vở tuồng câm)
+- (ngôn ngữ học) chính
+=principal clause+ mệnh đề chính
+*  danh từ
+- người đứng đầu
+- giám đốc, hiệu trưởng
+=lady principal+ bà hiệu trưởng
+- chủ, chủ mướn, chủ thuê
+- người uỷ nhiệm
+- người đọ súng (đọ gươm) tay đôi
+- thủ phạm chính
+- (thương nghiệp) tiền vốn; vốn chính, vốn nguyên thuỷ
+- (kiến trúc) xà cái, xà chính
+@Chuyên ngành kinh tế
+-chính
+-chủ
+-chủ mướn
+-chủ thuê
+-chủ yếu
+-giám đốc
+-người chủ
+-người chủ sự
+-người phụ trách
+-người ủy nhiệm
+-người ủy thác
+-người xuất lệnh phát phiếu
+-phần vốn chính
+-thân chủ (của một luật sư)
+-thủ trưởng
+-tiền vốn
+-tiền vốn vay
+@Chuyên ngành kỹ thuật
+-chủ yếu
+-cơ bản
+-cơ sở
+-dàn
+-giám đốc
+-kèo mái
+-rầm đỡ
+-vốn
+-vốn ban đầu
+-xà gỗ
+@Lĩnh vực: toán & tin
+-chính, vốn, tiền gốc
+-tiền gốc
+@Lĩnh vực: xây dựng
+-dàn kèo mái
+-dàn mái
+-dàn mái nhà
+-dàn mái tam giác
+-vì kèo chính
+@Lĩnh vực: cơ khí & công trình
+-tiền vốn
+-vốn chính
+-vốn gốc
+@Lĩnh vực: hóa học & vật liệu
+-vốn khởi đầu

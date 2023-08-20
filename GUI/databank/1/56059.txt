@@ -1,3 +1,8 @@
-terminology
-	@terminology /,tə:mi'nɔlədʤi/\n*  danh từ\n- thuật ngữ học\n- thuật ngữ\n@Chuyên ngành kỹ thuật\n-thuật ngữ\n@Lĩnh vực: y học\n-danh pháp
-
+terminology	@terminology /,tə:mi'nɔlədʤi/
+*  danh từ
+- thuật ngữ học
+- thuật ngữ
+@Chuyên ngành kỹ thuật
+-thuật ngữ
+@Lĩnh vực: y học
+-danh pháp

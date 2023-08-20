@@ -1,3 +1,6 @@
-nanosecond
-	@nanosecond\n- nanô giây, nanosec (ns)\n@Chuyên ngành kỹ thuật\n-nano giây\n@Lĩnh vực: điện\n-phần tỷ dây
-
+nanosecond	@nanosecond
+- nanô giây, nanosec (ns)
+@Chuyên ngành kỹ thuật
+-nano giây
+@Lĩnh vực: điện
+-phần tỷ dây

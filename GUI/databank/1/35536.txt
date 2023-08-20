@@ -1,3 +1,2 @@
-monomorphic
-	@monomorphic\n- đơn cấu, đơn ánh
-
+monomorphic	@monomorphic
+- đơn cấu, đơn ánh

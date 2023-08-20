@@ -1,3 +1,4 @@
-carwash
-	@carwash\n* danh từ\n- khu vực để rửa xe
-
+carwash	
+@carwash
+* danh từ
+- khu vực để rửa xe

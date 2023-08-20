@@ -1,3 +1,30 @@
-depth
-	@depth /depθ/\n*  danh từ\n- chiều sâu, bề sâu, độ sâu; độ dày\n=the depth of a river+ chiều sâu của con sông\n=a well five meters in depth+ giếng sâu năm mét\n=atmospheric depth+ độ dày của quyển khí\n- (từ lóng) sự sâu xa, tính thâm trầm (của tư tưởng...); tầm hiểu biết, năng lực, trình độ\n=a man of great depth+ người có trình độ hiểu biết sâu\n=to be out of one's depth+ (nghĩa bóng) bị ngợp; quá năng lực; không với tới được; quá tầm hiểu biết\n=to be beyond one's depth+ quá khả năng, quá sức mình\n- chỗ sâu, chỗ thầm kín, đáy, chỗ tận cùng\n=in the depth of one's hear+ trong thâm tâm, tận đáy lòng\n=in the depth(s) of winter+ giữa mùa đông\n=in the depths of depair+ trong cơn tuyệt vọng\n=a cry from the depths+ tiếng kêu từ đáy lòng\n- (số nhiều) vực thẳm\n@Chuyên ngành kinh tế\n-độ đậm (của màu sắc. . .)\n-độ dày\n-độ sâu\n@Chuyên ngành kỹ thuật\n-chiều cao\n-chiều dày\n-chiều dày (vỉa)\n-độ cao\n-độ dày\n-độ sâu\n@Lĩnh vực: xây dựng\n-bề dầy
-
+depth	
+@depth /depθ/
+*  danh từ
+- chiều sâu, bề sâu, độ sâu; độ dày=the depth of a river
++ chiều sâu của con sông=a well five meters in depth
++ giếng sâu năm mét=atmospheric depth
++ độ dày của quyển khí
+- (từ lóng) sự sâu xa, tính thâm trầm (của tư tưởng...); tầm hiểu biết, năng lực, trình độ=a man of great depth
++ người có trình độ hiểu biết sâu=to be out of one's depth
++ (nghĩa bóng) bị ngợp; quá năng lực; không với tới được; quá tầm hiểu biết=to be beyond one's depth
++ quá khả năng, quá sức mình
+- chỗ sâu, chỗ thầm kín, đáy, chỗ tận cùng=in the depth of one's hear
++ trong thâm tâm, tận đáy lòng=in the depth(s) of winter
++ giữa mùa đông=in the depths of depair
++ trong cơn tuyệt vọng=a cry from the depths
++ tiếng kêu từ đáy lòng
+- (số nhiều) vực thẳm
+@Chuyên ngành kinh tế
+-độ đậm (của màu sắc. . .)
+-độ dày
+-độ sâu
+@Chuyên ngành kỹ thuật
+-chiều cao
+-chiều dày
+-chiều dày (vỉa)
+-độ cao
+-độ dày
+-độ sâu
+@Lĩnh vực: xây dựng
+-bề dầy

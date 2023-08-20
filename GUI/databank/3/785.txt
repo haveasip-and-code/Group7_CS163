@@ -1,3 +1,2 @@
-adjustable
-	@adjustable\n- (Tech) điều chỉnh được
-
+adjustable	@adjustable
+- (Tech) điều chỉnh được

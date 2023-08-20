@@ -1,3 +1,20 @@
-cove
-	@cove /kouv/\n*  danh từ\n- (địa lý,địa chất) vịnh nhỏ, vũng\n- (kiến trúc) vòm, khung to vò\n- chỗ kín đáo, nơi kín đáo\n*  danh từ\n- (từ lóng) gã, chàng, lão, thằng cha\n@Chuyên ngành kỹ thuật\n-cactơ\n-mái vòm\n-rãnh tròn\n-sự sửa tròn\n-sự vê tròn\n-vịnh nhỏ\n-vũng\n@Lĩnh vực: xây dựng\n-thể nhỏ\n-vòm nhỏ\n-xây vòm nhỏ
-
+cove	
+@cove /kouv/
+*  danh từ
+- (địa lý,địa chất) vịnh nhỏ, vũng
+- (kiến trúc) vòm, khung to vò
+- chỗ kín đáo, nơi kín đáo
+*  danh từ
+- (từ lóng) gã, chàng, lão, thằng cha
+@Chuyên ngành kỹ thuật
+-cactơ
+-mái vòm
+-rãnh tròn
+-sự sửa tròn
+-sự vê tròn
+-vịnh nhỏ
+-vũng
+@Lĩnh vực: xây dựng
+-thể nhỏ
+-vòm nhỏ
+-xây vòm nhỏ

@@ -1,3 +1,47 @@
-bell
-	@bell /bel/\n*  danh từ\n- cái chuông; nhạc (ở cổ ngựa...)\n- tiếng chuông\n- (thực vật học) tràng hoa\n- (địa lý,địa chất) thể vòm\n!to bear the bell\n- giữ vai trò phụ trách, giữ vai trò lãnh đạo, ở địa vị hàng đầu\n!to bear (carry) away the bell\n- chiếm giải nhất trong cuộc thi\n!to lose the bell\n- thất bại trong cuộc thi\n!to ring the bell\n- rung chuông\n- (thực vật học) tiến bộ, đạt được những kết quả tốt\n!to ring one's own bell\n- tự mình làm quảng cáo cho mình, tự mình khua chuông gõ mõ cho mình\n*  ngoại động từ\n- buộc chuông vào, treo chuông vào\n!to bell the cat\n- đứng mũi chịu sào; giơ đầu chịu báng\n*  danh từ\n- tiếng kêu động đực (hươu nai)\n*  nội động từ\n- kêu, rống (hươu nai động đực)\n@Chuyên ngành kinh tế\n-tiếng chuông\n@Chuyên ngành kỹ thuật\n-cái chuông\n-cupôn\n-miệng\n-miệng loe\n-ống mềm\n-tiếng chuông\n-vòm\n@Lĩnh vực: xây dựng\n-chuông\n-đầu cột côrin\n-miệng chuông\n@Lĩnh vực: hóa học & vật liệu\n-côn nắp\n-đánh chuông\n@Lĩnh vực: vật lý\n-côn nạp liệu\n-nón nạp liệu\n@Lĩnh vực: cơ khí & công trình\n-thể vòm
-
+bell	@bell /bel/
+*  danh từ
+- cái chuông; nhạc (ở cổ ngựa...)
+- tiếng chuông
+- (thực vật học) tràng hoa
+- (địa lý,địa chất) thể vòm
+!to bear the bell
+- giữ vai trò phụ trách, giữ vai trò lãnh đạo, ở địa vị hàng đầu
+!to bear (carry) away the bell
+- chiếm giải nhất trong cuộc thi
+!to lose the bell
+- thất bại trong cuộc thi
+!to ring the bell
+- rung chuông
+- (thực vật học) tiến bộ, đạt được những kết quả tốt
+!to ring one's own bell
+- tự mình làm quảng cáo cho mình, tự mình khua chuông gõ mõ cho mình
+*  ngoại động từ
+- buộc chuông vào, treo chuông vào
+!to bell the cat
+- đứng mũi chịu sào; giơ đầu chịu báng
+*  danh từ
+- tiếng kêu động đực (hươu nai)
+*  nội động từ
+- kêu, rống (hươu nai động đực)
+@Chuyên ngành kinh tế
+-tiếng chuông
+@Chuyên ngành kỹ thuật
+-cái chuông
+-cupôn
+-miệng
+-miệng loe
+-ống mềm
+-tiếng chuông
+-vòm
+@Lĩnh vực: xây dựng
+-chuông
+-đầu cột côrin
+-miệng chuông
+@Lĩnh vực: hóa học & vật liệu
+-côn nắp
+-đánh chuông
+@Lĩnh vực: vật lý
+-côn nạp liệu
+-nón nạp liệu
+@Lĩnh vực: cơ khí & công trình
+-thể vòm

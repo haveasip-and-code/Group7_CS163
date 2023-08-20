@@ -1,3 +1,22 @@
-staging
-	@staging /'steidʤiɳ/\n*  danh từ\n- sự đưa một vở kịch lên sân khấu\n- sự chạy xe ngựa chở khách (theo chặn đường nhất định)\n- sự bắc giàn\n@Chuyên ngành kỹ thuật\n-bến tàu\n-cầu tàu\n-dàn giáo\n-giàn giáo\n-sàn làm việc\n@Lĩnh vực: cơ khí & công trình\n-giá đỡ bộ\n-sự bắc giàn\n-sự thay đổi có cấp (tốc độ)\n@Lĩnh vực: điện tử & viễn thông\n-sự dàn dựng\n-sự phân tách tầng (tên lửa)\n@Lĩnh vực: toán & tin\n-sự dịch chuyển (dữ liệu)\n-sự tách chuyển (dữ liệu)\n-sự tổ chức
-
+staging	@staging /'steidʤiɳ/
+*  danh từ
+- sự đưa một vở kịch lên sân khấu
+- sự chạy xe ngựa chở khách (theo chặn đường nhất định)
+- sự bắc giàn
+@Chuyên ngành kỹ thuật
+-bến tàu
+-cầu tàu
+-dàn giáo
+-giàn giáo
+-sàn làm việc
+@Lĩnh vực: cơ khí & công trình
+-giá đỡ bộ
+-sự bắc giàn
+-sự thay đổi có cấp (tốc độ)
+@Lĩnh vực: điện tử & viễn thông
+-sự dàn dựng
+-sự phân tách tầng (tên lửa)
+@Lĩnh vực: toán & tin
+-sự dịch chuyển (dữ liệu)
+-sự tách chuyển (dữ liệu)
+-sự tổ chức

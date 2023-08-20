@@ -1,3 +1,7 @@
-downspout
-	@Chuyên ngành kỹ thuật\n-ống chảy tràn\n@Lĩnh vực: xây dựng\n-ống dẫn nước mưa\n-ống đi xuống\n-ống máng xuống
-
+downspout	
+@Chuyên ngành kỹ thuật
+-ống chảy tràn
+@Lĩnh vực: xây dựng
+-ống dẫn nước mưa
+-ống đi xuống
+-ống máng xuống

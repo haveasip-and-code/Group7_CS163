@@ -1,3 +1,5 @@
-blanker
-	@Chuyên ngành kỹ thuật\n-khuôn\n-khuôn rèn thô\n-rãnh cán\n-rãnh dập thô
-
+blanker	@Chuyên ngành kỹ thuật
+-khuôn
+-khuôn rèn thô
+-rãnh cán
+-rãnh dập thô

@@ -1,3 +1,21 @@
-elemental
-	@elemental /,eli'mentl/\n*  tính từ\n- (thuộc) bốn nguyên tố; (thuộc) sức mạnh thiên nhiên\n- siêu phàm như sức mạnh thiên nhiên\n- (hoá học) (thuộc) nguyên tố; hợp thành\n- cốt yếu; cơ bản\n@Chuyên ngành kỹ thuật\n-cơ sở\n-nguyên chất\n-nguyên tố\n-sơ cấp\n@Lĩnh vực: điện lạnh\n-sơ đẳng\n@Chuyên ngành kỹ thuật\n-cơ sở\n-nguyên chất\n-nguyên tố\n-sơ cấp\n@Lĩnh vực: điện lạnh\n-sơ đẳng
-
+elemental	
+@elemental /,eli'mentl/
+*  tính từ
+- (thuộc) bốn nguyên tố; (thuộc) sức mạnh thiên nhiên
+- siêu phàm như sức mạnh thiên nhiên
+- (hoá học) (thuộc) nguyên tố; hợp thành
+- cốt yếu; cơ bản
+@Chuyên ngành kỹ thuật
+-cơ sở
+-nguyên chất
+-nguyên tố
+-sơ cấp
+@Lĩnh vực: điện lạnh
+-sơ đẳng
+@Chuyên ngành kỹ thuật
+-cơ sở
+-nguyên chất
+-nguyên tố
+-sơ cấp
+@Lĩnh vực: điện lạnh
+-sơ đẳng

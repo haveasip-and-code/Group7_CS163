@@ -1,3 +1,85 @@
-burst
-	@burst /bə:st/\n*  danh từ\n- sự nổ tung, sự vỡ tung; tiếng nổ (bom)\n- sự gắng lên, sự dấn lên, sự nổ lực lên\n=a burst of energy+ sự gắng sức\n- sự bật lên, sự nổ ra, sự bùng lên\n=a burst of laughter+ sự cười phá lên\n=a burst of flame+ lửa bùng cháy\n=a burst of gun-fire+ loạt đạn nổ\n- sự xuất hiện đột ngột\n- sự phi nước đại (ngựa)\n- sự chè chén say sưa\n=to go (be) on the burst+ chè chén say sưa\n*  động từ\n- nổ, nổ tung (bom, đạn...); vỡ (mụn nhọt); nổ, vỡ (bong bóng); vỡ, vỡ tung ra (để); nhú, nở (lá, nụ hoa)\n=sides burst with laughing+ cười vỡ bụng\n=buttons burst with food+ ăn no căng bật cả khuy cài\n- đầy ních, tràn đầy\n=storehouse bursting with grain+ nhà kho đầy ních thóc lúa\n=to be bursting with pride (happiness, envy, health)+ tràn đầy liêu hãnh (hạnh phúc, ghen tị, sức khoẻ)\n- nóng lòng háo hức\n=to be bursting with a secret; to be bursting to tell a secret+ nóng lòng muốn nói ra một điều bí mật\n- làm nổ tung ra; làm bật tung ra; làm rách tung ra, làm vỡ tung ra\n=to tire+ làm nổ lốp\n=to burst the door open+ phá tung cửa ra\n- xông, xộc, vọt; đột nhiên xuất hiện\n=to burst into the room+ xộc vào buồng\n=the oil bursts out of the ground+ dầu vọt từ dưới đất lên\n=the sun bursts through the clounds+ mặt trời đột nhiên xuất hiện qua các làn mây\n!to brust forth\n- (như) to brust out\n!to brust in\n- mở tung vào (phía trong)\n=to burst the door in+ mở tung cửa vào\n- làm gián đoạn; ngắt lời\n=to burst in upon a conversation+ làm gián đoạn câu chuyện\n- thình lình đến, thình lình xuất hiện\n=he 'll be bursting ion uopn us at any moment+ chưa biết lúc nào anh ta sẽ đến với chúng ta\n!to brust into\n- bùng lên, bật lên\n=to burst into flames+ bùng cháy\n=to burst into tears+ khóc oà lên\n=to burst into laughter+ cười phá lên\n!to burst out\n- thốt lên; nói ầm lên, lớn tiếng\n=to burst out into threats+ thốt lên những lời đe doạ\n=to out (forth) into explanations+ lớn tiếng giải thích\n- phá lên, oà lên, bật lên\n=to burst out laughing+ cười phá lên\n- bùng ra, nổ ra, bật ra (chiến tranh, bệnh tật, tiếng ồn ào...)\n!to burst up\n- (thông tục) làm nổ bùng, nổ bùng\n- làm suy sụp; suy sụp\n!to burst upon\n- chợt xuất hiện, chợt đến\n=the viewn bursts upon our sight+ quang cảnh đó chợt xuất hiện trước mắt chúng tôi\n=the truth bursts upon him+ anh ta chợt nhận ra lẽ phải\n@Chuyên ngành kỹ thuật\n-bùng cháy\n-chỗ đứt\n-chớp sáng\n-khối tín hiệu\n-nhóm\n-nổ\n-phụt tóc\n-sự bắt tung toé\n-sự đứt\n-sự nổ\n-sự nổ mìn\n-sự rách\n-sự tõe ra\n-tách rời\n-truyền loạt\n-vỡ tung\n-vụ nổ\n@Lĩnh vực: toán & tin\n-khối lõi\n-nhóm lỗi\n-phân chia giấy\n-tách giấy\n-truyền từng khối\n@Lĩnh vực: xây dựng\n-nổ (mìn)\n-sự nổ tung\n-vỏ xe bị thủng\n@Lĩnh vực: cơ khí & công trình\n-sự bắn đá\n@Lĩnh vực: ô tô\n-sự nổ vỏ xe
-
+burst	
+@burst /bə:st/
+*  danh từ
+- sự nổ tung, sự vỡ tung; tiếng nổ (bom)
+- sự gắng lên, sự dấn lên, sự nổ lực lên=a burst of energy
++ sự gắng sức
+- sự bật lên, sự nổ ra, sự bùng lên=a burst of laughter
++ sự cười phá lên=a burst of flame
++ lửa bùng cháy=a burst of gun
+-fire
++ loạt đạn nổ
+- sự xuất hiện đột ngột
+- sự phi nước đại (ngựa)
+- sự chè chén say sưa=to go (be) on the burst
++ chè chén say sưa
+*  động từ
+- nổ, nổ tung (bom, đạn...); vỡ (mụn nhọt); nổ, vỡ (bong bóng); vỡ, vỡ tung ra (để); nhú, nở (lá, nụ hoa)=sides burst with laughing
++ cười vỡ bụng=buttons burst with food
++ ăn no căng bật cả khuy cài
+- đầy ních, tràn đầy=storehouse bursting with grain
++ nhà kho đầy ních thóc lúa=to be bursting with pride (happiness, envy, health)
++ tràn đầy liêu hãnh (hạnh phúc, ghen tị, sức khoẻ)
+- nóng lòng háo hức=to be bursting with a secret; to be bursting to tell a secret
++ nóng lòng muốn nói ra một điều bí mật
+- làm nổ tung ra; làm bật tung ra; làm rách tung ra, làm vỡ tung ra=to tire
++ làm nổ lốp=to burst the door open
++ phá tung cửa ra
+- xông, xộc, vọt; đột nhiên xuất hiện=to burst into the room
++ xộc vào buồng=the oil bursts out of the ground
++ dầu vọt từ dưới đất lên=the sun bursts through the clounds
++ mặt trời đột nhiên xuất hiện qua các làn mây!to brust forth
+- (như) to brust out!to brust in
+- mở tung vào (phía trong)=to burst the door in
++ mở tung cửa vào
+- làm gián đoạn; ngắt lời=to burst in upon a conversation
++ làm gián đoạn câu chuyện
+- thình lình đến, thình lình xuất hiện=he 'll be bursting ion uopn us at any moment
++ chưa biết lúc nào anh ta sẽ đến với chúng ta!to brust into
+- bùng lên, bật lên=to burst into flames
++ bùng cháy=to burst into tears
++ khóc oà lên=to burst into laughter
++ cười phá lên!to burst out
+- thốt lên; nói ầm lên, lớn tiếng=to burst out into threats
++ thốt lên những lời đe doạ=to out (forth) into explanations
++ lớn tiếng giải thích
+- phá lên, oà lên, bật lên=to burst out laughing
++ cười phá lên
+- bùng ra, nổ ra, bật ra (chiến tranh, bệnh tật, tiếng ồn ào...)!to burst up
+- (thông tục) làm nổ bùng, nổ bùng
+- làm suy sụp; suy sụp!to burst upon
+- chợt xuất hiện, chợt đến=the viewn bursts upon our sight
++ quang cảnh đó chợt xuất hiện trước mắt chúng tôi=the truth bursts upon him
++ anh ta chợt nhận ra lẽ phải
+@Chuyên ngành kỹ thuật
+-bùng cháy
+-chỗ đứt
+-chớp sáng
+-khối tín hiệu
+-nhóm
+-nổ
+-phụt tóc
+-sự bắt tung toé
+-sự đứt
+-sự nổ
+-sự nổ mìn
+-sự rách
+-sự tõe ra
+-tách rời
+-truyền loạt
+-vỡ tung
+-vụ nổ
+@Lĩnh vực: toán & tin
+-khối lõi
+-nhóm lỗi
+-phân chia giấy
+-tách giấy
+-truyền từng khối
+@Lĩnh vực: xây dựng
+-nổ (mìn)
+-sự nổ tung
+-vỏ xe bị thủng
+@Lĩnh vực: cơ khí & công trình
+-sự bắn đá
+@Lĩnh vực: ô tô
+-sự nổ vỏ xe

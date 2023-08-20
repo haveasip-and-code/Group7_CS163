@@ -1,3 +1,2 @@
-writes
-	@Chuyên ngành kinh tế\n-ghi
-
+writes	@Chuyên ngành kinh tế
+-ghi

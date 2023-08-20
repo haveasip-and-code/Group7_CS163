@@ -1,3 +1,19 @@
-update
-	@update\n* ngoại động từ\n- làm cho cập nhật, hiện đại hoá\n- cho ai thông tin mới nhất (về cái gì)\n* danh từ\n- sự cập nhật hoá (thông tin mới nhất)\n@Chuyên ngành kinh tế\n-cập nhật\n-điều chỉnh\n@Chuyên ngành kỹ thuật\n-cập nhật hóa\n-hiện đại hóa\n-nhập\n-nhật tu\n@Lĩnh vực: toán & tin\n-cập nhật, nhật tu\n-làm tươi lại\n-phiên bản mới nhất\n-sự cập nhật
-
+update	@update
+* ngoại động từ
+- làm cho cập nhật, hiện đại hoá
+- cho ai thông tin mới nhất (về cái gì)
+* danh từ
+- sự cập nhật hoá (thông tin mới nhất)
+@Chuyên ngành kinh tế
+-cập nhật
+-điều chỉnh
+@Chuyên ngành kỹ thuật
+-cập nhật hóa
+-hiện đại hóa
+-nhập
+-nhật tu
+@Lĩnh vực: toán & tin
+-cập nhật, nhật tu
+-làm tươi lại
+-phiên bản mới nhất
+-sự cập nhật

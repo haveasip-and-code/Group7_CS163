@@ -1,3 +1,3 @@
-soundings
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-độ sâu đo được (biển)
-
+soundings	@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-độ sâu đo được (biển)

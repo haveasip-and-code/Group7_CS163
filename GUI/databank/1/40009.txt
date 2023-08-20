@@ -1,3 +1,2 @@
-pathophysiology
-	@Chuyên ngành kỹ thuật\n-sinh lý bệnh học
-
+pathophysiology	@Chuyên ngành kỹ thuật
+-sinh lý bệnh học

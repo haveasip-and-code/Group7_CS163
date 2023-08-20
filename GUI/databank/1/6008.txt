@@ -1,3 +1,32 @@
-blot
-	@blot /blɔt/\n*  danh từ\n- điểm yếu (về mặt chiến lược)\n=to hit a blot+ phát hiện ra một điểm yếu về mặt chiến lược\n*  danh từ\n- dấu, vết (mực...)\n- vết xoá\n- (nghĩa bóng) vết nhơ, vết nhục\n!a blot on one's escutcheon\n- vết nhơ cho thanh danh của mình\n=a blot on the landscape+ cái làm hại, cái làm đẹp chung\n- người làm mang tai mang tiếng cho gia đình\n*  ngoại động từ\n- làm bẩn, vấy bẩn (bằng mực)\n- thấm\n- (nghĩa bóng) làm mất, làm nhơ, bôi nhọ (phẩm giá, danh dự)\n*  nội động từ\n- thấm, hút mực (giấy thấm)\n- nhỏ mực (bút)\n!to blot out\n- xoá đi, xoá sạch, tẩy sạch\n=to blot out a word+ xoá một từ\n- làm mờ đi, che kín\n=the fog blots out the view+ sương mù làm mờ phong cảnh\n- tiêu diệt, phá huỷ\n!to blot one's copy-book\n- (xem) copy-book\n@Chuyên ngành kỹ thuật\n-đốm\n-vết\n@Lĩnh vực: xây dựng\n-quét lớp lót
-
+blot	
+@blot /blɔt/
+*  danh từ
+- điểm yếu (về mặt chiến lược)=to hit a blot
++ phát hiện ra một điểm yếu về mặt chiến lược
+*  danh từ
+- dấu, vết (mực...)
+- vết xoá
+- (nghĩa bóng) vết nhơ, vết nhục!a blot on one's escutcheon
+- vết nhơ cho thanh danh của mình=a blot on the landscape
++ cái làm hại, cái làm đẹp chung
+- người làm mang tai mang tiếng cho gia đình
+*  ngoại động từ
+- làm bẩn, vấy bẩn (bằng mực)
+- thấm
+- (nghĩa bóng) làm mất, làm nhơ, bôi nhọ (phẩm giá, danh dự)
+*  nội động từ
+- thấm, hút mực (giấy thấm)
+- nhỏ mực (bút)!to blot out
+- xoá đi, xoá sạch, tẩy sạch=to blot out a word
++ xoá một từ
+- làm mờ đi, che kín=the fog blots out the view
++ sương mù làm mờ phong cảnh
+- tiêu diệt, phá huỷ!to blot one's copy
+-book
+- (xem) copy
+-book
+@Chuyên ngành kỹ thuật
+-đốm
+-vết
+@Lĩnh vực: xây dựng
+-quét lớp lót

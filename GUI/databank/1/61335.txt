@@ -1,3 +1,36 @@
-vault
-	@vault /vɔ:lt/\n*  danh từ\n- (thể dục,thể thao) cái nhảy qua (hàng rào, ngựa gỗ...)\n*  nội động từ\n- nhảy qua, nhảy tót lên; nhảy sào\n=to vault over a gate+ nhảy qua cổng\n=to vault into the saddle+ nhảy tót lên yên\n*  ngoại động từ\n- nhảy qua\n*  danh từ\n- vòm, mái vòm, khung vòm\n=the vault of the church+ mái vòm của nhà thờ\n=the vault of heaven+ vòm trời\n- hầm (để cất trữ rượu...)\n- hầm mộ\n=family vault+ hầm mộ gia đình\n*  ngoại động từ\n- xây thành vòm, xây cuốn\n=to vault a passage+ xây khung vòm một lối đi\n=a vaulted roof+ mái vòm\n- che phủ bằng vòm\n=vaulted with fire+ bị lửa phủ kín\n*  nội động từ\n- cuốn thành vòm\n@Chuyên ngành kỹ thuật\n-cuốn\n-hầm\n-hầm chứa\n-nhịp cuốn\n-mái vòm\n-vòm\n-vòng\n-xây vòm\n@Lĩnh vực: xây dựng\n-cuốn thành vòm\n-mái cong dạng vòm
-
+vault	@vault /vɔ:lt/
+*  danh từ
+- (thể dục,thể thao) cái nhảy qua (hàng rào, ngựa gỗ...)
+*  nội động từ
+- nhảy qua, nhảy tót lên; nhảy sào
+=to vault over a gate+ nhảy qua cổng
+=to vault into the saddle+ nhảy tót lên yên
+*  ngoại động từ
+- nhảy qua
+*  danh từ
+- vòm, mái vòm, khung vòm
+=the vault of the church+ mái vòm của nhà thờ
+=the vault of heaven+ vòm trời
+- hầm (để cất trữ rượu...)
+- hầm mộ
+=family vault+ hầm mộ gia đình
+*  ngoại động từ
+- xây thành vòm, xây cuốn
+=to vault a passage+ xây khung vòm một lối đi
+=a vaulted roof+ mái vòm
+- che phủ bằng vòm
+=vaulted with fire+ bị lửa phủ kín
+*  nội động từ
+- cuốn thành vòm
+@Chuyên ngành kỹ thuật
+-cuốn
+-hầm
+-hầm chứa
+-nhịp cuốn
+-mái vòm
+-vòm
+-vòng
+-xây vòm
+@Lĩnh vực: xây dựng
+-cuốn thành vòm
+-mái cong dạng vòm

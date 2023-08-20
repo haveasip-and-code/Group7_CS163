@@ -1,3 +1,8 @@
-misdate
-	@misdate /'mis'deit/\n*  ngoại động từ\n- ghi sai ngày tháng\n@Chuyên ngành kinh tế\n-đề nhầm ngày\n-ghi ngày sai\n-sự giải thích sai\n-sự hiểu sai
-
+misdate	@misdate /'mis'deit/
+*  ngoại động từ
+- ghi sai ngày tháng
+@Chuyên ngành kinh tế
+-đề nhầm ngày
+-ghi ngày sai
+-sự giải thích sai
+-sự hiểu sai

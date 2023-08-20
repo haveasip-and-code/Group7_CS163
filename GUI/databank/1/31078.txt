@@ -1,3 +1,13 @@
-kneader
-	@kneader\n- xem knead\n@Chuyên ngành kinh tế\n-máy nhào trộn\n-máy trộn\n@Chuyên ngành kỹ thuật\n-máy nhào trộn\n@Lĩnh vực: xây dựng\n-máy nhào (đất)\n@Chuyên ngành kỹ thuật\n-máy nhào trộn\n@Lĩnh vực: xây dựng\n-máy nhào (đất)
-
+kneader	@kneader
+- xem knead
+@Chuyên ngành kinh tế
+-máy nhào trộn
+-máy trộn
+@Chuyên ngành kỹ thuật
+-máy nhào trộn
+@Lĩnh vực: xây dựng
+-máy nhào (đất)
+@Chuyên ngành kỹ thuật
+-máy nhào trộn
+@Lĩnh vực: xây dựng
+-máy nhào (đất)

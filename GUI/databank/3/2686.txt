@@ -1,3 +1,6 @@
-antiserum
-	@antiserum\n* danh từ\n- huyết thanh miễn dịch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-kháng huyết thanh
-
+antiserum	@antiserum
+* danh từ
+- huyết thanh miễn dịch
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-kháng huyết thanh

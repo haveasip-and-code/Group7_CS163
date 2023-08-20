@@ -1,3 +1,6 @@
-reconfiguration
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cấu hình lại\n@Lĩnh vực: toán & tin\n-sự cấu hình lại\n-sự tái cấu hình
-
+reconfiguration	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-cấu hình lại
+@Lĩnh vực: toán & tin
+-sự cấu hình lại
+-sự tái cấu hình

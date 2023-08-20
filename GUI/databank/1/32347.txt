@@ -1,3 +1,12 @@
-lipid
-	@lipid /'lipid/ (lipide) /'lipid/ (lipin) /'lipin/\n*  danh từ\n- (hoá học) Lipit\n@Chuyên ngành kinh tế\n-chất béo\n-lipit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất béo thuộc nhóm các hợp chất tự nhiên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất béo thuộc nhóm các hợp chất tự nhiên
-
+lipid	@lipid /'lipid/ (lipide) /'lipid/ (lipin) /'lipin/
+*  danh từ
+- (hoá học) Lipit
+@Chuyên ngành kinh tế
+-chất béo
+-lipit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất béo thuộc nhóm các hợp chất tự nhiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất béo thuộc nhóm các hợp chất tự nhiên

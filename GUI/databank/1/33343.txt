@@ -1,3 +1,3 @@
-majordomo
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chương trình Majordomo
-
+majordomo	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chương trình Majordomo

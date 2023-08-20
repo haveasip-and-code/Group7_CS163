@@ -1,3 +1,36 @@
-slurry
-	@slurry /'slʌri/\n*  danh từ\n- hồ xi măng\n- bùn than\n- vữa chịu lửa (để vá lò cao)\n@Chuyên ngành kinh tế\n-bùn cặn\n-huyền phù\n@Chuyên ngành kỹ thuật\n-bã\n-bột đá\n-bột nhào\n-bùn\n-bùn cặn\n-bùn chưa lắng\n-bùn khoan\n-bùn lỏng\n-bùn quặng\n-bùn quánh\n-bùn sệt\n-bùn xỉ\n-cặn\n-hồ\n-huyền phù đặc\n-phân chuồng lỏng\n-sét béo\n-vữa\n-vữa xi măng\n-vữa ximăng\n@Lĩnh vực: hóa học & vật liệu\n-chất nổi lềnh bềnh\n-hồ xi-măng\n@Lĩnh vực: xây dựng\n-hồ xi măng\n-thể huyền phù\n-thể vẩn
-
+slurry	@slurry /'slʌri/
+*  danh từ
+- hồ xi măng
+- bùn than
+- vữa chịu lửa (để vá lò cao)
+@Chuyên ngành kinh tế
+-bùn cặn
+-huyền phù
+@Chuyên ngành kỹ thuật
+-bã
+-bột đá
+-bột nhào
+-bùn
+-bùn cặn
+-bùn chưa lắng
+-bùn khoan
+-bùn lỏng
+-bùn quặng
+-bùn quánh
+-bùn sệt
+-bùn xỉ
+-cặn
+-hồ
+-huyền phù đặc
+-phân chuồng lỏng
+-sét béo
+-vữa
+-vữa xi măng
+-vữa ximăng
+@Lĩnh vực: hóa học & vật liệu
+-chất nổi lềnh bềnh
+-hồ xi-măng
+@Lĩnh vực: xây dựng
+-hồ xi măng
+-thể huyền phù
+-thể vẩn

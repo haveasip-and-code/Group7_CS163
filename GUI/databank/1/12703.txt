@@ -1,3 +1,6 @@
-criticality
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mức độ rủi ro\n@Lĩnh vực: điện lạnh\n-tính tới hạn
-
+criticality	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-mức độ rủi ro
+@Lĩnh vực: điện lạnh
+-tính tới hạn

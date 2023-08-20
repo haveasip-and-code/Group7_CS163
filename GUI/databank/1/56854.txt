@@ -1,3 +1,2 @@
-toasty
-	@Chuyên ngành kinh tế\n-nướng
-
+toasty	@Chuyên ngành kinh tế
+-nướng

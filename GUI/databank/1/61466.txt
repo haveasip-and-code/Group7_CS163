@@ -1,3 +1,2 @@
-ventilatory
-	@ventilatory\n- xem ventilator
-
+ventilatory	@ventilatory
+- xem ventilator

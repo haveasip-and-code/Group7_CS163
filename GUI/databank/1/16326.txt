@@ -1,3 +1,8 @@
-docker
-	@docker\n* danh từ\n- công nhân bốc xếp ở bến tàu\n@Chuyên ngành kinh tế\n-công nhân bến tàu (làm công việc bốc xếp)\n-công nhân bốc xếp\n-khuôn bánh quy
-
+docker	
+@docker
+* danh từ
+- công nhân bốc xếp ở bến tàu
+@Chuyên ngành kinh tế
+-công nhân bến tàu (làm công việc bốc xếp)
+-công nhân bốc xếp
+-khuôn bánh quy

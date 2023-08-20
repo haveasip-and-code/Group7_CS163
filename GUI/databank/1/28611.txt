@@ -1,3 +1,14 @@
-ingredient
-	@ingredient /in'gri:djənt/\n*  danh từ\n- phần hợp thành, thành phần\n@Chuyên ngành kinh tế\n-cấu thành\n-thành phần\n@Chuyên ngành kỹ thuật\n-bộ phận\n-chất độn\n-hợp phần\n-thành phần\n@Lĩnh vực: hóa học & vật liệu\n-cấu tử
-
+ingredient	
+@ingredient /in'gri:djənt/
+*  danh từ
+- phần hợp thành, thành phần
+@Chuyên ngành kinh tế
+-cấu thành
+-thành phần
+@Chuyên ngành kỹ thuật
+-bộ phận
+-chất độn
+-hợp phần
+-thành phần
+@Lĩnh vực: hóa học & vật liệu
+-cấu tử

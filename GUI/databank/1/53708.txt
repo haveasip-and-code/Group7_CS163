@@ -1,3 +1,12 @@
-strickle
-	@strickle /'strikt/\n*  danh từ\n- que gạt (đấu, thùng đong thóc)\n- đá mài\n@Chuyên ngành kinh tế\n-nấu cô (đường)\n-xả đường non từ nồi nấu đường\n@Chuyên ngành kỹ thuật\n-đá mài\n-gạt\n-gạt bằng\n-làm khuôn bằng dưỡng
-
+strickle	@strickle /'strikt/
+*  danh từ
+- que gạt (đấu, thùng đong thóc)
+- đá mài
+@Chuyên ngành kinh tế
+-nấu cô (đường)
+-xả đường non từ nồi nấu đường
+@Chuyên ngành kỹ thuật
+-đá mài
+-gạt
+-gạt bằng
+-làm khuôn bằng dưỡng

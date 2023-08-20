@@ -1,3 +1,6 @@
-whitecap
-	@whitecap\n* danh từ\n- sóng bạc đầu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sóng bạc đầu (trạng thái biển)
-
+whitecap	@whitecap
+* danh từ
+- sóng bạc đầu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-sóng bạc đầu (trạng thái biển)

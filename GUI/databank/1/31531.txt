@@ -1,3 +1,8 @@
-largest
-	@largest\n- lớn nhất\n@Chuyên ngành kỹ thuật\n-cực đại\n-lớn nhất\n@Chuyên ngành kỹ thuật\n-cực đại\n-lớn nhất
-
+largest	@largest
+- lớn nhất
+@Chuyên ngành kỹ thuật
+-cực đại
+-lớn nhất
+@Chuyên ngành kỹ thuật
+-cực đại
+-lớn nhất

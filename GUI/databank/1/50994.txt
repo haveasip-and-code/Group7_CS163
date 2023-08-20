@@ -1,3 +1,12 @@
-skimming
-	@Chuyên ngành kinh tế\n-sự hớt\n-sự vớt\n@Chuyên ngành kỹ thuật\n-bọt váng\n-sự hớt bọt\n-sự múc xỉ nổi\n-xỉ nổi\n@Lĩnh vực: hóa học & vật liệu\n-sự hớt váng\n-sự tách bọt\n-sự tách xỉ
-
+skimming	@Chuyên ngành kinh tế
+-sự hớt
+-sự vớt
+@Chuyên ngành kỹ thuật
+-bọt váng
+-sự hớt bọt
+-sự múc xỉ nổi
+-xỉ nổi
+@Lĩnh vực: hóa học & vật liệu
+-sự hớt váng
+-sự tách bọt
+-sự tách xỉ

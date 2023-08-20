@@ -1,3 +1,2 @@
-averageness
-	@averageness\n- xem average
-
+averageness	@averageness
+- xem average

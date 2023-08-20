@@ -1,3 +1,9 @@
-hacker
-	@hacker\n* danh từ\n- người lấy dữ liệu máy tính mà không được phép\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-điện tặc\n@Lĩnh vực: toán & tin\n-hacker
-
+hacker	
+@hacker
+* danh từ
+- người lấy dữ liệu máy tính mà không được phép
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-điện tặc
+@Lĩnh vực: toán & tin
+-hacker

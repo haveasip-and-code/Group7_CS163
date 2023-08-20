@@ -1,3 +1,8 @@
-rotenone
-	@rotenone\n* danh từ\n- rotenon (thuốc trừ sâu)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-để in\n@Lĩnh vực: hóa học & vật liệu\n-rotenon (thuốc trừ sâu)
-
+rotenone	@rotenone
+* danh từ
+- rotenon (thuốc trừ sâu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-để in
+@Lĩnh vực: hóa học & vật liệu
+-rotenon (thuốc trừ sâu)

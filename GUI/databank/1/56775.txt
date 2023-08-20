@@ -1,3 +1,13 @@
-tipping
-	@Chuyên ngành kinh tế\n-mầm chè\n-mầm hạt cà phê\n-sự cắt rửa\n-sự đảo\n-sự lật\n@Chuyên ngành kỹ thuật\n-độ lệch\n-độ nghiêng\n-sự lật\n-sự nghiêng\n@Lĩnh vực: cơ khí & công trình\n-đặt nghiêng (góc lưỡi ủi để ủi xiên)
-
+tipping	@Chuyên ngành kinh tế
+-mầm chè
+-mầm hạt cà phê
+-sự cắt rửa
+-sự đảo
+-sự lật
+@Chuyên ngành kỹ thuật
+-độ lệch
+-độ nghiêng
+-sự lật
+-sự nghiêng
+@Lĩnh vực: cơ khí & công trình
+-đặt nghiêng (góc lưỡi ủi để ủi xiên)

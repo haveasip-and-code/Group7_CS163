@@ -1,3 +1,39 @@
-skid
-	@skid /skid/\n*  danh từ\n- má phanh\n- sống trượt\n- sự quay trượt; sự trượt bánh\n- (hàng không) nạng đuôi\n!on the skids\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gặp tai hoạ đến nơi\n- xuống chó, xuống dốc (bóng)\n*  động từ\n- chèn; chặn\n- trượt (xe, bánh xe); làm cho (xe, bánh xe) trượt\n@Chuyên ngành kỹ thuật\n-bàn trượt\n-canh\n-chặn\n-đường dẫn hướng\n-đường trượt\n-giá trượt\n-guốc hãm\n-guốc phanh\n-làm trượt\n-má phanh\n-ô tô trượt bánh\n-phanh\n-sự trượt\n@Lĩnh vực: xây dựng\n-bệ chống trượt\n-kê\n@Lĩnh vực: vật lý\n-bộ bốc dỡ\n-khung bốc dỡ\n@Lĩnh vực: cơ khí & công trình\n-con lăn (để di chuyển khối nặng)\n-quay không (bánh xe)\n-quay trượt\n@Lĩnh vực: hóa học & vật liệu\n-đế trượt\n-sự trượt bánh
-
+skid	@skid /skid/
+*  danh từ
+- má phanh
+- sống trượt
+- sự quay trượt; sự trượt bánh
+- (hàng không) nạng đuôi
+!on the skids
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gặp tai hoạ đến nơi
+- xuống chó, xuống dốc (bóng)
+*  động từ
+- chèn; chặn
+- trượt (xe, bánh xe); làm cho (xe, bánh xe) trượt
+@Chuyên ngành kỹ thuật
+-bàn trượt
+-canh
+-chặn
+-đường dẫn hướng
+-đường trượt
+-giá trượt
+-guốc hãm
+-guốc phanh
+-làm trượt
+-má phanh
+-ô tô trượt bánh
+-phanh
+-sự trượt
+@Lĩnh vực: xây dựng
+-bệ chống trượt
+-kê
+@Lĩnh vực: vật lý
+-bộ bốc dỡ
+-khung bốc dỡ
+@Lĩnh vực: cơ khí & công trình
+-con lăn (để di chuyển khối nặng)
+-quay không (bánh xe)
+-quay trượt
+@Lĩnh vực: hóa học & vật liệu
+-đế trượt
+-sự trượt bánh

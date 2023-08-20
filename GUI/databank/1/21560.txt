@@ -1,3 +1,8 @@
-flowerpot
-	@flowerpot /flowerpot/\n*  danh từ\n- chậu hoa\n@Chuyên ngành kỹ thuật\n-chậu hoa\n@Chuyên ngành kỹ thuật\n-chậu hoa
-
+flowerpot	
+@flowerpot /flowerpot/
+*  danh từ
+- chậu hoa
+@Chuyên ngành kỹ thuật
+-chậu hoa
+@Chuyên ngành kỹ thuật
+-chậu hoa

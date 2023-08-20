@@ -1,3 +1,8 @@
-workpiece
-	@workpiece\n* danh từ\n- vật chưa thành phẩm\n@Chuyên ngành kỹ thuật\n-phôi gia công\n@Lĩnh vực: cơ khí & công trình\n-vật cần hàn\n-vật gia công (chi tiết)
-
+workpiece	@workpiece
+* danh từ
+- vật chưa thành phẩm
+@Chuyên ngành kỹ thuật
+-phôi gia công
+@Lĩnh vực: cơ khí & công trình
+-vật cần hàn
+-vật gia công (chi tiết)

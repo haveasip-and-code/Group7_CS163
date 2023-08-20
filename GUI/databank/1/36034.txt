@@ -1,3 +1,3 @@
-mungoose
-	@mungoose\n* danh từ\n- xem mongoose
-
+mungoose	@mungoose
+* danh từ
+- xem mongoose

@@ -1,3 +1,7 @@
-endodontics
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh học nội khoa răng miệng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh học nội khoa răng miệng
-
+endodontics	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh học nội khoa răng miệng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh học nội khoa răng miệng

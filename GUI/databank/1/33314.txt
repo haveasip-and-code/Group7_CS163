@@ -1,3 +1,6 @@
-maim
-	@maim /meim/\n*  danh từ\n- thương tật\n*  ngoại động từ\n- làm tàn tật\n- cắt bớt, xén bớt, cắt xén (một quyển sách, một đoạn văn, một bài thơ...)
-
+maim	@maim /meim/
+*  danh từ
+- thương tật
+*  ngoại động từ
+- làm tàn tật
+- cắt bớt, xén bớt, cắt xén (một quyển sách, một đoạn văn, một bài thơ...)

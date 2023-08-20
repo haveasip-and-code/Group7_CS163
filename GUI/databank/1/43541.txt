@@ -1,3 +1,2 @@
-preventible
-	@preventible\n- xem prevent
-
+preventible	@preventible
+- xem prevent

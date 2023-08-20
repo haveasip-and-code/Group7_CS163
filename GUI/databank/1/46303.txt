@@ -1,3 +1,9 @@
-reflectivity
-	@reflectivity\n* danh từ\n- hệ số phản xạ, hệ số phản chiếu\n@Chuyên ngành kỹ thuật\n-độ phản xạ\n-hệ số phản xạ\n-khả năng phản xạ\n@Lĩnh vực: xây dựng\n-tính phản xạ
-
+reflectivity	@reflectivity
+* danh từ
+- hệ số phản xạ, hệ số phản chiếu
+@Chuyên ngành kỹ thuật
+-độ phản xạ
+-hệ số phản xạ
+-khả năng phản xạ
+@Lĩnh vực: xây dựng
+-tính phản xạ

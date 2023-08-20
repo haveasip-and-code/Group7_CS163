@@ -1,3 +1,15 @@
-temp
-	@temp\n* danh từ\n- nhân viên tạm thời (nhất là thư ký)\n* nội động từ\n- <thgt> làm công việc tạm thời\n* (viết tắt)\n- nhiệt độ (temperature)\n@Chuyên ngành kinh tế\n-làm việc tạm thời\n-nhân viên lâm thờ\n-nhân viên lâm thời\n-thư ký tạm thời\n@Chuyên ngành kỹ thuật\n-nhân viên tạm thời\n-tạm
-
+temp	@temp
+* danh từ
+- nhân viên tạm thời (nhất là thư ký)
+* nội động từ
+- <thgt> làm công việc tạm thời
+* (viết tắt)
+- nhiệt độ (temperature)
+@Chuyên ngành kinh tế
+-làm việc tạm thời
+-nhân viên lâm thờ
+-nhân viên lâm thời
+-thư ký tạm thời
+@Chuyên ngành kỹ thuật
+-nhân viên tạm thời
+-tạm

@@ -1,3 +1,7 @@
-stannum
-	@stannum\n* danh từ\n- thiếc\n@Chuyên ngành kỹ thuật\n-thiếc\n@Lĩnh vực: điện lạnh\n-Sn
-
+stannum	@stannum
+* danh từ
+- thiếc
+@Chuyên ngành kỹ thuật
+-thiếc
+@Lĩnh vực: điện lạnh
+-Sn

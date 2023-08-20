@@ -1,3 +1,5 @@
-terminals
-	@Chuyên ngành kinh tế\n-phí bốc dỡ (đường sắt...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-phí tổn bốc dỡ (hàng)
-
+terminals	@Chuyên ngành kinh tế
+-phí bốc dỡ (đường sắt...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-phí tổn bốc dỡ (hàng)

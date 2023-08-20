@@ -1,3 +1,7 @@
-bedplate
-	@Chuyên ngành kỹ thuật\n-bản tựa\n@Lĩnh vực: cơ khí & công trình\n-phiến đế\n@Lĩnh vực: xây dựng\n-phiến đệm
-
+bedplate	
+@Chuyên ngành kỹ thuật
+-bản tựa
+@Lĩnh vực: cơ khí & công trình
+-phiến đế
+@Lĩnh vực: xây dựng
+-phiến đệm

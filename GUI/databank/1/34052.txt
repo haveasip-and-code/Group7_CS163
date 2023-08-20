@@ -1,3 +1,6 @@
-measles
-	@measles /'mi:zlz/\n*  danh từ,  số nhiều dùng như số ít\n- (y học) bệnh sởi\n- (thú y học) bệnh gạo lợn\n@Chuyên ngành kỹ thuật\n-bệnh sởi
-
+measles	@measles /'mi:zlz/
+*  danh từ,  số nhiều dùng như số ít
+- (y học) bệnh sởi
+- (thú y học) bệnh gạo lợn
+@Chuyên ngành kỹ thuật
+-bệnh sởi

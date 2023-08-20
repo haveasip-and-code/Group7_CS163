@@ -1,3 +1,17 @@
-turret
-	@turret /'tʌrit/\n*  danh từ\n- tháp nhỏ\n- (quân sự) tháp pháo\n=turret gun+ súng đặt trên tháp pháo\n- (kỹ thuật) ụ rêvonve\n@Chuyên ngành kỹ thuật\n-bàn dao rơvonve\n-đầu rơvonve\n-máy rơvonve\n-tháp\n-tháp nhỏ\n@Lĩnh vực: cơ khí & công trình\n-bàn xe dao\n-đầu vô tâm\n@Lĩnh vực: điện tử & viễn thông\n-núm chọn đài
-
+turret	@turret /'tʌrit/
+*  danh từ
+- tháp nhỏ
+- (quân sự) tháp pháo
+=turret gun+ súng đặt trên tháp pháo
+- (kỹ thuật) ụ rêvonve
+@Chuyên ngành kỹ thuật
+-bàn dao rơvonve
+-đầu rơvonve
+-máy rơvonve
+-tháp
+-tháp nhỏ
+@Lĩnh vực: cơ khí & công trình
+-bàn xe dao
+-đầu vô tâm
+@Lĩnh vực: điện tử & viễn thông
+-núm chọn đài

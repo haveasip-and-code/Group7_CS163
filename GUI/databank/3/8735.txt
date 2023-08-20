@@ -1,3 +1,13 @@
-changer
-	@changer\n- (Tech) máy đổi\n@Chuyên ngành kinh tế\n-hiệu đổi tiền\n-người đổi tiền\n@Chuyên ngành kỹ thuật\n-bộ biến đổi\n-đổi\n@Lĩnh vực: cơ khí & công trình\n-bộ (phận) biến đổi\n-bộ (phận) chuyển đổi\n@Lĩnh vực: điện lạnh\n-bộ đổi
-
+changer	@changer
+- (Tech) máy đổi
+@Chuyên ngành kinh tế
+-hiệu đổi tiền
+-người đổi tiền
+@Chuyên ngành kỹ thuật
+-bộ biến đổi
+-đổi
+@Lĩnh vực: cơ khí & công trình
+-bộ (phận) biến đổi
+-bộ (phận) chuyển đổi
+@Lĩnh vực: điện lạnh
+-bộ đổi

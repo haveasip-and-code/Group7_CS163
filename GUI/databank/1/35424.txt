@@ -1,3 +1,2 @@
-monatomic
-	@Chuyên ngành kỹ thuật\n-đơn nguyên tử
-
+monatomic	@Chuyên ngành kỹ thuật
+-đơn nguyên tử

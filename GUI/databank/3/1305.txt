@@ -1,3 +1,3 @@
-ai
-	@ai\n* (viết tắt)\n- trí tuệ nhân tạo (artificial intelligence)
-
+ai	@ai
+* (viết tắt)
+- trí tuệ nhân tạo (artificial intelligence)

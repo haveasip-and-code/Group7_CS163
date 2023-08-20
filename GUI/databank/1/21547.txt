@@ -1,3 +1,44 @@
-flow
-	@flow\n- dòng, sự chảy, lưu lượng\n- diabatic f. dòng đoạn nhiệt\n- back f. dòng ngược\n- channel f. dòng chảy trong\n- circular f. dòng hình tròn\n- conical f. dòng hình nón\n- divergent f. dòng phân kỳ\n- energy f. dòng năng lượng\n- fliud f. dòng chất lỏng\n- free f. dòng tự do\n- gas f. dòng khí\n- geodesic f. (giải tích) dòng trắc địa\n- hypersonic f. dòng siêu âm\n- gadually varied f. dòng biến đổi dần\n- isentropic f. dòng đẳng entropi\n- jet f. dòng tia\n- laminar f. dòng thành lớp\n- logarithmic spiral f. dòng xoắn ốc lôga\n- mass f. dòng khối lượng\n- non-steady f. dòng không ổn định\n- ordinarry f. dòng thông thường\n- parallel f. dòng song song\n- plastic f. dòng dẻo\n- potential f. (cơ học) dòng thế\n- pressure f. dòng áp\n- rapid f. dòng nhanh\n- rapidly varied f. dòng biến nhanh\n- secondary f. dòng thứ cấp\n- shearing f. dòng sát, dòng trượt, dòng cắt\n- spiral f. dòng xoắn ốc\n- steady f. dòng ổn định\n- suberitical f. dòng trước tới hạn\n- subsonic f. dòng dưới âm tốc\n- superciritical f. dòng siêu tới hạn, dòng (mạnh) xiết\n- traffic f. dòng vận tải\n- tranqiul f. dòng yên lặng\n- turbulent f. dòng xoáy\n- uniform f. dòng đều\n- unsteady f. dòng không ổn định\n- variable f. dòng biến thiên\n- vortex f. (hình học) dòng rôta
-
+flow	
+@flow
+- dòng, sự chảy, lưu lượng
+- diabatic f. dòng đoạn nhiệt
+- back f. dòng ngược
+- channel f. dòng chảy trong
+- circular f. dòng hình tròn
+- conical f. dòng hình nón
+- divergent f. dòng phân kỳ
+- energy f. dòng năng lượng
+- fliud f. dòng chất lỏng
+- free f. dòng tự do
+- gas f. dòng khí
+- geodesic f. (giải tích) dòng trắc địa
+- hypersonic f. dòng siêu âm
+- gadually varied f. dòng biến đổi dần
+- isentropic f. dòng đẳng entropi
+- jet f. dòng tia
+- laminar f. dòng thành lớp
+- logarithmic spiral f. dòng xoắn ốc lôga
+- mass f. dòng khối lượng
+- non
+-steady f. dòng không ổn định
+- ordinarry f. dòng thông thường
+- parallel f. dòng song song
+- plastic f. dòng dẻo
+- potential f. (cơ học) dòng thế
+- pressure f. dòng áp
+- rapid f. dòng nhanh
+- rapidly varied f. dòng biến nhanh
+- secondary f. dòng thứ cấp
+- shearing f. dòng sát, dòng trượt, dòng cắt
+- spiral f. dòng xoắn ốc
+- steady f. dòng ổn định
+- suberitical f. dòng trước tới hạn
+- subsonic f. dòng dưới âm tốc
+- superciritical f. dòng siêu tới hạn, dòng (mạnh) xiết
+- traffic f. dòng vận tải
+- tranqiul f. dòng yên lặng
+- turbulent f. dòng xoáy
+- uniform f. dòng đều
+- unsteady f. dòng không ổn định
+- variable f. dòng biến thiên
+- vortex f. (hình học) dòng rôta

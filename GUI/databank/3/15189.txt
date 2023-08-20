@@ -1,3 +1,11 @@
-diary
-	@diary /'daiəri/\n*  danh từ\n- sổ nhật ký\n- lịch ghi nhớ\n@Chuyên ngành kinh tế\n-lịch ghi nhớ\n-sổ nhật biên\n-sổ nhật ký\n@Chuyên ngành kỹ thuật\n-nhật kí\n-nhật ký
-
+diary	@diary /'daiəri/
+*  danh từ
+- sổ nhật ký
+- lịch ghi nhớ
+@Chuyên ngành kinh tế
+-lịch ghi nhớ
+-sổ nhật biên
+-sổ nhật ký
+@Chuyên ngành kỹ thuật
+-nhật kí
+-nhật ký

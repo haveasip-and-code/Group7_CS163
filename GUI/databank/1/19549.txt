@@ -1,3 +1,16 @@
-exchanger
-	@Chuyên ngành kinh tế\n-chất trao đổi ion\n-hiệu đổi tiền (ngoại tệ)\n-người buôn bán ngoại hối\n-người đổi tiền\n-người môi giới ngoại tệ\n-thiết bị trao đổi nhiệt\n@Chuyên ngành kỹ thuật\n-bộ trao đổi\n@Lĩnh vực: hóa học & vật liệu\n-máy trao đổi\n@Chuyên ngành kỹ thuật\n-bộ trao đổi\n@Lĩnh vực: hóa học & vật liệu\n-máy trao đổi
-
+exchanger	
+@Chuyên ngành kinh tế
+-chất trao đổi ion
+-hiệu đổi tiền (ngoại tệ)
+-người buôn bán ngoại hối
+-người đổi tiền
+-người môi giới ngoại tệ
+-thiết bị trao đổi nhiệt
+@Chuyên ngành kỹ thuật
+-bộ trao đổi
+@Lĩnh vực: hóa học & vật liệu
+-máy trao đổi
+@Chuyên ngành kỹ thuật
+-bộ trao đổi
+@Lĩnh vực: hóa học & vật liệu
+-máy trao đổi

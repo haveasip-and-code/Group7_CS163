@@ -1,3 +1,9 @@
-fundus
-	@fundus\n* danh từ\n- số nhiều fundi\n- đáy; nền\n= ocular fundus+đáy mắt\n= uterine fundus+đáy dạ con\n@Chuyên ngành kỹ thuật\n-đáy
-
+fundus	
+@fundus
+* danh từ
+- số nhiều fundi
+- đáy; nền= ocular fundus
++đáy mắt= uterine fundus
++đáy dạ con
+@Chuyên ngành kỹ thuật
+-đáy

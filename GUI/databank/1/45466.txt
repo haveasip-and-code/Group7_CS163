@@ -1,3 +1,14 @@
-rainfall
-	@rainfall /'reinfɔ:l/\n*  danh từ\n- trận mưa rào\n- lượng mưa\n@Chuyên ngành kỹ thuật\n-bồn tiêu nước\n-diện tích tiêu nước\n-lượng mưa\n-lưu vực sông\n-mưa rào\n-trận mưa\n-vùng giáng thủy\n-vùng mưa\n-vùng thu nước
-
+rainfall	@rainfall /'reinfɔ:l/
+*  danh từ
+- trận mưa rào
+- lượng mưa
+@Chuyên ngành kỹ thuật
+-bồn tiêu nước
+-diện tích tiêu nước
+-lượng mưa
+-lưu vực sông
+-mưa rào
+-trận mưa
+-vùng giáng thủy
+-vùng mưa
+-vùng thu nước

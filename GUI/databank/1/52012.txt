@@ -1,3 +1,20 @@
-soundness
-	@soundness /'saundnis/\n*  danh từ\n- tính lành mạnh\n- tính đúng đắn, tính hợp lý\n- sự ngon giấc (ngủ)\n- sự ra trò (đánh đòn...)\n- tính vững chãi (hàng buôn...), tính có thể trả được (nợ)\n@Chuyên ngành kinh tế\n-tính có thể trả được (nợ)\n-tình trạng tốt\n-tình trạng tốt, tính có thể trả được (nợ)\n@Chuyên ngành kỹ thuật\n-bền vững\n-tính liên tục\n@Lĩnh vực: vật lý\n-ổn định thể tích\n@Lĩnh vực: cơ khí & công trình\n-sự kín khít (mối hàn)\n@Lĩnh vực: xây dựng\n-tính bền chắc
-
+soundness	@soundness /'saundnis/
+*  danh từ
+- tính lành mạnh
+- tính đúng đắn, tính hợp lý
+- sự ngon giấc (ngủ)
+- sự ra trò (đánh đòn...)
+- tính vững chãi (hàng buôn...), tính có thể trả được (nợ)
+@Chuyên ngành kinh tế
+-tính có thể trả được (nợ)
+-tình trạng tốt
+-tình trạng tốt, tính có thể trả được (nợ)
+@Chuyên ngành kỹ thuật
+-bền vững
+-tính liên tục
+@Lĩnh vực: vật lý
+-ổn định thể tích
+@Lĩnh vực: cơ khí & công trình
+-sự kín khít (mối hàn)
+@Lĩnh vực: xây dựng
+-tính bền chắc

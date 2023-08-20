@@ -1,3 +1,2 @@
-prejudger
-	@prejudger\n- xem prejudge
-
+prejudger	@prejudger
+- xem prejudge

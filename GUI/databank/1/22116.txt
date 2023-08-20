@@ -1,3 +1,26 @@
-fought
-	@fought /fait/\n*  danh từ\n- sự đấu tranh, sự chiến đấu; trận đánh, cuộc chiến đấu\n=to give fight; to make a fight+ chiến đấu\n=valiant in fight+ dũng cảm trong chiến đấu\n=a sham fight+ trận giả\n- (nghĩa bóng) sự mâu thuẫn, sự lục đục\n- khả năng chiến đấu; tính hiếu chiến, máu hăng\n=to have fight in one yet+ còn hăng\n!to show fight\n- kháng cự lại, chống cự lại\n*  nội động từ fought\n- đấu tranh, chiến đấu, đánh nhau\n=to fight agianst imperialism+ đấu tranh chống chủ nghĩa đế quốc\n=to fight for independence+ đấu tranh để giành độc lập\n*  ngoại động từ\n- đấu tranh, chiến đấu, đánh, tiến hành đấu tranh trong (vụ kiện, vụ tranh chấp...); tranh luận (một vấn đề gì)\n=to fight a battle+ đánh một trận\n- điều kiện (quân, tàu) trong trận đánh\n- cho (gà...) chọi nhau; cho (võ sĩ...) giao đấu\n!to fight down\n- đánh bại, đè bẹp\n!to fight it out\n- đấu tranh đến cùng; làm cho ra lý lẽ\n!to light off\n- đánh lui\n!to fight something out\n- đấu tranh để giải quyết một vấn đề gì\n!to fight shy of somebody\n- tránh xa ai\n!to fight one's way in life\n- đấu tranh để vươn lên trong cuộc sống
-
+fought	
+@fought /fait/
+*  danh từ
+- sự đấu tranh, sự chiến đấu; trận đánh, cuộc chiến đấu=to give fight; to make a fight
++ chiến đấu=valiant in fight
++ dũng cảm trong chiến đấu=a sham fight
++ trận giả
+- (nghĩa bóng) sự mâu thuẫn, sự lục đục
+- khả năng chiến đấu; tính hiếu chiến, máu hăng=to have fight in one yet
++ còn hăng!to show fight
+- kháng cự lại, chống cự lại
+*  nội động từ fought
+- đấu tranh, chiến đấu, đánh nhau=to fight agianst imperialism
++ đấu tranh chống chủ nghĩa đế quốc=to fight for independence
++ đấu tranh để giành độc lập
+*  ngoại động từ
+- đấu tranh, chiến đấu, đánh, tiến hành đấu tranh trong (vụ kiện, vụ tranh chấp...); tranh luận (một vấn đề gì)=to fight a battle
++ đánh một trận
+- điều kiện (quân, tàu) trong trận đánh
+- cho (gà...) chọi nhau; cho (võ sĩ...) giao đấu!to fight down
+- đánh bại, đè bẹp!to fight it out
+- đấu tranh đến cùng; làm cho ra lý lẽ!to light off
+- đánh lui!to fight something out
+- đấu tranh để giải quyết một vấn đề gì!to fight shy of somebody
+- tránh xa ai!to fight one's way in life
+- đấu tranh để vươn lên trong cuộc sống

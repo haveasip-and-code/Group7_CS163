@@ -1,3 +1,49 @@
-crop
-	@crop /krɔp/\n*  danh từ\n- vụ, mùa; thu hoạch của một vụ\n=potato crop+ vụ khoai\n- (số nhiều) cây trồng\n=technical (industrial) crops+ cây công nghiệp\n- cụm, nhom, loạt, tập\n=a crop of questions+ một loạt câu hỏi\n=a crop of bills+ tập hoá đơn\n- (động vật học) diều (chim)\n- tay cầm (của roi da)\n- sự cắt tóc ngắn\n=to have a close crop+ cắt tóc ngắn quá\n- bộ da thuộc\n- đoạn cắt bỏ đầu, khúc cắt bỏ đầu\n- thịt bả vai (bò ngựa)\n!neck and crop\n- toàn bộ, toàn thể\n!land in crop; land under crop\n- đất đang được trồng trọt cày cấy\n!land out of crop\n- đất bỏ hoá\n*  ngoại động từ\n- gặm (cỏ)\n- gặt; hái\n- gieo, trồng (ruộng đất)\n=to crop a land with potatoes+ trồng khoai một thửa ruộng\n- xén, hớt, cắt ngắn (tai, đuôi, tóc, mép sách, hàng rào...)\n*  nội động từ\n- thu hoạch\n=the beans crop ped well this year+ năm nay đậu thu hoạch tốt\n!to crop out (forth)\n- trồi lên\n!to crop up\n- nảy ra, hiểu ra, nổi lên bất ngờ (khó khăn, vấn đề...)\n@Chuyên ngành kinh tế\n-cây trồng\n-giống cây trồng\n-khúc đã cắt đầu\n-sản phẩm vụ mùa\n-thịt vai\n-vụ thu hoạch\n@Chuyên ngành kỹ thuật\n-cắt bỏ\n-mảnh vụn\n-mẫu\n-sự lộ vỉa\n-thu hoạch\n-vết lộ\n@Lĩnh vực: dệt may\n-gặt hái\n@Lĩnh vực: toán & tin\n-xén bớt
-
+crop	
+@crop /krɔp/
+*  danh từ
+- vụ, mùa; thu hoạch của một vụ=potato crop
++ vụ khoai
+- (số nhiều) cây trồng=technical (industrial) crops
++ cây công nghiệp
+- cụm, nhom, loạt, tập=a crop of questions
++ một loạt câu hỏi=a crop of bills
++ tập hoá đơn
+- (động vật học) diều (chim)
+- tay cầm (của roi da)
+- sự cắt tóc ngắn=to have a close crop
++ cắt tóc ngắn quá
+- bộ da thuộc
+- đoạn cắt bỏ đầu, khúc cắt bỏ đầu
+- thịt bả vai (bò ngựa)!neck and crop
+- toàn bộ, toàn thể!land in crop; land under crop
+- đất đang được trồng trọt cày cấy!land out of crop
+- đất bỏ hoá
+*  ngoại động từ
+- gặm (cỏ)
+- gặt; hái
+- gieo, trồng (ruộng đất)=to crop a land with potatoes
++ trồng khoai một thửa ruộng
+- xén, hớt, cắt ngắn (tai, đuôi, tóc, mép sách, hàng rào...)
+*  nội động từ
+- thu hoạch=the beans crop ped well this year
++ năm nay đậu thu hoạch tốt!to crop out (forth)
+- trồi lên!to crop up
+- nảy ra, hiểu ra, nổi lên bất ngờ (khó khăn, vấn đề...)
+@Chuyên ngành kinh tế
+-cây trồng
+-giống cây trồng
+-khúc đã cắt đầu
+-sản phẩm vụ mùa
+-thịt vai
+-vụ thu hoạch
+@Chuyên ngành kỹ thuật
+-cắt bỏ
+-mảnh vụn
+-mẫu
+-sự lộ vỉa
+-thu hoạch
+-vết lộ
+@Lĩnh vực: dệt may
+-gặt hái
+@Lĩnh vực: toán & tin
+-xén bớt

@@ -1,3 +1,3 @@
-microgroove
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-vi rãnh
-
+microgroove	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-vi rãnh

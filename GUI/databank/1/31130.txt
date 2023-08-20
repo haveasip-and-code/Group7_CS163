@@ -1,3 +1,2 @@
-knower
-	@knower\n- xem know
-
+knower	@knower
+- xem know

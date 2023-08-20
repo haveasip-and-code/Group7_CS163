@@ -1,3 +1,6 @@
-premixing
-	@Chuyên ngành kinh tế\n-sự trộn sơ bộ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự (pha) trộn sơ bộ\n-sự trộn sẵn
-
+premixing	@Chuyên ngành kinh tế
+-sự trộn sơ bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự (pha) trộn sơ bộ
+-sự trộn sẵn

@@ -1,3 +1,4 @@
-peptizer
-	@Chuyên ngành kỹ thuật\n-tác nhân giải keo\n@Lĩnh vực: hóa học & vật liệu\n-tác nhân peptit hóa
-
+peptizer	@Chuyên ngành kỹ thuật
+-tác nhân giải keo
+@Lĩnh vực: hóa học & vật liệu
+-tác nhân peptit hóa

@@ -1,3 +1,9 @@
-maize
-	@maize /meiz/\n*  danh từ\n- (thực vật học) ngô\n*  tính từ\n- vàng nhạt (màu ngô)\n@Chuyên ngành kinh tế\n-bắp\n-cây ngô\n-ngô
-
+maize	@maize /meiz/
+*  danh từ
+- (thực vật học) ngô
+*  tính từ
+- vàng nhạt (màu ngô)
+@Chuyên ngành kinh tế
+-bắp
+-cây ngô
+-ngô

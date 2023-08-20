@@ -1,3 +1,2 @@
-verbalizer
-	@verbalizer\n- xem verbalize
-
+verbalizer	@verbalizer
+- xem verbalize

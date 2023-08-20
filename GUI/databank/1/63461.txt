@@ -1,3 +1,15 @@
-yearbook
-	@yearbook\n* danh từ\n- tài liệu xuất bản hàng năm và chứa đựng thông tin về năm trước đó; niên giám\n- ấn bản do học viên lớp cuối khoá của một trường biên soạn, ghi lại các sự kiện trong năm học và thường có hình chụp các học viên và nhà trường; kỷ yếu\n@Chuyên ngành kinh tế\n-niên giám\n@Chuyên ngành kỹ thuật\n-niên giám\n@Lĩnh vực: cơ khí & công trình\n-biên niên\n-niên san\n@Lĩnh vực: hóa học & vật liệu\n-niên lịch\n@Lĩnh vực: toán & tin\n-sách hàng năm
-
+yearbook	@yearbook
+* danh từ
+- tài liệu xuất bản hàng năm và chứa đựng thông tin về năm trước đó; niên giám
+- ấn bản do học viên lớp cuối khoá của một trường biên soạn, ghi lại các sự kiện trong năm học và thường có hình chụp các học viên và nhà trường; kỷ yếu
+@Chuyên ngành kinh tế
+-niên giám
+@Chuyên ngành kỹ thuật
+-niên giám
+@Lĩnh vực: cơ khí & công trình
+-biên niên
+-niên san
+@Lĩnh vực: hóa học & vật liệu
+-niên lịch
+@Lĩnh vực: toán & tin
+-sách hàng năm

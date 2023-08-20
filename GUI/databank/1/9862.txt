@@ -1,3 +1,31 @@
-closure
-	@closure /'klouʤə/\n*  danh từ\n- sự bế mạc (phiên họp)\n- sự kết thúc (cuộc thảo luận) bằng cách cho biểu quyết\n- sự đóng kín\n*  ngoại động từ\n- kết thúc (cuộc thảo luận) bằng cách cho biểu quyết\n@Chuyên ngành kỹ thuật\n-cái bao đóng\n-cửa đập\n-cửa van\n-đóng kín\n-khép kín\n-mạch điện (sự)\n-sai số khép\n-sự đập\n-sự đóng\n-sự đóng kín\n-sự kết thúc\n-sự sai lệch\n-tấm chắn\n-vách\n@Lĩnh vực: xây dựng\n-đóng, bao kín\n-hợp long\n-tường nhăn\n@Lĩnh vực: điện tử & viễn thông\n-sự bế mạc\n@Lĩnh vực: cơ khí & công trình\n-tấm quây
-
+closure	
+@closure /'klouʤə/
+*  danh từ
+- sự bế mạc (phiên họp)
+- sự kết thúc (cuộc thảo luận) bằng cách cho biểu quyết
+- sự đóng kín
+*  ngoại động từ
+- kết thúc (cuộc thảo luận) bằng cách cho biểu quyết
+@Chuyên ngành kỹ thuật
+-cái bao đóng
+-cửa đập
+-cửa van
+-đóng kín
+-khép kín
+-mạch điện (sự)
+-sai số khép
+-sự đập
+-sự đóng
+-sự đóng kín
+-sự kết thúc
+-sự sai lệch
+-tấm chắn
+-vách
+@Lĩnh vực: xây dựng
+-đóng, bao kín
+-hợp long
+-tường nhăn
+@Lĩnh vực: điện tử & viễn thông
+-sự bế mạc
+@Lĩnh vực: cơ khí & công trình
+-tấm quây

@@ -1,3 +1,12 @@
-arching
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hiệu ứng vòm\n-khối xây vòm\n-sự hình thành vòm\n-sự phình nở\n-sự tạo vòm\n-tác dụng vòm\n-xây dựng theo kiến trúc vòm\n@Lĩnh vực: cơ khí & công trình\n-sự xây cuốn
-
+arching	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hiệu ứng vòm
+-khối xây vòm
+-sự hình thành vòm
+-sự phình nở
+-sự tạo vòm
+-tác dụng vòm
+-xây dựng theo kiến trúc vòm
+@Lĩnh vực: cơ khí & công trình
+-sự xây cuốn

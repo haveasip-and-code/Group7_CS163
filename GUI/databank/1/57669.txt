@@ -1,3 +1,10 @@
-triangulation
-	@triangulation /trai,æɳgju'leiʃn/\n*  danh từ\n- phép đạc tam giác\n@Chuyên ngành kỹ thuật\n-phép tam giác đạc\n@Lĩnh vực: toán & tin\n-phép đạc tam giác\n-phép tam giác phân\n@Lĩnh vực: điện lạnh\n-tam giác đạc
-
+triangulation	@triangulation /trai,æɳgju'leiʃn/
+*  danh từ
+- phép đạc tam giác
+@Chuyên ngành kỹ thuật
+-phép tam giác đạc
+@Lĩnh vực: toán & tin
+-phép đạc tam giác
+-phép tam giác phân
+@Lĩnh vực: điện lạnh
+-tam giác đạc

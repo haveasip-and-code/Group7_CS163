@@ -1,3 +1,2 @@
-preparatively
-	@preparatively\n- xem preparative
-
+preparatively	@preparatively
+- xem preparative

@@ -1,3 +1,19 @@
-brighten
-	@brighten /'braitn/\n*  ngoại động từ\n- làm sáng sủa, làm tươi sáng, làm rạng rỡ, làm tươi tỉnh\n=these flowers brighten the room+ những bông hoa này làm cho căn phòng rạng rỡ lên\n=to brighten someone's face+ làm cho (ai) tươi tỉnh rạng rỡ lên\n- làm sung sướng, làm vui tươi\n=to brighten the life of the people+ làm cho đời sống của nhân dân sung sướng\n- đánh bóng (đồ đồng)\n*  nội động từ\n- bừng lên, hửng lên, rạng lên, sáng lên\n=to sky is brightening+ trời đang hừng sáng\n- vui tươi lên, tươi tỉnh lên (người...)\n@Chuyên ngành kinh tế\n-làm sáng\n-làm trắng\n-làm tươi sáng\n@Chuyên ngành kỹ thuật\n-đánh bóng\n-láng bóng mặt ngoài
-
+brighten	@brighten /'braitn/
+*  ngoại động từ
+- làm sáng sủa, làm tươi sáng, làm rạng rỡ, làm tươi tỉnh
+=these flowers brighten the room+ những bông hoa này làm cho căn phòng rạng rỡ lên
+=to brighten someone's face+ làm cho (ai) tươi tỉnh rạng rỡ lên
+- làm sung sướng, làm vui tươi
+=to brighten the life of the people+ làm cho đời sống của nhân dân sung sướng
+- đánh bóng (đồ đồng)
+*  nội động từ
+- bừng lên, hửng lên, rạng lên, sáng lên
+=to sky is brightening+ trời đang hừng sáng
+- vui tươi lên, tươi tỉnh lên (người...)
+@Chuyên ngành kinh tế
+-làm sáng
+-làm trắng
+-làm tươi sáng
+@Chuyên ngành kỹ thuật
+-đánh bóng
+-láng bóng mặt ngoài

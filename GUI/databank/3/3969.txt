@@ -1,3 +1,2 @@
-aunthood
-	@aunthood\n- xem aunt
-
+aunthood	@aunthood
+- xem aunt

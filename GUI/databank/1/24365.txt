@@ -1,3 +1,58 @@
-groove
-	@groove /gru:v/\n*  danh từ\n- đường xoi, đường rânh (đục trên tấm ván; trên đĩa hát...), đường rạch khía (trong nòng súng...)\n- nếp sông đều đều, thói quen, thói cũ, đường mòn\n=to get into a groove+ sống theo nếp sống đều đều; theo thói cũ, theo vết xe cũ\n=to move (run) in a groove+ chạy đều đều, cứ tiến hành đều đều theo con đường mòn không thay đổi\n!in the groove\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) trơn tru, thông đồng, bén gót\n*  ngoại động từ\n- xoi rãnh, khía cạnh\n=a mountain side grooved by the torrents+ sườn núi bị những thác nước xói thành khe\n=to groove a board+ bào xoi một tấm ván\n@Chuyên ngành kinh tế\n-đường rãnh\n-đường xoi\n@Chuyên ngành kỹ thuật\n-đào hào\n-đào kênh\n-đào rãnh\n-đường bào soi\n-đường khe\n-đường rãnh\n-đường rãnh lắp\n-đường soi\n-đường xoi\n-gấp (mép)\n-hào\n-kẽ\n-khe\n-khe lắp ráp\n-khía\n-lõm\n-lòng khuôn\n-lòng máng\n-luống\n-nếp gấp\n-nếp uốn\n-ngấn\n-máng nhỏ\n-rãnh\n-rãnh cách tử\n-rãnh cán\n-rãnh cắt\n-rãnh ngoài\n-rãnh nhỏ\n-rãnh xoi\n-vết khấc\n-vệt khắc rãnh\n-vòng ổ bi\n-xoi rãnh\n@Lĩnh vực: xây dựng\n-đường soi, đường rãnh\n-rãnh puli\n@Lĩnh vực: cơ khí & công trình\n-đường xói\n-khe dài\n@Lĩnh vực: y học\n-rãnh, khe, máng
-
+groove	
+@groove /gru:v/
+*  danh từ
+- đường xoi, đường rânh (đục trên tấm ván; trên đĩa hát...), đường rạch khía (trong nòng súng...)
+- nếp sông đều đều, thói quen, thói cũ, đường mòn=to get into a groove
++ sống theo nếp sống đều đều; theo thói cũ, theo vết xe cũ=to move (run) in a groove
++ chạy đều đều, cứ tiến hành đều đều theo con đường mòn không thay đổi!in the groove
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trơn tru, thông đồng, bén gót
+*  ngoại động từ
+- xoi rãnh, khía cạnh=a mountain side grooved by the torrents
++ sườn núi bị những thác nước xói thành khe=to groove a board
++ bào xoi một tấm ván
+@Chuyên ngành kinh tế
+-đường rãnh
+-đường xoi
+@Chuyên ngành kỹ thuật
+-đào hào
+-đào kênh
+-đào rãnh
+-đường bào soi
+-đường khe
+-đường rãnh
+-đường rãnh lắp
+-đường soi
+-đường xoi
+-gấp (mép)
+-hào
+-kẽ
+-khe
+-khe lắp ráp
+-khía
+-lõm
+-lòng khuôn
+-lòng máng
+-luống
+-nếp gấp
+-nếp uốn
+-ngấn
+-máng nhỏ
+-rãnh
+-rãnh cách tử
+-rãnh cán
+-rãnh cắt
+-rãnh ngoài
+-rãnh nhỏ
+-rãnh xoi
+-vết khấc
+-vệt khắc rãnh
+-vòng ổ bi
+-xoi rãnh
+@Lĩnh vực: xây dựng
+-đường soi, đường rãnh
+-rãnh puli
+@Lĩnh vực: cơ khí & công trình
+-đường xói
+-khe dài
+@Lĩnh vực: y học
+-rãnh, khe, máng

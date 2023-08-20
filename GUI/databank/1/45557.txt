@@ -1,3 +1,5 @@
-ranking
-	@Chuyên ngành kỹ thuật\n-sự xếp hạng\n-sự xếp loại\n@Lĩnh vực: hóa học & vật liệu\n-sự xếp bậc
-
+ranking	@Chuyên ngành kỹ thuật
+-sự xếp hạng
+-sự xếp loại
+@Lĩnh vực: hóa học & vật liệu
+-sự xếp bậc

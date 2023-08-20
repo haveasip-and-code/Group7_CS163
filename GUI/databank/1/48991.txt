@@ -1,3 +1,14 @@
-scavenging
-	@Chuyên ngành kỹ thuật\n-làm sạch\n-sự cọ sạch\n-sự làm sạch\n-sự rửa\n-sự súc rửa\n-sự tẩy sạch\n-sự tuyển tinh\n-sự xả khí\n-sự xịt rửa\n@Lĩnh vực: cơ khí & công trình\n-sự khử khí cho kim loại (lỏng)\n@Lĩnh vực: giao thông & vận tải\n-sự xả khí đốt
-
+scavenging	@Chuyên ngành kỹ thuật
+-làm sạch
+-sự cọ sạch
+-sự làm sạch
+-sự rửa
+-sự súc rửa
+-sự tẩy sạch
+-sự tuyển tinh
+-sự xả khí
+-sự xịt rửa
+@Lĩnh vực: cơ khí & công trình
+-sự khử khí cho kim loại (lỏng)
+@Lĩnh vực: giao thông & vận tải
+-sự xả khí đốt

@@ -1,3 +1,6 @@
-serotype
-	@serotype\n* tính từ\n- kiểu huyết thanh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-kiểu huyết thanh
-
+serotype	@serotype
+* tính từ
+- kiểu huyết thanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-kiểu huyết thanh

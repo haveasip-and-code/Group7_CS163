@@ -1,3 +1,8 @@
-sentential
-	@sentential\n* tính từ\n- thuộc cách ngôn, danh ngôn, câu\n@Chuyên ngành kỹ thuật\n-danh ngôn\n-mệnh đề\n@Lĩnh vực: toán & tin\n-câu
-
+sentential	@sentential
+* tính từ
+- thuộc cách ngôn, danh ngôn, câu
+@Chuyên ngành kỹ thuật
+-danh ngôn
+-mệnh đề
+@Lĩnh vực: toán & tin
+-câu

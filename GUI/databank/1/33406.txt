@@ -1,3 +1,12 @@
-malfunction
-	@malfunction\n* danh từ\n- sự chạy, trục trặc\n@Chuyên ngành kỹ thuật\n-lỗi\n-sai hỏng\n-sự cố\n-sự hỏng hóc\n-sự nhiễu\n-sự thiếu\n-sự trục trặc\n-trục trặc
-
+malfunction	@malfunction
+* danh từ
+- sự chạy, trục trặc
+@Chuyên ngành kỹ thuật
+-lỗi
+-sai hỏng
+-sự cố
+-sự hỏng hóc
+-sự nhiễu
+-sự thiếu
+-sự trục trặc
+-trục trặc

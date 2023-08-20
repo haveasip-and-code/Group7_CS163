@@ -1,3 +1,29 @@
-deflector
-	@deflector /di'flektə/\n*  danh từ\n- (vật lý) bộ làm lệch, cái làm lệch, cực làm lệch\n=magnetic deflector+ cái làm lệch dùng từ trường\n- (kỹ thuật) máy đo từ thiên\n@Chuyên ngành kinh tế\n-bộ làm lệch\n-chụp quay\n-kính phản xạ\n-pha đèn\n-vòng chắn dầu\n@Chuyên ngành kỹ thuật\n-bộ làm lệch\n-kính làm lệch\n-làm lệch\n@Lĩnh vực: điện tử & viễn thông\n-bộ lái tai\n@Lĩnh vực: hóa học & vật liệu\n-bộ làm võng\n-vật làm lệch\n@Lĩnh vực: xây dựng\n-cái gạt xiên\n@Lĩnh vực: cơ khí & công trình\n-mũi bắt nước\n-tấm dẫn phoi\n-vật hướng dòng\n-vật lái dòng\n@Lĩnh vực: giao thông & vận tải\n-tấm móc tải
-
+deflector	@deflector /di'flektə/
+*  danh từ
+- (vật lý) bộ làm lệch, cái làm lệch, cực làm lệch
+=magnetic deflector+ cái làm lệch dùng từ trường
+- (kỹ thuật) máy đo từ thiên
+@Chuyên ngành kinh tế
+-bộ làm lệch
+-chụp quay
+-kính phản xạ
+-pha đèn
+-vòng chắn dầu
+@Chuyên ngành kỹ thuật
+-bộ làm lệch
+-kính làm lệch
+-làm lệch
+@Lĩnh vực: điện tử & viễn thông
+-bộ lái tai
+@Lĩnh vực: hóa học & vật liệu
+-bộ làm võng
+-vật làm lệch
+@Lĩnh vực: xây dựng
+-cái gạt xiên
+@Lĩnh vực: cơ khí & công trình
+-mũi bắt nước
+-tấm dẫn phoi
+-vật hướng dòng
+-vật lái dòng
+@Lĩnh vực: giao thông & vận tải
+-tấm móc tải

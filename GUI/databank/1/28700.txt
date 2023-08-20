@@ -1,3 +1,8 @@
-injected
-	@Chuyên ngành kỹ thuật\n-được tiêm vào\n@Lĩnh vực: y học\n-bị tiêm\n-xung huyết\n@Lĩnh vực: hóa học & vật liệu\n-được phun vào
-
+injected	
+@Chuyên ngành kỹ thuật
+-được tiêm vào
+@Lĩnh vực: y học
+-bị tiêm
+-xung huyết
+@Lĩnh vực: hóa học & vật liệu
+-được phun vào

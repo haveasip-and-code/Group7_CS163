@@ -1,3 +1,5 @@
-catalyze
-	@Chuyên ngành kinh tế\n-xúc tác\n@Chuyên ngành kỹ thuật\n-xúc tác
-
+catalyze	
+@Chuyên ngành kinh tế
+-xúc tác
+@Chuyên ngành kỹ thuật
+-xúc tác

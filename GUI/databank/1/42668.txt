@@ -1,3 +1,17 @@
-porous
-	@porous /'pɔ:rəs/\n*  tính từ\n- rỗ, thủng tổ ong\n- xốp\n@Chuyên ngành kỹ thuật\n-hổng\n-lỗ chỗ\n-rỗng\n-xốp\n@Lĩnh vực: hóa học & vật liệu\n-có nhiều lỗ rỗng\n@Lĩnh vực: xây dựng\n-nhiều lỗ rỗng\n@Lĩnh vực: toán & tin\n-rỗng, xốp\n@Lĩnh vực: ô tô\n-xốp (không khí hay chất lỏng thấm qua được)
-
+porous	@porous /'pɔ:rəs/
+*  tính từ
+- rỗ, thủng tổ ong
+- xốp
+@Chuyên ngành kỹ thuật
+-hổng
+-lỗ chỗ
+-rỗng
+-xốp
+@Lĩnh vực: hóa học & vật liệu
+-có nhiều lỗ rỗng
+@Lĩnh vực: xây dựng
+-nhiều lỗ rỗng
+@Lĩnh vực: toán & tin
+-rỗng, xốp
+@Lĩnh vực: ô tô
+-xốp (không khí hay chất lỏng thấm qua được)

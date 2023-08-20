@@ -1,3 +1,16 @@
-drafting
-	@drafting\n- (Tech) môn vẽ kỹ thuật, kỹ nghệ họa\n@Chuyên ngành kỹ thuật\n-bản vẽ\n-họa hình\n-lập phương án\n-sự kéo duỗi\n-sự phác họa\n-sự vẽ\n-thông gió\n-vẽ kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vẽ đồ án\n@Lĩnh vực: toán & tin\n-vẽ thiết kế
-
+drafting	
+@drafting
+- (Tech) môn vẽ kỹ thuật, kỹ nghệ họa
+@Chuyên ngành kỹ thuật
+-bản vẽ
+-họa hình
+-lập phương án
+-sự kéo duỗi
+-sự phác họa
+-sự vẽ
+-thông gió
+-vẽ kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-vẽ đồ án
+@Lĩnh vực: toán & tin
+-vẽ thiết kế

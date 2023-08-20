@@ -1,3 +1,21 @@
-flowmeter
-	@flowmeter\n* danh từ\n- lưu lượng kế; lưu tốc kế\n@Chuyên ngành kinh tế\n-lưu lượng kế\n-máy đo lưu lượng chảy\n@Chuyên ngành kỹ thuật\n-lưu biến kế\n-lưu lượng kế\n-lưu lượng kế, lưu tốc kế\n-lưu tốc kế\n@Lĩnh vực: y học\n-thông lượng kế\n@Chuyên ngành kỹ thuật\n-lưu biến kế\n-lưu lượng kế\n-lưu lượng kế, lưu tốc kế\n-lưu tốc kế\n@Lĩnh vực: y học\n-thông lượng kế
-
+flowmeter	
+@flowmeter
+* danh từ
+- lưu lượng kế; lưu tốc kế
+@Chuyên ngành kinh tế
+-lưu lượng kế
+-máy đo lưu lượng chảy
+@Chuyên ngành kỹ thuật
+-lưu biến kế
+-lưu lượng kế
+-lưu lượng kế, lưu tốc kế
+-lưu tốc kế
+@Lĩnh vực: y học
+-thông lượng kế
+@Chuyên ngành kỹ thuật
+-lưu biến kế
+-lưu lượng kế
+-lưu lượng kế, lưu tốc kế
+-lưu tốc kế
+@Lĩnh vực: y học
+-thông lượng kế

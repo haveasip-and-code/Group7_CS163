@@ -1,3 +1,32 @@
-smart
-	@smart /smɑ:t/\n*  danh từ\n- sự đau đớn, sự nhức nhối; nỗi đau khổ\n*  nội động từ\n- đau đớn, nhức nhối, đau khổ\n=finger smart+ ngón tay đau nhức\n=smoke makes eyes smart+ khói làm nhức mắt\n!to smart for\n- bị trừng phạt vì, chịu những hậu quả của\n*  tính từ\n- mạnh, ác liệt; mau lẹ, nhanh\n=to have a smart skirmish+ có một cuộc chạm trán ác liệt\n=to go off at a smart pace+ bước đi nhanh\n=to have a smart box on the ear+ bị một cái bạt tai nên thân, bị một cái tát điếng người\n- khéo léo, khôn khéo\n=a smart talker+ người nói chuyện khéo\n=a smart invention+ phát minh tài tình\n- nhanh trí; tinh ranh, láu\n=a smart officer+ sĩ quan nhanh trí\n=smart dealing+ lối chơi láu cá\n- đẹp sang, thanh nhã, lịch sự\n=to look quite smart+ trông thật là sang trọng\n=smart clothes+ quần áo lịch sự\n- diện, bảnh bao, duyên dáng\n=smart people+ dân ăn diện\n=the smart set+ giới ăn chơi\n@Chuyên ngành kỹ thuật\n-linh lợi\n@Lĩnh vực: xây dựng\n-khôn\n-ranh ma\n-tinh khôn
-
+smart	@smart /smɑ:t/
+*  danh từ
+- sự đau đớn, sự nhức nhối; nỗi đau khổ
+*  nội động từ
+- đau đớn, nhức nhối, đau khổ
+=finger smart+ ngón tay đau nhức
+=smoke makes eyes smart+ khói làm nhức mắt
+!to smart for
+- bị trừng phạt vì, chịu những hậu quả của
+*  tính từ
+- mạnh, ác liệt; mau lẹ, nhanh
+=to have a smart skirmish+ có một cuộc chạm trán ác liệt
+=to go off at a smart pace+ bước đi nhanh
+=to have a smart box on the ear+ bị một cái bạt tai nên thân, bị một cái tát điếng người
+- khéo léo, khôn khéo
+=a smart talker+ người nói chuyện khéo
+=a smart invention+ phát minh tài tình
+- nhanh trí; tinh ranh, láu
+=a smart officer+ sĩ quan nhanh trí
+=smart dealing+ lối chơi láu cá
+- đẹp sang, thanh nhã, lịch sự
+=to look quite smart+ trông thật là sang trọng
+=smart clothes+ quần áo lịch sự
+- diện, bảnh bao, duyên dáng
+=smart people+ dân ăn diện
+=the smart set+ giới ăn chơi
+@Chuyên ngành kỹ thuật
+-linh lợi
+@Lĩnh vực: xây dựng
+-khôn
+-ranh ma
+-tinh khôn

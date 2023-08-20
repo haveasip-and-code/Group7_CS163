@@ -1,3 +1,20 @@
-squirt
-	@squirt /skwə:t/\n*  danh từ\n- ống tiêm\n- tia nước\n- (như) squirt-gun\n- (thông tục) oắt con ngạo nghễ\n*  ngoại động từ\n- làm (nước) vọt ra, làm (nước) bắn ra, làm (nước) tia ra\n*  nội động từ\n- tia ra, vọt ra (nước)\n@Chuyên ngành kỹ thuật\n-ép phun\n-ống phun\n-phun tia\n-tia nước\n-vòi phun\n@Lĩnh vực: y học\n-ống tiêm phun\n@Lĩnh vực: cơ khí & công trình\n-phun tia ép phun (gia công kim loại màu)
-
+squirt	@squirt /skwə:t/
+*  danh từ
+- ống tiêm
+- tia nước
+- (như) squirt-gun
+- (thông tục) oắt con ngạo nghễ
+*  ngoại động từ
+- làm (nước) vọt ra, làm (nước) bắn ra, làm (nước) tia ra
+*  nội động từ
+- tia ra, vọt ra (nước)
+@Chuyên ngành kỹ thuật
+-ép phun
+-ống phun
+-phun tia
+-tia nước
+-vòi phun
+@Lĩnh vực: y học
+-ống tiêm phun
+@Lĩnh vực: cơ khí & công trình
+-phun tia ép phun (gia công kim loại màu)

@@ -1,3 +1,41 @@
-growth
-	@growth /grouθ/\n*  danh từ\n- sự lớn mạnh, sự phát triển\n- sự tăng tiến, sự tăng lên, sự khuếch trương\n=the growth of industry+ sự lớn mạnh của nền công nghiệp\n- sự sinh trưởng\n=a rapid growth+ sự mau lớn, sự sinh trưởng mau\n- sự trồng trọt, vụ mùa màng\n=a growth of rice+ một mùa lúa\n=wine of the 1954 growth+ rượu vang vụ nho 1954\n- cái đang sinh trưởng, khối đã mọc\n=a thick growth of weeds+ khối cỏ dại mọc dày\n- (y học) khối u, u\n@Chuyên ngành kinh tế\n-phát triển (công ty)\n-sự lớn mạnh\n-sự phát triển\n-sự sinh trưởng\n-sự tăng trưởng (kinh tế)\n@Chuyên ngành kỹ thuật\n-cấp tăng\n-gia tăng\n-sự lớn lên\n-sự mọc\n-sự phát triển\n-sự phồng (gang)\n-sự rộp\n-sự tăng trưởng\n@Lĩnh vực: hóa học & vật liệu\n-sự lớn\n@Lĩnh vực: điện lạnh\n-sự lớn dần\n-sự tăng (thêm)\n@Lĩnh vực: cơ khí & công trình\n-sự sinh trưởng\n-sự trồng trọt\n@Lĩnh vực: điện\n-sự tăng\n@Lĩnh vực: xây dựng\n-tăng trưởng
-
+growth	
+@growth /grouθ/
+*  danh từ
+- sự lớn mạnh, sự phát triển
+- sự tăng tiến, sự tăng lên, sự khuếch trương=the growth of industry
++ sự lớn mạnh của nền công nghiệp
+- sự sinh trưởng=a rapid growth
++ sự mau lớn, sự sinh trưởng mau
+- sự trồng trọt, vụ mùa màng=a growth of rice
++ một mùa lúa=wine of the 1954 growth
++ rượu vang vụ nho 1954
+- cái đang sinh trưởng, khối đã mọc=a thick growth of weeds
++ khối cỏ dại mọc dày
+- (y học) khối u, u
+@Chuyên ngành kinh tế
+-phát triển (công ty)
+-sự lớn mạnh
+-sự phát triển
+-sự sinh trưởng
+-sự tăng trưởng (kinh tế)
+@Chuyên ngành kỹ thuật
+-cấp tăng
+-gia tăng
+-sự lớn lên
+-sự mọc
+-sự phát triển
+-sự phồng (gang)
+-sự rộp
+-sự tăng trưởng
+@Lĩnh vực: hóa học & vật liệu
+-sự lớn
+@Lĩnh vực: điện lạnh
+-sự lớn dần
+-sự tăng (thêm)
+@Lĩnh vực: cơ khí & công trình
+-sự sinh trưởng
+-sự trồng trọt
+@Lĩnh vực: điện
+-sự tăng
+@Lĩnh vực: xây dựng
+-tăng trưởng

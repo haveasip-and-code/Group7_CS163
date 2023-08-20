@@ -1,3 +1,13 @@
-thermostatic
-	@thermostatic\n* tính từ\n- nhiệt tĩnh\n@Chuyên ngành kinh tế\n-tĩnh nhiệt\n@Chuyên ngành kỹ thuật\n-điều chỉnh nhiệt độ\n@Lĩnh vực: điện lạnh\n-ổn định nhiệt độ\n-ổn nhiệt\n-sự điều chỉnh (khống chế) nhiệt độ\n@Lĩnh vực: vật lý\n-tĩnh nhiệt
-
+thermostatic	@thermostatic
+* tính từ
+- nhiệt tĩnh
+@Chuyên ngành kinh tế
+-tĩnh nhiệt
+@Chuyên ngành kỹ thuật
+-điều chỉnh nhiệt độ
+@Lĩnh vực: điện lạnh
+-ổn định nhiệt độ
+-ổn nhiệt
+-sự điều chỉnh (khống chế) nhiệt độ
+@Lĩnh vực: vật lý
+-tĩnh nhiệt

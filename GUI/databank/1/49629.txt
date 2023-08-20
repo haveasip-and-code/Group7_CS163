@@ -1,3 +1,8 @@
-seismometry
-	@seismometry\n* danh từ\n- phép đo địa chấn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đo địa chấn\n@Lĩnh vực: xây dựng\n-phép đo động đất
-
+seismometry	@seismometry
+* danh từ
+- phép đo địa chấn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đo địa chấn
+@Lĩnh vực: xây dựng
+-phép đo động đất

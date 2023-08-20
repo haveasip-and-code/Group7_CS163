@@ -1,3 +1,18 @@
-tenure
-	@tenure /'tenjuə/\n*  danh từ\n- đất cho làm rẽ, đất phát canh\n- sự chiếm hữu, sự hưởng dụng; thời gian chiếm hữu, thời gian hưởng dụng, nhiệm kỳ\n=during his short tenure of office+ trong thời gian ngắn ngủi ông ta giữ nhiệm vụ\n!feudal tenure\n- thái ấp\n@Chuyên ngành kinh tế\n-nhiệm kỳ\n-nhiệm kỳ thời gian được thuê mướn (nhà đất ...)\n-sự chiếm hữu\n-sự đương nhiệm\n-sự hưởng dụng\n-sự tại chức\n-thời gian chiếm hữu\n-thời gian được thuê mướn (nhà, đất...)\n-thời gian hưởng (một chức vụ)\n-thời gian hưởng một chức vụ
-
+tenure	@tenure /'tenjuə/
+*  danh từ
+- đất cho làm rẽ, đất phát canh
+- sự chiếm hữu, sự hưởng dụng; thời gian chiếm hữu, thời gian hưởng dụng, nhiệm kỳ
+=during his short tenure of office+ trong thời gian ngắn ngủi ông ta giữ nhiệm vụ
+!feudal tenure
+- thái ấp
+@Chuyên ngành kinh tế
+-nhiệm kỳ
+-nhiệm kỳ thời gian được thuê mướn (nhà đất ...)
+-sự chiếm hữu
+-sự đương nhiệm
+-sự hưởng dụng
+-sự tại chức
+-thời gian chiếm hữu
+-thời gian được thuê mướn (nhà, đất...)
+-thời gian hưởng (một chức vụ)
+-thời gian hưởng một chức vụ

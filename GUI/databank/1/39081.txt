@@ -1,3 +1,10 @@
-ownership
-	@ownership /'ounəʃip/\n*  danh từ\n- quyền sở hữu\n=collective ownership+ quyền sở hữu tập thể\n@Chuyên ngành kinh tế\n-chế độ sở hữu\n-chủ quyền\n-quyền sở hữu\n@Chuyên ngành kỹ thuật\n-quyền sở hữu
-
+ownership	@ownership /'ounəʃip/
+*  danh từ
+- quyền sở hữu
+=collective ownership+ quyền sở hữu tập thể
+@Chuyên ngành kinh tế
+-chế độ sở hữu
+-chủ quyền
+-quyền sở hữu
+@Chuyên ngành kỹ thuật
+-quyền sở hữu

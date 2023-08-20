@@ -1,3 +1,4 @@
-vomitus
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất nôn\n-sự nôn
-
+vomitus	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất nôn
+-sự nôn

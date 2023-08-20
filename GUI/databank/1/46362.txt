@@ -1,3 +1,13 @@
-refrigerate
-	@refrigerate /ri'fridʤəreit/\n*  ngoại động từ\n- làm lạnh; ướp lạnh (thịt, hoa quả)\n@Chuyên ngành kinh tế\n-làm lạnh\n-ướp lạnh\n@Chuyên ngành kỹ thuật\n-làm lạnh\n-làm mát\n-làm nguội\n-ướp lạnh\n@Lĩnh vực: điện lạnh\n-làm lạnh, ướp lạnh
-
+refrigerate	@refrigerate /ri'fridʤəreit/
+*  ngoại động từ
+- làm lạnh; ướp lạnh (thịt, hoa quả)
+@Chuyên ngành kinh tế
+-làm lạnh
+-ướp lạnh
+@Chuyên ngành kỹ thuật
+-làm lạnh
+-làm mát
+-làm nguội
+-ướp lạnh
+@Lĩnh vực: điện lạnh
+-làm lạnh, ướp lạnh

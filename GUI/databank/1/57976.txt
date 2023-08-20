@@ -1,3 +1,2 @@
-troubleshoot
-	@troubleshoot\n- chữa, sửa chữa
-
+troubleshoot	@troubleshoot
+- chữa, sửa chữa

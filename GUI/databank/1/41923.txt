@@ -1,3 +1,8 @@
-plasterboard
-	@plasterboard\n* danh từ\n- tấm vữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tấm vữa\n@Lĩnh vực: xây dựng\n-tấm vữa thạch cao
-
+plasterboard	@plasterboard
+* danh từ
+- tấm vữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tấm vữa
+@Lĩnh vực: xây dựng
+-tấm vữa thạch cao

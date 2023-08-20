@@ -1,3 +1,7 @@
-doctrine
-	@doctrine /'dɔktrin/\n*  danh từ\n- học thuyết chủ nghĩa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-học thuyết
-
+doctrine	
+@doctrine /'dɔktrin/
+*  danh từ
+- học thuyết chủ nghĩa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-học thuyết

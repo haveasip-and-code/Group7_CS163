@@ -1,3 +1,7 @@
-multichannel
-	@multichannel\n- kênh bội\n@Chuyên ngành kỹ thuật\n-nhiều đường\n-nhiều kênh\n@Lĩnh vực: toán & tin\n-kênh bội
-
+multichannel	@multichannel
+- kênh bội
+@Chuyên ngành kỹ thuật
+-nhiều đường
+-nhiều kênh
+@Lĩnh vực: toán & tin
+-kênh bội

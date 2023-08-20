@@ -1,3 +1,4 @@
-groundsheet
-	@groundsheet\n* danh từ\n- tấm vải lót làm chỗ nằm trên mặt đất
-
+groundsheet	
+@groundsheet
+* danh từ
+- tấm vải lót làm chỗ nằm trên mặt đất

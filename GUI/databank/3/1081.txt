@@ -1,3 +1,2 @@
-affirmation
-	@affirmation\n- sự khẳng định, điều khẳng định
-
+affirmation	@affirmation
+- sự khẳng định, điều khẳng định

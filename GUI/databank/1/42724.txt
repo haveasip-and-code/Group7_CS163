@@ -1,3 +1,2 @@
-positions
-	@Chuyên ngành kỹ thuật\n-tọa độ
-
+positions	@Chuyên ngành kỹ thuật
+-tọa độ

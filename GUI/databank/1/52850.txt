@@ -1,3 +1,27 @@
-stab
-	@stab /stæb/\n*  danh từ\n- sự đâm bằng dao găm; vết thương đâm bằng dao găm, nhát đâm bằng dao găm\n- (nghĩa bóng) điều làm cho đau lòng; điều xúc phạm đến tình cảm\n- (từ lóng) sự cố gắng; sự làm thử\n!a stab in the back\n- điều vu khống; sự nói xấu sau lưng\n- đòn ngầm, nhát đâm sau lưng\n*  ngoại động từ\n- đâm (ai) bằng dao găm\n- (nghĩa bóng) làm cho đau đớn (người nào, lương tâm, tình cảm...)\n- chọc rỗ (gạch) trước khi trát vữa\n*  nội động từ\n- đâm bằng dao găm\n=to stab at someone+ đâm ai bằng dao găm\n- nhằm đánh vào\n=to stab at someone's reputation+ nhằm làm hại thanh danh ai\n- đau nhói như dao đâm\n!to stab someone in the back\n- vu khống ai; nói xấu sau lưng ai\n- đòn ngầm ai\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đâm\n@Lĩnh vực: y học\n-đường đâm cấy\n-vết đâm, vết thương do đâm
-
+stab	@stab /stæb/
+*  danh từ
+- sự đâm bằng dao găm; vết thương đâm bằng dao găm, nhát đâm bằng dao găm
+- (nghĩa bóng) điều làm cho đau lòng; điều xúc phạm đến tình cảm
+- (từ lóng) sự cố gắng; sự làm thử
+!a stab in the back
+- điều vu khống; sự nói xấu sau lưng
+- đòn ngầm, nhát đâm sau lưng
+*  ngoại động từ
+- đâm (ai) bằng dao găm
+- (nghĩa bóng) làm cho đau đớn (người nào, lương tâm, tình cảm...)
+- chọc rỗ (gạch) trước khi trát vữa
+*  nội động từ
+- đâm bằng dao găm
+=to stab at someone+ đâm ai bằng dao găm
+- nhằm đánh vào
+=to stab at someone's reputation+ nhằm làm hại thanh danh ai
+- đau nhói như dao đâm
+!to stab someone in the back
+- vu khống ai; nói xấu sau lưng ai
+- đòn ngầm ai
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đâm
+@Lĩnh vực: y học
+-đường đâm cấy
+-vết đâm, vết thương do đâm

@@ -1,3 +1,52 @@
-sweet
-	@sweet /swi:t/\n*  tính từ\n- ngọt\n=as sweet a honey+ ngọt như mật\n=sweet stuff+ của ngọt, mức kẹo\n=to have a sweet tooth+ thích ăn của ngọt\n- ngọt (nước)\n=sweet water+ nước ngọt\n- thơm\n=air is sweet with orchid+ không khí sực mùi hoa lan thơm ngát\n- dịu dàng, êm ái, du dương; êm đềm\n=a sweet voice+ giọng êm ái\n=a sweet song+ bài hát du dương\n=a sweet sleep+ giấc ngủ êm đềm\n- tươi\n=is the meat still sweet?+ thịt còn tươi không?\n- tử tế, dễ dãi; có duyên; dễ thương\n=that's very sweet of you+ anh thật tử tế\n=sweet temper+ tính nết dễ thương\n- (thông tục) xinh xắn; đáng yêu; thích thú\n=a sweet face+ khuôn mặt xinh xắn\n=a sweet girl+ cô gái đang yêu\n=sweet one+ em yêu\n=a sweet toil+ việc vất vả nhưng thích thú\n!at one's own sweet will\n- tuỳ ý, tuỳ thích\n!to be sweet on (upon) somebody\n- phải lòng ai, mê ai\n*  danh từ\n- sự ngọt bùi; phần ngọt bùi\n=the sweet and the bitter of life+ sự ngọt bùi và sự cay đắng của cuộc đời\n- của ngọt, mứt, kẹo, món bánh ngọt tráng miệng\n- ((thường) số nhiều) hương thơm\n=flowers diffusing their sweets on the air+ hoa toả hương thơm vào không khí\n- (số nhiều) những điều thú vị, những thú vui, những sự khoái trá\n=the sweets of success+ những điều thú vị của sự thành công\n- anh yêu, em yêu (để gọi)\n@Chuyên ngành kinh tế\n-có hương vị\n-hương thơm\n-kẹo\n-ngọt\n-sự ngọt bùi\n-tươi\n@Chuyên ngành kỹ thuật\n-nhạt (nước)\n@Lĩnh vực: hóa học & vật liệu\n-ít lưu huỳnh (dầu khí)\n-không có khí mỏ\n-không có lưu huỳnh\n-không có lưu huỳnh (dầu mỏ)\n-ngọt
-
+sweet	@sweet /swi:t/
+*  tính từ
+- ngọt
+=as sweet a honey+ ngọt như mật
+=sweet stuff+ của ngọt, mức kẹo
+=to have a sweet tooth+ thích ăn của ngọt
+- ngọt (nước)
+=sweet water+ nước ngọt
+- thơm
+=air is sweet with orchid+ không khí sực mùi hoa lan thơm ngát
+- dịu dàng, êm ái, du dương; êm đềm
+=a sweet voice+ giọng êm ái
+=a sweet song+ bài hát du dương
+=a sweet sleep+ giấc ngủ êm đềm
+- tươi
+=is the meat still sweet?+ thịt còn tươi không?
+- tử tế, dễ dãi; có duyên; dễ thương
+=that's very sweet of you+ anh thật tử tế
+=sweet temper+ tính nết dễ thương
+- (thông tục) xinh xắn; đáng yêu; thích thú
+=a sweet face+ khuôn mặt xinh xắn
+=a sweet girl+ cô gái đang yêu
+=sweet one+ em yêu
+=a sweet toil+ việc vất vả nhưng thích thú
+!at one's own sweet will
+- tuỳ ý, tuỳ thích
+!to be sweet on (upon) somebody
+- phải lòng ai, mê ai
+*  danh từ
+- sự ngọt bùi; phần ngọt bùi
+=the sweet and the bitter of life+ sự ngọt bùi và sự cay đắng của cuộc đời
+- của ngọt, mứt, kẹo, món bánh ngọt tráng miệng
+- ((thường) số nhiều) hương thơm
+=flowers diffusing their sweets on the air+ hoa toả hương thơm vào không khí
+- (số nhiều) những điều thú vị, những thú vui, những sự khoái trá
+=the sweets of success+ những điều thú vị của sự thành công
+- anh yêu, em yêu (để gọi)
+@Chuyên ngành kinh tế
+-có hương vị
+-hương thơm
+-kẹo
+-ngọt
+-sự ngọt bùi
+-tươi
+@Chuyên ngành kỹ thuật
+-nhạt (nước)
+@Lĩnh vực: hóa học & vật liệu
+-ít lưu huỳnh (dầu khí)
+-không có khí mỏ
+-không có lưu huỳnh
+-không có lưu huỳnh (dầu mỏ)
+-ngọt

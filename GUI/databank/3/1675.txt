@@ -1,3 +1,2 @@
-alphabetizer
-	@alphabetizer\n- xem alphabetize
-
+alphabetizer	@alphabetizer
+- xem alphabetize

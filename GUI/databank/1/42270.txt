@@ -1,3 +1,2 @@
-poetizer
-	@poetizer\n- xem poetize
-
+poetizer	@poetizer
+- xem poetize

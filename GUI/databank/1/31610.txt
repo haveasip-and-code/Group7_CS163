@@ -1,3 +1,4 @@
-lathwork
-	@Chuyên ngành kỹ thuật\n-ván khuôn\n@Chuyên ngành kỹ thuật\n-ván khuôn
-
+lathwork	@Chuyên ngành kỹ thuật
+-ván khuôn
+@Chuyên ngành kỹ thuật
+-ván khuôn

@@ -1,3 +1,2 @@
-spacing
-	@spacing\n- (máy tính) xếp đặt, phana bố
-
+spacing	@spacing
+- (máy tính) xếp đặt, phana bố

@@ -1,3 +1,4 @@
-kilning
-	@Chuyên ngành kỹ thuật\n-sự làm khô\n@Chuyên ngành kỹ thuật\n-sự làm khô
-
+kilning	@Chuyên ngành kỹ thuật
+-sự làm khô
+@Chuyên ngành kỹ thuật
+-sự làm khô

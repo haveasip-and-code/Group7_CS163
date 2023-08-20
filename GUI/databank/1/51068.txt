@@ -1,3 +1,10 @@
-slacking
-	@Chuyên ngành kỹ thuật\n-độ giơ\n-sự chùng\n-sự lỏng\n@Lĩnh vực: hóa học & vật liệu\n-sự làm chùng\n-sự nới\n@Lĩnh vực: xây dựng\n-sự phong hóa (của đá)\n-sự võng (của cáp)
-
+slacking	@Chuyên ngành kỹ thuật
+-độ giơ
+-sự chùng
+-sự lỏng
+@Lĩnh vực: hóa học & vật liệu
+-sự làm chùng
+-sự nới
+@Lĩnh vực: xây dựng
+-sự phong hóa (của đá)
+-sự võng (của cáp)

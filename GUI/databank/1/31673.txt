@@ -1,3 +1,26 @@
-lavatory
-	@lavatory /'lævətəri/\n*  danh từ\n- phòng rửa mặt\n- nhà xí máy, nhà tiêu máy\n@Chuyên ngành kinh tế\n-phòng rửa\n@Chuyên ngành kỹ thuật\n-bồn rửa\n-buồng vệ sinh\n-buồng xí\n-chậu rửa\n-nhà vệ sinh\n-phòng rửa mặt\n-phòng tẩy trang\n@Lĩnh vực: xây dựng\n-nhà xí\n@Chuyên ngành kỹ thuật\n-bồn rửa\n-buồng vệ sinh\n-buồng xí\n-chậu rửa\n-nhà vệ sinh\n-phòng rửa mặt\n-phòng tẩy trang\n@Lĩnh vực: xây dựng\n-nhà xí
-
+lavatory	@lavatory /'lævətəri/
+*  danh từ
+- phòng rửa mặt
+- nhà xí máy, nhà tiêu máy
+@Chuyên ngành kinh tế
+-phòng rửa
+@Chuyên ngành kỹ thuật
+-bồn rửa
+-buồng vệ sinh
+-buồng xí
+-chậu rửa
+-nhà vệ sinh
+-phòng rửa mặt
+-phòng tẩy trang
+@Lĩnh vực: xây dựng
+-nhà xí
+@Chuyên ngành kỹ thuật
+-bồn rửa
+-buồng vệ sinh
+-buồng xí
+-chậu rửa
+-nhà vệ sinh
+-phòng rửa mặt
+-phòng tẩy trang
+@Lĩnh vực: xây dựng
+-nhà xí

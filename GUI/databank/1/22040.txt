@@ -1,3 +1,13 @@
-formula
-	@formula /'fɔ:mjulə/\n*  danh từ,  số nhiều formulas,  formulae\n- thể thức, cách thức\n- công thức\n=a mathematical formula+ công thức toán\n=a chemical formula+ công thức hoá học\n@Chuyên ngành kinh tế\n-thực đơn\n@Chuyên ngành kỹ thuật\n-đẳng thức\n@Lĩnh vực: toán & tin\n-phương trình
-
+formula	
+@formula /'fɔ:mjulə/
+*  danh từ,  số nhiều formulas,  formulae
+- thể thức, cách thức
+- công thức=a mathematical formula
++ công thức toán=a chemical formula
++ công thức hoá học
+@Chuyên ngành kinh tế
+-thực đơn
+@Chuyên ngành kỹ thuật
+-đẳng thức
+@Lĩnh vực: toán & tin
+-phương trình

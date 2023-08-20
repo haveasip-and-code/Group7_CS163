@@ -1,3 +1,3 @@
-zonation
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự phân đới
-
+zonation	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự phân đới

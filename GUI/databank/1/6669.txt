@@ -1,3 +1,4 @@
-breakables
-	@breakables /'breikəblz/\n*  (bất qui tắc) danh từ số nhiều\n- đồ dễ vỡ (bát, đĩa...)
-
+breakables	
+@breakables /'breikəblz/
+*  (bất qui tắc) danh từ số nhiều
+- đồ dễ vỡ (bát, đĩa...)

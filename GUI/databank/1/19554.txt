@@ -1,3 +1,27 @@
-excise
-	@excise /ek'saiz/\n*  danh từ\n- thuế hàng hoá, thuế môn bài\n- sở thu thuế hàng hoá, sở thu thuế môn bài\n*  ngoại động từ\n- đánh thuế hàng hoá, đánh thuế môn bài\n- bắt trả quá mức\n*  ngoại động từ\n- cắt, cắt xén (đoạn sách...)\n- (sinh vật học); (y học) cắt bớt, cắt lọc\n@Chuyên ngành kinh tế\n-sở thuế (Anh)\n-thuế hàng hóa\n-thuế hàng hóa nội địa\n-thuế môn bài\n-thuế tiêu thụ (ở Anh, Bỉ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cắt một mô\n@Lĩnh vực: xây dựng\n-thuế hàng (hóa)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cắt một mô\n@Lĩnh vực: xây dựng\n-thuế hàng (hóa)
-
+excise	
+@excise /ek'saiz/
+*  danh từ
+- thuế hàng hoá, thuế môn bài
+- sở thu thuế hàng hoá, sở thu thuế môn bài
+*  ngoại động từ
+- đánh thuế hàng hoá, đánh thuế môn bài
+- bắt trả quá mức
+*  ngoại động từ
+- cắt, cắt xén (đoạn sách...)
+- (sinh vật học); (y học) cắt bớt, cắt lọc
+@Chuyên ngành kinh tế
+-sở thuế (Anh)
+-thuế hàng hóa
+-thuế hàng hóa nội địa
+-thuế môn bài
+-thuế tiêu thụ (ở Anh, Bỉ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cắt một mô
+@Lĩnh vực: xây dựng
+-thuế hàng (hóa)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cắt một mô
+@Lĩnh vực: xây dựng
+-thuế hàng (hóa)

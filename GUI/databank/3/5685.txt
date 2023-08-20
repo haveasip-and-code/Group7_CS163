@@ -1,3 +1,2 @@
-bisectional
-	@bisectional\n- xem bisect
-
+bisectional	@bisectional
+- xem bisect

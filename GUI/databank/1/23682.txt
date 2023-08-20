@@ -1,3 +1,9 @@
-glucagon
-	@glucagon\n* danh từ\n- (hoá học) glucagon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-glucogon\n@Lĩnh vực: y học\n-hormôn do tụy tạng tiết ra gây tăng mức đường huyết, có tác động ngược lại với insuin
-
+glucagon	
+@glucagon
+* danh từ
+- (hoá học) glucagon
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-glucogon
+@Lĩnh vực: y học
+-hormôn do tụy tạng tiết ra gây tăng mức đường huyết, có tác động ngược lại với insuin

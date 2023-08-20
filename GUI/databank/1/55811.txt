@@ -1,3 +1,4 @@
-telamones
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cột hình người\n-cột tượng
-
+telamones	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-cột hình người
+-cột tượng

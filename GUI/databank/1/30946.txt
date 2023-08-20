@@ -1,3 +1,2 @@
-kilobit
-	@kilobit\n- 1024 bit thông tin
-
+kilobit	@kilobit
+- 1024 bit thông tin

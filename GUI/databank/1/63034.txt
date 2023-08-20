@@ -1,3 +1,3 @@
-winepress
-	@winepress /'wainpres/\n*  danh từ\n- máy ép nho
-
+winepress	@winepress /'wainpres/
+*  danh từ
+- máy ép nho

@@ -1,3 +1,2 @@
-wiretapper
-	@Chuyên ngành kỹ thuật\n-người nghe trộm
-
+wiretapper	@Chuyên ngành kỹ thuật
+-người nghe trộm

@@ -1,3 +1,7 @@
-productiveness
-	@productiveness /productiveness/\n*  danh từ\n- sức sản xuất; năng suất, hiệu suất\n=labour productiveness+ năng suất lao động\n@Chuyên ngành kỹ thuật\n-năng suất\n-sản lượng
-
+productiveness	@productiveness /productiveness/
+*  danh từ
+- sức sản xuất; năng suất, hiệu suất
+=labour productiveness+ năng suất lao động
+@Chuyên ngành kỹ thuật
+-năng suất
+-sản lượng

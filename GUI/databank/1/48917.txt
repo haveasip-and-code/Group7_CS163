@@ -1,3 +1,27 @@
-scan
-	@scan /skæn/\n*  động từ\n- đọc thử xem có đúng âm luật và nhịp điệu (thơ)\n- ngâm, bình (thơ)\n- đúng nhịp điệu\n=line scans smoothly+ câu đúng vần\n- nhìn chăm chú; xem xét từng điểm một\n- (từ Mỹ,nghĩa Mỹ) nhìn lướt, đọc lướt\n=to scan a page+ đọc lướt một trang sách\n- (truyền hình) phân hình (thành từng yếu tố nhỏ) để truyền đi\n- quét (máy rađa)\n@Chuyên ngành kỹ thuật\n-lấy mẫu\n-nhìn\n-quét\n-sự quét\n-tìm\n@Lĩnh vực: toán & tin\n-duyệt qua\n-sự kiểm tra vòng\n-tia quét\n@Lĩnh vực: y học\n-nhấp nháy đồ\n@Lĩnh vực: điện\n-phương pháp quét\n@Lĩnh vực: xây dựng\n-rà quét
-
+scan	@scan /skæn/
+*  động từ
+- đọc thử xem có đúng âm luật và nhịp điệu (thơ)
+- ngâm, bình (thơ)
+- đúng nhịp điệu
+=line scans smoothly+ câu đúng vần
+- nhìn chăm chú; xem xét từng điểm một
+- (từ Mỹ,nghĩa Mỹ) nhìn lướt, đọc lướt
+=to scan a page+ đọc lướt một trang sách
+- (truyền hình) phân hình (thành từng yếu tố nhỏ) để truyền đi
+- quét (máy rađa)
+@Chuyên ngành kỹ thuật
+-lấy mẫu
+-nhìn
+-quét
+-sự quét
+-tìm
+@Lĩnh vực: toán & tin
+-duyệt qua
+-sự kiểm tra vòng
+-tia quét
+@Lĩnh vực: y học
+-nhấp nháy đồ
+@Lĩnh vực: điện
+-phương pháp quét
+@Lĩnh vực: xây dựng
+-rà quét

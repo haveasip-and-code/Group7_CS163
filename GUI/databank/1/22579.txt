@@ -1,3 +1,22 @@
-functional
-	@functional /'fʌɳkʃənl/\n*  tính từ\n- (như) functionary\n- (toán học) (thuộc) hàm, (thuộc) hàm số\n=a functional equation+ phương trình hàm\n- (hoá học) (thuộc) chức\n@Chuyên ngành kỹ thuật\n-chạy\n-hàm\n-hàm số\n-hoạt động\n-nhiệm vụ\n-phiếm hàm\n-thao tác\n-vận hành\n@Lĩnh vực: ô tô\n-hữu dụng\n-thiết thực\n@Lĩnh vực: toán & tin\n-thuộc chức năng\n-thuộc hàm số
-
+functional	
+@functional /'fʌɳkʃənl/
+*  tính từ
+- (như) functionary
+- (toán học) (thuộc) hàm, (thuộc) hàm số=a functional equation
++ phương trình hàm
+- (hoá học) (thuộc) chức
+@Chuyên ngành kỹ thuật
+-chạy
+-hàm
+-hàm số
+-hoạt động
+-nhiệm vụ
+-phiếm hàm
+-thao tác
+-vận hành
+@Lĩnh vực: ô tô
+-hữu dụng
+-thiết thực
+@Lĩnh vực: toán & tin
+-thuộc chức năng
+-thuộc hàm số

@@ -1,3 +1,2 @@
-clacker
-	@clacker\n- xem clack
-
+clacker	@clacker
+- xem clack

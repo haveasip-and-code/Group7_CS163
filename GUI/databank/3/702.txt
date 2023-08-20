@@ -1,3 +1,34 @@
-addition
-	@addition /ə'diʃn/\n*  danh từ\n- (toán học) tính cộng; phép cộng; sự cộng lại\n- sự thêm, phần thêm\n=the family had a new addition+ gia đình ấy thêm một người\n=in addition to+ thêm vào\n@Chuyên ngành kinh tế\n-phần thêm\n-phép cộng\n-sự cộng\n-tập chất\n-thêm\n-tính cộng\n@Chuyên ngành kỹ thuật\n-bổ sung\n-chất phụ gia\n-chất thêm\n-cộng\n-nối thêm\n-phần thêm\n-phần thêm vào\n-phép cộng\n-phụ gia\n-sự cộng\n-sự pha\n-sự thêm\n-sự thêm vào\n-sự trộn vào\n-thêm\n@Lĩnh vực: toán & tin\n-cộng thêm\n@Lĩnh vực: xây dựng\n-sự bổ sung\n-tính cộng
-
+addition	@addition /ə'diʃn/
+*  danh từ
+- (toán học) tính cộng; phép cộng; sự cộng lại
+- sự thêm, phần thêm
+=the family had a new addition+ gia đình ấy thêm một người
+=in addition to+ thêm vào
+@Chuyên ngành kinh tế
+-phần thêm
+-phép cộng
+-sự cộng
+-tập chất
+-thêm
+-tính cộng
+@Chuyên ngành kỹ thuật
+-bổ sung
+-chất phụ gia
+-chất thêm
+-cộng
+-nối thêm
+-phần thêm
+-phần thêm vào
+-phép cộng
+-phụ gia
+-sự cộng
+-sự pha
+-sự thêm
+-sự thêm vào
+-sự trộn vào
+-thêm
+@Lĩnh vực: toán & tin
+-cộng thêm
+@Lĩnh vực: xây dựng
+-sự bổ sung
+-tính cộng

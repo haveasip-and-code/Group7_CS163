@@ -1,3 +1,2 @@
-dater
-	@dater\n- xem date
-
+dater	@dater
+- xem date

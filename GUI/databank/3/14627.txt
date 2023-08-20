@@ -1,3 +1,4 @@
-depression
-	@depression\n- sự giảm, sự hạ; vlđc. miền áp suất thấp; (toán kinh tế) sự suy thoái\n- d. of order (of differential equation) sự giảm cấp (của một phương\n- trình vi phân)
-
+depression	@depression
+- sự giảm, sự hạ; vlđc. miền áp suất thấp; (toán kinh tế) sự suy thoái
+- d. of order (of differential equation) sự giảm cấp (của một phương
+- trình vi phân)

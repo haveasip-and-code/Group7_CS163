@@ -1,3 +1,35 @@
-straw
-	@straw /strɔ:/\n*  danh từ\n- rơm\n- nón rơm, mũ rơm\n- cọng rơm, ống rơm (để hút nước chanh, nước cam...)\n- vật không đáng kể, vật vô giá trị\n=it is not worth a straw+ cái đó chẳng có giá trị gì cả\n!I don't care a straw\n- (xem) care\n!a drowing man will catch at a straw\n- (xem) catch\n!in the straw\n- (từ cổ,nghĩa cổ) nằm ổ\n!to make bricks without straw\n- đóng thuyền mà không xẻ ván\n!man of straw\n- người rơm, bù nhìn, hình nộm\n!the last straw\n- cái "một tí" thêm vào sau cùng (là cái nặng nhất)\n!a straw shows which way the wind blows\n- lời gợi ý nhỏ có thể có tác dụng lớn\n!a straw in the wind\n- cái chỉ hướng gió thổi; cái chỉ rõ chiều hướng dư luận\n*  tính từ\n- bằng rơm\n- vàng nhạt, màu rơm\n- nhỏ nhặt, tầm thường, vô giá trị\n*  ngoại động từ\n- (từ cổ,nghĩa cổ) phủ (bằng rơm, bằng cát, bằng hoa...)\n@Chuyên ngành kỹ thuật\n-rạ (làm bột giấy)\n@Lĩnh vực: cơ khí & công trình\n-có màu rơm (tôi)\n@Lĩnh vực: hóa học & vật liệu\n-rơm
-
+straw	@straw /strɔ:/
+*  danh từ
+- rơm
+- nón rơm, mũ rơm
+- cọng rơm, ống rơm (để hút nước chanh, nước cam...)
+- vật không đáng kể, vật vô giá trị
+=it is not worth a straw+ cái đó chẳng có giá trị gì cả
+!I don't care a straw
+- (xem) care
+!a drowing man will catch at a straw
+- (xem) catch
+!in the straw
+- (từ cổ,nghĩa cổ) nằm ổ
+!to make bricks without straw
+- đóng thuyền mà không xẻ ván
+!man of straw
+- người rơm, bù nhìn, hình nộm
+!the last straw
+- cái "một tí" thêm vào sau cùng (là cái nặng nhất)
+!a straw shows which way the wind blows
+- lời gợi ý nhỏ có thể có tác dụng lớn
+!a straw in the wind
+- cái chỉ hướng gió thổi; cái chỉ rõ chiều hướng dư luận
+*  tính từ
+- bằng rơm
+- vàng nhạt, màu rơm
+- nhỏ nhặt, tầm thường, vô giá trị
+*  ngoại động từ
+- (từ cổ,nghĩa cổ) phủ (bằng rơm, bằng cát, bằng hoa...)
+@Chuyên ngành kỹ thuật
+-rạ (làm bột giấy)
+@Lĩnh vực: cơ khí & công trình
+-có màu rơm (tôi)
+@Lĩnh vực: hóa học & vật liệu
+-rơm

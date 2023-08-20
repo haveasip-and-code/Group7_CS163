@@ -1,3 +1,17 @@
-detour
-	@detour /di'tuə/\n*  danh từ\n- khúc ngoặt, chỗ quanh co, đường vòng\n=to make a detour+ đi vòng quanh\n- (nghĩa bóng) sự đi chệch hướng, sự đi sai đường\n@Chuyên ngành kinh tế\n-đường vòng\n@Chuyên ngành kỹ thuật\n-đường vòng\n-lệch trình\n@Lĩnh vực: toán & tin\n-đổi hành trình\n@Lĩnh vực: xây dựng\n-đường phố rẽ\n-đường phố tránh\n-đường phố vòng
-
+detour	
+@detour /di'tuə/
+*  danh từ
+- khúc ngoặt, chỗ quanh co, đường vòng=to make a detour
++ đi vòng quanh
+- (nghĩa bóng) sự đi chệch hướng, sự đi sai đường
+@Chuyên ngành kinh tế
+-đường vòng
+@Chuyên ngành kỹ thuật
+-đường vòng
+-lệch trình
+@Lĩnh vực: toán & tin
+-đổi hành trình
+@Lĩnh vực: xây dựng
+-đường phố rẽ
+-đường phố tránh
+-đường phố vòng

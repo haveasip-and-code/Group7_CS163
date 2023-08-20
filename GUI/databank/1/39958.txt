@@ -1,3 +1,39 @@
-patch
-	@patch /pætʃ/\n*  danh từ\n- miếng vá\n- miếng băng dính, miếng thuốc cao (trên vết thương...)\n- miếng bông che mắt đau\n- nốt ruồi giả (để tô điểm trên mặt)\n- mảnh đất\n=a patch of potatoes+ một đám (mảnh) khoai\n- màng, vết, đốm lớn\n- mảnh thừa, mảnh vụn\n!to strike a bad patch\n- gặp vận bỉ, gặp lúc không may\n!not a patch on\n- (thông tục) không mùi gì khi đem so sánh với, không thấm gót khi đem so sánh với\n*  ngoại động từ\n- vá\n=to patch a tyre+ vá một cái lốp\n- dùng để vá, làm miếng vá (cho cái gì)\n=it will patch the hole well enough+ miếng đó đủ để vá cho cái lỗ thủng\n- ráp, nối (các mảnh, các mấu vào với nhau)\n- hiện ra từng mảng lốm đốm, loang lổ (trên vật gì)\n!to patch up\n- vá víu, vá qua loa\n- (nghĩa bóng) dàn xếp; dàn xếp qua loa, dàn xếp tạm thời (một vụ bất hoà...)\n@Chuyên ngành kỹ thuật\n-dán đắp vá\n-miếng vá\n-sửa tạm\n-vết đốm\n@Lĩnh vực: toán & tin\n-đắp vá\n-nối tạm\n@Lĩnh vực: điện lạnh\n-đường nối tạm (ở bảng nối tạm)\n@Lĩnh vực: điện tử & viễn thông\n-ráp nối\n@Lĩnh vực: xây dựng\n-sự sửa chữa cục bộ mặt đường (ổ gà)\n-vá
-
+patch	@patch /pætʃ/
+*  danh từ
+- miếng vá
+- miếng băng dính, miếng thuốc cao (trên vết thương...)
+- miếng bông che mắt đau
+- nốt ruồi giả (để tô điểm trên mặt)
+- mảnh đất
+=a patch of potatoes+ một đám (mảnh) khoai
+- màng, vết, đốm lớn
+- mảnh thừa, mảnh vụn
+!to strike a bad patch
+- gặp vận bỉ, gặp lúc không may
+!not a patch on
+- (thông tục) không mùi gì khi đem so sánh với, không thấm gót khi đem so sánh với
+*  ngoại động từ
+- vá
+=to patch a tyre+ vá một cái lốp
+- dùng để vá, làm miếng vá (cho cái gì)
+=it will patch the hole well enough+ miếng đó đủ để vá cho cái lỗ thủng
+- ráp, nối (các mảnh, các mấu vào với nhau)
+- hiện ra từng mảng lốm đốm, loang lổ (trên vật gì)
+!to patch up
+- vá víu, vá qua loa
+- (nghĩa bóng) dàn xếp; dàn xếp qua loa, dàn xếp tạm thời (một vụ bất hoà...)
+@Chuyên ngành kỹ thuật
+-dán đắp vá
+-miếng vá
+-sửa tạm
+-vết đốm
+@Lĩnh vực: toán & tin
+-đắp vá
+-nối tạm
+@Lĩnh vực: điện lạnh
+-đường nối tạm (ở bảng nối tạm)
+@Lĩnh vực: điện tử & viễn thông
+-ráp nối
+@Lĩnh vực: xây dựng
+-sự sửa chữa cục bộ mặt đường (ổ gà)
+-vá

@@ -1,3 +1,18 @@
-quadrilateral
-	@quadrilateral /,kwɔdri'lætərəl/\n*  tính từ\n- có bốn cạnh\n- bốn bên\n@Chuyên ngành kỹ thuật\n-chia bốn\n-hình bốn cạnh\n-hình bốn góc\n-hình tứ giác\n-tứ giác\n@Lĩnh vực: toán & tin\n-bốn cạnh\n-bốn phía\n@Lĩnh vực: xây dựng\n-hình 4 cạnh\n-thuộc hình 4 cạnh\n@Lĩnh vực: điện lạnh\n-tứ diện
-
+quadrilateral	@quadrilateral /,kwɔdri'lætərəl/
+*  tính từ
+- có bốn cạnh
+- bốn bên
+@Chuyên ngành kỹ thuật
+-chia bốn
+-hình bốn cạnh
+-hình bốn góc
+-hình tứ giác
+-tứ giác
+@Lĩnh vực: toán & tin
+-bốn cạnh
+-bốn phía
+@Lĩnh vực: xây dựng
+-hình 4 cạnh
+-thuộc hình 4 cạnh
+@Lĩnh vực: điện lạnh
+-tứ diện

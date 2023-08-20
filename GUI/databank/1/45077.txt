@@ -1,3 +1,7 @@
-quark
-	@quark\n* danh từ\n- <lý> hạt quác, vi lượng\n@Chuyên ngành kỹ thuật\n-quac (hạt cơ bản)\n@Lĩnh vực: điện lạnh\n-quac
-
+quark	@quark
+* danh từ
+- <lý> hạt quác, vi lượng
+@Chuyên ngành kỹ thuật
+-quac (hạt cơ bản)
+@Lĩnh vực: điện lạnh
+-quac

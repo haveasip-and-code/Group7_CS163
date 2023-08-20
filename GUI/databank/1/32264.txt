@@ -1,3 +1,23 @@
-limp
-	@limp /limp/\n*  danh từ\n- tật đi khập khiễng\n*  nội động từ\n- đi khập khiễng\n- lê, bay rề rề, chạy ì ạch (máy bay, tàu thuỷ bị thương, bị hỏng)\n*  tính từ\n- mềm, ủ rũ\n- ẻo lả, thiếu khí lực\n@Chuyên ngành kỹ thuật\n-cánh\n-vành chia độ\n@Lĩnh vực: toán & tin\n-một số\n@Lĩnh vực: cơ khí & công trình\n-thang số\n@Chuyên ngành kỹ thuật\n-cánh\n-vành chia độ\n@Lĩnh vực: toán & tin\n-một số\n@Lĩnh vực: cơ khí & công trình\n-thang số
-
+limp	@limp /limp/
+*  danh từ
+- tật đi khập khiễng
+*  nội động từ
+- đi khập khiễng
+- lê, bay rề rề, chạy ì ạch (máy bay, tàu thuỷ bị thương, bị hỏng)
+*  tính từ
+- mềm, ủ rũ
+- ẻo lả, thiếu khí lực
+@Chuyên ngành kỹ thuật
+-cánh
+-vành chia độ
+@Lĩnh vực: toán & tin
+-một số
+@Lĩnh vực: cơ khí & công trình
+-thang số
+@Chuyên ngành kỹ thuật
+-cánh
+-vành chia độ
+@Lĩnh vực: toán & tin
+-một số
+@Lĩnh vực: cơ khí & công trình
+-thang số

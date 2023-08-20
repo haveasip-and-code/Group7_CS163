@@ -1,3 +1,7 @@
-helicity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-độ xoắn ốc\n-độ xoáy ốc\n-tính xoắn ốc\n-tính xoáy ốc
-
+helicity	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-độ xoắn ốc
+-độ xoáy ốc
+-tính xoắn ốc
+-tính xoáy ốc

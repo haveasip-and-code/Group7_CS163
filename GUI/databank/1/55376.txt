@@ -1,3 +1,21 @@
-tabulation
-	@tabulation /,tæbju'leiʃn/\n*  danh từ\n- sự xếp thành bảng, sự xếp thành cột\n@Chuyên ngành kinh tế\n-biểu\n-sự lập bảng biểu\n-sự xếp thành bảng\n-trình bày thành bảng\n-việc lập bảng\n-việc lập bảng biểu\n@Chuyên ngành kỹ thuật\n-lập bảng\n-sự lập bảng\n-sự phân loại\n@Lĩnh vực: toán & tin\n-sự định cột\n-sự lập thành bảng\n@Lĩnh vực: xây dựng\n-sự lập bảng (tính)\n@Lĩnh vực: điện tử & viễn thông\n-sự lập biểu
-
+tabulation	@tabulation /,tæbju'leiʃn/
+*  danh từ
+- sự xếp thành bảng, sự xếp thành cột
+@Chuyên ngành kinh tế
+-biểu
+-sự lập bảng biểu
+-sự xếp thành bảng
+-trình bày thành bảng
+-việc lập bảng
+-việc lập bảng biểu
+@Chuyên ngành kỹ thuật
+-lập bảng
+-sự lập bảng
+-sự phân loại
+@Lĩnh vực: toán & tin
+-sự định cột
+-sự lập thành bảng
+@Lĩnh vực: xây dựng
+-sự lập bảng (tính)
+@Lĩnh vực: điện tử & viễn thông
+-sự lập biểu

@@ -1,3 +1,2 @@
-determinableness
-	@determinableness\n- xem determinable
-
+determinableness	@determinableness
+- xem determinable

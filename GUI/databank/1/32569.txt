@@ -1,3 +1,4 @@
-locatable
-	@locatable /lou'keitəbl/\n*  tính từ\n- có thể xác định đúng vị trí, có thể phát hiện vị trí\n- (từ Mỹ,nghĩa Mỹ) có thể đặt vị trí
-
+locatable	@locatable /lou'keitəbl/
+*  tính từ
+- có thể xác định đúng vị trí, có thể phát hiện vị trí
+- (từ Mỹ,nghĩa Mỹ) có thể đặt vị trí

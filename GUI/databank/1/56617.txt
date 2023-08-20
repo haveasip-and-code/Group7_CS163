@@ -1,3 +1,3 @@
-thymocyte
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tế bào tuyến ức
-
+thymocyte	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tế bào tuyến ức

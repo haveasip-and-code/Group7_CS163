@@ -1,3 +1,10 @@
-catalog
-	@catalog\n- Cách viết khác : catalogue\n@Chuyên ngành kỹ thuật\n-catalô\n-danh mục\n-lập catalô\n-lập danh mục\n-thư mục\n-từ điển
-
+catalog	
+@catalog
+- Cách viết khác : catalogue
+@Chuyên ngành kỹ thuật
+-catalô
+-danh mục
+-lập catalô
+-lập danh mục
+-thư mục
+-từ điển

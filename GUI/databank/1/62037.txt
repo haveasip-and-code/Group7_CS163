@@ -1,3 +1,2 @@
-vivary
-	@vivary\n- xem vivarium
-
+vivary	@vivary
+- xem vivarium

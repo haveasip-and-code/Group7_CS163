@@ -1,3 +1,2 @@
-burbly
-	@burbly\n- xem burble
-
+burbly	@burbly
+- xem burble

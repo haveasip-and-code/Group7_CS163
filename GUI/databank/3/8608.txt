@@ -1,3 +1,33 @@
-certificate
-	@certificate /sə'tifikit/\n*  danh từ\n- giấy chứng nhận; bằng\n=a certificate of birth+ giấy (chứng nhận) khai sinh\n=a certificate of health+ giấy chứng nhận sức khoẻ\n- chứng chỉ, văn bằng\n*  ngoại động từ\n- cấp giấy chứng nhận\n- cấp văn bằng\n@Chuyên ngành kinh tế\n-bằng cấp\n-biên lai\n-biên nhận\n-cấp bằng\n-chứng chỉ\n-chứng thư\n-giấy chứng nhận\n-giấy phép (kinh doanh)\n-giấy xác nhận\n-văn bằng\n@Chuyên ngành kỹ thuật\n-bằng\n-bằng (sáng chế)\n-biên bản\n-chứng chỉ\n-chứng chỉ chứng nhận\n-giấy chứng nhận\n-hồ sơ\n@Lĩnh vực: toán & tin\n-chứng chỉ người dùng\n-chứng nhận người dùng\n@Lĩnh vực: cơ khí & công trình\n-giấy chứng chỉ
-
+certificate	@certificate /sə'tifikit/
+*  danh từ
+- giấy chứng nhận; bằng
+=a certificate of birth+ giấy (chứng nhận) khai sinh
+=a certificate of health+ giấy chứng nhận sức khoẻ
+- chứng chỉ, văn bằng
+*  ngoại động từ
+- cấp giấy chứng nhận
+- cấp văn bằng
+@Chuyên ngành kinh tế
+-bằng cấp
+-biên lai
+-biên nhận
+-cấp bằng
+-chứng chỉ
+-chứng thư
+-giấy chứng nhận
+-giấy phép (kinh doanh)
+-giấy xác nhận
+-văn bằng
+@Chuyên ngành kỹ thuật
+-bằng
+-bằng (sáng chế)
+-biên bản
+-chứng chỉ
+-chứng chỉ chứng nhận
+-giấy chứng nhận
+-hồ sơ
+@Lĩnh vực: toán & tin
+-chứng chỉ người dùng
+-chứng nhận người dùng
+@Lĩnh vực: cơ khí & công trình
+-giấy chứng chỉ

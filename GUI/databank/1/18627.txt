@@ -1,3 +1,14 @@
-environment
-	@environment /in'vaiərənmənt/\n*  danh từ\n- môi trường, hoàn cảnh, những vật xung quanh\n- sự bao quanh, sự vây quanh, sự bao vây\n@Chuyên ngành kinh tế\n-hoàn cảnh\n-môi trường\n@Chuyên ngành kỹ thuật\n-hoàn cảnh\n-môi trường\n@Chuyên ngành kỹ thuật\n-hoàn cảnh\n-môi trường
-
+environment	
+@environment /in'vaiərənmənt/
+*  danh từ
+- môi trường, hoàn cảnh, những vật xung quanh
+- sự bao quanh, sự vây quanh, sự bao vây
+@Chuyên ngành kinh tế
+-hoàn cảnh
+-môi trường
+@Chuyên ngành kỹ thuật
+-hoàn cảnh
+-môi trường
+@Chuyên ngành kỹ thuật
+-hoàn cảnh
+-môi trường

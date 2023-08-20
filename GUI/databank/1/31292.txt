@@ -1,3 +1,6 @@
-lactalbumin
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một protein có sữa với nồng độ thấp hơn casein\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-một protein có sữa với nồng độ thấp hơn casein
-
+lactalbumin	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một protein có sữa với nồng độ thấp hơn casein
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-một protein có sữa với nồng độ thấp hơn casein

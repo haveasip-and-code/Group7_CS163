@@ -1,3 +1,53 @@
-yoke
-	@yoke /jouk/\n*  danh từ\n- sữa chua yoke /jouk/\n*  danh từ\n- ách (buộc trâu bò); cặp trâu bò buộc cùng ách\n- đòn gánh\n- cầu vai, lá sen (áo)\n- móc chung\n- cái kẹp (bắt hai ống nước)\n- (nghĩa bóng) mối ràng buộc (giữa vợ chồng); ách áp bức, gông xiềng\n=to throw off the yoke+ đánh đổ ách áp bức, phá bỏ gông xiềng\n!to pass (come) under the yoke\n- chịu hàng, chịu nhượng bộ\n*  ngoại động từ\n- thẳng vào ách, lồng ách vào (bò, ngựa)\n- cặp vào nhau, nối nhau (hai ống nước)\n- (nghĩa bóng) ràng buộc, nối; ép buộc, bắt phục tùng\n*  nội động từ\n- (+ with) bị buộc cặp với\n- (+ together) bị ràng buộc với nhau, kết lại với nhau\n@Chuyên ngành kỹ thuật\n-ách\n-cái ách (buộc vào cổ súc vật)\n-cái vòng\n-đai\n-đầu chạc\n-đầu hình đĩa\n-đòn ngang\n-giá hình cung\n-gông từ\n-kẹp\n-móc chữ U\n-ổ tựa (trụ giá dao)\n-quai chữ U\n-quai đầu cáp\n-ụ\n-vấu kẹp\n-vòng cách\n-vòng kẹp\n-vòng ôm\n-xà ngang\n@Lĩnh vực: điện lạnh\n-ách từ\n@Lĩnh vực: điện\n-cuộn dây lái tia\n-gông\n@Lĩnh vực: cơ khí & công trình\n-móc chuông (lưu tốc kế)\n@Lĩnh vực: xây dựng\n-thanh ngang (khung)\n-vòng đai cánh nhấc (cần trục)\n-vòng đệm cánh nhấc (cần trục)\n-xà ngang khuôn cửa
-
+yoke	@yoke /jouk/
+*  danh từ
+- sữa chua yoke /jouk/
+*  danh từ
+- ách (buộc trâu bò); cặp trâu bò buộc cùng ách
+- đòn gánh
+- cầu vai, lá sen (áo)
+- móc chung
+- cái kẹp (bắt hai ống nước)
+- (nghĩa bóng) mối ràng buộc (giữa vợ chồng); ách áp bức, gông xiềng
+=to throw off the yoke+ đánh đổ ách áp bức, phá bỏ gông xiềng
+!to pass (come) under the yoke
+- chịu hàng, chịu nhượng bộ
+*  ngoại động từ
+- thẳng vào ách, lồng ách vào (bò, ngựa)
+- cặp vào nhau, nối nhau (hai ống nước)
+- (nghĩa bóng) ràng buộc, nối; ép buộc, bắt phục tùng
+*  nội động từ
+- (+ with) bị buộc cặp với
+- (+ together) bị ràng buộc với nhau, kết lại với nhau
+@Chuyên ngành kỹ thuật
+-ách
+-cái ách (buộc vào cổ súc vật)
+-cái vòng
+-đai
+-đầu chạc
+-đầu hình đĩa
+-đòn ngang
+-giá hình cung
+-gông từ
+-kẹp
+-móc chữ U
+-ổ tựa (trụ giá dao)
+-quai chữ U
+-quai đầu cáp
+-ụ
+-vấu kẹp
+-vòng cách
+-vòng kẹp
+-vòng ôm
+-xà ngang
+@Lĩnh vực: điện lạnh
+-ách từ
+@Lĩnh vực: điện
+-cuộn dây lái tia
+-gông
+@Lĩnh vực: cơ khí & công trình
+-móc chuông (lưu tốc kế)
+@Lĩnh vực: xây dựng
+-thanh ngang (khung)
+-vòng đai cánh nhấc (cần trục)
+-vòng đệm cánh nhấc (cần trục)
+-xà ngang khuôn cửa

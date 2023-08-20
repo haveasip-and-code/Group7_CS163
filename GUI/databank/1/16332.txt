@@ -1,3 +1,4 @@
-dockworker
-	@dockworker\n* danh từ\n- xem docker
-
+dockworker	
+@dockworker
+* danh từ
+- xem docker

@@ -1,3 +1,7 @@
-pivoted
-	@Chuyên ngành kỹ thuật\n-được lắc\n-được xoay\n-quay\n-xoay\n@Lĩnh vực: vật lý\n-chốt xoay được
-
+pivoted	@Chuyên ngành kỹ thuật
+-được lắc
+-được xoay
+-quay
+-xoay
+@Lĩnh vực: vật lý
+-chốt xoay được

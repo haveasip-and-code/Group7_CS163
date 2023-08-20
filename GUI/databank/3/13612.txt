@@ -1,3 +1,2 @@
-dazzler
-	@dazzler\n- xem dazzle
-
+dazzler	@dazzler
+- xem dazzle

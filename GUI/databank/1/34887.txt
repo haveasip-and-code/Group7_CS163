@@ -1,3 +1,9 @@
-milled
-	@Chuyên ngành kinh tế\n-đập\n-nghiền\n@Chuyên ngành kỹ thuật\n-được cán\n-được phay\n-được tán\n@Lĩnh vực: xây dựng\n-được nghiền
-
+milled	@Chuyên ngành kinh tế
+-đập
+-nghiền
+@Chuyên ngành kỹ thuật
+-được cán
+-được phay
+-được tán
+@Lĩnh vực: xây dựng
+-được nghiền

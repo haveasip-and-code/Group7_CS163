@@ -1,3 +1,2 @@
-picnicky
-	@picnicky\n- xem picnic
-
+picnicky	@picnicky
+- xem picnic

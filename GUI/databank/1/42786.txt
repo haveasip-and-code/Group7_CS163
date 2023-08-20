@@ -1,3 +1,5 @@
-postmortem
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sau khi chết\n@Lĩnh vực: toán & tin\n-thao tác kế tiếp
-
+postmortem	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sau khi chết
+@Lĩnh vực: toán & tin
+-thao tác kế tiếp

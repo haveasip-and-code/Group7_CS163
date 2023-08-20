@@ -1,3 +1,3 @@
-ennobler
-	@ennobler\n- xem ennoble
-
+ennobler	
+@ennobler
+- xem ennoble

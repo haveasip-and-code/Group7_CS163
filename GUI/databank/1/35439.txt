@@ -1,3 +1,2 @@
-moneylender
-	@Chuyên ngành kinh tế\n-người cho vay lãi
-
+moneylender	@Chuyên ngành kinh tế
+-người cho vay lãi

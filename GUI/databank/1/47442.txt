@@ -1,3 +1,15 @@
-revel
-	@revel /'revl/\n*  danh từ\n- cuộc liên hoan\n- ((thường) số nhiều) cuộc chè chén ồn ào, cuộc ăn chơi chè chén, cuộc truy hoan\n*  nội động từ\n- liên hoan\n- ăn uống say sưa, chè chén ồn ào\n- ham mê, thích thú, miệt mài\n=to revel in a book+ miệt mài xem một quyển sách\n=to revel in doing something+ ham thích làm một việc gì\n*  ngoại động từ\n- (+ away) lãng phí (thời gian, tiền bạc) vào những cuộc ăn chơi chè chén\n=to revel away money+ lãng phí tiền bạc vào những cuộc ăn chơi chè chén\n- (+ out) ăn chơi chè chén\n=to revel out the night+ ăn chơi chè chén thâu đêm
-
+revel	@revel /'revl/
+*  danh từ
+- cuộc liên hoan
+- ((thường) số nhiều) cuộc chè chén ồn ào, cuộc ăn chơi chè chén, cuộc truy hoan
+*  nội động từ
+- liên hoan
+- ăn uống say sưa, chè chén ồn ào
+- ham mê, thích thú, miệt mài
+=to revel in a book+ miệt mài xem một quyển sách
+=to revel in doing something+ ham thích làm một việc gì
+*  ngoại động từ
+- (+ away) lãng phí (thời gian, tiền bạc) vào những cuộc ăn chơi chè chén
+=to revel away money+ lãng phí tiền bạc vào những cuộc ăn chơi chè chén
+- (+ out) ăn chơi chè chén
+=to revel out the night+ ăn chơi chè chén thâu đêm

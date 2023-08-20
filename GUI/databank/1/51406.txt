@@ -1,3 +1,14 @@
-smoky
-	@smoky /'smouki/\n*  tính từ\n- toả khói, đầy khói\n=a smoky fire+ lửa lắm khói\n=a smoky city+ một thành phố đầy khói\n- ám khói, đen vì khói\n=a smoky wall+ tường ám khói\n- như khói\n=smoky haze+ sương mù như khói\n@Chuyên ngành kinh tế\n-ám khói\n-đầy khói\n@Chuyên ngành kỹ thuật\n-có khói
-
+smoky	@smoky /'smouki/
+*  tính từ
+- toả khói, đầy khói
+=a smoky fire+ lửa lắm khói
+=a smoky city+ một thành phố đầy khói
+- ám khói, đen vì khói
+=a smoky wall+ tường ám khói
+- như khói
+=smoky haze+ sương mù như khói
+@Chuyên ngành kinh tế
+-ám khói
+-đầy khói
+@Chuyên ngành kỹ thuật
+-có khói

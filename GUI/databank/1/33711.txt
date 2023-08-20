@@ -1,3 +1,34 @@
-market
-	@market /'mɑ:kit/\n*  danh từ\n- chợ\n=to go to market+ đi chợ\n- thị trường, nơi tiêu thụ; khách hàng\n=the foreign market+ thị trường nước ngoài\n- giá thị trường; tình hình thị trường\n=the market fell+ giá thị trường xuống\n=the market rose+ giá thị trường lên\n=the market is quiet+ tình hình thị trường ổn định; thị trường chứng khoán bình ổn\n!to bring one's eggs (hogs) to a bad market (to the wrong market)\n- làm hỏng việc, làm lỡ việc; hỏng kế hoạch, tính sai\n!to make a market of one's honour\n- bán rẻ danh dự\n*  ngoại động từ\n- bán ở chợ, bán ở thị trường\n*  nội động từ\n- mua bán ở chợ\n@Chuyên ngành kinh tế\n-bán ra thị trường\n-buôn bán\n-chợ\n-giá\n-nơi tiêu thụ\n-sở giao dịch\n-thị trường\n-thị trường Sở giao dịch\n-thị trường trung tâm buôn bán\n-tiêu thụ\n-tìm thị trường tiêu thụ cho (hàng hóa)\n@Chuyên ngành kỹ thuật\n-người đếm\n@Lĩnh vực: toán & tin\n-máy chỉ
-
+market	@market /'mɑ:kit/
+*  danh từ
+- chợ
+=to go to market+ đi chợ
+- thị trường, nơi tiêu thụ; khách hàng
+=the foreign market+ thị trường nước ngoài
+- giá thị trường; tình hình thị trường
+=the market fell+ giá thị trường xuống
+=the market rose+ giá thị trường lên
+=the market is quiet+ tình hình thị trường ổn định; thị trường chứng khoán bình ổn
+!to bring one's eggs (hogs) to a bad market (to the wrong market)
+- làm hỏng việc, làm lỡ việc; hỏng kế hoạch, tính sai
+!to make a market of one's honour
+- bán rẻ danh dự
+*  ngoại động từ
+- bán ở chợ, bán ở thị trường
+*  nội động từ
+- mua bán ở chợ
+@Chuyên ngành kinh tế
+-bán ra thị trường
+-buôn bán
+-chợ
+-giá
+-nơi tiêu thụ
+-sở giao dịch
+-thị trường
+-thị trường Sở giao dịch
+-thị trường trung tâm buôn bán
+-tiêu thụ
+-tìm thị trường tiêu thụ cho (hàng hóa)
+@Chuyên ngành kỹ thuật
+-người đếm
+@Lĩnh vực: toán & tin
+-máy chỉ

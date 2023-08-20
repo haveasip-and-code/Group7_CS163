@@ -1,3 +1,28 @@
-property
-	@property /property/\n*  danh từ\n- quyền sở hữu, tài sản, của cải, vật sở hữu\n=a man of property+ người có nhiều của, người giàu có\n- đặc tính, tính chất\n=the chemical properties of iron+ những tính chất hoá học của sắt\n- đồ dùng sân khấu (trang trí, phục trang, dàn cảnh...)\n- (định ngữ) (thuộc) quyền sở hữu, (thuộc) tài sản\n=property tax+ thuế (đánh vào) tài sản\n@Chuyên ngành kinh tế\n-bất động sản\n-đặc tính\n-đất đai\n-khả năng\n-quyền sở hữu\n-tài sản\n-tài sản sở hữu\n-tài sản, của cải\n-tính chất\n-vật sở hữu\n@Chuyên ngành kỹ thuật\n-đặc tính\n-quyền sở hữu\n-tài sản\n-thuộc tính\n-tính năng\n@Lĩnh vực: toán & tin\n-tài sản riêng
-
+property	@property /property/
+*  danh từ
+- quyền sở hữu, tài sản, của cải, vật sở hữu
+=a man of property+ người có nhiều của, người giàu có
+- đặc tính, tính chất
+=the chemical properties of iron+ những tính chất hoá học của sắt
+- đồ dùng sân khấu (trang trí, phục trang, dàn cảnh...)
+- (định ngữ) (thuộc) quyền sở hữu, (thuộc) tài sản
+=property tax+ thuế (đánh vào) tài sản
+@Chuyên ngành kinh tế
+-bất động sản
+-đặc tính
+-đất đai
+-khả năng
+-quyền sở hữu
+-tài sản
+-tài sản sở hữu
+-tài sản, của cải
+-tính chất
+-vật sở hữu
+@Chuyên ngành kỹ thuật
+-đặc tính
+-quyền sở hữu
+-tài sản
+-thuộc tính
+-tính năng
+@Lĩnh vực: toán & tin
+-tài sản riêng

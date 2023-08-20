@@ -1,3 +1,9 @@
-deafness
-	@deafness /'defnis/\n*  danh từ\n- tật điếc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-điếc\n-độ điếc\n@Lĩnh vực: vật lý\n-sự điếc
-
+deafness	@deafness /'defnis/
+*  danh từ
+- tật điếc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-điếc
+-độ điếc
+@Lĩnh vực: vật lý
+-sự điếc

@@ -1,3 +1,6 @@
-evictor
-	@evictor /i:'viktə/\n*  danh từ\n- người đuổi (ai) (khỏi nhà ở, đất đai...)\n@Chuyên ngành kinh tế\n-người thu hồi tài sản (người đuổi ai ra khỏi nhà ở, đất đai)
-
+evictor	
+@evictor /i:'viktə/
+*  danh từ
+- người đuổi (ai) (khỏi nhà ở, đất đai...)
+@Chuyên ngành kinh tế
+-người thu hồi tài sản (người đuổi ai ra khỏi nhà ở, đất đai)

@@ -1,3 +1,32 @@
-extent
-	@extent /iks'tent /\n*  danh từ\n- khoảng rộng\n=vast extent of ground+ khoảng đất rộng\n- quy mô, phạm vi, chừng mực\n=to the extent of one's power+ trong phạm vi quyền lực\n=to a certain extent+ đến một chừng mực nào đó, ở một mức nhất định\n- (pháp lý) sự đánh giá (đất rộng...)\n- (pháp lý) sự tịch thu; văn bản tịch thu (đất ruộng...)\n@Chuyên ngành kỹ thuật\n-độ lớn\n-khoảng rộng\n-kích thước\n-ngoại diện\n-mở rộng\n-mức độ\n-phạm vi\n-quy mô\n@Lĩnh vực: điện lạnh\n-qui mô\n@Chuyên ngành kỹ thuật\n-độ lớn\n-khoảng rộng\n-kích thước\n-ngoại diện\n-mở rộng\n-mức độ\n-phạm vi\n-quy mô\n@Lĩnh vực: điện lạnh\n-qui mô
-
+extent	
+@extent /iks'tent /
+*  danh từ
+- khoảng rộng=vast extent of ground
++ khoảng đất rộng
+- quy mô, phạm vi, chừng mực=to the extent of one's power
++ trong phạm vi quyền lực=to a certain extent
++ đến một chừng mực nào đó, ở một mức nhất định
+- (pháp lý) sự đánh giá (đất rộng...)
+- (pháp lý) sự tịch thu; văn bản tịch thu (đất ruộng...)
+@Chuyên ngành kỹ thuật
+-độ lớn
+-khoảng rộng
+-kích thước
+-ngoại diện
+-mở rộng
+-mức độ
+-phạm vi
+-quy mô
+@Lĩnh vực: điện lạnh
+-qui mô
+@Chuyên ngành kỹ thuật
+-độ lớn
+-khoảng rộng
+-kích thước
+-ngoại diện
+-mở rộng
+-mức độ
+-phạm vi
+-quy mô
+@Lĩnh vực: điện lạnh
+-qui mô

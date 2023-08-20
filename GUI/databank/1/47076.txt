@@ -1,3 +1,27 @@
-residence
-	@residence /'rezidəns/\n*  danh từ\n- sự ở, sự cư trú, sự trú ngụ\n=to take up one's residence in the country+ về ở nông thôn\n=during my residence abroad+ trong khi tôi ở nước ngoài\n- chỗ ở, nơi cư trú, nhà ở\n=a desirable residence for sale+ một căn nhà đẹp để bán\n- dinh thự\n@Chuyên ngành kinh tế\n-chỗ ở\n-nhà\n-nơi cư trú\n-nước cư trú\n-thời gian cư trú\n-trụ sở\n@Chuyên ngành kỹ thuật\n-nhà ở\n-phủ\n-sự duy trì\n-sự thường trú\n@Lĩnh vực: xây dựng\n-căn hộ ở\n-dinh\n-nơi cư trú\n-nơi ở\n@Lĩnh vực: điện\n-dinh thự
-
+residence	@residence /'rezidəns/
+*  danh từ
+- sự ở, sự cư trú, sự trú ngụ
+=to take up one's residence in the country+ về ở nông thôn
+=during my residence abroad+ trong khi tôi ở nước ngoài
+- chỗ ở, nơi cư trú, nhà ở
+=a desirable residence for sale+ một căn nhà đẹp để bán
+- dinh thự
+@Chuyên ngành kinh tế
+-chỗ ở
+-nhà
+-nơi cư trú
+-nước cư trú
+-thời gian cư trú
+-trụ sở
+@Chuyên ngành kỹ thuật
+-nhà ở
+-phủ
+-sự duy trì
+-sự thường trú
+@Lĩnh vực: xây dựng
+-căn hộ ở
+-dinh
+-nơi cư trú
+-nơi ở
+@Lĩnh vực: điện
+-dinh thự

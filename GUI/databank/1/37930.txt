@@ -1,3 +1,2 @@
-operand
-	@operand\n- toán hạng
-
+operand	@operand
+- toán hạng

@@ -1,3 +1,6 @@
-radiograph
-	@radiograph /'reidiougrɑ:f/\n*  danh từ\n- (y học) máy tia X, máy rơngen\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phim chụp X quang
-
+radiograph	@radiograph /'reidiougrɑ:f/
+*  danh từ
+- (y học) máy tia X, máy rơngen
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-phim chụp X quang

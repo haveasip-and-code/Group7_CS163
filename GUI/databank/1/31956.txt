@@ -1,3 +1,9 @@
-leprosy
-	@leprosy /'leprəsi/\n*  danh từ\n- bệnh hủi, bệnh phong\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh hủi, bệnh phong, bệnh cùi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh hủi, bệnh phong, bệnh cùi
-
+leprosy	@leprosy /'leprəsi/
+*  danh từ
+- bệnh hủi, bệnh phong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh hủi, bệnh phong, bệnh cùi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh hủi, bệnh phong, bệnh cùi

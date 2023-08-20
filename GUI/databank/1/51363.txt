@@ -1,3 +1,40 @@
-smell
-	@smell /smel/\n*  danh từ\n- khứu giác\n=a fine sense of smell+ mũi thính\n- sự ngửi, sự hít\n=to have a smell at something+ ngửi cái gì\n- mùi\n=the smell of roses+ mùi hoa hồng\n- mùi thối, mùi ôi\n*  ngoại động từ smelt,  (từ hiếm,nghĩa hiếm) smelled\n- ngửi, ngửi thấy, thấy mùi\n=I am sure I smell gas+ tôi cam đoan có mùi hơi đốt\n- cảm thấy, đoán được\n=do you smell anything unusual?+ anh có cảm thấy có điều gì không bình thường không?\n- đánh hơi tìm ra, đánh hơi tìm; (bóng) khám phá, phát hiện\n=to smell out a plot+ khám phá ra một âm mưu\n*  nội động từ\n- có mùi, toả mùi\n=these flowers smell sweet+ những hoa này có mùi thơm dịu\n=to smell of garlic+ có nùi tỏi\n=this milk smells sour+ sữa này có mùi chua\n=to smell of jobberyd+ sặc mùi xoay xở\n=his talk smells of war+ bài nói của hắn sặc mùi chiến tranh\n!to smell about\n- đánh hơi\n- quen hơi (quen với một mùi gì)\n!to smell up\n- sặc mùi thối, sặc mùi ôi; làm nồng nặc mùi hôi thối\n!to smell of the lamp\n- (xem) lamp\n!to smell of the shop\n- quá nặng tính chất chuyên môn, quá nặng tính chất kỹ thuật\n!to smell a rat\n- (nghĩa bóng) cảm thấy có âm mưu, nghi có sự dối trá\n@Chuyên ngành kinh tế\n-mùi\n-ngửi\n-vị\n@Chuyên ngành kỹ thuật\n-ngửi
-
+smell	@smell /smel/
+*  danh từ
+- khứu giác
+=a fine sense of smell+ mũi thính
+- sự ngửi, sự hít
+=to have a smell at something+ ngửi cái gì
+- mùi
+=the smell of roses+ mùi hoa hồng
+- mùi thối, mùi ôi
+*  ngoại động từ smelt,  (từ hiếm,nghĩa hiếm) smelled
+- ngửi, ngửi thấy, thấy mùi
+=I am sure I smell gas+ tôi cam đoan có mùi hơi đốt
+- cảm thấy, đoán được
+=do you smell anything unusual?+ anh có cảm thấy có điều gì không bình thường không?
+- đánh hơi tìm ra, đánh hơi tìm; (bóng) khám phá, phát hiện
+=to smell out a plot+ khám phá ra một âm mưu
+*  nội động từ
+- có mùi, toả mùi
+=these flowers smell sweet+ những hoa này có mùi thơm dịu
+=to smell of garlic+ có nùi tỏi
+=this milk smells sour+ sữa này có mùi chua
+=to smell of jobberyd+ sặc mùi xoay xở
+=his talk smells of war+ bài nói của hắn sặc mùi chiến tranh
+!to smell about
+- đánh hơi
+- quen hơi (quen với một mùi gì)
+!to smell up
+- sặc mùi thối, sặc mùi ôi; làm nồng nặc mùi hôi thối
+!to smell of the lamp
+- (xem) lamp
+!to smell of the shop
+- quá nặng tính chất chuyên môn, quá nặng tính chất kỹ thuật
+!to smell a rat
+- (nghĩa bóng) cảm thấy có âm mưu, nghi có sự dối trá
+@Chuyên ngành kinh tế
+-mùi
+-ngửi
+-vị
+@Chuyên ngành kỹ thuật
+-ngửi

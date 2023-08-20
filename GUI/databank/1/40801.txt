@@ -1,3 +1,12 @@
-persist
-	@persist /pə'sist/\n*  nội động từ\n- kiên gan, bền bỉ\n=to persist in doing something+ kiên gan làm việc gì\n- khăng khăng, cố chấp\n=to persist in one's opinion+ khăng khăng giữ ý kiến của mình\n- vẫn còn, cứ dai dẳng\n=the fever persists+ cơn sốt vẫn dai dẳng\n=the tendency still persists+ khuynh hướng vẫn còn\n@Chuyên ngành kỹ thuật\n-cố chấp\n-tiếp tục
-
+persist	@persist /pə'sist/
+*  nội động từ
+- kiên gan, bền bỉ
+=to persist in doing something+ kiên gan làm việc gì
+- khăng khăng, cố chấp
+=to persist in one's opinion+ khăng khăng giữ ý kiến của mình
+- vẫn còn, cứ dai dẳng
+=the fever persists+ cơn sốt vẫn dai dẳng
+=the tendency still persists+ khuynh hướng vẫn còn
+@Chuyên ngành kỹ thuật
+-cố chấp
+-tiếp tục

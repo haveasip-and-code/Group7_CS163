@@ -1,3 +1,28 @@
-girder
-	@girder /'gə:də/\n*  danh từ\n- cái xà nhà, cái rầm cái; cái rầm cầu\n- (raddiô) cột (anten...)\n@Chuyên ngành kỹ thuật\n-cái dầm\n-cái xà\n-cần\n-dầm\n-dầm chính\n-dầm giàn\n-giá\n-giàn\n-hệ chịu lực\n-rầm\n-thanh\n-thanh giằng\n-thanh nối\n-xà\n-xà ngang\n@Lĩnh vực: hóa học & vật liệu\n-cột (ăng ten)\n@Lĩnh vực: xây dựng\n-đà\n@Lĩnh vực: cơ khí & công trình\n-đà cái\n-xà nhà
-
+girder	
+@girder /'gə:də/
+*  danh từ
+- cái xà nhà, cái rầm cái; cái rầm cầu
+- (raddiô) cột (anten...)
+@Chuyên ngành kỹ thuật
+-cái dầm
+-cái xà
+-cần
+-dầm
+-dầm chính
+-dầm giàn
+-giá
+-giàn
+-hệ chịu lực
+-rầm
+-thanh
+-thanh giằng
+-thanh nối
+-xà
+-xà ngang
+@Lĩnh vực: hóa học & vật liệu
+-cột (ăng ten)
+@Lĩnh vực: xây dựng
+-đà
+@Lĩnh vực: cơ khí & công trình
+-đà cái
+-xà nhà

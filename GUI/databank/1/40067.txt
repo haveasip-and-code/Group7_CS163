@@ -1,3 +1,8 @@
-patterned
-	@patterned\n* tính từ\n- được trang trí bằng mẫu vẽ, được trang trí với hoa văn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có cấu trúc\n-theo mẫu\n-theo mô hình
-
+patterned	@patterned
+* tính từ
+- được trang trí bằng mẫu vẽ, được trang trí với hoa văn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có cấu trúc
+-theo mẫu
+-theo mô hình

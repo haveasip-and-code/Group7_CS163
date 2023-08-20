@@ -1,3 +1,2 @@
-vaporer
-	@vaporer\n- xem vapor
-
+vaporer	@vaporer
+- xem vapor

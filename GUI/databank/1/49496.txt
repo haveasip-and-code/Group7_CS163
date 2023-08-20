@@ -1,3 +1,4 @@
-sect
-	@sect /sekt/\n*  danh từ\n- bè phái, môn phái, giáo phái\n=religion sect+ giáo phái
-
+sect	@sect /sekt/
+*  danh từ
+- bè phái, môn phái, giáo phái
+=religion sect+ giáo phái

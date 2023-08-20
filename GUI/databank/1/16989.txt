@@ -1,3 +1,7 @@
-dumbwaiter
-	@dumbwaiter\n- bàn xoay\n- thang máy chuyển thức ăn từ tầng này sang tầng khác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-xe nâng
-
+dumbwaiter	
+@dumbwaiter
+- bàn xoay
+- thang máy chuyển thức ăn từ tầng này sang tầng khác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-xe nâng

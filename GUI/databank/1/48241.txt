@@ -1,3 +1,4 @@
-rune
-	@rune /ru:n/\n*  danh từ\n- chữ run (chữ viết xưa của các dân tộc Bắc Âu vào khoảng (thế kỷ) 2)\n- dấu bí hiểm, dấu thần bí
-
+rune	@rune /ru:n/
+*  danh từ
+- chữ run (chữ viết xưa của các dân tộc Bắc Âu vào khoảng (thế kỷ) 2)
+- dấu bí hiểm, dấu thần bí

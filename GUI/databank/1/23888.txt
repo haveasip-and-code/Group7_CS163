@@ -1,3 +1,8 @@
-gooseneck
-	@Chuyên ngành kỹ thuật\n-chỗ thắt\n@Lĩnh vực: cơ khí & công trình\n-cái khuỷu\n@Lĩnh vực: điện\n-cần micrô\n-cổ đèn
-
+gooseneck	
+@Chuyên ngành kỹ thuật
+-chỗ thắt
+@Lĩnh vực: cơ khí & công trình
+-cái khuỷu
+@Lĩnh vực: điện
+-cần micrô
+-cổ đèn

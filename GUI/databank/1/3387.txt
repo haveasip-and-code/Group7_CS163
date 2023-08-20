@@ -1,3 +1,4 @@
-arrows
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-mũi tên chỉ hướng
-
+arrows	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-mũi tên chỉ hướng

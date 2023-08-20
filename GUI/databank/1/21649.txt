@@ -1,3 +1,44 @@
-flux
-	@flux /flux/\n*  danh từ\n- sự chảy mạnh, sự tuôn ra\n=a flux of talk+ chuyện thao thao bất tuyệt, chuyện nổ như ngô rang\n- sự thay đổi liên tục\n=in a state of flux+ ở tình trạng thay đổi liên tục (không ổn định)\n- (kỹ thuật) dòng, luồng\n=axial flux+ dòng hướng trục\n=neutron flux+ luồng nơtron\n- (toán học),  (vật lý) thông lượng\n=vector flux+ thông lượng vectơ\n=radiaction flux+ thông lượng bức xạ\n- (kỹ thuật) chất gây cháy (luyện kim)\n- (y học) sự băng huyết\n- (từ cổ,nghĩa cổ) bệnh kiết lỵ\n*  nội động từ\n- chảy ra, đổ ra, tuôn ra\n*  ngoại động từ\n- làm chảy (kim loại) bằng chất gây chảy\n- (y học) tấy\n@Chuyên ngành kinh tế\n-dòng chảy\n@Chuyên ngành kỹ thuật\n-chất pha loãng\n-đổ ra\n-dòng\n-dòng chảy\n-dòng chảy mạnh\n-luồng\n-nấu chảy\n-nóng chảy\n-nung chảy\n-sự tuôn ra\n@Lĩnh vực: xây dựng\n-bãi cát bồi\n-sự dung\n@Lĩnh vực: hóa học & vật liệu\n-chất gây cháy\n-chất nóng chảy\n@Lĩnh vực: cơ khí & công trình\n-dòng luồng\n@Lĩnh vực: y học\n-sự chảy mạnh
-
+flux	
+@flux /flux/
+*  danh từ
+- sự chảy mạnh, sự tuôn ra=a flux of talk
++ chuyện thao thao bất tuyệt, chuyện nổ như ngô rang
+- sự thay đổi liên tục=in a state of flux
++ ở tình trạng thay đổi liên tục (không ổn định)
+- (kỹ thuật) dòng, luồng=axial flux
++ dòng hướng trục=neutron flux
++ luồng nơtron
+- (toán học),  (vật lý) thông lượng=vector flux
++ thông lượng vectơ=radiaction flux
++ thông lượng bức xạ
+- (kỹ thuật) chất gây cháy (luyện kim)
+- (y học) sự băng huyết
+- (từ cổ,nghĩa cổ) bệnh kiết lỵ
+*  nội động từ
+- chảy ra, đổ ra, tuôn ra
+*  ngoại động từ
+- làm chảy (kim loại) bằng chất gây chảy
+- (y học) tấy
+@Chuyên ngành kinh tế
+-dòng chảy
+@Chuyên ngành kỹ thuật
+-chất pha loãng
+-đổ ra
+-dòng
+-dòng chảy
+-dòng chảy mạnh
+-luồng
+-nấu chảy
+-nóng chảy
+-nung chảy
+-sự tuôn ra
+@Lĩnh vực: xây dựng
+-bãi cát bồi
+-sự dung
+@Lĩnh vực: hóa học & vật liệu
+-chất gây cháy
+-chất nóng chảy
+@Lĩnh vực: cơ khí & công trình
+-dòng luồng
+@Lĩnh vực: y học
+-sự chảy mạnh

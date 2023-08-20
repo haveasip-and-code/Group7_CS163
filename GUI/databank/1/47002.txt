@@ -1,3 +1,8 @@
-reradiation
-	@Chuyên ngành kỹ thuật\n-sự tái bức xạ\n@Lĩnh vực: điện lạnh\n-bức xạ tái phát\n-sự chiếu lại (bức xạ)\n-sự tái chiếu (bức xạ)\n@Lĩnh vực: điện\n-tái phát xạ
-
+reradiation	@Chuyên ngành kỹ thuật
+-sự tái bức xạ
+@Lĩnh vực: điện lạnh
+-bức xạ tái phát
+-sự chiếu lại (bức xạ)
+-sự tái chiếu (bức xạ)
+@Lĩnh vực: điện
+-tái phát xạ

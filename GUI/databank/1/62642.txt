@@ -1,3 +1,7 @@
-weekend
-	@weekend\n* danh từ\n- cuối tuần (thứ bảy và chủ nhật)\n* động từ\n- đi nghỉ cuối tuần, đi thăm cuối tuần\n@Chuyên ngành kỹ thuật\n-cuối tuần
-
+weekend	@weekend
+* danh từ
+- cuối tuần (thứ bảy và chủ nhật)
+* động từ
+- đi nghỉ cuối tuần, đi thăm cuối tuần
+@Chuyên ngành kỹ thuật
+-cuối tuần

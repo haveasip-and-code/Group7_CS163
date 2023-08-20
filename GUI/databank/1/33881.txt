@@ -1,3 +1,5 @@
-matchboard
-	@Chuyên ngành kỹ thuật\n-bảng mẫu\n-ván cừ\n@Lĩnh vực: cơ khí & công trình\n-tấm mẫu (đúc)
-
+matchboard	@Chuyên ngành kỹ thuật
+-bảng mẫu
+-ván cừ
+@Lĩnh vực: cơ khí & công trình
+-tấm mẫu (đúc)

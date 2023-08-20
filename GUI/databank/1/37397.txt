@@ -1,3 +1,17 @@
-obscure
-	@obscure /əb'skjuə/\n*  tính từ\n- tối, tối tăm, mờ, mờ mịt\n- không rõ nghĩa, tối nghĩa\n=obscure style+ văn tối nghĩa\n- không có tiếng tăm, ít người biết đến\n=an obscure author+ tác giả không có tiếng tăm\n=an obscure village+ làng ít người biết đến\n*  ngoại động từ\n- làm tối, làm mờ\n- làm không rõ, làm khó hiểu\n- làm mờ (tên tuổi)\n- che khuất\n@Chuyên ngành kỹ thuật\n-che khuất\n@Lĩnh vực: xây dựng\n-mờ mịt
-
+obscure	@obscure /əb'skjuə/
+*  tính từ
+- tối, tối tăm, mờ, mờ mịt
+- không rõ nghĩa, tối nghĩa
+=obscure style+ văn tối nghĩa
+- không có tiếng tăm, ít người biết đến
+=an obscure author+ tác giả không có tiếng tăm
+=an obscure village+ làng ít người biết đến
+*  ngoại động từ
+- làm tối, làm mờ
+- làm không rõ, làm khó hiểu
+- làm mờ (tên tuổi)
+- che khuất
+@Chuyên ngành kỹ thuật
+-che khuất
+@Lĩnh vực: xây dựng
+-mờ mịt

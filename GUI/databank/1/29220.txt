@@ -1,3 +1,39 @@
-interchange
-	@interchange /'intə'tʃeindʤ/\n*  danh từ\n- sự trao đổi lẫn nhau, sự thay thế lẫn nhau\n- sự đổi chỗ cho nhau\n- sự xen kẽ nhau\n- (từ Mỹ,nghĩa Mỹ) ngã ba có đường hầm và cầu chui\n*  ngoại động từ\n- trao đổi lẫn nhau, thay thế lẫn nhau\n- đổi chỗ cho nhau\n- xen kẽ nhau\n=to interchange work with amusement+ xen kẽ làm việc với giải trí\n*  nội động từ\n- xảy ra lần lượt, xảy ra theo lượt; xen kẽ\n- thay thế nhau\n- đổi chỗ cho nhau\n@Chuyên ngành kinh tế\n-luân phiên\n-sự hoán đổi lẫn nhau\n-sự luân phiên\n-sự thay thế lẫn nhau\n-sự trao đổi\n-trao đổi\n-xen kẽ\n@Chuyên ngành kỹ thuật\n-chuyển đổi\n-đổi chỗ\n-giao điểm\n-hoán đổi\n-hoán vị\n-sự hoán vị\n-sự trao đổi\n-thay chỗ\n-thay thế\n@Lĩnh vực: xây dựng\n-đổi chác\n-nút giao thông\n@Lĩnh vực: toán & tin\n-sự hoán đổi
-
+interchange	
+@interchange /'intə'tʃeindʤ/
+*  danh từ
+- sự trao đổi lẫn nhau, sự thay thế lẫn nhau
+- sự đổi chỗ cho nhau
+- sự xen kẽ nhau
+- (từ Mỹ,nghĩa Mỹ) ngã ba có đường hầm và cầu chui
+*  ngoại động từ
+- trao đổi lẫn nhau, thay thế lẫn nhau
+- đổi chỗ cho nhau
+- xen kẽ nhau=to interchange work with amusement
++ xen kẽ làm việc với giải trí
+*  nội động từ
+- xảy ra lần lượt, xảy ra theo lượt; xen kẽ
+- thay thế nhau
+- đổi chỗ cho nhau
+@Chuyên ngành kinh tế
+-luân phiên
+-sự hoán đổi lẫn nhau
+-sự luân phiên
+-sự thay thế lẫn nhau
+-sự trao đổi
+-trao đổi
+-xen kẽ
+@Chuyên ngành kỹ thuật
+-chuyển đổi
+-đổi chỗ
+-giao điểm
+-hoán đổi
+-hoán vị
+-sự hoán vị
+-sự trao đổi
+-thay chỗ
+-thay thế
+@Lĩnh vực: xây dựng
+-đổi chác
+-nút giao thông
+@Lĩnh vực: toán & tin
+-sự hoán đổi

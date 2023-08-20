@@ -1,3 +1,6 @@
-backdating
-	@Chuyên ngành kinh tế\n-đề lùi ngày về trước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự hủy cập nhật
-
+backdating	
+@Chuyên ngành kinh tế
+-đề lùi ngày về trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự hủy cập nhật

@@ -1,3 +1,19 @@
-clasp
-	@clasp /klɑ:sp/\n*  danh từ\n- cái móc, cái gài\n- sự siết chặt (tay), sự ôm chặt (ai)\n*  ngoại động từ\n- cài, gài, móc\n=to clasp a bracelet round one's wrist+ cái vòng vào cổ tay\n- ôm chặt, nắm chặt, siết chặt\n=to clasp somebody in one's arms+ ôm chặt ai trong cánh tay\n=to clasp hands+ siết chặt ai\n!to clasp one's hands\n- đan tay vào nhau\n@Chuyên ngành kỹ thuật\n-cài\n-cái móc\n-kẹp\n-kẹp quai\n-móc\n-tốc kẹp
-
+clasp	@clasp /klɑ:sp/
+*  danh từ
+- cái móc, cái gài
+- sự siết chặt (tay), sự ôm chặt (ai)
+*  ngoại động từ
+- cài, gài, móc
+=to clasp a bracelet round one's wrist+ cái vòng vào cổ tay
+- ôm chặt, nắm chặt, siết chặt
+=to clasp somebody in one's arms+ ôm chặt ai trong cánh tay
+=to clasp hands+ siết chặt ai
+!to clasp one's hands
+- đan tay vào nhau
+@Chuyên ngành kỹ thuật
+-cài
+-cái móc
+-kẹp
+-kẹp quai
+-móc
+-tốc kẹp

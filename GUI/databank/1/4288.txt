@@ -1,3 +1,5 @@
-axonometric
-	@Chuyên ngành kỹ thuật\n-phối cảnh\n@Lĩnh vực: xây dựng\n-phép chiếu có trục đo
-
+axonometric	
+@Chuyên ngành kỹ thuật
+-phối cảnh
+@Lĩnh vực: xây dựng
+-phép chiếu có trục đo

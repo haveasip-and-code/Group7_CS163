@@ -1,3 +1,31 @@
-arrange
-	@arrange /ə'reindʤ/\n*  ngoại động từ\n- sắp xếp, sắp đặt, sửa soạn\n=arrange in alphabetical order+ sắp xếp theo thứ tự abc\n=to arrange a room+ sửa soạn căn phòng\n=to arrange one's hair+ chải (vuốt) tóc cho gọn gàng tề chỉnh\n- thu xếp; chuẩn bị\n=to arrange a meeting+ thu xếp cuộc gặp gỡ\n=to arrange a marriage+ thu xếp việc cưới xin\n- dàn xếp, hoà giải (một cuộc cãi nhau...)\n- cải biên, soạn lại\n=to arrange a piece of music+ cải biên một bản nhạc\n=to arrange a play for broadcasting+ soạn lại một vở kịch để phát thanh\n- (toán học) chỉnh hợp\n- (kỹ thuật) lắp ráp\n- (quân sự) sắp xếp thành hàng ngũ chỉnh tề\n*  nội động từ\n- thu xếp; chuẩn bị\n=to arrange to come early+ thu xếp để đến sớm\n- dàn xếp, đồng ý, thoả thuận\n=to arrange with somebody about something+ dàn xếp với ai vấn đề gì; đồng ý với ai cái gì\n- (quân sự) đứng thành hàng ngũ chỉnh tề\n@Chuyên ngành kỹ thuật\n-bố trí\n-chỉnh hợp\n-lắp ráp\n-sắp đặt\n-sắp xếp\n@Lĩnh vực: cơ khí & công trình\n-giá đặt
-
+arrange	
+@arrange /ə'reindʤ/
+*  ngoại động từ
+- sắp xếp, sắp đặt, sửa soạn=arrange in alphabetical order
++ sắp xếp theo thứ tự abc=to arrange a room
++ sửa soạn căn phòng=to arrange one's hair
++ chải (vuốt) tóc cho gọn gàng tề chỉnh
+- thu xếp; chuẩn bị=to arrange a meeting
++ thu xếp cuộc gặp gỡ=to arrange a marriage
++ thu xếp việc cưới xin
+- dàn xếp, hoà giải (một cuộc cãi nhau...)
+- cải biên, soạn lại=to arrange a piece of music
++ cải biên một bản nhạc=to arrange a play for broadcasting
++ soạn lại một vở kịch để phát thanh
+- (toán học) chỉnh hợp
+- (kỹ thuật) lắp ráp
+- (quân sự) sắp xếp thành hàng ngũ chỉnh tề
+*  nội động từ
+- thu xếp; chuẩn bị=to arrange to come early
++ thu xếp để đến sớm
+- dàn xếp, đồng ý, thoả thuận=to arrange with somebody about something
++ dàn xếp với ai vấn đề gì; đồng ý với ai cái gì
+- (quân sự) đứng thành hàng ngũ chỉnh tề
+@Chuyên ngành kỹ thuật
+-bố trí
+-chỉnh hợp
+-lắp ráp
+-sắp đặt
+-sắp xếp
+@Lĩnh vực: cơ khí & công trình
+-giá đặt

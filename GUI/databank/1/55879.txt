@@ -1,3 +1,18 @@
-telltale
-	@telltale /'telteil/\n*  danh từ\n- người mách lẻo, người hớt lẻo\n- cái làm lộ chân tướng, cái làm lộ tẩy\n- đồng hồ kiểm tra; thiết bị báo hiệu\n*  tính từ\n- mách lẻo, hớt lẻo\n- (nghĩa bóng) làm lộ chân tướng, làm lộ tẩy\n=telltale blushes+ những cái đỏ mặt làm lộ tẩy\n@Chuyên ngành kỹ thuật\n-máy báo hiệu\n-máy đếm\n-máy đo độ cao chất lỏng\n-máy ghi\n@Lĩnh vực: cơ khí & công trình\n-dụng cụ hiển thị\n@Lĩnh vực: hóa học & vật liệu\n-máy chỉ
-
+telltale	@telltale /'telteil/
+*  danh từ
+- người mách lẻo, người hớt lẻo
+- cái làm lộ chân tướng, cái làm lộ tẩy
+- đồng hồ kiểm tra; thiết bị báo hiệu
+*  tính từ
+- mách lẻo, hớt lẻo
+- (nghĩa bóng) làm lộ chân tướng, làm lộ tẩy
+=telltale blushes+ những cái đỏ mặt làm lộ tẩy
+@Chuyên ngành kỹ thuật
+-máy báo hiệu
+-máy đếm
+-máy đo độ cao chất lỏng
+-máy ghi
+@Lĩnh vực: cơ khí & công trình
+-dụng cụ hiển thị
+@Lĩnh vực: hóa học & vật liệu
+-máy chỉ

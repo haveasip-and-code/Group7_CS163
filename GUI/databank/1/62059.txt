@@ -1,3 +1,2 @@
-vizierate
-	@vizierate\n- xem vizier
-
+vizierate	@vizierate
+- xem vizier

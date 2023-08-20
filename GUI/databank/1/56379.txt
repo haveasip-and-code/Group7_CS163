@@ -1,3 +1,56 @@
-thick
-	@thick /θik/\n*  tính từ\n- dày\n=a thick layer of sand+ lớp cát dày\n- to, mập\n=a thick pipe+ cái ống to\n- đặc, sền sệt\n=thick soup+ cháo đặc\n- dày đặc, rậm, rậm rạp\n=thick fog+ sương mù dày đặc\n=thick crowd+ đám đông dày đặc, đám người đông nghịt\n=thick hair+ tóc râm\n=thick forest+ rừng rậm\n- ngu đần, đần độn\n- không rõ, lè nhè\n=a thick utterance+ lời phát biểu không rõ\n=voice thick with drink+ giọng lè nhè vì say\n- thân, thân thiết\n=to be thick together+ thân với nhau\n=as thick as thieves+ rất ăn ý với nhau, rất thân\n- quán nhiều, thái quá\n=it's a bit thick+ hơi nhiều, hơi quá\n!thick with\n- đầy, có nhiều\n=thick with dust+ đầy bụi\n!to lay it on thick\n- ca ngợi hết lời, tán dương hết lời\n*  phó từ\n- dày, dày đặc\n=the snow was falling thick+ tuyết rơi dày đặc\n=thick and fast+ tới tấp\n- khó, cứng; mệt nhọc, khó khăn, nặng nề\n=to breathe thick+ thở khó khăn\n=to speak thick+ nói khó khăn, nói lắp bắp\n*  danh từ\n- chỗ mập nhất, chỗ dày nhất\n=the thick of the leg+ bắp chân\n- chính giữa, chỗ dày nhất\n=the thick of the forest+ chính giữa rừng\n- chỗ tập trung nhất, chỗ hoạt động nhất\n=the thick of the fight+ chỗ (lúc) ác liệt nhất của cuộc chiến đầu\n=in the thick of it+ chính đang lúc (đánh nhau...)\n!through thick and thin\n- trong mọi hoàn cảnh dễ dàng cũng như gay go; trong bất cứ điều kiện nào; kiên cường\n!to go through thick and thin for someone\n- mạo hiểm vì người nào\n@Chuyên ngành kinh tế\n-đặc\n-dày\n-sền sệt\n@Chuyên ngành kỹ thuật\n-đậm đặc (chất lỏng)\n-dày\n-dày đặc\n-rậm rạp\n-u ám (trời)
-
+thick	@thick /θik/
+*  tính từ
+- dày
+=a thick layer of sand+ lớp cát dày
+- to, mập
+=a thick pipe+ cái ống to
+- đặc, sền sệt
+=thick soup+ cháo đặc
+- dày đặc, rậm, rậm rạp
+=thick fog+ sương mù dày đặc
+=thick crowd+ đám đông dày đặc, đám người đông nghịt
+=thick hair+ tóc râm
+=thick forest+ rừng rậm
+- ngu đần, đần độn
+- không rõ, lè nhè
+=a thick utterance+ lời phát biểu không rõ
+=voice thick with drink+ giọng lè nhè vì say
+- thân, thân thiết
+=to be thick together+ thân với nhau
+=as thick as thieves+ rất ăn ý với nhau, rất thân
+- quán nhiều, thái quá
+=it's a bit thick+ hơi nhiều, hơi quá
+!thick with
+- đầy, có nhiều
+=thick with dust+ đầy bụi
+!to lay it on thick
+- ca ngợi hết lời, tán dương hết lời
+*  phó từ
+- dày, dày đặc
+=the snow was falling thick+ tuyết rơi dày đặc
+=thick and fast+ tới tấp
+- khó, cứng; mệt nhọc, khó khăn, nặng nề
+=to breathe thick+ thở khó khăn
+=to speak thick+ nói khó khăn, nói lắp bắp
+*  danh từ
+- chỗ mập nhất, chỗ dày nhất
+=the thick of the leg+ bắp chân
+- chính giữa, chỗ dày nhất
+=the thick of the forest+ chính giữa rừng
+- chỗ tập trung nhất, chỗ hoạt động nhất
+=the thick of the fight+ chỗ (lúc) ác liệt nhất của cuộc chiến đầu
+=in the thick of it+ chính đang lúc (đánh nhau...)
+!through thick and thin
+- trong mọi hoàn cảnh dễ dàng cũng như gay go; trong bất cứ điều kiện nào; kiên cường
+!to go through thick and thin for someone
+- mạo hiểm vì người nào
+@Chuyên ngành kinh tế
+-đặc
+-dày
+-sền sệt
+@Chuyên ngành kỹ thuật
+-đậm đặc (chất lỏng)
+-dày
+-dày đặc
+-rậm rạp
+-u ám (trời)

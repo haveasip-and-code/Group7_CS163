@@ -1,3 +1,11 @@
-roundhouse
-	@roundhouse\n* danh từ\n- (sử học) nhà tạm gian\n- (hàng hải) cabin (ở phía sau mạn lái của tàu cổ)\n- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) nhà để đầu máy\n- cú đấm rất mạnh\n@Chuyên ngành kỹ thuật\n-nhà tròn\n@Lĩnh vực: giao thông & vận tải\n-đề pô\n-đêpô nhà tròn
-
+roundhouse	@roundhouse
+* danh từ
+- (sử học) nhà tạm gian
+- (hàng hải) cabin (ở phía sau mạn lái của tàu cổ)
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) nhà để đầu máy
+- cú đấm rất mạnh
+@Chuyên ngành kỹ thuật
+-nhà tròn
+@Lĩnh vực: giao thông & vận tải
+-đề pô
+-đêpô nhà tròn

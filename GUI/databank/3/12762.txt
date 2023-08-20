@@ -1,3 +1,5 @@
-crosspiece
-	@Chuyên ngành kỹ thuật\n-dầm ngang (cửa cống)\n-thanh ngang\n@Lĩnh vực: vật lý\n-cấu ngang
-
+crosspiece	@Chuyên ngành kỹ thuật
+-dầm ngang (cửa cống)
+-thanh ngang
+@Lĩnh vực: vật lý
+-cấu ngang

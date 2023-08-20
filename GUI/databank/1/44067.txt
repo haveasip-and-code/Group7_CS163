@@ -1,3 +1,8 @@
-propagator
-	@propagator /propagator/\n*  danh từ\n- người truyền bá\n@Chuyên ngành kinh tế\n-người truyền giống\n-thiết bị gây giống\n@Chuyên ngành kỹ thuật\n-hàm truyền
-
+propagator	@propagator /propagator/
+*  danh từ
+- người truyền bá
+@Chuyên ngành kinh tế
+-người truyền giống
+-thiết bị gây giống
+@Chuyên ngành kỹ thuật
+-hàm truyền

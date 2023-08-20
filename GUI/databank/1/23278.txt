@@ -1,3 +1,10 @@
-geometrize
-	@geometrize\n* nội động từ\n- nghiên cứu hình học\n- vận dụng phương pháp hình học\n* ngoại động từ\n- trình bày theo phương pháp hình học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình học hóa
-
+geometrize	
+@geometrize
+* nội động từ
+- nghiên cứu hình học
+- vận dụng phương pháp hình học
+* ngoại động từ
+- trình bày theo phương pháp hình học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình học hóa

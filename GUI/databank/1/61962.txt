@@ -1,3 +1,15 @@
-visibility
-	@visibility /,vizi'biliti/\n*  danh từ\n- tính chất có thể trông thấy được\n=the visibilityof a gas+ tính chất trông thấy được của một chất khí\n=high visibility+ (khí tượng) sự trông thấy rõ; tầm nhìn xa lớn\n- tính rõ ràng, tính rõ rệt, tính minh bạch\n@Chuyên ngành kỹ thuật\n-độ nhìn thấy\n-khả năng nhìn xa\n-tầm nhìn xa\n@Lĩnh vực: điện lạnh\n-độ thị kiến\n@Lĩnh vực: xây dựng\n-sự nhìn thấy được\n-tầm thấy được
-
+visibility	@visibility /,vizi'biliti/
+*  danh từ
+- tính chất có thể trông thấy được
+=the visibilityof a gas+ tính chất trông thấy được của một chất khí
+=high visibility+ (khí tượng) sự trông thấy rõ; tầm nhìn xa lớn
+- tính rõ ràng, tính rõ rệt, tính minh bạch
+@Chuyên ngành kỹ thuật
+-độ nhìn thấy
+-khả năng nhìn xa
+-tầm nhìn xa
+@Lĩnh vực: điện lạnh
+-độ thị kiến
+@Lĩnh vực: xây dựng
+-sự nhìn thấy được
+-tầm thấy được

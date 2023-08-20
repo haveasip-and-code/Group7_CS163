@@ -1,3 +1,8 @@
-voter
-	@voter /'voutə/\n*  danh từ\n- người bỏ phiếu, người bầu cử\n- người có quyền bỏ phiếu\n@Chuyên ngành kinh tế\n-người bầu cử\n-người bỏ phiếu\n-người bỏ phiếu, người bầu cử
-
+voter	@voter /'voutə/
+*  danh từ
+- người bỏ phiếu, người bầu cử
+- người có quyền bỏ phiếu
+@Chuyên ngành kinh tế
+-người bầu cử
+-người bỏ phiếu
+-người bỏ phiếu, người bầu cử

@@ -1,3 +1,2 @@
-definitional
-	@definitional\n- xem definition
-
+definitional	@definitional
+- xem definition

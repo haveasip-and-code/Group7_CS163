@@ -1,3 +1,6 @@
-lynx
-	@lynx /liɳks/\n*  danh từ\n- (động vật học) mèo rừng linh, linh miêu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trình duyệt Lynx
-
+lynx	@lynx /liɳks/
+*  danh từ
+- (động vật học) mèo rừng linh, linh miêu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-trình duyệt Lynx

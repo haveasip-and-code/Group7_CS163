@@ -1,3 +1,10 @@
-invariable
-	@invariable /in'veəriəbl/\n*  tính từ\n- không thay đổi, cố định\n- (toán học) không đổi\n*  danh từ\n- cái không thay đổi, cái cố định\n@Chuyên ngành kỹ thuật\n-bất biến\n-không đổi
-
+invariable	
+@invariable /in'veəriəbl/
+*  tính từ
+- không thay đổi, cố định
+- (toán học) không đổi
+*  danh từ
+- cái không thay đổi, cái cố định
+@Chuyên ngành kỹ thuật
+-bất biến
+-không đổi

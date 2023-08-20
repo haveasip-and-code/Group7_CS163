@@ -1,3 +1,47 @@
-rupture
-	@rupture /'rʌptʃə/\n*  danh từ\n- sự đoạn tuyệt, sự tuyệt giao, sự cắt đứt; sự gián đoạn\n=a rupture of diplomatic relations between two countries+ sự cắt đứt quan hệ ngoại giao giữa hai nước\n- (y học) sự vỡ, sự đứt, sự gãy, sự nứt, sự rách, sự thủng (ruột)\n=a blood-vessel rupture+ sự đứt mạch máu\n- (y học) sự thoát vị\n*  ngoại động từ\n- đoạn tuyệt, tuyệt giao, cắt đứt; làm gián đoạn\n=to rupture diplomatic relations with a country+ cắt đứt quan hệ ngoại giao với một nước\n- (y học) làm vỡ, làm đứt, làm gãy, làm nứt, làm rách, làm thủng\n=to rupture a blood-vessel+ làm đứt mạch máu\n- (y học) làm thoát vị\n*  nội động từ\n- bị cắt đứt; bị gián đoạn\n- (y học) vỡ, đứt, gãy, nứt, rách, thủng\n- (y học) thoát vị\n@Chuyên ngành kinh tế\n-đứt đoạn\n-sự gãy vỡ\n@Chuyên ngành kỹ thuật\n-chỗ đứt\n-chỗ gãy\n-có tính phá hoại\n-đứt\n-gãy\n-làm gãy\n-nứt\n-phá hoại\n-sự đánh thủng\n-sự đứt\n-sự đứt gãy\n-sự gãy\n-sự hỏng\n-sự phá hoại\n-sự phá hủy\n-vết nứt\n-vỡ\n@Lĩnh vực: cơ khí & công trình\n-nứt gãy\n-sự đổ vỡ\n@Lĩnh vực: điện\n-sự đánh thủng (lớp cách điện)\n-sự gẫy\n-sự phá hủy (ống dẫn)\n@Lĩnh vực: xây dựng\n-thuộc phá hoại
-
+rupture	@rupture /'rʌptʃə/
+*  danh từ
+- sự đoạn tuyệt, sự tuyệt giao, sự cắt đứt; sự gián đoạn
+=a rupture of diplomatic relations between two countries+ sự cắt đứt quan hệ ngoại giao giữa hai nước
+- (y học) sự vỡ, sự đứt, sự gãy, sự nứt, sự rách, sự thủng (ruột)
+=a blood-vessel rupture+ sự đứt mạch máu
+- (y học) sự thoát vị
+*  ngoại động từ
+- đoạn tuyệt, tuyệt giao, cắt đứt; làm gián đoạn
+=to rupture diplomatic relations with a country+ cắt đứt quan hệ ngoại giao với một nước
+- (y học) làm vỡ, làm đứt, làm gãy, làm nứt, làm rách, làm thủng
+=to rupture a blood-vessel+ làm đứt mạch máu
+- (y học) làm thoát vị
+*  nội động từ
+- bị cắt đứt; bị gián đoạn
+- (y học) vỡ, đứt, gãy, nứt, rách, thủng
+- (y học) thoát vị
+@Chuyên ngành kinh tế
+-đứt đoạn
+-sự gãy vỡ
+@Chuyên ngành kỹ thuật
+-chỗ đứt
+-chỗ gãy
+-có tính phá hoại
+-đứt
+-gãy
+-làm gãy
+-nứt
+-phá hoại
+-sự đánh thủng
+-sự đứt
+-sự đứt gãy
+-sự gãy
+-sự hỏng
+-sự phá hoại
+-sự phá hủy
+-vết nứt
+-vỡ
+@Lĩnh vực: cơ khí & công trình
+-nứt gãy
+-sự đổ vỡ
+@Lĩnh vực: điện
+-sự đánh thủng (lớp cách điện)
+-sự gẫy
+-sự phá hủy (ống dẫn)
+@Lĩnh vực: xây dựng
+-thuộc phá hoại

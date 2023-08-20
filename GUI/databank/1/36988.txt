@@ -1,3 +1,2 @@
-nonskid
-	@Chuyên ngành kỹ thuật\n-không trượt
-
+nonskid	@Chuyên ngành kỹ thuật
+-không trượt

@@ -1,3 +1,4 @@
-superimposed
-	@Chuyên ngành kỹ thuật\n-xếp chồng\n@Lĩnh vực: điện\n-được xếp chồng
-
+superimposed	@Chuyên ngành kỹ thuật
+-xếp chồng
+@Lĩnh vực: điện
+-được xếp chồng

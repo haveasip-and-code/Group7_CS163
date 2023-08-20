@@ -1,3 +1,19 @@
-watery
-	@watery /'wɔ:təri/\n*  tính từ\n- ướt, đẫm nước, sũng nước\n=watery eyes+ mắt đẫm lệ\n=watery clouds+ mây sũng nước, mây mưa\n=watery weather+ tiết trời ướt át\n- loãng, lỏng, nhạt\n=watery soup+ cháo loãng\n- bạc thếch (màu)\n=watery colour+ màu bạc thếch\n- nhạt nhẽo, vô vị\n=watery style+ văn nhạt nhẽo\n=watery talk+ câu chuyện nhạt nhẽo\n@Chuyên ngành kỹ thuật\n-đẫm nước\n-sũng nước\n-ướt\n@Lĩnh vực: hóa học & vật liệu\n-thửa nước
-
+watery	@watery /'wɔ:təri/
+*  tính từ
+- ướt, đẫm nước, sũng nước
+=watery eyes+ mắt đẫm lệ
+=watery clouds+ mây sũng nước, mây mưa
+=watery weather+ tiết trời ướt át
+- loãng, lỏng, nhạt
+=watery soup+ cháo loãng
+- bạc thếch (màu)
+=watery colour+ màu bạc thếch
+- nhạt nhẽo, vô vị
+=watery style+ văn nhạt nhẽo
+=watery talk+ câu chuyện nhạt nhẽo
+@Chuyên ngành kỹ thuật
+-đẫm nước
+-sũng nước
+-ướt
+@Lĩnh vực: hóa học & vật liệu
+-thửa nước

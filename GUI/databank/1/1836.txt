@@ -1,3 +1,20 @@
-amend
-	@amend /ə'mend/\n*  ngoại động từ\n- sửa cho tốt hơn, làm cho tốt hơn; cải thiện\n=to amend one's way of living+ sửa đổi lối sống\n- bồi bổ, cải tạo (đất)\n=to amend land+ bồi bổ đất\n- sửa đổi, thay đổi (văn kiện pháp lý); bổ sung (chỗ thiếu sót, sai lầm trong một văn kiện...)\n=to amend a law+ bổ sung một đạo luật\n*  nội động từ\n- trở nên tốt hơn, cải tà quy chánh\n- (từ cổ,nghĩa cổ) bình phục, hồi phục sức khoẻ\n@Chuyên ngành kinh tế\n-bổ sung\n-sửa đổi\n-thay đổi\n-tu chính\n@Chuyên ngành kỹ thuật\n-chấm dứt dị thường\n-hoàn thiện
-
+amend	
+@amend /ə'mend/
+*  ngoại động từ
+- sửa cho tốt hơn, làm cho tốt hơn; cải thiện=to amend one's way of living
++ sửa đổi lối sống
+- bồi bổ, cải tạo (đất)=to amend land
++ bồi bổ đất
+- sửa đổi, thay đổi (văn kiện pháp lý); bổ sung (chỗ thiếu sót, sai lầm trong một văn kiện...)=to amend a law
++ bổ sung một đạo luật
+*  nội động từ
+- trở nên tốt hơn, cải tà quy chánh
+- (từ cổ,nghĩa cổ) bình phục, hồi phục sức khoẻ
+@Chuyên ngành kinh tế
+-bổ sung
+-sửa đổi
+-thay đổi
+-tu chính
+@Chuyên ngành kỹ thuật
+-chấm dứt dị thường
+-hoàn thiện

@@ -1,3 +1,12 @@
-bribe
-	@bribe /braib/\n*  danh từ\n- của đút lót, vật đút lót, vật hối lộ\n=to take bribe+ ăn hối lộ\n*  ngoại động từ\n- đút lót, hối lộ, mua chuộc\n@Chuyên ngành kinh tế\n-của đút lót\n-của hối lộ\n-hối lộ\n-mua chuộc\n-vật hối lộ
-
+bribe	@bribe /braib/
+*  danh từ
+- của đút lót, vật đút lót, vật hối lộ
+=to take bribe+ ăn hối lộ
+*  ngoại động từ
+- đút lót, hối lộ, mua chuộc
+@Chuyên ngành kinh tế
+-của đút lót
+-của hối lộ
+-hối lộ
+-mua chuộc
+-vật hối lộ

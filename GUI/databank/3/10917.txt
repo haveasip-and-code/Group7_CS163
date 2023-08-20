@@ -1,3 +1,2 @@
-concocter
-	@concocter\n- xem concoct
-
+concocter	@concocter
+- xem concoct

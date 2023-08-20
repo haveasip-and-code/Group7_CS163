@@ -1,3 +1,10 @@
-emasculate
-	@emasculate /i'mæskjulit/\n*  ngoại động từ\n- thiến, hoạn\n- cắt xén (một tác phẩm...)\n- làm yếu ớt, làm nhu nhược\n- làm nghèo (một ngôn ngữ)\n*  tính từ ((cũng) emasculated)\n- bị thiến, bị hoạn\n- bị làm yếu ớt, bị làm nhu nhược
-
+emasculate	
+@emasculate /i'mæskjulit/
+*  ngoại động từ
+- thiến, hoạn
+- cắt xén (một tác phẩm...)
+- làm yếu ớt, làm nhu nhược
+- làm nghèo (một ngôn ngữ)
+*  tính từ ((cũng) emasculated)
+- bị thiến, bị hoạn
+- bị làm yếu ớt, bị làm nhu nhược

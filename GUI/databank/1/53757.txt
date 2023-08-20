@@ -1,3 +1,41 @@
-stripping
-	@stripping\n* danh từ\n- sự cởi quần áo; bóc trần; lột trần\n- sự tháo gỡ\n- sự tước bỏ; tước đoạt (của cải, danh hiệu, chức vụ)\n- sự tẩy gỉ, tẩy mạ\n- sự tháo khuôn\n- sự tẩy màu; tẩy mực (trên trang vẽ)\n- sự vắt cạn sữa (con bò)\n- sự làm trờn răng\n@Chuyên ngành kỹ thuật\n-loại bỏ\n-sự bốc đất đá\n-sự đẩy ra\n-sự đẩy ra (khỏi khuôn kim loại)\n-sự ép ra\n-sự giải hấp\n-sự kẻ sọc\n-sự tháo khuôn\n-sự tháo rời\n-sự tháo ván khuôn\n@Lĩnh vực: xây dựng\n-công trường (khai thác) vật liệu\n-mỏ đá (lộ thiên)\n-mỏ đá lộ thiên\n-sự bóc đất đá\n-sự bóc đất đá (ở mỏ)\n-sự bóc thảm cỏ\n-sự tháo cốp-pha\n@Lĩnh vực: hóa học & vật liệu\n-sự bóc\n-sự cất phần nhẹ\n@Lĩnh vực: điện lạnh\n-sự tách thành dải\n-sự tẩy mạ\n-sự tước\n@Lĩnh vực: môi trường\n-sự tẩy rửa (xử lý nguyên liệu)\n@Lĩnh vực: cơ khí & công trình\n-sự tẩy sơn\n-sự tháo dỡ thỏi
-
+stripping	@stripping
+* danh từ
+- sự cởi quần áo; bóc trần; lột trần
+- sự tháo gỡ
+- sự tước bỏ; tước đoạt (của cải, danh hiệu, chức vụ)
+- sự tẩy gỉ, tẩy mạ
+- sự tháo khuôn
+- sự tẩy màu; tẩy mực (trên trang vẽ)
+- sự vắt cạn sữa (con bò)
+- sự làm trờn răng
+@Chuyên ngành kỹ thuật
+-loại bỏ
+-sự bốc đất đá
+-sự đẩy ra
+-sự đẩy ra (khỏi khuôn kim loại)
+-sự ép ra
+-sự giải hấp
+-sự kẻ sọc
+-sự tháo khuôn
+-sự tháo rời
+-sự tháo ván khuôn
+@Lĩnh vực: xây dựng
+-công trường (khai thác) vật liệu
+-mỏ đá (lộ thiên)
+-mỏ đá lộ thiên
+-sự bóc đất đá
+-sự bóc đất đá (ở mỏ)
+-sự bóc thảm cỏ
+-sự tháo cốp-pha
+@Lĩnh vực: hóa học & vật liệu
+-sự bóc
+-sự cất phần nhẹ
+@Lĩnh vực: điện lạnh
+-sự tách thành dải
+-sự tẩy mạ
+-sự tước
+@Lĩnh vực: môi trường
+-sự tẩy rửa (xử lý nguyên liệu)
+@Lĩnh vực: cơ khí & công trình
+-sự tẩy sơn
+-sự tháo dỡ thỏi

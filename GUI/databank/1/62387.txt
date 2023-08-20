@@ -1,3 +1,29 @@
-ward
-	@ward /wɔ:d/\n*  danh từ\n- sự trông nom, sự bảo trợ; sự giam giữ\n=to whom is the child in ward?+ đứa bé được đặt dưới sự bảo trợ của ai?\n=to put someone in ward+ trông nom ai; giam giữ ai\n- khu, khu vực (thành phố)\n=electoral ward+ khu vực bầu cử\n- phòng, khu (nhà thương); phòng giam (nhà tù)\n=isolation ward+ khu cách ly\n- (số nhiều) khe răng chìa khoá\n- (từ cổ,nghĩa cổ) (thể dục,thể thao) thế đỡ\n!to keep watch and ward\n- canh giữ\n*  ngoại động từ\n- (từ cổ,nghĩa cổ) trông nom, bảo trợ\n!to ward off\n- tránh, đỡ, gạt (quả đấm)\n=to ward off a blow+ đỡ một đòn\n=to ward off a danger+ tránh một sự nguy hiểm\n- phòng, ngăn ngừa (tai nạn)\n@Chuyên ngành kỹ thuật\n-khu vực\n-ô phố\n-phòng\n-phường\n-sân\n@Lĩnh vực: xây dựng\n-buồng bệnh nhân (trong bệnh viện)\n-mảnh mã khóa (ở trong khóa)
-
+ward	@ward /wɔ:d/
+*  danh từ
+- sự trông nom, sự bảo trợ; sự giam giữ
+=to whom is the child in ward?+ đứa bé được đặt dưới sự bảo trợ của ai?
+=to put someone in ward+ trông nom ai; giam giữ ai
+- khu, khu vực (thành phố)
+=electoral ward+ khu vực bầu cử
+- phòng, khu (nhà thương); phòng giam (nhà tù)
+=isolation ward+ khu cách ly
+- (số nhiều) khe răng chìa khoá
+- (từ cổ,nghĩa cổ) (thể dục,thể thao) thế đỡ
+!to keep watch and ward
+- canh giữ
+*  ngoại động từ
+- (từ cổ,nghĩa cổ) trông nom, bảo trợ
+!to ward off
+- tránh, đỡ, gạt (quả đấm)
+=to ward off a blow+ đỡ một đòn
+=to ward off a danger+ tránh một sự nguy hiểm
+- phòng, ngăn ngừa (tai nạn)
+@Chuyên ngành kỹ thuật
+-khu vực
+-ô phố
+-phòng
+-phường
+-sân
+@Lĩnh vực: xây dựng
+-buồng bệnh nhân (trong bệnh viện)
+-mảnh mã khóa (ở trong khóa)

@@ -1,3 +1,16 @@
-transportable
-	@transportable /træns'pɔ:təbl/\n*  tính từ\n- có thể chuyên chở được, có thể vận chuyển được\n- (pháp lý) có thể bị kết tội đi đày, có thể đưa đến tội đi đày\n@Chuyên ngành kinh tế\n-có thể chuyên chở được\n-có thể chuyên chở được, có thể vận chuyển được\n-có thể vận chuyển được\n@Chuyên ngành kỹ thuật\n-mang được\n-xách tay\n@Lĩnh vực: điện lạnh\n-chuyển được\n@Lĩnh vực: toán & tin\n-mang chuyển được\n-xách tay được
-
+transportable	@transportable /træns'pɔ:təbl/
+*  tính từ
+- có thể chuyên chở được, có thể vận chuyển được
+- (pháp lý) có thể bị kết tội đi đày, có thể đưa đến tội đi đày
+@Chuyên ngành kinh tế
+-có thể chuyên chở được
+-có thể chuyên chở được, có thể vận chuyển được
+-có thể vận chuyển được
+@Chuyên ngành kỹ thuật
+-mang được
+-xách tay
+@Lĩnh vực: điện lạnh
+-chuyển được
+@Lĩnh vực: toán & tin
+-mang chuyển được
+-xách tay được

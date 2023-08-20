@@ -1,3 +1,5 @@
-deashing
-	@Chuyên ngành kỹ thuật\n-loại tro\n@Lĩnh vực: hóa học & vật liệu\n-khử tro
-
+deashing	
+@Chuyên ngành kỹ thuật
+-loại tro
+@Lĩnh vực: hóa học & vật liệu
+-khử tro

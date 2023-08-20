@@ -1,3 +1,5 @@
-fumes
-	@Chuyên ngành kỹ thuật\n-luồng khói\n@Lĩnh vực: ô tô\n-khí có mùi
-
+fumes	
+@Chuyên ngành kỹ thuật
+-luồng khói
+@Lĩnh vực: ô tô
+-khí có mùi

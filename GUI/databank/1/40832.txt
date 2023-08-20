@@ -1,3 +1,17 @@
-perspective
-	@perspective /pə'spektiv/\n*  danh từ\n- luật xa gần; phối cảnh\n- tranh vẽ luật xa gần; hình phối cảnh\n- cảnh trông xa; (nghĩa bóng) viễn cảnh, triển vọng; tương lai, tiến độ\n*  tính từ\n- theo luật xa gần; theo phối cảnh\n=perspective figuers+ hình phối cảnh\n- trông xa; (thuộc) viễn cảnh, về triển vọng, về tiến độ\n@Chuyên ngành kỹ thuật\n-hình phối cảnh\n-phép phối cảnh\n-phối cảnh\n-viễn cảnh\n@Lĩnh vực: toán & tin\n-cảnh\n-cảnh, phối cảnh
-
+perspective	@perspective /pə'spektiv/
+*  danh từ
+- luật xa gần; phối cảnh
+- tranh vẽ luật xa gần; hình phối cảnh
+- cảnh trông xa; (nghĩa bóng) viễn cảnh, triển vọng; tương lai, tiến độ
+*  tính từ
+- theo luật xa gần; theo phối cảnh
+=perspective figuers+ hình phối cảnh
+- trông xa; (thuộc) viễn cảnh, về triển vọng, về tiến độ
+@Chuyên ngành kỹ thuật
+-hình phối cảnh
+-phép phối cảnh
+-phối cảnh
+-viễn cảnh
+@Lĩnh vực: toán & tin
+-cảnh
+-cảnh, phối cảnh

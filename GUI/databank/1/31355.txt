@@ -1,3 +1,2 @@
-lain
-	@lain /lein/\n*  động tính từ quá khứ của lie
-
+lain	@lain /lein/
+*  động tính từ quá khứ của lie

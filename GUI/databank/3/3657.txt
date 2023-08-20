@@ -1,3 +1,2 @@
-assortative
-	@assortative\n- xem assort
-
+assortative	@assortative
+- xem assort

@@ -1,3 +1,3 @@
-trafficability
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tính hoạt động giao thông được
-
+trafficability	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tính hoạt động giao thông được

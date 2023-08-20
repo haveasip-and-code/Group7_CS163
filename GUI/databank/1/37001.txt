@@ -1,3 +1,2 @@
-nonunion
-	@Chuyên ngành kỹ thuật\n-không kết hợp
-
+nonunion	@Chuyên ngành kỹ thuật
+-không kết hợp

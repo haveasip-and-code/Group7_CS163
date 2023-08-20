@@ -1,3 +1,20 @@
-tend
-	@tend /tend/\n*  ngoại động từ\n- trông nom, săn sóc, chăm sóc, chăm nom, giữ gìn\n=to tend a patient+ chăm sóc người bệnh\n=to tend a garden+ chăm nom khu vườn\n=to tend a machine+ trông nom giữ gìn máy móc\n*  nội động từ\n- (+ on,  upon) theo, theo hầu, hầu hạ, phục vụ\n=to tend upon someone+ phục vụ ai\n- quay về, xoay về, hướng về, đi về\n- hướng tới, nhắm tới\n=all their efforts tend to the same object+ tất cả những cố gắng của chúng đều cùng nhằm tới một mục đích\n- có khuynh hướng\n@Chuyên ngành kỹ thuật\n-dẫn đến\n@Lĩnh vực: điện lạnh\n-hướng tới\n@Lĩnh vực: toán & tin\n-tiến đến\n-tiến đến, dẫn đến
-
+tend	@tend /tend/
+*  ngoại động từ
+- trông nom, săn sóc, chăm sóc, chăm nom, giữ gìn
+=to tend a patient+ chăm sóc người bệnh
+=to tend a garden+ chăm nom khu vườn
+=to tend a machine+ trông nom giữ gìn máy móc
+*  nội động từ
+- (+ on,  upon) theo, theo hầu, hầu hạ, phục vụ
+=to tend upon someone+ phục vụ ai
+- quay về, xoay về, hướng về, đi về
+- hướng tới, nhắm tới
+=all their efforts tend to the same object+ tất cả những cố gắng của chúng đều cùng nhằm tới một mục đích
+- có khuynh hướng
+@Chuyên ngành kỹ thuật
+-dẫn đến
+@Lĩnh vực: điện lạnh
+-hướng tới
+@Lĩnh vực: toán & tin
+-tiến đến
+-tiến đến, dẫn đến

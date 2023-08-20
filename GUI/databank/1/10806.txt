@@ -1,3 +1,14 @@
-computation
-	@computation /,kɔmpju:'teiʃn/\n*  danh từ\n- sự tính toán, sự ước tính\n=at the lowest computation+ theo sự ước tính thấp nhất\n@Chuyên ngành kinh tế\n-tính toán\n-ước lượng\n@Chuyên ngành kỹ thuật\n-phép tính\n-sự tính toán\n@Lĩnh vực: toán & tin\n-sự tính toán tính\n-thao tác điện toán
-
+computation	
+@computation /,kɔmpju:'teiʃn/
+*  danh từ
+- sự tính toán, sự ước tính=at the lowest computation
++ theo sự ước tính thấp nhất
+@Chuyên ngành kinh tế
+-tính toán
+-ước lượng
+@Chuyên ngành kỹ thuật
+-phép tính
+-sự tính toán
+@Lĩnh vực: toán & tin
+-sự tính toán tính
+-thao tác điện toán

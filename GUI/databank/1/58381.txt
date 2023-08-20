@@ -1,3 +1,4 @@
-typestyle
-	@Chuyên ngành kỹ thuật\n-dáng chữ\n-kiểu chữ\n-phông chữ
-
+typestyle	@Chuyên ngành kỹ thuật
+-dáng chữ
+-kiểu chữ
+-phông chữ

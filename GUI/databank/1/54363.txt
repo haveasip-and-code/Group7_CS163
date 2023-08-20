@@ -1,3 +1,5 @@
-suet
-	@suet /'sjuit/\n*  danh từ\n- mỡ rắn (ở thận bò, cừu...)\n@Chuyên ngành kinh tế\n-mỡ rán (bò, cừu) mỡ thận
-
+suet	@suet /'sjuit/
+*  danh từ
+- mỡ rắn (ở thận bò, cừu...)
+@Chuyên ngành kinh tế
+-mỡ rán (bò, cừu) mỡ thận

@@ -1,3 +1,5 @@
-combinatorics
-	@combinatorics\n- (Tech) tổ hợp học, số học tổ hợp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-toán học tổ hợp
-
+combinatorics	@combinatorics
+- (Tech) tổ hợp học, số học tổ hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-toán học tổ hợp

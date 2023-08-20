@@ -1,3 +1,20 @@
-triplicate
-	@triplicate /'triplikit/\n*  danh từ\n- bản sao ba (một trong ba bản sao)\n*  tính từ\n- ba lần\n- thành ba bản\n*  ngoại động từ\n- nhân ba, tăng lên ba lần\n- làm thành ba bản\n@Chuyên ngành kinh tế\n-bản (thứ) ba (bản sao thứ hai)\n-bản thứ ba\n-làm thành ba bản\n-soạn thảo, làm thành ba bản (văn kiện)\n-thành ba bản (như nhau)\n-thành ba bản như nhau\n@Chuyên ngành kỹ thuật\n-bộ ba\n@Lĩnh vực: toán & tin\n-tăng gấp ba
-
+triplicate	@triplicate /'triplikit/
+*  danh từ
+- bản sao ba (một trong ba bản sao)
+*  tính từ
+- ba lần
+- thành ba bản
+*  ngoại động từ
+- nhân ba, tăng lên ba lần
+- làm thành ba bản
+@Chuyên ngành kinh tế
+-bản (thứ) ba (bản sao thứ hai)
+-bản thứ ba
+-làm thành ba bản
+-soạn thảo, làm thành ba bản (văn kiện)
+-thành ba bản (như nhau)
+-thành ba bản như nhau
+@Chuyên ngành kỹ thuật
+-bộ ba
+@Lĩnh vực: toán & tin
+-tăng gấp ba

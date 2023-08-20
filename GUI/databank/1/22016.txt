@@ -1,3 +1,4 @@
-formalized
-	@Chuyên ngành kỹ thuật\n-cách điệu\n-cách thể hóa
-
+formalized	
+@Chuyên ngành kỹ thuật
+-cách điệu
+-cách thể hóa

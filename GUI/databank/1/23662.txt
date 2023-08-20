@@ -1,3 +1,5 @@
-glossing
-	@Chuyên ngành kỹ thuật\n-lớp bóng\n-lớp láng\n-lớp men
-
+glossing	
+@Chuyên ngành kỹ thuật
+-lớp bóng
+-lớp láng
+-lớp men

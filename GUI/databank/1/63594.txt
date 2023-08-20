@@ -1,3 +1,14 @@
-zip
-	@zip /zip/\n*  danh từ\n- tiếng rít (của đạn bay); tiếng xé vải\n- (nghĩa bóng) sức sống, nghị lực\n*  nội động từ\n- rít, vèo (như đạn bay)\n=to zip past+ chạy vụt qua (xe); vèo qua, rít qua (đạn)\n@Chuyên ngành kỹ thuật\n-vùng\n@Lĩnh vực: dệt may\n-đóng khóa kéo\n-đóng phecmơtuya\n-mở khóa kéo\n-mở phecmơtuya
-
+zip	@zip /zip/
+*  danh từ
+- tiếng rít (của đạn bay); tiếng xé vải
+- (nghĩa bóng) sức sống, nghị lực
+*  nội động từ
+- rít, vèo (như đạn bay)
+=to zip past+ chạy vụt qua (xe); vèo qua, rít qua (đạn)
+@Chuyên ngành kỹ thuật
+-vùng
+@Lĩnh vực: dệt may
+-đóng khóa kéo
+-đóng phecmơtuya
+-mở khóa kéo
+-mở phecmơtuya

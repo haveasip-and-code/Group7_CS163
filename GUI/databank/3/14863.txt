@@ -1,3 +1,2 @@
-destructivity
-	@destructivity\n- xem destructive
-
+destructivity	@destructivity
+- xem destructive

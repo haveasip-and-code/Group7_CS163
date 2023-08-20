@@ -1,3 +1,5 @@
-unpretty
-	@unpretty\n* tính từ\n- đáng chê trách\n- không thú vị, không đẹp mắt\n- không xinh, không đẹp
-
+unpretty	@unpretty
+* tính từ
+- đáng chê trách
+- không thú vị, không đẹp mắt
+- không xinh, không đẹp

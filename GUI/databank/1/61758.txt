@@ -1,3 +1,15 @@
-video
-	@video /'vidiou/\n*  tính từ\n- (từ Mỹ,nghĩa Mỹ) (thuộc) truyền hình; dùng trong truyền hình\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) truyền hình\n@Chuyên ngành kỹ thuật\n-ảnh động\n-hiển thị\n-hình\n-hình ảnh\n-khung hình\n@Lĩnh vực: điện tử & viễn thông\n-video\n@Lĩnh vực: toán & tin\n-video, hình ảnh
-
+video	@video /'vidiou/
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ) (thuộc) truyền hình; dùng trong truyền hình
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) truyền hình
+@Chuyên ngành kỹ thuật
+-ảnh động
+-hiển thị
+-hình
+-hình ảnh
+-khung hình
+@Lĩnh vực: điện tử & viễn thông
+-video
+@Lĩnh vực: toán & tin
+-video, hình ảnh

@@ -1,3 +1,2 @@
-debatement
-	@debatement\n- xem debate
-
+debatement	@debatement
+- xem debate

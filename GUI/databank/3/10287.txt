@@ -1,3 +1,23 @@
-collet
-	@collet /'kɔlit/\n*  danh từ\n- vòng; vành; đai\n- mặt nhẫn (để khảm ngọc vào)\n- (kỹ thuật) ống kẹp\n@Chuyên ngành kỹ thuật\n-đai\n-lỗ cắm chuôi\n-ống kẹp\n-ống kẹp dẫn tiến\n-ống lồng\n-ống xẻ\n-phễu nạp liệu\n-vành\n-vành tỳ\n-vòng\n-vòng kẹp\n@Lĩnh vực: cơ khí & công trình\n-bạc côn\n-bạc côn xẻ\n-ống lót xẻ\n@Lĩnh vực: hóa học & vật liệu\n-ống nẹp
-
+collet	@collet /'kɔlit/
+*  danh từ
+- vòng; vành; đai
+- mặt nhẫn (để khảm ngọc vào)
+- (kỹ thuật) ống kẹp
+@Chuyên ngành kỹ thuật
+-đai
+-lỗ cắm chuôi
+-ống kẹp
+-ống kẹp dẫn tiến
+-ống lồng
+-ống xẻ
+-phễu nạp liệu
+-vành
+-vành tỳ
+-vòng
+-vòng kẹp
+@Lĩnh vực: cơ khí & công trình
+-bạc côn
+-bạc côn xẻ
+-ống lót xẻ
+@Lĩnh vực: hóa học & vật liệu
+-ống nẹp

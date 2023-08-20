@@ -1,3 +1,4 @@
-subcool
-	@Chuyên ngành kỹ thuật\n-làm quá lạnh\n@Lĩnh vực: vật lý\n-làm quá lạnh (chất lỏng)
-
+subcool	@Chuyên ngành kỹ thuật
+-làm quá lạnh
+@Lĩnh vực: vật lý
+-làm quá lạnh (chất lỏng)

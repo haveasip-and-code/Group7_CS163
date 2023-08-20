@@ -1,3 +1,5 @@
-heroes
-	@heroes /'hiərou/\n*  danh từ,  số nhiều heroes\n- người anh hùng\n- nhân vật nam chính (trong một tác phẩm văn học)
-
+heroes	
+@heroes /'hiərou/
+*  danh từ,  số nhiều heroes
+- người anh hùng
+- nhân vật nam chính (trong một tác phẩm văn học)

@@ -1,3 +1,6 @@
-uroscopy
-	@uroscopy\n* danh từ\n- phép xét nghiệm nước tiểu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự xét nghiệm nước tìểu
-
+uroscopy	@uroscopy
+* danh từ
+- phép xét nghiệm nước tiểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự xét nghiệm nước tìểu

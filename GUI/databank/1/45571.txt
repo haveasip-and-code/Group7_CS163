@@ -1,3 +1,27 @@
-rap
-	@rap /ræp/\n*  danh từ\n- cuộn (len, sợi...) 120 iat\n- một tí, mảy may\n=I don't care a rap+ (thông tục) tớ cóc cần một tí nào\n=it's not worth a rap+ không đáng một xu, không có giá trị gì\n- (sử học) đồng xu Ai-len ((thế kỷ) 18)\n*  danh từ\n- cú đánh nhẹ, cái gõ, cái cốp (vào đầu...)\n=to give someone a rap on the knuckles+ đánh vào đốt ngón tay ai; (nghĩa bóng) mắng mỏ ai, trách phạt ai\n- tiếng gõ (cửa)\n=a rap at (on) the door+ tiếng gõ cửa\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự buộc tội, sự kết tội\n*  ngoại động từ\n- đánh nhẹ, gõ, cốp\n- (+ out) thốt ra một cách thô lỗ cộc cằn; văng (tục...)\n=to rap out a reply+ đáp lại một cách cộc cằn\n=to rap out an oath+ văng ra một lời rủa\n*  nội động từ\n- gõ\n=to rap at the door+ gõ cửa\n@Chuyên ngành kỹ thuật\n-gỡ mẫu\n-gõ nhẹ\n-gỡ vật đúc (phơi khuôn đúc)\n-sự gõ\n-sự lắc
-
+rap	@rap /ræp/
+*  danh từ
+- cuộn (len, sợi...) 120 iat
+- một tí, mảy may
+=I don't care a rap+ (thông tục) tớ cóc cần một tí nào
+=it's not worth a rap+ không đáng một xu, không có giá trị gì
+- (sử học) đồng xu Ai-len ((thế kỷ) 18)
+*  danh từ
+- cú đánh nhẹ, cái gõ, cái cốp (vào đầu...)
+=to give someone a rap on the knuckles+ đánh vào đốt ngón tay ai; (nghĩa bóng) mắng mỏ ai, trách phạt ai
+- tiếng gõ (cửa)
+=a rap at (on) the door+ tiếng gõ cửa
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự buộc tội, sự kết tội
+*  ngoại động từ
+- đánh nhẹ, gõ, cốp
+- (+ out) thốt ra một cách thô lỗ cộc cằn; văng (tục...)
+=to rap out a reply+ đáp lại một cách cộc cằn
+=to rap out an oath+ văng ra một lời rủa
+*  nội động từ
+- gõ
+=to rap at the door+ gõ cửa
+@Chuyên ngành kỹ thuật
+-gỡ mẫu
+-gõ nhẹ
+-gỡ vật đúc (phơi khuôn đúc)
+-sự gõ
+-sự lắc

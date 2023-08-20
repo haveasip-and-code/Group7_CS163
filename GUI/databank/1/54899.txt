@@ -1,3 +1,17 @@
-suspended
-	@suspended\n* tính từ\n- lơ lửng; huyền phù\n= suspended sentence+án tù treo; án treo\n@Chuyên ngành kinh tế\n-huyền phù\n-lơ lửng\n-treo lơ lửng\n-vân\n@Chuyên ngành kỹ thuật\n-bị treo\n-lơ lửng\n-nổi\n@Lĩnh vực: toán & tin\n-bị hoãn lại\n@Lĩnh vực: xây dựng\n-kiểu treo
-
+suspended	@suspended
+* tính từ
+- lơ lửng; huyền phù
+= suspended sentence+án tù treo; án treo
+@Chuyên ngành kinh tế
+-huyền phù
+-lơ lửng
+-treo lơ lửng
+-vân
+@Chuyên ngành kỹ thuật
+-bị treo
+-lơ lửng
+-nổi
+@Lĩnh vực: toán & tin
+-bị hoãn lại
+@Lĩnh vực: xây dựng
+-kiểu treo

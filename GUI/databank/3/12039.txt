@@ -1,3 +1,2 @@
-corrigibility
-	@corrigibility\n- xem corrigible
-
+corrigibility	@corrigibility
+- xem corrigible

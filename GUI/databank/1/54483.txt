@@ -1,3 +1,2 @@
-summations
-	@Chuyên ngành kỹ thuật\n-tổng
-
+summations	@Chuyên ngành kỹ thuật
+-tổng

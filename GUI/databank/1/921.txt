@@ -1,3 +1,9 @@
-advent
-	@advent /'ædvənt/\n*  danh từ\n- sự đến, sự tới (của một sự việc gì quan trọng)\n- Advent (tôn giáo) sự giáng sinh của Chúa Giêxu\n- Advent (tôn giáo) kỳ trông đợi (bốn tuần lễ trước ngày giáng sinh của Chúa)\n@Chuyên ngành kỹ thuật\n-đến\n-tới
-
+advent	
+@advent /'ædvənt/
+*  danh từ
+- sự đến, sự tới (của một sự việc gì quan trọng)
+- Advent (tôn giáo) sự giáng sinh của Chúa Giêxu
+- Advent (tôn giáo) kỳ trông đợi (bốn tuần lễ trước ngày giáng sinh của Chúa)
+@Chuyên ngành kỹ thuật
+-đến
+-tới

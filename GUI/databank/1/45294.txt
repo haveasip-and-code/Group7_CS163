@@ -1,3 +1,6 @@
-rabbler
-	@rabbler\n* danh từ\n- cái cào, cái nạo\n@Chuyên ngành kỹ thuật\n-cái cào\n-cái nạo
-
+rabbler	@rabbler
+* danh từ
+- cái cào, cái nạo
+@Chuyên ngành kỹ thuật
+-cái cào
+-cái nạo

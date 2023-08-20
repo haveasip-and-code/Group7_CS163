@@ -1,3 +1,15 @@
-betray
-	@betray /bi'trei/\n*  ngoại động từ\n- bội phản đem nộp cho, bội phản đem giao cho\n=to be betrayed to the enemy+ bị bội phản đem nộp cho địch\n- phản bội; phụ bạc\n=to betray one's country+ phản bội đất nước\n- tiết lộ, để lộ ra\n=to betray a secret+ lộ bí mật\n=to betray one's ignorance+ lòi dốt ra\n=to betray oneself+ để lộ chân tướng\n- lừa dối; phụ (lòng tin)\n- dẫn vào (con đường lầm lạc, đến chỗ nguy hiểm...)\n=to betray someone into errors+ dẫn ai đến chỗ sai lầm\n@Chuyên ngành kỹ thuật\n-phản bội
-
+betray	@betray /bi'trei/
+*  ngoại động từ
+- bội phản đem nộp cho, bội phản đem giao cho
+=to be betrayed to the enemy+ bị bội phản đem nộp cho địch
+- phản bội; phụ bạc
+=to betray one's country+ phản bội đất nước
+- tiết lộ, để lộ ra
+=to betray a secret+ lộ bí mật
+=to betray one's ignorance+ lòi dốt ra
+=to betray oneself+ để lộ chân tướng
+- lừa dối; phụ (lòng tin)
+- dẫn vào (con đường lầm lạc, đến chỗ nguy hiểm...)
+=to betray someone into errors+ dẫn ai đến chỗ sai lầm
+@Chuyên ngành kỹ thuật
+-phản bội

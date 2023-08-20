@@ -1,3 +1,10 @@
-fleshy
-	@fleshy /fleshy/\n*  tính từ\n- béo; có nhiều thịt, nạc\n- như thịt\n- nhiều thịt, nhiều cùi\n@Chuyên ngành kinh tế\n-có phần nạc\n-có thịt\n-nạc
-
+fleshy	
+@fleshy /fleshy/
+*  tính từ
+- béo; có nhiều thịt, nạc
+- như thịt
+- nhiều thịt, nhiều cùi
+@Chuyên ngành kinh tế
+-có phần nạc
+-có thịt
+-nạc

@@ -1,3 +1,21 @@
-waterproof
-	@waterproof /'wɔ:təpru:f/\n*  tính từ\n- không thấm nước\n*  danh từ\n- áo mưa\n- vải không thấm nước\n*  ngoại động từ\n- làm cho không thấm nước\n@Chuyên ngành kinh tế\n-chống nước\n-chống thấm\n-chống thấm nước\n-không vô nước\n@Chuyên ngành kỹ thuật\n-không thấm nước\n-kín nước\n-làm không thấm nước\n@Lĩnh vực: xây dựng\n-chống thấm cách nước\n-không ngấm nước\n-mực không thấm
-
+waterproof	@waterproof /'wɔ:təpru:f/
+*  tính từ
+- không thấm nước
+*  danh từ
+- áo mưa
+- vải không thấm nước
+*  ngoại động từ
+- làm cho không thấm nước
+@Chuyên ngành kinh tế
+-chống nước
+-chống thấm
+-chống thấm nước
+-không vô nước
+@Chuyên ngành kỹ thuật
+-không thấm nước
+-kín nước
+-làm không thấm nước
+@Lĩnh vực: xây dựng
+-chống thấm cách nước
+-không ngấm nước
+-mực không thấm

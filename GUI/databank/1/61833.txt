@@ -1,3 +1,5 @@
-vinasse
-	@Chuyên ngành kinh tế\n-bã rượu\n-cặn\n@Chuyên ngành kỹ thuật\n-bã rượu
-
+vinasse	@Chuyên ngành kinh tế
+-bã rượu
+-cặn
+@Chuyên ngành kỹ thuật
+-bã rượu

@@ -1,3 +1,14 @@
-verse
-	@verse /və:s/\n*  danh từ\n- câu thơ\n- thơ; bài thơ\n=written in verse+ viết thành thơ\n=free verse+ thơ tự do\n- đoạn thơ\n- (tôn giáo) tiết (trong kinh thánh); câu xướng (trong lúc hành lễ)\n!to give chapter and verse\n- (xem) chapter\n*  nội động từ\n- làm thơ\n*  ngoại động từ\n- diễn tả bằng thơ
-
+verse	@verse /və:s/
+*  danh từ
+- câu thơ
+- thơ; bài thơ
+=written in verse+ viết thành thơ
+=free verse+ thơ tự do
+- đoạn thơ
+- (tôn giáo) tiết (trong kinh thánh); câu xướng (trong lúc hành lễ)
+!to give chapter and verse
+- (xem) chapter
+*  nội động từ
+- làm thơ
+*  ngoại động từ
+- diễn tả bằng thơ

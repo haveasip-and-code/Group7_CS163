@@ -1,3 +1,2 @@
-newsie
-	@newsie\n- xem newsy
-
+newsie	@newsie
+- xem newsy

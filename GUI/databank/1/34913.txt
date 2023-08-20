@@ -1,3 +1,4 @@
-milliroentgen
-	@Chuyên ngành kỹ thuật\n-mr\n@Lĩnh vực: điện lạnh\n-milirơngen
-
+milliroentgen	@Chuyên ngành kỹ thuật
+-mr
+@Lĩnh vực: điện lạnh
+-milirơngen

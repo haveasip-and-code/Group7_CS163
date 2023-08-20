@@ -1,3 +1,5 @@
-decimalization
-	@decimalization\n* danh từ\n- sự đổi sang số thập phân, sự đổi sang hệ thập phân\n@Chuyên ngành kinh tế\n-sự áp dụng hệ thống thập phân
-
+decimalization	@decimalization
+* danh từ
+- sự đổi sang số thập phân, sự đổi sang hệ thập phân
+@Chuyên ngành kinh tế
+-sự áp dụng hệ thống thập phân

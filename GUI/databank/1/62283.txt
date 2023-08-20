@@ -1,3 +1,2 @@
-wages
-	@Chuyên ngành kỹ thuật\n-quỹ tiền lương
-
+wages	@Chuyên ngành kỹ thuật
+-quỹ tiền lương

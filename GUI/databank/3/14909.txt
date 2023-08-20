@@ -1,3 +1,2 @@
-determinably
-	@determinably\n- xem determinable
-
+determinably	@determinably
+- xem determinable

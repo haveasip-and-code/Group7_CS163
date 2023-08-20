@@ -1,3 +1,28 @@
-indication
-	@indication /,indi'keiʃn/\n*  danh từ\n- sự chỉ; số chỉ\n- sự biểu thị, sự biểu lộ; dấu hiệu\n=to give clear indication of one's intention+ biểu lộ rõ ràng ý định của mình\n- (y học) sự chỉ dẫn (về cách dùng thuốc)\n@Chuyên ngành kinh tế\n-chất chỉ thị\n-chỉ số\n-dấu hiệu\n-máy chỉ thị\n-sự báo hiệu\n-sự biểu thị\n@Chuyên ngành kỹ thuật\n-dấu hiệu\n-sự chỉ\n-sự chỉ dẫn\n@Lĩnh vực: y học\n-chỉ định (trong y học)\n@Lĩnh vực: xây dựng\n-đèn hiệu chỉ dẫn\n-mốc chỉ dẫn\n@Lĩnh vực: toán & tin\n-sự chỉ ra\n@Lĩnh vực: điện\n-sự chỉ thị\n-sự kí hiệu
-
+indication	
+@indication /,indi'keiʃn/
+*  danh từ
+- sự chỉ; số chỉ
+- sự biểu thị, sự biểu lộ; dấu hiệu=to give clear indication of one's intention
++ biểu lộ rõ ràng ý định của mình
+- (y học) sự chỉ dẫn (về cách dùng thuốc)
+@Chuyên ngành kinh tế
+-chất chỉ thị
+-chỉ số
+-dấu hiệu
+-máy chỉ thị
+-sự báo hiệu
+-sự biểu thị
+@Chuyên ngành kỹ thuật
+-dấu hiệu
+-sự chỉ
+-sự chỉ dẫn
+@Lĩnh vực: y học
+-chỉ định (trong y học)
+@Lĩnh vực: xây dựng
+-đèn hiệu chỉ dẫn
+-mốc chỉ dẫn
+@Lĩnh vực: toán & tin
+-sự chỉ ra
+@Lĩnh vực: điện
+-sự chỉ thị
+-sự kí hiệu

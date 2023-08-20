@@ -1,3 +1,10 @@
-flocculator
-	@flocculator\n* danh từ\n- chất kết bông\n@Chuyên ngành kỹ thuật\n-đông tụ\n-keo tụ\n@Chuyên ngành kỹ thuật\n-đông tụ\n-keo tụ
-
+flocculator	
+@flocculator
+* danh từ
+- chất kết bông
+@Chuyên ngành kỹ thuật
+-đông tụ
+-keo tụ
+@Chuyên ngành kỹ thuật
+-đông tụ
+-keo tụ

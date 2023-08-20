@@ -1,3 +1,22 @@
-stockpile
-	@stockpile /'stɔkpail/\n*  danh từ\n- kho dữ trữ\n*  ngoại động từ\n- dự trữ\n@Chuyên ngành kinh tế\n-dự trữ\n-kho dự trữ\n-tích trữ (hàng)\n-tích trữ (hàng...)\n-tồn trữ dự phòng, dự trữ\n@Chuyên ngành kỹ thuật\n-bãi thải\n-đánh đống\n-dự trữ\n-kho dự trữ\n-nón đá thải\n-xếp chồng\n-xếp đống\n@Lĩnh vực: xây dựng\n-bãi để vật liệu\n-trữ lượng tài nguyên
-
+stockpile	@stockpile /'stɔkpail/
+*  danh từ
+- kho dữ trữ
+*  ngoại động từ
+- dự trữ
+@Chuyên ngành kinh tế
+-dự trữ
+-kho dự trữ
+-tích trữ (hàng)
+-tích trữ (hàng...)
+-tồn trữ dự phòng, dự trữ
+@Chuyên ngành kỹ thuật
+-bãi thải
+-đánh đống
+-dự trữ
+-kho dự trữ
+-nón đá thải
+-xếp chồng
+-xếp đống
+@Lĩnh vực: xây dựng
+-bãi để vật liệu
+-trữ lượng tài nguyên

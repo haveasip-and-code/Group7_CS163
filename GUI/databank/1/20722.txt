@@ -1,3 +1,46 @@
-fence
-	@fence /fens/\n*  danh từ\n- hàng rào\n=a green fence+ hàng rào cây xanh\n=a wire fence+ hàng rào dây thép\n- thuật đánh kiếm; (nghĩa bóng) tài tranh luận\n=master of fence+ kiện tướng đánh kiếm; (nghĩa bóng) người tranh luận giỏi\n- lá chắn\n- nơi oa trữ của ăn cắp; người oa trữ của ăn cắp\n- (từ cổ,nghĩa cổ) bức tường thành\n!to come down on right side of fence\n- vào hùa với người thắng cuộc\n!to sit on the fence\n- trung lập, chẳng đứng về bên nào\n*  nội động từ\n- nhảy rào, vượt rào (ngựa)\n- đánh kiếm, đấu kiếm\n- lảng tránh, đánh trống lảng\n=to fence with a questions+ lảng tránh một câu hỏi\n- buôn bán của ăn cắp\n*  ngoại động từ\n- ((thường) + in,  about,  round,  up) rào lại\n- đắp luỹ (cho kiên cố)\n- ((thường) + from,  against) che chở, bảo vệ\n- ((thường) + off,  out) đánh lui, đẩy lui, đẩy xa, ngăn chặn, tránh được, gạt được\n=to fence off the consequences of a foolish act+ ngăn chặn được những hậu quả của một hành động điên rồ\n@Chuyên ngành kỹ thuật\n-bãi rào\n-bờ rào\n-hàng rào\n-lá chắn\n-lan can\n-ngăn bằng rào\n-rào chắn\n-tường chắn\n@Chuyên ngành kỹ thuật\n-bãi rào\n-bờ rào\n-hàng rào\n-lá chắn\n-lan can\n-ngăn bằng rào\n-rào chắn\n-tường chắn
-
+fence	
+@fence /fens/
+*  danh từ
+- hàng rào=a green fence
++ hàng rào cây xanh=a wire fence
++ hàng rào dây thép
+- thuật đánh kiếm; (nghĩa bóng) tài tranh luận=master of fence
++ kiện tướng đánh kiếm; (nghĩa bóng) người tranh luận giỏi
+- lá chắn
+- nơi oa trữ của ăn cắp; người oa trữ của ăn cắp
+- (từ cổ,nghĩa cổ) bức tường thành!to come down on right side of fence
+- vào hùa với người thắng cuộc!to sit on the fence
+- trung lập, chẳng đứng về bên nào
+*  nội động từ
+- nhảy rào, vượt rào (ngựa)
+- đánh kiếm, đấu kiếm
+- lảng tránh, đánh trống lảng=to fence with a questions
++ lảng tránh một câu hỏi
+- buôn bán của ăn cắp
+*  ngoại động từ
+- ((thường) 
++ in,  about,  round,  up) rào lại
+- đắp luỹ (cho kiên cố)
+- ((thường) 
++ from,  against) che chở, bảo vệ
+- ((thường) 
++ off,  out) đánh lui, đẩy lui, đẩy xa, ngăn chặn, tránh được, gạt được=to fence off the consequences of a foolish act
++ ngăn chặn được những hậu quả của một hành động điên rồ
+@Chuyên ngành kỹ thuật
+-bãi rào
+-bờ rào
+-hàng rào
+-lá chắn
+-lan can
+-ngăn bằng rào
+-rào chắn
+-tường chắn
+@Chuyên ngành kỹ thuật
+-bãi rào
+-bờ rào
+-hàng rào
+-lá chắn
+-lan can
+-ngăn bằng rào
+-rào chắn
+-tường chắn

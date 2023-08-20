@@ -1,3 +1,24 @@
-superstructure
-	@superstructure /'sju:pə,strʌktʃə/ (superstruction) /'sju:pə,strʌkʃn/\n*  danh từ\n- phần ở trên, tầng ở trên\n- kiến trúc thượng tầng\n@Chuyên ngành kinh tế\n-công trình trên mặt (đường sắt)\n-kiến trúc thượng tầng (của một xã hội)\n-phần kiến trúc ở trên\n-tầng trên\n@Chuyên ngành kỹ thuật\n-phần ở trên\n-tầng trên\n@Lĩnh vực: hóa học & vật liệu\n-cấu trúc trên\n@Lĩnh vực: xây dựng\n-kết cấu bên trên\n-kết cấu bên trên (của một máy trục có cần cẩu)\n-kết cấu phần trên\n-kết cấu thượng tầng\n-phần ở trên (của một tòa nhà)\n@Lĩnh vực: điện lạnh\n-siêu cấu trúc\n@Lĩnh vực: giao thông & vận tải\n-thượng tầng
-
+superstructure	@superstructure /'sju:pə,strʌktʃə/ (superstruction) /'sju:pə,strʌkʃn/
+*  danh từ
+- phần ở trên, tầng ở trên
+- kiến trúc thượng tầng
+@Chuyên ngành kinh tế
+-công trình trên mặt (đường sắt)
+-kiến trúc thượng tầng (của một xã hội)
+-phần kiến trúc ở trên
+-tầng trên
+@Chuyên ngành kỹ thuật
+-phần ở trên
+-tầng trên
+@Lĩnh vực: hóa học & vật liệu
+-cấu trúc trên
+@Lĩnh vực: xây dựng
+-kết cấu bên trên
+-kết cấu bên trên (của một máy trục có cần cẩu)
+-kết cấu phần trên
+-kết cấu thượng tầng
+-phần ở trên (của một tòa nhà)
+@Lĩnh vực: điện lạnh
+-siêu cấu trúc
+@Lĩnh vực: giao thông & vận tải
+-thượng tầng

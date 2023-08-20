@@ -1,3 +1,8 @@
-solvation
-	@solvation\n* danh từ\n- sự sonvát hoa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự solvat hóa\n@Lĩnh vực: hóa học & vật liệu\n-sự sonvat hóa
-
+solvation	@solvation
+* danh từ
+- sự sonvát hoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự solvat hóa
+@Lĩnh vực: hóa học & vật liệu
+-sự sonvat hóa

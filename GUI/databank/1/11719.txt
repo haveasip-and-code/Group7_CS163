@@ -1,3 +1,27 @@
-convert
-	@convert /kən'və:t/\n*  danh từ\n- người cải đạo, người thay đổi tín ngưỡng; người theo đạo (nguyện không theo đạo nào)\n- người thay đổi chính kiến\n*  ngoại động từ\n- làm đổi tôn giáo, làm đổi đảng phái\n=to convert someone to Christianity+ làm cho ai (đổi tôn giáo) theo đạo Cơ đốc\n- đổi, biến đổi\n=to convert iton into steel+ biến sắt ra thép\n- (từ Mỹ,nghĩa Mỹ) biển thủ, thụt (két), tham ô\n=to convert funds to one's own use+ biển thủ tiền quỹ, thụt két\n!to convert timber\n- xẻ gỗ (còn vỏ)\n@Chuyên ngành kinh tế\n-biến đổi\n-chuyển đổi\n-đổi\n@Chuyên ngành kỹ thuật\n-biến đổi\n-chuyển\n-dịch\n@Lĩnh vực: toán & tin\n-con-vớt\n-làm nghịch đảo\n@Lĩnh vực: cơ khí & công trình\n-qui đổi
-
+convert	
+@convert /kən'və:t/
+*  danh từ
+- người cải đạo, người thay đổi tín ngưỡng; người theo đạo (nguyện không theo đạo nào)
+- người thay đổi chính kiến
+*  ngoại động từ
+- làm đổi tôn giáo, làm đổi đảng phái=to convert someone to Christianity
++ làm cho ai (đổi tôn giáo) theo đạo Cơ đốc
+- đổi, biến đổi=to convert iton into steel
++ biến sắt ra thép
+- (từ Mỹ,nghĩa Mỹ) biển thủ, thụt (két), tham ô=to convert funds to one's own use
++ biển thủ tiền quỹ, thụt két!to convert timber
+- xẻ gỗ (còn vỏ)
+@Chuyên ngành kinh tế
+-biến đổi
+-chuyển đổi
+-đổi
+@Chuyên ngành kỹ thuật
+-biến đổi
+-chuyển
+-dịch
+@Lĩnh vực: toán & tin
+-con
+-vớt
+-làm nghịch đảo
+@Lĩnh vực: cơ khí & công trình
+-qui đổi

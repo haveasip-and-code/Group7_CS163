@@ -1,3 +1,6 @@
-percentile
-	@percentile\n* danh từ(centile)+một trong những nhóm đó\n@Chuyên ngành kinh tế\n-số phần trăm (thống kê)\n@Chuyên ngành kỹ thuật\n-phân vị
-
+percentile	@percentile
+* danh từ(centile)+một trong những nhóm đó
+@Chuyên ngành kinh tế
+-số phần trăm (thống kê)
+@Chuyên ngành kỹ thuật
+-phân vị

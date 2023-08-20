@@ -1,3 +1,36 @@
-title
-	@title /'taitl/\n*  danh từ\n- tên (sách); nhan đề\n- tước; danh hiệu\n=the title of Duke+ tước công\n- tư cách, danh nghĩa\n=to have a title to a place among great poets+ có đủ tư cách đứng trong hàng ngũ những nhà thơ lớn\n- tuổi (của một hợp kim vàng...), chuẩn độ\n- (pháp lý) quyền sở hữu; chứng thư, văn tự\n@Chuyên ngành kinh tế\n-chứng thư\n-chứng thư (sở hữu)\n-danh xưng\n-đề mục (sách...)\n-giấy chứng quyền sở hữu\n-nhan đề\n-pháp quyền\n-quyền lợi\n-quyền sở hữu\n-tên\n-tiêu đề\n-tư cách\n-tước hiệu\n-văn tự (sở hữu)\n-xưng hiệu\n@Lĩnh vực: ttck\n-quyền được đòi hỏi, quyền sở hữu\n@Chuyên ngành kỹ thuật\n-chứng thư\n-đề mục\n-dòng đầu (trang)\n-khung tên\n-nhan đề\n@Lĩnh vực: xây dựng\n-bằng khoán\n-tựa đề
-
+title	@title /'taitl/
+*  danh từ
+- tên (sách); nhan đề
+- tước; danh hiệu
+=the title of Duke+ tước công
+- tư cách, danh nghĩa
+=to have a title to a place among great poets+ có đủ tư cách đứng trong hàng ngũ những nhà thơ lớn
+- tuổi (của một hợp kim vàng...), chuẩn độ
+- (pháp lý) quyền sở hữu; chứng thư, văn tự
+@Chuyên ngành kinh tế
+-chứng thư
+-chứng thư (sở hữu)
+-danh xưng
+-đề mục (sách...)
+-giấy chứng quyền sở hữu
+-nhan đề
+-pháp quyền
+-quyền lợi
+-quyền sở hữu
+-tên
+-tiêu đề
+-tư cách
+-tước hiệu
+-văn tự (sở hữu)
+-xưng hiệu
+@Lĩnh vực: ttck
+-quyền được đòi hỏi, quyền sở hữu
+@Chuyên ngành kỹ thuật
+-chứng thư
+-đề mục
+-dòng đầu (trang)
+-khung tên
+-nhan đề
+@Lĩnh vực: xây dựng
+-bằng khoán
+-tựa đề

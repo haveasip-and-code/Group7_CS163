@@ -1,3 +1,6 @@
-electrotype
-	@electrotype /i'lektroutaip/\n*  danh từ\n- hình in mạ\n*  ngoại động từ\n- in mạ
-
+electrotype	
+@electrotype /i'lektroutaip/
+*  danh từ
+- hình in mạ
+*  ngoại động từ
+- in mạ

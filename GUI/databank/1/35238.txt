@@ -1,3 +1,4 @@
-mistune
-	@mistune\n* ngoại động từ\n- hát/chơi nhạc sai giọng\n- (nhạc cụ) lam mất điều hưởng
-
+mistune	@mistune
+* ngoại động từ
+- hát/chơi nhạc sai giọng
+- (nhạc cụ) lam mất điều hưởng

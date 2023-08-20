@@ -1,3 +1,5 @@
-penumbral
-	@penumbral\n- xem penumbra\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-thuộc vùng nửa tối
-
+penumbral	@penumbral
+- xem penumbra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-thuộc vùng nửa tối

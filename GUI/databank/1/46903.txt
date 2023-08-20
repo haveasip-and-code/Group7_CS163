@@ -1,3 +1,11 @@
-repossession
-	@repossession\n* danh từ\n- sự chiếm hữu lại, sự lấy lại (một căn nhà )\n- sự cho chiếm hữu lại\n@Chuyên ngành kinh tế\n-chiếm hữu lại\n-lấy lại\n-sự chiếm hữu lại\n-sự lấy lại\n-sự thu hồi\n-thu hồi
-
+repossession	@repossession
+* danh từ
+- sự chiếm hữu lại, sự lấy lại (một căn nhà )
+- sự cho chiếm hữu lại
+@Chuyên ngành kinh tế
+-chiếm hữu lại
+-lấy lại
+-sự chiếm hữu lại
+-sự lấy lại
+-sự thu hồi
+-thu hồi

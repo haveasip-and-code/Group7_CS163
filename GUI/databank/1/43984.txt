@@ -1,3 +1,4 @@
-prolusion
-	@prolusion /prolusion/\n*  danh từ\n- bài viết mở đầu\n- ý định sơ bộ
-
+prolusion	@prolusion /prolusion/
+*  danh từ
+- bài viết mở đầu
+- ý định sơ bộ

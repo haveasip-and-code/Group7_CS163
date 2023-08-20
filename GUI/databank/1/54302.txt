@@ -1,3 +1,26 @@
-subway
-	@subway /'sʌbwei/\n*  danh từ\n- đường ngầm, hầm ngầm\n- (từ Mỹ,nghĩa Mỹ) đường xe lửa ngầm; đường xe điện ngầm\n*  nội động từ\n- (từ Mỹ,nghĩa Mỹ) đi bằng xe lửa ngầm; đi bằng xe điện ngầm\n@Chuyên ngành kinh tế\n-đường ngầm\n-đường xe điện ngầm\n@Chuyên ngành kỹ thuật\n-dây cáp\n-đường hầm\n-đường ngầm\n-đường tàu điện ngầm\n-lối đi dưới đất\n-tàu điện ngầm\n@Lĩnh vực: xây dựng\n-địa đạo\n-đường xe điện ngầm\n-hầm chui qua đường\n-hệ đường ray ngầm\n-xe điện ngầm\n@Lĩnh vực: giao thông & vận tải\n-đường hầm (dành cho khách đi bộ)\n@Lĩnh vực: điện\n-tầu điện ngầm
-
+subway	@subway /'sʌbwei/
+*  danh từ
+- đường ngầm, hầm ngầm
+- (từ Mỹ,nghĩa Mỹ) đường xe lửa ngầm; đường xe điện ngầm
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ) đi bằng xe lửa ngầm; đi bằng xe điện ngầm
+@Chuyên ngành kinh tế
+-đường ngầm
+-đường xe điện ngầm
+@Chuyên ngành kỹ thuật
+-dây cáp
+-đường hầm
+-đường ngầm
+-đường tàu điện ngầm
+-lối đi dưới đất
+-tàu điện ngầm
+@Lĩnh vực: xây dựng
+-địa đạo
+-đường xe điện ngầm
+-hầm chui qua đường
+-hệ đường ray ngầm
+-xe điện ngầm
+@Lĩnh vực: giao thông & vận tải
+-đường hầm (dành cho khách đi bộ)
+@Lĩnh vực: điện
+-tầu điện ngầm

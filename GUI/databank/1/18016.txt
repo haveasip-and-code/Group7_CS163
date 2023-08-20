@@ -1,3 +1,14 @@
-emphasis
-	@emphasis /'emfəsis/\n*  danh từ,  số nhiều emphases\n- sự nhấn mạnh; (ngôn ngữ học) sự nhấn giọng\n- tầm quan trọng\n- sự bối rối, sự rõ nét\n@Chuyên ngành kỹ thuật\n-cường điệu\n-nhấn mạnh\n-sự gia cường\n@Chuyên ngành kỹ thuật\n-cường điệu\n-nhấn mạnh\n-sự gia cường
-
+emphasis	
+@emphasis /'emfəsis/
+*  danh từ,  số nhiều emphases
+- sự nhấn mạnh; (ngôn ngữ học) sự nhấn giọng
+- tầm quan trọng
+- sự bối rối, sự rõ nét
+@Chuyên ngành kỹ thuật
+-cường điệu
+-nhấn mạnh
+-sự gia cường
+@Chuyên ngành kỹ thuật
+-cường điệu
+-nhấn mạnh
+-sự gia cường

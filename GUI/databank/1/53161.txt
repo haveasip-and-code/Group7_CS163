@@ -1,3 +1,7 @@
-steeper
-	@steeper /'sti:pl/\n*  danh từ\n- thùng (để) ngâm\n@Chuyên ngành kinh tế\n-người thao tác ở thùng ngâm\n-thùng ngâm\n-thùng tẩm ướt
-
+steeper	@steeper /'sti:pl/
+*  danh từ
+- thùng (để) ngâm
+@Chuyên ngành kinh tế
+-người thao tác ở thùng ngâm
+-thùng ngâm
+-thùng tẩm ướt

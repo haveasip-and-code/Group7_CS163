@@ -1,3 +1,37 @@
-chair
-	@chair /tʃeə/\n*  danh từ\n- ghế\n=to take a chair+ ngồi xuống ghế\n- chức giáo sư đại học\n- chức thị trưởng\n=past (above) the chair+ trước đã làm thị trưởng\n=below the chair+ chưa làm thị trưởng bao giờ\n- ghế chủ toạ, ghế chủ tịch (buổi họp); (từ Mỹ,nghĩa Mỹ) chủ tịch (buổi họp)\n=to address the chair+ nói với chủ tịch buổi họp\n=to take the chair+ làm chủ toạ buổi họp; khai mạc buổi họp\n=to sit (be) in the chair+ điều khiển cuộc họp\n=to leave the chair+ bế mạc cuộc họp\n- (từ Mỹ,nghĩa Mỹ) ghế điện\n=to go to the chair+ bị lên ghế điện\n- (từ Mỹ,nghĩa Mỹ) chỗ ngồi của nhân chứng (ở toà án)\n- (ngành đường sắt) gối đường ray\n!chair! chair!\n- trật tự! trật tự!\n*  ngoại động từ\n- cử làm chủ tịch, chọn làm chủ tịch\n- đặt lên kiệu rước, đặt vào ghế rồi khiêng bổng (người thắng cuộc trong cuộc đấu hoặc được bầu trong một cuộc tuyển cử)\n- làm chủ toạ (buổi họp)\n@Chuyên ngành kinh tế\n-chọn làm chủ tịch\n-chủ trì\n-cử làm chủ tịch\n-làm chủ tọa\n@Chuyên ngành kỹ thuật\n-cái (ghế)\n-cái đệm\n-ghế\n-gối tựa\n@Lĩnh vực: xây dựng\n-cái bệ\n@Lĩnh vực: cơ khí & công trình\n-gối (đường) ray
-
+chair	@chair /tʃeə/
+*  danh từ
+- ghế
+=to take a chair+ ngồi xuống ghế
+- chức giáo sư đại học
+- chức thị trưởng
+=past (above) the chair+ trước đã làm thị trưởng
+=below the chair+ chưa làm thị trưởng bao giờ
+- ghế chủ toạ, ghế chủ tịch (buổi họp); (từ Mỹ,nghĩa Mỹ) chủ tịch (buổi họp)
+=to address the chair+ nói với chủ tịch buổi họp
+=to take the chair+ làm chủ toạ buổi họp; khai mạc buổi họp
+=to sit (be) in the chair+ điều khiển cuộc họp
+=to leave the chair+ bế mạc cuộc họp
+- (từ Mỹ,nghĩa Mỹ) ghế điện
+=to go to the chair+ bị lên ghế điện
+- (từ Mỹ,nghĩa Mỹ) chỗ ngồi của nhân chứng (ở toà án)
+- (ngành đường sắt) gối đường ray
+!chair! chair!
+- trật tự! trật tự!
+*  ngoại động từ
+- cử làm chủ tịch, chọn làm chủ tịch
+- đặt lên kiệu rước, đặt vào ghế rồi khiêng bổng (người thắng cuộc trong cuộc đấu hoặc được bầu trong một cuộc tuyển cử)
+- làm chủ toạ (buổi họp)
+@Chuyên ngành kinh tế
+-chọn làm chủ tịch
+-chủ trì
+-cử làm chủ tịch
+-làm chủ tọa
+@Chuyên ngành kỹ thuật
+-cái (ghế)
+-cái đệm
+-ghế
+-gối tựa
+@Lĩnh vực: xây dựng
+-cái bệ
+@Lĩnh vực: cơ khí & công trình
+-gối (đường) ray

@@ -1,3 +1,5 @@
-fatwood
-	@Chuyên ngành kỹ thuật\n-gỗ khô\n@Chuyên ngành kỹ thuật\n-gỗ khô
-
+fatwood	
+@Chuyên ngành kỹ thuật
+-gỗ khô
+@Chuyên ngành kỹ thuật
+-gỗ khô

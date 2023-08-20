@@ -1,3 +1,12 @@
-eraser
-	@eraser\n* danh từ\n- người xoá, người xoá bỏ\n- cái tẩy, cái cạo\n- giẻ lau bảng tha thiết\n@Chuyên ngành kỹ thuật\n-bộ xóa\n-cái tẩy\n@Chuyên ngành kỹ thuật\n-bộ xóa\n-cái tẩy
-
+eraser	
+@eraser
+* danh từ
+- người xoá, người xoá bỏ
+- cái tẩy, cái cạo
+- giẻ lau bảng tha thiết
+@Chuyên ngành kỹ thuật
+-bộ xóa
+-cái tẩy
+@Chuyên ngành kỹ thuật
+-bộ xóa
+-cái tẩy

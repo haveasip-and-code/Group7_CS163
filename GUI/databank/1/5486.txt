@@ -1,3 +1,4 @@
-bijective
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-song ánh
-
+bijective	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-song ánh

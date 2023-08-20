@@ -1,3 +1,11 @@
-excitor
-	@excitor\n* danh từ\n- vật kích thích\n- dây thần kinh phản xạ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dây thần kinh hưng phấn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dây thần kinh hưng phấn
-
+excitor	
+@excitor
+* danh từ
+- vật kích thích
+- dây thần kinh phản xạ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dây thần kinh hưng phấn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dây thần kinh hưng phấn

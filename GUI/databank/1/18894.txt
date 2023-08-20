@@ -1,3 +1,7 @@
-equimolar
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đẳng mol\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đẳng mol
-
+equimolar	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đẳng mol
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đẳng mol

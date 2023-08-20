@@ -1,3 +1,5 @@
-chambering
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bắn mìn tạo túi\n@Lĩnh vực: cơ khí & công trình\n-sự ngăn (thành) buồng
-
+chambering	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bắn mìn tạo túi
+@Lĩnh vực: cơ khí & công trình
+-sự ngăn (thành) buồng

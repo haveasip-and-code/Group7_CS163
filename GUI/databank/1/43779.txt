@@ -1,3 +1,4 @@
-proconsul
-	@proconsul /proconsul/\n*  danh từ\n- thống đốc (một thuộc địa)\n- thống đốc tỉnh ((từ cổ,nghĩa cổ) La mã)
-
+proconsul	@proconsul /proconsul/
+*  danh từ
+- thống đốc (một thuộc địa)
+- thống đốc tỉnh ((từ cổ,nghĩa cổ) La mã)

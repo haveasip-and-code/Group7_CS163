@@ -1,3 +1,4 @@
-dimmer
-	@dimmer\n* danh từ\n- dụng cụ chỉnh độ sáng của đèn điện
-
+dimmer	
+@dimmer
+* danh từ
+- dụng cụ chỉnh độ sáng của đèn điện

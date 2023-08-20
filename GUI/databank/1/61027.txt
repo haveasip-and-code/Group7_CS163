@@ -1,3 +1,2 @@
-utility
-	@utility\n- ích lợi
-
+utility	@utility
+- ích lợi

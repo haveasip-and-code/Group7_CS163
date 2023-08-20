@@ -1,3 +1,19 @@
-mile
-	@mile /mail/\n*  danh từ\n- dặm, lý\n=nautical mile+ dặm biển, hải lý\n- cuộc chạy đua một dặm\n!miles better\n- (thông tục) tốt hơn nhiều lắm\n!miles easier\n- (thông tục) dễ hơn nhiều lắm\n@Chuyên ngành kinh tế\n-Hải lý hải quân Anh\n@Chuyên ngành kinh tế\n-dặm Anh\n-dặm hàng không và hàng hải\n-hải lý\n@Chuyên ngành kỹ thuật\n-dặm\n-đạm\n-lý
-
+mile	@mile /mail/
+*  danh từ
+- dặm, lý
+=nautical mile+ dặm biển, hải lý
+- cuộc chạy đua một dặm
+!miles better
+- (thông tục) tốt hơn nhiều lắm
+!miles easier
+- (thông tục) dễ hơn nhiều lắm
+@Chuyên ngành kinh tế
+-Hải lý hải quân Anh
+@Chuyên ngành kinh tế
+-dặm Anh
+-dặm hàng không và hàng hải
+-hải lý
+@Chuyên ngành kỹ thuật
+-dặm
+-đạm
+-lý

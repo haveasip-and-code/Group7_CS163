@@ -1,3 +1,5 @@
-propagative
-	@propagative /propagative/\n*  tính từ\n- truyền, truyền bá\n@Chuyên ngành kỹ thuật\n-lan truyền
-
+propagative	@propagative /propagative/
+*  tính từ
+- truyền, truyền bá
+@Chuyên ngành kỹ thuật
+-lan truyền

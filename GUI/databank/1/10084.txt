@@ -1,3 +1,3 @@
-codifier
-	@codifier\n- xem codify
-
+codifier	
+@codifier
+- xem codify

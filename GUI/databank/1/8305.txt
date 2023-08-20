@@ -1,3 +1,5 @@
-catering
-	@Chuyên ngành kinh tế\n-ngành ăn uống công cộng (xã hội, tập thể)\n-sự phục vụ ăn\n-sự phục vụ nấu nướng thuê cho đám cưới
-
+catering	
+@Chuyên ngành kinh tế
+-ngành ăn uống công cộng (xã hội, tập thể)
+-sự phục vụ ăn
+-sự phục vụ nấu nướng thuê cho đám cưới

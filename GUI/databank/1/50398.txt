@@ -1,3 +1,10 @@
-shipwright
-	@shipwright /'ʃiprait/\n*  danh từ\n- thợ đóng tàu\n@Chuyên ngành kinh tế\n-người đóng tàu\n-thợ sửa chữa tàu\n-thợ sửa chửa tàu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thợ đóng tàu
-
+shipwright	@shipwright /'ʃiprait/
+*  danh từ
+- thợ đóng tàu
+@Chuyên ngành kinh tế
+-người đóng tàu
+-thợ sửa chữa tàu
+-thợ sửa chửa tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thợ đóng tàu

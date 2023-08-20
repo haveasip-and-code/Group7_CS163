@@ -1,3 +1,29 @@
-duplicate
-	@duplicate /'dju:plikit/\n*  danh từ\n- bản sao\n- vật giống hệt, vật làm giống hệt (một vật khác)\n- từ đồng nghĩa\n- biên lai cầm đồ\n*  tính từ\n- gồm hai bộ phận đúng nhau; thành hai bản\n- giống hệt (một vật khác)\n- gấp hai, gấp đôi, to gấp đôi, nhiều gấp đôi\n*  ngoại động từ\n- sao lại, sao lục, làm thành hai bản\n- gấp đôi, nhân đôi\n@Chuyên ngành kinh tế\n-bản sao\n-bản thứ hai\n-bốn nhì\n-làm thành hai bản\n-phó bản\n-sao chụp thêm một bản nữa\n-sao lai\n-trùng lắp\n@Chuyên ngành kỹ thuật\n-bản sao\n-nhân đôi\n-sao lại\n@Lĩnh vực: toán & tin\n-tăng đôi
-
+duplicate	
+@duplicate /'dju:plikit/
+*  danh từ
+- bản sao
+- vật giống hệt, vật làm giống hệt (một vật khác)
+- từ đồng nghĩa
+- biên lai cầm đồ
+*  tính từ
+- gồm hai bộ phận đúng nhau; thành hai bản
+- giống hệt (một vật khác)
+- gấp hai, gấp đôi, to gấp đôi, nhiều gấp đôi
+*  ngoại động từ
+- sao lại, sao lục, làm thành hai bản
+- gấp đôi, nhân đôi
+@Chuyên ngành kinh tế
+-bản sao
+-bản thứ hai
+-bốn nhì
+-làm thành hai bản
+-phó bản
+-sao chụp thêm một bản nữa
+-sao lai
+-trùng lắp
+@Chuyên ngành kỹ thuật
+-bản sao
+-nhân đôi
+-sao lại
+@Lĩnh vực: toán & tin
+-tăng đôi

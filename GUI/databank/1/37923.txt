@@ -1,3 +1,2 @@
-openings
-	@Chuyên ngành kỹ thuật\n-lỗ cửa
-
+openings	@Chuyên ngành kỹ thuật
+-lỗ cửa

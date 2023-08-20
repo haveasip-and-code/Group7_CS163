@@ -1,3 +1,4 @@
-hazards
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự độc hại
-
+hazards	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự độc hại

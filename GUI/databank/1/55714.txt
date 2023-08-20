@@ -1,3 +1,24 @@
-tea
-	@tea /ti:/\n*  danh từ\n- cây chè\n- chè, trà; nước chè, nước trà\n=to drink tea+ uống trà\n=weak tea+ trà loãng\n=strong tea+ trà đậm\n- tiệc trà, bữa trà\n!husband's tea\n- (thông tục);(đùa cợt) nước trà nhạt\n!I don't eat tea\n- tôi không hay ăn gì nặng trong khi uống trà\n*  nội động từ\n- uống trà\n*  ngoại động từ\n- mời uống trà\n@Chuyên ngành kinh tế\n-canh đặc\n-cây chè\n-chè\n-dung dịch cô đặc\n-nước uống\n@Chuyên ngành kỹ thuật\n-chè
-
+tea	@tea /ti:/
+*  danh từ
+- cây chè
+- chè, trà; nước chè, nước trà
+=to drink tea+ uống trà
+=weak tea+ trà loãng
+=strong tea+ trà đậm
+- tiệc trà, bữa trà
+!husband's tea
+- (thông tục);(đùa cợt) nước trà nhạt
+!I don't eat tea
+- tôi không hay ăn gì nặng trong khi uống trà
+*  nội động từ
+- uống trà
+*  ngoại động từ
+- mời uống trà
+@Chuyên ngành kinh tế
+-canh đặc
+-cây chè
+-chè
+-dung dịch cô đặc
+-nước uống
+@Chuyên ngành kỹ thuật
+-chè

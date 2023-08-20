@@ -1,3 +1,14 @@
-disc
-	@disc /disk/ (disc) /disk/\n*  danh từ\n- (thể dục,thể thao) đĩa\n- đĩa hát\n- đĩa, vật hình đĩa, bộ phận hình đĩa\n@Chuyên ngành kỹ thuật\n-bản\n-đĩa\n-đĩa mài\n-mâm\n-vành độ\n-vật hình đĩa\n-vòng đệm dẹt
-
+disc	
+@disc /disk/ (disc) /disk/
+*  danh từ
+- (thể dục,thể thao) đĩa
+- đĩa hát
+- đĩa, vật hình đĩa, bộ phận hình đĩa
+@Chuyên ngành kỹ thuật
+-bản
+-đĩa
+-đĩa mài
+-mâm
+-vành độ
+-vật hình đĩa
+-vòng đệm dẹt

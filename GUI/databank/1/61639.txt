@@ -1,3 +1,31 @@
-vessel
-	@vessel /'vesl/\n*  danh từ\n- bình, chậu, lọ, thùng\n- (hàng hải) thuyền lớn, tàu thuỷ\n- (giải phẫu); (thực vật học) ống, mạch\n!the weaker vessel\n- (kinh) đàn bà\n@Chuyên ngành kinh tế\n-bình\n-chậu\n-mạch\n-ống\n-tàu (lớn)\n-tàu bè\n-tàu hàng\n-tàu lớn\n@Chuyên ngành kỹ thuật\n-bể chứa\n-bình\n-bình chứa\n-chậu\n-lọ\n-mạch\n-ống\n@Lĩnh vực: toán & tin\n-tầu\n-thuyết\n@Lĩnh vực: xây dựng\n-tàu bay\n-tàu thủy\n-thuyền lớn
-
+vessel	@vessel /'vesl/
+*  danh từ
+- bình, chậu, lọ, thùng
+- (hàng hải) thuyền lớn, tàu thuỷ
+- (giải phẫu); (thực vật học) ống, mạch
+!the weaker vessel
+- (kinh) đàn bà
+@Chuyên ngành kinh tế
+-bình
+-chậu
+-mạch
+-ống
+-tàu (lớn)
+-tàu bè
+-tàu hàng
+-tàu lớn
+@Chuyên ngành kỹ thuật
+-bể chứa
+-bình
+-bình chứa
+-chậu
+-lọ
+-mạch
+-ống
+@Lĩnh vực: toán & tin
+-tầu
+-thuyết
+@Lĩnh vực: xây dựng
+-tàu bay
+-tàu thủy
+-thuyền lớn

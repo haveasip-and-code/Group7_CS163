@@ -1,3 +1,3 @@
-vara
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-kín hơi nước
-
+vara	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-kín hơi nước

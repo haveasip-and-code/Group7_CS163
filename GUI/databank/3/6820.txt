@@ -1,3 +1,20 @@
-brisk
-	@brisk /brisk/\n*  tính từ\n- nhanh, nhanh nhẩu, nhanh nhẹn; lanh lợi\n=brisk pace+ bước đi nhanh nhẹn\n- hoạt động, phát đạt\n=trade is brisk+ buôn bán phát đạt\n- nổi bọt lóng lánh (rượu sâm banh); sủi bọt (bia)\n- trong lành, mát mẻ (không khí)\n- lồng lộng (gió)\n*  ngoại động từ\n- làm hoạt động lên, làm sôi nổi lên, làm phấn khởi lên, làm vui lên\n=to brisk someone up+ làm cho ai phấn khởi (vui) lên\n*  nội động từ\n- to brisk up phấn khởi lên, vui lên\n!to brisk up a fire\n- khêu ngọn lửa\n@Chuyên ngành kinh tế\n-làm hoạt động lên\n-nổi bọt\n-sủi bọt
-
+brisk	@brisk /brisk/
+*  tính từ
+- nhanh, nhanh nhẩu, nhanh nhẹn; lanh lợi
+=brisk pace+ bước đi nhanh nhẹn
+- hoạt động, phát đạt
+=trade is brisk+ buôn bán phát đạt
+- nổi bọt lóng lánh (rượu sâm banh); sủi bọt (bia)
+- trong lành, mát mẻ (không khí)
+- lồng lộng (gió)
+*  ngoại động từ
+- làm hoạt động lên, làm sôi nổi lên, làm phấn khởi lên, làm vui lên
+=to brisk someone up+ làm cho ai phấn khởi (vui) lên
+*  nội động từ
+- to brisk up phấn khởi lên, vui lên
+!to brisk up a fire
+- khêu ngọn lửa
+@Chuyên ngành kinh tế
+-làm hoạt động lên
+-nổi bọt
+-sủi bọt

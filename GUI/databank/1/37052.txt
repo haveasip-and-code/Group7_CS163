@@ -1,3 +1,7 @@
-northwest
-	@northwest\n* danh từ\n- miền tây bắc\n- phía tây bắc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-phía tây bắc
-
+northwest	@northwest
+* danh từ
+- miền tây bắc
+- phía tây bắc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-phía tây bắc

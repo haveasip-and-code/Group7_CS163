@@ -1,3 +1,2 @@
-portrayer
-	@portrayer\n- xem portray
-
+portrayer	@portrayer
+- xem portray

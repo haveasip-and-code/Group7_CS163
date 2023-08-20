@@ -1,3 +1,12 @@
-canning
-	@Chuyên ngành kinh tế\n-đồ hộp\n-đóng hộp\n-sự bảo quản\n-sự sản xuất đồ hộp\n-thùng bảo quản\n@Chuyên ngành kỹ thuật\n-đóng hộp\n-lọ bảo quản\n-rót vào thùng\n-sự bảo quản
-
+canning	
+@Chuyên ngành kinh tế
+-đồ hộp
+-đóng hộp
+-sự bảo quản
+-sự sản xuất đồ hộp
+-thùng bảo quản
+@Chuyên ngành kỹ thuật
+-đóng hộp
+-lọ bảo quản
+-rót vào thùng
+-sự bảo quản

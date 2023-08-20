@@ -1,3 +1,2 @@
-shakeout
-	@Chuyên ngành kinh tế\n-việc chấn chỉnh
-
+shakeout	@Chuyên ngành kinh tế
+-việc chấn chỉnh

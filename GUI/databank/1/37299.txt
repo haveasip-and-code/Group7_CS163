@@ -1,3 +1,7 @@
-oatmeal
-	@oatmeal /'outmi:l/\n*  danh từ\n- bột yến mạch\n- cháo bột yến mạch\n@Chuyên ngành kinh tế\n-bỏng yến mạch\n-bột yến mạch
-
+oatmeal	@oatmeal /'outmi:l/
+*  danh từ
+- bột yến mạch
+- cháo bột yến mạch
+@Chuyên ngành kinh tế
+-bỏng yến mạch
+-bột yến mạch

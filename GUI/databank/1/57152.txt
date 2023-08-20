@@ -1,3 +1,8 @@
-tourist
-	@tourist /'tuərist/\n*  danh từ\n- nhà du lịch, khách du lịch\n@Chuyên ngành kinh tế\n-du khách\n-khách du lịch\n@Chuyên ngành kỹ thuật\n-du khách
-
+tourist	@tourist /'tuərist/
+*  danh từ
+- nhà du lịch, khách du lịch
+@Chuyên ngành kinh tế
+-du khách
+-khách du lịch
+@Chuyên ngành kỹ thuật
+-du khách

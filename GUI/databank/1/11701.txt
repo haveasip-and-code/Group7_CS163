@@ -1,3 +1,8 @@
-convergent
-	@convergent /kən'və:dʤənt/\n*  danh từ\n- (vật lý); (toán học) hội tụ\n=convergent series+ chuỗi hội tụ\n=convergent angle+ góc hội tụ\n@Chuyên ngành kỹ thuật\n-hội tụ
-
+convergent	
+@convergent /kən'və:dʤənt/
+*  danh từ
+- (vật lý); (toán học) hội tụ=convergent series
++ chuỗi hội tụ=convergent angle
++ góc hội tụ
+@Chuyên ngành kỹ thuật
+-hội tụ

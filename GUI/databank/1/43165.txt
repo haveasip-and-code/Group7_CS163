@@ -1,3 +1,2 @@
-prefectural
-	@prefectural\n- xem prefecture
-
+prefectural	@prefectural
+- xem prefecture

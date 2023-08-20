@@ -1,3 +1,6 @@
-addressable
-	@Chuyên ngành kỹ thuật\n-định địa chỉ\n@Lĩnh vực: xây dựng\n-khả định\n@Lĩnh vực: toán & tin\n-khả lập địa chỉ
-
+addressable	@Chuyên ngành kỹ thuật
+-định địa chỉ
+@Lĩnh vực: xây dựng
+-khả định
+@Lĩnh vực: toán & tin
+-khả lập địa chỉ

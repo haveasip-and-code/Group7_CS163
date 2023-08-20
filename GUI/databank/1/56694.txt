@@ -1,3 +1,64 @@
-tilt
-	@tilt /tilt/\n*  danh từ\n- độ nghiêng; trạng thái nghiêng\n- sự đấu thương (trên ngựa, trên thuyền)\n- búa đòn ((cũng) tilt-hammer)\n!full tilt\n- rất mau, hết tốc lực\n=to run (come) full tilt against+ lao tới, xông tới\n*  nội động từ\n- nghiêng đi\n=the barrel tilted+ cái thùng nghiêng đi\n- (hàng hải) tròng trành, nghiêng\n=the ship tilts on the waves+ chiếc tàu tròng trành trên sóng\n- đấu thương\n- (nghĩa bóng) tranh luận, tranh cãi\n*  ngoại động từ\n- làm nghiêng, làm chúi xuống\n- lật đổ, lật nghiêng (một chiếc xe)\n- (kỹ thuật) rèn bằng búa đòn, đập bằng búa đòn\n!to tilt at\n- đâm ngọn thương vào, chĩa ngọn thương vào\n- (nghĩa bóng) công kích\n!to tilk back\n- lật ra sau, lật lên\n!to tilt over\n- làm cho nghiêng; lật đổ; ngã nhào\n!to tilt up\n- lật đứng lên, dựng đứng, dựng ngược\n!to tilt at windmills\n- (xem) windmill\n*  danh từ\n- mui che, bạt\n*  ngoại động từ\n- che mui, phủ bạt\n@Chuyên ngành kinh tế\n-đảo\n-làm nghiêng\n-lật nghiêng\n@Chuyên ngành kỹ thuật\n-bạt\n-che mui\n-đảo\n-độ chao\n-độ dốc\n-đổ nghiêng\n-độ nghiêng\n-góc nghiêng\n-làm nghiêng\n-lật\n-lật nghiêng\n-nghiêng\n-mặt nghiêng\n-mặt vát\n-mui che\n-sự chuyển hướng\n-sự nghiêng\n@Lĩnh vực: hóa học & vật liệu\n-bạt nghiêng\n@Lĩnh vực: xây dựng\n-đặt nghiêng\n-phủ bạt\n-rèn bằng bùa đòn\n@Lĩnh vực: điện lạnh\n-góc nghiêng (ăng ten, rađa)
-
+tilt	@tilt /tilt/
+*  danh từ
+- độ nghiêng; trạng thái nghiêng
+- sự đấu thương (trên ngựa, trên thuyền)
+- búa đòn ((cũng) tilt-hammer)
+!full tilt
+- rất mau, hết tốc lực
+=to run (come) full tilt against+ lao tới, xông tới
+*  nội động từ
+- nghiêng đi
+=the barrel tilted+ cái thùng nghiêng đi
+- (hàng hải) tròng trành, nghiêng
+=the ship tilts on the waves+ chiếc tàu tròng trành trên sóng
+- đấu thương
+- (nghĩa bóng) tranh luận, tranh cãi
+*  ngoại động từ
+- làm nghiêng, làm chúi xuống
+- lật đổ, lật nghiêng (một chiếc xe)
+- (kỹ thuật) rèn bằng búa đòn, đập bằng búa đòn
+!to tilt at
+- đâm ngọn thương vào, chĩa ngọn thương vào
+- (nghĩa bóng) công kích
+!to tilk back
+- lật ra sau, lật lên
+!to tilt over
+- làm cho nghiêng; lật đổ; ngã nhào
+!to tilt up
+- lật đứng lên, dựng đứng, dựng ngược
+!to tilt at windmills
+- (xem) windmill
+*  danh từ
+- mui che, bạt
+*  ngoại động từ
+- che mui, phủ bạt
+@Chuyên ngành kinh tế
+-đảo
+-làm nghiêng
+-lật nghiêng
+@Chuyên ngành kỹ thuật
+-bạt
+-che mui
+-đảo
+-độ chao
+-độ dốc
+-đổ nghiêng
+-độ nghiêng
+-góc nghiêng
+-làm nghiêng
+-lật
+-lật nghiêng
+-nghiêng
+-mặt nghiêng
+-mặt vát
+-mui che
+-sự chuyển hướng
+-sự nghiêng
+@Lĩnh vực: hóa học & vật liệu
+-bạt nghiêng
+@Lĩnh vực: xây dựng
+-đặt nghiêng
+-phủ bạt
+-rèn bằng bùa đòn
+@Lĩnh vực: điện lạnh
+-góc nghiêng (ăng ten, rađa)

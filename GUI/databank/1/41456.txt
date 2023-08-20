@@ -1,3 +1,2 @@
-picketer
-	@picketer\n- xem picket
-
+picketer	@picketer
+- xem picket

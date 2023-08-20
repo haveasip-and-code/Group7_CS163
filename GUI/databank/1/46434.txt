@@ -1,3 +1,7 @@
-reglet
-	@reglet\n* danh từ\n- (kỹ thuật) thanh gỗ chèn\n- (ngành in) thanh chèn dòng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gờ phẳng
-
+reglet	@reglet
+* danh từ
+- (kỹ thuật) thanh gỗ chèn
+- (ngành in) thanh chèn dòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-gờ phẳng

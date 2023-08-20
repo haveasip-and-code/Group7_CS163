@@ -1,3 +1,7 @@
-thinner
-	@thinner\n* danh từ\n- chất để pha loãng\n@Chuyên ngành kỹ thuật\n-chất pha loãng sơn\n@Lĩnh vực: hóa học & vật liệu\n-chất pha loãng
-
+thinner	@thinner
+* danh từ
+- chất để pha loãng
+@Chuyên ngành kỹ thuật
+-chất pha loãng sơn
+@Lĩnh vực: hóa học & vật liệu
+-chất pha loãng

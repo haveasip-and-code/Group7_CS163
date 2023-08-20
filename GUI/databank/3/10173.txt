@@ -1,3 +1,17 @@
-coherent
-	@coherent /kou'hiərənt/\n*  tính từ\n- dính liền, cố kết\n- mạch lạc, chặt chẽ (văn chương, lý luận...)\n@Chuyên ngành kỹ thuật\n-ăn khớp\n-gắn\n-kết dính\n-kết hợp\n-khớp\n-liên kết\n-nhất quán\n-phù hợp\n@Lĩnh vực: điện\n-đèn dẫn sóng\n@Lĩnh vực: xây dựng\n-máy kiểm ba
-
+coherent	@coherent /kou'hiərənt/
+*  tính từ
+- dính liền, cố kết
+- mạch lạc, chặt chẽ (văn chương, lý luận...)
+@Chuyên ngành kỹ thuật
+-ăn khớp
+-gắn
+-kết dính
+-kết hợp
+-khớp
+-liên kết
+-nhất quán
+-phù hợp
+@Lĩnh vực: điện
+-đèn dẫn sóng
+@Lĩnh vực: xây dựng
+-máy kiểm ba

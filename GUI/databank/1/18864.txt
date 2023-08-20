@@ -1,3 +1,19 @@
-equality
-	@equality /i:kwɔliti/\n*  danh từ\n- tính bằng, tính ngang bằng\n- sự bình đẳng\n@Chuyên ngành kỹ thuật\n-bình đẳng\n-đẳng thức\n@Lĩnh vực: cơ khí & công trình\n-sự bằng nhau\n@Lĩnh vực: toán & tin\n-tính bình đẳng\n@Chuyên ngành kỹ thuật\n-bình đẳng\n-đẳng thức\n@Lĩnh vực: cơ khí & công trình\n-sự bằng nhau\n@Lĩnh vực: toán & tin\n-tính bình đẳng
-
+equality	
+@equality /i:kwɔliti/
+*  danh từ
+- tính bằng, tính ngang bằng
+- sự bình đẳng
+@Chuyên ngành kỹ thuật
+-bình đẳng
+-đẳng thức
+@Lĩnh vực: cơ khí & công trình
+-sự bằng nhau
+@Lĩnh vực: toán & tin
+-tính bình đẳng
+@Chuyên ngành kỹ thuật
+-bình đẳng
+-đẳng thức
+@Lĩnh vực: cơ khí & công trình
+-sự bằng nhau
+@Lĩnh vực: toán & tin
+-tính bình đẳng

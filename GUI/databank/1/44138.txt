@@ -1,3 +1,2 @@
-propretor
-	@propretor\n- xem propraetor
-
+propretor	@propretor
+- xem propraetor

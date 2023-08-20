@@ -1,3 +1,6 @@
-veinlet
-	@veinlet /'veinlit/\n*  danh từ\n- (giải phẫu) tĩnh mạch nhỏ\n- gân nhỏ (của lá cây)\n@Chuyên ngành kỹ thuật\n-mạch nhỏ
-
+veinlet	@veinlet /'veinlit/
+*  danh từ
+- (giải phẫu) tĩnh mạch nhỏ
+- gân nhỏ (của lá cây)
+@Chuyên ngành kỹ thuật
+-mạch nhỏ

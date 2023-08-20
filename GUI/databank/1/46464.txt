@@ -1,3 +1,6 @@
-regulated
-	@Chuyên ngành kỹ thuật\n-được điều chỉnh\n@Lĩnh vực: điện lạnh\n-đã điều chỉnh\n@Lĩnh vực: đo lường & điều khiển\n-được ổn định
-
+regulated	@Chuyên ngành kỹ thuật
+-được điều chỉnh
+@Lĩnh vực: điện lạnh
+-đã điều chỉnh
+@Lĩnh vực: đo lường & điều khiển
+-được ổn định

@@ -1,3 +1,5 @@
-adulterated
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-được pha loãng\n@Lĩnh vực: hóa học & vật liệu\n-lẫn chất tạp
-
+adulterated	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-được pha loãng
+@Lĩnh vực: hóa học & vật liệu
+-lẫn chất tạp

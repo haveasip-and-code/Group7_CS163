@@ -1,3 +1,20 @@
-pension
-	@pension /'penʃn/\n*  danh từ\n- lương hưu\n=to retire on a pension+ về hưu\n- tiền trợ cấp\n=old-age pension+ tiền trợ cấp dưỡng lão\n- nhà trọ cơm tháng\n=to live en pension at+ ăn ở trọ tại\n*  ngoại động từ\n- trả lương hưu\n- trợ cấp cho\n=to pension someone off+ sa thải ai có phát tiền trợ cấp; cho ai về hưu, cho ai về vườn\n@Chuyên ngành kinh tế\n-lương hưu\n-tiền cấp dưỡng\n-tiền trợ cấp\n-tiền ứng bổng\n@Chuyên ngành kỹ thuật\n-lương hưu\n-nhà an dưỡng
-
+pension	@pension /'penʃn/
+*  danh từ
+- lương hưu
+=to retire on a pension+ về hưu
+- tiền trợ cấp
+=old-age pension+ tiền trợ cấp dưỡng lão
+- nhà trọ cơm tháng
+=to live en pension at+ ăn ở trọ tại
+*  ngoại động từ
+- trả lương hưu
+- trợ cấp cho
+=to pension someone off+ sa thải ai có phát tiền trợ cấp; cho ai về hưu, cho ai về vườn
+@Chuyên ngành kinh tế
+-lương hưu
+-tiền cấp dưỡng
+-tiền trợ cấp
+-tiền ứng bổng
+@Chuyên ngành kỹ thuật
+-lương hưu
+-nhà an dưỡng

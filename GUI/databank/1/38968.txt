@@ -1,3 +1,4 @@
-overstaffing
-	@Chuyên ngành kinh tế\n-biên chế nhân viên quá đông\n-tình trạng người nhiều việc ít\n-tình trạng thừa nhân viên
-
+overstaffing	@Chuyên ngành kinh tế
+-biên chế nhân viên quá đông
+-tình trạng người nhiều việc ít
+-tình trạng thừa nhân viên

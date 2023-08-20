@@ -1,3 +1,18 @@
-remover
-	@remover /ri'mu:və/\n*  danh từ\n- người dọn đồ ((cũng) furniture remover)\n- thuốc tẩy (dầu mỡ...)\n- (kỹ thuật) dụng cụ tháo, đồ m\n@Chuyên ngành kinh tế\n-chất loại bỏ\n-dụng cụ tách\n-máy tách\n-máy tháo dỡ\n@Chuyên ngành kỹ thuật\n-dụng cụ tháo\n-máy đào\n@Lĩnh vực: điện\n-cái vam\n@Lĩnh vực: hóa học & vật liệu\n-chất tẩy (màu)\n-đồ mở
-
+remover	@remover /ri'mu:və/
+*  danh từ
+- người dọn đồ ((cũng) furniture remover)
+- thuốc tẩy (dầu mỡ...)
+- (kỹ thuật) dụng cụ tháo, đồ m
+@Chuyên ngành kinh tế
+-chất loại bỏ
+-dụng cụ tách
+-máy tách
+-máy tháo dỡ
+@Chuyên ngành kỹ thuật
+-dụng cụ tháo
+-máy đào
+@Lĩnh vực: điện
+-cái vam
+@Lĩnh vực: hóa học & vật liệu
+-chất tẩy (màu)
+-đồ mở

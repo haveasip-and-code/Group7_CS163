@@ -1,3 +1,4 @@
-disvalue
-	@disvalue\n* ngoại động từ\n- xem là vô giá trị
-
+disvalue	
+@disvalue
+* ngoại động từ
+- xem là vô giá trị

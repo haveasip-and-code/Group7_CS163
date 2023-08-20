@@ -1,3 +1,7 @@
-stance
-	@stance /stæns/\n*  danh từ\n- (thể dục,thể thao) thể đứng (đánh gôn,  crickê)\n- (từ Mỹ,nghĩa Mỹ) thái độ, lập trường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tư thế
-
+stance	@stance /stæns/
+*  danh từ
+- (thể dục,thể thao) thể đứng (đánh gôn,  crickê)
+- (từ Mỹ,nghĩa Mỹ) thái độ, lập trường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tư thế

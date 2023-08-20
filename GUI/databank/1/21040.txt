@@ -1,3 +1,7 @@
-filmy
-	@filmy /'filmi/\n*  tính từ\n- mỏng nhẹ (mây)\n- mờ mờ\n- có váng\n- (y học) dạng màng
-
+filmy	
+@filmy /'filmi/
+*  tính từ
+- mỏng nhẹ (mây)
+- mờ mờ
+- có váng
+- (y học) dạng màng

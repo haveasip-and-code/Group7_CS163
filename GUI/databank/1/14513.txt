@@ -1,3 +1,5 @@
-denumerable
-	@denumerable\n- dếm được\n@Chuyên ngành kỹ thuật\n-đếm được
-
+denumerable	
+@denumerable
+- dếm được
+@Chuyên ngành kỹ thuật
+-đếm được

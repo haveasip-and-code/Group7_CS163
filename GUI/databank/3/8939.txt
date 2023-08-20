@@ -1,3 +1,11 @@
-chemical
-	@chemical /'kemikəl/\n*  tính từ\n- (thuộc) hoá học\n=chemical warfare+ chiến tranh hoá học\n@Chuyên ngành kinh tế\n-chế phẩm hóa học\n@Chuyên ngành kỹ thuật\n-hóa chất\n-hóa học\n@Lĩnh vực: điện\n-thuộc hóa học
-
+chemical	@chemical /'kemikəl/
+*  tính từ
+- (thuộc) hoá học
+=chemical warfare+ chiến tranh hoá học
+@Chuyên ngành kinh tế
+-chế phẩm hóa học
+@Chuyên ngành kỹ thuật
+-hóa chất
+-hóa học
+@Lĩnh vực: điện
+-thuộc hóa học

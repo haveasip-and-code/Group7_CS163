@@ -1,3 +1,4 @@
-developers
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-người phát triển
-
+developers	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-người phát triển

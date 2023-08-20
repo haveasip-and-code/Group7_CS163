@@ -1,3 +1,8 @@
-prow
-	@prow /prow/\n*  danh từ\n- mũi tàu, mũi thuyền\n*  tính từ\n- (từ cổ,nghĩa cổ) anh dũng, dũng cảm, can đảm\n@Chuyên ngành kỹ thuật\n-mũi tàu\n-mũi thuyền
-
+prow	@prow /prow/
+*  danh từ
+- mũi tàu, mũi thuyền
+*  tính từ
+- (từ cổ,nghĩa cổ) anh dũng, dũng cảm, can đảm
+@Chuyên ngành kỹ thuật
+-mũi tàu
+-mũi thuyền

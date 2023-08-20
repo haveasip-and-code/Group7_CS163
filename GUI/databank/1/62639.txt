@@ -1,3 +1,19 @@
-week
-	@week /wi:k/\n*  danh từ\n- tuần lễ, tuần\n=what day of the week is it?+ hôm nay là ngày thứ mấy trong tuần?\n=yesterday week+ tám hôm trước\n=tomorrow week+ tám hôm nữa\n=Monday week+ thứ hai là được một tuần; by hôm nữa kể từ thứ hai\n- những ngày làm việc trong tuần\n!a week of Sundays; a week of weeks\n- by tuần, bốn mưi chín ngày\n- (thông tục) thời gian dài\n!week in, week out\n- tuần này tiếp đến tuần khác\n@Chuyên ngành kinh tế\n-tuần\n-tuần lễ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tuần
-
+week	@week /wi:k/
+*  danh từ
+- tuần lễ, tuần
+=what day of the week is it?+ hôm nay là ngày thứ mấy trong tuần?
+=yesterday week+ tám hôm trước
+=tomorrow week+ tám hôm nữa
+=Monday week+ thứ hai là được một tuần; by hôm nữa kể từ thứ hai
+- những ngày làm việc trong tuần
+!a week of Sundays; a week of weeks
+- by tuần, bốn mưi chín ngày
+- (thông tục) thời gian dài
+!week in, week out
+- tuần này tiếp đến tuần khác
+@Chuyên ngành kinh tế
+-tuần
+-tuần lễ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tuần

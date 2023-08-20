@@ -1,3 +1,4 @@
-nucleophilic
-	@Chuyên ngành kỹ thuật\n-ái nhân\n@Lĩnh vực: hóa học & vật liệu\n-ưa nhân
-
+nucleophilic	@Chuyên ngành kỹ thuật
+-ái nhân
+@Lĩnh vực: hóa học & vật liệu
+-ưa nhân

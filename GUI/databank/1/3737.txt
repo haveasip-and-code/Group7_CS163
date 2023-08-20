@@ -1,3 +1,12 @@
-astronomy
-	@astronomy /əs'trɔnəmi/\n*  danh từ\n- thiên văn học\n=nautical astronomy+ thiên văn học hàng hải\n=general astronomy+ thiên văn học đại cương\n=practical astronomy+ thiên văn học thực hành\n=statistical astronomy+ thiên văn học thống kê\n=theoretical astronomy+ thiên văn học lý thuyết\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thiên văn (học)
-
+astronomy	
+@astronomy /əs'trɔnəmi/
+*  danh từ
+- thiên văn học=nautical astronomy
++ thiên văn học hàng hải=general astronomy
++ thiên văn học đại cương=practical astronomy
++ thiên văn học thực hành=statistical astronomy
++ thiên văn học thống kê=theoretical astronomy
++ thiên văn học lý thuyết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-thiên văn (học)

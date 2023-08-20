@@ -1,3 +1,4 @@
-scoping
-	@Chuyên ngành kỹ thuật\n-phạm vi\n@Lĩnh vực: toán & tin\n-xác định phạm vi
-
+scoping	@Chuyên ngành kỹ thuật
+-phạm vi
+@Lĩnh vực: toán & tin
+-xác định phạm vi

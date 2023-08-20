@@ -1,3 +1,6 @@
-rhombohedral
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-khối hộp thoi\n-khối sáu mặt thoi\n@Lĩnh vực: điện lạnh\n-mặt thoi
-
+rhombohedral	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-khối hộp thoi
+-khối sáu mặt thoi
+@Lĩnh vực: điện lạnh
+-mặt thoi

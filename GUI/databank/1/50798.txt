@@ -1,3 +1,13 @@
-simulate
-	@simulate /'simjuleit/\n*  ngoại động từ\n- giả vờ, giả cách\n=to simulate indignation+ giả vờ căm phẫn\n- đóng vai\n=actor simulates king+ diễn viên đóng vai vua\n- đội lốt; bắt chước; dựa theo\n@Chuyên ngành kỹ thuật\n-bắt chước\n-mô phỏng\n@Lĩnh vực: cơ khí & công trình\n-mô hình hóa\n-phỏng tạo
-
+simulate	@simulate /'simjuleit/
+*  ngoại động từ
+- giả vờ, giả cách
+=to simulate indignation+ giả vờ căm phẫn
+- đóng vai
+=actor simulates king+ diễn viên đóng vai vua
+- đội lốt; bắt chước; dựa theo
+@Chuyên ngành kỹ thuật
+-bắt chước
+-mô phỏng
+@Lĩnh vực: cơ khí & công trình
+-mô hình hóa
+-phỏng tạo

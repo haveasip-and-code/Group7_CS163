@@ -1,3 +1,8 @@
-amenities
-	@Chuyên ngành kinh tế\n-tiện nghi\n@Chuyên ngành kỹ thuật\n-tiện nghi\n@Lĩnh vực: xây dựng\n-qui hoạch lãnh thổ\n-tiện nghi nội thất
-
+amenities	
+@Chuyên ngành kinh tế
+-tiện nghi
+@Chuyên ngành kỹ thuật
+-tiện nghi
+@Lĩnh vực: xây dựng
+-qui hoạch lãnh thổ
+-tiện nghi nội thất

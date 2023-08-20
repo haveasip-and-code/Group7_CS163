@@ -1,3 +1,4 @@
-stoplight
-	@Chuyên ngành kỹ thuật\n-đèn hậu\n@Lĩnh vực: điện lạnh\n-đèn hãm
-
+stoplight	@Chuyên ngành kỹ thuật
+-đèn hậu
+@Lĩnh vực: điện lạnh
+-đèn hãm

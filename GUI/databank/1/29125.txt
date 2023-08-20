@@ -1,3 +1,14 @@
-integrator
-	@integrator /'intigreitə/\n*  danh từ\n- người hợp nhất\n- (toán học) máy tích phân\n@Chuyên ngành kỹ thuật\n-bộ lấy tích phân\n-mạch tích phân\n-máy tích phân\n@Lĩnh vực: toán & tin\n-bộ tính tích phân\n-máy lấy tích phân\n@Lĩnh vực: điện lạnh\n-máy (lấy) tích phân
-
+integrator	
+@integrator /'intigreitə/
+*  danh từ
+- người hợp nhất
+- (toán học) máy tích phân
+@Chuyên ngành kỹ thuật
+-bộ lấy tích phân
+-mạch tích phân
+-máy tích phân
+@Lĩnh vực: toán & tin
+-bộ tính tích phân
+-máy lấy tích phân
+@Lĩnh vực: điện lạnh
+-máy (lấy) tích phân

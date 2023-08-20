@@ -1,3 +1,4 @@
-flitter
-	@flitter /flitter/\n*  nội động từ\n- bay chuyền; bay qua bay lại
-
+flitter	
+@flitter /flitter/
+*  nội động từ
+- bay chuyền; bay qua bay lại

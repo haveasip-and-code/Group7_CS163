@@ -1,3 +1,39 @@
-article
-	@article /'ɑ:tikl/\n*  danh từ\n- bài báo\n=leading article+ bài xã luận\n- điều khoản, mục\n=articles of apprenticeship+ điều khoản học việc (trong giao kèo)\n=article of faith+ tín điều\n- đồ, thức, vật phẩm; hàng\n=articles of daily necessity+ những thức cần thiết cho đời sống hằng ngày\n=an article of food+ đồ ăn\n=an article of clothing+ đồ mặc\n=article of luxury+ hàng xa xỉ\n- (ngôn ngữ học) mạo từ\n=definite article+ mạo từ hạn định\n=indefinite article+ mạo từ bất định\n!in the article of death\n- lúc chết, lúc tắt thở\n*  ngoại động từ\n- đặt thành điều khoản, đặt thành mục\n- cho học việc theo những điều khoản trong giao kèo\n=articled apprentice+ người học việc theo giao kèo\n- (pháp lý) buộc tội; tố cáo\n=to article against someone for something+ tố giác ai về việc gì; buộc tội ai về cái gì\n@Chuyên ngành kinh tế\n-điều\n-điều khoản\n-điều mục\n-mặt hàng\n-thư phẩm\n-vật phẩm\n@Chuyên ngành kỹ thuật\n-bài báo\n-điều khoản\n-hạng mục\n-mặt hàng\n-mục\n-sản phẩm\n@Lĩnh vực: toán & tin\n-bài viết
-
+article	@article /'ɑ:tikl/
+*  danh từ
+- bài báo
+=leading article+ bài xã luận
+- điều khoản, mục
+=articles of apprenticeship+ điều khoản học việc (trong giao kèo)
+=article of faith+ tín điều
+- đồ, thức, vật phẩm; hàng
+=articles of daily necessity+ những thức cần thiết cho đời sống hằng ngày
+=an article of food+ đồ ăn
+=an article of clothing+ đồ mặc
+=article of luxury+ hàng xa xỉ
+- (ngôn ngữ học) mạo từ
+=definite article+ mạo từ hạn định
+=indefinite article+ mạo từ bất định
+!in the article of death
+- lúc chết, lúc tắt thở
+*  ngoại động từ
+- đặt thành điều khoản, đặt thành mục
+- cho học việc theo những điều khoản trong giao kèo
+=articled apprentice+ người học việc theo giao kèo
+- (pháp lý) buộc tội; tố cáo
+=to article against someone for something+ tố giác ai về việc gì; buộc tội ai về cái gì
+@Chuyên ngành kinh tế
+-điều
+-điều khoản
+-điều mục
+-mặt hàng
+-thư phẩm
+-vật phẩm
+@Chuyên ngành kỹ thuật
+-bài báo
+-điều khoản
+-hạng mục
+-mặt hàng
+-mục
+-sản phẩm
+@Lĩnh vực: toán & tin
+-bài viết

@@ -1,3 +1,11 @@
-algebraic
-	@algebraic /'ældʤibrə/ (algebraical) /'ældʤibrəl/\n*  tính từ\n- đại số\n=algebraic equation+ phương trình đại số\n=algebraic expression+ biểu thức đại số\n=algebraic function+ hàm đại số\n@Chuyên ngành kỹ thuật\n-đại số\n@Lĩnh vực: toán & tin\n-thuộc đại số
-
+algebraic	
+@algebraic /'ældʤibrə/ (algebraical) /'ældʤibrəl/
+*  tính từ
+- đại số=algebraic equation
++ phương trình đại số=algebraic expression
++ biểu thức đại số=algebraic function
++ hàm đại số
+@Chuyên ngành kỹ thuật
+-đại số
+@Lĩnh vực: toán & tin
+-thuộc đại số

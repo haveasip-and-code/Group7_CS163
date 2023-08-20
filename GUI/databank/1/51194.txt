@@ -1,3 +1,6 @@
-slimmer
-	@slimmer\n* danh từ\n- người đang nhịn ăn và làm cho gầy bớt đi\n@Chuyên ngành kinh tế\n-máy tách cặn\n-máy tách niêm dịch
-
+slimmer	@slimmer
+* danh từ
+- người đang nhịn ăn và làm cho gầy bớt đi
+@Chuyên ngành kinh tế
+-máy tách cặn
+-máy tách niêm dịch

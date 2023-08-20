@@ -1,3 +1,10 @@
-passport
-	@passport /'pɑ:spɔ:t/\n*  danh từ\n- hộ chiếu\n- (nghĩa bóng) cái đảm bảo để đạt được (cái gì)\n@Chuyên ngành kinh tế\n-giấy thông hành\n-hộ chiếu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hộ chiếu
-
+passport	@passport /'pɑ:spɔ:t/
+*  danh từ
+- hộ chiếu
+- (nghĩa bóng) cái đảm bảo để đạt được (cái gì)
+@Chuyên ngành kinh tế
+-giấy thông hành
+-hộ chiếu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hộ chiếu

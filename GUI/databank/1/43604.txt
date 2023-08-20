@@ -1,3 +1,2 @@
-primality
-	@primality\n- xem primal
-
+primality	@primality
+- xem primal

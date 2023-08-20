@@ -1,3 +1,2 @@
-birding
-	@birding\n- xem bird
-
+birding	@birding
+- xem bird

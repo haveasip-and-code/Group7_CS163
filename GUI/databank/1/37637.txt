@@ -1,3 +1,16 @@
-offal
-	@offal /offal/\n*  danh từ\n- đồ vứt đi, đồ bỏ di, đồ thừa\n- rác rưởi\n- cá rẻ tiền\n- (số nhiều) cám, tấm, bổi; cặn bã\n- những phần cắt bỏ (của con vật như ruột, đầu, đuôi...)\n- thịt thối rữa; thú vật chết thối\n- (định ngữ) tồi, loại kém\n=offal milk+ sữa loại tồi\n=offal wheat+ lúa mì loại kém\n@Chuyên ngành kinh tế\n-bổi\n-cám\n-phế phẩm nghiền\n-tấm
-
+offal	@offal /offal/
+*  danh từ
+- đồ vứt đi, đồ bỏ di, đồ thừa
+- rác rưởi
+- cá rẻ tiền
+- (số nhiều) cám, tấm, bổi; cặn bã
+- những phần cắt bỏ (của con vật như ruột, đầu, đuôi...)
+- thịt thối rữa; thú vật chết thối
+- (định ngữ) tồi, loại kém
+=offal milk+ sữa loại tồi
+=offal wheat+ lúa mì loại kém
+@Chuyên ngành kinh tế
+-bổi
+-cám
+-phế phẩm nghiền
+-tấm

@@ -1,3 +1,5 @@
-footwear
-	@footwear\n- Cách viết khác : footgear\n@Chuyên ngành kinh tế\n-giày dép
-
+footwear	
+@footwear
+- Cách viết khác : footgear
+@Chuyên ngành kinh tế
+-giày dép

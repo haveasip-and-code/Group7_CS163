@@ -1,3 +1,3 @@
-strippable
-	@Chuyên ngành kỹ thuật\n-dễ bong\n-dễ tróc
-
+strippable	@Chuyên ngành kỹ thuật
+-dễ bong
+-dễ tróc

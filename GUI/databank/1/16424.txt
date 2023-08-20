@@ -1,3 +1,27 @@
-dolly
-	@dolly /'dɔli/\n*  danh từ\n- bé búp bê (tiếng gọi nựng búp bê)\n- gậy khuấy (quần áo trong chậu giặt, quặng trong thùng rửa...)\n- giùi khoan sắt\n- búa tan đinh\n- bàn chải để đánh bóng\n@Chuyên ngành kinh tế\n-bệ di động\n-lợn con còi cọc\n-xe đổ liệu\n@Chuyên ngành kỹ thuật\n-bệ quay\n-đe (tán đinh)\n-đệm cọc\n-giá quay\n-khối kết\n-khung quay\n-khuôn dỡ dập\n-khuôn rèn tròn\n-lớp giữa đệm\n-xe đẩy, xe kéo\n@Lĩnh vực: giao thông & vận tải\n-bệ bẻ ghi\n@Lĩnh vực: xây dựng\n-cọc đệm
-
+dolly	
+@dolly /'dɔli/
+*  danh từ
+- bé búp bê (tiếng gọi nựng búp bê)
+- gậy khuấy (quần áo trong chậu giặt, quặng trong thùng rửa...)
+- giùi khoan sắt
+- búa tan đinh
+- bàn chải để đánh bóng
+@Chuyên ngành kinh tế
+-bệ di động
+-lợn con còi cọc
+-xe đổ liệu
+@Chuyên ngành kỹ thuật
+-bệ quay
+-đe (tán đinh)
+-đệm cọc
+-giá quay
+-khối kết
+-khung quay
+-khuôn dỡ dập
+-khuôn rèn tròn
+-lớp giữa đệm
+-xe đẩy, xe kéo
+@Lĩnh vực: giao thông & vận tải
+-bệ bẻ ghi
+@Lĩnh vực: xây dựng
+-cọc đệm

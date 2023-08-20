@@ -1,3 +1,2 @@
-cashing
-	@Chuyên ngành kinh tế\n-sự thu tiền
-
+cashing	@Chuyên ngành kinh tế
+-sự thu tiền

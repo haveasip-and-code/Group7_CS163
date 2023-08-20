@@ -1,3 +1,6 @@
-lookup
-	@lookup\n* danh từ\n- (tin học) sự truy tìm thông tin; sự tra cứu\n= Lookup table+Bảng tra cứu\n@Chuyên ngành kỹ thuật\n-sự dò tìm
-
+lookup	@lookup
+* danh từ
+- (tin học) sự truy tìm thông tin; sự tra cứu
+= Lookup table+Bảng tra cứu
+@Chuyên ngành kỹ thuật
+-sự dò tìm

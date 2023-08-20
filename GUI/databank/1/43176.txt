@@ -1,3 +1,2 @@
-preferrer
-	@preferrer\n- xem prefer
-
+preferrer	@preferrer
+- xem prefer

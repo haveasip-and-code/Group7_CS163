@@ -1,3 +1,7 @@
-photodetector
-	@photodetector\n* danh từ\n- bộ tách sóng quang\n@Chuyên ngành kỹ thuật\n-bộ tách sóng quang\n@Lĩnh vực: hóa học & vật liệu\n-quang đetectơ
-
+photodetector	@photodetector
+* danh từ
+- bộ tách sóng quang
+@Chuyên ngành kỹ thuật
+-bộ tách sóng quang
+@Lĩnh vực: hóa học & vật liệu
+-quang đetectơ

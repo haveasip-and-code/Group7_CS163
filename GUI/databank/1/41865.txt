@@ -1,3 +1,9 @@
-planetarium
-	@planetarium /,plæni'teəriəm/\n*  danh từ,  số nhiều planetaria  /,plæni'teəriə/\n- cung thiên văn\n- mô hình vũ tr\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-đài thiên văn\n@Lĩnh vực: xây dựng\n-trạm thiên văn
-
+planetarium	@planetarium /,plæni'teəriəm/
+*  danh từ,  số nhiều planetaria  /,plæni'teəriə/
+- cung thiên văn
+- mô hình vũ tr
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-đài thiên văn
+@Lĩnh vực: xây dựng
+-trạm thiên văn

@@ -1,3 +1,10 @@
-paperwork
-	@paperwork\n* danh từ\n- công việc giấy tờ\n@Chuyên ngành kinh tế\n-công việc bàn giấy\n-giấy má (hành chính)\n-giấy má sổ sách\n-giấy tờ (các văn kiện, chứng từ)\n-giấy tờ kế toán\n-văn phòng
-
+paperwork	@paperwork
+* danh từ
+- công việc giấy tờ
+@Chuyên ngành kinh tế
+-công việc bàn giấy
+-giấy má (hành chính)
+-giấy má sổ sách
+-giấy tờ (các văn kiện, chứng từ)
+-giấy tờ kế toán
+-văn phòng

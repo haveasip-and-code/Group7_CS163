@@ -1,3 +1,8 @@
-telemetering
-	@Chuyên ngành kỹ thuật\n-đo lường từ xa\n-đo từ xa\n-sự đo xa\n-việc truyền dữ liệu\n-viễn trắc\n@Lĩnh vực: điện lạnh\n-sự đo lường xa
-
+telemetering	@Chuyên ngành kỹ thuật
+-đo lường từ xa
+-đo từ xa
+-sự đo xa
+-việc truyền dữ liệu
+-viễn trắc
+@Lĩnh vực: điện lạnh
+-sự đo lường xa

@@ -1,3 +1,25 @@
-tale
-	@tale /teil/\n*  danh từ\n- truyện, truyện ngắn\n=tale of adventure+ truyện phiêu lưu mạo hiểm\n- chuyện bịa đặt, chuyện nói xấu\n- (từ cổ,nghĩa cổ) số lượng\n!to tell tales\n- mách lẻo\n!that tells its own tale\n- điều ấy đã rõ rồi, miễn phê bình\n!twice-told tale\n- chuyện cũ rích\n!I want to tell my own tale\n- tôi muốn nói lên quan điểm của tôi về vấn đề đó\n@Chuyên ngành kinh tế\n-con số\n-số cái\n-số cái (để chỉ về số lượng gia súc)\n-sổ cái (để chỉ về số lượng gia súc)\n-số con\n-sổ con\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tan (đá phiến tan)\n-xoa bột tan
-
+tale	@tale /teil/
+*  danh từ
+- truyện, truyện ngắn
+=tale of adventure+ truyện phiêu lưu mạo hiểm
+- chuyện bịa đặt, chuyện nói xấu
+- (từ cổ,nghĩa cổ) số lượng
+!to tell tales
+- mách lẻo
+!that tells its own tale
+- điều ấy đã rõ rồi, miễn phê bình
+!twice-told tale
+- chuyện cũ rích
+!I want to tell my own tale
+- tôi muốn nói lên quan điểm của tôi về vấn đề đó
+@Chuyên ngành kinh tế
+-con số
+-số cái
+-số cái (để chỉ về số lượng gia súc)
+-sổ cái (để chỉ về số lượng gia súc)
+-số con
+-sổ con
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tan (đá phiến tan)
+-xoa bột tan

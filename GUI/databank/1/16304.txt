@@ -1,3 +1,4 @@
-divulger
-	@divulger\n* danh từ\n- người tiết lộ
-
+divulger	
+@divulger
+* danh từ
+- người tiết lộ

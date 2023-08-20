@@ -1,3 +1,10 @@
-proteus
-	@proteus /proteus/\n*  danh từ\n- (thần thoại,thần học) thần Prô-tê\n- người hay thay đổi, người không kiên định\n- vật hay thay đổi, vật hay biến dạng\n- (sinh vật học), (nghĩa cũ) Amip\n- (sinh vật học) vi khuẩn protêut\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vi khuẩn hình que, gtam âm, di động
-
+proteus	@proteus /proteus/
+*  danh từ
+- (thần thoại,thần học) thần Prô-tê
+- người hay thay đổi, người không kiên định
+- vật hay thay đổi, vật hay biến dạng
+- (sinh vật học), (nghĩa cũ) Amip
+- (sinh vật học) vi khuẩn protêut
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vi khuẩn hình que, gtam âm, di động

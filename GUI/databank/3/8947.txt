@@ -1,3 +1,13 @@
-chemistry
-	@chemistry /'kemistri/\n*  danh từ\n- ngành hoá học; môn hoá học, hoá học\n=analytic chemistry+ hoá phân tích\n=synthetic chemistry+ hoá tổng hợp\n=organic chemistry+ hoá hữu cơ\n=inorgamic (mineral) chemistry+ hoá vô cơ\n=pharmaceutical chemistry+ hoá dược\n@Chuyên ngành kinh tế\n-môn hóa học\n-ngành hóa học\n@Chuyên ngành kỹ thuật\n-hóa học
-
+chemistry	@chemistry /'kemistri/
+*  danh từ
+- ngành hoá học; môn hoá học, hoá học
+=analytic chemistry+ hoá phân tích
+=synthetic chemistry+ hoá tổng hợp
+=organic chemistry+ hoá hữu cơ
+=inorgamic (mineral) chemistry+ hoá vô cơ
+=pharmaceutical chemistry+ hoá dược
+@Chuyên ngành kinh tế
+-môn hóa học
+-ngành hóa học
+@Chuyên ngành kỹ thuật
+-hóa học

@@ -1,3 +1,40 @@
-tube
-	@tube /tju:b/\n*  danh từ\n- ống\n=steel tube+ ống thép\n- săm (ô tô...) ((cũng) inner tube)\n- tàu điện ngầm\n- rađiô ống điện tử\n- (thực vật học) ống tràng (của hoa)\n*  ngoại động từ\n- đặt ống; gắn ống (vào nồi hơi)\n- làm cho thành hình ống, gò thành ống\n@Chuyên ngành kinh tế\n-ống\n-ống kim loại mềm\n-ống nghiệm\n-ống nhỏ\n@Chuyên ngành kỹ thuật\n-đặt ống\n-đèn\n-đèn điện tử\n-đèn ống\n-đường hầm\n-đường ống\n-đường tàu điện ngầm\n-ống\n-ống cứng\n-ống dẫn\n-ống mềm\n-ống nhỏ\n-ruột xe\n-săm (ô tô)\n@Lĩnh vực: xây dựng\n-hầm tàu điện ngầm\n@Lĩnh vực: hóa học & vật liệu\n-ống, đèn\n-vật hình ống\n@Lĩnh vực: điện\n-săm ô tô\n@Lĩnh vực: y học\n-vòi, ống
-
+tube	@tube /tju:b/
+*  danh từ
+- ống
+=steel tube+ ống thép
+- săm (ô tô...) ((cũng) inner tube)
+- tàu điện ngầm
+- rađiô ống điện tử
+- (thực vật học) ống tràng (của hoa)
+*  ngoại động từ
+- đặt ống; gắn ống (vào nồi hơi)
+- làm cho thành hình ống, gò thành ống
+@Chuyên ngành kinh tế
+-ống
+-ống kim loại mềm
+-ống nghiệm
+-ống nhỏ
+@Chuyên ngành kỹ thuật
+-đặt ống
+-đèn
+-đèn điện tử
+-đèn ống
+-đường hầm
+-đường ống
+-đường tàu điện ngầm
+-ống
+-ống cứng
+-ống dẫn
+-ống mềm
+-ống nhỏ
+-ruột xe
+-săm (ô tô)
+@Lĩnh vực: xây dựng
+-hầm tàu điện ngầm
+@Lĩnh vực: hóa học & vật liệu
+-ống, đèn
+-vật hình ống
+@Lĩnh vực: điện
+-săm ô tô
+@Lĩnh vực: y học
+-vòi, ống

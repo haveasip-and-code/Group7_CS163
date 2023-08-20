@@ -1,3 +1,6 @@
-computable
-	@computable /kəm'pju:təbl/\n*  tính từ\n- có thể tính, có thể tính toán, có thể ước tính\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể tính được
-
+computable	@computable /kəm'pju:təbl/
+*  tính từ
+- có thể tính, có thể tính toán, có thể ước tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể tính được

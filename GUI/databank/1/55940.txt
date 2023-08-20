@@ -1,3 +1,20 @@
-tenacity
-	@tenacity /ti'neiʃəsnis/ (tenacity) /ti'næsiti/\n*  danh từ\n- tính chất dai, tính chất bền, tính bám chặt\n- tính bền bỉ, tính dẻo dai, tính ngoan cường, tính kiên trì\n- tính gan lì, tính ngoan cố\n@Chuyên ngành kinh tế\n-độ dính\n-độ nhớt\n-độ quánh\n@Chuyên ngành kỹ thuật\n-độ bám chắc\n-độ bền\n-độ bền đứt\n-độ dai\n-độ nhớt\n-khả năng chống gãy\n-lực dính\n-tính rèn được\n@Lĩnh vực: y học\n-tính dai bền
-
+tenacity	@tenacity /ti'neiʃəsnis/ (tenacity) /ti'næsiti/
+*  danh từ
+- tính chất dai, tính chất bền, tính bám chặt
+- tính bền bỉ, tính dẻo dai, tính ngoan cường, tính kiên trì
+- tính gan lì, tính ngoan cố
+@Chuyên ngành kinh tế
+-độ dính
+-độ nhớt
+-độ quánh
+@Chuyên ngành kỹ thuật
+-độ bám chắc
+-độ bền
+-độ bền đứt
+-độ dai
+-độ nhớt
+-khả năng chống gãy
+-lực dính
+-tính rèn được
+@Lĩnh vực: y học
+-tính dai bền

@@ -1,3 +1,8 @@
-macroinstruction
-	@macroinstruction\n* danh từ\n- (tin học) lệnh macro, lệnh gộp\n@Chuyên ngành kỹ thuật\n-lệnh macro\n-lệnh tổng quát\n@Lĩnh vực: toán & tin\n-lệnh gộp
-
+macroinstruction	@macroinstruction
+* danh từ
+- (tin học) lệnh macro, lệnh gộp
+@Chuyên ngành kỹ thuật
+-lệnh macro
+-lệnh tổng quát
+@Lĩnh vực: toán & tin
+-lệnh gộp

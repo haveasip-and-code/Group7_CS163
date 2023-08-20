@@ -1,3 +1,13 @@
-ellipsoidal
-	@ellipsoidal\n- xem ellipsoid\n@Chuyên ngành kỹ thuật\n-elipsoit\n@Lĩnh vực: toán & tin\n-elipsodal\n-elipxoidan\n@Chuyên ngành kỹ thuật\n-elipsoit\n@Lĩnh vực: toán & tin\n-elipsodal\n-elipxoidan
-
+ellipsoidal	
+@ellipsoidal
+- xem ellipsoid
+@Chuyên ngành kỹ thuật
+-elipsoit
+@Lĩnh vực: toán & tin
+-elipsodal
+-elipxoidan
+@Chuyên ngành kỹ thuật
+-elipsoit
+@Lĩnh vực: toán & tin
+-elipsodal
+-elipxoidan

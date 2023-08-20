@@ -1,3 +1,6 @@
-dissolved
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bị hòa tan\n-bị nóng chảy\n-được hòa tan
-
+dissolved	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bị hòa tan
+-bị nóng chảy
+-được hòa tan

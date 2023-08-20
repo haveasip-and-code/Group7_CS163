@@ -1,3 +1,2 @@
-ole
-	@ole\n- liên kết và nhúng đối tượng (Object Linking and Embedding)
-
+ole	@ole
+- liên kết và nhúng đối tượng (Object Linking and Embedding)

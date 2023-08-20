@@ -1,3 +1,26 @@
-barge
-	@barge /bɑ:dʤ/\n*  danh từ\n- sà lan\n- xuồng lớn của ban chỉ huy (trên tàu chiến)\n- thuyền rỗng\n- thuyền mui\n*  nội động từ\n- barge in xâm nhập, đột nhập\n- barge into (against) xô phải, va phải\n*  ngoại động từ\n- chở bằng thuyền\n@Chuyên ngành kinh tế\n-sà-lan\n-tàu bốc dỡ hàng\n-tàu nhỏ cất hàng\n-xà lan\n@Chuyên ngành kỹ thuật\n-chở bằng thuyền\n-xà lan\n-xuồng lớn\n@Lĩnh vực: giao thông & vận tải\n-sà lan (kiểu tàu)\n@Lĩnh vực: xây dựng\n-va phải
-
+barge	
+@barge /bɑ:dʤ/
+*  danh từ
+- sà lan
+- xuồng lớn của ban chỉ huy (trên tàu chiến)
+- thuyền rỗng
+- thuyền mui
+*  nội động từ
+- barge in xâm nhập, đột nhập
+- barge into (against) xô phải, va phải
+*  ngoại động từ
+- chở bằng thuyền
+@Chuyên ngành kinh tế
+-sà
+-lan
+-tàu bốc dỡ hàng
+-tàu nhỏ cất hàng
+-xà lan
+@Chuyên ngành kỹ thuật
+-chở bằng thuyền
+-xà lan
+-xuồng lớn
+@Lĩnh vực: giao thông & vận tải
+-sà lan (kiểu tàu)
+@Lĩnh vực: xây dựng
+-va phải

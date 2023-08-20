@@ -1,3 +1,2 @@
-stymy
-	@stymy\n- xem stymie
-
+stymy	@stymy
+- xem stymie

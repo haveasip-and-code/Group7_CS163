@@ -1,3 +1,5 @@
-homonuclear
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-đồng hạch\n-đông nhân
-
+homonuclear	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đồng hạch
+-đông nhân

@@ -1,3 +1,10 @@
-multimodal
-	@multimodal\n- (xác suất) nhiều mốt\n@Chuyên ngành kinh tế\n-đa mô thức\n-kết hợp nhiều hình thức\n-liên vận\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đa chế độ\n-nhiều mốt
-
+multimodal	@multimodal
+- (xác suất) nhiều mốt
+@Chuyên ngành kinh tế
+-đa mô thức
+-kết hợp nhiều hình thức
+-liên vận
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đa chế độ
+-nhiều mốt

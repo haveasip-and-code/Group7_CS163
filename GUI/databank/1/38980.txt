@@ -1,3 +1,5 @@
-overstressed
-	@Chuyên ngành kỹ thuật\n-ứng suất vượt tải\n@Lĩnh vực: xây dựng\n-quá căng\n-ứng suất quá lớn
-
+overstressed	@Chuyên ngành kỹ thuật
+-ứng suất vượt tải
+@Lĩnh vực: xây dựng
+-quá căng
+-ứng suất quá lớn

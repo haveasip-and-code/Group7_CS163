@@ -1,3 +1,7 @@
-demultiplexer
-	@demultiplexer\n- (Tech) bộ phân đa kênh\n@Chuyên ngành kỹ thuật\n-bộ phân kênh\n-bộ tách kênh\n@Lĩnh vực: điện lạnh\n-bộ phận kênh
-
+demultiplexer	@demultiplexer
+- (Tech) bộ phân đa kênh
+@Chuyên ngành kỹ thuật
+-bộ phân kênh
+-bộ tách kênh
+@Lĩnh vực: điện lạnh
+-bộ phận kênh

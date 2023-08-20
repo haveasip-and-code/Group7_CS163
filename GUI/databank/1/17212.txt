@@ -1,3 +1,9 @@
-earthly
-	@earthly /'ə:θli/\n*  tính từ\n- (thuộc) quả đất\n- trần tục\n- (thông tục) có thể, có thể tưởng tượng được\n=no earthly reason+ chả có chút lý do nào\n=no earthly use+ không có chút tác dụng nào\n!not an earthly\n- (từ lóng) đừng hòng thành công
-
+earthly	
+@earthly /'ə:θli/
+*  tính từ
+- (thuộc) quả đất
+- trần tục
+- (thông tục) có thể, có thể tưởng tượng được=no earthly reason
++ chả có chút lý do nào=no earthly use
++ không có chút tác dụng nào!not an earthly
+- (từ lóng) đừng hòng thành công

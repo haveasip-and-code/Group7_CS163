@@ -1,3 +1,28 @@
-machinery
-	@machinery /mə'ʃi:nəri/\n*  danh từ\n- máy móc, máy\n- cách cấu tạo, cơ cấu các bộ phận máy\n- (nghĩa bóng) bộ máy, cơ quan\n=the machinery of government+ bộ máy chính quyền\n- (sân khấu) thiết bị sân khấu\n@Chuyên ngành kinh tế\n-bộ máy\n-bộ phận máy móc\n-buồng máy\n-cơ cấu\n-cơ cấu, bộ máy\n-cơ giới máy móc\n-cơ giới, máy móc\n-cơ khí\n-cơ quan\n-đoàn thể\n-guồng máy\n-máy\n-thiết bị\n-tổ chức\n@Chuyên ngành kỹ thuật\n-máy (móc)\n-máy móc\n-thiết bị\n@Lĩnh vực: cơ khí & công trình\n-hệ thống máy
-
+machinery	@machinery /mə'ʃi:nəri/
+*  danh từ
+- máy móc, máy
+- cách cấu tạo, cơ cấu các bộ phận máy
+- (nghĩa bóng) bộ máy, cơ quan
+=the machinery of government+ bộ máy chính quyền
+- (sân khấu) thiết bị sân khấu
+@Chuyên ngành kinh tế
+-bộ máy
+-bộ phận máy móc
+-buồng máy
+-cơ cấu
+-cơ cấu, bộ máy
+-cơ giới máy móc
+-cơ giới, máy móc
+-cơ khí
+-cơ quan
+-đoàn thể
+-guồng máy
+-máy
+-thiết bị
+-tổ chức
+@Chuyên ngành kỹ thuật
+-máy (móc)
+-máy móc
+-thiết bị
+@Lĩnh vực: cơ khí & công trình
+-hệ thống máy

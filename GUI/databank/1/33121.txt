@@ -1,3 +1,2 @@
-mack
-	@mack\n- xem mackintosh
-
+mack	@mack
+- xem mackintosh

@@ -1,3 +1,8 @@
-clouding
-	@Chuyên ngành kỹ thuật\n-sự tạo bóng\n-sự tạo hình bóng\n@Lĩnh vực: hóa học & vật liệu\n-chất lỏng vẩn đục\n@Lĩnh vực: y học\n-u ám
-
+clouding	
+@Chuyên ngành kỹ thuật
+-sự tạo bóng
+-sự tạo hình bóng
+@Lĩnh vực: hóa học & vật liệu
+-chất lỏng vẩn đục
+@Lĩnh vực: y học
+-u ám

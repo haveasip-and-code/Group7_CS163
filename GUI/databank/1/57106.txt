@@ -1,3 +1,33 @@
-total
-	@total /'toutl/\n*  tính từ\n- tổng cộng, toàn bộ\n=total war+ chiến tranh tổng lực\n- hoàn toàn\n=total failure+ sự thất bại hoàn toàn\n*  danh từ\n- tổng số, toàn bộ\n=to reach a total of...+ đạt đến tổng số...\n*  ngoại động từ\n- cộng, cộng lại\n=to total the expenses+ cộng các món chi tiêu\n- lên tới, tổng số lên tới\n=the costs totalled 550d+ chi phí lên tới 550 đồng\n=the visitors to the exhibition totalled 15,000+ số người xem triển lãm lên tới 15 000\n!to total up to\n- lên tới, tổng số lên tới\n@Chuyên ngành kinh tế\n-cộng\n-toàn bộ\n-toàn thể\n-tổng\n-tổng cộng\n-tổng cộng (các khoản chi...)\n-tổng ngạch\n-tổng số\n@Chuyên ngành kỹ thuật\n-toàn bộ\n@Lĩnh vực: toán & tin\n-cộng lại\n-thực hiện tổng\n@Lĩnh vực: điện\n-tổng (số)
-
+total	@total /'toutl/
+*  tính từ
+- tổng cộng, toàn bộ
+=total war+ chiến tranh tổng lực
+- hoàn toàn
+=total failure+ sự thất bại hoàn toàn
+*  danh từ
+- tổng số, toàn bộ
+=to reach a total of...+ đạt đến tổng số...
+*  ngoại động từ
+- cộng, cộng lại
+=to total the expenses+ cộng các món chi tiêu
+- lên tới, tổng số lên tới
+=the costs totalled 550d+ chi phí lên tới 550 đồng
+=the visitors to the exhibition totalled 15,000+ số người xem triển lãm lên tới 15 000
+!to total up to
+- lên tới, tổng số lên tới
+@Chuyên ngành kinh tế
+-cộng
+-toàn bộ
+-toàn thể
+-tổng
+-tổng cộng
+-tổng cộng (các khoản chi...)
+-tổng ngạch
+-tổng số
+@Chuyên ngành kỹ thuật
+-toàn bộ
+@Lĩnh vực: toán & tin
+-cộng lại
+-thực hiện tổng
+@Lĩnh vực: điện
+-tổng (số)

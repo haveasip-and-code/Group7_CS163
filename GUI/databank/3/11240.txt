@@ -1,3 +1,59 @@
-connection
-	@connection /kə'nekʃn/\n*  danh từ\n- sự liên quan, sự liên lạc, mối quan hệ; sự chấp nối\n=to have a connection with+ có quan hệ với\n- sự mạch lạc\n=there is no connection in his speech+ bài nói của anh ta chẳng có mạch lạc gì cả\n- sự giao thiệp, sự kết giao\n=to form a connection with someone+ giao thiệp với ai\n=to break off a connection+ tuyệt đường giao thiệp, tuyệt giao\n- bà con, họ hàng, thân thuộc\n=he is a connection of mine+ anh ta là người bà con của tôi\n- (tôn giáo) phái, giáo phái\n- (thương nghiệp) khách hàng\n=shop has a good (wide) connection+ cửa hàng đông khách\n- tàu xe chạy nối tiếp (tiếp vận với những tàu xe khác)\n=to miss the connection+ nhỡ mất chuyến xe chạy nối tiếp\n- vật (để) nối; chỗ nối (hai ống nối với nhau)\n!in that connection\n- về điều đó, liên quan đến điều đó\n!in connection with\n- có quan hệ với, có liên quan với, có dính líu tới\n- chạy nối tiếp với (tàu xe)\n@Chuyên ngành kinh tế\n-chấp nối\n-liên lạc\n-liên vận\n-mối quan hệ\n-sự liên quan\n-tàu xe chạy nối tiếp\n-tiếp vận\n@Chuyên ngành kỹ thuật\n-chi tiết nối\n-đường liên kết\n-đường nối\n-ghép nối\n-khớp liên kết\n-khớp nối\n-nối\n-mạch nối\n-mối ghép\n-mối nối\n-ống nối\n-sơ đồ\n-sự đấu dây\n-sự ghép\n-sự ghép nối\n-sự kết hợp\n-sự kết nối\n-sự liên hệ\n-sự liên kết\n-sự mắc\n-sự nối\n-sự nối dây\n-sự nối điện\n-sự nối tiếp\n@Lĩnh vực: xây dựng\n-sự nối mối nối\n@Lĩnh vực: toán & tin\n-tính liên thông
-
+connection	@connection /kə'nekʃn/
+*  danh từ
+- sự liên quan, sự liên lạc, mối quan hệ; sự chấp nối
+=to have a connection with+ có quan hệ với
+- sự mạch lạc
+=there is no connection in his speech+ bài nói của anh ta chẳng có mạch lạc gì cả
+- sự giao thiệp, sự kết giao
+=to form a connection with someone+ giao thiệp với ai
+=to break off a connection+ tuyệt đường giao thiệp, tuyệt giao
+- bà con, họ hàng, thân thuộc
+=he is a connection of mine+ anh ta là người bà con của tôi
+- (tôn giáo) phái, giáo phái
+- (thương nghiệp) khách hàng
+=shop has a good (wide) connection+ cửa hàng đông khách
+- tàu xe chạy nối tiếp (tiếp vận với những tàu xe khác)
+=to miss the connection+ nhỡ mất chuyến xe chạy nối tiếp
+- vật (để) nối; chỗ nối (hai ống nối với nhau)
+!in that connection
+- về điều đó, liên quan đến điều đó
+!in connection with
+- có quan hệ với, có liên quan với, có dính líu tới
+- chạy nối tiếp với (tàu xe)
+@Chuyên ngành kinh tế
+-chấp nối
+-liên lạc
+-liên vận
+-mối quan hệ
+-sự liên quan
+-tàu xe chạy nối tiếp
+-tiếp vận
+@Chuyên ngành kỹ thuật
+-chi tiết nối
+-đường liên kết
+-đường nối
+-ghép nối
+-khớp liên kết
+-khớp nối
+-nối
+-mạch nối
+-mối ghép
+-mối nối
+-ống nối
+-sơ đồ
+-sự đấu dây
+-sự ghép
+-sự ghép nối
+-sự kết hợp
+-sự kết nối
+-sự liên hệ
+-sự liên kết
+-sự mắc
+-sự nối
+-sự nối dây
+-sự nối điện
+-sự nối tiếp
+@Lĩnh vực: xây dựng
+-sự nối mối nối
+@Lĩnh vực: toán & tin
+-tính liên thông

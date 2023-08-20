@@ -1,3 +1,18 @@
-reward
-	@reward /ri'wɔ:d/\n*  danh từ\n- sự thưởng, sự thưởng công; sự báo ơn, sự báo oán\n- tiền thưởng, vật thưởng (cho ai bắt được tội phạm...)\n- sự hoàn lại tài sản mất\n*  ngoại động từ\n- thưởng, thưởng công; báo ơn, báo oán\n@Chuyên ngành kinh tế\n-phần thưởng\n-thưởng\n-tiền hoa hồng\n-tiền thưởng\n-trả công\n-trả thù lao\n@Chuyên ngành kỹ thuật\n-thù lao\n@Lĩnh vực: giao thông & vận tải\n-thưởng
-
+reward	@reward /ri'wɔ:d/
+*  danh từ
+- sự thưởng, sự thưởng công; sự báo ơn, sự báo oán
+- tiền thưởng, vật thưởng (cho ai bắt được tội phạm...)
+- sự hoàn lại tài sản mất
+*  ngoại động từ
+- thưởng, thưởng công; báo ơn, báo oán
+@Chuyên ngành kinh tế
+-phần thưởng
+-thưởng
+-tiền hoa hồng
+-tiền thưởng
+-trả công
+-trả thù lao
+@Chuyên ngành kỹ thuật
+-thù lao
+@Lĩnh vực: giao thông & vận tải
+-thưởng

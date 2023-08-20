@@ -1,3 +1,2 @@
-molal
-	@Chuyên ngành kỹ thuật\n-mol
-
+molal	@Chuyên ngành kỹ thuật
+-mol

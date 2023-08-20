@@ -1,3 +1,2 @@
-clamberer
-	@clamberer\n- xem clamber
-
+clamberer	@clamberer
+- xem clamber

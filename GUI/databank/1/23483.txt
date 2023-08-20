@@ -1,3 +1,20 @@
-given
-	@given /'givn/\n*  động tính từ quá khứ của give\n*  tính từ\n- đề ngày (tài liệu, văn kiện)\n=given under my hand at the Department of Home Affairs, the 17th of May 1965+ do tôi đề ngày và ký tại Bộ Nội vụ ngày 17 tháng 5 năm 1965\n- nếu\n=given good weather I'll go for a walk+ nếu thời tiết tốt tôi sẽ đi chơi\n- đã quy định; (toán học) đã cho\n=at a given time and place+ vào lúc và nơi đã quy định\n=a given number+ (toán học) số đã cho\n- có xu hướng, quen thói\n=given to boasting+ quen thói khoe khoang khoác lác\n!given in\n- thêm vào coi như phụ lục, thêm vào coi như bổ sung\n!given name\n- (từ Mỹ,nghĩa Mỹ) tên thánh\n@Chuyên ngành kỹ thuật\n-đã cho\n-xác định\n@Lĩnh vực: hóa học & vật liệu\n-đang xét
-
+given	
+@given /'givn/
+*  động tính từ quá khứ của give
+*  tính từ
+- đề ngày (tài liệu, văn kiện)=given under my hand at the Department of Home Affairs, the 17th of May 1965
++ do tôi đề ngày và ký tại Bộ Nội vụ ngày 17 tháng 5 năm 1965
+- nếu=given good weather I'll go for a walk
++ nếu thời tiết tốt tôi sẽ đi chơi
+- đã quy định; (toán học) đã cho=at a given time and place
++ vào lúc và nơi đã quy định=a given number
++ (toán học) số đã cho
+- có xu hướng, quen thói=given to boasting
++ quen thói khoe khoang khoác lác!given in
+- thêm vào coi như phụ lục, thêm vào coi như bổ sung!given name
+- (từ Mỹ,nghĩa Mỹ) tên thánh
+@Chuyên ngành kỹ thuật
+-đã cho
+-xác định
+@Lĩnh vực: hóa học & vật liệu
+-đang xét

@@ -1,3 +1,2 @@
-addible
-	@addible\n- xem add
-
+addible	@addible
+- xem add

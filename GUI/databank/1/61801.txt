@@ -1,3 +1,9 @@
-vile
-	@vile /vail/\n*  tính từ\n- hèn hạ, đê hèn\n=vile language+ giọng lưỡi hèn hạ\n=vile offence+ sự xúc phạm đê hèn\n- tồi, kém, không có giá trị\n- (thông tục) thật là xấu, khó chịu\n=vile weather+ thời tiết thật là xấu\n=a vile temper+ tính tình khó chịu
-
+vile	@vile /vail/
+*  tính từ
+- hèn hạ, đê hèn
+=vile language+ giọng lưỡi hèn hạ
+=vile offence+ sự xúc phạm đê hèn
+- tồi, kém, không có giá trị
+- (thông tục) thật là xấu, khó chịu
+=vile weather+ thời tiết thật là xấu
+=a vile temper+ tính tình khó chịu

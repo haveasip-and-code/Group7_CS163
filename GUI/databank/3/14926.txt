@@ -1,3 +1,2 @@
-deterministically
-	@deterministically\n- xem determinism
-
+deterministically	@deterministically
+- xem determinism

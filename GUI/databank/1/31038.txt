@@ -1,3 +1,13 @@
-kitchen
-	@kitchen\n* danh từ\n- phòng bếp, nhà bếp\n@Chuyên ngành kinh tế\n-nhà bếp\n@Chuyên ngành kỹ thuật\n-bếp\n@Lĩnh vực: xây dựng\n-nhà bếp\n@Chuyên ngành kỹ thuật\n-bếp\n@Lĩnh vực: xây dựng\n-nhà bếp
-
+kitchen	@kitchen
+* danh từ
+- phòng bếp, nhà bếp
+@Chuyên ngành kinh tế
+-nhà bếp
+@Chuyên ngành kỹ thuật
+-bếp
+@Lĩnh vực: xây dựng
+-nhà bếp
+@Chuyên ngành kỹ thuật
+-bếp
+@Lĩnh vực: xây dựng
+-nhà bếp

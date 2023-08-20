@@ -1,3 +1,7 @@
-ignitron
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-đèn inhitron\n-đèn initrôn\n@Lĩnh vực: điện lạnh\n-đèn initron
-
+ignitron	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-đèn inhitron
+-đèn initrôn
+@Lĩnh vực: điện lạnh
+-đèn initron

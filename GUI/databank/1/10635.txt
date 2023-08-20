@@ -1,3 +1,19 @@
-comparator
-	@comparator\n- (Tech) mạch so (sánh); bộ so (sánh)\n@Chuyên ngành kinh tế\n-dụng cụ so\n-máy so\n@Chuyên ngành kỹ thuật\n-bộ so\n-bộ so sánh\n-mạch đo\n-mạch so sánh\n-máy đối chiếu\n-máy so\n-phần tử so sánh\n@Lĩnh vực: xây dựng\n-máy so mẫu\n-thi kế\n@Lĩnh vực: cơ khí & công trình\n-thiết bị so
-
+comparator	
+@comparator
+- (Tech) mạch so (sánh); bộ so (sánh)
+@Chuyên ngành kinh tế
+-dụng cụ so
+-máy so
+@Chuyên ngành kỹ thuật
+-bộ so
+-bộ so sánh
+-mạch đo
+-mạch so sánh
+-máy đối chiếu
+-máy so
+-phần tử so sánh
+@Lĩnh vực: xây dựng
+-máy so mẫu
+-thi kế
+@Lĩnh vực: cơ khí & công trình
+-thiết bị so

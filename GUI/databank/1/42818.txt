@@ -1,3 +1,2 @@
-potableness
-	@potableness\n- xem potable
-
+potableness	@potableness
+- xem potable

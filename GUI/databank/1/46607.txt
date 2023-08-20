@@ -1,3 +1,8 @@
-reliction
-	@Chuyên ngành kỹ thuật\n-sự rút\n@Lĩnh vực: cơ khí & công trình\n-hiện tượng biến thoái\n@Lĩnh vực: hóa học & vật liệu\n-sự biến thoái\n@Lĩnh vực: xây dựng\n-thủy thoái
-
+reliction	@Chuyên ngành kỹ thuật
+-sự rút
+@Lĩnh vực: cơ khí & công trình
+-hiện tượng biến thoái
+@Lĩnh vực: hóa học & vật liệu
+-sự biến thoái
+@Lĩnh vực: xây dựng
+-thủy thoái

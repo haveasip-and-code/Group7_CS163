@@ -1,3 +1,28 @@
-climb
-	@climb /klaim/\n*  danh từ\n- sự leo trèo\n- vật trèo qua; vật phải trèo lên\n*  ngoại động từ\n- leo, trèo, leo trèo\n*  nội động từ\n- lên, lên cao\n=the aeroplane climbed slowly+ máy bay từ từ lên\n- (thực vật học) leo (cây)\n- (nghĩa bóng) leo lên tới, trèo lên tới\n=to climb to a position+ leo lên tới một địa vị\n!to climb down\n- trèo xuống, tụt xuống\n- thoái bộ, thụt lùi, lùi lại\n- chịu thua, nhượng bộ\n@Chuyên ngành kỹ thuật\n-lên cao\n-leo từng nấc\n-nâng lên cao\n-sự lên cao\n@Lĩnh vực: giao thông & vận tải\n-hành trình lên\n-sự lấy độ cao\n@Lĩnh vực: cơ khí & công trình\n-sự lên dốc\n-sự leo\n-sự trườn lên (của đai)
-
+climb	@climb /klaim/
+*  danh từ
+- sự leo trèo
+- vật trèo qua; vật phải trèo lên
+*  ngoại động từ
+- leo, trèo, leo trèo
+*  nội động từ
+- lên, lên cao
+=the aeroplane climbed slowly+ máy bay từ từ lên
+- (thực vật học) leo (cây)
+- (nghĩa bóng) leo lên tới, trèo lên tới
+=to climb to a position+ leo lên tới một địa vị
+!to climb down
+- trèo xuống, tụt xuống
+- thoái bộ, thụt lùi, lùi lại
+- chịu thua, nhượng bộ
+@Chuyên ngành kỹ thuật
+-lên cao
+-leo từng nấc
+-nâng lên cao
+-sự lên cao
+@Lĩnh vực: giao thông & vận tải
+-hành trình lên
+-sự lấy độ cao
+@Lĩnh vực: cơ khí & công trình
+-sự lên dốc
+-sự leo
+-sự trườn lên (của đai)

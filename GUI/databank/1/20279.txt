@@ -1,3 +1,44 @@
-fade
-	@fade /'feid/\n*  nội động từ\n- héo đi, tàn đi (cây)\n- nhạt đi, phai đi (màu)\n- mất dần, mờ dần, biến dần\n*  ngoại động từ\n- làm phai màu, làm bạc màu\n- (điện ảnh) truyền hình\n=to fade in+ đưa (cảnh, âm thanh) vào dần\n=to fade out+ làm (ảnh) mờ dần\n- tăng (âm) thành không rõ nữa; giảm (âm) thành không rõ\n@Chuyên ngành kỹ thuật\n-làm mất màu\n-làm phai màu\n-làm phai tàn\n-phai\n-phải\n-phai màu\n-sự phai màu\n@Lĩnh vực: dệt may\n-mất màu\n@Lĩnh vực: xây dựng\n-mòn dần\n@Lĩnh vực: ô tô\n-sự mất phanh\n@Lĩnh vực: toán & tin\n-sự tàn lụi\n@Chuyên ngành kỹ thuật\n-làm mất màu\n-làm phai màu\n-làm phai tàn\n-phai\n-phải\n-phai màu\n-sự phai màu\n@Lĩnh vực: dệt may\n-mất màu\n@Lĩnh vực: xây dựng\n-mòn dần\n@Lĩnh vực: ô tô\n-sự mất phanh\n@Lĩnh vực: toán & tin\n-sự tàn lụi
-
+fade	
+@fade /'feid/
+*  nội động từ
+- héo đi, tàn đi (cây)
+- nhạt đi, phai đi (màu)
+- mất dần, mờ dần, biến dần
+*  ngoại động từ
+- làm phai màu, làm bạc màu
+- (điện ảnh) truyền hình=to fade in
++ đưa (cảnh, âm thanh) vào dần=to fade out
++ làm (ảnh) mờ dần
+- tăng (âm) thành không rõ nữa; giảm (âm) thành không rõ
+@Chuyên ngành kỹ thuật
+-làm mất màu
+-làm phai màu
+-làm phai tàn
+-phai
+-phải
+-phai màu
+-sự phai màu
+@Lĩnh vực: dệt may
+-mất màu
+@Lĩnh vực: xây dựng
+-mòn dần
+@Lĩnh vực: ô tô
+-sự mất phanh
+@Lĩnh vực: toán & tin
+-sự tàn lụi
+@Chuyên ngành kỹ thuật
+-làm mất màu
+-làm phai màu
+-làm phai tàn
+-phai
+-phải
+-phai màu
+-sự phai màu
+@Lĩnh vực: dệt may
+-mất màu
+@Lĩnh vực: xây dựng
+-mòn dần
+@Lĩnh vực: ô tô
+-sự mất phanh
+@Lĩnh vực: toán & tin
+-sự tàn lụi

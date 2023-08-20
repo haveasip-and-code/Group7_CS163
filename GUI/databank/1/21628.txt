@@ -1,3 +1,8 @@
-fluorspar
-	@fluorspar\n- xem fluorite\n@Chuyên ngành kỹ thuật\n-florit\n-flospat\n@Lĩnh vực: xây dựng\n-hoàng thạch
-
+fluorspar	
+@fluorspar
+- xem fluorite
+@Chuyên ngành kỹ thuật
+-florit
+-flospat
+@Lĩnh vực: xây dựng
+-hoàng thạch

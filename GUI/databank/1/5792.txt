@@ -1,3 +1,50 @@
-blade
-	@blade /bleid/\n*  danh từ\n- lưỡi (dao, kiếm)\n=a razor blade+ lưỡi dao cạo\n- lá (cỏ, lúa)\n- mái (chèo); cánh (chong chóng...)\n- thanh kiếm\n- xương dẹt ((cũng) blade bone)\n- (thực vật học) phiến (lá)\n- (thông tục) gã, anh chàng, thằng\n=a ơolly old blade+ một anh chàng vui nhộn\n=a cunning blade+ một thằng láu cá\n@Chuyên ngành kinh tế\n-cánh khuấy\n-lưỡi dao\n-mái chèo\n@Chuyên ngành kỹ thuật\n-băng\n-dải\n-gân\n-gàu\n-gàu xúc\n-lá\n-lá cánh\n-lá cánh quạt\n-lưỡi\n-lưỡi (dao) cạo\n-lưỡi (xẻng)\n-lưỡi cưa\n-lưỡi dao\n-lưỡi gạt\n-lưới ghi\n-lưỡi ghi\n-lưỡi máy\n-lưỡi ủi\n-mái\n-miếng mỏng\n-phiến\n@Lĩnh vực: xây dựng\n-cánh (của turbin)\n@Lĩnh vực: cơ khí & công trình\n-cánh (tuabin)\n-dao tiện chấp\n-đĩa (lưỡi ca)\n-mũi kim cương\n@Lĩnh vực: điện\n-lưỡi cầu dao\n@Lĩnh vực: điện lạnh\n-phiến động
-
+blade	
+@blade /bleid/
+*  danh từ
+- lưỡi (dao, kiếm)=a razor blade
++ lưỡi dao cạo
+- lá (cỏ, lúa)
+- mái (chèo); cánh (chong chóng...)
+- thanh kiếm
+- xương dẹt ((cũng) blade bone)
+- (thực vật học) phiến (lá)
+- (thông tục) gã, anh chàng, thằng=a ơolly old blade
++ một anh chàng vui nhộn=a cunning blade
++ một thằng láu cá
+@Chuyên ngành kinh tế
+-cánh khuấy
+-lưỡi dao
+-mái chèo
+@Chuyên ngành kỹ thuật
+-băng
+-dải
+-gân
+-gàu
+-gàu xúc
+-lá
+-lá cánh
+-lá cánh quạt
+-lưỡi
+-lưỡi (dao) cạo
+-lưỡi (xẻng)
+-lưỡi cưa
+-lưỡi dao
+-lưỡi gạt
+-lưới ghi
+-lưỡi ghi
+-lưỡi máy
+-lưỡi ủi
+-mái
+-miếng mỏng
+-phiến
+@Lĩnh vực: xây dựng
+-cánh (của turbin)
+@Lĩnh vực: cơ khí & công trình
+-cánh (tuabin)
+-dao tiện chấp
+-đĩa (lưỡi ca)
+-mũi kim cương
+@Lĩnh vực: điện
+-lưỡi cầu dao
+@Lĩnh vực: điện lạnh
+-phiến động

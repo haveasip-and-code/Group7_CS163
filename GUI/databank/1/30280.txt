@@ -1,3 +1,6 @@
-jammed
-	@Chuyên ngành kỹ thuật\n-bị kẹt\n-bị vướng\n@Lĩnh vực: xây dựng\n-bị chèn
-
+jammed	
+@Chuyên ngành kỹ thuật
+-bị kẹt
+-bị vướng
+@Lĩnh vực: xây dựng
+-bị chèn

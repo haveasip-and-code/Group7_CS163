@@ -1,3 +1,7 @@
-bionic
-	@bionic\n* tính từ\n- có những bộ phận được điều khiển bằng điện tử\n* danh từ, pl\n- kỹ thuật sinh học\n@Chuyên ngành kỹ thuật\n-kĩ thuật sinh học
-
+bionic	@bionic
+* tính từ
+- có những bộ phận được điều khiển bằng điện tử
+* danh từ, pl
+- kỹ thuật sinh học
+@Chuyên ngành kỹ thuật
+-kĩ thuật sinh học

@@ -1,3 +1,8 @@
-flotage
-	@flotage /flotage/\n*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flotage)\n- sự nổi, sự trôi lềnh bềnh\n- quyền thu hồi vật nổi (trên mặt biển); vật nổi (trên mặt biển)\n- thuyền bè trên sông\n- mảng (băng, rong...) nối\n- phần tàu trên mặt nước
-
+flotage	
+@flotage /flotage/
+*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flotage)
+- sự nổi, sự trôi lềnh bềnh
+- quyền thu hồi vật nổi (trên mặt biển); vật nổi (trên mặt biển)
+- thuyền bè trên sông
+- mảng (băng, rong...) nối
+- phần tàu trên mặt nước

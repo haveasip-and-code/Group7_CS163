@@ -1,3 +1,2 @@
-creche
-	@Chuyên ngành kỹ thuật\n-nhà trẻ
-
+creche	@Chuyên ngành kỹ thuật
+-nhà trẻ

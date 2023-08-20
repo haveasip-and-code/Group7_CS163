@@ -1,3 +1,6 @@
-holed
-	@Chuyên ngành kỹ thuật\n-đã khoét lỗ\n-được khoan lỗ\n@Lĩnh vực: hóa học & vật liệu\n-bị khoan thủng
-
+holed	
+@Chuyên ngành kỹ thuật
+-đã khoét lỗ
+-được khoan lỗ
+@Lĩnh vực: hóa học & vật liệu
+-bị khoan thủng

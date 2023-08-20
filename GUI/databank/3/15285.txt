@@ -1,3 +1,3 @@
-diencephalic
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc não trung gian
-
+diencephalic	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc não trung gian

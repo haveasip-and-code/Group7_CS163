@@ -1,3 +1,2 @@
-tonner
-	@Chuyên ngành kinh tế\n-tàu có trọng tải ...tấn
-
+tonner	@Chuyên ngành kinh tế
+-tàu có trọng tải ...tấn

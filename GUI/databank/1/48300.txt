@@ -1,3 +1,9 @@
-rye
-	@rye /rai/\n*  danh từ\n- (thực vật học) lúa mạch đen\n- rượu uytky mạch đen ((cũng) rye whisky)\n@Chuyên ngành kinh tế\n-bánh mì đen\n-lúa mạch đen\n@Chuyên ngành kỹ thuật\n-lúa mạch
-
+rye	@rye /rai/
+*  danh từ
+- (thực vật học) lúa mạch đen
+- rượu uytky mạch đen ((cũng) rye whisky)
+@Chuyên ngành kinh tế
+-bánh mì đen
+-lúa mạch đen
+@Chuyên ngành kỹ thuật
+-lúa mạch

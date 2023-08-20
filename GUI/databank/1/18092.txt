@@ -1,3 +1,12 @@
-enamelware
-	@enamelware\n* danh từ\n- đồ dùng bằng kim loại tráng men trong nhà\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đồ dùng bằng kim loại được tráng men\n-đồ men\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-đồ dùng bằng kim loại được tráng men\n-đồ men
-
+enamelware	
+@enamelware
+* danh từ
+- đồ dùng bằng kim loại tráng men trong nhà
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đồ dùng bằng kim loại được tráng men
+-đồ men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-đồ dùng bằng kim loại được tráng men
+-đồ men

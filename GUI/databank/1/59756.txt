@@ -1,3 +1,4 @@
-unhyphenated
-	@unhyphenated\n* tính từ\n- không có dấu nối ở giữa\n- không có nguồn gốc lai
-
+unhyphenated	@unhyphenated
+* tính từ
+- không có dấu nối ở giữa
+- không có nguồn gốc lai

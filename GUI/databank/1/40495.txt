@@ -1,3 +1,2 @@
-peptonic
-	@peptonic\n- xem peptone
-
+peptonic	@peptonic
+- xem peptone

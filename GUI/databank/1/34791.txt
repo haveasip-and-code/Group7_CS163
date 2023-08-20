@@ -1,3 +1,6 @@
-mid
-	@mid /mid/\n*  tính từ\n- giữa\n=from mid June to mid August+ từ giữa tháng sáu đến giữa tháng tám\n*  danh từ\n- (thơ ca) (như) amid
-
+mid	@mid /mid/
+*  tính từ
+- giữa
+=from mid June to mid August+ từ giữa tháng sáu đến giữa tháng tám
+*  danh từ
+- (thơ ca) (như) amid

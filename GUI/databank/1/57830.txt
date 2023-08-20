@@ -1,3 +1,2 @@
-trios
-	@Chuyên ngành kinh tế\n-quảng cáo hình tam giác
-
+trios	@Chuyên ngành kinh tế
+-quảng cáo hình tam giác

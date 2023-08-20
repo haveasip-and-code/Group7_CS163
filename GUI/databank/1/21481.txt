@@ -1,3 +1,4 @@
-floccus
-	@floccus /floccus/\n*  danh từ,  số nhiều flocci\n- cụm (xốp như len)
-
+floccus	
+@floccus /floccus/
+*  danh từ,  số nhiều flocci
+- cụm (xốp như len)

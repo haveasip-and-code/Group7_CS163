@@ -1,3 +1,8 @@
-ingest
-	@ingest /in'dʤest/\n*  ngoại động từ\n- ăn vào bụng (thức ăn)\n@Chuyên ngành kinh tế\n-ăn uống\n@Chuyên ngành kỹ thuật\n-tiêu thụ
-
+ingest	
+@ingest /in'dʤest/
+*  ngoại động từ
+- ăn vào bụng (thức ăn)
+@Chuyên ngành kinh tế
+-ăn uống
+@Chuyên ngành kỹ thuật
+-tiêu thụ

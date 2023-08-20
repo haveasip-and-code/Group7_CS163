@@ -1,3 +1,4 @@
-stiction
-	@Chuyên ngành kỹ thuật\n-ma sát lăn\n-ma sát nghỉ\n-ma sát tĩnh
-
+stiction	@Chuyên ngành kỹ thuật
+-ma sát lăn
+-ma sát nghỉ
+-ma sát tĩnh

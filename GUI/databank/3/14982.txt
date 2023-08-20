@@ -1,3 +1,6 @@
-deutoplasm
-	@deutoplasm\n* danh từ\n- hậu chất\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất dự trữ bào tương
-
+deutoplasm	@deutoplasm
+* danh từ
+- hậu chất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất dự trữ bào tương

@@ -1,3 +1,7 @@
-unbundled
-	@Chuyên ngành kinh tế\n-sắm lẻ\n-sắm riêng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-không kèm riêng\n-không tính gộp
-
+unbundled	@Chuyên ngành kinh tế
+-sắm lẻ
+-sắm riêng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-không kèm riêng
+-không tính gộp

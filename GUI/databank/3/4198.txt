@@ -1,3 +1,2 @@
-avifaunal
-	@avifaunal\n- xem avifauna
-
+avifaunal	@avifaunal
+- xem avifauna

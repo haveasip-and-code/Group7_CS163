@@ -1,3 +1,11 @@
-variometer
-	@variometer /,veəri'ɔmitə/\n*  danh từ\n- (vật lý) cái biến cảm\n@Chuyên ngành kỹ thuật\n-bộ biến cảm\n-cái cảm biến\n@Lĩnh vực: điện lạnh\n-biến cảm\n-từ biến kế\n@Lĩnh vực: điện\n-cảm ứng kế
-
+variometer	@variometer /,veəri'ɔmitə/
+*  danh từ
+- (vật lý) cái biến cảm
+@Chuyên ngành kỹ thuật
+-bộ biến cảm
+-cái cảm biến
+@Lĩnh vực: điện lạnh
+-biến cảm
+-từ biến kế
+@Lĩnh vực: điện
+-cảm ứng kế

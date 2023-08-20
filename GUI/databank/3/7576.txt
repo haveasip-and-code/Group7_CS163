@@ -1,3 +1,2 @@
-calligraphic
-	@calligraphic\n- xem calligraphy
-
+calligraphic	@calligraphic
+- xem calligraphy

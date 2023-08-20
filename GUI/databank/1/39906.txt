@@ -1,3 +1,2 @@
-passively
-	@passively\n- xem passive
-
+passively	@passively
+- xem passive

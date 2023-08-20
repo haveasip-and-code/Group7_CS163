@@ -1,3 +1,4 @@
-symmetallism
-	@Chuyên ngành kinh tế\n-bản vị hỗn hợp vàng bạc (đúc tiền bằng hợp kim vàng bạc)\n-bản vị hợp kim vàng bạc\n-chế độ song bản vị
-
+symmetallism	@Chuyên ngành kinh tế
+-bản vị hỗn hợp vàng bạc (đúc tiền bằng hợp kim vàng bạc)
+-bản vị hợp kim vàng bạc
+-chế độ song bản vị

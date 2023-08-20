@@ -1,3 +1,2 @@
-cuticular
-	@cuticular\n- xem cuticle
-
+cuticular	@cuticular
+- xem cuticle

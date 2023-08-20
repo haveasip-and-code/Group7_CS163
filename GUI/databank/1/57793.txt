@@ -1,3 +1,11 @@
-trill
-	@trill /tril/\n*  danh từ\n- (âm nhạc) láy rền\n- (ngôn ngữ học) phụ âm rung\n*  ngoại động từ\n- (âm nhạc) láy rền\n- đọc rung tiếng, nói rung tiếng\n=to trill the letter "r"+ đọc rung chữ " r"\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sự ngân rung
-
+trill	@trill /tril/
+*  danh từ
+- (âm nhạc) láy rền
+- (ngôn ngữ học) phụ âm rung
+*  ngoại động từ
+- (âm nhạc) láy rền
+- đọc rung tiếng, nói rung tiếng
+=to trill the letter "r"+ đọc rung chữ " r"
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-sự ngân rung

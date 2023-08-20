@@ -1,3 +1,16 @@
-gauze
-	@gauze /gɔ:z/\n*  danh từ\n- sa, lượt\n- (y học) gạc (để buộc vết thương)\n- màn sương mỏng; làn khói nhẹ\n- (kỹ thuật) lưới thép mịn\n@Chuyên ngành kinh tế\n-lưới rây\n-mặt lưới rây\n@Chuyên ngành kỹ thuật\n-lưới kim loại\n@Lĩnh vực: y học\n-gạc thấm\n@Lĩnh vực: hóa học & vật liệu\n-lưới thép mịn
-
+gauze	
+@gauze /gɔ:z/
+*  danh từ
+- sa, lượt
+- (y học) gạc (để buộc vết thương)
+- màn sương mỏng; làn khói nhẹ
+- (kỹ thuật) lưới thép mịn
+@Chuyên ngành kinh tế
+-lưới rây
+-mặt lưới rây
+@Chuyên ngành kỹ thuật
+-lưới kim loại
+@Lĩnh vực: y học
+-gạc thấm
+@Lĩnh vực: hóa học & vật liệu
+-lưới thép mịn

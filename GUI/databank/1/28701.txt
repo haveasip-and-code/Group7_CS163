@@ -1,3 +1,39 @@
-injection
-	@injection /in'dʤekʃn/\n*  danh từ\n- sự tiêm\n- chất tiêm, thuốc tiêm\n- mũi tiêm, phát tiêm\n- (kỹ thuật) sự phun\n- (toán học) phép nội xạ\n@Chuyên ngành kinh tế\n-bơm vào\n-khoản tiền bơm thêm vào\n-khoản tiền được đưa vào\n-rót vào\n-sự phun\n-sự tiêm\n-việc bơm vào\n-việc đưa vào\n-việc rót vào\n@Chuyên ngành kỹ thuật\n-đơn ánh\n-phép nội xạ\n-sự bơm vào\n-sự phun\n-sự phun vào\n-sự phụt vào\n-sự tiêm\n-sự tiêm vào\n@Lĩnh vực: y học\n-chích (tiêm)\n@Lĩnh vực: ô tô\n-sự phun (nhiên liệu)\n@Lĩnh vực: cơ khí & công trình\n-sự thổi vào\n@Lĩnh vực: hóa học & vật liệu\n-sự tiêm nhập\n@Lĩnh vực: điện tử & viễn thông\n-sự tiêm tín hiệu\n@Lĩnh vực: xây dựng\n-tiêm vết nứt
-
+injection	
+@injection /in'dʤekʃn/
+*  danh từ
+- sự tiêm
+- chất tiêm, thuốc tiêm
+- mũi tiêm, phát tiêm
+- (kỹ thuật) sự phun
+- (toán học) phép nội xạ
+@Chuyên ngành kinh tế
+-bơm vào
+-khoản tiền bơm thêm vào
+-khoản tiền được đưa vào
+-rót vào
+-sự phun
+-sự tiêm
+-việc bơm vào
+-việc đưa vào
+-việc rót vào
+@Chuyên ngành kỹ thuật
+-đơn ánh
+-phép nội xạ
+-sự bơm vào
+-sự phun
+-sự phun vào
+-sự phụt vào
+-sự tiêm
+-sự tiêm vào
+@Lĩnh vực: y học
+-chích (tiêm)
+@Lĩnh vực: ô tô
+-sự phun (nhiên liệu)
+@Lĩnh vực: cơ khí & công trình
+-sự thổi vào
+@Lĩnh vực: hóa học & vật liệu
+-sự tiêm nhập
+@Lĩnh vực: điện tử & viễn thông
+-sự tiêm tín hiệu
+@Lĩnh vực: xây dựng
+-tiêm vết nứt

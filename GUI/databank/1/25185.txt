@@ -1,3 +1,29 @@
-heading
-	@heading /'hediɳ/\n*  danh từ\n- đề mục nhỏ; tiêu đề\n- (ngành mỏ) lò ngang\n- (thể dục,thể thao) cú đánh đầu (bóng đá)\n- (hàng hải) sự đi về, sự hướng về\n@Chuyên ngành kinh tế\n-tiêu đề\n@Chuyên ngành kỹ thuật\n-đầu đề\n-đề mục\n-đoạn chú thích\n-hầm tháo nước\n-hướng bay\n-hướng chuyển động\n-hướng hành trình\n-lò dọc chính\n-sự chồn đầu\n-sự tán đáy\n-tiêu đề\n@Lĩnh vực: xây dựng\n-chu trình đào\n-đầu đá câu\n@Lĩnh vực: điện tử & viễn thông\n-hướng chạy\n@Lĩnh vực: toán & tin\n-phụ đề\n-tựa đề
-
+heading	
+@heading /'hediɳ/
+*  danh từ
+- đề mục nhỏ; tiêu đề
+- (ngành mỏ) lò ngang
+- (thể dục,thể thao) cú đánh đầu (bóng đá)
+- (hàng hải) sự đi về, sự hướng về
+@Chuyên ngành kinh tế
+-tiêu đề
+@Chuyên ngành kỹ thuật
+-đầu đề
+-đề mục
+-đoạn chú thích
+-hầm tháo nước
+-hướng bay
+-hướng chuyển động
+-hướng hành trình
+-lò dọc chính
+-sự chồn đầu
+-sự tán đáy
+-tiêu đề
+@Lĩnh vực: xây dựng
+-chu trình đào
+-đầu đá câu
+@Lĩnh vực: điện tử & viễn thông
+-hướng chạy
+@Lĩnh vực: toán & tin
+-phụ đề
+-tựa đề

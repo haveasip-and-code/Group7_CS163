@@ -1,3 +1,16 @@
-preventive
-	@preventive /pri'ventiv/ (preventative) /pri'ventətiv/\n*  tính từ\n- ngăn ngừa, phòng ngừa\n=preventive measure+ biện pháp phòng ngừa\n=preventive war+ chiến tranh phòng ngừa\n- (y học) phòng bệnh\n=preventive medicine+ thuốc phòng bệnh\n*  danh từ\n- biện pháp phòng ngừa\n- thuốc phòng bệnh, cách phòng bệnh\n@Chuyên ngành kỹ thuật\n-biện pháp phòng ngừa\n-chất bảo vệ\n-ngăn chặn\n-ngăn ngừa\n-phòng ngừa
-
+preventive	@preventive /pri'ventiv/ (preventative) /pri'ventətiv/
+*  tính từ
+- ngăn ngừa, phòng ngừa
+=preventive measure+ biện pháp phòng ngừa
+=preventive war+ chiến tranh phòng ngừa
+- (y học) phòng bệnh
+=preventive medicine+ thuốc phòng bệnh
+*  danh từ
+- biện pháp phòng ngừa
+- thuốc phòng bệnh, cách phòng bệnh
+@Chuyên ngành kỹ thuật
+-biện pháp phòng ngừa
+-chất bảo vệ
+-ngăn chặn
+-ngăn ngừa
+-phòng ngừa

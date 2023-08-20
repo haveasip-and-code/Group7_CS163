@@ -1,3 +1,30 @@
-circular
-	@circular /'sə:kjulə/\n*  tính từ\n- tròn, vòng, vòng quanh\n=a circular building+ toà nhà hình tròn\n=a circular movement+ chuyển động vòng\n=a circular railway+ đường sắt vòng quanh thành phố\n=a circular tour (trip)+ chuyến đi vòng quanh\n=a circular tour (trip)+ chuyến đi vòng quanh\n=a circular saw+ cưa tròn, cưa đĩa\n!circular letter\n- thông tư, thông tin\n*  danh từ\n- thông tri, thông tư\n- giấy báo (gửi cho khách hàng)\n@Chuyên ngành kinh tế\n-giấy quảng cáo\n-thông tri\n-thông tư\n-tờ thông bạch\n-truyền đơn\n@Chuyên ngành kỹ thuật\n-đi vòng (quanh)\n-đường tròn\n-hình tròn\n-vòng quanh\n-vòng tròn\n@Lĩnh vực: y học\n-hình vòng tròn\n@Lĩnh vực: toán & tin\n-vòng trong
-
+circular	
+@circular /'sə:kjulə/
+*  tính từ
+- tròn, vòng, vòng quanh=a circular building
++ toà nhà hình tròn=a circular movement
++ chuyển động vòng=a circular railway
++ đường sắt vòng quanh thành phố=a circular tour (trip)
++ chuyến đi vòng quanh=a circular tour (trip)
++ chuyến đi vòng quanh=a circular saw
++ cưa tròn, cưa đĩa!circular letter
+- thông tư, thông tin
+*  danh từ
+- thông tri, thông tư
+- giấy báo (gửi cho khách hàng)
+@Chuyên ngành kinh tế
+-giấy quảng cáo
+-thông tri
+-thông tư
+-tờ thông bạch
+-truyền đơn
+@Chuyên ngành kỹ thuật
+-đi vòng (quanh)
+-đường tròn
+-hình tròn
+-vòng quanh
+-vòng tròn
+@Lĩnh vực: y học
+-hình vòng tròn
+@Lĩnh vực: toán & tin
+-vòng trong

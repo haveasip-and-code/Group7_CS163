@@ -1,3 +1,15 @@
-flea
-	@flea /flea/\n*  danh từ\n- (động vật học) con bọ chét\n!to flay a flea the hide and tallow\n!to skin a flea for its hide\n- rán sành ra mỡ, keo cú bủn xỉn\n!a flea for in one's ear\n- (thông tục) sự khiển trách nặng nề\n- sự từ chối phũ phàng; sự cự tuyệt phũ phang\n!to go away with a flea in one's ear\n- bị khiển trách nặng nề\n!to send somebody away with a flea in his ear\n- (xem) ear\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bọ chét\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bọ chét
-
+flea	
+@flea /flea/
+*  danh từ
+- (động vật học) con bọ chét!to flay a flea the hide and tallow!to skin a flea for its hide
+- rán sành ra mỡ, keo cú bủn xỉn!a flea for in one's ear
+- (thông tục) sự khiển trách nặng nề
+- sự từ chối phũ phàng; sự cự tuyệt phũ phang!to go away with a flea in one's ear
+- bị khiển trách nặng nề!to send somebody away with a flea in his ear
+- (xem) ear
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bọ chét
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bọ chét

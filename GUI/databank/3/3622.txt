@@ -1,3 +1,2 @@
-assignability
-	@assignability\n- xem assign
-
+assignability	@assignability
+- xem assign

@@ -1,3 +1,11 @@
-genetic
-	@genetic /dʤi'netik/\n*  tính từ\n- (thuộc) căn nguyên, (thuộc) nguồn gốc\n- (thuộc) di truyền học\n- phát sinh\n=genetic classification+ phép phân loại phát sinh\n@Chuyên ngành kỹ thuật\n-di truyền\n-phát sinh\n-tạo thành
-
+genetic	
+@genetic /dʤi'netik/
+*  tính từ
+- (thuộc) căn nguyên, (thuộc) nguồn gốc
+- (thuộc) di truyền học
+- phát sinh=genetic classification
++ phép phân loại phát sinh
+@Chuyên ngành kỹ thuật
+-di truyền
+-phát sinh
+-tạo thành

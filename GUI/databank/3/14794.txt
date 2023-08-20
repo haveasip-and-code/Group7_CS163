@@ -1,3 +1,19 @@
-desk
-	@desk /desk/\n*  danh từ\n- bàn học sinh, bàn viết, bàn làm việc\n- (the desk) công việc văn phòng, công tác văn thư; nghiệp bút nghiên\n- (từ Mỹ,nghĩa Mỹ) giá để kinh; giá để bản nhạc (ở nhà thờ); bục giảng kinh\n- nơi thu tiền\n- (từ Mỹ,nghĩa Mỹ) toà soạn (báo)\n- (từ Mỹ,nghĩa Mỹ) tổ (phụ trách nghiên cứu chuyên đề trong một phòng)\n=the Korean desk of the Asian Department+ tổ (phụ trách vấn đề) Triều-tiên của Vụ Châu-á\n@Chuyên ngành kinh tế\n-phòng\n@Chuyên ngành kỹ thuật\n-bàn\n-bàn điều khiển\n-bàn làm việc\n@Lĩnh vực: điện lạnh\n-bàn (điều khiển)\n@Lĩnh vực: toán & tin\n-bàn viết
-
+desk	@desk /desk/
+*  danh từ
+- bàn học sinh, bàn viết, bàn làm việc
+- (the desk) công việc văn phòng, công tác văn thư; nghiệp bút nghiên
+- (từ Mỹ,nghĩa Mỹ) giá để kinh; giá để bản nhạc (ở nhà thờ); bục giảng kinh
+- nơi thu tiền
+- (từ Mỹ,nghĩa Mỹ) toà soạn (báo)
+- (từ Mỹ,nghĩa Mỹ) tổ (phụ trách nghiên cứu chuyên đề trong một phòng)
+=the Korean desk of the Asian Department+ tổ (phụ trách vấn đề) Triều-tiên của Vụ Châu-á
+@Chuyên ngành kinh tế
+-phòng
+@Chuyên ngành kỹ thuật
+-bàn
+-bàn điều khiển
+-bàn làm việc
+@Lĩnh vực: điện lạnh
+-bàn (điều khiển)
+@Lĩnh vực: toán & tin
+-bàn viết

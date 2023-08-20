@@ -1,3 +1,45 @@
-indent
-	@indent /'indent/\n*  danh từ\n- vết lõm, khía răng cưa; vết mẻ\n- chỗ lõm, chỗ lún, chỗ lồi lõm (ở bờ biển)\n- chỗ thụt vào (ở đầu một dòng chữ)\n*  ngoại động từ\n- làm thành vết lõm, khắc khía răng cưa; làm mẻ\n- in lõm xuống, rập (đầu...)\n- (ngành in) sắp chữ thụt vào\n*  nội động từ\n- lõm xuống\n*  danh từ\n- giao kèo (giữa chủ và thợ)\n- lệnh, sung công\n- đơn đặt hàng (của người nước ngoài)\n*  ngoại động từ\n- làm bản sao (một văn kiện, một bản giao kèo)\n- chia (bản giao kèo chính và bản sao...) ra làm đôi theo đường răng cưa chữ chi (để sau này có thể giáp vào nhau làm bằng)\n- viết đơn đặt (hàng)\n*  nội động từ\n- ra lệnh sung công\n=to indent upon someone for something+ ra lệnh sung công của ai cái gì\n- viết đơn đặt (hàng)\n@Chuyên ngành kinh tế\n-đặt\n-đặt mua\n-đơn đặt hàng ngoài nước, từ nước ngoài\n-đơn ủy thác đặt hàng\n-đơn ủy thác mua hàng\n-giao kèo (giữa chủ và thợ)\n-làm bản sao (một văn kiện...)\n-lệnh sung công\n-sắp chữ thụt vào\n-sung công\n-viết đơn đặt hàng\n@Chuyên ngành kỹ thuật\n-làm lõm vào\n@Lĩnh vực: xây dựng\n-khía răng cưa\n@Lĩnh vực: toán & tin\n-sắp thụt\n-thụt lề\n-thụt vào\n-thùy
-
+indent	
+@indent /'indent/
+*  danh từ
+- vết lõm, khía răng cưa; vết mẻ
+- chỗ lõm, chỗ lún, chỗ lồi lõm (ở bờ biển)
+- chỗ thụt vào (ở đầu một dòng chữ)
+*  ngoại động từ
+- làm thành vết lõm, khắc khía răng cưa; làm mẻ
+- in lõm xuống, rập (đầu...)
+- (ngành in) sắp chữ thụt vào
+*  nội động từ
+- lõm xuống
+*  danh từ
+- giao kèo (giữa chủ và thợ)
+- lệnh, sung công
+- đơn đặt hàng (của người nước ngoài)
+*  ngoại động từ
+- làm bản sao (một văn kiện, một bản giao kèo)
+- chia (bản giao kèo chính và bản sao...) ra làm đôi theo đường răng cưa chữ chi (để sau này có thể giáp vào nhau làm bằng)
+- viết đơn đặt (hàng)
+*  nội động từ
+- ra lệnh sung công=to indent upon someone for something
++ ra lệnh sung công của ai cái gì
+- viết đơn đặt (hàng)
+@Chuyên ngành kinh tế
+-đặt
+-đặt mua
+-đơn đặt hàng ngoài nước, từ nước ngoài
+-đơn ủy thác đặt hàng
+-đơn ủy thác mua hàng
+-giao kèo (giữa chủ và thợ)
+-làm bản sao (một văn kiện...)
+-lệnh sung công
+-sắp chữ thụt vào
+-sung công
+-viết đơn đặt hàng
+@Chuyên ngành kỹ thuật
+-làm lõm vào
+@Lĩnh vực: xây dựng
+-khía răng cưa
+@Lĩnh vực: toán & tin
+-sắp thụt
+-thụt lề
+-thụt vào
+-thùy

@@ -1,3 +1,10 @@
-ounce
-	@ounce /auns/\n*  danh từ\n- (viết tắt) oz\n- Aoxơ (đơn vị đo lường bằng 28, 35 g)\n*  (thơ ca)\n- giống mèo rừng\n- (động vật học) báo tuyết\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-aoxơ
-
+ounce	@ounce /auns/
+*  danh từ
+- (viết tắt) oz
+- Aoxơ (đơn vị đo lường bằng 28, 35 g)
+*  (thơ ca)
+- giống mèo rừng
+- (động vật học) báo tuyết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-aoxơ

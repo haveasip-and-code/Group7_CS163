@@ -1,3 +1,37 @@
-fresh
-	@fresh /freʃ/\n*  tính từ\n- tươi (hoa, trứng, sữa, cá, thịt...)\n- tươi tắn, mơn mởn\n=fresh paint+ sơn còn ướt\n- còn rõ rệt, chưa phai mờ\n=fresh memories+ những kỷ niệm chưa phai mờ\n- trong sạch, tươi mát, mát mẻ (không khí...)\n=first fresh dreams+ những giấc mơ đầu tươi mát\n- mới\n=to begin a fresh chapter+ bắt đầu một chương mới\n=fresh news+ tin mới\n- vừa mới tới, vừa mới ra; non nớt, ít kinh nghiệm\n=a fresh hand+ một anh chàng thiếu kinh nghiệm\n- không mặn, không chát (bơ...); ngọt (nước)\n=fresh water+ nước ngọt\n- khoẻ khắn, sảng khoái, khoẻ mạnh, lanh lợi\n=as fresh as paint+ rất khoẻ\n=to feel fresh after six sets of ping-pong+ cảm thấy khoẻ khoắn sau khi chơi sáu ván bóng bàn\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hỗn xược, xấc láo, sỗ sàng\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngà ngà say, chếnh choáng\n- (từ Mỹ,nghĩa Mỹ) vừa mới có sữa (bò cái sau khi đẻ)\n*  phó từ\n- mới\n=fresh from school+ vừa mới tốt nghiệp ở trường ra\n*  danh từ\n- lúc tươi mát, lúc mát mẻ\n=in the fresh of the morning+ vào lúc tươi mát của buổi sáng\n- dòng nước trong mát\n@Chuyên ngành kinh tế\n-còn ướt\n-tươi\n@Chuyên ngành kỹ thuật\n-ngọt (nước)\n-sạch
-
+fresh	
+@fresh /freʃ/
+*  tính từ
+- tươi (hoa, trứng, sữa, cá, thịt...)
+- tươi tắn, mơn mởn=fresh paint
++ sơn còn ướt
+- còn rõ rệt, chưa phai mờ=fresh memories
++ những kỷ niệm chưa phai mờ
+- trong sạch, tươi mát, mát mẻ (không khí...)=first fresh dreams
++ những giấc mơ đầu tươi mát
+- mới=to begin a fresh chapter
++ bắt đầu một chương mới=fresh news
++ tin mới
+- vừa mới tới, vừa mới ra; non nớt, ít kinh nghiệm=a fresh hand
++ một anh chàng thiếu kinh nghiệm
+- không mặn, không chát (bơ...); ngọt (nước)=fresh water
++ nước ngọt
+- khoẻ khắn, sảng khoái, khoẻ mạnh, lanh lợi=as fresh as paint
++ rất khoẻ=to feel fresh after six sets of ping
+-pong
++ cảm thấy khoẻ khoắn sau khi chơi sáu ván bóng bàn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hỗn xược, xấc láo, sỗ sàng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngà ngà say, chếnh choáng
+- (từ Mỹ,nghĩa Mỹ) vừa mới có sữa (bò cái sau khi đẻ)
+*  phó từ
+- mới=fresh from school
++ vừa mới tốt nghiệp ở trường ra
+*  danh từ
+- lúc tươi mát, lúc mát mẻ=in the fresh of the morning
++ vào lúc tươi mát của buổi sáng
+- dòng nước trong mát
+@Chuyên ngành kinh tế
+-còn ướt
+-tươi
+@Chuyên ngành kỹ thuật
+-ngọt (nước)
+-sạch

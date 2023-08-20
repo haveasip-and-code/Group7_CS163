@@ -1,3 +1,49 @@
-recovery
-	@recovery /ri'kʌvəri/\n*  danh từ\n- sự lấy lại được, sự tìm lại được (vật đã mất...)\n- sự đòi lại được (món nợ...)\n- sự bình phục, sự khỏi bệnh\n=recovery from infuenza+ sự khỏi cúm\n=past recovery+ không thể khỏi được (người ốm)\n- sự khôi phục lại, sự phục hồi lại (kinh tế)\n- (thể dục,thể thao) miếng thủ thế lại (đánh kiếm)\n- (hàng không) sự lấy lại thăng bằng (sau vòng liệng xoáy trôn ốc)\n@Chuyên ngành kinh tế\n-đền bồi\n-hồi phục\n-lấy được\n-phục hồi (kinh tế)\n-phục hưng\n-sự bồi thường\n-sự được\n-sự hoàn lại\n-sự khôi phục\n-sự tách ra\n-sự tái sinh\n-sự thu hồi\n-thủ đắc (một quyền lợi nào đó)\n-trở lại như trước (giá ca, việc kinh doanh)\n-vật đòi lại được\n-vật lấy lại được\n-vật thu hồi\n@Chuyên ngành kỹ thuật\n-phục hồi\n-sự cứu hộ\n-sự cứu nạn\n-sự cứu nguy (khi máy bay cơ động)\n-sự cứu sinh\n-sự hoàn thiện\n-sự hồi phục\n-sự khai thác lại\n-sự khôi phục\n-sự lấy lại thăng bằng (tàu vũ trụ)\n-sự phục hồi\n-sự tái chế\n-sự tái sinh\n-sự thu hồi\n-sự thu lại\n@Lĩnh vực: giao thông & vận tải\n-sự cứu hộ (trường hợp khẩn cấp)\n-sự cứu nguy\n@Lĩnh vực: điện lạnh\n-sự hoàn nhiệt
-
+recovery	@recovery /ri'kʌvəri/
+*  danh từ
+- sự lấy lại được, sự tìm lại được (vật đã mất...)
+- sự đòi lại được (món nợ...)
+- sự bình phục, sự khỏi bệnh
+=recovery from infuenza+ sự khỏi cúm
+=past recovery+ không thể khỏi được (người ốm)
+- sự khôi phục lại, sự phục hồi lại (kinh tế)
+- (thể dục,thể thao) miếng thủ thế lại (đánh kiếm)
+- (hàng không) sự lấy lại thăng bằng (sau vòng liệng xoáy trôn ốc)
+@Chuyên ngành kinh tế
+-đền bồi
+-hồi phục
+-lấy được
+-phục hồi (kinh tế)
+-phục hưng
+-sự bồi thường
+-sự được
+-sự hoàn lại
+-sự khôi phục
+-sự tách ra
+-sự tái sinh
+-sự thu hồi
+-thủ đắc (một quyền lợi nào đó)
+-trở lại như trước (giá ca, việc kinh doanh)
+-vật đòi lại được
+-vật lấy lại được
+-vật thu hồi
+@Chuyên ngành kỹ thuật
+-phục hồi
+-sự cứu hộ
+-sự cứu nạn
+-sự cứu nguy (khi máy bay cơ động)
+-sự cứu sinh
+-sự hoàn thiện
+-sự hồi phục
+-sự khai thác lại
+-sự khôi phục
+-sự lấy lại thăng bằng (tàu vũ trụ)
+-sự phục hồi
+-sự tái chế
+-sự tái sinh
+-sự thu hồi
+-sự thu lại
+@Lĩnh vực: giao thông & vận tải
+-sự cứu hộ (trường hợp khẩn cấp)
+-sự cứu nguy
+@Lĩnh vực: điện lạnh
+-sự hoàn nhiệt

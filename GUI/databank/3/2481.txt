@@ -1,3 +1,3 @@
-antibacterial
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-việc chống vi khuẩn
-
+antibacterial	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-việc chống vi khuẩn

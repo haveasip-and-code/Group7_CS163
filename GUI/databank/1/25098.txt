@@ -1,3 +1,6 @@
-hatchling
-	@hatchling\n* danh từ\n- con chim vừa mới nở\n@Chuyên ngành kinh tế\n-cá bột
-
+hatchling	
+@hatchling
+* danh từ
+- con chim vừa mới nở
+@Chuyên ngành kinh tế
+-cá bột

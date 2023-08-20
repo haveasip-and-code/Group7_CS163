@@ -1,3 +1,26 @@
-runway
-	@runway /'rʌnwei/\n*  danh từ\n- lối dẫn vật nuôi đi uống nước\n- đường lăn gỗ (từ trên đồi xuống...)\n- đường băng (ở sân bay)\n- cầu tàu\n@Chuyên ngành kinh tế\n-đường băng\n-đường băng (trong sân bay)\n@Chuyên ngành kỹ thuật\n-đường băng\n-đường băng sân bay\n-đường hạ cánh\n-đường lăn\n-lối đi\n-mặt lăn\n@Lĩnh vực: giao thông & vận tải\n-đường cất hạ cánh\n@Lĩnh vực: cơ khí & công trình\n-đường cầu trục\n-rãnh chạy\n-vết chạy\n@Lĩnh vực: xây dựng\n-đường chạy (của cần cẩu)\n@Lĩnh vực: điện tử & viễn thông\n-đường đáp cánh
-
+runway	@runway /'rʌnwei/
+*  danh từ
+- lối dẫn vật nuôi đi uống nước
+- đường lăn gỗ (từ trên đồi xuống...)
+- đường băng (ở sân bay)
+- cầu tàu
+@Chuyên ngành kinh tế
+-đường băng
+-đường băng (trong sân bay)
+@Chuyên ngành kỹ thuật
+-đường băng
+-đường băng sân bay
+-đường hạ cánh
+-đường lăn
+-lối đi
+-mặt lăn
+@Lĩnh vực: giao thông & vận tải
+-đường cất hạ cánh
+@Lĩnh vực: cơ khí & công trình
+-đường cầu trục
+-rãnh chạy
+-vết chạy
+@Lĩnh vực: xây dựng
+-đường chạy (của cần cẩu)
+@Lĩnh vực: điện tử & viễn thông
+-đường đáp cánh

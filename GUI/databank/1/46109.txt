@@ -1,3 +1,8 @@
-recursiveness
-	@recursiveness\n- (logic học) tính đệ quy\n- potential r. tính đệ quy thế (năng)\n- relative r. tính đệ quy tương đối\n- uniform primitive r. tính đệ quy nguyên thuỷ đều\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tính đệ quy
-
+recursiveness	@recursiveness
+- (logic học) tính đệ quy
+- potential r. tính đệ quy thế (năng)
+- relative r. tính đệ quy tương đối
+- uniform primitive r. tính đệ quy nguyên thuỷ đều
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính đệ quy

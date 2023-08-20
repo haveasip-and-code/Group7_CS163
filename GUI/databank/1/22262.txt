@@ -1,3 +1,7 @@
-freeboard
-	@Chuyên ngành kinh tế\n-khoang tàu\n-phần nổi của tàu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phần nổi
-
+freeboard	
+@Chuyên ngành kinh tế
+-khoang tàu
+-phần nổi của tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-phần nổi

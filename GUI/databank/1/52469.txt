@@ -1,3 +1,3 @@
-spirits
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-đồ uống có rượu
-
+spirits	@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-đồ uống có rượu

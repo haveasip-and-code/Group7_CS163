@@ -1,3 +1,6 @@
-swine
-	@swine /swain/\n*  danh từ,  số nhiều không đổi\n- con lợn\n- người tham ăn tục uống; người bẩn tưởi; người tồi tàn\n@Chuyên ngành kinh tế\n-con lợn
-
+swine	@swine /swain/
+*  danh từ,  số nhiều không đổi
+- con lợn
+- người tham ăn tục uống; người bẩn tưởi; người tồi tàn
+@Chuyên ngành kinh tế
+-con lợn

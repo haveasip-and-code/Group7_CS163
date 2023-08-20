@@ -1,3 +1,35 @@
-connect
-	@connect /kə'nekt/\n*  ngoại động từ\n- nối, nối lại, chấp nối\n=to connect one thing to (with) number+ nối vật này với vật khác\n- liên hệ (trong ý nghĩ)\n- làm cho có mạch lạc\n- (thường),  dạng bị động kết liên, kết thân, kết giao; có quan hệ với, có họ hàng với\n=to be connected with a family+ kết thân với một gia đình, thông gia với một gia đình\n*  nội động từ\n- nối nhau, nối tiếp nhau\n=the two trains connect at Y+ hai chuyến xe lửa tiếp vận ở ga Y\n@Chuyên ngành kinh tế\n-liên kết (công cụ vận tải, các phương thức vận tải)\n@Chuyên ngành kỹ thuật\n-buộc\n-đấu dây\n-đầu nối\n-gắn\n-ghép\n-giằng\n-kết nối\n-làm cho liên thông\n-liên kết\n-nối\n-nối kết\n-nối lại\n-mắc\n-mắc dây\n@Lĩnh vực: điện\n-câu điện\n-đấu\n-dấu nối\n@Lĩnh vực: xây dựng\n-liên kết nối
-
+connect	
+@connect /kə'nekt/
+*  ngoại động từ
+- nối, nối lại, chấp nối=to connect one thing to (with) number
++ nối vật này với vật khác
+- liên hệ (trong ý nghĩ)
+- làm cho có mạch lạc
+- (thường),  dạng bị động kết liên, kết thân, kết giao; có quan hệ với, có họ hàng với=to be connected with a family
++ kết thân với một gia đình, thông gia với một gia đình
+*  nội động từ
+- nối nhau, nối tiếp nhau=the two trains connect at Y
++ hai chuyến xe lửa tiếp vận ở ga Y
+@Chuyên ngành kinh tế
+-liên kết (công cụ vận tải, các phương thức vận tải)
+@Chuyên ngành kỹ thuật
+-buộc
+-đấu dây
+-đầu nối
+-gắn
+-ghép
+-giằng
+-kết nối
+-làm cho liên thông
+-liên kết
+-nối
+-nối kết
+-nối lại
+-mắc
+-mắc dây
+@Lĩnh vực: điện
+-câu điện
+-đấu
+-dấu nối
+@Lĩnh vực: xây dựng
+-liên kết nối

@@ -1,3 +1,28 @@
-operative
-	@operative /'ɔpərətiv/\n*  tính từ\n- có tác dụng, có hiệu lực\n- thực hành, thực tế\n=the operative part of the work+ phần thực hành của công việc\n- (y học) (thuộc) mổ xẻ\n- (toán học) (thuộc) toán tử\n=operative symbole+ ký hiệu toán tử\n*  danh từ\n- công nhân, thợ máy\n- (từ Mỹ,nghĩa Mỹ) thám tử; đặc vụ, gián điệp\n@Chuyên ngành kinh tế\n-công nhân\n-đặc vụ\n@Chuyên ngành kỹ thuật\n-công nhân\n-đang hoạt động\n-người lao động\n-người thao tác\n-thợ\n-thợ máy\n@Lĩnh vực: toán & tin\n-có tác dụng\n-toán tử\n@Lĩnh vực: ô tô\n-lái xe\n@Lĩnh vực: y học\n-thuộc phẫu thuật
-
+operative	@operative /'ɔpərətiv/
+*  tính từ
+- có tác dụng, có hiệu lực
+- thực hành, thực tế
+=the operative part of the work+ phần thực hành của công việc
+- (y học) (thuộc) mổ xẻ
+- (toán học) (thuộc) toán tử
+=operative symbole+ ký hiệu toán tử
+*  danh từ
+- công nhân, thợ máy
+- (từ Mỹ,nghĩa Mỹ) thám tử; đặc vụ, gián điệp
+@Chuyên ngành kinh tế
+-công nhân
+-đặc vụ
+@Chuyên ngành kỹ thuật
+-công nhân
+-đang hoạt động
+-người lao động
+-người thao tác
+-thợ
+-thợ máy
+@Lĩnh vực: toán & tin
+-có tác dụng
+-toán tử
+@Lĩnh vực: ô tô
+-lái xe
+@Lĩnh vực: y học
+-thuộc phẫu thuật

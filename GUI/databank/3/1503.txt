@@ -1,3 +1,5 @@
-alined
-	@alined\n- được sắp hàng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được sắp hàng
-
+alined	@alined
+- được sắp hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được sắp hàng

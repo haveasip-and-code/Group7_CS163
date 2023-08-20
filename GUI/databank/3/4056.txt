@@ -1,3 +1,14 @@
-autoclave
-	@autoclave /'ɔ:toukleiv/\n*  danh từ\n- nồi hấp\n@Chuyên ngành kinh tế\n-nồi hấp\n@Chuyên ngành kỹ thuật\n-chưng\n-hấp\n-nồi hấp\n-nồi hơi\n@Lĩnh vực: xây dựng\n-nồi chưng áp\n@Lĩnh vực: y học\n-nồi hấp, lò hấp
-
+autoclave	@autoclave /'ɔ:toukleiv/
+*  danh từ
+- nồi hấp
+@Chuyên ngành kinh tế
+-nồi hấp
+@Chuyên ngành kỹ thuật
+-chưng
+-hấp
+-nồi hấp
+-nồi hơi
+@Lĩnh vực: xây dựng
+-nồi chưng áp
+@Lĩnh vực: y học
+-nồi hấp, lò hấp

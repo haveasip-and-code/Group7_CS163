@@ -1,3 +1,24 @@
-subscriber
-	@subscriber /səb'skraibə/\n*  danh từ\n- người góp (tiền)\n- người mua (báo) dài hạn; người đặt mua\n- (the subscriber) những người ký tên dưới đây\n@Chuyên ngành kinh tế\n-người đặt mua\n-người góp tiền\n-người mua dài hạn (tạp chí, ấn phẩm..)\n-người nhận mua cổ phiếu\n-người thuê bao\n-người thuê bao (điện thoại)\n-người thuê bao (điện thoại...)\n@Chuyên ngành kỹ thuật\n-người đăng ký\n-người đặt mua\n-người thuê bao\n@Lĩnh vực: điện lạnh\n-hộ thuê bao\n@Lĩnh vực: toán & tin\n-khách thuê bao\n-thuê bao\n@Lĩnh vực: điện tử & viễn thông\n-nhà thuê bao (điện thoại)
-
+subscriber	@subscriber /səb'skraibə/
+*  danh từ
+- người góp (tiền)
+- người mua (báo) dài hạn; người đặt mua
+- (the subscriber) những người ký tên dưới đây
+@Chuyên ngành kinh tế
+-người đặt mua
+-người góp tiền
+-người mua dài hạn (tạp chí, ấn phẩm..)
+-người nhận mua cổ phiếu
+-người thuê bao
+-người thuê bao (điện thoại)
+-người thuê bao (điện thoại...)
+@Chuyên ngành kỹ thuật
+-người đăng ký
+-người đặt mua
+-người thuê bao
+@Lĩnh vực: điện lạnh
+-hộ thuê bao
+@Lĩnh vực: toán & tin
+-khách thuê bao
+-thuê bao
+@Lĩnh vực: điện tử & viễn thông
+-nhà thuê bao (điện thoại)

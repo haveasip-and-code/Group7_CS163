@@ -1,3 +1,6 @@
-unconditionally
-	@unconditionally\n* phó từ\n- tuyệt đối, vô điều kiện, không chịu ảnh hưởng của điều kiện\n- dứt khoát, quả quyết\n@Chuyên ngành kỹ thuật\n-tuyệt đối
-
+unconditionally	@unconditionally
+* phó từ
+- tuyệt đối, vô điều kiện, không chịu ảnh hưởng của điều kiện
+- dứt khoát, quả quyết
+@Chuyên ngành kỹ thuật
+-tuyệt đối

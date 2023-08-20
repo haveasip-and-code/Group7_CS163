@@ -1,3 +1,40 @@
-near
-	@near /niə/\n*  tính từ\n- gần, cận\n=the school is quite near+ trường học rất gần\n=the Near East+ Cận đông\n=a near relution+ một người có họ gần\n=in the near future+ trong tương lai gần đây\n- thân\n=a near friend+ bạn thân\n- giống, sát\n=near resemblance+ sự giống lắm\n=a near translation+ bản dịch sát nghĩa\n- tỉ mỉ\n=near work+ công việc tỉ mỉ\n- chi ly, chắt bóp, keo kiệt\n=to be very near with one's money+ rất chi ly đối với đồng tiền\n- bên trái\n=the near side of the road+ bên trái đường\n=the near wheel of a car+ bánh xe bên trái\n=the near foreleg of a horse+ chân trái đằng trước của con ngựa\n*  phó từ\n- gần, ở gần; sắp tới, không xa\n=when success comes near more hardships are for and near+ xa gần khắp mọi nơi\n=near at hand+ gần ngay bên; gần tới nơi\n=near by+ ở gần, ở bên\n- chi ly, chắt bóp, keo kiệt\n=to live very near+ sống chắt bóp\n*  giới từ\n- gần, ở gần\n=to stanf near the fire+ đứng gần lò sưởi\n=the performance was drawing near its close+ buổi biểu diễn gần hết\n=day is near breaking+ trời gần sáng\n- gần giống, theo kịp\n=who comes near him in self-denial?+ ai theo kịp được anh ấy về tinh thần hy sinh?\n*  động từ\n- tới gần, đến gần, xích lại gần, nhích lại; sắp tới\n=the ship was nearing the land+ tàu sắp tới đất liền\n=to be nearing one's end+ sắp chết\n@Chuyên ngành kỹ thuật\n-gần
-
+near	@near /niə/
+*  tính từ
+- gần, cận
+=the school is quite near+ trường học rất gần
+=the Near East+ Cận đông
+=a near relution+ một người có họ gần
+=in the near future+ trong tương lai gần đây
+- thân
+=a near friend+ bạn thân
+- giống, sát
+=near resemblance+ sự giống lắm
+=a near translation+ bản dịch sát nghĩa
+- tỉ mỉ
+=near work+ công việc tỉ mỉ
+- chi ly, chắt bóp, keo kiệt
+=to be very near with one's money+ rất chi ly đối với đồng tiền
+- bên trái
+=the near side of the road+ bên trái đường
+=the near wheel of a car+ bánh xe bên trái
+=the near foreleg of a horse+ chân trái đằng trước của con ngựa
+*  phó từ
+- gần, ở gần; sắp tới, không xa
+=when success comes near more hardships are for and near+ xa gần khắp mọi nơi
+=near at hand+ gần ngay bên; gần tới nơi
+=near by+ ở gần, ở bên
+- chi ly, chắt bóp, keo kiệt
+=to live very near+ sống chắt bóp
+*  giới từ
+- gần, ở gần
+=to stanf near the fire+ đứng gần lò sưởi
+=the performance was drawing near its close+ buổi biểu diễn gần hết
+=day is near breaking+ trời gần sáng
+- gần giống, theo kịp
+=who comes near him in self-denial?+ ai theo kịp được anh ấy về tinh thần hy sinh?
+*  động từ
+- tới gần, đến gần, xích lại gần, nhích lại; sắp tới
+=the ship was nearing the land+ tàu sắp tới đất liền
+=to be nearing one's end+ sắp chết
+@Chuyên ngành kỹ thuật
+-gần

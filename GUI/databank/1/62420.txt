@@ -1,3 +1,43 @@
-warp
-	@warp /wɔ:p/\n*  danh từ\n- (nghành dệt) sợi dọc\n=warp frame+ khung mắc cửi\n- (hàng hải) dây kéo thuyền\n- đất bồi, đất phù sa\n- (kỹ thuật) trạng thái oằn, trạng thái vênh (của thanh sắt, tấm ván...)\n- (nghĩa bóng) sự sai lạc, sự suy đốn, sự sa đoạ tinh thần\n*  ngoại động từ\n- (kỹ thuật) làm cong, làm oằn (thanh sắt, tấm ván), làm vênh (bánh xe)\n- (hàng hải) kéo (thuyền)\n- bồi đất phù sa (cho ruộng)\n- làm sai lạc, làm thiên lệch, làm sa đoạ, làm suy đốn (tinh thần)\n=judgment is warped by self-interest+ vì tư lợi mà suy xét bị sai lạc hẳn đi\n*  nội động từ\n- cong, oằn, vênh\n- (hàng hải) được kéo\n=to warp out of port+ được kéo ra khỏi cảng\n@Chuyên ngành kỹ thuật\n-bọc lại\n-đất bồi\n-đất bồi tích\n-đất phù sa\n-làm vênh\n-mắc sợi dọc\n-mạch\n-sợi dọc\n-sợi dọc (lưới dây kim loại)\n-sự vênh\n-sự vênh (của thủy tinh quang học)\n-vênh\n@Lĩnh vực: vật lý\n-làm cong, vênh\n-méo âm\n-méo tiếng\n@Lĩnh vực: hóa học & vật liệu\n-sự cong ống\n@Lĩnh vực: giao thông & vận tải\n-sự kéo (tàu) (bằng thừng chão)\n@Lĩnh vực: ô tô\n-trạng thái cong vênh\n@Lĩnh vực: xây dựng\n-trạng thái vênh
-
+warp	@warp /wɔ:p/
+*  danh từ
+- (nghành dệt) sợi dọc
+=warp frame+ khung mắc cửi
+- (hàng hải) dây kéo thuyền
+- đất bồi, đất phù sa
+- (kỹ thuật) trạng thái oằn, trạng thái vênh (của thanh sắt, tấm ván...)
+- (nghĩa bóng) sự sai lạc, sự suy đốn, sự sa đoạ tinh thần
+*  ngoại động từ
+- (kỹ thuật) làm cong, làm oằn (thanh sắt, tấm ván), làm vênh (bánh xe)
+- (hàng hải) kéo (thuyền)
+- bồi đất phù sa (cho ruộng)
+- làm sai lạc, làm thiên lệch, làm sa đoạ, làm suy đốn (tinh thần)
+=judgment is warped by self-interest+ vì tư lợi mà suy xét bị sai lạc hẳn đi
+*  nội động từ
+- cong, oằn, vênh
+- (hàng hải) được kéo
+=to warp out of port+ được kéo ra khỏi cảng
+@Chuyên ngành kỹ thuật
+-bọc lại
+-đất bồi
+-đất bồi tích
+-đất phù sa
+-làm vênh
+-mắc sợi dọc
+-mạch
+-sợi dọc
+-sợi dọc (lưới dây kim loại)
+-sự vênh
+-sự vênh (của thủy tinh quang học)
+-vênh
+@Lĩnh vực: vật lý
+-làm cong, vênh
+-méo âm
+-méo tiếng
+@Lĩnh vực: hóa học & vật liệu
+-sự cong ống
+@Lĩnh vực: giao thông & vận tải
+-sự kéo (tàu) (bằng thừng chão)
+@Lĩnh vực: ô tô
+-trạng thái cong vênh
+@Lĩnh vực: xây dựng
+-trạng thái vênh

@@ -1,3 +1,2 @@
-phrasally
-	@phrasally\n- xem phrase
-
+phrasally	@phrasally
+- xem phrase

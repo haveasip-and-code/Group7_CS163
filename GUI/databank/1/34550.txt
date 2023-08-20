@@ -1,3 +1,2 @@
-metalworker
-	@Chuyên ngành kinh tế\n-công nhân luyện kim
-
+metalworker	@Chuyên ngành kinh tế
+-công nhân luyện kim

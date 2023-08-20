@@ -1,3 +1,6 @@
-interposed
-	@Chuyên ngành kỹ thuật\n-được đặt xen giữa\n-xen kẽ\n@Lĩnh vực: hóa học & vật liệu\n-đặt vào giữa
-
+interposed	
+@Chuyên ngành kỹ thuật
+-được đặt xen giữa
+-xen kẽ
+@Lĩnh vực: hóa học & vật liệu
+-đặt vào giữa

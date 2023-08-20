@@ -1,3 +1,33 @@
-linear
-	@linear /'liniə/\n*  tính từ\n- (thuộc) nét kẻ, thuộc đường kẻ, (thuộc) đường vạch\n- dài, hẹp và đều nét (như một đường kẻ)\n- (toán học) tuyến\n=linear equation+ phương trình tuyến\n=linear algebra+ đại số tuyến\n@Chuyên ngành kỹ thuật\n-dài\n-đường dây\n-thẳng\n-tuyến tính\n@Lĩnh vực: cơ khí & công trình\n-dài (độ đo)\n-thuộc đường\n@Lĩnh vực: xây dựng\n-theo chiều dài\n-thuộc đường thẳng\n@Lĩnh vực: toán & tin\n-tuyến tính, thẳng\n@Chuyên ngành kỹ thuật\n-dài\n-đường dây\n-thẳng\n-tuyến tính\n@Lĩnh vực: cơ khí & công trình\n-dài (độ đo)\n-thuộc đường\n@Lĩnh vực: xây dựng\n-theo chiều dài\n-thuộc đường thẳng\n@Lĩnh vực: toán & tin\n-tuyến tính, thẳng
-
+linear	@linear /'liniə/
+*  tính từ
+- (thuộc) nét kẻ, thuộc đường kẻ, (thuộc) đường vạch
+- dài, hẹp và đều nét (như một đường kẻ)
+- (toán học) tuyến
+=linear equation+ phương trình tuyến
+=linear algebra+ đại số tuyến
+@Chuyên ngành kỹ thuật
+-dài
+-đường dây
+-thẳng
+-tuyến tính
+@Lĩnh vực: cơ khí & công trình
+-dài (độ đo)
+-thuộc đường
+@Lĩnh vực: xây dựng
+-theo chiều dài
+-thuộc đường thẳng
+@Lĩnh vực: toán & tin
+-tuyến tính, thẳng
+@Chuyên ngành kỹ thuật
+-dài
+-đường dây
+-thẳng
+-tuyến tính
+@Lĩnh vực: cơ khí & công trình
+-dài (độ đo)
+-thuộc đường
+@Lĩnh vực: xây dựng
+-theo chiều dài
+-thuộc đường thẳng
+@Lĩnh vực: toán & tin
+-tuyến tính, thẳng

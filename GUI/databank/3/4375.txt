@@ -1,3 +1,2 @@
-backings
-	@Chuyên ngành kỹ thuật\n-lớp đệm
-
+backings	@Chuyên ngành kỹ thuật
+-lớp đệm

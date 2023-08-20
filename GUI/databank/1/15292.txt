@@ -1,3 +1,24 @@
-diet
-	@diet /'daiət/\n*  danh từ\n- nghị viên (ở các nước khác nước Anh)\n- hội nghị quốc tế\n- ((thường) ở Ê-cốt) cuộc họp một ngày\n*  danh từ\n- đồ ăn thường ngày (của ai)\n- (y học) chế độ ăn uống; chế độ ăn kiêng\n=to be on a diet+ ăn uống theo chế độ; ăn uống kiêng khem\n=to put someone on a diet+ bắt ai ăn uống theo chế độ; bắt ai ăn kiêng\n=a milk-free diet+ chế độ ăn kiêng sữa\n*  ngoại động từ\n- (y học) bắt ăn uống theo chế độ; bắt ăn kiêng\n@Chuyên ngành kinh tế\n-chế độ ăn\n-thức ăn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chế độ ăn kiêng\n@Lĩnh vực: thực phẩm\n-khẩu phần ăn
-
+diet	
+@diet /'daiət/
+*  danh từ
+- nghị viên (ở các nước khác nước Anh)
+- hội nghị quốc tế
+- ((thường) ở Ê
+-cốt) cuộc họp một ngày
+*  danh từ
+- đồ ăn thường ngày (của ai)
+- (y học) chế độ ăn uống; chế độ ăn kiêng=to be on a diet
++ ăn uống theo chế độ; ăn uống kiêng khem=to put someone on a diet
++ bắt ai ăn uống theo chế độ; bắt ai ăn kiêng=a milk
+-free diet
++ chế độ ăn kiêng sữa
+*  ngoại động từ
+- (y học) bắt ăn uống theo chế độ; bắt ăn kiêng
+@Chuyên ngành kinh tế
+-chế độ ăn
+-thức ăn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chế độ ăn kiêng
+@Lĩnh vực: thực phẩm
+-khẩu phần ăn

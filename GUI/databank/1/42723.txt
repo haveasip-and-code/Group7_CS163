@@ -1,3 +1,11 @@
-positioning
-	@positioning\n- (máy tính) đặt vào vị trí\n@Chuyên ngành kinh tế\n-sự định vị\n-sự định vị (một sản phẩm trên thị trường ...)\n-sự định vị (một sản phẩm trên thị trường)\n-sự đưa vào vị trí\n@Chuyên ngành kỹ thuật\n-sự điều chỉnh\n@Lĩnh vực: toán & tin\n-đặt vào vị trí
-
+positioning	@positioning
+- (máy tính) đặt vào vị trí
+@Chuyên ngành kinh tế
+-sự định vị
+-sự định vị (một sản phẩm trên thị trường ...)
+-sự định vị (một sản phẩm trên thị trường)
+-sự đưa vào vị trí
+@Chuyên ngành kỹ thuật
+-sự điều chỉnh
+@Lĩnh vực: toán & tin
+-đặt vào vị trí

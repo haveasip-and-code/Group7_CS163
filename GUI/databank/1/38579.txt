@@ -1,3 +1,48 @@
-outside
-	@outside /'aut'said/\n*  danh từ\n- bề ngoài, bên ngoài\n=to open the door from the outside+ mở cửa từ bên ngoài\n- thế giới bên ngoài\n- hành khách ngồi phía ngoài\n- (số nhiều) những tờ giấy ngoài (của một ram giấy)\n!at the outside\n- nhiều nhất là, tối đa là\n=it is four kilometers at the outside+ nhiều nhất là 4 kilômét\n*  phó từ\n- ở phía ngoài; ở ngoài trời; ở ngoài biển khơi\n=put these flowers outside+ hây để những bông hoa này ra ngoài (phòng)\n!come outside\n- ra ngoài đi, thử ra ngoài chơi nào (thách thức)\n!to get outside of\n- (từ lóng) hiểu\n- chén, nhậu\n*  tính từ\n- ở ngoài, ở gần phía ngoài\n=outside seat+ ghế ở gần phía ngoài, ghế phía đằng cuối\n=outside work+ việc làm ở ngoài trời\n- mỏng manh (cơ hội)\n- của người ngoài\n=an outside opinion+ ý kiến của người ngoài (không phải là nhị sĩ)\n=outside broker+ người mua bán cổ phần ở ngoài (không thuộc sở chứng khoán)\n- cao nhất, tối đa\n=to quote the outside prices+ định giá cao nhất\n*  giới từ\n- ngoài, ra ngoài\n=cannot go outside the evidence+ không thể đi ra ngoài bằng chứng được\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) trừ ra\n!outside of\n- ngoài ra\n@Chuyên ngành kinh tế\n-bên ngoài\n-ngoài\n-ở ngoài\n@Chuyên ngành kỹ thuật\n-bên ngoài\n-mặt ngoài\n-ở ngoài\n-phía ngoài\n@Lĩnh vực: toán & tin\n-cạnh ngoài\n@Lĩnh vực: cơ khí & công trình\n-ở phía ngoài\n-phần ngoài
-
+outside	@outside /'aut'said/
+*  danh từ
+- bề ngoài, bên ngoài
+=to open the door from the outside+ mở cửa từ bên ngoài
+- thế giới bên ngoài
+- hành khách ngồi phía ngoài
+- (số nhiều) những tờ giấy ngoài (của một ram giấy)
+!at the outside
+- nhiều nhất là, tối đa là
+=it is four kilometers at the outside+ nhiều nhất là 4 kilômét
+*  phó từ
+- ở phía ngoài; ở ngoài trời; ở ngoài biển khơi
+=put these flowers outside+ hây để những bông hoa này ra ngoài (phòng)
+!come outside
+- ra ngoài đi, thử ra ngoài chơi nào (thách thức)
+!to get outside of
+- (từ lóng) hiểu
+- chén, nhậu
+*  tính từ
+- ở ngoài, ở gần phía ngoài
+=outside seat+ ghế ở gần phía ngoài, ghế phía đằng cuối
+=outside work+ việc làm ở ngoài trời
+- mỏng manh (cơ hội)
+- của người ngoài
+=an outside opinion+ ý kiến của người ngoài (không phải là nhị sĩ)
+=outside broker+ người mua bán cổ phần ở ngoài (không thuộc sở chứng khoán)
+- cao nhất, tối đa
+=to quote the outside prices+ định giá cao nhất
+*  giới từ
+- ngoài, ra ngoài
+=cannot go outside the evidence+ không thể đi ra ngoài bằng chứng được
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trừ ra
+!outside of
+- ngoài ra
+@Chuyên ngành kinh tế
+-bên ngoài
+-ngoài
+-ở ngoài
+@Chuyên ngành kỹ thuật
+-bên ngoài
+-mặt ngoài
+-ở ngoài
+-phía ngoài
+@Lĩnh vực: toán & tin
+-cạnh ngoài
+@Lĩnh vực: cơ khí & công trình
+-ở phía ngoài
+-phần ngoài

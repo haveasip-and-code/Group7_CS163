@@ -1,3 +1,4 @@
-communications
-	@Chuyên ngành kỹ thuật\n-sự truyền thông\n@Lĩnh vực: điện tử & viễn thông\n-ngành truyền thông
-
+communications	@Chuyên ngành kỹ thuật
+-sự truyền thông
+@Lĩnh vực: điện tử & viễn thông
+-ngành truyền thông

@@ -1,3 +1,4 @@
-segno
-	@segno\n* danh từ\n- số nhiều segnos,  segni\n- ký hiệu chỉ sự mở đầu và sự kết thúc một đoạn nhạc được lặp lại
-
+segno	@segno
+* danh từ
+- số nhiều segnos,  segni
+- ký hiệu chỉ sự mở đầu và sự kết thúc một đoạn nhạc được lặp lại

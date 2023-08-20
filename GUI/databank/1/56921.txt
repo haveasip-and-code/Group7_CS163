@@ -1,3 +1,11 @@
-tomb
-	@tomb /tu:m/\n*  danh từ\n- mồ, mộ, mả\n- (the tomb) sự chết\n*  ngoại động từ\n- chôn, chôn cất; vùi xuống\n@Chuyên ngành kỹ thuật\n-lăng\n-mộ xây\n@Lĩnh vực: xây dựng\n-mộ
-
+tomb	@tomb /tu:m/
+*  danh từ
+- mồ, mộ, mả
+- (the tomb) sự chết
+*  ngoại động từ
+- chôn, chôn cất; vùi xuống
+@Chuyên ngành kỹ thuật
+-lăng
+-mộ xây
+@Lĩnh vực: xây dựng
+-mộ

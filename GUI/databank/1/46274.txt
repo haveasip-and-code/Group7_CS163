@@ -1,3 +1,6 @@
-referencing
-	@Chuyên ngành kinh tế\n-việc tài trợ lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gắn theo quan hệ\n-sự đo nối tiếp
-
+referencing	@Chuyên ngành kinh tế
+-việc tài trợ lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-gắn theo quan hệ
+-sự đo nối tiếp

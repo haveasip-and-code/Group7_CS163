@@ -1,3 +1,6 @@
-amphitheater
-	@Chuyên ngành kỹ thuật\n-giảng đường\n@Lĩnh vực: xây dựng\n-hội trường bậc dốc\n-nhà hát vòng tròn
-
+amphitheater	
+@Chuyên ngành kỹ thuật
+-giảng đường
+@Lĩnh vực: xây dựng
+-hội trường bậc dốc
+-nhà hát vòng tròn

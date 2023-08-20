@@ -1,3 +1,8 @@
-topology
-	@topology /tə'pɔlədʤi/\n*  danh từ\n- địa hình học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cấu trúc liên kết\n@Lĩnh vực: cơ khí & công trình\n-địa hình học
-
+topology	@topology /tə'pɔlədʤi/
+*  danh từ
+- địa hình học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cấu trúc liên kết
+@Lĩnh vực: cơ khí & công trình
+-địa hình học

@@ -1,3 +1,16 @@
-transverse
-	@transverse /'trænzvə:s/\n*  tính từ\n- (như) transversal\n*  danh từ\n- xà ngang\n- (y học) cơ ngang\n@Chuyên ngành kỹ thuật\n-hướng ngang\n-nằm ngang\n-ngang\n-thanh ngang\n-xà ngang\n@Lĩnh vực: giao thông & vận tải\n-cắt ngang (kết cấu tàu thủy)\n-dầm ngang (kết cấu tàu thủy)\n-theo đường ngang
-
+transverse	@transverse /'trænzvə:s/
+*  tính từ
+- (như) transversal
+*  danh từ
+- xà ngang
+- (y học) cơ ngang
+@Chuyên ngành kỹ thuật
+-hướng ngang
+-nằm ngang
+-ngang
+-thanh ngang
+-xà ngang
+@Lĩnh vực: giao thông & vận tải
+-cắt ngang (kết cấu tàu thủy)
+-dầm ngang (kết cấu tàu thủy)
+-theo đường ngang

@@ -1,3 +1,16 @@
-corrosion
-	@corrosion /kə'rouʤn/\n*  danh từ\n- sự gặm mòn\n@Chuyên ngành kinh tế\n-gặm mòn\n-phá hủy dần\n-sự ăn mòn\n@Chuyên ngành kỹ thuật\n-ăn mòn\n-gặm mòn\n-sự ăn mòn\n-sự bào mòn\n-sự gặm mòn\n-sự gỉ\n-sự rửa xói\n-sự xói lở
-
+corrosion	@corrosion /kə'rouʤn/
+*  danh từ
+- sự gặm mòn
+@Chuyên ngành kinh tế
+-gặm mòn
+-phá hủy dần
+-sự ăn mòn
+@Chuyên ngành kỹ thuật
+-ăn mòn
+-gặm mòn
+-sự ăn mòn
+-sự bào mòn
+-sự gặm mòn
+-sự gỉ
+-sự rửa xói
+-sự xói lở

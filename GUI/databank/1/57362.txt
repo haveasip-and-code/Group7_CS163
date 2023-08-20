@@ -1,3 +1,14 @@
-transducer
-	@transducer /træns'dju:sə/\n*  danh từ\n- (vật lý) máy biến năng\n@Chuyên ngành kỹ thuật\n-bộ biến đổi\n-bộ cảm biến\n-bộ chuyển đổi\n-cái cảm biến\n-máy biến đổi\n-máy biến năng\n@Lĩnh vực: điện\n-bộ biến năng\n@Lĩnh vực: xây dựng\n-bộ thu phóng âm
-
+transducer	@transducer /træns'dju:sə/
+*  danh từ
+- (vật lý) máy biến năng
+@Chuyên ngành kỹ thuật
+-bộ biến đổi
+-bộ cảm biến
+-bộ chuyển đổi
+-cái cảm biến
+-máy biến đổi
+-máy biến năng
+@Lĩnh vực: điện
+-bộ biến năng
+@Lĩnh vực: xây dựng
+-bộ thu phóng âm

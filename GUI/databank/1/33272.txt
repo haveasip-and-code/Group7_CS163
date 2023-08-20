@@ -1,3 +1,13 @@
-magnification
-	@magnification /,mægnifi'keiʃn/\n*  danh từ\n- sự phóng đại, sự mở rộng, sự làm to\n- sự ca ngợi, sự tán tụng, sự tán dương\n@Chuyên ngành kỹ thuật\n-độ khuếch đại\n-độ phóng đại\n-sự khuếch đại\n-sự mở rộng\n-sự phóng đại\n-sự tăng\n@Lĩnh vực: cơ khí & công trình\n-sư phóng đại
-
+magnification	@magnification /,mægnifi'keiʃn/
+*  danh từ
+- sự phóng đại, sự mở rộng, sự làm to
+- sự ca ngợi, sự tán tụng, sự tán dương
+@Chuyên ngành kỹ thuật
+-độ khuếch đại
+-độ phóng đại
+-sự khuếch đại
+-sự mở rộng
+-sự phóng đại
+-sự tăng
+@Lĩnh vực: cơ khí & công trình
+-sư phóng đại

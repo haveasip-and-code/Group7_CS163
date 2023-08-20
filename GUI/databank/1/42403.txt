@@ -1,3 +1,2 @@
-poloist
-	@poloist\n- xem polo
-
+poloist	@poloist
+- xem polo

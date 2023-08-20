@@ -1,3 +1,2 @@
-nullifier
-	@nullifier\n- (giải tích) hàm làm triệt tiêu
-
+nullifier	@nullifier
+- (giải tích) hàm làm triệt tiêu

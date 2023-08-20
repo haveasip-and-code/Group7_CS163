@@ -1,3 +1,5 @@
-pegmatitic
-	@pegmatitic\n- xem pegmatite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pecmatit
-
+pegmatitic	@pegmatitic
+- xem pegmatite
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-pecmatit

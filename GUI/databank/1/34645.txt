@@ -1,3 +1,9 @@
-metrication
-	@metrication\n* danh từ\n- sự đổi sang hệ mét\n@Chuyên ngành kinh tế\n-đổi thành hệ thống mét\n-mét hệ hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phép metric hóa
-
+metrication	@metrication
+* danh từ
+- sự đổi sang hệ mét
+@Chuyên ngành kinh tế
+-đổi thành hệ thống mét
+-mét hệ hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép metric hóa

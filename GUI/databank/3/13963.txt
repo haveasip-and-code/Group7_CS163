@@ -1,3 +1,8 @@
-deductible
-	@deductible\n* tính từ\n- có thể trừ đi, có thể khấu trừ\n- (bảo hiểm) mức miễn bồi thường\n@Chuyên ngành kinh tế\n-có thể giảm trừ\n-mức miễn bồi thường\n-phải giảm...
-
+deductible	@deductible
+* tính từ
+- có thể trừ đi, có thể khấu trừ
+- (bảo hiểm) mức miễn bồi thường
+@Chuyên ngành kinh tế
+-có thể giảm trừ
+-mức miễn bồi thường
+-phải giảm...

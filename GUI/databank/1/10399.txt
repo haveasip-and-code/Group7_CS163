@@ -1,3 +1,4 @@
-columbium
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cb
-
+columbium	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-cb

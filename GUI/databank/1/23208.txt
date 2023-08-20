@@ -1,3 +1,8 @@
-genre
-	@genre /ʤỴ:ɳr/\n*  danh từ\n- loại, thể loại\n@Chuyên ngành kỹ thuật\n-giống\n@Lĩnh vực: xây dựng\n-thể loại
-
+genre	
+@genre /ʤỴ:ɳr/
+*  danh từ
+- loại, thể loại
+@Chuyên ngành kỹ thuật
+-giống
+@Lĩnh vực: xây dựng
+-thể loại

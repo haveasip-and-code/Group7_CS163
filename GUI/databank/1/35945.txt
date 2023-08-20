@@ -1,3 +1,7 @@
-multidimensional
-	@multidimensional\n- nhiều chiều\n@Chuyên ngành kỹ thuật\n-nhiều chiều\n-nhiều thứ nguyên\n@Lĩnh vực: toán & tin\n-đa chiều
-
+multidimensional	@multidimensional
+- nhiều chiều
+@Chuyên ngành kỹ thuật
+-nhiều chiều
+-nhiều thứ nguyên
+@Lĩnh vực: toán & tin
+-đa chiều

@@ -1,3 +1,2 @@
-definitiveness
-	@definitiveness\n- xem definitive
-
+definitiveness	@definitiveness
+- xem definitive

@@ -1,3 +1,13 @@
-intern
-	@intern /in'tə:n/\n*  danh từ (từ Mỹ,nghĩa Mỹ)\n- (như) interne\n- người bị giam giữ (trong một khu vực nhất định...)\n*  ngoại động từ\n- giam giữ (trong một khu vực nhất định...)\n*  nội động từ (từ Mỹ,nghĩa Mỹ)\n- là học sinh y nội trú; là bác sĩ thực tập nội trú\n- là giáo sinh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nội trú
-
+intern	
+@intern /in'tə:n/
+*  danh từ (từ Mỹ,nghĩa Mỹ)
+- (như) interne
+- người bị giam giữ (trong một khu vực nhất định...)
+*  ngoại động từ
+- giam giữ (trong một khu vực nhất định...)
+*  nội động từ (từ Mỹ,nghĩa Mỹ)
+- là học sinh y nội trú; là bác sĩ thực tập nội trú
+- là giáo sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nội trú

@@ -1,3 +1,2 @@
-cubistic
-	@cubistic\n- xem cubism
-
+cubistic	@cubistic
+- xem cubism

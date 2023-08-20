@@ -1,3 +1,4 @@
-hereditaments
-	@Chuyên ngành kinh tế\n-di sản\n-tài sản thừa kế
-
+hereditaments	
+@Chuyên ngành kinh tế
+-di sản
+-tài sản thừa kế

@@ -1,3 +1,2 @@
-kidnaper
-	@kidnaper\n- xem kidnap
-
+kidnaper	@kidnaper
+- xem kidnap

@@ -1,3 +1,18 @@
-adjuster
-	@adjuster /ə'dʤʌstə/\n*  danh từ\n- máy điều chỉnh\n- thợ lắp máy, thợ lắp ráp\n@Chuyên ngành kinh tế\n-người tính toán tổn thất\n@Chuyên ngành kỹ thuật\n-bộ điều chỉnh\n-dụng cụ điều chỉnh\n-máy điều chỉnh\n@Lĩnh vực: cơ khí & công trình\n-bộ phận điều chỉnh\n-bộ phận hiệu chuẩn\n-cái chỉnh\n-thợ điều chỉnh\n-thợ nguội lắp máy\n@Lĩnh vực: xây dựng\n-thợ lắp máy, thợ ráp máy
-
+adjuster	@adjuster /ə'dʤʌstə/
+*  danh từ
+- máy điều chỉnh
+- thợ lắp máy, thợ lắp ráp
+@Chuyên ngành kinh tế
+-người tính toán tổn thất
+@Chuyên ngành kỹ thuật
+-bộ điều chỉnh
+-dụng cụ điều chỉnh
+-máy điều chỉnh
+@Lĩnh vực: cơ khí & công trình
+-bộ phận điều chỉnh
+-bộ phận hiệu chuẩn
+-cái chỉnh
+-thợ điều chỉnh
+-thợ nguội lắp máy
+@Lĩnh vực: xây dựng
+-thợ lắp máy, thợ ráp máy

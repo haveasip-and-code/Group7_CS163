@@ -1,3 +1,5 @@
-repairman
-	@repairman\n* danh từ\n- thợ sửa chữa máy móc\n@Chuyên ngành kinh tế\n-thợ sửa chữa máy móc
-
+repairman	@repairman
+* danh từ
+- thợ sửa chữa máy móc
+@Chuyên ngành kinh tế
+-thợ sửa chữa máy móc

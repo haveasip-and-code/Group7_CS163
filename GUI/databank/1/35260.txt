@@ -1,3 +1,15 @@
-mitre
-	@mitre /'maitə/ (miter) /'maitə/\n*  danh từ\n- mũ tế (của giám mục)\n- nón ống khói lò sưởi\n- mộng vuông góc (đồ gỗ)\n@Chuyên ngành kỹ thuật\n-ghép chéo góc\n-mép vát\n-sự vát 45 độ\n-sự vát chéo\n@Lĩnh vực: cơ khí & công trình\n-chụp quay\n-sự nghiêng 45o\n@Lĩnh vực: xây dựng\n-miter
-
+mitre	@mitre /'maitə/ (miter) /'maitə/
+*  danh từ
+- mũ tế (của giám mục)
+- nón ống khói lò sưởi
+- mộng vuông góc (đồ gỗ)
+@Chuyên ngành kỹ thuật
+-ghép chéo góc
+-mép vát
+-sự vát 45 độ
+-sự vát chéo
+@Lĩnh vực: cơ khí & công trình
+-chụp quay
+-sự nghiêng 45o
+@Lĩnh vực: xây dựng
+-miter

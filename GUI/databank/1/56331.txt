@@ -1,3 +1,5 @@
-thermolabile
-	@Chuyên ngành kinh tế\n-tính không bền nhiệt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-không chịu nhiệt
-
+thermolabile	@Chuyên ngành kinh tế
+-tính không bền nhiệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-không chịu nhiệt

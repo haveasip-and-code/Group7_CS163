@@ -1,3 +1,14 @@
-greet
-	@greet /gri:t/\n*  ngoại động từ\n- chào, chào hỏi, đón chào\n=to greet somebody with a smile+ mỉm cười chào ai\n- chào mừng, hoan hô\n=to greet somebody's victory+ chào mừng thắng lợi của ai\n=to greet someone's speech with cheers+ vỗ tay hoan hô bài nói của ai\n- bày ra (trước mắt); đập vào (mắt, tai); vang đến, vọng đến (tai)\n=a grand sight greeted our eyes+ một cảnh hùng vĩ bày ra trước mắt như đón mừng chúng tôi\n=to greet the ear+ rót vào tai\n*  nội động từ\n- (Ê-cốt) khóc lóc, than khóc
-
+greet	
+@greet /gri:t/
+*  ngoại động từ
+- chào, chào hỏi, đón chào=to greet somebody with a smile
++ mỉm cười chào ai
+- chào mừng, hoan hô=to greet somebody's victory
++ chào mừng thắng lợi của ai=to greet someone's speech with cheers
++ vỗ tay hoan hô bài nói của ai
+- bày ra (trước mắt); đập vào (mắt, tai); vang đến, vọng đến (tai)=a grand sight greeted our eyes
++ một cảnh hùng vĩ bày ra trước mắt như đón mừng chúng tôi=to greet the ear
++ rót vào tai
+*  nội động từ
+- (Ê
+-cốt) khóc lóc, than khóc

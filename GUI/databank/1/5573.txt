@@ -1,3 +1,10 @@
-biochip
-	@biochip\n- (Tech) chip sinh tính\n@Chuyên ngành kỹ thuật\n-lát sinh học\n@Lĩnh vực: toán & tin\n-chip sinh học\n-vi mạch sinh học\n@Lĩnh vực: y học\n-mạch sinh học
-
+biochip	
+@biochip
+- (Tech) chip sinh tính
+@Chuyên ngành kỹ thuật
+-lát sinh học
+@Lĩnh vực: toán & tin
+-chip sinh học
+-vi mạch sinh học
+@Lĩnh vực: y học
+-mạch sinh học

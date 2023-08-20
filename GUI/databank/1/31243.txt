@@ -1,3 +1,18 @@
-labourer
-	@labourer /'leibərə/\n*  danh từ\n- người lao động chân tay, lao công\n@Chuyên ngành kinh tế\n-công nhân\n-lao công\n-người lao công\n-người lao động tay chân\n@Chuyên ngành kỹ thuật\n-công nhân\n-thợ\n@Lĩnh vực: xây dựng\n-lao công\n@Chuyên ngành kỹ thuật\n-công nhân\n-thợ\n@Lĩnh vực: xây dựng\n-lao công
-
+labourer	@labourer /'leibərə/
+*  danh từ
+- người lao động chân tay, lao công
+@Chuyên ngành kinh tế
+-công nhân
+-lao công
+-người lao công
+-người lao động tay chân
+@Chuyên ngành kỹ thuật
+-công nhân
+-thợ
+@Lĩnh vực: xây dựng
+-lao công
+@Chuyên ngành kỹ thuật
+-công nhân
+-thợ
+@Lĩnh vực: xây dựng
+-lao công

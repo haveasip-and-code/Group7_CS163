@@ -1,3 +1,13 @@
-fermenter
-	@fermenter\n* danh từ\n- chất gây men; thùng gây men\n@Chuyên ngành kinh tế\n-thiết bị lên men\n-thùng lên men\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-thùng lên men\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-thùng lên men
-
+fermenter	
+@fermenter
+* danh từ
+- chất gây men; thùng gây men
+@Chuyên ngành kinh tế
+-thiết bị lên men
+-thùng lên men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-thùng lên men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-thùng lên men

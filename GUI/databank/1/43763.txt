@@ -1,3 +1,63 @@
-process
-	@process\n- quá trình, phương pháp, cách p. with in dependent increments\n- (xác suất) quá trình với gia số độc lập\n- additive p. quá trình cộng t ính\n- adjoint p. quá trình liên hợp\n- approximation p. quá trình xấp xỉ\n- autoregressive p. quá trình tự hồi quy\n- birth p. quá trình toàn sinh\n- bivariate p. quá trình hai chiều\n- branching p. quá trình phân nhánh\n- cascade p. quá trình tầng\n- centred p. quá trình có tâm\n- continuous p. quá trình liên tục\n- crypto-deterministic p. quá rình tất định ngầm\n- cyclic p. quá trình tuần hoàn\n- damped oscillatory p. quá trình dao động tắt dần\n- death p. quá trình chết, quá trình toàn tử\n- degenerete p. quá trình suy biến\n- denumerable p. quá trình đếm được\n- deterministic p. quá trình tất định\n- diagonal p. quá trình chéo\n- diffusion p. quá trình khuyếch tán\n- digital p. quá trình rời rạc\n- discontinuous p. quá trình rời rạc\n- discrete p. quá trình rời rạc\n- dissipative p. quá trình hao tán\n- disturbeb harmonic p. (thống kê) quá trình điều hoà bị nhiễu loạn\n- divergent p. quá trình phân kỳ\n- emigration p. quá trình di dân\n- equally-correlated p. quá trình tương quan cân bằng\n- equilibrium p. quá trình cân bằng\n- ergodic p. quá trình egođic\n- exhaustion p. quá trình vét kiệt\n- explosive p. (xác suất) quá trình bùng nổ (quá trình có các số trung bình tăng\n- vô hạn)\n- finite p. (logic học) (đại số) quá trình hữu hạn\n- hereditary p. (xác suất) quá trình có di truyển\n- homogeneous p. (xác suất) quá trình thuần nhất\n- immigration p. quá trình di cư\n- irreversible p. (vật lí) quá trình không thuận nghịch\n- isentropic p. quá trình đẳng entropi\n- isotropic p. (xác suất) quá trình đẳng hướng\n- iterative p. (điều khiển học) quá trình lặp\n- limit p. quá trình giới hạn\n- logistic p. (thống kê) quá trình lôgictic\n- Markovian p. (xác suất) quá trình Mácôp\n- moving-summation p. quá trình lấy tổng trượt\n- multiplivative p. (xác suất) quá trình phân nhánh\n- orthogonal p. quá trình trực giao\n- periodie p. quá trình tuần hoàn\n- production p. (toán kinh tế) quá trình sản xuất\n- purely random p. (điều khiển học) quá trình thuần tuý ngẫu nhiên\n- random p. quá trình ngẫu nhiên\n- recursive p. quá trình đệ quy\n- repetitive p. (điều khiển học) quá trình lặp\n- reversible p. (điều khiển học) quá trình khả nghịch\n- separable p. quá trình tách được\n- sieving p. phương pháp sàng\n- solving p. quá trình giải\n- stable p. (xác suất) quá trình ổn định\n- stationary p. (xác suất) quá trình dừng\n- stochastic p. (xác suất) quá trình ngẫu nhiên\n- strictly stationary p. (xác suất) quá trình dừng ngặt
-
+process	@process
+- quá trình, phương pháp, cách p. with in dependent increments
+- (xác suất) quá trình với gia số độc lập
+- additive p. quá trình cộng t ính
+- adjoint p. quá trình liên hợp
+- approximation p. quá trình xấp xỉ
+- autoregressive p. quá trình tự hồi quy
+- birth p. quá trình toàn sinh
+- bivariate p. quá trình hai chiều
+- branching p. quá trình phân nhánh
+- cascade p. quá trình tầng
+- centred p. quá trình có tâm
+- continuous p. quá trình liên tục
+- crypto-deterministic p. quá rình tất định ngầm
+- cyclic p. quá trình tuần hoàn
+- damped oscillatory p. quá trình dao động tắt dần
+- death p. quá trình chết, quá trình toàn tử
+- degenerete p. quá trình suy biến
+- denumerable p. quá trình đếm được
+- deterministic p. quá trình tất định
+- diagonal p. quá trình chéo
+- diffusion p. quá trình khuyếch tán
+- digital p. quá trình rời rạc
+- discontinuous p. quá trình rời rạc
+- discrete p. quá trình rời rạc
+- dissipative p. quá trình hao tán
+- disturbeb harmonic p. (thống kê) quá trình điều hoà bị nhiễu loạn
+- divergent p. quá trình phân kỳ
+- emigration p. quá trình di dân
+- equally-correlated p. quá trình tương quan cân bằng
+- equilibrium p. quá trình cân bằng
+- ergodic p. quá trình egođic
+- exhaustion p. quá trình vét kiệt
+- explosive p. (xác suất) quá trình bùng nổ (quá trình có các số trung bình tăng
+- vô hạn)
+- finite p. (logic học) (đại số) quá trình hữu hạn
+- hereditary p. (xác suất) quá trình có di truyển
+- homogeneous p. (xác suất) quá trình thuần nhất
+- immigration p. quá trình di cư
+- irreversible p. (vật lí) quá trình không thuận nghịch
+- isentropic p. quá trình đẳng entropi
+- isotropic p. (xác suất) quá trình đẳng hướng
+- iterative p. (điều khiển học) quá trình lặp
+- limit p. quá trình giới hạn
+- logistic p. (thống kê) quá trình lôgictic
+- Markovian p. (xác suất) quá trình Mácôp
+- moving-summation p. quá trình lấy tổng trượt
+- multiplivative p. (xác suất) quá trình phân nhánh
+- orthogonal p. quá trình trực giao
+- periodie p. quá trình tuần hoàn
+- production p. (toán kinh tế) quá trình sản xuất
+- purely random p. (điều khiển học) quá trình thuần tuý ngẫu nhiên
+- random p. quá trình ngẫu nhiên
+- recursive p. quá trình đệ quy
+- repetitive p. (điều khiển học) quá trình lặp
+- reversible p. (điều khiển học) quá trình khả nghịch
+- separable p. quá trình tách được
+- sieving p. phương pháp sàng
+- solving p. quá trình giải
+- stable p. (xác suất) quá trình ổn định
+- stationary p. (xác suất) quá trình dừng
+- stochastic p. (xác suất) quá trình ngẫu nhiên
+- strictly stationary p. (xác suất) quá trình dừng ngặt

@@ -1,3 +1,11 @@
-edifice
-	@edifice /'edifis/\n*  danh từ\n- công trình xây dựng lớn ((nghĩa đen),  (nghĩa bóng))\n@Chuyên ngành kỹ thuật\n-công trình\n@Lĩnh vực: xây dựng\n-cấu trúc lớn\n-công trình lớn\n-ngôi nhà lớn\n-tòa nhà lớn
-
+edifice	
+@edifice /'edifis/
+*  danh từ
+- công trình xây dựng lớn ((nghĩa đen),  (nghĩa bóng))
+@Chuyên ngành kỹ thuật
+-công trình
+@Lĩnh vực: xây dựng
+-cấu trúc lớn
+-công trình lớn
+-ngôi nhà lớn
+-tòa nhà lớn

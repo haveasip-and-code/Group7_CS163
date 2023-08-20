@@ -1,3 +1,20 @@
-overtime
-	@overtime /'ouvətaim/\n*  phó từ & tính từ\n- quá giờ, ngoài giờ (quy định)\n=to work overtime+ làm việc quá giờ, làm việc ngoài giờ\n=overtime pay+ tiền làm ngoài giờ\n*  danh từ\n- giờ làm thêm\n- (thể dục,thể thao) giờ đấu thêm (để quyết định thắng bại)['ouvə'taim]\n*  ngoại động từ\n- (nhiếp ảnh) (như) overexpose\n@Chuyên ngành kinh tế\n-giờ làm thêm\n-ngoài giờ\n-thời gian làm ngoài giờ\n-thời gian làm ngoài giờ quy định\n@Chuyên ngành kỹ thuật\n-giờ làm thêm\n-giờ phụ trội\n@Lĩnh vực: xây dựng\n-giờ đấu thêm
-
+overtime	@overtime /'ouvətaim/
+*  phó từ & tính từ
+- quá giờ, ngoài giờ (quy định)
+=to work overtime+ làm việc quá giờ, làm việc ngoài giờ
+=overtime pay+ tiền làm ngoài giờ
+*  danh từ
+- giờ làm thêm
+- (thể dục,thể thao) giờ đấu thêm (để quyết định thắng bại)['ouvə'taim]
+*  ngoại động từ
+- (nhiếp ảnh) (như) overexpose
+@Chuyên ngành kinh tế
+-giờ làm thêm
+-ngoài giờ
+-thời gian làm ngoài giờ
+-thời gian làm ngoài giờ quy định
+@Chuyên ngành kỹ thuật
+-giờ làm thêm
+-giờ phụ trội
+@Lĩnh vực: xây dựng
+-giờ đấu thêm

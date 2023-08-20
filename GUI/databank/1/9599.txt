@@ -1,3 +1,19 @@
-clamping
-	@clamping\n- (Tech) khóa, kẹp (d)\n@Chuyên ngành kỹ thuật\n-giữ chặt\n-kẹp chặt\n-mạch ghim\n-sự cặp\n-sự điều chỉnh\n-sự ghim\n-sự giữ\n-sự giữ chặt\n-sự kẹp\n-sự móc\n-sự siết\n@Lĩnh vực: điện lạnh\n-sự ghim (dạng sóng)\n@Lĩnh vực: toán & tin\n-sự giữ cố định
-
+clamping	
+@clamping
+- (Tech) khóa, kẹp (d)
+@Chuyên ngành kỹ thuật
+-giữ chặt
+-kẹp chặt
+-mạch ghim
+-sự cặp
+-sự điều chỉnh
+-sự ghim
+-sự giữ
+-sự giữ chặt
+-sự kẹp
+-sự móc
+-sự siết
+@Lĩnh vực: điện lạnh
+-sự ghim (dạng sóng)
+@Lĩnh vực: toán & tin
+-sự giữ cố định

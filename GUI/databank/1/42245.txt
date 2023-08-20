@@ -1,3 +1,2 @@
-podiatric
-	@podiatric\n- xem podiatry
-
+podiatric	@podiatric
+- xem podiatry

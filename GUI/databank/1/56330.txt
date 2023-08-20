@@ -1,3 +1,6 @@
-thermojunction
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mối hàn (cặp) nhiệt điện\n-mối hàn đầu nóng (của cặp nhiệt)\n@Lĩnh vực: điện lạnh\n-tiếp xúc nhiệt điện
-
+thermojunction	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-mối hàn (cặp) nhiệt điện
+-mối hàn đầu nóng (của cặp nhiệt)
+@Lĩnh vực: điện lạnh
+-tiếp xúc nhiệt điện

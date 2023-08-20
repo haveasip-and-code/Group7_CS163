@@ -1,3 +1,19 @@
-palisade
-	@palisade /,pæli'seid/\n*  danh từ\n- hàng rào cọ, hàng rào chấn song sắt\n- (quân sự) cọc rào nhọn\n- (từ Mỹ,nghĩa Mỹ) hàng vách đá dốc đứng (ở bờ biển)\n*  ngoại động từ\n- rào bằng hàng rào chấn song\n@Chuyên ngành kỹ thuật\n-cọc\n-hàng rào\n-hàng rào cọc\n@Lĩnh vực: xây dựng\n-cọc rào\n-dậu cọc\n-hàng rào bằng cọc\n-khối đá nhọn\n@Lĩnh vực: cơ khí & công trình\n-trụ đá bazan\n-vách đá dốc đứng (ở bờ biển)
-
+palisade	@palisade /,pæli'seid/
+*  danh từ
+- hàng rào cọ, hàng rào chấn song sắt
+- (quân sự) cọc rào nhọn
+- (từ Mỹ,nghĩa Mỹ) hàng vách đá dốc đứng (ở bờ biển)
+*  ngoại động từ
+- rào bằng hàng rào chấn song
+@Chuyên ngành kỹ thuật
+-cọc
+-hàng rào
+-hàng rào cọc
+@Lĩnh vực: xây dựng
+-cọc rào
+-dậu cọc
+-hàng rào bằng cọc
+-khối đá nhọn
+@Lĩnh vực: cơ khí & công trình
+-trụ đá bazan
+-vách đá dốc đứng (ở bờ biển)

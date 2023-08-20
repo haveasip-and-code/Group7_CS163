@@ -1,3 +1,4 @@
-battleship
-	@battleship /'bætlʃip/\n*  danh từ\n- (hàng hải) tàu chiến lớn
-
+battleship	
+@battleship /'bætlʃip/
+*  danh từ
+- (hàng hải) tàu chiến lớn

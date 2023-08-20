@@ -1,3 +1,27 @@
-assay
-	@assay /ə'sei/\n*  danh từ\n- sự thử, sự thí nghiệm; sự xét nghiệm, sự phân tích (kim loại quý)\n=assay furnace+ lò thử (vàng)\n=radioactive assay+ phép phân tích phóng xạ\n- kim loại để thử, kim loại để thí nghiệm\n- (từ cổ,nghĩa cổ) sự thử (làm việc gì)\n*  động từ\n- thử, thí nghiệm; xét nghiệm, phân tích (kim loại quý...)\n- (nghĩa bóng) thử thách giá trị\n- thử làm (việc gì khó khăn)\n@Chuyên ngành kinh tế\n-kiểm nghiệm\n-sự phân tích\n@Chuyên ngành kỹ thuật\n-mẫu thí nghiệm\n-mẫu thử\n-phân tích\n-sự phân tích\n-sự thí nghiệm\n-sự thử\n-sự thử nghiệm\n-sự xét nghiệm\n-vật thử\n-xét nghiệm\n@Lĩnh vực: y học\n-sự thử, khảo nghiệm, xét nghiệm
-
+assay	@assay /ə'sei/
+*  danh từ
+- sự thử, sự thí nghiệm; sự xét nghiệm, sự phân tích (kim loại quý)
+=assay furnace+ lò thử (vàng)
+=radioactive assay+ phép phân tích phóng xạ
+- kim loại để thử, kim loại để thí nghiệm
+- (từ cổ,nghĩa cổ) sự thử (làm việc gì)
+*  động từ
+- thử, thí nghiệm; xét nghiệm, phân tích (kim loại quý...)
+- (nghĩa bóng) thử thách giá trị
+- thử làm (việc gì khó khăn)
+@Chuyên ngành kinh tế
+-kiểm nghiệm
+-sự phân tích
+@Chuyên ngành kỹ thuật
+-mẫu thí nghiệm
+-mẫu thử
+-phân tích
+-sự phân tích
+-sự thí nghiệm
+-sự thử
+-sự thử nghiệm
+-sự xét nghiệm
+-vật thử
+-xét nghiệm
+@Lĩnh vực: y học
+-sự thử, khảo nghiệm, xét nghiệm

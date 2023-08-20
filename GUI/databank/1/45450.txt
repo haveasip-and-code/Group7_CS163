@@ -1,3 +1,2 @@
-railed
-	@Chuyên ngành kinh tế\n-thư tốc hành hỏa xa
-
+railed	@Chuyên ngành kinh tế
+-thư tốc hành hỏa xa

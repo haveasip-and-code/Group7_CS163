@@ -1,3 +1,16 @@
-shutdown
-	@shutdown\n- sự đóng cửa, sự kết thúc\n@Chuyên ngành kinh tế\n-sự đóng cửa\n-tạm ngừng hoạt động (của nhà máy)\n@Chuyên ngành kỹ thuật\n-hư hỏng\n-sự đóng\n-sự dừng (lò phản ứng)\n-sự ngắt\n-sự ngừng\n-sự sai lệch\n@Lĩnh vực: xây dựng\n-sập xuống\n@Lĩnh vực: toán & tin\n-sự ngừng, tắt máy
-
+shutdown	@shutdown
+- sự đóng cửa, sự kết thúc
+@Chuyên ngành kinh tế
+-sự đóng cửa
+-tạm ngừng hoạt động (của nhà máy)
+@Chuyên ngành kỹ thuật
+-hư hỏng
+-sự đóng
+-sự dừng (lò phản ứng)
+-sự ngắt
+-sự ngừng
+-sự sai lệch
+@Lĩnh vực: xây dựng
+-sập xuống
+@Lĩnh vực: toán & tin
+-sự ngừng, tắt máy

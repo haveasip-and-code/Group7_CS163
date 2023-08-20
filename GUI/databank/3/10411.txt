@@ -1,3 +1,2 @@
-comal
-	@comal\n- xem coma
-
+comal	@comal
+- xem coma

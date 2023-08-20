@@ -1,3 +1,6 @@
-carob
-	@carob\n* danh từ\n- hạt carob (được dùng thay cho sôcôla)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ca rôp
-
+carob	@carob
+* danh từ
+- hạt carob (được dùng thay cho sôcôla)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-ca rôp

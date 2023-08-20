@@ -1,3 +1,14 @@
-suppose
-	@suppose /sə'pouz/\n*  ngoại động từ\n- giả sử, giả thiết, giả định\n- đòi hỏi, cần có (lý thuyết, kết quả...)\n=that supposes mechanism without flaws+ cái đó đòi hỏi máy móc phải thật tốt\n- cho rằng, tin, nghĩ rằng\n=I suppose we shall be back in an hour+ tôi cho rằng một giờ nữa chúng tôi sẽ quay lại\n=I don't suppose he will come+ tôi nghĩ rằng anh ấy sẽ không đến\n- (lời mệnh lệnh) đề nghị\n=suppose we try another+ đề nghị chúng ta cố một keo nữa; hay là chúng thử một lần nữa\n=to be supposed+ có nhiệm vụ\n=he is not supposed not read the letter+ anh ta không có nhiệm vụ đọc cái thư ấy\n@Chuyên ngành kỹ thuật\n-giả sử
-
+suppose	@suppose /sə'pouz/
+*  ngoại động từ
+- giả sử, giả thiết, giả định
+- đòi hỏi, cần có (lý thuyết, kết quả...)
+=that supposes mechanism without flaws+ cái đó đòi hỏi máy móc phải thật tốt
+- cho rằng, tin, nghĩ rằng
+=I suppose we shall be back in an hour+ tôi cho rằng một giờ nữa chúng tôi sẽ quay lại
+=I don't suppose he will come+ tôi nghĩ rằng anh ấy sẽ không đến
+- (lời mệnh lệnh) đề nghị
+=suppose we try another+ đề nghị chúng ta cố một keo nữa; hay là chúng thử một lần nữa
+=to be supposed+ có nhiệm vụ
+=he is not supposed not read the letter+ anh ta không có nhiệm vụ đọc cái thư ấy
+@Chuyên ngành kỹ thuật
+-giả sử

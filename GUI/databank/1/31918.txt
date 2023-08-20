@@ -1,3 +1,12 @@
-lengthening
-	@Chuyên ngành kỹ thuật\n-nối dài\n-sự giãn dài\n-sự kéo dài\n@Lĩnh vực: cơ khí & công trình\n-sự nối dài\n@Chuyên ngành kỹ thuật\n-nối dài\n-sự giãn dài\n-sự kéo dài\n@Lĩnh vực: cơ khí & công trình\n-sự nối dài
-
+lengthening	@Chuyên ngành kỹ thuật
+-nối dài
+-sự giãn dài
+-sự kéo dài
+@Lĩnh vực: cơ khí & công trình
+-sự nối dài
+@Chuyên ngành kỹ thuật
+-nối dài
+-sự giãn dài
+-sự kéo dài
+@Lĩnh vực: cơ khí & công trình
+-sự nối dài

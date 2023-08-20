@@ -1,3 +1,2 @@
-adulterator
-	@adulterator\n- xem adulterate
-
+adulterator	@adulterator
+- xem adulterate

@@ -1,3 +1,20 @@
-affinity
-	@affinity /ə'finiti/\n*  danh từ\n- mối quan hệ, sự giống nhau về cấu trúc (giữa các loài vật, cây cỏ, ngôn ngữ)\n- sự giống nhau về tính tình\n- quan hệ thân thuộc với họ nhà vợ, quan hệ thân thuộc với họ nhà chồng\n- sự thu hút, sự hấp dẫn, sự lôi cuốn; sự đồng cảm\n- sự ham thích\n=to have an affinity for something+ ham thích ham thích cái gì\n- (hoá học) ái lực\n=chemical affinity+ ái lực hoá học\n@Chuyên ngành kỹ thuật\n-ái lực\n-độ dính bám\n@Lĩnh vực: toán & tin\n-phép biến đổi affin\n-phép biến đổi afin\n@Lĩnh vực: xây dựng\n-tính đồng dạng\n-tính tương tự
-
+affinity	
+@affinity /ə'finiti/
+*  danh từ
+- mối quan hệ, sự giống nhau về cấu trúc (giữa các loài vật, cây cỏ, ngôn ngữ)
+- sự giống nhau về tính tình
+- quan hệ thân thuộc với họ nhà vợ, quan hệ thân thuộc với họ nhà chồng
+- sự thu hút, sự hấp dẫn, sự lôi cuốn; sự đồng cảm
+- sự ham thích=to have an affinity for something
++ ham thích ham thích cái gì
+- (hoá học) ái lực=chemical affinity
++ ái lực hoá học
+@Chuyên ngành kỹ thuật
+-ái lực
+-độ dính bám
+@Lĩnh vực: toán & tin
+-phép biến đổi affin
+-phép biến đổi afin
+@Lĩnh vực: xây dựng
+-tính đồng dạng
+-tính tương tự

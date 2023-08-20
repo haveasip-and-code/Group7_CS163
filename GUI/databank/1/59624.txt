@@ -1,3 +1,2 @@
-unfroze
-	@unfroze\n- past của unfreeze
-
+unfroze	@unfroze
+- past của unfreeze

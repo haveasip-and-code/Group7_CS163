@@ -1,3 +1,63 @@
-span
-	@span /spæn/\n*  thời quá khứ (từ cổ,nghĩa cổ) của spin\n*  danh từ\n- gang tay\n- chiều dài (từ đầu này đến đầu kia)\n=span of a bridge+ chiều dài của một cái cầu\n=the whole span of Roman history+ toàn bộ lịch sử La mã\n- nhịp cầu\n=a bridge of four spans+ cầu bốn nhịp\n- khoảng cách ngắn; khoảng thời gian ngắn\n=our life is but a span+ cuộc đời chúng ta ngắn chẳng tày gang\n- nhà ươm cây ((có) hai mái\n- cặp (bò, ngựa, lừa...)\n- (hàng không) sải cánh (của máy bay)\n- (hàng hải) nút thòng lọng\n*  ngoại động từ\n- băng qua, bắc qua (một con sông)\n- bắc cầu (qua sông)\n- nối (từ giai đoạn này sang giai đoạn khác) (trí nhớ...)\n=his life spans nearly the whole century+ ông ấy sống gần một thế kỷ\n- đo sải, đo bằng gang tay\n- (hàng hải) buộc (cột buồm...) bằng dây chão\n*  nội động từ\n- di chuyển theo lối sâu đo\n@Chuyên ngành kỹ thuật\n-băng\n-bề rộng\n-biên độ\n-bước cột\n-dải\n-gian\n-giãn\n-kết cấu nhịp\n-khẩu độ\n-khẩu độ cầu\n-khoảng cách\n-khoảng vượt\n-nhịp\n-nhịp (cầu)\n-nhịp cầu\n-mảnh\n-mảnh vỡ\n-mảnh vụn\n-miền\n-quãng vượt\n@Lĩnh vực: cơ khí & công trình\n-bắc qua\n-căng dây\n-dây cung (toán)\n-độ nở (chìa vặn)\n@Lĩnh vực: đo lường & điều khiển\n-gang tay\n@Lĩnh vực: vật lý\n-khoảng (mặt mang)\n@Lĩnh vực: xây dựng\n-khoảng cách giữa cột\n-sải nhịp\n@Lĩnh vực: giao thông & vận tải\n-sải cánh\n@Lĩnh vực: điện lạnh\n-tắm\n@Lĩnh vực: toán & tin\n-vùng
-
+span	@span /spæn/
+*  thời quá khứ (từ cổ,nghĩa cổ) của spin
+*  danh từ
+- gang tay
+- chiều dài (từ đầu này đến đầu kia)
+=span of a bridge+ chiều dài của một cái cầu
+=the whole span of Roman history+ toàn bộ lịch sử La mã
+- nhịp cầu
+=a bridge of four spans+ cầu bốn nhịp
+- khoảng cách ngắn; khoảng thời gian ngắn
+=our life is but a span+ cuộc đời chúng ta ngắn chẳng tày gang
+- nhà ươm cây ((có) hai mái
+- cặp (bò, ngựa, lừa...)
+- (hàng không) sải cánh (của máy bay)
+- (hàng hải) nút thòng lọng
+*  ngoại động từ
+- băng qua, bắc qua (một con sông)
+- bắc cầu (qua sông)
+- nối (từ giai đoạn này sang giai đoạn khác) (trí nhớ...)
+=his life spans nearly the whole century+ ông ấy sống gần một thế kỷ
+- đo sải, đo bằng gang tay
+- (hàng hải) buộc (cột buồm...) bằng dây chão
+*  nội động từ
+- di chuyển theo lối sâu đo
+@Chuyên ngành kỹ thuật
+-băng
+-bề rộng
+-biên độ
+-bước cột
+-dải
+-gian
+-giãn
+-kết cấu nhịp
+-khẩu độ
+-khẩu độ cầu
+-khoảng cách
+-khoảng vượt
+-nhịp
+-nhịp (cầu)
+-nhịp cầu
+-mảnh
+-mảnh vỡ
+-mảnh vụn
+-miền
+-quãng vượt
+@Lĩnh vực: cơ khí & công trình
+-bắc qua
+-căng dây
+-dây cung (toán)
+-độ nở (chìa vặn)
+@Lĩnh vực: đo lường & điều khiển
+-gang tay
+@Lĩnh vực: vật lý
+-khoảng (mặt mang)
+@Lĩnh vực: xây dựng
+-khoảng cách giữa cột
+-sải nhịp
+@Lĩnh vực: giao thông & vận tải
+-sải cánh
+@Lĩnh vực: điện lạnh
+-tắm
+@Lĩnh vực: toán & tin
+-vùng

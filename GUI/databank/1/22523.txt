@@ -1,3 +1,13 @@
-fugitive
-	@fugitive /'fju:dʤitiv/\n*  tính từ\n- trốn tránh, chạy trốn, bỏ trốn, lánh nạm\n- nhất thời, chỉ có giá trị nhất thời (văn)\n=fugitive verses+ những bài thơ có giá trị nhất thời\n- thoáng qua; chóng tàn, phù du, không bền\n=a fugitive colour+ màu không bền, màu chóng phai\n*  danh từ\n- kẻ trốn tránh, người lánh nạn\n- (từ Mỹ,nghĩa Mỹ) vật chóng tàn, vật phù du\n@Chuyên ngành kỹ thuật\n-bay bướm (chữ)
-
+fugitive	
+@fugitive /'fju:dʤitiv/
+*  tính từ
+- trốn tránh, chạy trốn, bỏ trốn, lánh nạm
+- nhất thời, chỉ có giá trị nhất thời (văn)=fugitive verses
++ những bài thơ có giá trị nhất thời
+- thoáng qua; chóng tàn, phù du, không bền=a fugitive colour
++ màu không bền, màu chóng phai
+*  danh từ
+- kẻ trốn tránh, người lánh nạn
+- (từ Mỹ,nghĩa Mỹ) vật chóng tàn, vật phù du
+@Chuyên ngành kỹ thuật
+-bay bướm (chữ)

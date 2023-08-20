@@ -1,3 +1,18 @@
-liquefy
-	@liquefy /'likwifai/\n*  ngoại động từ\n- nấu chảy, cho hoá lỏng\n*  nội động từ\n- chảy ra, hoá lỏng\n@Chuyên ngành kinh tế\n-hóa lỏng\n-nấu chảy\n@Chuyên ngành kỹ thuật\n-hóa lỏng\n-pha loãng\n@Lĩnh vực: hóa học & vật liệu\n-hóa lỏng khí\n@Chuyên ngành kỹ thuật\n-hóa lỏng\n-pha loãng\n@Lĩnh vực: hóa học & vật liệu\n-hóa lỏng khí
-
+liquefy	@liquefy /'likwifai/
+*  ngoại động từ
+- nấu chảy, cho hoá lỏng
+*  nội động từ
+- chảy ra, hoá lỏng
+@Chuyên ngành kinh tế
+-hóa lỏng
+-nấu chảy
+@Chuyên ngành kỹ thuật
+-hóa lỏng
+-pha loãng
+@Lĩnh vực: hóa học & vật liệu
+-hóa lỏng khí
+@Chuyên ngành kỹ thuật
+-hóa lỏng
+-pha loãng
+@Lĩnh vực: hóa học & vật liệu
+-hóa lỏng khí

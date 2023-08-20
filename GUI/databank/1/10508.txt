@@ -1,3 +1,27 @@
-comment
-	@comment /'kɔment/\n*  danh từ\n- lời bình luận\n=to make comments on an event+ bình luận một sự kiện\n- lời chú giải, lời chú thích, lời dẫn giải\n- lời phê bình, lời chỉ trích\n*  nội động từ\n- bình luận\n=to comment upon a text+ bình luận một bài văn\n- chú thích, dẫn giải\n- phê bình, chỉ trích\n=to comment on (upon) someone's behaviour+ phê bình của người nào\n@Chuyên ngành kỹ thuật\n-bình luận\n-chú giải\n-chú thích\n-diễn giải\n-ghi chú\n-lời chú giải\n-lời chú thích\n-lời dẫn giải\n@Lĩnh vực: toán & tin\n-dòng chú giải\n-sự chú giải\n@Lĩnh vực: xây dựng\n-tránh chú giải
-
+comment	
+@comment /'kɔment/
+*  danh từ
+- lời bình luận=to make comments on an event
++ bình luận một sự kiện
+- lời chú giải, lời chú thích, lời dẫn giải
+- lời phê bình, lời chỉ trích
+*  nội động từ
+- bình luận=to comment upon a text
++ bình luận một bài văn
+- chú thích, dẫn giải
+- phê bình, chỉ trích=to comment on (upon) someone's behaviour
++ phê bình của người nào
+@Chuyên ngành kỹ thuật
+-bình luận
+-chú giải
+-chú thích
+-diễn giải
+-ghi chú
+-lời chú giải
+-lời chú thích
+-lời dẫn giải
+@Lĩnh vực: toán & tin
+-dòng chú giải
+-sự chú giải
+@Lĩnh vực: xây dựng
+-tránh chú giải

@@ -1,3 +1,2 @@
-weathered
-	@Chuyên ngành kỹ thuật\n-bị phong hóa
-
+weathered	@Chuyên ngành kỹ thuật
+-bị phong hóa

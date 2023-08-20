@@ -1,3 +1,4 @@
-showings
-	@Chuyên ngành kỹ thuật\n-dấu hiệu dầu\n@Lĩnh vực: hóa học & vật liệu\n-dấu hiệu lộ vỉa
-
+showings	@Chuyên ngành kỹ thuật
+-dấu hiệu dầu
+@Lĩnh vực: hóa học & vật liệu
+-dấu hiệu lộ vỉa

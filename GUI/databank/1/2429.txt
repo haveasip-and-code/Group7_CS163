@@ -1,3 +1,13 @@
-anteroom
-	@anteroom\n* danh từ\n- phòng dẫn vào một phòng khác lớn hơn hoặc quan trọng hơn; phòng chờ\n@Chuyên ngành kỹ thuật\n-phòng đệm\n-phòng đợi\n-phòng trước\n@Lĩnh vực: xây dựng\n-phòng chờ\n-tiền sảnh, phòng ngoài\n@Lĩnh vực: điện lạnh\n-phòng đệm phòng chờ
-
+anteroom	
+@anteroom
+* danh từ
+- phòng dẫn vào một phòng khác lớn hơn hoặc quan trọng hơn; phòng chờ
+@Chuyên ngành kỹ thuật
+-phòng đệm
+-phòng đợi
+-phòng trước
+@Lĩnh vực: xây dựng
+-phòng chờ
+-tiền sảnh, phòng ngoài
+@Lĩnh vực: điện lạnh
+-phòng đệm phòng chờ

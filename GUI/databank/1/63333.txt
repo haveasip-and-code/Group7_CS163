@@ -1,3 +1,43 @@
-wreck
-	@wreck /rek/\n*  danh từ\n- sự phá hỏng, sự tàn phá, sự phá hoại; sự sụp đổ\n=the storm caused many wrecks+ cơn bão đã gây nhiều tàn phá\n=to go to wreck+ sụp đổ, đổ nát\n=the wreck of his hopes+ sự sụp đỏ tất cả hy vọng của nó\n- vật đổ nát; gạch vụn\n=to search the corpses among the wrecks+ tìm xác chết trong đống gạch vụn\n- (hàng hải) xác tàu chìm; tàu chìm\n- vật trôi giạt\n=shores are strewn with wrecks+ bờ biển đầy những vật trôi giạt\n- người suy nhược, người tàn phế\n=he is the wreck of his former self+ nó chỉ còn là một con người tàn phế không còn phong độ xưa nữa\n*  ngoại động từ\n- làm hỏng, phá hoại, làm tan vỡ, làm sụp đổ (hy vọng); làm thất bại ((nghĩa đen) & (nghĩa bóng))\n=to wreck someone's hope+ làm sụp đổ hy vọng của ai\n=to wreck a plan+ làm thất bại một kế hoạch\n- (hàng hải) làm đắm (tàu)\n- lầm trật đường ray; làm đổ (ô tô); phá huỷ (một toà nhà)\n*  nội động từ\n- bị sụp đổ, bị tan vỡ (hy vọng...)\n- đắm, chìm, bị đánh đắm (tàu)\n- bị làm trật đường ray; bị đổ (ô tô)\n@Chuyên ngành kinh tế\n-chìm tàu\n-đồ trôi dạt\n-đồ trôi giạt\n-hàng hóa của tàu chìm\n-hàng hóa được cứu hộ\n-mảnh vụn một con tàu hay máy bay bị tàn\n-sự đắm tàu\n@Chuyên ngành kỹ thuật\n-dỡ\n-hớt bọt\n-sự cố\n-sự hư hỏng\n-tai nạn\n@Lĩnh vực: xây dựng\n-hớt váng\n@Lĩnh vực: giao thông & vận tải\n-tàu thủy hỏng\n-trật bánh nghiêm trọng\n-xác tàu
-
+wreck	@wreck /rek/
+*  danh từ
+- sự phá hỏng, sự tàn phá, sự phá hoại; sự sụp đổ
+=the storm caused many wrecks+ cơn bão đã gây nhiều tàn phá
+=to go to wreck+ sụp đổ, đổ nát
+=the wreck of his hopes+ sự sụp đỏ tất cả hy vọng của nó
+- vật đổ nát; gạch vụn
+=to search the corpses among the wrecks+ tìm xác chết trong đống gạch vụn
+- (hàng hải) xác tàu chìm; tàu chìm
+- vật trôi giạt
+=shores are strewn with wrecks+ bờ biển đầy những vật trôi giạt
+- người suy nhược, người tàn phế
+=he is the wreck of his former self+ nó chỉ còn là một con người tàn phế không còn phong độ xưa nữa
+*  ngoại động từ
+- làm hỏng, phá hoại, làm tan vỡ, làm sụp đổ (hy vọng); làm thất bại ((nghĩa đen) & (nghĩa bóng))
+=to wreck someone's hope+ làm sụp đổ hy vọng của ai
+=to wreck a plan+ làm thất bại một kế hoạch
+- (hàng hải) làm đắm (tàu)
+- lầm trật đường ray; làm đổ (ô tô); phá huỷ (một toà nhà)
+*  nội động từ
+- bị sụp đổ, bị tan vỡ (hy vọng...)
+- đắm, chìm, bị đánh đắm (tàu)
+- bị làm trật đường ray; bị đổ (ô tô)
+@Chuyên ngành kinh tế
+-chìm tàu
+-đồ trôi dạt
+-đồ trôi giạt
+-hàng hóa của tàu chìm
+-hàng hóa được cứu hộ
+-mảnh vụn một con tàu hay máy bay bị tàn
+-sự đắm tàu
+@Chuyên ngành kỹ thuật
+-dỡ
+-hớt bọt
+-sự cố
+-sự hư hỏng
+-tai nạn
+@Lĩnh vực: xây dựng
+-hớt váng
+@Lĩnh vực: giao thông & vận tải
+-tàu thủy hỏng
+-trật bánh nghiêm trọng
+-xác tàu

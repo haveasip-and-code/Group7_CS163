@@ -1,3 +1,19 @@
-inverse
-	@inverse /'in'və:s/\n*  tính từ\n- ngược lại\n- (toán học) ngược, nghịch đảo\n=inverse ratio+ tỷ số ngược\n*  danh từ\n- cái ngược lại; điều ngược lại\n- (toán học) số nghịch đảo\n@Chuyên ngành kỹ thuật\n-cái ngược lại\n-nghịch\n-nghịch đảo\n-ngược\n-sự nghịch đảo\n@Lĩnh vực: xây dựng\n-số nghịch đảo\n-số ngược\n-sự đảo ngược (ảnh)
-
+inverse	
+@inverse /'in'və:s/
+*  tính từ
+- ngược lại
+- (toán học) ngược, nghịch đảo=inverse ratio
++ tỷ số ngược
+*  danh từ
+- cái ngược lại; điều ngược lại
+- (toán học) số nghịch đảo
+@Chuyên ngành kỹ thuật
+-cái ngược lại
+-nghịch
+-nghịch đảo
+-ngược
+-sự nghịch đảo
+@Lĩnh vực: xây dựng
+-số nghịch đảo
+-số ngược
+-sự đảo ngược (ảnh)

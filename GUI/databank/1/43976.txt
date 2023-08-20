@@ -1,3 +1,4 @@
-prolog
-	@prolog\n- (viết tắt cho PROgramming in LOGic) Tên một ngôn ngữ lập trình cấp cao\n@Chuyên ngành kỹ thuật\n-ngôn ngữ PROLOG
-
+prolog	@prolog
+- (viết tắt cho PROgramming in LOGic) Tên một ngôn ngữ lập trình cấp cao
+@Chuyên ngành kỹ thuật
+-ngôn ngữ PROLOG

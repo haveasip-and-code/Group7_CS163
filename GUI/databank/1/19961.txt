@@ -1,3 +1,33 @@
-expression
-	@expression /iks'preʃn/\n*  danh từ\n- sự vắt, sự ép, sự bóp\n- sự biểu lộ (tình cảm...), sự diễn cảm; sự biểu hiện (nghệ thuật...); sự diễn đạt (ý nghĩ...)\n=to read with expression+ đọc diễn cảm\n=to give expression to one's feelings+ biểu lộ tình cảm\n- nét, vẻ (mặt...); giọng (nói...)\n- thành ngữ, từ ngữ\n- (toán học) biểu thức\n- (y học) sự ấn (cho thai ra)\n@Chuyên ngành kinh tế\n-sự vắt sự ép\n@Chuyên ngành kỹ thuật\n-biểu thức\n-sự biểu diễn\n-sự biểu hiện\n-sự biểu thị\n-sự thể hiện\n@Lĩnh vực: hóa học & vật liệu\n-chiết suất bằng nén khí/ cơ học\n@Lĩnh vực: cơ khí & công trình\n-sự diễn tả\n@Chuyên ngành kỹ thuật\n-biểu thức\n-sự biểu diễn\n-sự biểu hiện\n-sự biểu thị\n-sự thể hiện\n@Lĩnh vực: hóa học & vật liệu\n-chiết suất bằng nén khí/ cơ học\n@Lĩnh vực: cơ khí & công trình\n-sự diễn tả
-
+expression	
+@expression /iks'preʃn/
+*  danh từ
+- sự vắt, sự ép, sự bóp
+- sự biểu lộ (tình cảm...), sự diễn cảm; sự biểu hiện (nghệ thuật...); sự diễn đạt (ý nghĩ...)=to read with expression
++ đọc diễn cảm=to give expression to one's feelings
++ biểu lộ tình cảm
+- nét, vẻ (mặt...); giọng (nói...)
+- thành ngữ, từ ngữ
+- (toán học) biểu thức
+- (y học) sự ấn (cho thai ra)
+@Chuyên ngành kinh tế
+-sự vắt sự ép
+@Chuyên ngành kỹ thuật
+-biểu thức
+-sự biểu diễn
+-sự biểu hiện
+-sự biểu thị
+-sự thể hiện
+@Lĩnh vực: hóa học & vật liệu
+-chiết suất bằng nén khí/ cơ học
+@Lĩnh vực: cơ khí & công trình
+-sự diễn tả
+@Chuyên ngành kỹ thuật
+-biểu thức
+-sự biểu diễn
+-sự biểu hiện
+-sự biểu thị
+-sự thể hiện
+@Lĩnh vực: hóa học & vật liệu
+-chiết suất bằng nén khí/ cơ học
+@Lĩnh vực: cơ khí & công trình
+-sự diễn tả

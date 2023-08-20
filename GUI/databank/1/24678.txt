@@ -1,3 +1,7 @@
-gyrofrequency
-	@gyrofrequency\n- (Tech) tần số hồi chuyển\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tấn số gyro\n-tần số xyclotron
-
+gyrofrequency	
+@gyrofrequency
+- (Tech) tần số hồi chuyển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tấn số gyro
+-tần số xyclotron

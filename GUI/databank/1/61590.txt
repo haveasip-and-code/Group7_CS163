@@ -1,3 +1,4 @@
-versed
-	@versed /və:st/\n*  tính từ\n- thành thạo, giỏi, sành\n=versed in mathematics+ giỏi toán
-
+versed	@versed /və:st/
+*  tính từ
+- thành thạo, giỏi, sành
+=versed in mathematics+ giỏi toán

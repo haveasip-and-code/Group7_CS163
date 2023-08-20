@@ -1,3 +1,11 @@
-rhombohedron
-	@rhombohedron\n* danh từ\n- hình hộp mặt thoi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-khối (sáu) mặt thoi\n@Lĩnh vực: hóa học & vật liệu\n-khối hộp mặt thoi\n-khối mặt thoi\n@Lĩnh vực: toán & tin\n-khối sáu mặt thoi (lăng kính)
-
+rhombohedron	@rhombohedron
+* danh từ
+- hình hộp mặt thoi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-khối (sáu) mặt thoi
+@Lĩnh vực: hóa học & vật liệu
+-khối hộp mặt thoi
+-khối mặt thoi
+@Lĩnh vực: toán & tin
+-khối sáu mặt thoi (lăng kính)

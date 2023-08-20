@@ -1,3 +1,6 @@
-founded
-	@founded\n- có cơ sở\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có cơ sở
-
+founded	
+@founded
+- có cơ sở
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có cơ sở

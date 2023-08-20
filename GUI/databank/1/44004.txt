@@ -1,3 +1,10 @@
-promontory
-	@promontory /promontory/\n*  danh từ\n- (địa lý,địa chất) mũi đất\n- (giải phẫu) chỗ lồi lên (ở cơ thể)\n@Chuyên ngành kỹ thuật\n-chỗ lồi lên\n-mũi đất\n-mũi đất (địa lý)\n@Lĩnh vực: y học\n-góc nhô
-
+promontory	@promontory /promontory/
+*  danh từ
+- (địa lý,địa chất) mũi đất
+- (giải phẫu) chỗ lồi lên (ở cơ thể)
+@Chuyên ngành kỹ thuật
+-chỗ lồi lên
+-mũi đất
+-mũi đất (địa lý)
+@Lĩnh vực: y học
+-góc nhô

@@ -1,3 +1,5 @@
-pectize
-	@pectize\n- xem pectise\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pectin hóa
-
+pectize	@pectize
+- xem pectise
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-pectin hóa

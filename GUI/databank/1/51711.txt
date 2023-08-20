@@ -1,3 +1,15 @@
-sol
-	@sol /sɔl/\n*  danh từ\n-(đùa cợt) mặt trời\n- (âm nhạc) xon (nốt) ((cũng) soh)\n- (hoá học) xon\n- đồng xon (tiền Pê-ru)\n@Chuyên ngành kinh tế\n-đơn vị tiền tệ chính của Pê -ru\n-đồng Son\n-trọ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dung dịch keo lỏng\n@Lĩnh vực: điện lạnh\n-son
-
+sol	@sol /sɔl/
+*  danh từ
+-(đùa cợt) mặt trời
+- (âm nhạc) xon (nốt) ((cũng) soh)
+- (hoá học) xon
+- đồng xon (tiền Pê-ru)
+@Chuyên ngành kinh tế
+-đơn vị tiền tệ chính của Pê -ru
+-đồng Son
+-trọ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dung dịch keo lỏng
+@Lĩnh vực: điện lạnh
+-son

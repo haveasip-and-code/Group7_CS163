@@ -1,3 +1,3 @@
-neuraxon
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sợi trục, trụ trục
-
+neuraxon	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sợi trục, trụ trục

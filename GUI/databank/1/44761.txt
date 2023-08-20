@@ -1,3 +1,4 @@
-puppeteer
-	@puppeteer /,pʌpi'tiə/\n*  danh từ\n- những người làm con rối\n- người điều khiển những con rối
-
+puppeteer	@puppeteer /,pʌpi'tiə/
+*  danh từ
+- những người làm con rối
+- người điều khiển những con rối

@@ -1,3 +1,3 @@
-unlet
-	@unlet\n* tính từ\n- không cho vay, không cho mượn, không cho thuê
-
+unlet	@unlet
+* tính từ
+- không cho vay, không cho mượn, không cho thuê

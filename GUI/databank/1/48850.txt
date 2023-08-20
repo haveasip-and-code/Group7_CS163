@@ -1,3 +1,16 @@
-sawmill
-	@sawmill /'sɔ:mil/\n*  danh từ\n- nhà máy cưa\n- máy cưa lớn\n@Chuyên ngành kinh tế\n-máy cưa gỗ\n-nhà máy cưa\n-xưởng cưa\n-xưởng cưa, nhà máy cưa\n@Chuyên ngành kỹ thuật\n-nhà máy cưa\n-máy cưa\n@Lĩnh vực: xây dựng\n-máy cưa gỗ\n@Lĩnh vực: cơ khí & công trình\n-xưởng cưa
-
+sawmill	@sawmill /'sɔ:mil/
+*  danh từ
+- nhà máy cưa
+- máy cưa lớn
+@Chuyên ngành kinh tế
+-máy cưa gỗ
+-nhà máy cưa
+-xưởng cưa
+-xưởng cưa, nhà máy cưa
+@Chuyên ngành kỹ thuật
+-nhà máy cưa
+-máy cưa
+@Lĩnh vực: xây dựng
+-máy cưa gỗ
+@Lĩnh vực: cơ khí & công trình
+-xưởng cưa

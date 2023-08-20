@@ -1,3 +1,20 @@
-encryption
-	@encryption\n- (Tech) sự mật mã hóa\n@Chuyên ngành kinh tế\n-mật ký\n-sự mã hóa\n@Chuyên ngành kỹ thuật\n-sự cài mã\n-sự mã hóa\n@Lĩnh vực: xây dựng\n-mật mã hóa\n@Lĩnh vực: toán & tin\n-sự mật hóa\n@Chuyên ngành kỹ thuật\n-sự cài mã\n-sự mã hóa\n@Lĩnh vực: xây dựng\n-mật mã hóa\n@Lĩnh vực: toán & tin\n-sự mật hóa
-
+encryption	
+@encryption
+- (Tech) sự mật mã hóa
+@Chuyên ngành kinh tế
+-mật ký
+-sự mã hóa
+@Chuyên ngành kỹ thuật
+-sự cài mã
+-sự mã hóa
+@Lĩnh vực: xây dựng
+-mật mã hóa
+@Lĩnh vực: toán & tin
+-sự mật hóa
+@Chuyên ngành kỹ thuật
+-sự cài mã
+-sự mã hóa
+@Lĩnh vực: xây dựng
+-mật mã hóa
+@Lĩnh vực: toán & tin
+-sự mật hóa

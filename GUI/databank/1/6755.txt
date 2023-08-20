@@ -1,3 +1,49 @@
-bridge
-	@bridge /bridʤ/\n*  danh từ\n- (đánh bài) brit\n*  danh từ\n- cái cầu\n- sống (mũi)\n- cái ngựa đàn (viôlông,  ghita...)\n- (vật lý) cầu\n=resistancy bridge+ cầu tần cao\n- (hàng hải) đài chỉ huy của thuyền trưởng\n!bridge of gold; golden bridge\n- đường rút lui mở ra cho kẻ địch thua trận\n!to burn one's bridge\n- (xem) burn\n*  ngoại động từ\n- xây cầu qua (sông...)\n- vắt ngang\n=the rainbow bridges the sky+ cầu vồng bắt ngang bầu trời\n- vượt qua, khắc phục\n=to bridge over the difficulties+ vượt qua những khó khăn\n!to bridge the gap\n- lấp cái hố ngăn cách; nối lại quan hệ\n@Chuyên ngành kinh tế\n-đài chỉ huy\n@Chuyên ngành kỹ thuật\n-bắc cầu\n-cái cầu\n-cái ngàm\n-cái tốc\n-cầu đo\n-cầu thử nghiệm\n-cầu vượt đường sắt\n-đê quai\n-đường sun điện\n-giàn cầu\n-tấm chắn bảo vệ\n-tấm ngăn\n@Lĩnh vực: xây dựng\n-cầu\n@Lĩnh vực: điện\n-cầu (đo)\n-cầu điện\n-cầu đo điện\n@Lĩnh vực: y học\n-cầu răng\n-cầu, cầu nối\n@Lĩnh vực: cơ khí & công trình\n-giá hình cổng\n-giá hình cổng (máy)\n@Lĩnh vực: hóa học & vật liệu\n-liên kết cầu
-
+bridge	
+@bridge /bridʤ/
+*  danh từ
+- (đánh bài) brit
+*  danh từ
+- cái cầu
+- sống (mũi)
+- cái ngựa đàn (viôlông,  ghita...)
+- (vật lý) cầu=resistancy bridge
++ cầu tần cao
+- (hàng hải) đài chỉ huy của thuyền trưởng!bridge of gold; golden bridge
+- đường rút lui mở ra cho kẻ địch thua trận!to burn one's bridge
+- (xem) burn
+*  ngoại động từ
+- xây cầu qua (sông...)
+- vắt ngang=the rainbow bridges the sky
++ cầu vồng bắt ngang bầu trời
+- vượt qua, khắc phục=to bridge over the difficulties
++ vượt qua những khó khăn!to bridge the gap
+- lấp cái hố ngăn cách; nối lại quan hệ
+@Chuyên ngành kinh tế
+-đài chỉ huy
+@Chuyên ngành kỹ thuật
+-bắc cầu
+-cái cầu
+-cái ngàm
+-cái tốc
+-cầu đo
+-cầu thử nghiệm
+-cầu vượt đường sắt
+-đê quai
+-đường sun điện
+-giàn cầu
+-tấm chắn bảo vệ
+-tấm ngăn
+@Lĩnh vực: xây dựng
+-cầu
+@Lĩnh vực: điện
+-cầu (đo)
+-cầu điện
+-cầu đo điện
+@Lĩnh vực: y học
+-cầu răng
+-cầu, cầu nối
+@Lĩnh vực: cơ khí & công trình
+-giá hình cổng
+-giá hình cổng (máy)
+@Lĩnh vực: hóa học & vật liệu
+-liên kết cầu

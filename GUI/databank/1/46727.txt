@@ -1,3 +1,8 @@
-removability
-	@removability /ri,mu:və'biliti/\n*  danh từ\n- tính tháo mở được; tính chất dời (chuyển) đi được\n- sự có thể bị cách chức bất kỳ lúc nào (viên chức)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tính dễ di chuyển\n-tính linh hoạt
-
+removability	@removability /ri,mu:və'biliti/
+*  danh từ
+- tính tháo mở được; tính chất dời (chuyển) đi được
+- sự có thể bị cách chức bất kỳ lúc nào (viên chức)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tính dễ di chuyển
+-tính linh hoạt

@@ -1,3 +1,4 @@
-desoxy
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mất oxi
-
+desoxy	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-mất oxi

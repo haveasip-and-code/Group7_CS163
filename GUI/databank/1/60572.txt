@@ -1,3 +1,10 @@
-unstop
-	@unstop /' n'st p/\n*  ngoại động từ\n- làm cho không bị trở ngại, khai thông\n- mở nút, tháo nút (chai)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mở nút\n@Lĩnh vực: xây dựng\n-rút chặn\n-tháo chốt
-
+unstop	@unstop /' n'st p/
+*  ngoại động từ
+- làm cho không bị trở ngại, khai thông
+- mở nút, tháo nút (chai)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-mở nút
+@Lĩnh vực: xây dựng
+-rút chặn
+-tháo chốt

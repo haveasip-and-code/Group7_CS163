@@ -1,3 +1,48 @@
-kit
-	@kit /kit/\n*  danh từ\n- (viết tắt) của kitten\n- mèo con\n*  danh từ\n- thùng gỗ; chậu gỗ\n*  danh từ\n- (từ hiếm,nghĩa hiếm) đàn viôlông nhỏ\n*  danh từ\n- đồ đạc quần áo (của bộ đội...); hành lý (đi du lịch); đồ lề (đi săn bắn, đi câu...)\n- dụng cụ làm việc, bộ đồ nghề\n=a carpenter's kit+ bộ đồ thợ mộc\n- túi đựng đồ đạc quần áo (của bộ đội...); túi (đầy)\n!the whole kit [and caboodle]\n- cả bọn, cả lũ\n*  động từ\n- trang bị đồ đạc quần áo; sắm sửa đồ lề\n- sắm sửa đồ nghề\n@Chuyên ngành kinh tế\n-bộ đò lắp rắp\n-bộ đồ nghề\n-chậu gỗ\n-dụng cụ\n-thùng gỗ\n-trang cụ\n-vật liệu và linh kiện làm sẵn để lắp ráp\n@Chuyên ngành kỹ thuật\n-bộ công cụ\n-bộ đồ nghề\n-bộ dụng cụ\n-hộp dụng cụ\n@Lĩnh vực: ô tô\n-bộ phụ tùng\n@Lĩnh vực: điện\n-hợp bộ\n@Lĩnh vực: cơ khí & công trình\n-túi đồ nghề\n@Chuyên ngành kỹ thuật\n-bộ công cụ\n-bộ đồ nghề\n-bộ dụng cụ\n-hộp dụng cụ\n@Lĩnh vực: ô tô\n-bộ phụ tùng\n@Lĩnh vực: điện\n-hợp bộ\n@Lĩnh vực: cơ khí & công trình\n-túi đồ nghề
-
+kit	@kit /kit/
+*  danh từ
+- (viết tắt) của kitten
+- mèo con
+*  danh từ
+- thùng gỗ; chậu gỗ
+*  danh từ
+- (từ hiếm,nghĩa hiếm) đàn viôlông nhỏ
+*  danh từ
+- đồ đạc quần áo (của bộ đội...); hành lý (đi du lịch); đồ lề (đi săn bắn, đi câu...)
+- dụng cụ làm việc, bộ đồ nghề
+=a carpenter's kit+ bộ đồ thợ mộc
+- túi đựng đồ đạc quần áo (của bộ đội...); túi (đầy)
+!the whole kit [and caboodle]
+- cả bọn, cả lũ
+*  động từ
+- trang bị đồ đạc quần áo; sắm sửa đồ lề
+- sắm sửa đồ nghề
+@Chuyên ngành kinh tế
+-bộ đò lắp rắp
+-bộ đồ nghề
+-chậu gỗ
+-dụng cụ
+-thùng gỗ
+-trang cụ
+-vật liệu và linh kiện làm sẵn để lắp ráp
+@Chuyên ngành kỹ thuật
+-bộ công cụ
+-bộ đồ nghề
+-bộ dụng cụ
+-hộp dụng cụ
+@Lĩnh vực: ô tô
+-bộ phụ tùng
+@Lĩnh vực: điện
+-hợp bộ
+@Lĩnh vực: cơ khí & công trình
+-túi đồ nghề
+@Chuyên ngành kỹ thuật
+-bộ công cụ
+-bộ đồ nghề
+-bộ dụng cụ
+-hộp dụng cụ
+@Lĩnh vực: ô tô
+-bộ phụ tùng
+@Lĩnh vực: điện
+-hợp bộ
+@Lĩnh vực: cơ khí & công trình
+-túi đồ nghề

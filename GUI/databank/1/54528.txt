@@ -1,3 +1,7 @@
-sunlamp
-	@sunlamp\n* danh từ\n- đèn chiếu mạnh để quay phim\n@Chuyên ngành kỹ thuật\n-đèn tử ngoại\n@Lĩnh vực: điện lạnh\n-đèn mặt trời
-
+sunlamp	@sunlamp
+* danh từ
+- đèn chiếu mạnh để quay phim
+@Chuyên ngành kỹ thuật
+-đèn tử ngoại
+@Lĩnh vực: điện lạnh
+-đèn mặt trời

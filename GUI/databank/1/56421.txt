@@ -1,3 +1,5 @@
-thinning
-	@Chuyên ngành kỹ thuật\n-sự pha loãng\n-sự vát nhọn (mũi khoan ruột gà)\n@Lĩnh vực: hóa học & vật liệu\n-sự vát mỏng vỉa
-
+thinning	@Chuyên ngành kỹ thuật
+-sự pha loãng
+-sự vát nhọn (mũi khoan ruột gà)
+@Lĩnh vực: hóa học & vật liệu
+-sự vát mỏng vỉa

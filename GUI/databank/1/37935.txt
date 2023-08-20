@@ -1,3 +1,14 @@
-operating
-	@Chuyên ngành kỹ thuật\n-chạy máy\n-sự chạy\n-sự điều hành\n-sự điều khiển\n-sự hoạt động\n-sự khai thác\n-sự vận dụng\n-sự vận hành\n-thao tác\n@Lĩnh vực: điện\n-việc tác động\n-việc thao tác\n-việc vận hành
-
+operating	@Chuyên ngành kỹ thuật
+-chạy máy
+-sự chạy
+-sự điều hành
+-sự điều khiển
+-sự hoạt động
+-sự khai thác
+-sự vận dụng
+-sự vận hành
+-thao tác
+@Lĩnh vực: điện
+-việc tác động
+-việc thao tác
+-việc vận hành

@@ -1,3 +1,6 @@
-gramophone
-	@gramophone\n* danh từ\n- máy hát\n@Chuyên ngành kỹ thuật\n-máy hát
-
+gramophone	
+@gramophone
+* danh từ
+- máy hát
+@Chuyên ngành kỹ thuật
+-máy hát

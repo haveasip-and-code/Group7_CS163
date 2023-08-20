@@ -1,3 +1,2 @@
-coverer
-	@coverer\n- xem cover
-
+coverer	@coverer
+- xem cover

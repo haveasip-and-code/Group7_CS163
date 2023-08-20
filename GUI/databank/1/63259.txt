@@ -1,3 +1,2 @@
-workingwoman
-	@Chuyên ngành kinh tế\n-phụ nữ, lao động nữ, công nhân nữ
-
+workingwoman	@Chuyên ngành kinh tế
+-phụ nữ, lao động nữ, công nhân nữ

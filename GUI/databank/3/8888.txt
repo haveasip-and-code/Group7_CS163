@@ -1,3 +1,23 @@
-checker
-	@checker /'tʃekə/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) người tính tiền, người thu tiền (ở cửa hàng tự phục vụ...)\n*  danh từ & ngoại động từ (như) chequer\n@Chuyên ngành kinh tế\n-người đếm hàng\n-người kiểm soát\n-người kiểm tra\n-người thu tiền (ở siêu thị)\n-thu ngân viên\n@Chuyên ngành kỹ thuật\n-bộ kiểm tra\n-dụng cụ kiểm tra\n-kẻ carô\n-kẻ ô vuông\n-người kiểm tra\n-máy kiểm tra\n-máy thử\n-thiết bị\n-thiết bị kiểm tra\n-thiết bị thử\n@Lĩnh vực: xây dựng\n-kiểm soát viên
-
+checker	@checker /'tʃekə/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) người tính tiền, người thu tiền (ở cửa hàng tự phục vụ...)
+*  danh từ & ngoại động từ (như) chequer
+@Chuyên ngành kinh tế
+-người đếm hàng
+-người kiểm soát
+-người kiểm tra
+-người thu tiền (ở siêu thị)
+-thu ngân viên
+@Chuyên ngành kỹ thuật
+-bộ kiểm tra
+-dụng cụ kiểm tra
+-kẻ carô
+-kẻ ô vuông
+-người kiểm tra
+-máy kiểm tra
+-máy thử
+-thiết bị
+-thiết bị kiểm tra
+-thiết bị thử
+@Lĩnh vực: xây dựng
+-kiểm soát viên

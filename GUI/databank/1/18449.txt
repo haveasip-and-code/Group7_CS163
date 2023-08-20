@@ -1,3 +1,4 @@
-enroot
-	@enroot\n* ngoại động từ\n- bắt rễ sâu
-
+enroot	
+@enroot
+* ngoại động từ
+- bắt rễ sâu

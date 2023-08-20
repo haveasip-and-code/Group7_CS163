@@ -1,3 +1,15 @@
-zinc
-	@zinc /ziɳk/\n*  danh từ\n- kẽm\n=to coat with zinc+ mạ kẽm, tráng kẽm\n*  ngoại động từ\n- tráng kẽm, mạ kẽm\n=to zinc iron+ tráng kẽm lên sắt\n- lợp bằng kẽm\n=to zinc a roof+ lợp mái nhà bằng kẽm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-kẽm (nguyên tố hóa học, ký hiệu Zn)\n@Chuyên ngành kỹ thuật\n-kẽm\n-mạ kẽm
-
+zinc	@zinc /ziɳk/
+*  danh từ
+- kẽm
+=to coat with zinc+ mạ kẽm, tráng kẽm
+*  ngoại động từ
+- tráng kẽm, mạ kẽm
+=to zinc iron+ tráng kẽm lên sắt
+- lợp bằng kẽm
+=to zinc a roof+ lợp mái nhà bằng kẽm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-kẽm (nguyên tố hóa học, ký hiệu Zn)
+@Chuyên ngành kỹ thuật
+-kẽm
+-mạ kẽm

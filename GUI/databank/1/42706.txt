@@ -1,3 +1,10 @@
-portrait
-	@portrait /'pɔ:trit/\n*  danh từ\n- chân dung, ảnh\n- hình tượng, điển hình\n- sự miêu tả sinh động\n@Chuyên ngành kỹ thuật\n-chân dung\n-hướng dọc\n@Lĩnh vực: toán & tin\n-kiểu in giấy dọc
-
+portrait	@portrait /'pɔ:trit/
+*  danh từ
+- chân dung, ảnh
+- hình tượng, điển hình
+- sự miêu tả sinh động
+@Chuyên ngành kỹ thuật
+-chân dung
+-hướng dọc
+@Lĩnh vực: toán & tin
+-kiểu in giấy dọc

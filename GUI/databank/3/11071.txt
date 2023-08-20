@@ -1,3 +1,2 @@
-confirmable
-	@confirmable\n- xem confirm
-
+confirmable	@confirmable
+- xem confirm

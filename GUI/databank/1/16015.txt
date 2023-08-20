@@ -1,3 +1,24 @@
-disposition
-	@disposition /,dispə'ziʃn/\n*  danh từ\n- sự sắp xếp, sự sắp đặt, cách sắp xếp, cách bố trí\n- ((thường) số nhiều) (quân sự) kế hoạch; sự chuẩn bị, cách bố trí lực lượng (tấn công hoặc phòng ngự)\n- sự dùng, sự tuỳ ý sử dụng\n=to have something at one's disposition+ có cái gì được tuỳ ý sử dụng\n- khuynh hướng, thiên hướng; ý định\n=to have a disposition to something+ có khuynh hướng (thiên hướng) về cái gì\n- tính tình, tâm tính, tính khí\n=to be of a cheerful disposition+ có tính khí vui vẻ\n- sự bán; sự chuyển nhượng, sự nhượng lại\n=disposition of property+ sự chuyển nhượng tài sản\n- sự sắp đặt (của trời); mệnh trời\n@Chuyên ngành kinh tế\n-chuyển nhượng\n-quyền sử dụng\n-sự bán di\n-sự tùy ý sử dụng\n@Chuyên ngành kỹ thuật\n-sắp đặt\n-sự bố trí\n@Lĩnh vực: toán & tin\n-sự xắp đặt
-
+disposition	
+@disposition /,dispə'ziʃn/
+*  danh từ
+- sự sắp xếp, sự sắp đặt, cách sắp xếp, cách bố trí
+- ((thường) số nhiều) (quân sự) kế hoạch; sự chuẩn bị, cách bố trí lực lượng (tấn công hoặc phòng ngự)
+- sự dùng, sự tuỳ ý sử dụng=to have something at one's disposition
++ có cái gì được tuỳ ý sử dụng
+- khuynh hướng, thiên hướng; ý định=to have a disposition to something
++ có khuynh hướng (thiên hướng) về cái gì
+- tính tình, tâm tính, tính khí=to be of a cheerful disposition
++ có tính khí vui vẻ
+- sự bán; sự chuyển nhượng, sự nhượng lại=disposition of property
++ sự chuyển nhượng tài sản
+- sự sắp đặt (của trời); mệnh trời
+@Chuyên ngành kinh tế
+-chuyển nhượng
+-quyền sử dụng
+-sự bán di
+-sự tùy ý sử dụng
+@Chuyên ngành kỹ thuật
+-sắp đặt
+-sự bố trí
+@Lĩnh vực: toán & tin
+-sự xắp đặt

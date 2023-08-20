@@ -1,3 +1,5 @@
-proscription
-	@proscription /proscription/\n*  danh từ\n- sự để ra ngoài vòng pháp luật\n- sự trục xuất, sự đày đi\n- sự cấm, sự bài trừ
-
+proscription	@proscription /proscription/
+*  danh từ
+- sự để ra ngoài vòng pháp luật
+- sự trục xuất, sự đày đi
+- sự cấm, sự bài trừ

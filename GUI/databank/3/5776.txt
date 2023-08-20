@@ -1,3 +1,10 @@
-blacklist
-	@blacklist\n* danh từ\n- danh sách đen, sổ bìa đen\n* ngoại động từ\n- ghi vào danh sách đen, ghi vào sổ bìa đen\n@Chuyên ngành kinh tế\n-danh sách đen\n-ghi danh sách đen\n-ghi sổ đen (để tránh giao dịch)\n-sổ đen
-
+blacklist	@blacklist
+* danh từ
+- danh sách đen, sổ bìa đen
+* ngoại động từ
+- ghi vào danh sách đen, ghi vào sổ bìa đen
+@Chuyên ngành kinh tế
+-danh sách đen
+-ghi danh sách đen
+-ghi sổ đen (để tránh giao dịch)
+-sổ đen

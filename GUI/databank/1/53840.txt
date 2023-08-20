@@ -1,3 +1,4 @@
-studded
-	@Chuyên ngành kỹ thuật\n-được lắp vít cấy (hàn sửa)\n@Lĩnh vực: cơ khí & công trình\n-có vít cấy
-
+studded	@Chuyên ngành kỹ thuật
+-được lắp vít cấy (hàn sửa)
+@Lĩnh vực: cơ khí & công trình
+-có vít cấy

@@ -1,3 +1,4 @@
-bible
-	@bible /'baibl/\n*  danh từ\n- kinh thánh
-
+bible	
+@bible /'baibl/
+*  danh từ
+- kinh thánh

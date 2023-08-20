@@ -1,3 +1,2 @@
-pantomimist
-	@pantomimist\n- xem pantomime
-
+pantomimist	@pantomimist
+- xem pantomime

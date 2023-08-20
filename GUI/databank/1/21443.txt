@@ -1,3 +1,5 @@
-flinders
-	@flinders /flinders/\n*  danh từ số nhiều\n- mảnh vỡ, mảnh vụ\n=to break (fly) into flinders+ vỡ ra từng mảnh, vỡ tan
-
+flinders	
+@flinders /flinders/
+*  danh từ số nhiều
+- mảnh vỡ, mảnh vụ=to break (fly) into flinders
++ vỡ ra từng mảnh, vỡ tan

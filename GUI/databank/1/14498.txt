@@ -1,3 +1,9 @@
-dentifrice
-	@dentifrice /'dentifris/\n*  danh từ\n- bột đánh răng, xà phòng đánh răng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bột đánh răng\n@Lĩnh vực: y học\n-kem đánh răng
-
+dentifrice	
+@dentifrice /'dentifris/
+*  danh từ
+- bột đánh răng, xà phòng đánh răng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bột đánh răng
+@Lĩnh vực: y học
+-kem đánh răng

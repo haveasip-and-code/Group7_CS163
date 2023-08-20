@@ -1,3 +1,3 @@
-telefacsimile
-	@Chuyên ngành kinh tế\n-điện báo ảnh qua điện thoại\n-fax điện thoại
-
+telefacsimile	@Chuyên ngành kinh tế
+-điện báo ảnh qua điện thoại
+-fax điện thoại

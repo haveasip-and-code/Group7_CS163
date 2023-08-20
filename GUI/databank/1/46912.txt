@@ -1,3 +1,33 @@
-representation
-	@representation /,reprizen'teiʃn/\n*  danh từ\n- sự tiêu biểu, sự tượng trưng\n- sự đại diện; sự thay mặt; những người đại diện\n- sự miêu tả, sự hình dung\n- sự đóng (một vai kịch); sự diễn (một vở kịch)\n- ((thường) số nhiều) lời phản kháng\n=to make representations to somebody+ phản kháng ai\n- (toán học) sự biểu diễn\n=graphical representation+ sự biểu diễn bằng đồ thị\n@Chuyên ngành kinh tế\n-đại diện\n-đại lý\n-điều trình bày\n-lời tuyên bố\n-sự đại diện\n-sự tái xuất trình\n-sự thay mặt\n-sự tuyên bố\n@Chuyên ngành kỹ thuật\n-biểu diễn\n-hình vẽ\n-miêu tả\n-sự biểu diễn\n-sự biểu hiện\n-sự biểu thị\n-sự hiển thị\n-sự mô hình hóa\n-sự trình bày\n-trình bày\n@Lĩnh vực: xây dựng\n-đại diện (thương mại)\n-sự đại diện
-
+representation	@representation /,reprizen'teiʃn/
+*  danh từ
+- sự tiêu biểu, sự tượng trưng
+- sự đại diện; sự thay mặt; những người đại diện
+- sự miêu tả, sự hình dung
+- sự đóng (một vai kịch); sự diễn (một vở kịch)
+- ((thường) số nhiều) lời phản kháng
+=to make representations to somebody+ phản kháng ai
+- (toán học) sự biểu diễn
+=graphical representation+ sự biểu diễn bằng đồ thị
+@Chuyên ngành kinh tế
+-đại diện
+-đại lý
+-điều trình bày
+-lời tuyên bố
+-sự đại diện
+-sự tái xuất trình
+-sự thay mặt
+-sự tuyên bố
+@Chuyên ngành kỹ thuật
+-biểu diễn
+-hình vẽ
+-miêu tả
+-sự biểu diễn
+-sự biểu hiện
+-sự biểu thị
+-sự hiển thị
+-sự mô hình hóa
+-sự trình bày
+-trình bày
+@Lĩnh vực: xây dựng
+-đại diện (thương mại)
+-sự đại diện

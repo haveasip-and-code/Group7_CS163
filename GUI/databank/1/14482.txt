@@ -1,3 +1,7 @@
-dens
-	@dens\n* danh từ số nhiều\n- răng\n= dens serotinus+răng khôn\n@Chuyên ngành kỹ thuật\n-răng
-
+dens	
+@dens
+* danh từ số nhiều
+- răng= dens serotinus
++răng khôn
+@Chuyên ngành kỹ thuật
+-răng

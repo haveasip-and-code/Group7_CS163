@@ -1,3 +1,16 @@
-paging
-	@paging\n* danh từ\n- số trang của quyển sách\n- thứ tự các trang\n@Chuyên ngành kinh tế\n-tìm người\n@Chuyên ngành kỹ thuật\n-đánh số trang\n-phân trang\n-số trang\n@Lĩnh vực: toán & tin\n-chuyển trang nhớ\n-sự phân trang nhớ\n@Lĩnh vực: điện tử & viễn thông\n-nhắn tin vô tuyến\n-sự nhắn tin
-
+paging	@paging
+* danh từ
+- số trang của quyển sách
+- thứ tự các trang
+@Chuyên ngành kinh tế
+-tìm người
+@Chuyên ngành kỹ thuật
+-đánh số trang
+-phân trang
+-số trang
+@Lĩnh vực: toán & tin
+-chuyển trang nhớ
+-sự phân trang nhớ
+@Lĩnh vực: điện tử & viễn thông
+-nhắn tin vô tuyến
+-sự nhắn tin

@@ -1,3 +1,3 @@
-alias
-	@alias\n- (Tech) biệt hiệu, biệt danh
-
+alias	
+@alias
+- (Tech) biệt hiệu, biệt danh

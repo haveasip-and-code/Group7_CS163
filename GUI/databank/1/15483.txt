@@ -1,3 +1,7 @@
-dinosaur
-	@dinosaur\n* danh từ\n- khủng long\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khủng long
-
+dinosaur	
+@dinosaur
+* danh từ
+- khủng long
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khủng long

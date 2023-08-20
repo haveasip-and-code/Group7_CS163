@@ -1,3 +1,5 @@
-knout
-	@knout /naut/\n*  danh từ\n- roi da (ở nước Nga xưa)\n*  ngoại động từ\n- đánh bằng roi da, quất bằng roi da
-
+knout	@knout /naut/
+*  danh từ
+- roi da (ở nước Nga xưa)
+*  ngoại động từ
+- đánh bằng roi da, quất bằng roi da

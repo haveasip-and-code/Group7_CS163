@@ -1,3 +1,13 @@
-foliate
-	@foliate /'fouliit/\n*  tính từ\n- như lá\n- (thực vật học) có nhiều lá\n- (thực vật học) (trong từ ghép) có số lá chét đặc trưng\n*  ngoại động từ\n- trang trí (cửa ra vào) bằng hình lá\n- đánh số (tờ sách)\n*  nội động từ\n- chia ra thành lá mỏng\n@Chuyên ngành kỹ thuật\n-diệp
-
+foliate	
+@foliate /'fouliit/
+*  tính từ
+- như lá
+- (thực vật học) có nhiều lá
+- (thực vật học) (trong từ ghép) có số lá chét đặc trưng
+*  ngoại động từ
+- trang trí (cửa ra vào) bằng hình lá
+- đánh số (tờ sách)
+*  nội động từ
+- chia ra thành lá mỏng
+@Chuyên ngành kỹ thuật
+-diệp

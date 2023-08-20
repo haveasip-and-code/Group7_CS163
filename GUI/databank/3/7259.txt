@@ -1,3 +1,51 @@
-bush
-	@bush /buʃ/\n*  danh từ\n- bụi cây, bụi rậm\n- (the bush) rừng cây bụi\n- râu rậm, tóc râm\n- biển hàng rượu, quán rượu\n!to beat about the bush\n- (xem) beat\n!good wine needs no bush\n- (tục ngữ) hữu xạ tự nhiên hương\n!to take to the bush\n- trốn vào rừng đi ăn cướp\n*  ngoại động từ\n- trồng bụi cây (trên một khoảng đất trống để ngăn ngừa sự săn trộm bằng lưới)\n- bừa (một mảnh ruộng) băng bừa có gài cành cây\n*  danh từ\n- (kỹ thuật) ống lót, cái lót trục\n- (quân sự) ống phát hoả\n*  ngoại động từ\n- đặt ống lót, đặt lót trục\n@Chuyên ngành kỹ thuật\n-bạc\n-bạc lót\n-bầu dầu\n-bụi cây\n-đui\n-kíp mìn\n-lồng bạc\n-lồng ống lót\n-lót bạc\n-lót trục\n-măng sông\n-ổ cắm\n-ống\n-ống bọc\n-ống lồng\n-ống lót\n-ống lót trục\n-ống vỏ\n-ống xẻ\n-vành\n-vỏ\n@Lĩnh vực: xây dựng\n-cái lót trục\n@Lĩnh vực: cơ khí & công trình\n-hộp ổ\n-khớp bích (li hợp)\n-ống lót (ổ trục)\n-phễu náp liệu\n@Lĩnh vực: hóa học & vật liệu\n-vỏ màng bọc
-
+bush	@bush /buʃ/
+*  danh từ
+- bụi cây, bụi rậm
+- (the bush) rừng cây bụi
+- râu rậm, tóc râm
+- biển hàng rượu, quán rượu
+!to beat about the bush
+- (xem) beat
+!good wine needs no bush
+- (tục ngữ) hữu xạ tự nhiên hương
+!to take to the bush
+- trốn vào rừng đi ăn cướp
+*  ngoại động từ
+- trồng bụi cây (trên một khoảng đất trống để ngăn ngừa sự săn trộm bằng lưới)
+- bừa (một mảnh ruộng) băng bừa có gài cành cây
+*  danh từ
+- (kỹ thuật) ống lót, cái lót trục
+- (quân sự) ống phát hoả
+*  ngoại động từ
+- đặt ống lót, đặt lót trục
+@Chuyên ngành kỹ thuật
+-bạc
+-bạc lót
+-bầu dầu
+-bụi cây
+-đui
+-kíp mìn
+-lồng bạc
+-lồng ống lót
+-lót bạc
+-lót trục
+-măng sông
+-ổ cắm
+-ống
+-ống bọc
+-ống lồng
+-ống lót
+-ống lót trục
+-ống vỏ
+-ống xẻ
+-vành
+-vỏ
+@Lĩnh vực: xây dựng
+-cái lót trục
+@Lĩnh vực: cơ khí & công trình
+-hộp ổ
+-khớp bích (li hợp)
+-ống lót (ổ trục)
+-phễu náp liệu
+@Lĩnh vực: hóa học & vật liệu
+-vỏ màng bọc

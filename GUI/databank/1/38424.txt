@@ -1,3 +1,27 @@
-outbreak
-	@outbreak /'autbreik/\n*  danh từ\n- sự phun lửa (núi lửa)\n- cơn; sự bột phát\n=an outbreak of anger+ cơn giận, sự nổi xung\n- sự bùng nổ (của chiến tranh...)\n=at the outbreak of war+ khi chiến tranh bùng nổ\n- sự nổi dậy, sự bạo động (của quần chúng)\n- (địa lý,địa chất) (như) outcrop[aut'breik]\n*  nội động từ\n- phun ra, phụt ra\n- bùng nổ\n@Chuyên ngành kỹ thuật\n-sự bùng nổ\n-sự phá vỡ\n-sự phun ra\n-sự phun trào\n-vật chất phun ra\n-vết lộ vỉa\n@Lĩnh vực: cơ khí & công trình\n-phần lộ\n-sự lộ\n-sự phun (núi lửa)\n@Lĩnh vực: vật lý\n-sự phun lửa\n@Lĩnh vực: hóa học & vật liệu\n-sự trồi ra
-
+outbreak	@outbreak /'autbreik/
+*  danh từ
+- sự phun lửa (núi lửa)
+- cơn; sự bột phát
+=an outbreak of anger+ cơn giận, sự nổi xung
+- sự bùng nổ (của chiến tranh...)
+=at the outbreak of war+ khi chiến tranh bùng nổ
+- sự nổi dậy, sự bạo động (của quần chúng)
+- (địa lý,địa chất) (như) outcrop[aut'breik]
+*  nội động từ
+- phun ra, phụt ra
+- bùng nổ
+@Chuyên ngành kỹ thuật
+-sự bùng nổ
+-sự phá vỡ
+-sự phun ra
+-sự phun trào
+-vật chất phun ra
+-vết lộ vỉa
+@Lĩnh vực: cơ khí & công trình
+-phần lộ
+-sự lộ
+-sự phun (núi lửa)
+@Lĩnh vực: vật lý
+-sự phun lửa
+@Lĩnh vực: hóa học & vật liệu
+-sự trồi ra

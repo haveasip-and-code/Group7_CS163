@@ -1,3 +1,2 @@
-chugger
-	@chugger\n- xem chug
-
+chugger	@chugger
+- xem chug

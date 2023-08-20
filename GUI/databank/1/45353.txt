@@ -1,3 +1,4 @@
-radiated
-	@Chuyên ngành kỹ thuật\n-tỏa ra\n@Lĩnh vực: xây dựng\n-bức xạ phát ra
-
+radiated	@Chuyên ngành kỹ thuật
+-tỏa ra
+@Lĩnh vực: xây dựng
+-bức xạ phát ra

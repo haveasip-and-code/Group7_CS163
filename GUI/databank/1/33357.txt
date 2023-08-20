@@ -1,3 +1,8 @@
-makeup
-	@Chuyên ngành kỹ thuật\n-bộ phận\n-cấu trúc\n-thành phần\n@Lĩnh vực: cơ khí & công trình\n-sự bổ sung\n@Lĩnh vực: xây dựng\n-trang điểm
-
+makeup	@Chuyên ngành kỹ thuật
+-bộ phận
+-cấu trúc
+-thành phần
+@Lĩnh vực: cơ khí & công trình
+-sự bổ sung
+@Lĩnh vực: xây dựng
+-trang điểm

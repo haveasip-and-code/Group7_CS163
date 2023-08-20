@@ -1,3 +1,6 @@
-cigarillo
-	@cigarillo\n* danh từ\n- số nhiều cigarillos\n- điếu thuốc lá nhỏ hở hai đầu\n@Chuyên ngành kinh tế\n-điếu xì gà nhỏ
-
+cigarillo	@cigarillo
+* danh từ
+- số nhiều cigarillos
+- điếu thuốc lá nhỏ hở hai đầu
+@Chuyên ngành kinh tế
+-điếu xì gà nhỏ

@@ -1,3 +1,13 @@
-mall
-	@mall\n* danh từ\n- búa nặng, búa tạ\n- phố buôn bán lớn\n- cuộc đi dạo nơi nhiều bóng mát\n- nơi bóng mát để đi dạo\n@Chuyên ngành kỹ thuật\n-búa\n-búa tạ\n-chày\n-dùi đục\n@Lĩnh vực: cơ khí & công trình\n-vồ
-
+mall	@mall
+* danh từ
+- búa nặng, búa tạ
+- phố buôn bán lớn
+- cuộc đi dạo nơi nhiều bóng mát
+- nơi bóng mát để đi dạo
+@Chuyên ngành kỹ thuật
+-búa
+-búa tạ
+-chày
+-dùi đục
+@Lĩnh vực: cơ khí & công trình
+-vồ

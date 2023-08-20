@@ -1,3 +1,2 @@
-partitioner
-	@partitioner\n- xem partition
-
+partitioner	@partitioner
+- xem partition

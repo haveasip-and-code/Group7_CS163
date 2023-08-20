@@ -1,3 +1,24 @@
-protection
-	@protection /protection/\n*  danh từ\n- sự bảo vệ, sự bảo hộ, sự che chở; sự bảo trợ\n=under someone's protection+ dưới sự che chở của ai\n- người bảo vệ, người che chở; vật bảo vệ, vật che chở\n- giấy thông hành\n- (từ Mỹ,nghĩa Mỹ) giấy chứng nhận quốc tịch (phát cho thuỷ thủ)\n- chế độ bảo vệ nện công nghiệp trong nước\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) tiền trả cho bọn tống tiền; tiền hối lộ (cho chức trách để bao che cho những hành động phạm pháp)\n!to live under someone's protection\n- được ai bao (đàn bà)\n@Chuyên ngành kinh tế\n-sự bảo hộ\n-sự bảo hộ (mậu dịch, công nghiệp)\n-tiền bảo kê\n@Chuyên ngành kỹ thuật\n-bảo vệ\n-bộ phận bảo vệ\n-cấu bảo vệ\n-lớp bảo vệ\n-sự bảo hộ\n-sự bảo vệ\n@Lĩnh vực: giao thông & vận tải\n-bảo hộ
-
+protection	@protection /protection/
+*  danh từ
+- sự bảo vệ, sự bảo hộ, sự che chở; sự bảo trợ
+=under someone's protection+ dưới sự che chở của ai
+- người bảo vệ, người che chở; vật bảo vệ, vật che chở
+- giấy thông hành
+- (từ Mỹ,nghĩa Mỹ) giấy chứng nhận quốc tịch (phát cho thuỷ thủ)
+- chế độ bảo vệ nện công nghiệp trong nước
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tiền trả cho bọn tống tiền; tiền hối lộ (cho chức trách để bao che cho những hành động phạm pháp)
+!to live under someone's protection
+- được ai bao (đàn bà)
+@Chuyên ngành kinh tế
+-sự bảo hộ
+-sự bảo hộ (mậu dịch, công nghiệp)
+-tiền bảo kê
+@Chuyên ngành kỹ thuật
+-bảo vệ
+-bộ phận bảo vệ
+-cấu bảo vệ
+-lớp bảo vệ
+-sự bảo hộ
+-sự bảo vệ
+@Lĩnh vực: giao thông & vận tải
+-bảo hộ

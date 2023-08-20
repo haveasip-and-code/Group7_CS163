@@ -1,3 +1,2 @@
-blankness
-	@blankness\n- xem blank
-
+blankness	@blankness
+- xem blank

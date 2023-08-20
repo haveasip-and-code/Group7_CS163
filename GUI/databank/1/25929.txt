@@ -1,3 +1,4 @@
-hogger
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ống nối ngắn
-
+hogger	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-ống nối ngắn

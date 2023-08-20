@@ -1,3 +1,13 @@
-bisector
-	@bisector /bai'sektə/ (bisectrix) /bai'sektriks/\n*  danh từ\n- đường phân đôi\n- (văn học) đường phân giác\n=bisector of an angle+ (toán học) đường phân giác của một góc\n@Chuyên ngành kỹ thuật\n-đường phân giác\n-phân giác\n@Lĩnh vực: xây dựng\n-dây giữa\n@Lĩnh vực: điện lạnh\n-mặt phẳng trung trực
-
+bisector	
+@bisector /bai'sektə/ (bisectrix) /bai'sektriks/
+*  danh từ
+- đường phân đôi
+- (văn học) đường phân giác=bisector of an angle
++ (toán học) đường phân giác của một góc
+@Chuyên ngành kỹ thuật
+-đường phân giác
+-phân giác
+@Lĩnh vực: xây dựng
+-dây giữa
+@Lĩnh vực: điện lạnh
+-mặt phẳng trung trực

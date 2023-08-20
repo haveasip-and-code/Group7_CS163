@@ -1,3 +1,11 @@
-firmware
-	@firmware\n- (Tech) kiên liệu, phần dẻo [TN]\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phần sụn\n-vi chương trình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phần sụn\n-vi chương trình
-
+firmware	
+@firmware
+- (Tech) kiên liệu, phần dẻo [TN]
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phần sụn
+-vi chương trình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phần sụn
+-vi chương trình

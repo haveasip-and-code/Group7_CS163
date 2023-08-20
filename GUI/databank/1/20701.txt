@@ -1,3 +1,32 @@
-felt
-	@felt /felt/\n*  danh từ\n- nỉ, phớt\n- (định ngữ) bằng nỉ, bằng dạ, bằng phớt\n=felt hat+ mũ phớt\n*  ngoại động từ\n- kết lại thành nỉ; kết lại với nhau\n- bọc bằng nỉ\n*  nội động từ\n- kết lại, bết xuống\n*  thời quá khứ & động tính từ quá khứ của feel\n@Chuyên ngành kỹ thuật\n-bạt\n-nỉ\n-phớt\n@Lĩnh vực: xây dựng\n-các tông lợp\n@Lĩnh vực: y học\n-dạ\n@Lĩnh vực: hóa học & vật liệu\n-vải nỉ\n@Chuyên ngành kỹ thuật\n-bạt\n-nỉ\n-phớt\n@Lĩnh vực: xây dựng\n-các tông lợp\n@Lĩnh vực: y học\n-dạ\n@Lĩnh vực: hóa học & vật liệu\n-vải nỉ
-
+felt	
+@felt /felt/
+*  danh từ
+- nỉ, phớt
+- (định ngữ) bằng nỉ, bằng dạ, bằng phớt=felt hat
++ mũ phớt
+*  ngoại động từ
+- kết lại thành nỉ; kết lại với nhau
+- bọc bằng nỉ
+*  nội động từ
+- kết lại, bết xuống
+*  thời quá khứ & động tính từ quá khứ của feel
+@Chuyên ngành kỹ thuật
+-bạt
+-nỉ
+-phớt
+@Lĩnh vực: xây dựng
+-các tông lợp
+@Lĩnh vực: y học
+-dạ
+@Lĩnh vực: hóa học & vật liệu
+-vải nỉ
+@Chuyên ngành kỹ thuật
+-bạt
+-nỉ
+-phớt
+@Lĩnh vực: xây dựng
+-các tông lợp
+@Lĩnh vực: y học
+-dạ
+@Lĩnh vực: hóa học & vật liệu
+-vải nỉ

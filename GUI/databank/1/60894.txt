@@ -1,3 +1,5 @@
-upsetting
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự lật úp\n@Lĩnh vực: hóa học & vật liệu\n-sự rèn chồn
-
+upsetting	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự lật úp
+@Lĩnh vực: hóa học & vật liệu
+-sự rèn chồn

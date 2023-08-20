@@ -1,3 +1,4 @@
-lapis
-	@Chuyên ngành kỹ thuật\n-đá\n@Chuyên ngành kỹ thuật\n-đá
-
+lapis	@Chuyên ngành kỹ thuật
+-đá
+@Chuyên ngành kỹ thuật
+-đá

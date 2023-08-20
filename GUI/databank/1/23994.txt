@@ -1,3 +1,14 @@
-gradual
-	@gradual /'grædjuəl/\n*  tính từ\n- dần dần, từ từ, từng bước một\n=a gradual change+ sự thay đổi từ từ\n=gradual transition+ sự quá độ dần dần\n=a gradual slope+ dốc thoai thoải\n@Chuyên ngành kỹ thuật\n-dần dần\n@Lĩnh vực: xây dựng\n-dần\n@Lĩnh vực: điện lạnh\n-từng bậc\n-từng nấc
-
+gradual	
+@gradual /'grædjuəl/
+*  tính từ
+- dần dần, từ từ, từng bước một=a gradual change
++ sự thay đổi từ từ=gradual transition
++ sự quá độ dần dần=a gradual slope
++ dốc thoai thoải
+@Chuyên ngành kỹ thuật
+-dần dần
+@Lĩnh vực: xây dựng
+-dần
+@Lĩnh vực: điện lạnh
+-từng bậc
+-từng nấc

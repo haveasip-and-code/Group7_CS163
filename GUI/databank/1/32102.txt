@@ -1,3 +1,13 @@
-libration
-	@libration /lai'breiʃn/\n*  danh từ\n- tình trạng đu đưa, tình trạng lúc lắc, tình trạng bập bềnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bình động\n@Lĩnh vực: điện lạnh\n-sự bình động\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bình động\n@Lĩnh vực: điện lạnh\n-sự bình động
-
+libration	@libration /lai'breiʃn/
+*  danh từ
+- tình trạng đu đưa, tình trạng lúc lắc, tình trạng bập bềnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bình động
+@Lĩnh vực: điện lạnh
+-sự bình động
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bình động
+@Lĩnh vực: điện lạnh
+-sự bình động

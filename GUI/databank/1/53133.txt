@@ -1,3 +1,17 @@
-steamer
-	@steamer /'sti:mə/\n*  danh từ\n- tàu chạy bằng hơi nước\n- nồi đun hơi\n@Chuyên ngành kinh tế\n-chõ, nồi hấp, nồi đun hơi\n-thiết bị luộc (hay chần) bằng hơi\n-thiết bị nấu bằng hơi\n-thiết bị tạo hơi\n@Chuyên ngành kỹ thuật\n-lò hơi\n-nồi hơi\n@Lĩnh vực: cơ khí & công trình\n-tàu chạy bằng hơi\n@Lĩnh vực: hóa học & vật liệu\n-tầu chạy hơi nước\n-thiết bị bốc hơi
-
+steamer	@steamer /'sti:mə/
+*  danh từ
+- tàu chạy bằng hơi nước
+- nồi đun hơi
+@Chuyên ngành kinh tế
+-chõ, nồi hấp, nồi đun hơi
+-thiết bị luộc (hay chần) bằng hơi
+-thiết bị nấu bằng hơi
+-thiết bị tạo hơi
+@Chuyên ngành kỹ thuật
+-lò hơi
+-nồi hơi
+@Lĩnh vực: cơ khí & công trình
+-tàu chạy bằng hơi
+@Lĩnh vực: hóa học & vật liệu
+-tầu chạy hơi nước
+-thiết bị bốc hơi

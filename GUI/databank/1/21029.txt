@@ -1,3 +1,72 @@
-filler
-	@filler /'filə/\n*  danh từ\n- người làm đẫy; cái để làm đẫy, cái để nhồi đầy\n- thuốc lá ruột (ở điếu xì gà)\n- bài lấp chỗ trống (trong một tờ báo)\n- tập giấy rời (để làm sổ tay)\n@Chuyên ngành kinh tế\n-chất liệu để nhồi đầy\n-dụng cụ để làm đầy\n-fi-lơ\n-người làm đầy\n-nhân\n-ruột\n-vật để trám\n@Chuyên ngành kỹ thuật\n-bộ điền đầy\n-bộ lọc\n-cái phễu\n-chất phụ gia\n-ký tự đệm\n-lớp đệm\n-lớp độn\n-ma tít\n-máy bốc xếp\n-máy chất liệu\n-máy rót\n-miếng đệm\n-miệng rót\n-thùng chứa\n-vật độn\n@Lĩnh vực: xây dựng\n-bột khoáng\n-tấm ghi\n@Lĩnh vực: hóa học & vật liệu\n-chất đệm\n-chất trám\n@Lĩnh vực: ô tô\n-chất trám lót\n@Lĩnh vực: cơ khí & công trình\n-dụng cụ rót\n-máy cấp phôi\n-máy nạp tải\n@Chuyên ngành kỹ thuật\n-bộ điền đầy\n-bộ lọc\n-cái phễu\n-chất phụ gia\n-ký tự đệm\n-lớp đệm\n-lớp độn\n-ma tít\n-máy bốc xếp\n-máy chất liệu\n-máy rót\n-miếng đệm\n-miệng rót\n-thùng chứa\n-vật độn\n@Lĩnh vực: xây dựng\n-bột khoáng\n-tấm ghi\n@Lĩnh vực: hóa học & vật liệu\n-chất đệm\n-chất trám\n@Lĩnh vực: ô tô\n-chất trám lót\n@Lĩnh vực: cơ khí & công trình\n-dụng cụ rót\n-máy cấp phôi\n-máy nạp tải
-
+filler	
+@filler /'filə/
+*  danh từ
+- người làm đẫy; cái để làm đẫy, cái để nhồi đầy
+- thuốc lá ruột (ở điếu xì gà)
+- bài lấp chỗ trống (trong một tờ báo)
+- tập giấy rời (để làm sổ tay)
+@Chuyên ngành kinh tế
+-chất liệu để nhồi đầy
+-dụng cụ để làm đầy
+-fi
+-lơ
+-người làm đầy
+-nhân
+-ruột
+-vật để trám
+@Chuyên ngành kỹ thuật
+-bộ điền đầy
+-bộ lọc
+-cái phễu
+-chất phụ gia
+-ký tự đệm
+-lớp đệm
+-lớp độn
+-ma tít
+-máy bốc xếp
+-máy chất liệu
+-máy rót
+-miếng đệm
+-miệng rót
+-thùng chứa
+-vật độn
+@Lĩnh vực: xây dựng
+-bột khoáng
+-tấm ghi
+@Lĩnh vực: hóa học & vật liệu
+-chất đệm
+-chất trám
+@Lĩnh vực: ô tô
+-chất trám lót
+@Lĩnh vực: cơ khí & công trình
+-dụng cụ rót
+-máy cấp phôi
+-máy nạp tải
+@Chuyên ngành kỹ thuật
+-bộ điền đầy
+-bộ lọc
+-cái phễu
+-chất phụ gia
+-ký tự đệm
+-lớp đệm
+-lớp độn
+-ma tít
+-máy bốc xếp
+-máy chất liệu
+-máy rót
+-miếng đệm
+-miệng rót
+-thùng chứa
+-vật độn
+@Lĩnh vực: xây dựng
+-bột khoáng
+-tấm ghi
+@Lĩnh vực: hóa học & vật liệu
+-chất đệm
+-chất trám
+@Lĩnh vực: ô tô
+-chất trám lót
+@Lĩnh vực: cơ khí & công trình
+-dụng cụ rót
+-máy cấp phôi
+-máy nạp tải

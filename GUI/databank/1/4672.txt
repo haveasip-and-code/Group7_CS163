@@ -1,3 +1,95 @@
-bar
-	@bar /bɑ:/\n*  danh từ\n- barơ (đơn vị áp suất)\n*  danh từ\n- thanh, thỏi\n=a bar of chocolate+ thanh sôcôla\n=a bar of gold+ thỏi vàng\n- chấn song; then chắn (cửa)\n- vật ngáng; cái ngáng đường (để thu thuế)\n- cồn cát ngầm (ở cửa sông hay hải cảng)\n- vạch ngang (ở trên huy chương)\n- vạch đường kẻ\n=there was a bar of red across the western sky+ có một vạch sáng đỏ trên trời về phía tây\n- (âm nhạc) gạch nhịp; nhịp\n- (kỹ thuật) thanh, cần\n- (thể dục,thể thao) xà\n=bars+ xà kép\n- (pháp lý) sự kháng biện\n- (pháp lý) vành móng ngựa, toà\n=to be tried at [the]+ bị xử tại toà\n=the bar of public opinion+ toà án dư luận\n- (the bar) nghề luật sư\n=to be called to the bar; to go to the bar+ trở thành luật sư\n=to read for the bar+ học luật (để ra làm luật sư)\n- quầy bán rượu\n- sự trở ngại, sự cản trở (về tinh thần)\n*  ngoại động từ\n- cài, then (cửa)\n- chặn (đường...), ngăn cản\n- vạch đường kẻ\n- cấm, cấm chỉ\n- (từ lóng) ghét, không ưa (một người, một thói quen)\n- (pháp lý) kháng biện\n!to bar in\n- chặn (cửa) không cho ra\n!to bar out\n- chặn (cửa) không cho vào\n*  giới từ\n- trừ, trừ ra\n=bar unforesner uncumstances+ trừ những trường hợp bất thường\n=bar one+ trừ một\n=bar nome+ không trừ một ai\n@Chuyên ngành kinh tế\n-tấm\n-tảng\n-thanh\n-thỏi\n@Chuyên ngành kỹ thuật\n-bãi ngầm\n-cấm chỉ\n-cần khoan\n-cấu kiện\n-chắn\n-dầm\n-dao nghiền\n-đòn\n-đường truyền chính\n-gạch ngang\n-gióng cửa\n-khối\n-ngưỡng đáy\n-nhịp\n-mia\n-phiến\n-rầm\n-ray dẫn điện\n-súc\n-tay đòn\n-thân trụ\n-thanh cốt thép\n-then cửa\n-thước đo\n-thước thanh\n-trở ngại\n-xà\n-xà ngang\n@Lĩnh vực: cơ khí & công trình\n-bãi ngầm (lòng sông)\n-mia trắc địa\n@Lĩnh vực: dệt may\n-băng sợi ngang\n@Lĩnh vực: giao thông & vận tải\n-cồn cát (địa lý)\n@Lĩnh vực: xây dựng\n-dầm nhỏ\n-đê cát chắn (ở sông, biển)\n-gạch chữ nhật\n-then (khóa)\n-tiệm rượu\n@Lĩnh vực: điện lạnh\n-dấu gạch\n@Lĩnh vực: toán & tin\n-gạch phân số\n-thanh dầm\n@Lĩnh vực: hóa học & vật liệu\n-giá kiểu thanh
-
+bar	
+@bar /bɑ:/
+*  danh từ
+- barơ (đơn vị áp suất)
+*  danh từ
+- thanh, thỏi=a bar of chocolate
++ thanh sôcôla=a bar of gold
++ thỏi vàng
+- chấn song; then chắn (cửa)
+- vật ngáng; cái ngáng đường (để thu thuế)
+- cồn cát ngầm (ở cửa sông hay hải cảng)
+- vạch ngang (ở trên huy chương)
+- vạch đường kẻ=there was a bar of red across the western sky
++ có một vạch sáng đỏ trên trời về phía tây
+- (âm nhạc) gạch nhịp; nhịp
+- (kỹ thuật) thanh, cần
+- (thể dục,thể thao) xà=bars
++ xà kép
+- (pháp lý) sự kháng biện
+- (pháp lý) vành móng ngựa, toà=to be tried at [the]
++ bị xử tại toà=the bar of public opinion
++ toà án dư luận
+- (the bar) nghề luật sư=to be called to the bar; to go to the bar
++ trở thành luật sư=to read for the bar
++ học luật (để ra làm luật sư)
+- quầy bán rượu
+- sự trở ngại, sự cản trở (về tinh thần)
+*  ngoại động từ
+- cài, then (cửa)
+- chặn (đường...), ngăn cản
+- vạch đường kẻ
+- cấm, cấm chỉ
+- (từ lóng) ghét, không ưa (một người, một thói quen)
+- (pháp lý) kháng biện!to bar in
+- chặn (cửa) không cho ra!to bar out
+- chặn (cửa) không cho vào
+*  giới từ
+- trừ, trừ ra=bar unforesner uncumstances
++ trừ những trường hợp bất thường=bar one
++ trừ một=bar nome
++ không trừ một ai
+@Chuyên ngành kinh tế
+-tấm
+-tảng
+-thanh
+-thỏi
+@Chuyên ngành kỹ thuật
+-bãi ngầm
+-cấm chỉ
+-cần khoan
+-cấu kiện
+-chắn
+-dầm
+-dao nghiền
+-đòn
+-đường truyền chính
+-gạch ngang
+-gióng cửa
+-khối
+-ngưỡng đáy
+-nhịp
+-mia
+-phiến
+-rầm
+-ray dẫn điện
+-súc
+-tay đòn
+-thân trụ
+-thanh cốt thép
+-then cửa
+-thước đo
+-thước thanh
+-trở ngại
+-xà
+-xà ngang
+@Lĩnh vực: cơ khí & công trình
+-bãi ngầm (lòng sông)
+-mia trắc địa
+@Lĩnh vực: dệt may
+-băng sợi ngang
+@Lĩnh vực: giao thông & vận tải
+-cồn cát (địa lý)
+@Lĩnh vực: xây dựng
+-dầm nhỏ
+-đê cát chắn (ở sông, biển)
+-gạch chữ nhật
+-then (khóa)
+-tiệm rượu
+@Lĩnh vực: điện lạnh
+-dấu gạch
+@Lĩnh vực: toán & tin
+-gạch phân số
+-thanh dầm
+@Lĩnh vực: hóa học & vật liệu
+-giá kiểu thanh

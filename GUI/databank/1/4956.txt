@@ -1,3 +1,8 @@
-beaching
-	@Chuyên ngành kỹ thuật\n-sự lát mặt\n-sự rải sỏi\n@Lĩnh vực: cơ khí & công trình\n-đá lát mặt\n@Lĩnh vực: xây dựng\n-sự lát (gạch), sự rải sỏi
-
+beaching	
+@Chuyên ngành kỹ thuật
+-sự lát mặt
+-sự rải sỏi
+@Lĩnh vực: cơ khí & công trình
+-đá lát mặt
+@Lĩnh vực: xây dựng
+-sự lát (gạch), sự rải sỏi

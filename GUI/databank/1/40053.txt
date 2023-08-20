@@ -1,3 +1,2 @@
-patronal
-	@patronal\n- xem patron
-
+patronal	@patronal
+- xem patron

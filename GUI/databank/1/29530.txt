@@ -1,3 +1,7 @@
-intervalometer
-	@intervalometer\n* danh từ\n- cái kiểm soát khoảng cách (của máy ảnh)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bộ định giờ
-
+intervalometer	
+@intervalometer
+* danh từ
+- cái kiểm soát khoảng cách (của máy ảnh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bộ định giờ

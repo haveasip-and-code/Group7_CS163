@@ -1,3 +1,4 @@
-lahar
-	@Chuyên ngành kỹ thuật\n-dòng bùng\n@Chuyên ngành kỹ thuật\n-dòng bùng
-
+lahar	@Chuyên ngành kỹ thuật
+-dòng bùng
+@Chuyên ngành kỹ thuật
+-dòng bùng

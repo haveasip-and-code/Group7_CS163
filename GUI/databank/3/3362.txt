@@ -1,3 +1,19 @@
-arrears
-	@arrears\n* danh từ\n- tiền nợ lẽ ra phải trả trước đó; nợ còn khất lại\n- arrears of salary\n- tiền lương còn khất lại, còn thiếu lại (chưa trả)\n= rent arrears+tiền thuê nhà còn khất lại\n- việc chưa làm xong\n= arrears of correspondence+thư từ tồn đọng (chưa giải quyết hoặc phúc đáp)\n= to be in arrears with something;  to fall into arrears with something+chậm trả tiền nợ; chậm làm một việc gì\n= I've fallen into arrears with my rent+tôi đã chậm trả tiền thuê nhà\n= I'm in arrears with the housework+tôi còn công việc nội trợ chưa làm\n= payment is made in arrears+tiền sẽ thanh toán sau (nghĩa là khi làm xong việc)\n@Chuyên ngành kinh tế\n-chưa trả\n-tiền chưa trả\n-tiền còn nợ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nợ khất
-
+arrears	@arrears
+* danh từ
+- tiền nợ lẽ ra phải trả trước đó; nợ còn khất lại
+- arrears of salary
+- tiền lương còn khất lại, còn thiếu lại (chưa trả)
+= rent arrears+tiền thuê nhà còn khất lại
+- việc chưa làm xong
+= arrears of correspondence+thư từ tồn đọng (chưa giải quyết hoặc phúc đáp)
+= to be in arrears with something;  to fall into arrears with something+chậm trả tiền nợ; chậm làm một việc gì
+= I've fallen into arrears with my rent+tôi đã chậm trả tiền thuê nhà
+= I'm in arrears with the housework+tôi còn công việc nội trợ chưa làm
+= payment is made in arrears+tiền sẽ thanh toán sau (nghĩa là khi làm xong việc)
+@Chuyên ngành kinh tế
+-chưa trả
+-tiền chưa trả
+-tiền còn nợ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nợ khất

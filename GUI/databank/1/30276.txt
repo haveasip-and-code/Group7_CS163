@@ -1,3 +1,49 @@
-jam
-	@jam /dʤæm/\n*  danh từ\n- mứt\n!real jam\n- (từ lóng) điều khoái trá, điều hết sức thú vị\n*  danh từ\n- sự kẹp chặt, sự ép chặt\n- sự ấn vào, sự tọng vào, sự nhồi nhét\n- đám đông chen chúc, đám đông tắc nghẽn\n=traffic jam+ đường tắc nghẽn; giao thông tắc nghẽn\n- sự mắc kẹt, sự kẹt (máy...)\n- (thông tục) tình hình khó khăn, tình thế khó xử, hoàn cảnh bế tắc\n- (raddiô) nhiễu (lúc thu)\n*  ngoại động từ\n- ép chặt, kẹp chặt\n=to jam one's finger in the door+ kẹp ngón tay ở cửa\n- ((thường) + into) ấn vào, tọng vào, nhồi nhét, nhồi chặt\n- làm tắc nghẽn (đường xá...)\n- (kỹ thuật) làm mắc kẹt, kẹt chặt, hãm kẹt lại; chêm, chèn\n=to jam the brake+ hãm kẹt phanh lại\n- (raddiô) phá, làm nhiễu (một chương trình phát thanh, làn sóng...)\n*  nội động từ\n- bị chêm chặt, mắc kẹt, kẹt chặt (bộ phận máy...)\n- bị ép chặt, bị xếp chật ních, bị nhồi chặt\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ứng tác, ứng tấu (nhạc ja)\n@Chuyên ngành kinh tế\n-mứt dẻo\n@Chuyên ngành kỹ thuật\n-bị tắc\n-chèn\n-ép\n-gây nhiễu\n-kẹt\n-làm kẹt\n-làm nhiễu\n-nén\n-ngàm\n-nhiễu\n-mắc kẹt\n-phá rối\n-sự chẹn\n-sự kẹt\n@Lĩnh vực: xây dựng\n-kèm chặt\n@Lĩnh vực: cơ khí & công trình\n-kẹt (cứng)\n@Lĩnh vực: hóa học & vật liệu\n-miết
-
+jam	
+@jam /dʤæm/
+*  danh từ
+- mứt!real jam
+- (từ lóng) điều khoái trá, điều hết sức thú vị
+*  danh từ
+- sự kẹp chặt, sự ép chặt
+- sự ấn vào, sự tọng vào, sự nhồi nhét
+- đám đông chen chúc, đám đông tắc nghẽn=traffic jam
++ đường tắc nghẽn; giao thông tắc nghẽn
+- sự mắc kẹt, sự kẹt (máy...)
+- (thông tục) tình hình khó khăn, tình thế khó xử, hoàn cảnh bế tắc
+- (raddiô) nhiễu (lúc thu)
+*  ngoại động từ
+- ép chặt, kẹp chặt=to jam one's finger in the door
++ kẹp ngón tay ở cửa
+- ((thường) 
++ into) ấn vào, tọng vào, nhồi nhét, nhồi chặt
+- làm tắc nghẽn (đường xá...)
+- (kỹ thuật) làm mắc kẹt, kẹt chặt, hãm kẹt lại; chêm, chèn=to jam the brake
++ hãm kẹt phanh lại
+- (raddiô) phá, làm nhiễu (một chương trình phát thanh, làn sóng...)
+*  nội động từ
+- bị chêm chặt, mắc kẹt, kẹt chặt (bộ phận máy...)
+- bị ép chặt, bị xếp chật ních, bị nhồi chặt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ứng tác, ứng tấu (nhạc ja)
+@Chuyên ngành kinh tế
+-mứt dẻo
+@Chuyên ngành kỹ thuật
+-bị tắc
+-chèn
+-ép
+-gây nhiễu
+-kẹt
+-làm kẹt
+-làm nhiễu
+-nén
+-ngàm
+-nhiễu
+-mắc kẹt
+-phá rối
+-sự chẹn
+-sự kẹt
+@Lĩnh vực: xây dựng
+-kèm chặt
+@Lĩnh vực: cơ khí & công trình
+-kẹt (cứng)
+@Lĩnh vực: hóa học & vật liệu
+-miết

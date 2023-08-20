@@ -1,3 +1,4 @@
-supplies
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-hàng cung cấp\n-hàng lưu kho
-
+supplies	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-hàng cung cấp
+-hàng lưu kho

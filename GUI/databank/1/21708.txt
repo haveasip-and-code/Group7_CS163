@@ -1,3 +1,25 @@
-folding
-	@folding\n* danh từ\n- sự tạo nếp\n- sự gấp nếp\n* tính từ\n- gấp lại được\n= folding chair+ghế gấp lại được\n= folding screen+bình phong gấp lại được\n@Chuyên ngành kỹ thuật\n-gấp được\n-gấp nếp\n-sự gập\n-sự gấp nếp\n-sự khuân nối\n-sự uốn\n-sự uốn nếp\n-sự xoi rãnh\n-uốn nếp\n@Lĩnh vực: toán & tin\n-sự gấp\n@Lĩnh vực: xây dựng\n-sự gấp (mép)\n@Lĩnh vực: hóa học & vật liệu\n-tạo uốn nếp
-
+folding	
+@folding
+* danh từ
+- sự tạo nếp
+- sự gấp nếp
+* tính từ
+- gấp lại được= folding chair
++ghế gấp lại được= folding screen
++bình phong gấp lại được
+@Chuyên ngành kỹ thuật
+-gấp được
+-gấp nếp
+-sự gập
+-sự gấp nếp
+-sự khuân nối
+-sự uốn
+-sự uốn nếp
+-sự xoi rãnh
+-uốn nếp
+@Lĩnh vực: toán & tin
+-sự gấp
+@Lĩnh vực: xây dựng
+-sự gấp (mép)
+@Lĩnh vực: hóa học & vật liệu
+-tạo uốn nếp

@@ -1,3 +1,10 @@
-pathogen
-	@pathogen\n* danh từ\n- mầm bệnh; nguồn bệnh\n@Chuyên ngành kinh tế\n-vi sinh vật gây bệnh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tác nhân gây bệnh\n@Lĩnh vực: hóa học & vật liệu\n-thể sinh bệnh
-
+pathogen	@pathogen
+* danh từ
+- mầm bệnh; nguồn bệnh
+@Chuyên ngành kinh tế
+-vi sinh vật gây bệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tác nhân gây bệnh
+@Lĩnh vực: hóa học & vật liệu
+-thể sinh bệnh

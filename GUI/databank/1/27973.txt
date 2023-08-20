@@ -1,3 +1,30 @@
-increase
-	@increase /'inkri:s/\n*  danh từ\n- sự tăng, sự tăng thêm\n=an increase in population+ sự tăng số dân\n=on the increase+ đang tăng lên, ngày càng tăng\n- số lượng tăng thêm\n*  động từ\n- tăng lên, tăng thêm, lớn thêm\n=to increase speed+ tăng tốc độ\n=the population increases+ số dân tăng lên\n@Chuyên ngành kinh tế\n-sự tăng gia (sản xuất, giá trị...)\n-tăng gia\n@Chuyên ngành kỹ thuật\n-độ phóng đại\n-gia tăng\n-số gia\n-sự lớn lên\n-sự phát triển\n-sự tăng\n-sự tăng lên\n-tăng\n-tăng lên\n@Lĩnh vực: xây dựng\n-độ tăng\n-khoản tăng\n-số lượng tăng\n@Lĩnh vực: cơ khí & công trình\n-làm tăng lên
-
+increase	
+@increase /'inkri:s/
+*  danh từ
+- sự tăng, sự tăng thêm=an increase in population
++ sự tăng số dân=on the increase
++ đang tăng lên, ngày càng tăng
+- số lượng tăng thêm
+*  động từ
+- tăng lên, tăng thêm, lớn thêm=to increase speed
++ tăng tốc độ=the population increases
++ số dân tăng lên
+@Chuyên ngành kinh tế
+-sự tăng gia (sản xuất, giá trị...)
+-tăng gia
+@Chuyên ngành kỹ thuật
+-độ phóng đại
+-gia tăng
+-số gia
+-sự lớn lên
+-sự phát triển
+-sự tăng
+-sự tăng lên
+-tăng
+-tăng lên
+@Lĩnh vực: xây dựng
+-độ tăng
+-khoản tăng
+-số lượng tăng
+@Lĩnh vực: cơ khí & công trình
+-làm tăng lên

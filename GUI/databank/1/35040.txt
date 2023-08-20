@@ -1,3 +1,9 @@
-misalignment
-	@Chuyên ngành kỹ thuật\n-độ lệch\n-sự chỉnh sai\n-sự lệch trục\n-sự sai trục\n-sự trệch\n-sự xê dịch\n@Lĩnh vực: điện lạnh\n-sự xếp sai
-
+misalignment	@Chuyên ngành kỹ thuật
+-độ lệch
+-sự chỉnh sai
+-sự lệch trục
+-sự sai trục
+-sự trệch
+-sự xê dịch
+@Lĩnh vực: điện lạnh
+-sự xếp sai

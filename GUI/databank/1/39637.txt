@@ -1,3 +1,2 @@
-paraphraser
-	@paraphraser\n- xem paraphrase
-
+paraphraser	@paraphraser
+- xem paraphrase

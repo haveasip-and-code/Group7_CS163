@@ -1,3 +1,2 @@
-prober
-	@prober\n- xem probe
-
+prober	@prober
+- xem probe

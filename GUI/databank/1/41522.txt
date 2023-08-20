@@ -1,3 +1,4 @@
-piezometric
-	@piezometric\n- xem piezometer\n@Chuyên ngành kỹ thuật\n-đo áp
-
+piezometric	@piezometric
+- xem piezometer
+@Chuyên ngành kỹ thuật
+-đo áp

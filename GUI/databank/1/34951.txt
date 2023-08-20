@@ -1,3 +1,8 @@
-miner
-	@miner\n* danh từ\n- công nhân mỏ\n- <qsự> lính đánh mìn, lính chôn địa lôi, lính thả thuỷ lôi\n@Chuyên ngành kỹ thuật\n-thợ mỏ\n@Lĩnh vực: xây dựng\n-thợ gương lò
-
+miner	@miner
+* danh từ
+- công nhân mỏ
+- <qsự> lính đánh mìn, lính chôn địa lôi, lính thả thuỷ lôi
+@Chuyên ngành kỹ thuật
+-thợ mỏ
+@Lĩnh vực: xây dựng
+-thợ gương lò

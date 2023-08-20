@@ -1,3 +1,14 @@
-floater
-	@floater /floater/\n*  danh từ\n- (thông tục) công nhân làm theo mùa, công nhân phụ động\n@Chuyên ngành kinh tế\n-bảo hiểm bao\n@Chuyên ngành kỹ thuật\n-cái phao\n-giàn khoan nổi, bể chứa mái nổi\n-phao\n@Chuyên ngành kỹ thuật\n-cái phao\n-giàn khoan nổi, bể chứa mái nổi\n-phao
-
+floater	
+@floater /floater/
+*  danh từ
+- (thông tục) công nhân làm theo mùa, công nhân phụ động
+@Chuyên ngành kinh tế
+-bảo hiểm bao
+@Chuyên ngành kỹ thuật
+-cái phao
+-giàn khoan nổi, bể chứa mái nổi
+-phao
+@Chuyên ngành kỹ thuật
+-cái phao
+-giàn khoan nổi, bể chứa mái nổi
+-phao

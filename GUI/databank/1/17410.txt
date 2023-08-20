@@ -1,3 +1,14 @@
-editor
-	@editor /'editə/\n*  danh từ\n- người thu thập và xuất bản\n- chủ bút (báo, tập san...)\n- người phụ trách một mục riêng (trong một tờ báo...)\n@Chuyên ngành kỹ thuật\n-bộ soạn thảo\n-người biên tập\n-người soạn\n@Lĩnh vực: xây dựng\n-biên tập viên\n@Lĩnh vực: toán & tin\n-trình soạn thảo
-
+editor	
+@editor /'editə/
+*  danh từ
+- người thu thập và xuất bản
+- chủ bút (báo, tập san...)
+- người phụ trách một mục riêng (trong một tờ báo...)
+@Chuyên ngành kỹ thuật
+-bộ soạn thảo
+-người biên tập
+-người soạn
+@Lĩnh vực: xây dựng
+-biên tập viên
+@Lĩnh vực: toán & tin
+-trình soạn thảo

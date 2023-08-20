@@ -1,3 +1,8 @@
-aromatization
-	@aromatization\n- xem aromatize\n@Chuyên ngành kinh tế\n-sự thơm hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự làm thơm\n-thơm hóa
-
+aromatization	@aromatization
+- xem aromatize
+@Chuyên ngành kinh tế
+-sự thơm hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự làm thơm
+-thơm hóa

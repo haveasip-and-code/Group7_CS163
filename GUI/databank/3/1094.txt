@@ -1,3 +1,14 @@
-affluent
-	@affluent /'æfluənt/\n*  tính từ\n- nhiều, dồi dào, phong phú\n- giàu có\n*  danh từ\n- sông nhánh\n@Chuyên ngành kỹ thuật\n-hợp lưu\n-phụ lưu\n-sông nhánh\n@Lĩnh vực: cơ khí & công trình\n-hệ thống sông nhánh\n@Lĩnh vực: xây dựng\n-sự nhập dòng
-
+affluent	@affluent /'æfluənt/
+*  tính từ
+- nhiều, dồi dào, phong phú
+- giàu có
+*  danh từ
+- sông nhánh
+@Chuyên ngành kỹ thuật
+-hợp lưu
+-phụ lưu
+-sông nhánh
+@Lĩnh vực: cơ khí & công trình
+-hệ thống sông nhánh
+@Lĩnh vực: xây dựng
+-sự nhập dòng

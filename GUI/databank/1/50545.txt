@@ -1,3 +1,9 @@
-shroff
-	@shroff /ʃrɔf/\n*  danh từ\n- chủ ngân hàng, người đổi tiền (ở phương Đông)\n- chuyên viên phát hiện tiền (vàng, bạc) giả (ở phương Đông)\n*  ngoại động từ\n- xem xét (để phát hiện tiền giả)\n@Chuyên ngành kinh tế\n-người đổi tiền (ở Ấn Độ)\n-người giám định tiền tệ
-
+shroff	@shroff /ʃrɔf/
+*  danh từ
+- chủ ngân hàng, người đổi tiền (ở phương Đông)
+- chuyên viên phát hiện tiền (vàng, bạc) giả (ở phương Đông)
+*  ngoại động từ
+- xem xét (để phát hiện tiền giả)
+@Chuyên ngành kinh tế
+-người đổi tiền (ở Ấn Độ)
+-người giám định tiền tệ

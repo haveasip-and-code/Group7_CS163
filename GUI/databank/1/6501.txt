@@ -1,3 +1,41 @@
-bowl
-	@bowl /boul/\n*  danh từ\n- cái bát\n- bát (đầy)\n- nõ (điếu, tẩu thuốc lá); long (thìa, môi)\n- (the bowl) sự ăn uống, sự chè chén\n=to be found of the bowl+ thích chè chén (với anh em bạn)\n*  danh từ\n- quả bóng gỗ\n- (số nhiều) trò chơi bóng gỗ\n=to play at bowls+ chơi ném bóng gỗ\n- (số nhiều) (tiếng địa phương) trò chơi kí\n*  nội động từ\n- chơi ném bóng gỗ\n*  ngoại động từ\n- lăn (quả bóng)\n!to bowl along\n- bon nhanh (xe)\n!to bowl over\n- đánh đổ, đánh ngã\n- (nghĩa bóng) làm bối rối; làm sửng sốt, làm kinh ngạc\n@Chuyên ngành kinh tế\n-cái bát\n-cái thùng\n-cái trống\n@Chuyên ngành kỹ thuật\n-bát\n-cái bát\n-con lăn\n-gáo\n-gầu\n-hố trũng\n-lưỡi gạt (máy ủi)\n-phễu\n-sân vận động\n-trục lăn\n-vòm\n@Lĩnh vực: xây dựng\n-chén (xăng, dầu)\n-copôn\n@Lĩnh vực: hóa học & vật liệu\n-trũng dạng lòng chảo
-
+bowl	
+@bowl /boul/
+*  danh từ
+- cái bát
+- bát (đầy)
+- nõ (điếu, tẩu thuốc lá); long (thìa, môi)
+- (the bowl) sự ăn uống, sự chè chén=to be found of the bowl
++ thích chè chén (với anh em bạn)
+*  danh từ
+- quả bóng gỗ
+- (số nhiều) trò chơi bóng gỗ=to play at bowls
++ chơi ném bóng gỗ
+- (số nhiều) (tiếng địa phương) trò chơi kí
+*  nội động từ
+- chơi ném bóng gỗ
+*  ngoại động từ
+- lăn (quả bóng)!to bowl along
+- bon nhanh (xe)!to bowl over
+- đánh đổ, đánh ngã
+- (nghĩa bóng) làm bối rối; làm sửng sốt, làm kinh ngạc
+@Chuyên ngành kinh tế
+-cái bát
+-cái thùng
+-cái trống
+@Chuyên ngành kỹ thuật
+-bát
+-cái bát
+-con lăn
+-gáo
+-gầu
+-hố trũng
+-lưỡi gạt (máy ủi)
+-phễu
+-sân vận động
+-trục lăn
+-vòm
+@Lĩnh vực: xây dựng
+-chén (xăng, dầu)
+-copôn
+@Lĩnh vực: hóa học & vật liệu
+-trũng dạng lòng chảo

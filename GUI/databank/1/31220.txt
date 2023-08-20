@@ -1,3 +1,8 @@
-labelled
-	@Chuyên ngành kỹ thuật\n-được ghi nhãn\n@Lĩnh vực: cơ khí & công trình\n-được kí hiệu\n@Chuyên ngành kỹ thuật\n-được ghi nhãn\n@Lĩnh vực: cơ khí & công trình\n-được kí hiệu
-
+labelled	@Chuyên ngành kỹ thuật
+-được ghi nhãn
+@Lĩnh vực: cơ khí & công trình
+-được kí hiệu
+@Chuyên ngành kỹ thuật
+-được ghi nhãn
+@Lĩnh vực: cơ khí & công trình
+-được kí hiệu

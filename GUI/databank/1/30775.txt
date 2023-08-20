@@ -1,3 +1,4 @@
-kebab
-	@kebab\n* danh từ\n- thịt nướng
-
+kebab	
+@kebab
+* danh từ
+- thịt nướng

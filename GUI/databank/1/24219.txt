@@ -1,3 +1,6 @@
-greediness
-	@greediness /gri:dinis/\n*  danh từ\n- thói tham ăn, thói háu ăn\n- thói tham lam\n- sự thèm khát, sự thiết tha
-
+greediness	
+@greediness /gri:dinis/
+*  danh từ
+- thói tham ăn, thói háu ăn
+- thói tham lam
+- sự thèm khát, sự thiết tha

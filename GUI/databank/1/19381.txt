@@ -1,3 +1,22 @@
-evaporate
-	@evaporate /i'væpəreit/\n*  ngoại động từ\n- làm bay hơi\n- làm khô (hoa quả, sữa)\n*  nội động từ\n- bay hơi\n- (thông tục) tan biến, biến mất; chết\n@Chuyên ngành kinh tế\n-bay hơi\n-làm bay hơi\n-làm khô\n@Chuyên ngành kỹ thuật\n-bay hơi\n-làm bay hơi\n@Lĩnh vực: vật lý\n-làm bốc hơi\n@Chuyên ngành kỹ thuật\n-bay hơi\n-làm bay hơi\n@Lĩnh vực: vật lý\n-làm bốc hơi
-
+evaporate	
+@evaporate /i'væpəreit/
+*  ngoại động từ
+- làm bay hơi
+- làm khô (hoa quả, sữa)
+*  nội động từ
+- bay hơi
+- (thông tục) tan biến, biến mất; chết
+@Chuyên ngành kinh tế
+-bay hơi
+-làm bay hơi
+-làm khô
+@Chuyên ngành kỹ thuật
+-bay hơi
+-làm bay hơi
+@Lĩnh vực: vật lý
+-làm bốc hơi
+@Chuyên ngành kỹ thuật
+-bay hơi
+-làm bay hơi
+@Lĩnh vực: vật lý
+-làm bốc hơi

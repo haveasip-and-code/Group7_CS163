@@ -1,3 +1,20 @@
-germ
-	@germ /dʤə:m/\n*  danh từ\n- mộng, mầm, thai, phôi\n=in germ+ ở tình trạng phôi thai ((nghĩa đen) & (nghĩa bóng))\n- mầm bệnh, vi trùng\n- (nghĩa bóng) mầm mống\n!germ warfare\n- chiến tranh vi trùng\n*  nội động từ\n- nảy ra, nảy sinh ra\n@Chuyên ngành kinh tế\n-mầm\n-mầm bệnh\n-phôi\n-vi trùng\n@Chuyên ngành kỹ thuật\n-mầm\n-phôi\n@Lĩnh vực: toán & tin\n-phối
-
+germ	
+@germ /dʤə:m/
+*  danh từ
+- mộng, mầm, thai, phôi=in germ
++ ở tình trạng phôi thai ((nghĩa đen) & (nghĩa bóng))
+- mầm bệnh, vi trùng
+- (nghĩa bóng) mầm mống!germ warfare
+- chiến tranh vi trùng
+*  nội động từ
+- nảy ra, nảy sinh ra
+@Chuyên ngành kinh tế
+-mầm
+-mầm bệnh
+-phôi
+-vi trùng
+@Chuyên ngành kỹ thuật
+-mầm
+-phôi
+@Lĩnh vực: toán & tin
+-phối

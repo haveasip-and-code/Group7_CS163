@@ -1,3 +1,4 @@
-bough
-	@bough /bau/\n*  danh từ\n- cành cây
-
+bough	
+@bough /bau/
+*  danh từ
+- cành cây

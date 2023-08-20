@@ -1,3 +1,2 @@
-actable
-	@actable\n- xem act
-
+actable	@actable
+- xem act

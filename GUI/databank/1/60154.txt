@@ -1,3 +1,9 @@
-unplug
-	@unplug /'ʌn'plʌg/\n*  ngoại động từ\n- tháo nút ra\n@Chuyên ngành kỹ thuật\n-rút phích cắm\n@Lĩnh vực: xây dựng\n-rút chốt điện ra\n@Lĩnh vực: toán & tin\n-tháo đầu cắm
-
+unplug	@unplug /'ʌn'plʌg/
+*  ngoại động từ
+- tháo nút ra
+@Chuyên ngành kỹ thuật
+-rút phích cắm
+@Lĩnh vực: xây dựng
+-rút chốt điện ra
+@Lĩnh vực: toán & tin
+-tháo đầu cắm

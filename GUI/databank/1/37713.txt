@@ -1,3 +1,5 @@
-oiling
-	@Chuyên ngành kỹ thuật\n-sự bôi trơn\n-sự tra dầu\n@Lĩnh vực: dệt may\n-sự tẩm dầu
-
+oiling	@Chuyên ngành kỹ thuật
+-sự bôi trơn
+-sự tra dầu
+@Lĩnh vực: dệt may
+-sự tẩm dầu

@@ -1,3 +1,6 @@
-classmate
-	@classmate\n* danh từ\n- bạn cùng  lớp\n@Chuyên ngành kỹ thuật\n-đồng môn
-
+classmate	
+@classmate
+* danh từ
+- bạn cùng  lớp
+@Chuyên ngành kỹ thuật
+-đồng môn

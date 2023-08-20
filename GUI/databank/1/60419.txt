@@ -1,3 +1,7 @@
-unsearchable
-	@unsearchable / n's :t  bl/\n*  tính từ\n- không thể tìm được, không thể dò được; không thể hiểu thấu được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-không thể tìm kiếm\n-không thể tìm thấy
-
+unsearchable	@unsearchable / n's :t  bl/
+*  tính từ
+- không thể tìm được, không thể dò được; không thể hiểu thấu được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-không thể tìm kiếm
+-không thể tìm thấy

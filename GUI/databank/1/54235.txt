@@ -1,3 +1,2 @@
-substitute
-	@substitute\n- thế
-
+substitute	@substitute
+- thế

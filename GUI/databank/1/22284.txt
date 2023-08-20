@@ -1,3 +1,14 @@
-freeway
-	@freeway\n- như motorway\n@Chuyên ngành kinh tế\n-đường cao ốc\n-đường cao tốc\n@Chuyên ngành kỹ thuật\n-đường cao tốc\n-đường trục\n@Lĩnh vực: xây dựng\n-đường xa lộ\n-thông lộ\n@Lĩnh vực: ô tô\n-sa lộ
-
+freeway	
+@freeway
+- như motorway
+@Chuyên ngành kinh tế
+-đường cao ốc
+-đường cao tốc
+@Chuyên ngành kỹ thuật
+-đường cao tốc
+-đường trục
+@Lĩnh vực: xây dựng
+-đường xa lộ
+-thông lộ
+@Lĩnh vực: ô tô
+-sa lộ

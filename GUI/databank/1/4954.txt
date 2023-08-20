@@ -1,3 +1,23 @@
-beach
-	@beach /bi:tʃ/\n*  danh từ\n- sỏi cát (ở bãi biển)\n- bãi biển\n*  ngoại động từ\n- cho (tàu thuyền) lên cạn\n@Chuyên ngành kỹ thuật\n-bãi biển\n-bãi bồi\n-bãi cát\n-bùn khoáng\n-cho lên bờ\n-cho lên cạn\n-mắc cạn\n-mạch bùn\n@Lĩnh vực: cơ khí & công trình\n-bãi (biển)\n@Lĩnh vực: môi trường\n-bãi biển bùn khoáng\n@Lĩnh vực: xây dựng\n-bãi bồi bùn khoáng\n-bãi cát bùn khoáng
-
+beach	
+@beach /bi:tʃ/
+*  danh từ
+- sỏi cát (ở bãi biển)
+- bãi biển
+*  ngoại động từ
+- cho (tàu thuyền) lên cạn
+@Chuyên ngành kỹ thuật
+-bãi biển
+-bãi bồi
+-bãi cát
+-bùn khoáng
+-cho lên bờ
+-cho lên cạn
+-mắc cạn
+-mạch bùn
+@Lĩnh vực: cơ khí & công trình
+-bãi (biển)
+@Lĩnh vực: môi trường
+-bãi biển bùn khoáng
+@Lĩnh vực: xây dựng
+-bãi bồi bùn khoáng
+-bãi cát bùn khoáng

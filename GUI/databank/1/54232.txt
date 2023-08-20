@@ -1,3 +1,4 @@
-substate
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-phân trạng thái\n-trạng thái con
-
+substate	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-phân trạng thái
+-trạng thái con

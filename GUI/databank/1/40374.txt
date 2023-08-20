@@ -1,3 +1,40 @@
-penetration
-	@penetration /,peni'treiʃn/\n*  danh từ\n- sự thâm nhập, sự lọt vào, sự thấm qua\n- sự xuyên qua, sự xuyên vào\n- (quân sự) tầm xuyên qua (của đạn)\n- sự sắc sảo, sự thấu suốt, sự sâu sắc\n@Chuyên ngành kinh tế\n-sự đi vào\n-sự thấm\n-sự xâm nhập\n-sự xuyên sâu\n-thâm nhập (thị trường)\n@Chuyên ngành kỹ thuật\n-lún sâu\n-sự hạ cọc\n-sự thâm nhập\n-sự thấm qua\n-sự thấm vào\n-sự xâm nhập\n-sự xuyên\n-sự xuyên qua\n-thấm\n-thấm qua\n-xuyên qua\n@Lĩnh vực: cơ khí & công trình\n-chiều sâu phá hoại\n-chiều sâu xâm nhập\n@Lĩnh vực: xây dựng\n-độ hàn âu\n-độ thấm sâu\n-độ xuyên\n-độ xuyên qua\n-sự hàn sâu\n-sự hàn xuyên\n-thâm nhập\n-xuyên sâu\n@Lĩnh vực: hóa học & vật liệu\n-sự lọt qua\n@Lĩnh vực: y học\n-sự xuyên, thâm nhập, thấu
-
+penetration	@penetration /,peni'treiʃn/
+*  danh từ
+- sự thâm nhập, sự lọt vào, sự thấm qua
+- sự xuyên qua, sự xuyên vào
+- (quân sự) tầm xuyên qua (của đạn)
+- sự sắc sảo, sự thấu suốt, sự sâu sắc
+@Chuyên ngành kinh tế
+-sự đi vào
+-sự thấm
+-sự xâm nhập
+-sự xuyên sâu
+-thâm nhập (thị trường)
+@Chuyên ngành kỹ thuật
+-lún sâu
+-sự hạ cọc
+-sự thâm nhập
+-sự thấm qua
+-sự thấm vào
+-sự xâm nhập
+-sự xuyên
+-sự xuyên qua
+-thấm
+-thấm qua
+-xuyên qua
+@Lĩnh vực: cơ khí & công trình
+-chiều sâu phá hoại
+-chiều sâu xâm nhập
+@Lĩnh vực: xây dựng
+-độ hàn âu
+-độ thấm sâu
+-độ xuyên
+-độ xuyên qua
+-sự hàn sâu
+-sự hàn xuyên
+-thâm nhập
+-xuyên sâu
+@Lĩnh vực: hóa học & vật liệu
+-sự lọt qua
+@Lĩnh vực: y học
+-sự xuyên, thâm nhập, thấu

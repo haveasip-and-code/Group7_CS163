@@ -1,3 +1,36 @@
-ghost
-	@ghost /goust/\n*  danh từ\n- ma\n=to raise ghost+ làm cho ma hiện lên\n=to lay ghost+ làm cho ma biến đi\n- gầy như ma\n- bóng mờ, nét thoáng một chút\n=to put on a ghost of a smile+ thoáng mỉm cười\n=not the ghost of a doubt+ không một chút nghi ngờ\n=not the ghost of a chance+ không một chút hy vọng gì cả\n- người giúp việc kín đáo cho một nhà văn; người viết thuê cho một nhà văn\n- (từ cổ,nghĩa cổ) linh hồn, hồn\n=to give up the ghost+ hồn lìa khỏi xác; chết\n!the ghost walks\n- (sân khấu),  (từ lóng) đã có lương; sắp có lương\n*  động từ\n- hiện ra, ám ảnh, lảng vảng như một bóng ma\n- giúp việc kín đáo cho một nhà văn; viết thuê cho một nhà văn\n@Chuyên ngành kinh tế\n-bóng mờ chồng\n-hình nhiễu\n@Chuyên ngành kỹ thuật\n-dải thiên tích\n-đường mờ\n-đường sẫm\n-hình bóng\n-ma\n-tạo bản sao\n-vệt mờ\n@Lĩnh vực: vật lý\n-ảnh bóng mờ\n@Lĩnh vực: điện tử & viễn thông\n-ảo ảnh\n-bóng ma\n@Lĩnh vực: điện lạnh\n-vạch ma
-
+ghost	
+@ghost /goust/
+*  danh từ
+- ma=to raise ghost
++ làm cho ma hiện lên=to lay ghost
++ làm cho ma biến đi
+- gầy như ma
+- bóng mờ, nét thoáng một chút=to put on a ghost of a smile
++ thoáng mỉm cười=not the ghost of a doubt
++ không một chút nghi ngờ=not the ghost of a chance
++ không một chút hy vọng gì cả
+- người giúp việc kín đáo cho một nhà văn; người viết thuê cho một nhà văn
+- (từ cổ,nghĩa cổ) linh hồn, hồn=to give up the ghost
++ hồn lìa khỏi xác; chết!the ghost walks
+- (sân khấu),  (từ lóng) đã có lương; sắp có lương
+*  động từ
+- hiện ra, ám ảnh, lảng vảng như một bóng ma
+- giúp việc kín đáo cho một nhà văn; viết thuê cho một nhà văn
+@Chuyên ngành kinh tế
+-bóng mờ chồng
+-hình nhiễu
+@Chuyên ngành kỹ thuật
+-dải thiên tích
+-đường mờ
+-đường sẫm
+-hình bóng
+-ma
+-tạo bản sao
+-vệt mờ
+@Lĩnh vực: vật lý
+-ảnh bóng mờ
+@Lĩnh vực: điện tử & viễn thông
+-ảo ảnh
+-bóng ma
+@Lĩnh vực: điện lạnh
+-vạch ma

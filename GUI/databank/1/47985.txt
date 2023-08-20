@@ -1,3 +1,10 @@
-ropeway
-	@ropeway /'roupwei/\n*  danh từ\n- đường dây\n@Chuyên ngành kỹ thuật\n-dây cáp\n-đường cáp treo\n-đường dây cáp\n-đường sắt cáp treo\n@Lĩnh vực: cơ khí & công trình\n-đường (dây) cáp
-
+ropeway	@ropeway /'roupwei/
+*  danh từ
+- đường dây
+@Chuyên ngành kỹ thuật
+-dây cáp
+-đường cáp treo
+-đường dây cáp
+-đường sắt cáp treo
+@Lĩnh vực: cơ khí & công trình
+-đường (dây) cáp

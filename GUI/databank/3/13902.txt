@@ -1,3 +1,5 @@
-decor
-	@Chuyên ngành kinh tế\n-đồ đạc trang hoàng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-việc dàn cảnh
-
+decor	@Chuyên ngành kinh tế
+-đồ đạc trang hoàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-việc dàn cảnh

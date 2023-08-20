@@ -1,3 +1,3 @@
-peptone
-	@peptone /'peptoun/\n*  danh từ\n- Peptone
-
+peptone	@peptone /'peptoun/
+*  danh từ
+- Peptone

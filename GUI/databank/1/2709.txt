@@ -1,3 +1,7 @@
-antithrombin
-	@antithrombin\n* danh từ\n- chất chống đông máu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-kháng trombin
-
+antithrombin	
+@antithrombin
+* danh từ
+- chất chống đông máu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-kháng trombin

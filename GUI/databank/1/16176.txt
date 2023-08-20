@@ -1,3 +1,6 @@
-distorted
-	@Chuyên ngành kỹ thuật\n-bị biến dạng\n-bị xoắn\n@Lĩnh vực: hóa học & vật liệu\n-bị méo
-
+distorted	
+@Chuyên ngành kỹ thuật
+-bị biến dạng
+-bị xoắn
+@Lĩnh vực: hóa học & vật liệu
+-bị méo

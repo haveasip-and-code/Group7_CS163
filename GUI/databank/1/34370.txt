@@ -1,3 +1,10 @@
-mercantilist
-	@mercantilist\n* danh từ\n- người hám lợi\n* danh từgười theo thuyết trọng thương\n* tính từ\n- hám lợi\n- theo thuyết trọng thương\n@Chuyên ngành kinh tế\n-chủ nghĩa trọng thương\n-người theo chủ nghĩa trọng thương
-
+mercantilist	@mercantilist
+* danh từ
+- người hám lợi
+* danh từgười theo thuyết trọng thương
+* tính từ
+- hám lợi
+- theo thuyết trọng thương
+@Chuyên ngành kinh tế
+-chủ nghĩa trọng thương
+-người theo chủ nghĩa trọng thương

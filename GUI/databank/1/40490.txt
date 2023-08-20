@@ -1,3 +1,5 @@
-peptidase
-	@Chuyên ngành kinh tế\n-peptiđaza\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-trong nhóm các enzyme tiêu hóa các protein trong dạ dày và ruột thành các amino axit
-
+peptidase	@Chuyên ngành kinh tế
+-peptiđaza
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-trong nhóm các enzyme tiêu hóa các protein trong dạ dày và ruột thành các amino axit

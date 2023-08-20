@@ -1,3 +1,7 @@
-tactic
-	@tactic\n* danh từ\n- cách; chước; thủ đoạn, mưu kế, mẹo (phương tiện để thực hiện cái gì)\n@Chuyên ngành kinh tế\n-chiến thuật\n@Chuyên ngành kỹ thuật\n-chiến thuật
-
+tactic	@tactic
+* danh từ
+- cách; chước; thủ đoạn, mưu kế, mẹo (phương tiện để thực hiện cái gì)
+@Chuyên ngành kinh tế
+-chiến thuật
+@Chuyên ngành kỹ thuật
+-chiến thuật

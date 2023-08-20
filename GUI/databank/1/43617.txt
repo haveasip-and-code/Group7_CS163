@@ -1,3 +1,27 @@
-primer
-	@primer /'praimə/\n*  danh từ\n- sách vở lòng\n- ngòi nổ, kíp nổ\n- (ngành in) cỡ chữ\n=long primer+ cỡ 10\n=great primer+ cỡ 18\n@Chuyên ngành kỹ thuật\n-bộ phận mồi\n-bơm mồi khởi động (tàu vũ trụ)\n-dụng cụ phun xăng\n-kíp nổ\n-lớp sơn lót\n-nền\n-ngòi nổ\n-mồi nổ\n-sách hướng dẫn\n-sơn lót\n-van mở nhiên liệu\n@Lĩnh vực: điện tử & viễn thông\n-điện tích sơ cấp (máy đánh lửa)\n@Lĩnh vực: xây dựng\n-mình hình trụ\n-mồi lửa cho đạn\n-mồi lửa mìn\n@Lĩnh vực: toán & tin\n-sách nhập môn
-
+primer	@primer /'praimə/
+*  danh từ
+- sách vở lòng
+- ngòi nổ, kíp nổ
+- (ngành in) cỡ chữ
+=long primer+ cỡ 10
+=great primer+ cỡ 18
+@Chuyên ngành kỹ thuật
+-bộ phận mồi
+-bơm mồi khởi động (tàu vũ trụ)
+-dụng cụ phun xăng
+-kíp nổ
+-lớp sơn lót
+-nền
+-ngòi nổ
+-mồi nổ
+-sách hướng dẫn
+-sơn lót
+-van mở nhiên liệu
+@Lĩnh vực: điện tử & viễn thông
+-điện tích sơ cấp (máy đánh lửa)
+@Lĩnh vực: xây dựng
+-mình hình trụ
+-mồi lửa cho đạn
+-mồi lửa mìn
+@Lĩnh vực: toán & tin
+-sách nhập môn

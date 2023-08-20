@@ -1,3 +1,19 @@
-erase
-	@erase /i'reiz/\n*  ngoại động từ\n- xoá, xoá bỏ\n@Chuyên ngành kinh tế\n-xóa\n-xóa bỏ\n@Chuyên ngành kỹ thuật\n-đưa về không\n-loại bỏ\n-phá hủy\n-xóa\n-xóa bỏ\n@Chuyên ngành kỹ thuật\n-đưa về không\n-loại bỏ\n-phá hủy\n-xóa\n-xóa bỏ
-
+erase	
+@erase /i'reiz/
+*  ngoại động từ
+- xoá, xoá bỏ
+@Chuyên ngành kinh tế
+-xóa
+-xóa bỏ
+@Chuyên ngành kỹ thuật
+-đưa về không
+-loại bỏ
+-phá hủy
+-xóa
+-xóa bỏ
+@Chuyên ngành kỹ thuật
+-đưa về không
+-loại bỏ
+-phá hủy
+-xóa
+-xóa bỏ

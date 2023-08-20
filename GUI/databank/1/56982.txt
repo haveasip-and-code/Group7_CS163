@@ -1,3 +1,7 @@
-toolmaker
-	@Chuyên ngành kinh tế\n-người làm dụng cụ\n-thợ lắp sửa dụng cụ\n-thợ sửa lắp dụng cụ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thợ dụng cụ
-
+toolmaker	@Chuyên ngành kinh tế
+-người làm dụng cụ
+-thợ lắp sửa dụng cụ
+-thợ sửa lắp dụng cụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-thợ dụng cụ

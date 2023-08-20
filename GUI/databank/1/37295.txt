@@ -1,3 +1,13 @@
-oat
-	@oat /out/\n*  danh từ\n- (thực vật học) yến mạch\n- (thơ ca) sáo bằng cọng yến mạch\n!to sow one's wild oats\n- chơi bời tác tráng (lúc còn trẻ)\n!to feel one's oat\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ra vẻ ta đây quan trọng, vênh váo\n- phởn, tớn lên\n@Chuyên ngành kinh tế\n-yến mạch\n@Chuyên ngành kỹ thuật\n-lúa mạch
-
+oat	@oat /out/
+*  danh từ
+- (thực vật học) yến mạch
+- (thơ ca) sáo bằng cọng yến mạch
+!to sow one's wild oats
+- chơi bời tác tráng (lúc còn trẻ)
+!to feel one's oat
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ra vẻ ta đây quan trọng, vênh váo
+- phởn, tớn lên
+@Chuyên ngành kinh tế
+-yến mạch
+@Chuyên ngành kỹ thuật
+-lúa mạch

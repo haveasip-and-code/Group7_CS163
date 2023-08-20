@@ -1,3 +1,2 @@
-cardinalship
-	@cardinalship\n- xem cardinal
-
+cardinalship	@cardinalship
+- xem cardinal

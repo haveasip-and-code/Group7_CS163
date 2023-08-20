@@ -1,3 +1,10 @@
-triaxial
-	@triaxial\n* tính từ\n- ba trục\n@Chuyên ngành kỹ thuật\n-không gian\n@Lĩnh vực: điện lạnh\n-ba trục\n@Lĩnh vực: xây dựng\n-có ba hướng\n-có ba trục
-
+triaxial	@triaxial
+* tính từ
+- ba trục
+@Chuyên ngành kỹ thuật
+-không gian
+@Lĩnh vực: điện lạnh
+-ba trục
+@Lĩnh vực: xây dựng
+-có ba hướng
+-có ba trục

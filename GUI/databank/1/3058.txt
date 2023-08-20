@@ -1,3 +1,28 @@
-approximation
-	@approximation /,əprɔksi'meiʃn/\n*  danh từ\n- sự gần\n- sự xấp xỉ, sự gần đúng\n- cái xấp xỉ, con số xấp xỉ; ý nghĩa gần đúng\n- (toán học) phép xấp xỉ\n=approximation of root+ phép tính xấp xỉ một nghiệm\n@Chuyên ngành kinh tế\n-độ chừng\n-sự phỏng chừng\n-ước chừng\n@Chuyên ngành kỹ thuật\n-sự gần đúng\n-sự xấp xỉ\n-tiệm cận\n-xấp xỉ\n@Lĩnh vực: xây dựng\n-giá trị gần đúng\n-phép (tính) gần đúng\n@Lĩnh vực: điện lạnh\n-phép tính gần đúng\n@Lĩnh vực: toán & tin\n-phép xấp xỉ\n-sự tiệm cận\n-sự tính gần đúng\n@Lĩnh vực: điện tử & viễn thông\n-tính xấp xỉ
-
+approximation	
+@approximation /,əprɔksi'meiʃn/
+*  danh từ
+- sự gần
+- sự xấp xỉ, sự gần đúng
+- cái xấp xỉ, con số xấp xỉ; ý nghĩa gần đúng
+- (toán học) phép xấp xỉ=approximation of root
++ phép tính xấp xỉ một nghiệm
+@Chuyên ngành kinh tế
+-độ chừng
+-sự phỏng chừng
+-ước chừng
+@Chuyên ngành kỹ thuật
+-sự gần đúng
+-sự xấp xỉ
+-tiệm cận
+-xấp xỉ
+@Lĩnh vực: xây dựng
+-giá trị gần đúng
+-phép (tính) gần đúng
+@Lĩnh vực: điện lạnh
+-phép tính gần đúng
+@Lĩnh vực: toán & tin
+-phép xấp xỉ
+-sự tiệm cận
+-sự tính gần đúng
+@Lĩnh vực: điện tử & viễn thông
+-tính xấp xỉ

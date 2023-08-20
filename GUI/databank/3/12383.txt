@@ -1,3 +1,2 @@
-cowy
-	@cowy\n- xem cow
-
+cowy	@cowy
+- xem cow

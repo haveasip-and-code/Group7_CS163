@@ -1,3 +1,5 @@
-stochastically
-	@stochastically\n- một cách ngẫu nhiên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-một cách ngẫu nhiên
-
+stochastically	@stochastically
+- một cách ngẫu nhiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-một cách ngẫu nhiên

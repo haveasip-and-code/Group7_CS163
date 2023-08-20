@@ -1,3 +1,2 @@
-chromatically
-	@chromatically\n- xem chromatic
-
+chromatically	@chromatically
+- xem chromatic

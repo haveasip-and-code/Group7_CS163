@@ -1,3 +1,18 @@
-caulk
-	@caulk /kɔ:k/\n*  ngoại động từ\n- xảm (thuyền, tàu)\n- bít, trét, hàn (những chỗ hở...)\n@Chuyên ngành kỹ thuật\n-bít\n-bít kín\n-chống thấm\n-hàn\n-lèn\n-xảm\n@Lĩnh vực: xây dựng\n-hàn (chỗ hở)\n-xảm (thuyền)\n@Lĩnh vực: cơ khí & công trình\n-lăn nhám\n@Lĩnh vực: giao thông & vận tải\n-xảm (trong đóng tàu)
-
+caulk	@caulk /kɔ:k/
+*  ngoại động từ
+- xảm (thuyền, tàu)
+- bít, trét, hàn (những chỗ hở...)
+@Chuyên ngành kỹ thuật
+-bít
+-bít kín
+-chống thấm
+-hàn
+-lèn
+-xảm
+@Lĩnh vực: xây dựng
+-hàn (chỗ hở)
+-xảm (thuyền)
+@Lĩnh vực: cơ khí & công trình
+-lăn nhám
+@Lĩnh vực: giao thông & vận tải
+-xảm (trong đóng tàu)

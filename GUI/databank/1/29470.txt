@@ -1,3 +1,6 @@
-interrogating
-	@Chuyên ngành kỹ thuật\n-sự hỏi\n-truy vấn\n@Lĩnh vực: toán & tin\n-quá trình hỏi
-
+interrogating	
+@Chuyên ngành kỹ thuật
+-sự hỏi
+-truy vấn
+@Lĩnh vực: toán & tin
+-quá trình hỏi

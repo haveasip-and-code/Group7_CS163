@@ -1,3 +1,10 @@
-waveform
-	@waveform\n- (điều khiển học) dạng sóng (của tín hiệu )\n@Chuyên ngành kỹ thuật\n-dạng sóng\n-hình dạng sóng\n-hình sóng\n@Lĩnh vực: xây dựng\n-có dạng sóng\n@Lĩnh vực: toán & tin\n-dạng sóng (của tín hiệu)
-
+waveform	@waveform
+- (điều khiển học) dạng sóng (của tín hiệu )
+@Chuyên ngành kỹ thuật
+-dạng sóng
+-hình dạng sóng
+-hình sóng
+@Lĩnh vực: xây dựng
+-có dạng sóng
+@Lĩnh vực: toán & tin
+-dạng sóng (của tín hiệu)

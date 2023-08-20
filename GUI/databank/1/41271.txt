@@ -1,3 +1,7 @@
-photoemission
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-hiện tượng (hiệu ứng) phát xạ quang điện\n@Lĩnh vực: điện lạnh\n-hiện tượng quang điện ngoài\n-hiện tượng quang phát xạ\n-sự quang phát xạ
-
+photoemission	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-hiện tượng (hiệu ứng) phát xạ quang điện
+@Lĩnh vực: điện lạnh
+-hiện tượng quang điện ngoài
+-hiện tượng quang phát xạ
+-sự quang phát xạ

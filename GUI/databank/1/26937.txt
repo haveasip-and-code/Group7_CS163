@@ -1,3 +1,6 @@
-identity
-	@identity\n- đồng nhất thức\n- parallelogram i. đồng nhất thức bình hành\n- polynomial i. đồng nhất thức đa thức\n- trigonometrical i. đồng nhất thức lượng giác
-
+identity	
+@identity
+- đồng nhất thức
+- parallelogram i. đồng nhất thức bình hành
+- polynomial i. đồng nhất thức đa thức
+- trigonometrical i. đồng nhất thức lượng giác

@@ -1,3 +1,5 @@
-interlocked
-	@Chuyên ngành kỹ thuật\n-được ăn khớp\n-được khớp nhau\n-được vào khớp
-
+interlocked	
+@Chuyên ngành kỹ thuật
+-được ăn khớp
+-được khớp nhau
+-được vào khớp

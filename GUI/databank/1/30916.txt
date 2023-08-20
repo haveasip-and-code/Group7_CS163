@@ -1,3 +1,2 @@
-kidder
-	@kidder\n- xem kid
-
+kidder	@kidder
+- xem kid

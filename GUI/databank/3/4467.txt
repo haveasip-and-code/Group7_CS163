@@ -1,3 +1,2 @@
-bagged
-	@Chuyên ngành kinh tế\n-được đóng gói
-
+bagged	@Chuyên ngành kinh tế
+-được đóng gói

@@ -1,3 +1,39 @@
-general
-	@general /'dʤenərəl/\n*  tính từ\n- chung, chung chung\n=a matter of general interest+ một vấn đề có quan hệ đến lợi ích chung; một vấn đề được mọi người quan tâm\n=to work for general welfare+ làm việc vì phúc lợi chung\n=general opinion+ ý kiến chung\n=general knowledge+ kiến thức chung, kiến thức phổ thông\n- tổng\n=a general election+ cuộc tổng tuyển cử\n=a general strike+ cuộc tổng bãi công\n=inspector general+ tổng thanh tra\n!General Headquaters\n- (quân sự) tổng hành dinh\n!General Staff\n- (quân sự) bộ tổng tham mưu\n- thường\n=a word that is in general use+ một từ thường dùng\n=as a general rule+ theo lệ thường\n=in general+ thông thường; đại khái, đại thể\n!general dealer\n- người bán bách hoá\n!general hospital\n- bệnh viện đa khoa\n!general practitioner\n- bác sĩ đa khoa\n!general reader\n- người đọc đủ các loại sách\n!general servant\n- người hầu đủ mọi việc\n*  danh từ\n- cái chung, cái đại thể, cái tổng quát, toàn thể\n=to argue from the general to the particular+ suy tư cái chung ra cái riêng\n=the general of mankind+ toàn thể loài người\n- (quân sự) tướng, nhà chiến lược xuất sắc; nhà chiến thuật xuất sắc\n- (the general) (từ cổ,nghĩa cổ) nhân dân quần chúng\n- (tôn giáo) trưởng tu viện\n- người hầu đủ mọi việc ((cũng) general vervant)\n@Chuyên ngành kỹ thuật\n-đại cương\n-đầy đủ\n-nói chung\n-tổng hợp\n-tổng thể\n@Lĩnh vực: xây dựng\n-khái quát
-
+general	
+@general /'dʤenərəl/
+*  tính từ
+- chung, chung chung=a matter of general interest
++ một vấn đề có quan hệ đến lợi ích chung; một vấn đề được mọi người quan tâm=to work for general welfare
++ làm việc vì phúc lợi chung=general opinion
++ ý kiến chung=general knowledge
++ kiến thức chung, kiến thức phổ thông
+- tổng=a general election
++ cuộc tổng tuyển cử=a general strike
++ cuộc tổng bãi công=inspector general
++ tổng thanh tra!General Headquaters
+- (quân sự) tổng hành dinh!General Staff
+- (quân sự) bộ tổng tham mưu
+- thường=a word that is in general use
++ một từ thường dùng=as a general rule
++ theo lệ thường=in general
++ thông thường; đại khái, đại thể!general dealer
+- người bán bách hoá!general hospital
+- bệnh viện đa khoa!general practitioner
+- bác sĩ đa khoa!general reader
+- người đọc đủ các loại sách!general servant
+- người hầu đủ mọi việc
+*  danh từ
+- cái chung, cái đại thể, cái tổng quát, toàn thể=to argue from the general to the particular
++ suy tư cái chung ra cái riêng=the general of mankind
++ toàn thể loài người
+- (quân sự) tướng, nhà chiến lược xuất sắc; nhà chiến thuật xuất sắc
+- (the general) (từ cổ,nghĩa cổ) nhân dân quần chúng
+- (tôn giáo) trưởng tu viện
+- người hầu đủ mọi việc ((cũng) general vervant)
+@Chuyên ngành kỹ thuật
+-đại cương
+-đầy đủ
+-nói chung
+-tổng hợp
+-tổng thể
+@Lĩnh vực: xây dựng
+-khái quát

@@ -1,3 +1,21 @@
-heterogeneous
-	@heterogeneous /,hetəroudʤi'njəs/\n*  tính từ\n- hỗn tạp, khác thể, không đồng nhất\n@Chuyên ngành kỹ thuật\n-dị tính\n-hỗn tạp\n-không đồng nhất\n-không thuần nhất\n-phức tạp\n@Lĩnh vực: y học\n-dị thể\n@Lĩnh vực: toán & tin\n-không đơn loại\n@Lĩnh vực: điện lạnh\n-không đồng chất\n-không đồng tính\n-không thuần khiết\n@Lĩnh vực: hóa học & vật liệu\n-không đồng nhât\n-tính dị thể
-
+heterogeneous	
+@heterogeneous /,hetəroudʤi'njəs/
+*  tính từ
+- hỗn tạp, khác thể, không đồng nhất
+@Chuyên ngành kỹ thuật
+-dị tính
+-hỗn tạp
+-không đồng nhất
+-không thuần nhất
+-phức tạp
+@Lĩnh vực: y học
+-dị thể
+@Lĩnh vực: toán & tin
+-không đơn loại
+@Lĩnh vực: điện lạnh
+-không đồng chất
+-không đồng tính
+-không thuần khiết
+@Lĩnh vực: hóa học & vật liệu
+-không đồng nhât
+-tính dị thể

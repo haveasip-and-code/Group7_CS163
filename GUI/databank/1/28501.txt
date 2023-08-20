@@ -1,3 +1,12 @@
-inflect
-	@inflect /in'flekt/\n*  ngoại động từ\n- bẻ cong vào trong; làm cong\n- (âm nhạc) chuyển điệu\n- (ngôn ngữ học) biến cách\n@Chuyên ngành kỹ thuật\n-bẻ cong\n-làm vênh\n-làm vồng\n-uốn\n-uốn cong
-
+inflect	
+@inflect /in'flekt/
+*  ngoại động từ
+- bẻ cong vào trong; làm cong
+- (âm nhạc) chuyển điệu
+- (ngôn ngữ học) biến cách
+@Chuyên ngành kỹ thuật
+-bẻ cong
+-làm vênh
+-làm vồng
+-uốn
+-uốn cong

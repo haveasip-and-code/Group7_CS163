@@ -1,3 +1,8 @@
-darkroom
-	@darkroom\n* danh từ\n- buồng tối (để rửa ảnh)\n@Chuyên ngành kỹ thuật\n-buồng tối\n-phòng tối\n@Lĩnh vực: xây dựng\n-buồng làm ảnh
-
+darkroom	@darkroom
+* danh từ
+- buồng tối (để rửa ảnh)
+@Chuyên ngành kỹ thuật
+-buồng tối
+-phòng tối
+@Lĩnh vực: xây dựng
+-buồng làm ảnh

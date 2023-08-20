@@ -1,3 +1,8 @@
-mach
-	@mach\n* danh từ\n- Mác (tỉ lệ giữa tốc độ máy bay và tốc độ âm thanh)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-máy MAC\n@Chuyên ngành kỹ thuật\n-đánh dấu
-
+mach	@mach
+* danh từ
+- Mác (tỉ lệ giữa tốc độ máy bay và tốc độ âm thanh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-máy MAC
+@Chuyên ngành kỹ thuật
+-đánh dấu

@@ -1,3 +1,4 @@
-birthmark
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vết chàm
-
+birthmark	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vết chàm

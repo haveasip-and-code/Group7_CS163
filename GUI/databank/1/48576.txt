@@ -1,3 +1,26 @@
-sampling
-	@sampling\n* danh từ\n- sự lấy mẫu\n= oil sampling+sự lấy mẫu dầu hoả\n@Chuyên ngành kinh tế\n-mẫu\n-mẫu thử\n-mẫu thử miễn phí\n-sự chuẩn bị mẫu\n-sự lấy mẫu\n-trình tự lấy mẫu\n-việc lấy mẫu\n-việc lấy mẫu, trình tự lấy mẫu\n@Chuyên ngành kỹ thuật\n-lấy mẫu\n-phương pháp lấy mẫu\n-sự lấy mẫu\n-thiết bị lấy mẫu\n@Lĩnh vực: điện\n-cách lấy mẫu\n-việc lấy mẫu\n@Lĩnh vực: xây dựng\n-sự lấy mẫu đất\n@Lĩnh vực: cơ khí & công trình\n-sự lấy mẫu thử\n-sự phân tích mẫu
-
+sampling	@sampling
+* danh từ
+- sự lấy mẫu
+= oil sampling+sự lấy mẫu dầu hoả
+@Chuyên ngành kinh tế
+-mẫu
+-mẫu thử
+-mẫu thử miễn phí
+-sự chuẩn bị mẫu
+-sự lấy mẫu
+-trình tự lấy mẫu
+-việc lấy mẫu
+-việc lấy mẫu, trình tự lấy mẫu
+@Chuyên ngành kỹ thuật
+-lấy mẫu
+-phương pháp lấy mẫu
+-sự lấy mẫu
+-thiết bị lấy mẫu
+@Lĩnh vực: điện
+-cách lấy mẫu
+-việc lấy mẫu
+@Lĩnh vực: xây dựng
+-sự lấy mẫu đất
+@Lĩnh vực: cơ khí & công trình
+-sự lấy mẫu thử
+-sự phân tích mẫu

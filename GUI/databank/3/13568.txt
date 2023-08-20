@@ -1,3 +1,4 @@
-dating
-	@Chuyên ngành kinh tế\n-gia hạn cho chịu\n@Chuyên ngành kỹ thuật\n-xác định tuổi
-
+dating	@Chuyên ngành kinh tế
+-gia hạn cho chịu
+@Chuyên ngành kỹ thuật
+-xác định tuổi

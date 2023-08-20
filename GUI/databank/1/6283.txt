@@ -1,3 +1,11 @@
-booklet
-	@booklet /'buklit/\n*  danh từ\n- cuốn sách nhỏ\n@Chuyên ngành kinh tế\n-sách nhỏ quảng cáo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sách nhỏ\n@Lĩnh vực: xây dựng\n-vở
-
+booklet	
+@booklet /'buklit/
+*  danh từ
+- cuốn sách nhỏ
+@Chuyên ngành kinh tế
+-sách nhỏ quảng cáo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sách nhỏ
+@Lĩnh vực: xây dựng
+-vở

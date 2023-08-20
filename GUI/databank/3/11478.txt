@@ -1,3 +1,12 @@
-containerization
-	@containerization\n* danh từ\n- sự cho hàng vào côngtenơ\n- sự thiết kế tàu (hoặc cảng) để vận chuyển (hoặc khai thác) côngtenơ\n@Chuyên ngành kinh tế\n-chuyên chở bằng container\n-công-ten-nơ hóa\n-sự chuyên chở bằng công -ten-nơ\n@Chuyên ngành kỹ thuật\n-sự côngtenơ hóa\n-sự đóng côngtenơ\n-sự đóng thùng
-
+containerization	@containerization
+* danh từ
+- sự cho hàng vào côngtenơ
+- sự thiết kế tàu (hoặc cảng) để vận chuyển (hoặc khai thác) côngtenơ
+@Chuyên ngành kinh tế
+-chuyên chở bằng container
+-công-ten-nơ hóa
+-sự chuyên chở bằng công -ten-nơ
+@Chuyên ngành kỹ thuật
+-sự côngtenơ hóa
+-sự đóng côngtenơ
+-sự đóng thùng

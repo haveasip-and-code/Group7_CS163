@@ -1,3 +1,6 @@
-cryptanalysis
-	@cryptanalysis\n- (Tech) phân tích mật mã\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phân tích mật mã\n-sự phân tích mã
-
+cryptanalysis	@cryptanalysis
+- (Tech) phân tích mật mã
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phân tích mật mã
+-sự phân tích mã

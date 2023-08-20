@@ -1,3 +1,16 @@
-teller
-	@teller /'telə/\n*  danh từ\n- người kể chuyện, người hay kể chuyện; người tự thuật\n- người kiểm phiếu\n- người thủ quỹ (ở nhà ngân hàng)\n@Chuyên ngành kinh tế\n-người kiểm phiếu (ở hạ nghị viện)\n-người thu phát triển\n-nhân viên thu phát\n-thu ngân\n-thủ quỹ\n@Chuyên ngành kỹ thuật\n-người dọc\n-máy đếm\n@Lĩnh vực: xây dựng\n-máy dọc
-
+teller	@teller /'telə/
+*  danh từ
+- người kể chuyện, người hay kể chuyện; người tự thuật
+- người kiểm phiếu
+- người thủ quỹ (ở nhà ngân hàng)
+@Chuyên ngành kinh tế
+-người kiểm phiếu (ở hạ nghị viện)
+-người thu phát triển
+-nhân viên thu phát
+-thu ngân
+-thủ quỹ
+@Chuyên ngành kỹ thuật
+-người dọc
+-máy đếm
+@Lĩnh vực: xây dựng
+-máy dọc

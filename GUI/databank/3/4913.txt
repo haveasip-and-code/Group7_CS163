@@ -1,3 +1,5 @@
-batt
-	@Chuyên ngành kỹ thuật\n-đá phiến sét\n-đất sét phân phiến\n@Lĩnh vực: hóa học & vật liệu\n-đất sét bat
-
+batt	@Chuyên ngành kỹ thuật
+-đá phiến sét
+-đất sét phân phiến
+@Lĩnh vực: hóa học & vật liệu
+-đất sét bat

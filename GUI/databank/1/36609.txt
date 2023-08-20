@@ -1,3 +1,31 @@
-network
-	@network /'netwə:k/\n*  danh từ\n- lưới, đồ dùng kiểu lưới\n=a network purse+ cái túi lưới đựng tiền\n- mạng lưới, hệ thống\n=a network of railways+ mạng lưới đường sắt\n=a network of canals+ hệ thống sông đào\n- (kỹ thuật) hệ thống mắc cáo\n- (raddiô) mạng lưới truyền thanh\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-NETWORK\n@Chuyên ngành kỹ thuật\n-hệ thống\n-kênh\n-lưới\n-lưới điện\n-lưới trạm đo\n-lưới, mạng\n-mạng\n-mạng điện\n-mạng đường\n-mạng lưới\n-mạng máy tính\n-sơ đồ\n-sơ đồ điện\n@Lĩnh vực: toán & tin\n-nối mạng\n-mạch mạng\n@Lĩnh vực: xây dựng\n-mạng lưới đường
-
+network	@network /'netwə:k/
+*  danh từ
+- lưới, đồ dùng kiểu lưới
+=a network purse+ cái túi lưới đựng tiền
+- mạng lưới, hệ thống
+=a network of railways+ mạng lưới đường sắt
+=a network of canals+ hệ thống sông đào
+- (kỹ thuật) hệ thống mắc cáo
+- (raddiô) mạng lưới truyền thanh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-NETWORK
+@Chuyên ngành kỹ thuật
+-hệ thống
+-kênh
+-lưới
+-lưới điện
+-lưới trạm đo
+-lưới, mạng
+-mạng
+-mạng điện
+-mạng đường
+-mạng lưới
+-mạng máy tính
+-sơ đồ
+-sơ đồ điện
+@Lĩnh vực: toán & tin
+-nối mạng
+-mạch mạng
+@Lĩnh vực: xây dựng
+-mạng lưới đường

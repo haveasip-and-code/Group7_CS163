@@ -1,3 +1,10 @@
-downpipe
-	@downpipe\n* danh từ\n- bơm để đưa nước mưa từ mái nhà xuống đất\n@Chuyên ngành kỹ thuật\n-ống dẫn xuống\n-ống thoát nước\n-ống xả\n@Lĩnh vực: cơ khí & công trình\n-ống di xuống
-
+downpipe	
+@downpipe
+* danh từ
+- bơm để đưa nước mưa từ mái nhà xuống đất
+@Chuyên ngành kỹ thuật
+-ống dẫn xuống
+-ống thoát nước
+-ống xả
+@Lĩnh vực: cơ khí & công trình
+-ống di xuống

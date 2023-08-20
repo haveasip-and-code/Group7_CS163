@@ -1,3 +1,10 @@
-soap
-	@soap /soup/\n*  danh từ\n- xà phòng\n*  động từ\n- xát xà phòng, vò xà phòng\n- giặt bằng xà phòng\n@Chuyên ngành kinh tế\n-xà phòng\n@Chuyên ngành kỹ thuật\n-xà phòng
-
+soap	@soap /soup/
+*  danh từ
+- xà phòng
+*  động từ
+- xát xà phòng, vò xà phòng
+- giặt bằng xà phòng
+@Chuyên ngành kinh tế
+-xà phòng
+@Chuyên ngành kỹ thuật
+-xà phòng

@@ -1,3 +1,3 @@
-strobotron
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-đèn strobotron
-
+strobotron	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-đèn strobotron

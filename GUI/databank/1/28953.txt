@@ -1,3 +1,36 @@
-inspection
-	@inspection /in'spekʃn/\n*  danh từ\n- sự xem xét kỹ, sự kiểm tra, sự thanh tra\n- sự duyệt (quân đội)\n@Chuyên ngành kinh tế\n-sự kiểm tra\n-sự theo dõi\n-việc thanh tra\n@Chuyên ngành kỹ thuật\n-kiểm soát\n-kiểm tra\n-sự dò\n-sự giám sát\n-sự kiểm chứng\n-sự kiểm nghiệm\n-sự kiểm nhận\n-sự kiểm soát\n-sự kiểm tra\n-sự thanh tra\n-sự thử nghiệm\n-sự xem xét\n-thanh tra\n@Lĩnh vực: xây dựng\n-điều tra (thanh tra)\n-giám sát (thi công)\n-sự duyệt\n@Lĩnh vực: điện lạnh\n-sự khám nghiệm\n-sự tìm\n@Lĩnh vực: toán & tin\n-sự kiểm\n@Lĩnh vực: điện\n-sự thanh sát\n@Lĩnh vực: hóa học & vật liệu\n-sự xem xét kỹ
-
+inspection	
+@inspection /in'spekʃn/
+*  danh từ
+- sự xem xét kỹ, sự kiểm tra, sự thanh tra
+- sự duyệt (quân đội)
+@Chuyên ngành kinh tế
+-sự kiểm tra
+-sự theo dõi
+-việc thanh tra
+@Chuyên ngành kỹ thuật
+-kiểm soát
+-kiểm tra
+-sự dò
+-sự giám sát
+-sự kiểm chứng
+-sự kiểm nghiệm
+-sự kiểm nhận
+-sự kiểm soát
+-sự kiểm tra
+-sự thanh tra
+-sự thử nghiệm
+-sự xem xét
+-thanh tra
+@Lĩnh vực: xây dựng
+-điều tra (thanh tra)
+-giám sát (thi công)
+-sự duyệt
+@Lĩnh vực: điện lạnh
+-sự khám nghiệm
+-sự tìm
+@Lĩnh vực: toán & tin
+-sự kiểm
+@Lĩnh vực: điện
+-sự thanh sát
+@Lĩnh vực: hóa học & vật liệu
+-sự xem xét kỹ

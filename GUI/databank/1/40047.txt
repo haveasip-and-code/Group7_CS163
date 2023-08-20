@@ -1,3 +1,2 @@
-patroller
-	@patroller\n- xem patrol
-
+patroller	@patroller
+- xem patrol

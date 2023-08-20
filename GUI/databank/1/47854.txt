@@ -1,3 +1,13 @@
-roasting
-	@roasting\n* tính từ\n- <thgt> rất nóng\n@Chuyên ngành kinh tế\n-sự quay\n-sự rán\n-sự rang\n-sự thiêu\n@Chuyên ngành kỹ thuật\n-sự nung\n-sự thiêu\n@Lĩnh vực: thực phẩm\n-sự rang
-
+roasting	@roasting
+* tính từ
+- <thgt> rất nóng
+@Chuyên ngành kinh tế
+-sự quay
+-sự rán
+-sự rang
+-sự thiêu
+@Chuyên ngành kỹ thuật
+-sự nung
+-sự thiêu
+@Lĩnh vực: thực phẩm
+-sự rang

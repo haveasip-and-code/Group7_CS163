@@ -1,3 +1,2 @@
-unstable
-	@unstable\n- không ổn định
-
+unstable	@unstable
+- không ổn định

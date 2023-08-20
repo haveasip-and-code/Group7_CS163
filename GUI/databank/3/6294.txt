@@ -1,3 +1,5 @@
-bookstall
-	@bookstall /'bukstɔ:l/\n*  danh từ\n- quán bán sách, quầy bán sách\n@Chuyên ngành kỹ thuật\n-quầy sách
-
+bookstall	@bookstall /'bukstɔ:l/
+*  danh từ
+- quán bán sách, quầy bán sách
+@Chuyên ngành kỹ thuật
+-quầy sách

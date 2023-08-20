@@ -1,3 +1,7 @@
-shorting
-	@Chuyên ngành kinh tế\n-lập vị thế ngắn\n@Chuyên ngành kỹ thuật\n-sự ngắn mạch\n@Lĩnh vực: điện\n-sự chập mạch\n-sự làm ngắn mạch
-
+shorting	@Chuyên ngành kinh tế
+-lập vị thế ngắn
+@Chuyên ngành kỹ thuật
+-sự ngắn mạch
+@Lĩnh vực: điện
+-sự chập mạch
+-sự làm ngắn mạch

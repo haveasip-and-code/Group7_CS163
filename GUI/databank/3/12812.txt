@@ -1,3 +1,27 @@
-crude
-	@crude /kru:d/\n*  tính từ\n- nguyên, sống, thô, chưa luyện\n=crude oil+ dầu thô\n- chưa chín, còn xanh (quả cây)\n- không tiêu (đồ ăn)\n- thô thiển, chưa gọt giũa, mới phác qua\n=crude methods+ những phương pháp thô thiển\n- thô lỗ, lỗ mãng, tục tằn, thô bỉ; thô bạo\n=crude manners+ tác phong lỗ mãng\n=crude violation+ sự vi phạm thô bạo\n- (y học) chưa phát triển, còn đang ủ (bệnh)\n- (ngôn ngữ học) không biến cách\n@Chuyên ngành kinh tế\n-nguyên liệu\n@Chuyên ngành kỹ thuật\n-chưa được chế biến\n-chưa gia công\n-chưa luyện\n-chưa xử lý\n-dầu mỏ\n-dầu thô\n-nguyên\n-nguyên chất\n-nguyên liệu\n-nhám\n-thô sơ
-
+crude	@crude /kru:d/
+*  tính từ
+- nguyên, sống, thô, chưa luyện
+=crude oil+ dầu thô
+- chưa chín, còn xanh (quả cây)
+- không tiêu (đồ ăn)
+- thô thiển, chưa gọt giũa, mới phác qua
+=crude methods+ những phương pháp thô thiển
+- thô lỗ, lỗ mãng, tục tằn, thô bỉ; thô bạo
+=crude manners+ tác phong lỗ mãng
+=crude violation+ sự vi phạm thô bạo
+- (y học) chưa phát triển, còn đang ủ (bệnh)
+- (ngôn ngữ học) không biến cách
+@Chuyên ngành kinh tế
+-nguyên liệu
+@Chuyên ngành kỹ thuật
+-chưa được chế biến
+-chưa gia công
+-chưa luyện
+-chưa xử lý
+-dầu mỏ
+-dầu thô
+-nguyên
+-nguyên chất
+-nguyên liệu
+-nhám
+-thô sơ

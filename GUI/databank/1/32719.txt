@@ -1,3 +1,57 @@
-loop
-	@loop /lu:p/\n*  danh từ\n- vòng; thòng lọng; cái khâu, cái móc, khuyết áo)\n- đường nhánh, đường vòng (đường xe lửa, đường dây điện báo ((cũng) loop line)\n- (vật lý) bụng (sóng)\n- (điện học) cuộn; mạch\n=coupling loop+ cuộn ghép\n=closed loop+ mạch kín\n*  (kỹ thuật) móc (cần trục), vành đai, cốt đai\n- (hàng không) vòng nhào lộn (của máy bay)\n*  động từ\n- thắt lại thành vòng; làm thành móc\n- gài móc, móc lại\n- (hàng không) nhào lộn\n@Chuyên ngành kinh tế\n-vùng buộc thuốc lá để sấy\n@Chuyên ngành kỹ thuật\n-ăng ten khung\n-ăng ten vòng\n-bụng dao động\n-bụng sóng\n-cái vòng\n-chu kỳ\n-cuộn\n-đường sắt\n-đường vòng\n-khuyên\n-nút\n-mạch\n-mạch kín\n-mạch vòng\n-mạng vòng\n-mắt lưới\n-móc\n-móc treo\n-quai\n-sắt hạt\n-vành đai\n-vòng\n-vòng (treo)\n-vòng đai\n-vòng dây, cuộn dây\n@Lĩnh vực: vật lý\n-bụng dung động\n@Lĩnh vực: xây dựng\n-cốt đai (cột)\n-vòng khuyên\n@Lĩnh vực: điện lạnh\n-đường (cong) kín\n-vòng ghép\n@Lĩnh vực: hóa học & vật liệu\n-đường cong kín\n@Lĩnh vực: điện\n-mạng (điện)\n@Lĩnh vực: toán & tin\n-thắt nút\n-vòng lặp
-
+loop	@loop /lu:p/
+*  danh từ
+- vòng; thòng lọng; cái khâu, cái móc, khuyết áo)
+- đường nhánh, đường vòng (đường xe lửa, đường dây điện báo ((cũng) loop line)
+- (vật lý) bụng (sóng)
+- (điện học) cuộn; mạch
+=coupling loop+ cuộn ghép
+=closed loop+ mạch kín
+*  (kỹ thuật) móc (cần trục), vành đai, cốt đai
+- (hàng không) vòng nhào lộn (của máy bay)
+*  động từ
+- thắt lại thành vòng; làm thành móc
+- gài móc, móc lại
+- (hàng không) nhào lộn
+@Chuyên ngành kinh tế
+-vùng buộc thuốc lá để sấy
+@Chuyên ngành kỹ thuật
+-ăng ten khung
+-ăng ten vòng
+-bụng dao động
+-bụng sóng
+-cái vòng
+-chu kỳ
+-cuộn
+-đường sắt
+-đường vòng
+-khuyên
+-nút
+-mạch
+-mạch kín
+-mạch vòng
+-mạng vòng
+-mắt lưới
+-móc
+-móc treo
+-quai
+-sắt hạt
+-vành đai
+-vòng
+-vòng (treo)
+-vòng đai
+-vòng dây, cuộn dây
+@Lĩnh vực: vật lý
+-bụng dung động
+@Lĩnh vực: xây dựng
+-cốt đai (cột)
+-vòng khuyên
+@Lĩnh vực: điện lạnh
+-đường (cong) kín
+-vòng ghép
+@Lĩnh vực: hóa học & vật liệu
+-đường cong kín
+@Lĩnh vực: điện
+-mạng (điện)
+@Lĩnh vực: toán & tin
+-thắt nút
+-vòng lặp

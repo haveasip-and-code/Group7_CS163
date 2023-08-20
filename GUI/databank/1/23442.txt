@@ -1,3 +1,20 @@
-gin
-	@gin /dʤin/\n*  danh từ\n- rượu gin\n- cạm bẫy, bẫy\n- máy tỉa hột bông\n- (kỹ thuật) cái tời; trục nâng\n*  ngoại động từ\n- đánh bẫy (thú săn)\n- tỉa hột (bông)\n@Chuyên ngành kỹ thuật\n-bàn nâng, trục nâng\n-cơ cấu nâng\n-đòn đẩy\n-giá đỡ\n-máy đóng cọc\n-máy nâng\n-palăng\n-palăng tời\n-tời
-
+gin	
+@gin /dʤin/
+*  danh từ
+- rượu gin
+- cạm bẫy, bẫy
+- máy tỉa hột bông
+- (kỹ thuật) cái tời; trục nâng
+*  ngoại động từ
+- đánh bẫy (thú săn)
+- tỉa hột (bông)
+@Chuyên ngành kỹ thuật
+-bàn nâng, trục nâng
+-cơ cấu nâng
+-đòn đẩy
+-giá đỡ
+-máy đóng cọc
+-máy nâng
+-palăng
+-palăng tời
+-tời

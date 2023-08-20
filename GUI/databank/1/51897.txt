@@ -1,3 +1,5 @@
-soother
-	@soother /soother/\n*  danh từ\n- người làm giảm đau\n- người dỗ dành\n- vú cao su (cho trẻ ngậm)
-
+soother	@soother /soother/
+*  danh từ
+- người làm giảm đau
+- người dỗ dành
+- vú cao su (cho trẻ ngậm)

@@ -1,3 +1,4 @@
-ratemeter
-	@ratemeter\n- (máy tính) máy đo tốc độ\n@Chuyên ngành kỹ thuật\n-máy đo tốc độ
-
+ratemeter	@ratemeter
+- (máy tính) máy đo tốc độ
+@Chuyên ngành kỹ thuật
+-máy đo tốc độ

@@ -1,3 +1,9 @@
-encasing
-	@Chuyên ngành kỹ thuật\n-lớp áo\n-lớp bọc\n-ván khuôn\n@Chuyên ngành kỹ thuật\n-lớp áo\n-lớp bọc\n-ván khuôn
-
+encasing	
+@Chuyên ngành kỹ thuật
+-lớp áo
+-lớp bọc
+-ván khuôn
+@Chuyên ngành kỹ thuật
+-lớp áo
+-lớp bọc
+-ván khuôn

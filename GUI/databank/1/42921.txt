@@ -1,3 +1,2 @@
-praetorial
-	@praetorial\n- xem praetor
-
+praetorial	@praetorial
+- xem praetor

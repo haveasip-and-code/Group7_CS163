@@ -1,3 +1,4 @@
-prestressing
-	@Chuyên ngành kỹ thuật\n-căng sơ bộ\n@Lĩnh vực: xây dựng\n-căng trước
-
+prestressing	@Chuyên ngành kỹ thuật
+-căng sơ bộ
+@Lĩnh vực: xây dựng
+-căng trước

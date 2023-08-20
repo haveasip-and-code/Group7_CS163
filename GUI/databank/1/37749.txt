@@ -1,3 +1,11 @@
-oleoresin
-	@oleoresin /,ouliou'rezin/\n*  danh từ\n- nhựa dầu (của cây)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dầu nhựa cây\n-nhựa chứa dầu\n-nhựa có dầu\n-nhựa dầu\n@Lĩnh vực: y học\n-nhựa dầu, nhựa trộn dầu
-
+oleoresin	@oleoresin /,ouliou'rezin/
+*  danh từ
+- nhựa dầu (của cây)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dầu nhựa cây
+-nhựa chứa dầu
+-nhựa có dầu
+-nhựa dầu
+@Lĩnh vực: y học
+-nhựa dầu, nhựa trộn dầu

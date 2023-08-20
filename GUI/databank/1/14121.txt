@@ -1,3 +1,11 @@
-defrosting
-	@Chuyên ngành kinh tế\n-sự làm tan băng\n-sự làm tan đông\n@Chuyên ngành kỹ thuật\n-làm tan giá\n-phá băng\n-sự phá băng\n-sự tan băng\n-sự xả băng\n-xả băng
-
+defrosting	
+@Chuyên ngành kinh tế
+-sự làm tan băng
+-sự làm tan đông
+@Chuyên ngành kỹ thuật
+-làm tan giá
+-phá băng
+-sự phá băng
+-sự tan băng
+-sự xả băng
+-xả băng

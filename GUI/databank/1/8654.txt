@@ -1,3 +1,5 @@
-chained
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được móc nối\n-được xâu chuỗi
-
+chained	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được móc nối
+-được xâu chuỗi

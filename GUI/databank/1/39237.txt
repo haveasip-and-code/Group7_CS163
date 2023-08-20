@@ -1,3 +1,25 @@
-pain
-	@pain /pein/\n*  danh từ\n- sự đau đớn, sự đau khổ (thể chất, tinh thần)\n=to have a pain in the head+ đau đầu\n- (số nhiều) sự đau đẻ\n- (số nhiều) nỗi khó nhọc công sức\n=to take pains+ bỏ công sức\n- hình phạt\n=pains and penalties+ các hình phạt\n=on (under) pain of death+ sẽ bị xử tử, sẽ bị tội chết (nếu vi phạm cái gì...)\n!to be at the pains of doing something\n- chịu thương chịu khó làm cái gì\n!to give someone a pain in the neck\n- quấy rầy ai, chọc tức ai\n*  ngoại động từ\n- làm đau đớn, làm đau khổ\n=does your tooth pain you?+ răng anh có làm anh đau không?\n*  nội động từ\n- đau nhức, đau đớn\n=my arm is paining+ tay tôi đang đau nhức đây\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đau\n@Lĩnh vực: xây dựng\n-nhức
-
+pain	@pain /pein/
+*  danh từ
+- sự đau đớn, sự đau khổ (thể chất, tinh thần)
+=to have a pain in the head+ đau đầu
+- (số nhiều) sự đau đẻ
+- (số nhiều) nỗi khó nhọc công sức
+=to take pains+ bỏ công sức
+- hình phạt
+=pains and penalties+ các hình phạt
+=on (under) pain of death+ sẽ bị xử tử, sẽ bị tội chết (nếu vi phạm cái gì...)
+!to be at the pains of doing something
+- chịu thương chịu khó làm cái gì
+!to give someone a pain in the neck
+- quấy rầy ai, chọc tức ai
+*  ngoại động từ
+- làm đau đớn, làm đau khổ
+=does your tooth pain you?+ răng anh có làm anh đau không?
+*  nội động từ
+- đau nhức, đau đớn
+=my arm is paining+ tay tôi đang đau nhức đây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đau
+@Lĩnh vực: xây dựng
+-nhức

@@ -1,3 +1,4 @@
-contents
-	@contents\n- (Tech) nội dung, dung lượng\n@Chuyên ngành kỹ thuật\n-nội dung
-
+contents	@contents
+- (Tech) nội dung, dung lượng
+@Chuyên ngành kỹ thuật
+-nội dung

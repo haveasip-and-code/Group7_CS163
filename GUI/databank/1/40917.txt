@@ -1,3 +1,16 @@
-pet
-	@pet /pet/\n*  danh từ\n- cơn giận, cơn giận dỗi\n=to take the pet; to be in a pet+ giận dỗi\n- con vật yêu quý, vật cưng\n- người yêu quý, con cưng...\n=to make a pet of a child+ cưng một đứa bé\n- (định ngữ) cưng, yêu quý, thích nhất\n=pet name+ tên gọi cưng, tên gọi thân\n=pet subject+ môn thích nhất\n!one's pet aversion\n- (xem) aversion\n*  ngoại động từ\n- cưng, nuông, yêu quý\n!petting party\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) cuộc vui gỡ gạc (ôm, hôn hít... của cặp trai gái)
-
+pet	@pet /pet/
+*  danh từ
+- cơn giận, cơn giận dỗi
+=to take the pet; to be in a pet+ giận dỗi
+- con vật yêu quý, vật cưng
+- người yêu quý, con cưng...
+=to make a pet of a child+ cưng một đứa bé
+- (định ngữ) cưng, yêu quý, thích nhất
+=pet name+ tên gọi cưng, tên gọi thân
+=pet subject+ môn thích nhất
+!one's pet aversion
+- (xem) aversion
+*  ngoại động từ
+- cưng, nuông, yêu quý
+!petting party
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cuộc vui gỡ gạc (ôm, hôn hít... của cặp trai gái)

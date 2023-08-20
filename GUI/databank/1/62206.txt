@@ -1,3 +1,2 @@
-vouchsafement
-	@vouchsafement\n- xem vouchsafe
-
+vouchsafement	@vouchsafement
+- xem vouchsafe

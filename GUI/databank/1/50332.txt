@@ -1,3 +1,10 @@
-shielded
-	@shielded\n* tính từ\n- được bảo vệ/ che chắn\n@Chuyên ngành kỹ thuật\n-bị chắn\n-bị che\n-được bảo vệ bằng khí trơ (hàn hồ quang)\n-được che chắn (điện cực)\n@Lĩnh vực: điện\n-được che chắn
-
+shielded	@shielded
+* tính từ
+- được bảo vệ/ che chắn
+@Chuyên ngành kỹ thuật
+-bị chắn
+-bị che
+-được bảo vệ bằng khí trơ (hàn hồ quang)
+-được che chắn (điện cực)
+@Lĩnh vực: điện
+-được che chắn

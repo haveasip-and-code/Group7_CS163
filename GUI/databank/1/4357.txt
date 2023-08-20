@@ -1,3 +1,10 @@
-backdate
-	@backdate\n* động từ\n- tuyên bố rằng cái gì đó phải được coi là có giá trị kể từ một thời điểm nào đó trong quá khứ\n@Chuyên ngành kinh tế\n-đề lùi ngày về trước\n-đề ngày (vận đơn) lùi về trước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hủy cập nhật
-
+backdate	
+@backdate
+* động từ
+- tuyên bố rằng cái gì đó phải được coi là có giá trị kể từ một thời điểm nào đó trong quá khứ
+@Chuyên ngành kinh tế
+-đề lùi ngày về trước
+-đề ngày (vận đơn) lùi về trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hủy cập nhật

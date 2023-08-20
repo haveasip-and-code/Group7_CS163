@@ -1,3 +1,36 @@
-earth
-	@earth /ə:θ/\n*  danh từ\n- đất, đất liền, mặt đất (đối lại với trời); quả đất\n- (hoá học) đất\n=rare earths+ đất hiếm\n- hang (cáo, chồn...)\n=to go to earth+ chui vào tận hang\n- trần gian, cõi tục (đối với thiên đường, địa ngục)\n!to come back to earth\n- thôi mơ tưởng mà trở về thực tế\n!to move heaven and earth\n- (xem) move\n*  ngoại động từ\n- vun (cây); lấp đất (hạt giống)\n- đuổi (cáo...) vào hang\n*  nội động từ\n- chạy vào hang (cáo...)\n- điện đặt dây đất, nối với đất\n@Chuyên ngành kỹ thuật\n-âm\n-bãi đất\n-đất\n-đất trồng\n-nối đất\n-mặt đất\n-mối nối đất\n-quả đất\n-sự mắc cạn\n-sự nối đất\n-thổ nhưỡng\n@Lĩnh vực: giao thông & vận tải\n-đất đáy\n@Lĩnh vực: xây dựng\n-nền đáy\n@Lĩnh vực: ô tô\n-nối mass\n-vùng tiếp điện
-
+earth	
+@earth /ə:θ/
+*  danh từ
+- đất, đất liền, mặt đất (đối lại với trời); quả đất
+- (hoá học) đất=rare earths
++ đất hiếm
+- hang (cáo, chồn...)=to go to earth
++ chui vào tận hang
+- trần gian, cõi tục (đối với thiên đường, địa ngục)!to come back to earth
+- thôi mơ tưởng mà trở về thực tế!to move heaven and earth
+- (xem) move
+*  ngoại động từ
+- vun (cây); lấp đất (hạt giống)
+- đuổi (cáo...) vào hang
+*  nội động từ
+- chạy vào hang (cáo...)
+- điện đặt dây đất, nối với đất
+@Chuyên ngành kỹ thuật
+-âm
+-bãi đất
+-đất
+-đất trồng
+-nối đất
+-mặt đất
+-mối nối đất
+-quả đất
+-sự mắc cạn
+-sự nối đất
+-thổ nhưỡng
+@Lĩnh vực: giao thông & vận tải
+-đất đáy
+@Lĩnh vực: xây dựng
+-nền đáy
+@Lĩnh vực: ô tô
+-nối mass
+-vùng tiếp điện

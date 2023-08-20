@@ -1,3 +1,4 @@
-denitrifier
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vi khuẩn khử nitơ
-
+denitrifier	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vi khuẩn khử nitơ

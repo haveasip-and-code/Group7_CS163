@@ -1,3 +1,2 @@
-allurer
-	@allurer\n- xem allure
-
+allurer	@allurer
+- xem allure

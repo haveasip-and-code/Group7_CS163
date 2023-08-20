@@ -1,3 +1,5 @@
-pretest
-	@pretest\n* danh từ\n- sự thử, kiểm tra trước\n* ngoại động từ\n- thử, kiểm tra trước
-
+pretest	@pretest
+* danh từ
+- sự thử, kiểm tra trước
+* ngoại động từ
+- thử, kiểm tra trước

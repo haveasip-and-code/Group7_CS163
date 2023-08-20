@@ -1,3 +1,15 @@
-overstress
-	@overstress\n* ngoại động từ\n- chịu ứng suất quá lớn\n* danh từ\n- (kỹ thuật) ứng suất dư\n- sự quá ứng suất\n@Chuyên ngành kỹ thuật\n-quá tải\n-ứng suất vượt tải\n@Lĩnh vực: cơ khí & công trình\n-quá ứng lực\n@Lĩnh vực: điện lạnh\n-quá ứng suất\n@Lĩnh vực: xây dựng\n-ứng suất quá căng
-
+overstress	@overstress
+* ngoại động từ
+- chịu ứng suất quá lớn
+* danh từ
+- (kỹ thuật) ứng suất dư
+- sự quá ứng suất
+@Chuyên ngành kỹ thuật
+-quá tải
+-ứng suất vượt tải
+@Lĩnh vực: cơ khí & công trình
+-quá ứng lực
+@Lĩnh vực: điện lạnh
+-quá ứng suất
+@Lĩnh vực: xây dựng
+-ứng suất quá căng

@@ -1,3 +1,8 @@
-worldwide
-	@worldwide\n- toàn cầu\n@Chuyên ngành kinh tế\n-toàn thế giới\n-trên phạm vi thế giới\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-toàn thế giới
-
+worldwide	@worldwide
+- toàn cầu
+@Chuyên ngành kinh tế
+-toàn thế giới
+-trên phạm vi thế giới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-toàn thế giới

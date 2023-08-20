@@ -1,3 +1,9 @@
-steelworks
-	@Chuyên ngành kinh tế\n-nhà máy luyện gang thép\n-nhà máy luyện thép\n-xưởng luyện thép\n@Chuyên ngành kỹ thuật\n-lò luyện thép\n@Lĩnh vực: hóa học & vật liệu\n-nhà máy đúc thép\n-nhà máy nấu thép
-
+steelworks	@Chuyên ngành kinh tế
+-nhà máy luyện gang thép
+-nhà máy luyện thép
+-xưởng luyện thép
+@Chuyên ngành kỹ thuật
+-lò luyện thép
+@Lĩnh vực: hóa học & vật liệu
+-nhà máy đúc thép
+-nhà máy nấu thép

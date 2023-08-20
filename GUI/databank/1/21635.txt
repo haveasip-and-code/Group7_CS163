@@ -1,3 +1,26 @@
-flushing
-	@flushing\n* danh từ\n- sự rửa bằng tia nước\n- sự nhuộm màu đỏ máu\n@Chuyên ngành kỹ thuật\n-chỗ gãy\n-được rửa\n-phun\n-sự cọ rửa\n-sự hàn phẳng\n-sự làm sạch\n-sự nối phẳng\n-sự rửa\n-sự rửa xối\n-sự san bằng\n-sự sục bọt\n-sự xịt nước\n-sự xịt rửa\n-sự xối rửa\n-xịt\n-xóc\n@Lĩnh vực: hóa học & vật liệu\n-được xối nước\n@Lĩnh vực: xây dựng\n-sự rửa bằng tia nước
-
+flushing	
+@flushing
+* danh từ
+- sự rửa bằng tia nước
+- sự nhuộm màu đỏ máu
+@Chuyên ngành kỹ thuật
+-chỗ gãy
+-được rửa
+-phun
+-sự cọ rửa
+-sự hàn phẳng
+-sự làm sạch
+-sự nối phẳng
+-sự rửa
+-sự rửa xối
+-sự san bằng
+-sự sục bọt
+-sự xịt nước
+-sự xịt rửa
+-sự xối rửa
+-xịt
+-xóc
+@Lĩnh vực: hóa học & vật liệu
+-được xối nước
+@Lĩnh vực: xây dựng
+-sự rửa bằng tia nước

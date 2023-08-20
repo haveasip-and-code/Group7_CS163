@@ -1,3 +1,2 @@
-cyclicality
-	@cyclicality\n- xem cyclic
-
+cyclicality	@cyclicality
+- xem cyclic

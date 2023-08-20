@@ -1,3 +1,17 @@
-activation
-	@activation /,ækti'veiʃn/\n*  danh từ\n- sự hoạt hoá\n- sự làm phóng xạ\n@Chuyên ngành kinh tế\n-sự hoạt hóa\n@Chuyên ngành kỹ thuật\n-kích động\n-kích hoạt\n-sự hoạt hóa\n-sự khởi động\n-sự kích động\n-sự kích hoạt\n@Lĩnh vực: hóa học & vật liệu\n-hoạt hóa\n@Lĩnh vực: xây dựng\n-quá trình hoạt hóa
-
+activation	@activation /,ækti'veiʃn/
+*  danh từ
+- sự hoạt hoá
+- sự làm phóng xạ
+@Chuyên ngành kinh tế
+-sự hoạt hóa
+@Chuyên ngành kỹ thuật
+-kích động
+-kích hoạt
+-sự hoạt hóa
+-sự khởi động
+-sự kích động
+-sự kích hoạt
+@Lĩnh vực: hóa học & vật liệu
+-hoạt hóa
+@Lĩnh vực: xây dựng
+-quá trình hoạt hóa

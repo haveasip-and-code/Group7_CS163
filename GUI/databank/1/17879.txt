@@ -1,3 +1,33 @@
-embedded
-	@embedded\n- được nhúng\n@Chuyên ngành kỹ thuật\n-được đặt vào\n-được gắn vào\n-được nhúng\n-xen vỉa\n@Lĩnh vực: cơ khí & công trình\n-bị ấn lõm\n@Lĩnh vực: hóa học & vật liệu\n-bị gắn vào\n@Lĩnh vực: xây dựng\n-dạng tầng\n-dạng vỉa\n@Lĩnh vực: toán & tin\n-được lồng\n-được lồng vào\n@Chuyên ngành kỹ thuật\n-được đặt vào\n-được gắn vào\n-được nhúng\n-xen vỉa\n@Lĩnh vực: cơ khí & công trình\n-bị ấn lõm\n@Lĩnh vực: hóa học & vật liệu\n-bị gắn vào\n@Lĩnh vực: xây dựng\n-dạng tầng\n-dạng vỉa\n@Lĩnh vực: toán & tin\n-được lồng\n-được lồng vào
-
+embedded	
+@embedded
+- được nhúng
+@Chuyên ngành kỹ thuật
+-được đặt vào
+-được gắn vào
+-được nhúng
+-xen vỉa
+@Lĩnh vực: cơ khí & công trình
+-bị ấn lõm
+@Lĩnh vực: hóa học & vật liệu
+-bị gắn vào
+@Lĩnh vực: xây dựng
+-dạng tầng
+-dạng vỉa
+@Lĩnh vực: toán & tin
+-được lồng
+-được lồng vào
+@Chuyên ngành kỹ thuật
+-được đặt vào
+-được gắn vào
+-được nhúng
+-xen vỉa
+@Lĩnh vực: cơ khí & công trình
+-bị ấn lõm
+@Lĩnh vực: hóa học & vật liệu
+-bị gắn vào
+@Lĩnh vực: xây dựng
+-dạng tầng
+-dạng vỉa
+@Lĩnh vực: toán & tin
+-được lồng
+-được lồng vào

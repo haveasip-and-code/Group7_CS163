@@ -1,3 +1,8 @@
-welder
-	@welder\n* danh từ\n- thợ hàn\n@Chuyên ngành kỹ thuật\n-máy hàn\n-thợ hàn\n@Lĩnh vực: toán & tin\n-thợ hàn, máy hàn
-
+welder	@welder
+* danh từ
+- thợ hàn
+@Chuyên ngành kỹ thuật
+-máy hàn
+-thợ hàn
+@Lĩnh vực: toán & tin
+-thợ hàn, máy hàn

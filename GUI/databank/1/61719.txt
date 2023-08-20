@@ -1,3 +1,2 @@
-vicarship
-	@vicarship\n- xem vicar
-
+vicarship	@vicarship
+- xem vicar

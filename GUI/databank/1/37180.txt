@@ -1,3 +1,5 @@
-nuclide
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đồng vị phóng xạ\n@Lĩnh vực: hóa học & vật liệu\n-nuclit
-
+nuclide	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đồng vị phóng xạ
+@Lĩnh vực: hóa học & vật liệu
+-nuclit

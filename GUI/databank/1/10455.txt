@@ -1,3 +1,4 @@
-comestibles
-	@comestibles\n* danh từ\n- như edibles
-
+comestibles	
+@comestibles
+* danh từ
+- như edibles

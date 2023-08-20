@@ -1,3 +1,6 @@
-valvelet
-	@valvelet\n* danh từ\n- van nhỏ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-van nhỏ
-
+valvelet	@valvelet
+* danh từ
+- van nhỏ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-van nhỏ

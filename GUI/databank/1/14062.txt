@@ -1,3 +1,12 @@
-define
-	@define /di'fain/\n*  ngoại động từ\n- định nghĩa (một từ...)\n- định rõ, vạch rõ (hình dạng, ranh giới...)\n=to define the right for someone+ định rõ quyền hạn cho ai\n=to define the boundary between two countries+ định rõ ranh giới hai nước\n- xác định đặc điểm, chỉ rõ tính chất\n@Chuyên ngành kỹ thuật\n-định nghĩa\n-định rõ\n-xác định
-
+define	
+@define /di'fain/
+*  ngoại động từ
+- định nghĩa (một từ...)
+- định rõ, vạch rõ (hình dạng, ranh giới...)=to define the right for someone
++ định rõ quyền hạn cho ai=to define the boundary between two countries
++ định rõ ranh giới hai nước
+- xác định đặc điểm, chỉ rõ tính chất
+@Chuyên ngành kỹ thuật
+-định nghĩa
+-định rõ
+-xác định

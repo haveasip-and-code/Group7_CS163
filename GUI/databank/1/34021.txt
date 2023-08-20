@@ -1,3 +1,6 @@
-mead
-	@mead /mi:d/\n*  danh từ\n- rượu mật ong\n- (thơ ca),  (như) meadow\n@Chuyên ngành kinh tế\n-rượu nho mật ong
-
+mead	@mead /mi:d/
+*  danh từ
+- rượu mật ong
+- (thơ ca),  (như) meadow
+@Chuyên ngành kinh tế
+-rượu nho mật ong

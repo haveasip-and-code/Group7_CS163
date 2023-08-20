@@ -1,3 +1,4 @@
-deadbolt
-	@Chuyên ngành kỹ thuật\n-chốt cố định\n@Lĩnh vực: xây dựng\n-chốt chết
-
+deadbolt	@Chuyên ngành kỹ thuật
+-chốt cố định
+@Lĩnh vực: xây dựng
+-chốt chết

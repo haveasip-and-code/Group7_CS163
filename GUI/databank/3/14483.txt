@@ -1,3 +1,21 @@
-dense
-	@dense /dens/\n*  danh từ\n- dày đặc, chặt\n- đông đúc; rậm rạp\n=a dense forest+ rừng rậm\n- đần độn, ngu đần\n@Chuyên ngành kỹ thuật\n-chắc nịch\n-chắc sít\n-đặc\n-đậm\n-dày đặc\n-không thấm\n-kín\n-nặng\n@Lĩnh vực: hóa học & vật liệu\n-đậm đặc\n@Lĩnh vực: xây dựng\n-rậm rạp\n@Lĩnh vực: toán & tin\n-trù mật
-
+dense	@dense /dens/
+*  danh từ
+- dày đặc, chặt
+- đông đúc; rậm rạp
+=a dense forest+ rừng rậm
+- đần độn, ngu đần
+@Chuyên ngành kỹ thuật
+-chắc nịch
+-chắc sít
+-đặc
+-đậm
+-dày đặc
+-không thấm
+-kín
+-nặng
+@Lĩnh vực: hóa học & vật liệu
+-đậm đặc
+@Lĩnh vực: xây dựng
+-rậm rạp
+@Lĩnh vực: toán & tin
+-trù mật

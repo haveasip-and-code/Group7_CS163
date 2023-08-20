@@ -1,3 +1,23 @@
-oversize
-	@oversize /'ouvəvəsaiz/\n*  danh từ\n- vật ngoại khổ\n- vật trên cỡ (to hơn cỡ cầm thiết một số)\n*  tính từ+ (oversized) /'ouvəvəsaizd/\n- quá khổ, ngoại khổ\n- trên cỡ (trên cỡ cần thiết một số) (quần áo, giày, mũ...)\n@Chuyên ngành kỹ thuật\n-có kích thước lớn\n-kích thước vượt chuẩn\n-làm quá cỡ\n-ngoại cỡ\n-quá cỡ\n-quá khổ\n-sự quá cỡ\n@Lĩnh vực: xây dựng\n-gabarit lớn\n-khổ lớn\n-quá cỡ tiêu chuẩn\n-sản phẩm hạt to\n-sản phẩm trên sàng\n@Lĩnh vực: cơ khí & công trình\n-quá kích thước
-
+oversize	@oversize /'ouvəvəsaiz/
+*  danh từ
+- vật ngoại khổ
+- vật trên cỡ (to hơn cỡ cầm thiết một số)
+*  tính từ+ (oversized) /'ouvəvəsaizd/
+- quá khổ, ngoại khổ
+- trên cỡ (trên cỡ cần thiết một số) (quần áo, giày, mũ...)
+@Chuyên ngành kỹ thuật
+-có kích thước lớn
+-kích thước vượt chuẩn
+-làm quá cỡ
+-ngoại cỡ
+-quá cỡ
+-quá khổ
+-sự quá cỡ
+@Lĩnh vực: xây dựng
+-gabarit lớn
+-khổ lớn
+-quá cỡ tiêu chuẩn
+-sản phẩm hạt to
+-sản phẩm trên sàng
+@Lĩnh vực: cơ khí & công trình
+-quá kích thước

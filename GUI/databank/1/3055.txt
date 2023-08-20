@@ -1,3 +1,4 @@
-approximated
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-được làm xấp xỉ
-
+approximated	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-được làm xấp xỉ

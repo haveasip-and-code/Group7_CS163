@@ -1,3 +1,4 @@
-lithologic
-	@Chuyên ngành kỹ thuật\n-thạch học\n@Chuyên ngành kỹ thuật\n-thạch học
-
+lithologic	@Chuyên ngành kỹ thuật
+-thạch học
+@Chuyên ngành kỹ thuật
+-thạch học

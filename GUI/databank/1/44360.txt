@@ -1,3 +1,6 @@
-provisions
-	@Chuyên ngành kinh tế\n-lương thực cung cấp\n-lương thực dự trữ\n@Chuyên ngành kỹ thuật\n-điều khoản\n-quy định
-
+provisions	@Chuyên ngành kinh tế
+-lương thực cung cấp
+-lương thực dự trữ
+@Chuyên ngành kỹ thuật
+-điều khoản
+-quy định

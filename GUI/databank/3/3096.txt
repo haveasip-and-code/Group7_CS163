@@ -1,3 +1,17 @@
-aqueous
-	@aqueous /'eikwiəs/\n*  tính từ\n- (thuộc) nước; có nước\n=aqueous solution+ (hoá học) dung dịch nước\n- (địa lý,địa chất) do nước (tạo thành)\n=aqueous rock+ đá do nước tạo thành\n@Chuyên ngành kinh tế\n-nước\n@Chuyên ngành kỹ thuật\n-ngậm nước\n-nước\n@Lĩnh vực: điện lạnh\n-có nước\n@Lĩnh vực: cơ khí & công trình\n-do nước tạo thành\n@Lĩnh vực: hóa học & vật liệu\n-ở thể nước
-
+aqueous	@aqueous /'eikwiəs/
+*  tính từ
+- (thuộc) nước; có nước
+=aqueous solution+ (hoá học) dung dịch nước
+- (địa lý,địa chất) do nước (tạo thành)
+=aqueous rock+ đá do nước tạo thành
+@Chuyên ngành kinh tế
+-nước
+@Chuyên ngành kỹ thuật
+-ngậm nước
+-nước
+@Lĩnh vực: điện lạnh
+-có nước
+@Lĩnh vực: cơ khí & công trình
+-do nước tạo thành
+@Lĩnh vực: hóa học & vật liệu
+-ở thể nước

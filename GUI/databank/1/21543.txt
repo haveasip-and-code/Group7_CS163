@@ -1,3 +1,4 @@
-floured
-	@Chuyên ngành kinh tế\n-bột\n-nghiền
-
+floured	
+@Chuyên ngành kinh tế
+-bột
+-nghiền

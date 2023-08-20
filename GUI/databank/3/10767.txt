@@ -1,3 +1,2 @@
-compounder
-	@compounder\n- xem compound
-
+compounder	@compounder
+- xem compound

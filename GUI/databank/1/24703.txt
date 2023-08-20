@@ -1,3 +1,27 @@
-habit
-	@habit /'hæbit/\n*  danh từ\n- thói quen, tập quán\n=to be in the habit of...+ có thói quen...\n=to fall into a habit+ nhiễm một thói quen\n=to break of a habit+ bỏ một thói quen\n- thể chất, tạng người; vóc người\n=a man of corpulent habit+ người vóc đẫy đà\n- tính khí, tính tình\n=a habit of mind+ tính tình, tính khí\n- (sinh vật học) cách mọc; cách phát triển\n- bộ quần áo đi ngựa (của đàn bà) ((cũng) riding habit)\n- (từ cổ,nghĩa cổ) áo (chủ yếu là của thầy tu)\n*  ngoại động từ\n- mặc quần áo cho\n- (từ cổ,nghĩa cổ) ở, cư trú tại (một nơi nào)\n@Chuyên ngành kinh tế\n-cách phát triển\n-tập quán\n-tập tính\n-thói quen (mua)\n@Chuyên ngành kỹ thuật\n-dạng\n-lề thói\n@Lĩnh vực: xây dựng\n-thói quen
-
+habit	
+@habit /'hæbit/
+*  danh từ
+- thói quen, tập quán=to be in the habit of...
++ có thói quen...=to fall into a habit
++ nhiễm một thói quen=to break of a habit
++ bỏ một thói quen
+- thể chất, tạng người; vóc người=a man of corpulent habit
++ người vóc đẫy đà
+- tính khí, tính tình=a habit of mind
++ tính tình, tính khí
+- (sinh vật học) cách mọc; cách phát triển
+- bộ quần áo đi ngựa (của đàn bà) ((cũng) riding habit)
+- (từ cổ,nghĩa cổ) áo (chủ yếu là của thầy tu)
+*  ngoại động từ
+- mặc quần áo cho
+- (từ cổ,nghĩa cổ) ở, cư trú tại (một nơi nào)
+@Chuyên ngành kinh tế
+-cách phát triển
+-tập quán
+-tập tính
+-thói quen (mua)
+@Chuyên ngành kỹ thuật
+-dạng
+-lề thói
+@Lĩnh vực: xây dựng
+-thói quen

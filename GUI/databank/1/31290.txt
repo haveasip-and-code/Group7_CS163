@@ -1,3 +1,6 @@
-lacrimator
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tác nhân gây chảy nước mắt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tác nhân gây chảy nước mắt
-
+lacrimator	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tác nhân gây chảy nước mắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tác nhân gây chảy nước mắt

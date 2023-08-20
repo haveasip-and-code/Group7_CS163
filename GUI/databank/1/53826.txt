@@ -1,3 +1,59 @@
-stub
-	@stub /stʌb/\n*  danh từ\n- gốc (cây)\n- chân (răng)\n- mẩu (bút chì, thuốc lá, đuôi chó)\n- (từ Mỹ,nghĩa Mỹ) cuống (séc, hoá đơn...)\n- cái nhú ra, vật nhú ra\n=a mere stub of a horn+ sừng mới nhu ra được một tí\n- (như) stub_nail\n*  ngoại động từ\n- đánh gốc, đánh hết gốc (ở một khoảnh đất)\n- giụi tắt (mẩu thuốc lá) ((cũng) stub out)\n- vấp (ngón chân)\n=to stub one's toe against something+ vấp ngón chân vào vật gì\n@Chuyên ngành kinh tế\n-chân (răng)\n-cuống (chi phiếu, hóa đơn)\n-cuống (séc, hóa đơn)\n-gốc (cây)\n-mẫu thuốc lá\n@Chuyên ngành kỹ thuật\n-chốt\n-cột ngắn\n-cuống\n-đoạn chìa\n-dọn sạch\n-hình chóp cụt\n-khớp nối\n-ngạch\n-nhổ rễ\n-mạch nhánh\n-mạch rẽ\n-mấu\n-ống nối\n-phần lồi\n-phần nhô ra\n-phát quang\n-vòng\n@Lĩnh vực: cơ khí & công trình\n-chân (kết cấu)\n-chi tiết ngắn (so với tiêu chuẩn)\n-núm nhô lên\n-ống ngắn\n-trục ngắn\n@Lĩnh vực: xây dựng\n-cột nhắn\n-gốc cây đẵn\n-nhánh rẽ mạch\n-mấu phôi\n-xới đất\n@Lĩnh vực: điện\n-gốc cột (đoạn cột chìm)\n@Lĩnh vực: toán & tin\n-hình cụt\n-nhánh cụt\n@Lĩnh vực: điện lạnh\n-nền cách điện (ống dẫn sóng)\n@Lĩnh vực: điện tử & viễn thông\n-nhánh cụt (anten)
-
+stub	@stub /stʌb/
+*  danh từ
+- gốc (cây)
+- chân (răng)
+- mẩu (bút chì, thuốc lá, đuôi chó)
+- (từ Mỹ,nghĩa Mỹ) cuống (séc, hoá đơn...)
+- cái nhú ra, vật nhú ra
+=a mere stub of a horn+ sừng mới nhu ra được một tí
+- (như) stub_nail
+*  ngoại động từ
+- đánh gốc, đánh hết gốc (ở một khoảnh đất)
+- giụi tắt (mẩu thuốc lá) ((cũng) stub out)
+- vấp (ngón chân)
+=to stub one's toe against something+ vấp ngón chân vào vật gì
+@Chuyên ngành kinh tế
+-chân (răng)
+-cuống (chi phiếu, hóa đơn)
+-cuống (séc, hóa đơn)
+-gốc (cây)
+-mẫu thuốc lá
+@Chuyên ngành kỹ thuật
+-chốt
+-cột ngắn
+-cuống
+-đoạn chìa
+-dọn sạch
+-hình chóp cụt
+-khớp nối
+-ngạch
+-nhổ rễ
+-mạch nhánh
+-mạch rẽ
+-mấu
+-ống nối
+-phần lồi
+-phần nhô ra
+-phát quang
+-vòng
+@Lĩnh vực: cơ khí & công trình
+-chân (kết cấu)
+-chi tiết ngắn (so với tiêu chuẩn)
+-núm nhô lên
+-ống ngắn
+-trục ngắn
+@Lĩnh vực: xây dựng
+-cột nhắn
+-gốc cây đẵn
+-nhánh rẽ mạch
+-mấu phôi
+-xới đất
+@Lĩnh vực: điện
+-gốc cột (đoạn cột chìm)
+@Lĩnh vực: toán & tin
+-hình cụt
+-nhánh cụt
+@Lĩnh vực: điện lạnh
+-nền cách điện (ống dẫn sóng)
+@Lĩnh vực: điện tử & viễn thông
+-nhánh cụt (anten)

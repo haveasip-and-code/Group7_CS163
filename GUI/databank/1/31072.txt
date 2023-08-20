@@ -1,3 +1,6 @@
-knarred
-	@Chuyên ngành kỹ thuật\n-có mắt\n-có mấu\n@Chuyên ngành kỹ thuật\n-có mắt\n-có mấu
-
+knarred	@Chuyên ngành kỹ thuật
+-có mắt
+-có mấu
+@Chuyên ngành kỹ thuật
+-có mắt
+-có mấu

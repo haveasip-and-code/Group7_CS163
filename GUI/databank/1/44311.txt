@@ -1,3 +1,11 @@
-protractor
-	@protractor /protractor/\n*  danh từ\n- thước đo góc (hình nửa vòng tròn)\n- (giải phẫu) cơ duỗi\n@Chuyên ngành kỹ thuật\n-dụng cụ đo góc\n-máy đo góc\n@Lĩnh vực: y học\n-dụng cụ gắp (mảnh xương, đạn)\n@Lĩnh vực: xây dựng\n-thước do độ
-
+protractor	@protractor /protractor/
+*  danh từ
+- thước đo góc (hình nửa vòng tròn)
+- (giải phẫu) cơ duỗi
+@Chuyên ngành kỹ thuật
+-dụng cụ đo góc
+-máy đo góc
+@Lĩnh vực: y học
+-dụng cụ gắp (mảnh xương, đạn)
+@Lĩnh vực: xây dựng
+-thước do độ

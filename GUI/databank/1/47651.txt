@@ -1,3 +1,13 @@
-ribbed
-	@Chuyên ngành kỹ thuật\n-có cạnh\n-có gân\n-có gờ\n-có sườn\n-nổi gân\n@Lĩnh vực: xây dựng\n-có dạng rãnh\n-có sườn (tăng cứng)\n-cổi gờ\n-nổi sọc\n@Lĩnh vực: hóa học & vật liệu\n-nổi gờ
-
+ribbed	@Chuyên ngành kỹ thuật
+-có cạnh
+-có gân
+-có gờ
+-có sườn
+-nổi gân
+@Lĩnh vực: xây dựng
+-có dạng rãnh
+-có sườn (tăng cứng)
+-cổi gờ
+-nổi sọc
+@Lĩnh vực: hóa học & vật liệu
+-nổi gờ

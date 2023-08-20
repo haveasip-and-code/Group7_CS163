@@ -1,3 +1,14 @@
-liquefier
-	@Chuyên ngành kinh tế\n-thiết bị hóa lỏng\n@Chuyên ngành kỹ thuật\n-thiết bị hóa lỏng khí\n@Lĩnh vực: hóa học & vật liệu\n-chất pha lỏng\n@Lĩnh vực: điện lạnh\n-thiết bị ngưng\n@Chuyên ngành kỹ thuật\n-thiết bị hóa lỏng khí\n@Lĩnh vực: hóa học & vật liệu\n-chất pha lỏng\n@Lĩnh vực: điện lạnh\n-thiết bị ngưng
-
+liquefier	@Chuyên ngành kinh tế
+-thiết bị hóa lỏng
+@Chuyên ngành kỹ thuật
+-thiết bị hóa lỏng khí
+@Lĩnh vực: hóa học & vật liệu
+-chất pha lỏng
+@Lĩnh vực: điện lạnh
+-thiết bị ngưng
+@Chuyên ngành kỹ thuật
+-thiết bị hóa lỏng khí
+@Lĩnh vực: hóa học & vật liệu
+-chất pha lỏng
+@Lĩnh vực: điện lạnh
+-thiết bị ngưng

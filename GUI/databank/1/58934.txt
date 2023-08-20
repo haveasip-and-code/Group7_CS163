@@ -1,3 +1,16 @@
-uncoated
-	@uncoated\n* tính từ\n- không mặc áo khoác, không mặc áo choàng\n- không tô màu\n- không ốp mặt, không lát mặt\n@Chuyên ngành kinh tế\n-không che đậy\n-không có lớp phủ\n@Chuyên ngành kỹ thuật\n-để trần\n-không bọc\n-không mạ\n-không phủ\n@Lĩnh vực: xây dựng\n-không lớp bảo vệ\n-không sơn phủ
-
+uncoated	@uncoated
+* tính từ
+- không mặc áo khoác, không mặc áo choàng
+- không tô màu
+- không ốp mặt, không lát mặt
+@Chuyên ngành kinh tế
+-không che đậy
+-không có lớp phủ
+@Chuyên ngành kỹ thuật
+-để trần
+-không bọc
+-không mạ
+-không phủ
+@Lĩnh vực: xây dựng
+-không lớp bảo vệ
+-không sơn phủ

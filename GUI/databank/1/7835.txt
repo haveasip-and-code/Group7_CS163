@@ -1,3 +1,10 @@
-capacitor
-	@capacitor\n- (Tech) bộ điện dung, cái tụ điện\n@Chuyên ngành kỹ thuật\n-bộ tụ điện\n-từ\n@Lĩnh vực: toán & tin\n-bình ngưng hơi\n@Lĩnh vực: cơ khí & công trình\n-thiết bị ngưng
-
+capacitor	
+@capacitor
+- (Tech) bộ điện dung, cái tụ điện
+@Chuyên ngành kỹ thuật
+-bộ tụ điện
+-từ
+@Lĩnh vực: toán & tin
+-bình ngưng hơi
+@Lĩnh vực: cơ khí & công trình
+-thiết bị ngưng

@@ -1,3 +1,11 @@
-proprietor
-	@proprietor /proprietor/\n*  danh từ\n- chủ, người sở hữu\n@Chuyên ngành kinh tế\n-chủ nhân\n-nghiệp chủ\n-người chủ\n-người có của\n-người sở hữu\n@Chuyên ngành kỹ thuật\n-chủ tài sản
-
+proprietor	@proprietor /proprietor/
+*  danh từ
+- chủ, người sở hữu
+@Chuyên ngành kinh tế
+-chủ nhân
+-nghiệp chủ
+-người chủ
+-người có của
+-người sở hữu
+@Chuyên ngành kỹ thuật
+-chủ tài sản

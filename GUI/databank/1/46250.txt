@@ -1,3 +1,13 @@
-reeling
-	@Chuyên ngành kỹ thuật\n-sự cuộn\n-sự cuộn dây\n-sự guồng\n@Lĩnh vực: xây dựng\n-cuộn (dây) sự quấn\n-kiểu quấn\n-sự quấn dây cáp\n@Lĩnh vực: điện\n-sự guông dây\n@Lĩnh vực: hóa học & vật liệu\n-sự luồn\n-sự xỏ dây (qua ròng rọc)
-
+reeling	@Chuyên ngành kỹ thuật
+-sự cuộn
+-sự cuộn dây
+-sự guồng
+@Lĩnh vực: xây dựng
+-cuộn (dây) sự quấn
+-kiểu quấn
+-sự quấn dây cáp
+@Lĩnh vực: điện
+-sự guông dây
+@Lĩnh vực: hóa học & vật liệu
+-sự luồn
+-sự xỏ dây (qua ròng rọc)

@@ -1,3 +1,5 @@
-medicament
-	@medicament /me'dikəmənt/\n*  danh từ\n- (thuộc) dược phẩm\n@Chuyên ngành kỹ thuật\n-dược phẩm
-
+medicament	@medicament /me'dikəmənt/
+*  danh từ
+- (thuộc) dược phẩm
+@Chuyên ngành kỹ thuật
+-dược phẩm

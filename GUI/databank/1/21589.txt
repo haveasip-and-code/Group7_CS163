@@ -1,3 +1,6 @@
-fluidize
-	@fluidize\n* ngoại động từ\n- hoá lỏng\n- tạo tầng sôi\n- sự giả hoá lỏng
-
+fluidize	
+@fluidize
+* ngoại động từ
+- hoá lỏng
+- tạo tầng sôi
+- sự giả hoá lỏng

@@ -1,3 +1,8 @@
-configure
-	@configure /kən'figə/\n*  ngoại động từ\n- định hình thể, cho một hình dạng\n@Chuyên ngành kỹ thuật\n-cấu hình\n@Lĩnh vực: toán & tin\n-tạo cấu hình\n-thiết lập cấu hình
-
+configure	@configure /kən'figə/
+*  ngoại động từ
+- định hình thể, cho một hình dạng
+@Chuyên ngành kỹ thuật
+-cấu hình
+@Lĩnh vực: toán & tin
+-tạo cấu hình
+-thiết lập cấu hình

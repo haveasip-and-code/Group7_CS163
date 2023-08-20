@@ -1,3 +1,2 @@
-promotability
-	@promotability\n- xem promote
-
+promotability	@promotability
+- xem promote

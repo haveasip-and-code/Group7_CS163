@@ -1,3 +1,12 @@
-kern
-	@kern /kə:n/ (kerne) /kə:n/\n*  danh từ\n- (sử học) lính bộ Ai-len\n- người nông dân; người quê mùa\n@Chuyên ngành kỹ thuật\n-co giãn\n-nhân\n-phần chìa\n@Chuyên ngành kỹ thuật\n-co giãn\n-nhân\n-phần chìa
-
+kern	@kern /kə:n/ (kerne) /kə:n/
+*  danh từ
+- (sử học) lính bộ Ai-len
+- người nông dân; người quê mùa
+@Chuyên ngành kỹ thuật
+-co giãn
+-nhân
+-phần chìa
+@Chuyên ngành kỹ thuật
+-co giãn
+-nhân
+-phần chìa

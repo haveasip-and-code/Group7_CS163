@@ -1,3 +1,45 @@
-dull
-	@dull /dʌl/\n*  tính từ\n- chậm hiểu, tối dạ, ngu đần, đần độn\n- không tinh, mờ (mắt); không thính, nghễnh ngãng (tai)\n=to be dull of ear+ nghễnh ngãng; tai nghe không thính\n- vô tri vô giác (vật)\n=dull stones+ những hòn đá vô tri vô giác\n- cùn (dao...)\n- đục, mờ đục, xỉn, xám xịt\n=dull colour+ màu xám, xám xịt lại\n=dull light+ ánh sang mờ đục\n- cảm thấy lờ mờ, cảm thấy không rõ rệt, âm ỉ\n=dull pain+ đau âm ỉ\n- thẫn thờ, uể oải, chậm chạp (người, vật)\n- ứ đọng, trì chậm, bán không chạy, ế\n=dull goods+ hàng bán không chạy, hàng ế\n=dull trade+ việc buôn bán trì chậm\n- đều đều, buồn tẻ, chán ngắt, tẻ ngắt, buồn nản\n=a dull life+ cuộc sống buồn tẻ\n=a dull sermon+ bài thuyết giáo chán ngắt\n=to feet dull+ cảm thấy buồn nản\n- tối tăm, âm u, u ám, ảm đạm\n=dull weather+ tiết trời u ám\n*  ngoại động từ\n- làm ngu đàn, làm đần dộn\n- làm cùn\n- làm mờ đi, làm mờ đục, làm xỉn\n- làm âm ỉ, làm đỡ nhức nhối, làm đỡ nhói (cơn đau)\n- làm buồn nản\n- làm tối tăm, làm u ám, làm ảm đạm\n*  nội động từ\n- hoá ngu đần, đần độn\n- cùn đi\n- mờ đi, mờ đục, xỉn đi\n- âm ỉ, đỡ nhức nhối, đỡ đau (cơn đau)\n- tối sầm lại, thành u ám, thành ảm đạm\n@Chuyên ngành kinh tế\n-giá thị trường đều đều\n-mờ nhạt\n@Chuyên ngành kỹ thuật\n-đục\n-mờ\n@Lĩnh vực: y học\n-đục (tiếng)
-
+dull	
+@dull /dʌl/
+*  tính từ
+- chậm hiểu, tối dạ, ngu đần, đần độn
+- không tinh, mờ (mắt); không thính, nghễnh ngãng (tai)=to be dull of ear
++ nghễnh ngãng; tai nghe không thính
+- vô tri vô giác (vật)=dull stones
++ những hòn đá vô tri vô giác
+- cùn (dao...)
+- đục, mờ đục, xỉn, xám xịt=dull colour
++ màu xám, xám xịt lại=dull light
++ ánh sang mờ đục
+- cảm thấy lờ mờ, cảm thấy không rõ rệt, âm ỉ=dull pain
++ đau âm ỉ
+- thẫn thờ, uể oải, chậm chạp (người, vật)
+- ứ đọng, trì chậm, bán không chạy, ế=dull goods
++ hàng bán không chạy, hàng ế=dull trade
++ việc buôn bán trì chậm
+- đều đều, buồn tẻ, chán ngắt, tẻ ngắt, buồn nản=a dull life
++ cuộc sống buồn tẻ=a dull sermon
++ bài thuyết giáo chán ngắt=to feet dull
++ cảm thấy buồn nản
+- tối tăm, âm u, u ám, ảm đạm=dull weather
++ tiết trời u ám
+*  ngoại động từ
+- làm ngu đàn, làm đần dộn
+- làm cùn
+- làm mờ đi, làm mờ đục, làm xỉn
+- làm âm ỉ, làm đỡ nhức nhối, làm đỡ nhói (cơn đau)
+- làm buồn nản
+- làm tối tăm, làm u ám, làm ảm đạm
+*  nội động từ
+- hoá ngu đần, đần độn
+- cùn đi
+- mờ đi, mờ đục, xỉn đi
+- âm ỉ, đỡ nhức nhối, đỡ đau (cơn đau)
+- tối sầm lại, thành u ám, thành ảm đạm
+@Chuyên ngành kinh tế
+-giá thị trường đều đều
+-mờ nhạt
+@Chuyên ngành kỹ thuật
+-đục
+-mờ
+@Lĩnh vực: y học
+-đục (tiếng)

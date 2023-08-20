@@ -1,3 +1,4 @@
-bicaudal
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-có hai đuôi
-
+bicaudal	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-có hai đuôi

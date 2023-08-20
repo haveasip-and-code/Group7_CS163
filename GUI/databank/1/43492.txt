@@ -1,3 +1,16 @@
-pretend
-	@pretend /pri'tend/\n*  ngoại động từ\n- làm ra vẻ, giả vờ, giả đò, giả bộ, giả cách\n=to pretend illness+ giả cách ốm, làm ra vẻ ốm\n=to pretend that one is asleep; to pretend to be asleep+ làm ra vẻ đang ngủ\n- lấy cớ\n=to pretend that...+ lấy cớ là...\n- có tham vọng, có kỳ vọng, có ý muốn; có ý dám (làm gì...)\n*  nội động từ\n- giả vờ, giả đò, giả bộ, giả cách\n=he is only pretending+ hắn ta chỉ gỉa vờ, hắn ta chỉ làm ra vẻ thế thôi\n- (+ to) đòi hỏi, yêu sách, yêu cầu, xin; cầu\n=to pretend go to a right+ đòi quyền lợi\n=to pretend to someone's hand+ cầu hôn ai\n- (+ to) tự phụ có, làm ra bộ có, lên mặt có\n=to pretend to elegance+ lên mặt là thanh lịch
-
+pretend	@pretend /pri'tend/
+*  ngoại động từ
+- làm ra vẻ, giả vờ, giả đò, giả bộ, giả cách
+=to pretend illness+ giả cách ốm, làm ra vẻ ốm
+=to pretend that one is asleep; to pretend to be asleep+ làm ra vẻ đang ngủ
+- lấy cớ
+=to pretend that...+ lấy cớ là...
+- có tham vọng, có kỳ vọng, có ý muốn; có ý dám (làm gì...)
+*  nội động từ
+- giả vờ, giả đò, giả bộ, giả cách
+=he is only pretending+ hắn ta chỉ gỉa vờ, hắn ta chỉ làm ra vẻ thế thôi
+- (+ to) đòi hỏi, yêu sách, yêu cầu, xin; cầu
+=to pretend go to a right+ đòi quyền lợi
+=to pretend to someone's hand+ cầu hôn ai
+- (+ to) tự phụ có, làm ra bộ có, lên mặt có
+=to pretend to elegance+ lên mặt là thanh lịch

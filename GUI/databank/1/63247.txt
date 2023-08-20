@@ -1,3 +1,17 @@
-workable
-	@workable /'wə:kəbl/\n*  tính từ\n- có thể làm được, có thể thực hiện được, dễ thực hiện\n=a workable plan+ một kế hoạch có thể thực hiện được\n- dễ dùng, dễ cho chạy, dễ điều khiển\n=a workable tool+ một dụng cụ dễ dùng\n- dễ khai thác\n- dễ bị ảnh hưởng, dễ sai khiến, dễ điều khiển (người)\n@Chuyên ngành kinh tế\n-có thể thực hiện được\n@Chuyên ngành kỹ thuật\n-có thể khai thác\n@Lĩnh vực: hóa học & vật liệu\n-có thể gia công\n@Lĩnh vực: xây dựng\n-dễ đổ (bê tông)\n-gia công được
-
+workable	@workable /'wə:kəbl/
+*  tính từ
+- có thể làm được, có thể thực hiện được, dễ thực hiện
+=a workable plan+ một kế hoạch có thể thực hiện được
+- dễ dùng, dễ cho chạy, dễ điều khiển
+=a workable tool+ một dụng cụ dễ dùng
+- dễ khai thác
+- dễ bị ảnh hưởng, dễ sai khiến, dễ điều khiển (người)
+@Chuyên ngành kinh tế
+-có thể thực hiện được
+@Chuyên ngành kỹ thuật
+-có thể khai thác
+@Lĩnh vực: hóa học & vật liệu
+-có thể gia công
+@Lĩnh vực: xây dựng
+-dễ đổ (bê tông)
+-gia công được

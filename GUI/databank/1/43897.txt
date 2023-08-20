@@ -1,3 +1,13 @@
-prognosis
-	@prognosis /prognosis/\n*  danh từ,  số nhiều prognoses\n/prɔg'nousi:z/\n- (y học) dự đoán (về sự tiến triển của bệnh), tiên lượng\n@Chuyên ngành kỹ thuật\n-dự báo\n-sự dự báo\n-sự dự đoán\n-tiên đoán\n@Lĩnh vực: toán & tin\n-dự báo, tiên đoán\n@Lĩnh vực: y học\n-tiên lượng
-
+prognosis	@prognosis /prognosis/
+*  danh từ,  số nhiều prognoses
+/prɔg'nousi:z/
+- (y học) dự đoán (về sự tiến triển của bệnh), tiên lượng
+@Chuyên ngành kỹ thuật
+-dự báo
+-sự dự báo
+-sự dự đoán
+-tiên đoán
+@Lĩnh vực: toán & tin
+-dự báo, tiên đoán
+@Lĩnh vực: y học
+-tiên lượng

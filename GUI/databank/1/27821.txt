@@ -1,3 +1,23 @@
-include
-	@include /in'klu:d/\n*  ngoại động từ\n- bao gồm, gồm có\n=his conclusion includes all our ideas+ kết luận của ông ta bao gồm tất cả ý kiến của chúng tôi\n- tính đến, kể cả\n@Chuyên ngành kinh tế\n-bao gồm\n-bao quát\n@Chuyên ngành kỹ thuật\n-bao gồm\n-bao hàm\n-chèn\n-chứa\n-đưa vào\n-được cài đặt sẵn\n-vây quanh\n@Lĩnh vực: toán & tin\n-chứa trong\n@Lĩnh vực: xây dựng\n-gồm có\n-gộp vào\n-rào quanh
-
+include	
+@include /in'klu:d/
+*  ngoại động từ
+- bao gồm, gồm có=his conclusion includes all our ideas
++ kết luận của ông ta bao gồm tất cả ý kiến của chúng tôi
+- tính đến, kể cả
+@Chuyên ngành kinh tế
+-bao gồm
+-bao quát
+@Chuyên ngành kỹ thuật
+-bao gồm
+-bao hàm
+-chèn
+-chứa
+-đưa vào
+-được cài đặt sẵn
+-vây quanh
+@Lĩnh vực: toán & tin
+-chứa trong
+@Lĩnh vực: xây dựng
+-gồm có
+-gộp vào
+-rào quanh

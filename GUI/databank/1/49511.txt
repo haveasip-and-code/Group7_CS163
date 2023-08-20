@@ -1,3 +1,4 @@
-sectoring
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự chia sector\n-sự định cung từ
-
+sectoring	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự chia sector
+-sự định cung từ

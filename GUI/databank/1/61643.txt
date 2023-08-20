@@ -1,3 +1,5 @@
-vested
-	@vested /'vestid/\n*  tính từ\n- được trao cho, được ban cho, được phong cho\n- (thuộc) quyền sở hữu bất di bất dịch\n=vested interests+ quyền lợi được đảm bảo bất di bất dịch
-
+vested	@vested /'vestid/
+*  tính từ
+- được trao cho, được ban cho, được phong cho
+- (thuộc) quyền sở hữu bất di bất dịch
+=vested interests+ quyền lợi được đảm bảo bất di bất dịch

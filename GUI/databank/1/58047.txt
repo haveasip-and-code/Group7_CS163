@@ -1,3 +1,15 @@
-trussing
-	@trussing\n* danh từ\n- (kiến trúc) các bộ phận làm thành cái giàn\n- cái khung của một kiến trúc\n@Chuyên ngành kỹ thuật\n-dầm\n-giàn\n-giàn khớp\n-giàn mắt cáo\n-hệ chịu lực\n-hệ giàn\n-khung sườn\n-vì kèo\n@Lĩnh vực: xây dựng\n-mạng giàn
-
+trussing	@trussing
+* danh từ
+- (kiến trúc) các bộ phận làm thành cái giàn
+- cái khung của một kiến trúc
+@Chuyên ngành kỹ thuật
+-dầm
+-giàn
+-giàn khớp
+-giàn mắt cáo
+-hệ chịu lực
+-hệ giàn
+-khung sườn
+-vì kèo
+@Lĩnh vực: xây dựng
+-mạng giàn

@@ -1,3 +1,40 @@
-parcel
-	@parcel /'pɑ:sl/\n*  danh từ\n- gói; bưu kiện ((cũng) postal parcel)\n- (thương nghiệp) chuyển hàng (số hàng trong một lần giao dịch)\n- mảnh đất, miếng đất\n- (từ cổ,nghĩa cổ) phần\n=part and parcel+ bộ phận khắng khít (của một vật)\n- (từ Mỹ,nghĩa Mỹ) lũ, bọn, bầy\n=a parcel of fools+ một lũ ngốc\n*  ngoại động từ\n- chia thành từng phần ((thường) to parcel out)\n- (hàng hải) che (đường xảm tàu) bằng dải vải bạt có nhựa đường; bọc (dây châo...) bằng dải vải bạt có nhựa đường\n*  phó từ\n- (từ cổ,nghĩa cổ) phần nào\n=parcel gilt+ mạ vàng một phần\n=a parcel gilt cup+ cái cốc mạ vàng bên trong\n=parcel blind+ nửa mù, mù dở\n@Chuyên ngành kinh tế\n-bọc\n-chia miếng\n-gói\n-gói lại thành gói\n-kiện nhỏ (gửi qua bưu điện, tàu hỏa, máy bay)\n-lô\n-lô hàng nhỏ\n-mảnh\n-một ô (chứng khoán)\n-phân lô\n-thửa (đất)\n@Chuyên ngành kỹ thuật\n-bưu kiện\n-lô hàng gửi\n-lượng (nhỏ)\n-mảnh đất\n-mẫu\n@Lĩnh vực: giao thông & vận tải\n-bó hàng gửi\n@Lĩnh vực: cơ khí & công trình\n-gói hàng\n-khoảnh ruộng
-
+parcel	@parcel /'pɑ:sl/
+*  danh từ
+- gói; bưu kiện ((cũng) postal parcel)
+- (thương nghiệp) chuyển hàng (số hàng trong một lần giao dịch)
+- mảnh đất, miếng đất
+- (từ cổ,nghĩa cổ) phần
+=part and parcel+ bộ phận khắng khít (của một vật)
+- (từ Mỹ,nghĩa Mỹ) lũ, bọn, bầy
+=a parcel of fools+ một lũ ngốc
+*  ngoại động từ
+- chia thành từng phần ((thường) to parcel out)
+- (hàng hải) che (đường xảm tàu) bằng dải vải bạt có nhựa đường; bọc (dây châo...) bằng dải vải bạt có nhựa đường
+*  phó từ
+- (từ cổ,nghĩa cổ) phần nào
+=parcel gilt+ mạ vàng một phần
+=a parcel gilt cup+ cái cốc mạ vàng bên trong
+=parcel blind+ nửa mù, mù dở
+@Chuyên ngành kinh tế
+-bọc
+-chia miếng
+-gói
+-gói lại thành gói
+-kiện nhỏ (gửi qua bưu điện, tàu hỏa, máy bay)
+-lô
+-lô hàng nhỏ
+-mảnh
+-một ô (chứng khoán)
+-phân lô
+-thửa (đất)
+@Chuyên ngành kỹ thuật
+-bưu kiện
+-lô hàng gửi
+-lượng (nhỏ)
+-mảnh đất
+-mẫu
+@Lĩnh vực: giao thông & vận tải
+-bó hàng gửi
+@Lĩnh vực: cơ khí & công trình
+-gói hàng
+-khoảnh ruộng

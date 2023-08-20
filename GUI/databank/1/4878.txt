@@ -1,3 +1,46 @@
-bat
-	@bat /bæt/\n*  danh từ\n- (thể dục,thể thao) gây (đánh bóng chày,  crikê); (từ cổ,nghĩa cổ) vợt (quần vợt)\n- vận động viên bóng chày, vận động viên crikê ((cũng) bat sman)\n- (từ lóng) cú đánh bất ngờ\n- bàn đập (của thợ giặt)\n!to be at bat\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giữ một vị trí quan trọng (đánh bóng chày)\n- (nghĩa bóng) giữ vai trò quan trọng\n!to carry [out] one's bat\n- thắng, giành được thắng lợi, không bị loại khỏi vòng\n!to come to bat\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gặp phải một vấn đề khó khăn hóc búa; phải qua một thử thách gay go\n!to go to the bat with somebody\n- thi đấu với ai\n!off one's own bat\n- một mình không có ai giúp đỡ, đơn thương độc mã\n!right off the bat\n- (từ Mỹ,nghĩa Mỹ) ngay lập tức, không chậm trễ\n*  ngoại động từ\n- (thể dục,thể thao) đánh bằng gậy (bóng chày Ãcrikê)\n- đánh\n*  danh từ\n- (động vật học) con dơi\n!as blind as a bat\n- mù tịt\n!to have bats in one's belfry\n- gàn, dở hơi\n!like a bat out of hell\n- thật nhanh ba chân bốn cẳng\n*  danh từ\n- (từ lóng) bước đi, dáng đi\n!at a good (rare) bat\n- thật nhanh\n!to go full bat\n- (từ Mỹ,nghĩa Mỹ) đi thật nhanh, ba chân bốn cẳng\n*  danh từ\n- the bat (Anh,  Ân) (thông tục) tiếng nói, ngôn ngữ nói\n!to sling the bat\n- (quân sự),  (từ lóng) nói tiếng nước ngoài\n*  ngoại động từ\n- nháy (mắt)\n=to bat one's eyes+ nháy mắt\n!not to bat an eyelid\n- không chợp mắt được lúc nào\n- cứ điềm nhiên, cứ phớt tỉnh\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự chè chén linh đình; sự ăn chơi phóng đãng\n=to go on a bat+ chè chén linh đình; ăn chơi phóng đãng\n*  danh từ\n- (viết tắt) của battery (quân sự) khẩu đội (pháo)\n@Chuyên ngành kỹ thuật\n-con dơi\n-gạch khuyết\n-gạch vỡ\n@Lĩnh vực: xây dựng\n-gạch nửa viên\n-viên gạch nửa
-
+bat	
+@bat /bæt/
+*  danh từ
+- (thể dục,thể thao) gây (đánh bóng chày,  crikê); (từ cổ,nghĩa cổ) vợt (quần vợt)
+- vận động viên bóng chày, vận động viên crikê ((cũng) bat sman)
+- (từ lóng) cú đánh bất ngờ
+- bàn đập (của thợ giặt)!to be at bat
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giữ một vị trí quan trọng (đánh bóng chày)
+- (nghĩa bóng) giữ vai trò quan trọng!to carry [out] one's bat
+- thắng, giành được thắng lợi, không bị loại khỏi vòng!to come to bat
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gặp phải một vấn đề khó khăn hóc búa; phải qua một thử thách gay go!to go to the bat with somebody
+- thi đấu với ai!off one's own bat
+- một mình không có ai giúp đỡ, đơn thương độc mã!right off the bat
+- (từ Mỹ,nghĩa Mỹ) ngay lập tức, không chậm trễ
+*  ngoại động từ
+- (thể dục,thể thao) đánh bằng gậy (bóng chày Ãcrikê)
+- đánh
+*  danh từ
+- (động vật học) con dơi!as blind as a bat
+- mù tịt!to have bats in one's belfry
+- gàn, dở hơi!like a bat out of hell
+- thật nhanh ba chân bốn cẳng
+*  danh từ
+- (từ lóng) bước đi, dáng đi!at a good (rare) bat
+- thật nhanh!to go full bat
+- (từ Mỹ,nghĩa Mỹ) đi thật nhanh, ba chân bốn cẳng
+*  danh từ
+- the bat (Anh,  Ân) (thông tục) tiếng nói, ngôn ngữ nói!to sling the bat
+- (quân sự),  (từ lóng) nói tiếng nước ngoài
+*  ngoại động từ
+- nháy (mắt)=to bat one's eyes
++ nháy mắt!not to bat an eyelid
+- không chợp mắt được lúc nào
+- cứ điềm nhiên, cứ phớt tỉnh
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự chè chén linh đình; sự ăn chơi phóng đãng=to go on a bat
++ chè chén linh đình; ăn chơi phóng đãng
+*  danh từ
+- (viết tắt) của battery (quân sự) khẩu đội (pháo)
+@Chuyên ngành kỹ thuật
+-con dơi
+-gạch khuyết
+-gạch vỡ
+@Lĩnh vực: xây dựng
+-gạch nửa viên
+-viên gạch nửa

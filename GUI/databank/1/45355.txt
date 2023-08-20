@@ -1,3 +1,4 @@
-radiationless
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không bức xạ\n-phi bức xạ
-
+radiationless	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không bức xạ
+-phi bức xạ

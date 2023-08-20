@@ -1,3 +1,7 @@
-pimple
-	@pimple /'pimpl/\n*  danh từ\n- mụn nhọt\n=to come out in pimples+ nổi đầy mụn nhọt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nốt mủ
-
+pimple	@pimple /'pimpl/
+*  danh từ
+- mụn nhọt
+=to come out in pimples+ nổi đầy mụn nhọt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nốt mủ

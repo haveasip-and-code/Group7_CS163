@@ -1,3 +1,5 @@
-siting
-	@siting\n* danh từ\n- sự chọn địa điểm\n@Chuyên ngành kỹ thuật\n-sự vạch tuyến
-
+siting	@siting
+* danh từ
+- sự chọn địa điểm
+@Chuyên ngành kỹ thuật
+-sự vạch tuyến

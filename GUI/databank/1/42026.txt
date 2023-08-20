@@ -1,3 +1,7 @@
-pleater
-	@pleater\n- xem pleat\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-máy gấp vải\n-máy gấp xếp\n-máy xếp nếp
-
+pleater	@pleater
+- xem pleat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+-máy gấp vải
+-máy gấp xếp
+-máy xếp nếp

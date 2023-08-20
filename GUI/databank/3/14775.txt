@@ -1,3 +1,2 @@
-designatory
-	@designatory\n- xem designate
-
+designatory	@designatory
+- xem designate

@@ -1,3 +1,4 @@
-frenchify
-	@frenchify /'frentʃifai/\n*  tính từ\n- pháp hoá
-
+frenchify	
+@frenchify /'frentʃifai/
+*  tính từ
+- pháp hoá

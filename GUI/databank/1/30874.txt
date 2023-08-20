@@ -1,3 +1,2 @@
-keyboardist
-	@keyboardist\n- xem keyboard
-
+keyboardist	@keyboardist
+- xem keyboard

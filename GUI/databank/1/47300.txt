@@ -1,3 +1,7 @@
-rethread
-	@rethread\n* ngoại động từ\n- (ngành dệt) mắc lại sợi\n- (kỹ thuật) ren lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ren lại
-
+rethread	@rethread
+* ngoại động từ
+- (ngành dệt) mắc lại sợi
+- (kỹ thuật) ren lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-ren lại

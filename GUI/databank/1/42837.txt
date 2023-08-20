@@ -1,3 +1,5 @@
-potentiometric
-	@potentiometric\n- xem potentiometer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thuộc phép đo hiệu điện thế
-
+potentiometric	@potentiometric
+- xem potentiometer
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-thuộc phép đo hiệu điện thế

@@ -1,3 +1,29 @@
-substance
-	@substance /'sʌbstəns/\n*  danh từ\n- chất, vật chất\n- thực chất, căn bản, bản chất\n=the substance of religion+ thực chất của tôn giáo\n=I agree with you in substance+ tôi đồng ý với anh về căn bản\n- nội dung, đại ý\n=the substance is good+ nội dung thì tốt\n- tính chất đúng, tính chất chắc, tính có giá trị\n=an argument of little substance+ một lý lẽ không chắc\n- của cải; tài sản\n=a man of substance+ người có của\n=to waste one's substance+ phung phí tiền của\n- (triết học) thực thể\n!to throw away the substance for the shadow\n- thả mồi bắt bóng\n@Chuyên ngành kinh tế\n-chất\n-của cải\n-tiền bạc\n@Chuyên ngành kỹ thuật\n-bản chất\n-chất lượng, bản chất\n-nội dung\n-vật chất\n@Lĩnh vực: y học\n-chất\n@Lĩnh vực: điện lạnh\n-khối chất
-
+substance	@substance /'sʌbstəns/
+*  danh từ
+- chất, vật chất
+- thực chất, căn bản, bản chất
+=the substance of religion+ thực chất của tôn giáo
+=I agree with you in substance+ tôi đồng ý với anh về căn bản
+- nội dung, đại ý
+=the substance is good+ nội dung thì tốt
+- tính chất đúng, tính chất chắc, tính có giá trị
+=an argument of little substance+ một lý lẽ không chắc
+- của cải; tài sản
+=a man of substance+ người có của
+=to waste one's substance+ phung phí tiền của
+- (triết học) thực thể
+!to throw away the substance for the shadow
+- thả mồi bắt bóng
+@Chuyên ngành kinh tế
+-chất
+-của cải
+-tiền bạc
+@Chuyên ngành kỹ thuật
+-bản chất
+-chất lượng, bản chất
+-nội dung
+-vật chất
+@Lĩnh vực: y học
+-chất
+@Lĩnh vực: điện lạnh
+-khối chất

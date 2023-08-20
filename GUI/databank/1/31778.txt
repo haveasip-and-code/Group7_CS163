@@ -1,3 +1,10 @@
-leaseholder
-	@leaseholder /'li:s,houldə/\n*  danh từ\n- bất động sản thuê có hợp đồng\n- sự thuê có hợp đồng\n*  danh từ\n- người thuê\n@Chuyên ngành kinh tế\n-người thuê (đất)\n-người thuê có hợp đồng\n-người thuê theo hợp đồng
-
+leaseholder	@leaseholder /'li:s,houldə/
+*  danh từ
+- bất động sản thuê có hợp đồng
+- sự thuê có hợp đồng
+*  danh từ
+- người thuê
+@Chuyên ngành kinh tế
+-người thuê (đất)
+-người thuê có hợp đồng
+-người thuê theo hợp đồng

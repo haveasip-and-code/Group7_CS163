@@ -1,3 +1,4 @@
-sawtooth
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-có hình răng cưa\n-răng cưa
-
+sawtooth	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-có hình răng cưa
+-răng cưa

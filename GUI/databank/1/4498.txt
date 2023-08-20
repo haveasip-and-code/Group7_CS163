@@ -1,3 +1,4 @@
-baize
-	@baize /beiz/\n*  danh từ\n- vải len tuyết dài (để bọc bàn ghế)
-
+baize	
+@baize /beiz/
+*  danh từ
+- vải len tuyết dài (để bọc bàn ghế)

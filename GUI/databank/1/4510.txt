@@ -1,3 +1,20 @@
-balancing
-	@balancing\n- (Tech) làm cân bằng\n@Chuyên ngành kinh tế\n-quyết toán\n-sự cân đối\n@Chuyên ngành kỹ thuật\n-điều chỉnh\n-làm cho cân bằng\n-sự bù\n-sự điều chỉnh\n-sự làm cân bằng\n@Lĩnh vực: xây dựng\n-sự bình sai\n@Lĩnh vực: vật lý\n-sự bổ chính\n@Lĩnh vực: cơ khí & công trình\n-sự cân bằng\n-sự làm đối trọng\n-sự làm thăng bằng
-
+balancing	
+@balancing
+- (Tech) làm cân bằng
+@Chuyên ngành kinh tế
+-quyết toán
+-sự cân đối
+@Chuyên ngành kỹ thuật
+-điều chỉnh
+-làm cho cân bằng
+-sự bù
+-sự điều chỉnh
+-sự làm cân bằng
+@Lĩnh vực: xây dựng
+-sự bình sai
+@Lĩnh vực: vật lý
+-sự bổ chính
+@Lĩnh vực: cơ khí & công trình
+-sự cân bằng
+-sự làm đối trọng
+-sự làm thăng bằng

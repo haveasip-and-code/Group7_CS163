@@ -1,3 +1,9 @@
-tweeter
-	@tweeter\n* danh từ\n- loa giọng kim, loa túyt tơ (loa cỡ nhỏ phát ra âm thanh cao)\n@Chuyên ngành kỹ thuật\n-loa âm tần cao\n-loa giọng kim\n-loa lợi bổng\n@Lĩnh vực: điện\n-loa cao tần
-
+tweeter	@tweeter
+* danh từ
+- loa giọng kim, loa túyt tơ (loa cỡ nhỏ phát ra âm thanh cao)
+@Chuyên ngành kỹ thuật
+-loa âm tần cao
+-loa giọng kim
+-loa lợi bổng
+@Lĩnh vực: điện
+-loa cao tần

@@ -1,3 +1,8 @@
-unloaded
-	@Chuyên ngành kỹ thuật\n-đã dỡ tải\n-được dỡ hàng\n-được dỡ tải\n@Lĩnh vực: xây dựng\n-đã dỡ hàng\n@Lĩnh vực: cơ khí & công trình\n-không bị tải
-
+unloaded	@Chuyên ngành kỹ thuật
+-đã dỡ tải
+-được dỡ hàng
+-được dỡ tải
+@Lĩnh vực: xây dựng
+-đã dỡ hàng
+@Lĩnh vực: cơ khí & công trình
+-không bị tải

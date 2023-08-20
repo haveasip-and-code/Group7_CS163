@@ -1,3 +1,28 @@
-charging
-	@charging\n- (Tech) nạp; tính tiền\n@Chuyên ngành kinh tế\n-giá tiền\n-sự chở\n-sự mở mang\n-sự nạp chuyển\n@Chuyên ngành kỹ thuật\n-chất tải\n-lượng tải\n-mẻ liệu\n-phụ tải\n-sự chất tải\n-sự đặt\n-sự đặt tải\n-sự nạp\n-sự nạp điện\n-sự nạp liệu\n-sự nạp mìn\n-sự trả tiền\n@Lĩnh vực: điện lạnh\n-sự định giá cước\n@Lĩnh vực: xây dựng\n-sự nạp thuốc nổ\n@Lĩnh vực: điện tử & viễn thông\n-sự tính phí tổn\n@Lĩnh vực: điện\n-việc nạp điện
-
+charging	@charging
+- (Tech) nạp; tính tiền
+@Chuyên ngành kinh tế
+-giá tiền
+-sự chở
+-sự mở mang
+-sự nạp chuyển
+@Chuyên ngành kỹ thuật
+-chất tải
+-lượng tải
+-mẻ liệu
+-phụ tải
+-sự chất tải
+-sự đặt
+-sự đặt tải
+-sự nạp
+-sự nạp điện
+-sự nạp liệu
+-sự nạp mìn
+-sự trả tiền
+@Lĩnh vực: điện lạnh
+-sự định giá cước
+@Lĩnh vực: xây dựng
+-sự nạp thuốc nổ
+@Lĩnh vực: điện tử & viễn thông
+-sự tính phí tổn
+@Lĩnh vực: điện
+-việc nạp điện

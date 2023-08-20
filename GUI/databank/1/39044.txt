@@ -1,3 +1,7 @@
-overwriting
-	@Chuyên ngành kỹ thuật\n-ghi đè\n@Lĩnh vực: toán & tin\n-chế độ ghi đè\n-chế độ viết đè\n-sự ghi chồng\n-sự ghi đè
-
+overwriting	@Chuyên ngành kỹ thuật
+-ghi đè
+@Lĩnh vực: toán & tin
+-chế độ ghi đè
+-chế độ viết đè
+-sự ghi chồng
+-sự ghi đè

@@ -1,3 +1,5 @@
-ped
-	@ped\n* danh từ\n- cái giỏ\n@Chuyên ngành kỹ thuật\n-chốt gỗ
-
+ped	@ped
+* danh từ
+- cái giỏ
+@Chuyên ngành kỹ thuật
+-chốt gỗ

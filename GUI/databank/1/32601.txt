@@ -1,3 +1,14 @@
-locus
-	@locus /'loukəs/\n*  danh từ,  số nhiều loci  /'lousai/\n- địa điểm, nơi, chỗ\n- (toán học) quỹ tích\n@Chuyên ngành kỹ thuật\n-quỹ đạo\n-quỹ tích\n-tốc độ\n-vị trí\n@Chuyên ngành kỹ thuật\n-quỹ đạo\n-quỹ tích\n-tốc độ\n-vị trí
-
+locus	@locus /'loukəs/
+*  danh từ,  số nhiều loci  /'lousai/
+- địa điểm, nơi, chỗ
+- (toán học) quỹ tích
+@Chuyên ngành kỹ thuật
+-quỹ đạo
+-quỹ tích
+-tốc độ
+-vị trí
+@Chuyên ngành kỹ thuật
+-quỹ đạo
+-quỹ tích
+-tốc độ
+-vị trí

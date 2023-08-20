@@ -1,3 +1,9 @@
-entrainer
-	@entrainer\n- xem entrain\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phụ gia entrainer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phụ gia entrainer
-
+entrainer	
+@entrainer
+- xem entrain
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phụ gia entrainer
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phụ gia entrainer

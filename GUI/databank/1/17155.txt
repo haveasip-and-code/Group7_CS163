@@ -1,3 +1,4 @@
-dystaxia
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-loạn điều hòa vận động
-
+dystaxia	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-loạn điều hòa vận động

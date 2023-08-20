@@ -1,3 +1,2 @@
-pearlized
-	@pearlized\n- xem pearlised
-
+pearlized	@pearlized
+- xem pearlised

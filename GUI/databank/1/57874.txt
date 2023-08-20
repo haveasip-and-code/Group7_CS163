@@ -1,3 +1,4 @@
-trite
-	@trite /trait/\n*  tính từ\n- cũ rích, cũ kỹ, lặp đi lặp lại, sáo, nhàm\n=a trite idea+ một ý kiến lặp đi lặp lại
-
+trite	@trite /trait/
+*  tính từ
+- cũ rích, cũ kỹ, lặp đi lặp lại, sáo, nhàm
+=a trite idea+ một ý kiến lặp đi lặp lại

@@ -1,3 +1,2 @@
-pervader
-	@pervader\n- xem pervade
-
+pervader	@pervader
+- xem pervade

@@ -1,3 +1,12 @@
-pincers
-	@pincers /'pinsəz/\n*  danh từ số nhiều\n- cái kìm ((cũng) a pair of pincers,  pinchers)\n- càng cua, càng tôm\n- (quân sự),  (như) pincers_movement,  pincers_attack\n@Chuyên ngành kỹ thuật\n-cái cặp\n-cái kẹp\n-kẹp\n-kìm\n-kìm bấm\n-kìm cắt
-
+pincers	@pincers /'pinsəz/
+*  danh từ số nhiều
+- cái kìm ((cũng) a pair of pincers,  pinchers)
+- càng cua, càng tôm
+- (quân sự),  (như) pincers_movement,  pincers_attack
+@Chuyên ngành kỹ thuật
+-cái cặp
+-cái kẹp
+-kẹp
+-kìm
+-kìm bấm
+-kìm cắt

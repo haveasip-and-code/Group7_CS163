@@ -1,3 +1,10 @@
-contaminant
-	@contaminant\n* danh từ\n- chất gây ô nhiễm\n@Chuyên ngành kỹ thuật\n-chất độc\n-tạp chất\n@Lĩnh vực: hóa học & vật liệu\n-chất làm ô nhiễm\n@Lĩnh vực: y học\n-chất lây truyền, chất ô nhiễm
-
+contaminant	@contaminant
+* danh từ
+- chất gây ô nhiễm
+@Chuyên ngành kỹ thuật
+-chất độc
+-tạp chất
+@Lĩnh vực: hóa học & vật liệu
+-chất làm ô nhiễm
+@Lĩnh vực: y học
+-chất lây truyền, chất ô nhiễm

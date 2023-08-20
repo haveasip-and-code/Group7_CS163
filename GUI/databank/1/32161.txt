@@ -1,3 +1,12 @@
-lifeline
-	@Chuyên ngành kỹ thuật\n-cáp bảo hiểm\n@Lĩnh vực: xây dựng\n-dây bảo hiểm\n@Lĩnh vực: giao thông & vận tải\n-dây cứu sinh\n@Chuyên ngành kỹ thuật\n-cáp bảo hiểm\n@Lĩnh vực: xây dựng\n-dây bảo hiểm\n@Lĩnh vực: giao thông & vận tải\n-dây cứu sinh
-
+lifeline	@Chuyên ngành kỹ thuật
+-cáp bảo hiểm
+@Lĩnh vực: xây dựng
+-dây bảo hiểm
+@Lĩnh vực: giao thông & vận tải
+-dây cứu sinh
+@Chuyên ngành kỹ thuật
+-cáp bảo hiểm
+@Lĩnh vực: xây dựng
+-dây bảo hiểm
+@Lĩnh vực: giao thông & vận tải
+-dây cứu sinh

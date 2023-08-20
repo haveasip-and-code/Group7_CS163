@@ -1,3 +1,9 @@
-spurn
-	@spurn /spə:n/\n*  danh từ\n- sự đá đi, sự hất đi\n- sự bác bỏ; sự vứt bỏ, sự hắt hủi\n*  ngoại động từ\n- đẩy lui, đá lui\n- bác bỏ; vứt bỏ, hắt hủi\n*  nội động từ\n- hắt hủi, vứt bỏ tỏ ý khinh bỉ
-
+spurn	@spurn /spə:n/
+*  danh từ
+- sự đá đi, sự hất đi
+- sự bác bỏ; sự vứt bỏ, sự hắt hủi
+*  ngoại động từ
+- đẩy lui, đá lui
+- bác bỏ; vứt bỏ, hắt hủi
+*  nội động từ
+- hắt hủi, vứt bỏ tỏ ý khinh bỉ

@@ -1,3 +1,24 @@
-elementary
-	@elementary /,eli'mentəri/\n*  danh từ\n- cơ bản, sơ yếu\n- (hoá học) không phân tách được\n!elementary school\n- trường cấp hai\n@Chuyên ngành kỹ thuật\n-bản\n-cơ bản\n-cơ sở\n-nguyên tố\n-sở\n-sơ cấp\n@Lĩnh vực: điện lạnh\n-sơ đẳng\n@Chuyên ngành kỹ thuật\n-bản\n-cơ bản\n-cơ sở\n-nguyên tố\n-sở\n-sơ cấp\n@Lĩnh vực: điện lạnh\n-sơ đẳng
-
+elementary	
+@elementary /,eli'mentəri/
+*  danh từ
+- cơ bản, sơ yếu
+- (hoá học) không phân tách được!elementary school
+- trường cấp hai
+@Chuyên ngành kỹ thuật
+-bản
+-cơ bản
+-cơ sở
+-nguyên tố
+-sở
+-sơ cấp
+@Lĩnh vực: điện lạnh
+-sơ đẳng
+@Chuyên ngành kỹ thuật
+-bản
+-cơ bản
+-cơ sở
+-nguyên tố
+-sở
+-sơ cấp
+@Lĩnh vực: điện lạnh
+-sơ đẳng

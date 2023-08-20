@@ -1,3 +1,4 @@
-catchpoll
-	@catchpoll\n* danh từ\n- người thu thuế
-
+catchpoll	
+@catchpoll
+* danh từ
+- người thu thuế

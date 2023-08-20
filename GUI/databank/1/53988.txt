@@ -1,3 +1,6 @@
-subcommittee
-	@subcommittee\n* danh từ\n- phân ban, tiểu ban (trong một ủy ban)\n@Chuyên ngành kinh tế\n-phân ban\n-tiểu ban
-
+subcommittee	@subcommittee
+* danh từ
+- phân ban, tiểu ban (trong một ủy ban)
+@Chuyên ngành kinh tế
+-phân ban
+-tiểu ban

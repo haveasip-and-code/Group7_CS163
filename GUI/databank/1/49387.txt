@@ -1,3 +1,30 @@
-sea
-	@sea /si:/\n*  danh từ\n- biển\n=by sea+ bằng đường biển\n=mistress of the seas+ cường quốc làm chủ mặt biển\n=sea like a looking-glass+ biển yên gió lặng\n- sóng biển\n=to ship a sea+ bị một ngọn sóng làm ngập (tàu...)\n- biển (khoảng rộng như biển); nhiều (về số lượng)\n=a sea of flame+ một biển lửa\n=seas of blood+ máu chảy thành sông; (nghĩa bóng) sự chém giết tàn nhẫn\n=a sea of troubles+ nhiều chuyện phiền hà\n!at sea\n- ở ngoài khơi\n- (nghĩa bóng) hoang mang, bối rối, không hiểu ra thế nào, không biết làm thế nào\n!to go to sea\n- trở thành thuỷ thủ\n!to follow the sea\n- làm nghề thuỷ thủ\n!to put to sea\n- ra khơi\n!half seas over\n- quá chén\n@Chuyên ngành kinh tế\n-biển\n@Chuyên ngành kỹ thuật\n-bể\n-biển\n-đại dương\n-sóng biển
-
+sea	@sea /si:/
+*  danh từ
+- biển
+=by sea+ bằng đường biển
+=mistress of the seas+ cường quốc làm chủ mặt biển
+=sea like a looking-glass+ biển yên gió lặng
+- sóng biển
+=to ship a sea+ bị một ngọn sóng làm ngập (tàu...)
+- biển (khoảng rộng như biển); nhiều (về số lượng)
+=a sea of flame+ một biển lửa
+=seas of blood+ máu chảy thành sông; (nghĩa bóng) sự chém giết tàn nhẫn
+=a sea of troubles+ nhiều chuyện phiền hà
+!at sea
+- ở ngoài khơi
+- (nghĩa bóng) hoang mang, bối rối, không hiểu ra thế nào, không biết làm thế nào
+!to go to sea
+- trở thành thuỷ thủ
+!to follow the sea
+- làm nghề thuỷ thủ
+!to put to sea
+- ra khơi
+!half seas over
+- quá chén
+@Chuyên ngành kinh tế
+-biển
+@Chuyên ngành kỹ thuật
+-bể
+-biển
+-đại dương
+-sóng biển

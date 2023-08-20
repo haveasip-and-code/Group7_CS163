@@ -1,3 +1,10 @@
-tribune
-	@tribune /'tribju:n/\n*  danh từ\n- (sử học) quan bảo dân\n- diễn đàn\n- khán đài\n@Chuyên ngành kỹ thuật\n-diễn đàn\n-khán đài\n-lễ đài\n-vũ đài
-
+tribune	@tribune /'tribju:n/
+*  danh từ
+- (sử học) quan bảo dân
+- diễn đàn
+- khán đài
+@Chuyên ngành kỹ thuật
+-diễn đàn
+-khán đài
+-lễ đài
+-vũ đài

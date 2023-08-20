@@ -1,3 +1,3 @@
-exorciser
-	@exorciser\n- xem exorcise
-
+exorciser	
+@exorciser
+- xem exorcise

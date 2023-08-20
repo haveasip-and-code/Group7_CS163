@@ -1,3 +1,34 @@
-answer
-	@answer /'ɑ:nsə/\n*  danh từ\n- sự trả lời; câu trả lời; thư trả lời; lời đối đáp\n=to give an answer to somebody about something+ trả lời ai về việc gì\n=in answer to someone's letter+ để trả lời thư của ai\n=to know all the answers+ đối đáp nhanh, lúc nào cũng sẵn câu đối đáp\n- điều đáp lại, việc làm đáp lại\n- lời biện bác, lời biện bạch\n- (thể dục,thể thao) miếng đánh trả (đấu kiếm)\n- (toán học) phép giải; lời giải\n*  động từ\n- trả lời, đáp lại; thưa\n=to answer [to] someone+ trả lời ai\n=to answer [to] someone's question+ trả lời câu hỏi của ai\n=to answer to the name of X+ thưa khi gọi tên là X\n=to answer the door+ ra mở cửa\n- biện bác\n=to answer a charge+ biện bác chống lại một sự tố cáo\n- chịu trách nhiệm; đảm bảo, bảo lãnh\n=to answer for one's action+ chịu trách nhiệm về những hành động của mình\n=to answer for someone+ bảo đảm cho ai\n- xứng với, đúng với, đáp ứng\n=to answer [to] one's hopes+ đúng với (đáp ứng) nguyện vọng của mình\n=to answer [to] one's expectation+ xứng với điều mong muốn của mình\n- thành công có kết quả\n=his plan won't answer+ kế hoạch của nó sẽ không thành\n!to answer back\n- (thông tục) cãi lại\n@Chuyên ngành kỹ thuật\n-đáp lại\n-lời đáp\n-sự trả lời\n@Lĩnh vực: toán & tin\n-câu trả lời
-
+answer	
+@answer /'ɑ:nsə/
+*  danh từ
+- sự trả lời; câu trả lời; thư trả lời; lời đối đáp=to give an answer to somebody about something
++ trả lời ai về việc gì=in answer to someone's letter
++ để trả lời thư của ai=to know all the answers
++ đối đáp nhanh, lúc nào cũng sẵn câu đối đáp
+- điều đáp lại, việc làm đáp lại
+- lời biện bác, lời biện bạch
+- (thể dục,thể thao) miếng đánh trả (đấu kiếm)
+- (toán học) phép giải; lời giải
+*  động từ
+- trả lời, đáp lại; thưa=to answer [to] someone
++ trả lời ai=to answer [to] someone's question
++ trả lời câu hỏi của ai=to answer to the name of X
++ thưa khi gọi tên là X=to answer the door
++ ra mở cửa
+- biện bác=to answer a charge
++ biện bác chống lại một sự tố cáo
+- chịu trách nhiệm; đảm bảo, bảo lãnh=to answer for one's action
++ chịu trách nhiệm về những hành động của mình=to answer for someone
++ bảo đảm cho ai
+- xứng với, đúng với, đáp ứng=to answer [to] one's hopes
++ đúng với (đáp ứng) nguyện vọng của mình=to answer [to] one's expectation
++ xứng với điều mong muốn của mình
+- thành công có kết quả=his plan won't answer
++ kế hoạch của nó sẽ không thành!to answer back
+- (thông tục) cãi lại
+@Chuyên ngành kỹ thuật
+-đáp lại
+-lời đáp
+-sự trả lời
+@Lĩnh vực: toán & tin
+-câu trả lời

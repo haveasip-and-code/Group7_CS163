@@ -1,3 +1,6 @@
-shiftable
-	@shiftable\n* tính từ\n- xe dịch được; có thể xê dịch\n@Chuyên ngành kỹ thuật\n-có thể di chuyển\n-có thể di động
-
+shiftable	@shiftable
+* tính từ
+- xe dịch được; có thể xê dịch
+@Chuyên ngành kỹ thuật
+-có thể di chuyển
+-có thể di động

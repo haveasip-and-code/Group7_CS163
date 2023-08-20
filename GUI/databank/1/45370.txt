@@ -1,3 +1,14 @@
-radio
-	@radio /'reidiai/\n*  danh từ\n- rađiô\n- máy thu thanh, máy rađiô\n*  động từ\n- truyền đi bằng rađiô, thông tin bằng rađiô, phát thanh bằng rađiô; đánh điện bằng rađiô (cho ai)\n@Chuyên ngành kỹ thuật\n-kỹ thuật vô tuyến\n-ngành vô tuyến\n-máy thu thanh\n-rađiô\n-vô tuyến điện\n@Lĩnh vực: điện tử & viễn thông\n-vô tuyến
-
+radio	@radio /'reidiai/
+*  danh từ
+- rađiô
+- máy thu thanh, máy rađiô
+*  động từ
+- truyền đi bằng rađiô, thông tin bằng rađiô, phát thanh bằng rađiô; đánh điện bằng rađiô (cho ai)
+@Chuyên ngành kỹ thuật
+-kỹ thuật vô tuyến
+-ngành vô tuyến
+-máy thu thanh
+-rađiô
+-vô tuyến điện
+@Lĩnh vực: điện tử & viễn thông
+-vô tuyến

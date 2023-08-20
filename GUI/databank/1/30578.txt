@@ -1,3 +1,22 @@
-judgment
-	@judgment /'dʤʌdʤmənt/ (judgement) /'dʤʌdʤmənt/\n*  danh từ\n- sự xét xử\n=to pass (give, render) judgment on someone+ xét xử ai\n- quyết định của toà; phán quyết, án\n=the last judgment+ (tôn giáo) phán quyết cuối cùng (của Chúa)\n- sự trừng phạt, sự trừng trị; điều bất hạnh (coi như sự trừng phạt của trời)\n=your failure is a judgment on you for being so lazy+ sự thất bại của anh là một trừng phạt đối với cái tội lười biếng của anh đấy\n- sự phê bình, sự chỉ trích\n- ý kiến, cách nhìn, sự đánh giá\n=in my judgment+ theo ý kiến tôi\n- óc phán đoán, sức phán đoán, óc suy xét; lương tri\n=to show good judgment+ tỏ ra có óc suy xét\n=a man of sound judgment+ người có óc suy xét chắc chắn; người biết suy xét\n@Chuyên ngành kinh tế\n-án quyết\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự phán đoán\n-sự tranh luận\n-sự xét xử
-
+judgment	
+@judgment /'dʤʌdʤmənt/ (judgement) /'dʤʌdʤmənt/
+*  danh từ
+- sự xét xử=to pass (give, render) judgment on someone
++ xét xử ai
+- quyết định của toà; phán quyết, án=the last judgment
++ (tôn giáo) phán quyết cuối cùng (của Chúa)
+- sự trừng phạt, sự trừng trị; điều bất hạnh (coi như sự trừng phạt của trời)=your failure is a judgment on you for being so lazy
++ sự thất bại của anh là một trừng phạt đối với cái tội lười biếng của anh đấy
+- sự phê bình, sự chỉ trích
+- ý kiến, cách nhìn, sự đánh giá=in my judgment
++ theo ý kiến tôi
+- óc phán đoán, sức phán đoán, óc suy xét; lương tri=to show good judgment
++ tỏ ra có óc suy xét=a man of sound judgment
++ người có óc suy xét chắc chắn; người biết suy xét
+@Chuyên ngành kinh tế
+-án quyết
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự phán đoán
+-sự tranh luận
+-sự xét xử

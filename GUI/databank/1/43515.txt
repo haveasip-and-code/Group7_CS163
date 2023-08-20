@@ -1,3 +1,2 @@
-pretreat
-	@Chuyên ngành kỹ thuật\n-xử lý sơ bộ
-
+pretreat	@Chuyên ngành kỹ thuật
+-xử lý sơ bộ

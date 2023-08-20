@@ -1,3 +1,4 @@
-sheller
-	@Chuyên ngành kinh tế\n-cối xay\n-máy bóc vỏ\n-máy xát vỏ
-
+sheller	@Chuyên ngành kinh tế
+-cối xay
+-máy bóc vỏ
+-máy xát vỏ

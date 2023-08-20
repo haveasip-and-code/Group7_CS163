@@ -1,3 +1,26 @@
-direction
-	@direction /di'rekʃn/\n*  danh từ\n- sự điều khiển, sự chỉ huy, sự cai quản\n=to assume the direction of an affair+ nắm quyền điều khiển một công việc\n- ((thường) số nhiều) lời chỉ bảo, lời hướng dẫn, chỉ thị, huấn thị\n=directions for use+ lời hướng dẫn cách dùng\n=to give directions+ ra chỉ thị\n- phương hướng, chiều, phía, ngả\n=in the direction of...+ về hướng (phía...)\n- mặt, phương diện\n=improvement in many directions+ sự cải tiến về nhiều mặt\n- (như) directorate\n@Chuyên ngành kinh tế\n-chỉ huy\n-phương hướng\n-sự điều khiển\n@Chuyên ngành kỹ thuật\n-định hướng\n-hướng\n-phương\n-phương hướng\n-sự chỉ dẫn\n-sự điều hành\n@Lĩnh vực: điện lạnh\n-hướng đẩy ra\n-hướng xả
-
+direction	@direction /di'rekʃn/
+*  danh từ
+- sự điều khiển, sự chỉ huy, sự cai quản
+=to assume the direction of an affair+ nắm quyền điều khiển một công việc
+- ((thường) số nhiều) lời chỉ bảo, lời hướng dẫn, chỉ thị, huấn thị
+=directions for use+ lời hướng dẫn cách dùng
+=to give directions+ ra chỉ thị
+- phương hướng, chiều, phía, ngả
+=in the direction of...+ về hướng (phía...)
+- mặt, phương diện
+=improvement in many directions+ sự cải tiến về nhiều mặt
+- (như) directorate
+@Chuyên ngành kinh tế
+-chỉ huy
+-phương hướng
+-sự điều khiển
+@Chuyên ngành kỹ thuật
+-định hướng
+-hướng
+-phương
+-phương hướng
+-sự chỉ dẫn
+-sự điều hành
+@Lĩnh vực: điện lạnh
+-hướng đẩy ra
+-hướng xả

@@ -1,3 +1,5 @@
-dampening
-	@Chuyên ngành kỹ thuật\n-làm ẩm\n-sự làm ẩm\n@Lĩnh vực: xây dựng\n-sự ẩm
-
+dampening	@Chuyên ngành kỹ thuật
+-làm ẩm
+-sự làm ẩm
+@Lĩnh vực: xây dựng
+-sự ẩm

@@ -1,3 +1,4 @@
-sulfinyl
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sunfinyl\n-sunphinyl
-
+sulfinyl	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sunfinyl
+-sunphinyl

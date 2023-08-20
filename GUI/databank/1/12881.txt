@@ -1,3 +1,6 @@
-cryoprobe
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-que thăm cryo\n@Lĩnh vực: y học\n-que tỏa lạnh
-
+cryoprobe	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-que thăm cryo
+@Lĩnh vực: y học
+-que tỏa lạnh

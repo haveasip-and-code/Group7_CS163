@@ -1,3 +1,62 @@
-passage
-	@passage /'pæsidʤ/\n*  danh từ\n- sự đi qua, sự trôi qua\n=the passage of time+ thời gian trôi qua\n- lối đi\n=to force a passage through the crowd+ lách lấy lối đi qua đám đông\n- hành lang\n- quyền đi qua (một nơi nào...)\n- (nghĩa bóng) sự chuyển qua\n=the passage from poverty to great wealth+ sự chuyển từ cảnh nghèo nàn sang cảnh hết sức giàu có\n- chuyến đi (tàu biển, máy bay)\n=a rough passage+ một chuyến đi khó khăn vì biển động\n=to book [one's] passage to+ ghi tên mua vé dành chỗ đi\n- đoạn (bài văn, sách...)\n=a famour passage+ một đoạn văn nổi tiếng\n=a difficult passage+ một đoạn khó khăn\n- sự thông qua (một dự luật...)\n- (số nhiều) quan hệ giữa hai người; sự chuyện trò trao đổi giữa hai người; chuyện trò tri kỷ giữa hai người\n=to have stormy passages with somebody+ trao đổi tranh luận sôi nổi với ai\n- (âm nhạc) nét lướt\n- (từ Mỹ,nghĩa Mỹ) sự đi ỉa\n!bird of passage\n- (xem) bird\n!passage of (at) arms\n- (thường) (nghĩa bóng) trận đánh; cuộc va chạm, cuộc cãi cọ\n*  nội động từ\n- đi né sang một bên (ngựa, người cưỡi ngựa)\n*  ngoại động từ\n- làm cho (ngựa) đi né sang một bên\n@Chuyên ngành kinh tế\n-chuyến đi\n-sự chấp thuận\n-sự đi qua (của tàu biển)\n-sự lui tới\n-sự thông qua (một đạo luật)\n-thông qua (một đạo luật ...)\n@Chuyên ngành kỹ thuật\n-cầu vượt\n-đường dẫn\n-đường thông\n-đường vượt\n-đường xoi\n-hành lang\n-hành trình\n-lỗ rãnh\n-lối đi\n-ngõ\n-ống dẫn\n-ống nối chuyển tiếp\n-phòng đệm\n-rãnh\n-sự đi qua\n-sự truyền qua\n-sự xuyên qua\n-truyền qua\n-tuyến đường biển\n@Lĩnh vực: y học\n-đại tiện\n-dẫn\n-đường, đường dẫn\n@Lĩnh vực: xây dựng\n-sự đi lại
-
+passage	@passage /'pæsidʤ/
+*  danh từ
+- sự đi qua, sự trôi qua
+=the passage of time+ thời gian trôi qua
+- lối đi
+=to force a passage through the crowd+ lách lấy lối đi qua đám đông
+- hành lang
+- quyền đi qua (một nơi nào...)
+- (nghĩa bóng) sự chuyển qua
+=the passage from poverty to great wealth+ sự chuyển từ cảnh nghèo nàn sang cảnh hết sức giàu có
+- chuyến đi (tàu biển, máy bay)
+=a rough passage+ một chuyến đi khó khăn vì biển động
+=to book [one's] passage to+ ghi tên mua vé dành chỗ đi
+- đoạn (bài văn, sách...)
+=a famour passage+ một đoạn văn nổi tiếng
+=a difficult passage+ một đoạn khó khăn
+- sự thông qua (một dự luật...)
+- (số nhiều) quan hệ giữa hai người; sự chuyện trò trao đổi giữa hai người; chuyện trò tri kỷ giữa hai người
+=to have stormy passages with somebody+ trao đổi tranh luận sôi nổi với ai
+- (âm nhạc) nét lướt
+- (từ Mỹ,nghĩa Mỹ) sự đi ỉa
+!bird of passage
+- (xem) bird
+!passage of (at) arms
+- (thường) (nghĩa bóng) trận đánh; cuộc va chạm, cuộc cãi cọ
+*  nội động từ
+- đi né sang một bên (ngựa, người cưỡi ngựa)
+*  ngoại động từ
+- làm cho (ngựa) đi né sang một bên
+@Chuyên ngành kinh tế
+-chuyến đi
+-sự chấp thuận
+-sự đi qua (của tàu biển)
+-sự lui tới
+-sự thông qua (một đạo luật)
+-thông qua (một đạo luật ...)
+@Chuyên ngành kỹ thuật
+-cầu vượt
+-đường dẫn
+-đường thông
+-đường vượt
+-đường xoi
+-hành lang
+-hành trình
+-lỗ rãnh
+-lối đi
+-ngõ
+-ống dẫn
+-ống nối chuyển tiếp
+-phòng đệm
+-rãnh
+-sự đi qua
+-sự truyền qua
+-sự xuyên qua
+-truyền qua
+-tuyến đường biển
+@Lĩnh vực: y học
+-đại tiện
+-dẫn
+-đường, đường dẫn
+@Lĩnh vực: xây dựng
+-sự đi lại

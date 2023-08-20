@@ -1,3 +1,7 @@
-outgas
-	@outgas\n* danh từ\n- khí thải\n@Chuyên ngành kỹ thuật\n-khí thải\n-loại bỏ khí\n-nhả khí
-
+outgas	@outgas
+* danh từ
+- khí thải
+@Chuyên ngành kỹ thuật
+-khí thải
+-loại bỏ khí
+-nhả khí

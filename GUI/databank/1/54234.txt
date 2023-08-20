@@ -1,3 +1,5 @@
-substituent
-	@Chuyên ngành kinh tế\n-chất thay thế\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cái thế
-
+substituent	@Chuyên ngành kinh tế
+-chất thay thế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cái thế

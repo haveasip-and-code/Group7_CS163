@@ -1,3 +1,4 @@
-agranulocytosis
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chứng mất hạt bạch cầu
-
+agranulocytosis	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chứng mất hạt bạch cầu

@@ -1,3 +1,22 @@
-tram
-	@tram /træm/\n*  danh từ\n- sợi tơ (để dệt nhung, lụa)\n- sợi khổ (của nhung, lụa)\n*  danh từ\n- xe điện ((cũng) tram-car; (từ Mỹ,nghĩa Mỹ) streetcar)\n- đường xe điện\n- xe goòng (chở than...)\n*  động từ\n- đi xe điện\n- chở bằng goòng\n@Chuyên ngành kinh tế\n-xe lôi\n@Chuyên ngành kỹ thuật\n-đườn tàu điện\n-đường tàu điện\n-toa tàu điện\n-xe điện\n@Lĩnh vực: xây dựng\n-toa xe\n@Lĩnh vực: ô tô\n-xe goòng (ở mỏ)
-
+tram	@tram /træm/
+*  danh từ
+- sợi tơ (để dệt nhung, lụa)
+- sợi khổ (của nhung, lụa)
+*  danh từ
+- xe điện ((cũng) tram-car; (từ Mỹ,nghĩa Mỹ) streetcar)
+- đường xe điện
+- xe goòng (chở than...)
+*  động từ
+- đi xe điện
+- chở bằng goòng
+@Chuyên ngành kinh tế
+-xe lôi
+@Chuyên ngành kỹ thuật
+-đườn tàu điện
+-đường tàu điện
+-toa tàu điện
+-xe điện
+@Lĩnh vực: xây dựng
+-toa xe
+@Lĩnh vực: ô tô
+-xe goòng (ở mỏ)

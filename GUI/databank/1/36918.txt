@@ -1,3 +1,6 @@
-nonagon
-	@nonagon\n* danh từ\n- cửu giác (hình 9 cạnh)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình chín cạnh
-
+nonagon	@nonagon
+* danh từ
+- cửu giác (hình 9 cạnh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình chín cạnh

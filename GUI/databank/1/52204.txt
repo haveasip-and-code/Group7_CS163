@@ -1,3 +1,2 @@
-specialization
-	@specialization\n- sự chuyên môn hoá
-
+specialization	@specialization
+- sự chuyên môn hoá

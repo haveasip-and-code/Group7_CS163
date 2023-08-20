@@ -1,3 +1,21 @@
-impost
-	@impost /'impoust/\n*  danh từ\n- thuế nhập hàng, thuế nhập khẩu; thuế hải quan\n- (từ lóng) trọng lượng chấp (đeo thêm vào ngựa trong một cuộc chạy đua cố chấp)\n- chân vòm\n@Chuyên ngành kinh tế\n-đánh thuế\n-phân loại để đánh giá thu thuế\n-thuế\n-thuế nhập khẩu\n-thuế quan\n@Chuyên ngành kỹ thuật\n-chân vòm\n-thanh chống\n@Lĩnh vực: xây dựng\n-chân (cột)\n-chắn song (cửa sổ)\n-chấn song nguyên\n-đá kê chân cột\n-đế (cột)
-
+impost	
+@impost /'impoust/
+*  danh từ
+- thuế nhập hàng, thuế nhập khẩu; thuế hải quan
+- (từ lóng) trọng lượng chấp (đeo thêm vào ngựa trong một cuộc chạy đua cố chấp)
+- chân vòm
+@Chuyên ngành kinh tế
+-đánh thuế
+-phân loại để đánh giá thu thuế
+-thuế
+-thuế nhập khẩu
+-thuế quan
+@Chuyên ngành kỹ thuật
+-chân vòm
+-thanh chống
+@Lĩnh vực: xây dựng
+-chân (cột)
+-chắn song (cửa sổ)
+-chấn song nguyên
+-đá kê chân cột
+-đế (cột)

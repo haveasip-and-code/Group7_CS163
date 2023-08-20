@@ -1,3 +1,25 @@
-rejection
-	@rejection /ri'dʤekʃn/\n*  danh từ\n- sự không chấp nhận, sự bác bỏ, sự từ chối\n- sự loại bỏ, sự loại ra\n- (số nhiều) vật bỏ đi, vật bị loại\n@Chuyên ngành kinh tế\n-hàng loại bỏ\n-hàng vứt đi\n-phế phẩm\n-sự loại bỏ\n-sự từ chối, cự tuyệt\n-sự vứt bỏ\n-thứ phẩm\n@Chuyên ngành kỹ thuật\n-phế phẩm\n-sự loại bỏ\n-sự lựa chọn\n-sự từ chối\n@Lĩnh vực: điện tử & viễn thông\n-độ loại trừ (khuếch đại vi sai)\n-sự loại bỏ (kỹ thuật máy tính)\n@Lĩnh vực: xây dựng\n-không chấp nhận\n@Lĩnh vực: toán & tin\n-sự bác bỏ
-
+rejection	@rejection /ri'dʤekʃn/
+*  danh từ
+- sự không chấp nhận, sự bác bỏ, sự từ chối
+- sự loại bỏ, sự loại ra
+- (số nhiều) vật bỏ đi, vật bị loại
+@Chuyên ngành kinh tế
+-hàng loại bỏ
+-hàng vứt đi
+-phế phẩm
+-sự loại bỏ
+-sự từ chối, cự tuyệt
+-sự vứt bỏ
+-thứ phẩm
+@Chuyên ngành kỹ thuật
+-phế phẩm
+-sự loại bỏ
+-sự lựa chọn
+-sự từ chối
+@Lĩnh vực: điện tử & viễn thông
+-độ loại trừ (khuếch đại vi sai)
+-sự loại bỏ (kỹ thuật máy tính)
+@Lĩnh vực: xây dựng
+-không chấp nhận
+@Lĩnh vực: toán & tin
+-sự bác bỏ

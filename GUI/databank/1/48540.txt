@@ -1,3 +1,30 @@
-salvage
-	@salvage /'sælvidʤ/\n*  danh từ\n- tiền trả cứu tàu (cho hãng bảo hiểm)\n- sự cứu tàu (khỏi đắm, khỏi hoả hoạn...); sự cứu chạy (đồ đạc trong một vụ cháy nhà)\n- tài sản cứu được, đồ đạc cứu được\n- sự tận dụng giấy lộn (sắt vụn)\n- giấy lộn (sắt vụn...) được tận dụng\n*  ngoại động từ\n- cứu khỏi đắm, cứu khỏi hoả hoạn\n@Chuyên ngành kinh tế\n-sữa có vị muối\n@Chuyên ngành kỹ thuật\n-nước mặn\n-phoi\n-sắt vụn\n-sự cứu nạn\n-sự cứu sinh\n@Lĩnh vực: giao thông & vận tải\n-cứu nạn\n-sự cứu nguy (trường hợp khẩn cấp)\n-sự cứu tàu (hàng hải)\n-tài sản được cứu\n-tàu được cứu\n@Lĩnh vực: cơ khí & công trình\n-kim loại vụn\n-thép vụn\n@Lĩnh vực: xây dựng\n-phế liệu (tân dụng được)\n-sống ở biển\n-sống ở nước mặn
-
+salvage	@salvage /'sælvidʤ/
+*  danh từ
+- tiền trả cứu tàu (cho hãng bảo hiểm)
+- sự cứu tàu (khỏi đắm, khỏi hoả hoạn...); sự cứu chạy (đồ đạc trong một vụ cháy nhà)
+- tài sản cứu được, đồ đạc cứu được
+- sự tận dụng giấy lộn (sắt vụn)
+- giấy lộn (sắt vụn...) được tận dụng
+*  ngoại động từ
+- cứu khỏi đắm, cứu khỏi hoả hoạn
+@Chuyên ngành kinh tế
+-sữa có vị muối
+@Chuyên ngành kỹ thuật
+-nước mặn
+-phoi
+-sắt vụn
+-sự cứu nạn
+-sự cứu sinh
+@Lĩnh vực: giao thông & vận tải
+-cứu nạn
+-sự cứu nguy (trường hợp khẩn cấp)
+-sự cứu tàu (hàng hải)
+-tài sản được cứu
+-tàu được cứu
+@Lĩnh vực: cơ khí & công trình
+-kim loại vụn
+-thép vụn
+@Lĩnh vực: xây dựng
+-phế liệu (tân dụng được)
+-sống ở biển
+-sống ở nước mặn

@@ -1,3 +1,10 @@
-reentry
-	@reentry\n* danh từ\n- sự lại trở vào\n- sự trở về quyển khí trái đất (của vệ tinh...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự quay trở lại\n-sự vào lại\n@Lĩnh vực: điện tử & viễn thông\n-vào lại
-
+reentry	@reentry
+* danh từ
+- sự lại trở vào
+- sự trở về quyển khí trái đất (của vệ tinh...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự quay trở lại
+-sự vào lại
+@Lĩnh vực: điện tử & viễn thông
+-vào lại

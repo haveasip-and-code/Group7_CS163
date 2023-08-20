@@ -1,3 +1,12 @@
-defensive
-	@defensive /di'fensiv/\n*  tính từ\n- có tính chất bảo vệ, có tính chất phòng thủ, có tính chất chống giữ; để che chở, để bảo vệ, để phòng thủ\n=a defensive weapon+ vũ khí để bảo vệ\n=defensive warfare+ chiến tranh tự vệ\n=to take defensive measure+ có những biện pháp phòng thủ\n*  danh từ\n- thế thủ, thế phòng ngự\n=to stand (be) on the defensive+ giữ thế thủ, giữ thế phòng ngự\n=to act on the defensive+ hành động trong thế phòng ngự\n@Chuyên ngành kỹ thuật\n-phòng thủ
-
+defensive	@defensive /di'fensiv/
+*  tính từ
+- có tính chất bảo vệ, có tính chất phòng thủ, có tính chất chống giữ; để che chở, để bảo vệ, để phòng thủ
+=a defensive weapon+ vũ khí để bảo vệ
+=defensive warfare+ chiến tranh tự vệ
+=to take defensive measure+ có những biện pháp phòng thủ
+*  danh từ
+- thế thủ, thế phòng ngự
+=to stand (be) on the defensive+ giữ thế thủ, giữ thế phòng ngự
+=to act on the defensive+ hành động trong thế phòng ngự
+@Chuyên ngành kỹ thuật
+-phòng thủ

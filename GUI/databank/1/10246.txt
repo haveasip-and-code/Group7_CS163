@@ -1,3 +1,58 @@
-collapse
-	@collapse /kə'læps/\n*  nội động từ\n- đổ, sập, sụp, đổ sập\n=the house collapsed+ căn nhà đổ sập\n- gãy vụn, gãy tan\n=the chair collapsed+ chiếc ghế gãy tan\n- suy sụp, sụp đổ\n=health collapses+ sức khoẻ suy sụp\n=plan collapses+ kế hoạch sụp đổ\n- sụt giá, phá giá (tiền)\n- xẹp, xì hơi (lốp xe...)\n- ngã quỵ xuống, gục (vì suy nhược)\n- méo mó, cong oằn lại (vành bánh xe)\n@Chuyên ngành kinh tế\n-kết tủa\n-lắng\n-sự kết tủa\n-sự lắng\n-sự sụp đổ\n-tan vỡ (nhất là thị trường cổ phiếu)\n@Chuyên ngành kỹ thuật\n-co rút\n-đổ\n-làm cong vênh\n-làm oằn\n-làm sụp đổ\n-lở\n-phá hoại\n-phá hỏng\n-sự chồn\n-sự đổ\n-sự hỏng\n-sự mất ổn định\n-sự oằn\n-sự phá hủy\n-sự phá sập\n-sự sập\n-sự sụp đổ\n-sự sụt\n-sự sụt lở\n-sự uốn dọc\n-sụp đổ\n-sụt\n@Lĩnh vực: toán & tin\n-che lấp\n-thu bớt\n@Lĩnh vực: xây dựng\n-độ lún sụt\n-sự sập đổ\n@Lĩnh vực: cơ khí & công trình\n-làm lún\n@Lĩnh vực: điện lạnh\n-sự suy sụp\n@Lĩnh vực: y học\n-sự xẹp, trụy\n@Lĩnh vực: hóa học & vật liệu\n-sụp
-
+collapse	
+@collapse /kə'læps/
+*  nội động từ
+- đổ, sập, sụp, đổ sập=the house collapsed
++ căn nhà đổ sập
+- gãy vụn, gãy tan=the chair collapsed
++ chiếc ghế gãy tan
+- suy sụp, sụp đổ=health collapses
++ sức khoẻ suy sụp=plan collapses
++ kế hoạch sụp đổ
+- sụt giá, phá giá (tiền)
+- xẹp, xì hơi (lốp xe...)
+- ngã quỵ xuống, gục (vì suy nhược)
+- méo mó, cong oằn lại (vành bánh xe)
+@Chuyên ngành kinh tế
+-kết tủa
+-lắng
+-sự kết tủa
+-sự lắng
+-sự sụp đổ
+-tan vỡ (nhất là thị trường cổ phiếu)
+@Chuyên ngành kỹ thuật
+-co rút
+-đổ
+-làm cong vênh
+-làm oằn
+-làm sụp đổ
+-lở
+-phá hoại
+-phá hỏng
+-sự chồn
+-sự đổ
+-sự hỏng
+-sự mất ổn định
+-sự oằn
+-sự phá hủy
+-sự phá sập
+-sự sập
+-sự sụp đổ
+-sự sụt
+-sự sụt lở
+-sự uốn dọc
+-sụp đổ
+-sụt
+@Lĩnh vực: toán & tin
+-che lấp
+-thu bớt
+@Lĩnh vực: xây dựng
+-độ lún sụt
+-sự sập đổ
+@Lĩnh vực: cơ khí & công trình
+-làm lún
+@Lĩnh vực: điện lạnh
+-sự suy sụp
+@Lĩnh vực: y học
+-sự xẹp, trụy
+@Lĩnh vực: hóa học & vật liệu
+-sụp

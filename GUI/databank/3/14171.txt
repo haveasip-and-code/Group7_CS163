@@ -1,3 +1,15 @@
-dehydration
-	@dehydration /,di:hai'dreiʃn/\n*  danh từ\n- (hoá học) sự loại nước\n@Chuyên ngành kinh tế\n-sự khử nước\n-sự làm khô\n@Chuyên ngành kỹ thuật\n-khử nước\n-loại nước\n-sự hút nước\n-sự khử nước\n-sự làm khô\n-sự tách nước\n@Lĩnh vực: y học\n-sự khử hoặc mất nước
-
+dehydration	@dehydration /,di:hai'dreiʃn/
+*  danh từ
+- (hoá học) sự loại nước
+@Chuyên ngành kinh tế
+-sự khử nước
+-sự làm khô
+@Chuyên ngành kỹ thuật
+-khử nước
+-loại nước
+-sự hút nước
+-sự khử nước
+-sự làm khô
+-sự tách nước
+@Lĩnh vực: y học
+-sự khử hoặc mất nước

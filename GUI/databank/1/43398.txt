@@ -1,3 +1,8 @@
-preselection
-	@preselection /,pri:si'lekʃn/\n*  danh từ\n- sự chọn lựa trước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-sự chọn trước\n@Lĩnh vực: toán & tin\n-sự lựa chọn trước
-
+preselection	@preselection /,pri:si'lekʃn/
+*  danh từ
+- sự chọn lựa trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-sự chọn trước
+@Lĩnh vực: toán & tin
+-sự lựa chọn trước

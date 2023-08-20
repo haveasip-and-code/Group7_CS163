@@ -1,3 +1,12 @@
-rectangular
-	@rectangular /rek'tæɳgjulə/\n*  tính từ\n- hình chữ nhật\n- vuông góc\n=rectangular co-ordinates+ toạ độ vuông góc\n@Chuyên ngành kỹ thuật\n-có dạng chữ nhật\n-hình chữ nhật\n-thẳng góc\n-vuông góc\n@Lĩnh vực: xây dựng\n-thuộc hình chữ nhật
-
+rectangular	@rectangular /rek'tæɳgjulə/
+*  tính từ
+- hình chữ nhật
+- vuông góc
+=rectangular co-ordinates+ toạ độ vuông góc
+@Chuyên ngành kỹ thuật
+-có dạng chữ nhật
+-hình chữ nhật
+-thẳng góc
+-vuông góc
+@Lĩnh vực: xây dựng
+-thuộc hình chữ nhật

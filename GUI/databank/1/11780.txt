@@ -1,3 +1,11 @@
-cooled
-	@Chuyên ngành kinh tế\n-làm lạnh\n-làm nguội\n@Chuyên ngành kỹ thuật\n-được làm lạnh\n-được làm mát\n-làm lạnh\n-làm nguội\n@Lĩnh vực: hóa học & vật liệu\n-đã làm nguội
-
+cooled	
+@Chuyên ngành kinh tế
+-làm lạnh
+-làm nguội
+@Chuyên ngành kỹ thuật
+-được làm lạnh
+-được làm mát
+-làm lạnh
+-làm nguội
+@Lĩnh vực: hóa học & vật liệu
+-đã làm nguội

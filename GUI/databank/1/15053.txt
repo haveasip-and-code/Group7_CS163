@@ -1,3 +1,4 @@
-dewax
-	@Chuyên ngành kỹ thuật\n-loại sáp\n-parafin
-
+dewax	
+@Chuyên ngành kỹ thuật
+-loại sáp
+-parafin

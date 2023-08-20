@@ -1,3 +1,2 @@
-vires
-	@vires\n- số nhiều của vis
-
+vires	@vires
+- số nhiều của vis

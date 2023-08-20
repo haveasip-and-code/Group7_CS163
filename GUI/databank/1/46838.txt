@@ -1,3 +1,6 @@
-repeatable
-	@repeatable\n* tính từ\n- có thể nhắc lại, kể lại\n- có thể lặp lại, có thể diễn ra lại\n@Chuyên ngành kỹ thuật\n-lặp lại được
-
+repeatable	@repeatable
+* tính từ
+- có thể nhắc lại, kể lại
+- có thể lặp lại, có thể diễn ra lại
+@Chuyên ngành kỹ thuật
+-lặp lại được

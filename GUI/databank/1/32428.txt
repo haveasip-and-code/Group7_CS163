@@ -1,3 +1,8 @@
-lithia
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-LiO2\n-lithi oxit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-LiO2\n-lithi oxit
-
+lithia	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-LiO2
+-lithi oxit
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-LiO2
+-lithi oxit

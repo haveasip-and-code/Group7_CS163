@@ -1,3 +1,27 @@
-fusion
-	@fusion /'fju:ʤn/\n*  danh từ\n- sự làm cho chảy ra, sự nấu chảy ra\n- sự hỗn hợp lại bằng cách nấu chảy ra\n- sự hợp nhất, sự liên hiệp (các đảng phái...)\n@Chuyên ngành kinh tế\n-hợp nhất\n-liên hợp\n-sát nhập\n-sự chảy ra\n-sự dung hợp\n@Chuyên ngành kỹ thuật\n-dung hợp\n-kết hợp\n-nóng chảy\n-sự chảy\n-sự hòa nhập\n-sự kết hợp\n-sự làm chảy\n-sự nấu chảy\n-sự nóng chảy\n-sự nung chảy\n-sự tan băng\n@Lĩnh vực: y học\n-sự dung hợp\n-sự gắn liền
-
+fusion	
+@fusion /'fju:ʤn/
+*  danh từ
+- sự làm cho chảy ra, sự nấu chảy ra
+- sự hỗn hợp lại bằng cách nấu chảy ra
+- sự hợp nhất, sự liên hiệp (các đảng phái...)
+@Chuyên ngành kinh tế
+-hợp nhất
+-liên hợp
+-sát nhập
+-sự chảy ra
+-sự dung hợp
+@Chuyên ngành kỹ thuật
+-dung hợp
+-kết hợp
+-nóng chảy
+-sự chảy
+-sự hòa nhập
+-sự kết hợp
+-sự làm chảy
+-sự nấu chảy
+-sự nóng chảy
+-sự nung chảy
+-sự tan băng
+@Lĩnh vực: y học
+-sự dung hợp
+-sự gắn liền

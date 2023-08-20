@@ -1,3 +1,43 @@
-barrel
-	@barrel /'bærəl/\n*  danh từ\n- thùng tròn, thùng rượu\n- (một) thùng (lượng chứa trong thùng)\n- thùng (đơn vị đo dung tích, chừng 150 lít)\n- nòng (súng); ruột (ngựa, trâu, bò); ống (lông chim)\n- (giải phẫu) khoang màng nhĩ (ở tai)\n- (kỹ thuật) cái trống; tang\n!to have somebody a barrel\n- (từ Mỹ,nghĩa Mỹ) đẩy ai vào hoàn cảnh khó khăn\n!to sit on a barrel of gumpowder\n- ngồi trên thùng thuốc nổ, ngồi trên núi lửa (bóng)\n*  ngoại động từ\n- đổ vào thùng, đóng thùng\n@Chuyên ngành kinh tế\n-dung lượng của một thùng lớn\n-thùng phuy\n-thùng rượu\n-thùng tròn\n-thuyền lớn, thùng tô-nô\n@Chuyên ngành kỹ thuật\n-làm cong lên\n-mái uốn cong\n-ống\n-ống hút\n-sản xuất chất dẻo\n@Lĩnh vực: xây dựng\n-bánh lăn (xe lu)\n-ống lót (bộ khóa)\n-ống xifong\n-tang lăn\n-thùng tônô\n-thùng tròn\n@Lĩnh vực: cơ khí & công trình\n-nòng\n-quay nhẵn\n-thân (máy bơm)\n@Lĩnh vực: hóa học & vật liệu\n-ống kính (hiển vi)\n@Lĩnh vực: vật lý\n-thân (máy phun)\n@Lĩnh vực: điện\n-thân nồi hơi
-
+barrel	@barrel /'bærəl/
+*  danh từ
+- thùng tròn, thùng rượu
+- (một) thùng (lượng chứa trong thùng)
+- thùng (đơn vị đo dung tích, chừng 150 lít)
+- nòng (súng); ruột (ngựa, trâu, bò); ống (lông chim)
+- (giải phẫu) khoang màng nhĩ (ở tai)
+- (kỹ thuật) cái trống; tang
+!to have somebody a barrel
+- (từ Mỹ,nghĩa Mỹ) đẩy ai vào hoàn cảnh khó khăn
+!to sit on a barrel of gumpowder
+- ngồi trên thùng thuốc nổ, ngồi trên núi lửa (bóng)
+*  ngoại động từ
+- đổ vào thùng, đóng thùng
+@Chuyên ngành kinh tế
+-dung lượng của một thùng lớn
+-thùng phuy
+-thùng rượu
+-thùng tròn
+-thuyền lớn, thùng tô-nô
+@Chuyên ngành kỹ thuật
+-làm cong lên
+-mái uốn cong
+-ống
+-ống hút
+-sản xuất chất dẻo
+@Lĩnh vực: xây dựng
+-bánh lăn (xe lu)
+-ống lót (bộ khóa)
+-ống xifong
+-tang lăn
+-thùng tônô
+-thùng tròn
+@Lĩnh vực: cơ khí & công trình
+-nòng
+-quay nhẵn
+-thân (máy bơm)
+@Lĩnh vực: hóa học & vật liệu
+-ống kính (hiển vi)
+@Lĩnh vực: vật lý
+-thân (máy phun)
+@Lĩnh vực: điện
+-thân nồi hơi

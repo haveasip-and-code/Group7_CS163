@@ -1,3 +1,2 @@
-bouncily
-	@bouncily\n- xem bouncy
-
+bouncily	@bouncily
+- xem bouncy

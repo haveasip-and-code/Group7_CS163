@@ -1,3 +1,2 @@
-unidimensional
-	@Chuyên ngành kỹ thuật\n-một chiều
-
+unidimensional	@Chuyên ngành kỹ thuật
+-một chiều

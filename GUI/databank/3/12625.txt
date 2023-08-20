@@ -1,3 +1,3 @@
-cresset
-	@cresset /kresit/\n*  danh từ\n- đèn chòi canh; đèn bến cảng
-
+cresset	@cresset /kresit/
+*  danh từ
+- đèn chòi canh; đèn bến cảng

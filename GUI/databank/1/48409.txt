@@ -1,3 +1,4 @@
-sagged
-	@Chuyên ngành kỹ thuật\n-bị lún\n@Lĩnh vực: cơ khí & công trình\n-bị võng
-
+sagged	@Chuyên ngành kỹ thuật
+-bị lún
+@Lĩnh vực: cơ khí & công trình
+-bị võng

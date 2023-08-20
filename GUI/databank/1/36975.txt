@@ -1,3 +1,2 @@
-nonprofits
-	@Chuyên ngành kinh tế\n-tổ chức phi lợi nhuận
-
+nonprofits	@Chuyên ngành kinh tế
+-tổ chức phi lợi nhuận

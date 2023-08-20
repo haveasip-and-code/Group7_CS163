@@ -1,3 +1,5 @@
-rename
-	@rename /'ri:'neim/\n*  ngoại động từ\n- đổi tên, thay tên (người, đường phố...)\n@Chuyên ngành kỹ thuật\n-đổi tên
-
+rename	@rename /'ri:'neim/
+*  ngoại động từ
+- đổi tên, thay tên (người, đường phố...)
+@Chuyên ngành kỹ thuật
+-đổi tên

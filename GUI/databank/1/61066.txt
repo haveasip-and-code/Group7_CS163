@@ -1,3 +1,7 @@
-vaccine
-	@vaccine /'væksi:n/\n*  danh từ\n- (y học) vacxin\n=anticholeraic vaccine+ vacxin tả\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vắcxin
-
+vaccine	@vaccine /'væksi:n/
+*  danh từ
+- (y học) vacxin
+=anticholeraic vaccine+ vacxin tả
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vắcxin

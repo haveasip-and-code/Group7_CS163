@@ -1,3 +1,7 @@
-prog
-	@prog /prog/\n*  danh từ\n- (từ lóng) thức ăn (đi đường, đi cắm trại...)\n*  danh từ\n- (từ lóng) giám thị (trường đại học Căm-brít,  Ôc-phớt) ((cũng) proggins)\n*  ngoại động từ\n- (từ lóng) (như) proctorize
-
+prog	@prog /prog/
+*  danh từ
+- (từ lóng) thức ăn (đi đường, đi cắm trại...)
+*  danh từ
+- (từ lóng) giám thị (trường đại học Căm-brít,  Ôc-phớt) ((cũng) proggins)
+*  ngoại động từ
+- (từ lóng) (như) proctorize

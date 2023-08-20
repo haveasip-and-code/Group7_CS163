@@ -1,3 +1,5 @@
-pong
-	@pong\n* danh từ\n- <thgt> mùi hôi\n* nội động từ\n- hôi, bốc mùi hôi
-
+pong	@pong
+* danh từ
+- <thgt> mùi hôi
+* nội động từ
+- hôi, bốc mùi hôi

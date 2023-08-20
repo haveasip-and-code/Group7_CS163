@@ -1,3 +1,3 @@
-weeder
-	@weeder /'wi:d /\n*  danh từ\n- người giẫy cỏ, người nhổ cỏ
-
+weeder	@weeder /'wi:d /
+*  danh từ
+- người giẫy cỏ, người nhổ cỏ

@@ -1,3 +1,11 @@
-breeder
-	@breeder /'bri:də/\n*  danh từ\n- người gây giống, người chăn nuôi (súc vật)\n- (vật lý) lò phản ứng tái sinh ((cũng) breeder reactor)\n@Chuyên ngành kinh tế\n-người chăn nuôi\n-người gây giống\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-lò phản ứng nhân
-
+breeder	
+@breeder /'bri:də/
+*  danh từ
+- người gây giống, người chăn nuôi (súc vật)
+- (vật lý) lò phản ứng tái sinh ((cũng) breeder reactor)
+@Chuyên ngành kinh tế
+-người chăn nuôi
+-người gây giống
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-lò phản ứng nhân

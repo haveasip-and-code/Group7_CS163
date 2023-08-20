@@ -1,3 +1,4 @@
-hemolymph
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-huyết bạch huyết
-
+hemolymph	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-huyết bạch huyết

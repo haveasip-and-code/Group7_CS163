@@ -1,3 +1,2 @@
-masculinise
-	@masculinise\n- như masculinize
-
+masculinise	@masculinise
+- như masculinize

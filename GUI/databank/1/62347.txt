@@ -1,3 +1,13 @@
-walling
-	@walling\n* danh từ\n- sự xây tường\n- (kiến trúc) vật liệu xây tường; tường vách\n@Chuyên ngành kỹ thuật\n-sự xây tường\n-tường\n-tường bao\n@Lĩnh vực: xây dựng\n-khối xây gạch đá\n-tường nhà\n-tường xây\n-vật liệu xây tường
-
+walling	@walling
+* danh từ
+- sự xây tường
+- (kiến trúc) vật liệu xây tường; tường vách
+@Chuyên ngành kỹ thuật
+-sự xây tường
+-tường
+-tường bao
+@Lĩnh vực: xây dựng
+-khối xây gạch đá
+-tường nhà
+-tường xây
+-vật liệu xây tường

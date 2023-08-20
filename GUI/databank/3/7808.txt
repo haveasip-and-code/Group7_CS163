@@ -1,3 +1,2 @@
-cantorial
-	@cantorial\n- xem cantor
-
+cantorial	@cantorial
+- xem cantor

@@ -1,3 +1,5 @@
-waterlog
-	@waterlog\n* ngoại động từ\n- làm ngập nước; đánh chìm (tàu)\n- làm cho lầy lội\n- ngâm; đầm; làm ướt
-
+waterlog	@waterlog
+* ngoại động từ
+- làm ngập nước; đánh chìm (tàu)
+- làm cho lầy lội
+- ngâm; đầm; làm ướt

@@ -1,3 +1,9 @@
-decrypt
-	@decrypt\n* ngoại động từ\n- giải mã\n@Chuyên ngành kỹ thuật\n-đọc mã\n-đọc mật mã\n-giải mã\n@Lĩnh vực: toán & tin\n-giải mật mã
-
+decrypt	@decrypt
+* ngoại động từ
+- giải mã
+@Chuyên ngành kỹ thuật
+-đọc mã
+-đọc mật mã
+-giải mã
+@Lĩnh vực: toán & tin
+-giải mật mã

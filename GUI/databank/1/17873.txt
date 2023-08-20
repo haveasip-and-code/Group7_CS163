@@ -1,3 +1,9 @@
-embassy
-	@embassy /'embəsi/\n*  danh từ\n- chức đại sứ, hàm đại sứ; toà đại sứ; đại sứ và cán bộ nhân viên (ở toà đại sứ)\n- sứ mệnh\n@Chuyên ngành kinh tế\n-chức đại sứ\n-sứ quán\n-tòa đại sứ
-
+embassy	
+@embassy /'embəsi/
+*  danh từ
+- chức đại sứ, hàm đại sứ; toà đại sứ; đại sứ và cán bộ nhân viên (ở toà đại sứ)
+- sứ mệnh
+@Chuyên ngành kinh tế
+-chức đại sứ
+-sứ quán
+-tòa đại sứ

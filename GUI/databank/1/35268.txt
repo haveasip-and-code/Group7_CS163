@@ -1,3 +1,2 @@
-mixible
-	@mixible\n- xem mixable
-
+mixible	@mixible
+- xem mixable

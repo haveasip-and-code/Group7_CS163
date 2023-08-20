@@ -1,3 +1,14 @@
-executor
-	@executor /ig'zekjutə/\n*  danh từ\n- người thực hiện, người thi hành; người thực hiện, người thi hành\n- (pháp lý) người thi hành di chúc\n!literary executor\n- người phụ trách tác phẩm chưa in (của một nhà văn)\n@Chuyên ngành kinh tế\n-người thi hành di chúc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bộ thi hành\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bộ thi hành
-
+executor	
+@executor /ig'zekjutə/
+*  danh từ
+- người thực hiện, người thi hành; người thực hiện, người thi hành
+- (pháp lý) người thi hành di chúc!literary executor
+- người phụ trách tác phẩm chưa in (của một nhà văn)
+@Chuyên ngành kinh tế
+-người thi hành di chúc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-bộ thi hành
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-bộ thi hành

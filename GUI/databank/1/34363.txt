@@ -1,3 +1,10 @@
-menu
-	@menu /'menju:/\n*  danh từ\n- thực đơn\n@Chuyên ngành kinh tế\n-thực đơn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lệnh đơn\n-thanh thực đơn\n-trình đơn, menu
-
+menu	@menu /'menju:/
+*  danh từ
+- thực đơn
+@Chuyên ngành kinh tế
+-thực đơn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-lệnh đơn
+-thanh thực đơn
+-trình đơn, menu

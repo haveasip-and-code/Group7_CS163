@@ -1,3 +1,10 @@
-proximate
-	@proximate /proximate/\n*  tính từ\n- gần, gần nhất, sát gần\n- gần đúng, xấp xỉ\n@Chuyên ngành kỹ thuật\n-cạnh\n-gần\n-xấp xỉ\n@Lĩnh vực: toán & tin\n-gần, cạnh
-
+proximate	@proximate /proximate/
+*  tính từ
+- gần, gần nhất, sát gần
+- gần đúng, xấp xỉ
+@Chuyên ngành kỹ thuật
+-cạnh
+-gần
+-xấp xỉ
+@Lĩnh vực: toán & tin
+-gần, cạnh

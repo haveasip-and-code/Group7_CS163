@@ -1,3 +1,23 @@
-aspect
-	@aspect /'æspekt/\n*  danh từ\n- vẻ, bề ngoài; diện mạo\n=to have a gentle aspect+ có vẻ hiền lành\n- hướng\n=the house has a southern aspect+ ngôi nhà xoay hướng về hướng nam\n- khía cạnh; mặt\n=to study every aspect of a question+ nghiên cứu mọi khía cạnh của vấn đề\n- (ngôn ngữ học) thể\n@Chuyên ngành kỹ thuật\n-dạng\n-hướng\n-hướng nhà\n-khía cạnh\n@Lĩnh vực: toán & tin\n-dạng khía\n-phía\n@Lĩnh vực: xây dựng\n-mặt nhà định hướng\n-phương diện\n@Lĩnh vực: điện lạnh\n-mặt phương diện
-
+aspect	
+@aspect /'æspekt/
+*  danh từ
+- vẻ, bề ngoài; diện mạo=to have a gentle aspect
++ có vẻ hiền lành
+- hướng=the house has a southern aspect
++ ngôi nhà xoay hướng về hướng nam
+- khía cạnh; mặt=to study every aspect of a question
++ nghiên cứu mọi khía cạnh của vấn đề
+- (ngôn ngữ học) thể
+@Chuyên ngành kỹ thuật
+-dạng
+-hướng
+-hướng nhà
+-khía cạnh
+@Lĩnh vực: toán & tin
+-dạng khía
+-phía
+@Lĩnh vực: xây dựng
+-mặt nhà định hướng
+-phương diện
+@Lĩnh vực: điện lạnh
+-mặt phương diện

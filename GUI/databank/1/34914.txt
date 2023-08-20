@@ -1,3 +1,10 @@
-millisecond
-	@millisecond /'mili,sekənd/\n*  danh từ\n- một phần nghìn giây\n@Chuyên ngành kỹ thuật\n-mili giây\n-ms\n@Lĩnh vực: xây dựng\n-milli giây\n@Lĩnh vực: điện lạnh\n-msec
-
+millisecond	@millisecond /'mili,sekənd/
+*  danh từ
+- một phần nghìn giây
+@Chuyên ngành kỹ thuật
+-mili giây
+-ms
+@Lĩnh vực: xây dựng
+-milli giây
+@Lĩnh vực: điện lạnh
+-msec

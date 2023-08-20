@@ -1,3 +1,4 @@
-heliometers
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhiệt kế
-
+heliometers	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhiệt kế

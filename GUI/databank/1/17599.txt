@@ -1,3 +1,10 @@
-elastomer
-	@elastomer\n* danh từ\n- chất đàn hồi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất đàn hồi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chất đàn hồi
-
+elastomer	
+@elastomer
+* danh từ
+- chất đàn hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất đàn hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất đàn hồi

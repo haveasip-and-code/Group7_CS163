@@ -1,3 +1,3 @@
-lout
-	@lout /laut/\n*  danh từ\n- người vụng về, người thô lỗ, người cục mịch
-
+lout	@lout /laut/
+*  danh từ
+- người vụng về, người thô lỗ, người cục mịch

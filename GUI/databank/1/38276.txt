@@ -1,3 +1,9 @@
-oscillogram
-	@oscillogram /ɔ'siləgræm/\n*  danh từ\n- (điện học) biểu đồ dao động\n@Chuyên ngành kỹ thuật\n-biểu đồ dao động\n-biểu đồ giao động\n-hình sóng hiển thị\n@Lĩnh vực: toán & tin\n-hình sóng hiện
-
+oscillogram	@oscillogram /ɔ'siləgræm/
+*  danh từ
+- (điện học) biểu đồ dao động
+@Chuyên ngành kỹ thuật
+-biểu đồ dao động
+-biểu đồ giao động
+-hình sóng hiển thị
+@Lĩnh vực: toán & tin
+-hình sóng hiện

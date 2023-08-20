@@ -1,3 +1,2 @@
-ruts
-	@Chuyên ngành kỹ thuật\n-channels
-
+ruts	@Chuyên ngành kỹ thuật
+-channels

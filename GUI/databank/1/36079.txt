@@ -1,3 +1,7 @@
-museum
-	@museum /mju:'ziəm/\n*  danh từ\n- nhà bảo tàng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà bảo tàng\n-viện bảo tàng
-
+museum	@museum /mju:'ziəm/
+*  danh từ
+- nhà bảo tàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà bảo tàng
+-viện bảo tàng

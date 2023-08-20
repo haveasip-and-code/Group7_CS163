@@ -1,3 +1,9 @@
-solderability
-	@solderability\n* danh từ\n- tính hàn được; dễ hàn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-dễ hàn\n-tính dễ hàn\n@Lĩnh vực: cơ khí & công trình\n-tính hàn được
-
+solderability	@solderability
+* danh từ
+- tính hàn được; dễ hàn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-dễ hàn
+-tính dễ hàn
+@Lĩnh vực: cơ khí & công trình
+-tính hàn được

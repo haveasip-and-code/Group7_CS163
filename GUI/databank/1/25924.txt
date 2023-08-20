@@ -1,3 +1,5 @@
-hoedown
-	@hoedown\n* danh từ\n- (từ Mỹ) điệu nhảy sinh động ở nông thôn\n- tiệc có điệu nhảy này
-
+hoedown	
+@hoedown
+* danh từ
+- (từ Mỹ) điệu nhảy sinh động ở nông thôn
+- tiệc có điệu nhảy này

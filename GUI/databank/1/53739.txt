@@ -1,3 +1,10 @@
-stringent
-	@stringent /'stridʤənt/\n*  tính từ\n- chính xác, nghiêm ngặt, chặt chẽ (nội quy, luật pháp...)\n- (tài chính) khan hiếm (tiền); khó làm ăn\n@Chuyên ngành kinh tế\n-khan hiếm (tiền)\n-thiếu hàng (để bán)\n-thiếu tiền (để mua)\n@Chuyên ngành kỹ thuật\n-ngặt
-
+stringent	@stringent /'stridʤənt/
+*  tính từ
+- chính xác, nghiêm ngặt, chặt chẽ (nội quy, luật pháp...)
+- (tài chính) khan hiếm (tiền); khó làm ăn
+@Chuyên ngành kinh tế
+-khan hiếm (tiền)
+-thiếu hàng (để bán)
+-thiếu tiền (để mua)
+@Chuyên ngành kỹ thuật
+-ngặt

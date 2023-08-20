@@ -1,3 +1,10 @@
-thermometer
-	@thermometer /θə'mɔmitə/\n*  danh từ\n- cái đo nhiệt, nhiệt biểu\n@Chuyên ngành kinh tế\n-nhiệt kế\n@Chuyên ngành kỹ thuật\n-hàn thử biểu\n-nhiệt biểu\n-nhiệt kế\n-nhiệt kế thể tích
-
+thermometer	@thermometer /θə'mɔmitə/
+*  danh từ
+- cái đo nhiệt, nhiệt biểu
+@Chuyên ngành kinh tế
+-nhiệt kế
+@Chuyên ngành kỹ thuật
+-hàn thử biểu
+-nhiệt biểu
+-nhiệt kế
+-nhiệt kế thể tích

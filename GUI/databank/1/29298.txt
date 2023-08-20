@@ -1,3 +1,4 @@
-interfile
-	@interfile /,intə'fail/\n*  ngoại động từ\n- sắp xếp phối hợp vào một hệ thống
-
+interfile	
+@interfile /,intə'fail/
+*  ngoại động từ
+- sắp xếp phối hợp vào một hệ thống

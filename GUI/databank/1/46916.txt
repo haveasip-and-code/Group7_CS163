@@ -1,3 +1,5 @@
-represented
-	@represented\n- được biểu diễn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được biểu diễn
-
+represented	@represented
+- được biểu diễn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được biểu diễn

@@ -1,3 +1,4 @@
-karate
-	@karate\n* danh từ\n- môn võ caratê
-
+karate	
+@karate
+* danh từ
+- môn võ caratê

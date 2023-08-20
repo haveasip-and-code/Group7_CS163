@@ -1,3 +1,35 @@
-anchorage
-	@anchorage /'æɳkəridʤ/\n*  danh từ\n- sự thả neo, sự bỏ neo, sự đạu\n- chỗ đậu tàu, chỗ thả neo\n- thuế đậu tàu, thuế thả neo\n- (nghĩa bóng) vật có thể cột vào, vật có thể dựa vào, nguồn tin cậy, nơi nương tựa\n=to be the anchorage of someone's hope+ là người mà ai đặt tất cả hy vọng vào\n@Chuyên ngành kinh tế\n-bến (tàu đậu)\n-chỗ (tàu thuyền) bỏ neo\n-chỗ bỏ neo\n-chỗ tàu đậu\n-đậu (tàu)\n-sự bỏ neo\n-thuế đậu tàu\n-thuế thả neo\n@Chuyên ngành kỹ thuật\n-chỗ thả neo\n-neo\n-mấu neo\n-sự định vị\n-sự thả neo\n-thanh neo\n-thiết bị neo\n@Lĩnh vực: xây dựng\n-chỗ neo\n-cọc neo\n-mấu neo, móc neo\n-sự neo\n-vùng thả neo\n@Lĩnh vực: điện tử & viễn thông\n-điểm thả neo\n@Lĩnh vực: cơ khí & công trình\n-sự néo
-
+anchorage	
+@anchorage /'æɳkəridʤ/
+*  danh từ
+- sự thả neo, sự bỏ neo, sự đạu
+- chỗ đậu tàu, chỗ thả neo
+- thuế đậu tàu, thuế thả neo
+- (nghĩa bóng) vật có thể cột vào, vật có thể dựa vào, nguồn tin cậy, nơi nương tựa=to be the anchorage of someone's hope
++ là người mà ai đặt tất cả hy vọng vào
+@Chuyên ngành kinh tế
+-bến (tàu đậu)
+-chỗ (tàu thuyền) bỏ neo
+-chỗ bỏ neo
+-chỗ tàu đậu
+-đậu (tàu)
+-sự bỏ neo
+-thuế đậu tàu
+-thuế thả neo
+@Chuyên ngành kỹ thuật
+-chỗ thả neo
+-neo
+-mấu neo
+-sự định vị
+-sự thả neo
+-thanh neo
+-thiết bị neo
+@Lĩnh vực: xây dựng
+-chỗ neo
+-cọc neo
+-mấu neo, móc neo
+-sự neo
+-vùng thả neo
+@Lĩnh vực: điện tử & viễn thông
+-điểm thả neo
+@Lĩnh vực: cơ khí & công trình
+-sự néo

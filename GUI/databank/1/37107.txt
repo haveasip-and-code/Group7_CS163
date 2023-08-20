@@ -1,3 +1,17 @@
-notion
-	@notion /'nouʃn/\n*  danh từ\n- ý niệm, khái niệm\n=a vague notion of...+ một khái niệm mơ hồ về...\n=to have no notion of...+ chẳng có một ý niệm gì về...\n- ý kiến, quan điểm\n=such is the common notion+ đó là ý kiến chung, đó là quan điểm chung\n- ý định\n=he has no notion of resigning+ nó không có ý định từ chức\n- (từ Mỹ,nghĩa Mỹ) đồ dùng lặt vặt, tạp hoá\n=notion store+ (định ngữ) hàng tạp hoá\n@Chuyên ngành kỹ thuật\n-khái niệm\n-quan điểm\n-quan niệm\n-ý kiến\n-ý niệm
-
+notion	@notion /'nouʃn/
+*  danh từ
+- ý niệm, khái niệm
+=a vague notion of...+ một khái niệm mơ hồ về...
+=to have no notion of...+ chẳng có một ý niệm gì về...
+- ý kiến, quan điểm
+=such is the common notion+ đó là ý kiến chung, đó là quan điểm chung
+- ý định
+=he has no notion of resigning+ nó không có ý định từ chức
+- (từ Mỹ,nghĩa Mỹ) đồ dùng lặt vặt, tạp hoá
+=notion store+ (định ngữ) hàng tạp hoá
+@Chuyên ngành kỹ thuật
+-khái niệm
+-quan điểm
+-quan niệm
+-ý kiến
+-ý niệm

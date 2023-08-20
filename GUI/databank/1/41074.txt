@@ -1,3 +1,8 @@
-phenocopy
-	@phenocopy\n* danh từ\n- (sinh vật học) sự sao hình\n@Chuyên ngành kỹ thuật\n-nét sao hình\n@Lĩnh vực: y học\n-hiện tượng sao hình\n-người có hiện tượng sao hình
-
+phenocopy	@phenocopy
+* danh từ
+- (sinh vật học) sự sao hình
+@Chuyên ngành kỹ thuật
+-nét sao hình
+@Lĩnh vực: y học
+-hiện tượng sao hình
+-người có hiện tượng sao hình

@@ -1,3 +1,15 @@
-drawback
-	@drawback /'drɔ:bæk/\n*  danh từ\n- điều trở ngại, mặt hạn chế, mặt không thuận lợi\n- (thương nghiệp) số tiền thuế quan được trả lại, số tiền thuế quan được giảm (đối với hàng xuất)\n- (+ from) sự khấu trừ, sự giảm\n@Chuyên ngành kỹ thuật\n-hạn chế\n-không thuận lợi\n-khuyết tật\n-nhược điểm\n-sự ram\n-thiếu sót\n-vật chướng ngại
-
+drawback	
+@drawback /'drɔ:bæk/
+*  danh từ
+- điều trở ngại, mặt hạn chế, mặt không thuận lợi
+- (thương nghiệp) số tiền thuế quan được trả lại, số tiền thuế quan được giảm (đối với hàng xuất)
+- (
++ from) sự khấu trừ, sự giảm
+@Chuyên ngành kỹ thuật
+-hạn chế
+-không thuận lợi
+-khuyết tật
+-nhược điểm
+-sự ram
+-thiếu sót
+-vật chướng ngại

@@ -1,3 +1,26 @@
-caustic
-	@caustic /'kɔ:stik/\n*  tính từ\n- (hoá học) ăn da (chất hoá học)\n=caustic liquor+ nước ăn da\n- châm chọc, châm biếm; cay độc, chua cay\n=a caustic remark+ một nhận xét châm biếm\n- (toán học) tụ quang\n*  danh từ\n- (hoá học) chất ăn da\n@Chuyên ngành kỹ thuật\n-ăn da\n-ăn mòn\n-kiềm\n-kiềm ăn da\n-mặt tụ quang\n-tính kiềm\n-xút ăn da\n@Lĩnh vực: y học\n-chất ăn mòn\n-chất nóng bỏng\n-kiềm, xút\n@Lĩnh vực: xây dựng\n-có nhiều chất kiềm\n-đường tụ quan\n@Lĩnh vực: điện lạnh\n-đường tụ quang
-
+caustic	@caustic /'kɔ:stik/
+*  tính từ
+- (hoá học) ăn da (chất hoá học)
+=caustic liquor+ nước ăn da
+- châm chọc, châm biếm; cay độc, chua cay
+=a caustic remark+ một nhận xét châm biếm
+- (toán học) tụ quang
+*  danh từ
+- (hoá học) chất ăn da
+@Chuyên ngành kỹ thuật
+-ăn da
+-ăn mòn
+-kiềm
+-kiềm ăn da
+-mặt tụ quang
+-tính kiềm
+-xút ăn da
+@Lĩnh vực: y học
+-chất ăn mòn
+-chất nóng bỏng
+-kiềm, xút
+@Lĩnh vực: xây dựng
+-có nhiều chất kiềm
+-đường tụ quan
+@Lĩnh vực: điện lạnh
+-đường tụ quang

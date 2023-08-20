@@ -1,3 +1,19 @@
-detergent
-	@detergent /di'tə:dʤənt/\n*  tính từ\n- để làm sạch; để tẩy\n*  danh từ\n- (y học) thuốc làm sạch (vết thương...); thuốc tẩy\n@Chuyên ngành kinh tế\n-chất rửa\n-để làm sạch\n-để tẩy\n-thuốc tẩy\n@Chuyên ngành kỹ thuật\n-chất làm sạch\n-xà phòng\n@Lĩnh vực: y học\n-chất tẩy rữa\n@Lĩnh vực: cơ khí & công trình\n-chất tẩy rửa\n@Lĩnh vực: hóa học & vật liệu\n-thuốc tẩy
-
+detergent	@detergent /di'tə:dʤənt/
+*  tính từ
+- để làm sạch; để tẩy
+*  danh từ
+- (y học) thuốc làm sạch (vết thương...); thuốc tẩy
+@Chuyên ngành kinh tế
+-chất rửa
+-để làm sạch
+-để tẩy
+-thuốc tẩy
+@Chuyên ngành kỹ thuật
+-chất làm sạch
+-xà phòng
+@Lĩnh vực: y học
+-chất tẩy rữa
+@Lĩnh vực: cơ khí & công trình
+-chất tẩy rửa
+@Lĩnh vực: hóa học & vật liệu
+-thuốc tẩy

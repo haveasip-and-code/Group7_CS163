@@ -1,3 +1,8 @@
-dreg
-	@dreg /dreg/\n*  danh từ\n- ((thường) số nhiều) cặn\n=to drink (drain) to the dregs+ uống cạn\n- cái bỏ đi\n- tí còn lại, chút xíu còn lại\n=not a dreg+ không còn tí gì
-
+dreg	
+@dreg /dreg/
+*  danh từ
+- ((thường) số nhiều) cặn=to drink (drain) to the dregs
++ uống cạn
+- cái bỏ đi
+- tí còn lại, chút xíu còn lại=not a dreg
++ không còn tí gì

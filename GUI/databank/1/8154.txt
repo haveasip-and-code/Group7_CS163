@@ -1,3 +1,4 @@
-cased
-	@Chuyên ngành kỹ thuật\n-bao\n-dựng trong vỏ
-
+cased	
+@Chuyên ngành kỹ thuật
+-bao
+-dựng trong vỏ

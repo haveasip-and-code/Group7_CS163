@@ -1,3 +1,4 @@
-upgrowth
-	@upgrowth /' pgrou /\n*  danh từ\n- sự lớn lên, sự phát triển\n- cái lớn lên, vật lớn lên
-
+upgrowth	@upgrowth /' pgrou /
+*  danh từ
+- sự lớn lên, sự phát triển
+- cái lớn lên, vật lớn lên

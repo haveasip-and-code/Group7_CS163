@@ -1,3 +1,19 @@
-sextet
-	@sextet /ses'tet/ (sextet) /seks'tet/\n*  danh từ (âm nhạc)\n- bộ sáu, bản nhạc cho bộ sáu\n- (thơ ca) sáu câu cuối của bài xonê\n@Chuyên ngành kỹ thuật\n-bộ sáu\n@Lĩnh vực: toán & tin\n-bậc sáu\n-cấp sáu\n-đường bậc sáu\n-phương trình bậc sáu\n@Lĩnh vực: hóa học & vật liệu\n-nhóm sáu\n@Lĩnh vực: điện lạnh\n-mức sáu\n-vạc sáu\n@Lĩnh vực: vật lý\n-mức sáu (phổ học)\n-vạch sáu
-
+sextet	@sextet /ses'tet/ (sextet) /seks'tet/
+*  danh từ (âm nhạc)
+- bộ sáu, bản nhạc cho bộ sáu
+- (thơ ca) sáu câu cuối của bài xonê
+@Chuyên ngành kỹ thuật
+-bộ sáu
+@Lĩnh vực: toán & tin
+-bậc sáu
+-cấp sáu
+-đường bậc sáu
+-phương trình bậc sáu
+@Lĩnh vực: hóa học & vật liệu
+-nhóm sáu
+@Lĩnh vực: điện lạnh
+-mức sáu
+-vạc sáu
+@Lĩnh vực: vật lý
+-mức sáu (phổ học)
+-vạch sáu

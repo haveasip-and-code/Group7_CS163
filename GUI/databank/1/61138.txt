@@ -1,3 +1,14 @@
-validate
-	@validate /'vælideit/\n*  ngoại động từ\n- làm cho có giá trị, làm cho có hiệu lực, làm cho hợp lệ; phê chuẩn\n@Chuyên ngành kinh tế\n-công nhận có giá trị\n-làm cho có hiệu lực\n-làm cho được hữu hiệu\n@Chuyên ngành kỹ thuật\n-hợp thức hóa\n-làm hợp lệ\n-phê chuẩn\n-phê duyệt\n@Lĩnh vực: xây dựng\n-kiểm nhận
-
+validate	@validate /'vælideit/
+*  ngoại động từ
+- làm cho có giá trị, làm cho có hiệu lực, làm cho hợp lệ; phê chuẩn
+@Chuyên ngành kinh tế
+-công nhận có giá trị
+-làm cho có hiệu lực
+-làm cho được hữu hiệu
+@Chuyên ngành kỹ thuật
+-hợp thức hóa
+-làm hợp lệ
+-phê chuẩn
+-phê duyệt
+@Lĩnh vực: xây dựng
+-kiểm nhận

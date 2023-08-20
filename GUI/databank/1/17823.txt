@@ -1,3 +1,16 @@
-elution
-	@elution\n* danh từ\n- (hoá học) phép tách rửa\n@Chuyên ngành kỹ thuật\n-rửa giải\n-sự giải hấp\n-sự ngâm rỉ\n-sự rửa giải\n-sự rửa thôi\n@Chuyên ngành kỹ thuật\n-rửa giải\n-sự giải hấp\n-sự ngâm rỉ\n-sự rửa giải\n-sự rửa thôi
-
+elution	
+@elution
+* danh từ
+- (hoá học) phép tách rửa
+@Chuyên ngành kỹ thuật
+-rửa giải
+-sự giải hấp
+-sự ngâm rỉ
+-sự rửa giải
+-sự rửa thôi
+@Chuyên ngành kỹ thuật
+-rửa giải
+-sự giải hấp
+-sự ngâm rỉ
+-sự rửa giải
+-sự rửa thôi

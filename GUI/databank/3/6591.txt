@@ -1,3 +1,8 @@
-braise
-	@braise /breiz/\n*  danh từ\n- thịt om\n*  ngoại động từ\n- om (thịt...)\n@Chuyên ngành kinh tế\n-om\n-thịt om
-
+braise	@braise /breiz/
+*  danh từ
+- thịt om
+*  ngoại động từ
+- om (thịt...)
+@Chuyên ngành kinh tế
+-om
+-thịt om

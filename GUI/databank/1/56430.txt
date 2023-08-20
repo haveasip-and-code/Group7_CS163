@@ -1,3 +1,2 @@
-thirdhand
-	@thirdhand\n- xem third-hand
-
+thirdhand	@thirdhand
+- xem third-hand

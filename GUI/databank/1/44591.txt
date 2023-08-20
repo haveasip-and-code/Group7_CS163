@@ -1,3 +1,36 @@
-puddle
-	@puddle /'pʌdl/\n*  danh từ\n- vũng nước (mưa...)\n- (thông tục) việc rắc rối, việc rối beng\n- đất sét nhâo (để láng lòng kênh...)\n*  nội động từ\n- ((thường) + about) lội bùn, vầy bùn, lội trong vũng nước bẩn, vầy trong vũng nước bẩn\n- làm rối beng\n*  ngoại động từ\n- làm đục ngàu, làm ngàu bùn, làm sục bùn (nước...)\n- nhào (đất sét với cát) với nước (để láng lòng kênh...)\n- láng (lòng kênh) bằng đất sét nhào\n- (từ Mỹ,nghĩa Mỹ) cày ướt\n- (kỹ thuật) luyện putlinh (gang thành sắt)\n@Chuyên ngành kỹ thuật\n-bê tông đất sét\n-đầm\n-đất sét dẻo\n-đất sét nện\n-dung dịch hàn\n-khuấy trộn\n-làm nhão / nhào nước\n-lèn\n-lội bùn\n-nện\n-nhào\n-puđling\n-vữa đất sét\n-vũng nước\n@Lĩnh vực: hóa học & vật liệu\n-khuấy luyện\n@Lĩnh vực: xây dựng\n-nhào đất\n-vẩy bùn\n@Lĩnh vực: cơ khí & công trình\n-sự cày ướt
-
+puddle	@puddle /'pʌdl/
+*  danh từ
+- vũng nước (mưa...)
+- (thông tục) việc rắc rối, việc rối beng
+- đất sét nhâo (để láng lòng kênh...)
+*  nội động từ
+- ((thường) + about) lội bùn, vầy bùn, lội trong vũng nước bẩn, vầy trong vũng nước bẩn
+- làm rối beng
+*  ngoại động từ
+- làm đục ngàu, làm ngàu bùn, làm sục bùn (nước...)
+- nhào (đất sét với cát) với nước (để láng lòng kênh...)
+- láng (lòng kênh) bằng đất sét nhào
+- (từ Mỹ,nghĩa Mỹ) cày ướt
+- (kỹ thuật) luyện putlinh (gang thành sắt)
+@Chuyên ngành kỹ thuật
+-bê tông đất sét
+-đầm
+-đất sét dẻo
+-đất sét nện
+-dung dịch hàn
+-khuấy trộn
+-làm nhão / nhào nước
+-lèn
+-lội bùn
+-nện
+-nhào
+-puđling
+-vữa đất sét
+-vũng nước
+@Lĩnh vực: hóa học & vật liệu
+-khuấy luyện
+@Lĩnh vực: xây dựng
+-nhào đất
+-vẩy bùn
+@Lĩnh vực: cơ khí & công trình
+-sự cày ướt

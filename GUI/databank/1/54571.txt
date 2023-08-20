@@ -1,3 +1,6 @@
-superblock
-	@superblock\n* danh từ\n- khu vực buôn bán, nhà ở quan trọng chỉ có thể đi bộ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-siêu khối
-
+superblock	@superblock
+* danh từ
+- khu vực buôn bán, nhà ở quan trọng chỉ có thể đi bộ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-siêu khối

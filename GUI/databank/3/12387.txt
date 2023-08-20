@@ -1,3 +1,2 @@
-coxal
-	@coxal\n- xem coxa
-
+coxal	@coxal
+- xem coxa

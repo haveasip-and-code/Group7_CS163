@@ -1,3 +1,13 @@
-liberate
-	@liberate /'libəreit/\n*  ngoại động từ\n- tha, thả, giải phóng, phóng thích, cho tự do\n@Chuyên ngành kỹ thuật\n-dao động\n-giải phóng\n@Lĩnh vực: toán & tin\n-cân\n@Chuyên ngành kỹ thuật\n-dao động\n-giải phóng\n@Lĩnh vực: toán & tin\n-cân
-
+liberate	@liberate /'libəreit/
+*  ngoại động từ
+- tha, thả, giải phóng, phóng thích, cho tự do
+@Chuyên ngành kỹ thuật
+-dao động
+-giải phóng
+@Lĩnh vực: toán & tin
+-cân
+@Chuyên ngành kỹ thuật
+-dao động
+-giải phóng
+@Lĩnh vực: toán & tin
+-cân

@@ -1,3 +1,14 @@
-usable
-	@usable /'ju:z bl/\n*  tính từ\n- có thể dùng được, sử dụng được\n@Chuyên ngành kinh tế\n-có thể dùng được\n-sử dụng được\n@Chuyên ngành kỹ thuật\n-có ích\n-dùng được\n-khả dụng\n-tiện dụng\n@Lĩnh vực: toán & tin\n-có thể dùng được\n-có thể sử dụng
-
+usable	@usable /'ju:z bl/
+*  tính từ
+- có thể dùng được, sử dụng được
+@Chuyên ngành kinh tế
+-có thể dùng được
+-sử dụng được
+@Chuyên ngành kỹ thuật
+-có ích
+-dùng được
+-khả dụng
+-tiện dụng
+@Lĩnh vực: toán & tin
+-có thể dùng được
+-có thể sử dụng

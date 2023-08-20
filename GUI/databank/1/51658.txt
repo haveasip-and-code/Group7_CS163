@@ -1,3 +1,54 @@
-socket
-	@socket /'sɔkit/\n*  danh từ\n- lỗ, hốc, hố\n- để\n=candle too large for socket+ nếu to quá không vừa để\n- đui đèn\n*  ngoại động từ\n- lắp vào để\n- lắp vào đui\n- (thể dục,thể thao) đánh (bóng gôn) bằng gót gậy\n@Chuyên ngành kỹ thuật\n-bạc nối\n-chỗ lõm\n-đầu kẹp cáp\n-đế\n-đế đèn\n-đui\n-đui đèn\n-gối\n-hốc\n-khớp nối\n-lỗ\n-lỗ cắm\n-măng song\n-măng sông\n-ổ\n-ổ cắm\n-ổ cắm (đèn điện)\n-ổ cắm điện\n-ổ có phích cắm\n-ống kẹp\n-ống khớp\n-ống loe\n-ống lồng\n-ống lót\n-ống nối\n-trụ khớp\n@Lĩnh vực: điện\n-chân đèn\n-đế cắm đèn\n-đui đèn điện\n-lỗ cắm (điện)\n@Lĩnh vực: cơ khí & công trình\n-con trung gian\n-lỗ chân đèn\n-ống kẹp trung gian\n@Lĩnh vực: ô tô\n-đầu tuýt\n@Lĩnh vực: xây dựng\n-hộp (nối) cáp\n-sự lồng vào nhau\n-trục khớp\n@Lĩnh vực: y học\n-ổ, hốc
-
+socket	@socket /'sɔkit/
+*  danh từ
+- lỗ, hốc, hố
+- để
+=candle too large for socket+ nếu to quá không vừa để
+- đui đèn
+*  ngoại động từ
+- lắp vào để
+- lắp vào đui
+- (thể dục,thể thao) đánh (bóng gôn) bằng gót gậy
+@Chuyên ngành kỹ thuật
+-bạc nối
+-chỗ lõm
+-đầu kẹp cáp
+-đế
+-đế đèn
+-đui
+-đui đèn
+-gối
+-hốc
+-khớp nối
+-lỗ
+-lỗ cắm
+-măng song
+-măng sông
+-ổ
+-ổ cắm
+-ổ cắm (đèn điện)
+-ổ cắm điện
+-ổ có phích cắm
+-ống kẹp
+-ống khớp
+-ống loe
+-ống lồng
+-ống lót
+-ống nối
+-trụ khớp
+@Lĩnh vực: điện
+-chân đèn
+-đế cắm đèn
+-đui đèn điện
+-lỗ cắm (điện)
+@Lĩnh vực: cơ khí & công trình
+-con trung gian
+-lỗ chân đèn
+-ống kẹp trung gian
+@Lĩnh vực: ô tô
+-đầu tuýt
+@Lĩnh vực: xây dựng
+-hộp (nối) cáp
+-sự lồng vào nhau
+-trục khớp
+@Lĩnh vực: y học
+-ổ, hốc

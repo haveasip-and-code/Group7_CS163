@@ -1,3 +1,5 @@
-tomogram
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phim chụp tia X cắt lớp\n@Lĩnh vực: vật lý\n-phương pháp chụp X-quang
-
+tomogram	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-phim chụp tia X cắt lớp
+@Lĩnh vực: vật lý
+-phương pháp chụp X-quang

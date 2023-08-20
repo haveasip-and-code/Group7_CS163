@@ -1,3 +1,4 @@
-reboil
-	@Chuyên ngành kinh tế\n-nấu lại\n@Chuyên ngành kỹ thuật\n-sự (đun) sôi lại
-
+reboil	@Chuyên ngành kinh tế
+-nấu lại
+@Chuyên ngành kỹ thuật
+-sự (đun) sôi lại

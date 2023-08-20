@@ -1,3 +1,2 @@
-viscosimetric
-	@viscosimetric\n- xem viscosimeter
-
+viscosimetric	@viscosimetric
+- xem viscosimeter

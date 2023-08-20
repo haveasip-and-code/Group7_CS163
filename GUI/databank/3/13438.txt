@@ -1,3 +1,2 @@
-damageability
-	@damageability\n- xem damage
-
+damageability	@damageability
+- xem damage

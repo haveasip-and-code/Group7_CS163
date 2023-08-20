@@ -1,3 +1,4 @@
-turbocharger
-	@Chuyên ngành kỹ thuật\n-máy nén kiểu tuabin\n@Lĩnh vực: cơ khí & công trình\n-máy nạp kiểu tuabin
-
+turbocharger	@Chuyên ngành kỹ thuật
+-máy nén kiểu tuabin
+@Lĩnh vực: cơ khí & công trình
+-máy nạp kiểu tuabin

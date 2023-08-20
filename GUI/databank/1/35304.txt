@@ -1,3 +1,8 @@
-modem
-	@modem\n- bộ điều giải, modem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bộ biến hoàn\n-bộ điều biến\n@Lĩnh vực: toán & tin\n-môđem
-
+modem	@modem
+- bộ điều giải, modem
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-bộ biến hoàn
+-bộ điều biến
+@Lĩnh vực: toán & tin
+-môđem

@@ -1,3 +1,14 @@
-winder
-	@winder /'waind /\n*  danh từ\n- người cuốn chỉ (sợi); máy cuốn chỉ (sợi)\n- cây quấn\n- nút lên dây (đồng hồ)\n@Chuyên ngành kỹ thuật\n-núm vặn\n-máy cuốn dây\n-máy guồng gạt\n@Lĩnh vực: xây dựng\n-bậc thang khúc lượn\n-bậc thang vòng\n@Lĩnh vực: điện lạnh\n-tời điện
-
+winder	@winder /'waind /
+*  danh từ
+- người cuốn chỉ (sợi); máy cuốn chỉ (sợi)
+- cây quấn
+- nút lên dây (đồng hồ)
+@Chuyên ngành kỹ thuật
+-núm vặn
+-máy cuốn dây
+-máy guồng gạt
+@Lĩnh vực: xây dựng
+-bậc thang khúc lượn
+-bậc thang vòng
+@Lĩnh vực: điện lạnh
+-tời điện

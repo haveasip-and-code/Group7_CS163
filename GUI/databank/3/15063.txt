@@ -1,3 +1,3 @@
-deworming
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự tẩy giãn
-
+deworming	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự tẩy giãn

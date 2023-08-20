@@ -1,3 +1,24 @@
-basic
-	@basic /'beisik/\n*  tính từ\n- cơ bản, cơ sở\n=basic principle+ những nguyên tắc cơ bản\n=basic frequency+ tần số cơ sở\n- (hoá học) (thuộc) bazơ\n@Chuyên ngành kinh tế\n-chỉ số gia quyền theo cơ sở\n@Chuyên ngành kỹ thuật\n-ngôn ngữ Basic\n@Chuyên ngành kỹ thuật\n-cạnh gốc\n-chủ yếu\n-chuẩn\n-cốt yếu\n-đường đáy\n-đường gốc\n-kiềm\n-tính kiềm\n@Lĩnh vực: cơ khí & công trình\n-bazơ\n@Lĩnh vực: điện lạnh\n-tính bazơ
-
+basic	
+@basic /'beisik/
+*  tính từ
+- cơ bản, cơ sở=basic principle
++ những nguyên tắc cơ bản=basic frequency
++ tần số cơ sở
+- (hoá học) (thuộc) bazơ
+@Chuyên ngành kinh tế
+-chỉ số gia quyền theo cơ sở
+@Chuyên ngành kỹ thuật
+-ngôn ngữ Basic
+@Chuyên ngành kỹ thuật
+-cạnh gốc
+-chủ yếu
+-chuẩn
+-cốt yếu
+-đường đáy
+-đường gốc
+-kiềm
+-tính kiềm
+@Lĩnh vực: cơ khí & công trình
+-bazơ
+@Lĩnh vực: điện lạnh
+-tính bazơ

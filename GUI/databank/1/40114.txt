@@ -1,3 +1,6 @@
-payer
-	@payer /'peiə/\n*  danh từ\n- người trả tiền\n@Chuyên ngành kinh tế\n-người ký phát (chi phiếu, hối phiếu)\n-người trả tiền
-
+payer	@payer /'peiə/
+*  danh từ
+- người trả tiền
+@Chuyên ngành kinh tế
+-người ký phát (chi phiếu, hối phiếu)
+-người trả tiền

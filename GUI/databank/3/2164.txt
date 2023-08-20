@@ -1,3 +1,2 @@
-anecdotalist
-	@anecdotalist\n- xem anecdotal
-
+anecdotalist	@anecdotalist
+- xem anecdotal

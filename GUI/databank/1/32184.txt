@@ -1,3 +1,20 @@
-lighthouse
-	@lighthouse /'laithaus/\n*  danh từ\n- đèn biển, hải đăng\n@Chuyên ngành kinh tế\n-đèn biển\n-hải đăng\n-tháp đèn\n-tháp đèn biển\n@Chuyên ngành kỹ thuật\n-đèn biển\n-hải đăng\n@Lĩnh vực: xây dựng\n-nhà đèn\n-trạm đèn biển\n@Chuyên ngành kỹ thuật\n-đèn biển\n-hải đăng\n@Lĩnh vực: xây dựng\n-nhà đèn\n-trạm đèn biển
-
+lighthouse	@lighthouse /'laithaus/
+*  danh từ
+- đèn biển, hải đăng
+@Chuyên ngành kinh tế
+-đèn biển
+-hải đăng
+-tháp đèn
+-tháp đèn biển
+@Chuyên ngành kỹ thuật
+-đèn biển
+-hải đăng
+@Lĩnh vực: xây dựng
+-nhà đèn
+-trạm đèn biển
+@Chuyên ngành kỹ thuật
+-đèn biển
+-hải đăng
+@Lĩnh vực: xây dựng
+-nhà đèn
+-trạm đèn biển

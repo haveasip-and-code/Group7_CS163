@@ -1,3 +1,15 @@
-norm
-	@norm /nɔ:m/\n*  danh từ\n- quy tắc tiêu chuẩn\n- chỉ tiêu (trong sản xuất)\n@Chuyên ngành kỹ thuật\n-chi tiêu\n-chuẩn tắc\n-định chuẩn\n-định mức\n-mẫu\n-mức\n-mức chuẩn\n-quy phạm\n@Lĩnh vực: toán & tin\n-chuẩn, định chuẩn
-
+norm	@norm /nɔ:m/
+*  danh từ
+- quy tắc tiêu chuẩn
+- chỉ tiêu (trong sản xuất)
+@Chuyên ngành kỹ thuật
+-chi tiêu
+-chuẩn tắc
+-định chuẩn
+-định mức
+-mẫu
+-mức
+-mức chuẩn
+-quy phạm
+@Lĩnh vực: toán & tin
+-chuẩn, định chuẩn

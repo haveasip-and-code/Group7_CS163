@@ -1,3 +1,19 @@
-resolver
-	@resolver\n* danh từ\n- (hoá học) dung môi; chất hoà tan\n- dụng cụ phân tích\n- (tin học) thiết bị giải\n- người kiên quyết, người quyết tâm\n@Chuyên ngành kỹ thuật\n-bộ giải đồng bộ\n-bộ phân giải\n-bộ tạo sin-cosin\n-chất hòa tan\n-dụng cụ phân tích\n-dung môi\n@Lĩnh vực: toán & tin\n-bộ giải\n@Lĩnh vực: điện lạnh\n-bộ giải góc rôto\n@Lĩnh vực: điện\n-bộ thay đổi
-
+resolver	@resolver
+* danh từ
+- (hoá học) dung môi; chất hoà tan
+- dụng cụ phân tích
+- (tin học) thiết bị giải
+- người kiên quyết, người quyết tâm
+@Chuyên ngành kỹ thuật
+-bộ giải đồng bộ
+-bộ phân giải
+-bộ tạo sin-cosin
+-chất hòa tan
+-dụng cụ phân tích
+-dung môi
+@Lĩnh vực: toán & tin
+-bộ giải
+@Lĩnh vực: điện lạnh
+-bộ giải góc rôto
+@Lĩnh vực: điện
+-bộ thay đổi

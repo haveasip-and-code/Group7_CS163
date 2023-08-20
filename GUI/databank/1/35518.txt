@@ -1,3 +1,4 @@
-monolingual
-	@monolingual\n* tính từ\n- dùng một ngôn ngữ mà thôi; đơn ngữ\n= a monolingual dictionary+từ điển một thứ tiếng
-
+monolingual	@monolingual
+* tính từ
+- dùng một ngôn ngữ mà thôi; đơn ngữ
+= a monolingual dictionary+từ điển một thứ tiếng

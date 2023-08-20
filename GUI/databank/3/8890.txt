@@ -1,3 +1,4 @@
-checkered
-	@checkered\n- như chequered\n@Chuyên ngành kỹ thuật\n-kẻ ô vuông
-
+checkered	@checkered
+- như chequered
+@Chuyên ngành kỹ thuật
+-kẻ ô vuông

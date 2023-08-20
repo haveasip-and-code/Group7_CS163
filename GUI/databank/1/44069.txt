@@ -1,3 +1,6 @@
-propane
-	@propane\n* danh từ\n- prôban (khí không màu có trong tự nhiên và dầu lửa, dùng làm nhiên liệu)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-CH3CH2CH3
-
+propane	@propane
+* danh từ
+- prôban (khí không màu có trong tự nhiên và dầu lửa, dùng làm nhiên liệu)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-CH3CH2CH3

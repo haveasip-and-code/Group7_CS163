@@ -1,3 +1,2 @@
-bellhop
-	@Chuyên ngành kinh tế\n-nhân viên khuân vác
-
+bellhop	@Chuyên ngành kinh tế
+-nhân viên khuân vác

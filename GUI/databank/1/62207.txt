@@ -1,3 +1,7 @@
-voussoir
-	@Chuyên ngành kỹ thuật\n-gạch cuốn vòm\n-gạch định cỡ\n-gạch nêm\n-gạch vòm\n@Lĩnh vực: xây dựng\n-đá nêm
-
+voussoir	@Chuyên ngành kỹ thuật
+-gạch cuốn vòm
+-gạch định cỡ
+-gạch nêm
+-gạch vòm
+@Lĩnh vực: xây dựng
+-đá nêm

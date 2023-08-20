@@ -1,3 +1,13 @@
-cease
-	@cease /si:s/\n*  động từ\n- dừng, ngừng, ngớt, thôi, hết, tạnh\n=to cease form work+ ngừng việc\n=cease fire+ ngừng bắn!\n*  danh từ\n- without cease không ngừng, không ngớt, liên tục\n=to work without cease+ làm việc liên tục\n@Chuyên ngành kỹ thuật\n-dừng\n-hết dần\n-nghỉ\n-ngừng
-
+cease	@cease /si:s/
+*  động từ
+- dừng, ngừng, ngớt, thôi, hết, tạnh
+=to cease form work+ ngừng việc
+=cease fire+ ngừng bắn!
+*  danh từ
+- without cease không ngừng, không ngớt, liên tục
+=to work without cease+ làm việc liên tục
+@Chuyên ngành kỹ thuật
+-dừng
+-hết dần
+-nghỉ
+-ngừng

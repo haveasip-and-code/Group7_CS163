@@ -1,3 +1,5 @@
-readout
-	@Chuyên ngành kỹ thuật\n-đọc ra (thông tin)\n-màn hình\n-sự chỉ báo\n-sự hiển thị
-
+readout	@Chuyên ngành kỹ thuật
+-đọc ra (thông tin)
+-màn hình
+-sự chỉ báo
+-sự hiển thị

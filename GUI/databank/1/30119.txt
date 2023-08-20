@@ -1,3 +1,18 @@
-isolate
-	@isolate /'aisəleit/\n*  ngoại động từ\n- cô lập\n- (y học) cách ly\n- (điện học) cách\n- (hoá học) tách ra\n@Chuyên ngành kinh tế\n-cách ly\n-tách ra\n@Chuyên ngành kỹ thuật\n-ngắt\n-ngắt điện\n-riêng biệt\n-tách\n-tách biệt\n@Lĩnh vực: toán & tin\n-khái niệm phân lập
-
+isolate	
+@isolate /'aisəleit/
+*  ngoại động từ
+- cô lập
+- (y học) cách ly
+- (điện học) cách
+- (hoá học) tách ra
+@Chuyên ngành kinh tế
+-cách ly
+-tách ra
+@Chuyên ngành kỹ thuật
+-ngắt
+-ngắt điện
+-riêng biệt
+-tách
+-tách biệt
+@Lĩnh vực: toán & tin
+-khái niệm phân lập

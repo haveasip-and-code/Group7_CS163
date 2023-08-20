@@ -1,3 +1,7 @@
-emulsified
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được nhũ hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được nhũ hóa
-
+emulsified	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được nhũ hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được nhũ hóa

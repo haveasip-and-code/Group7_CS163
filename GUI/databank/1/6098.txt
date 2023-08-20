@@ -1,3 +1,8 @@
-boar
-	@boar /bɔ:/\n*  danh từ\n- lợn đực\n- thịt lợn đực\n@Chuyên ngành kinh tế\n-lợn đực\n-thịt lợn đực
-
+boar	
+@boar /bɔ:/
+*  danh từ
+- lợn đực
+- thịt lợn đực
+@Chuyên ngành kinh tế
+-lợn đực
+-thịt lợn đực

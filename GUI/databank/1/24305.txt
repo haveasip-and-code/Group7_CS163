@@ -1,3 +1,73 @@
-grind
-	@grind /graind/\n*  danh từ\n- sự xay, sự tán, sự nghiền\n- sự mài\n- tiếng nghiến ken két\n- (nghĩa bóng) công việc cực nhọc đều đều\n=the daily grind+ công việc hằng ngày\n- cuộc đi bộ để tập luyện\n- lớp học rút (để đi thi); lớp luyện thi\n- (từ lóng) cuộc đua ngựa nhảy rào\n- (từ Mỹ,nghĩa Mỹ) học sinh học gạo\n*  động từ ground\n- xay, tán, nghiền\n=to grind corn into flour+ xay lúa mì thành bột\n- mài, giũa\n=to grind a knife+ mài dao\n=to grind diamonds+ mài kim cương\n- xát, nghiền\n=to grind one's teeth [together]+ nghiến răng\n=the ship grinding on the rocks+ tàu sạt vào những tảng đá\n=to grind one's heel into the ground+ di di gót chân xuống đất\n- đàn áp, áp bức, đè nén\n=to grind the faces of the poor+ áp bức người nghèo\n- quay cối xay cà phê\n=to grind music out of a hurdy-gurdy+ quay đàn vien\n=to grind out some verses+ nặn ra vài câu thơ\n- bắt (ai) làm việc cật lực\n- nhồi nhét\n=to grind for the exam+ học nhồi để thi\n!to grind away\n- (+ at) làm cật lực, làm tích cực\n- học tập cần cù; học gạo\n!to grind down\n- xay nhỏ, tán nhỏ, nghiền nhỏ, nghiền nát\n- hành hạ, áp bức\n!to grind in\n- (kỹ thuật) mài, nghiền, rà\n!to grind out\n- đè bẹp, giẫm nát, nghiền nát\n- nghiền, nạo ra\n=to grind out an oath+ nghiến răng lại mà nguyền rủa\n!to grind up\n- nghiền nhỏ, tán nhỏ\n!to grind one's own axe\n- theo đuổi mục đích cá nhân\n!to have an axe to grind\n- có một mục đích cá nhân phải đạt\n@Chuyên ngành kinh tế\n-sự nghiền mịn\n-sự nghiền nhỏ\n-tán\n-xây\n@Chuyên ngành kỹ thuật\n-cọ xát\n-đập vụn\n-làm sạch\n-nghiền\n-nghiền vụn\n-mài\n-rà\n-sự đánh bóng\n-sự đập nhỏ\n-sự mài\n-sự nghiền\n-sự tán\n-sự xay\n-tán thành bột\n-xay\n@Lĩnh vực: hóa học & vật liệu\n-giã thành bột\n@Lĩnh vực: cơ khí & công trình\n-nghiền thành bột\n-mài sắt\n@Lĩnh vực: xây dựng\n-mái sắc\n@Lĩnh vực: ô tô\n-rũa
-
+grind	
+@grind /graind/
+*  danh từ
+- sự xay, sự tán, sự nghiền
+- sự mài
+- tiếng nghiến ken két
+- (nghĩa bóng) công việc cực nhọc đều đều=the daily grind
++ công việc hằng ngày
+- cuộc đi bộ để tập luyện
+- lớp học rút (để đi thi); lớp luyện thi
+- (từ lóng) cuộc đua ngựa nhảy rào
+- (từ Mỹ,nghĩa Mỹ) học sinh học gạo
+*  động từ ground
+- xay, tán, nghiền=to grind corn into flour
++ xay lúa mì thành bột
+- mài, giũa=to grind a knife
++ mài dao=to grind diamonds
++ mài kim cương
+- xát, nghiền=to grind one's teeth [together]
++ nghiến răng=the ship grinding on the rocks
++ tàu sạt vào những tảng đá=to grind one's heel into the ground
++ di di gót chân xuống đất
+- đàn áp, áp bức, đè nén=to grind the faces of the poor
++ áp bức người nghèo
+- quay cối xay cà phê=to grind music out of a hurdy
+-gurdy
++ quay đàn vien=to grind out some verses
++ nặn ra vài câu thơ
+- bắt (ai) làm việc cật lực
+- nhồi nhét=to grind for the exam
++ học nhồi để thi!to grind away
+- (
++ at) làm cật lực, làm tích cực
+- học tập cần cù; học gạo!to grind down
+- xay nhỏ, tán nhỏ, nghiền nhỏ, nghiền nát
+- hành hạ, áp bức!to grind in
+- (kỹ thuật) mài, nghiền, rà!to grind out
+- đè bẹp, giẫm nát, nghiền nát
+- nghiền, nạo ra=to grind out an oath
++ nghiến răng lại mà nguyền rủa!to grind up
+- nghiền nhỏ, tán nhỏ!to grind one's own axe
+- theo đuổi mục đích cá nhân!to have an axe to grind
+- có một mục đích cá nhân phải đạt
+@Chuyên ngành kinh tế
+-sự nghiền mịn
+-sự nghiền nhỏ
+-tán
+-xây
+@Chuyên ngành kỹ thuật
+-cọ xát
+-đập vụn
+-làm sạch
+-nghiền
+-nghiền vụn
+-mài
+-rà
+-sự đánh bóng
+-sự đập nhỏ
+-sự mài
+-sự nghiền
+-sự tán
+-sự xay
+-tán thành bột
+-xay
+@Lĩnh vực: hóa học & vật liệu
+-giã thành bột
+@Lĩnh vực: cơ khí & công trình
+-nghiền thành bột
+-mài sắt
+@Lĩnh vực: xây dựng
+-mái sắc
+@Lĩnh vực: ô tô
+-rũa

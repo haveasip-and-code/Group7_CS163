@@ -1,3 +1,5 @@
-ruled
-	@ruled\n- kẻ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-kẻ
-
+ruled	@ruled
+- kẻ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kẻ

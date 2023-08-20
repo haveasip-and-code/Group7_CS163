@@ -1,3 +1,5 @@
-corkboard
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tấm lie\n@Lĩnh vực: hóa học & vật liệu\n-ván cách nhiệt và âm
-
+corkboard	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tấm lie
+@Lĩnh vực: hóa học & vật liệu
+-ván cách nhiệt và âm

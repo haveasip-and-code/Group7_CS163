@@ -1,3 +1,17 @@
-plotter
-	@plotter /'plɔtə/\n*  danh từ\n- kẻ âm mưu, kẻ bày mưu\n@Chuyên ngành kỹ thuật\n-người đo vẽ\n-máy đo vẽ\n-máy vẽ\n-máy vẽ đồ thị\n@Lĩnh vực: toán & tin\n-cái vẽ đường cong\n-người vẽ đồ thị\n-máy ghi tọa độ\n-máy vẽ, plotter\n@Lĩnh vực: điện\n-máy vẽ (sơ đồ)\n@Lĩnh vực: xây dựng\n-mưu đồ viên
-
+plotter	@plotter /'plɔtə/
+*  danh từ
+- kẻ âm mưu, kẻ bày mưu
+@Chuyên ngành kỹ thuật
+-người đo vẽ
+-máy đo vẽ
+-máy vẽ
+-máy vẽ đồ thị
+@Lĩnh vực: toán & tin
+-cái vẽ đường cong
+-người vẽ đồ thị
+-máy ghi tọa độ
+-máy vẽ, plotter
+@Lĩnh vực: điện
+-máy vẽ (sơ đồ)
+@Lĩnh vực: xây dựng
+-mưu đồ viên

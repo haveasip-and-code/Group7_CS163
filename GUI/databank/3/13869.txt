@@ -1,3 +1,7 @@
-decode
-	@decode /'di:'koud/\n*  ngoại động từ\n- đọc (mật mã), giải (mã)\n@Chuyên ngành kỹ thuật\n-đọc mã\n-đọc mật mã\n-giải mã
-
+decode	@decode /'di:'koud/
+*  ngoại động từ
+- đọc (mật mã), giải (mã)
+@Chuyên ngành kỹ thuật
+-đọc mã
+-đọc mật mã
+-giải mã

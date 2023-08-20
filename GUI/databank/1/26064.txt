@@ -1,3 +1,5 @@
-homologues
-	@Chuyên ngành kỹ thuật\n-chất đồng đẳng\n@Lĩnh vực: xây dựng\n-vật tương đồng
-
+homologues	
+@Chuyên ngành kỹ thuật
+-chất đồng đẳng
+@Lĩnh vực: xây dựng
+-vật tương đồng

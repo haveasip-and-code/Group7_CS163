@@ -1,3 +1,23 @@
-late
-	@late /leit/\n*  tính từ latter,  latest,  last\n- muộn, chậm, trễ\n=to arrive too late+ đến trễ quá\n=late at night+ khuya lắm\n=late in the year+ vào cuối năm\n=early or late; soon or late; sooner or late+ không sớm thì muộn, chẳng chóng thì chầy\n- (thơ ca) mới rồi, gần đây\n=as late as yeaterday+ mới hôm qua đây thôi\n!better late than never\n- (xem) better\n@Chuyên ngành kỹ thuật\n-chậm\n-cuối\n-sau\n@Lĩnh vực: toán & tin\n-chậm, cuối, sau\n@Chuyên ngành kỹ thuật\n-chậm\n-cuối\n-sau\n@Lĩnh vực: toán & tin\n-chậm, cuối, sau
-
+late	@late /leit/
+*  tính từ latter,  latest,  last
+- muộn, chậm, trễ
+=to arrive too late+ đến trễ quá
+=late at night+ khuya lắm
+=late in the year+ vào cuối năm
+=early or late; soon or late; sooner or late+ không sớm thì muộn, chẳng chóng thì chầy
+- (thơ ca) mới rồi, gần đây
+=as late as yeaterday+ mới hôm qua đây thôi
+!better late than never
+- (xem) better
+@Chuyên ngành kỹ thuật
+-chậm
+-cuối
+-sau
+@Lĩnh vực: toán & tin
+-chậm, cuối, sau
+@Chuyên ngành kỹ thuật
+-chậm
+-cuối
+-sau
+@Lĩnh vực: toán & tin
+-chậm, cuối, sau

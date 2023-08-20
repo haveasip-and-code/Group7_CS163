@@ -1,3 +1,11 @@
-thermograph
-	@thermograph /'θə:məgrɑ:f/\n*  danh từ\n- máy ghi nhiệt\n@Chuyên ngành kỹ thuật\n-nhiệt kế hồng ngoại\n-nhiệt kế tự ghi\n-nhiệt ký\n-máy ghi nhiệt\n-máy ghi nhiệt độ\n@Lĩnh vực: điện lạnh\n-bộ ghi nhiệt độ
-
+thermograph	@thermograph /'θə:məgrɑ:f/
+*  danh từ
+- máy ghi nhiệt
+@Chuyên ngành kỹ thuật
+-nhiệt kế hồng ngoại
+-nhiệt kế tự ghi
+-nhiệt ký
+-máy ghi nhiệt
+-máy ghi nhiệt độ
+@Lĩnh vực: điện lạnh
+-bộ ghi nhiệt độ

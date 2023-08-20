@@ -1,3 +1,7 @@
-redraw
-	@redraw\n* ngoại động từ (redrew,  redrawn)+kéo lại; kéo ngược lại\n@Chuyên ngành kỹ thuật\n-kéo lại\n@Lĩnh vực: xây dựng\n-vạch lại\n-vẽ lại
-
+redraw	@redraw
+* ngoại động từ (redrew,  redrawn)+kéo lại; kéo ngược lại
+@Chuyên ngành kỹ thuật
+-kéo lại
+@Lĩnh vực: xây dựng
+-vạch lại
+-vẽ lại

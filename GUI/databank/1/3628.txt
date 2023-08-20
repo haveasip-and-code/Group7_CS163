@@ -1,3 +1,38 @@
-assignment
-	@assignment /ə'sainmənt/\n*  danh từ\n- sự giao việc, sự phân công; (từ Mỹ,nghĩa Mỹ) việc được giao, việc được phân công\n- sự chia phần\n- sự cho là, sự quy cho\n=assignment of reason+ sự cho là có lý do\n- (pháp lý) sự nhượng lại, sự chuyển nhượng; chứng từ chuyển nhượng\n@Chuyên ngành kinh tế\n-bổ dụng\n-bổ nhiệm\n-chuyển tên người sở hữu\n-công việc được giao\n-nhiệm vụ\n-phân công\n-sự chuyển nhượng (tài sản, quyền lợi, trái khoản ...)\n-sự phân phối\n-việc chuyển nhượng chứng từ chuyển nhượng\n@Chuyên ngành kỹ thuật\n-gán\n-sự cài đặt\n-sự chuyển nhượng\n-sự phân bố\n-sự phân bổ\n-sự thiết lập\n@Lĩnh vực: hóa học & vật liệu\n-chuyển nhượng\n-nhượng lại\n@Lĩnh vực: xây dựng\n-chuyển nhượng hợp đồng\n-phân công\n-sự ấn định\n@Lĩnh vực: giao thông & vận tải\n-đợt công tác\n@Lĩnh vực: toán & tin\n-phép gán\n-sự gán\n-sự phân công
-
+assignment	
+@assignment /ə'sainmənt/
+*  danh từ
+- sự giao việc, sự phân công; (từ Mỹ,nghĩa Mỹ) việc được giao, việc được phân công
+- sự chia phần
+- sự cho là, sự quy cho=assignment of reason
++ sự cho là có lý do
+- (pháp lý) sự nhượng lại, sự chuyển nhượng; chứng từ chuyển nhượng
+@Chuyên ngành kinh tế
+-bổ dụng
+-bổ nhiệm
+-chuyển tên người sở hữu
+-công việc được giao
+-nhiệm vụ
+-phân công
+-sự chuyển nhượng (tài sản, quyền lợi, trái khoản ...)
+-sự phân phối
+-việc chuyển nhượng chứng từ chuyển nhượng
+@Chuyên ngành kỹ thuật
+-gán
+-sự cài đặt
+-sự chuyển nhượng
+-sự phân bố
+-sự phân bổ
+-sự thiết lập
+@Lĩnh vực: hóa học & vật liệu
+-chuyển nhượng
+-nhượng lại
+@Lĩnh vực: xây dựng
+-chuyển nhượng hợp đồng
+-phân công
+-sự ấn định
+@Lĩnh vực: giao thông & vận tải
+-đợt công tác
+@Lĩnh vực: toán & tin
+-phép gán
+-sự gán
+-sự phân công

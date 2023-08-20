@@ -1,3 +1,8 @@
-guttering
-	@guttering\n* danh từ\n- hệ thống thoát nước\n@Chuyên ngành kỹ thuật\n-rãnh nước\n@Lĩnh vực: y học\n-thủ thuật rẽ rãnh xương
-
+guttering	
+@guttering
+* danh từ
+- hệ thống thoát nước
+@Chuyên ngành kỹ thuật
+-rãnh nước
+@Lĩnh vực: y học
+-thủ thuật rẽ rãnh xương

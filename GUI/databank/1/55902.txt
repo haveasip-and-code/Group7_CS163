@@ -1,3 +1,5 @@
-tempered
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-đã ram\n@Lĩnh vực: vật lý\n-được ram
-
+tempered	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-đã ram
+@Lĩnh vực: vật lý
+-được ram

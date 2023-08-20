@@ -1,3 +1,44 @@
-cable
-	@cable /'keibl/\n*  danh từ\n- dây cáp\n- cáp xuyên đại dương\n- (như) cablegram\n- (hàng hải) dây neo\n- (hàng hải) tầm (1 qoành 0 hải lý tức 183m,  (từ Mỹ,nghĩa Mỹ) 219m) ((cũng) cable length)\n- đường viền xoắn (quanh cột); đường chạm xoắn (vòng vàng)\n!to cut (slip) one's cables\n- (từ lóng) chết ngoẻo\n*  động từ\n- cột bằng dây cáp, buộc bằng dây cáp\n- đánh điện xuyên đại dương; đánh cáp\n- trang bị bằng đường viền xoắn (cột)\n@Chuyên ngành kinh tế\n-đánh điện\n-gửi điện\n@Chuyên ngành kỹ thuật\n-bức điện báo\n-cáp bện\n-cáp kéo\n-cáp neo\n-đánh điện\n-dây\n-dây cáp\n-dây chão\n-dây dẫn điện\n-dây điện to\n-dây neo\n-dây treo\n-điện báo\n-gờ trang trí\n-tầm\n-xích neo\n@Lĩnh vực: cơ khí & công trình\n-buộc bằng cáp\n@Lĩnh vực: điện\n-cáp dự ứng lực\n@Lĩnh vực: xây dựng\n-dây áp\n@Lĩnh vực: ô tô\n-dây cáp mềm\n@Lĩnh vực: điện tử & viễn thông\n-dây điện tín
-
+cable	@cable /'keibl/
+*  danh từ
+- dây cáp
+- cáp xuyên đại dương
+- (như) cablegram
+- (hàng hải) dây neo
+- (hàng hải) tầm (1 qoành 0 hải lý tức 183m,  (từ Mỹ,nghĩa Mỹ) 219m) ((cũng) cable length)
+- đường viền xoắn (quanh cột); đường chạm xoắn (vòng vàng)
+!to cut (slip) one's cables
+- (từ lóng) chết ngoẻo
+*  động từ
+- cột bằng dây cáp, buộc bằng dây cáp
+- đánh điện xuyên đại dương; đánh cáp
+- trang bị bằng đường viền xoắn (cột)
+@Chuyên ngành kinh tế
+-đánh điện
+-gửi điện
+@Chuyên ngành kỹ thuật
+-bức điện báo
+-cáp bện
+-cáp kéo
+-cáp neo
+-đánh điện
+-dây
+-dây cáp
+-dây chão
+-dây dẫn điện
+-dây điện to
+-dây neo
+-dây treo
+-điện báo
+-gờ trang trí
+-tầm
+-xích neo
+@Lĩnh vực: cơ khí & công trình
+-buộc bằng cáp
+@Lĩnh vực: điện
+-cáp dự ứng lực
+@Lĩnh vực: xây dựng
+-dây áp
+@Lĩnh vực: ô tô
+-dây cáp mềm
+@Lĩnh vực: điện tử & viễn thông
+-dây điện tín

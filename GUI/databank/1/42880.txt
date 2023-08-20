@@ -1,3 +1,2 @@
-pouty
-	@pouty\n- xem pout
-
+pouty	@pouty
+- xem pout

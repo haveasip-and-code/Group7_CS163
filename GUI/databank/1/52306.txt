@@ -1,3 +1,4 @@
-spendable
-	@spendable /'spendəbl/\n*  tính từ\n- có thể tiêu được\n- có thể dùng được
-
+spendable	@spendable /'spendəbl/
+*  tính từ
+- có thể tiêu được
+- có thể dùng được

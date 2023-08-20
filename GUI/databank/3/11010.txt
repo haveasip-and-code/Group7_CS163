@@ -1,3 +1,2 @@
-condylar
-	@condylar\n- xem condyle
-
+condylar	@condylar
+- xem condyle

@@ -1,3 +1,4 @@
-nondestructive
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-không phá hủy\n-không tiêu hủy
-
+nondestructive	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-không phá hủy
+-không tiêu hủy

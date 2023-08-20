@@ -1,3 +1,19 @@
-substitution
-	@substitution /,sʌbsti'tju:ʃn/\n*  danh từ\n- sự thế, sự thay thế\n- sự đổi\n@Chuyên ngành kinh tế\n-sự thay thế\n-thay thế\n@Chuyên ngành kỹ thuật\n-chuyển đổi\n-sự thay thế\n-thay chỗ\n-thay thế\n@Lĩnh vực: điện tử & viễn thông\n-phép thay thế\n@Lĩnh vực: toán & tin\n-phép thế\n-phép thế, sự thế\n@Lĩnh vực: xây dựng\n-sự được thay thế
-
+substitution	@substitution /,sʌbsti'tju:ʃn/
+*  danh từ
+- sự thế, sự thay thế
+- sự đổi
+@Chuyên ngành kinh tế
+-sự thay thế
+-thay thế
+@Chuyên ngành kỹ thuật
+-chuyển đổi
+-sự thay thế
+-thay chỗ
+-thay thế
+@Lĩnh vực: điện tử & viễn thông
+-phép thay thế
+@Lĩnh vực: toán & tin
+-phép thế
+-phép thế, sự thế
+@Lĩnh vực: xây dựng
+-sự được thay thế

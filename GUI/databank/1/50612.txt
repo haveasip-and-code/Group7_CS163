@@ -1,3 +1,6 @@
-sideband
-	@Chuyên ngành kỹ thuật\n-dải bên\n@Lĩnh vực: toán & tin\n-dải biên, dải lề\n@Lĩnh vực: điện lạnh\n-dải lề (tần số, sóng)
-
+sideband	@Chuyên ngành kỹ thuật
+-dải bên
+@Lĩnh vực: toán & tin
+-dải biên, dải lề
+@Lĩnh vực: điện lạnh
+-dải lề (tần số, sóng)

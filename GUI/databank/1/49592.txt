@@ -1,3 +1,8 @@
-segmental
-	@segmental /seg'mentl/\n*  tính từ\n- có hình phân, có khúc, có đoạn\n=segmental arc+ đoạn cung\n=segmental phonetics+ (ngôn ngữ học) ngữ âm học đoạn tính\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phân đoạn, từng đoạn
-
+segmental	@segmental /seg'mentl/
+*  tính từ
+- có hình phân, có khúc, có đoạn
+=segmental arc+ đoạn cung
+=segmental phonetics+ (ngôn ngữ học) ngữ âm học đoạn tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phân đoạn, từng đoạn

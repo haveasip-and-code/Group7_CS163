@@ -1,3 +1,10 @@
-heuristics
-	@heuristics\n* danh từ\n- phương pháp giải quyết vấn đề bằng cách đánh giá kinh nghiệm, và tìm giải pháp qua thử nghiệm và rút tỉa khuyết điểm\n@Chuyên ngành kỹ thuật\n-phỏng đoán\n-tự tìm tòi\n@Lĩnh vực: toán & tin\n-ơristic\n-suy nghiệm
-
+heuristics	
+@heuristics
+* danh từ
+- phương pháp giải quyết vấn đề bằng cách đánh giá kinh nghiệm, và tìm giải pháp qua thử nghiệm và rút tỉa khuyết điểm
+@Chuyên ngành kỹ thuật
+-phỏng đoán
+-tự tìm tòi
+@Lĩnh vực: toán & tin
+-ơristic
+-suy nghiệm

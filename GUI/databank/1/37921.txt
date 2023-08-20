@@ -1,3 +1,14 @@
-opener
-	@opener /'oupnə/\n*  danh từ\n- người mở\n- vật để mở, cái mở (hộp, nút chai...)\n- (thể dục,thể thao) cuộc đấu mở màn\n@Chuyên ngành kinh tế\n-người yêu cầu mở thư tín dụng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cơ cấu mở\n-dụng cụ mở\n@Lĩnh vực: dệt may\n-máy hở đai kiện\n-máy xé kiện
-
+opener	@opener /'oupnə/
+*  danh từ
+- người mở
+- vật để mở, cái mở (hộp, nút chai...)
+- (thể dục,thể thao) cuộc đấu mở màn
+@Chuyên ngành kinh tế
+-người yêu cầu mở thư tín dụng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-cơ cấu mở
+-dụng cụ mở
+@Lĩnh vực: dệt may
+-máy hở đai kiện
+-máy xé kiện

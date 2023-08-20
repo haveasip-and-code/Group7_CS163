@@ -1,3 +1,12 @@
-dewaxing
-	@Chuyên ngành kỹ thuật\n-loại sáp\n-tách parafin\n@Lĩnh vực: điện lạnh\n-khử parafin\n-khử sáp\n-sự khử parafin\n-sự khử sáp\n@Lĩnh vực: hóa học & vật liệu\n-loại parafin\n-sự cô đặc ( dầu thô)
-
+dewaxing	
+@Chuyên ngành kỹ thuật
+-loại sáp
+-tách parafin
+@Lĩnh vực: điện lạnh
+-khử parafin
+-khử sáp
+-sự khử parafin
+-sự khử sáp
+@Lĩnh vực: hóa học & vật liệu
+-loại parafin
+-sự cô đặc ( dầu thô)

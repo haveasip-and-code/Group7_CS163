@@ -1,3 +1,28 @@
-radius
-	@radius /'reidjəs/\n*  danh từ,  số nhiều radii  /'reidiai/\n- bán kính\n=radius of a circle+ (toán học) bán kính của một vòng tròn\n=atomic radius+ bán kính nguyên tử\n- vật hình tia; nan hoa (bánh xe)\n- phạm vi, vòng\n=within a radius of 5 kilometers from Hanoi+ trong phạm vi cách Hà-nội 5 kilômét\n=within the radius of knowlegde+ trong phạm vi hiểu biết\n- (giải phẫu) xương quay\n- (thực vật học) vành ngoài (của cụm hoa đầu); nhánh toả ra (của cụm hoa tán)\n- (kỹ thuật) tầm với (của cần trục...)\n@Chuyên ngành kinh tế\n-vành ngoài (của cụm hoa đầu)\n-xương quay\n@Chuyên ngành kỹ thuật\n-bán kính\n-kính cong\n-tầm\n@Lĩnh vực: toán & tin\n-bán kính, tia\n@Lĩnh vực: xây dựng\n-tay với (cần cẩu)\n-vành khắc độ\n@Lĩnh vực: cơ khí & công trình\n-vê tròn (bánh răng)\n@Lĩnh vực: y học\n-xương quay
-
+radius	@radius /'reidjəs/
+*  danh từ,  số nhiều radii  /'reidiai/
+- bán kính
+=radius of a circle+ (toán học) bán kính của một vòng tròn
+=atomic radius+ bán kính nguyên tử
+- vật hình tia; nan hoa (bánh xe)
+- phạm vi, vòng
+=within a radius of 5 kilometers from Hanoi+ trong phạm vi cách Hà-nội 5 kilômét
+=within the radius of knowlegde+ trong phạm vi hiểu biết
+- (giải phẫu) xương quay
+- (thực vật học) vành ngoài (của cụm hoa đầu); nhánh toả ra (của cụm hoa tán)
+- (kỹ thuật) tầm với (của cần trục...)
+@Chuyên ngành kinh tế
+-vành ngoài (của cụm hoa đầu)
+-xương quay
+@Chuyên ngành kỹ thuật
+-bán kính
+-kính cong
+-tầm
+@Lĩnh vực: toán & tin
+-bán kính, tia
+@Lĩnh vực: xây dựng
+-tay với (cần cẩu)
+-vành khắc độ
+@Lĩnh vực: cơ khí & công trình
+-vê tròn (bánh răng)
+@Lĩnh vực: y học
+-xương quay

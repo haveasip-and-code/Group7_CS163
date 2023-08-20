@@ -1,3 +1,4 @@
-acetonitrile
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-axetonitril\n-etanenitrin
-
+acetonitrile	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-axetonitril
+-etanenitrin

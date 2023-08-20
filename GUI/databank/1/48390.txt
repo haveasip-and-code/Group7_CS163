@@ -1,3 +1,29 @@
-safeguard
-	@safeguard /'seifgɑ:d/\n*  danh từ\n- cái để bảo vệ, cái để che chở\n- (như) safe-conduct\n- (từ Mỹ,nghĩa Mỹ) bộ phận an toàn\n*  ngoại động từ\n- che chở, bảo vệ, giữ gìn\n=to safeguard peace+ giữ gìn hoà bình\n@Chuyên ngành kinh tế\n-bảo hộ\n-bảo vệ\n-phòng chống\n-sự bảo hộ\n-sự phòng chống\n@Chuyên ngành kỹ thuật\n-bảo vệ\n-biện pháp an toàn\n-bộ bảo vệ\n-che chắn\n-cơ cấu an toàn\n-tấm chắn\n-thiết bị an toàn\n@Lĩnh vực: toán & tin\n-chức năng bảo vệ\n@Lĩnh vực: cơ khí & công trình\n-đồ gá an toàn\n-vỏ che (máy)\n@Lĩnh vực: hóa học & vật liệu\n-thiết bị phòng hộ
-
+safeguard	@safeguard /'seifgɑ:d/
+*  danh từ
+- cái để bảo vệ, cái để che chở
+- (như) safe-conduct
+- (từ Mỹ,nghĩa Mỹ) bộ phận an toàn
+*  ngoại động từ
+- che chở, bảo vệ, giữ gìn
+=to safeguard peace+ giữ gìn hoà bình
+@Chuyên ngành kinh tế
+-bảo hộ
+-bảo vệ
+-phòng chống
+-sự bảo hộ
+-sự phòng chống
+@Chuyên ngành kỹ thuật
+-bảo vệ
+-biện pháp an toàn
+-bộ bảo vệ
+-che chắn
+-cơ cấu an toàn
+-tấm chắn
+-thiết bị an toàn
+@Lĩnh vực: toán & tin
+-chức năng bảo vệ
+@Lĩnh vực: cơ khí & công trình
+-đồ gá an toàn
+-vỏ che (máy)
+@Lĩnh vực: hóa học & vật liệu
+-thiết bị phòng hộ

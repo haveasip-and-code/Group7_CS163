@@ -1,3 +1,15 @@
-linoleum
-	@linoleum /li'mouljəm/\n*  danh từ\n- vải sơn lót sàn (nhà)\n@Chuyên ngành kỹ thuật\n-vải dầu\n@Lĩnh vực: xây dựng\n-vải sơn\n@Lĩnh vực: hóa học & vật liệu\n-vải sơn lót sàn nhà\n@Chuyên ngành kỹ thuật\n-vải dầu\n@Lĩnh vực: xây dựng\n-vải sơn\n@Lĩnh vực: hóa học & vật liệu\n-vải sơn lót sàn nhà
-
+linoleum	@linoleum /li'mouljəm/
+*  danh từ
+- vải sơn lót sàn (nhà)
+@Chuyên ngành kỹ thuật
+-vải dầu
+@Lĩnh vực: xây dựng
+-vải sơn
+@Lĩnh vực: hóa học & vật liệu
+-vải sơn lót sàn nhà
+@Chuyên ngành kỹ thuật
+-vải dầu
+@Lĩnh vực: xây dựng
+-vải sơn
+@Lĩnh vực: hóa học & vật liệu
+-vải sơn lót sàn nhà

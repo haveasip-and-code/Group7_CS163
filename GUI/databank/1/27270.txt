@@ -1,3 +1,4 @@
-immunoassay
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-xét nghiệm miễn dịch
-
+immunoassay	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-xét nghiệm miễn dịch

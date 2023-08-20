@@ -1,3 +1,4 @@
-telfer
-	@Chuyên ngành kỹ thuật\n-palăng điện\n@Lĩnh vực: xây dựng\n-cần trục chạy điện
-
+telfer	@Chuyên ngành kỹ thuật
+-palăng điện
+@Lĩnh vực: xây dựng
+-cần trục chạy điện

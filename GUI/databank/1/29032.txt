@@ -1,3 +1,10 @@
-instructions
-	@Chuyên ngành kinh tế\n-cách dùng\n-chỉ định (cách dùng thuốc)\n-hướng dẫn (cách dùng)\n@Chuyên ngành kỹ thuật\n-bản hướng dẫn\n-quy trình\n@Lĩnh vực: điện tử & viễn thông\n-nhiều chỉ thị
-
+instructions	
+@Chuyên ngành kinh tế
+-cách dùng
+-chỉ định (cách dùng thuốc)
+-hướng dẫn (cách dùng)
+@Chuyên ngành kỹ thuật
+-bản hướng dẫn
+-quy trình
+@Lĩnh vực: điện tử & viễn thông
+-nhiều chỉ thị

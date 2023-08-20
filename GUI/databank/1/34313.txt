@@ -1,3 +1,9 @@
-mending
-	@mending\n* danh từ\n- vật được vá/tu sữa/sửa chữa\n- sự vá lại/sửa chữa/tu sữa\n@Chuyên ngành kỹ thuật\n-sự mạng\n-sự sửa chữa\n-sự tu sửa\n-sự vá
-
+mending	@mending
+* danh từ
+- vật được vá/tu sữa/sửa chữa
+- sự vá lại/sửa chữa/tu sữa
+@Chuyên ngành kỹ thuật
+-sự mạng
+-sự sửa chữa
+-sự tu sửa
+-sự vá

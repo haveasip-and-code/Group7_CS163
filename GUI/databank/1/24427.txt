@@ -1,3 +1,11 @@
-growl
-	@growl /graul/\n*  danh từ\n- tiếng gầm, tiếng gầm gừ\n- tiếng càu nhàu, tiếng lẩm bẩm (giận dữ), tiếng làu bàu\n*  động từ\n- gầm, gầm gừ, rền (thú vật, sấm)\n=thunder is growling in the distance+ sấm rền ở phía xa\n- (+ at) càu nhàu, lẩm bẩm, làu bàu\n=to growl at someone+ càu nhàu với ai
-
+growl	
+@growl /graul/
+*  danh từ
+- tiếng gầm, tiếng gầm gừ
+- tiếng càu nhàu, tiếng lẩm bẩm (giận dữ), tiếng làu bàu
+*  động từ
+- gầm, gầm gừ, rền (thú vật, sấm)=thunder is growling in the distance
++ sấm rền ở phía xa
+- (
++ at) càu nhàu, lẩm bẩm, làu bàu=to growl at someone
++ càu nhàu với ai

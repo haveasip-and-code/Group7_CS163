@@ -1,3 +1,16 @@
-exact
-	@exact /ig'zækt/\n*  tính từ\n- chính xác, đúng, đúng dắn\n=exact sciences+ khoa học chính xác\n*  ngoại động từ (+ from,  of)\n- tống (tiền...); bắt phải nộp, bắt phải đóng, bóp nặn (thuế...)\n- đòi hỏi, đòi khăng khăng, đòi hỏi cấp bách\n@Chuyên ngành kinh tế\n-bắt buộc phải\n-đòi hỏi\n@Chuyên ngành kỹ thuật\n-đúng\n@Chuyên ngành kỹ thuật\n-đúng
-
+exact	
+@exact /ig'zækt/
+*  tính từ
+- chính xác, đúng, đúng dắn=exact sciences
++ khoa học chính xác
+*  ngoại động từ (
++ from,  of)
+- tống (tiền...); bắt phải nộp, bắt phải đóng, bóp nặn (thuế...)
+- đòi hỏi, đòi khăng khăng, đòi hỏi cấp bách
+@Chuyên ngành kinh tế
+-bắt buộc phải
+-đòi hỏi
+@Chuyên ngành kỹ thuật
+-đúng
+@Chuyên ngành kỹ thuật
+-đúng

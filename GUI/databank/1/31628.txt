@@ -1,3 +1,9 @@
-latrine
-	@latrine /lə'tri:n/\n*  danh từ\n- nhà xí (ở doanh trại, bệnh viện, nhà tù)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà xí\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà xí
-
+latrine	@latrine /lə'tri:n/
+*  danh từ
+- nhà xí (ở doanh trại, bệnh viện, nhà tù)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà xí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà xí

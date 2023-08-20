@@ -1,3 +1,4 @@
-plies
-	@Chuyên ngành kỹ thuật\n-lớp bố vỏ xe\n@Lĩnh vực: xây dựng\n-bố vỏ xe
-
+plies	@Chuyên ngành kỹ thuật
+-lớp bố vỏ xe
+@Lĩnh vực: xây dựng
+-bố vỏ xe

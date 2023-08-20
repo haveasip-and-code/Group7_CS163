@@ -1,3 +1,4 @@
-proser
-	@proser\n* danh từ\n- nhà văn xuôi\n- người kể chuyện nhạt nhẽo
-
+proser	@proser
+* danh từ
+- nhà văn xuôi
+- người kể chuyện nhạt nhẽo

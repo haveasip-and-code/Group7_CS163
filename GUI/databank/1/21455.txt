@@ -1,3 +1,21 @@
-flirt
-	@flirt /flirt/\n*  danh từ\n- sự giật; cái giật\n- người ve vãn, người tán tỉnh\n- người thích được ve vãn, người thích được tán tỉnh\n*  ngoại động từ\n- búng mạnh\n- rung mạnh, phẩy mạnh, vẫy mạnh (đuôi chim, quạt)\n- nội động từ\n- rung rung, giật giật\n- tán tỉnh, ve vãn; vờ tán tỉnh, vờ ve vãn\n=to flirt with somebody+ tán tỉnh ai\n- đùa, đùa bỡn, đùa cợt\n=to flirt with the idea of doing something+ đùa cợt với ý nghĩ làm gì\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ve vãn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ve vãn
-
+flirt	
+@flirt /flirt/
+*  danh từ
+- sự giật; cái giật
+- người ve vãn, người tán tỉnh
+- người thích được ve vãn, người thích được tán tỉnh
+*  ngoại động từ
+- búng mạnh
+- rung mạnh, phẩy mạnh, vẫy mạnh (đuôi chim, quạt)
+- nội động từ
+- rung rung, giật giật
+- tán tỉnh, ve vãn; vờ tán tỉnh, vờ ve vãn=to flirt with somebody
++ tán tỉnh ai
+- đùa, đùa bỡn, đùa cợt=to flirt with the idea of doing something
++ đùa cợt với ý nghĩ làm gì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-ve vãn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-ve vãn

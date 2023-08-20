@@ -1,3 +1,5 @@
-torse
-	@torse\n- (hình học) mặt khả triển\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mặt khả triển
-
+torse	@torse
+- (hình học) mặt khả triển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-mặt khả triển

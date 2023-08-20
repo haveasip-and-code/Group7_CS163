@@ -1,3 +1,4 @@
-floruit
-	@floruit /floruit/\n*  danh từ\n- thuở bình sinh (của một người)
-
+floruit	
+@floruit /floruit/
+*  danh từ
+- thuở bình sinh (của một người)

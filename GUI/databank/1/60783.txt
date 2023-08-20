@@ -1,3 +1,4 @@
-unwinder
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-máy tháo sợi\n-máy tở sợi
-
+unwinder	@Chuyên ngành kỹ thuật
+@Lĩnh vực: dệt may
+-máy tháo sợi
+-máy tở sợi

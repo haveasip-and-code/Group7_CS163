@@ -1,3 +1,10 @@
-proposer
-	@proposer\n* danh từ\n- người đề xuất một bản kiến nghị, người tiến cử ai vào một chức vụ\n@Chuyên ngành kinh tế\n-người đề nghị\n-người đề nghị bảo hiểm\n-người đề xuất\n-người đề xuất (nêu) vấn đề\n-người kiến nghị (tại một hội nghị)\n-người xin (bảo hiểm)
-
+proposer	@proposer
+* danh từ
+- người đề xuất một bản kiến nghị, người tiến cử ai vào một chức vụ
+@Chuyên ngành kinh tế
+-người đề nghị
+-người đề nghị bảo hiểm
+-người đề xuất
+-người đề xuất (nêu) vấn đề
+-người kiến nghị (tại một hội nghị)
+-người xin (bảo hiểm)

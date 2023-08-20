@@ -1,3 +1,22 @@
-calibrate
-	@calibrate /'kælibreit/\n*  ngoại động từ\n- định cỡ, xác định đường kính (nòng súng, ống...)\n- kiểm tra cỡ trước khi chia độ (ống đo nhiệt...)\n@Chuyên ngành kỹ thuật\n-điều chỉnh\n-định chuẩn\n-định cỡ\n-hiệu chỉnh\n-hiệu chuẩn\n-khắc độ\n-kiểm định\n-kiểm nghiệm\n-lấy mẫu\n-xác định cỡ\n-xác định kích thước\n@Lĩnh vực: xây dựng\n-khắc độ chia độ\n@Lĩnh vực: điện\n-kiểm chuẩn\n@Lĩnh vực: toán & tin\n-xác định kích cỡ
-
+calibrate	@calibrate /'kælibreit/
+*  ngoại động từ
+- định cỡ, xác định đường kính (nòng súng, ống...)
+- kiểm tra cỡ trước khi chia độ (ống đo nhiệt...)
+@Chuyên ngành kỹ thuật
+-điều chỉnh
+-định chuẩn
+-định cỡ
+-hiệu chỉnh
+-hiệu chuẩn
+-khắc độ
+-kiểm định
+-kiểm nghiệm
+-lấy mẫu
+-xác định cỡ
+-xác định kích thước
+@Lĩnh vực: xây dựng
+-khắc độ chia độ
+@Lĩnh vực: điện
+-kiểm chuẩn
+@Lĩnh vực: toán & tin
+-xác định kích cỡ

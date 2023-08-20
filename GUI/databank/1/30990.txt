@@ -1,3 +1,21 @@
-kinetics
-	@kinetics /kai'netiks /\n*  danh từ,  số nhiều dùng như số ít\n- động học\n=physical kinetics+ động lực học vật lý\n=chemical kinetics+ động lực học hoá học\n@Chuyên ngành kỹ thuật\n-động học\n-động lực học\n@Lĩnh vực: cơ khí & công trình\n-động (lực) học\n@Lĩnh vực: toán & tin\n-động hình học\n-kinh trắc học\n@Chuyên ngành kỹ thuật\n-động học\n-động lực học\n@Lĩnh vực: cơ khí & công trình\n-động (lực) học\n@Lĩnh vực: toán & tin\n-động hình học\n-kinh trắc học
-
+kinetics	@kinetics /kai'netiks /
+*  danh từ,  số nhiều dùng như số ít
+- động học
+=physical kinetics+ động lực học vật lý
+=chemical kinetics+ động lực học hoá học
+@Chuyên ngành kỹ thuật
+-động học
+-động lực học
+@Lĩnh vực: cơ khí & công trình
+-động (lực) học
+@Lĩnh vực: toán & tin
+-động hình học
+-kinh trắc học
+@Chuyên ngành kỹ thuật
+-động học
+-động lực học
+@Lĩnh vực: cơ khí & công trình
+-động (lực) học
+@Lĩnh vực: toán & tin
+-động hình học
+-kinh trắc học

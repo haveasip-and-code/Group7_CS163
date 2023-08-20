@@ -1,3 +1,10 @@
-carburetion
-	@carburetion\n- xem carburet\n@Chuyên ngành kỹ thuật\n-chế hòa khí\n-thấm cacbon\n-tôi cacbon\n@Lĩnh vực: hóa học & vật liệu\n-pha carbon\n@Lĩnh vực: cơ khí & công trình\n-sự chế hòa khí
-
+carburetion	@carburetion
+- xem carburet
+@Chuyên ngành kỹ thuật
+-chế hòa khí
+-thấm cacbon
+-tôi cacbon
+@Lĩnh vực: hóa học & vật liệu
+-pha carbon
+@Lĩnh vực: cơ khí & công trình
+-sự chế hòa khí

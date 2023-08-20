@@ -1,3 +1,9 @@
-pruning
-	@pruning\n* danh từ\n- sự tỉa, sự xén bớt; sự chặt bớt\n- sự cắt bớt, sự lược bớt\n@Chuyên ngành kỹ thuật\n-sự xén bớt\n@Lĩnh vực: toán & tin\n-sự tỉa bớt\n-sự xén tỉa (các cây)
-
+pruning	@pruning
+* danh từ
+- sự tỉa, sự xén bớt; sự chặt bớt
+- sự cắt bớt, sự lược bớt
+@Chuyên ngành kỹ thuật
+-sự xén bớt
+@Lĩnh vực: toán & tin
+-sự tỉa bớt
+-sự xén tỉa (các cây)

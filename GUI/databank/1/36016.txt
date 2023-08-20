@@ -1,3 +1,4 @@
-multivariable
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đa biến số\n-đa biến thiên
-
+multivariable	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đa biến số
+-đa biến thiên

@@ -1,3 +1,14 @@
-percolate
-	@percolate /'pə:kəleit/\n*  ngoại động từ\n- lọc, chiết ngâm, pha phin (cà phê...)\n*  nội động từ\n- lọc qua, thấm qua\n@Chuyên ngành kinh tế\n-ngâm chiết\n-thấm ướt\n@Chuyên ngành kỹ thuật\n-lọc qua\n-ngâm xiết\n-xuyên qua\n@Lĩnh vực: y học\n-dịch ngâm chiết, dịch thẩm tách
-
+percolate	@percolate /'pə:kəleit/
+*  ngoại động từ
+- lọc, chiết ngâm, pha phin (cà phê...)
+*  nội động từ
+- lọc qua, thấm qua
+@Chuyên ngành kinh tế
+-ngâm chiết
+-thấm ướt
+@Chuyên ngành kỹ thuật
+-lọc qua
+-ngâm xiết
+-xuyên qua
+@Lĩnh vực: y học
+-dịch ngâm chiết, dịch thẩm tách

@@ -1,3 +1,15 @@
-flint
-	@flint /flint/\n*  danh từ\n- đá lửa; viên đá lửa\n- vật cứng rắn\n=a heart of flint+ trái tim sắt đá\n!to set one's face like a flint\n- (xem) set\n!to skin (lay) a flint\n- rán sành ra mỡ, keo cú\n!to wring water from a flint\n- làm những việc kỳ lạ\n@Chuyên ngành kỹ thuật\n-đá lửa\n-đá silic\n@Chuyên ngành kỹ thuật\n-đá lửa\n-đá silic
-
+flint	
+@flint /flint/
+*  danh từ
+- đá lửa; viên đá lửa
+- vật cứng rắn=a heart of flint
++ trái tim sắt đá!to set one's face like a flint
+- (xem) set!to skin (lay) a flint
+- rán sành ra mỡ, keo cú!to wring water from a flint
+- làm những việc kỳ lạ
+@Chuyên ngành kỹ thuật
+-đá lửa
+-đá silic
+@Chuyên ngành kỹ thuật
+-đá lửa
+-đá silic

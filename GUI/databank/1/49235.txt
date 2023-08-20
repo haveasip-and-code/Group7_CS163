@@ -1,3 +1,2 @@
-scrapple
-	@Chuyên ngành kinh tế\n-thịt đông (thịt lợn và bột ngô)
-
+scrapple	@Chuyên ngành kinh tế
+-thịt đông (thịt lợn và bột ngô)

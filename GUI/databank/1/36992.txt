@@ -1,3 +1,2 @@
-nonsteady
-	@Chuyên ngành kỹ thuật\n-không ổn định
-
+nonsteady	@Chuyên ngành kỹ thuật
+-không ổn định

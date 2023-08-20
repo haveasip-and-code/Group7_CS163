@@ -1,3 +1,2 @@
-vacationer
-	@vacationer\n- xem vacation
-
+vacationer	@vacationer
+- xem vacation

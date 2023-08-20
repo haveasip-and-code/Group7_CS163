@@ -1,3 +1,12 @@
-participant
-	@participant /pɑ:'tisipənt/\n*  danh từ\n- người tham gia, người tham dự\n*  tính từ\n- tham gia, tham dự\n@Chuyên ngành kinh tế\n-người dự cuộc\n-người tham dự\n-người tham gia\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tham dự viên
-
+participant	@participant /pɑ:'tisipənt/
+*  danh từ
+- người tham gia, người tham dự
+*  tính từ
+- tham gia, tham dự
+@Chuyên ngành kinh tế
+-người dự cuộc
+-người tham dự
+-người tham gia
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tham dự viên

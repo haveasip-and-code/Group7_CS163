@@ -1,3 +1,4 @@
-baud
-	@baud\n- (Tech) bốt (số phần tử mã trong một giây); bốt (đơn vị tốc độ điện báo)\n@Chuyên ngành kỹ thuật\n-bốt
-
+baud	@baud
+- (Tech) bốt (số phần tử mã trong một giây); bốt (đơn vị tốc độ điện báo)
+@Chuyên ngành kỹ thuật
+-bốt

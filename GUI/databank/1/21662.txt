@@ -1,3 +1,7 @@
-flywheel
-	@flywheel\n- (Tech) bánh đà, bánh trớn\n@Chuyên ngành kỹ thuật\n-vô lăng\n@Lĩnh vực: ô tô\n-bánh đà
-
+flywheel	
+@flywheel
+- (Tech) bánh đà, bánh trớn
+@Chuyên ngành kỹ thuật
+-vô lăng
+@Lĩnh vực: ô tô
+-bánh đà

@@ -1,3 +1,41 @@
-skirt
-	@skirt /skə:t/\n*  danh từ\n- vạt áo\n- váy, xiêm\n=divided skirt+ quần rộng thùng thình (trông như váy)\n- khụng (từ lóng) đàn bà, con gái, thị mẹt, cái hĩm\n- ((thường) số nhiều) bờ, mép, rìa\n=on the skirts of the wood+ ở rìa rừng\n*  động từ\n- đi dọc theo, đi quanh, đi ở bờ rìa; ở dọc theo\n=to skirt the coast+ đi dọc theo bờ biển\n=road skirts round wood+ con đường đi vòng mép rừng\n@Chuyên ngành kinh tế\n-cánh mạc\n-cơ hoành\n-màng năn\n@Chuyên ngành kỹ thuật\n-đường gờ\n-gờ\n-mép\n-ống bọc\n-rìa\n-riềm\n-sự tạo khung\n-viền\n-vỏ\n@Lĩnh vực: xây dựng\n-biên lề\n-góc gờ\n@Lĩnh vực: điện tử & viễn thông\n-bờ ria (trên dàn phóng)\n@Lĩnh vực: điện\n-chụp lồng\n-tán lồng\n@Lĩnh vực: cơ khí & công trình\n-hình trụ rỗng\n-vòng bao\n@Lĩnh vực: ô tô\n-phần thân dưới\n@Lĩnh vực: môi trường\n-sự tạo viền
-
+skirt	@skirt /skə:t/
+*  danh từ
+- vạt áo
+- váy, xiêm
+=divided skirt+ quần rộng thùng thình (trông như váy)
+- khụng (từ lóng) đàn bà, con gái, thị mẹt, cái hĩm
+- ((thường) số nhiều) bờ, mép, rìa
+=on the skirts of the wood+ ở rìa rừng
+*  động từ
+- đi dọc theo, đi quanh, đi ở bờ rìa; ở dọc theo
+=to skirt the coast+ đi dọc theo bờ biển
+=road skirts round wood+ con đường đi vòng mép rừng
+@Chuyên ngành kinh tế
+-cánh mạc
+-cơ hoành
+-màng năn
+@Chuyên ngành kỹ thuật
+-đường gờ
+-gờ
+-mép
+-ống bọc
+-rìa
+-riềm
+-sự tạo khung
+-viền
+-vỏ
+@Lĩnh vực: xây dựng
+-biên lề
+-góc gờ
+@Lĩnh vực: điện tử & viễn thông
+-bờ ria (trên dàn phóng)
+@Lĩnh vực: điện
+-chụp lồng
+-tán lồng
+@Lĩnh vực: cơ khí & công trình
+-hình trụ rỗng
+-vòng bao
+@Lĩnh vực: ô tô
+-phần thân dưới
+@Lĩnh vực: môi trường
+-sự tạo viền

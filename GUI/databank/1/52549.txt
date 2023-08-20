@@ -1,3 +1,86 @@
-split
-	@split /split/\n*  tính từ\n- nứt, nẻ, chia ra, tách ra\n*  ngoại động từ split\n- ghẻ, bửa, tách\n- chia ra từng phần\n=to split the job+ chia việc\n=to split a sum of money+ chia một số tiền\n- chia rẽ (ý kiến) về một vấn đề, làm chia rẽ, gây bè phái (trong một đảng phái)\n- (hoá học); (vật lý) làm vỡ (hạt nhân), tách (phân tử)\n*  nội động từ\n- nứt, vỡ, nẻ\n- chia rẽ, phân hoá, không nhất trí\n=to split on a question+ không nhất trí về một vấn đề\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) chia nhau\n!to spit off (up)\n- làm vỡ ra; vỡ ra, tách ra\n!to split the difference\n- lấy số trung bình\n- thoả hiệp\n!to split hairs\n- chẻ sợi tóc làm tư\n!to split one's sides\n- cười vỡ bụng\n!to spilt on someone\n- (từ lóng) tố cáo ai; phản ai\n!to split one's vote\n- bỏ phiếu cho ứng cử viên đối lập\n!head is splitting\n- đầu nhức như búa bổ\n@Chuyên ngành kinh tế\n-chia\n-chia cắt\n-chia chịu\n-chia nhau\n-chia ra\n-chia rẽ\n-chia xẻ\n-cùng chung (trách nhiệm, chi phí...)\n-đồng chia\n-đồng gánh\n-làm phân liệt\n-phần\n-phân chia\n-phần đã chia\n-phần được chia\n-phân hóa\n-phân liệt\n-phân phối\n-rạn nứt\n-sự phân liệt\n@Chuyên ngành kỹ thuật\n-cắt\n-chẻ ra\n-chia\n-đập vụn\n-được tách nhiều phần\n-đường nứt\n-khe nứt\n-làm bong ra\n-làm nứt\n-nhiều phần\n-nứt\n-nứt nẻ\n-miếng gạch mỏng\n-miếng mỏng\n-sự cắt rãnh\n-sự chẻ\n-sự nứt\n-sự rạn\n-sự tách\n-tách ra\n-vết nứt (ở gỗ)\n-xẻ\n@Lĩnh vực: xây dựng\n-bị cắt ra\n-bị tách ra\n-đường rạn\n-khe hở (vì kèo)\n-làm mẻ\n-tách ra.\n@Lĩnh vực: toán & tin\n-chia tách, tách ra\n@Lĩnh vực: cơ khí & công trình\n-kẽ nứt (dọc)\n-mặt giáp mối
-
+split	@split /split/
+*  tính từ
+- nứt, nẻ, chia ra, tách ra
+*  ngoại động từ split
+- ghẻ, bửa, tách
+- chia ra từng phần
+=to split the job+ chia việc
+=to split a sum of money+ chia một số tiền
+- chia rẽ (ý kiến) về một vấn đề, làm chia rẽ, gây bè phái (trong một đảng phái)
+- (hoá học); (vật lý) làm vỡ (hạt nhân), tách (phân tử)
+*  nội động từ
+- nứt, vỡ, nẻ
+- chia rẽ, phân hoá, không nhất trí
+=to split on a question+ không nhất trí về một vấn đề
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chia nhau
+!to spit off (up)
+- làm vỡ ra; vỡ ra, tách ra
+!to split the difference
+- lấy số trung bình
+- thoả hiệp
+!to split hairs
+- chẻ sợi tóc làm tư
+!to split one's sides
+- cười vỡ bụng
+!to spilt on someone
+- (từ lóng) tố cáo ai; phản ai
+!to split one's vote
+- bỏ phiếu cho ứng cử viên đối lập
+!head is splitting
+- đầu nhức như búa bổ
+@Chuyên ngành kinh tế
+-chia
+-chia cắt
+-chia chịu
+-chia nhau
+-chia ra
+-chia rẽ
+-chia xẻ
+-cùng chung (trách nhiệm, chi phí...)
+-đồng chia
+-đồng gánh
+-làm phân liệt
+-phần
+-phân chia
+-phần đã chia
+-phần được chia
+-phân hóa
+-phân liệt
+-phân phối
+-rạn nứt
+-sự phân liệt
+@Chuyên ngành kỹ thuật
+-cắt
+-chẻ ra
+-chia
+-đập vụn
+-được tách nhiều phần
+-đường nứt
+-khe nứt
+-làm bong ra
+-làm nứt
+-nhiều phần
+-nứt
+-nứt nẻ
+-miếng gạch mỏng
+-miếng mỏng
+-sự cắt rãnh
+-sự chẻ
+-sự nứt
+-sự rạn
+-sự tách
+-tách ra
+-vết nứt (ở gỗ)
+-xẻ
+@Lĩnh vực: xây dựng
+-bị cắt ra
+-bị tách ra
+-đường rạn
+-khe hở (vì kèo)
+-làm mẻ
+-tách ra.
+@Lĩnh vực: toán & tin
+-chia tách, tách ra
+@Lĩnh vực: cơ khí & công trình
+-kẽ nứt (dọc)
+-mặt giáp mối

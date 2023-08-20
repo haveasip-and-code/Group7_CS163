@@ -1,3 +1,2 @@
-colleagueship
-	@colleagueship\n- xem colleague
-
+colleagueship	@colleagueship
+- xem colleague

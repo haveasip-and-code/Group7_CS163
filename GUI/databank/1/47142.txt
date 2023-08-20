@@ -1,3 +1,5 @@
-resorption
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sự hấp thụ lại\n@Lĩnh vực: điện lạnh\n-sự tái hấp thụ
-
+resorption	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sự hấp thụ lại
+@Lĩnh vực: điện lạnh
+-sự tái hấp thụ

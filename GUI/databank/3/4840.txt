@@ -1,3 +1,2 @@
-basilican
-	@basilican\n- xem basilica
-
+basilican	@basilican
+- xem basilica

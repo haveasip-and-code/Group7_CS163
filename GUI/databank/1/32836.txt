@@ -1,3 +1,2 @@
-lowercase
-	@lowercase\n- chữ thường
-
+lowercase	@lowercase
+- chữ thường

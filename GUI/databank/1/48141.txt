@@ -1,3 +1,7 @@
-rubric
-	@rubric /'ru:brik/\n*  danh từ\n- đề mục (in chữ đỏ hoặc chữ lớn)\n- đoạn (viết chữ đỏ hoặc chữ lớn)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc nhân đỏ
-
+rubric	@rubric /'ru:brik/
+*  danh từ
+- đề mục (in chữ đỏ hoặc chữ lớn)
+- đoạn (viết chữ đỏ hoặc chữ lớn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc nhân đỏ

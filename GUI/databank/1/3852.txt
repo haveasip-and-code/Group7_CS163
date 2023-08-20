@@ -1,3 +1,8 @@
-attachable
-	@attachable\n- xem attach\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể gắn liền\n-có thể kèm thêm\n-có thể kết nối
-
+attachable	
+@attachable
+- xem attach
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể gắn liền
+-có thể kèm thêm
+-có thể kết nối

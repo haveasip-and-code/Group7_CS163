@@ -1,3 +1,5 @@
-rubbers
-	@Chuyên ngành kinh tế\n-chứng khoán (công ty) cao-su\n-chứng khoán (của công ty cao su)\n-giày cao su\n-ủng cao su
-
+rubbers	@Chuyên ngành kinh tế
+-chứng khoán (công ty) cao-su
+-chứng khoán (của công ty cao su)
+-giày cao su
+-ủng cao su

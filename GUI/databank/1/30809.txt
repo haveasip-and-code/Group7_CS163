@@ -1,3 +1,4 @@
-kemp
-	@kemp /kemp/\n*  danh từ\n- lông len thô
-
+kemp	
+@kemp /kemp/
+*  danh từ
+- lông len thô

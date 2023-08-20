@@ -1,3 +1,16 @@
-identifier
-	@identifier\n- xem identify\n@Chuyên ngành kỹ thuật\n-danh hiệu\n-nhận diện viên\n-nhãn hiệu\n-từ nhận dạng\n@Lĩnh vực: điện tử & viễn thông\n-bộ định danh\n@Lĩnh vực: toán & tin\n-danh tính\n-ký hiệu nhân dạng\n-thẻ bài\n-thiết bị nhận dạng\n-từ định danh
-
+identifier	
+@identifier
+- xem identify
+@Chuyên ngành kỹ thuật
+-danh hiệu
+-nhận diện viên
+-nhãn hiệu
+-từ nhận dạng
+@Lĩnh vực: điện tử & viễn thông
+-bộ định danh
+@Lĩnh vực: toán & tin
+-danh tính
+-ký hiệu nhân dạng
+-thẻ bài
+-thiết bị nhận dạng
+-từ định danh

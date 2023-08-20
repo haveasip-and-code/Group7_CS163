@@ -1,3 +1,2 @@
-longies
-	@Chuyên ngành kinh tế\n-thuốc lá loại dài
-
+longies	@Chuyên ngành kinh tế
+-thuốc lá loại dài

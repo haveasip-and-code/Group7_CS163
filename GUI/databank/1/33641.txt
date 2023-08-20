@@ -1,3 +1,13 @@
-mapping
-	@mapping /'mæpiɳ/\n*  danh từ\n- bản vẽ, bản đồ\n- sự sắp xếp, sự sắp đặt, sự vạch ra (chiến lược...)\n- (toán học) phép ánh xạ\n@Chuyên ngành kỹ thuật\n-ánh xạ\n-bình đồ\n-đường gân\n@Lĩnh vực: toán & tin\n-sự ánh xạ\n@Lĩnh vực: cơ khí & công trình\n-vết ép
-
+mapping	@mapping /'mæpiɳ/
+*  danh từ
+- bản vẽ, bản đồ
+- sự sắp xếp, sự sắp đặt, sự vạch ra (chiến lược...)
+- (toán học) phép ánh xạ
+@Chuyên ngành kỹ thuật
+-ánh xạ
+-bình đồ
+-đường gân
+@Lĩnh vực: toán & tin
+-sự ánh xạ
+@Lĩnh vực: cơ khí & công trình
+-vết ép

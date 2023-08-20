@@ -1,3 +1,6 @@
-pelmet
-	@pelmet\n* danh từ\n- mảnh gỗ, vải  đặt bên trên cửa sổ để cho que luồn qua rèm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hộp rèm
-
+pelmet	@pelmet
+* danh từ
+- mảnh gỗ, vải  đặt bên trên cửa sổ để cho que luồn qua rèm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hộp rèm

@@ -1,3 +1,3 @@
-southwesterly
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-phía tây nam
-
+southwesterly	@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-phía tây nam

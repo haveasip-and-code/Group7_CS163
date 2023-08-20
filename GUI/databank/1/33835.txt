@@ -1,3 +1,6 @@
-massif
-	@massif /'mæsi:f/\n*  danh từ\n- (địa lý,ddịa chất) khối núi\n@Chuyên ngành kỹ thuật\n-địa khối\n-khối
-
+massif	@massif /'mæsi:f/
+*  danh từ
+- (địa lý,ddịa chất) khối núi
+@Chuyên ngành kỹ thuật
+-địa khối
+-khối

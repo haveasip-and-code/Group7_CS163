@@ -1,3 +1,21 @@
-abnormal
-	@abnormal /æb'nɔ:məl/\n*  tính từ\n- không bình thường, khác thường; dị thường\n@Chuyên ngành kinh tế\n-bất bình thường\n-không bình thường\n@Chuyên ngành kỹ thuật\n-bất thường\n-dị thường\n-khác thường\n-không chuẩn\n-kỳ dị\n@Lĩnh vực: xây dựng\n-bất bình thường\n-bất tự nhiên\n@Lĩnh vực: y học\n-không bình thường, khác thường, dị thường\n@Lĩnh vực: toán & tin\n-không chuẩn tắc\n-không pháp tuyến
-
+abnormal	
+@abnormal /æb'nɔ:məl/
+*  tính từ
+- không bình thường, khác thường; dị thường
+@Chuyên ngành kinh tế
+-bất bình thường
+-không bình thường
+@Chuyên ngành kỹ thuật
+-bất thường
+-dị thường
+-khác thường
+-không chuẩn
+-kỳ dị
+@Lĩnh vực: xây dựng
+-bất bình thường
+-bất tự nhiên
+@Lĩnh vực: y học
+-không bình thường, khác thường, dị thường
+@Lĩnh vực: toán & tin
+-không chuẩn tắc
+-không pháp tuyến

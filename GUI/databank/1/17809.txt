@@ -1,3 +1,4 @@
-elucidate
-	@elucidate /i'lu:sideit/\n*  ngoại động từ\n- làm sáng tỏ; giải thích
-
+elucidate	
+@elucidate /i'lu:sideit/
+*  ngoại động từ
+- làm sáng tỏ; giải thích

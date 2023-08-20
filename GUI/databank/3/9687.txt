@@ -1,3 +1,2 @@
-clawed
-	@clawed\n- xem claw
-
+clawed	@clawed
+- xem claw

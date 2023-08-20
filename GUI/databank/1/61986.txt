@@ -1,3 +1,4 @@
-visualizer
-	@visualizer\n* danh từ\n- người quan sát, dụng cụ để quan sát\n- người hay tưởng tượng
-
+visualizer	@visualizer
+* danh từ
+- người quan sát, dụng cụ để quan sát
+- người hay tưởng tượng

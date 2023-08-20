@@ -1,3 +1,18 @@
-animal
-	@animal /'æniməl/\n*  danh từ\n- động vật, thú vật\n=domestic animal+ động vật nuôi\n=wild animal+ động vật hoang dại\n- người đầy tính thú\n*  tính từ\n- (thuộc) động vật, (thuộc) thú vật\n=the animal kingdom+ giới động vật\n- (thuộc) xác thịt\n=animal spirits+ tính sôi nổi, tính yêu đời\n@Chuyên ngành kinh tế\n-động vật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-động vật\n@Lĩnh vực: xây dựng\n-thú vật
-
+animal	@animal /'æniməl/
+*  danh từ
+- động vật, thú vật
+=domestic animal+ động vật nuôi
+=wild animal+ động vật hoang dại
+- người đầy tính thú
+*  tính từ
+- (thuộc) động vật, (thuộc) thú vật
+=the animal kingdom+ giới động vật
+- (thuộc) xác thịt
+=animal spirits+ tính sôi nổi, tính yêu đời
+@Chuyên ngành kinh tế
+-động vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-động vật
+@Lĩnh vực: xây dựng
+-thú vật

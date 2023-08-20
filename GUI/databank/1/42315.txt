@@ -1,3 +1,2 @@
-polarimetric
-	@polarimetric\n- xem polarimeter
-
+polarimetric	@polarimetric
+- xem polarimeter

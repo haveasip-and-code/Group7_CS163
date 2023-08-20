@@ -1,3 +1,10 @@
-glean
-	@glean /gli:n/\n*  ngoại động từ\n- mót\n=to glean rice+ mót lúa\n- (nghĩa bóng) lượm lặt\n=to glean news+ lượm lặt tin tức\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mót
-
+glean	
+@glean /gli:n/
+*  ngoại động từ
+- mót=to glean rice
++ mót lúa
+- (nghĩa bóng) lượm lặt=to glean news
++ lượm lặt tin tức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-mót

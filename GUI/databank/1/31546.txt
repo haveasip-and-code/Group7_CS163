@@ -1,3 +1,9 @@
-larvicide
-	@larvicide\n* danh từ\n- thuốc diệt các loại ấu trùng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuốc diệt ấu trùng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuốc diệt ấu trùng
-
+larvicide	@larvicide
+* danh từ
+- thuốc diệt các loại ấu trùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuốc diệt ấu trùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuốc diệt ấu trùng

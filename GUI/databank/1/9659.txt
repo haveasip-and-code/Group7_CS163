@@ -1,3 +1,7 @@
-classroom
-	@classroom\n* danh từ\n- phòng đọc\n@Chuyên ngành kỹ thuật\n-lớp học\n-phòng học
-
+classroom	
+@classroom
+* danh từ
+- phòng đọc
+@Chuyên ngành kỹ thuật
+-lớp học
+-phòng học

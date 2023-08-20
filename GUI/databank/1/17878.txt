@@ -1,3 +1,47 @@
-embed
-	@embed /im'bed/ (imbed) /im'bed/\n*  ngoại động từ\n- ấn vào, đóng vào, gắn vào\n- ghi vào (trí nhớ)\n=that day is embedded for ever in my recollection+ ngày đó mãi mãi được ghi vào trong ký ức của tôi, tôi mãi mãi nhớ ngày hôm đó\n- ôm lấy, bao lấy\n@Chuyên ngành kinh tế\n-rót chế phẩm vi sinh vật\n@Chuyên ngành kỹ thuật\n-áp dụng, ghi vào\n-đặt vào\n-dựng tiêu\n-gắn vào\n-lắp ráp\n-lắp vào\n-lồng vào\n-nhúng\n-ráp vào\n-ứng dụng\n-xếp đặt\n-xếp vào\n@Lĩnh vực: xây dựng\n-bao lấy\n-ôm lấy\n-xếp lớn\n@Lĩnh vực: toán & tin\n-nhúng vào\n@Chuyên ngành kỹ thuật\n-áp dụng, ghi vào\n-đặt vào\n-dựng tiêu\n-gắn vào\n-lắp ráp\n-lắp vào\n-lồng vào\n-nhúng\n-ráp vào\n-ứng dụng\n-xếp đặt\n-xếp vào\n@Lĩnh vực: xây dựng\n-bao lấy\n-ôm lấy\n-xếp lớn\n@Lĩnh vực: toán & tin\n-nhúng vào
-
+embed	
+@embed /im'bed/ (imbed) /im'bed/
+*  ngoại động từ
+- ấn vào, đóng vào, gắn vào
+- ghi vào (trí nhớ)=that day is embedded for ever in my recollection
++ ngày đó mãi mãi được ghi vào trong ký ức của tôi, tôi mãi mãi nhớ ngày hôm đó
+- ôm lấy, bao lấy
+@Chuyên ngành kinh tế
+-rót chế phẩm vi sinh vật
+@Chuyên ngành kỹ thuật
+-áp dụng, ghi vào
+-đặt vào
+-dựng tiêu
+-gắn vào
+-lắp ráp
+-lắp vào
+-lồng vào
+-nhúng
+-ráp vào
+-ứng dụng
+-xếp đặt
+-xếp vào
+@Lĩnh vực: xây dựng
+-bao lấy
+-ôm lấy
+-xếp lớn
+@Lĩnh vực: toán & tin
+-nhúng vào
+@Chuyên ngành kỹ thuật
+-áp dụng, ghi vào
+-đặt vào
+-dựng tiêu
+-gắn vào
+-lắp ráp
+-lắp vào
+-lồng vào
+-nhúng
+-ráp vào
+-ứng dụng
+-xếp đặt
+-xếp vào
+@Lĩnh vực: xây dựng
+-bao lấy
+-ôm lấy
+-xếp lớn
+@Lĩnh vực: toán & tin
+-nhúng vào

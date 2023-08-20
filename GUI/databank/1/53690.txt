@@ -1,3 +1,6 @@
-stressing
-	@Chuyên ngành kỹ thuật\n-sự kéo căng\n-sức căng\n-sức kéo\n@Lĩnh vực: xây dựng\n-tạo ứng suất
-
+stressing	@Chuyên ngành kỹ thuật
+-sự kéo căng
+-sức căng
+-sức kéo
+@Lĩnh vực: xây dựng
+-tạo ứng suất

@@ -1,3 +1,5 @@
-changeover
-	@Chuyên ngành kinh tế\n-sự thay đổi hệ thống làm việc\n-sự thay đổi thiết bị\n@Chuyên ngành kỹ thuật\n-sự chỉnh lại
-
+changeover	@Chuyên ngành kinh tế
+-sự thay đổi hệ thống làm việc
+-sự thay đổi thiết bị
+@Chuyên ngành kỹ thuật
+-sự chỉnh lại

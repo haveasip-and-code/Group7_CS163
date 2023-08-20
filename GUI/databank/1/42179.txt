@@ -1,3 +1,2 @@
-plunker
-	@plunker\n- xem plunk
-
+plunker	@plunker
+- xem plunk

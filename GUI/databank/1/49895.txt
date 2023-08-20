@@ -1,3 +1,12 @@
-septic
-	@septic /'septik/\n*  tính từ\n- (y học) nhiễm khuẩn, nhiễm trùng\n- gây thối\n!septic tank\n- hố rác tự hoại, hố phân tự hoại (do hoạt động của các vi khuẩn)\n*  danh từ\n- chất gây thối\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nhiễm trùng\n-thuộc nhiễm trùng huyết
-
+septic	@septic /'septik/
+*  tính từ
+- (y học) nhiễm khuẩn, nhiễm trùng
+- gây thối
+!septic tank
+- hố rác tự hoại, hố phân tự hoại (do hoạt động của các vi khuẩn)
+*  danh từ
+- chất gây thối
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nhiễm trùng
+-thuộc nhiễm trùng huyết

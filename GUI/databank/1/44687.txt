@@ -1,3 +1,2 @@
-pumicer
-	@pumicer\n- xem pumice
-
+pumicer	@pumicer
+- xem pumice

@@ -1,3 +1,10 @@
-dualistic
-	@dualistic /,dju:ə'listik/\n*  tính từ\n- (triết học) nhị nguyên\n- (toán học) đối ngẫu\n=dualistic correspondence+ sự tương ứng đối ngẫu\n=dualistic transformation+ phép biến đổi đối ngẫu\n@Chuyên ngành kỹ thuật\n-đối ngẫu\n-nhị nguyên
-
+dualistic	
+@dualistic /,dju:ə'listik/
+*  tính từ
+- (triết học) nhị nguyên
+- (toán học) đối ngẫu=dualistic correspondence
++ sự tương ứng đối ngẫu=dualistic transformation
++ phép biến đổi đối ngẫu
+@Chuyên ngành kỹ thuật
+-đối ngẫu
+-nhị nguyên

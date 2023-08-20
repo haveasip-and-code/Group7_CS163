@@ -1,3 +1,64 @@
-deal
-	@deal /di:l/\n*  danh từ\n- gỗ tùng, gỗ thông\n- tấm ván cây\n- số lượng\n=a great deal of+ rất nhiều\n=a good deal of money+ khá nhiều tiền\n=a good deal better+ tố hơn nhiều\n- sự chia bài, lượt chia bài, ván bài\n=it's your deal+ đến lượt anh chia\n- (thực vật học) sự giao dịch, sự thoả thuận mua bán; sự thông đồng ám muội; việc làm bất lương\n=to do (make) a deal with somebody+ giao dịch mua bán với ai\n- cách đối xử; sự đối đãi\n=a square deal+ cách đối xử thẳng thắn\n!New Deal\n- (từ Mỹ,nghĩa Mỹ) chính sách kinh tế xã hội mới (của Ru-dơ-ven năm 1932)\n*  ngoại động từ\n- ((thường) + out) phân phát, phân phối\n=to deal out gifts+ phân phát quà tặng\n- chia (bài)\n- ban cho\n=to deal someone happiness+ ban cho ai hạnh phúc\n- giáng cho, nện cho (một cú đòn...)\n!to deal a blow at somebody\n!to deal somebody a blow\n- giáng cho ai một đòn\n*  nội động từ\n- giao du với, có quan hệ với, giao thiệp với, chơi bời đi lại với\n=to refuse to deal with somebody+ không giao thiệp với ai, không đi lại chơi bời với ai\n- (thương nghiệp) giao dịch buôn bán với\n- (+ in) buôn bán\n=to deal in rice+ buôn gạo\n- chia bài\n- giải quyết; đối phó\n=to deal with a problem+ giải quyết một vấn đề\n=a difficult matter to deal with+ một vấn đề khó giải quyết\n=to deal with an attack+ đối phó với một cuộc tấn công\n- đối xử, đối đãi, ăn ở, cư xử\n=to deal generously with (by) somebody+ đối xử rộng rãi với ai\n=to deal cruelly with (by) somebody+ đối xử tàn ác với ai\n@Chuyên ngành kinh tế\n-dàn xế\n-giải quyết\n-nhiều\n-sự dàn xếp\n-sự giao dịch\n-sự giao dịch buôn bán với\n-thỏa thuận mua bán\n@Chuyên ngành kỹ thuật\n-chơi hụi\n-chủ hụi\n-hợp đồng\n-phân phối\n-tấm ván\n-ván dày\n-ván lát\n-ván ốp\n@Lĩnh vực: xây dựng\n-giao ước\n-hụi\n@Lĩnh vực: toán & tin\n-nói về
-
+deal	
+@deal /di:l/
+*  danh từ
+- gỗ tùng, gỗ thông
+- tấm ván cây
+- số lượng=a great deal of
++ rất nhiều=a good deal of money
++ khá nhiều tiền=a good deal better
++ tố hơn nhiều
+- sự chia bài, lượt chia bài, ván bài=it's your deal
++ đến lượt anh chia
+- (thực vật học) sự giao dịch, sự thoả thuận mua bán; sự thông đồng ám muội; việc làm bất lương=to do (make) a deal with somebody
++ giao dịch mua bán với ai
+- cách đối xử; sự đối đãi=a square deal
++ cách đối xử thẳng thắn!New Deal
+- (từ Mỹ,nghĩa Mỹ) chính sách kinh tế xã hội mới (của Ru
+-dơ
+-ven năm 1932)
+*  ngoại động từ
+- ((thường) 
++ out) phân phát, phân phối=to deal out gifts
++ phân phát quà tặng
+- chia (bài)
+- ban cho=to deal someone happiness
++ ban cho ai hạnh phúc
+- giáng cho, nện cho (một cú đòn...)!to deal a blow at somebody!to deal somebody a blow
+- giáng cho ai một đòn
+*  nội động từ
+- giao du với, có quan hệ với, giao thiệp với, chơi bời đi lại với=to refuse to deal with somebody
++ không giao thiệp với ai, không đi lại chơi bời với ai
+- (thương nghiệp) giao dịch buôn bán với
+- (
++ in) buôn bán=to deal in rice
++ buôn gạo
+- chia bài
+- giải quyết; đối phó=to deal with a problem
++ giải quyết một vấn đề=a difficult matter to deal with
++ một vấn đề khó giải quyết=to deal with an attack
++ đối phó với một cuộc tấn công
+- đối xử, đối đãi, ăn ở, cư xử=to deal generously with (by) somebody
++ đối xử rộng rãi với ai=to deal cruelly with (by) somebody
++ đối xử tàn ác với ai
+@Chuyên ngành kinh tế
+-dàn xế
+-giải quyết
+-nhiều
+-sự dàn xếp
+-sự giao dịch
+-sự giao dịch buôn bán với
+-thỏa thuận mua bán
+@Chuyên ngành kỹ thuật
+-chơi hụi
+-chủ hụi
+-hợp đồng
+-phân phối
+-tấm ván
+-ván dày
+-ván lát
+-ván ốp
+@Lĩnh vực: xây dựng
+-giao ước
+-hụi
+@Lĩnh vực: toán & tin
+-nói về

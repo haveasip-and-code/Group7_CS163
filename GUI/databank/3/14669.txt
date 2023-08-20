@@ -1,3 +1,10 @@
-derivate
-	@derivate\n- (giải tích) đạo số // lấy đạo hàm\n- left hand lower d. đạo số trái dưới\n- left hand upper d. đạo số trái trên\n- normal d. đạo số theo pháp tuyến\n- right hand upper d. đạo số phải trên\n@Chuyên ngành kỹ thuật\n-lấy đạo hàm\n@Lĩnh vực: toán & tin\n-đạo số
-
+derivate	@derivate
+- (giải tích) đạo số // lấy đạo hàm
+- left hand lower d. đạo số trái dưới
+- left hand upper d. đạo số trái trên
+- normal d. đạo số theo pháp tuyến
+- right hand upper d. đạo số phải trên
+@Chuyên ngành kỹ thuật
+-lấy đạo hàm
+@Lĩnh vực: toán & tin
+-đạo số

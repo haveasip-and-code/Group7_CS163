@@ -1,3 +1,2 @@
-pharmaceuticals
-	@Chuyên ngành kỹ thuật\n-dược phẩm
-
+pharmaceuticals	@Chuyên ngành kỹ thuật
+-dược phẩm

@@ -1,3 +1,6 @@
-backslash
-	@backslash\n- (Tech) dấu chéo ngược\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dấu chéo ngược
-
+backslash	
+@backslash
+- (Tech) dấu chéo ngược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dấu chéo ngược

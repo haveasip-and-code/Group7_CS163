@@ -1,3 +1,14 @@
-cataract
-	@cataract /kætərækt/\n*  danh từ\n- thác nước lớn\n- cơn mưa như trút nước\n- (y học) bệnh đục nhân mắt\n- (kỹ thuật) bộ hoãn xung; cái hãm, máy hãm\n@Chuyên ngành kỹ thuật\n-bậc nước\n-hoãn xung\n-ngưỡng nước\n-phanh thủy lực\n-thác\n@Lĩnh vực: y học\n-bệnh đục thủy tinh thề, cườm
-
+cataract	@cataract /kætərækt/
+*  danh từ
+- thác nước lớn
+- cơn mưa như trút nước
+- (y học) bệnh đục nhân mắt
+- (kỹ thuật) bộ hoãn xung; cái hãm, máy hãm
+@Chuyên ngành kỹ thuật
+-bậc nước
+-hoãn xung
+-ngưỡng nước
+-phanh thủy lực
+-thác
+@Lĩnh vực: y học
+-bệnh đục thủy tinh thề, cườm

@@ -1,3 +1,9 @@
-castability
-	@castability\n* danh từ\n- tính đúc được; độ chảy loãng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chất lượng đúc\n-khả năng đúc\n-tính chảy loãng
-
+castability	
+@castability
+* danh từ
+- tính đúc được; độ chảy loãng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-chất lượng đúc
+-khả năng đúc
+-tính chảy loãng

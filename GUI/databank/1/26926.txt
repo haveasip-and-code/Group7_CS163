@@ -1,3 +1,8 @@
-idempotent
-	@idempotent\n* tính từ\n- (toán học) (thuộc ma trận) không thay đổi giá trị (sau khi tự nó nhân lên)\n* danh từ\n- số lượng toán học không thay đổi giá trị\n@Chuyên ngành kỹ thuật\n-lũy đẳng
-
+idempotent	
+@idempotent
+* tính từ
+- (toán học) (thuộc ma trận) không thay đổi giá trị (sau khi tự nó nhân lên)
+* danh từ
+- số lượng toán học không thay đổi giá trị
+@Chuyên ngành kỹ thuật
+-lũy đẳng

@@ -1,3 +1,20 @@
-cavitation
-	@cavitation /,kævi'teiʃn/\n*  danh từ\n- sự tạo ra lỗ hổng; sự tạo ra lỗ trống\n- sủi bong bóng (trong chất nước)\n@Chuyên ngành kỹ thuật\n-sự sinh lỗ hổng\n-sự tạo bọt\n-sự tạo hốc\n@Lĩnh vực: xây dựng\n-hiện tượng khí thực\n@Lĩnh vực: điện lạnh\n-sự ăn rỗ\n-sự sinh hốc\n@Lĩnh vực: điện\n-sự khí xâm thực\n@Lĩnh vực: y học\n-sự sinh lỗ hổng, sự sinh lỗ răng\n-sự tạo hang\n@Lĩnh vực: hóa học & vật liệu\n-tạo lỗ hổng
-
+cavitation	@cavitation /,kævi'teiʃn/
+*  danh từ
+- sự tạo ra lỗ hổng; sự tạo ra lỗ trống
+- sủi bong bóng (trong chất nước)
+@Chuyên ngành kỹ thuật
+-sự sinh lỗ hổng
+-sự tạo bọt
+-sự tạo hốc
+@Lĩnh vực: xây dựng
+-hiện tượng khí thực
+@Lĩnh vực: điện lạnh
+-sự ăn rỗ
+-sự sinh hốc
+@Lĩnh vực: điện
+-sự khí xâm thực
+@Lĩnh vực: y học
+-sự sinh lỗ hổng, sự sinh lỗ răng
+-sự tạo hang
+@Lĩnh vực: hóa học & vật liệu
+-tạo lỗ hổng

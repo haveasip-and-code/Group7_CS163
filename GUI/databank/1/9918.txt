@@ -1,3 +1,12 @@
-clustering
-	@clustering\n- (Tech) xếp nhóm\n@Chuyên ngành kinh tế\n-sự tụ nhóm thành cụm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sự góp thành đám\n-sự kết chùm\n@Lĩnh vực: toán & tin\n-sự sếp thành nhóm\n-sự tạo chùm
-
+clustering	
+@clustering
+- (Tech) xếp nhóm
+@Chuyên ngành kinh tế
+-sự tụ nhóm thành cụm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-sự góp thành đám
+-sự kết chùm
+@Lĩnh vực: toán & tin
+-sự sếp thành nhóm
+-sự tạo chùm

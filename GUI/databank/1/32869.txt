@@ -1,3 +1,13 @@
-lubricity
-	@lubricity /lu:'brisiti/\n*  danh từ\n- tính chất nhờn, tính chất trơn; tính dễ trượt\n- tính không trung thực, tính giả dối, tính xảo quyệt\n- tính hay thay đổi, tính không kiên định\n- tính tà dâm\n@Chuyên ngành kỹ thuật\n-độ nhớt\n@Lĩnh vực: cơ khí & công trình\n-độ bôi trơn\n-tính nhờn\n@Lĩnh vực: hóa học & vật liệu\n-tính bôi trơn
-
+lubricity	@lubricity /lu:'brisiti/
+*  danh từ
+- tính chất nhờn, tính chất trơn; tính dễ trượt
+- tính không trung thực, tính giả dối, tính xảo quyệt
+- tính hay thay đổi, tính không kiên định
+- tính tà dâm
+@Chuyên ngành kỹ thuật
+-độ nhớt
+@Lĩnh vực: cơ khí & công trình
+-độ bôi trơn
+-tính nhờn
+@Lĩnh vực: hóa học & vật liệu
+-tính bôi trơn

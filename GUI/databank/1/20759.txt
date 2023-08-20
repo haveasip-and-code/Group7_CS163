@@ -1,3 +1,18 @@
-fermentation
-	@fermentation /,fə:men'teiʃn/\n*  danh từ\n- sự lên men\n- sự khích động, sự vận động, sự xúi giục\n- sự xôn xao, sự sôi sục, sự náo động\n@Chuyên ngành kinh tế\n-sự lên men\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lên men\n@Lĩnh vực: y học\n-sự lên men\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lên men\n@Lĩnh vực: y học\n-sự lên men
-
+fermentation	
+@fermentation /,fə:men'teiʃn/
+*  danh từ
+- sự lên men
+- sự khích động, sự vận động, sự xúi giục
+- sự xôn xao, sự sôi sục, sự náo động
+@Chuyên ngành kinh tế
+-sự lên men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-lên men
+@Lĩnh vực: y học
+-sự lên men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-lên men
+@Lĩnh vực: y học
+-sự lên men

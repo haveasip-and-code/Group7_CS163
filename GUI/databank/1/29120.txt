@@ -1,3 +1,21 @@
-integrate
-	@integrate /'intigreit/\n*  ngoại động từ\n- hợp thành một thể thống nhất, bổ sung thành một thể thống nhất, hợp nhất\n- chỉ tổng số, chỉ giá trị trung bình của\n- (toán học) tích phân\n- (từ Mỹ,nghĩa Mỹ) hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)\n- (từ Mỹ,nghĩa Mỹ) mở rộng cho mọi người, mở rộng cho mọi chủng tộc\n- (từ Mỹ,nghĩa Mỹ) dành quyền bình đẳng cho (một chủng tộc...)\n*  nội động từ\n- hợp nhất\n- (từ Mỹ,nghĩa Mỹ) hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)\n- (từ Mỹ,nghĩa Mỹ) được mở rộng cho mọi người, được mở rộng cho mọi chủng tộc\n- (từ Mỹ,nghĩa Mỹ) hoà hợp và trở thành một bộ phận của nền văn hoá chính\n@Chuyên ngành kỹ thuật\n-làm thành nguyên\n-tích phân\n@Lĩnh vực: toán & tin\n-hợp nhất lại\n-làm tròn (thành nguyên)\n-lấy tích phân
-
+integrate	
+@integrate /'intigreit/
+*  ngoại động từ
+- hợp thành một thể thống nhất, bổ sung thành một thể thống nhất, hợp nhất
+- chỉ tổng số, chỉ giá trị trung bình của
+- (toán học) tích phân
+- (từ Mỹ,nghĩa Mỹ) hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)
+- (từ Mỹ,nghĩa Mỹ) mở rộng cho mọi người, mở rộng cho mọi chủng tộc
+- (từ Mỹ,nghĩa Mỹ) dành quyền bình đẳng cho (một chủng tộc...)
+*  nội động từ
+- hợp nhất
+- (từ Mỹ,nghĩa Mỹ) hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)
+- (từ Mỹ,nghĩa Mỹ) được mở rộng cho mọi người, được mở rộng cho mọi chủng tộc
+- (từ Mỹ,nghĩa Mỹ) hoà hợp và trở thành một bộ phận của nền văn hoá chính
+@Chuyên ngành kỹ thuật
+-làm thành nguyên
+-tích phân
+@Lĩnh vực: toán & tin
+-hợp nhất lại
+-làm tròn (thành nguyên)
+-lấy tích phân

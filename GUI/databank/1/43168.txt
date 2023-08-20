@@ -1,3 +1,2 @@
-preferability
-	@preferability\n- xem preferable
-
+preferability	@preferability
+- xem preferable

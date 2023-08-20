@@ -1,3 +1,4 @@
-lemmas
-	@lemmas\n* danh từ\n- <toán> bổ đề\n- cước chú (cho tranh ảnh)
-
+lemmas	@lemmas
+* danh từ
+- <toán> bổ đề
+- cước chú (cho tranh ảnh)

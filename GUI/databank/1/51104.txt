@@ -1,3 +1,17 @@
-slat
-	@slat /slæt/\n*  danh từ\n- thanh (gỗ...) mỏng (để làm mành mành, làm giát giường...) ((cũng) spline)\n*  động từ\n- vỗ phần phật, đập phần phật (vào cột buồm) (buồm)\n- đập mạnh, đánh bốp (vào mặt cái gì...)\n@Chuyên ngành kinh tế\n-gờ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lá cửa chớp\n@Lĩnh vực: y học\n-lá sách\n@Lĩnh vực: hóa học & vật liệu\n-tấm nhỏ\n@Lĩnh vực: cơ khí & công trình\n-thanh mỏng
-
+slat	@slat /slæt/
+*  danh từ
+- thanh (gỗ...) mỏng (để làm mành mành, làm giát giường...) ((cũng) spline)
+*  động từ
+- vỗ phần phật, đập phần phật (vào cột buồm) (buồm)
+- đập mạnh, đánh bốp (vào mặt cái gì...)
+@Chuyên ngành kinh tế
+-gờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-lá cửa chớp
+@Lĩnh vực: y học
+-lá sách
+@Lĩnh vực: hóa học & vật liệu
+-tấm nhỏ
+@Lĩnh vực: cơ khí & công trình
+-thanh mỏng

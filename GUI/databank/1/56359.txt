@@ -1,3 +1,9 @@
-thesaurus
-	@thesaurus /θi:'sɔ:rəs/\n*  danh từ,  số nhiều thesauri,  thesauruses\n- bộ từ điển lớn, bộ toàn thư\n@Chuyên ngành kỹ thuật\n-ngôn ngữ từ điển\n-từ điển\n-từ điển đồng nghĩa\n@Lĩnh vực: xây dựng\n-bộ từ điển lớn
-
+thesaurus	@thesaurus /θi:'sɔ:rəs/
+*  danh từ,  số nhiều thesauri,  thesauruses
+- bộ từ điển lớn, bộ toàn thư
+@Chuyên ngành kỹ thuật
+-ngôn ngữ từ điển
+-từ điển
+-từ điển đồng nghĩa
+@Lĩnh vực: xây dựng
+-bộ từ điển lớn

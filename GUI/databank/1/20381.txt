@@ -1,3 +1,23 @@
-famous
-	@famous /'feiməs/\n*  tính từ\n- nổi tiếng, nổi danh, trứ danh\n- (thông tục) cừ, chiến\n@Chuyên ngành kỹ thuật\n-lừng danh\n-lừng lẫy\n-nổi tiếng\n-xuất chúng\n@Lĩnh vực: xây dựng\n-nổi bật\n-trứ danh\n-vang danh\n@Chuyên ngành kỹ thuật\n-lừng danh\n-lừng lẫy\n-nổi tiếng\n-xuất chúng\n@Lĩnh vực: xây dựng\n-nổi bật\n-trứ danh\n-vang danh
-
+famous	
+@famous /'feiməs/
+*  tính từ
+- nổi tiếng, nổi danh, trứ danh
+- (thông tục) cừ, chiến
+@Chuyên ngành kỹ thuật
+-lừng danh
+-lừng lẫy
+-nổi tiếng
+-xuất chúng
+@Lĩnh vực: xây dựng
+-nổi bật
+-trứ danh
+-vang danh
+@Chuyên ngành kỹ thuật
+-lừng danh
+-lừng lẫy
+-nổi tiếng
+-xuất chúng
+@Lĩnh vực: xây dựng
+-nổi bật
+-trứ danh
+-vang danh

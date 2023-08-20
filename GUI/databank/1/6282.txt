@@ -1,3 +1,8 @@
-bookkeeping
-	@bookkeeping\n- (Tech) kế toán; nội dịch (vận hành tiên khởi)\n@Chuyên ngành kinh tế\n-công việc kế toán\n-kế toán\n@Chuyên ngành kỹ thuật\n-làm sổ sách
-
+bookkeeping	
+@bookkeeping
+- (Tech) kế toán; nội dịch (vận hành tiên khởi)
+@Chuyên ngành kinh tế
+-công việc kế toán
+-kế toán
+@Chuyên ngành kỹ thuật
+-làm sổ sách

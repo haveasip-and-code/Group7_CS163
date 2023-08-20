@@ -1,3 +1,13 @@
-transship
-	@transship\n* động từ\n- chuyển tàu, chuyển từ tàu này sang tàu khác\n* danh từ\n- sự chuyển tàu, sự sang tàu\n@Chuyên ngành kinh tế\n-chuyển sang tàu khác (hành khách, hàng hóa...)\n-chuyển tải\n-chuyển vận, sang tàu\n@Chuyên ngành kỹ thuật\n-chuyển tải\n@Lĩnh vực: giao thông & vận tải\n-sang tàu
-
+transship	@transship
+* động từ
+- chuyển tàu, chuyển từ tàu này sang tàu khác
+* danh từ
+- sự chuyển tàu, sự sang tàu
+@Chuyên ngành kinh tế
+-chuyển sang tàu khác (hành khách, hàng hóa...)
+-chuyển tải
+-chuyển vận, sang tàu
+@Chuyên ngành kỹ thuật
+-chuyển tải
+@Lĩnh vực: giao thông & vận tải
+-sang tàu

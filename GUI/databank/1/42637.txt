@@ -1,3 +1,2 @@
-popularizer
-	@popularizer\n- xem popularize
-
+popularizer	@popularizer
+- xem popularize

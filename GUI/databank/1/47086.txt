@@ -1,3 +1,22 @@
-residuum
-	@residuum /ri'zidjuəm/\n*  danh từ,  số nhiều residua  /ri'zidjuə/\n- phần còn lại\n- (hoá học) bã\n- (toán học) số dư\n- số chưa tính; số tính nhầm vào (khi tính nhầm)\n- (từ cổ,nghĩa cổ) cặn bã của xã hội\n@Chuyên ngành kinh tế\n-bã\n-cặn\n-còn dư\n-phế thải\n-thu nhập đói rách\n@Chuyên ngành kỹ thuật\n-cặn\n-chất bã\n-phần còn lại\n-số dư\n@Lĩnh vực: y học\n-chất cặn bã, thừa dư\n@Lĩnh vực: hóa học & vật liệu\n-vật sót lại
-
+residuum	@residuum /ri'zidjuəm/
+*  danh từ,  số nhiều residua  /ri'zidjuə/
+- phần còn lại
+- (hoá học) bã
+- (toán học) số dư
+- số chưa tính; số tính nhầm vào (khi tính nhầm)
+- (từ cổ,nghĩa cổ) cặn bã của xã hội
+@Chuyên ngành kinh tế
+-bã
+-cặn
+-còn dư
+-phế thải
+-thu nhập đói rách
+@Chuyên ngành kỹ thuật
+-cặn
+-chất bã
+-phần còn lại
+-số dư
+@Lĩnh vực: y học
+-chất cặn bã, thừa dư
+@Lĩnh vực: hóa học & vật liệu
+-vật sót lại

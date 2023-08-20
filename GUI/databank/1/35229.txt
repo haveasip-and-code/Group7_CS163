@@ -1,3 +1,3 @@
-mistranslate
-	@mistranslate /'mistræns'leit/\n*  ngoại động từ\n- dịch sai
-
+mistranslate	@mistranslate /'mistræns'leit/
+*  ngoại động từ
+- dịch sai

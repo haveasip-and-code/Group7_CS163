@@ -1,3 +1,2 @@
-overemphasize
-	@overemphasize\n- Cách viết khác : overemphasise
-
+overemphasize	@overemphasize
+- Cách viết khác : overemphasise

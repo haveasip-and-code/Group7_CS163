@@ -1,3 +1,18 @@
-shunting
-	@shunting\n* danh từ\n- (đường sắt) sự rẽ đường, sự tránh đường\n- (điện học) sự mắc mạch sun\n@Chuyên ngành kỹ thuật\n-sự rẽ mạch\n@Lĩnh vực: giao thông & vận tải\n-dồn, dịch trên ga\n-sự chuyển đường tàu\n-sự dồn tàu\n-sự phân loại (tàu)\n-sự rẽ đường tàu\n-sự tránh đường\n@Lĩnh vực: điện lạnh\n-sự mắc song song\n-sự mắc sun\n@Lĩnh vực: điện\n-sự phân dòng
-
+shunting	@shunting
+* danh từ
+- (đường sắt) sự rẽ đường, sự tránh đường
+- (điện học) sự mắc mạch sun
+@Chuyên ngành kỹ thuật
+-sự rẽ mạch
+@Lĩnh vực: giao thông & vận tải
+-dồn, dịch trên ga
+-sự chuyển đường tàu
+-sự dồn tàu
+-sự phân loại (tàu)
+-sự rẽ đường tàu
+-sự tránh đường
+@Lĩnh vực: điện lạnh
+-sự mắc song song
+-sự mắc sun
+@Lĩnh vực: điện
+-sự phân dòng

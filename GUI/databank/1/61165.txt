@@ -1,3 +1,52 @@
-value
-	@value /'vælju:/\n*  danh từ\n- giá trị\n=of a great value+ có giá trị lớn, quý\n=of no value+ không có giá trị\n=to be of value+ có giá trị\n=to set a value on+ đánh giá\n=to set a low value on something+ coi rẻ vật gì\n=to set too much value on+ đánh giá quá cao về\n- (thương nghiệp); (tài chính) giá cả, giá\n=to lose value+ mất giá, giảm giá\n=fall in value+ sự sụt giá\n=commercial value+ giá thị trường\n=market value+ thời giá, giá thị trường\n=exchange value+ giá trị trao đổi\n=to get good value for one's money+ mua được cái xứng với đồng tiền mình bỏ ra\n- (vật lý) năng suất\n=calorific value+ năng suất toả nhiệt\n- (văn học) nghĩa, ý nghĩa\n=the poetic value of a word+ ý nghĩa về mặt thơ của một từ\n- (sinh vật học) bậc phân loại\n- (số nhiều) tiêu chuẩn\n=moral values+ tiêu chuẩn đạo đức\n*  ngoại động từ\n- (thương nghiệp) định giá\n=to value goods+ định giá hàng hoá\n- đánh giá\n- trọng, chuộng, quý, coi trọng\n=to value one's reputation+ coi trọng danh giá của mình\n- hãnh diện, vênh vang\n=to value oneself on one's knowledge+ hãnh diện về kiến thức của mình\n@Chuyên ngành kinh tế\n-đại lượng\n-đánh giá\n-định giá\n-giá trị\n-ngày thanh toán\n-sự đánh giá\n-trị giá\n@Chuyên ngành kỹ thuật\n-công dụng\n-đặc trưng\n-đại lượng\n-đánh giá\n-giá cả\n-giá thành\n-giá trị\n-hệ số\n-khả năng\n-lượng\n@Lĩnh vực: toán & tin\n-giá trị, trị số
-
+value	@value /'vælju:/
+*  danh từ
+- giá trị
+=of a great value+ có giá trị lớn, quý
+=of no value+ không có giá trị
+=to be of value+ có giá trị
+=to set a value on+ đánh giá
+=to set a low value on something+ coi rẻ vật gì
+=to set too much value on+ đánh giá quá cao về
+- (thương nghiệp); (tài chính) giá cả, giá
+=to lose value+ mất giá, giảm giá
+=fall in value+ sự sụt giá
+=commercial value+ giá thị trường
+=market value+ thời giá, giá thị trường
+=exchange value+ giá trị trao đổi
+=to get good value for one's money+ mua được cái xứng với đồng tiền mình bỏ ra
+- (vật lý) năng suất
+=calorific value+ năng suất toả nhiệt
+- (văn học) nghĩa, ý nghĩa
+=the poetic value of a word+ ý nghĩa về mặt thơ của một từ
+- (sinh vật học) bậc phân loại
+- (số nhiều) tiêu chuẩn
+=moral values+ tiêu chuẩn đạo đức
+*  ngoại động từ
+- (thương nghiệp) định giá
+=to value goods+ định giá hàng hoá
+- đánh giá
+- trọng, chuộng, quý, coi trọng
+=to value one's reputation+ coi trọng danh giá của mình
+- hãnh diện, vênh vang
+=to value oneself on one's knowledge+ hãnh diện về kiến thức của mình
+@Chuyên ngành kinh tế
+-đại lượng
+-đánh giá
+-định giá
+-giá trị
+-ngày thanh toán
+-sự đánh giá
+-trị giá
+@Chuyên ngành kỹ thuật
+-công dụng
+-đặc trưng
+-đại lượng
+-đánh giá
+-giá cả
+-giá thành
+-giá trị
+-hệ số
+-khả năng
+-lượng
+@Lĩnh vực: toán & tin
+-giá trị, trị số

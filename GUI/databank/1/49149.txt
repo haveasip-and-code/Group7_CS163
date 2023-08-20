@@ -1,3 +1,7 @@
-scold
-	@scold /skould/\n*  động từ\n- rầy la, trách mắng, mắng mỏ; gắt gỏng\n*  danh từ\n- người đàn bà bẳn tính, người đàn bà hay gắt gỏng; người đàn bà hay chửi rủa\n@Chuyên ngành kỹ thuật\n-mắng mỏ
-
+scold	@scold /skould/
+*  động từ
+- rầy la, trách mắng, mắng mỏ; gắt gỏng
+*  danh từ
+- người đàn bà bẳn tính, người đàn bà hay gắt gỏng; người đàn bà hay chửi rủa
+@Chuyên ngành kỹ thuật
+-mắng mỏ

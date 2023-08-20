@@ -1,3 +1,14 @@
-prone
-	@prone /prone/\n*  tính từ\n- úp, sấp; nằm sóng soài\n=to fall prone+ ngã sấp xuống; sóng soài\n- ngả về, thiên về, có thiên hướng về\n=to be prone to something+ có ý ngả về việc gì\n=to be prone to anger+ dễ giận, dễ cáu\n- nghiêng, dốc (mặt đất...)\n@Chuyên ngành kỹ thuật\n-dễ bị hỏng\n-dễ bị hư\n-nằm sấp\n@Lĩnh vực: y học\n-úp sấp
-
+prone	@prone /prone/
+*  tính từ
+- úp, sấp; nằm sóng soài
+=to fall prone+ ngã sấp xuống; sóng soài
+- ngả về, thiên về, có thiên hướng về
+=to be prone to something+ có ý ngả về việc gì
+=to be prone to anger+ dễ giận, dễ cáu
+- nghiêng, dốc (mặt đất...)
+@Chuyên ngành kỹ thuật
+-dễ bị hỏng
+-dễ bị hư
+-nằm sấp
+@Lĩnh vực: y học
+-úp sấp

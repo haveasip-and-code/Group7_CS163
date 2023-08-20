@@ -1,3 +1,7 @@
-hadron
-	@hadron\n* danh từ\n- Hađron (hạt cơ bản)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hađron
-
+hadron	
+@hadron
+* danh từ
+- Hađron (hạt cơ bản)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hađron

@@ -1,3 +1,22 @@
-accept
-	@accept /ək'sept/\n*  ngoại động từ\n- nhận, chấp nhận, chấp thuận\n=to accept a proposal+ chấp nhận một đề nghị\n=to accept a present+ nhận một món quà\n=to accept an invitation+ nhận lời mời\n- thừa nhận\n=to accept a truth+ thừa nhận một sự thật\n- đảm nhận (công việc...)\n- (thương nghiệp) chịu trách nhiệm về; nhận thanh toán (hoá đơn, hối phiếu...)\n@Chuyên ngành kinh tế\n-chấp nhận (hối phiếu)\n-nhận\n-nhận trả\n-tiếp nhận\n@Chuyên ngành kỹ thuật\n-nghiệm thu\n-nhận\n-thừa nhận\n@Lĩnh vực: toán & tin\n-không bác bỏ
-
+accept	
+@accept /ək'sept/
+*  ngoại động từ
+- nhận, chấp nhận, chấp thuận=to accept a proposal
++ chấp nhận một đề nghị=to accept a present
++ nhận một món quà=to accept an invitation
++ nhận lời mời
+- thừa nhận=to accept a truth
++ thừa nhận một sự thật
+- đảm nhận (công việc...)
+- (thương nghiệp) chịu trách nhiệm về; nhận thanh toán (hoá đơn, hối phiếu...)
+@Chuyên ngành kinh tế
+-chấp nhận (hối phiếu)
+-nhận
+-nhận trả
+-tiếp nhận
+@Chuyên ngành kỹ thuật
+-nghiệm thu
+-nhận
+-thừa nhận
+@Lĩnh vực: toán & tin
+-không bác bỏ

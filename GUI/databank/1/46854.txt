@@ -1,3 +1,17 @@
-repetition
-	@repetition /,repi'tiʃn/\n*  danh từ\n- sự nhắc lại, sự lặp lại; điều nhắc lại, điều lặp lại\n- sự bắt chước\n=a mere repetition+ chỉ là một sự bắt chước\n- bài học thuộc lòng\n- (từ hiếm,nghĩa hiếm) bản sao chép\n- (âm nhạc) sự tập duyệt\n- (âm nhạc) ngón mổ liên tục\n@Chuyên ngành kỹ thuật\n-lần lặp\n-lặp lại\n-phép lặp\n-sự lặp lại\n-tần suất\n@Lĩnh vực: xây dựng\n-tính lặp lại được
-
+repetition	@repetition /,repi'tiʃn/
+*  danh từ
+- sự nhắc lại, sự lặp lại; điều nhắc lại, điều lặp lại
+- sự bắt chước
+=a mere repetition+ chỉ là một sự bắt chước
+- bài học thuộc lòng
+- (từ hiếm,nghĩa hiếm) bản sao chép
+- (âm nhạc) sự tập duyệt
+- (âm nhạc) ngón mổ liên tục
+@Chuyên ngành kỹ thuật
+-lần lặp
+-lặp lại
+-phép lặp
+-sự lặp lại
+-tần suất
+@Lĩnh vực: xây dựng
+-tính lặp lại được

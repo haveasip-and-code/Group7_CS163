@@ -1,3 +1,26 @@
-fibre
-	@fibre /'faibə/ (fiber) /'faibər/\n*  danh từ\n- (sinh vật học) sợi, thớ\n- sợi phíp\n=cotton fibre+ sợi bông\n- cấu tạo có thớ, kết cấu có thớ\n- (thực vật học) rễ con\n- tính tình\n=a man of coarse fibre+ người tính tình thô lỗ\n@Chuyên ngành kinh tế\n-sợi\n-thớ\n-xenluloza\n@Chuyên ngành kỹ thuật\n-sợi\n-sợi quang\n-xơ\n@Lĩnh vực: y học\n-sợi (như fiber)\n@Chuyên ngành kỹ thuật\n-sợi\n-sợi quang\n-xơ\n@Lĩnh vực: y học\n-sợi (như fiber)
-
+fibre	
+@fibre /'faibə/ (fiber) /'faibər/
+*  danh từ
+- (sinh vật học) sợi, thớ
+- sợi phíp=cotton fibre
++ sợi bông
+- cấu tạo có thớ, kết cấu có thớ
+- (thực vật học) rễ con
+- tính tình=a man of coarse fibre
++ người tính tình thô lỗ
+@Chuyên ngành kinh tế
+-sợi
+-thớ
+-xenluloza
+@Chuyên ngành kỹ thuật
+-sợi
+-sợi quang
+-xơ
+@Lĩnh vực: y học
+-sợi (như fiber)
+@Chuyên ngành kỹ thuật
+-sợi
+-sợi quang
+-xơ
+@Lĩnh vực: y học
+-sợi (như fiber)

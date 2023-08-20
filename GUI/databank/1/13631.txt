@@ -1,3 +1,18 @@
-deadlock
-	@deadlock /'dedlɔk/\n*  danh từ\n- sự đình hẳn lại; sự đình trệ hoàn toàn; (nghĩa bóng) sự bế tắc\n=to come to a deadlock+ đi đến chỗ đình trệ hoàn toàn; (nghĩa bóng) đi đến chỗ bế tắc không có lối thoát\n*  ngoại động từ\n- làm đình trệ hoàn toàn; đưa đến chỗ bế tắc\n@Chuyên ngành kinh tế\n-bế tắc\n-sự đình trệ hoàn toàn\n@Chuyên ngành kỹ thuật\n-sự tắc nghẽn\n@Lĩnh vực: xây dựng\n-bế tắc\n-khóa chết\n-sự đình trệ\n@Lĩnh vực: toán & tin\n-sự bế tắc
-
+deadlock	
+@deadlock /'dedlɔk/
+*  danh từ
+- sự đình hẳn lại; sự đình trệ hoàn toàn; (nghĩa bóng) sự bế tắc=to come to a deadlock
++ đi đến chỗ đình trệ hoàn toàn; (nghĩa bóng) đi đến chỗ bế tắc không có lối thoát
+*  ngoại động từ
+- làm đình trệ hoàn toàn; đưa đến chỗ bế tắc
+@Chuyên ngành kinh tế
+-bế tắc
+-sự đình trệ hoàn toàn
+@Chuyên ngành kỹ thuật
+-sự tắc nghẽn
+@Lĩnh vực: xây dựng
+-bế tắc
+-khóa chết
+-sự đình trệ
+@Lĩnh vực: toán & tin
+-sự bế tắc

@@ -1,3 +1,6 @@
-proletariat
-	@proletariat /proletariat/\n*  danh từ\n- giai cấp vô sản\n=dictatorship of the proletariat+ nền chuyên chính vô sản\n@Chuyên ngành kinh tế\n-giai cấp vô sản
-
+proletariat	@proletariat /proletariat/
+*  danh từ
+- giai cấp vô sản
+=dictatorship of the proletariat+ nền chuyên chính vô sản
+@Chuyên ngành kinh tế
+-giai cấp vô sản

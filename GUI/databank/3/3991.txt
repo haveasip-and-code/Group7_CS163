@@ -1,3 +1,4 @@
-aurum
-	@Chuyên ngành kỹ thuật\n-vàng\n@Lĩnh vực: điện lạnh\n-Au
-
+aurum	@Chuyên ngành kỹ thuật
+-vàng
+@Lĩnh vực: điện lạnh
+-Au

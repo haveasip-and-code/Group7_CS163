@@ -1,3 +1,7 @@
-motoring
-	@motoring\n* danh từ\n- môn thể thao đua ô tô\n- việc chơi ô tô\n- nghề ô tô\n@Chuyên ngành kinh tế\n-cuộc du ngoạn bằng ô tô
-
+motoring	@motoring
+* danh từ
+- môn thể thao đua ô tô
+- việc chơi ô tô
+- nghề ô tô
+@Chuyên ngành kinh tế
+-cuộc du ngoạn bằng ô tô

@@ -1,3 +1,13 @@
-shaped
-	@shaped /ʃeipt/\n*  danh từ\n- có hình, có hình dạng (cái gì)\n- có khuôn, theo khuôn, theo mẫu\n@Chuyên ngành kinh tế\n-đã tạo hình (bánh mì)\n@Chuyên ngành kỹ thuật\n-mẫu\n@Lĩnh vực: cơ khí & công trình\n-định hình\n-được định hình\n-được tạo dạng (theo khuôn)\n-theo khuôn
-
+shaped	@shaped /ʃeipt/
+*  danh từ
+- có hình, có hình dạng (cái gì)
+- có khuôn, theo khuôn, theo mẫu
+@Chuyên ngành kinh tế
+-đã tạo hình (bánh mì)
+@Chuyên ngành kỹ thuật
+-mẫu
+@Lĩnh vực: cơ khí & công trình
+-định hình
+-được định hình
+-được tạo dạng (theo khuôn)
+-theo khuôn

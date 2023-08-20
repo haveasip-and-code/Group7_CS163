@@ -1,3 +1,2 @@
-loan
-	@loan\n- kt vay
-
+loan	@loan
+- kt vay

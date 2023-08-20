@@ -1,3 +1,13 @@
-milestone
-	@milestone /'mailstoun/\n*  danh từ\n- cột kilômét cọc\n- (nghĩa bóng) sự kiện quan trọng, mốc lịch sử, giai đoạn quan trọng (trong đời ai)\n@Chuyên ngành kỹ thuật\n-mốc\n@Lĩnh vực: hóa học & vật liệu\n-cột dặm\n-cột kilomet\n@Lĩnh vực: giao thông & vận tải\n-cột dăm mốc\n@Lĩnh vực: xây dựng\n-cột kilômét
-
+milestone	@milestone /'mailstoun/
+*  danh từ
+- cột kilômét cọc
+- (nghĩa bóng) sự kiện quan trọng, mốc lịch sử, giai đoạn quan trọng (trong đời ai)
+@Chuyên ngành kỹ thuật
+-mốc
+@Lĩnh vực: hóa học & vật liệu
+-cột dặm
+-cột kilomet
+@Lĩnh vực: giao thông & vận tải
+-cột dăm mốc
+@Lĩnh vực: xây dựng
+-cột kilômét

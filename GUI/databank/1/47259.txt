@@ -1,3 +1,7 @@
-resynthesis
-	@resynthesis\n* danh từ\n- sự tổng hợp lại\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự tái tổng hợp\n-sự tổng hợp lại
-
+resynthesis	@resynthesis
+* danh từ
+- sự tổng hợp lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự tái tổng hợp
+-sự tổng hợp lại

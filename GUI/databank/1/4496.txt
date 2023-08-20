@@ -1,3 +1,21 @@
-bait
-	@bait /beit/\n*  danh từ\n- (như) bate\n*  danh từ\n- mồi, bả ((nghĩa đen) & (nghĩa bóng))\n=live bait+ mồi sống (bằng cả con...)\n- sự dừng lại dọc đường để ăn uống nghỉ ngơi\n*  ngoại động từ\n- mắc mồi (vào lưỡi câu hay vào bẫy)\n- cho (ngựa...) ăn uống nghỉ ngơi khi dừng lại ở dọc đường\n- cho chó trêu chọc (những con thú đã bị xích lại); trêu chọc (những con thú đã bị xích lại)\n- trêu chọc, quấy nhiễu\n*  nội động từ\n- dừng lại dọc đường để ăn uống nghỉ ngơi\n@Chuyên ngành kinh tế\n-đặt mồi\n-mắc mồi\n-mồi\n@Chuyên ngành kỹ thuật\n-mồi câu
-
+bait	
+@bait /beit/
+*  danh từ
+- (như) bate
+*  danh từ
+- mồi, bả ((nghĩa đen) & (nghĩa bóng))=live bait
++ mồi sống (bằng cả con...)
+- sự dừng lại dọc đường để ăn uống nghỉ ngơi
+*  ngoại động từ
+- mắc mồi (vào lưỡi câu hay vào bẫy)
+- cho (ngựa...) ăn uống nghỉ ngơi khi dừng lại ở dọc đường
+- cho chó trêu chọc (những con thú đã bị xích lại); trêu chọc (những con thú đã bị xích lại)
+- trêu chọc, quấy nhiễu
+*  nội động từ
+- dừng lại dọc đường để ăn uống nghỉ ngơi
+@Chuyên ngành kinh tế
+-đặt mồi
+-mắc mồi
+-mồi
+@Chuyên ngành kỹ thuật
+-mồi câu

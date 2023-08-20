@@ -1,3 +1,2 @@
-breakup
-	@breakup\n- (Tech) vỡ (d)
-
+breakup	@breakup
+- (Tech) vỡ (d)

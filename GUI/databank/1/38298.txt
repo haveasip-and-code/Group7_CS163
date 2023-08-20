@@ -1,3 +1,5 @@
-osmolarity
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-độ mol\n-nồng độ mol\n-nồng độ osmol/lít dung dịch
-
+osmolarity	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-độ mol
+-nồng độ mol
+-nồng độ osmol/lít dung dịch

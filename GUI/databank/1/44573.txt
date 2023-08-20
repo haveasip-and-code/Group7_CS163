@@ -1,3 +1,2 @@
-publics
-	@Chuyên ngành kinh tế\n-công chúng
-
+publics	@Chuyên ngành kinh tế
+-công chúng

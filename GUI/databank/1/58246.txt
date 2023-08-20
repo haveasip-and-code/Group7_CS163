@@ -1,3 +1,2 @@
-turnover
-	@turnover\n- vòng quay, sự tròn xoay
-
+turnover	@turnover
+- vòng quay, sự tròn xoay

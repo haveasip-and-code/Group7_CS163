@@ -1,3 +1,7 @@
-replicate
-	@replicate\n* ngoại động từ\n- tái tạo; là một bản sao của, làm một bản sao của (cái gì)\n@Chuyên ngành kỹ thuật\n-tái tạo\n@Lĩnh vực: toán & tin\n-sao chép, sao lại
-
+replicate	@replicate
+* ngoại động từ
+- tái tạo; là một bản sao của, làm một bản sao của (cái gì)
+@Chuyên ngành kỹ thuật
+-tái tạo
+@Lĩnh vực: toán & tin
+-sao chép, sao lại

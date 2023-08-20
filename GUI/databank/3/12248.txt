@@ -1,3 +1,4 @@
-counterpunch
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chày dập đối\n-mũi đột đối
-
+counterpunch	@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-chày dập đối
+-mũi đột đối

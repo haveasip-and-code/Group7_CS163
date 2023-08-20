@@ -1,3 +1,32 @@
-sinking
-	@sinking /'siɳkiɳ/\n*  danh từ\n- sự chìm; sự đánh chìm\n- sự hạ xuống, sự tụt xuống, sự lún xuống; sự sa lầy\n- sự đào giếng\n- sự đầu tư\n- sự nôn nao (vì đói, sợ...)\n@Chuyên ngành kinh tế\n-đánh đắm tàu\n@Chuyên ngành kỹ thuật\n-sự ấn lõm\n-sự chất tải\n-sự chìm\n-sự chồn\n-sự chồn.\n-sự đào sâu\n-sự hạ\n-sự khắc\n-sự khai đào\n-sự lún\n-sự nhúng chìm\n-sự sụt\n-sự tóp\n-sự xoi rãnh\n@Lĩnh vực: xây dựng\n-sự ấn xuống\n-sự chìm sâu\n-sự khắc sâu\n-sự lún xuống\n-sự sụt xuống\n@Lĩnh vực: cơ khí & công trình\n-sự gia công mặt cong (khuôn dập)
-
+sinking	@sinking /'siɳkiɳ/
+*  danh từ
+- sự chìm; sự đánh chìm
+- sự hạ xuống, sự tụt xuống, sự lún xuống; sự sa lầy
+- sự đào giếng
+- sự đầu tư
+- sự nôn nao (vì đói, sợ...)
+@Chuyên ngành kinh tế
+-đánh đắm tàu
+@Chuyên ngành kỹ thuật
+-sự ấn lõm
+-sự chất tải
+-sự chìm
+-sự chồn
+-sự chồn.
+-sự đào sâu
+-sự hạ
+-sự khắc
+-sự khai đào
+-sự lún
+-sự nhúng chìm
+-sự sụt
+-sự tóp
+-sự xoi rãnh
+@Lĩnh vực: xây dựng
+-sự ấn xuống
+-sự chìm sâu
+-sự khắc sâu
+-sự lún xuống
+-sự sụt xuống
+@Lĩnh vực: cơ khí & công trình
+-sự gia công mặt cong (khuôn dập)

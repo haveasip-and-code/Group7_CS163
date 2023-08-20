@@ -1,3 +1,2 @@
-ovalbumin
-	@Chuyên ngành kinh tế\n-anbumin trứng
-
+ovalbumin	@Chuyên ngành kinh tế
+-anbumin trứng

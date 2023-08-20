@@ -1,3 +1,4 @@
-bibliography
-	@bibliography /,bibli'ɔgrəfi/\n*  danh từ\n- thư mục\n- thư mục học
-
+bibliography	@bibliography /,bibli'ɔgrəfi/
+*  danh từ
+- thư mục
+- thư mục học

@@ -1,3 +1,8 @@
-superpower
-	@superpower\n* danh từ\n- siêu cường (quốc)\n@Chuyên ngành kinh tế\n-siêu cường quốc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-siêu mạnh
-
+superpower	@superpower
+* danh từ
+- siêu cường (quốc)
+@Chuyên ngành kinh tế
+-siêu cường quốc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-siêu mạnh

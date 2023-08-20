@@ -1,3 +1,18 @@
-reciprocate
-	@reciprocate /ri'siprəkeit/\n*  ngoại động từ\n- trả, đền đáp lại; đáp lại (tình cảm)\n=to reciprocate a favour+ trả ơn\n=to reciprocate someone's affection+ đáp lại lòng thương yêu của ai\n=to reciprocate someone's good wishes+ chúc lại ai\n- cho nhau, trao đổi lẫn nhau\n=reciprocate each other's affection+ họ thương yêu lẫn nhau\n- (kỹ thuật) làm cho chuyển động qua lại (pittông...)\n- (toán học) thay đổi cho nhau\n*  nội động từ\n- đáp lại; chúc lại\n- (kỹ thuật) chuyển động qua lại (pittông...)\n- (toán học) thay đổi cho nhau\n\n?danh từ: reciprocator\n@Chuyên ngành kỹ thuật\n-xoay chiều
+reciprocate	@reciprocate /ri'siprəkeit/
+*  ngoại động từ
+- trả, đền đáp lại; đáp lại (tình cảm)
+=to reciprocate a favour+ trả ơn
+=to reciprocate someone's affection+ đáp lại lòng thương yêu của ai
+=to reciprocate someone's good wishes+ chúc lại ai
+- cho nhau, trao đổi lẫn nhau
+=reciprocate each other's affection+ họ thương yêu lẫn nhau
+- (kỹ thuật) làm cho chuyển động qua lại (pittông...)
+- (toán học) thay đổi cho nhau
+*  nội động từ
+- đáp lại; chúc lại
+- (kỹ thuật) chuyển động qua lại (pittông...)
+- (toán học) thay đổi cho nhau
 
+?danh từ: reciprocator
+@Chuyên ngành kỹ thuật
+-xoay chiều

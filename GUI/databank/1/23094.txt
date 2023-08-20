@@ -1,3 +1,18 @@
-gazette
-	@gazette /gə'zet/\n*  danh từ\n- công báo\n- báo hằng ngày\n*  ngoại động từ\n- đăng trong công báo\n@Chuyên ngành kinh tế\n-báo\n-công báo\n-nhật báo\n@Chuyên ngành kỹ thuật\n-bản tin\n-báo\n-báo chí\n-công giáo\n@Lĩnh vực: xây dựng\n-tạp chí
-
+gazette	
+@gazette /gə'zet/
+*  danh từ
+- công báo
+- báo hằng ngày
+*  ngoại động từ
+- đăng trong công báo
+@Chuyên ngành kinh tế
+-báo
+-công báo
+-nhật báo
+@Chuyên ngành kỹ thuật
+-bản tin
+-báo
+-báo chí
+-công giáo
+@Lĩnh vực: xây dựng
+-tạp chí

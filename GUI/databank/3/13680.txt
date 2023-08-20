@@ -1,3 +1,2 @@
-debarment
-	@debarment\n- xem debar
-
+debarment	@debarment
+- xem debar

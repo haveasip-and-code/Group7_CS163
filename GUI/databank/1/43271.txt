@@ -1,3 +1,25 @@
-premises
-	@premises\n* danh từ\n- ngôi nhà hoặc các toà nhà khác có nhà phụ, đất đai...; cơ ngơi\n- business premises\n- cơ ngơi kinh doanh\n= the firm is looking for larger premises+công ty đang đi tìm những cơ ngơi lớn hơn\n= he was asked to leave the premises immediately+người ta yêu cầu anh ta phải lập tức rời khỏi khu nhà\n- (pháp lý) các chi tiết về tài sản, tên người... đã được ghi rõ trong phần đầu của một hợp đồng hợp pháp\n= off the premises+ngoài ranh giới của dinh cơ\n= to see somebody off the premises+tiễn ai ra khỏi nhà\n= on the premises+trong nhà...\n= there is always a manager on the premises+bao giờ cũng có một quản đốc ở trong toà nhà (tại chỗ)\n= alcohol may not be consumed on the premises+rượu không được phép uống tại chỗ\n@Chuyên ngành kinh tế\n-cơ sở (kinh doanh ...)\n-cơ sở (kinh doanh)\n-dinh cơ\n-nhà cửa\n@Chuyên ngành kỹ thuật\n-biệt thự\n-buồng\n-phòng\n-tài sản\n@Lĩnh vực: xây dựng\n-dinh cơ
-
+premises	@premises
+* danh từ
+- ngôi nhà hoặc các toà nhà khác có nhà phụ, đất đai...; cơ ngơi
+- business premises
+- cơ ngơi kinh doanh
+= the firm is looking for larger premises+công ty đang đi tìm những cơ ngơi lớn hơn
+= he was asked to leave the premises immediately+người ta yêu cầu anh ta phải lập tức rời khỏi khu nhà
+- (pháp lý) các chi tiết về tài sản, tên người... đã được ghi rõ trong phần đầu của một hợp đồng hợp pháp
+= off the premises+ngoài ranh giới của dinh cơ
+= to see somebody off the premises+tiễn ai ra khỏi nhà
+= on the premises+trong nhà...
+= there is always a manager on the premises+bao giờ cũng có một quản đốc ở trong toà nhà (tại chỗ)
+= alcohol may not be consumed on the premises+rượu không được phép uống tại chỗ
+@Chuyên ngành kinh tế
+-cơ sở (kinh doanh ...)
+-cơ sở (kinh doanh)
+-dinh cơ
+-nhà cửa
+@Chuyên ngành kỹ thuật
+-biệt thự
+-buồng
+-phòng
+-tài sản
+@Lĩnh vực: xây dựng
+-dinh cơ

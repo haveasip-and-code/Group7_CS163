@@ -1,3 +1,21 @@
-metal
-	@metal /'metl/\n*  danh từ\n- kim loại\n- đá lát đường, đá ba lát (đường xe lửa) ((cũng) toad metal)\n- (số nhiều) đường sắt, đường ray\n=the train leaves (turn off) the metals+ xe lửa trật ray\n- (quân sự) xe tăng, xe bọc thép\n- thuỷ tinh lỏng\n*  ngoại động từ\n- bọc kim loại\n- rải đá; rải đá sửa (một con đường)\n@Chuyên ngành kỹ thuật\n-bằng kim loại\n-đá dăm\n-đá rải đường\n-kim loại\n-rải balát\n@Lĩnh vực: xây dựng\n-dải đá dăm\n-rải đá dăm\n-thuộc kim loại
-
+metal	@metal /'metl/
+*  danh từ
+- kim loại
+- đá lát đường, đá ba lát (đường xe lửa) ((cũng) toad metal)
+- (số nhiều) đường sắt, đường ray
+=the train leaves (turn off) the metals+ xe lửa trật ray
+- (quân sự) xe tăng, xe bọc thép
+- thuỷ tinh lỏng
+*  ngoại động từ
+- bọc kim loại
+- rải đá; rải đá sửa (một con đường)
+@Chuyên ngành kỹ thuật
+-bằng kim loại
+-đá dăm
+-đá rải đường
+-kim loại
+-rải balát
+@Lĩnh vực: xây dựng
+-dải đá dăm
+-rải đá dăm
+-thuộc kim loại

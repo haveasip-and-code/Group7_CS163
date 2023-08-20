@@ -1,3 +1,40 @@
-spark
-	@spark /spɑ:k/\n*  danh từ\n- tia lửa, tia sáng; tàn lửa\n- tia loé, ánh loé, chấm sáng loé (ở đá quý)\n- lời đối đáp nhanh trí; nét sắc sảo (của trí thông minh)\n- ((thường) phủ định) một tia, một tị\n=if you had a spark of generosity in you+ nếu như anh còn tí chút lượng cả nào\n- (Sparks) nhân viên rađiô\n!fairy sparks\n- ánh lân quang (phát ra từ thực vật mục nát); ma trơi\n!to strike sparks out of somebody\n- gợi được sự sắc sảo dí dởm của ai (nhất là trong khi nói chuyện)\n*  ngoại động từ\n- làm cho ai bật tia lửa\n- to spark off khuấy động, làm cho hoạt động\n*  nội động từ\n- phát tia lửa, phát tia điện\n*  danh từ\n- người vui tính\n- người trai lơ\n*  nội động từ\n- trai lơ\n*  ngoại động từ\n- tán tỉnh, tán (gái)\n@Chuyên ngành kỹ thuật\n-bật lửa\n-đánh lửa\n-đánh lửa điện\n-khoảng cách điện cực\n-phóng điện tia lửa\n-tia lửa điện\n-tia sáng\n@Lĩnh vực: cơ khí & công trình\n-mảnh kim cương nhỏ\n@Lĩnh vực: vật lý\n-phóng tia lửa điện\n@Lĩnh vực: điện\n-tia hồ quang\n@Lĩnh vực: y học\n-tia lửa, tia sáng, tia điện
-
+spark	@spark /spɑ:k/
+*  danh từ
+- tia lửa, tia sáng; tàn lửa
+- tia loé, ánh loé, chấm sáng loé (ở đá quý)
+- lời đối đáp nhanh trí; nét sắc sảo (của trí thông minh)
+- ((thường) phủ định) một tia, một tị
+=if you had a spark of generosity in you+ nếu như anh còn tí chút lượng cả nào
+- (Sparks) nhân viên rađiô
+!fairy sparks
+- ánh lân quang (phát ra từ thực vật mục nát); ma trơi
+!to strike sparks out of somebody
+- gợi được sự sắc sảo dí dởm của ai (nhất là trong khi nói chuyện)
+*  ngoại động từ
+- làm cho ai bật tia lửa
+- to spark off khuấy động, làm cho hoạt động
+*  nội động từ
+- phát tia lửa, phát tia điện
+*  danh từ
+- người vui tính
+- người trai lơ
+*  nội động từ
+- trai lơ
+*  ngoại động từ
+- tán tỉnh, tán (gái)
+@Chuyên ngành kỹ thuật
+-bật lửa
+-đánh lửa
+-đánh lửa điện
+-khoảng cách điện cực
+-phóng điện tia lửa
+-tia lửa điện
+-tia sáng
+@Lĩnh vực: cơ khí & công trình
+-mảnh kim cương nhỏ
+@Lĩnh vực: vật lý
+-phóng tia lửa điện
+@Lĩnh vực: điện
+-tia hồ quang
+@Lĩnh vực: y học
+-tia lửa, tia sáng, tia điện

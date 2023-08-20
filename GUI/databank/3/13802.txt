@@ -1,3 +1,2 @@
-decidable
-	@decidable\n- xem decide
-
+decidable	@decidable
+- xem decide

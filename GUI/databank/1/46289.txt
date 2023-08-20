@@ -1,3 +1,2 @@
-refinish
-	@Chuyên ngành kỹ thuật\n-hoàn thiện lại
-
+refinish	@Chuyên ngành kỹ thuật
+-hoàn thiện lại

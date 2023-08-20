@@ -1,3 +1,5 @@
-eggless
-	@eggless\n- xem egg\n@Chuyên ngành kinh tế\n-không có trứng
-
+eggless	
+@eggless
+- xem egg
+@Chuyên ngành kinh tế
+-không có trứng

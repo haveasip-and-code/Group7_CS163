@@ -1,3 +1,17 @@
-concordance
-	@concordance /kən'kɔ:dəns/\n*  danh từ\n- sự phù hợp\n=in concordance with+ phù hợp với\n- sách dẫn, mục lục\n=verbal concordance+ mục lục theo thứ tự chữ cái\n=real concordance+ sách dẫn các đề mục\n@Chuyên ngành kỹ thuật\n-khớp\n-mục lục\n-phù lục\n-so khớp\n-sự phù hợp\n@Lĩnh vực: toán & tin\n-bản tra đối chiếu\n@Lĩnh vực: y học\n-sự hòa hợp
-
+concordance	@concordance /kən'kɔ:dəns/
+*  danh từ
+- sự phù hợp
+=in concordance with+ phù hợp với
+- sách dẫn, mục lục
+=verbal concordance+ mục lục theo thứ tự chữ cái
+=real concordance+ sách dẫn các đề mục
+@Chuyên ngành kỹ thuật
+-khớp
+-mục lục
+-phù lục
+-so khớp
+-sự phù hợp
+@Lĩnh vực: toán & tin
+-bản tra đối chiếu
+@Lĩnh vực: y học
+-sự hòa hợp

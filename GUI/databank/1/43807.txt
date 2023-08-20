@@ -1,3 +1,15 @@
-procurement
-	@procurement\n* danh từ\n- sự kiếm được, sự thu được, sự mua được\n@Chuyên ngành kinh tế\n-chạy tìm nguồn hàng\n-chọn mua để cung cấp (cho cơ quan xí nghiệp)\n-mua sắm\n-sự chạy tìm nguồn hàng\n-sự mua được\n-sự thu mua\n@Chuyên ngành kỹ thuật\n-sự cung ứng\n@Lĩnh vực: xây dựng\n-sự mua sắm\n-sự nhận được
-
+procurement	@procurement
+* danh từ
+- sự kiếm được, sự thu được, sự mua được
+@Chuyên ngành kinh tế
+-chạy tìm nguồn hàng
+-chọn mua để cung cấp (cho cơ quan xí nghiệp)
+-mua sắm
+-sự chạy tìm nguồn hàng
+-sự mua được
+-sự thu mua
+@Chuyên ngành kỹ thuật
+-sự cung ứng
+@Lĩnh vực: xây dựng
+-sự mua sắm
+-sự nhận được

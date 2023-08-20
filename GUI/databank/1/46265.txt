@@ -1,3 +1,4 @@
-ref
-	@ref\n* danh từ\n- <thể>, <pháp><thgt> trọng tài\n- vt của reference tham chiếu; có liên quan tới; về việc
-
+ref	@ref
+* danh từ
+- <thể>, <pháp><thgt> trọng tài
+- vt của reference tham chiếu; có liên quan tới; về việc

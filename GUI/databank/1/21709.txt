@@ -1,3 +1,4 @@
-foldout
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tờ gập
-
+foldout	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tờ gập

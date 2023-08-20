@@ -1,3 +1,10 @@
-kneed
-	@Chuyên ngành kỹ thuật\n-có mấu\n@Lĩnh vực: xây dựng\n-có khuỷu\n-có mắt (gỗ)\n@Chuyên ngành kỹ thuật\n-có mấu\n@Lĩnh vực: xây dựng\n-có khuỷu\n-có mắt (gỗ)
-
+kneed	@Chuyên ngành kỹ thuật
+-có mấu
+@Lĩnh vực: xây dựng
+-có khuỷu
+-có mắt (gỗ)
+@Chuyên ngành kỹ thuật
+-có mấu
+@Lĩnh vực: xây dựng
+-có khuỷu
+-có mắt (gỗ)

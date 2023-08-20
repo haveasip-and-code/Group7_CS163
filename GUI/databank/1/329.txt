@@ -1,3 +1,12 @@
-accessibility
-	@accessibility /æk,sesi'biliti/\n*  danh từ\n- tính có thể tới được, tính có thể đến gần được\n- sự dễ bị ảnh hưởng\n@Chuyên ngành kỹ thuật\n-có thể vào được, có thể đi (đến) được\n@Lĩnh vực: điện lạnh\n-khả năng đến được\n-khả năng truy nhập\n@Lĩnh vực: toán & tin\n-khả năng truy cập
-
+accessibility	
+@accessibility /æk,sesi'biliti/
+*  danh từ
+- tính có thể tới được, tính có thể đến gần được
+- sự dễ bị ảnh hưởng
+@Chuyên ngành kỹ thuật
+-có thể vào được, có thể đi (đến) được
+@Lĩnh vực: điện lạnh
+-khả năng đến được
+-khả năng truy nhập
+@Lĩnh vực: toán & tin
+-khả năng truy cập

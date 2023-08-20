@@ -1,3 +1,35 @@
-multiple
-	@multiple /'mʌltipl/\n*  tính từ\n- nhiều, nhiều mối, phức tạp\n=multiple shop+ cửa hàng có nhiều chi nhánh\n*  danh từ\n- (toán học) bội số\n=least common multiple+ bội số chung nhỏ nhất\n@Chuyên ngành kinh tế\n-bội số\n-đa dạng\n-đa trùng\n-kép\n-phức hợp\n@Chuyên ngành kỹ thuật\n-bội số\n-cực bội\n-đa\n-đa công\n-nhân\n-nhiều\n-nhiều lần\n-nối song song\n-mức bội\n-tổ hợp\n@Lĩnh vực: toán & tin\n-bội\n-bội, bội số\n-nhiều đầu (mối)\n-phức số\n@Lĩnh vực: điện lạnh\n-được mắc sun\n@Lĩnh vực: điện tử & viễn thông\n-nhiều hành trình\n@Lĩnh vực: xây dựng\n-nhiều lớp (tầng)
-
+multiple	@multiple /'mʌltipl/
+*  tính từ
+- nhiều, nhiều mối, phức tạp
+=multiple shop+ cửa hàng có nhiều chi nhánh
+*  danh từ
+- (toán học) bội số
+=least common multiple+ bội số chung nhỏ nhất
+@Chuyên ngành kinh tế
+-bội số
+-đa dạng
+-đa trùng
+-kép
+-phức hợp
+@Chuyên ngành kỹ thuật
+-bội số
+-cực bội
+-đa
+-đa công
+-nhân
+-nhiều
+-nhiều lần
+-nối song song
+-mức bội
+-tổ hợp
+@Lĩnh vực: toán & tin
+-bội
+-bội, bội số
+-nhiều đầu (mối)
+-phức số
+@Lĩnh vực: điện lạnh
+-được mắc sun
+@Lĩnh vực: điện tử & viễn thông
+-nhiều hành trình
+@Lĩnh vực: xây dựng
+-nhiều lớp (tầng)

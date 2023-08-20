@@ -1,3 +1,4 @@
-wakener
-	@wakener\n* danh từ\n- người đánh thức, người gọi dậy\n- (thông tục) cái bợp đầu; cú đánh bất ngờ; chuyện bất ngờ khó chịu
-
+wakener	@wakener
+* danh từ
+- người đánh thức, người gọi dậy
+- (thông tục) cái bợp đầu; cú đánh bất ngờ; chuyện bất ngờ khó chịu

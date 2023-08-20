@@ -1,3 +1,14 @@
-buzzer
-	@buzzer /'bʌzə/\n*  danh từ\n- còi (nhà máy...)\n- (điện học) máy con ve\n- (quân sự),  (từ lóng) người thông tin liên lạc\n@Chuyên ngành kỹ thuật\n-máy con ve\n-máy rung âm\n@Lĩnh vực: xây dựng\n-kèn chuông\n-máy con ve (điện)\n@Lĩnh vực: toán & tin\n-kèn chuông (điện)
-
+buzzer	
+@buzzer /'bʌzə/
+*  danh từ
+- còi (nhà máy...)
+- (điện học) máy con ve
+- (quân sự),  (từ lóng) người thông tin liên lạc
+@Chuyên ngành kỹ thuật
+-máy con ve
+-máy rung âm
+@Lĩnh vực: xây dựng
+-kèn chuông
+-máy con ve (điện)
+@Lĩnh vực: toán & tin
+-kèn chuông (điện)

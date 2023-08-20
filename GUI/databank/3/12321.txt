@@ -1,3 +1,2 @@
-covalent
-	@covalent\n- (Tech) đồng hóa trị
-
+covalent	@covalent
+- (Tech) đồng hóa trị

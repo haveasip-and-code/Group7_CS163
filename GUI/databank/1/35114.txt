@@ -1,3 +1,2 @@
-misentry
-	@Chuyên ngành kinh tế\n-việc vào sổ không đúng
-
+misentry	@Chuyên ngành kinh tế
+-việc vào sổ không đúng

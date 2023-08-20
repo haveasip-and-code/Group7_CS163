@@ -1,3 +1,38 @@
-lamella
-	@lamella /lə'melə/\n*  danh từ,  số nhiều lamellae  /lə'meli:/\n- lá mỏng, phiến mỏng\n- lá kính\n@Chuyên ngành kỹ thuật\n-bản mỏng\n-băng\n-dải\n-lá\n-lá mỏng\n-lamen\n-lát mỏng\n-tấm kim loại\n-tấm mỏng\n-tờ\n@Lĩnh vực: cơ khí & công trình\n-phiến (mỏng)\n@Lĩnh vực: xây dựng\n-phiếu mỏng\n@Lĩnh vực: điện lạnh\n-tờ mỏng\n@Chuyên ngành kỹ thuật\n-bản mỏng\n-băng\n-dải\n-lá\n-lá mỏng\n-lamen\n-lát mỏng\n-tấm kim loại\n-tấm mỏng\n-tờ\n@Lĩnh vực: cơ khí & công trình\n-phiến (mỏng)\n@Lĩnh vực: xây dựng\n-phiếu mỏng\n@Lĩnh vực: điện lạnh\n-tờ mỏng
-
+lamella	@lamella /lə'melə/
+*  danh từ,  số nhiều lamellae  /lə'meli:/
+- lá mỏng, phiến mỏng
+- lá kính
+@Chuyên ngành kỹ thuật
+-bản mỏng
+-băng
+-dải
+-lá
+-lá mỏng
+-lamen
+-lát mỏng
+-tấm kim loại
+-tấm mỏng
+-tờ
+@Lĩnh vực: cơ khí & công trình
+-phiến (mỏng)
+@Lĩnh vực: xây dựng
+-phiếu mỏng
+@Lĩnh vực: điện lạnh
+-tờ mỏng
+@Chuyên ngành kỹ thuật
+-bản mỏng
+-băng
+-dải
+-lá
+-lá mỏng
+-lamen
+-lát mỏng
+-tấm kim loại
+-tấm mỏng
+-tờ
+@Lĩnh vực: cơ khí & công trình
+-phiến (mỏng)
+@Lĩnh vực: xây dựng
+-phiếu mỏng
+@Lĩnh vực: điện lạnh
+-tờ mỏng

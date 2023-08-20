@@ -1,3 +1,13 @@
-audio
-	@audio\n- (Tech) thuộc âm thanh\n@Chuyên ngành kinh tế\n-phần có âm thanh (của quảng cáo)\n-phần tiếng\n@Chuyên ngành kỹ thuật\n-âm\n-âm thanh\n@Lĩnh vực: điện\n-thuộc âm thanh\n@Lĩnh vực: xây dựng\n-thuộc về âm thanh
-
+audio	
+@audio
+- (Tech) thuộc âm thanh
+@Chuyên ngành kinh tế
+-phần có âm thanh (của quảng cáo)
+-phần tiếng
+@Chuyên ngành kỹ thuật
+-âm
+-âm thanh
+@Lĩnh vực: điện
+-thuộc âm thanh
+@Lĩnh vực: xây dựng
+-thuộc về âm thanh

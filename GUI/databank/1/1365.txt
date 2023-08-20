@@ -1,3 +1,4 @@
-airways
-	@Chuyên ngành kinh tế\n-công ty hàng không\n-hãng hàng không
-
+airways	
+@Chuyên ngành kinh tế
+-công ty hàng không
+-hãng hàng không

@@ -1,3 +1,2 @@
-poshly
-	@poshly\n- xem posh
-
+poshly	@poshly
+- xem posh

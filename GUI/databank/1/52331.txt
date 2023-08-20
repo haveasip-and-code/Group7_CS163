@@ -1,3 +1,6 @@
-spermicide
-	@spermicide\n* danh từ\n- chất diệt tinh trùng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất diệt tinh trùng
-
+spermicide	@spermicide
+* danh từ
+- chất diệt tinh trùng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất diệt tinh trùng

@@ -1,3 +1,2 @@
-thermalize
-	@Chuyên ngành kỹ thuật\n-nhiệt hóa
-
+thermalize	@Chuyên ngành kỹ thuật
+-nhiệt hóa

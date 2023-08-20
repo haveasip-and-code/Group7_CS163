@@ -1,3 +1,26 @@
-ethylene
-	@ethylene /'eθili:n/\n*  danh từ\n- (hoá học) Etylen\n@Chuyên ngành kỹ thuật\n-eten\n-etylen (hóa dầu)\n@Lĩnh vực: điện lạnh\n-C2H4\n@Lĩnh vực: hóa học & vật liệu\n-CH2CH2\n@Lĩnh vực: xây dựng\n-etilen\n@Lĩnh vực: y học\n-etylen\n@Chuyên ngành kỹ thuật\n-eten\n-etylen (hóa dầu)\n@Lĩnh vực: điện lạnh\n-C2H4\n@Lĩnh vực: hóa học & vật liệu\n-CH2CH2\n@Lĩnh vực: xây dựng\n-etilen\n@Lĩnh vực: y học\n-etylen
-
+ethylene	
+@ethylene /'eθili:n/
+*  danh từ
+- (hoá học) Etylen
+@Chuyên ngành kỹ thuật
+-eten
+-etylen (hóa dầu)
+@Lĩnh vực: điện lạnh
+-C2H4
+@Lĩnh vực: hóa học & vật liệu
+-CH2CH2
+@Lĩnh vực: xây dựng
+-etilen
+@Lĩnh vực: y học
+-etylen
+@Chuyên ngành kỹ thuật
+-eten
+-etylen (hóa dầu)
+@Lĩnh vực: điện lạnh
+-C2H4
+@Lĩnh vực: hóa học & vật liệu
+-CH2CH2
+@Lĩnh vực: xây dựng
+-etilen
+@Lĩnh vực: y học
+-etylen

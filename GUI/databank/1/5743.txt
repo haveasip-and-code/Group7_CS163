@@ -1,3 +1,4 @@
-biz
-	@biz /biz/\n*  danh từ\n- (thông tục) (như) business
-
+biz	
+@biz /biz/
+*  danh từ
+- (thông tục) (như) business

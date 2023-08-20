@@ -1,3 +1,7 @@
-clearer
-	@clearer\n- xem clear\n@Chuyên ngành kinh tế\n-ngân hàng bù trừ\n-sự làm trong\n-trong sạch
-
+clearer	
+@clearer
+- xem clear
+@Chuyên ngành kinh tế
+-ngân hàng bù trừ
+-sự làm trong
+-trong sạch

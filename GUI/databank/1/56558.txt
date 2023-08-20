@@ -1,3 +1,43 @@
-through
-	@through /θru:/ (thro) /θru:/ (thro') /θru:/\n*  giới từ\n- qua, xuyên qua, suốt\n=to walk through a wood+ đi xuyên qua rừng\n=to look through the window+ nhìn qua cửa sổ\n=to get through an examination+ thi đỗ, qua kỳ thi trót lọt\n=to see through someone+ nhìn thấu ý nghĩ của ai, đi guốc vào bụng ai\n=through the night+ suốt đêm\n- do, vì, nhờ, bởi, tại\n=through whom did you learn that?+ do ai mà anh biết điều đó?\n=through ignorance+ do (vì) dốt nát\n*  phó từ\n- qua, xuyên qua, suốt, từ đầu đến cuối\n=the crowd was so dense that I could not get through+ đám đông dày đặc quá tôi không sao đi qua được\n=to sleep the whole night through+ ngủ suốt cả đêm\n=to read a book through+ đọc cuốn sách từ dầu đến cuối\n=the train runs through to Hanoi+ xe lửa chạy suốt tới Hà nội\n- đến cùng, hết\n=to go through with some work+ hoàn thành công việc gì đến cùng\n- hoàn toàn\n=to be wet through+ ướt như chuột lột\n- đã nói chuyện được (qua dây nói); (từ Mỹ,nghĩa Mỹ) đã nói xong (qua dây nói)\n!all through\n- suốt từ đầu đến cuối\n=I knew that all through+ tôi biết cái đó từ đầu đến cuối\n!to be through with\n- làm xong, hoàn thành (công việc...)\n- đã đủ, đã chán; đã mệt (về việc gì)\n!to drop through\n- thất bại, không đi đến kết quả nào\n*  tính từ\n- suốt, thẳng\n=a through train+ xe lửa chạy suốt\n=a through ticket+ vé suốt\n=a through passenger+ khác đi suốt\n@Chuyên ngành kinh tế\n-sản phẩm lọt sàng\n@Chuyên ngành kỹ thuật\n-qua\n-xuyên\n-xuyên qua\n@Lĩnh vực: toán & tin\n-suốt
-
+through	@through /θru:/ (thro) /θru:/ (thro') /θru:/
+*  giới từ
+- qua, xuyên qua, suốt
+=to walk through a wood+ đi xuyên qua rừng
+=to look through the window+ nhìn qua cửa sổ
+=to get through an examination+ thi đỗ, qua kỳ thi trót lọt
+=to see through someone+ nhìn thấu ý nghĩ của ai, đi guốc vào bụng ai
+=through the night+ suốt đêm
+- do, vì, nhờ, bởi, tại
+=through whom did you learn that?+ do ai mà anh biết điều đó?
+=through ignorance+ do (vì) dốt nát
+*  phó từ
+- qua, xuyên qua, suốt, từ đầu đến cuối
+=the crowd was so dense that I could not get through+ đám đông dày đặc quá tôi không sao đi qua được
+=to sleep the whole night through+ ngủ suốt cả đêm
+=to read a book through+ đọc cuốn sách từ dầu đến cuối
+=the train runs through to Hanoi+ xe lửa chạy suốt tới Hà nội
+- đến cùng, hết
+=to go through with some work+ hoàn thành công việc gì đến cùng
+- hoàn toàn
+=to be wet through+ ướt như chuột lột
+- đã nói chuyện được (qua dây nói); (từ Mỹ,nghĩa Mỹ) đã nói xong (qua dây nói)
+!all through
+- suốt từ đầu đến cuối
+=I knew that all through+ tôi biết cái đó từ đầu đến cuối
+!to be through with
+- làm xong, hoàn thành (công việc...)
+- đã đủ, đã chán; đã mệt (về việc gì)
+!to drop through
+- thất bại, không đi đến kết quả nào
+*  tính từ
+- suốt, thẳng
+=a through train+ xe lửa chạy suốt
+=a through ticket+ vé suốt
+=a through passenger+ khác đi suốt
+@Chuyên ngành kinh tế
+-sản phẩm lọt sàng
+@Chuyên ngành kỹ thuật
+-qua
+-xuyên
+-xuyên qua
+@Lĩnh vực: toán & tin
+-suốt

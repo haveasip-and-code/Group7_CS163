@@ -1,3 +1,2 @@
-definitions
-	@Chuyên ngành kỹ thuật\n-định nghĩa
-
+definitions	@Chuyên ngành kỹ thuật
+-định nghĩa

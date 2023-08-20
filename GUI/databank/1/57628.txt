@@ -1,3 +1,7 @@
-trenching
-	@Chuyên ngành kỹ thuật\n-sự đào hào\n-sự đào móng\n-sự đào mương\n-sự đào rãnh\n@Lĩnh vực: xây dựng\n-sự khai thác đất
-
+trenching	@Chuyên ngành kỹ thuật
+-sự đào hào
+-sự đào móng
+-sự đào mương
+-sự đào rãnh
+@Lĩnh vực: xây dựng
+-sự khai thác đất

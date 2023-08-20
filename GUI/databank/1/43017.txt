@@ -1,3 +1,2 @@
-precentorial
-	@precentorial\n- xem precentor
-
+precentorial	@precentorial
+- xem precentor

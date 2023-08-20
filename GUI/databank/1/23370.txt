@@ -1,3 +1,6 @@
-gherkin
-	@gherkin /'gə:kin/\n*  danh từ\n- (thực vật học) dưa chuột ri (nhỏ, xanh để ngâm giấm)\n@Chuyên ngành kinh tế\n-dưa chuột nhỏ
-
+gherkin	
+@gherkin /'gə:kin/
+*  danh từ
+- (thực vật học) dưa chuột ri (nhỏ, xanh để ngâm giấm)
+@Chuyên ngành kinh tế
+-dưa chuột nhỏ

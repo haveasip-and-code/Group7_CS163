@@ -1,3 +1,13 @@
-spurt
-	@spurt /spə:t/\n*  danh từ\n- sự cố gắng nước rút, gắng sức, gắng công\n- bắn ra, phọt ra\n*  ngoại động từ\n- làm bắn ra, làm phọt ra\n@Chuyên ngành kỹ thuật\n-dòng\n-lỗ soi\n-phun mạnh\n@Lĩnh vực: cơ khí & công trình\n-đột bằng phun tia\n-tía
-
+spurt	@spurt /spə:t/
+*  danh từ
+- sự cố gắng nước rút, gắng sức, gắng công
+- bắn ra, phọt ra
+*  ngoại động từ
+- làm bắn ra, làm phọt ra
+@Chuyên ngành kỹ thuật
+-dòng
+-lỗ soi
+-phun mạnh
+@Lĩnh vực: cơ khí & công trình
+-đột bằng phun tia
+-tía

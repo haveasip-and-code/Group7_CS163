@@ -1,3 +1,16 @@
-flasher
-	@flasher\n* danh từ\n- bộ phận tạo nhấp nháy; tiếp điểm; công tắc nhấp nháy\n@Chuyên ngành kinh tế\n-ánh lửa của thuốc lá\n@Chuyên ngành kỹ thuật\n-đèn nhấp nháy\n-gương phản chiếu\n@Lĩnh vực: ô tô\n-cục chớp\n@Chuyên ngành kỹ thuật\n-đèn nhấp nháy\n-gương phản chiếu\n@Lĩnh vực: ô tô\n-cục chớp
-
+flasher	
+@flasher
+* danh từ
+- bộ phận tạo nhấp nháy; tiếp điểm; công tắc nhấp nháy
+@Chuyên ngành kinh tế
+-ánh lửa của thuốc lá
+@Chuyên ngành kỹ thuật
+-đèn nhấp nháy
+-gương phản chiếu
+@Lĩnh vực: ô tô
+-cục chớp
+@Chuyên ngành kỹ thuật
+-đèn nhấp nháy
+-gương phản chiếu
+@Lĩnh vực: ô tô
+-cục chớp

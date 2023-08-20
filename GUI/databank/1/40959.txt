@@ -1,3 +1,21 @@
-petrol
-	@petrol /'petrəl/\n*  danh từ\n- dầu xăng\n@Chuyên ngành kinh tế\n-dầu\n-dầu xăng\n-xăng\n@Chuyên ngành kỹ thuật\n-dầu\n-ga\n-khí đốt\n-nhiên liệu\n-xăng\n@Lĩnh vực: ô tô\n-chế hòa khí\n@Lĩnh vực: xây dựng\n-dầu hôi\n-dầu xăng\n-ét xăng\n@Lĩnh vực: toán & tin\n-dầu xăng, dầu hôi
-
+petrol	@petrol /'petrəl/
+*  danh từ
+- dầu xăng
+@Chuyên ngành kinh tế
+-dầu
+-dầu xăng
+-xăng
+@Chuyên ngành kỹ thuật
+-dầu
+-ga
+-khí đốt
+-nhiên liệu
+-xăng
+@Lĩnh vực: ô tô
+-chế hòa khí
+@Lĩnh vực: xây dựng
+-dầu hôi
+-dầu xăng
+-ét xăng
+@Lĩnh vực: toán & tin
+-dầu xăng, dầu hôi

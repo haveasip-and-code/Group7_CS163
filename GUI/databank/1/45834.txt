@@ -1,3 +1,4 @@
-rebalance
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-làm cân bằng lại\n-tái cân bằng
-
+rebalance	@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-làm cân bằng lại
+-tái cân bằng

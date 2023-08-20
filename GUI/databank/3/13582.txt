@@ -1,3 +1,2 @@
-daunter
-	@daunter\n- xem daunt
-
+daunter	@daunter
+- xem daunt

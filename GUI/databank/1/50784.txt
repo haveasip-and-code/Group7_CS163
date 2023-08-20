@@ -1,3 +1,13 @@
-simplex
-	@simplex\n* danh từ\n- (vô tuyến) hệ đơn công\n- (toán học) đơn hình\n@Chuyên ngành kỹ thuật\n-đơn công\n-đơn phương\n-một chiều\n@Lĩnh vực: toán & tin\n-đơn hình\n-một mặt giấy\n@Lĩnh vực: xây dựng\n-đơn thông
-
+simplex	@simplex
+* danh từ
+- (vô tuyến) hệ đơn công
+- (toán học) đơn hình
+@Chuyên ngành kỹ thuật
+-đơn công
+-đơn phương
+-một chiều
+@Lĩnh vực: toán & tin
+-đơn hình
+-một mặt giấy
+@Lĩnh vực: xây dựng
+-đơn thông

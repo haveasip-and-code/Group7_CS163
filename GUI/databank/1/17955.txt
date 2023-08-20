@@ -1,3 +1,4 @@
-emendate
-	@emendate /i:'mend/ (emendate) /'i:mendeit/\n*  ngoại động từ\n- sửa lỗi (trong nội dung một cuốn sách...)
-
+emendate	
+@emendate /i:'mend/ (emendate) /'i:mendeit/
+*  ngoại động từ
+- sửa lỗi (trong nội dung một cuốn sách...)

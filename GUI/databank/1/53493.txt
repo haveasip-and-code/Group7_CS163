@@ -1,3 +1,54 @@
-stone
-	@stone /stoun/\n*  danh từ\n- đá\n=as hard as a stone+ rắn như đá\n=built of stone+ xây bằng đá\n- đá (mưa đá)\n- đá quý, ngọc\n- (y học) sỏi (thận, bóng đái...)\n- (thực vật học) hạch (quả cây)\n- (giải phẫu) hòn dái\n- (số nhiều không đổi) Xtôn (đơn vị trọng lượng khoảng 6, 400 kg)\n!to give a stone for bread\n- giúp đỡ giả vờ\n!to kill two birds with one stone\n- (xem) bird\n!to leave no stone unturned\n- (xem) leave\n!to mark with a white stone\n- ghi là một ngày vui\n!rolling stone gathers no moss\n- (xem) gather\n!stocks and stones\n- vật vô tri vô giác\n!stones will cry out\n- vật vô tri vô giác cũng phải mủi lòng phẫn uất (tộc ác tày trời)\n!those who live in glass houses should not throw stones\n- (nghĩa bóng) mình nói xấu người ta, người ta sẽ nói xấu mình\n!to throw stones at somebody\n- nói xấu ai, vu cáo ai\n*  tính từ\n- bằng đá\n=stone building+ nhà bằng đá\n*  ngoại động từ\n- ném đá (vào ai)\n- trích hạch (ở quả)\n- rải đá, lát đá\n@Chuyên ngành kinh tế\n-Stôn\n@Chuyên ngành kinh tế\n-đá\n-đà mài\n-hạt\n-nhân\n-tách bỏ hạt\n@Chuyên ngành kỹ thuật\n-đá\n-đá mài\n-mài nghiền\n-sỏi\n@Lĩnh vực: thực phẩm\n-bỏ hột (quả)\n-tách hột\n@Lĩnh vực: cơ khí & công trình\n-sửa đá mài
-
+stone	@stone /stoun/
+*  danh từ
+- đá
+=as hard as a stone+ rắn như đá
+=built of stone+ xây bằng đá
+- đá (mưa đá)
+- đá quý, ngọc
+- (y học) sỏi (thận, bóng đái...)
+- (thực vật học) hạch (quả cây)
+- (giải phẫu) hòn dái
+- (số nhiều không đổi) Xtôn (đơn vị trọng lượng khoảng 6, 400 kg)
+!to give a stone for bread
+- giúp đỡ giả vờ
+!to kill two birds with one stone
+- (xem) bird
+!to leave no stone unturned
+- (xem) leave
+!to mark with a white stone
+- ghi là một ngày vui
+!rolling stone gathers no moss
+- (xem) gather
+!stocks and stones
+- vật vô tri vô giác
+!stones will cry out
+- vật vô tri vô giác cũng phải mủi lòng phẫn uất (tộc ác tày trời)
+!those who live in glass houses should not throw stones
+- (nghĩa bóng) mình nói xấu người ta, người ta sẽ nói xấu mình
+!to throw stones at somebody
+- nói xấu ai, vu cáo ai
+*  tính từ
+- bằng đá
+=stone building+ nhà bằng đá
+*  ngoại động từ
+- ném đá (vào ai)
+- trích hạch (ở quả)
+- rải đá, lát đá
+@Chuyên ngành kinh tế
+-Stôn
+@Chuyên ngành kinh tế
+-đá
+-đà mài
+-hạt
+-nhân
+-tách bỏ hạt
+@Chuyên ngành kỹ thuật
+-đá
+-đá mài
+-mài nghiền
+-sỏi
+@Lĩnh vực: thực phẩm
+-bỏ hột (quả)
+-tách hột
+@Lĩnh vực: cơ khí & công trình
+-sửa đá mài

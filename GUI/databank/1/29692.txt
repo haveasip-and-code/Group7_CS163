@@ -1,3 +1,15 @@
-intrusion
-	@intrusion /in'tru:ʤn/\n*  danh từ\n- sự ấn bừa, sự tống ấn, sự đưa bừa; sự bị ấn bừa, sự bị đưa bừa\n- sự xâm phạm, sự xâm nhập\n- sự bắt người khác phải chịu đựng mình\n- (pháp lý) sự xâm phạm\n- sự xâm nhập, thế xâm nhập\n@Chuyên ngành kỹ thuật\n-hiện tượng xâm nhập\n-sự xâm nhập\n@Lĩnh vực: hóa học & vật liệu\n-chất xâm nhập\n@Lĩnh vực: y học\n-sự lún vào
-
+intrusion	
+@intrusion /in'tru:ʤn/
+*  danh từ
+- sự ấn bừa, sự tống ấn, sự đưa bừa; sự bị ấn bừa, sự bị đưa bừa
+- sự xâm phạm, sự xâm nhập
+- sự bắt người khác phải chịu đựng mình
+- (pháp lý) sự xâm phạm
+- sự xâm nhập, thế xâm nhập
+@Chuyên ngành kỹ thuật
+-hiện tượng xâm nhập
+-sự xâm nhập
+@Lĩnh vực: hóa học & vật liệu
+-chất xâm nhập
+@Lĩnh vực: y học
+-sự lún vào

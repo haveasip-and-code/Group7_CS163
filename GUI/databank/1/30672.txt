@@ -1,3 +1,25 @@
-justification
-	@justification /,dʤʌstifi'keiʃn/\n*  danh từ\n- sự bào chữa, sự biện hộ, sự chứng minh là đúng; lý lẽ bào chữa\n- (ngành in) sự sắp chữ cho đúng hàng đúng chỗ\n@Chuyên ngành kinh tế\n-bào chữa\n-biện giải\n-biện minh\n-chứng minh\n-sự biện hộ\n@Chuyên ngành kỹ thuật\n-bào chữa\n-căn lề\n-sự cân chỉnh\n-sự căn chỉnh\n-sự chỉnh\n-sự chứng minh\n-sự nhồi\n@Lĩnh vực: toán & tin\n-căn chỉnh\n@Lĩnh vực: điện tử & viễn thông\n-chỉnh trang\n@Lĩnh vực: cơ khí & công trình\n-nhân tố sử dụng công nghệ
-
+justification	
+@justification /,dʤʌstifi'keiʃn/
+*  danh từ
+- sự bào chữa, sự biện hộ, sự chứng minh là đúng; lý lẽ bào chữa
+- (ngành in) sự sắp chữ cho đúng hàng đúng chỗ
+@Chuyên ngành kinh tế
+-bào chữa
+-biện giải
+-biện minh
+-chứng minh
+-sự biện hộ
+@Chuyên ngành kỹ thuật
+-bào chữa
+-căn lề
+-sự cân chỉnh
+-sự căn chỉnh
+-sự chỉnh
+-sự chứng minh
+-sự nhồi
+@Lĩnh vực: toán & tin
+-căn chỉnh
+@Lĩnh vực: điện tử & viễn thông
+-chỉnh trang
+@Lĩnh vực: cơ khí & công trình
+-nhân tố sử dụng công nghệ

@@ -1,3 +1,27 @@
-impress
-	@impress /im'pres/\n*  danh từ\n- sự đóng dấu\n- dấu (đóng vào, in vào...)\n- (nghĩa bóng) dấu ấn\n=a work bearing an impress of genius+ tác phẩm mang dấu ấn của một thiên tài\n*  ngoại động từ\n- đóng, in (dấu lên cái gì); đóng dấu vào, in dấu vào (cái gì)\n=to impress the wax with a stamp+ đóng dấu vào miếng sáp bằng con dấu\n- ghi sâu vào, khắc sâu vào, in sâu vào\n=to impress something on the memory+ ghi sâu cái gì vào ký ức\n- gây ấn tượng; làm cảm động, làm cảm kích\n=to be deeply impressed by someone's kindness+ cảm kích sâu sắc vì lòng tốt của ai\n*  ngoại động từ\n- (sử học) cưỡng bách (thanh niên...) tòng quân, bắt (thanh niên...) đi lính\n- trưng thu, sung công (hàng hoá...)\n- đưa vào, dùng (những sự kiện... để làm dẫn chứng, để lập luận...)\n@Chuyên ngành kinh tế\n-đục lỗ\n-sự đóng\n-sự in\n-tạo lỗ\n@Chuyên ngành kỹ thuật\n-dấu\n-đóng dấu\n-hoa
-
+impress	
+@impress /im'pres/
+*  danh từ
+- sự đóng dấu
+- dấu (đóng vào, in vào...)
+- (nghĩa bóng) dấu ấn=a work bearing an impress of genius
++ tác phẩm mang dấu ấn của một thiên tài
+*  ngoại động từ
+- đóng, in (dấu lên cái gì); đóng dấu vào, in dấu vào (cái gì)=to impress the wax with a stamp
++ đóng dấu vào miếng sáp bằng con dấu
+- ghi sâu vào, khắc sâu vào, in sâu vào=to impress something on the memory
++ ghi sâu cái gì vào ký ức
+- gây ấn tượng; làm cảm động, làm cảm kích=to be deeply impressed by someone's kindness
++ cảm kích sâu sắc vì lòng tốt của ai
+*  ngoại động từ
+- (sử học) cưỡng bách (thanh niên...) tòng quân, bắt (thanh niên...) đi lính
+- trưng thu, sung công (hàng hoá...)
+- đưa vào, dùng (những sự kiện... để làm dẫn chứng, để lập luận...)
+@Chuyên ngành kinh tế
+-đục lỗ
+-sự đóng
+-sự in
+-tạo lỗ
+@Chuyên ngành kỹ thuật
+-dấu
+-đóng dấu
+-hoa

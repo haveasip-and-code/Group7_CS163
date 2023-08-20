@@ -1,3 +1,12 @@
-numbering
-	@numbering\n* danh từ\n- sự ghi số vào cái gì; sự đánh số\n@Chuyên ngành kinh tế\n-sự đánh số\n@Chuyên ngành kỹ thuật\n-danh mục\n-đánh số\n-sự đánh số\n-sự đếm\n@Lĩnh vực: toán & tin\n-cách đánh số
-
+numbering	@numbering
+* danh từ
+- sự ghi số vào cái gì; sự đánh số
+@Chuyên ngành kinh tế
+-sự đánh số
+@Chuyên ngành kỹ thuật
+-danh mục
+-đánh số
+-sự đánh số
+-sự đếm
+@Lĩnh vực: toán & tin
+-cách đánh số

@@ -1,3 +1,59 @@
-arm
-	@arm /ɑ:m/\n*  danh từ\n- cánh tay\n=to carry a book under one's arms+ cắp cuốn sách dưới nách\n=child (infant) in arms+ đứa bé còn phải bế\n- tay áo\n- nhánh (sông...)\n- cành, nhánh to (cây)\n- tay (ghế); cán (cân); cánh tay đòn; cần (trục)\n- chân trước (của thú vật)\n- sức mạnh, quyền lực\n=the arm of the law+ quyền lực của pháp luật\n!to chance one's arm\n- (xem) chance\n!to keep someone at arm's length\n- (xem) length\n!to make a long arm\n- (xem) long\n!one's right arm\n- (nghĩa bóng) cánh tay phải, người giúp việc đắc lực\n!to put one's out further than one can draw it back again\n- làm cái gì quá đáng\n!to shorten the arm of somebody\n- hạn chế quyền lực của ai\n!to throw oneself into the arms of somebody\n- tìm sự che chở của ai, tìm sự bảo vệ của ai\n!to welcome (receive, greet) with open arms\n- đón tiếp ân cần, niềm nở\n*  danh từ,  (thường) số nhiều\n- vũ khí, khí giới, binh khí\n- sự phục vụ trong quân ngũ, nghiệp võ\n=to bear arms+ mang vũ khí; phục vụ trong quân ngũ\n=to receive a call to arms+ nhận được lệnh nhập ngũ\n- binh chủng, quân chủng\n=air arm(s)+ không quân\n=infantry arm(s)+ lục quân\n- chiến tranh; chiến đấu\n- phù hiệu ((thường) coat of arms)\n!to appeal to arm\n- cầm vũ khí, chiến đấu\n!to fly to arms\n- khẩn trương sẵn sàng chiến đấu\n!to lay down one's arms\n- (xem) lay\n!to lie on one's arms\n!to sleep upon one's arms\n- ngủ với vũ khí trên mình; luôn luôn cảnh giác và ở trong tư thế sẵn sàng chiến đấu\n!to rise in arms against\n- (xem) rise\n!to take up arms\n- cầm vũ khí chiến đấu\n!to throw down one's arms\n- hạ vũ khí, đầu hàng\n!under arms\n- hàng ngũ chỉnh tề sẵn sàng chiến đấu\n![to be] up in arms against\n- đứng lên cầm vũ khí chống lại\n*  ngoại động từ\n- vũ trang, trang bị ((nghĩa đen) & (nghĩa bóng))\n=armed to the teeth+ vũ trang đến tận răng\n=to arm oneself with patience+ tạo cho mình đức tính kiên nhẫn; có đức tính kiên nhẫn\n- cho nòng cứng vào, cho lõi cứng vào\n*  nội động từ\n- tự trang bị; cầm vũ khí chiến đấu\n@Chuyên ngành kỹ thuật\n-cần\n-cạnh\n-con chạy\n-đòn bẩy\n-đòn gánh\n-nhánh (sông)\n-tay gạt\n@Lĩnh vực: cơ khí & công trình\n-cần máy khoan\n@Lĩnh vực: hóa học & vật liệu\n-tay
-
+arm	
+@arm /ɑ:m/
+*  danh từ
+- cánh tay=to carry a book under one's arms
++ cắp cuốn sách dưới nách=child (infant) in arms
++ đứa bé còn phải bế
+- tay áo
+- nhánh (sông...)
+- cành, nhánh to (cây)
+- tay (ghế); cán (cân); cánh tay đòn; cần (trục)
+- chân trước (của thú vật)
+- sức mạnh, quyền lực=the arm of the law
++ quyền lực của pháp luật!to chance one's arm
+- (xem) chance!to keep someone at arm's length
+- (xem) length!to make a long arm
+- (xem) long!one's right arm
+- (nghĩa bóng) cánh tay phải, người giúp việc đắc lực!to put one's out further than one can draw it back again
+- làm cái gì quá đáng!to shorten the arm of somebody
+- hạn chế quyền lực của ai!to throw oneself into the arms of somebody
+- tìm sự che chở của ai, tìm sự bảo vệ của ai!to welcome (receive, greet) with open arms
+- đón tiếp ân cần, niềm nở
+*  danh từ,  (thường) số nhiều
+- vũ khí, khí giới, binh khí
+- sự phục vụ trong quân ngũ, nghiệp võ=to bear arms
++ mang vũ khí; phục vụ trong quân ngũ=to receive a call to arms
++ nhận được lệnh nhập ngũ
+- binh chủng, quân chủng=air arm(s)
++ không quân=infantry arm(s)
++ lục quân
+- chiến tranh; chiến đấu
+- phù hiệu ((thường) coat of arms)!to appeal to arm
+- cầm vũ khí, chiến đấu!to fly to arms
+- khẩn trương sẵn sàng chiến đấu!to lay down one's arms
+- (xem) lay!to lie on one's arms!to sleep upon one's arms
+- ngủ với vũ khí trên mình; luôn luôn cảnh giác và ở trong tư thế sẵn sàng chiến đấu!to rise in arms against
+- (xem) rise!to take up arms
+- cầm vũ khí chiến đấu!to throw down one's arms
+- hạ vũ khí, đầu hàng!under arms
+- hàng ngũ chỉnh tề sẵn sàng chiến đấu![to be] up in arms against
+- đứng lên cầm vũ khí chống lại
+*  ngoại động từ
+- vũ trang, trang bị ((nghĩa đen) & (nghĩa bóng))=armed to the teeth
++ vũ trang đến tận răng=to arm oneself with patience
++ tạo cho mình đức tính kiên nhẫn; có đức tính kiên nhẫn
+- cho nòng cứng vào, cho lõi cứng vào
+*  nội động từ
+- tự trang bị; cầm vũ khí chiến đấu
+@Chuyên ngành kỹ thuật
+-cần
+-cạnh
+-con chạy
+-đòn bẩy
+-đòn gánh
+-nhánh (sông)
+-tay gạt
+@Lĩnh vực: cơ khí & công trình
+-cần máy khoan
+@Lĩnh vực: hóa học & vật liệu
+-tay

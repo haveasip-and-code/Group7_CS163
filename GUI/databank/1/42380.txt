@@ -1,3 +1,2 @@
-pollenizer
-	@pollenizer\n- xem polleniser
-
+pollenizer	@pollenizer
+- xem polleniser

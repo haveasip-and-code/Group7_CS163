@@ -1,3 +1,6 @@
-lines
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-các đường nét\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-các đường nét
-
+lines	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-các đường nét
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-các đường nét

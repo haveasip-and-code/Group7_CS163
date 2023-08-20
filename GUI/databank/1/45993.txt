@@ -1,3 +1,21 @@
-recommendation
-	@recommendation /,rekəmen'deiʃn/\n*  danh từ\n- sự giới thiệu, sự tiến cử\n=to writer in recommendation of someone+ viết thư giới thiệu ai\n=letter of recommendation+ thư giới thiệu\n- làm cho người ta mến, đức tính làm cho có cảm tưởng tốt\n- sự khuyên nhủ, sự dặn bảo\n- sự gửi gắm, sự phó thác\n@Chuyên ngành kinh tế\n-lời khuyên\n-sự giới thiệu\n-sự gửi gắm\n-sự khuyến cáo\n-sự tiến cử\n-thư giới thiệu\n-thư gửi gắm\n-thư tiến cử\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-khuyến cáo\n-khuyến nghị
-
+recommendation	@recommendation /,rekəmen'deiʃn/
+*  danh từ
+- sự giới thiệu, sự tiến cử
+=to writer in recommendation of someone+ viết thư giới thiệu ai
+=letter of recommendation+ thư giới thiệu
+- làm cho người ta mến, đức tính làm cho có cảm tưởng tốt
+- sự khuyên nhủ, sự dặn bảo
+- sự gửi gắm, sự phó thác
+@Chuyên ngành kinh tế
+-lời khuyên
+-sự giới thiệu
+-sự gửi gắm
+-sự khuyến cáo
+-sự tiến cử
+-thư giới thiệu
+-thư gửi gắm
+-thư tiến cử
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-khuyến cáo
+-khuyến nghị

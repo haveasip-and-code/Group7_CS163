@@ -1,3 +1,6 @@
-patented
-	@patented\n- tính từ\n- đã có bằng sáng chế, môn bài\n@Chuyên ngành kinh tế\n-được cấp bằng sáng chế\n-được cấp môn bài
-
+patented	@patented
+- tính từ
+- đã có bằng sáng chế, môn bài
+@Chuyên ngành kinh tế
+-được cấp bằng sáng chế
+-được cấp môn bài

@@ -1,3 +1,10 @@
-hauling
-	@Chuyên ngành kinh tế\n-giòng tàu\n-sự giòng tàu\n-sự kéo thuyền\n@Chuyên ngành kỹ thuật\n-sự chuyên chở\n-sự dắt\n-sự kéo\n-sự vận chuyển
-
+hauling	
+@Chuyên ngành kinh tế
+-giòng tàu
+-sự giòng tàu
+-sự kéo thuyền
+@Chuyên ngành kỹ thuật
+-sự chuyên chở
+-sự dắt
+-sự kéo
+-sự vận chuyển

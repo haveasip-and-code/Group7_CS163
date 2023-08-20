@@ -1,3 +1,25 @@
-cellular
-	@cellular /'seljulə/\n*  tính từ\n- (thuộc) tế bào\n- cấu tạo bằng tế bào\n- có phòng nhỏ; có ngăn nhỏ\n- có lỗ hổng\n- có ô hình mạng (vải)\n@Chuyên ngành kỹ thuật\n-dạng ô\n-dạng tổ ong\n-khoang\n-ngăn\n-ô\n-ống\n-tế bào\n-xốp\n@Lĩnh vực: điện tử & viễn thông\n-chia ô\n@Lĩnh vực: cơ khí & công trình\n-có hốc\n-có ngăn\n@Lĩnh vực: toán & tin\n-hình trạng tế bào\n-theo kiểu ô\n-theo kiểu tế bào
-
+cellular	@cellular /'seljulə/
+*  tính từ
+- (thuộc) tế bào
+- cấu tạo bằng tế bào
+- có phòng nhỏ; có ngăn nhỏ
+- có lỗ hổng
+- có ô hình mạng (vải)
+@Chuyên ngành kỹ thuật
+-dạng ô
+-dạng tổ ong
+-khoang
+-ngăn
+-ô
+-ống
+-tế bào
+-xốp
+@Lĩnh vực: điện tử & viễn thông
+-chia ô
+@Lĩnh vực: cơ khí & công trình
+-có hốc
+-có ngăn
+@Lĩnh vực: toán & tin
+-hình trạng tế bào
+-theo kiểu ô
+-theo kiểu tế bào

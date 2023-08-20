@@ -1,3 +1,13 @@
-indebtedness
-	@indebtedness /in'detidnis/\n*  danh từ\n- sự mắc nợ; công nợ; số tiền nợ\n- sự mang ơn, sự hàm ơn\n@Chuyên ngành kinh tế\n-công nợ\n-công nợ số tiền nợ\n-số tiền mắc nợ\n-sự mắc nợ\n-sự thiếu nợ\n@Chuyên ngành kỹ thuật\n-sự mắc nợ
-
+indebtedness	
+@indebtedness /in'detidnis/
+*  danh từ
+- sự mắc nợ; công nợ; số tiền nợ
+- sự mang ơn, sự hàm ơn
+@Chuyên ngành kinh tế
+-công nợ
+-công nợ số tiền nợ
+-số tiền mắc nợ
+-sự mắc nợ
+-sự thiếu nợ
+@Chuyên ngành kỹ thuật
+-sự mắc nợ

@@ -1,3 +1,6 @@
-sweepings
-	@sweepings\n* danh từ, pl\n- bụi, rác rưởi  đã quét và thu gom lại\n@Chuyên ngành kinh tế\n-bột gia súc (phế phẩm các nhà máy chế biến lương thực)\n-dự toán
-
+sweepings	@sweepings
+* danh từ, pl
+- bụi, rác rưởi  đã quét và thu gom lại
+@Chuyên ngành kinh tế
+-bột gia súc (phế phẩm các nhà máy chế biến lương thực)
+-dự toán

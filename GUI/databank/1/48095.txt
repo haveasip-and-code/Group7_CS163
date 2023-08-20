@@ -1,3 +1,21 @@
-routing
-	@Chuyên ngành kinh tế\n-chia chọn bưu phẩm gửi đi\n-sắp xếp để chuyển thư từ đi\n@Chuyên ngành kỹ thuật\n-định tuyến\n-đường\n-hành trình\n-quá trình công nghệ\n-sự chọn đường\n-sự định tuyến\n-sự phay rãnh\n-sự truyền\n-sự vạch tuyến đường\n@Lĩnh vực: điện\n-cách đi cáp\n-cách vạch tuyến cáp\n@Lĩnh vực: toán & tin\n-chọn tuyến\n-sự tạo đường truyền\n@Lĩnh vực: điện lạnh\n-sự chọn đường (truyền)
-
+routing	@Chuyên ngành kinh tế
+-chia chọn bưu phẩm gửi đi
+-sắp xếp để chuyển thư từ đi
+@Chuyên ngành kỹ thuật
+-định tuyến
+-đường
+-hành trình
+-quá trình công nghệ
+-sự chọn đường
+-sự định tuyến
+-sự phay rãnh
+-sự truyền
+-sự vạch tuyến đường
+@Lĩnh vực: điện
+-cách đi cáp
+-cách vạch tuyến cáp
+@Lĩnh vực: toán & tin
+-chọn tuyến
+-sự tạo đường truyền
+@Lĩnh vực: điện lạnh
+-sự chọn đường (truyền)

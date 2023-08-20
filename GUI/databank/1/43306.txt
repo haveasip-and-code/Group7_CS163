@@ -1,3 +1,23 @@
-preparation
-	@preparation /,prepə'reiʃn/\n*  danh từ\n- sự soạn, sự sửa soạn, sự chuẩn bị, sự dự bị\n- ((thường) số nhiều) các thứ sửa soạn, các thứ sắm sửa, các thứ chuẩn bị, các thứ dự bị\n=to make preparations for+ sửa soạn, sắm sửa, chuẩn bị\n- sự soạn bài; bài soạn (của học sinh)\n- sự điều chế; sự pha chế (thuốc...); sự làm, sự dọn, sự hầu (cơm, thức ăn); chất pha chế, thuốc pha chế; thức ăn được dọn\n@Chuyên ngành kinh tế\n-chế phẩm\n-sự chuẩn bị\n-sự xử lý sơ bộ\n@Chuyên ngành kỹ thuật\n-điều chế\n-sự chế biến\n-sự chế tạo\n-sự chuẩn bị\n-sự pha chế\n@Lĩnh vực: toán & tin\n-cntv (sự) điều chế\n-sự chuẩn bị trước\n-sự tạo ra\n@Lĩnh vực: y học\n-mẫu, tiêu bản chế phẩm
-
+preparation	@preparation /,prepə'reiʃn/
+*  danh từ
+- sự soạn, sự sửa soạn, sự chuẩn bị, sự dự bị
+- ((thường) số nhiều) các thứ sửa soạn, các thứ sắm sửa, các thứ chuẩn bị, các thứ dự bị
+=to make preparations for+ sửa soạn, sắm sửa, chuẩn bị
+- sự soạn bài; bài soạn (của học sinh)
+- sự điều chế; sự pha chế (thuốc...); sự làm, sự dọn, sự hầu (cơm, thức ăn); chất pha chế, thuốc pha chế; thức ăn được dọn
+@Chuyên ngành kinh tế
+-chế phẩm
+-sự chuẩn bị
+-sự xử lý sơ bộ
+@Chuyên ngành kỹ thuật
+-điều chế
+-sự chế biến
+-sự chế tạo
+-sự chuẩn bị
+-sự pha chế
+@Lĩnh vực: toán & tin
+-cntv (sự) điều chế
+-sự chuẩn bị trước
+-sự tạo ra
+@Lĩnh vực: y học
+-mẫu, tiêu bản chế phẩm

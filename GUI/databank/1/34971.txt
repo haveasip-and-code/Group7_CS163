@@ -1,3 +1,9 @@
-minibus
-	@minibus\n* danh từ\n- xe búyt nhỏ chứa khoảng 12 người\n@Chuyên ngành kinh tế\n-mini buýt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-ô tô buýt nhỏ\n-xe buýt nhỏ
-
+minibus	@minibus
+* danh từ
+- xe búyt nhỏ chứa khoảng 12 người
+@Chuyên ngành kinh tế
+-mini buýt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-ô tô buýt nhỏ
+-xe buýt nhỏ

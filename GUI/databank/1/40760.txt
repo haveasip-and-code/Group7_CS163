@@ -1,3 +1,12 @@
-peroxide
-	@peroxide\n* danh từ\n- peroxyt\n- nước oxy già; hydro peroxyt (sát trùng, tẩy chất nhuộm tóc)\n* ngoại động từ\n- tẩy chất nhuộm (tóc) bằng hydro peroxyt\n@Chuyên ngành kinh tế\n-peroxyt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ôxi già\n-ôxit già
-
+peroxide	@peroxide
+* danh từ
+- peroxyt
+- nước oxy già; hydro peroxyt (sát trùng, tẩy chất nhuộm tóc)
+* ngoại động từ
+- tẩy chất nhuộm (tóc) bằng hydro peroxyt
+@Chuyên ngành kinh tế
+-peroxyt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-ôxi già
+-ôxit già

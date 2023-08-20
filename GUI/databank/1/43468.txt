@@ -1,3 +1,12 @@
-prestress
-	@prestress\n* ngoại động từ\n- tạo ứng suất trước (trong các cột chống) để chống lại sức nặng đè lên\n@Chuyên ngành kỹ thuật\n-dự ứng lực\n-gia cố lực\n-ứng lực trước\n-ứng suất trước\n@Lĩnh vực: xây dựng\n-dự ứng suất\n@Lĩnh vực: toán & tin\n-ứng suất lực
-
+prestress	@prestress
+* ngoại động từ
+- tạo ứng suất trước (trong các cột chống) để chống lại sức nặng đè lên
+@Chuyên ngành kỹ thuật
+-dự ứng lực
+-gia cố lực
+-ứng lực trước
+-ứng suất trước
+@Lĩnh vực: xây dựng
+-dự ứng suất
+@Lĩnh vực: toán & tin
+-ứng suất lực

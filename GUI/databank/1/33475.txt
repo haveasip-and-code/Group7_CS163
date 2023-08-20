@@ -1,3 +1,68 @@
-man
-	@man /mæn/\n*  danh từ,  số nhiều men  /men/\n- người, con người\n- đàn ông, nam nhi\n=to behave like a man+ xử sự như một trang nam nhi\n=to be only half a man+ yếu đuối, nhút nhát, không xứng đáng là nam nhi\n- chồng\n=man and wife+ chồng và vợ\n- ((thường) số nhiều) người (chỉ quân lính trong một đơn vị quân đội, công nhân trong một xí nghiệp, công xưởng...)\n=an army of 10,000 men+ một đạo quân một vạn người\n- người hầu, đầy tớ (trai)\n- cậu, cậu cả (tiếng xưng hô thân mật khi bực dọc)\n=hurry up man, we are late!+ nhanh lên cậu cả, muộn rồi!\n- quân cờ\n!the man higher up\n- (từ Mỹ,nghĩa Mỹ) ông trùm trong chính giới\n!a man in a thousand\n- người hiếm có, người hàng nghìn người mới có một\n!man and boy\n- từ bé đến lớn, từ lúc còn thơ ấu đến lúc trưởng thành\n!the man in (mỹ: on) the street\n!mỹ the man in the cars\n- người dân thường, quần chúng\n!a man of the world\n- (xem) world\n!man about town\n- (xem) about\n!a man of letters\n- (xem) letter\n!man of straw\n- (xem) straw\n!a man of all work\n- người làm đủ mọi nghề\n!a man of his word\n- (xem) word\n!a man of honour\n- người quân tử\n!one dollars-a-year man\n- (từ Mỹ,nghĩa Mỹ) trùm tư bản tham dự chính quyền chỉ lĩnh mỗi năm một đô la (lương tượng trưng)\n!to be one's own man\n- tự mình làm chủ, không bị lệ thuộc vào ai; sáng suốt, hoàn toàn tự giác\n!to be one's own man again\n- lấy lại được bình tĩnh\n- tỉnh lại\n- bình phục lại, lấy lại được sức khoẻ (sau một trận ốm)\n- lại được tự do\n!to a man\n!to the last man\n- tất cả mọi người, cho đến người cuối cùng\n!undercover men\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bọn mật thám, bọn chỉ điểm\n*  ngoại động từ\n- cung cấp người\n=to man a ship+ cung cấp thuỷ thủ cho một con tàu\n- giữ vị trí ở, đứng vào vị trí ở (ổ súng đại bác)\n- làm cho mạnh mẽ, làm cho cường tráng; làm cho can đảm lên\n=to man oneself+ tự làm cho mình can đảm lên\n@Chuyên ngành kinh tế\n-cung cấp nhân viên cho\n-người\n-nhân viên\n-thợ\n-trang bị, cung cấp người cho\n@Chuyên ngành kỹ thuật\n-người\n-người thợ\n@Lĩnh vực: ô tô\n-hệ số thường
-
+man	@man /mæn/
+*  danh từ,  số nhiều men  /men/
+- người, con người
+- đàn ông, nam nhi
+=to behave like a man+ xử sự như một trang nam nhi
+=to be only half a man+ yếu đuối, nhút nhát, không xứng đáng là nam nhi
+- chồng
+=man and wife+ chồng và vợ
+- ((thường) số nhiều) người (chỉ quân lính trong một đơn vị quân đội, công nhân trong một xí nghiệp, công xưởng...)
+=an army of 10,000 men+ một đạo quân một vạn người
+- người hầu, đầy tớ (trai)
+- cậu, cậu cả (tiếng xưng hô thân mật khi bực dọc)
+=hurry up man, we are late!+ nhanh lên cậu cả, muộn rồi!
+- quân cờ
+!the man higher up
+- (từ Mỹ,nghĩa Mỹ) ông trùm trong chính giới
+!a man in a thousand
+- người hiếm có, người hàng nghìn người mới có một
+!man and boy
+- từ bé đến lớn, từ lúc còn thơ ấu đến lúc trưởng thành
+!the man in (mỹ: on) the street
+!mỹ the man in the cars
+- người dân thường, quần chúng
+!a man of the world
+- (xem) world
+!man about town
+- (xem) about
+!a man of letters
+- (xem) letter
+!man of straw
+- (xem) straw
+!a man of all work
+- người làm đủ mọi nghề
+!a man of his word
+- (xem) word
+!a man of honour
+- người quân tử
+!one dollars-a-year man
+- (từ Mỹ,nghĩa Mỹ) trùm tư bản tham dự chính quyền chỉ lĩnh mỗi năm một đô la (lương tượng trưng)
+!to be one's own man
+- tự mình làm chủ, không bị lệ thuộc vào ai; sáng suốt, hoàn toàn tự giác
+!to be one's own man again
+- lấy lại được bình tĩnh
+- tỉnh lại
+- bình phục lại, lấy lại được sức khoẻ (sau một trận ốm)
+- lại được tự do
+!to a man
+!to the last man
+- tất cả mọi người, cho đến người cuối cùng
+!undercover men
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bọn mật thám, bọn chỉ điểm
+*  ngoại động từ
+- cung cấp người
+=to man a ship+ cung cấp thuỷ thủ cho một con tàu
+- giữ vị trí ở, đứng vào vị trí ở (ổ súng đại bác)
+- làm cho mạnh mẽ, làm cho cường tráng; làm cho can đảm lên
+=to man oneself+ tự làm cho mình can đảm lên
+@Chuyên ngành kinh tế
+-cung cấp nhân viên cho
+-người
+-nhân viên
+-thợ
+-trang bị, cung cấp người cho
+@Chuyên ngành kỹ thuật
+-người
+-người thợ
+@Lĩnh vực: ô tô
+-hệ số thường

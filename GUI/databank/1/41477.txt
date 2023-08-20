@@ -1,3 +1,9 @@
-pictogram
-	@pictogram\n* danh từ\n- lối chữ hình vẽ, chữ tượng hình (để diễn đạt của người nguyên thuỷ)\n@Chuyên ngành kinh tế\n-biểu đồng bằng hình ảnh\n@Chuyên ngành kỹ thuật\n-biểu đồ\n@Lĩnh vực: toán & tin\n-biểu đồ thống kê
-
+pictogram	@pictogram
+* danh từ
+- lối chữ hình vẽ, chữ tượng hình (để diễn đạt của người nguyên thuỷ)
+@Chuyên ngành kinh tế
+-biểu đồng bằng hình ảnh
+@Chuyên ngành kỹ thuật
+-biểu đồ
+@Lĩnh vực: toán & tin
+-biểu đồ thống kê

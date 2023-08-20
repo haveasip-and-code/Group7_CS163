@@ -1,3 +1,2 @@
-venular
-	@venular\n- xem venule
-
+venular	@venular
+- xem venule

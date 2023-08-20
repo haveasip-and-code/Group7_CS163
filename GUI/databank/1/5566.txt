@@ -1,3 +1,4 @@
-bint
-	@bint /bint/\n*  danh từ\n- (từ lóng) cô gái
-
+bint	
+@bint /bint/
+*  danh từ
+- (từ lóng) cô gái

@@ -1,3 +1,27 @@
-background
-	@background /'bækgraund/\n*  danh từ\n- phía sau\n- nền\n=a dress with red sports on a white background+ áo nền trắng chấm đỏ\n- tình trạng không có tên tuổi; địa vị không quan trọng\n- kiến thức; quá trình đào tạo; quá trình học hành; kinh nghiệm\n- (điện ảnh),  radiô nhạc nền\n!to keep (stay, be) in the background\n- tránh mặt\n@Chuyên ngành kinh tế\n-làm nền\n@Chuyên ngành kỹ thuật\n-nền\n-phía sau\n-phông\n-số liệu cơ bản\n-tài liệu cơ bản\n@Lĩnh vực: xây dựng\n-hậu cảnh\n-khái quát\n-tiếng đệm phim\n-tiếng đệm trong kịch\n-tình hình chung\n@Lĩnh vực: toán & tin\n-nền phụ\n-nền sau
-
+background	@background /'bækgraund/
+*  danh từ
+- phía sau
+- nền
+=a dress with red sports on a white background+ áo nền trắng chấm đỏ
+- tình trạng không có tên tuổi; địa vị không quan trọng
+- kiến thức; quá trình đào tạo; quá trình học hành; kinh nghiệm
+- (điện ảnh),  radiô nhạc nền
+!to keep (stay, be) in the background
+- tránh mặt
+@Chuyên ngành kinh tế
+-làm nền
+@Chuyên ngành kỹ thuật
+-nền
+-phía sau
+-phông
+-số liệu cơ bản
+-tài liệu cơ bản
+@Lĩnh vực: xây dựng
+-hậu cảnh
+-khái quát
+-tiếng đệm phim
+-tiếng đệm trong kịch
+-tình hình chung
+@Lĩnh vực: toán & tin
+-nền phụ
+-nền sau

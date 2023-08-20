@@ -1,3 +1,2 @@
-breakfaster
-	@breakfaster\n- xem breakfast
-
+breakfaster	@breakfaster
+- xem breakfast

@@ -1,3 +1,18 @@
-batching
-	@batching\n- (Tech) định lô\n@Chuyên ngành kỹ thuật\n-gói\n-phân đoạn\n-sự phối liệu\n@Lĩnh vực: toán & tin\n-định liều lượng\n-sự nhóm thành lô\n@Lĩnh vực: xây dựng\n-mẻ bêtông\n-sự đong liều lượng\n-sự trộn (bêtông)\n@Lĩnh vực: cơ khí & công trình\n-sự phân đợt\n-sự phân lượng\n-sự phân mẻ
-
+batching	
+@batching
+- (Tech) định lô
+@Chuyên ngành kỹ thuật
+-gói
+-phân đoạn
+-sự phối liệu
+@Lĩnh vực: toán & tin
+-định liều lượng
+-sự nhóm thành lô
+@Lĩnh vực: xây dựng
+-mẻ bêtông
+-sự đong liều lượng
+-sự trộn (bêtông)
+@Lĩnh vực: cơ khí & công trình
+-sự phân đợt
+-sự phân lượng
+-sự phân mẻ

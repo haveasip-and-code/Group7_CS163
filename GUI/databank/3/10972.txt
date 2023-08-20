@@ -1,3 +1,2 @@
-condimental
-	@condimental\n- xem condiment
-
+condimental	@condimental
+- xem condiment

@@ -1,3 +1,4 @@
-morticing
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự làm mộng\n-sự tạo mộng
-
+morticing	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự làm mộng
+-sự tạo mộng

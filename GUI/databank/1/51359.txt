@@ -1,3 +1,9 @@
-smearing
-	@smearing\n* danh từ\n- sự nhoè; dính bẩn\n@Chuyên ngành kỹ thuật\n-đất sét tẩy trắng\n@Lĩnh vực: cơ khí & công trình\n-sự dính bẩn (đá mài)\n@Lĩnh vực: toán & tin\n-sự nhòe
-
+smearing	@smearing
+* danh từ
+- sự nhoè; dính bẩn
+@Chuyên ngành kỹ thuật
+-đất sét tẩy trắng
+@Lĩnh vực: cơ khí & công trình
+-sự dính bẩn (đá mài)
+@Lĩnh vực: toán & tin
+-sự nhòe

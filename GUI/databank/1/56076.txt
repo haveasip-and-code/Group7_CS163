@@ -1,3 +1,2 @@
-terraces
-	@Chuyên ngành kỹ thuật\n-nhà xây hàng
-
+terraces	@Chuyên ngành kỹ thuật
+-nhà xây hàng

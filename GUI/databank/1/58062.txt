@@ -1,3 +1,2 @@
-trusts
-	@Chuyên ngành kinh tế\n-các quỹ quản thác
-
+trusts	@Chuyên ngành kinh tế
+-các quỹ quản thác

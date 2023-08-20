@@ -1,3 +1,4 @@
-unaccented
-	@unaccented /'ʌnæk'sentid/\n*  tính từ\n- không được đánh dấu, không có trọng âm\n- không có giọng
-
+unaccented	@unaccented /'ʌnæk'sentid/
+*  tính từ
+- không được đánh dấu, không có trọng âm
+- không có giọng

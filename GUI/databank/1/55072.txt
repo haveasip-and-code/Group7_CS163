@@ -1,3 +1,5 @@
-switchable
-	@switchable\n- (máy tính) ngắt được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ngắt được
-
+switchable	@switchable
+- (máy tính) ngắt được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-ngắt được

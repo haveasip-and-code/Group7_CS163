@@ -1,3 +1,3 @@
-soleus
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cơ dép
-
+soleus	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-cơ dép

@@ -1,3 +1,4 @@
-leadscrew
-	@Chuyên ngành kỹ thuật\n-vít me\n@Chuyên ngành kỹ thuật\n-vít me
-
+leadscrew	@Chuyên ngành kỹ thuật
+-vít me
+@Chuyên ngành kỹ thuật
+-vít me

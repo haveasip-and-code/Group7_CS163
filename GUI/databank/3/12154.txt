@@ -1,3 +1,6 @@
-costless
-	@costless\n- xem cost\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-không có giá\n-vô giá
-
+costless	@costless
+- xem cost
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-không có giá
+-vô giá

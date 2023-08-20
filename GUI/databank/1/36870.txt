@@ -1,3 +1,2 @@
-nodous
-	@nodous\n- xem nodose
-
+nodous	@nodous
+- xem nodose

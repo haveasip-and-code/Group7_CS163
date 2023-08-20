@@ -1,3 +1,4 @@
-guile
-	@guile\n* danh từ\n- sự lừa đảo, sự lừa gạt; mưu mẹo, thủ đoạn, xảo trá
-
+guile	
+@guile
+* danh từ
+- sự lừa đảo, sự lừa gạt; mưu mẹo, thủ đoạn, xảo trá

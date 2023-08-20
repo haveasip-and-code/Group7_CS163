@@ -1,3 +1,9 @@
-encapsule
-	@Chuyên ngành kỹ thuật\n-đóng hộp (sơn)\n-làm kết bao\n-làm kết nang\n@Chuyên ngành kỹ thuật\n-đóng hộp (sơn)\n-làm kết bao\n-làm kết nang
-
+encapsule	
+@Chuyên ngành kỹ thuật
+-đóng hộp (sơn)
+-làm kết bao
+-làm kết nang
+@Chuyên ngành kỹ thuật
+-đóng hộp (sơn)
+-làm kết bao
+-làm kết nang

@@ -1,3 +1,9 @@
-modality
-	@modality /mou'dæliti/\n*  danh từ\n- thể thức, phương thức\n@Chuyên ngành kỹ thuật\n-cách thức\n-mốt\n-phương thức\n@Lĩnh vực: toán & tin\n-tính mô thái
-
+modality	@modality /mou'dæliti/
+*  danh từ
+- thể thức, phương thức
+@Chuyên ngành kỹ thuật
+-cách thức
+-mốt
+-phương thức
+@Lĩnh vực: toán & tin
+-tính mô thái

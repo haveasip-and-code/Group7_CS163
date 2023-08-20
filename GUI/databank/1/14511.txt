@@ -1,3 +1,7 @@
-denuded
-	@Chuyên ngành kỹ thuật\n-xác xơ\n@Lĩnh vực: hóa học & vật liệu\n-đã loại bỏ\n@Lĩnh vực: xây dựng\n-trần trụi
-
+denuded	
+@Chuyên ngành kỹ thuật
+-xác xơ
+@Lĩnh vực: hóa học & vật liệu
+-đã loại bỏ
+@Lĩnh vực: xây dựng
+-trần trụi

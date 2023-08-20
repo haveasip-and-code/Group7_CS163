@@ -1,3 +1,24 @@
-tablet
-	@tablet /'tæblit/\n*  danh từ\n- tấm, bản, thẻ, phiến (bằng gỗ, ngà để viết, khắc)\n- bài vị\n- viên (thuốc); bánh (xà phòng); thanh, thỏi (kẹo)\n- xếp giấy ghim lại\n@Chuyên ngành kinh tế\n-viên\n@Chuyên ngành kỹ thuật\n-bảng\n-biểu\n-miếng\n-tấm\n-viên\n@Lĩnh vực: xây dựng\n-bảng (tra)\n@Lĩnh vực: toán & tin\n-bảng con (đồ họa)\n-bảng con, bảng nhỏ\n-bảng vẽ, bàn vẽ\n@Lĩnh vực: y học\n-viên nén\n@Lĩnh vực: hóa học & vật liệu\n-viên thuốc
-
+tablet	@tablet /'tæblit/
+*  danh từ
+- tấm, bản, thẻ, phiến (bằng gỗ, ngà để viết, khắc)
+- bài vị
+- viên (thuốc); bánh (xà phòng); thanh, thỏi (kẹo)
+- xếp giấy ghim lại
+@Chuyên ngành kinh tế
+-viên
+@Chuyên ngành kỹ thuật
+-bảng
+-biểu
+-miếng
+-tấm
+-viên
+@Lĩnh vực: xây dựng
+-bảng (tra)
+@Lĩnh vực: toán & tin
+-bảng con (đồ họa)
+-bảng con, bảng nhỏ
+-bảng vẽ, bàn vẽ
+@Lĩnh vực: y học
+-viên nén
+@Lĩnh vực: hóa học & vật liệu
+-viên thuốc

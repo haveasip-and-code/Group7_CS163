@@ -1,3 +1,7 @@
-radices
-	@radices /'reidiks/\n*  danh từ,  số nhiều radices  /'reidisi:z/\n- cơ số\n=ten is the radix of decimal numeration and of common logarithms+ mười là cơ số của cách đếm thập phân và của loga thường\n- nguồn gốc, căn nguyên (của một tệ hại)\n@Chuyên ngành kỹ thuật\n-cơ số
-
+radices	@radices /'reidiks/
+*  danh từ,  số nhiều radices  /'reidisi:z/
+- cơ số
+=ten is the radix of decimal numeration and of common logarithms+ mười là cơ số của cách đếm thập phân và của loga thường
+- nguồn gốc, căn nguyên (của một tệ hại)
+@Chuyên ngành kỹ thuật
+-cơ số

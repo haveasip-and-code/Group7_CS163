@@ -1,3 +1,57 @@
-grade
-	@grade /greid/\n*  danh từ\n- (toán học) Grát\n- cấp bậc, mức, độ; hạng, loại; tầng lớp\n- (từ Mỹ,nghĩa Mỹ) điểm, điểm số (của học sinh)\n=to make the grade+ đạt đủ điểm, đủ trình độ; thành công, thắng lợi\n- lớp (học)\n=the fourth grade+ lớp bốn\n- dốc; độ dốc ((nghĩa đen) & (nghĩa bóng))\n=on the up grade+ lên dốc\n=on the down grade+ xuống dốc\n=movement is on the up grade+ phong trào đang phát triển, phong trào đang theo hướng đi lên\n- (nông nghiệp) giống súc vật cải tạo (do lai giống địa phương với giống tốt hơn)\n*  ngoại động từ\n- sắp, xếp, lựa; phân loại, chia loại; phân hạng\n=to grade milk+ phân loại sữa\n=graded by size+ chia theo cỡ\n- sửa (độ dốc) thoai thoải\n- tăng lên\n- ((thường) + up) lai cải tạo (lai một giống tốt hơn)\n- (nghệ thuật) đánh nhạt dần (màu sắc)\n- (từ Mỹ,nghĩa Mỹ) thay đổi dần dần; sắp xếp theo mức độ tăng\n@Chuyên ngành kinh tế\n-đẳng cấp\n-hạng\n-mức chất lượng (hàng hóa)\n@Chuyên ngành kỹ thuật\n-bậc\n-cấp gỗ\n-chia độ\n-chiều cao\n-độ\n-độ cao\n-độ cứng\n-độ dốc\n-độ nghiêng\n-dốc\n-dốc lên\n-đường dốc lên\n-hạng\n-loại\n-loại 4 độ\n-lớp\n-mức\n-mức, loại, cấp\n-phân bậc\n-phân cấp\n-phân loại\n-san bằng\n-san phẳng\n@Lĩnh vực: xây dựng\n-bạt cấp\n-độ đơn vị\n-đường độ cao\n-hạng (công trình)
-
+grade	
+@grade /greid/
+*  danh từ
+- (toán học) Grát
+- cấp bậc, mức, độ; hạng, loại; tầng lớp
+- (từ Mỹ,nghĩa Mỹ) điểm, điểm số (của học sinh)=to make the grade
++ đạt đủ điểm, đủ trình độ; thành công, thắng lợi
+- lớp (học)=the fourth grade
++ lớp bốn
+- dốc; độ dốc ((nghĩa đen) & (nghĩa bóng))=on the up grade
++ lên dốc=on the down grade
++ xuống dốc=movement is on the up grade
++ phong trào đang phát triển, phong trào đang theo hướng đi lên
+- (nông nghiệp) giống súc vật cải tạo (do lai giống địa phương với giống tốt hơn)
+*  ngoại động từ
+- sắp, xếp, lựa; phân loại, chia loại; phân hạng=to grade milk
++ phân loại sữa=graded by size
++ chia theo cỡ
+- sửa (độ dốc) thoai thoải
+- tăng lên
+- ((thường) 
++ up) lai cải tạo (lai một giống tốt hơn)
+- (nghệ thuật) đánh nhạt dần (màu sắc)
+- (từ Mỹ,nghĩa Mỹ) thay đổi dần dần; sắp xếp theo mức độ tăng
+@Chuyên ngành kinh tế
+-đẳng cấp
+-hạng
+-mức chất lượng (hàng hóa)
+@Chuyên ngành kỹ thuật
+-bậc
+-cấp gỗ
+-chia độ
+-chiều cao
+-độ
+-độ cao
+-độ cứng
+-độ dốc
+-độ nghiêng
+-dốc
+-dốc lên
+-đường dốc lên
+-hạng
+-loại
+-loại 4 độ
+-lớp
+-mức
+-mức, loại, cấp
+-phân bậc
+-phân cấp
+-phân loại
+-san bằng
+-san phẳng
+@Lĩnh vực: xây dựng
+-bạt cấp
+-độ đơn vị
+-đường độ cao
+-hạng (công trình)

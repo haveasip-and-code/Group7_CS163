@@ -1,3 +1,2 @@
-channeler
-	@channeler\n- xem channel
-
+channeler	@channeler
+- xem channel

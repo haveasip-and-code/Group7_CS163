@@ -1,3 +1,2 @@
-chasmal
-	@chasmal\n- xem chasm
-
+chasmal	@chasmal
+- xem chasm

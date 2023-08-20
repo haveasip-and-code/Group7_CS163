@@ -1,3 +1,164 @@
-flat
-	@flat /flæt/\n*  danh từ\n- dãy phòng (ở một tầng trong một nhà khối)\n- (từ Mỹ,nghĩa Mỹ) căn phòng, căn buồng\n- (hàng hải) ngăn, gian\n- (từ hiếm,nghĩa hiếm) tầng\n- mặt phẳng\n- miền đất phẳng\n- lòng (sông, bàn tay...)\n=the flat of the hand+ lòng bàn tay\n- miền đất thấp, miền đầm lầy\n- thuyền đáy bằng\n- rổ nông, hộp nông\n- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) toa trần ((cũng) flat-car)\n- (sân khấu) phần phông đã đóng khung\n- (âm nhạc) dấu giáng\n- (số nhiều) giày đề bằng\n- (từ lóng) kẻ lừa bịp\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) lốp bẹp, lốp xì hơi\n!to join the flats\n- chắp vá lại thành một mảnh; giữ cho vẻ trước sau như một\n*  tính từ\n- bằng phẳng, bẹt, tẹt\n=a flat roof+ mái bằng\n=a flat nose+ mũi tẹt\n- sóng soài, sóng sượt\n=to knock somebody flat+ đánh ai ngã sóng soài\n- nhãn\n- cùng, đồng (màu)\n- nông\n=a flat dish+ đĩa nông\n- hoàn toàn, thẳng, thẳng thừng, dứt khoát\n=flat nonsense+ điều hoàn toàn vô nghĩa\n=a flat denial+ sự từ chối dứt khoát\n=and that's flat!+ dứt khoát là như vậy!\n- nhạt, tẻ nhạt, vô duyên; hả (rượu...)\n=a flat joke+ câu đùa vô duyên\n=flat beer+ bia hả\n- ế ẩm\n=market is flat+ chợ búa ế ẩm\n- không thay đổi, không lên xuống, đứng im (giá cả...)\n- bẹp, xì hơi (lốp xe)\n- bải hoải, buồn nản\n- (thông tục) không một xu dính túi, kiết xác\n- (âm nhạc) giáng\n*  phó từ\n- bằng, phẳng, bẹt\n- sóng sượt, sóng soài\n=to fall flat+ ngã sóng soài\n- (nghĩa bóng) hoàn toàn thất bại\n=to lie flat+ nằm sóng soài\n- hoàn toàn; thẳng, thẳng thừng, dứt khoát\n=to go flat against orders+ hoàn toàn làm trái với mệnh lệnh\n!to tell somebody flat that\n- nói thẳng với ai rằng\n- đúng\n=to run the hundred-yard dush in ten seconds flat+ chạy 100 iat đúng mười giây\n- (âm nhạc) theo dấu giáng\n*  ngoại động từ\n- làm bẹt, dát mỏng\n@Chuyên ngành kinh tế\n-ảm đạm\n-chứng khoán không có lãi\n-cố định\n-đình trệ\n-đồng loạt\n-duy nhất\n-ế ẩm\n-hộp\n-không hoạt động\n-không kể lãi\n-mức giá không thay đổi\n-ngăn\n-nhất định\n-nhất luật\n-phòng\n-tầng\n-tẻ nhạt\n-thị trường yếu ớt\n-thống nhất\n-thùng\n-trầm trệ\n-ứ đọng\n-uể oải\n-yên tĩnh\n@Chuyên ngành kỹ thuật\n-bãi cạn\n-bằng phẳng\n-bào\n-bẹt\n-cán dẹt\n-căn hộ\n-dát mỏng\n-dẹt\n-đơn điệu\n-đồng bằng\n-đục\n-lòng sông\n-nằm ngang\n-mặt phẳng\n-miền đất phẳng\n-mờ\n-sàn\n-thép tấm\n-tôn\n-ván sàn\n-xỉn\n@Lĩnh vực: cơ khí & công trình\n-bạt phẳng\n-cán phẳng\n@Lĩnh vực: ô tô\n-hết điện\n-lốp xẹp\n-lốp xì hơi\n@Lĩnh vực: xây dựng\n-không bóng (màu)\n-phẳng\n-thép dải\n-thoai thoải\n-thuyền đáy bằng\n@Lĩnh vực: vật lý\n-sự xẹp lốp\n@Lĩnh vực: hóa học & vật liệu\n-vỉa nằm ngang\n@Chuyên ngành kỹ thuật\n-bãi cạn\n-bằng phẳng\n-bào\n-bẹt\n-cán dẹt\n-căn hộ\n-dát mỏng\n-dẹt\n-đơn điệu\n-đồng bằng\n-đục\n-lòng sông\n-nằm ngang\n-mặt phẳng\n-miền đất phẳng\n-mờ\n-sàn\n-thép tấm\n-tôn\n-ván sàn\n-xỉn\n@Lĩnh vực: cơ khí & công trình\n-bạt phẳng\n-cán phẳng\n@Lĩnh vực: ô tô\n-hết điện\n-lốp xẹp\n-lốp xì hơi\n@Lĩnh vực: xây dựng\n-không bóng (màu)\n-phẳng\n-thép dải\n-thoai thoải\n-thuyền đáy bằng\n@Lĩnh vực: vật lý\n-sự xẹp lốp\n@Lĩnh vực: hóa học & vật liệu\n-vỉa nằm ngang
-
+flat	
+@flat /flæt/
+*  danh từ
+- dãy phòng (ở một tầng trong một nhà khối)
+- (từ Mỹ,nghĩa Mỹ) căn phòng, căn buồng
+- (hàng hải) ngăn, gian
+- (từ hiếm,nghĩa hiếm) tầng
+- mặt phẳng
+- miền đất phẳng
+- lòng (sông, bàn tay...)=the flat of the hand
++ lòng bàn tay
+- miền đất thấp, miền đầm lầy
+- thuyền đáy bằng
+- rổ nông, hộp nông
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) toa trần ((cũng) flat
+-car)
+- (sân khấu) phần phông đã đóng khung
+- (âm nhạc) dấu giáng
+- (số nhiều) giày đề bằng
+- (từ lóng) kẻ lừa bịp
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lốp bẹp, lốp xì hơi!to join the flats
+- chắp vá lại thành một mảnh; giữ cho vẻ trước sau như một
+*  tính từ
+- bằng phẳng, bẹt, tẹt=a flat roof
++ mái bằng=a flat nose
++ mũi tẹt
+- sóng soài, sóng sượt=to knock somebody flat
++ đánh ai ngã sóng soài
+- nhãn
+- cùng, đồng (màu)
+- nông=a flat dish
++ đĩa nông
+- hoàn toàn, thẳng, thẳng thừng, dứt khoát=flat nonsense
++ điều hoàn toàn vô nghĩa=a flat denial
++ sự từ chối dứt khoát=and that's flat!
++ dứt khoát là như vậy!
+- nhạt, tẻ nhạt, vô duyên; hả (rượu...)=a flat joke
++ câu đùa vô duyên=flat beer
++ bia hả
+- ế ẩm=market is flat
++ chợ búa ế ẩm
+- không thay đổi, không lên xuống, đứng im (giá cả...)
+- bẹp, xì hơi (lốp xe)
+- bải hoải, buồn nản
+- (thông tục) không một xu dính túi, kiết xác
+- (âm nhạc) giáng
+*  phó từ
+- bằng, phẳng, bẹt
+- sóng sượt, sóng soài=to fall flat
++ ngã sóng soài
+- (nghĩa bóng) hoàn toàn thất bại=to lie flat
++ nằm sóng soài
+- hoàn toàn; thẳng, thẳng thừng, dứt khoát=to go flat against orders
++ hoàn toàn làm trái với mệnh lệnh!to tell somebody flat that
+- nói thẳng với ai rằng
+- đúng=to run the hundred
+-yard dush in ten seconds flat
++ chạy 100 iat đúng mười giây
+- (âm nhạc) theo dấu giáng
+*  ngoại động từ
+- làm bẹt, dát mỏng
+@Chuyên ngành kinh tế
+-ảm đạm
+-chứng khoán không có lãi
+-cố định
+-đình trệ
+-đồng loạt
+-duy nhất
+-ế ẩm
+-hộp
+-không hoạt động
+-không kể lãi
+-mức giá không thay đổi
+-ngăn
+-nhất định
+-nhất luật
+-phòng
+-tầng
+-tẻ nhạt
+-thị trường yếu ớt
+-thống nhất
+-thùng
+-trầm trệ
+-ứ đọng
+-uể oải
+-yên tĩnh
+@Chuyên ngành kỹ thuật
+-bãi cạn
+-bằng phẳng
+-bào
+-bẹt
+-cán dẹt
+-căn hộ
+-dát mỏng
+-dẹt
+-đơn điệu
+-đồng bằng
+-đục
+-lòng sông
+-nằm ngang
+-mặt phẳng
+-miền đất phẳng
+-mờ
+-sàn
+-thép tấm
+-tôn
+-ván sàn
+-xỉn
+@Lĩnh vực: cơ khí & công trình
+-bạt phẳng
+-cán phẳng
+@Lĩnh vực: ô tô
+-hết điện
+-lốp xẹp
+-lốp xì hơi
+@Lĩnh vực: xây dựng
+-không bóng (màu)
+-phẳng
+-thép dải
+-thoai thoải
+-thuyền đáy bằng
+@Lĩnh vực: vật lý
+-sự xẹp lốp
+@Lĩnh vực: hóa học & vật liệu
+-vỉa nằm ngang
+@Chuyên ngành kỹ thuật
+-bãi cạn
+-bằng phẳng
+-bào
+-bẹt
+-cán dẹt
+-căn hộ
+-dát mỏng
+-dẹt
+-đơn điệu
+-đồng bằng
+-đục
+-lòng sông
+-nằm ngang
+-mặt phẳng
+-miền đất phẳng
+-mờ
+-sàn
+-thép tấm
+-tôn
+-ván sàn
+-xỉn
+@Lĩnh vực: cơ khí & công trình
+-bạt phẳng
+-cán phẳng
+@Lĩnh vực: ô tô
+-hết điện
+-lốp xẹp
+-lốp xì hơi
+@Lĩnh vực: xây dựng
+-không bóng (màu)
+-phẳng
+-thép dải
+-thoai thoải
+-thuyền đáy bằng
+@Lĩnh vực: vật lý
+-sự xẹp lốp
+@Lĩnh vực: hóa học & vật liệu
+-vỉa nằm ngang

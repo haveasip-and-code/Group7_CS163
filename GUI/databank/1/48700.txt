@@ -1,3 +1,7 @@
-sarcasm
-	@sarcasm /'sɑ:kæzm/\n*  danh từ\n- lời chế nhạo, lời mỉa mai, lời chân biếm; ngôn ngữ mỉa mai châm biếm\n- tài chế nhạo, tài mỉa mai châm biếm; sự chế nhạo, sự mỉa mai châm biếm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mỉa mai
-
+sarcasm	@sarcasm /'sɑ:kæzm/
+*  danh từ
+- lời chế nhạo, lời mỉa mai, lời chân biếm; ngôn ngữ mỉa mai châm biếm
+- tài chế nhạo, tài mỉa mai châm biếm; sự chế nhạo, sự mỉa mai châm biếm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-mỉa mai

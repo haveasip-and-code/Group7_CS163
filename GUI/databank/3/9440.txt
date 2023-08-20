@@ -1,3 +1,52 @@
-circle
-	@circle /'sə:kl/\n*  danh từ\n- đường tròn, hình tròn\n=polar circle+ vòng cực\n=vicious circle+ vòng luẩn quẩn\n- sự tuần hoàn\n=the circle of the seasons+ sự tuần hoàn của các mùa\n- nhóm, giới\n=well informed circle+ giới thạo tin\n- sự chạy quanh (ngựa)\n- quỹ đạo (hành tinh)\n- phạm vi\n=the circle of someone's activities+ phạm vi hoạt động của ai\n- hàng ghế sắp tròn (trong rạp hát)\n!to have circles round the eyes\n- mắt thâm quầng\n!to run round in circles\n- (thông tục) chạy nhông, chạy nhắng lên (mà không được việc gì)\n!to square the circle\n- (xem) square\n*  ngoại động từ\n- đi chung quanh, xoay quanh\n=the moon circles the earth+ mặt trăng xoay quanh quả đất\n- vây quanh\n- (thể dục,thể thao) quay lộn\n=to circle the bar+ quay lộn trên xà đơn\n*  nội động từ\n- xoay quanh; lượn tròn, lượn quanh (máy bay)\n- được chuyền quanh (rượu...)\n!news circles round\n- tin truyền đi, tin lan đi\n@Chuyên ngành kinh tế\n-sưu sách\n-tuần tháng\n-vòng tròn: O (ký mã hiệu chở hàng)\n@Chuyên ngành kỹ thuật\n-chu kỳ\n-chu trình\n-chu vi\n-đường tròn\n-hình tròn\n-phạm vi\n-sự quay tròn\n-sự tuần hoàn\n-vành độ\n-vòng\n-vòng tròn\n-vùng lân cận\n@Lĩnh vực: cơ khí & công trình\n-sự đi vòng tròn\n@Lĩnh vực: y học\n-vòng, vòng tròn
-
+circle	@circle /'sə:kl/
+*  danh từ
+- đường tròn, hình tròn
+=polar circle+ vòng cực
+=vicious circle+ vòng luẩn quẩn
+- sự tuần hoàn
+=the circle of the seasons+ sự tuần hoàn của các mùa
+- nhóm, giới
+=well informed circle+ giới thạo tin
+- sự chạy quanh (ngựa)
+- quỹ đạo (hành tinh)
+- phạm vi
+=the circle of someone's activities+ phạm vi hoạt động của ai
+- hàng ghế sắp tròn (trong rạp hát)
+!to have circles round the eyes
+- mắt thâm quầng
+!to run round in circles
+- (thông tục) chạy nhông, chạy nhắng lên (mà không được việc gì)
+!to square the circle
+- (xem) square
+*  ngoại động từ
+- đi chung quanh, xoay quanh
+=the moon circles the earth+ mặt trăng xoay quanh quả đất
+- vây quanh
+- (thể dục,thể thao) quay lộn
+=to circle the bar+ quay lộn trên xà đơn
+*  nội động từ
+- xoay quanh; lượn tròn, lượn quanh (máy bay)
+- được chuyền quanh (rượu...)
+!news circles round
+- tin truyền đi, tin lan đi
+@Chuyên ngành kinh tế
+-sưu sách
+-tuần tháng
+-vòng tròn: O (ký mã hiệu chở hàng)
+@Chuyên ngành kỹ thuật
+-chu kỳ
+-chu trình
+-chu vi
+-đường tròn
+-hình tròn
+-phạm vi
+-sự quay tròn
+-sự tuần hoàn
+-vành độ
+-vòng
+-vòng tròn
+-vùng lân cận
+@Lĩnh vực: cơ khí & công trình
+-sự đi vòng tròn
+@Lĩnh vực: y học
+-vòng, vòng tròn

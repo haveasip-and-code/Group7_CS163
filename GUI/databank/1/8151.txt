@@ -1,3 +1,9 @@
-cascading
-	@cascading\n- (Tech) nối tầng\n@Chuyên ngành kinh tế\n-đánh thuế tất cả các công đoạn sản xuất\n-đánh thuế tất cả công đoạn sản xuất\n-việc đánh thuế tất cả các công đoạn sản xuất\n@Chuyên ngành kỹ thuật\n-sự phân tầng
-
+cascading	
+@cascading
+- (Tech) nối tầng
+@Chuyên ngành kinh tế
+-đánh thuế tất cả các công đoạn sản xuất
+-đánh thuế tất cả công đoạn sản xuất
+-việc đánh thuế tất cả các công đoạn sản xuất
+@Chuyên ngành kỹ thuật
+-sự phân tầng

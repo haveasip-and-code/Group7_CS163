@@ -1,3 +1,25 @@
-sprue
-	@sprue /spru:/\n*  danh từ\n- (kỹ thuật) rãnh rót (để rót kim loại nấu chảy vào khuôn)\n- thỏi rãnh (thỏi kim loại đọng lại ở rãnh rót)\n- (y học) bệnh viêm ruột loét miệng ((cũng) psilosis)\n@Chuyên ngành kỹ thuật\n-đậu rót\n-đậu rót đứng\n-lỗ tháo\n-ống rót\n-phễu rót (đúc)\n-rãnh rót, thỏi rót\n-vảy sắt\n-vỏ cứng\n-xỉ\n@Lĩnh vực: y học\n-bệnh sprue\n@Lĩnh vực: cơ khí & công trình\n-lỗ tháo (gang, xỉ)\n-miệng kim\n-rãnh rót\n-vết chảy\n@Lĩnh vực: xây dựng\n-mương thẳng đứng\n-mương xối
-
+sprue	@sprue /spru:/
+*  danh từ
+- (kỹ thuật) rãnh rót (để rót kim loại nấu chảy vào khuôn)
+- thỏi rãnh (thỏi kim loại đọng lại ở rãnh rót)
+- (y học) bệnh viêm ruột loét miệng ((cũng) psilosis)
+@Chuyên ngành kỹ thuật
+-đậu rót
+-đậu rót đứng
+-lỗ tháo
+-ống rót
+-phễu rót (đúc)
+-rãnh rót, thỏi rót
+-vảy sắt
+-vỏ cứng
+-xỉ
+@Lĩnh vực: y học
+-bệnh sprue
+@Lĩnh vực: cơ khí & công trình
+-lỗ tháo (gang, xỉ)
+-miệng kim
+-rãnh rót
+-vết chảy
+@Lĩnh vực: xây dựng
+-mương thẳng đứng
+-mương xối

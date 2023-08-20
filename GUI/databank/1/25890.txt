@@ -1,3 +1,22 @@
-hoard
-	@hoard /hɔ:d/\n*  danh từ\n- kho tích trữ, kho dự trữ; chỗ cất giấu; của dành dụm\n- kho tài liệu thu thập được\n- (khảo cổ học) nơi chôn giấu vật quí\n*  ngoại động từ\n- trữ, tích trữ; dự trữ; dành dum\n- (nghĩa bóng) trân trọng gìn giữ (trong lòng...)\n*  nội động từ\n- tích trữ lương thực (lúc đói kém)\n@Chuyên ngành kinh tế\n-cho thầu lại\n-kinh doanh phân tán\n-lập thêm chi nhánh (công ty)\n-phân nhánh\n-sản xuất phân tán\n-tách công ty\n-tách thành bộ phận độc lập\n-tàng trữ\n-tích trữ\n-tích trữ (tiền bạc, của cải)
-
+hoard	
+@hoard /hɔ:d/
+*  danh từ
+- kho tích trữ, kho dự trữ; chỗ cất giấu; của dành dụm
+- kho tài liệu thu thập được
+- (khảo cổ học) nơi chôn giấu vật quí
+*  ngoại động từ
+- trữ, tích trữ; dự trữ; dành dum
+- (nghĩa bóng) trân trọng gìn giữ (trong lòng...)
+*  nội động từ
+- tích trữ lương thực (lúc đói kém)
+@Chuyên ngành kinh tế
+-cho thầu lại
+-kinh doanh phân tán
+-lập thêm chi nhánh (công ty)
+-phân nhánh
+-sản xuất phân tán
+-tách công ty
+-tách thành bộ phận độc lập
+-tàng trữ
+-tích trữ
+-tích trữ (tiền bạc, của cải)

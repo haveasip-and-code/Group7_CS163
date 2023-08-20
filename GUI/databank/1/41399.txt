@@ -1,3 +1,9 @@
-physician
-	@physician /fi'ziʃn/\n*  danh từ\n- thầy thuốc\n- (nghĩa bóng) người chữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bác sỹ\n@Lĩnh vực: y học\n-thầy thuốc
-
+physician	@physician /fi'ziʃn/
+*  danh từ
+- thầy thuốc
+- (nghĩa bóng) người chữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bác sỹ
+@Lĩnh vực: y học
+-thầy thuốc

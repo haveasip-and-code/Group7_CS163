@@ -1,3 +1,4 @@
-densify
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-densify
-
+densify	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-densify

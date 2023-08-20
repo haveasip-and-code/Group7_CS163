@@ -1,3 +1,5 @@
-hysteresis
-	@hysteresis\n- (vật lí) hiện tượng trễ\n- elastic h. trễ đàn hồi\n- mechanical h. trễ cơ học
-
+hysteresis	
+@hysteresis
+- (vật lí) hiện tượng trễ
+- elastic h. trễ đàn hồi
+- mechanical h. trễ cơ học

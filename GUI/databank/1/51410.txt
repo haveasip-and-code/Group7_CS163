@@ -1,3 +1,65 @@
-smooth
-	@smooth /smu:ð/\n*  tính từ\n- nhẫn, trơn, mượt; bằng phẳng, lặng\n=sea as smooth as a mill-pond+ biển lặng\n=smooth hair+ tóc mượt\n- trôi chảy, êm thấm\n=a smooth crossing+ một cuộc đi biển yên sóng lặng\n- êm, dịu; nhịp nhàng uyển chuyển\n=smooth voice+ tiếng dịu dàng\n=smooth spirit+ rượu (uống) êm\n=smooth verse+ thơ nhịp nhàng uyển chuyển\n- hoà nhã, lễ độ\n=smooth temper+ thái độ hoà nhã\n- ngọt xớt\n=smooth words+ lời nói ngọt xớt\n=smooth manners+ thái độ ngọt xớt\n=smooth things+ những lời khen ngọt để lấy lòng\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hết sức thú vị, khoái, rất dễ chịu\n=a smooth time+ thời gian hết sức thú vị\n!to be in smooth water\n- (xem) water\n!smooth face\n- mặt làm ra vẻ thân thiện\n*  danh từ\n- sự vuốt cho mượt\n=to give one's hair a smooth+ vuốt tóc cho mượt\n- phần nhẵn (của cái gì)\n- (hàng hải) lúc biển yên sóng lặng\n*  ngoại động từ\n- làm cho nhẵn; san bằng\n- giải quyết; dàn xếp, làm ổn thoả\n=to smooth away differences+ giải quyết những sự bất đồng\n=to smooth the way with the authorities+ dàn xếp (làm đủ thủ tục) với các nhà chức trách\n- che giấu, làm liếm (khuyết điểm)\n- gọt giũa (văn)\n*  nội động từ\n- lặng, yên lặng (biển); dịu đi (cơn giận)\n@Chuyên ngành kinh tế\n-dịu\n-đồng nhất\n-không chát\n-mềm\n-nhãn\n@Chuyên ngành kỹ thuật\n-bằng phẳng\n-bóng\n-đều đặn\n-êm\n-gia công tinh\n-không va đập\n-là phẳng\n-làm bằng\n-làm bóng\n-làm nhẵn\n-làm phẳng\n-làm trơn\n-nắn phẳng\n-nhẵn\n-phẳng\n@Lĩnh vực: xây dựng\n-miết phẳng\n-trơn êm thuận\n-xoa phẳng\n@Lĩnh vực: giao thông & vận tải\n-sự hãm êm
-
+smooth	@smooth /smu:ð/
+*  tính từ
+- nhẫn, trơn, mượt; bằng phẳng, lặng
+=sea as smooth as a mill-pond+ biển lặng
+=smooth hair+ tóc mượt
+- trôi chảy, êm thấm
+=a smooth crossing+ một cuộc đi biển yên sóng lặng
+- êm, dịu; nhịp nhàng uyển chuyển
+=smooth voice+ tiếng dịu dàng
+=smooth spirit+ rượu (uống) êm
+=smooth verse+ thơ nhịp nhàng uyển chuyển
+- hoà nhã, lễ độ
+=smooth temper+ thái độ hoà nhã
+- ngọt xớt
+=smooth words+ lời nói ngọt xớt
+=smooth manners+ thái độ ngọt xớt
+=smooth things+ những lời khen ngọt để lấy lòng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hết sức thú vị, khoái, rất dễ chịu
+=a smooth time+ thời gian hết sức thú vị
+!to be in smooth water
+- (xem) water
+!smooth face
+- mặt làm ra vẻ thân thiện
+*  danh từ
+- sự vuốt cho mượt
+=to give one's hair a smooth+ vuốt tóc cho mượt
+- phần nhẵn (của cái gì)
+- (hàng hải) lúc biển yên sóng lặng
+*  ngoại động từ
+- làm cho nhẵn; san bằng
+- giải quyết; dàn xếp, làm ổn thoả
+=to smooth away differences+ giải quyết những sự bất đồng
+=to smooth the way with the authorities+ dàn xếp (làm đủ thủ tục) với các nhà chức trách
+- che giấu, làm liếm (khuyết điểm)
+- gọt giũa (văn)
+*  nội động từ
+- lặng, yên lặng (biển); dịu đi (cơn giận)
+@Chuyên ngành kinh tế
+-dịu
+-đồng nhất
+-không chát
+-mềm
+-nhãn
+@Chuyên ngành kỹ thuật
+-bằng phẳng
+-bóng
+-đều đặn
+-êm
+-gia công tinh
+-không va đập
+-là phẳng
+-làm bằng
+-làm bóng
+-làm nhẵn
+-làm phẳng
+-làm trơn
+-nắn phẳng
+-nhẵn
+-phẳng
+@Lĩnh vực: xây dựng
+-miết phẳng
+-trơn êm thuận
+-xoa phẳng
+@Lĩnh vực: giao thông & vận tải
+-sự hãm êm

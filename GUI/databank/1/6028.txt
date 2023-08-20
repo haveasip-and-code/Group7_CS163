@@ -1,3 +1,18 @@
-blowpipe
-	@blowpipe /'bloupaip/\n*  danh từ\n- ống hàn\n- ống thổi thuỷ tinh\n- ống xì đồng\n- ống thổi lửa\n@Chuyên ngành kỹ thuật\n-mỏ đèn xì\n-mỏ đốt\n-mỏ hàn hơi\n-ống\n-ống thổi\n-thiết bị hàn đắp\n@Lĩnh vực: cơ khí & công trình\n-máy phun kim loại\n@Lĩnh vực: hóa học & vật liệu\n-ống thổi thủy tinh
-
+blowpipe	
+@blowpipe /'bloupaip/
+*  danh từ
+- ống hàn
+- ống thổi thuỷ tinh
+- ống xì đồng
+- ống thổi lửa
+@Chuyên ngành kỹ thuật
+-mỏ đèn xì
+-mỏ đốt
+-mỏ hàn hơi
+-ống
+-ống thổi
+-thiết bị hàn đắp
+@Lĩnh vực: cơ khí & công trình
+-máy phun kim loại
+@Lĩnh vực: hóa học & vật liệu
+-ống thổi thủy tinh

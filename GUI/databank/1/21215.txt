@@ -1,3 +1,32 @@
-fixation
-	@fixation /fik'seiʃn/\n*  danh từ\n- sự đóng chặt vào, sự làm cho dính lại\n- sự ngưng kết, sự đông lại\n- sự hâm (màu...); sự cố định lại\n- sự ấn định, sự quy định\n- sự ngừng phát triển trí óc\n@Chuyên ngành kinh tế\n-cố định giá\n@Chuyên ngành kỹ thuật\n-định vị\n-sự bố trí\n-sự cố định\n-sự định vị\n-sự hãm\n-sự lắp đặt\n@Lĩnh vực: y học\n-cố định\n@Lĩnh vực: điện lạnh\n-sự hãm (ảnh)\n@Chuyên ngành kỹ thuật\n-định vị\n-sự bố trí\n-sự cố định\n-sự định vị\n-sự hãm\n-sự lắp đặt\n@Lĩnh vực: y học\n-cố định\n@Lĩnh vực: điện lạnh\n-sự hãm (ảnh)
-
+fixation	
+@fixation /fik'seiʃn/
+*  danh từ
+- sự đóng chặt vào, sự làm cho dính lại
+- sự ngưng kết, sự đông lại
+- sự hâm (màu...); sự cố định lại
+- sự ấn định, sự quy định
+- sự ngừng phát triển trí óc
+@Chuyên ngành kinh tế
+-cố định giá
+@Chuyên ngành kỹ thuật
+-định vị
+-sự bố trí
+-sự cố định
+-sự định vị
+-sự hãm
+-sự lắp đặt
+@Lĩnh vực: y học
+-cố định
+@Lĩnh vực: điện lạnh
+-sự hãm (ảnh)
+@Chuyên ngành kỹ thuật
+-định vị
+-sự bố trí
+-sự cố định
+-sự định vị
+-sự hãm
+-sự lắp đặt
+@Lĩnh vực: y học
+-cố định
+@Lĩnh vực: điện lạnh
+-sự hãm (ảnh)

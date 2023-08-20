@@ -1,3 +1,43 @@
-jig
-	@jig /dʤig/\n*  danh từ\n- điệu nhảy jig\n- nhạc (cho điệu nhảy) jig\n!the jig was up\n- hết hy vọng, hết đường\n*  nội động từ\n- nhảy điệu jig\n- nhảy tung tăng\n=to jig up and down+ nhảy tung tăng\n*  ngoại động từ\n- làm cho nhảy tung tăng; tung lên tung xuống nhanh\n=to jig a baby [up and down] on one's knees+ tung tung một em bé lên đầu gối\n*  danh từ\n- (kỹ thuật) đồ gá lắp, khuôn dẫn (khoan)\n- máy sàng, sàng (quặng, khoáng chất)\n*  ngoại động từ\n- (kỹ thuật) lắp đồ gá lắp, lắp khuôn dẫn (khoan)\n- sàng (quặng, khoáng chất)\n@Chuyên ngành kỹ thuật\n-bạc dẫn khoan\n-bể lắng\n-đồ gá kẹp\n-dụng cụ\n-dụng cụ kẹp\n-dưỡng\n-đường dẫn hướng\n-gạn (khoáng chất)\n-gầu ngoạm\n-khuôn\n-khuôn ráp\n-máy lắng\n-sàng (lọc)\n@Lĩnh vực: cơ khí & công trình\n-cái cỡ mẫu\n@Lĩnh vực: hóa học & vật liệu\n-gá\n-khuôn dẫn (khoan)\n@Lĩnh vực: xây dựng\n-khuôn dẫn\n-máy sàng (khoáng)\n@Lĩnh vực: vật lý\n-máy cơ cấu
-
+jig	
+@jig /dʤig/
+*  danh từ
+- điệu nhảy jig
+- nhạc (cho điệu nhảy) jig!the jig was up
+- hết hy vọng, hết đường
+*  nội động từ
+- nhảy điệu jig
+- nhảy tung tăng=to jig up and down
++ nhảy tung tăng
+*  ngoại động từ
+- làm cho nhảy tung tăng; tung lên tung xuống nhanh=to jig a baby [up and down] on one's knees
++ tung tung một em bé lên đầu gối
+*  danh từ
+- (kỹ thuật) đồ gá lắp, khuôn dẫn (khoan)
+- máy sàng, sàng (quặng, khoáng chất)
+*  ngoại động từ
+- (kỹ thuật) lắp đồ gá lắp, lắp khuôn dẫn (khoan)
+- sàng (quặng, khoáng chất)
+@Chuyên ngành kỹ thuật
+-bạc dẫn khoan
+-bể lắng
+-đồ gá kẹp
+-dụng cụ
+-dụng cụ kẹp
+-dưỡng
+-đường dẫn hướng
+-gạn (khoáng chất)
+-gầu ngoạm
+-khuôn
+-khuôn ráp
+-máy lắng
+-sàng (lọc)
+@Lĩnh vực: cơ khí & công trình
+-cái cỡ mẫu
+@Lĩnh vực: hóa học & vật liệu
+-gá
+-khuôn dẫn (khoan)
+@Lĩnh vực: xây dựng
+-khuôn dẫn
+-máy sàng (khoáng)
+@Lĩnh vực: vật lý
+-máy cơ cấu

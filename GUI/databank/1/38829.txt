@@ -1,3 +1,43 @@
-overhead
-	@overhead /'ouvəhed/\n*  tính từ\n- ở trên đầu\n=overhead wires+ dây điện chăng trên đầu\n- cao hơn mặt đất\n=an overhead railway+ đường sắt nền cao\n!overhead charges (cost, expenses)\n- tổng phí\n*  phó từ\n- ở trên đầu, ở trên cao, ở trên trời; ở tầng trên\n*  danh từ\n- tổng phí\n@Chuyên ngành kinh tế\n-chi phí gián tiếp\n-liên quan đến chi phí tổng quát\n-phí tổn quản lý\n@Chuyên ngành kỹ thuật\n-bit trên đầu\n-chi phí phụ\n-chi phí quản lý\n-ở trên đầu\n-thượng lưu\n-trên mặt đất\n@Lĩnh vực: hóa học & vật liệu\n-phần cất đỉnh tháp\n-sản phẩm bay hơi lên cao\n-tổng (chi) phí\n@Lĩnh vực: điện tử & viễn thông\n-phí tổn điều khiển\n-thời gian gián tiếp\n-thời gian tốn thêm\n-tổng phí\n@Lĩnh vực: toán & tin\n-thủ tục bổ sung\n-trên đầu\n@Lĩnh vực: cơ khí & công trình\n-tổng kinh phí\n-tổng vốn đầu tư\n-trên trần\n@Lĩnh vực: xây dựng\n-trên không\n@Lĩnh vực: ô tô\n-trên nóc máy
-
+overhead	@overhead /'ouvəhed/
+*  tính từ
+- ở trên đầu
+=overhead wires+ dây điện chăng trên đầu
+- cao hơn mặt đất
+=an overhead railway+ đường sắt nền cao
+!overhead charges (cost, expenses)
+- tổng phí
+*  phó từ
+- ở trên đầu, ở trên cao, ở trên trời; ở tầng trên
+*  danh từ
+- tổng phí
+@Chuyên ngành kinh tế
+-chi phí gián tiếp
+-liên quan đến chi phí tổng quát
+-phí tổn quản lý
+@Chuyên ngành kỹ thuật
+-bit trên đầu
+-chi phí phụ
+-chi phí quản lý
+-ở trên đầu
+-thượng lưu
+-trên mặt đất
+@Lĩnh vực: hóa học & vật liệu
+-phần cất đỉnh tháp
+-sản phẩm bay hơi lên cao
+-tổng (chi) phí
+@Lĩnh vực: điện tử & viễn thông
+-phí tổn điều khiển
+-thời gian gián tiếp
+-thời gian tốn thêm
+-tổng phí
+@Lĩnh vực: toán & tin
+-thủ tục bổ sung
+-trên đầu
+@Lĩnh vực: cơ khí & công trình
+-tổng kinh phí
+-tổng vốn đầu tư
+-trên trần
+@Lĩnh vực: xây dựng
+-trên không
+@Lĩnh vực: ô tô
+-trên nóc máy

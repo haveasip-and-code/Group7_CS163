@@ -1,3 +1,5 @@
-blues
-	@blues /blu:z/\n*  danh từ điệu nhảy blu\n@Chuyên ngành kỹ thuật\n-nhạc xanh
-
+blues	
+@blues /blu:z/
+*  danh từ điệu nhảy blu
+@Chuyên ngành kỹ thuật
+-nhạc xanh

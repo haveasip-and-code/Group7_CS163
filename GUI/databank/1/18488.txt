@@ -1,3 +1,46 @@
-enter
-	@enter /'entə/\n*  nội động từ\n- đi vào\n- (sân khấu) ra\n- tuyên bố tham dự (cuộc thi)\n*  ngoại động từ\n- đi vào (một nơi nào...); đâm (vào thịt...)\n- gia nhập (quân đội...)\n- bắt đầu luyện (chó ngựa)\n- ghi (tên vào sổ, cuộc thi...)\n- kết nạp, lấy vào\n!to enter into\n- đi vào (nơi nào)\n- tiến hành (cuộc nói chuyện, cuộc điều tra); thiết lập (quan hệ...); ký kết (hiệp nghị...)\n- thông cảm với (ý nghĩ, tình cảm của ai)\n- tự ràng buộc mình vào, tham dự (hợp đồng, hiệp ước...)\n- nằm trong (kế hoạch, sự tính toán)\n!to enter on (upon)\n- bắt đầu (một quá trình gì...); bắt đầu bàn về (một vấn đề...)\n- (pháp lý) tiếp nhận, tiếp thu (tài sản)\n!to enter an appearance\n- có ý đến dự (cuộc họp...); nhất định có mặt (ở cuộc mít tinh...)\n!to enter a protest\n- phản kháng; đề nghị ghi lời phản kháng của mình (vào văn bản...)\n!to enter up account books\n- kết toán sổ sách\n@Chuyên ngành kinh tế\n-đi vào\n-dự\n-ghi vào (sổ)\n-gia nhập\n-khai hải quan (tàu, hàng hóa)\n-nhập (dữ liệu...)\n-tham gia\n-thông quan\n-tiến nhập\n@Chuyên ngành kỹ thuật\n-đưa vào\n-ghi\n-gia nhập\n-nhập\n-truy nhập\n-vào\n@Chuyên ngành kỹ thuật\n-đưa vào\n-ghi\n-gia nhập\n-nhập\n-truy nhập\n-vào
-
+enter	
+@enter /'entə/
+*  nội động từ
+- đi vào
+- (sân khấu) ra
+- tuyên bố tham dự (cuộc thi)
+*  ngoại động từ
+- đi vào (một nơi nào...); đâm (vào thịt...)
+- gia nhập (quân đội...)
+- bắt đầu luyện (chó ngựa)
+- ghi (tên vào sổ, cuộc thi...)
+- kết nạp, lấy vào!to enter into
+- đi vào (nơi nào)
+- tiến hành (cuộc nói chuyện, cuộc điều tra); thiết lập (quan hệ...); ký kết (hiệp nghị...)
+- thông cảm với (ý nghĩ, tình cảm của ai)
+- tự ràng buộc mình vào, tham dự (hợp đồng, hiệp ước...)
+- nằm trong (kế hoạch, sự tính toán)!to enter on (upon)
+- bắt đầu (một quá trình gì...); bắt đầu bàn về (một vấn đề...)
+- (pháp lý) tiếp nhận, tiếp thu (tài sản)!to enter an appearance
+- có ý đến dự (cuộc họp...); nhất định có mặt (ở cuộc mít tinh...)!to enter a protest
+- phản kháng; đề nghị ghi lời phản kháng của mình (vào văn bản...)!to enter up account books
+- kết toán sổ sách
+@Chuyên ngành kinh tế
+-đi vào
+-dự
+-ghi vào (sổ)
+-gia nhập
+-khai hải quan (tàu, hàng hóa)
+-nhập (dữ liệu...)
+-tham gia
+-thông quan
+-tiến nhập
+@Chuyên ngành kỹ thuật
+-đưa vào
+-ghi
+-gia nhập
+-nhập
+-truy nhập
+-vào
+@Chuyên ngành kỹ thuật
+-đưa vào
+-ghi
+-gia nhập
+-nhập
+-truy nhập
+-vào

@@ -1,3 +1,10 @@
-whizzer
-	@whizzer\n* danh từ\n- cái gì rít (réo) trên không\n- máy sấy (quay nhanh phát ra tiếng réo)\n@Chuyên ngành kinh tế\n-máy ly tâm\n@Chuyên ngành kỹ thuật\n-máy ly tâm\n@Lĩnh vực: hóa học & vật liệu\n-máy tách nước
-
+whizzer	@whizzer
+* danh từ
+- cái gì rít (réo) trên không
+- máy sấy (quay nhanh phát ra tiếng réo)
+@Chuyên ngành kinh tế
+-máy ly tâm
+@Chuyên ngành kỹ thuật
+-máy ly tâm
+@Lĩnh vực: hóa học & vật liệu
+-máy tách nước

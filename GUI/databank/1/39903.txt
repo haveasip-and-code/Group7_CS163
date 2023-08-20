@@ -1,3 +1,5 @@
-passivate
-	@Chuyên ngành kỹ thuật\n-làm thụ động hóa\n@Lĩnh vực: hóa học & vật liệu\n-làm chậm phản ứng (ăn mòn)\n-thụ động hóa
-
+passivate	@Chuyên ngành kỹ thuật
+-làm thụ động hóa
+@Lĩnh vực: hóa học & vật liệu
+-làm chậm phản ứng (ăn mòn)
+-thụ động hóa

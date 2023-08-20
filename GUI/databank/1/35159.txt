@@ -1,3 +1,15 @@
-misleading
-	@misleading /mis'li:diɳ/\n*  tính từ\n- làm cho lạc đường, làm cho lạc lối\n- làm cho mê muội, làm cho lầm đường lạc lối\n- lừa dối\n@Chuyên ngành kinh tế\n-đánh lạc hướng\n-đánh lừa\n-gian dối\n-sai lệch\n-thông tin đánh lừa\n@Chuyên ngành kỹ thuật\n-lầm lẫn\n-sai lạc\n-sai lầm
-
+misleading	@misleading /mis'li:diɳ/
+*  tính từ
+- làm cho lạc đường, làm cho lạc lối
+- làm cho mê muội, làm cho lầm đường lạc lối
+- lừa dối
+@Chuyên ngành kinh tế
+-đánh lạc hướng
+-đánh lừa
+-gian dối
+-sai lệch
+-thông tin đánh lừa
+@Chuyên ngành kỹ thuật
+-lầm lẫn
+-sai lạc
+-sai lầm

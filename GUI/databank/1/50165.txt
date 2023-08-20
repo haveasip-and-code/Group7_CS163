@@ -1,3 +1,4 @@
-shallows
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bãi nông\n-chỗ nông
-
+shallows	@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-bãi nông
+-chỗ nông

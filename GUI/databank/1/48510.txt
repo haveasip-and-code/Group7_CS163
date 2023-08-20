@@ -1,3 +1,57 @@
-salt
-	@salt /sɔ:lt/\n*  danh từ\n- muối\n=white salt+ muối ăn\n=table salt+ muối bột\n=in salt+ ngâm nước muối, rắc muối\n- sự châm chọc, sự sắc sảo, sự hóm hỉnh, sự ý nhị\n=a talk full of salt+ một lời nói ý nhị; một bài nói chuyện ý nhị\n- (hoá học) muối\n- (số nhiều) dòng nước biển bất thường tràn ngược lên sông\n- (sử học) lọ đựng muối để bàn\n=to sit above the salt+ ngồi phía trên lọ muối (cùng với người trong gia đình)\n=to sit below the salt+ ngồi phía dưới lọ muối (cùng với người hầu...)\n- thuỷ thủ lão luyện ((thường) old salt)\n- (như) salt-marsh\n!to eat salt with somebody\n- là khách của ai\n!to be worth one's salt\n- (xem) worth\n!to eat somebody's salt\n- là khách của ai; phải sống nhờ vào ai\n!to drop pinch of salt on tail of\n- bắt giữ\n!to take something with a grain of salt\n- nửa tin nửa ngờ điều gì\n!the salt of the earth\n- tầng lớp trên trong xã hội, tinh hoa của xã hội\n!I'm not made of salt\n- tụi nó đi ra ngoài mưa thì cũng không bị tan ra như muối đâu mà sợ\n*  tính từ\n- tẩm muối, ướp muối, có muối, mặn\n- sống ở nước mặn (cây cối)\n- đau đớn, thương tâm\n=to weep salt tears+ khóc sướt mướt, khóc như mưa\n- châm chọc, sắc sảo, hóm hỉnh\n- tục, tiếu lâm\n- (từ lóng) đắt cắt cổ (giá cả)\n*  ngoại động từ\n- muối, ướp muối, rắc muối (lên vật gì)\n=to salt meat+ muối thịt\n- làm cho ý nhị, thêm mắm thêm muối\n=to salt one's conversation with wit+ làm cho câu chuyện thêm ý nhị bằng những câu nói hóm hỉnh\n!to salt down money\n- để dành tiền\n!to salt the books\n- (thương nghiệp),  (từ lóng) gian lận, tham ô (bằng cách tăng giá mua trong hoá đơn)\n=to salt an account+ tính giá cao nhất cho các món hàng\n!to salt a mine\n- (từ lóng) đổ thêm quặng vào mỏ (để cho mỏ có vẻ là mỏ giàu)\n@Chuyên ngành kinh tế\n-báo sai\n-khai man\n-muối\n-muối ăn\n-ướp muối\n@Chuyên ngành kỹ thuật\n-muối
-
+salt	@salt /sɔ:lt/
+*  danh từ
+- muối
+=white salt+ muối ăn
+=table salt+ muối bột
+=in salt+ ngâm nước muối, rắc muối
+- sự châm chọc, sự sắc sảo, sự hóm hỉnh, sự ý nhị
+=a talk full of salt+ một lời nói ý nhị; một bài nói chuyện ý nhị
+- (hoá học) muối
+- (số nhiều) dòng nước biển bất thường tràn ngược lên sông
+- (sử học) lọ đựng muối để bàn
+=to sit above the salt+ ngồi phía trên lọ muối (cùng với người trong gia đình)
+=to sit below the salt+ ngồi phía dưới lọ muối (cùng với người hầu...)
+- thuỷ thủ lão luyện ((thường) old salt)
+- (như) salt-marsh
+!to eat salt with somebody
+- là khách của ai
+!to be worth one's salt
+- (xem) worth
+!to eat somebody's salt
+- là khách của ai; phải sống nhờ vào ai
+!to drop pinch of salt on tail of
+- bắt giữ
+!to take something with a grain of salt
+- nửa tin nửa ngờ điều gì
+!the salt of the earth
+- tầng lớp trên trong xã hội, tinh hoa của xã hội
+!I'm not made of salt
+- tụi nó đi ra ngoài mưa thì cũng không bị tan ra như muối đâu mà sợ
+*  tính từ
+- tẩm muối, ướp muối, có muối, mặn
+- sống ở nước mặn (cây cối)
+- đau đớn, thương tâm
+=to weep salt tears+ khóc sướt mướt, khóc như mưa
+- châm chọc, sắc sảo, hóm hỉnh
+- tục, tiếu lâm
+- (từ lóng) đắt cắt cổ (giá cả)
+*  ngoại động từ
+- muối, ướp muối, rắc muối (lên vật gì)
+=to salt meat+ muối thịt
+- làm cho ý nhị, thêm mắm thêm muối
+=to salt one's conversation with wit+ làm cho câu chuyện thêm ý nhị bằng những câu nói hóm hỉnh
+!to salt down money
+- để dành tiền
+!to salt the books
+- (thương nghiệp),  (từ lóng) gian lận, tham ô (bằng cách tăng giá mua trong hoá đơn)
+=to salt an account+ tính giá cao nhất cho các món hàng
+!to salt a mine
+- (từ lóng) đổ thêm quặng vào mỏ (để cho mỏ có vẻ là mỏ giàu)
+@Chuyên ngành kinh tế
+-báo sai
+-khai man
+-muối
+-muối ăn
+-ướp muối
+@Chuyên ngành kỹ thuật
+-muối

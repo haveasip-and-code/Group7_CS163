@@ -1,3 +1,28 @@
-mail
-	@mail /meil/\n*  danh từ\n- áo giáp\n*  ngoại động từ\n- mặc áo giáp\n*  danh từ\n- thư từ; bưu kiện, bưu phẩm\n- chuyển thư\n- bưu điện\n- xe thư (xe lửa)\n*  ngoại động từ\n- gửi qua bưu điện\n@Chuyên ngành kinh tế\n-bưu chính\n-bưu kiện\n-bưu phẩm\n-cơ quan bưu điện\n-gởi qua bưu điện\n-hệ thống bưu điện\n-tàu thư\n-thư\n-thư tín\n-thư từ\n-xe thư\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thư gửi\n-thư từ
-
+mail	@mail /meil/
+*  danh từ
+- áo giáp
+*  ngoại động từ
+- mặc áo giáp
+*  danh từ
+- thư từ; bưu kiện, bưu phẩm
+- chuyển thư
+- bưu điện
+- xe thư (xe lửa)
+*  ngoại động từ
+- gửi qua bưu điện
+@Chuyên ngành kinh tế
+-bưu chính
+-bưu kiện
+-bưu phẩm
+-cơ quan bưu điện
+-gởi qua bưu điện
+-hệ thống bưu điện
+-tàu thư
+-thư
+-thư tín
+-thư từ
+-xe thư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thư gửi
+-thư từ

@@ -1,3 +1,5 @@
-normed
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có chuẩn\n-được chuẩn hóa\n-được định chuẩn
-
+normed	@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có chuẩn
+-được chuẩn hóa
+-được định chuẩn

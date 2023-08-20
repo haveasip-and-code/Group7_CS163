@@ -1,3 +1,60 @@
-sag
-	@sag /sæg/\n*  danh từ\n- sự lún xuống, sự võng xuống; sự cong xuống\n- sự chùng (dây)\n- (thương nghiệp) sự sụt giá, sự hạ giá\n- (hàng hải) sự trôi giạt về phía dưới gió\n*  ngoại động từ\n- làm lún xuống, làm võng xuống; làm cong xuống\n- làm chùng\n*  nội động từ\n- lún xuống, võng xuống; cong xuống\n- nghiêng hẳn về một bên, lệch hẳn về một bên\n=gate sags+ cửa bị nghiêng hẳn về một bên\n- dãn ra, chùng\n=stretched rope sags+ dây căng chùng lại\n- (thương nghiệp) hạ giá, xuống giá\n- (từ Mỹ,nghĩa Mỹ) sút kém (tinh thần, sức khoẻ...)\n=hải to sag to leeward+ trôi giạt về phía dưới gió\n@Chuyên ngành kinh tế\n-hạ sụt giảm\n-hạ xuống\n-lắng\n-sự hạ\n-sụt giá\n-sụt giảm (giá cả, giá trị...)\n-sụt xuống\n@Chuyên ngành kỹ thuật\n-chỗ thấp\n-chùng\n-độ lún\n-độ võng\n-độ võng (của cáp treo)\n-làm chùng\n-làm lún\n-làm trũng\n-làm võng\n-lún\n-mũi tên\n-rung\n-sự chùng\n-sự lún\n-sự oằn\n-sự thắt tiết diện\n-uốn\n-uốn xuống\n-võng\n-võng xuống\n-vùng trũng\n@Lĩnh vực: xây dựng\n-bộ phận lõm\n-đường cong, đường lõm\n@Lĩnh vực: giao thông & vận tải\n-chạy lệch hướng (tàu thủy)\n@Lĩnh vực: cơ khí & công trình\n-đập (đai truyền)\n-sự xiên\n@Lĩnh vực: điện tử & viễn thông\n-độ chùng\n@Lĩnh vực: hóa học & vật liệu\n-miền võng
-
+sag	@sag /sæg/
+*  danh từ
+- sự lún xuống, sự võng xuống; sự cong xuống
+- sự chùng (dây)
+- (thương nghiệp) sự sụt giá, sự hạ giá
+- (hàng hải) sự trôi giạt về phía dưới gió
+*  ngoại động từ
+- làm lún xuống, làm võng xuống; làm cong xuống
+- làm chùng
+*  nội động từ
+- lún xuống, võng xuống; cong xuống
+- nghiêng hẳn về một bên, lệch hẳn về một bên
+=gate sags+ cửa bị nghiêng hẳn về một bên
+- dãn ra, chùng
+=stretched rope sags+ dây căng chùng lại
+- (thương nghiệp) hạ giá, xuống giá
+- (từ Mỹ,nghĩa Mỹ) sút kém (tinh thần, sức khoẻ...)
+=hải to sag to leeward+ trôi giạt về phía dưới gió
+@Chuyên ngành kinh tế
+-hạ sụt giảm
+-hạ xuống
+-lắng
+-sự hạ
+-sụt giá
+-sụt giảm (giá cả, giá trị...)
+-sụt xuống
+@Chuyên ngành kỹ thuật
+-chỗ thấp
+-chùng
+-độ lún
+-độ võng
+-độ võng (của cáp treo)
+-làm chùng
+-làm lún
+-làm trũng
+-làm võng
+-lún
+-mũi tên
+-rung
+-sự chùng
+-sự lún
+-sự oằn
+-sự thắt tiết diện
+-uốn
+-uốn xuống
+-võng
+-võng xuống
+-vùng trũng
+@Lĩnh vực: xây dựng
+-bộ phận lõm
+-đường cong, đường lõm
+@Lĩnh vực: giao thông & vận tải
+-chạy lệch hướng (tàu thủy)
+@Lĩnh vực: cơ khí & công trình
+-đập (đai truyền)
+-sự xiên
+@Lĩnh vực: điện tử & viễn thông
+-độ chùng
+@Lĩnh vực: hóa học & vật liệu
+-miền võng

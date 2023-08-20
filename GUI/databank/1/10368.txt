@@ -1,3 +1,6 @@
-colorimetric
-	@colorimetric\n- xem colorimeter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phép đo màu
-
+colorimetric	
+@colorimetric
+- xem colorimeter
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phép đo màu

@@ -1,3 +1,4 @@
-inpatient
-	@inpatient\n* danh từ\n- người sống trong bệnh viện trong thời gian điều trị; bệnh nhân nội trú
-
+inpatient	
+@inpatient
+* danh từ
+- người sống trong bệnh viện trong thời gian điều trị; bệnh nhân nội trú

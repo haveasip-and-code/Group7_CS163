@@ -1,3 +1,11 @@
-bisect
-	@bisect /bai'sekt/\n*  ngoại động từ\n- chia đôi, cắt đôi\n@Chuyên ngành kỹ thuật\n-chia\n-chia đôi\n-phân đôi\n-phân giác\n@Lĩnh vực: xây dựng\n-cắt làm hai\n-hai phần bằng nhau
-
+bisect	@bisect /bai'sekt/
+*  ngoại động từ
+- chia đôi, cắt đôi
+@Chuyên ngành kỹ thuật
+-chia
+-chia đôi
+-phân đôi
+-phân giác
+@Lĩnh vực: xây dựng
+-cắt làm hai
+-hai phần bằng nhau

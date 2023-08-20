@@ -1,3 +1,4 @@
-interneuron
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nơron trung gian
-
+interneuron	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nơron trung gian

@@ -1,3 +1,23 @@
-ferry
-	@ferry /'feri/\n*  danh từ\n- bến phà\n- phà\n- (pháp lý) quyền chở phà\n*  ngoại động từ\n- chở (phà)\n- chuyên chở (hàng, người...) bằng phà; qua (sông...) bằng phà\n- (hàng không) lái (máy bay mới) ra sân bay\n*  nội động từ\n- qua sông bằng phà\n- đi đi lại lại từ bên này sang bên kia sông (thuyền...)\n@Chuyên ngành kỹ thuật\n-bến phà\n-phà\n@Lĩnh vực: giao thông & vận tải\n-phà xe lửa\n@Chuyên ngành kỹ thuật\n-bến phà\n-phà\n@Lĩnh vực: giao thông & vận tải\n-phà xe lửa
-
+ferry	
+@ferry /'feri/
+*  danh từ
+- bến phà
+- phà
+- (pháp lý) quyền chở phà
+*  ngoại động từ
+- chở (phà)
+- chuyên chở (hàng, người...) bằng phà; qua (sông...) bằng phà
+- (hàng không) lái (máy bay mới) ra sân bay
+*  nội động từ
+- qua sông bằng phà
+- đi đi lại lại từ bên này sang bên kia sông (thuyền...)
+@Chuyên ngành kỹ thuật
+-bến phà
+-phà
+@Lĩnh vực: giao thông & vận tải
+-phà xe lửa
+@Chuyên ngành kỹ thuật
+-bến phà
+-phà
+@Lĩnh vực: giao thông & vận tải
+-phà xe lửa

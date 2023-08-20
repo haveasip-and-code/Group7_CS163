@@ -1,3 +1,24 @@
-fines
-	@fines\n* danh từ số nhiều\n- quặng bụi; bụi quặng; phần hạt mịn\n@Chuyên ngành kỹ thuật\n-bột\n-bụi quặng\n-hạt mịn\n-mảnh vụn\n-quặng bụi\n-than cám\n-vụn\n-xơ sợi mịn\n-xơ sợi vụn\n@Chuyên ngành kỹ thuật\n-bột\n-bụi quặng\n-hạt mịn\n-mảnh vụn\n-quặng bụi\n-than cám\n-vụn\n-xơ sợi mịn\n-xơ sợi vụn
-
+fines	
+@fines
+* danh từ số nhiều
+- quặng bụi; bụi quặng; phần hạt mịn
+@Chuyên ngành kỹ thuật
+-bột
+-bụi quặng
+-hạt mịn
+-mảnh vụn
+-quặng bụi
+-than cám
+-vụn
+-xơ sợi mịn
+-xơ sợi vụn
+@Chuyên ngành kỹ thuật
+-bột
+-bụi quặng
+-hạt mịn
+-mảnh vụn
+-quặng bụi
+-than cám
+-vụn
+-xơ sợi mịn
+-xơ sợi vụn

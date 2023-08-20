@@ -1,3 +1,2 @@
-cripples
-	@Chuyên ngành kinh tế\n-bánh bột mì phế phẩm
-
+cripples	@Chuyên ngành kinh tế
+-bánh bột mì phế phẩm

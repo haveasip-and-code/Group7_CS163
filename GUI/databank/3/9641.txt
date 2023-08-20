@@ -1,3 +1,3 @@
-classer
-	@Chuyên ngành kinh tế\n-người phân hạng\n-người phân loại
-
+classer	@Chuyên ngành kinh tế
+-người phân hạng
+-người phân loại

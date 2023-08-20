@@ -1,3 +1,5 @@
-orthogonalize
-	@orthogonalize\n- trực giao hoá\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trực giao hóa
-
+orthogonalize	@orthogonalize
+- trực giao hoá
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-trực giao hóa

@@ -1,3 +1,4 @@
-glandless
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-không có đệm
-
+glandless	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-không có đệm

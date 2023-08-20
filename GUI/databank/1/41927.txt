@@ -1,3 +1,2 @@
-plastery
-	@plastery\n- xem plaster
-
+plastery	@plastery
+- xem plaster

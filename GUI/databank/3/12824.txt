@@ -1,3 +1,25 @@
-crumb
-	@crumb /krʌm/\n*  danh từ\n- miếng, mẫu, mảnh vụn\n=crumbs of bread+ những mẫu bánh mì vụn\n- (nghĩa bóng) chút, tý, mẩu\n=a few crumbs of information+ một vài mẩu tin\n=a crumb of comfort+ một chút an ủi\n- ruột bánh mì\n*  ngoại động từ\n- bẻ vụn, bóp vụn\n- rắt những mảnh vụn lên (cái gì)\n- phủi những mảnh vụn, quét những mảnh vụn (ở cái gì)\n@Chuyên ngành kinh tế\n-bẻ vẹn\n-mẩu vụn\n-nghiền\n-ruột bánh mì\n-tán\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hạt vụn\n-mẫu vụn\n@Lĩnh vực: thực phẩm\n-mẩu vụn\n-ruột bánh mì
-
+crumb	@crumb /krʌm/
+*  danh từ
+- miếng, mẫu, mảnh vụn
+=crumbs of bread+ những mẫu bánh mì vụn
+- (nghĩa bóng) chút, tý, mẩu
+=a few crumbs of information+ một vài mẩu tin
+=a crumb of comfort+ một chút an ủi
+- ruột bánh mì
+*  ngoại động từ
+- bẻ vụn, bóp vụn
+- rắt những mảnh vụn lên (cái gì)
+- phủi những mảnh vụn, quét những mảnh vụn (ở cái gì)
+@Chuyên ngành kinh tế
+-bẻ vẹn
+-mẩu vụn
+-nghiền
+-ruột bánh mì
+-tán
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-hạt vụn
+-mẫu vụn
+@Lĩnh vực: thực phẩm
+-mẩu vụn
+-ruột bánh mì

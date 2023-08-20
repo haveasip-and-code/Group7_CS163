@@ -1,3 +1,10 @@
-heritage
-	@heritage\n* danh từ\n- tài sản thừa kế, di sản\n- <kinh thánh> nhà thờ, giáo hội\n@Chuyên ngành kinh tế\n-di sản\n-quyền thừa kế di sản\n-tài sản thế tập\n-tài sản thừa kế
-
+heritage	
+@heritage
+* danh từ
+- tài sản thừa kế, di sản
+- <kinh thánh> nhà thờ, giáo hội
+@Chuyên ngành kinh tế
+-di sản
+-quyền thừa kế di sản
+-tài sản thế tập
+-tài sản thừa kế

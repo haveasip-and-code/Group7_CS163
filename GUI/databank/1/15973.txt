@@ -1,3 +1,15 @@
-dispatcher
-	@dispatcher /dis'pætʃə/\n*  danh từ\n- người gửi đi\n- người điều vận (xe lửa)\n@Chuyên ngành kinh tế\n-người gửi hàng\n@Chuyên ngành kỹ thuật\n-bộ điều phối\n-điều độ viên\n-người gửi hàng\n@Lĩnh vực: toán & tin\n-bộ gửi đi\n@Lĩnh vực: xây dựng\n-khẩn phái viên
-
+dispatcher	
+@dispatcher /dis'pætʃə/
+*  danh từ
+- người gửi đi
+- người điều vận (xe lửa)
+@Chuyên ngành kinh tế
+-người gửi hàng
+@Chuyên ngành kỹ thuật
+-bộ điều phối
+-điều độ viên
+-người gửi hàng
+@Lĩnh vực: toán & tin
+-bộ gửi đi
+@Lĩnh vực: xây dựng
+-khẩn phái viên

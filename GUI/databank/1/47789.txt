@@ -1,3 +1,22 @@
-riser
-	@riser /'raizə/\n*  danh từ\n- người dậy\n=an early riser+ người (hay) dậy sớm\n=a late riser+ người (hay) dậy muộn\n- (kiến trúc) ván đứng (giữa hai bậc cầu thang)\n- (kỹ thuật) ống đứng\n@Chuyên ngành kỹ thuật\n-bậc thang (ván đứng)\n-cổ hạc (cấp nước)\n-độ dốc cầu thang\n-máy nâng\n-ống cột\n-ống đứng\n@Lĩnh vực: hóa học & vật liệu\n-bộ phận kích thích bay hơi\n-giếng mỏ (đào từ dưới lên)\n@Lĩnh vực: xây dựng\n-ống khói gạch (trong nhà)\n-ván đứng\n@Lĩnh vực: điện\n-phần nhô lên
-
+riser	@riser /'raizə/
+*  danh từ
+- người dậy
+=an early riser+ người (hay) dậy sớm
+=a late riser+ người (hay) dậy muộn
+- (kiến trúc) ván đứng (giữa hai bậc cầu thang)
+- (kỹ thuật) ống đứng
+@Chuyên ngành kỹ thuật
+-bậc thang (ván đứng)
+-cổ hạc (cấp nước)
+-độ dốc cầu thang
+-máy nâng
+-ống cột
+-ống đứng
+@Lĩnh vực: hóa học & vật liệu
+-bộ phận kích thích bay hơi
+-giếng mỏ (đào từ dưới lên)
+@Lĩnh vực: xây dựng
+-ống khói gạch (trong nhà)
+-ván đứng
+@Lĩnh vực: điện
+-phần nhô lên

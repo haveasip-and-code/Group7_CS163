@@ -1,3 +1,13 @@
-propulsion
-	@propulsion /propulsion/\n*  danh từ\n- sự đẩy đi, sự đẩy tới\n- (nghĩa bóng) sự thúc đẩy; sức thúc đẩy\n@Chuyên ngành kỹ thuật\n-sự đẩy\n-sự đẩy (chuyển động)\n@Lĩnh vực: điện lạnh\n-sự chuyển động (bằng lực đẩy)\n-sự đẩy (cho chuyển động)\n@Lĩnh vực: hóa học & vật liệu\n-sự đẩy tới\n-sự phóng đi
-
+propulsion	@propulsion /propulsion/
+*  danh từ
+- sự đẩy đi, sự đẩy tới
+- (nghĩa bóng) sự thúc đẩy; sức thúc đẩy
+@Chuyên ngành kỹ thuật
+-sự đẩy
+-sự đẩy (chuyển động)
+@Lĩnh vực: điện lạnh
+-sự chuyển động (bằng lực đẩy)
+-sự đẩy (cho chuyển động)
+@Lĩnh vực: hóa học & vật liệu
+-sự đẩy tới
+-sự phóng đi

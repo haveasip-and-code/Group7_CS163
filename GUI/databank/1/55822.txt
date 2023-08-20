@@ -1,3 +1,10 @@
-teleconference
-	@teleconference\n* danh từ\n- hội nghị qua điện thoại, các cuộc họp được tổ chức qua điện thoại\n@Chuyên ngành kinh tế\n-hội nghị qua điện thoại, qua truyền hình, từ xa\n@Chuyên ngành kỹ thuật\n-viễn hội nghị\n@Lĩnh vực: toán & tin\n-hội nghị từ xa\n-hội thảo từ xa
-
+teleconference	@teleconference
+* danh từ
+- hội nghị qua điện thoại, các cuộc họp được tổ chức qua điện thoại
+@Chuyên ngành kinh tế
+-hội nghị qua điện thoại, qua truyền hình, từ xa
+@Chuyên ngành kỹ thuật
+-viễn hội nghị
+@Lĩnh vực: toán & tin
+-hội nghị từ xa
+-hội thảo từ xa

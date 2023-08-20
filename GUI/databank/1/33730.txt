@@ -1,3 +1,4 @@
-marly
-	@Chuyên ngành kỹ thuật\n-có macmơ\n@Lĩnh vực: hóa học & vật liệu\n-chứa macmơ
-
+marly	@Chuyên ngành kỹ thuật
+-có macmơ
+@Lĩnh vực: hóa học & vật liệu
+-chứa macmơ

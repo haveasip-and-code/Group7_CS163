@@ -1,3 +1,5 @@
-tufaceous
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dạng tup\n@Lĩnh vực: cơ khí & công trình\n-tup
-
+tufaceous	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-dạng tup
+@Lĩnh vực: cơ khí & công trình
+-tup

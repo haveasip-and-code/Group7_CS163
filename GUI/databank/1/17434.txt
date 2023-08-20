@@ -1,3 +1,8 @@
-eductor
-	@eductor\n* danh từ\n- người làm việc chiết xuất\n- vật được chiếc xuất\n@Chuyên ngành kỹ thuật\n-máy phun\n-máy trộn chất lỏng bằng vòi phun
-
+eductor	
+@eductor
+* danh từ
+- người làm việc chiết xuất
+- vật được chiếc xuất
+@Chuyên ngành kỹ thuật
+-máy phun
+-máy trộn chất lỏng bằng vòi phun

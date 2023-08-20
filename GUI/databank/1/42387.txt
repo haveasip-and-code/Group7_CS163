@@ -1,3 +1,2 @@
-pollinator
-	@pollinator\n- xem pollinate
-
+pollinator	@pollinator
+- xem pollinate

@@ -1,3 +1,29 @@
-persistence
-	@persistence /pə'sistəns/ (persistency) /pə'sistənsi/\n*  danh từ\n- tính kiên gan, tính bền bỉ\n- tính cố chấp; tính ngoan cố\n- tính dai dẳng\n@Chuyên ngành kinh tế\n-tính bền (mùi, vị)\n@Chuyên ngành kỹ thuật\n-bền lâu\n-dư\n-dư huy\n-lâu dài\n-ổn định\n-quán tính\n-sự tiếp tục\n@Lĩnh vực: điện tử & viễn thông\n-còn sót\n-độ dư\n-sự dư huy\n-sự dư quang\n-sự lưu sáng\n-sự tồn lưu\n-thời gian lưu quang\n@Lĩnh vực: điện\n-độ lưu (độ bền)\n@Lĩnh vực: điện lạnh\n-độ lưu sáng\n@Lĩnh vực: toán & tin\n-sự lưu, độ lưu
-
+persistence	@persistence /pə'sistəns/ (persistency) /pə'sistənsi/
+*  danh từ
+- tính kiên gan, tính bền bỉ
+- tính cố chấp; tính ngoan cố
+- tính dai dẳng
+@Chuyên ngành kinh tế
+-tính bền (mùi, vị)
+@Chuyên ngành kỹ thuật
+-bền lâu
+-dư
+-dư huy
+-lâu dài
+-ổn định
+-quán tính
+-sự tiếp tục
+@Lĩnh vực: điện tử & viễn thông
+-còn sót
+-độ dư
+-sự dư huy
+-sự dư quang
+-sự lưu sáng
+-sự tồn lưu
+-thời gian lưu quang
+@Lĩnh vực: điện
+-độ lưu (độ bền)
+@Lĩnh vực: điện lạnh
+-độ lưu sáng
+@Lĩnh vực: toán & tin
+-sự lưu, độ lưu

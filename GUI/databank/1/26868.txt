@@ -1,3 +1,5 @@
-icehouse
-	@Chuyên ngành kỹ thuật\n-buồng lạnh\n@Lĩnh vực: điện lạnh\n-nhà ướp lạnh
-
+icehouse	
+@Chuyên ngành kỹ thuật
+-buồng lạnh
+@Lĩnh vực: điện lạnh
+-nhà ướp lạnh

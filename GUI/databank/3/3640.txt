@@ -1,3 +1,2 @@
-assister
-	@assister\n- xem assist
-
+assister	@assister
+- xem assist

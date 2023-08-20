@@ -1,3 +1,6 @@
-kinesiology
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vận động học\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vận động học
-
+kinesiology	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vận động học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-vận động học

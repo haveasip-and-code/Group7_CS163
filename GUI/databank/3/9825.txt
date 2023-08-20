@@ -1,3 +1,44 @@
-clock
-	@clock /klɔk/ (o'clock) /ə'klɔk/\n*  danh từ\n- đường chỉ viền ở cạnh bít tất\n- đồng hồ\n!o'clock\n- giờ\n=what o' clock is it?+ mấy giờ rồi\n!like a clock\n- đều đặn, chạy đều, trơn tru, trôi chảy\n=everything went like a clock+ mọi việc đều trôi chảy; mọi việc vẫn chạy đều\n!to put (set) back the clock\n- (nghĩa bóng) quay lại thời kỳ đã qua; đi ngược lại bánh xe lịch sử, ngăn chặn sự phát triển\n!to work round the clock\n- làm việc suốt 12 tiếng; làm việc suốt 24 tiếng\n*  nội động từ\n- (thể dục,thể thao) bấm giờ (trong một cuộc chạy đua)\n- ghi giờ\n=to clock in+ ghi giờ đến làm\n=to clock out+ ghi giờ về (ở nhà máy)\n*  ngoại động từ\n- (thể dục,thể thao) bấm giờ (một cuộc chạy đua)\n- (thể dục,thể thao) chạy (đi...) mất... (bao nhiêu thời gian)\n=he clocked 11 seconds for the 100 meters+ anh ta chạy 100 mét mất 11 giây\n@Chuyên ngành kinh tế\n-báo giờ\n-ghi giờ\n@Chuyên ngành kỹ thuật\n-bấm giờ\n-bộ định thời\n-định thời\n-giữ nhịp\n-sự định thời\n-xung đồng hồ\n-xung nhịp\n@Lĩnh vực: toán & tin\n-đếm thời gian\n@Lĩnh vực: ô tô\n-đồng hồ báo giờ\n@Lĩnh vực: cơ khí & công trình\n-ghi giờ\n@Lĩnh vực: điện lạnh\n-máy phát xung nhịp\n@Lĩnh vực: điện tử & viễn thông\n-tạo nhịp
-
+clock	@clock /klɔk/ (o'clock) /ə'klɔk/
+*  danh từ
+- đường chỉ viền ở cạnh bít tất
+- đồng hồ
+!o'clock
+- giờ
+=what o' clock is it?+ mấy giờ rồi
+!like a clock
+- đều đặn, chạy đều, trơn tru, trôi chảy
+=everything went like a clock+ mọi việc đều trôi chảy; mọi việc vẫn chạy đều
+!to put (set) back the clock
+- (nghĩa bóng) quay lại thời kỳ đã qua; đi ngược lại bánh xe lịch sử, ngăn chặn sự phát triển
+!to work round the clock
+- làm việc suốt 12 tiếng; làm việc suốt 24 tiếng
+*  nội động từ
+- (thể dục,thể thao) bấm giờ (trong một cuộc chạy đua)
+- ghi giờ
+=to clock in+ ghi giờ đến làm
+=to clock out+ ghi giờ về (ở nhà máy)
+*  ngoại động từ
+- (thể dục,thể thao) bấm giờ (một cuộc chạy đua)
+- (thể dục,thể thao) chạy (đi...) mất... (bao nhiêu thời gian)
+=he clocked 11 seconds for the 100 meters+ anh ta chạy 100 mét mất 11 giây
+@Chuyên ngành kinh tế
+-báo giờ
+-ghi giờ
+@Chuyên ngành kỹ thuật
+-bấm giờ
+-bộ định thời
+-định thời
+-giữ nhịp
+-sự định thời
+-xung đồng hồ
+-xung nhịp
+@Lĩnh vực: toán & tin
+-đếm thời gian
+@Lĩnh vực: ô tô
+-đồng hồ báo giờ
+@Lĩnh vực: cơ khí & công trình
+-ghi giờ
+@Lĩnh vực: điện lạnh
+-máy phát xung nhịp
+@Lĩnh vực: điện tử & viễn thông
+-tạo nhịp

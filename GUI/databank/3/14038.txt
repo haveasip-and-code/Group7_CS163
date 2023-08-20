@@ -1,3 +1,2 @@
-deferrable
-	@deferrable\n- xem defer
-
+deferrable	@deferrable
+- xem defer

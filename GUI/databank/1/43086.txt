@@ -1,3 +1,8 @@
-precool
-	@precool\n* ngoại động từ\n- làm nguội trước, làm nguội sơ bộ\n@Chuyên ngành kinh tế\n-làm nguội sơ bộ\n@Chuyên ngành kỹ thuật\n-làm lạnh sơ bộ\n-làm lạnh trước
-
+precool	@precool
+* ngoại động từ
+- làm nguội trước, làm nguội sơ bộ
+@Chuyên ngành kinh tế
+-làm nguội sơ bộ
+@Chuyên ngành kỹ thuật
+-làm lạnh sơ bộ
+-làm lạnh trước

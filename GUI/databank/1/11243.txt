@@ -1,3 +1,19 @@
-connective
-	@connective /kə'nektiv/\n*  tính từ\n- để nối, để chấp\n- (toán học); (sinh vật học) liên kết\n=connective operation+ phép toán liên kết\n=connective tissue+ mô liên kết\n- (ngôn ngữ học) nối; liên hợp\n=connective word+ từ nối\n=connective morpheme+ hình vị, liên hợp\n=connective conjunction+ liên từ liên hợp\n*  danh từ\n- (ngôn ngữ học) từ nối (như liên từ, giới từ, đại từ quan hệ)\n@Chuyên ngành kỹ thuật\n-liên kết\n-nối\n@Lĩnh vực: toán & tin\n-phần tử kết nối\n-phần tử nối kết
-
+connective	
+@connective /kə'nektiv/
+*  tính từ
+- để nối, để chấp
+- (toán học); (sinh vật học) liên kết=connective operation
++ phép toán liên kết=connective tissue
++ mô liên kết
+- (ngôn ngữ học) nối; liên hợp=connective word
++ từ nối=connective morpheme
++ hình vị, liên hợp=connective conjunction
++ liên từ liên hợp
+*  danh từ
+- (ngôn ngữ học) từ nối (như liên từ, giới từ, đại từ quan hệ)
+@Chuyên ngành kỹ thuật
+-liên kết
+-nối
+@Lĩnh vực: toán & tin
+-phần tử kết nối
+-phần tử nối kết

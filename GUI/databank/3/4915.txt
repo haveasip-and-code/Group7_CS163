@@ -1,3 +1,37 @@
-batten
-	@batten /'bætn/\n*  danh từ\n- ván lót (tường, sàn, trần)\n- thanh gỗ giữ ván cửa\n*  ngoại động từ\n- lót ván\n*  nội động từ\n- ăn cho béo, ăn phàm\n- béo phị ra\n@Chuyên ngành kỹ thuật\n-chiếu cách (âm nhiệt)\n-đường chỉ\n-đường gờ\n-ốp ván\n-tấm ván\n-thanh\n-thanh nẹp\n-ván dày\n-ván lát\n-ván lót\n-ván ốp\n@Lĩnh vực: xây dựng\n-bắc rui mè, ván lót\n-cái nẹp đai\n-đặt đòn tay\n-đệm cách (âm nhiệt)\n-dựng đứng\n-nẹp, thanh nẹp, ván lót sàn\n-ốp thanh nẹp\n-tấm bản\n-thanh chèn khe\n-thanh phủ khe\n-thước dẹp\n@Lĩnh vực: giao thông & vận tải\n-tấm ván lót\n@Lĩnh vực: cơ khí & công trình\n-ván (lót)
-
+batten	@batten /'bætn/
+*  danh từ
+- ván lót (tường, sàn, trần)
+- thanh gỗ giữ ván cửa
+*  ngoại động từ
+- lót ván
+*  nội động từ
+- ăn cho béo, ăn phàm
+- béo phị ra
+@Chuyên ngành kỹ thuật
+-chiếu cách (âm nhiệt)
+-đường chỉ
+-đường gờ
+-ốp ván
+-tấm ván
+-thanh
+-thanh nẹp
+-ván dày
+-ván lát
+-ván lót
+-ván ốp
+@Lĩnh vực: xây dựng
+-bắc rui mè, ván lót
+-cái nẹp đai
+-đặt đòn tay
+-đệm cách (âm nhiệt)
+-dựng đứng
+-nẹp, thanh nẹp, ván lót sàn
+-ốp thanh nẹp
+-tấm bản
+-thanh chèn khe
+-thanh phủ khe
+-thước dẹp
+@Lĩnh vực: giao thông & vận tải
+-tấm ván lót
+@Lĩnh vực: cơ khí & công trình
+-ván (lót)

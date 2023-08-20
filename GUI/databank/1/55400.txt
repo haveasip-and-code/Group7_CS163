@@ -1,3 +1,6 @@
-tactics
-	@tactics /'tæktiks/\n*  danh từ,  số nhiều dùng như số ít\n- (quân sự) chiến thuật\n- sách lược\n@Chuyên ngành kỹ thuật\n-chiến thuật
-
+tactics	@tactics /'tæktiks/
+*  danh từ,  số nhiều dùng như số ít
+- (quân sự) chiến thuật
+- sách lược
+@Chuyên ngành kỹ thuật
+-chiến thuật

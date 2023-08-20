@@ -1,3 +1,2 @@
-bronzer
-	@bronzer\n- xem bronze
-
+bronzer	@bronzer
+- xem bronze

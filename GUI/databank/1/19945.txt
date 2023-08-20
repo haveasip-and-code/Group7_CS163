@@ -1,3 +1,11 @@
-exposing
-	@Chuyên ngành kỹ thuật\n-sự lộ sáng\n-sự rọi\n@Lĩnh vực: toán & tin\n-sự phới sáng\n@Chuyên ngành kỹ thuật\n-sự lộ sáng\n-sự rọi\n@Lĩnh vực: toán & tin\n-sự phới sáng
-
+exposing	
+@Chuyên ngành kỹ thuật
+-sự lộ sáng
+-sự rọi
+@Lĩnh vực: toán & tin
+-sự phới sáng
+@Chuyên ngành kỹ thuật
+-sự lộ sáng
+-sự rọi
+@Lĩnh vực: toán & tin
+-sự phới sáng

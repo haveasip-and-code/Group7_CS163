@@ -1,3 +1,44 @@
-net
-	@net /net/\n*  danh từ\n- lưới, mạng (tóc, nhện...)\n=to cast (throw) a net+ quăng lưới\n- cạm, bẫy\n=to fall into a net+ rơi vào cạm bẫy, mắc bẫy\n- vải màn; vải lưới\n- mạng lưới\n*  ngoại động từ\n- bắt bằng lưới, đánh lưới\n=to net fish+ đánh cá bằng lưới\n=to net birds+ bẫy chim bằng lưới\n- thả lưới, giăng lưới, bủa lưới ((nghĩa đen) & (nghĩa bóng)), đánh bẫy\n- che phủ bằng lưới\n- đan (lưới, võng...)\n*  nội động từ\n- đánh lưới\n- đan lưới\n*  ngoại động từ\n- được lãi thực (là bao nhiêu)\n*  tính từ\n- thực\n=net price+ thực giá\n=net weight+ trọng lượng thực\n@Chuyên ngành kinh tế\n-đánh lưới\n-giá tịnh\n-lưới\n-mạng\n-số tiền tịnh\n-thả lưới\n-thuần/ròng/tịnh\n-thực\n-trọng lượng tịnh\n@Chuyên ngành kỹ thuật\n-lưới\n-lưới sợi kim\n-lưới, mạng\n-mạng\n-mạng lưới\n-mạng máy tính\n-tính\n@Lĩnh vực: điện lạnh\n-trừ bì
-
+net	@net /net/
+*  danh từ
+- lưới, mạng (tóc, nhện...)
+=to cast (throw) a net+ quăng lưới
+- cạm, bẫy
+=to fall into a net+ rơi vào cạm bẫy, mắc bẫy
+- vải màn; vải lưới
+- mạng lưới
+*  ngoại động từ
+- bắt bằng lưới, đánh lưới
+=to net fish+ đánh cá bằng lưới
+=to net birds+ bẫy chim bằng lưới
+- thả lưới, giăng lưới, bủa lưới ((nghĩa đen) & (nghĩa bóng)), đánh bẫy
+- che phủ bằng lưới
+- đan (lưới, võng...)
+*  nội động từ
+- đánh lưới
+- đan lưới
+*  ngoại động từ
+- được lãi thực (là bao nhiêu)
+*  tính từ
+- thực
+=net price+ thực giá
+=net weight+ trọng lượng thực
+@Chuyên ngành kinh tế
+-đánh lưới
+-giá tịnh
+-lưới
+-mạng
+-số tiền tịnh
+-thả lưới
+-thuần/ròng/tịnh
+-thực
+-trọng lượng tịnh
+@Chuyên ngành kỹ thuật
+-lưới
+-lưới sợi kim
+-lưới, mạng
+-mạng
+-mạng lưới
+-mạng máy tính
+-tính
+@Lĩnh vực: điện lạnh
+-trừ bì

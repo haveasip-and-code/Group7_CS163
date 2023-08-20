@@ -1,3 +1,3 @@
-printed
-	@Chuyên ngành kỹ thuật\n-được đăng\n-được in
-
+printed	@Chuyên ngành kỹ thuật
+-được đăng
+-được in

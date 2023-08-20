@@ -1,3 +1,18 @@
-personal
-	@personal /'pə:snl/\n*  tính từ\n- cá nhân, tư, riêng\n=my personal opinion+ ý kiến cá nhân tôi, ý kiến riêng tôi\n=this is personal to myself+ đây là việc riêng của tôi\n- nói đến cá nhân, ám chỉ cá nhân, chỉ trích cá nhân\n=personal remarks+ những nhận xét ám chỉ cá nhân; ai/\n*  ngoại động từ\n- nhân cách hoá\n- là hiện thân của\n@Chuyên ngành kinh tế\n-cá nhân\n-riêng\n-riêng tư\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cá nhân\n-riêng
-
+personal	@personal /'pə:snl/
+*  tính từ
+- cá nhân, tư, riêng
+=my personal opinion+ ý kiến cá nhân tôi, ý kiến riêng tôi
+=this is personal to myself+ đây là việc riêng của tôi
+- nói đến cá nhân, ám chỉ cá nhân, chỉ trích cá nhân
+=personal remarks+ những nhận xét ám chỉ cá nhân; ai/
+*  ngoại động từ
+- nhân cách hoá
+- là hiện thân của
+@Chuyên ngành kinh tế
+-cá nhân
+-riêng
+-riêng tư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cá nhân
+-riêng

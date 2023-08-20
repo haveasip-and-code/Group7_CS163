@@ -1,3 +1,2 @@
-monies
-	@monies\n- xem money
-
+monies	@monies
+- xem money

@@ -1,3 +1,40 @@
-instrument
-	@instrument /'instrumənt/\n*  danh từ\n- dụng cụ ((nghĩa đen) & (nghĩa bóng))\n- nhạc khí\n- công cụ, phương tiện\n=an instrument of government+ một công cụ cai trị\n- văn kiện\n*  ngoại động từ\n- cung cấp dụng cụ máy móc cho\n- phối dàn nhạc\n@Chuyên ngành kinh tế\n-công cụ\n-công cụ (thanh toán)\n-đồ nghề\n-giấy tờ chứng thư\n-khí cụ\n-phiếu khoán\n-phương tiện\n-văn kiện\n-văn kiện pháp định\n@Chuyên ngành kỹ thuật\n-đồ nghề\n-dụng cụ\n-dụng cụ (đo)\n-dụng cụ đo\n-dụng cụ đo lường\n-dụng cụ hiệu chỉnh\n-dụng cụ kiểm tra\n-khí cụ\n-máy\n-máy đo\n-máy móc\n-phương tiện\n-thiết bị\n-trang bị\n-văn kiện\n@Lĩnh vực: điện lạnh\n-khí cụ (đo)\n-máy (đo)
-
+instrument	
+@instrument /'instrumənt/
+*  danh từ
+- dụng cụ ((nghĩa đen) & (nghĩa bóng))
+- nhạc khí
+- công cụ, phương tiện=an instrument of government
++ một công cụ cai trị
+- văn kiện
+*  ngoại động từ
+- cung cấp dụng cụ máy móc cho
+- phối dàn nhạc
+@Chuyên ngành kinh tế
+-công cụ
+-công cụ (thanh toán)
+-đồ nghề
+-giấy tờ chứng thư
+-khí cụ
+-phiếu khoán
+-phương tiện
+-văn kiện
+-văn kiện pháp định
+@Chuyên ngành kỹ thuật
+-đồ nghề
+-dụng cụ
+-dụng cụ (đo)
+-dụng cụ đo
+-dụng cụ đo lường
+-dụng cụ hiệu chỉnh
+-dụng cụ kiểm tra
+-khí cụ
+-máy
+-máy đo
+-máy móc
+-phương tiện
+-thiết bị
+-trang bị
+-văn kiện
+@Lĩnh vực: điện lạnh
+-khí cụ (đo)
+-máy (đo)

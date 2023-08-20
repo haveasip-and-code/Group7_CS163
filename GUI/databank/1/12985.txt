@@ -1,3 +1,4 @@
-culled
-	@Chuyên ngành kinh tế\n-chọn lọc\n-lựa chọn
-
+culled	
+@Chuyên ngành kinh tế
+-chọn lọc
+-lựa chọn

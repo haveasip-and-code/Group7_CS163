@@ -1,3 +1,43 @@
-transit
-	@transit /trænsit/\n*  danh từ\n- sự đi qua, sự vượt qua\n- (thương nghiệp) sự quá cảnh\n=goods in transit+ hàng hoá quá cảnh\n- đường\n=the overland transit+ đường bộ\n=in transit+ dọc đường\n=lost in transit+ thất lạc dọc đường\n- sự qua đường kinh (kinh tuyến) (của một thiên thể); sự ngang qua mặt trời (của một hành tinh)\n=the transit of Venus+ sự ngang qua mặt trời của sao Kim\n*  ngoại động từ\n- (thiên văn học) đi qua, qua\n=Venus transits the sun's disc+ sao Kim đi qua mặt trời\n@Chuyên ngành kinh tế\n-chuyển khẩu\n-đi\n-đi qua\n-độ đường\n-quá cảnh\n-quãng đường đi\n-sự quá cảnh\n-thông quá\n-vận tải\n-vượt qua\n@Chuyên ngành kỹ thuật\n-chuyển tiếp\n-đường chuyển tiếp\n-kinh vĩ\n-máy đo cao trình\n-máy kinh vĩ\n-sự đi qua\n-sự vượt qua\n@Lĩnh vực: điện lạnh\n-kính kinh tuyến\n@Lĩnh vực: xây dựng\n-máy ngắm kinh tuyến (đạo hàng thiên văn)\n-máy toàn đạc\n-thước thủy chuẩn\n@Lĩnh vực: giao thông & vận tải\n-sự quá cảnh\n@Lĩnh vực: toán & tin\n-sự qua kinh tuyến
-
+transit	@transit /trænsit/
+*  danh từ
+- sự đi qua, sự vượt qua
+- (thương nghiệp) sự quá cảnh
+=goods in transit+ hàng hoá quá cảnh
+- đường
+=the overland transit+ đường bộ
+=in transit+ dọc đường
+=lost in transit+ thất lạc dọc đường
+- sự qua đường kinh (kinh tuyến) (của một thiên thể); sự ngang qua mặt trời (của một hành tinh)
+=the transit of Venus+ sự ngang qua mặt trời của sao Kim
+*  ngoại động từ
+- (thiên văn học) đi qua, qua
+=Venus transits the sun's disc+ sao Kim đi qua mặt trời
+@Chuyên ngành kinh tế
+-chuyển khẩu
+-đi
+-đi qua
+-độ đường
+-quá cảnh
+-quãng đường đi
+-sự quá cảnh
+-thông quá
+-vận tải
+-vượt qua
+@Chuyên ngành kỹ thuật
+-chuyển tiếp
+-đường chuyển tiếp
+-kinh vĩ
+-máy đo cao trình
+-máy kinh vĩ
+-sự đi qua
+-sự vượt qua
+@Lĩnh vực: điện lạnh
+-kính kinh tuyến
+@Lĩnh vực: xây dựng
+-máy ngắm kinh tuyến (đạo hàng thiên văn)
+-máy toàn đạc
+-thước thủy chuẩn
+@Lĩnh vực: giao thông & vận tải
+-sự quá cảnh
+@Lĩnh vực: toán & tin
+-sự qua kinh tuyến

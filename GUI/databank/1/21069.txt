@@ -1,3 +1,15 @@
-finalize
-	@finalize /'fainəlaiz/\n*  động từ\n- làm xong, hoàn thành\n- cho hình dạng cuối cùng, làm cho hình thành hình dạng cuối cùng; thông qua lần cuối cùng\n- (thể dục,thể thao) vào chung kết\n@Chuyên ngành kinh tế\n-hoàn thành\n-làm xong\n@Chuyên ngành kỹ thuật\n-hoàn thành\n-làm xong\n@Chuyên ngành kỹ thuật\n-hoàn thành\n-làm xong
-
+finalize	
+@finalize /'fainəlaiz/
+*  động từ
+- làm xong, hoàn thành
+- cho hình dạng cuối cùng, làm cho hình thành hình dạng cuối cùng; thông qua lần cuối cùng
+- (thể dục,thể thao) vào chung kết
+@Chuyên ngành kinh tế
+-hoàn thành
+-làm xong
+@Chuyên ngành kỹ thuật
+-hoàn thành
+-làm xong
+@Chuyên ngành kỹ thuật
+-hoàn thành
+-làm xong

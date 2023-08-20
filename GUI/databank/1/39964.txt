@@ -1,3 +1,12 @@
-patching
-	@Chuyên ngành kinh tế\n-lõi (xì gà)\n-nhân bánh\n@Chuyên ngành kỹ thuật\n-sự bít\n-sự trát\n@Lĩnh vực: ô tô\n-sự đắp vá (hàn thân xe)\n@Lĩnh vực: hóa học & vật liệu\n-sự sửa tường lò\n@Lĩnh vực: xây dựng\n-vá mặt đường
-
+patching	@Chuyên ngành kinh tế
+-lõi (xì gà)
+-nhân bánh
+@Chuyên ngành kỹ thuật
+-sự bít
+-sự trát
+@Lĩnh vực: ô tô
+-sự đắp vá (hàn thân xe)
+@Lĩnh vực: hóa học & vật liệu
+-sự sửa tường lò
+@Lĩnh vực: xây dựng
+-vá mặt đường

@@ -1,3 +1,9 @@
-ops
-	@ops\n* danh từ\n- sự hoạt động; quá trình hoạt động\n- thao tác\n- hiệu quả, tác dụng\n- sự giao dịch tài chính\n- <y> sự mổ xẻ; ca mổ\n- <qsự> cuộc hành quân\n- <toán> phép tính, phép toán
-
+ops	@ops
+* danh từ
+- sự hoạt động; quá trình hoạt động
+- thao tác
+- hiệu quả, tác dụng
+- sự giao dịch tài chính
+- <y> sự mổ xẻ; ca mổ
+- <qsự> cuộc hành quân
+- <toán> phép tính, phép toán

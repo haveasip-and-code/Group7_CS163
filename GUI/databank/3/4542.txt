@@ -1,3 +1,6 @@
-ballasting
-	@Chuyên ngành kỹ thuật\n-đá dăm\n@Lĩnh vực: cơ khí & công trình\n-sự dải đá dăm\n@Lĩnh vực: xây dựng\n-sự rải balat
-
+ballasting	@Chuyên ngành kỹ thuật
+-đá dăm
+@Lĩnh vực: cơ khí & công trình
+-sự dải đá dăm
+@Lĩnh vực: xây dựng
+-sự rải balat

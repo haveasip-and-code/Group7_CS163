@@ -1,3 +1,2 @@
-prophesier
-	@prophesier\n- xem prophesy
-
+prophesier	@prophesier
+- xem prophesy

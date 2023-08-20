@@ -1,3 +1,20 @@
-commerce
-	@commerce /'kɔmə:s/\n*  danh từ\n- sự buôn bán; thương mại; thương nghiệp\n=home commerce+ nội thương\n=Chamber of commerce+ phòng thương mại\n- sự quan hệ, sự giao thiệp\n=to have commerce with somebody+ có giao thiệp với ai\n- (pháp lý) sự giao cấu, sự ăn nằm với nhau\n@Chuyên ngành kinh tế\n-buôn bán\n-kinh doanh\n-kinh tế học thương mại\n-mậu dịch\n-thương mại\n-thương nghiệp\n@Chuyên ngành kỹ thuật\n-giao dịch\n@Lĩnh vực: toán & tin\n-thương mại
-
+commerce	
+@commerce /'kɔmə:s/
+*  danh từ
+- sự buôn bán; thương mại; thương nghiệp=home commerce
++ nội thương=Chamber of commerce
++ phòng thương mại
+- sự quan hệ, sự giao thiệp=to have commerce with somebody
++ có giao thiệp với ai
+- (pháp lý) sự giao cấu, sự ăn nằm với nhau
+@Chuyên ngành kinh tế
+-buôn bán
+-kinh doanh
+-kinh tế học thương mại
+-mậu dịch
+-thương mại
+-thương nghiệp
+@Chuyên ngành kỹ thuật
+-giao dịch
+@Lĩnh vực: toán & tin
+-thương mại

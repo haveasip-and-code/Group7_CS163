@@ -1,3 +1,8 @@
-chalkboard
-	@chalkboard\n* danh từ\n- bảng viết phấn, bảng đen\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bảng viết\n@Lĩnh vực: hóa học & vật liệu\n-bảng viết phấn
-
+chalkboard	@chalkboard
+* danh từ
+- bảng viết phấn, bảng đen
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bảng viết
+@Lĩnh vực: hóa học & vật liệu
+-bảng viết phấn

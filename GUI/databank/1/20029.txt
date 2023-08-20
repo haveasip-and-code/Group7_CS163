@@ -1,3 +1,14 @@
-extensometer
-	@extensometer /,eksten'sɔmitə/\n*  danh từ\n- (vật lý) cái đo dộ giãn\n@Chuyên ngành kinh tế\n-thiết bị đo độ giãn\n@Chuyên ngành kỹ thuật\n-dụng cụ đo độ giãn\n@Lĩnh vực: điện lạnh\n-giãn kế\n@Chuyên ngành kỹ thuật\n-dụng cụ đo độ giãn\n@Lĩnh vực: điện lạnh\n-giãn kế
-
+extensometer	
+@extensometer /,eksten'sɔmitə/
+*  danh từ
+- (vật lý) cái đo dộ giãn
+@Chuyên ngành kinh tế
+-thiết bị đo độ giãn
+@Chuyên ngành kỹ thuật
+-dụng cụ đo độ giãn
+@Lĩnh vực: điện lạnh
+-giãn kế
+@Chuyên ngành kỹ thuật
+-dụng cụ đo độ giãn
+@Lĩnh vực: điện lạnh
+-giãn kế

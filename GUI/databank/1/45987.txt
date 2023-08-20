@@ -1,3 +1,13 @@
-recombination
-	@recombination\n* danh từ\n- sự tái tổ hợp, sự kết hợp lại\n@Chuyên ngành kinh tế\n-sự hoàn nguyên lại\n-sự tái kết hợp\n-sự tái liên hợp\n@Chuyên ngành kỹ thuật\n-sự tái hợp\n@Lĩnh vực: điện\n-hiện tượng tái hợp\n@Lĩnh vực: y học\n-sự tái hợp, tái hỗ trợ
-
+recombination	@recombination
+* danh từ
+- sự tái tổ hợp, sự kết hợp lại
+@Chuyên ngành kinh tế
+-sự hoàn nguyên lại
+-sự tái kết hợp
+-sự tái liên hợp
+@Chuyên ngành kỹ thuật
+-sự tái hợp
+@Lĩnh vực: điện
+-hiện tượng tái hợp
+@Lĩnh vực: y học
+-sự tái hợp, tái hỗ trợ

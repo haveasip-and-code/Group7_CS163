@@ -1,3 +1,36 @@
-hedge
-	@hedge /hedʤ/\n*  danh từ\n- hàng rào, bờ giậu; (nghĩa bóng) hàng rào ngăn cách\n=quickset hedge+ hàng rào cây xanh\n=dead hedge+ hàng rào cây khô; hàng rào gỗ\n- hàng rào (người hoặc vật)\n- sự đánh bao vây (đánh cá ngựa... để yên trí khỏi thua)\n!it doesn't grow on every hedge\n- cái đó hiếm thấy\n*  tính từ\n- (thuộc) hàng rào; ở hàng rào; gần hàng rào\n- vụng trộm, lén lút\n=a hedge love-affair+ chuyện yêu đương lén lút\n*  ngoại động từ\n- rào lại (một miếng đất...)\n- (nghĩa bóng) bao quanh, bao bọc, bao vây\n=to hedge in the enemy's army+ bao vây quân địch\n- ngăn cách, rào đón\n*  nội động từ\n- (từ hiếm,nghĩa hiếm) làm hàng rào; sửa hàng rào, sửa giậu\n- tránh không trả lời thẳng, tìm lời thoái thác; tránh không tự thắt buộc mình\n- đánh bao vây (đánh cá ngựa... để yên trí khỏi thua)\n!to hedge in\n- rào lại, bao quanh bằng hàng rào\n!to hedge off\n- ngăn cách bằng hàng rào\n@Chuyên ngành kinh tế\n-mua bán đối xung\n-mua bán đối xứng\n-mua bán rào\n-mua bán rào (để phòng bị lỗ)\n-tự bảo hiểm\n@Chuyên ngành kỹ thuật\n-rào\n@Lĩnh vực: xây dựng\n-giậu\n-hàng rào cây
-
+hedge	
+@hedge /hedʤ/
+*  danh từ
+- hàng rào, bờ giậu; (nghĩa bóng) hàng rào ngăn cách=quickset hedge
++ hàng rào cây xanh=dead hedge
++ hàng rào cây khô; hàng rào gỗ
+- hàng rào (người hoặc vật)
+- sự đánh bao vây (đánh cá ngựa... để yên trí khỏi thua)!it doesn't grow on every hedge
+- cái đó hiếm thấy
+*  tính từ
+- (thuộc) hàng rào; ở hàng rào; gần hàng rào
+- vụng trộm, lén lút=a hedge love
+-affair
++ chuyện yêu đương lén lút
+*  ngoại động từ
+- rào lại (một miếng đất...)
+- (nghĩa bóng) bao quanh, bao bọc, bao vây=to hedge in the enemy's army
++ bao vây quân địch
+- ngăn cách, rào đón
+*  nội động từ
+- (từ hiếm,nghĩa hiếm) làm hàng rào; sửa hàng rào, sửa giậu
+- tránh không trả lời thẳng, tìm lời thoái thác; tránh không tự thắt buộc mình
+- đánh bao vây (đánh cá ngựa... để yên trí khỏi thua)!to hedge in
+- rào lại, bao quanh bằng hàng rào!to hedge off
+- ngăn cách bằng hàng rào
+@Chuyên ngành kinh tế
+-mua bán đối xung
+-mua bán đối xứng
+-mua bán rào
+-mua bán rào (để phòng bị lỗ)
+-tự bảo hiểm
+@Chuyên ngành kỹ thuật
+-rào
+@Lĩnh vực: xây dựng
+-giậu
+-hàng rào cây

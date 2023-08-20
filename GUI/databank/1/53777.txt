@@ -1,3 +1,77 @@
-stroke
-	@stroke /strouk/\n*  danh từ\n- cú, cú đánh, đòn\n=to receive 20 strokes+ bị đòn\n=stroke of sword+ một nhát gươm\n=killed by a stroke of lightning+ bị sét đánh chết\n=finishing stroke+ đòn kết liễu\n- (y học) đột quỵ\n=a stroke of apoplexy+ đột quỵ ngập máu\n- sự cố gắng\n=he has not done a stroke of work+ nó không gắng làm một tí việc gì cả\n=to row a fast stroke+ chèo nhanh\n- nước bài, nước đi, "cú" , "miếng" , "đòn" ; sự thành công lớn\n=to invent a new stroke in cricket+ phát minh ra một "cú" mới cong crickê\n=a stroke of genius+ một ý kiến độc đáo\n=a stroke of business+ sự buôn may bán lời; một món phát tài\n=a stroke of luck+ dịp may bất ngờ\n- lối bơi, kiểu bơi\n- nét (bút)\n=up stroke+ nép lên\n=down stroke+ nét xuống\n=to portray with a few strokes+ vẽ bằng một vài nét\n=I could do it with a stroke of the pen+ tôi chỉ gạch một nét bút là xong việc ấy\n=finishing strokes+ những nét sửa sang cuối cùng, những nét trau chuốt cuối cùng\n- tiếng chuông đồng hồ\n=it is on the stroke of nine+ đồng hồ đánh chín giờ\n=to arrive on the stroke [of time]+ đến đúng giờ\n- tiếng đập của trái tim\n- người đứng lái làm chịch (ở cuối thuyền) ((cũng) stroke oar (hiếm))\n- cái vuốt ve; sự vuốt ve\n*  ngoại động từ\n- đứng lái (để làm chịch)\n- vuốt ve\n!to stroke somebody down\n- làm ai nguôi giận\n!to stroke somebody ['s hair] the wrong way\n- làm ai phát cáu\n@Chuyên ngành kinh tế\n-sự chuyển vận của sàng\n@Chuyên ngành kỹ thuật\n-bước\n-độ di chuyển\n-độ lệch\n-đường đi\n-gõ\n-hành trình\n-khoảng chạy\n-khoảng hở bàn ép\n-kỳ (động cơ đốt trong)\n-nét chữ\n-nét gạch\n-nét kẻ\n-nét ký tự\n-nhấn\n-sự va đập\n-vết giũa\n@Lĩnh vực: xây dựng\n-bước công việc\n-đường gạch\n-đường nét (bút)\n-hành trình công việc\n-khoảng nâng\n-tiến trình công việc\n@Lĩnh vực: ô tô\n-chu kỳ\n-khoảng chạy piton\n-kì\n-thay đổi khoảng chạy\n@Lĩnh vực: điện lạnh\n-cú gõ\n@Lĩnh vực: y học\n-đột qụy\n@Lĩnh vực: hóa học & vật liệu\n-hành trình (pittong)\n@Lĩnh vực: toán & tin\n-nét (font)\n-sự gõ (phím)
-
+stroke	@stroke /strouk/
+*  danh từ
+- cú, cú đánh, đòn
+=to receive 20 strokes+ bị đòn
+=stroke of sword+ một nhát gươm
+=killed by a stroke of lightning+ bị sét đánh chết
+=finishing stroke+ đòn kết liễu
+- (y học) đột quỵ
+=a stroke of apoplexy+ đột quỵ ngập máu
+- sự cố gắng
+=he has not done a stroke of work+ nó không gắng làm một tí việc gì cả
+=to row a fast stroke+ chèo nhanh
+- nước bài, nước đi, "cú" , "miếng" , "đòn" ; sự thành công lớn
+=to invent a new stroke in cricket+ phát minh ra một "cú" mới cong crickê
+=a stroke of genius+ một ý kiến độc đáo
+=a stroke of business+ sự buôn may bán lời; một món phát tài
+=a stroke of luck+ dịp may bất ngờ
+- lối bơi, kiểu bơi
+- nét (bút)
+=up stroke+ nép lên
+=down stroke+ nét xuống
+=to portray with a few strokes+ vẽ bằng một vài nét
+=I could do it with a stroke of the pen+ tôi chỉ gạch một nét bút là xong việc ấy
+=finishing strokes+ những nét sửa sang cuối cùng, những nét trau chuốt cuối cùng
+- tiếng chuông đồng hồ
+=it is on the stroke of nine+ đồng hồ đánh chín giờ
+=to arrive on the stroke [of time]+ đến đúng giờ
+- tiếng đập của trái tim
+- người đứng lái làm chịch (ở cuối thuyền) ((cũng) stroke oar (hiếm))
+- cái vuốt ve; sự vuốt ve
+*  ngoại động từ
+- đứng lái (để làm chịch)
+- vuốt ve
+!to stroke somebody down
+- làm ai nguôi giận
+!to stroke somebody ['s hair] the wrong way
+- làm ai phát cáu
+@Chuyên ngành kinh tế
+-sự chuyển vận của sàng
+@Chuyên ngành kỹ thuật
+-bước
+-độ di chuyển
+-độ lệch
+-đường đi
+-gõ
+-hành trình
+-khoảng chạy
+-khoảng hở bàn ép
+-kỳ (động cơ đốt trong)
+-nét chữ
+-nét gạch
+-nét kẻ
+-nét ký tự
+-nhấn
+-sự va đập
+-vết giũa
+@Lĩnh vực: xây dựng
+-bước công việc
+-đường gạch
+-đường nét (bút)
+-hành trình công việc
+-khoảng nâng
+-tiến trình công việc
+@Lĩnh vực: ô tô
+-chu kỳ
+-khoảng chạy piton
+-kì
+-thay đổi khoảng chạy
+@Lĩnh vực: điện lạnh
+-cú gõ
+@Lĩnh vực: y học
+-đột qụy
+@Lĩnh vực: hóa học & vật liệu
+-hành trình (pittong)
+@Lĩnh vực: toán & tin
+-nét (font)
+-sự gõ (phím)

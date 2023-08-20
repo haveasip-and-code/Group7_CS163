@@ -1,3 +1,19 @@
-pulsation
-	@pulsation /pʌl'seiʃn/\n*  danh từ\n- sự đập; tiếng đạp (tim...)\n- sự rung, sự rung động, sự rộn ràng\n@Chuyên ngành kinh tế\n-sự đập\n-sự rung\n@Chuyên ngành kỹ thuật\n-biên độ\n-mạch động\n-sự mạch động\n-sự rung động\n-sự va đập\n-sự xung động\n-xung kích\n@Lĩnh vực: xây dựng\n-độ đảo\n@Lĩnh vực: vật lý\n-lực xung động
-
+pulsation	@pulsation /pʌl'seiʃn/
+*  danh từ
+- sự đập; tiếng đạp (tim...)
+- sự rung, sự rung động, sự rộn ràng
+@Chuyên ngành kinh tế
+-sự đập
+-sự rung
+@Chuyên ngành kỹ thuật
+-biên độ
+-mạch động
+-sự mạch động
+-sự rung động
+-sự va đập
+-sự xung động
+-xung kích
+@Lĩnh vực: xây dựng
+-độ đảo
+@Lĩnh vực: vật lý
+-lực xung động

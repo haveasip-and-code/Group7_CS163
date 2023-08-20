@@ -1,3 +1,2 @@
-achiever
-	@achiever\n- xem achieve
-
+achiever	@achiever
+- xem achieve

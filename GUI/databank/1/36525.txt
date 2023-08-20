@@ -1,3 +1,9 @@
-neighborhood
-	@neighborhood\n- (Mỹ)(dân) hàng xóm\n- vùng, vùng lân cận\n@Chuyên ngành kỹ thuật\n-hàng xóm\n-miền lân cận\n@Lĩnh vực: xây dựng\n-sự gần kề\n-sự lân cận
-
+neighborhood	@neighborhood
+- (Mỹ)(dân) hàng xóm
+- vùng, vùng lân cận
+@Chuyên ngành kỹ thuật
+-hàng xóm
+-miền lân cận
+@Lĩnh vực: xây dựng
+-sự gần kề
+-sự lân cận

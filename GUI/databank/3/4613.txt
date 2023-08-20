@@ -1,3 +1,2 @@
-bands
-	@Chuyên ngành kỹ thuật\n-vân giao thoa
-
+bands	@Chuyên ngành kỹ thuật
+-vân giao thoa

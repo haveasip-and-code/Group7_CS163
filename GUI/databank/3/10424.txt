@@ -1,3 +1,2 @@
-combinational
-	@combinational\n- xem combination
-
+combinational	@combinational
+- xem combination

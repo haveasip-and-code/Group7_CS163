@@ -1,3 +1,11 @@
-repeller
-	@repeller\n* danh từ\n- người xua đuổi/đuổi ra/cự tuyệt\n- chất xua đuổi\n@Chuyên ngành kỹ thuật\n-bộ đảo hướng (chùm electron ở đèn điện tử)\n-bộ đẩy ngược\n@Lĩnh vực: điện\n-bộ phản xạ\n@Lĩnh vực: toán & tin\n-phiến dội
-
+repeller	@repeller
+* danh từ
+- người xua đuổi/đuổi ra/cự tuyệt
+- chất xua đuổi
+@Chuyên ngành kỹ thuật
+-bộ đảo hướng (chùm electron ở đèn điện tử)
+-bộ đẩy ngược
+@Lĩnh vực: điện
+-bộ phản xạ
+@Lĩnh vực: toán & tin
+-phiến dội

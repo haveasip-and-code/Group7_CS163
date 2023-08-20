@@ -1,3 +1,9 @@
-remainders
-	@Chuyên ngành kinh tế\n-hàng bán xôn\n-hàng ế bán hạ giá\n-hàng tồn\n-sách bán hạ giá\n-sách ế\n-số sách còn dư lại\n@Chuyên ngành kỹ thuật\n-số dư
-
+remainders	@Chuyên ngành kinh tế
+-hàng bán xôn
+-hàng ế bán hạ giá
+-hàng tồn
+-sách bán hạ giá
+-sách ế
+-số sách còn dư lại
+@Chuyên ngành kỹ thuật
+-số dư

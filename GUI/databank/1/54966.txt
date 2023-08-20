@@ -1,3 +1,28 @@
-swap
-	@swap /swɔp/ (swap) /swɔp/\n*  danh từ\n- (từ lóng) sự trao đổi, sự đổi chác\n*  động từ\n- (từ lóng) đổi, trao đổi, đổi chác\n=to swop something for something+ trao đổi vật no lấy vật kia\n=never swop horses while crossing the stream+ không nên thay ngựa giữa dòng\n@Chuyên ngành kinh tế\n-đổi\n-đổi chác\n-giao dịch trao đổi chứng khoán\n-hàng hóa đổi chác\n-hoán đổi\n-sự giao hoán\n-sự trao đổi hàng hóa\n-sự trao đổi tiền tệ\n-tín dụng chéo\n-tín dụng ngoại hối hỗ huệ (giữa các ngân hàng trung ương)\n-tín dụng tréo\n-trao đổi\n-trao đổi (hàng hóa...)\n@Chuyên ngành kỹ thuật\n-chuyển ra\n-hoán đổi\n@Lĩnh vực: điện tử & viễn thông\n-sự tráo đổi\n@Lĩnh vực: toán & tin\n-tráo đổi
-
+swap	@swap /swɔp/ (swap) /swɔp/
+*  danh từ
+- (từ lóng) sự trao đổi, sự đổi chác
+*  động từ
+- (từ lóng) đổi, trao đổi, đổi chác
+=to swop something for something+ trao đổi vật no lấy vật kia
+=never swop horses while crossing the stream+ không nên thay ngựa giữa dòng
+@Chuyên ngành kinh tế
+-đổi
+-đổi chác
+-giao dịch trao đổi chứng khoán
+-hàng hóa đổi chác
+-hoán đổi
+-sự giao hoán
+-sự trao đổi hàng hóa
+-sự trao đổi tiền tệ
+-tín dụng chéo
+-tín dụng ngoại hối hỗ huệ (giữa các ngân hàng trung ương)
+-tín dụng tréo
+-trao đổi
+-trao đổi (hàng hóa...)
+@Chuyên ngành kỹ thuật
+-chuyển ra
+-hoán đổi
+@Lĩnh vực: điện tử & viễn thông
+-sự tráo đổi
+@Lĩnh vực: toán & tin
+-tráo đổi

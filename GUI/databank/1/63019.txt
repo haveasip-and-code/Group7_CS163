@@ -1,3 +1,3 @@
-windowpane
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ô kính cửa sổ
-
+windowpane	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-ô kính cửa sổ

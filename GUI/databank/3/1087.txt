@@ -1,3 +1,2 @@
-affixer
-	@affixer\n- xem affix
-
+affixer	@affixer
+- xem affix

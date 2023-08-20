@@ -1,3 +1,7 @@
-odorize
-	@odorize\n- Cách viết khác : odorise\n@Chuyên ngành kinh tế\n-tỏa mùi thơm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tạo mùi thơm
-
+odorize	@odorize
+- Cách viết khác : odorise
+@Chuyên ngành kinh tế
+-tỏa mùi thơm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tạo mùi thơm

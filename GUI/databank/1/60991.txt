@@ -1,3 +1,50 @@
-use
-	@use /ju:s/\n*  danh từ\n- sự dùng; cách dùng\n=to put to use+ đưa ra dùng\n=in common use+ thường dùng\n=in use+ được dùng, thông dụng\n=out of use+ không dùng nữa\n- quyền dùng, quyền sử dụng\n=to have the use of something+ được quyền dùng cái gì\n- năng lực sử dụng\n=to lose the use of one's eyes+ mất năng lực sử dụng con mắt\n- thói quen, tập quán\n=in these cases use is the best guide+ trong những trường hợp này theo thói quen là tốt nhất\n- sự có ích; ích lợi\n=to be of use for+ có ích cho, dùng được cho\n=to have no further use for+ không dùng làm gì nữa, không cần đến nữa\n- (tôn giáo) lễ nghi\n- (pháp lý) quyền hoa lợi\n*  ngoại động từ\n- dùng, sử dụng\n=to use something+ dùng vật gì\n=to be used for+ được dùng để\n- dùng, áp dụng, lợi dụng\n=to use every means+ dùng đủ mọi cách\n=to use one's opportunities+ lợi dụng c hội\n=to use someone+ lợi dụng ai\n- tiêu dùng, tiêu thụ\n=to use up all one's provisions+ dùng hết lưng ăn để dành\n- đối xử, đối đ i, ăn ở\n=use others as you would have them use you+ h y đối xử người khác như mình muốn họ đối xử với mình\n- (chỉ thời quá khứ) trước kia có thói quen, trước kia hay\n=it used to be said that+ trước kia người ta thường nói rằng\n=there used to be a house here+ trước kia ở đây có một ngôi nhà\n=he usedn't to drink; (mỹ) he didn't use to drink+ trước kia nó không quen uống rượu\n!to use up\n- dùng cho đến hết tiệt\n- tận dụng (những cái còn thừa)\n- dùng cho đến kiệt sức (người, ngựa)\n@Chuyên ngành kinh tế\n-cách dùng\n-cách sử dụng\n-dùng\n-giá trị có ích\n-quyền hoa lợi\n-sự quen dùng\n-sự sử dụng\n-tính có ích\n@Chuyên ngành kỹ thuật\n-dùng\n-sử dụng
-
+use	@use /ju:s/
+*  danh từ
+- sự dùng; cách dùng
+=to put to use+ đưa ra dùng
+=in common use+ thường dùng
+=in use+ được dùng, thông dụng
+=out of use+ không dùng nữa
+- quyền dùng, quyền sử dụng
+=to have the use of something+ được quyền dùng cái gì
+- năng lực sử dụng
+=to lose the use of one's eyes+ mất năng lực sử dụng con mắt
+- thói quen, tập quán
+=in these cases use is the best guide+ trong những trường hợp này theo thói quen là tốt nhất
+- sự có ích; ích lợi
+=to be of use for+ có ích cho, dùng được cho
+=to have no further use for+ không dùng làm gì nữa, không cần đến nữa
+- (tôn giáo) lễ nghi
+- (pháp lý) quyền hoa lợi
+*  ngoại động từ
+- dùng, sử dụng
+=to use something+ dùng vật gì
+=to be used for+ được dùng để
+- dùng, áp dụng, lợi dụng
+=to use every means+ dùng đủ mọi cách
+=to use one's opportunities+ lợi dụng c hội
+=to use someone+ lợi dụng ai
+- tiêu dùng, tiêu thụ
+=to use up all one's provisions+ dùng hết lưng ăn để dành
+- đối xử, đối đ i, ăn ở
+=use others as you would have them use you+ h y đối xử người khác như mình muốn họ đối xử với mình
+- (chỉ thời quá khứ) trước kia có thói quen, trước kia hay
+=it used to be said that+ trước kia người ta thường nói rằng
+=there used to be a house here+ trước kia ở đây có một ngôi nhà
+=he usedn't to drink; (mỹ) he didn't use to drink+ trước kia nó không quen uống rượu
+!to use up
+- dùng cho đến hết tiệt
+- tận dụng (những cái còn thừa)
+- dùng cho đến kiệt sức (người, ngựa)
+@Chuyên ngành kinh tế
+-cách dùng
+-cách sử dụng
+-dùng
+-giá trị có ích
+-quyền hoa lợi
+-sự quen dùng
+-sự sử dụng
+-tính có ích
+@Chuyên ngành kỹ thuật
+-dùng
+-sử dụng

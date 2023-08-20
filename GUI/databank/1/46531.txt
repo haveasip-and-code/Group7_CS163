@@ -1,3 +1,20 @@
-reinstatement
-	@reinstatement /'ri:in'steitmənt/\n*  danh từ\n- sự phục hồi (chức vụ, quyền lợi); sự lấy lại (sức khoẻ)\n- sự sắp đặt lại (cho có thứ tự, quy củ)\n@Chuyên ngành kinh tế\n-phục hồi\n-phục nguyên\n-sự khôi phục\n-sự khôi phục, phục hồi nguyên trạng, tái lập\n-sự lập bảo hiểm, bảo hiểm tiếp\n-sự phục chức\n-sự phục hồi nguyên trạng\n-sự tái lập\n@Chuyên ngành kỹ thuật\n-hồi phục\n-sự khôi phục\n-trở về\n@Lĩnh vực: điện tử & viễn thông\n-sự hồi lại (trong công việc)\n-sự nhập lại (trong công việc)
-
+reinstatement	@reinstatement /'ri:in'steitmənt/
+*  danh từ
+- sự phục hồi (chức vụ, quyền lợi); sự lấy lại (sức khoẻ)
+- sự sắp đặt lại (cho có thứ tự, quy củ)
+@Chuyên ngành kinh tế
+-phục hồi
+-phục nguyên
+-sự khôi phục
+-sự khôi phục, phục hồi nguyên trạng, tái lập
+-sự lập bảo hiểm, bảo hiểm tiếp
+-sự phục chức
+-sự phục hồi nguyên trạng
+-sự tái lập
+@Chuyên ngành kỹ thuật
+-hồi phục
+-sự khôi phục
+-trở về
+@Lĩnh vực: điện tử & viễn thông
+-sự hồi lại (trong công việc)
+-sự nhập lại (trong công việc)

@@ -1,3 +1,14 @@
-complain
-	@complain /kəm'plein/\n*  nội động từ\n- kêu ca, kêu, phàn nàn, than phiền; oán trách\n=he complained of a pain in the head+ anh ta kêu đau đầu\n- kêu nài, thưa thưa kiện\n=if your work is too hard, complain to your teacher about it+ nếu công việc của anh quá khó khăn thì anh cứ thưa với thầy giáo\n- (thơ ca) than van, rền rĩ\n@Chuyên ngành kinh tế\n-kêu nài\n-làm đơn khiếu nại\n-thưa kiện\n@Chuyên ngành kỹ thuật\n-khiếu nại
-
+complain	
+@complain /kəm'plein/
+*  nội động từ
+- kêu ca, kêu, phàn nàn, than phiền; oán trách=he complained of a pain in the head
++ anh ta kêu đau đầu
+- kêu nài, thưa thưa kiện=if your work is too hard, complain to your teacher about it
++ nếu công việc của anh quá khó khăn thì anh cứ thưa với thầy giáo
+- (thơ ca) than van, rền rĩ
+@Chuyên ngành kinh tế
+-kêu nài
+-làm đơn khiếu nại
+-thưa kiện
+@Chuyên ngành kỹ thuật
+-khiếu nại

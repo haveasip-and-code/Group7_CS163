@@ -1,3 +1,23 @@
-data
-	@data\n- (máy tính) số liệu, dữ kiện, dữ liệu\n- all or none d. dữ kiện lưỡng phân\n- ana logue d. số liệu liên tục\n- basal d. dữ kiện cơ sở\n- coded d. dữ kiện mã hoá\n- correction d. bảng hiệu chỉnh\n- cumulative d. tk số liệu tích luỹ\n- experimental d. số liệu thực nghiệm\n- graph d. số liệu đồ thị\n- initial d.(máy tính) dữ kiện [ban đầu, khởi thuỷ ]\n- input d. dữ liệu vào\n- integrated d. (thống kê) các số liẹu gộp\n- numerical d. (máy tính) dữ liệu bằng số\n- observed d. số liệu quan sát\n- qualitative d.(thống kê) dữ kiện định tính\n- randomly fluctuating d. (máy tính) dữ kiện thay đổi ngẫu nhiên\n- ranked d. k dữ kiện được xếp hạng\n- refereence d. dữ kiện tham khảo, số liệu tham khảo\n- sensitivity d. dữ kiện nhạy\n- tabular d. dữ kiện dạng bảng\n- test d. số liệu thực nghiệm
-
+data	
+@data
+- (máy tính) số liệu, dữ kiện, dữ liệu
+- all or none d. dữ kiện lưỡng phân
+- ana logue d. số liệu liên tục
+- basal d. dữ kiện cơ sở
+- coded d. dữ kiện mã hoá
+- correction d. bảng hiệu chỉnh
+- cumulative d. tk số liệu tích luỹ
+- experimental d. số liệu thực nghiệm
+- graph d. số liệu đồ thị
+- initial d.(máy tính) dữ kiện [ban đầu, khởi thuỷ ]
+- input d. dữ liệu vào
+- integrated d. (thống kê) các số liẹu gộp
+- numerical d. (máy tính) dữ liệu bằng số
+- observed d. số liệu quan sát
+- qualitative d.(thống kê) dữ kiện định tính
+- randomly fluctuating d. (máy tính) dữ kiện thay đổi ngẫu nhiên
+- ranked d. k dữ kiện được xếp hạng
+- refereence d. dữ kiện tham khảo, số liệu tham khảo
+- sensitivity d. dữ kiện nhạy
+- tabular d. dữ kiện dạng bảng
+- test d. số liệu thực nghiệm

@@ -1,3 +1,7 @@
-propositional
-	@propositional /propositional/\n*  tính từ\n- có tính chất đề nghị, có tính chất đề xuất\n- có tính chất tuyên bố, có tính chất xác nhận\n- (toán học) mệnh đề\n@Chuyên ngành kỹ thuật\n-mệnh đề
-
+propositional	@propositional /propositional/
+*  tính từ
+- có tính chất đề nghị, có tính chất đề xuất
+- có tính chất tuyên bố, có tính chất xác nhận
+- (toán học) mệnh đề
+@Chuyên ngành kỹ thuật
+-mệnh đề

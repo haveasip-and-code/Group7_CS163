@@ -1,3 +1,77 @@
-latch
-	@latch /lætʃ/\n*  danh từ\n- chốt cửa, then cửa\n=the leave the door+ đóng cửa bằng then\n- khoá rập ngoài\n*  ngoại động từ\n- đóng (cửa) bằng chốt, gài then\n@Chuyên ngành kỹ thuật\n-bánh cóc\n-cam\n-chốt cửa\n-chốt gài\n-chốt khóa\n-con cóc\n-dụng cụ chặn\n-gióng cửa\n-khóa liên động\n-sự chốt\n-thanh chặn\n-then\n-then cài\n-then cửa\n-then khóa\n-vấu hãm\n-vấu tỳ\n@Lĩnh vực: xây dựng\n-chốt (cửa)\n-then (cửa)\n-then cài cửa\n-then chặn\n@Lĩnh vực: toán & tin\n-chốt, then cài\n-mạch chốt\n-ổ có khóa\n@Lĩnh vực: cơ khí & công trình\n-gài hãm lại\n-khóa rập\n-then (cài)\n@Lĩnh vực: dệt may\n-lẫy cài\n-lưỡi kim\n-móng gài\n@Chuyên ngành kỹ thuật\n-bánh cóc\n-cam\n-chốt cửa\n-chốt gài\n-chốt khóa\n-con cóc\n-dụng cụ chặn\n-gióng cửa\n-khóa liên động\n-sự chốt\n-thanh chặn\n-then\n-then cài\n-then cửa\n-then khóa\n-vấu hãm\n-vấu tỳ\n@Lĩnh vực: xây dựng\n-chốt (cửa)\n-then (cửa)\n-then cài cửa\n-then chặn\n@Lĩnh vực: toán & tin\n-chốt, then cài\n-mạch chốt\n-ổ có khóa\n@Lĩnh vực: cơ khí & công trình\n-gài hãm lại\n-khóa rập\n-then (cài)\n@Lĩnh vực: dệt may\n-lẫy cài\n-lưỡi kim\n-móng gài
-
+latch	@latch /lætʃ/
+*  danh từ
+- chốt cửa, then cửa
+=the leave the door+ đóng cửa bằng then
+- khoá rập ngoài
+*  ngoại động từ
+- đóng (cửa) bằng chốt, gài then
+@Chuyên ngành kỹ thuật
+-bánh cóc
+-cam
+-chốt cửa
+-chốt gài
+-chốt khóa
+-con cóc
+-dụng cụ chặn
+-gióng cửa
+-khóa liên động
+-sự chốt
+-thanh chặn
+-then
+-then cài
+-then cửa
+-then khóa
+-vấu hãm
+-vấu tỳ
+@Lĩnh vực: xây dựng
+-chốt (cửa)
+-then (cửa)
+-then cài cửa
+-then chặn
+@Lĩnh vực: toán & tin
+-chốt, then cài
+-mạch chốt
+-ổ có khóa
+@Lĩnh vực: cơ khí & công trình
+-gài hãm lại
+-khóa rập
+-then (cài)
+@Lĩnh vực: dệt may
+-lẫy cài
+-lưỡi kim
+-móng gài
+@Chuyên ngành kỹ thuật
+-bánh cóc
+-cam
+-chốt cửa
+-chốt gài
+-chốt khóa
+-con cóc
+-dụng cụ chặn
+-gióng cửa
+-khóa liên động
+-sự chốt
+-thanh chặn
+-then
+-then cài
+-then cửa
+-then khóa
+-vấu hãm
+-vấu tỳ
+@Lĩnh vực: xây dựng
+-chốt (cửa)
+-then (cửa)
+-then cài cửa
+-then chặn
+@Lĩnh vực: toán & tin
+-chốt, then cài
+-mạch chốt
+-ổ có khóa
+@Lĩnh vực: cơ khí & công trình
+-gài hãm lại
+-khóa rập
+-then (cài)
+@Lĩnh vực: dệt may
+-lẫy cài
+-lưỡi kim
+-móng gài

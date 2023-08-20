@@ -1,3 +1,27 @@
-grey
-	@grey /grei/ (gray) /grei/\n*  tính từ\n- (màu) xám\n- hoa râm (tóc)\n=grey hair+ tóc hoa râm; (nghĩa bóng) tuổi già\n=to turn grey+ bạc tóc, tóc thành hoa râm\n- xanh xao, nhợt nhạt, xanh mét (nước da)\n- u ám, ảm đạm (bầu trời)\n- buồn bã, rầu rĩ (vẻ mặt)\n- có kinh\n- già giặn, đầy kinh nghiệm\n!grey mare\n- người vợ bắt nạt chồng\n!to grow grey in the service\n- già đời trong nghề\n*  danh từ\n- màu xám\n- quần áo màu xám\n=dresed in grey+ mặc quần áo màu xám\n- ngựa xám\n*  động từ\n- tô màu xám, quét màu xám\n- thành xám\n- thành hoa râm (tóc)\n@Chuyên ngành kỹ thuật\n-xám\n@Lĩnh vực: điện lạnh\n-màu xám
-
+grey	
+@grey /grei/ (gray) /grei/
+*  tính từ
+- (màu) xám
+- hoa râm (tóc)=grey hair
++ tóc hoa râm; (nghĩa bóng) tuổi già=to turn grey
++ bạc tóc, tóc thành hoa râm
+- xanh xao, nhợt nhạt, xanh mét (nước da)
+- u ám, ảm đạm (bầu trời)
+- buồn bã, rầu rĩ (vẻ mặt)
+- có kinh
+- già giặn, đầy kinh nghiệm!grey mare
+- người vợ bắt nạt chồng!to grow grey in the service
+- già đời trong nghề
+*  danh từ
+- màu xám
+- quần áo màu xám=dresed in grey
++ mặc quần áo màu xám
+- ngựa xám
+*  động từ
+- tô màu xám, quét màu xám
+- thành xám
+- thành hoa râm (tóc)
+@Chuyên ngành kỹ thuật
+-xám
+@Lĩnh vực: điện lạnh
+-màu xám

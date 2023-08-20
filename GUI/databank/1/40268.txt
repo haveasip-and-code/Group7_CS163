@@ -1,3 +1,13 @@
-peen
-	@peen /pi:n/\n*  danh từ\n- đầu mũi búa\n@Chuyên ngành kỹ thuật\n-dập nóng\n-đầu mũi búa\n-mũi búa\n-ô cửa kính\n-phunbi\n-rèn đập\n-rèn khuôn\n@Lĩnh vực: vật lý\n-làm dãn kim loại
-
+peen	@peen /pi:n/
+*  danh từ
+- đầu mũi búa
+@Chuyên ngành kỹ thuật
+-dập nóng
+-đầu mũi búa
+-mũi búa
+-ô cửa kính
+-phunbi
+-rèn đập
+-rèn khuôn
+@Lĩnh vực: vật lý
+-làm dãn kim loại

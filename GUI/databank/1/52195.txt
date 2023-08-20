@@ -1,3 +1,11 @@
-spec
-	@spec /spek/\n*  danh từ\n- (thông tục) sự đầu cơ, sự kinh doanh đầu cơ\n@Chuyên ngành kinh tế\n-đầu cơ\n@Chuyên ngành kỹ thuật\n-đặc điểm kỹ thuật\n-đặc tả\n-điều kiện kỹ thuật\n@Lĩnh vực: ô tô\n-các đặc điểm (kỹ thuật)
-
+spec	@spec /spek/
+*  danh từ
+- (thông tục) sự đầu cơ, sự kinh doanh đầu cơ
+@Chuyên ngành kinh tế
+-đầu cơ
+@Chuyên ngành kỹ thuật
+-đặc điểm kỹ thuật
+-đặc tả
+-điều kiện kỹ thuật
+@Lĩnh vực: ô tô
+-các đặc điểm (kỹ thuật)

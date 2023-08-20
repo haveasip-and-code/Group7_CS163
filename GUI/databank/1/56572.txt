@@ -1,3 +1,6 @@
-thruput
-	@Chuyên ngành kỹ thuật\n-công suất\n-khả năng thông qua\n-lưu lượng\n-năng suất thông qua\n-tốc độ dòng chảy
-
+thruput	@Chuyên ngành kỹ thuật
+-công suất
+-khả năng thông qua
+-lưu lượng
+-năng suất thông qua
+-tốc độ dòng chảy

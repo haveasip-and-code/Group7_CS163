@@ -1,3 +1,4 @@
-proportions
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-độ (tương quan) tỷ lệ\n-tính quy mô
-
+proportions	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-độ (tương quan) tỷ lệ
+-tính quy mô

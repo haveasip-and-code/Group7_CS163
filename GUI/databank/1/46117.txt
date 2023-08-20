@@ -1,3 +1,18 @@
-recycling
-	@Chuyên ngành kinh tế\n-sự hoãn trả nợ\n-sự khất nợ\n-sự quay lại của đồng vốn\n-tái sinh\n@Chuyên ngành kỹ thuật\n-sự luân chuyển\n-sự quay vòng\n-sự sử dụng lại\n-sự tái chế\n-sự tái chu chuyển\n-sự tái sinh\n-sự tái tuần hoàn\n-sự tuần hoàn kín\n-vòng tuần hoàn\n@Lĩnh vực: xây dựng\n-sự sử dụng lại (vật liệu)\n-sự tuần hoàn lại
-
+recycling	@Chuyên ngành kinh tế
+-sự hoãn trả nợ
+-sự khất nợ
+-sự quay lại của đồng vốn
+-tái sinh
+@Chuyên ngành kỹ thuật
+-sự luân chuyển
+-sự quay vòng
+-sự sử dụng lại
+-sự tái chế
+-sự tái chu chuyển
+-sự tái sinh
+-sự tái tuần hoàn
+-sự tuần hoàn kín
+-vòng tuần hoàn
+@Lĩnh vực: xây dựng
+-sự sử dụng lại (vật liệu)
+-sự tuần hoàn lại

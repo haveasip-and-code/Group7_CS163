@@ -1,3 +1,65 @@
-trade
-	@trade /treid/\n*  danh từ\n- nghề, nghề nghiệp\n=everyone to his trade+ người nào nghề nấy\n=to be in the trade+ trong nghề\n=to carry on one's trade; to do one's trade+ làm nghề mình\n=men of all trades and callings+ những người làm đủ nghề\n=to know all the tricks of the trade+ biết tất cả các mánh lới nhà nghề\n- thương nghiệp, thương mại, sự buôn bán, mậu dịch\n=to engage trade with+ trao đổi buôn bán với\n=the trade is thriving+ nền thương nghiệp đang phát triển\n=foreign trade+ ngoại thương\n=domestic (home) trade+ nội thương\n=wholesale trade+ bán buôn\n=retail trade+ bán lẻ\n- ngành buôn bán; những người trong ngành buôn bán\n=the trade+ (thông tục) những người sản xuất bà buôn bán rượu\n- (hàng hải),  (từ lóng) (the trade) ngành tàu ngầm (trong hải quân)\n- (số nhiều) (như) trade-wind\n!to be in trade\n- có cửa hiệu (buôn bán)\n*  động từ\n- buôn bán, trao đổi mậu dịch\n=to trade with somebody for something+ mua bán với ai cái gì\n=to trade something for something+ đổi cái gì lấy cái gì\n=to trade in silk+ buôn bán tơ lụa\n=to trade with China+ buôn bán với Trung quốc\n!to trade in\n- (từ Mỹ,nghĩa Mỹ) đổi (cái cũ lấy cái mới) có các thêm\n=to trade in a used car+ đổi một chiếc xe cũ có các thêm tiền\n!to trade on (upon)\n- lợi dụng\n=to trade on somebody's credulity+ lợi dụng tính cả tin của ai\n@Chuyên ngành kinh tế\n-buôn bán\n-Buôn bán- Giới buôn bán\n-giao dịch\n-giao thương\n-hối phiếu nhận trả thương mại\n-làm ăn\n-mậu dịch\n-mậu dịch (giữa các nước)\n-mua (hoặc) bán (chứng khoán...)\n-ngành kinh doanh\n-ngành nghề\n-nghề\n-nghề nghiệp\n-người bán\n-người mua\n-quan hệ mậu dịch\n-thương mại\n-thương nghiệp\n-thương vụ\n-trao đổi\n-trao đổi (hàng hóa...)\n-trao đổi mạu dịch\n@Chuyên ngành kỹ thuật\n-nghề nghiệp\n-mậu dịch\n-thương nghiệp\n@Lĩnh vực: xây dựng\n-nghề xây dựng\n-sự kinh doanh\n@Lĩnh vực: hóa học & vật liệu\n-sự buôn bán
-
+trade	@trade /treid/
+*  danh từ
+- nghề, nghề nghiệp
+=everyone to his trade+ người nào nghề nấy
+=to be in the trade+ trong nghề
+=to carry on one's trade; to do one's trade+ làm nghề mình
+=men of all trades and callings+ những người làm đủ nghề
+=to know all the tricks of the trade+ biết tất cả các mánh lới nhà nghề
+- thương nghiệp, thương mại, sự buôn bán, mậu dịch
+=to engage trade with+ trao đổi buôn bán với
+=the trade is thriving+ nền thương nghiệp đang phát triển
+=foreign trade+ ngoại thương
+=domestic (home) trade+ nội thương
+=wholesale trade+ bán buôn
+=retail trade+ bán lẻ
+- ngành buôn bán; những người trong ngành buôn bán
+=the trade+ (thông tục) những người sản xuất bà buôn bán rượu
+- (hàng hải),  (từ lóng) (the trade) ngành tàu ngầm (trong hải quân)
+- (số nhiều) (như) trade-wind
+!to be in trade
+- có cửa hiệu (buôn bán)
+*  động từ
+- buôn bán, trao đổi mậu dịch
+=to trade with somebody for something+ mua bán với ai cái gì
+=to trade something for something+ đổi cái gì lấy cái gì
+=to trade in silk+ buôn bán tơ lụa
+=to trade with China+ buôn bán với Trung quốc
+!to trade in
+- (từ Mỹ,nghĩa Mỹ) đổi (cái cũ lấy cái mới) có các thêm
+=to trade in a used car+ đổi một chiếc xe cũ có các thêm tiền
+!to trade on (upon)
+- lợi dụng
+=to trade on somebody's credulity+ lợi dụng tính cả tin của ai
+@Chuyên ngành kinh tế
+-buôn bán
+-Buôn bán- Giới buôn bán
+-giao dịch
+-giao thương
+-hối phiếu nhận trả thương mại
+-làm ăn
+-mậu dịch
+-mậu dịch (giữa các nước)
+-mua (hoặc) bán (chứng khoán...)
+-ngành kinh doanh
+-ngành nghề
+-nghề
+-nghề nghiệp
+-người bán
+-người mua
+-quan hệ mậu dịch
+-thương mại
+-thương nghiệp
+-thương vụ
+-trao đổi
+-trao đổi (hàng hóa...)
+-trao đổi mạu dịch
+@Chuyên ngành kỹ thuật
+-nghề nghiệp
+-mậu dịch
+-thương nghiệp
+@Lĩnh vực: xây dựng
+-nghề xây dựng
+-sự kinh doanh
+@Lĩnh vực: hóa học & vật liệu
+-sự buôn bán

@@ -1,3 +1,12 @@
-bleach
-	@bleach /bli:tʃ/\n*  động từ\n- tẩy trắng, chuội (vải)\n@Chuyên ngành kinh tế\n-làm mất màu\n-tẩy trắng\n@Chuyên ngành kỹ thuật\n-làm mất màu\n-làm phai màu\n-làm trắng\n-tẩy trắng
-
+bleach	
+@bleach /bli:tʃ/
+*  động từ
+- tẩy trắng, chuội (vải)
+@Chuyên ngành kinh tế
+-làm mất màu
+-tẩy trắng
+@Chuyên ngành kỹ thuật
+-làm mất màu
+-làm phai màu
+-làm trắng
+-tẩy trắng

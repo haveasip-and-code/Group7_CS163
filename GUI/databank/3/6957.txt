@@ -1,3 +1,9 @@
-brushing
-	@Chuyên ngành kinh tế\n-sự chải\n-sự làm sạch\n-sự rửa sạch\n@Chuyên ngành kỹ thuật\n-sự quét\n@Lĩnh vực: xây dựng\n-sự chải\n-sự quét sơn màu
-
+brushing	@Chuyên ngành kinh tế
+-sự chải
+-sự làm sạch
+-sự rửa sạch
+@Chuyên ngành kỹ thuật
+-sự quét
+@Lĩnh vực: xây dựng
+-sự chải
+-sự quét sơn màu

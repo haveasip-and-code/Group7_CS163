@@ -1,3 +1,4 @@
-indicated
-	@Chuyên ngành kỹ thuật\n-được chỉ báo\n-được chỉ thị
-
+indicated	
+@Chuyên ngành kỹ thuật
+-được chỉ báo
+-được chỉ thị

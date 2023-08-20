@@ -1,3 +1,11 @@
-subclass
-	@subclass /'sʌbklɑ:s/\n*  danh từ\n- (sinh vật học) phân lớp\n@Chuyên ngành kỹ thuật\n-lớp con\n-lớp phụ\n@Lĩnh vực: toán & tin\n-dạng con\n-lớp phụ, lớp con\n@Lĩnh vực: hóa học & vật liệu\n-phụ lớp
-
+subclass	@subclass /'sʌbklɑ:s/
+*  danh từ
+- (sinh vật học) phân lớp
+@Chuyên ngành kỹ thuật
+-lớp con
+-lớp phụ
+@Lĩnh vực: toán & tin
+-dạng con
+-lớp phụ, lớp con
+@Lĩnh vực: hóa học & vật liệu
+-phụ lớp

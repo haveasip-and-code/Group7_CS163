@@ -1,3 +1,17 @@
-subgrade
-	@subgrade\n* danh từ\n- mặt đất san bằng để đắp nền\n@Chuyên ngành kỹ thuật\n-lớp dưới\n-lớp móng\n-nền đất\n-mặt đường đất\n@Lĩnh vực: xây dựng\n-lớp dưới nền đường\n-lớp mặt nền\n-lớp nền đất\n-nền tường đất\n-mặt đắp nền\n-san nền đất\n-sự lát nền\n-tầng thổ nhưỡng
-
+subgrade	@subgrade
+* danh từ
+- mặt đất san bằng để đắp nền
+@Chuyên ngành kỹ thuật
+-lớp dưới
+-lớp móng
+-nền đất
+-mặt đường đất
+@Lĩnh vực: xây dựng
+-lớp dưới nền đường
+-lớp mặt nền
+-lớp nền đất
+-nền tường đất
+-mặt đắp nền
+-san nền đất
+-sự lát nền
+-tầng thổ nhưỡng

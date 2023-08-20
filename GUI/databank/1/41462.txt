@@ -1,3 +1,14 @@
-pickling
-	@Chuyên ngành kinh tế\n-sự dầm giấm\n-sự muối\n@Chuyên ngành kỹ thuật\n-sự khắc axit\n-sự rửa\n-sự tẩy\n-sự tẩy gỉ\n@Lĩnh vực: hóa học & vật liệu\n-dung dịch axit để tẩy\n@Lĩnh vực: xây dựng\n-sự khoét\n-sự tẩy gỉ (bằng axit)\n-sự tẩy sạch (bằng hóa chất)
-
+pickling	@Chuyên ngành kinh tế
+-sự dầm giấm
+-sự muối
+@Chuyên ngành kỹ thuật
+-sự khắc axit
+-sự rửa
+-sự tẩy
+-sự tẩy gỉ
+@Lĩnh vực: hóa học & vật liệu
+-dung dịch axit để tẩy
+@Lĩnh vực: xây dựng
+-sự khoét
+-sự tẩy gỉ (bằng axit)
+-sự tẩy sạch (bằng hóa chất)

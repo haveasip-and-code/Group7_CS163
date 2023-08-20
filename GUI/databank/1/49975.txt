@@ -1,3 +1,7 @@
-sermon
-	@sermon /'sə:mən/\n*  danh từ\n- bài giảng đạo, bài thuyết giáo, bài thuyết pháp\n- lời khiển trách, lời quở mắng, lời lên lớp ((nghĩa bóng))\n*  ngoại động từ\n- thuyết giáo, thuyết pháp\n- quở mắng, lên lớp (nghĩa bóng)
-
+sermon	@sermon /'sə:mən/
+*  danh từ
+- bài giảng đạo, bài thuyết giáo, bài thuyết pháp
+- lời khiển trách, lời quở mắng, lời lên lớp ((nghĩa bóng))
+*  ngoại động từ
+- thuyết giáo, thuyết pháp
+- quở mắng, lên lớp (nghĩa bóng)

@@ -1,3 +1,18 @@
-subassembly
-	@subassembly\n* danh từ\n- sự lắp ráp (máy) từng cụm\n- cụm lắp ráp\n@Chuyên ngành kỹ thuật\n-phụ kiện phụ\n@Lĩnh vực: toán & tin\n-bộ phận lắp ghép\n@Lĩnh vực: cơ khí & công trình\n-bộ phận lắp ráp\n-cụm lắp ráp\n-sự lắp bộ phận\n-sự lắp cụm\n-sự lắp giáp cụm\n@Lĩnh vực: điện lạnh\n-cụm lắp ráp nhỏ\n@Lĩnh vực: ô tô\n-cụm tổng thành (cụm chi tiết đã ráp)
-
+subassembly	@subassembly
+* danh từ
+- sự lắp ráp (máy) từng cụm
+- cụm lắp ráp
+@Chuyên ngành kỹ thuật
+-phụ kiện phụ
+@Lĩnh vực: toán & tin
+-bộ phận lắp ghép
+@Lĩnh vực: cơ khí & công trình
+-bộ phận lắp ráp
+-cụm lắp ráp
+-sự lắp bộ phận
+-sự lắp cụm
+-sự lắp giáp cụm
+@Lĩnh vực: điện lạnh
+-cụm lắp ráp nhỏ
+@Lĩnh vực: ô tô
+-cụm tổng thành (cụm chi tiết đã ráp)

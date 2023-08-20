@@ -1,3 +1,15 @@
-remission
-	@remission /ri'miʃn/\n*  danh từ\n- sự tha thứ, sự miễn giảm\n=the remission of a tax+ sự miễn thuế\n- sự thuyên giảm, sự dịu bớt (cơn sốt...)\n@Chuyên ngành kinh tế\n-chuyển tiền\n-sự gởi chuyển tiền\n-sự gởi tiền\n-sự hoàn lại (tiền thuế đã nộp dư)\n-sự miễn\n-xóa bỏ (nợ, thuế...)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuyên giảm
-
+remission	@remission /ri'miʃn/
+*  danh từ
+- sự tha thứ, sự miễn giảm
+=the remission of a tax+ sự miễn thuế
+- sự thuyên giảm, sự dịu bớt (cơn sốt...)
+@Chuyên ngành kinh tế
+-chuyển tiền
+-sự gởi chuyển tiền
+-sự gởi tiền
+-sự hoàn lại (tiền thuế đã nộp dư)
+-sự miễn
+-xóa bỏ (nợ, thuế...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuyên giảm

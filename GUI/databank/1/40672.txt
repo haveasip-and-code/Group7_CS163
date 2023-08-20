@@ -1,3 +1,2 @@
-peripherals
-	@Chuyên ngành kinh tế\n-các thiết bị ngoại vi
-
+peripherals	@Chuyên ngành kinh tế
+-các thiết bị ngoại vi

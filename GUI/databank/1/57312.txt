@@ -1,3 +1,6 @@
-trajectory
-	@trajectory /trædʤikəri/\n*  danh từ\n- đường đạn; quỹ đạo\n@Chuyên ngành kỹ thuật\n-đường đi\n-quỹ đạo
-
+trajectory	@trajectory /trædʤikəri/
+*  danh từ
+- đường đạn; quỹ đạo
+@Chuyên ngành kỹ thuật
+-đường đi
+-quỹ đạo

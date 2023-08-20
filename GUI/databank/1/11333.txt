@@ -1,3 +1,41 @@
-consideration
-	@consideration /kən,sidə'reiʃn/\n*  danh từ\n- sự cân nhắc, sự suy xét, sự nghiên cứu, sự suy nghĩ\n=under consideration+ đáng được xét, đáng được nghiên cứu\n=to give a problem one's careful consideration+ nghiên cứu kỹ vấn đề, cân nhắc kỹ vấn đề\n=to leave out of consideration+ không xét đến, không tính đến\n=to take into consideration+ xét đến, tính đến, quan tâm đến, lưu ý đến\n- sự để ý, sự quan tâm, sự lưu ý\n- sự tôn kính, sự kính trọng\n=to show great consideration for+ tỏ lòng tôn kính (ai)\n- sự đền bù, sự đền đáp; sự bồi thường; tiền thưởng, tiền công\n=for a consideration+ để thưởng công\n- cớ, lý do, lý\n=he will do it on no consideration+ không một lý do gì mà nó sẽ làm điều đó\n- (từ hiếm,nghĩa hiếm) sự quan trọng\n=it's of no consideration at all+ vấn đề chẳng có gì quan trọng cả\n!in consideration of\n- xét đến, tính đến; vì lẽ\n- để đền bù, để đền ơn\n!upon further consideration\n- sau khi nghiên cứu thêm, sau khi suy xét kỹ\n@Chuyên ngành kinh tế\n-lý do\n-nghiền ngẫm\n-sự bồi hoàn\n-sự đền đáp lại\n-sự đối lưu\n-sự đối thường\n-sự xem xét\n-suy tính\n-tiền bảo chứng\n-tiền công\n-tiền đài thọ\n-tiền thưởng\n-vật bồi hoàn\n-vật đền đáp lại\n-vật đối lưu\n-vật đối thường\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sự chú ý\n-sự xét đến
-
+consideration	
+@consideration /kən,sidə'reiʃn/
+*  danh từ
+- sự cân nhắc, sự suy xét, sự nghiên cứu, sự suy nghĩ=under consideration
++ đáng được xét, đáng được nghiên cứu=to give a problem one's careful consideration
++ nghiên cứu kỹ vấn đề, cân nhắc kỹ vấn đề=to leave out of consideration
++ không xét đến, không tính đến=to take into consideration
++ xét đến, tính đến, quan tâm đến, lưu ý đến
+- sự để ý, sự quan tâm, sự lưu ý
+- sự tôn kính, sự kính trọng=to show great consideration for
++ tỏ lòng tôn kính (ai)
+- sự đền bù, sự đền đáp; sự bồi thường; tiền thưởng, tiền công=for a consideration
++ để thưởng công
+- cớ, lý do, lý=he will do it on no consideration
++ không một lý do gì mà nó sẽ làm điều đó
+- (từ hiếm,nghĩa hiếm) sự quan trọng=it's of no consideration at all
++ vấn đề chẳng có gì quan trọng cả!in consideration of
+- xét đến, tính đến; vì lẽ
+- để đền bù, để đền ơn!upon further consideration
+- sau khi nghiên cứu thêm, sau khi suy xét kỹ
+@Chuyên ngành kinh tế
+-lý do
+-nghiền ngẫm
+-sự bồi hoàn
+-sự đền đáp lại
+-sự đối lưu
+-sự đối thường
+-sự xem xét
+-suy tính
+-tiền bảo chứng
+-tiền công
+-tiền đài thọ
+-tiền thưởng
+-vật bồi hoàn
+-vật đền đáp lại
+-vật đối lưu
+-vật đối thường
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự chú ý
+-sự xét đến

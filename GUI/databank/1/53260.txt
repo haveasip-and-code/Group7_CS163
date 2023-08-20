@@ -1,3 +1,5 @@
-steric
-	@steric\n* tính từ\n- thuộc sự bố trí các nguyên tử trong không gian; thuộc không gian\n@Chuyên ngành kỹ thuật\n-không gian
-
+steric	@steric
+* tính từ
+- thuộc sự bố trí các nguyên tử trong không gian; thuộc không gian
+@Chuyên ngành kỹ thuật
+-không gian

@@ -1,3 +1,28 @@
-winch
-	@winch /wint /\n*  danh từ\n- (kỹ thuật) tời\n- (thể dục,thể thao) ống cuộn dây câu\n*  ngoại động từ\n- kéo bằng tời\n@Chuyên ngành kinh tế\n-cái tời (của tàu)\n-máy kéo hàng\n-máy kéo hàng, cái tời\n@Chuyên ngành kỹ thuật\n-bàn tời\n-dụng cụ kích\n-guồn sợi\n-kéo bằng tời\n-kích nâng\n-nâng bằng tời\n-ống cuộn dây câu\n-trục cuộn\n-trục kéo\n@Lĩnh vực: cơ khí & công trình\n-bộ cuốn cáp\n@Lĩnh vực: ô tô\n-bộ quấn tời (cáp)\n@Lĩnh vực: hóa học & vật liệu\n-bộ tời, cái tời\n@Lĩnh vực: điện lạnh\n-tời (quay tay)
-
+winch	@winch /wint /
+*  danh từ
+- (kỹ thuật) tời
+- (thể dục,thể thao) ống cuộn dây câu
+*  ngoại động từ
+- kéo bằng tời
+@Chuyên ngành kinh tế
+-cái tời (của tàu)
+-máy kéo hàng
+-máy kéo hàng, cái tời
+@Chuyên ngành kỹ thuật
+-bàn tời
+-dụng cụ kích
+-guồn sợi
+-kéo bằng tời
+-kích nâng
+-nâng bằng tời
+-ống cuộn dây câu
+-trục cuộn
+-trục kéo
+@Lĩnh vực: cơ khí & công trình
+-bộ cuốn cáp
+@Lĩnh vực: ô tô
+-bộ quấn tời (cáp)
+@Lĩnh vực: hóa học & vật liệu
+-bộ tời, cái tời
+@Lĩnh vực: điện lạnh
+-tời (quay tay)

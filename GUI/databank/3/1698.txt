@@ -1,3 +1,16 @@
-alternating
-	@alternating /'ɔ:ltə:neitiɳ/\n*  tính từ\n- xen kẽ, xen nhau; thay phiên nhau, luân phiên nhau\n- (điện học) xoay chiều\n=alternating current+ dòng điện xoay chiều\n- (kỹ thuật) qua lại\n=alternating motion+ sự chuyển động qua lại\n@Chuyên ngành kỹ thuật\n-đổi dấu\n-luân phiên\n-xen kẽ\n-xoay chiều\n@Lĩnh vực: y học\n-luân phiên, xen kẽ\n@Lĩnh vực: toán & tin\n-thay phiên
-
+alternating	@alternating /'ɔ:ltə:neitiɳ/
+*  tính từ
+- xen kẽ, xen nhau; thay phiên nhau, luân phiên nhau
+- (điện học) xoay chiều
+=alternating current+ dòng điện xoay chiều
+- (kỹ thuật) qua lại
+=alternating motion+ sự chuyển động qua lại
+@Chuyên ngành kỹ thuật
+-đổi dấu
+-luân phiên
+-xen kẽ
+-xoay chiều
+@Lĩnh vực: y học
+-luân phiên, xen kẽ
+@Lĩnh vực: toán & tin
+-thay phiên

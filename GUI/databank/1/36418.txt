@@ -1,3 +1,16 @@
-navigator
-	@navigator /'nævigeitə/\n*  danh từ\n- nhà hàng gải, người đi biển; thuỷ thủ lão luyện\n- (hàng hải); (hàng không) hoa tiêu\n- (từ hiếm,nghĩa hiếm) thợ làm đất, thợ đấu ((cũng) navvy)\n@Chuyên ngành kinh tế\n-hoa tiêu\n-người đi biển\n-người hoa tiêu\n-người lái tàu thủy hay máy bay\n-nhà hàng hải\n@Chuyên ngành kỹ thuật\n-điều hướng\n-hoa tiêu\n-người đi biển\n-nhà hàng hải
-
+navigator	@navigator /'nævigeitə/
+*  danh từ
+- nhà hàng gải, người đi biển; thuỷ thủ lão luyện
+- (hàng hải); (hàng không) hoa tiêu
+- (từ hiếm,nghĩa hiếm) thợ làm đất, thợ đấu ((cũng) navvy)
+@Chuyên ngành kinh tế
+-hoa tiêu
+-người đi biển
+-người hoa tiêu
+-người lái tàu thủy hay máy bay
+-nhà hàng hải
+@Chuyên ngành kỹ thuật
+-điều hướng
+-hoa tiêu
+-người đi biển
+-nhà hàng hải

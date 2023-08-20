@@ -1,3 +1,2 @@
-privateness
-	@privateness\n- xem private
-
+privateness	@privateness
+- xem private

@@ -1,3 +1,23 @@
-admixture
-	@admixture /əd'mikstʃə/\n*  danh từ\n- sự trộn lẫn, sự hỗn hợp\n- vật lộn\n@Chuyên ngành kinh tế\n-sự trộn lẫn\n@Chuyên ngành kỹ thuật\n-chất bẩn\n-chất lẫn\n-chất pha\n-chất phụ gia\n-chất tạp\n-hỗn hợp\n-lượng pha trộn\n-phụ gia\n-sự hỗn hợp\n-sự trộn lẫn\n-tạp chất\n@Lĩnh vực: xây dựng\n-phụ gia bê tông\n@Lĩnh vực: cơ khí & công trình\n-vật trộn
-
+admixture	
+@admixture /əd'mikstʃə/
+*  danh từ
+- sự trộn lẫn, sự hỗn hợp
+- vật lộn
+@Chuyên ngành kinh tế
+-sự trộn lẫn
+@Chuyên ngành kỹ thuật
+-chất bẩn
+-chất lẫn
+-chất pha
+-chất phụ gia
+-chất tạp
+-hỗn hợp
+-lượng pha trộn
+-phụ gia
+-sự hỗn hợp
+-sự trộn lẫn
+-tạp chất
+@Lĩnh vực: xây dựng
+-phụ gia bê tông
+@Lĩnh vực: cơ khí & công trình
+-vật trộn

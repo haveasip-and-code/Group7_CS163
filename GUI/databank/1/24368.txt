@@ -1,3 +1,20 @@
-grooving
-	@grooving\n* danh từ\n- sự bào rãnh, soi rãnh, đào rãnh\n@Chuyên ngành kỹ thuật\n-bào rãnh\n-khe\n-rãnh\n-sự cắt rãnh\n-sự định khuôn\n-sự khía rãnh\n-sự xẻ rãnh\n-sự xoi rãnh\n@Lĩnh vực: xây dựng\n-sự bào soi\n-sự đục lõm\n-sự tạo khe\n-sự tạo rãnh\n@Lĩnh vực: cơ khí & công trình\n-sự làm rãnh
-
+grooving	
+@grooving
+* danh từ
+- sự bào rãnh, soi rãnh, đào rãnh
+@Chuyên ngành kỹ thuật
+-bào rãnh
+-khe
+-rãnh
+-sự cắt rãnh
+-sự định khuôn
+-sự khía rãnh
+-sự xẻ rãnh
+-sự xoi rãnh
+@Lĩnh vực: xây dựng
+-sự bào soi
+-sự đục lõm
+-sự tạo khe
+-sự tạo rãnh
+@Lĩnh vực: cơ khí & công trình
+-sự làm rãnh

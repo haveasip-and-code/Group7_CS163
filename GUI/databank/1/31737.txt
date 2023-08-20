@@ -1,3 +1,4 @@
-leadman
-	@Chuyên ngành kỹ thuật\n-kíp trưởng\n@Chuyên ngành kỹ thuật\n-kíp trưởng
-
+leadman	@Chuyên ngành kỹ thuật
+-kíp trưởng
+@Chuyên ngành kỹ thuật
+-kíp trưởng

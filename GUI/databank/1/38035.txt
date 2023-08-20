@@ -1,3 +1,2 @@
-option
-	@option\n- sự lựa chọn, luật lựa chọn
-
+option	@option
+- sự lựa chọn, luật lựa chọn

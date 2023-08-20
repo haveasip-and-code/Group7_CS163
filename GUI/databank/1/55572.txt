@@ -1,3 +1,10 @@
-taping
-	@taping\n* danh từ\n- sự quấn bọc (bằng băng cách điện)\n- sự đo bằng thước dây\n@Chuyên ngành kỹ thuật\n-cuộn dây\n-ghi dữ liệu\n-sự cuốn\n@Lĩnh vực: xây dựng\n-cách cuốn
-
+taping	@taping
+* danh từ
+- sự quấn bọc (bằng băng cách điện)
+- sự đo bằng thước dây
+@Chuyên ngành kỹ thuật
+-cuộn dây
+-ghi dữ liệu
+-sự cuốn
+@Lĩnh vực: xây dựng
+-cách cuốn

@@ -1,3 +1,37 @@
-rain
-	@rain /rein/\n*  danh từ\n- mưa\n=to be caught in the rain+ bị mưa\n=to keep the rain out+ cho khỏi bị mưa, cho mưa khỏi vào\n=a rain of fire+ trận mưa đạn\n=rain of tears+ khóc như mưa\n=rain or shine+ dù mưa hay nắng\n- (the rains) mùa mưa\n- (the Rains) (hàng hải) vùng mưa ở Đại tây dương (4 10 o độ vĩ bắc)\n!after rain comes fair weather (sunshine)\n- hết cơn bĩ cực tới hồi thái lai\n!to get out of the rain\n- tránh được những điều bực mình khó chịu\n!not to know enough to get out of the rain\n- (nghĩa bóng) không biết tính toán, không biết cách làm ăn; xuẩn ngốc\n!right as rain\n- (thông tục) mạnh giỏi cả; tốt lành cả; đâu vào đó cả\n*  động từ\n- mưa, trút xuống như mưa ((nghĩa đen) & (nghĩa bóng))\n=it is raining hard+ trời mưa to\n=it has rained itself out+ mưa đã tạnh\n=to rain blows on someone+ đấm ai túi bụi\n=to rain bullets+ bắn đạn như mưa\n=to rain tears+ khóc như mưa, nước mắt giàn giụa\n!to come in when it rain\n- (nghĩa bóng) tránh được những điều bực mình khó chịu\n!it rains cats and dogs\n- trời mưa như trút\n!it never rains but it pours\n- (xem) pour\n!not to know enough to go in when it rains\n- (nghĩa bóng) không biết tính toán, không biết cách làm ăn; xuẩn ngốc\n@Chuyên ngành kỹ thuật\n-mưa\n@Lĩnh vực: xây dựng\n-trút xuống như mưa
-
+rain	@rain /rein/
+*  danh từ
+- mưa
+=to be caught in the rain+ bị mưa
+=to keep the rain out+ cho khỏi bị mưa, cho mưa khỏi vào
+=a rain of fire+ trận mưa đạn
+=rain of tears+ khóc như mưa
+=rain or shine+ dù mưa hay nắng
+- (the rains) mùa mưa
+- (the Rains) (hàng hải) vùng mưa ở Đại tây dương (4 10 o độ vĩ bắc)
+!after rain comes fair weather (sunshine)
+- hết cơn bĩ cực tới hồi thái lai
+!to get out of the rain
+- tránh được những điều bực mình khó chịu
+!not to know enough to get out of the rain
+- (nghĩa bóng) không biết tính toán, không biết cách làm ăn; xuẩn ngốc
+!right as rain
+- (thông tục) mạnh giỏi cả; tốt lành cả; đâu vào đó cả
+*  động từ
+- mưa, trút xuống như mưa ((nghĩa đen) & (nghĩa bóng))
+=it is raining hard+ trời mưa to
+=it has rained itself out+ mưa đã tạnh
+=to rain blows on someone+ đấm ai túi bụi
+=to rain bullets+ bắn đạn như mưa
+=to rain tears+ khóc như mưa, nước mắt giàn giụa
+!to come in when it rain
+- (nghĩa bóng) tránh được những điều bực mình khó chịu
+!it rains cats and dogs
+- trời mưa như trút
+!it never rains but it pours
+- (xem) pour
+!not to know enough to go in when it rains
+- (nghĩa bóng) không biết tính toán, không biết cách làm ăn; xuẩn ngốc
+@Chuyên ngành kỹ thuật
+-mưa
+@Lĩnh vực: xây dựng
+-trút xuống như mưa

@@ -1,3 +1,2 @@
-consenter
-	@consenter\n- xem consent
-
+consenter	@consenter
+- xem consent

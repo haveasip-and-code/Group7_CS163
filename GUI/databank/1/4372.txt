@@ -1,3 +1,6 @@
-backhoe
-	@Chuyên ngành kỹ thuật\n-máy đào lùi\n@Lĩnh vực: môi trường\n-gàu xúc ngược\n-máy đào sâu
-
+backhoe	
+@Chuyên ngành kỹ thuật
+-máy đào lùi
+@Lĩnh vực: môi trường
+-gàu xúc ngược
+-máy đào sâu

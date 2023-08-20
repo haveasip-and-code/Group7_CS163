@@ -1,3 +1,8 @@
-shareware
-	@shareware\n- phần mềm cổ đông, phần mềm tự nguyện\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-phần mềm chia sẻ\n-phần mềm cổ đông\n-phần mềm dùng chung\n-phần mềm tự nguyện
-
+shareware	@shareware
+- phần mềm cổ đông, phần mềm tự nguyện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phần mềm chia sẻ
+-phần mềm cổ đông
+-phần mềm dùng chung
+-phần mềm tự nguyện

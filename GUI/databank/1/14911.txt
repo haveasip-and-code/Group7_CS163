@@ -1,3 +1,19 @@
-determinant
-	@determinant\n- (đại số) định thức\n- d. of a matrix định thức của ma trận\n- adjoint d. định thức phó, định thức liên hợp\n- adjugate d. định thức phụ hợp\n- alternate d. định thức thay phiên\n- axisymmetric d. định thức đối xứng qua đường chéo\n- bordered d. định thức được viền\n- characteristic d. định thức đặc trưng\n- composite d. định thức đa hợp\n- compound d.s định thức đa hợp\n- cubic d. định thức bậc ba\n- group d. định thức nhóm\n- minor d. định thức con\n- signular d. định thức kỳ dị\n- skew-symmetric d. định thức đối xứng lệch\n- symmetric d. định thức đối xứng
-
+determinant	
+@determinant
+- (đại số) định thức
+- d. of a matrix định thức của ma trận
+- adjoint d. định thức phó, định thức liên hợp
+- adjugate d. định thức phụ hợp
+- alternate d. định thức thay phiên
+- axisymmetric d. định thức đối xứng qua đường chéo
+- bordered d. định thức được viền
+- characteristic d. định thức đặc trưng
+- composite d. định thức đa hợp
+- compound d.s định thức đa hợp
+- cubic d. định thức bậc ba
+- group d. định thức nhóm
+- minor d. định thức con
+- signular d. định thức kỳ dị
+- skew
+-symmetric d. định thức đối xứng lệch
+- symmetric d. định thức đối xứng

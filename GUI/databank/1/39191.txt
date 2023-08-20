@@ -1,3 +1,41 @@
-paddle
-	@paddle /'pædl/\n*  danh từ\n- cái giầm; cánh (guồng nước)\n=double paddle+ mái xuồng chèo cả hai đầu\n- cuộc bơi xuồng, sự chèo xuồng\n- (động vật học),  (như) flipper\n- chèo bằng giầm\n*  nội động từ\n- chèo thuyền bằng giầm\n- chèo nhẹ nhàng\n- lội nước\n- vầy, vọc, nghịch bằng ngón tay\n=to paddle in (on, about) something+ vầy một vật gì\n- đi chập chững (trẻ con)\n!to paddle one's own canoe\n- (xem) canoe\n@Chuyên ngành kinh tế\n-cánh khuấy\n-khuấy trộn\n-máng thuộc da\n-vẩy cá\n@Chuyên ngành kỹ thuật\n-cần điều khiển\n-cánh\n-cánh cửa gỗ\n-cánh khuấy\n-cánh quạt\n-cánh trộn\n-chèo\n-cửa van\n-mái chèo\n-tấm\n@Lĩnh vực: toán & tin\n-bộ điều chỉnh (trong trò chơi)\n@Lĩnh vực: xây dựng\n-cánh (trộn tua bin)\n-đi khênh khạng\n-đi lạch bạch\n-khỏa nước\n@Lĩnh vực: cơ khí & công trình\n-cánh quạt (tuabin)
-
+paddle	@paddle /'pædl/
+*  danh từ
+- cái giầm; cánh (guồng nước)
+=double paddle+ mái xuồng chèo cả hai đầu
+- cuộc bơi xuồng, sự chèo xuồng
+- (động vật học),  (như) flipper
+- chèo bằng giầm
+*  nội động từ
+- chèo thuyền bằng giầm
+- chèo nhẹ nhàng
+- lội nước
+- vầy, vọc, nghịch bằng ngón tay
+=to paddle in (on, about) something+ vầy một vật gì
+- đi chập chững (trẻ con)
+!to paddle one's own canoe
+- (xem) canoe
+@Chuyên ngành kinh tế
+-cánh khuấy
+-khuấy trộn
+-máng thuộc da
+-vẩy cá
+@Chuyên ngành kỹ thuật
+-cần điều khiển
+-cánh
+-cánh cửa gỗ
+-cánh khuấy
+-cánh quạt
+-cánh trộn
+-chèo
+-cửa van
+-mái chèo
+-tấm
+@Lĩnh vực: toán & tin
+-bộ điều chỉnh (trong trò chơi)
+@Lĩnh vực: xây dựng
+-cánh (trộn tua bin)
+-đi khênh khạng
+-đi lạch bạch
+-khỏa nước
+@Lĩnh vực: cơ khí & công trình
+-cánh quạt (tuabin)

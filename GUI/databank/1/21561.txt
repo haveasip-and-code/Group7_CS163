@@ -1,3 +1,8 @@
-flowery
-	@flowery /flowery/\n*  tính từ\n- có nhiều hoa, đầy hoa\n=flowery fields+ cánh đồng đầy hoa\n- văn hoa, hoa mỹ\n=flowery language+ ngôn ngữ văn hoa\n=flowery words+ lời lẽ hoa mỹ
-
+flowery	
+@flowery /flowery/
+*  tính từ
+- có nhiều hoa, đầy hoa=flowery fields
++ cánh đồng đầy hoa
+- văn hoa, hoa mỹ=flowery language
++ ngôn ngữ văn hoa=flowery words
++ lời lẽ hoa mỹ

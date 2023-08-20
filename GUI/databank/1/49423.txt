@@ -1,3 +1,13 @@
-searcher
-	@searcher\n* danh từ\n- dụng cụ dò tìm\n@Chuyên ngành kinh tế\n-nhân viên kiểm tra (hải quan)\n-nhân viên kiểm tra (hải quan...)\n@Chuyên ngành kỹ thuật\n-người đi tìm kiếm\n-người thăm dò\n-người tìm kiếm\n-thiết bị kiểm tra\n@Lĩnh vực: cơ khí & công trình\n-thiết bị nghiên cứu
-
+searcher	@searcher
+* danh từ
+- dụng cụ dò tìm
+@Chuyên ngành kinh tế
+-nhân viên kiểm tra (hải quan)
+-nhân viên kiểm tra (hải quan...)
+@Chuyên ngành kỹ thuật
+-người đi tìm kiếm
+-người thăm dò
+-người tìm kiếm
+-thiết bị kiểm tra
+@Lĩnh vực: cơ khí & công trình
+-thiết bị nghiên cứu

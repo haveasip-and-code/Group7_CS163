@@ -1,3 +1,8 @@
-miscible
-	@miscible /'misibl/\n*  tính từ\n- (+ with) có thể trộn lẫn với, có thể hỗn hợp với\n@Chuyên ngành kinh tế\n-có thể trộn lẫn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hỗn hợp được
-
+miscible	@miscible /'misibl/
+*  tính từ
+- (+ with) có thể trộn lẫn với, có thể hỗn hợp với
+@Chuyên ngành kinh tế
+-có thể trộn lẫn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hỗn hợp được

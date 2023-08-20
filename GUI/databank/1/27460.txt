@@ -1,3 +1,6 @@
-implementor
-	@Chuyên ngành kỹ thuật\n-người thực thi\n@Lĩnh vực: toán & tin\n-người cài đặt\n-tác giả
-
+implementor	
+@Chuyên ngành kỹ thuật
+-người thực thi
+@Lĩnh vực: toán & tin
+-người cài đặt
+-tác giả

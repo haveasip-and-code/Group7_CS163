@@ -1,3 +1,12 @@
-pardon
-	@pardon /'pɑ:dn/\n*  danh từ\n- sự tha thứ, sự tha lỗi\n=to ask for pardon+ xin tha thứ\n=I beg your pardon+ xin lỗi; xin nhắc lại\n- (pháp lý) sự ăn xài\n=general pardon+ đại ân xá\n*  ngoại động từ\n- tha thứ, tha lỗi, xá tội\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tha tội
-
+pardon	@pardon /'pɑ:dn/
+*  danh từ
+- sự tha thứ, sự tha lỗi
+=to ask for pardon+ xin tha thứ
+=I beg your pardon+ xin lỗi; xin nhắc lại
+- (pháp lý) sự ăn xài
+=general pardon+ đại ân xá
+*  ngoại động từ
+- tha thứ, tha lỗi, xá tội
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-tha tội

@@ -1,3 +1,47 @@
-current
-	@current /'kʌrənt/\n*  danh từ\n- dòng (nước); luồng (gió, không khí); (điện học) dòng điện\n=direct current+ dòng điện một chiều\n=alternative current+ dòng điện xoay chiều\n- dòng, luồng, chiều, hướng (dư luận, tư tưởng...)\n=the current of time+ dòng thời gian\n=the current of thought+ luồng tư tưởng\n!against the current\n- ngược dòng\n!to breast the current\n- đi ngược dòng\n!to go with the current\n- đi theo dòng, đi xuôi dòng\n*  tính từ\n- hiện hành, đang lưu hành\n=current money+ tiền đang lưu hành\n- phổ biến, thịnh hành, thông dụng\n=current opinions+ ý kiến (quan điểm) phổ biến\n- hiện thời, hiện nay, này\n=the current month+ tháng này\n=the current issue+ số (báo) kỳ này\n!to go (pass, run) current\n- được thừa nhận, được dư luận chung công nhận là đúng (là thật)\n@Chuyên ngành kinh tế\n-đang lưu hành\n-hiện hành\n-hiện thời\n@Chuyên ngành kỹ thuật\n-cường độ dòng điện\n-dòng\n-dòng chảy\n-dòng điện\n-hiện hành\n-hiện tại\n-hiện thời\n-luồng\n-lưu hành\n-lưu thông\n@Lĩnh vực: điện lạnh\n-đang xảy ra\n@Lĩnh vực: toán & tin\n-dòng hiện hành\n@Lĩnh vực: y học\n-dòng, dòng điện\n@Lĩnh vực: điện\n-luồng điện
-
+current	@current /'kʌrənt/
+*  danh từ
+- dòng (nước); luồng (gió, không khí); (điện học) dòng điện
+=direct current+ dòng điện một chiều
+=alternative current+ dòng điện xoay chiều
+- dòng, luồng, chiều, hướng (dư luận, tư tưởng...)
+=the current of time+ dòng thời gian
+=the current of thought+ luồng tư tưởng
+!against the current
+- ngược dòng
+!to breast the current
+- đi ngược dòng
+!to go with the current
+- đi theo dòng, đi xuôi dòng
+*  tính từ
+- hiện hành, đang lưu hành
+=current money+ tiền đang lưu hành
+- phổ biến, thịnh hành, thông dụng
+=current opinions+ ý kiến (quan điểm) phổ biến
+- hiện thời, hiện nay, này
+=the current month+ tháng này
+=the current issue+ số (báo) kỳ này
+!to go (pass, run) current
+- được thừa nhận, được dư luận chung công nhận là đúng (là thật)
+@Chuyên ngành kinh tế
+-đang lưu hành
+-hiện hành
+-hiện thời
+@Chuyên ngành kỹ thuật
+-cường độ dòng điện
+-dòng
+-dòng chảy
+-dòng điện
+-hiện hành
+-hiện tại
+-hiện thời
+-luồng
+-lưu hành
+-lưu thông
+@Lĩnh vực: điện lạnh
+-đang xảy ra
+@Lĩnh vực: toán & tin
+-dòng hiện hành
+@Lĩnh vực: y học
+-dòng, dòng điện
+@Lĩnh vực: điện
+-luồng điện

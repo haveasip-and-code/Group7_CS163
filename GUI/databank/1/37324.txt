@@ -1,3 +1,9 @@
-obfuscate
-	@obfuscate /'ɔbfʌkeit/\n*  ngoại động từ\n- làm đen tối (đầu óc), làm ngu muội\n- làm hoang mang, làm bối rối\n@Chuyên ngành kỹ thuật\n-làm tối\n-lu mờ\n@Lĩnh vực: toán & tin\n-làm tối, lu mờ
-
+obfuscate	@obfuscate /'ɔbfʌkeit/
+*  ngoại động từ
+- làm đen tối (đầu óc), làm ngu muội
+- làm hoang mang, làm bối rối
+@Chuyên ngành kỹ thuật
+-làm tối
+-lu mờ
+@Lĩnh vực: toán & tin
+-làm tối, lu mờ

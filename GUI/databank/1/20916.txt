@@ -1,3 +1,20 @@
-fibrous
-	@fibrous /'faibrəs/\n*  tính từ\n- có sợi, có thớ, có xơ\n@Chuyên ngành kỹ thuật\n-có thớ\n-dạng sợi\n-sợi\n-xơ\n@Lĩnh vực: xây dựng\n-có dạng sợi\n-dạng xơ\n@Chuyên ngành kỹ thuật\n-có thớ\n-dạng sợi\n-sợi\n-xơ\n@Lĩnh vực: xây dựng\n-có dạng sợi\n-dạng xơ
-
+fibrous	
+@fibrous /'faibrəs/
+*  tính từ
+- có sợi, có thớ, có xơ
+@Chuyên ngành kỹ thuật
+-có thớ
+-dạng sợi
+-sợi
+-xơ
+@Lĩnh vực: xây dựng
+-có dạng sợi
+-dạng xơ
+@Chuyên ngành kỹ thuật
+-có thớ
+-dạng sợi
+-sợi
+-xơ
+@Lĩnh vực: xây dựng
+-có dạng sợi
+-dạng xơ

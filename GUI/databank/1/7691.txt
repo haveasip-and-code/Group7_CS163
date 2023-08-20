@@ -1,3 +1,6 @@
-cancellable
-	@cancellable\n- giản ước được\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-giản ước được
-
+cancellable	
+@cancellable
+- giản ước được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-giản ước được

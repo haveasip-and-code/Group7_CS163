@@ -1,3 +1,7 @@
-steppe
-	@steppe /step/\n*  danh từ\n- thảo nguyên\n@Chuyên ngành kỹ thuật\n-đồng cỏ\n@Lĩnh vực: xây dựng\n-thảo nguyên
-
+steppe	@steppe /step/
+*  danh từ
+- thảo nguyên
+@Chuyên ngành kỹ thuật
+-đồng cỏ
+@Lĩnh vực: xây dựng
+-thảo nguyên

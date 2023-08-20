@@ -1,3 +1,32 @@
-scalp
-	@scalp /skælp/\n*  danh từ\n- da đầu\n- mảnh da đầu còn tóc (người da đỏ thường lấy của kẻ thù bại trận)\n- mảnh da chó, mảnh da đầu chó sói\n- đầu cá voi (không có hàm dưới)\n- ngọn đồi trọc\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) tiền lãi kiếm được do mua đi bán lại lặt vặt\n!out for scalps\n- đang ở trong một cuộc xung đột; (nghĩa bóng) gây sự, gây gỗ, hung hăng\n*  ngoại động từ\n- lột lấy mảnh da đầu (người bại trận)\n- đả kích kịch liệt\n- (từ Mỹ,nghĩa Mỹ) lừa bịp; ăn trộm\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) buôn đi bán lại để kiếm chác; đầu cơ (vé rạp hát...) để kiếm chác\n*  nội động từ\n- (từ Mỹ,nghĩa Mỹ),  (thông tục) buôn đi bán lại để kiếm chác; đầu cơ để kiếm chác\n@Chuyên ngành kinh tế\n-cấu tử không lọt sàng\n-đầu cơ, buôn chứng khoán loại nhỏ\n-máy sàng nhiều tầng\n-sàng\n-sự phân loại sản phẩm lọt sàng\n-sự phân loại sản phẩm nghiền\n@Chuyên ngành kỹ thuật\n-phôi ống\n@Lĩnh vực: hóa học & vật liệu\n-cất ngọn (dầu mỏ)\n@Lĩnh vực: y học\n-da đầu\n@Lĩnh vực: cơ khí & công trình\n-phôi làm ống hàn (bằng băng thép)
-
+scalp	@scalp /skælp/
+*  danh từ
+- da đầu
+- mảnh da đầu còn tóc (người da đỏ thường lấy của kẻ thù bại trận)
+- mảnh da chó, mảnh da đầu chó sói
+- đầu cá voi (không có hàm dưới)
+- ngọn đồi trọc
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tiền lãi kiếm được do mua đi bán lại lặt vặt
+!out for scalps
+- đang ở trong một cuộc xung đột; (nghĩa bóng) gây sự, gây gỗ, hung hăng
+*  ngoại động từ
+- lột lấy mảnh da đầu (người bại trận)
+- đả kích kịch liệt
+- (từ Mỹ,nghĩa Mỹ) lừa bịp; ăn trộm
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) buôn đi bán lại để kiếm chác; đầu cơ (vé rạp hát...) để kiếm chác
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) buôn đi bán lại để kiếm chác; đầu cơ để kiếm chác
+@Chuyên ngành kinh tế
+-cấu tử không lọt sàng
+-đầu cơ, buôn chứng khoán loại nhỏ
+-máy sàng nhiều tầng
+-sàng
+-sự phân loại sản phẩm lọt sàng
+-sự phân loại sản phẩm nghiền
+@Chuyên ngành kỹ thuật
+-phôi ống
+@Lĩnh vực: hóa học & vật liệu
+-cất ngọn (dầu mỏ)
+@Lĩnh vực: y học
+-da đầu
+@Lĩnh vực: cơ khí & công trình
+-phôi làm ống hàn (bằng băng thép)

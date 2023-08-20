@@ -1,3 +1,4 @@
-flench
-	@flench /flench/\n*  ngoại động từ\n- chặt khúc (cá voi) ((cũng) flinch)
-
+flench	
+@flench /flench/
+*  ngoại động từ
+- chặt khúc (cá voi) ((cũng) flinch)

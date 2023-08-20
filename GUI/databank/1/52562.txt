@@ -1,3 +1,42 @@
-spoil
-	@spoil /spɔil/\n*  danh từ\n- (số nhiều) chiến lợi phẩm\n- lợi lộc, quyền lợi (sau khi chiến thắng)\n-(đùa cợt) bổng lộc, lương lậu\n- (đánh bài) sự hoà\n- đất đá đào lên, đất bùn nạo vét lên\n*  ngoại động từ spoiled,  spoilt\n- cướp phá, tước đoạt, cướp đoạt\n- làm hư, làm hỏng, làm hại\n=the performance was spoilt by the rain+ mưa làm hỏng cả cuộc biểu diễn\n=the news spoilt his dinner+ tin đó làm cho anh ta ăn cơm mất ngon\n- làm hư (một đứa trẻ)\n=a spoilt child+ một đứa trẻ hư (vì nuông chiều)\n- (từ lóng) chặt chân tay (ai); giết, khử\n*  nội động từ\n- thối, ươn (quả, cá...)\n=these fruit will not spoil with keeping+ những quả này để lâu không thối\n- mất hay, mất thú (câu chuyện đùa)\n- (chỉ động tính từ hiện tại) hăm hở, hậm hực muốn\n=to be spoiling for a fight+ hậm hực muốn đánh nhau\n!spare the rod and spoil the child\n- (xem) rod\n@Chuyên ngành kỹ thuật\n-bị hư hỏng\n-đất thải\n-hư hỏng\n-làm hỏng\n-làm hư\n-làm hư hỏng\n-làm ra phế phẩm\n-thô\n-thối\n@Lĩnh vực: xây dựng\n-đào đất lên\n-đất đá đào lên\n-đất đá thải\n-đất đào bới lên\n-đất đào lên\n-đất dư\n-đất dư (công trình ngầm)\n-đất dư (sau khi đặt cống)
-
+spoil	@spoil /spɔil/
+*  danh từ
+- (số nhiều) chiến lợi phẩm
+- lợi lộc, quyền lợi (sau khi chiến thắng)
+-(đùa cợt) bổng lộc, lương lậu
+- (đánh bài) sự hoà
+- đất đá đào lên, đất bùn nạo vét lên
+*  ngoại động từ spoiled,  spoilt
+- cướp phá, tước đoạt, cướp đoạt
+- làm hư, làm hỏng, làm hại
+=the performance was spoilt by the rain+ mưa làm hỏng cả cuộc biểu diễn
+=the news spoilt his dinner+ tin đó làm cho anh ta ăn cơm mất ngon
+- làm hư (một đứa trẻ)
+=a spoilt child+ một đứa trẻ hư (vì nuông chiều)
+- (từ lóng) chặt chân tay (ai); giết, khử
+*  nội động từ
+- thối, ươn (quả, cá...)
+=these fruit will not spoil with keeping+ những quả này để lâu không thối
+- mất hay, mất thú (câu chuyện đùa)
+- (chỉ động tính từ hiện tại) hăm hở, hậm hực muốn
+=to be spoiling for a fight+ hậm hực muốn đánh nhau
+!spare the rod and spoil the child
+- (xem) rod
+@Chuyên ngành kỹ thuật
+-bị hư hỏng
+-đất thải
+-hư hỏng
+-làm hỏng
+-làm hư
+-làm hư hỏng
+-làm ra phế phẩm
+-thô
+-thối
+@Lĩnh vực: xây dựng
+-đào đất lên
+-đất đá đào lên
+-đất đá thải
+-đất đào bới lên
+-đất đào lên
+-đất dư
+-đất dư (công trình ngầm)
+-đất dư (sau khi đặt cống)

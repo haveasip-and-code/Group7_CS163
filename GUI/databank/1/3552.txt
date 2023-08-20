@@ -1,3 +1,7 @@
-asperse
-	@asperse /əs'pə:s/\n*  ngoại động từ\n- vảy, rảy, rưới\n=to asperse with water+ vảy nước\n- nói xấu, phỉ báng, vu khống; bôi xấu, bôi nhọ\n=to asperse someone's character with false rumours+ làm ô danh ai bằng những lời đồn bậy
-
+asperse	
+@asperse /əs'pə:s/
+*  ngoại động từ
+- vảy, rảy, rưới=to asperse with water
++ vảy nước
+- nói xấu, phỉ báng, vu khống; bôi xấu, bôi nhọ=to asperse someone's character with false rumours
++ làm ô danh ai bằng những lời đồn bậy

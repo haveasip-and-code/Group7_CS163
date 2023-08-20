@@ -1,3 +1,3 @@
-radiochemical
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hóa phóng xạ
-
+radiochemical	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hóa phóng xạ

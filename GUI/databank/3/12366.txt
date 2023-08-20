@@ -1,3 +1,2 @@
-cowedly
-	@cowedly\n- xem cow
-
+cowedly	@cowedly
+- xem cow

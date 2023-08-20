@@ -1,3 +1,34 @@
-chisel
-	@chisel /'tʃizl/\n*  danh từ\n- cái đục, cái chàng\n- (the chisel) nghệ thuật điêu khắc\n- (từ lóng) sự lừa đảo\n*  ngoại động từ\n- đục; chạm trổ\n- (từ lóng) lừa đảo\n@Chuyên ngành kinh tế\n-bột\n-chạm trổ\n-đục\n-sự cắt\n-sự đục\n@Chuyên ngành kỹ thuật\n-cái chàng\n-chạm\n-chạm trổ\n-dao khắc\n-đầu choòng\n-đẽo\n-đục\n-đục lỗ mộng\n-lưỡi xới\n-mũi khoan\n-mũi khoan đập\n-thải\n-xà beng\n@Lĩnh vực: xây dựng\n-cắt phoi\n@Lĩnh vực: vật lý\n-thanh bẩy\n@Lĩnh vực: cơ khí & công trình\n-trở
-
+chisel	@chisel /'tʃizl/
+*  danh từ
+- cái đục, cái chàng
+- (the chisel) nghệ thuật điêu khắc
+- (từ lóng) sự lừa đảo
+*  ngoại động từ
+- đục; chạm trổ
+- (từ lóng) lừa đảo
+@Chuyên ngành kinh tế
+-bột
+-chạm trổ
+-đục
+-sự cắt
+-sự đục
+@Chuyên ngành kỹ thuật
+-cái chàng
+-chạm
+-chạm trổ
+-dao khắc
+-đầu choòng
+-đẽo
+-đục
+-đục lỗ mộng
+-lưỡi xới
+-mũi khoan
+-mũi khoan đập
+-thải
+-xà beng
+@Lĩnh vực: xây dựng
+-cắt phoi
+@Lĩnh vực: vật lý
+-thanh bẩy
+@Lĩnh vực: cơ khí & công trình
+-trở

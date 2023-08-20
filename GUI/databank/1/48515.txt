@@ -1,3 +1,3 @@
-saltbox
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà theo kiểu saltbox (hộp đựng muối)
-
+saltbox	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà theo kiểu saltbox (hộp đựng muối)

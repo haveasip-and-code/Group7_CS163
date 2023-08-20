@@ -1,3 +1,9 @@
-movie
-	@movie /'mu:vi/\n*  danh từ,  (thông tục)\n- phim xi nê\n- rạp chiếu bóng\n- (số nhiều) ngành phim ảnh; nghệ thuật phim xi nê\n=to go to the movies+ đi xem phim\n@Chuyên ngành kỹ thuật\n-điện ảnh\n-phim ảnh
-
+movie	@movie /'mu:vi/
+*  danh từ,  (thông tục)
+- phim xi nê
+- rạp chiếu bóng
+- (số nhiều) ngành phim ảnh; nghệ thuật phim xi nê
+=to go to the movies+ đi xem phim
+@Chuyên ngành kỹ thuật
+-điện ảnh
+-phim ảnh

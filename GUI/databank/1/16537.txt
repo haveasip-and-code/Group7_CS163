@@ -1,3 +1,12 @@
-dosage
-	@dosage /'dousidʤ/\n*  danh từ\n- sự cho liều lượng (thuốc uống)\n- liều lượng\n@Chuyên ngành kinh tế\n-liều lượng\n-máy đong\n-sự đo lường\n@Chuyên ngành kỹ thuật\n-liều lượng\n-sự định lượng
-
+dosage	
+@dosage /'dousidʤ/
+*  danh từ
+- sự cho liều lượng (thuốc uống)
+- liều lượng
+@Chuyên ngành kinh tế
+-liều lượng
+-máy đong
+-sự đo lường
+@Chuyên ngành kỹ thuật
+-liều lượng
+-sự định lượng

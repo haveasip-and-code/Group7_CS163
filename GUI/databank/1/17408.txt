@@ -1,3 +1,7 @@
-editing
-	@Chuyên ngành kỹ thuật\n-soạn thảo\n-sự hiệu chỉnh\n@Lĩnh vực: toán & tin\n-sự biên tập\n-sự soạn thảo
-
+editing	
+@Chuyên ngành kỹ thuật
+-soạn thảo
+-sự hiệu chỉnh
+@Lĩnh vực: toán & tin
+-sự biên tập
+-sự soạn thảo

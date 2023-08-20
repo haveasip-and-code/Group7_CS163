@@ -1,3 +1,2 @@
-patinas
-	@patinas\n- xem patina
-
+patinas	@patinas
+- xem patina

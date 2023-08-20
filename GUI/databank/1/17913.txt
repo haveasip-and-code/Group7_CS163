@@ -1,3 +1,19 @@
-emboss
-	@emboss /im'bɔs/\n*  ngoại động từ\n- chạm nổi, rập nổ, làm nổi\n@Chuyên ngành kinh tế\n-chạm nổi\n-dập nổi\n@Chuyên ngành kỹ thuật\n-hoa nổi\n@Lĩnh vực: xây dựng\n-chạm nổi\n@Lĩnh vực: hóa học & vật liệu\n-in nổi\n@Chuyên ngành kỹ thuật\n-hoa nổi\n@Lĩnh vực: xây dựng\n-chạm nổi\n@Lĩnh vực: hóa học & vật liệu\n-in nổi
-
+emboss	
+@emboss /im'bɔs/
+*  ngoại động từ
+- chạm nổi, rập nổ, làm nổi
+@Chuyên ngành kinh tế
+-chạm nổi
+-dập nổi
+@Chuyên ngành kỹ thuật
+-hoa nổi
+@Lĩnh vực: xây dựng
+-chạm nổi
+@Lĩnh vực: hóa học & vật liệu
+-in nổi
+@Chuyên ngành kỹ thuật
+-hoa nổi
+@Lĩnh vực: xây dựng
+-chạm nổi
+@Lĩnh vực: hóa học & vật liệu
+-in nổi

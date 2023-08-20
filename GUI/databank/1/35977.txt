@@ -1,3 +1,6 @@
-multipath
-	@Chuyên ngành kỹ thuật\n-nhiều đường\n@Lĩnh vực: toán & tin\n-đa đường dẫn\n@Lĩnh vực: điện lạnh\n-truyền nhiều đường
-
+multipath	@Chuyên ngành kỹ thuật
+-nhiều đường
+@Lĩnh vực: toán & tin
+-đa đường dẫn
+@Lĩnh vực: điện lạnh
+-truyền nhiều đường

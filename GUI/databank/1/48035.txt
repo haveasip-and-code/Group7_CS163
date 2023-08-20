@@ -1,3 +1,22 @@
-rotor
-	@rotor /'routə/\n*  danh từ\n- Rôto, khối quay (trong một máy phát điện)\n- cánh quạt (máy bay lên thẳng)\n@Chuyên ngành kỹ thuật\n-bánh cánh quạt\n-bánh dẫn\n-đĩa quay\n-phần quay\n-rôto\n-rôto phân phối\n-rôto, khối quay\n@Lĩnh vực: ô tô\n-bộ phận quay\n-con quay, mỏ quẹt (trong delco)\n@Lĩnh vực: xây dựng\n-phần ứng điện\n-rô tơ\n@Lĩnh vực: toán & tin\n-rôto, phần quay\n@Lĩnh vực: cơ khí & công trình\n-ruột quay máy điện
-
+rotor	@rotor /'routə/
+*  danh từ
+- Rôto, khối quay (trong một máy phát điện)
+- cánh quạt (máy bay lên thẳng)
+@Chuyên ngành kỹ thuật
+-bánh cánh quạt
+-bánh dẫn
+-đĩa quay
+-phần quay
+-rôto
+-rôto phân phối
+-rôto, khối quay
+@Lĩnh vực: ô tô
+-bộ phận quay
+-con quay, mỏ quẹt (trong delco)
+@Lĩnh vực: xây dựng
+-phần ứng điện
+-rô tơ
+@Lĩnh vực: toán & tin
+-rôto, phần quay
+@Lĩnh vực: cơ khí & công trình
+-ruột quay máy điện

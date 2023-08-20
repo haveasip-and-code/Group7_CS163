@@ -1,3 +1,4 @@
-assertions
-	@Chuyên ngành kinh tế\n-các xác nhận\n-xác nhận
-
+assertions	
+@Chuyên ngành kinh tế
+-các xác nhận
+-xác nhận

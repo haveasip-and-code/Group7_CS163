@@ -1,3 +1,15 @@
-interceptor
-	@interceptor /,intə'septə/ (intercepter) /,intə'septə/\n*  danh từ\n- người chặn, cái chắn\n- (quân sự), không máy bay đánh chặn (để chặn máy bay địch)\n@Chuyên ngành kinh tế\n-thiết bị chặn\n-thiết bị tắt\n@Chuyên ngành kỹ thuật\n-cửa van thủy lực\n-đường ống dẫn nước\n-giếng góp nước thải\n-rãnh tập trung nước\n@Lĩnh vực: xây dựng\n-xi phông cống
-
+interceptor	
+@interceptor /,intə'septə/ (intercepter) /,intə'septə/
+*  danh từ
+- người chặn, cái chắn
+- (quân sự), không máy bay đánh chặn (để chặn máy bay địch)
+@Chuyên ngành kinh tế
+-thiết bị chặn
+-thiết bị tắt
+@Chuyên ngành kỹ thuật
+-cửa van thủy lực
+-đường ống dẫn nước
+-giếng góp nước thải
+-rãnh tập trung nước
+@Lĩnh vực: xây dựng
+-xi phông cống

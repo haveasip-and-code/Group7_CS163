@@ -1,3 +1,6 @@
-sentry
-	@sentry /'sentri/\n*  danh từ\n- (quân sự) lính gác\n- sự canh gác\n=to keep sentry+ canh gác\n=to relieve sentry+ đổi gác, thay phiên gác
-
+sentry	@sentry /'sentri/
+*  danh từ
+- (quân sự) lính gác
+- sự canh gác
+=to keep sentry+ canh gác
+=to relieve sentry+ đổi gác, thay phiên gác

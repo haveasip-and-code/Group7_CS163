@@ -1,3 +1,26 @@
-corona
-	@corona /kə'rounə/\n*  danh từ,  số nhiều coronae\n- (thiên văn học) tán mặt trăng, mặt trời)\n- đèn treo tròn (ở giữa vòm trần nhà thờ)\n- (điện học) điện hoa\n- (giải phẫu) vành\n- (giải phẫu) thân răng\n@Chuyên ngành kỹ thuật\n-cực quang\n-điện hoa\n-hào quang\n-nhật hoa\n-phóng điện hoa\n-quầng\n-tán\n-vầng quang\n-vành\n@Lĩnh vực: toán & tin\n-điện hóa\n@Lĩnh vực: điện tử & viễn thông\n-hiệu ứng quầng sáng\n@Lĩnh vực: điện\n-quầng sáng\n-vầng sáng\n@Lĩnh vực: y học\n-vành, vòng tán
-
+corona	@corona /kə'rounə/
+*  danh từ,  số nhiều coronae
+- (thiên văn học) tán mặt trăng, mặt trời)
+- đèn treo tròn (ở giữa vòm trần nhà thờ)
+- (điện học) điện hoa
+- (giải phẫu) vành
+- (giải phẫu) thân răng
+@Chuyên ngành kỹ thuật
+-cực quang
+-điện hoa
+-hào quang
+-nhật hoa
+-phóng điện hoa
+-quầng
+-tán
+-vầng quang
+-vành
+@Lĩnh vực: toán & tin
+-điện hóa
+@Lĩnh vực: điện tử & viễn thông
+-hiệu ứng quầng sáng
+@Lĩnh vực: điện
+-quầng sáng
+-vầng sáng
+@Lĩnh vực: y học
+-vành, vòng tán

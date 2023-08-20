@@ -1,3 +1,4 @@
-ribbing
-	@Chuyên ngành kinh tế\n-sự bổ xúc thịt theo sườn\n@Chuyên ngành kỹ thuật\n-sự tạo gân
-
+ribbing	@Chuyên ngành kinh tế
+-sự bổ xúc thịt theo sườn
+@Chuyên ngành kỹ thuật
+-sự tạo gân

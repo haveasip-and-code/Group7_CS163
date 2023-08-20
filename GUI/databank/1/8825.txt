@@ -1,3 +1,6 @@
-chartering
-	@Chuyên ngành kinh tế\n-thuê tàu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thuê tàu thuyền
-
+chartering	
+@Chuyên ngành kinh tế
+-thuê tàu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thuê tàu thuyền

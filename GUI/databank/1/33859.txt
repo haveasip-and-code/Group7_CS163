@@ -1,3 +1,5 @@
-masthead
-	@masthead\n- Trong lĩnh vực ấn loát văn phòng, đây là một phần của thư tin tức hoặc tạp chí, chứa các chi tiết về ban quản lý, người sở hữu, danh sách quảng cáo, giá mua dài hạn v v\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-đỉnh cột buồm
-
+masthead	@masthead
+- Trong lĩnh vực ấn loát văn phòng, đây là một phần của thư tin tức hoặc tạp chí, chứa các chi tiết về ban quản lý, người sở hữu, danh sách quảng cáo, giá mua dài hạn v v
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-đỉnh cột buồm

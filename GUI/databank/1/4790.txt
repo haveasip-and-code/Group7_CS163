@@ -1,3 +1,15 @@
-barricade
-	@barricade /,bæri'keid/\n*  danh từ\n- vật chướng ngại (để chặn, phòng thủ)\n@Chuyên ngành kỹ thuật\n-hàng rào\n-hàng rào bảo vệ\n-lớp chắn\n-ngăn chặn\n-rào chắn\n-vật cản\n-vật chướng ngại\n@Lĩnh vực: xây dựng\n-cữ chắn\n-đặt vật chắn
-
+barricade	
+@barricade /,bæri'keid/
+*  danh từ
+- vật chướng ngại (để chặn, phòng thủ)
+@Chuyên ngành kỹ thuật
+-hàng rào
+-hàng rào bảo vệ
+-lớp chắn
+-ngăn chặn
+-rào chắn
+-vật cản
+-vật chướng ngại
+@Lĩnh vực: xây dựng
+-cữ chắn
+-đặt vật chắn

@@ -1,3 +1,9 @@
-presuppose
-	@presuppose /,pri:sə'pouz/\n*  ngoại động từ\n- giả định trước, phỏng định trước, đoán chừng trước\n- bao hàm\n=effects presuppose causes+ kết quả bao hàm nguyên nhân\n@Chuyên ngành kỹ thuật\n-giả sử\n@Lĩnh vực: toán & tin\n-giả định trước
-
+presuppose	@presuppose /,pri:sə'pouz/
+*  ngoại động từ
+- giả định trước, phỏng định trước, đoán chừng trước
+- bao hàm
+=effects presuppose causes+ kết quả bao hàm nguyên nhân
+@Chuyên ngành kỹ thuật
+-giả sử
+@Lĩnh vực: toán & tin
+-giả định trước

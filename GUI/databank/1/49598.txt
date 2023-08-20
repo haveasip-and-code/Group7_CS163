@@ -1,3 +1,21 @@
-segregate
-	@segregate /'segrigit/\n*  tính từ\n- (động vật học) ở đơn độc\n- (từ cổ,nghĩa cổ) tách riêng, riêng biệt\n*  động từ\n- tách riêng, chia riêng ra\n@Chuyên ngành kỹ thuật\n-cô lập\n-làm tách rời\n-ly gián\n-phân chia\n-phân ly\n-phân tách\n-phân tầng\n-tách\n-tách ra\n@Lĩnh vực: toán & tin\n-tách ra, cô lập\n@Lĩnh vực: cơ khí & công trình\n-tách riêng\n-vật tách
-
+segregate	@segregate /'segrigit/
+*  tính từ
+- (động vật học) ở đơn độc
+- (từ cổ,nghĩa cổ) tách riêng, riêng biệt
+*  động từ
+- tách riêng, chia riêng ra
+@Chuyên ngành kỹ thuật
+-cô lập
+-làm tách rời
+-ly gián
+-phân chia
+-phân ly
+-phân tách
+-phân tầng
+-tách
+-tách ra
+@Lĩnh vực: toán & tin
+-tách ra, cô lập
+@Lĩnh vực: cơ khí & công trình
+-tách riêng
+-vật tách

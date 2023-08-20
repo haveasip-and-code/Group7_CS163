@@ -1,3 +1,47 @@
-leakage
-	@leakage /'li:kidʤ/\n*  danh từ\n- sự lọt qua, sự rỉ ra, sự rò ra, sự thoát ra\n- sự để lọt, sự để lộ\n=leakage of military secrets+ sự để lọt những bí mật quân sự ra ngoài\n- sự biến mất một cách phi pháp (tiền...)\n- kẽ hở, lỗ hở\n- vật lọt qua, vật rỉ ra\n@Chuyên ngành kinh tế\n-phần (khoản) rò rỉ\n-sự chảy ra\n-sự rò rỉ (một chất lỏng)\n-sự thủng ra\n@Chuyên ngành kỹ thuật\n-lỗ rò\n-sự dò rỉ\n-sự rò\n-sự rò rỉ\n-sự tiêu\n@Lĩnh vực: điện lạnh\n-độ dẫn rò\n@Lĩnh vực: điện\n-độ rò\n-sự lạc\n-sự rò điện\n-thoát (dòng điện)\n@Lĩnh vực: cơ khí & công trình\n-sự rỉ chảy\n@Lĩnh vực: toán & tin\n-từ thông lạc\n@Chuyên ngành kỹ thuật\n-lỗ rò\n-sự dò rỉ\n-sự rò\n-sự rò rỉ\n-sự tiêu\n@Lĩnh vực: điện lạnh\n-độ dẫn rò\n@Lĩnh vực: điện\n-độ rò\n-sự lạc\n-sự rò điện\n-thoát (dòng điện)\n@Lĩnh vực: cơ khí & công trình\n-sự rỉ chảy\n@Lĩnh vực: toán & tin\n-từ thông lạc
-
+leakage	@leakage /'li:kidʤ/
+*  danh từ
+- sự lọt qua, sự rỉ ra, sự rò ra, sự thoát ra
+- sự để lọt, sự để lộ
+=leakage of military secrets+ sự để lọt những bí mật quân sự ra ngoài
+- sự biến mất một cách phi pháp (tiền...)
+- kẽ hở, lỗ hở
+- vật lọt qua, vật rỉ ra
+@Chuyên ngành kinh tế
+-phần (khoản) rò rỉ
+-sự chảy ra
+-sự rò rỉ (một chất lỏng)
+-sự thủng ra
+@Chuyên ngành kỹ thuật
+-lỗ rò
+-sự dò rỉ
+-sự rò
+-sự rò rỉ
+-sự tiêu
+@Lĩnh vực: điện lạnh
+-độ dẫn rò
+@Lĩnh vực: điện
+-độ rò
+-sự lạc
+-sự rò điện
+-thoát (dòng điện)
+@Lĩnh vực: cơ khí & công trình
+-sự rỉ chảy
+@Lĩnh vực: toán & tin
+-từ thông lạc
+@Chuyên ngành kỹ thuật
+-lỗ rò
+-sự dò rỉ
+-sự rò
+-sự rò rỉ
+-sự tiêu
+@Lĩnh vực: điện lạnh
+-độ dẫn rò
+@Lĩnh vực: điện
+-độ rò
+-sự lạc
+-sự rò điện
+-thoát (dòng điện)
+@Lĩnh vực: cơ khí & công trình
+-sự rỉ chảy
+@Lĩnh vực: toán & tin
+-từ thông lạc

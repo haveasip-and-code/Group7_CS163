@@ -1,3 +1,4 @@
-coaling
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sự ăn than\n-sự lấy than
-
+coaling	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sự ăn than
+-sự lấy than

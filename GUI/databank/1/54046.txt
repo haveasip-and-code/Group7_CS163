@@ -1,3 +1,3 @@
-subfix
-	@subfix\n* danh từ\n- chữ viết ở dưới hay cạnh chữ khác
-
+subfix	@subfix
+* danh từ
+- chữ viết ở dưới hay cạnh chữ khác

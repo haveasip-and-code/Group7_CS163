@@ -1,3 +1,2 @@
-protractive
-	@protractive\n- xem protract
-
+protractive	@protractive
+- xem protract

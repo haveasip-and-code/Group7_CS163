@@ -1,3 +1,14 @@
-petrify
-	@petrify /'petrifai/\n*  ngoại động từ\n- biến thành đá\n- (nghĩa bóng) làm sững sờ, làm chết điếng; làm ngay đơ ra\n=to be petrified with fear+ sợ chết điếng\n=to be petrified with amazement+ ngạc nhiên sững sờ cả người\n- (nghĩa bóng) làm tê liệt, làm mất hết sức sống (tâm trí, lý thuyết...)\n*  nội động từ\n- hoá đá\n- (nghĩa bóng) sững sờ, chết điếng; ngay đơ ra\n- (nghĩa bóng) tê liệt\n@Chuyên ngành kỹ thuật\n-hóa đá\n-hóa thạch
-
+petrify	@petrify /'petrifai/
+*  ngoại động từ
+- biến thành đá
+- (nghĩa bóng) làm sững sờ, làm chết điếng; làm ngay đơ ra
+=to be petrified with fear+ sợ chết điếng
+=to be petrified with amazement+ ngạc nhiên sững sờ cả người
+- (nghĩa bóng) làm tê liệt, làm mất hết sức sống (tâm trí, lý thuyết...)
+*  nội động từ
+- hoá đá
+- (nghĩa bóng) sững sờ, chết điếng; ngay đơ ra
+- (nghĩa bóng) tê liệt
+@Chuyên ngành kỹ thuật
+-hóa đá
+-hóa thạch

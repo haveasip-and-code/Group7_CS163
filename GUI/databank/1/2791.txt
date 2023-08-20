@@ -1,3 +1,26 @@
-aperture
-	@aperture /'æpətjuə/\n*  danh từ\n- lỗ hổng, kẽ hở\n- lỗ ống kính (máy ảnh); độ mở\n=relative aperture+ độ mở tỷ đối\n@Chuyên ngành kỹ thuật\n-cỡ lỗ\n-độ mở\n-góc mở\n-hốc tường\n-kẽ hở\n-khẩu độ\n-khe hở\n-khoảng cách\n-lỗ\n-lỗ cửa\n-lỗ hổng\n-nhịp (cầu)\n-ô\n-ô cửa\n-rãnh\n@Lĩnh vực: xây dựng\n-hốc, lỗ\n@Lĩnh vực: điện\n-ổ cắm (điện)
-
+aperture	
+@aperture /'æpətjuə/
+*  danh từ
+- lỗ hổng, kẽ hở
+- lỗ ống kính (máy ảnh); độ mở=relative aperture
++ độ mở tỷ đối
+@Chuyên ngành kỹ thuật
+-cỡ lỗ
+-độ mở
+-góc mở
+-hốc tường
+-kẽ hở
+-khẩu độ
+-khe hở
+-khoảng cách
+-lỗ
+-lỗ cửa
+-lỗ hổng
+-nhịp (cầu)
+-ô
+-ô cửa
+-rãnh
+@Lĩnh vực: xây dựng
+-hốc, lỗ
+@Lĩnh vực: điện
+-ổ cắm (điện)

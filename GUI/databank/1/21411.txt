@@ -1,3 +1,18 @@
-flex
-	@flex /flex/\n*  danh từ\n- (điện học) dây mềm\n*  ngoại động từ\n- làm cong, uốn cong\n*  nội động từ\n- cong lại; gập lại (cánh tay)\n@Chuyên ngành kỹ thuật\n-điểm uốn\n-lún xuống\n-uốn\n-uốn cong\n@Chuyên ngành kỹ thuật\n-điểm uốn\n-lún xuống\n-uốn\n-uốn cong
-
+flex	
+@flex /flex/
+*  danh từ
+- (điện học) dây mềm
+*  ngoại động từ
+- làm cong, uốn cong
+*  nội động từ
+- cong lại; gập lại (cánh tay)
+@Chuyên ngành kỹ thuật
+-điểm uốn
+-lún xuống
+-uốn
+-uốn cong
+@Chuyên ngành kỹ thuật
+-điểm uốn
+-lún xuống
+-uốn
+-uốn cong

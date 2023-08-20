@@ -1,3 +1,20 @@
-mediate
-	@mediate /'mi:diit/\n*  tính từ\n- gián tiếp\n- trung gian\n*  nội động từ\n- làm trung gian để điều đình\n=to mediate between two warring nations+ làm trung gian để điều đình giữa hai nước đang đánh nhau\n*  ngoại động từ\n- điều đình, hoà giải, dàn xếp\n@Chuyên ngành kinh tế\n-dàn xếp\n-điều đình\n-hòa giải\n@Chuyên ngành kỹ thuật\n-gián tiếp\n-trung gian\n@Lĩnh vực: toán & tin\n-có cách quãng\n@Lĩnh vực: xây dựng\n-điều đình
-
+mediate	@mediate /'mi:diit/
+*  tính từ
+- gián tiếp
+- trung gian
+*  nội động từ
+- làm trung gian để điều đình
+=to mediate between two warring nations+ làm trung gian để điều đình giữa hai nước đang đánh nhau
+*  ngoại động từ
+- điều đình, hoà giải, dàn xếp
+@Chuyên ngành kinh tế
+-dàn xếp
+-điều đình
+-hòa giải
+@Chuyên ngành kỹ thuật
+-gián tiếp
+-trung gian
+@Lĩnh vực: toán & tin
+-có cách quãng
+@Lĩnh vực: xây dựng
+-điều đình

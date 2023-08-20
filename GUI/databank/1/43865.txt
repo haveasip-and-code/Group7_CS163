@@ -1,3 +1,5 @@
-profiler
-	@profiler\n- xem profile\n@Chuyên ngành kỹ thuật\n-máy phay chép hình\n-máy phay định hình
-
+profiler	@profiler
+- xem profile
+@Chuyên ngành kỹ thuật
+-máy phay chép hình
+-máy phay định hình

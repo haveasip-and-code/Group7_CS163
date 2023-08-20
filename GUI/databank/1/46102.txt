@@ -1,3 +1,11 @@
-recur
-	@recur /ri'kə:/\n*  nội động từ\n- trở lại (một vấn đề)\n=to recur to a subject+ trở lại một vấn đề\n- trở lại trong trí (ý nghĩ)\n=to recur to the memory+ trở lại trong trí nhớ\n- lại diễn ra (sự việc)\n- (y học) phát lại (bệnh)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quay lại, lặp lại
-
+recur	@recur /ri'kə:/
+*  nội động từ
+- trở lại (một vấn đề)
+=to recur to a subject+ trở lại một vấn đề
+- trở lại trong trí (ý nghĩ)
+=to recur to the memory+ trở lại trong trí nhớ
+- lại diễn ra (sự việc)
+- (y học) phát lại (bệnh)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-quay lại, lặp lại

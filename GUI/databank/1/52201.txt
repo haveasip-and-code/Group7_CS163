@@ -1,3 +1,12 @@
-specialist
-	@specialist /'speʃəlist/\n*  danh từ\n- chuyên gia, chuyên viên, nhà chuyên khoa\n=eye specialist+ bác sĩ chuyên khoa mắt\n@Chuyên ngành kinh tế\n-chuyên gia\n-chuyên viên\n-nhà chuyên môn\n@Chuyên ngành kỹ thuật\n-chuyên gia\n@Lĩnh vực: y học\n-chuyên viên
-
+specialist	@specialist /'speʃəlist/
+*  danh từ
+- chuyên gia, chuyên viên, nhà chuyên khoa
+=eye specialist+ bác sĩ chuyên khoa mắt
+@Chuyên ngành kinh tế
+-chuyên gia
+-chuyên viên
+-nhà chuyên môn
+@Chuyên ngành kỹ thuật
+-chuyên gia
+@Lĩnh vực: y học
+-chuyên viên

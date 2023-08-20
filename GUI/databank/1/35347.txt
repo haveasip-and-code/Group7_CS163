@@ -1,3 +1,2 @@
-moduli
-	@moduli\n- số nhiều của modulus
-
+moduli	@moduli
+- số nhiều của modulus

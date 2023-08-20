@@ -1,3 +1,12 @@
-peripheral
-	@peripheral /pə'rifərəl/\n*  tính từ\n- (thuộc) chu vi\n- (thuộc) ngoại vi, (thuộc) ngoại biên\n@Chuyên ngành kỹ thuật\n-biên\n-ngoại biên\n-ngoài cùng\n-ngoại vi\n-thiết bị ngoại vi\n@Lĩnh vực: y học\n-thuộc ngoại vi, thuộc ngoài biên
-
+peripheral	@peripheral /pə'rifərəl/
+*  tính từ
+- (thuộc) chu vi
+- (thuộc) ngoại vi, (thuộc) ngoại biên
+@Chuyên ngành kỹ thuật
+-biên
+-ngoại biên
+-ngoài cùng
+-ngoại vi
+-thiết bị ngoại vi
+@Lĩnh vực: y học
+-thuộc ngoại vi, thuộc ngoài biên

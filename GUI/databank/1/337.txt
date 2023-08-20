@@ -1,3 +1,13 @@
-accessories
-	@accessories\n- (Tech) phụ tùng, bộ phụ, phụ kiện [TQ]\n- (tin học) phụ trợ\n@Chuyên ngành kỹ thuật\n-đồ giá\n-đồ phụ tùng\n-phụ kiện\n-phụ tùng\n-thiết bị\n-thiết bị phụ trợ\n@Lĩnh vực: điện\n-thiết bị phụ tùng
-
+accessories	
+@accessories
+- (Tech) phụ tùng, bộ phụ, phụ kiện [TQ]
+- (tin học) phụ trợ
+@Chuyên ngành kỹ thuật
+-đồ giá
+-đồ phụ tùng
+-phụ kiện
+-phụ tùng
+-thiết bị
+-thiết bị phụ trợ
+@Lĩnh vực: điện
+-thiết bị phụ tùng

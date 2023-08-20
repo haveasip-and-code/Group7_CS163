@@ -1,3 +1,10 @@
-microstructure
-	@microstructure\n* danh từ\n- tổ chức tế vi, cấu tạo vi lượng\n- cấu trúc vi mô\n@Chuyên ngành kinh tế\n-kết cấu vi mô\n@Chuyên ngành kỹ thuật\n-vi cấu tạo\n-vi cấu trúc\n-vi kết cấu
-
+microstructure	@microstructure
+* danh từ
+- tổ chức tế vi, cấu tạo vi lượng
+- cấu trúc vi mô
+@Chuyên ngành kinh tế
+-kết cấu vi mô
+@Chuyên ngành kỹ thuật
+-vi cấu tạo
+-vi cấu trúc
+-vi kết cấu

@@ -1,3 +1,2 @@
-knifer
-	@knifer\n- xem knife
-
+knifer	@knifer
+- xem knife

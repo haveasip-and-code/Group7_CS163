@@ -1,3 +1,8 @@
-ore
-	@ore /ɔ:/\n*  danh từ\n- quặng\n- (thơ ca) kim loại\n@Chuyên ngành kinh tế\n-quặng\n@Chuyên ngành kỹ thuật\n-quặng
-
+ore	@ore /ɔ:/
+*  danh từ
+- quặng
+- (thơ ca) kim loại
+@Chuyên ngành kinh tế
+-quặng
+@Chuyên ngành kỹ thuật
+-quặng

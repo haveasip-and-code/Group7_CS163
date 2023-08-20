@@ -1,3 +1,42 @@
-bench
-	@bench /bentʃ/\n*  danh từ\n- ghế dài\n=park benches+ ghế ở công viên\n- bàn (của thợ mộc, thợ đóng giày)\n- ghế ngồi của quan toà; toà án\n=to be raised to the bench+ được bổ nhiệm làm quan toà; được phong làm giám mục\n=to be on the bench+ làm quan toà; làm giám mục\n=the bench and the bar+ quan toà và luật sư\n- ghế ngồi ở nghị viện Anh (của từng nhóm)\n=bishops' bench+ ghế ngồi của các giám mục (trong nghị viện Anh)\n*  danh từ\n- cuộc trưng bày, cuộc triển lãm (chó)\n*  ngoại động từ\n- trưng bày, triển lãm (chó)\n@Chuyên ngành kỹ thuật\n-bàn\n-bàn máy\n-bàn thí nghiệm\n-bàn thợ máy\n-bàn thợ mộc\n-bệ\n-bệ công tác\n-bệ máy\n-bờ bảo hộ\n-bờ bảo vệ\n-bờ đất\n-con chạch\n-ghế dài\n-giá máy\n-giá thước\n-lò bằng\n-vỉa đường\n@Lĩnh vực: điện\n-bàn thợ nguội\n@Lĩnh vực: xây dựng\n-bờ giữ nước\n-máy cái công cụ\n-tầng (đai)\n-tạo bậc\n-thềm (sông, hồ)\n-thêm bậc
-
+bench	@bench /bentʃ/
+*  danh từ
+- ghế dài
+=park benches+ ghế ở công viên
+- bàn (của thợ mộc, thợ đóng giày)
+- ghế ngồi của quan toà; toà án
+=to be raised to the bench+ được bổ nhiệm làm quan toà; được phong làm giám mục
+=to be on the bench+ làm quan toà; làm giám mục
+=the bench and the bar+ quan toà và luật sư
+- ghế ngồi ở nghị viện Anh (của từng nhóm)
+=bishops' bench+ ghế ngồi của các giám mục (trong nghị viện Anh)
+*  danh từ
+- cuộc trưng bày, cuộc triển lãm (chó)
+*  ngoại động từ
+- trưng bày, triển lãm (chó)
+@Chuyên ngành kỹ thuật
+-bàn
+-bàn máy
+-bàn thí nghiệm
+-bàn thợ máy
+-bàn thợ mộc
+-bệ
+-bệ công tác
+-bệ máy
+-bờ bảo hộ
+-bờ bảo vệ
+-bờ đất
+-con chạch
+-ghế dài
+-giá máy
+-giá thước
+-lò bằng
+-vỉa đường
+@Lĩnh vực: điện
+-bàn thợ nguội
+@Lĩnh vực: xây dựng
+-bờ giữ nước
+-máy cái công cụ
+-tầng (đai)
+-tạo bậc
+-thềm (sông, hồ)
+-thêm bậc

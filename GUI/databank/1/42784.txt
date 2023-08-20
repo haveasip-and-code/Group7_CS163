@@ -1,3 +1,2 @@
-postmastership
-	@postmastership\n- xem postmaster
-
+postmastership	@postmastership
+- xem postmaster

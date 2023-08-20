@@ -1,3 +1,11 @@
-stippling
-	@stippling\n* danh từ\n- cách vẽ bằng chấm\n- cách khắc bằng chấm\n@Chuyên ngành kỹ thuật\n-hình vẽ chấm\n-sự khắc chấm\n@Lĩnh vực: y học\n-chấm lốm đốm\n@Lĩnh vực: xây dựng\n-sự làm sần sùi (mặt bê tông)
-
+stippling	@stippling
+* danh từ
+- cách vẽ bằng chấm
+- cách khắc bằng chấm
+@Chuyên ngành kỹ thuật
+-hình vẽ chấm
+-sự khắc chấm
+@Lĩnh vực: y học
+-chấm lốm đốm
+@Lĩnh vực: xây dựng
+-sự làm sần sùi (mặt bê tông)

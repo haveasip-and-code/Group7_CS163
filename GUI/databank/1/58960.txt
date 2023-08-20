@@ -1,3 +1,2 @@
-uncommonness
-	@uncommonness\n- xem uncommon
-
+uncommonness	@uncommonness
+- xem uncommon

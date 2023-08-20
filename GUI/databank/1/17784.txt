@@ -1,3 +1,10 @@
-ellipsis
-	@ellipsis /i'lipsis/\n*  danh từ,  số nhiều ellipsis\n- (ngôn ngữ học) hiện tượng tĩnh dược\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dấu chấm lửng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dấu chấm lửng
-
+ellipsis	
+@ellipsis /i'lipsis/
+*  danh từ,  số nhiều ellipsis
+- (ngôn ngữ học) hiện tượng tĩnh dược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dấu chấm lửng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dấu chấm lửng

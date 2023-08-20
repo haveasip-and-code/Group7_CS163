@@ -1,3 +1,12 @@
-purlin
-	@purlin /'pə:lin/\n*  danh từ\n- đòn tay (mái nhà)\n@Chuyên ngành kỹ thuật\n-đòn tay\n-rầm\n-xà dọc\n-xà gồ\n-xà gỗ\n-xà mái dọc\n@Lĩnh vực: xây dựng\n-cầu phong (mái nhà)
-
+purlin	@purlin /'pə:lin/
+*  danh từ
+- đòn tay (mái nhà)
+@Chuyên ngành kỹ thuật
+-đòn tay
+-rầm
+-xà dọc
+-xà gồ
+-xà gỗ
+-xà mái dọc
+@Lĩnh vực: xây dựng
+-cầu phong (mái nhà)

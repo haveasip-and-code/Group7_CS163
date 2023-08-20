@@ -1,3 +1,12 @@
-airspace
-	@airspace\n* danh từ\n- vùng trời, không phận\n@Chuyên ngành kinh tế\n-không phận\n@Chuyên ngành kỹ thuật\n-khoảng không\n@Lĩnh vực: xây dựng\n-khoảng không khí\n-lớp không khí\n-vùng trời
-
+airspace	
+@airspace
+* danh từ
+- vùng trời, không phận
+@Chuyên ngành kinh tế
+-không phận
+@Chuyên ngành kỹ thuật
+-khoảng không
+@Lĩnh vực: xây dựng
+-khoảng không khí
+-lớp không khí
+-vùng trời

@@ -1,3 +1,16 @@
-pollution
-	@pollution /pə'lu:ʃn/\n*  danh từ\n- sự làm ô uế, sự làm mất thiêng liêng\n- sự làm nhơ bẩn (nước...)\n- sự làm hư hỏng, sự làm sa đoạ\n@Chuyên ngành kinh tế\n-sự ô nhiễm\n@Chuyên ngành kỹ thuật\n-chất bẩn\n-sự nhiễm bẩn\n-sự ô nhiễm\n@Lĩnh vực: môi trường\n-ô nhiễm\n@Lĩnh vực: xây dựng\n-sự làm bẩn\n-sự làm ô nhiễm
-
+pollution	@pollution /pə'lu:ʃn/
+*  danh từ
+- sự làm ô uế, sự làm mất thiêng liêng
+- sự làm nhơ bẩn (nước...)
+- sự làm hư hỏng, sự làm sa đoạ
+@Chuyên ngành kinh tế
+-sự ô nhiễm
+@Chuyên ngành kỹ thuật
+-chất bẩn
+-sự nhiễm bẩn
+-sự ô nhiễm
+@Lĩnh vực: môi trường
+-ô nhiễm
+@Lĩnh vực: xây dựng
+-sự làm bẩn
+-sự làm ô nhiễm

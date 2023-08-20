@@ -1,3 +1,2 @@
-bastioned
-	@bastioned\n- xem bastion
-
+bastioned	@bastioned
+- xem bastion

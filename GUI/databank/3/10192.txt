@@ -1,3 +1,4 @@
-coiled
-	@Chuyên ngành kỹ thuật\n-dạng ruột gà\n@Lĩnh vực: cơ khí & công trình\n-dạng ngoằn ngoèo
-
+coiled	@Chuyên ngành kỹ thuật
+-dạng ruột gà
+@Lĩnh vực: cơ khí & công trình
+-dạng ngoằn ngoèo

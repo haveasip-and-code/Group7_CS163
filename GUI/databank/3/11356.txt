@@ -1,3 +1,6 @@
-consolidator
-	@consolidator\n- xem console\n@Chuyên ngành kinh tế\n-cơ sở kinh doanh hợp nhất\n-kết hợp\n-nhà vận tải gom hàng (công-ten-nơ)
-
+consolidator	@consolidator
+- xem console
+@Chuyên ngành kinh tế
+-cơ sở kinh doanh hợp nhất
+-kết hợp
+-nhà vận tải gom hàng (công-ten-nơ)

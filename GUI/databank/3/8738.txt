@@ -1,3 +1,81 @@
-channel
-	@channel /'tʃænl/\n*  danh từ\n- eo biển\n- lòng sông, lòng suối\n- kênh mương, lạch; ống dẫn (nước dầu...)\n- (nghĩa bóng) đường; nguồn (tin tức, ý nghĩ, tư tưởng...)\n=secret channels of information+ những nguồn tin mật\n=throught the usual channels+ qua những nguồn thường lệ\n=telegraphic channel+ đường điện báo\n=diplomatic channel+ đường dây ngoại giao\n- (rađiô) kênh\n- (kiến trúc) đường xoi\n- (kỹ thuật) máng, rãnh\n!the Channel\n- biển Măng sơ\n*  ngoại động từ\n- đào rãnh, đào mương\n- chảy xói (đất) thành khe rãnh (nước mưa)\n- chuyển\n=to channel inmformation to+ chuyển tin tức cho\n- hướng vào (cái gì), xoáy vào (cái gì)\n- (kiến trúc) bào đường xoi\n@Chuyên ngành kinh tế\n-kênh\n-máng\n-ống\n-rãnh\n@Chuyên ngành kỹ thuật\n-băng tần\n-dải sóng\n-đào hào\n-đào kênh\n-đào rãnh\n-đặt kênh\n-dòng chảy\n-dòng sông\n-đường trục\n-đường truyền chính\n-đường xoi\n-đường xói\n-eo\n-eo biển\n-hào\n-kênh\n-kênh (băng đục lỗ)\n-kênh đào\n-kênh điện thoại\n-kênh dữ liệu\n-kênh thông tin\n-kênh tiếng nói\n-kênh truyền\n-lạch (đạo hàng)\n-lòng kênh\n-lòng máng\n-lòng sông\n-luồng\n-máng\n-mương\n-ống\n-ống dẫn\n-rãnh\n-rãnh (trục vít ép)\n-thép chữ U\n-ván cừ\n@Lĩnh vực: xây dựng\n-biên dạng chữ U\n-đào mương\n-đường (ống) dẫn\n-hình máng\n-kênh viễn thông\n-mộng xui\n-sông đào (đường dẫn)\n-thép lòng máng\n-vết chém\n@Lĩnh vực: điện tử & viễn thông\n-đường truyền// kênh\n@Lĩnh vực: toán & tin\n-kênh truyền dữ liệu\n-truyền theo kênh\n@Lĩnh vực: y học\n-ống, máng, rãnh
-
+channel	@channel /'tʃænl/
+*  danh từ
+- eo biển
+- lòng sông, lòng suối
+- kênh mương, lạch; ống dẫn (nước dầu...)
+- (nghĩa bóng) đường; nguồn (tin tức, ý nghĩ, tư tưởng...)
+=secret channels of information+ những nguồn tin mật
+=throught the usual channels+ qua những nguồn thường lệ
+=telegraphic channel+ đường điện báo
+=diplomatic channel+ đường dây ngoại giao
+- (rađiô) kênh
+- (kiến trúc) đường xoi
+- (kỹ thuật) máng, rãnh
+!the Channel
+- biển Măng sơ
+*  ngoại động từ
+- đào rãnh, đào mương
+- chảy xói (đất) thành khe rãnh (nước mưa)
+- chuyển
+=to channel inmformation to+ chuyển tin tức cho
+- hướng vào (cái gì), xoáy vào (cái gì)
+- (kiến trúc) bào đường xoi
+@Chuyên ngành kinh tế
+-kênh
+-máng
+-ống
+-rãnh
+@Chuyên ngành kỹ thuật
+-băng tần
+-dải sóng
+-đào hào
+-đào kênh
+-đào rãnh
+-đặt kênh
+-dòng chảy
+-dòng sông
+-đường trục
+-đường truyền chính
+-đường xoi
+-đường xói
+-eo
+-eo biển
+-hào
+-kênh
+-kênh (băng đục lỗ)
+-kênh đào
+-kênh điện thoại
+-kênh dữ liệu
+-kênh thông tin
+-kênh tiếng nói
+-kênh truyền
+-lạch (đạo hàng)
+-lòng kênh
+-lòng máng
+-lòng sông
+-luồng
+-máng
+-mương
+-ống
+-ống dẫn
+-rãnh
+-rãnh (trục vít ép)
+-thép chữ U
+-ván cừ
+@Lĩnh vực: xây dựng
+-biên dạng chữ U
+-đào mương
+-đường (ống) dẫn
+-hình máng
+-kênh viễn thông
+-mộng xui
+-sông đào (đường dẫn)
+-thép lòng máng
+-vết chém
+@Lĩnh vực: điện tử & viễn thông
+-đường truyền// kênh
+@Lĩnh vực: toán & tin
+-kênh truyền dữ liệu
+-truyền theo kênh
+@Lĩnh vực: y học
+-ống, máng, rãnh

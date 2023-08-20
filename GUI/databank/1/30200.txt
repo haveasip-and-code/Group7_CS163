@@ -1,3 +1,6 @@
-iterated
-	@iterated\n- được lặp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-được lặp
-
+iterated	
+@iterated
+- được lặp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-được lặp

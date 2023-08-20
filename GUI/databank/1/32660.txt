@@ -1,3 +1,2 @@
-logs
-	@Chuyên ngành kỹ thuật\n-gỗ tròn
-
+logs	@Chuyên ngành kỹ thuật
+-gỗ tròn

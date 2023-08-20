@@ -1,3 +1,8 @@
-catenate
-	@catenate\n- (Tech) liên kết (động từ)\n@Chuyên ngành kỹ thuật\n-ghép nối\n-móc nối\n@Lĩnh vực: toán & tin\n-kết chuỗi
-
+catenate	
+@catenate
+- (Tech) liên kết (động từ)
+@Chuyên ngành kỹ thuật
+-ghép nối
+-móc nối
+@Lĩnh vực: toán & tin
+-kết chuỗi

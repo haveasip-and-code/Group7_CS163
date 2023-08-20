@@ -1,3 +1,2 @@
-corrupter
-	@corrupter\n- xem corrupt
-
+corrupter	@corrupter
+- xem corrupt

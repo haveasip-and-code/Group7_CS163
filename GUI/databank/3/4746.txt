@@ -1,3 +1,2 @@
-barnacled
-	@barnacled\n- xem barnacle
-
+barnacled	@barnacled
+- xem barnacle

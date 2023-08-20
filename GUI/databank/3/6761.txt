@@ -1,3 +1,23 @@
-bridle
-	@bridle /'braidl/\n*  danh từ\n- cương (ngựa)\n- (nghĩa bóng) sự kiềm chế\n=to put a bridle on one's desires+ kiềm chế ham muốn\n- (hàng hải) dây cột thuyền\n- (giải phẫu) dây hãm\n!to give one's horse the bridle; to lay the bridle on the neck of one's horse\n- buông lỏng dây cương cho tự do\n*  ngoại động từ\n- thắng cương (cho ngựa)\n- (nghĩa bóng) kiềm chế\n=to bridle one's ambitions+ kiềm chế tham vọng của mình\n*  nội động từ\n- bridle + up hất đầu, vênh mặt (tỏ vẻ làm bộ, giận dữ, khinh bỉ)\n=to bridle up with anger+ hất đầu bực tức\n@Chuyên ngành kỹ thuật\n-cái móc\n-cương ngựa\n@Lĩnh vực: cơ khí & công trình\n-cái móc lò xo\n@Lĩnh vực: giao thông & vận tải\n-dây buộc tàu
-
+bridle	@bridle /'braidl/
+*  danh từ
+- cương (ngựa)
+- (nghĩa bóng) sự kiềm chế
+=to put a bridle on one's desires+ kiềm chế ham muốn
+- (hàng hải) dây cột thuyền
+- (giải phẫu) dây hãm
+!to give one's horse the bridle; to lay the bridle on the neck of one's horse
+- buông lỏng dây cương cho tự do
+*  ngoại động từ
+- thắng cương (cho ngựa)
+- (nghĩa bóng) kiềm chế
+=to bridle one's ambitions+ kiềm chế tham vọng của mình
+*  nội động từ
+- bridle + up hất đầu, vênh mặt (tỏ vẻ làm bộ, giận dữ, khinh bỉ)
+=to bridle up with anger+ hất đầu bực tức
+@Chuyên ngành kỹ thuật
+-cái móc
+-cương ngựa
+@Lĩnh vực: cơ khí & công trình
+-cái móc lò xo
+@Lĩnh vực: giao thông & vận tải
+-dây buộc tàu

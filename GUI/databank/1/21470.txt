@@ -1,3 +1,4 @@
-floaters
-	@Chuyên ngành kinh tế\n-chứng khoán lãi suất thả nổi\n-chứng khoán vô danh
-
+floaters	
+@Chuyên ngành kinh tế
+-chứng khoán lãi suất thả nổi
+-chứng khoán vô danh

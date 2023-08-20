@@ -1,3 +1,24 @@
-extinguisher
-	@extinguisher /iks'tiɳgwiʃə/\n*  danh từ\n- người dập tắt, người làm tắt\n- máy dập lửa (chữa cháy)\n- cái chụp nến (để dập tắt)\n@Chuyên ngành kỹ thuật\n-bình chữa cháy\n-bộ triệt\n@Lĩnh vực: cơ khí & công trình\n-bình chữa lửa\n-bình cứu hỏa\n-bộ làm tắt\n@Lĩnh vực: hóa học & vật liệu\n-bình dập tắt\n@Chuyên ngành kỹ thuật\n-bình chữa cháy\n-bộ triệt\n@Lĩnh vực: cơ khí & công trình\n-bình chữa lửa\n-bình cứu hỏa\n-bộ làm tắt\n@Lĩnh vực: hóa học & vật liệu\n-bình dập tắt
-
+extinguisher	
+@extinguisher /iks'tiɳgwiʃə/
+*  danh từ
+- người dập tắt, người làm tắt
+- máy dập lửa (chữa cháy)
+- cái chụp nến (để dập tắt)
+@Chuyên ngành kỹ thuật
+-bình chữa cháy
+-bộ triệt
+@Lĩnh vực: cơ khí & công trình
+-bình chữa lửa
+-bình cứu hỏa
+-bộ làm tắt
+@Lĩnh vực: hóa học & vật liệu
+-bình dập tắt
+@Chuyên ngành kỹ thuật
+-bình chữa cháy
+-bộ triệt
+@Lĩnh vực: cơ khí & công trình
+-bình chữa lửa
+-bình cứu hỏa
+-bộ làm tắt
+@Lĩnh vực: hóa học & vật liệu
+-bình dập tắt

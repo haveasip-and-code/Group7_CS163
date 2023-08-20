@@ -1,3 +1,2 @@
-pasturer
-	@pasturer\n- xem pasture
-
+pasturer	@pasturer
+- xem pasture

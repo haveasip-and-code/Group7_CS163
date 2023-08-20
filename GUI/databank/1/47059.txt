@@ -1,3 +1,9 @@
-reserver
-	@reserver\n* danh từ\n- người tàng trữ, người bảo tồn, người bảo lưu\n- người ít nói; người cẩn thận; người kín đáo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-công tắc đảo chiều\n@Lĩnh vực: xây dựng\n-thiết bị đảo chiều
-
+reserver	@reserver
+* danh từ
+- người tàng trữ, người bảo tồn, người bảo lưu
+- người ít nói; người cẩn thận; người kín đáo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-công tắc đảo chiều
+@Lĩnh vực: xây dựng
+-thiết bị đảo chiều

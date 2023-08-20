@@ -1,3 +1,10 @@
-licensee
-	@licensee /,laisən'si:/\n*  danh từ\n- người được cấp giấy phép, người được cấp môn bài, người được cấp đăng ký\n@Chuyên ngành kinh tế\n-người có giấy phép\n-người có môn bài kinh doanh\n-người được cấp giấy đăng ký (kinh doanh)\n-người được cấp giấy phép\n-người được cấp môn bài\n-người được phép
-
+licensee	@licensee /,laisən'si:/
+*  danh từ
+- người được cấp giấy phép, người được cấp môn bài, người được cấp đăng ký
+@Chuyên ngành kinh tế
+-người có giấy phép
+-người có môn bài kinh doanh
+-người được cấp giấy đăng ký (kinh doanh)
+-người được cấp giấy phép
+-người được cấp môn bài
+-người được phép

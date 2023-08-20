@@ -1,3 +1,52 @@
-bite
-	@bite /bait/\n*  danh từ\n- sự cắn, sự ngoạm; miếng cắn; vết cắn\n- sự châm, sự đốt; nốt đốt (muỗi, ong...)\n- miếng (thức ăn); thức ăn\n=a bite of food+ một miếng ăn\n=without bite and sup+ không cơm nước gì cả\n- sự đau nhức, sự nhức nhối của vết thương\n- sự cắn câu (cá...)\n- sự bám chắt, sự ăn sâu (mỏ neo, phanh, đinh ốc...)\n- vị cay tê (gừng, hạt tiêu...)\n- (nghĩa bóng) sự châm biếm, sự chua cay (lời nói)\n- cỏ cho vật nuôi\n*  (bất qui tắc) động từ bit; bitten\n/bittn/,  bit\n- cắn, ngoạm\n=to bite one's nails+ cắn móng tay\n- châm đốt; đâm vào (gươm...)\n=to be badly bitten by mosquitoes+ bị muỗi đốt nhiều quá\n- làm đau, làm nhột; ăn mòn; làm cay tê (thức ăn)\n=the frost will bite the fruit blossom+ sương giá sẽ làm chột mầm quả\n=strong acids bite metals+ axit mạnh ăn mòn kim loại\n=peper and ginger bite the tongue+ hạt tiêu và gừng làm cay tê lưỡi\n- cắn câu ((nghĩa đen),  (nghĩa bóng))\n- bám chắt, ăn sâu, bắt vào\n=the screw does not bite+ đinh ốc không bắt vào được\n=the anchor does not bite+ neo không bám chắc\n=the brake will not bite+ phanh không ăn\n- (nghĩa bóng) lừa bịp\n!to bite off\n- cắn, cắn đứt ra\n!to be bitten with\n- say mê, ham mê (cái gì)\n!to bite the dust (ground, sand)\n- ngã xuống và chết\n!to bite one's lips\n- mím môi (để nén giận...)\n!to bite off more than one can chew\n- cố làm việc gì quá sức mình\n!once bitten twice shy\n- (xem) once\n@Chuyên ngành kinh tế\n-vị cay\n-vị cay chua\n@Chuyên ngành kỹ thuật\n-bám chặt\n-bám đất\n-cặp\n-kẹp\n-móc vào\n-sự ăn mòn\n-sự bám chặt (cán)\n-sự kẹp\n@Lĩnh vực: cơ khí & công trình\n-sự cắt sấn (vào)\n-tẩy gỉ\n@Lĩnh vực: xây dựng\n-vặn chặn (vít)
-
+bite	
+@bite /bait/
+*  danh từ
+- sự cắn, sự ngoạm; miếng cắn; vết cắn
+- sự châm, sự đốt; nốt đốt (muỗi, ong...)
+- miếng (thức ăn); thức ăn=a bite of food
++ một miếng ăn=without bite and sup
++ không cơm nước gì cả
+- sự đau nhức, sự nhức nhối của vết thương
+- sự cắn câu (cá...)
+- sự bám chắt, sự ăn sâu (mỏ neo, phanh, đinh ốc...)
+- vị cay tê (gừng, hạt tiêu...)
+- (nghĩa bóng) sự châm biếm, sự chua cay (lời nói)
+- cỏ cho vật nuôi
+*  (bất qui tắc) động từ bit; bitten/bittn/,  bit
+- cắn, ngoạm=to bite one's nails
++ cắn móng tay
+- châm đốt; đâm vào (gươm...)=to be badly bitten by mosquitoes
++ bị muỗi đốt nhiều quá
+- làm đau, làm nhột; ăn mòn; làm cay tê (thức ăn)=the frost will bite the fruit blossom
++ sương giá sẽ làm chột mầm quả=strong acids bite metals
++ axit mạnh ăn mòn kim loại=peper and ginger bite the tongue
++ hạt tiêu và gừng làm cay tê lưỡi
+- cắn câu ((nghĩa đen),  (nghĩa bóng))
+- bám chắt, ăn sâu, bắt vào=the screw does not bite
++ đinh ốc không bắt vào được=the anchor does not bite
++ neo không bám chắc=the brake will not bite
++ phanh không ăn
+- (nghĩa bóng) lừa bịp!to bite off
+- cắn, cắn đứt ra!to be bitten with
+- say mê, ham mê (cái gì)!to bite the dust (ground, sand)
+- ngã xuống và chết!to bite one's lips
+- mím môi (để nén giận...)!to bite off more than one can chew
+- cố làm việc gì quá sức mình!once bitten twice shy
+- (xem) once
+@Chuyên ngành kinh tế
+-vị cay
+-vị cay chua
+@Chuyên ngành kỹ thuật
+-bám chặt
+-bám đất
+-cặp
+-kẹp
+-móc vào
+-sự ăn mòn
+-sự bám chặt (cán)
+-sự kẹp
+@Lĩnh vực: cơ khí & công trình
+-sự cắt sấn (vào)
+-tẩy gỉ
+@Lĩnh vực: xây dựng
+-vặn chặn (vít)

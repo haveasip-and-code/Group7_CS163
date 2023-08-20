@@ -1,3 +1,4 @@
-baghouse
-	@Chuyên ngành kỹ thuật\n-buồng túi lọc\n-phòng lọc
-
+baghouse	
+@Chuyên ngành kỹ thuật
+-buồng túi lọc
+-phòng lọc

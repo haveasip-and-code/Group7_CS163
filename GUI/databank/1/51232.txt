@@ -1,3 +1,7 @@
-sloe
-	@sloe /slou/\n*  danh từ\n- quả mận gai\n- cây mận gai\n@Chuyên ngành kinh tế\n-cây mận gai\n-quả mận gai
-
+sloe	@sloe /slou/
+*  danh từ
+- quả mận gai
+- cây mận gai
+@Chuyên ngành kinh tế
+-cây mận gai
+-quả mận gai

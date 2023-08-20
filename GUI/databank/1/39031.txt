@@ -1,3 +1,25 @@
-overweight
-	@overweight /'ouvəweit/\n*  danh từ\n- trọng lượng trội ((nghĩa đen) & (nghĩa bóng))\n- (từ Mỹ,nghĩa Mỹ) số cân thừa (béo quá)\n*  tính từ\n- quá trọng lượng hợp lệ\n=overweight luggage+ hành lý quá trọng lượng hợp lệ\n- (từ Mỹ,nghĩa Mỹ) béo quá\n*  ngoại động từ\n- cân nặng hơn, có trọng lượng hơn\n- đè trĩu lên\n@Chuyên ngành kinh tế\n-quá nặng\n-sự quá nặng\n-sự vượt quá trọng lượng\n-trọng lượng vượt quá\n-vượt quá trọng lượng quy định\n@Chuyên ngành kỹ thuật\n-lượng cân dư thừa\n-lượng cân thừa\n-nặng quá\n@Lĩnh vực: đo lường & điều khiển\n-sự quá trọng lượng\n@Lĩnh vực: hóa học & vật liệu\n-trọng lượng dư
-
+overweight	@overweight /'ouvəweit/
+*  danh từ
+- trọng lượng trội ((nghĩa đen) & (nghĩa bóng))
+- (từ Mỹ,nghĩa Mỹ) số cân thừa (béo quá)
+*  tính từ
+- quá trọng lượng hợp lệ
+=overweight luggage+ hành lý quá trọng lượng hợp lệ
+- (từ Mỹ,nghĩa Mỹ) béo quá
+*  ngoại động từ
+- cân nặng hơn, có trọng lượng hơn
+- đè trĩu lên
+@Chuyên ngành kinh tế
+-quá nặng
+-sự quá nặng
+-sự vượt quá trọng lượng
+-trọng lượng vượt quá
+-vượt quá trọng lượng quy định
+@Chuyên ngành kỹ thuật
+-lượng cân dư thừa
+-lượng cân thừa
+-nặng quá
+@Lĩnh vực: đo lường & điều khiển
+-sự quá trọng lượng
+@Lĩnh vực: hóa học & vật liệu
+-trọng lượng dư

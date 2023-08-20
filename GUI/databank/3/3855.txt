@@ -1,3 +1,2 @@
-attaches
-	@Chuyên ngành kinh tế\n-tùy viên
-
+attaches	@Chuyên ngành kinh tế
+-tùy viên

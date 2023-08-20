@@ -1,3 +1,8 @@
-correlator
-	@correlator\n- (Tech) bộ tương quan\n@Chuyên ngành kỹ thuật\n-bộ tương quan\n@Lĩnh vực: toán & tin\n-máy tương quan\n-tương quan tử
-
+correlator	
+@correlator
+- (Tech) bộ tương quan
+@Chuyên ngành kỹ thuật
+-bộ tương quan
+@Lĩnh vực: toán & tin
+-máy tương quan
+-tương quan tử

@@ -1,3 +1,24 @@
-tanker
-	@tanker /'tæɳkə/\n*  danh từ\n- tàu chở dầu\n- xe chở sữa\n- máy bay tiếp dầu (cho máy bay khác trên không)\n@Chuyên ngành kinh tế\n-ô tô téc\n-tàu bồn (dùng để chở dầu xăng)\n-tàu chở dầu\n-tàu chở hàng lọng, tàu chở dầu\n-tàu hàng lỏng\n-téc vận chuyển đường sắt\n-xe xitec\n@Chuyên ngành kỹ thuật\n-ô tô xitec\n-tàu chở hàng\n@Lĩnh vực: ô tô\n-chở nhiên liệu\n-xe chở nhiên liệu\n@Lĩnh vực: hóa học & vật liệu\n-tàu dầu\n-tàu thủy chở dầu\n@Lĩnh vực: toán & tin\n-toán
-
+tanker	@tanker /'tæɳkə/
+*  danh từ
+- tàu chở dầu
+- xe chở sữa
+- máy bay tiếp dầu (cho máy bay khác trên không)
+@Chuyên ngành kinh tế
+-ô tô téc
+-tàu bồn (dùng để chở dầu xăng)
+-tàu chở dầu
+-tàu chở hàng lọng, tàu chở dầu
+-tàu hàng lỏng
+-téc vận chuyển đường sắt
+-xe xitec
+@Chuyên ngành kỹ thuật
+-ô tô xitec
+-tàu chở hàng
+@Lĩnh vực: ô tô
+-chở nhiên liệu
+-xe chở nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+-tàu dầu
+-tàu thủy chở dầu
+@Lĩnh vực: toán & tin
+-toán

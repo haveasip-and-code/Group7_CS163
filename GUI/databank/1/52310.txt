@@ -1,3 +1,20 @@
-spent
-	@spent /spent/\n*  thời quá khứ & động tính từ quá khứ của spend\n*  tính từ\n- mệt lử, kiệt sức, hết nghị lực; hết đà (viên đạn, mũi tên...)\n=a spent bullet+ một viên đạn hết đà (rơi xuống)\n- tàn lụi\n@Chuyên ngành kinh tế\n-lượng tiêu hao\n-sự tận thu (cá)\n-sự tiêu hao\n-tận thu\n-tiêu hao\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-đã hỏng\n-đã sử dụng\n@Lĩnh vực: toán & tin\n-được dùng\n-được tiêu\n-tiêu (dùng)
-
+spent	@spent /spent/
+*  thời quá khứ & động tính từ quá khứ của spend
+*  tính từ
+- mệt lử, kiệt sức, hết nghị lực; hết đà (viên đạn, mũi tên...)
+=a spent bullet+ một viên đạn hết đà (rơi xuống)
+- tàn lụi
+@Chuyên ngành kinh tế
+-lượng tiêu hao
+-sự tận thu (cá)
+-sự tiêu hao
+-tận thu
+-tiêu hao
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-đã hỏng
+-đã sử dụng
+@Lĩnh vực: toán & tin
+-được dùng
+-được tiêu
+-tiêu (dùng)

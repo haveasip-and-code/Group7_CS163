@@ -1,3 +1,6 @@
-tisane
-	@tisane /ti:'zæn/\n*  danh từ\n- (dược học) nước sắc, thuốc hãm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nước sắc, thuốc hãm
-
+tisane	@tisane /ti:'zæn/
+*  danh từ
+- (dược học) nước sắc, thuốc hãm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nước sắc, thuốc hãm

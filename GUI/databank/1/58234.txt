@@ -1,3 +1,8 @@
-turnaround
-	@Chuyên ngành kinh tế\n-xoay vòng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chu kỳ quay (của con thoi không gian)\n@Lĩnh vực: giao thông & vận tải\n-sự bay vòng (thiết bị bay)\n-sự bay vòng quanh
-
+turnaround	@Chuyên ngành kinh tế
+-xoay vòng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-chu kỳ quay (của con thoi không gian)
+@Lĩnh vực: giao thông & vận tải
+-sự bay vòng (thiết bị bay)
+-sự bay vòng quanh

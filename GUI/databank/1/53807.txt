@@ -1,3 +1,7 @@
-structureless
-	@Chuyên ngành kinh tế\n-không có cấu trúc\n@Chuyên ngành kỹ thuật\n-không có cấu trúc\n-vô định hình\n@Lĩnh vực: điện lạnh\n-phi cấu trúc
-
+structureless	@Chuyên ngành kinh tế
+-không có cấu trúc
+@Chuyên ngành kỹ thuật
+-không có cấu trúc
+-vô định hình
+@Lĩnh vực: điện lạnh
+-phi cấu trúc

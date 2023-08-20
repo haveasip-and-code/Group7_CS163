@@ -1,3 +1,8 @@
-speller
-	@speller /'spelə/\n*  danh từ\n- người đánh vần\n- sách học vần\n- điểm báo trước\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trình kiểm chính tả
-
+speller	@speller /'spelə/
+*  danh từ
+- người đánh vần
+- sách học vần
+- điểm báo trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-trình kiểm chính tả

@@ -1,3 +1,4 @@
-arms
-	@Chuyên ngành kinh tế\n-khí giới\n-vũ khí
-
+arms	
+@Chuyên ngành kinh tế
+-khí giới
+-vũ khí

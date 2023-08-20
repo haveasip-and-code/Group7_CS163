@@ -1,3 +1,14 @@
-transmittance
-	@transmittance\n* danh từ\n- sự truyền\n- hệ số truyền\n@Chuyên ngành kỹ thuật\n-độ truyền qua\n-hệ số truyền\n-hệ số truyền qua\n-năng suất truyền\n@Lĩnh vực: xây dựng\n-độ trong (suốt)\n-tính trong (suốt)\n@Lĩnh vực: điện tử & viễn thông\n-hệ số vô tuyến
-
+transmittance	@transmittance
+* danh từ
+- sự truyền
+- hệ số truyền
+@Chuyên ngành kỹ thuật
+-độ truyền qua
+-hệ số truyền
+-hệ số truyền qua
+-năng suất truyền
+@Lĩnh vực: xây dựng
+-độ trong (suốt)
+-tính trong (suốt)
+@Lĩnh vực: điện tử & viễn thông
+-hệ số vô tuyến

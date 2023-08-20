@@ -1,3 +1,6 @@
-correctable
-	@correctable\n- xem correct\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể hiệu chỉnh\n-có thể sửa
-
+correctable	@correctable
+- xem correct
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể hiệu chỉnh
+-có thể sửa

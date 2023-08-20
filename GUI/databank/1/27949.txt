@@ -1,3 +1,29 @@
-incorporate
-	@incorporate /in'kɔ:pərit/\n*  tính từ\n- kết hợp chặt chẽ\n- hợp thành tổ chức, hợp thành đoàn thể\n*  ngoại động từ\n- sáp nhập, hợp nhất, kết hợp chặt chẽ\n- hợp thành tổ chức, hợp thành đoàn thể\n- kết nạp vào tổ chức, kết nạp vào đoàn thể\n*  nội động từ\n- sáp nhập, hợp nhất\n@Chuyên ngành kinh tế\n-đoàn thể\n-hợp nhất\n-hợp thành tổ chức\n-kết nạp vào tổ chức\n-sáp nhập\n-thành lập công ty\n@Chuyên ngành kỹ thuật\n-cho vào\n-chứa\n-đưa vào\n-gắn vào\n-hợp nhất\n-hợp thành\n-lắp vào\n-xen vào\n@Lĩnh vực: hóa học & vật liệu\n-sát nhập
-
+incorporate	
+@incorporate /in'kɔ:pərit/
+*  tính từ
+- kết hợp chặt chẽ
+- hợp thành tổ chức, hợp thành đoàn thể
+*  ngoại động từ
+- sáp nhập, hợp nhất, kết hợp chặt chẽ
+- hợp thành tổ chức, hợp thành đoàn thể
+- kết nạp vào tổ chức, kết nạp vào đoàn thể
+*  nội động từ
+- sáp nhập, hợp nhất
+@Chuyên ngành kinh tế
+-đoàn thể
+-hợp nhất
+-hợp thành tổ chức
+-kết nạp vào tổ chức
+-sáp nhập
+-thành lập công ty
+@Chuyên ngành kỹ thuật
+-cho vào
+-chứa
+-đưa vào
+-gắn vào
+-hợp nhất
+-hợp thành
+-lắp vào
+-xen vào
+@Lĩnh vực: hóa học & vật liệu
+-sát nhập

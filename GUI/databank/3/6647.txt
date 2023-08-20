@@ -1,3 +1,12 @@
-braze
-	@braze\n- (Tech) hàn gia nhiệt, hàn vẩy\n@Chuyên ngành kỹ thuật\n-hàn bằng đồng thau\n-hàn cứng\n-hàn đồng\n@Lĩnh vực: xây dựng\n-hàn thau\n@Lĩnh vực: cơ khí & công trình\n-hàn vảy cứng\n@Lĩnh vực: toán & tin\n-thau
-
+braze	@braze
+- (Tech) hàn gia nhiệt, hàn vẩy
+@Chuyên ngành kỹ thuật
+-hàn bằng đồng thau
+-hàn cứng
+-hàn đồng
+@Lĩnh vực: xây dựng
+-hàn thau
+@Lĩnh vực: cơ khí & công trình
+-hàn vảy cứng
+@Lĩnh vực: toán & tin
+-thau

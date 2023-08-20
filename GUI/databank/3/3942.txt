@@ -1,3 +1,27 @@
-audit
-	@audit /'ɔ:dit/\n*  danh từ\n- sự kiểm tra (sổ sách)\n=audit ale+ bia đặc biệt trong ngày kiểm tra sổ sách\n- sự thanh toán các khoản (theo kỳ hạn) giữa tá điền và địa chủ\n*  ngoại động từ\n- kiểm tra (sổ sách)\n@Chuyên ngành kinh tế\n-công việc kiểm toán\n-kết toán (sổ sách)\n-kết toán sổ sách\n-kiểm toán\n-kiểm tra\n-kiểm tra (chương mục)\n-kiểm tra kế toán\n-sự kiểm tra sổ sách kế toán\n-sự quyết toán\n-sự thẩm tra\n-thẩm kế\n-việc kiểm toán\n@Chuyên ngành kỹ thuật\n-kiểm nghiệm\n-kiểm tra\n-sự kiểm tra\n-thử\n@Lĩnh vực: giao thông & vận tải\n-kiểm toán
-
+audit	@audit /'ɔ:dit/
+*  danh từ
+- sự kiểm tra (sổ sách)
+=audit ale+ bia đặc biệt trong ngày kiểm tra sổ sách
+- sự thanh toán các khoản (theo kỳ hạn) giữa tá điền và địa chủ
+*  ngoại động từ
+- kiểm tra (sổ sách)
+@Chuyên ngành kinh tế
+-công việc kiểm toán
+-kết toán (sổ sách)
+-kết toán sổ sách
+-kiểm toán
+-kiểm tra
+-kiểm tra (chương mục)
+-kiểm tra kế toán
+-sự kiểm tra sổ sách kế toán
+-sự quyết toán
+-sự thẩm tra
+-thẩm kế
+-việc kiểm toán
+@Chuyên ngành kỹ thuật
+-kiểm nghiệm
+-kiểm tra
+-sự kiểm tra
+-thử
+@Lĩnh vực: giao thông & vận tải
+-kiểm toán

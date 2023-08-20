@@ -1,3 +1,2 @@
-cheeper
-	@cheeper\n- xem cheep
-
+cheeper	@cheeper
+- xem cheep

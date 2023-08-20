@@ -1,3 +1,23 @@
-mission
-	@mission /'miʃn/\n*  danh từ\n- sứ mệnh, nhiệm vụ\n=the mission of the poets+ sứ mệnh của các nhà thơ\n=to complete one's mission successfully+ hoàn thành thắng lợi nhiệm vụ\n=air mission+ đợt bay, phi vụ\n- sự đi công cán, sự đi công tác\n- phái đoàn\n=an economic mission+ phái đoàn kinh tế\n=a diplomatic mission+ phái đoàn ngoại giao\n- (từ Mỹ,nghĩa Mỹ) toà công sứ, toà đại sứ\n- sự truyền giáo; hội truyền giáo; khu vực truyền giáo; trụ sở của hội truyền giáo\n=a foreign mission+ hội truyền giáo ở nước ngoài\n=a home mission+ hội truyền giáo ở trong nước\n@Chuyên ngành kinh tế\n-nhiệm vụ\n-phái đoàn\n-sự đi công cán\n-sứ mệnh\n-sự truyền giáo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sứ mệnh
-
+mission	@mission /'miʃn/
+*  danh từ
+- sứ mệnh, nhiệm vụ
+=the mission of the poets+ sứ mệnh của các nhà thơ
+=to complete one's mission successfully+ hoàn thành thắng lợi nhiệm vụ
+=air mission+ đợt bay, phi vụ
+- sự đi công cán, sự đi công tác
+- phái đoàn
+=an economic mission+ phái đoàn kinh tế
+=a diplomatic mission+ phái đoàn ngoại giao
+- (từ Mỹ,nghĩa Mỹ) toà công sứ, toà đại sứ
+- sự truyền giáo; hội truyền giáo; khu vực truyền giáo; trụ sở của hội truyền giáo
+=a foreign mission+ hội truyền giáo ở nước ngoài
+=a home mission+ hội truyền giáo ở trong nước
+@Chuyên ngành kinh tế
+-nhiệm vụ
+-phái đoàn
+-sự đi công cán
+-sứ mệnh
+-sự truyền giáo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sứ mệnh

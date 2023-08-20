@@ -1,3 +1,14 @@
-precipitator
-	@precipitator\n- xem precipitate\n@Chuyên ngành kinh tế\n-bể lắng cặn\n-thiết bị lắng cặn\n@Chuyên ngành kỹ thuật\n-chất làm đông tụ\n-máy kết tủa\n-máy lọc bụi\n@Lĩnh vực: điện\n-bộ lắng\n-bộ lắng bụi\n-chất gây kết tủa\n-thiết bị kết tủa
-
+precipitator	@precipitator
+- xem precipitate
+@Chuyên ngành kinh tế
+-bể lắng cặn
+-thiết bị lắng cặn
+@Chuyên ngành kỹ thuật
+-chất làm đông tụ
+-máy kết tủa
+-máy lọc bụi
+@Lĩnh vực: điện
+-bộ lắng
+-bộ lắng bụi
+-chất gây kết tủa
+-thiết bị kết tủa

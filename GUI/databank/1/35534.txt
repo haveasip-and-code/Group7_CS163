@@ -1,3 +1,7 @@
-monomial
-	@monomial\n* danh từ\n- đơn thức\n* tính từ\n- thuộc đơn thức\n@Chuyên ngành kỹ thuật\n-đơn thức
-
+monomial	@monomial
+* danh từ
+- đơn thức
+* tính từ
+- thuộc đơn thức
+@Chuyên ngành kỹ thuật
+-đơn thức

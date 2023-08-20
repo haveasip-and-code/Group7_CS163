@@ -1,3 +1,2 @@
-stickers
-	@Chuyên ngành kinh tế\n-người dân quảng cáo
-
+stickers	@Chuyên ngành kinh tế
+-người dân quảng cáo

@@ -1,3 +1,2 @@
-maximin
-	@maximin\n- (lý thuyết trò chơi) maximin
-
+maximin	@maximin
+- (lý thuyết trò chơi) maximin

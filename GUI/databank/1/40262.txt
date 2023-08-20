@@ -1,3 +1,5 @@
-peek
-	@peek /pi:k/\n*  nội động từ\n- hé nhìn, lé nhìn\n@Chuyên ngành kỹ thuật\n-lột vỏ
-
+peek	@peek /pi:k/
+*  nội động từ
+- hé nhìn, lé nhìn
+@Chuyên ngành kỹ thuật
+-lột vỏ

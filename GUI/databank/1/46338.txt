@@ -1,3 +1,3 @@
-refracted
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bị khúc xạ
-
+refracted	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bị khúc xạ

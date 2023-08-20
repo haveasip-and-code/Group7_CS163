@@ -1,3 +1,24 @@
-trickle
-	@trickle /'trikl/\n*  danh từ\n- tia nhỏ, dòng nhỏ (nước)\n=a trickle of blood+ dòng máu nhỏ\n=to set the tap at a trickletrickle+ mở vòi nước cho chảy nhỏ giọt\n=trickle of sales+ sự bán nhỏ giọt\n*  ngoại động từ\n- làm cho chảy nhỏ giọt, làm cho chảy thành dòng nhỏ\n=to trickle ink into a fountain-pen+ cho mực chảy nhỏ giọt vào bút máy\n*  nội động từ\n- chảy nhỏ giọt, chảy thành dòng nhỏ (nước, máu...)\n- dần dần lộ ra (tin tức)\n=the information trickled out+ tin đã lộ dần ra\n@Chuyên ngành kỹ thuật\n-dòng nhỏ\n-làm chảy nhỏ giọt\n-nhỏ giọt\n@Lĩnh vực: điện lạnh\n-chảy nhỏ giọt\n@Lĩnh vực: hóa học & vật liệu\n-chảy thành tia nhỏ\n-giọt nhỏ\n@Lĩnh vực: cơ khí & công trình\n-tia (nước)
-
+trickle	@trickle /'trikl/
+*  danh từ
+- tia nhỏ, dòng nhỏ (nước)
+=a trickle of blood+ dòng máu nhỏ
+=to set the tap at a trickletrickle+ mở vòi nước cho chảy nhỏ giọt
+=trickle of sales+ sự bán nhỏ giọt
+*  ngoại động từ
+- làm cho chảy nhỏ giọt, làm cho chảy thành dòng nhỏ
+=to trickle ink into a fountain-pen+ cho mực chảy nhỏ giọt vào bút máy
+*  nội động từ
+- chảy nhỏ giọt, chảy thành dòng nhỏ (nước, máu...)
+- dần dần lộ ra (tin tức)
+=the information trickled out+ tin đã lộ dần ra
+@Chuyên ngành kỹ thuật
+-dòng nhỏ
+-làm chảy nhỏ giọt
+-nhỏ giọt
+@Lĩnh vực: điện lạnh
+-chảy nhỏ giọt
+@Lĩnh vực: hóa học & vật liệu
+-chảy thành tia nhỏ
+-giọt nhỏ
+@Lĩnh vực: cơ khí & công trình
+-tia (nước)

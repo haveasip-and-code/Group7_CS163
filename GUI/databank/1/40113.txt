@@ -1,3 +1,9 @@
-payee
-	@payee /pei'i:/\n*  danh từ\n- người được trả tiền\n@Chuyên ngành kinh tế\n-người được trả tiền\n-người hưởng\n-người nhận (một thư chuyển tiền)\n-người nhận tiền\n-người thụ hưởng
-
+payee	@payee /pei'i:/
+*  danh từ
+- người được trả tiền
+@Chuyên ngành kinh tế
+-người được trả tiền
+-người hưởng
+-người nhận (một thư chuyển tiền)
+-người nhận tiền
+-người thụ hưởng

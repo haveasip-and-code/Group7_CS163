@@ -1,3 +1,2 @@
-colorless
-	@Chuyên ngành kỹ thuật\n-không màu
-
+colorless	@Chuyên ngành kỹ thuật
+-không màu

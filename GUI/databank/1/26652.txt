@@ -1,3 +1,3 @@
-hymnbook
-	@hymnbook\n- Cách viết khác : hymnal
-
+hymnbook	
+@hymnbook
+- Cách viết khác : hymnal

@@ -1,3 +1,32 @@
-ratio
-	@ratio /'reiʃiou/\n*  danh từ,  số nhiều ratios  /'reiʃiouz/\n- tỷ số, tỷ lệ\n=ratio of similitude+ (toán học) tỷ số đồng dạng\n=in the ratio of 5 to 10+ theo tỷ lệ 5 trên 10\n=to be in direct ratio to+ theo tỷ lệ thuận với\n=to be in inverse ratio to+ theo tỷ lệ nghịch với\n- (kỹ thuật) số truyền\n@Chuyên ngành kinh tế\n-hệ số\n-hệ suất\n-mức độ\n-suất\n-tỉ\n-tỉ lệ\n-tỉ lệ phần trăm\n-tỉ suất\n-tỷ lệ\n-tỷ lệ phần trăm\n-tỷ số\n-tỷ suất\n@Chuyên ngành kỹ thuật\n-độ\n-hệ số\n-mức\n-mức độ\n-quan hệ\n-suất\n@Lĩnh vực: cơ khí & công trình\n-số truyền\n@Lĩnh vực: toán & tin\n-tỷ số, tỷ lệ
-
+ratio	@ratio /'reiʃiou/
+*  danh từ,  số nhiều ratios  /'reiʃiouz/
+- tỷ số, tỷ lệ
+=ratio of similitude+ (toán học) tỷ số đồng dạng
+=in the ratio of 5 to 10+ theo tỷ lệ 5 trên 10
+=to be in direct ratio to+ theo tỷ lệ thuận với
+=to be in inverse ratio to+ theo tỷ lệ nghịch với
+- (kỹ thuật) số truyền
+@Chuyên ngành kinh tế
+-hệ số
+-hệ suất
+-mức độ
+-suất
+-tỉ
+-tỉ lệ
+-tỉ lệ phần trăm
+-tỉ suất
+-tỷ lệ
+-tỷ lệ phần trăm
+-tỷ số
+-tỷ suất
+@Chuyên ngành kỹ thuật
+-độ
+-hệ số
+-mức
+-mức độ
+-quan hệ
+-suất
+@Lĩnh vực: cơ khí & công trình
+-số truyền
+@Lĩnh vực: toán & tin
+-tỷ số, tỷ lệ

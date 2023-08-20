@@ -1,3 +1,6 @@
-ghee
-	@ghee /gi:/\n*  danh từ\n- bơ sữa trâu lỏng\n@Chuyên ngành kinh tế\n-bơ sữa trâu
-
+ghee	
+@ghee /gi:/
+*  danh từ
+- bơ sữa trâu lỏng
+@Chuyên ngành kinh tế
+-bơ sữa trâu

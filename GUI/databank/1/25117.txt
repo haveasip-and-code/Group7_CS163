@@ -1,3 +1,12 @@
-hauler
-	@Chuyên ngành kinh tế\n-cành cây\n-dậy\n-rơm rạ\n@Chuyên ngành kỹ thuật\n-dây néo\n-tời\n@Lĩnh vực: cơ khí & công trình\n-xe vận chuyển\n@Lĩnh vực: xây dựng\n-xe vận tải
-
+hauler	
+@Chuyên ngành kinh tế
+-cành cây
+-dậy
+-rơm rạ
+@Chuyên ngành kỹ thuật
+-dây néo
+-tời
+@Lĩnh vực: cơ khí & công trình
+-xe vận chuyển
+@Lĩnh vực: xây dựng
+-xe vận tải

@@ -1,3 +1,18 @@
-shelving
-	@shelving\n* danh từ\n- giá; vật liệu để đóng giá (sách)\n@Chuyên ngành kinh tế\n-bệ\n@Chuyên ngành kỹ thuật\n-bệ đỡ\n-dốc thoải\n-giá\n-giàn\n-nghiêng\n-mái dốc\n-mái nghiêng\n-mặt nghiêng\n@Lĩnh vực: xây dựng\n-giá (để đồ đạc)\n-taluy thoải\n-tủ ngăn
-
+shelving	@shelving
+* danh từ
+- giá; vật liệu để đóng giá (sách)
+@Chuyên ngành kinh tế
+-bệ
+@Chuyên ngành kỹ thuật
+-bệ đỡ
+-dốc thoải
+-giá
+-giàn
+-nghiêng
+-mái dốc
+-mái nghiêng
+-mặt nghiêng
+@Lĩnh vực: xây dựng
+-giá (để đồ đạc)
+-taluy thoải
+-tủ ngăn

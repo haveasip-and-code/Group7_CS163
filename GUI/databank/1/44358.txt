@@ -1,3 +1,2 @@
-provisioner
-	@provisioner\n- xem provision
-
+provisioner	@provisioner
+- xem provision

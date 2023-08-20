@@ -1,3 +1,53 @@
-limb
-	@limb /lim/\n*  danh từ\n- (thiên văn học) quầng (ở quanh thiên thể)\n- bờ, rìa\n- (thực vật học) phiến lá; phiến cánh hoa; phiến lá đài\n*  danh từ\n- chân, tay\n- cành cây to\n- núi ngang, hoành sơn\n- đuồi nưa tiêm qổm cạnh của chữ thập\n!the limb of the law\n- người đại diện cho luật pháp (luật sư, cảnh sát, công an)\n!out of a limb\n- chơ vơ, chơi vơi, không bấu víu vào đâu được\n*  ngoại động từ\n- chặt chân tay, làm cho tàn phế\n@Chuyên ngành kinh tế\n-bờ\n-chân\n-chi\n-phiến hoa\n-phiến lá\n-rìa\n@Chuyên ngành kỹ thuật\n-biên\n-bờ\n-bộ phận\n-cánh (đứt gãy)\n-lõi (nam châm)\n-mép\n-phần\n-vành chia độ\n-vành độ\n-vành khắc độ\n@Lĩnh vực: hóa học & vật liệu\n-quầng (mặt trời)\n@Lĩnh vực: cơ khí & công trình\n-rìa\n@Chuyên ngành kỹ thuật\n-biên\n-bờ\n-bộ phận\n-cánh (đứt gãy)\n-lõi (nam châm)\n-mép\n-phần\n-vành chia độ\n-vành độ\n-vành khắc độ\n@Lĩnh vực: hóa học & vật liệu\n-quầng (mặt trời)\n@Lĩnh vực: cơ khí & công trình\n-rìa
-
+limb	@limb /lim/
+*  danh từ
+- (thiên văn học) quầng (ở quanh thiên thể)
+- bờ, rìa
+- (thực vật học) phiến lá; phiến cánh hoa; phiến lá đài
+*  danh từ
+- chân, tay
+- cành cây to
+- núi ngang, hoành sơn
+- đuồi nưa tiêm qổm cạnh của chữ thập
+!the limb of the law
+- người đại diện cho luật pháp (luật sư, cảnh sát, công an)
+!out of a limb
+- chơ vơ, chơi vơi, không bấu víu vào đâu được
+*  ngoại động từ
+- chặt chân tay, làm cho tàn phế
+@Chuyên ngành kinh tế
+-bờ
+-chân
+-chi
+-phiến hoa
+-phiến lá
+-rìa
+@Chuyên ngành kỹ thuật
+-biên
+-bờ
+-bộ phận
+-cánh (đứt gãy)
+-lõi (nam châm)
+-mép
+-phần
+-vành chia độ
+-vành độ
+-vành khắc độ
+@Lĩnh vực: hóa học & vật liệu
+-quầng (mặt trời)
+@Lĩnh vực: cơ khí & công trình
+-rìa
+@Chuyên ngành kỹ thuật
+-biên
+-bờ
+-bộ phận
+-cánh (đứt gãy)
+-lõi (nam châm)
+-mép
+-phần
+-vành chia độ
+-vành độ
+-vành khắc độ
+@Lĩnh vực: hóa học & vật liệu
+-quầng (mặt trời)
+@Lĩnh vực: cơ khí & công trình
+-rìa

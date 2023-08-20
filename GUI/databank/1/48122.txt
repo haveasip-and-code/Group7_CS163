@@ -1,3 +1,5 @@
-rubberized
-	@Chuyên ngành kỹ thuật\n-được bọc cao su\n@Lĩnh vực: hóa học & vật liệu\n-được tẩm cao su\n-được tráng cao
-
+rubberized	@Chuyên ngành kỹ thuật
+-được bọc cao su
+@Lĩnh vực: hóa học & vật liệu
+-được tẩm cao su
+-được tráng cao

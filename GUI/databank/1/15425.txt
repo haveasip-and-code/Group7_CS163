@@ -1,3 +1,29 @@
-dimension
-	@dimension /di'menʃn/\n*  danh từ\n- chiều, kích thước, khổ, cỡ\n=the three dimensions+ ba chiều (dài, rộng và cao)\n=of great dimensions+ cỡ lớn\n- (toán học) thứ nguyên (của một đại lượng)\n*  ngoại động từ\n- định kích thước, đo kích thước (một vật gì)\n@Chuyên ngành kinh tế\n-khuôn khổ\n-kích thước\n@Chuyên ngành kỹ thuật\n-đo kích thước\n-đoạn\n-khổ\n-khối lượng\n-kích cỡ\n-kích thước\n-phân đoạn\n-quy mô\n-số đo\n-sự đo đạc\n-thể tích\n@Lĩnh vực: xây dựng\n-cỡ khổ\n-đường kích thước\n@Lĩnh vực: toán & tin\n-số chiều
-
+dimension	
+@dimension /di'menʃn/
+*  danh từ
+- chiều, kích thước, khổ, cỡ=the three dimensions
++ ba chiều (dài, rộng và cao)=of great dimensions
++ cỡ lớn
+- (toán học) thứ nguyên (của một đại lượng)
+*  ngoại động từ
+- định kích thước, đo kích thước (một vật gì)
+@Chuyên ngành kinh tế
+-khuôn khổ
+-kích thước
+@Chuyên ngành kỹ thuật
+-đo kích thước
+-đoạn
+-khổ
+-khối lượng
+-kích cỡ
+-kích thước
+-phân đoạn
+-quy mô
+-số đo
+-sự đo đạc
+-thể tích
+@Lĩnh vực: xây dựng
+-cỡ khổ
+-đường kích thước
+@Lĩnh vực: toán & tin
+-số chiều

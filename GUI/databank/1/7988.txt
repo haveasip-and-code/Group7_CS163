@@ -1,3 +1,4 @@
-cardia
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tâm vị, tim
-
+cardia	
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tâm vị, tim

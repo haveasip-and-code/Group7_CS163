@@ -1,3 +1,4 @@
-striping
-	@Chuyên ngành kỹ thuật\n-sự kẻ sọc\n@Lĩnh vực: xây dựng\n-sự kẻ vạch
-
+striping	@Chuyên ngành kỹ thuật
+-sự kẻ sọc
+@Lĩnh vực: xây dựng
+-sự kẻ vạch

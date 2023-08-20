@@ -1,3 +1,14 @@
-stabilizing
-	@stabilizing\n* danh từ\n- sự tạo (đảm bảo) ổn định\n@Chuyên ngành kinh tế\n-làm cân bằng\n-làm ổn định\n@Chuyên ngành kỹ thuật\n-làm ổn định\n-sự gia cố\n-sự ổn định\n@Lĩnh vực: xây dựng\n-sự làm ổn định\n@Lĩnh vực: cơ khí & công trình\n-sự ủ nhiệt độ thấp (khử nội lực)
-
+stabilizing	@stabilizing
+* danh từ
+- sự tạo (đảm bảo) ổn định
+@Chuyên ngành kinh tế
+-làm cân bằng
+-làm ổn định
+@Chuyên ngành kỹ thuật
+-làm ổn định
+-sự gia cố
+-sự ổn định
+@Lĩnh vực: xây dựng
+-sự làm ổn định
+@Lĩnh vực: cơ khí & công trình
+-sự ủ nhiệt độ thấp (khử nội lực)

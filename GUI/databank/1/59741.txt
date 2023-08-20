@@ -1,3 +1,8 @@
-unhook
-	@unhook /'ʌn'huk/\n*  ngoại động từ\n- mở khuy (áo)\n=to become unhooked+ mở khuy áo của mình ra, phanh áo ra\n- tháo ở móc ra\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-không móc nối
-
+unhook	@unhook /'ʌn'huk/
+*  ngoại động từ
+- mở khuy (áo)
+=to become unhooked+ mở khuy áo của mình ra, phanh áo ra
+- tháo ở móc ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-không móc nối

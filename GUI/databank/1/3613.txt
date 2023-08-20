@@ -1,3 +1,14 @@
-asset
-	@asset /'æset/\n*  danh từ\n- (số nhiều) tài sản (của một người hay một công ty) có thể dùng để trả nợ\n- (số nhiều) tài sản của người không thể trả được nợ\n- (số nhiều) của cải, tài sản, vật thuộc quyền sở hữ\n=real assets+ bất động sản\n=personal assets+ động sản\n- (thông tục) vốn quý, vật có ích, vật quý\n@Chuyên ngành kinh tế\n-người hữu dụng\n-tài sản\n@Chuyên ngành kỹ thuật\n-của cải
-
+asset	
+@asset /'æset/
+*  danh từ
+- (số nhiều) tài sản (của một người hay một công ty) có thể dùng để trả nợ
+- (số nhiều) tài sản của người không thể trả được nợ
+- (số nhiều) của cải, tài sản, vật thuộc quyền sở hữ=real assets
++ bất động sản=personal assets
++ động sản
+- (thông tục) vốn quý, vật có ích, vật quý
+@Chuyên ngành kinh tế
+-người hữu dụng
+-tài sản
+@Chuyên ngành kỹ thuật
+-của cải

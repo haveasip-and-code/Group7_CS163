@@ -1,3 +1,5 @@
-rocketry
-	@rocketry\n* danh từ\n- tên lửa học (về khoa học, sự thực hành)\n@Chuyên ngành kỹ thuật\n-ngành tên lửa học
-
+rocketry	@rocketry
+* danh từ
+- tên lửa học (về khoa học, sự thực hành)
+@Chuyên ngành kỹ thuật
+-ngành tên lửa học

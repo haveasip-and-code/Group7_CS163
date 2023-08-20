@@ -1,3 +1,2 @@
-coequality
-	@coequality\n- xem coequal
-
+coequality	@coequality
+- xem coequal

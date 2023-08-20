@@ -1,3 +1,8 @@
-blowout
-	@Chuyên ngành kinh tế\n-bán nhanh hết\n@Chuyên ngành kỹ thuật\n-sự bật hơi\n-sự phun trào (dầu)\n@Lĩnh vực: điện lạnh\n-sự nổ cầu chì
-
+blowout	
+@Chuyên ngành kinh tế
+-bán nhanh hết
+@Chuyên ngành kỹ thuật
+-sự bật hơi
+-sự phun trào (dầu)
+@Lĩnh vực: điện lạnh
+-sự nổ cầu chì

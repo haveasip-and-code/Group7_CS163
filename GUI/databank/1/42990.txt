@@ -1,3 +1,4 @@
-prebend
-	@prebend /'prebənd/\n*  danh từ\n- (tôn giáo) lộc thánh\n- đất đai có lộc thánh; chức vị được hưởng lộc thánh
-
+prebend	@prebend /'prebənd/
+*  danh từ
+- (tôn giáo) lộc thánh
+- đất đai có lộc thánh; chức vị được hưởng lộc thánh

@@ -1,3 +1,5 @@
-explosives
-	@Chuyên ngành kỹ thuật\n-vật liệu nổ\n@Chuyên ngành kỹ thuật\n-vật liệu nổ
-
+explosives	
+@Chuyên ngành kỹ thuật
+-vật liệu nổ
+@Chuyên ngành kỹ thuật
+-vật liệu nổ

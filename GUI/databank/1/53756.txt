@@ -1,3 +1,35 @@
-stripper
-	@stripper /'stripə/\n*  danh từ\n- người tước cọng thuốc lá; máy tước cọng thuốc lá\n- (từ Mỹ,nghĩa Mỹ) (như) strip-teaser\n@Chuyên ngành kinh tế\n-máy bào\n-máy ép ruột\n-máy làm sạch vỏ\n-máy tách gân chính (của máy thuốc lá)\n-máy tước vỏ\n-ngăn rửa bằng hơi nước (của tháp tinh cất)\n-người bán tống\n-người tháo dỡ\n@Chuyên ngành kỹ thuật\n-cột cất\n-kìm nhổ đinh\n-máy bao than\n-máy bơm phun\n-máy ép gạch\n@Lĩnh vực: toán & tin\n-bộ tách giấy (khởi cơ cấu in)\n@Lĩnh vực: cơ khí & công trình\n-cần trục dỡ (thỏi)\n-dung dịch tẩy sơn\n-thiết bị tháo dỡ\n@Lĩnh vực: điện\n-dao gọt dây\n-kìm bóc dây điện\n-kìm tuốt\n@Lĩnh vực: hóa học & vật liệu\n-dung môi loại bỏ khí\n-giếng biên (sản lượng thấp)\n-máy dỡ thỏi\n-thiết bị tháo khuôn\n-vật liệu bịt kín (ống sản xuất dưới áp lực)
-
+stripper	@stripper /'stripə/
+*  danh từ
+- người tước cọng thuốc lá; máy tước cọng thuốc lá
+- (từ Mỹ,nghĩa Mỹ) (như) strip-teaser
+@Chuyên ngành kinh tế
+-máy bào
+-máy ép ruột
+-máy làm sạch vỏ
+-máy tách gân chính (của máy thuốc lá)
+-máy tước vỏ
+-ngăn rửa bằng hơi nước (của tháp tinh cất)
+-người bán tống
+-người tháo dỡ
+@Chuyên ngành kỹ thuật
+-cột cất
+-kìm nhổ đinh
+-máy bao than
+-máy bơm phun
+-máy ép gạch
+@Lĩnh vực: toán & tin
+-bộ tách giấy (khởi cơ cấu in)
+@Lĩnh vực: cơ khí & công trình
+-cần trục dỡ (thỏi)
+-dung dịch tẩy sơn
+-thiết bị tháo dỡ
+@Lĩnh vực: điện
+-dao gọt dây
+-kìm bóc dây điện
+-kìm tuốt
+@Lĩnh vực: hóa học & vật liệu
+-dung môi loại bỏ khí
+-giếng biên (sản lượng thấp)
+-máy dỡ thỏi
+-thiết bị tháo khuôn
+-vật liệu bịt kín (ống sản xuất dưới áp lực)

@@ -1,3 +1,2 @@
-marquesses
-	@marquesses\n- số nhiều của marquess
-
+marquesses	@marquesses
+- số nhiều của marquess

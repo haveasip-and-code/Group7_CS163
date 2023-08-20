@@ -1,3 +1,23 @@
-expander
-	@expander\n- (Tech) bộ giãn\n@Chuyên ngành kỹ thuật\n-bộ giãn\n-bộ phận giãn\n-đêtăngđơ\n@Lĩnh vực: điện tử & viễn thông\n-bộ mở rộng\n-bộ nới rộng\n@Lĩnh vực: điện lạnh\n-chất giãn\n-máy dãn nở\n@Chuyên ngành kỹ thuật\n-bộ giãn\n-bộ phận giãn\n-đêtăngđơ\n@Lĩnh vực: điện tử & viễn thông\n-bộ mở rộng\n-bộ nới rộng\n@Lĩnh vực: điện lạnh\n-chất giãn\n-máy dãn nở
-
+expander	
+@expander
+- (Tech) bộ giãn
+@Chuyên ngành kỹ thuật
+-bộ giãn
+-bộ phận giãn
+-đêtăngđơ
+@Lĩnh vực: điện tử & viễn thông
+-bộ mở rộng
+-bộ nới rộng
+@Lĩnh vực: điện lạnh
+-chất giãn
+-máy dãn nở
+@Chuyên ngành kỹ thuật
+-bộ giãn
+-bộ phận giãn
+-đêtăngđơ
+@Lĩnh vực: điện tử & viễn thông
+-bộ mở rộng
+-bộ nới rộng
+@Lĩnh vực: điện lạnh
+-chất giãn
+-máy dãn nở

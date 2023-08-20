@@ -1,3 +1,2 @@
-unsubsidized
-	@Chuyên ngành kinh tế\n-không có, không được trợ cấp
-
+unsubsidized	@Chuyên ngành kinh tế
+-không có, không được trợ cấp

@@ -1,3 +1,22 @@
-exothermic
-	@exothermic /,eksou'θə:məl/ (exothermic) /,eksou'θə:mik/\n*  tính từ\n- (hoá học) toả nhiệt\n@Chuyên ngành kỹ thuật\n-ngoại nhiệt\n-phóng năng\n-tỏa nhiệt\n@Lĩnh vực: cơ khí & công trình\n-bị giãn nở\n@Lĩnh vực: điện lạnh\n-phóng nhiệt\n-tỏa năng\n@Chuyên ngành kỹ thuật\n-ngoại nhiệt\n-phóng năng\n-tỏa nhiệt\n@Lĩnh vực: cơ khí & công trình\n-bị giãn nở\n@Lĩnh vực: điện lạnh\n-phóng nhiệt\n-tỏa năng
-
+exothermic	
+@exothermic /,eksou'θə:məl/ (exothermic) /,eksou'θə:mik/
+*  tính từ
+- (hoá học) toả nhiệt
+@Chuyên ngành kỹ thuật
+-ngoại nhiệt
+-phóng năng
+-tỏa nhiệt
+@Lĩnh vực: cơ khí & công trình
+-bị giãn nở
+@Lĩnh vực: điện lạnh
+-phóng nhiệt
+-tỏa năng
+@Chuyên ngành kỹ thuật
+-ngoại nhiệt
+-phóng năng
+-tỏa nhiệt
+@Lĩnh vực: cơ khí & công trình
+-bị giãn nở
+@Lĩnh vực: điện lạnh
+-phóng nhiệt
+-tỏa năng

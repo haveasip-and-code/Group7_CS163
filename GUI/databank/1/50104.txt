@@ -1,3 +1,13 @@
-sextuple
-	@sextuple /'sekstjupl/\n*  tính từ\n- gấp sáu lần\n*  danh từ\n- số to gấp sáu\n*  động từ\n- nhân sáu, tăng lên sáu lần\n@Chuyên ngành kinh tế\n-thành sáu bản như nhau\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bậc sáu\n-bội sáu
-
+sextuple	@sextuple /'sekstjupl/
+*  tính từ
+- gấp sáu lần
+*  danh từ
+- số to gấp sáu
+*  động từ
+- nhân sáu, tăng lên sáu lần
+@Chuyên ngành kinh tế
+-thành sáu bản như nhau
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bậc sáu
+-bội sáu

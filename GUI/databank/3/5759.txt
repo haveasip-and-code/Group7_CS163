@@ -1,3 +1,3 @@
-blackbody
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-vật thể đen
-
+blackbody	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-vật thể đen

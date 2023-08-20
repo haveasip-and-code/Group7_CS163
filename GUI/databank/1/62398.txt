@@ -1,3 +1,25 @@
-warehouse
-	@warehouse /'weəhaus/\n*  danh từ\n- kho hàng\n- (từ cổ,nghĩa cổ) cửa hàng\n*  ngoại động từ\n- cất vào kho, xếp vào kho\n@Chuyên ngành kinh tế\n-cất vào kho\n-kho\n-kho hàng\n-lưu kho\n-lưu vào kho\n-xếp vào kho\n@Chuyên ngành kỹ thuật\n-kho chứa hàng\n-kho hàng\n-nhà kho\n-nhà kho chứa hàng\n-nhập kho\n@Lĩnh vực: xây dựng\n-bãi chứa hàng\n-kho chứa đồ\n-kho hàng nhập kho\n@Lĩnh vực: toán & tin\n-kho hàng, nhập kho
-
+warehouse	@warehouse /'weəhaus/
+*  danh từ
+- kho hàng
+- (từ cổ,nghĩa cổ) cửa hàng
+*  ngoại động từ
+- cất vào kho, xếp vào kho
+@Chuyên ngành kinh tế
+-cất vào kho
+-kho
+-kho hàng
+-lưu kho
+-lưu vào kho
+-xếp vào kho
+@Chuyên ngành kỹ thuật
+-kho chứa hàng
+-kho hàng
+-nhà kho
+-nhà kho chứa hàng
+-nhập kho
+@Lĩnh vực: xây dựng
+-bãi chứa hàng
+-kho chứa đồ
+-kho hàng nhập kho
+@Lĩnh vực: toán & tin
+-kho hàng, nhập kho

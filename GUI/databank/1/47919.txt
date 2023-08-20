@@ -1,3 +1,6 @@
-role
-	@role /roul/ (rôle) /roul/\n*  danh từ\n- vai, vai trò\n=to play the leading role+ thủ vai chính (trong vở kịch); đóng vai trò lânh đạo\n@Chuyên ngành kỹ thuật\n-vai trò
-
+role	@role /roul/ (rôle) /roul/
+*  danh từ
+- vai, vai trò
+=to play the leading role+ thủ vai chính (trong vở kịch); đóng vai trò lânh đạo
+@Chuyên ngành kỹ thuật
+-vai trò

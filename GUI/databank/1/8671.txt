@@ -1,3 +1,33 @@
-chalk
-	@chalk /tʃɔ:k/\n*  danh từ\n- đá phấn\n- phấn (viết)\n=a piece of chalk+ một viên phấn (viết)\n- điểm ghi bằng phấn (trong một trò chơi)\n- (từ lóng) vết sẹo, vết xước\n!as like as chalk and cheese\n- căn bản khác nhau\n!to believe that chalk is cheese\n- trông gà hoá cuốc\n!chalks away; by a long chalk; by long chalks\n- hơn nhiều, bỏ xa\n=he is the better man by a long chalk+ nó bỏ xa đối phương, nó hơn đối phương nhiều\n!not to know chalk from cheese\n- không biết gì cả, không hiểu gì cả\n!to walk the chalk\n- đi đúng giữa hai vạch phấn (để tỏ là minh không say rượu khi bị đưa đến cảnh sát...)\n- (nghĩa bóng) xử, sự mực thước đứng đắn\n!to walk (stump) one's chalk\n- (từ lóng) chuồn, tẩu, chạy trốn\n*  ngoại động từ\n- viết bằng phấn, vẽ bằng phấn, ghi bằng phấn\n- bôi phấn\n!to chalk out\n- đề ra, vạc (kế hoạch để thực hiện)\n!to chalk up\n- (thương nghiệp) ghi (một món tiền vào sổ nợ)\n!to chalk up a victory\n- ghi được một thắng lợi, giành được một thắng lợi\n@Chuyên ngành kinh tế\n-phấn (viết)\n-vết sẹo\n-vết sước\n-vỏ trứng\n@Chuyên ngành kỹ thuật\n-đá phấn\n-viên phấn\n-vôi\n@Lĩnh vực: hóa học & vật liệu\n-phấn viết
-
+chalk	
+@chalk /tʃɔ:k/
+*  danh từ
+- đá phấn
+- phấn (viết)=a piece of chalk
++ một viên phấn (viết)
+- điểm ghi bằng phấn (trong một trò chơi)
+- (từ lóng) vết sẹo, vết xước!as like as chalk and cheese
+- căn bản khác nhau!to believe that chalk is cheese
+- trông gà hoá cuốc!chalks away; by a long chalk; by long chalks
+- hơn nhiều, bỏ xa=he is the better man by a long chalk
++ nó bỏ xa đối phương, nó hơn đối phương nhiều!not to know chalk from cheese
+- không biết gì cả, không hiểu gì cả!to walk the chalk
+- đi đúng giữa hai vạch phấn (để tỏ là minh không say rượu khi bị đưa đến cảnh sát...)
+- (nghĩa bóng) xử, sự mực thước đứng đắn!to walk (stump) one's chalk
+- (từ lóng) chuồn, tẩu, chạy trốn
+*  ngoại động từ
+- viết bằng phấn, vẽ bằng phấn, ghi bằng phấn
+- bôi phấn!to chalk out
+- đề ra, vạc (kế hoạch để thực hiện)!to chalk up
+- (thương nghiệp) ghi (một món tiền vào sổ nợ)!to chalk up a victory
+- ghi được một thắng lợi, giành được một thắng lợi
+@Chuyên ngành kinh tế
+-phấn (viết)
+-vết sẹo
+-vết sước
+-vỏ trứng
+@Chuyên ngành kỹ thuật
+-đá phấn
+-viên phấn
+-vôi
+@Lĩnh vực: hóa học & vật liệu
+-phấn viết

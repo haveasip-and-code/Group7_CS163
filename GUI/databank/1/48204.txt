@@ -1,3 +1,13 @@
-ruler
-	@ruler /'ru:lə/\n*  danh từ\n- người thống trị, người chuyên quyền; vua, chúa\n- cái thước kẻ\n- thợ kẻ giấy; máy kẻ giấy\n@Chuyên ngành kinh tế\n-thước kẻ\n@Chuyên ngành kỹ thuật\n-thước đo\n@Lĩnh vực: đo lường & điều khiển\n-cái thước\n@Lĩnh vực: xây dựng\n-thước thẳng
-
+ruler	@ruler /'ru:lə/
+*  danh từ
+- người thống trị, người chuyên quyền; vua, chúa
+- cái thước kẻ
+- thợ kẻ giấy; máy kẻ giấy
+@Chuyên ngành kinh tế
+-thước kẻ
+@Chuyên ngành kỹ thuật
+-thước đo
+@Lĩnh vực: đo lường & điều khiển
+-cái thước
+@Lĩnh vực: xây dựng
+-thước thẳng
