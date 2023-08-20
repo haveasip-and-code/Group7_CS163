@@ -1,2 +1,0 @@
-allocator	@allocator
-- (Tech) bộ phân định
