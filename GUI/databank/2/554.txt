@@ -1,3 +1,0 @@
-acquirer
-	@acquirer\n- xem acquire
-

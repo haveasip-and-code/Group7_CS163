@@ -1,7 +1,0 @@
-boundedness	@boundedness
-- sự bị chặn, tính bị chặn
-- b. of solution tính bị chặn của lời giải
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự bị chặn
--sự giới nội

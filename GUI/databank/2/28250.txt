@@ -1,3 +1,0 @@
-inductively
-	@inductively\n- xem inductive
-

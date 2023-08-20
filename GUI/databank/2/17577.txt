@@ -1,3 +1,0 @@
-ejectable
-	@ejectable\n- xem eject
-

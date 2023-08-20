@@ -1,3 +1,0 @@
-journalizer
-	@journalizer\n- xem journalize
-

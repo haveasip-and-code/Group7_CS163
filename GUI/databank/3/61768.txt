@@ -1,3 +1,0 @@
-videotext
-	@videotext\n- văn bản video\n@Chuyên ngành kỹ thuật\n-văn bản video\n@Lĩnh vực: điện tử & viễn thông\n-văn bản truyền hình
-

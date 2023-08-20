@@ -1,3 +1,0 @@
-statement
-	@statement /'steitmənt/\n*  danh từ\n- sự bày tỏ, sự trình bày, sự phát biểu\n=to require clearer statement+ cần được trình bày rõ ràng hơn nữa\n- lời tuyên bố; bản tuyên bố\n=a well-founded statement+ lời tuyên bố có cơ sở\n=joint statement+ bản tuyên bố chung\n@Chuyên ngành kinh tế\n-bản báo cáo\n-bản báo cáo tài chính\n-bản kê\n-bản kê khai\n-bản kết toán\n-bản tính toán\n-bản tường trình\n-báo cáo\n-biểu\n-lời tuyên bố\n-thuyết minh\n@Chuyên ngành kỹ thuật\n-hướng dẫn\n-lệnh\n-mệnh đề\n-sự phát biểu\n@Lĩnh vực: toán & tin\n-câu lệnh\n-câu lệnh (trong chương trình)\n-câu lệnh khai báo\n-chỉ lệnh\n@Lĩnh vực: xây dựng\n-tờ khai
-

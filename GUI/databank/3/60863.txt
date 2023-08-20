@@ -1,3 +1,0 @@
-uppercase
-	@uppercase\n- chữ hoa\n@Chuyên ngành kỹ thuật\n-chữ hoa
-

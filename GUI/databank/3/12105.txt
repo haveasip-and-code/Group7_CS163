@@ -1,6 +1,0 @@
-coset	@coset
-* danh từ
-- tập hợp cộng với một tập hợp hiện hữu thành một tập hợp lớn hơn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--lớp (mođulo)

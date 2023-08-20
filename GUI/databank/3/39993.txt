@@ -1,3 +1,0 @@
-path
-	@path\n- bước, đường đi; quỹ đạo\n- p. of continuous group quỹ đạo trong một nhóm liên tục\n- p. of a projectile đường đạn\n- asymptotic p. (giải tích) đường tiệm cận\n- closed p. đường đóng\n- edge p. đường gấp khúc, đường cạnh\n- free p. đường di động tự do\n- homotopic p.s đường đi đồng luân\n- inverse p. đường nghịch\n- mean free p. đường tự do trung bình\n- minimal p. đường cực tiểu\n- product p. đường tích\n- random p. đường đi ngẫu nhiên
-

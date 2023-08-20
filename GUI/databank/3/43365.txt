@@ -1,3 +1,0 @@
-preregister
-	@preregister\n* nội động từ\n- đăng ký trước lúc ghi chính thức
-

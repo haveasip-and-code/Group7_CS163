@@ -1,7 +1,0 @@
-cryptographic	@cryptographic /,kriptou'græfik/ (cryptographical) /,kriptou'græfikəl/
-*  tính từ
-- (thuộc) mật mã; bằng mật mã
-@Chuyên ngành kỹ thuật
--mật mã
-@Lĩnh vực: toán & tin
--bằng mật mã

@@ -1,3 +1,0 @@
-module
-	@module\n* danh từ\n- đơn vị đo\n- <lý> môđun, suất\n- <kỹ> bộ phận tháo rời được (máy tính điện tử...)\n- đơn nguyên\n@Chuyên ngành kinh tế\n-môđun\n-mô-đun (đơn vị chuẩn)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-khối chuẩn. Môđun\n@Chuyên ngành kỹ thuật\n-buồng\n-cấu kiện\n-độ\n-hệ số\n-khối chương trình\n-ngăn\n-môđun\n-mức\n-suất
-

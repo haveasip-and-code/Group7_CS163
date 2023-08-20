@@ -1,3 +1,0 @@
-interrupt
-	@interrupt /,intə'rʌpt/\n*  ngoại động từ\n- làm gián đoạn, làm đứt quãng\n- ngắt lời\n- án ngữ, chắn (sự nhìn...)\n- (điện học) ngắt\n@Chuyên ngành kỹ thuật\n-cắt\n-làm đứt quãng\n-làm gián đoạn\n-ngắt\n-ngắt (cung lửa điện)\n-ngắt điện\n-ngừng (tarô)\n-sự cắt mạch\n-sự ngắt\n@Lĩnh vực: điện lạnh\n-sự làm gián đoạn\n@Lĩnh vực: điện tử & viễn thông\n-sự ngưng dừng
-

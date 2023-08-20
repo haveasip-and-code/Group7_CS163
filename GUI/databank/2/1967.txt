@@ -1,3 +1,0 @@
-amplitude
-	@amplitude\n- biên độ, góc cực; agumen; (thiên văn) độ phương vị\n- a. of complex nember agument của số phức\n- a. of current biên độ dòng điện\n- a. of oscillation biên độ của dao động\n- a. of point góc cực của một điểm\n- a. of simple harmonic motion biên độ chuyển động điều hoà đơn giản\n- a. of vibration biên độ của chấn động\n- complex a. biên độ nguyên sơ\n- delta a. biên độ delta\n- primary a. biên độ nguyên sơ\n- scattering a. biên độ tán xạ\n- unit a. biên độ đơn vị\n- velocity a. biên độ vận tốc
-

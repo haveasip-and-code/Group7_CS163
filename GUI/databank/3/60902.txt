@@ -1,3 +1,0 @@
-upstart
-	@upstart /' pst :t/\n*  danh từ\n- người mới phất
-
