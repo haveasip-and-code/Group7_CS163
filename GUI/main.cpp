@@ -14,6 +14,8 @@
 
 bool MainApp::OnInit()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
     //prototypemode();
     if ( !wxApp::OnInit() )
         return false;

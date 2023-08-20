@@ -222,6 +222,17 @@ pair<string,string> getRandomWord(TST& dataSet) {
     return kq;
 }
 
+pair<string,string> getRandomWord(TST& dataSet,int x) {
+    int p=rand()%curMaxSlot+1;
+    pair<string,string> kq;
+    kq=retrieveData(curDataSet,p,x);
+    while (kq.second=="A definition have not been set for this word.") {
+        p=rand()%curMaxSlot+1;
+        kq=retrieveData(curDataSet,p);
+    }
+    return kq;
+}
+
 void game(TST& data) {
     pair<string,string> p[4];
     int idx=rand()%4;

@@ -40,6 +40,7 @@
 //     }
 // };
 
+int point;
 int cmd;
 int mode;
 int factor;
@@ -109,12 +110,14 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
-    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER);
+    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
     word->SetHint("Word");
 
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE);
     //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
     definition->SetHint("definition");
+    definition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
 
     isEditable=false;
     word->SetEditable(isEditable);
@@ -514,11 +517,15 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 }
 
 string ans;
+wxButton* questionButton;
+wxButton* answerButton[5];
+wxButton* refreshButton;
+
 void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data);
+        p[i]=getRandomWord(data,5);
         //p[i].first=standardize(p[i].first,500,5);
         //p[i].second=standardize(p[i].second,500,5);
     }
@@ -530,28 +537,58 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     _ans=wxStringToString(stringToWxString(p[idx].second));
 }
 
+void makeGame() {
+    pair<string,string> p[5];
+    int idx=rand()%4+1;
+    for (int i=1;i<=4;i++) {
+        p[i]=getRandomWord(data,5);
+        //p[i].first=standardize(p[i].first,500,5);
+        //p[i].second=standardize(p[i].second,500,5);
+    }
+    questionButton->SetLabel(stringToWxString(p[idx].first));
+    answerButton[1]->SetLabel(stringToWxString(p[1].second));
+    answerButton[2]->SetLabel(stringToWxString(p[2].second));
+    answerButton[3]->SetLabel(stringToWxString(p[3].second));
+    answerButton[4]->SetLabel(stringToWxString(p[4].second));
+    ans=wxStringToString(stringToWxString(p[idx].second));
+}
+
+
 void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data);
+        p[i]=getRandomWord(data,5);
         swap(p[i].first,p[i].second);
     }
-    _q->SetLabel(stringToWxString(p[idx].first));
-    _a[1]->SetLabel(stringToWxString(p[1].second));
-    _a[2]->SetLabel(stringToWxString(p[2].second));
-    _a[3]->SetLabel(stringToWxString(p[3].second));
-    _a[4]->SetLabel(stringToWxString(p[4].second));
-    _ans=wxStringToString(stringToWxString(p[idx].second));
+    questionButton->SetLabel(stringToWxString(p[idx].first));
+    answerButton[1]->SetLabel(stringToWxString(p[1].second));
+    answerButton[2]->SetLabel(stringToWxString(p[2].second));
+    answerButton[3]->SetLabel(stringToWxString(p[3].second));
+    answerButton[4]->SetLabel(stringToWxString(p[4].second));
+    ans=wxStringToString(stringToWxString(p[idx].second));
+}
+
+
+void makeGameInv() {
+    pair<string,string> p[5];
+    int idx=rand()%4+1;
+    for (int i=1;i<=4;i++) {
+        p[i]=getRandomWord(data,5);
+        swap(p[i].first,p[i].second);
+    }
+    questionButton->SetLabel(stringToWxString(p[idx].first));
+    answerButton[1]->SetLabel(stringToWxString(p[1].second));
+    answerButton[2]->SetLabel(stringToWxString(p[2].second));
+    answerButton[3]->SetLabel(stringToWxString(p[3].second));
+    answerButton[4]->SetLabel(stringToWxString(p[4].second));
+    ans=wxStringToString(stringToWxString(p[idx].second));
 }
 
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
-    wxStaticText* questionLabel;
-    wxStaticText* answerLabel[5];
-    wxButton* questionButton;
-    wxButton* answerButton[5];
-    wxButton* refreshButton;
+    //wxStaticText* questionLabel;
+    //wxStaticText* answerLabel[5];
 
     int mode=1;
 
@@ -565,9 +602,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
         panel->SetSizerAndFit(mainSizer);
 
-        for (int i=1;i<=4;i++) {
-            //answerLabel[i]->Enable(false);
-        }
+        wxColor ButtonColour("#EAFBEA");
         /*
         answerLabel[1] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[1]->SetSize(wxSize(586,130));
@@ -588,42 +623,150 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         answerLabel[4]->SetSize(wxSize(586,130));
         answerLabel[4]->SetPosition(wxPoint(586,325));
         answerLabel[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+
+        questionLabel = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        questionLabel->SetSize(wxSize(1172,130));
+        questionLabel->SetPosition(wxPoint(0,65));
+        questionLabel->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        questionLabel->SetBackgroundColour(ButtonColour);
         */
 
         answerButton[1] = new wxButton(panel, wxID_ANY);
         answerButton[1]->SetSize(wxSize(586,130));
         answerButton[1]->SetPosition(wxPoint(0,195));
-        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
         //answerButton[1]->SetMaxLines(5);
 
         answerButton[2] = new wxButton(panel, wxID_ANY);
         answerButton[2]->SetSize(wxSize(586,130));
         answerButton[2]->SetPosition(wxPoint(586,195));
-        answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
         answerButton[3] = new wxButton(panel, wxID_ANY);
         answerButton[3]->SetSize(wxSize(586,130));
         answerButton[3]->SetPosition(wxPoint(0,325));
-        answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
         answerButton[4] = new wxButton(panel, wxID_ANY);
         answerButton[4]->SetSize(wxSize(586,130));
         answerButton[4]->SetPosition(wxPoint(586,325));
-        answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
         questionButton = new wxButton(panel, wxID_ANY);
         questionButton->SetSize(wxSize(1172,130));
         questionButton->SetPosition(wxPoint(0,65));
-        questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
-
+        questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        /*
+        for (int i=1;i<=4;i++) {
+            //answerLabel[i]->Enable(false);
+            answerLabel[i]->SetBackgroundColour(ButtonColour);
+            answerButton[i]->SetBackgroundColour(ButtonColour);
+        }
+        questionButton->SetBackgroundColour(ButtonColour);
+        */
         //questionButton->Enable(false);
 
         if (mode==1) {
-            makeGame(questionButton,answerButton,ans);
+            makeGame();
         }
         else {
-            makeGameInv(questionButton,answerButton,ans);
+            makeGameInv();
         }
+
+
+        //lambdaFunc();
+        //Stay away from lambda function for a healthy life
+
+        answerButton[1]->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+        {
+            {
+                string tmp=wxStringToString(answerButton[1]->GetLabel());
+                if (tmp==ans) {
+                    answerButton[1]->SetBackgroundColour(wxColour("#49be25"));
+                    point++;
+
+                }
+                else {
+                    answerButton[1]->SetBackgroundColour(wxColour("#be4d25"));
+                }
+                if (mode==1) {
+                    makeGame();
+                }
+                else {
+                    makeGameInv();
+                }
+                //wxSleep(2);
+                //lambdaFunc();
+            }
+        });
+
+        answerButton[2]->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+        {
+            {
+                string tmp=wxStringToString(answerButton[2]->GetLabel());
+                if (tmp==ans) {
+                    answerButton[2]->SetBackgroundColour(wxColour("#49be25"));
+                    point++;
+                }
+                else {
+                    answerButton[2]->SetBackgroundColour(wxColour("#be4d25"));
+                }
+                if (mode==1) {
+                    makeGame();
+                }
+                else {
+                    makeGameInv();
+                }
+                //wxSleep(2);
+                //lambdaFunc();
+            }
+        });
+
+        answerButton[3]->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+        {
+            {
+                string tmp=wxStringToString(answerButton[3]->GetLabel());
+                if (tmp==ans) {
+                    answerButton[3]->SetBackgroundColour(wxColour("#49be25"));
+                    point++;
+
+                }
+                else {
+                    answerButton[3]->SetBackgroundColour(wxColour("#be4d25"));
+                }
+                if (mode==1) {
+                    makeGame();
+                }
+                else {
+                    makeGameInv();
+                }
+                //wxSleep(2);
+                //lambdaFunc();
+            }
+        });
+
+        answerButton[4]->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+        {
+            {
+                string tmp=wxStringToString(answerButton[4]->GetLabel());
+                if (tmp==ans) {
+                    answerButton[4]->SetBackgroundColour(wxColour("#49be25"));
+                    point++;
+
+                }
+                else {
+                    answerButton[4]->SetBackgroundColour(wxColour("#be4d25"));
+                }
+                if (mode==1) {
+                    makeGame();
+                }
+                else {
+                    makeGameInv();
+                }
+                //wxSleep(2);
+                //lambdaFunc();
+            }
+        });
 
         //1172 455
         //0 65

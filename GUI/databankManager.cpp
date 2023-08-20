@@ -106,6 +106,27 @@ pair<string,string> retrieveData(int slot,int key) {
     return kq;
 }
 
+pair<string,string> retrieveData(int slot,int key,int x) {
+    if (key==-1) return {"Can't find word!!!","Please check your searching cue!!!"};
+    pair<string,string> kq;
+    int tmpo=0;
+    ifstream tmpStream;
+    tmpStream.open(databankDir+"/"+intToString(slot)+"/"+intToString(key)+".txt");
+    getline(tmpStream,kq.first);
+    string tmp;
+    while (getline(tmpStream,tmp)) {
+        if (kq.second=="") kq.second+=tmp;
+        else kq.second+="\n"+tmp;
+        tmpo++;
+        if (tmpo>=x) break;
+    }
+    tmpStream.close();
+    if (kq.first==""&&kq.second=="") {
+        debug("Can't get definition and word in slot "+intToString(slot)+" with key "+intToString(key)+".");
+    }
+    return kq;
+}
+
 void saveCurrentDataSet(trieNode* cur) {
     cur->saveToFile(getPath(curDataSet));
     ofstream tmpStream;
