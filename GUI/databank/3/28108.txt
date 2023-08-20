@@ -1,3 +1,0 @@
-indeterministic
-	@indeterministic\n- xem indeterminism
-
