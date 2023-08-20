@@ -1,3 +1,0 @@
-processing
-	@processing /processing/\n*  danh từ\n- sự chế biến, sự gia công\n@Chuyên ngành kinh tế\n-chế biến\n-gia công\n-sự chế biến\n-sự gia công\n-sự phân tách\n-xử lý\n@Chuyên ngành kỹ thuật\n-gia công\n-quy trình công nghệ\n-quy trình kỹ thuật\n-sự chế biến\n-sự chỉnh lý\n-sự gia công\n-sự hiện ảnh\n-sự tinh chế\n-sự tính toán\n-sự xử lý\n@Lĩnh vực: vật lý\n-sự rửa phim\n@Lĩnh vực: hóa học & vật liệu\n-sự tinh lọc (dầu mỏ)\n@Lĩnh vực: đo lường & điều khiển\n-sự xử lý (các tín hiệu)\n@Lĩnh vực: toán & tin\n-xử lý
-

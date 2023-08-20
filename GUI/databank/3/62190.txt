@@ -1,3 +1,0 @@
-votable
-	@votable\n- xem vote
-

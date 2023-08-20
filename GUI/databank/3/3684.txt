@@ -1,9 +1,0 @@
-asterisk	@asterisk /'æstərisk/
-*  danh từ
-- dấu sao
-*  ngoại động từ
-- đánh dấu sao
-@Chuyên ngành kinh tế
--dấu sao (*)
-@Chuyên ngành kỹ thuật
--dấu sao (*)

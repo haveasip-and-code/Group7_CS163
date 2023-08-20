@@ -1,3 +1,0 @@
-inventorial
-	@inventorial\n- xem inventory
-

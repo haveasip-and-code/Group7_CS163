@@ -1,3 +1,0 @@
-parser
-	@parser\n- xem parse\n@Chuyên ngành kỹ thuật\n-bộ phân tích\n@Lĩnh vực: điện lạnh\n-bộ phân tách (cú pháp)
-

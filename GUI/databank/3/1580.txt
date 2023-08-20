@@ -1,2 +1,0 @@
-allocate	@allocate
-- sắp xếp, phân bố

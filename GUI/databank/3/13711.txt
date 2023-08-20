@@ -1,8 +1,0 @@
-debugger	@debugger
-- (Tech) chương trình chỉnh lỗi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bộ gỡ dối
--bộ gỡ lỗi
--bộ gỡ rối
--trình gỡ rối

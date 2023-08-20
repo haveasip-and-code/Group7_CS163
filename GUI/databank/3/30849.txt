@@ -1,3 +1,0 @@
-kerning
-	@kerning\n- co kéo (sự điều chỉnh khoảng cách giữa hai ký tự cặp đôi trong dạng hiển thị)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-co kéo\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-co kéo
-
