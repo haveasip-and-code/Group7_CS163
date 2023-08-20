@@ -1,3 +1,0 @@
-prinker
-	@prinker\n- xem prink
-
