@@ -1,3 +1,2 @@
-cellulosic
-	@cellulosic\n- xem cellulose
-
+cellulosic	@cellulosic
+- xem cellulose

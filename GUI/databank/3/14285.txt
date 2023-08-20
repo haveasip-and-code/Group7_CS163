@@ -1,3 +1,6 @@
-dell
-	@dell /del/\n*  danh từ\n- thung lũng nhỏ (có cây cối)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thung lũng nhỏ
-
+dell	@dell /del/
+*  danh từ
+- thung lũng nhỏ (có cây cối)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-thung lũng nhỏ

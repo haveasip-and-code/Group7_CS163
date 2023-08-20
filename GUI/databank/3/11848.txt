@@ -1,3 +1,2 @@
-copular
-	@copular\n- xem copula
-
+copular	@copular
+- xem copula

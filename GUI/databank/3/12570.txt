@@ -1,3 +1,2 @@
-creditableness
-	@creditableness\n- xem creditable
-
+creditableness	@creditableness
+- xem creditable

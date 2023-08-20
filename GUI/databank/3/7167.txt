@@ -1,3 +1,24 @@
-buoyancy
-	@buoyancy /'bɔiənsi/\n*  danh từ\n- sự nổ; sức nổi\n- khả năng chóng phục hồi sức khoẻ\n- tinh thần hăng hái, tính sôi nổi, ; tính vui vẻ\n=to lack buoyancy+ thiếu sự sôi nổi, thiếu nghị lực\n- (thương nghiệp) xu thế lên giá\n@Chuyên ngành kỹ thuật\n-lực đẩy nổi\n-lực nâng\n-nổi\n-sức nổi\n@Lĩnh vực: hóa học & vật liệu\n-độ nổi\n@Lĩnh vực: vật lý\n-lực đẩy Acsimet\n-lực nổi\n@Lĩnh vực: điện lạnh\n-sự nôie\n@Lĩnh vực: giao thông & vận tải\n-sức nổi (tàu)\n@Lĩnh vực: xây dựng\n-tinh nổi\n-tính nổi trong nước
-
+buoyancy	@buoyancy /'bɔiənsi/
+*  danh từ
+- sự nổ; sức nổi
+- khả năng chóng phục hồi sức khoẻ
+- tinh thần hăng hái, tính sôi nổi, ; tính vui vẻ
+=to lack buoyancy+ thiếu sự sôi nổi, thiếu nghị lực
+- (thương nghiệp) xu thế lên giá
+@Chuyên ngành kỹ thuật
+-lực đẩy nổi
+-lực nâng
+-nổi
+-sức nổi
+@Lĩnh vực: hóa học & vật liệu
+-độ nổi
+@Lĩnh vực: vật lý
+-lực đẩy Acsimet
+-lực nổi
+@Lĩnh vực: điện lạnh
+-sự nôie
+@Lĩnh vực: giao thông & vận tải
+-sức nổi (tàu)
+@Lĩnh vực: xây dựng
+-tinh nổi
+-tính nổi trong nước

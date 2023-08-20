@@ -1,3 +1,2 @@
-biker
-	@Chuyên ngành kinh tế\n-người đưa thư
-
+biker	@Chuyên ngành kinh tế
+-người đưa thư

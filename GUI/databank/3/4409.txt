@@ -1,3 +1,37 @@
-backup
-	@backup\n- (Tech) dự phòng; sao lưu (d/đ)\n@Chuyên ngành kinh tế\n-hàng thay thế\n-nhân viên hậu bị\n-thiết bị để thay thế\n@Chuyên ngành kỹ thuật\n-bản sao\n-cầu chì\n-dự phòng\n-dự trữ\n-nguồn nuôi\n-sao dự trữ\n-sự dự phòng\n-sự ứ đọng\n@Lĩnh vực: toán & tin\n-bản sao dự trữ\n-ghi lưu\n-sao chép dự phòng\n-sao lưu\n-sự sao dự phòng\n@Lĩnh vực: xây dựng\n-dải chống thấm\n-dải gia cố\n-sự dình lên của nước\n-sự hỗ trợ\n-tấm đệm đàn hồi\n-tường đỡ, tường sau, gương lò\n@Lĩnh vực: cơ khí & công trình\n-hành trình ngược lên\n-hành trình rút lên\n@Lĩnh vực: điện\n-phương tiện dự phòng\n@Lĩnh vực: giao thông & vận tải\n-sự dồn lại\n@Lĩnh vực: hóa học & vật liệu\n-sự giữ chuôi
-
+backup	@backup
+- (Tech) dự phòng; sao lưu (d/đ)
+@Chuyên ngành kinh tế
+-hàng thay thế
+-nhân viên hậu bị
+-thiết bị để thay thế
+@Chuyên ngành kỹ thuật
+-bản sao
+-cầu chì
+-dự phòng
+-dự trữ
+-nguồn nuôi
+-sao dự trữ
+-sự dự phòng
+-sự ứ đọng
+@Lĩnh vực: toán & tin
+-bản sao dự trữ
+-ghi lưu
+-sao chép dự phòng
+-sao lưu
+-sự sao dự phòng
+@Lĩnh vực: xây dựng
+-dải chống thấm
+-dải gia cố
+-sự dình lên của nước
+-sự hỗ trợ
+-tấm đệm đàn hồi
+-tường đỡ, tường sau, gương lò
+@Lĩnh vực: cơ khí & công trình
+-hành trình ngược lên
+-hành trình rút lên
+@Lĩnh vực: điện
+-phương tiện dự phòng
+@Lĩnh vực: giao thông & vận tải
+-sự dồn lại
+@Lĩnh vực: hóa học & vật liệu
+-sự giữ chuôi

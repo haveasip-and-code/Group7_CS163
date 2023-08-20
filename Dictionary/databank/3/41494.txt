@@ -1,3 +1,0 @@
-pidginize
-	@pidginize\n- xem pidgin
-

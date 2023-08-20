@@ -1,3 +1,2 @@
-demoralizer
-	@demoralizer\n- xem demoralize
-
+demoralizer	@demoralizer
+- xem demoralize

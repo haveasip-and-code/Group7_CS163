@@ -1,3 +1,2 @@
-componential
-	@componential\n- xem component
-
+componential	@componential
+- xem component

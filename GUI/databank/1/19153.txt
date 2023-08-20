@@ -1,0 +1,21 @@
+estimator	
+@estimator
+- công thức ước lượng, (thống kê) ước lượng
+- absolutely unbiased e. ước lượng không tuyệt đối
+- best e. ước lượng tốt nhất
+- biased e. ước lượng chệch
+- efficient e. ước lượng hữu hiệu
+- inconsistent e. ước lượng không vững
+- least
+-quares e. ước lượng bình phương bé nhất
+- linear e. ước lượng tuyến tính
+- most
+-efficient e. ước lượng hữu hiệu nhất
+- non
+-regular e. ước lượng không chính quy
+- quadraitic e. ước lượng bậc hai
+- ratio e. ước lượng dưới dạng tỷ số
+- regular e. ước lượng chính quy
+- unbiased e. ước lượng không chệch
+- uniformly best constant risk e. (UBCR) ước lượng có độ mạo hiểm bé
+- đều nhất

@@ -1,3 +1,39 @@
-chart
-	@chart /tʃɑ:t/\n*  danh từ\n- (hàng hải) bản đồ đi biển, hải đồ\n- bản đồ\n- đồ thị, biểu đồ\n=a weather chart+ đồ thị thời tiết\n*  ngoại động từ\n- vẽ hải đồ; ghi vào hải đồ\n- vẽ đồ thị, lập biểu đồ\n@Chuyên ngành kinh tế\n-bản đồ\n-bản đồ đi biển\n-biểu đồ\n-đồ thị\n-hải đồ\n@Chuyên ngành kỹ thuật\n-ảnh mẫu\n-bản đồ\n-bảng\n-bảng tính\n-biểu đồ\n-biểu đồ hành trình\n-đồ thị\n-đồ thị liên tục\n-giản đồ\n-hải đồ\n-lập biểu đồ\n-sơ đồ\n-vẽ đồ thị\n@Lĩnh vực: giao thông & vận tải\n-bản đồ (đạo hàng)\n@Lĩnh vực: xây dựng\n-bản đồ đi biển\n-đo lập bản đồ\n-đưa vào bản đồ\n@Lĩnh vực: toán & tin\n-biểu (đồ)\n@Lĩnh vực: y học\n-biều đồ, giun đồ, đồ thi
-
+chart	@chart /tʃɑ:t/
+*  danh từ
+- (hàng hải) bản đồ đi biển, hải đồ
+- bản đồ
+- đồ thị, biểu đồ
+=a weather chart+ đồ thị thời tiết
+*  ngoại động từ
+- vẽ hải đồ; ghi vào hải đồ
+- vẽ đồ thị, lập biểu đồ
+@Chuyên ngành kinh tế
+-bản đồ
+-bản đồ đi biển
+-biểu đồ
+-đồ thị
+-hải đồ
+@Chuyên ngành kỹ thuật
+-ảnh mẫu
+-bản đồ
+-bảng
+-bảng tính
+-biểu đồ
+-biểu đồ hành trình
+-đồ thị
+-đồ thị liên tục
+-giản đồ
+-hải đồ
+-lập biểu đồ
+-sơ đồ
+-vẽ đồ thị
+@Lĩnh vực: giao thông & vận tải
+-bản đồ (đạo hàng)
+@Lĩnh vực: xây dựng
+-bản đồ đi biển
+-đo lập bản đồ
+-đưa vào bản đồ
+@Lĩnh vực: toán & tin
+-biểu (đồ)
+@Lĩnh vực: y học
+-biều đồ, giun đồ, đồ thi

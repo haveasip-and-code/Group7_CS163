@@ -1,3 +1,2 @@
-auxinic
-	@auxinic\n- xem auxin
-
+auxinic	@auxinic
+- xem auxin

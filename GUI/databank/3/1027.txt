@@ -1,3 +1,11 @@
-aerosol
-	@aerosol\n* danh từ\n- bình phun (nước hoa, thuốc trừ sâu)\n@Chuyên ngành kinh tế\n-son khí\n@Chuyên ngành kỹ thuật\n-bình phun\n-hóa chất\n@Lĩnh vực: điện lạnh\n-sol khí\n-son khí
-
+aerosol	@aerosol
+* danh từ
+- bình phun (nước hoa, thuốc trừ sâu)
+@Chuyên ngành kinh tế
+-son khí
+@Chuyên ngành kỹ thuật
+-bình phun
+-hóa chất
+@Lĩnh vực: điện lạnh
+-sol khí
+-son khí

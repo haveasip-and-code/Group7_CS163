@@ -1,3 +1,34 @@
-compartment
-	@compartment /kəm'pɑ:tmənt/\n*  danh từ\n- gian, ngăn (nhà, toa xe lửa...)\n- (hàng hải) ngăn kín (nước không rỉ qua được) ((cũng) watertight compartment)\n- (chính trị) một phần dự luật (để thảo luận trong một thời gian hạn định ở nghị viện Anh)\n!to live in watertight compartment\n- sống cách biệt mọi người\n*  ngoại động từ\n- ngăn ra từng gian\n@Chuyên ngành kinh tế\n-gian\n-ngăn (gian phân cách trong toa xe lửa)\n-phòng\n@Chuyên ngành kỹ thuật\n-bể\n-bộ phận\n-buồng\n-căn phòng\n-đơn nguyên\n-gian\n-khoang\n-khoang (giếng)\n-ngăn\n-ngăn, khoang, buồng\n-nhịp vòm\n-ô\n-phòng\n-sự ngăn cách\n-vách ngăn\n@Lĩnh vực: xây dựng\n-gian nhà\n-gian phòng cháy\n-khoang tàu\n-khu phòng cháy
-
+compartment	@compartment /kəm'pɑ:tmənt/
+*  danh từ
+- gian, ngăn (nhà, toa xe lửa...)
+- (hàng hải) ngăn kín (nước không rỉ qua được) ((cũng) watertight compartment)
+- (chính trị) một phần dự luật (để thảo luận trong một thời gian hạn định ở nghị viện Anh)
+!to live in watertight compartment
+- sống cách biệt mọi người
+*  ngoại động từ
+- ngăn ra từng gian
+@Chuyên ngành kinh tế
+-gian
+-ngăn (gian phân cách trong toa xe lửa)
+-phòng
+@Chuyên ngành kỹ thuật
+-bể
+-bộ phận
+-buồng
+-căn phòng
+-đơn nguyên
+-gian
+-khoang
+-khoang (giếng)
+-ngăn
+-ngăn, khoang, buồng
+-nhịp vòm
+-ô
+-phòng
+-sự ngăn cách
+-vách ngăn
+@Lĩnh vực: xây dựng
+-gian nhà
+-gian phòng cháy
+-khoang tàu
+-khu phòng cháy

@@ -1,3 +1,2 @@
-decrier
-	@decrier\n- xem decry
-
+decrier	@decrier
+- xem decry

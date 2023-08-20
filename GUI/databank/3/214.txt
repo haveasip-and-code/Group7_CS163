@@ -1,3 +1,7 @@
-absorbency
-	@absorbency\n- xem absorbent\n@Chuyên ngành kinh tế\n-độ thấm nước\n@Chuyên ngành kỹ thuật\n-khả năng hấp thụ\n-năng suất hấp thụ
-
+absorbency	@absorbency
+- xem absorbent
+@Chuyên ngành kinh tế
+-độ thấm nước
+@Chuyên ngành kỹ thuật
+-khả năng hấp thụ
+-năng suất hấp thụ

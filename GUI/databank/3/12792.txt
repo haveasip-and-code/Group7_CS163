@@ -1,3 +1,7 @@
-crowding
-	@Chuyên ngành kỹ thuật\n-sự nhăn\n@Lĩnh vực: cơ khí & công trình\n-sự chùn nếp\n@Lĩnh vực: toán & tin\n-sự dồn đống\n-sự nhét chặt
-
+crowding	@Chuyên ngành kỹ thuật
+-sự nhăn
+@Lĩnh vực: cơ khí & công trình
+-sự chùn nếp
+@Lĩnh vực: toán & tin
+-sự dồn đống
+-sự nhét chặt

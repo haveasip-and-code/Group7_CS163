@@ -1,3 +1,7 @@
-airbrush
-	@airbrush\n* danh từ\n- bình sơn xì\n@Chuyên ngành kinh tế\n-sự tuốt bóng\n@Chuyên ngành kỹ thuật\n-bình bơm phun
-
+airbrush	@airbrush
+* danh từ
+- bình sơn xì
+@Chuyên ngành kinh tế
+-sự tuốt bóng
+@Chuyên ngành kỹ thuật
+-bình bơm phun

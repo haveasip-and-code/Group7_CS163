@@ -1,3 +1,7 @@
-disabled
-	@disabled\n* danh từ\n- người tàn tật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cấm sử dụng\n-mất tác dụng
-
+disabled	@disabled
+* danh từ
+- người tàn tật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cấm sử dụng
+-mất tác dụng

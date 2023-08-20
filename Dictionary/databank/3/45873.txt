@@ -1,3 +1,0 @@
-rec
-	@rec\n* (viết tắt)\n- sân chơi (recreation ground)\n- viết tắt\n- sân chơi (recreation ground)
-

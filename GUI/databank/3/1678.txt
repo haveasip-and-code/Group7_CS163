@@ -1,3 +1,5 @@
-alphanumerical
-	@alphanumerical\n- chữ - chữ số\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chữ-chữ số
-
+alphanumerical	@alphanumerical
+- chữ - chữ số
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chữ-chữ số

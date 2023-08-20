@@ -1,3 +1,2 @@
-crabber
-	@crabber\n- xem crab
-
+crabber	@crabber
+- xem crab

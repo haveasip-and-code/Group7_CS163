@@ -1,0 +1,3 @@
+depletable	
+@depletable
+- xem deplete

@@ -1,3 +1,2 @@
-awakener
-	@awakener\n- xem awaken
-
+awakener	@awakener
+- xem awaken

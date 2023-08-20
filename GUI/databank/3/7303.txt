@@ -1,3 +1,7 @@
-butte
-	@butte\n* danh từ\n- ụ đất, mô đất\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gò đơn độc\n-gò sót
-
+butte	@butte
+* danh từ
+- ụ đất, mô đất
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-gò đơn độc
+-gò sót

@@ -1,0 +1,5 @@
+intersection	
+@intersection
+- (tương) giao
+- i. of events (xác suất) giao của các biến số
+- i. of sets giao của các tập hợp

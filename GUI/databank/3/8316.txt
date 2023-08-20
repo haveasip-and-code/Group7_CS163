@@ -1,3 +1,6 @@
-catheter
-	@catheter\n* danh từ\n- ống thông đường tiểu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ống thông, que thăm
-
+catheter	@catheter
+* danh từ
+- ống thông đường tiểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ống thông, que thăm

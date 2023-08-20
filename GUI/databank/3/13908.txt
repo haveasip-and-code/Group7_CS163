@@ -1,3 +1,9 @@
-decorator
-	@decorator /'dekəreitə/\n*  danh từ\n- người trang trí; người làm nghề trang trí (nhà cửa...)\n@Chuyên ngành kinh tế\n-máy trang trí\n-người trang trí\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-người trang trí
-
+decorator	@decorator /'dekəreitə/
+*  danh từ
+- người trang trí; người làm nghề trang trí (nhà cửa...)
+@Chuyên ngành kinh tế
+-máy trang trí
+-người trang trí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-người trang trí

@@ -1,3 +1,2 @@
-cytologic
-	@cytologic\n- xem cytology
-
+cytologic	@cytologic
+- xem cytology

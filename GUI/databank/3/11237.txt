@@ -1,3 +1,2 @@
-connecter
-	@connecter\n- xem connect
-
+connecter	@connecter
+- xem connect

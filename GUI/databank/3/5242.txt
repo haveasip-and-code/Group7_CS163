@@ -1,3 +1,4 @@
-benefice
-	@benefice /'benifis/\n*  danh từ\n- (tôn giáo) tiền thu nhập\n- tài sản (của các cha cố)
-
+benefice	@benefice /'benifis/
+*  danh từ
+- (tôn giáo) tiền thu nhập
+- tài sản (của các cha cố)

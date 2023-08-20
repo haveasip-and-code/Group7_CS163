@@ -1,3 +1,2 @@
-deriver
-	@deriver\n- xem derive
-
+deriver	@deriver
+- xem derive

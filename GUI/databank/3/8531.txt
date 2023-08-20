@@ -1,3 +1,2 @@
-centrally
-	@centrally\n- xem central
-
+centrally	@centrally
+- xem central

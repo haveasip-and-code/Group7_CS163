@@ -1,3 +1,2 @@
-consulter
-	@consulter\n- xem consult
-
+consulter	@consulter
+- xem consult

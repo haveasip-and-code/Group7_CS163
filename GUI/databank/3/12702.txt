@@ -1,3 +1,15 @@
-critical
-	@critical /'kritikəl/\n*  tính từ\n- phê bình, phê phán\n- hay chỉ trích, hay chê bai; có ý kiến chống lại; khó tính, khó chiều\n- nguy cấp, nguy ngập, nguy kịch\n=to be in a critical condition+ ở trong tình trang nguy kịch\n- (vật lý); (toán học) tới hạn\n=critical point+ điểm tới hạn\n=critical temperature+ độ nhiệt tới hạn\n!critical age\n- (y học) thời kỳ mãn kinh\n@Chuyên ngành kỹ thuật\n-có tính quyết định\n-giới hạn\n-nghiêm trọng
-
+critical	@critical /'kritikəl/
+*  tính từ
+- phê bình, phê phán
+- hay chỉ trích, hay chê bai; có ý kiến chống lại; khó tính, khó chiều
+- nguy cấp, nguy ngập, nguy kịch
+=to be in a critical condition+ ở trong tình trang nguy kịch
+- (vật lý); (toán học) tới hạn
+=critical point+ điểm tới hạn
+=critical temperature+ độ nhiệt tới hạn
+!critical age
+- (y học) thời kỳ mãn kinh
+@Chuyên ngành kỹ thuật
+-có tính quyết định
+-giới hạn
+-nghiêm trọng

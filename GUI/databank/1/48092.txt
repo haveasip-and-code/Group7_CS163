@@ -1,0 +1,11 @@
+router	@router
+- cầu dẫn
+@Chuyên ngành kỹ thuật
+-bào xoi
+-bộ chọn đường
+-dao nhỏ
+-lưỡi cắt
+-lưỡi dao
+@Lĩnh vực: toán & tin
+-bộ định tuyến
+-cầu dẫn, router

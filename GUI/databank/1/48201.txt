@@ -1,0 +1,111 @@
+rule	@rule /ru:l/
+*  danh từ
+- phép tắc, quy tắc, nguyên tắc; quy luật; điều lệ, luật lệ
+=the rule of the road+ luật đi đường
+=standing rules+ điều lệ hiện hành (của một hội, công ty...)
+=grammar rules+ những quy tắc ngữ pháp
+- thói quen, lệ thường
+=as a rule+ theo thói quen, theo lệ thường
+=by rule of thumb+ theo kinh nghiệm
+=to make it a rule to gets up early+ đặt thành cái lệ dậy sớm
+- quyền lực
+- sự thống trị
+=under the rule of...+ dưới sự thống trị cử...
+- thước (có) chia độ (của thợ mộc)
+- (pháp lý) quyết định của toà án; lệnh của toà án
+- (ngành in) thước (để) ngăn dòng; filê, cái gạch đầu dòng
+=em rule+ gạch đầu dòng
+=en rule+ gạch ngắn, gạch nối
+!to do things by rule
+- làm việc theo nguyên tắc, làm việc có phương pháp
+!by rule and line
+- rất đúng, rất chính xác
+!gag rule
+- (từ Mỹ,nghĩa Mỹ) chính sách khoá miệng không cho tự do ngôn luận
+!the golden rule
+- (xem) golden
+!hard and fast rule
+- nguyên tắc cứng rắn, nguyên tắc bất di bất dịch
+!out of rule
+- trái quy tắc, sai nguyên tắc
+!there is no rule without an exception
+- không có nguyên tắc nào là không có ngoại lệ
+*  ngoại động từ
+- cai trị, trị vì, thống trị; chỉ huy, điều khiển
+=to rule a nation+ thống trị một nước
+- kiềm chế, chế ngự
+=to rule one's passions+ kiềm chế dục vọng
+- ((thường) dạng bị động) chỉ dẫn, hướng dẫn, khuyên bảo
+=to be ruled by someone+ theo sự hướng dẫn của ai, theo lời khuyên của ai
+- (pháp lý) quyết định, ra lệnh
+- kẻ (giấy) bằng thước
+*  nội động từ
+- cai trị, trị vì, thống trị, cầm quyền
+=to rule over a nation+ thống trị một nước
+=to rule by love+ lấy đức mà cai trị
+- thể hiện (ở một mức nào đó, ở một trạng thái nào đó)
+=prices rule high+ giá cả lên cao
+=crops rule good+ mùa màng tốt
+!to ruke off
+- (thương nghiệp) đóng sổ, kết toán
+!to rule out
+- loại trừ, bác bỏ
+!to rule the roast (roots)
+- (từ cổ,nghĩa cổ) làm bá chủ hoành hành, làm vương làng tướng
+!to rule with a heavy (high) hand
+!to rule with a rod of iron
+- thống trị bằng bàn tay sắt, độc tài, độc đoán
+@Chuyên ngành kinh tế
+-chỉ huy
+-chi phối
+-điều khiển
+-điều lệ
+-định luật
+-khống chế
+-lãnh đạo
+-lệ thường
+-lệnh của tòa án
+-nguyên tắc
+-phán quyết
+-phép tắc
+-quản lý
+-quản trị
+-quy chế
+-quy định chi tiết
+-quy luật
+-quy tắc
+-quyền lực
+-quyết định
+-sự quản trị
+-sự thống trị
+-tài định
+-tài phán
+-tài quyết
+-thói quen
+-thống trị
+-thước có chia độ
+@Chuyên ngành kỹ thuật
+-cái thước
+-đặt filê
+-điều lệ
+-định luật
+-dòng
+-đường
+-đường kẻ
+-kẻ dòng
+-kẻ đường
+-nguyên tắc
+-quy chế
+-quy luật
+-quy phạm
+-quy tắc
+-thước
+-thước đo
+-thước tỉ lệ
+-thước tỷ lệ
+@Lĩnh vực: xây dựng
+-thước (kẻ)
+@Lĩnh vực: toán & tin
+-thước, qui tắc
+@Lĩnh vực: điện lạnh
+-vạch kẻ

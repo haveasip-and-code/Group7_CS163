@@ -1,3 +1,20 @@
-blueprint
-	@blueprint /'blu:'ribən/\n*  ngoại động từ\n- thiết kế, lên kế hoạch\n@Chuyên ngành kinh tế\n-bản in phơi\n-bản kế hoạch (chi tiết)\n-bản sơ đồ\n-bản thiết kế\n-sơ đồ thiết kế\n@Chuyên ngành kỹ thuật\n-bản in lam, bản thiết kế chi tiết\n-bản thiết kế nhà\n-lơ bột\n-sự in lam\n-sự in phơi (xanh)\n-sự sao chụp\n@Lĩnh vực: xây dựng\n-bản đồ kế hoạch chi tiết\n-kế hoạch chi tiết\n-sự in phơi
-
+blueprint	@blueprint /'blu:'ribən/
+*  ngoại động từ
+- thiết kế, lên kế hoạch
+@Chuyên ngành kinh tế
+-bản in phơi
+-bản kế hoạch (chi tiết)
+-bản sơ đồ
+-bản thiết kế
+-sơ đồ thiết kế
+@Chuyên ngành kỹ thuật
+-bản in lam, bản thiết kế chi tiết
+-bản thiết kế nhà
+-lơ bột
+-sự in lam
+-sự in phơi (xanh)
+-sự sao chụp
+@Lĩnh vực: xây dựng
+-bản đồ kế hoạch chi tiết
+-kế hoạch chi tiết
+-sự in phơi

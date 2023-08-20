@@ -1,0 +1,30 @@
+limiter	@limiter
+* danh từ (kỹ thuật)
+- cơ cấu hạn chế
+= acceleration limiter+cơ cấu hạn chế gia tốc
+- bộ hạn chế
+= noise limiter+bộ hạn chế tạp âm
+@Chuyên ngành kỹ thuật
+-bộ giới hạn
+-bộ hạn chế
+-bộ xén
+-mạch xén
+@Lĩnh vực: vật lý
+-cấu giới hạn
+@Lĩnh vực: điện
+-đèn giới hạn
+-tầng hạn biên
+@Lĩnh vực: toán & tin
+-giới hạn tử
+@Chuyên ngành kỹ thuật
+-bộ giới hạn
+-bộ hạn chế
+-bộ xén
+-mạch xén
+@Lĩnh vực: vật lý
+-cấu giới hạn
+@Lĩnh vực: điện
+-đèn giới hạn
+-tầng hạn biên
+@Lĩnh vực: toán & tin
+-giới hạn tử

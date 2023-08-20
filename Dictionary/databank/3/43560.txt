@@ -1,3 +1,0 @@
-prewarn
-	@prewarn\n* ngoại động từ\n- cảnh cáo trước
-

@@ -1,3 +1,2 @@
-chiseler
-	@chiseler\n- xem chisel
-
+chiseler	@chiseler
+- xem chisel

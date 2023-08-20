@@ -1,3 +1,9 @@
-demodulator
-	@demodulator\n- (Tech) bộ hoàn điệu\n@Chuyên ngành kỹ thuật\n-bộ giải điều\n-bộ hoàn điều\n-bộ hoàn điệu\n-bộ tách sóng\n@Lĩnh vực: điện\n-mạch tách sóng
-
+demodulator	@demodulator
+- (Tech) bộ hoàn điệu
+@Chuyên ngành kỹ thuật
+-bộ giải điều
+-bộ hoàn điều
+-bộ hoàn điệu
+-bộ tách sóng
+@Lĩnh vực: điện
+-mạch tách sóng

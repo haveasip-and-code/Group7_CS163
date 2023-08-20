@@ -1,3 +1,2 @@
-approvable
-	@approvable\n- xem approve
-
+approvable	@approvable
+- xem approve

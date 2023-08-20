@@ -1,3 +1,12 @@
-compatible
-	@compatible /kəm'pætəbl/\n*  tính từ\n- (+ with) hợp, thích hợp, tương hợp\n@Chuyên ngành kinh tế\n-hợp\n-thích hợp\n-tương hợp (với)\n@Chuyên ngành kỹ thuật\n-phù hợp\n-thích hợp\n@Lĩnh vực: y học\n-tương hợp
-
+compatible	@compatible /kəm'pætəbl/
+*  tính từ
+- (+ with) hợp, thích hợp, tương hợp
+@Chuyên ngành kinh tế
+-hợp
+-thích hợp
+-tương hợp (với)
+@Chuyên ngành kỹ thuật
+-phù hợp
+-thích hợp
+@Lĩnh vực: y học
+-tương hợp

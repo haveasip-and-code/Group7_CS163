@@ -1,3 +1,2 @@
-acnode
-	@acnode\n- (hình học) điểm cô lập (của đường cong)
-
+acnode	@acnode
+- (hình học) điểm cô lập (của đường cong)

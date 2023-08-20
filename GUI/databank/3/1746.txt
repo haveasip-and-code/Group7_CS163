@@ -1,3 +1,13 @@
-amalgamation
-	@amalgamation /ə,mælgə'meiʃn/\n*  danh từ\n- (hoá học) sự hỗn hồng hoá\n- sự pha trộn, sự trộn lẫn, sự hỗn hợp; sự hợp nhất\n@Chuyên ngành kinh tế\n-tổ hợp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hỗn hống hóa\n@Lĩnh vực: điện lạnh\n-sự hỗn hống hóa\n@Lĩnh vực: điện\n-sự tạo hỗn hống
-
+amalgamation	@amalgamation /ə,mælgə'meiʃn/
+*  danh từ
+- (hoá học) sự hỗn hồng hoá
+- sự pha trộn, sự trộn lẫn, sự hỗn hợp; sự hợp nhất
+@Chuyên ngành kinh tế
+-tổ hợp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-hỗn hống hóa
+@Lĩnh vực: điện lạnh
+-sự hỗn hống hóa
+@Lĩnh vực: điện
+-sự tạo hỗn hống

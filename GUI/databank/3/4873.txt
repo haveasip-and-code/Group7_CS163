@@ -1,3 +1,2 @@
-baster
-	@baster\n- xem baste
-
+baster	@baster
+- xem baste

@@ -1,3 +1,6 @@
-antidepressant
-	@antidepressant\n* danh từ\n- thuốc chống suy nhược\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chống trầm cảm
-
+antidepressant	@antidepressant
+* danh từ
+- thuốc chống suy nhược
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chống trầm cảm

@@ -1,3 +1,19 @@
-camera
-	@camera /'kæmərə/\n*  danh từ\n- máy ảnh\n- máy quay phim\n- (pháp lý) phòng riêng của quan toà\n!in camera\n- họp kín; xử kín\n- trong đời sống riêng\n@Chuyên ngành kỹ thuật\n-buồng\n-camera\n-máy ảnh\n-máy quay hình\n-máy quay phim\n-truyền hình\n@Lĩnh vực: hóa học & vật liệu\n-buồng hộp\n@Lĩnh vực: xây dựng\n-máy hình
-
+camera	@camera /'kæmərə/
+*  danh từ
+- máy ảnh
+- máy quay phim
+- (pháp lý) phòng riêng của quan toà
+!in camera
+- họp kín; xử kín
+- trong đời sống riêng
+@Chuyên ngành kỹ thuật
+-buồng
+-camera
+-máy ảnh
+-máy quay hình
+-máy quay phim
+-truyền hình
+@Lĩnh vực: hóa học & vật liệu
+-buồng hộp
+@Lĩnh vực: xây dựng
+-máy hình

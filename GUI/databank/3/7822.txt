@@ -1,3 +1,2 @@
-capabilities
-	@Chuyên ngành kỹ thuật\n-máy tính
-
+capabilities	@Chuyên ngành kỹ thuật
+-máy tính

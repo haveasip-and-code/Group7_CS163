@@ -1,0 +1,16 @@
+dehydrator	
+@dehydrator
+- xem dehydrate
+@Chuyên ngành kinh tế
+-chất hút nước
+-chất khử nước
+-máy khử nứơc
+-máy sấy
+@Chuyên ngành kỹ thuật
+-bộ khử nước
+-bộ sấy
+-chất hút ẩm
+-máy khử nước
+@Lĩnh vực: hóa học & vật liệu
+-chất loại nước
+-chất tách nước

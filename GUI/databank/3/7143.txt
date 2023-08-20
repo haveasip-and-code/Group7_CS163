@@ -1,3 +1,2 @@
-bundist
-	@bundist\n- xem bund
-
+bundist	@bundist
+- xem bund

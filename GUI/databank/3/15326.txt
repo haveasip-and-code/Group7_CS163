@@ -1,3 +1,2 @@
-diffusion
-	@diffusion\n- sự tán xạ, sự khuếch tán
-
+diffusion	@diffusion
+- sự tán xạ, sự khuếch tán

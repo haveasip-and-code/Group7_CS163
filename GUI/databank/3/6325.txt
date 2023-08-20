@@ -1,3 +1,2 @@
-bootlessly
-	@bootlessly\n- xem bootless
-
+bootlessly	@bootlessly
+- xem bootless

@@ -1,3 +1,2 @@
-actability
-	@actability\n- xem act
-
+actability	@actability
+- xem act

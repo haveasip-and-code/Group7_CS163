@@ -1,3 +1,2 @@
-autocorrelation
-	@autocorrelation\n- tự tương quan
-
+autocorrelation	@autocorrelation
+- tự tương quan

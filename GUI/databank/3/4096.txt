@@ -1,3 +1,2 @@
-autolyze
-	@Chuyên ngành kinh tế\n-tự phân giải
-
+autolyze	@Chuyên ngành kinh tế
+-tự phân giải

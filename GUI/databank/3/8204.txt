@@ -1,3 +1,2 @@
-castrator
-	@castrator\n- xem castrate
-
+castrator	@castrator
+- xem castrate

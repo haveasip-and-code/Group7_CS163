@@ -1,3 +1,6 @@
-consistency
-	@consistency\n- tính nhất quán, tính phi mâu thuẫn;(thống kê) tính vững\n- c. of an estimator tính vững của một ước lượng\n- c. of axioms tính phi mâu thuẫn của các tiên đề\n- c. of systems of equations tính phi mâu thuẫn của hệ các phương trình\n- simple c. tính phi mâu thuẫn đơn giản
-
+consistency	@consistency
+- tính nhất quán, tính phi mâu thuẫn;(thống kê) tính vững
+- c. of an estimator tính vững của một ước lượng
+- c. of axioms tính phi mâu thuẫn của các tiên đề
+- c. of systems of equations tính phi mâu thuẫn của hệ các phương trình
+- simple c. tính phi mâu thuẫn đơn giản

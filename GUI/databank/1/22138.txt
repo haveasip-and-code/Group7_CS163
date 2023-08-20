@@ -1,0 +1,7 @@
+fours	
+@fours
+- đếm cách một (1, 3, 5, 7...), cách hai, cách ba...
+- column c. tính theo cột
+- digit c. tính chữ số
+- lost c. tính tổn thất
+- reference c. đếm kiểm tra, tính thử lại

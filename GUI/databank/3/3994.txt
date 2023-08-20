@@ -1,3 +1,2 @@
-auscultatory
-	@auscultatory\n- xem auscultate
-
+auscultatory	@auscultatory
+- xem auscultate

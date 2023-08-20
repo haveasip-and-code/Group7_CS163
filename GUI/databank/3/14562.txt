@@ -1,3 +1,7 @@
-depilate
-	@depilate /'depileit/\n*  ngoại động từ\n- làm rụng tóc, làm rụng lông; nhổ tóc, vặt lông\n@Chuyên ngành kinh tế\n-cạo lông\n-làm tuột lông\n-vặt lông
-
+depilate	@depilate /'depileit/
+*  ngoại động từ
+- làm rụng tóc, làm rụng lông; nhổ tóc, vặt lông
+@Chuyên ngành kinh tế
+-cạo lông
+-làm tuột lông
+-vặt lông

@@ -1,3 +1,2 @@
-clocker
-	@clocker\n- xem clock
-
+clocker	@clocker
+- xem clock

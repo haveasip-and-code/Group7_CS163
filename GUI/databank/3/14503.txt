@@ -1,3 +1,7 @@
-dentist
-	@dentist /'dentist/\n*  danh từ\n- thầy thuốc chữa răng\n- thợ trồng răng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nha sĩ
-
+dentist	@dentist /'dentist/
+*  danh từ
+- thầy thuốc chữa răng
+- thợ trồng răng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nha sĩ

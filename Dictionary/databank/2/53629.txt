@@ -1,3 +1,0 @@
-strategy
-	@strategy\n- (lý thuyết trò chơi) chiến lược\n- s. for a game chiến lược của một trò chơi\n- completely mixed s. chiến lược hoàn toàn hỗn hợp\n- dominant s. chiến lược khống chế\n- duplicated s. chiến lược lặp\n- essential s. chiến lược cốt yếu\n- extended s. chiến lược mở rộng\n- invariant s. chiến lược bất biến\n- mixed s. chiến lược hỗn tạp\n- optimal s. chiến lược tối ưu\n- pure s. chiến lược thuần tuý
-

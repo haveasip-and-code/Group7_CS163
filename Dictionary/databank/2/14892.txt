@@ -1,3 +1,0 @@
-detecter
-	@detecter\n- xem detect
-

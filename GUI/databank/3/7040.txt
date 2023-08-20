@@ -1,3 +1,2 @@
-buffeter
-	@buffeter\n- xem buffet
-
+buffeter	@buffeter
+- xem buffet

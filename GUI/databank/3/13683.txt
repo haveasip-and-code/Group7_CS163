@@ -1,3 +1,2 @@
-debaser
-	@debaser\n- xem debase
-
+debaser	@debaser
+- xem debase

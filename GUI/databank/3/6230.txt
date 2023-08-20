@@ -1,3 +1,2 @@
-bond
-	@bond\n- mối liên kết, mối quan hệ
-
+bond	@bond
+- mối liên kết, mối quan hệ

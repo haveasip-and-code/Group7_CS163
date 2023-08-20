@@ -1,3 +1,12 @@
-coagulum
-	@coagulum\n* danh từ\n- khối (cục) đông tụ\n@Chuyên ngành kinh tế\n-hòn vón\n-vón cục\n@Chuyên ngành kỹ thuật\n-chất làm đông tụ\n@Lĩnh vực: y học\n-cục đông máu\n@Lĩnh vực: điện lạnh\n-thể đông tụ
-
+coagulum	@coagulum
+* danh từ
+- khối (cục) đông tụ
+@Chuyên ngành kinh tế
+-hòn vón
+-vón cục
+@Chuyên ngành kỹ thuật
+-chất làm đông tụ
+@Lĩnh vực: y học
+-cục đông máu
+@Lĩnh vực: điện lạnh
+-thể đông tụ

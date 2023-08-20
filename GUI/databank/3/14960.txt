@@ -1,3 +1,2 @@
-detrainment
-	@detrainment\n- xem detrain
-
+detrainment	@detrainment
+- xem detrain

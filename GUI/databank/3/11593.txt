@@ -1,3 +1,30 @@
-contractor
-	@contractor /kən'træktə/\n*  danh từ\n- thầu khoán, người đấu thầu, người thầu (cung cấp lương thực cho quân đội, bệnh viện, trường học)\n=army contractor+ người thầu cung cấp lương thực cho quân đội\n*  danh từ\n- (giải phẫu) cơ co\n@Chuyên ngành kinh tế\n-người kí kết hợp đồng\n-người ký kết hợp đồng\n-người nhận thầu\n-nhà đấu thầu\n-nhà thầu\n@Chuyên ngành kỹ thuật\n-chủ thầu\n-ngót\n-người nhận khoán\n-người nhận thầu\n-người thầu\n-nhà thầu\n-rút gọn\n-thu nhỏ\n@Lĩnh vực: xây dựng\n-bên thi công\n-thầu khoán\n@Lĩnh vực: vật lý\n-sự co do lạnh\n-sự co do nguội\n-sự co khi nguội\n@Lĩnh vực: cơ khí & công trình\n-tôpa
-
+contractor	@contractor /kən'træktə/
+*  danh từ
+- thầu khoán, người đấu thầu, người thầu (cung cấp lương thực cho quân đội, bệnh viện, trường học)
+=army contractor+ người thầu cung cấp lương thực cho quân đội
+*  danh từ
+- (giải phẫu) cơ co
+@Chuyên ngành kinh tế
+-người kí kết hợp đồng
+-người ký kết hợp đồng
+-người nhận thầu
+-nhà đấu thầu
+-nhà thầu
+@Chuyên ngành kỹ thuật
+-chủ thầu
+-ngót
+-người nhận khoán
+-người nhận thầu
+-người thầu
+-nhà thầu
+-rút gọn
+-thu nhỏ
+@Lĩnh vực: xây dựng
+-bên thi công
+-thầu khoán
+@Lĩnh vực: vật lý
+-sự co do lạnh
+-sự co do nguội
+-sự co khi nguội
+@Lĩnh vực: cơ khí & công trình
+-tôpa

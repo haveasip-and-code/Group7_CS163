@@ -1,3 +1,20 @@
-coupon
-	@coupon /'ku:pɔn/\n*  danh từ\n- vé, cuống vé; phiếu (mua hàng, thực phẩm, vải...)\n- phiếu thưởng hiện vật; phiếu dự xổ số (kèm với hàng mua)\n@Chuyên ngành kinh tế\n-cuống lãi\n-lãi phiếu\n-lãi suất (của trái phiếu có mức lời cố định)\n-phân phát phiếu thưởng\n-phiếu chia khẩu phần (để mua hàng, như thực phẩm, vải...)\n-phiếu giảm giá\n-phiếu lãi\n-phiếu phân phối\n-phiếu trả lãi\n-vé liền (phần vé dính liền với vé chính, xé riêng ra được)\n@Chuyên ngành kỹ thuật\n-mẫu thí nghiệm\n-phiếu\n@Lĩnh vực: hóa học & vật liệu\n-cupôn
-
+coupon	@coupon /'ku:pɔn/
+*  danh từ
+- vé, cuống vé; phiếu (mua hàng, thực phẩm, vải...)
+- phiếu thưởng hiện vật; phiếu dự xổ số (kèm với hàng mua)
+@Chuyên ngành kinh tế
+-cuống lãi
+-lãi phiếu
+-lãi suất (của trái phiếu có mức lời cố định)
+-phân phát phiếu thưởng
+-phiếu chia khẩu phần (để mua hàng, như thực phẩm, vải...)
+-phiếu giảm giá
+-phiếu lãi
+-phiếu phân phối
+-phiếu trả lãi
+-vé liền (phần vé dính liền với vé chính, xé riêng ra được)
+@Chuyên ngành kỹ thuật
+-mẫu thí nghiệm
+-phiếu
+@Lĩnh vực: hóa học & vật liệu
+-cupôn

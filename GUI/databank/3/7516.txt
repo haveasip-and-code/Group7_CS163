@@ -1,3 +1,2 @@
-calcitic
-	@calcitic\n- xem calcite
-
+calcitic	@calcitic
+- xem calcite

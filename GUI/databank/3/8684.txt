@@ -1,3 +1,32 @@
-chamber
-	@chamber /'tʃeimbə/\n*  danh từ\n- buồng, phòng; buồng ngủ\n- (số nhiều) nhà có sẵn đồ đạc cho đàn ông chưa vợ\n- (số nhiều) phòng luật sư; phòng làm việc của thẩm phán, phòng làm việc của quan toà\n- (Chamber) phòng, viện\n!chamber of commerce\n- phòng thương mại\n!the chamber of deputies\n- hạ nghị viện\n- khoang (trong máy...); hốc (mắt); ổ đạn (súng lục)\n- chậu đái đêm, cái bô ((cũng) chamber pot)\n*  ngoại động từ\n- bỏ vào phòng, nhốt vào phòng\n- (kỹ thuật) khoan rỗng, khoét thành hốc\n@Chuyên ngành kinh tế\n-buồng\n-phòng\n-thùng\n@Chuyên ngành kỹ thuật\n-buồng\n-buồng cháy\n-hầm\n-hố\n-hốc\n-khoang\n-ngăn\n-phòng\n-thân quặng\n-tủ\n@Lĩnh vực: hóa học & vật liệu\n-buồng ngăn
-
+chamber	@chamber /'tʃeimbə/
+*  danh từ
+- buồng, phòng; buồng ngủ
+- (số nhiều) nhà có sẵn đồ đạc cho đàn ông chưa vợ
+- (số nhiều) phòng luật sư; phòng làm việc của thẩm phán, phòng làm việc của quan toà
+- (Chamber) phòng, viện
+!chamber of commerce
+- phòng thương mại
+!the chamber of deputies
+- hạ nghị viện
+- khoang (trong máy...); hốc (mắt); ổ đạn (súng lục)
+- chậu đái đêm, cái bô ((cũng) chamber pot)
+*  ngoại động từ
+- bỏ vào phòng, nhốt vào phòng
+- (kỹ thuật) khoan rỗng, khoét thành hốc
+@Chuyên ngành kinh tế
+-buồng
+-phòng
+-thùng
+@Chuyên ngành kỹ thuật
+-buồng
+-buồng cháy
+-hầm
+-hố
+-hốc
+-khoang
+-ngăn
+-phòng
+-thân quặng
+-tủ
+@Lĩnh vực: hóa học & vật liệu
+-buồng ngăn

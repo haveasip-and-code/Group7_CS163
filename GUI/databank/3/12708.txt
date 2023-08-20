@@ -1,3 +1,2 @@
-criticizable
-	@criticizable\n- xem criticize
-
+criticizable	@criticizable
+- xem criticize

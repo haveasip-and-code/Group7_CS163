@@ -1,3 +1,40 @@
-decline
-	@decline /di'klain/\n*  danh từ\n- sự sụt, sự suy tàn, sự suy sụp, sự tàn tạ\n=the decline of imperialism+ sự suy tàn của chủ nghĩa đế quốc\n=the decline of prices+ sự sụt giá\n=the decline of old age+ sự tàn tạ của tuổi già\n=the decline of the moon+ lúc trăng tàn\n- (y học) bệnh gầy mòn, sự sụt sức\n=to fall into a decline+ mắc bệnh gầy mòn, bị sụt sức\n*  nội động từ\n- nghiêng đi, dốc nghiêng đi\n- nghiêng mình, cúi mình, cúi đầu rũ xuống\n- tàn dần (ngày); xế, xế tà (mặt trời...); suy đi, suy dần (sức khoẻ); sụt xuống (giá cả...)\n- suy sụp, suy vi, tàn tạ\n*  ngoại động từ\n- nghiêng (mình), cúi (đầu)\n- từ chối, khước từ, không nhận, không chịu\n=to decline an invitation+ khước từ lời mời\n=to decline battle+ không chịu giao chiến\n=to decline a challenge+ không nhận lời thách\n=to decline to do (doing) something+ từ chối không làm gì\n=to decline with thanks+ từ chối một cách khinh bỉ\n- (ngôn ngữ học) biến cách\n@Chuyên ngành kinh tế\n-hạ xuống\n-sự tuột giảm (vật giá)\n-từ chối khéo (giá chào hoặc đơn đặt hàng)\n-từ chối quanh co\n-tuột giảm\n@Chuyên ngành kỹ thuật\n-độ dốc\n-độ nghiêng\n-giảm\n-giảm bớt\n-hạ thấp\n-làm suy giảm\n-sự giảm\n-sự hạ\n@Lĩnh vực: xây dựng\n-khước từ
-
+decline	@decline /di'klain/
+*  danh từ
+- sự sụt, sự suy tàn, sự suy sụp, sự tàn tạ
+=the decline of imperialism+ sự suy tàn của chủ nghĩa đế quốc
+=the decline of prices+ sự sụt giá
+=the decline of old age+ sự tàn tạ của tuổi già
+=the decline of the moon+ lúc trăng tàn
+- (y học) bệnh gầy mòn, sự sụt sức
+=to fall into a decline+ mắc bệnh gầy mòn, bị sụt sức
+*  nội động từ
+- nghiêng đi, dốc nghiêng đi
+- nghiêng mình, cúi mình, cúi đầu rũ xuống
+- tàn dần (ngày); xế, xế tà (mặt trời...); suy đi, suy dần (sức khoẻ); sụt xuống (giá cả...)
+- suy sụp, suy vi, tàn tạ
+*  ngoại động từ
+- nghiêng (mình), cúi (đầu)
+- từ chối, khước từ, không nhận, không chịu
+=to decline an invitation+ khước từ lời mời
+=to decline battle+ không chịu giao chiến
+=to decline a challenge+ không nhận lời thách
+=to decline to do (doing) something+ từ chối không làm gì
+=to decline with thanks+ từ chối một cách khinh bỉ
+- (ngôn ngữ học) biến cách
+@Chuyên ngành kinh tế
+-hạ xuống
+-sự tuột giảm (vật giá)
+-từ chối khéo (giá chào hoặc đơn đặt hàng)
+-từ chối quanh co
+-tuột giảm
+@Chuyên ngành kỹ thuật
+-độ dốc
+-độ nghiêng
+-giảm
+-giảm bớt
+-hạ thấp
+-làm suy giảm
+-sự giảm
+-sự hạ
+@Lĩnh vực: xây dựng
+-khước từ

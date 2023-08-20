@@ -1,0 +1,18 @@
+integration	
+@integration
+- (giải tích) phép lấy tích phân i. by decomposition phép lấy tích
+- phân bằng phân tích; i. by partial fractions phép lấy tích phân bằng
+- phân thức đơn giản; i. by substitution phép lấy tích phân bằng phép thế;
+- i. in infinite terms phép lấy tích phân các số hạng hữu hạn
+- i. of sequences and series phép lấy tích phân chuỗi vô hạn
+- approximate i. phép lấy tích phân [xấp xỉ, gần đúng]
+- asymptotic i. phép lấy tích phân tiệm cận
+- complex i. phép lấy tích phân thức
+- formal i. phép lấy tích phân
+- graphic(al) i. phép lấy tích phân bằng đồ thị
+- group i. phép lấy tích phân theo nhóm
+- immediate i. phép lấy tích phân trực tiếp
+- machanical i. phép lấy tích phân cơ giới
+- numerical i. phép lấy tích phân bằng số
+- point by point i. phép lấy tích phân theo điểm
+- successive i. lấy tích phân liên tiếp

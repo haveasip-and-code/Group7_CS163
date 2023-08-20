@@ -1,3 +1,8 @@
-animate
-	@animate /'ænimit/\n*  tính từ\n- có sinh khí, có sức sống\n- nhộn nhịp, náo nhiệt\n*  ngoại động từ\n- làm cho sống, làm cho có sinh khí\n- làm nhộn nhịp, làm náo nhiệt, làm sinh động, làm sôi nổi\n- cổ vũ, làm phấn khởi
-
+animate	@animate /'ænimit/
+*  tính từ
+- có sinh khí, có sức sống
+- nhộn nhịp, náo nhiệt
+*  ngoại động từ
+- làm cho sống, làm cho có sinh khí
+- làm nhộn nhịp, làm náo nhiệt, làm sinh động, làm sôi nổi
+- cổ vũ, làm phấn khởi

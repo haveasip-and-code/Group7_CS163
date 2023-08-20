@@ -1,3 +1,2 @@
-absolver
-	@absolver\n- xem absolve
-
+absolver	@absolver
+- xem absolve

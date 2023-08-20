@@ -1,3 +1,4 @@
-contestant
-	@contestant /kən'testənt/\n*  danh từ\n- đấu thủ, đối thủ, người tranh giải, người dự thi\n- người tranh luận, người tranh cãi
-
+contestant	@contestant /kən'testənt/
+*  danh từ
+- đấu thủ, đối thủ, người tranh giải, người dự thi
+- người tranh luận, người tranh cãi

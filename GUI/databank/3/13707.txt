@@ -1,3 +1,4 @@
-debt
-	@debt\n- (toán kinh tế) món nợ\n- national d. quốc trái\n- public d. công trái
-
+debt	@debt
+- (toán kinh tế) món nợ
+- national d. quốc trái
+- public d. công trái

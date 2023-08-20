@@ -1,3 +1,9 @@
-bevelled
-	@Chuyên ngành kỹ thuật\n-hình nón\n-nghiêng\n-vát\n@Lĩnh vực: cơ khí & công trình\n-có mặt nghiêng\n-có mép vát\n@Lĩnh vực: xây dựng\n-được làm vát
-
+bevelled	@Chuyên ngành kỹ thuật
+-hình nón
+-nghiêng
+-vát
+@Lĩnh vực: cơ khí & công trình
+-có mặt nghiêng
+-có mép vát
+@Lĩnh vực: xây dựng
+-được làm vát

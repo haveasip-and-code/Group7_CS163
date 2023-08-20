@@ -1,3 +1,4 @@
-abrasives
-	@Chuyên ngành kỹ thuật\n-chất mài mòn\n@Lĩnh vực: xây dựng\n-vật liệu mài mòn
-
+abrasives	@Chuyên ngành kỹ thuật
+-chất mài mòn
+@Lĩnh vực: xây dựng
+-vật liệu mài mòn

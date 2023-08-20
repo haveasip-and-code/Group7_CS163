@@ -1,3 +1,2 @@
-conferrer
-	@conferrer\n- xem confer
-
+conferrer	@conferrer
+- xem confer

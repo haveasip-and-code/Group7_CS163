@@ -1,3 +1,5 @@
-curtaining
-	@Chuyên ngành kỹ thuật\n-lớp lót\n@Lĩnh vực: hóa học & vật liệu\n-sự tạo màn che\n-sự tạo màng ngăn
-
+curtaining	@Chuyên ngành kỹ thuật
+-lớp lót
+@Lĩnh vực: hóa học & vật liệu
+-sự tạo màn che
+-sự tạo màng ngăn

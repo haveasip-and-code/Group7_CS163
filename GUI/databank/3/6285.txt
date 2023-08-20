@@ -1,3 +1,2 @@
-bookmaking
-	@bookmaking\n- xem bookmaker
-
+bookmaking	@bookmaking
+- xem bookmaker

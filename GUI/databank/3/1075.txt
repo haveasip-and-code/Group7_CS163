@@ -1,3 +1,12 @@
-affiliation
-	@affiliation /ə,fili'eiʃn/\n*  danh từ\n- sự nhập hội, sự nhập đoàn\n- sự sáp nhập, sự nhập vào, sự liên kết\n- (pháp lý) sự xác định tư cách làm bố (một đứa con hoang để có trách nhiệm nuôi)\n- sự xác định tư cách tác giả (của một tác phẩm)\n- sự tìm nguồn gốc (ngôn ngữ)\n@Chuyên ngành kinh tế\n-hội nhập\n-liên doanh\n-liên kết\n-sự gia nhập
-
+affiliation	@affiliation /ə,fili'eiʃn/
+*  danh từ
+- sự nhập hội, sự nhập đoàn
+- sự sáp nhập, sự nhập vào, sự liên kết
+- (pháp lý) sự xác định tư cách làm bố (một đứa con hoang để có trách nhiệm nuôi)
+- sự xác định tư cách tác giả (của một tác phẩm)
+- sự tìm nguồn gốc (ngôn ngữ)
+@Chuyên ngành kinh tế
+-hội nhập
+-liên doanh
+-liên kết
+-sự gia nhập

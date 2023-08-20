@@ -1,3 +1,5 @@
-clue
-	@clue /klu:/\n*  danh từ\n- đầu mối; manh mối\n=to look for clues+ lần đầu mối\n- dòng tư tưởng; mạch câu chuyện
-
+clue	@clue /klu:/
+*  danh từ
+- đầu mối; manh mối
+=to look for clues+ lần đầu mối
+- dòng tư tưởng; mạch câu chuyện

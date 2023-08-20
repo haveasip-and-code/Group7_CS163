@@ -1,3 +1,14 @@
-bulldozer
-	@bulldozer /'bul,douzə/\n*  danh từ\n- xe ủi đất\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người doạ dẫm, người đe doạ, người ép buộc\n@Chuyên ngành kỹ thuật\n-máy gạt\n-máy ủi\n-máy ủi đất\n@Lĩnh vực: cơ khí & công trình\n-búa lớn\n-đe có mặt lõm\n-máy rèn ngang\n@Lĩnh vực: xây dựng\n-lưỡi gạt mái ủi
-
+bulldozer	@bulldozer /'bul,douzə/
+*  danh từ
+- xe ủi đất
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người doạ dẫm, người đe doạ, người ép buộc
+@Chuyên ngành kỹ thuật
+-máy gạt
+-máy ủi
+-máy ủi đất
+@Lĩnh vực: cơ khí & công trình
+-búa lớn
+-đe có mặt lõm
+-máy rèn ngang
+@Lĩnh vực: xây dựng
+-lưỡi gạt mái ủi

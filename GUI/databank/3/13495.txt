@@ -1,3 +1,2 @@
-dangerousness
-	@dangerousness\n- xem dangerous
-
+dangerousness	@dangerousness
+- xem dangerous

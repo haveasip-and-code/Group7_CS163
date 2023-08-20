@@ -1,3 +1,0 @@
-predefine
-	@predefine\n- định nghĩa trước, xác định trước\n@Chuyên ngành kỹ thuật\n-gắn liền\n@Lĩnh vực: toán & tin\n-dựng sẵn\n-tiền định
-

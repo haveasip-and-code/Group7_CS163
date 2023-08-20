@@ -1,0 +1,11 @@
+subroutine	@subroutine
+- chương trình con, thủ tục phụ
+@Chuyên ngành kỹ thuật
+-lặp thức con
+-thủ tục con
+-thủ tục phụ
+-thường trình
+-thường trình con
+@Lĩnh vực: toán & tin
+-đoạn chương trình con
+-trình con

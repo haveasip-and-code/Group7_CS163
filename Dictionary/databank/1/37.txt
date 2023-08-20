@@ -1,3 +1,0 @@
-abbreviate
-	@abbreviate\n- (Tech) rút gọn; viết tắt
-

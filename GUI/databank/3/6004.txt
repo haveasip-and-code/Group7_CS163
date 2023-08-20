@@ -1,3 +1,2 @@
-bloomy
-	@bloomy\n- xem bloom
-
+bloomy	@bloomy
+- xem bloom

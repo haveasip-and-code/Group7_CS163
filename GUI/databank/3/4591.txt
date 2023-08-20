@@ -1,3 +1,2 @@
-bandager
-	@bandager\n- xem bandage
-
+bandager	@bandager
+- xem bandage

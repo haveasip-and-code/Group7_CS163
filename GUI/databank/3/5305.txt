@@ -1,3 +1,6 @@
-berthing
-	@Chuyên ngành kỹ thuật\n-chỗ thả neo\n-thả neo\n@Lĩnh vực: xây dựng\n-chỗ đậu tầu\n-sự cập bến (tàu, thuyền)
-
+berthing	@Chuyên ngành kỹ thuật
+-chỗ thả neo
+-thả neo
+@Lĩnh vực: xây dựng
+-chỗ đậu tầu
+-sự cập bến (tàu, thuyền)

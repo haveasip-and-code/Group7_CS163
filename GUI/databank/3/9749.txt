@@ -1,3 +1,5 @@
-cleveite
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-cleveit (loại quặng urani)\n@Lĩnh vực: hóa học & vật liệu\n-eleveit
-
+cleveite	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-cleveit (loại quặng urani)
+@Lĩnh vực: hóa học & vật liệu
+-eleveit

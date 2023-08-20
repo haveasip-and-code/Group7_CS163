@@ -1,3 +1,2 @@
-bauxitic
-	@bauxitic\n- xem bauxite
-
+bauxitic	@bauxitic
+- xem bauxite

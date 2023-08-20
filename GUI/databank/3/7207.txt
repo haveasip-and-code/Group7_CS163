@@ -1,3 +1,6 @@
-buried
-	@buried\n- (Tech) chôn, ngầm (dưới đất)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bị chìm\n-bị chôn vùi
-
+buried	@buried
+- (Tech) chôn, ngầm (dưới đất)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bị chìm
+-bị chôn vùi

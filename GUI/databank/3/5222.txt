@@ -1,3 +1,1 @@
-bemusement
-	@bemusement -  Xem bemuse
-
+bemusement	@bemusement -  Xem bemuse

@@ -1,3 +1,12 @@
-bazaar
-	@bazaar /bə'za:/ (bazaar) /bə'za:/\n*  danh từ\n- chợ (ở phương Đông)\n- hàng tạp hoá (Anh,  Mỹ)\n- cuộc bán hàng phúc thiện; chỗ bán hàng phúc thiện\n@Chuyên ngành kinh tế\n-chợ (ở các nước Đông phương)\n-chỗ bầy hàng\n-cửa hàng tạp hóa\n-cuộc bán hàng từ thiện\n@Chuyên ngành kỹ thuật\n-chợ
-
+bazaar	@bazaar /bə'za:/ (bazaar) /bə'za:/
+*  danh từ
+- chợ (ở phương Đông)
+- hàng tạp hoá (Anh,  Mỹ)
+- cuộc bán hàng phúc thiện; chỗ bán hàng phúc thiện
+@Chuyên ngành kinh tế
+-chợ (ở các nước Đông phương)
+-chỗ bầy hàng
+-cửa hàng tạp hóa
+-cuộc bán hàng từ thiện
+@Chuyên ngành kỹ thuật
+-chợ

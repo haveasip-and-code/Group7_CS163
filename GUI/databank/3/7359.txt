@@ -1,3 +1,22 @@
-cab
-	@cab /kæb/\n*  danh từ\n- xe tắc xi; xe ngựa thuê\n- (ngành đường sắt) buồng lái\n- cabin, buồng lái (ở xe vận tải)\n*  nội động từ\n- đi xe tắc xi; đi xe ngựa thuê\n@Chuyên ngành kỹ thuật\n-cabin\n-người đánh xe ngựa\n-phòng\n-quán nhỏ\n-xe tắc xi\n@Lĩnh vực: toán & tin\n-buồng (nhỏ)\n-hành khách đồng hành\n@Lĩnh vực: giao thông & vận tải\n-buồng lái (tàu)\n@Lĩnh vực: ô tô\n-cabin ô tô (thân xe)\n@Lĩnh vực: hóa học & vật liệu\n-vách mạch
-
+cab	@cab /kæb/
+*  danh từ
+- xe tắc xi; xe ngựa thuê
+- (ngành đường sắt) buồng lái
+- cabin, buồng lái (ở xe vận tải)
+*  nội động từ
+- đi xe tắc xi; đi xe ngựa thuê
+@Chuyên ngành kỹ thuật
+-cabin
+-người đánh xe ngựa
+-phòng
+-quán nhỏ
+-xe tắc xi
+@Lĩnh vực: toán & tin
+-buồng (nhỏ)
+-hành khách đồng hành
+@Lĩnh vực: giao thông & vận tải
+-buồng lái (tàu)
+@Lĩnh vực: ô tô
+-cabin ô tô (thân xe)
+@Lĩnh vực: hóa học & vật liệu
+-vách mạch

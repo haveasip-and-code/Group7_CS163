@@ -1,3 +1,7 @@
-coagulability
-	@coagulability\n- xem coagulate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-khả năng đông tụ\n@Lĩnh vực: điện lạnh\n-tính đông tụ
-
+coagulability	@coagulability
+- xem coagulate
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khả năng đông tụ
+@Lĩnh vực: điện lạnh
+-tính đông tụ

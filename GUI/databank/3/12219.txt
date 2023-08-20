@@ -1,3 +1,2 @@
-counteractive
-	@counteractive\n- xem counteract
-
+counteractive	@counteractive
+- xem counteract

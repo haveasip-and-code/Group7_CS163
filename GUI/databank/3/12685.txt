@@ -1,3 +1,15 @@
-crippling
-	@crippling\n* danh từ\n- (kỹ thuật) sự méo mó\n@Chuyên ngành kỹ thuật\n-biến dạng\n-sự biến dạng\n-sự cong vênh\n-sự mất ổn định\n-sự oằn\n-sự phá hỏng\n-sự uốn\n-vết nứt\n@Lĩnh vực: xây dựng\n-sự phình nở\n-tới hạn (tải trọng)
-
+crippling	@crippling
+* danh từ
+- (kỹ thuật) sự méo mó
+@Chuyên ngành kỹ thuật
+-biến dạng
+-sự biến dạng
+-sự cong vênh
+-sự mất ổn định
+-sự oằn
+-sự phá hỏng
+-sự uốn
+-vết nứt
+@Lĩnh vực: xây dựng
+-sự phình nở
+-tới hạn (tải trọng)

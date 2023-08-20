@@ -1,3 +1,12 @@
-crime
-	@crime /kraim/\n*  danh từ\n- tội ác\n=to commit a crime+ phạm tội ác\n=war crime+ tội ác chiến tranh\n- tội lỗi\n- (quân sự) sự vi phạm qui chế\n*  ngoại động từ\n- (quân sự) buộc tội, xử phạt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tội phạm
-
+crime	@crime /kraim/
+*  danh từ
+- tội ác
+=to commit a crime+ phạm tội ác
+=war crime+ tội ác chiến tranh
+- tội lỗi
+- (quân sự) sự vi phạm qui chế
+*  ngoại động từ
+- (quân sự) buộc tội, xử phạt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tội phạm

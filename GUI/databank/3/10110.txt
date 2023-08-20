@@ -1,3 +1,2 @@
-coercer
-	@coercer\n- xem coerce
-
+coercer	@coercer
+- xem coerce

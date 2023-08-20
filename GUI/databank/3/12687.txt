@@ -1,3 +1,18 @@
-crisis
-	@crisis /'kraisis/\n*  danh từ,  số nhiều crises\n- sự khủng hoảng; cơn khủng hoảng\n=political crisis+ khủng hoảng chính trị\n=a cabiner crisis+ khủng hoảng nội các\n=economic crisis+ khủng hoảng kinh tế\n=to come to a crisis+ đến bước ngoặc, đến bước quyết định\n=to pass through a crisis+ qua một cơn khủng hoảng\n- (y học) cơn (bệnh); sự lên cơn\n@Chuyên ngành kinh tế\n-khủng hoảng\n-sự nguy cơ\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bệnh biến\n-cơn\n@Lĩnh vực: toán & tin\n-khủng hoảng
-
+crisis	@crisis /'kraisis/
+*  danh từ,  số nhiều crises
+- sự khủng hoảng; cơn khủng hoảng
+=political crisis+ khủng hoảng chính trị
+=a cabiner crisis+ khủng hoảng nội các
+=economic crisis+ khủng hoảng kinh tế
+=to come to a crisis+ đến bước ngoặc, đến bước quyết định
+=to pass through a crisis+ qua một cơn khủng hoảng
+- (y học) cơn (bệnh); sự lên cơn
+@Chuyên ngành kinh tế
+-khủng hoảng
+-sự nguy cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh biến
+-cơn
+@Lĩnh vực: toán & tin
+-khủng hoảng

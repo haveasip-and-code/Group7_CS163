@@ -1,3 +1,2 @@
-acquitter
-	@acquitter\n- xem acquit
-
+acquitter	@acquitter
+- xem acquit

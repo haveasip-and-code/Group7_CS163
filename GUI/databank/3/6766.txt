@@ -1,3 +1,8 @@
-briefcase
-	@briefcase\n- cái cặp để giấy tờ, tài liệu\n@Chuyên ngành kinh tế\n-cặp đựng tài liệu\n-cặp giấy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cặp tài liệu
-
+briefcase	@briefcase
+- cái cặp để giấy tờ, tài liệu
+@Chuyên ngành kinh tế
+-cặp đựng tài liệu
+-cặp giấy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cặp tài liệu

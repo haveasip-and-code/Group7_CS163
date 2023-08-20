@@ -1,0 +1,13 @@
+differentiation	
+@differentiation
+- phép lấy vi phân, phép tìm đạo hàm
+- d. of an infinite seri lấy vi phân một chuỗi vô hạn
+- complex d. phép lấy vi phân thức
+- covariant d. phép lấy vi phân hiệp biến
+- implicit d. phép lấy vi phân tìm đạo hàm, một ẩn hàm
+- indirect d. (giải tích) phép lấy vi phân một hàm hợp
+- logarithmic d. phép lấy đạo hàm nhờ lấy lôga, phép lấy vi phân bằng
+- (phép) lấy lôga
+- numerical d. phép lấy vi phân bằng số
+- partial d. phép lấy vi phân riêng, phép lấy đạo hàm riêng
+- succesive d. phép lấy vi phân liên tiếp

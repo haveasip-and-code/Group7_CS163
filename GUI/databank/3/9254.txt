@@ -1,3 +1,9 @@
-chromaticity
-	@chromaticity\n- (Tech) sắc độ [ĐL]\n@Chuyên ngành kỹ thuật\n-có mầu sắc\n-độ màu\n-sắc độ\n-tính sắc sai\n@Lĩnh vực: điện\n-độ kết tủa màu
-
+chromaticity	@chromaticity
+- (Tech) sắc độ [ĐL]
+@Chuyên ngành kỹ thuật
+-có mầu sắc
+-độ màu
+-sắc độ
+-tính sắc sai
+@Lĩnh vực: điện
+-độ kết tủa màu

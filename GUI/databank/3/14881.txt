@@ -1,3 +1,21 @@
-detail
-	@detail /'di:teil/\n*  danh từ\n- chi tiết, tiểu tiết; điều tỉ mỉ, điều vụn vặt\n=the details of a story+ chi tiết của một câu chuyện\n=to go (enter) into details+ đi vào chi tiết\n=in detail+ tường tận, tỉ mỉ, từ chân tơ kẽ tóc\n- (kỹ thuật) chi tiết (máy)\n- (quân sự) phân đội, chi đội (được cắt đi làm nhiệm vụ riêng lẻ)\n- (quân sự) sự trao nhật lệnh\n*  ngoại động từ\n- kể chi tiết, trình bày tỉ mỉ\n=to detail a story+ kể tỉ mỉ một câu chuyện\n- (quân sự) cắt cử\n=to detail someone dor some duty+ cắt cử ai làm một nhiệm vụ gì\n@Chuyên ngành kinh tế\n-chi tiết\n-sự tách vết cháy ở kẹo\n-tách vết cháy ở kẹo\n@Chuyên ngành kỹ thuật\n-bộ phận\n-địa vật
-
+detail	@detail /'di:teil/
+*  danh từ
+- chi tiết, tiểu tiết; điều tỉ mỉ, điều vụn vặt
+=the details of a story+ chi tiết của một câu chuyện
+=to go (enter) into details+ đi vào chi tiết
+=in detail+ tường tận, tỉ mỉ, từ chân tơ kẽ tóc
+- (kỹ thuật) chi tiết (máy)
+- (quân sự) phân đội, chi đội (được cắt đi làm nhiệm vụ riêng lẻ)
+- (quân sự) sự trao nhật lệnh
+*  ngoại động từ
+- kể chi tiết, trình bày tỉ mỉ
+=to detail a story+ kể tỉ mỉ một câu chuyện
+- (quân sự) cắt cử
+=to detail someone dor some duty+ cắt cử ai làm một nhiệm vụ gì
+@Chuyên ngành kinh tế
+-chi tiết
+-sự tách vết cháy ở kẹo
+-tách vết cháy ở kẹo
+@Chuyên ngành kỹ thuật
+-bộ phận
+-địa vật

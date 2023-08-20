@@ -1,3 +1,13 @@
-defecate
-	@defecate /'defikeit/\n*  ngoại động từ\n- gạn, lọc, làm trong ((nghĩa đen) & (nghĩa bóng))\n- thải ra (cặn...); sửa chữa, chừa, giũ sạch (tội lỗi...)\n- ỉa ra\n@Chuyên ngành kinh tế\n-gạn\n-làm trong\n-lọc\n-thải ra\n@Chuyên ngành kỹ thuật\n-lọc\n-lóng cặn
-
+defecate	@defecate /'defikeit/
+*  ngoại động từ
+- gạn, lọc, làm trong ((nghĩa đen) & (nghĩa bóng))
+- thải ra (cặn...); sửa chữa, chừa, giũ sạch (tội lỗi...)
+- ỉa ra
+@Chuyên ngành kinh tế
+-gạn
+-làm trong
+-lọc
+-thải ra
+@Chuyên ngành kỹ thuật
+-lọc
+-lóng cặn

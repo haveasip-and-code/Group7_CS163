@@ -1,3 +1,2 @@
-customizer
-	@customizer\n- xem customize
-
+customizer	@customizer
+- xem customize

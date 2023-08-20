@@ -1,3 +1,11 @@
-colorimetry
-	@colorimetry\n- (Tech) phép đo màu, đo màu (d)\n@Chuyên ngành kinh tế\n-dụng cụ màu\n-sắc kế\n@Chuyên ngành kỹ thuật\n-sự so màu\n@Lĩnh vực: y học\n-phép đo màu, so màu\n@Lĩnh vực: điện lạnh\n-phép so màu
-
+colorimetry	@colorimetry
+- (Tech) phép đo màu, đo màu (d)
+@Chuyên ngành kinh tế
+-dụng cụ màu
+-sắc kế
+@Chuyên ngành kỹ thuật
+-sự so màu
+@Lĩnh vực: y học
+-phép đo màu, so màu
+@Lĩnh vực: điện lạnh
+-phép so màu

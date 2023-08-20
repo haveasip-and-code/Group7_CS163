@@ -1,0 +1,14 @@
+excluded	
+@excluded
+- bị loại trừ
+@Chuyên ngành kinh tế
+-không bao gồm
+-ngoại trừ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bị loại trừ
+-được loại trừ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bị loại trừ
+-được loại trừ

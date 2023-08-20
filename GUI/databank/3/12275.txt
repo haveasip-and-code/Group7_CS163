@@ -1,3 +1,4 @@
-coup
-	@coup /ku:/\n*  danh từ\n- việc làm táo bạo; hành động phi thường\n=to make a coup+ làm một chuyện phi thường
-
+coup	@coup /ku:/
+*  danh từ
+- việc làm táo bạo; hành động phi thường
+=to make a coup+ làm một chuyện phi thường

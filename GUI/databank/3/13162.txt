@@ -1,3 +1,2 @@
-curtailer
-	@curtailer\n- xem curtail
-
+curtailer	@curtailer
+- xem curtail

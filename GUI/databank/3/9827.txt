@@ -1,3 +1,12 @@
-clocking
-	@clocking /'klɔkiɳ/\n*  tính từ\n- ấp (gà)\n@Chuyên ngành kỹ thuật\n-sự định thời\n@Lĩnh vực: toán & tin\n-đếm thời gian\n-sự tạo xung nhịp\n@Lĩnh vực: ô tô\n-khóa cửa trung tâm\n@Lĩnh vực: đo lường & điều khiển\n-sự giữ nhịp
-
+clocking	@clocking /'klɔkiɳ/
+*  tính từ
+- ấp (gà)
+@Chuyên ngành kỹ thuật
+-sự định thời
+@Lĩnh vực: toán & tin
+-đếm thời gian
+-sự tạo xung nhịp
+@Lĩnh vực: ô tô
+-khóa cửa trung tâm
+@Lĩnh vực: đo lường & điều khiển
+-sự giữ nhịp

@@ -1,3 +1,2 @@
-contaminator
-	@contaminator\n- xem contaminate
-
+contaminator	@contaminator
+- xem contaminate

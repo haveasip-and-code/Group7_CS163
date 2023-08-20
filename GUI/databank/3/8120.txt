@@ -1,3 +1,2 @@
-cartable
-	@cartable\n- xem cart
-
+cartable	@cartable
+- xem cart

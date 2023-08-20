@@ -1,3 +1,12 @@
-catalyst
-	@catalyst /'kætəlist/\n*  danh từ\n- (hoá học) vật xúc tác, chất xúc tác\n@Chuyên ngành kinh tế\n-chất xúc tác\n-nhân tố kích thích\n-vật xúc tác\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chất xúc tác\n@Lĩnh vực: xây dựng\n-xúc tác (chất)
-
+catalyst	@catalyst /'kætəlist/
+*  danh từ
+- (hoá học) vật xúc tác, chất xúc tác
+@Chuyên ngành kinh tế
+-chất xúc tác
+-nhân tố kích thích
+-vật xúc tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chất xúc tác
+@Lĩnh vực: xây dựng
+-xúc tác (chất)

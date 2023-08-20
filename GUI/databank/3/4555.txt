@@ -1,3 +1,7 @@
-ballooning
-	@Chuyên ngành kinh tế\n-tăng giá cổ phiếu\n-thao túng giá cả trái phép\n@Chuyên ngành kỹ thuật\n-sự phình\n@Lĩnh vực: cơ khí & công trình\n-sự phồng căng
-
+ballooning	@Chuyên ngành kinh tế
+-tăng giá cổ phiếu
+-thao túng giá cả trái phép
+@Chuyên ngành kỹ thuật
+-sự phình
+@Lĩnh vực: cơ khí & công trình
+-sự phồng căng

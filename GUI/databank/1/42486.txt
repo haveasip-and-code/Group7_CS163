@@ -1,0 +1,3 @@
+polynucleotide	@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chuỗi các nucleotide liên kết với nhau, tạo thành các phân tử DNA và RNA

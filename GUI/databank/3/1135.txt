@@ -1,3 +1,6 @@
-aftermarket
-	@Chuyên ngành kinh tế\n-thị trường sau\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thị trường kéo theo\n-thị trường tiếp sau
-
+aftermarket	@Chuyên ngành kinh tế
+-thị trường sau
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thị trường kéo theo
+-thị trường tiếp sau

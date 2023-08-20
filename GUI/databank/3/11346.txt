@@ -1,3 +1,2 @@
-consistorial
-	@consistorial\n- xem consistory
-
+consistorial	@consistorial
+- xem consistory

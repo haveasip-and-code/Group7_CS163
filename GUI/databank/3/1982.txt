@@ -1,3 +1,2 @@
-amuser
-	@amuser\n- xem amuse
-
+amuser	@amuser
+- xem amuse

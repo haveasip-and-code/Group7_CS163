@@ -1,3 +1,2 @@
-determinedness
-	@determinedness\n- xem determined
-
+determinedness	@determinedness
+- xem determined

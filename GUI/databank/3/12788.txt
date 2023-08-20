@@ -1,3 +1,34 @@
-crowd
-	@crowd /kraud/\n*  danh từ\n- đám đông\n=to be lost in the crowd+ bị lạc trong đám đông\n- (the crowd) quần chúng\n- (thông tục) bọn, lũ, nhóm, tụi, cánh\n- đống, vô số\n=a crowd of papers+ đống giấy\n- crowd of sail (hàng hải) sự căng hết (thảy) buồm, sự căng nhiều buồm\n!he might pass in the crowd\n- anh ta chẳng có gì xấu để cho thiên hạ phải để ý, anh ta cũng chẳng có gì để thiên hạ phải để nói\n*  nội động từ\n- xúm lại, tụ tập, đổ xô đến\n=to crowd round someone+ xúm quanh ai\n- (+ into,  through) len vào, chen vào, len qua\n- (hàng hải) đi hết tốc độ, căng hết buồm mà đi\n*  ngoại động từ\n- làm cho chật ních, chồng chất, nhét đầy, nhồi nhét\n- tụ tập, tập hợp\n- (từ Mỹ,nghĩa Mỹ) dùng áp lực đối với (ai), cưỡng bách, thúc giục; quấy rầy\n=to crowd someone's into doing something+ dùng áp lực bắt ai làm gì, cưỡng bách ai làm gì\n- (thể dục,thể thao) làm trở ngại, cản (đối phương)\n!to crowd into\n- ùa vào, đổ xô vào, lũ lượt kéo vào\n!to crowd out\n- ùa ra, đổ xô ra, lũ lượt kéo ra\n- đuổi ra ngoài, không cho vào (vì quá đông)\n=to be crowded out+ bị ẩy ra ngoài không vào được vì quá đông\n!to crowd (on) sail\n- (hàng hải) gương hết (thảy) buồm\n@Chuyên ngành kinh tế\n-nhòm chuyên nhiệm\n@Chuyên ngành kỹ thuật\n-đám đông
-
+crowd	@crowd /kraud/
+*  danh từ
+- đám đông
+=to be lost in the crowd+ bị lạc trong đám đông
+- (the crowd) quần chúng
+- (thông tục) bọn, lũ, nhóm, tụi, cánh
+- đống, vô số
+=a crowd of papers+ đống giấy
+- crowd of sail (hàng hải) sự căng hết (thảy) buồm, sự căng nhiều buồm
+!he might pass in the crowd
+- anh ta chẳng có gì xấu để cho thiên hạ phải để ý, anh ta cũng chẳng có gì để thiên hạ phải để nói
+*  nội động từ
+- xúm lại, tụ tập, đổ xô đến
+=to crowd round someone+ xúm quanh ai
+- (+ into,  through) len vào, chen vào, len qua
+- (hàng hải) đi hết tốc độ, căng hết buồm mà đi
+*  ngoại động từ
+- làm cho chật ních, chồng chất, nhét đầy, nhồi nhét
+- tụ tập, tập hợp
+- (từ Mỹ,nghĩa Mỹ) dùng áp lực đối với (ai), cưỡng bách, thúc giục; quấy rầy
+=to crowd someone's into doing something+ dùng áp lực bắt ai làm gì, cưỡng bách ai làm gì
+- (thể dục,thể thao) làm trở ngại, cản (đối phương)
+!to crowd into
+- ùa vào, đổ xô vào, lũ lượt kéo vào
+!to crowd out
+- ùa ra, đổ xô ra, lũ lượt kéo ra
+- đuổi ra ngoài, không cho vào (vì quá đông)
+=to be crowded out+ bị ẩy ra ngoài không vào được vì quá đông
+!to crowd (on) sail
+- (hàng hải) gương hết (thảy) buồm
+@Chuyên ngành kinh tế
+-nhòm chuyên nhiệm
+@Chuyên ngành kỹ thuật
+-đám đông

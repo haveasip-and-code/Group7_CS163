@@ -1,3 +1,6 @@
-acetal
-	@Chuyên ngành kỹ thuật\n-axetan\n@Lĩnh vực: hóa học & vật liệu\n-acêtal\n@Lĩnh vực: xây dựng\n-axêtal
-
+acetal	@Chuyên ngành kỹ thuật
+-axetan
+@Lĩnh vực: hóa học & vật liệu
+-acêtal
+@Lĩnh vực: xây dựng
+-axêtal

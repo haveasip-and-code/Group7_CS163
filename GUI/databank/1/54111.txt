@@ -1,0 +1,8 @@
+submenu	@submenu
+- lệnh đơn phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thực đơn con
+-trình đơn phụ
+@Lĩnh vực: xây dựng
+-thực đơn phụ

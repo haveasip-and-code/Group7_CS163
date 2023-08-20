@@ -1,0 +1,18 @@
+volatile	@volatile /'vɔlətail/
+*  tính từ
+- (hoá học) dễ bay hơi
+=volatile substance+ chất dễ bay hơi
+- không kiên định, hay thay đổi; nhẹ dạ
+=of a volatile character+ có tính nhẹ dạ
+- vui vẻ, hoạt bát
+@Chuyên ngành kinh tế
+-bất ổn định
+-dễ biến động nhanh
+@Chuyên ngành kỹ thuật
+-bay hơi
+-chất bốc
+-dễ bay hơi
+-dễ thay đổi
+-khả biến
+@Lĩnh vực: toán & tin
+-thay đổi được

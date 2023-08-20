@@ -1,3 +1,0 @@
-deflator
-	@deflator\n- xem deflate
-

@@ -1,0 +1,18 @@
+tenant	@tenant /'tenənt/
+*  danh từ
+- người thuê mướn (nhà, đất...)
+- tá điền
+- người ở, người chiếm cứ
+*  ngoại động từ
+- thuê (nhà, đất)
+- ở, ở thuê
+@Chuyên ngành kinh tế
+-mướn
+-người hưởng dụng
+-người thuê
+-người thuê (nhà, đất, ...)
+-ở (nhà) thuê
+-thuê
+@Chuyên ngành kỹ thuật
+-người thuê (nhà, đất)
+-người thuê nhà

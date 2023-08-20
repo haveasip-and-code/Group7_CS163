@@ -1,3 +1,5 @@
-authenticator
-	@authenticator\n- xem authenticate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ký hiệu xác nhận
-
+authenticator	@authenticator
+- xem authenticate
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-ký hiệu xác nhận

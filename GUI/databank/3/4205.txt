@@ -1,3 +1,8 @@
-avocation
-	@avocation /avocation/\n*  danh từ\n- công việc phụ; việc lặt vặt\n- khuynh hướng, xu hướng, chí hướng\n- sự tiêu khiển, sự giải trí\n@Chuyên ngành kinh tế\n-công việc phụ\n-sự tiêu khiển (lúc rảnh)
-
+avocation	@avocation /avocation/
+*  danh từ
+- công việc phụ; việc lặt vặt
+- khuynh hướng, xu hướng, chí hướng
+- sự tiêu khiển, sự giải trí
+@Chuyên ngành kinh tế
+-công việc phụ
+-sự tiêu khiển (lúc rảnh)

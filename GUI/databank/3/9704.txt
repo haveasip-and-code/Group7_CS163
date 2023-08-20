@@ -1,3 +1,7 @@
-cleansing
-	@Chuyên ngành kinh tế\n-sự làm sạch\n-sự sát trùng\n@Chuyên ngành kỹ thuật\n-làm sạch\n-sự làm sạch\n-sự lọc sạch
-
+cleansing	@Chuyên ngành kinh tế
+-sự làm sạch
+-sự sát trùng
+@Chuyên ngành kỹ thuật
+-làm sạch
+-sự làm sạch
+-sự lọc sạch

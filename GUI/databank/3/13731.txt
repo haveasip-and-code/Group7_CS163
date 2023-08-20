@@ -1,3 +1,9 @@
-decalcify
-	@decalcify /di:'kælsifai/\n*  ngoại động từ\n- làm mất canxi (trong xương...)\n@Chuyên ngành kỹ thuật\n-loại bỏ canxi\n-loại vôi\n@Lĩnh vực: hóa học & vật liệu\n-khử chất vôi\n-khử vôi
-
+decalcify	@decalcify /di:'kælsifai/
+*  ngoại động từ
+- làm mất canxi (trong xương...)
+@Chuyên ngành kỹ thuật
+-loại bỏ canxi
+-loại vôi
+@Lĩnh vực: hóa học & vật liệu
+-khử chất vôi
+-khử vôi

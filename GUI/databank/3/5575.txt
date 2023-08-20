@@ -1,3 +1,2 @@
-biocide
-	@Chuyên ngành kỹ thuật\n-đioxit
-
+biocide	@Chuyên ngành kỹ thuật
+-đioxit

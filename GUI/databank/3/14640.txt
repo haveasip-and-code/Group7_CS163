@@ -1,3 +1,2 @@
-deputization
-	@deputization\n- xem deputize
-
+deputization	@deputization
+- xem deputize

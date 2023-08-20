@@ -1,3 +1,4 @@
-cilice
-	@cilice /'silis/\n*  danh từ\n- vải tóc\n- áo vải tóc
-
+cilice	@cilice /'silis/
+*  danh từ
+- vải tóc
+- áo vải tóc

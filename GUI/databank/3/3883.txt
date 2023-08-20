@@ -1,3 +1,35 @@
-attenuation
-	@attenuation /ə,tenju'eiʃn/\n*  danh từ\n- sự làm mỏng đi, sự làm mảnh đi, sự làm gầy đi\n- sự làm yếu đi\n- sự làm loãng\n- (vật lý) sự tắt dần, sự suy giảm\n=attenuation constant+ rađiô hệ số suy giảm\n@Chuyên ngành kinh tế\n-làm yếu đi\n-sự giảm bớt\n-sự pha loãng\n@Chuyên ngành kỹ thuật\n-độ suy giảm\n-làm loãng\n-lượng suy giảm\n-sự giảm nhẹ\n-sự tắt\n-suy giảm\n-yếu dần\n@Lĩnh vực: xây dựng\n-độ giảm (âm)\n-sự loãng\n@Lĩnh vực: y học\n-giảm độc lực\n@Lĩnh vực: cơ khí & công trình\n-sự giảm dần\n-sự nhỏ dần\n@Lĩnh vực: điện\n-sự suy giảm\n@Lĩnh vực: đo lường & điều khiển\n-sự tắt dần\n@Lĩnh vực: toán & tin\n-sự yếu đi\n@Lĩnh vực: hóa học & vật liệu\n-tắt dần
-
+attenuation	@attenuation /ə,tenju'eiʃn/
+*  danh từ
+- sự làm mỏng đi, sự làm mảnh đi, sự làm gầy đi
+- sự làm yếu đi
+- sự làm loãng
+- (vật lý) sự tắt dần, sự suy giảm
+=attenuation constant+ rađiô hệ số suy giảm
+@Chuyên ngành kinh tế
+-làm yếu đi
+-sự giảm bớt
+-sự pha loãng
+@Chuyên ngành kỹ thuật
+-độ suy giảm
+-làm loãng
+-lượng suy giảm
+-sự giảm nhẹ
+-sự tắt
+-suy giảm
+-yếu dần
+@Lĩnh vực: xây dựng
+-độ giảm (âm)
+-sự loãng
+@Lĩnh vực: y học
+-giảm độc lực
+@Lĩnh vực: cơ khí & công trình
+-sự giảm dần
+-sự nhỏ dần
+@Lĩnh vực: điện
+-sự suy giảm
+@Lĩnh vực: đo lường & điều khiển
+-sự tắt dần
+@Lĩnh vực: toán & tin
+-sự yếu đi
+@Lĩnh vực: hóa học & vật liệu
+-tắt dần

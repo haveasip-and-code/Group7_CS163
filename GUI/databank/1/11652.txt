@@ -1,0 +1,31 @@
+controller	
+@controller /kən'troulə/ (comptroller) /kən'troulə/
+*  danh từ
+- người kiểm tra, người kiểm soát
+- quản gia, quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội...) ((cũng) comptroller)
+- (kỹ thuật) bộ điều chỉnh (nhiệt độ, áp lực, tốc độ của máy...)
+@Chuyên ngành kinh tế
+-bộ điều chỉnh
+-kiểm soát viên
+-kiểm toán viên
+-thanh tra tài chánh
+-thanh tra viên
+-trưởng ban kiểm tra
+@Chuyên ngành kỹ thuật
+-bộ điều chỉnh
+-bộ điều khiển
+-bộ khống chế
+-cảm biến
+-người điều chỉnh
+-người kiểm tra
+-mạch điều khiển
+-máy điều chỉnh
+-máy điều khiển
+-thiết bị điều chỉnh
+@Lĩnh vực: xây dựng
+-bộ điều chỉnh điện
+@Lĩnh vực: điện
+-bộ đóng ngắt
+-kiểm soát điện
+@Lĩnh vực: cơ khí & công trình
+-người khống chế

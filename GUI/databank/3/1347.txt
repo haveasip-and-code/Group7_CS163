@@ -1,3 +1,9 @@
-airline
-	@airline\n* danh từ\n- công ty hàng không\n@Chuyên ngành kinh tế\n-công ty hàng không\n-đường không\n-hệ thống không vận định kỳ\n-phi cơ bay theo tuyến định kỳ\n-tuyến đường hàng không
-
+airline	@airline
+* danh từ
+- công ty hàng không
+@Chuyên ngành kinh tế
+-công ty hàng không
+-đường không
+-hệ thống không vận định kỳ
+-phi cơ bay theo tuyến định kỳ
+-tuyến đường hàng không

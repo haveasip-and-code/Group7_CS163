@@ -1,3 +1,2 @@
-balloter
-	@balloter\n- xem ballot
-
+balloter	@balloter
+- xem ballot

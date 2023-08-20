@@ -1,3 +1,74 @@
-blank
-	@blank /blæɳk/\n*  tính từ\n- để trống, để trắng (tờ giấy...)\n=a blank page+ một trang để trắng\n=a blank cheque+ một tờ séc để trống\n=a blank space+ một quãng trống\n- trống rỗng; ngây ra, không có thần (cái nhìn...)\n=a blank existence+ một cuộc đời trống rỗng\n=a blank look+ cái nhìn ngây dại\n=his money is completely blank on the subject+ về vấn đề đó anh ta không nhớ được tí gì\n- không nạp chì (đạn); giả\n=blank cartridge+ đạn không nạp chì\n=blank window+ cửa sổ giả\n- bối rối, lúng túng\n=to look blank+ có vẻ bối rối, lúng túng\n- hoàn toàn tuyệt đối\n=blank silence+ sự yên lặng hoàn toàn\n=blank despair+ nỗi thất vọng hoàn toàn\n- không vần (thơ)\n=blank verse+ thơ không vần\n*  danh từ\n- chỗ để trống, khoảng trống, gạch để trống\n=to fill the blank+ điền vào những chỗ để trống\n- sự trống rỗng\n=his mind is a complete blank+ đầu óc anh ta trống rỗng\n- nỗi trống trải\n=what a blank such a life is!+ cuộc sống như vậy thật trống rỗng quá!\n- đạn không nạp chì ((cũng) blank cartridge)\n- vé xổ số không trúng\n=to draw a blank+ không trúng số; ((nghĩa bóng)) thất bại\n- phôi tiền (mảnh kim loại để rập thành đồng tiền)\n- (từ Mỹ,nghĩa Mỹ) mẫu in có chừa chỗ trống\n- (từ Mỹ,nghĩa Mỹ) điểm giữa bia tập bắn; đích\n=to fire points blank+ chĩa súng thẳng sát đích mà bắn, dí súng tận nơi mà bắn\n*  ngoại động từ\n- (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao) thắng tuyệt đối, thắng hoàn toàn (đội bạn)\n@Chuyên ngành kinh tế\n-chỗ để trắng\n-chỗ trống\n-chừa trống\n-giấy khống chỉ\n-khoảng trống (trong đồ hộp)\n-mẫu in chừa trống\n-phần để trống\n-phiếu chừa trống (để điền vào)\n-trắng\n@Chuyên ngành kỹ thuật\n-bán thành phẩm\n-cụt\n-để trống\n-khoảng trắng\n-khoảng trống\n-khoảng vượt\n-không tải\n-phôi\n-rỗng\n-số không\n-sự dự trữ\n-trắng\n-trống\n-trống rỗng\n-xóa\n-xóa bỏ\n-xung triệt\n@Lĩnh vực: xây dựng\n-cạn trắng\n-điểm rỗng\n-phôi tiền\n@Lĩnh vực: cơ khí & công trình\n-dập phôi cắt phôi\n-phân dao\n@Lĩnh vực: toán & tin\n-để trắng\n-phần trống
-
+blank	@blank /blæɳk/
+*  tính từ
+- để trống, để trắng (tờ giấy...)
+=a blank page+ một trang để trắng
+=a blank cheque+ một tờ séc để trống
+=a blank space+ một quãng trống
+- trống rỗng; ngây ra, không có thần (cái nhìn...)
+=a blank existence+ một cuộc đời trống rỗng
+=a blank look+ cái nhìn ngây dại
+=his money is completely blank on the subject+ về vấn đề đó anh ta không nhớ được tí gì
+- không nạp chì (đạn); giả
+=blank cartridge+ đạn không nạp chì
+=blank window+ cửa sổ giả
+- bối rối, lúng túng
+=to look blank+ có vẻ bối rối, lúng túng
+- hoàn toàn tuyệt đối
+=blank silence+ sự yên lặng hoàn toàn
+=blank despair+ nỗi thất vọng hoàn toàn
+- không vần (thơ)
+=blank verse+ thơ không vần
+*  danh từ
+- chỗ để trống, khoảng trống, gạch để trống
+=to fill the blank+ điền vào những chỗ để trống
+- sự trống rỗng
+=his mind is a complete blank+ đầu óc anh ta trống rỗng
+- nỗi trống trải
+=what a blank such a life is!+ cuộc sống như vậy thật trống rỗng quá!
+- đạn không nạp chì ((cũng) blank cartridge)
+- vé xổ số không trúng
+=to draw a blank+ không trúng số; ((nghĩa bóng)) thất bại
+- phôi tiền (mảnh kim loại để rập thành đồng tiền)
+- (từ Mỹ,nghĩa Mỹ) mẫu in có chừa chỗ trống
+- (từ Mỹ,nghĩa Mỹ) điểm giữa bia tập bắn; đích
+=to fire points blank+ chĩa súng thẳng sát đích mà bắn, dí súng tận nơi mà bắn
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao) thắng tuyệt đối, thắng hoàn toàn (đội bạn)
+@Chuyên ngành kinh tế
+-chỗ để trắng
+-chỗ trống
+-chừa trống
+-giấy khống chỉ
+-khoảng trống (trong đồ hộp)
+-mẫu in chừa trống
+-phần để trống
+-phiếu chừa trống (để điền vào)
+-trắng
+@Chuyên ngành kỹ thuật
+-bán thành phẩm
+-cụt
+-để trống
+-khoảng trắng
+-khoảng trống
+-khoảng vượt
+-không tải
+-phôi
+-rỗng
+-số không
+-sự dự trữ
+-trắng
+-trống
+-trống rỗng
+-xóa
+-xóa bỏ
+-xung triệt
+@Lĩnh vực: xây dựng
+-cạn trắng
+-điểm rỗng
+-phôi tiền
+@Lĩnh vực: cơ khí & công trình
+-dập phôi cắt phôi
+-phân dao
+@Lĩnh vực: toán & tin
+-để trắng
+-phần trống

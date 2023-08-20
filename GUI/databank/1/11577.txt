@@ -1,0 +1,13 @@
+contouring	
+@contouring
+- (Tech) định ngoại hình, định đường đồng mức
+@Chuyên ngành kỹ thuật
+-đường bao
+-đường đồng mức
+-đường khoanh
+-đường viền
+@Lĩnh vực: xây dựng
+-hình bao quanh
+@Lĩnh vực: toán & tin
+-sự tạo chu tuyến
+-sự tạo đường viền

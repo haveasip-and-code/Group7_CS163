@@ -1,3 +1,2 @@
-chancellorship
-	@chancellorship\n- xem chancellor
-
+chancellorship	@chancellorship
+- xem chancellor

@@ -1,3 +1,19 @@
-adaptor
-	@Chuyên ngành kinh tế\n-người thích hợp\n@Chuyên ngành kỹ thuật\n-bộ chỉnh lưu\n-bộ khớp nối\n-bộ phận nối\n-bộ phận tiếp hợp\n-bộ phối hợp\n-bộ thích ứng\n-bộ tiếp hợp\n-đầu nối\n-khớp nối\n-ống nối\n@Lĩnh vực: điện lạnh\n-adaptơ\n@Lĩnh vực: điện\n-bộ thích nghi\n@Lĩnh vực: ô tô\n-cây nối
-
+adaptor	@Chuyên ngành kinh tế
+-người thích hợp
+@Chuyên ngành kỹ thuật
+-bộ chỉnh lưu
+-bộ khớp nối
+-bộ phận nối
+-bộ phận tiếp hợp
+-bộ phối hợp
+-bộ thích ứng
+-bộ tiếp hợp
+-đầu nối
+-khớp nối
+-ống nối
+@Lĩnh vực: điện lạnh
+-adaptơ
+@Lĩnh vực: điện
+-bộ thích nghi
+@Lĩnh vực: ô tô
+-cây nối

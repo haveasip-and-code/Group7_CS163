@@ -1,3 +1,7 @@
-clinician
-	@clinician\n* danh từ\n- nhà lâm sàng; thầy thuốc lâm sàng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nhà lâm sàng\n-thầy lâm sàng
-
+clinician	@clinician
+* danh từ
+- nhà lâm sàng; thầy thuốc lâm sàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà lâm sàng
+-thầy lâm sàng

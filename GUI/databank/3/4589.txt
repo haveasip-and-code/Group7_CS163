@@ -1,3 +1,58 @@
-band
-	@band /bænd/\n*  danh từ\n- dải, băng, đai, nẹp\n- dải đóng gáy sách\n- (số nhiều) dải cổ áo (thầy tu, quan toà, viện sĩ hàn lâm...)\n- (vật lý) dải băng\n=frequency band+ dải tần số\n=short-waved band+ rađiô băng sóng ngắn\n*  ngoại động từ\n- buộc dải, buộc băng, đóng đai\n- làm nẹp\n- kẻ, vạch, gạch\n*  danh từ\n- đoàn, toán, lũ, bọn, bầy\n- dàn nhạc, ban nhạc\n=string band+ dàn nhạc đàn dây\n!when the band begins to play\n- khi mà tình hình trở nên nghiêm trọng\n*  ngoại động từ\n- tụ họp thành đoàn, tụ họp thành toán, tụ họp thành bầy\n@Chuyên ngành kỹ thuật\n-băng\n-băng (tần sô)\n-băng hẹp\n-băng tần\n-bó\n-dải\n-đai\n-dải tần\n-đai truyền\n-đám\n-dây curoa\n-liên kết\n-lớp kẹp\n-lớp kẹt\n-nẹp\n-nối\n-vạch\n-vành đai\n-vòng đai\n-vùng\n@Lĩnh vực: cơ khí & công trình\n-băng dải\n-dải (đúc)\n-địa tầng kẹp\n@Lĩnh vực: toán & tin\n-băng thông\n-dải phổ\n@Lĩnh vực: y học\n-băng, dảì\n@Lĩnh vực: xây dựng\n-cua roa truyền động\n-dải băng, viền trang trí\n-dải hẹp\n-thanh mỏng\n-vành đai (gia cố)\n@Lĩnh vực: vật lý\n-đám (phổ)
-
+band	@band /bænd/
+*  danh từ
+- dải, băng, đai, nẹp
+- dải đóng gáy sách
+- (số nhiều) dải cổ áo (thầy tu, quan toà, viện sĩ hàn lâm...)
+- (vật lý) dải băng
+=frequency band+ dải tần số
+=short-waved band+ rađiô băng sóng ngắn
+*  ngoại động từ
+- buộc dải, buộc băng, đóng đai
+- làm nẹp
+- kẻ, vạch, gạch
+*  danh từ
+- đoàn, toán, lũ, bọn, bầy
+- dàn nhạc, ban nhạc
+=string band+ dàn nhạc đàn dây
+!when the band begins to play
+- khi mà tình hình trở nên nghiêm trọng
+*  ngoại động từ
+- tụ họp thành đoàn, tụ họp thành toán, tụ họp thành bầy
+@Chuyên ngành kỹ thuật
+-băng
+-băng (tần sô)
+-băng hẹp
+-băng tần
+-bó
+-dải
+-đai
+-dải tần
+-đai truyền
+-đám
+-dây curoa
+-liên kết
+-lớp kẹp
+-lớp kẹt
+-nẹp
+-nối
+-vạch
+-vành đai
+-vòng đai
+-vùng
+@Lĩnh vực: cơ khí & công trình
+-băng dải
+-dải (đúc)
+-địa tầng kẹp
+@Lĩnh vực: toán & tin
+-băng thông
+-dải phổ
+@Lĩnh vực: y học
+-băng, dảì
+@Lĩnh vực: xây dựng
+-cua roa truyền động
+-dải băng, viền trang trí
+-dải hẹp
+-thanh mỏng
+-vành đai (gia cố)
+@Lĩnh vực: vật lý
+-đám (phổ)

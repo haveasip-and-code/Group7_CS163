@@ -1,3 +1,2 @@
-dancers
-	@Chuyên ngành kỹ thuật\n-diễn viên múa
-
+dancers	@Chuyên ngành kỹ thuật
+-diễn viên múa

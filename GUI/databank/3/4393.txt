@@ -1,3 +1,5 @@
-backset
-	@Chuyên ngành kỹ thuật\n-dòng chảy ngược\n-dòng chảy xoáy\n@Lĩnh vực: xây dựng\n-cỡ khóa, khoảng cách khóa cửa
-
+backset	@Chuyên ngành kỹ thuật
+-dòng chảy ngược
+-dòng chảy xoáy
+@Lĩnh vực: xây dựng
+-cỡ khóa, khoảng cách khóa cửa

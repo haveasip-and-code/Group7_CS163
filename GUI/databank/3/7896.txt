@@ -1,3 +1,2 @@
-captivator
-	@captivator\n- xem captivate
-
+captivator	@captivator
+- xem captivate

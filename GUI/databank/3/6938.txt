@@ -1,3 +1,5 @@
-browsing
-	@Chuyên ngành kỹ thuật\n-xem qua\n@Lĩnh vực: toán & tin\n-sự duyệt qua\n-sự xem qua
-
+browsing	@Chuyên ngành kỹ thuật
+-xem qua
+@Lĩnh vực: toán & tin
+-sự duyệt qua
+-sự xem qua

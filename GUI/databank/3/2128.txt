@@ -1,3 +1,43 @@
-anchor
-	@anchor /'æɳkə/\n*  danh từ\n- (hàng hải) cái neo, mỏ neo\n=to cast anchor; to drop anchor+ thả neo\n=to weigh anchor+ nhổ neo\n=to bring a ship to anchor+ dừng tàu và thả neo\n- (kỹ thuật) neo sắt, mấu neo\n- (nghĩa bóng) nguồn tin cậy, nơi nương tựa\n!to be (lie, ride) at anchor\n- bỏ neo, đậu (tàu)\n!to come to [an] anchor\n- thả neo, bỏ neo (tàu)\n!to lay (have) an anchor to windward\n- (nghĩa bóng) có những biện pháp thận trọng; cẩn tắc vô ưu\n!to swallow the anchor\n- (hàng hải),  (từ lóng) từ bỏ cuộc đời sống dưới nước\n*  ngoại động từ\n- (hàng hải) neo (tàu) lại\n- néo chặt, giữ chặt (vật gì bằng neo sắt)\n=to anchor a tent to the ground+ néo chặt cái lều xuống đất bằng neo sắt\n- (nghĩa bóng) níu chặt, bám chặt\n=to anchor one's hope in (on)...+ đặt hy vọng vào...\n*  nội động từ\n- (hàng hải) bỏ neo, thả neo\n@Chuyên ngành kinh tế\n-cái neo\n-mỏ neo\n@Chuyên ngành kỹ thuật\n-cái neo, A means by which something is held firmly in place; specific uses include: a piling or block that serves as the base of a guy wire or similar support for holding building structures in place..\n-cọc neo\n-neo\n-nút cuối\n-nút ngoại vi\n-mấu neo\n-mỏ neo\n-thả neo\n-thiết bị neo\n@Lĩnh vực: cơ khí & công trình\n-bắt chặt bằng neo\n@Lĩnh vực: xây dựng\n-neo/mỏ neo\n@Lĩnh vực: toán & tin\n-mẩu neo
-
+anchor	@anchor /'æɳkə/
+*  danh từ
+- (hàng hải) cái neo, mỏ neo
+=to cast anchor; to drop anchor+ thả neo
+=to weigh anchor+ nhổ neo
+=to bring a ship to anchor+ dừng tàu và thả neo
+- (kỹ thuật) neo sắt, mấu neo
+- (nghĩa bóng) nguồn tin cậy, nơi nương tựa
+!to be (lie, ride) at anchor
+- bỏ neo, đậu (tàu)
+!to come to [an] anchor
+- thả neo, bỏ neo (tàu)
+!to lay (have) an anchor to windward
+- (nghĩa bóng) có những biện pháp thận trọng; cẩn tắc vô ưu
+!to swallow the anchor
+- (hàng hải),  (từ lóng) từ bỏ cuộc đời sống dưới nước
+*  ngoại động từ
+- (hàng hải) neo (tàu) lại
+- néo chặt, giữ chặt (vật gì bằng neo sắt)
+=to anchor a tent to the ground+ néo chặt cái lều xuống đất bằng neo sắt
+- (nghĩa bóng) níu chặt, bám chặt
+=to anchor one's hope in (on)...+ đặt hy vọng vào...
+*  nội động từ
+- (hàng hải) bỏ neo, thả neo
+@Chuyên ngành kinh tế
+-cái neo
+-mỏ neo
+@Chuyên ngành kỹ thuật
+-cái neo, A means by which something is held firmly in place; specific uses include: a piling or block that serves as the base of a guy wire or similar support for holding building structures in place..
+-cọc neo
+-neo
+-nút cuối
+-nút ngoại vi
+-mấu neo
+-mỏ neo
+-thả neo
+-thiết bị neo
+@Lĩnh vực: cơ khí & công trình
+-bắt chặt bằng neo
+@Lĩnh vực: xây dựng
+-neo/mỏ neo
+@Lĩnh vực: toán & tin
+-mẩu neo

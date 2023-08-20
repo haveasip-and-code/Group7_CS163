@@ -1,3 +1,2 @@
-craftsmanlike
-	@craftsmanlike\n- xem craftsman
-
+craftsmanlike	@craftsmanlike
+- xem craftsman

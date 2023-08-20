@@ -1,3 +1,11 @@
-ante
-	@ante /'ænti/\n*  danh từ\n- (đánh bài) số tiền tổ trước (đánh xì)\n*  ngoại động từ\n- (đánh bài) đặt tiền tổ trước (đánh xì)\n- đánh cược, đánh cuộc\n- thanh toán (nợ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mở (bài)\n-mở bài
-
+ante	@ante /'ænti/
+*  danh từ
+- (đánh bài) số tiền tổ trước (đánh xì)
+*  ngoại động từ
+- (đánh bài) đặt tiền tổ trước (đánh xì)
+- đánh cược, đánh cuộc
+- thanh toán (nợ)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-mở (bài)
+-mở bài

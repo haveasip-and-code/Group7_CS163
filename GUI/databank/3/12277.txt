@@ -1,3 +1,51 @@
-couple
-	@couple /'kʌpl/\n*  danh từ\n- đôi, cặp\n=a couple of girls+ đôi bạn gái\n- đôi vợ chồng; cặp nam nữ (đã lấy nhau hoặc đã đính hôn); cặp nam nữ nhảy quốc tế\n=a married couple+ đôi vợ chồng (đã cưới)\n=a courting couple+ đôi vợ chồng chưa cưới, đôi trai giá đang tìm hiểu\n- dây xích cặp (buộc liền một cặp chó săn)\n- cặp chó săn\n- (cơ khí) ngẫu lực\n- (điện học) cặp\n=thermoelectric couple+ cặp nhiệt điện\n!to hunt (go, run) in couples\n- không lúc nào rời nhau, lúc nào cũng cặp kè bên nhau\n*  ngoại động từ\n- buộc thành cặp, ghép thành cặp, kết đôi\n- nối hợp lại, ghép lại\n=to couple two railway carriages+ nối hai toa xe lửa\n- cho cưới, cho lấy nhau\n- gắn liền, liên tưởng\n=to couple the name of Lenin with the October Revolution+ gắn liền Le-nin với cuộc cách mạng tháng mười\n- (điện học) mắc, nối\n*  nội động từ\n- lấy nhau, cưới nhau (người)\n- giao cấu (loài vật)\n@Chuyên ngành kỹ thuật\n-cặp\n-cặp nhiệt điện\n-đôi\n-ghép\n-ghép đôi\n-ghép đôi (hai trục)\n-ghép lại\n-kép\n-làm thành đôi\n-ngẫu lực\n-nhiệt ngẫu\n-nối\n-mắc\n-móc\n-móc vào\n-phản tác dụng\n@Lĩnh vực: điện\n-cặp (pin)\n@Lĩnh vực: điện lạnh\n-ghép mạch\n@Lĩnh vực: toán & tin\n-một cặp\n-một đôi\n@Lĩnh vực: cơ khí & công trình\n-tác dụng đối
-
+couple	@couple /'kʌpl/
+*  danh từ
+- đôi, cặp
+=a couple of girls+ đôi bạn gái
+- đôi vợ chồng; cặp nam nữ (đã lấy nhau hoặc đã đính hôn); cặp nam nữ nhảy quốc tế
+=a married couple+ đôi vợ chồng (đã cưới)
+=a courting couple+ đôi vợ chồng chưa cưới, đôi trai giá đang tìm hiểu
+- dây xích cặp (buộc liền một cặp chó săn)
+- cặp chó săn
+- (cơ khí) ngẫu lực
+- (điện học) cặp
+=thermoelectric couple+ cặp nhiệt điện
+!to hunt (go, run) in couples
+- không lúc nào rời nhau, lúc nào cũng cặp kè bên nhau
+*  ngoại động từ
+- buộc thành cặp, ghép thành cặp, kết đôi
+- nối hợp lại, ghép lại
+=to couple two railway carriages+ nối hai toa xe lửa
+- cho cưới, cho lấy nhau
+- gắn liền, liên tưởng
+=to couple the name of Lenin with the October Revolution+ gắn liền Le-nin với cuộc cách mạng tháng mười
+- (điện học) mắc, nối
+*  nội động từ
+- lấy nhau, cưới nhau (người)
+- giao cấu (loài vật)
+@Chuyên ngành kỹ thuật
+-cặp
+-cặp nhiệt điện
+-đôi
+-ghép
+-ghép đôi
+-ghép đôi (hai trục)
+-ghép lại
+-kép
+-làm thành đôi
+-ngẫu lực
+-nhiệt ngẫu
+-nối
+-mắc
+-móc
+-móc vào
+-phản tác dụng
+@Lĩnh vực: điện
+-cặp (pin)
+@Lĩnh vực: điện lạnh
+-ghép mạch
+@Lĩnh vực: toán & tin
+-một cặp
+-một đôi
+@Lĩnh vực: cơ khí & công trình
+-tác dụng đối

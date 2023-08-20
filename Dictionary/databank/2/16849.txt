@@ -1,3 +1,0 @@
-dropouts
-	@dropouts\n- những ký tự bị bỏ rơi
-

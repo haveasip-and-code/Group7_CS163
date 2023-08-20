@@ -1,3 +1,2 @@
-autogenously
-	@autogenously\n- xem autogenous
-
+autogenously	@autogenously
+- xem autogenous

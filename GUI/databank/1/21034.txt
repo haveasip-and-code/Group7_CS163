@@ -1,0 +1,49 @@
+film	
+@film /film/
+*  danh từ
+- màng; mảng thuốc (trên phim ảnh, trên giấy ảnh...)
+- phim, phim ảnh, phim xi nê
+- (the films) buổi chiếu bóng
+- vảy cá (mắt)
+- màn sương mỏng
+- sợi nhỏ, tơ nhỏ (của mạng nhện)
+*  ngoại động từ
+- phủ một lớp màng, che bằng một lớp màng
+- che đi, làm mờ đi
+- quay thành phim=to film one of Shakespeare's plays
++ quay một trong những vở kịch của Sếch
+-xpia thành phim
+*  nội động từ
+- bị che đi, bị mờ đi
+- quay thành phim=this play films well
++ kịch này quay thành phim rất hay
+@Chuyên ngành kinh tế
+-lớp mỏng
+-màng
+-vỏ
+@Chuyên ngành kỹ thuật
+-lớp
+-lớp mỏng
+-lớp phủ
+-màng
+-màng bôi trơn
+-màng mỏng
+-phim
+-phim ảnh
+@Lĩnh vực: y học
+-màng phủ
+@Lĩnh vực: điện lạnh
+-phim (ảnh)
+@Chuyên ngành kỹ thuật
+-lớp
+-lớp mỏng
+-lớp phủ
+-màng
+-màng bôi trơn
+-màng mỏng
+-phim
+-phim ảnh
+@Lĩnh vực: y học
+-màng phủ
+@Lĩnh vực: điện lạnh
+-phim (ảnh)

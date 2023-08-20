@@ -1,3 +1,34 @@
-cancel
-	@cancel /'kænsəl/\n*  danh từ\n- sự xoá bỏ, sự huỷ bỏ, sự bãi bỏ\n- lệnh ngược lại, phản lệnh\n- (ngành in) tờ in hỏng bỏ đi\n- (số nhiều) kim bấm vé (xe lửa...) ((cũng) a pair of cancels)\n*  ngoại động từ\n- bỏ, xoá bỏ, huỷ bỏ, bãi bỏ (lệnh, khế ước, hợp đồng...)\n=to cancel an order for the goods+ bỏ đơn đặt hàng\n=to cancel a reservation+ bỏ chỗ ngồi (ở máy bay...) đã dành trước; bỏ phòng (ở khách sạn...) đã dành trước\n- đóng dấu xoá bỏ\n=to cancel a stamp+ đóng dấu (xoá bỏ) lên con tem\n- thanh toán, trả hết (nợ)\n- (toán học) khử\n@Chuyên ngành kinh tế\n-hủy bỏ\n-thủ tiêu\n-xóa bỏ\n@Chuyên ngành kỹ thuật\n-bỏ\n-cắt\n-gạch bỏ\n-hủy\n-hủy bỏ\n-khử\n-loại bỏ\n-sự hủy\n-sự hủy bỏ\n-thanh toán (nợ)\n-thối\n-xóa bỏ\n@Lĩnh vực: toán & tin\n-giảm ước (phân số)\n-giản ước (phân số)
-
+cancel	@cancel /'kænsəl/
+*  danh từ
+- sự xoá bỏ, sự huỷ bỏ, sự bãi bỏ
+- lệnh ngược lại, phản lệnh
+- (ngành in) tờ in hỏng bỏ đi
+- (số nhiều) kim bấm vé (xe lửa...) ((cũng) a pair of cancels)
+*  ngoại động từ
+- bỏ, xoá bỏ, huỷ bỏ, bãi bỏ (lệnh, khế ước, hợp đồng...)
+=to cancel an order for the goods+ bỏ đơn đặt hàng
+=to cancel a reservation+ bỏ chỗ ngồi (ở máy bay...) đã dành trước; bỏ phòng (ở khách sạn...) đã dành trước
+- đóng dấu xoá bỏ
+=to cancel a stamp+ đóng dấu (xoá bỏ) lên con tem
+- thanh toán, trả hết (nợ)
+- (toán học) khử
+@Chuyên ngành kinh tế
+-hủy bỏ
+-thủ tiêu
+-xóa bỏ
+@Chuyên ngành kỹ thuật
+-bỏ
+-cắt
+-gạch bỏ
+-hủy
+-hủy bỏ
+-khử
+-loại bỏ
+-sự hủy
+-sự hủy bỏ
+-thanh toán (nợ)
+-thối
+-xóa bỏ
+@Lĩnh vực: toán & tin
+-giảm ước (phân số)
+-giản ước (phân số)

@@ -1,3 +1,2 @@
-celebrator
-	@celebrator\n- xem celebrate
-
+celebrator	@celebrator
+- xem celebrate

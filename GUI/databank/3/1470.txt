@@ -1,3 +1,2 @@
-algorithm
-	@algorithm\n- (Tech) thuật toán, giải thuật
-
+algorithm	@algorithm
+- (Tech) thuật toán, giải thuật

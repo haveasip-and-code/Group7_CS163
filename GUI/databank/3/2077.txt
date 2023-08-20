@@ -1,3 +1,11 @@
-analyze
-	@analyze /'ænəlaiz/\n*  ngoại động từ\n- phân tích\n=to analyse a sentence grammatically+ phân tích ngữ pháp một câu văn\n=to analyse water+ phân tích nước\n=go analyse an issue+ phân tích một vấn đề\n- (toán học) giải tích\n@Chuyên ngành kinh tế\n-phân tích\n@Chuyên ngành kỹ thuật\n-phân tích
-
+analyze	@analyze /'ænəlaiz/
+*  ngoại động từ
+- phân tích
+=to analyse a sentence grammatically+ phân tích ngữ pháp một câu văn
+=to analyse water+ phân tích nước
+=go analyse an issue+ phân tích một vấn đề
+- (toán học) giải tích
+@Chuyên ngành kinh tế
+-phân tích
+@Chuyên ngành kỹ thuật
+-phân tích

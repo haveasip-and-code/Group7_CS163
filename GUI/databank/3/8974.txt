@@ -1,3 +1,11 @@
-chert
-	@chert\n* danh từ\n- đá phiến xilic\n@Chuyên ngành kỹ thuật\n-đá phiến silic\n@Lĩnh vực: xây dựng\n-đá phiến xillic\n-phiến silic\n@Lĩnh vực: hóa học & vật liệu\n-đá sừng (địa chất)\n-silica có trong đá trầm tích
-
+chert	@chert
+* danh từ
+- đá phiến xilic
+@Chuyên ngành kỹ thuật
+-đá phiến silic
+@Lĩnh vực: xây dựng
+-đá phiến xillic
+-phiến silic
+@Lĩnh vực: hóa học & vật liệu
+-đá sừng (địa chất)
+-silica có trong đá trầm tích

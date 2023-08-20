@@ -1,3 +1,5 @@
-depolymerization
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-khử trùng hợp\n@Lĩnh vực: xây dựng\n-sự khử polyme
-
+depolymerization	@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-khử trùng hợp
+@Lĩnh vực: xây dựng
+-sự khử polyme

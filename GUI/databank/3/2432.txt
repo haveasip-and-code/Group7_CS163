@@ -1,3 +1,8 @@
-anthelmintic
-	@anthelmintic /,ænθel'mintik/\n*  tính từ\n- trừ giun, trừ sán\n*  danh từ\n- (y học) thuốc giun, thuốc sâu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chống giun sán
-
+anthelmintic	@anthelmintic /,ænθel'mintik/
+*  tính từ
+- trừ giun, trừ sán
+*  danh từ
+- (y học) thuốc giun, thuốc sâu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chống giun sán

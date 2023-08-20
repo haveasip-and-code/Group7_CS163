@@ -1,3 +1,3 @@
-anecdote
-	@anecdote /'ænikdout/\n*  danh từ\n- chuyện vặt, giai thoại
-
+anecdote	@anecdote /'ænikdout/
+*  danh từ
+- chuyện vặt, giai thoại

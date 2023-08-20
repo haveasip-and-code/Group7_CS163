@@ -1,3 +1,2 @@
-braider
-	@braider\n- xem braid
-
+braider	@braider
+- xem braid

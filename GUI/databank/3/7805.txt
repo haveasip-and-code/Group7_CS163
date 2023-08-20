@@ -1,3 +1,2 @@
-cantonal
-	@cantonal\n- xem canton
-
+cantonal	@cantonal
+- xem canton

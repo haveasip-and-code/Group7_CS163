@@ -1,3 +1,0 @@
-setline
-	@setline\n* danh từ\n- dây câu giăng
-

@@ -1,0 +1,23 @@
+variation	@variation
+- sự biến thiên, biến phân
+- v. of a function biến phân của hàm
+- v. of parameters biến thiên tham số
+- v. of sign in a polynomial sự biến dấu trong một đa thức
+- admissible v. biến phân chấp nhận được
+- batch v. biến phân trong nhóm
+- bounded v. biến phân bị chặn
+- combined v. biến phân liên kết
+- direct v. biến thiên trực tiếp
+- first v. biến phân thứ nhất
+- free v. biến phân tự do
+- inverse v. biến phân ngược
+- limited v. biến phân [bị cặn, giới nội]
+- negative v. biến phân âm
+- one-sided v. biến phân một phía
+- partial v. biến phân riêng
+- positive definite second v. biến thiên thứ hai xác định dương
+- second v. biến phân thứ hai
+- strong v. biến phân mạch
+- third v. biến phân thứ ba
+- total v. of a function biến phân toàn phần của một hàm
+- weak v. biến phân yếu

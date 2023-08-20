@@ -1,3 +1,23 @@
-bureau
-	@bureau /bjuə'rou/\n*  (bất qui tắc) danh từ,  số nhiều bureaux,  bureaus\n- cục, nha, vụ\n=the Bureau of Information+ cục thông tin (từ Mỹ,nghĩa Mỹ)\n=the Federal Bureau of Investigation+ cục điều tra liên bang (Mỹ)\n=the Bureau of Personnel+ vụ tổ chức\n- bàn làm việc, bàn giấy\n- tủ có ngăn kéo, tủ com mốt (có gương)\n@Chuyên ngành kinh tế\n-cơ quan\n-cục\n-cục vụ\n-văn phòng\n@Chuyên ngành kỹ thuật\n-ban\n-bàn làm việc\n-cục\n-phòng\n-văn phòng\n@Lĩnh vực: xây dựng\n-bàn giấy\n@Lĩnh vực: cơ khí & công trình\n-viện
-
+bureau	@bureau /bjuə'rou/
+*  (bất qui tắc) danh từ,  số nhiều bureaux,  bureaus
+- cục, nha, vụ
+=the Bureau of Information+ cục thông tin (từ Mỹ,nghĩa Mỹ)
+=the Federal Bureau of Investigation+ cục điều tra liên bang (Mỹ)
+=the Bureau of Personnel+ vụ tổ chức
+- bàn làm việc, bàn giấy
+- tủ có ngăn kéo, tủ com mốt (có gương)
+@Chuyên ngành kinh tế
+-cơ quan
+-cục
+-cục vụ
+-văn phòng
+@Chuyên ngành kỹ thuật
+-ban
+-bàn làm việc
+-cục
+-phòng
+-văn phòng
+@Lĩnh vực: xây dựng
+-bàn giấy
+@Lĩnh vực: cơ khí & công trình
+-viện

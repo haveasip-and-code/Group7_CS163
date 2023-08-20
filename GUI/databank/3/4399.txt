@@ -1,3 +1,12 @@
-backspace
-	@backspace\n* động từ\n- chuyển cần máy chữ ngược lại một hoặc nhiều khoảng, bằng cách bấm vào một phím đặc biệt dành cho việc này\n- phím lùi, lùi bước\n@Chuyên ngành kinh tế\n-phím xóa lùi (bên trái)\n@Chuyên ngành kỹ thuật\n-lùi bước\n-phím lùi\n-sự quay ngược\n@Lĩnh vực: toán & tin\n-sự dịch lùi
-
+backspace	@backspace
+* động từ
+- chuyển cần máy chữ ngược lại một hoặc nhiều khoảng, bằng cách bấm vào một phím đặc biệt dành cho việc này
+- phím lùi, lùi bước
+@Chuyên ngành kinh tế
+-phím xóa lùi (bên trái)
+@Chuyên ngành kỹ thuật
+-lùi bước
+-phím lùi
+-sự quay ngược
+@Lĩnh vực: toán & tin
+-sự dịch lùi

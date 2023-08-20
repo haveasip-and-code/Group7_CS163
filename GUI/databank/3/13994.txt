@@ -1,3 +1,13 @@
-defaulter
-	@defaulter /di'fɔ:ltə/\n*  danh từ\n- (pháp lý) người vắng mặt (không ra hầu toà)\n- (pháp lý) người không trả nợ được, người vỡ nợ; người không trả nợ đúng kỳ hạn\n- người tham ô, người thụt két, người biển thủ\n- (quân sự) lính phạm lỗi bị thi hành kỷ luật\n=defaulter sheet+ danh sách những người phạm lỗi bị thi hành kỷ luật\n- (thể dục,thể thao) người bỏ cuộc\n@Chuyên ngành kinh tế\n-con nợ vi ước\n-người không trả được nợ\n-người vi ước\n-người vỡ nợ
-
+defaulter	@defaulter /di'fɔ:ltə/
+*  danh từ
+- (pháp lý) người vắng mặt (không ra hầu toà)
+- (pháp lý) người không trả nợ được, người vỡ nợ; người không trả nợ đúng kỳ hạn
+- người tham ô, người thụt két, người biển thủ
+- (quân sự) lính phạm lỗi bị thi hành kỷ luật
+=defaulter sheet+ danh sách những người phạm lỗi bị thi hành kỷ luật
+- (thể dục,thể thao) người bỏ cuộc
+@Chuyên ngành kinh tế
+-con nợ vi ước
+-người không trả được nợ
+-người vi ước
+-người vỡ nợ

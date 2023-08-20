@@ -1,3 +1,8 @@
-cryptology
-	@cryptology\n* danh từ\n- khoa mật mã\n@Chuyên ngành kỹ thuật\n-mật mã\n@Lĩnh vực: toán & tin\n-ngành mật mã\n-mật mã bọc
-
+cryptology	@cryptology
+* danh từ
+- khoa mật mã
+@Chuyên ngành kỹ thuật
+-mật mã
+@Lĩnh vực: toán & tin
+-ngành mật mã
+-mật mã bọc

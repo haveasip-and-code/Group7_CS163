@@ -1,3 +1,2 @@
-corollate
-	@corollate\n- xem corolla
-
+corollate	@corollate
+- xem corolla

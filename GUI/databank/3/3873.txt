@@ -1,3 +1,2 @@
-attended
-	@attended\n- (Tech) station đài/trạm có người (quản lý)
-
+attended	@attended
+- (Tech) station đài/trạm có người (quản lý)

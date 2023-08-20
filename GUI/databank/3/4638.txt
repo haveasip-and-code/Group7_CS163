@@ -1,3 +1,2 @@
-bankerly
-	@bankerly\n- xem banker
-
+bankerly	@bankerly
+- xem banker

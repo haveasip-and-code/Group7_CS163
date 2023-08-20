@@ -1,3 +1,6 @@
-bellying
-	@Chuyên ngành kỹ thuật\n-sự lồi\n-sự phình\n-sự trương nở\n@Lĩnh vực: cơ khí & công trình\n-sự vồng
-
+bellying	@Chuyên ngành kỹ thuật
+-sự lồi
+-sự phình
+-sự trương nở
+@Lĩnh vực: cơ khí & công trình
+-sự vồng

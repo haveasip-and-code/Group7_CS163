@@ -1,3 +1,4 @@
-bowling
-	@bowling\n* danh từ\n- trò chơi lăn bóng gỗ\n- động tác phát bóng (môn cricket)
-
+bowling	@bowling
+* danh từ
+- trò chơi lăn bóng gỗ
+- động tác phát bóng (môn cricket)

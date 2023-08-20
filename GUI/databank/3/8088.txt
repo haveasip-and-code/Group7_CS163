@@ -1,3 +1,2 @@
-carpellary
-	@carpellary\n- xem carpel
-
+carpellary	@carpellary
+- xem carpel

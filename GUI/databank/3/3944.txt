@@ -1,3 +1,4 @@
-auditing
-	@auditing\n- (Tech) kiểm tra quản lý\n@Chuyên ngành kinh tế\n-kiểm toán
-
+auditing	@auditing
+- (Tech) kiểm tra quản lý
+@Chuyên ngành kinh tế
+-kiểm toán

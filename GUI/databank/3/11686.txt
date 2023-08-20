@@ -1,3 +1,2 @@
-convenor
-	@convenor\n- xem convene
-
+convenor	@convenor
+- xem convene

@@ -1,3 +1,4 @@
-degreaser
-	@degreaser\n- xem degrease\n@Chuyên ngành kỹ thuật\n-máy tẩy nhờn
-
+degreaser	@degreaser
+- xem degrease
+@Chuyên ngành kỹ thuật
+-máy tẩy nhờn

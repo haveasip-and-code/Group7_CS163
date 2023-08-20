@@ -1,3 +1,4 @@
-decryption
-	@decryption\n- (Tech) giải mã, mở khóa\n@Chuyên ngành kỹ thuật\n-sự giải mã
-
+decryption	@decryption
+- (Tech) giải mã, mở khóa
+@Chuyên ngành kỹ thuật
+-sự giải mã

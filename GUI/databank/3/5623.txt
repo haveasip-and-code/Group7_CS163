@@ -1,3 +1,2 @@
-biopsic
-	@biopsic\n- xem biopsy
-
+biopsic	@biopsic
+- xem biopsy

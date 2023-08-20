@@ -1,3 +1,8 @@
-cranking
-	@Chuyên ngành kỹ thuật\n-quay tay quay\n-sự quay\n-tay quay\n@Lĩnh vực: hóa học & vật liệu\n-quay khởi động\n@Lĩnh vực: cơ khí & công trình\n-sự quay tay quay
-
+cranking	@Chuyên ngành kỹ thuật
+-quay tay quay
+-sự quay
+-tay quay
+@Lĩnh vực: hóa học & vật liệu
+-quay khởi động
+@Lĩnh vực: cơ khí & công trình
+-sự quay tay quay

@@ -1,3 +1,2 @@
-deposit
-	@deposit\n- (toán kinh tế) gửi tiền (vào ngân hàng) // món tiền gửi
-
+deposit	@deposit
+- (toán kinh tế) gửi tiền (vào ngân hàng) // món tiền gửi

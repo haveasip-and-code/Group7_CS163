@@ -1,3 +1,19 @@
-blur
-	@blur /blə:/\n*  danh từ\n- cảnh mờ, dáng mập mờ; trạng thái mập mờ\n- vết mực, vết ố\n- (nghĩa bóng) bết nhơ\n!to cast a blur on someone's name\n- làm ô danh ai\n*  ngoại động từ\n- làm mờ đi, che mờ\n!mist blur red view\n- sương mù làm cảnh vật mờ đi\n- làm bẩn, bôi bẩn; làm nhoè ((nghĩa đen),  (nghĩa bóng))\n@Chuyên ngành kỹ thuật\n-không rõ ràng\n-mờ\n@Lĩnh vực: điện lạnh\n-độ nhòe\n@Lĩnh vực: xây dựng\n-làm nhòa
-
+blur	@blur /blə:/
+*  danh từ
+- cảnh mờ, dáng mập mờ; trạng thái mập mờ
+- vết mực, vết ố
+- (nghĩa bóng) bết nhơ
+!to cast a blur on someone's name
+- làm ô danh ai
+*  ngoại động từ
+- làm mờ đi, che mờ
+!mist blur red view
+- sương mù làm cảnh vật mờ đi
+- làm bẩn, bôi bẩn; làm nhoè ((nghĩa đen),  (nghĩa bóng))
+@Chuyên ngành kỹ thuật
+-không rõ ràng
+-mờ
+@Lĩnh vực: điện lạnh
+-độ nhòe
+@Lĩnh vực: xây dựng
+-làm nhòa

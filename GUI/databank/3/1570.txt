@@ -1,3 +1,4 @@
-alleyway
-	@alleyway\n- xem alley\n@Chuyên ngành kinh tế\n-đường đi
-
+alleyway	@alleyway
+- xem alley
+@Chuyên ngành kinh tế
+-đường đi

@@ -1,0 +1,20 @@
+matching	@Chuyên ngành kinh tế
+-bù trừ
+@Chuyên ngành kỹ thuật
+-dung hợp
+-so khớp
+-sự ghép đôi
+-sự ghép mộng
+-sự thích ứng
+-sự trùng hợp
+@Lĩnh vực: điện
+-sự điều hợp
+-tương hợp
+@Lĩnh vực: xây dựng
+-sự dung hợp
+@Lĩnh vực: điện lạnh
+-sự làm (khớp)
+@Lĩnh vực: toán & tin
+-sự so khớp
+@Lĩnh vực: cơ khí & công trình
+-sự trùng khít

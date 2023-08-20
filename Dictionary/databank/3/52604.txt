@@ -1,3 +1,0 @@
-spool
-	@spool /spu:l/\n*  danh từ\n- ống chỉ, ống cuộn (chỉ, phim...), cái vòng (câu quăng)\n*  ngoại động từ\n- cuộn (chỉ...) vào ống\n@Chuyên ngành kỹ thuật\n-cuộn băng\n-cuộn dây\n-lõi quấn\n-ống cuộn\n-ống cuốn dây\n-ống cuộn hình vòng\n-quấn\n-quấn lại\n-trục cuộn\n@Lĩnh vực: cơ khí & công trình\n-cuộn vào ống\n-ống dây quấn\n-van trượt kiểu pittông (trong thiết bị bôi trơn)\n@Lĩnh vực: toán & tin\n-nơi chứa\n-vùng lưu trữ tạm (chờ xử lý)\n@Lĩnh vực: hóa học & vật liệu\n-trục quấn
-

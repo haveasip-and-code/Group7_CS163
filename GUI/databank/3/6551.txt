@@ -1,3 +1,56 @@
-bracket
-	@bracket /'brækit/\n*  danh từ\n- (kiến trúc) côngxon, rầm chia\n- dấu ngoặc đơn; dấu móc; dấu ngoặc ôm\n=to put between brackets+ để trong ngoặc đơn; để trong móc; để trong dấu ngoặc ôm\n- (quân sự) giá đỡ nòng (súng đại bác)\n- (quân sự) khoảng cách giữa hai phát đạn trên và dưới (mục tiêu) để quan trắc\n!income bracket\n- (từ Mỹ,nghĩa Mỹ) nhóm người đóng thuế xếp theo thu hoạch\n*  ngoại động từ\n- gộp lại trong dấu ngoặc; đặt trong dấu ngoặc\n- xếp (hai hay nhiều người) đồng hạng\n=A and B were bracketed for the fierst prize+ A và B đều được xếp vào giải nhất\n- (quân sự) bắn hai phát đạn trên và dưới (mục tiêu) để quan trắc\n@Chuyên ngành kinh tế\n-dấu ngoặc (đơn)\n@Chuyên ngành kỹ thuật\n-bệ\n-chỗ tựa\n-côngxon\n-dầm chìa\n-dầm công xôn\n-dầm hẫng\n-dấu ngoặc\n-dấu ngoặc vuông\n-đế\n-giá\n-giá chìa\n-giá công xôn\n-giá đỡ\n-giá treo\n-giàn đỡ\n-gờ đỡ\n-gối tựa\n-ke công xôn góc\n-ke nẹp góc\n-rầm hẫng\n-tấm nẹp\n-tấm ngăn\n-thanh nẹp\n@Lĩnh vực: điện\n-đai kẹp\n-giá công xon\n-giá đỡ (đèn điện)\n-rầm chia\n@Lĩnh vực: xây dựng\n-dầm chìa giá\n-dầm hẫng giá\n-mạch chống\n@Lĩnh vực: giao thông & vận tải\n-giá đỡ (đóng tàu)\n@Lĩnh vực: cơ khí & công trình\n-giá giữ\n-ổ đỡ côngxon\n@Lĩnh vực: hóa học & vật liệu\n-khung giá đỡ
-
+bracket	@bracket /'brækit/
+*  danh từ
+- (kiến trúc) côngxon, rầm chia
+- dấu ngoặc đơn; dấu móc; dấu ngoặc ôm
+=to put between brackets+ để trong ngoặc đơn; để trong móc; để trong dấu ngoặc ôm
+- (quân sự) giá đỡ nòng (súng đại bác)
+- (quân sự) khoảng cách giữa hai phát đạn trên và dưới (mục tiêu) để quan trắc
+!income bracket
+- (từ Mỹ,nghĩa Mỹ) nhóm người đóng thuế xếp theo thu hoạch
+*  ngoại động từ
+- gộp lại trong dấu ngoặc; đặt trong dấu ngoặc
+- xếp (hai hay nhiều người) đồng hạng
+=A and B were bracketed for the fierst prize+ A và B đều được xếp vào giải nhất
+- (quân sự) bắn hai phát đạn trên và dưới (mục tiêu) để quan trắc
+@Chuyên ngành kinh tế
+-dấu ngoặc (đơn)
+@Chuyên ngành kỹ thuật
+-bệ
+-chỗ tựa
+-côngxon
+-dầm chìa
+-dầm công xôn
+-dầm hẫng
+-dấu ngoặc
+-dấu ngoặc vuông
+-đế
+-giá
+-giá chìa
+-giá công xôn
+-giá đỡ
+-giá treo
+-giàn đỡ
+-gờ đỡ
+-gối tựa
+-ke công xôn góc
+-ke nẹp góc
+-rầm hẫng
+-tấm nẹp
+-tấm ngăn
+-thanh nẹp
+@Lĩnh vực: điện
+-đai kẹp
+-giá công xon
+-giá đỡ (đèn điện)
+-rầm chia
+@Lĩnh vực: xây dựng
+-dầm chìa giá
+-dầm hẫng giá
+-mạch chống
+@Lĩnh vực: giao thông & vận tải
+-giá đỡ (đóng tàu)
+@Lĩnh vực: cơ khí & công trình
+-giá giữ
+-ổ đỡ côngxon
+@Lĩnh vực: hóa học & vật liệu
+-khung giá đỡ

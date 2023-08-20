@@ -1,3 +1,14 @@
-casualty
-	@casualty /'kæʤjuəlti/\n*  danh từ\n- tai hoạ, tai biến; tai nạn\n- (số nhiều) (quân sự) số thương vong, số người chết, số người bị thương, số người mất tích\n=the enemy suffered heavy casualties+ quân địch bị thương vong nặng nề\n- người chết, người bị thương, nạn nhân (chiến tranh, tai nạn...)\n@Chuyên ngành kinh tế\n-tai biến\n-tai nạn\n@Chuyên ngành kỹ thuật\n-sự hư hỏng\n-tai nạn\n@Lĩnh vực: hóa học & vật liệu\n-trường hợp bất ngờ
-
+casualty	@casualty /'kæʤjuəlti/
+*  danh từ
+- tai hoạ, tai biến; tai nạn
+- (số nhiều) (quân sự) số thương vong, số người chết, số người bị thương, số người mất tích
+=the enemy suffered heavy casualties+ quân địch bị thương vong nặng nề
+- người chết, người bị thương, nạn nhân (chiến tranh, tai nạn...)
+@Chuyên ngành kinh tế
+-tai biến
+-tai nạn
+@Chuyên ngành kỹ thuật
+-sự hư hỏng
+-tai nạn
+@Lĩnh vực: hóa học & vật liệu
+-trường hợp bất ngờ

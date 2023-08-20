@@ -1,3 +1,2 @@
-account
-	@account\n- kể đến, tính đến
-
+account	@account
+- kể đến, tính đến

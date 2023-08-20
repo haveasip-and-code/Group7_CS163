@@ -1,3 +1,2 @@
-amnestic
-	@amnestic\n- xem amnesia
-
+amnestic	@amnestic
+- xem amnesia

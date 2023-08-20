@@ -1,3 +1,11 @@
-clerestory
-	@clerestory\n* danh từ\n- khoảng tường có một hàng cửa sổ dọc theo\n@Chuyên ngành kỹ thuật\n-nóc vòm\n@Lĩnh vực: xây dựng\n-cưa mái\n-cửa sáng nóc nhà\n-cưa trời\n@Lĩnh vực: giao thông & vận tải\n-cửa sổ nóc vòm
-
+clerestory	@clerestory
+* danh từ
+- khoảng tường có một hàng cửa sổ dọc theo
+@Chuyên ngành kỹ thuật
+-nóc vòm
+@Lĩnh vực: xây dựng
+-cưa mái
+-cửa sáng nóc nhà
+-cưa trời
+@Lĩnh vực: giao thông & vận tải
+-cửa sổ nóc vòm

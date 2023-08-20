@@ -1,3 +1,7 @@
-bisque
-	@bisque /bisk/\n*  danh từ\n- sứ không tráng men\n- (như) bisk\n@Chuyên ngành kinh tế\n-súp thịt chim\n-xúp cua
-
+bisque	@bisque /bisk/
+*  danh từ
+- sứ không tráng men
+- (như) bisk
+@Chuyên ngành kinh tế
+-súp thịt chim
+-xúp cua

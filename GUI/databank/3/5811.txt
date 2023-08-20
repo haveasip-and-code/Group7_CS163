@@ -1,3 +1,8 @@
-blanching
-	@Chuyên ngành kinh tế\n-phương pháp chần\n-sự chần\n-sự làm trắng\n@Chuyên ngành kỹ thuật\n-sự tẩy ocxyt\n@Lĩnh vực: điện lạnh\n-sự tẩy trắng
-
+blanching	@Chuyên ngành kinh tế
+-phương pháp chần
+-sự chần
+-sự làm trắng
+@Chuyên ngành kỹ thuật
+-sự tẩy ocxyt
+@Lĩnh vực: điện lạnh
+-sự tẩy trắng

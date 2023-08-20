@@ -1,3 +1,95 @@
-check
-	@check /tʃek/\n*  danh từ\n- (từ Mỹ,nghĩa Mỹ) (như) cheque\n*  danh từ\n- sự cản trở, sự ngăn cản; sự kìm hãm; sự hạn chế; sự chặn lại; người chống cự, người ngăn cản, vật cản\n=to put a check on something+ cản trở việc gì; kìm hãm việc gì; hạn chế việc gì\n=to keep a check on; to keep in check+ hạn chế; kìm hãm\n=to hold someone in check+ cản ai tiến lên, chặn đứng lại\n- (săn bắn) sự mất vết, sự mất hơi\n=to come to a check+ mất vết, mất hơi\n- sự dừng lại, sự ngừng lại\n- (quân sự) sự thua nhẹ\n=to meet with a check+ bị thua nhẹ\n- sự kiểm tra, sự kiểm soát, sự kiểm lại; dấu ghi đã kiểm tra (đã kiểm soát)\n- hoá đơn, giấy ghi tiền (khách hàng phải trả ở khách sạn)\n- (từ Mỹ,nghĩa Mỹ),  (đánh bài) thẻ\n- kiểu kẻ ô vuông, kiểu ca rô; vải kẻ ô vuông, vải ca rô\n- (đánh cờ) sự chiếu tướng\n=check!+ chiếu tướng!\n!to pass in (cash, hand in) one's check\n- chết\n*  ngoại động từ\n- cản, cản trở; chăn, ngăn chặn; kìm, kiềm chế, nén, dằn (lòng)\n=he couldn't check his anger+ hắn không kìm được tức giận\n=we must check the bloody hand of imperialism+ chúng ta phải chặn bàn tay đẫm máu của chủ nghĩa đế quốc\n- kiểm tra, kiểm soát; kiểm lại; đánh dấu đã kiểm soát\n=please, check these figures+ làm ơn soát lại những con số này\n- quở trách, trách mắng\n- (từ Mỹ,nghĩa Mỹ) gửi, ký gửi\n=have you checked all you luggage?+ anh đã gửi hết hành lý chưa?\n- (đánh cờ) chiếu (tướng)\n*  nội động từ\n- ngập ngừng, do dự\n- dừng lại, đứng lại (chó săn; vì lạc vết, hoặc để đánh hơi)\n!to check in\n- ghi tên khi đến\n- (từ Mỹ,nghĩa Mỹ) ghi tên lấy phòng ở khách sạn\n!to check out\n- ghi tên khi ra về (sau ngày làm việc)\n- (từ Mỹ,nghĩa Mỹ) trả buồng khách sạn\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chết ngoẻo\n!to check up\n- kiểm tra, soát lại; chữa (bài)\n@Chuyên ngành kinh tế\n-đình chỉ\n-giấy ghi tiền trả\n-gửi (hành lý...)\n-kiểm lại\n-kiểm nghiệm thẩm tra\n-kiểm soát\n-kiểm tra\n-phiếu tính tiền (ăn)\n-séc\n-sự chặn lại (đột ngột)\n-sự kiểm soát\n-sự kiểm tra\n-thẩm tra\n-thẻ gửi đồ\n-thẻ gửi hành lý\n@Chuyên ngành kỹ thuật\n-cơ cấu hãm\n-cửa van\n-đầu ray\n-dụng cụ kiểm tra\n-hãm\n-kẽ nứt\n-khe nứt\n-kiểm nghiệm\n-kiểm soát\n-kiểm tra\n-mẫu thử\n-sự cải tiến\n-sự hiệu chuẩn\n-sự kiểm chứng\n-sự kiểm nghiệm\n-sự kiểm tra\n-sự thử\n-sự thử nghiệm\n-thiết bị bảo hiểm\n-van bít\n-vật thử\n-vết rách\n-vết rạn\n@Lĩnh vực: xây dựng\n-bể tưới\n-cóc hãm\n@Lĩnh vực: vật lý\n-cấu dừng\n-cấu hãm\n@Lĩnh vực: giao thông & vận tải\n-chặn (dây)\n@Lĩnh vực: cơ khí & công trình\n-cữ hãm\n-dấu kiểm tra\n-kiểm lại
-
+check	@check /tʃek/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) (như) cheque
+*  danh từ
+- sự cản trở, sự ngăn cản; sự kìm hãm; sự hạn chế; sự chặn lại; người chống cự, người ngăn cản, vật cản
+=to put a check on something+ cản trở việc gì; kìm hãm việc gì; hạn chế việc gì
+=to keep a check on; to keep in check+ hạn chế; kìm hãm
+=to hold someone in check+ cản ai tiến lên, chặn đứng lại
+- (săn bắn) sự mất vết, sự mất hơi
+=to come to a check+ mất vết, mất hơi
+- sự dừng lại, sự ngừng lại
+- (quân sự) sự thua nhẹ
+=to meet with a check+ bị thua nhẹ
+- sự kiểm tra, sự kiểm soát, sự kiểm lại; dấu ghi đã kiểm tra (đã kiểm soát)
+- hoá đơn, giấy ghi tiền (khách hàng phải trả ở khách sạn)
+- (từ Mỹ,nghĩa Mỹ),  (đánh bài) thẻ
+- kiểu kẻ ô vuông, kiểu ca rô; vải kẻ ô vuông, vải ca rô
+- (đánh cờ) sự chiếu tướng
+=check!+ chiếu tướng!
+!to pass in (cash, hand in) one's check
+- chết
+*  ngoại động từ
+- cản, cản trở; chăn, ngăn chặn; kìm, kiềm chế, nén, dằn (lòng)
+=he couldn't check his anger+ hắn không kìm được tức giận
+=we must check the bloody hand of imperialism+ chúng ta phải chặn bàn tay đẫm máu của chủ nghĩa đế quốc
+- kiểm tra, kiểm soát; kiểm lại; đánh dấu đã kiểm soát
+=please, check these figures+ làm ơn soát lại những con số này
+- quở trách, trách mắng
+- (từ Mỹ,nghĩa Mỹ) gửi, ký gửi
+=have you checked all you luggage?+ anh đã gửi hết hành lý chưa?
+- (đánh cờ) chiếu (tướng)
+*  nội động từ
+- ngập ngừng, do dự
+- dừng lại, đứng lại (chó săn; vì lạc vết, hoặc để đánh hơi)
+!to check in
+- ghi tên khi đến
+- (từ Mỹ,nghĩa Mỹ) ghi tên lấy phòng ở khách sạn
+!to check out
+- ghi tên khi ra về (sau ngày làm việc)
+- (từ Mỹ,nghĩa Mỹ) trả buồng khách sạn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chết ngoẻo
+!to check up
+- kiểm tra, soát lại; chữa (bài)
+@Chuyên ngành kinh tế
+-đình chỉ
+-giấy ghi tiền trả
+-gửi (hành lý...)
+-kiểm lại
+-kiểm nghiệm thẩm tra
+-kiểm soát
+-kiểm tra
+-phiếu tính tiền (ăn)
+-séc
+-sự chặn lại (đột ngột)
+-sự kiểm soát
+-sự kiểm tra
+-thẩm tra
+-thẻ gửi đồ
+-thẻ gửi hành lý
+@Chuyên ngành kỹ thuật
+-cơ cấu hãm
+-cửa van
+-đầu ray
+-dụng cụ kiểm tra
+-hãm
+-kẽ nứt
+-khe nứt
+-kiểm nghiệm
+-kiểm soát
+-kiểm tra
+-mẫu thử
+-sự cải tiến
+-sự hiệu chuẩn
+-sự kiểm chứng
+-sự kiểm nghiệm
+-sự kiểm tra
+-sự thử
+-sự thử nghiệm
+-thiết bị bảo hiểm
+-van bít
+-vật thử
+-vết rách
+-vết rạn
+@Lĩnh vực: xây dựng
+-bể tưới
+-cóc hãm
+@Lĩnh vực: vật lý
+-cấu dừng
+-cấu hãm
+@Lĩnh vực: giao thông & vận tải
+-chặn (dây)
+@Lĩnh vực: cơ khí & công trình
+-cữ hãm
+-dấu kiểm tra
+-kiểm lại

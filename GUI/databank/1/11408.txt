@@ -1,0 +1,12 @@
+constraint	
+@constraint
+- sự ràng buộc, sự hạn chế
+- artificial c. liên hệ giả tạo, ràng buộc giả tạo
+- dual c.s ràng buộc đối ngẫu
+- feasible c.s (lý thuyết trò chơi) ràng buộc chấp nhận được
+- geometric c. ràng buộc hình học
+- ideal c. ràng buộc lý tưởng
+- nonintegrable c. ràng buộc không khả tích
+- rheonomous c. (cơ học) liên kết không ngừng
+- row c. ràng buộc về hàng
+- scleronomous c. (cơ học) liên kết dừng

@@ -1,3 +1,2 @@
-budgeter
-	@budgeter\n- xem budget
-
+budgeter	@budgeter
+- xem budget

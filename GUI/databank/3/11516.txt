@@ -1,3 +1,46 @@
-content
-	@content /'kɔntent/\n*  danh từ,  (thường) số nhiều\n- nội dung\n=the contents of a letter+ nội dung một bức thư\n- (chỉ số ít) sức chứa, sức đựng, dung tích, dung lượng (bình, hồ, ao...); thể tích (khối đá...); diện tích, bề mặt (ruộng...)\n=the content of a cask+ dung lượng một cái thùng\n- lượng, phân lượng\n=the sugar content per acre of beer+ lượng đường thu hoạch trên một mẫu Anh củ cải\n=the ester content of an oil+ (phân) lượng este trong một chất dầu\n!table of contents\n- (xem) table\n*  danh từ\n- sự bằng lòng, sự vừa lòng, sự hài lòng, sự vừa ý, sự toại nguyện, sự mãn nguyện, sự thoả mãn\n=to one's heart's content+ thoả mãn; vừa lòng mãn ý\n- sự bỏ phiếu thuận (thượng nghị viện Anh)\n- (số nhiều) những phiếu thuận; những người bỏ phiếu thuận\n=supposing the number of contents and not contents are strictly equal+ giả dụ rằng số phiếu thuận và số phiếu chống đúng bằng nhau\n*  tính từ\n- bằng lòng, vừa lòng, hài lòng, vừa ý, toại nguyện, mãn nguyện, thoả mãn\n=to be content with something+ vừa lòng cái gì\n- sẵn lòng, vui lòng\n=I am content to go of you want mr to+ tôi sẵn sàng (vui lòng) đi nếu anh muốn\n- thuận (thượng nghị viện Anh)\n=content+ thuận\n=not content+ chống\n*  ngoại động từ\n- làm bằng lòng, làm vừa lòng, làm đẹp lòng, làm vui lòng, làm vừa ý, làm đẹp ý, làm mãn nguyện, thoả mãn\n=to content oneself with something+ bằng lòng vậy với cái gì\n=to content oneself with doing something+ bằng lòng cái gì\n@Chuyên ngành kinh tế\n-độ chứa\n-hàm lượng\n-mục lục\n-nội dung\n@Chuyên ngành kỹ thuật\n-độ chứa\n-dung lượng\n-dung lượng dung tích\n-dung tích\n-hàm lượng\n-lượng\n-lượng chứa\n-nội dung\n-sức chứa\n-thành phần\n-thể tích
-
+content	@content /'kɔntent/
+*  danh từ,  (thường) số nhiều
+- nội dung
+=the contents of a letter+ nội dung một bức thư
+- (chỉ số ít) sức chứa, sức đựng, dung tích, dung lượng (bình, hồ, ao...); thể tích (khối đá...); diện tích, bề mặt (ruộng...)
+=the content of a cask+ dung lượng một cái thùng
+- lượng, phân lượng
+=the sugar content per acre of beer+ lượng đường thu hoạch trên một mẫu Anh củ cải
+=the ester content of an oil+ (phân) lượng este trong một chất dầu
+!table of contents
+- (xem) table
+*  danh từ
+- sự bằng lòng, sự vừa lòng, sự hài lòng, sự vừa ý, sự toại nguyện, sự mãn nguyện, sự thoả mãn
+=to one's heart's content+ thoả mãn; vừa lòng mãn ý
+- sự bỏ phiếu thuận (thượng nghị viện Anh)
+- (số nhiều) những phiếu thuận; những người bỏ phiếu thuận
+=supposing the number of contents and not contents are strictly equal+ giả dụ rằng số phiếu thuận và số phiếu chống đúng bằng nhau
+*  tính từ
+- bằng lòng, vừa lòng, hài lòng, vừa ý, toại nguyện, mãn nguyện, thoả mãn
+=to be content with something+ vừa lòng cái gì
+- sẵn lòng, vui lòng
+=I am content to go of you want mr to+ tôi sẵn sàng (vui lòng) đi nếu anh muốn
+- thuận (thượng nghị viện Anh)
+=content+ thuận
+=not content+ chống
+*  ngoại động từ
+- làm bằng lòng, làm vừa lòng, làm đẹp lòng, làm vui lòng, làm vừa ý, làm đẹp ý, làm mãn nguyện, thoả mãn
+=to content oneself with something+ bằng lòng vậy với cái gì
+=to content oneself with doing something+ bằng lòng cái gì
+@Chuyên ngành kinh tế
+-độ chứa
+-hàm lượng
+-mục lục
+-nội dung
+@Chuyên ngành kỹ thuật
+-độ chứa
+-dung lượng
+-dung lượng dung tích
+-dung tích
+-hàm lượng
+-lượng
+-lượng chứa
+-nội dung
+-sức chứa
+-thành phần
+-thể tích

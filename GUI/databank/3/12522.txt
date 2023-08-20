@@ -1,3 +1,2 @@
-crayonist
-	@crayonist\n- xem crayon
-
+crayonist	@crayonist
+- xem crayon

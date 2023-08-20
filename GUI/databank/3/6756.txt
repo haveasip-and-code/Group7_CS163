@@ -1,3 +1,2 @@
-bridgeable
-	@bridgeable\n- xem bridge
-
+bridgeable	@bridgeable
+- xem bridge

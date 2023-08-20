@@ -1,3 +1,8 @@
-bedroom
-	@bedroom /'bedrum/\n*  danh từ\n- buồng ngủ\n@Chuyên ngành kinh tế\n-phòng ngủ\n@Chuyên ngành kỹ thuật\n-buồng ngủ\n-phòng ngủ
-
+bedroom	@bedroom /'bedrum/
+*  danh từ
+- buồng ngủ
+@Chuyên ngành kinh tế
+-phòng ngủ
+@Chuyên ngành kỹ thuật
+-buồng ngủ
+-phòng ngủ

@@ -1,3 +1,45 @@
-commission
-	@commission /kə'miʃn/\n*  danh từ\n- lệnh, mệnh lệnh\n- nhiệm vụ, phận sự\n=to be on the commission+ đang thi hành nhiệm vụ (của một quan toà)\n- sự uỷ nhiệm, sự uỷ thác; công việc uỷ nhiệm, công việc uỷ thác\n=in commission+ được uỷ nhiệm\n- hội đồng uỷ ban\n=commission of inquiry+ hội đồng (uỷ ban) điều tra\n=to put an offices in commission+ đặt một cơ quan dưới sự quản lý của một hội đồng\n- tiền hoa hồng\n=sale on commission+ sự bán hàng ăn tiền hoa hồng\n- sự phạm, sự can phạm\n=the commission of a crime+ sự phạm tội\n- (quân sự) bằng phong các cấp sĩ quan\n- (hàng hải) sự trang bị vũ khí\n=to be in commission+ đã được trang bị đầy đủ, sẵn sàng chiến đấu (tàu chiến)\n=to be out of commission+ không được trang bị đầy đủ, không sẵn sàng chiến đấu (tàu chiến)\n*  ngoại động từ\n- uỷ nhiệm, uỷ thác\n=to commission someone to do something+ uỷ thác ai làm việc gì\n- (hàng hải) ra lênh (cho một chiếc tàu) gia nhập đội tàu thường trực; bổ nhiêm (một sĩ quan) chỉ huy tàu chiến; nhận chức chỉ huy (một chiếc tàu)\n- đặt làm, đặt mua (một bức tranh...)\n@Chuyên ngành kinh tế\n-giấy ủy quyền\n-hoa hồng (của đại lý)\n-hội đồng\n-sự ủy nhiệm\n-thủ tục phí (ngân hàng)\n-tiền cò (cho người dắt mối)\n-tiền hoa hồng\n-ủy ban\n-ủy quyền\n-ủy thác\n@Chuyên ngành kỹ thuật\n-ban\n-lệnh\n-sự ủy nhiệm\n-ủy ban\n-ủy nhiệm\n-ủy thác\n@Lĩnh vực: điện\n-chạy nghiệm thu\n@Lĩnh vực: giao thông & vận tải\n-khai thác (tàu)
-
+commission	@commission /kə'miʃn/
+*  danh từ
+- lệnh, mệnh lệnh
+- nhiệm vụ, phận sự
+=to be on the commission+ đang thi hành nhiệm vụ (của một quan toà)
+- sự uỷ nhiệm, sự uỷ thác; công việc uỷ nhiệm, công việc uỷ thác
+=in commission+ được uỷ nhiệm
+- hội đồng uỷ ban
+=commission of inquiry+ hội đồng (uỷ ban) điều tra
+=to put an offices in commission+ đặt một cơ quan dưới sự quản lý của một hội đồng
+- tiền hoa hồng
+=sale on commission+ sự bán hàng ăn tiền hoa hồng
+- sự phạm, sự can phạm
+=the commission of a crime+ sự phạm tội
+- (quân sự) bằng phong các cấp sĩ quan
+- (hàng hải) sự trang bị vũ khí
+=to be in commission+ đã được trang bị đầy đủ, sẵn sàng chiến đấu (tàu chiến)
+=to be out of commission+ không được trang bị đầy đủ, không sẵn sàng chiến đấu (tàu chiến)
+*  ngoại động từ
+- uỷ nhiệm, uỷ thác
+=to commission someone to do something+ uỷ thác ai làm việc gì
+- (hàng hải) ra lênh (cho một chiếc tàu) gia nhập đội tàu thường trực; bổ nhiêm (một sĩ quan) chỉ huy tàu chiến; nhận chức chỉ huy (một chiếc tàu)
+- đặt làm, đặt mua (một bức tranh...)
+@Chuyên ngành kinh tế
+-giấy ủy quyền
+-hoa hồng (của đại lý)
+-hội đồng
+-sự ủy nhiệm
+-thủ tục phí (ngân hàng)
+-tiền cò (cho người dắt mối)
+-tiền hoa hồng
+-ủy ban
+-ủy quyền
+-ủy thác
+@Chuyên ngành kỹ thuật
+-ban
+-lệnh
+-sự ủy nhiệm
+-ủy ban
+-ủy nhiệm
+-ủy thác
+@Lĩnh vực: điện
+-chạy nghiệm thu
+@Lĩnh vực: giao thông & vận tải
+-khai thác (tàu)

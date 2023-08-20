@@ -1,3 +1,105 @@
-block
-	@block /blɔk/\n*  danh từ\n- khối, tảng, súc (đá, gỗ...)\n- cái thớt, đon kê, tấm gỗ kê để chặt đầu (người bị tử hình)\n- khuôn (mũ); đầu giả (để trưng bày mũ, tóc giả...)\n- khuôn nhà lớn, nhà khối (ở giữa bốn con đường)\n- vật chương ngại; sự trở ngại; sự tắc nghẽn, sự tắc nghẽn xe cộ\n- lô đất (chính phủ cấp cho tư nhân); (từ Mỹ,nghĩa Mỹ) khoảnh đất trong thành phố\n- bản khắc (để in)\n- số lớn cổ phần\n- (ngành đường sắt) đoạn đường; đoàn toa xe\n- (kỹ thuật) puli\n- (thể dục,thể thao) sự chặn, sự cản (bóng, đối phương)\n- thông cáo phản đối một dự luật (nghị viện)\n- (úc) đường phố lớn có nhiều người đi dạo\n- (từ lóng) cái đầu (người)\n- người đần độn\n- người nhẫn tâm\n!chip of the old block\n- đứa con giống bố như tạc\n!to be senf to the block\n- bị xử chém\n*  ngoại động từ\n- làm trở ngại (sự đi lại); ngăn chận\n- làm trở ngại sự thi hành; chặn đứng (một kế hoạch)\n=to block the enemy's plant+ chặn đứng những kế hoạch của địch\n- (thể dục,thể thao) chặn cản (bóng, đối phương)\n- hạn chế chi tiêu, hạn chế việc sử dụng (vốn)\n- phản đối (dự luật ở nghị viện)\n- gò vào khuôn (mũ...)\n- rập chữ nổi (bìa sách, da\n!to block out (in)\n- phác ra, vẽ phác\n=to block out a plan+ phác ra một kế hoạch\n=to block in a pictủe+ vẽ phác một bức tranh\n@Chuyên ngành kinh tế\n-khối tảng\n-lô\n-số lượng lớn\n-tấm cục\n@Chuyên ngành kỹ thuật\n-bắt vít\n-bệ máy\n-bó\n-bộ\n-chèn\n-cụm\n-đặt gối đỡ\n-đầu búa\n-đầu trượt\n-đoạn dữ liệu\n-đòn kê\n-ghép mộng\n-gói\n-guốc phanh\n-hợp khối\n-khóa\n-khối\n-khối dữ liệu\n-khu\n-khu nhà lớn\n-khu phố\n-khúc gỗ\n-khuôn\n-nhóm\n-má phanh\n-mảng khuôn in, khối in, in bằng bản khắc\n-miếng\n-ô (phố)\n-phong tỏa\n-rèn thô\n-ròng rọc\n-tấm\n-thân máy\n-then\n@Lĩnh vực: toán & tin\n-bản ghi vật lý\n-khối bộ nhớ\n-nghẽn\n-tạo khối\n@Lĩnh vực: điện lạnh\n-blốc\n-khóa nghẹt\n@Lĩnh vực: cơ khí & công trình\n-bộ đỡ\n-con lăn puli\n-khối mốc\n@Lĩnh vực: xây dựng\n-cái then\n-chẹn\n-khối (nhà)\n-khối gạch xây\n-khối móc (cần trục)\n-một đơn vị nhà\n-súc (đá, gỗ)\n-tòa nhà\n@Lĩnh vực: giao thông & vận tải\n-khối gỗ để kê\n-phân khu chạy tàu\n@Lĩnh vực: ô tô\n-khối xylanh\n@Lĩnh vực: hóa học & vật liệu\n-khu (dầu mỏ)\n@Lĩnh vực: y học\n-phong bế
-
+block	@block /blɔk/
+*  danh từ
+- khối, tảng, súc (đá, gỗ...)
+- cái thớt, đon kê, tấm gỗ kê để chặt đầu (người bị tử hình)
+- khuôn (mũ); đầu giả (để trưng bày mũ, tóc giả...)
+- khuôn nhà lớn, nhà khối (ở giữa bốn con đường)
+- vật chương ngại; sự trở ngại; sự tắc nghẽn, sự tắc nghẽn xe cộ
+- lô đất (chính phủ cấp cho tư nhân); (từ Mỹ,nghĩa Mỹ) khoảnh đất trong thành phố
+- bản khắc (để in)
+- số lớn cổ phần
+- (ngành đường sắt) đoạn đường; đoàn toa xe
+- (kỹ thuật) puli
+- (thể dục,thể thao) sự chặn, sự cản (bóng, đối phương)
+- thông cáo phản đối một dự luật (nghị viện)
+- (úc) đường phố lớn có nhiều người đi dạo
+- (từ lóng) cái đầu (người)
+- người đần độn
+- người nhẫn tâm
+!chip of the old block
+- đứa con giống bố như tạc
+!to be senf to the block
+- bị xử chém
+*  ngoại động từ
+- làm trở ngại (sự đi lại); ngăn chận
+- làm trở ngại sự thi hành; chặn đứng (một kế hoạch)
+=to block the enemy's plant+ chặn đứng những kế hoạch của địch
+- (thể dục,thể thao) chặn cản (bóng, đối phương)
+- hạn chế chi tiêu, hạn chế việc sử dụng (vốn)
+- phản đối (dự luật ở nghị viện)
+- gò vào khuôn (mũ...)
+- rập chữ nổi (bìa sách, da
+!to block out (in)
+- phác ra, vẽ phác
+=to block out a plan+ phác ra một kế hoạch
+=to block in a pictủe+ vẽ phác một bức tranh
+@Chuyên ngành kinh tế
+-khối tảng
+-lô
+-số lượng lớn
+-tấm cục
+@Chuyên ngành kỹ thuật
+-bắt vít
+-bệ máy
+-bó
+-bộ
+-chèn
+-cụm
+-đặt gối đỡ
+-đầu búa
+-đầu trượt
+-đoạn dữ liệu
+-đòn kê
+-ghép mộng
+-gói
+-guốc phanh
+-hợp khối
+-khóa
+-khối
+-khối dữ liệu
+-khu
+-khu nhà lớn
+-khu phố
+-khúc gỗ
+-khuôn
+-nhóm
+-má phanh
+-mảng khuôn in, khối in, in bằng bản khắc
+-miếng
+-ô (phố)
+-phong tỏa
+-rèn thô
+-ròng rọc
+-tấm
+-thân máy
+-then
+@Lĩnh vực: toán & tin
+-bản ghi vật lý
+-khối bộ nhớ
+-nghẽn
+-tạo khối
+@Lĩnh vực: điện lạnh
+-blốc
+-khóa nghẹt
+@Lĩnh vực: cơ khí & công trình
+-bộ đỡ
+-con lăn puli
+-khối mốc
+@Lĩnh vực: xây dựng
+-cái then
+-chẹn
+-khối (nhà)
+-khối gạch xây
+-khối móc (cần trục)
+-một đơn vị nhà
+-súc (đá, gỗ)
+-tòa nhà
+@Lĩnh vực: giao thông & vận tải
+-khối gỗ để kê
+-phân khu chạy tàu
+@Lĩnh vực: ô tô
+-khối xylanh
+@Lĩnh vực: hóa học & vật liệu
+-khu (dầu mỏ)
+@Lĩnh vực: y học
+-phong bế

@@ -1,0 +1,40 @@
+inventory	
+@inventory /in'ventri/
+*  danh từ
+- sự kiểm kê; nằng kiểm kê; (từ Mỹ,nghĩa Mỹ) hàng hoá tồn kho (của một nhà buôn)
+- (từ Mỹ,nghĩa Mỹ) sự tóm tắt; bản tóm tắt
+- bản kê tài nguyên; bản kê thú rừng... (ở một vùng...)
+*  ngoại động từ
+- kiểm kê
+- (từ Mỹ,nghĩa Mỹ) tóm tắt
+*  nội động từ
+- đáng giá (theo kiểm kê)=stocks inventorying at 2,000,000
++ kho hàng đáng giá 2 triệu đồng theo kiểm kê
+@Chuyên ngành kinh tế
+-bản kê tài sản
+-bản kê tình trạng nơi ở
+-bản kiểm kê
+-bản liệt kê
+-hàng hóa tồn trữ
+-hàng tồn kho
+-kho hàng
+-kiểm kê
+-số hàng trữ kho
+-sự kiểm kê
+-tồn kho
+-tồn trữ
+@Chuyên ngành kỹ thuật
+-bản tóm tắt
+-dự trữ
+-kiểm kê
+-lượng kiểm kê
+-lượng tồn kho
+-sự kiểm kê
+-sự kiểm tra
+-thư mục
+@Lĩnh vực: điện lạnh
+-bản kiểm kê
+@Lĩnh vực: toán & tin
+-bảng kiểm kê
+-danh sách kiểm kê
+-quỹ luân chuyển

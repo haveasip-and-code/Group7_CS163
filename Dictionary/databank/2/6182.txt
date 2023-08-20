@@ -1,3 +1,0 @@
-boldface
-	@boldface\n- (Tech) mặt chữ đậm\n@Chuyên ngành kinh tế\n-chỗ in đậm\n@Chuyên ngành kỹ thuật\n-kiểu chữ đậm\n@Lĩnh vực: xây dựng\n-mặt đậm
-

@@ -1,3 +1,14 @@
-ambit
-	@ambit /'æmbit/\n*  danh từ\n- đường bao quanh, chu vi\n- ranh giới, giới hạn\n- phạm vi\n=within the ambit of...+ trong phạm vi của...\n- (kiến trúc) khu vực bao quanh toà nhà\n@Chuyên ngành kỹ thuật\n-biên giới\n-chu vi\n-đường bao quanh\n-phạm vi\n@Lĩnh vực: cơ khí & công trình\n-khu vực bao quanh
-
+ambit	@ambit /'æmbit/
+*  danh từ
+- đường bao quanh, chu vi
+- ranh giới, giới hạn
+- phạm vi
+=within the ambit of...+ trong phạm vi của...
+- (kiến trúc) khu vực bao quanh toà nhà
+@Chuyên ngành kỹ thuật
+-biên giới
+-chu vi
+-đường bao quanh
+-phạm vi
+@Lĩnh vực: cơ khí & công trình
+-khu vực bao quanh

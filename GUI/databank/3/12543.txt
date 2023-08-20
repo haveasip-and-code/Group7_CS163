@@ -1,3 +1,5 @@
-creaser
-	@creaser\n- xem crease\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-đe uốn mép
-
+creaser	@creaser
+- xem crease
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-đe uốn mép

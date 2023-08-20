@@ -1,3 +1,2 @@
-autopsic
-	@autopsic\n- xem autopsy
-
+autopsic	@autopsic
+- xem autopsy

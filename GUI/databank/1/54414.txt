@@ -1,0 +1,13 @@
+suite	@suite /swi:t/
+*  danh từ
+- dãy, bộ
+=suite of rooms+ dãy buồng
+=suite of furniture+ bộ đồ gỗ
+- đoàn tuỳ tùng
+- (âm nhạc) tổ khúc
+- (địa lý,địa chất) hệ
+@Chuyên ngành kinh tế
+-bộ ở
+@Chuyên ngành kỹ thuật
+-dãy
+-điệp

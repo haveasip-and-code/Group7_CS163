@@ -1,3 +1,2 @@
-dandler
-	@dandler\n- xem dandle
-
+dandler	@dandler
+- xem dandle

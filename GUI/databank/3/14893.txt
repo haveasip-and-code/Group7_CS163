@@ -1,3 +1,21 @@
-detection
-	@detection /di'tekʃn/\n*  danh từ\n- sự dò ra, sự tìm ra, sự khám phá ra, sự phát hiện ra\n- sự nhận thấy, sự nhận ra\n- (rađiô) sự tách sóng\n@Chuyên ngành kinh tế\n-sự dò tìm\n-sự phát hiện\n@Chuyên ngành kỹ thuật\n-nhận ra\n-phát hiện\n-sự dò\n-sự dò tìm\n-sự phát hiện\n-sự tách\n-sự tách sóng\n-sự thăm dò\n@Lĩnh vực: toán & tin\n-dò ra\n@Lĩnh vực: xây dựng\n-sự khám phá
-
+detection	@detection /di'tekʃn/
+*  danh từ
+- sự dò ra, sự tìm ra, sự khám phá ra, sự phát hiện ra
+- sự nhận thấy, sự nhận ra
+- (rađiô) sự tách sóng
+@Chuyên ngành kinh tế
+-sự dò tìm
+-sự phát hiện
+@Chuyên ngành kỹ thuật
+-nhận ra
+-phát hiện
+-sự dò
+-sự dò tìm
+-sự phát hiện
+-sự tách
+-sự tách sóng
+-sự thăm dò
+@Lĩnh vực: toán & tin
+-dò ra
+@Lĩnh vực: xây dựng
+-sự khám phá

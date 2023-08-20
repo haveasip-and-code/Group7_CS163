@@ -1,3 +1,13 @@
-contributor
-	@contributor /kən'tribjutə/\n*  danh từ\n- người đóng góp, người góp phần\n- người cộng tác (với một tờ báo)\n@Chuyên ngành kinh tế\n-cộng tác viên (của một tờ báo)\n-người đóng góp\n-người góp phần\n-người góp tiền\n-người gửi bài\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-góp viên
-
+contributor	@contributor /kən'tribjutə/
+*  danh từ
+- người đóng góp, người góp phần
+- người cộng tác (với một tờ báo)
+@Chuyên ngành kinh tế
+-cộng tác viên (của một tờ báo)
+-người đóng góp
+-người góp phần
+-người góp tiền
+-người gửi bài
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-góp viên

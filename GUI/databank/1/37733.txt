@@ -1,0 +1,2 @@
+ole	@ole
+- liên kết và nhúng đối tượng (Object Linking and Embedding)

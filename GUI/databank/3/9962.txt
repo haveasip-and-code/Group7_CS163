@@ -1,3 +1,11 @@
-coarsen
-	@coarsen /'kɔ:sn/\n*  ngoại động từ\n- làm thành thô\n- làm thành thô lỗ\n- làm thành thô tục\n*  nội động từ\n- trở thành thô\n- trở thành thô lỗ\n- trở thành thô tục\n@Chuyên ngành kỹ thuật\n-làm thành hạt thô
-
+coarsen	@coarsen /'kɔ:sn/
+*  ngoại động từ
+- làm thành thô
+- làm thành thô lỗ
+- làm thành thô tục
+*  nội động từ
+- trở thành thô
+- trở thành thô lỗ
+- trở thành thô tục
+@Chuyên ngành kỹ thuật
+-làm thành hạt thô

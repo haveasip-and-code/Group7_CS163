@@ -1,0 +1,35 @@
+fluid	
+@fluid /fluid/
+*  tính từ
+- lỏng, dễ cháy
+- hay thay đổi=fluid opinion
++ ý kiến hay thay đổi
+- (quân sự) di động (mặt trận...)
+*  danh từ
+- chất lỏng (gồm chất nước và chất khí)
+@Chuyên ngành kinh tế
+-chất lỏng
+-dễ chảy
+-lỏng
+@Chuyên ngành kỹ thuật
+-chất lưu động
+-dễ chảy
+-dung dịch
+-lỏng
+-lưu chất
+@Lĩnh vực: y học
+-chất lỏng
+@Lĩnh vực: điện
+-chất lỏng (
+*)
+@Chuyên ngành kỹ thuật
+-chất lưu động
+-dễ chảy
+-dung dịch
+-lỏng
+-lưu chất
+@Lĩnh vực: y học
+-chất lỏng
+@Lĩnh vực: điện
+-chất lỏng (
+*)

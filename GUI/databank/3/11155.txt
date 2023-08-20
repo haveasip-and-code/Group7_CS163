@@ -1,3 +1,2 @@
-conglomerator
-	@conglomerator\n- xem conglomerate
-
+conglomerator	@conglomerator
+- xem conglomerate

@@ -1,3 +1,2 @@
-bitable
-	@bitable\n- xem bite
-
+bitable	@bitable
+- xem bite

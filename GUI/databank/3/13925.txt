@@ -1,3 +1,24 @@
-decrement
-	@decrement /'dekrimənt/\n*  danh từ\n- sự giảm bớt, sự giảm sút\n- (kỹ thuật) sự làm lặng, sự cản lại\n- (toán học) lượng giảm\n@Chuyên ngành kinh tế\n-giảm bớt\n-giảm lượng\n-mất giá\n@Chuyên ngành kỹ thuật\n-độ giảm\n-độ hụt\n-độ suy giảm\n-giảm\n-giảm lượng\n-làm bớt\n-làm giảm\n-lượng giảm\n-sự giảm\n-sự hãm\n-sự tắt\n@Lĩnh vực: toán & tin\n-bậc giảm\n-khoảng giảm
-
+decrement	@decrement /'dekrimənt/
+*  danh từ
+- sự giảm bớt, sự giảm sút
+- (kỹ thuật) sự làm lặng, sự cản lại
+- (toán học) lượng giảm
+@Chuyên ngành kinh tế
+-giảm bớt
+-giảm lượng
+-mất giá
+@Chuyên ngành kỹ thuật
+-độ giảm
+-độ hụt
+-độ suy giảm
+-giảm
+-giảm lượng
+-làm bớt
+-làm giảm
+-lượng giảm
+-sự giảm
+-sự hãm
+-sự tắt
+@Lĩnh vực: toán & tin
+-bậc giảm
+-khoảng giảm

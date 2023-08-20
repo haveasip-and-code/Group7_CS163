@@ -1,0 +1,9 @@
+lightproof	@Chuyên ngành kinh tế
+-che sáng
+-không thấu ánh sáng
+@Chuyên ngành kỹ thuật
+-không lọt sáng
+-kín ánh sáng
+@Chuyên ngành kỹ thuật
+-không lọt sáng
+-kín ánh sáng

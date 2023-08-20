@@ -1,3 +1,2 @@
-diplexer
-	@Chuyên ngành kỹ thuật\n-bộ phối hợp
-
+diplexer	@Chuyên ngành kỹ thuật
+-bộ phối hợp

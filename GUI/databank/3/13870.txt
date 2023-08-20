@@ -1,3 +1,6 @@
-decoded
-	@decoded\n- đã đọc được mật mã, được giải mã\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-đã giải mã\n-được giải mã
-
+decoded	@decoded
+- đã đọc được mật mã, được giải mã
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đã giải mã
+-được giải mã

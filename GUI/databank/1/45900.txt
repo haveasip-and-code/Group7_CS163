@@ -1,0 +1,4 @@
+receiver	@receiver
+- (điều khiển học) máy thu
+- ideal r. (điều khiển học) máy thu lý tưởng
+- selective r. máy thu lựa chọn

@@ -1,3 +1,2 @@
-attorneyship
-	@attorneyship\n- xem attorney
-
+attorneyship	@attorneyship
+- xem attorney

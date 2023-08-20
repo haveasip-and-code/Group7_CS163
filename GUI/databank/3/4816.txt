@@ -1,3 +1,15 @@
-basement
-	@basement /'beismənt/\n*  danh từ\n- nền móng, móng (của một bức tường...)\n- tầng hầm\n@Chuyên ngành kỹ thuật\n-bệ\n-đế cột\n-đế tường\n-nền\n-nền móng\n-móng\n-tầng hầm\n-tầng ngầm\n@Lĩnh vực: cơ khí & công trình\n-tầng đất cái
-
+basement	@basement /'beismənt/
+*  danh từ
+- nền móng, móng (của một bức tường...)
+- tầng hầm
+@Chuyên ngành kỹ thuật
+-bệ
+-đế cột
+-đế tường
+-nền
+-nền móng
+-móng
+-tầng hầm
+-tầng ngầm
+@Lĩnh vực: cơ khí & công trình
+-tầng đất cái

@@ -1,3 +1,2 @@
-companies
-	@Chuyên ngành kinh tế\n-công ty
-
+companies	@Chuyên ngành kinh tế
+-công ty

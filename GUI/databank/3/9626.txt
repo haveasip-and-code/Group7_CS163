@@ -1,3 +1,6 @@
-clarified
-	@Chuyên ngành kinh tế\n-đã làm sạch\n-đã làm trong\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-được làm trong
-
+clarified	@Chuyên ngành kinh tế
+-đã làm sạch
+-đã làm trong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được làm trong

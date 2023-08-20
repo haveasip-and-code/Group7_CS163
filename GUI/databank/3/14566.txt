@@ -1,3 +1,2 @@
-depletable
-	@depletable\n- xem deplete
-
+depletable	@depletable
+- xem deplete

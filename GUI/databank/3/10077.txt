@@ -1,3 +1,7 @@
-codex
-	@codex /'koudeks/\n*  danh từ,  số nhiều codices\n- sách chép tay (kinh thánh...)\n- (từ cổ,nghĩa cổ) bộ luật\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dược điển
-
+codex	@codex /'koudeks/
+*  danh từ,  số nhiều codices
+- sách chép tay (kinh thánh...)
+- (từ cổ,nghĩa cổ) bộ luật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dược điển

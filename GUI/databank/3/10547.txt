@@ -1,3 +1,2 @@
-committable
-	@committable\n- xem commit
-
+committable	@committable
+- xem commit

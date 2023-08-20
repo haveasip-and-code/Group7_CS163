@@ -1,3 +1,4 @@
-backspacing
-	@Chuyên ngành kỹ thuật\n-sự quay ngược\n@Lĩnh vực: toán & tin\n-sự xóa lùi
-
+backspacing	@Chuyên ngành kỹ thuật
+-sự quay ngược
+@Lĩnh vực: toán & tin
+-sự xóa lùi

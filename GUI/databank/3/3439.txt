@@ -1,3 +1,2 @@
-articulatory
-	@articulatory\n- xem articulation
-
+articulatory	@articulatory
+- xem articulation

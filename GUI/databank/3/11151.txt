@@ -1,3 +1,24 @@
-conglomerate
-	@conglomerate /kən'glɔmərit/\n*  danh từ\n- khối kết\n- (địa lý,địa chất) cuội kết\n*  tính từ\n- kết thành khối tròn, kết khối\n*  động từ\n- kết khối, kết hợp\n@Chuyên ngành kinh tế\n-công ty đại tổ hợp\n-cônglômêra\n-đại xí nghiệp liên hiệp\n-kết khối\n-sự kết hợp thành đại xí nghiệp liên hiệp\n-tổ hợp độc quyền kinh tế\n-xí nghiệp tập đoàn\n@Chuyên ngành kỹ thuật\n-đá mảnh vụn\n-kết tụ\n-khối kết\n-mảnh đá vụn\n@Lĩnh vực: xây dựng\n-đá kết nham\n-kế tụ
-
+conglomerate	@conglomerate /kən'glɔmərit/
+*  danh từ
+- khối kết
+- (địa lý,địa chất) cuội kết
+*  tính từ
+- kết thành khối tròn, kết khối
+*  động từ
+- kết khối, kết hợp
+@Chuyên ngành kinh tế
+-công ty đại tổ hợp
+-cônglômêra
+-đại xí nghiệp liên hiệp
+-kết khối
+-sự kết hợp thành đại xí nghiệp liên hiệp
+-tổ hợp độc quyền kinh tế
+-xí nghiệp tập đoàn
+@Chuyên ngành kỹ thuật
+-đá mảnh vụn
+-kết tụ
+-khối kết
+-mảnh đá vụn
+@Lĩnh vực: xây dựng
+-đá kết nham
+-kế tụ

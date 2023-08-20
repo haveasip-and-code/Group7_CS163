@@ -1,3 +1,32 @@
-defective
-	@defective /di'fektiv/\n*  tính từ\n- có thiếu sót, có nhược điểm; có tật xấu, có khuyết điểm; kém, không hoàn toàn\n=a defective memory+ trí nhớ kém\n- (ngôn ngữ học) khuyết điểm\n=a defective verb+ động từ khuyết thiếu\n*  danh từ\n- người có tật\n=a mental defective+ người kém thông minh\n- (ngôn ngữ học) động từ khuyết thiếu\n@Chuyên ngành kinh tế\n-có khuyết điểm\n-có nhược điểm\n-có tật xấu\n-có thiếu sót\n-dở tệ\n-hỏng\n-kém\n-phế phẩm\n-tồi\n@Chuyên ngành kỹ thuật\n-hỏng\n-hư\n-khuyết\n-khuyết tật\n-phế phẩm\n-sai\n@Lĩnh vực: xây dựng\n-có khuyết điểm\n-có vết\n@Lĩnh vực: toán & tin\n-hụt nghiệm
-
+defective	@defective /di'fektiv/
+*  tính từ
+- có thiếu sót, có nhược điểm; có tật xấu, có khuyết điểm; kém, không hoàn toàn
+=a defective memory+ trí nhớ kém
+- (ngôn ngữ học) khuyết điểm
+=a defective verb+ động từ khuyết thiếu
+*  danh từ
+- người có tật
+=a mental defective+ người kém thông minh
+- (ngôn ngữ học) động từ khuyết thiếu
+@Chuyên ngành kinh tế
+-có khuyết điểm
+-có nhược điểm
+-có tật xấu
+-có thiếu sót
+-dở tệ
+-hỏng
+-kém
+-phế phẩm
+-tồi
+@Chuyên ngành kỹ thuật
+-hỏng
+-hư
+-khuyết
+-khuyết tật
+-phế phẩm
+-sai
+@Lĩnh vực: xây dựng
+-có khuyết điểm
+-có vết
+@Lĩnh vực: toán & tin
+-hụt nghiệm

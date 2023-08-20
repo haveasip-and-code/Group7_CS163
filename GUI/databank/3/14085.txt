@@ -1,3 +1,17 @@
-deflect
-	@deflect /di'flekt/\n*  ngoại động từ\n- làm lệch, làm chệch hướng, làm trẹo\n- (kỹ thuật) làm uốn xuống, làm võng xuống\n*  nội động từ\n- lệch, chệch hướng, trẹo đi\n- (kỹ thuật) uốn xuống, võng xuống\n@Chuyên ngành kỹ thuật\n-dòng chảy\n-khúc xạ\n-làm lệch\n-làm xiên\n-lệch\n-uốn cong\n@Lĩnh vực: xây dựng\n-cong xuống\n-làm võng
-
+deflect	@deflect /di'flekt/
+*  ngoại động từ
+- làm lệch, làm chệch hướng, làm trẹo
+- (kỹ thuật) làm uốn xuống, làm võng xuống
+*  nội động từ
+- lệch, chệch hướng, trẹo đi
+- (kỹ thuật) uốn xuống, võng xuống
+@Chuyên ngành kỹ thuật
+-dòng chảy
+-khúc xạ
+-làm lệch
+-làm xiên
+-lệch
+-uốn cong
+@Lĩnh vực: xây dựng
+-cong xuống
+-làm võng

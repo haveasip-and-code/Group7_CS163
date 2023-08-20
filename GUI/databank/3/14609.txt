@@ -1,3 +1,2 @@
-deprecatorily
-	@deprecatorily\n- xem deprecatory
-
+deprecatorily	@deprecatorily
+- xem deprecatory

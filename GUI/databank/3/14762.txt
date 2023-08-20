@@ -1,3 +1,16 @@
-desiccation
-	@desiccation /,desi'keiʃn/\n*  danh từ\n- sự làm khô, sự sấy khô\n@Chuyên ngành kinh tế\n-sự làm khô\n-sự làm mất nước\n-sự sấy\n@Chuyên ngành kỹ thuật\n-hút ẩm\n-làm khô\n-sự hút ẩm\n-sự hút nước\n-sự khử ẩm\n-sự khử nước\n-sự làm khô\n-sự sấy khô
-
+desiccation	@desiccation /,desi'keiʃn/
+*  danh từ
+- sự làm khô, sự sấy khô
+@Chuyên ngành kinh tế
+-sự làm khô
+-sự làm mất nước
+-sự sấy
+@Chuyên ngành kỹ thuật
+-hút ẩm
+-làm khô
+-sự hút ẩm
+-sự hút nước
+-sự khử ẩm
+-sự khử nước
+-sự làm khô
+-sự sấy khô

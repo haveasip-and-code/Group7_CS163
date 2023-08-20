@@ -1,3 +1,12 @@
-compo
-	@compo\n* danh từ\n- vật liệu gồm nhiều thứ hợp lại (viết tắt) của composition\n@Chuyên ngành kỹ thuật\n-hợp chất\n-vữa\n-vữa tam hợp\n@Lĩnh vực: xây dựng\n-hợp kim chì\n-sự hợp thành\n-vữa bata\n-xi măng-vôi-cát
-
+compo	@compo
+* danh từ
+- vật liệu gồm nhiều thứ hợp lại (viết tắt) của composition
+@Chuyên ngành kỹ thuật
+-hợp chất
+-vữa
+-vữa tam hợp
+@Lĩnh vực: xây dựng
+-hợp kim chì
+-sự hợp thành
+-vữa bata
+-xi măng-vôi-cát

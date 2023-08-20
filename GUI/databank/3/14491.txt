@@ -1,3 +1,7 @@
-dentate
-	@dentate /'denteit/\n*  tính từ\n- (động vật học) có răng\n- (thực vật học) có răng, có răng cưa (lá)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hình răng
-
+dentate	@dentate /'denteit/
+*  tính từ
+- (động vật học) có răng
+- (thực vật học) có răng, có răng cưa (lá)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hình răng

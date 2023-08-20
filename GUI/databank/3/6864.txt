@@ -1,3 +1,41 @@
-broken
-	@broken /'broukən/\n*  động tính từ quá khứ của break\n*  tính từ\n- bị gãy, bị vỡ\n- vụn\n=broken bread+ bánh mì vụn\n=broken meat+ thịt vụn; thịt thừa\n=broken tea+ chè vụn\n- đứt quãng, chập chờn, thất thường\n=broken words+ lời nói đứt quãng\n=broken sleep+ giấc ngủ chập chờn\n=broken weather+ thời tiết thất thường\n- nhấp nhô, gập ghềnh\n=broken ground+ đất nhấp nhô\n- suy nhược, ốm yếu, quỵ\n=broken health+ sức khoẻ suy nhược\n- tuyệt vọng, đau khổ\n=broken man+ người đau khổ tuyệt vọng\n=broken heart+ lòng đau dớn; sự đau lòng\n=to die of a broken heart+ chết vì đau buồn\n- nói sai\n=broken English+ tiếng Anh nói sai\n- không được tôn trọng, không được thực hiện\n=broken promise+ lời hứa không được tôn trọng\n@Chuyên ngành kinh tế\n-người phá sản\n@Chuyên ngành kỹ thuật\n-bị cắt\n-bị vỡ\n-đã nghiền\n-gãy\n-hở\n-vỡ\n@Lĩnh vực: toán & tin\n-bị (vỡ, gẫy)\n@Lĩnh vực: điện tử & viễn thông\n-bị ngặt\n@Lĩnh vực: xây dựng\n-đứt quãng\n@Lĩnh vực: hóa học & vật liệu\n-gẫy
-
+broken	@broken /'broukən/
+*  động tính từ quá khứ của break
+*  tính từ
+- bị gãy, bị vỡ
+- vụn
+=broken bread+ bánh mì vụn
+=broken meat+ thịt vụn; thịt thừa
+=broken tea+ chè vụn
+- đứt quãng, chập chờn, thất thường
+=broken words+ lời nói đứt quãng
+=broken sleep+ giấc ngủ chập chờn
+=broken weather+ thời tiết thất thường
+- nhấp nhô, gập ghềnh
+=broken ground+ đất nhấp nhô
+- suy nhược, ốm yếu, quỵ
+=broken health+ sức khoẻ suy nhược
+- tuyệt vọng, đau khổ
+=broken man+ người đau khổ tuyệt vọng
+=broken heart+ lòng đau dớn; sự đau lòng
+=to die of a broken heart+ chết vì đau buồn
+- nói sai
+=broken English+ tiếng Anh nói sai
+- không được tôn trọng, không được thực hiện
+=broken promise+ lời hứa không được tôn trọng
+@Chuyên ngành kinh tế
+-người phá sản
+@Chuyên ngành kỹ thuật
+-bị cắt
+-bị vỡ
+-đã nghiền
+-gãy
+-hở
+-vỡ
+@Lĩnh vực: toán & tin
+-bị (vỡ, gẫy)
+@Lĩnh vực: điện tử & viễn thông
+-bị ngặt
+@Lĩnh vực: xây dựng
+-đứt quãng
+@Lĩnh vực: hóa học & vật liệu
+-gẫy

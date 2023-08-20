@@ -1,3 +1,10 @@
-benzine
-	@benzine /'benzi:n/\n*  danh từ+ (benzoline)\n/'benzəli:n/\n- Et-xăng\n*  ngoại động từ\n- tẩy (vết bẩn) bằng ét xăng\n@Chuyên ngành kỹ thuật\n-xăng\n@Lĩnh vực: xây dựng\n-ét xăng
-
+benzine	@benzine /'benzi:n/
+*  danh từ+ (benzoline)
+/'benzəli:n/
+- Et-xăng
+*  ngoại động từ
+- tẩy (vết bẩn) bằng ét xăng
+@Chuyên ngành kỹ thuật
+-xăng
+@Lĩnh vực: xây dựng
+-ét xăng

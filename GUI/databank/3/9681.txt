@@ -1,3 +1,2 @@
-clavichordist
-	@clavichordist\n- xem clavichord
-
+clavichordist	@clavichordist
+- xem clavichord

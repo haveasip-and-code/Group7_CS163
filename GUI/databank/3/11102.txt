@@ -1,3 +1,2 @@
-conformer
-	@conformer\n- xem conform
-
+conformer	@conformer
+- xem conform

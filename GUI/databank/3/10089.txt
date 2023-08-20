@@ -1,3 +1,6 @@
-codon
-	@codon\n* danh từ\n- côđon (đơn vị mã); thể chuông\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-đơn vị mã
-
+codon	@codon
+* danh từ
+- côđon (đơn vị mã); thể chuông
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đơn vị mã

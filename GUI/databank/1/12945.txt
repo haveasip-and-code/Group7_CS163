@@ -1,0 +1,14 @@
+cubic	
+@cubic
+- bậc ba; phương trình bậc ba; đường bậc ba, cubic
+- bipartile c. đường bậc ba tách đôi hai nhánh (y =x (x
+-a) (x
+-b) 0 &lt; a &lt; b)
+- discriminating c. phương trình đặc trưng của mặt bậc ba
+- equianharmonic c. đường bậc ba đẳng phi điều
+- harmonic c. đường điều hoà bậc ba
+- nodal c. cubic có nút
+- osculating c. cubic mật tiếp
+- twisted c. cubic xoắn
+- two
+-cireuited c. cubic hai mạch

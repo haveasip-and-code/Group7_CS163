@@ -1,3 +1,2 @@
-bootlessness
-	@bootlessness\n- xem bootless
-
+bootlessness	@bootlessness
+- xem bootless

@@ -1,3 +1,6 @@
-baths
-	@Chuyên ngành kỹ thuật\n-buồng tắm\n-nhà tắm\n-sự nhúng\n-sự tắm\n-sự tẩm
-
+baths	@Chuyên ngành kỹ thuật
+-buồng tắm
+-nhà tắm
+-sự nhúng
+-sự tắm
+-sự tẩm

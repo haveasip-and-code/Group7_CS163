@@ -1,3 +1,4 @@
-deductibility
-	@deductibility\n- xem deductible\n@Chuyên ngành kinh tế\n-khả năng khấu trừ
-
+deductibility	@deductibility
+- xem deductible
+@Chuyên ngành kinh tế
+-khả năng khấu trừ

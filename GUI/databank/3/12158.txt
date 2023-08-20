@@ -1,3 +1,2 @@
-costs
-	@Chuyên ngành kinh tế\n-án phí
-
+costs	@Chuyên ngành kinh tế
+-án phí

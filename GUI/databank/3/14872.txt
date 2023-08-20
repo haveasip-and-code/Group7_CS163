@@ -1,3 +1,2 @@
-detachability
-	@detachability\n- xem detach
-
+detachability	@detachability
+- xem detach

@@ -1,3 +1,2 @@
-cushions
-	@Chuyên ngành kinh tế\n-kẹo mềm
-
+cushions	@Chuyên ngành kinh tế
+-kẹo mềm

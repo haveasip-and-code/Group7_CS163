@@ -1,3 +1,13 @@
-cave
-	@cave /'keivi/\n*  thán từ\n-(ngôn ngữ nhà trường),  (từ lóng) chú ý! (thầy giáo đến kia...)\n@Chuyên ngành kinh tế\n-lỗ (trong fomat)\n@Chuyên ngành kỹ thuật\n-chỗ lõm\n-động\n-hang\n-hố\n-hốc\n-khoang chứa tro\n-sự sụp đổ
-
+cave	@cave /'keivi/
+*  thán từ
+-(ngôn ngữ nhà trường),  (từ lóng) chú ý! (thầy giáo đến kia...)
+@Chuyên ngành kinh tế
+-lỗ (trong fomat)
+@Chuyên ngành kỹ thuật
+-chỗ lõm
+-động
+-hang
+-hố
+-hốc
+-khoang chứa tro
+-sự sụp đổ

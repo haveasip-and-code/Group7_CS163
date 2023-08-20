@@ -1,3 +1,5 @@
-consumables
-	@consumables /kən'sju:məblz/\n*  danh từ số nhiều\n- những thứ có thể tiêu dùng\n@Chuyên ngành kinh tế\n-hàng tiêu dùng
-
+consumables	@consumables /kən'sju:məblz/
+*  danh từ số nhiều
+- những thứ có thể tiêu dùng
+@Chuyên ngành kinh tế
+-hàng tiêu dùng

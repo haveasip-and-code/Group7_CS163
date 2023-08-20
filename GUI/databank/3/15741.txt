@@ -1,3 +1,6 @@
-discounter
-	@discounter\n* danh từ\n- xem discount shop\n- chủ cừa hàng bán giảm giá\n@Chuyên ngành kinh tế\n-người kinh doanh cửa hàng giá rẻ
-
+discounter	@discounter
+* danh từ
+- xem discount shop
+- chủ cừa hàng bán giảm giá
+@Chuyên ngành kinh tế
+-người kinh doanh cửa hàng giá rẻ

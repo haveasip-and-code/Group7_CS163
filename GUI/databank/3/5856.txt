@@ -1,3 +1,2 @@
-blatherer
-	@blatherer\n- xem blather
-
+blatherer	@blatherer
+- xem blather

@@ -1,3 +1,34 @@
-attach
-	@attach /ə'tætʃ/\n*  ngoại động từ\n- gắn, dán, trói buộc\n=to attach a label to a bag+ dán nhãn vào cái túi\n=to attach a stamp+ dán tem\n- tham, gia, gia nhập\n=to attach oneself to a political party+ tham gia một chính đảng\n- gắn bó\n=to be deeply attached to somebody+ hết sức gắn bó với ai; rất quyến luyến với ai\n- coi, cho là, gán cho\n=to attach importance to something+ coi việc gì là quan trọng\n=to attach little value to someone's statement+ coi lời tuyên bố của ai là không có giá trị mấy\n=to attach the blame to somebody+ gán (đổ) lỗi cho ai\n- (pháp lý) bắt giữ (ai); tịch biên (gia sản...)\n*  nội động từ\n- gắn liền với\n=the responsibility that attaches to that position+ trách nhiệm gắn liền với cương vị công tác đó\n@Chuyên ngành kinh tế\n-bắt giữ (ai)\n-tịch biên (tài sản ...)\n@Chuyên ngành kỹ thuật\n-buộc\n-buộc chặt\n-chống\n-cố định\n-dán\n-gắn\n-gắn liền\n-gia cố\n-kết nối\n-nối liền\n-thắt\n@Lĩnh vực: toán & tin\n-cột chặt
-
+attach	@attach /ə'tætʃ/
+*  ngoại động từ
+- gắn, dán, trói buộc
+=to attach a label to a bag+ dán nhãn vào cái túi
+=to attach a stamp+ dán tem
+- tham, gia, gia nhập
+=to attach oneself to a political party+ tham gia một chính đảng
+- gắn bó
+=to be deeply attached to somebody+ hết sức gắn bó với ai; rất quyến luyến với ai
+- coi, cho là, gán cho
+=to attach importance to something+ coi việc gì là quan trọng
+=to attach little value to someone's statement+ coi lời tuyên bố của ai là không có giá trị mấy
+=to attach the blame to somebody+ gán (đổ) lỗi cho ai
+- (pháp lý) bắt giữ (ai); tịch biên (gia sản...)
+*  nội động từ
+- gắn liền với
+=the responsibility that attaches to that position+ trách nhiệm gắn liền với cương vị công tác đó
+@Chuyên ngành kinh tế
+-bắt giữ (ai)
+-tịch biên (tài sản ...)
+@Chuyên ngành kỹ thuật
+-buộc
+-buộc chặt
+-chống
+-cố định
+-dán
+-gắn
+-gắn liền
+-gia cố
+-kết nối
+-nối liền
+-thắt
+@Lĩnh vực: toán & tin
+-cột chặt

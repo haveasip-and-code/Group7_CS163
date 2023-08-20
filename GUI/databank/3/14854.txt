@@ -1,3 +1,31 @@
-destroy
-	@destroy /dis'trɔi/\n*  ngoại động từ\n- phá, phá hoại, phá huỷ, tàn phá, tiêu diệt\n- làm mất hiệu lực, triệt phá\n=to destroy oneself+ tự sát\n@Chuyên ngành kinh tế\n-bất hữu dụng\n@Chuyên ngành kỹ thuật\n-bãi bỏ\n-bỏ đi\n-dẹp\n-diệt trừ\n-gạch bỏ\n-hủy bỏ\n-khử\n-phá hoại\n-phá hỏng\n-phá hủy\n-phá thai\n-phế bỏ\n-tàn phá\n-thủ tiêu\n-triệt tiêu\n-vô hiệu hóa\n-xóa\n@Lĩnh vực: xây dựng\n-hủy diện\n-kết liễu\n-tiêu hủy\n-trung lập hóa\n-xóa nhòa
-
+destroy	@destroy /dis'trɔi/
+*  ngoại động từ
+- phá, phá hoại, phá huỷ, tàn phá, tiêu diệt
+- làm mất hiệu lực, triệt phá
+=to destroy oneself+ tự sát
+@Chuyên ngành kinh tế
+-bất hữu dụng
+@Chuyên ngành kỹ thuật
+-bãi bỏ
+-bỏ đi
+-dẹp
+-diệt trừ
+-gạch bỏ
+-hủy bỏ
+-khử
+-phá hoại
+-phá hỏng
+-phá hủy
+-phá thai
+-phế bỏ
+-tàn phá
+-thủ tiêu
+-triệt tiêu
+-vô hiệu hóa
+-xóa
+@Lĩnh vực: xây dựng
+-hủy diện
+-kết liễu
+-tiêu hủy
+-trung lập hóa
+-xóa nhòa

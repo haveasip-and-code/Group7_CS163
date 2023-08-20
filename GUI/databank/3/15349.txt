@@ -1,3 +1,13 @@
-digit
-	@digit /'didʤit/\n*  danh từ\n- ngón chân, ngón tay\n- ngón (bề ngang ngón tay dùng làm đơn vị đo)\n- (thiên văn học) ngón (một phần mười hai đường kính mặt trời hoặc mặt trăng để đo nhật thực, nguyệt thực)\n- con số (A-rập)\n@Chuyên ngành kỹ thuật\n-hằng số\n-số\n@Lĩnh vực: điện\n-đơn vị số\n@Lĩnh vực: toán & tin\n-hàng số
-
+digit	@digit /'didʤit/
+*  danh từ
+- ngón chân, ngón tay
+- ngón (bề ngang ngón tay dùng làm đơn vị đo)
+- (thiên văn học) ngón (một phần mười hai đường kính mặt trời hoặc mặt trăng để đo nhật thực, nguyệt thực)
+- con số (A-rập)
+@Chuyên ngành kỹ thuật
+-hằng số
+-số
+@Lĩnh vực: điện
+-đơn vị số
+@Lĩnh vực: toán & tin
+-hàng số

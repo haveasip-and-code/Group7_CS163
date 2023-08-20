@@ -1,3 +1,5 @@
-agglutinin
-	@agglutinin\n* danh từ\n- chất làm dính,  aglutinin, ngưng kết tố\n@Chuyên ngành kỹ thuật\n-ngưng hết tố
-
+agglutinin	@agglutinin
+* danh từ
+- chất làm dính,  aglutinin, ngưng kết tố
+@Chuyên ngành kỹ thuật
+-ngưng hết tố

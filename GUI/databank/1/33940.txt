@@ -1,0 +1,73 @@
+matrix	@matrix
+- ma trận; lưới; bảng
+- adjoint m. ma trận liên hợp
+- atjugate m. ma trận phụ hợp
+- admittance m. ma trận dẫn nạp
+- alternate m. (đại số) ma trận thay phiên
+- associate m. ma trận liên hợp Heemit
+- associated m. ma trận liên đới
+- augmented m. ma trận bổ sung
+- best conditioned m. ma trận tói ưu có điều kiện, ma trận có điều kiện tốt
+- nhất
+- canoical m. ma trận chính tắc
+- chain m. ma trận xích
+- circulant m. ma trận giao hoán
+- companion m. ma trận bạn
+- complete correlation m. ma trận tương quan
+- composite m. (đại số) ma trận thành phần, ma trận (phức) hợp
+- compound m.s (đại số) ma trận đa hợp
+- conformable m. (ces) ma trận nhân được với nhau
+- conjugate m. (ces) ma trận liên hợp
+- constant m. bằng ma trận
+- cyclic m. ma trận xi lic
+- decomposable m. ma trận khai triển được
+- diagonal m. ma trận đường chéo
+- equivalent m. (ces) ma trận tương đương
+- factor m. (thống kê) ma trận các hệ số nhân tố
+- ferroelectric memory m. ma trậ nhớ sắt điện
+- gain m. ma trận tiền được cuộc
+- group m. ma trận nhóm
+- Hermitian m. ma trận Hecmit
+- idempotent m. (ces) ma trận luỹ đẳng
+- idempotent m. ma trận đơn vị
+- ill-conditionned m. ma trận điều kiện xấu
+- improper orthogonal m. ma trận trực giao bình thường
+- incidence m. ma trận liên thuộc
+- information m. ma trận thông tin
+- inverse m. (đại số) ma trận nghịch đảo
+- invertible m. ma trận khả nghịch
+- involutory m. (ces) ma trận đối hợp
+- minor definite m. ma trận xác định qua các định thức con
+- monomial m. ma trận đơn thức
+- nilpotent m. ma trận luỹ linh
+- non-recurrent circulant m. (đại số) ma trận luân hoàn không lặp lại
+- non-singular m. (đại số) ma trận không suy biến
+- normal m. ma trận chuẩn tắc
+- orthogonal m. ma trận trực giao
+- parastrophic m. (đại số) ma trận cấu trúc
+- partitioned m. (ces) ma trận phân phối
+- payoff m. ma trận tiền trả
+- permutation m. (đại số) ma trận hoán vị
+- positive m. ma trận dương
+- positively definite m. (đại số) ma trận xác định dương
+- quasi-inverse m. ma trận tựa nghịch đảo
+- reciprocal m. ma trận nghịch đảo
+- rectangular m. ma trận chữ nhật
+- regret m. ma trận tổn thất
+- resistor m. lưới cản, lưới kháng
+- scalar m. ma trận đường chéo
+- similar m.(ces) (đại số) các ma trận đồng dạng
+- singular m. ma trận suy biến
+- skew-symmetric m. ma trận phản đối xứng
+- square m. ma trận vuông
+- stochastic m. (đại số) ma trận ngẫu nhiên
+- symmetric(al) m. (đại số) ma trận đối xứng
+- transposed m. ma trận chuyển vị
+- triangular m. (đại số) ma trận tam giác
+- unimodular m. ma trận đơn môđula
+- unitary m. (đại số) ma trận unita
+- unit m. ma trận đơn vị
+- U-symmetric m. (ces) ma trận U- đối xứng
+- variation diminishing m. (đại số) ma trận giảm lao động
+- variation limiting m. (đại số) ma trận giới hạn dao động
+- zero m. ma trận không

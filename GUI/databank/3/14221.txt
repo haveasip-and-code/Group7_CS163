@@ -1,3 +1,2 @@
-delegatee
-	@Chuyên ngành kinh tế\n-người được ủy nhiệm
-
+delegatee	@Chuyên ngành kinh tế
+-người được ủy nhiệm

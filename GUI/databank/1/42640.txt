@@ -1,0 +1,11 @@
+population	@population
+- dân số; tập hợp
+- continuous p. (thống kê) tập hợp liên tục
+- dichotomous p. (thống kê) tập hợp lưỡng phân
+- finite p. (thống kê) tập hợp hữu hạn
+- hibrid p. (thống kê) tập hợp lai giống
+- hypothetic(al) p. (thống kê) tập hợp giả định
+- infinite p. (thống kê) tập hợp vô hạn
+- mixed p. (thống kê) tập hợp hỗn tạp
+- non-normal p. (thống kê) tập hợp không chuẩn
+- parent p. (thống kê) tập hợp tổng quát

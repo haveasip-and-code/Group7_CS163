@@ -1,3 +1,83 @@
-air
-	@air /eə/\n*  danh từ\n- không khí, bầu không khí; không gian, không trung\n=pure air+ không khí trong sạch\n=fresh air+ không khí mát mẻ\n=in the open air+ ở ngoài trời\n- (hàng không) máy bay; hàng không\n=to go by air+ đi bằng máy bay, đi bằng đường hàng không\n- làn gió nhẹ\n- (âm nhạc) khúc ca, khúc nhạc, điệu ca, điệu nhạc\n- vẻ, dáng, dáng điệu; khí sắc, diện mạo; thái độ\n=with a triumphant air+ với vẻ đắc thắng\n- (số nhiều) điệu bộ màu mè, vẻ ta đây\n=to give oneself airs and graces+ làm bộ màu mè, làm duyên, làm dáng\n=to give oneself airs; to put on (assume) air+ làm bộ, làm ra vẻ ta đây, lên mặt\n!to beat the air\n- mất công vô ích, luống công\n!to build castles in the air\n- (xem) castle\n!a change of air\n- (xem) change\n!to clear the air\n- (xem) clear\n!command (mastery) of the air\n- quyền bá chủ trên không\n!to disappear (melt, vanish) into thin air\n- tan vào không khí, tan biến đi\n!to fish in the air; to plough the air\n- mất công vô ích, luống công\n!to give somebody the air\n- (từ lóng) cho ai thôi việc, thải ai ra\n- cắt đứt quan hệ với ai\n!to go up in the air\n- mất tự chủ, mất bình tĩnh\n!hangdog air\n- vẻ hối lỗi\n- vẻ tiu nghỉu\n!in the air\n- hão huyền, viển vông, ở đâu đâu\n=his plan is still in the air+ kế hoạch của hắn còn ở đâu đâu\n- lan đi, lan khắp (tin đồn...)\n!to keep somebody in the air\n- để ai ở trong một trạng thái hoài nghi chờ đợi không hay biết gì\n!to make (turn) the air bleu\n- (xem) blue\n!on the air\n- (rađiô) đang phát thanh, đang truyền đi bằng rađiô\n!to saw the air\n- (xem) saw\n!to take air\n- lan đi, truyền đi, đồn đi (tin đồn...)\n!to take the air\n- dạo mát, hóng gió\n- (hàng không) cất cánh, bay lên\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tẩu, chuồn, trốn cho mau\n- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bị đuổi, bị thải\n!to tread on air\n- (xem) tread\n*  ngoại động từ\n- hóng gió, phơi gió, phơi\n- làm thoáng khí, làm thoáng gió, làm thông gió\n=to air oneself+ hóng gió, dạo mát\n- phô bày, phô trương\n=to air fine clothes+ phô quần áo đẹp\n- bộc lộ, thổ lộ\n=to air one's feelings+ thổ lộ tình cảm\n@Chuyên ngành kinh tế\n-không khí\n-không vận\n@Chuyên ngành kỹ thuật\n-gió\n-hàng không\n-khí nén\n-khoảng trắng\n-không khí\n-làm thoáng gió\n-phát đi\n-phát rộng\n-quạt trần\n-thông gió\n-thông hơi\n@Lĩnh vực: điện lạnh\n-làm thoáng khí
-
+air	@air /eə/
+*  danh từ
+- không khí, bầu không khí; không gian, không trung
+=pure air+ không khí trong sạch
+=fresh air+ không khí mát mẻ
+=in the open air+ ở ngoài trời
+- (hàng không) máy bay; hàng không
+=to go by air+ đi bằng máy bay, đi bằng đường hàng không
+- làn gió nhẹ
+- (âm nhạc) khúc ca, khúc nhạc, điệu ca, điệu nhạc
+- vẻ, dáng, dáng điệu; khí sắc, diện mạo; thái độ
+=with a triumphant air+ với vẻ đắc thắng
+- (số nhiều) điệu bộ màu mè, vẻ ta đây
+=to give oneself airs and graces+ làm bộ màu mè, làm duyên, làm dáng
+=to give oneself airs; to put on (assume) air+ làm bộ, làm ra vẻ ta đây, lên mặt
+!to beat the air
+- mất công vô ích, luống công
+!to build castles in the air
+- (xem) castle
+!a change of air
+- (xem) change
+!to clear the air
+- (xem) clear
+!command (mastery) of the air
+- quyền bá chủ trên không
+!to disappear (melt, vanish) into thin air
+- tan vào không khí, tan biến đi
+!to fish in the air; to plough the air
+- mất công vô ích, luống công
+!to give somebody the air
+- (từ lóng) cho ai thôi việc, thải ai ra
+- cắt đứt quan hệ với ai
+!to go up in the air
+- mất tự chủ, mất bình tĩnh
+!hangdog air
+- vẻ hối lỗi
+- vẻ tiu nghỉu
+!in the air
+- hão huyền, viển vông, ở đâu đâu
+=his plan is still in the air+ kế hoạch của hắn còn ở đâu đâu
+- lan đi, lan khắp (tin đồn...)
+!to keep somebody in the air
+- để ai ở trong một trạng thái hoài nghi chờ đợi không hay biết gì
+!to make (turn) the air bleu
+- (xem) blue
+!on the air
+- (rađiô) đang phát thanh, đang truyền đi bằng rađiô
+!to saw the air
+- (xem) saw
+!to take air
+- lan đi, truyền đi, đồn đi (tin đồn...)
+!to take the air
+- dạo mát, hóng gió
+- (hàng không) cất cánh, bay lên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tẩu, chuồn, trốn cho mau
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bị đuổi, bị thải
+!to tread on air
+- (xem) tread
+*  ngoại động từ
+- hóng gió, phơi gió, phơi
+- làm thoáng khí, làm thoáng gió, làm thông gió
+=to air oneself+ hóng gió, dạo mát
+- phô bày, phô trương
+=to air fine clothes+ phô quần áo đẹp
+- bộc lộ, thổ lộ
+=to air one's feelings+ thổ lộ tình cảm
+@Chuyên ngành kinh tế
+-không khí
+-không vận
+@Chuyên ngành kỹ thuật
+-gió
+-hàng không
+-khí nén
+-khoảng trắng
+-không khí
+-làm thoáng gió
+-phát đi
+-phát rộng
+-quạt trần
+-thông gió
+-thông hơi
+@Lĩnh vực: điện lạnh
+-làm thoáng khí

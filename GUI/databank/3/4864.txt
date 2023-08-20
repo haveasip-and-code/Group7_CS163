@@ -1,3 +1,2 @@
-bassoonist
-	@bassoonist\n- xem bassoon
-
+bassoonist	@bassoonist
+- xem bassoon

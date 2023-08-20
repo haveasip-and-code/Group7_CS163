@@ -1,3 +1,19 @@
-countersink
-	@countersink /'kauntəsiɳk/\n*  ngoại động từ (kỹ thuật)\n- khoét loe miệng (để đánh bóng hoặc ốc bắt vào không lồi lên)\n- đóng (đầu đinh) vào lỗ khoét loe miệng, bắt (đầu ốc) vào lỗ khoét loe miệng\n@Chuyên ngành kỹ thuật\n-dao khoét\n-dao khoét côn\n-khoét loe miệng\n-mũi khoét\n-mũi loe\n-mũi loe côn\n-sự khoét lỗ\n@Lĩnh vực: cơ khí & công trình\n-chìm (mũ đinh)\n-mặt loe\n@Lĩnh vực: xây dựng\n-đóng chìm\n@Lĩnh vực: ô tô\n-mặt vát lỗ ren
-
+countersink	@countersink /'kauntəsiɳk/
+*  ngoại động từ (kỹ thuật)
+- khoét loe miệng (để đánh bóng hoặc ốc bắt vào không lồi lên)
+- đóng (đầu đinh) vào lỗ khoét loe miệng, bắt (đầu ốc) vào lỗ khoét loe miệng
+@Chuyên ngành kỹ thuật
+-dao khoét
+-dao khoét côn
+-khoét loe miệng
+-mũi khoét
+-mũi loe
+-mũi loe côn
+-sự khoét lỗ
+@Lĩnh vực: cơ khí & công trình
+-chìm (mũ đinh)
+-mặt loe
+@Lĩnh vực: xây dựng
+-đóng chìm
+@Lĩnh vực: ô tô
+-mặt vát lỗ ren

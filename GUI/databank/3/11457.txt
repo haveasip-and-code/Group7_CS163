@@ -1,3 +1,2 @@
-consumership
-	@consumership\n- xem consumer
-
+consumership	@consumership
+- xem consumer

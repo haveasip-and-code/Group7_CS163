@@ -1,0 +1,2 @@
+nuke	@nuke
+- Xoá toàn bộ một thư mục hoặc toàn bộ đựa

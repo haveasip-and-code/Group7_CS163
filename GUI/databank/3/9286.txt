@@ -1,3 +1,2 @@
-chromosomal
-	@chromosomal\n- xem chromosome
-
+chromosomal	@chromosomal
+- xem chromosome

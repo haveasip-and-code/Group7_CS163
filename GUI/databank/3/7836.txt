@@ -1,3 +1,57 @@
-capacity
-	@capacity /kə'pæsiti/\n*  danh từ\n- sức chứa, chứa đựng, dung tích\n- năng lực khả năng; khả năng tiếp thu, khả năng thu nhận\n=a mind of great capacity+ trí óc sâu rộng\n=this book is within the capacity of young readers+ cuốn sách này các bạn đọc trẻ tuổi có thể hiểu được\n- năng suất\n=labour capacity+ năng suất lao động\n- tư cách, quyền hạn\n=in one's capacity as+ với tư cách là\n- (điện học) điện dung\n!capacity house\n- rạp hát chật ních khán giả\n!filled to capacity\n- đầy ắp\n!packed to capacity\n- chật ních\n@Chuyên ngành kinh tế\n-dung lượng\n-dung tích\n-khả năng\n-năng lực\n-năng lực sản xuất\n-năng suất\n-sức chứa\n-thể tích\n@Chuyên ngành kỹ thuật\n-điện dung\n-điện lượng\n-dung lượng\n-dung tích\n-khả năng\n-khả năng chịu lực\n-khả năng thông qua\n-lưu lượng\n-lưu lượng bơm\n-năng lực\n-năng suất\n-năng suất (lỗ khoan)\n-nhiệt dung\n-sản lượng\n-sức chứa\n-thể tích\n-trọng tải\n@Lĩnh vực: toán & tin\n-công suất\n@Lĩnh vực: điện\n-công suất biểu kiến\n@Lĩnh vực: xây dựng\n-độ dày vỉa quặng\n-khả năng mang được\n@Lĩnh vực: y học\n-dung lượng, dung tích\n@Lĩnh vực: ô tô\n-dung tích (động cơ)\n@Lĩnh vực: giao thông & vận tải\n-sức chở (hàng hóa)
-
+capacity	@capacity /kə'pæsiti/
+*  danh từ
+- sức chứa, chứa đựng, dung tích
+- năng lực khả năng; khả năng tiếp thu, khả năng thu nhận
+=a mind of great capacity+ trí óc sâu rộng
+=this book is within the capacity of young readers+ cuốn sách này các bạn đọc trẻ tuổi có thể hiểu được
+- năng suất
+=labour capacity+ năng suất lao động
+- tư cách, quyền hạn
+=in one's capacity as+ với tư cách là
+- (điện học) điện dung
+!capacity house
+- rạp hát chật ních khán giả
+!filled to capacity
+- đầy ắp
+!packed to capacity
+- chật ních
+@Chuyên ngành kinh tế
+-dung lượng
+-dung tích
+-khả năng
+-năng lực
+-năng lực sản xuất
+-năng suất
+-sức chứa
+-thể tích
+@Chuyên ngành kỹ thuật
+-điện dung
+-điện lượng
+-dung lượng
+-dung tích
+-khả năng
+-khả năng chịu lực
+-khả năng thông qua
+-lưu lượng
+-lưu lượng bơm
+-năng lực
+-năng suất
+-năng suất (lỗ khoan)
+-nhiệt dung
+-sản lượng
+-sức chứa
+-thể tích
+-trọng tải
+@Lĩnh vực: toán & tin
+-công suất
+@Lĩnh vực: điện
+-công suất biểu kiến
+@Lĩnh vực: xây dựng
+-độ dày vỉa quặng
+-khả năng mang được
+@Lĩnh vực: y học
+-dung lượng, dung tích
+@Lĩnh vực: ô tô
+-dung tích (động cơ)
+@Lĩnh vực: giao thông & vận tải
+-sức chở (hàng hóa)

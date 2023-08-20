@@ -1,0 +1,2 @@
+mos	@mos
+- (Viết tắt của Metal Oxide Semi-conduter) Chất bán dẫn thu được bởi sự kết tọa của một kim loại trên một lớp oxít, rồi chính lớp này ở trên một chất nền bán dẫn Công nghệ MOS đang được dùng để chế tạo các mạch tích hợp cũng như việc thực hiện các bộ nhớ

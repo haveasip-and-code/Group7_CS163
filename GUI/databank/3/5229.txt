@@ -1,3 +1,61 @@
-bend
-	@bend /bentʃ/\n*  danh từ\n- chỗ uốn, chỗ cong; chỗ rẽ\n=a bend in the road+ chỗ đường cong\n- khuỷ (tay, chân)\n- (hàng hải) chỗ nối (hai đầu dây); chỗ thắt nút\n- the bends (thông tục) bệnh khí ép, bệnh thợ lặn\n*  động từ\n- cúi xuống; cong xuống; uốn cong, làm cong\n=to bend the knees+ cong đầu gối\n=to be bent with age+ còng lưng vì tuổi gia\n- rẽ, hướng; hướng về, dồn về\n=the road bends to the left here+ ở chỗ này con đường rẽ về tay trái\n=to bend one's steps towards home+ hướng bước về nhà\n=to bend all one's energies to that one aim+ hướng (dồn) tất cả nghị lực cho mục đích duy nhất ấy\n- khuất phục, bắt phải theo\n=to bend someone's to one's will+ bắt ai phải theo ý muốn của mình\n!to be bent on\n- nhất quyết\n@Chuyên ngành kỹ thuật\n-bào xoi\n-bẻ cong\n-chỗ ngoặt\n-chỗ uốn cong\n-đầu gối\n-điểm uốn\n-độ cong\n-độ uốn\n-đường vòng\n-gấp mép\n-gấp nếp\n-khúc sông cong\n-khuỷu\n-khuỷu đường\n-khuỷu nối ống\n-khuỷu ống\n-làm nghiêng\n-làm vênh\n-nối mộng\n-ống cong\n-ống cút\n-ống góp\n-sự uốn\n-sự uốn cong\n-uốn\n-uốn cong\n-uốn nếp\n-viền\n-xoi rãnh\n@Lĩnh vực: xây dựng\n-chỗ uốn khuỷu\n-đoạn đường cong\n-khuỷu sông\n-làm vồng\n-sự gấp , nếp\n-sự uốn , nếp\n-uốn gấp\n@Lĩnh vực: cơ khí & công trình\n-đoạn sông cong\n@Lĩnh vực: giao thông & vận tải\n-khúc uốn
-
+bend	@bend /bentʃ/
+*  danh từ
+- chỗ uốn, chỗ cong; chỗ rẽ
+=a bend in the road+ chỗ đường cong
+- khuỷ (tay, chân)
+- (hàng hải) chỗ nối (hai đầu dây); chỗ thắt nút
+- the bends (thông tục) bệnh khí ép, bệnh thợ lặn
+*  động từ
+- cúi xuống; cong xuống; uốn cong, làm cong
+=to bend the knees+ cong đầu gối
+=to be bent with age+ còng lưng vì tuổi gia
+- rẽ, hướng; hướng về, dồn về
+=the road bends to the left here+ ở chỗ này con đường rẽ về tay trái
+=to bend one's steps towards home+ hướng bước về nhà
+=to bend all one's energies to that one aim+ hướng (dồn) tất cả nghị lực cho mục đích duy nhất ấy
+- khuất phục, bắt phải theo
+=to bend someone's to one's will+ bắt ai phải theo ý muốn của mình
+!to be bent on
+- nhất quyết
+@Chuyên ngành kỹ thuật
+-bào xoi
+-bẻ cong
+-chỗ ngoặt
+-chỗ uốn cong
+-đầu gối
+-điểm uốn
+-độ cong
+-độ uốn
+-đường vòng
+-gấp mép
+-gấp nếp
+-khúc sông cong
+-khuỷu
+-khuỷu đường
+-khuỷu nối ống
+-khuỷu ống
+-làm nghiêng
+-làm vênh
+-nối mộng
+-ống cong
+-ống cút
+-ống góp
+-sự uốn
+-sự uốn cong
+-uốn
+-uốn cong
+-uốn nếp
+-viền
+-xoi rãnh
+@Lĩnh vực: xây dựng
+-chỗ uốn khuỷu
+-đoạn đường cong
+-khuỷu sông
+-làm vồng
+-sự gấp , nếp
+-sự uốn , nếp
+-uốn gấp
+@Lĩnh vực: cơ khí & công trình
+-đoạn sông cong
+@Lĩnh vực: giao thông & vận tải
+-khúc uốn

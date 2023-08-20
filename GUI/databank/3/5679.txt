@@ -1,3 +1,3 @@
-bis
-	@bis /bis/\n*  phó từ\n- lát nữa, lần thứ hai
-
+bis	@bis /bis/
+*  phó từ
+- lát nữa, lần thứ hai

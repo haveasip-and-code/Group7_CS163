@@ -1,3 +1,9 @@
-dialing
-	@dialing\n- (Tech) quay số, bấm số, gọi điện thoại\n@Chuyên ngành kinh tế\n-sự quay số điện thoại\n@Chuyên ngành kỹ thuật\n-gọi điện thoại\n-sự quay số\n@Lĩnh vực: điện lạnh\n-sự chọn số
-
+dialing	@dialing
+- (Tech) quay số, bấm số, gọi điện thoại
+@Chuyên ngành kinh tế
+-sự quay số điện thoại
+@Chuyên ngành kỹ thuật
+-gọi điện thoại
+-sự quay số
+@Lĩnh vực: điện lạnh
+-sự chọn số

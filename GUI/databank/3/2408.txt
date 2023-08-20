@@ -1,3 +1,2 @@
-antecedents
-	@Chuyên ngành kinh tế\n-các tiền lệ
-
+antecedents	@Chuyên ngành kinh tế
+-các tiền lệ

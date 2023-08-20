@@ -1,3 +1,3 @@
-authorized
-	@Chuyên ngành kinh tế\n-được cho phép\n-được ủy quyền
-
+authorized	@Chuyên ngành kinh tế
+-được cho phép
+-được ủy quyền

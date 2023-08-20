@@ -1,3 +1,2 @@
-demography
-	@demography\n- (thống kê) khoa điều tra dân số
-
+demography	@demography
+- (thống kê) khoa điều tra dân số

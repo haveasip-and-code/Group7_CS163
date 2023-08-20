@@ -1,3 +1,8 @@
-coercivity
-	@coercivity\n- (Tech) độ kháng từ, lực kháng từ; tính kháng từ\n@Chuyên ngành kỹ thuật\n-độ kháng\n-độ kháng từ\n-lực kháng\n@Lĩnh vực: điện tử & viễn thông\n-sức lực
-
+coercivity	@coercivity
+- (Tech) độ kháng từ, lực kháng từ; tính kháng từ
+@Chuyên ngành kỹ thuật
+-độ kháng
+-độ kháng từ
+-lực kháng
+@Lĩnh vực: điện tử & viễn thông
+-sức lực

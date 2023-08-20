@@ -1,3 +1,2 @@
-clerkdom
-	@clerkdom\n- xem clerk
-
+clerkdom	@clerkdom
+- xem clerk

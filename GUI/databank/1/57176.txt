@@ -1,0 +1,34 @@
+town	@town /taun/
+*  danh từ
+- thành phố, thị xã
+=manufacturing town+ thành phố công nghiệp
+=out of town+ ở nông thôn
+- dân thành phố, bà con hàng phố
+=the whole town knows of it+ cả thành phố ai người ta cũng biết chuyện đó
+- phố (nơi có phố xá đông đúc của thành phố, trái với ngoại ô)
+=to go to town to do some shopping+ ra phố mua hàng
+- (Anh) thủ đô,  Luân đôn
+=to go to town+ ra thủ đô, đi Luân đôn; (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm om sòm, gây náo loạn; (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm (hành động) nhanh và có hiệu quả; (từ Mỹ,nghĩa Mỹ),  (từ lóng) thành công rực rỡ
+!man about town
+- (xem) about
+!to paint the town red
+- (từ lóng) làm om sòm, gây náo loạn, quấy phá (ở đường phố, tiệm rượu)
+!woman of the town
+- gái điếm, giá làng chơi
+@Chuyên ngành kinh tế
+-đô thị
+-khu buôn bán chính
+-thành phố
+-thành thị
+-thị trấn
+-thị xã
+-thương trấn
+-thương trường
+-trung tâm thương mại
+@Chuyên ngành kỹ thuật
+-đô thị
+-thành phố
+-thị trấn
+@Lĩnh vực: xây dựng
+-thành phố nhỏ
+-thị xã

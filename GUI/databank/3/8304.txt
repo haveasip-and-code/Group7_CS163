@@ -1,3 +1,6 @@
-caterer
-	@caterer /'keitərə/\n*  danh từ\n- người cung cấp lương thực, thực phẩm\n- chủ khách sạn, quản lý khách sạn\n@Chuyên ngành kỹ thuật\n-người giao hàng
-
+caterer	@caterer /'keitərə/
+*  danh từ
+- người cung cấp lương thực, thực phẩm
+- chủ khách sạn, quản lý khách sạn
+@Chuyên ngành kỹ thuật
+-người giao hàng

@@ -1,3 +1,2 @@
-commutativity
-	@commutativity\n- xem commutative
-
+commutativity	@commutativity
+- xem commutative

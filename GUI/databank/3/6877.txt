@@ -1,3 +1,2 @@
-bromidic
-	@bromidic\n- xem bromide
-
+bromidic	@bromidic
+- xem bromide

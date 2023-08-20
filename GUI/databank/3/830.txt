@@ -1,3 +1,2 @@
-admonisher
-	@admonisher\n- xem admonish
-
+admonisher	@admonisher
+- xem admonish

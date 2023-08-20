@@ -1,3 +1,8 @@
-accelerated
-	@Chuyên ngành kỹ thuật\n-được tăng tốc\n-gia tốc\n@Lĩnh vực: điện lạnh\n-đã gia tốc\n-đã tăng tốc\n@Lĩnh vực: vật lý\n-được gia tốc
-
+accelerated	@Chuyên ngành kỹ thuật
+-được tăng tốc
+-gia tốc
+@Lĩnh vực: điện lạnh
+-đã gia tốc
+-đã tăng tốc
+@Lĩnh vực: vật lý
+-được gia tốc

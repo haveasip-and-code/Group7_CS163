@@ -1,3 +1,18 @@
-cubicle
-	@cubicle /'kju:bikl/\n*  danh từ\n- phòng ngủ nhỏ (ở bệnh viên, trường học...)\n@Chuyên ngành kỹ thuật\n-buồng\n-gian\n-phòng cách ly\n-tủ\n@Lĩnh vực: xây dựng\n-buồng ngủ nhỏ\n-buồng thay quần áo\n@Lĩnh vực: điện\n-ngăn buồng\n-tủ điện\n@Lĩnh vực: toán & tin\n-phần dành riêng\n-phân khu\n-vùng
-
+cubicle	@cubicle /'kju:bikl/
+*  danh từ
+- phòng ngủ nhỏ (ở bệnh viên, trường học...)
+@Chuyên ngành kỹ thuật
+-buồng
+-gian
+-phòng cách ly
+-tủ
+@Lĩnh vực: xây dựng
+-buồng ngủ nhỏ
+-buồng thay quần áo
+@Lĩnh vực: điện
+-ngăn buồng
+-tủ điện
+@Lĩnh vực: toán & tin
+-phần dành riêng
+-phân khu
+-vùng

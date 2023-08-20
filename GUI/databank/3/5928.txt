@@ -1,3 +1,2 @@
-blinds
-	@Chuyên ngành kỹ thuật\n-tấm chắn sáng
-
+blinds	@Chuyên ngành kỹ thuật
+-tấm chắn sáng

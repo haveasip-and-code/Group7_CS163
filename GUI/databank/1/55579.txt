@@ -1,0 +1,27 @@
+tapping	@Chuyên ngành kinh tế
+-sự chế biến kẹo socola
+-sự lấy ra
+-sự rót
+@Chuyên ngành kỹ thuật
+-đầu dây ra (từ biến áp)
+-lưu vực thử nghiệm
+-mạch nhánh
+-mạch rẽ
+-mẻ ra
+-phân nhánh
+-sự cắt ren trong
+-sự chọc mạch nước
+-sự nối nhánh
+-sự phân nhánh
+-sự rẽ mạch
+-sự tháo ra
+@Lĩnh vực: y học
+-chích rút
+@Lĩnh vực: điện lạnh
+-đầu dây ra (của biến thế)
+@Lĩnh vực: cơ khí & công trình
+-sự đục lỗ tháo (đúc)
+-sự tarô
+-sự tháo chất lỏng
+@Lĩnh vực: xây dựng
+-sự ta rô

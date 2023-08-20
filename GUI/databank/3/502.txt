@@ -1,3 +1,12 @@
-acidimeter
-	@acidimeter /,æsi'dimitə/\n*  danh từ\n- cái đo axit\n@Chuyên ngành kinh tế\n-tỷ trọng kế axit\n@Chuyên ngành kỹ thuật\n-acid kế\n-axit kế\n@Lĩnh vực: cơ khí & công trình\n-cái đo axit\n@Lĩnh vực: điện\n-tỉ trọng kế axit
-
+acidimeter	@acidimeter /,æsi'dimitə/
+*  danh từ
+- cái đo axit
+@Chuyên ngành kinh tế
+-tỷ trọng kế axit
+@Chuyên ngành kỹ thuật
+-acid kế
+-axit kế
+@Lĩnh vực: cơ khí & công trình
+-cái đo axit
+@Lĩnh vực: điện
+-tỉ trọng kế axit

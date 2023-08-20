@@ -1,3 +1,37 @@
-breed
-	@breed /bri:d/\n*  danh từ\n- nòi, giống\n- dòng dõi\n*  (bất qui tắc) ngoại động từ bred\n/bred/\n- gây giống; chăn nuôi\n=to breed horses+ gây giống ngựa, chăn nuôi ngựa\n- nuôi dưỡng, chăm sóc; dạy dỗ; giáo dục\n=to be bread [to be] a doctor+ được nuôi ăn học thành bác sĩ\n- gây ra, phát sinh ra\n=dirt breeds diseases+ bụi bặm làm phát sinh ra bệnh tật\n*  (bất qui tắc) nội động từ bred\n/bred/\n- sinh sản, sinh đẻ\n=birds breed in spring+ chim sinh sản vào mùa xuân\n- náy ra, phát sinh ra; lan tràn\n=dissensions breed among them+ giữa họ đã nảy ra những mối bất hoà\n- chăn nuôi\n!to breed in and in\n- dựng vợ gả chồng trong họ hàng gần với nhau\n!to breed out and out\n- lấy vợ lấy chồng người ngoài họ\n!too much familiarity breeds contempt\n- (xem) contempt\n!what is bred in the bone will not go (come) out of the flesh\n- (xem) bone\n@Chuyên ngành kinh tế\n-chủng\n-gây giống\n-giống\n-nuôi giống\n@Chuyên ngành kỹ thuật\n-sinh\n-sinh ra\n@Lĩnh vực: toán & tin\n-sinh sôi
-
+breed	@breed /bri:d/
+*  danh từ
+- nòi, giống
+- dòng dõi
+*  (bất qui tắc) ngoại động từ bred
+/bred/
+- gây giống; chăn nuôi
+=to breed horses+ gây giống ngựa, chăn nuôi ngựa
+- nuôi dưỡng, chăm sóc; dạy dỗ; giáo dục
+=to be bread [to be] a doctor+ được nuôi ăn học thành bác sĩ
+- gây ra, phát sinh ra
+=dirt breeds diseases+ bụi bặm làm phát sinh ra bệnh tật
+*  (bất qui tắc) nội động từ bred
+/bred/
+- sinh sản, sinh đẻ
+=birds breed in spring+ chim sinh sản vào mùa xuân
+- náy ra, phát sinh ra; lan tràn
+=dissensions breed among them+ giữa họ đã nảy ra những mối bất hoà
+- chăn nuôi
+!to breed in and in
+- dựng vợ gả chồng trong họ hàng gần với nhau
+!to breed out and out
+- lấy vợ lấy chồng người ngoài họ
+!too much familiarity breeds contempt
+- (xem) contempt
+!what is bred in the bone will not go (come) out of the flesh
+- (xem) bone
+@Chuyên ngành kinh tế
+-chủng
+-gây giống
+-giống
+-nuôi giống
+@Chuyên ngành kỹ thuật
+-sinh
+-sinh ra
+@Lĩnh vực: toán & tin
+-sinh sôi

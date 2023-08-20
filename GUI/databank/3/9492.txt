@@ -1,3 +1,4 @@
-circumstances
-	@Chuyên ngành kinh tế\n-hoàn cảnh\n-tình huống\n-trường hợp
-
+circumstances	@Chuyên ngành kinh tế
+-hoàn cảnh
+-tình huống
+-trường hợp

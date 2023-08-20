@@ -1,3 +1,6 @@
-anticorrosive
-	@anticorrosive\n- (Tech) chống ăn mòn\n@Chuyên ngành kinh tế\n-chống ăn mòn\n@Chuyên ngành kỹ thuật\n-chống gỉ
-
+anticorrosive	@anticorrosive
+- (Tech) chống ăn mòn
+@Chuyên ngành kinh tế
+-chống ăn mòn
+@Chuyên ngành kỹ thuật
+-chống gỉ

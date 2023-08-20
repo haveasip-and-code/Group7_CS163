@@ -1,3 +1,7 @@
-assignable
-	@assignable\n* tính từ\n- <pháp> có thể nhượng lại được, có thể chuyển nhượng\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-có thể gán được\n-không ngẫu nhiên
-
+assignable	@assignable
+* tính từ
+- <pháp> có thể nhượng lại được, có thể chuyển nhượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-có thể gán được
+-không ngẫu nhiên

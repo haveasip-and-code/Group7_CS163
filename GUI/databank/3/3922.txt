@@ -1,3 +1,12 @@
-auction
-	@auction /'ɔ:kʃn/\n*  danh từ\n- sự bán đấu giá\n=to put up to (Mỹ: at) auction; to sell by (Mỹ: at) auction+ bán đấu giá\n@Chuyên ngành kinh tế\n-bán đấu giá\n-đấu giá\n-sự bán đấu giá\n@Chuyên ngành kỹ thuật\n-bán đấu giá\n@Lĩnh vực: xây dựng\n-sự đấu giá
-
+auction	@auction /'ɔ:kʃn/
+*  danh từ
+- sự bán đấu giá
+=to put up to (Mỹ: at) auction; to sell by (Mỹ: at) auction+ bán đấu giá
+@Chuyên ngành kinh tế
+-bán đấu giá
+-đấu giá
+-sự bán đấu giá
+@Chuyên ngành kỹ thuật
+-bán đấu giá
+@Lĩnh vực: xây dựng
+-sự đấu giá

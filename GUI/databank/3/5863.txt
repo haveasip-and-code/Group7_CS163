@@ -1,3 +1,2 @@
-blazoner
-	@blazoner\n- xem blazon
-
+blazoner	@blazoner
+- xem blazon

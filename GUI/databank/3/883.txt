@@ -1,3 +1,5 @@
-adsorptive
-	@adsorptive\n- xem adsorption\n@Chuyên ngành kỹ thuật\n-hấp phụ\n-hấp thụ
-
+adsorptive	@adsorptive
+- xem adsorption
+@Chuyên ngành kỹ thuật
+-hấp phụ
+-hấp thụ

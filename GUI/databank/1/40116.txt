@@ -1,0 +1,15 @@
+payload	@payload
+* danh từ
+- trọng tải trả tiền (khách hàng, hàng vận chuyển )
+- lượng chất nổ (đầu tên lửa)
+- trọng tải (thiết bị mang theo một vệ tinh, con tàu vũ trụ)
+@Chuyên ngành kinh tế
+-phần trọng tải được trả tiền
+-trọng tải
+-trọng tải trả tiền
+@Chuyên ngành kỹ thuật
+-phụ tải thương mại
+-trọng lượng vận chuyển
+@Lĩnh vực: điện tử & viễn thông
+-gánh có ích (của vệ tinh)
+-phụ tải có ích (của vệ tinh)

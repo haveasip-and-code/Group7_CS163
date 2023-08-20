@@ -1,3 +1,2 @@
-astrometric
-	@astrometric\n- xem astrometry
-
+astrometric	@astrometric
+- xem astrometry

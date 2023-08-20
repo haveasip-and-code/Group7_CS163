@@ -1,3 +1,15 @@
-advertisement
-	@advertisement /əd'və:tismənt/\n*  danh từ\n- sự quảng cáo; bài quảng cáo (trên báo, trên đài...)\n- tờ quảng cáo; tờ yết thị; tờ thông báo (dán trên tường...)\n!advertisement column\n- cột quảng cáo, mục quảng cáo\n@Chuyên ngành kinh tế\n-quảng cáo nhỏ\n-quảng cáo phân loại\n-rao vặt\n-sự quảng cáo\n-tờ quảng cáo\n@Chuyên ngành kỹ thuật\n-quảng cáo\n-sự quảng cáo
-
+advertisement	@advertisement /əd'və:tismənt/
+*  danh từ
+- sự quảng cáo; bài quảng cáo (trên báo, trên đài...)
+- tờ quảng cáo; tờ yết thị; tờ thông báo (dán trên tường...)
+!advertisement column
+- cột quảng cáo, mục quảng cáo
+@Chuyên ngành kinh tế
+-quảng cáo nhỏ
+-quảng cáo phân loại
+-rao vặt
+-sự quảng cáo
+-tờ quảng cáo
+@Chuyên ngành kỹ thuật
+-quảng cáo
+-sự quảng cáo

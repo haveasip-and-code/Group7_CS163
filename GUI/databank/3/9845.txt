@@ -1,3 +1,2 @@
-clonally
-	@clonally\n- xem clone
-
+clonally	@clonally
+- xem clone

@@ -1,3 +1,10 @@
-coated
-	@coated\n- xem coat\n@Chuyên ngành kỹ thuật\n-có lớp bảo vệ\n-được bọc\n-được phủ\n-được phủ (chất dẻo)\n@Lĩnh vực: xây dựng\n-được che phủ\n-được trát mặt
-
+coated	@coated
+- xem coat
+@Chuyên ngành kỹ thuật
+-có lớp bảo vệ
+-được bọc
+-được phủ
+-được phủ (chất dẻo)
+@Lĩnh vực: xây dựng
+-được che phủ
+-được trát mặt

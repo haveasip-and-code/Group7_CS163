@@ -1,0 +1,4 @@
+threshold	@threshold
+- mức; ngưỡng
+- resolution t. ngưỡng giải
+- signal t. (điều khiển học) ngưỡng tín hiệu

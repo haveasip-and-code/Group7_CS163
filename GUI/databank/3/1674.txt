@@ -1,3 +1,8 @@
-alphabetize
-	@alphabetize /ælfəbetaiz/ (alphabetize) /ælfəbetaiz/\n*  ngoại động từ\n- sắp xếp theo thứ tự abc\n- diễn đạt bằng hệ thống chữ cái\n- xây dựng mọi hệ thống chữ cái cho\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-xếp theo vần chữ
-
+alphabetize	@alphabetize /ælfəbetaiz/ (alphabetize) /ælfəbetaiz/
+*  ngoại động từ
+- sắp xếp theo thứ tự abc
+- diễn đạt bằng hệ thống chữ cái
+- xây dựng mọi hệ thống chữ cái cho
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-xếp theo vần chữ

@@ -1,3 +1,19 @@
-definition
-	@definition /,defi'niʃn/\n*  danh từ\n- sự định nghĩa, lời định nghĩa\n- sự định, sự định rõ, sự xác định (quyền lợi, ranh giới...)\n- (vật lý) sự rõ nét (hình ảnh); độ rõ (âm thanh)\n@Chuyên ngành kinh tế\n-độ nét\n-độ rõ\n-sự định nghĩa\n-xác định rõ\n@Chuyên ngành kỹ thuật\n-định nghĩa\n-độ nét\n-độ phân giải\n-độ rõ nét\n-sự định nghĩa\n-sự xác định\n@Lĩnh vực: điện lạnh\n-độ rõ (nét)
-
+definition	@definition /,defi'niʃn/
+*  danh từ
+- sự định nghĩa, lời định nghĩa
+- sự định, sự định rõ, sự xác định (quyền lợi, ranh giới...)
+- (vật lý) sự rõ nét (hình ảnh); độ rõ (âm thanh)
+@Chuyên ngành kinh tế
+-độ nét
+-độ rõ
+-sự định nghĩa
+-xác định rõ
+@Chuyên ngành kỹ thuật
+-định nghĩa
+-độ nét
+-độ phân giải
+-độ rõ nét
+-sự định nghĩa
+-sự xác định
+@Lĩnh vực: điện lạnh
+-độ rõ (nét)

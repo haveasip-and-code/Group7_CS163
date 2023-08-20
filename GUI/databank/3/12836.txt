@@ -1,3 +1,2 @@
-crumply
-	@crumply\n- xem crumple
-
+crumply	@crumply
+- xem crumple

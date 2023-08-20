@@ -1,3 +1,2 @@
-blurter
-	@blurter\n- xem blurt
-
+blurter	@blurter
+- xem blurt

@@ -1,3 +1,2 @@
-coinable
-	@coinable\n- xem coin
-
+coinable	@coinable
+- xem coin

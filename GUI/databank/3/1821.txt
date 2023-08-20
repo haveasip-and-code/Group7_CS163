@@ -1,3 +1,2 @@
-ambusher
-	@ambusher\n- xem ambush
-
+ambusher	@ambusher
+- xem ambush

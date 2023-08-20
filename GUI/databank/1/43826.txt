@@ -1,0 +1,20 @@
+product	@product /product/
+*  danh từ
+- sản vật, sản phẩm, vật phẩm
+- kết quả
+- (toán học) tích
+- (hoá học) sản phẩm
+=end product+ sản phẩm cuối
+=intermediate product+ sản phẩm trung gian
+@Chuyên ngành kinh tế
+-kết quả
+-sản phẩm
+-sản vật
+-thành quả
+-vật phẩm
+@Chuyên ngành kỹ thuật
+-kết quả
+-sản phẩm
+-sản vật
+@Lĩnh vực: toán & tin
+-tích số

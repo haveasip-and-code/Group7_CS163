@@ -1,0 +1,53 @@
+lane	@lane /lein/
+*  danh từ
+- đường nhỏ, đường làng
+- đường hẻm, ngõ hẻm (ở thành phố)
+- khoảng giữa hàng người
+- đường quy định cho tàu biển
+- đường dành riêng cho xe cộ đi hàng một
+!it is a long lane that has no turning
+- hết cơn bỉ cực đến tuần thái lai
+@Chuyên ngành kinh tế
+-đường chạy số 1
+@Chuyên ngành kỹ thuật
+-đường bay
+-đường nhỏ
+-đường phố
+-lạch
+-làn đường
+-làn xe
+-lối đi
+-luồng lạch
+-ngõ
+-tuyến đường biển
+@Lĩnh vực: xây dựng
+-dải giao thông
+-đường làng
+-đường một chiều
+-ngõ hẻm
+@Lĩnh vực: ô tô
+-đường hẹp
+-tuyến xe
+@Lĩnh vực: giao thông & vận tải
+-lằn đường
+@Chuyên ngành kỹ thuật
+-đường bay
+-đường nhỏ
+-đường phố
+-lạch
+-làn đường
+-làn xe
+-lối đi
+-luồng lạch
+-ngõ
+-tuyến đường biển
+@Lĩnh vực: xây dựng
+-dải giao thông
+-đường làng
+-đường một chiều
+-ngõ hẻm
+@Lĩnh vực: ô tô
+-đường hẹp
+-tuyến xe
+@Lĩnh vực: giao thông & vận tải
+-lằn đường

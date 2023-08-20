@@ -1,3 +1,24 @@
-coupler
-	@coupler /'kʌplə/\n*  danh từ\n- người mắc nối\n- cái mắc nối, bộ nối\n@Chuyên ngành kỹ thuật\n-bộ ghép\n-bộ ghép nối\n-bộ nối\n-bộ nối có chốt\n-cốt đai\n-khớp nối\n-khớp nối (truyền động)\n-khớp trục\n-người móc toa (xe)\n-móc nối\n-phích cắm\n-vòng kẹp\n@Lĩnh vực: điện lạnh\n-bộ ghép mạch\n@Lĩnh vực: xây dựng\n-bộ nối neo\n@Lĩnh vực: cơ khí & công trình\n-khớp (nối)\n-móc tự nối (toa xe)
-
+coupler	@coupler /'kʌplə/
+*  danh từ
+- người mắc nối
+- cái mắc nối, bộ nối
+@Chuyên ngành kỹ thuật
+-bộ ghép
+-bộ ghép nối
+-bộ nối
+-bộ nối có chốt
+-cốt đai
+-khớp nối
+-khớp nối (truyền động)
+-khớp trục
+-người móc toa (xe)
+-móc nối
+-phích cắm
+-vòng kẹp
+@Lĩnh vực: điện lạnh
+-bộ ghép mạch
+@Lĩnh vực: xây dựng
+-bộ nối neo
+@Lĩnh vực: cơ khí & công trình
+-khớp (nối)
+-móc tự nối (toa xe)

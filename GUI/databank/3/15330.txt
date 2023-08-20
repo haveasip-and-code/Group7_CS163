@@ -1,3 +1,4 @@
-diffusivity
-	@Chuyên ngành kỹ thuật\n-độ khuếch tán\n@Lĩnh vực: xây dựng\n-tính khuếch tán
-
+diffusivity	@Chuyên ngành kỹ thuật
+-độ khuếch tán
+@Lĩnh vực: xây dựng
+-tính khuếch tán

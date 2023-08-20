@@ -1,3 +1,14 @@
-discrete
-	@discrete /dis'kri:t/\n*  tính từ\n- riêng biệt, riêng rẽ, rời rạc\n=discrete space+ (toán học) không gian rời rạc\n- (triết học) trừu tượng\n@Chuyên ngành kỹ thuật\n-gián đoạn\n-riêng biệt\n-rời (rạc)\n-rời rạc\n@Lĩnh vực: điện lạnh\n-phân lập\n@Lĩnh vực: xây dựng\n-trừu tượng
-
+discrete	@discrete /dis'kri:t/
+*  tính từ
+- riêng biệt, riêng rẽ, rời rạc
+=discrete space+ (toán học) không gian rời rạc
+- (triết học) trừu tượng
+@Chuyên ngành kỹ thuật
+-gián đoạn
+-riêng biệt
+-rời (rạc)
+-rời rạc
+@Lĩnh vực: điện lạnh
+-phân lập
+@Lĩnh vực: xây dựng
+-trừu tượng

@@ -1,3 +1,4 @@
-desalinize
-	@Chuyên ngành kỹ thuật\n-khử mặn\n-khử muối\n-loại bỏ muối
-
+desalinize	@Chuyên ngành kỹ thuật
+-khử mặn
+-khử muối
+-loại bỏ muối

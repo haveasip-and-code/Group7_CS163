@@ -1,3 +1,61 @@
-action
-	@action /'ækʃn/\n*  danh từ\n- hành động, hành vi; hoạt động; công việc, việc làm\n=a man of action+ con người hành động\n=to take prompt action+ hành động tức khắc, hành động kịp thời\n- tác động, tác dụng, ảnh hưởng\n=the sunlight has action on certain materials+ ánh nắng có tác động đến một số chất\n=action of acid+ tác dụng của axit\n- sự chiến đấu, trận đánh\n=to go into action+ bắt đầu đánh nhau, bắt đầu chiến đấu\n=to break off an action+ ngừng chiến đấu, ngừng bắn\n=to be killed in action+ bị hy sinh trong chiến đấu\n=to be put out of action+ bị loại khỏi vòng chiến đấu\n- việc kiện, sự tố tụng\n=to take (bring) an action against+ kiện (ai...)\n- sự diễn biến, quá trình diễn biến (của vở kịch)\n- động tác, dáng điệu, bộ điệu, bộ tịch\n=action of a player+ bộ điệu của một diễn viên\n=action of a horse+ dáng đi của một con ngựa\n- bộ máy, cơ cấu (đàn pianô, máy...); sự hoạt động của bộ máy\n!action committee\n- uỷ ban hành động\n!action position\n- (quân sự) vị trí của quân đội trước khi bước vào chiến đấu\n!action speak louder than words\n- (xem) speak\n*  ngoại động từ\n- kiện, thưa kiện\n@Chuyên ngành kinh tế\n-ảnh hưởng\n-hành động\n-hành vi\n-sự tố tụng\n-tác động\n-tác dụng\n-việc kiện\n-việc làm\n-vụ kiện\n@Chuyên ngành kỹ thuật\n-ảnh hưởng\n-cơ cấu va đập\n-động tác\n-hành động\n-hoạt động\n-nhiệm vụ\n-sự hoạt động\n-sự tác động\n-sự tác dụng\n-sự thao tác\n-sự thực thi\n-sự vận động\n-tác động\n-thao tác\n@Lĩnh vực: toán & tin\n-cảnh quay\n-sự hành động\n@Lĩnh vực: hóa học & vật liệu\n-làm tác dụng\n@Lĩnh vực: xây dựng\n-việc kiện cáo\n-việc tố tụng
-
+action	@action /'ækʃn/
+*  danh từ
+- hành động, hành vi; hoạt động; công việc, việc làm
+=a man of action+ con người hành động
+=to take prompt action+ hành động tức khắc, hành động kịp thời
+- tác động, tác dụng, ảnh hưởng
+=the sunlight has action on certain materials+ ánh nắng có tác động đến một số chất
+=action of acid+ tác dụng của axit
+- sự chiến đấu, trận đánh
+=to go into action+ bắt đầu đánh nhau, bắt đầu chiến đấu
+=to break off an action+ ngừng chiến đấu, ngừng bắn
+=to be killed in action+ bị hy sinh trong chiến đấu
+=to be put out of action+ bị loại khỏi vòng chiến đấu
+- việc kiện, sự tố tụng
+=to take (bring) an action against+ kiện (ai...)
+- sự diễn biến, quá trình diễn biến (của vở kịch)
+- động tác, dáng điệu, bộ điệu, bộ tịch
+=action of a player+ bộ điệu của một diễn viên
+=action of a horse+ dáng đi của một con ngựa
+- bộ máy, cơ cấu (đàn pianô, máy...); sự hoạt động của bộ máy
+!action committee
+- uỷ ban hành động
+!action position
+- (quân sự) vị trí của quân đội trước khi bước vào chiến đấu
+!action speak louder than words
+- (xem) speak
+*  ngoại động từ
+- kiện, thưa kiện
+@Chuyên ngành kinh tế
+-ảnh hưởng
+-hành động
+-hành vi
+-sự tố tụng
+-tác động
+-tác dụng
+-việc kiện
+-việc làm
+-vụ kiện
+@Chuyên ngành kỹ thuật
+-ảnh hưởng
+-cơ cấu va đập
+-động tác
+-hành động
+-hoạt động
+-nhiệm vụ
+-sự hoạt động
+-sự tác động
+-sự tác dụng
+-sự thao tác
+-sự thực thi
+-sự vận động
+-tác động
+-thao tác
+@Lĩnh vực: toán & tin
+-cảnh quay
+-sự hành động
+@Lĩnh vực: hóa học & vật liệu
+-làm tác dụng
+@Lĩnh vực: xây dựng
+-việc kiện cáo
+-việc tố tụng

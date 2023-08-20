@@ -1,0 +1,4 @@
+patchboard	@Chuyên ngành kỹ thuật
+-bảng nối tạm
+-bảng ổ cắm
+-bảng phân phối

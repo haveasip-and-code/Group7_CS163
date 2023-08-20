@@ -1,90 +1,985 @@
-Databank "ENG-VIET-1" was created.
+
+databank/1
 Load from: databank/1/TST.txt
-Bulk loading from bulkData/light.txt in 0.124000ms
-Save to file databank/1/TST.txt
-Failure when trying to get definition of string "abet": Either a exception or the word haven't been added.
-Save to file databank/1/TST.txt
+This go here
+databank/1
+databank/1
 Load from: databank/1/TST.txt
-Bulk loading from bulkData/light.txt in 0.134600ms
-Save to file databank/1/TST.txt
-Failure when trying to get definition of string "abet": Either a exception or the word haven't been added.
-Save to file databank/1/TST.txt
+This go here
+databank/1
+databank/1
 Load from: databank/1/TST.txt
-Bulk loading from bulkData/light.txt in 73.152000ms
-Save to file databank/1/TST.txt
-Successful when trying to get definition of string "abet"!!!
-Save to file databank/1/TST.txt
+This go here
+databank/1
+databank/1
 Load from: databank/1/TST.txt
-Bulk loading from abet in 0.279100ms
-Save to file databank/1/TST.txt
-Successful when trying to get definition of string "abet"!!!
-Databank "ENG-VIET-2" was created.
-Load from: databank/2/TST.txt
-Failure when trying to get definition of string "bulkData/common-english-viet-words.txt": Either a exception or the word haven't been added.
-Failure when trying to get definition of string "potato": Either a exception or the word haven't been added.
-Failure when trying to get definition of string "abet": Either a exception or the word haven't been added.
-Bulk loading from bulkData/common-english-viet-words.txt in 562109.307000ms
-Save to file databank/2/TST.txt
-Successful when trying to get definition of string "abet"!!!
-Save to file databank/2/TST.txt
-Load from: databank/2/TST.txt
-Successful when trying to get definition of string "zoology"!!!
-Save to file databank/2/TST.txt
-Load from: databank/2/TST.txt
-Successful when trying to get definition of string "zoology"!!!
-Save to file databank/2/TST.txt
-Load from: databank/2/TST.txt
-Successful when trying to get definition of string "abet"!!!
-Successful when trying to get definition of string "potato"!!!
-Successful when trying to get definition of string "establish"!!!
-Failure when trying to get definition of string "32": Either a exception or the word haven't been added.
-Bulk loading from 666 in 0.139900ms
-Save to file databank/2/TST.txt
-Load from: databank/2/TST.txt
-Successful when trying to get definition of string "teacher"!!!
-Successful when trying to get definition of string "resistance"!!!
+This go here
+databank/1
+databank/1
 Load from: databank/1/TST.txt
-Bulk loading from bulkData/common-english-words.txt in 2.889500ms
-Save to file databank/1/TST.txt
-Databank "TEST-1" was created.
-Load from: databank/3/TST.txt
-Bulk loading from bulkData/common-english-viet-words.txt in 3077401.413400ms
-Save to file databank/3/TST.txt
-Save to file databank/3/TST.txt
-Load from: databank/2/TST.txt
-Successful when trying to get definition of string "basic"!!!
-Save to file databank/2/TST.txt
-Load from: databank/2/TST.txt
-Successful when trying to get definition of string "laugh"!!!
-Save to file databank/2/TST.txt
-Load from: databank/3/TST.txt
-Successful when trying to get definition of string "take"!!!
+This go here
+databank/1
+databank/1
 Load from: databank/1/TST.txt
-Failure when trying to get definition of string "love": Either a exception or the word haven't been added.
-Databank "FLAG-1" was created.
-Load from: databank/4/TST.txt
-Bulk loading from bulkData/common-english-viet-words.txt in 199.567300ms
-Save to file databank/4/TST.txt
-Databank "TEST-2" was created.
-Load from: databank/5/TST.txt
-Bulk loading from bulkData/base.txt in 403244.851400ms
-Save to file databank/5/TST.txt
-Databank "TEST-3" was created.
-Load from: databank/6/TST.txt
-Bulk loading from bulkData/base.txt in 301798.149500ms
-Save to file databank/6/TST.txt
-Bulk loading from 1 in 0.202600ms
-Databank "TEST-4" was created.
-Load from: databank/7/TST.txt
-Bulk loading from bulkData/base.txt in 1949.261700ms
-Save to file databank/7/TST.txt
-Databank "TEST-5" was created.
-Load from: databank/8/TST.txt
-Bulk loading from bulkData/base.txt in 1874.061200ms
-Save to file databank/8/TST.txt
-Databank "TEST-6" was created.
-Load from: databank/9/TST.txt
-Bulk loading from bulkData/base.txt in 399163.041600ms
-Save to file databank/9/TST.txt
+This go here
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+Failure when trying to get definition of string "and": Either a exception or the word haven't been added.
+databank/2
+databank/2
 Load from: databank/2/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Can't get definition and word in slot 1 with key 0.
+Successful when trying to get definition of string "a"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "and"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
 Successful when trying to get definition of string "love"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "lave"!!!
+Failure when trying to get definition of string "lavert": Either a exception or the word haven't been added.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "lavert"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "tryne"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "tryne"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "tryne"!!!
+Successful when trying to get definition of string "tryne"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "tryne"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "tryne"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "tryne"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "tryne"!!!
+Successful when trying to get definition of string "cyen"!!!
+Successful when trying to get definition of string "zymophone"!!!
+Successful when trying to get definition of string "cyclane"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string "insurance"!!!
+Successful when trying to add string "insurance"!!!
+Successful when trying to get definition of string "insurance"!!!
+Successful when trying to add string "insurance"!!!
+Successful when trying to add string "insurance"!!!
+Successful when trying to get definition of string "insurance"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string "hodoscope"!!!
+Successful when trying to get definition of string "hodoscope"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "cyclane"!!!
+Successful when trying to add string "cyh"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to add string "try"!!!
+Successful when trying to add string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "a"!!!
+Successful when trying to add string "aa"!!!
+Successful when trying to get definition of string "a"!!!
+Successful when trying to get definition of string "a"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "aback"!!!
+Successful when trying to add string "aback"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "at"!!!
+Successful when trying to add string "at"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "at"!!!
+Successful when trying to get definition of string "etc"!!!
+Successful when trying to add string "etcetera"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to add string "try"!!!
+Successful when trying to get definition of string "tryne"!!!
+Successful when trying to get definition of string "try"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "aaaaa"!!!
+Successful when trying to add string "aasvogel"!!!
+Successful when trying to get definition of string "aasvogel"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "yyyy"!!!
+Successful when trying to add string "
+yuppies"!!!
+Successful when trying to add string "
+yuppies"!!!
+Successful when trying to get definition of string "yyyy"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "zzz"!!!
+Successful when trying to add string "
+zymurgy"!!!
+Successful when trying to get definition of string "zzz"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "buy"!!!
+Successful when trying to add string "buy"!!!
+Successful when trying to get definition of string "buy"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "new"!!!
+Successful when trying to add string "new"!!!
+Successful when trying to get definition of string "fkdsanvknadsv"!!!
+Successful when trying to get definition of string "cyclane"!!!
+Successful when trying to get definition of string "new"!!!
+Successful when trying to add string "fjksdanfknew"!!!
+Successful when trying to get definition of string "fjksdanfknew"!!!
+databank/4
+databank/4
+Load from: databank/4/TST.txt
+Successful when trying to get definition of string "fnkjdasfsa"!!!
+Successful when trying to add string "cái này nè"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "ad"!!!
+Successful when trying to add string ""!!!
+Successful when trying to get definition of string "ad"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "ad"!!!
+Successful when trying to add string ""!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "ad"!!!
+Successful when trying to get definition of string "ad"!!!
+Successful when trying to add string ""!!!
+Successful when trying to add string ""!!!
+Successful when trying to get definition of string "ad"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "adfq"!!!
+Successful when trying to add string "adze"!!!
+Successful when trying to get definition of string "adfq"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "try"!!!
+Successful when trying to get definition of string "test"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "make"!!!
+Successful when trying to add string "make"!!!
+Save to file databank/1/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "make"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "make"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "help"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "aaaaa"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "thhg ujsnhbsha"!!!
+Successful when trying to get definition of string "huguigyyug jhkhvgfctdyd  gfcfxcftdtyrdctrcdv "!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "eytrjktytjyntgh"!!!
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+Can't get definition and word in slot 1 with key -1.
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "aa"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "test"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "test"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "Abs"!!!
+Successful when trying to get definition of string "Abst"!!!
+Successful when trying to get definition of string "hsgsh"!!!
+Successful when trying to get definition of string "thhthtjhfj"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "anonymous"!!!
+Successful when trying to get definition of string "tree"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here

@@ -1,3 +1,6 @@
-autosome
-	@autosome\n* danh từ\n- thể thường nhiễm sắc, thể nhiễm sắc điển hình\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thể nhiễm sắc thể định hình
-
+autosome	@autosome
+* danh từ
+- thể thường nhiễm sắc, thể nhiễm sắc điển hình
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thể nhiễm sắc thể định hình

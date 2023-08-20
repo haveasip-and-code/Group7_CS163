@@ -1,3 +1,32 @@
-charter
-	@charter /'tʃɑ:tə/\n*  danh từ\n- hiến chương\n=International Educators' Charter+ hiến chương nhà giáo quốc tế\n=the Great Charter+ đại hiến chương nước Anh (15 6 1215)\n- đặc quyền\n- sự thuê tàu; hợp đồng thuê tàu\n- giấy nhượng đất\n*  ngoại động từ\n- ban đặc quyền\n- thuê mướn (tàu biển); (thông tục) xe cộ\n=to charter a ship+ thuê tàu\n=to charter a bus+ thuê xe buýt\n@Chuyên ngành kinh tế\n-cho đặc quyền\n-đặc quyền\n-dành đặc quyền (cho ai)\n-điều chương\n-điều lệ\n-hiến chương\n-sự thuê mướn (tàu, thuyền, máy bay)\n-thuê\n-thuê bao (tàu, máy bay....)\n@Chuyên ngành kỹ thuật\n-điều lệ\n@Lĩnh vực: xây dựng\n-hiến chương\n@Lĩnh vực: giao thông & vận tải\n-sự thuê tàu\n-thuê tàu\n@Lĩnh vực: hóa học & vật liệu\n-thuê tàu thuyền
-
+charter	@charter /'tʃɑ:tə/
+*  danh từ
+- hiến chương
+=International Educators' Charter+ hiến chương nhà giáo quốc tế
+=the Great Charter+ đại hiến chương nước Anh (15 6 1215)
+- đặc quyền
+- sự thuê tàu; hợp đồng thuê tàu
+- giấy nhượng đất
+*  ngoại động từ
+- ban đặc quyền
+- thuê mướn (tàu biển); (thông tục) xe cộ
+=to charter a ship+ thuê tàu
+=to charter a bus+ thuê xe buýt
+@Chuyên ngành kinh tế
+-cho đặc quyền
+-đặc quyền
+-dành đặc quyền (cho ai)
+-điều chương
+-điều lệ
+-hiến chương
+-sự thuê mướn (tàu, thuyền, máy bay)
+-thuê
+-thuê bao (tàu, máy bay....)
+@Chuyên ngành kỹ thuật
+-điều lệ
+@Lĩnh vực: xây dựng
+-hiến chương
+@Lĩnh vực: giao thông & vận tải
+-sự thuê tàu
+-thuê tàu
+@Lĩnh vực: hóa học & vật liệu
+-thuê tàu thuyền

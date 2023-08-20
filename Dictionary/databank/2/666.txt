@@ -1,3 +1,0 @@
-acyclic
-	@acyclic\n- (Tech) không tuần hoàn, không có chu kỳ\n@Chuyên ngành kỹ thuật\n-không tuần hoàn\n@Lĩnh vực: y học\n-không có chu kỳ\n-không vòng\n@Lĩnh vực: toán & tin\n-phi chu trình
-

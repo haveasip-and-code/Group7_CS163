@@ -1,3 +1,13 @@
-caravan
-	@caravan /,kærə'væn/\n*  danh từ\n- đoàn bộ hành, đoàn người đi buôn (tập họp nhau để vượt xa mạc hoặc các vùng nguy hiểm); đoàn người hành hương\n- xe lớn, xe moóc (dùng làm nơi ở), nhà lưu động\n- xe tải lớn có mui\n*  nội động từ\n- đi chơi bằng nhà lưu động\n- định cư ở khu vực nhà lưu động\n@Chuyên ngành kỹ thuật\n-xe cắm trại\n-xe nhà lưu động\n@Lĩnh vực: ô tô\n-xe moóc cắm trại
-
+caravan	@caravan /,kærə'væn/
+*  danh từ
+- đoàn bộ hành, đoàn người đi buôn (tập họp nhau để vượt xa mạc hoặc các vùng nguy hiểm); đoàn người hành hương
+- xe lớn, xe moóc (dùng làm nơi ở), nhà lưu động
+- xe tải lớn có mui
+*  nội động từ
+- đi chơi bằng nhà lưu động
+- định cư ở khu vực nhà lưu động
+@Chuyên ngành kỹ thuật
+-xe cắm trại
+-xe nhà lưu động
+@Lĩnh vực: ô tô
+-xe moóc cắm trại

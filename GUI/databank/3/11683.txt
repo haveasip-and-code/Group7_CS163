@@ -1,3 +1,27 @@
-convenience
-	@convenience /kən'vi:njəns/\n*  danh từ\n- sự tiện lợi, sự thuận lợi; sự thích hợp\n=for greater convenience+ để thuận lợi hơn\n=that is a matter of convenience+ vấn đề là xem có thích hợp (có tiện) không\n=at your earliest convenience+ lúc nào thuận tiện nhất cho ông (trong thư giữa các hãng buôn)\n=to like one's+ thích tiện nghi\n- đồ dùng, các thứ tiện nghi\n=the house is full of conveniences of every sort+ nhà có đủ các thứ đồ dùng tiện nghi\n- lợi ích vật chất, điều lợi\n=marriage of convenience+ sự lấy nhau vì lợi\n- nhà tiêu, hố xí\n!to await (suit) somebody's convenience\n- lưu tâm đến sự thuận tiện của ai, làm cho phù hợp với ý thích ai\n!to make a convenience of somebody\n- lợi dụng ai một cách táng tận lương tâm\n!to meet someone's convenience\n- thích hợp với ai\n@Chuyên ngành kinh tế\n-sự tiện lợi\n-thuận lợi\n-thuận tiện\n@Chuyên ngành kỹ thuật\n-cơ cấu\n-sự thích hợp\n-thiết bị\n-tiện nghi
-
+convenience	@convenience /kən'vi:njəns/
+*  danh từ
+- sự tiện lợi, sự thuận lợi; sự thích hợp
+=for greater convenience+ để thuận lợi hơn
+=that is a matter of convenience+ vấn đề là xem có thích hợp (có tiện) không
+=at your earliest convenience+ lúc nào thuận tiện nhất cho ông (trong thư giữa các hãng buôn)
+=to like one's+ thích tiện nghi
+- đồ dùng, các thứ tiện nghi
+=the house is full of conveniences of every sort+ nhà có đủ các thứ đồ dùng tiện nghi
+- lợi ích vật chất, điều lợi
+=marriage of convenience+ sự lấy nhau vì lợi
+- nhà tiêu, hố xí
+!to await (suit) somebody's convenience
+- lưu tâm đến sự thuận tiện của ai, làm cho phù hợp với ý thích ai
+!to make a convenience of somebody
+- lợi dụng ai một cách táng tận lương tâm
+!to meet someone's convenience
+- thích hợp với ai
+@Chuyên ngành kinh tế
+-sự tiện lợi
+-thuận lợi
+-thuận tiện
+@Chuyên ngành kỹ thuật
+-cơ cấu
+-sự thích hợp
+-thiết bị
+-tiện nghi

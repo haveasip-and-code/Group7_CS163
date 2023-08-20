@@ -1,0 +1,14 @@
+descriptor	
+@descriptor
+* danh từ
+- ký hiệu (từ, ngữ) để nhận diện hay miêu tả
+@Chuyên ngành kỹ thuật
+-bộ mô tả
+-nhãn
+-miêu tả
+-tên
+-từ khóa
+@Lĩnh vực: toán & tin
+-bộ miêu tả
+-khóa mô tả
+-nhãn miêu tả

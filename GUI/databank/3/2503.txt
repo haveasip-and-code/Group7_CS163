@@ -1,3 +1,26 @@
-anticipate
-	@anticipate /æn'tisipeit/\n*  ngoại động từ\n- dùng trước, hưởng trước\n- thấy trước, biết trước, đoán trước; dè trước, chặn trước, liệu trước, lường trước\n=to anticipate somebody's wishes+ đoán trước được ý muốn của ai\n- làm trước; nói trước\n- làm cho nhanh, làm cho chóng, thúc đẩy\n=to anticipate someone's ruin+ thúc đẩy sự suy sụp của ai, làm cho ai chóng suy sụp\n- thảo luận trước, xem xét trước\n- mong đợi, chờ đợi\n@Chuyên ngành kinh tế\n-biết trước\n-chờ đợi\n-kỳ vọng\n-làm trước\n-mong đợi\n-sử dụng trước\n-xem xét trước\n@Chuyên ngành kỹ thuật\n-làm trước\n@Lĩnh vực: toán & tin\n-đoán trước\n-nói trước\n-thấy trước vấn đề\n@Lĩnh vực: xây dựng\n-tiên liệu
-
+anticipate	@anticipate /æn'tisipeit/
+*  ngoại động từ
+- dùng trước, hưởng trước
+- thấy trước, biết trước, đoán trước; dè trước, chặn trước, liệu trước, lường trước
+=to anticipate somebody's wishes+ đoán trước được ý muốn của ai
+- làm trước; nói trước
+- làm cho nhanh, làm cho chóng, thúc đẩy
+=to anticipate someone's ruin+ thúc đẩy sự suy sụp của ai, làm cho ai chóng suy sụp
+- thảo luận trước, xem xét trước
+- mong đợi, chờ đợi
+@Chuyên ngành kinh tế
+-biết trước
+-chờ đợi
+-kỳ vọng
+-làm trước
+-mong đợi
+-sử dụng trước
+-xem xét trước
+@Chuyên ngành kỹ thuật
+-làm trước
+@Lĩnh vực: toán & tin
+-đoán trước
+-nói trước
+-thấy trước vấn đề
+@Lĩnh vực: xây dựng
+-tiên liệu

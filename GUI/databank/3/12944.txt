@@ -1,3 +1,3 @@
-cubes
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-inch khối
-
+cubes	@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-inch khối

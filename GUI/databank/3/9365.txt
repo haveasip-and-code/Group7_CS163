@@ -1,3 +1,39 @@
-chute
-	@chute /ʃu:t/\n*  danh từ\n- cầu trượt, đường trượt; dốc lao, đường lao\n- (từ Mỹ,nghĩa Mỹ) thác (nước)\n=to shoot the chutes+ lao xuống thác\n- máng đổ rác\n*  danh từ,  (viết tắt) của parachute\n- (quân sự),  (thông tục) dù\n@Chuyên ngành kinh tế\n-cần trượt\n-cưa tháo\n-hành lang\n-máng\n-rãnh\n@Chuyên ngành kỹ thuật\n-bàn trượt\n-cầu trượt\n-dốc đứng\n-dốc nước\n-đường dốc\n-đường trượt\n-lò tháo\n-máng\n-máng chảy xiết\n-máng nghiêng\n-máng trượt\n-mắt dốc\n-mặt dốc\n-ống rót\n-ống thoát\n-phễu\n-rãnh\n@Lĩnh vực: cơ khí & công trình\n-dốc (trượt)\n-đường lao\n-máng thả\n@Lĩnh vực: xây dựng\n-máng chuyển\n-thác nước
-
+chute	@chute /ʃu:t/
+*  danh từ
+- cầu trượt, đường trượt; dốc lao, đường lao
+- (từ Mỹ,nghĩa Mỹ) thác (nước)
+=to shoot the chutes+ lao xuống thác
+- máng đổ rác
+*  danh từ,  (viết tắt) của parachute
+- (quân sự),  (thông tục) dù
+@Chuyên ngành kinh tế
+-cần trượt
+-cưa tháo
+-hành lang
+-máng
+-rãnh
+@Chuyên ngành kỹ thuật
+-bàn trượt
+-cầu trượt
+-dốc đứng
+-dốc nước
+-đường dốc
+-đường trượt
+-lò tháo
+-máng
+-máng chảy xiết
+-máng nghiêng
+-máng trượt
+-mắt dốc
+-mặt dốc
+-ống rót
+-ống thoát
+-phễu
+-rãnh
+@Lĩnh vực: cơ khí & công trình
+-dốc (trượt)
+-đường lao
+-máng thả
+@Lĩnh vực: xây dựng
+-máng chuyển
+-thác nước

@@ -1,3 +1,6 @@
-diocese
-	@diocese /'daiəsis/\n*  danh từ\n- giáo khu\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-giáo khu
-
+diocese	@diocese /'daiəsis/
+*  danh từ
+- giáo khu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-giáo khu

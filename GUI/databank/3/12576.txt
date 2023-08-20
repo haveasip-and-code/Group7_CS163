@@ -1,3 +1,8 @@
-creditworthy
-	@creditworthy\n* tính từ\n- đáng tin để cho vay\n@Chuyên ngành kinh tế\n-có khả năng chi trả\n-có tư lực\n-đáng được vay nợ\n-đáng tin tưởng
-
+creditworthy	@creditworthy
+* tính từ
+- đáng tin để cho vay
+@Chuyên ngành kinh tế
+-có khả năng chi trả
+-có tư lực
+-đáng được vay nợ
+-đáng tin tưởng

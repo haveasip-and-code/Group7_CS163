@@ -1,0 +1,14 @@
+provider	@provider /provider/
+*  danh từ
+- người cung cấp
+@Chuyên ngành kinh tế
+-người chu cấp (cho gia đình)
+-người cung cấp
+@Chuyên ngành kỹ thuật
+-người cung cấp
+-nhà cung cấp
+-máy móc
+@Lĩnh vực: điện tử & viễn thông
+-bộ cấp
+@Lĩnh vực: toán & tin
+-người cung cấp (dịch vụ, phần mềm...)

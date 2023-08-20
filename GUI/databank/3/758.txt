@@ -1,3 +1,27 @@
-adjacent
-	@adjacent /ə'dʤeizənt/\n*  tính từ\n- gần kề, kế liền, sát ngay\n=adjacent angles+ (toán học) góc kề\n=to be adjacent to+ kề sát, sát ngay\n@Chuyên ngành kỹ thuật\n-bên cạnh\n-có liên quan\n-kề\n-kế cận\n-kề cận\n-lân cận\n-ở gần\n-sát\n@Lĩnh vực: toán & tin\n-cạnh tam giác vuông\n-kế\n-phụ cận\n@Lĩnh vực: xây dựng\n-gần kề\n-kề (bên)\n-kề liền\n-kề với\n-sát cạnh\n-vật kề\n@Lĩnh vực: điện lạnh\n-kề (góc)
-
+adjacent	@adjacent /ə'dʤeizənt/
+*  tính từ
+- gần kề, kế liền, sát ngay
+=adjacent angles+ (toán học) góc kề
+=to be adjacent to+ kề sát, sát ngay
+@Chuyên ngành kỹ thuật
+-bên cạnh
+-có liên quan
+-kề
+-kế cận
+-kề cận
+-lân cận
+-ở gần
+-sát
+@Lĩnh vực: toán & tin
+-cạnh tam giác vuông
+-kế
+-phụ cận
+@Lĩnh vực: xây dựng
+-gần kề
+-kề (bên)
+-kề liền
+-kề với
+-sát cạnh
+-vật kề
+@Lĩnh vực: điện lạnh
+-kề (góc)

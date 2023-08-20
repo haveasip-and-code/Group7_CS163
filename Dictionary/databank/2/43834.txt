@@ -1,3 +1,0 @@
-proem
-	@proem /proem/\n*  danh từ\n- lời nói đầu, lời mở đầu, lời tựa (cuốn sách, bài thi)
-

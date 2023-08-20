@@ -1,3 +1,2 @@
-conjecturer
-	@conjecturer\n- xem conjecture
-
+conjecturer	@conjecturer
+- xem conjecture

@@ -1,3 +1,2 @@
-carcinogenicity
-	@carcinogenicity\n- xem carcinogen
-
+carcinogenicity	@carcinogenicity
+- xem carcinogen

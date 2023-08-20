@@ -1,3 +1,2 @@
-clinger
-	@clinger\n- xem cling
-
+clinger	@clinger
+- xem cling

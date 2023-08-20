@@ -1,3 +1,2 @@
-assistants
-	@Chuyên ngành kinh tế\n-các trợ lý
-
+assistants	@Chuyên ngành kinh tế
+-các trợ lý

@@ -1,0 +1,16 @@
+waybill	@waybill
+* danh từ
+- vận đơn (danh sách hành khách hoặc hàng hoá do một xe cộ chuyên chở, với nơi đến của khách hoặc hàng)
+@Chuyên ngành kinh tế
+-đơn chở hàng
+-giấy vận đơn
+-vận đơn
+@Chuyên ngành kỹ thuật
+-danh sách hành khách
+-giờ giấc hành trình
+-hóa đơn
+-phiếu hàng vận chuyển
+-vận đơn
+@Lĩnh vực: giao thông & vận tải
+-không vận đơn
+-phiếu vận chuyển

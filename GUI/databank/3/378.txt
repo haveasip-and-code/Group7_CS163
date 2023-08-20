@@ -1,3 +1,2 @@
-accordantly
-	@accordantly\n- xem accordant
-
+accordantly	@accordantly
+- xem accordant

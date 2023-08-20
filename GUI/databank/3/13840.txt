@@ -1,3 +1,7 @@
-declaim
-	@declaim /di'kleim/\n*  ngoại động từ\n- bình, ngâm (thơ...)\n*  nội động từ\n- nói hùng hồn; diễn thuyết hùng hồn\n- (+ against) thoá mạ, lớn tiếng chửi bới\n=to declaim agianst somebody+ thoá mạ ai
-
+declaim	@declaim /di'kleim/
+*  ngoại động từ
+- bình, ngâm (thơ...)
+*  nội động từ
+- nói hùng hồn; diễn thuyết hùng hồn
+- (+ against) thoá mạ, lớn tiếng chửi bới
+=to declaim agianst somebody+ thoá mạ ai

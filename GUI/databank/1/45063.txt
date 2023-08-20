@@ -1,0 +1,10 @@
+quantifier	@quantifier
+- (logic học) phép lượng hoá
+- bounded q. phép lượng hoá bị chặn
+- existential q. phép lượng hoá tồn tại
+- generality q. phép lượng hoá phổ dụng
+- universal q. phép lượng hoá phổ dụng
+@Chuyên ngành kỹ thuật
+-lượng từ
+@Lĩnh vực: toán & tin
+-phép lượng hóa

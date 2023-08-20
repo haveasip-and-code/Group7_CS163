@@ -1,3 +1,5 @@
-bicyclist
-	@bicyclist /'baisiklist/\n*  danh từ\n- người đi xe đạp\n@Chuyên ngành kỹ thuật\n-người đi xe đạp
-
+bicyclist	@bicyclist /'baisiklist/
+*  danh từ
+- người đi xe đạp
+@Chuyên ngành kỹ thuật
+-người đi xe đạp

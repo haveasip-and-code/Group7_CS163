@@ -1,3 +1,24 @@
-avalanche
-	@avalanche /'ævəlɑ:nʃ/\n*  danh từ\n- tuyết lở\n- (nghĩa bóng) loạt dồn dập, tràng dồn dập "mưa"\n=an avalanche of questions+ một loạt câu hỏi dồn dập\n=an avalanche of bullets+ trận mưa đạn, đạn bắn như mưa\n- (vật lý) thác\n=ion avalanche+ thác ion\n=electron avalanche+ thác electron\n@Chuyên ngành kỹ thuật\n-đất lở\n-sự sụt\n-sụt lở\n-thác\n@Lĩnh vực: hóa học & vật liệu\n-khối tuyết lở\n@Lĩnh vực: xây dựng\n-sự lở\n-tuyết lở\n@Lĩnh vực: toán & tin\n-thác động\n-thác lũ\n@Lĩnh vực: cơ khí & công trình\n-tuyến lở
-
+avalanche	@avalanche /'ævəlɑ:nʃ/
+*  danh từ
+- tuyết lở
+- (nghĩa bóng) loạt dồn dập, tràng dồn dập "mưa"
+=an avalanche of questions+ một loạt câu hỏi dồn dập
+=an avalanche of bullets+ trận mưa đạn, đạn bắn như mưa
+- (vật lý) thác
+=ion avalanche+ thác ion
+=electron avalanche+ thác electron
+@Chuyên ngành kỹ thuật
+-đất lở
+-sự sụt
+-sụt lở
+-thác
+@Lĩnh vực: hóa học & vật liệu
+-khối tuyết lở
+@Lĩnh vực: xây dựng
+-sự lở
+-tuyết lở
+@Lĩnh vực: toán & tin
+-thác động
+-thác lũ
+@Lĩnh vực: cơ khí & công trình
+-tuyến lở

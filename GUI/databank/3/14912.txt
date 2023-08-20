@@ -1,3 +1,5 @@
-determinantal
-	@determinantal\n- dưới dạng định thức, chứa định thức\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chứa định thức
-
+determinantal	@determinantal
+- dưới dạng định thức, chứa định thức
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chứa định thức

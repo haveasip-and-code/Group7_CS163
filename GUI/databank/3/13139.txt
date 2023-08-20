@@ -1,3 +1,2 @@
-curricular
-	@curricular\n- xem curriculum
-
+curricular	@curricular
+- xem curriculum

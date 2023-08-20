@@ -1,3 +1,6 @@
-blocked
-	@Chuyên ngành kỹ thuật\n-bị kẹt\n@Lĩnh vực: cơ khí & công trình\n-bị khóa chặt\n@Lĩnh vực: toán & tin\n-bị nghẽn
-
+blocked	@Chuyên ngành kỹ thuật
+-bị kẹt
+@Lĩnh vực: cơ khí & công trình
+-bị khóa chặt
+@Lĩnh vực: toán & tin
+-bị nghẽn

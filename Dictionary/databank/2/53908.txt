@@ -1,3 +1,0 @@
-stylebook
-	@stylebook\n* danh từ\n- sách dạy về cách làm theo một phong cách đã chọn
-

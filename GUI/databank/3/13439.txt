@@ -1,3 +1,9 @@
-damaged
-	@Chuyên ngành kinh tế\n-bị hư hao\n-bị thiệt hại\n-bị tổn thất\n@Chuyên ngành kỹ thuật\n-hỏng\n@Lĩnh vực: điện tử & viễn thông\n-hư hại\n-thiệt hại
-
+damaged	@Chuyên ngành kinh tế
+-bị hư hao
+-bị thiệt hại
+-bị tổn thất
+@Chuyên ngành kỹ thuật
+-hỏng
+@Lĩnh vực: điện tử & viễn thông
+-hư hại
+-thiệt hại

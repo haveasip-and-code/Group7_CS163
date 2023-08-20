@@ -1,3 +1,2 @@
-booker
-	@booker\n- xem book
-
+booker	@booker
+- xem book

@@ -1,3 +1,2 @@
-condoler
-	@condoler\n- xem condole
-
+condoler	@condoler
+- xem condole

@@ -1,3 +1,60 @@
-clearance
-	@clearance /'kliərəns/\n*  danh từ\n- sự dọn quang\n- (hàng hải) sự rời bến, sự thanh toán các khoản thuế để rời bến\n=certificate of clearance+ giấy phép rời bến\n- khoảng hở, khoảng trống; độ hở, độ trống\n- phép nghỉ, phép giải ngũ, phép thôi việc\n- (tài chính) sự chuyển (séc)\n@Chuyên ngành kinh tế\n-giấy chứng nhận thông quan\n-giấy phép (cho tàu ra cảng)\n-kết toán\n-sự thanh toán\n-thanh toán séc\n-thông quan\n-việc trả thuế hải quan\n@Chuyên ngành kỹ thuật\n-chỗ lõm\n-đặc quyền\n-độ hở\n-độ lỏng\n-độ lỏng ổ trục\n-đường rãnh\n-hành trình chết\n-khe\n-khe hở\n-khe hở cạnh\n-khe hở không khí\n-khe hở ngoài\n-khoảng cách\n-khoảng hở\n-khoảng trống\n-lượng dư\n-sự cho phép\n-sự làm sạch\n-sự xóa bỏ\n@Lĩnh vực: điện\n-cách khắc phục\n-cự li phân cách\n-sự giải quyết\n@Lĩnh vực: cơ khí & công trình\n-khe sáng\n@Lĩnh vực: giao thông & vận tải\n-khổ giới hạn\n-khoảng cách an toàn\n-phạm vi thông qua\n@Lĩnh vực: xây dựng\n-khổ thông thủy\n-kích thước thông thủy\n-sự làm quang\n-sự rời bến\n-tĩnh không (khoảng trống)\n@Lĩnh vực: vật lý\n-khoản chạy chết\n@Lĩnh vực: điện lạnh\n-khoang hở cách điện\n@Lĩnh vực: toán & tin\n-mức được phép\n@Lĩnh vực: y học\n-thanh thái (thanh thải thận)
-
+clearance	@clearance /'kliərəns/
+*  danh từ
+- sự dọn quang
+- (hàng hải) sự rời bến, sự thanh toán các khoản thuế để rời bến
+=certificate of clearance+ giấy phép rời bến
+- khoảng hở, khoảng trống; độ hở, độ trống
+- phép nghỉ, phép giải ngũ, phép thôi việc
+- (tài chính) sự chuyển (séc)
+@Chuyên ngành kinh tế
+-giấy chứng nhận thông quan
+-giấy phép (cho tàu ra cảng)
+-kết toán
+-sự thanh toán
+-thanh toán séc
+-thông quan
+-việc trả thuế hải quan
+@Chuyên ngành kỹ thuật
+-chỗ lõm
+-đặc quyền
+-độ hở
+-độ lỏng
+-độ lỏng ổ trục
+-đường rãnh
+-hành trình chết
+-khe
+-khe hở
+-khe hở cạnh
+-khe hở không khí
+-khe hở ngoài
+-khoảng cách
+-khoảng hở
+-khoảng trống
+-lượng dư
+-sự cho phép
+-sự làm sạch
+-sự xóa bỏ
+@Lĩnh vực: điện
+-cách khắc phục
+-cự li phân cách
+-sự giải quyết
+@Lĩnh vực: cơ khí & công trình
+-khe sáng
+@Lĩnh vực: giao thông & vận tải
+-khổ giới hạn
+-khoảng cách an toàn
+-phạm vi thông qua
+@Lĩnh vực: xây dựng
+-khổ thông thủy
+-kích thước thông thủy
+-sự làm quang
+-sự rời bến
+-tĩnh không (khoảng trống)
+@Lĩnh vực: vật lý
+-khoản chạy chết
+@Lĩnh vực: điện lạnh
+-khoang hở cách điện
+@Lĩnh vực: toán & tin
+-mức được phép
+@Lĩnh vực: y học
+-thanh thái (thanh thải thận)

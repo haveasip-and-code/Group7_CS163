@@ -1,3 +1,10 @@
-bailiff
-	@bailiff /'beilif/\n*  danh từ\n- quan khâm sai (của vua Anh ở một vùng)\n- nhân viên chấp hành (ở toà án)\n- người quản lý của địa chủ\n@Chuyên ngành kinh tế\n-người mõ tòa\n-nhân viên chấp hành\n-nhân viên chấp hành (ở tòa án)\n-thừa phát lại
-
+bailiff	@bailiff /'beilif/
+*  danh từ
+- quan khâm sai (của vua Anh ở một vùng)
+- nhân viên chấp hành (ở toà án)
+- người quản lý của địa chủ
+@Chuyên ngành kinh tế
+-người mõ tòa
+-nhân viên chấp hành
+-nhân viên chấp hành (ở tòa án)
+-thừa phát lại

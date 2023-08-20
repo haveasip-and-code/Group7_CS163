@@ -1,3 +1,2 @@
-corroborator
-	@corroborator\n- xem corroborate
-
+corroborator	@corroborator
+- xem corroborate

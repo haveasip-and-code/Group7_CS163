@@ -1,3 +1,2 @@
-clavicular
-	@clavicular\n- xem clavicle
-
+clavicular	@clavicular
+- xem clavicle

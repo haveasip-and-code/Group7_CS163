@@ -1,3 +1,6 @@
-cholinesterase
-	@cholinesterase\n* danh từ\n- cholinexteraza\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ezyme xúc tác tách rời muối choline thành choline và thành phần axit
-
+cholinesterase	@cholinesterase
+* danh từ
+- cholinexteraza
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-ezyme xúc tác tách rời muối choline thành choline và thành phần axit

@@ -1,3 +1,8 @@
-declarant
-	@declarant /di'kleərənt/\n*  danh từ\n- (pháp lý) người khai\n@Chuyên ngành kinh tế\n-người khai hải quan\n@Chuyên ngành kỹ thuật\n-người khai\n-người nhận thầu
-
+declarant	@declarant /di'kleərənt/
+*  danh từ
+- (pháp lý) người khai
+@Chuyên ngành kinh tế
+-người khai hải quan
+@Chuyên ngành kỹ thuật
+-người khai
+-người nhận thầu

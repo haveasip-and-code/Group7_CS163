@@ -1,3 +1,2 @@
-candler
-	@candler\n- xem candle
-
+candler	@candler
+- xem candle

@@ -1,3 +1,2 @@
-crunchable
-	@crunchable\n- xem crunch
-
+crunchable	@crunchable
+- xem crunch

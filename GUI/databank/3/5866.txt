@@ -1,3 +1,2 @@
-bleached
-	@Chuyên ngành kinh tế\n-tẩy trắng
-
+bleached	@Chuyên ngành kinh tế
+-tẩy trắng

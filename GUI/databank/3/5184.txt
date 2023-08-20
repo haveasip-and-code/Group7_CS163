@@ -1,3 +1,4 @@
-belled
-	@Chuyên ngành kỹ thuật\n-hình phễu\n@Lĩnh vực: cơ khí & công trình\n-hình chuông
-
+belled	@Chuyên ngành kỹ thuật
+-hình phễu
+@Lĩnh vực: cơ khí & công trình
+-hình chuông

@@ -1,3 +1,2 @@
-confiner
-	@confiner\n- xem confine
-
+confiner	@confiner
+- xem confine

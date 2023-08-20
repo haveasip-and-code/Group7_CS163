@@ -1,3 +1,2 @@
-defaulting
-	@Chuyên ngành kinh tế\n-sự thiếu nợ kéo dài
-
+defaulting	@Chuyên ngành kinh tế
+-sự thiếu nợ kéo dài

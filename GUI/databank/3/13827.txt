@@ -1,3 +1,2 @@
-decipherer
-	@decipherer\n- xem decipher
-
+decipherer	@decipherer
+- xem decipher

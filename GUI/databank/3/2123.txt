@@ -1,3 +1,8 @@
-ancestor
-	@ancestor /'ænsistə/\n*  danh từ\n- ông bà, tổ tiên\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hình thức nguyên thủy\n-hình thức sơ khai\n-nhóm cao cấp
-
+ancestor	@ancestor /'ænsistə/
+*  danh từ
+- ông bà, tổ tiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình thức nguyên thủy
+-hình thức sơ khai
+-nhóm cao cấp

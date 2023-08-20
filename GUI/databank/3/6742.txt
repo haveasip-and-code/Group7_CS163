@@ -1,3 +1,2 @@
-brickfield
-	@Chuyên ngành kỹ thuật\n-nhà máy gạch
-
+brickfield	@Chuyên ngành kỹ thuật
+-nhà máy gạch

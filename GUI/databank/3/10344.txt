@@ -1,3 +1,2 @@
-colonic
-	@colonic\n- xem colon
-
+colonic	@colonic
+- xem colon

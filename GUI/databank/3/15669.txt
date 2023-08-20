@@ -1,3 +1,82 @@
-discharge
-	@discharge /dis'tʃɑ:dʤ/\n*  danh từ\n- sự dỡ hàng, sự bốc dỡ (hàng)\n- sự nổ (súng), sự phóng ra, sự bắn ra (tên lửa, mũi tên...)\n- sự đuổi ra, sự thải hồi (người làm); sự tha, sự thả (người tù); sự cho ra, sự cho về (người bệnh); sự giải tán, sự giải ngũ (quân đội)\n=to get one's discharge+ bị đuổi ra, bị thải về\n- sự tuôn ra, sự tháo ra, sự tiết ra, sự bốc ra, sự đổ ra, sự chảy ra\n- sự chảy mủ\n- sự trả hết, sự thanh toán (nợ nần); sự làm xong, sự hoàn thành, sự thực hiên (nhiệm vụ...)\n- sự tẩy màu; thuốc tẩy màu, dung dịch tẩy màu\n- (kỹ thuật) sự phóng điện; sự tháo điện (ắc quy)\n- sự tha miễn, sự miễn trừ; (pháp lý) sự tuyên bố tha; giấy chứng nhận tha miễn, giấy chứng nhận miễn trừ\n*  ngoại động từ\n- dỡ (hàng); dỡ hàng (tàu thuỷ...)\n- nổ (súng); phóng (tên lửa...); bắn (mũi tên...)\n- đuổi ra, thải hồi (người làm), tha, thả (người tù); cho ra, cho về (người bệnh); giải tán, giải ngũ (quân đội)\n- tuôn ra, tháo ra, tiết ra, bốc ra, đổ ra, chảy ra\n=to discharge a torrent of abuse+ tuôn ra một tràng những lời chửi rủa, chửi tới tấp\n=chimney discharges smoke+ ống lò sưởi nhả khói ra\n=wound discharges matter+ vết thương chảy mủ\n=stream discharges itself into a river+ dòng suối đổ vào sông\n- trả hết, thanh toán (nợ nần); làm xong, hoàn thành (nhiệm vụ...)\n- làm phai (màu); tẩy (vải)\n- phục quyền (người vỡ nợ)\n- (kỹ thuật) tháo điện (ắc quy)\n- (pháp lý) huỷ bỏ (bản án)\n@Chuyên ngành kinh tế\n-dỡ hàng\n-đổi xong (hối phiếu)\n-giải trừ (trách nhiệm, nợ...cho ai)\n-hoàn thành nghĩa vụ\n-miễn\n-sa thải (người làm)\n-sự đuổi ra\n-sự giải trừ (hợp đồng)\n-sự tẩy màu\n-tẩy màu\n-thải hồi\n-thanh toán nợ\n-thanh toán xong (nợ)\n-trả dứt (nợ)\n@Chuyên ngành kỹ thuật\n-bốc dỡ\n-công suất\n-đẩy ra\n-dỡ hàng\n-dòng chảy\n-dòng chảy thoát\n-dòng xả\n-giao\n-hủy bỏ\n-lưu lượng\n-phế thải\n-phóng (tên lửa)\n-phóng điện\n-sản lượng\n-sự cất tải\n-sự chảy\n-sự chảy ra\n-sự dỡ hàng\n-sự dỡ tải\n-sự phóng điện\n-sự phun\n-sự ra lò\n-sự rót\n-sự thải\n-sự thải nước\n-sự tháo\n-sự tháo liệu\n-sự tháo nước\n-sự tháo rỡ\n-sự tràn\n-sự xả\n-sự xả nước\n-xả\n@Lĩnh vực: điện lạnh\n-sự phóng điển\n-trút tải\n@Lĩnh vực: điện\n-sự tháo xả\n@Lĩnh vực: điện tử & viễn thông\n-xả điện
-
+discharge	@discharge /dis'tʃɑ:dʤ/
+*  danh từ
+- sự dỡ hàng, sự bốc dỡ (hàng)
+- sự nổ (súng), sự phóng ra, sự bắn ra (tên lửa, mũi tên...)
+- sự đuổi ra, sự thải hồi (người làm); sự tha, sự thả (người tù); sự cho ra, sự cho về (người bệnh); sự giải tán, sự giải ngũ (quân đội)
+=to get one's discharge+ bị đuổi ra, bị thải về
+- sự tuôn ra, sự tháo ra, sự tiết ra, sự bốc ra, sự đổ ra, sự chảy ra
+- sự chảy mủ
+- sự trả hết, sự thanh toán (nợ nần); sự làm xong, sự hoàn thành, sự thực hiên (nhiệm vụ...)
+- sự tẩy màu; thuốc tẩy màu, dung dịch tẩy màu
+- (kỹ thuật) sự phóng điện; sự tháo điện (ắc quy)
+- sự tha miễn, sự miễn trừ; (pháp lý) sự tuyên bố tha; giấy chứng nhận tha miễn, giấy chứng nhận miễn trừ
+*  ngoại động từ
+- dỡ (hàng); dỡ hàng (tàu thuỷ...)
+- nổ (súng); phóng (tên lửa...); bắn (mũi tên...)
+- đuổi ra, thải hồi (người làm), tha, thả (người tù); cho ra, cho về (người bệnh); giải tán, giải ngũ (quân đội)
+- tuôn ra, tháo ra, tiết ra, bốc ra, đổ ra, chảy ra
+=to discharge a torrent of abuse+ tuôn ra một tràng những lời chửi rủa, chửi tới tấp
+=chimney discharges smoke+ ống lò sưởi nhả khói ra
+=wound discharges matter+ vết thương chảy mủ
+=stream discharges itself into a river+ dòng suối đổ vào sông
+- trả hết, thanh toán (nợ nần); làm xong, hoàn thành (nhiệm vụ...)
+- làm phai (màu); tẩy (vải)
+- phục quyền (người vỡ nợ)
+- (kỹ thuật) tháo điện (ắc quy)
+- (pháp lý) huỷ bỏ (bản án)
+@Chuyên ngành kinh tế
+-dỡ hàng
+-đổi xong (hối phiếu)
+-giải trừ (trách nhiệm, nợ...cho ai)
+-hoàn thành nghĩa vụ
+-miễn
+-sa thải (người làm)
+-sự đuổi ra
+-sự giải trừ (hợp đồng)
+-sự tẩy màu
+-tẩy màu
+-thải hồi
+-thanh toán nợ
+-thanh toán xong (nợ)
+-trả dứt (nợ)
+@Chuyên ngành kỹ thuật
+-bốc dỡ
+-công suất
+-đẩy ra
+-dỡ hàng
+-dòng chảy
+-dòng chảy thoát
+-dòng xả
+-giao
+-hủy bỏ
+-lưu lượng
+-phế thải
+-phóng (tên lửa)
+-phóng điện
+-sản lượng
+-sự cất tải
+-sự chảy
+-sự chảy ra
+-sự dỡ hàng
+-sự dỡ tải
+-sự phóng điện
+-sự phun
+-sự ra lò
+-sự rót
+-sự thải
+-sự thải nước
+-sự tháo
+-sự tháo liệu
+-sự tháo nước
+-sự tháo rỡ
+-sự tràn
+-sự xả
+-sự xả nước
+-xả
+@Lĩnh vực: điện lạnh
+-sự phóng điển
+-trút tải
+@Lĩnh vực: điện
+-sự tháo xả
+@Lĩnh vực: điện tử & viễn thông
+-xả điện

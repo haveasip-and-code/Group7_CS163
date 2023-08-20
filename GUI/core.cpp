@@ -87,8 +87,32 @@ pair<string,string> getWordDef(TSTNode* dataSet,string &cur) {
     }
 }
 
+pair<string,string> getWordDefAlways(TSTNode* dataSet,string &cur) {
+    TSTNode* tmp=dataSet->getAlways(cur);
+    pair<string,string> kq;
+    if (!tmp) {
+        //Something is wrong here.
+        debug("Failure when trying to get definition of string \""+cur+"\": Either a exception or the word haven't been added.");
+        kq.first=cur;
+        kq.second="A definition have not been set for this word.";
+        return kq;
+    }
+    else {
+        kq=retrieveData(curDataSet,tmp->val);
+        if (kq.first=="") kq.first="Unknown word!!";
+        else if (kq.second=="") kq.second="A definition have not been set for this word.";
+        debug("Successful when trying to get definition of string \""+cur+"\"!!!");
+        return kq;
+    }
+}
+
+
 pair<string,string> getWordDef(TST dataSet,string &cur) {
     return getWordDef(dataSet.pRoot,cur);
+}
+
+pair<string,string> getWordDefAlways(TST dataSet,string &cur) {
+    return getWordDefAlways(dataSet.pRoot,cur);
 }
 
 string decode(string st) {
@@ -145,9 +169,9 @@ string intToString(int _number) {
 
 void setDefinition(string &curWord,int slot,string &definition) {
     if (!writeFlag) return;
-    mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
+    //mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
     ofstream outputLog;
-    outputLog.open(getPath(curDataSet)+"/"+intToString(slot/blcsize)+"/"+intToString(slot)+".txt");
+    outputLog.open(getPath(curDataSet)+"/"+intToString(slot)+".txt");
     outputLog<<curWord<<'\n';
     outputLog<<definition<<'\n';
     outputLog<<'\n';
@@ -191,6 +215,17 @@ pair<string,string> getRandomWord(TST& dataSet) {
     int p=rand()%curMaxSlot+1;
     pair<string,string> kq;
     kq=retrieveData(curDataSet,p);
+    while (kq.second=="A definition have not been set for this word.") {
+        p=rand()%curMaxSlot+1;
+        kq=retrieveData(curDataSet,p);
+    }
+    return kq;
+}
+
+pair<string,string> getRandomWord(TST& dataSet,int x) {
+    int p=rand()%curMaxSlot+1;
+    pair<string,string> kq;
+    kq=retrieveData(curDataSet,p,x);
     while (kq.second=="A definition have not been set for this word.") {
         p=rand()%curMaxSlot+1;
         kq=retrieveData(curDataSet,p);
@@ -297,4 +332,128 @@ void loadFav() {
 void deleteWord(TST& data,string &cur) {
     TSTNode* tmp=data.get(cur);
     if (tmp) tmp->val=0;
+}
+
+string standardize(string x,int y,int z) {
+    int cnt1,cnt2;
+    string kq="";
+    for (int i=0;i<x.length();i++) {
+        cnt1++;
+        if (x[i]=='\n') {
+            cnt2++;
+        }
+        kq+=x[i];
+        if (cnt1>=y||cnt2>=z) {
+            break;
+        }
+    }
+    return kq;
+}
+
+int getsize(int startPath) {
+    int kq;
+    ifstream in;
+    //cout<<"databank/"+intToString(startPath)+"/maxslot.txt"<<'\n';
+    in.open("databank/"+intToString(startPath)+"/maxslot.txt");
+    in>>kq;
+    in.close();
+    return kq;
+}
+
+void searchDefThread(int startPath,int l,int r,vector<string>& val,int prio,atomic<bool>& isFound,atomic<int>& res) {
+    int m=val.size();
+    for (int i=l;i<=r;++i) {
+        ifstream in;
+        int kq=0;
+        string s;
+        in.open("databank/"+intToString(startPath)+'/'+intToString(i)+".txt");
+        while (in>>s) {
+            for (int j=0;j<m;++j) {
+                if (s==val[j]) {
+                    //cout<<s<<'\n';
+                    kq++;
+                    if (kq>=prio) {
+                        in.close();
+                        isFound=true;
+                        res=i;
+                        return;
+                    }
+                    break;
+                }
+            }
+            //cout<<i;
+        }
+        in.close();
+    }
+    return ;
+}
+
+int searchDef(int startPath,int startPos,vector<string>& val,int prio) {
+    int n=getsize(startPath);
+    int m=val.size();
+    //cout<<n<<'\n';
+    int numThreads = std::thread::hardware_concurrency();
+    int BlcSizeThreads=(n-startPos+numThreads-1)/numThreads;
+    cout<<numThreads<<'\n';
+
+    std::vector<std::thread> threads;
+    std::atomic<bool> found(false);
+    std::atomic<int> result(-1);
+
+    for (int i = 0; i < numThreads; i++) {
+        int pl = startPos+1+(i-1)*BlcSizeThreads;
+        int pr = startPos+i*BlcSizeThreads;
+        if (i+1==numThreads) pr=n;
+
+        threads.emplace_back(searchDefThread, startPath, pl, pr, ref(val),prio,ref(found),ref(result));
+    }
+    for (auto& thread : threads) {
+        thread.join();
+    }
+
+    if (found) {
+        return result;
+    } else {
+        return -1;
+    }
+    /*
+    for (int i=startPos+1;i<=n;++i) {
+        ifstream in;
+        int kq=0;
+        string s;
+        in.open("databank/"+intToString(startPath)+'/'+intToString(i)+".txt");
+        while (in>>s) {
+            for (int j=0;j<m;++j) {
+                if (s==val[j]) {
+                    //cout<<s<<'\n';
+                    kq++;
+                    if (kq>=prio) {
+                        in.close();
+                        return i;
+                    }
+                    break;
+                }
+            }
+            cout<<i;
+        }
+        in.close();
+    }
+    return -1;
+    */
+}
+
+
+void transformDef(string& s,vector<string>& targ) {
+    ofstream in;
+    in.open("coreData/medium.txt");
+    in<<s;
+    in.close();
+    ifstream out;
+    targ.clear();
+    string tmp;
+    out.open("coreData/medium.txt");
+    while (out>>tmp) {
+        targ.push_back(tmp);
+    }
+    out.close();
 }

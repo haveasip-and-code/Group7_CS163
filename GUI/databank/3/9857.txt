@@ -1,3 +1,2 @@
-closeout
-	@Chuyên ngành kinh tế\n-sự khóa sổ
-
+closeout	@Chuyên ngành kinh tế
+-sự khóa sổ

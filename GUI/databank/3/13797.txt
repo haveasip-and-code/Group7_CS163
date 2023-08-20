@@ -1,3 +1,3 @@
-decertification
-	@Chuyên ngành kinh tế\n-hủy bỏ giấy chứng nhận\n-sự thu hồi giấy chứng nhận
-
+decertification	@Chuyên ngành kinh tế
+-hủy bỏ giấy chứng nhận
+-sự thu hồi giấy chứng nhận

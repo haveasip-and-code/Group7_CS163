@@ -1,0 +1,11 @@
+deviation	
+@deviation
+- (thống kê) sự lệch, độ lệch
+- accumulated độc lệch tích luỹ
+- average d. độ lệch trung bình
+- mean d. độ lệch trung bình; độ lệch tuyệt đối
+- mean squara d. độ lệch bình phương trung bình
+- root
+-mean
+-square d. độ lệch tiêu chuẩn
+- standard d. độ lệch tiêu chuẩn, sai lệch điển hình

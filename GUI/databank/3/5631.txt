@@ -1,3 +1,7 @@
-biosphere
-	@biosphere\n* danh từ\n- sinh quyển\n@Chuyên ngành kỹ thuật\n-sinh quyển\n@Lĩnh vực: môi trường\n-sinh quyền
-
+biosphere	@biosphere
+* danh từ
+- sinh quyển
+@Chuyên ngành kỹ thuật
+-sinh quyển
+@Lĩnh vực: môi trường
+-sinh quyền

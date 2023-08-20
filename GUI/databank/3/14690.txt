@@ -1,3 +1,6 @@
-dermatophyte
-	@dermatophyte\n* danh từ\n- nấm ngoài da, nấm hại da\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nấm da
-
+dermatophyte	@dermatophyte
+* danh từ
+- nấm ngoài da, nấm hại da
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-nấm da

@@ -1,3 +1,5 @@
-calibrating
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-việc khắc độ\n-việc kiểm chuẩn\n-việc kiểm định
-
+calibrating	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-việc khắc độ
+-việc kiểm chuẩn
+-việc kiểm định

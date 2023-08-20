@@ -1,3 +1,2 @@
-carsickness
-	@carsickness\n- xem carsick
-
+carsickness	@carsickness
+- xem carsick

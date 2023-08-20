@@ -1,3 +1,19 @@
-absolute
-	@absolute /'æbsəlu:t/\n*  tính từ\n- tuyệt đối, hoàn toàn; thuần tuý, nguyên chất\n=absolute confidence in the Party's leadership+ sự tin tưởng tuyệt đối vào sự lãnh đạo của Đảng\n=absolute music+ âm nhạc thuần tuý\n=absolute alcohol+ rượu nguyên chất\n- chuyên chế, độc đoán\n=absolute monarchy+ nền quân chủ chuyên chế\n- xác thực, đúng sự thực, chắc chắn\n=absolute evidence+ chứng cớ xác thực\n- vô điều kiện\n=an absolute promise+ lời hứa vô điều kiện\n@Chuyên ngành kỹ thuật\n-độc lập\n-hoàn hảo\n-không liên quan\n-nguyên chất\n@Lĩnh vực: toán & tin\n-hình tuyệt đối
-
+absolute	@absolute /'æbsəlu:t/
+*  tính từ
+- tuyệt đối, hoàn toàn; thuần tuý, nguyên chất
+=absolute confidence in the Party's leadership+ sự tin tưởng tuyệt đối vào sự lãnh đạo của Đảng
+=absolute music+ âm nhạc thuần tuý
+=absolute alcohol+ rượu nguyên chất
+- chuyên chế, độc đoán
+=absolute monarchy+ nền quân chủ chuyên chế
+- xác thực, đúng sự thực, chắc chắn
+=absolute evidence+ chứng cớ xác thực
+- vô điều kiện
+=an absolute promise+ lời hứa vô điều kiện
+@Chuyên ngành kỹ thuật
+-độc lập
+-hoàn hảo
+-không liên quan
+-nguyên chất
+@Lĩnh vực: toán & tin
+-hình tuyệt đối

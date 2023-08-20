@@ -1,3 +1,13 @@
-bipartite
-	@bipartite /bai'pɑ:tait/\n*  tính từ\n- (thực vật học) chia đôi (lá)\n- (pháp lý) viết làm hai bản (văn kiện, giao kèo...)\n- tay đôi\n@Chuyên ngành kinh tế\n-có hai phần (văn kiện, giao kèo ...)\n-song phương\n-tay đôi\n@Chuyên ngành kỹ thuật\n-hai bên\n@Lĩnh vực: toán & tin\n-hai phần
-
+bipartite	@bipartite /bai'pɑ:tait/
+*  tính từ
+- (thực vật học) chia đôi (lá)
+- (pháp lý) viết làm hai bản (văn kiện, giao kèo...)
+- tay đôi
+@Chuyên ngành kinh tế
+-có hai phần (văn kiện, giao kèo ...)
+-song phương
+-tay đôi
+@Chuyên ngành kỹ thuật
+-hai bên
+@Lĩnh vực: toán & tin
+-hai phần

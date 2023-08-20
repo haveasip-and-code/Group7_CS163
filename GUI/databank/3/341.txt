@@ -1,3 +1,30 @@
-accident
-	@accident /'æksidənt/\n*  danh từ\n- sự rủi ro, tai nạn, tai biến\n=without accident+ an toàn không xảy ra tai nạn\n=to meet with an accident+ gặp rủi ro; gặp tai nạn, gặp tai biến\n- sự tình cờ, sự ngẫu nhiên\n=by accident+ tình cờ, ngẫu nhiên\n- cái phụ, cái không chủ yếu\n- sự gồ ghề, sự khấp khểnh\n- (âm nhạc) dấu thăng giáng bất thường\n@Chuyên ngành kinh tế\n-sự cố bất ngờ\n-sự rủi ro\n-tai biến\n-tai nạn\n@Chuyên ngành kỹ thuật\n-hỏng hóc\n-sự cố\n-sự hỏng\n-sự hỏng hóc\n-sự hư hỏng\n-sự ngẫu nhiên\n-sự rủi ro\n@Lĩnh vực: cơ khí & công trình\n-địa hình gồ ghề\n@Lĩnh vực: xây dựng\n-địa hình mấp mô\n-sự việc ngẫu nhiên\n@Lĩnh vực: toán & tin\n-trường hợp không may
-
+accident	@accident /'æksidənt/
+*  danh từ
+- sự rủi ro, tai nạn, tai biến
+=without accident+ an toàn không xảy ra tai nạn
+=to meet with an accident+ gặp rủi ro; gặp tai nạn, gặp tai biến
+- sự tình cờ, sự ngẫu nhiên
+=by accident+ tình cờ, ngẫu nhiên
+- cái phụ, cái không chủ yếu
+- sự gồ ghề, sự khấp khểnh
+- (âm nhạc) dấu thăng giáng bất thường
+@Chuyên ngành kinh tế
+-sự cố bất ngờ
+-sự rủi ro
+-tai biến
+-tai nạn
+@Chuyên ngành kỹ thuật
+-hỏng hóc
+-sự cố
+-sự hỏng
+-sự hỏng hóc
+-sự hư hỏng
+-sự ngẫu nhiên
+-sự rủi ro
+@Lĩnh vực: cơ khí & công trình
+-địa hình gồ ghề
+@Lĩnh vực: xây dựng
+-địa hình mấp mô
+-sự việc ngẫu nhiên
+@Lĩnh vực: toán & tin
+-trường hợp không may

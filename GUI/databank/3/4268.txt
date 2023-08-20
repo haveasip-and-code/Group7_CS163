@@ -1,3 +1,16 @@
-axial
-	@axial /'æksiəl/\n*  tính từ\n- (thuộc) trục; quanh trục\n=axial symmetry+ sự xứng đối qua trục\n=axial vector+ vectơ trục\n@Chuyên ngành kỹ thuật\n-hướng tâm\n-hướng trục\n@Lĩnh vực: xây dựng\n-chiều trục\n-dọc trục\n@Lĩnh vực: cơ khí & công trình\n-dọc theo trục\n-thuộc về trục\n@Lĩnh vực: điện lạnh\n-theo trục
-
+axial	@axial /'æksiəl/
+*  tính từ
+- (thuộc) trục; quanh trục
+=axial symmetry+ sự xứng đối qua trục
+=axial vector+ vectơ trục
+@Chuyên ngành kỹ thuật
+-hướng tâm
+-hướng trục
+@Lĩnh vực: xây dựng
+-chiều trục
+-dọc trục
+@Lĩnh vực: cơ khí & công trình
+-dọc theo trục
+-thuộc về trục
+@Lĩnh vực: điện lạnh
+-theo trục

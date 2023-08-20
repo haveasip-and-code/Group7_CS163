@@ -1,3 +1,9 @@
-debugging
-	@debugging\n- gỡ rối\n@Chuyên ngành kỹ thuật\n-sự chỉnh lý\n-sự dắt\n-sự gỡ rối\n@Lĩnh vực: toán & tin\n-gỡ rối\n-sự gỡ dối
-
+debugging	@debugging
+- gỡ rối
+@Chuyên ngành kỹ thuật
+-sự chỉnh lý
+-sự dắt
+-sự gỡ rối
+@Lĩnh vực: toán & tin
+-gỡ rối
+-sự gỡ dối

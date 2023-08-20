@@ -1,3 +1,22 @@
-binary
-	@binary /'bainəri/\n*  tính từ\n- đôi, nhị nguyên, nhị phân\n=binary measure+ (âm nhạc) nhịp đôi\n=binary operation+ (toán học) phép toán nhị phân\n=binary fraction+ (toán học) phân số nhị phân\n=binary system+ hệ nhị nguyên\n@Chuyên ngành kinh tế\n-đôi\n-nhị phân\n@Chuyên ngành kỹ thuật\n-đôi\n-hai cấu tử\n-hai thành phần\n-hệ nhị phân\n-hợp kim đôi\n-nhị nguyên\n-nhị phân\n@Lĩnh vực: toán & tin\n-hai ngôi\n@Lĩnh vực: điện lạnh\n-sao đôi
-
+binary	@binary /'bainəri/
+*  tính từ
+- đôi, nhị nguyên, nhị phân
+=binary measure+ (âm nhạc) nhịp đôi
+=binary operation+ (toán học) phép toán nhị phân
+=binary fraction+ (toán học) phân số nhị phân
+=binary system+ hệ nhị nguyên
+@Chuyên ngành kinh tế
+-đôi
+-nhị phân
+@Chuyên ngành kỹ thuật
+-đôi
+-hai cấu tử
+-hai thành phần
+-hệ nhị phân
+-hợp kim đôi
+-nhị nguyên
+-nhị phân
+@Lĩnh vực: toán & tin
+-hai ngôi
+@Lĩnh vực: điện lạnh
+-sao đôi

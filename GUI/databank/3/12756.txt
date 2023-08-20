@@ -1,3 +1,5 @@
-crosshead
-	@Chuyên ngành kỹ thuật\n-chạc chữ thập\n-dầm đỉnh\n@Lĩnh vực: cơ khí & công trình\n-con trượt (chữ thập)
-
+crosshead	@Chuyên ngành kỹ thuật
+-chạc chữ thập
+-dầm đỉnh
+@Lĩnh vực: cơ khí & công trình
+-con trượt (chữ thập)

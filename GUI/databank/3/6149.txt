@@ -1,3 +1,6 @@
-bodyguard
-	@bodyguard\n* danh từ\n- người hoặc nhóm người có nhiệm vụ bảo vệ một nhân vật quan trọng; vệ sĩ; đội bảo vệ\n= The President's bodyguard is/are armed+Vệ sĩ của Tổng thống có mang vũ khí\n@Chuyên ngành kỹ thuật\n-cận vệ
-
+bodyguard	@bodyguard
+* danh từ
+- người hoặc nhóm người có nhiệm vụ bảo vệ một nhân vật quan trọng; vệ sĩ; đội bảo vệ
+= The President's bodyguard is/are armed+Vệ sĩ của Tổng thống có mang vũ khí
+@Chuyên ngành kỹ thuật
+-cận vệ

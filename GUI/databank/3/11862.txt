@@ -1,3 +1,2 @@
-copyrightable
-	@copyrightable\n- xem copyright
-
+copyrightable	@copyrightable
+- xem copyright

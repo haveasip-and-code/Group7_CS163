@@ -1,3 +1,3 @@
-abbreviations
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-những chữ viết tắt
-
+abbreviations	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-những chữ viết tắt

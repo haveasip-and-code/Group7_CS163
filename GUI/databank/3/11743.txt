@@ -1,3 +1,2 @@
-convincer
-	@convincer\n- xem convince
-
+convincer	@convincer
+- xem convince

@@ -1,3 +1,6 @@
-arabic
-	@arabic /'ærəbik/\n*  tính từ\n- thuộc A-rập\n=arabic numerals+ chữ số A-rập\n*  danh từ\n- tiếng A-rập
-
+arabic	@arabic /'ærəbik/
+*  tính từ
+- thuộc A-rập
+=arabic numerals+ chữ số A-rập
+*  danh từ
+- tiếng A-rập

@@ -1,0 +1,10 @@
+booking	
+@Chuyên ngành kinh tế
+-dành chỗ
+-đặt chở
+-đặt mua
+-giữ chỗ
+-lưu khoang
+-lưu khoang (dành chỗ trước để chuyên chở hàng hóa)
+-sự giữ chỗ (trước)
+-việc mua vé trước

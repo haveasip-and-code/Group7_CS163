@@ -1,3 +1,2 @@
-corruptibly
-	@corruptibly\n- xem corruptible
-
+corruptibly	@corruptibly
+- xem corruptible

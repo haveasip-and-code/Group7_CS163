@@ -1,3 +1,5 @@
-bubbler
-	@Chuyên ngành kỹ thuật\n-cái làm sủi bọt\n-máy tạo bọt\n@Lĩnh vực: hóa học & vật liệu\n-máy sục khí
-
+bubbler	@Chuyên ngành kỹ thuật
+-cái làm sủi bọt
+-máy tạo bọt
+@Lĩnh vực: hóa học & vật liệu
+-máy sục khí

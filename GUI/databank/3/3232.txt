@@ -1,3 +1,7 @@
-areaway
-	@Chuyên ngành kỹ thuật\n-đường hào\n-hố tập trung nước\n-lối đi\n-thông gió\n@Lĩnh vực: xây dựng\n-cửa thông ánh sáng
-
+areaway	@Chuyên ngành kỹ thuật
+-đường hào
+-hố tập trung nước
+-lối đi
+-thông gió
+@Lĩnh vực: xây dựng
+-cửa thông ánh sáng

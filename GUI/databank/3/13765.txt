@@ -1,3 +1,5 @@
-decease
-	@decease /di'si:s/\n*  danh từ\n- sự chết, sự qua đời\n*  nội động từ\n- chết
-
+decease	@decease /di'si:s/
+*  danh từ
+- sự chết, sự qua đời
+*  nội động từ
+- chết

@@ -1,3 +1,2 @@
-clabber
-	@Chuyên ngành kinh tế\n-trở nên chua
-
+clabber	@Chuyên ngành kinh tế
+-trở nên chua

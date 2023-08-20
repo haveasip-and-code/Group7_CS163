@@ -1,3 +1,91 @@
-clean
-	@clean /kli:n/\n*  tính từ\n- sạch, sạch sẽ\n=a clean boy+ đứa trẻ sạch sẽ\n=a clean room+ căn phòng sạch sẽ\n- (nghĩa bóng) trong sạch không tội lỗi\n=a clean life+ cuộc sống trong sạch\n- không lỗi, dễ đọc (bản in)\n- thẳng, không có mấu; không nham nhở\n=a sharp knife makes a clean cut+ dao bén cắt thẳng\n=clean wood+ gỗ không có mấu\n- cân đối, đẹp\n=clean line+ đường nét đẹp cân đối\n=clean limbs+ chân tay cân đối\n- nhanh, khéo gọn\n=a clean blow+ cú đấm gọn\n- (kinh thánh) không bị ô uế; không bệnh tật\n- có thể ăn thịt được\n!as clean as new pin\n- sạch như chùi\n!clean tongue\n- cách ăn nói nhã nhặn\n!clean slate\n- (nghĩa bóng) tình trạng không một tí gì ràng buộc\n!to have clean hands in the matter\n- không dính líu gì về việc đó\n!to make a clean breast of\n- (xem) breast\n!to make a clean sweep of\n- quét sạch, hoàn toàn xoá bỏ\n!to show a clean pair of heels\n- (xem) heel\n*  danh từ\n- sự lau sạch, sự rửa sạch, sự quét sạch\n=give it a good clean+ lau cái đó cho thật sạch đi\n*  phó từ\n- hoàn toàn, hẳn\n=I clean forget about it+ tôi quên hẳn chuyện đó\n=they got clean away+ chúng đi mất, hoàn toàn không để lại dấu vết gì\n- sạch, sạch sẽ\n=to scrub the floor clean+ cọ sạch sàn\n*  ngoại động từ\n- lau chùi, rửa sạch, cạo sạch, đánh sạch, tẩy sạch, vét sạch, quét sạch\n=to clean clothes+ tẩy quần áo\n=to clean a road+ quét đường\n=to clean a pot+ cạo nồi, đánh nồi\n=to clean a well+ vét giếng\n=to clean a room+ quét dọn phòng\n=to clean one's teeth+ đánh răng\n=to clean a piece of land+ giẫy cỏ một mảnh đất\n=to clean oil+ lọc dầu\n=to clean a wound+ rửa sạch vết thương\n=to clean a channel+ nạo vét kênh\n=to clean a fish+ moi ruột cá\n=to clean vegetables+ nhặt rau\n!to clean down\n- chải (ngựa); làm cho sạch, quét sạch (tường...)\n!to clean out\n- cạo, nạo, dọn sạch, làm cho sạch\n=to clean out a drawer+ dọn sạch ngăn kéo\n=to clean out someone+ (từ lóng) bóc lột hết tiền của ai; bòn hết tiền của ai\n!to clean up\n- dọn, dọn dẹp, dọn vệ sinh; sắp xếp gọn ghẽ\n=to clean up a room+ dọn vệ sinh phòng\n- hoàn thành công việc\n- (từ Mỹ,nghĩa Mỹ), lóng vớ được món tiền lớn\n!to be cleaned out\n- nhẵn túi, cháy túi, sạch túi, bị bòn rút hết\n@Chuyên ngành kinh tế\n-đánh sạch\n-làm sạch\n-rửa sạch\n-sạch\n-tẩy sạch\n-thanh thoát\n-trôi chảy\n-trơn\n@Chuyên ngành kỹ thuật\n-cọ rửa\n-gia công tinh\n-làm gạch\n-làm sạch\n-lau chùi\n-lọc\n-sạch\n-tinh\n@Lĩnh vực: cơ khí & công trình\n-làm tinh\n@Lĩnh vực: xây dựng\n-rửa lọc\n-sạch sẽ
-
+clean	@clean /kli:n/
+*  tính từ
+- sạch, sạch sẽ
+=a clean boy+ đứa trẻ sạch sẽ
+=a clean room+ căn phòng sạch sẽ
+- (nghĩa bóng) trong sạch không tội lỗi
+=a clean life+ cuộc sống trong sạch
+- không lỗi, dễ đọc (bản in)
+- thẳng, không có mấu; không nham nhở
+=a sharp knife makes a clean cut+ dao bén cắt thẳng
+=clean wood+ gỗ không có mấu
+- cân đối, đẹp
+=clean line+ đường nét đẹp cân đối
+=clean limbs+ chân tay cân đối
+- nhanh, khéo gọn
+=a clean blow+ cú đấm gọn
+- (kinh thánh) không bị ô uế; không bệnh tật
+- có thể ăn thịt được
+!as clean as new pin
+- sạch như chùi
+!clean tongue
+- cách ăn nói nhã nhặn
+!clean slate
+- (nghĩa bóng) tình trạng không một tí gì ràng buộc
+!to have clean hands in the matter
+- không dính líu gì về việc đó
+!to make a clean breast of
+- (xem) breast
+!to make a clean sweep of
+- quét sạch, hoàn toàn xoá bỏ
+!to show a clean pair of heels
+- (xem) heel
+*  danh từ
+- sự lau sạch, sự rửa sạch, sự quét sạch
+=give it a good clean+ lau cái đó cho thật sạch đi
+*  phó từ
+- hoàn toàn, hẳn
+=I clean forget about it+ tôi quên hẳn chuyện đó
+=they got clean away+ chúng đi mất, hoàn toàn không để lại dấu vết gì
+- sạch, sạch sẽ
+=to scrub the floor clean+ cọ sạch sàn
+*  ngoại động từ
+- lau chùi, rửa sạch, cạo sạch, đánh sạch, tẩy sạch, vét sạch, quét sạch
+=to clean clothes+ tẩy quần áo
+=to clean a road+ quét đường
+=to clean a pot+ cạo nồi, đánh nồi
+=to clean a well+ vét giếng
+=to clean a room+ quét dọn phòng
+=to clean one's teeth+ đánh răng
+=to clean a piece of land+ giẫy cỏ một mảnh đất
+=to clean oil+ lọc dầu
+=to clean a wound+ rửa sạch vết thương
+=to clean a channel+ nạo vét kênh
+=to clean a fish+ moi ruột cá
+=to clean vegetables+ nhặt rau
+!to clean down
+- chải (ngựa); làm cho sạch, quét sạch (tường...)
+!to clean out
+- cạo, nạo, dọn sạch, làm cho sạch
+=to clean out a drawer+ dọn sạch ngăn kéo
+=to clean out someone+ (từ lóng) bóc lột hết tiền của ai; bòn hết tiền của ai
+!to clean up
+- dọn, dọn dẹp, dọn vệ sinh; sắp xếp gọn ghẽ
+=to clean up a room+ dọn vệ sinh phòng
+- hoàn thành công việc
+- (từ Mỹ,nghĩa Mỹ), lóng vớ được món tiền lớn
+!to be cleaned out
+- nhẵn túi, cháy túi, sạch túi, bị bòn rút hết
+@Chuyên ngành kinh tế
+-đánh sạch
+-làm sạch
+-rửa sạch
+-sạch
+-tẩy sạch
+-thanh thoát
+-trôi chảy
+-trơn
+@Chuyên ngành kỹ thuật
+-cọ rửa
+-gia công tinh
+-làm gạch
+-làm sạch
+-lau chùi
+-lọc
+-sạch
+-tinh
+@Lĩnh vực: cơ khí & công trình
+-làm tinh
+@Lĩnh vực: xây dựng
+-rửa lọc
+-sạch sẽ

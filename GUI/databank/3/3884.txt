@@ -1,3 +1,15 @@
-attenuator
-	@attenuator\n- (Tech) bộ suy giảm\n@Chuyên ngành kỹ thuật\n-bộ suy giảm\n-bộ tiêu âm\n@Lĩnh vực: toán & tin\n-bộ làm suy giảm\n-máy giảm nhẹ\n@Lĩnh vực: điện lạnh\n-hộp tiêu âm\n@Lĩnh vực: xây dựng\n-mạch giảm âm\n-máy giảm suất\n@Lĩnh vực: điện\n-thiết bị suy giảm
-
+attenuator	@attenuator
+- (Tech) bộ suy giảm
+@Chuyên ngành kỹ thuật
+-bộ suy giảm
+-bộ tiêu âm
+@Lĩnh vực: toán & tin
+-bộ làm suy giảm
+-máy giảm nhẹ
+@Lĩnh vực: điện lạnh
+-hộp tiêu âm
+@Lĩnh vực: xây dựng
+-mạch giảm âm
+-máy giảm suất
+@Lĩnh vực: điện
+-thiết bị suy giảm

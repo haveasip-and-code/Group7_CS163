@@ -1,3 +1,24 @@
-chest
-	@chest /tʃest/\n*  danh từ\n- rương, hòm, tủ, két\n=a medicine chest+ tủ thuốc\n=a carpenter's chest+ hòm đồ thợ mộc\n- tủ com mốt ((cũng) chest of drawers)\n- ngực\n!to get something off one's chest\n- nói hết điều gì ra không để bụng\n@Chuyên ngành kinh tế\n-buồng\n-thùng\n-tủ\n@Chuyên ngành kỹ thuật\n-bụng lò\n-buồng\n-giấy\n-hòm\n-hộp\n-hộp dụng cụ\n-ngực\n-phòng\n@Lĩnh vực: cơ khí & công trình\n-tủ két
-
+chest	@chest /tʃest/
+*  danh từ
+- rương, hòm, tủ, két
+=a medicine chest+ tủ thuốc
+=a carpenter's chest+ hòm đồ thợ mộc
+- tủ com mốt ((cũng) chest of drawers)
+- ngực
+!to get something off one's chest
+- nói hết điều gì ra không để bụng
+@Chuyên ngành kinh tế
+-buồng
+-thùng
+-tủ
+@Chuyên ngành kỹ thuật
+-bụng lò
+-buồng
+-giấy
+-hòm
+-hộp
+-hộp dụng cụ
+-ngực
+-phòng
+@Lĩnh vực: cơ khí & công trình
+-tủ két

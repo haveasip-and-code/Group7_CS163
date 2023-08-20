@@ -1,3 +1,31 @@
-compass
-	@compass /'kʌmpəs/\n*  danh từ số nhiều\n- com-pa ((cũng) a pair of compasses)\n- la bàn\n=mariner's compass+ la bàn đi biển\n=gyroscopi compass+ la bàn hồi chuyển\n=magnetic compass+ la bàn từ\n- vòng điện, phạm vi, tầm\n=beyond one's compass+ vượt phạm vi hiểu biết\n=within the compass of man's understanding+ trong phạm vi hiểu biết của con người\n=to keep (remain) within compass+ giữ trong phạm vi, giữ trong vòng, không vượt quá ra ngoài phạm vi\n- đường vòng, đường quanh\n=to fetch (cast, take, go) a compass+ đi đường vòng\n- (âm nhạc) tầm âm\n!to box the compass\n- (hàng hải) đi hết một vòng\n- (nghĩa bóng) bàn quanh bàn quẩn rồi lại trở lại điểm bắt đầu\n*  ngoại động từ\n- đi vòng quanh (cái gì)\n- bao vây, vây quanh\n- hiểu rõ, nắm được, kĩnh hội\n=I can't compass such complex problems+ tôi không thể nắm được những vấn đề phức tạp như vậy\n- âm mưu, mưu đồ\n=to compass someone's death+ âm mưu giết ai\n- thực hiện, hoàn thành, đạt được\n=to compass one's purpose+ đạt được mục đích\n@Chuyên ngành kỹ thuật\n-địa bàn\n-đường tròn\n-la bàn\n-vòng tròn
-
+compass	@compass /'kʌmpəs/
+*  danh từ số nhiều
+- com-pa ((cũng) a pair of compasses)
+- la bàn
+=mariner's compass+ la bàn đi biển
+=gyroscopi compass+ la bàn hồi chuyển
+=magnetic compass+ la bàn từ
+- vòng điện, phạm vi, tầm
+=beyond one's compass+ vượt phạm vi hiểu biết
+=within the compass of man's understanding+ trong phạm vi hiểu biết của con người
+=to keep (remain) within compass+ giữ trong phạm vi, giữ trong vòng, không vượt quá ra ngoài phạm vi
+- đường vòng, đường quanh
+=to fetch (cast, take, go) a compass+ đi đường vòng
+- (âm nhạc) tầm âm
+!to box the compass
+- (hàng hải) đi hết một vòng
+- (nghĩa bóng) bàn quanh bàn quẩn rồi lại trở lại điểm bắt đầu
+*  ngoại động từ
+- đi vòng quanh (cái gì)
+- bao vây, vây quanh
+- hiểu rõ, nắm được, kĩnh hội
+=I can't compass such complex problems+ tôi không thể nắm được những vấn đề phức tạp như vậy
+- âm mưu, mưu đồ
+=to compass someone's death+ âm mưu giết ai
+- thực hiện, hoàn thành, đạt được
+=to compass one's purpose+ đạt được mục đích
+@Chuyên ngành kỹ thuật
+-địa bàn
+-đường tròn
+-la bàn
+-vòng tròn

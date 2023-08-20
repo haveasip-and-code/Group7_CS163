@@ -1,3 +1,4 @@
-conformal
-	@conformal\n- (Tech) thuộc bảo giác, thuộc bảo hình [ĐL]\n@Chuyên ngành kỹ thuật\n-bảo giác
-
+conformal	@conformal
+- (Tech) thuộc bảo giác, thuộc bảo hình [ĐL]
+@Chuyên ngành kỹ thuật
+-bảo giác

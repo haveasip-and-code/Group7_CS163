@@ -1,3 +1,2 @@
-decarbonizer
-	@decarbonizer\n- xem decarbonize
-
+decarbonizer	@decarbonizer
+- xem decarbonize

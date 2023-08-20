@@ -1,3 +1,10 @@
-cay
-	@cay\n* danh từ\n- đảo thấp nhỏ\n@Chuyên ngành kinh tế\n-mũi đất\n@Chuyên ngành kỹ thuật\n-doi cát ngầm\n-rạn\n@Lĩnh vực: hóa học & vật liệu\n-bãi cát nông
-
+cay	@cay
+* danh từ
+- đảo thấp nhỏ
+@Chuyên ngành kinh tế
+-mũi đất
+@Chuyên ngành kỹ thuật
+-doi cát ngầm
+-rạn
+@Lĩnh vực: hóa học & vật liệu
+-bãi cát nông

@@ -1,3 +1,2 @@
-coverless
-	@coverless\n- xem cover
-
+coverless	@coverless
+- xem cover

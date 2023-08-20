@@ -1,3 +1,7 @@
-ambience
-	@ambience\n* danh từ\n- môi trường, không khí của một địa điểm\n@Chuyên ngành kỹ thuật\n-hoàn cảnh\n-môi trường\n-môi trường xung quanh
-
+ambience	@ambience
+* danh từ
+- môi trường, không khí của một địa điểm
+@Chuyên ngành kỹ thuật
+-hoàn cảnh
+-môi trường
+-môi trường xung quanh

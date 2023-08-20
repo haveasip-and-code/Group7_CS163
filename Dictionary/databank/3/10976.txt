@@ -1,3 +1,0 @@
-conditionally
-	@conditionally\n* phó từ\n- có điều kiện, tùy theo điều kiện
-

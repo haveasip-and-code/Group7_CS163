@@ -1,3 +1,2 @@
-demonization
-	@demonization\n- xem demonize
-
+demonization	@demonization
+- xem demonize

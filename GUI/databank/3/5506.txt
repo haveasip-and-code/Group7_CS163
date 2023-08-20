@@ -1,3 +1,4 @@
-bilinear
-	@bilinear\n- song tuyến tính\n@Chuyên ngành kỹ thuật\n-song tuyến tính
-
+bilinear	@bilinear
+- song tuyến tính
+@Chuyên ngành kỹ thuật
+-song tuyến tính

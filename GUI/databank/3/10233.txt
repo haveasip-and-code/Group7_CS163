@@ -1,3 +1,7 @@
-colinear
-	@colinear\n* tính từ\n- (toán học) cùng đường thẳng; cộng tuyến\n- có những bộ phận tương ứng theo cùng một trật tự tuyến tính\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cộng tuyến
-
+colinear	@colinear
+* tính từ
+- (toán học) cùng đường thẳng; cộng tuyến
+- có những bộ phận tương ứng theo cùng một trật tự tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cộng tuyến

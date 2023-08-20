@@ -1,3 +1,45 @@
-boost
-	@boost /bu:st/\n*  danh từ\n- (thông tục) sự quảng cáo rùm beng (cho ai)\n- sự tăng giá\n- sự nổi tiếng\n- (điện học) sự tăng thế\n*  ngoại động từ\n- nâng lên, đưa lên\n- quảng cáo rùm beng (cho ai)\n- tăng giá\n- làm cho nổi tiếng\n- (điện học) tăng thế\n@Chuyên ngành kinh tế\n-cổ động\n-kế hoạch quảng cáo có tính kích động\n-làm cho nổi\n-nâng cao\n-nâng giá\n-quảng cáo rùm beng\n-sự thúc đẩy\n-tăng gia\n-tăng thêm (giá cả, tiền lương, sản xuất ...)\n-thúc đẩy\n@Chuyên ngành kỹ thuật\n-khuếch đại\n-nâng lên\n-nạp (acquy)\n-sự nâng cao\n-sự tăng\n-sự tăng áp\n-sự tăng cường\n-tăng áp\n-tăng cường\n-tăng lên\n@Lĩnh vực: cơ khí & công trình\n-cường hóa\n-sự gia tăng\n-tăng cường độ\n@Lĩnh vực: ô tô\n-tăng công suất\n@Lĩnh vực: hóa học & vật liệu\n-tăng điện áp\n-tăng thế\n@Lĩnh vực: toán & tin\n-tăng điện thế
-
+boost	@boost /bu:st/
+*  danh từ
+- (thông tục) sự quảng cáo rùm beng (cho ai)
+- sự tăng giá
+- sự nổi tiếng
+- (điện học) sự tăng thế
+*  ngoại động từ
+- nâng lên, đưa lên
+- quảng cáo rùm beng (cho ai)
+- tăng giá
+- làm cho nổi tiếng
+- (điện học) tăng thế
+@Chuyên ngành kinh tế
+-cổ động
+-kế hoạch quảng cáo có tính kích động
+-làm cho nổi
+-nâng cao
+-nâng giá
+-quảng cáo rùm beng
+-sự thúc đẩy
+-tăng gia
+-tăng thêm (giá cả, tiền lương, sản xuất ...)
+-thúc đẩy
+@Chuyên ngành kỹ thuật
+-khuếch đại
+-nâng lên
+-nạp (acquy)
+-sự nâng cao
+-sự tăng
+-sự tăng áp
+-sự tăng cường
+-tăng áp
+-tăng cường
+-tăng lên
+@Lĩnh vực: cơ khí & công trình
+-cường hóa
+-sự gia tăng
+-tăng cường độ
+@Lĩnh vực: ô tô
+-tăng công suất
+@Lĩnh vực: hóa học & vật liệu
+-tăng điện áp
+-tăng thế
+@Lĩnh vực: toán & tin
+-tăng điện thế

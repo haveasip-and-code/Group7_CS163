@@ -1,3 +1,2 @@
-crustless
-	@crustless\n- xem crust
-
+crustless	@crustless
+- xem crust

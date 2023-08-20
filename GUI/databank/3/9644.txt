@@ -1,3 +1,2 @@
-classicality
-	@classicality\n- xem classical
-
+classicality	@classicality
+- xem classical

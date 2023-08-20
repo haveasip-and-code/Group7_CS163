@@ -1,3 +1,4 @@
-crankcase
-	@Chuyên ngành kỹ thuật\n-cácte\n-vỏ động cơ\n-vỏ môtơ
-
+crankcase	@Chuyên ngành kỹ thuật
+-cácte
+-vỏ động cơ
+-vỏ môtơ

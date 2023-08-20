@@ -1,3 +1,2 @@
-bobtailed
-	@bobtailed\n- xem bobtail
-
+bobtailed	@bobtailed
+- xem bobtail

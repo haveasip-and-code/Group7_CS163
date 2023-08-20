@@ -1,3 +1,23 @@
-alloy
-	@alloy /'ælɔi/\n*  danh từ\n- hợp kim\n- tuổi (kim loại quý như vàng bạc)\n- chất hỗn hợp; sự pha trộn\n=happiness without alloy+ niềm hạnh phúc hoàn toàn không có gì làm vằn gợn\n*  ngoại động từ\n- nấu thành hợp kim\n- trộn vào, pha trộn\n- làm xấu đi, làm giảm giá trị đi\n@Chuyên ngành kinh tế\n-hợp kim\n-tuổi (của vàng, bạc...)\n@Chuyên ngành kỹ thuật\n-hỗn hợp\n-hợp kim\n@Lĩnh vực: điện lạnh\n-chất hỗn hợp\n@Lĩnh vực: cơ khí & công trình\n-chất pha trộn\n-sự pha (trộn)\n@Lĩnh vực: ô tô\n-kim loại màu sáng
-
+alloy	@alloy /'ælɔi/
+*  danh từ
+- hợp kim
+- tuổi (kim loại quý như vàng bạc)
+- chất hỗn hợp; sự pha trộn
+=happiness without alloy+ niềm hạnh phúc hoàn toàn không có gì làm vằn gợn
+*  ngoại động từ
+- nấu thành hợp kim
+- trộn vào, pha trộn
+- làm xấu đi, làm giảm giá trị đi
+@Chuyên ngành kinh tế
+-hợp kim
+-tuổi (của vàng, bạc...)
+@Chuyên ngành kỹ thuật
+-hỗn hợp
+-hợp kim
+@Lĩnh vực: điện lạnh
+-chất hỗn hợp
+@Lĩnh vực: cơ khí & công trình
+-chất pha trộn
+-sự pha (trộn)
+@Lĩnh vực: ô tô
+-kim loại màu sáng

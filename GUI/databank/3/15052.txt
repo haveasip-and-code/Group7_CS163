@@ -1,3 +1,7 @@
-dewatering
-	@Chuyên ngành kỹ thuật\n-khử nước\n-sự hong khô\n-sự khử nước\n-sự thoát nước\n-sự tiêu nước\n-tiêu nước
-
+dewatering	@Chuyên ngành kỹ thuật
+-khử nước
+-sự hong khô
+-sự khử nước
+-sự thoát nước
+-sự tiêu nước
+-tiêu nước

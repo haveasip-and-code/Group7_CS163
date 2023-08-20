@@ -1,3 +1,7 @@
-anatomist
-	@anatomist /ə'nætəmist/\n*  danh từ\n- nhà mổ xẻ, nhà giải phẫu\n- người phân tích, người mổ xẻ (nghĩa bóng)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bác sĩ giải phẫu
-
+anatomist	@anatomist /ə'nætəmist/
+*  danh từ
+- nhà mổ xẻ, nhà giải phẫu
+- người phân tích, người mổ xẻ (nghĩa bóng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bác sĩ giải phẫu

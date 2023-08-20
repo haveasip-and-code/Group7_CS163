@@ -1,3 +1,2 @@
-anopheline
-	@anopheline\n- xem anopheles
-
+anopheline	@anopheline
+- xem anopheles

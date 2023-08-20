@@ -1,3 +1,27 @@
-chaser
-	@chaser /'tʃeisə/\n*  danh từ\n- người đuổi theo, người đánh đuổi\n- người đi săn\n- (hàng hải) tàu khu trục\n- (hàng hải) súng đại bác ở mũi (đuôi) tàu\n- (thông tục) ly rượu uống sau khi dùng cà phê; ly nước uống sau khi dùng rượu mạnh\n*  danh từ\n- người chạm, người trổ, người khắc\n- bàn ren, dao ren\n@Chuyên ngành kinh tế\n-người đánh đuổi\n-người đi săn\n@Chuyên ngành kỹ thuật\n-bàn ren\n-dao khắc\n-dao ren\n-lược ren\n-người chạm\n-người khắc\n@Lĩnh vực: điện tử & viễn thông\n-con tàu đuổi theo\n@Lĩnh vực: cơ khí & công trình\n-dao (cắt) ren\n-người theo dõi\n-răng dao cắt\n-tarô gia công tinh
-
+chaser	@chaser /'tʃeisə/
+*  danh từ
+- người đuổi theo, người đánh đuổi
+- người đi săn
+- (hàng hải) tàu khu trục
+- (hàng hải) súng đại bác ở mũi (đuôi) tàu
+- (thông tục) ly rượu uống sau khi dùng cà phê; ly nước uống sau khi dùng rượu mạnh
+*  danh từ
+- người chạm, người trổ, người khắc
+- bàn ren, dao ren
+@Chuyên ngành kinh tế
+-người đánh đuổi
+-người đi săn
+@Chuyên ngành kỹ thuật
+-bàn ren
+-dao khắc
+-dao ren
+-lược ren
+-người chạm
+-người khắc
+@Lĩnh vực: điện tử & viễn thông
+-con tàu đuổi theo
+@Lĩnh vực: cơ khí & công trình
+-dao (cắt) ren
+-người theo dõi
+-răng dao cắt
+-tarô gia công tinh

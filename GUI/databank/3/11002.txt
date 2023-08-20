@@ -1,3 +1,11 @@
-conductive
-	@conductive /kən'dʌktiv/\n*  tính từ\n- (vật lý) dẫn\n@Chuyên ngành kỹ thuật\n-dẫn điện\n-tính dẫn điện\n-truyền nhiệt\n@Lĩnh vực: điện\n-có tính dẫn điện\n@Lĩnh vực: xây dựng\n-tính dẫn truyền
-
+conductive	@conductive /kən'dʌktiv/
+*  tính từ
+- (vật lý) dẫn
+@Chuyên ngành kỹ thuật
+-dẫn điện
+-tính dẫn điện
+-truyền nhiệt
+@Lĩnh vực: điện
+-có tính dẫn điện
+@Lĩnh vực: xây dựng
+-tính dẫn truyền

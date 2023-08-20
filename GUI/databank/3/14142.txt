@@ -1,3 +1,38 @@
-degradation
-	@degradation /,degrə'deiʃn/\n*  danh từ\n- sự giáng chức; sự hạ tầng công tác\n- sự làm mất danh giá, sự làm mất thanh thể\n- sự làm giảm giá trị, sự làm thành đê hèn, sự làm thành hèn hạ\n- sự giảm sút (sức khoẻ...)\n- sự suy biến, sự thoái hoá\n- (hoá học) sự thoái biến\n- (địa lý,địa chất) sự rã ra, sự mủn ra (đá...)\n- (vật lý) sự giảm phẩm chất\n=degradation of energy+ sự giảm phẩm chất của năng lượng\n- (nghệ thuật) sự phai, sự nhạt đi (màu sắc)\n@Chuyên ngành kinh tế\n-sự giảm\n-sự lão hóa\n-sự phân hủy\n-sự thóai hóa\n@Chuyên ngành kỹ thuật\n-biến chất\n-giảm\n-giảm phẩm chất\n-sự giảm sút\n-sự lão hóa\n-sự phá hủy\n-sự phân rã\n-sự suy biến\n-sự thoái hóa\n-sự xói mòn\n-sự xuống cấp\n-suy giảm\n-thoái hóa\n-xói mòn\n@Lĩnh vực: hóa học & vật liệu\n-sự giảm cấp\n@Lĩnh vực: y học\n-sự thoái biến\n@Lĩnh vực: xây dựng\n-xuống cấp
-
+degradation	@degradation /,degrə'deiʃn/
+*  danh từ
+- sự giáng chức; sự hạ tầng công tác
+- sự làm mất danh giá, sự làm mất thanh thể
+- sự làm giảm giá trị, sự làm thành đê hèn, sự làm thành hèn hạ
+- sự giảm sút (sức khoẻ...)
+- sự suy biến, sự thoái hoá
+- (hoá học) sự thoái biến
+- (địa lý,địa chất) sự rã ra, sự mủn ra (đá...)
+- (vật lý) sự giảm phẩm chất
+=degradation of energy+ sự giảm phẩm chất của năng lượng
+- (nghệ thuật) sự phai, sự nhạt đi (màu sắc)
+@Chuyên ngành kinh tế
+-sự giảm
+-sự lão hóa
+-sự phân hủy
+-sự thóai hóa
+@Chuyên ngành kỹ thuật
+-biến chất
+-giảm
+-giảm phẩm chất
+-sự giảm sút
+-sự lão hóa
+-sự phá hủy
+-sự phân rã
+-sự suy biến
+-sự thoái hóa
+-sự xói mòn
+-sự xuống cấp
+-suy giảm
+-thoái hóa
+-xói mòn
+@Lĩnh vực: hóa học & vật liệu
+-sự giảm cấp
+@Lĩnh vực: y học
+-sự thoái biến
+@Lĩnh vực: xây dựng
+-xuống cấp

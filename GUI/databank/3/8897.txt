@@ -1,3 +1,7 @@
-checkroom
-	@checkroom\n* danh từ\n- phòng gửi áo mũ\n- phòng giữ hành lý\n@Chuyên ngành kinh tế\n-nơi gửi áo mũ\n-phòng gửi hành lý (ở bến xe)
-
+checkroom	@checkroom
+* danh từ
+- phòng gửi áo mũ
+- phòng giữ hành lý
+@Chuyên ngành kinh tế
+-nơi gửi áo mũ
+-phòng gửi hành lý (ở bến xe)

@@ -1,3 +1,19 @@
-conditioning
-	@Chuyên ngành kinh tế\n-sự điều hòa nhiệt độ\n@Chuyên ngành kỹ thuật\n-biến đổi\n-đặt điều kiện\n-điều hòa\n-sự điều phối\n-sự điều tiết\n-sự điều tiết, chuẩn hóa\n-sự ủ nóng đều\n-sự xử lý\n@Lĩnh vực: y học\n-điều kiện hóa\n@Lĩnh vực: cơ khí & công trình\n-sự điều hòa\n@Lĩnh vực: xây dựng\n-sự hong khô gỗ\n@Lĩnh vực: toán & tin\n-sự quy định
-
+conditioning	@Chuyên ngành kinh tế
+-sự điều hòa nhiệt độ
+@Chuyên ngành kỹ thuật
+-biến đổi
+-đặt điều kiện
+-điều hòa
+-sự điều phối
+-sự điều tiết
+-sự điều tiết, chuẩn hóa
+-sự ủ nóng đều
+-sự xử lý
+@Lĩnh vực: y học
+-điều kiện hóa
+@Lĩnh vực: cơ khí & công trình
+-sự điều hòa
+@Lĩnh vực: xây dựng
+-sự hong khô gỗ
+@Lĩnh vực: toán & tin
+-sự quy định

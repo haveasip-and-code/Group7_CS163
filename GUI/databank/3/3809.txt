@@ -1,3 +1,2 @@
-atomically
-	@atomically\n- xem atomic
-
+atomically	@atomically
+- xem atomic

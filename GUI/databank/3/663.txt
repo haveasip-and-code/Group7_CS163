@@ -1,3 +1,21 @@
-acute
-	@acute /'əkju:t/\n*  tính từ\n- sắc, sắc bén, sắc sảo; nhạy, tinh, thính\n=an acute sense of smell+ mũi rất thính\n=a man with an acute mind+ người có đầu óc sắc sảo\n- buốt, gay gắc, kịch liệt, sâu sắc\n=an acute pain+ đau buốt\n- (y học) cấp\n=an acute disease+ bệnh cấp\n- (toán học) nhọn (góc)\n=an acute angle+ góc nhọn\n- cao; the thé (giọng, âm thanh)\n=an acute voice+ giọng cao; giọng the thé\n- (ngôn ngữ học) có dấu sắc\n=acute accent+ dấu sắc\n@Chuyên ngành kỹ thuật\n-nhọn\n-nhọn (góc)\n-rõ\n@Lĩnh vực: y học\n-cấp tính
-
+acute	@acute /'əkju:t/
+*  tính từ
+- sắc, sắc bén, sắc sảo; nhạy, tinh, thính
+=an acute sense of smell+ mũi rất thính
+=a man with an acute mind+ người có đầu óc sắc sảo
+- buốt, gay gắc, kịch liệt, sâu sắc
+=an acute pain+ đau buốt
+- (y học) cấp
+=an acute disease+ bệnh cấp
+- (toán học) nhọn (góc)
+=an acute angle+ góc nhọn
+- cao; the thé (giọng, âm thanh)
+=an acute voice+ giọng cao; giọng the thé
+- (ngôn ngữ học) có dấu sắc
+=acute accent+ dấu sắc
+@Chuyên ngành kỹ thuật
+-nhọn
+-nhọn (góc)
+-rõ
+@Lĩnh vực: y học
+-cấp tính

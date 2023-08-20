@@ -1,3 +1,13 @@
-chromatography
-	@chromatography /,kroumə'tɔgrəfi/\n*  danh từ\n- phép ghi sắc\n=ion-exchange chromatography+ phép ghi sắc trao đổi ion\n@Chuyên ngành kinh tế\n-phép sắc ký\n-phương pháp sắc ký\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phép ghi sắc\n-phép sắc ký\n@Lĩnh vực: y học\n-sắc ký
-
+chromatography	@chromatography /,kroumə'tɔgrəfi/
+*  danh từ
+- phép ghi sắc
+=ion-exchange chromatography+ phép ghi sắc trao đổi ion
+@Chuyên ngành kinh tế
+-phép sắc ký
+-phương pháp sắc ký
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phép ghi sắc
+-phép sắc ký
+@Lĩnh vực: y học
+-sắc ký

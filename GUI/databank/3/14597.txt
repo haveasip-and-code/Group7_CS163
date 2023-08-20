@@ -1,3 +1,13 @@
-depository
-	@depository /di'pɔzitəri/\n*  danh từ\n- nơi cất giữ đồ gửi; kho chứa ((nghĩa đen) & (nghĩa bóng))\n=he is a depository of learning+ ông ấy là cả một kho kiến thức\n- người giữ đồ gửi\n@Chuyên ngành kinh tế\n-lán kho\n-người giữ đồ gửi\n-người nhận giữ\n-nhà kho\n-nơi giữ đồ gửi\n@Chuyên ngành kỹ thuật\n-kho
-
+depository	@depository /di'pɔzitəri/
+*  danh từ
+- nơi cất giữ đồ gửi; kho chứa ((nghĩa đen) & (nghĩa bóng))
+=he is a depository of learning+ ông ấy là cả một kho kiến thức
+- người giữ đồ gửi
+@Chuyên ngành kinh tế
+-lán kho
+-người giữ đồ gửi
+-người nhận giữ
+-nhà kho
+-nơi giữ đồ gửi
+@Chuyên ngành kỹ thuật
+-kho

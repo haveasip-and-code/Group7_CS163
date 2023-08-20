@@ -1,3 +1,17 @@
-briquette
-	@briquette /bri'ket/\n*  danh từ\n- than bánh\n@Chuyên ngành kinh tế\n-đóng bánh\n-đóng viên\n-viên\n-viên bánh\n@Chuyên ngành kỹ thuật\n-bánh\n-bánh than\n-đóng bánh\n-đóng viên\n-gạch ép\n-khối\n-mẫu thử vữa\n-viên
-
+briquette	@briquette /bri'ket/
+*  danh từ
+- than bánh
+@Chuyên ngành kinh tế
+-đóng bánh
+-đóng viên
+-viên
+-viên bánh
+@Chuyên ngành kỹ thuật
+-bánh
+-bánh than
+-đóng bánh
+-đóng viên
+-gạch ép
+-khối
+-mẫu thử vữa
+-viên

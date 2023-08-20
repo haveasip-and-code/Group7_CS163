@@ -1,3 +1,18 @@
-cyclone
-	@cyclone /'saikloun/\n*  danh từ\n- khi xoáy thuận, khi xoáy tụ\n@Chuyên ngành kinh tế\n-xyclon\n@Chuyên ngành kỹ thuật\n-bình xyclon (chiết tách)\n-gió xoáy\n-khí xoáy thuận\n-máy hút bụi\n-xiclon\n-xoáy\n-xoáy thuận\n@Lĩnh vực: xây dựng\n-buồng gió xoáy\n-khí xoáy tụ\n-tháp xoáy\n-thùng xoáy
-
+cyclone	@cyclone /'saikloun/
+*  danh từ
+- khi xoáy thuận, khi xoáy tụ
+@Chuyên ngành kinh tế
+-xyclon
+@Chuyên ngành kỹ thuật
+-bình xyclon (chiết tách)
+-gió xoáy
+-khí xoáy thuận
+-máy hút bụi
+-xiclon
+-xoáy
+-xoáy thuận
+@Lĩnh vực: xây dựng
+-buồng gió xoáy
+-khí xoáy tụ
+-tháp xoáy
+-thùng xoáy

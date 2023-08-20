@@ -1,3 +1,2 @@
-archness
-	@archness\n- xem arch
-
+archness	@archness
+- xem arch

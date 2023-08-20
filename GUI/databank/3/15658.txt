@@ -1,3 +1,9 @@
-disburse
-	@disburse /dis'bə:s/\n*  động từ\n- dốc túi, dốc hầu bao, chi tiêu\n@Chuyên ngành kinh tế\n-chi tiêu\n-trả\n-trả (tiền, món tiền)\n-xuất\n-xuất quỹ
-
+disburse	@disburse /dis'bə:s/
+*  động từ
+- dốc túi, dốc hầu bao, chi tiêu
+@Chuyên ngành kinh tế
+-chi tiêu
+-trả
+-trả (tiền, món tiền)
+-xuất
+-xuất quỹ

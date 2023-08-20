@@ -1,3 +1,29 @@
-big
-	@big /big/\n*  tính từ\n- to, lớn\n=a big tree+ cây to\n=big repair+ sửa chữa lớn\n=Big Three+ ba nước lớn\n=Big Five+ năm nước lớn\n- bụng to, có mang, có chửa\n=big with news+ đầy tin, nhiều tin\n- quan trọng\n=a big man+ nhân vật quan trọng\n- hào hiệp, phóng khoáng, rộng lượng\n=he has a big hear+ anh ta là người hào hiệp\n- huênh hoang, khoác lác\n=big words+ những lời nói huênh hoang khoác lác\n=big words+ những lời nói huênh hoang\n!too big for one's boots (breeches, shoes, trousers)\n- (từ lóng) quá tự tin, tự phụ tự mãn; làm bộ làm tịch\n*  phó từ\n- ra vẻ quan trọng, với vẻ quan trọng\n=to look big+ làm ra vẻ quan trọng\n- huênh hoang khoác lác\n=to talk big+ nói huênh hoang, nói phách\n@Chuyên ngành kinh tế\n-cao\n-lớn\n-to\n@Chuyên ngành kỹ thuật\n-to
-
+big	@big /big/
+*  tính từ
+- to, lớn
+=a big tree+ cây to
+=big repair+ sửa chữa lớn
+=Big Three+ ba nước lớn
+=Big Five+ năm nước lớn
+- bụng to, có mang, có chửa
+=big with news+ đầy tin, nhiều tin
+- quan trọng
+=a big man+ nhân vật quan trọng
+- hào hiệp, phóng khoáng, rộng lượng
+=he has a big hear+ anh ta là người hào hiệp
+- huênh hoang, khoác lác
+=big words+ những lời nói huênh hoang khoác lác
+=big words+ những lời nói huênh hoang
+!too big for one's boots (breeches, shoes, trousers)
+- (từ lóng) quá tự tin, tự phụ tự mãn; làm bộ làm tịch
+*  phó từ
+- ra vẻ quan trọng, với vẻ quan trọng
+=to look big+ làm ra vẻ quan trọng
+- huênh hoang khoác lác
+=to talk big+ nói huênh hoang, nói phách
+@Chuyên ngành kinh tế
+-cao
+-lớn
+-to
+@Chuyên ngành kỹ thuật
+-to

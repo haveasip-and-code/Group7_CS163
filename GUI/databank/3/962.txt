@@ -1,3 +1,3 @@
-advisee
-	@Chuyên ngành kinh tế\n-người được đề nghị\n-người được khuyến cáo
-
+advisee	@Chuyên ngành kinh tế
+-người được đề nghị
+-người được khuyến cáo

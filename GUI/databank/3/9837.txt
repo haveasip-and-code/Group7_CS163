@@ -1,3 +1,9 @@
-clogged
-	@Chuyên ngành kỹ thuật\n-bị kẹt\n-bị tắc\n@Lĩnh vực: cơ khí & công trình\n-bị làm kẹt\n-bị làm tắc\n@Lĩnh vực: hóa học & vật liệu\n-bị lấp\n-bị nghẽn
-
+clogged	@Chuyên ngành kỹ thuật
+-bị kẹt
+-bị tắc
+@Lĩnh vực: cơ khí & công trình
+-bị làm kẹt
+-bị làm tắc
+@Lĩnh vực: hóa học & vật liệu
+-bị lấp
+-bị nghẽn

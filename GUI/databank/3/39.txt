@@ -1,3 +1,2 @@
-abbreviation
-	@abbreviation\n- sự viết gọn, sự viết tắt
-
+abbreviation	@abbreviation
+- sự viết gọn, sự viết tắt

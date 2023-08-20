@@ -1,3 +1,2 @@
-battler
-	@battler\n- xem battle
-
+battler	@battler
+- xem battle

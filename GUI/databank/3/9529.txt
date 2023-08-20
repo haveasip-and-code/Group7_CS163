@@ -1,3 +1,2 @@
-citatory
-	@citatory\n- xem citation
-
+citatory	@citatory
+- xem citation

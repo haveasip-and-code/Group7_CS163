@@ -1,3 +1,3 @@
-antennas
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-các loại ăng ten
-
+antennas	@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-các loại ăng ten

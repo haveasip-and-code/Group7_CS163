@@ -1,3 +1,2 @@
-caroler
-	@caroler\n- xem carol
-
+caroler	@caroler
+- xem carol

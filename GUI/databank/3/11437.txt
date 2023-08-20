@@ -1,3 +1,9 @@
-consul
-	@consul /'kɔnsəl/\n*  danh từ\n- lãnh sự\n- (sử học) quan tổng tài (Pháp)\n- quan chấp chính tối cao (cổ La-mã)\n@Chuyên ngành kinh tế\n-lãnh sự (về thương mại)\n@Chuyên ngành kỹ thuật\n-lãnh sự
-
+consul	@consul /'kɔnsəl/
+*  danh từ
+- lãnh sự
+- (sử học) quan tổng tài (Pháp)
+- quan chấp chính tối cao (cổ La-mã)
+@Chuyên ngành kinh tế
+-lãnh sự (về thương mại)
+@Chuyên ngành kỹ thuật
+-lãnh sự

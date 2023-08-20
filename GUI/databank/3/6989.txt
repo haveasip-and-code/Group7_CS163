@@ -1,3 +1,12 @@
-bubbling
-	@Chuyên ngành kỹ thuật\n-sôi\n-sự sôi\n-sự sủi bọt\n-sự tạo bọt\n-sục khí\n@Lĩnh vực: điện lạnh\n-sự hình thành bọt\n@Lĩnh vực: vật lý\n-sự làm sủi bọt\n@Lĩnh vực: hóa học & vật liệu\n-thoát bong bóng
-
+bubbling	@Chuyên ngành kỹ thuật
+-sôi
+-sự sôi
+-sự sủi bọt
+-sự tạo bọt
+-sục khí
+@Lĩnh vực: điện lạnh
+-sự hình thành bọt
+@Lĩnh vực: vật lý
+-sự làm sủi bọt
+@Lĩnh vực: hóa học & vật liệu
+-thoát bong bóng

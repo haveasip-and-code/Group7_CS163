@@ -1,3 +1,24 @@
-bushing
-	@Chuyên ngành kỹ thuật\n-bạc\n-bạc lót\n-bạc lót ổ trục\n-măng sông\n-ống\n-ống bọc\n-ống cách điện\n-ống lồng\n-ống lót\n-ống lót ổ trục\n-ống lót trục\n-ống nối\n-ống sứ lót\n-ống xẻ\n-phễu nạp liệu\n-sứ xuyên\n-vành\n@Lĩnh vực: điện\n-cái cách điện xuyên\n@Lĩnh vực: cơ khí & công trình\n-ống lót (ổ trục)\n@Lĩnh vực: toán & tin\n-ống lót chịu
-
+bushing	@Chuyên ngành kỹ thuật
+-bạc
+-bạc lót
+-bạc lót ổ trục
+-măng sông
+-ống
+-ống bọc
+-ống cách điện
+-ống lồng
+-ống lót
+-ống lót ổ trục
+-ống lót trục
+-ống nối
+-ống sứ lót
+-ống xẻ
+-phễu nạp liệu
+-sứ xuyên
+-vành
+@Lĩnh vực: điện
+-cái cách điện xuyên
+@Lĩnh vực: cơ khí & công trình
+-ống lót (ổ trục)
+@Lĩnh vực: toán & tin
+-ống lót chịu

@@ -1,3 +1,2 @@
-decaffeinate
-	@decaffeinate\n- xem decaffeinated
-
+decaffeinate	@decaffeinate
+- xem decaffeinated

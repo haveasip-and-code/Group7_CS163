@@ -1,3 +1,14 @@
-animation
-	@animation /,æni'meiʃn/\n*  danh từ\n- lòng hăng hái, nhiệt tình; sự cao hứng, sự hào hứng\n- tính hoạt bát, sinh khí\n- sự nhộn nhịp, sự náo nhiệt, sự sôi nổi\n- (văn học) tính sinh động, tính linh hoạt\n- sự cỗ vũ\n- sự sản xuất phim hoạt hoạ\n@Chuyên ngành kinh tế\n-hoạt hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hoạt ảnh\n-hoạt hình
-
+animation	@animation /,æni'meiʃn/
+*  danh từ
+- lòng hăng hái, nhiệt tình; sự cao hứng, sự hào hứng
+- tính hoạt bát, sinh khí
+- sự nhộn nhịp, sự náo nhiệt, sự sôi nổi
+- (văn học) tính sinh động, tính linh hoạt
+- sự cỗ vũ
+- sự sản xuất phim hoạt hoạ
+@Chuyên ngành kinh tế
+-hoạt hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hoạt ảnh
+-hoạt hình

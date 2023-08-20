@@ -1,3 +1,2 @@
-censurer
-	@censurer\n- xem censure
-
+censurer	@censurer
+- xem censure

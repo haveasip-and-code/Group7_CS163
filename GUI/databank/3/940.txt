@@ -1,3 +1,12 @@
-adverse
-	@adverse /'ædvə:s/\n*  tính từ\n- đối địch, thù địch, nghịch lại, chống đối\n=adverse elements+ những phần tử chống đối\n=the adverse party+ đối phương; bên địch\n- bất lợi, có hại\n=adverse to health+ có hại cho sức khoẻ\n- ngược\n=adverse wind+ gió ngược\n=to be adverse toi someone's interests+ ngược lại với quyền lợi của ai\n- bên kia, đối diện\n=adverse page+ trang bên kia
-
+adverse	@adverse /'ædvə:s/
+*  tính từ
+- đối địch, thù địch, nghịch lại, chống đối
+=adverse elements+ những phần tử chống đối
+=the adverse party+ đối phương; bên địch
+- bất lợi, có hại
+=adverse to health+ có hại cho sức khoẻ
+- ngược
+=adverse wind+ gió ngược
+=to be adverse toi someone's interests+ ngược lại với quyền lợi của ai
+- bên kia, đối diện
+=adverse page+ trang bên kia

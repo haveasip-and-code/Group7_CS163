@@ -1,3 +1,2 @@
-detecter
-	@detecter\n- xem detect
-
+detecter	@detecter
+- xem detect

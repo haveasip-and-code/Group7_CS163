@@ -1,3 +1,2 @@
-declensional
-	@declensional\n- xem declension
-
+declensional	@declensional
+- xem declension

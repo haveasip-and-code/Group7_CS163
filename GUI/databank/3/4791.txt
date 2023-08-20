@@ -1,3 +1,2 @@
-barricades
-	@Chuyên ngành kỹ thuật\n-rào chắn
-
+barricades	@Chuyên ngành kỹ thuật
+-rào chắn

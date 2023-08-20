@@ -1,3 +1,3 @@
-apophyge
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kiểu kiến trúc đầu cột
-
+apophyge	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-kiểu kiến trúc đầu cột

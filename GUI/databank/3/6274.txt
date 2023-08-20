@@ -1,3 +1,2 @@
-booked
-	@Chuyên ngành kinh tế\n-đã đặt trước
-
+booked	@Chuyên ngành kinh tế
+-đã đặt trước

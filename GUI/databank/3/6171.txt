@@ -1,3 +1,46 @@
-boil
-	@boil /bɔil/\n*  danh từ\n- (y học) nhọt, đinh\n*  danh từ\n- sự sôi; điểm sôi\n=to bring to the boil+ đun sôi\n=to come to the boil+ bắt đầu sôi\n=to be at the boil+ ở điểm sôi, đang sôi\n*  động từ\n- sôi\n- đun sôi, nấu sôi; luộc\n- (nghĩa bóng) sục sôi\n=to boil over with indignation+ sục sôi căm phẫn\n=to make one's blood boil+ làm cho máu sôi lên, làm giận sôi lên\n!to boil away\n- tiếp tục sôi\n- sôi cạn; nấu đặc lại\n!to boil down\n- nấu đặc lại; cô đặc lại\n- tóm tắt lại, rút lại\n=the matter boils down to this+ việc rút lại là thế này, việc chung quy là thế này\n!to boil over\n- sôi tràn ra\n!boiled shirt\n- sơ mi là cứng ngực\n!to keep the pot boiling\n- (xem) pot\n@Chuyên ngành kinh tế\n-điểm sôi\n-nấu sôi\n-sự sôi\n@Chuyên ngành kỹ thuật\n-đun\n-đun sôi\n-lỗ\n-nấu\n-nung\n-sôi\n-sự bốc hơi\n-sự sôi\n-vết\n@Lĩnh vực: hóa học & vật liệu\n-làm sôi\n-nước rò\n@Lĩnh vực: y học\n-nhọt
-
+boil	@boil /bɔil/
+*  danh từ
+- (y học) nhọt, đinh
+*  danh từ
+- sự sôi; điểm sôi
+=to bring to the boil+ đun sôi
+=to come to the boil+ bắt đầu sôi
+=to be at the boil+ ở điểm sôi, đang sôi
+*  động từ
+- sôi
+- đun sôi, nấu sôi; luộc
+- (nghĩa bóng) sục sôi
+=to boil over with indignation+ sục sôi căm phẫn
+=to make one's blood boil+ làm cho máu sôi lên, làm giận sôi lên
+!to boil away
+- tiếp tục sôi
+- sôi cạn; nấu đặc lại
+!to boil down
+- nấu đặc lại; cô đặc lại
+- tóm tắt lại, rút lại
+=the matter boils down to this+ việc rút lại là thế này, việc chung quy là thế này
+!to boil over
+- sôi tràn ra
+!boiled shirt
+- sơ mi là cứng ngực
+!to keep the pot boiling
+- (xem) pot
+@Chuyên ngành kinh tế
+-điểm sôi
+-nấu sôi
+-sự sôi
+@Chuyên ngành kỹ thuật
+-đun
+-đun sôi
+-lỗ
+-nấu
+-nung
+-sôi
+-sự bốc hơi
+-sự sôi
+-vết
+@Lĩnh vực: hóa học & vật liệu
+-làm sôi
+-nước rò
+@Lĩnh vực: y học
+-nhọt

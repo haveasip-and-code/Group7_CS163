@@ -1,3 +1,2 @@
-bicarb
-	@bicarb\n- <khngu> bicarbonat natri
-
+bicarb	@bicarb
+- <khngu> bicarbonat natri

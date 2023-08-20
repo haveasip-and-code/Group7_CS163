@@ -1,3 +1,4 @@
-deflated
-	@Chuyên ngành kỹ thuật\n-xì hơi\n@Lĩnh vực: ô tô\n-xẹp lốp
-
+deflated	@Chuyên ngành kỹ thuật
+-xì hơi
+@Lĩnh vực: ô tô
+-xẹp lốp

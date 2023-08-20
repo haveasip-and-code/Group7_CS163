@@ -1,3 +1,2 @@
-aspirer
-	@aspirer\n- xem aspire
-
+aspirer	@aspirer
+- xem aspire

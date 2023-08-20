@@ -1,3 +1,2 @@
-banalize
-	@banalize\n- xem banal
-
+banalize	@banalize
+- xem banal

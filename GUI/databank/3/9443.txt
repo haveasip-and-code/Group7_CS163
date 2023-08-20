@@ -1,3 +1,44 @@
-circuit
-	@circuit /'sə:kit/\n*  danh từ\n- chu vi, đường vòng quanh\n=the circuit of a town+ chu vi thành phố\n- sự đi vòng quanh\n=to make a circuit of+ đi vòng quanh (cái gì)\n- cuộc kinh lý, cuộc tuần du, cuộc tuần tra (của các quan toà để xét xử); địa phận đi kinh lý\n- (vật lý) mạch\n=electric circuit+ mạch điện\n- (thể dục,thể thao) vòng đua\n- hệ thống rạp hát, rạp chiếu bóng (cùng chung một ban quản trị)\n- (nghĩa bóng) sự nối tiếp của sự việc...)\n*  ngoại động từ\n- đi vòng quanh\n@Chuyên ngành kinh tế\n-hệ thống\n-sơ đồ\n-sự tuần hoàn\n-sự vòng quanh\n@Chuyên ngành kỹ thuật\n-chu tuyến\n-dòng\n-đường\n-đường bao\n-đường bao quanh\n-lưới điện\n-mạch\n-mạch điện\n-mạch truyền thông\n-sơ đồ\n-sơ đồ điện\n-sự tuần hoàn\n-tuyến\n-vòng tuần hoàn\n@Lĩnh vực: ô tô\n-chu vi vòng đua\n@Lĩnh vực: điện\n-mạch (đện)\n@Lĩnh vực: điện lạnh\n-sơ đồ (điện)\n@Lĩnh vực: cơ khí & công trình\n-sự (đi) vòng quanh\n@Lĩnh vực: xây dựng\n-vòng đua
-
+circuit	@circuit /'sə:kit/
+*  danh từ
+- chu vi, đường vòng quanh
+=the circuit of a town+ chu vi thành phố
+- sự đi vòng quanh
+=to make a circuit of+ đi vòng quanh (cái gì)
+- cuộc kinh lý, cuộc tuần du, cuộc tuần tra (của các quan toà để xét xử); địa phận đi kinh lý
+- (vật lý) mạch
+=electric circuit+ mạch điện
+- (thể dục,thể thao) vòng đua
+- hệ thống rạp hát, rạp chiếu bóng (cùng chung một ban quản trị)
+- (nghĩa bóng) sự nối tiếp của sự việc...)
+*  ngoại động từ
+- đi vòng quanh
+@Chuyên ngành kinh tế
+-hệ thống
+-sơ đồ
+-sự tuần hoàn
+-sự vòng quanh
+@Chuyên ngành kỹ thuật
+-chu tuyến
+-dòng
+-đường
+-đường bao
+-đường bao quanh
+-lưới điện
+-mạch
+-mạch điện
+-mạch truyền thông
+-sơ đồ
+-sơ đồ điện
+-sự tuần hoàn
+-tuyến
+-vòng tuần hoàn
+@Lĩnh vực: ô tô
+-chu vi vòng đua
+@Lĩnh vực: điện
+-mạch (đện)
+@Lĩnh vực: điện lạnh
+-sơ đồ (điện)
+@Lĩnh vực: cơ khí & công trình
+-sự (đi) vòng quanh
+@Lĩnh vực: xây dựng
+-vòng đua

@@ -1,3 +1,4 @@
-agora
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bãi chợ\n-quảng trường, khu chợ
-
+agora	@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bãi chợ
+-quảng trường, khu chợ

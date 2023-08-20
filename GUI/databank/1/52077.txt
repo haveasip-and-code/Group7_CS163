@@ -1,0 +1,94 @@
+space	@space
+- không gian; khoảng thời gian; chỗ
+- action s. không gian tác dụng
+- adjoint s. không gian liên hợp
+- adjunct s. không gian phụ hợp
+- affine s. không gian afin
+- affinely connected s. không gian liên thông afin
+- base s. không gian cơ sở
+- biafine s. không gian song afin
+- bundle s. không gian phân thớ
+- Cartesian s. không gian Ơclit
+- centred affin s. không gian afin có tâm
+- classifying s. không gian phân loại
+- compact s. không gian compac
+- complete s. không gian đủ
+- completely regular s. (tô pô) không gian hoàn toàn chính quy
+- configuration s. không gian cấu hình
+- conjugate s. (đại số) không gian liên hợp
+- contractible s. không gian co rút được
+- control s. không gian điều khiển
+- covex s. không gian lồi
+- coset s. không gian các lớp
+- covering s. không gian phủ
+- curved s. không gian cong
+- deal s. (điều khiển học) vùng chết, vùng không bắt
+- decision s. (thống kê) không gian các quyết định
+- decomposition s. (tô pô) không gian phân hoạch
+- discrete s. không gian rời rạc
+- dual vector s. không gian vectơ đối ngẫu
+- elliptic s. không gian eliptic
+- fibre s. không gian phân thớ
+- finite s. không gian hữu hạn
+- finite dimensional s. không gian hữu hạn chiều
+- flat s. không gian dẹt
+- four dimensional s. không gian bốn chiều
+- generalized s. (tô pô) không gian suy rộng
+- homeomorphic s.s không gian đồng phôi
+- homogeneous s. (hình học) không gian thuần nhất
+- hyperbolic s. không gian hypebolic
+- isometric s. không gian đẳng cự
+- lacunar(y) s. miền có lỗ hổng
+- lens s. (tô pô) không gian thấu kính
+- linear s. không gian tuyền tính
+- locally convex s. (giải tích) không gian lồi địa phương
+- loop s. (tô pô) không gian các nút
+- measurable s. không gian đo được
+- measure s. không gian có độ đo
+- metric s. không gian mêtric
+- modular s. không gian môđula
+- neighbourhood s. không gian lân cận
+- non-modular s. (hình học) không gian không môđula
+- normed s. (giải tích) không gian định chuẩn
+- null s.
+- one-dimensional s. không gian một chiều
+- parabolic s. không gian parabolic
+- paracompact s. không gian paracompact
+- perpendicular s. không gian trực giao
+- phase s. không gian pha
+- policy s. trchi. không gian các chiến lược
+- product s. không gian tích
+- projective s. (hình học) không gian xạ ảnh
+- proximity s. không gian lân cận
+- pseudo-Euclidian s. không gian giả Oclit
+- pseudospherical s. không gian giả cầu
+- quintuple s. không gian năm chiều
+- quotient s. không gian thương
+- rational s. không gian hữu tỷ
+- ray s. (đại số) không gian các tia
+- real s. không gian thực
+- reflexive s. không gian phản xạ
+- regular s. không gian chính quy
+- representation s. không gian biểu diễn
+- ring-like s. (tô pô) không gian giống vành
+- sample s. không gian mẫu
+- separable s. không gian [tách được, khả li]
+- seperated s. không gian tách, không gian Hauxđooc
+- sequence s. không gian các dãy
+- signal s. không gian các tín hiệu
+- simply connected s.s các không gian đơn liên
+- skew-metric s. (hình học) không gian với mêtric lệch
+- spherical s. không gian cầu
+- state s. không gian trạng thái
+- structure s. of a ring không gian cấu trúc của một vành
+- subprojective s. không gian xạ ảnh dưới
+- symplectic s. không gian đơn hình
+- totally imbedded s. không gian bị nhúng hoàn toàn
+- three-dimensional s. không gian ba chiều
+- topological s. không gian tôpô
+- topologically complete s. không gian đủ tôpô
+- total s. of fibration không gian toàn phần của phân thớ
+- two-dimensional s. không gian hai chiều
+- uniform s. không gian đều
+- unitary s. không gian unita
+- vector s. (giải tích) không gian vectơ, không gian tuyến tính

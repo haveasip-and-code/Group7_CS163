@@ -1,0 +1,10 @@
+circuital	
+@circuital
+- (thuộc) mạch, chu tuyến, sơ đồ
+@Chuyên ngành kỹ thuật
+-chu tuyến
+-lưu số
+-mạch
+-sơ đồ
+@Lĩnh vực: toán & tin
+-mạch chu tuyến

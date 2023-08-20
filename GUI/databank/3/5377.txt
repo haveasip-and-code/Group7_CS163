@@ -1,3 +1,9 @@
-beveling
-	@Chuyên ngành kỹ thuật\n-sự cắt vát\n-sự tạo mặt vát\n-sự tạo mặt xiên\n-sự xén vát\n@Lĩnh vực: hóa học & vật liệu\n-cắt xiên\n@Lĩnh vực: xây dựng\n-sự bào mép
-
+beveling	@Chuyên ngành kỹ thuật
+-sự cắt vát
+-sự tạo mặt vát
+-sự tạo mặt xiên
+-sự xén vát
+@Lĩnh vực: hóa học & vật liệu
+-cắt xiên
+@Lĩnh vực: xây dựng
+-sự bào mép

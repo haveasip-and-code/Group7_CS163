@@ -1,3 +1,2 @@
-decontaminator
-	@decontaminator\n- xem decontaminate
-
+decontaminator	@decontaminator
+- xem decontaminate

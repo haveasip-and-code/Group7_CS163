@@ -1,3 +1,2 @@
-categorical
-	@categorical\n- (thuộc) phạm trù
-
+categorical	@categorical
+- (thuộc) phạm trù

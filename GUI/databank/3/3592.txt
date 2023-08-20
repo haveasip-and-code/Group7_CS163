@@ -1,3 +1,23 @@
-assemble
-	@assemble /ə'sembl/\n*  động từ\n- tập hợp, tụ tập, nhóm họp\n- sưu tập, thu thập\n- (kỹ thuật) lắp ráp\n@Chuyên ngành kinh tế\n-lắp ráp\n-sưu tập\n-tập hợp\n@Chuyên ngành kỹ thuật\n-gắn\n-ghép\n-kết hợp\n-lắp\n-lắp ráp\n-nối\n-tập hợp\n-tập trung\n-thu thập\n@Lĩnh vực: toán & tin\n-hợp dịch\n@Lĩnh vực: xây dựng\n-ráp nối
-
+assemble	@assemble /ə'sembl/
+*  động từ
+- tập hợp, tụ tập, nhóm họp
+- sưu tập, thu thập
+- (kỹ thuật) lắp ráp
+@Chuyên ngành kinh tế
+-lắp ráp
+-sưu tập
+-tập hợp
+@Chuyên ngành kỹ thuật
+-gắn
+-ghép
+-kết hợp
+-lắp
+-lắp ráp
+-nối
+-tập hợp
+-tập trung
+-thu thập
+@Lĩnh vực: toán & tin
+-hợp dịch
+@Lĩnh vực: xây dựng
+-ráp nối

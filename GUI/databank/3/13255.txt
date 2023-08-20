@@ -1,3 +1,6 @@
-cuttings
-	@Chuyên ngành kỹ thuật\n-mặt cắt\n-mùn khoan\n-phoi bào\n-phoi cắt\n-vụn
-
+cuttings	@Chuyên ngành kỹ thuật
+-mặt cắt
+-mùn khoan
+-phoi bào
+-phoi cắt
+-vụn

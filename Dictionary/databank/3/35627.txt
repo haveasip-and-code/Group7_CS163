@@ -1,3 +1,0 @@
-mooring
-	@Chuyên ngành kinh tế\n-chỗ đậu tàu\n-chỗ neo tàu\n-neo tàu\n-phí bỏ neo\n-sự buộc tàu lại\n-thuế đậu tàu\n@Chuyên ngành kỹ thuật\n-neo giữ\n-thả neo\n@Lĩnh vực: giao thông & vận tải\n-bỏ neo\n-sự buộc tàu\n-sự đỗ tàu\n-sự neo tàu\n@Lĩnh vực: xây dựng\n-chỗ neo\n-sự buộc thuyền
-

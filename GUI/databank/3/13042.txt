@@ -1,3 +1,12 @@
-cumulative
-	@cumulative /'kju:mjulətiv/\n*  tính từ\n- luỹ tích, dồn lại, chồng chất mãi lên\n=cumulative evidence+ chứng cớ luỹ tích\n@Chuyên ngành kỹ thuật\n-dồn\n-tích tụ\n@Lĩnh vực: toán & tin\n-được tích lũy\n-lũy tích\n@Lĩnh vực: đo lường & điều khiển\n-lũy kế
-
+cumulative	@cumulative /'kju:mjulətiv/
+*  tính từ
+- luỹ tích, dồn lại, chồng chất mãi lên
+=cumulative evidence+ chứng cớ luỹ tích
+@Chuyên ngành kỹ thuật
+-dồn
+-tích tụ
+@Lĩnh vực: toán & tin
+-được tích lũy
+-lũy tích
+@Lĩnh vực: đo lường & điều khiển
+-lũy kế

@@ -1,3 +1,10 @@
-dentition
-	@dentition\n* danh từ\n- bộ răng\n- sự mọc răng\n- công thức răng; nha thức\n- cách bố trí của răng\n= milk dentition+bộ răng sữa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bộ răng, răng
-
+dentition	@dentition
+* danh từ
+- bộ răng
+- sự mọc răng
+- công thức răng; nha thức
+- cách bố trí của răng
+= milk dentition+bộ răng sữa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bộ răng, răng

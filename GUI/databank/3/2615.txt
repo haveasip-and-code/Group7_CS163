@@ -1,3 +1,8 @@
-antinode
-	@antinode\n- (Tech) bụng sóng\n@Chuyên ngành kỹ thuật\n-bụng dao động\n-bụng dòng\n-bụng sóng\n@Lĩnh vực: điện\n-bụng (sóng)
-
+antinode	@antinode
+- (Tech) bụng sóng
+@Chuyên ngành kỹ thuật
+-bụng dao động
+-bụng dòng
+-bụng sóng
+@Lĩnh vực: điện
+-bụng (sóng)

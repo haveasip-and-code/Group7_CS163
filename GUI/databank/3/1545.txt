@@ -1,3 +1,2 @@
-allegorise
-	@allegorise\n- xem allegorize
-
+allegorise	@allegorise
+- xem allegorize

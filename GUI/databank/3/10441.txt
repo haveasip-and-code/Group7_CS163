@@ -1,3 +1,4 @@
-combustive
-	@combustive\n- xem combustion\n@Chuyên ngành kỹ thuật\n-làm cháy được
-
+combustive	@combustive
+- xem combustion
+@Chuyên ngành kỹ thuật
+-làm cháy được

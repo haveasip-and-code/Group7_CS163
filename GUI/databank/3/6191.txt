@@ -1,3 +1,16 @@
-bollard
-	@bollard /'bɔləd/\n*  danh từ\n- (hàng hải) cọc buộc tàu thuyền\n@Chuyên ngành kỹ thuật\n-cọc buộc tàu thuyền\n-cọc neo\n-cột cáp\n-cột cây số\n-cột mốc\n-cột neo\n@Lĩnh vực: xây dựng\n-cọc neo tàu\n-cột mốc ngăn\n-hàng cọc ngăn thấp\n@Lĩnh vực: giao thông & vận tải\n-cột buộc tàu
-
+bollard	@bollard /'bɔləd/
+*  danh từ
+- (hàng hải) cọc buộc tàu thuyền
+@Chuyên ngành kỹ thuật
+-cọc buộc tàu thuyền
+-cọc neo
+-cột cáp
+-cột cây số
+-cột mốc
+-cột neo
+@Lĩnh vực: xây dựng
+-cọc neo tàu
+-cột mốc ngăn
+-hàng cọc ngăn thấp
+@Lĩnh vực: giao thông & vận tải
+-cột buộc tàu

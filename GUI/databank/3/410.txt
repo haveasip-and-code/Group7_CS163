@@ -1,3 +1,20 @@
-accrue
-	@accrue /ə'kru:/\n*  nội động từ\n- (+ to) đổ dồn về (ai...)\n=great profit accrued to them+ những món lợi lớn cứ dồn về họ\n- (+ from) sinh ra (từ...), do... mà ra\n=such difficulties always accrue from carelessness+ những khó khăn như vậy thường do sự cẩu thả mà ra\n- dồn lại, tích luỹ lại (tiền lãi...)\n=interest accrues from the first of January+ tiền lãi dồn lại từ ngày mồng một tháng giêng\n=accrued interest+ tiền lãi để dồn lại\n@Chuyên ngành kinh tế\n-cộng gộp vào\n-dồn lại\n-kể vào\n-phải tính\n-tăng dần\n-tăng gia\n-tăng thêm\n-tích lũy lại\n-tính dồn lại\n-tính trước
-
+accrue	@accrue /ə'kru:/
+*  nội động từ
+- (+ to) đổ dồn về (ai...)
+=great profit accrued to them+ những món lợi lớn cứ dồn về họ
+- (+ from) sinh ra (từ...), do... mà ra
+=such difficulties always accrue from carelessness+ những khó khăn như vậy thường do sự cẩu thả mà ra
+- dồn lại, tích luỹ lại (tiền lãi...)
+=interest accrues from the first of January+ tiền lãi dồn lại từ ngày mồng một tháng giêng
+=accrued interest+ tiền lãi để dồn lại
+@Chuyên ngành kinh tế
+-cộng gộp vào
+-dồn lại
+-kể vào
+-phải tính
+-tăng dần
+-tăng gia
+-tăng thêm
+-tích lũy lại
+-tính dồn lại
+-tính trước

@@ -1,0 +1,22 @@
+unloading	@Chuyên ngành kinh tế
+-bán hàng loạt
+-bán lỗ
+-bán tổng kết
+-sự bán phá giá
+-việc dỡ (hàng)
+-việc dỡ hàng
+@Chuyên ngành kỹ thuật
+-không tải
+-sự bỏ tải
+-sự cất tải
+-sự dỡ
+-sự dỡ hàng
+-sự dỡ liệu
+-sự dỡ tải
+-sự giảm tải
+-sự tháo nạp
+@Lĩnh vực: xây dựng
+-sự bốc hàng
+@Lĩnh vực: hóa học & vật liệu
+-sự tháo liệu
+-sự trút tải

@@ -1,0 +1,13 @@
+schema	@schema /'ski:mə/
+*  danh từ,  số nhiều schemata
+/'ski:mətə/
+- lược đồ, giản đồ, sơ đồ
+@Chuyên ngành kỹ thuật
+-giản đồ
+-lược đồ
+-mạch điện
+-sơ đồ
+@Lĩnh vực: y học
+-sơ đồ, biểu đồ, giản đồ
+@Lĩnh vực: toán & tin
+-sơ đồ, lược đồ

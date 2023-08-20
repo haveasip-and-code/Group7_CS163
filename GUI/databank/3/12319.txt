@@ -1,3 +1,5 @@
-covalence
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-bộ cộng hóa trị\n@Lĩnh vực: hóa học & vật liệu\n-cộng hóa trị
-
+covalence	@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-bộ cộng hóa trị
+@Lĩnh vực: hóa học & vật liệu
+-cộng hóa trị

@@ -1,3 +1,2 @@
-attester
-	@attester\n- xem attest
-
+attester	@attester
+- xem attest

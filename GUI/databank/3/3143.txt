@@ -1,3 +1,2 @@
-arbuscle
-	@arbuscle\n- Cách viết khác : arbuscule
-
+arbuscle	@arbuscle
+- Cách viết khác : arbuscule

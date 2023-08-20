@@ -1,3 +1,8 @@
-bole
-	@bole /boul/\n*  danh từ\n- thân (cây)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-đất chứa sắt ôxit\n@Lĩnh vực: hóa học & vật liệu\n-sét vôi sắt
-
+bole	@bole /boul/
+*  danh từ
+- thân (cây)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đất chứa sắt ôxit
+@Lĩnh vực: hóa học & vật liệu
+-sét vôi sắt

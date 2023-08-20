@@ -1,3 +1,2 @@
-basinal
-	@basinal\n- xem basin
-
+basinal	@basinal
+- xem basin

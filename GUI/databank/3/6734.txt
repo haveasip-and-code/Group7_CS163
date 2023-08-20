@@ -1,3 +1,11 @@
-brewing
-	@brewing\n* danh từ\n- việc làm rượu bia\n- mẻ rượu bia\n- (hàng hải) sự tích tụ mây đen báo bão\n@Chuyên ngành kinh tế\n-ngành nấu bia\n-sự nấu bia\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-sự nấu bia
-
+brewing	@brewing
+* danh từ
+- việc làm rượu bia
+- mẻ rượu bia
+- (hàng hải) sự tích tụ mây đen báo bão
+@Chuyên ngành kinh tế
+-ngành nấu bia
+-sự nấu bia
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-sự nấu bia

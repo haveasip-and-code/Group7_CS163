@@ -1,3 +1,8 @@
-banded
-	@banded\n* tính từ\n- đầu thắt giải buộc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bị phân lớp\n@Lĩnh vực: hóa học & vật liệu\n-thành dải
-
+banded	@banded
+* tính từ
+- đầu thắt giải buộc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-bị phân lớp
+@Lĩnh vực: hóa học & vật liệu
+-thành dải

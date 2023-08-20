@@ -1,0 +1,7 @@
+subtype	@subtype
+* danh từ
+- kiểu phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-kiểu con
+-kiểu phụ

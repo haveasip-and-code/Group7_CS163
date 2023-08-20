@@ -1,3 +1,2 @@
-conglobation
-	@conglobation\n- xem conglobate
-
+conglobation	@conglobation
+- xem conglobate

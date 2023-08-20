@@ -1,3 +1,2 @@
-cliental
-	@cliental\n- xem client
-
+cliental	@cliental
+- xem client

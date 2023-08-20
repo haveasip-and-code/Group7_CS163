@@ -1,3 +1,26 @@
-condensation
-	@condensation /,kɔnden'seiʃn/\n*  danh từ\n- sự hoá đặc (chất nước); sự ngưng (hơi); sự tụ (ánh sáng)\n- khối đặc lại\n- sự cô đọng (lời, văn...)\n@Chuyên ngành kinh tế\n-sự đông đặc\n-sự kết tụ\n-sự ngưng tụ\n@Chuyên ngành kỹ thuật\n-độ đặc\n-ngưng tụ\n-ngưng tụ Bose-Einstein\n-ngưng tụ Einstein\n-nước ngưng\n-sự đầm chặt\n-sự hóa lỏng\n-sự ngưng\n-sự ngưng kết\n-sự ngưng tụ\n@Lĩnh vực: xây dựng\n-đọng hơi\n-phần ngưng\n-tính thử dần\n@Lĩnh vực: toán & tin\n-sự cô đọng
-
+condensation	@condensation /,kɔnden'seiʃn/
+*  danh từ
+- sự hoá đặc (chất nước); sự ngưng (hơi); sự tụ (ánh sáng)
+- khối đặc lại
+- sự cô đọng (lời, văn...)
+@Chuyên ngành kinh tế
+-sự đông đặc
+-sự kết tụ
+-sự ngưng tụ
+@Chuyên ngành kỹ thuật
+-độ đặc
+-ngưng tụ
+-ngưng tụ Bose-Einstein
+-ngưng tụ Einstein
+-nước ngưng
+-sự đầm chặt
+-sự hóa lỏng
+-sự ngưng
+-sự ngưng kết
+-sự ngưng tụ
+@Lĩnh vực: xây dựng
+-đọng hơi
+-phần ngưng
+-tính thử dần
+@Lĩnh vực: toán & tin
+-sự cô đọng

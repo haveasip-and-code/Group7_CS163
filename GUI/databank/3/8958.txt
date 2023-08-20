@@ -1,3 +1,2 @@
-chemotherapist
-	@chemotherapist\n- xem chemotherapy
-
+chemotherapist	@chemotherapist
+- xem chemotherapy

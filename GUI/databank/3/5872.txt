@@ -1,3 +1,9 @@
-blear
-	@blear /bliə/\n*  tính từ\n- mờ; không nhìn rõ (nắt)\n- lờ mờ, không rõ ràng (đường nét...)\n- không minh mẫn, u mê, đần độn (trí óc)\n*  ngoại động từ\n- làm mờ (mắt)\n- làm cho lờ mờ\n- làm u mê, làm đần độn
-
+blear	@blear /bliə/
+*  tính từ
+- mờ; không nhìn rõ (nắt)
+- lờ mờ, không rõ ràng (đường nét...)
+- không minh mẫn, u mê, đần độn (trí óc)
+*  ngoại động từ
+- làm mờ (mắt)
+- làm cho lờ mờ
+- làm u mê, làm đần độn

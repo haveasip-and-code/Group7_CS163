@@ -1,3 +1,2 @@
-blacks
-	@Chuyên ngành kỹ thuật\n-đá phiến đen
-
+blacks	@Chuyên ngành kỹ thuật
+-đá phiến đen

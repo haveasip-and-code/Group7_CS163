@@ -1,3 +1,15 @@
-alcove
-	@alcove /'ælkouv/\n*  danh từ\n- góc phòng thụt vào (để đặt giường...)\n- góc hóng mát (có lùm cây, trong vườn)\n- hốc tường (để đặt tượng)\n@Chuyên ngành kinh tế\n-góc phòng\n-hốc tường\n@Chuyên ngành kỹ thuật\n-buồng nhỏ\n@Lĩnh vực: xây dựng\n-góc thụt vào\n-hốc (tường)\n-hốc tường nhỏ\n-hõm (tường)
-
+alcove	@alcove /'ælkouv/
+*  danh từ
+- góc phòng thụt vào (để đặt giường...)
+- góc hóng mát (có lùm cây, trong vườn)
+- hốc tường (để đặt tượng)
+@Chuyên ngành kinh tế
+-góc phòng
+-hốc tường
+@Chuyên ngành kỹ thuật
+-buồng nhỏ
+@Lĩnh vực: xây dựng
+-góc thụt vào
+-hốc (tường)
+-hốc tường nhỏ
+-hõm (tường)

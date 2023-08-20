@@ -1,0 +1,50 @@
+scheme	@scheme /ski:m/
+*  danh từ
+- sự sắp xếp theo hệ thống, sự phối hợp
+=the scheme of colour+ nguyên tắc phối hợp các màu
+- kế hoạch; âm mưu; mưu đồ; ý đồ
+=to lay a scheme+ sắp đặt một âm mưu
+- lược đồ, giản đồ, sơ đồ
+*  động từ
+- vạch kế hoạch (làm gì); có kế hoạch thực hiện (điều gì)
+- âm mưu, mưu đồ (làm việc gì)
+@Chuyên ngành kinh tế
+-âm mưu
+-bảng biểu
+-chương trình
+-dàn bài
+-dàn ý
+-đề cương
+-đồ biểu
+-đồ giải
+-kế hoạch
+-mưu đồ
+-phương án
+-quy hoạch
+-sơ đồ
+-sự sắp xếp
+-sự sắp xếp chế độ (tiền thưởng, hưu bổng..)
+@Chuyên ngành kỹ thuật
+-bản thiết kế
+-biểu đồ
+-đồ án
+-đồ thị
+-dự án
+-giản đồ
+-hệ thống
+-kế hoạch
+-lập dự án
+-lập kế hoạch
+-lược đồ
+-mưu toan
+-sơ đồ
+-thiết kế
+@Lĩnh vực: điện lạnh
+-cách mắc
+@Lĩnh vực: xây dựng
+-đồ án (thiết kế)
+-mưu đồ
+@Lĩnh vực: cơ khí & công trình
+-lập sơ đồ
+@Lĩnh vực: điện
+-vạch kế hoạch

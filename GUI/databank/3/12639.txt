@@ -1,3 +1,23 @@
-crew
-	@crew /kru:/\n*  danh từ\n- toàn bộ thuỷ thủ trên tàu; toàn bộ người lái và nhân viên trên máy bay\n- ban nhóm, đội (công tác...)\n- bọn, tụi, đám, bè lũ\n*  thời quá khứ của crow\n@Chuyên ngành kinh tế\n-đoàn thuyền viên\n-nhóm biên tập quảng cáo\n-thuyền viên\n@Chuyên ngành kỹ thuật\n-ban\n-đoàn\n-đội\n-phi hành đoàn\n@Lĩnh vực: giao thông & vận tải\n-đoàn thủy thủ\n-đội bay\n-đội tàu thủy\n@Lĩnh vực: hóa học & vật liệu\n-kíp (công nhân)\n@Lĩnh vực: toán & tin\n-tổ đội
-
+crew	@crew /kru:/
+*  danh từ
+- toàn bộ thuỷ thủ trên tàu; toàn bộ người lái và nhân viên trên máy bay
+- ban nhóm, đội (công tác...)
+- bọn, tụi, đám, bè lũ
+*  thời quá khứ của crow
+@Chuyên ngành kinh tế
+-đoàn thuyền viên
+-nhóm biên tập quảng cáo
+-thuyền viên
+@Chuyên ngành kỹ thuật
+-ban
+-đoàn
+-đội
+-phi hành đoàn
+@Lĩnh vực: giao thông & vận tải
+-đoàn thủy thủ
+-đội bay
+-đội tàu thủy
+@Lĩnh vực: hóa học & vật liệu
+-kíp (công nhân)
+@Lĩnh vực: toán & tin
+-tổ đội

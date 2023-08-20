@@ -1,3 +1,2 @@
-bluely
-	@bluely\n- xem blue
-
+bluely	@bluely
+- xem blue

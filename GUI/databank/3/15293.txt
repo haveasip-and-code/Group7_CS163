@@ -1,3 +1,13 @@
-dietary
-	@dietary /'daiətəri/\n*  tính từ\n- (thuộc) chế độ ăn uống; chế độ ăn kiêng\n*  danh từ\n- chế độ ăn uống; chế độ ăn kiêng\n- suất ăn; chế độ ăn uống (trong nhà thương, nhà trường...)\n@Chuyên ngành kinh tế\n-sự ăn kiêng\n-sự nuôi dưỡng\n-suất ăn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thực chế
-
+dietary	@dietary /'daiətəri/
+*  tính từ
+- (thuộc) chế độ ăn uống; chế độ ăn kiêng
+*  danh từ
+- chế độ ăn uống; chế độ ăn kiêng
+- suất ăn; chế độ ăn uống (trong nhà thương, nhà trường...)
+@Chuyên ngành kinh tế
+-sự ăn kiêng
+-sự nuôi dưỡng
+-suất ăn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thực chế

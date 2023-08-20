@@ -1,3 +1,2 @@
-clientage
-	@clientage\n- xem client
-
+clientage	@clientage
+- xem client

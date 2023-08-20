@@ -1,3 +1,12 @@
-concatenate
-	@concatenate /kɔn'kætineit/\n*  ngoại động từ\n- móc vào nhau, nối vào nhau, ràng buộc vào nhau (thành một dây...)\n@Chuyên ngành kỹ thuật\n-ghép\n-ghép nối\n-liên kết\n-nối kết\n-móc nối\n-xâu\n@Lĩnh vực: toán & tin\n-ghép nối (chương trình)
-
+concatenate	@concatenate /kɔn'kætineit/
+*  ngoại động từ
+- móc vào nhau, nối vào nhau, ràng buộc vào nhau (thành một dây...)
+@Chuyên ngành kỹ thuật
+-ghép
+-ghép nối
+-liên kết
+-nối kết
+-móc nối
+-xâu
+@Lĩnh vực: toán & tin
+-ghép nối (chương trình)

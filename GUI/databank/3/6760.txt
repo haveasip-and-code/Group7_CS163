@@ -1,3 +1,19 @@
-bridging
-	@bridging\n- (Tech) rẽ mạch; nối tắt\n@Chuyên ngành kỹ thuật\n-bắc cầu\n-giàn giáo\n-sự xây dựng cầu\n-thanh giằng chống\n@Lĩnh vực: toán & tin\n-cài đặt cầu nối\n@Lĩnh vực: xây dựng\n-giàn đỡ vật liệu\n-sự bắc cầu\n-sự lắp giằng\n-thanh chống giằng\n@Lĩnh vực: điện\n-nối bắc cầu\n-sự nối rẽ\n@Lĩnh vực: điện lạnh\n-sự nối kiểu cầu
-
+bridging	@bridging
+- (Tech) rẽ mạch; nối tắt
+@Chuyên ngành kỹ thuật
+-bắc cầu
+-giàn giáo
+-sự xây dựng cầu
+-thanh giằng chống
+@Lĩnh vực: toán & tin
+-cài đặt cầu nối
+@Lĩnh vực: xây dựng
+-giàn đỡ vật liệu
+-sự bắc cầu
+-sự lắp giằng
+-thanh chống giằng
+@Lĩnh vực: điện
+-nối bắc cầu
+-sự nối rẽ
+@Lĩnh vực: điện lạnh
+-sự nối kiểu cầu

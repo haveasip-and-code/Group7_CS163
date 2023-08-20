@@ -1,3 +1,2 @@
-allegiant
-	@allegiant\n- xem allegiance
-
+allegiant	@allegiant
+- xem allegiance

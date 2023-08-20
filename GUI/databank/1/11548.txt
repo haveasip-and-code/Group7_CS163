@@ -1,0 +1,8 @@
+contingencies	
+@Chuyên ngành kinh tế
+-các điều kiện ngẫu nhiên
+-các điều kiện tùy thuộc
+-sự cố bất ngờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-các sự ngẫu nhiên

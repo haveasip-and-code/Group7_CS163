@@ -1,3 +1,2 @@
-conceiver
-	@conceiver\n- xem conceive
-
+conceiver	@conceiver
+- xem conceive

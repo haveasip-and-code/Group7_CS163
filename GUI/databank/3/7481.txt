@@ -1,3 +1,2 @@
-cakewalker
-	@cakewalker\n- xem cakewalk
-
+cakewalker	@cakewalker
+- xem cakewalk

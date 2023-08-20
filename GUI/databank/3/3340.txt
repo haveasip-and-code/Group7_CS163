@@ -1,3 +1,2 @@
-aromatics
-	@Chuyên ngành kinh tế\n-chất thơm
-
+aromatics	@Chuyên ngành kinh tế
+-chất thơm

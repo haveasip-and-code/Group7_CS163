@@ -1,3 +1,2 @@
-crushable
-	@crushable\n- xem crush
-
+crushable	@crushable
+- xem crush

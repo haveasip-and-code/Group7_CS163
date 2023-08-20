@@ -1,3 +1,5 @@
-baling
-	@Chuyên ngành kinh tế\n-đóng kiện\n@Chuyên ngành kỹ thuật\n-đóng kiện\n-sự đóng kiện
-
+baling	@Chuyên ngành kinh tế
+-đóng kiện
+@Chuyên ngành kỹ thuật
+-đóng kiện
+-sự đóng kiện

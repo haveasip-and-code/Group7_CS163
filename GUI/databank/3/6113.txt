@@ -1,3 +1,4 @@
-boasting
-	@Chuyên ngành kỹ thuật\n-đẽo đá\n@Lĩnh vực: xây dựng\n-đục đá
-
+boasting	@Chuyên ngành kỹ thuật
+-đẽo đá
+@Lĩnh vực: xây dựng
+-đục đá

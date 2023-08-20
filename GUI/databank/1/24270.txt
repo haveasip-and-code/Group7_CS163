@@ -1,0 +1,42 @@
+grid	
+@grid /grid/
+*  danh từ
+- hệ thống đường dây (điện phân bố trong một khu vực)
+- đường kẻ ô (để vẽ bản đồ)
+- vỉ (nướng chả)
+- chấn song sắt
+- (raddiô) lưới điều khiển
+@Chuyên ngành kinh tế
+-vị (nướng chả)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-GRID
+@Chuyên ngành kỹ thuật
+-ghi
+-ghi lò
+-giàn mắt cáo
+-giát
+-hệ thống đường dây
+-lưới điện
+-lưới điều khiển
+-lưới khiển
+-lưới tọa độ
+-mạng
+-mạng lưới
+-mặt sang
+-ô tọa độ
+-rèm
+@Lĩnh vực: xây dựng
+-chân song
+-mạng thành bụng
+@Lĩnh vực: điện lạnh
+-cực lưới
+@Lĩnh vực: điện tử & viễn thông
+-điện thoại)
+@Lĩnh vực: dệt may
+-đường ô kẻ
+@Lĩnh vực: toán & tin
+-khung lưới
+-lưới ô vuông
+@Lĩnh vực: điện
+-mạng lưới (điện

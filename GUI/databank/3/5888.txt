@@ -1,3 +1,2 @@
-blencher
-	@blencher\n- xem blench
-
+blencher	@blencher
+- xem blench

@@ -1,0 +1,57 @@
+wire	@wire /wai /
+*  danh từ
+- dây (kim loại)
+=silver wire+ dây bạc
+=iron wire+ dây thép
+=barbed wire+ dây thép gai
+=to pull the wires+ giật dây (nghĩa bóng)
+- bức điện báo
+=by wire+ bằng điện báo
+=to send off a wire+ đánh một bức điện
+=let me know by wire+ h y báo cho tôi biết bằng điện
+!live wire
+- (xem) live
+*  ngoại động từ
+- bọc bằng dây sắt
+- buộc bằng dây sắt
+- chăng lưới thép (cửa sổ)
+- xỏ vào dây thép
+- bẫy (thỏ, chim...) bằng dây thép
+- đánh điện
+- (điện học) mắc (dây) điện, bắt điện
+=to wire a house for electricity+ mắc điện cho một ngôi nhà
+*  nội động từ
+- đánh điện
+=to wire to someone+ đánh điện cho ai
+=to wire for someone+ đánh điện mời ai đến
+!to wire in
+- (từ lóng) rán hết sức làm (một việc gì)
+!to wire off
+- rào dây thép để tách ra
+!to wire into somebody
+- đấm ai một cú thật mạnh, dùng hết sức giáng cho ai một đòn
+@Chuyên ngành kinh tế
+-đánh điện báo
+-điện báo
+-điện tín
+@Chuyên ngành kỹ thuật
+-dây
+-dây dẫn
+-dây dẫn điện
+-dây điện
+-dây kim loại
+-dây thép
+-lưới xeo
+-nối dây
+-nối mạch điện
+-ráp mạch điện
+-sợi dây
+-thước dây
+@Lĩnh vực: xây dựng
+-bằng dây (kim loại)
+-sợi thép
+@Lĩnh vực: điện
+-bện dây điện
+-đi dây
+@Lĩnh vực: điện tử & viễn thông
+-lõi dẫn (cáp sợi quang)

@@ -1,3 +1,37 @@
-burning
-	@burning /'bə:niɳ/\n*  danh từ\n- sự đốt, sự thiêu, sự khê, sự khét (cơm)\n=a smell of burning+ mùi cháy khét\n- sự nung (gạch); mẻ gạch (nung trong lò)\n- (từ lóng) sự sôi nổi, sự hăng hái, nhiệt tình\n*  tính từ\n- đang cháy\n- thiết tha, mãnh liệt, ghê gớm, kịch liệt; cháy cổ (khát); rát mặt (xấu hổ)\n=burning desire+ lòng ham muốn mãnh liệt\n=burning thirst+ sự khát cháy cổ\n=burning shame+ sự xấu hổ rát mặt\n- nóng bỏng, nóng hổi, cấp bách\n=a burning question+ vấn đề nóng hổi; vấn đề được bàn bạc sôi nổi\n@Chuyên ngành kinh tế\n-bị cháy\n-bị khê\n@Chuyên ngành kỹ thuật\n-nung\n-sấy\n-sự bào mòn\n-sự cháy\n-sự chảy\n-sự cháy hết\n-sự đốt\n-sự đun\n-sự nấu\n-sự nung\n-sự thiêu\n-thiêu\n-vết cháy (mài)\n@Lĩnh vực: hóa học & vật liệu\n-cắt bằng hơi hàn\n@Lĩnh vực: xây dựng\n-mìn tạo giếng\n@Lĩnh vực: cơ khí & công trình\n-sự quá lửa
-
+burning	@burning /'bə:niɳ/
+*  danh từ
+- sự đốt, sự thiêu, sự khê, sự khét (cơm)
+=a smell of burning+ mùi cháy khét
+- sự nung (gạch); mẻ gạch (nung trong lò)
+- (từ lóng) sự sôi nổi, sự hăng hái, nhiệt tình
+*  tính từ
+- đang cháy
+- thiết tha, mãnh liệt, ghê gớm, kịch liệt; cháy cổ (khát); rát mặt (xấu hổ)
+=burning desire+ lòng ham muốn mãnh liệt
+=burning thirst+ sự khát cháy cổ
+=burning shame+ sự xấu hổ rát mặt
+- nóng bỏng, nóng hổi, cấp bách
+=a burning question+ vấn đề nóng hổi; vấn đề được bàn bạc sôi nổi
+@Chuyên ngành kinh tế
+-bị cháy
+-bị khê
+@Chuyên ngành kỹ thuật
+-nung
+-sấy
+-sự bào mòn
+-sự cháy
+-sự chảy
+-sự cháy hết
+-sự đốt
+-sự đun
+-sự nấu
+-sự nung
+-sự thiêu
+-thiêu
+-vết cháy (mài)
+@Lĩnh vực: hóa học & vật liệu
+-cắt bằng hơi hàn
+@Lĩnh vực: xây dựng
+-mìn tạo giếng
+@Lĩnh vực: cơ khí & công trình
+-sự quá lửa

@@ -1,3 +1,2 @@
-colluder
-	@colluder\n- xem collude
-
+colluder	@colluder
+- xem collude

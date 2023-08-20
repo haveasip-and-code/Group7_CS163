@@ -1,3 +1,43 @@
-bark
-	@bark /bɑ:k/\n*  danh từ\n- tiếng sủa\n- tiếng quát tháo\n- tiếng súng nổ\n- (từ lóng) tiếng ho\n!his bark is worse than his bite\n- hắn chỉ quát tháo thế thôi, thực ra tâm địa không có gì\n*  động từ\n- sủa\n=to bark at the moon+ sủa trăng\n- quát tháo\n- (từ lóng) ho\n!to bark up the wrong tree\n- (từ Mỹ,nghĩa Mỹ) nhầm, nhầm lẫn; theo con đường lầm; tố cáo sai\n*  danh từ\n- vỏ cây\n- vỏ (cây để) thuộc da\n- (từ lóng) da\n- (từ cổ,nghĩa cổ) vỏ canh ki na ((cũng) Peruvian bark,  Jesuits' bark); quinin\n!to come (go) between the bark and the tree\n- dính vào câu chuyện gia đình nhà người ta, can thiệp vào chuyện riêng của vợ chồng người ta\n!a man with the bark on\n- (từ Mỹ,nghĩa Mỹ) người thô lỗ, vụng về\n!to take the bark off something\n- làm giảm giá trị của cái gì; làm giảm vẻ đẹp của cái gì\n*  ngoại động từ\n- lột vỏ, bóc vỏ (cây)\n- (âm nhạc) làm sầy da, làm tuột da\n- thuộc (da) bằng vỏ cây\n- phủ một lớp vỏ cứng\n*  danh từ\n- thuyền ba buồm\n- (thơ ca) thuyền\n@Chuyên ngành kỹ thuật\n-bóc vỏ\n-vỏ\n@Lĩnh vực: xây dựng\n-bìa bắp (gỗ xẻ)\n-sủa\n-thuyền ba buồm\n-vỏ (cây)\n-vỏ cây
-
+bark	@bark /bɑ:k/
+*  danh từ
+- tiếng sủa
+- tiếng quát tháo
+- tiếng súng nổ
+- (từ lóng) tiếng ho
+!his bark is worse than his bite
+- hắn chỉ quát tháo thế thôi, thực ra tâm địa không có gì
+*  động từ
+- sủa
+=to bark at the moon+ sủa trăng
+- quát tháo
+- (từ lóng) ho
+!to bark up the wrong tree
+- (từ Mỹ,nghĩa Mỹ) nhầm, nhầm lẫn; theo con đường lầm; tố cáo sai
+*  danh từ
+- vỏ cây
+- vỏ (cây để) thuộc da
+- (từ lóng) da
+- (từ cổ,nghĩa cổ) vỏ canh ki na ((cũng) Peruvian bark,  Jesuits' bark); quinin
+!to come (go) between the bark and the tree
+- dính vào câu chuyện gia đình nhà người ta, can thiệp vào chuyện riêng của vợ chồng người ta
+!a man with the bark on
+- (từ Mỹ,nghĩa Mỹ) người thô lỗ, vụng về
+!to take the bark off something
+- làm giảm giá trị của cái gì; làm giảm vẻ đẹp của cái gì
+*  ngoại động từ
+- lột vỏ, bóc vỏ (cây)
+- (âm nhạc) làm sầy da, làm tuột da
+- thuộc (da) bằng vỏ cây
+- phủ một lớp vỏ cứng
+*  danh từ
+- thuyền ba buồm
+- (thơ ca) thuyền
+@Chuyên ngành kỹ thuật
+-bóc vỏ
+-vỏ
+@Lĩnh vực: xây dựng
+-bìa bắp (gỗ xẻ)
+-sủa
+-thuyền ba buồm
+-vỏ (cây)
+-vỏ cây

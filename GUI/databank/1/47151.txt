@@ -1,0 +1,16 @@
+resources	@Chuyên ngành kinh tế
+-của cải
+-khả năng
+-nguồn lực
+-nguồn tài nguyên
+-nguồn tiền mặt
+-tài lực
+-tài nguyên
+-tiềm lực
+@Chuyên ngành kỹ thuật
+-nguồn
+-nguồn dự trữ
+@Lĩnh vực: xây dựng
+-nguồn tài nguyên
+@Lĩnh vực: cơ khí & công trình
+-tiềm lực kinh tế

@@ -1,0 +1,46 @@
+variable	@variable
+- biến (số) // biến thiên, biến đổi
+- additional v. biến thêm
+- aleatory v. biến ngẫu nhiên
+- apparent v. biến biểu kiến
+- aritificial v. biến giả tạo
+- auxiliary v. biến bổ trợ, biến phụ
+- bound v. biến buộc
+- chance v. biến ngẫu nhiên
+- complex v. biến phức
+- concomitant v. (thống kê) biến đồng hành
+- constrained v. (thống kê) biến buộc
+- contibuous v. biến liên tục
+- contragradient v. biến phản bộ
+- controlled v. biến bị điều khiển
+- dependent v. biến phụ thuộc
+- direction v. biến chỉ phương
+- dummy v. biến giả
+- effect v. (thống kê) biến phụ thuộc
+- esential v. biến cốt yếu
+- Eulerian v.s các biến Ơle
+- free v. biến tự do
+- hypercomplex v. biến siêu phức
+- independent v. (giải tích) biến độc lập
+- individual v. (logic học) biến cá thể
+- indution v. biến quy nạp
+- input v. biến số vào
+- latent v. biến ẩn
+- leading v. biến số chính
+- main v. (điều khiển học) biến số chính
+- marker v. (thống kê) biến số lưỡng trị
+- missing v. (điều khiển học) biến thiếu
+- number v. (logic học) biến số
+- numerical v. biến số
+- object v. (logic học) biến đối tượng
+- orientation v.s các biến định hướng
+- predicate v. biến vị từ
+- process v. biến điều chỉnh
+- proposition v. biến mệnh đề
+- random v. (thống kê) biến ngẫu nhiên
+- real v. biến thực
+- space v. (giải tích) biến không gian
+- stochastic v. biến ngẫu nhiên
+- superfluous v.s (thống kê) các biến thừa
+- theoretiv(al) v. (thống kê) biến lý thuyết
+- unrestricted v. biến tự do

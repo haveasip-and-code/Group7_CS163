@@ -1,3 +1,2 @@
-boggler
-	@boggler\n- xem boggle
-
+boggler	@boggler
+- xem boggle

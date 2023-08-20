@@ -1,3 +1,5 @@
-dehydrated
-	@Chuyên ngành kỹ thuật\n-khan\n-khử nước\n@Lĩnh vực: hóa học & vật liệu\n-được khử nước
-
+dehydrated	@Chuyên ngành kỹ thuật
+-khan
+-khử nước
+@Lĩnh vực: hóa học & vật liệu
+-được khử nước

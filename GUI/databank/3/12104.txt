@@ -1,3 +1,2 @@
-cosecant
-	@cosecant\n- (Tech) côsec
-
+cosecant	@cosecant
+- (Tech) côsec

@@ -1,3 +1,13 @@
-authentication
-	@authentication /ɔ:,θenti'keiʃn/\n*  danh từ\n- sự xác nhận là đúng, sự chứng minh là xác thực\n- sự làm cho có giá trị; sự nhận thức\n@Chuyên ngành kinh tế\n-nhận thực (chữ ký)\n-sự chứng nghiệm\n-sự nhận thực\n-xác nhận (là đúng)\n@Chuyên ngành kỹ thuật\n-sự xác nhận\n@Lĩnh vực: toán & tin\n-xác thực
-
+authentication	@authentication /ɔ:,θenti'keiʃn/
+*  danh từ
+- sự xác nhận là đúng, sự chứng minh là xác thực
+- sự làm cho có giá trị; sự nhận thức
+@Chuyên ngành kinh tế
+-nhận thực (chữ ký)
+-sự chứng nghiệm
+-sự nhận thực
+-xác nhận (là đúng)
+@Chuyên ngành kỹ thuật
+-sự xác nhận
+@Lĩnh vực: toán & tin
+-xác thực

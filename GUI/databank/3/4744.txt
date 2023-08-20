@@ -1,3 +1,16 @@
-barn
-	@barn /bɑ:n/\n*  danh từ\n- kho thóc\n- ngôi nhà thô sơ\n- (từ Mỹ,nghĩa Mỹ) chuồng trâu bò, chuồng ngựa\n- (từ Mỹ,nghĩa Mỹ) nơi để xe điện\n@Chuyên ngành kinh tế\n-chuồng trâu\n-kho chứa\n-kho thóc\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kho thóc\n-trại (nhỏ, đơn sơ)\n-trại nhỏ\n-vựa thóc
-
+barn	@barn /bɑ:n/
+*  danh từ
+- kho thóc
+- ngôi nhà thô sơ
+- (từ Mỹ,nghĩa Mỹ) chuồng trâu bò, chuồng ngựa
+- (từ Mỹ,nghĩa Mỹ) nơi để xe điện
+@Chuyên ngành kinh tế
+-chuồng trâu
+-kho chứa
+-kho thóc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-kho thóc
+-trại (nhỏ, đơn sơ)
+-trại nhỏ
+-vựa thóc

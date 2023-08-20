@@ -1,3 +1,2 @@
-awarder
-	@awarder\n- xem award
-
+awarder	@awarder
+- xem award

@@ -1,3 +1,22 @@
-agglomerate
-	@agglomerate /ə'glɔmərit/\n*  tính từ\n- tích tụ, chất đống\n- (hoá học) kết tụ\n*  danh từ\n- địa khối liên kết\n- (kỹ thuật) sản phẩm thiêu kết\n- (hoá học) khối kết tụ\n*  động từ\n- tích tụ lại, chất đống lại\n@Chuyên ngành kỹ thuật\n-aglomerat\n-đá kết tụ\n-kết hợp\n-kết tụ\n-tích tụ\n@Lĩnh vực: xây dựng\n-đá khối tập\n@Lĩnh vực: điện lạnh\n-kết luyện\n@Lĩnh vực: hóa học & vật liệu\n-khối kết tụ
-
+agglomerate	@agglomerate /ə'glɔmərit/
+*  tính từ
+- tích tụ, chất đống
+- (hoá học) kết tụ
+*  danh từ
+- địa khối liên kết
+- (kỹ thuật) sản phẩm thiêu kết
+- (hoá học) khối kết tụ
+*  động từ
+- tích tụ lại, chất đống lại
+@Chuyên ngành kỹ thuật
+-aglomerat
+-đá kết tụ
+-kết hợp
+-kết tụ
+-tích tụ
+@Lĩnh vực: xây dựng
+-đá khối tập
+@Lĩnh vực: điện lạnh
+-kết luyện
+@Lĩnh vực: hóa học & vật liệu
+-khối kết tụ

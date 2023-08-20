@@ -1,3 +1,6 @@
-configurative
-	@configurative\n- xem configuration\n@Chuyên ngành kỹ thuật\n-cấu hình\n-hình dạng\n-hình thể
-
+configurative	@configurative
+- xem configuration
+@Chuyên ngành kỹ thuật
+-cấu hình
+-hình dạng
+-hình thể

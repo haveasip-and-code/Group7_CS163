@@ -1,3 +1,2 @@
-cupeler
-	@cupeler\n- xem cupel
-
+cupeler	@cupeler
+- xem cupel

@@ -1,3 +1,2 @@
-confounder
-	@confounder\n- xem confound
-
+confounder	@confounder
+- xem confound

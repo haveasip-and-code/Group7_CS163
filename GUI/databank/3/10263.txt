@@ -1,3 +1,28 @@
-collect
-	@collect /kə'lekt/\n*  ngoại động từ\n- tập hợp lại\n- (thông tục) đến lấy, đi lấy, thu lượm, thu thập, góp nhặt, sưu tầm\n=to collect news+ lượm tin\n=to collect taxes+ thu thuế\n=to collect letters+ lấy thư\n=to collect stamps+ sưu tầm tem\n- tập trung (tư tưởng...)\n=to collect oneself+ trấn tĩnh, bình tĩnh lại\n- suy ra, rút ra\n=I collect from your words that...+ qua những lời anh nói tôi suy ra là...\n*  nội động từ\n- tập hợp, tụ hợp lại\n- dồn lại, ứ lại, đọng lại\n=rabbish collect+ rác ứ lại\n@Chuyên ngành kinh tế\n-thu (tiền, thuế...)\n-thu hộ (tiền hối phiếu)\n@Chuyên ngành kỹ thuật\n-gom góp\n@Lĩnh vực: xây dựng\n-góp\n@Lĩnh vực: toán & tin\n-góp nhặt\n-thu thập (dữ liệu)\n@Lĩnh vực: hóa học & vật liệu\n-thu gom (dầu)
-
+collect	@collect /kə'lekt/
+*  ngoại động từ
+- tập hợp lại
+- (thông tục) đến lấy, đi lấy, thu lượm, thu thập, góp nhặt, sưu tầm
+=to collect news+ lượm tin
+=to collect taxes+ thu thuế
+=to collect letters+ lấy thư
+=to collect stamps+ sưu tầm tem
+- tập trung (tư tưởng...)
+=to collect oneself+ trấn tĩnh, bình tĩnh lại
+- suy ra, rút ra
+=I collect from your words that...+ qua những lời anh nói tôi suy ra là...
+*  nội động từ
+- tập hợp, tụ hợp lại
+- dồn lại, ứ lại, đọng lại
+=rabbish collect+ rác ứ lại
+@Chuyên ngành kinh tế
+-thu (tiền, thuế...)
+-thu hộ (tiền hối phiếu)
+@Chuyên ngành kỹ thuật
+-gom góp
+@Lĩnh vực: xây dựng
+-góp
+@Lĩnh vực: toán & tin
+-góp nhặt
+-thu thập (dữ liệu)
+@Lĩnh vực: hóa học & vật liệu
+-thu gom (dầu)

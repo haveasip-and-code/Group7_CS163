@@ -1,0 +1,24 @@
+parameter	@parameter
+- thông số, tham số
+- p. of distribution tham số phân phối
+- p. of location (thống kê) tham số vị trí
+- age p. tham số tuổi, tham số tăng
+- characteristic p. tham số đặc trưng
+- conformal p. tham số bảo giác
+- differential p. tham số vi phân
+- dimensionless p. tham số không thứ nguyên
+- direction p. tham số chỉ phương
+- geodesic p. tham số trắc địa
+- incidental p. (thống kê) các tham số không cốt yếu
+- isometric p. tham số đẳng cự
+- local p. (giải tích) tham số địa phương
+- lumped p. (điều khiển học) tham số tập trung
+- mean p. tham số trung bình
+- mixed differential p. tham số vi phân hỗn tạp
+- nuisance p. (thống kê) tham số trở ngại
+- program(me) p. tham số chương trình
+- statistic (al) p. tham số thống kê
+- stray p. tham số parazit
+- superfluous p. tham số thừa
+- time-varying p. (điều khiển học) tham số thay đổi theo thời gian
+- uniformizing p. tham số đơn trị hoá

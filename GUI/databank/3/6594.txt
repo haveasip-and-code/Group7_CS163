@@ -1,3 +1,11 @@
-braking
-	@Chuyên ngành kỹ thuật\n-cái hãm\n-cái phanh\n-hãm\n-phanh\n-sự giảm tốc\n-sự hãm\n-sự phanh\n-sự thắng\n@Lĩnh vực: điện\n-cách hãm
-
+braking	@Chuyên ngành kỹ thuật
+-cái hãm
+-cái phanh
+-hãm
+-phanh
+-sự giảm tốc
+-sự hãm
+-sự phanh
+-sự thắng
+@Lĩnh vực: điện
+-cách hãm

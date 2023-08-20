@@ -1,3 +1,2 @@
-conversazioni
-	@conversazioni\n- xem conversazione
-
+conversazioni	@conversazioni
+- xem conversazione

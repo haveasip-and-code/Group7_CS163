@@ -1,3 +1,2 @@
-cochlear
-	@cochlear\n- xem cochlea
-
+cochlear	@cochlear
+- xem cochlea
