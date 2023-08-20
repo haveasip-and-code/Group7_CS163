@@ -1,3 +1,0 @@
-payables
-	@Chuyên ngành kinh tế\n-các khoản phải trả\n-các phiếu khoán phải trả\n-các tài khoản nhà cung ứng\n-tài khoản nợ (phải trả)
-

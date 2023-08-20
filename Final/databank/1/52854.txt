@@ -1,3 +1,0 @@
-stability
-	@stability\n- [sự, tính] ổn định\n- s. of solution tính ổn định [của lời giải, của nghiệm]\n- asymptotic(al) s. tính ổn định tiệm cận\n- conditional s. tính ổn định có điều kiện\n- dynamic s. tính ổn định động lực\n- elastic s. tính ổn định đàn hồi\n- frequency s. tính ổn định tần số\n- hydraulic s. tính ổn định thuỷ lực\n- intrinsic s. (điều khiển học) tính ổn định trong\n- kinetic s. sự ổn định động\n- local s. (thống kê) sự ổn định địa phương\n- longitadinal s. (cơ học) sự ổn định dọc\n- orbital s. sự ổn định quỹ đạo\n- overall s. (điều khiển học) tính ổn định tổng quát\n- static(al) s. sự ổn định tĩnh\n- structural s. (giải tích) tính ổn định cấu trúc\n- unconditional s. sự ổn định [tuyệt đối, không điều kiện]
-

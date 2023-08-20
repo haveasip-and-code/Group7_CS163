@@ -1,3 +1,0 @@
-exhaustivity
-	@exhaustivity\n- xem exhaustive
-

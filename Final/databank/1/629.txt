@@ -1,3 +1,0 @@
-activator
-	@activator\n- xem activate\n@Chuyên ngành kinh tế\n-chất hoạt hóa\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bộ hoạt hóa\n-bộ kích hoạt\n@Lĩnh vực: điện\n-cực kích hoạt\n@Lĩnh vực: xây dựng\n-máy kích động\n-thiết bị hoạt hóa
-

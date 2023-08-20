@@ -1,3 +1,0 @@
-deny
-	@deny /di'nai/\n*  ngoại động từ\n- từ chối, phản đối, phủ nhận\n=to deny the truth+ phủ nhận sự thật\n=to deny a charge+ phản đối một lời buộc tội\n- chối, không nhận\n=to deny one's signature+ chối không nhận chữ ký của mình\n- từ chối, không cho (ai cái gì)\n=to deny food to the enemy+ chặn không cho địch tiếp tế lương thực, chặn nguồn tiếp tế của địch\n=to deny oneself+ nhịn, chịu thiếu, nhịn ăn nhịn mặc\n- báo là (ai) không có nhà; không cho gặp mặt (ai)\n@Chuyên ngành kỹ thuật\n-phủ định\n-phủ nhận\n@Lĩnh vực: toán & tin\n-không nhận\n-từ chối
-

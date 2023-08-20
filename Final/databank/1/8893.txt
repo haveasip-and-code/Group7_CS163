@@ -1,3 +1,0 @@
-checklist
-	@checklist\n- (Tech) danh sách kiểm
-

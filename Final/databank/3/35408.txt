@@ -1,3 +1,0 @@
-mon
-	@mon\n* (viết tắt)\n- thứ Hai (Monday)\n- viết tắt\n- thứ Hai (Monday)
-

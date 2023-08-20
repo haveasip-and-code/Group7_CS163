@@ -1,3 +1,0 @@
-telemetry
-	@telemetry\n* danh từ\n- phép đo từ xa (quá trình tự động ghi nhận các số báo của một dụng cụ và truyền đi xa, thường bằng <rađiô>)\n@Chuyên ngành kinh tế\n-kỹ thuật đo đạc từ xa\n-phép viễn trắc\n-thuật đo đạc từ xa\n@Chuyên ngành kỹ thuật\n-đo lường từ xa\n-đo từ xa\n-phép đo khoảng cách\n@Lĩnh vực: toán & tin\n-đo đạc từ xa\n-phép viễn trắc\n@Lĩnh vực: điện lạnh\n-đo độ xa\n-phép định tầm\n@Lĩnh vực: y học\n-phép đo từ xa\n@Lĩnh vực: xây dựng\n-phép đo xa\n@Lĩnh vực: điện\n-viễn trắc lượng
-

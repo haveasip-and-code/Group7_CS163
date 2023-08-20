@@ -1,3 +1,0 @@
-namable
-	@namable\n- xem nameable
-

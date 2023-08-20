@@ -1,3 +1,0 @@
-exclusion
-	@exclusion\n- sự loại trừ
-

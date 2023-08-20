@@ -1,3 +1,0 @@
-megahertz
-	@megahertz\n- Một đơn vị đo lường bằng 1 triệu dao động điện (chu kỳ) trong mỗi giây; được sử dụng rộng rãi để đánh giá tốc độ đồng hồ của các máy tính Một triệu chu kỳ mỗi giây nghe có vẻ đáng sợ, nhưng theo tiêu chuẩn hiện nay, tốc độ đồng hồ 4, 77 MHz, 50 MHz, ngay cả 66 MHz là phổ biến trong điện toán cá nhân\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-triệu hz
-

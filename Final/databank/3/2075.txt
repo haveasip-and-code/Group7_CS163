@@ -1,3 +1,0 @@
-analyzable
-	@analyzable\n- xem analyze
-

@@ -1,3 +1,0 @@
-casework
-	@casework\n* danh từ\n- sự nghiên cứu dựa trên nhóm đối tượng cụ thể
-

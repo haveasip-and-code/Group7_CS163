@@ -1,3 +1,0 @@
-flatbed
-	@flatbed\n- hình phẳng (flatbed scanner: máy quét hình phẳng)
-

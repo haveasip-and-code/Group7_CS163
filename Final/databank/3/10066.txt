@@ -1,3 +1,0 @@
-codable
-	@codable\n* tính từ\n- có thể mã hoá
-

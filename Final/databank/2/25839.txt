@@ -1,3 +1,0 @@
-hist
-	@hist /hist/\n*  thán từ\n- xuỵt!
-

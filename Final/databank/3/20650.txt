@@ -1,3 +1,0 @@
-feedback
-	@feedback\n- (điều khiển học) sự liên hệ ngược\n- curent f. liên hệ ngược dòng\n- degenerative f. liên hệ ngược âm\n- delayed f. liên hệ ngược có chậm\n- devivative f. liên hệ ngược theo đạo hàm\n- envelope f. liên hệ ngược theo hình bao\n- external f. liên hệ ngược ngoài\n- inverse f. liên hệ ngược âm\n- lagging f. liên hệ ngược trễ\n- local f. liên hệ ngược địa phương\n- monitoring f. liên hệ ngược kiểm tra\n- negative f. liên hệ ngược âm\n- output f. liên hệ ngược từ lối ra\n- position f. liên hệ ngược theo vị trí\n- rate f. theo vận tốc\n- reference f. liên hệ ngược khởi đầu, liên hệ ngược xuất phát\n- voltage f. liên hệ ngược theo hiệu thế
-

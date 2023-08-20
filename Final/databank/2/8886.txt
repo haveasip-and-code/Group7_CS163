@@ -1,3 +1,0 @@
-checkbook
-	@checkbook\n- như cheque-book
-

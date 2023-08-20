@@ -1,3 +1,0 @@
-conceder
-	@conceder\n- xem concede
-

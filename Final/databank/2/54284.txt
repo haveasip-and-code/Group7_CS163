@@ -1,3 +1,0 @@
-subunit
-	@Chuyên ngành kỹ thuật\n-nhóm con\n@Lĩnh vực: đo lường & điều khiển\n-đơn vị con\n@Lĩnh vực: toán & tin\n-khối con\n-khối phụ\n@Lĩnh vực: điện lạnh\n-phân đơn nguyên
-

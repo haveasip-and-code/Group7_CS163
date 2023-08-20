@@ -1,3 +1,0 @@
-unban
-	@unban\n* động từ\n- hủy bỏ lệnh cấm, cho phép
-
