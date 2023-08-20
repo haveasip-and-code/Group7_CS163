@@ -13,6 +13,7 @@ int findName(string _name);
 int getCurrentStartSlot();
 
 pair<string,string> retrieveData(int slot,int key);
+pair<string,string> retrieveData(int slot,int key,int x);
 
 void saveCurrentDataSet(trieNode *cur);
 void saveCurrentDataSet(TSTNode *cur);
