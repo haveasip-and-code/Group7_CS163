@@ -1,3 +1,0 @@
-got
-	@got /get/\n* xem get
-

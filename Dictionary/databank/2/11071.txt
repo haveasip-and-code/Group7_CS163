@@ -1,3 +1,0 @@
-confirmable
-	@confirmable\n- xem confirm
-

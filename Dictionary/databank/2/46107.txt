@@ -1,3 +1,0 @@
-recursive
-	@recursive\n* tính từ\n- (toán học) (ngôn ngữ học) đệ quy\n= a recursive rule+một quy tắc đệ quy\n@Chuyên ngành kỹ thuật\n-đệ quy
-

@@ -1,3 +1,0 @@
-switcher
-	@switcher\n* danh từ\n- người chuyển hướng tàu hoả\n@Chuyên ngành kỹ thuật\n-đầu máy lập tàu\n@Lĩnh vực: toán & tin\n-bộ chuyển mạch (để chọn nguồn tín hiệu)
-

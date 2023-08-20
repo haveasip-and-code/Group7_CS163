@@ -1,3 +1,0 @@
-blamer
-	@blamer\n- xem blame
-

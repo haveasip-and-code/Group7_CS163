@@ -1,3 +1,0 @@
-acceptance
-	@acceptance\n- sự nhận, sự thu nhận
-

@@ -1,3 +1,0 @@
-sidebar
-	@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-thanh bên, dải bên
-

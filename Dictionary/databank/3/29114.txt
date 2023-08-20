@@ -1,3 +1,0 @@
-integrable
-	@integrable\n- khả tích, có thể lấy tích phân được\n- quadratically i. bình phương khả tích\n- totally i. (hình học) hoàn toàn khả tích\n@Chuyên ngành kỹ thuật\n-khả tích
-

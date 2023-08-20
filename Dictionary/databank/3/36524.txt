@@ -1,3 +1,0 @@
-neighbor
-	@neighbor\n- như neighbour\n@Chuyên ngành kỹ thuật\n-hàng xóm
-

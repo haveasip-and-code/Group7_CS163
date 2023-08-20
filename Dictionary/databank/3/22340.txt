@@ -1,3 +1,0 @@
-fribble
-	@fribble /'fribl/\n*  danh từ\n- người hay làm việc vớ vẩn, vô ích\n- việc làm vớ vẩn; ý nghĩ vớ vẩn\n*  nội động từ\n- làm những chuyện vớ vẩn, vô ích
-

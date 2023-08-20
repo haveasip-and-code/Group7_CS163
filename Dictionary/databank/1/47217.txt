@@ -1,3 +1,0 @@
-restore
-	@restore\n- phục hồi, xây dựng lại
-

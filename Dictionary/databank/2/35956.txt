@@ -1,3 +1,0 @@
-multigrade
-	@multigrade\n- nhiều bậc\n@Chuyên ngành kỹ thuật\n-nhiều bậc\n@Lĩnh vực: toán & tin\n-đa bậc
-

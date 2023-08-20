@@ -1,3 +1,0 @@
-busbar
-	@busbar\n- (Tech) thanh nối điện (để nối các điểm cùng một điện thế)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cần nối mạch điện\n@Lĩnh vực: điện\n-thanh góp\n@Lĩnh vực: điện lạnh\n-thanh góp (điện)\n@Lĩnh vực: xây dựng\n-thanh góp điện
-

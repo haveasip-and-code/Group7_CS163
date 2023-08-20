@@ -1,3 +1,0 @@
-multiprocessor
-	@multiprocessor\n- bộ đa xử lí
-

@@ -1,3 +1,0 @@
-recipe
-	@recipe /'resipi/\n*  danh từ\n- công thức (bánh, món ăn, thuốc pha chế)\n- đơn thuốc, thuốc pha chế theo đơn, thuốc bốc theo đơn\n- phương pháp, cách làm (việc gì)\n@Chuyên ngành kinh tế\n-công thức\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-công thức pha chế
-

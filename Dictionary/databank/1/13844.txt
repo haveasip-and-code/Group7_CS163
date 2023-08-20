@@ -1,3 +1,0 @@
-declarable
-	@declarable\n- xem declare
-

@@ -1,3 +1,0 @@
-placeable
-	@placeable\n- xem place
-

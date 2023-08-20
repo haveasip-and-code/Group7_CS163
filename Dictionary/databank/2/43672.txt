@@ -1,3 +1,0 @@
-printless
-	@printless\n* tính từ\n- không dấu in
-

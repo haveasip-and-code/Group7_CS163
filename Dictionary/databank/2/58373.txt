@@ -1,3 +1,0 @@
-typecase
-	@typecase\n* danh từ\n- khay chữ in
-

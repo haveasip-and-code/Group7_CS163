@@ -1,3 +1,0 @@
-credo
-	@credo\n* danh từ\n- cương lĩnh
-

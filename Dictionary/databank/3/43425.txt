@@ -1,3 +1,0 @@
-preset
-	@preset\n- thiết lập sẵn, cái đặt sẵn\n@Chuyên ngành kỹ thuật\n-đặt trước\n-điều chỉnh trước\n@Lĩnh vực: toán & tin\n-chỉnh trước\n-cho trước\n-thiết lập trước\n@Lĩnh vực: xây dựng\n-đông cứng sớm\n-đông cứng trước\n@Lĩnh vực: hóa học & vật liệu\n-sắp đặt trước\n@Lĩnh vực: điện lạnh\n-tiền lập
-
