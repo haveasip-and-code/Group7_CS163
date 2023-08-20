@@ -1,9 +1,0 @@
-discriminator	@discriminator
-- (Tech) bộ phân biệt; bộ tách sóng
-@Chuyên ngành kỹ thuật
--bộ phân biệt
-@Lĩnh vực: điện
--bộ chọn lọc
--đèn biệt sóng
-@Lĩnh vực: toán & tin
--bộ giải tần
