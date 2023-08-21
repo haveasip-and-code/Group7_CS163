@@ -1,3 +1,0 @@
-interface
-	@interface /'intəfeis/\n*  danh từ\n- bề mặt chung (cho hai vật...); mặt phân giới\n- những cái chung (của hai ngành học thuật...)\n=the interface of chemistry and physics+ những cái chung của hoá học và vật lý\n@Chuyên ngành kinh tế\n-bề mặt phân chia\n@Chuyên ngành kỹ thuật\n-bề mặt chuyển tiếp\n-giao diện\n-khớp nối\n-lớp trung gian\n-mặt phân cách\n-mặt phân giới\n-mặt tiếp xúc\n-phân lớp\n-sự ghép nối\n@Lĩnh vực: y học\n-bề mặt chung, mặt phân giãn\n@Lĩnh vực: toán & tin\n-mạch ghép nối\n-sự phân giới\n-thiết bị ghép nối\n@Lĩnh vực: xây dựng\n-mặt liên kết\n-mặt phân tầng\n@Lĩnh vực: vật lý\n-mặt phân chia\n@Lĩnh vực: hóa học & vật liệu\n-mặt trung gian
-

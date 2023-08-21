@@ -1,3 +1,0 @@
-colorer
-	@colorer\n- xem color
-

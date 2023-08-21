@@ -1,3 +1,0 @@
-pruner
-	@pruner /pruner/\n*  danh từ\n- người tỉa cây
-

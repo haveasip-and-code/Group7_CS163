@@ -1,3 +1,0 @@
-required
-	@required\n- đòi hỏi, cần tìm\n@Chuyên ngành kinh tế\n-cần thiết\n-phải có\n-phải được\n-yêu cầu\n@Chuyên ngành kỹ thuật\n-đòi hỏi\n-yêu cầu\n@Lĩnh vực: toán & tin\n-cần tìm
-

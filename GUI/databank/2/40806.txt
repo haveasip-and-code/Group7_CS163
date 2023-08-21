@@ -1,3 +1,0 @@
-persister
-	@persister\n- xem persist
-

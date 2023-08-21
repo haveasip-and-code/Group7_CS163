@@ -1,3 +1,0 @@
-markup
-	@markup\n* danh từ\n- <thương> sự tăng giá\n- số tiền cộng vào giá vốn (gồm kinh phí và lãi)\n- <tin> đánh dấu bằng thẻ\n@Chuyên ngành kinh tế\n-mức biên lời\n@Chuyên ngành kỹ thuật\n-đánh dấu
-

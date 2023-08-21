@@ -1,3 +1,0 @@
-concurrency
-	@concurrency\n- (Tech) đồng thời
-

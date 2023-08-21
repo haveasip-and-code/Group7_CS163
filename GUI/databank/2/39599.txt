@@ -1,3 +1,0 @@
-paralyzer
-	@paralyzer\n- xem paralyze
-

@@ -1,3 +1,0 @@
-logotype
-	@logotype\n* danh từ\n- khối liền để in một nhan đề\n- tiêu chí để quảng cáo
-

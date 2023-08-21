@@ -1,3 +1,0 @@
-databank
-	@databank\n- (tin) ngân hàng dữ liệu
-

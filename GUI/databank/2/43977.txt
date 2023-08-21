@@ -1,3 +1,0 @@
-prologize
-	@prologize /prologize/\n*  nội động từ\n- nói mở đầu, viết mở đầu
-

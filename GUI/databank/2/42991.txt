@@ -1,3 +1,0 @@
-prebendal
-	@prebendal\n- xem prebend
-
