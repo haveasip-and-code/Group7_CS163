@@ -55,7 +55,7 @@ extern int curDataSet;
 extern vector<pair<string,string>> favouriteList;
 extern vector<pair<string,string>> historyList;
 
-extern TST data;
+extern TST data1;
 
 bool isEditable;
 
@@ -67,13 +67,14 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
 
-    panel->SetBackgroundColour(wxColour(248, 247, 245));
+    panel->SetBackgroundColour(wxColour(238, 238, 238));
     ::wxInitAllImageHandlers();
 
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
 
     wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(110, 25));
+    chooseMode->SetForegroundColour(wxColour(142, 159, 157));
 
     wxArrayString modeChoices;
     modeChoices.Add("By keyword");
@@ -113,8 +114,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
     word->SetHint("Word");
 
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE);
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE|wxTE_NO_VSCROLL);
     //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
+    definition->SetBackgroundColour(wxColour(238, 238, 238));
+    definition->SetForegroundColour(wxColour(73, 86, 111));
     definition->SetHint("definition");
     definition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
@@ -135,7 +138,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         //string testStr="make";
         //cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
         if (mode==1) {
-            pair<string,string> searchResult=getWordDefAlways(data,tmp);
+            pair<string,string> searchResult=getWordDefAlways(data1,tmp);
             curDef=stringToWxString(searchResult.second);
             curWord=stringToWxString(searchResult.first);
             //cout<<curDef<<' '<<curWord<<'\n';
@@ -229,8 +232,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             string tmp1,tmp2;
             tmp1=wxStringToString(word->GetValue());
             tmp2=wxStringToString(definition->GetValue());
-            addWord(data,tmp1,tmp2);
-            saveCurrentDataSet(data);
+            addWord(data1,tmp1,tmp2);
+            saveCurrentDataSet(data1);
             //cout<<tmp1<<' '<<tmp2<<' '<<word->GetValue()<<' '<<definition->GetValue()<<'\n';
         }
         else {
@@ -249,8 +252,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         tmp1=wxStringToString(word->GetValue());
         tmp2="";
         //cout<<"Yes\n";
-        addWord(data,tmp1,tmp2);
-        saveCurrentDataSet(data);
+        addWord(data1,tmp1,tmp2);
+        saveCurrentDataSet(data1);
         word->Clear();
         definition->Clear();
         word->SetHint("Word");
@@ -333,10 +336,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         else if (selectedText=="Emoji - Eng") cmd=5;
         else if (selectedText=="Eng slangs") cmd=6;
         else if (selectedText=="Vie slangs") cmd=7;
-        saveCurrentDataSet(data);
+        saveCurrentDataSet(data1);
         curDataSet=cmd;
         setStartSlot(getCurrentStartSlot());
-        data.loadFromFile(getPath(cmd));
+        data1.loadFromFile(getPath(cmd));
         //wxLogMessage("Selected: %s", selectedText);
         //wxLogMessage("Load data set "+selectedText);
     });
@@ -354,7 +357,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             panel->Layout();
             notWotd = !notWotd;
 
-             pair<string,string> searchResult=getRandomWord(data);
+             pair<string,string> searchResult=getRandomWord(data1);
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
         word->ChangeValue(curWord);
@@ -525,7 +528,7 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         //p[i].first=standardize(p[i].first,500,5);
         //p[i].second=standardize(p[i].second,500,5);
     }
@@ -541,7 +544,7 @@ void makeGame() {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         //p[i].first=standardize(p[i].first,500,5);
         //p[i].second=standardize(p[i].second,500,5);
     }
@@ -558,7 +561,7 @@ void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         swap(p[i].first,p[i].second);
     }
     questionButton->SetLabel(stringToWxString(p[idx].first));
@@ -574,7 +577,7 @@ void makeGameInv() {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         swap(p[i].first,p[i].second);
     }
     questionButton->SetLabel(stringToWxString(p[idx].first));
@@ -1029,7 +1032,7 @@ MyFrame::MyFrame()
 {
 
     m_type = Type_AuiNotebook;
-    this->SetBackgroundColour(wxColour(73,86,111));
+    this->SetBackgroundColour(wxColour(73, 86, 111));
     m_panel    = NULL;
     m_bookCtrl = NULL;
     m_chkShowImages = true;
@@ -1048,7 +1051,7 @@ MyFrame::MyFrame()
     m_panel = new wxPanel(this);
 
     m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
-    m_text->SetForegroundColour(*wxGREEN);
+    m_text->SetForegroundColour(*wxYELLOW);
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
     m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
@@ -1110,7 +1113,7 @@ void MyFrame::RecreateBook()
     m_bookCtrl = NULL;
 
     DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
-                     (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxAUI_NB_LEFT));
+                     (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
 
     if ( !m_bookCtrl )
         return;
@@ -1124,7 +1127,7 @@ void MyFrame::RecreateBook()
 
         CreateInitialPages(m_bookCtrl);
 
-    m_sizerFrame->Insert(0, m_bookCtrl, wxSizerFlags(5).Expand().Border());
+    m_sizerFrame->Insert(0, m_bookCtrl, wxSizerFlags(5).Expand());
 
     m_sizerFrame->Show(m_bookCtrl);
     m_sizerFrame->Layout();
