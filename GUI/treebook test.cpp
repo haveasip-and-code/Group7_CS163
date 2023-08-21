@@ -4,6 +4,7 @@
 //
 //  Created by Nguyễn Bạch Trường Giang on 31/07/2023.
 //
+#pragma once
 
 #include "treebook test.hpp"
 #include "Form Login.hpp"
@@ -24,7 +25,6 @@
 
 //         // Create a box sizer to arrange contents
 //         wxBoxSizer* theList = new wxBoxSizer(wxVERTICAL);
-
 //         // Add a static text label
 //         wxStaticText* label = new wxStaticText(this, wxID_ANY, labelText);
 //         theList->Add(label, 0, wxALIGN_CENTER | wxALL, 10);
@@ -45,6 +45,7 @@ int cmd;
 int mode;
 int factor;
 int deltaPos;
+int UserVal;
 
 wxString curWord;
 wxString curDef;
@@ -61,6 +62,38 @@ bool isEditable;
 
 vector<string> inputRegex;
 
+MyPanel* subpanel;
+
+void updateFavourite(pair<string,string> tmp) {
+    favouriteList.push_back(tmp);
+    sort(favouriteList.begin(),favouriteList.end());
+}
+
+void removeFavourite(pair<string,string> tmp) {
+    for (int i=0;i<favouriteList.size();i++) {
+        if (tmp.first==favouriteList[i].first) {
+            favouriteList.erase(favouriteList.begin()+i);
+            return;
+        }
+    }
+}
+
+void removeFavourite(int x) {
+    favouriteList.erase(favouriteList.begin()+x);
+}
+
+bool isFavourite(string tmp) {
+    for (int i=0;i<favouriteList.size();i++) {
+        if (favouriteList[i].first==tmp) {
+            return true;
+        }
+    }
+    return false;
+}
+
+bool notFavorite;
+wxBitmap statusBitmap;
+
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
 
@@ -72,6 +105,11 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
+
+    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+
+    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
 
     wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(110, 25));
 
@@ -158,6 +196,15 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             word->ChangeValue(curWord);
             definition->ChangeValue(curDef);
         }
+        if (isFavourite(wxStringToString(word->GetValue()))) {
+            notFavorite=false;
+        }
+        else {
+            notFavorite=true;
+        }
+        statusBitmap=notFavorite ? favorited_ico : unfavorited_ico;
+        m_favourite->SetBitmapLabel(statusBitmap);
+        m_favourite->SetSize(wxSize(30,30));
     });
 
     sizer->Add(chooseMode, 0, wxLEFT);
@@ -257,20 +304,18 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         definition->SetHint("definition");
     });
 
-    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
-    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
-
-    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
-    bool notFavorite = true;
-    if (true/*isFavorite(word)*/) {
+    if (isFavourite(wxStringToString(word->GetValue()))) {
         notFavorite=false;
     }
     else {
         notFavorite=true;
     }
+    statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
+    m_favourite->SetBitmapLabel(statusBitmap);
+    m_favourite->SetSize(wxSize(30,30));
 
     m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
-        wxBitmap statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
+        statusBitmap = notFavorite ? favorited_ico : unfavorited_ico;
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
         panel->Layout();
@@ -279,14 +324,17 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             string tmp1,tmp2;
             tmp1=wxStringToString(word->GetValue());
             tmp2="";
+            removeFavourite({tmp1,tmp2});
             //addWordFavorite(favor,tmp1,tmp2);
         }
         else {
             string tmp1,tmp2;
             tmp1=wxStringToString(word->GetValue());
             tmp2=wxStringToString(definition->GetValue());
+            updateFavourite({tmp1,tmp2});
             //addWordFavorite(favor,tmp1,tmp2);
         }
+        subpanel->build(favouriteList);
     });
 
     sizer3->Add(m_remove,0);
@@ -384,6 +432,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 wxPanel *CreateAddPage(wxBookCtrlBase *parent)
 {
     wxPanel *panel = new wxPanel(parent);
+    /*
 
     wxTextCtrl* keyword = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,40));
     keyword->SetHint("Type your new word here");
@@ -423,6 +472,7 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
     sizer->Add(meaning,0,wxLEFT|wxTOP,10);
     sizer->Add(add,0, wxALIGN_RIGHT|wxTOP,10);
     panel->SetSizer(sizer);
+    */
     return panel;
 }
 
@@ -433,7 +483,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
     wxFont subTextFont(9, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
     panel->SetBackgroundColour(wxColour(249, 246, 246));
-
+    /*
     wxBoxSizer* biggest = new wxBoxSizer(wxVERTICAL);
 
     // search area
@@ -465,7 +515,22 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
         wxString searchText = searchBar->GetValue();
         wxMessageBox("Searching for: " + searchText);
     });
+    */
 
+    wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
+
+    // Create the subpanel and add it to the sizer
+    subpanel = new MyPanel(panel);
+    sizer->Add(subpanel, 1, wxEXPAND);
+
+    // Set the sizer for the main panel
+    panel->SetSizer(sizer);
+
+    // Fit the main panel to the frame size
+    sizer->Fit(panel);
+
+    subpanel->build(favouriteList);
+    /*
     sizer1->Add(searchBar, 0, wxLEFT, 5);
     sizer1->Add(searchButton, 0, wxLEFT);
 
@@ -477,8 +542,8 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     // ------------------------------------------------------------------ create one word item
     wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
-    wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
-    // line1->SetBackgroundColour(wxColour(142, 159, 157));
+    wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(130, 50));
+    line1->SetBackgroundColour(wxColour(142, 159, 157));
 
     wxStaticText* wordName = new wxStaticText(line1, wxID_ANY, "Word number 1");
     wxStaticText* wordDef = new wxStaticText(line1, wxID_ANY, "Definition goes here...");
@@ -512,6 +577,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     biggest->AddSpacer(5);
     biggest->Add(sizer2, 0, wxEXPAND);
     panel->SetSizer(biggest);
+    */
 
     return panel;
 }
@@ -520,6 +586,9 @@ string ans;
 wxButton* questionButton;
 wxButton* answerButton[5];
 wxButton* refreshButton;
+wxColor ButtonColour;
+
+wxStaticText* ScoreText;
 
 void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
@@ -538,6 +607,12 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
 }
 
 void makeGame() {
+    for (int i=1;i<=4;i++) {
+            //answerLabel[i]->Enable(false);
+        //answerLabel[i]->SetBackgroundColour(ButtonColour);
+        answerButton[i]->SetBackgroundColour(ButtonColour);
+    }
+    questionButton->SetBackgroundColour(ButtonColour);
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
@@ -571,6 +646,12 @@ void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
 
 
 void makeGameInv() {
+    for (int i=1;i<=4;i++) {
+            //answerLabel[i]->Enable(false);
+        //answerLabel[i]->SetBackgroundColour(ButtonColour);
+        answerButton[i]->SetBackgroundColour(ButtonColour);
+    }
+    questionButton->SetBackgroundColour(ButtonColour);
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
@@ -585,12 +666,27 @@ void makeGameInv() {
     ans=wxStringToString(stringToWxString(p[idx].second));
 }
 
+void displayScore(int x) {
+    if (x<-5) {
+        ScoreText->SetLabel("Streak: Spanish");
+    }
+    else if (x<=0) {
+        ScoreText->SetLabel("Streak: 0");
+    }
+    else if (x>=20) {
+        ScoreText->SetLabel("Streak: Godlike");
+    }
+    else {
+        ScoreText->SetLabel("Streak: "+intToString(x));
+    }
+}
+
 wxWindow* CreateGamePage(wxBookCtrlBase* parent)
 {
     //wxStaticText* questionLabel;
     //wxStaticText* answerLabel[5];
 
-    int mode=1;
+    mode=1;
 
     //Fuck all of these panelring fuckery
     //Just die
@@ -602,7 +698,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         wxBoxSizer* mainSizer = new wxBoxSizer(wxHORIZONTAL);
         panel->SetSizerAndFit(mainSizer);
 
-        wxColor ButtonColour("#EAFBEA");
+        ButtonColour=wxColor("#EAFBEA");
         /*
         answerLabel[1] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[1]->SetSize(wxSize(586,130));
@@ -666,6 +762,13 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         */
         //questionButton->Enable(false);
 
+        ScoreText = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
+        ScoreText->SetSize(wxSize(60,500));
+        ScoreText->SetPosition(wxPoint(10,10));
+        ScoreText->SetFont(wxFont(35, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        point=0;
+        displayScore(point);
+
         if (mode==1) {
             makeGame();
         }
@@ -688,7 +791,9 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 }
                 else {
                     answerButton[1]->SetBackgroundColour(wxColour("#be4d25"));
+                    point =0;
                 }
+                displayScore(point);
                 if (mode==1) {
                     makeGame();
                 }
@@ -710,7 +815,9 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 }
                 else {
                     answerButton[2]->SetBackgroundColour(wxColour("#be4d25"));
+                    point =0;
                 }
+                displayScore(point);
                 if (mode==1) {
                     makeGame();
                 }
@@ -733,7 +840,9 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 }
                 else {
                     answerButton[3]->SetBackgroundColour(wxColour("#be4d25"));
+                    point =0;
                 }
+                displayScore(point);
                 if (mode==1) {
                     makeGame();
                 }
@@ -756,7 +865,9 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 }
                 else {
                     answerButton[4]->SetBackgroundColour(wxColour("#be4d25"));
+                    point =0;
                 }
+                displayScore(point);
                 if (mode==1) {
                     makeGame();
                 }
@@ -765,6 +876,22 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 }
                 //wxSleep(2);
                 //lambdaFunc();
+            }
+        });
+
+        questionButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+        {
+            {
+                if (mode==2) mode=1;
+                else mode=2;
+                point=0;
+                displayScore(point);
+                if (mode==1) {
+                    makeGame();
+                }
+                else {
+                    makeGameInv();
+                }
             }
         });
 

@@ -28,6 +28,79 @@
 #include "trie.h"
 #include "databankManager.h"
 #include "generalLib.h"
+#include "debugCore.h"
+#include "handling.h"
+
+
+class MyPanel : public wxScrolledWindow
+{
+//Thank you chat GPT for your support
+public:
+    MyPanel(wxWindow* parent) : wxScrolledWindow(parent)
+    {
+        // Create a wxBoxSizer to hold the buttons
+        m_sizer = new wxBoxSizer(wxVERTICAL);
+
+        m_sizer->Clear();
+
+        // Create multiple buttons and add them to the sizer
+
+        /*
+        for (int i = 0; i < 20; ++i)
+        {
+            wxButton* button = new wxButton(this, wxID_ANY, wxString::Format("Button %d", i+1));
+            m_sizer->Add(button, 0, wxALL, 0);
+        }
+        */
+
+
+        // Set the sizer for the wxScrolledWindow
+        SetSizer(m_sizer);
+
+        // Set the virtual size of the wxScrolledWindow to be larger than its client size
+        SetVirtualSize(wxSize(200, 800));
+
+        // Enable scrolling
+        SetScrollRate(0, 10);
+
+        // Call Layout() to update the layout
+        Layout();
+    }
+    /*
+    void AddButton()
+    {
+        // Create a new button and add it to the sizer
+        wxButton* button = new wxButton(this, wxID_ANY, wxString::Format("Button %d", m_buttonCount + 1));
+        m_sizer->Add(button, 0, wxALL, 5);
+
+        // Increment the button count
+        m_buttonCount++;
+
+        // Call Layout() to update the layout
+        Layout();
+    }
+    */
+    void build(vector<pair<string,string>> InitList) {
+        int _n=InitList.size();
+        for (int i = 0; i < _n; ++i)
+        {
+            wxButton* button = new wxButton(this, wxID_ANY, wxString::Format("Button %d", i+1));
+            button->SetClientData(reinterpret_cast<void*>(i));
+            button->SetLabel(stringToWxString(InitList[i].first));
+            button->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
+            {
+
+            });
+            button->SetMinSize(wxSize(150,30));
+            button->SetMaxSize(wxSize(150,30));
+            m_sizer->Add(button, 0, wxALL, 0);
+        }
+    }
+
+private:
+    wxBoxSizer* m_sizer;
+    int m_buttonCount = 0;
+};
 
 class MyFrame : public wxFrame
 {
@@ -41,7 +114,7 @@ public:
         GuessWord,
         GuessDefinition
     };
-    
+
 
 
 
