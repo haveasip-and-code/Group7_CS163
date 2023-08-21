@@ -164,10 +164,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     SetWindowLong(hwndTextCtrl, GWL_EXSTYLE, GetWindowLong(hwndTextCtrl, GWL_EXSTYLE) & ~WS_EX_CLIENTEDGE);
     #endif
 
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE|wxTE_NO_VSCROLL);
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,200), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE|wxTE_NO_VSCROLL);
     //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
 
-    definition->SetFont(wxFont(12, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
+    definition->SetFont(wxFont(11, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
     definition->SetHint("definition");
     definition->SetBackgroundColour(wxColour(238, 238, 238));
     definition->SetForegroundColour(wxColour(73, 86, 111));
@@ -437,8 +437,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     // // sizer4->Add(sizer3, 0);
 
     all_sizer->Add(sizer, 0);
-    all_sizer->AddSpacer(70);
-    all_sizer->Add(sizer2, 0);
+    all_sizer->AddSpacer(60);
+    all_sizer->Add(sizer2, 0, wxEXPAND);
     all_sizer->Add(definition, 0);
     all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
     all_sizer->Add(sizer6, 0, wxALIGN_RIGHT);
@@ -1127,19 +1127,19 @@ void CreateInitialPages(wxBookCtrlBase *parent)
 {
     // Create and add some panels to the notebook
 
-    parent->SetSize(wxSize(100,400));
+    parent->SetSize(wxSize(70,680));
 
     wxWindow *page = DictionaryPage(parent);
-    parent->InsertPage( 0, page, DICTIONARY, false, GetIconIndex(parent) );
+    parent->InsertPage( 0, page, wxEmptyString, false, GetIconIndex(parent) );
 
     page = CreateAddPage(parent);
-    parent->AddPage( page, ADD_NEW_WORD, false, GetIconIndex(parent) );
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
 
     page = FavoriteList(parent);
-    parent->AddPage( page, FAVOURITE_LIST, false, GetIconIndex(parent) );
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
 
     page = CreateGamePage(parent);
-    parent->AddPage( page, GAME, false, GetIconIndex(parent) );
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
 
     parent->SetSelection(0);
 }
@@ -1252,26 +1252,27 @@ wxFAIL_MSG( "unknown book control type" );\
 
 void MyFrame::RecreateBook()
 {
-    m_bookCtrl = NULL;
+    // m_bookCtrl = NULL;
 
-    DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
-                     (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
+    // DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
+    //                  (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
 
-    if ( !m_bookCtrl )
-        return;
+    // if ( !m_bookCtrl )
+    //     return;
 
-    m_bookCtrl->Hide();
+    wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
+    functionBar->SetBackgroundColour(wxColour(73, 86, 111));
+    
+    // m_bookCtrl->Hide();
 
     if ( m_chkShowImages )
-    {
-        m_bookCtrl->SetImages(m_images);
-    }
+        functionBar->SetImages(m_images);
 
-        CreateInitialPages(m_bookCtrl);
+    CreateInitialPages(functionBar);
 
-    m_sizerFrame->Insert(0, m_bookCtrl, wxSizerFlags(5).Expand());
+    m_sizerFrame->Insert(0, functionBar, wxSizerFlags(5).Expand());
 
-    m_sizerFrame->Show(m_bookCtrl);
+    // m_sizerFrame->Show(m_bookCtrl);
     m_sizerFrame->Layout();
 }
 
