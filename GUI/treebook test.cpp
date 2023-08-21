@@ -18,6 +18,10 @@
 #include "debugCore.h"
 #include "handling.h"
 
+#ifdef __WXMSW__
+#include <windows.h>
+#endif
+
 // class displayList : public wxPanel {
 // public:
 //     displayList(wxWindow* parent, const wxString& labelText, const wxString& imageName)
@@ -96,7 +100,6 @@ wxBitmap statusBitmap;
 
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
-
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
 
@@ -150,15 +153,27 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     }
 
     wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
-    word->SetHint("Word");
+    word->SetFont(wxFont(30, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Bold"));
+    word->SetHint("the word");
+    word->SetBackgroundColour(wxColour(238, 238, 238));
+    word->SetForegroundColour(wxColour(73, 86, 111));
+
+    #ifdef __WXMSW__
+    // Disable the drop shadow effect on Windows
+    HWND hwndTextCtrl = static_cast<HWND>(word->GetHWND());
+    SetWindowLong(hwndTextCtrl, GWL_EXSTYLE, GetWindowLong(hwndTextCtrl, GWL_EXSTYLE) & ~WS_EX_CLIENTEDGE);
+    #endif
 
     wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE|wxTE_NO_VSCROLL);
     //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
+
+    definition->SetFont(wxFont(12, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
+    definition->SetHint("definition");
     definition->SetBackgroundColour(wxColour(238, 238, 238));
     definition->SetForegroundColour(wxColour(73, 86, 111));
-    definition->SetHint("definition");
-    definition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
+    hwndTextCtrl = static_cast<HWND>(definition->GetHWND());
+    SetWindowLong(hwndTextCtrl, GWL_EXSTYLE, GetWindowLong(hwndTextCtrl, GWL_EXSTYLE) & ~WS_EX_CLIENTEDGE);
 
     isEditable=false;
     word->SetEditable(isEditable);
@@ -212,18 +227,18 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     sizer->Add(chooseMode, 0, wxLEFT);
     sizer->Add(searchBar, 0);
-    sizer->Add(searchButton,0, wxLEFT);
+    sizer->Add(searchButton, 0, wxLEFT);
 
     wxBoxSizer* sizer2 = new wxBoxSizer(wxHORIZONTAL);
 
     //wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     //pronounciation->SetHint("Pronunciation");
-    sizer2->Add(word,0, wxLEFT, 30);
+    sizer2->Add(word, 0, wxLEFT);
     //sizer2->Add(pronounciation,0, wxLEFT, 10);
 
-    wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
-
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
+
+    // wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
     wxBitmap unedit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
     wxBitmap edit_ico = wxBitmap("edit_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition, wxSize(30,30));
@@ -304,7 +319,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         word->Clear();
         definition->Clear();
         word->SetHint("Word");
-        definition->SetHint("definition");
+        definition->SetHint("Definition");
     });
 
     if (isFavourite(wxStringToString(word->GetValue()))) {
@@ -340,17 +355,16 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         subpanel->build(favouriteList);
     });
 
-    sizer3->Add(m_remove,0);
-
-    sizer3->Add(m_edit,0);
-    sizer3->Add(m_favourite, 0, wxLEFT, 5);
+    sizer2->AddStretchSpacer();
+    sizer2->Add(m_remove, 0, wxRIGHT);
+    sizer2->Add(m_edit, 0, wxRIGHT);
+    sizer2->Add(m_favourite, 0, wxRIGHT);
 
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
-
     wxBoxSizer* sizer6 = new wxBoxSizer(wxHORIZONTAL);
 
-    wxBitmap unDataSet_ico = wxBitmap("DataSet_unchoose.png", wxBITMAP_TYPE_ANY);
-    wxBitmap DataSet_ico = wxBitmap("DataSet_choose.png", wxBITMAP_TYPE_ANY);
+    wxBitmap unDataSet_ico = wxBitmap("DataSet_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap DataSet_ico = wxBitmap("DataSet_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
 
 
@@ -418,13 +432,14 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
     sizer6->Add(m_dataset, 0, wxRIGHT, 5);
 
-    sizer4->Add(sizer2,0);
-    sizer4->AddSpacer(300);
-    sizer4->Add(sizer3,0);
+    // sizer3->Add(sizer2, 0);
+    // sizer3->AddSpacer(300);
+    // // sizer4->Add(sizer3, 0);
 
-    all_sizer->Add(sizer,0);
-    all_sizer->Add(sizer4,0);
-    all_sizer->Add(definition,0);
+    all_sizer->Add(sizer, 0);
+    all_sizer->AddSpacer(70);
+    all_sizer->Add(sizer2, 0);
+    all_sizer->Add(definition, 0);
     all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
     all_sizer->Add(sizer6, 0, wxALIGN_RIGHT);
     panel->SetSizer(all_sizer);
