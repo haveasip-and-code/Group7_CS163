@@ -21,7 +21,7 @@ bool debugFlag=true;
 string historyPath="coreData/hist.txt";
 string favouritePath="coreData/fav.txt";
 
-TST data=TST();
+TST data1=TST();
 TST favor=TST();
 
 //From user

@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 #include "wx/wx.h"
-#include "wx/aui/auibook.h"
+#include <wx/aui/auibook.h>
 #include "wx/wxprec.h"
 #include <wx/combobox.h>
 #include "wx/imaglist.h"
