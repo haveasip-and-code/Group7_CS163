@@ -1381,3 +1381,13 @@ databank/1
 databank/1
 Load from: databank/1/TST.txt
 This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "new"!!!
+Successful when trying to get definition of string "one"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here

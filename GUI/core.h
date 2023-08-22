@@ -30,8 +30,8 @@ void bulkLoadingFromDataSet(trieNode* dataSet,string &path);
 void bulkLoadingFromDataSet(TSTNode* dataSet,string &path);
 void bulkLoadingFromDataSet(TST& dataSet,string &path);
 
-void game(TST& data);
-void invGame(TST& data);
+void game(TST& data1);
+void invGame(TST& data1);
 
 void addHistory(pair<string,string> &cur);
 void saveHistory();

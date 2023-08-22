@@ -56,7 +56,7 @@ extern int curDataSet;
 extern vector<pair<string,string>> favouriteList;
 extern vector<pair<string,string>> historyList;
 
-extern TST data;
+extern TST data1;
 
 bool isEditable;
 
@@ -146,7 +146,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             textCtrl->SetFont(myAppFont);
         }
         else {
-            wxLogMessage("No data");
+            wxLogMessage("No data1");
         }
     }
     else {
@@ -179,9 +179,9 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         string tmp=string(searchText.mb_str());
         //cout<<tmp<<'\n';
         //string testStr="make";
-        //cout<<data.get(testStr)->val<<' '<<tmp<<'\n';
+        //cout<<data1.get(testStr)->val<<' '<<tmp<<'\n';
         if (mode==1) {
-            pair<string,string> searchResult=getWordDefAlways(data,tmp);
+            pair<string,string> searchResult=getWordDefAlways(data1,tmp);
             curDef=stringToWxString(searchResult.second);
             curWord=stringToWxString(searchResult.first);
             //cout<<curDef<<' '<<curWord<<'\n';
@@ -284,8 +284,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             string tmp1,tmp2;
             tmp1=wxStringToString(word->GetValue());
             tmp2=wxStringToString(definition->GetValue());
-            addWord(data,tmp1,tmp2);
-            saveCurrentDataSet(data);
+            addWord(data1,tmp1,tmp2);
+            saveCurrentDataSet(data1);
             //cout<<tmp1<<' '<<tmp2<<' '<<word->GetValue()<<' '<<definition->GetValue()<<'\n';
         }
         else {
@@ -304,8 +304,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         tmp1=wxStringToString(word->GetValue());
         tmp2="";
         //cout<<"Yes\n";
-        addWord(data,tmp1,tmp2);
-        saveCurrentDataSet(data);
+        addWord(data1,tmp1,tmp2);
+        saveCurrentDataSet(data1);
         word->Clear();
         definition->Clear();
         word->SetHint("Word");
@@ -397,12 +397,12 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         else if (selectedText=="Emoji - Eng") cmd=5;
         else if (selectedText=="Eng slangs") cmd=6;
         else if (selectedText=="Vie slangs") cmd=7;
-        saveCurrentDataSet(data);
+        saveCurrentDataSet(data1);
         curDataSet=cmd;
         setStartSlot(getCurrentStartSlot());
-        data.loadFromFile(getPath(cmd));
+        data1.loadFromFile(getPath(cmd));
         //wxLogMessage("Selected: %s", selectedText);
-        //wxLogMessage("Load data set "+selectedText);
+        //wxLogMessage("Load data1 set "+selectedText);
     });
 
     wxBitmap unwotd_ico = wxBitmap("wotd_unclicked.png", wxBITMAP_TYPE_ANY);
@@ -418,7 +418,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             panel->Layout();
             notWotd = !notWotd;
 
-             pair<string,string> searchResult=getRandomWord(data);
+             pair<string,string> searchResult=getRandomWord(data1);
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
         word->ChangeValue(curWord);
@@ -575,7 +575,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
             textCtrl->SetForegroundColour(wxColour(142, 159, 157));
         }
         else {
-            wxLogMessage("No data");
+            wxLogMessage("No data1");
         }
     }
     else {
@@ -656,7 +656,7 @@ void makeGame(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         //p[i].first=standardize(p[i].first,500,5);
         //p[i].second=standardize(p[i].second,500,5);
     }
@@ -678,7 +678,7 @@ void makeGame() {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         //p[i].first=standardize(p[i].first,500,5);
         //p[i].second=standardize(p[i].second,500,5);
     }
@@ -695,7 +695,7 @@ void makeGameInv(wxButton* _q,wxButton* _a[],string &_ans) {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         swap(p[i].first,p[i].second);
     }
     questionButton->SetLabel(stringToWxString(p[idx].first));
@@ -717,7 +717,7 @@ void makeGameInv() {
     pair<string,string> p[5];
     int idx=rand()%4+1;
     for (int i=1;i<=4;i++) {
-        p[i]=getRandomWord(data,5);
+        p[i]=getRandomWord(data1,5);
         swap(p[i].first,p[i].second);
     }
     questionButton->SetLabel(stringToWxString(p[idx].first));
@@ -1057,7 +1057,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 pair<string,string> p[5];
                 int idx=rand()%4+1;
                 for (int i=1;i<=4;i++) {
-                    p[i]=getRandomWord(data);
+                    p[i]=getRandomWord(data1);
                 }
                 questionLabel->SetLabel("What is the definition of '"+p[idx].first+"'?");
                 answerButton1->SetLabel(p[1].second);
@@ -1244,7 +1244,7 @@ MyFrame::MyFrame()
                        {
         //reset function of Cuong
 
-        wxLogMessage("Your data has been reset");
+        wxLogMessage("Your data1 has been reset");
     });
 
     wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
