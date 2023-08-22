@@ -41,6 +41,8 @@ public:
         // Create a wxBoxSizer to hold the buttons
         m_sizer = new wxBoxSizer(wxVERTICAL);
 
+        m_parent = parent;
+
         m_sizer->Clear();
 
         // Create multiple buttons and add them to the sizer
@@ -80,8 +82,9 @@ public:
         Layout();
     }
     */
-    void build(vector<pair<string,string>> InitList) {
+    void build(vector<pair<string,string>>& InitList) {
         int _n=InitList.size();
+        m_sizer->Clear();
         for (int i = 0; i < _n; ++i)
         {
             wxButton* button = new wxButton(this, wxID_ANY, wxString::Format("Button %d", i+1));
@@ -89,16 +92,23 @@ public:
             button->SetLabel(stringToWxString(InitList[i].first));
             button->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
             {
-
+                //cout<<"Fuck\n";
+                //this->build(InitList);
+                //this->Layout();
+                m_sizer->Layout();
+                m_parent->Layout();
             });
             button->SetMinSize(wxSize(150,30));
             button->SetMaxSize(wxSize(150,30));
             m_sizer->Add(button, 0, wxALL, 0);
         }
+        m_sizer->Layout();
+        m_parent->Layout();
     }
 
 private:
     wxBoxSizer* m_sizer;
+    wxWindow* m_parent;
     int m_buttonCount = 0;
 };
 
