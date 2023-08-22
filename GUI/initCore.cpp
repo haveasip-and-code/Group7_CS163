@@ -14,7 +14,7 @@ extern int curDataSet;
 extern vector<pair<string,string>> favouriteList;
 extern vector<pair<string,string>> historyList;
 
-extern TST data;
+extern TST data1;
 
 void initialize() {
     historyList.clear();
@@ -25,7 +25,7 @@ void initialize() {
 
     curDataSet=1;
     setStartSlot(getCurrentStartSlot());
-    data.loadFromFile(getPath(1));
+    data1.loadFromFile(getPath(1));
 
     debug("This go here");
 }

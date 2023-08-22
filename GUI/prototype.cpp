@@ -14,7 +14,7 @@ extern int curDataSet;
 extern vector<pair<string,string>> favouriteList;
 extern vector<pair<string,string>> historyList;
 
-extern TST data;
+extern TST data1;
 
 int prototypemode() {
     loadMetaData();
@@ -54,7 +54,7 @@ int prototypemode() {
             }
             curDataSet=cmd;
             setStartSlot(getCurrentStartSlot());
-            data.loadFromFile(getPath(cmd));
+            data1.loadFromFile(getPath(cmd));
             while (true) {
                 cout<<"What do you want to do?\n";
                 cout<<"1. Set definition for a word\n";
@@ -73,14 +73,14 @@ int prototypemode() {
                     cin>>cur;
                     cout<<"Enter your definition: ";
                     cin>>def;
-                    addWord(data,cur,def);
+                    addWord(data1,cur,def);
                 }
                 else if (cmd==2) {
                     string cur,def;
                     cout<<"Enter your word: ";
                     cin>>cur;
                     pair<string,string> kq;
-                    kq=getWordDef(data,cur);
+                    kq=getWordDef(data1,cur);
                     cout<<"Your word: "<<kq.first<<'\n';
                     cout<<"Definition: "<<kq.second<<'\n';
                     addHistory(kq);
@@ -94,28 +94,28 @@ int prototypemode() {
                     cout<<"Please enter the path to the file: ";
                     string cur;
                     cin>>cur;
-                    bulkLoadingFromDataSet(data,cur);
-                    saveCurrentDataSet(data);
+                    bulkLoadingFromDataSet(data1,cur);
+                    saveCurrentDataSet(data1);
                     saveMetaData();
-                    data.clear();
+                    data1.clear();
                 }
                 else if (cmd==4) {
                     pair<string,string> kq;
-                    kq=getRandomWord(data);
+                    kq=getRandomWord(data1);
                     cout<<"Your word: "<<kq.first<<'\n';
                     cout<<"Definition: "<<kq.second<<'\n';
                 }
                 else if (cmd==5) {
-                    game(data);
+                    game(data1);
                 }
                 else if (cmd==6) {
-                    invGame(data);
+                    invGame(data1);
                 }
                 else if (cmd==7) {
                     string cur;
                     cout<<"Enter your word: ";
                     cin>>cur;
-                    deleteWord(data,cur);
+                    deleteWord(data1,cur);
                 }
                 else {
                     cout<<"Thank you. Please go to sleep!\n";
