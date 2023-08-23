@@ -18,6 +18,10 @@
 #include "debugCore.h"
 #include "handling.h"
 
+#ifdef __WXMSW__
+#include <windows.h>
+#endif
+
 // class displayList : public wxPanel {
 // public:
 //     displayList(wxWindow* parent, const wxString& labelText, const wxString& imageName)
@@ -105,7 +109,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
 
-    panel->SetBackgroundColour(wxColour(248, 247, 245));
+    panel->SetBackgroundColour(wxColour(238, 238, 238));
     ::wxInitAllImageHandlers();
 
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
@@ -117,6 +121,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
 
     wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(110, 25));
+    chooseMode->SetForegroundColour(wxColour(142, 159, 157));
 
     wxArrayString modeChoices;
     modeChoices.Add("By keyword");
@@ -154,13 +159,27 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     }
 
     wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
-    word->SetHint("Word");
+    word->SetFont(wxFont(30, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Bold"));
+    word->SetHint("the word");
+    word->SetBackgroundColour(wxColour(238, 238, 238));
+    word->SetForegroundColour(wxColour(73, 86, 111));
 
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,300), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE);
+    #ifdef __WXMSW__
+    // Disable the drop shadow effect on Windows
+    HWND hwndTextCtrl = static_cast<HWND>(word->GetHWND());
+    SetWindowLong(hwndTextCtrl, GWL_EXSTYLE, GetWindowLong(hwndTextCtrl, GWL_EXSTYLE) & ~WS_EX_CLIENTEDGE);
+    #endif
+
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,200), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE|wxTE_NO_VSCROLL);
     //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
-    definition->SetHint("definition");
-    definition->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
 
+    definition->SetFont(wxFont(11, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
+    definition->SetHint("definition");
+    definition->SetBackgroundColour(wxColour(238, 238, 238));
+    definition->SetForegroundColour(wxColour(73, 86, 111));
+
+    hwndTextCtrl = static_cast<HWND>(definition->GetHWND());
+    SetWindowLong(hwndTextCtrl, GWL_EXSTYLE, GetWindowLong(hwndTextCtrl, GWL_EXSTYLE) & ~WS_EX_CLIENTEDGE);
 
     isEditable=false;
     word->SetEditable(isEditable);
@@ -217,18 +236,18 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     sizer->Add(chooseMode, 0, wxLEFT);
     sizer->Add(searchBar, 0);
-    sizer->Add(searchButton,0, wxLEFT);
+    sizer->Add(searchButton, 0, wxLEFT);
 
     wxBoxSizer* sizer2 = new wxBoxSizer(wxHORIZONTAL);
 
     //wxTextCtrl* pronounciation = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_READONLY|wxTE_CENTER);
     //pronounciation->SetHint("Pronunciation");
-    sizer2->Add(word,0, wxLEFT, 30);
+    sizer2->Add(word, 0, wxLEFT);
     //sizer2->Add(pronounciation,0, wxLEFT, 10);
 
-    wxBoxSizer* sizer4 = new wxBoxSizer(wxHORIZONTAL);
-
     wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
+
+    // wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
     wxBitmap unedit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
     wxBitmap edit_ico = wxBitmap("edit_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition, wxSize(30,30));
@@ -309,7 +328,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         word->Clear();
         definition->Clear();
         word->SetHint("Word");
-        definition->SetHint("definition");
+        definition->SetHint("Definition");
     });
 
     if (isFavourite(wxStringToString(word->GetValue()))) {
@@ -353,17 +372,16 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         subpanel->build(favouriteList);
     });
 
-    sizer3->Add(m_remove,0);
-
-    sizer3->Add(m_edit,0);
-    sizer3->Add(m_favourite, 0, wxLEFT, 5);
+    sizer2->AddStretchSpacer();
+    sizer2->Add(m_remove, 0, wxRIGHT);
+    sizer2->Add(m_edit, 0, wxRIGHT);
+    sizer2->Add(m_favourite, 0, wxRIGHT);
 
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
-
     wxBoxSizer* sizer6 = new wxBoxSizer(wxHORIZONTAL);
 
-    wxBitmap unDataSet_ico = wxBitmap("DataSet_unchoose.png", wxBITMAP_TYPE_ANY);
-    wxBitmap DataSet_ico = wxBitmap("DataSet_choose.png", wxBITMAP_TYPE_ANY);
+    wxBitmap unDataSet_ico = wxBitmap("DataSet_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap DataSet_ico = wxBitmap("DataSet_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
 
 
@@ -431,13 +449,14 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
     sizer6->Add(m_dataset, 0, wxRIGHT, 5);
 
-    sizer4->Add(sizer2,0);
-    sizer4->AddSpacer(300);
-    sizer4->Add(sizer3,0);
+    // sizer3->Add(sizer2, 0);
+    // sizer3->AddSpacer(300);
+    // // sizer4->Add(sizer3, 0);
 
-    all_sizer->Add(sizer,0);
-    all_sizer->Add(sizer4,0);
-    all_sizer->Add(definition,0);
+    all_sizer->Add(sizer, 0);
+    all_sizer->AddSpacer(60);
+    all_sizer->Add(sizer2, 0, wxEXPAND);
+    all_sizer->Add(definition, 0);
     all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
     all_sizer->Add(sizer6, 0, wxALIGN_RIGHT);
     panel->SetSizer(all_sizer);
@@ -1209,19 +1228,19 @@ void CreateInitialPages(wxBookCtrlBase *parent)
 {
     // Create and add some panels to the notebook
 
-    parent->SetSize(wxSize(100,400));
+    parent->SetSize(wxSize(70,680));
 
     wxWindow *page = DictionaryPage(parent);
-    parent->InsertPage( 0, page, DICTIONARY, false, GetIconIndex(parent) );
+    parent->InsertPage( 0, page, wxEmptyString, false, GetIconIndex(parent) );
 
     page = CreateAddPage(parent);
-    parent->AddPage( page, ADD_NEW_WORD, false, GetIconIndex(parent) );
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
 
     page = FavoriteList(parent);
-    parent->AddPage( page, FAVOURITE_LIST, false, GetIconIndex(parent) );
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
 
     page = CreateGamePage(parent);
-    parent->AddPage( page, GAME, false, GetIconIndex(parent) );
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
 
     parent->SetSelection(0);
 }
@@ -1256,7 +1275,7 @@ MyFrame::MyFrame()
 {
 
     m_type = Type_AuiNotebook;
-    this->SetBackgroundColour(wxColour(73,86,111));
+    this->SetBackgroundColour(wxColour(73, 86, 111));
     m_panel    = NULL;
     m_bookCtrl = NULL;
     m_chkShowImages = true;
@@ -1275,7 +1294,7 @@ MyFrame::MyFrame()
     m_panel = new wxPanel(this);
 
     m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
-    m_text->SetForegroundColour(*wxGREEN);
+    m_text->SetForegroundColour(*wxYELLOW);
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
     m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
@@ -1334,26 +1353,27 @@ wxFAIL_MSG( "unknown book control type" );\
 
 void MyFrame::RecreateBook()
 {
-    m_bookCtrl = NULL;
+    // m_bookCtrl = NULL;
 
-    DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
-                     (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxAUI_NB_LEFT));
+    // DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
+    //                  (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
 
-    if ( !m_bookCtrl )
-        return;
+    // if ( !m_bookCtrl )
+    //     return;
 
-    m_bookCtrl->Hide();
+    wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
+    functionBar->SetBackgroundColour(wxColour(73, 86, 111));
+    
+    // m_bookCtrl->Hide();
 
     if ( m_chkShowImages )
-    {
-        m_bookCtrl->SetImages(m_images);
-    }
+        functionBar->SetImages(m_images);
 
-        CreateInitialPages(m_bookCtrl);
+    CreateInitialPages(functionBar);
 
-    m_sizerFrame->Insert(0, m_bookCtrl, wxSizerFlags(5).Expand().Border());
+    m_sizerFrame->Insert(0, functionBar, wxSizerFlags(5).Expand());
 
-    m_sizerFrame->Show(m_bookCtrl);
+    // m_sizerFrame->Show(m_bookCtrl);
     m_sizerFrame->Layout();
 }
 
