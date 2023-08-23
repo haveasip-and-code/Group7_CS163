@@ -12,6 +12,7 @@ using namespace std;
 string decode(string st);
 int findSlot(int &x);
 string intToString(int _number);
+string intToString(int* _number);
 
 pair<string,string> getWordDef(trieNode* dataSet,string &cur);
 pair<string,string> getWordDef(TSTNode* dataSet,string &cur);

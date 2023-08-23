@@ -492,14 +492,16 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
     return panel;
 }
 
-void constructSc(wxPanel* panel,wxBoxSizer* sizer2,wxFont myAppFont2) {
+void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
     for (int i=0;i<favouriteList.size();i++) {
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
     line1->SetBackgroundColour(wxColour(142, 159, 157));
 
     wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,favouriteList[i].first);
-    line1->SetClientData(reinterpret_cast<void*>(i));
+    int* clientValue= new int;
+    *clientValue=i;
+    line1->SetClientData(clientValue);
     //wxStaticText* wordDef = new wxStaticText(line1, wxID_ANY, "Definition goes here...");
     wordName->SetFont(myAppFont2);
    // wordDef->SetFont(subTextFont);
@@ -510,7 +512,9 @@ void constructSc(wxPanel* panel,wxBoxSizer* sizer2,wxFont myAppFont2) {
 
     // chưa tìm đc cách bind cả wordInfo với event
     line1->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
-        //wxMessageBox(wxString::Format("Chose word: %s", intToString(*reinterpret_cast<int*>(line1->GetClientData())), wxT("Message")));
+        //wxMessageBox(wxString::Format("Chose word: %s", intToString(static_cast<int*>(line1->GetClientData())), wxT("Message")));
+        int pos=*static_cast<int*>(line1->GetClientData());
+        target->SetValue(stringToWxString(favouriteList[pos].first+"\n"+favouriteList[pos].second));
     });
 
     wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
@@ -522,7 +526,12 @@ void constructSc(wxPanel* panel,wxBoxSizer* sizer2,wxFont myAppFont2) {
     //wordInfo->Add(wordDef, 0, wxLEFT, 5);
     itemSizer->Add(wordInfo, 20, wxALIGN_CENTRE, 5);
     itemSizer->AddStretchSpacer(1);
-    itemSizer->Add(removeFromFav, 0, wxRIGHT|wxCENTRE);
+    itemSizer->Add(removeFromFav, 0, wxRIGHT|wxCENTRE, 20);
+    //wxSizerItem* itemToRemove = itemSizer->GetItem(removeFromFav);
+    //wxPoint currentPosition = itemToRemove->GetPosition();
+    //int newX = currentPosition.x + 20;
+    //int newY = currentPosition.y;
+    //itemToRemove->SetItemPosition(wxPoint(newX, newY));
     line1->SetSizer(itemSizer);
     sizer2->Add(line1);
     }
@@ -536,6 +545,8 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     wxFont myAppFont2(15, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
     wxFont subTextFont(9, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
     panel->SetBackgroundColour(wxColour(249, 246, 246));
+
+    wxScrolledWindow* lowpanel = new wxScrolledWindow(panel);
     /*
     wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
 
@@ -559,6 +570,24 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     subpanel->Layout();
     */
     wxBoxSizer* biggest = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer* textArea = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer* mergerScreen = new wxBoxSizer(wxHORIZONTAL);
+
+    wxPanel* infoPanel = new wxPanel;
+    infoPanel->SetBackgroundColour(wxColour(100,100,150));
+    infoPanel->SetSizer(textArea);
+
+    wxTextCtrl* infoText= new wxTextCtrl(panel, wxID_ANY, "", wxDefaultPosition, wxDefaultSize, wxTE_MULTILINE);
+    infoText->SetId(wxID_ANY);
+    infoText->SetValue(wxEmptyString);
+    infoText->SetPosition(wxDefaultPosition);
+    infoText->SetSize(wxDefaultSize);
+    /*
+    wxTextAttr infoTextAttr;
+    //infoTextAttr.SetTextColour(wxColor());
+    infoTextAttr.SetFont();
+    infoText->SetDefaultStyle(wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_MULTILINE);
+    */
 
     // search area
     wxBoxSizer* sizer1 = new wxBoxSizer(wxHORIZONTAL);
@@ -599,7 +628,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     // ------------------------------------------------------------------ create one word item
     wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
-    constructSc(panel,sizer2,myAppFont2);
+    constructSc(lowpanel,sizer2,myAppFont2,infoText);
     /*
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
@@ -634,13 +663,22 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
     */
     // ------------------------------------------------------------------ create one word item
 
+    //panel->GetSizer()->Detach(infoText);
+
+    lowpanel->SetVirtualSize(wxSize(200, 800));
+    lowpanel->SetScrollRate(0, 10);
     biggest->Add(sizer1, 0, wxEXPAND);
     biggest->AddSpacer(5);
-    biggest->Add(sizer2, 0, wxEXPAND);
-    panel->SetSizer(biggest);
+    lowpanel->SetSizer(sizer2);
+    lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
+    biggest->Add(lowpanel, wxEXPAND, wxEXPAND);
+    mergerScreen->Add(biggest,0,wxEXPAND);
+    //textArea->Add(infoText,0,wxEXPAND);
+    //mergerScreen->Add(textArea,wxEXPAND,wxEXPAND);
+    mergerScreen->Add(infoText,wxEXPAND,wxEXPAND);
 
 
-
+    panel->SetSizer(mergerScreen);
     return panel;
 }
 

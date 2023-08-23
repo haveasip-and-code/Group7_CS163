@@ -3272,7 +3272,7 @@
 
 1692264951 source:c:\users\lecuo\documents\github\group7_cs163\final\wxwidgetshandling.c
 
-1692553983 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
+1692777844 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"core.h"
@@ -3282,7 +3282,7 @@
 	"timeModule.h"
 	"flagging.h"
 
-1692694285 c:\users\lecuo\documents\github\group7_cs163\gui\core.h
+1692777844 c:\users\lecuo\documents\github\group7_cs163\gui\core.h
 	<bits/stdc++.h>
 	"trie.h"
 	"ternarySearchTree.h"
@@ -3313,7 +3313,7 @@
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\flagging.h
 	<bits/stdc++.h>
 
-1692554122 source:c:\users\lecuo\documents\github\group7_cs163\gui\databankmanager.cpp
+1692694285 source:c:\users\lecuo\documents\github\group7_cs163\gui\databankmanager.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"databankManager.h"
@@ -3394,7 +3394,7 @@
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.h
 	<bits/stdc++.h>
 
-1692554122 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
+1692694285 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
 	<bits/stdc++.h>
 	"globalVariableController.h"
 	"storage.h"
@@ -3404,7 +3404,7 @@
 	"ternarySearchTree.h"
 	"storage.h"
 
-1692611290 source:c:\users\lecuo\documents\github\group7_cs163\gui\initcore.cpp
+1692694285 source:c:\users\lecuo\documents\github\group7_cs163\gui\initcore.cpp
 	"core.h"
 	"prototype.h"
 	"metadata.h"
@@ -3453,7 +3453,7 @@
 	"metadata.h"
 	"generalLib.h"
 
-1692554123 source:c:\users\lecuo\documents\github\group7_cs163\gui\prototype.cpp
+1692694285 source:c:\users\lecuo\documents\github\group7_cs163\gui\prototype.cpp
 	<bits/stdc++.h>
 	"prototype.h"
 	"core.h"
@@ -3476,7 +3476,7 @@
 	<bits/stdc++.h>
 	"timeModule.h"
 
-1692620604 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
+1692750760 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
 	"treebook test.hpp"
 	"Form Login.hpp"
 	"Form Login.hpp"

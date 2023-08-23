@@ -167,6 +167,11 @@ string intToString(int _number) {
     }
 }
 
+string intToString(int* _number) {
+    int tmp=*_number;
+    return intToString(tmp);
+}
+
 void setDefinition(string &curWord,int slot,string &definition) {
     if (!writeFlag) return;
     //mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
