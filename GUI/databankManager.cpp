@@ -69,7 +69,7 @@ string getName(int x) {
     tmpStream>>kq;
     tmpStream.close();
     if (kq=="") {
-        debug("Can't get name of data set "+intToString(x)+", either it doesn't exist or the name was set to empty.");
+        debug("Can't get name of data1 set "+intToString(x)+", either it doesn't exist or the name was set to empty.");
     }
     return kq;
 }
@@ -80,7 +80,7 @@ int findName(string _name) {
             return ii;
         }
     }
-    debug("Can't find data set with name \""+_name);
+    debug("Can't find data1 set with name \""+_name);
     return -1;
 }
 

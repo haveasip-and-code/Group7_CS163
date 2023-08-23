@@ -27,7 +27,7 @@ private:
     void StartTest(const wxString& label);
     void EndTest(const wxArrayString& result);
 
-    // Track client data in wxItemContainer instances
+    // Track client data1 in wxItemContainer instances
     wxClientData* CreateClientData(int value);
     void StartTrackingData();
     void StopTrackingData();

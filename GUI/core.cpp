@@ -167,6 +167,11 @@ string intToString(int _number) {
     }
 }
 
+string intToString(int* _number) {
+    int tmp=*_number;
+    return intToString(tmp);
+}
+
 void setDefinition(string &curWord,int slot,string &definition) {
     if (!writeFlag) return;
     //mkdir((getPath(curDataSet)+"/"+intToString(slot/blcsize)).c_str());
@@ -233,11 +238,11 @@ pair<string,string> getRandomWord(TST& dataSet,int x) {
     return kq;
 }
 
-void game(TST& data) {
+void game(TST& data1) {
     pair<string,string> p[4];
     int idx=rand()%4;
     for (int i=0;i<4;i++) {
-        p[i]=getRandomWord(data);
+        p[i]=getRandomWord(data1);
     }
     cout<<p[idx].second<<'\n';
     cout<<"1. "<<p[0].first<<'\n';
@@ -254,11 +259,11 @@ void game(TST& data) {
     }
 }
 
-void invGame(TST& data) {
+void invGame(TST& data1) {
     pair<string,string> p[4];
     int idx=rand()%4;
     for (int i=0;i<4;i++) {
-        p[i]=getRandomWord(data);
+        p[i]=getRandomWord(data1);
     }
     cout<<p[idx].first<<'\n';
     cout<<"1. "<<p[0].second<<'\n';
@@ -329,8 +334,8 @@ void loadFav() {
     in.close();
 }
 
-void deleteWord(TST& data,string &cur) {
-    TSTNode* tmp=data.get(cur);
+void deleteWord(TST& data1,string &cur) {
+    TSTNode* tmp=data1.get(cur);
     if (tmp) tmp->val=0;
 }
 

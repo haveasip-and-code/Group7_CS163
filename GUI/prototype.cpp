@@ -27,20 +27,20 @@ int prototypemode() {
     while (true) {
         int cmd=0;
         cout<<"What do you want to do?\n";
-        cout<<"1. Add a data set\n";
-        cout<<"2. Access a data set\n";
+        cout<<"1. Add a data1 set\n";
+        cout<<"2. Access a data1 set\n";
         cout<<"3. See history\n";
         cout<<"4. See favourtie\n";
         cout<<"Other. Exit\n";
         cin>>cmd;
         if (cmd==1) {
-            cout<<"Please type the name of your data set: ";
+            cout<<"Please type the name of your data1 set: ";
             string tmp;
             cin>>tmp;
             createDatabank(tmp);
         }
         else if (cmd==2) {
-            cout<<"Please pick a data set: \n";
+            cout<<"Please pick a data1 set: \n";
             cmd=0;
             while (cmd==0) {
                 for (int ii=1;ii<=dataSetCnt;ii++) {
@@ -59,7 +59,7 @@ int prototypemode() {
                 cout<<"What do you want to do?\n";
                 cout<<"1. Set definition for a word\n";
                 cout<<"2. Get definition for a word\n";
-                cout<<"3. Bulk loading data set from file (developer feature, do not use)\n";
+                cout<<"3. Bulk loading data1 set from file (developer feature, do not use)\n";
                 cout<<"4. Get random word\n";
                 cout<<"5. Guess the meaning\n";
                 cout<<"6. Choose the correct word\n";
@@ -142,7 +142,7 @@ int prototypemode() {
         }
     }
     cout<<"Program terminating, please wait...\n";
-    //saveCurrentDataSet(data);
+    //saveCurrentDataSet(data1);
     //saveMetaData();
     saveFav();
     saveHistory();
