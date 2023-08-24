@@ -3272,7 +3272,7 @@
 
 1692264951 source:c:\users\lecuo\documents\github\group7_cs163\final\wxwidgetshandling.c
 
-1692777844 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
+1692783752 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"core.h"
@@ -3281,6 +3281,7 @@
 	"databankManager.h"
 	"timeModule.h"
 	"flagging.h"
+	"wx/sound.h"
 
 1692777844 c:\users\lecuo\documents\github\group7_cs163\gui\core.h
 	<bits/stdc++.h>
@@ -3394,17 +3395,19 @@
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.h
 	<bits/stdc++.h>
 
-1692694285 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
+1692786856 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
 	<bits/stdc++.h>
 	"globalVariableController.h"
 	"storage.h"
 	"ternarySearchTree.h"
+	"wx/sound.h"
+	"wx/setup.h"
 
 1692554123 c:\users\lecuo\documents\github\group7_cs163\gui\storage.h
 	"ternarySearchTree.h"
 	"storage.h"
 
-1692694285 source:c:\users\lecuo\documents\github\group7_cs163\gui\initcore.cpp
+1692786856 source:c:\users\lecuo\documents\github\group7_cs163\gui\initcore.cpp
 	"core.h"
 	"prototype.h"
 	"metadata.h"
@@ -3413,6 +3416,8 @@
 	"generalLib.h"
 	"debugCore.h"
 	"initCore.h"
+	"wx/sound.h"
+	"wx/setup.h"
 
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\initcore.h
 	<bits/stdc++.h>
@@ -3476,7 +3481,7 @@
 	<bits/stdc++.h>
 	"timeModule.h"
 
-1692781771 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
+1692814966 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
 	"treebook test.hpp"
 	"Form Login.hpp"
 	"Form Login.hpp"
@@ -3488,6 +3493,9 @@
 	"generalLib.h"
 	"debugCore.h"
 	"handling.h"
+	"wx/sound.h"
+	"wx/setup.h"
+	"Windows.h"
 	<windows.h>
 
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\handling.h
@@ -3531,4 +3539,20 @@
 
 1692554122 source:c:\users\lecuo\documents\github\group7_cs163\gui\handling.cpp
 	"handling.h"
+
+1676299539 c:\wxwidgets\include\wx\sound.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/msw/sound.h"
+	"wx/osx/sound.h"
+	"wx/unix/sound.h"
+
+1676299539 c:\wxwidgets\include\wx\msw\sound.h
+
+1676299539 c:\wxwidgets\include\wx\osx\sound.h
+	"wx/object.h"
+
+1676299539 c:\wxwidgets\include\wx\unix\sound.h
+	"wx/defs.h"
+	"wx/object.h"
 
