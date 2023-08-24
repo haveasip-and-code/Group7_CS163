@@ -25,7 +25,7 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
     CreateScaledBg();
 
     wxBoxSizer *screen = new wxBoxSizer(wxHORIZONTAL);
-    
+
     wxBoxSizer *columnWithItems = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer *username_strip = new wxBoxSizer(wxHORIZONTAL);
     m_usernameEntry = new wxTextCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(250, 22), wxTE_PROCESS_ENTER);
@@ -33,7 +33,7 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
     m_usernameEntry->SetFont(myAppFont);
     username_strip->AddStretchSpacer(1);
     username_strip->Add(m_usernameEntry, 0, wxEXPAND | wxRIGHT, 130);
-    
+
     wxBoxSizer *password_strip = new wxBoxSizer(wxHORIZONTAL);
     m_passwordEntry = new wxTextCtrl(panel, wxID_ANY, wxString(""), wxDefaultPosition, wxSize(250, 22), wxTE_PASSWORD|wxTE_PROCESS_ENTER);
     m_passwordEntry->SetHint("Password");
@@ -55,7 +55,7 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
     m_buttonLogin->SetFont(myAppFont);
     m_buttonLogin->SetMinSize(wxSize(-1, 25));
     buttonStrip->Add(m_buttonLogin, 0, wxRIGHT, 130);
-    
+
     // Add "Forget your password?" link
     wxFont hyperlinkFont(9, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_MEDIUM, true, "Montserrat Medium");
 
@@ -79,7 +79,7 @@ wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
     screen->Add(columnWithItems, 1, wxEXPAND);
     panel->SetSizer(screen);
     // // Center();
-    
+
     panel->Bind(wxEVT_PAINT, &FormLogin::OnImagePanelPaint, this);
     forgetPasswordLabel->Bind(wxEVT_LEFT_DOWN, &FormLogin::OnForgetPassword, this);
     m_buttonLogin->Bind(wxEVT_BUTTON, &FormLogin::OnLogin, this);
@@ -95,26 +95,26 @@ void FormLogin::OnSignUp(wxCommandEvent& event)
     wxBoxSizer* signUp_box = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* username_box = new wxBoxSizer(wxHORIZONTAL);
     wxBoxSizer* password_box = new wxBoxSizer(wxHORIZONTAL);
-    
+
     new_username = new wxStaticText(&signUpdlg, wxID_ANY, "Username:", wxDefaultPosition, wxSize(70, -1));
     username_box->Add(new_username, 0, wxRIGHT,5);
-    
+
     m_newUsernameEntry = new wxTextCtrl(&signUpdlg, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(300, -1));
     username_box->Add(m_newUsernameEntry, 1);
-    
+
     new_password = new wxStaticText(&signUpdlg, wxID_ANY, "Password:", wxDefaultPosition, wxSize(70, -1));
     password_box->Add(new_password, 0, wxTOP|wxRIGHT, 5);
     m_newPasswordEntry = new wxTextCtrl(&signUpdlg, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(300, -1));
     password_box->Add(m_newPasswordEntry, wxTOP, 5);
-    
+
     signUp_box->Add(username_box, 0,  wxEXPAND|wxLEFT|wxRIGHT, 10);
     signUp_box->Add(password_box, 0, wxEXPAND|wxLEFT|wxRIGHT, 10);
-    
+
     wxButton* createAcc = new wxButton(&signUpdlg, wxID_OK, "Create A New Account");
     signUp_box->Add(createAcc, 0, wxALIGN_CENTER | wxALL, 10);
     //createAcc->Bind(wxEVT_BUTTON, &FormLogin::OnCreateAccount);
 
-    
+
     signUpdlg.SetSizerAndFit(signUp_box);
     int result = signUpdlg.ShowModal();
     if (result == wxID_OK)
@@ -124,7 +124,7 @@ void FormLogin::OnSignUp(wxCommandEvent& event)
         password = m_newPasswordEntry->GetValue();
         if (!username.empty() && !password.empty()) {
             // Create account function here
-            
+
             // Show the retrieved password in a message box
             wxMessageBox("", "Account created!", wxOK | wxICON_INFORMATION, this);
         }
@@ -163,10 +163,10 @@ void FormLogin::OnForgetPassword(wxMouseEvent& event)
     // Add a button for retrieving the password
     wxButton* getPasswordButton = new wxButton(&retrievedlg, wxID_OK, "Get Password");
     vbox->Add(getPasswordButton, 0, wxALIGN_CENTER | wxALL, 10);
-    
+
     retrievedlg.SetSizerAndFit(vbox);
     int result = retrievedlg.ShowModal();
-    
+
         // Show the dialog and wait for user input
         if (result == wxID_OK)
         {
@@ -174,7 +174,7 @@ void FormLogin::OnForgetPassword(wxMouseEvent& event)
             if (!retrieveUser.empty()) {
             // Custom function to check and retrieve the password based on the username
             retrievedPass = FormLogin::GetPasswordFromUsername(username);
-            
+
             // Show the retrieved password in a message box
             wxMessageBox("Your password is: " + retrievedPass, "Password Retrieval", wxOK | wxICON_INFORMATION, this);
         }
@@ -203,22 +203,22 @@ void FormLogin::OnQuit(wxCommandEvent& event)
 {
     Close(true);
 }
- 
+
 void FormLogin::OnLogin(wxCommandEvent& event)
 {
     wxString username = m_usernameEntry->GetValue();
     wxString password = m_passwordEntry->GetValue();
- 
+
     if (username.empty() || password.empty()) {
         wxMessageBox(wxT("Username or password must not empty"), wxT("Warning!"), wxICON_WARNING);
     }
-    
+
     else {
         bool isLoggedIn = true;
         if (isLoggedIn)
         {
             this->Close();
-            
+
             MyFrame* dictionary = new MyFrame();
             int width, height;
             dictionary->GetSize(& width, & height);
@@ -231,7 +231,7 @@ void FormLogin::OnLogin(wxCommandEvent& event)
 }
 
 FormLogin::~FormLogin() {}
- 
+
 BEGIN_EVENT_TABLE(FormLogin, wxFrame)
 EVT_BUTTON(wxID_EXIT, FormLogin::OnQuit)
 EVT_BUTTON(BUTTON_Login, FormLogin::OnLogin)

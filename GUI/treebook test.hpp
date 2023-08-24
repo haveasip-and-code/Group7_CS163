@@ -131,7 +131,7 @@ public:
 
 
 
-    void OnAuiNotebook(wxAuiNotebookEvent& event) { OnBookCtrl(event); }
+    void OnNotebook(wxNotebookEvent& event) { OnBookCtrl(event); }
     // void writeToLogPanel(const wxString& message);
 
 
@@ -144,14 +144,15 @@ private:
     void AddFlagStrIfFlagPresent(wxString & flagStr, long flags, long flag, const wxString& flagName) const;
 
     // Sample setup
+    /*
     enum BookType
     {
-        Type_AuiNotebook,
+        Type_Notebook,
         Type_Max
     } m_type;
 
     // Controls
-
+    */
     wxSound m_tabChangeSound;
     wxPanel *m_panel; // Panel containing notebook and other controls
     wxBookCtrlBase *m_bookCtrl;
@@ -174,7 +175,7 @@ private:
 enum ID_COMMANDS
 {
     // these should be in the same order as Type_XXX elements above
-    ID_BOOK_AUINOTEBOOK,
+    ID_BOOK_NOTEBOOK,
     ID_BOOK_MAX,
 };
 
