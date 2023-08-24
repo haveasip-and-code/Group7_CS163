@@ -76,8 +76,10 @@ vector<string> inputRegex;
 MyPanel* subpanel;
 
 void pSound(const std::string filename) {
-    //if (bitCHSound.Play(wxSOUND_ASYNC)) cout<<"Sound should play right?\n";
+    wxSound bitCHSound(filename);
+    if (bitCHSound.Play(wxSOUND_ASYNC)) cout<<"Sound should play right?\n";
     //sndPlaySound(bitCHSound, SND_FILENAME | SND_ASYNC);
+    /*
     int size = MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, NULL, 0);
     wchar_t* wFileName = new wchar_t[size];
     MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, wFileName, size);
@@ -85,6 +87,7 @@ void pSound(const std::string filename) {
     sndPlaySound(wFileName, SND_FILENAME | SND_ASYNC);
 
     delete[] wFileName;
+    */
 }
 
 void updateFavourite(pair<string,string> tmp) {
@@ -532,7 +535,7 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
     return panel;
 }
 
-void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
+void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
     for (int i=0;i<favouriteList.size();i++) {
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
@@ -565,6 +568,7 @@ void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wx
         int pos=*static_cast<int*>(removeFromFav->GetClientData());
         removeFavourite(pos);
         sizer2->Clear();
+        mainPar->Layout();
         //constructSc(panel,sizer2,myAppFont2,target);
         //panel->Layout();
     });
@@ -677,7 +681,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     // ------------------------------------------------------------------ create one word item
     wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
-    constructSc(lowpanel,sizer2,myAppFont2,infoText);
+    constructSc(panel,lowpanel,sizer2,myAppFont2,infoText);
     /*
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));

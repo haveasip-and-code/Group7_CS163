@@ -224,6 +224,7 @@ void FormLogin::OnLogin(wxCommandEvent& event)
             dictionary->GetSize(& width, & height);
             dictionary->SetSize(wxDefaultCoord, wxDefaultCoord, width, height);
             dictionary->Show(true);
+
         }
         else
             wxMessageBox("Login failed. Please try again.", "Login Error", wxOK | wxICON_ERROR, this);
