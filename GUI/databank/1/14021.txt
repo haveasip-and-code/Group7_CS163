@@ -1,4 +1,63 @@
-defenestration	
-@defenestration
-* danh từ
-- việc vứt người, đồ vật ra cửa sổ
+stub
+	
+*  danh từ
+- gốc (cây)
+- chân (răng)
+- mẩu (bút chì, thuốc lá, đuôi chó)
+- (từ Mỹ,nghĩa Mỹ) cuống (séc, hoá đơn...)
+- cái nhú ra, vật nhú ra
+=a mere stub of a horn
++ sừng mới nhu ra được một tí
+- (như) stub_nail
+*  ngoại động từ
+- đánh gốc, đánh hết gốc (ở một khoảnh đất)
+- giụi tắt (mẩu thuốc lá) ((cũng) stub out)
+- vấp (ngón chân)
+=to stub one's toe against something
++ vấp ngón chân vào vật gì
+@Chuyên ngành kinh tế
+-chân (răng)
+-cuống (chi phiếu, hóa đơn)
+-cuống (séc, hóa đơn)
+-gốc (cây)
+-mẫu thuốc lá
+@Chuyên ngành kỹ thuật
+-chốt
+-cột ngắn
+-cuống
+-đoạn chìa
+-dọn sạch
+-hình chóp cụt
+-khớp nối
+-ngạch
+-nhổ rễ
+-mạch nhánh
+-mạch rẽ
+-mấu
+-ống nối
+-phần lồi
+-phần nhô ra
+-phát quang
+-vòng
+@Lĩnh vực: cơ khí & công trình
+-chân (kết cấu)
+-chi tiết ngắn (so với tiêu chuẩn)
+-núm nhô lên
+-ống ngắn
+-trục ngắn
+@Lĩnh vực: xây dựng
+-cột nhắn
+-gốc cây đẵn
+-nhánh rẽ mạch
+-mấu phôi
+-xới đất
+@Lĩnh vực: điện
+-gốc cột (đoạn cột chìm)
+@Lĩnh vực: toán & tin
+-hình cụt
+-nhánh cụt
+@Lĩnh vực: điện lạnh
+-nền cách điện (ống dẫn sóng)
+@Lĩnh vực: điện tử & viễn thông
+-nhánh cụt (anten)
+

@@ -1,6 +1,6 @@
-pruritus	@pruritus
-* danh từ
-- (y học) bệnh ngứa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ngứa
+millicurie
+	
+@Lĩnh vực: điện lạnh
+-mCi
+-milicuri
+

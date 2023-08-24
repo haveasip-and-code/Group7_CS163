@@ -1,16 +1,10 @@
-pea	@pea /pi:/
-*  danh từ
-- (thực vật học) đậu Hà-lan; đậu
-=green peas+ đậu Hà-lan còn non
-=split peas+ đậu hạt (đã bỏ vỏ quả đi)
-!as like as two peas
-- (xem) like
-@Chuyên ngành kinh tế
--đậu hạt
+deflective
+	
+*  tính từ
+- lệch
+- uốn xuống, võng
 @Chuyên ngành kỹ thuật
--cao điểm
--đỉnh núi
-@Lĩnh vực: xây dựng
--đỉnh cao nhất
-@Lĩnh vực: hóa học & vật liệu
--than hạt đậu
+-lệch
+@Lĩnh vực: toán & tin
+-võng
+

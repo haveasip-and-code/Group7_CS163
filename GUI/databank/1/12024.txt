@@ -1,32 +1,10 @@
-correlation	
-@correlation
-- đs, (thống kê) sự tương quan; (hình học) phép đối xạ
-- c. in space phép đối xạ trong không gian
-- c. of indices tương quan của các chỉ số
-- antithetic(al) c. tương quan âm
-- biserial c. tương quan hai chuỗi
-- canonical c. tương quan chính tắc
-- circular c. tương quan vòng
-- direct c. tương quan dương
-- grade c. tương quan hạng
-- illusory c. tương quan ảo tưởng
-- intraclass c. tương quan trong lớp
-- inverse c. tương quan âm
-- involitory c. (hình học) phép đối xạ đối hợp
-- lag c. tương quan trễ
-- linear c. tương quan tuyến tính
-- multiple curvilinear c. tương quan bội phi tuyến tính
-- multiple noraml c. tương quan bội chuẩn tắc
-- nonlinear c. tương quan không tuyến tính
-- nonsense c. tương quan [không thật, giả tạo]
-- non
--singular c. (hình học) phép đối xạ không kỳ dị
-- partical c. tương quan riêng
-- perfect c. tương quan hoàn toàn
-- product moment c. tương quan mômen tích
-- rank c. tương quan hạng
-- singular c. (hình học) phép đối xạ kỳ dị
-- spurious c. tương quan [không thật, giả tạo]
-- total c. tương quan toàn phần
-- true c. tương quan thật
-- vector c. tương quan vectơ
+dockyard
+	
+*  danh từ
+- xưởng sửa chữa và đóng tàu (chủ yếu của hải quân)
+@Chuyên ngành kinh tế
+-ụ tàu của hải quân
+-xưởng (đóng và sửa chữa) tàu
+@Chuyên ngành kỹ thuật
+-xưởng đóng tàu
+

@@ -1,10 +1,29 @@
-goffer	
-@goffer /'goufə/ (gofer) /'goufə/ (gauffer) /'goufə/
+exhaustion
+	
 *  danh từ
-- cái kẹp (để làm) quăn
-- nếp gấp
-*  ngoại động từ
-- làm nhăn, làm quăn, xếp nếp
+- (kỹ thuật) sự hút, sự hút hết; sự làm chân không, sự rút khí
+- sự làm kiệt; sự dốc hết, sự dùng hết
+- tình trạng mệt lử, tình trạng kiệt sức
+- tình trạng kiệt quệ, tình trạng bạc màu
+- (toán học) phép vét kiệt; phép khử liên tiếp
+- sự bàn hết khía cạnh, sự nghiên cứu hết mọi mặt (một vấn đề)
+@Chuyên ngành kinh tế
+-sự hút khí
+-sự làm thoát khí
 @Chuyên ngành kỹ thuật
+-hút ra
+-sự rút khí
+-xả khí
 @Lĩnh vực: hóa học & vật liệu
--in hoa nổi
+-sự hút khí
+@Lĩnh vực: toán & tin
+-sự vét kiệt
+@Chuyên ngành kỹ thuật
+-hút ra
+-sự rút khí
+-xả khí
+@Lĩnh vực: hóa học & vật liệu
+-sự hút khí
+@Lĩnh vực: toán & tin
+-sự vét kiệt
+

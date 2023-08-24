@@ -1,13 +1,13 @@
-auction	
-@auction /'ɔ:kʃn/
+kiosk
+	
 *  danh từ
-- sự bán đấu giá=to put up to (Mỹ: at) auction; to sell by (Mỹ: at) auction
-+ bán đấu giá
+- quán (bán sách, giải khát...)
+- buồng điện thoại công cộng
 @Chuyên ngành kinh tế
--bán đấu giá
--đấu giá
--sự bán đấu giá
-@Chuyên ngành kỹ thuật
--bán đấu giá
-@Lĩnh vực: xây dựng
--sự đấu giá
+-buồng
+-ki
+-ốt
+-phòng điện thoại công cộng
+-quán
+-quán (bán sách báo...)
+

@@ -1,5 +1,12 @@
-biosensor	
-@biosensor
-- (Tech) đầu cảm thụ sinh vật
+teem
+	
+*  nội động từ
+- có nhiều, có dồi dào, đầy
+=fish teemed in this river
++ sông này lắm cá
+!to teem with
+- đầy, có nhiều, có thừa thãi, nhung nhúc
 @Chuyên ngành kỹ thuật
--bộ cảm biến sinh học
+-đổ khuôn
+-rót vào khuôn
+

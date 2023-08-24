@@ -1,20 +1,4 @@
-island	
-@island /'ailənd/
-*  danh từ
-- hòn đảo
-- (nghĩa bóng) cái đứng tách riêng, cái đứng tách biệt; miền đồng rừng giữa thảo nguyên; chỗ đứng tránh (cho người đi bộ ở ngã ba đường)
-- (giải phẫu) đảo
-*  ngoại động từ
-- biến thành hòn đảo
-- làm thành những hòn đảo ở=a plain islanded with green bamboo grove
-+ một đồng bằng trên có những hòn đảo tre xanh
-- đưa ra một hòn đảo; cô lập (như ở trên một hòn đảo)
-@Chuyên ngành kỹ thuật
--đảo
-@Lĩnh vực: xây dựng
--biến thành đảo
--đảo (giao thông)
--hải đảo
--hòn đảo
-@Lĩnh vực: giao thông & vận tải
--đảo (địa lý)
+newshawk
+	
+- Cách viết khác : newshaker
+

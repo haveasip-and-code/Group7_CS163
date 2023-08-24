@@ -1,15 +1,18 @@
-authorize	
-@authorize /'ɔ:θəraiz/ (authorise) /'ɔ:θəraiz/
-*  ngoại động từ
-- cho quyền, uỷ quyền, cho phép=to authorize someone ro do something
-+ cho quyền ai được làm việc gì
-- là căn cứ, là cái cớ chính đáng=his conduct did authorize your suspicion
-+ tư cách của hắn thật là đúng là cái cớ để cho anh nghi ngờ
+inadequacy
+	
+*  danh từ ((cũng) inadequateness)
+- sự không tương xứng, sự không xứng, sự không thích đáng, sự không thoả đáng
+- sự không đủ, sự không đầy đủ, sự thiếu
 @Chuyên ngành kinh tế
--cho phép
--phê chuẩn
--ủy quyền
+-không thích hợp
+-sự không đẩy đủ
+-sự không đủ
+-sự thiếu
 @Chuyên ngành kỹ thuật
--cho phép
--cho quyền
--ủy quyền
+-thiểu năng
+@Lĩnh vực: y học
+-sự không đủ khả năng
+@Lĩnh vực: điện lạnh
+-sự không phù hợp
+-sự không thích hợp
+

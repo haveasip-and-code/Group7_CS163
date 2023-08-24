@@ -1,10 +1,9 @@
-electromyography	
-@electromyography
-* danh từ
-- cách ghi điện đồ cơ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phép ghi cơ điện
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phép ghi cơ điện
+slope
+	
+- độ dốc, độ nghiêng
+- s. of a curve at a point độ dốc của một đường cong tại một điểm
+- s. of a straight line [hệ số góc, độ dốc] của đường thẳng
+- asymptotic s. độ nghiêng tiệm cận
+- equilibrium s. độ dốc cân bằng
+- natural s. độ dốc tự nhiên
+

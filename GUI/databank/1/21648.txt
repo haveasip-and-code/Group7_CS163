@@ -1,10 +1,41 @@
-fluviatile	
-@fluviatile /fluviatile/
-*  tính từ
-- (thuộc) sông
-- thấy ở sông
-- do sông tạo ra
+cord
+	
+*  danh từ
+- dây thừng nhỏ
+- (giải phẫu) dây
+=vocal cords
++ dây thanh âm
+=spinal cord
++ dây sống
+- đường sọc nối (ở vải)
+- nhung kẻ
+- (số nhiều) quần nhung kẻ
+- (nghĩa bóng) mối ràng buộc, mối thắt buộc
+=the cords of discipline
++ những cái thắt buộc của kỷ luật
+- coóc (đơn vị đo củi bằng 3, 63 m3)
+*  ngoại động từ
+- buộc bằng dây thừng nhỏ
 @Chuyên ngành kỹ thuật
--sông
-@Lĩnh vực: giao thông & vận tải
--ở sông
+-dây
+-dây (điện) mềm
+-dây mềm
+-dây thừng
+-ống dẫn (mềm)
+-sợi dây
+-sợi xe
+@Lĩnh vực: xây dựng
+-buộc bằng thừng
+@Lĩnh vực: điện lạnh
+-cáp (mềm)
+-dây (mềm)
+@Lĩnh vực: điện
+-dây xúp
+@Lĩnh vực: dệt may
+-đường sọc nổi
+-nhung kẻ
+@Lĩnh vực: ô tô
+-lõi vỏ xe
+@Lĩnh vực: y học
+-thừng, dây
+

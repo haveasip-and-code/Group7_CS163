@@ -1,4 +1,8 @@
-sediments	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--các chất cặn
--các chất trầm tích
+abase
+	
+*  ngoại động từ
+- làm hạ phẩm giá, làm mất thể diện, làm nhục
+=to abase one
+-self
++ tự hạ mình
+

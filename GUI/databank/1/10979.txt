@@ -1,20 +1,6 @@
-conditioning	
-@Chuyên ngành kinh tế
--sự điều hòa nhiệt độ
-@Chuyên ngành kỹ thuật
--biến đổi
--đặt điều kiện
--điều hòa
--sự điều phối
--sự điều tiết
--sự điều tiết, chuẩn hóa
--sự ủ nóng đều
--sự xử lý
-@Lĩnh vực: y học
--điều kiện hóa
-@Lĩnh vực: cơ khí & công trình
--sự điều hòa
-@Lĩnh vực: xây dựng
--sự hong khô gỗ
-@Lĩnh vực: toán & tin
--sự quy định
+reallocation
+	
+-cấp lại
+-cấp lại (vốn kinh phí)
+-sự phân phối lại
+

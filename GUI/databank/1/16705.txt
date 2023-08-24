@@ -1,6 +1,19 @@
-dram	
-@dram /dræm/
-*  danh từ
-- (như) drachm
-- hớp rượu nhỏ; cốc rượu nhỏ=to have a dram
-+ uống một cốc rượu nhỏ
+shifter
+	
+* danh từ
+- bộ chuyển dịch; tay gạt
+@Chuyên ngành kinh tế
+-dụng cụ đổi chỗ
+-thiết bị đổi chỗ
+@Chuyên ngành kỹ thuật
+-bộ dịch chuyển
+@Lĩnh vực: cơ khí & công trình
+-cái gạt (đai truyền)
+-đòn bẩy sang số
+@Lĩnh vực: điện lạnh
+-dụng cụ dịch chuyển
+@Lĩnh vực: hóa học & vật liệu
+-peđan điều khiển
+@Lĩnh vực: ô tô
+-tay gạt số
+

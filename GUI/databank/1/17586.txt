@@ -1,21 +1,22 @@
-elaborate	
-@elaborate /i'læbərit/
-*  tính từ
-- phức tạp=an elaborate machine
--tool
-+ một máy công cụ phức tạp
-- tỉ mỉ, kỹ lưỡng, công phu; trau chuốt, tinh vi=an elaborate investigation
-+ một cuộc điều tra tỉ mỉ=elaborate style
-+ văn trau chuốt=an elaborate work of art
-+ một tác phẩm nghệ thuật tinh vi
+pulverize
+	
 *  ngoại động từ
-- thảo tỉ mỉ, thảo kỹ lưỡng, sửa soạn công phu; làm công phu, trau chuốt (văn); dựng lên=to elaborate a theory
-+ dựng lên một lý thuyết
-- (sinh vật học) chế tạo ra, sản ra
+- tán thành bột, giã nhỏ như cám; phun bụi nước
+- (nghĩa bóng) đạp vụn tan thành, phá huỷ hoàn toàn
 *  nội động từ
-- nói thêm, cho thêm chi tiết=to on a problem
-+ nói thêm về một vấn đề, cho thêm chi tiết về một vấn đề
-- trở thành tỉ mỉ; trở thành tinh vi
+- bị đạp vụn tan tành, nát vụn như cám; thành bụi
+@Chuyên ngành kinh tế
+-nghiền mịn
+-phun bụi
+-tán nhỏ thành bột mịn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--chi tiết hóa
+-nghiền
+-nghiền mịn
+-nghiền thành bột
+-nghiền vụn
+-nghiền, tán, phun
+-phun
+-tán
+@Lĩnh vực: hóa học & vật liệu
+-phun thành bụi (nước)
+

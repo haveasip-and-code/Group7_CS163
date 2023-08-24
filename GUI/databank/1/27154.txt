@@ -1,11 +1,20 @@
-imbedding	
-@imbedding
-- phép nhúng, sự nhúng
-- full i. nhúng đầy đủ
-- invariant i. (tô pô) nhúng bất biến; (xác suất); (vật lí) sự đặt bất biến
-@Chuyên ngành kỹ thuật
--sự nhúng
-@Lĩnh vực: hóa học & vật liệu
--nhúng váo
-@Lĩnh vực: toán & tin
--phép nhúng
+vogue
+	
+*  danh từ
+- mốt, thời trang; cái đang được chuộng, cái đang thịnh hành
+=it is now the vogue
++ cái đó hiện nay là cái mốt, cái đó đang thịnh hành
+=all the vogue
++ thật là đúng mốt; đang được mọi người chuộng
+=to be in vogue
++ đang thịnh hành, đang được chuộng
+=to be out of vogue
++ không còn thịnh hành
+=to come into vogue
++ thành cái mốt
+=to have a great vogue
++ thịnh hành khắp nơi, được người ta rất chuộng
+@Chuyên ngành kinh tế
+-mốt
+-thời trang
+

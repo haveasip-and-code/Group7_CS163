@@ -1,11 +1,4 @@
-numismatist	@numismatist /nju:'mizmətist/
-*  danh từ
-- người nghiên cứu tiền đúc
-- người sưu tầm các loại tiền
-@Chuyên ngành kinh tế
--cổ tiền học
--khoa nghiên cứu tiền đúc
--người nghiên cứu tiền đúc
--nhà cổ tiền học
--nhà tiền tệ học
--tiền tệ học
+confliction
+	
+- xem conflict
+

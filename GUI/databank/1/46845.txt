@@ -1,11 +1,9 @@
-repeller	@repeller
+redesigning
+	
 * danh từ
-- người xua đuổi/đuổi ra/cự tuyệt
-- chất xua đuổi
+- sự thiết kế lại, sự tính toán lại
 @Chuyên ngành kỹ thuật
--bộ đảo hướng (chùm electron ở đèn điện tử)
--bộ đẩy ngược
-@Lĩnh vực: điện
--bộ phản xạ
-@Lĩnh vực: toán & tin
--phiến dội
+-sự tính toán lại
+@Lĩnh vực: cơ khí & công trình
+-sự thiết kế lại
+

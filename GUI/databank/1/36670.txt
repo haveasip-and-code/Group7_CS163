@@ -1,5 +1,8 @@
-neutralizer	@Chuyên ngành kinh tế
--thiết bị trung hòa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất trung hòa
+acidulated
+	
+*  tính từ
+- hơi chua
+- có pha axit
+@Chuyên ngành kinh tế
+-hơi chua
+

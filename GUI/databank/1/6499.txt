@@ -1,6 +1,47 @@
-bowhead	
-@bowhead
-* danh từ
-- cá voi
+ship
+	
+*  danh từ
+- tàu thuỷ, tàu
+=to take ship
++ xuống tàu
+- (từ Mỹ,nghĩa Mỹ) máy bay, phi cơ
+- (từ lóng) thuyền (đua)
+!the ship of the desert
+- con lạc đà
+!when my ship comes home
+- khi nào tôi đã công thành danh toại, khi nào tôi làm ăn phát đạt
+*  ngoại động từ
+- xếp (hàng) xuống tàu, cho (hành khách, thuỷ thủ) xuống tàu
+- gửi bằng tàu thuỷ, chở bằng tàu thuỷ
+- (từ Mỹ,nghĩa Mỹ) gửi bằng xe lửa, chở bằng xe lửa; gửi bằng máy bay, chở bằng máy bay
+- thuê (người) làm trên tàu thuỷ
+- gắn vào tàu, lắp vào thuyền
+=to ship the oar
++ lắp mái chèo vào thuyền
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đuổi đi, tống khứ
+*  nội động từ
+- đi tàu, xuống tàu
+- làm việc trên tàu (thuỷ thủ)
+!to ship a sea
+- (xem) sea
 @Chuyên ngành kinh tế
--cá voi
+-chất xếp hàng xuống tàu
+-chở (hàng) bằng tàu thủy, đường thủy
+-gởi (hàng) bằng tàu thủy
+-tàu
+-tàu biển
+-tàu thủy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-chở bằng tàu
+-cho khách xuống tàu
+-chuyên chở bằng tàu
+-đi tàu thủy (hành khách)
+-xếp hàng xuống tàu
+@Lĩnh vực: xây dựng
+-đi tàu
+-gửi (hàng) bằng tàu thủy
+-xếp xuống tàu
+@Lĩnh vực: điện lạnh
+-tàu (thủy)
+

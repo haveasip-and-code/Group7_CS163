@@ -1,10 +1,5 @@
-interruptible	
-@interruptible /,intə'rʌptəbl/
-*  tính từ
-- có thể làm gián đoạn được
-- có thể làm ngắt lời được
-- (điện học) có thể ngắt
-@Chuyên ngành kỹ thuật
--ngắt được
-@Lĩnh vực: toán & tin
--có thể ngắt được
+unlimitedly
+	
+- trạng từ
+- xem unlimited
+

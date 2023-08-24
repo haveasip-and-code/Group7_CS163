@@ -1,11 +1,31 @@
-medulla	@medulla /me'dʌlə/
+glare
+	
 *  danh từ
-- (giải phẫu) tuỷ xương; tuỷ sống; hành tuỷ
-- (thực vật học) ruột
-@Chuyên ngành kinh tế
--nhân
--tủy sống
--tủy xương
+- ánh sáng, ánh chói
+- vẻ hào nhoáng loè loẹt
+- cái nhìn trừng trừng; cái nhìn giận dữ
+*  nội động từ
+- chiếu sáng, chói loà (mặt trời...)
+- nhìn trừng trừng; nhìn giận dữ
+=to glare at someone
++ nhìn ai trừng trừng; nhìn ai giận dữ
+*  ngoại động từ
+- tỏ vẻ (giận dữ...) bằng cái nhìn trừng trừng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tủy
+-ánh sáng chói
+-độ chói
+-làm chói mắt
+-nhiễu glare
+-sáng chói
+@Lĩnh vực: vật lý
+-ánh chói
+-độ lóa
+-tia lóa
+@Lĩnh vực: xây dựng
+-độ lóa sáng
+-độ quáng
+@Lĩnh vực: điện lạnh
+-nhiễu âm chói
+@Lĩnh vực: hóa học & vật liệu
+-mặt láng bóng
+

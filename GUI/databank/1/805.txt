@@ -1,17 +1,8 @@
-administrator	
-@administrator /ədministreitə/
-*  danh từ
-- người quản lý
-- người cầm quyền hành chính, người cầm quyền cai trị
-- (pháp lý) người quản lý tài sản (cho vị thành niên hoặc người đã chết)
-@Chuyên ngành kinh tế
--giám đốc
--nhân viên chủ quản
--quản trị viên
+guanine
+	
+* danh từ
+- (hoá học) guanin
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--người quản trị
--nhân viên quản lý
--quản trị viên
-@Lĩnh vực: xây dựng
--nhà quản lý
+@Lĩnh vực: y học
+-một trong các base có chứa nitơ trong các nucleic axit DNA và RNA
+

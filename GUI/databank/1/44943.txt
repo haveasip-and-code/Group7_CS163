@@ -1,6 +1,9 @@
-pyroclastic	@pyroclastic
-* tính từ
-- do nham tầng núi lửa tạo thành
+isochronous
+	
+*  tính từ
+- chiếm thời gian bằng nhau, đẳng thời
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--đá vụn núi lửa
+-đẳng thời
+@Lĩnh vực: toán & tin
+-có tính đẳng thời
+

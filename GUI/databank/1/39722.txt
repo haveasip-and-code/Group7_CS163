@@ -1,3 +1,26 @@
-paresthesia	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chứng dị cam
+leaching
+	
+-ngâm chiết
+-nước ngâm rỉ
+-sự chiết
+-sự khử
+-sự ngâm chiết
+-sự ngâm rỉ
+-sự rửa lũa
+@Lĩnh vực: hóa học & vật liệu
+-lọc nước
+@Lĩnh vực: xây dựng
+-sự khử kiềm
+@Chuyên ngành kỹ thuật
+-ngâm chiết
+-nước ngâm rỉ
+-sự chiết
+-sự khử
+-sự ngâm chiết
+-sự ngâm rỉ
+-sự rửa lũa
+@Lĩnh vực: hóa học & vật liệu
+-lọc nước
+@Lĩnh vực: xây dựng
+-sự khử kiềm
+

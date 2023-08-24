@@ -1,23 +1,7 @@
-fission	
-@fission /'fiʃn/
-*  danh từ
-- (sinh vật học) sự sinh sản phân đôi
-- (vật lý) sự phân hạt nhân
-@Chuyên ngành kỹ thuật
--phân hạch
--sự chia
--sự phân hạch
--sự tách
-@Lĩnh vực: y học
--phân cắt
-@Lĩnh vực: hóa học & vật liệu
--tách đôi
-@Chuyên ngành kỹ thuật
--phân hạch
--sự chia
--sự phân hạch
--sự tách
-@Lĩnh vực: y học
--phân cắt
-@Lĩnh vực: hóa học & vật liệu
--tách đôi
+inapposite
+	
+*  tính từ
+- không thích hợp, không thích đáng, không đúng lúc, lạc lõng
+=an inapposite remark
++ một lời nhận xét lạc lõng
+

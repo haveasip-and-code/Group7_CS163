@@ -1,28 +1,5 @@
-solder	@solder /'soldə/
-*  danh từ
-- hợp kim (để) hàn, chất hàn
-=hard solder+ chất hàn cứng
-=soft solder+ chất hàn mềm
-- sự hàn
-- (nghĩa bóng) người hàn gắn, vật hàn gắn
-*  ngoại động từ
-- hàn
-- (nghĩa bóng) hàn gắn
-*  nội động từ
-- hàn lại
-@Chuyên ngành kỹ thuật
--hàn
--hàn thiếc
--hàn vảy
--hợp kim để hàn
--mối hàn vảy
--sự gắn
--sự hàn
-@Lĩnh vực: ô tô
--hợp kim hàn
-@Lĩnh vực: xây dựng
--thợ hàn vảy
-@Lĩnh vực: cơ khí & công trình
--thuốc hàn mềm
--thuốc hàn vẩy
--vảy hàn
+oncologist
+	
+* danh từ
+- bác sĩ chuyên khoa ung thư
+

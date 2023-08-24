@@ -1,6 +1,18 @@
-prophase	@prophase /prophase/
+infinitesimal
+	
+*  tính từ
+- rất nhỏ, nhỏ vô cùng
+- (toán học) vi phân
+=infinitesimal geometry
++ hình học vi phân
+=infinitesimal transformation
++ biến đổi vi phân
 *  danh từ
-- (sinh vật học) pha trước (phân bào)
+- số lượng rất nhỏ, số lượng nhỏ vô cùng
+- (toán học) vi phân
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tiền kỳ phân bào
+-vi phân
+-vô cùng bé
+@Lĩnh vực: xây dựng
+-cực nhỏ
+

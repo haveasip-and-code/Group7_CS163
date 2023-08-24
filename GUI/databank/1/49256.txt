@@ -1,18 +1,5 @@
-screed	@screed /skri:d/
-*  danh từ
-- bài diễn văn kể lể; bức thư kể lể
-- đường vạch lên tường (làm chuẩn để trát vữa)
-@Chuyên ngành kỹ thuật
--sự san bằng
--thanh cán
--thanh căng
--thanh giằng
--thanh kéo
-@Lĩnh vực: xây dựng
--miết phẳng
--sự gạt
--sự thanh kéo
--tà phẳng
--thanh san bằng (của máy san bê tông)
--thanh xoa phẳng (bề mặt bê tông)
--thước xoa phẳng (bề mặt bê tông)
+frequentness
+	
+* danh từ
+- sự thường xảy ra
+

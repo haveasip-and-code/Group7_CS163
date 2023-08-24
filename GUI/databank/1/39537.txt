@@ -1,7 +1,7 @@
-parabiosis	@parabiosis
-* danh từ
-- (sinh vật học) đời sống ghép
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự dẫn truyền (dây thần kinh)
--sự hợp đồng lưỡng sinh
+deploy
+	
+*  danh từ
+- (quân sự) sự dàn quân, sự dàn trận, sự triển khai
+*  động từ
+- (quân sự) dàn quân, dàn trận, triển khai
+

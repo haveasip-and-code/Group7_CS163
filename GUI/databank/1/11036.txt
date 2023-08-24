@@ -1,3 +1,23 @@
-conferral	
-@conferral
-- xem confer
+priority
+	
+*  danh từ
+- quyền được trước, sự ưu tiên; điều được xét trước hết
+=priority is given to developing heavy industry
++ ưu tiên phát triển công nghiệp nặng
+=a first (top) priority
++ điều được xét trước mọi điều khác
+@Chuyên ngành kinh tế
+-địa vị ưu tiên
+-quyền ưu tiên
+@Chuyên ngành kỹ thuật
+-quyền ưu tiên
+-ưu điểm
+-ưu tiên
+@Lĩnh vực: toán & tin
+-độ ưu tiên
+-sự ưu tiên
+@Lĩnh vực: giao thông & vận tải
+-quyền đi trước
+@Lĩnh vực: xây dựng
+-trọng điểm
+

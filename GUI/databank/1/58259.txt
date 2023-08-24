@@ -1,11 +1,19 @@
-turtle	@turtle /'tə:tl/
-*  danh từ
-- (như) turtle-dove
-- (động vật học) rùa ((thường) chỉ rùa biển)
-- thịt rùa
-!to turn turtle
-- (hàng hải),  (từ lóng) lập úp (tàu, thuyền)
-*  nội động từ
-- câu rùa, bắt rùa
+glacial
+	
+*  tính từ
+- (thuộc) nước đá; (thuộc) thời kỳ sông băng
+=the glacial period
++ thời kỳ sông băng
+- băng giá, lạnh buốt
+- lạnh lùng, ảm đạm
+=a glacial smile
++ nụ cười lạnh lùng
+- (hoá học) băng
+=glacial acetic acid
++ axit axêtic băng
 @Chuyên ngành kỹ thuật
--rùa
+-băng
+-băng giá
+-băng hà
+-sông băng
+

@@ -1,5 +1,1 @@
-@demesne /di'mein/
-*  danh từ
-- ruộng đất (của địa chủ)
-- (pháp lý) sự chiếm hữu=the demesne of land
-+ sự chiếm hữu ruộng đất=land held in demesne
+helper

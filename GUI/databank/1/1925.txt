@@ -1,8 +1,6 @@
-amorphousness	
-@amorphousness /ə'mɔ:fəsnis/
-*  danh từ
-- tính không có hình dạng nhất định, tính vô định hình
-- (khoáng chất) tính không kết tinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tính không kết tinh
+intersection
+	
+- (tương) giao
+- i. of events (xác suất) giao của các biến số
+- i. of sets giao của các tập hợp
+

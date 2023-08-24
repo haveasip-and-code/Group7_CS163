@@ -1,15 +1,40 @@
-airport	
-@airport
-* danh từ
-- sân bay, phi trường
-@Chuyên ngành kinh tế
--phi cảng
--phi trường
--sân bay
--trạm hàng không
+desert
+	
+*  danh từ
+- công lao, giá trị
+=a reward equal to desert
++ sự thưởng xứng đáng với công lao
+=to treat someone according to his deserts
++ đãi ngộ ai xứng đáng với công lao
+- sự xứng đáng, sự đáng (khen thưởng, trừng phạt...)
+- những người xứng đáng
+- (số nhiều) những cái đáng được (thưởng, phạt)
+=to get (obtain, meet with) one's deserts
++ được những cái đáng được
+*  danh từ
+- sa mạc
+- nơi hoang vắng, nơi quạnh quẽ, nơi vắng vẻ
+- (nghĩa bóng) vấn đề khô khan vô vị
+*  tính từ
+- hiu quạnh, quạnh quẽ, vắng vẻ, không người ở
+- bỏ hoang, hoang phế
+*  ngoại động từ
+- rời đi, bỏ đi, bỏ trốn, trốn khỏi
+=to desert one's familly
++ bỏ nhà ra đi
+=to desert an army
++ đào ngũ
+- ruồng bỏ, bỏ mặc, bỏ rơi
+=to desert a friend in difficulty
++ bỏ mặc bạn trong lúc khó khăn
+=to desert one's wife
++ ruồng bỏ vợ
+=his delf
+-control deserted him
++ nó không còn tự chủ được nữa
+*  nội động từ
+- đào ngũ
 @Chuyên ngành kỹ thuật
--phi trường
--sân bay
-@Lĩnh vực: xây dựng
--phi cảng
--sân bay lớn
+-hoang mạc
+-sa mạc
+

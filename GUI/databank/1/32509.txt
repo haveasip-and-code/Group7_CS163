@@ -1,67 +1,10 @@
-loading	@loading /'loudiɳ/
-*  danh từ
-- sự chất hàng (lên xe, tàu)
-- hàng chở (trên xe, tàu)
-- sự nạp đạn
-@Chuyên ngành kinh tế
--chở hàng
--phí bảo hiểm ngoại ngạch
--phí vay nợ
--phụ phí
--phụ phí bảo hiểm
--sự chất hàng
--tính thêm phí
--việc bốc hàng
--việc chất (hàng) lên xuống (tàu, xe)
-@Chuyên ngành kỹ thuật
--lô
--loạt
--lượng tải
--phụ tải
--sự chất hàng
--sự chất tải
--sự đặt gánh
--sự đặt tải
--sự gia cảm
--sự nạp
--sự nạp liệu
--sự nạp mìn
--sự tải
--sự tải, sự chất
--sự xếp hàng
--trọng tải
--vật nặng
-@Lĩnh vực: xây dựng
--sự bốc xếp
--sự chất liệu
--xếp tải
-@Lĩnh vực: cơ khí & công trình
--sự nạp tải
-@Lĩnh vực: hóa học & vật liệu
--sự tải khí hơi
-@Chuyên ngành kỹ thuật
--lô
--loạt
--lượng tải
--phụ tải
--sự chất hàng
--sự chất tải
--sự đặt gánh
--sự đặt tải
--sự gia cảm
--sự nạp
--sự nạp liệu
--sự nạp mìn
--sự tải
--sự tải, sự chất
--sự xếp hàng
--trọng tải
--vật nặng
-@Lĩnh vực: xây dựng
--sự bốc xếp
--sự chất liệu
--xếp tải
-@Lĩnh vực: cơ khí & công trình
--sự nạp tải
-@Lĩnh vực: hóa học & vật liệu
--sự tải khí hơi
+coolish
+	
+*  tính từ
+- hơi lạnh, mát
+=it is coolish this morning
++ sáng nay trời mát
+- lãnh đạm, nhạt nhẽo, hờ hững
+=a coolish reception
++ sự tiếp đãi hờ hững
+

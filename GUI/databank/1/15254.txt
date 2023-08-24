@@ -1,8 +1,9 @@
-dictator	
-@dictator /dik'teitə/
-*  danh từ
-- kẻ độc tài; người có quyền hành tuyệt đối (ở một lĩnh vực nào)
-- người đọc cho (người khác) viết, người đọc chính tả
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--độc tài
+resupply
+	
+* ngoại động từ
+- cung cấp lại
+@Chuyên ngành kinh tế
+-cung cấp thêm
+-sự cấp thêm
+-tái cung cấp
+

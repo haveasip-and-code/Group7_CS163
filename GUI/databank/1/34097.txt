@@ -1,5 +1,11 @@
-medallist	@medallist /'medlist/
-*  danh từ
-- người được tặng huy chương
-=gold medallist+ người được tặng huy chương vàng
-- người đúc huy chương
+compute
+	
+*  động từ
+- tính toán, ước tính
+@Chuyên ngành kinh tế
+-tính toán
+-ước tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-trắc định
+

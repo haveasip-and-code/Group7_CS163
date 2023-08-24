@@ -1,32 +1,5 @@
-cowl	
-@cowl /kaul/
-*  danh từ
-- mũ trùm đầu (của thầy tu)
-- cái chụp ống khói
-- capô (che đầu máy)!the cowl does not make the monk
-- mặc áo cà sa không phải là sư cả; đừng trông mặt mà bắt hình dong
-@Chuyên ngành kỹ thuật
--cái chụp
--cái chụp thông gió
--chóp ống khói
--chụp hút gió
--nắp
--nắp bảo vệ quạt
--nắp che
--nắp quạt
--mũ
--vỏ
--vỏ động cơ
-@Lĩnh vực: toán & tin
--bửng che
-@Lĩnh vực: xây dựng
--cacpo che đầu máy
--cái chụp ống khói
--mái chụp
--mũ chùm ống xifong
-@Lĩnh vực: ô tô
--capô (che đầu máy)
-@Lĩnh vực: đo lường & điều khiển
--nắp giếng kiểm tra
-@Lĩnh vực: điện lạnh
--nắp thông gió
+guides
+	
+@Lĩnh vực: vật lý
+-cấu dẫn hướng
+

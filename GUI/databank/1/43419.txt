@@ -1,20 +1,5 @@
-preservation	@preservation /,prevə:'veiʃn/
-*  danh từ
-- sự giữ, sự gìn giữ, sự bảo quản, sự bảo tồn, sự duy trì
-=in an excellent state of preservation; in [a state of] fair preservation+ được bảo quản rất tốt
-- sự giữ để lâu (thức ăn, quả thịt...) (bằng cách đóng hộp, ướp muối, nấu thành mứt...)
-- (hoá học) sự giữ cho khỏi phân hu
-@Chuyên ngành kinh tế
--sự bảo quản
--sự đóng hộp
-@Chuyên ngành kỹ thuật
--bảo quản
--bảo toàn
--bảo trì
--duy trì
--sự bảo quản
--sự bảo toàn
--sự bảo vệ
--sự giữ gìn
-@Lĩnh vực: toán & tin
--sự gìn giữ
+hypotheses
+	
+*  danh từ,  số nhiều hypotheses  /hai'pɔθisi:z/
+- giả thuyết
+

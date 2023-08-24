@@ -1,9 +1,11 @@
-circumscription	
-@circumscription /,sə:kəm'skripʃn/
-*  danh từ
-- (toán học) sự vẽ hình ngoại tiếp
-- sự định giới hạn, sự hạn chế
-- giới hạn
-- khu vực địa hạt (hành chính)
-- hàng chữ khắc trên đường vòng (quanh đồng tiền, con dấu...)
-- định nghĩa
+handset
+	
+* danh từ
+- máy thu phát cầm tay
+@Chuyên ngành kinh tế
+-máy điện thoại cầm tay
+-ống nghe điện thoại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-máy cầm tay
+

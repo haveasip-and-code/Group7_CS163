@@ -1,20 +1,12 @@
-spent	@spent /spent/
-*  thời quá khứ & động tính từ quá khứ của spend
-*  tính từ
-- mệt lử, kiệt sức, hết nghị lực; hết đà (viên đạn, mũi tên...)
-=a spent bullet+ một viên đạn hết đà (rơi xuống)
-- tàn lụi
-@Chuyên ngành kinh tế
--lượng tiêu hao
--sự tận thu (cá)
--sự tiêu hao
--tận thu
--tiêu hao
+permanence
+	
+*  danh từ
+- sự lâu dài, sự lâu bền, sự vĩnh cửu, sự thường xuyên, sự thường trực; sự cố định
+- tính lâu dài, tính lâu bền, tính vĩnh cửu, tính thường xuyên; tính cố định
+- cái lâu bền; cái thường xuyên; cái cố định
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--đã hỏng
--đã sử dụng
 @Lĩnh vực: toán & tin
--được dùng
--được tiêu
--tiêu (dùng)
+-tính không đổi
+-tính thường trực
+-tính thường xuyên
+

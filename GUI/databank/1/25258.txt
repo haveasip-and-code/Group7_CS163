@@ -1,5 +1,7 @@
-hearting	
-@Chuyên ngành kỹ thuật
--đá hộc
-@Lĩnh vực: xây dựng
--tường chèn
+conics
+	
+@Lĩnh vực: toán & tin
+-conic liên hợp
+-đường bậc hai
+-đường cong hình nón
+

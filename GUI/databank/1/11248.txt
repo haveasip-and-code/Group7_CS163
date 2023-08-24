@@ -1,27 +1,16 @@
-connexion	
-@connexion /kə'nekʃn/
+asylum
+	
 *  danh từ
-- sự liên quan, sự liên lạc, mối quan hệ; sự chấp nối=to have a connection with
-+ có quan hệ với
-- sự mạch lạc=there is no connection in his speech
-+ bài nói của anh ta chẳng có mạch lạc gì cả
-- sự giao thiệp, sự kết giao=to form a connection with someone
-+ giao thiệp với ai=to break off a connection
-+ tuyệt đường giao thiệp, tuyệt giao
-- bà con, họ hàng, thân thuộc=he is a connection of mine
-+ anh ta là người bà con của tôi
-- (tôn giáo) phái, giáo phái
-- (thương nghiệp) khách hàng=shop has a good (wide) connection
-+ cửa hàng đông khách
-- tàu xe chạy nối tiếp (tiếp vận với những tàu xe khác)=to miss the connection
-+ nhỡ mất chuyến xe chạy nối tiếp
-- vật (để) nối; chỗ nối (hai ống nối với nhau)!in that connection
-- về điều đó, liên quan đến điều đó!in connection with
-- có quan hệ với, có liên quan với, có dính líu tới
-- chạy nối tiếp với (tàu xe)
+- viện cứu tế
+=orphan asylum
++ viện cứu tế trẻ mồ côi
+=asylum for the aged
++ viện an dưỡng cho người già
+- nhà thương điên, bệnh viện tinh thần kinh ((cũng) clunatic asylum)
+- nơi trú ẩn, nơi ẩn náu; nơi nương náu
+=to offord asylum to someone
++ cho ai nương náu
 @Chuyên ngành kỹ thuật
--sơ đồ
--sự liên hệ
--sự nối
-@Lĩnh vực: toán & tin
--tính liên thông
+-bệnh viện tâm thần
+-bệnh viện thần kinh
+

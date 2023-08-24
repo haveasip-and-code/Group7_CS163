@@ -1,11 +1,5 @@
-godown	
-@godown /'goudaun/
-*  danh từ
-- nhà kho, kho chứa hàng (ở Ân
--ddộ,  Ma
--lai)
-@Chuyên ngành kinh tế
--kho chứa hàng
--kho hàng ở những nước phương Đông
-@Chuyên ngành kỹ thuật
--nhà kho
+unsafe
+	
+*  tính từ
+- không an toàn, không chắc chắn; nguy hiểm
+

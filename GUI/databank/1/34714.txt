@@ -1,3 +1,20 @@
-microdot	@microdot
-* danh từ
-- ảnh (thường) là tài liệu mật được thu nhỏ lại bằng một dấu chấm
+assistant
+	
+*  danh từ
+- người giúp đỡ, người phụ tá
+- trợ giáo; (pháp lý) viên phụ thẩm
+- người bán hàng ((cũng) shop assistant)
+*  tính từ
+- giúp đỡ, phụ, phó
+=assistant surgeon
++ người phụ mổ
+=assistant manager
++ phó giám đốc
+@Chuyên ngành kinh tế
+-người giúp đỡ
+-phó
+-trợ lý
+-viên phụ tá
+@Chuyên ngành kỹ thuật
+-người trợ tá
+

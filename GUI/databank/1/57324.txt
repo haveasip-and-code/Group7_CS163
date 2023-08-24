@@ -1,5 +1,24 @@
-trampoline	@trampoline
-* danh từ
-- tấm bạt lò xo căng trên khung (để nhào lộn)
-* nội động từ
-- dùng bạt lò xo, sử dụng bạt lò xo
+interval
+	
+*  danh từ
+- khoảng (thời gian, không gian), khoảng cách
+- lúc nghỉ, lúc ngớt, lúc ngừng
+- (quân sự) khoảng cách, cự ly
+- (âm nhạc) quãng
+- (toán học) khoảng
+@Chuyên ngành kỹ thuật
+-cự li
+-đoạn
+-khoảng
+-khoảng cách
+-phạm vi
+-quãng
+-quãng cách
+@Lĩnh vực: vật lý
+-khoảng dừng
+-khoảng nghỉ
+@Lĩnh vực: y học
+-khoáng, khoảng cách
+@Lĩnh vực: cơ khí & công trình
+-từng quãng một
+

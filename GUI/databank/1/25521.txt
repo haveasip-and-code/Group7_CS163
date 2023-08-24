@@ -1,13 +1,8 @@
-herb	
-@herb /hə:b/
-*  danh từ
-- cỏ, cây thảo=medicinal herbs
-+ cỏ làm thuốc, dược thảo
-@Chuyên ngành kinh tế
--cây gia vị
--cây tinh dầu
--cỏ
--cỏ cây
+unconformable
+	
+*  tính từ
+- không thích hợp với nhau, xung khắc nhau
+- ương bướng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cây thuốc, dược thảo
+-không chỉnh hợp
+

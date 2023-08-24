@@ -1,6 +1,6 @@
-hieroglyph	
-@hieroglyph
-* danh từ
-- chữ viết tượng hình
-- ký hiệu bí mật
-- chữ viết khó đọc
+retrain
+	
+-đào tạo lại
+-huấn luyện kỹ thuật mới
+-tái đào tạo
+

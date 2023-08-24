@@ -1,26 +1,10 @@
-mud	@mud /mʌd/
-*  danh từ
-- bùn ((nghĩa đen) & (nghĩa bóng))
-=to fling mud at somebody+ ném bùn vào ai; (nghĩa bóng) nói xấu ai, bôi nhọ ai
-!to stick in the mud
-- bảo thủ; chậm tiến, lạc hậu
-*  ngoại động từ
-- vấy bùn, trát bùn lên
-- làm đục, khuấy đục
-*  nội động từ
-- chui xuống bùn
-@Chuyên ngành kinh tế
--bùn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--trò chơi MUD
-@Chuyên ngành kỹ thuật
--bã
--bùn
--cặn
--cho bùn vào
--làm đục
--xỉ
-@Lĩnh vực: xây dựng
--bùn đất
--trát bùn
+commons
+	
+*  danh từ số nhiều
+- dân chúng, những người bình dân
+- đồ ăn ăn chung; bàn ăn chung
+- khẩu phần ăn hằng ngày theo giá qui định (đại học Ôc
+-phớt và Căm
+-brít)
+- thức ăn hằng ngày
+

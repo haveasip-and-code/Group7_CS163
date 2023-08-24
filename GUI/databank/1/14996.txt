@@ -1,8 +1,136 @@
-developing	
-@developing
-* tính từ
-- đang phát triển, trên đà phát triển
+range
+	
+*  danh từ
+- dãy, hàng
+=a range of mountains
++ dãy núi
+=in range with my house
++ cùng một dãy nhà với tôi
+- phạm vị, lĩnh vực; trình độ
+=range of knowledge
++ phạm vi (trình độ) hiểu biết
+=range of action
++ phạm vi hoạt động
+=within my range
++ vừa với trình độ của tôi
+- loại
+=a range of colours
++ đủ các màu
+=a wide range of prices
++ đủ loại giá
+- (quân sự) tầm, tầm đạn; (không) tầm bay xa; (rađiô) tầm truyền đạt
+=within range
++ ở trong tầm đạn
+=an airplane out of range
++ một máy bay ở người tầm đạn
+- sân tập bắn
+- lò bếp
+- (từ Mỹ,nghĩa Mỹ) bâi cỏ rộng (để thả súc vật)
+- vùng
+=a wide range of meadows
++ một vùng đồng cỏ mênh mông
+*  ngoại động từ
+- sắp hàng; sắp xếp có thứ tự
+- xếp loại
+- đứng về phía
+=to range onself with someone
++ đứng về phía ai
+- đi khắp; đi dọc theo (bờ sông)
+=to range the woods
++ đi khắp rừng
+- (quân sự) bắn để tính tầm xa (của một mục tiêu)
+=to range a gun on an enemy ship
++ bắn đại bác để tính tầm xa của một tàu địch
+*  nội động từ
+- cùng một dãy với, nằm dọc theo
+=our house ranges with the next building
++ nhà chúng tôi cùng một dãy với toà nhà bên cạnh
+=island that ranges along the mainland
++ đảo nằm dọc theo đất liền
+- đi khắp
+=to range over the country
++ đi khắp nước
+- lên xuông giữa hai mức
+=prices ranged between 40d and 45d
++ giá lên xuống từ 40 đến 45 đồng
+=temperature ranging from ten thirtythree degrees
++ độ nhiệt lên xuống từ mười đến ba mươi ba độ
+- được thấy trong một vùng (cây, thú vật); được xếp vào loại
+= Gorki ranges with (among) the great writers
++ Góoc
+-ki được xếp vào loại các nhà văn lớn
+- (quân sự) bắn xa được (đạn)
+=the gun ranges over ten kilometers
++ khẩu đại bác ấy bắn xa trên mười kilômet
+=the bullet ranged wide of the objective
++ viên đạn đã đi chệch xa mục tiêu
+@Chuyên ngành kinh tế
+-dãy
+-dãy hàng
+-khoảng chênh
+-lĩnh vực
+-lò bếp
+-loại
+-lớp
+-phạm vi
+-toàn cự
+-vùng
 @Chuyên ngành kỹ thuật
--sự hiện ảnh
+-băng
+-biên độ
+-cự ly
+-dải
+-dải đo
+-dải thang đo (của thiết bị)
+-dãy
+-dãy hàng
+-độ xa
+-đường truyền
+-giới hạn
+-hàng
+-hạng loại
+-hàng ngang
+-khoảng
+-khoảng bao quát
+-khoảng cách
+-khoảng đo
+-khoảng giá trị
+-khoảng hạng
+-khoảng phủ sóng
+-khoảng thang đo
+-khoảng truyền
+-kiểu
+-lĩnh vực
+-loại
+-loạt sản phẩm
+-miền
+-miền (emitơ)
+-mức
+-phạm vi
+-phạm vi đo
+-sắp xếp
+-thang
+-thang đo
+-vùng phủ sóng
+@Lĩnh vực: xây dựng
+-bãi rộng
+-đoạn đường giới hạn
+-nhà bếp
+-tầm bắn
+-thang biên độ
+@Lĩnh vực: điện
+-bếp ga (mỹ)
+-khoảng tầm giới hạn
+@Lĩnh vực: điện tử & viễn thông
+-dải thu
+-khoảng sóng
+-khoảng thu
+-tầm phủ sóng
+-tuyến truyền
+@Lĩnh vực: hóa học & vật liệu
+-hàng, dãy
+@Lĩnh vực: giao thông & vận tải
+-tầm hoạt động
 @Lĩnh vực: toán & tin
--sự rửa ảnh
+-vùng
+

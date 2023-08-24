@@ -1,3 +1,71 @@
-nationhood	@nationhood /'neiʃnhud/
+enclosure
+	
 *  danh từ
-- tính trạng là một dân tộc; tính chất là một quốc gia
+- sự rào lại (đất đai...)
+- hàng rào vây quanh
+- đất có rào vây quanh
+- tài liệu gửi kèm (theo thư)
+@Chuyên ngành kinh tế
+-đất có rào vây quanh
+-giấy tờ kèm theo, đính kèm
+-giữ đất
+-hàng rào vây quanh
+-phụ kiện
+-quây rào
+-sự rào lại (đất đai)
+-sự rào lại (đất đai...)
+@Chuyên ngành kỹ thuật
+-bộ tiêu âm
+-hàng rào
+-khoang kín
+-sự bọc
+-tường ngăn
+-tường vây
+-vỏ
+-vỏ bao
+-vỏ bọc
+-vỏ máy
+-vỏ mỏng
+-vỏ ngoài
+@Lĩnh vực: giao thông & vận tải
+-đính kèm
+@Lĩnh vực: xây dựng
+-nơi khép kín
+-vỏ bao che
+@Lĩnh vực: điện lạnh
+-sự đóng vỏ
+-vách cách âm
+@Lĩnh vực: cơ khí & công trình
+-sự rào lại
+@Lĩnh vực: hóa học & vật liệu
+-vây bọc
+@Lĩnh vực: điện
+-vỏ hộp máy
+@Chuyên ngành kỹ thuật
+-bộ tiêu âm
+-hàng rào
+-khoang kín
+-sự bọc
+-tường ngăn
+-tường vây
+-vỏ
+-vỏ bao
+-vỏ bọc
+-vỏ máy
+-vỏ mỏng
+-vỏ ngoài
+@Lĩnh vực: giao thông & vận tải
+-đính kèm
+@Lĩnh vực: xây dựng
+-nơi khép kín
+-vỏ bao che
+@Lĩnh vực: điện lạnh
+-sự đóng vỏ
+-vách cách âm
+@Lĩnh vực: cơ khí & công trình
+-sự rào lại
+@Lĩnh vực: hóa học & vật liệu
+-vây bọc
+@Lĩnh vực: điện
+-vỏ hộp máy
+

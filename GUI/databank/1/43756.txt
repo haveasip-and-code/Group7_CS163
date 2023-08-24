@@ -1,31 +1,5 @@
-procedure	@procedure /procedure/
-*  danh từ
-- thủ tục
-=legal procedure+ thủ tục luật pháp
-=the procedure of the meeting+ thủ tục hội nghị
-@Chuyên ngành kinh tế
--thủ tục
--thủ tục tố tụng
--trình tự
--trình tự, thủ tục
-@Chuyên ngành kỹ thuật
--biện pháp
--cách tiến hành
--lệnh
--liệu pháp
--nhiệm vụ
--phương pháp
--phương thức
--quá trình
--quá trình công nghệ
--qui trình
--quy trình
--thao tác
--tiến trình
-@Lĩnh vực: toán & tin
--chỉ lệnh
--thủ tục, phương pháp
-@Lĩnh vực: điện tử & viễn thông
--khối thủ tục
-@Lĩnh vực: y học
--phương thức, thủ tục
+ferriferous
+	
+* tính từ
+- có sắt; có chất sắt
+

@@ -1,4 +1,19 @@
-ivy	
-@ivy /'aivi/
+migration
+	
 *  danh từ
-- (thực vật học) dây thường xuân
+- sự di trú
+- sự chuyển trường (từ trường đại học này sang trường đại học khác)
+- đoàn người di trú; bầy chim di trú
+@Chuyên ngành kinh tế
+-sự chuyển đổi chỗ
+-sự di cư
+-sự di cư (ra nước ngoài)
+@Chuyên ngành kỹ thuật
+-di trú
+-sự chuyển vị
+-sự di cư
+@Lĩnh vực: y học
+-di cư, di trú, di chuyển
+@Lĩnh vực: toán & tin
+-sự di chú
+

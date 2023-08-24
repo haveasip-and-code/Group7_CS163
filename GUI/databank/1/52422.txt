@@ -1,8 +1,8 @@
-spine	@Chuyên ngành kinh tế
--cột sống
--xương sống
-@Chuyên ngành kỹ thuật
--gai
--gáy sách
-@Lĩnh vực: y học
--cột sống
+crabbing
+	
+* danh từ
+- việc bắt cua
+@Chuyên ngành kinh tế
+-sự bắt cua
+-sự đánh cua
+

@@ -1,9 +1,5 @@
-avatar	
-@avatar /,ævə'tɑ:/
-*  danh từ
-- Ân,  (thần thoại,thần học) thiên thần giáng thế
-- sự giáng sinh; sự hoá thân, sự hiện thân
-- giai đoạn (trong sự hoá thân)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--hiện thân ảo
+monovular
+	
+@Lĩnh vực: y học
+-thuộc một noãn
+

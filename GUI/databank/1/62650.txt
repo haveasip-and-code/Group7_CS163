@@ -1,13 +1,29 @@
-weeping	@weeping /'wi:pi /
-*  tính từ
-- đang khóc, khóc lóc (người)
-- chy nước, rỉ nước
-=weeping rock+ đá rỉ nước, đá đổ mồ hôi
-- (y học) chy nước (vết đau)
-- (thực vật học) rủ cành
-=weeping willow+ cây liễu rủ cành
+queue
+	
+*  danh từ
+- đuôi sam
+- hàng (người, xe ô tô ở ngã tư khi có đèn đỏ...) xếp nối đuôi
+=to stand in a queue
++ xếp hàng nối đuôi nhau
+*  nội động từ
+- ((thường) 
++ up) xếp hàng nối đuôi nhau
+=to queue up for a tram
++ xếp hàng nối đuôi nhau để lên xe điện
+*  ngoại động từ
+- tết (tóc thành đuôi sam)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự đọng bitum (trên mặt tường)
--sự đọng sữa xi măng (trên mặt bê tông)
--sự đọng sương (trên mặt tường)
+-dòng xe
+-hàng
+-hàng chờ
+-hàng đợi
+-xếp hàng
+@Lĩnh vực: giao thông & vận tải
+-dòng hàng
+@Lĩnh vực: hóa học & vật liệu
+-hàng lối
+@Lĩnh vực: điện lạnh
+-sự nối đuôi
+@Lĩnh vực: toán & tin
+-xếp hàng đợi
+

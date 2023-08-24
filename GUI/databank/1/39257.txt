@@ -1,11 +1,6 @@
-paired	@paired
-- thành cặp, thành đôi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đã ghép thành cặp
-@Lĩnh vực: toán & tin
--thành cặp
--thành cặp, thành đôi
--thành đôi
-@Lĩnh vực: xây dựng
--từng đôi
+florae
+	
+*  danh từ,  số nhiều floras,  florae
+- hệ thực vật (của một vùng)
+- danh sách thực vật, thực vật chí
+

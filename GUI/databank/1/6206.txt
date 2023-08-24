@@ -1,10 +1,5 @@
-bolting	
-@Chuyên ngành kỹ thuật
--bắt bu lông
--mối ghép bulông
--mối nối bắt bulông
-@Lĩnh vực: hóa học & vật liệu
--bắt bulông
--tuyển quặng bằng sàng
-@Lĩnh vực: xây dựng
--sự bắt bulông
+wards
+	
+- hậu tố
+- như ward
+

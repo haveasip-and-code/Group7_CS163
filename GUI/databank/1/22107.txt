@@ -1,9 +1,5 @@
-fossiliferous	
-@fossiliferous /,fɔsi'lifərəs/
-*  tính từ
-- có vật hoá đá, có hoá thạch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chứa hóa đá
-@Lĩnh vực: xây dựng
--có hóa thạch
+silvicultural
+	
+* tính từ
+- thuộc silviculture
+

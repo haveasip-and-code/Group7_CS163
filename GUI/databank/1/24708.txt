@@ -1,13 +1,8 @@
-habitat	
-@habitat /'hæbitæt/
-*  danh từ
-- môi trường sống, nơi sống (của cây cối động vật)
-- nhà, chỗ ở (người)
-@Chuyên ngành kinh tế
--nơi ở
--nơi sống
+triadic
+	
+- ba ngôi
 @Chuyên ngành kỹ thuật
--môi trường
--môi trường sống
-@Lĩnh vực: cơ khí & công trình
--nơi sống
+@Lĩnh vực: toán & tin
+-ba ngôi
+-có ba toán hạng
+

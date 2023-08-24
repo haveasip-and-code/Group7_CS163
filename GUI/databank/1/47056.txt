@@ -1,10 +1,42 @@
-reserved	@reserved /ri'zə:vd/
-*  tính từ
-- dành, dành riêng, dành trước
-=reserved seat+ ghế dành riêng
-- kín đáo; dè dặt, giữ gìn
-- dự bị, dự trữ
-=reserved list+ (hàng hải) danh sách sĩ quan dự bị
+provide
+	
+*  nội động từ
+- ((thường) 
++ for,  against) chuẩn bị đầy đủ, dự phòng
+=to provide for an entertaiment
++ chuẩn bị đầy đủ cho một cuộc tiếp đãi
+=to provide against an attack
++ chuẩn bị đầy đủ cho một tấn công, dự phòng chống lại một cuộc tấn công
+- ((thường) 
++ for) cung cấp, chu cấp, lo cho cái ăn cái mặc cho; lo liệu cho
+=to provide for a large family
++ lo cái ăn cái mặc cho một gia đình đông con
+=to be well provided for
++ được lo liệu đầy đủ cái ăn cái mặc, được cung cấp đầy đủ
+*  ngoại động từ
+- ((thường) 
++ with,  for,  to) cung cấp, kiếm cho
+=to provide someone with something
++ cung cấp cho ai cái gì
+=to be well provided with arms and ammunitions
++ được cung cấp đầy đủ súng đạn
+=to provide something for (to) somebody
++ kiếm cái gì cho ai
+- (pháp lý) quy định
+=to provide that
++ quy định rằng
+=a clause which provides that the tenant shall be held responsible for repairs
++ điều khoản quy định rằng người thuê có trách nhiệm sửa chữa
+- (sử học),  (tôn giáo) (
++ to) chỉ định, bổ nhiệm (ai vào một thánh chức có lộc)
 @Chuyên ngành kinh tế
--dành riêng
--dự trữ
+-chuẩn bị đầy đủ
+-cung cấp đầy đủ
+@Chuyên ngành kỹ thuật
+-cung cấp
+-lắp ráp
+-lo liệu cho
+-nhà cung cấp
+@Lĩnh vực: toán & tin
+-quản lý viên
+

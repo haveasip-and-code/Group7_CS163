@@ -1,4 +1,9 @@
-insectivorous	
-@insectivorous /,insek'tivərəs/
-*  tính từ
-- (sinh vật học) ăn sâu bọ
+idempotent
+	
+* tính từ
+- (toán học) (thuộc ma trận) không thay đổi giá trị (sau khi tự nó nhân lên)
+* danh từ
+- số lượng toán học không thay đổi giá trị
+@Chuyên ngành kỹ thuật
+-lũy đẳng
+

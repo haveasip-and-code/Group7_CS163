@@ -1,8 +1,5 @@
-docker	
-@docker
+aedile
+	
 * danh từ
-- công nhân bốc xếp ở bến tàu
-@Chuyên ngành kinh tế
--công nhân bến tàu (làm công việc bốc xếp)
--công nhân bốc xếp
--khuôn bánh quy
+- quan thị chính (La Mã)
+

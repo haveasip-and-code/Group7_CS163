@@ -1,36 +1,5 @@
-safe	@safe /seif/
-*  danh từ
-- chạn (đựng đồ ăn)
-- tủ sắt, két bạc
-*  tính từ
-- an toàn, chắc chắn
-=to feel safe+ cảm thấy an toàn
-=to see somebody safe home+ đưa người nào về nhà an toàn
-=to be safe from the enemy+ chắc chắn không bị địch tấn công
-=to put something in a safe place+ để vật gì vào một nơi chắc chắn
-=to be on the safe side+ để cho chắc chân
-=it is safe to say that+ có thể nói một cách chắc rằng
-- có thể tin cậy, chắc chắn
-- thận trọng, dè dặt
-=a safe critic+ một nhà phê bình thận trọng
-!safe and sound
-- bình an vô sự
-@Chuyên ngành kinh tế
--an toàn
--dè dặt
--dè dặt thận trọng
--két an toàn
--không nguy hiểm
--máy lạnh gia đình
--thận trọng
--tủ đựng tiền
--tủ sắt
--tủ sắt, tủ đựng tiền
-@Chuyên ngành kỹ thuật
--an toàn
--cho phép
--két sắt
--tin cậy
-@Lĩnh vực: xây dựng
--tủ sắt
--tủ sắt két sắt
+mucronate
+	
+@Lĩnh vực: y học
+-có đầu nhọn, có mấu nhọn
+

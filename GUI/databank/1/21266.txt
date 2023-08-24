@@ -1,35 +1,47 @@
-flake	
-@flake /fleik/
-*  danh từ
-- giàn, giá phơi (để phơi cá...)
-*  danh từ
-- bông (tuyết)=flake s of snow
-+ bông tuyết
-- đóm lửa, tàn lửa
-- lớp (thịt của cá)
-- mảnh dẹt, váy (như cốm)=flakes of rust
-+ vảy gỉ
-- (thông tục) cây cẩm chướng hoa vằn
+tighten
+	
 *  nội động từ
-- rơi (như tuyết)
-- (
-+ away,  off) bong ra
+- chặt, căng, khít lại
+=it needs tightening up a little
++ cần phải chặt hơn một tí
+- căng ra, căng thẳng ra
+=the cable tightens under the heavy load
++ sợi dây cáp căng ra vì có vật nặng
+- mím chặt (môi)
+*  ngoại động từ
+- thắt chặt, siết chặt
+=to tighten the knot
++ thắt cái nút
+=tighten one's belt
++ thắt lưng buộc bụng, nhịn ăn nhịn mặc
+=to tighten a screw
++ siết chặt đinh ốc
+=to tighten the bonds of solidarity
++ thắt chặt tình đoàn kết
+- kéo căng
+=to tighten the rope
++ kéo căng cái dây
+- giữ chặt
+=tighten him!
++ hãy giữ chặt lấy nó!
 @Chuyên ngành kinh tế
--giá phơi
--tấm mỏng
+-bịt kín
+-độn chặt
+-nện chặt
 @Chuyên ngành kỹ thuật
--cuộn cáp
--lớp mỏng
--tấm
--vảy
-@Lĩnh vực: hóa học & vật liệu
--phiến nhỏ
--vây
-@Chuyên ngành kỹ thuật
--cuộn cáp
--lớp mỏng
--tấm
--vảy
-@Lĩnh vực: hóa học & vật liệu
--phiến nhỏ
--vây
+-căng
+-cố định
+-giữ chặt
+-kéo căng
+-kéo ra
+-kẹp chặt
+-làm kín
+-nêm chặt
+-siết
+-siết chặt
+-xiết chặt
+@Lĩnh vực: xây dựng
+-nện chặt
+@Lĩnh vực: toán & tin
+-nện chặt, kéo căng
+

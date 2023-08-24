@@ -1,8 +1,10 @@
-apologize	
-@apologize /ə'pɔlədʤaiz/ (apologise) /ə'pɔlədʤaiz/
-*  nội động từ
-- xin lỗi, tạ lỗi=to apologize to someone for something
-+ xin lỗi ai về việc gì
-@Chuyên ngành kinh tế
--tạ lỗi
--xin lỗi
+strander
+	
+* danh từ
+- máy bện thừng; bện cáp
+- máy xe sợi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-máy bện
+-máy xe sợi
+

@@ -1,9 +1,11 @@
-intonation	
-@intonation /,intou'neiʃn/
-*  danh từ
-- sự ngâm nga
-- (ngôn ngữ học) ngữ điệu
-- (âm nhạc) âm điệu; âm chuẩn
+indecomposable
+	
+*  tính từ,  (vật lý),  (hoá học)
+- không thể phân tích, không thể phân ly
+- không thể phân hu
 @Chuyên ngành kỹ thuật
--âm điệu
--ngữ điệu
+-không khai triển được
+-không phân tích được
+@Lĩnh vực: điện lạnh
+-không phân tách được
+

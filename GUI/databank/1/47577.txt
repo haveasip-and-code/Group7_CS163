@@ -1,8 +1,18 @@
-rheology	@rheology
-* danh từ
-- lưu biến học
+reputation
+	
+*  danh từ
+- tiếng (xấu, tốt...)
+=he had the reputation of raching his tenants
++ lâo ta có tiếng về bóc lột tận xương tuỷ tá điền của lão
+- tiếng tốt, thanh danh, danh tiếng
+=a scientist of world wide
++ một nhà khoa học danh tiếng khắp thế giới
+@Chuyên ngành kinh tế
+-danh tiếng
+-thanh danh
+-thành danh
+-uy tín
 @Chuyên ngành kỹ thuật
--lưu biến học
--lưu biến học, lưu đàn học
 @Lĩnh vực: xây dựng
--môn học lưu biến
+-uy tín
+

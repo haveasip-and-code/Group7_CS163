@@ -1,5 +1,10 @@
-mediums	@mediums
-* danh từ
-- số nhiều của medium
-@Chuyên ngành kinh tế
--các chứng khoán trung hạn
+arbiter
+	
+*  danh từ
+- người phân xử; trọng tài
+- quan toà, thẩm phán
+- người nắm toàn quyền
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bộ phân xử
+

@@ -1,3 +1,12 @@
-abbreviation	
-@abbreviation
-- sự viết gọn, sự viết tắt
+pedigree
+	
+*  danh từ
+- phả hệ
+- nòi, dòng dõi, huyết thống
+- (ngôn ngữ học) gốc (của từ), từ nguyên
+- (định ngữ) nòi
+=a pedigree horse
++ ngựa nòi
+@Chuyên ngành kỹ thuật
+-dòng dõi
+

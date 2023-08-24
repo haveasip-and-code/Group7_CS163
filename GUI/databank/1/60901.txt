@@ -1,2 +1,14 @@
-upstandingness	@upstandingness
-- xem upstanding
+required
+	
+- đòi hỏi, cần tìm
+@Chuyên ngành kinh tế
+-cần thiết
+-phải có
+-phải được
+-yêu cầu
+@Chuyên ngành kỹ thuật
+-đòi hỏi
+-yêu cầu
+@Lĩnh vực: toán & tin
+-cần tìm
+

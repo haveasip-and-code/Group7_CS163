@@ -1,6 +1,22 @@
-aborigines	
-@aborigines /,æbə'ridʤini:z/
-*  danh từ số nhiều
-- thổ dân=Indians are the aborigines of America
-+ người da đỏ là thổ dân của châu Mỹ
-- thổ sản
+seller
+	
+*  danh từ
+- người bán, người phát hàng
+- thứ bán được, đồ bán được
+=good seller
++ thứ bán chạy
+=best seller
++ sách bán chạy; tác giả có sách bán chạy
+@Chuyên ngành kinh tế
+-ăn khách
+-bán chạy
+-bên bán
+-hàng bán
+-món đồ bán
+-người bán
+-người bán hàng
+@Chuyên ngành kỹ thuật
+-người bán
+@Lĩnh vực: điện
+-bên bán (hàng)
+

@@ -1,7 +1,8 @@
-orbiter	@orbiter
-* danh từ
-- người/vật đi theo quỹ đạo
-- tàu vũ trụ bay theo quỹ đạo (mặt trăng...)
+laborer
+	
+-người lao động
+-thợ phụ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--tầng quỹ đạo
+-người lao động
+-thợ phụ
+

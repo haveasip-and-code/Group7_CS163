@@ -1,6 +1,7 @@
-hardback	
-@hardback
+trampoline
+	
 * danh từ
-- sách đóng bìa cứng
-@Chuyên ngành kỹ thuật
--bìa cứng
+- tấm bạt lò xo căng trên khung (để nhào lộn)
+* nội động từ
+- dùng bạt lò xo, sử dụng bạt lò xo
+

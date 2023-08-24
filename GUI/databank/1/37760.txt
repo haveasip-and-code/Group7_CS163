@@ -1,3 +1,11 @@
-oligochaete	@oligochaete
-* danh từ
-- (động vật) giun ít tơ
+caret
+	
+*  danh từ
+- dấu sót (để đánh dấu chỗ phải thêm chữ còn sót)
+@Chuyên ngành kỹ thuật
+-dấu mũ
+@Lĩnh vực: toán & tin
+-dấu caret
+@Lĩnh vực: xây dựng
+-dấu sót
+

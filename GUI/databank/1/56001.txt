@@ -1,8 +1,44 @@
-tensor	@tensor /'tensə/
+suspension
+	
 *  danh từ
-- (giải phẫu) cơ căng
+- sự treo
+- sự đình chỉ, sự ngưng lại; sự đình chỉ công tác; sự đình bản (một tờ báo...)
+=suspension of hostilities
++ sự đình chiến
+- (hoá học) thể vẩn
+@Chuyên ngành kinh tế
+-cho thôi việc
+-đình chỉ công tác
+-hoãn lại
+-sự ngưng
+-sự ngưng chức
+-tạm ngưng
 @Chuyên ngành kỹ thuật
+-chất huyền phù
+-đồng hồ treo
+-dừng
+-giá treo
+-hệ thống treo
+-hoãn
+-huyền phù
+-lắp ráp
+-ngắt
+-sự đình chỉ
+-sự hoãn
+-sự treo
+-thanh chịu kéo
+@Lĩnh vực: toán & tin
+-cách treo, sự treo
 @Lĩnh vực: y học
--cơ căng
-@Lĩnh vực: điện tử & viễn thông
--tenxơ
+-dịch huyết phù
+-sự điều trị bằng treo
+-sự ngưng, đình chỉ
+@Lĩnh vực: giao thông & vận tải
+-hệ thống lò xo
+@Lĩnh vực: hóa học & vật liệu
+-sự lơ lửng
+-thể huyền phù
+@Lĩnh vực: xây dựng
+-sự nổi lơ lửng (của vật liệu không tan trong nước)
+-xỉ (nổi)
+

@@ -1,5 +1,24 @@
-hawking	
-@Chuyên ngành kinh tế
--nghề bán rong
--sụ bán rong
--sự bán rong
+dense
+	
+*  danh từ
+- dày đặc, chặt
+- đông đúc; rậm rạp
+=a dense forest
++ rừng rậm
+- đần độn, ngu đần
+@Chuyên ngành kỹ thuật
+-chắc nịch
+-chắc sít
+-đặc
+-đậm
+-dày đặc
+-không thấm
+-kín
+-nặng
+@Lĩnh vực: hóa học & vật liệu
+-đậm đặc
+@Lĩnh vực: xây dựng
+-rậm rạp
+@Lĩnh vực: toán & tin
+-trù mật
+

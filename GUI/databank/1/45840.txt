@@ -1,34 +1,8 @@
-rebate	@rebate /ri'beit/
-*  danh từ
-- việc hạ giá, việc giảm bớt (số tiền trả)
-- số tiền được hạ, số tiền được giảm bớt
-*  ngoại động từ
-- (từ cổ,nghĩa cổ) làm giảm bớt (sức mạnh, hiệu lực của một việc gì)
-- làm cùn (lưỡi dao)
-*  danh từ & ngoại động từ
-- (như) rabbet
-@Chuyên ngành kinh tế
--bớt cước phí
--bớt giá
--bớt nợ
--chiết khấu
--giảm cước
--giảm giá
--hồi khấu
--sự bớt giá
--sự bớt giảm
--tiền bo
--tiền bớt
--tiền chiết khấu
+nonagon
+	
+* danh từ
+- cửu giác (hình 9 cạnh)
 @Chuyên ngành kỹ thuật
--bào xoi
--nếp gấp
--rãnh
--sự giảm
--sự hạ giá
--ván cừ
--xẻ rãnh
--xoi mộng
--xoi rãnh
-@Lĩnh vực: hóa học & vật liệu
--tiền giảm
+@Lĩnh vực: toán & tin
+-hình chín cạnh
+

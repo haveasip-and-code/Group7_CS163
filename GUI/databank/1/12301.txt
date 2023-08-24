@@ -1,5 +1,6 @@
-courthouse	
-@Chuyên ngành kỹ thuật
--nhà xử án
-@Lĩnh vực: xây dựng
--tòa án
+orthographic
+	
+*  tính từ
+- (thuộc) phép chính tả
+- (thuộc) phép chiếu trực giao
+

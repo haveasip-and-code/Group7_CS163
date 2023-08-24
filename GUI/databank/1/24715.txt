@@ -1,11 +1,5 @@
-habitus	
-@habitus
-* danh từ
-- thể trạng
-- habitus of the patient
-- thể trạng của người bệnh
-- sắc mạo; phương thức phát triển; thói quen
-@Chuyên ngành kỹ thuật
--ngoại dạng
-@Lĩnh vực: y học
--sắc diện
+gammer
+	
+*  danh từ
+- (thông tục) bà già
+

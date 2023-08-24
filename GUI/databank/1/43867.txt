@@ -1,33 +1,6 @@
-profit	@profit /profit/
-*  danh từ
-- lợi, lợi ích, bổ ích
-=to do something to one's profit+ làm gì vì có lợi, làm gì vì thấy bổ ích cho mình
-- tiền lãi, lợi nhuận
-=to make a good profit on+ kiếm được nhiều lãi trong (việc gì)
-=a profit and loss account+ bản tính toán lỗ lãi
-*  ngoại động từ
-- làm lợi, mang lợi, có lợi
-=it profited him nothing+ cái đó không có lợi gì cho nó cả
-*  nội động từ
-- (+ by) kiếm lợi, lợi dụng
-=to profit by (from) something+ lợi dụng cái gì
-- có lợi, có ích
-=it profits little to advise him+ khuyên răn nó cũng chẳng ích gì
-@Chuyên ngành kinh tế
--danh lợi
--doanh lợi
--lợi ích
--lời lãi
--lợi nhuận
--tiền lãi
--tiền lời
-@Chuyên ngành kỹ thuật
--lãi
--lời
--lợi
--lợi ích
--lợi nhuận
--thu nhập
--tiền lãi
-@Lĩnh vực: toán & tin
--mặt phẳng bên
+hypertonic
+	
+* tính từ
+- ưu trương
+- tăng sức trương (cơ)
+

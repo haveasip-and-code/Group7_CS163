@@ -1,15 +1,19 @@
-president	@president /'prezidənt/
-*  danh từ
-- chủ tịch (buổi họp, hội nước...)
-- (từ Mỹ,nghĩa Mỹ) tổng thống
-- hiệu trưởng (trường đại học)
-- (sử học) thống sứ, thống đốc (ở một nước thuộc địa)
+clarifier
+	
+- xem clarify
 @Chuyên ngành kinh tế
--chủ tịch
--chủ tịch (công ty)
--hội trưởng
--tổng giám đốc (công ty vô danh)
--tổng thống
+-chất làm trong
+-thiết bị làm trong
+-thùng lắng trong
 @Chuyên ngành kỹ thuật
+-bể kết tủa
+-bể lắng
+-bộ lọc
+-chất làm trong
+-thiết bị làm sạch
+-thiết bị lắng
 @Lĩnh vực: xây dựng
--tổng thống
+-bể lắng trong
+@Lĩnh vực: cơ khí & công trình
+-thiết bị gạn
+

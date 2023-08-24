@@ -1,21 +1,8 @@
-sealed	@sealed
-* tính từ
-- kín khít; được bịt kín
-@Chuyên ngành kinh tế
--dán kín
--đậy kín
--đóng kín
--hàn
+oleo
+	
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) Macgarin
 @Chuyên ngành kỹ thuật
--đóng kín
--được bít kín
--được bịt kín
--được đóng kín
--được hàn kín
--được trám kín
--kín
--kín khít
-@Lĩnh vực: toán & tin
--kín, niêm chặt
-@Lĩnh vực: xây dựng
--niêm chặt
+@Lĩnh vực: y học
+-tiền tố chỉ đầu
+

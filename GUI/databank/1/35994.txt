@@ -1,4 +1,6 @@
-multipole	@multipole
-- (vật lí) cực bội
+demagnetizer
+	
+- (Tech) cái khử từ, bộ khử từ
 @Chuyên ngành kỹ thuật
--đa cực
+-bộ khử từ
+

@@ -1,18 +1,8 @@
-accessible	
-@accessible /æk'sesəbl/
-*  tính từ
-- có thể tới được, có thể gần được=the remote hamlet is accessible by bicycle
-+ cái xóm nghèo hẻo lánh đó có thể đi xe đạp đến được
-- dễ bị ảnh hưởng=accessible to bribery
-+ dễ hối lộ, dễ đút lót
-- dễ gần (người)
+unexcited
+	
+* tính từ
+- không bị kích thích, không bị kích động
 @Chuyên ngành kỹ thuật
--có thể đến được
--đạt được
--hở
--lộ thiên
--mở
-@Lĩnh vực: cơ khí & công trình
--tiếp cận được
-@Lĩnh vực: toán & tin
--tới được
+@Lĩnh vực: điện lạnh
+-không bị kích thích
+

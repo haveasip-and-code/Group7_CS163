@@ -1,3 +1,15 @@
-thriftily	@thriftily
-* phó từ
-- tiết kiệm, tằn tiện
+metric
+	
+*  tính từ
+- (thuộc) mét
+=the metric system
++ hệ thống mét
+- (như) metrical
+- (toán học) Mêtric
+=metric geometry
++ hình học mêtric
+@Chuyên ngành kỹ thuật
+-mét
+@Lĩnh vực: toán & tin
+-theo hệ mét
+

@@ -1,11 +1,4 @@
-yesterday	@yesterday /'jestədi/
-*  phó từ & danh từ
-- hôm qua
-=yesterday morning+ sáng hôm sau
-=the day before yesterday+ hôm kia
-=yesterday week+ tám hôm trước
-@Chuyên ngành kinh tế
--ngày hôm qua
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hôm qua
+partitioner
+	
+- xem partition
+

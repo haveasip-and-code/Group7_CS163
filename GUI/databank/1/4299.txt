@@ -1,3 +1,114 @@
-azimuthally	
-@azimuthally
-- xem azimuth
+stock
+	
+*  danh từ
+- kho dữ trữ, kho; hàng trong kho
+=stock in hand
++ hàng hoá trong kho
+=in stock
++ tồn kho, cất trong kho
+- (tài chính) vốn; cổ phân
+=bank stock
++ vốn của một ngân hàng
+- (thực vật học) thân chính
+- (thực vật học) gốc ghép
+- để (đe)
+=stock of anvil
++ đế đe
+- báng (súng), cán, chuôi
+- nguyên vật liệu
+=paper stock
++ nguyên vật liệu để làm giấy
+- dòng dõi, thành phần xuất thân
+=to come of a good stock
++ xuất thân từ thành phần tốt
+- đàn vật nuôi
+- (sinh vật học) thể quần tập, tập đoàn
+- (số nhiều) giàn tàu
+=on the stocks
++ đang đóng, đang sửa (tàu)
+- (số nhiều) (sử học) cái cùm
+!lock, stock and barrel
+- (xem) lock
+!dead stock
+- (xem) dead
+!a stock argument
+- lý lẽ tủ
+!to have in stock
+- có sẵn
+!to take stock in
+- mua cổ phần của (công ty...)
+- chú trọng (cái gì), lưu tâm đến (cái gì)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tin ở (cái gì)
+!to take stock of
+- kiểm kê hàng trong kho
+- (nghĩa bóng) nhận xét, đánh giá
+*  ngoại động từ
+- cung cấp (hàng hoá cho một cửa hàng, súc vật cho một trang trại...)
+- tích trữ
+=we do not stock the outsizes
++ chúng tôi không tích trữ loại ngoại cỡ
+- lắp báng vào (súng...), lắp cán vào, lắp chuôi vào
+- trồng cỏ (lên một mảnh đất)
+- (sử học) cùm
+*  nội động từ
+- đâm chồi (cây)
+- ((thường) 
++ up) để vào kho, cất vào kho)
+@Chuyên ngành kinh tế
+-chứng khoán, trữ (hàng)
+-cổ phần
+-cổ phiếu, chứng khoán
+-cung ứng (vật gì...)
+-hàng nằm
+-hàng trong kho
+-hàng trữ
+-nguyên liệu
+-nguyên vật liệu
+-sự dự trữ
+-tiền dự trữ
+-tổng số cổ phần
+-trữ hàng
+-vật liệu
+-vốn cổ phần
+-vốn cổ phần, cổ phiếu
+@Chuyên ngành kỹ thuật
+-bàn cắt ren
+-bàn ren
+-bột giấy
+-cán
+-chứa
+-chuôi
+-đế
+-dự trữ
+-gạch ốp
+-kho
+-kho dự trữ
+-lượng dư
+-lượng kiểm kê
+-lượng tồn kho (dầu)
+-nguyên liệu
+-nguyên vật liệu
+-phôi
+-tay quay
+-thân
+-thước ngắm
+-tích lũy
+-trục
+-ụ ren
+-vật đúc chính
+-vật liệu
+-vốn
+@Lĩnh vực: xây dựng
+-bãi toa xe
+-bảo quản ở kho
+-gỗ cây
+-kho dự chữ
+-tích chữ
+@Lĩnh vực: toán & tin
+-cổ phần chứng khoán
+-kho dự trữ (hàng hóa)
+-sự dự trữ kho
+@Lĩnh vực: cơ khí & công trình
+-hàng dự trữ
+-xếp vào kho
+

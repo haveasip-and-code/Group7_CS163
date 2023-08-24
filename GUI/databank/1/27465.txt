@@ -1,16 +1,20 @@
-implicit	
-@implicit /im'plisit/
-*  tính từ
-- ngấm, ngấm ngầm; ẩn tàng=an implicit threat
-+ mối đe doạ ngầm
-- hoàn toàn tuyệt đối=implicit obedience
-+ sự tuân lệnh tuyệt đối
-- (toán học) ẩn=implicit function
-+ hàm ẩn
-@Chuyên ngành kinh tế
--hàm ẩn
--hàm súc
--ngầm chứa
+submerge
+	
+*  ngoại động từ
+- dìm xuống nước, nhận chìm xuống nước
+- làm ngập nước, làm lụt
+*  nội động từ
+- lặn (tàu ngầm...)
+!the submerged tenth
+- tầng lớp cùng khổ trong xã hội
 @Chuyên ngành kỹ thuật
--ẩn
--ngầm
+-chìm
+-chìm ngập
+-chìm xuống
+-làm chìm ngập
+-làm lụt
+-làm ngạt xuống nước
+-lặn
+@Lĩnh vực: xây dựng
+-dìm xuống nước
+

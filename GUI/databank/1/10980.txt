@@ -1,6 +1,20 @@
-conditions	
+overheating
+	
+* danh từ
+- (kỹ thuật) sự quá nhiệt; sự đun quá nóng
+= local overheating
++sự quá nhiệt cục bộ
+@Chuyên ngành kinh tế
+-tình trạng quá nóng
 @Chuyên ngành kỹ thuật
--điều kiện
--quy cách
-@Lĩnh vực: toán & tin
--các điều kiện
+-quá nhiệt
+-quá nóng
+-sự quá nhiệt
+-sự quá nóng
+@Lĩnh vực: cơ khí & công trình
+-đốt quá nóng
+@Lĩnh vực: xây dựng
+-sự nóng quá
+@Lĩnh vực: hóa học & vật liệu
+-sự quá
+

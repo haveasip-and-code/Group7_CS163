@@ -1,8 +1,5 @@
-connections	
-@Chuyên ngành kinh tế
--các mối quan hệ kinh doanh
-@Chuyên ngành kỹ thuật
--kết nối
-@Lĩnh vực: xây dựng
--các mối liên kết
--các nút ghép
+quizzer
+	
+* danh từ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người quay vấn đáp (học sinh)
+

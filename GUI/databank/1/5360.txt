@@ -1,8 +1,41 @@
-beton	
-@beton /'betən/
+probe
+	
 *  danh từ
-- bê tông
+- cái thông, cái que thăm (để dò vết thương...)
+- (vật lý) máy dò, cái dò, cực dò
+=sound probe
++ máy dò âm
+=electric probe
++ cực dò điện
+- (từ Mỹ,nghĩa Mỹ) sự thăm dò, sự điều tra
+*  ngoại động từ
+- dò (vết thương...) bằng que thăm
+- thăm dò, điều tra
 @Chuyên ngành kỹ thuật
--bê tông
+-bộ cảm biến
+-cái dò
+-đầu dò
+-đầu đo
+-đầu đọc
+-mẫu thử
+-máy dò
+-máy thăm dò
+-máy thử
+-que thăm
+-sự điều tra
+-sự dò
+-sự thăm dò
+-sự thí nghiệm
+-thăm dò
+@Lĩnh vực: ô tô
+-cái que đo
+@Lĩnh vực: cơ khí & công trình
+-cái thăm
+-máy thăm
 @Lĩnh vực: xây dựng
--bê tông lẫn phôi thép
+-dụng cụ dò
+@Lĩnh vực: điện tử & viễn thông
+-máy thám trắc
+@Lĩnh vực: điện
+-que thử
+

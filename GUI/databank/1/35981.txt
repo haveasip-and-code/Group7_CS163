@@ -1,6 +1,14 @@
-multiplet	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--nhóm bội
-@Lĩnh vực: điện lạnh
--mức bội
--vạch bội
+ashlar
+	
+*  danh từ
+- (kiến trúc) đá khối
+- vật xây bằng đá khối
+@Chuyên ngành kỹ thuật
+-đá chẻ
+-đá đẽo
+-đá hộc
+-đá khối
+-đá tảng
+@Lĩnh vực: xây dựng
+-đá hộc để xây
+

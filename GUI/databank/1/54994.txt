@@ -1,4 +1,5 @@
-swearer	@swearer /'sweərə/
+annotator
+	
 *  danh từ
-- người hay thề
-- người hay chửi rủa
+- người chú giải, người chú thích
+

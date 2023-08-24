@@ -1,3 +1,23 @@
-telocentric	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tâm xa
+interconnection
+	
+*  danh từ
+- quan hệ nối liền với nhau
+@Chuyên ngành kỹ thuật
+-liên kết
+-liên mạng
+-sự ghép
+-sự hợp mạng
+-sự kết nối
+-sự liên kết mạng
+-sự liên quan
+-sự nối
+-sự nối liền
+@Lĩnh vực: điện lạnh
+-sự hòa mạng
+-sự nối lẫn nhau
+-sự nối liên thông
+-sự nối thông
+@Lĩnh vực: toán & tin
+-sự liên kết lại
+-sự tương kết
+

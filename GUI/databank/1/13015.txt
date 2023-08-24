@@ -1,18 +1,46 @@
-cultivation	
-@cultivation /,kʌlti'veiʃn/
+baffle
+	
 *  danh từ
-- sự cày cấy, sự trồng trọt=land under cultivation
-+ đất đai đang được trồng trọt=extensive cultivation
-+ quảng canh=intensive cultivation
-+ thâm canh
-- sự dạy dỗ, sự mở mang, sự giáo hoá; sự trau dồi, sự tu dưỡng, sự nuôi dưỡng, sự bồi dưỡng (tình cảm...)
-@Chuyên ngành kinh tế
--khai khẩn
--sự canh tác
--sự cày cấy
--sự nuôi dưỡng
--sự trồng trọt
+- sự cản trở, sự trở ngại
+- (kỹ thuật) màng ngăn, vách ngăn
+- (kỹ thuật) cái báp, van đổi hướng
+*  ngoại động từ
+- làm trở ngại
+- làm hỏng, làm thất bại
+=to baffle a plan
++ làm thất bại một kế hoạch
+- làm sai lạc, làm rối, làm lạc hướng
+=baffling winds
++ gió đổi hướng luôn luôn
 @Chuyên ngành kỹ thuật
--canh tác
+-bộ làm lệch
+-bộ tiêu âm
+-bức chắn
+-làm đổi hướng
+-ngăn
+-ngưỡng hắt nước
+-màn chắn cộng hưởng
+-màng ngăn
+-tấm chắn
+-tấm chắn gió
+-tấm ngăn
+-tường ngăn
+-vách ngăn
+-van điều tiết
+-van đổi hướng
 @Lĩnh vực: xây dựng
--diện tích trồng trọt
+-bộ cản âm
+-bộ chuyển hướng
+-bừng
+-rào ngăn, tấm chắn
+-thiết bị tiêu năng
+@Lĩnh vực: y học
+-lá sách
+@Lĩnh vực: điện tử & viễn thông
+-ngưỡng phân dòng
+@Lĩnh vực: cơ khí & công trình
+-mố giảm sức
+-vách chắn gió
+@Lĩnh vực: điện lạnh
+-vách cách âm
+

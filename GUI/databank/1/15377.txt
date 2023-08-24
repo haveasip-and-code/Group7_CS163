@@ -1,8 +1,13 @@
-dihedron	
-@dihedron
-* danh từ
-- <toán> nhị diện
-@Chuyên ngành kỹ thuật
--góc nhị diện
-@Lĩnh vực: toán & tin
--nhị diện
+hymn
+	
+*  danh từ
+- bài thánh ca
+- bài hát ca tụng
+!national hymn
+- quốc ca
+*  ngoại động từ
+- hát ca tụng (Chúa...)
+- hát lên những lời ca ngợi, nói lên những lời tán tụng
+*  nội động từ
+- hát thánh ca
+

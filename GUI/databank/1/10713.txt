@@ -1,20 +1,5 @@
-completion	
-@completion /kəm'pli:ʃn/
-*  danh từ
-- sự hoàn thành, sự làm xong=near completion
-+ sự gần xong
-- sự làm cho hoàn toàn, sự làm cho đầy đủ
-@Chuyên ngành kinh tế
--hoàn thành
--sự hoàn tất
--sự làm xong
-@Chuyên ngành kỹ thuật
--hoàn tất
--sự bổ sung
--sự cải tiến
--sự hoàn thành
--sự hoàn thiện
--sự mở rộng
-@Lĩnh vực: cơ khí & công trình
--sự làm đủ
--sự làm trọn bộ
+synesthesia
+	
+* danh từ
+- xem synaesthesia
+

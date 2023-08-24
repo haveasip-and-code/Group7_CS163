@@ -1,9 +1,9 @@
-retrievable	@retrievable /ri'tri:vəbl/
-*  danh từ
-- có thể lấy lại được
-- có thể phục hồi được
-- có thể bù lại được (tổn thất); có thể sửa được (lỗi)
-- có thể nhớ lại được
+configurational
+	
+- xem configuration
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--phục hồi được
+-hình dạng
+-hình thể
+@Lĩnh vực: toán & tin
+-thuộc cấu hình
+

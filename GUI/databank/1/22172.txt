@@ -1,14 +1,7 @@
-fractional	
-@fractional /'frækʃənl/
-*  tính từ
-- (thuộc) phân số
-- (hoá học) phân đoạn=fractional distillation
-+ sự cắt phân đoạn
-- (thông tục) rất nhỏ bé, bé li ti
+upwind
+	
+* tính từ, adv
+- theo chiều gió đang thổi
 @Chuyên ngành kỹ thuật
--bộ phận
--đoạn
--một phần
--phần
--phân đoạn
--phân số
+-ngược gió
+

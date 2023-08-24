@@ -1,10 +1,15 @@
-starkness	@starkness
+extruder
+	
 * danh từ
-- sự khắc nghiệt; sự ảm đạm
-- bình dị, không tô điểm, thẳng thắn
-- (từ cổ, nghĩa cổ) cứng đờ, cứng nhắc
-- hoàn toàn; tuyệt đối; đích thực
-- <thơ> mạnh mẽ, quả quyết
-- <Mỹ> lộ rõ hẳn ra, nổi bật ra
-- <Mỹ> hoang vắng, trơ trụi
-- <Mỹ> trần như nhộng
+- (kỹ thuật) máy đúc ép; máy đùn (chất dẻo)
+@Chuyên ngành kinh tế
+-máy tạo hình bằng cách đùn
+@Chuyên ngành kỹ thuật
+-máy đúc ép
+-máy ép đùn
+-máy ép thúc
+@Chuyên ngành kỹ thuật
+-máy đúc ép
+-máy ép đùn
+-máy ép thúc
+

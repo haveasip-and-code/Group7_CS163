@@ -1,7 +1,27 @@
-dressed	
+tracer
+	
+*  danh từ
+- cái vạch
+- người vạch, người kẻ
+- (kỹ thuật) người đồ lại (một bức hoạ)
+- (pháp lý) người truy nguyên; người phát hiện
+- (như) tracer_element
 @Chuyên ngành kinh tế
--giữ tươi
--làm tươi
+-dấu vết
+-đường ray
+-đường sắt
+-phiếu tìm (cho một món đồ mất)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--được làm tươi
+-chất chỉ thị
+-mũi vạch dấu
+@Lĩnh vực: hóa học & vật liệu
+-chất dánh dấu
+@Lĩnh vực: toán & tin
+-đồ vết
+@Lĩnh vực: xây dựng
+-đồ viên
+@Lĩnh vực: y học
+-nguyên tố đánh dấu
+@Lĩnh vực: điện lạnh
+-vật đánh dấu
+

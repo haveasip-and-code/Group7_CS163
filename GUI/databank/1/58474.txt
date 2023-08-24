@@ -1,7 +1,6 @@
-ultra	@ultra /'ʌltrə/
-*  tính từ
-- cực, cực đoan, quá khích
-*  danh từ
-- người cực đoan, người quá khích
+accelerometer
+	
+- (Tech) máy đo gia tốc, gia tốc kế
 @Chuyên ngành kỹ thuật
--siêu
+-gia tốc kế
+

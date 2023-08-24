@@ -1,9 +1,15 @@
-holdings	
-@Chuyên ngành kinh tế
--cổ phần
--cổ quyền (cổ phiếu, trái khoán...)
--ruộng đất
--số cổ phiếu đang nắm giữ
--số cổ phiếu đang nắn giữ
--tài sản
--tài sản đất đai
+tabernacle
+	
+*  danh từ
+- rạp (để cúng lễ), nơi thờ cúng
+- tủ đựng bánh thánh (đặt trên bàn thờ)
+*  nội động từ
+- (nghĩa bóng) ở tạm thời
+*  ngoại động từ
+- (nghĩa bóng) che
+@Chuyên ngành kỹ thuật
+-nhà rạp (để cúng lễ)
+@Lĩnh vực: xây dựng
+-nơi thờ cúng
+-tủ để bánh thánh
+

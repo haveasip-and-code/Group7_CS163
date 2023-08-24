@@ -1,20 +1,5 @@
-reinstatement	@reinstatement /'ri:in'steitmənt/
-*  danh từ
-- sự phục hồi (chức vụ, quyền lợi); sự lấy lại (sức khoẻ)
-- sự sắp đặt lại (cho có thứ tự, quy củ)
-@Chuyên ngành kinh tế
--phục hồi
--phục nguyên
--sự khôi phục
--sự khôi phục, phục hồi nguyên trạng, tái lập
--sự lập bảo hiểm, bảo hiểm tiếp
--sự phục chức
--sự phục hồi nguyên trạng
--sự tái lập
-@Chuyên ngành kỹ thuật
--hồi phục
--sự khôi phục
--trở về
-@Lĩnh vực: điện tử & viễn thông
--sự hồi lại (trong công việc)
--sự nhập lại (trong công việc)
+bilabial
+	
+* danh từ
+- âm do hai môi nhập lại phát ra ((chẳng hạn b, m, p...))
+

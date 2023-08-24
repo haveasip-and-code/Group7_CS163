@@ -1,8 +1,6 @@
-contingencies	
-@Chuyên ngành kinh tế
--các điều kiện ngẫu nhiên
--các điều kiện tùy thuộc
--sự cố bất ngờ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--các sự ngẫu nhiên
+nonchalance
+	
+*  danh từ
+- tính thờ ơ, tính hờ hững, sự lânh đạm, sự vô tình
+- tính trễ nãi, tính sơ suất; sự không chú ý, sự không cẩn thận
+

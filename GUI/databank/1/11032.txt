@@ -1,11 +1,16 @@
-conference	
-@conference /'kɔnfərəns/
-*  danh từ
-- sự bàn bạc, sự hội ý
-- hội nghị
+encoder
+	
+- (Tech) bộ biên mã
 @Chuyên ngành kinh tế
--hiệp hội tàu chợ
--hội nghị
+-người lập mã (thông tin)
 @Chuyên ngành kỹ thuật
--hội nghị
--hội thảo
+-bộ lập mã
+-bộ mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-mã hóa viên
+@Chuyên ngành kỹ thuật
+-bộ lập mã
+-bộ mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-mã hóa viên
+

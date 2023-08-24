@@ -1,23 +1,6 @@
-launder	@launder /'lɔ:ndə/
-*  ngoại động từ
-- giặt là
-*  nội động từ
-- có thể giặt là được
-@Chuyên ngành kỹ thuật
--lỗ tháo
--lỗ tháo nước
--máng
--máng tiêu nước
--mương
--rãnh chuyển
-@Lĩnh vực: dệt may
--giặt là
-@Chuyên ngành kỹ thuật
--lỗ tháo
--lỗ tháo nước
--máng
--máng tiêu nước
--mương
--rãnh chuyển
-@Lĩnh vực: dệt may
--giặt là
+puggree
+	
+*  danh từ
+- khăn quàng đầu (Ân)
+- khăn che gáy (Ân)
+

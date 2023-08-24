@@ -1,7 +1,14 @@
-hooked	
-@hooked /'hukt/
-*  tính từ
-- có hình móc câu
-- có móc
-@Chuyên ngành kinh tế
--có hình móc câu
+enumeration
+	
+*  danh từ
+- sự đếm; sự kể; sự liệt kê
+- bản liệt kê
+@Chuyên ngành kỹ thuật
+-liệt kê
+-sự đếm
+-sự liệt kê
+@Chuyên ngành kỹ thuật
+-liệt kê
+-sự đếm
+-sự liệt kê
+

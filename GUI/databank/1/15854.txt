@@ -1,4 +1,16 @@
-disherit	
-@disherit /dis'herit/
-*  ngoại động từ
-- tước quyền thừa kế của ai
+user
+	
+*  danh từ
+- người dùng, người hay dùng
+=telephone user
++ người dùng dây nói
+@Chuyên ngành kinh tế
+-hộ sử dụng
+-người sử dụng
+@Chuyên ngành kỹ thuật
+-khách hàng
+-người dùng
+-người sử dụng
+-người thuê bao (mạng thông tin)
+-người tiêu thụ
+

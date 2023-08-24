@@ -1,5 +1,10 @@
-monophonic	@monophonic
-* tính từ
-- chỉ dùng một kênh âm thanh
+coherency
+	
+*  danh từ
+- sự gắn với nhau, sự dính với nhau; sự kết lại với nhau, sự cố kết
+- (văn học) tính mạch lạc, tính chặt chẽ
 @Chuyên ngành kỹ thuật
--đơn âm
+-dính
+-liền nhau
+-tính phù hợp
+

@@ -1,9 +1,17 @@
-primitiveness	@primitiveness
-* danh từ
-- tính nguyên thủy
-- tính thô sơ, sự cổ xưa
-- tính chất gốc (từ, mẫu)
-- <toán><địa> tính nguyên thủy
+droop
+	
+*  danh từ
+- dáng gục xuống, dáng cuối xuống, dáng rũ xuống
+- vẻ ủ rũ; sự chán nản
+- sự hạ giọng
+*  nội động từ
+- ngả xuống, rủ xuống; rũ xuống, gục xuống (vì mệt nhọc...)
+- nhìn xuống (mắt, đầu...)
+- (thơ ca) chìm xuống, lặn xế (mặt trời...)
+- ủ rũ; chán nản
+*  nội động từ
+- cúi, gục (đầu...) xuống
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tính nguyên thủy
+@Lĩnh vực: điện tử & viễn thông
+-độ chúc
+

@@ -1,8 +1,15 @@
-coagulability	
-@coagulability
-- xem coagulate
+watershed
+	
+*  danh từ
+- đường phân nước
+- lưu vực sông
+- dốc có nước chảy
 @Chuyên ngành kỹ thuật
+-đường chia nước
+-đường phân nước
+-lưu vực sông
 @Lĩnh vực: xây dựng
--khả năng đông tụ
-@Lĩnh vực: điện lạnh
--tính đông tụ
+-dốc có nước chảy
+-đường phân hủy
+-đường phân thủy
+

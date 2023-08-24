@@ -1,11 +1,10 @@
-connectivity	
-@connectivity
-- xem connective
+railhead
+	
+*  danh từ
+- (ngành đường sắt) nơi đường ray đã đặt đến (trên đường xe lửa đáng xây dựng)
+- (quân sự) ga tiếp tế
+@Chuyên ngành kinh tế
+-thư tốc hành hỏa xa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--khả năng ghép nối
--khả năng liên kết
--sự ghép nối
--sự liên kết
--tính ghép nối
--tính liên kết
+-ga đầu mối
+

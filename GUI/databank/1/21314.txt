@@ -1,36 +1,21 @@
-flashing	
-@flashing
-* danh từ
-- sự nung nóng từng đợt; sự tăng nhiệt độ từng đợt
-- (thủy lợi) sự dâng mức nước trong âu
-- tấm kim loại ngăn nước chảy từ mái xuống
+invest
+	
+*  ngoại động từ
+- đầu tư
+=to invest capital in some indertaking
++ đầu tư vốn vào một việc kinh doanh
+- trao (quyền) cho; dành (quyền) cho
+- khoác (áo...) cho, mặc (áo) cho
+- truyền cho (ai) (đức tính...)
+- làm lễ nhậm chức cho (ai)
+- (quân sự) bao vây, phong toả (một thành phố...)
+*  nội động từ
+- đầu tư vốn
 @Chuyên ngành kinh tế
--sự bay hơi nhanh
+-đầu tư
 @Chuyên ngành kỹ thuật
--chớp sáng
--lớp chống thấm
--lớp trét kín
--sự cách nước
--sự dâng nước
--sự loé sáng
--sự nhấp nháy
-@Lĩnh vực: điện
--chớp
--sự tỏa sáng
-@Lĩnh vực: xây dựng
--mái che tường
--tấm che khe nối
-@Chuyên ngành kỹ thuật
--chớp sáng
--lớp chống thấm
--lớp trét kín
--sự cách nước
--sự dâng nước
--sự loé sáng
--sự nhấp nháy
-@Lĩnh vực: điện
--chớp
--sự tỏa sáng
-@Lĩnh vực: xây dựng
--mái che tường
--tấm che khe nối
+-đầu tư
+@Lĩnh vực: toán & tin
+-góp (vốn)
+-hùn (vốn)
+

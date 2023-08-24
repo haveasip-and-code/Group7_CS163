@@ -1,19 +1,5 @@
-reuse	@reuse
-* ngoại động từ
-- dùng lại
-* danh từ
-- sự dùng lại; sự được dùng lại
-@Chuyên ngành kinh tế
--dùng lại
--sử dụng lại
--sự dùng lại
--sự sử dụng lại
--sự tái sử dụng
--tái sử dụng
-@Chuyên ngành kỹ thuật
--dùng lại
-@Lĩnh vực: toán & tin
--sử dụng lại
-@Lĩnh vực: xây dựng
--sự dùng lại
--tái dụng
+nicol
+	
+@Lĩnh vực: hóa học & vật liệu
+-nicon
+

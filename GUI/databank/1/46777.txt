@@ -1,7 +1,10 @@
-rentability	@rentability
+disinfestation
+	
 * danh từ
-- khả năng cho thuê, khả năng thu tô
+- sự tiêu diệt côn trùng hoặc sâu bọ
+@Chuyên ngành kinh tế
+-sự tiêu diệt côn trùng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--khả năng cho thuê
--sự sinh lợi
+@Lĩnh vực: y học
+-sự khử nhiễm côn trùng
+

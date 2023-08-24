@@ -1,7 +1,13 @@
-prosaic	@prosaic /prosaic/
-*  tính từ
-- như văn xuôi, có tính chất văn xuôi, nôm na
-- không có chất thơ, thiếu cái đẹp của chất thơ; không thơ mộng
-- tầm thường, dung tục; buồn tẻ, chán ngắt
-=a prosaic speaker+ người nói chán ngắt
-=a prosaic life+ cuộc sống tầm thường buồn tẻ
+pollute
+	
+*  ngoại động từ
+- làm ô uế, làm mất thiêng liêng
+- làm nhơ bẩn (nước...)
+- (nghĩa bóng) làm hư hỏng, làm sa đoạ
+@Chuyên ngành kinh tế
+-nhiễm bẩn
+@Chuyên ngành kỹ thuật
+-làm bẩn
+-làm nhiễm bẩn
+-làm ô nhiễm
+

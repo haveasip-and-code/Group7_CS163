@@ -1,9 +1,7 @@
-adjacency	
-@adjacency /ə'dʤeisəns/ (adjacency) /ə'dʤeisənsi/
-*  danh từ
-- sự gần kề, sự kế liền
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự kế cận
--sự liền kề
--tình trạng kế cận
+shrunken
+	
+*  tính từ
+- co lại, teo lại, quắt lại, tóp đi
+=face wears a shrunken look
++ mặt trông tọp hẳn đi
+

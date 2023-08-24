@@ -1,6 +1,5 @@
-pretreatment	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự công sơ bộ
-@Lĩnh vực: cơ khí & công trình
--sự gia công thô
--sự xử lý trước
+harmonica
+	
+*  danh từ
+- kèn acmônica
+

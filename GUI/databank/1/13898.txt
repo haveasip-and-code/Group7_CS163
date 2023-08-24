@@ -1,13 +1,9 @@
-decontaminate	
-@decontaminate /'di:kən'tæmineit/
-*  ngoại động từ
-- khử nhiễm, làm sạch
-@Chuyên ngành kỹ thuật
--khử nhiễm xạ
--khử ô nhiễm
--khử trùng
--làm sạch
-@Lĩnh vực: điện lạnh
--khử nhiễm
-@Lĩnh vực: điện tử & viễn thông
--khử nhiễu
+indigent
+	
+*  tính từ
+- nghèo khổ, bần cùng
+@Chuyên ngành kinh tế
+-bần cùng
+-nghèo khó
+-nghèo khổ
+

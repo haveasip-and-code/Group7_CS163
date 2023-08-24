@@ -1,10 +1,4 @@
-planetary	@planetary /'plænitəri/
-*  tính từ
-- (thuộc) hành tinh
-=planetary system+ hệ thống hành tinh
-- ở thế gian này, trần tục
-- đồng bóng, lúc thế này, lúc thế khác
-@Chuyên ngành kỹ thuật
--hành tinh
-@Lĩnh vực: vật lý
--thuộc hành tinh
+bridgeable
+	
+- xem bridge
+

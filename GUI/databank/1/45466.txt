@@ -1,14 +1,10 @@
-rainfall	@rainfall /'reinfɔ:l/
-*  danh từ
-- trận mưa rào
-- lượng mưa
+later
+	
+- chậm hơn
 @Chuyên ngành kỹ thuật
--bồn tiêu nước
--diện tích tiêu nước
--lượng mưa
--lưu vực sông
--mưa rào
--trận mưa
--vùng giáng thủy
--vùng mưa
--vùng thu nước
+@Lĩnh vực: toán & tin
+-chậm hơn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chậm hơn
+

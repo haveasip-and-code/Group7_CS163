@@ -1,24 +1,12 @@
-team	@team /ti:m/
+devotee
+	
 *  danh từ
-- cỗ (ngựa, trâu, bò...)
-- đội, tổ
-=a football team+ một đội bóng
-=team spirit+ tinh thần đồng đội
-*  ngoại động từ
-- thắng (ngựa...) vào xe
-- hợp ai thành đội, hợp lại thành tổ
-!to team up with somebody
-- (từ Mỹ,nghĩa Mỹ) hợp sức với ai
-@Chuyên ngành kinh tế
--chở hàng bằng xe tải
--đội
--ê-kíp
--tổ
-@Chuyên ngành kỹ thuật
--đội
--nhóm
--tổ
-@Lĩnh vực: xây dựng
--đội (công nhân)
-@Lĩnh vực: cơ khí & công trình
--tổ (công nhân)
+- người mộ đạo, người sùng đạo
+=a devotee to Buddhism
++ người sùng đạo Phật
+- người sốt sắng, người nhiệt tình, người hâm mộ, người say mê
+=a devotee to sports
++ người hâm mộ thể thao
+=a devotee to music
++ người say mê âm nhạc
+

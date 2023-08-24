@@ -1,4 +1,21 @@
-anticonvulsant	
+postulate
+	
+*  danh từ
+- (toán học) định đề
+= Euclid's postulate
++ định đề Ơ
+-clit
+- nguyên lý cơ bản
+*  ngoại động từ
+- yêu cầu, đòi hỏi
+- (toán học) đưa ra thành định đề, đặt thành định đề
+- coi như là đúng, mặc nhận
+- (tôn giáo) bổ nhiệm với điều kiện được cấp trên chuẩn y
+*  nội động từ
+- (
++ for) đặt điều kiện cho, quy định
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chống co giật
+-cho rằng
+-định đề
+-giả thiết
+

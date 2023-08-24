@@ -1,83 +1,11 @@
-discharge	
-@discharge /dis'tʃɑ:dʤ/
-*  danh từ
-- sự dỡ hàng, sự bốc dỡ (hàng)
-- sự nổ (súng), sự phóng ra, sự bắn ra (tên lửa, mũi tên...)
-- sự đuổi ra, sự thải hồi (người làm); sự tha, sự thả (người tù); sự cho ra, sự cho về (người bệnh); sự giải tán, sự giải ngũ (quân đội)=to get one's discharge
-+ bị đuổi ra, bị thải về
-- sự tuôn ra, sự tháo ra, sự tiết ra, sự bốc ra, sự đổ ra, sự chảy ra
-- sự chảy mủ
-- sự trả hết, sự thanh toán (nợ nần); sự làm xong, sự hoàn thành, sự thực hiên (nhiệm vụ...)
-- sự tẩy màu; thuốc tẩy màu, dung dịch tẩy màu
-- (kỹ thuật) sự phóng điện; sự tháo điện (ắc quy)
-- sự tha miễn, sự miễn trừ; (pháp lý) sự tuyên bố tha; giấy chứng nhận tha miễn, giấy chứng nhận miễn trừ
-*  ngoại động từ
-- dỡ (hàng); dỡ hàng (tàu thuỷ...)
-- nổ (súng); phóng (tên lửa...); bắn (mũi tên...)
-- đuổi ra, thải hồi (người làm), tha, thả (người tù); cho ra, cho về (người bệnh); giải tán, giải ngũ (quân đội)
-- tuôn ra, tháo ra, tiết ra, bốc ra, đổ ra, chảy ra=to discharge a torrent of abuse
-+ tuôn ra một tràng những lời chửi rủa, chửi tới tấp=chimney discharges smoke
-+ ống lò sưởi nhả khói ra=wound discharges matter
-+ vết thương chảy mủ=stream discharges itself into a river
-+ dòng suối đổ vào sông
-- trả hết, thanh toán (nợ nần); làm xong, hoàn thành (nhiệm vụ...)
-- làm phai (màu); tẩy (vải)
-- phục quyền (người vỡ nợ)
-- (kỹ thuật) tháo điện (ắc quy)
-- (pháp lý) huỷ bỏ (bản án)
+cum
+	
+*  giới từ
+- với, kể cả
+=cum dividend
++ kể cả tiền lời cổ phần
 @Chuyên ngành kinh tế
--dỡ hàng
--đổi xong (hối phiếu)
--giải trừ (trách nhiệm, nợ...cho ai)
--hoàn thành nghĩa vụ
--miễn
--sa thải (người làm)
--sự đuổi ra
--sự giải trừ (hợp đồng)
--sự tẩy màu
--tẩy màu
--thải hồi
--thanh toán nợ
--thanh toán xong (nợ)
--trả dứt (nợ)
-@Chuyên ngành kỹ thuật
--bốc dỡ
--công suất
--đẩy ra
--dỡ hàng
--dòng chảy
--dòng chảy thoát
--dòng xả
--giao
--hủy bỏ
--lưu lượng
--phế thải
--phóng (tên lửa)
--phóng điện
--sản lượng
--sự cất tải
--sự chảy
--sự chảy ra
--sự dỡ hàng
--sự dỡ tải
--sự phóng điện
--sự phun
--sự ra lò
--sự rót
--sự thải
--sự thải nước
--sự tháo
--sự tháo liệu
--sự tháo nước
--sự tháo rỡ
--sự tràn
--sự xả
--sự xả nước
--xả
-@Lĩnh vực: điện lạnh
--sự phóng điển
--trút tải
-@Lĩnh vực: điện
--sự tháo xả
-@Lĩnh vực: điện tử & viễn thông
--xả điện
+-bao gồm cả
+-kể cả
+-với, cùng với
+

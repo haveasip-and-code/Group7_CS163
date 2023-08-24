@@ -1,8 +1,5 @@
-mudguard	@mudguard /'mʌdlɑ:k/
-*  danh từ
-- cái chắn bùn
-@Chuyên ngành kỹ thuật
--tấm chắn bùn
--vè chắn bùn
-@Lĩnh vực: ô tô
--thanh cản va
+markings
+	
+-số doanh vụ trong ngày
+-tổng số doanh vụ một ngày
+

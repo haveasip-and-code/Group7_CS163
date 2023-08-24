@@ -1,7 +1,10 @@
-microprogram	@Chuyên ngành kinh tế
--vi chương trình
+bioengineering
+	
+*danh từ
+-  kỹ thuật sinh học, công nghệ sinh học
 @Chuyên ngành kỹ thuật
--vi chương trình
+@Lĩnh vực: hóa học & vật liệu
+-công nghệ sinh học
 @Lĩnh vực: toán & tin
--vi thủ tục
--vi thường trình
+-kỹ thuật sinh học
+

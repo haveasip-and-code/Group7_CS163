@@ -1,23 +1,7 @@
-append	
-@append /ə'pend/
-*  ngoại động từ
-- treo vào
-- cột vào, buộc vào, nối vào, chấp vào=to append something to another
-+ chấp vật gì với vật khác
-- gắn vào; viết thêm vào; đóng (dấu), áp (triện...); ký tên=to append one's signature to a document
-+ ký tên vào một văn kiện=to append a seal
-+ đóng dấu
-@Chuyên ngành kinh tế
--đóng (dấu)
--ký (tên)
--viết thêm vào
-@Chuyên ngành kỹ thuật
--chắp nối
--cột
--nối thêm
--treo
-@Lĩnh vực: toán & tin
--cộng thêm
--nối thêm dữ liệu
-@Lĩnh vực: xây dựng
--kết
+trophic
+	
+*  tính từ
+- dinh dưỡng
+=trophic nerves
++ thần kinh dinh dưỡng
+

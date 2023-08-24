@@ -1,6 +1,10 @@
-landfill	@Chuyên ngành kỹ thuật
--đắp đất
--đống rác thải
+randomness
+	
+* danh từ
+- tính chất bừa, tính chất ẩu
 @Chuyên ngành kỹ thuật
--đắp đất
--đống rác thải
+-sự hỗn độn
+-sự ngẫu nhiên
+@Lĩnh vực: toán & tin
+-tính ngẫu nhiên
+

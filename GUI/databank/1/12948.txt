@@ -1,19 +1,6 @@
-cubicle	
-@cubicle /'kju:bikl/
-*  danh từ
-- phòng ngủ nhỏ (ở bệnh viên, trường học...)
-@Chuyên ngành kỹ thuật
--buồng
--gian
--phòng cách ly
--tủ
-@Lĩnh vực: xây dựng
--buồng ngủ nhỏ
--buồng thay quần áo
-@Lĩnh vực: điện
--ngăn buồng
--tủ điện
-@Lĩnh vực: toán & tin
--phần dành riêng
--phân khu
--vùng
+anthologize
+	
+*  ngoại động từ
+- soạn thành hợp tuyển ((văn học),  (thơ ca))
+- xuất bản thành hợp tuyển ((văn học) (thơ ca))
+

@@ -1,31 +1,6 @@
-flexible	
-@flexible /flexible/
-*  tính từ
-- dẻo, mền dẻo, dễ uốn
-- dễ sai khiến, dễ thuyết phục, dễ uốn nắn
-- linh động, linh hoạt
-@Chuyên ngành kinh tế
--linh hoạt
--mềm dẻo
-@Chuyên ngành kỹ thuật
--dẻo
--độ uốn
--linh hoạt
--mềm
--mềm dẻo
--uốn được
-@Lĩnh vực: xây dựng
--đàn hồi được
-@Lĩnh vực: ô tô
--dễ uốn
-@Chuyên ngành kỹ thuật
--dẻo
--độ uốn
--linh hoạt
--mềm
--mềm dẻo
--uốn được
-@Lĩnh vực: xây dựng
--đàn hồi được
-@Lĩnh vực: ô tô
--dễ uốn
+grume
+	
+*  danh từ
+- chất dính nhớt, chất lầy nhầy
+- (y học) cục máu đông
+

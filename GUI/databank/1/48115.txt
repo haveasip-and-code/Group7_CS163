@@ -1,21 +1,7 @@
-royalty	@royalty /'rɔiəlti/
-*  danh từ
-- địa vị nhà vua; quyền hành nhà vua
-- ((thường) số nhiều) người trong hoàng tộc; hoàng thân
-- hoàng gia
-- (số nhiều) hoàng tộc; hoàng thân
-- hoàng gia
-- (số nhiều) đặc quyền đặc lợi của nhà vua
-- tiền bản quyền tác giả (theo từng cuốn sách bán ra; theo mỗi lần diễn lại một vở kịch...), tiền bản quyền phát minh (tiền phải trả để được sử dụng phát minh của người nào)
-- (sử học) tiền thuê mỏ (trả cho chủ đất)
-@Chuyên ngành kinh tế
--tiền bản quyền
--tiền bản quyền phát minh
--tiền nhuận bút
--tiền sử dụng bằng sáng chế
--tiền thuê mỏ
--tiền thuê mỏ (mà người khai thác phải trả cho chủ mỏ)
--tiền tô
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thuế khoáng nghiệp
+betide
+	
+*  (bất qui tắc) động từ betid
+- xảy đến, xảy ra
+=whatever [may] betide
++ dù có việc gì xảy ra
+

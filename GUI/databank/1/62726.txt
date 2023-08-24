@@ -1,44 +1,9 @@
-wet	@wet /wet/
-*  tính từ
-- ẩm; ướt, thấm nước, đẫm nước, đầm đìa
-=wet as a drowned rat+ ướt như chuột lột
-=to be wet to the skin; to be wet through+ ướt đẫm, ướt sạch
-=cheeeks are wet with tears+ má đầm đìa nước mắt
-- có mưa
-=wet season+ mùa mưa
-=it is going to be wet+ trời sắp mưa
-- (hội họa) chưa khô, còn ướt
-- (thông tục) say bí tỉ
-- (từ lóng) uỷ mị, ướt át, sướt mướt (tính tình, người)
-- (từ Mỹ,nghĩa Mỹ) không cấm bán rượu, không chủ trưng cấm rượu (người, thành phố, bang)
-!wet bargain
-- (xem) bargain
-!wet blanket
-- (xem) blanket
-*  danh từ
-- tình trạng ẩm ướt
-- mưa, trời mưa
-=come in out of the wet+ h y đi vào cho khỏi mưa
-- (từ lóng) ngụm nước nhấp giọng; cốc rượu
-=to have a wet+ uống cốc rượu
-- (từ Mỹ,nghĩa Mỹ) người phn đối sự cấm rượu
-*  ngoại động từ
-- làm ướt, thấm nước, dấp nước
-- đái vào, đái lên (trẻ con, chó...)
-=the baby has wetted its bed again+ đứa bé lại đái ướt giường rồi
-- uống rượu mừng
-=to wet a bargain+ uống rượu mừng một sự tho thuận mua bán
-!to wet one's whistle
-- (từ lóng) uống
-@Chuyên ngành kinh tế
--ẩm ướt
--lời ghi chú trên vận đơn
--tình trạng ẩm
+chlorinate
+	
+* động từ
+- khử trùng bằng clo
 @Chuyên ngành kỹ thuật
--làm ẩm
--làm ướt
--nhúng thiếc
--nhúng ướt
--mạ thiếc
-@Lĩnh vực: toán & tin
--ẩm, ướt, làm ướt
+@Lĩnh vực: hóa học & vật liệu
+-clo hóa
+-sản phẩm clo hóa
+

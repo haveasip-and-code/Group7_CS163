@@ -1,6 +1,5 @@
-vandalism	@vandalism /'vændəlizm/
-*  danh từ
-- tính hay phá hoại những công trình văn hoá (với ác tâm hay vì ngu dốt)
-@Chuyên ngành kinh tế
--phá phách bừa bãi
--tính phá hoại
+defenestrate
+	
+* ngoại động từ
+- vứt (người, đồ vật) qua cửa sổ
+

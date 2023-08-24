@@ -1,4 +1,8 @@
-algin	
+interferon
+	
+* danh từ
+- loại prôtêin do tế bào cơ thể sinh ra khi bị vírut tấn công, nhằm ngăn không cho virut phát triển
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--angin
+@Lĩnh vực: y học
+-một chất do các tế bào bị nhiễm vi rút sản sinh ra có khả năng ức chế tăng trưởng virút
+

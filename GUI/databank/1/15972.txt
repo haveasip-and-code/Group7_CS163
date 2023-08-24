@@ -1,39 +1,16 @@
-dispatch	
-@dispatch /dis'pætʃ/ (despatch) /dis'pætʃ/
+donor
+	
 *  danh từ
-- sự gửi đi (thư, thông điệp...); sự sai phái đi
-- sự đánh chết tươi, sự giết đi, sự khử, sự kết liễu cuộc đời=happy dispatch
-+ sự mổ bụng tự sát theo kiểu Nhật
--bản)
-- sự giải quyết nhanh gọn, sự làm gấp (một việc gì); sự khẩn trương, sự nhanh gọn=to do something with dispatch
-+ khẩn trương làm việc gì=the matter reqires dispatch
-+ vấn đề cần giải quyết khẩn trương
-- (ngoại giao) bản thông điệp, bản thông báo
-- hãng vận tải hàng hoá
-*  ngoại động từ
-- gửi đi (thư, thông điệp...); sai phái đi
-- đánh chết tươi, giết đi, khử, kết liễu cuộc đời (ai)
-- giải quyết nhanh gọn, làm gấp (việc gì)
-- ăn khẩn trương, ăn gấp (bữa cơm...)
-*  nội động từ
-- (từ cổ,nghĩa cổ) làm nhanh gọn, làm gấp
+- người cho, người tặng, người biếu; người quyên cúng
+=donor of blood
++ người cho máu
 @Chuyên ngành kinh tế
--công hàm
--công văn
--gửi hàng (không thuộc đường biển)
--làm gấp
--nhanh chóng
--sự gửi
--sự khẩn trương
+-người cho
+-người tặng
 @Chuyên ngành kỹ thuật
--chuyển đi
--điều độ
--điều phối
--gửi đi
--phát đi
-@Lĩnh vực: xây dựng
--khẩn phái
-@Lĩnh vực: hóa học & vật liệu
--phái đi
+-đono
+@Lĩnh vực: y học
+-người cho
 @Lĩnh vực: toán & tin
--truyền đi
+-phần tử cho
+

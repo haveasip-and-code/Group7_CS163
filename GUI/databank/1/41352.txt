@@ -1,6 +1,28 @@
-phototypesetting	@Chuyên ngành kinh tế
--sự sắp chữ bằng in chụp
+conditional
+	
+*  ngoại động từ
+- ước định, quy định
+- tuỳ thuộc vào, quyết định bởi
+=the size of the carpet is conditionaled by the area of the room
++ bề rộng của tấm thảm này tuỳ thuộc vào diện tích của gian phòng
+- là điều kiện của, cần thiết cho
+=the two things conditional each other
++ hai cái đó cần thiết lẫn cho nhau
+- (thương nghiệp) thử, kiểm tra phẩm chất (hàng hoá)
+- làm cho sung sức; chăm sóc cho khoẻ mạnh
+- (từ Mỹ,nghĩa Mỹ) dự kỳ thi vớt
+*  tính từ
+- có điều kiện
+- (ngôn ngữ học) (thuộc) điều kiện
+=conditional clause
++ mệnh đề điều kiện
+=conditional mood
++ lối điều kiện
+@Chuyên ngành kinh tế
+-có điều kiện
+-tùy thuộc vào
 @Chuyên ngành kỹ thuật
--sự chế bản phim
-@Lĩnh vực: toán & tin
--sự sắp chữ quang
+-điều kiện
+@Lĩnh vực: hóa học & vật liệu
+-được điều hòa
+

@@ -1,13 +1,8 @@
-exert	
-@exert /ig'zə:t/
-*  ngoại động từ
-- dùng, sử dụng (sức mạnh, ảnh hưởng...)=to exert oneself
-+ cố gắng, rán sức
-@Chuyên ngành kỹ thuật
--tác dụng
-@Lĩnh vực: vật lý
--gây ra (lực)
-@Chuyên ngành kỹ thuật
--tác dụng
-@Lĩnh vực: vật lý
--gây ra (lực)
+microscopical
+	
+*  tính từ
+- (thuộc) kính hiển vi; bằng kính hiển vi
+- rất nhỏ
+@Chuyên ngành kinh tế
+-kính hiển vi
+

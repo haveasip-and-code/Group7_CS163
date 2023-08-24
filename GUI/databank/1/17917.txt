@@ -1,12 +1,10 @@
-embossment	
-@embossment /im'bɔsmənt/
+penman
+	
 *  danh từ
-- sự chạm nổi, sự rập nổ, sự làm nổi
-@Chuyên ngành kỹ thuật
--sự chạm nổi
--sự dập nổi
--sự hàn nổi
-@Chuyên ngành kỹ thuật
--sự chạm nổi
--sự dập nổi
--sự hàn nổi
+- người viết
+=a good penman
++ người viết đẹp
+=a bad penman
++ người viết xấu
+- nhà văn, tác giả
+

@@ -1,6 +1,29 @@
-arciform	
-@arciform
-* tính từ
-- dạng cung
+inflate
+	
+*  ngoại động từ
+- thổi phồng, bơm phồng
+- làm tự mãn, tự túc, làm vênh váo
+- làm vui mừng
+- (kinh tế) lạm phát (tiền); gây lạm phát
+- tăng (giá) một cách giả tạo
+*  nội động từ
+- phồng lên, được thổi phồng
+@Chuyên ngành kinh tế
+-làm tăng (giá)
+-làm to ra
+-nở
+-phồng
 @Chuyên ngành kỹ thuật
--hình cung
+-bơm hơi
+@Lĩnh vực: xây dựng
+-bơm căng
+@Lĩnh vực: cơ khí & công trình
+-bơm hơi (ruột xe)
+@Lĩnh vực: vật lý
+-bơm phồng
+@Lĩnh vực: toán & tin
+-bung (tập tin nén)
+-thổi phồng
+@Lĩnh vực: hóa học & vật liệu
+-phồng lên được
+

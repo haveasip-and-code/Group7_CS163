@@ -1,20 +1,24 @@
-debris	
-@debris /'debri:/
+smear
+	
 *  danh từ
-- mảnh vỡ, mảnh vụn
-- vôi gạch đổ nát
+- đốm bẩn, vết bẩn
+- vết trải lên bàn kính (để soi kính hiển vi
+- chất để bôi bẩn
+- sự nói xấu, sự bôi nhọ; lời nói xấu
+*  động từ
+- làm vấy bẩn, làm đốm bẩn; làm hoen ố
+- làm mờ, làm tối (tranh vẽ...)
+- nói xấu, bôi nhọ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh bại, đánh gục hắn; chặn đứng
 @Chuyên ngành kinh tế
--mảnh vụn còn lại
--tàn tích
+-bôi
+-vết bôi
 @Chuyên ngành kỹ thuật
--đá không quặng
--đá vụn
--đống rác
--mảnh vỡ
--mảnh vụn
--rác xây dựng
-@Lĩnh vực: xây dựng
--đống đá vụn
--đống gạch vụn
-@Lĩnh vực: điện lạnh
--mảnh (vỡ)
+-bôi nhọ
+-vệt
+-vết bẩn
+@Lĩnh vực: y học
+-kính phết
+@Lĩnh vực: hóa học & vật liệu
+-vết ố
+

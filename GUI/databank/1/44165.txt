@@ -1,5 +1,115 @@
-proscribe	@proscribe
-* ngoại động từ
-- đặt (ai) ra ngoài vòng pháp luật
-- trục xuất, đày ải
-- cấm, bài trừ (việc dùng cái gì coi (như) nguy hiểm)
+part
+	
+*  danh từ
+- phần, bộ phận, tập (sách)
+=[a] great part of this story is true
++ phần lớn chuyện đó là đúng
+=[a] part of them have arrived
++ một số trong bọn họ đã đến
+=3 parts of sugar, 5 of flour
++ 3 phần đường, 5 phần bột
+=spare parts of a machine
++ phụ tùng của máy
+- bộ phận cơ thể
+=the [privy] parts
++ chỗ kín (bộ phận sinh dục)
+- phần việc, nhiệm vụ
+=I have done my part
++ tôi đã làm phần việc của tôi
+=it was not my part to interfere
++ tôi không có nhiệm vụ can thiệp vào
+=to have neither part nor lot in
++ không có dính dáng gì vào
+- vai, vai trò; lời nói của một vai kịch; bản chép lời của một vai kịch
+=her part was well
++ vai chị ấy đóng giỏi
+=they don't know their parts yet
++ họ không thuộc lời các vai của họ
+=to play an important part in the negotiations
++ giữ một vai quan trọng trong cuộc đàm phán
+=to play a part
++ (nghĩa bóng) đóng kịch, giả vờ
+- (số nhiều) nơi, vùng
+=I am a stranger in these parts
++ tôi là một người lạ trong vùng này
+- phía, bè
+=to take someone's part; to take part with someone
++ đứng về phía ai, về bè với ai, ủng hộ ai
+- (âm nhạc) bè
+- (từ cổ,nghĩa cổ) tài năng
+=a man of [good] part
++ một người có tài
+!for my part
+- về phần tôi
+!for the most part
+- phần lớn, phần nhiều
+!in part
+- một phần, phần nào
+!on one's part; on the part of
+- về phía
+=there was no objection on his part
++ anh ta không phản đối gì
+=he apologized on the part of his young brother
++ anh ấy xin lỗi hộ em anh ấy
+!part and parcel
+- (xem) parcel
+!part of speech
+- (ngôn ngữ học) loại từ
+!to take someething in good part
+- không chấp nhất điều gì; không phật ý về việc gì
+!to take part in
+- tham gia vào
+*  ngoại động từ
+- chia thành từng phần, chia làm đôi
+- rẽ ra, tách ra, tách làm đôi
+=to part the crowd
++ rẽ đám đông ra
+=to part one's hair
++ rẽ đường ngôi (tóc)
+- (từ cổ,nghĩa cổ) phân phối, chia phần (cái gì)
+*  nội động từ
+- rẽ ra, tách ra, đứt
+=the crowd parted anf let him through
++ đám đông rẽ ra cho anh ấy đi
+=the cord parted
++ thừng đứt ra
+- chia tay, từ biệt, ra đi
+=they parted in joy
++ họ hoan hỉ chia tay nhau
+=let us part friends
++ chúng ta hãy vui vẻ chia tay nhau
+=to part from (with) somebody
++ chia tay ai
+- chết
+- (
++ with) bỏ, lìa bỏ
+=to part with one's property
++ bỏ của cải
+!to part brass rags with somebody
+- (xem) brass
+!to part company with
+- cắt đắt quan hệ bầu bạn với
+*  phó từ
+- một phần
+=it is made part of iron and part of wood
++ cái đó làm một phần bằng sắt một phần bằng gỗ
+@Chuyên ngành kinh tế
+-bộ phận
+-phần
+@Chuyên ngành kỹ thuật
+-bộ phận
+-cấu kiện
+-chi tiết
+-chia phần
+-linh kiện
+-linh kiện bộ phận
+-một phần
+-phần
+-phụ tùng
+-tách ra
+-thành phần
+@Lĩnh vực: điện
+-bên (hợp đồng)
+@Lĩnh vực: toán & tin
+-chia thành phần
+

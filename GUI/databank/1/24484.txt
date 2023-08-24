@@ -1,14 +1,27 @@
-guaranty	
-@guaranty /'gærənti/
-*  danh từ (pháp lý)
-- sự bảo đảm, sự bảo lãnh
-- vật bảo đảm; giấy bảo đảm
-@Chuyên ngành kinh tế
--bảo đảm
--bảo lãnh
+cohesion
+	
+*  danh từ
+- sự dính liền, sự cố kết
+- (vật lý) lực cố kết
 @Chuyên ngành kỹ thuật
--sự bảo đảm
-@Lĩnh vực: hóa học & vật liệu
--giấy bảo đảm
--sự bảo lãnh
--vật bảo đảm
+-cố kết
+-dính kết
+-lực cố kết
+-lực dính
+-lực dính kết
+-lực liên kết
+-sự ăn khớp
+-sự cố kết
+-sự dính
+-sự dính kết
+-sự kết dính
+-sự kết hợp
+-sự liên kết
+-tính dính kết
+@Lĩnh vực: xây dựng
+-mức liên kết
+-sự bám chặt
+-sự/lực cố kết
+@Lĩnh vực: cơ khí & công trình
+-sự hàn vẩy
+

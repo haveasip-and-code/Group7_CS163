@@ -1,15 +1,5 @@
-cropper	
-@cropper /'krɔpə/
-*  danh từ
-- cây cho hoa lợi=a good (heavy) cropper
-+ cây cho nhiều hoa lợi=a light cropper
-+ cây cho ít hoa lợi
-- loại chim bồ câu to diều
-- người xén; máy xén
-- người tá điền, người làm rẽ, người lính canh
-- (từ lóng) sự ngã đau=to come a cropper
-+ ngã đau; thất bại nặng
-@Chuyên ngành kỹ thuật
--máy cắt
-@Lĩnh vực: cơ khí & công trình
--máy cắt thép
+perinatal
+	
+@Lĩnh vực: y học
+-chu kỳ sinh
+

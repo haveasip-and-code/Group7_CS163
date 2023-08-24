@@ -1,7 +1,31 @@
-deodorizer	
-@deodorizer /di:'oudərənt/ (deodorizer) /di:'oudəraizə/
+cascade
+	
 *  danh từ
-- chất khử mùi
-@Chuyên ngành kinh tế
--chất khử mùi
--thiết bị khử mùi
+- thác nước
+- (vật lý) tầng, đợt
+=distillation cascade
++ tầng cất
+=hard cascade
++ đợt cứng
+- màn ren treo rủ
+*  nội động từ
+- đổ xuống như thác, chảy như thác
+@Chuyên ngành kỹ thuật
+-bậc
+-chảy như thác
+-đợt
+-hàn từng đợt
+-nối
+-sắp xếp theo tầng
+-sự nối tầng
+-tăng
+@Lĩnh vực: xây dựng
+-bậc thác nước
+-ráp chồng
+@Lĩnh vực: điện
+-ghép từng tầng
+-tầng chồng
+@Lĩnh vực: toán & tin
+-tác động nối tiếp
+-xếp tầng
+

@@ -1,12 +1,5 @@
-snipe	@snipe /snaip/
-*  danh từ
-- (động vật học) chim dẽ giun
-- (quân sự) sự bắn tỉa; phát bắn tỉa
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đầu mẩu thuốc lá, đầu mẩu xì gà (hút còn thừa)
-*  nội động từ
-- đi săn dẽ giun
-- (quân sự) bắn tỉa
-*  ngoại động từ
-- (quân sự) bắn tỉa (quân địch...)
-@Chuyên ngành kinh tế
--chim rẽ giun
+disaggregation
+	
+-phân rã
+-tan rã
+

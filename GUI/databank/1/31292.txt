@@ -1,6 +1,32 @@
-lactalbumin	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--một protein có sữa với nồng độ thấp hơn casein
+periodical
+	
+*  tính từ ((cũng) periodic)
+- (thuộc) chu kỳ
+=periodical motion
++ chuyển động chu kỳ
+- định kỳ, thường kỳ
+- tuần hoàn
+=periodical law
++ định luật tuần hoàn
+=periodical table
++ bảng tuần hoàn nguyên tố Men
+-đe
+-lê
+-ép
+*  tính từ
+- xuất bản định kỳ (báo, tạp chí...)
+*  danh từ
+- tạo chí xuất bản định kỳ
+@Chuyên ngành kinh tế
+-ấn phẩm định kỳ
+-báo, tạp chí xuất bản định kỳ
+-có định kỳ
+-sách báo định kỳ
+-theo chu kỳ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--một protein có sữa với nồng độ thấp hơn casein
+-có chu kỳ
+-đều
+@Lĩnh vực: toán & tin
+-có chu kỳ, đều
+-tạp chí
+

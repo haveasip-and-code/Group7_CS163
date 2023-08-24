@@ -1,8 +1,5 @@
-lacunary	@Chuyên ngành kỹ thuật
--khuyết
-@Lĩnh vực: toán & tin
--hổng
-@Chuyên ngành kỹ thuật
--khuyết
-@Lĩnh vực: toán & tin
--hổng
+semiconducting
+	
+*  tính từ
+- (điện học) bán dẫn
+

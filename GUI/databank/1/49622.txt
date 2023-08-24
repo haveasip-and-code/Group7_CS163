@@ -1,4 +1,15 @@
-seismographic	@seismographic
-* tính từ
-- (thuộc) máy ghi địa chấn; (thuộc) ngành địa chấn học
-- được ghi bằng máy địa chấn
+rendezvous
+	
+*  danh từ
+- chỗ hẹn, nơi hẹn gặp
+- (quân sự) nơi quy định gặp nhau theo kế hoạch
+- cuộc gặp gỡ hẹn hò
+*  nội động từ
+- gặp nhau ở nơi hẹn
+@Chuyên ngành kỹ thuật
+-điểm gặp gỡ (của các tàu vũ trụ)
+-gặp gỡ
+-sự gặp gỡ
+@Lĩnh vực: điện tử & viễn thông
+-cuộc gặp (trong không gian)
+

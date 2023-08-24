@@ -1,13 +1,12 @@
-intangible	
-@intangible /in'tændʤəbl/
+wan
+	
 *  tính từ
-- không thể sờ thấy được
-- không thể hiểu thấu được, không thể nắm được, mơ hồ
-*  danh từ
-- vật không thể sờ thấy được
-- điều không thể hiểu thấu được, điều không thể nắm được, điều mơ hồ
-@Chuyên ngành kinh tế
--chi phí vô hình
+- xanh xao; nhợt nhạt, yếu ớt
+=a wan complexion
++ nước da xanh xao
+=a wan light
++ ánh sáng nhợt nhạt
+- uể oải, mệt mỏi, không thần sắc (người)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--không xác thực
+-mạng WAN
+

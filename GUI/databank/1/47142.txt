@@ -1,5 +1,4 @@
-resorption	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sự hấp thụ lại
-@Lĩnh vực: điện lạnh
--sự tái hấp thụ
+atomistically
+	
+- xem atomistic
+

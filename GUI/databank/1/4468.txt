@@ -1,11 +1,7 @@
-bagger	
-@bagger
-- xem bag
-@Chuyên ngành kinh tế
--máy đóng bao
-@Chuyên ngành kỹ thuật
--gầu
--máy đào đất
--máy hút bùn
-@Lĩnh vực: cơ khí & công trình
--thợ đóng bao
+eutherian
+	
+* danh từ
+- động vật có vú chính thức; động vật có nhau
+* tính từ
+- thuộc động vật có vú chính thức, động vật có nhau
+

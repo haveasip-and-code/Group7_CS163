@@ -1,11 +1,7 @@
-incremental	
-@incremental /,inkri'mentəl/
-*  tính từ
-- (thuộc) sự lớn lên
-- (thuộc) tiền lãi, (thuộc) tiền lời
-@Chuyên ngành kỹ thuật
--gia tăng
--số gia
--tăng
-@Lĩnh vực: toán & tin
--gia
+theatricals
+	
+*  danh từ số nhiều
+- các buổi biểu diễn (sân khấu)
+=private theatricals
++ các buổi biểu diễn nghiệp dư
+

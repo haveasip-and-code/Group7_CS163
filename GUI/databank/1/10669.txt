@@ -1,11 +1,4 @@
-compensating	
-@compensating
-- (Tech) làm bù trừ
-@Chuyên ngành kỹ thuật
--bể cân bằng
--bể điều tiết
--bù
--bù trừ
--sự bù
-@Lĩnh vực: cơ khí & công trình
--tự lựa
+taxes
+	
+-nộp thuế
+

@@ -1,17 +1,5 @@
-inclusive	
-@inclusive /in'klu:siv/
-*  tính từ
-- gồm cả, kể cả=a household of 7 persons, inclusive of the newly born child
-+ một hộ gồm 7 người kể cả em bé mới đẻ=from May 1st June 3rd inclusive
-+ từ mồng 1 tháng 5 đến mồng 3 tháng 6 kể cả hai ngày đó
-- tính toàn bộ, bao gồm tất cả các khoản=inclusive terms at a hotel
-+ giá thuê tính tất cả các khoản tại một khách sạn
-@Chuyên ngành kinh tế
--gồm cả
--kể cả
--trọn cả hai ngày
-@Chuyên ngành kỹ thuật
--bao gồm
--bao hàm
--chứa
--kể cả
+leafage
+	
+*  danh từ
+- bộ lá
+

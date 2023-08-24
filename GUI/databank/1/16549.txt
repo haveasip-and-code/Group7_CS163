@@ -1,37 +1,5 @@
-dot	
-@dot /dɔt/
-*  danh từ
-- của hồi môn
-*  danh từ
-- chấm nhỏ, điểm
-- (ngôn ngữ học) dấu chấm (trên chữ i,  j...); dấu chấm câu
-- (âm nhạc) chấm
-- đứa bé tí hon; vật nhỏ xíu=a dot of a child
-+ thằng bé tí hon!off one's dot
-- (từ lóng) ngu; tàng tàng, điên điên!on the dot
-- đúng giờ
-*  ngoại động từ
-- chấm, đánh dấu chấm (trên chữ i,  j...)=dotted line
-+ dòng chấm chấm=dotted quaver
-+ (âm nhạc) móc chấm
-- rải rác, lấm chấm=to dot all over
-+ rải rác lấm chấm khắp cả=sea dotred with ships
-+ mặt biển rải rác lấm chấn những con tàu
-- (từ lóng) đánh, nện=to dot someone one in the eye
-+ đánh cho ai một cái vào mắt!to dot the i's and cross the t's
-- đánh dấu chấm những chữ i và đánh dấu ngang những chữ t; bổ sung đầy đủ chi tiết làm cho nghĩa rõ ràng minh bạch!dot and carry one (two...)
-- viết... và nhớ một (hai...) (câu nói của các em nhỏ khi làm tính cộng)
-@Chuyên ngành kinh tế
--dấu chấm
-@Chuyên ngành kỹ thuật
--dấu chấm
--điểm
--đốm
--giá đốt
--giá nung
-@Lĩnh vực: xây dựng
--dấu chấm điểm
-@Lĩnh vực: toán & tin
--dot
-@Lĩnh vực: điện lạnh
--đot
+procarp
+	
+* danh từ
+- (thực vật học) thể quả cái
+

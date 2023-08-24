@@ -1,29 +1,5 @@
-washer	@washer /'wɔʃə/
-*  danh từ
-- người giặt, người rửa
-- máy giặt (quần áo); máy đãi (quặng)
-- giẻ rửa bát
-- (kỹ thuật) vòng đệm
-@Chuyên ngành kinh tế
--bể rửa
--mày rửa
--thùng rửa
-@Chuyên ngành kỹ thuật
--gioăng
--long đền
--máy giặt
--máy rửa
--miếng đệm
--tấm đệm
--tấm lót
--tháp rửa
--tháp rửa khí
--vật hình đĩa
--vòng đệm
--vòng đệm cao su
--vòng đệm dẹt
--vòng đệm hình xuyến
--vòng đệm kín
--vòng lót
-@Lĩnh vực: điện
--rông đen
+overconfidence
+	
+* danh từ
+- sự quá tin, cả tin
+

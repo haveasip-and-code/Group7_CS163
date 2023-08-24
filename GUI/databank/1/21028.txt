@@ -1,21 +1,8 @@
-filled	
-@Chuyên ngành kỹ thuật
--được thêm vào
--rải đầy
-@Lĩnh vực: hóa học & vật liệu
--đầy
-@Lĩnh vực: xây dựng
--được đổ ngập
--được làm đầy
--được lấp đầy
--được rót ngập
-@Chuyên ngành kỹ thuật
--được thêm vào
--rải đầy
-@Lĩnh vực: hóa học & vật liệu
--đầy
-@Lĩnh vực: xây dựng
--được đổ ngập
--được làm đầy
--được lấp đầy
--được rót ngập
+lemony
+	
+*  tính từ
+- có vị chanh, có chất chanh
+@Chuyên ngành kinh tế
+-có chất chanh
+-có vị chanh
+

@@ -1,18 +1,9 @@
-soot	@soot /sut/
+quince
+	
 *  danh từ
-- bồ hóng, muội, nhọ nồi
-*  ngoại động từ
-- phủ bồ hóng, phủ muội, phủ nhọ nồi
-@Chuyên ngành kỹ thuật
--bồ hóng
--đóng cáu
--mồ hóng
--muội
--muội đèn
--muội than
--phủ bồ hóng
-@Lĩnh vực: điện
--muội lò
-@Lĩnh vực: cơ khí & công trình
--phủ muội
--than cốc (trong dầu)
+- quả mộc qua
+- (thực vật học) cây mộc qua
+@Chuyên ngành kinh tế
+-cây mộc qua
+-quả mộc qua
+

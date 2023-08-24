@@ -1,8 +1,8 @@
-sophism	@sophism /'sɔfizm/
-*  danh từ
-- lối nguỵ biện
+procedural
+	
+*  tính từ
+- theo thủ tục
 @Chuyên ngành kỹ thuật
--ngụy biện
-@Lĩnh vực: toán & tin
--sự nguỵ biện
--sự ngụy biện
+-biện pháp
+-thủ tục
+

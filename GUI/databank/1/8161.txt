@@ -1,4 +1,31 @@
-casework	
-@casework
-* danh từ
-- sự nghiên cứu dựa trên nhóm đối tượng cụ thể
+freight
+	
+*  danh từ
+- việc chuyên chở hàng bằng đường thuỷ; (từ Mỹ,nghĩa Mỹ) việc chuyên chở hàng hoá (cả bằng đường bộ)
+- tiền cước chuyên chở
+- sự thuê tàu chuyên chở
+*  ngoại động từ
+- chất hàng xuống (tàu)
+- thuê (tàu) chuyên chở
+@Chuyên ngành kinh tế
+-cước chuyên chở
+-cước phí
+-cước vận chuyển đường thủy
+-hàng chở
+-hàng chuyên chở
+-hàng hóa
+-lợi nhuận chuyên chở
+-sự vận chuyển hàng hóa
+-việc chuyên chở
+@Chuyên ngành kỹ thuật
+-cước
+-hàng chuyên chở
+-sự vận chuyển
+-tải trọng
+@Lĩnh vực: cơ khí & công trình
+-cước chuyên chở
+@Lĩnh vực: xây dựng
+-hàng hóa
+-tàu hàng
+-thuế hàng hóa
+

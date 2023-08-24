@@ -1,72 +1,21 @@
-tag	@tag /tæ/
+stereoscope
+	
 *  danh từ
-- sắt bịt đầu (dây giày...)
-- mép khuy giày ủng
-- thẻ ghi tên và địa chỉ (buộc vào va li...)
-=price tag+ thẻ ghi giá tiền
-- mảnh (vải, giấy, da...) buộc lòng thòng
-- đầu (cái) đuôi (thú vật)
-- túm lông (trên lưng cừu)
-- (sân khấu) lời nói bế mạc
-- (nghĩa bóng) câu nói lặp đi lặp lại; câu nói sáo
-=old tag+ ngạn ngữ, tục ngữ
-- đoạn điệp (của bài hát), câu điệp (của bài thơ); vài hát nhai đi nhai lại
-- trò chơi đuổi bắt (của trẻ em)
-*  ngoại động từ
-- bịt đầu (dây giày...)
-- buộc thẻ ghi địa chỉ vào
-- buộc, khâu, đính
-=to tag together+ buộc vào (khâu vào, đính vào) với nhau
-=to tag something [on] to something+ buộc nối vật này vào vật khác
-- chạm phải, bắt (trong trò chơi đuổi bắt)
-- tìm vần, trau chuốt (bài thơ)
-- thêm lời nói bế mạc (sau buổi diễn)
-*  nội động từ
-- (+ after) theo lẽo đẽo, bám sát gót, theo như hình với bóng
-=he tagged after his mother+ nói cữ lẽo đẽo theo sau mẹ nó
-@Chuyên ngành kinh tế
--dán nhãn
--gắn nhãn (vào hàng...)
--khẩu hiệu (quảng cáo)
--lời kết thúc quảng cáo
--nhãn (giá...)
--nhãn hiệu
--tấm thẻ
+- kính nhìn nổi
 @Chuyên ngành kỹ thuật
--bùn xỉ
--cán
--cặn
--chuôi
--cờ
--dán nhãn
--danh hiệu
--đầu cáp
--ghi nhãn
--làm nhãn
--nhãn
--nhận dạng
--nhãn hàng
--mảnh
--miếng
--phù hiệu
--thẻ
--xỉ
-@Lĩnh vực: toán & tin
--báo hiệu bằng cờ
--báo hiệu bằng nhãn
--dán hiệu
--gắn thẻ
--ký tự nhận dạng
--tạo nhãn
--thẻ ghi nhãn
+-kính lập thể
+@Lĩnh vực: điện tử & viễn thông
+-kính nhìn
+-kính nổi
+@Lĩnh vực: điện lạnh
+-kính nhìn (ảnh) nổi
+@Lĩnh vực: vật lý
+-kính nhìn hình nổi
+-kính xem phim nổi
+@Lĩnh vực: hóa học & vật liệu
+-kính nhìn nổi
+@Lĩnh vực: y học
+-kính soi nổi
 @Lĩnh vực: xây dựng
--bít đầu dây
--dấu (hiệu)
--ê te két
-@Lĩnh vực: cơ khí & công trình
--chỗ kẹp (trên vật rèn)
--đầu bịt kim loại
--nhãn hiệu (máy)
-@Lĩnh vực: dệt may
--vòng kéo
--vòng khuyết
+-kính tập thể
+

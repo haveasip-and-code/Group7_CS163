@@ -1,27 +1,7 @@
-evaluation	
-@evaluation /i,vælju'eiʃn/
-*  danh từ
-- sự ước lượng
-- sự định giá
-@Chuyên ngành kinh tế
--đánh giá
--sự đánh giá
--sự định giá
--sự ước lượng
--ước lượng
-@Chuyên ngành kỹ thuật
--đánh giá
--sự đánh giá
--sự định giá
--sự tính
--sự ước lượng
--ước lượng
--ước tính
-@Chuyên ngành kỹ thuật
--đánh giá
--sự đánh giá
--sự định giá
--sự tính
--sự ước lượng
--ước lượng
--ước tính
+domiciliary
+	
+*  tính từ
+- (thuộc) nhà ở, (thuộc) nơi ở
+=domiciliary visit
++ sự khám nhà
+

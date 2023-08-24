@@ -1,5 +1,7 @@
-macromolecular	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--cao phân tử
-@Lĩnh vực: y học
--thuộc đại phân tử
+hallux
+	
+* danh từ; số nhiều halluces
+- tật quẹo ngón chân cái ra ngoài
+@Chuyên ngành kỹ thuật
+-ngón chân cái
+

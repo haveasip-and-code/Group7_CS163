@@ -1,7 +1,5 @@
-driftwood	
-@driftwood
-* danh từ
-- gỗ trôi giạt, củi rều
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--gỗ trôi dạt
+bakeshop
+	
+-hiệu bánh mỳ
+-lò bánh mỳ
+

@@ -1,8 +1,13 @@
-preselection	@preselection /,pri:si'lekʃn/
+nutriment
+	
 *  danh từ
-- sự chọn lựa trước
+- đồ ăn bổ, chất ăn bổ; chất dinh dưỡng
+@Chuyên ngành kinh tế
+-bổ
+-chất dinh dưỡng
+-chất nuôi dưỡng
+-dinh dưỡng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--sự chọn trước
-@Lĩnh vực: toán & tin
--sự lựa chọn trước
+@Lĩnh vực: y học
+-chất dinh dưỡng
+

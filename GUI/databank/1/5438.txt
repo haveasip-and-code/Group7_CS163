@@ -1,8 +1,41 @@
-biceps	
-@biceps /'baiseps/
+query
+	
 *  danh từ
-- (giải phẫu) có hai đầu
-- sự có bắp thịt nở nang
+- câu hỏi, câu chất vấn; thắc mắc
+- ((viết tắt),  qu.) thử hỏi, chẳng biết
+=query (qu.), has the letter been answered?
++ chẳng biết bức thư đó đã được trả lời hay chưa?
+- dấu chấm hỏi
+*  nội động từ
+- (
++ whether,  if) hỏi, hỏi xem, chất vấn
+- đặt câu hỏi; đánh dấu hỏi
+*  ngoại động từ
+- nghi ngờ, đặt vấn đề nghi ngờ, thắc mắc
+@Chuyên ngành kinh tế
+-câu hỏi vấn
+-chất vấn
+-đặt nghi vấn
+-đặt thành vấn đề
+-đặt vấn đề nghi ngờ
+-hỏi
+-nghi ngờ
+-nghi vấn
+-sự chất vấn
+-tuân vấn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--có hai đầu
+-hỏi
+-nghi vấn
+-sự hỏi
+-sự truy vấn
+-sự vấn tin
+-sự yêu cầu
+-truy vấn
+-yêu cầu
+@Lĩnh vực: toán & tin
+-câu hỏi
+-câu hỏi, truy vấn
+-hỏi đáp
+-lệnh hỏi
+-vấn tin
+

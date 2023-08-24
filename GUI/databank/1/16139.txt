@@ -1,6 +1,33 @@
-distaff	
-@distaff /'distɑ:f/
+passive
+	
+*  tính từ
+- bị động, thụ động
+=to remain passive
++ ở trong thế bị động
+- tiêu cực
+=passive resistance
++ sự kháng cự tiêu cực
+- (ngôn ngữ học) bị động
+=passive voice
++ dạng bị động
+- không phải trả lãi (nợ)
+=passive debt
++ nợ không phải trả lãi
 *  danh từ
-- (nghành dệt) con quay (để kéo sợi); búp sợi ở đầu con quay
-- (the distaff) đàn bà (nói chung), nữ giới; công việc của đàn bà!the distaff side
-- bên (họ) ngoại
+- (ngôn ngữ học) dạng bị động
+@Chuyên ngành kinh tế
+-tiền (thu nhập hay thua lỗ) thụ động
+@Chuyên ngành kỹ thuật
+-áp lực bị động
+-bị động
+-trơ
+-vô công
+@Lĩnh vực: toán & tin
+-không có phần trăm
+@Lĩnh vực: điện lạnh
+-không nguồn
+@Lĩnh vực: y học
+-thụ động, bị động
+@Lĩnh vực: điện
+-tính thụ động
+

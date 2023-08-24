@@ -1,8 +1,8 @@
-highlighter	
-@highlighter
-* danh từ
-- bút đánh dấu
-@Chuyên ngành kinh tế
--bút đánh dấu
-@Chuyên ngành kỹ thuật
--bút đánh dấu
+tempi
+	
+*  danh từ,  số nhiều tempos,  tempi
+- (âm nhạc) độ nhanh
+- nhịp, nhịp độ
+=at a quick tempo
++ với nhịp độ nhanh
+

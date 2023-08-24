@@ -1,19 +1,50 @@
-indicate	
-@indicate /'indikeit/
+produce
+	
+*  danh từ
+- sản lượng
+- sản vật, sản phẩm
+=agricultural (farm) produce
++ nông sản
+- kết quả
+=the produce of labour
++ kết quả lao động
+=the produce of efforts
++ kết quả của những cố gắng
 *  ngoại động từ
-- chỉ, cho biết, ra dấu=the signpost indicated the right road for us to follow
-+ tấm biển chỉ đường đã chỉ cho chúng tôi con đường đúng
-- tỏ ra, ra ý, ngụ ý, biểu lộ, biểu thị=his refusal indicated a warning
-+ sự từ chối của ông ta ngụ ý cảnh cáo
-- trình bày sơ qua, nói ngắn gọn=in his speech, he indicated that...
-+ trong bài nói, ông ta trình bày sơ qua là...
-- (y học) cần phải, đòi hỏi phải=some illnesses indicate radical treatment
-+ một vài thứ bệnh đòi hỏi phải trị tận gốc
+- trình ra, đưa ra, giơ ra
+=to produce one's ticket at the gate
++ trình vé ở cổng
+=to produce a play
++ trình diễn một vở kịch
+=to produce evidence
++ đưa ra chứng cớ
+- sản xuất, chế tạo
+=to produce good
++ sản xuất hàng hoá
+- viết ra (một cuốn sách); xuất bản (sách, phim...)
+- gây ra (một cảm giác...)
+- đem lại (kết quả...); sinh đẻ
+=to produce fruit
++ sinh quả, ra quả (cây)
+=to produce offspring
++ sinh con, đẻ con (thú vật)
+- (toán học) kéo dài (một đường thẳng...)
+@Chuyên ngành kinh tế
+-chế tạo
+-hàng hóa sản xuất
+-nông phẩm
+-nông sản phẩm
+-sản lượng
+-sản phẩm
+-sản vật
+-sản xuất
 @Chuyên ngành kỹ thuật
--báo
--chỉ
--chỉ báo
--chỉ dẫn
--chứng tỏ
+-điều chế
+-gây ra
+-kéo dài
+-sản xuất
+-sản xuất (chương trình)
+-sinh ra
 @Lĩnh vực: toán & tin
--chứng tỏ rằng
+-sản xuất, kéo dài
+

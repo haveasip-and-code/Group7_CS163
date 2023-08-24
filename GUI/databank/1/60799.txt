@@ -1,14 +1,106 @@
-unworkable	@unworkable /' n'w :k bl/
-*  tính từ
-- không thể làm được, không thể thực hiện được
-- không thể cho chạy được (máy móc); không thể khai thác được (mỏ...); khó lái (tàu)
+figure
+	
+*  danh từ
+- hình dáng
+=to keep one's figure
++ giữ được dáng người thon
+- (toán học) hình
+- hình ảnh, hình vẽ minh hoạ ((viết tắt) fig); vật tượng trưng, vật điển hình, vật giống
+- nhân vật
+=a person of figure
++ nhân vật nổi tiếng
+=an important figure
++ nhân vật quan trọng
+- sơ đồ
+- lá số tử vi
+=to cast a figure
++ lấy số tử vi
+- con số
+=double figures
++ những số gồm hai con số
+- (số nhiều) số học; sự tính toán bằng con số
+=to have a poor head for figures
++ rất dốt số học, rất dốt tính
+- số tiền
+=to get something at a low figure
++ mua cái gì rẻ
+=to get something at a high figure
++ mua cái gì đắt
+- (ngôn ngữ học) hình thái tu từ
+- (triết học) giả thiết
+- (âm nhạc) hình nhịp điệu
+- hình múa (trong điệu nhảy, trượt băng...)
+!a figure of fan
+- người lố lăng
+!to make (cut) a brilliant figure
+- gây cảm tưởng rất tốt; chói lọi
+!to make (cut) a poor figure
+- gây cảm tưởng xoàng
+*  ngoại động từ
+- hình dung, miêu tả (bằng sơ đồ, bằng nét vẽ); mường tượng, tưởng tượng
+=to figure something to oneself
++ tưởng tượng ra điều gì
+- tưởng tượng, làm điển hình cho
+- trang trí hình vẽ
+- đánh số, ghi giá
+*  nội động từ
+- tính toán
+=to figure out at 45d
++ tính ra là 45 đồng
+- có tên tuổi, có vai vế
+= Nguyen Van Troi figures in history
++ Nguyễn Văn Trỗi nay có tên trong lịch sử
+- làm tính
+!to figure as
+- được coi như là; đóng vai trò của
+!to figure on
+- trông đợi ở (cái gì)
+- tính toán
+!to figure out
+- tính toán
+- hiểu, quan niệm
+- đoán, tìm hiểu, luận ra
+!to figure up
+- tổng cộng, tính số lượng (cái gì)
+!I figure it like this
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) theo tôi hiểu điều đó là như thế này
 @Chuyên ngành kinh tế
--không thể khai thác
--không thể sử dụng
--không thể sử dụng, khai thác
--không thể thông thương
+-hình ảnh
+-hình dáng
 @Chuyên ngành kỹ thuật
--không sử dụng được
-@Lĩnh vực: xây dựng
--khó gia công
--không gia công được
+-ảnh ký tự
+-bản vẽ minh họa
+-biểu đồ
+-chữ số
+-đánh số
+-hệ số
+-hình
+-hình dáng
+-hình dạng
+-hình ký tự
+-hình minh họa
+-hình vẽ
+-ký hiệu
+-mặt ký tự
+-số
+-sơ đồ
+-sự đánh số
+@Chuyên ngành kỹ thuật
+-ảnh ký tự
+-bản vẽ minh họa
+-biểu đồ
+-chữ số
+-đánh số
+-hệ số
+-hình
+-hình dáng
+-hình dạng
+-hình ký tự
+-hình minh họa
+-hình vẽ
+-ký hiệu
+-mặt ký tự
+-số
+-sơ đồ
+-sự đánh số
+

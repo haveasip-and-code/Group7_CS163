@@ -1,18 +1,4 @@
-meat	@meat /mi:t/
-*  danh từ
-- thịt
-=flesh meat+ thịt tươi
-=to obstain from meat+ kiêng thịt, ăn chay
-- (từ cổ,nghĩa cổ) thức ăn (nói chung)
-=meat and drink+ thức ăn, thức uống
-!to be meat and drink to someone
-- làm cho ai khoái trá, làm cho ai vui thích
-!one man's meat is another man's poison
-- cái sướng cho người này là cái khổ cho người khác
-@Chuyên ngành kinh tế
--sản phẩm thịt
--thịt
--thịt (quả)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--thịt (quả)
+complementation
+	
+-sự bù
+

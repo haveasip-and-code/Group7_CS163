@@ -1,3 +1,11 @@
-overskirt	@overskirt
-* danh từ
-- quần ngoài
+convergent
+	
+*  danh từ
+- (vật lý); (toán học) hội tụ
+=convergent series
++ chuỗi hội tụ
+=convergent angle
++ góc hội tụ
+@Chuyên ngành kỹ thuật
+-hội tụ
+

@@ -1,9 +1,10 @@
-dispel	
-@dispel /dis'pel/
-*  ngoại động từ
-- xua đuổi đi, xua tan=to dispel apprehensions
-+ xua đuổi những mối sợ hãi=to dispel darkness
-+ xua tan bóng tối
+saltness
+	
+* danh từ
+- sự chứa vị muối, sự có vị muối; tình trạng có muối, tính mặn
+- tình trạng có hương vị của biển cả
+- sự sắc sảo; sự chua chát; sự sinh động, sự mạnh mẽ (về trí tuệ, lời nói )
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--xua tan
+@Lĩnh vực: điện lạnh
+-độ muối
+

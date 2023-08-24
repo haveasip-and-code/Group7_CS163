@@ -1,14 +1,12 @@
-defaulter	
-@defaulter /di'fɔ:ltə/
-*  danh từ
-- (pháp lý) người vắng mặt (không ra hầu toà)
-- (pháp lý) người không trả nợ được, người vỡ nợ; người không trả nợ đúng kỳ hạn
-- người tham ô, người thụt két, người biển thủ
-- (quân sự) lính phạm lỗi bị thi hành kỷ luật=defaulter sheet
-+ danh sách những người phạm lỗi bị thi hành kỷ luật
-- (thể dục,thể thao) người bỏ cuộc
-@Chuyên ngành kinh tế
--con nợ vi ước
--người không trả được nợ
--người vi ước
--người vỡ nợ
+distal
+	
+*  tính từ
+- (giải phẫu),  (thực vật học) ở xa điểm giữa; ngoại biên
+@Chuyên ngành kỹ thuật
+-đoạn xa, ở xa, về phía xa
+-ở rìa
+-ở xa nguồn
+-ở xa tâm
+@Lĩnh vực: toán & tin
+-viễn tâm
+

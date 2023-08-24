@@ -1,18 +1,19 @@
-propagate	@propagate /propagate/
-*  ngoại động từ
-- truyền giống, nhân giống (cây, thú...); truyền (bệnh...)
-- truyền lại (đức tính... từ thế hệ này sang thế hệ khác)
-- truyền bá, lan truyền
-=to propagate news+ lan truyền tin tức loan tin
-- (vật lý) truyền (âm thanh, ánh sáng...)
-=to propagate heast+ truyền nhiệt
-*  nội động từ
-- sinh sản, sinh sôi nảy nở
-=rabbits propagate rapidly+ thỏ sinh sôi nảy nở nhanh
-@Chuyên ngành kinh tế
--nảy nở
--nhân giống
--sinh sản
--truyền giống
+flaking
+	
+-sự làm nở
+-sự tạo cốm
 @Chuyên ngành kỹ thuật
--lan truyền
+-sự tạo vảy
+-sự tróc vảy
+@Lĩnh vực: giao thông & vận tải
+-gỉ trên ray
+@Lĩnh vực: hóa học & vật liệu
+-làm chất lỏng đóng băng
+@Chuyên ngành kỹ thuật
+-sự tạo vảy
+-sự tróc vảy
+@Lĩnh vực: giao thông & vận tải
+-gỉ trên ray
+@Lĩnh vực: hóa học & vật liệu
+-làm chất lỏng đóng băng
+

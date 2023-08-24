@@ -1,7 +1,11 @@
-taxon	@taxon
-* danh từ
-- số nhiều taxa
-- sự xếp nhóm, nhóm đã được phân loại, sự xếp loại
+monarchy
+	
+*  danh từ
+- nền quân chủ; chế độ quân chủ
+=constitutional monarchy
++ chế độ quân chủ lập hiến
+- nước (theo chế độ) quân ch
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--đơn vị phân loại
+@Lĩnh vực: xây dựng
+-quân chủ
+

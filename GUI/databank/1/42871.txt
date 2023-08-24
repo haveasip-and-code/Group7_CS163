@@ -1,44 +1,11 @@
-pour	@pour /pɔ:/
-*  ngoại động từ
-- rót, đổ, giội, trút
-=to pour coffee into cups+ rót cà phê vào tách
-=river pours itself into the sea+ sông đổ ra biển
-=to pour cold water on someone's enthusiasm+ (nghĩa bóng) giội gáo nước lạnh vào nhiệt tình của ai
-- (nghĩa bóng) thổ lộ, bộc lộ, trút ra
-=to pour one's sorrows into somebody's heart+ thổ lộ hết nỗi buồn với ai
-*  nội động từ
-- đổ, chảy tràn
-- ((thường) + down) mưa như trút
-=it is pouring; it is pouring down; it is pouring with rain+ mưa như trút
-!to pour forth
-- đổ ra, rót ra, làm chảy tràn ra; chảy tràn ra (nước...)
-- tuôn ra, phun ra (những lời chửi rủa...), trút ra (cơn giận...)
-- toả ra, làm lan ra (hương thơm...)
-- bắn (đạn) như mưa; đổ ra, lũ lượt (đám đông...)
-!to pour in
-- đổ vào, trào vào, đổ dồn về, trào về
-=letters pour in from all quarters+ thư từ khắp nơi dồn về tới tấp
-- lũ lượt đổ về (đám đông)
-!to pour out nh to pour forth to pour oil upon troubled waters
-- (nghĩa bóng) lấy lời lẽ nhẹ nhàng mà khuyên nhủ cho an tâm (mà làm nguôi cơn giận...)
-!it never rains but it pours
-- phúc bất trùng lai hoạ vô đơn chí
+intruder
+	
 *  danh từ
-- trận mưa như trút
-- mẻ chảy (mẻ gang, thép... chảy ở lò ra)
+- người vào bừa; người không mời mà đến (một nơi nào)
+- người xâm phạm, người xâm nhập (đời sống riêng tư của ai...)
+- (quân sự) máy bay xâm phạm (vùng trời, đối phương)
+- người bắt người khác phải chịu đựng mình
 @Chuyên ngành kỹ thuật
--chất đống
--chảy tràn
--đắp
--đổ
--đổ (bê tông)
--mưa như trút
--mưa rào
--rót
--sự đổ
--sự đúc
--sự rót
 @Lĩnh vực: xây dựng
--đổ nước
-@Lĩnh vực: hóa học & vật liệu
--sự trút xuống
+-xâm nhập viên
+

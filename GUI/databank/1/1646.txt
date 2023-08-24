@@ -1,11 +1,8 @@
-alnico	
-@alnico
-- (Tech) hợp kim alnico
+synovitis
+	
+*  danh từ
+- (y học) viêm màng hoạt dịch
 @Chuyên ngành kỹ thuật
--nhôm
-@Lĩnh vực: điện lạnh
--annico
-@Lĩnh vực: điện
--hợp kim alnico
-@Lĩnh vực: toán & tin
--hợp kim Alnio (sắt, nhôm, kền, bạch kim)
+@Lĩnh vực: y học
+-viêm màng hoạt dịch
+

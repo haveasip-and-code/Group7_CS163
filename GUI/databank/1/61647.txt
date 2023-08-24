@@ -1,15 +1,5 @@
-vestibule	@vestibule /'vestibjul/
-*  danh từ
-- (kiến trúc) phòng ngoài, tiền sảnh
-- cổng (nhà thờ)
-- đường đi qua, hành lang
-=vestibule car+ (từ Mỹ,nghĩa Mỹ) toa xe khách có hành lang
-=vestibule train+ (từ Mỹ,nghĩa Mỹ) xe lửa có hành lang (thông từ toa nọ sang toa kia)
-- (giải phẫu) tiền đình
-@Chuyên ngành kỹ thuật
--phòng đợi
--phòng ngoài
--tiền phòng
--tiền sảnh
-@Lĩnh vực: y học
--tiền đình
+bemoan
+	
+*  ngoại động từ
+- than khóc, nhớ tiếc (ai, cái gì)
+

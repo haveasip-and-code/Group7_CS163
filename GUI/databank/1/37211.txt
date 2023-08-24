@@ -1,3 +1,55 @@
-numerate	@numerate
-* tính từ
-- giỏi toán
+minute
+	
+*  danh từ
+- phút
+=to wait ten minutes
++ chờ mười phút
+- một lúc, một lát, một thời gian ngắn
+=wait a minute!
++ đợi một lát
+- (toán học) phút (1 thoành 0 của một độ)
+- (ngoại giao) giác the
+- (số nhiều) biên bản
+=the minutes of a meeting
++ biên bản của một cuộc họp
+!to the minute
+- đúng giờ
+=to leave at five o'clock to the minute
++ ra đi đúng lúc năm giờ
+!the minute
+- ngay khi
+=I'll tell him the minute [that] he gets here
++ tôi sẽ bảo hắn ngay khi hắn đến đây
+*  ngoại động từ
+- tính phút
+- thảo, viết; ghi chép
+=to minute something down
++ ghi chép việc gì
+- làm biên bản, ghi biên bản
+*  tính từ
+- nhỏ, vụn vặt
+=minute details
++ chi tiết nhỏ
+- kỹ lưỡng, chi ly, cặn kẽ, tỉ mỉ
+=a minute investigation
++ một cuộc điều tra kỹ lưỡng
+=a minute decription
++ sự miêu tả cặn kẽ
+@Chuyên ngành kinh tế
+-60 giây
+-biên bản
+-giác thư
+-phút
+@Chuyên ngành kỹ thuật
+-điểm qua
+-không đáng kể
+-nhỏ
+-phút
+@Lĩnh vực: vật lý
+-phút (góc)
+-phút (thời gian)
+@Lĩnh vực: cơ khí & công trình
+-tinh vi
+@Lĩnh vực: điện
+-vụn vặt
+

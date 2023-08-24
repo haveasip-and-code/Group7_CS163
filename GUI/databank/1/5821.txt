@@ -1,8 +1,6 @@
-blanketing	
-@Chuyên ngành kỹ thuật
--lớp phủ
--sự phủ
--vật liệu phủ
-@Lĩnh vực: hóa học & vật liệu
--sự làm cho trơ
--sự tạo lớp phủ
+vac
+	
+*  danh từ
+- (thông tục) (viết tắt) của vacation
+- (viết tắt) của vacuum_cleaner
+

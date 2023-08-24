@@ -1,10 +1,37 @@
-proximate	@proximate /proximate/
-*  tính từ
-- gần, gần nhất, sát gần
-- gần đúng, xấp xỉ
+gut
+	
+*  danh từ
+- ruột
+=small gut
++ ruột non
+=blind gut
++ ruột tịt
+- (số nhiều) ruột, lòng (thú vật)
+- sự can đảm, sự quyết tâm; (số nhiều) (thực vật học) sự gan góc, sự gan dạ, khí phách, tinh thần chịu đựng
+=a fellow full of gut
++ người can đảm gan góc
+- (số nhiều) (thông tục) cái bụng, cái thùng chứa (tượng trưng cho sự tham ăn, tham uống)
+- (số nhiều) (thông tục) nội dung chính, phần có giá trị (của cái gì)
+=guts of a speech
++ nội dung chính của bài nói
+- dây ruột mèo (dùng cho đàn viôlông); dây cước (để câu cá); chỉ khâu vết mổ
+- đường hẻm nhỏ; cửa hẹp (sông, biển)
+*  ngoại động từ
+- moi ruột (một con vật)
+=to gut a fish
++ moi ruột cá
+- phá huỷ bên trong
+=a house gutted by fire
++ ngôi nhà bị lửa thiêu sạch bên trong (chỉ còn bốn bức tường)
+- rút ruột, rút gan; rút hết tinh tuý (một cuốn sách)
+*  nội động từ
+- tọng, nốc cho đầy
+@Chuyên ngành kinh tế
+-bỏ ruột
+-moi ruột
+-ruột
 @Chuyên ngành kỹ thuật
--cạnh
--gần
--xấp xỉ
-@Lĩnh vực: toán & tin
--gần, cạnh
+-kênh
+-máng
+-ruột
+

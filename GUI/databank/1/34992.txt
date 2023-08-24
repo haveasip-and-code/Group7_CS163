@@ -1,19 +1,5 @@
-ministry	@ministry /'ministri/
-*  danh từ
-- Bộ
-=the Ministry of Foereign Trade+ bộ ngoại thương
-=the Ministry of National Defense+ bộ quốc phòng
-=the Foreign Ministry+ bộ ngoại giao
-- chính phủ nội các
-=to form a ministry+ thành lập chính phủ
-- chức bộ trưởng; nhiệm kỳ bộ trưởng
-- (tôn giáo) đoàn mục sư
-=to enter the ministry+ trở thành mục sư
-@Chuyên ngành kinh tế
--bộ
--chính phủ
--chức bộ trưởng
--nhiệm kỳ bộ trưởng
--nội các
-@Chuyên ngành kỹ thuật
--bộ
+hospitalize
+	
+*  ngoại động từ
+- đưa vào bệnh viện, nằm bệnh viện
+

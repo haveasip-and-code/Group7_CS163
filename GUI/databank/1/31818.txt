@@ -1,7 +1,12 @@
-leek	@leek /li:k/
-*  danh từ
-- tỏi tây
-!to eat (swallow) the leek
-- ngậm đắng nuốt cay, chịu nhục
-@Chuyên ngành kinh tế
--tỏi tây
+executable
+	
+*  tính từ
+- có thể thực hiện được, có thể thi hành được
+- có thể thể hiện được; có thể biểu diễn được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thực thi được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thực thi được
+

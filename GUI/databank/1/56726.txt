@@ -1,21 +1,5 @@
-timing	@timing /'taimiɳ/
-*  danh từ
-- sự chọn đúng lúc; sự tính toán thời gian; sự phối hợp thời gian; sự phối hợp thời gian
-- (thể dục,thể thao) sự bấm giờ
-- (kỹ thuật) sự điều chỉnh
-@Chuyên ngành kinh tế
--đo thời gian
--việc tính thời gian
-@Chuyên ngành kỹ thuật
--định thời
--quá trình
--sự điểm thời
--sự định thời
-@Lĩnh vực: điện tử & viễn thông
--định giờ
-@Lĩnh vực: ô tô
--sự cân chỉnh (thời điểm)
-@Lĩnh vực: hóa học & vật liệu
--sự đặt thời gian
-@Lĩnh vực: cơ khí & công trình
--thời chuẩn (việc đánh lửa)
+intergenerational
+	
+* tính từ
+- xảy ra hoặc tồn tại giữa hai hoặc nhiều thế hệ
+

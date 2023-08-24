@@ -1,47 +1,5 @@
-dust	
-@dust /dʌst/
-*  danh từ
-- bụi=gold dust
-+ bụi vàng=airborne dust
-+ bụi quyển khí=cosmic dust
-+ bụi vũ trụ
-- rác
-- (thực vật học) phấn hoa
-- (a dust) đám bụi mù=what a dust!
-+ bụi ghê quá!
-- đất đen ((nghĩa bóng))=to trample in the dust
-+ chà đạp xuống tận đất đen=to be humbled to (in) the dust
-+ bị làm nhục, bị vùi dập đến tận đất đen
-- xương tàn, tro tàn (người chết); cơ thể con người, con người
-- (từ lóng) tiền mặt!to bite the dust
-- bite dust and heat
-- gánh nặng của cuộc đấu tranh=to bear the dust and heat of the war
-+ gánh cái gánh năng của cuộc chiến tranh!to give the dust to somebody
-- (từ Mỹ,nghĩa Mỹ) cho ai hít bụi, vượt lên trước ai!in the dust
-- chết, về với cát bụi!to shake of the dust of one's feet
-- tức giận bỏ đi!to take somebody's dust
-- (từ Mỹ,nghĩa Mỹ) hít bụi của ai, chạy sau ai!to throw dust in somebody's eyes
-- loè ai
-*  ngoại động từ
-- rắc (bụi, phấn...)
-- quét bụi, phủi bụi
-- làm bụi
-*  nội động từ
-- tắm đất, vầy đất (gà, chim...)
-- quét bụi bàn ghế, phủi bụi bàn ghế, lau chùi bàn ghế!to dust the eyes of
-- lừa bịp (ai)!to dust someone's jacket
-- (xem) jacket
-@Chuyên ngành kinh tế
--bột
--bụi
--rắc
--tiền
-@Chuyên ngành kỹ thuật
--bột
--bụi
--bụi lò
--mạt
-@Lĩnh vực: điện
--bụi khói
-@Lĩnh vực: xây dựng
--quét bụi
+reran
+	
+* động từ
+- quá khứ của rerun
+

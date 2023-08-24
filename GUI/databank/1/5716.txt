@@ -1,5 +1,10 @@
-bitstock	
+uniaxial
+	
+*  tính từ
+- có một trục
 @Chuyên ngành kỹ thuật
--máy khoan tay
-@Lĩnh vực: cơ khí & công trình
--mũi khoan quay tay
+-đơn trục
+-một trục
+@Lĩnh vực: toán & tin
+-tính duy nhất
+

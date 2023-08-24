@@ -1,3 +1,31 @@
-prolegomena	@prolegomena /prolegomena/
-*  danh từ số nhiều
-- lời nói đầu, lời tựa, lời giới thiệu (một cuốn sách)
+detector
+	
+*  danh từ
+- người dò ra, người tìm ra, người khám phá ra, người phát hiện ra
+- máy dò
+=a mine detector
++ máy dò mìn
+- (rađiô) bộ tách sóng
+@Chuyên ngành kinh tế
+-bộ tách sóng
+-máy dò tìm
+-người dò tìm
+@Chuyên ngành kỹ thuật
+-bộ cảm biến
+-bộ chỉnh lưu
+-bộ dò
+-bộ dò tìm
+-bộ tách sóng
+-đầu dò
+-máy dò
+@Lĩnh vực: điện lạnh
+-bộ phận dò
+-đetectơ
+@Lĩnh vực: xây dựng
+-dụng cụ do
+@Lĩnh vực: y học
+-máy phát hiện
+-máy tách sóng
+@Lĩnh vực: điện
+-máy rò
+

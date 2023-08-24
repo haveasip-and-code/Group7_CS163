@@ -8,6 +8,8 @@
 #include "Form Login.hpp"
 #include "treebook test.hpp"
 
+extern MyFrame* dictionary;
+
 FormLogin::FormLogin(const wxString& title)
 : wxFrame((wxFrame *) NULL, wxID_ANY, title, wxPoint(wxID_ANY, wxID_ANY), wxSize(1200, 680),
 wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
@@ -219,7 +221,7 @@ void FormLogin::OnLogin(wxCommandEvent& event)
         {
             this->Close();
 
-            MyFrame* dictionary = new MyFrame();
+            dictionary = new MyFrame();
             int width, height;
             dictionary->GetSize(& width, & height);
             dictionary->SetSize(wxDefaultCoord, wxDefaultCoord, width, height);

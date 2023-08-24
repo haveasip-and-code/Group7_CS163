@@ -1,13 +1,7 @@
-aluminous	
-@aluminous /ə'lju:minəs/
-*  tính từ
-- (thuộc) phèn; có phèn
-- (thuộc) alumin; có alumin
-@Chuyên ngành kỹ thuật
--có phèn
--nhôm
--phèn
+multiunit
+	
+@Lĩnh vực: toán & tin
+-nhiều đơn vị
 @Lĩnh vực: hóa học & vật liệu
--có alumin
-@Lĩnh vực: xây dựng
--có chất phèn
+-nhiều thành phần
+

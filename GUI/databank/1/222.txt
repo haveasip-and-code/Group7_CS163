@@ -1,21 +1,10 @@
-absorptivity	
-@absorptivity /,æbsɔ:p'tiviti/
+separability
+	
 *  danh từ
-- khả năng hút thu
-@Chuyên ngành kinh tế
--hệ số hấp thụ
+- tính dễ tách; sự dễ phân ra
 @Chuyên ngành kỹ thuật
--độ hấp thụ
--hệ số hấp thụ
--khả năng hấp thụ
--khả năng hút thu
--năng suất hấp thụ
--sức hấp thụ
-@Lĩnh vực: điện tử & viễn thông
--đọ hấp thụ
-@Lĩnh vực: điện lạnh
--khả năng hấp phụ
+@Lĩnh vực: vật lý
+-tính khả tách
 @Lĩnh vực: toán & tin
--tính hấp thụ
-@Lĩnh vực: xây dựng
--tính hút thu
+-tính tách được
+

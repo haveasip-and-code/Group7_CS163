@@ -1,4 +1,10 @@
-cineole	
+tavern
+	
+*  danh từ
+- quán rượu
+- cửa hàng ăn uống
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--xineon
+-quán rượu
+@Lĩnh vực: xây dựng
+-quán trọ
+

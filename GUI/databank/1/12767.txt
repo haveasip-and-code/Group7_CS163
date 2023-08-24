@@ -1,7 +1,5 @@
-crosswalk	
-@crosswalk
-* danh từ
-- (từ Mỹ, nghĩa Mỹ) như pedestrian crossing
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--lối đi qua đường
+splashdown
+	
+@Lĩnh vực: điện tử & viễn thông
+-sự hạ xuống biển (của con tàu vũ trụ)
+

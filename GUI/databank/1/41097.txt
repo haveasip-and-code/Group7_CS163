@@ -1,7 +1,5 @@
-phenotype	@phenotype
-* danh từ
-- (sinh vật học) phenotip; kiểu hình
-- kiểu ngoại cảnh/ hiện tượng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--kiểu hình
+lithographer
+	
+*  danh từ
+- thợ in đá, thợ in thạch bản
+

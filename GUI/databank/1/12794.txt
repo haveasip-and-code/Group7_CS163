@@ -1,4 +1,50 @@
-crowkeeper	
-@crowkeeper
-* danh từ
-- bù nhìn chống chống chim
+vent
+	
+*  danh từ
+- lỗ, lỗ thông, lỗ thoát, lỗ thủng
+=the vent of a cask
++ lỗ thông hơi của cái thùng
+=vents of a flute
++ lỗ sáo
+=a vent through the dykes
++ lỗ thoát qua đê
+- (địa lý,địa chất) miệng phun
+=the vent of a valcano
++ miệng núi lửa
+- (động vật học) lỗ đít; huyệt
+- (kiến trúc) ống khói
+=the vent of a chimney
++ ống khói lò sưởi
+- sự ngoi lên mặt nước để thở (rái cá...)
+- (nghĩa bóng) lối thoát, cách bộc lộ (để cho hả)
+=to give vent to one's anger
++ trút nỗi giận dữ của mình
+*  ngoại động từ
+- mở lỗ thông; làm cho thông hơi
+=to vent a barrel
++ giùi lỗ thùng cho thông hơi
+- (nghĩa bóng) làm cho hả, trút
+=to vent one's hatred on the enemy
++ trút căm thù vào đầu địch
+*  nội động từ
+- (động vật học) ngoi lên để thở
+=the otter vents from time to time
++ thỉnh thoảng con rái cá ngoi lên để thở
+@Chuyên ngành kinh tế
+-lỗ
+-lỗ thoát
+-miệng phun
+@Chuyên ngành kỹ thuật
+-cửa (thông) gió
+-cửa thông gió
+-lỗ thoát
+-lỗ thông
+-lỗ thông gió
+-lỗ thông hơi
+-ống thông gió
+-ống thông hơi
+-thông hơi
+@Lĩnh vực: ô tô
+-cửa sổ thông khí
+-xả gió
+

@@ -1,14 +1,7 @@
-nappe	@nappe
+kitchenette
+	
 * danh từ
-- lớp phủ
-@Chuyên ngành kỹ thuật
--đập tràn
--lớp khí ngầm
--lớp nước ngầm
--lớp phủ
--lưỡi nước
--nếp phủ
--tầng nước ngầm
--tầng phủ
--vỉa
--vỏ
+- bếp nhỏ
+@Chuyên ngành kinh tế
+-phòng có bếp mini
+

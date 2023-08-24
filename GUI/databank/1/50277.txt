@@ -1,5 +1,18 @@
-sheeter	@sheeter
-* danh từ
-- máy cắt tấm
+propellant
+	
+*  tính từ
+- đẩy đi, đẩy tới
+*  danh từ
+- cái đẩy đi, máy đẩy tới
+- chất nổ đẩy đạn (để đẩy viên đạn đi)
 @Chuyên ngành kinh tế
--máy cán bột
+-chất bị đẩy đi
+-máy đẩy đi
+@Chuyên ngành kỹ thuật
+-nhiên liệu
+-nhiên liệu phản lực
+@Lĩnh vực: điện lạnh
+-chất đốt phản lực
+@Lĩnh vực: hóa học & vật liệu
+-chất nổ đẩy
+

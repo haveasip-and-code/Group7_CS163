@@ -1,19 +1,5 @@
-allowable	
-@allowable /ə'lauəbl/
-*  tính từ
-- có thể cho phép được
-- có thể thừa nhận, có thể công nhận, có thể chấp nhận
-@Chuyên ngành kinh tế
--có thể chấp nhận
--có thể cho phép
--có thể được cho phép
--có thể thừa nhận
--được miễn thuế
--hạn mức (sản xuất dầu hỏa)
-@Chuyên ngành kỹ thuật
--được phép
--thừa nhận được
-@Lĩnh vực: cơ khí & công trình
--cho phép (ứng suất)
-@Lĩnh vực: hóa học & vật liệu
--khả năng có thể
+gonococcus
+	
+@Lĩnh vực: y học
+-lậu cầu, tác nhân gây bệnh lậu
+

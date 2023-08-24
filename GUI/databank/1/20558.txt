@@ -1,21 +1,14 @@
-faulting	
-@Chuyên ngành kỹ thuật
--đứt gãy
--hỏng hóc
--hỏng hóc điện
--sự cố
--sự cố điện
-@Lĩnh vực: xây dựng
--sự tạo phay
-@Lĩnh vực: hóa học & vật liệu
--tạo đứt gãy
-@Chuyên ngành kỹ thuật
--đứt gãy
--hỏng hóc
--hỏng hóc điện
--sự cố
--sự cố điện
-@Lĩnh vực: xây dựng
--sự tạo phay
-@Lĩnh vực: hóa học & vật liệu
--tạo đứt gãy
+boned
+	
+*  tính từ
+- có xương ((thường) ở từ ghép)
+=brittle boned
++ có xương giòn
+- được gỡ xương
+=boned chicken
++ gà giò gỡ xương
+- có mép xương (cổ áo sơ mi...)
+@Chuyên ngành kinh tế
+-có xương
+-được gỡ xương
+

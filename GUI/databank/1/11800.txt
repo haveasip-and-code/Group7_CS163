@@ -1,5 +1,24 @@
-coordinator	
-@coordinator
-- (Tech) điều hợp viên
-@Chuyên ngành kinh tế
--người phối hợp
+silent
+	
+*  tính từ
+- không nói, ít nói, làm thinh
+=the report is silent on that point
++ bản báo cáo không nói gì về điểm đó
+=a silent man
++ người ít nói
+=to keep silent
++ cứ làm thinh
+- yên lặng, yên tĩnh, tĩnh mịch, thanh vắng
+=silent night
++ đêm thanh vắng
+- câm, không nói
+=silentletter
++ chữ câm
+=silent film
++ phim câm
+@Chuyên ngành kỹ thuật
+-êm
+-không ồn
+@Lĩnh vực: điện lạnh
+-im (lặng)
+

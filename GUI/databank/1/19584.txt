@@ -1,3 +1,9 @@
-exclusion	
-@exclusion
-- sự loại trừ
+transuranium
+	
+* danh từ
+- nguyên tố siêu urani
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-siêu urani
+-vượt urani
+

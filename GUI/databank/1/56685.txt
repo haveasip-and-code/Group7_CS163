@@ -1,42 +1,4 @@
-tile	@tile /tail/
-*  danh từ
-- ngói (để lợp nhà)
-- đá lát; ca rôi, gạch vuông
--(thân mật) mũ chóp cao
-!to have a tile loose
-- (xem) loose
-!on the tiles
-- (nghĩa bóng) đang trác táng
-*  ngoại động từ
-- lợp ngói
-- lát đá; lát gạch vuông
-=tiled floor+ sàn lát gạch vuông
-- bắt phải giữ bí mật
-@Chuyên ngành kỹ thuật
--gạch
--gạch chịu nhiệt
--gạch lá nem
--gạch lát
--gạch tráng men
--gạch vuông
--lát
--lát gạch
--lợp
--lợp ngói
--ngói
--ống sành
--tấm
--tấm lát
--tấm ốp
-@Lĩnh vực: xây dựng
--gạch gốm (để lát)
--gạch nát
--lát gạch men
--lát gạch vuông
--lợp (mái)
--ngói, đá lát
--ốp (bằng gạch ốp tường)
-@Lĩnh vực: toán & tin
--kiểu xếp cạnh nhau
--kiểu xếp ngói
--sắp xếp cạnh nhau
+acquirer
+	
+- xem acquire
+

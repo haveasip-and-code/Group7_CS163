@@ -1,8 +1,69 @@
-odorous	@odorous /'oudərəs/
-*  tính từ
-- (thơ ca) (như) odoriferous
+haul
+	
+*  danh từ
+- sự kéo mạnh; đoạn đường kéo
+=a long haul
++ sự kéo trên một đoạn đường dài
+- (ngành mỏ) sự đẩy goòng
+- sự chuyên chở hàng (bằng xe vận tải); khối lượng chuyên chở
+- (nghĩa bóng) mẻ lưới; món lâi, món kiếm được, mẻ vớ được
+=a good haul of fish
++ một mẻ lưới đầy cá
+*  ngoại động từ
+- kéo mạnh, lôi mạnh
+- (ngành mỏ) đẩy (goòng than)
+- chuyên chở (hàng hoá... bằng xe vận tải)
+- (hàng hải) đổi hướng đi (của tàu)
+*  nội động từ
+- (
++ at,  upon) kéo mạnh, lôi mạnh
+=to haul at a rope
++ kéo mạnh cái dây thừng
+- (ngành mỏ) đẩy (goòng than)
+- (hàng hải) xoay hướng
+=to haul upon the wind
++ xoay hướng đi theo chiều gió
+- đổi chiều (gió)
+=the wind hauls from north to west
++ gió đổi chiều từ bắc sang tây
+!to haul off
+- (hàng hải) xoay hướng, chuyển hướng tàu
+- rút lui
+- (thông tục) rút tay về trước khi đánh trúng, chuẩn bị đấm
+!to haul down one's flag
+- đầu hàng
+!to haul somebody over the coals
+- (xem) coal
 @Chuyên ngành kinh tế
--có mùi thơm
--tỏa mùi thơm
+-chuyên chở (hàng hóa) bằng xe tải
+-cước phí vận tải đường bộ
+-dắt
+-đoạn đường, lộ trình phải đi
+-giòng
+-kéo
+-mẻ lưới
+-mẻ lưới (số lượng cá đánh được một lần vào lưới)
+-quãng đường
+-sự chuyên chở (bằng xe tải)
+-vận tải đường bộ
 @Chuyên ngành kỹ thuật
--có mùi
+-chuyển tải
+-kéo
+-khối lượng chuyên chở
+-lộ trình
+-lôi đi
+-lôi tải
+-quăng lưới
+-sự chuyên chở
+@Lĩnh vực: giao thông & vận tải
+-kéo đi
+-thay đổi hướng
+@Lĩnh vực: xây dựng
+-kéo tải
+-khiên
+@Lĩnh vực: hóa học & vật liệu
+-sự kéo mạnh
+-sự lôi
+@Lĩnh vực: cơ khí & công trình
+-sự kéo xe
+

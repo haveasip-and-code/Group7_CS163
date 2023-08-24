@@ -1,14 +1,5 @@
-pint	@pint /paint/
-*  danh từ
-- Panh (đơn vị đo lường bằng 0, 57 lít ở Mỹ)
-@Chuyên ngành kinh tế
--panh, đơn vị đo lường chất lỏng và chất khô
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đơn vị đo chất lỏng (0150)
-@Lĩnh vực: cơ khí & công trình
--gần nửa lít
-@Lĩnh vực: hóa học & vật liệu
--pin (đơn vị đo lường)
-@Lĩnh vực: điện
--pintơ (0, 568 lit)
+epiphenomena
+	
+*  danh từ,  số nhiều epiphenomena
+- (y học); (triết học) hiện tượng phụ
+

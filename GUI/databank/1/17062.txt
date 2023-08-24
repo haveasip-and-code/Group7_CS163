@@ -1,15 +1,7 @@
-durst	
-@durst /deə/
-*  danh từ
-- sự dám làm
-- sự thách thức=to take a dare
-+ nhận lời thách
-*  ngoại động từ (dared,  durst; dared)
-- dám, dám đương đầu với=he did not dare to come; he dared not come
-+ nó không dám đến=how dare you speak like this?
-+ tại sao anh dám nói như vậy?=to dare any danger
-+ dám đương đầu với bất cứ nguy hiểm nào
-- thách=I dare you to do it
-+ tôi thách anh làm điều đó!I dare say
-- tôi dám chắc!I dare swear
-- tôi dám chắc là như vậy
+exportable
+	
+*  tính từ
+- có thể xuất khẩu
+@Chuyên ngành kinh tế
+-có thể xuất khẩu
+

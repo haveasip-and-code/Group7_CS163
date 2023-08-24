@@ -1,27 +1,11 @@
-hardening	
-@hardening
-* danh từ
-- một cái gì rắn lại
-- (y học) bệnh xơ cứng= hardening of the arteries
-+bệnh xơ cứng động mạch
-@Chuyên ngành kinh tế
--sự cứng lại
--sự hiđrogen hóa
--sự rắn lại
--sự vững (giá)
+pidgin
+	
+*  danh từ
+- pidgin English tiếng Anh "bồi"
+- (thông tục) việc riêng (của ai)
+=that's not my pidgin
++ đó không phải là việc của tôi
 @Chuyên ngành kỹ thuật
--sự củng cố
--sự cứng lại
--sự đông cứng
--sự đông đặc
--sự hóa cứng
--sự hóa rắn
--sự làm cứng
--sự tăng bền
--sự tăng cường
--sự tôi
--sự tôi cứng
-@Lĩnh vực: hóa học & vật liệu
--sự biến cứng
 @Lĩnh vực: xây dựng
--sự khô cứng
+-tiếng bồi
+

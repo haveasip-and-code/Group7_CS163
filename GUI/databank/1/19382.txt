@@ -1,30 +1,7 @@
-evaporation	
-@evaporation /i,væpə'reiʃn/
-*  danh từ
-- sự làm bay hơi, sự bay hơi
-- sự làm khô
-@Chuyên ngành kinh tế
--sự bay hơi
--sự làm bay hơi
-@Chuyên ngành kỹ thuật
--bay hơi
--bốc hơi
--cô
--làm bay hơi
--lượng bốc hơi
--sự bay hơi
--sự bốc hơi
--sự hóa hơi
-@Lĩnh vực: hóa học & vật liệu
--hay hơi
-@Chuyên ngành kỹ thuật
--bay hơi
--bốc hơi
--cô
--làm bay hơi
--lượng bốc hơi
--sự bay hơi
--sự bốc hơi
--sự hóa hơi
-@Lĩnh vực: hóa học & vật liệu
--hay hơi
+rehandling
+	
+-sự bao gói lại
+-sự chế biến lại
+-sự sửa lại
+-sự tái xử lý
+

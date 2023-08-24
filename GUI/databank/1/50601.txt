@@ -1,25 +1,6 @@
-sick	@sick /sik/
-*  tính từ
-- ốm, đau; ốm yếu; (từ Mỹ,nghĩa Mỹ) khó ở, thấy kinh
-=a sick man+ người ốm
-=to be sick of a fever+ bị sốt
-=to be sick of love+ ốm tương tư
-- buồn nôn
-=to feel (turn) sick+ buồn nôn, thấy lợm giọng
-=to be sick+ nôn
-- (hàng hải) cần sửa lại, cần chữa lại
-!sick [and tried] of
-!sick to death of
-- (thông tục) chán, ngán, ngấy
-=to be sick of doing the same work+ chán ngấy vì cứ làm mãi một công việc
-!sick at (about)
-- (thông tục) đau khổ, ân hận
-=to be sick at failing to pass the examination+ đau khổ vì thi trượt
-!sick for
-- nhớ
-=to be sick for home+ nhớ nhà, nhớ quê hương
-*  ngoại động từ
-- xuýt (chó) ((thường), (mỉa mai) để ra lệnh cho chó săn)
-=sick him!+ sục đi!
-@Chuyên ngành kỹ thuật
--bệnh
+banneret
+	
+* danh từ
+- (thường) viết hoa hiệp sĩ được trao nhiệm vụ dẫn quân xung trận dưới lá cờ của mình
+- lá cờ nhỏ
+

@@ -1,14 +1,8 @@
-inherit	
-@inherit /in'herit/
-*  ngoại động từ
-- hưởng, thừa hưởng, thừa kế
-*  nội động từ
-- là người thừa kế
-@Chuyên ngành kinh tế
--kế thừa
--thừa kế
-@Chuyên ngành kỹ thuật
--di truyền
--kế thừa
-@Lĩnh vực: toán & tin
--kế tục
+countercurrent
+	
+-đối lưu
+-dòng ngược
+@Lĩnh vực: điện
+-dòng điện ngược
+-ngược dòng
+

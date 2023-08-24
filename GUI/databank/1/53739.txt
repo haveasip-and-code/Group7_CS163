@@ -1,10 +1,11 @@
-stringent	@stringent /'stridʤənt/
-*  tính từ
-- chính xác, nghiêm ngặt, chặt chẽ (nội quy, luật pháp...)
-- (tài chính) khan hiếm (tiền); khó làm ăn
-@Chuyên ngành kinh tế
--khan hiếm (tiền)
--thiếu hàng (để bán)
--thiếu tiền (để mua)
+roughage
+	
+*  danh từ
+- thức ăn thô (cho vật nuôi)
+- chất xơ (không tiêu hoá được, chỉ có tác dụng cơ học đối với ruột)
 @Chuyên ngành kỹ thuật
--ngặt
+-xơ cho ăn kiêng
+-xơ thô
+@Lĩnh vực: y học
+-chất không tiêu được
+

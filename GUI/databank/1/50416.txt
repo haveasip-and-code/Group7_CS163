@@ -1,27 +1,59 @@
-shoal	@shoal /ʃoul/
+outside
+	
+*  danh từ
+- bề ngoài, bên ngoài
+=to open the door from the outside
++ mở cửa từ bên ngoài
+- thế giới bên ngoài
+- hành khách ngồi phía ngoài
+- (số nhiều) những tờ giấy ngoài (của một ram giấy)
+!at the outside
+- nhiều nhất là, tối đa là
+=it is four kilometers at the outside
++ nhiều nhất là 4 kilômét
+*  phó từ
+- ở phía ngoài; ở ngoài trời; ở ngoài biển khơi
+=put these flowers outside
++ hây để những bông hoa này ra ngoài (phòng)
+!come outside
+- ra ngoài đi, thử ra ngoài chơi nào (thách thức)
+!to get outside of
+- (từ lóng) hiểu
+- chén, nhậu
 *  tính từ
-- nông cạn, không sâu (nước)
-*  danh từ
-- chỗ nông, chỗ cạn (nước)
-- bãi cát ngập nước nông
-- (nghĩa bóng) sự nguy hiểm ngầm, sự trở ngại ngấm ngầm
-*  nội động từ
-- cạn đi
-*  ngoại động từ
-- làm cho nông, làm cho cạn
-- lái (thuyền, tàu...) vào chỗ cạn
-*  danh từ
-- đám đông, số đông
-=shoals of people+ nhiều đám đông người
-=to get letters in shoals+ nhận được nhiều thư
-- đàn cá
+- ở ngoài, ở gần phía ngoài
+=outside seat
++ ghế ở gần phía ngoài, ghế phía đằng cuối
+=outside work
++ việc làm ở ngoài trời
+- mỏng manh (cơ hội)
+- của người ngoài
+=an outside opinion
++ ý kiến của người ngoài (không phải là nhị sĩ)
+=outside broker
++ người mua bán cổ phần ở ngoài (không thuộc sở chứng khoán)
+- cao nhất, tối đa
+=to quote the outside prices
++ định giá cao nhất
+*  giới từ
+- ngoài, ra ngoài
+=cannot go outside the evidence
++ không thể đi ra ngoài bằng chứng được
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trừ ra
+!outside of
+- ngoài ra
 @Chuyên ngành kinh tế
--chỗ nông
--đàn
--đàn cá
+-bên ngoài
+-ngoài
+-ở ngoài
 @Chuyên ngành kỹ thuật
--bãi cạn
--làm cạn
--làm nông
-@Lĩnh vực: giao thông & vận tải
--bãi nông (địa lý)
+-bên ngoài
+-mặt ngoài
+-ở ngoài
+-phía ngoài
+@Lĩnh vực: toán & tin
+-cạnh ngoài
+@Lĩnh vực: cơ khí & công trình
+-ở phía ngoài
+-phần ngoài
+

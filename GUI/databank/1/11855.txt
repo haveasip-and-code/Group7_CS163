@@ -1,4 +1,12 @@
-copycat	
-@copycat
-* danh từ
-- người hay bắt chứơc
+concept
+	
+- (Tech) khái niệm, quan niệm
+@Chuyên ngành kinh tế
+-khái niệm
+@Chuyên ngành kỹ thuật
+-khái niệm
+-quan niệm
+-ý niệm
+@Lĩnh vực: xây dựng
+-hòa nhạc (buổi)
+

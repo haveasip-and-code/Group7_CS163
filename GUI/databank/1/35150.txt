@@ -1,4 +1,11 @@
-misinterpretation	@misinterpretation /'misin,tə:pri'teiʃn/
-*  danh từ
-- sự hiểu sai, sự giải thích sai
-- sự dịch sai
+curvilinear
+	
+*  tính từ
+- cong; (thuộc) đường cong
+=curvilinear angle
++ góc đường cong
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-cong phi tuyến
+-phi tuyến
+

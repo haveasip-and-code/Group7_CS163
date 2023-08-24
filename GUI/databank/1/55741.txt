@@ -1,11 +1,46 @@
-teasing	@teasing /'ti:ziɳ/
-*  danh từ
-- sự chòng ghẹo, sự trêu tức, sự trêu chọc
-- sự quấy rầy
-- sự tháo, sự rút sợi; sự gỡ rối (chỉ)
-- sự chải (len, dạ)
+proper
+	
 *  tính từ
-- chòng ghẹo, trêu tức, trêu chọc
-- quấy rầy
-@Chuyên ngành kinh tế
--sự quảng cáo hóc búa, bí hiểm
+- đúng, thích đáng, thích hợp
+=at the proper time
++ đúng lúc, phải lúc
+=in the proper way
++ đúng lề lối, đúng cách thức
+- đúng, đúng đắn, chính xác
+=the proper meaning of a word
++ nghĩa đúng (nghĩa đen) của một từ đó
+- ((thường) đặt sau danh từ) thật sự, đích thực, đích thị, đích thân, bản thân
+=within the sphere of architecture proper
++ trong lĩnh vực kiến trúc thật sự
+=proper fraction
++ (toán học) phân số thật sự (bé hơn đơn vị)
+- riêng, riêng biệt
+=the books proper to this subject
++ những cuốn sách nói riêng về vấn đề này
+=proper noun
++ (ngôn ngữ học) danh từ riêng
+- (thông tục) hoàn toàn, thực sự, đích đáng, ra trò
+=to give someone a proper beating
++ nện cho ai một trận ra trò
+- đúng đắn, đúng mực, hợp thức, hợp lệ, chỉnh
+=proper behaviour
++ thái độ cư xử đúng đắn
+- (từ cổ,nghĩa cổ) chính, đích
+=with one's proper eyes
++ bằng chính mắt mình, đích mắt mình trông thấy
+- (từ cổ,nghĩa cổ) đẹp trai
+=a proper man
++ một người đẹp trai
+- có màu tự nhiên (ở huy chương, huy hiệu)
+=a peacock proper
++ con công màu tự nhiên (ở huy chương, huy hiêu)
+@Chuyên ngành kỹ thuật
+-bản thân
+-chính xác
+-đúng
+-riêng
+@Lĩnh vực: toán & tin
+-chân chính, riêng
+@Lĩnh vực: xây dựng
+-thích đáng
+

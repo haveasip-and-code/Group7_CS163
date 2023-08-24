@@ -1,75 +1,25 @@
-skin	@skin /skin/
-*  danh từ
-- da, bì
-=outer skin+ biểu bì
-- vỏ
-=orange skin+ vỏ cam
-- da thú
-- bầu bằng da thú (để đựng nước, rượu...)
-- vỏ tàu
-!to be no skin off someone's back
-- (từ lóng) không dính dáng đến ai, không động chạm đến ai, không ảnh hưởng gì đến ai
-!to be only skin and bone
-- gầy chỉ còn da bọc xương
-!he cannot change his skin
-- chết thì chết nết không chừa
-!to escape by (with) the skin of one's teeth x tooth to fear for one's skin
-- sợ mất mạng
-!to get under someone's skin
-- (thông tục) nắm được ai, làm cho ai phải chú ý
-- làm cho ai bực tức, chọc tức ai
-!to have a thick skin
-- cứ trơ ra (khi bị phê bình, bị chửi...)
-!to have a thin skin
-- dễ bật lò xo (khi bị phê bình, bị chửi...)
-!near is my shirt, but nearer is my skin x shirt to save one's skin
-- chạy thoát
-!I would not be in his skin
-- tôi không muốn ở địa vị của nó
+refresh
+	
 *  ngoại động từ
-- lột da
-=to skin a rabbit+ lột da một con thỏ
-- bóc vỏ, gọt vỏ
-- (thông tục) lột quần áo (ai)
-- (từ lóng) lừa đảo
-- ((thường) + over) bọc lại
+- làm cho tỉnh (người) lại, làm cho khoẻ khoắn, làm cho khoan khoái, làm cho tươi tỉnh lại
+=to refresh oneself with a cup of tea
++ uống một chén trà cho tỉnh người lại
+=a cool refreshing breeze
++ cơn gió mát làm cho người ta cảm thấy khoan khoái
+- làm nhớ lại, nhắc nhớ lại
+- khều (ngọn lửa); nạp (điện) lại
+- (từ hiếm,nghĩa hiếm) làm mát mẻ
 *  nội động từ
-- lột da (rắn)
-- đóng sẹo, lên da non (vết thương)
-- (thông tục) cởi quần áo
-!to skin alive
-- lột sống (súc vật)
-- (thông tục) mắng mỏ thậm tệ, trừng phạt nặng nề
-- (thông tục) đánh gục, đánh bại hắn
-!to keep one's eyes skinned
-- (từ lóng) cẩn thận, cảnh giác
-@Chuyên ngành kinh tế
--đậy bằng lớp vỏ
--lột da
--màng
--tách vỏ
--vỏ
--vỏ bọc giò
--vỏ bọc lạp xưởng
--vỏ tàu
+- ăn uống nghỉ ngơi cho khoẻ lại
+- giải khát
 @Chuyên ngành kỹ thuật
--da
--lớp bọc
--lớp mặt (ngoài)
--lớp ngoài cùng
--lớp ngời
--lớp ốp
--lớp phủ
--lớp trát
--lớp vỏ, lớp phủ bề ngoài
--lột (da)
--màng bọc
--tấm bọc
--vỏ ngoài
-@Lĩnh vực: ô tô
--lớp sơn ngoài (xe)
-@Lĩnh vực: xây dựng
--vỏ
-@Lĩnh vực: giao thông & vận tải
--vỏ máy bay
--vỏ tàu ngoài (đóng tàu)
+-làm mới (dữ liệu)
+-làm mới (tín hiệu)
+-làm tươi
+-phát lại
+-sự làm mới lại
+-sự làm tươi lại
+@Lĩnh vực: toán & tin
+-làm mới, làm tươi
+-làm tươi, làm mới
+

@@ -1,54 +1,8 @@
-paint	@paint /peint/
-*  danh từ
-- sơn
-- thuốc màu
-- phấn (bôi má)
-!as pretty (smart) as paint
-- đẹp như vẽ
-*  ngoại động từ
-- sơn, quét sơn
-=to paint a door green+ sơn cửa màu lục
-- vẽ, tô vẽ, mô tả
-=to paint a landscope+ vẽ phong cảnh
-=to paint a black (rosy) picture of+ bôi đen (tô hồng)
-- đánh phấn
-*  nội động từ
-- vẽ tranh
-- thoa phấn
-!to paint in
-- ghi bằng sơn
-!to paint out
-- sơn phủ lên, lấy sơn quét lấp đi
-!to panin in bright colours
-- vẽ màu tươi, vẽ màu sáng; (nghĩa bóng) tô hồng (sự việc gì)
-!to pain the lily
-- mặc thêm là lượt cho phò mã (làm một việc thừa)
-!to paint the town red
-- (xem) town
+naos
+	
+-phòng nhỏ
+-xà lim
 @Chuyên ngành kỹ thuật
--bôi màu
--màu
--mực in
--quét màu
--sơn màu
--thuốc màu
--tô màu
-@Lĩnh vực: điện
--bôi mầu
--thuốc mầu
-@Lĩnh vực: y học
--dược phẩm bôi, trát
-@Lĩnh vực: ô tô
--phun sơn
--sơn
-@Lĩnh vực: hóa học & vật liệu
--quét sơn
 @Lĩnh vực: xây dựng
--sơn nhuộm
--sơn quét sơn
--sơn thuốc màu
--tô
--vẽ mầu
--vẽ tranh
-@Lĩnh vực: toán & tin
--vẽ màu
+-đền Hy Lạp
+

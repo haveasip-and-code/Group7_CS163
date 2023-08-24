@@ -1,3 +1,15 @@
-servicewoman	@servicewoman
-* danh từ
-- nữ quân nhân
+cumulative
+	
+*  tính từ
+- luỹ tích, dồn lại, chồng chất mãi lên
+=cumulative evidence
++ chứng cớ luỹ tích
+@Chuyên ngành kỹ thuật
+-dồn
+-tích tụ
+@Lĩnh vực: toán & tin
+-được tích lũy
+-lũy tích
+@Lĩnh vực: đo lường & điều khiển
+-lũy kế
+

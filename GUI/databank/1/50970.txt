@@ -1,9 +1,7 @@
-skewness	@Chuyên ngành kinh tế
--độ nghiêng, hệ số bất đối xứng
--hệ số bất đối xứng
-@Chuyên ngành kỹ thuật
--hệ số lệch
-@Lĩnh vực: toán & tin
--tính ghềnh
--tính lệch
--tính xiên
+polemics
+	
+* danh từ
+- số ít
+- cách bút chiến
+- cách tranh luận về tôn giáo
+

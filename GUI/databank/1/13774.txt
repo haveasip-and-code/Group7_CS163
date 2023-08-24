@@ -1,4 +1,14 @@
-deceiver	
-@deceiver /di'si:və/
+tuition
+	
 *  danh từ
-- kẻ lừa dối, kẻ lừa gạt
+- sự dạy học, sự giảng dạy
+=private tuition
++ sự dạy tư
+=postal tuition
++ sự giảng dạy bằng thư
+- tiền học, học phí
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-học phí
+-tiền học
+

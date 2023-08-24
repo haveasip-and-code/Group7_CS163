@@ -1,8 +1,7 @@
-laccolithic	@Chuyên ngành kỹ thuật
--lacolit
-@Lĩnh vực: hóa học & vật liệu
--thể nấm
+stabilized
+	
+- được ổn định
 @Chuyên ngành kỹ thuật
--lacolit
-@Lĩnh vực: hóa học & vật liệu
--thể nấm
+-được điều chỉnh
+-được ổn định
+

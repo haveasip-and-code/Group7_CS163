@@ -1,30 +1,26 @@
-bracing	
-@bracing /'breisiɳ/
-*  tính từ
-- làm cường tráng, làm khoẻ mạnh=bracing air
-+ không khí làm khoẻ người
+tanker
+	
+*  danh từ
+- tàu chở dầu
+- xe chở sữa
+- máy bay tiếp dầu (cho máy bay khác trên không)
+@Chuyên ngành kinh tế
+-ô tô téc
+-tàu bồn (dùng để chở dầu xăng)
+-tàu chở dầu
+-tàu chở hàng lọng, tàu chở dầu
+-tàu hàng lỏng
+-téc vận chuyển đường sắt
+-xe xitec
 @Chuyên ngành kỹ thuật
--gân tăng cứng
--gia cố
--giằng
--giằng gió
--hệ giằng
--làm chắc
--ngàm
--sự căng
--sự ghép
--sự gia cố
--sự giằng
--sự kẹp chặt
--sự liên kết
--sự liên kết cứng
--thanh chống xiên
-@Lĩnh vực: cơ khí & công trình
--chắn cữ
--khung đàn
-@Lĩnh vực: xây dựng
--cột chống xiên
--cột chống xô
--giằng tăng cứng
--sự giằng cứng
--sự neo giữ
+-ô tô xitec
+-tàu chở hàng
+@Lĩnh vực: ô tô
+-chở nhiên liệu
+-xe chở nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+-tàu dầu
+-tàu thủy chở dầu
+@Lĩnh vực: toán & tin
+-toán
+

@@ -1,30 +1,10 @@
-exhibition	
-@exhibition /,eksi'biʃn/
-*  danh từ
-- cuộc triển lãm cuộc trưng bày
-- sự phô bày, sự trưng bày
-- sự bày tỏ, sự biểu lộ
-- sự thao diễn
-- học bổng!to make an exhibition of oneself
-- dở trò dơ dáng dại hình
-@Chuyên ngành kinh tế
--cuộc triển lãm
--cuộc trưng bày (hàng hóa)
--hội chợ triển lãm
--triển lãm
-@Chuyên ngành kỹ thuật
--biểu hiện
--sự biểu lộ
--sự thể hiện
--trình bày
-@Lĩnh vực: xây dựng
--sự trưng bày
--triển lãm
-@Chuyên ngành kỹ thuật
--biểu hiện
--sự biểu lộ
--sự thể hiện
--trình bày
-@Lĩnh vực: xây dựng
--sự trưng bày
--triển lãm
+wrapt
+	
+*  tính từ
+- sung sướng vô ngần, mê ly
+- chăm chú, say mê; để hết tâm trí vào
+=to be rapt in a book
++ đang say mê đọc sách
+=rapt attention
++ sự chăm chú mê mải, sự tập trung tư tưởng
+

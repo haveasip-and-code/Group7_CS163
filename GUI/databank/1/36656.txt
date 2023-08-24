@@ -1,3 +1,19 @@
-neuroticism	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tình trạng loạn thần kinh
+isolate
+	
+*  ngoại động từ
+- cô lập
+- (y học) cách ly
+- (điện học) cách
+- (hoá học) tách ra
+@Chuyên ngành kinh tế
+-cách ly
+-tách ra
+@Chuyên ngành kỹ thuật
+-ngắt
+-ngắt điện
+-riêng biệt
+-tách
+-tách biệt
+@Lĩnh vực: toán & tin
+-khái niệm phân lập
+

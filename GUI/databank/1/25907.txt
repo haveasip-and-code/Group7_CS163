@@ -1,14 +1,5 @@
-hobble	
-@hobble /'hɔbl/
-*  danh từ
-- dáng đi tập tễnh, dáng đi khập khiễng, dáng đi cà nhắc
-- dây chằng (đê buộc chằng chân ngựa... cho khỏi đi xa)
-- tình trạng khó khăn, tình trạng lúng túng
-*  nội động từ
-- đi tập tễnh, đi khập khiễng, đi cà nhắc
-- nói ấp úng, nói trúc trắc
-- hành động do dự; tiến hành trục trặc
-- trúc trắc (câu thơ)
-*  ngoại động từ
-- làm cho đi tập tễnh, làm cho đi khập khiễng, làm cho đi cà nhắc
-- buộc chằng (chân ngựa... cho khỏi đi xa)
+invitee
+	
+* danh từ
+- người được mời
+

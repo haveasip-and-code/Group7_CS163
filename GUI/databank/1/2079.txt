@@ -1,7 +1,12 @@
-anamnesis	
-@anamnesis /,ænæm'ni:sis/
+toothing
+	
 *  danh từ
-- sự hồi tưởng; ký ức
-- (y học) tiền sử bệnh
+- (kỹ thuật) sự khớp răng
+- (kỹ thuật) vành răng
+- (kiến trúc) gạch câu (xây lối ra để câu một bức tường khác)
 @Chuyên ngành kỹ thuật
--trí nhớ
+-sự cắt răng
+@Lĩnh vực: xây dựng
+-mỏ giật
+-sự khớp răng
+

@@ -1,9 +1,17 @@
-glucoside	
-@glucoside /'glu:kəsaid/
+casualty
+	
 *  danh từ
-- (hoá học) Glucozit
+- tai hoạ, tai biến; tai nạn
+- (số nhiều) (quân sự) số thương vong, số người chết, số người bị thương, số người mất tích
+=the enemy suffered heavy casualties
++ quân địch bị thương vong nặng nề
+- người chết, người bị thương, nạn nhân (chiến tranh, tai nạn...)
 @Chuyên ngành kinh tế
--glucozit
+-tai biến
+-tai nạn
 @Chuyên ngành kỹ thuật
+-sự hư hỏng
+-tai nạn
 @Lĩnh vực: hóa học & vật liệu
--glucosit
+-trường hợp bất ngờ
+

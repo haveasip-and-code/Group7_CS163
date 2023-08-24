@@ -1,14 +1,25 @@
-amalgamation	
-@amalgamation /ə,mælgə'meiʃn/
-*  danh từ
-- (hoá học) sự hỗn hồng hoá
-- sự pha trộn, sự trộn lẫn, sự hỗn hợp; sự hợp nhất
+telemetry
+	
+* danh từ
+- phép đo từ xa (quá trình tự động ghi nhận các số báo của một dụng cụ và truyền đi xa, thường bằng <rađiô>)
 @Chuyên ngành kinh tế
--tổ hợp
+-kỹ thuật đo đạc từ xa
+-phép viễn trắc
+-thuật đo đạc từ xa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--hỗn hống hóa
+-đo lường từ xa
+-đo từ xa
+-phép đo khoảng cách
+@Lĩnh vực: toán & tin
+-đo đạc từ xa
+-phép viễn trắc
 @Lĩnh vực: điện lạnh
--sự hỗn hống hóa
+-đo độ xa
+-phép định tầm
+@Lĩnh vực: y học
+-phép đo từ xa
+@Lĩnh vực: xây dựng
+-phép đo xa
 @Lĩnh vực: điện
--sự tạo hỗn hống
+-viễn trắc lượng
+

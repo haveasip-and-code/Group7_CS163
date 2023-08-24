@@ -1,13 +1,14 @@
-scavenge	@scavenge /'skævindʤ/
-*  ngoại động từ
-- quét, quét dọn (đường...)
-- (kỹ thuật) tháo hết khí đốt, cho xả (động cơ đốt trong...)
-- (kỹ thuật) lọc sạch chất bẩn (kim loại nấu chảy)
-- (từ Mỹ,nghĩa Mỹ) tìm, bới (thức ăn...)
+lifeline
+	
+-cáp bảo hiểm
+@Lĩnh vực: xây dựng
+-dây bảo hiểm
+@Lĩnh vực: giao thông & vận tải
+-dây cứu sinh
 @Chuyên ngành kỹ thuật
--làm sạch
--tinh luyện
-@Lĩnh vực: ô tô
--quét khí thải (trong động cơ 2 thì)
-@Lĩnh vực: cơ khí & công trình
--xả khí (động cơ nổ)
+-cáp bảo hiểm
+@Lĩnh vực: xây dựng
+-dây bảo hiểm
+@Lĩnh vực: giao thông & vận tải
+-dây cứu sinh
+

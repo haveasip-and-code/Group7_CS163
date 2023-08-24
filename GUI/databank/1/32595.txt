@@ -1,11 +1,10 @@
-locomotor	@locomotor /,loukə'moutə/
-*  danh từ
-- người vận động; vậy di động
+projective
+	
 *  tính từ
-- di động, vận động
+- (toán học) chiếu, xạ ảnh
+=projective geometry
++ hình học xạ ảnh
 @Chuyên ngành kỹ thuật
--vận động
-@Lĩnh vực: y học
--vận động, di động
-@Lĩnh vực: hóa học & vật liệu
--vật di động
+@Lĩnh vực: toán & tin
+-xạ ảnh
+

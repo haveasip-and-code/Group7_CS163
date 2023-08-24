@@ -1,7 +1,8 @@
-summing	@summing
-- tổng, phép cộng
-@Chuyên ngành kỹ thuật
--phép cộng
--tổng
-@Lĩnh vực: toán & tin
--tổng, phép cộng
+plucker
+	
+- xem pluck
+@Chuyên ngành kinh tế
+-máy vặt lông
+-sọt chứa chè
+-sọt chứa quả
+

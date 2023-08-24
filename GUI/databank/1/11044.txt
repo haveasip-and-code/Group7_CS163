@@ -1,11 +1,18 @@
-confetti	
-@confetti /kən'feti:/
-*  danh từ số nhiều
-- công
--phét
--ti, hoa giấy (ném trong đám cưới, hội hè)
+assets
+	
+- (toán kinh tế) tài sản; tiền có
+- fixed a. tài sản cố định
+- personal a. động sản
+- real a.bất động sản
+@Chuyên ngành kinh tế
+-các khoản có
+-tài sản
+-tài sản có
+-tích sản
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--kim tuyến
-@Lĩnh vực: điện tử & viễn thông
--nhiễu điểm
+-của cải
+-năng động
+-vốn đầu tư
+@Lĩnh vực: toán & tin
+-tiền có
+

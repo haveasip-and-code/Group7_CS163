@@ -1,7 +1,11 @@
-fluorescence	
-@fluorescence /fluorescence/
-*  danh từ
-- (vật lý) sự huỳnh quang; phát huỳnh quang
+agonic
+	
+*  tính từ
+- không hợp thành góc
+=agonic line
++ đường không từ thiên (đường đi qua các điểm tại đấy kim la bàn không bị lệch)
 @Chuyên ngành kỹ thuật
--huỳnh quang
--sự huỳnh quang
+@Lĩnh vực: điện lạnh
+-không lệch từ
+-vô thiên
+

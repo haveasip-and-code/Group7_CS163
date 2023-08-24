@@ -1,8 +1,28 @@
-stalling	@stalling
-* danh từ
-- sự dừng; sự kẹt
-- sự nuôi trong chuồng
-- (không quân) sự chao đảo (vì giảm tốc độ)
+continuous
+	
+*  tính từ
+- liên tục, liên tiếp, không dứt, không ngừng
+=continuous rain
++ mưa liên tục
+=continuous function
++ (toán học) hàm liên tục
+- (ngôn ngữ học) tiến hành
+=continuous from
++ hình thái tiến hành (động từ)
+- (rađiô) duy trì
+=continuous waves
++ sóng duy trì
 @Chuyên ngành kỹ thuật
--sự dừng
--sự kẹt
+-dày đặc
+-kế tiếp
+-kéo dài
+-không ngừng
+-liền kề
+-liên tiếp
+-liên tục
+@Lĩnh vực: toán & tin
+-sát nhau
+@Lĩnh vực: xây dựng
+-sự liên tiếp
+-sự liên tục
+

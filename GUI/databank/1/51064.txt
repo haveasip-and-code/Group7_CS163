@@ -1,67 +1,8 @@
-slack	@slack /slæk/
-*  tính từ
-- uể oải, chậm chạp
-=to be slack in doing something+ uể oải làm việc gì
-- chùng, lỏng
-=a slack rope+ dây thừng chùng
-=to keep a slack hand (rein)+ buông lỏng dây cương; (nghĩa bóng) lỏng tay (lãnh đạo)
-- (từ Mỹ,nghĩa Mỹ) mềm yếu, yếu ớt, nhu nhược, dễ bị ảnh hưởng, dễ bị lung lạc
-- (từ Mỹ,nghĩa Mỹ) hay bê trễ, hay sao lãng, phất phơ, chểnh mảng
-- ế ẩm
-=slack trade+ việc buôn bán ế ẩm
-=slack business+ công việc không chạy
-- làm mệt mỏi, làm uể oải
-=slack weather+ thời tiết làm cho uể oải
-- đã tôi (vôi)
-*  danh từ
-- phần dây chùng
-=to haul in the slack+ căng dây ra cho thẳng
-- thời kỳ buôn bán ế ẩm
-- (thông tục) sự chơi, sự nghỉ ngơi, sự xả hơi
-=to have a good slack+ nghỉ một cách thoải mái
-- (tiếng địa phương) sự hỗn láo, sự xấc lấc
-- (số nhiều) quần
-- than cám (để làm than nén)
-*  động từ
-- nới, làm chùng (dây)
-- (thông tục) nghỉ ngơi, xả hơi
-- (thông tục) phất phơ, chểnh mảng
-- tôi (vôi)
-!to slack off
-- giảm bớt nhiệt tình, giảm bớt sự cố gắng
-!to slack up
-- giảm bớt tốc lực, đi chậm lại (xe lửa)
+ravioli
+	
+* danh từ
+- một loại bánh bao (ở ý)
 @Chuyên ngành kinh tế
--đình đốn
--ế ẩm
--ít hoạt động
--không chạy
--lên men yếu
--nước sống
--sụt giảm mạnh
--thời kỳ buôn bán ế ẩm
--tình trạng đình đốn
--trì trệ
-@Chuyên ngành kỹ thuật
--độ giơ
--hành trình chết
--khe hở
--khe hở cạnh
--khoảng hở
--không chặt
--làm yếu
--lơi
--ngưng trễ
--nới lỏng
--sự chùng
--sự oằn
--sự võng
--than cám
--than vụn
--tôi vôi
--yếu
-@Lĩnh vực: điện tử & viễn thông
--chất độn cáp
-@Lĩnh vực: cơ khí & công trình
--chỗ trống
--khâu yếu
+-bánh nhân thịt
+-bánh xèo
+

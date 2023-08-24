@@ -1,37 +1,5 @@
-axis	
-@axis /'æksis/
-*  danh từ,  số nhiều axes
-- trục=earth's axis
-+ trục quả đất=geometrical axis
-+ trục hình học=magnetic axis
-+ trục từ=rotation axis
-+ trục quay=symmetry axis
-+ trục đối xứng=visual axis
-+ trục nhìn
-- (vật lý) tia xuyên
-- (chính trị) trục Béc
--lin,  Rô
--ma,  Tô
--ki
--ô (khối liên minh)
-- (định ngữ) (thuộc) trục Béc
--lin,  Rô
--ma,  Tô
--ki
--ô=axis powers
-+ các cường quốc trong trục Béc
--lin,  Rô
--ma,  Tô
--ki
--ô
-*  danh từ
-- (động vật học) hươu sao ((cũng) axis deer)
-@Chuyên ngành kỹ thuật
--đường tâm
--tim đường
-@Lĩnh vực: điện lạnh
--thanh trục
-@Lĩnh vực: ô tô
--trục (quay)
-@Lĩnh vực: xây dựng
--trục tuyến
+unexploited
+	
+*  tính từ
+- chưa khai thác; không được khai thác
+

@@ -1,10 +1,16 @@
-incandescent	
-@incandescent /incandescent/
-*  tính từ
-- nóng sáng=incandescent lamp
-+ đèn nóng sang
-- sáng chói, sáng rực ((nghĩa đen) & (nghĩa bóng))=the incandescent zeal of youth
-+ nhiệt tình sáng chói của tuổi trẻ=an incandescent masterwork
-+ một kiệt tác sáng chói
+harrow
+	
+*  danh từ
+- cái bừa
+!under the harrow
+- (nghĩa bóng) lâm vào cảnh hoạn nạn; lâm vào cảnh gay go
+*  ngoại động từ
+- bừa (ruộng...)
+- (nghĩa bóng) làm đau đớn, làm tổn thương, rầy khổ
+=to harrow someone's feelings
++ làm đau lòng ai
 @Chuyên ngành kỹ thuật
--nóng sáng
+@Lĩnh vực: xây dựng
+-bừa
+-máy bừa
+

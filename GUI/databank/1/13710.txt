@@ -1,8 +1,5 @@
-debug	
-@debug
-- (Tech) chỉnh lỗi, gỡ rối
-@Chuyên ngành kỹ thuật
--sửa tạm
-@Lĩnh vực: toán & tin
--gỡ rối
--hiệu chỉnh lỗi
+amphibology
+	
+*  danh từ
+- sự chơi chữ; câu nước đôi (có thể hiểu hai cách, hai nghĩa)
+

@@ -1,16 +1,5 @@
-diagnostic	
-@diagnostic /,daiəg'nɔstik/
+synonymic
+	
 *  tính từ
-- chẩn đoán
-*  danh từ
-- (y học) triệu chứng (bệnh)
-- số nhiều phép chẩn đoán; chẩn đoán học=X
--ray diagnostic
-+ phép chẩn đoán bằng tia X
-@Chuyên ngành kỹ thuật
--chuẩn đoán
--phát hiện
-@Lĩnh vực: điện tử & viễn thông
--phép chẩn sai
-@Lĩnh vực: toán & tin
--phép chuẩn đoán
+- (thuộc) từ đồng nghĩa, dùng từ đồng nghĩa
+

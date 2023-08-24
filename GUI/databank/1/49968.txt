@@ -1,3 +1,16 @@
-serin	@serin /'serin/
+dither
+	
 *  danh từ
-- (động vật học) chim bạch yến
+- sự run lập cập, sự rùng mình
+=to be all of a dither
++ run lập cập
+- sự lung lay, sự lay động, sự rung rinh
+*  nội động từ
+- run lập cập, rùng mình
+- lung lay, lay động, rung rinh
+@Chuyên ngành kỹ thuật
+-chuyển động rung
+-rung rinh
+@Lĩnh vực: toán & tin
+-hòa sắc
+

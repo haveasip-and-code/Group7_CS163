@@ -1,4 +1,10 @@
-eclogue	
-@eclogue /'eklɔg/
+automaton
+	
 *  danh từ
-- (văn học) Eclôgơ (một loại thơ đồng quê ngắn)
+- máy tự động, thiết bị tự động
+- người máy ((nghĩa đen) & (nghĩa bóng))
+@Chuyên ngành kỹ thuật
+-máy tự động
+@Lĩnh vực: cơ khí & công trình
+-người máy
+

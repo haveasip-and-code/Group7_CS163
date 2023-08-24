@@ -1,10 +1,8 @@
-thesis	@thesis /'θi:sis/
-*  danh từ,  số nhiều theses
-- luận văn, luận án
-=to uphold a thesis+ bảo vệ một luận án
-- luận điểm, luận đề, thuyết
-- chính đề
-=thesis and antithesis+ chính đề và phản đề
+dentistry
+	
+*  danh từ
+- nghề chữa răng, khoa răng
 @Chuyên ngành kỹ thuật
--luận án
--luận văn
+@Lĩnh vực: y học
+-nha khoa
+

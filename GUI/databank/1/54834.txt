@@ -1,7 +1,5 @@
-surgeon	@surgeon /'sə:dʤən/
-*  danh từ
-- nhà phẫu thuật, bác sĩ phẫu thuật
-- sĩ quan quân y; thầy thuốc quân y
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phẫu thuật viên
+suggester
+	
+* danh từ
+- người gợi ý; đề nghị; đề xuất
+

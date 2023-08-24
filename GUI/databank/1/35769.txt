@@ -1,26 +1,8 @@
-motor	@motor /'moutə/
+histolysis
+	
 *  danh từ
-- động cơ mô tô
-- ô tô
-- (giải phẫu) cơ vận động; dây thần kinh vận động
-*  tính từ
-- vận động
-=motor nerver+ dây thần kinh vận động
-*  động từ
-- đi ô tô
-=to motor from one city to another+ đi ô tô từ thành phố này đến thành phố khác
-- đưa đi bằng ô tô
-=to motor a friend home+ đưa một người bạn về bằng ô tô
+- (sinh vật học) sự tiêu mô
 @Chuyên ngành kỹ thuật
--động cơ
--động cơ điện
--động cơ nổ
--máy
--máy điện
--mô tơ
--ô tô
--xe ô tô
-@Lĩnh vực: vật lý
--động cơ máy
-@Lĩnh vực: điện
--mô tô
+@Lĩnh vực: y học
+-sự phân hủy mô, tiểu mô
+

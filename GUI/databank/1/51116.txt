@@ -1,7 +1,8 @@
-slaughterer	@slaughterer /'slɔ:tərə/
-*  danh từ
-- đồ tể
-- kẻ giết người hàng loạt, kẻ tàn sát hàng loạt
-@Chuyên ngành kinh tế
--công nhân giết mổ gia súc
--thợ giết mổ gia súc
+roentgenography
+	
+* danh từ
+- cách chụp bằng tia X
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chụp Rơngen, chụp tia x
+

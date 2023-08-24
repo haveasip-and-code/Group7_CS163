@@ -1,9 +1,13 @@
-aeriform	
-@aeriform /'eərifɔ:m/
-*  tính từ
-- dạng hơi
-- không thực
+router
+	
+- cầu dẫn
 @Chuyên ngành kỹ thuật
--dạng khí
-@Lĩnh vực: hóa học & vật liệu
--thể khí
+-bào xoi
+-bộ chọn đường
+-dao nhỏ
+-lưỡi cắt
+-lưỡi dao
+@Lĩnh vực: toán & tin
+-bộ định tuyến
+-cầu dẫn, router
+

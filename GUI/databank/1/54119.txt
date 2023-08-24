@@ -1,3 +1,14 @@
-submicron	@submicron
-* danh từ
-- thành phần siêu hiển vi
+compressibility
+	
+*  danh từ
+- tính nén được
+- (vật lý) hệ số nén
+@Chuyên ngành kỹ thuật
+-khả năng nén được
+@Lĩnh vực: xây dựng
+-độ nén được
+-tính chịu nén
+-tính nén lún
+@Lĩnh vực: điện lạnh
+-hệ số chịu nén
+

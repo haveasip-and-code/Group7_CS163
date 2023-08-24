@@ -1,28 +1,10 @@
-foreign	
-@foreign /'fɔrin/
-*  tính từ
-- (thuộc) nước ngoài, từ nước ngoài, ở nước ngoài=foreign languagers
-+ tiếng nước ngoài=foreign trade
-+ ngoại thương=foreign affairs
-+ việc ngoại giao=the Foreign Office
-+ bộ trưởng ngoại giao (Anh)=the Foreign Secretary
-+ bộ trưởng ngoại giao (Anh)
-- xa lạ; ngoài, không thuộc về=this is foreign to the subject
-+ cái đó không thuộc vào vấn đề
-- (y học) ngoài, lạ=a foreign body
-+ vật lạ, vật ngoài
-- (từ Mỹ,nghĩa Mỹ) thuộc tiểu bang khác
+remitter
+	
+*  danh từ
+- người gửi tiền, người gửi hàng (cho ai)
+- (pháp lý) sự trao lại một vụ án cho toà dưới xét xử
+- (từ hiếm,nghĩa hiếm) người tha thứ, người xá tội
+- (từ hiếm,nghĩa hiếm) sự phục hồi lại quyền lợi
 @Chuyên ngành kinh tế
--bên ngoài
--đối ngoại
--ngoài
--ngoại
--ngoại lai
--ngoại quốc
--nước ngoài
--ở nước ngoài
--quốc ngoại
--từ nước ngoài vào
-@Chuyên ngành kỹ thuật
--ngoại
--ngoại lai
+-người gởi tiền
+

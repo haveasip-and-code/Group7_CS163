@@ -1,13 +1,7 @@
-prognosis	@prognosis /prognosis/
-*  danh từ,  số nhiều prognoses
-/prɔg'nousi:z/
-- (y học) dự đoán (về sự tiến triển của bệnh), tiên lượng
-@Chuyên ngành kỹ thuật
--dự báo
--sự dự báo
--sự dự đoán
--tiên đoán
-@Lĩnh vực: toán & tin
--dự báo, tiên đoán
-@Lĩnh vực: y học
--tiên lượng
+mannequin
+	
+*  danh từ
+- cô gái mặc áo mẫu chiêu hàng (trong hiệu thợ may)
+- người kiểu
+- người giả
+

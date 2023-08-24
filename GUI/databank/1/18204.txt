@@ -1,3 +1,24 @@
-endemism	
-@endemism
-- xem endemic
+verbal
+	
+*  tính từ
+- (thuộc) từ, (thuộc) lời
+=a verbal error
++ một sai sót về từ
+=a good verbal memory
++ trí nhớ từ tốt
+- bằng lời nói, bằng miệng
+=a verbal explanation
++ một sự giải thích bằng miệng
+=verbal contract
++ hợp đồng miệng; giao ước miệng
+=verbal note
++ (ngoại) công hàm thường (thư dùng toàn ngôi thứ ba và không ký tên, về những vấn đề không quan trọng lắm)
+- theo chữ một, từng chữ một (dịch)
+=a verbal translation
++ một bản dịch theo từng chữ một
+- (ngôn ngữ học) (thuộc) động từ, có nguồn động từ
+=verbal noun
++ danh từ gốc động từ
+@Chuyên ngành kinh tế
+-bằng miệng
+

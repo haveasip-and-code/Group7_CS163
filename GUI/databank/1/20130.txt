@@ -1,10 +1,7 @@
-extravascular	
-@extravascular
-* tính từ
-- (giải phẫu) ngoài mạch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ngoài mạch máu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ngoài mạch máu
+goitre
+	
+*  danh từ
+- (y học) bướu giáp, bướu cổ
+!exophthalmic goitre
+- (y học) bệnh bazơddô
+

@@ -1,23 +1,4 @@
-armour	
-@armour /'ɑ:mə/
-*  danh từ
-- áo giáp
-- (quân sự) vỏ sắt (xe bọc sắt...)
-- các loại xe bọc sắt
-- áo lặn
-- (sinh vật học) giáp vỏ sắt
-- huy hiệu ((cũng) coat armour)
-*  ngoại động từ
-- bọc sắt (xe bọc sắt...)
-@Chuyên ngành kinh tế
--vỏ
-@Chuyên ngành kỹ thuật
--bọc thép
--vỏ bọc thép
--vỏ thép
-@Lĩnh vực: cơ khí & công trình
--áo giáp
-@Lĩnh vực: xây dựng
--giáp
-@Lĩnh vực: điện
--vỏ sắt
+stringhalt
+	
+- Cách viết khác : springhalt
+

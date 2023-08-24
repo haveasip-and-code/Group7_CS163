@@ -1,11 +1,11 @@
-jive	
-@jive /dʤaiv/
-*  danh từ
-- nhạc ja
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiếng lóng khó hiểu
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chuyện huyên thiên; chuyên rỗng tuếch, chuyện vớ vẩn
-*  nội động từ
-- chơi nhạc ja
-- nhảy theo điệu nhạc ja
-*  ngoại động từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chòng ghẹo, trêu ghẹo
+certify
+	
+*  động từ
+- chứng nhận, nhận thực, chứng thực; cấp giấy chứng nhận
+- (từ Mỹ,nghĩa Mỹ) đảm bảo giá trị (một tấm séc)
+- (y học) chứng nhận là mắc bệnh tinh thần
+@Chuyên ngành kinh tế
+-cấp giấy chứng nhận
+-chứng nhận
+-chứng thực
+

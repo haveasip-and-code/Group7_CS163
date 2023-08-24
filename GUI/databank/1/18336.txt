@@ -1,18 +1,10 @@
-eng	
-@eng
-* (viết tắt)= engineer (ing)
-+Peter BSc (Eng)
-- Peter, cử nhân khoa học (kỹ sư)
-- nước Anh (England)
-- người Anh; tiếng Anh (English)
-- viết tắt= engineer (ing)
-+Peter BSc (Eng)
-- Peter, cử nhân khoa học (kỹ sư)
-- nước Anh (England)
-- người Anh; tiếng Anh (English)
+vacillate
+	
+*  nội động từ
+- lắc lư, lảo đảo; chập chờn
+- do dự, dao động
+=to vacillate between two courses of action
++ do dự giữa hai đường lối hành động
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--gỗ eng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--gỗ eng
+-lung lay
+

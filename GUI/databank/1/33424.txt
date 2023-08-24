@@ -1,13 +1,12 @@
-mall	@mall
-* danh từ
-- búa nặng, búa tạ
-- phố buôn bán lớn
-- cuộc đi dạo nơi nhiều bóng mát
-- nơi bóng mát để đi dạo
+blackness
+	
+*  danh từ
+- màu đen
+- sự tối tăm; bóng tối, chỗ tối
+- (nghĩa bóng) sự đen tối
+- sự độc ác, sự tàn ác
 @Chuyên ngành kỹ thuật
--búa
--búa tạ
--chày
--dùi đục
-@Lĩnh vực: cơ khí & công trình
--vồ
+-kín nước
+-màu đen
+-tính không thấm nước
+

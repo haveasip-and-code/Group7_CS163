@@ -1,17 +1,11 @@
-covered	
-@covered
+undrained
+	
 * tính từ
-- có mái che
-- kín đáo
-- được yểm hộ (nhờ pháo binh)
-- có đội mũ= to remain covered
-+cứ đội nguyên mũ
+- không tiêu nước, chưa tiêu nước, không tháo khô, chưa tháo khô
 @Chuyên ngành kỹ thuật
--bị phủ
--bọc
--che đậy
--được bao được phủ
--được bọc
--được che
--được phủ
--phủ
+@Lĩnh vực: cơ khí & công trình
+-không được thoát nước
+-không được tiêu nước
+@Lĩnh vực: xây dựng
+-không thoát nước
+

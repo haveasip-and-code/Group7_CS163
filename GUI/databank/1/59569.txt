@@ -1,8 +1,9 @@
-unfired	@unfired
-- không được thắp lên, không được đốt cháy
-- không nung (gạch...)
-- không hào hứng, không phấn chấn
-- chưa bị bắn
+involucrum
+	
+*  danh từ
+- (thực vật học) tổng bao
+- (giải phẫu) báo, áo, màng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--không đốt
+@Lĩnh vực: y học
+-bao xương
+

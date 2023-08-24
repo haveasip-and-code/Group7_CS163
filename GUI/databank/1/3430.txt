@@ -1,39 +1,4 @@
-article	
-@article /'ɑ:tikl/
-*  danh từ
-- bài báo=leading article
-+ bài xã luận
-- điều khoản, mục=articles of apprenticeship
-+ điều khoản học việc (trong giao kèo)=article of faith
-+ tín điều
-- đồ, thức, vật phẩm; hàng=articles of daily necessity
-+ những thức cần thiết cho đời sống hằng ngày=an article of food
-+ đồ ăn=an article of clothing
-+ đồ mặc=article of luxury
-+ hàng xa xỉ
-- (ngôn ngữ học) mạo từ=definite article
-+ mạo từ hạn định=indefinite article
-+ mạo từ bất định!in the article of death
-- lúc chết, lúc tắt thở
-*  ngoại động từ
-- đặt thành điều khoản, đặt thành mục
-- cho học việc theo những điều khoản trong giao kèo=articled apprentice
-+ người học việc theo giao kèo
-- (pháp lý) buộc tội; tố cáo=to article against someone for something
-+ tố giác ai về việc gì; buộc tội ai về cái gì
-@Chuyên ngành kinh tế
--điều
--điều khoản
--điều mục
--mặt hàng
--thư phẩm
--vật phẩm
-@Chuyên ngành kỹ thuật
--bài báo
--điều khoản
--hạng mục
--mặt hàng
--mục
--sản phẩm
-@Lĩnh vực: toán & tin
--bài viết
+nonexpendable
+	
+-không thể tiêu thụ/phá hủy
+

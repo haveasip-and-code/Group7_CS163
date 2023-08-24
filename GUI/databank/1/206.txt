@@ -1,8 +1,10 @@
-absolve	
-@absolve /əb'zɔlv/
-*  ngoại động từ
-- tha tội, xá tội, tuyên án vô tội; miễn trách=to absolve someone from blame
-+ miễn trách ai, tuyên bố ai không có lỗi=to be absolved from the guilt
-+ được tuyên án vô tội
-- giải, giải phóng, cởi gỡ=to absolve someone from a spell
-+ giải cho ai khỏi bị bùa mê, giải bùa cho ai
+vindictive
+	
+*  tính từ
+- hay báo thù, thù oán
+=a vindictive person
++ một người hay thù oán
+- có tính chất trả thù, báo thù
+=a vindictive punishment
++ một sự trừng phạt trả thù
+

@@ -1,20 +1,4 @@
-familiar	
-@familiar /fə'miljə/
-*  tính từ
-- thuộc gia đình
-- thân thuộc, thân; quen thuộc, quen (với một vấn đề)
-- thông thường
-- không khách khí; sỗ sàng, suồng sã, lả lơi
-- (
-+ with) là tình nhân của, ăn mằm với
-*  danh từ
-- bạn thân, người thân cận, người quen thuộc
-- người hầu (trong nhà giáo hoàng)
-@Chuyên ngành kỹ thuật
--quen thuộc
--thông thường
--thường
-@Chuyên ngành kỹ thuật
--quen thuộc
--thông thường
--thường
+capabilities
+	
+-máy tính
+

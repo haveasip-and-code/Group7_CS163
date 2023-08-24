@@ -1,13 +1,5 @@
-compounding	
-@Chuyên ngành kinh tế
--giải quyết
--tính lãi kép
--tính nhồi cả vốn lời
-@Chuyên ngành kỹ thuật
--hóa hợp
--hỗn hợp
--sự hỗn hợp
-@Lĩnh vực: cơ khí & công trình
--sư ghép
--sự pha (trộn)
--sự phức hợp
+tailboard
+	
+@Lĩnh vực: ô tô
+-tấm bửng sau (xe tải nhỏ hoặc lớn)
+

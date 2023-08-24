@@ -1,16 +1,8 @@
-elution	
-@elution
+jogger
+	
 * danh từ
-- (hoá học) phép tách rửa
+- người luyện tập thân thể bằng cách chạy bộ
 @Chuyên ngành kỹ thuật
--rửa giải
--sự giải hấp
--sự ngâm rỉ
--sự rửa giải
--sự rửa thôi
-@Chuyên ngành kỹ thuật
--rửa giải
--sự giải hấp
--sự ngâm rỉ
--sự rửa giải
--sự rửa thôi
+@Lĩnh vực: điện tử & viễn thông
+-máy đẩy bìa
+

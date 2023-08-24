@@ -1,8 +1,5 @@
-renting	@Chuyên ngành kinh tế
--cho thuê ngắn hạn
--sự cho thuê
--sự cho thuê (nhà, xe...)
--sự thuê
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự cho thuê
+coproducer
+	
+* danh từ
+- người cùng sản suất
+

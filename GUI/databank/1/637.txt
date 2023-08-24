@@ -1,14 +1,9 @@
-actor	
-@actor /'æktə/
+rubric
+	
 *  danh từ
-- diễn viên (kịch, tuồng, chèo, điện ảnh...); kép, kép hát=film actor
-+ tài tử đóng phim, diễn viên điện ảnh
-- (từ hiếm,nghĩa hiếm) người làm (một việc gì)=a bad actor
-+ (từ Mỹ,nghĩa Mỹ) người khó tin cậy
+- đề mục (in chữ đỏ hoặc chữ lớn)
+- đoạn (viết chữ đỏ hoặc chữ lớn)
 @Chuyên ngành kỹ thuật
--người hành động
-@Lĩnh vực: vật lý
--cấu tác động
--cấu thực hiện
-@Lĩnh vực: hóa học & vật liệu
--chất đồng tác
+@Lĩnh vực: y học
+-thuộc nhân đỏ
+

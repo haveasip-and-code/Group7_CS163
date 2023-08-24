@@ -1,12 +1,7 @@
-delimit	
-@delimit /di:'limit/ (delimitate) /di'limiteot/
-*  ngoại động từ
-- giới hạn, định ranh giới, quy định, phạm vi
+nomograph
+	
+- toán đồ, đồ thị toán
 @Chuyên ngành kỹ thuật
--định giới hạn
--định ranh giới
--giới hạn
--phân ranh giới
--tách
 @Lĩnh vực: toán & tin
--phân giới
+-đồ thị toán
+

@@ -1,11 +1,9 @@
-descender	
-@descender
-- phần thấp của ký tự
-@Chuyên ngành kinh tế
--chữ cái có thân dưới (như những chữ g, p, j, y)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hàng con cháu
-@Lĩnh vực: toán & tin
--phần hạ thấp
--phần thụt xuống
+sweaty
+	
+*  tính từ
+- đầy mồ hôi, đẫm mồ hôi
+- như mồ hôi
+=a sweaty odour
++ mùi mồ hôi
+- làm đổ mồ hôi
+

@@ -1,9 +1,5 @@
-desilver	
-@desilver
-* ngoại động từ
-- loại chất bạc ra
-@Chuyên ngành kỹ thuật
--khử bạc
--loại bạc
-@Lĩnh vực: hóa học & vật liệu
--tách bạc
+analphabet
+	
+*  danh từ
+- người mù chữ
+

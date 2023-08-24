@@ -1,11 +1,12 @@
-thrifty	@thrifty /'θrifti/
+patient
+	
 *  tính từ
-- tiết kiệm, tằn tiện
-- (từ Mỹ,nghĩa Mỹ) thịnh vượng, phồn vinh
-@Chuyên ngành kinh tế
--cần kiệm
--tằn tiện
--tiết kiệm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tằn tiện
+- kiên nhẫn, nhẫn nại, bền chí
+!patient of
+- chịu đựng một cách kiên nhẫn
+- có thể nhận, phù hợp với
+=the facts are patient of two interpretation
++ những sự việc đó có thể có hai cách giải thích
+*  danh từ
+- người bệnh
+

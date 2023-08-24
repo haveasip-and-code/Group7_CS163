@@ -1,9 +1,7 @@
-quantic	@quantic
-- (đại số) dạng
-- binary q. dạng song biến
-- eubic q. dạng bậc ba
-- quartic q. dạng bậc bốn
-- quaternary q. dạng bốn biến số
-- ternary q. dạng ba biến số
-@Chuyên ngành kỹ thuật
--dạng
+acrostic
+	
+*  danh từ
+- (thơ ca) chữ đầu
+*  tính từ
+- (thuộc) thể thơ chữ đầu, theo thể thơ chữ đầu
+

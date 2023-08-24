@@ -1,11 +1,5 @@
-photostat	@photostat /'foutoustæt/
-*  danh từ
-- máy sao chụp
-- bản sao chụp
-@Chuyên ngành kinh tế
--bản sao chụp
--bản sao chụp trực tiếp
--máy sao chụp
--sao chụp bằng máy
--sao chụp bằng máy sao chụp trực tiếp
--sao chụp trực tiếp
+muttering
+	
+* danh từ
+- xem utter
+

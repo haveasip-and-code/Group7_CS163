@@ -1,8 +1,9 @@
-phenomenology	@phenomenology /fi,nɔmi'nɔlədʤi/
-*  danh từ
-- hiện tượng học
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--hiện tượng học
-@Lĩnh vực: điện lạnh
--hiện tượng luận
+patentor
+	
+* danh từ
+- người có bằng sáng chế; người mua đặc quyền sáng chế
+@Chuyên ngành kinh tế
+-người cấp bằng sáng chế
+-người phê chuẩn bằng sáng chế
+-người phê chuẩn bằng sáng chế (quyền chuyên lợi)
+

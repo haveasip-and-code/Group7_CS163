@@ -1,10 +1,16 @@
-flotilla	
-@flotilla /flotilla/
-*  danh từ
-- đội tàu nhỏ
+cleanse
+	
+*  ngoại động từ
+- làm cho sạch sẽ; làm cho tinh khiết; tẩy, rửa
+=to cleanse the blood
++ tẩy máu
+=to cleanse someone of his sin
++ tẩy rửa hết tội lỗi cho ai
+- nạo, vét (cống...)
+- (kinh thánh) chữa khỏi (bệnh hủi, phong...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--đội tàu nhỏ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--đội tàu nhỏ
+-khử bỏ tạp chất
+-làm sạch
+-nạo vét
+-tẩy rửa
+

@@ -1,9 +1,9 @@
-invertible	
-@invertible /in'və:təbl/
+unattended
+	
 *  tính từ
-- có thể lộn ngược, có thể đảo ngược, có thể xoay ngược; có thể lộn trong ra ngoài
+- không có người đi theo (hầu, giữ, chăm nom, phục dịch)
+- không chăm sóc, bỏ mặc
 @Chuyên ngành kỹ thuật
--thuận nghịch
-@Lĩnh vực: toán & tin
--khả nghịch
--nghịch đảo được
+-không có giám sát
+-không có người lái
+

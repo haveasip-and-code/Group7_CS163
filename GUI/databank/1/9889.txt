@@ -1,11 +1,13 @@
-clown	
-@clown /klaun/
-*  danh từ
-- anh hề, vai hề
-- người quê mùa
-- người thô lỗ; người mất dạy
-*  nội động từ
-- làm hề; đóng vai hề
+radian
+	
+*  tính từ
+- (toán học) Rađian
 @Chuyên ngành kỹ thuật
+-rad (đơn vị góc phẳng)
+@Lĩnh vực: toán & tin
+-đơn vị góc
+@Lĩnh vực: điện
+-rađian
 @Lĩnh vực: xây dựng
--hề
+-rađian (đơn vị đo góc)
+

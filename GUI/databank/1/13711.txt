@@ -1,9 +1,9 @@
-debugger	
-@debugger
-- (Tech) chương trình chỉnh lỗi
+hemicycle
+	
+* danh từ
+- cấu trúc cánh cung
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bộ gỡ dối
--bộ gỡ lỗi
--bộ gỡ rối
--trình gỡ rối
+-nửa đường tròn
+@Lĩnh vực: điện lạnh
+-bán nguyệt, cấu trúc cánh cung
+

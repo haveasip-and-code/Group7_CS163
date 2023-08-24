@@ -1,8 +1,6 @@
-delf	
-@delf /delf/ (delft) /delft/
-*  danh từ
-- đồ gốm đenfơ (sản xuất tại Hà
--lan)
-@Chuyên ngành kỹ thuật
--mạch quặng
--vỉa
+allowed
+	
+-được phép
+@Lĩnh vực: toán & tin
+-được thừa nhận
+

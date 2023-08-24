@@ -1,18 +1,28 @@
-ventilation	@ventilation /,venti'leiʃn/
+craft
+	
 *  danh từ
-- sự thông gió, sự thông hơi, sự quạt
-=the ventilation of the room+ sự thông gió gian phòng
-=fans for ventilation+ quạt để thông gió
-- (y học) sự lọc (máu) bằng oxy
-- sự đưa ra bàn luận rộng rãi
-=the problem requires ventilation+ vấn đề này cần được đưa ra bàn luận rộng rãi
+- nghề, nghề thủ công
+- tập thể những người cùng nghề (thủ công)
+- mưu mẹo, mánh khoé, ngón xảo quyệt, ngón lừa đảo
+- (số nhiều không đổi) (hàng hải) tàu
+- (số nhiều không đổi) máy bay
+- (the Craft) hội tam điểm
 @Chuyên ngành kinh tế
--sự thông gió
--sự thông hơi
--sự trao đổi không khí
+-kỹ thuật
+-kỹ xảo
+-nghề
 @Chuyên ngành kỹ thuật
--sự quạt
--sự quạt gió
--sự thông gió
--sự thông khí
--thông gió
+-kỹ thuật
+-kỹ xảo
+-nghề nghiệp
+-nhân lực
+-tàu
+-thủ công
+-xuồng
+@Lĩnh vực: xây dựng
+-nghề
+-sự khéo
+-tàu thủy
+@Lĩnh vực: cơ khí & công trình
+-thiết bị bay
+

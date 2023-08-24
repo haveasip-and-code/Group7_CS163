@@ -1,7 +1,31 @@
-doc	
-@doc /dɔk/
+washer
+	
 *  danh từ
-- (thông tục) thầy thuốc
+- người giặt, người rửa
+- máy giặt (quần áo); máy đãi (quặng)
+- giẻ rửa bát
+- (kỹ thuật) vòng đệm
+@Chuyên ngành kinh tế
+-bể rửa
+-mày rửa
+-thùng rửa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--doc
+-gioăng
+-long đền
+-máy giặt
+-máy rửa
+-miếng đệm
+-tấm đệm
+-tấm lót
+-tháp rửa
+-tháp rửa khí
+-vật hình đĩa
+-vòng đệm
+-vòng đệm cao su
+-vòng đệm dẹt
+-vòng đệm hình xuyến
+-vòng đệm kín
+-vòng lót
+@Lĩnh vực: điện
+-rông đen
+

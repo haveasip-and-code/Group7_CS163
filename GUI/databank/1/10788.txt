@@ -1,26 +1,9 @@
-compressor	
-@compressor /kəm'praiz/
-*  danh từ
-- (kỹ thuật) máy nén, máy ép=air compressor
-+ máy nén không khí=gas compressor
-+ máy nén khí
-@Chuyên ngành kinh tế
--máy nén khí
+multimedia
+	
+- đa phương tiện, đa môi trường, đa truyền thông
 @Chuyên ngành kỹ thuật
--máy đầm
--máy ép
--máy nén
--máy nén khí
-@Lĩnh vực: điện tử & viễn thông
--bộ nén
-@Lĩnh vực: y học
--cái ép, cái nén, máy nén
--kẹp nén
 @Lĩnh vực: toán & tin
--chương trình nén
-@Lĩnh vực: xây dựng
--máy khí nén
-@Lĩnh vực: điện
--máy nén (khí)
-@Lĩnh vực: ô tô
--máy nén (tăng áp)
+-đa môi trường
+-đa phương tiện
+-đa truyền thông
+

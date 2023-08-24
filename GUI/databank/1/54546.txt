@@ -1,6 +1,5 @@
-sunstone	@sunstone
-* danh từ
-- (khoáng chất) đá mặt trời
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--đá mặt trời
+prefab
+	
+*  danh từ
+- (thông tục) ((viết tắt) của prefabricated house) nhà làm sẵn
+

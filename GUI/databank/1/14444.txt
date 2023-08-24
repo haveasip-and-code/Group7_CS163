@@ -1,12 +1,12 @@
-dendroid	
-@dendroid /den'dritik/ (dendritical) /den'dritikəl/ (dendroid) /den'drɔid/ (dendroidal) /den'drɔidəl/
-*  tính từ
-- hình cây (đá, khoáng vật)
+backlog
+	
+*  danh từ
+- dự trữ
+- phần đơn hàng chưa thực hiện được
+@Chuyên ngành kinh tế
+-tồn đọng
 @Chuyên ngành kỹ thuật
--dạng cây
-@Lĩnh vực: hóa học & vật liệu
--dạng cành, dạng hình cây
-@Lĩnh vực: y học
--dạng phân nhánh
-@Lĩnh vực: toán & tin
--hình cây
+-sự ứ đọng
+@Lĩnh vực: vật lý
+-sự tồn đọng
+

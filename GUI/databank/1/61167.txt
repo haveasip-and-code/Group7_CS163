@@ -1,5 +1,13 @@
-valueless	@valueless /'vælvlis/
-*  tính từ
-- không có giá trị
-@Chuyên ngành kinh tế
--không có giá trị
+folium
+	
+* danh từ
+- số nhiều folia
+- lá
+- (toán học) đường cong hình lá
+- (địa chất) tầng mỏng
+@Chuyên ngành kỹ thuật
+-lá
+-lớp
+@Lĩnh vực: cơ khí & công trình
+-mạch mỏng
+

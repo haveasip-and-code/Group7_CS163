@@ -1,8 +1,6 @@
-tilde	@tilde /tild/
-*  danh từ
-- dấu sóng (dùng thay từ lặp lại trong từ điển)
-- dẫu ngã, dấu mềm (trên chữ n ở tiếng Tây ban nha)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--dấu ngã
--dấu sóng
+secluded
+	
+* tính từ
+- hẻo lánh; không có nhiều người trông thấy, không có nhiều người đến thăm
+- ẩn dật; không chung đụng, không hơn thua với ai khác
+

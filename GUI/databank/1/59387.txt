@@ -1,9 +1,7 @@
-undrained	@undrained
-* tính từ
-- không tiêu nước, chưa tiêu nước, không tháo khô, chưa tháo khô
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--không được thoát nước
--không được tiêu nước
-@Lĩnh vực: xây dựng
--không thoát nước
+stockfish
+	
+*  danh từ
+- cá khô không muối (thường là cá moruy)
+@Chuyên ngành kinh tế
+-cá khô không muối
+

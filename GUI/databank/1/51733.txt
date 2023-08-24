@@ -1,19 +1,13 @@
-soldering	@soldering
-* danh từ
-- sự hàn
-- electic soldering
-- sự hàn điện
-- mối hàn
+setup
+	
+- cơ cấu của một tổ chức
+- mưu mô sắp đặt để lừa người
+- cài đặt, thiết lập
+@Chuyên ngành kinh tế
+-sự chu tất
+-sự cung liệu đầy đủ
 @Chuyên ngành kỹ thuật
--mối hàn
--sự hàn
--sự hàn (gắn)
--sự hàn mềm
--sự hàn thiếc
--sự hàn vảy
-@Lĩnh vực: xây dựng
--hàn vảy
-@Lĩnh vực: cơ khí & công trình
--việc hàn
-@Lĩnh vực: điện
--việc hàn (thiếc, bạc...)
+-sự cài đặt
+@Lĩnh vực: toán & tin
+-thiết lập, cài đặt
+

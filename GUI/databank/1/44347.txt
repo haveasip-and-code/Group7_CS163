@@ -1,8 +1,5 @@
-provincial	@provincial /provincial/
+histological
+	
 *  tính từ
-- (thuộc) tỉnh
-- có tính chất tỉnh lẻ, có tác phong tỉnh lẻ (đối với thủ đô)
-- thịnh hành ở tỉnh lẻ
-*  danh từ
-- người tỉnh lẻ; anh chàng quê kệch
-- (tôn giáo) trưởng địa phận
+- (sinh vật học) (thuộc) mô học, (thuộc) khoa nghiên cứu mô
+

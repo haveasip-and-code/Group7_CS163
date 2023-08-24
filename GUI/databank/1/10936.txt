@@ -1,6 +1,9 @@
-concretism	
-@concretism
-* danh từ
-- thuyết cụ thể hoá những khái niệm trừu tượng
-- thuyết nhấn mạnh khía cạnh chữ viết trong thơ
-- cụ thể luận
+trinomial
+	
+*  tính từ
+- (toán học) (thuộc) tam thức
+=trinomial equation
++ phương trình tam thức
+*  danh từ
+- (toán học) tam thức
+

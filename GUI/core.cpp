@@ -19,6 +19,8 @@ extern bool writeFlag;
 
 const int blcsize=1000;
 
+string separator="-0o+-lso6483";
+
 void addWord(trieNode* dataSet,string &cur,string &definition) {
     trieNode* tmp=dataSet->insert(cur);
     if (!tmp) {
@@ -205,8 +207,20 @@ void bulkLoadingFromDataSet(TSTNode* dataSet,string &path) {
     inp.open(path);
     string s1,s2;
     while (inp>>s1) {
-        getline(inp,s2);
-        addWord(dataSet,s1,s2);
+        if (s1[1]=='-'&&s1[2]=='-'&&s1[3]=='-') {
+            continue;
+        }
+        string tmp="";
+        while (getline(inp,s2)) {
+            if (s2[1]=='-'&&s2[2]=='-'&&s2[3]=='-') {
+                break;
+            }
+            else {
+                if (tmp=="") tmp=s2;
+                else tmp+="\n"+s2;
+            }
+        }
+        addWord(dataSet,s1,tmp);
     }
     inp.close();
     debugFlag=true;
@@ -300,6 +314,7 @@ void saveHistory() {
     out.open(historyPath);
     for (int i=0;i<historyList.size();i++) {
         out<<historyList[i].first<<'\n'<<historyList[i].second<<'\n';
+        out<<separator<<'\n';
     }
     out.close();
 }
@@ -309,7 +324,13 @@ void loadHistory() {
     in.open(historyPath);
     string s1,s2;
     while (getline(in,s1)) {
-        getline(in,s2);
+        string tmp;
+        getline(in,tmp);
+        s2="";
+        if (tmp!=separator) {
+            if (s2=="") s2=tmp;
+            else s2+="\n"+tmp;
+        }
         historyList.push_back({s1,s2});
     }
     in.close();
@@ -320,6 +341,7 @@ void saveFav() {
     out.open(favouritePath);
     for (int i=0;i<favouriteList.size();i++) {
         out<<favouriteList[i].first<<'\n'<<favouriteList[i].second<<'\n';
+        out<<separator<<'\n';
     }
     out.close();
 }
@@ -329,7 +351,13 @@ void loadFav() {
     in.open(favouritePath);
     string s1,s2;
     while (getline(in,s1)) {
-        getline(in,s2);
+        string tmp;
+        getline(in,tmp);
+        s2="";
+        if (tmp!=separator) {
+            if (s2=="") s2=tmp;
+            else s2+="\n"+tmp;
+        }
         favouriteList.push_back({s1,s2});
     }
     in.close();

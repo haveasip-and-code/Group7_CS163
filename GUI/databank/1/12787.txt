@@ -1,11 +1,6 @@
-crowbar	
-@crowbar
-* danh từ
-- cái xà beng, cái nạy nắp thùng, cái đòn bẫy
-@Chuyên ngành kỹ thuật
--choòng
-@Lĩnh vực: điện lạnh
--đòn ngắt cầu dao
-@Lĩnh vực: xây dựng
--gậy sắt
--xà beng
+rewiring
+	
+@Lĩnh vực: điện
+-sự đấu dây lại
+-sự đi dây lại
+

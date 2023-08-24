@@ -1,12 +1,28 @@
-shuttle	@shuttle /'ʃʌtl/
+banner
+	
 *  danh từ
-- con thoi
-- động từ
-- qua lại như con thoi; làm cho qua lại như con thoi
+- ngọn cờ
+=the banner of freedom
++ ngọn cờ tự do
+=under the banner of Lenin
++ dưới ngọc cờ của Lênin
+- biểu ngữ
+- (từ Mỹ,nghĩa Mỹ) đầu đề chữ lớn suốt mặt trang báo
+*  định ngữ
+- tốt; quan trọng; hạng nhất
+=banner year
++ năm kỷ lục
+!to carry the banner
+- (từ Mỹ,nghĩa Mỹ), (mỉa mai) đi lang thang suốt đêm không có chỗ trú chân (những người thất nghiệp)
+!to follow (join) the banner of...
+- đi theo ngọn cờ của..., theo phe đảng của...
+!to unfurl one's banner
+- tuyên bố chương trình của mình; bày tỏ quan điểm của mình
+@Chuyên ngành kinh tế
+-băng quảng cáo
 @Chuyên ngành kỹ thuật
--con thoi không gian
--máy bay con thoi
-@Lĩnh vực: điện lạnh
--chuyển động đi lại
-@Lĩnh vực: cơ khí & công trình
--cung trượt (van phân phối)
+-biểu ngữ
+-cờ hiệu
+@Lĩnh vực: toán & tin
+-tựa đề lớn
+

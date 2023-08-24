@@ -1,9 +1,23 @@
-thermostable	@thermostable /,θə:mou'steibl/
-*  tính từ
-- chịu nóng, chịu nhiệt
-@Chuyên ngành kinh tế
--ổn định nhiệt
+lithograph
+	
+*  danh từ
+- tờ in đá, tờ in thạch bản
+*  ngoại động từ
+- in đá, in thạch bản
 @Chuyên ngành kỹ thuật
--bền nhiệt
--chịu nhiệt
--ổn định nhiệt
+-bản in litô
+-đá
+-in litô
+@Lĩnh vực: điện tử & viễn thông
+-in thạch bản
+@Lĩnh vực: xây dựng
+-tờ in đá
+@Chuyên ngành kỹ thuật
+-bản in litô
+-đá
+-in litô
+@Lĩnh vực: điện tử & viễn thông
+-in thạch bản
+@Lĩnh vực: xây dựng
+-tờ in đá
+

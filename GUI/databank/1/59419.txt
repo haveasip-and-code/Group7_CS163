@@ -1,11 +1,10 @@
-unearth	@unearth /'ʌn'ə:θ/
-*  ngoại động từ
-- đào lên, khai quật (tử thi), bới ra
-- (thông tục) mò ra, tìm ra, phát hiện
-- làm cho chui ra (từ hang, hốc)
+decibel
+	
+- (Tech) đêxiben (dB)
 @Chuyên ngành kỹ thuật
--khai quật
-@Lĩnh vực: xây dựng
--bới đất
-@Lĩnh vực: hóa học & vật liệu
--đào xới
+-đexiben
+@Lĩnh vực: toán & tin
+-dB
+@Lĩnh vực: điện
+-đêxiben
+

@@ -1,32 +1,11 @@
-transient	@transient /'trænziənt/
-*  tính từ
-- ngắn ngủi, nhất thời, chóng tàn
-=transient success+ thắng lợi nhất thời
-- tạm thời
-- thoáng qua, nhanh, vội vàng
-=transient sorrow+ nỗi buồn thoáng qua
-=a transient gleam of hope+ một tia hy vọng thoáng qua
-=to cast a transient look at+ đưa mắt nhìn vội, nhìn thoáng qua
-- ở thời gian ngắn
-=transient guest+ khách ở lại thời gian ngắn
-=transient lodger+ người trọ ngắn ngày
-- (âm nhạc) (thuộc) nốt đệm
+impairment
+	
 *  danh từ
-- khách ở lại thời gian ngắn; khách trọ ngắn ngày
-@Chuyên ngành kinh tế
--khách ở lại thời gian ngắn
--khách trọ ngắn ngày
--thời gian ngắn ngủi
+- sự làm suy yếu, sự làm sút kém; sự suy yếu, sự sút kém
+- sự làm hư hỏng, sự làm hư hại; sự hư hỏng, sự hư hại
 @Chuyên ngành kỹ thuật
--điện áp
--giao thời
--hiện tượng chuyển tiếp
--ngắn hạn
--ngắn ngủi
--nhất thời
--quá độ
--quá trình chuyển tiếp
--sự chuyển tiếp
--sự nhất thời
--sự quá độ
--tam tinh
+-sự hư hỏng
+-suy yếu
+@Lĩnh vực: xây dựng
+-sự làm yếu
+

@@ -1,18 +1,12 @@
-projector	@projector /projector/
+apposition
+	
 *  danh từ
-- người đặt kế hoạch, người đặt đề án
-- người đề xướng thành lập các tổ chức đầu cơ
-- máy chiếu; đèn pha
-- súng phóng
+- sự đóng (dấu), sự áp (triện)
+- sự áp đặt vào; sự ghép vào
+- (ngôn ngữ học) phần chêm
+=in apposition to
++ là phần chêm của
 @Chuyên ngành kỹ thuật
--đèn chiếu
--đèn pha
--đường chiếu
--người thiết kế
--máy chiếu
-@Lĩnh vực: toán & tin
--dụng cụ chiếu
-@Lĩnh vực: vật lý
--máy chiếu hình
-@Lĩnh vực: điện lạnh
--súng phóng
+@Lĩnh vực: y học
+-sự khép, sự áp đặt
+

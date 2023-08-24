@@ -1,26 +1,11 @@
-switching	@switching
-* danh từ
-- sự chuyển mạch
-- machine switching
-- sự chuyển mạch tự động
-- sự đóng ngắt điện; sự bẻ ghi
+scenario
+	
+*  danh từ,  số nhiều scenarios
+/si'nɑ:riouz/
+- truyện phim, cốt kịch, kịch bản
 @Chuyên ngành kinh tế
--chuyển loại đối tượng đầu tư
--chuyển qua tay giao dịch mua, bán chứng khoán đồng thời
--sự chuyển đổi
--sự chuyển đổi qua tay
+-phương pháp kịch bản
 @Chuyên ngành kỹ thuật
--chuyển đổi
--ngắt mạch
--sự chuyển mạch
--sự dồn toa
--thay chỗ
--thay thế
-@Lĩnh vực: điện
--đảo mạch
-@Lĩnh vực: giao thông & vận tải
--sự bẻ ghi
--sự rẽ đường tàu
-@Lĩnh vực: toán & tin
--sự chuyển (chương trình)
--sự đóng ngắt điện
+@Lĩnh vực: xây dựng
+-diễn tiến
+

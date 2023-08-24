@@ -1,7 +1,6 @@
-tobacconist	@tobacconist /tə'bækənist/
-*  danh từ
-- người bán thuốc lá
-- người buôn thuốc lá
-@Chuyên ngành kinh tế
--người bán thuốc lá (lẻ)
--người buôn thuốc lá
+normalized
+	
+-định mức
+@Lĩnh vực: điện lạnh
+-chuẩn hóa
+

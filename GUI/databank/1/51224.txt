@@ -1,14 +1,13 @@
-slitter	@slitter
+repeller
+	
 * danh từ
-- máy xẻ
-- dao rạch
-- lưỡi khoét rãnh
-- người rạch/xẻ
-@Chuyên ngành kinh tế
--kéo hình đĩa
+- người xua đuổi/đuổi ra/cự tuyệt
+- chất xua đuổi
 @Chuyên ngành kỹ thuật
--dao đĩa
--lưỡi khoét rãnh
--máy khoét rãnh
-@Lĩnh vực: cơ khí & công trình
--cưa mỏng
+-bộ đảo hướng (chùm electron ở đèn điện tử)
+-bộ đẩy ngược
+@Lĩnh vực: điện
+-bộ phản xạ
+@Lĩnh vực: toán & tin
+-phiến dội
+

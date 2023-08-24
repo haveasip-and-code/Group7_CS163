@@ -1,20 +1,18 @@
-sequestration	@sequestration /,si:kwes'treiʃn/
-*  danh từ
-- sự để riêng ra, sự cô lập
-- sự ở ẩn, sự ẩn cư
-- (pháp lý) sự tịch thu tạm thời (tài sản của người thiếu nợ)
+insoluble
+	
+*  tính từ
+- không hoà tan được
+- không giải quyết được
 @Chuyên ngành kinh tế
--nhờ giữ
--sai áp
--sự gửi giữ
--sự phá sản
--sự tạm giữ
--sự tịch biên
--sự tịch thu (tài sản...)
--sự tịch thu tạm thời (tài sản...)
+-không hòa tan được
 @Chuyên ngành kỹ thuật
+-không giải được
+@Lĩnh vực: xây dựng
+-không hòa tan
+@Lĩnh vực: điện lạnh
+-không hòa tan (được)
+@Lĩnh vực: toán & tin
+-không hòa tan được
 @Lĩnh vực: hóa học & vật liệu
--sự càng hóa
--sự chelat hóa
-@Lĩnh vực: y học
--sự tạo mảnh
+-không tan
+

@@ -1,18 +1,12 @@
-apex	
-@apex /'eipeks/
-*  danh từ,  số nhiều apexes,  apices
-- đỉnh ngọc, chỏm=the apex of a triangle
-+ đỉnh của một tam giác
-- (thiên văn học) điểm apec
+replication
+	
+* danh từ
+- sự tái tạo; tình trạng là bản sao của (cái gì)
 @Chuyên ngành kỹ thuật
--chỏm
--đỉnh
--ngọn
--nóc nhà
--mũi
--xà nóc
-@Lĩnh vực: điện lạnh
--điểm acpec
-@Lĩnh vực: xây dựng
--đỉnh mái dốc
--đỉnh, chóp (mái)
+-sao chép
+-sự sao chép
+-sự sao lại
+-sự tái tạo
+@Lĩnh vực: toán & tin
+-sự tạo bản sao
+

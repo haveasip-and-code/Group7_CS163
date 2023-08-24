@@ -1,3 +1,12 @@
-prescript	@prescript /'pri:skript/
-*  danh từ
-- mệnh lệnh, sắc lệnh, luật
+causal
+	
+*  tính từ
+- (thuộc) nguyên nhân
+- (thuộc) quan hệ nhân quả
+=causal relation
++ quan hệ nhân quả
+@Chuyên ngành kỹ thuật
+-hậu quả
+-kết quả
+-nguyên nhân
+

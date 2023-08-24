@@ -1,4 +1,11 @@
-categories	
+telephony
+	
+*  danh từ
+- điện thoại
 @Chuyên ngành kỹ thuật
--hạng mục
--loại
+-điện thoại
+@Lĩnh vực: điện tử & viễn thông
+-hệ điện thoại
+@Lĩnh vực: xây dựng
+-khoa điện thoại
+

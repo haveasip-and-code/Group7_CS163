@@ -1,4 +1,18 @@
-multimode	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đa chế độ
--nhiều chế độ
+chilling
+	
+*  tính từ
+- lạnh, làm ớn lạnh
+- làm nhụt (nhuệ khí, nhiệt tình...)
+@Chuyên ngành kinh tế
+-lạnh
+-sự làm lạnh
+@Chuyên ngành kỹ thuật
+-làm lạnh
+-sự làm lạnh
+-sự làm nguội
+-sự tôi
+-tôi
+@Lĩnh vực: điện lạnh
+-sự làm mát
+-sự tôi lạnh
+

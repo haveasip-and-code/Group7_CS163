@@ -1,4 +1,19 @@
-coleopterist	
-@coleopterist
-* danh từ
-- người nghiên cứu bộ sâu bọ cánh cứng
+legend
+	
+*  danh từ
+- truyện cổ tích, truyền thuyết
+- chữ khắc (trên đồng tiền, trên huy chương)
+- lời ghi chú, câu chú giải (trên tranh ảnh minh hoạ)
+@Chuyên ngành kỹ thuật
+-ghi chú
+@Lĩnh vực: toán & tin
+-chú giải
+-chú thích
+-phụ đề
+@Chuyên ngành kỹ thuật
+-ghi chú
+@Lĩnh vực: toán & tin
+-chú giải
+-chú thích
+-phụ đề
+

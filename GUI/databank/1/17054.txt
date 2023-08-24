@@ -1,9 +1,10 @@
-duress	
-@duress /djuə'res/ (duresse) /djuə'res/
-*  danh từ
-- sự câu thúc, sự cầm tù
-- sự cưỡng ép, sự ép buộc=to do something under duress
-+ làm gì do cưỡng ép
+synergistic
+	
+* tính từ
+- xem synergic
 @Chuyên ngành kinh tế
--cưỡng hành cưỡng bách thi hành (hợp đồng đã ký kết)
--sự cưỡng chế
+-điều phối
+-hợp lực
+@Chuyên ngành kỹ thuật
+-hợp lực
+

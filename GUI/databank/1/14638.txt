@@ -1,6 +1,8 @@
-deputation	
-@deputation /,depju:'teiʃn/
+sprite
+	
 *  danh từ
-- sự uỷ nhiệm
-- sự cử đại biểu
-- đại biểu, đại diện; đoàn đại biểu, phái đoàn
+- yêu tinh, ma quỷ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình sprit (ở đồ họa máy tính)
+

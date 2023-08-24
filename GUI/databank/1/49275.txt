@@ -1,22 +1,8 @@
-scribe	@scribe /skraib/
-*  danh từ
-- người viết, người biết viết
-- người sao chép bản thảo
-- (kinh thánh) người Do thái giữ công văn giấy tờ
-- (từ cổ,nghĩa cổ) nhà luật học và thần học Do thái
-- (như) scriber
-*  ngoại động từ
-- kẻ bằng mũi nhọn
-@Chuyên ngành kinh tế
--cái cưa cột xương sống (của súc vật)
+intermit
+	
+*  động từ
+- thỉnh thoảng lại ngừng, lúc có lúc không, gián đoạn
 @Chuyên ngành kỹ thuật
--kẻ đường
--khắc
--khía
--mũi vạch
--sao chép
--vạch
--vạch dấu
--vẽ sơ đồ
-@Lĩnh vực: toán & tin
--vạch kẻ đường
+-làm đứt đoạn
+-làm gián đoạn
+

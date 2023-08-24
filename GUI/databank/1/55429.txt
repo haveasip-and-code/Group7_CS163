@@ -1,4 +1,9 @@
-tailgate	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--cửa hậu
--cửa sau xe
+gooseneck
+	
+-chỗ thắt
+@Lĩnh vực: cơ khí & công trình
+-cái khuỷu
+@Lĩnh vực: điện
+-cần micrô
+-cổ đèn
+

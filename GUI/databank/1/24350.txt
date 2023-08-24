@@ -1,7 +1,8 @@
-groceries	
-@groceries
-* danh từ số nhiều
-- hàng tạp phẩm
-@Chuyên ngành kinh tế
--hàng tạp hóa và thực phẩm phụ
--hàng tạp phẩm
+trippingly
+	
+*  phó từ
+- nhẹ nhàng, mau lẹ, thoắn thoắt (đi)
+- lưu loát (nói)
+=to speak trippingly
++ nói lưu loát
+

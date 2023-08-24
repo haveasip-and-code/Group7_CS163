@@ -1,11 +1,7 @@
-gateway	
-@gateway /'geitwei/
-*  danh từ
-- cổng vào ((nghĩa đen) & (nghĩa bóng))
+counterforce
+	
+* danh từ
+- lực đối lập, lực phản kháng
 @Chuyên ngành kỹ thuật
--cửa ngõ
--cửa vào
--lộ môn
-@Lĩnh vực: xây dựng
--âu (thuyền) đơn
--cổng ra vào, cửa ngõ
+-lực phản tác dụng
+

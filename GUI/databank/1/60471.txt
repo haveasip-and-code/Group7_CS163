@@ -1,3 +1,7 @@
-unsharp	@unsharp
+trunked
+	
 * tính từ
-- không sắc, không nhọn
+- có một kiểu thân riêng
+= a grey trunked tree
++cây thân xám
+

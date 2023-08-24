@@ -1,20 +1,5 @@
-gift	
-@gift /gift/
-*  danh từ
-- sự ban cho, sự cho, sự tặng=I would not take (have) it at a gift
-+ không cho tôi cũng lấy
-- quà tặng, quà biếu=birthday gifts
-+ quà tặng vào dịp ngày sinh
-- tài, thiên tài, năng khiếu=a gift for poetry
-+ tài làm thơ=the gift of the gab
-+ tài ăn nói
-*  ngoại động từ
-- tặng, biếu, cho
-- ban cho, phú cho
-@Chuyên ngành kinh tế
--quà biếu
--quà tặng
--sự tặng
--tặng phẩm
-@Chuyên ngành kỹ thuật
--quà tặng
+shameless
+	
+*  tính từ
+- không biết thẹn, không biết xấu hổ, vô liêm sỉ, trở trẽn
+

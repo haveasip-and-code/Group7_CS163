@@ -1,12 +1,5 @@
-airspace	
-@airspace
-* danh từ
-- vùng trời, không phận
-@Chuyên ngành kinh tế
--không phận
-@Chuyên ngành kỹ thuật
--khoảng không
-@Lĩnh vực: xây dựng
--khoảng không khí
--lớp không khí
--vùng trời
+jussive
+	
+*  tính từ
+- (ngôn ngữ học) mệnh lệnh
+

@@ -1,13 +1,7 @@
-simplex	@simplex
-* danh từ
-- (vô tuyến) hệ đơn công
-- (toán học) đơn hình
-@Chuyên ngành kỹ thuật
--đơn công
--đơn phương
--một chiều
-@Lĩnh vực: toán & tin
--đơn hình
--một mặt giấy
-@Lĩnh vực: xây dựng
--đơn thông
+happening
+	
+*  danh từ,  (thường) số nhiều
+- sự việc xảy ra, chuyện xảy ra; biến cố
+=what a stranger happening!
++ thật là một sự việc kỳ quặc!
+

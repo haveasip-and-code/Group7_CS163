@@ -1,25 +1,10 @@
-squelch	@squelch /skweltʃ/
-*  danh từ
-- (thông tục) sự giẫm bẹp, sự giẫm nát
-- sự chấm dứt
-- tiếng lép nhép, tiếng ì ọp (như khi rút chân ở dưới bùn lên); tiếng rơi bẹt (xuống vật mềm)
-- đống (bùn, phân...) bị giẫm nát
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) câu trả lời điếng người, câu đối đáp điếng người, câu bẻ lại làm cứng họng
-*  ngoại động từ
-- giẫm bẹp, đè bẹp (một phong trào)
-- chấm dứt, làm hết
-=to squelch a thirst+ làm cho hết khát
-- làm im, làm cứng họng, làm câm họng
-*  nội động từ
-- lõm bõm, lép nhép, ì ọp
-=to squelch through the mud+ lội lõm bõm trong bùn
+peptide
+	
+* danh từ
+- (sinh (hoá học)) sự kết hợp của hai hay nhiều axit amin tạo thành chuỗi
+@Chuyên ngành kinh tế
+-peptit
 @Chuyên ngành kỹ thuật
--làm tắt
--lặng yên
--nén lặng
--mạch làm tắt
--mạch nén lặng
--sự làm tắt
--sự nén lặng
-@Lĩnh vực: điện
--sự giảm ồn
+@Lĩnh vực: y học
+-một phân tử gồm hai hay nhiều amino axit liên kết với nhau
+

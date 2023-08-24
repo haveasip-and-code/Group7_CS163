@@ -1,24 +1,6 @@
-format	
-@format /'fɔ:mæt/
-*  danh từ
-- khổ (sách, giấy, bìa...)
-@Chuyên ngành kinh tế
--bản mẫu
--cỡ
--dạng
--khổ
--khuôn khổ
-@Chuyên ngành kỹ thuật
--biểu mẫu
--dạng
--định dạng
--hình thức
--khổ
--khuôn
--khuôn dạng
--khuôn thức
--mẫu
-@Lĩnh vực: toán & tin
--dạng mẫu
--dạng thức
--quy cách
+rentable
+	
+*  tính từ
+- có thể cho thuê
+- có thể thuê
+

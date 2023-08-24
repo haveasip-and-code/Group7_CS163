@@ -1,3 +1,51 @@
-mountainside	@mountainside
-* danh từ
-- cạnh dốc của một ngọn núi
+license
+	
+*  ngoại động từ
++ (license) /'laisəns/
+- cho phép; cấp giấy phép, cấp môn bài, cấp đăng ký
+*  danh từ
+- sự cho phép; giấy phép, môn bài, đăng ký
+=marriage licence
++ giấy đăng ký kết hôn
+=shooting licence
++ giấy phép săn bắn
+- bằng, chứng chỉ
+=driving licence
++ bằng lái xe
+- bằng cử nhân
+- sự phóng túng, sự bừa bâi; sự dâm loạn
+- (thơ ca) sự phóng túng về niêm luật
+@Chuyên ngành kinh tế
+-bài chỉ
+-cấp giấy phép (cho)
+-cho phép (ai làm...)
+-giấy phép kỹ thuật
+-môn bài
+-sự cho phép
+@Chuyên ngành kỹ thuật
+-bản quyền
+-bằng cấp
+-chứng chỉ
+-đăng ký
+-giấy chứng nhận
+-giấy phép
+-môn bài
+-quyền sử dụng
+-sự cho phép
+-sự đăng ký
+@Lĩnh vực: toán & tin
+-cấp quyền
+@Chuyên ngành kỹ thuật
+-bản quyền
+-bằng cấp
+-chứng chỉ
+-đăng ký
+-giấy chứng nhận
+-giấy phép
+-môn bài
+-quyền sử dụng
+-sự cho phép
+-sự đăng ký
+@Lĩnh vực: toán & tin
+-cấp quyền
+

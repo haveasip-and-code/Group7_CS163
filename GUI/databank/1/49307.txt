@@ -1,24 +1,11 @@
-scrub	@scrub /skrʌb/
+physician
+	
 *  danh từ
-- bụi cây, bụi rậm; nơi có bụi cây, nơi có bụi rậm
-- bàn chải mòn, có ria ngắn
-- người còi, con vật còi, cây còi; người tầm thường, vật vô giá trị
-- (thể dục,thể thao) đấu thủ loại kém, đấu thủ không được vào chính thức; (số nhiều) đội gồm toàn đấu thủ loại kém; đội gồm toàn đấu thủ tạp nham
-*  động từ
-- lau, chùi, cọ
-- lọc hơi đốt
-- (từ lóng) bỏ đi, huỷ bỏ
-@Chuyên ngành kinh tế
--bàn chải mòn
--bụi
--làm sạch
--rửa
--thuốc lá chất lượng thấp
+- thầy thuốc
+- (nghĩa bóng) người chữa
 @Chuyên ngành kỹ thuật
--chùi
--làm sạch
--lau
--lọc
--tinh chế
-@Lĩnh vực: toán & tin
--chùi, xóa
+@Lĩnh vực: xây dựng
+-bác sỹ
+@Lĩnh vực: y học
+-thầy thuốc
+

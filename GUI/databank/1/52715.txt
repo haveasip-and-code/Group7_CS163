@@ -1,5 +1,34 @@
-sprint	@sprint /sprint/
+mantle
+	
 *  danh từ
-- sự chạy nhanh, sự chạy nước rút; nước rút
-*  động từ
-- chạy nước rút, chạy hết tốc lực
+- áo khoác, áo choàng không tay
+- (nghĩa bóng) cái che phủ, cái che đậy
+- măng sông đèn
+- (giải phẫu) vỏ nâo, vỏ đại não
+- (động vật học) áo (của động vật thân mềm)
+*  ngoại động từ
+- choàng, phủ khăn choàng
+- che phủ, che đậy, bao bọc
+*  nội động từ
+- sủi bọt, có váng (nước, rượu)
+- xông lên mặt (máu); đỏ ửng lên (mặt)
+=face mantled with blushes
++ mặt đỏ ửng lên
+=blushes mantled on one's cheeks
++ má đỏ ửng lên
+@Chuyên ngành kỹ thuật
+-áo
+-bao
+-đoạn ống
+-lớp
+-lớp áo
+-lớp ốp mặt
+-lớp phủ
+-nắp
+-ống
+-vỏ
+-vỏ bọc
+-vỏ mỏng
+@Lĩnh vực: cơ khí & công trình
+-măngsông đèn
+

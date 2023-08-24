@@ -1,11 +1,20 @@
-octal	@octal
-* tính từ
-- thuộc hệ thống lấy số 8 làm cơ sở
+obsolescence
+	
+*  danh từ
+- sự không còn dùng nữa, tính cũ đi
+- (sinh vật học) sự teo dần
+@Chuyên ngành kinh tế
+-sự cũ bỏ (của tài sản)
+-sự cũ đi sự lỗi thời
+-sự phế bỏ (hàng hóa)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bát phân
--cơ số 8
--cơ số tám
--hệ tám, bát phân
+-hao mòn
+-không còn dùng được nữa
+-lạc hậu
+@Lĩnh vực: y học
+-sự cằn cỗi
 @Lĩnh vực: xây dựng
--có tám mặt
+-sự lỗi thời
+-tính lỗi thời
+-tình trạng lỗi thời
+

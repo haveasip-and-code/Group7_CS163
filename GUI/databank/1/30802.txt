@@ -1,10 +1,33 @@
-keloid	
-@keloid
-* danh từ
-- sẹo đầy, sẹo trâu
+deficiency
+	
+*  danh từ
+- sự thiếu hụt, sự không đầy đủ
+- số tiền thiếu hụt; lượng thiếu hụt
+=to make up a deficiency
++ bù vào chỗ thiếu hụt
+- sự thiếu sót, sự kém cỏi, sự bất tài
+- (toán học) số khuyết
+=deficiency of a curve
++ số khuyết của một đường
+=y deficiency disease
++ bệnh thiếu vitamin
+=mental deficiency
++ chứng đần
+@Chuyên ngành kinh tế
+-sự không đầy đủ
+-sự thiếu hụt
+-thâm hut
 @Chuyên ngành kỹ thuật
+-chỗ thiếu
+-khuyết tật
+-nhược điểm
+-số khuyết
+-sự hụt
+-sự thiếu
+-sự thiếu hụt
+-sự trục trặc
+@Lĩnh vực: điện lạnh
+-chỗ hụt
 @Lĩnh vực: y học
--sẹo lồi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sẹo lồi
+-sự thiếu, thiếu hụt
+

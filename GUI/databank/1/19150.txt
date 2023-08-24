@@ -1,8 +1,7 @@
-estimating	
-@Chuyên ngành kinh tế
--số ước tính phí tổn
--việc ước tính phí tổn
+pathfinding
+	
+- xem pathfinder
 @Chuyên ngành kỹ thuật
--sự xác định
-@Chuyên ngành kỹ thuật
--sự xác định
+@Lĩnh vực: toán & tin
+-tìm đường
+

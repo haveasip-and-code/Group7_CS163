@@ -1,7 +1,13 @@
-inquirer	
-@inquirer /in'kwaiərə/ (enquiry) /in'kwaiəri/
-*  danh từ
-- người điều tra, người thẩm tra
+sighting
+	
+* danh từ
+- sự trông thấy; sự bị trông thấy
 @Chuyên ngành kinh tế
--người hỏi giá
--người hỏi tin tức
+-sự xuất trình (một phiếu khoán)
+@Chuyên ngành kỹ thuật
+-sự ngắm
+-sự ngắt
+-sự quan trắc
+@Lĩnh vực: xây dựng
+-sự (quan trắc) định vị trí
+

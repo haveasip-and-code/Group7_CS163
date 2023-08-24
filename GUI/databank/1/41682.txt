@@ -1,10 +1,15 @@
-pipette	@pipette /pi'pet/
-*  danh từ
-- pipet (dùng trong thí nghiệm hoá học)
+lam
+	
+*  động từ
+- (từ lóng) đánh, quật, vụt (bằng gậy)
+=to lam [into] somebody
++ quật ai, đánh ai
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trốn tránh, chạy trốn, lẩn trốn
 @Chuyên ngành kỹ thuật
--ống nhỏ giọt
-@Lĩnh vực: điện
--côntơgut
--ống nhỏ nhọt
-@Lĩnh vực: vật lý
--ống pipet
+-sét chịu lửa
+-sét pha cát
+@Chuyên ngành kỹ thuật
+-sét chịu lửa
+-sét pha cát
+

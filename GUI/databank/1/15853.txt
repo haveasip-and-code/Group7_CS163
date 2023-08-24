@@ -1,13 +1,16 @@
-dished	
-@dished /diʃt/
+dimensional
+	
 *  tính từ
-- lõm lòng đĩa
+- thuộc chiều; thuộc kích thước, thuộc khổ, thuộc cỡ
+- (toán học) (thuộc) thứ nguyên
+=dimensional analysis
++ phân tích thứ nguyên
+=dimensional unit
++ đơn vị thứ nguyên
 @Chuyên ngành kỹ thuật
--dạng đĩa
--được vuốt sâu
--hình đĩa
--lõm
--lõm hình đĩa
--lõm lòng đĩa
+-thứ nguyên
+@Lĩnh vực: toán & tin
+-chiều
 @Lĩnh vực: xây dựng
--có hình vòm
+-có kích thước
+

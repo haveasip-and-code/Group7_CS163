@@ -1,6 +1,8 @@
-betting	
-@betting
-- sự đánh cuộc
-@Chuyên ngành kỹ thuật
+nesting
+	
+-làm tổ
+-sự bao bọc
+-sự lồng
 @Lĩnh vực: toán & tin
--sự đánh cuộc
+-sự lồng nhau
+

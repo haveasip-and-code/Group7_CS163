@@ -1,5 +1,20 @@
-greener	
-@greener /'gri:nə/
-*  danh từ (từ lóng)
-- người chưa có kinh nghiệm, người mới vào nghề, lính mới
-- người nước ngoài mới đến đang tìm việc làm
+canteen
+	
+*  danh từ
+- căng tin
+=dry canteen
++ căng tin không bán rượu
+=wet canteen
++ căng tin có bán rượu
+- bi đông (đựng nước)
+- đồ dùng nấu khi ăn đi cắm trại
+- hộp đựng dao dĩa (của lính); hòm đựng bát đĩa dao dĩa
+@Chuyên ngành kinh tế
+-căng tin
+-nhà ăn
+-nhà ăn của công nhân viên
+@Chuyên ngành kỹ thuật
+-căng tin
+@Lĩnh vực: xây dựng
+-quầy ăn uống
+

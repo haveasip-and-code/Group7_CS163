@@ -1,7 +1,17 @@
-doe	
-@doe /dou/
-*  danh từ (động vật học)
-- hươu cái, hoãng cái; nai cái
-- thỏ cái; thỏ rừng cái
-@Chuyên ngành kỹ thuật
--nai cái
+taboo
+	
+*  danh từ
+- điều cấm kỵ, sự kiêng kỵ
+=under [a] taboo
++ bị cấm kỵ
+*  tính từ
+- bị cấm kỵ, bị cấm đoán
+=unkind gossips ought to be taboo
++ phải cấm (kỵ) những chuyện ngồi lê đôi mách
+*  ngoại động từ
+- cấm, cấm đoán, bắt kiêng
+=there smoking is tabooed
++ ở đây cấm hút thuốc
+=tabooed by society
++ không được xã hội thừa nhận
+

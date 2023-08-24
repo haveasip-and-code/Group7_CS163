@@ -1,7 +1,26 @@
-cytology	
-@cytology /sai'tɔiədʤi/
+graph
+	
 *  danh từ
-- (sinh vật học) tế bào học
+- đồ thị
+- (toán học) mạch
+*  ngoại động từ
+- vẽ đồ thị; minh hoạ bằng đồ thị
+*  danh từ
+- máy in thạch
+*  động từ
+- in thạch
+@Chuyên ngành kinh tế
+-đồ biểu
+-đồ hình
+-đồ thị
+-khúc tuyến đồ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tế bào học
+-biểu đồ
+-đồ hình
+-đồ thị
+-giản đồ
+-vẽ đồ hình
+-vẽ đồ thị
+@Lĩnh vực: cơ khí & công trình
+-đường biểu diễn
+

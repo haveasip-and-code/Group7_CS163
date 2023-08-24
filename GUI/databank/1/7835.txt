@@ -1,10 +1,12 @@
-capacitor	
-@capacitor
-- (Tech) bộ điện dung, cái tụ điện
+stagnant
+	
+*  tính từ
+- ứ đọng; tù hãm, phẳng lặng như nước ao tù
+- đình trệ, đình đốn
+- mụ mẫm (trí óc)
 @Chuyên ngành kỹ thuật
--bộ tụ điện
--từ
-@Lĩnh vực: toán & tin
--bình ngưng hơi
-@Lĩnh vực: cơ khí & công trình
--thiết bị ngưng
+-cố định
+-động
+-không di động
+-nước tù
+

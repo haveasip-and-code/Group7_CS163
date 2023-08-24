@@ -1,10 +1,12 @@
-everywhere	
-@everywhere /'evriweə/
-*  phó từ
-- ở mọi nơi, khắp nơi, khắp chốn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--khắp nơi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--khắp nơi
+debar
+	
+*  ngoại động từ
+- ngăn cản, ngăn cấm
+=to debar someone from doing something
++ ngăn cản ai không cho làm gì
+- tước
+=to debar somebody from voting
++ tước quyền bầu cử của ai
+=to be debarred from one's rights
++ bị tước hết quyền
+

@@ -1,3 +1,7 @@
-creamed	
-@Chuyên ngành kinh tế
--đánh tơi
+serialization
+	
+- tuần tự hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sự nối tiếp hóa
+

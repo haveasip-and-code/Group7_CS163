@@ -1,65 +1,14 @@
-root	@root /ru:t/
-*  danh từ
-- rễ (cây)
-=to take root; to strike root+ bén rễ
-=to pull up by the roots+ nhổ cả rễ ((nghĩa đen) & (nghĩa bóng))
-- cây con cả rễ (để đem trồng)
-- ((thường) số nhiều) các cây có củ (cà rốt, củ cải...)
-- chăn, gốc
-=the root of a mountain+ chân núi
-=the root of a tooth+ chân răng
-- căn nguyên, gốc rễ, nguồn gốc, căn bản, thực chất
-=to get at (to) the root of the matter+ nắm được thực chất của vấn đề
-=the root of all evils+ nguồn gốc của mọi sự xấu xa
-- (toán học) căn; nghiệm
-=real root+ nghiệm thực
-=square (second) root+ căn bậc hai
-- (ngôn ngữ học) gốc từ
-- (âm nhạc) nốt cơ bản
-- (kinh thánh) con cháu
-!to blush to the roots of one's hair
-- thẹn đỏ cả mặt; mặt đỏ tía tai
-!roof and branch
-- hoàn toàn, triệt để
-=to destroy root and branch+ phá huỷ hoàn toàn
-!to lay the axe to the root of
-- đào tận gốc (cây); phá huỷ đi, trừ tận gốc (cái gì)
-!to strike at the root of something
-- (xem) strike
-*  ngoại động từ
-- làm bén rễ, làm bắt rễ (cây...)
-- (nghĩa bóng) làm ăn sâu vào, làm cắm chặt vào
-=terror rooted him to the spot+ sự khiếp sợ làm cho anh ta đứng chôn chân tại chỗ
-=strength rooted in unity+ sức mạnh xây dựng trên sự đoàn kết
-- (+ up,  out...) nhổ bật rễ; trừ tận gốc, làm tiệt nọc
-*  nội động từ
-- bén rễ, ăn sâu vào ((nghĩa đen) & (nghĩa bóng))
-*  động từ+ (rout) /raut/
-- (như) rootle
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tích cực ủng hộ, reo hò cổ vũ
-=to root for a candidate+ tích cực ủng hộ một ứng cử viên
-=to root for one's team+ (thể dục,thể thao) reo hò cổ vũ đội mình
-@Chuyên ngành kinh tế
--rễ
--rễ củ
+blip
+	
+* danh từ
+- đốm sáng trên màn hình radar
+- tiếng nổ lách tách
 @Chuyên ngành kỹ thuật
--dấu căn
--đế bệ
--gốc
--gốc căn nguyên
--nghiệm
--nghiệm chân
--nguồn gốc
--nhổ bật rễ
--rễ
--số
-@Lĩnh vực: cơ khí & công trình
--chân ren
--rễ cây
-@Lĩnh vực: xây dựng
--đế, nền
--lợp mái, phủ mái
+-đốm sáng
+-sự đáp ứng
+-tín hiệu nhiễu
 @Lĩnh vực: toán & tin
--gốc, căn, nghiệm
-@Lĩnh vực: y học
--rễ, chân răng, gốc
+-điểm nhạy quang
+@Lĩnh vực: điện
+-vạch sáng
+

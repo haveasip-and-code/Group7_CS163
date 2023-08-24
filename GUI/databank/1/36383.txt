@@ -1,9 +1,19 @@
-naturalization	@naturalization /,nætʃrəlai'zeiʃn/
+derivative
+	
+*  tính từ
+- bắt nguồn từ
+- (hoá học) dẫn xuất
+- (ngôn ngữ học) phái sinh
 *  danh từ
-- sự tự nhiên hoá
-- sự nhập quốc tịch; sự nhập tịch (ngôn ngữ)
-- sự làm cho hợp với thuỷ thổ (cây, vật)
-@Chuyên ngành kinh tế
--nhập quốc tịch
--nhập tịch
--sự nhập quốc tịch
+- (hoá học) chất dẫn xuất
+- (ngôn ngữ học) từ phát sinh
+- (toán học) đạo hàm
+@Chuyên ngành kỹ thuật
+-bắt nguồn từ
+-dẫn xuất
+-đạo hàm
+@Lĩnh vực: hóa học & vật liệu
+-dẫn suất
+@Lĩnh vực: xây dựng
+-phái sinh
+

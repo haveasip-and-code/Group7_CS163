@@ -1,7 +1,13 @@
-petrochemical	@petrochemical
-* danh từ
-- chất hoá dầu, sản phẩm hoá dầu
+antibiotic
+	
+*  tính từ
+- kháng sinh
+*  danh từ
+- thuốc kháng sinh
+@Chuyên ngành kinh tế
+-chất kháng sinh
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--hóa học dầu mỏ
--thuộc hóa dầu
+-kháng sinh
+@Lĩnh vực: y học
+-chất kháng sinh
+

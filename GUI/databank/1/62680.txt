@@ -1,11 +1,7 @@
-weldable	@weldable /'weld bl/
-*  tính từ
-- có thể hàn được
-@Chuyên ngành kỹ thuật
--dễ hàn
-@Lĩnh vực: hóa học & vật liệu
--có thể hàn được
-@Lĩnh vực: xây dựng
--hàn được
-@Lĩnh vực: toán & tin
--không hàn được
+hubbub
+	
+*  danh từ
+- sự ồn ào huyên náo
+- sự náo loạn
+- tiếng thét xung phong hỗn loạn (trên chiến trường)
+

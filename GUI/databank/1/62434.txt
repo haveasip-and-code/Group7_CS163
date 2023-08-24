@@ -1,7 +1,10 @@
-warrigal	@warrigal
-* danh từ
-- chó đinh gô; chó rừng (úc)
-- (nghĩa bóng) người man rợ (thổ dân)
-- ngựa rừng ở úc
-* tính từ
-- hoang dại; mọi rợ
+submenu
+	
+- lệnh đơn phụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thực đơn con
+-trình đơn phụ
+@Lĩnh vực: xây dựng
+-thực đơn phụ
+

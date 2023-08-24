@@ -1,4 +1,10 @@
-ditty	
-@ditty /'diti/
-*  danh từ
-- bài hát ngắn
+statistic
+	
+*  tính từ
+- (thuộc) thống kê
+@Chuyên ngành kinh tế
+-bản thống kê
+-số liệu thống kê
+@Chuyên ngành kỹ thuật
+-thống kê
+

@@ -1,4 +1,13 @@
-acrodont	
+miscount
+	
+*  danh từ
+- sự đếm sai, sự tính sai (số phiếu)
+*  động từ
+- đếm sai, tính sai
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--răng dính liền
+@Lĩnh vực: điện lạnh
+-sai số đếm
+-sự đếm sai
+@Lĩnh vực: toán & tin
+-tính sai
+

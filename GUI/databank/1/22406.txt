@@ -1,19 +1,39 @@
-frog	
-@frog /frɔg/
+premium
+	
 *  danh từ
-- (động vật học) con ếch, con ngoé
-*  danh từ
-- (động vật học) đế guốc (chân ngựa)
-*  danh từ
-- quai đeo kiếm, quai đeo lưỡi lê
-- khuy khuyết thùa (áo nhà binh)
-*  danh từ
-- (ngành đường sắt) đường ghi
+- phần thưởng
+- tiền thưởng
+- tiền đóng bảo hiểm
+- tiền học việc (trả ngay cho người dạy nghề)
+- tiền các đổi tiền ((cũng) premium on exchange)
+!at a premium
+- cao hơn giá qui định; (nghĩa bóng) được đánh giá cao
+!to put a premium on something
+- khuyến khích cái gì, xúi giục cái gì
 @Chuyên ngành kinh tế
--chỗ rẽ (đường sắt)
+-học phí
+-hồi kim
+-phí bảo hiểm
+-sai kim
+-thượng hảo hạng
+-tiền bù
+-tiền các
+-tiền các (hối đoái)
+-tiền chênh lệch
+-tiền học nghề
+-tiền học việc
+-tiền lời bán ngoại tệ
+-tiền thuê trả nước (trước khi kí kết hợp đồng)
+-tiền thuê trả trước (trước khi ký hợp đồng)
+-tiền thưởng
 @Chuyên ngành kỹ thuật
--ghi
--giao cắt
--tâm phân rẽ
-@Lĩnh vực: cơ khí & công trình
--rãnh trên mặt gạch
+-phần thưởng
+-tiền
+@Lĩnh vực: xây dựng
+-lệ phí
+@Lĩnh vực: toán & tin
+-phí tổn (bảo hiểm)
+-tiền phí tổn (bảo hiểm)
+@Lĩnh vực: hóa học & vật liệu
+-tiền đóng bảo hiểm
+

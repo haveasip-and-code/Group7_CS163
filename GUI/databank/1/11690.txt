@@ -1,21 +1,20 @@
-conventional	
-@conventional /kən'venʃənl/
+tentative
+	
 *  tính từ
-- quy ước
-- theo tập quán, theo tục lệ
-- thường=the conventional type of the car
-+ kiểu ô tô thường=conventional bombs (weapons)
-+ bom (vũ khí) thường (không phải nguyên tử)=conventional warfare
-+ chiến tranh với vũ khí thường (không phải nguyên tử)
-- (nghệ thuật) theo lối cổ truyền=conventional art
-+ nghệ thuật theo lối cổ truyền
+- ướm, thử
+=tentative offer
++ lời nói ướm, lời đề nghị
+*  danh từ
+- sự thử, sự toan làm
+@Chuyên ngành kinh tế
+-mẫu
+-sự thí nghiệm
+-sự thử
+-thí nghiệm
+-thử
 @Chuyên ngành kỹ thuật
--lệ thường
--quy định
--thông thường
--tiêu chuẩn
--ước định
-@Lĩnh vực: xây dựng
--đặt ra
-@Lĩnh vực: toán & tin
--theo quy ước
+-sự thí nghiệm
+-sự thử
+@Lĩnh vực: cơ khí & công trình
+-tạm thời (tiêu chuẩn)
+

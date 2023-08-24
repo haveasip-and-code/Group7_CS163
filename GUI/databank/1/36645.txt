@@ -1,6 +1,18 @@
-neurophysiology	@neurophysiology
-* danh từ
-- bệnh học thần kinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sinh lý thần kinh
+beast
+	
+*  danh từ
+- thú vật, súc vật
+=beast of prey
++ thú săn mồi
+- (số nhiều không đổi) thú nuôi, gia súc
+- người hung bạo
+- người mình ghét
+!the Beast
+- kẻ thù của Chúa
+!the beast
+- thú tính (trong con người)
+@Chuyên ngành kinh tế
+-súc vật
+-thú nuôi
+-thú vật
+

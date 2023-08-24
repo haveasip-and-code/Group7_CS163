@@ -1,16 +1,6 @@
-isometric	
-@isometric /,aisou'metrik/ (isometrical) /,aisou'metrikəl/
-*  tính từ
-- cùng kích thước
-@Chuyên ngành kỹ thuật
--cùng kích thước
--đẳng cự
--đẳng tích
--đường đẳng cự
--đường đẳng tích
-@Lĩnh vực: y học
--cùng kích thước, đẳng trường
-@Lĩnh vực: xây dựng
--đo bằng nhau
-@Lĩnh vực: toán & tin
--hiển thị đẳng cự
+duffle
+	
+*  danh từ
+- vải len thô
+- (từ Mỹ,nghĩa Mỹ) đồ lề (của vận động viên, người đi cắm trại...)
+

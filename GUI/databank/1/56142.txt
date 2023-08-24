@@ -1,29 +1,17 @@
-testing	@testing
-* danh từ
-- sự thử; sự nghiên cứu
-@Chuyên ngành kinh tế
--sự đánh giá
--sự đánh giá cảm quan
--sự nghiên cứu
--sự phân tích
--sự thí nghiệm
--sự thử nghiệm
+shred
+	
+*  danh từ
+- miếng nhỏ, mảnh vụn
+=to tear something into shreds
++ xé cái gì ra từng mảnh
+- một tí, một chút, một mảnh
+=not a shred of evidence
++ không một tí chứng cớ nào cả
+=to tear an argument to shred
++ hoàn toàn bác bỏ một lý lẽ
+*  ngoại động từ shredded,  shred
+- cắt thành miếng nhỏ, xé thành mảnh nhỏ
 @Chuyên ngành kỹ thuật
--kiểm định
--kiểm nghiệm
--phép thử
--sự kiểm chứng
--sự kiểm nghiệm
--sự kiểm tra
--sự lấy mẫu
--sự thí nghiệm
--sự thử
--sự thử nghiệm
--sự xét nghiệm
--thí nghiệm
--thử
--thử nghiệm
--tiêu chuẩn
--xét nghiệm
-@Lĩnh vực: điện
--việc thử nghiệm
+@Lĩnh vực: xây dựng
+-có cạnh sắc nhọn
+

@@ -1,3 +1,24 @@
-mandated	@Chuyên ngành kinh tế
--bắt buộc
--cưỡng chế
+conclusion
+	
+*  danh từ
+- sự kết thúc, sự chấm dứt; phần cuối
+- sự kết luận, phần kết luận
+- sự quyết định, sự giải quyết, sự dàn xếp, sự thu xếp
+- sự ký kết (hiệp ước...)
+!foregone conclusion
+- một quyết định trước khi biết những yếu tố cần thiết
+- định kiến
+- kết quả có thể dự đoán trước được
+=in conclusion
++ để kết luận
+=to try conclusions with
++ đọ sức với, đọ tài với
+@Chuyên ngành kinh tế
+-giải quyết
+-kết luận
+-ký kết
+-sự kết thúc
+@Chuyên ngành kỹ thuật
+-kết luận
+-sự kết thúc
+

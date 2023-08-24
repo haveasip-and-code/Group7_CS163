@@ -1,22 +1,5 @@
-outage	@outage /'autidʤ/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) sự ngừng chạy (máy) vì thiếu điện, thiếu chất đốt)
-- thời kỳ thiếu điện, thời kỳ thiếu chất đốt...
-- số lượng hàng mất, số lượng hàng thiếu (trong một chuyến hàng)
-- (hàng không) số lượng chất đốt, tiêu dùng (ở trong bầu xăng, trong một cuộc bay)
-@Chuyên ngành kỹ thuật
--lỗ xả
--ngừng cấp
--ngừng sản xuất
--sự cắt điện
--sự hỏng hóc
--sự ngưng
-@Lĩnh vực: điện lạnh
--sự cố lưới điện
--sự mất điện lưới
-@Lĩnh vực: điện
--sự mất điện
-@Lĩnh vực: toán & tin
--sự ngừng chảy
-@Lĩnh vực: điện tử & viễn thông
--sự ngừng chạy
+adnate
+	
+*  tính từ
+- (sinh vật học) hợp sinh
+

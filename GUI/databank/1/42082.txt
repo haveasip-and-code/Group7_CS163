@@ -1,6 +1,23 @@
-pleural	@pleural /'pluərəl/
+graphic
+	
 *  tính từ
-- (giải phẫu) (thuộc) màng phổi
+- (thuộc) đồ thị; minh hoạ bằng đồ thị
+=graphic statics
++ tĩnh học đồ thị
+=graphic algebra
++ đại số đồ thị
+=graphic solution
++ phép giải đồ thị
+- sinh động
+=a graphic account of the football match
++ bài tường thuật sinh động trận đấu bóng đá
+- (nghệ thuật) tạo hình
+=the graphic arts
++ nghệ thuật tạo hình
+- (ngôn ngữ học) (thuộc) chữ viết; (thuộc) hình chữ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc màng phổi
+-biểu đồ
+-đồ họa
+-đồ thị
+-họa hình
+

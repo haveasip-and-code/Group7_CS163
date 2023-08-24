@@ -1,7 +1,9 @@
-excluding	
-@Chuyên ngành kinh tế
--không bao gồm...
--không kể vào...
--ngoài ra không bao gồm
--ngoài ra...
--trừ ra...
+ringed
+	
+*  tính từ
+- có vòng, có đeo nhẫn
+- đã đính ước (với ai); đã có vợ, đã có chồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được lắp vòng
+

@@ -1,13 +1,7 @@
-stimulant	@stimulant /'stimjulənt/
-*  tính từ
-- kích thích
-*  danh từ
-- chất kích thích, tác nhân kích thích
-!he never takes stimulants
-- anh ấy không bao giờ uống rượu
-@Chuyên ngành kinh tế
--chất kích thích
--vật kích thích
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất kích động
+directionality
+	
+-hướng
+-sự định hướng
+@Lĩnh vực: hóa học & vật liệu
+-tính định hướng
+

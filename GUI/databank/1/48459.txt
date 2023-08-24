@@ -1,22 +1,18 @@
-sale	@sale /seil/
-*  danh từ
-- sự bán
-=on (for) sale+ để bán
-- hàng hoá bán, số hàng hoá bán được
-=the sales were enormous+ hàng bán được nhiều
-- cuộc bán đấu gía; sự bán xon
+repress
+	
+*  ngoại động từ
+- dẹp, đàn áp, trấn áp
+=to repress a rebellion
++ dẹp một cuộc nổi loạn
+- kiềm chế, nén lại, cầm lại
+=to repress one's anger
++ nén giận
+=to repress one's tears
++ cầm nước mắt
 @Chuyên ngành kinh tế
--bán
--bán hạ giá
--bán hàng
--doanh vụ
--lần bán
--nhu cầu mua
--sự bán
--sự bán hạ giá
--sự tiêu thụ
--tiêu thụ
--việc bán
+-đoàn đại biểu công nhân viên chức
+-nhân viên đại diện
+-nhân viên tiêu biểu
 @Chuyên ngành kỹ thuật
--bán
--buôn bán
+-ép lại
+

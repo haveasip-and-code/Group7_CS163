@@ -1,8 +1,5 @@
-remitter	@remitter /ri'mitə/
-*  danh từ
-- người gửi tiền, người gửi hàng (cho ai)
-- (pháp lý) sự trao lại một vụ án cho toà dưới xét xử
-- (từ hiếm,nghĩa hiếm) người tha thứ, người xá tội
-- (từ hiếm,nghĩa hiếm) sự phục hồi lại quyền lợi
-@Chuyên ngành kinh tế
--người gởi tiền
+incriminate
+	
+*  ngoại động từ
+- buộc tội cho; đổ tội cho, đổ trách nhiệm cho
+

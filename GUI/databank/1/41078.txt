@@ -1,9 +1,8 @@
-phenolic	@phenolic
-* tính từ
-- (hoá học) thuộc fenola
-@Chuyên ngành kỹ thuật
--nhựa phenolic
-@Lĩnh vực: xây dựng
--phê nô nic
-@Lĩnh vực: toán & tin
--phê-nô-lic
+consistency
+	
+- tính nhất quán, tính phi mâu thuẫn;(thống kê) tính vững
+- c. of an estimator tính vững của một ước lượng
+- c. of axioms tính phi mâu thuẫn của các tiên đề
+- c. of systems of equations tính phi mâu thuẫn của hệ các phương trình
+- simple c. tính phi mâu thuẫn đơn giản
+

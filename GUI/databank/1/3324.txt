@@ -1,11 +1,10 @@
-armory	
-@armory /'ɑ:məri/
-*  danh từ
-- khoa nghiên cứu huy hiệu
-- (từ Mỹ,nghĩa Mỹ) (như) armoury
-- (từ Mỹ,nghĩa Mỹ) kho vũ khí
-- (từ Mỹ,nghĩa Mỹ) xưởng đúc vũ khí
+flusher
+	
+* danh từ
+- vòi tia nước; vòi xối nước
+- vòi phun; vòi xịt nước
+@Chuyên ngành kinh tế
+-cơ cấu rửa bằng tia nước
 @Chuyên ngành kỹ thuật
--kho
-@Lĩnh vực: xây dựng
--xưởng (đúc) vũ khí
+-vòi phun
+

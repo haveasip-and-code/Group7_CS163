@@ -1,4 +1,10 @@
-biomaterial	
-@biomaterial
+scratcher
+	
 * danh từ
-- chất liệu làm những bộ phận nhân tạo trong cơ thể (gắn trực tiếp vào các mô sống)
+- dụng cụ nạo; dao nạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dao vạch cữ
+-dao vuốt mạch
+-dụng cụ cạo (bề mặt)
+

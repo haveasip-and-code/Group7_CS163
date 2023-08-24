@@ -1,7 +1,17 @@
-epicritic	
+maximize
+	
+*  ngoại động từ
+- làm tăng lên đến tột độ
+@Chuyên ngành kinh tế
+-tối đa hóa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--đặc cảm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--đặc cảm
+-phóng đại
+-phóng lớn
+@Lĩnh vực: toán & tin
+-cực đại hóa
+-tăng tối đa
+@Lĩnh vực: vật lý
+-làm cực đại
+@Lĩnh vực: xây dựng
+-tối đa hóa
+

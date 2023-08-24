@@ -1,27 +1,8 @@
-encasement	
-@encasement /in'keismənt/
+trombone
+	
 *  danh từ
-- sự cho vào thùng, sự cho vào túi
-- sự bọc
-- bao, túi
-- (giải phẫu) sự lồng (hai xương vào nhau)
+- (âm nhạc) Trombon
 @Chuyên ngành kỹ thuật
--cốp pha
--lớp áo
--lớp bọc
--lớp ốp
--sơn
--sơn bóng
--ván khuôn
-@Lĩnh vực: xây dựng
--vỏ ván khuôn
-@Chuyên ngành kỹ thuật
--cốp pha
--lớp áo
--lớp bọc
--lớp ốp
--sơn
--sơn bóng
--ván khuôn
-@Lĩnh vực: xây dựng
--vỏ ván khuôn
+@Lĩnh vực: điện lạnh
+-cụm trombom (làm thích ứng cáp đồng trục)
+

@@ -1,15 +1,6 @@
-linker	@linker
-* danh từ
-- mối liên kết; cầu nối
-@Chuyên ngành kinh tế
--máy tạo hình giò
-@Chuyên ngành kỹ thuật
--bộ liên kết
--buộc viên
-@Lĩnh vực: toán & tin
--trình liên kết
-@Chuyên ngành kỹ thuật
--bộ liên kết
--buộc viên
-@Lĩnh vực: toán & tin
--trình liên kết
+bloating
+	
+-sự phồng
+-sự phồng rộp
+-sự trương nở
+

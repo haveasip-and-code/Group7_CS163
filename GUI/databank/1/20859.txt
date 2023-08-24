@@ -1,13 +1,6 @@
-feud	
-@feud /fju:d/
-*  danh từ
-- (sử học) thái ấp, đất phong
-- mối hận thù, mối cừu hận, mối thù truyền kiếp=to be at deadly feud with somebody
-+ mang mối tử thù với ai=to sink a feud
-+ quên mối hận thù, giải mối hận th
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hận thù
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hận thù
+demo
+	
+* danh từ
+- cuộc biểu tình
+- <tin> giới thiệu, chương trình giới thiệu
+

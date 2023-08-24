@@ -1,43 +1,5 @@
-embedding	
-@embedding
-* danh từ
-- sự đưa vào, sự gắn vào
-- (hoá học) tạp chất
-@Chuyên ngành kỹ thuật
--gắn vào
--nhúng
--sự ấn lõm
--sự bịt
--sự đặt vào
--sự gắn
--sự gắn vào
--sự kết bao
--sự nhúng
-@Lĩnh vực: toán & tin
--phép nhúng
--sự lồng vào
-@Lĩnh vực: xây dựng
--sự chôn móng
--sự đặt móng
--vùi
-@Lĩnh vực: y học
--sự cố định mô
-@Chuyên ngành kỹ thuật
--gắn vào
--nhúng
--sự ấn lõm
--sự bịt
--sự đặt vào
--sự gắn
--sự gắn vào
--sự kết bao
--sự nhúng
-@Lĩnh vực: toán & tin
--phép nhúng
--sự lồng vào
-@Lĩnh vực: xây dựng
--sự chôn móng
--sự đặt móng
--vùi
-@Lĩnh vực: y học
--sự cố định mô
+nystagmus
+	
+*  danh từ
+- (y học) chứng giật cầu mắt
+

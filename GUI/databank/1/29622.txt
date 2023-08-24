@@ -1,13 +1,7 @@
-intransitive	
-@intransitive /in'trænsitiv/
-*  tính từ
-- (ngôn ngữ học) nội dung (động từ)=intransitive verb
-+ nội động từ
-*  danh từ
-- (ngôn ngữ học) nội động từ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bất xuyên
-@Lĩnh vực: toán & tin
--không bắc cầu
--không truyền ứng
+recognizably
+	
+* phó từ
+- có thể công nhận, có thể thừa nhận
+- có thể nhận ra, có thể nhận diện
+- có thể nhận biết được
+

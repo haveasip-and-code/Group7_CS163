@@ -1,38 +1,5 @@
-assignment	
-@assignment /ə'sainmənt/
-*  danh từ
-- sự giao việc, sự phân công; (từ Mỹ,nghĩa Mỹ) việc được giao, việc được phân công
-- sự chia phần
-- sự cho là, sự quy cho=assignment of reason
-+ sự cho là có lý do
-- (pháp lý) sự nhượng lại, sự chuyển nhượng; chứng từ chuyển nhượng
-@Chuyên ngành kinh tế
--bổ dụng
--bổ nhiệm
--chuyển tên người sở hữu
--công việc được giao
--nhiệm vụ
--phân công
--sự chuyển nhượng (tài sản, quyền lợi, trái khoản ...)
--sự phân phối
--việc chuyển nhượng chứng từ chuyển nhượng
-@Chuyên ngành kỹ thuật
--gán
--sự cài đặt
--sự chuyển nhượng
--sự phân bố
--sự phân bổ
--sự thiết lập
-@Lĩnh vực: hóa học & vật liệu
--chuyển nhượng
--nhượng lại
+preliminaries
+	
 @Lĩnh vực: xây dựng
--chuyển nhượng hợp đồng
--phân công
--sự ấn định
-@Lĩnh vực: giao thông & vận tải
--đợt công tác
-@Lĩnh vực: toán & tin
--phép gán
--sự gán
--sự phân công
+-thiết bị sơ bộ
+

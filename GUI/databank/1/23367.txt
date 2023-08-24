@@ -1,6 +1,31 @@
-ghat	
-@ghat
-* danh từ
-- bậc bước xuống bến trên bờ hồ
-- hẻm núi, rãnh núi (Ân độ)
-- bãi hoả thiêu
+latex
+	
+*  danh từ,  số nhiều latices  /'leiteksiz/,  latexes  /'leiteks/
+- nhựa m
+@Chuyên ngành kỹ thuật
+-latec
+-nhựa cao su
+-nhựa cây
+-mủ cao su
+-mủ cây
+@Lĩnh vực: hóa học & vật liệu
+-giống như latec
+-nhựa mủ (cây)
+-thuộc mủ, giống như mủ, có chứa mủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chương trình LaTeX
+@Chuyên ngành kỹ thuật
+-latec
+-nhựa cao su
+-nhựa cây
+-mủ cao su
+-mủ cây
+@Lĩnh vực: hóa học & vật liệu
+-giống như latec
+-nhựa mủ (cây)
+-thuộc mủ, giống như mủ, có chứa mủ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chương trình LaTeX
+

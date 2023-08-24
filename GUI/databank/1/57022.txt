@@ -1,20 +1,6 @@
-topography	@topography /tə'pɔgrəfi/
-*  danh từ
-- phép đo vẽ địa hình
-- địa thế, địa hình
-- địa chỉ
-@Chuyên ngành kinh tế
--phép đo vẽ địa hình
--phép trắc địa
-@Chuyên ngành kỹ thuật
--đặc trưng địa hình
--địa hình
--địa thế
--định vị
--nghề in tôpô
-@Lĩnh vực: xây dựng
--địa hình học
-@Lĩnh vực: cơ khí & công trình
--địa thể
-@Lĩnh vực: toán & tin
--khoa trắc địa
+feisty
+	
+* tính từ
+- hăng hái, hăm hở
+- dễ quạu, nóng nảy
+

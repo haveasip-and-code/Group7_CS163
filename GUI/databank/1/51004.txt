@@ -1,6 +1,5 @@
-skinless	@skinless
+extralinguistic
+	
 * tính từ
-- không có da; không vỏ
-@Chuyên ngành kinh tế
--không da
--không vỏ
+- ngoài (lĩnh vực) ngôn ngữ học
+

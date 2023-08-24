@@ -1,16 +1,6 @@
-seating	@seating
-* danh từ
-- sự sắp xếp chỗ ngồi; chỗ để ngồi; ghế ngồi
-@Chuyên ngành kỹ thuật
--bản đế
--chân đế
--gối tựa
--mặt chuẩn
--mặt tiếp xúc
--mặt tựa
--móng
--sự thiết lập
-@Lĩnh vực: xây dựng
--đệm neo
--đóng neo
--trong tầng hầm
+fanfaronade
+	
+*  danh từ
+- sự khoe khoang khoác lác; lời khoe khoang khoác lác, lời nói phách
+- kèn lệnh ((cũng) fanfare)
+

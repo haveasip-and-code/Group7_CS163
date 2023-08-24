@@ -1,13 +1,20 @@
-donation	
-@donation /dou'neiʃn/
+inland
+	
 *  danh từ
-- sự tặng, sự cho, sự biếu; sự quyên cúng
-- đồ tặng, đồ cho, đồ biếu; đồ quyên cúng (vào tổ chức từ thiện)
-@Chuyên ngành kinh tế
--cúng
--khoản cho
--quà biếu
--quà tặng, biếu
--quyên
--sự cho
--tặng
+- vùng nội địa, vùng ở sâu trong nước
+*  tính từ
+- ở trong nước, ở sâu trong nước
+=inland cities
++ những thành thị ở sâu trong nước
+- nội địa
+=inland trade
++ nội thương
+*  phó từ
+- ở trong nước, ở sâu trong nước, về phía trong nước
+- nội địa
+@Chuyên ngành kỹ thuật
+-nội địa
+-ở nội địa
+-vùng đất liền
+-vùng nội địa
+

@@ -1,10 +1,7 @@
-catalog	
-@catalog
-- Cách viết khác : catalogue
+referent
+	
+*  danh từ
+- vật ám chỉ, vậy nói đến
 @Chuyên ngành kỹ thuật
--catalô
--danh mục
--lập catalô
--lập danh mục
--thư mục
--từ điển
+-địa chỉ tham chiếu
+

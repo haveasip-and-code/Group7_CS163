@@ -1,10 +1,11 @@
-perlite	@perlite /'pə:plait/
-*  danh từ
-- Peclit, đá trân châu
+hiring
+	
+-thuê
+-thuê mướn
+-việc thuê (xe...)
+-việc thuê mướn (nhân công)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--cấu trúc như peclit
-@Lĩnh vực: xây dựng
--đá trân châu
 @Lĩnh vực: hóa học & vật liệu
--peclit
+-sự mướn
+-sự thuê
+

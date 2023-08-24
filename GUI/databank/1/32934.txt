@@ -1,7 +1,9 @@
-luminiferous	@luminiferous /,lu:mi'nifərəs/
-*  tính từ
-- toả ánh sáng; truyền ánh sáng
+advection
+	
+* danh từ
+- (khí tượng) bình lưu
 @Chuyên ngành kỹ thuật
--phát quang
-@Lĩnh vực: điện lạnh
--tỏa ánh sáng
+-sự bình lưu
+@Lĩnh vực: hóa học & vật liệu
+-bình lưu
+

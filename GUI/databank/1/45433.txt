@@ -1,27 +1,10 @@
-ragged	@ragged /'rægid/
-*  tính từ
-- rách tã, rách tả tơi, rách rưới
-=ragged clothes+ quần áo rách tã
-=a ragged fellow+ người ăn mặc rách rưới
-- bù xù, bờm xờm, dựng ngược cả lên (lông, tóc...); gồ ghề, lởm chởm (đường...)
-=ragged rocks+ những tảng đá lởm chởm
-=ragged ground+ đất gồ ghề lổn nhổn
-- tả tơi; rời rạc, không đều
-=ragged clouds+ những đám mây tả tơi
-=ragged performance+ cuộc biểu diễn rời rạc
-=ragged chorus+ bản hợp xướng không đều
-=ragged time in rowing+ nhịp mái chèo không đều
-=ragged fire+ tiếng súng rời rạc
-@Chuyên ngành kinh tế
--nứt ra
--rách toạc
--vỡ ra
+extractable
+	
+- xem extract
 @Chuyên ngành kỹ thuật
--gồ ghề
--lờm xờm
--nham nhở
--xù xì
 @Lĩnh vực: hóa học & vật liệu
--bị cuốn
--bị gặm mòn
--bị xé
+-trích ly được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-trích ly được
+

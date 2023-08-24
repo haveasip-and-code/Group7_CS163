@@ -1,10 +1,8 @@
-avoirdupois	
-@avoirdupois /,ævədə'pɔiz/
-*  danh từ
-- hệ thống cân lường Anh Mỹ (trừ kim loại quý, kim cương, ngọc ngà và thuốc)
-- (từ Mỹ,nghĩa Mỹ) trọng lượng, sức nặng (tục) sự nặng cân, sự to béo đồ sộ=a woman of much avoirdupois
-+ một bà to béo đồ sộ
-@Chuyên ngành kinh tế
--hệ đo trọng lượng Anh
-@Chuyên ngành kỹ thuật
--trọng lượng
+natively
+	
+*  phó từ
+- vốn, bẩm sinh, tự nhiên, vốn sinh ra đã có
+- với tính chất nơi sinh
+=to speak English natively
++ nói tiếng Anh với tính chất là tiếng mẹ đẻ của mình
+

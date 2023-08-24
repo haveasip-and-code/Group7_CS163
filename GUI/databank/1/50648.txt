@@ -1,22 +1,22 @@
-sieve	@sieve /siv/
+locker
+	
 *  danh từ
-- cái giần, cái sàng, cái rây
-- người hay ba hoa; người hay hở chuyện
-*  ngoại động từ
-- giần, sàng, rây
+- người khoá
+- tủ có khoá, két có khoá
+- (hàng hải) tủ; kho hàng (ở dưới tàu)
+!not a shot in the locker
+- không còn một xu dính túi
 @Chuyên ngành kinh tế
--lọc
--lưới
--lưới hút
--sàng
+-hòm chứa
+-kho hàng
+-tủ
 @Chuyên ngành kỹ thuật
--bộ lọc
--chọn lọc
--lọc
--lưới hút
--máy sàng
--phân loại (quặng)
--rây
--sàng
-@Lĩnh vực: xây dựng
--cái lọc sàng
+-tủ
+@Lĩnh vực: cơ khí & công trình
+-hộp (dụng cụ)
+-mômen khóa roto
+-mômen roto chốt
+-tủ (có khóa)
+@Lĩnh vực: điện lạnh
+-ngăn lạnh nhỏ
+

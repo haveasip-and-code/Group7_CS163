@@ -1,7 +1,6 @@
-programmed	@programmed
-* tính từ
-- theo hình thức đã được lập trình
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đã được lập trình
--đã lập trình
+gunsmith
+	
+* danh từ
+- người làm súng
+- người chữa súng
+

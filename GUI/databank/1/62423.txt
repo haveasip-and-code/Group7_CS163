@@ -1,15 +1,5 @@
-warping	@Chuyên ngành kỹ thuật
--độ cong
--độ vênh
--sự cong
--sự cong vênh
--sự làm oằn
--sự làm vênh
--sự vênh
+sidewalks
+	
 @Lĩnh vực: xây dựng
--cong vênh
--khúc lượn
-@Lĩnh vực: điện tử & viễn thông
--phần điện tử (dữ liệu vô dụng)
-@Lĩnh vực: dệt may
--sự mắc sợi dọc
+-đường người đi bộ (cầu)
+

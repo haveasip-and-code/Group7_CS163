@@ -1,10 +1,7 @@
-pathogen	@pathogen
-* danh từ
-- mầm bệnh; nguồn bệnh
-@Chuyên ngành kinh tế
--vi sinh vật gây bệnh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tác nhân gây bệnh
-@Lĩnh vực: hóa học & vật liệu
--thể sinh bệnh
+angulate
+	
+*  tính từ
+- có góc, có góc cạnh
+*  ngoại động từ
+- làm thành góc, tạo thành góc
+

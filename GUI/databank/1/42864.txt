@@ -1,21 +1,10 @@
-pounce	@pounce /pauns/
-*  danh từ
-- móng (chim ăn thịt)
-- sự bổ nhào xuống vồ, sự vồ, sự chụp (mồi)
-=to make a pounce+ bổ nhào xuống vồ, chụp
+intercalate
+	
 *  ngoại động từ
-- bổ nhào xuống vồ, vồ, chụp (mồi)
-*  nội động từ (+ upon)
-- thình lình xông vào, tấn công thình lình, đâm bổ vào
-- (nghĩa bóng) vớ ngay lấy, vồ ngay lấy, chộp ngay lấy
-=to pounce upon someone's blunder+ vớ ngay lấy sai lầm của ai, chộp ngay lấy sai lầm của ai
-*  danh từ
-- mực bồ hóng trộn dầu
-- phấn than
-*  ngoại động từ
-- phết (xoa) mực bồ hóng trộn dầu (lên giấy than...)
-- rập (hình vẽ) bằng phấn than
+- xen vào giữa
+- thêm (ngày, tháng, năm) vào lịch
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--bột mài mực
--phấn than
+-thêm vào
+-xen kẽ
+-xen vào
+

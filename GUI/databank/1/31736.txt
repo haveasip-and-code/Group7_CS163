@@ -1,43 +1,7 @@
-leading	@leading /'li:diɳ/
-*  danh từ
-- sự lânh đạo, sự hướng dẫn, sự dẫn đầu
-- thế lực, ảnh hưởng
-=men of light and leading+ những người có uy tín và thế lực
-*  tính từ
-- lânh đạo, hướng dẫn, dẫn đầu
-=leading ship+ tàu dẫn đầu
-=leading body+ bộ phận lânh đạo
-- chủ đạo, chính, quan trọng
-=leading idea+ ý chủ đạo
-@Chuyên ngành kỹ thuật
--chính
--dẫn
--đầu
--đi trước
--gián cách dòng
--hướng dẫn
--quan trọng
--sự dẫn hướng
--sự lãnh đạo
-@Lĩnh vực: toán & tin
--cách quãng
-@Lĩnh vực: ô tô
--dẫn đầu
-@Lĩnh vực: điện
--sự vượt pha
-@Chuyên ngành kỹ thuật
--chính
--dẫn
--đầu
--đi trước
--gián cách dòng
--hướng dẫn
--quan trọng
--sự dẫn hướng
--sự lãnh đạo
-@Lĩnh vực: toán & tin
--cách quãng
-@Lĩnh vực: ô tô
--dẫn đầu
-@Lĩnh vực: điện
--sự vượt pha
+schools
+	
+* tính từ
+- (Anh) dành cho nhà trường
+= a schools broadcast
++buổi phát thanh dành cho nhà trường
+

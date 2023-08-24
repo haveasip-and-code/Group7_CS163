@@ -1,15 +1,8 @@
-eyeglass	
-@eyeglass
-* danh từ
-- số nhiều là eyeglasses
-- thấu kính (cho một mắt) để giúp thị lực yếu; mắt kính; kính một mắt
-- (số nhiều) như spectacles
-- danh từ,  số nhiều là eyeglasses
-- thấu kính (cho một mắt) để giúp thị lực yếu; mắt kính; kính một mắt
-- (số nhiều) như spectacles
+comp
+	
+*  danh từ
+- (thông tục) (như) compositor
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--thị kính
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--thị kính
+@Lĩnh vực: toán & tin
+-bản hoàn chỉnh
+

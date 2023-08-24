@@ -1,28 +1,5 @@
-helix	
-@helix /'hi:liks/
-*  danh từ,  số nhiều helices
-- hình xoắn ốc; đường xoắn ốc, đường đinh ốc
-- (kiến trúc) đường xoắn ốc (quanh cột)
-- (giải phẫu) vành tai
-- (động vật học) ốc sên
-@Chuyên ngành kinh tế
--ốc sên
-@Chuyên ngành kỹ thuật
--ăng ten lò xo
--ăng ten xoắn ốc
--dây xoắn
--đường đinh ốc
--đường ren vít
--đường xoắn ốc
--mặt xoắn
--mặt xoắn ốc
--quấn xoắn ốc
--sự xoắn
--xoắn ốc
--xoáy ốc
-@Lĩnh vực: y học
--luân tai, vòng xoắn
-@Lĩnh vực: điện
--vòng xoắn
-@Lĩnh vực: xây dựng
--vòng xoáy
+malversation
+	
+*  danh từ
+- sự tham ô, sự ăn hối lộ
+

@@ -1,9 +1,106 @@
-analytics	
-@analytics /,ænə'litiks/
-*  danh từ,  số nhiều dùng như số ít
-- môn phân tích
-- môn giải tích
+waste
+	
+*  tính từ
+- bỏ hoang, hoang vu (đất)
+=waste land
++ đất hoang
+=to lie waste
++ để hoang; bị bỏ hoang
+- bị tàn phá
+=to lay waste
++ tàn phá
+- bỏ đi, vô giá trị, không dùng nữa, bị thải đi
+=waste gas; waste steam
++ khí thừa
+=waste paper
++ giấy lộn, giấy vứt đi
+=waste water
++ nước thải, nước bẩn đổ đi
+- vô vị, buồn tẻ
+=the waste periods of history
++ những thời kỳ vô vị của lịch sử
+*  danh từ
+- sa mạc; vùng hoang vu, đất hoang
+=the wastes of the Sahara
++ sa mạc Xa
+-ha
+-ra
+- rác rưởi; thức ăn thừa
+- (kỹ thuật) vật thải ra, vật vô giá trị không dùng nữa
+=printing waste
++ giấy in còn lại; giấy vụn sau khi đóng sách
+- sự phung phí, sự lãng phí; sự hao phí
+=it's a sheer waste of time
++ thật chỉ phí thì giờ
+=to run (go) to waste
++ uổng phí đi
+=to prevent a waste of gas
++ để ngăn ngừa sự hao phí hơi đốt
+*  ngoại động từ
+- lãng phí
+=to waste one's time
++ lãng phí thì giờ
+=to waste one's words
++ nói uổng lời
+=waste not, want not
++ không phung phí thì không túng thiếu
+- (từ Mỹ,nghĩa Mỹ) bỏ qua, để lỡ
+=to waste one's chance
++ để lỡ cơ hội
+- bỏ hoang (đất đai)
+- tàn phá
+- làm hao mòn dần
+=a wasting disease
++ một bệnh làm hao mòn sức khoẻ
+- (pháp lý) làm hư hỏng, làm mất phẩm chất (của vật gì)
+*  nội động từ
+- lãng phí, uổng phí
+=don't let water waste
++ đừng để nước chảy phí đi
+- hao mòn
+=to waste away
++ gầy mòn ốm yếu đi
+- (từ cổ,nghĩa cổ) trôi qua (ngày, tháng...)
+=the day wastes
++ ngày trôi qua
+@Chuyên ngành kinh tế
+-đất không quặng
+-phần hư hao
+-phế liệu
+-phế vật
+-phí
+-phung phí
+-sự lãng phí
+-sự suy giảm
+-tiêu hao
+-tổn hao
+-vật thải
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--giải tích học
--phân tích học
+-bã
+-bãi rác thải
+-bỏ
+-bỏ hoang
+-cặn
+-đất hoang
+-đất thừa
+-đống rác thải
+-hoang mạc
+-lượng cháy hao
+-nơi đổ rác thải
+-nước bẩn
+-nước thải
+-nước tháo rửa (buồng vệ sinh)
+-phế liệu
+-phế phẩm
+-rác
+-sự cháy hao
+-vật liệu bỏ đi
+-vật liệu hỏng
+-vật thải
+@Lĩnh vực: hóa học & vật liệu
+-đất bỏ hoang
+@Lĩnh vực: xây dựng
+-đất đào dư ra
+@Lĩnh vực: điện tử & viễn thông
+-không giá trị
+

@@ -1,41 +1,26 @@
-sling	@sling /sliɳ/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) rượu mạnh pha đường và nước nóng
-- ná bắn đá
-- súng cao su
-- dây đeo; dây quàng; băng đeo (cánh tay đau)
-=rifle sling+ dây đeo súng
-=sling of a knapsack+ dây đeo ba lô
-*  ngoại động từ slung
-- bắn, quăng, ném
-- đeo, treo, móc
-- quàng dây (vào vật gì để kéo lên)
-!to sling ink
-- (từ lóng) viết báo, viết văn
-!to sling one's hook
-- (xem) hook
+appoint
+	
+*  ngoại động từ
+- bổ, bổ nhiệm; chỉ định, chọn; lập
+=to appoint someone [to be] director
++ bổ nhiệm ai làm giám đốc
+=to appoint someone to do something
++ chỉ định ai làm việc gì
+=to appoint a commitee
++ lập một uỷ ban
+- định, hẹn (ngày, giờ...)
+=to appoint a day to meet
++ định ngày gặp nhau
+- quy định
+=to appoint that it should be done
++ quy định sẽ phải làm xong việc ấy
+- (thường) dạng bị động trang bị, thiết bị
+=the troops were badly appointed
++ quân đội được trang bị tồi
 @Chuyên ngành kinh tế
--cáp máy móc
--cáp móc
--dây kéo hàng (dây cột vào kiện hàng để kéo lên)
--dây móc
--dây treo
+-bổ nhiệm
+-chỉ định
 @Chuyên ngành kỹ thuật
--dây
--dây cáp
--dây cắt đất sét
--dây đeo
--dây quàng
--dây quàng, cái quang đeo
--nâng bằng cần trục
--móc treo
--xích
-@Lĩnh vực: giao thông & vận tải
--bộ dây
-@Lĩnh vực: xây dựng
--cáp móc
--đeo
-@Lĩnh vực: y học
--sự băng chéo
-@Lĩnh vực: cơ khí & công trình
--treo bằng dây cáp
+-bổ nhiệm
+-chỉ định
+

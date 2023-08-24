@@ -1,12 +1,7 @@
-figuring	
-@figuring
-* danh từ
-- sự vẽ hình, sự in hình
-@Chuyên ngành kỹ thuật
--sự in hình
--sự tạo hình
--sự vẽ hình
-@Chuyên ngành kỹ thuật
--sự in hình
--sự tạo hình
--sự vẽ hình
+ramshackle
+	
+*  tính từ
+- xiêu vẹo, đổ nát
+=a ramshackle house
++ ngôi nhà xiêu vẹo đổ nát
+

@@ -1,11 +1,12 @@
-decontamination	
-@decontamination
-* danh từ
-- sự khử độc, sự khử nhiễm
+wye
+	
+*  danh từ
+- chữ Y
+- vật chữ Y
 @Chuyên ngành kỹ thuật
--sự khử trùng
--sự tẩy uế
-@Lĩnh vực: y học
--khử nhiễm, tẩy uế
-@Lĩnh vực: hóa học & vật liệu
--loại tạp chất
+@Lĩnh vực: điện
+-mạch chữ Y (đa pha)
+@Lĩnh vực: cơ khí & công trình
+-ống nối chạc ba
+-ống nối trạc ba
+

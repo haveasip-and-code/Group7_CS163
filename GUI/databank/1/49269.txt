@@ -1,10 +1,8 @@
-screwing	@screwing
-* danh từ
-- sự vặn vít; sự cắt ren vít
+diffract
+	
+*  ngoại động từ
+- (vật lý) làm nhiễu xạ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự bắt vít
--sự cắt ren vít
--sự vặn vít
-@Lĩnh vực: xây dựng
--sự vặn vào (vít)
+-làm nhiễu xạ
+-nhiễu xạ
+

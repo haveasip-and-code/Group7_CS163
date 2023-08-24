@@ -1,18 +1,5 @@
-flocculate	
-@flocculate /flocculate/
-*  động từ
-- kết bông, kết thành cụm như len
-@Chuyên ngành kỹ thuật
--đông tụ
--keo tụ
--kết bông
--làm kết tụ
-@Lĩnh vực: hóa học & vật liệu
--đóng cục
-@Chuyên ngành kỹ thuật
--đông tụ
--keo tụ
--kết bông
--làm kết tụ
-@Lĩnh vực: hóa học & vật liệu
--đóng cục
+outlines
+	
+@Lĩnh vực: toán & tin
+-phác thảo, phân cấp
+

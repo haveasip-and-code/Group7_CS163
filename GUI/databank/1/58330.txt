@@ -1,31 +1,12 @@
-twine	@twine /twain/
-*  danh từ
-- sợi xe, dây bện
-- sự bện, sự quấn lại với nhau; (nghĩa bóng) sự ôm ghi; cái ôm chặt
-- (số nhiều) khúc uốn quanh, khúc cuộn
-=the twines of a river+ khúc uốn quanh của một con sông
-=the twines a of snake+ khúc cuộn của con rắn
-*  ngoại động từ
-- xoắn, bện, kết lại
-=to twine a thread+ xoắn (bện) một sợi chỉ
-=to twine flowers into a wreath+ kết hoa thành vòng
-- (+ about,  around) ôm, quấn quanh
-=he twined his arms about his mother's neck+ nó ôm chặt lấy cổ mẹ
-*  nội động từ
-- xoắn lại với nhau, bện lại với nhau, kết lại với nhau
-- quấn quanh; cuộn lại
-- uốn khúc, lượn khúc, quanh co
+glazed
+	
+* tính từ
+- đờ đẫn, thẩn thờ
 @Chuyên ngành kỹ thuật
--dây bện
--quên
--sợi xe
--sự bện
--sự xe
--thước
+-đã tráng men
 @Lĩnh vực: hóa học & vật liệu
--bện xe
--sợi dây nhỏ
-@Lĩnh vực: dệt may
--dây cáp nhỏ
--đường sọc nổi
--nhung kẻ
+-đã đánh bóng
+@Lĩnh vực: xây dựng
+-được lắp kính
+-được tráng men
+

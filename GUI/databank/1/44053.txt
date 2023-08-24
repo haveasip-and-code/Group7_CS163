@@ -1,7 +1,10 @@
-proofing	@Chuyên ngành kinh tế
--lớp bảo vệ
--sự không thấm
--sự thí nghiệm do thẩm thấu
--sự thử nghiệm
+leveled
+	
+@Lĩnh vực: xây dựng
+-được san bằng
+-san bằng
 @Chuyên ngành kỹ thuật
--kiểm chứng
+@Lĩnh vực: xây dựng
+-được san bằng
+-san bằng
+

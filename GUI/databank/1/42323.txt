@@ -1,9 +1,5 @@
-polarize	@polarize /'pouləraiz/ (polarise) /'pouləraiz/
-*  ngoại động từ
-- (vật lý) phân cực
-- (nghĩa bóng) cho (từ...) một nghĩa đặc biệt
-- cho một hướng thống nhất
-*  nội động từ
-- được phân cực
-@Chuyên ngành kỹ thuật
--phân cực
+disambiguate
+	
+* ngoại động từ
+- làm cho thành một nghĩa
+

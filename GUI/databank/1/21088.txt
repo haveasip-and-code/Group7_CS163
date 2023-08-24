@@ -1,24 +1,6 @@
-fines	
-@fines
-* danh từ số nhiều
-- quặng bụi; bụi quặng; phần hạt mịn
-@Chuyên ngành kỹ thuật
--bột
--bụi quặng
--hạt mịn
--mảnh vụn
--quặng bụi
--than cám
--vụn
--xơ sợi mịn
--xơ sợi vụn
-@Chuyên ngành kỹ thuật
--bột
--bụi quặng
--hạt mịn
--mảnh vụn
--quặng bụi
--than cám
--vụn
--xơ sợi mịn
--xơ sợi vụn
+disseize
+	
+*  ngoại động từ
+- (
++ of) tước đoạt quyền sở hữu, chiếm đoạt
+

@@ -1,11 +1,5 @@
-modular	@modular
-- tính chất môđun, môđun tính
-@Chuyên ngành kinh tế
--môđun
-@Chuyên ngành kỹ thuật
--đồng dư
--khối kết cấu
--môđun
-@Lĩnh vực: toán & tin
--mođula
--theo mô đun
+cere
+	
+*  danh từ
+- (động vật học) da gốc mỏ (chim)
+

@@ -1,19 +1,4 @@
-deformation	
-@deformation /'di:fɔ:'meiʃn/
-*  danh từ
-- sự làm cho méo mó, sự làm biến dạng, sự làm xấu đi; sự méo mó, sự biến dạng
-- (ngôn ngữ học) biến dạng (của một từ)
-@Chuyên ngành kỹ thuật
--biến dạng
--độ biến dạng
--sự biến dạng
--sự biến hình
--sự đổi dạng
--sự méo
--sự méo mó
-@Lĩnh vực: điện
--méo dạng
-@Lĩnh vực: xây dựng
--phép biến hình
-@Lĩnh vực: y học
--sự biến dạng, biến hình
+presentness
+	
+- xem present
+

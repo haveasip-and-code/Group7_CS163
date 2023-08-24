@@ -1,9 +1,14 @@
-plugger	@plugger
-- xem plug
-@Chuyên ngành kinh tế
--người quảng cáo rùm beng (cho một sản phẩm)
+kinetic
+	
+*  tính từ
+- (thuộc) động lực; do động lực
+=kinetic energy
++ động năng
+- (thuộc) động lực học
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--búa khoan hơi ép
-@Lĩnh vực: y học
--cây nhồi chất trám
+-động học
+-động lực
+@Chuyên ngành kỹ thuật
+-động học
+-động lực
+

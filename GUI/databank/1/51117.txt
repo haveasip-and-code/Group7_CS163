@@ -1,9 +1,8 @@
-slaughtering	@slaughtering
-* danh từ
-- sự mổ súc vật để làm thịt; sự sát sinh
-@Chuyên ngành kinh tế
--sự chế biến
--sự giết mổ
+sessile
+	
+*  tính từ
+- (thực vật học) không cuống
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--sự giết mổ (ở lò giết mổ)
+@Lĩnh vực: y học
+-không cuống (về khối u) không có cuống
+

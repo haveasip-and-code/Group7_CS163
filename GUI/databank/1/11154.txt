@@ -1,11 +1,7 @@
-conglomeration	
-@conglomeration /kən,glɔmə'reiʃn/
+seeker
+	
 *  danh từ
-- sự kết khối, sự kết hợp
-- khối kết
-@Chuyên ngành kỹ thuật
--cuối kết
--kết tụ
--khối kết
-@Lĩnh vực: xây dựng
--sự kết khối
+- người đi tìm
+=gold seeker
++ người đi tìm vàng
+

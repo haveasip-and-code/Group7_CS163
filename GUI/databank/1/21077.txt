@@ -1,4 +1,70 @@
-finch	
-@finch /fintʃ/
+void
+	
+*  tính từ
+- trống, bỏ không, trống rỗng, khuyết
+=a void space
++ một khoảng trống
+=a void post
++ một chức vị khuyết
+- không có người ở; không có người thuê (nhà)
+- không có
+=void of sense
++ không có nghĩa lý gì
+- (thơ ca); (văn học) vô ích, vô dụng
+- (pháp lý) không có hiệu lực, không có giá trị
+=to make void
++ huỷ bỏ
+=to consider something as null and void
++ coi cái gì như không còn giá trị
 *  danh từ
-- (động vật học) chim họ sẻ
+- chỗ trống, khoảng không
+=to fill the void
++ lấp chỗ trống
+=to disappear into the void
++ biến mất vào khoảng không
+- (nghĩa bóng) sự trống rỗng, nỗi thiếu thốn (trong tâm hồn, trong lòng); nỗi thương tiếc
+=his death has left a void
++ ông ấy chết đi để lại nỗi thương tiếc cho mọi người
+- (pháp lý) nhà bỏ không
+*  ngoại động từ
+- (pháp lý) làm cho mất hiệu lực, làm cho mất giá trị
+- (y học) bài tiết
+- (từ cổ,nghĩa cổ) lìa bỏ, rời bỏ (nơi nào)
+@Chuyên ngành kinh tế
+-bỏ không
+-không có hiệu lực
+-không có hiệu lực pháp lý
+-không có người ở
+-không có người thuê
+-trống
+-vô giá trị
+-vô hiệu
+@Chuyên ngành kỹ thuật
+-bị rỗ
+-chân không
+-độ rỗng
+-hốc
+-kẽ hở
+-khe
+-khe hở
+-khe nứt
+-khoảng
+-khoảng không
+-khoảng trống
+-không bào
+-làm mất giá trị
+-làm mất hiệu lực
+-lỗ
+-lỗ hổng
+-lỗ rỗ
+-lõm co
+-rỗ co
+-rỗng
+-vết rỗ co
+-vết rỗ trống
+@Lĩnh vực: xây dựng
+-chỗ rỗng (khoét rỗng)
+-lỗ rỗng (bên trong vật liệu)
+@Lĩnh vực: hóa học & vật liệu
+-túi rỗng (trong đá)
+

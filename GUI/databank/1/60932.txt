@@ -1,15 +1,5 @@
-urban	@urban / :'bein/
-*  tính từ
-- (thuộc) thành phố, (thuộc) thành thị; ở thành phố, ở thành thị
-=urban population+ nhân dân thành thị
-@Chuyên ngành kinh tế
--ở thành phố
--ở thành thị
--thành thị
--thuộc thành phố
-@Chuyên ngành kỹ thuật
--đô thị
--đồ thị
--thành phố
-@Lĩnh vực: giao thông & vận tải
--thành thị
+photodisintegrate
+	
+* ngoại động từ
+- quang rã
+

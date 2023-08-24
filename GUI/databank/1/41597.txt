@@ -1,9 +1,7 @@
-pimento	@pimento /pi'mentou/
-*  danh từ
-- ớt Gia-mai-ca
-- cây ớt Gia-mai-ca
-@Chuyên ngành kinh tế
--cây ớt
--đinh hương
--loại hạt tiêu bột
--ớt
+overwritten
+	
+*  nội động từ overwrote; overwriten
+- làm hỏng một tác phẩm vì viết dài quá ((cũng) to overwrite oneself)
+- viết dài quá
+- viết đè lên, viết lên
+

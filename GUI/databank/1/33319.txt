@@ -1,12 +1,27 @@
-mainline	@mainline
-* danh từ
-- (ngành đường sắt) đường sắt chính
-- đường cái chính; đường biển chính
-- (từ Mỹ,nghĩa Mỹ) (từ lóng) mạch máu chính để tiêm mocfin; sự tiêm mocfin vào mạch máu chính
-* động từ
-- tiêm/chích (ma túy) vào mạch máu chính
+forecast
+	
+*  danh từ
+- sự dự đoán trước; sự dự báo trước
+=weather forecast
++ dự báo thời tiết
+- (từ hiếm,nghĩa hiếm) sự biết lo xa
+*  ngoại động từ,  forecast,  forecasted
+- dự đoán, đoán trước; dự báo
+=to forecast the weather
++ đự báo thời tiết
+@Chuyên ngành kinh tế
+-dự báo
+-dự đoán
+-dự trắc
+-sự dự báo
+-sự dự đoán
+-sự dự trắc
 @Chuyên ngành kỹ thuật
--dòng chính
--luồng chính
-@Lĩnh vực: toán & tin
--chủ lực
+-dự báo
+-dự đoán
+-sự báo
+-sự dự báo
+-sự dự đoán
+-tiên đoán
+-tính
+

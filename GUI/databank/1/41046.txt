@@ -1,6 +1,5 @@
-pharmacognosy	@pharmacognosy
+geochronology
+	
 * danh từ
-- sự nghiên cứu nguồn gốc tự nhiên của thuốc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dược liệu học
+- địa thời học
+

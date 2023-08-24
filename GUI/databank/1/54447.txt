@@ -1,4 +1,6 @@
-sullenness	@sullenness /'sʌlənnis/
-*  danh từ
-- sự buồn rầu, sự ủ rũ
-- sự sưng sỉa
+prolog
+	
+- (viết tắt cho PROgramming in LOGic) Tên một ngôn ngữ lập trình cấp cao
+@Chuyên ngành kỹ thuật
+-ngôn ngữ PROLOG
+

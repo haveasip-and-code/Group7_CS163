@@ -1,5 +1,23 @@
-vocoder	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--bộ mã tiếng nói
--ghi mã tiếng nói
--thiết bị tiếng nói
+recipient
+	
+*  tính từ
+- (như) receptive
+*  danh từ
+- người nhận (tiền, quà biếu...); nước nhận (viện trợ...)
+@Chuyên ngành kinh tế
+-bể chứa
+-chứa
+-người hưởng
+-người hưởng (một chi phiếu, một phiếu khoán)
+-người hưởng trợ cấp
+-người nhận
+-người nhận (một bức thư)
+-người thụ tặng
+-người thụ tặng (một di sản)
+-túi chứa
+@Chuyên ngành kỹ thuật
+-người nhận
+-người nhận, nơi nhận
+-người tiếp nhận
+-nơi nhận
+

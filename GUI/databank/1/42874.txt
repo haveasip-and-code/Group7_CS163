@@ -1,11 +1,7 @@
-pouring	@pouring /'pɔ:riɳ/
-*  tính từ
-- như trút nước, như đổ cây nước (mưa)
-@Chuyên ngành kỹ thuật
--sự đổ
--sự đổ bê tông
--sự đúc
--sự rót
--vật đúc
+gasholder
+	
+-bình ga
 @Lĩnh vực: xây dựng
--như trút nước
+-bể chứa khí
+-tháp chứa khí
+

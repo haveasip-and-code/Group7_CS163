@@ -1,10 +1,7 @@
-saleable	@saleable /'seiləbl/ (saleable) /'seiləbl/
-*  tính từ
-- dễ bán, có thể bán được
-=salable price+ giá có thể bán được
-@Chuyên ngành kinh tế
--có thể bán được
--dễ bán
-@Chuyên ngành kỹ thuật
--có thể bán được
--dễ bán
+dissert
+	
+- nội động từ
+- nghị luận, bàn luận; bình luận
+=to dissert upon some subject
++ nghị luận về vấn đề gì
+

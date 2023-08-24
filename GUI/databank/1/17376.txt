@@ -1,20 +1,5 @@
-eddy	
-@eddy /'edi/
-*  danh từ
-- xoáy nước
-- gió lốc
-- khói cuộn
-*  ngoại động từ
-- làm xoáy lốc
-*  nội động từ
-- xoáy lốc
-@Chuyên ngành kỹ thuật
--dòng chảy xoáy
--dòng xoáy
--gió lốc
--sự tạo xoáy
--sự xoáy
--xoáy
--xoáy nước
-@Lĩnh vực: điện lạnh
--thiết bị làm xoáy
+performative
+	
+* danh từ
+- biểu hiện
+

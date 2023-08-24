@@ -1,22 +1,12 @@
-quill	@quill /kwil/
-*  danh từ
-- ống lông (lông chim)
-- lông cánh; lông đuôi ((cũng) quill feather)
-- lông nhím
-- bút lông ngỗng ((cũng) quill pen); phao bằng ống lông (để đi câu); tăm bằng ống lông; cái gảy đàn bằng ống lông
-- ông chỉ, thoi chỉ
-- (âm nhạc) cái sáo
-- thanh quế
-- vỏ canh ki na cuộn vỏ đỏ
-!to drive a quill
--(đùa cợt) làm nghề viết văn
-- làm nghề cạo giấy
-*  ngoại động từ
-- cuộn thành ống
-- cuộn chỉ vào ống
+decomposable
+	
+*  tính từ
+- (vật lý); (hoá học) có thể phân tích được; có thể phân huỷ được, có thể phân ly được, có thể phân huỷ được
+- có thể thối nát được, có thể mục rữa được
 @Chuyên ngành kỹ thuật
--dây dẫn lửa
--ống
--ống lồng
--ống lót trục chính
--pittông trụ trượt
+@Lĩnh vực: toán & tin
+-khai triển được
+-khai triển ngược
+-phân tích được
+-phân tích ngược
+

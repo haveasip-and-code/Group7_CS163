@@ -1,9 +1,19 @@
-mandator	@mandator /'mændeitə/
-*  danh từ
-- người ra lệnh
-- người uỷ nhiệm, người uỷ thác
-@Chuyên ngành kinh tế
--người ra lệnh
--người ủy nhiệm
--người ủy quyền
--người ủy thác
+divisor
+	
+*  danh từ (toán học)
+- số chia, cái chia
+- ước số
+@Chuyên ngành kỹ thuật
+-bộ chia
+-cống chia nước
+-số chia
+-thiết bị chia
+-ước số
+@Lĩnh vực: điện lạnh
+-máy chia
+-máy phân
+-ước (số)
+@Lĩnh vực: toán & tin
+-ước
+-ước chia
+

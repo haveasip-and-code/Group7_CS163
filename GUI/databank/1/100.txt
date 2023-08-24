@@ -1,21 +1,5 @@
-ablation	
-@ablation /æb'leʃn/
-*  danh từ
-- (y học) sự cắt bỏ (một bộ phận trong cơ thể)
-- (địa lý,địa chất) sự tải mòn (đá)
-- (địa lý,địa chất) sự tiêu mòn (sông băng)
-@Chuyên ngành kỹ thuật
--sự cắt bỏ
--sự khắc mòn
--sự mòn
--sự tải mòn
--sự tan mòn
--sự thải
-@Lĩnh vực: điện lạnh
--sự bốc bay
-@Lĩnh vực: y học
--sự bong tách
--sự cắt bỏ một mô, một phần của cơ thể hoặc vùng sinh trưởng bất thường
-@Lĩnh vực: hóa học & vật liệu
--tải mòn
--tan mòn
+bowdlerize
+	
+*  nội động từ
+- lược bỏ, cắt bỏ (những đoạn không cần thiết trong một cuốn sách)
+

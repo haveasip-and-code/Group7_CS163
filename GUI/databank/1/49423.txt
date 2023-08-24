@@ -1,13 +1,9 @@
-searcher	@searcher
-* danh từ
-- dụng cụ dò tìm
-@Chuyên ngành kinh tế
--nhân viên kiểm tra (hải quan)
--nhân viên kiểm tra (hải quan...)
-@Chuyên ngành kỹ thuật
--người đi tìm kiếm
--người thăm dò
--người tìm kiếm
--thiết bị kiểm tra
-@Lĩnh vực: cơ khí & công trình
--thiết bị nghiên cứu
+congratulate
+	
+*  ngoại động từ
+- chúc mừng, khen ngợi
+=to congratulate someone on something
++ mừng ai về việc gì
+=to congratulate oneself on something
++ tự mình lấy làm sung sướng (vui thích) về một việc gì, mừng cho mình về việc gì
+

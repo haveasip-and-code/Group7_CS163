@@ -1,24 +1,5 @@
-lamina	@lamina /'læminə/
-*  danh từ,  số nhiều laminae  /'læmini:/
-- phiến mỏng, bản mỏng, lớp mỏng
-@Chuyên ngành kinh tế
--lớp mỏng
--phiến mỏng
-@Chuyên ngành kỹ thuật
--bản mỏng
--lớp mỏng
--màng mỏng
--phiến mỏng
-@Lĩnh vực: hóa học & vật liệu
--mặt tách lớp
-@Lĩnh vực: cơ khí & công trình
--phiến mỏng tấm
-@Chuyên ngành kỹ thuật
--bản mỏng
--lớp mỏng
--màng mỏng
--phiến mỏng
-@Lĩnh vực: hóa học & vật liệu
--mặt tách lớp
-@Lĩnh vực: cơ khí & công trình
--phiến mỏng tấm
+spiritualist
+	
+*  danh từ
+- người theo thuyết duy linh
+

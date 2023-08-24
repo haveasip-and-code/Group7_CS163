@@ -1,7 +1,9 @@
-proclamation	@proclamation
+clinician
+	
 * danh từ
-- sự công bố, sự tuyên bố
-- by public proclamation
-- bằng (theo) tuyên bố công khai
-- lời công bố, tuyên ngôn, tuyên cáo
-= issue/make a proclamation+ra tuyên cáo
+- nhà lâm sàng; thầy thuốc lâm sàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà lâm sàng
+-thầy lâm sàng
+

@@ -1,5 +1,4 @@
-placeholder	@placeholder
-- giữ chỗ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phần giữ chỗ
+illustrations
+	
+-minh họa
+

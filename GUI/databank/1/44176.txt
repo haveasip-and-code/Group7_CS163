@@ -1,8 +1,22 @@
-prosecutor	@prosecutor /prosecutor/
+magnitude
+	
 *  danh từ
-- người khởi tố, bên nguyên
-!public prosecutor
-- uỷ viên công tố
-@Chuyên ngành kinh tế
--bên nguyên
--người khởi tố
+- tầm lớn, độ lớn, lượng
+- tầm quan trọng, tính chất trọng đại
+=this is an event of the first magnitude
++ đó là một sự kiện có tầm quan trọng bậc nhất
+@Chuyên ngành kỹ thuật
+-đại lượng
+-độ dài
+-độ lớn
+-độ phóng đại
+-kích thước
+-quy mô
+@Lĩnh vực: điện lạnh
+-cấp sáng
+-cỡ (lớn)
+@Lĩnh vực: vật lý
+-cấp sáng (sao)
+@Lĩnh vực: toán & tin
+-chiều đo
+

@@ -1,8 +1,37 @@
-genealogy	
-@genealogy /,dʤi:ni'ælədʤi/
+defective
+	
+*  tính từ
+- có thiếu sót, có nhược điểm; có tật xấu, có khuyết điểm; kém, không hoàn toàn
+=a defective memory
++ trí nhớ kém
+- (ngôn ngữ học) khuyết điểm
+=a defective verb
++ động từ khuyết thiếu
 *  danh từ
-- khoa phả hệ (của con người, các sinh vật, ngôn ngữ...)
-- bảng phả hệ
+- người có tật
+=a mental defective
++ người kém thông minh
+- (ngôn ngữ học) động từ khuyết thiếu
+@Chuyên ngành kinh tế
+-có khuyết điểm
+-có nhược điểm
+-có tật xấu
+-có thiếu sót
+-dở tệ
+-hỏng
+-kém
+-phế phẩm
+-tồi
 @Chuyên ngành kỹ thuật
+-hỏng
+-hư
+-khuyết
+-khuyết tật
+-phế phẩm
+-sai
 @Lĩnh vực: xây dựng
--phả hệ
+-có khuyết điểm
+-có vết
+@Lĩnh vực: toán & tin
+-hụt nghiệm
+

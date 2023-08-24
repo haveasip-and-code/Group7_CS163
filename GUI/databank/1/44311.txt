@@ -1,11 +1,14 @@
-protractor	@protractor /protractor/
+chocolate
+	
 *  danh từ
-- thước đo góc (hình nửa vòng tròn)
-- (giải phẫu) cơ duỗi
-@Chuyên ngành kỹ thuật
--dụng cụ đo góc
--máy đo góc
-@Lĩnh vực: y học
--dụng cụ gắp (mảnh xương, đạn)
-@Lĩnh vực: xây dựng
--thước do độ
+- sôcôla
+- kẹo sôcôla
+- nước sôcôla
+- màu sôcôla
+*  tính từ
+- có màu sôcôla
+@Chuyên ngành kinh tế
+-kẹo socola
+-màu socola
+-socola
+

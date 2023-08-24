@@ -1,4 +1,10 @@
-civilly	
-@civilly
-* phó từ
-- lịch sự, nhã nhặn
+mutable
+	
+*  tính từ
+- có thể đổi, có thể biến đổi
+- không bền, không kiên định, hay thay đổi
+@Chuyên ngành kỹ thuật
+-biến đổi được
+@Lĩnh vực: toán & tin
+-thay đổi được
+

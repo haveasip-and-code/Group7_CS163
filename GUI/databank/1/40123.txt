@@ -1,17 +1,21 @@
-payroll	@payroll
-* danh từ
-- bảng lương
-- tổng số tiền phải trả cho nhân viên (trong công ty)
+international
+	
+*  tính từ
+- quốc tế
+- (thuộc) tổ chức quốc tế cộng sản
+*  danh từ
+- vận động viên trình độ quốc tế
+- đại biểu quốc tế cộng sản
+- cuộc thi đấu quốc tế
+- (International) Quốc tế cộng sản
+=the First International
++ Quốc tế cộng sản I
+=the Second International
++ Quốc tế cộng sản II
+=the Third International
++ Quốc tế cộng sản III
 @Chuyên ngành kinh tế
--bảng lương
--sổ lương
--tiền lương
--tổng quỹ lương
--tổng số tiền phải trả cho nhân viên
--tổng số tiền trả lương
+-quốc tế
 @Chuyên ngành kỹ thuật
--bảng lương
-@Lĩnh vực: xây dựng
--bảng lương nhân công
-@Lĩnh vực: điện tử & viễn thông
--tình trạng trả
+-quốc tế
+

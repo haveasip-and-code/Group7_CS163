@@ -1,22 +1,18 @@
-decide	
-@decide /di'said/
-*  động từ
-- giải quyết, phân xử=to decide a question
-+ giải quyết một vấn đề=to decide against somebody
-+ phân xử ai thua (kiện...)=to decide in favour of somebody
-+ phân xử cho ai được (kiện)
-- quyết định=to decide to do something
-+ quyết định làm cái gì=to decide against doing something
-+ quyết định không làm cái gì=that decides me!
-+ nhất định rồi!
-- lựa chọn, quyết định chọn=to decide between two things
-+ lựa chọn trong hai thứ!to decide on
-- chọn, quyết định chọn=she decided on the green coat
-+ cô ta quyết định chọn cái áo choàng màu lục
+chick
+	
+*  danh từ
+- gà con; chim con
+- trẻ nhỏ
+=the chicks
++ con cái trong nhà
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đàn bà trẻ; cô gái
+!to have neither chick nor child
+- không có con
+!one chick keeps a hen busy
+- (tục ngữ) hai vợ chồng son thêm một con thành bốn
 @Chuyên ngành kinh tế
--giải quyết
--phân xử
--quyết định
--quyết định chọn
+-gà con
 @Chuyên ngành kỹ thuật
--quyết định
+@Lĩnh vực: y học
+-thử nghiệm để xác định sự mẫn cảm với bệnh bạch hầu
+

@@ -1,2 +1,25 @@
-photometrically	@photometrically
-- xem photometry
+encoding
+	
+- (Tech) biên mã, mã hóa
+@Chuyên ngành kinh tế
+-lập mã
+-mã hóa
+-việc lập mã
+-việc mã hóa
+@Chuyên ngành kỹ thuật
+-giải mã
+-mã hóa
+-sự cài mã
+-sự chuyển đổi
+-sự mã hóa
+@Lĩnh vực: điện lạnh
+-sự lập mã
+@Chuyên ngành kỹ thuật
+-giải mã
+-mã hóa
+-sự cài mã
+-sự chuyển đổi
+-sự mã hóa
+@Lĩnh vực: điện lạnh
+-sự lập mã
+

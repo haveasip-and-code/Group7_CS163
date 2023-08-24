@@ -1,12 +1,12 @@
-shin	@shin /ʃin/
-*  danh từ
-- cẳng chân
-*  động từ
-- trèo, leo (cột... dùng cả hai chân hai tay)
-- đá vào ống chân
-@Chuyên ngành kinh tế
--cẳng chân
+mutate
+	
+* ngoại động từ
+- làm cho... bị biến âm sắc/bị umlau hoá
+- làm cho... thay đổi/biến đổi
+* nội động từ
+- umlau hoá
+- biến âm sắc
+- thay đổi, biến đổi
 @Chuyên ngành kỹ thuật
--mào xương chày
-@Lĩnh vực: y học
--cẳng chân
+-thay đổi
+

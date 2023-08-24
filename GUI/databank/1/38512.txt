@@ -1,17 +1,11 @@
-outlay	@outlay /'autlei/
-*  danh từ
-- tiền chi tiêu, tiền phí tổn
-*  ngoại động từ outlaid
-- tiêu pha tiền
+informatics
+	
+* danh từ
+- khoa học về thông tin, tin học
 @Chuyên ngành kinh tế
--chi phí
--chi tiêu chi phí
--phí tổn
--tiền bỏ ra
--tổng chi tiêu
--tổng mức đầu tư chi tiêu trên toàn quốc
+-tin học
 @Chuyên ngành kỹ thuật
--tiền
--vốn đầu tư
-@Lĩnh vực: hóa học & vật liệu
--số tiền có
+-khoa học thông tin
+@Lĩnh vực: toán & tin
+-môn tin học
+

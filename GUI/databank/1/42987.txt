@@ -1,3 +1,17 @@
-preassembled	@Chuyên ngành kỹ thuật
--được lắp ráp trước
--lắp trước
+actor
+	
+*  danh từ
+- diễn viên (kịch, tuồng, chèo, điện ảnh...); kép, kép hát
+=film actor
++ tài tử đóng phim, diễn viên điện ảnh
+- (từ hiếm,nghĩa hiếm) người làm (một việc gì)
+=a bad actor
++ (từ Mỹ,nghĩa Mỹ) người khó tin cậy
+@Chuyên ngành kỹ thuật
+-người hành động
+@Lĩnh vực: vật lý
+-cấu tác động
+-cấu thực hiện
+@Lĩnh vực: hóa học & vật liệu
+-chất đồng tác
+

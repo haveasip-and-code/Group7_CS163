@@ -1,35 +1,6 @@
-straw	@straw /strɔ:/
-*  danh từ
-- rơm
-- nón rơm, mũ rơm
-- cọng rơm, ống rơm (để hút nước chanh, nước cam...)
-- vật không đáng kể, vật vô giá trị
-=it is not worth a straw+ cái đó chẳng có giá trị gì cả
-!I don't care a straw
-- (xem) care
-!a drowing man will catch at a straw
-- (xem) catch
-!in the straw
-- (từ cổ,nghĩa cổ) nằm ổ
-!to make bricks without straw
-- đóng thuyền mà không xẻ ván
-!man of straw
-- người rơm, bù nhìn, hình nộm
-!the last straw
-- cái "một tí" thêm vào sau cùng (là cái nặng nhất)
-!a straw shows which way the wind blows
-- lời gợi ý nhỏ có thể có tác dụng lớn
-!a straw in the wind
-- cái chỉ hướng gió thổi; cái chỉ rõ chiều hướng dư luận
-*  tính từ
-- bằng rơm
-- vàng nhạt, màu rơm
-- nhỏ nhặt, tầm thường, vô giá trị
-*  ngoại động từ
-- (từ cổ,nghĩa cổ) phủ (bằng rơm, bằng cát, bằng hoa...)
-@Chuyên ngành kỹ thuật
--rạ (làm bột giấy)
-@Lĩnh vực: cơ khí & công trình
--có màu rơm (tôi)
-@Lĩnh vực: hóa học & vật liệu
--rơm
+eupnoea
+	
+* danh từ
+- cũng eupnea
+- hô hấp bình thường
+

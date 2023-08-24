@@ -1,13 +1,7 @@
-unlock	@unlock /'ʌn'lɔk/
-*  ngoại động từ
-- mở, mở khoá
-=to unlock a door+ mở cửa
-- để lộ, tiết lộ
-=to unlock a secret+ tiết lộ một điều bí mật
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bỏ khóa
-@Lĩnh vực: toán & tin
--không khóa, mở khóa
-@Lĩnh vực: điện tử & viễn thông
--mở khóa
+stour
+	
+* tính từ
+- (từ Scotland) nghiêm nghị; cứng rắn; dữ dội
+* danh từ
+- đám bụi mù
+

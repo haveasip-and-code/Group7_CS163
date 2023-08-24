@@ -1,8 +1,8 @@
-misreading	@misreading
-* danh từ
-- sự nhầm lẫn trong việc dò lại chỉ số/độ số (trên dụng cụ đo đạc)
-- sự đọc/hiểu/giải thích sai
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--đọc sai số
--sự đọc sai
+bovine
+	
+*  tính từ
+- (thuộc) giống bò; như bò
+- đần độn, ngu độn; nặng nề, chậm chạp
+@Chuyên ngành kinh tế
+-giống bò
+

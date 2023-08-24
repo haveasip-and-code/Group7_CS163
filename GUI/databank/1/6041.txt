@@ -1,53 +1,25 @@
-blue	
-@blue /blu:/
-*  tính từ
-- xanh=dark blue
-+ xanh sẫm
-- mặc quần áo xanh
-- (thông tục) chán nản, thất vọng=to feel blue
-+ cảm thấy chán nản=things look blue
-+ mọi việc có vẻ đáng chán, mọi việc có vẻ đáng buồn=blue study
-+ sự ưu tư buồn bã, sự suy nghĩ ủ ê
-- hay chữ (đàn bà)
-- tục tĩu (câu chuyện)
-- (chính trị) (thuộc) đảng Tô rõi rệu 1 chĩu phĩu uống say mèm, uống say bí tỉ!to make (turn) the air blue
-- chửi tục!once in a blue moon
-- (xem) moon
+stagger
+	
 *  danh từ
-- màu xanh=to be dressed in blue
-+ mặc quần áo màu xanh
-- phẩm xanh, thuốc xanh=Paris blue
-+ xanh Pa
--ri
-- (the blue) bầu trời
-- (the blue) biển cả
-- vận động viên điền kinh (trường đại học Ôc
--phớt và Căm
--brít); huy hiệu vận động điền kinh (trường đại học Ôc
--phớt và Căm
--brít)=the dark blues
-+ những vận động viên điền kinh của trường đại học Ôc
--phớt=the light blues
-+ những vận động viên điền kinh của trường đại học Căm
--brít
-- nữ học giả, nữ sĩ ((cũng) blue stocking)
-- (số nhiều) sự buồn chán=to be in the blues; to have the blues
-+ buồn chán=to give someone the blues
-+ gây nỗi buồn chán cho ai!a bolt from the blue
-- (xem) bolt!out of the blue
-- hoàn toàn bất ngờ
+- sự lảo đảo; bước đi loạng choạng
+- (kỹ thuật) cách bố trí chữ chi (các bộ phận giống nhau trong máy)
+- (số nhiều) sự chóng mặt
+- (số nhiều) (thú y học) bệnh loạng choạng (một loại bệnh về thần kinh của thú nuôi) ((cũng) blind staggers)
+*  nội động từ
+- lảo đảo, loạng choạng
+- do dự, chần chừ, phân vân; dao động
 *  ngoại động từ
-- làm xanh, nhuộm xanh
-- hồ lơ (quần áo)
-- (từ lóng) xài phí, phung phí (tiền bạc)
+- làm lảo đảo, làm loạng choạng; làm choáng người
+=a staggering blow
++ một cú đấm choáng người
+- làm do dự, làm phân vân; làm dao động
+=to be staggered by a question
++ bị câu hỏi làm phân vân
+- (kỹ thuật) xếp (nan hoa) chéo cánh sẻ, xếp chữ chi
+- bố trí (ngày nghỉ, giờ làm...) chéo nhau
+@Chuyên ngành kinh tế
+-bố trí xen kẽ
+-xếp lệch nhau
 @Chuyên ngành kỹ thuật
--lơ
--nhuộm xanh (thép)
--màu xanh
--xang lơ
--xanh
-@Lĩnh vực: điện lạnh
--màu lam
--màu lơ
-@Lĩnh vực: xây dựng
--phẩm xanh
+-chữ chi
+

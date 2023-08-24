@@ -1,4 +1,50 @@
-watchfulness	@watchfulness /'wɔtʃfulnis/
+vote
+	
 *  danh từ
-- tính thận trọng, tính cảnh giác
-- sự đề phòng, sự để ý
+- sự bỏ phiếu
+=to go to the vote
++ đi bỏ phiếu
+=a vote of confidence
++ sự bỏ phiếu tín nhiệm
+- lá phiếu
+=to count the votes
++ kiểm phiếu
+- số phiếu (của một đảng trong một cuộc bầu cử)
+- biểu quyết; nghị quyết (qua bỏ phiếu)
+=to carry out a vote of the Congress
++ (từ Mỹ,nghĩa Mỹ) thực hiện một nghị quyết của quốc hội
+- ngân sách (do quốc hội quyết định)
+=the army vote
++ ngân sách cho quân đội
+*  nội động từ
+- bỏ phiếu, bầu cử
+*  ngoại động từ
+- bỏ phiếu thông qua
+=to vote an appropriation
++ bỏ phiếu thông qua một khoản chi
+- (thông tục) đồng thanh tuyên bố
+- (thông tục) đề nghị
+!to vote down
+- bỏ phiếu bác
+!to vote in
+- bầu
+!to vote out
+- bỏ phiếu chống
+!to vote through
+- tán thành, thông qua
+@Chuyên ngành kinh tế
+-bầu phiếu
+-bỏ thăm
+-cuộc tuyển cử
+-cuộc tuyển cử, bỏ thăm, bầu phiếu
+-phiếu bầu
+-quyền bầu phiếu
+-quyền biểu quyết
+-quyền đầu phiếu
+-quyền tuyển cử
+-quyền tuyển cử, biểu quyết
+-thăm
+-việc biểu quyết
+@Chuyên ngành kỹ thuật
+-bầu
+

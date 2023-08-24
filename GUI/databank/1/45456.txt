@@ -1,6 +1,20 @@
-railroader	@railroader /'reilroudə/
+accuracy
+	
 *  danh từ
-- nhân viên đường sắt
-- chủ công ty đường sắt
+- sự đúng đắn, sự chính xác; độ chính xác
+=accuracy of fire
++ sự bắn chính xác
+=high accuracy
++ độ chính xác cao
+=accuracy of measurement
++ độ chính xác của phép đo
 @Chuyên ngành kinh tế
--nhân viên ngành đường sắt
+-tính chính xác
+@Chuyên ngành kỹ thuật
+-độ chính xác
+-độ tin cậy
+-mức chính xác
+-sự chính xác
+@Lĩnh vực: toán & tin
+-lệnh dịch thanh tổng
+

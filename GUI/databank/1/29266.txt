@@ -1,9 +1,14 @@
-interdiction	
-@interdiction /,intə'dikʃn/
+severity
+	
 *  danh từ
-- sự cấm chỉ, sự bị cấm
-- (tôn giáo) sự khai trừ, sự huyền chức
-- (từ Mỹ,nghĩa Mỹ),  (quân sự) sự ngăn chặn (tiếp tế...) bằng cách bắn phá đường giao thông
+- tính nghiêm khắc; tính nghiêm nghị; sự ngặt nghèo
+- tính khốc liệt, tính dữ dội, tính gay go, tính ác liệt
+- tính mộc mạc, tính giản dị
+- giọng châm biếm, giọng mỉa mai
+- sự đối đãi khắc nghiệt; sự trừng phạt khắc nghiệt
 @Chuyên ngành kỹ thuật
--sự cấm
--sự ngăn chặn
+@Lĩnh vực: điện lạnh
+-sự khắc nghiệt
+@Lĩnh vực: toán & tin
+-tính nghiêm trọng
+

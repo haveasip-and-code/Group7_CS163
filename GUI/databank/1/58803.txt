@@ -1,7 +1,12 @@
-unbundled	@Chuyên ngành kinh tế
--sắm lẻ
--sắm riêng
+catastrophe
+	
+*  danh từ
+- tai ương, tai biến, thảm hoạ, tai hoạ lớn
+- kết thúc thê thảm; kết thúc của một vở bi kịch
+@Chuyên ngành kinh tế
+-thảm họa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--không kèm riêng
--không tính gộp
+-tai họa
+@Lĩnh vực: điện tử & viễn thông
+-hỏng hóc tai biến
+

@@ -1,11 +1,15 @@
-blinking	
-@blinking
-- (Tech) chớp tắt, nhấp nháy ()
+gram
+	
+*  danh từ
+- (như) gramme
+- (thực vật học) đậu Thổ
+-nhĩ
+-kỳ
+- đậu xanh
+@Chuyên ngành kinh tế
+-gam
 @Chuyên ngành kỹ thuật
--nhấp nháy
--phương pháp nhấp nháy
--sự nhấp nháy
-@Lĩnh vực: y học
--chớp mắt
-@Lĩnh vực: toán & tin
--sự lấp lánh
+-g
+@Lĩnh vực: điện
+-gam
+

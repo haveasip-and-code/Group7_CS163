@@ -1,13 +1,4 @@
-cling	
-@cling /kliɳ/
-*  nội động từ clung
-- bám vào, dính sát vào, níu lấy=wet clothes cling to the body
-+ quần áo ướt dính sát vào người=clinging dress
-+ quần áo bó sát vào người
-- (nghĩa bóng) bám lấy; trung thành (với); giữ mãi=to cling to one's friend
-+ trung thành với bạn=to cling to one's habit
-+ giữ mãi một thói quen=to cling to an idea
-+ giữ một ý kiến!to cling on to
-- bám chặt lấy, giữ chặt lấy
-@Chuyên ngành kỹ thuật
--bám
+decremental
+	
+- xem decrement
+

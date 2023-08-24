@@ -1,37 +1,10 @@
-restraint	@restraint /ris'treint/
-*  danh từ
-- sự ngăn giữ, sự kiềm chế
-=to put a restraint on someone+ kiềm chế ai
-- sự hạn chế, sự gò bó, sự câu thúc
-=the restraints of poverty+ những sự câu thúc của cảnh nghèo
-- sự gian giữ (người bị bệnh thần kinh)
-- sự dè dặt, sự giữ gìn, sự thận trọng, sự kín đáo
-=to speak without restraint+ ăn nói không giữ gìn, ăn nói sỗ sàng
-=to fling aside all restraint+ không còn dè dặt giữ gìn già cả
-- sự giản dị; sự có chừng mực, sự không quá đáng (văn)
-- sự tự chủ được, sự tự kiềm chế được
-@Chuyên ngành kinh tế
--cản trở
--giữ lại
--ngăn trở
--sự giữ lại
--sự hạn chế
--sự ngăn giữ
-@Chuyên ngành kỹ thuật
--hạn chế
--ngàm
--ngăn cản
--sự ép
--sự giới hạn
--sự hạn chế
--sự kẹp chặt
--sự kìm hãm
--sự nén
--sự ngàm
--sự ràng buộc
-@Lĩnh vực: ô tô
--cái giảm chấn
-@Lĩnh vực: y học
--sự giam giữ, cầm giữ
-@Lĩnh vực: xây dựng
--sự kiềm chế
+recessionary
+	
+* tính từ
+- giảm sút; sa sút; suy thoái
+= in the present recessionary conditions
++trong điều kiện suy thoái hiện nay
+- dẫn đến sự suy thoái; gây ra tình trạng suy thoái
+= a recessionary effect on the national economy
++một tác động làm suy thoái nền kinh tế quốc gia
+

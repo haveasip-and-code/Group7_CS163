@@ -1,36 +1,5 @@
-filter	
-@filter
-- (điều khiển học); (vật lí) cái lọc, bộ lọc, máy lọc
-- all
--pass f. máy lọc pha
-- amplitude f. máy lọc biên độ
-- band f. máy lọc giải
-- band
--elimination f. máy lọc khử theo giải
-- bandpass f. cái lọc băng (giải)
-- elamping f. cái lọc được giữ cố định
-- compensating f. cái lọc bổ chính
-- discontinuous f. máy lọc xung
-- feedback f. cái lọc hệ ngược
-- frequency f. cái lọc tần số
-- high
--pass f. cái lọc sao
-- infinite memory f. bộ lọc có nhớ vô hạn
-- interference f. máy lọc chống nhiễu loạn
-- lossless f. máy lọc không hao
-- low
--pass f. máy lọc các tần thấp
-- mode f. cái lọc kiểu sóng
-- noise f. cái lọc tiếng ồn
-- nonlinear f. bộ lọc không tuyến tính
-- normalized f. bộ lọc được chuẩn hoá
-- optimun f. bộ lọc tối ưu
-- output f. máy lọc (có) lối ra
-- predicting f. cái lọc tiên đoán
-- pulsed f. máy lọc xung
-- seperation f. cái lọc tách
-- stable f. cái lọc ổn định
-- suppression f. máy lọc chẵn
-- total f. bộ lọc phức
-- tuned f. cái lọc cộng hưởng
-- wave f. cái lọc sóng
+orthogonality
+	
+*  danh từ
+- (toán học) tính trực giao
+

@@ -1,3 +1,13 @@
-restorable	@restorable /ris'tɔ:rəbl/
+aclinic
+	
 *  tính từ
-- có thể hồi phục lại; có thể khôi phục lại
+- (vật lý) không nghiêng, vô khuynh
+=aclinic line
++ đường vô khuynh
+@Chuyên ngành kỹ thuật
+-không nghiêng
+@Lĩnh vực: y học
+-không dốc
+@Lĩnh vực: điện lạnh
+-vô khuynh
+

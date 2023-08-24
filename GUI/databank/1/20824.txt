@@ -1,5 +1,38 @@
-fescue	
-@fescue /'feskju:/
+import
+	
 *  danh từ
-- thước trỏ (của thầy giáo)
-- (thực vật học) cỏ đuôi trâu
+- sự nhập, sự nhập khẩu (hàng hoá)
+- ((thường) số nhiều) hàng nhập, hàng nhập khẩu
+- ý nghĩa, nội dung (của một từ, một văn kiện)
+=the import of a statement
++ nội dung bản tuyên bố
+- tầm quan trọng
+=a matter of great import
++ vấn đề quan trọng
+*  ngoại động từ
+- nhập, nhập khẩu (hàng hoá...)
+- ngụ ý, ý nói, nghĩa là
+=what does this news import?
++ tin này nghĩa là thế nào?
+- cho biết
+=a leter importing that...
++ một bức thư cho biết rằng...
+- có quan hệ tới; có tầm quan trọng đối với; cần đối với
+=it imports us to know...
++ chúng ta cần phải được biết...
+@Chuyên ngành kinh tế
+-du nhập
+-đưa vào
+-nhập khẩu
+-sự nhập khẩu
+-việc nhập khẩu
+@Chuyên ngành kỹ thuật
+-hàng nhập
+-nhập cảng
+-nhập khẩu
+-nhập vào
+-sự nhập
+-sự nhập khẩu
+@Lĩnh vực: hóa học & vật liệu
+-hàng nhập khẩu
+

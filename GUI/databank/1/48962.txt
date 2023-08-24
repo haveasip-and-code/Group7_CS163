@@ -1,15 +1,23 @@
-scarify	@scarify /'skeərifai/
-*  ngoại động từ
-- (y học) rạch nông da
-- (nghĩa bóng) giày vò, đay nghiến
-- (nông nghiệp) xới (đất) bằng máy xới
+pending
+	
+*  tính từ
+- chưa quyết định, chưa giải quyết, còn để treo đó; (pháp lý) chưa xử
+=pending questions
++ những vấn đề còn tồn tại chưa giải quyết
+=a pending case
++ một vụ kiện chưa xử
+*  danh từ
+- trong lúc, trong quá trình, trong khoảng thời gian
+=pending the negotiations
++ trong lúc đang thương lượng
+- cho đến lúc, trong khi chờ đợi
+=pending the completion of the agreement
++ cho đến lúc ký kết bản hiệp định
+=pending my return
++ trong khi chờ đợi tôi trở về
 @Chuyên ngành kỹ thuật
--khía rãnh
--làm xước
--rạch rãnh
--xáo tung
--xáo xới
--xẻ rãnh
--xới
--xới bề mặt
--xới tung
+-chờ
+-không kết thúc
+-trì hoãn
+-uốn cong
+

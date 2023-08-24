@@ -1,24 +1,16 @@
-manage	@manage /'mænidʤ/
-*  ngoại động từ
-- quản lý, trông nom
-=to manage a bank+ quản lý một nhà ngân hàng
-=to manage a household+ trông nom công việc gia đình
-- chế ngự, kiềm chế; điều khiển, sai khiến, dạy dỗ, dạy bảo
-=I cannot manage that horse+ tôi không thể nào chế ngự nổi con ngựa kia
-=a child very difficult to manage+ một đứa trẻ khó dạy (bảo)
-- thoát khỏi, gỡ khỏi; xoay xở được, giải quyết được
-=how could you manage that bisiness?+ anh làm thế nào để có thể giải quyết được vấn đề ấy?
-- dùng, sử dụng
-=how do you manage those levers?+ anh sử dụng những cái đòn bẫy này thế nào?
-=can you manage another bottle?+ anh có thể làm thêm một chai nữa không?
-*  nội động từ
-- đạt kết quả, đạt mục đích, xoay sở được, tìm được cách
-=he knows how to manage+ nó biết cách xoay sở, nó biết cách giải quyết
-@Chuyên ngành kinh tế
--chỉ huy
--điều khiển
--quản lý
--quản trị
+gib
+	
+*  danh từ
+- (kỹ thuật) đinh kẹp, má kẹp
+- (kỹ thuật) cái chốt, cái chèn, cái chêm
 @Chuyên ngành kỹ thuật
--điều khiển
--quản lý
+-cái chêm
+-cái chèn
+-chêm có đầu
+-đinh kẹp
+-đinh kẹp, má kẹp
+-tấm kẹp
+-thanh dẫn hướng
+@Lĩnh vực: xây dựng
+-đinh kẹp, má kẹp// cái chèn, cái chốt, cái chêm
+

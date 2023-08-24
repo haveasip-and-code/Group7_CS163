@@ -1,42 +1,5 @@
-boil	
-@boil /bɔil/
-*  danh từ
-- (y học) nhọt, đinh
-*  danh từ
-- sự sôi; điểm sôi=to bring to the boil
-+ đun sôi=to come to the boil
-+ bắt đầu sôi=to be at the boil
-+ ở điểm sôi, đang sôi
-*  động từ
-- sôi
-- đun sôi, nấu sôi; luộc
-- (nghĩa bóng) sục sôi=to boil over with indignation
-+ sục sôi căm phẫn=to make one's blood boil
-+ làm cho máu sôi lên, làm giận sôi lên!to boil away
-- tiếp tục sôi
-- sôi cạn; nấu đặc lại!to boil down
-- nấu đặc lại; cô đặc lại
-- tóm tắt lại, rút lại=the matter boils down to this
-+ việc rút lại là thế này, việc chung quy là thế này!to boil over
-- sôi tràn ra!boiled shirt
-- sơ mi là cứng ngực!to keep the pot boiling
-- (xem) pot
-@Chuyên ngành kinh tế
--điểm sôi
--nấu sôi
--sự sôi
-@Chuyên ngành kỹ thuật
--đun
--đun sôi
--lỗ
--nấu
--nung
--sôi
--sự bốc hơi
--sự sôi
--vết
-@Lĩnh vực: hóa học & vật liệu
--làm sôi
--nước rò
-@Lĩnh vực: y học
--nhọt
+flabelliform
+	
+*  tính từ
+- (sinh vật học) hình quạt
+

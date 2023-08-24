@@ -1,7 +1,7 @@
-diplont	
-@diplont
+ovenware
+	
 * danh từ
-- Sinh vật lưỡng bội
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sinh vật lưỡng bội
+- đĩa chịu nhiệt có thể dùng để nấu thức ăn trong lò
+= ovenware pottery
++đồ gốm dùng cho lò
+

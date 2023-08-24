@@ -1,11 +1,6 @@
-reagent	@reagent
-* danh từ
-- <hóa> thuốc thử
-- chất phản ứng
-@Chuyên ngành kinh tế
--chất phản ứng
--thuốc thử
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--chai chất phản ứng
--chai thuốc thử
+extirpate
+	
+*  ngoại động từ
+- nhổ rễ, đào tận gốc (cây, cỏ...); cắt bỏ (cái u...)
+- làm tuyệt giống, trừ tiệt
+

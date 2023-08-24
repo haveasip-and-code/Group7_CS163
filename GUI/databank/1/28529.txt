@@ -1,19 +1,10 @@
-influx	
-@influx /'inflʌks/
-*  danh từ
-- sự chảy vào, sự tràn vào
-- dòng (người...) đi vào (nơi nào)
-- cửa sông
-@Chuyên ngành kinh tế
--dòng vào
--luồng vào
-@Chuyên ngành kỹ thuật
--ảnh hưởng
--dòng chảy vào
--dòng vào
--sự chảy vào
--tác dụng
-@Lĩnh vực: cơ khí & công trình
--dòng nước vào
-@Lĩnh vực: điện lạnh
--thông thượng vào
+proclamation
+	
+* danh từ
+- sự công bố, sự tuyên bố
+- by public proclamation
+- bằng (theo) tuyên bố công khai
+- lời công bố, tuyên ngôn, tuyên cáo
+= issue/make a proclamation
++ra tuyên cáo
+

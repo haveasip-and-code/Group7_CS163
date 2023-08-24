@@ -1,10 +1,21 @@
-canonical	
-@canonical /kə'nɔnikəl/
-*  tính từ
-- hợp với kinh điển; hợp với quy tắc tiêu chuẩn
-- hợp với quy tắc giáo hội, tuân theo quy tắc giáo hội
-- (thuộc) giáo sĩ=canonical dress
-+ quần áo của giáo sĩ
-- (âm nhạc) dưới hình thức canông
+helmet
+	
+*  danh từ
+- mũ sắt (bộ đội, lính cứu hoả...)
+- mũ cát
+- (kỹ thuật) cái chao, cái nắp, cái chụp
 @Chuyên ngành kỹ thuật
--kiểu mẫu
+-mặt nạ
+-mũ an toàn
+-mũ bảo hiểm
+-mũ bảo hộ
+-mũ bảo vệ
+-mũ cọc
+-mũ phòng hộ
+-mũ sắt
+@Lĩnh vực: xây dựng
+-nắp chụp
+-mũ cát
+@Lĩnh vực: điện
+-mũ cứng
+

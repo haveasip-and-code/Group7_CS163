@@ -1,12 +1,6 @@
-prefix	@prefix /'pri:fiks/
-*  danh từ
-- (ngôn ngữ học) tiền tố
-- từ chỉ tước, từ chỉ chức tước, từ chỉ danh hiệu (để trước một danh từ riêng, ví dụ Dr,  Sir)
-*  ngoại động từ
-- đặt ở hàng trước, thêm vào đầu (coi như lời mở đầu...)
-=to prefix a chapter to a book+ thêm một chương vào đầu cuốn sách
-- (ngôn ngữ học) lắp (một yếu tố vào đầu một từ khác) làm tiền t
-@Chuyên ngành kỹ thuật
--đoạn đầu băng
-@Lĩnh vực: toán & tin
--tiếp đầu ngữ
+demure
+	
+*  tính từ
+- nghiêm trang, từ tốn; kín đáo
+- làm ra vẻ nghiêm trang; màu mè làm ra vẻ kín đáo; e lệ, bẽn lẽn
+

@@ -1,8 +1,12 @@
-orographic	@orographic /,ɔrou'græfik/ (oreographic) /,ɔriə'græfik/ (oreographical) /,ɔriə'græfikəl/ (orographical) /,ɔrou'græfikəl/
-*  danh từ
-- (thuộc) sơn văn học
-- (thuộc) địa hình núi
+finite
+	
+*  tính từ
+- có hạn; có chừng; hạn chế
+- (ngôn ngữ học) có ngôi (động từ)
 @Chuyên ngành kỹ thuật
--sơn văn học
-@Lĩnh vực: hóa học & vật liệu
--sơn văn
+-hữu hạn
+-xác định
+@Chuyên ngành kỹ thuật
+-hữu hạn
+-xác định
+

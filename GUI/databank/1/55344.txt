@@ -1,29 +1,17 @@
-tab	@tab /tæb/
+snare
+	
 *  danh từ
-- tai, đầu, vạt, dải (đính vào một vật gì)
-=tab of shoe-lace+ sắt bịt đầu dây giày
-=tab of coat+ dải áo
-- nhãn (dán trên hàng hoá)
-- (quân sự) phù hiệu cổ áo
-- (thông tục) sự tính toán; sự kiểm tra
-=to keep tab(s) on+ kiểm tra, kiểm soát (sổ sách chi tiêu...); theo dõi
-@Chuyên ngành kinh tế
--bản kiểm kê tiền trả
--mẫu băng
--nhãn (dán trên hàng hóa)
--phiếu tính tiền
--sự kiểm tra
--sự tính toán
+- cái bẫy, cái lưới (bẫy chim)
+=to sit a snare
++ gài bẫy, giăng lưới
+- cạm bẫy, mưu, mưu chước
+=to be caught in a snare
++ bị mắc bẫy
+- điều cám dỗ
+- (số nhiều) dây mặt trống (buộc ngang mặt trống để tăng âm)
+*  ngoại động từ
+- đánh bẫy (chim), gài bẫy, đặt bẫy
+- bẫy
 @Chuyên ngành kỹ thuật
--nêm
--nhãn (hàng hóa)
--mấu
 -quai
--then
--vấu
--vấu đỡ
-@Lĩnh vực: toán & tin
--cữ đích
--cữ dừng
-@Lĩnh vực: điện tử & viễn thông
--phiếu danh
+

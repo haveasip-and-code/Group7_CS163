@@ -1,5 +1,10 @@
-binomial	
-@binomial
-- (Tech) nhị thức
+quintic
+	
+* tính từ
+- (toán học) bậc năm
 @Chuyên ngành kỹ thuật
--nhị thức
+@Lĩnh vực: toán & tin
+-bậc năm
+-bậc năm, hạng năm
+-hạng năm
+

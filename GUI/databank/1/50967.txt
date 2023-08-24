@@ -1,6 +1,4 @@
-skewed	@Chuyên ngành kỹ thuật
--xiên
-@Lĩnh vực: cơ khí & công trình
--có hình thoi lệch
--không song song (với trục)
--không thẳng góc
+evocator
+	
+- xem evocation
+

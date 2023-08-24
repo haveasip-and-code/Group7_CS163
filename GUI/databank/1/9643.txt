@@ -1,10 +1,8 @@
-classical	
-@classical /'klæsikəl/
-*  tính từ
-- kinh điển=classical school
-+ nhà học giả kinh điển
-- cổ điển; không hoa mỹ
-- hạng ưu (tác phẩm văn học)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--kinh điển
+disarray
+	
+*  danh từ
+- sự lộn xộn, sự xáo trộn
+*  ngoại động từ
+- làm lộn xộn, làm xáo trộn
+- (thơ ca) cởi quần áo (của ai)
+

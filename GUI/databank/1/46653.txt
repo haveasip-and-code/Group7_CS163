@@ -1,7 +1,22 @@
-remanence	@remanence
-* danh từ
-- sự cảm ứng từ dư; độ từ dư
+facade
+	
+*  danh từ
+- mặt chính (nhà)
+- bề ngoài vẻ ngoài, mã ngoài
 @Chuyên ngành kỹ thuật
--độ từ dư
-@Lĩnh vực: điện lạnh
--độ cảm ứng từ (còn) dư
+-mặt chính
+-mặt tiền
+-mặt trước
+@Lĩnh vực: xây dựng
+-hướng ra sân
+-mặt chiếu đứng
+-mặt tiền, mặt chính
+@Chuyên ngành kỹ thuật
+-mặt chính
+-mặt tiền
+-mặt trước
+@Lĩnh vực: xây dựng
+-hướng ra sân
+-mặt chiếu đứng
+-mặt tiền, mặt chính
+

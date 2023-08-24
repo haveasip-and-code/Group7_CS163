@@ -1,6 +1,4 @@
-hypothetical	
-@hypothetical
-- Cách viết khác : hypothetic
-@Chuyên ngành kỹ thuật
--giả định
--giả thiết
+records
+	
+-tài liệu hồ sơ, công văn, giấy tờ lưu trữ
+

@@ -1,11 +1,14 @@
-hospice	
-@hospice /'hɔspis/
-*  danh từ
-- nhà nghỉ chân (của khách qua đường)
-- nhà tế bần
+musty
+	
+*  tính từ
+- mốc, có mùi mốc
+=musty books
++ sách mốc meo
+=a musty room gian phòng ẩm mốc
++ cũ kỹ, già nua, lạc hậu, không hợp thời
+=musty ideas
++ tư tưởng cũ kỹ
 @Chuyên ngành kinh tế
--nhà mát
--nhà nghỉ chân
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--viện chăm sóc đặc biệt
+-có mùi mốc
+-mốc
+

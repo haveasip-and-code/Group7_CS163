@@ -1,36 +1,29 @@
-sealing	@sealing
-* danh từ
-- sự bịt kín, sự nút kín, sự hàn kín
-@Chuyên ngành kinh tế
--sự cuộn
--sự dán
--sự đóng kín
--sự gói
--sự hàn
--sự săn hải cẩu
+evolve
+	
+*  ngoại động từ
+- mở ra ((nghĩa đen) & (nghĩa bóng))
+- rút ra, suy ra, luận ra, lấy ra (lý thuyết, sự kiện...)
+- (thường)(đùa cợt) tạo ra, hư cấu
+- phát ra (sức nóng...)
+- làm tiến triển; làm tiến hoá
+*  nội động từ
+- tiến triển; tiến hoá
 @Chuyên ngành kỹ thuật
--bịt kín
--chống thấm
--đặc
--khít
--kín
--sự bít kín
--sự đệm kín
--sự đóng kín
--sự gắn
--sự hàn
--sự hàn kín
--sự kín
--sự làm kín
--sự lấp kín (bãi rác)
--sự trát
--sự trét
--trét kín
+-bốc lên
+-khai triển
+-lấy căn số
+-phát triển
+-tiến hóa
+-tiến triển
 @Lĩnh vực: xây dựng
--lấp kín
--sự trám kín
-@Lĩnh vực: điện lạnh
--phần gắn
-@Lĩnh vực: điện
--việc cặp chì
--việc niêm phong
+-bay ra
+@Chuyên ngành kỹ thuật
+-bốc lên
+-khai triển
+-lấy căn số
+-phát triển
+-tiến hóa
+-tiến triển
+@Lĩnh vực: xây dựng
+-bay ra
+

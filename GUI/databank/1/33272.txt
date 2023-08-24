@@ -1,13 +1,21 @@
-magnification	@magnification /,mægnifi'keiʃn/
+cache
+	
 *  danh từ
-- sự phóng đại, sự mở rộng, sự làm to
-- sự ca ngợi, sự tán tụng, sự tán dương
+- nơi giấu, nơi trữ (lương thực, đạn dược... nhất là các nhà thám hiểm để dùng sau này)
+=to make a cache
++ xây dựng nơi trữ
+- lương thực, vật dụng giấu kín
+- thức ăn dự trữ (của động vật qua đông)
+*  ngoại động từ
+- giấu kín, trữ
 @Chuyên ngành kỹ thuật
--độ khuếch đại
--độ phóng đại
--sự khuếch đại
--sự mở rộng
--sự phóng đại
--sự tăng
-@Lĩnh vực: cơ khí & công trình
--sư phóng đại
+-bộ nhớ cache
+@Lĩnh vực: toán & tin
+-bộ nhớ sẵn
+-cạc nhớ
+-vùng nhớ đệm
+@Lĩnh vực: xây dựng
+-kho khuất
+@Lĩnh vực: điện tử & viễn thông
+-tiền bộ nhớ
+

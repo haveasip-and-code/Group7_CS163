@@ -1,3 +1,4 @@
-paediatric	@paediatric
-* tính từ
-- có liên quan đến khoa nhi
+delisting
+	
+-xóa tên trong danh sách
+

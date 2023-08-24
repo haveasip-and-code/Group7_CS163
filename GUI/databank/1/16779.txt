@@ -1,60 +1,12 @@
-dress	
-@dress /dres/
-*  danh từ
-- quần áo=in full dress
-+ ăn mặc lễ phục=in evening dress
-+ mặc quần áo dự dạ hội (đàn bà); mặc lễ phục (đàn ông)=a (the) dress
-+ áo dài phụ nữ
-- vỏ ngoài, cái bọc ngoài, vẻ ngoài
-*  ngoại động từ
-- mặc (quần áo...), ăn mặc=to be dressed in black
-+ mặc đồ đen=to be well dressed
-+ ăn mặc sang trọng
-- băng bó, đắp thuốc (người bị thương, vết thương)
-- (quân sự) sửa lại hàng ngũ cho thẳng hàng, treo cờ xí (tàu thuỷ); bày biện (mặt hàng)
-- sắm quần áo (cho một vở kịch)
-- đẽo gọt (gỗ, đá), mài giũa (đồ thép...), mài nhẵn (mặt đá...)
-- hồ (vải); thuộc (da)
-- chải, vấn (tóc, đầu); chải (lông ngựa)
-- sửa (vườn) tỉa, xén (cây)
-- sửa soạn, nêm đồ gia vị, nấu (thức ăn)
-- xới, làm (đất); bón phân (ruộng)
-*  nội động từ
-- mặc quần áo, ăn mặc=to dress well
-+ ăn mặc sang trọng
-- mặc lễ phục (dự dạ hội...)=to dress for dinner
-+ mặc lễ phục để ăn cơm tối
-- (quân sự) xếp thẳng hàng=right dress!
-+ bên phải thẳng hàng!=dress up!
-+ tiến lên thẳng hàng!=dress back!
-+ lùi thẳng hàng!!to dress down
-- (thông tục) chỉnh, mắng mỏ; đánh đập
-- đẽo, gọt, mài giũa!to dress out
-- diện ngất, "lên khung"!to dress up
-- diện bảnh; ăn mặc chải chuốt tề chỉnh
-- mặc quần áo hội nhảy giả trang!to be dressed up to the nines (to the knocker)
-- "lên khung" , diện ngất
-@Chuyên ngành kinh tế
--cái bọc ngoài
--sự ướp lạnh (thịt, cá)
--vỏ ngoài
+microfarad
+	
+* danh từ
+- Micrôfara
 @Chuyên ngành kỹ thuật
--bao phủ
--bạt
--đẽo
--đẽo đá
--điều chỉnh đúng
--gia công tinh
--hoàn thiện
--làm giàu
--làm giàu quặng
--nắn sửa
--mài bóng
--mài giũa
--mài nhẵn
--sửa
--tuyển quặng
-@Lĩnh vực: cơ khí & công trình
--chỉnh đúng
-@Lĩnh vực: xây dựng
--mài bóng (đá)
+-microfara
+@Lĩnh vực: điện lạnh
+-mF
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-micrô fara
+

@@ -1,13 +1,5 @@
-accessories	
-@accessories
-- (Tech) phụ tùng, bộ phụ, phụ kiện [TQ]
-- (tin học) phụ trợ
-@Chuyên ngành kỹ thuật
--đồ giá
--đồ phụ tùng
--phụ kiện
--phụ tùng
--thiết bị
--thiết bị phụ trợ
-@Lĩnh vực: điện
--thiết bị phụ tùng
+doyen
+	
+*  danh từ
+- vị lão thành nhất, vị cao tuổi nhất (trong một tổ chức); trưởng đoàn (đoàn ngoại giao)
+

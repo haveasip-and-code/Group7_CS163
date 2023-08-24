@@ -1,27 +1,18 @@
-excise	
-@excise /ek'saiz/
+tonnage
+	
 *  danh từ
-- thuế hàng hoá, thuế môn bài
-- sở thu thuế hàng hoá, sở thu thuế môn bài
-*  ngoại động từ
-- đánh thuế hàng hoá, đánh thuế môn bài
-- bắt trả quá mức
-*  ngoại động từ
-- cắt, cắt xén (đoạn sách...)
-- (sinh vật học); (y học) cắt bớt, cắt lọc
+- trọng tải (của tàu thuyền)
+- thuế trọng tải
+- tiền cước, tiền chuyên chở (mỗi tấn hàng)
 @Chuyên ngành kinh tế
--sở thuế (Anh)
--thuế hàng hóa
--thuế hàng hóa nội địa
--thuế môn bài
--thuế tiêu thụ (ở Anh, Bỉ)
+-trọng tải
+-trọng tải (của tàu bè)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cắt một mô
-@Lĩnh vực: xây dựng
--thuế hàng (hóa)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cắt một mô
-@Lĩnh vực: xây dựng
--thuế hàng (hóa)
+-sức chuyên chở
+@Lĩnh vực: hóa học & vật liệu
+-cước vận chuyển
+-thuế vận chuyển (tính theo tấn)
+-trọng tải (tàu, thuyền)
+@Lĩnh vực: điện lạnh
+-sức trở
+

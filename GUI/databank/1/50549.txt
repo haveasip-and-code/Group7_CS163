@@ -1,7 +1,18 @@
-shrub	@shrub /ʃrʌb/
-*  danh từ
-- cây bụi
-*  danh từ
-- rượu bổ (pha bằng) nước quả
-@Chuyên ngành kinh tế
--nước uống có rượu và nước quả
+myself
+	
+*  đại từ phản thân
+- tự tôi
+=I wash myself
++ tự tôi tắm rửa lấy
+- chính tôi
+=I myself said so
++ chính tôi nói như thế
+!I am not myself
+- tôi không được khoẻ; tôi thấy trong người khó chịu
+!by myself
+- một mình tôi, mình tôi
+=I can do it by myself
++ tôi có thể làm được cái đó một mình
+@Chuyên ngành kỹ thuật
+-bản thân tôi
+

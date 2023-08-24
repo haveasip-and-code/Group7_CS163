@@ -1,6 +1,17 @@
-algorithmic	
-@algorithmic
-- xem algorithm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--thuật toán algorit
+whether
+	
+*  liên từ
+- có... không, có... chăng, không biết có... không
+=he asked whether it was true
++ ông ta hỏi không biết điều đó có đúng không
+!whether...or
+- dù... hay, hoặc... hoặc
+=whether he likes it or not
++ dù nó thích cái đó hay không
+=whether today or tomorrow
++ hoặc hôm nay hoặc ngày mai
+!whether or no
+- trong bất cứ trường hợp nào, bất cứ thế nào
+*  đại từ
+- (từ cổ,nghĩa cổ) một trong hai (vật gì)
+

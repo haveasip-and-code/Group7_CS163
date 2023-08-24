@@ -1,6 +1,7 @@
-labeler	@Chuyên ngành kỹ thuật
--người dãn nhãn
--máy dán nhãn
+paintwork
+	
+* danh từ
+- lớp sơn
 @Chuyên ngành kỹ thuật
--người dãn nhãn
--máy dán nhãn
+-sơn
+

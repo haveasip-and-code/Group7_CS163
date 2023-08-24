@@ -1,29 +1,17 @@
-cartridge	
-@cartridge /'kɑ:tridʤ/
+lending
+	
 *  danh từ
-- đạn, vỏ đạn=blank cartridge
-+ đạn không nạp chì
-- đàu máy quay đĩa
-- cuộn phim chụp ảnh
+- sự cho vay, sự cho mượn
 @Chuyên ngành kinh tế
--thùng chứa bột nhào của máy mì ống
+-cho thuê cho mượn
+-vật cho mượn
+-việc cho vay
 @Chuyên ngành kỹ thuật
--bạc
--đạn
--đồ kẹp
--hộp
--hộp băng từ
--lõi
--ngăn đựng phim
--mâm cặp
--ống
--ống lót
--vỏ
-@Lĩnh vực: toán & tin
--hộp chứa (băng, đĩa)
-@Lĩnh vực: điện tử & viễn thông
--hộp đầu từ
-@Lĩnh vực: cơ khí & công trình
--vỏ (đạn)
-@Lĩnh vực: xây dựng
--vỏ đựng
+@Lĩnh vực: giao thông & vận tải
+-cho mượn
+-cho vay
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-cho mượn
+-cho vay
+

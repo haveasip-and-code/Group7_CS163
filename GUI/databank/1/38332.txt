@@ -1,6 +1,79 @@
-osteocyte	@osteocyte
-* danh từ
-- tế bào xương
+finish
+	
+*  danh từ
+- sự kết thúc, sự kết liễu; phần cuối, phần kết thúc, đoạn kết thúc
+=to fight to a finish
++ đánh đến cùng
+=to be in at the finish
++ (săn) có mặt lúc hạ con cáo; có mặt lúc kết thúc
+=the finish of the race
++ đoạn cuối của cuộc đua; đích của cuộc đua
+- sự sang sửa, cuối cùng, sự hoàn thiện
+- tích chất kỹ, tính chất trau chuốt
+*  ngoại động từ
+- hoàn thành, kết thúc, làm xong
+=to finish one's work
++ làm xong công việc
+- dùng hết, ăn (uống) hết, ăn (uống) sạch
+- sang sửa lần cuối cùng
+- hoàn chỉnh sự giáo dục của (ai)
+- (thông tục) giết chết, cho đi đời
+- (thông tục) làm mệt nhoài
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) làm cho không còn giá trị gì nữa
+!to finish off
+- hoàn thành, kết thúc, làm xong
+- giết chết, kết liễu
+!to finish up
+- hoàn thành, kết thúc, làm xong ((như) to finish off)
+- dùng hết, ăn hết sạch; ăn nốt cho hết
+!to finish with
+- hoàn thành, kết thúc, làm xong ((như) to finish off)
+- chấm dứt mọi quan hệ với; thờ ơ với
+@Chuyên ngành kinh tế
+-sự hoàn thiện
+-sự kết thúc
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cốt bào, tế bào xương
+-gia công tinh
+-hoàn tất
+-hoàn thành
+-hoàn thiện
+-kết thúc
+-làm phẳng
+-lớp hoàn thiện
+-mài nhẵn
+-mặt phẳng ngoài
+-sự hoàn thành
+-sự hoàn thiện
+-sự kết thúc
+-sự tinh sửa
+-sự trang sửa
+-sự tu sửa
+@Lĩnh vực: ô tô
+-bề mặt sơn
+@Lĩnh vực: dệt may
+-sự hoàn tất
+@Lĩnh vực: hóa học & vật liệu
+-vật liệu phủ
+@Chuyên ngành kỹ thuật
+-gia công tinh
+-hoàn tất
+-hoàn thành
+-hoàn thiện
+-kết thúc
+-làm phẳng
+-lớp hoàn thiện
+-mài nhẵn
+-mặt phẳng ngoài
+-sự hoàn thành
+-sự hoàn thiện
+-sự kết thúc
+-sự tinh sửa
+-sự trang sửa
+-sự tu sửa
+@Lĩnh vực: ô tô
+-bề mặt sơn
+@Lĩnh vực: dệt may
+-sự hoàn tất
+@Lĩnh vực: hóa học & vật liệu
+-vật liệu phủ
+

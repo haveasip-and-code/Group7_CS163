@@ -1,4 +1,67 @@
-enslavement	
-@enslavement /in'sleivmənt/
+segment
+	
 *  danh từ
-- sự nô dịch hoá, tình trạng bị nô dịch
+- đoạn, khúc, đốt, miếng
+=a segment of and orange
++ một miếng cam
+- (toán học) đoạn, phân
+=a segment of a straight line
++ đoạn đường thẳng (giữa hai điểm)
+=a segment of a circle
++ hình viên phân
+=a segment of a sphere
++ hình cầu phân
+*  động từ
+- cắt từng đoạn, cắt ra từng khúc, cắt ra từng miếng
+- (số nhiều) phân đoạn, phân đốt
+@Chuyên ngành kinh tế
+-chặng
+-chia cấp (thị trường)
+-chia cắt (thị trường...)
+-chia khúc
+-chia thành nhiều phần
+-địa hạt (hoạt động) chia thành nhiều phần
+-địa hạt (hoạt động...)
+-đoạn chia cắt (thị trường)
+-đoạn chia cắt (thị trường...)
+-khúc
+-lĩnh vực
+-ngành
+-phần
+-phân đoạn
+-phân khúc
+-phân nhánh
+@Chuyên ngành kỹ thuật
+-bộ đầu ngựa
+-bộ phận
+-chỏm
+-đoạn
+-đốt
+-hình phân
+-hình quạt
+-khúc
+-mảnh
+-phân
+-phần
+-phân đoạn
+-vòng găng
+-vùng
+-xéc măng
+@Lĩnh vực: cơ khí & công trình
+-chạc bánh răng lớn
+-mảnh đồng
+@Lĩnh vực: toán & tin
+-chia thành đoạn
+-phân thành đoạn
+@Lĩnh vực: xây dựng
+-đoạn (của kết cấu)
+-đoạn dầm
+-khúc dầm
+-khúc mảnh
+-vành lót
+@Lĩnh vực: y học
+-đoạn, đốt
+@Lĩnh vực: điện
+-phiến đồng (trong vành góp)
+-thanh (góp điện)
+

@@ -1,9 +1,4 @@
-sunspot	@sunspot
-* danh từ
-- vệt đen ở mặt trời
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--nhật ban trống quấn (bảng pin mặt trời)
--vệt đen mặt trời
-@Lĩnh vực: điện lạnh
--vết (đen) (của) mặt trời
+placably
+	
+- xem placable
+

@@ -1,3 +1,33 @@
-peevishness	@peevishness /'pi:viʃnis/
+item
+	
 *  danh từ
-- tính cáu kỉnh tính hay cáu, tính hay càu nhàu, tính hay dằn dỗi
+- khoản (ghi số...), món (ghi trong đơn hàng...); tiết mục
+- tin tức; (từ lóng) món tin (có thể đăng báo...)
+@Chuyên ngành kinh tế
+-điều
+-điều khoản
+-hạng mục
+-khoản
+-khoản mục
+-mặt hàng
+-mẩu tin
+-mẫu tin (trên báo)
+-món hàng
+-mục
+-tin tức
+-vật phẩm
+@Chuyên ngành kỹ thuật
+-bài báo
+-điểm
+-hạng mục
+-khoản
+-mặt hàng
+-món
+-mục dữ liệu
+-phần tử
+-phần tử dữ liệu
+-trường dữ liệu
+-vật phẩm
+@Lĩnh vực: toán & tin
+-mục tin
+

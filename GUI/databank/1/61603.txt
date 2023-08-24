@@ -1,8 +1,5 @@
-vert	@vert /və:t/
-*  danh từ
-- (sử học),  (pháp lý) cây xanh trong rừng
-- quyền đốn cây xanh trong rừng
-*  danh từ
-- (thông tục) người bỏ đạo này theo đạo khác
-*  nội động từ
-- (thông tục) bỏ đạo này theo đạo khác
+nonspherical
+	
+@Lĩnh vực: điện lạnh
+-không (hình) cầu
+

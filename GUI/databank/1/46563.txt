@@ -1,15 +1,5 @@
-relate	@relate /ri'leit/
-*  động từ
-- kể lại, thuật lại
-=to relate a story+ kể lại một câu chuyện
-- liên hệ, liên kết
-=we cannot relate these phenomena with anything we know+ chúng tôi không thể liên hệ những hiện tượng này với những cái chúng tôi biết
-- có quan hệ, có liên quan
-=this letter relates to business+ lá thư này có liên quan đến công việc
-- (dạng bị động) có bà con thân thuộc với, có quan hệ họ hàng với
-=he is related to me+ anh ta là bà con thân thuộc với tôi
-=they are related by blood+ họ có họ hàng với nhau
-@Chuyên ngành kỹ thuật
--liên hệ
--liên kết
--liên quan
+eardrop
+	
+* danh từ
+- thuốc nhỏ tai
+

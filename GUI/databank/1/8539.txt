@@ -1,8 +1,5 @@
-centrifugation	
-@centrifugation
-- xem centrifuge
-@Chuyên ngành kinh tế
--sự ly tâm
-@Chuyên ngành kỹ thuật
--sự ly tâm
--sự quay ly tâm
+glomeruli
+	
+@Lĩnh vực: y học
+-số nhiều của glomerulus
+

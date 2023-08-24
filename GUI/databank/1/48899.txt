@@ -1,27 +1,5 @@
-scaling	@scaling
-* danh từ
-- sự xác định tỷ xích
-- sự lập thang
-- sự đóng cặn
-- sự đánh cặn
-- sự tróc vảy
-- sự đếm gộp
-@Chuyên ngành kỹ thuật
--sự bóc vỏ
--sự đếm gộp
--sự định tỷ lệ
--sự lập thang đo
-@Lĩnh vực: toán & tin
--chia tỉ lệ
--chia tỷ lệ
--chọn thang tỉ lệ
--chọn thang tỷ lệ
--phóng to thu nhỏ
-@Lĩnh vực: xây dựng
--sự bóc thành lớp
--sự bong theo lớp
--sự tróc thành từng mảnh (bê tông)
--sự tróc vảy (sơn)
-@Lĩnh vực: y học
--sự đếm gộp lại
--sự lấy cao răng
+roadworthy
+	
+* tính từ
+- thích hợp chạy trên một đường công cộng (về một chiếc xe)
+

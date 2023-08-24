@@ -1,3 +1,33 @@
-iatric	
+damping
+	
+*  danh từ
+- sự làm ẩm, sự thấm ướt
+- sự giảm âm, sự giảm xóc, sự chống rung, sự tắt dần
+=vibration damping
++ sự tắt dần của dao động
+- (rađiô) sự suy giảm, sự nhụt, sự tắt dần
 @Chuyên ngành kỹ thuật
--y học
+-bộ phận giảm sóc
+-giảm chấn
+-giảm rung
+-sự cản
+-sự cản dịu
+-sự chống rung
+-sự giảm rung
+-sự hãm
+-sự làm ẩm
+-sự tắt dần
+@Lĩnh vực: điện tử & viễn thông
+-sự (suy) giảm
+@Lĩnh vực: cơ khí & công trình
+-sự giảm xóc
+@Lĩnh vực: điện lạnh
+-sự làm nhụt
+@Lĩnh vực: điện
+-sự nhụt
+@Lĩnh vực: toán & tin
+-sự suy giảm
+-sự yếu đi
+@Lĩnh vực: y học
+-sự tắt dần biên độ dao động
+

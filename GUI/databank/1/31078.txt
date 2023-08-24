@@ -1,13 +1,10 @@
-kneader	@kneader
-- xem knead
-@Chuyên ngành kinh tế
--máy nhào trộn
--máy trộn
-@Chuyên ngành kỹ thuật
--máy nhào trộn
-@Lĩnh vực: xây dựng
--máy nhào (đất)
-@Chuyên ngành kỹ thuật
--máy nhào trộn
-@Lĩnh vực: xây dựng
--máy nhào (đất)
+homebound
+	
+* tính từ
+- về nhà
+= homebound travellers
++những người khách du lịch trở về nhà
+- chỉ ở trong nhà
+= homebound invalids
++những người tàn tật phải ở trong nhà
+

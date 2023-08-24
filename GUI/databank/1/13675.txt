@@ -1,7 +1,33 @@
-debacle	
-@debacle
-* danh từ
-- việc băng tan trên sông
-- sự thất bại, sụp đổ, tan rã hoàn toàn (chính phủ, quân đội, công việc)
+retainer
+	
+*  danh từ
+- sự giữ lại làm của riêng; sự được giữ lại làm của riêng
+- tiền trả trước cho luật sư
+- người hầu cận, người tuỳ tùng
+=old retainer
++(đùa cợt) lão bộc
+- vật giữ; người cầm giữ
+=a retainer of heat
++ vật giữ nhiệt
+- tình trạng được giữ lại (để làm một công tác gì)
+- (kỹ thuật) vòng kẹp; cái hãm, khoá dừng
+@Chuyên ngành kinh tế
+-khuôn
+-tại (nuôi cá)
+-tiền (thuê) ứng trước
+-tiền đặt cọc
+-tiền giữ chân
+-tiền trả trước
+-vỏ áo
 @Chuyên ngành kỹ thuật
--dòng nước lũ
+-bộ phận cản
+-cái chân
+-cái chặn
+-cái hãm
+-chốt định vị
+-vật giữ
+-vòng cách (ổ lăn)
+-vòng lò xo
+@Lĩnh vực: cơ khí & công trình
+-cái kẹp lò xo
+

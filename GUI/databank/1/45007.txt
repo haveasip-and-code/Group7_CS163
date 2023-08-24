@@ -1,18 +1,5 @@
-quadrilateral	@quadrilateral /,kwɔdri'lætərəl/
-*  tính từ
-- có bốn cạnh
-- bốn bên
-@Chuyên ngành kỹ thuật
--chia bốn
--hình bốn cạnh
--hình bốn góc
--hình tứ giác
--tứ giác
-@Lĩnh vực: toán & tin
--bốn cạnh
--bốn phía
-@Lĩnh vực: xây dựng
--hình 4 cạnh
--thuộc hình 4 cạnh
-@Lĩnh vực: điện lạnh
--tứ diện
+calycle
+	
+* danh từ
+- (thực vật) đài phụ; áo
+

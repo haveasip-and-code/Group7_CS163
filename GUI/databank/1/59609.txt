@@ -1,4 +1,32 @@
-unforthcoming	@unforthcoming
-* tính từ
-- không có sẵn, không sẵn để dùng
-- dè dặt; kín đáo; ít nói
+steer
+	
+*  ngoại động từ
+- lái (tàu thuỷ, ô tô)
+- (thông tục) hướng (bước...) về
+=we steered our course for the railway station
++ chúng tôi hướng bước về phía nhà ga
+*  nội động từ
+- lái ô tô, lái tàu thuỷ...
+- bị lái, lái được
+=this car steers easily
++ ô tô này dễ lái
+- hướng theo một con đường, hướng bước về
+=to steer for a place
++ đi về phía nơi nào
+!to steer clear of
+- tránh, lánh xa
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời gợi ý; lời mách nước (làm việc gì)
+*  danh từ
+- bò non thiến
+- bò đực non; trâu đực non
+@Chuyên ngành kinh tế
+-bê thiến
+-nghé thiến
+@Chuyên ngành kỹ thuật
+-bay theo hướng
+-đi theo hướng
+-điều khiển
+-lái
+-lái theo hướng
+

@@ -1,4 +1,8 @@
-representer	@representer
-* danh từ
-- người đại biểu
-- người kiến nghị, người đề nghị
+cabal
+	
+*  danh từ
+- âm mưu
+- bè đảng, phe đảng (chính trị)
+*  nội động từ
+- âm mưu, mưu đồ
+

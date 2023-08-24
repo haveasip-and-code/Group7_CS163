@@ -1,18 +1,6 @@
-tent	@tent /tent/
-*  danh từ
-- lều, rạp, tăng
-=to pitch tents+ cắm lều, cắm trại
-=to lift (strike) tents+ dỡ lều, nhổ trại
-*  ngoại động từ
-- che lều, làm rạp cho
-*  nội động từ
-- cắm lều, cắm trại, làm rạp, ở lều
-*  danh từ
-- (y học) nút gạc
-*  ngoại động từ
-- (y học) đặt nút gạc, nhồi gạc
-*  danh từ
-- rượu vang đỏ Tây ban nha
-@Chuyên ngành kỹ thuật
--lều
--vỏ bảo vệ tháo rời
+intoxicated
+	
+*  tính từ
+- say
+- say sưa ((nghĩa bóng))
+

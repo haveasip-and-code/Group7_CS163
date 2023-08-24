@@ -1,26 +1,8 @@
-commutation	
-@commutation /,kɔmju:'teiʃn/
-*  danh từ
-- sự thay thế, sự thay đổi cho nhau, sự giao hoán
-- tiền thế (để thế vào hiện vật...)
-- (pháp lý) sự giảm (hình phạt)
-- (điện học) sự đảo mạch=sparkless commutation
-+ sự đảo mạch không tia điện
-@Chuyên ngành kinh tế
--giảm bù
--sự đánh đổi
--sự hoán giảm
-@Chuyên ngành kỹ thuật
--giao hoán
--sự chỉnh lưu
--sự chuyển mạch
--sự đổi chiều
--sự giao hoán
-@Lĩnh vực: điện
--hiện tượng chuyển mạch
-@Lĩnh vực: xây dựng
--sự đảo lưu
-@Lĩnh vực: toán & tin
--sự đổi
-@Lĩnh vực: điện lạnh
--sự đổi nối
+jaded
+	
+*  tính từ
+- mệt mỏi, mệt rã rời, kiệt sức; phải làm việc quá sức
+- chán ứ, chán ngấy
+=a jaded appetite
++ ăn chán ứ không thấy ngon
+

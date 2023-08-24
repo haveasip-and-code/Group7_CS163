@@ -1,3 +1,18 @@
-prechecking	@Chuyên ngành kỹ thuật
+fiche
+	
+- (Tech) tấm thẻ
+@Chuyên ngành kỹ thuật
+-phiếu
+-thẻ
 @Lĩnh vực: toán & tin
--sự kiểm tra trước
+-thẻ phim
+-vi thẻ
+-vi thẻ phim
+@Chuyên ngành kỹ thuật
+-phiếu
+-thẻ
+@Lĩnh vực: toán & tin
+-thẻ phim
+-vi thẻ
+-vi thẻ phim
+

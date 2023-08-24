@@ -1,11 +1,5 @@
-cubiform	
-@cubiform /'kju:bifɔ:m/
-*  tính từ
-- có hình khối, có hình lập phương
-@Chuyên ngành kỹ thuật
--hình khối
--lập phương
-@Lĩnh vực: xây dựng
--có hình lập phương
-@Lĩnh vực: điện lạnh
--hình lập phương
+subdural
+	
+@Lĩnh vực: y học
+-dưới màng cứng
+

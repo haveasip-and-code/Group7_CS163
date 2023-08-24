@@ -1,4 +1,17 @@
-internationalize	
-@internationalize /,intə'næʃnəlaiz/ (internationalise) /,intə'næʃnəlaiz/
-*  ngoại động từ
-- quốc tế hoá
+numeral
+	
+*  tính từ
+- (thuộc) số
+*  danh từ
+- số, chữ số
+=Arabic numerals
++ chữ số A
+-rập
+=Roman numerals
++ chữ số La mã
+- (ngôn ngữ học) số t
+@Chuyên ngành kỹ thuật
+-số
+@Lĩnh vực: toán & tin
+-số, chữ số
+

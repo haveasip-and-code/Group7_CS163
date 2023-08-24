@@ -1,3 +1,13 @@
-miniaturist	@miniaturist /'minjətjuərist/
+diary
+	
 *  danh từ
-- nhà tiểu hoạ
+- sổ nhật ký
+- lịch ghi nhớ
+@Chuyên ngành kinh tế
+-lịch ghi nhớ
+-sổ nhật biên
+-sổ nhật ký
+@Chuyên ngành kỹ thuật
+-nhật kí
+-nhật ký
+

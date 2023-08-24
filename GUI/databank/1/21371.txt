@@ -1,11 +1,9 @@
-flay	
-@flay /flei/
-*  ngoại động từ
-- lột da
-- róc, tước, bóc (vỏ...)
-- phê bình nghiêm khắc; mẳng mỏ thậm tệ
-@Chuyên ngành kinh tế
--bóc vỏ
--cạo vảy
--làm lông
--lột da
+odorless
+	
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ) (như) odourless
+@Chuyên ngành kỹ thuật
+-không mùi
+@Lĩnh vực: hóa học & vật liệu
+-không mùi (vị)
+

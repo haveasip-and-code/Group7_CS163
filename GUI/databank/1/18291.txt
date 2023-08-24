@@ -1,11 +1,9 @@
-ends	
-@Chuyên ngành kinh tế
--các mục đích
+interpretative
+	
+*  tính từ
+- để giải thích
+- được dẫn giải ra
+- (thuộc) nghệ thuật trình diễn, (thuộc) nghệ thuật đóng kịch
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--điểm thừa
--tấm ván ngắn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--điểm thừa
--tấm ván ngắn
+-giải thích
+

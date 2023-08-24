@@ -1,21 +1,4 @@
-concatenation	
-@concatenation /kɔn,kæti'neiʃn/
-*  danh từ
-- sự móc vào nhau, sự nối vào nhau
-- (nghĩa bóng) sự trùng hợp, sự trùng khớp=concatenation of circumstances
-+ cơ hội trùng khớp
-- (kỹ thuật) dãy ghép, xích chuỗi
-@Chuyên ngành kỹ thuật
--ghép
--nối
--sự ghép
--sự ghép nối
--sự móc nối
--sự nối
--sự nối kết
-@Lĩnh vực: toán & tin
--ghép, nối (thông tin)
--phép ghép
--sự
-@Lĩnh vực: điện
--sự ghép chuỗi
+interdictor
+	
+- xem interdict
+

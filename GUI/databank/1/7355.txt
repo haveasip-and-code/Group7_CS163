@@ -1,9 +1,15 @@
-byte	
-@byte
-- (Tech) bai (8 bit)
+doughnut
+	
+*  danh từ
+- bánh rán
+!it is dillars to doughnuts
+- (từ Mỹ,nghĩa Mỹ) chắc chắn, chắc như đinh đóng cột, không còn nghi ngờ gì nữa
+@Chuyên ngành kinh tế
+-bánh rán
 @Chuyên ngành kỹ thuật
--bai
+-vòng đệm
+@Lĩnh vực: giao thông & vận tải
+-căn đệm ray
 @Lĩnh vực: toán & tin
--byte
--nhóm 8 bit
--nhóm bít
+-vành khăn
+

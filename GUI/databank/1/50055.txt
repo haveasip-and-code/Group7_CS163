@@ -1,11 +1,7 @@
-setup	@setup
-- cơ cấu của một tổ chức
-- mưu mô sắp đặt để lừa người
-- cài đặt, thiết lập
-@Chuyên ngành kinh tế
--sự chu tất
--sự cung liệu đầy đủ
-@Chuyên ngành kỹ thuật
--sự cài đặt
-@Lĩnh vực: toán & tin
--thiết lập, cài đặt
+lyonnaise
+	
+* tính từ
+- nấu với củ hành
+= lyonnaise potatoes
++khoai tây nấu với củ hành
+

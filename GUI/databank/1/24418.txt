@@ -1,8 +1,14 @@
-grove	
-@grove /grouv/
-*  danh từ
-- lùm cây, khu rừng nhỏ
+aft
+	
+*  tính từ & phó từ
+- ở cuối tàu, ở đuôi tàu
+=for and aft
++ từ đầu đến đuôi tàu, từ đằng mũi đến đằng lái tàu
+@Chuyên ngành kinh tế
+-ở mé cuối tàu
 @Chuyên ngành kỹ thuật
--lùm cây
-@Lĩnh vực: cơ khí & công trình
--khu rừng nhỏ
+-đuôi
+-ở cuối (tàu)
+-ở đuôi
+-phía đuôi
+

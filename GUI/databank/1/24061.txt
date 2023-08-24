@@ -1,6 +1,58 @@
-grandsire	
-@grandsire
-* danh từ
-- (từ cổ, nghĩa cổ) ông; tổ phụ
-- tổ tiên; tổ khảo
-- cụ già
+extend
+	
+*  ngoại động từ
+- duỗi thẳng (tay, chân...); đưa ra, giơ ra
+=to extend the arm
++ duỗi cánh tay
+=to extend the hand
++ đưa tay ra, giơ tay ra
+- kéo dài (thời hạn...), gia hạn, mở rộng
+=to extend the boundaries of...
++ mở rộng đường ranh giới của...
+=to extend one's sphere of influence
++ mở rộng phạm vi ảnh hưởng
+=to extend the meaning ofa word
++ mở rộng nghĩa của một từ
+- (quân sự) dàn rộng ra (quân đội)
+- (thể dục,thể thao),  (từ lóng) làm việc dốc hết
+- dành cho (sự đón tiếp...); gửi tới (lời chúc...)
+=to extend hepl
++ dành cho sự giúp đỡ
+=to extend the best wishes to...
++ gửi những lời chúc tốt đẹp nhất tới (ai...)
+- (pháp lý) đánh giá (tài sản) (để tịch thu); tịch thu (tài sản, vì nợ)
+- chép (bản tốc ký...) ra chữ thường
+*  nội động từ
+- chạy dài, kéo dài (đến tận nơi nào...); mở rộng
+=their power is extending more and more every day
++ quyền lực của họ càng ngày càng mở rộng
+- (quân sự) dàn rộng ra (quân đội)
+@Chuyên ngành kinh tế
+-gia hạn
+-kéo dài
+-kéo dài (thời gian)
+-kéo dài (thời hạn)
+-khuếch trương
+-khuếch trương (nghiệp vụ)
+-mở rộng
+-sử dụng
+-triển hạn
+@Chuyên ngành kỹ thuật
+-giãn
+-kéo dài
+-nâng cấp
+-nối dài
+-mở rộng
+-phát triển
+@Lĩnh vực: toán & tin
+-khuếch
+@Chuyên ngành kỹ thuật
+-giãn
+-kéo dài
+-nâng cấp
+-nối dài
+-mở rộng
+-phát triển
+@Lĩnh vực: toán & tin
+-khuếch
+

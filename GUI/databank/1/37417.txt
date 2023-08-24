@@ -1,16 +1,4 @@
-observer	@observer /əb'zə:və/
-*  danh từ
-- người theo dõi, người quan sát
-- người tuân theo, người tôn trọng
-=an observer of the law+ người dự thính, quan sát viên (hội nghị)
-- (hàng không) người theo dõi phát hiện mục tiêu (trên máy bay ném bom)
-- (quân sự) người theo dõi phát hiện máy bay địch (ở một đơn vị phòng không)
-@Chuyên ngành kỹ thuật
--người quan sát
--người quan trắc
-@Lĩnh vực: đo lường & điều khiển
--người ngắm đo
--nhân viên trắc địa
--máy quan sát đánh giá tính trạng
-@Lĩnh vực: hóa học & vật liệu
--quan trắc viên
+cybernetic
+	
+- (Tech) thuộc điều khiển học, xaibơnêtic
+

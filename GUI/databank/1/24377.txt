@@ -1,5 +1,7 @@
-grossness	
-@grossness /'grousnis/
-*  danh từ
-- tính thô bạo, tính trắng trợn; tính hiển nhiên (bất công, sai lầm...)
-- tính thô tục, tính tục tĩu (lời nói...), tính thô bỉ, tính thô thiển
+subnetwork
+	
+@Lĩnh vực: điện tử & viễn thông
+-mạng con
+@Lĩnh vực: toán & tin
+-mạng con, mạng phụ
+

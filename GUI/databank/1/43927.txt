@@ -1,10 +1,10 @@
-prohibition	@prohibition /prohibition/
-*  danh từ
-- sự cấm, sự ngăn cấm, sự cấm chỉ
-- (từ Mỹ,nghĩa Mỹ) sự cấm rượu mạnh
-@Chuyên ngành kinh tế
--cấm chỉ
--lệnh cấm
--luật cấm nấu và bán rượu
--sự cấm
--sự cấm rượu
+distributing
+	
+* tính từ
+- để phân phối
+@Chuyên ngành kỹ thuật
+-phân bố
+-phân phối
+-sự phân phát
+-sự tán loạn
+

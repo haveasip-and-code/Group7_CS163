@@ -1,27 +1,24 @@
-flavour	
-@flavour /'fleivə/
-*  danh từ
-+ (flavor) /'fleivə/
-- vị ngon, mùi thơm; mùi vị=sweets with different flavour
-+ kẹo với nhiều mùi vị khác nhau
-- (nghĩa bóng) hương vị phảng phất=a newspapers story with a flavour of romance
-+ chuyện viết trên báo có phảng phất hương vị tiểu thuyết
-*  ngoại động từ
-- cho gia vị, làm tăng thêm mùi vị=to flavour soup with onions
-+ cho hành để tăng thêm mùi vị của súp
-- (nghĩa bóng) tăng thêm hứng thú của, thêm thắt vào, thêm mắm thêm muối vào
+bald
+	
+*  tính từ
+- hói (đầu)
+- trọc trụi
+=bald hill
++ đồi trọc
+=bald tree
++ cây trụi lá
+=bald bird
++ chim trụi lông
+- không che đậy; lộ liễu; phô bày ra rành rành (tật xấu khuyết điểm)
+- nghèo nàn, khô khan, tẻ (văn chương)
+- có lang trắng ở mặt (ngựa)
+!as bald as an egg (as a coot, as a billiard ball)
+- đầu trọc lông lốc bình vôi, đầu trọc như cái sọ dừa
 @Chuyên ngành kinh tế
--mùi dễ chịu
--mùi thơm cho gia vị
--thơm
--vị ngon
+-làm sạch vỏ
+-lông
 @Chuyên ngành kỹ thuật
--mùi thơm
--vị ngon
-@Lĩnh vực: thực phẩm
--cho gia vị
-@Chuyên ngành kỹ thuật
--mùi thơm
--vị ngon
-@Lĩnh vực: thực phẩm
--cho gia vị
+@Lĩnh vực: cơ khí & công trình
+-trọc
+-trùng
+

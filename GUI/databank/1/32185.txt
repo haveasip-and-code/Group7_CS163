@@ -1,23 +1,6 @@
-lighting	@lighting /'laitiɳ/
-*  danh từ
-- sự thắp đèn, sự chăng đèn
-- thuật bố trí ánh sáng
-- ánh sáng bố trí ở sân khấu; ánh sảng toả trên tranh
-@Chuyên ngành kỹ thuật
--ánh sáng
--chiếu sáng
--sự chiếu sáng
--sự đốt
-@Lĩnh vực: hóa học & vật liệu
--sự thắp sáng
-@Lĩnh vực: điện
--việc chiếu sáng
-@Chuyên ngành kỹ thuật
--ánh sáng
--chiếu sáng
--sự chiếu sáng
--sự đốt
-@Lĩnh vực: hóa học & vật liệu
--sự thắp sáng
-@Lĩnh vực: điện
--việc chiếu sáng
+inefficiently
+	
+* phó từ
+- kém cỏi, yếu kém
+- vô ích, vô hiệu quả
+

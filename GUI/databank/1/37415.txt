@@ -1,16 +1,5 @@
-observe	@observe /əb'zə:v/
-*  động từ
-- quan sát, nhận xét, theo dõi
-- tiến hành, cử hành, làm (lễ kỷ niệm...)
-=to observe someone's birthday+ làm lễ kỷ niệm ngày sinh của ai
-- tuân theo, chú ý giữ, tôn trọng
-=to observe the laws+ tuân theo pháp luật
-=to observe silence+ giữ yên lặng
-- (+ on) nhận xét
-@Chuyên ngành kỹ thuật
--chú ý
--ngắm
--quan sát
--quan trắc
-@Lĩnh vực: toán & tin
--quan sát, chú ý
+defection
+	
+*  danh từ
+- sự đào ngũ; sự bỏ đi theo địch; sự bỏ đảng; (tôn giáo) sự bỏ đạo, sự bội giáo
+

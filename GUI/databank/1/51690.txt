@@ -1,10 +1,6 @@
-softness	@softness /'sɔftnis/
-*  danh từ
-- tính mềm dẻo
-- tính dịu dàng
-- tính nhu nhược, tính uỷ mị, tính ẻo lả
-- sự khờ khạo
-@Chuyên ngành kỹ thuật
--độ mềm
--tính dẻo
--tính rèn được
+replevin
+	
+-giải trừ sai áp
+-sự giải áp tịch biên
+-trả lại tài sản tịch biên (do tịch biên nhầm)
+

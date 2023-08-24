@@ -1,23 +1,12 @@
-society	@society /sə'saiəti/
-*  danh từ
-- xã hội
-=duties towards society+ những bổn phận đối với xã hội
-- lối sống xã hội
-- tầng lớp thượng lưu; tầng lớp quan sang chức trọng
-=society people+ người ở tầng lớp thượng lưu
-- sự giao du, sự giao thiệp
-=to have no society with someone+ không giao thiệp với người nào
-- sự làm bạn, tình bạn bè
-=to enjoy somebody's society+ thích bè bạn với ai
-- đoàn thể, hội
-@Chuyên ngành kinh tế
--đoàn thể
--hội
--tập đoàn
--xã hội
--xã hội thượng lưu
--xã hội, hội
+irreducible
+	
+*  tính từ
+- không thể giảm bớt, không thể làm thành đơn giản, không thể làm nhỏ hơn
+- không thể làm thay đổi hình dạng được
+- (toán học) tối giản, không rút gọn được
+- (y học) không thể làm trở lại như cũ
 @Chuyên ngành kỹ thuật
--công ty
--hội
--xã hội
+@Lĩnh vực: toán & tin
+-bất khả quy
+-không rút gọn được
+

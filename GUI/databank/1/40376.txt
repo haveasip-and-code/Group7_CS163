@@ -1,13 +1,5 @@
-penetrometer	@penetrometer
-* danh từ
-- thấm kế; xuyên độ kế
-@Chuyên ngành kinh tế
--xuyên độ kế
-@Chuyên ngành kỹ thuật
--độ xuyên kế
--xuyên độ kế/ thấm kế
--xuyên kế
+methylation
+	
 @Lĩnh vực: hóa học & vật liệu
--máy đo độ quánh
-@Lĩnh vực: cơ khí & công trình
--máy đo xuyên
+-metyl hóa
+

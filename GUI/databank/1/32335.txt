@@ -1,17 +1,5 @@
-lintel	@lintel /'lintl/
-*  danh từ
-- (kiến trúc) lanhtô, rầm đỡ (cửa sổ hay cửa ra vào)
-@Chuyên ngành kỹ thuật
--lanhtô
--lanhtô (cửa)
--lanhtô cửa
--lantô (cửa)
-@Lĩnh vực: xây dựng
--dầm lỗ cửa
-@Chuyên ngành kỹ thuật
--lanhtô
--lanhtô (cửa)
--lanhtô cửa
--lantô (cửa)
-@Lĩnh vực: xây dựng
--dầm lỗ cửa
+hobnailed
+	
+*  tính từ
+- có đóng đinh đầu to (đế ủng)
+

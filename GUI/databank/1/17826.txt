@@ -1,9 +1,5 @@
-elutriator	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--máy đãi
--máy gạn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--máy đãi
--máy gạn
+neuroticism
+	
+@Lĩnh vực: y học
+-tình trạng loạn thần kinh
+

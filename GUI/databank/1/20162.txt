@@ -1,16 +1,8 @@
-exude	
-@exude /ig'zju:d/
-*  động từ
-- rỉ, ứa
-@Chuyên ngành kinh tế
--sự rỉ ra
--sự tách ra
--sự tiết ra
+multiuser
+	
+- hệ thống nhiều người dùng
 @Chuyên ngành kỹ thuật
--rỉ
--rò thấm
--tách lỏng
-@Chuyên ngành kỹ thuật
--rỉ
--rò thấm
--tách lỏng
+@Lĩnh vực: toán & tin
+-đa người dùng
+-nhiều người dùng
+

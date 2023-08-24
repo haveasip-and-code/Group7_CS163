@@ -1,10 +1,33 @@
-microfarad	@microfarad
-* danh từ
-- Micrôfara
+fixation
+	
+*  danh từ
+- sự đóng chặt vào, sự làm cho dính lại
+- sự ngưng kết, sự đông lại
+- sự hâm (màu...); sự cố định lại
+- sự ấn định, sự quy định
+- sự ngừng phát triển trí óc
+@Chuyên ngành kinh tế
+-cố định giá
 @Chuyên ngành kỹ thuật
--microfara
+-định vị
+-sự bố trí
+-sự cố định
+-sự định vị
+-sự hãm
+-sự lắp đặt
+@Lĩnh vực: y học
+-cố định
 @Lĩnh vực: điện lạnh
--mF
+-sự hãm (ảnh)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--micrô fara
+-định vị
+-sự bố trí
+-sự cố định
+-sự định vị
+-sự hãm
+-sự lắp đặt
+@Lĩnh vực: y học
+-cố định
+@Lĩnh vực: điện lạnh
+-sự hãm (ảnh)
+

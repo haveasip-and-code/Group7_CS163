@@ -1,9 +1,10 @@
-fumigant	
-@fumigant
-* danh từ
-- thuốc xông; thuốc hun
-@Chuyên ngành kinh tế
--chất hun khói (diệt côn trùng, vi sinh vật)
+imponderability
+	
+*  danh từ
+- (vật lý) tính không trọng lượng
+- tính không thể cân được, tính không thể đo lường được
+- (nghĩa bóng) tính không thể lường được
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất phun khói
+@Lĩnh vực: điện lạnh
+-tính không trọng lượng
+

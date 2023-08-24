@@ -1,9 +1,6 @@
-neighborhood	@neighborhood
-- (Mỹ)(dân) hàng xóm
-- vùng, vùng lân cận
-@Chuyên ngành kỹ thuật
--hàng xóm
--miền lân cận
-@Lĩnh vực: xây dựng
--sự gần kề
--sự lân cận
+instructor
+	
+*  danh từ
+- người dạy, thầy giáo
+- (từ Mỹ,nghĩa Mỹ) trợ giáo (đại học)
+

@@ -1,29 +1,5 @@
-reason	@reason /'ri:zn/
-*  danh từ
-- lý do, lẽ
-=by reason of+ do bởi
-=the reason for my absence+ lý do tôi vắng mặt
-=for the some reason+ cũng vì lẽ ấy
-- lý trí, lý tính
-=only man has reason+ chỉ có con người mới có lý trí
-- lẽ phải, lý, sự vừa phải
-=to listen to reason; to hear reason+ nghe theo lẽ phải
-=to bring a person to reason+ làm cho người nào thấy được lẽ phải
-=there is reason in what you say+ anh nói có lý
-=light of reason+ ánh sáng của lẽ phải
-=without rhyme or reason+ vô lý
-=to do something in reason+ làm gì có mức độ vừa phải
-*  động từ
-- sự suy luận, suy lý, lý luận
-=to reason on (about) at subject+ suy luận về một vấn đề
-- tranh luận, cãi lý, cãi lẽ
-=to reason with someone+ tranh luận với ai, cãi lý với ai
-- dùng lý lẽ để thuyết phục
-=to reason someone into doing something+ dùng lý lẽ để thuyết phục ai làm gì
-- (+ out) suy ra, luận ra, nghĩ ra
-=to reason out the answers to a question+ suy ra câu trả lời của câu hỏi
-- trình bày mạch lạc, trình bày với lý lẽ
-@Chuyên ngành kỹ thuật
--lý do
--lý luận
--nguyên nhân
+flitter
+	
+*  nội động từ
+- bay chuyền; bay qua bay lại
+

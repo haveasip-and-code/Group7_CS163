@@ -1,5 +1,14 @@
-latinize	@latinize /'lætinaiz/ (latinise) /'lætinaiz/
-*  động từ
-- la tinh hoá (chữ viết)
-- chuyển theo phong cách La-tinh (phong tục, tập quán...)
-- dùng từ ngữ đặc La-tinh
+consignee
+	
+*  danh từ
+- người nhận, người nhận hàng gửi để bán
+@Chuyên ngành kinh tế
+-đại lý gởi bán
+-đại lý gửi bán
+-hàng nhận bán
+-người nhận (hàng)
+-người nhận hàng
+-người nhận hàng ký gửi, người nhận hàng gửi bán
+@Chuyên ngành kỹ thuật
+-người nhận hàng
+

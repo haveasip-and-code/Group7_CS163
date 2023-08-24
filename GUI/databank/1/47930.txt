@@ -1,11 +1,14 @@
-rollover	@Chuyên ngành kinh tế
--chuyển hạn
--chuyển khoản
--chuyển tài khoản
--gia hạn
--gia hạn (thanh toán)
--vốn luân hồi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cùng ấn
--nhấn đồng thời (phím)
+frazzle
+	
+*  danh từ (từ Mỹ,nghĩa Mỹ)
+- sự mệt rã rời, sự kiệt quệ
+- mảnh còn lại, mảnh vụn, mảnh tả tơi
+=beaten to a frazzle
++ bị đánh bại không còn mảnh giáp, bị đánh bại tả tơi
+*  ngoại động từ
+- làm cho mệt rã rời, làm kiệt sức
+- làm rách tả tơi
+*  nội động từ
+- mệt rã rời, kiệt sức
+- rách tả tơi
+

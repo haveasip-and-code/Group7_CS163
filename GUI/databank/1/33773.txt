@@ -1,8 +1,6 @@
-marshy	@marshy /'mɑ:ʃi/
-*  tính từ
-- (thuộc) đầm lầy; như đầm lầy; lầy
-@Chuyên ngành kỹ thuật
--bùn lầy
--đầm lầy
--lầy
--lầy lội
+lemmas
+	
+* danh từ
+- <toán> bổ đề
+- cước chú (cho tranh ảnh)
+

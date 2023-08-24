@@ -1,13 +1,122 @@
-laser	@laser
-* danh từ
-- <kỹ> la-de
+hard
+	
+*  tính từ
+- cứng, rắn
+=hard as steel
++ rắn như thép
+- rắn chắc, cứng cáp
+=hard muscles
++ bắp thịt rắn chắc
+- cứng (nước)
+=hard water
++ nước cứng (có hoà tan nhiều muối vô cơ)
+- thô cứng; gay gắt, khó chịu
+=hard feature
++ những nét thô cứng
+=hard to the ear
++ nghe khó chịu
+=hard to the eye
++ nhìn khó chịu
+- hà khắc, khắc nghiệt, nghiêm khắc, không thương xót, không có tính cứng rắn, cứng cỏi; hắc, keo cú, chi li
+=a hard look
++ cái nhìn nghiêm khắc
+=hard discipline
++ kỷ luật khắc nghiệt
+=hard winter
++ mùa đông khắc nghiệt
+=to be hard on (upon) somebody
++ khắc nghiệt với ai
+- nặng, nặng nề
+=a hard blow
++ một đòn nặng nề, một đòn trời giáng
+=hard of hearing
++ nặng tai
+=a hard drinker
++ người nghiện rượu nặng
+- gay go, khó khăn, gian khổ, hắc búa
+=a hard problem
++ vấn đề hắc búa
+=hard lines
++ số không may; sự khổ cực
+=to be hard to convince
++ khó mà thuyết phục
+- không thể chối câi được, không bác bỏ được, rõ rành rành
+=hard facts
++ sự việc rõ rành rành không thể chối câi được
+- cao, đứng giá (thị trường giá cả)
+- (ngôn ngữ học) kêu (âm)
+- bằng đồng, bằng kim loại (tiền)
+=hard cash
++ tiền đồng, tiền kim loại
+- (từ Mỹ,nghĩa Mỹ) có nồng độ rượu cao
+=hard liquors
++ rượu mạnh
+!hard and fast
+- cứng rắn, chặt chẽ (nguyên tắc, luật lệ...)
+!hard as nails
+- (xem) nail
+!a hard nut to crack
+- (xem) nut
+!a hard row to hoe
+- (xem) row
+*  phó từ
+- hết sức cố gắng, tích cực
+=to try hard to succeed
++ cố gắng hết sức để thành công
+- chắc, mạnh, nhiều
+=to hold something hard
++ nắm chắc cái gì
+=to strike hard
++ đánh mạnh
+=to drink hard
++ uống tuý luý, uống rượu như hũ chìm
+=it's raining hard
++ trời mưa to
+- khắc nghiệt, nghiêm khắc; cứng rắn; hắc
+=don't use him too hard
++ đừng khắc nghiệt quá đối với nó
+=to criticize hard
++ phê bình nghiêm khắc
+- gay go, khó khăn, chật vật, gian khổ
+=to die hard
++ chết một cách khó khăn
+=hard won
++ thắng một cách chật vật
+- sát, gần, sát cạnh
+=hard by
++ sát cạnh, gần bên
+=to follow hard after
++ bám sát theo sau
+!to be hard bit
+- (xem) bit
+!to be hard pressed
+- (xem) press
+!to be hard put to bit
+- bị lâm vào hoàn cảnh khó khăn
+!to be hard up
+- cạn túi, cháy túi, hết tiền
+!to be hard up for
+- bí không bới đâu ra, bế tắc không tìm đâu ra (cái gì...)
+!to be hard up against it
+!to have it hard
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lâm vào hoàn cảnh khó khăn, phải va chạm với những khó khăn
+!hard upon
+- gần sát, xấp xỉ
+=it is getting hard upon twelve
++ đã gần 12 giờ rồi
+!it will go hard with him
+- rất là khó khăn bất lợi cho anh ta
+*  danh từ
+- đường dốc xuống bâi, đường dốc xuống bến
+- (từ lóng) khổ sai
+=to get two year hard
++ bị hai năm khổ sai
+@Chuyên ngành kinh tế
+-cứng
+-đứng giá
+-rắn chắc
+-thị trường giá cả cao
 @Chuyên ngành kỹ thuật
--laze
--laze hồng ngoại
-@Lĩnh vực: cơ khí & công trình
--lade
-@Chuyên ngành kỹ thuật
--laze
--laze hồng ngoại
-@Lĩnh vực: cơ khí & công trình
--lade
+-rắn
+-vững chắc
+

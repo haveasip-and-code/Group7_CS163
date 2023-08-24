@@ -1,16 +1,5 @@
-penetrability	@penetrability /,penitrə'biliti/
-*  danh từ
-- tính có thể thâm nhập được, tính có thể thấm qua
-- tính có thể xuyên qua
-- tính có thể hiểu thấu được
-@Chuyên ngành kỹ thuật
--độ thấm
-@Lĩnh vực: xây dựng
--khả năng lún sâu
--khả năng thâm nhập
--khả năng thấm qua
--khả năng xuyên sâu
-@Lĩnh vực: cơ khí & công trình
--tính thấm
--tính thẩm thấu
--tính xuyên
+benedictory
+	
+*  tính từ
+- (thuộc) sự giáng phúc
+

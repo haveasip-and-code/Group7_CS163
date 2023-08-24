@@ -1,23 +1,49 @@
-stamping	@Chuyên ngành kinh tế
--dán tem
--sự dán tem
--sự đóng dấu (văn kiện, hàng hóa)
+picture
+	
+*  danh từ
+- bức tranh, bức ảnh, bức vẽ
+- chân dung
+=to sit for one's picture
++ ngồi để cho vẽ chân dung
+- người giống hệt (một người khác)
+=she is the picture of her mother
++ cô ta trông giống hệt bà mẹ
+- hình ảnh hạnh phúc tương lai
+- hiện thân, điển hình
+=to be the [very] picture of health
++ là hiện thân của sự khoẻ mạnh
+- vật đẹp, cảnh đẹp, người đẹp
+=her dress is a picture
++ bộ áo của cô ta nom đẹp
+- ((thường) số nhiều) phim xi nê
+- (nghĩa bóng) cảnh ngộ; sự việc
+=out of (not in) the picture
++ không hợp cảnh, không hợp thời, không phải lối
+=to put (keep) somebody in the picture
++ cho ai biết sự việc, cho ai biết diễn biến của sự việc
+=to come into the picture
++ biết sự việc, nắm được sự việc
+*  ngoại động từ
+- về (người, vật)
+- mô tả một cách sinh động
+- hình dung tưởng tượng
+=to picture something to oneself
++ hình dung một việc gì, tưởng tượng một việc gì
+@Chuyên ngành kinh tế
+-tình hình
 @Chuyên ngành kỹ thuật
--la tôn dập
--sự chọc thủng
--sự đóng dấu
--sự in dập
--sự ráp khuôn
--sự rèn bằng búa
--sự ren khuôn
--sự rèn khuôn
--vật đúc
-@Lĩnh vực: hóa học & vật liệu
--lá tôn dập
-@Lĩnh vực: điện tử & viễn thông
--lá tôn mạch từ
-@Lĩnh vực: cơ khí & công trình
--sản phẩm dập
--sự dập khuôn
-@Lĩnh vực: điện
--tấm dập
+-ảnh
+-bức tranh
+-hình
+-hình ảnh
+-hình vẽ
+-khung hình
+-kiểu dáng
+-màn ảnh
+-màn hình
+-tranh
+@Lĩnh vực: xây dựng
+-ảnh chụp
+@Lĩnh vực: toán & tin
+-hình, hình ảnh
+

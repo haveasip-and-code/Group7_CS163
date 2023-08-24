@@ -1,18 +1,9 @@
-getter	
-@getter /'getə/
-*  danh từ
-- người mua được, người kiếm được, người lấy được, người được
-- (ngành mỏ) thợ mỏ, thợ gương lò
-- ngựa (đực) giống
-- (vật lý); (raddiô) chất thu khí
+triptych
+	
+*  phó từ
+- hoạ tranh bộ ba
+- sách gập ba tấm
 @Chuyên ngành kỹ thuật
--hấp thụ khí
--thợ mỏ
-@Lĩnh vực: điện
--chất hút khí
--chất thu
-@Lĩnh vực: điện lạnh
--chất khử khí
--chất thu khí
-@Lĩnh vực: hóa học & vật liệu
--thợ khai thác
+@Lĩnh vực: xây dựng
+-tranh bộ ba
+

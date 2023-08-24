@@ -1,10 +1,9 @@
-beneficiary	
-@beneficiary /,beni'fiʃəri/
+donee
+	
 *  danh từ
-- người hưởng hoa lợi; cha cố giữ tài sản của nhà chung
+- người nhận quà tặng
 @Chuyên ngành kinh tế
--người (thụ) hưởng
--người hưởng
--người nhận tiền
--người thụ hưởng
--nước thụ hưởng
+-người được tặng
+@Chuyên ngành kỹ thuật
+-người nhận
+

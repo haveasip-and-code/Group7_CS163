@@ -1,13 +1,12 @@
-suite	@suite /swi:t/
+clown
+	
 *  danh từ
-- dãy, bộ
-=suite of rooms+ dãy buồng
-=suite of furniture+ bộ đồ gỗ
-- đoàn tuỳ tùng
-- (âm nhạc) tổ khúc
-- (địa lý,địa chất) hệ
-@Chuyên ngành kinh tế
--bộ ở
+- anh hề, vai hề
+- người quê mùa
+- người thô lỗ; người mất dạy
+*  nội động từ
+- làm hề; đóng vai hề
 @Chuyên ngành kỹ thuật
--dãy
--điệp
+@Lĩnh vực: xây dựng
+-hề
+

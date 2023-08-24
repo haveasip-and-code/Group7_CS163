@@ -1,20 +1,5 @@
-legislation	@legislation /,ledʤis'leiʃn/
-*  danh từ
-- sự làm luật, sự lập pháp
-- pháp luật, pháp chế
-- sự ban hành pháp luật
-@Chuyên ngành kinh tế
--luật pháp
--pháp chế
--pháp luật
--sự ban hàng pháp luật
--sự ban hành luật pháp
--sự lập pháp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--pháp chế
--pháp luật
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--pháp chế
--pháp luật
+sodamide
+	
+@Lĩnh vực: hóa học & vật liệu
+-sođamit
+

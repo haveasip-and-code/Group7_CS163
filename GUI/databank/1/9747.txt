@@ -1,7 +1,11 @@
-clerkly	
-@clerkly /klɑ:k/
+adiabatic
+	
 *  tính từ
-- (thuộc) người thư ký; có tính chất thư ký
-- có chữ viết đẹp=clerkly hand
-+ chữ viết đẹp
-- (từ cổ,nghĩa cổ) biết đọc, biết viết
+- (vật lý) đoạn nhiệt
+=adiabatic curve
++ đường đoạn nhiệt
+@Chuyên ngành kỹ thuật
+-đoạn nhiệt
+@Lĩnh vực: xây dựng
+-bảo toàn nhiệt
+

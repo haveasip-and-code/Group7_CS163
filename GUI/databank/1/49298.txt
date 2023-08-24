@@ -1,7 +1,4 @@
-scrolling	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cuốn
--sự cuốn
--sự cuộn
--sự cuộn ngang (màn hình)
--sự xem lướt
+nonmetal
+	
+-á kim
+

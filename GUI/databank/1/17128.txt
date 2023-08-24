@@ -1,10 +1,5 @@
-dyne	
-@dyne /dain/
-*  danh từ
-- (vật lý) đyn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đin
--đyn
-@Lĩnh vực: vật lý
--đin (vật lý)
+checkers
+	
+* danh từ
+- cờ đam (gồm 24 quân cờ cho hai người chơi)
+

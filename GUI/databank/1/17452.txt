@@ -1,18 +1,11 @@
-effectiveness	
-@effectiveness /i'fektivnis/
+ambiguity
+	
 *  danh từ
-- sự có hiệu lực
-- ấn tượng sâu sắc
-@Chuyên ngành kinh tế
--hiệu lực
--hiệu nghiệm
--hiệu quả
--sự hữu hiệu
--sự thành đạt
--tính hiệu lực
+- sự tối nghĩa, sự không rõ nghĩa
+- sự không rõ ràng, sự mơ hồ, sự nhập nhằng
 @Chuyên ngành kỹ thuật
--hiệu lực
--hiệu quả
--hiệu suất
+-không rõ ràng
+-mơ hồ
 @Lĩnh vực: toán & tin
--tính hữu hiệu
+-tính nhập nhằng
+

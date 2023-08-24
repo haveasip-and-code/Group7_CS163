@@ -1,12 +1,6 @@
-flimsy	
-@flimsy /flimsy/
-*  tính từ
-- mỏng manh, mỏng mảnh
-- hời hợt, nông cạn=a flimsy excuse
-+ lời cáo lỗi hời hợt; lý do hời hợt=a flimsy argument
-+ lý lẽ nông cạn
-- tầm thường, nhỏ mọn
+unresponsiveness
+	
 *  danh từ
-- giấy mỏng (các phóng viên hay dùng để viết bài)
-- bài viết trên giấy mỏng (của các phóng viên)
-- (từ lóng) tiền giấy
+- tính không nhạy (máy móc)
+- tính khó động lòng, tính l nh đạm
+

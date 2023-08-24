@@ -1,14 +1,44 @@
-medicine	@medicine /'medsin/
+hour
+	
 *  danh từ
-- y học, y khoa
-- thuốc
-=to take medicine+ uống thuốc
-- khoa nội
-- bùa ngải, phép ma, yêu thuật (ở những vùng còn lạc hậu)
-!to give someone a dose (taste) of his own medicine
-- lấy gậy ông đập lưng ông
-!to take one's medicine
-- ngậm đắng nuốt cay; chịu đựng sự trừng phạt
-- chữa bệnh bằng thuốc uống
+- giờ, tiếng (đồng hồ)
+=half an hour
++ nửa giờ
+=to strike the hours
++ đánh giờ (đồng hồ)
+- giờ phút, lúc
+=in the hour of danger
++ trong giờ phút hiểm nguy
+=until one's last hour
++ cho đến giờ phút cuối cùng của cuộc đời
+=his hour has come
++ giờ phút cuối cùng của đời nó đã đến rồi, nó đã đến lúc chết rồi
+- ((thường) số nhiều) giờ (làm việc gì theo quy định)
+=school hours
++ giờ học ở trường
+=the off hours
++ giờ nghỉ, giờ được tự do
+- (tôn giáo) giờ cầu kinh (bảy lần trong một ngày); kinh tụng hằng ngày
+!Book of Hours
+- sách tụng kinh hằng ngày
+!at the eleventh hour
+- (xem) elevent
+!in a good hour
+- vào lúc may mắn
+!in an evil hour
+- vào lúc rủi ro, vào lúc gặp vận đen
+!to keep good (early) hours
+- đi ngủ sớm dậy sớm
+!to keep bad (late) hours
+- thức khuya dậy muộn
+!to keep regular of the hours
+- dậy ngủ đúng giờ giấc
+!the question of the hour
+- vấn đề nóng hổi lúc này, vấn đề nóng hổi lúc đó; vấn đề thời sự nóng hổi
+!till all hours
+- cho đến tận lúc gà gáy sáng
+@Chuyên ngành kinh tế
+-giờ
 @Chuyên ngành kỹ thuật
--y học
+-giờ
+

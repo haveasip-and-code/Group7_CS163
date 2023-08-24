@@ -1,9 +1,4 @@
-lipoprotein	@lipoprotein
-* danh từ
-- (hoá học) lipoprotein
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất trong nhóm các protein kết hợp với các chất bẻo hay các lipid
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất trong nhóm các protein kết hợp với các chất bẻo hay các lipid
+detachability
+	
+- xem detach
+

@@ -1,7 +1,9 @@
-wench	@wench /went /
-*  danh từ
-- thiếu nữ, cô gái; thôn nữ
-- (từ cổ,nghĩa cổ) đĩ, gái điếm
-*  nội động từ
-- tán gái
-- đi nhà thổ (đàn ông); làm đĩ (đàn bà)
+teens
+	
+*  danh từ số nhiều
+- tuổi thanh thiếu niên (từ 13 đến 19), tuổi thanh xuân
+=a girl in her teens
++ một cô gái đang tuổi thanh xuân
+=she is barely out of her teens
++ cô ta vừa xấp xỉ đôi mươi
+

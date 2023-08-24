@@ -1,7 +1,4 @@
-wideband	@Chuyên ngành kỹ thuật
--băng rộng
--dải rộng
--dải tần rộng
-@Lĩnh vực: toán & tin
--băng tần rộng
--dải (tần) rộng
+peripherals
+	
+-các thiết bị ngoại vi
+

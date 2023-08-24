@@ -1,13 +1,6 @@
-walling	@walling
-* danh từ
-- sự xây tường
-- (kiến trúc) vật liệu xây tường; tường vách
-@Chuyên ngành kỹ thuật
--sự xây tường
--tường
--tường bao
-@Lĩnh vực: xây dựng
--khối xây gạch đá
--tường nhà
--tường xây
--vật liệu xây tường
+undissolved
+	
+*  tính từ
+- không bị hoà tan
+- không bị huỷ bỏ, không bị giải thể
+

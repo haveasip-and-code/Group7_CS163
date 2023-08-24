@@ -1,11 +1,9 @@
-actuation	
-@actuation /,æktju'eiʃn/
-*  danh từ
-- sự thúc đẩy, sự kích thích
-- sự phát động, sự khởi động (máy)
-@Chuyên ngành kỹ thuật
--sự dẫn động
--sự điều khiển
--sự vận hành
-@Lĩnh vực: vật lý
--cấu vận hành
+inspired
+	
+*  tính từ
+- đầy cảm hứng
+=an inspired poem
++ một bài thơ đầy cảm hứng
+- do người khác mớm cho, người khác xúi giục, do người có thế lực mớm cho
+- hít vào, thở vào
+

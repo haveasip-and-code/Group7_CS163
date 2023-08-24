@@ -1,7 +1,22 @@
-relaxant	@relaxant
-* danh từ
-- (y học) thuốc làm bắp thịt bớt căng
-- thuốc xổ
+danger
+	
+*  danh từ
+- sự nguy hiểm, mối hiểm nghèo
+=to be in danger
++ bị nạn, lâm vào cảnh nguy hiểm
+=to be out of danger
++ thoát nạn, thoát khỏi cảnh nguy hiểm
+=in danger of one's life
++ nguy hiểm đến tính mạng
+=to keep out of danger
++ đứng ở ngoài vòng nguy hiểm, tránh được sự nguy hiểm
+- nguy cơ, mối đe doạ
+=a danger to peace
++ mối đe doạ cho hoà bình
+=the imperialist war
++ nguy cơ chiến tranh đế quốc
+- (ngành đường sắt) (như) danger
+-signal
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất thư giãn
+-nguy hiểm
+

@@ -1,9 +1,12 @@
-nor	@nor /nɔ:/
-*  phó từ & liên từ
-- mà... cũng không, và... không
-=neither good nor bad+ không tốt mà cũng không xấu
-=he can neither read nor write+ nó không biết đọc mà cũng không biết viết
-=he can't do it, nor can I, nor can you, nor can anybody+ nó không làm được cái đó, mà cả tôi, cả anh hay bất cứ một người nào cũng không làm được
+antigravity
+	
+* danh từ
+- khả năng chống trọng lực
+* tính từ
+- có khả năng chống trọng lực
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phép NOR
+@Lĩnh vực: điện lạnh
+-phản trọng lực
+@Lĩnh vực: điện tử & viễn thông
+-sự đối trọng
+

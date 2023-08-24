@@ -1,13 +1,8 @@
-transship	@transship
-* động từ
-- chuyển tàu, chuyển từ tàu này sang tàu khác
-* danh từ
-- sự chuyển tàu, sự sang tàu
-@Chuyên ngành kinh tế
--chuyển sang tàu khác (hành khách, hàng hóa...)
--chuyển tải
--chuyển vận, sang tàu
-@Chuyên ngành kỹ thuật
--chuyển tải
-@Lĩnh vực: giao thông & vận tải
--sang tàu
+tinhorn
+	
+*  tính từ (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- nhãi nhép, bất tài nhưng hay lên mặt ta đây
+=a tinhorn dictator
++ tên độc tài nhãi nhép
+- hào nhoáng rẻ tiền
+

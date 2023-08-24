@@ -1,7 +1,27 @@
-frightful	
-@frightful /'fraitful/
-*  tính từ
-- ghê sợ, khủng khiếp, kinh khủng
-- (thông tục) xấu kinh khủng, to kinh khủng
+payment
+	
+*  danh từ
+- sự trả tiền, sự nộp tiền; số tiền trả
+=payment received
++ đã nhận đủ số tiền
+- (nghĩa bóng) việc trả công, việc thưởng phạt
+@Chuyên ngành kinh tế
+-khoản tiền được trả
+-số tiền trả
+-sự chi trả
+-sự nộp tiền
+-sự thanh toán
+-sự trả lương
+-sự trả tiền
+-tiền bồi thường
+-việc thưởng phạt
+-việc trả công
+-việc trả tiền
 @Chuyên ngành kỹ thuật
--khủng khiếp
+-thanh toán
+-tiền công
+-tiền lương
+@Lĩnh vực: xây dựng
+-thù lao lao động
+-tiền chi phí
+

@@ -1,20 +1,7 @@
-cocoa	
-@cocoa /'koukou/
-*  danh từ
-+ (cocoa)/'koukou/
-- (thực vật học) cây dừa
-- quả dừa
-*  danh từ
-- bột cacao
-- nước cacao
-- màu cacao!cocoa bean
-- hột cacao!cocoa nib
-- hột cacao đã bóc vỏ!cocoa powder
-- thuốc súng nâu
-@Chuyên ngành kinh tế
--bột cacao
--cây cacao
--nước cacao
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--cacao
+subshell
+	
+-lớp phân vỏ
+-vỏ con
+@Lĩnh vực: vật lý
+-phân vỏ
+

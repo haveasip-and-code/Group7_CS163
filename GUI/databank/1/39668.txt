@@ -1,6 +1,7 @@
-parasol	@parasol /,pærə'sɔl/
-*  danh từ
-- cái dù (che nắng)
+deoxidize
+	
+*  ngoại động từ
+- (hoá học) khử, loại oxyt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--dù che nắng
+-khử oxi
+

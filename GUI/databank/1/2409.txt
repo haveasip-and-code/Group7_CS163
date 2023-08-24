@@ -1,12 +1,13 @@
-antechamber	
-@antechamber /'ænti,tʃeimbə/
-*  danh từ
-- phòng ngoài
+toroidal
+	
+- phỏng xuyến, có hình xuyến
 @Chuyên ngành kỹ thuật
--phòng chờ
--phòng đệm
--phòng đợi
--phòng nghỉ
--phòng ngoài
--tiền phòng
--tiền sảnh
+-dạng vành
+-dạng vòng
+-hình xuyến
+-phỏng xuyến
+@Lĩnh vực: điện
+-có dạng hình xuyến
+@Lĩnh vực: toán & tin
+-có hình xuyến
+

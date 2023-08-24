@@ -1,12 +1,7 @@
-warehouseman	@warehouseman /'weəhausmən/
-*  danh từ
-- người nhận hàng gửi kho; người giữ kho
-@Chuyên ngành kinh tế
--chủ kho
--người coi kho
--người giữ kho
--người giữ kho, coi kho
--người thủ kho
-@Chuyên ngành kỹ thuật
--người giữ kho
--thủ kho
+specious
+	
+*  tính từ
+- chỉ có mã ngoài, chỉ có bề ngoài; chỉ tốt mã; chỉ có lý ở bê ngoài
+=specious appearance
++ mã ngoài bảnh bao
+

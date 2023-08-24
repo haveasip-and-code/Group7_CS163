@@ -1,21 +1,26 @@
-interview	
-@interview /'intəvju:/
+tiling
+	
 *  danh từ
-- sự gặp gỡ, sự gặp mặt; cuộc nói chuyện riêng=an interview between a job applicicant and the director
-+ cuộc gặp riêng giữa người xin việc với ông giám đốc
-- cuộc phỏng vấn; bài phỏng vấn=a newpaper interview
-+ cuộc phóng vấn báo chí
-*  động từ
-- gặp riêng, nói chuyện riêng=to interview job applicants
-+ gặp riêng (hỏi riêng) những người đến xin việc
-- phỏng vấn
-@Chuyên ngành kinh tế
--cuộc hội kiến
--cuộc phỏng vấn
--cuộc tiếp kiến
--hội kiến
--phỏng vấn
--tiếp kiến
+- sự lợp ngói
+- ngói
+- mái ngói
+- sự lát đá; sự lát gạch vuông
 @Chuyên ngành kỹ thuật
--phỏng vấn
--sự phỏng vấn
+-lớp lát
+-mái ngói
+-sàn lát gạch vuông
+-sàn tấm
+-sự lát gạch
+-sự lát gạch vuông
+@Lĩnh vực: xây dựng
+-công tác lát đá
+-công tác lát gạch
+-công tác lợp ngói
+-mái lợp ngói
+-ốp lát
+-sàn lát
+-sự lợp ngói
+@Lĩnh vực: điện lạnh
+-kỹ thuật lát
+-kỹ thuật lợp
+

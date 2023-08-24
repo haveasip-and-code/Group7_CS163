@@ -1,13 +1,9 @@
-smoothness	@smoothness /'smu:ðnis/
-*  danh từ
-- sự phẳng phiu, sự mượt mà, sự bình lặng
-- sự dễ dàng, sự trôi chảy, sự êm thấm
-- tính dịu dàng; tính nhịp nhàng uyển chuyển
-- tính hoà nhã
-- tính ngọt xớt; vẻ dịu dàng vờ
+gluing
+	
+- sự dán
+- g. of manifolds (hình học) sự dán các đa tạp
 @Chuyên ngành kỹ thuật
--máy đo độ nhẵn (mặt giấy)
-@Lĩnh vực: xây dựng
--độ trơn
-@Lĩnh vực: toán & tin
--tính trơn
+-sự dán
+-sự ép keo
+-sự hồ
+

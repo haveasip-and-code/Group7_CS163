@@ -1,21 +1,38 @@
-fist	
-@fist /fist/
-*  danh từ
-- nắm tay; quả đấm=to clenth one's fist
-+ nắm chặt tay lại=to use one's fists
-+ đấm nhau, thụi nhau
--(đùa cợt) bàn tay=give us your fist
-+ nào bắt tay
--(đùa cợt) chữ viết=a good fist
-+ chữ viết đẹp=I know his fist
-+ tôi biết chữ nó
+wander
+	
+*  nội động từ
+- đi thơ thẩn, đi lang thang
+=to wander about the streets
++ đi lang thang ngoài phố
+- đi lạc đường, lầm đường, chệch đường ((nghĩa đen) & (nghĩa bóng))
+=to wander from the right path
++ đi lầm đường
+=to wander from the subject
++ đi ra ngoài đề, lạc đề
+- quanh co, uốn khúc (con sông...)
+=the river wanders about the large plain
++ con sông uốn khúc quanh co trong cánh đồng lớn
+- nói huyên thiên; nghĩ lan man; lơ đễnh
+=to wander in one's talk
++ nói huyên thiên không đâu vào đâu
+=his mind wanders at times
++ lắm lúc tâm trí hắn ta để đâu ấy
+- mê sảng
 *  ngoại động từ
-- đấm, thụi
-- nắm chặt, điều khiển=to fist an oar
-+ điều khiển mái chèo
+- đi lang thang khắp
+=to wander the world
++ đi lang thang khắp thế giới
 @Chuyên ngành kỹ thuật
--nắm tay
--quả đấm
-@Chuyên ngành kỹ thuật
--nắm tay
--quả đấm
+-chao
+-chỉ báo nhấp nháy
+-đi
+-di động
+-nhấp nháy mục tiêu
+-thay đổi vị trí
+@Lĩnh vực: cơ khí & công trình
+-chao đảo (bánh xe)
+@Lĩnh vực: ô tô
+-đảo (bánh xe)
+@Lĩnh vực: điện lạnh
+-vết chập chờn (trên màn hình rađa)
+

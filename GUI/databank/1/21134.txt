@@ -1,22 +1,64 @@
-fireproof	
-@fireproof /'faiəpru:f/
-*  tính từ
-- chịu lửa, không cháy
+pole
+	
+*  danh từ
+- cực
+=north pole
++ bắc cực
+=south pole
++ nam cực
+=magmetic pole
++ cực từ
+=negative pole
++ cực âm
+=positive pole
++ cực dương
+- (nghĩa bóng) cực (một trong hai nguyên tắc hoàn toàn đối lập nhau)
+- điểm cực (điểm tập trung sự chú ý...)
+!to be poles asunder
+!to be as wide as the poles apart
+- hoàn toàn đối lập nhau, hoàn toàn trái ngược nhau
+*  danh từ
+- cái sào
+- sào (đơn vị đo chiều dài bằng 5 009 mét)
+- cột (để chăng lều...)
+- cọc, gọng (để phía trước xe, để buộc dây nối với ách ngựa)
+!under bare poles
+- (hàng hải) không giương buồm
+- xơ xác dạc dài
+!up the pole
+- (từ lóng) lâm vào thế bí, lâm vào cảnh bế tắc
+- say
+*  ngoại động từ
+- đẩy bằng sào
+- cắm cột, chống bằng cột
+*  danh từ
+- Pole người Ba lan
 @Chuyên ngành kỹ thuật
--chịu nóng
--khó nóng chảy
--không bắt lửa
--không cháy
-@Lĩnh vực: hóa học & vật liệu
--chịu lửa, không cháy
+-cọc mốc
+-cực (nam châm)
+-cực điểm
+-cực từ
+-đầu nối ra
+-điểm cực
+-điện cực
+-mia
+-mia đo độ cao
+-sào
+-sào ngắm
+-thước đo
+-thước mia
+-xà ngang
 @Lĩnh vực: xây dựng
--chống lửa
-@Chuyên ngành kỹ thuật
--chịu nóng
--khó nóng chảy
--không bắt lửa
--không cháy
-@Lĩnh vực: hóa học & vật liệu
--chịu lửa, không cháy
-@Lĩnh vực: xây dựng
--chống lửa
+-cột chống dàn giáo
+-cột cọc
+-cừ
+-cực Bắc
+-cực Nam
+-mia ngắm mức (chắc địa)
+-sào gỗ
+-thanh gỗ
+@Lĩnh vực: toán & tin
+-cực, cực điểm,
+@Lĩnh vực: đo lường & điều khiển
+-pon (đơn vị đo dài bằng 5, 029m)
+

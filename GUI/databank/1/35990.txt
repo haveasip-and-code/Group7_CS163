@@ -1,12 +1,25 @@
-multiplier	@multiplier
-- số nhân, nhân tử; hệ số; (máy tính) thiết bị nhân, mấy nhân, bộ nhân
-- m. of a group nhân tử của một nhóm
-- analogue m. thiết bị nhân tương tự, số nhân tương tự
-- finite m. (thống kê) hệ số hiệu chỉnh đo tính hữu hạn của dãy số
-- frequency m. máy nhân tần số
-- function m. máy nhân hàm
-- last m. nhân tử cuối
-- logarithmic m. (máy tính) bộ nhân lôga
-- paired m. bộ nhân cặp
-- parallel m. bộ nhân song song
-- undetermined m. nhân tử bất định
+blush
+	
+*  danh từ
+- sự đỏ mặt (vì thẹn)
+- ánh hồng, nét ửng đỏ
+=the blush of morn
++ ánh hồng của buổi ban mai
+- cái nhìn, cái liếc mắt
+=at the first blush
++ lúc mới nhìn thấy lần đầu
+!to bring blushes to someone's cheeks
+!to put somebody to the blush
+- làm cho ai thẹn đỏ mặt
+*  nội động từ
+- đỏ mặt (vì thẹn)
+=for shame
++ thẹn đỏ mặt
+- thẹn
+- ửng đỏ, ửng hồng
+@Chuyên ngành kỹ thuật
+-ánh
+-phát quang
+@Lĩnh vực: xây dựng
+-sự vẩn đục
+

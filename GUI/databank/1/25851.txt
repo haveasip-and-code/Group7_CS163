@@ -1,4 +1,78 @@
-histogram	
-@histogram
-* danh từ
-- biểu đồ
+style
+	
+*  danh từ
+- cột đồng hồ mặt trời
+- (thực vật học) vòi nhuỵ
+- văn phong
+- phong cách, cách, lối
+=style of playing the piano
++ cách đánh pianô
+=style of work
++ tác phong làm việc
+=style of living
++ cách ăn ở
+=to live in great style
++ sống đế vượng
+- loại, kiểu, dáng
+=in all sizes and styles
++ đủ các cỡ và các kiểu
+=Renaissance style
++ diểu thời Phục hưng (đồ gỗ)
+- thời trang, mốt
+=in the latest style
++ theo mốt mới nhất
+- danh hiệu, tước hiệu
+=I did not recognize him under his new style
++ tôi không nhận ra anh ta dưới danh hiệu mới
+- lịch
+=new style
++ lịch mới ((viết tắt) N.S.)
+=old style
++ lịch cũ ((viết tắt) O.S.)
+- điều đặc sắc, điểm xuất sắc
+=there is no style about her
++ cô ta trông không có gì xuất sắc
+- bút trâm (để vết trên sáp, ở thời cổ)
+- (thơ ca) bút mực, bút chì
+- (y học) kim
+*  ngoại động từ ((thường) dạng bị động)
+- gọi tên, gọi là
+=he is styled orator
++ anh ta được gọi là nhà hùng biện
+=to style oneself doctor
++ tự xưng là bác sĩ
+@Chuyên ngành kinh tế
+-danh hiệu
+-danh xưng (của một tổ chức doanh nghiệp)
+-kiểu
+-kiểu dáng
+-lối
+-mốt
+-tác phong
+-tên
+-tên gọi
+-thời thức
+-thời thượng
+-thời trang
+-tước hiệu
+@Chuyên ngành kỹ thuật
+-dáng
+-dạng
+-kiểu
+-kiểu dáng
+-ngòi bút
+-mẫu
+-mô hình
+-phong cách
+-thức kiến trúc
+@Lĩnh vực: toán & tin
+-kiểu dáng (văn bản)
+@Lĩnh vực: xây dựng
+-kim để khắc
+-thức trang trí
+@Lĩnh vực: cơ khí & công trình
+-kim khắc (khí cụ tự ghi)
+@Lĩnh vực: dệt may
+-tạo dáng
+-tạo kiểu
+

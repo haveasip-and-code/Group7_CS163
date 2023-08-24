@@ -1,9 +1,5 @@
-thesaurus	@thesaurus /θi:'sɔ:rəs/
-*  danh từ,  số nhiều thesauri,  thesauruses
-- bộ từ điển lớn, bộ toàn thư
-@Chuyên ngành kỹ thuật
--ngôn ngữ từ điển
--từ điển
--từ điển đồng nghĩa
-@Lĩnh vực: xây dựng
--bộ từ điển lớn
+sporocyst
+	
+@Lĩnh vực: y học
+-bào tử nang
+

@@ -1,6 +1,5 @@
-parser	@parser
-- xem parse
-@Chuyên ngành kỹ thuật
--bộ phân tích
-@Lĩnh vực: điện lạnh
--bộ phân tách (cú pháp)
+ostosis
+	
+* danh từ
+- (sinh vật học) sự hoá xương
+

@@ -1,10 +1,7 @@
-carload	
-@Chuyên ngành kinh tế
--cả xe
--đầy xe
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--toa hàng hóa
--trọng tải của toa
-@Lĩnh vực: hóa học & vật liệu
--vagông xitec
+aflutter
+	
+* tính từ
+- đang vẫy, đang vỗ (cánh)
+- run rẩy vì bị kích động
+- rung rinh
+

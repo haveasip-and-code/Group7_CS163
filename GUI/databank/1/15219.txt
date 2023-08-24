@@ -1,6 +1,15 @@
-dibs	
-@dibs /dibz/
-*  danh từ số nhiều
-- trò chơi bằng đốt xương cừu
-- thẻ (thế tiền khi đánh bài...)
-- (từ lóng) tiền xin
+solo
+	
+*  danh từ,  số nhiều solos
+- (âm nhạc) bản nhạc diễn đơn, điệu nhạc diễn đơn; bè diễn đơn, bài đơn ca
+- lối chơi bài xôlô
+- (hàng không) chuyến bay một mình
+*  phó từ
+- một mình
+=to sing solo
++ đơn ca
+=to fly solo
++ bay một mình
+@Chuyên ngành kinh tế
+-phiếu một bản
+

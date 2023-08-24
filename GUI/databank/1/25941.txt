@@ -1,38 +1,5 @@
-hoist	
-@hoist /hɔist/
-*  danh từ
-- sự kéo lên; sự nhấc bổng lên (bằng cần trục...)
-- thang máy
-- (kỹ thuật) cần trục; tời)
-*  ngoại động từ
-- kéo (cờ) lên; nhấc bổng lên (bằng cần trục, tời...)=to hoist a flag
-+ kéo cờ lên=to hoist a sail
-+ kéo buồm lên
-*  động tính từ quá khứ
-- to be hoist with one's own petard gậy ông đập lưng ông; tự mình lại mắc vào cạm bẫy của chính mình
-@Chuyên ngành kinh tế
--cần trục
--máy đỡ
--máy nâng
--thang máy chuyển hàng
--trục tải
-@Chuyên ngành kỹ thuật
--cấu nâng
--cơ cấu nâng
--kéo lên
--kích lên
--kích nâng
--nâng lên
--máy nâng
--máy nâng chuyển
--máy trục
--palăng
--palăng cần trục
--ròng rọc
--sự nâng
--sự nâng lên
--thang máy
-@Lĩnh vực: cơ khí & công trình
--cẩu
-@Lĩnh vực: vật lý
--tời lên
+presumable
+	
+*  tính từ
+- có thể được, có thể cho là đúng, có thể cầm bằng; có thể đoán chừng
+

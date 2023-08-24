@@ -1,9 +1,11 @@
-streamy	@streamy /'stri:mi/
-*  tính từ
-- có nhiều dòng suối, có nhiều dòng sông nhỏ, có nhiều dòng nước
-- như dòng suối, như dòng sông nhỏ, như dòng nước; chảy ra, trào ra, tuôn ra, ròng ròng
-- (từ hiếm,nghĩa hiếm) có dáng khi động (tàu xe)
-@Chuyên ngành kỹ thuật
--có chiều dòng suối
-@Lĩnh vực: xây dựng
--có nhiều dòng nước
+storekeeper
+	
+*  danh từ
+- chủ cửa hàng, chủ tiệm
+- người giữ kho, thủ kho
+@Chuyên ngành kinh tế
+-chủ cửa hàng (bán lẻ)
+-chủ tiệm
+-người giữ kho
+-thủ kho
+

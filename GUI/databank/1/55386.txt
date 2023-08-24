@@ -1,2 +1,9 @@
-tackifier	@Chuyên ngành kỹ thuật
--chất dính
+photomap
+	
+* danh từ
+- địa đồ chụp từ máy bay có thêm những chi tiết (tên đất...) viết vào
+@Chuyên ngành kỹ thuật
+-bản đồ ảnh
+@Lĩnh vực: xây dựng
+-bình đồ ảnh
+

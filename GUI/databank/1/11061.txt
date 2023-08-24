@@ -1,7 +1,13 @@
-configurative	
-@configurative
-- xem configuration
+spelter
+	
+*  danh từ
+- (thương nghiệp) kẽm
+- (kỹ thuật) que hàn kẽm
 @Chuyên ngành kỹ thuật
--cấu hình
--hình dạng
--hình thể
+-kẽm hàn
+-kẽm thương phẩm
+@Lĩnh vực: cơ khí & công trình
+-chất hàn cứng
+-kẽm kỹ thuật
+-kẽm thương mại
+

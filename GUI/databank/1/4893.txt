@@ -1,8 +1,10 @@
-bathrobe	
-@bathrobe
-- thành ngữ bath
-- bathrobe
-- áo choàng tắm
-- thành ngữ bath
-- bathrobe
-- áo choàng tắm
+weaving
+	
+*  danh từ
+- sự dệt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: giao thông & vận tải
+-sự chạy ngoằn ngoèo
+@Lĩnh vực: dệt may
+-sự dệt thoi
+

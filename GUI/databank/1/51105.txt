@@ -1,27 +1,60 @@
-slate	@slate /sleit/
+content
+	
+*  danh từ,  (thường) số nhiều
+- nội dung
+=the contents of a letter
++ nội dung một bức thư
+- (chỉ số ít) sức chứa, sức đựng, dung tích, dung lượng (bình, hồ, ao...); thể tích (khối đá...); diện tích, bề mặt (ruộng...)
+=the content of a cask
++ dung lượng một cái thùng
+- lượng, phân lượng
+=the sugar content per acre of beer
++ lượng đường thu hoạch trên một mẫu Anh củ cải
+=the ester content of an oil
++ (phân) lượng este trong một chất dầu
+!table of contents
+- (xem) table
 *  danh từ
-- đá bảng, đá
-- ngói đá đen
-- bảng đá (của học sinh)
-- màu xám đen
-- (từ Mỹ,nghĩa Mỹ) danh sách tạm thời (người ứng cử...)
-!clean slate
-- (xem) clean
-!to clean the slate
-- giũ trách nhiệm, bỏ nhiệm vụ
-!to have a slate loose
-- hâm hâm, gàn
-!to sart with a clean slate
-- làm lại cuộc đời
+- sự bằng lòng, sự vừa lòng, sự hài lòng, sự vừa ý, sự toại nguyện, sự mãn nguyện, sự thoả mãn
+=to one's heart's content
++ thoả mãn; vừa lòng mãn ý
+- sự bỏ phiếu thuận (thượng nghị viện Anh)
+- (số nhiều) những phiếu thuận; những người bỏ phiếu thuận
+=supposing the number of contents and not contents are strictly equal
++ giả dụ rằng số phiếu thuận và số phiếu chống đúng bằng nhau
 *  tính từ
-- bằng đá phiến, bằng đá acđoa
+- bằng lòng, vừa lòng, hài lòng, vừa ý, toại nguyện, mãn nguyện, thoả mãn
+=to be content with something
++ vừa lòng cái gì
+- sẵn lòng, vui lòng
+=I am content to go of you want mr to
++ tôi sẵn sàng (vui lòng) đi nếu anh muốn
+- thuận (thượng nghị viện Anh)
+=content
++ thuận
+=not content
++ chống
 *  ngoại động từ
-- lợp (nhà) bằng ngói acđoa
-- (từ Mỹ,nghĩa Mỹ) đề cử (ai); ghi (ai) vào danh sách người ứng cử
-*  ngoại động từ
-- (thông tục) công kích, đả kích
-- (từ Mỹ,nghĩa Mỹ) chửi rủa thậm tệ; trừng phạt nghiêm khắc
+- làm bằng lòng, làm vừa lòng, làm đẹp lòng, làm vui lòng, làm vừa ý, làm đẹp ý, làm mãn nguyện, thoả mãn
+=to content oneself with something
++ bằng lòng vậy với cái gì
+=to content oneself with doing something
++ bằng lòng cái gì
+@Chuyên ngành kinh tế
+-độ chứa
+-hàm lượng
+-mục lục
+-nội dung
 @Chuyên ngành kỹ thuật
--đá phiến
-@Lĩnh vực: xây dựng
--tấm (lợp)
+-độ chứa
+-dung lượng
+-dung lượng dung tích
+-dung tích
+-hàm lượng
+-lượng
+-lượng chứa
+-nội dung
+-sức chứa
+-thành phần
+-thể tích
+

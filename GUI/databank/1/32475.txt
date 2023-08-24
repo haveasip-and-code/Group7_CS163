@@ -1,6 +1,21 @@
-livelihood	@livelihood /'laivlihud/
-*  danh từ
-- cách sinh nhai, sinh kế
-=to earn (gets, make) a livelihood+ kiếm ăn, kiếm kế sinh nhai
+analyse
+	
+*  ngoại động từ
+- phân tích
+=to analyse a sentence grammatically
++ phân tích ngữ pháp một câu văn
+=to analyse water
++ phân tích nước
+=go analyse an issue
++ phân tích một vấn đề
+- (toán học) giải tích
 @Chuyên ngành kinh tế
--sinh kế
+-giải tích
+-giải trình
+-phân tích
+@Chuyên ngành kỹ thuật
+-máy phân tích
+-phân tích
+@Lĩnh vực: toán & tin
+-phân tích (dữ liệu)
+

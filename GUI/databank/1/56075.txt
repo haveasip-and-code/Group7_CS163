@@ -1,21 +1,5 @@
-terrace	@terrace /'terəs/
-*  danh từ
-- nền đất cao, chỗ đất đắp cao
-- (kiến trúc) mái bằng, sân thượng; sân hiên
-- dãy nhà
-- (địa lý,địa chất) thềm
-*  ngoại động từ
-- đắp cao thàn nền, đắp cao
-@Chuyên ngành kỹ thuật
--bậc thềm
--mái bằng
--phần lồi
--sân thượng
-@Lĩnh vực: xây dựng
--đê con chạch
--địa hình bậc thang
--nền đất cao
--nền đặt cấp
--sân hiên
--sân nhượng
--tầng bậc
+haversack
+	
+* danh từ
+- túi dết
+

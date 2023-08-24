@@ -1,27 +1,25 @@
-occurrence	@occurrence
-* danh từ
-- sự kiện, sự cố, chuyện xảy ra
-- an everyday occurrence
-- chuyện xảy ra hằng ngày
-- sự xảy ra; sự nẩy ra, sự loé lên (ý nghĩ, ý muốn)
-= an occurrence idea+một ý nghĩ vừa loé lên
-= to be of frequent/common/rare occurrence+thường, hiếm xảy ra (hoặc diễn ra)
-= riots are of frequent occurrence in this province+những vụ náo loạn thường xảy ra ở tỉnh này
-@Chuyên ngành kinh tế
--sự diễn ra
+external
+	
+*  tính từ
+- ở ngoài, bên ngoài (hiện tượng...)
+=external world
++ thế giới bên ngoài
+- (y học) ngoài, để dùng bên ngoài
+=a medicine for external use only
++ thuốc chỉ để dùng bôi ngoài
+- (từ Mỹ,nghĩa Mỹ) đối với nước ngoài, đối ngoại (chính sách, sự buôn bán)
 @Chuyên ngành kỹ thuật
--cơ hội
--hiện trường
--mỏ vật liệu
--sự biểu hiện
--sự cố
--sự thâm nhập
--sự xảy ra
--sự xuất hiện
--trường hợp
--xuất hiện
-@Lĩnh vực: điện lạnh
--độ phổ cập
+-bên ngoài
+-ngoài
+-ở ngoài
+-phía ngoài
 @Lĩnh vực: toán & tin
--lần xuất hiện
--số lần gặp
+-thuộc bên ngoài
+@Chuyên ngành kỹ thuật
+-bên ngoài
+-ngoài
+-ở ngoài
+-phía ngoài
+@Lĩnh vực: toán & tin
+-thuộc bên ngoài
+

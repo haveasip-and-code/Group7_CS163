@@ -1,8 +1,11 @@
-arsenal	
-@arsenal /'ɑ:sinl/
+shopping
+	
 *  danh từ
-- kho chứa vũ khí đạn dược ((nghĩa đen) & (nghĩa bóng))
-- xưởng làm vũ khí đạn dược
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--kho vũ khí
+- sự đi mua hàng
+=to do one's shopping
++ đi mua hàng
+@Chuyên ngành kinh tế
+-mua sắm
+-việc đi mua hàng ở các cửa hiệu
+-việc mua sắm
+

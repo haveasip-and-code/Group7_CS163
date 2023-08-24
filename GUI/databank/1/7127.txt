@@ -1,36 +1,7 @@
-bumper	
-@bumper /'bʌmpə/
-*  danh từ
-- người va mạnh
-- cốc rượu đầy tràn
-- vụ mùa bội thu ((cũng) bumper crop,  bumper harvest)
-- rạp hát đóng kín
-- cái hãm xung, cái đỡ va (ô tô...)
-@Chuyên ngành kỹ thuật
--ba
--đờ
--xốc
--bệ chắn dừng tàu
--bộ giảm chấn
--cái giảm
--cái giảm xóc
--đệm giảm va
--giảm chấn
--hoãn xung
--tấm đệm
-@Lĩnh vực: ô tô
--ba đờ xốc
--bộ giảm va
--bộ giảm xung
--cái cản
--thành giảm va
--thanh hoãn xung
-@Lĩnh vực: hóa học & vật liệu
--cái giảm chấn
--máy đầm khuôn rung
-@Lĩnh vực: xây dựng
--cái hãm xung
-@Lĩnh vực: cơ khí & công trình
--cản xe
--đỡ va
--giảm xung
+shush
+	
+- interj
+- im lặng! im đi!
+* ngoại động từ
+- bảo ai im lặng
+

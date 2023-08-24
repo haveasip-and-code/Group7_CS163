@@ -1,12 +1,5 @@
-underestimate	@underestimate /'ʌndər'estimeit/
-*  ngoại động từ
-- đánh giá thấp
-@Chuyên ngành kinh tế
--đánh giá (quá) thấp
--đánh giá thấp
--sự đánh giá quá thấp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đánh giá thấp
-@Lĩnh vực: điện lạnh
--ước tính thấp
+citizenry
+	
+* danh từ
+- toàn thể công dân
+

@@ -1,12 +1,8 @@
-glossy	
-@glossy /'glɔsi/
-*  tính từ
-- bóng loáng, hào nhoáng, bề ngoài
+selenium
+	
+*  danh từ
+- (hoá học) Selen
 @Chuyên ngành kỹ thuật
--bóng
--bóng láng
--láng
--sáng bóng
--sáng chói
-@Lĩnh vực: xây dựng
--láng bóng
+@Lĩnh vực: điện
+-chất selen
+

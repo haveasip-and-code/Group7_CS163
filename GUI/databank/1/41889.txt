@@ -1,34 +1,6 @@
-planning	@planning
-* danh từ
-- sự lập kế hoạch (cho cái gì)
-- sự quy hoạch thành phố
-@Chuyên ngành kinh tế
--hoạch định
--kế hoạch hóa
--lập kế hoạch
--quy hoạch
--quy hoạch thiết kế dự án
--sự hoạch định
--sự lập kế hoạch
--thiết kế dự án
-@Chuyên ngành kỹ thuật
--bản quy hoạch
--kế hoạch hóa
--lập kế hoạch
--quy hoạch
--sư lập kế hoạch
--sự lập kế hoạch
--sự quy hoạch
--sự thiết kế
-@Lĩnh vực: xây dựng
--ban qui hoạch
--sự đo bản vẽ
--sự kế hoạch hóa
--sự lập tiến độ
-@Lĩnh vực: toán & tin
--đồ án thiết kế
-@Lĩnh vực: cơ khí & công trình
--sự luận chứng (dự án)
-@Lĩnh vực: điện
--việc lập kế hoạch
--việc lên qui hoạch
+ideally
+	
+*  phó từ
+- lý tưởng, đúng như lý tưởng
+- theo lý tưởng; trong lý tưởng
+

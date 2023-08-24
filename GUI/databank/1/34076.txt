@@ -1,8 +1,12 @@
-mechanician	@mechanician /,mekə'niʃn/
-*  danh từ
-- công nhân cơ khí
-- nhà cơ học
+demountable
+	
+* tính từ
+- có thể tháo ra được
 @Chuyên ngành kỹ thuật
--thợ máy
-@Lĩnh vực: cơ khí & công trình
--nhà cơ học
+-lắp được
+-tách được
+-tháo
+-tháo rời được
+@Lĩnh vực: xây dựng
+-tháo được
+

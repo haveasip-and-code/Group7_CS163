@@ -1,11 +1,17 @@
-moratorium	@moratorium /,mɔrə'tɔ:riəm/
-*  danh từ,  số nhiều moratoria  /,mɔrə'tɔ:riə/
-- (pháp lý) lệnh đình trả nợ, lệnh hoãn trả nợ
-- thời kỳ hoãn nợ
-- sự tạm ngừng hoạt động (vì nguy hiểm...)
-@Chuyên ngành kinh tế
--lệnh hoãn thanh toán nợ
--quyền gia hạn trả nợ
+impoundment
+	
+*  danh từ
+- sự nhốt vào bãi rào (súc vật); sự cất vào bãi rào (xe cộ...)
+- sự nhốt, sự giam (người...)
+- sự ngăn (nước để tưới)
+- sự sung công, sự tịch thu
 @Chuyên ngành kỹ thuật
+-hồ giữ nước
+@Lĩnh vực: cơ khí & công trình
+-ngăn dòng
+-sự chặn dòng
+-sự chứa nước
 @Lĩnh vực: xây dựng
--tạm ngừng
+-sự ngăn lại
+-sự sung công
+

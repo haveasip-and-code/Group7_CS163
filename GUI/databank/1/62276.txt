@@ -1,26 +1,7 @@
-wafer	@wafer /'weifə/
-*  danh từ
-- bánh quế
-- dấu xi (niêm phong bì); vòng giấy niêm (để niêm các văn kiện pháp lý)
-- (tôn giáo) bánh thánh
-!as thin as a wafer
-- mỏng manh
-*  ngoại động từ
-- gắn xi (vào chai, thư...)
-- niêm, niêm phong (bằng dấu xi, bằng vòng giấy)
-@Chuyên ngành kinh tế
--bánh quế kem
+outermost
+	
+*  tính từ
+- ở phía ngoài cùng, ở ngoài xa nhất
 @Chuyên ngành kỹ thuật
--lát
--lát bán dẫn
--lát mỏng
--mảnh
--miếng bán dẫn
--miếng mỏng
--phiến
--tầm
--vòng đệm
-@Lĩnh vực: điện tử & viễn thông
--lát (vật liệu bán dẫn để chế tạo mạch tích hợp)
-@Lĩnh vực: y học
--viên nhện
+-ngoài cùng
+

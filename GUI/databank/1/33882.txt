@@ -1,10 +1,10 @@
-matched	@matched
-- ngang nhau, tương ứng; phù hợp
+abscissa
+	
+*  danh từ,  số nhiều abscissae
+- (như) absciss
 @Chuyên ngành kỹ thuật
--phù hợp
--thích ứng
--tương ứng
-@Lĩnh vực: xây dựng
--được làm khớp
-@Lĩnh vực: toán & tin
--ngang nhau
+-hoành độ
+-trục hoành
+@Lĩnh vực: điện tử & viễn thông
+-độ hoành
+

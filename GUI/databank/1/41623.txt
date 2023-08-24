@@ -1,3 +1,10 @@
-pinger	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--máy phát siêu âm (đo độ sâu biển)
+minimal
+	
+*  tính từ
+- rất nhỏ li ti
+- tối thiểu
+@Chuyên ngành kỹ thuật
+-nhỏ li ti
+@Lĩnh vực: toán & tin
+-cực tiểu
+

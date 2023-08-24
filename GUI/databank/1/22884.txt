@@ -1,23 +1,16 @@
-gammon	
-@gammon /'gæmən/
+bash
+	
 *  danh từ
-- jambon, đùi lợn muối và hun khói
+- cú đánh mạnh
+!to have a bash at it
+- (từ lóng) thử làm việc đó, gắng làm việc đó
 *  ngoại động từ
-- muối và hun khói (đùi lợn)
-*  danh từ
-- sự thắng hai ván liền (trong cuộc chơi cờ tào cáo)
-*  ngoại động từ
-- thắng hai ván liền (trong cuộc chơi cờ tào cáo)
-*  danh từ
-- (hàng hải) dây buộc rầm néo buồm
-*  ngoại động từ
-- buộc (rầm néo buồm) vào mũi tàu
-*  danh từ
-- sự lừa phỉnh, sự lừa bịp, sự lừa dối
-*  động từ
-- lừa phỉnh, lừa bịp, lừa dối; chơi khăm (ai)
-- giả vờ đóng kịch (để đánh lừa ai)
-*  thán từ
-- nói nhảm nào!, nói bậy nào!, bậy nào!
-@Chuyên ngành kinh tế
--đùi lợn muối và hun khói
+- đánh mạnh, va mạnh, đập mạnh
+=to bash in the lid of a box
++ đập mạnh nắp hộp xuống
+=to bash one's head against something
++ đập đầu vào cái gì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-va đập mạnh
+

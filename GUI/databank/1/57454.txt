@@ -1,14 +1,9 @@
-transmittance	@transmittance
+scratchiness
+	
 * danh từ
-- sự truyền
-- hệ số truyền
-@Chuyên ngành kỹ thuật
--độ truyền qua
--hệ số truyền
--hệ số truyền qua
--năng suất truyền
-@Lĩnh vực: xây dựng
--độ trong (suốt)
--tính trong (suốt)
-@Lĩnh vực: điện tử & viễn thông
--hệ số vô tuyến
+- sự nguệch ngoạc, sự cẩu thả, sự lộn xộn (về chữ viết, tranh vẽ)
+- tình trạng gây tiếng kêu lạo xạo, sin sít (của ngòi bút khi viết)
+- sự linh tinh, sự hỗn tạp (nhóm người...)
+- sự dặm; sự ngứa, làm ngứa; tình trạng làm xước da
+- tình trạng có tiếng kêu lạo xạo, có tiếng rít khi chơi (do đựa hát bị những vết xước trên bề mặt của nó)
+

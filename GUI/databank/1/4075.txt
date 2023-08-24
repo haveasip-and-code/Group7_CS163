@@ -1,8 +1,21 @@
-autogenous	
-@autogenous /ɔ:'tɔdʤinəs/
-*  tính từ
-- (sinh vật học) tự sinh
-- (kỹ thuật) (thuộc) hàn xì=autogenous welding
-+ hàn xì
+idler
+	
+*  danh từ
+- người ăn không ngồi rồi; người lười biếng
+- (kỹ thuật) bánh xe đệm, bánh xe dẫn hướng ((cũng) idle_wheel)
+- (kỹ thuật) Puli đệm ((cũng) idle_pulley)
+- toa (xe lửa) chở hàng đệm
 @Chuyên ngành kỹ thuật
--hàn xì
+-bánh chạy không
+-bánh puli đệm
+-bánh răng
+-bánh răng chủ động
+-bánh xe dẫn hướng
+-bộ chạy không
+-bộ đệm
+-puli căng
+-puli dẫn hướng
+@Lĩnh vực: hóa học & vật liệu
+-con lăn không tải
+-puli nghịch chuyển
+

@@ -1,8 +1,10 @@
-appellation	
-@appellation /,æpe'leiʃn/
+rodman
+	
 *  danh từ
-- tên, tên gọi, danh hiệu
-@Chuyên ngành kinh tế
--danh hiệu
--tên
--tên gọi
+- người câu cá
+@Chuyên ngành kỹ thuật
+-người vác cọc tiêu
+-người vác mia
+@Lĩnh vực: xây dựng
+-người cầm mia
+

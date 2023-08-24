@@ -1,16 +1,23 @@
-conformation	
-@conformation /,kɔnfɔ:'meiʃn/
+hive
+	
 *  danh từ
-- hình thể, hình dáng, thể cấu tạo=the conformation of the land
-+ hình thể đất đai
-- (conformation to) sự thích ứng, sự thích nghi
-- sự theo đúng, sự làm đúng theo
+- tổ ong, đõ ong
+- đám đông, bầy đàn lúc nhúc
+- vật hình tổ ong
+- chỗ đông đúc ồn ào náo nhiệt
+*  ngoại động từ
+- đưa (ong) vào tổ
+- cho (ai) ở nhà một mình một cách ấm cúng thoải mái
+- chứa, trữ (như ong trữ mật trong tổ)
+*  nội động từ
+- vào tổ (ong), sống trong tổ (ong)
+- sống đoàn kết với nhau (như ong)
+!to hive off
+- chia tổ (ong)
+- chia cho một chi nhánh sản xuất một mặt hàng
 @Chuyên ngành kinh tế
--hình dáng
--sự hình thành
-@Chuyên ngành kỹ thuật
--địa hình
--hình thể
-@Lĩnh vực: hóa học & vật liệu
--địa hình địa phương
--hình dạng ngoài
+-bọng ong
+-chia đàn
+-đàn ong
+-nảy nở
+

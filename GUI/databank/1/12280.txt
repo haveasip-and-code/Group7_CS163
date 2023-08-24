@@ -1,25 +1,7 @@
-coupler	
-@coupler /'kʌplə/
-*  danh từ
-- người mắc nối
-- cái mắc nối, bộ nối
-@Chuyên ngành kỹ thuật
--bộ ghép
--bộ ghép nối
--bộ nối
--bộ nối có chốt
--cốt đai
--khớp nối
--khớp nối (truyền động)
--khớp trục
--người móc toa (xe)
--móc nối
--phích cắm
--vòng kẹp
-@Lĩnh vực: điện lạnh
--bộ ghép mạch
-@Lĩnh vực: xây dựng
--bộ nối neo
-@Lĩnh vực: cơ khí & công trình
--khớp (nối)
--móc tự nối (toa xe)
+mellifluent
+	
+*  tính từ
+- ngọt ngào, ngọt như mật, dịu dàng (giọng nói, lời nói)
+=mellifluent words
++ những lời ngọt ngào, những lời đường mật
+

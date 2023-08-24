@@ -1,4 +1,43 @@
-clandestinity	
-@clandestinity /,klændəs'tiniti/ (clandestineness) /klæn'destinis/
+region
+	
 *  danh từ
-- tính chất giấu giếm, tính chất bí mật
+- vùng, miền
+=a mountainous region
++ miền đồi núi
+=the abdominal region
++ (giải phẫu) vùng bụng
+- tầng lớp (quyển khí...)
+- lĩnh vực
+=the region of metaphysics
++ lĩnh vực siêu hình học
+- khoảng
+=this costs in the region of 500d
++ cái đó giá trong khoảng 500 đồng
+!lower (nether) regions
+- địa ngục, âm ti
+!upon regions
+- trời, thiên đường
+@Chuyên ngành kinh tế
+-địa phương
+-khu vực
+-lĩnh vực
+-miền
+-vùng
+-vùng miền
+@Chuyên ngành kỹ thuật
+-đám
+-khoảng
+-khu
+-khu vực
+-lĩnh vực
+-miền
+-phạm vi
+@Lĩnh vực: môi trường
+-lớp (khí quyển)
+@Lĩnh vực: xây dựng
+-miền vùng khoảng
+@Lĩnh vực: toán & tin
+-miền, đăng ký
+-miền, vùng
+-vùng
+

@@ -1,31 +1,4 @@
-promise	@promise /promise/
-*  danh từ
-- lời hứa, điều hứa, điều hẹn ước; sự hứa hẹn
-=to keep to one's promise+ giữ lời hứa
-=to break one's promise+ không giữ lời hứa, bội ước
-=promise of marriage+ sự hứa hôn
-=empty promise+ lời hứa hão, lời hứa suông
-- (nghĩa bóng) triển vọng, hứa hẹn
-=a young man of promise+ một thanh niên có triển vọng
-!land of promise
-- chốn thiên thai, nơi cực lạc
-*  động từ
-- hứa, hứa hẹn, hẹn ước
-=to promise someone something; to promise something to someone+ hứa hẹn ai việc gì
-=this year promises good crops+ năm nay hứa hẹn được mùa
-- làm cho hy vọng; báo hiệu, báo trước
-=the clouds promise rain+ mây nhiều báo hiệu trời mưa
-- (thông tục) đảm bảo, cam đoan
-=I promise you, it will not be so easy+ tôi cam đoan với anh, chuyện ấy sẽ không dễ thế đâu
-!promised land
-- chốn thiên thai, nơi cực lạc
-!to promise oneself something
-- tự dành cho mình trong tương lai cái gì (điều thích thú...)
-!to promise well
-- có triển vọng tốt
-@Chuyên ngành kinh tế
--lời hứa
--sự hứa hẹn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hứa
+conservativeness
+	
+- xem conservatively
+

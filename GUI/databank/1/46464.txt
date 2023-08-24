@@ -1,6 +1,13 @@
-regulated	@Chuyên ngành kỹ thuật
--được điều chỉnh
-@Lĩnh vực: điện lạnh
--đã điều chỉnh
-@Lĩnh vực: đo lường & điều khiển
--được ổn định
+recursion
+	
+- đệ qui
+@Chuyên ngành kỹ thuật
+-lần lặp
+-lặp lại
+-phép đệ quy
+-phép lặp
+@Lĩnh vực: toán & tin
+-đệ quy
+-phép truy hồi
+-sự đệ quy
+

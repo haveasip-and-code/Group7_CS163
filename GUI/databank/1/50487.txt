@@ -1,15 +1,15 @@
-shout	@shout /ʃaut/
-*  danh từ
-- tiếng kêu; sự la hét, sự hò hét
-- (từ lóng) chầu khao
-=it is my shout+ đến chầu tớ khao, đến lượt tớ làm đầu tàu
-*  động từ
-- la hét, hò hét, reo hò
-=to shout at the top of one's voice+ gân cổ lên mà hét
-=to shout for joy+ reo hò vui sướng
-- quát tháo, thét
-=don't shout at me+ đừng quát tôi
-- (từ lóng) khao, thết
-=to shout someone a drink+ khao ai chầu rượu, thết ai chầu rượu
-!to shout down
-- la phản đối, la thét buột (một diễn giả) phải thôi nói
+mainstream
+	
+* danh từ
+- xu hướng/xu thế chủ đạo
+- loại nhạc jaz chẳng phải truyền thống nhưng cũng chẳng hiện đại
+@Chuyên ngành kinh tế
+-khuynh hướng chính
+-trào lưu chính
+-xu thế chủ đạo
+@Chuyên ngành kỹ thuật
+-dòng chính
+-luồng chính
+@Lĩnh vực: toán & tin
+-chủ lưu
+

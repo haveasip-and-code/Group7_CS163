@@ -1,7 +1,5 @@
-ionospheric	
-@ionospheric /ai,ɔnə'sferik/
-*  tính từ
-- (thuộc) tầng điện ly
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--tầng điện ly
+trolleybus
+	
+@Lĩnh vực: ô tô
+-ô tô điện (bánh hơi)
+

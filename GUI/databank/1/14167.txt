@@ -1,10 +1,12 @@
-dehumidify	
-@dehumidify
-* ngoại động từ
-- làm mất sự ẩm ướt trong không khí
+ends
+	
+-các mục đích
 @Chuyên ngành kỹ thuật
--hút ẩm
--khử ẩm
--làm khô
-@Lĩnh vực: điện
--sấy
+@Lĩnh vực: xây dựng
+-điểm thừa
+-tấm ván ngắn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-điểm thừa
+-tấm ván ngắn
+

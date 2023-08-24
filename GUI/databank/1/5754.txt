@@ -1,4 +1,20 @@
-blackball	
-@blackball
-* động từ
-- bỏ phiếu chủ quyết, không bầu cho
+monitoring
+	
+* danh từ
+- sự định phân
+- sự kiểm tra
+- sự kiểm tra định lượng
+- sự ghi thông báo vô tuyến đị 6 n
+@Chuyên ngành kinh tế
+-giám sát (tiếp thị)
+-sự giám sát (tiếp thị)
+-sự kiểm tra liên tục
+@Chuyên ngành kỹ thuật
+-sự định lượng
+-sự giám kiểm
+-sự giám sát
+-sự kiểm tra
+@Lĩnh vực: y học
+-máy theo dõi tình hình bệnh
+-sự phát hiện nhiễm chất phóng xạ
+

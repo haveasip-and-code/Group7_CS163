@@ -1,14 +1,5 @@
-lacquered	@lacquered /'lækəd/
-*  tính từ
-- sơn, quét sơn
-- bóng nhoáng
-@Chuyên ngành kỹ thuật
--được sơn
-@Lĩnh vực: xây dựng
--được phun sơn
--được quét sơn
-@Chuyên ngành kỹ thuật
--được sơn
-@Lĩnh vực: xây dựng
--được phun sơn
--được quét sơn
+trans
+	
+* (viết tắt)
+- (do ai) dịch (translated)
+

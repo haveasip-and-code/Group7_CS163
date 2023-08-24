@@ -1,7 +1,7 @@
-causeless	
-@causeless /'kɔ:zlis/
-*  tính từ
-- không có lý do, vô cớ
+groupoid
+	
+- (đại số) phỏng nhóm
+- metric g. (đại số) phỏng nhóm mêtric|
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--không có nguyên nhân
+-phỏng nhóm
+

@@ -1,9 +1,10 @@
-overvoltage	@Chuyên ngành kỹ thuật
--quá áp
--sự quá điện áp
-@Lĩnh vực: toán & tin
--điện áp quá mức
-@Lĩnh vực: điện
--quá điện áp
-@Lĩnh vực: điện lạnh
--sự quá điện thế
+coercivity
+	
+- (Tech) độ kháng từ, lực kháng từ; tính kháng từ
+@Chuyên ngành kỹ thuật
+-độ kháng
+-độ kháng từ
+-lực kháng
+@Lĩnh vực: điện tử & viễn thông
+-sức lực
+

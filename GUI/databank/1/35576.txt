@@ -1,14 +1,10 @@
-monster	@monster /'mɔnstə/
-*  danh từ
-- quái vật, yêu quái
-- con vật khổng lồ (như giống voi khổng lồ thời tiền sử)
-- (nghĩa bóng) người tàn bạo, người quái ác; người gớm guốc
-=a monster of cruelty+ một người vô cùng tàn bạo, một con quỷ độc ác
-- quái thai
+hacking
+	
 *  tính từ
-- to lớn, khổng lồ
-=a monster ship+ một chiếc tàu khổng l
+- khan (ho)
+=a hacking cough
++ chứng ho khan
 @Chuyên ngành kỹ thuật
--quái vật
-@Lĩnh vực: y học
--quái thai
+-vết khía
+-vết rạch
+

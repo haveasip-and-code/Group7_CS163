@@ -1,6 +1,16 @@
-headset	
-@headset /'hedset/
-*  danh từ
-- bộ ống nghe (điện đài)
+validate
+	
+*  ngoại động từ
+- làm cho có giá trị, làm cho có hiệu lực, làm cho hợp lệ; phê chuẩn
+@Chuyên ngành kinh tế
+-công nhận có giá trị
+-làm cho có hiệu lực
+-làm cho được hữu hiệu
 @Chuyên ngành kỹ thuật
--ống choàng đầu
+-hợp thức hóa
+-làm hợp lệ
+-phê chuẩn
+-phê duyệt
+@Lĩnh vực: xây dựng
+-kiểm nhận
+

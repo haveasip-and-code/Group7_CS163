@@ -1,8 +1,7 @@
-typology	@typology
-* danh từ
-- loại hình học
-- hệ thống các kiểu hình, hệ thống các loại hình
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--điển hình luận
--kiểu loại học
+expectance
+	
+*  danh từ
+- tình trạng mong chờ, tình trạng ngóng chờ, tình trạng trông mong
+- triển vọng (có thể có cái gì...)
+- tuổi thọ dự tính
+

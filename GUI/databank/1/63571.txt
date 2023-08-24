@@ -1,9 +1,14 @@
-zephyr	@zephyr /'zefə/
-*  danh từ
-- gió tây
-- (thơ ca) gió mát, gió hiu hiu, gió nhẹ
-- vải xêfia (một thứ vải mỏng nhẹ)
-- (thể dục,thể thao) áo thể thao, áo vận động viên (loại mỏng)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--gió tây
+trendy
+	
+* tính từ
+- <thgt> hợp thời trang, rất mốt, chạy theo mốt
+- <thgt> thức thời
+* danh từ
+- người chạy theo mốt
+- <thgt> người rởm đời
+@Chuyên ngành kinh tế
+-đúng mốt
+-kiểu mới nhất
+-thời thượng
+-thời thượng, đúng mốt, kiểu mới nhất
+

@@ -1,5 +1,43 @@
-influences	
+unit
+	
+*  danh từ
+- một, một cái
+- đơn vị
+=a unit of length
++ đơn vị đo chiều dài
+=a unit of weight
++ đơn vị trọng lượng
+=a monetary unit
++ đơn vị tiền tệ
+=magnetic unit
++ đơn vị từ
+=a combat unit
++ đơn vị chiến đấu
+@Chuyên ngành kinh tế
+-đoạn
+-đơn vị
+-đơn vị đo lường
+-hệ thống
+-lớp
+-ngăn
+-thiết bị
 @Chuyên ngành kỹ thuật
--sự ảnh hưởng
--sự tác động
--sự tác dụng
+-bộ
+-bộ phận
+-bộ phận máy
+-chi tiết
+-cơ quan
+-cụm
+-đơn vị
+-đơn vị thiết bị
+-dụng cụ
+-dụng cụ đo
+-hệ thống thiết bị
+-khối
+-linh kiện
+-nhóm
+-máy
+-tờ
+@Lĩnh vực: xây dựng
+-công trình riêng lẻ
+

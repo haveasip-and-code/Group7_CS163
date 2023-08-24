@@ -1,2 +1,31 @@
-mis	@mis
-- hệ thông tin quản lý, hệ quản lý nhân sự
+behaviour
+	
+*  danh từ
+- thái độ, cách đối xử; cách cư xử, cách ăn ở; tư cách đạo đức
+=good behaviour
++ tư cách đạo đức tốt
+- cách chạy (máy móc); tác động (chất...)
+!to be one's good (best) behaviour
+- gắng có thái độ tốt, gắng đối xử tốt; hết sức thận trọng giữ gìn trong cách đối xử sao cho đúng đắn
+!to put someone on his best behaviour
+- tạo điều kiện cho ai có thể tu tỉnh lại
+@Chuyên ngành kinh tế
+-cách ứng xử (của khách hàng)
+-hành vi
+-thái độ
+@Chuyên ngành kỹ thuật
+-chế độ
+-dáng điệu
+-động thái
+-hành vi
+-sự biến diễn
+-sự làm việc
+-tác động
+-tính chất
+-tính năng
+@Lĩnh vực: toán & tin
+-cách đối xử
+-thái độ
+@Lĩnh vực: xây dựng
+-sự đối xử
+

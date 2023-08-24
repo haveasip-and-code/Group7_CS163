@@ -1,16 +1,22 @@
-lapidary	@lapidary /'læpidəri/
-*  tính từ
-- (thuộc) đá
-- (thuộc) nghệ thuật chạm trổ đá, (thuộc) nghệ thuật khắc ngọc
-- ngắn gọn (văn phong)
-*  danh từ
-- thợ mài, thợ khắc ngọc
-- (từ Mỹ,nghĩa Mỹ) thuật mài ngọc
+integrate
+	
+*  ngoại động từ
+- hợp thành một thể thống nhất, bổ sung thành một thể thống nhất, hợp nhất
+- chỉ tổng số, chỉ giá trị trung bình của
+- (toán học) tích phân
+- (từ Mỹ,nghĩa Mỹ) hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)
+- (từ Mỹ,nghĩa Mỹ) mở rộng cho mọi người, mở rộng cho mọi chủng tộc
+- (từ Mỹ,nghĩa Mỹ) dành quyền bình đẳng cho (một chủng tộc...)
+*  nội động từ
+- hợp nhất
+- (từ Mỹ,nghĩa Mỹ) hợp lại thành một hệ thống thống nhất (những cái trước kia bị sự phân biệt chủng tộc tách ra)
+- (từ Mỹ,nghĩa Mỹ) được mở rộng cho mọi người, được mở rộng cho mọi chủng tộc
+- (từ Mỹ,nghĩa Mỹ) hoà hợp và trở thành một bộ phận của nền văn hoá chính
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thợ khắc đá
--thuộc đá
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thợ khắc đá
--thuộc đá
+-làm thành nguyên
+-tích phân
+@Lĩnh vực: toán & tin
+-hợp nhất lại
+-làm tròn (thành nguyên)
+-lấy tích phân
+

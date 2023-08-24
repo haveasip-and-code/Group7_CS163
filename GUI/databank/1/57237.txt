@@ -1,8 +1,8 @@
-trackball	@trackball
-- quả cầu đánh dấu, bóng xoay
+tillable
+	
+*  tính từ
+- có thể trồng trọt cày cấy được (đất...)
 @Chuyên ngành kỹ thuật
--bóng xoay
-@Lĩnh vực: toán & tin
--bi xoay (ở chuột máy tính)
-@Lĩnh vực: điện lạnh
--bi xoay (ở máy tính)
+@Lĩnh vực: cơ khí & công trình
+-có thể canh tác
+

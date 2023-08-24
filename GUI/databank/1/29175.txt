@@ -1,16 +1,4 @@
-intensity	
-@intensity /in'tensiti/
-*  danh từ
-- độ mạnh, cường độ
-- sức mạnh; tính mãnh liệt, tính dữ dội
-- sự xúc cảm mãnh liệt
-@Chuyên ngành kinh tế
--cường độ
--độ mạnh
-@Chuyên ngành kỹ thuật
--cường độ, cấp bão
--cường độ, cấp gió
--độ lớn
--mật độ
-@Lĩnh vực: xây dựng
--độ mạnh
+nonhygroscopic
+	
+-không hút ẩm
+

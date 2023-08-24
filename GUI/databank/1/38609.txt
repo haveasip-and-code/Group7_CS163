@@ -1,8 +1,21 @@
-outstation	@outstation
-* danh từ
-- tiền đồn; trạm ở xa, trạm tiền tiêu
+opposition
+	
+*  danh từ
+- sự đối lập, sự đối nhau
+- vị trị đối nhau
+- sự chống lại, sự chống cự, sự phản đối
+=to offer a determined opposition
++ chống cự một cách kiên quyết
+- (the opposition) đảng đối lập chính (ở Anh)
+- phe đối lập
 @Chuyên ngành kỹ thuật
--trạm đầu cuối
-@Lĩnh vực: điện tử & viễn thông
--đài ngoài
--trạm ngoài
+-đối chiếu
+-đối lập
+-sự phản biện
+@Lĩnh vực: toán & tin
+-sự đối lập
+@Lĩnh vực: điện lạnh
+-sự đối nhau
+-sự ngược nhau
+-sự xung đối
+

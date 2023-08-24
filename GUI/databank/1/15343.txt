@@ -1,22 +1,7 @@
-digestion	
-@digestion /di'dʤestʃn/
-*  danh từ
-- sự tiêu hoá; khả năng tiêu hoá=hard of digestion
-+ khó tiêu=a weak (sluggish) digestion
-+ khả năng tiêu hoá kém=a good digestion
-+ khả năng tiêu hoá tốt
-- sự hiểu thấu, sự lĩnh hội, sự tiêu hoá (những điều đã học...)
-- sự ninh, sự sắc
-@Chuyên ngành kinh tế
--sự đồng hóa được
--sự hầm
--sự ninh hầm
--sự tiêu hóa
-@Chuyên ngành kỹ thuật
--chưng
--hấp
--sự nấu
--sự nấu nhừ
--sự tiêu hủy
-@Lĩnh vực: hóa học & vật liệu
--tiêu hoá/ thủy phân
+zeroing
+	
+@Lĩnh vực: xây dựng
+-sự đặt (máy) ở số không
+@Lĩnh vực: điện
+-sự đưa về không
+

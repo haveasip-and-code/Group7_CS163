@@ -1,6 +1,14 @@
-polyembryony	@polyembryony
-* danh từ
-- (sinh vật học) hiện tượng nhiều phôi
+extensible
+	
+*  tính từ
+- có thể duỗi thẳng ra; có thể đưa ra
+- có thể kéo dài ra, có thể gia hạn; có thể mở rộng
+- (pháp lý) có thể bị tịch thu
+@Chuyên ngành kinh tế
+-có thể giãn nở
+-có thể kéo dài
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự sinh nhiều phôi
+-giãn được
+@Chuyên ngành kỹ thuật
+-giãn được
+

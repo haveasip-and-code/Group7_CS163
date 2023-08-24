@@ -1,7 +1,5 @@
-salad	@salad /'sæləd/
-*  danh từ
-- rau xà lách
-- món rau trộn dầu giấm
-@Chuyên ngành kinh tế
--rau xalat trộn giấm
--xalat
+empanel
+	
+*  ngoại động từ
+- đưa vào danh sách (thẩm phán...)
+

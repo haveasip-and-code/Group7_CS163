@@ -1,9 +1,11 @@
-diapason	
-@diapason /,daiə'peisn/
+luminosity
+	
 *  danh từ
-- (âm nhạc) tầm âm
-- (âm nhạc) âm thoa, thanh mẫu
-- tầm, phạm vi, trình độ, giới hạn
+- tính sáng, độ sáng, độ trưng
 @Chuyên ngành kỹ thuật
--âm thoa
--phạm vi
+-độ chiếu sáng
+-độ phát sáng
+-độ sáng
+-độ trưng
+-hiệu suất sáng
+

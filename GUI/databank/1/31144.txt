@@ -1,39 +1,6 @@
-knurl	@knurl /nə:l/
-*  danh từ
-- dầu mấu, chỗ u lên, chỗ lồi lên
-- núm xoay (ở máy chữ)
-- (kỹ thuật) khía; cục nổi tròn (ở kim loại)
-@Chuyên ngành kỹ thuật
--cán
--con lăn
--làm cho thô ráp
--lăn
--lăn vân
--mắt (gỗ)
-@Lĩnh vực: xây dựng
--cán lăn
-@Lĩnh vực: cơ khí & công trình
--núm (xoay) có khía
--sự cán vân
--sự lăn vân
--vân cán lăn
--vân khía
-@Lĩnh vực: ô tô
--tạo khía
-@Chuyên ngành kỹ thuật
--cán
--con lăn
--làm cho thô ráp
--lăn
--lăn vân
--mắt (gỗ)
-@Lĩnh vực: xây dựng
--cán lăn
-@Lĩnh vực: cơ khí & công trình
--núm (xoay) có khía
--sự cán vân
--sự lăn vân
--vân cán lăn
--vân khía
-@Lĩnh vực: ô tô
--tạo khía
+uncoffined
+	
+* tính từ
+- chưa bỏ vào áo quan, chưa bỏ vào quan tài
+- lấy ra khỏi áo quan, lấy ra khp 3 i quan tài
+

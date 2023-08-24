@@ -1,12 +1,9 @@
-enervation	
-@enervation /,enə:'veiʃn/
+grove
+	
 *  danh từ
-- sự làm yếu, sự làm suy yếu
+- lùm cây, khu rừng nhỏ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cắt dây thần kinh
--yếu ớt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cắt dây thần kinh
--yếu ớt
+-lùm cây
+@Lĩnh vực: cơ khí & công trình
+-khu rừng nhỏ
+

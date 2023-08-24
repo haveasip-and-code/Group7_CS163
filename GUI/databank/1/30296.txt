@@ -1,4 +1,55 @@
-jape	
-@jape /dʤeip/
+thing
+	
 *  danh từ
-- (văn học) nói đùa; nói giễu
+- cái, đồ, vật, thứ, thức, điều, sự, việc, món
+=expensive things
++ những thứ đắt tiền
+- đồ dùng, dụng cụ
+=the things
++ bộ đồ trà
+- đồ đạc, quần áo...
+=put your things on and come for a walk
++ anh hãy mặc quần áo vào rồi đi chơi
+- vấn đề, điều, công việc, sự việc, chuyện
+=there's another thing I want to ask you about
++ còn một vấn đề nữa tôi muốn hỏi anh
+=that only makes things worse
++ cái đó chỉ làm cho tình hình xấu hơn, cái đó chỉ làm cho sự việc rắc rối hơn
+=you take things too seriously
++ anh quá quan hoá vấn đề
+=the best thing to do is...
++ điều đó tốt nhất là...
+=that is quite a different thing
++ đó là một việc hoàn toàn khác
+=I have a lot of things to do
++ tôi có một lô công việc phải làm
+- người, sinh vật
+=poor little thing!
++ tội nghiệp thằng bé!
+=you silly thing!
++ cậu thật là ngốc
+=dumb things
++ thú vật, súc vật
+- (pháp lý) của cải, tài sản
+=things personal
++ động sản
+- mẫu, vật mẫu, thứ, kiểu
+=it is the newest thing out
++ đây là kiểu (thứ) mới nhất
+=it's quite the thing
++ thật đúng kiểu, thật đúng mốt
+!above all things
+- trên hết
+!as a general thing
+- thường thường, nói chung
+!to know a thing or two
+- có kinh nghiệm, láu
+!to look (feel) quite the thing
+- trông ra vẻ (cảm thấy) khoẻ mạnh
+!to make a good thing out of something
+- kiếm chác được ở cái gì
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-điều
+-thứ
+

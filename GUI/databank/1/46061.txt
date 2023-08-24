@@ -1,9 +1,10 @@
-recreate	@recreate /'rekrieit/
-*  ngoại động từ
-- làm giải khuây
-=it recreates him to play chess with his neighbours+ đánh cờ với các người láng giếng làm anh ta giải khuây
-=to recreate oneself+ giải lao, giải trí, tiêu khiển
-@Chuyên ngành kỹ thuật
--tạo lại
+adding
+	
+-cộng
+-pha
+-sự bổ sung
+-sự thêm vào
+-thêm
 @Lĩnh vực: toán & tin
--khôi phục lại
+-sự cộng
+

@@ -1,15 +1,5 @@
-liming	@Chuyên ngành kinh tế
--sự hóa vôi
--sự làm trong (đường)
-@Chuyên ngành kỹ thuật
--sự làm sạch
--sự làm trong
-@Lĩnh vực: xây dựng
--sự thấm vôi
--sự tôi vôi
-@Chuyên ngành kỹ thuật
--sự làm sạch
--sự làm trong
-@Lĩnh vực: xây dựng
--sự thấm vôi
--sự tôi vôi
+conduplicate
+	
+*  tính từ
+- (thực vật học) gập đôi (lá, cánh hoa)
+

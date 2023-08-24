@@ -1,64 +1,8 @@
-card	
-@card /kɑ:d/
-*  danh từ
-- các, thiếp, thẻ=calling card
-+ danh thiếp=card of admission
-+ thẻ ra vào, thẻ vào cửa=invitation card
-+ thiếp mời
-- quân bài, bài ((cũng) playing card)
-- (số nhiều) sự chơi bài=a pack of cards
-+ một cỗ bài=trump card
-+ quân bài chủ
-- chương trình (cuộc đua...)
-- bản yết thị
-- (từ Mỹ,nghĩa Mỹ) quảng cáo (trên báo)
-- (từ cổ,nghĩa cổ), hải la bàn ((cũng) mariner's card)
-- (thông tục) người kỳ quặc; thằng cha, gã=a knowing card
-+ một thằng cha láu=a queer card
-+ một thằng cha kỳ quặc!to have a card up one's sleeve
-- còn nắm bài chủ trong tay; có kế dự phòng!to have (hold) the cards in one's hands
-- có tất cả bài chủ trong tay; (nghĩa bóng) có tất cả yếu tố thắng lợi trong tay!house of cards
-- (xem) house!on (in) the cards
-- có thể, có lẽ!one's best (trump) cards
-- lý lẽ vững nhất; lá bài chủ (nghĩa bóng)!to play one's card well
-- chơi nước bài hay ((nghĩa đen) & (nghĩa bóng))!to play a sure card
-- chơi nước chắc ((nghĩa đen) & (nghĩa bóng))!to play a wrong card
-- chơi nước bài bớ, chơi nước bài sai lầm ((nghĩa đen) & (nghĩa bóng))!to play (lay, place) one's card on the table
-- nói rõ hết ý định, nói rõ hết kế hoạch không cần úp mở giấu giếm!to show one's card
-- để lộ kế hoạch!to speak by the card
-- nói rành rọt, nói chính xác!that's the card
-- (thông tục) đúng thế, thế là đúng, thế là phải!to throw (fling) up one's card
-- bỏ cuộc, chịu thua không chơi nữa
-*  danh từ
-- bàn chải len, bàn cúi
-*  ngoại động từ
-- chải (len...)
-@Chuyên ngành kinh tế
--đưa vào phiếu
--ghi vào thẻ
--phiếu
--thẻ
+germanium
+	
+- (Tech) gecmani (Ge, số nguyên tử 32)
 @Chuyên ngành kỹ thuật
--bàn chải
--bản đồ
--bảng
--bìa
--bìa đục lỗ
--chải
--phiếu
-@Lĩnh vực: cơ khí & công trình
--bàn chùi (bằng len)
--biểu đỡ
-@Lĩnh vực: toán & tin
--cạc bìa
--phiếu tính có lỗ
--quân bài
--tấm bìa
--tấm mạch
-@Lĩnh vực: dệt may
--chải thô
-@Lĩnh vực: xây dựng
--hoa hồng chỉ hướng
-@Lĩnh vực: điện
--vào phiếu
--vào thẻ
+-Ge
+@Lĩnh vực: hóa học & vật liệu
+-nguyên tố germani
+

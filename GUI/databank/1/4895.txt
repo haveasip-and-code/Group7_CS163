@@ -1,7 +1,8 @@
-baths	
+radionuclide
+	
+* danh từ
+- nuclit phóng xạ
 @Chuyên ngành kỹ thuật
--buồng tắm
--nhà tắm
--sự nhúng
--sự tắm
--sự tẩm
+@Lĩnh vực: vật lý
+-nuclit phóng xạ
+

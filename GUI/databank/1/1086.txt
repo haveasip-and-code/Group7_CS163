@@ -1,3 +1,10 @@
-affixable	
-@affixable
-- xem affix
+industrial
+	
+*  tính từ
+- (thuộc) công nghiệp
+@Chuyên ngành kinh tế
+-chứng khoán công nghiệp
+-thuộc công nghiệp
+-thuộc về nghề nghiệp
+-thuộc về sức lao động
+

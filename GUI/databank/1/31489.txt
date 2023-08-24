@@ -1,11 +1,8 @@
-lanthanide	@lanthanide
-* danh từ
-- (hoá học) bất cứ nguyên tố nào trong 15 nguyên tố thuộc các loại đất hiếm, có số lượng nguyên tử từ 57 (lanthanum) đến 71 (lutetium)
-@Chuyên ngành kỹ thuật
--lantanit
-@Lĩnh vực: điện lạnh
--họ lantan
-@Chuyên ngành kỹ thuật
--lantanit
-@Lĩnh vực: điện lạnh
--họ lantan
+primitively
+	
+* phó từ
+- nguyên thuỷ, ban sơ
+- thô sơ, cổ xưa
+- gốc (từ, mẫu)
+- <toán><địa> nguyên thủy
+

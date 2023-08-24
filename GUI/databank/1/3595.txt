@@ -1,36 +1,12 @@
-assembly	
-@assembly /ə'sembli/
-*  danh từ
-- cuộc họp
-- hội đồng=the national assembly
-+ quốc hội
-- hội nghị lập pháp; (Mỹ) hội đồng lập pháp (ở một số bang)
-- (quân sự) tiếng kèn tập hợp
-- (kỹ thuật) sự lắp ráp; bộ phận lắp ráp
+agar
+	
+*danh từ
+-  xem agar
+-agar
 @Chuyên ngành kinh tế
--bộ phận lắp ráp
--cuộc họp
--hội đồng
--hội nghị lập pháp
--sự lắp ráp
--việc lắp ráp
+-thạch trắng
 @Chuyên ngành kỹ thuật
--bộ
--bộ phận
--hệ (thống) thiết bị
--hệ thống
--hợp thể
--khối
--lắp ráp
--nhóm
--máy liên hợp
--sự ghép
--sự lắp
--sự lắp ráp
--sự tập hợp
--tổ máy
-@Lĩnh vực: ô tô
--cụm chi tiết
--quá trình lắp ráp
-@Lĩnh vực: cơ khí & công trình
--máy tổ chức
+@Lĩnh vực: hóa học & vật liệu
+-chất làm đông aga
+-thạch trắng
+

@@ -1,10 +1,13 @@
-crystallite	
-@Chuyên ngành kinh tế
--mầm tinh thể
--vi tinh thể
+paired
+	
+- thành cặp, thành đôi
 @Chuyên ngành kỹ thuật
--vi tinh thể
-@Lĩnh vực: hóa học & vật liệu
--mầm tinh thể
 @Lĩnh vực: điện lạnh
--tinh thể hạt nhỏ
+-đã ghép thành cặp
+@Lĩnh vực: toán & tin
+-thành cặp
+-thành cặp, thành đôi
+-thành đôi
+@Lĩnh vực: xây dựng
+-từng đôi
+

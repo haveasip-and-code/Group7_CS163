@@ -1,3 +1,4 @@
-abbreviate	
-@abbreviate
-- (Tech) rút gọn; viết tắt
+hosts
+	
+-máy chủ
+

@@ -1,5 +1,10 @@
-hirer	
+pub
+	
+*  danh từ,  (thông tục) (viết tắt) của public house
+- quán rượu, tiệm rượu
+- quán trọ, quán ăn
 @Chuyên ngành kinh tế
--chủ thuê
--người mua trả góp
--người thuê
+-quán ăn
+-quán rượu
+-quán trọ
+

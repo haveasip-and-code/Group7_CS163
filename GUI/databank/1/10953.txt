@@ -1,9 +1,25 @@
-condemnation	
-@condemnation /,kɔndem'neiʃn/
-*  danh từ
-- sự kết án, sự kết tội, sự xử phạt
-- sự chỉ trích, sự chê trách, sự lên án, sự quy tội
-- lý do để lên án
+include
+	
+*  ngoại động từ
+- bao gồm, gồm có
+=his conclusion includes all our ideas
++ kết luận của ông ta bao gồm tất cả ý kiến của chúng tôi
+- tính đến, kể cả
 @Chuyên ngành kinh tế
--định tội
--sự kết án
+-bao gồm
+-bao quát
+@Chuyên ngành kỹ thuật
+-bao gồm
+-bao hàm
+-chèn
+-chứa
+-đưa vào
+-được cài đặt sẵn
+-vây quanh
+@Lĩnh vực: toán & tin
+-chứa trong
+@Lĩnh vực: xây dựng
+-gồm có
+-gộp vào
+-rào quanh
+

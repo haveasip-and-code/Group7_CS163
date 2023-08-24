@@ -1,21 +1,10 @@
-proposal	@proposal /proposal/
+devitrification
+	
 *  danh từ
-- sự đề nghị, sự đề xuất
-- điều đề nghị, dự kiến đề nghị, kế hoạch đề xuất
-- sự cầu hôn
-=to have had many proposals+ đã có nhiều người cầu hôn
-@Chuyên ngành kinh tế
--đề nghị
--đơn xin bảo hiểm
--giấy đề nghị
--giấy yêu cầu
--kiến nghị
+- sự hoá mờ (thuỷ tinh)
 @Chuyên ngành kỹ thuật
--đề nghị
--sự đấu thầu
--sự đề nghị
--sự gọi thầu
+-sự hóa mờ
+-sự mất trong
 @Lĩnh vực: xây dựng
--người ứng thầu
-@Lĩnh vực: cơ khí & công trình
--sự đề xuất
+-sự mờ đục
+

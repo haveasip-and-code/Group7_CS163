@@ -1,3 +1,56 @@
-chinky	
+help
+	
+*  danh từ
+- sự giúp đỡ, sự cứu giúp, sự giúp ích
+=to need someone's help
++ cần sự giúp đỡ của ai
+=to give help to someone
++ giúp đỡ ai
+=to cry (call) for help
++ kêu cứu, cầu cứu
+=help! help!
++ cứu (tôi) với! cứu (tôi) với
+=by help of
++ nhờ sự giúp đỡ của
+=it is a great help
++ cái đó giúp ích được rất nhiều
+- phương cứu chữa, lối thoát
+=there is no help for it
++ chuyện này thật vô phương cứu chữa
+- phần đưa mời (đồ ăn, đồ uống)
+- (từ Mỹ,nghĩa Mỹ) người làm, người giúp việc trong nhà
+=lady help
++ người giúp việc bà chủ nhà
+=mother's help
++ bà bảo mẫu
+*  ngoại động từ
+- giúp đỡ, cứu giúp
+=to someone out of a difficulty
++ giúp ai ra khỏi hoàn cảnh khó khăn
+=to help someone across a stream
++ giúp ai đi qua dòng suối
+- đưa mời (đồ ăn, thức uống)
+=let me help you to some more wine
++ xin cho phép tôi rót thêm rượu vang ông xơi
+=help yourself
++ xin mời ông xơi
+- nhịn được, ngăn được, chịu được, đừng được; tránh được, cứu chữa
+=I could not help laughing
++ tôi không thể nào nhịn được cười
+=I could not help it
++ tôi không thể nào đừng được, tôi không thể nào làm khác được
+=it can't be helped
++ thật là vô phương, không còn cách gì cứu chữa được nữa
+=don't be longer more than you can help
++ chừng nào có thể đừng được thì tránh ở lâu; tránh ở lâu chừng nào hay chừng ấy
+@Chuyên ngành kinh tế
+-sự giúp đỡ
 @Chuyên ngành kỹ thuật
--có khe
+-hỗ trợ
+@Lĩnh vực: xây dựng
+-giúp
+@Lĩnh vực: toán & tin
+-phần hướng dẫn
+-phần trợ giúp
+-trợ giúp
+

@@ -1,33 +1,5 @@
-institution	
-@institution /,insti'tju:ʃn/
-*  danh từ
-- sự thành lập, sự lập
-- sự mở (một cuộc điều tra)
-- cơ quan; trụ sở cơ quan
-- thể chế
-- (thông tục) người quen thuộc, người nổi danh; tổ chức quen thuộc, tổ chức nổi danh
-- (tôn giáo) tổ chức hội (từ thiện...)
-@Chuyên ngành kinh tế
--chế định
--chế độ
--cơ quan
--cơ sở
--định chế
--kiến tập
--quán lệ
--quy định
--sự thành lập một tổ chức
--tập tục
--thể chế
--thiết lập
-@Chuyên ngành kỹ thuật
--cơ quan
--công sở
--đơn vị
--trường đại học
--viện nghiên cứu
-@Lĩnh vực: xây dựng
--học viện
-@Lĩnh vực: toán & tin
--sự thành lập
--thể chế
+broadloom
+	
+* danh từ
+- thảm dệt khổ rộng
+

@@ -1,12 +1,33 @@
-regrinding	@Chuyên ngành kinh tế
--sự làm mịn lại
--sự nghiền lại
+elimination
+	
+*  danh từ
+- sự loại ra, sự loại trừ
+- (sinh vật học) sự bài tiết
+- sự lờ đi
+- (toán học) sự khử
+- sự rút ra (yếu tố...)
+- (thể dục,thể thao) cuộc đấu loại
+@Chuyên ngành kinh tế
+-sự làm sạch
+-sự loại bỏ
 @Chuyên ngành kỹ thuật
--sự mài lại
--sự mài nghiền
--sự mài sắc lại
--sự nghiền lại
-@Lĩnh vực: cơ khí & công trình
--sự mài xupap lại
-@Lĩnh vực: hóa học & vật liệu
--sự tán lại
+-bài tiết
+-khử
+-phép khử
+-sự bỏ
+-sự khử
+-sự loại bỏ
+-sự loại trừ
+-tách ra
+-thải ra
+@Chuyên ngành kỹ thuật
+-bài tiết
+-khử
+-phép khử
+-sự bỏ
+-sự khử
+-sự loại bỏ
+-sự loại trừ
+-tách ra
+-thải ra
+

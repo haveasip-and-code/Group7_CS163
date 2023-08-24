@@ -1,7 +1,24 @@
-anticyclonic	
-@anticyclonic /'æntisai'klɔnik/
-*  tính từ
-- (thuộc) xoáy nghịch
+quanta
+	
+*  danh từ,  số nhiều quanta
+- phần, mức, ngạch; lượng, định lượng
+=to fix the quantum of damages
++ định mức thường thiệt hại
+=to have one's quantum of
++ đã được dự phần, đã được hưởng phần
+- (vật lý) lượng tử
+=light quantum
++ lượng tử ánh sáng
+=energy quantum
++ lượng tử năng lượng
+- (định ngữ) (vật lý) (thuộc) lượng tử
+=quantum theory
++ thuyết lượng tử
+=quantum effect
++ hiệu ứng lượng tử
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--xoáy nghịch
+@Lĩnh vực: điện tử & viễn thông
+-lượng tử
+@Lĩnh vực: điện
+-ngạch số
+

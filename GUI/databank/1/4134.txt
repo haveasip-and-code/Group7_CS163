@@ -1,8 +1,12 @@
-autotransformer	
-@autotransformer
-- (Tech) máy biến áp tự ngẫu, máy tự biến áp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--biến áp tự ngẫu
-@Lĩnh vực: điện lạnh
--máy tự biến áp
+backflow
+	
+-dòng chảy ngược
+-dòng chảy vật
+-dòng ngược
+@Lĩnh vực: y học
+-chứng ợ
+-sự chảy ngược dòng
+@Lĩnh vực: xây dựng
+-đảo lưu
+-hồi lưu
+

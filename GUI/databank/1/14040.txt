@@ -1,14 +1,4 @@
-deferred	
-@deferred
-* tính từ
-- bị hoãn lại
-@Chuyên ngành kinh tế
--bị hoãn lại
-@Chuyên ngành kỹ thuật
--được tạm hoãn
--được trì hoãn
--hoãn
-@Lĩnh vực: đo lường & điều khiển
--bị trì hoãn
-@Lĩnh vực: giao thông & vận tải
--trả chậm
+premeditative
+	
+- xem premeditate
+

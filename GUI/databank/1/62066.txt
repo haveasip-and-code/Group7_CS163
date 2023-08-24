@@ -1,8 +1,9 @@
-vocabulary	@vocabulary /və'kæbjuləri/
+inoffensiveness
+	
 *  danh từ
-- (ngôn ngữ học) từ vựng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bảng từ vựng
-@Lĩnh vực: xây dựng
--vốn từ
+- tính không có hại; tính vô thưởng vô phạt
+- tính không làm mếch lòng; tính không có gì đáng chê trách
+@Chuyên ngành kinh tế
+-tính không có mùi
+-tính vô hại
+

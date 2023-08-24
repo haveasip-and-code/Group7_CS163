@@ -1,9 +1,9 @@
-dormancy	
-@dormancy /'dɔ:mənsi/
+stemmer
+	
 *  danh từ
-- tình trạng ngủ ((nghĩa đen) & (nghĩa bóng))
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tình trạng im lìm (của vi khuẩn)
--tình trạng ngủ
--trạng thái tiềm sinh
+- người tước cuống, người tước cọng lá thuốc lá
+@Chuyên ngành kinh tế
+-máy tách cuống
+-máy tách rễ quả
+-máy tước cọng
+

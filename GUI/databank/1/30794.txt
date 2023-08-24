@@ -1,7 +1,9 @@
-keeps	
+amalgam
+	
+*  danh từ
+- (hoá học) hỗn hống
+- vật hỗn hợp (nghĩa đen) & (nghĩa bóng)
 @Chuyên ngành kỹ thuật
--chốt
--nêm
-@Chuyên ngành kỹ thuật
--chốt
--nêm
+-hỗn hống
+-sự hỗn hợp
+

@@ -1,18 +1,12 @@
-lame	@lame /leim/
-*  tính từ
-- què, khập khiễng
-=to be lame of (in) one leg+ què một chân
-=to go lame; to walk lame+ đi khập khiễng
-- không chỉnh, không thoả đáng; què quặt không ra đâu vào đâu
-=a lame argument+ lý lẽ không thoả đáng
-=lame verses+ câu thơ không chỉnh
-=a lame excuse+ lời cáo lỗi không thoả đáng
-=a lame story+ câu chuyện què quặt không ra đâu vào đâu
+unscrew
+	
 *  ngoại động từ
-- làm cho què quặt, làm cho tàn tật
-*  danh từ
-- lá kim loại
+- nới (ốc...) ra, vặn (ốc...) ra
 @Chuyên ngành kỹ thuật
--hỏng
-@Chuyên ngành kỹ thuật
--hỏng
+-nới lỏng (vít)
+-mở bulông ra
+-vặn ra
+-vặn vít
+@Lĩnh vực: hóa học & vật liệu
+-vặn ốc ra
+

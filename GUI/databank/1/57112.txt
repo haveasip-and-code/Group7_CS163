@@ -1,7 +1,6 @@
-totality	@totality /tou'tæliti/
-*  danh từ
-- toàn bộ, tổng số
-- (thiên văn học) thời kỳ nhật (nguyệt) thực toàn phần
-@Chuyên ngành kỹ thuật
--tập hợp
--tổng số
+linter
+	
+* danh từ
+- máy để khử ơ bông
+- (số nhiều) xơ bông
+

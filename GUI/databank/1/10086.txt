@@ -1,15 +1,8 @@
-coding	
-@coding
-- (Tech) biên mã, mã hóa, định mã (d)
-@Chuyên ngành kỹ thuật
--lập trình
--mã hóa
--sự dịch mã
--sự lập chương trình
--sự mã hóa
-@Lĩnh vực: xây dựng
--sự dịch mã hóa
--việc thảo mã
-@Lĩnh vực: toán & tin
--sự lập mã
--viết mã
+invigorator
+	
+*  danh từ
+- người tiếp sinh lực
+- thuốc bổ
+@Chuyên ngành kinh tế
+-chất tăng cường
+

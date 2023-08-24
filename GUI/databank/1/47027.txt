@@ -1,2 +1,12 @@
-rescinding	@Chuyên ngành kinh tế
--để hủy bỏ
+predictor
+	
+*  danh từ
+- người nói trước; người đoán trước, nhà tiên tri
+- (quân sự) máy đo ngầm, máy quan trắc (các định tầm cao, hướng... của máy bay địch để bắn)
+@Chuyên ngành kỹ thuật
+-thủy chí
+@Lĩnh vực: toán & tin
+-biến độc lập (trong dự báo)
+-thiết bị dự báo
+-thiết bị dự báo, biến độc lập (trong dự báo)
+

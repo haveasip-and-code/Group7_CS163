@@ -1,8 +1,11 @@
-unwinding	@Chuyên ngành kỹ thuật
--sự tháo
--sự tháo cuộn
--sự tháo ra
--sự tở cuộn
--sự trải ra
-@Lĩnh vực: xây dựng
--sự dỡ (cuộn dây, cuộn băng...)
+guarantor
+	
+*  danh từ
+- người bảo đảm, người bảo lãnh
+@Chuyên ngành kinh tế
+-bảo lãnh
+-người bảo đảm
+-người bảo lãnh
+@Chuyên ngành kỹ thuật
+-người bảo đảm
+

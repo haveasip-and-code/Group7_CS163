@@ -1,4 +1,7 @@
-predrill	@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--khoan sơ
--khoan thô
+catechism
+	
+* danh từ
+- (tôn giáo) sách giáo lý vấn đáp
+- cách dạy bằng vấn đáp
+- bản câu hỏi
+

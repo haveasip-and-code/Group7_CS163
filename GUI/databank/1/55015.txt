@@ -1,4 +1,27 @@
-sweetened	@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--được làm ngọt
--pha ngọt
+spreader
+	
+*  danh từ
+- người trải ra, người căng (vải...)
+- người rải, người truyền bá, người loan truyền (tin đồn...)
+- con dao để phết (bơ...)
+- máy rải, máy rắc (phân...)
+- cái để căng tách ra (không cho hai sợi dây chập vào nhau...)
+@Chuyên ngành kỹ thuật
+-căng ra
+-giằng
+-máy phết
+-máy rắc
+-máy trải
+-máy trát
+-thanh chống
+-thanh giằng
+@Lĩnh vực: cơ khí & công trình
+-bộ phận mở rộng
+@Lĩnh vực: ô tô
+-cái bay (trét matít)
+@Lĩnh vực: xây dựng
+-máy rải
+-máy rải (nhựa bê tông)
+-máy rải (nhựa, bêtông...)
+-máy rải sỏi (trên mặt đường)
+

@@ -1,12 +1,7 @@
-terrain	@terrain /'terein/
+tegument
+	
 *  danh từ
-- (quân sự),  (địa lý,địa chất) địa thế, địa hình địa vật
+- vỏ
 @Chuyên ngành kỹ thuật
--bãi đất
--bản đồ địa hình
--đất
--đất trồng
--địa hình
--địa thế
--địa vật
--lãnh thổ
+-da
+

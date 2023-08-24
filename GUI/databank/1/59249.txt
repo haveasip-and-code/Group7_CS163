@@ -1,8 +1,32 @@
-underproduction	@underproduction /'ʌndəprə'dʌkʃn/
+sampler
+	
 *  danh từ
-- sự sản xuất dưới mức
+- vải thêu mẫu
+- (kỹ thuật) ống góp, cực góp
 @Chuyên ngành kinh tế
--sự sản xuất không đủ
+-dụng cụ lấy mẫu
+-người chọn mẫu
+-người kiểm định mẫu
+-người kiểm tra mẫu hàng
+-người tra mẫu hàng
+-sự lấy mẫu (hàng hóa)
+-thiết bị lấy mẫu
+-vải thêu mẫu
+-xiên lấy mẫu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--dưới mức sản xuất
+-dụng cụ lấy mẫu
+-dưỡng
+-mẫu
+-máy lấy mẫu
+-mô hình
+-ống lấy mẫu đất
+-ống thu mẫu
+@Lĩnh vực: toán & tin
+-bộ lấy mẫu
+-mạch lấy mẫu
+@Lĩnh vực: xây dựng
+-cực góp
+-mẫu thử nguyên dạng
+@Lĩnh vực: đo lường & điều khiển
+-người lấy mẫu
+

@@ -1,8 +1,27 @@
-gelding	
-@gelding /'geldiɳ/
+excitation
+	
 *  danh từ
-- sự thiến
-- ngựa thiến, súc vật thiến
-@Chuyên ngành kinh tế
--sự thiến
--súc vật thiến
+- sự kích thích
+=atomic excitation
++ (vật lý) sự kích thích nguyên tử
+=radiative excitation
++ (vật lý) sự kích thích bằng bức xạ
+@Chuyên ngành kỹ thuật
+-kích thích
+-lực kích thích
+@Lĩnh vực: xây dựng
+-sự kích rung
+@Lĩnh vực: đo lường & điều khiển
+-sự kích thích
+@Lĩnh vực: điện
+-sự kích từ
+@Chuyên ngành kỹ thuật
+-kích thích
+-lực kích thích
+@Lĩnh vực: xây dựng
+-sự kích rung
+@Lĩnh vực: đo lường & điều khiển
+-sự kích thích
+@Lĩnh vực: điện
+-sự kích từ
+

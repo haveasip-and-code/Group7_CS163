@@ -1,8 +1,7 @@
-experimenter	
-@experimenter /eks'perimentə/
-*  danh từ
-- người thí nghiệm, người thử
-@Chuyên ngành kỹ thuật
--nhà thực nghiệm
-@Chuyên ngành kỹ thuật
--nhà thực nghiệm
+ungreedy
+	
+* tính từ
+- không tham, không tham ăn
+- không tham lam
+- không thèm khát, không tha thiết
+

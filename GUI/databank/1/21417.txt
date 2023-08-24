@@ -1,34 +1,6 @@
-flexion	
-@flexion /flexion/
-*  danh từ
-- sự uốn
-- chỗ uốn
-- (ngôn ngữ học) biến tố
-- (toán học) độ uốn=flexion of a surface
-+ độ uốn của một mặt
-@Chuyên ngành kỹ thuật
--chỗ uốn
--chỗ uốn cong
--độ uốn
--độ vồng
--sự uốn
--sự uốn cong
--sự võng
--uốn
-@Lĩnh vực: xây dựng
--mặt vòng
-@Lĩnh vực: y học
--sự gấp
-@Chuyên ngành kỹ thuật
--chỗ uốn
--chỗ uốn cong
--độ uốn
--độ vồng
--sự uốn
--sự uốn cong
--sự võng
--uốn
-@Lĩnh vực: xây dựng
--mặt vòng
-@Lĩnh vực: y học
--sự gấp
+barnstorm
+	
+* nội động từ
+- đi biểu diễn lang thang
+- <Mỹ> đi nói chuyện; đi vận động chính trị (ở các tỉnh nhỏ, ở nông thôn)
+

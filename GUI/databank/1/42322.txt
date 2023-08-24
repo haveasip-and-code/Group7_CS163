@@ -1,22 +1,14 @@
-polarization	@polarization /,poulərai'zeiʃn/
-*  danh từ
-- sự phân cực, độ phân cực
-=magnetic polarization+ sự phân cực từ
-=nuclear polarization+ sự phân cực hạt nhân
-@Chuyên ngành kinh tế
--sự phân cực
+clinical
+	
+*  tính từ
+- (thuộc) buồng bệnh, ở buồng bệnh, (thuộc) lâm sàng
+=clinical lectures
++ bài giảng ở buồng bệnh
+!clinical record
+- lịch sử bệnh
+!clinical thermometer
+- cái cặp sốt
 @Chuyên ngành kỹ thuật
--độ phân cực
--độ phân cực điện
--sự cực hưởng
--sự phân cực
-@Lĩnh vực: điện tử & viễn thông
--hiện tượng phân cực
-@Lĩnh vực: xây dựng
--kính phân quang
--sự cực hóa
-@Lĩnh vực: hóa học & vật liệu
--phân cực hóa
-@Lĩnh vực: điện lạnh
--sự phân cực (trong điện trường)
--sự phân cực pin
+@Lĩnh vực: y học
+-thuộc lâm sàng
+

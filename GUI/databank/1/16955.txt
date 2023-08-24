@@ -1,4 +1,38 @@
-duellist	
-@duellist /'dju:əlist/
+soil
+	
 *  danh từ
-- người (tham gia cuộc) đọ kiếm tay đôi, người (tham gia cuộc) đọ súng tay đôi
+- đất
+=alluvial soil
++ đất phù sa, đất bồi
+=one's native soil
++ nơi quê cha đất tổ
+- vết bẩn, vết nhơ
+- sự làm nhơ bẩn
+- rác rưởi
+*  ngoại động từ
+- làm bẩn, làm dơ, vấy bẩn
+=I would not soil my hands with it
++ (nghĩa bóng) tôi không muốn nhúng vào việc đó cho bẩn tay
+*  nội động từ
+- dễ bẩn
+=this stuff soils easily
++ vải len này dễ bẩn
+*  ngoại động từ
+- cho (súc vật) ăn cỏ tươi
+@Chuyên ngành kinh tế
+-sự làm bẩn
+-vết bẩn
+@Chuyên ngành kỹ thuật
+-đất
+-đất trồng
+-nước bẩn
+-nước thải trong nhà
+-rác rưởi
+-thổ nhưỡng
+@Lĩnh vực: hóa học & vật liệu
+-chất lỏng thải ra
+@Lĩnh vực: xây dựng
+-đất nền móng
+-sơn lót lớp dậy
+-sơn lót tấm dậy
+

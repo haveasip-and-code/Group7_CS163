@@ -1,65 +1,15 @@
-pool	@pool /pu:l/
-*  danh từ
-- vũng
-- ao; bể bơi (bơi)
-- vực (chỗ nước sâu và lặng ở con sông)
-*  ngoại động từ
-- đào (lỗ) để đóng nêm phá đá
-- đào xới chân (vĩa than...)
-*  danh từ
-- tiền góp; hộp đựng tiền góp (đánh bài)
-- trò đánh cá góp tiền; tiền góp đánh cá
-=football pool+ trò đánh cá bóng đá (ai đoán trúng thì được giải trích ở tiền góp)
-- vốn chung, vốn góp
-- Pun (tổ hợp các nhà kinh doanh hoặc sản xuất để loại trừ sự cạnh tranh lẫn nhau); khối thị trường chung
-- trò chơi pun (một lối chơi bi-a)
-*  ngoại động từ
-- góp thành vốn chung
-- chia phần, chung phần (tiền thu được...)
-@Chuyên ngành kinh tế
--góp (tiền ...) vào vốn chung
--góp (tiền) vào vốn chung
--góp chung lại (vốn hoặc đồ vật)
--hội
--liên đoàn đầu tư (cổ phiếu)
--liên doanh
--nhóm (làm việc chung)
--pun
--pun tổ hợp
--quỹ
--quỹ chung
--quỹ chung của Quỹ Tiền Tệ Quốc tế
--quỹ tập hợp
--tổ
--tổ hợp
--vốn góp
+lewisson
+	
+* danh từ
+- xem lewis
 @Chuyên ngành kỹ thuật
--ao
--bể
--bể (nước)
--bể bơi
--bể chảy kim loại
--bể chứa
--bồn (nước)
--diện tích chứa dầu
--gộp lại
--hợp nhất
--lưu vực
--thùng chứa
--vực (sông)
--vũng
-@Lĩnh vực: xây dựng
--ao tù
--đoạn sông
--hồ, bể
-@Lĩnh vực: điện lạnh
--bể (chứa)
-@Lĩnh vực: điện tử & viễn thông
--bộ trữ
+-bulông móng
 @Lĩnh vực: cơ khí & công trình
--hồ (chứa nước)
-@Lĩnh vực: toán & tin
--số tiền đặt cọc
--vùng chứa, vùng trữ
-@Lĩnh vực: y học
--tích huyết
+-đồ kẹp (cần trục)
+-đồ móc
+@Chuyên ngành kỹ thuật
+-bulông móng
+@Lĩnh vực: cơ khí & công trình
+-đồ kẹp (cần trục)
+-đồ móc
+

@@ -1,6 +1,6 @@
-shiftable	@shiftable
-* tính từ
-- xe dịch được; có thể xê dịch
-@Chuyên ngành kỹ thuật
--có thể di chuyển
--có thể di động
+reguli
+	
+* danh từ
+- số nhiều
+- xem regulus
+

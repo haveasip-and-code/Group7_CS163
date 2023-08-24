@@ -1,4 +1,25 @@
-verbosity	@verbosity /və:'bousnis/ (verbosity) /və:'bɔsiti/
+transition
+	
 *  danh từ
-- tính nói dài
-- tính dài dòng (báo cáo, bài văn...)
+- sự chuyển tiếp, sự quá độ
+=the transition from cold to warm weather
++ sự chuyển tiếp từ tiết lạnh sang tiết nóng
+=to be in a period of transition
++ ở vào thời kỳ quá độ
+- (âm nhạc) sự chuyển giọng
+- (kiến trúc) sự đổi kiểu
+!transition tumour
+- (y học) u có thể tái phát và trở thành ác tính sau khi cắt
+@Chuyên ngành kỹ thuật
+-chuyển tiếp
+-sự biến đổi
+-sự chuyển tiếp
+@Lĩnh vực: xây dựng
+-lớp chuyển tiếp (trong đập đất)
+@Lĩnh vực: điện lạnh
+-sự chuyển (mức)
+-sự chuyển pha
+-sự quá độ
+@Lĩnh vực: toán & tin
+-xác suất truyền
+

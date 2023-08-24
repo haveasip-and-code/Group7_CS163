@@ -1,18 +1,33 @@
-telltale	@telltale /'telteil/
+refusal
+	
 *  danh từ
-- người mách lẻo, người hớt lẻo
-- cái làm lộ chân tướng, cái làm lộ tẩy
-- đồng hồ kiểm tra; thiết bị báo hiệu
-*  tính từ
-- mách lẻo, hớt lẻo
-- (nghĩa bóng) làm lộ chân tướng, làm lộ tẩy
-=telltale blushes+ những cái đỏ mặt làm lộ tẩy
+- sự từ chối, sự khước từ, sự cự tuyệt
+=the refusal of an invitation
++ sự từ chối lời mời
+=to give a flat refusal
++ từ chối thẳng
+=to take no refusal
++ cứ dai dẳng (đeo đẳng) nhất định không để cho bị từ chối
+- quyền ưu tiên (chọn trước nhất)
+=to have the refusal of something
++ có quyền ưu tiên chọn trước nhất cái gì
+=to give someone the refusal of something
++ cho ai quyền ưu tiên được chọn trước nhất giá trị
+@Chuyên ngành kinh tế
+-cự tuyệt
+-cự tuyệt, từ chối
+-quyền tiên mãi
+-quyền từ chối
+-quyền từ chối, quyền mua trước
+-từ chối
 @Chuyên ngành kỹ thuật
--máy báo hiệu
--máy đếm
--máy đo độ cao chất lỏng
--máy ghi
-@Lĩnh vực: cơ khí & công trình
--dụng cụ hiển thị
-@Lĩnh vực: hóa học & vật liệu
--máy chỉ
+-phế thải
+-sự chối bỏ (đăng ký phát minh)
+-sự hỏng hóc
+-sự loại bỏ
+-sự từ chối
+@Lĩnh vực: xây dựng
+-độ chối
+-độ chối của cọc (bật lên trong quá trình đóng cọc)
+-sự ngừng chảy
+

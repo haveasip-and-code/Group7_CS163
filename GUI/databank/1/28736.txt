@@ -1,6 +1,10 @@
-inmate	
-@inmate /'immeit/
+outcome
+	
 *  danh từ
-- người ở cùng (trong một nhà...)
-- người bệnh (nằm trong bệnh viện, nhà thương điên...)
-- người ở tù
+- hậu quả, kết quả
+- (từ Mỹ,nghĩa Mỹ) kết luận lôgic (sau khi suy nghĩ)
+@Chuyên ngành kỹ thuật
+-hậu quả
+-hiệu quả
+-kết quả
+

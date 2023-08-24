@@ -1,11 +1,20 @@
-temperature	@temperature /'tempritʃə/
-*  danh từ
-- nhiệt độ
-=to take someone's temperature+ đo (lấy) độ nhiệt cho ai
-=to have (run) a temperature+ lên cơn sốt
+fathom
+	
+*  danh từ,  số nhiều fathom,  fathoms
+- sải (đơn vị đo chiều sâu, bàng 1, 82 m)
+*  ngoại động từ
+- đo chiều sâu (của nước) bằng sải
+- (nghĩa bóng) tìm hiểu, thăm dò
+- (từ cổ,nghĩa cổ) ôm
 @Chuyên ngành kinh tế
--nhiệt độ
+-đơn vị đo gỗ
+-sải
+-sải (cách đo mực nước)
+-tìm hiểu
 @Chuyên ngành kỹ thuật
--nhiệt độ
-@Lĩnh vực: cơ khí & công trình
--độ nóng
+@Lĩnh vực: đo lường & điều khiển
+-sải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: đo lường & điều khiển
+-sải
+

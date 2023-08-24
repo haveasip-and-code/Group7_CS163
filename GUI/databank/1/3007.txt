@@ -1,10 +1,9 @@
-apposition	
-@apposition /,æpə'ziʃn/
-*  danh từ
-- sự đóng (dấu), sự áp (triện)
-- sự áp đặt vào; sự ghép vào
-- (ngôn ngữ học) phần chêm=in apposition to
-+ là phần chêm của
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự khép, sự áp đặt
+humming
+	
+*  tính từ
+- vo ve, kêu o o (sâu bọ...); kêu rền (máy)
+- (thông tục) hoạt động mạnh
+- (thông tục) mạnh
+=a humming blow
++ cú đấm mạnh
+

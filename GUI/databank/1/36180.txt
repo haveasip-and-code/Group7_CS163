@@ -1,3 +1,6 @@
-myofibril	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sợi nguyên cơ
+clustered
+	
+@Lĩnh vực: điện lạnh
+-thành chùm
+-thành đám
+

@@ -1,14 +1,6 @@
-tripartite	@tripartite /'trai'pɑ:tait/
-*  tính từ
-- giữa ba bên, tay ba
-=a tripartite treaty+ hiệp ước tay ba
-- gồm ba phần
-- (thực vật học) phân ba (phiến lá)
-@Chuyên ngành kinh tế
--giữa ba bên
--gồm ba phần
--tay ba
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--ba phần
--ba thể (rắn, lỏng, hơi)
+protasis
+	
+*  danh từ,  số nhiều protases
+/'prɔtəsi:z/
+- (ngôn ngữ học) mệnh đề điều kiện
+

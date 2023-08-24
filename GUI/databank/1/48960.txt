@@ -1,13 +1,54 @@
-scarification	@scarification /,skeərifi'keiʃn/
+positive
+	
+*  tính từ
+- xác thực, rõ ràng
+=a positive proof
++ một chứng cớ rõ ràng
+- quả quyết, khẳng định, chắc chắn
+=to be positive about something
++ quả quyết về một cái gì
+=a positive answer
++ một câu trả lời khẳng định
+- tích cực
+=a positive factor
++ một nhân tố tích cực
+- tuyệt đối; (thông tục) hoàn toàn, hết sức
+=he is a positive nuisance
++ thằng cha hết sức khó chịu
+- (vật lý); (toán học); (nhiếp ảnh) dương
+=positive pole
++ cự dương
+- (thực vật học) chứng
+=positive philosophy
++ triết học thực chứng
+- (ngôn ngữ học) ở cấp nguyên (chưa so sánh...) (tĩnh từ, phó từ)
+- đặt ra, do người đặt ra
+=positive laws
++ luật do người đặt ra (đối lại với luật tự nhiên)
 *  danh từ
-- (y học) sự rạch nông da; vết rạch nông da
-- (nông nghiệp) sự xới đất bằng máy xới
+- điều xác thực, điều có thực
+- (nhiếp ảnh) bản dương
+- (ngôn ngữ học) cấp nguyên (của tĩnh từ, phó từ); tính từ ở cấp nguyên, phó từ ở cấp nguyên (chưa so sánh)
+@Chuyên ngành kinh tế
+-chắc chắn
+-tích cực
+-xác định
+-xác thực
 @Chuyên ngành kỹ thuật
--sự khía
--sự xới
-@Lĩnh vực: y học
--rạch nông da
+-dương
+-dương (
++)
+-dương bản
+-khẳng định
+-không ma sát
+-rõ ràng
+-số dương
+-xác thực
 @Lĩnh vực: xây dựng
--sự cày
--sự chích
--sự xáo xới (đường)
+-bản dương
+-tích cực
+@Lĩnh vực: toán & tin
+-đại lượng dương
+@Lĩnh vực: điện lạnh
+-thuận
+

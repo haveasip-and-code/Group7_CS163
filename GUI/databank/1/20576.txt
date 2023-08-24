@@ -1,14 +1,7 @@
-favus	
-@favus
-* danh từ
-- (y học) bệnh chốc đầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--favus
-@Lĩnh vực: y học
--nấm da đầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--favus
-@Lĩnh vực: y học
--nấm da đầu
+accustom
+	
+*  ngoại động từ
+- làm cho quen, tập cho quen
+=to accustom oneself to something
++ làm cho quen với việc gì
+

@@ -1,8 +1,15 @@
-headlamp	
-@headlamp
-* danh từ
-- đèn pha
-- đèn đeo trên trán (thợ mỏ)
+rekindle
+	
+*  động từ
+- đốt lại, thắp lại; nhen lại, nhóm lại
+=to rekindle a fire
++ nhóm lại ngọn lửa
+=to rekindle a war
++ nhóm lại ngọn lửa chiến tranh
+- kích thích, làm phấn chấn, làm phấn khởi
+=to rekindle someone's hopes
++ kích thích niềm hy vọng của ai
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--đèn đầu
+@Lĩnh vực: xây dựng
+-thắp lại
+

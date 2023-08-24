@@ -1,4 +1,24 @@
-leadwork	@leadwork
-* danh từ
-- vật làm bằng chì
-- xưởng đúc chì
+notion
+	
+*  danh từ
+- ý niệm, khái niệm
+=a vague notion of...
++ một khái niệm mơ hồ về...
+=to have no notion of...
++ chẳng có một ý niệm gì về...
+- ý kiến, quan điểm
+=such is the common notion
++ đó là ý kiến chung, đó là quan điểm chung
+- ý định
+=he has no notion of resigning
++ nó không có ý định từ chức
+- (từ Mỹ,nghĩa Mỹ) đồ dùng lặt vặt, tạp hoá
+=notion store
++ (định ngữ) hàng tạp hoá
+@Chuyên ngành kỹ thuật
+-khái niệm
+-quan điểm
+-quan niệm
+-ý kiến
+-ý niệm
+

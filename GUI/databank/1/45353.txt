@@ -1,4 +1,5 @@
-radiated	@Chuyên ngành kỹ thuật
--tỏa ra
-@Lĩnh vực: xây dựng
--bức xạ phát ra
+accruals
+	
+-chi phí phải trả
+-thu nhập phải nhận
+

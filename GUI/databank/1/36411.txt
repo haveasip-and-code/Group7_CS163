@@ -1,8 +1,6 @@
-navicert	@navicert /'nævisə:t/
-*  danh từ
-- (hàng hải) giấy chứng nhận không vi phạm quy định về hàng lậu thời chiến
-- giấy quá cảnh (cho từng chuyến hàng)
-@Chuyên ngành kinh tế
--chứng thư hàng vận
--giấy chứng hàng hải
--giấy thông lưu hàng hải
+enumerable
+	
+-đếm được
+@Chuyên ngành kỹ thuật
+-đếm được
+

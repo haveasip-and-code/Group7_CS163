@@ -1,16 +1,8 @@
-countersign	
-@countersign /'kauntəsain/
-*  danh từ
-- khẩu lệnh, mật lệnh (phải trả lời đúng mới được đi qua nơi gác)
-- chữ tiếp ký
-*  ngoại động từ
-- tiếp ký
-- phê chuẩn
-@Chuyên ngành kinh tế
--ký áp
--ký chung
--phó thự
--tiếp ký
+premix
+	
+* ngoại động từ
+- trộn lẫn từ trước (bê tông)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--mật hiệu
+@Lĩnh vực: toán & tin
+-sự hòa trộn sơ bộ (trong máy sao chụp)
+

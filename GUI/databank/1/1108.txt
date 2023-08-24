@@ -1,16 +1,5 @@
-afield	
-@afield /ə'fi:ld/
-*  phó từ
-- ở ngoài đồng, ở ngoài ruộng; ra đồng, ra ruộng=to lead cattle afield
-+ dắt trâu bò ra đồng
-- xa; ở xa
-- xa nhà ((thường) far afield)=to go far afield
-+ đi xa
-- (quân sự) ở ngoài mặt trận=to be afield
-+ ở ngoài mặt trận
-@Chuyên ngành kỹ thuật
--ngoài thực địa
--ngoài trời
--ở thực địa
-@Lĩnh vực: xây dựng
--ở hiện trường
+volumetrically
+	
+- trạng từ
+- xem volumetric
+

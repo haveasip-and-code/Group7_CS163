@@ -1,4 +1,12 @@
-homeotherm	
+matched
+	
+- ngang nhau, tương ứng; phù hợp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--hằng nhiệt máu nóng (như homolotherm)
+-phù hợp
+-thích ứng
+-tương ứng
+@Lĩnh vực: xây dựng
+-được làm khớp
+@Lĩnh vực: toán & tin
+-ngang nhau
+

@@ -1,5 +1,13 @@
-dirge	
-@dirge /də:dʤ/
+constructor
+	
 *  danh từ
-- bài hát (trong lễ) mai táng, bài hát truy điệu
-- bài hát buồn
+- người xây dựng, kỹ sư xây dựng
+- (hàng hải) kỹ sư đóng tàu
+@Chuyên ngành kỹ thuật
+-người xây dựng
+@Lĩnh vực: toán & tin
+-hàm dựng
+-hàm tạo
+@Lĩnh vực: xây dựng
+-người lắp ráp
+

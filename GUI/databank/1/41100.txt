@@ -1,3 +1,49 @@
-phentolamine	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--loại thuốc làm giãn các mạch máu
+bench
+	
+*  danh từ
+- ghế dài
+=park benches
++ ghế ở công viên
+- bàn (của thợ mộc, thợ đóng giày)
+- ghế ngồi của quan toà; toà án
+=to be raised to the bench
++ được bổ nhiệm làm quan toà; được phong làm giám mục
+=to be on the bench
++ làm quan toà; làm giám mục
+=the bench and the bar
++ quan toà và luật sư
+- ghế ngồi ở nghị viện Anh (của từng nhóm)
+=bishops' bench
++ ghế ngồi của các giám mục (trong nghị viện Anh)
+*  danh từ
+- cuộc trưng bày, cuộc triển lãm (chó)
+*  ngoại động từ
+- trưng bày, triển lãm (chó)
+@Chuyên ngành kỹ thuật
+-bàn
+-bàn máy
+-bàn thí nghiệm
+-bàn thợ máy
+-bàn thợ mộc
+-bệ
+-bệ công tác
+-bệ máy
+-bờ bảo hộ
+-bờ bảo vệ
+-bờ đất
+-con chạch
+-ghế dài
+-giá máy
+-giá thước
+-lò bằng
+-vỉa đường
+@Lĩnh vực: điện
+-bàn thợ nguội
+@Lĩnh vực: xây dựng
+-bờ giữ nước
+-máy cái công cụ
+-tầng (đai)
+-tạo bậc
+-thềm (sông, hồ)
+-thêm bậc
+

@@ -1,84 +1,10 @@
-leg	@leg /leg/
+applicability
+	
 *  danh từ
-- chân, cẳng (người, thú...)
-- chân (bàn ghế...)
-- ống (quần, giày...)
-- nhánh com-pa
-- cạnh bên (của tam giác)
-- đoạn (đường đi); chặng; giai đoạn
-=the first leg of a flight+ chặng đầu trong chuyến bay
-- (thể dục,thể thao) ván (trong một hiệp đấu)
-- (từ lóng) kẻ lừa đảo
-!to be all legs
-- cao lêu đêu, chỉ thấy chân với cẳng
-!to be on one's last legs
-- kiệt sức, sắp chết
-!to feet one's legs
-- (xem) feel
-!to get on one's legs
-- (xem) get
-!to give someone a leg up
-- đỡ ai leo lên, đỡ ai trèo lên
-- giúp đỡ ai vượt qua lúc khó khăn
-!to have the legs of someone
-- đi (chạy) nhanh hơn ai
-!to keep one's legs
-- (xem) keep
-!to make a leg
-- cúi đầu chào
-!not to have a leg to stand on
-- không có lý lẽ gì để bào chữa cho thuyết của mình
-!to pull someone's leg
-- (thông tục) trêu chòng ai, giễu cợt ai
-!to put one's best leg foremost
-- (xem) best
-!to run someone off his legs
-- bắt ai làm việc mệt nhoài, bắt ai làm việc liên miên
-!to shake a leg
-- (thông tục) nhảy, khiêu vũ
-!to show a leg
-- (thông tục) ra khỏi giường
-!to stand on one's own legs
-- tự tin ở mình, sự tự lực, sự tự chủ
-!to take to one's leg
-- chạy đi, bỏ chạy
-=to walk someone off his lefs+ bắt ai đi rạc cả cẳng
-*  ngoại động từ
-- đẩy (thuyền) bằng chân (qua sông đào trong đường hầm)
-*  nội động từ
-- to leg it đi mau, chạy mau
-@Chuyên ngành kinh tế
--một đoạn đường (vận tải)
--nhánh
+- tính có thể dùng được, tính có thể áp dụng được, tính có thể ứng dụng được
 @Chuyên ngành kỹ thuật
--cạnh
--đế
--đoạn đường
--giá máy
--gối đỡ
--nhánh
--nhánh compa
-@Lĩnh vực: y học
--chi dưới, cẳng chân
-@Lĩnh vực: xây dựng
--góc hàn
-@Lĩnh vực: điện lạnh
--trụ lõi từ
-@Lĩnh vực: cơ khí & công trình
--túi thu bụi
-@Chuyên ngành kỹ thuật
--cạnh
--đế
--đoạn đường
--giá máy
--gối đỡ
--nhánh
--nhánh compa
-@Lĩnh vực: y học
--chi dưới, cẳng chân
-@Lĩnh vực: xây dựng
--góc hàn
-@Lĩnh vực: điện lạnh
--trụ lõi từ
-@Lĩnh vực: cơ khí & công trình
--túi thu bụi
+@Lĩnh vực: hóa học & vật liệu
+-khả năng áp dụng
+@Lĩnh vực: toán & tin
+-khả năng ứng dụng
+

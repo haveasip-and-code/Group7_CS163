@@ -1,4 +1,6 @@
-timeout	@timeout
-- thời gian trễ tạm ngưng
-@Chuyên ngành kinh tế
--thời gian chờ đợi khi máy tính đang vận hành
+filagree
+	
+*  danh từ
+- đồ vàng bạc chạm lộng
+- vật sặc sỡ mảnh nhẹ
+

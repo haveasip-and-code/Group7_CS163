@@ -1,17 +1,15 @@
-fossil	
-@fossil /'fɔsl/
-*  tính từ
-- hoá đá, hoá thạch=fossil bones
-+ xương hoá thạch
-- cổ lỗ, lỗi thời, hủ lậu
-- (từ hiếm,nghĩa hiếm) chôn ở dưới đất; đào ở đất lên
-*  danh từ
-- vật hoá đá, hoá thạch
-- người cổ lỗ, người lỗi thời, người hủ lậu; vật cổ lỗ, vật lỗi thời
+transcribe
+	
+*  ngoại động từ
+- sao lại, chép lại
+- (ngôn ngữ học) phiên âm (bằng dấu phiên âm)
+- (âm nhạc) chuyển biên
+- ghi lại để phát thanh, phát thanh theo chương trình đã ghi lại
 @Chuyên ngành kỹ thuật
--hóa thạch
--vật hóa đá
-@Lĩnh vực: xây dựng
--thuộc hóa thạch
-@Lĩnh vực: cơ khí & công trình
--vật hóa thạch
+-chép lại
+-sao chép
+-sao lại
+@Lĩnh vực: toán & tin
+-phiên âm
+-sao, chép, ghi lại
+

@@ -1,16 +1,17 @@
-malleable	@malleable /'mæliəbl/
-*  tính từ
-- dễ dát mỏng, dễ uốn
-- (nghĩa bóng) dễ bảo
+identifier
+	
+- xem identify
 @Chuyên ngành kỹ thuật
--có thể dát
--dát
--dễ dát (mỏng)
--dễ rèn
--dẻo
--rèn được dẻo
-@Lĩnh vực: cơ khí & công trình
--cán mỏng được
--rèn được
-@Lĩnh vực: điện lạnh
--dát (mỏng) được
+-danh hiệu
+-nhận diện viên
+-nhãn hiệu
+-từ nhận dạng
+@Lĩnh vực: điện tử & viễn thông
+-bộ định danh
+@Lĩnh vực: toán & tin
+-danh tính
+-ký hiệu nhân dạng
+-thẻ bài
+-thiết bị nhận dạng
+-từ định danh
+

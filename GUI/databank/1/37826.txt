@@ -1,6 +1,14 @@
-oncogene	@oncogene
-* danh từ
-- gen đột biến gây bệnh ung thư
+missing
+	
+*  tính từ
+- vắng, thiếu, khuyết, mất tích, thất lạc
+=there is a spoon missing
++ thiếu mất một cái thìa
+*  danh từ
+- the missing (quân sự) những người mất tích
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--gen gây ung thư
+-không đánh lửa
+-sự đứt quãng
+@Lĩnh vực: cơ khí & công trình
+-sự khuyết
+

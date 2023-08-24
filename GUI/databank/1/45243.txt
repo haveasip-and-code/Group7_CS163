@@ -1,27 +1,15 @@
-quit	@quit /kwit/
-*  tính từ
-- vị ngữ thoát khỏi, giũ sạch được
-=to get quit of somebody+ thoát hẳn không bị ai quấy rầy nữa, tống khứ được ai
-=to get quit of one's debts+ thoát nợ, giũ sạch nợ nần
-*  ngoại động từ quitted (từ Mỹ,nghĩa Mỹ),  (thông tục) quit
-- bỏ, rời, buông
-=to quit hold of+ bỏ ra buông ra
-=to quit office+ bỏ việc
-- (từ Mỹ,nghĩa Mỹ) thôi, ngừng, nghỉ
-=quit that!+ thôi đừng làm việc ấy nữa!
-=to quit work+ nghỉ việc
-- rời đi, bỏ đi
-=to have notice to quit+ nhận được giấy báo dọn nhà đi
-- (thơ ca) trả lại, đáp lại, báo đền lại; trả sạch, thanh toán hết
-=to quit love with hate+ lấy oán trả ơn
-=death quits all scores+ chết là hết nợ
-- (từ cổ,nghĩa cổ) cư xử, xử sự
-=quit you like men+ hãy xử sự như một con người
-- (từ cổ,nghĩa cổ) to quit onself on thanh toán hết, giũ sạch được, thoát khỏi được
+insurer
+	
+*  danh từ
+- người nhận bảo hiểm (vật gì cho người khác)
+- công ty bảo hiểm
+@Chuyên ngành kinh tế
+-chủ hãng bảo hiểm
+-công ty bảo hiểm
+-người bảo hiểm
+-người nhận bảo hiểm
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--dứt
-@Lĩnh vực: điện lạnh
--ra khỏi
+-người bảo hiểm
 @Lĩnh vực: toán & tin
--thoát, ra khỏi
+-hội bảo hiểm
+

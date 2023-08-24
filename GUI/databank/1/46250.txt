@@ -1,13 +1,11 @@
-reeling	@Chuyên ngành kỹ thuật
--sự cuộn
--sự cuộn dây
--sự guồng
-@Lĩnh vực: xây dựng
--cuộn (dây) sự quấn
--kiểu quấn
--sự quấn dây cáp
-@Lĩnh vực: điện
--sự guông dây
-@Lĩnh vực: hóa học & vật liệu
--sự luồn
--sự xỏ dây (qua ròng rọc)
+radome
+	
+*  danh từ
+- mái che máy rađa (trên máy bay)
+@Chuyên ngành kỹ thuật
+-nắp chỏm anten rađa
+@Lĩnh vực: điện tử & viễn thông
+-vòm bọc anten
+@Lĩnh vực: điện lạnh
+-vòm rađa
+

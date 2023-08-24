@@ -1,22 +1,5 @@
-evaporate	
-@evaporate /i'væpəreit/
-*  ngoại động từ
-- làm bay hơi
-- làm khô (hoa quả, sữa)
-*  nội động từ
-- bay hơi
-- (thông tục) tan biến, biến mất; chết
-@Chuyên ngành kinh tế
--bay hơi
--làm bay hơi
--làm khô
-@Chuyên ngành kỹ thuật
--bay hơi
--làm bay hơi
-@Lĩnh vực: vật lý
--làm bốc hơi
-@Chuyên ngành kỹ thuật
--bay hơi
--làm bay hơi
-@Lĩnh vực: vật lý
--làm bốc hơi
+disquieting
+	
+*  tính từ
+- làm không an tâm, làm không yên lòng, làm băn khoăn lo lắng
+

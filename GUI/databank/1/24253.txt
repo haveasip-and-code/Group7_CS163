@@ -1,3 +1,33 @@
-greeter	
-@greeter
-- xem greet
+director
+	
+*  danh từ
+- giám đốc, người điều khiển, người chỉ huy
+=Board of directors
++ ban giám đốc
+- (sử học) quan đốc chính (hồi cách mạng Pháp)
+- (tôn giáo) cha đạo
+- người đạo diễn (phim)
+- (toán học) đường chuẩn
+=director circle
++ vòng chuẩn
+- máy ngắm (ở súng, để điều chỉnh tầm đạn...)
+@Chuyên ngành kinh tế
+-giám đốc
+-giám đốc (của một công ty)
+-người quản lý
+-trưởng phòng
+-ủy viên quản trị
+-ủy viên quản trị, giám đốc (của một công ty)
+@Chuyên ngành kỹ thuật
+-địa bàn
+-giám đốc
+-người điều khiển
+-người lãnh đạo
+-vòng ngắm chuẩn
+@Lĩnh vực: điện tử & viễn thông
+-ăng ten hướng xạ
+@Lĩnh vực: toán & tin
+-bộ định hướng
+@Lĩnh vực: y học
+-dụng cụ hướng dẫn, ống thông dẫn đường
+

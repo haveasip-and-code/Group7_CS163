@@ -1,8 +1,10 @@
-pronoun	@pronoun /pronoun/
-*  danh từ
-- (ngôn ngữ học) đại từ
-=personal pronoun+ đại từ chỉ ngôi
-=impersonal pronoun+ đại từ không ngôi
+bacteriostat
+	
+* danh từ
+- chất kìm hãm vi khuẩn
+@Chuyên ngành kinh tế
+-chất hãm vi khuẩn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đại danh từ
+@Lĩnh vực: thực phẩm
+-chất hãm vi khuẩn
+

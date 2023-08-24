@@ -65,6 +65,8 @@ extern vector<pair<string,string>> historyList;
 
 extern TST data1;
 
+MyFrame* dictionary;
+
 bool isEditable;
 
 string correctAnswer="sound/correct.wav";
@@ -74,6 +76,51 @@ string clickSound("sound/click.wav");
 vector<string> inputRegex;
 
 MyPanel* subpanel;
+
+wxPanel* mainPart;
+wxScrolledWindow* panelt;
+wxBoxSizer* sizer2t;
+wxFont myAppFont2t;
+wxTextCtrl* targett;
+
+void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target);
+void resetSizer(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target);
+
+wxWindow* CreateGamePage(wxBookCtrlBase* parent);
+wxPanel *FavoriteList(wxBookCtrlBase *parent);
+wxPanel *CreateAddPage(wxBookCtrlBase *parent);
+wxPanel *DictionaryPage(wxBookCtrlBase *parent);
+int GetIconIndex(wxBookCtrlBase* bookCtrl);
+
+void searchFav(wxString key,wxTextCtrl* textArea) {
+    string tmp=wxStringToString(key);
+    for (int i=0;i<favouriteList.size();i++) {
+        if (favouriteList[i].first==key) {
+            textArea->SetValue(stringToWxString(favouriteList[i].first+"\n"+favouriteList[i].second));
+        }
+    }
+}
+
+void CreateInitialPages(wxBookCtrlBase *parent,int idx)
+{
+    // Create and add some panels to the notebook
+
+    parent->SetSize(wxSize(70,680));
+
+    wxWindow *page = DictionaryPage(parent);
+    parent->InsertPage( 0, page, wxEmptyString, false, GetIconIndex(parent) );
+
+    page = CreateAddPage(parent);
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
+
+    page = FavoriteList(parent);
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
+
+    page = CreateGamePage(parent);
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
+
+    parent->SetSelection(idx);
+}
 
 void pSound(const std::string filename) {
     wxSound bitCHSound(filename);
@@ -97,6 +144,7 @@ void updateFavourite(pair<string,string> tmp) {
     for (int i=0;i<favouriteList.size();i++) {
         cout<<favouriteList[i].first<<'\n';
     }
+    saveFav();
 }
 
 void removeFavourite(pair<string,string> tmp) {
@@ -107,10 +155,12 @@ void removeFavourite(pair<string,string> tmp) {
             return;
         }
     }
+    saveFav();
 }
 
 void removeFavourite(int x) {
     favouriteList.erase(favouriteList.begin()+x);
+    saveFav();
 }
 
 bool isFavourite(string tmp) {
@@ -392,6 +442,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
         panel->Layout();
+        resetSizer(mainPart,panelt,sizer2t,myAppFont2t,targett);
+        sizer2t->Layout();
         //subpanel->build(favouriteList);
     });
 
@@ -535,8 +587,49 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
     return panel;
 }
 
+void resetSizer(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
+    // Clear and detach each item in the sizer
+    while (!sizer2->IsEmpty())
+    {
+        wxSizerItem* item = sizer2->GetItem(size_t(0));
+        wxWindow* window = item->GetWindow();
+
+        sizer2->Detach(0);
+        delete window;
+        //window->Destroy();
+    }
+
+    // Clear the sizer itself
+    sizer2->Clear();
+    //dictionary->Refresh();
+    //dictionary->Update();
+    //sizer2->Clear();
+    panel->SetSizer(sizer2);
+    //mainPar->Layout();
+    //sizer2->Layout();
+    //sizer2->SetOrientation(wxVERTICAL);
+    //cout<<sizer2->m_totalProportion;
+    //wxBoxSizer* sizer3 = new wxBoxSizer(wxVERTICAL);
+    //sizer2=sizer3;
+    //wxBookCtrlBase* parent=dynamic_cast<wxBookCtrlBase*>(dictionary->m_sizerFrame->GetItem(size_t(0)));
+    //wxPanel* page = FavoriteList(parent);
+    //parent->RemovePage(2);
+    //wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+    //parent->InsertPage(2, page, wxEmptyString, false, 2);
+    //dictionary->RecreateBook(2);
+    //cout<<"Help me\n";
+    constructSc(mainPar,panel,sizer2,myAppFont2,target);
+    sizer2->Layout();
+    mainPar->Layout();
+    //sizer2->Hide(false);
+    //mainPar->Layout();
+    //sizer2->Layout();
+    //panel->Layout();
+}
+
 void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
     for (int i=0;i<favouriteList.size();i++) {
+    //cout<<i<<'\n';
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
     line1->SetBackgroundColour(wxColour(142, 159, 157));
@@ -567,10 +660,44 @@ void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxF
     removeFromFav->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
         int pos=*static_cast<int*>(removeFromFav->GetClientData());
         removeFavourite(pos);
+        resetSizer(mainPar,panel,sizer2,myAppFont2,target);
+        /*
+        // Clear and detach each item in the sizer
+        while (sizer2->IsEmpty())
+        {
+            wxSizerItem* item = sizer2->GetItem(size_t(0));
+            wxWindow* window = item->GetWindow();
+
+            sizer2->Detach(0);
+            window->Destroy();
+        }
+
+        // Clear the sizer itself
         sizer2->Clear();
+        //dictionary->Refresh();
+        //dictionary->Update();
+        //sizer2->Clear();
+        panel->SetSizer(sizer2);
+        //mainPar->Layout();
+        //sizer2->Layout();
+        //sizer2->SetOrientation(wxVERTICAL);
+        //cout<<sizer2->m_totalProportion;
+        //wxBoxSizer* sizer3 = new wxBoxSizer(wxVERTICAL);
+        //sizer2=sizer3;
+        //wxBookCtrlBase* parent=dynamic_cast<wxBookCtrlBase*>(dictionary->m_sizerFrame->GetItem(size_t(0)));
+        //wxPanel* page = FavoriteList(parent);
+        //parent->RemovePage(2);
+        //wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+        //parent->InsertPage(2, page, wxEmptyString, false, 2);
+        //dictionary->RecreateBook(2);
+        //cout<<"Help me\n";
+        constructSc(mainPar,panel,sizer2,myAppFont2,target);
+        sizer2->Layout();
         mainPar->Layout();
-        //constructSc(panel,sizer2,myAppFont2,target);
+        //mainPar->Layout();
+        //sizer2->Layout();
         //panel->Layout();
+        */
     });
 
     wxBoxSizer* itemSizer = new wxBoxSizer(wxHORIZONTAL);
@@ -588,6 +715,7 @@ void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxF
     line1->SetSizer(itemSizer);
     sizer2->Add(line1);
     }
+    //cout<<"Done\n";
 }
 
 wxPanel *FavoriteList(wxBookCtrlBase *parent)
@@ -669,7 +797,8 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
         wxString searchText = searchBar->GetValue();
-        wxMessageBox("Searching for: " + searchText);
+        //wxMessageBox("Searching for: " + searchText);
+        searchFav(searchText,infoText);
     });
     sizer1->Add(searchBar, 0, wxLEFT, 5);
     sizer1->Add(searchButton, 0, wxLEFT);
@@ -681,6 +810,15 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     // ------------------------------------------------------------------ create one word item
     wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
+    lowpanel->SetVirtualSize(wxSize(200, 800));
+    lowpanel->SetScrollRate(0, 10);
+    lowpanel->SetSizer(sizer2);
+    lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
+    mainPart=panel;
+    panelt=lowpanel;
+    sizer2t=sizer2;
+    myAppFont2t=myAppFont2;
+    targett=infoText;
     constructSc(panel,lowpanel,sizer2,myAppFont2,infoText);
     /*
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
@@ -718,12 +856,8 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     //panel->GetSizer()->Detach(infoText);
 
-    lowpanel->SetVirtualSize(wxSize(200, 800));
-    lowpanel->SetScrollRate(0, 10);
     biggest->Add(sizer1, 0, wxEXPAND);
     biggest->AddSpacer(5);
-    lowpanel->SetSizer(sizer2);
-    lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
     biggest->Add(lowpanel, wxEXPAND, wxEXPAND);
     mergerScreen->Add(biggest,0,wxEXPAND);
     //textArea->Add(infoText,0,wxEXPAND);
@@ -1404,6 +1538,34 @@ CASE_NOTEBOOK(before aui after) \
 default:                                \
 wxFAIL_MSG( "unknown book control type" );\
 }
+
+void MyFrame::RecreateBook(int idx)
+{
+    // m_bookCtrl = NULL;
+
+    // DISPATCH_ON_TYPE(m_bookCtrl = new, wxNotebook,
+    //                  (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
+
+    // if ( !m_bookCtrl )
+    //     return;
+    pSound(wrongAnswer);
+    wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
+    functionBar->SetBackgroundColour(wxColour(73, 86, 111));
+
+    // m_bookCtrl->Hide();
+
+    if ( m_chkShowImages ) {
+        functionBar->SetImages(m_images);
+    }
+
+    CreateInitialPages(functionBar,idx);
+
+    m_sizerFrame->Insert(0, functionBar, wxSizerFlags(5).Expand());
+
+    // m_sizerFrame->Show(m_bookCtrl);
+    m_sizerFrame->Layout();
+}
+
 
 void MyFrame::RecreateBook()
 {

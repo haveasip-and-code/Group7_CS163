@@ -1,6 +1,6 @@
-observability	@observability
-* danh từ
-- khả năng quan sát
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: đo lường & điều khiển
--khả năng quan sát
+laggardness
+	
+*  danh từ
+- tính chậm chạp; tính chậm trễ
+- tính lạc hậu
+

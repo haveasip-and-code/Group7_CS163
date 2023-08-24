@@ -1,15 +1,6 @@
-spew	@spew /spju:/
-*  danh từ
-- cái nôn ra, cái mửa ra, cái thổ ra
-*  động từ
-- nôn ra, mửa ra, thổ ra ((cũng) spue)
-*  nội động từ
-- chúc nòng (súng) (vì bắn nhanh quá) ((cũng) spue)
-@Chuyên ngành kinh tế
--ép
--sự ép
--sự trào ra
--trào ra
-@Chuyên ngành kỹ thuật
--đẩy ra
--rìa bờm
+anastomoses
+	
+*  danh từ,  số nhiều anastomoses
+- sự nối (hai mạch máu...)
+- đường nối, mạng nhỏ
+

@@ -1,11 +1,11 @@
-easterly	
-@easterly /'i:stəli/
-*  tính từ
-- đông=easterly wind
-+ gió đông
-*  phó từ
-- về hướng đông; từ hướng đông
+interject
+	
+*  ngoại động từ
+- bỗng xen vào (lời nhận xét...)
+=to interject a question
++ bỗng hỏi xen vào
+- nhận xét, xen vào
 @Chuyên ngành kỹ thuật
--phía đông
-@Lĩnh vực: giao thông & vận tải
--về phía đông
+@Lĩnh vực: xây dựng
+-tống vào
+

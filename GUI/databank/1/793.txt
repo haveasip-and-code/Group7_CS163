@@ -1,10 +1,22 @@
-adjuvant	
-@adjuvant /'ædʤuvənt/
-*  tính từ
-- giúp đỡ, phụ tá, giúp ích
-*  danh từ
-- người giúp đỡ, người phụ tá; vật giúp ích
+sliding
+	
+* danh từ
+- sự trượt
+* tính từ
+- dễ trượt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất phụ
--trợ, bổ trợ, phụ
+-độ trượt
+-lướt
+-sự quay trượt
+-sự trườn
+-sự trượt
+-trượt
+@Lĩnh vực: xây dựng
+-sự luồn qua
+-sụt nở
+-trượt lở
+@Lĩnh vực: điện lạnh
+-sự lướt
+@Lĩnh vực: toán & tin
+-sự trượt, sự chạy
+

@@ -1,7 +1,10 @@
-mesosphere	@mesosphere
-* danh từ
-- (khí tượng) tầng giữa của khí quyển
+inconsistency
+	
+*  danh từ
+- sự mâu thuẫn, sự trái nhau; sự không trước sau như một
+- lời tuyên bố đấy mâu thuẫn
+- hành động không trước sau như một
 @Chuyên ngành kỹ thuật
--quyển giữa
-@Lĩnh vực: điện lạnh
--tầng giữa
+@Lĩnh vực: toán & tin
+-tính không nhất quán
+

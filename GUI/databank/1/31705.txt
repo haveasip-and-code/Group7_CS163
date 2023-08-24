@@ -1,50 +1,26 @@
-layer	@layer /'leiə/
+sop
+	
 *  danh từ
-- người đặt, người gài (bẫy)
-- lớp
-=a layer of clay+ lớp đất sét
-- (địa lý,ddịa chất) tầng đất, địa tầng
-- cành chiết
-- mái đẻ (trứng)
-=a good layer+ mái đẻ (trứng) tốt
-- (số nhiều) dải lúa bị rạp
-- đầm nuôi trai
+- mẩu bánh mì thả vào nước xúp
+=sop in the pan
++ bánh mì rán
+- vật đút lót
+- vật cho để thưởng, vật cho để dỗ dành
+- (từ Mỹ,nghĩa Mỹ) người đàn ông ẻo lả yếu ớt (như con gái)
 *  ngoại động từ
-- sắp từng lớp, sắp từng tầng
-- chiết cành
+- chấm vào nước, nhứng vào nước, thả vào nước
+- thấm nước
 *  nội động từ
-- ngả, ngả rạp xuống (lúa)
+- ướt sũng
+=to be sopping with rain
++ sũng nước mưa
 @Chuyên ngành kinh tế
--bản mỏng
--lớp
--sự xếp đặt
+-chấm
+-nhúng vào
+-thả vào nước xúp
 @Chuyên ngành kỹ thuật
--bậc
--hàng xây (gạch)
--lát
--lớp
--lớp kẹp
--lớp mỏng
--lớp xây
--lớp xen giữa
--lớp, tầng
--phiến mỏng
--vỉa
-@Lĩnh vực: toán & tin
--sắp lớp
--tầng, lớp
-@Chuyên ngành kỹ thuật
--bậc
--hàng xây (gạch)
--lát
--lớp
--lớp kẹp
--lớp mỏng
--lớp xây
--lớp xen giữa
--lớp, tầng
--phiến mỏng
--vỉa
-@Lĩnh vực: toán & tin
--sắp lớp
--tầng, lớp
+-nhúng nước
+-thấm nước
+@Lĩnh vực: xây dựng
+-thả vào nước
+

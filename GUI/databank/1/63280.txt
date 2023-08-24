@@ -1,8 +1,14 @@
-worldwide	@worldwide
-- toàn cầu
-@Chuyên ngành kinh tế
--toàn thế giới
--trên phạm vi thế giới
+scurvy
+	
+*  tính từ
+- đê tiện, hèn hạ, đáng khinh
+=a scurvy fellow
++ một gã đê tiện
+=a scurvy trick
++ một thủ đoạn hèn hạ
+*  danh từ
+- (y học) bệnh scobat
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--toàn thế giới
+@Lĩnh vực: y học
+-bệnh scurvy (bệnh scorbut) do thiếu sinh tố C (ascorbic acid)
+

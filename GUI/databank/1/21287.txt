@@ -1,20 +1,6 @@
-flammable	
-@flammable
-* tính từ
-- bén lửa, dễ cháy
-@Chuyên ngành kỹ thuật
--dễ bắt cháy
--dễ bắt lửa
--dễ bốc cháy
--dễ cháy
--dễ cháy (tt)
-@Lĩnh vực: hóa học & vật liệu
--cháy được
-@Chuyên ngành kỹ thuật
--dễ bắt cháy
--dễ bắt lửa
--dễ bốc cháy
--dễ cháy
--dễ cháy (tt)
-@Lĩnh vực: hóa học & vật liệu
--cháy được
+condescension
+	
+*  danh từ
+- sự hạ mình, sự hạ cố, sự chiếu cố
+- sự nhã nhặn đối với người dưới
+

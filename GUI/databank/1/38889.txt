@@ -1,12 +1,5 @@
-overpass	@overpass /'ouvəpɑ:s/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) cầu bắc qua đường, cầu chui[,ouvə'pɑ:s]
-*  ngoại động từ
-- đi qua
-- vượt qua (khó khăn...), vượt quá (giới hạn...)
-- (từ Mỹ,nghĩa Mỹ) kinh qua
-- (từ Mỹ,nghĩa Mỹ) làm ngơ, bỏ qua, không đếm xỉa đến
-@Chuyên ngành kỹ thuật
--cầu cạn
-@Lĩnh vực: xây dựng
--cầu vượt
+boozy
+	
+*  tính từ
+- say sưa tuý luý
+

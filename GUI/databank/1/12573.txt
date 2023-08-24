@@ -1,17 +1,13 @@
-creditor	
-@creditor /'kreditə/
+pentagon
+	
 *  danh từ
-- người chủ nợ, người cho vay
-- (kế toán) bên có
-@Chuyên ngành kinh tế
--bên có (trong sổ sách kế toán)
--chủ nợ
--người bán chịu
--người cho vay
--người chủ nợ
--người có quyền đòi nợ
+- hình năm cạnh
+- (từ Mỹ,nghĩa Mỹ) (the pentagon) lầu năm góc (Bộ quốc phòng Mỹ)
 @Chuyên ngành kỹ thuật
--khoản phải trả
--người cho vay
-@Lĩnh vực: giao thông & vận tải
--trái chủ
+-hình năm cạnh
+-hình ngũ giác
+@Lĩnh vực: xây dựng
+-hình 5 cạnh
+@Lĩnh vực: toán & tin
+-ngũ giác
+

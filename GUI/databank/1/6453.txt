@@ -1,19 +1,27 @@
-boundary	
-@boundary /'baundəri/
+recorder
+	
 *  danh từ
-- đường biên giới, ranh giới
+- máy ghi âm
+- máy ghi; dụng cụ ghi, bộ phận ghi
+- người giữ sổ sách
+- người ghi lại
+- quan toà (tại một số thành phố ở Anh)
+@Chuyên ngành kinh tế
+-dụng cụ ghi
+-may ghi âm
 @Chuyên ngành kỹ thuật
--biên
--biên giới
--bờ
--đường bao
--đường biên
--giới hạn
--lề
--mép
--phạm vi
--ranh giới
-@Lĩnh vực: điện tử & viễn thông
--đường điện
+-bộ ghi
+-dụng cụ ghi
+-người ghi
+-người ghi chép
+-máy ghi
+-máy ghi âm
+-máy ghi dùng băng
+-máy ghi dùng đĩa
+-máy ghi số liệu
+-máy tự ghi
+-máy vẽ đồ thị
 @Lĩnh vực: xây dựng
--đường phân giới
+-bộ ghi đồ thị
+-thiết bị tự ghi
+

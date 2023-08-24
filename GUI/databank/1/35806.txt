@@ -1,9 +1,20 @@
-mountainous	@mountainous /'mauntinəs/
+axial
+	
 *  tính từ
-- có núi, lắm núi
-=mountainous country+ vùng (nước) lắm núi
-- to lớn khổng lồ
+- (thuộc) trục; quanh trục
+=axial symmetry
++ sự xứng đối qua trục
+=axial vector
++ vectơ trục
 @Chuyên ngành kỹ thuật
--có núi
--đồi núi
--núi
+-hướng tâm
+-hướng trục
+@Lĩnh vực: xây dựng
+-chiều trục
+-dọc trục
+@Lĩnh vực: cơ khí & công trình
+-dọc theo trục
+-thuộc về trục
+@Lĩnh vực: điện lạnh
+-theo trục
+

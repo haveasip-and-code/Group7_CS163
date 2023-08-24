@@ -1,8 +1,9 @@
-eductor	
-@eductor
-* danh từ
-- người làm việc chiết xuất
-- vật được chiếc xuất
+turner
+	
+*  danh từ
+- thợ tiện
 @Chuyên ngành kỹ thuật
--máy phun
--máy trộn chất lỏng bằng vòi phun
+-máy tiện
+@Lĩnh vực: cơ khí & công trình
+-thợ tiện gỗ
+

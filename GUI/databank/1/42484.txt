@@ -1,28 +1,6 @@
-polynomial	@polynomial
-- đa thức
-- p. of degree n. đa thức bậc n
-- p. of least deviation đa thức có độ lệch tối thiểu
-- adjoint p. đa thức liên hợp
-- alternative p. đa tức đơn dấu
-- characteristic p. đ thức đặc trưng
-- cyclotomic p. (đại số) đa thức thức chia vòng tròn
-- defining p. đa thức định nghĩa
-- differential p. (đại số) đa thức vi phân
-- distinguished p. (đại số) đa thức lồi
-- homogeneous p. đa thức thuần nhất
-- hypergeometric p. đa thức siêu bội
-- interpolating p. (giải tích) đa thức nội suy
-- interpolation p. (giải tích) đa thức nội suy
-- irreducible p. đa thức không khả quy
-- minimal p. (đại số) đa thức cực tiểu
-- minimum p. (đại số) đa thức cực tiểu
-- monic p. đa thức lồi
-- orthogonal p.s đa thức trực giao
-- orthonormal p. đa thức trực chuẩn
-- prime p. đa thức nguyên tố
-- quasi-orthogonal p. đa thức tựa trực giao
-- reduced minimum p. đa thức cực tiểu rút gọn
-- reducible p. đa thức khả quy
-- symbolic p. đa thức ký hiệu
-- trigonometric p. đa thức lượng giác
-- ultrasherical p. (giải tích) đa thức siêu cầu
+curule
+	
+* danh từ
+- ghế ngà vị quan cao cấp cổ La
+-mã ngồi
+

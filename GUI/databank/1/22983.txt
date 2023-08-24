@@ -1,14 +1,14 @@
-gash	
-@gash /gæʃ/
-*  danh từ
-- vết thương dài và sâu; vết cắt dài và sâu
-- (kỹ thuật) vết cắt, vết khắc, vết rạch
-*  ngoại động từ
-- rạch một vết cắt dài và sâu
+tackiness
+	
+* danh từ
+- tính chất hơi dính; tình trạng chưa hoàn toàn khô (lớp sơn, keo...)
+- <Mỹ><thgt> sự không ngon; sự xơ xác, sự tồi tàn; sự loè loẹt
 @Chuyên ngành kỹ thuật
--đường rãnh
--khe
--rãnh
--vết khắc
--vệt khắc rãnh
--vết rạch
+-độ dính
+-độ quánh
+-sự bám dính
+-sự dính
+-tính dính
+@Lĩnh vực: điện lạnh
+-tính quánh
+

@@ -1,4 +1,13 @@
-reallocation	@Chuyên ngành kinh tế
--cấp lại
--cấp lại (vốn kinh phí)
--sự phân phối lại
+aircraft
+	
+*  danh từ,  số nhiều không đổi
+- máy bay, tàu bay
+- khí cầu
+@Chuyên ngành kinh tế
+-máy bay
+-phi cơ
+@Chuyên ngành kỹ thuật
+-máy bay
+@Lĩnh vực: cơ khí & công trình
+-thiết bị bay
+

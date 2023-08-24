@@ -1,26 +1,5 @@
-mine	@mine
-- đại từ sở hữu
-- của tôi
-- <cổ><thơ>  (trước nguyên âm hay h) như my
-* danh từ
-- mỏ
-- <bóng> nguồn kho
-- mìn, địa lôi, thuỷ lôi
-* động từ
-- đào, khai
-- <qsự> đặt mìn, đặt địa lôi, thả thuỷ lôi; phá bằng mìn, phá bằng địa lôi, phá bằng thuỷ lôi
-- <bóng> phá hoại
-@Chuyên ngành kinh tế
--kho
--mỏ
--nguồn
--thủy lôi
-@Chuyên ngành kỹ thuật
--giếng mỏ
--khai thác mỏ
--khu mỏ
--nổ mìn
--mìn
--sự nổ mìn
-@Lĩnh vực: xây dựng
--mỏ (hầm)
+discounts
+	
+@Lĩnh vực: toán & tin
+-chiết khấu
+

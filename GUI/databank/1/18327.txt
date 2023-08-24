@@ -1,12 +1,11 @@
-enforce	
-@enforce /in'fɔ:s/
-*  ngoại động từ
-- làm cho có hiệu lực, làm cho có sức mạnh (một lý lẽ), đòi cho được (một yêu sách)
-- (
-+ upon) ép làm, thúc ép, ép buộc (một việc gì)=to enforce something upon someone
-+ ép ai phải làm một việc gì
-- bắt tôn trọng, bắt tuân theo; đem thi hành (luật lệ)
+notification
+	
+*  danh từ
+- sự báo, sự khai báo; sự thông báo
+@Chuyên ngành kinh tế
+-thông cáo
+-thư thông báo
 @Chuyên ngành kỹ thuật
--bắt buộc
-@Chuyên ngành kỹ thuật
--bắt buộc
+-sự báo
+-sự thông báo
+

@@ -1,3 +1,9 @@
-microcircuit	@microcircuit
-* danh từ
-- mạch điện trong một mạch vi xử lý
+biometry
+	
+*  danh từ
+- sinh trắc học
+@Chuyên ngành kỹ thuật
+-sinh trắc học
+@Lĩnh vực: hóa học & vật liệu
+-thống kê sinh học
+

@@ -1,6 +1,15 @@
-luminescent	@luminescent /,lu:mi'nesnt/
+congruent
+	
 *  tính từ
-- phát sáng, phát quang
+- thích hợp, phù hợp
+- (toán học) đồng dư; tương đẳng
+=congruent numbers
++ số đồng dư
+=congruent transformation
++ phép biến đổi tương đẳng
 @Chuyên ngành kỹ thuật
--phát quang
--phát sáng
+-đồng dư
+-đồng dư (số)
+-hoàn nguyên
+-tương đẳng
+

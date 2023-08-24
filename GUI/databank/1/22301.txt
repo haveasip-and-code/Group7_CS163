@@ -1,5 +1,17 @@
-frenum	
-@frenum
-* danh từ
-- số nhiều frenums,  frena
-- (giải phẫu) dây hãm
+recharge
+	
+*  ngoại động từ
+- nạp lại
+=to recharge a revolver
++ nạp đạn lại một khẩu súng lục
+=to recharge a battery
++ nạp điện lại một bình ắc quy
+@Chuyên ngành kỹ thuật
+-bổ sung
+-nạp bổ sung
+-nạp lại
+-sự bổ sung
+-sự nạp lại
+@Lĩnh vực: điện
+-nạp (điện) lại
+

@@ -1,8 +1,4 @@
-flowerpot	
-@flowerpot /flowerpot/
-*  danh từ
-- chậu hoa
-@Chuyên ngành kỹ thuật
--chậu hoa
-@Chuyên ngành kỹ thuật
--chậu hoa
+intercept
+	
+- cắt ra, phân ra; chắn // đoạn thẳng bị chặn trên hệ trục toạ độ
+

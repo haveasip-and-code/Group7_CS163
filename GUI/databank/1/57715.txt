@@ -1,3 +1,10 @@
-trichomonad	@trichomonad
-* danh từ
-- (động vật học) trùng mảng uốn roi đuôi
+conductibility
+	
+*  danh từ
+- (vật lý) tính dẫn (nhiệt điện)
+@Chuyên ngành kỹ thuật
+-điện dẫn suất
+-độ dẫn điện
+-tính dẫn điện
+-tính dẫn nhiệt
+

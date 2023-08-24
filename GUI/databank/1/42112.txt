@@ -1,9 +1,21 @@
-plinth	@plinth /plinθ/
-*  danh từ
-- chân cột (hình vuông)
-- chân tường (nhô ra)
+eliminator
+	
+*  danh từ (kỹ thuật)
+- thiết bị loại, thiết bị thải
+- thiết bị khử nước
+- máy đẩy, máy thúc
 @Chuyên ngành kỹ thuật
--chân cột
--gờ chân tường
+-bộ khử
+-bộ triệt
 @Lĩnh vực: xây dựng
--bệ cột
+-thiết bị khử
+@Lĩnh vực: cơ khí & công trình
+-thiết bị loại
+@Chuyên ngành kỹ thuật
+-bộ khử
+-bộ triệt
+@Lĩnh vực: xây dựng
+-thiết bị khử
+@Lĩnh vực: cơ khí & công trình
+-thiết bị loại
+

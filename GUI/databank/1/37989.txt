@@ -1,22 +1,11 @@
-oppose	@oppose /ə'pouz/
-*  ngoại động từ
-- đối kháng, đối lại, đối chọi, đối lập
-=to fury let us oppose patience+ chúng ta hây lấy sự kiên nhẫn để đối lại với sự giận dữ
-- chống đối, phản đối
-=to oppose imperialism+ chống chủ nghĩa đế quốc
-=to be opposed to+ chống lại, phản đối
-- (động tính từ quá khứ) đối nhau, trái lại
-=characters strongly opposed+ những tính tình rất xung khắc nhau
-=black is opposed to white+ đen trái ngược với trắng
-*  nội động từ
-- chống đối, phản đối
+dialing
+	
+- (Tech) quay số, bấm số, gọi điện thoại
 @Chuyên ngành kinh tế
--chống lại
--phản đối
+-sự quay số điện thoại
 @Chuyên ngành kỹ thuật
--đối lập
--phản đối
-@Lĩnh vực: xây dựng
--đối kháng
-@Lĩnh vực: toán & tin
--đối lập, phản đối
+-gọi điện thoại
+-sự quay số
+@Lĩnh vực: điện lạnh
+-sự chọn số
+

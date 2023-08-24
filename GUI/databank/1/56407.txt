@@ -1,47 +1,28 @@
-thin	@thin /θin/
-*  tính từ
-- mỏng, mảnh
-=a thin sheet of paper+ tờ giấy mỏng
-=a thin piece of string+ sợi dây mảnh
-- gầy gò, mảnh dẻ, mảnh khảnh
-=as thin as a lath+ gầy như cái que
-- loãng
-=thin porridge+ cháo loãng
-=thin wine+ rượu nhẹ, rượu pha loãng
-=thin air+ không khí loãng
-- thưa, thưa thớt, lơ thơ
-=thin hair+ tóc thưa
-=thin audience+ thính giả thưa thớt
-- nhỏ, nhỏ hẹp, yếu ớt
-=a thin voice+ giọng nói nhỏ nhẹ
-- mong manh; nghèo nàn
-=a thin excuse+ một lý do cáo lỗi mong manh không vững
-=a thin story+ một câu chuyện nghèo nàn
-- (từ lóng) khó chịu, buồn chán
-=to have a thin time+ buồn bực, chán
-*  ngoại động từ
-- làm cho mỏng, làm cho mảnh
-- làm gầy đi, làm gầy bớt
-- làm loãng, pha loãng
-- làm thưa, làm giảm bớt, tỉa bớt
-=to thin out the leaves+ tỉa bớt lá
+summer
+	
+*  danh từ
+- (kiến trúc) cái rầm ((cũng) summer
+-tree)
+- mùa hạ, mùa hè
+- (thơ ca) tuổi, xuân xanh
+=a man of twenty five summers
++ một thanh niên hai mươi nhăm xuân xanh
+- (định ngữ) (thuộc) mùa hè
+=summer holidays
++ kỳ nghỉ hè
 *  nội động từ
-- mỏng ra, mảnh đi
-- gầy đi
-- loãng ra
-- thưa bớt đi, thưa thớt
+- đi nghỉ hè, đi nghỉ mát (ở núi, ở bờ biển...)
+*  ngoại động từ
+- chăn (vật nuôi) về mùa hè (ở núi...)
 @Chuyên ngành kỹ thuật
--làm mỏng
--loãng
--loãng (axit)
--nhạt
--mảnh
--mịn
--mờ (in ấn)
--mỏng
--pha loãng
--vát nhọn (mũi khoan ruột gà)
+-bộ cộng
+-dầm
+-dầm dọc
+-rầm
+-xà gỗ
 @Lĩnh vực: toán & tin
--nửa xác định
-@Lĩnh vực: ô tô
--pha loãng sơn
+-máy cộng analog
+-máy cộng tương tự
+@Lĩnh vực: xây dựng
+-xà (gỗ)
+

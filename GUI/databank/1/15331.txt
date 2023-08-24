@@ -1,46 +1,12 @@
-dig	
-@dig /dig/
-*  danh từ
-- sự đào, sự bới, sự xới, sự cuốc (đất)
-- sự thúc; cú thúc=to give someone a dig in the ribs
-+ thúc vào sườn ai
-- sự chỉ trích cay độc=a dig at someone
-+ sự chỉ trích ai cay độc
-- (khảo cổ học) (thông tục) sự khai quật
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) sinh viên học gạo
-*  ngoại động từ dug
-- đào bới, xới, cuốc (đất...)=to dig a hole
-+ đào một cái lỗ=to dig potatoes
-+ bới khoai
-- thúc, án sâu, thọc sâu=to dig a strick into the sand
-+ ấn sâu cái gậy xuống cát=to dig somebody in the ribs
-+ thúc vào sườn ai
-- moi ra, tìm ra=to dig the truth out of somebody
-+ moi sự thật ở ai
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chú ý tới
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hiểu rõ
-*  nội động từ
-- đào bới, xới, cuốc=to dig for gold
-+ đào tìm vàng
-- ((thường) 
-+ into),  for moi móc, tìm tòi, nghiên cứu=to dig for information
-+ moi móc tin tức=to dig into an author
-+ nghiên cứu tìm tòi ở một tác giả
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) học gạo!to dig down
-- đào (chân tường...) cho đổ xuống!to dig fỏ
-- moi móc, tìm tòi!to dig from
-- đào lên, moi lên!to dig in (into)
-- thúc, ấn sâu, thọc (cái thúc ngựa, đầu mũi kiếm...)
-- chôn vùi=to dig oneself in
-+ ẩn mình (bằng cách đào hàm trú ẩn...)!to dig out
-- đào ra, moi ra, khai quật; tìm ra=to dig out a secret
-+ moi ra được một điều bí mật!to dig up
-- xới (đất); đào lên, bới lên (khoai...)
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhận, lĩnh (tiền)!to dig a pit for someone
-- (xem) pit
-@Chuyên ngành kỹ thuật
--đào
--đào đất
--khai
-@Lĩnh vực: xây dựng
--đào hố móng
+occasional
+	
+*  tính từ
+- thỉnh thoảng, từng thời kỳ; phụ động
+=an occasional worker
++ công nhân phụ động
+=an occasional visitor
++ người khách thỉnh thoảng mới đến
+- (thuộc) cơ hội, (thuộc) dịp đặc biệt; vào dịp đặc biệt; theo biến cố, theo sự kiện
+!occasional cause
+- lý do phụ, lý do bề ngoài
+

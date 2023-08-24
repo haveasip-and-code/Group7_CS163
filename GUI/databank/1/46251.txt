@@ -1,3 +1,4 @@
-reemission	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--sự tái phát xạ
+gulper
+	
+- xem gulp
+

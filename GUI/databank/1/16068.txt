@@ -1,11 +1,9 @@
-dissect	
-@dissect /di'sekt/
+resemble
+	
 *  ngoại động từ
-- cắt ra từng mảnh, chặt ra từng khúc
-- mổ xẻ, giải phẫu (con vật, thân cây)
-- mổ xẻ, phân tích kỹ, khảo sát tỉ mỉ, phê phán từng li từng tí
+- giống với (người nào, vật gì)
+=to resemble one another
++ giống nhau
 @Chuyên ngành kỹ thuật
--cắt
--phân chia
-@Lĩnh vực: toán & tin
--phân hoạch
+-giống nhau
+

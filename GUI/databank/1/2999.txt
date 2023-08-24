@@ -1,25 +1,4 @@
-appointment	
-@appointment /ə'pɔintmənt/
-*  danh từ
-- được bổ nhiệm, chức vụ được bổ nhiệm=appointment of someone to a post
-+ sự bổ nhiệm ai vào một chức vụ
-- sự hẹn gặp; giấy mời, giấy triệu tập=to make (fix) an appointment with someone
-+ hẹn gặp ai=to break an appointment
-+ thất hẹn, sai hẹn=to keep an appointment
-+ đúng hẹn
-- chiếu chỉ; sắc lệnh=by the king's appointment
-+ do chiếu chỉ của vua
-- (số nhiều) đồ đạc, đồ trang bị, đồ thiết bị
-- (số nhiều) (từ cổ,nghĩa cổ) tiền lương, lương bổng
-@Chuyên ngành kinh tế
--chức vụ được bổ nhiệm
--cuộc hẹn
--giấy mời
--giấy triệu tập
--sự bổ nhiệm
--sự hẹn gặp
-@Chuyên ngành kỹ thuật
--cuộc hẹn
--sự bố trí
-@Lĩnh vực: điện tử & viễn thông
--sự bổ nhiệm
+viewdata
+	
+-hệ thống hiển thị dữ liệu
+

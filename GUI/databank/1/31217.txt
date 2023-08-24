@@ -1,14 +1,7 @@
-labeled	@Chuyên ngành kỹ thuật
--đánh dấu
--được đánh dấu
-@Lĩnh vực: toán & tin
--băng có nhãn
-@Lĩnh vực: hóa học & vật liệu
--được dán nhãn
+courteous
+	
+*  tính từ
+- lịch sự, nhã nhặn
 @Chuyên ngành kỹ thuật
--đánh dấu
--được đánh dấu
-@Lĩnh vực: toán & tin
--băng có nhãn
-@Lĩnh vực: hóa học & vật liệu
--được dán nhãn
+-nhã nhặn
+

@@ -1,6 +1,11 @@
-confessor	
-@confessor /kən'fesə/
-*  danh từ
-- giáo sĩ nghe xưng tội
-- người xưng tội, người thú tội
-- người thú nhận tôn giáo của mình (trước nguy nan)
+cryptic
+	
+*  tính từ
+- bí mật, mật
+- khó hiểu, kín đáo
+=a cryptic reamark
++ lời nhận xét khó hiểu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bí hiểm
+

@@ -1,6 +1,7 @@
-smoothed	@smoothed
-- trơn tru
+profiler
+	
+- xem profile
 @Chuyên ngành kỹ thuật
--trơn tru
-@Lĩnh vực: toán & tin
--trơn, được làm trơn
+-máy phay chép hình
+-máy phay định hình
+

@@ -1,7 +1,10 @@
-obtainable	@obtainable /əb'teinəbl/
-*  tính từ
-- có thể đạt được, có thể thu được, có thể giành được, có thể kiếm được
-@Chuyên ngành kỹ thuật
+endpoint
+	
+-điểm cuối
 @Lĩnh vực: toán & tin
--có thể đạt được
--có thể thu được
+-điểm đầu nút
+@Chuyên ngành kỹ thuật
+-điểm cuối
+@Lĩnh vực: toán & tin
+-điểm đầu nút
+

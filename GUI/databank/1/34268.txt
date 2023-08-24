@@ -1,16 +1,5 @@
-membrane	@membrane /'membrein/
-*  danh từ
-- màng
-=nucous membrane+ màng nhầy
-@Chuyên ngành kinh tế
--bản mỏng
--màng mỏng
-@Chuyên ngành kỹ thuật
--màng
--màng chắn
--màng mỏng
--màng ngăn
--vách ngăn
--vỏ mỏng
-@Lĩnh vực: xây dựng
--tấm rất mỏng
+antihysteric
+	
+@Lĩnh vực: y học
+-trị hysteria
+

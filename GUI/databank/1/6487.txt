@@ -1,7 +1,9 @@
-bovine	
-@bovine /'bouvain/
-*  tính từ
-- (thuộc) giống bò; như bò
-- đần độn, ngu độn; nặng nề, chậm chạp
-@Chuyên ngành kinh tế
--giống bò
+decussation
+	
+*  danh từ
+- sự xếp chéo chữ thập
+- hình chéo chữ thập
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự bắt chéo
+

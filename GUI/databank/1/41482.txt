@@ -1,13 +1,15 @@
-pictorial	@pictorial /pik'tɔ:riəl/
-*  tính từ
-- (thuộc) tranh ảnh; diễn tả bằng tranh ảnh; có nhiều tranh ảnh
-=a pictorial magazine+ một tờ báo ảnh
-- diễn đạt bằng hình tượng; nhiều hình ảnh; nhiều hình tượng sinh động (văn, cách mô tả...)
+pantograph
+	
 *  danh từ
-- báo ảnh, hoạ báo
+- máy vẽ truyền
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có hình ảnh
--trực quan
+-khung kẹp truyền dẫn
+-khung lấy điện
+-máy truyền tải điện
+-máy vẽ truyền
 @Lĩnh vực: xây dựng
--tranh ảnh
+-dụng cụ vẽ truyền
+-máy truyền tải điện (của tầu điện)
+@Lĩnh vực: điện lạnh
+-khung truyền dẫn
+

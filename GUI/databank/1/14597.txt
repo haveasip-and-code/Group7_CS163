@@ -1,14 +1,10 @@
-depository	
-@depository /di'pɔzitəri/
-*  danh từ
-- nơi cất giữ đồ gửi; kho chứa ((nghĩa đen) & (nghĩa bóng))=he is a depository of learning
-+ ông ấy là cả một kho kiến thức
-- người giữ đồ gửi
-@Chuyên ngành kinh tế
--lán kho
--người giữ đồ gửi
--người nhận giữ
--nhà kho
--nơi giữ đồ gửi
+predetermine
+	
+*  ngoại động từ
+- định trước, quyết định trước
+- thúc ép (ai... làm gì) trước
 @Chuyên ngành kỹ thuật
--kho
+@Lĩnh vực: toán & tin
+-quyết định trước
+-xác định trước
+

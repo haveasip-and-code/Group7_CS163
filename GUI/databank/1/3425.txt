@@ -1,7 +1,9 @@
-arthropod	
-@arthropod /'ɑ:θrəpɔd/
+homomorphism
+	
 *  danh từ
-- (động vật học) động vật chân đốt
+- tính đồng hình
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tiết túc
+-sự đồng cấu
+@Lĩnh vực: điện lạnh
+-phép đồng cấu
+

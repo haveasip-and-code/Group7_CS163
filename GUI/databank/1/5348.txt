@@ -1,20 +1,39 @@
-bet	
-@bet /bet/
+amortization
+	
 *  danh từ
-- sự đánh cuộc=to lay (make) a bet
-+ đánh cuộc=to lose a bet
-+ thua cuộc=to win a bet
-+ thắng cuộc
-- tiền đánh cuộc
-*  (bất qui tắc) động từ bet,  betted
-- đánh cuộc, đánh cá=to bet an someone's winning
-+ đánh cuộc ai thắng=to bet against someone's winning
-+ đánh cuộc ai thua!to bet on a certainty
-- chắc ăn rồi mới đánh cuộc; đánh cuộc nắm chắc phần thắng!to bet one's shirt
-- bán cả khố đi mà đánh cuộc!you bet
-- anh có thể coi cái đó là một điều chắc chắn
+- sự truyền lại, sự để lại (tài sản)
+- sự trả dần, sự trừ dần (món nợ)
 @Chuyên ngành kinh tế
--có cược
+-khấu hao
+-khấu hao dần
+-khấu nợ
+-phí dụng trừ đi làm nhiều kỳ
+-rút dần
+-sự chia ra từng kỳ
+-sự xóa dần
+-trả dần
+-trả nợ dần
+-trừ dần
 @Chuyên ngành kỹ thuật
+-chống rung
+-khấu hao
+-sự giảm chấn
+-sự khấu hao
+-sự tắt dần
+-sự trừ nợ dần
+-sự truyền lại
+@Lĩnh vực: điện tử & viễn thông
+-để lại (tài sản)
+-trả dần
+-trừ dần (món nợ)
+@Lĩnh vực: cơ khí & công trình
+-khoản tiền khấu hao
+-sự trả nợ dần
+@Lĩnh vực: xây dựng
+-sự để lại
+-sự giảm chất
+-sự khử rung
 @Lĩnh vực: toán & tin
--đánh cuộc
+-sự giảm chấn (động)
+-sự trả dần
+

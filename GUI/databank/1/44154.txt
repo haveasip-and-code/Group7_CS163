@@ -1,8 +1,5 @@
-propylaeum	@propylaeum /propylaeum/
-*  danh từ số nhiều
-- cửa đến
-@Chuyên ngành kỹ thuật
--cổng chào
-@Lĩnh vực: xây dựng
--cửa đền
--trang môn
+floccus
+	
+*  danh từ,  số nhiều flocci
+- cụm (xốp như len)
+

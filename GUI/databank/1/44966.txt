@@ -1,7 +1,10 @@
-pyrostat	@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--máy báo cháy
-@Lĩnh vực: điện lạnh
--máy điều hỏa
-@Lĩnh vực: hóa học & vật liệu
--máy điều nhiệt (nhiệt độ cao)
+ameba
+	
+*  danh từ,  số nhiều amebae
+/ə'mi:bəz/,  amebas
+/ə'mi:bəz/
+- (như) amoeba
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-amip
+

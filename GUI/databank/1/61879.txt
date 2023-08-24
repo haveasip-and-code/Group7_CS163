@@ -1,10 +1,20 @@
-violet	@violet /'vaiəlit/
-*  tính từ
-- tím
-*  danh từ
-- màu tím
-- (thực vật học) cây hoa tím
+retract
+	
+*  ngoại động từ
+- rụt vào, thụt vào, co vào
+=the tortoise retracted its head
++ con rùa rụt đầu vào
+- rút lại (lời hứa); rút lui (ý kiến); huỷ bỏ (lời tuyên bố); chối, không nhận, nuốt (lời)
+=to retract one's opinion
++ rút lui ý kiến
+=to retract a statement
++ huỷ bỏ lời tuyên bố
+*  nội động từ
+- rụt vào, thụt vào, co vào (cổ...)
+- rút lui ý kiến; nuốt lời; (pháp lý) phản cung
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--màu tím
--thuốc nhuộm màu tím
+-co lại
+-co rút, co
+-rút lại
+-xếp lại
+

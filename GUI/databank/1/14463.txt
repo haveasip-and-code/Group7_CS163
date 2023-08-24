@@ -1,7 +1,7 @@
-denitrification	
-@denitrification
-- xem denitrify
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: môi trường
--sự khử nitơ
--sự tách nitơ
+drat
+	
+*  ngoại động từ (chỉ dùng ngôi 3 số ít, lối giả định)
+- uộc khưới chết tiệt
+=drat the boy!
++ thằng phải gió! thằng chết tiệt!
+

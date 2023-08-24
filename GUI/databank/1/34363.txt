@@ -1,10 +1,5 @@
-menu	@menu /'menju:/
-*  danh từ
-- thực đơn
-@Chuyên ngành kinh tế
--thực đơn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--lệnh đơn
--thanh thực đơn
--trình đơn, menu
+bandleader
+	
+* danh từ
+- ngưởi chỉ huy dàn nhạc nhỏ, thường chơi nhạc nhẹ
+

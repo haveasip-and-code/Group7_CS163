@@ -1,28 +1,23 @@
-fact	
-@fact /fækt/
-*  danh từ
-- việc, sự việc=to confess the fact
-+ thú nhận đã làm việc gì
-- sự thật=the facts of life
-+ sự thật của cuộc đời; (thông tục) những điều cần biết về vấn đề sinh dục, sinh đẻ...=the fact of the matter is...
-+ sự thật của vấn đề là...
-- sự kiện=hard facts
-+ sự kiện rõ rành rành không thể chối câi được
-- thực tế=in point of fact; as a matter of fact
-+ thực tế là
-- cơ sở lập luận=his facts are disputable
-+ cơ sở lập luận của anh ta không chắc!in fact
-- trên thực tế, thực tế là
-- nói tóm lại
+encrust
+	
+*  ngoại động từ
++ (incrust)
+/in'krʌst/
+- phủ một lớp vỏ ngoài
+- khảm
+=to encrust a teak wood box with mother of pearl
++ khảm xà cừ một hộp gỗ tếch
+*  nội động từ
+- thành một lớp vỏ ngoài; làm thành một lớp vỏ ngoài
+@Chuyên ngành kinh tế
+-đóng cặn
+-kết vỏ
 @Chuyên ngành kỹ thuật
--dữ liệu
--sự kiện
--sự việc
-@Lĩnh vực: điện
--thực trạng
+-đóng cặn
+@Lĩnh vực: hóa học & vật liệu
+-bao vỏ cứng
 @Chuyên ngành kỹ thuật
--dữ liệu
--sự kiện
--sự việc
-@Lĩnh vực: điện
--thực trạng
+-đóng cặn
+@Lĩnh vực: hóa học & vật liệu
+-bao vỏ cứng
+

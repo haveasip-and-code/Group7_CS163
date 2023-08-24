@@ -1,8 +1,15 @@
-demultiplexer	
-@demultiplexer
-- (Tech) bộ phân đa kênh
+usury
+	
+*  danh từ
+- sự cho vay nặng l i
+- l i nặng ((thường) nghĩa bóng)
+=a service repaid with usury
++ sự giúp đỡ được đền đáp lại gấp bội
+@Chuyên ngành kinh tế
+-sự cho vay nặng lãi
+-tiền lãi cắt cổ
+-tiền thực lợi
+-việc cho vay nặng lãi
 @Chuyên ngành kỹ thuật
--bộ phân kênh
--bộ tách kênh
-@Lĩnh vực: điện lạnh
--bộ phận kênh
+-sự hao mòn
+

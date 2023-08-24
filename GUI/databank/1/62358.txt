@@ -1,9 +1,11 @@
-wamble	@wamble
-* danh từ
-- bước đi không vững, lảo đảo
-- sự chóng mặt; sự loạng choạng
-- cảm giác lợm giọng, buồn nôn
-* nội động từ
-- đi không vững, đi lảo đảo
-- chóng mặt; loạng choạng
-- cảm thấy lợm giọng, cảm thấy buồn nôn
+nonsuit
+	
+*  danh từ
+- (pháp lý) sự bác đơn
+*  ngoại động từ
+- (pháp lý) bác đơn (của người nào)
+@Chuyên ngành kinh tế
+-đình chỉ truy tố
+-miễn tố
+-ngưng truy tố
+

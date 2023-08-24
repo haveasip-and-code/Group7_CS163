@@ -1,5 +1,16 @@
-id	
-@id /id/
+collation
+	
 *  danh từ
-- (sinh vật học) ít (đơn vị chất giống)
-- (triết học) xung động bản năng
+- bữa ăn nhẹ (ngoài bữa ăn chính)
+@Chuyên ngành kinh tế
+-sự so chiếu, đối chiếu (điện văn)
+@Chuyên ngành kỹ thuật
+-sự phân loại
+-sự sắp xếp
+-sự so lựa
+@Lĩnh vực: toán & tin
+-dãy hòa trộn
+-dãy so lựa
+@Lĩnh vực: cơ khí & công trình
+-sự lọc (qua)
+

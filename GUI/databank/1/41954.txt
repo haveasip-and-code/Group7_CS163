@@ -1,25 +1,5 @@
-plating	@plating /'pleitiɳ/
-*  danh từ
-- sự bọc sắt (một chiếc tàu)
-- lớp mạ; thuật mạ
-- cuộc đua lấy cúp vàng
-- (ngành in) sự sắp bát ch
-@Chuyên ngành kinh tế
--sự cấy trên đĩa (vi sinh vật)
-@Chuyên ngành kỹ thuật
--đóng tầu
--lớp lá bọc
--lớp mạ
--lớp phủ
--mạ
--mạ kim loại
--sự mạ
--sự mạ điện
--sự mạ kim loại
--sự mạ phủ
--sự phủ
--sự tráng
-@Lĩnh vực: cơ khí & công trình
--mạ tráng bề mặt
-@Lĩnh vực: xây dựng
--sự bọc kim loại
+myxomatosis
+	
+* danh từ
+- một căn bệnh ở loài thỏ do vi rút gây ra
+

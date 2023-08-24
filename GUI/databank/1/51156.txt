@@ -1,60 +1,7 @@
-sleeve	@sleeve /sli:v/
-*  danh từ
-- tay áo
-=to put something up one's sleeve+ bỏ vật gì trong tay áo
-=to pluck someone's sleeve+ níu tay áo ai
-- (kỹ thuật) ống ngoài, ống bọc ngoài,  măngsông
-!to have plan up one's sleeve
-- chuẩn bị sẵn một kế hoạch
-!to laugh in one's sleeve
-- (xem) laugh
-!to turn (roll) up one's sleeves
-- xắn tay áo (để đánh nhau, để làm việc...)
-!to wear one's heart upon one's sleeve
-- (xem) heart
+horst
+	
+* danh từ
+- (địa chất) địa lũy; hoxtơ
 @Chuyên ngành kỹ thuật
--bạc lót, ống bọc ngoài
--bạc nối
--đồ gá kẹp
--đui
--đui di động
--khớp nối
--măng song
--măng sông
--ống
--ống bọc
--ống cách điện
--ống kẹp
--ống lồng
--ống lót
--ống lót trục
--ống lót trục chính
--ống ngoài
--ống nhánh
--ống nối
--ống sứ lót
--ống trượt
--ống vỏ
--sứ xuyên
--trụ trượt
--trục rỗng
--vỏ đĩa
--vòng kẹp
-@Lĩnh vực: xây dựng
--cái bao ngoài ống
--hộp (nối) cáp
--măng song mềm
--măng song trượt
--ống kíp mìn
--ống lồng nối
--ống nối trượt
--vỏ kíp mìn
-@Lĩnh vực: điện
--ống bọc (ở đầu cắm phôn)
-@Lĩnh vực: cơ khí & công trình
--ống côn trung gian
--ống khắc vạch (của panme)
--thân vỏ
--trụ ngoài (máy khoan cần)
-@Lĩnh vực: ô tô
--ống lót xy lanh
+-địa lũy
+

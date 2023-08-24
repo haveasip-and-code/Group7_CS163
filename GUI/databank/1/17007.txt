@@ -1,7 +1,8 @@
-dune	
-@dune /dju:n/
+immunization
+	
 *  danh từ
-- cồn cát, đụn cát
+- (y học) sự tạo miễm dịch
 @Chuyên ngành kỹ thuật
--cồn
--đụn cát
+@Lĩnh vực: y học
+-sự miên dịch hóa
+

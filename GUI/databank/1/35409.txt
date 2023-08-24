@@ -1,10 +1,37 @@
-monad	@monad /'mɔnæd/
+journal
+	
 *  danh từ
-- (triết học) đơn t
+- báo hằng ngày
+- tạp chí
+- (hàng hải); (thương nghiệp) nhật ký
+- (số nhiều) (the Journals) biên bản (những phiên họp nghị viện)
+- (kỹ thuật) cổ trục, ngõng trục
+@Chuyên ngành kinh tế
+-nhật báo
+-nhật san
+-sổ gốc
+-sổ gốc (kế toán)
+-sổ nhật biên
+-sổ nhật ký
+-sổ phân loại
+-sổ phân lục
+-sổ tổng hợp
 @Chuyên ngành kỹ thuật
--hóa trị một
-@Lĩnh vực: y học
--động vật đơn bào
--tế bào đơn lẻ
-@Lĩnh vực: hóa học & vật liệu
--nguyên tố hóa trị một
+-bản ghi
+-báo
+-báo cáo
+-đầu vòi
+-gờ
+-ngõng trục
+-nhật ký
+-ổ đỡ
+-sổ ghi
+-sổ nhật ký
+-vấu
+@Lĩnh vực: toán & tin
+-ghi nhật ký
+@Lĩnh vực: cơ khí & công trình
+-gối trục
+@Lĩnh vực: xây dựng
+-ngõng tựa
+

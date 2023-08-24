@@ -1,8 +1,6 @@
-compensatory	
-@compensatory /kəm'pensətiv/ (compensatory) /kəm'pensətəri/
-*  tính từ
-- đền bù, bồi thường
-- (kỹ thuật) bù
+lossy
+	
+- sự mất, sự thiệt (dùng trong nén thông tin)
 @Chuyên ngành kỹ thuật
--bổ chính
--bù
+-tổn hao
+

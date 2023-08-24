@@ -1,6 +1,9 @@
-grenade	
-@grenade /gri'neid/
-*  danh từ
-- (quân sự) lựu đạn
+kinematic
+	
+*  tính từ
+- (vật lý) (thuộc) động học
 @Chuyên ngành kỹ thuật
--lựu đạn
+-động học
+@Chuyên ngành kỹ thuật
+-động học
+

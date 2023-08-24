@@ -1,9 +1,11 @@
-typesetter	@typesetter
-* danh từ
-- thợ xếp chữ
-- máy xếp chữ
-@Chuyên ngành kinh tế
--máy sắp chữ (để in)
--người, thợ sắp chữ
+lissom
+	
+*  tính từ
+- mềm mại; uyển chuyển; nhanh nhẹn
 @Chuyên ngành kỹ thuật
--máy sắp chữ
+@Lĩnh vực: xây dựng
+-mềm mại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-mềm mại
+

@@ -1,5 +1,7 @@
-lumpfish	@lumpfish /'lʌmpiʃ/
-*  danh từ
-- (động vật học) cá vây tròn
-@Chuyên ngành kinh tế
--cá vây tròn
+cofunction
+	
+- đối hàm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đôi hàm
+

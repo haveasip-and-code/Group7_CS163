@@ -1,37 +1,10 @@
-adapter	
-@adapter /ə'dæptə/
-*  danh từ
-- người phỏng theo, người sửa lại cho hợp (tác phẩm văn học...)
-- người làm thích nghi, người làm thích ứng
-- (kỹ thuật) thiết bị tiếp hợp, ống nối, cái nắn điện
-@Chuyên ngành kỹ thuật
--bộ chỉnh lưu
--bộ điều hợp
--bộ đổi điện
--bộ nguồn
--bộ phận nối
--bộ phối hợp
--bộ thích ứng
--bộ tiếp hợp
--đầu nối
--ống lồng
--ống nối
--phích nối
-@Lĩnh vực: điện lạnh
--bộ (làm) thích ứng
-@Lĩnh vực: điện
--bộ nắn điện
--mũ sứ
-@Lĩnh vực: giao thông & vận tải
--bộ phận tiếp chuyển
-@Lĩnh vực: điện tử & viễn thông
--bộ thích khối
--bộ thích nghi
-@Lĩnh vực: toán & tin
--cạc điều hợp
-@Lĩnh vực: cơ khí & công trình
--cái tiếp hợp
-@Lĩnh vực: ô tô
--cây nối
-@Lĩnh vực: xây dựng
--phần nối
+wilful
+	
+*  tính từ ((từ Mỹ,nghĩa Mỹ) willful)
+- cố ý, chủ tâm
+=wilful murder
++ tội cố sát
+- cứng cổ, bướng, ngang ngạnh, ngoan cố
+=a wilful child
++ một đứa trẻ bướng bỉnh
+

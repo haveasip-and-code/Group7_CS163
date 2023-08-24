@@ -1,6 +1,41 @@
-collocation	
-@collocation /,kɔlə'keiʃn/
+riddle
+	
 *  danh từ
-- sự sắp xếp vào một chỗ; sự sắp đặt theo thứ tự
+- điều bí ẩn, điều khó hiểu
+=to talk in riddles
++ nói những điều bí ẩn khó hiểu
+- câu đố
+=to solve a riddle
++ giải được một điều bí ẩn khó hiểu; (thông tục) trả lời được một câu đố
+- người khó hiểu; vật khó hiểu
+*  nội động từ
+- nói những điều bí ẩn, nói những điều khó hiểu
+*  ngoại động từ
+- giải, đoán (một điều bí ẩn khó hiểu, một câu đố)
+=riddle me this
++ hây đoán hộ tôi xem cái này có nghĩa là gì
+*  danh từ
+- cái sàng; máy sàng
+*  ngoại động từ
+- sàng (gạo...)
+- (nghĩa bóng) sàng lọc; xem xét tỉ mỉ
+=to riddle a piece of evidence
++ xem xét kỹ càng một chứng cớ
+- bắn thủng lỗ, làm thủng lỗ chỗ
+=bullets riddled the armoured car
++ đạn bắn lỗ chỗ chiếc xe bọc sắt
+- (nghĩa bóng) hỏi (ai) dồn dập
+- lấy sự việc để bẻ lại (người, lý thuyết)
+@Chuyên ngành kinh tế
+-lưới
+-rây
+-sàng
 @Chuyên ngành kỹ thuật
--sự sắp xếp
+-cái sàng
+-máy sàng
+-rây
+-sàng
+-sàng tay
+@Lĩnh vực: hóa học & vật liệu
+-sàng (than)
+

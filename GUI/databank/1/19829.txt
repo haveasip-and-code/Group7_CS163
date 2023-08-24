@@ -1,14 +1,5 @@
-expected	
-@expected
-- được chờ đợi hy vọng
-@Chuyên ngành kinh tế
--dự tính
--xẽ xảy ra
-@Chuyên ngành kỹ thuật
--kỳ vọng
-@Lĩnh vực: toán & tin
--được chờ đợi
-@Chuyên ngành kỹ thuật
--kỳ vọng
-@Lĩnh vực: toán & tin
--được chờ đợi
+tamer
+	
+*  danh từ
+- người dạy thú
+

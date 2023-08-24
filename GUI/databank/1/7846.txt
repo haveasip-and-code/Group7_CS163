@@ -1,7 +1,13 @@
-capital	
-@capital
-- (toán kinh tế) vốn, tư bản // chính, quan trọng
-- circulating c. (toán kinh tế) vốn luân chuyển, tư bản lưu thông
-- fixed c. (toán kinh tế) vốn cơ bản, vốn cố đinh
-- floating c. (toán kinh tế) vốn luân chuyển, vốn tư bản lưu thông
-- working c. (toán kinh tế) vốn luân chuyển
+repurchase
+	
+* ngoại động từ
+- mua lại
+* danh từ
+- vật mua lại, sự mua lại
+@Chuyên ngành kinh tế
+-có thể mua lại (lần nữa)
+-mua lại
+-sự mua lại
+@Chuyên ngành kỹ thuật
+-mua lại
+

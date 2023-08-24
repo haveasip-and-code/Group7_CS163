@@ -1,10 +1,8 @@
-quarto	@quarto /'kwɔ:tou/
-*  danh từ
-- khổ bốn (của một tờ giấy xếp làm bốn)
-- sách khổ bốn
-@Chuyên ngành kinh tế
--khổ bốn (giấy)
--sách khổ bốn
+homograft
+	
+* danh từ
+- như allograft
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--khổ bốn
+@Lĩnh vực: y học
+-ghép đồng loại (ghép chéo)
+

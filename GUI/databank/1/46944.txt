@@ -1,16 +1,5 @@
-reproduce	@reproduce /,ri:prə'dju:s/
-*  động từ
-- tái sản xuất
-- làm sinh sôi nẩy nở; tái sinh, mọc lại
-=can lizards reproduce their tails?+ thằn lằn có thể mọc lại đuôi không?
-- sao chép, sao lại, mô phỏng
-=to reproduce a picture+ sao lại một bức tranh
-@Chuyên ngành kinh tế
--tái sản xuất
-@Chuyên ngành kỹ thuật
--sao lại
--tạo bản sao
-@Lĩnh vực: xây dựng
--sao chép lại
-@Lĩnh vực: toán & tin
--sao chụp lại
+pyrotechnist
+	
+*  danh từ
+- thợ làm pháo hoa
+

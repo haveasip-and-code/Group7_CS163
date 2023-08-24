@@ -1,8 +1,13 @@
-quid	@quid /kwid/
-*  danh từ
-- viên thuốc lá, miếng thuốc lá (để nhai)
-- (từ lóng) (số nhiều không đổi) đồng bảng Anh
-@Chuyên ngành kinh tế
--một bảng Anh
-@Chuyên ngành kinh tế
--đồng bảng Anh
+diminish
+	
+*  động từ
+- bớt, giảm, hạ bớt, giảm bớt; thu nhỏ
+=to diminish someone's powers
++ giảm bớt quyền hành của ai
+@Chuyên ngành kỹ thuật
+-co hẹp
+-giảm
+-giảm bớt
+-làm nhỏ lại
+-rút ngắn
+

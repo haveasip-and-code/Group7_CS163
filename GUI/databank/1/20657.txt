@@ -1,35 +1,20 @@
-feeler	
-@feeler /'fi:lə/
+zinc
+	
 *  danh từ
-- người sờ, người bắt mạch; người nhạy cảm
-- (động vật học) râu (mèo...); râu sờ, xúc tu; tua
-- (quân sự) người do thám, người thăm dò
-- lời thăm dò, lời ướm ý
+- kẽm
+=to coat with zinc
++ mạ kẽm, tráng kẽm
+*  ngoại động từ
+- tráng kẽm, mạ kẽm
+=to zinc iron
++ tráng kẽm lên sắt
+- lợp bằng kẽm
+=to zinc a roof
++ lợp mái nhà bằng kẽm
 @Chuyên ngành kỹ thuật
--cái cảm
--compa đo
--đầu dò
--thước cặp
-@Lĩnh vực: toán & tin
--cái thu biến
-@Lĩnh vực: cơ khí & công trình
--chốt căn
-@Lĩnh vực: hóa học & vật liệu
--phần tử nhạy
-@Lĩnh vực: xây dựng
--que thăm dò
--thước thăm dò
+@Lĩnh vực: y học
+-kẽm (nguyên tố hóa học, ký hiệu Zn)
 @Chuyên ngành kỹ thuật
--cái cảm
--compa đo
--đầu dò
--thước cặp
-@Lĩnh vực: toán & tin
--cái thu biến
-@Lĩnh vực: cơ khí & công trình
--chốt căn
-@Lĩnh vực: hóa học & vật liệu
--phần tử nhạy
-@Lĩnh vực: xây dựng
--que thăm dò
--thước thăm dò
+-kẽm
+-mạ kẽm
+

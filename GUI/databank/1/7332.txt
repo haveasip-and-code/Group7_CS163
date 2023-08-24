@@ -1,5 +1,39 @@
-buyable	
-@buyable
-- xem buy
-@Chuyên ngành kinh tế
--có thể mua được
+literal
+	
+*  tính từ
+- (thuộc) chữ; bằng chữ; theo nghĩa của chữ, theo nghĩa đen
+=a literal translation
++ bản dịch từng chữ theo nguyên văn
+=a literal error
++ chữ in sai
+=on a literal sense
++ theo nghĩa đen
+=a literal transcript
++ bản sao nguyên văn
+=literal interpretation
++ sự hiểu theo từng chữ, sự hiểu theo nghĩa đen
+- tầm thường, phàm tục
+=a literal man
++ người phàm phu tục tử
+- thật, đúng như vậy
+=a literal swarm of children
++ đúng là bầy con nít
+@Chuyên ngành kỹ thuật
+-chữ
+-hằng số
+-lỗi in
+-nguyên văn
+@Lĩnh vực: toán & tin
+-bằng chữ
+-chuỗi ký tự
+-trực kiện
+@Chuyên ngành kỹ thuật
+-chữ
+-hằng số
+-lỗi in
+-nguyên văn
+@Lĩnh vực: toán & tin
+-bằng chữ
+-chuỗi ký tự
+-trực kiện
+

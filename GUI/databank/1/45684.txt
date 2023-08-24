@@ -1,34 +1,9 @@
-rattle	@rattle /rætl/
-*  danh từ
-- cái trống lắc, cái lúc lắc (đồ chơi trẻ con)
-- (động vật học) vòng sừng (ở đuôi của rắn chuông)
-- (thực vật học) cây có hạt nổ tách (khi quả chín)
-- tiếng nổ lốp bốp; tiếng lách cách, tiếng lạch cạch (của cánh cửa, xe bò...); tiếng lộp bộp (mưa...)
-=the rattle of shutters+ tiếng cánh cửa chớp rung lạch cạch
-- tiếng rầm rầm, tiếng huyên náo
-- tiếng nấc hấp hối ((cũng) dealth rattle)
-- chuyện huyên thiên, chuyện ba hoa; người lắm lời, người hay nói huyên thiên
-*  nội động từ
-- kêu lách cách, kêu lạch cạch; rơi lộp bộp (mưa...)
-=the windows rattled+ cửa sổ lắc lạch cạch
-- chạy râm rầm (xe cộ...)
-=the tram rattled through the streets+ xe điện chạy rầm rầm qua phố
-- nói huyên thiên, nói liến láu
-*  ngoại động từ
-- làm kêu lách cách, làm kêu lạch cạch; rung lách cách, khua lạch cạch...
-=the wind rattles the shutters+ gió rung cánh cửa chớp kêu lạch cạch
-- (+ off,  out,  away) đọc liến láu, đọc thẳng một mạch (bài học, bài diễn văn)
-=to rattle off one's lesson+ đọc bài học một mạch
-- vội thông qua (một dự luật...)
-=to rattle a bill through the House+ vội vã đem ra nghị viện thông qua một dự luật
-- (từ lóng) làm hồi hộp, làm bối rối, làm lo sợ, làm lo lắng, làm ngơ ngác...
-=don't get rattled over it+ đừng sợ gì, đừng có việc gì phải cuống lên
-!to rattle up
-- (hàng hải) kéo lên (neo)
-- làm vui lên, làm hăng lên, làm phấn khởi
-!to rattle the sabre
-- (nghĩa bóng) đe doạ gây chiến tranh
-@Chuyên ngành kinh tế
--đùi bò trước
+combinatorial
+	
+*  tính từ
+- tổ hợp
+=combinatorial mathematical logic
++ toán tổ hợp
 @Chuyên ngành kỹ thuật
--làm sạch (vật đúc)
+-tổ hợp
+

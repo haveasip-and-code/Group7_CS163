@@ -1,37 +1,20 @@
-ethanol	
-@ethanol
-* danh từ
-- (hoá học) ethanol
-@Chuyên ngành kinh tế
--ethanol
--rượu etelic
+surd
+	
+*  tính từ
+- (toán học) vô tỉ
+=surd root
++ căn vô tỉ
+- (ngôn ngữ học) không kêu (âm)
+*  danh từ
+- (toán học) số vô tỉ
+- (ngôn ngữ học) âm không kêu
 @Chuyên ngành kỹ thuật
--etanol
--rượu biến chất
-@Lĩnh vực: hóa học & vật liệu
--C2H2OH (rượu uống)
--CH3CH2OH
--etanan
--etenol
--rượu etylic
-@Lĩnh vực: y học
--ethyl alcohol
-@Lĩnh vực: thực phẩm
--rượu etyl
+-biểu thức vô tỷ
+-số vô tỷ
+-tính vô tỷ
+-vô tỷ
 @Lĩnh vực: điện lạnh
--rượu etylíc
-@Chuyên ngành kỹ thuật
--etanol
--rượu biến chất
-@Lĩnh vực: hóa học & vật liệu
--C2H2OH (rượu uống)
--CH3CH2OH
--etanan
--etenol
--rượu etylic
-@Lĩnh vực: y học
--ethyl alcohol
-@Lĩnh vực: thực phẩm
--rượu etyl
-@Lĩnh vực: điện lạnh
--rượu etylíc
+-không kêu (âm)
+@Lĩnh vực: toán & tin
+-lượng vô tỷ
+

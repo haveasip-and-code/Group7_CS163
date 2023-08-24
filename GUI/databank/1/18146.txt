@@ -1,28 +1,17 @@
-enclosed	
-@Chuyên ngành kinh tế
--đính kèm
--đính trong này
-@Chuyên ngành kỹ thuật
--được bọc
--được bọc kín
--được che chắn
--được che kín
--khép kín
--kín
-@Lĩnh vực: cơ khí & công trình
--được bao bọc
--được bao che
-@Lĩnh vực: hóa học & vật liệu
--được đóng kín
-@Chuyên ngành kỹ thuật
--được bọc
--được bọc kín
--được che chắn
--được che kín
--khép kín
--kín
-@Lĩnh vực: cơ khí & công trình
--được bao bọc
--được bao che
-@Lĩnh vực: hóa học & vật liệu
--được đóng kín
+vibrant
+	
+*  tính từ
+- rung, rung động
+=vibrant string
++ sợi dây rung
+- lúc lắc
+- rung, run run
+=vibrant with joy
++ run lên vì mừng
+- kêu, ngân vang
+=vibrant drum
++ trống kêu
+- sôi nổi, mạnh mẽ, đầy khí lực
+=a vibrant man
++ một người sôi nổi đầy khí lực
+

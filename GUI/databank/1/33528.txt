@@ -1,16 +1,4 @@
-mangle	@mangle /'mæɳgl/
-*  danh từ
-- (nghành dệt) máy cán là
-*  ngoại động từ
-- (nghành dệt) cán là (vải)
-*  ngoại động từ
-- xé; cắt xơ ra; làm nham nhở, làm sứt sẹo
-- làm hư, làm hỏng, làm xấu đi
-- làm mất hay (bản nhạc, bài thơ... vì chép lại sai); đọc sai, đọc trệch (từ)
-@Chuyên ngành kỹ thuật
--con lăn
--máy cán
-@Lĩnh vực: cơ khí & công trình
--máy cán là
-@Lĩnh vực: xây dựng
--trục cán
+covetable
+	
+- xem covet
+

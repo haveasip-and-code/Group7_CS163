@@ -1,3 +1,10 @@
-sepulcher	@Chuyên ngành kỹ thuật
--lăng
--mộ xây
+durability
+	
+*  danh từ
+- tính bền, tính lâu bền
+@Chuyên ngành kỹ thuật
+-độ bền
+-sự bền
+@Lĩnh vực: cơ khí & công trình
+-trường cửu
+

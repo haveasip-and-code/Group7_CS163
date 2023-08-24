@@ -1,9 +1,7 @@
-tensioner	@Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--bộ căng đai
--thiết bị kéo căng (xích)
-@Lĩnh vực: cơ khí & công trình
--cái kéo căng
--thiết bị kéo căng
+maturing
+	
+-sự hóa cứng
+-sự hóa già
 @Lĩnh vực: xây dựng
--thiết bị kéo
+-sự nổi (màu)
+

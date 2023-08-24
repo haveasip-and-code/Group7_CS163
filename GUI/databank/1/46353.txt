@@ -1,6 +1,20 @@
-refrangible	@refrangible /ri'frændʤəbl/
-*  tính từ
-- (vật lý) khúc xạ được
+deadlock
+	
+*  danh từ
+- sự đình hẳn lại; sự đình trệ hoàn toàn; (nghĩa bóng) sự bế tắc
+=to come to a deadlock
++ đi đến chỗ đình trệ hoàn toàn; (nghĩa bóng) đi đến chỗ bế tắc không có lối thoát
+*  ngoại động từ
+- làm đình trệ hoàn toàn; đưa đến chỗ bế tắc
+@Chuyên ngành kinh tế
+-bế tắc
+-sự đình trệ hoàn toàn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--khúc xạ được
+-sự tắc nghẽn
+@Lĩnh vực: xây dựng
+-bế tắc
+-khóa chết
+-sự đình trệ
+@Lĩnh vực: toán & tin
+-sự bế tắc
+

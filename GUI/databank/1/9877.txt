@@ -1,19 +1,8 @@
-cloudiness	
-@cloudiness /'klaudinis/
+authorship
+	
 *  danh từ
-- tình trạng có mây phủ, tình trạng đầy mây; tình trạng u ám
-- tình trạng đục vẩn
-- sự tối nghĩa, sự không sáng tỏ, sự không rõ ràng (văn)
-- vẻ u buồn
-@Chuyên ngành kinh tế
--chất vẩn đục
--độ đục
-@Chuyên ngành kỹ thuật
--độ mờ
-@Lĩnh vực: hóa học & vật liệu
--độ bẩn
-@Lĩnh vực: điện lạnh
--độ vẩn
--sự vẩn đục (dầu)
-@Lĩnh vực: dệt may
--độ xỉn
+- nghề viết văn
+- nguồn tác giả (một cuốn sách)
+=a book of doubrful authorship
++ một cuốn sách chưa rõ nguồn tác giả (chưa rõ tác giả là ai)
+

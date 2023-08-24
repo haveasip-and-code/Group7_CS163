@@ -1,21 +1,12 @@
-experience	
-@experience /iks'piəriəns/
-*  danh từ
-- kinh nghiệm=to look experience
-+ thiếu kinh nghiệm=to learn by experience
-+ rút kinh nghiệm
-- điều đã kinh qua
-*  ngoại động từ
-- trải qua, kinh qua, nếm mùi, chịu đựng=to experience harsh trials
-+ trải qua những thử thách gay go
-- (
-+ that,  how) học được, tìm ra được (qua kinh nghiệm)
-@Chuyên ngành kinh tế
--biên bản (bảo hiểm)
--kinh nghiệm
+batcher
+	
+-máy liều lượng
+-thiết bị phối liệu
 @Chuyên ngành kỹ thuật
--kinh nghiệm
--sự thí nghiệm
-@Chuyên ngành kỹ thuật
--kinh nghiệm
--sự thí nghiệm
+-bộ định lượng
+-máy định lượng
+-phễu nạp liệu
+-phễu tiếp liệu
+-thiết bị phối liệu
+-thùng chứa
+

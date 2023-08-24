@@ -1,10 +1,7 @@
-isometry	
-@isometry
-- phép đẳng cự
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đẳng cự
--phép đẳng cự
-@Lĩnh vực: xây dựng
--sự cùng kích thước
--sự đẳng cự
+nicking
+	
+-sự cắt khúc
+-sự cắt rãnh
+-sự khía
+-vết mẻ
+

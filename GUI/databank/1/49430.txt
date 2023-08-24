@@ -1,5 +1,14 @@
-seasick	@seasick /'si:sik/
+peripheral
+	
 *  tính từ
-- say sóng
+- (thuộc) chu vi
+- (thuộc) ngoại vi, (thuộc) ngoại biên
 @Chuyên ngành kỹ thuật
--say sóng
+-biên
+-ngoại biên
+-ngoài cùng
+-ngoại vi
+-thiết bị ngoại vi
+@Lĩnh vực: y học
+-thuộc ngoại vi, thuộc ngoài biên
+

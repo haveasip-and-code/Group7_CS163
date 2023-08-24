@@ -1,10 +1,5 @@
-abbreviated	
-@abbreviated /ə'bri:vietid/
-*  tính từ
-- tóm tắt; viết tắt; rút ngắn lại
-- ngắn cũn cỡn (quần áo...)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--được rút gọn
--được viết tắt
--rút ngắn lại
+wiredrawer
+	
+*  danh từ
+- (kỹ thuật) người kéo sợi (kim loại); máy kéo sợi (kim loại)
+

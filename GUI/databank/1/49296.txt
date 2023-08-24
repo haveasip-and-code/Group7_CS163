@@ -1,33 +1,5 @@
-scroll	@scroll /skroul/
-*  danh từ
-- cuộn giấy, cuộn da lừa, cuộn sách, cuộc câu đối; (từ cổ,nghĩa cổ) bảng danh sách
-- (từ hiếm,nghĩa hiếm) đường xoáy ốc
-- hình trang trí dạng cuộn
-*  động từ
-- (từ hiếm,nghĩa hiếm) cuộn tròn
-- trang trí bằng những hình cuộn
-@Chuyên ngành kinh tế
--vít tải
-@Chuyên ngành kỹ thuật
--cuộn
--đường xoắn ốc
--nếp cuộn
--sự cuốn
--vật hình xoắn ốc
--xem lướt
--xem trộm
-@Lĩnh vực: xây dựng
--buồng xoắn trôn ốc
--gờ xoắn ốc
--trang trí cuộn
--vỏ bình ốc (của máy bơm)
-@Lĩnh vực: toán & tin
--cuộn đường xoáy ốc
--đường xoáy ốc
--mặt kẻ lệch
--sự xem lướt
-@Lĩnh vực: cơ khí & công trình
--đường xoắn ốc phẳng
--nếp cuộn tròn
--ren phẳng (mâm cặp máy tiện)
--trục vít (bước thay đổi theo đường kính lõi)
+deontic
+	
+* tính từ
+- liên quan tới bổn phận, nghĩa vụ
+

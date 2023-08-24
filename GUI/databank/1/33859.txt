@@ -1,5 +1,7 @@
-masthead	@masthead
-- Trong lĩnh vực ấn loát văn phòng, đây là một phần của thư tin tức hoặc tạp chí, chứa các chi tiết về ban quản lý, người sở hữu, danh sách quảng cáo, giá mua dài hạn v v
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--đỉnh cột buồm
+larboard
+	
+*  danh từ
+- (từ cổ,nghĩa cổ) mạn trái (của tàu, thuyền)
+*  tính từ
+- (từ cổ,nghĩa cổ) (thuộc) mạn trái (tàu, thuyền)
+

@@ -1,7 +1,10 @@
-outwards	@outwards /'autwədz/
-*  phó từ
-- ra phía ngoài, hướng ra ngoài
+disjoint
+	
+*  ngoại động từ
+- tháo rời ra
+- tháo rời khớp nối ra; làm trật khớp
 @Chuyên ngành kỹ thuật
+-ngắt điện
 @Lĩnh vực: toán & tin
--hướng ra phía ngoài
--ra phía ngoài
+-rời (nhau)
+

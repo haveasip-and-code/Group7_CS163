@@ -1,8 +1,5 @@
-cucumber	
-@cucumber /'kju:kəmbə/
-*  danh từ
-- (thực vật học) cây dưa chuột
-- quả dưa chuột!as cool as a cucumber
-- (xem) cool
-@Chuyên ngành kinh tế
--quả dưa chuột
+spadix
+	
+*  danh từ,  số nhiều spadices
+- (thực vật học) bông mo
+

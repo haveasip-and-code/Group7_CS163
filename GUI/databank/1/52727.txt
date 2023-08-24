@@ -1,25 +1,20 @@
-sprue	@sprue /spru:/
-*  danh từ
-- (kỹ thuật) rãnh rót (để rót kim loại nấu chảy vào khuôn)
-- thỏi rãnh (thỏi kim loại đọng lại ở rãnh rót)
-- (y học) bệnh viêm ruột loét miệng ((cũng) psilosis)
-@Chuyên ngành kỹ thuật
--đậu rót
--đậu rót đứng
--lỗ tháo
--ống rót
--phễu rót (đúc)
--rãnh rót, thỏi rót
--vảy sắt
--vỏ cứng
--xỉ
+pitting
+	
+-rỗ mòn (kim loại)
+-sư ăn mòn điểm
+-sự ăn mòn điểm
+-sự đào hố
+-sự rỗ lỗ chỗ
 @Lĩnh vực: y học
--bệnh sprue
-@Lĩnh vực: cơ khí & công trình
--lỗ tháo (gang, xỉ)
--miệng kim
--rãnh rót
--vết chảy
+-nốt lõm
+@Lĩnh vực: điện lạnh
+-sự ăn mòn lỗ
 @Lĩnh vực: xây dựng
--mương thẳng đứng
--mương xối
+-sự gây rỗ
+-sự rỗ
+@Lĩnh vực: ô tô
+-sự làm lõm (kim loại)
+-sự làm rỗ
+@Lĩnh vực: cơ khí & công trình
+-sự rỗ mòn (kim loại)
+

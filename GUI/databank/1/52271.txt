@@ -1,17 +1,13 @@
-speech	@speech /spi:tʃ/
-*  danh từ
-- khả năng nói, năng lực nói
-=to lose the power (faculty) of speech+ không nói được nữa
-- lời nói, lời
-- cách nói
-=to be show of speech+ chậm mồm chậm miệng
-- bài nói, bài diễn văn
-=to deliver a speech+ đọc một bài diễn văn
-- ngôn ngữ (của một dân tộc)
-- (từ cổ,nghĩa cổ) tin đồn, lời đồn
-@Chuyên ngành kinh tế
--bài phát biểu
--diễn văn
+lengthen
+	
+*  ngoại động từ
+- làm dài ra
+*  nội động từ
+- kéo dài ra, dài ra
 @Chuyên ngành kỹ thuật
--diễn văn
--lời nói
+-kéo dài
+-nối dài
+@Chuyên ngành kỹ thuật
+-kéo dài
+-nối dài
+

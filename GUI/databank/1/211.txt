@@ -1,11 +1,5 @@
-absorbable	
-@absorbable /əb'sɔ:bəbl/
-*  tính từ
-- có thể nuốt được; có thể bị hút
-- có thể hút thu được; có thể bị hút thu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--hấp phụ được
--hấp thụ được
-@Lĩnh vực: cơ khí & công trình
--hút thu được
+choreograph
+	
+* động từ
+- sáng tác và dàn dựng điệu múa balê
+

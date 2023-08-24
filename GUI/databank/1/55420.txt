@@ -1,10 +1,38 @@
-tagging	@Chuyên ngành kỹ thuật
--sự dán nhãn
--sự ghi nhãn
--sự làm nhãn
-@Lĩnh vực: toán & tin
--gắn thẻ
--sự gắn thẻ
--sự tạo nhãn hiệu
+attenuation
+	
+*  danh từ
+- sự làm mỏng đi, sự làm mảnh đi, sự làm gầy đi
+- sự làm yếu đi
+- sự làm loãng
+- (vật lý) sự tắt dần, sự suy giảm
+=attenuation constant
++ rađiô hệ số suy giảm
+@Chuyên ngành kinh tế
+-làm yếu đi
+-sự giảm bớt
+-sự pha loãng
+@Chuyên ngành kỹ thuật
+-độ suy giảm
+-làm loãng
+-lượng suy giảm
+-sự giảm nhẹ
+-sự tắt
+-suy giảm
+-yếu dần
+@Lĩnh vực: xây dựng
+-độ giảm (âm)
+-sự loãng
+@Lĩnh vực: y học
+-giảm độc lực
 @Lĩnh vực: cơ khí & công trình
--sự vuốt côn đầu thanh (đưa vào máy kéo sợi)
+-sự giảm dần
+-sự nhỏ dần
+@Lĩnh vực: điện
+-sự suy giảm
+@Lĩnh vực: đo lường & điều khiển
+-sự tắt dần
+@Lĩnh vực: toán & tin
+-sự yếu đi
+@Lĩnh vực: hóa học & vật liệu
+-tắt dần
+

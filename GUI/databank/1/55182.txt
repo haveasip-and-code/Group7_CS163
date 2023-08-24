@@ -1,4 +1,23 @@
-symphonist	@symphonist
-* danh từ
-- người sáng tác nhạc giao hưởng
-- người trong ban nhạc giao hưởng
+restriction
+	
+*  danh từ
+- sự hạn chế, sự giới hạn, sự thu hẹp
+=without restriction
++ không hạn chế
+=to impose restrictions
++ buộc phải hạn chế, bắt phải giới hạn
+=to lift restriction
++ bãi bỏ những hạn chế
+@Chuyên ngành kinh tế
+-sự hạn chế
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép thu hẹp
+@Chuyên ngành kỹ thuật
+-hạn chế
+-sự giới hạn
+-sự hạn chế
+-sự thu hẹp
+@Lĩnh vực: điện lạnh
+-sự bó hẹp
+

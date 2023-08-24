@@ -1,19 +1,32 @@
-procuration	@procuration /procuration/
+chopper
+	
 *  danh từ
-- sự kiếm được, sự thu thập
-- quyền thay mặt, quyền đại diện (người khác); giấy uỷ quyền, giấy uỷ nhiệm
-- sự điều đình (vay tiền); hoa hồng môi giới vay tiền
-- nghề ma cô, nghề dắt gái; nghề trùm gái điếm; tội làm ma cô; tội dắt gái
+- người chặt, người đốn, người bổ, người chẻ (củi...)
+- dao pha, dao bầu
+- (từ Mỹ,nghĩa Mỹ) người soát vé, người bấm vé
+- (điện học) cái ngắt điện
+- (từ lóng) răng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) máy bay lên thẳng
 @Chuyên ngành kinh tế
--hoa hồng (trả cho người trung gian trong việc vay nợ)
--hoa hồng môi giới
--quyền đại diện
--sự điều đình
--sự điều đình (để vay nợ)
--sự ủy nhiệm
--sự ủy nhiệm người thay mặt
--sự ủy quyền
--ủy quyền
+-dao pha
+-máy nghiền
+-máy nghiền thịt
+-người chặt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--giấy ủy quyền
+-bộ đổi điện
+-bộ tạo xung
+-cái cắt điện
+-dao cắt
+-máy băm mảnh
+-máy rung
+@Lĩnh vực: điện lạnh
+-bộ chỉnh lưu rung
+@Lĩnh vực: điện tử & viễn thông
+-bộ ngắt quãng
+@Lĩnh vực: điện
+-bộ ngắt quãng điện
+-chỉnh lưu rung
+-mạch ngắt quãng điện
+@Lĩnh vực: cơ khí & công trình
+-máy băm
+

@@ -1,7 +1,6 @@
-stillbirth	@stillbirth
+pressrun
+	
 * danh từ
-- sự chết ngay khi sinh; sự chết non
-- (nghĩa bóng) sự chết non, sự chết yểu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sinh thai chết
+- số bản in
+- việc cho chạy máy in (để in)
+

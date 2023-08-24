@@ -1,11 +1,12 @@
-associative	
-@associative /ə'souʃjətiv/
-*  tính từ
-- liên tưởng
-- kết hợp, liên hợp, liên kết; liên đới=associative algebra
-+ đại số kết hợp=associative law
-+ luật kết hợp=associative relation
-+ liên hệ kết hợp
-@Chuyên ngành kỹ thuật
--kết hợp
--liên kết
+waive
+	
+*  ngoại động từ
+- (pháp lý) bỏ, từ bỏ, khước từ
+=to waive a right
++ từ bỏ quyền lợi
+=to waive a privilege
++ khước từ một đặc quyền
+@Chuyên ngành kinh tế
+-khước từ
+-từ bỏ
+

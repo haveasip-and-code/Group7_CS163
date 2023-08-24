@@ -1,12 +1,5 @@
-speculate	@speculate /'spekjuleit/
-*  nội động từ
-- tự biên
-=to speculate on (upon, about) a subject+ nghiên cứu một vấn đề
-- suy đoán, đưa ra ý kiến này ý kiến nọ về, ức đoán
-- đầu cơ, tích trữ
-=to speculate in something+ đầu cơ cái gì
-@Chuyên ngành kinh tế
--đầu cơ
--đầu cơ chứng khoán
-@Chuyên ngành kỹ thuật
--đầu cơ
+asseveration
+	
+*  danh từ
+- sự long trọng xác nhận, sự quả quyết, sự đoan chắc
+

@@ -1,7 +1,11 @@
-gallon	
-@gallon /'gælən/
-*  danh từ
-- Galông (đơn vị đo lường chất lỏng bằng 4, 54 lít ở Anh, 3, 78 lít ở Mỹ)
+distill
+	
+*  nội động từ
+- chảy nhỏ giọt
+- (hoá học) được cất
+*  ngoại động từ
+- để chảy nhỏ giọt
+- (hoá học) cất
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: đo lường & điều khiển
--galông
+-chưng cất
+

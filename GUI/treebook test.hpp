@@ -136,10 +136,8 @@ public:
 
 
     wxBookCtrlBase *GetCurrentBook() const { return m_bookCtrl; }
-
-private:
-
     void RecreateBook();
+    void RecreateBook(int idx);
     wxPanel *CreateNewPage() const;
     void AddFlagStrIfFlagPresent(wxString & flagStr, long flags, long flag, const wxString& flagName) const;
 

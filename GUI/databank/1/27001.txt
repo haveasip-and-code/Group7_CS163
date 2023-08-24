@@ -1,25 +1,44 @@
-igniter	
-@igniter /ig'naitə/
+ghost
+	
 *  danh từ
-- người nhóm lửa, người đốt cháy
-- mồi lửa; bộ phận đánh lửa (trong máy)
-- ngòi nổ, kíp nổ
+- ma
+=to raise ghost
++ làm cho ma hiện lên
+=to lay ghost
++ làm cho ma biến đi
+- gầy như ma
+- bóng mờ, nét thoáng một chút
+=to put on a ghost of a smile
++ thoáng mỉm cười
+=not the ghost of a doubt
++ không một chút nghi ngờ
+=not the ghost of a chance
++ không một chút hy vọng gì cả
+- người giúp việc kín đáo cho một nhà văn; người viết thuê cho một nhà văn
+- (từ cổ,nghĩa cổ) linh hồn, hồn
+=to give up the ghost
++ hồn lìa khỏi xác; chết
+!the ghost walks
+- (sân khấu),  (từ lóng) đã có lương; sắp có lương
+*  động từ
+- hiện ra, ám ảnh, lảng vảng như một bóng ma
+- giúp việc kín đáo cho một nhà văn; viết thuê cho một nhà văn
+@Chuyên ngành kinh tế
+-bóng mờ chồng
+-hình nhiễu
 @Chuyên ngành kỹ thuật
--bộ đánh lửa
--bộ phận đánh lửa
--kíp nổ
--ngòi nổ
--mồi lửa
-@Lĩnh vực: toán & tin
--cực mồi
-@Lĩnh vực: điện
--điện cực đánh lửa
--điện cực mồi
-@Lĩnh vực: ô tô
--IC đánh lửa
+-dải thiên tích
+-đường mờ
+-đường sẫm
+-hình bóng
+-ma
+-tạo bản sao
+-vệt mờ
+@Lĩnh vực: vật lý
+-ảnh bóng mờ
 @Lĩnh vực: điện tử & viễn thông
--máy đánh lửa
-@Lĩnh vực: xây dựng
--tắc te
-@Lĩnh vực: hóa học & vật liệu
--thuốc mồi
+-ảo ảnh
+-bóng ma
+@Lĩnh vực: điện lạnh
+-vạch ma
+

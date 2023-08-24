@@ -1,7 +1,21 @@
-hydrated	
+factorial
+	
+*  tính từ
+- (thuộc) thừa số
+*  danh từ
+- (toán học) giai thừa
+@Chuyên ngành kinh tế
+-giai thừa
 @Chuyên ngành kỹ thuật
--đã thủy hóa
-@Lĩnh vực: xây dựng
--hidrat hóa
--hiđrát hóa
--thủy hóa
+-giai thừa
+-hệ số
+-nhân tố
+-thừa số
+-yếu tố
+@Chuyên ngành kỹ thuật
+-giai thừa
+-hệ số
+-nhân tố
+-thừa số
+-yếu tố
+

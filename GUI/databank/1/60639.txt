@@ -1,6 +1,12 @@
-untapped	@untapped
-* tính từ
-- chưa dùng, chưa khai thác
+deviance
+	
+* danh từ
+- <bóng> sự lầm đường lạc lối
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--không rẽ nhánh (máy biến áp)
+-độ lệch
+-lệch
+-nghiêng
+-nghiêng deviate
+@Lĩnh vực: y học
+-sự lệch lạc
+

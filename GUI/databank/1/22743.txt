@@ -1,10 +1,16 @@
-gadget	
-@gadget /'gædʤit/
+synchronization
+	
 *  danh từ
-- (thực vật học) bộ phận cải tiến (trong máy móc); máy cải tiến
-- đồ dùng, đồ vật, đ
+- sự đồng bộ hoá
+@Chuyên ngành kinh tế
+-đồng bộ hóa
+-sự điều bộ
+-sự đồng bộ hóa
 @Chuyên ngành kỹ thuật
--đồ đá
--đồ gá
--đồ phụ tùng
--dụng cụ
+-đồng bộ
+-đồng bộ hóa
+-sự đồng bộ
+-sự đồng chỉnh
+@Lĩnh vực: toán & tin
+-sự đồng bộ hóa
+

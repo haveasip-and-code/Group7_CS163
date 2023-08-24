@@ -1,16 +1,5 @@
-cruise	
-@cruise /kru:z/
-*  danh từ
-- cuộc đi chơi biển (bằng tàu thuỷ)
-- cuộc tuần tra trên biển
-*  nội động từ
-- đi chơi biển (bằng tàu thuỷ)
-- tuần tra trên biển!cruising taxi
-- xe tắc xi đang đi chậm kiếm khách!to fly at cruising speed
-- bay với tốc độ tiết kiệm xăng nhất (máy bay)
-@Chuyên ngành kinh tế
--chuyến hải du
--cuộc đi chơi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--chạy theo trớn
+photorespiration
+	
+* danh từ
+- lối thở của một số cây cối do ánh sáng quá mạnh
+

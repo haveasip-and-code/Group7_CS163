@@ -1,6 +1,5 @@
-pneumatology	@pneumatology /,nju:mə'tɔlədʤi/
-*  danh từ
-- thuyết tâm linh, thuyết thần linh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--khí học
+microbarograph
+	
+@Lĩnh vực: điện lạnh
+-vi khí áp
+

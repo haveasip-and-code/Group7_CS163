@@ -1,6 +1,39 @@
-keg	
-@keg /keg/
+splash
+	
 *  danh từ
-- thùng chứa (khoảng 40 lít)
+- sự bắn toé (bùn, nước...); lượng (bùn nước...) bắn toé
+- tiếng (nước) bắn, tiếng (sóng) vỗ
+- (thông tục) lượng nước xôđa (để pha rượu uytky)
+- vết bùn, đốm bẩn
+- vế đốm (trên da súc vật)
+- phấn bột gạo (để thoa mặt)
+!to have a Splash
+- tắm rửa
+!to make a splash
+- làm cho nhiều người chú ý (bằng cách khoe của)
+*  ngoại động từ
+- té, văng, làm bắn toé
+=to splash somebody with water
++ té nước vào ai
+=to splash wawter about
++ lãng phí tiền của
+- điểm loáng thoáng, chấm loáng thoáng (để trang trí)
+*  nội động từ
+- bắn lên, văng lên, bắn toé (bùn nước)
+- lội lõm bõm (trong bùn)
+=to splash across a muddy field
++ lội lõm bõm qua đồng lầy
 @Chuyên ngành kinh tế
--thùng nhỏ
+-phun tóe ra
+-sự phun
+-sự tóe ra
+@Chuyên ngành kỹ thuật
+-sự bắn toé
+-vết bẩn
+-vết đốm
+@Lĩnh vực: xây dựng
+-hất
+-sự bắn toé (bùn, nước...)
+@Lĩnh vực: cơ khí & công trình
+-vẩy tung lên (chất lỏng)
+

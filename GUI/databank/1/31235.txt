@@ -1,28 +1,14 @@
-laboratory	@laboratory /lə'bɔrətəri/ (lab) /læb/
-*  danh từ
-- phòng thí nghiệm; phòng pha chế
-!hot laboratory
-- phòng thí nghiệm "nóng" (nơi tiến hành những cuộc thí nghiệm nguy hiểm có thể chết người)
-- buồng lò, buồng luyện (luyện kim)
-!language laboratory
-- phương pháp học ngoại ngữ bằng máy ghi âm và phim ảnh
-@Chuyên ngành kinh tế
--phòng thí nghiệm
+walkway
+	
+* danh từ
+- đường dành cho người đi bộ
 @Chuyên ngành kỹ thuật
--phòng thí nghiệm
--thùng chứa
-@Lĩnh vực: cơ khí & công trình
--buồng lò
-@Lĩnh vực: toán & tin
--phòng thực nghiệm
-@Lĩnh vực: y học
--phòng xét nghiệm, phòng thí nghiệm
-@Chuyên ngành kỹ thuật
--phòng thí nghiệm
--thùng chứa
-@Lĩnh vực: cơ khí & công trình
--buồng lò
-@Lĩnh vực: toán & tin
--phòng thực nghiệm
-@Lĩnh vực: y học
--phòng xét nghiệm, phòng thí nghiệm
+-bệ đi bộ
+-đường đi bộ
+-lối đi
+-lối đi men
+@Lĩnh vực: xây dựng
+-cầu ván (trên mái)
+@Lĩnh vực: giao thông & vận tải
+-lối đi (qua đường) cho người đi bộ
+

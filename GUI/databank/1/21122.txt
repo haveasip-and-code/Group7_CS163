@@ -1,9 +1,12 @@
-fireball	
+tinfoil
+	
+* danh từ
+- giấy thiếc; lá thiếc
+* ngoại động từ
+- bọc (bằng) giấy thiếc
+@Chuyên ngành kinh tế
+-lá thiếc dát mỏng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--cầu lửa
--hỏa cầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--cầu lửa
--hỏa cầu
+-giấy thiếc
+-lá thiếc
+

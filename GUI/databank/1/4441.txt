@@ -1,10 +1,13 @@
-bacterium	
-@bacterium /bæk'tiəriəm/
-*  (bất qui tắc) danh từ,  số nhiều bacteria/bæk'tiəriə/
-- vi khuẩn
-@Chuyên ngành kinh tế
--vi khuẩn
+tessera
+	
+* danh từ
+- số nhiều tesserae,  tesseri
+- vật để khảm, đá để cẩn, vật liệu dùng để lắp ghép, các khối lắp ghép
 @Chuyên ngành kỹ thuật
--vi khuẩn
+@Lĩnh vực: xây dựng
+-khối để khảm, dát
+-mặt sàn ghép mảnh
+-trang trí ghép mảnh
 @Lĩnh vực: toán & tin
--vi khuẩn (máy tính)
+-mắt lưới tổ ong
+

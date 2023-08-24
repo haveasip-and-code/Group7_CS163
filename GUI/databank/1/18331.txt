@@ -1,13 +1,5 @@
-enforcement	
-@enforcement /in'fɔ:smənt/
-*  danh từ
-- sự thúc ép, sự ép buộc
-- sự bắt tôn trọng, sự bắt tuân theo; sự đem thi hành (luật lệ)
-@Chuyên ngành kỹ thuật
--cưỡng bức
-@Lĩnh vực: giao thông & vận tải
--cưỡng chế
-@Chuyên ngành kỹ thuật
--cưỡng bức
-@Lĩnh vực: giao thông & vận tải
--cưỡng chế
+unexpired
+	
+*  tính từ
+- chưa hết hạn, còn hiệu lực
+

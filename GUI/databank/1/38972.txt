@@ -1,6 +1,8 @@
-oversteer	@Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--lái quá đà
--người lái quá đà
--quay vòng thừa
--sự quay vòng thừa
+diocese
+	
+*  danh từ
+- giáo khu
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-giáo khu
+

@@ -1,37 +1,39 @@
-grant	
-@grant /grɑ:nt/
+dish
+	
 *  danh từ
-- sự cho, sự ban cho, sự cấp cho
-- trợ cấp=to make a grant to somebody
-+ trợ cấp cho ai
-- sự nhượng, sự nhường lại (của cải, quyền...)
-- (pháp lý) sự chuyển nhượng bằng khế ước!capitation
-- tiền trợ cấp
+- đĩa (đựng thức ăn)
+- móm ăn (đựng trong đĩa)
+=a make dish
++ món ăn cầu kỳ (có nhiều thứ gia giảm)
+=a standing dish
++ món ăn thường ngày
+- vật hình đĩa
+- (từ cổ,nghĩa cổ) chén, tách
+=a dish of tea
++ tách trà
+!a dish of gossip
+- cuộc nói chuyện gẫu
 *  ngoại động từ
-- cho, ban (ơn), cấp=to grant a favour
-+ gia ơn, ban ơn=to grant somebody a permission to do something
-+ cho phép ai làm việc gì
-- thừa nhận, công nhận, cho là=to take for granted
-+ cho là dĩ nhiên, cho là điều tất nhiên
-- nhượng (của cải, quyền...)
+- sắp (đồ ăn) vào đĩa (để dọn cơm)
+- làm lõm xuống thành lòng đĩa
+- đánh bại được, dùng mẹo lừa được (đối phương); (chính) áp dụng chính sách đường lối của đối phương để đánh bại (đối phương)
+*  nội động từ
+- chạy chân trước khoằm vào (ngựa)
+!to dish up
+- dọn ăn, dọn cơm
+- (nghĩa bóng) trình bày (sự việc...) một cách hấp dẫn
 @Chuyên ngành kinh tế
--ban cấp
--chứng thư chuyển nhượng (tài sản)
--khoản trợ cấp
--nhượng
--sự ban cấp
--sự cho
--sự chuyển nhượng
--sự tặng dữ
--tặng khoản
--tặng vật
--tiền trợ cấp
--trợ cấp
+-chén
+-đĩa
+-hộp to
+-món ăn
 @Chuyên ngành kỹ thuật
--ban
--sự cấp
--sự cấp bằng
--sự chấp nhận
-@Lĩnh vực: điện tử & viễn thông
--sự phụ cấp
--sự trợ cấp
+-ăng ten chảo
+-ăng ten vòng
+-chậu
+-dập đĩa
+-dập lòng đĩa
+-đĩa
+-vòng tay lái
+-vuốt thúc sâu
+

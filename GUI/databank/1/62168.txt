@@ -1,2 +1,24 @@
-vomerine	@vomerine
-- xem vomer
+harbour
+	
+*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)
+- bến tàu, cảng
+- (nghĩa bóng) nơi an toàn; nơi ẩn náu
+*  ngoại động từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)
+- chứa chấp; che giấu, cho ẩn náu
+=to harbour a criminal
++ chứa chấp một kẻ có tội
+- nuôi dưỡng (ý nghĩ xấu...)
+=to harbour evil thoughts
++ nuôi dưỡng những ý nghĩ xấu xa
+*  nội động từ ((từ Mỹ,nghĩa Mỹ) (cũng) habor)
+- bỏ neo ở cảng, đậu ở cảng (tàu thuỷ)
+@Chuyên ngành kinh tế
+-cảng
+-cảng khẩu
+-hải cảng
+-vịnh cảng
+@Chuyên ngành kỹ thuật
+-bến
+-bến tàu
+-vũng
+

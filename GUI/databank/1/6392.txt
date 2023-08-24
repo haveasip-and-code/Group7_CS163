@@ -1,58 +1,18 @@
-boss	
-@boss /bɔs/
+canalization
+	
 *  danh từ
-- (từ lóng) ông chủ, thủ trưởng
-- (từ Mỹ,nghĩa Mỹ) ông trùm (của một tổ chức chính trị)
-- tay cừ (trong môn gì); nhà vô địch
-*  ngoại động từ
-- (từ lóng) chỉ huy, điều khiển=to the show
-+ quán xuyến mọi việc
-*  danh từ
-- cái bướu
-- (kỹ thuật) phần lồi, vấu lồi
-- (địa lý,địa chất) thế cán, thế bướu
-- (kiến trúc) chỗ xây nổi lên
-*  danh từ,  động từ
-- (như) bos
-@Chuyên ngành kinh tế
--cai thợ
--chủ
--giám công ...
--thợ cả
--xếp
+- sự đào kênh
+- hệ thống sông đào
 @Chuyên ngành kỹ thuật
--búa đập
--búa rèn
--bướu
--đá phiến than
--đe định hình
--điều khiển
--đốc công
--khoét lỗ
--khuôn
--kiến trúc vòm
--lãnh đạo
--mấu lồi
--mũi nhô
--ống bọc
--ống lót
--vấu
--vòm
-@Lĩnh vực: cơ khí & công trình
--bậc mayơ
--búa rèn khuôn
--cánh gia cố
--đe địa hình
--gờ lồi
--quản đốc
--vấu lồi
-@Lĩnh vực: ô tô
--gờ (mayơ bánh xe)
-@Lĩnh vực: toán & tin
--kiến trúc bướu
--thẻ vòm
+-hệ thống kênh đào
+-sự đào kênh
 @Lĩnh vực: xây dựng
--mấu gỗ
--thể vòm
-@Lĩnh vực: hóa học & vật liệu
--sét than dạng phiến
+-công trình kênh
+-hệ thống kênh thoát
+-hệ thống sông đào
+@Lĩnh vực: điện lạnh
+-sự tạo kênh
+-sự theo kênh
+@Lĩnh vực: y học
+-sự tạo ống
+

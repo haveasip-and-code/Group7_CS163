@@ -1,9 +1,5 @@
-forewoman	
-@forewoman /fɔ:,wumən/
-*  danh từ
-- bà quản đốc, bà đốc công
-- (pháp lý) bà chủ tịch ban hội thẩm (toà đại hình)
-@Chuyên ngành kinh tế
--bà chủ tịch ban hội thẩm (tòa đại hình)
--bà đốc công
--bà quản đốc
+monosomic
+	
+@Lĩnh vực: y học
+-thuộc thiếu một nhiễm sắc thể
+

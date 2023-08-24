@@ -1,14 +1,11 @@
-keystroke	@keystroke
-- (động tác) gõ phím, nhấn phím
+irony
+	
+*  tính từ
+- giống thép, giống gang
+*  danh từ
+- sự mỉa, sự mỉa mai, sự châm biếm
+!Socratic irony
+- Socratic
 @Chuyên ngành kỹ thuật
--nhấn phím
--sự gõ phím
--sự nhấn phím
-@Lĩnh vực: điện tử & viễn thông
--đánh phím
-@Chuyên ngành kỹ thuật
--nhấn phím
--sự gõ phím
--sự nhấn phím
-@Lĩnh vực: điện tử & viễn thông
--đánh phím
+-như sắt
+

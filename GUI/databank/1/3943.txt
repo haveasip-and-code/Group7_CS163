@@ -1,4 +1,17 @@
-auditable	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có thể kiểm tra
+shoddy
+	
+*  danh từ
+- vải tái sinh
+- hàng xấu, hàng thứ phẩm
+*  tính từ
+- làm bằng vải tái sinh, làm bằng vải tồi
+- giả mạo
+- xấu, không có giá trị
+@Chuyên ngành kinh tế
+-dỏm
+-giả mạo
+-giả tạo
+-hàng dỏm
+-hàng xấu
+-xấu
+

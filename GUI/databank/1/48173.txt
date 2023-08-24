@@ -1,11 +1,62 @@
-ruff	@ruff /rʌf/
+recess
+	
 *  danh từ
-- cổ áo xếp nếp (châu Âu,  (thế kỷ) 16)
-- khoang cổ (ở loài chim, loài thú)
-- (động vật học) bồ câu áo dài
-- (đánh bài) trường hợp cắt bằng bài chủ, sự cắt bằng bài chủ
-*  động từ
-- (đánh bài) cắt bằng bài chủ
-@Chuyên ngành kinh tế
--bàn chải kim loại
--kim móc
+- thời gian ngừng họp (quốc hội...)
+- (từ Mỹ,nghĩa Mỹ) kỳ nghỉ (trường trung học, đại học)
+- (từ Mỹ,nghĩa Mỹ) giờ giải lao, giờ ra chơi chính (trường học)
+- (từ hiếm,nghĩa hiếm) sự rút đi (thuỷ triều)
+- chỗ thầm kín, nơi sâu kín, nơi hẻo lánh
+=in the recesses of the mountains
++ ở nơi thâm sơn cùng cốc
+=in the inmost recesses of the heart
++ trong thâm tâm
+- chỗ thụt vào (của dãy núi)
+- hốc tường (để đặt tượng...)
+- (giải phẫu) ngách, hốc
+- (kỹ thuật) lỗ thủng, rânh, hố đào; chỗ lõm
+*  ngoại động từ
+- đục lõm vào, đào hốc (ở tường...)
+- để (cái gì) ở nơi sâu kín; để (cái gì) vào hốc tường...
+*  nội động từ
+- ngừng họp; hoãn lại (phiên họp...)
+@Chuyên ngành kỹ thuật
+-bậc
+-đào hố
+-đào rãnh
+-dấu vạch
+-độ hở
+-đục rãnh
+-đường xoi
+-góc sau
+-hố
+-hốc
+-hốc rỗng
+-hốc tường
+-hõm
+-hõm tường
+-khoảng hở
+-khoét hốc
+-làm lõm
+-làm rãnh
+-lỗ khoét
+-lỗ rỗng
+-lõm
+-lòng máng
+-ngách
+-ngấn
+-phần lồi
+-rãnh
+-rãnh cắt
+-rãnh chìm cổ trục
+-rèn thô
+-sự vạch dấu
+-tầng
+-vết cắt
+-vết khắc
+@Lĩnh vực: xây dựng
+-hốc lõm
+-hốc số
+-vách đáy
+@Lĩnh vực: y học
+-hõm, hố
+

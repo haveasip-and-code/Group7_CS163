@@ -1,4 +1,8 @@
-morphic	@morphic
-* tính từ
-- hình thái học
-- thuộc hình thức
+auxin
+	
+*  danh từ
+- auxin (chất kích thích thực vật)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-auxin (chất kích tăng trưởng, tăng trưởng tố)
+

@@ -1,18 +1,5 @@
-capitalize	
-@capitalize /kə'pitəlaiz/ (capitalise) /kə'pitəlaiz/
-*  ngoại động từ
-- tư bản hoá, chuyển thành tư bản; dùng làm vốn
-- viết bằng chữ hoa, in bằng chữ hoa
-- (nghĩa bóng) lợi dụng
-@Chuyên ngành kinh tế
--cấp vốn
--chuyển thành vốn
--cung cấp vốn
--dùng làm vốn
--tài trợ
--vốn hóa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--viết bằng chữ hoa
-@Lĩnh vực: xây dựng
--viết hoa
+exultant
+	
+*  tính từ
+- hân hoan, hoan hỉ, hớn hở, đắc chí, hả hê
+

@@ -1,8 +1,12 @@
-unloaded	@Chuyên ngành kỹ thuật
--đã dỡ tải
--được dỡ hàng
--được dỡ tải
-@Lĩnh vực: xây dựng
--đã dỡ hàng
-@Lĩnh vực: cơ khí & công trình
--không bị tải
+downgrade
+	
+* động từ
+- giáng chức, giáng cấp
+@Chuyên ngành kinh tế
+-xuống cấp
+@Chuyên ngành kỹ thuật
+-độ dốc
+-độ nghiêng
+-hạ xuống
+-thu nhỏ
+

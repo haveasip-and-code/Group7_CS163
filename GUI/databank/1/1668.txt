@@ -1,9 +1,5 @@
-alpha	
-@alpha /'ælfə/
-*  danh từ
-- chữ anfa=Alpha and Omega
-+ anfa và omega đầu và cuối cái chính, cái cơ bản=alpha plus
-+ hết sức tốt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--anpha
+pseudoallele
+	
+* danh từ
+- (sinh vật học) Alen giả
+

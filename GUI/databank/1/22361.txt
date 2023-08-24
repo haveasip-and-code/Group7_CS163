@@ -1,10 +1,24 @@
-fright	
-@fright /frait/
+inductor
+	
 *  danh từ
-- sự hoảng sợ
-- (thông tục) người xấu xí kinh khủng; quỷ dạ xoa; người ăn mặc xấu xí; vật xấu xí kinh khủng
-*  ngoại động từ
-- (thơ ca) (như) frighten
+- người làm lễ nhậm chức (cho một mục sư)
+- (điện học) phần cảm điện
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự hoảng sợ
+-bộ điện kháng
+-cảm biến
+-cuộn (dây)
+-cuộn cảm ứng
+-cuộn cản
+-độ tự cảm
+-ống dây
+-phần cảm
+@Lĩnh vực: hóa học & vật liệu
+-chất cảm ứng
+@Lĩnh vực: y học
+-chất gây cảm ứng
+-mô tạo cảm ứng
+@Lĩnh vực: điện tử & viễn thông
+-điện cảm
+@Lĩnh vực: điện
+-phần cảm điện
+

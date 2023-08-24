@@ -1,15 +1,26 @@
-dialogue	
-@dialogue /'daiəlɔg/ (duologue) /'djuəlɔg/
+washing
+	
 *  danh từ
-- cuộc đối thoại
-- đoạn văn đối thoại; tác phẩm đối thoại
+- sự tắm rửa, sự tắm gội, sự rửa ráy
+- sự giặt giũ
+- quần áo giặt
+=to hang the washing out to dry
++ phơi quần áo giặt
+- sự đãi quặng
+@Chuyên ngành kinh tế
+-loãng
+-nhạt
 @Chuyên ngành kỹ thuật
--đối thoại
--hội thoại
--sự đối thoại
--sự hội thoại
--tương tác
-@Lĩnh vực: toán & tin
--cuộc đối thoại
--đoạn đối thoại
--sự tơng tác
+-làm sạch
+-rửa
+-sự đãi
+-sự giặt
+-sự làm sạch
+-sự làm vệ sinh
+-sự rửa sạch
+-sự tẩy rửa
+-sự tuyển
+-vệ sinh
+@Lĩnh vực: xây dựng
+-sự trát mỏng
+

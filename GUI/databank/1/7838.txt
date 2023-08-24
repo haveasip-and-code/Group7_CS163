@@ -1,11 +1,24 @@
-cape	
-@cape /keip/
+desiccator
+	
 *  danh từ
-- áo choàng không tay
-*  danh từ
-- mũi đất (nhô ra biển)=the cape of Good Hope
-+ mũi Hảo vọng
+- bình làm khô; tủ sấy, lò sấy, máy sấy
+@Chuyên ngành kinh tế
+-bình hút nước
+-máy sấy
+-tủ sấy
 @Chuyên ngành kỹ thuật
--mỏm đất
--mũi đất
--mũi đất (địa lý)
+-bình hút ẩm
+-bộ sấy khô
+-chất hút ẩm
+-lò sấy, bình làm khô
+-máy hút ẩm
+-máy sấy
+-máy sấy khô
+@Lĩnh vực: điện
+-bình khử ẩm
+-chất khử ẩm
+@Lĩnh vực: hóa học & vật liệu
+-bình làm khô
+@Lĩnh vực: toán & tin
+-bộ máy sấy
+

@@ -1,26 +1,5 @@
-taint	@taint /teint/
-*  danh từ
-- sự làm hư hỏng, sự làm đồi bại, sự làm bại hoại, sự làm suy đồi
-- vết nhơ, vết bẩn, vết xấu, vết ô uế
-=the taint of sin+ vết nhơ của tội lỗi, vết tội lỗi
-- dấu vết của bệnh di truyền; điều xấu di truyền; dấu hiệu của sự nhiễm bệnh
-=there was a taint of madness in the family+ cả gia đình đều có máu điên
-- mùi hôi thối
-=meat free from taint+ thịt chưa có mùi hôi thối, thịt còn tươi
+defame
+	
 *  ngoại động từ
-- làm hư hỏng, làm đồi bại, làm bại hoại
-=greed tainted his mind+ lòng tham làm cho óc anh ta đồi bại hư hỏng
-- làm nhơ, làm ô uế, làm bẩn
-- để thối, để ươn (đồ ăn...)
-=tainted meat+ thịt ôi, thịt thối
-*  nội động từ
-- hư hỏng, đồi bại, bại hoại
-- thối, ươn, ôi (đồ ăn)
-=fish taints quickly+ cá mau ươn
-@Chuyên ngành kinh tế
--vết nhơ
-@Chuyên ngành kỹ thuật
--bị hư hỏng
--hư hỏng
-@Lĩnh vực: thực phẩm
--nhiễm trùng (thịt)
+- nói xấu, phỉ báng, làm mất danh dự
+

@@ -1,5 +1,22 @@
-volcanically	@volcanically
-- trạng từ
-- đo hoạt động núi lửa
-- xem volcanic
-- một cách mãnh liệt, điên cuồng, rồ dại
+plural
+	
+*  tính từ
+- (ngôn ngữ học) ở số nhiều, (thuộc) số nhiều
+=a plural noun
++ danh từ số nhiều
+- nhiều
+!plural vote
+- sự bỏ phiếu của một cử tri ở nhiều khu vực bầu cử
+!plural voter
+- cử tri bỏ phiếu ở nhiều khu vực bầu cử
+*  danh từ
+- (ngôn ngữ học) số nhiều, dạng số nhiều (của một danh từ...)
+=in the plural
++ ở số nhiều
+- từ ở số nhiều
+@Chuyên ngành kỹ thuật
+-đa
+-nhiều
+@Lĩnh vực: toán & tin
+-phức số
+

@@ -1,8 +1,10 @@
-issuer	
-@issuer /'isju:ə/
-*  danh từ
-- người đưa ra, người phát hành, người in ra (sách báo, tiền...)
-@Chuyên ngành kinh tế
--công ty phát hành
--ngân hàng phát hành (thư tín dụng)
--người phát hành
+forcible
+	
+*  tính từ
+- bắng sức mạnh, bằng vũ lực
+=a forcible entry into a building
++ sự xông vào nhà bằng vũ lực
+- sinh động; đầy sức thuyết phục
+=a forcible speaker
++ người nói có sức thuyết phục mạnh mẽ
+

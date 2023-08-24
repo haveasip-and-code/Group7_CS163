@@ -1,20 +1,49 @@
-grooving	
-@grooving
-* danh từ
-- sự bào rãnh, soi rãnh, đào rãnh
+leading
+	
+*  danh từ
+- sự lânh đạo, sự hướng dẫn, sự dẫn đầu
+- thế lực, ảnh hưởng
+=men of light and leading
++ những người có uy tín và thế lực
+*  tính từ
+- lânh đạo, hướng dẫn, dẫn đầu
+=leading ship
++ tàu dẫn đầu
+=leading body
++ bộ phận lânh đạo
+- chủ đạo, chính, quan trọng
+=leading idea
++ ý chủ đạo
 @Chuyên ngành kỹ thuật
--bào rãnh
--khe
--rãnh
--sự cắt rãnh
--sự định khuôn
--sự khía rãnh
--sự xẻ rãnh
--sự xoi rãnh
-@Lĩnh vực: xây dựng
--sự bào soi
--sự đục lõm
--sự tạo khe
--sự tạo rãnh
-@Lĩnh vực: cơ khí & công trình
--sự làm rãnh
+-chính
+-dẫn
+-đầu
+-đi trước
+-gián cách dòng
+-hướng dẫn
+-quan trọng
+-sự dẫn hướng
+-sự lãnh đạo
+@Lĩnh vực: toán & tin
+-cách quãng
+@Lĩnh vực: ô tô
+-dẫn đầu
+@Lĩnh vực: điện
+-sự vượt pha
+@Chuyên ngành kỹ thuật
+-chính
+-dẫn
+-đầu
+-đi trước
+-gián cách dòng
+-hướng dẫn
+-quan trọng
+-sự dẫn hướng
+-sự lãnh đạo
+@Lĩnh vực: toán & tin
+-cách quãng
+@Lĩnh vực: ô tô
+-dẫn đầu
+@Lĩnh vực: điện
+-sự vượt pha
+

@@ -1,28 +1,10 @@
-depot	
-@depot /'depou/
-*  danh từ
-- kho chứa, kho hàng
-- (quân sự) kho (quân nhu, lương thực...)
-- (quân sự) trạm tuyển và luyện quân
-- (quân sự) sở chỉ huy trung đoàn
-- (quân sự) bộ phận trung đoàn giữ lại (không điều tra ngoài nước)
-- (từ Mỹ,nghĩa Mỹ) ga (xe lửa); bến (xe buýt)
-@Chuyên ngành kinh tế
--bến xe
--ga
--ga
--ra (xe hơi)
--kho
--kho hàng
--trạm
--trạm hàng không
--trạm hỏa xa
--xưởng sửa chữa
+sentential
+	
+* tính từ
+- thuộc cách ngôn, danh ngôn, câu
 @Chuyên ngành kỹ thuật
--kho
--kho chứa
--kho chứa hàng
--kho hàng
--xe buýt
-@Lĩnh vực: xây dựng
--vật tư
+-danh ngôn
+-mệnh đề
+@Lĩnh vực: toán & tin
+-câu
+

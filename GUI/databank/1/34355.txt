@@ -1,3 +1,30 @@
-menthene	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--menten
+calculation
+	
+*  danh từ
+- sự tính, sự tính toán
+=to make a calculation
++ tính toán
+=to be out in one's calculation
++ tính nhầm
+- kết quả tính toán
+- sự cân nhắc, sự đắn đo; sự tính toán hơn thiệt
+- sự trù liệu, sự trù tính, sự tính
+@Chuyên ngành kinh tế
+-sự tính
+-sự tính toán
+@Chuyên ngành kỹ thuật
+-cách tính
+-phép tính
+-sự tính
+-sự tính toán
+-tính
+-tính toán
+@Lĩnh vực: xây dựng
+-kết quả tính toán
+-sự cân nhắc
+@Lĩnh vực: toán & tin
+-phép toán
+-thao tác điện toán
+@Lĩnh vực: điện
+-việc tính toán
+

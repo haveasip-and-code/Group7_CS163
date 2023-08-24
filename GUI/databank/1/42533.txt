@@ -1,3 +1,17 @@
-polytype	@polytype
-* danh từ
-- cấu trúc tinh thể có nhiều dạng
+hyphen
+	
+*  danh từ
+- dấu nối
+- quâng ngắt (giữa hai âm, khi nói)
+*  ngoại động từ
++ (hyphenate) /'haifəneit/
+- gạch dấu nối (trong từ ghép); nối (hai từ) bằng dấu nối
+@Chuyên ngành kinh tế
+-dấu nối
+@Chuyên ngành kỹ thuật
+-dấu nối
+@Lĩnh vực: toán & tin
+-dấu gạch nối
+@Lĩnh vực: xây dựng
+-gạch nối
+

@@ -1,29 +1,5 @@
-powder	@powder /'paudə/
-*  danh từ
-- bột; bụi
-- (y học) thuốc bột
-- phấn (đánh mặt)
-- thuốc súng
-!food for powder
-- bia thịt, bia đỡ đạn
-!not worth powder and shot
-- không đáng bắn, không đáng để chiến đấu cho
-!put more powder into it!
-- hãy hăng hái lên một chút nữa nào!
-!smell of powder
-- kinh nghiệm chiến đấu, sự thử thách với lửa đạn
-*  ngoại động từ
-- rắc bột lên, rắc lên
-=to powder with salt+ rắc muối
-- thoa phấn, đánh phấn (mặt, mũi...)
-- trang trí (bề mặt cái gì...) bằng những điểm nhỏ
-- ((thường) động tính từ quá khứ) nghiền thành bột, tán thành bột
-=powdered sugar+ đường bột
-=powdered milk+ sữa bột
-@Chuyên ngành kinh tế
--bột
-@Chuyên ngành kỹ thuật
--bột
--bụi
--nghiền thành bột
--thuốc nổ
+petalled
+	
+*  tính từ
+- (thực vật học) có cánh (hoa)
+

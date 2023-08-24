@@ -1,15 +1,7 @@
-eclipse	
-@eclipse /i'klips/
-*  danh từ
-- sự che khuất; thiên thực (nhật thực, nguyệt thực)
-- pha tối, đợt tối (đèn biển)
-- sự bị lu mờ, sự mất vẻ lộng lẫy; sự mất vẻ hào nhoáng!to be in eclipse
-- mất bộ lông sặc sỡ (chim)
-*  ngoại động từ
-- che, che khuất (mặt trời, mặt trăng...)
-- chặn (ánh sáng của đèn biển...)
-- làm lu mờ, át hẳn
-@Chuyên ngành kỹ thuật
--nguyệt thực
--nhật thực
--sự che khuất
+squeamishly
+	
+* phó từ
+- có dạ dày yếu và dễ buồn nôn
+- khó tính, dễ phẫn nộ, dễ buồn bực, dễ mất lòng
+- câu nệ; quá cân nhắc đắn đo, quá khiêm tốn, quá đúng đắn (về mặt nguyên tắc, đạo đức )
+

@@ -1,8 +1,6 @@
-coining	
-@Chuyên ngành kỹ thuật
--sự dập nổi
--sự định cỡ
--sự hiệu chỉnh
-@Lĩnh vực: cơ khí & công trình
--sự dập tinh
--sự dập tính
+armourer
+	
+*  danh từ
+- nhà sản xuất vũ khí
+- sĩ quan phụ trách vũ khí (của một tàu chiến, một đạo quân...)
+

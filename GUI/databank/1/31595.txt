@@ -1,41 +1,4 @@
-lateral	@lateral /'lætərəl/
-*  tính từ
-- ở bên
-*  danh từ
-- phần bên, bộ phận bên, vật bên
-@Chuyên ngành kỹ thuật
--bên
--chung quanh
--đường bên
--kênh ngang
--nằm ngang
--ngang
--mặt bên
--ở bên
--phía bên
--phía hông
--phụ
--sườn
--xung quanh
-@Lĩnh vực: xây dựng
--hướng bên
-@Lĩnh vực: ô tô
--thuộc mặt bên
-@Chuyên ngành kỹ thuật
--bên
--chung quanh
--đường bên
--kênh ngang
--nằm ngang
--ngang
--mặt bên
--ở bên
--phía bên
--phía hông
--phụ
--sườn
--xung quanh
-@Lĩnh vực: xây dựng
--hướng bên
-@Lĩnh vực: ô tô
--thuộc mặt bên
+preclearance
+	
+-sự thông quan trước
+

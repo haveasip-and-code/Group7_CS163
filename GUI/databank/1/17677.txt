@@ -1,10 +1,13 @@
-electromagnet	
-@electromagnet /i'lektrou'mægnit/
-*  danh từ
-- (vật lý) nam châm điện
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--nam châm điện
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--nam châm điện
+dewaxing
+	
+-loại sáp
+-tách parafin
+@Lĩnh vực: điện lạnh
+-khử parafin
+-khử sáp
+-sự khử parafin
+-sự khử sáp
+@Lĩnh vực: hóa học & vật liệu
+-loại parafin
+-sự cô đặc ( dầu thô)
+

@@ -1,2 +1,16 @@
-vires	@vires
-- số nhiều của vis
+transformer
+	
+*  danh từ
+- người làm biến đổi; vật làm biến đổi
+- (điện học) máy biến thế
+@Chuyên ngành kỹ thuật
+-biến thế
+-bộ chuyển đổi
+-máy biến áp
+-máy biến thế
+@Lĩnh vực: điện
+-biến áp
+-bộ biến thế
+@Lĩnh vực: toán & tin
+-bộ biến áp
+

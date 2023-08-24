@@ -1,23 +1,8 @@
-popular	@popular /'pɔpjulə/
-*  tính từ
-- (thuộc) nhân dân, của nhân dân, do nhân dân
-=a popular insurection+ cuộc khởi nghĩa của nhân dân
-- bình dân
-=the popular front+ mặt trận bình dân
-- có tính chất đại chúng, hợp với nhân dân, hợp với trình độ nhân dân, phổ cập
-=popular language+ ngôn ngữ đại chúng
-=popular sciene+ khoa học phổ cập
-=at popular prices+ với giá rẻ (hợp với túi tiền của nhân dân)
-- được lòng dân, được nhân dân yêu mến, được mọi người ưa thích, phổ biến, nổi tiếng
-=a popular song+ bài hát phổ biến
-=a popular book+ một quyển sách được mọi người ưa thích
-=a popular writer+ nhà văn nổi tiếng, nhà văn được mọi người yêu mến
-@Chuyên ngành kinh tế
--bình dân
--phổ biến
--thịnh hành
+oceanography
+	
+*  danh từ
+- hải dương học
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thông dụng
-@Lĩnh vực: toán & tin
--ưa chuộng
+-hải dương học
+-môn hải dương
+

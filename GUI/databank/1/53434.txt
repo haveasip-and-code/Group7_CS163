@@ -1,10 +1,6 @@
-stockholder	@stockholder
-* danh từ
-- <Mỹ> cổ đông
-@Chuyên ngành kinh tế
--cổ đông
--người có chứng khoán
-@Chuyên ngành kỹ thuật
--cổ đông
--người góp cổ phần
--người góp vốn
+secularly
+	
+*  phó từ
+- từng trăm năm một, hàng thế kỷ
+- lâu năm, lâu đời, trường kỳ
+

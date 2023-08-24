@@ -1,4 +1,8 @@
-tye	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--giao điểm của hai mạch (quặng)
--máng rửa quặng
+serif
+	
+* danh từ
+- nét nhỏ ở đầu nét sổ của chữ in trong một số loại chữ; chân chữ
+@Chuyên ngành kỹ thuật
+-đường gạch chân
+-nút đầu mút
+

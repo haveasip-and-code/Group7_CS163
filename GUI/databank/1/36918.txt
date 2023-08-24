@@ -1,6 +1,7 @@
-nonagon	@nonagon
-* danh từ
-- cửu giác (hình 9 cạnh)
-@Chuyên ngành kỹ thuật
+clicking
+	
+-nhắp chuột
 @Lĩnh vực: toán & tin
--hình chín cạnh
+-sự bấm chuột
+-sự nhấm
+

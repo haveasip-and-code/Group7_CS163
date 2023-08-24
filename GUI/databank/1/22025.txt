@@ -1,7 +1,7 @@
-formatter	
+archaeologist
+	
+*  danh từ
+- nhà khảo cổ
 @Chuyên ngành kỹ thuật
--bộ khuôn
-@Lĩnh vực: toán & tin
--bộ định dạng
--bộ mẫu
--bộ tạo khuôn
+-nhà khảo cổ học
+

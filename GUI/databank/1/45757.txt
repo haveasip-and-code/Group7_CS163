@@ -1,51 +1,6 @@
-ready	@ready /'redi/
-*  tính từ
-- sẵn sàng
-=dinner is ready+ cơm nước đã sẵn sàng
-=to be ready to go anywhere+ sẵn sàng đi bất cứ đâu
-=ready! go!+ (thể dục,thể thao) sẵn sàng! chạy!
-=ready, present, fire!+ chuẩn bị, ngắm, bắn!
-- sẵn lòng
-=he is ready to help you+ anh ta sẵn lòng giúp anh
-- để sẵn
-=to keep a revolver ready+ để sẵn một khẩu súng lục
-- cố ý, cú; có khuynh hướng
-=don't be so ready to find fault+ đừng cố ý bắt bẻ như thế
-- sắp, sắp sửa
-=now ready+ sắp sửa xuất bản (sách)
-=a bud just ready to brust+ nụ hoa sắp nở
-- có sẵn, mặt (tiền)
-=ready money+ tiền có sẵn (trong tay); tiền mặt
-=to pay ready money+ trả tiền mặt
-- nhanh, mau, ngay tức khắc; lưu loát
-=a ready retort+ câu đối đáp nhanh
-=to have a ready wit+ nhanh trí
-=to have a ready pen+ viết lưu loát
-- dễ dàng
-=goods that meet with a ready sale+ những hàng bán rất dễ dàng nhất
-- ở gần, đúng tầm tay
-=the readiest weapont+ cái vũ khí ở gần tay nhất
-=ready at hand; ready to hand+ ở ngay gần, vừa đúng tầm tay
-!to be always ready with an excuse
-- luôn luôn có lý do để bào chữa
-*  phó từ
-- sẵn, sẵn sàng
-=pack everything ready+ hây sắp xếp mọi thứ vào va li
-=ready dressed+ đã mặc quần áo sẵn sàng
-- nhanh (chỉ dùng cấp so sánh)
-=the child that answers readiest+ đứa bé trả lời nhanh nhất
-*  danh từ
-- (quân sự) tư thế sẵn sàng bắn (của súng)
-=to come to the ready+ giương súng ở tư thế sẵn sàng bắn
-=guns at the ready+ những khẩu pháo ngóc lên sẵn sàng nhả đạn
-- (từ lóng) tiền mặt
-*  ngoại động từ
-- chuẩn bị sẵn sàng, sửa soạn
-- (từ lóng) trả bằng tiền mặt
-@Chuyên ngành kỹ thuật
--sẵn sàng
--sẵn sàng hoạt động
-@Lĩnh vực: xây dựng
--sẵn
-@Lĩnh vực: toán & tin
--trực tuyến
+dehumidifying
+	
+-khô
+-sự khử nước
+-sự sấy
+

@@ -1,8 +1,12 @@
-bateau	
-@bateau
+stereograph
+	
 * danh từ
-- số nhiều bateaux
-- thuyền đáy bằng (chạy trên sông Bắc Mỹ)
+- ảnh lập thể; nổi
+* ngoại động từ
+- chụp ảnh nổi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thuyền đãi mẫu
+@Lĩnh vực: điện lạnh
+-ảnh (chụp) nổi
+@Lĩnh vực: y học
+-phim chụp tia X nổi
+

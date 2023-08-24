@@ -1,10 +1,5 @@
-sclerometer	@sclerometer
-* danh từ
-- dụng cụ đo độ cứng khoáng sản
-@Chuyên ngành kỹ thuật
--dụng cụ đo độ cứng của khoáng vật
--máy đo độ cứng
-@Lĩnh vực: điện lạnh
--cương kế
-@Lĩnh vực: hóa học & vật liệu
--thước đo độ cứng
+ravelin
+	
+*  danh từ
+- (quân sự) thành luỹ hình bán nguyệt
+

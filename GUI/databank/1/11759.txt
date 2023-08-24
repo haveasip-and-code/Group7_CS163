@@ -1,18 +1,13 @@
-convoy	
-@convoy /'kɔnvɔi/
-*  danh từ
-- sự hộ tống, sự hộ vệ
-- đoàn hộ tống, đoàn hộ vệ; đoàn được hộ tống
+sandbag
+	
 *  ngoại động từ
-- hộ tống, hộ vệ
+- xếp túi cát làm công sự
+- chặn (cửa sổ) bằng túi cát, bịt (lỗ hở) bằng túi cát
+- đánh quỵ bằng túi cát
+@Chuyên ngành kinh tế
+-chặn bằng bao cát
+-chiến thuật trùng trình
 @Chuyên ngành kỹ thuật
--chuyên chở
--đoàn tàu
--vận chuyển
-@Lĩnh vực: giao thông & vận tải
--chở (tàu)
-@Lĩnh vực: hóa học & vật liệu
--hộ tống
--hộ vệ
 @Lĩnh vực: xây dựng
--sự hộ tống
+-bao cát
+

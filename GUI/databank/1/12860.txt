@@ -1,4 +1,58 @@
-crustal	
-@crustal
-* tính từ
-- thuộc vỏ (trái đất...)
+stack
+	
+*  danh từ
+- cây rơm, đụn rơm
+- Xtec (đơn vị đo gỗ bằng khoảng 3 mét khối)
+- đống (than, củi)
+- (thông tục) một số lượng lớn, nhiều
+=to have stacks of work
++ có nhiều việc
+- (quân sự) cụm súng dựng chụm vào nhau
+- ống khói (nhà máy, xe lửa...); đám ống khói (trong nhà máy)
+- núi đá cao (ngoài biển khơi Ê
+-cốt)
+- giá sách; (số nhiều) nhà kho sách
+*  ngoại động từ
+- đánh (rơm, rạ) thành đống; chồng thành đống, chất thành đống
+- (hàng không) hướng dẫn bay lượn vòng (trong khi chờ đợi hạ cánh)
+- (quân sự) dựng (súng) chụm vào nhau
+!to stack the cards
+- (từ Mỹ,nghĩa Mỹ) xếp bài gian lận (để chia đúng cho ai một quân gì)
+- (nghĩa bóng) gian lận bố trí trước, bí mật sắp đặt trước để gian lận
+@Chuyên ngành kinh tế
+-chồng
+-đánh chồng
+-đánh đống
+-đống
+@Chuyên ngành kỹ thuật
+-bó
+-bộ nhớ lồng nhau
+-chồng
+-chùm
+-chùng
+-đánh đống
+-đống
+-giá sách
+-ngăn xếp
+-ống đốt
+-ống đứng
+-ống thải nước
+-ống thông hơi
+-ống xả
+-xếp chồng
+-xếp đống
+-xếp thành đống, chồng thành đống
+@Lĩnh vực: cơ khí & công trình
+-chồng hòm khuôn
+@Lĩnh vực: điện
+-lỏng (dây)
+@Lĩnh vực: xây dựng
+-ống đứng hơi
+-ống khói
+-xếp chồng đống
+@Lĩnh vực: điện lạnh
+-ống sưởi
+@Lĩnh vực: toán & tin
+-xếp thành chồng
+-xếp thành đống
+

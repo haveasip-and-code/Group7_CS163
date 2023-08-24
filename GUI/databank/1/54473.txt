@@ -1,10 +1,4 @@
-summability	@summability
-- (giải tích) tính khả tổng, tính khả tích
-- absolute s. (giải tích) tính [khả tổng; khả tích] tuyệt đối
-- normal s. tính khả tổng chuẩn tắc
-- regular s. tính khả tổng đều
-- strong s. (giải tích) tính khả tổng mạnh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tính khả tích
--tính khả tổng
+garbled
+	
+-điện văn lộn xộn, không thể nhận ra
+

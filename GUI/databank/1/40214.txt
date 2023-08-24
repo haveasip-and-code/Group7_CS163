@@ -1,3 +1,36 @@
-pedals	@Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--các bàn đạp
+assume
+	
+*  ngoại động từ
+- mang, khoác, có, lấy (cái vẻ, tính chất...)
+=his illness assumes a very grave character
++ bệnh của anh ta có vẻ nặng
+=to assume the name of
++ mang tên là, lấy tên là
+- làm ra vẻ, giả bộ
+=to assume a look of innocence
++ làm ra vẻ ngây thơ
+=to assume airs
++ lên mặt, lên râu, làm ra vẻ ta đây
+- cho rằng (là đúng); giả sử (là đúng), thừa nhận
+=let's assume that this is true
++ chúng ta hãy cho điều này là đúng
+- nắm lấy, chiếm lấy
+=to assume power
++ nắm chính quyền
+- đảm đương, gánh vác, nhận vào mình
+=to assume responsibility
++ gánh vác một trách nhiệm
+!to assume measures
+- áp dụng những biện pháp
+!to assume the offensive
+- (quân sự) chuyển sang thế tấn công
+@Chuyên ngành kinh tế
+-đảm đương
+-gánh vác
+-giả định
+@Chuyên ngành kỹ thuật
+-cho rằng
+-giả định
+-giả sử
+-giả thiết
+

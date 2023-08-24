@@ -1,5 +1,37 @@
-gid	
+energize
+	
+*  ngoại động từ
+- làm mạnh mẽ, làm mãnh liệt, tiếp nghị lực cho, tiếp sinh lực cho
+*  nội động từ
+- hoạt động mạnh mẽ
 @Chuyên ngành kỹ thuật
--lưới
--lưới năng lượng
--lưới tọa độ
+-đóng điện cho
+-hoạt hóa
+-kích hoạt
+-kích thích
+-nuôi
+-mở máy
+-tăng cường
+@Lĩnh vực: điện
+-cấp điện (cho)
+-đóng điện (cho)
+@Lĩnh vực: điện lạnh
+-cấp năng lượng
+@Lĩnh vực: xây dựng
+-khích thích
+@Chuyên ngành kỹ thuật
+-đóng điện cho
+-hoạt hóa
+-kích hoạt
+-kích thích
+-nuôi
+-mở máy
+-tăng cường
+@Lĩnh vực: điện
+-cấp điện (cho)
+-đóng điện (cho)
+@Lĩnh vực: điện lạnh
+-cấp năng lượng
+@Lĩnh vực: xây dựng
+-khích thích
+

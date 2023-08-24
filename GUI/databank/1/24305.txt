@@ -1,73 +1,9 @@
-grind	
-@grind /graind/
-*  danh từ
-- sự xay, sự tán, sự nghiền
-- sự mài
-- tiếng nghiến ken két
-- (nghĩa bóng) công việc cực nhọc đều đều=the daily grind
-+ công việc hằng ngày
-- cuộc đi bộ để tập luyện
-- lớp học rút (để đi thi); lớp luyện thi
-- (từ lóng) cuộc đua ngựa nhảy rào
-- (từ Mỹ,nghĩa Mỹ) học sinh học gạo
-*  động từ ground
-- xay, tán, nghiền=to grind corn into flour
-+ xay lúa mì thành bột
-- mài, giũa=to grind a knife
-+ mài dao=to grind diamonds
-+ mài kim cương
-- xát, nghiền=to grind one's teeth [together]
-+ nghiến răng=the ship grinding on the rocks
-+ tàu sạt vào những tảng đá=to grind one's heel into the ground
-+ di di gót chân xuống đất
-- đàn áp, áp bức, đè nén=to grind the faces of the poor
-+ áp bức người nghèo
-- quay cối xay cà phê=to grind music out of a hurdy
--gurdy
-+ quay đàn vien=to grind out some verses
-+ nặn ra vài câu thơ
-- bắt (ai) làm việc cật lực
-- nhồi nhét=to grind for the exam
-+ học nhồi để thi!to grind away
-- (
-+ at) làm cật lực, làm tích cực
-- học tập cần cù; học gạo!to grind down
-- xay nhỏ, tán nhỏ, nghiền nhỏ, nghiền nát
-- hành hạ, áp bức!to grind in
-- (kỹ thuật) mài, nghiền, rà!to grind out
-- đè bẹp, giẫm nát, nghiền nát
-- nghiền, nạo ra=to grind out an oath
-+ nghiến răng lại mà nguyền rủa!to grind up
-- nghiền nhỏ, tán nhỏ!to grind one's own axe
-- theo đuổi mục đích cá nhân!to have an axe to grind
-- có một mục đích cá nhân phải đạt
+impark
+	
+*  ngoại động từ
+- nhốt (súc vật) trong bãi rào chăn nuôi
+- rào (khu đất) để làm bãi chăn nuôi
+- khoanh (khu đất) làm công viên
 @Chuyên ngành kinh tế
--sự nghiền mịn
--sự nghiền nhỏ
--tán
--xây
-@Chuyên ngành kỹ thuật
--cọ xát
--đập vụn
--làm sạch
--nghiền
--nghiền vụn
--mài
--rà
--sự đánh bóng
--sự đập nhỏ
--sự mài
--sự nghiền
--sự tán
--sự xay
--tán thành bột
--xay
-@Lĩnh vực: hóa học & vật liệu
--giã thành bột
-@Lĩnh vực: cơ khí & công trình
--nghiền thành bột
--mài sắt
-@Lĩnh vực: xây dựng
--mái sắc
-@Lĩnh vực: ô tô
--rũa
+-khu nhốt súc vật
+

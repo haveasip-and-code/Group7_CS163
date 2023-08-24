@@ -1,4 +1,11 @@
-shallows	@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--bãi nông
--chỗ nông
+alcohol
+	
+*  danh từ
+- rượu cồn
+- (định ngữ) (thuộc) cồn
+@Chuyên ngành kinh tế
+-rượu
+-rượu cồn
+@Chuyên ngành kỹ thuật
+-rượu
+

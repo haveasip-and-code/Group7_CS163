@@ -1,5 +1,25 @@
-notepad	@notepad
-* danh từ
-- tập giấy dùng để ghi chép
+crisis
+	
+*  danh từ,  số nhiều crises
+- sự khủng hoảng; cơn khủng hoảng
+=political crisis
++ khủng hoảng chính trị
+=a cabiner crisis
++ khủng hoảng nội các
+=economic crisis
++ khủng hoảng kinh tế
+=to come to a crisis
++ đến bước ngoặc, đến bước quyết định
+=to pass through a crisis
++ qua một cơn khủng hoảng
+- (y học) cơn (bệnh); sự lên cơn
 @Chuyên ngành kinh tế
--sổ tay
+-khủng hoảng
+-sự nguy cơ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh biến
+-cơn
+@Lĩnh vực: toán & tin
+-khủng hoảng
+

@@ -1,8 +1,7 @@
-hyphenated	
-@hyphenated /'haifəneitid/
-*  tính từ
-- có dấu nối ở giữa
-- có nguồn gốc lai=a hyphenated American
-+ người Mỹ nguồn gốc lai (Đức
--ÃMỹ,  Ailen
--ÃMỹ...)
+forking
+	
+* danh từ
+- sự chia nhánh
+@Chuyên ngành kỹ thuật
+-phân nhánh
+

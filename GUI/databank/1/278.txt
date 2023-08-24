@@ -1,4 +1,36 @@
-academical	
-@academical /,ækə'demikəl/
-*  tính từ
-- (thuộc) học viện; (thuộc) trường đại học
+principle
+	
+*  danh từ
+- gốc, nguồn gốc, yếu tố cơ bản
+=the principle of all good
++ gốc của mọi điều thiện
+- nguyên lý, nguyên tắc
+=Archimedes's principle
++ nguyên lý Ac
+-si
+-mét
+=in principle
++ về nguyên tắc, nói chung
+- nguyên tắc đạo đức, phép tắc, phương châm xử thế
+=a man of principle
++ người sống theo nguyên tắc đạo đức (thẳng thắn, thực thà...)
+=to do something on principle
++ làm gì theo nguyên tắc
+=to lay down as a principle
++ đặt thành nguyên tắc
+- nguyên tắc cấu tạo (máy)
+- (hoá học) yếu tố cấu tạo đặc trưng
+@Chuyên ngành kinh tế
+-nguyên lý
+-nguyên tắc
+@Chuyên ngành kỹ thuật
+-định luật
+-nguyên lý
+-nguyên tắc
+-qui tắc
+-quy tắc
+@Lĩnh vực: y học
+-chất chủ yếu
+@Lĩnh vực: cơ khí & công trình
+-yếu tố chính
+

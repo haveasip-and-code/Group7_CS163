@@ -1,31 +1,5 @@
-coast	
-@coast /koust/
-*  danh từ
-- bờ biển
-- (từ Mỹ,nghĩa Mỹ), (Ca
--na
--đa) đường lao (của xe trượt tuyết); sự lao xuống (của xe trượt tuyết)
-- (từ Mỹ,nghĩa Mỹ) sự lao dốc (mô tô, xe đạp)
-*  động từ
-- đi men bờ biển (tàu bè)
-- (từ Mỹ,nghĩa Mỹ) trượt xuống, lao xuống (xe trượt tuyết)
-- thả cho (xe đạp) xuống dốc (không đạp); tắt máy lao dốc (mô tô)
-@Chuyên ngành kinh tế
--bờ biển
--đi dọc bờ biển
--miếng thịt bò
--tảng thịt bò
-@Chuyên ngành kỹ thuật
--bờ
--bờ biển
--khả năng ghi nhớ
-@Lĩnh vực: giao thông & vận tải
--bờ biển địa lý
-@Lĩnh vực: ô tô
--chạy theo quán tính
-@Lĩnh vực: xây dựng
--đi ven biển
--đi ven bờ
-@Lĩnh vực: vật lý
--lao (theo) đà
--lao theo đà
+disenfranchisement
+	
+* danh từ
+- xem disfranchisement
+

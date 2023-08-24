@@ -1,8 +1,10 @@
-pollen	@pollen /'pɔlin/
-*  danh từ
-- (thực vật học) phấn hoa
-*  ngoại động từ
-- (thực vật học) cho thụ phấn, rắc phấn hoa
-@Chuyên ngành kinh tế
--bào tử vi khuẩn
--phấn hoa
+lemma
+	
+*  danh từ,  số nhiều lemmas  /'leməz/,  lemmata  /'lemətə/
+- (toán học) bổ đề
+- cước chú (cho tranh ảnh)
+@Chuyên ngành kỹ thuật
+-bổ đề
+@Chuyên ngành kỹ thuật
+-bổ đề
+

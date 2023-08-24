@@ -1,12 +1,15 @@
-wooden	@wooden /'wudn/
+vertebrate
+	
 *  tính từ
-- bằng gỗ
-- (nghĩa bóng) cứng đờ; đờ đẫn; vụng, lúng túng
-=a wooden stare+ cái nhìn đờ đẫn
-!wooden head
-- người ngu độn
-!wooden spoon
-- (sử học) thìa gỗ (tặng người đậu bét môn toán ở trường đại học Căm-brít)
++ (vertebrated)
+/'və:tibritid/
+- có xương sống
+=vertebrate animal
++ động vật có xương sống
+*  danh từ
+- động vật có xương sống
 @Chuyên ngành kỹ thuật
--bằng gỗ
--làm bằng gỗ
+@Lĩnh vực: y học
+-có xương sống
+-động vật có xương sống
+

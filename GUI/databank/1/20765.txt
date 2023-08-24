@@ -1,7 +1,7 @@
-fermion	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--hạt Fermi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--hạt Fermi
+corruptible
+	
+*  tính từ
+- dễ lung lạc, dễ mua chuộc, dễ hối lộ
+- dễ hư hỏng, dễ truỵ lạc
+- dễ thối nát
+

@@ -1,25 +1,8 @@
-pivot	@pivot /'pivət/
-*  danh từ
-- trụ, ngõng, chốt
-- (quân sự) chiến sĩ đứng làm chốt (khi một đội quân xoay hướng đi)
-- (nghĩa bóng) điểm then chốt, điểm mấu chốt
+defilade
+	
+*  danh từ (quân sự)
+- thuật chống bắn lia
+- công trình chống bắn lia
 *  ngoại động từ
-- đặt lên trụ, đặt lên ngõng, đặt lên chốt
-- đóng vào trụ, đóng ngõng vào, đóng chốt vào
-*  nội động từ
-- xoay quanh trụ, xoay quanh ngõng, xoay quanh chốt
-- (nghĩa bóng) (+ upon) xoay quanh
-@Chuyên ngành kỹ thuật
--chất xoay
--chốt
--chốt quay
--điểm chốt xoay
--điểm quay
--điểm tựa
--ngõng trục
--trụ
--trục
--trục xoay
-@Lĩnh vực: cơ khí & công trình
--điểm xoay
--trục (cố định trên có gắn bộ phận khác quay nhanh)
+- xây công trình chống bắn lia cho
+

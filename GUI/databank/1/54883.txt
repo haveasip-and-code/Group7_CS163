@@ -1,23 +1,16 @@
-surveying	@surveying
-* danh từ
-- sự đo vẽ
-- forest surveying
-- sự đo vẽ rừng
-- công việc trắc địa
+salinometer
+	
+*  danh từ
+- cái đo mặn
 @Chuyên ngành kinh tế
--kĩ thuật đo đạc
--quan trắc
--sự đo đạc (đất đai)
--sự đo đạc (đất đai...), kỹ thuật đo đạc
+-dụng cụ đo nước muối
+-phù kế muối
 @Chuyên ngành kỹ thuật
--điều tra
--khảo sát
--môn chắc địa
--sự điều tra
--sự đo đạc
--sự khảo sát
--sự thăm dò
--sự tìm kiếm
--trắc địa
-@Lĩnh vực: giao thông & vận tải
--sự đo vẽ (tàu)
+-cái đo mặn
+-muối kế
+-phù kế muối
+@Lĩnh vực: hóa học & vật liệu
+-cái đo độ muối
+@Lĩnh vực: điện lạnh
+-máy đo (độ) muối
+

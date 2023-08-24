@@ -1,7 +1,8 @@
-gaggle	
-@gaggle /'gægl/
-*  danh từ
-- bầy ngỗng
-- bọn (đàn bà) ngồi lê đôi mách
-*  nội động từ
-- kêu quàng quạc (ngỗng)
+weekday
+	
+* danh từ
+- ngày thường trong tuần (bất cứ ngày nào trừ ngày chủ nhật)
+@Chuyên ngành kinh tế
+-ngày (thường) trong tuần
+-ngày mở cửa (không kể ngày chủ nhật)
+

@@ -1,15 +1,14 @@
-flavoring	
-@Chuyên ngành kỹ thuật
--chất thơm
--mùi thơm
--vị ngon
-@Lĩnh vực: thực phẩm
--đồ gia vị
--hương vị
-@Chuyên ngành kỹ thuật
--chất thơm
--mùi thơm
--vị ngon
-@Lĩnh vực: thực phẩm
--đồ gia vị
--hương vị
+uppermost
+	
+*  tính từ
++ (upmost)
+/' pmoust/
+- cao nhất, trên hết
+=the uppermost floor
++ tầng cao nhất
+- quan trọng hn hết, ở hàng đầu
+=to be uppermost
++ chiếm ưu thế, được phần hn
+*  phó từ
+- ở trên hết, ở trên đỉnh, ở hàng đầu
+

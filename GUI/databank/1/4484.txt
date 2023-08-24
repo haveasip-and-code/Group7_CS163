@@ -1,45 +1,8 @@
-bail	
-@bail /beil/
-*  danh từ
-- (pháp lý) tiền bảo lãnh
-- người bảo lãnh!to admit to (allow, hold to, take)
-- cho tạm tự do ở ngoài với điều kiện nộp tiền bảo lãnh!to forfelt one's bail
-- không ra hầu toà!to go bail for someone
-- (pháp lý) trả tiền bảo lãnh cho người nào, đứng ra bảo lãnh cho ai!to offer bail
-- xin nộp tiền bảo lãnh để được tạm tự do ở ngoài!out on bail
-- tạm được tự do ở ngoài sau khi đã đóng tiền bảo lãnh!to produce (bring in, render, surrender to one's bail)
-- ra toà sau khi hết hạn bảo lãnh
-*  ngoại động từ
-- to bail someone out đóng tiền bảo lãnh cho ai được tạm tự do ở ngoài
-*  động từ
-- bail out tát (nước) trong thuyền ra bằng gàu!to bail out
-- (quân sự),  (thông tục) nhảy dù khỏi máy bay
-*  danh từ
-- vòng đỡ mui xe
-- quai ấm
-- (Uc) giá đỡ đầu bò cái (khi vắt sữa)
-*  ngoại động từ
-- to bail up giữ đầu (bò cái trên giá để vắt sữa)
-- bắt giơ tay lên để cướp của
-*  nội động từ
-- giơ tay lên
-*  danh từ
-- gióng ngang ngăn ô chuồng ngựa
-- (sử học) hàng rào vây quanh; tường bao quanh sân lâu đài
-- (sử học) sân lâu đài
-@Chuyên ngành kinh tế
--bảo chứng
--người bảo lãnh cho tại ngoại
--tiền bảo lãnh
--tiền bảo lãnh cho tại ngoại
--việc bảo lãnh
+wattage
+	
+* danh từ
+- lượng điện năng được biểu hiện bằng oát
 @Chuyên ngành kỹ thuật
--bơm hút
--cung
--gáo
--gầu
--vòng
-@Lĩnh vực: hóa học & vật liệu
--bộ thanh thép
-@Lĩnh vực: cơ khí & công trình
--quai (cầm)
+@Lĩnh vực: điện lạnh
+-số oát
+

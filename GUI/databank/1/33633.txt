@@ -1,22 +1,27 @@
-many	@many /'meni/
-*  tính từ more; most
-- nhiều, lắm
-=many people think so+ nhiều người nghĩ như vậy
-!many a
-- hơn một, nhiều
-=many a time+ nhiều lần
-=many a man think so+ nhiều người nghĩ như vậy
-!for many a long day
-- trong một thời gian dài
-!to be one too many
-- thừa
-!to be one too many for
-- mạnh hơn, tài hơn, không ai dịch được
+deduction
+	
 *  danh từ
-- nhiều, nhiều cái, nhiều người
-!the many
-- số đông, quần chúng
-=in capitalist countries the many have to labour for the few+ trong các nước tư bản số đông phải lao động cho một thiểu s
+- sự lấy đi, sự khấu đi, sự trừ đi
+- sự suy ra, sự luận ra, sự suy luận, sự suy diễn
+- điều suy luận
+@Chuyên ngành kinh tế
+-khấu trừ
+-sự chiết khấu
+-sự giảm đi
+-sự lấy đi
+-sự suy diễn
 @Chuyên ngành kỹ thuật
--nhiều
--nhiều cái
+-kết luận
+-sự suy diễn
+-suy diễn
+-suy luận
+-suy ra
+-thặng dư
+@Lĩnh vực: xây dựng
+-khấu trừ
+-sự khấu trừ
+@Lĩnh vực: điện lạnh
+-sự suy ra
+@Lĩnh vực: toán & tin
+-sự trừ đi
+

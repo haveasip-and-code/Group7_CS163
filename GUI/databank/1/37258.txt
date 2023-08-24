@@ -1,15 +1,13 @@
-nutritive	@nutritive /'nju:tritiv/
-*  tính từ
-- bổ; có chất bổ; dinh dưỡng
-- dùng làm thức ăn
+electrophorus
+	
 *  danh từ
-- chất dinh dưỡng, đồ ăn có chất b
-@Chuyên ngành kinh tế
--bổ
--chất bổ
--có chất bổ
+- bàn khởi điện
 @Chuyên ngành kỹ thuật
--bổ
--dinh dưỡng
-@Lĩnh vực: thực phẩm
--có chất bổ
+-bản khởi điện
+@Lĩnh vực: vật lý
+-cấu khởi điện
+@Chuyên ngành kỹ thuật
+-bản khởi điện
+@Lĩnh vực: vật lý
+-cấu khởi điện
+

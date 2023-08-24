@@ -1,14 +1,23 @@
-conjecture	
-@conjecture /kən'dʤektʃə/
+tabulation
+	
 *  danh từ
-- sự phỏng đoán, sự ước đoán=to be right in a conjecture
-+ phỏng đoán đúng
-- cách lần đọc (câu, đoạn trong một bản viết tay cổ)
-*  động từ
-- đoán, phỏng đoán, ước đoán
-- đưa ra một cách lần đọc (câu, đoạn trong một bản viết tay cổ)
+- sự xếp thành bảng, sự xếp thành cột
+@Chuyên ngành kinh tế
+-biểu
+-sự lập bảng biểu
+-sự xếp thành bảng
+-trình bày thành bảng
+-việc lập bảng
+-việc lập bảng biểu
 @Chuyên ngành kỹ thuật
--phỏng đoán
--sự giả định
+-lập bảng
+-sự lập bảng
+-sự phân loại
 @Lĩnh vực: toán & tin
--sự phỏng đoán
+-sự định cột
+-sự lập thành bảng
+@Lĩnh vực: xây dựng
+-sự lập bảng (tính)
+@Lĩnh vực: điện tử & viễn thông
+-sự lập biểu
+

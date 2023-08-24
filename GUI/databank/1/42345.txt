@@ -1,12 +1,13 @@
-poling	@poling
-* danh từ
-- sự đóng cọc; dãy cọc, hàng cọc
+crumbly
+	
+*  tính từ
+- dễ sụp, dễ lở, dễ đổ, dễ vỡ vụn
+@Chuyên ngành kinh tế
+-có vỏ giòn
+-dễ vỡ vụn
+-giòn
+-tơi
 @Chuyên ngành kỹ thuật
--bờ rào
--hàng cọc
--hàng cột
--hàng rào
--sự đóng cọc
-@Lĩnh vực: xây dựng
--hàng trụ
--sự đặt trụ
+-dễ vỡ vụn
+-vụn
+

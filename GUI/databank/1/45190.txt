@@ -1,14 +1,16 @@
-quiescent	@quiescent /kwai'esnt/
-*  tính từ
-- im lìm, yên lặng
-=quiescent sea+ biển lặng
-=be quiescent!+ im đi!
+flection
+	
+*  danh từ
+- sự uốn
+- chỗ uốn
+- (ngôn ngữ học) biến tố
+- (toán học) độ uốn
+=flexion of a surface
++ độ uốn của một mặt
 @Chuyên ngành kỹ thuật
--dừng
--đứng yên
--im
--nghỉ
-@Lĩnh vực: điện
--êm tịnh
-@Lĩnh vực: toán & tin
--tĩnh, nghỉ, hãm
+-chỗ uốn
+-sự uốn
+@Chuyên ngành kỹ thuật
+-chỗ uốn
+-sự uốn
+

@@ -1,18 +1,22 @@
-expertise	
-@expertise /,ekspə'ti:z/
+quoin
+	
 *  danh từ
-- sự thành thạo, sự tinh thông
-- tài chuyên môn; ý kiến về mặt chuyên môn
-- sự giám định
-@Chuyên ngành kinh tế
--bí quyết
--khả năng
--kỹ năng chuyên môn
--sở trường chuyên môn
--sự giám định
--sự thành thạo
--sự tinh thông
--sự tinh thông kỹ năng
--thành thạo
--tinh thông
--tri thức chuyên môn
+- góc tường
+- đá xây ở góc, gạch xây ở góc
+- cái chèn, cái chêm
+*  ngoại động từ
+- chèn, chêm
+@Chuyên ngành kỹ thuật
+-cái chêm
+-cái chén
+-cái chèn
+-cái nêm
+-đá xây góc tường
+@Lĩnh vực: xây dựng
+-đá bắt góc
+-đá ở góc
+-đá trụ
+-đá xây góc
+-góc nhà
+-góc tường
+

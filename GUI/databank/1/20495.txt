@@ -1,53 +1,40 @@
-fastening	
-@fastening /'fɑ:sniɳ/
+assignment
+	
 *  danh từ
-- sự buộc, sự trói chặt
-- sự đóng chặt, sự cài chặt
-- sự thắt chặt nút
-- cái khoá, cái hầm, cái móc, cái chốt ((cũng) fastener)
+- sự giao việc, sự phân công; (từ Mỹ,nghĩa Mỹ) việc được giao, việc được phân công
+- sự chia phần
+- sự cho là, sự quy cho
+=assignment of reason
++ sự cho là có lý do
+- (pháp lý) sự nhượng lại, sự chuyển nhượng; chứng từ chuyển nhượng
+@Chuyên ngành kinh tế
+-bổ dụng
+-bổ nhiệm
+-chuyển tên người sở hữu
+-công việc được giao
+-nhiệm vụ
+-phân công
+-sự chuyển nhượng (tài sản, quyền lợi, trái khoản ...)
+-sự phân phối
+-việc chuyển nhượng chứng từ chuyển nhượng
 @Chuyên ngành kỹ thuật
--buộc chặt
--cái kẹp
--giữ chặt
--má kẹp
--mỏ cặp
--sự chống
--sự cố định
--sự gắn chặt
--sự gia cố
--sự kẹp chặt
--sự liên kết
--sự nêm chặt
--sự nén chặt
--sự nối
--sự siết
--sự tăng cường
--vòng kẹp
--xiết chặt
+-gán
+-sự cài đặt
+-sự chuyển nhượng
+-sự phân bố
+-sự phân bổ
+-sự thiết lập
+@Lĩnh vực: hóa học & vật liệu
+-chuyển nhượng
+-nhượng lại
 @Lĩnh vực: xây dựng
--mỏ xiết
--sự siết chặt
--thắt chặt
-@Chuyên ngành kỹ thuật
--buộc chặt
--cái kẹp
--giữ chặt
--má kẹp
--mỏ cặp
--sự chống
--sự cố định
--sự gắn chặt
--sự gia cố
--sự kẹp chặt
--sự liên kết
--sự nêm chặt
--sự nén chặt
--sự nối
--sự siết
--sự tăng cường
--vòng kẹp
--xiết chặt
-@Lĩnh vực: xây dựng
--mỏ xiết
--sự siết chặt
--thắt chặt
+-chuyển nhượng hợp đồng
+-phân công
+-sự ấn định
+@Lĩnh vực: giao thông & vận tải
+-đợt công tác
+@Lĩnh vực: toán & tin
+-phép gán
+-sự gán
+-sự phân công
+

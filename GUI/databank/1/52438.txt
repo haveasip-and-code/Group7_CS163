@@ -1,4 +1,21 @@
-spinor	@spinor
-- spinơ
+bonanza
+	
+*  danh từ
+- sự phát đạt, sự thịnh vượng, sự phồn vinh; sự may mắn; vận đỏ
+- (ngành mỏ) mạch mỏ phong phú
+- sản lượng cao, thu hoạch cao, năng suất cao
+*  tính từ
+- thịnh vượng, phồn vinh
+- có sản lượng cao, cho thu hoạch cao, có năng suất cao
+=bonanza year
++ một năm thu hoạch cao, một năm được mùa
+@Chuyên ngành kinh tế
+-sản lượng cao (giếng dầu ...)
+-sự phát đạt
+-tăng lợi nhuận
+-vận may
 @Chuyên ngành kỹ thuật
--spinơ
+@Lĩnh vực: hóa học & vật liệu
+-phần quặng giàu
+-trụ khoáng
+

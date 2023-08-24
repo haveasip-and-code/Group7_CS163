@@ -1,11 +1,9 @@
-alternator	
-@alternator /'ɔ:ltəneitə/
-*  danh từ
-- (điện học) máy dao điện
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bộ giao diện
-@Lĩnh vực: xây dựng
--bộ giao điện
-@Lĩnh vực: điện lạnh
--máy dao điện
+docker
+	
+* danh từ
+- công nhân bốc xếp ở bến tàu
+@Chuyên ngành kinh tế
+-công nhân bến tàu (làm công việc bốc xếp)
+-công nhân bốc xếp
+-khuôn bánh quy
+

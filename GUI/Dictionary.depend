@@ -3272,7 +3272,7 @@
 
 1692264951 source:c:\users\lecuo\documents\github\group7_cs163\final\wxwidgetshandling.c
 
-1692783752 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
+1692913770 source:c:\users\lecuo\documents\github\group7_cs163\gui\core.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"core.h"
@@ -3345,7 +3345,7 @@
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\foldercore.h
 	<bits/stdc++.h>
 
-1692893487 source:c:\users\lecuo\documents\github\group7_cs163\gui\form login.cpp
+1692894666 source:c:\users\lecuo\documents\github\group7_cs163\gui\form login.cpp
 	"Form Login.hpp"
 	"treebook test.hpp"
 
@@ -3357,7 +3357,7 @@
 	<fstream>
 	<string>
 
-1692891923 c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.hpp
+1692894848 c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.hpp
 	<wx/sound.h>
 	<stdio.h>
 	"wx/wx.h"
@@ -3396,7 +3396,7 @@
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.h
 	<bits/stdc++.h>
 
-1692786856 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
+1692894704 source:c:\users\lecuo\documents\github\group7_cs163\gui\globalvariablecontroller.cpp
 	<bits/stdc++.h>
 	"globalVariableController.h"
 	"storage.h"
@@ -3423,7 +3423,7 @@
 1692554122 c:\users\lecuo\documents\github\group7_cs163\gui\initcore.h
 	<bits/stdc++.h>
 
-1692612562 source:c:\users\lecuo\documents\github\group7_cs163\gui\main.cpp
+1692914147 source:c:\users\lecuo\documents\github\group7_cs163\gui\main.cpp
 	"treebook test.hpp"
 	"Main.hpp"
 	"Form Login.hpp"
@@ -3473,7 +3473,7 @@
 	"folderCore.h"
 	"storage.h"
 
-1692554123 source:c:\users\lecuo\documents\github\group7_cs163\gui\ternarysearchtree.cpp
+1692915079 source:c:\users\lecuo\documents\github\group7_cs163\gui\ternarysearchtree.cpp
 	<bits/stdc++.h>
 	"ternarySearchTree.h"
 	"debugCore.h"
@@ -3482,7 +3482,7 @@
 	<bits/stdc++.h>
 	"timeModule.h"
 
-1692892148 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
+1692915833 source:c:\users\lecuo\documents\github\group7_cs163\gui\treebook test.cpp
 	"treebook test.hpp"
 	"Form Login.hpp"
 	"Form Login.hpp"

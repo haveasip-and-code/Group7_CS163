@@ -1,10 +1,36 @@
-endarterectomy	
-@endarterectomy
-* danh từ
-- (y học) việc cắt viêm áo trong động mạch
+material
+	
+*  tính từ
+- vật chất
+=material world
++ thế giới vật chất
+- (thuộc) thân thể, (thuộc) xác thịt
+- hữu hình, cụ thể, thực chất
+=a material being
++ vật hữu hình
+- quan trọng, trọng đại, cần thiết
+=food is most material to man
++ thức ăn hết sức cần thiết đối với con người
+*  danh từ
+- chất, tài liệu, nguyên liệu, vật liệu
+=raw materials
++ nguyên liệu
+=materials for a book
++ tài liệu để viết một cuốn sách
+- vải
+@Chuyên ngành kinh tế
+-chất
+-hữu hình
+-nguyên liệu
+-thực tể
+-thực thể
+-vật chất
+-vật liệu
+-vật tư
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thủ thuật cắt bỏ nội mạc động mạch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thủ thuật cắt bỏ nội mạc động mạch
+-nguyên liệu
+-vải
+-vật chất
+-vật liệu
+-vật liệu chất
+

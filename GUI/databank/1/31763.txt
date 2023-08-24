@@ -1,29 +1,5 @@
-leap	@leap /li:p/
-*  danh từ
-- sự nhảy
-- quãng cách nhảy qua
-- (nghĩa bóng) sự biến đổi thình lình
-!leap in the dark
-- một hành động liều lĩnh mạo hiểm
-!by leapds anf bounds
-- tiến bộ nhanh, nhảy vọt
-*  ngoại động từ leaped,  leapt
-- nhảy qua, vượt qua; bắt nhảy qua
-=to leap a wall+ nhảy qua một bức tường
-=to leap a hóe ovẻ a hedge+ bắt ngựa nhảy qua hàng rào
-*  nội động từ
-- nhảy lên; lao vào
-=to leap for joy+ nhảy lên vì vui sướng
-=to leap an the enemy+ lao vào kẻ thù
-- (nghĩa bóng) nắm ngay lấy
-=to leap at an opportunity+ nắm ngay lấy cơ hội
-!look before you leap
-- phải suy nghĩ cẩn thận trước khi hành động; ăn có nhai, nói có nghĩ
-!one's heart leaps into one's mouth
-- sợ hết hồn, sợ chết khiếp
-@Chuyên ngành kỹ thuật
--nhảy qua
--sự biến vị
-@Chuyên ngành kỹ thuật
--nhảy qua
--sự biến vị
+defensiveness
+	
+* danh từ
+- tính cách phòng vệ, tính cách phòng thủ
+

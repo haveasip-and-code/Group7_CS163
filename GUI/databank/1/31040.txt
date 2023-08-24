@@ -1,36 +1,8 @@
-kite	@kite /kait/
+triweekly
+	
+*  tính từ & phó từ
+- mỗi tuần ba lần
+- ba tuần một lần
 *  danh từ
-- cái diều
-- (động vật học) diều hâu
-- (nghĩa bóng) kẻ tham tàn; kẻ bịp bợm, quân bạc bịp
-- (thương nghiệp),  (từ lóng) văn tự giả; hối phiếu giả
-- (hàng hải) cánh buồm cao nhất (chỉ giương lên khi có gió nhẹ)
-- (quân sự),  (từ lóng) máy bay
-!to fly a kite
-- thả diều
-- (nghĩa bóng) thăm dò ý kiến
-- (thương nghiệp),  (từ lóng) lấy tiền bằng văn tự giả; lấy tiền bằng hối phiếu giả
-*  nội động từ
-- bay lên như diều
-- (thương nghiệp),  (từ lóng) lấy tiền bằng văn tự giả; lấy tiền bằng hối phiếu giả
-*  ngoại động từ
-- làm bay lên như diều
-- (thương nghiệp),  (từ lóng) chuyển thành văn tự giả; chuyển thành hối phiếu giả
-@Chuyên ngành kinh tế
--chi phiếu khống
--chi phiếu không tiền bảo chứng
--hối phiếu khống
--hối phiếu thông dụng
--không tiền bảo chứng
--máy bay
--phiếu khoán khống
--séc khống
--viết chi phiếu khống
-@Chuyên ngành kỹ thuật
--cái diều
-@Lĩnh vực: điện tử & viễn thông
--điều bay
-@Chuyên ngành kỹ thuật
--cái diều
-@Lĩnh vực: điện tử & viễn thông
--điều bay
+- tạp chí ra ba tuần một kỳ
+

@@ -1,9 +1,7 @@
-hexagonal	
-@hexagonal /hek'sægənl/
-*  tính từ
-- sáu cạnh
-@Chuyên ngành kỹ thuật
--hình lục giác
--hình sáu cạnh
--lục giác
--sáu cạnh
+curtaining
+	
+-lớp lót
+@Lĩnh vực: hóa học & vật liệu
+-sự tạo màn che
+-sự tạo màng ngăn
+

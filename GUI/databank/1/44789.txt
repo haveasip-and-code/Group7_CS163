@@ -1,16 +1,7 @@
-purifier	@purifier /'pjuərifaiə/
-*  danh từ
-- người làm sạch, người lọc trong, người tinh chế; máy làm sạch, máy lọc trong, máy tinh chế
-@Chuyên ngành kinh tế
--máy làm sạch
--máy tinh chế
--thiết bị làm trong
-@Chuyên ngành kỹ thuật
--máy làm sạch
--máy tinh chế
--thiết bị làm sạch
--thiết bị tinh chế
-@Lĩnh vực: hóa học & vật liệu
--máy tinh lọc
-@Lĩnh vực: xây dựng
--thiết bị lọc trong (nước)
+hustings
+	
+*  danh từ số nhiều
+- (sử học) đài phong đại biểu quốc hội (trước năm 1872 ở Anh)
+- thủ tục bầu cử (vào quốc hội)
+- (từ Mỹ,nghĩa Mỹ) diễn đàn vận động bầu cử
+

@@ -1,12 +1,5 @@
-celestial	
-@celestial /si'lestjəl/
-*  tính từ
-- (thuộc) trời=celestial blue
-+ xanh da trời
-- có tính chất như thiên đàng; như thiên đàng=celestial happiness
-+ hạnh phúc như ở thiên đàng, hạnh phúc tuyệt vời
-@Chuyên ngành kỹ thuật
--vũ trụ
-@Lĩnh vực: toán & tin
--thuộc vũ trụ
--trời
+villagery
+	
+* danh từ
+- làng xóm (nói chung)
+

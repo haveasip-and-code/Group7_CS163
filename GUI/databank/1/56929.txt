@@ -1,9 +1,5 @@
-tome	@tome /toum/
-*  danh từ
-- quyển, tập
-=a dictionary in two tomes+ một quyển từ điển gồm hai tập
-@Chuyên ngành kỹ thuật
--cuốn
-@Lĩnh vực: toán & tin
--cuốn, tập sách
--tập (sách)
+spacewalk
+	
+* danh từ
+- sự chuyển động trong không gian bên ngoài con tàu vũ trụ, khoảng thời gian chuyển động trong không gian
+

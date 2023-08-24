@@ -1,6 +1,5 @@
-teacher	@teacher /'ti:tʃə/
-*  danh từ
-- giáo viên, cán bộ giảng dạy
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thầy giáo
+cowhand
+	
+* danh từ
+- người nuôi bò
+

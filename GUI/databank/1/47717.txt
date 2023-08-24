@@ -1,20 +1,22 @@
-rigging	@rigging
-* danh từ
-- sự lắp ráp/lắp đặt thiết bị/chằng buộc
-- sự truyền lực bằng đòn bẩy
+absorptivity
+	
+*  danh từ
+- khả năng hút thu
+@Chuyên ngành kinh tế
+-hệ số hấp thụ
 @Chuyên ngành kỹ thuật
--dây buộc
--dây treo
--giàn máy khoan
--hệ thống ống
--phụ tùng
--sự lắp ráp
--trang bị
+-độ hấp thụ
+-hệ số hấp thụ
+-khả năng hấp thụ
+-khả năng hút thu
+-năng suất hấp thụ
+-sức hấp thụ
+@Lĩnh vực: điện tử & viễn thông
+-đọ hấp thụ
+@Lĩnh vực: điện lạnh
+-khả năng hấp phụ
+@Lĩnh vực: toán & tin
+-tính hấp thụ
 @Lĩnh vực: xây dựng
--đồ buộc (dùng để cẩu, neo)
--thiết bị được mang
--truyền động cần bẩy
-@Lĩnh vực: giao thông & vận tải
--sự chằng buộc
-@Lĩnh vực: cơ khí & công trình
--truyền động đòn bẩy
+-tính hút thu
+

@@ -1,3 +1,12 @@
-prepackaging	@Chuyên ngành kỹ thuật
--sự đóng gói trước
--sự ép kiện trước
+multistage
+	
+-đa công đoạn
+-nhiều bậc
+-nhiều bước
+-nhiều cấp
+-nhiều giai đoạn
+-nhiều pha
+-nhiều tầng
+@Lĩnh vực: xây dựng
+-nhiều nấc
+

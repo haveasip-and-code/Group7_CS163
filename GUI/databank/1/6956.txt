@@ -1,9 +1,51 @@
-brusher	
-@brusher
-- xem brush
+interest
+	
+*  danh từ
+- sự quan tâm, sự chú ý; điều quan tâm, điều chú ý
+=a question of great interest
++ một vấn đề đáng chú ý
+- sự thích thú; điều thích thú
+- tầm quan trọng
+=a matter of great interest
++ một việc quan trọng
+- quyền lợi; lợi ích, ích kỷ
+=to do something in (to) somebody's interest (s)
++ làm gì vì lợi ích của ai
+- lợi tức, tiền lãi
+- tập thể cùng chung một quyền lợi
+=the steel interest
++ nhóm tư bản thép
+!to make interest with somebody
+- dùng lợi ích cá nhân làm áp lực với ai
+*  ngoại động từ
+- làm cho quan tâm, làm cho chú ý, làm cho thích thú
+- liên quan đến, dính dáng đến
+=the fight against aggression interests all peoples
++ sự đấu tranh chống xâm lược liên quan đến mọi dân tộc
+- làm tham gia
+=to interest a finacier in an undertaking
++ làm cho một nhà tư bản tài chính tham gia một cuộc kinh doanh
 @Chuyên ngành kinh tế
--máy chải
+-cổ phần
+-cổ quyền
+-lãi
+-lợi ích
+-lợi tức
+-phần vốn tham gia
+-quan tâm
+-quyền lợi
+-quyền sở hữu
+-sản quyền
+-sự hứng thú
+-thích
+-thú vị
+-tiền lãi
+-tiền lời
 @Chuyên ngành kỹ thuật
--người chải
+-lãi
+-lợi ích
+-lợi tức
+-quyền lợi
 @Lĩnh vực: hóa học & vật liệu
--máy chải
+-sự quan tâm
+

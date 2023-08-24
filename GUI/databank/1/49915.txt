@@ -1,11 +1,4 @@
-sequent	@sequent /'si:kwənt/ (sequential) /si'kwenʃəl/
-*  tính từ
-- liên tục, liên tiếp
-- theo sau, tiếp sau (ảnh hưởng...)
-- (toán học) dãy, theo dãy
-=sequent analysis+ gải tích dãy
-@Chuyên ngành kỹ thuật
--theo sau
--tiếp sau
-@Lĩnh vực: toán & tin
--tiếp sau, theo sau
+pollenizer
+	
+- xem polleniser
+

@@ -1,32 +1,24 @@
-felt	
-@felt /felt/
+stabilization
+	
 *  danh từ
-- nỉ, phớt
-- (định ngữ) bằng nỉ, bằng dạ, bằng phớt=felt hat
-+ mũ phớt
-*  ngoại động từ
-- kết lại thành nỉ; kết lại với nhau
-- bọc bằng nỉ
-*  nội động từ
-- kết lại, bết xuống
-*  thời quá khứ & động tính từ quá khứ của feel
+- sự làm cho vững vàng, sự làm cho ổn định; sự vững vàng, sự ổn định
+@Chuyên ngành kinh tế
+-sự làm điều hòa
+-sự ổn định
 @Chuyên ngành kỹ thuật
--bạt
--nỉ
--phớt
-@Lĩnh vực: xây dựng
--các tông lợp
-@Lĩnh vực: y học
--dạ
+-gia cố
+-ổn định
+-sự cố định
+-sự điều hòa
+-sự gia cố
+-sự gia cố đất
+-sự làm ổn định
+@Lĩnh vực: đo lường & điều khiển
+-sự làm cho ổn định
+@Lĩnh vực: điện lạnh
+-sự làm ổn định (vật liệu từ)
 @Lĩnh vực: hóa học & vật liệu
--vải nỉ
-@Chuyên ngành kỹ thuật
--bạt
--nỉ
--phớt
+-sự ổn định
 @Lĩnh vực: xây dựng
--các tông lợp
-@Lĩnh vực: y học
--dạ
-@Lĩnh vực: hóa học & vật liệu
--vải nỉ
+-sự ổn định hóa
+

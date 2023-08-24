@@ -1,10 +1,4 @@
-millisecond	@millisecond /'mili,sekənd/
-*  danh từ
-- một phần nghìn giây
-@Chuyên ngành kỹ thuật
--mili giây
--ms
-@Lĩnh vực: xây dựng
--milli giây
-@Lĩnh vực: điện lạnh
--msec
+hairsbreadth
+	
+- Cách viết khác : hairbreadth
+

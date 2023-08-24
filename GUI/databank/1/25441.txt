@@ -1,7 +1,15 @@
-hemicellulose	
-@hemicellulose /,hemi'seljulous/
+verso
+	
 *  danh từ
-- (hoá học) Hemixenluloza
+- trang mặt sau (tờ giấy)
+- mặt sau (đồng tiền...)
+@Chuyên ngành kinh tế
+-mặt sau đồng tiền
+-mặt sau trang bên trái
+-trang mặt sau
+-trang mặt sau (tờ giấy)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--hemiaxenluloza
+@Lĩnh vực: toán & tin
+-trang bên trái
+-trang đánh số chẵn
+

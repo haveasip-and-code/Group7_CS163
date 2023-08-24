@@ -1,10 +1,11 @@
-resettlement	@resettlement
-* danh từ
-- sự tái định cư (nhất là người tị nạn)
-- sự làm cho (một nước ) lại có người đến sống
+hyperbaric
+	
+* tính từ
+- dùng bội áp (suất)
+= hyperbaric medical treatment
++phép điều trị dùng bội áp
 @Chuyên ngành kỹ thuật
--điều chỉnh lại
-@Lĩnh vực: cơ khí & công trình
--sự tái định cư
-@Lĩnh vực: xây dựng
--tái định cư
+-áp suất cao
+@Lĩnh vực: y học
+-có áp suất cao hơn áp suất không khí
+

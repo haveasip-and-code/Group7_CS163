@@ -1,9 +1,7 @@
-votary	@votary /'voutəri/
-*  danh từ
-- người tôn thờ; người sùng tín, kẻ sùng đạo
-=a votary of Buddha+ một người sùng Phật
-- người sốt sắng, người nhiệt tâm
-=a votary of peace+ người sốt sắng với hoà bình
-=a votary of science+ người nhiệt tâm với khoa học
-- người hâm mộ, người ham thích (mỹ thuật, thể thao...)
-=a votary of football+ người ham thích bóng đá
+afoul
+	
+*  phó từ
+- chạm vào, húc vào, đâm vào
+=to run afoul of
++ húc vào, đâm bổ vào
+

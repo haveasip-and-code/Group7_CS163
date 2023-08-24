@@ -1,8 +1,5 @@
-kneeler	@kneeler
-* danh từ
-- người quỳ
-- chiếc gối nhỏ hoặc ghế thấp để quỳ (ở nhà thờ)
-@Chuyên ngành kỹ thuật
--đá gối
-@Chuyên ngành kỹ thuật
--đá gối
+prehensile
+	
+*  tính từ
+- (động vật học) có thể cầm nắm (chân, đuôi)
+

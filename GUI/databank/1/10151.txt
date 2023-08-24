@@ -1,14 +1,23 @@
-cognition	
-@cognition /kɔg'niʃn/
+volt
+	
 *  danh từ
-- (triết học) nhận thức
-- trí thức hiểu biết
+- (điện học) vôn
+=a tension of 300 volts
++ một điện áp 300 vôn
+*  danh từ
+- sự chạy vòng quanh (của ngựa)
+- (thể dục,thể thao) cách né mình tránh kiếm
+=to make a volt
++ né mình tránh đường kiếm
+*  nội động từ
+- chạy vòng quanh (ngựa)
+- (thể dục,thể thao) né mình tránh kiếm
 @Chuyên ngành kinh tế
--nhận thấy
--sự nhận thức
+-vôn
 @Chuyên ngành kỹ thuật
--nhận thức
--sự nhận
--sự nhận biết
 @Lĩnh vực: y học
--sự nhận thức
+-đơn vị Si về điện thế
+@Lĩnh vực: điện
+-volt
+-vôn
+

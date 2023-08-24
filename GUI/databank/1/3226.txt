@@ -1,9 +1,5 @@
-arduous	
-@arduous /'ɑ:djuəs/
-*  tính từ
-- khó khăn, gian khổ, gay go=an arduous task
-+ một công việc khó khăn gian khổ
-- hết sức mình, miệt mài, gắng gỏi=arduous effort
-+ sự cố gắng hết sức mình
-- dốc khó trèo=an arduous path
-+ con đường dốc
+multiparticle
+	
+@Lĩnh vực: hóa học & vật liệu
+-nhiều hạt
+

@@ -1,21 +1,5 @@
-maker	@maker /'meikə/
-*  danh từ
-- người làm, người sáng tạo, người tạo ra
-- (Maker) ông tạo, con tạo
-@Chuyên ngành kinh tế
--dụng cụ sản xuất
--máy sản xuất
--người dán nhãn
--người dán tem
--người ký phát lệnh phiếu
--người ký phát một lệnh phiếu
--người sản xuất
--người sáng chế
--nhà chế tạo
--nhà chế tạo, người sáng chế
-@Chuyên ngành kỹ thuật
--người sản xuất
--nhà sản xuất
--thợ
-@Lĩnh vực: cơ khí & công trình
--hãng sản xuất
+cinemagoer
+	
+* danh từ
+- người xem chiếu bóng
+

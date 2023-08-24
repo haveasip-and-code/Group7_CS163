@@ -1,9 +1,85 @@
-flossy	
-@flossy /flossy/
-*  tính từ
-- như sồi
-- mịn, mượt
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) loè loẹt (ăn mặc)
+law
+	
 *  danh từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cô gái ăn mặc loè loẹt; cô gái lẳng lơ
-- cô gái
+- phép, phép tắc, luật; quy luật, định luật; điều lệ
+=to submit to a law
++ tuân theo một phép tắc, tuân theo một điều lệ
+=the laws of gravity
++ những định luật về trọng lực
+=the laws of football
++ luật bóng đá
+=the laws of painting
++ quy tắc hội hoạ
+=economic laws
++ quy luật kinh tế
+=the law of supply and demand
++ luật cung cầu
+- pháp luật, luật
+=everybody is equal before the law
++ tất cả mọi người đều bình đẳng trước pháp luật
+=to settle a matter without going to law
++ hoà giải một công việc không cần đến pháp luật
+=to put the law into force; to carry out the law
++ phạm luật
+=to keep the law; to keep within the law
++ tuân giữ pháp luật
+=commercial law; law merchant
++ luật thương mại
+=maritime law
++ luật hàng hải
+=international law; the law of nations
++ luật quốc tế
+- luật học; nghề luật sư
+=to read (study) law
++ học luật
+=law student
++ học sinh đại học luật
+!Doctor of Laws
+- tiến sĩ luật khoa
+=to fellow the law; to practise the law; to go in for the law
++ làm nghề luật sư
+- toà án, việc kiện cáo
+=court of law
++ toà án
+=to be at law with somebody
++ kiện ai
+=to go law
++ ra toà án, nhờ đến pháp luật
+=to go to law with someone; to have the law of someone
++ kiện ai, đưa ai ra toà
+- giới luật gia
+- (thể dục,thể thao) sự chấp (thời gian, quâng đường...)
+!law and order
+- anh ninh trật tự
+!to be a law into oneself
+- làm theo đường lối của mình, bất chấp cả luật lệ
+!to give [the] law to somebody
+- bắt ai phải làm theo ý mình
+!to lay down the law
+- nói giọng oai quyền, ra oai
+!necessity (need) knows no law
+- tuỳ cơ ứng biến
+@Chuyên ngành kinh tế
+-bộ luật
+-định luật
+-luật học
+-pháp chế
+-pháp điển
+-pháp luật
+@Chuyên ngành kỹ thuật
+-định luật
+-định lý
+-luật
+-nguyên lý
+-quy luật
+-quy phạm
+-quy tắc
+@Chuyên ngành kỹ thuật
+-định luật
+-định lý
+-luật
+-nguyên lý
+-quy luật
+-quy phạm
+-quy tắc
+

@@ -1,3 +1,4 @@
-indictor	
-@indictor
-- xem indict
+depletable
+	
+- xem deplete
+

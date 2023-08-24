@@ -1,7 +1,10 @@
-subgraph	@subgraph
-- đồ thị con; (tô pô) đồ thị hình con
+detonating
+	
+*  tính từ
+- nổ
+=detonating gas
++ khí nổ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--biểu đồ con
--đồ hình con
--đồ thị con
+-dễ nổ
+-nổ
+

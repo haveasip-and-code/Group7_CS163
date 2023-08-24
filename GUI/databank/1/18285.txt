@@ -1,12 +1,5 @@
-endotracheal	
-@endotracheal
-* tính từ
-- thuộc khí quản
-- đặt trong khí quản= endotracheal tube
-+ống đặt trong khí quản
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--nội khí quản
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--nội khí quản
+pejoratively
+	
+* phó từ
+- có nghĩa xấu, miệt thị
+

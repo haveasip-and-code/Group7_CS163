@@ -1,41 +1,5 @@
-prospect	@prospect /prospect/
-*  danh từ
-- cảnh, toàn cảnh, viễn cảnh
-- viễn tượng
-=this openef a new prospect to his mind+ cái đó mở ra một viễn tượng mới trong trí nó
-- hy vọng ở tương lai, triển vọng tương lai, tiền đồ
-=to offer no prospect of success+ không có triển vọng thành công
-=a man of no prospects+ người không có tiền đồ
-=to have something in prospect+ đang hy vọng cái gì, đang trông mong cái gì
-- khách hàng tương lai
-- (ngành mỏ) nơi hy vọng có quặng
-- (ngành mỏ) mẫu quặng chưa rõ giá trị
-*  động từ
-- điều tra, thăm dò (để tìm quặng...); khai thác thử (mỏ)
-=to prospect for gold+ thăm dò tìm vàng
-=to prospect a region+ thăm dò một vùng (để tìm quặng vàng...)
-- (nghĩa bóng) (+ for) tìm kiếm
-- hứa hẹn (mỏ)
-=to prospect well+ hứa hẹn có nhiều quặng (mỏ)
-=to prospect ill+ hứa hẹn ít quặng (mỏ)
-=to prospect a fine yield+ hứa hẹn có sản lượng cao
-@Chuyên ngành kinh tế
--khách hàng khả năng
--khách hàng kỳ vọng
--khách hàng tiềm năng
--khách hàng tương lai
--khai thác thử (mỏ)
--tìm khoáng mạch
--tìm kiếm khoáng sản
--tìm mỏ
--triển vọng
--triển vọng (kinh tế)
--viễn ảnh
--viễn cảnh
--viễn tưởng
--viễn tượng
-@Chuyên ngành kỹ thuật
--điều tra
--quang cảnh
--triển vọng
--viễn cảnh
+lissome
+	
+*  tính từ
+- mềm mại; uyển chuyển; nhanh nhẹn
+

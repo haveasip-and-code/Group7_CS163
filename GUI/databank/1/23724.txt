@@ -1,9 +1,64 @@
-glycolipid	
-@glycolipid
-* danh từ
-- glicolipit
+expansion
+	
+*  danh từ
+- sự mở rộng, sự bành trướng, sự phát triển, sự phồng ra; phần mở rộng
+- (kỹ thuật) sự giãn, sự nở; độ giãn, độ nở
+- (toán học) sự khai triển
+=expansion in series
++ khai triển thành chuỗi
+@Chuyên ngành kinh tế
+-bành trướng
+-phát triển
+-sự bành trướng
+-sự gia tăng
+-sự giãn nở
+-sự mở rộng
+-sự phát triển
+-sự tăng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--glycolypit
-@Lĩnh vực: y học
--lipid có chứa một phân tử đường
+-độ giãn
+-độ giãn dài
+-độ nở
+-độ nở rộng
+-giãn nở
+-khai triển
+-mở rộng
+-sự giãn
+-sự giãn dài
+-sự giãn nở
+-sự khai triển
+-sự mở rộng
+-sự nở
+-sự nong rộng
+-sự trương
+-ứng suất
+@Lĩnh vực: điện tử & viễn thông
+-dãn
+@Lĩnh vực: điện lạnh
+-sự nở rộng
+@Lĩnh vực: toán & tin
+-sự triển khai
+@Chuyên ngành kỹ thuật
+-độ giãn
+-độ giãn dài
+-độ nở
+-độ nở rộng
+-giãn nở
+-khai triển
+-mở rộng
+-sự giãn
+-sự giãn dài
+-sự giãn nở
+-sự khai triển
+-sự mở rộng
+-sự nở
+-sự nong rộng
+-sự trương
+-ứng suất
+@Lĩnh vực: điện tử & viễn thông
+-dãn
+@Lĩnh vực: điện lạnh
+-sự nở rộng
+@Lĩnh vực: toán & tin
+-sự triển khai
+

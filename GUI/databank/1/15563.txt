@@ -1,16 +1,16 @@
-directive	
-@directive /di'rektiv/
-*  tính từ
-- chỉ huy, chi phối; chỉ dẫn, hướng dẫn
+peppermint
+	
 *  danh từ
-- chỉ thị, lời hướng dẫn
+- (thực vật học) cây bạc hà cay
+- dầu bạc hà cay
+- kẹo bạc hà
 @Chuyên ngành kinh tế
--chỉ lệnh
--chỉ thị
+-bạc hà
+-tinh dầu bạc hà
 @Chuyên ngành kỹ thuật
--có hướng
--điều khiển
--định hướng
--lệnh
-@Lĩnh vực: toán & tin
--lệnh dẫn hướng
+@Lĩnh vực: y học
+-lá cây bạc hà Mentha piperita
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bạc hà
+

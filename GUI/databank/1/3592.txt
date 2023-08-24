@@ -1,24 +1,16 @@
-assemble	
-@assemble /ə'sembl/
-*  động từ
-- tập hợp, tụ tập, nhóm họp
-- sưu tập, thu thập
-- (kỹ thuật) lắp ráp
+victual
+	
+*  danh từ ((thường) số nhiều)
+- thức ăn; lương thực, thực phẩm
+*  nội động từ
+- mua thức ăn
+- ăn uống
+*  ngoại động từ
+- cung cấp lương thực thực phẩm
+=to victual a town
++ cung cấp lương thực thực phẩm cho một thành phố
 @Chuyên ngành kinh tế
--lắp ráp
--sưu tập
--tập hợp
-@Chuyên ngành kỹ thuật
--gắn
--ghép
--kết hợp
--lắp
--lắp ráp
--nối
--tập hợp
--tập trung
--thu thập
-@Lĩnh vực: toán & tin
--hợp dịch
-@Lĩnh vực: xây dựng
--ráp nối
+-cung cấp lương thực thực phẩm
+-cung cấp thực phẩm và đồ dự trữ (cho một chiếc tàu, ..)
+-mua lương thực thực phẩm
+

@@ -1,53 +1,5 @@
-plot	@plot /plɔt/
-*  danh từ
-- mảnh đất nhỏ, miếng đất
-=a plot of vegetable+ miếng đất trồng rau
-- tình tiết, cốt truyện (kịch, tiểu thuyết...)
-- (từ Mỹ,nghĩa Mỹ) sơ đồ, đồ thị, biểu đồ, đồ án
-- âm mưu, mưu đồ
-=to hatch a plot+ ngấm ngầm bày mưu lập kế
-*  ngoại động từ
-- vẽ sơ đồ, vẽ đồ thị, vẽ biểu đồ, dựng đồ án (một công trình xây dựng...)
-- đánh dấu trên cơ sở, đánh dấu trên đồ án
-- âm mưu, mưu tính, bày mưu
-=to plot a crime+ âm mưu tội ác
-*  nội động từ
-- âm mưu, bày mưu
-=to plot against someone+ âm mưu ám hại ai (chống lại ai)
-!to plot out
-- chia thành mảnh nh
-@Chuyên ngành kỹ thuật
--bản đồ địa chính
--bản vẽ
--biểu đồ
--bình đồ
--đạo hàng
--đồ án
--đồ thị
--giản đồ
--khắc
--khía
--khoảnh đất
--khu vực
--mảnh đất
--sơ đồ
--vạch dấu
--vẽ biểu đồ
--vẽ đồ thị
--vẽ sơ đồ
-@Lĩnh vực: giao thông & vận tải
--đạo hàng đồ thị
--son quét sơn
--sự vẽ biểu đồ
-@Lĩnh vực: xây dựng
--đưa lên bản đồ
--dựng đồ án
--khu đất nhỏ
--miếng đất
--vẽ đường cong
-@Lĩnh vực: cơ khí & công trình
--khoảng đất
-@Lĩnh vực: hóa học & vật liệu
--làm kếp tủa
-@Lĩnh vực: toán & tin
--phác đồ họa
+diencephalon
+	
+@Lĩnh vực: y học
+-não trung gian
+

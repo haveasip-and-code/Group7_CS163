@@ -1,9 +1,5 @@
-computing	
-@computing
-- (Tech) điện toán; tính toán; máy điện toán
-@Chuyên ngành kỹ thuật
--điện toán
--sự tính toán
--tính toán
-@Lĩnh vực: toán & tin
--tin học
+lenient
+	
+*  tính từ
+- nhân hậu, hiền hậu, khoan dung
+

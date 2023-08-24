@@ -1,11 +1,7 @@
-supervise	@supervise /'sju:pəvaiz/
-*  ngoại động từ
-- giám sát
-@Chuyên ngành kinh tế
--chỉ đạo
--giám sát
--quản lý
-@Chuyên ngành kỹ thuật
--giám sát
--kiểm tra
--thanh tra
+interelectrode
+	
+@Lĩnh vực: điện lạnh
+-giữa các điện cực
+@Lĩnh vực: điện tử & viễn thông
+-liên điện cực
+

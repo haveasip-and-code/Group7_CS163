@@ -1,12 +1,50 @@
-outsell	@outsell /aut'sel/
-*  ngoại động từ outsold
-- bán được nhiều hơn; bán chạy hơn
-- được giá hơn
+duty
+	
+*  danh từ
+- sự tôn kính, lòng kính trọng (người trên)
+=in duty to...
++ vì lòng tôn kính đối với...
+=to pay one's duty to...
++ để tỏ lòng tôn kính đối với...
+- bổn phận, nhiệm vụ, trách nhiệm
+=to do one's duty
++ làm nhiệm vụ, làm bổn phận
+=to make it a point of duty to; to think it a duty to...
++ coi như là một nhiệm vụ phải...
+- phận sự, chức vụ, công việc, phần việc làm; phiên làm, phiên trực nhật
+=to take up one's duties
++ bắt đầu đảm nhiệm công việc, bắt đầu nhận chức vụ
+=to be off duty
++ hết phiền, được nghỉ
+=to be on duty
++ đang làm việc, đang phiên làm việc, đang trực
+=to do duty for...
++ làm thay cho..., thay thế cho...
+- thuế (hải quan...)
+=goods liable to duty
++ hàng hoá phải đóng thuế
+=import duty
++ thuế nhập khẩu
+- (kỹ thuật) công suất (máy)
 @Chuyên ngành kinh tế
--bán chạy hơn
--bán được giá hơn
--bán được nhiều hơn
--bán được số lượng cao hơn
--bán hơn (so với bán hàng khác)
--bán nhanh hơn
--tiêu thụ được nhiều hơn
+-công suất
+-lượng
+-thuế
+-thuế (hàng hóa)
+-thuế (hóa hóa)
+@Chuyên ngành kỹ thuật
+-năng suất
+-nghĩa vụ
+-nhiệm vụ
+-nhu cầu tưới
+-sự tác dụng
+-tải
+-thuế
+-trách nhiệm
+@Lĩnh vực: điện
+-bổn phận
+@Lĩnh vực: xây dựng
+-sức trục
+@Lĩnh vực: toán & tin
+-thuế (hàng hóa)
+

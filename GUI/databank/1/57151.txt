@@ -1,9 +1,6 @@
-tourism	@tourism /'tuərizm/
-*  danh từ
-- sự du lịch
-- thú du lịch
-@Chuyên ngành kinh tế
--du lịch
--sự đi du lịch
-@Chuyên ngành kỹ thuật
--du lịch
+propone
+	
+* ngoại động từ
+- (Scotland) đề nghị
+- nêu lên (điều bênh vực)
+

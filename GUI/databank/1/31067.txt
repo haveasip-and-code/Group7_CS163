@@ -1,21 +1,5 @@
-knap	@knap /næp/
-*  ngoại động từ
-- đập (đá lát đường...) bằng búa
-- (tiếng địa phương) đập vỡ, đập bể
-*  danh từ (tiếng địa phương)
-- đỉnh đồi
-- gò, đồi nhỏ
-@Chuyên ngành kỹ thuật
--đập vỡ
--gò
-@Lĩnh vực: hóa học & vật liệu
--đánh vỡ
-@Lĩnh vực: xây dựng
--đỉnh đồi
-@Chuyên ngành kỹ thuật
--đập vỡ
--gò
-@Lĩnh vực: hóa học & vật liệu
--đánh vỡ
-@Lĩnh vực: xây dựng
--đỉnh đồi
+usherette
+	
+*  danh từ
+- người đàn bà chỉ chỗ ngồi (trong rạp hát, rạp chiếu bóng...)
+

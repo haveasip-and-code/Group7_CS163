@@ -1,8 +1,7 @@
-formatted	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--đã định khuôn
-@Lĩnh vực: điện
--được định hình
-@Lĩnh vực: xây dựng
--hữu dạng
+nonvoter
+	
+* danh từ
+- người không có/bị tước quyền bầu cử
+* danh từgười không có mặt trong cuộc bỏ phiếu
+- người không bỏ phiếu
+

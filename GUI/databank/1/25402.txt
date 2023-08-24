@@ -1,14 +1,63 @@
-hello	
-@hello /hə'lou/ (halloa) /hə'lou/ (hello) /'he'lou/
-*  thán từ
-- chào anh!, chào chị!
-- này, này
-- ô này! (tỏ ý ngạc nhiên)
+space
+	
 *  danh từ
-- tiếng chào
-- tiếng gọi "này, này" !
-- tiếng kêu ô này "! (tỏ ý ngạc nhiên)
+- không gian, không trung, khoảng không
+- khoảng, chỗ
+=to take up too much space
++ choán mất nhiều chỗ
+=the wide open space
++ những vùng rộng mênh mông
+- khoảng cách
+=space between the rows
++ khoảng cách giữa các hàng
+- (ngành in) khoảng cách chữ; phiến cách chữ
+*  ngoại động từ
+- đặt cách nhau, để cách nhau, dàn theo từng chặng
+=tables are spaced one metre apart
++ bàn được đặt cách nhau một mét
 *  nội động từ
-- chào
-- gọi "này, này"
-- kêu "ô này" (tỏ ý ngạc nhiên)
+- để cách (ở máy chữ)
+!to space out (in)
+- để cách nhiều hơn; để cách rộng hơn
+@Chuyên ngành kinh tế
+-chỗ trống trên khoang tàu
+-khoảng cách (dòng...)
+-miếng chì chèn kẽ chữ
+@Chuyên ngành kỹ thuật
+-chỗ
+-đặt cách nhau
+-dấu cách
+-để gián cách
+-để khoảng trống
+-địa điểm
+-diện tích
+-giãn cách (giữa các dòng chữ)
+-khoảng
+-khoảng cách
+-khoảng không
+-khoảng không vũ trụ
+-khoảng trống
+-không gian
+-không gian vũ trụ
+-ký tự khoảng cách
+-ký tự rỗi
+-lấy dấu
+-miền
+-phạm vi
+-phân phối
+-phòng
+-rỗng
+-sắp đặt
+-trống
+-uux trụ
+-vạch dấu
+-vùng
+@Lĩnh vực: toán & tin
+-khảng cách
+-khoảng cách diện tích
+-không gian (ổ đĩa)
+-ký tự trắng
+@Lĩnh vực: cơ khí & công trình
+-rãnh (giữa hai răng của bánh răng)
+-trường (tốc độ)
+

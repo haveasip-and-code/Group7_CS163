@@ -1,17 +1,12 @@
-assets	
-@assets
-- (toán kinh tế) tài sản; tiền có
-- fixed a. tài sản cố định
-- personal a. động sản
-- real a.bất động sản
-@Chuyên ngành kinh tế
--các khoản có
--tài sản
--tài sản có
--tích sản
+ophthalmic
+	
+*  tính từ
+- (thuộc) mắt
+- (y học) bị viêm mắt
+- chữa mắt (thuốc)
+*  danh từ
+- thuốc chữa mắt
 @Chuyên ngành kỹ thuật
--của cải
--năng động
--vốn đầu tư
-@Lĩnh vực: toán & tin
--tiền có
+@Lĩnh vực: y học
+-thuộc mắt, liên quan tới mắt
+

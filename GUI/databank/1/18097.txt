@@ -1,10 +1,13 @@
-enantiomorph	
-@enantiomorph /e'næntioumɔ:f/
+viscosimeter
+	
 *  danh từ
-- hình chiếu (trong gương), đối hình
+- (vật lý); (kỹ thuật) máy đo độ nhớt
+@Chuyên ngành kinh tế
+-cái đo độ nhớt
+-nhớt kế
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất đối hình
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất đối hình
+-nhớt kế
+-máy đo độ nhớt
+@Lĩnh vực: xây dựng
+-cái đo độ nhớt
+

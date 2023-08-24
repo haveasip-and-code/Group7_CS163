@@ -1,21 +1,19 @@
-interception	
-@interception /,intə'sepʃn/
+elastic
+	
+*  tính từ
+- co giãn ((nghĩa đen) & (nghĩa bóng)), đàn hồi; mềm dẻo
+- nhún nhảy (bước đi...)
+- bồng bột, bốc đồng
+!elastic conscience
+- lương tâm để tự tha thứ
 *  danh từ
-- sự chắn, sự chặn
-- tình trạng bị chắn, tình trạng bị chặn
-- (quân sự) sự đánh chặn
-- (quân sự) sự nghe đài đối phương
+- dây chun, dây cao su
 @Chuyên ngành kỹ thuật
--sự cắt nhau
--sự chắn
--sự chặn
--sự gặp nhau
--sự giao nhau
--sự ngăn chặn
--sự nghe lén
--sự nghe trộm
--sự thu gom
-@Lĩnh vực: cơ khí & công trình
--sự đọng nước mưa
+-dãn được
+-đàn hồi
+-mềm dẻo
 @Lĩnh vực: xây dựng
--sự lấy nước vào
+-kéo được
+@Lĩnh vực: toán & tin
+-mặt đàn hồi
+

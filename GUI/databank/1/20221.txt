@@ -1,21 +1,12 @@
-facade	
-@facade /fə:sɑ:d/
+capillary
+	
+*  tính từ
+- mao dẫn
 *  danh từ
-- mặt chính (nhà)
-- bề ngoài vẻ ngoài, mã ngoài
+- ống mao dẫn, mao quản
+- (giải phẫu) mao mạch
 @Chuyên ngành kỹ thuật
--mặt chính
--mặt tiền
--mặt trước
-@Lĩnh vực: xây dựng
--hướng ra sân
--mặt chiếu đứng
--mặt tiền, mặt chính
-@Chuyên ngành kỹ thuật
--mặt chính
--mặt tiền
--mặt trước
-@Lĩnh vực: xây dựng
--hướng ra sân
--mặt chiếu đứng
--mặt tiền, mặt chính
+-mao dẫn
+-mao quản
+-ống mao dẫn
+

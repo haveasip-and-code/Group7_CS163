@@ -1,3 +1,17 @@
-interdictive	
-@interdictive
-- xem interdict
+yearbook
+	
+* danh từ
+- tài liệu xuất bản hàng năm và chứa đựng thông tin về năm trước đó; niên giám
+- ấn bản do học viên lớp cuối khoá của một trường biên soạn, ghi lại các sự kiện trong năm học và thường có hình chụp các học viên và nhà trường; kỷ yếu
+@Chuyên ngành kinh tế
+-niên giám
+@Chuyên ngành kỹ thuật
+-niên giám
+@Lĩnh vực: cơ khí & công trình
+-biên niên
+-niên san
+@Lĩnh vực: hóa học & vật liệu
+-niên lịch
+@Lĩnh vực: toán & tin
+-sách hàng năm
+

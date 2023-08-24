@@ -1,13 +1,9 @@
-humidify	
-@humidify /hju:'midifai/
-*  ngoại động từ
-- làm ẩm ướt
-@Chuyên ngành kinh tế
--làm ẩm
+nexus
+	
+*  danh từ
+- mối quan hệ, mối liện hệ
+=the causal nexus
++ quan hệ nhân quả
 @Chuyên ngành kỹ thuật
--độ ẩm
--làm (cho) ẩm
--làm ẩm
--làm ướt
-@Lĩnh vực: điện lạnh
--gây ẩm
+-liên hệ
+

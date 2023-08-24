@@ -1,7 +1,8 @@
-parterre	@parterre /pɑ:'teə/
-*  danh từ
-- khu vực trước sân khấu
-- bồn hoa (khoảng đất trồng hoa trong vườn)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bồn hoa
+overheads
+	
+* danh từ
+- tổng phí (tiền công, tiền thuê )
+@Chuyên ngành kinh tế
+-chi phí chung
+-chi phí điều hành
+

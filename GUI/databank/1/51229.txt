@@ -1,7 +1,8 @@
-slob	@slob /slɔb/
-*  danh từ
-- (tiếng địa phương) bùn
-- vật lõng bõng
-- (thông tục) người ngớ ngẩn vụng về
-@Chuyên ngành kỹ thuật
--bùn
+paralyze
+	
+*  ngoại động từ
+- (y học) làm liệt
+- (nghĩa bóng) làm tê liệt, làm đờ ra
+=to be paralysed with fear
++ đờ người ra vì sợ
+

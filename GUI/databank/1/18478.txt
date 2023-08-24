@@ -1,18 +1,14 @@
-entail	
-@entail /in'teil/
-*  danh từ
-- (pháp lý) chế độ kế thừa theo thứ tự; tài sản kế thừa theo thứ tự
-- (nghĩa bóng) di sản (đức tính, tín ngưỡng...)
-*  ngoại động từ
-- (pháp lý) cho kế thừa theo thứ tự
-- bắt phải (tiêu tiền, làm việc...)=to entail much work on someone
-+ bắt ai phải làm việc nhiều
-- đòi hỏi; gây ra, đưa đến=a high position entails great responsibility
-+ chức vị cao đòi hỏi trách nhiệm lớn
-@Chuyên ngành kinh tế
--quyền thừa kế hạn định (tài sản đất đai)
--tài sản đất đai của người thừa kế hạn định
-@Chuyên ngành kỹ thuật
--chạm trổ
-@Chuyên ngành kỹ thuật
--chạm trổ
+strategy
+	
+- (lý thuyết trò chơi) chiến lược
+- s. for a game chiến lược của một trò chơi
+- completely mixed s. chiến lược hoàn toàn hỗn hợp
+- dominant s. chiến lược khống chế
+- duplicated s. chiến lược lặp
+- essential s. chiến lược cốt yếu
+- extended s. chiến lược mở rộng
+- invariant s. chiến lược bất biến
+- mixed s. chiến lược hỗn tạp
+- optimal s. chiến lược tối ưu
+- pure s. chiến lược thuần tuý
+

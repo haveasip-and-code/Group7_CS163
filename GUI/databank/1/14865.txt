@@ -1,7 +1,20 @@
-desugar	
-@Chuyên ngành kinh tế
--khử đường
--loại bỏ đường
+incommensurable
+	
+*  tính từ ((cũng) incommensurate)
+- không thể đo được với nhau, không thể so với nhau
+=coins and trees are incommensurable
++ đồng tiền và cây thì không thể so với nhau được
+- (
++ with) không đáng so sánh với, không thể so sánh với, không cân xứng
+=his belief is incommensurable with truth
++ niềm tin của anh ấy không thể so sánh với chân lý
+- (toán học) vô ước
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--tách đường
+-vô ước
+@Lĩnh vực: xây dựng
+-không cân xứng
+-không đo được
+-không so được
+@Lĩnh vực: điện lạnh
+-không thông ước
+

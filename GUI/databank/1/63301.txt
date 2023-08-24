@@ -1,33 +1,6 @@
-worth	@worth /wə:θ/
-*  tính từ vị ngữ
-- giá, đáng giá
-=it is not worth much+ cái ấy không đáng giá bao nhiêu
-=to be worth little+ giá chẳng đáng bao nhiêu
-- đáng, bõ công
-=the book is worth reading+ quyển sách đáng đọc
-=is it worth while?+ điều đó có bõ công không?, điều đó có đáng làm không?
-=to be worth one's salt+ làm lụng rất tốt, rất xứng đáng với đồng lương được hưởng
-- có
-=to be worth money+ có tiền
-=to die worth a million+ chết để lại bạc triệu
-!for all one is worth
-- làm hết sức mình
-!for what it is worth
-- không bảo đảm, không kèm theo cam kết gì
+inquisition
+	
 *  danh từ
-- giá; giá cả
-=to have one's money's worth+ mua được phải giá; mua được (cái gì) xứng với đồng tiền bỏ ra
-- số lượng (hàng...) vừa giá (một số tiền nào đấy)
-=give me a shilling's worth of flowers+ bán cho tôi một silinh hoa
-- giá trị
-=a man of worth+ người có giá trị
-@Chuyên ngành kinh tế
--giá trị
--số lượng hàng hóa mua được bằng tiền (bao nhiêu)
--tính hữu ích
--tổng giá trị tài sản
-@Chuyên ngành kỹ thuật
--đáng giá
--giá
-@Lĩnh vực: toán & tin
--giá, đáng giá
+- sự điều tra, sự thẩm tra chính thức (của toà án...)
+- (sử học) (the Inquisition) toà án dị giáo
+

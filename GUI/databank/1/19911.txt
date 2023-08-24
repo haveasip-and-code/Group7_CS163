@@ -1,11 +1,14 @@
-exploder	
-@exploder
-- xem explode
+transmissibility
+	
+*  danh từ
+- tính chất có thể chuyển giao được, tính chất có thể truyền được
 @Chuyên ngành kỹ thuật
--ngòi nổ
--sử dụng
--vận hành
-@Chuyên ngành kỹ thuật
--ngòi nổ
--sử dụng
--vận hành
+@Lĩnh vực: xây dựng
+-độ truyền động
+-khả năng truyền
+@Lĩnh vực: cơ khí & công trình
+-hệ số thấm Darcy
+-khả năng chuyển nước
+@Lĩnh vực: điện lạnh
+-tính truyền được
+

@@ -1,10 +1,8 @@
-strained	@strained /streind/
-*  tính từ
-- căng thẳng
-=strained relations+ quan hệ căng thẳng
-- gượng, gượng ép, không tự nhiên
-=strained smile+ nụ cười gượng
-=strained interpretation+ sự giải thích gượng ép; sự hiểu gượng ép
-- (kỹ thuật) bị cong, bị méo
+rheumatism
+	
+*  danh từ
+- (y học) bệnh thấp khớp
 @Chuyên ngành kỹ thuật
--bị biến dạng
+@Lĩnh vực: y học
+-bệnh thấp, rối loạn có nhức, đau ở các cơ và khớp
+

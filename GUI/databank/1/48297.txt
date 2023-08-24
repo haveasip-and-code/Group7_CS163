@@ -1,2 +1,5 @@
-ruts	@Chuyên ngành kỹ thuật
--channels
+osteogenic
+	
+@Lĩnh vực: y học
+-do, gồm mô tạo xương
+

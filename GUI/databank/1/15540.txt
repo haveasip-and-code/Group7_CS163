@@ -1,9 +1,5 @@
-dipole	
-@dipole /'daipoul/
-*  danh từ
-- (vật lý) lưỡng cực
-- (rađiô) ngẫu cực
-@Chuyên ngành kỹ thuật
--hai cực
--lưỡng cực
--ngẫu cực
+ototoxic
+	
+@Lĩnh vực: y học
+-độc hại đối với dây thần kinh sọ thứ VIII
+

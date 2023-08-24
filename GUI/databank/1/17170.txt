@@ -1,45 +1,15 @@
-ear	
-@ear /iə/
-*  danh từ
-- tai=to pick up (to cock) one's ears
-+ vểnh tai lên (để nghe)
-- vật hình tai (quai, bình đựng nước...)
-- tai (bông), sự nghe, khả năng nghe=to have (keep) a sensitive ear; to have sharp ears
-+ thính tai=a fine ear for music
-+ tai sành nhạc!to be all ears
-- lắng tai nghe!to be over head and ears in; to be head over in
-- (xem) head!to bring hornet' nest about one's ears
-- (xem) hornet!to get someone up on his ears
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) làm ai phật ý, làm ai nổi cáu!to give (lend an) ear to
-- lắng nghe!to give someone a thick ear
-- cho ai một cái bạt tai!to go in at one ear and out at the other
-- vào tai này ra tai kia!to have (gain) someone's ear
-- được ai sẵn sàng lắng nghe!to keep one's ear open for
-- sẵn sàng nghe!to send somebody away a flen in his ear
-- làm cho ai tiu nghỉu (vì từ chối cái gì, vì khiển trách)!to set by the ears
-- (xem) set!to turn a sympathetic (ready) ear to someone's request
-- lắng nghe lời yêu cầu của ai với thái độ thiện cảm!walls have ears
-- tai vách mạch dừng!a word in someone's ears
-- lời rỉ tai ai!would give one's ears for something (to get something)
-- (xem) give
-*  danh từ
-- bông (lúa...)=rice in the ear
-+ lúa trổ (bông)
-*  nội động từ
-- trổ bông (lúa...)
-@Chuyên ngành kinh tế
--bông (lúa)
--tai
-@Chuyên ngành kỹ thuật
--cái kẹp
--cuốn giả
--đai
--gờ
--khuyết
--lỗ tai
--tai
--vấu
--vòng móc
-@Lĩnh vực: điện lạnh
--tai treo
--vật hình tai
+arisen
+	
+*  nội động từ arose,  arisen
+- xuất hiện, nảy sinh ra, xảy ra
+=more difficulties arose
++ nhiều khó khăn nảy sinh ra
+=there arose many heroes
++ nhiều anh hùng xuất hiện
+- phát sinh do; do bởi
+=difficulties arising from the war
++ những phát sinh khó khăn do chiến tranh
+- (thơ ca) sống lại, hồi sinh
+- (từ cổ,nghĩa cổ) mọc lên; trở dậy
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) nổi lên, vọng đến, vang đến (tiếng âm thanh)
+

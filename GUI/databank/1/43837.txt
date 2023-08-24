@@ -1,6 +1,5 @@
-prof	@prof
-* danh từ
-- giáo sư (đại học)
-- <Mỹ> giảng viên (đại học, cao đẳng)
-- <đùa> giáo sư
-- <tôn> giáo đồ, tín đồ
+hyperextension
+	
+@Lĩnh vực: y học
+-sự duỗi quá mức
+

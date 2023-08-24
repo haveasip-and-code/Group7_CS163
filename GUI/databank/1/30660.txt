@@ -1,10 +1,37 @@
-juror	
-@juror /'dʤuərə/
+ward
+	
 *  danh từ
-- hội thẩm, bồi thẩm
-- người đã tuyên thệ
-@Chuyên ngành kinh tế
--bồi thẩm viên
--phụ thẩm nhân dân
--thành viên ban hội thẩm
--viên đồi thẩm
+- sự trông nom, sự bảo trợ; sự giam giữ
+=to whom is the child in ward?
++ đứa bé được đặt dưới sự bảo trợ của ai?
+=to put someone in ward
++ trông nom ai; giam giữ ai
+- khu, khu vực (thành phố)
+=electoral ward
++ khu vực bầu cử
+- phòng, khu (nhà thương); phòng giam (nhà tù)
+=isolation ward
++ khu cách ly
+- (số nhiều) khe răng chìa khoá
+- (từ cổ,nghĩa cổ) (thể dục,thể thao) thế đỡ
+!to keep watch and ward
+- canh giữ
+*  ngoại động từ
+- (từ cổ,nghĩa cổ) trông nom, bảo trợ
+!to ward off
+- tránh, đỡ, gạt (quả đấm)
+=to ward off a blow
++ đỡ một đòn
+=to ward off a danger
++ tránh một sự nguy hiểm
+- phòng, ngăn ngừa (tai nạn)
+@Chuyên ngành kỹ thuật
+-khu vực
+-ô phố
+-phòng
+-phường
+-sân
+@Lĩnh vực: xây dựng
+-buồng bệnh nhân (trong bệnh viện)
+-mảnh mã khóa (ở trong khóa)
+

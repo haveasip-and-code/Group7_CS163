@@ -1,7 +1,5 @@
-geodesic	
-@geodesic
-- (thuộc) đo đạc
-@Chuyên ngành kỹ thuật
--đường trắc địa
-@Lĩnh vực: điện lạnh
--đường đoản trình
+ostomy
+	
+* danh từ
+- cách mổ để tạo nên hậu môn nhân tạo
+

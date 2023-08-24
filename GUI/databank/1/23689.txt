@@ -1,35 +1,4 @@
-glue	
-@glue /glu:/
-*  danh từ
-- keo hồ
-*  ngoại động từ
-- gắn lại, dán bằng keo, dán bằng hồ
-- (nghĩa bóng) ((thường) dạng bị động) bám chặt lấy; dán vào=to have one's eyes glued to
-+ mắt cứ dán vào (cái gì)
-@Chuyên ngành kinh tế
--dán
--dán bằng hồ
--dán bằng keo
--gắn
--gắn lại
--hồ
--keo
--keo dán văn phòng
-@Chuyên ngành kỹ thuật
--dán
--dính
--gắn keo
--hồ
--hồ dán
--keo
--keo dán
--keo dính
--phết hồ
--phết keo
--vật liệu dán
-@Lĩnh vực: hóa học & vật liệu
--chất keo hồ
--dán bằng hồ
--keo hồ
-@Lĩnh vực: xây dựng
--nhựa (cao su)
+impressions
+	
+-số ấn tượng
+

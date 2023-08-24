@@ -1,4 +1,24 @@
-highlighting	
+atomic
+	
+*  tính từ
+- (thuộc) nguyên tử
+=atomic scientist
++ nhà bác học nguyên tử
+=atomic weight
++ trọng lượng nguyên tử
+=atomic warface
++ chiến tranh nguyên tử
+=atomic bomb
++ bom nguyên tử
+=atomic theory
++ thuyết nguyên tử
+=atomic number
++ số nguyên tử
 @Chuyên ngành kỹ thuật
--làm nổi bật
--nêu rõ
+-nguyên tử
+@Lĩnh vực: toán & tin
+-không thể phân chia
+-thuộc nguyên tử
+@Lĩnh vực: xây dựng
+-thuộc về nguyên tử
+

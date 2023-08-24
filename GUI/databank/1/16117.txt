@@ -1,12 +1,37 @@
-dissociation	
-@dissociation /di,sousi'eiʃn/ (disassociation) /'disə,sousi'eiʃn/
+provision
+	
 *  danh từ
-- sự phân ra, sự tách ra
-- (hoá học) sự phân tích, sự phân ly=electrolytic dissociation
-+ sự điện ly
+- ((thường) 
++ for,  against) sự chuẩn bị, sự dự phòng, sự trữ sẵn
+=to make provision
++ chuẩn bị đầy đủ, dự phòng
+- đồ dự phòng, đồ trữ sẵn
+- (số nhiều) lương thực cung cấp; thực phẩm dự trữ; thức ăn thức uống
+- điều khoản (của giao kèo...)
+*  ngoại động từ
+- cung cấp lương thực cho, cung cấp thực phẩm cho (một đạo quân...)
+@Chuyên ngành kinh tế
+-cung cấp
+-cung ứng
+-điều khoản
+-điều quy định (hợp đồng)
+-dự phòng
+-dự trữ
+-sự cung cấp
+-sự cung ứng
+-sự dự trữ
+-tiền dự phòng
+-tiền dự trữ
 @Chuyên ngành kỹ thuật
--phân giải
--phân hủy
--phân ly
--sự phân ly
--sự phân rã
+-điều khoản
+-điều khoản hợp đồng
+-dự phòng
+-sự dự phòng
+-sự dự trữ
+@Lĩnh vực: giao thông & vận tải
+-chuẩn bị đầy đủ
+@Lĩnh vực: hóa học & vật liệu
+-điều khoản (hợp đồng)
+@Lĩnh vực: cơ khí & công trình
+-sự trữ sẵn
+

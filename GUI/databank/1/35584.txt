@@ -1,3 +1,15 @@
-monte	@monte
-* danh từ
-- bãi cây lúp xúp, khu rừng con
+classify
+	
+*  ngoại động từ
+- phân loại
+@Chuyên ngành kinh tế
+-phân cấp
+-phân hạng
+-phân loại
+@Chuyên ngành kỹ thuật
+-phân cấp
+-phân giải
+-phân hạng
+-phân loại
+-phân lớp
+

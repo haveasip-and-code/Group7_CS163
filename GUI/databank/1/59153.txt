@@ -1,10 +1,11 @@
-underbody	@underbody
-* danh từ
-- sàn xe (ô tô)
-- phần chìm; phần dưới mớn nước (tàu thủy)
+cauterize
+	
+*  ngoại động từ
+- (y học) đốt (bằng sắt nung đỏ hoặc chất ăn da để diệt độc)
+=to cauterize a snake bite
++ đốt vết rắn cắn (để trừ độc)
+- (nghĩa bóng) làm cho cứng, làm chai
 @Chuyên ngành kỹ thuật
--đáy thùng xe
--gầm xe
-@Lĩnh vực: xây dựng
--phần dưới nước (tàu thủy)
--phần trong nước
+@Lĩnh vực: y học
+-đốt cautery n
+

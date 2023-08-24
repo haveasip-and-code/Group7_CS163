@@ -1,52 +1,114 @@
-so	@so /sou/
-*  phó từ
-- như thế, như vậy
-=if so+ nếu như vậy
-=is that so?+ có như thế không?
-- cũng thế, cũng vậy
-=you like tea and so do I+ anh thích uống chè, tôi cũng vậy
-- đến như thế, dường ấy, đến như vậy
-=why are you so late?+ sao anh lại đến muộn đến như thế?
-- thế (dùng trong câu hỏi)
-=why so?+ tại sao thế?, sao lại thế?
-=how so?+ sao lại như thế được
-- chừng, khoảng
-=a week or so+ chừng một tuần lễ
-=he must be forty or so+ anh ta bốn mươi hay khoảng thế, ông ta chừng bốn mươi
-!ever so
-- (xem) ever
-!and so on; and so forth
-- vân vân
-![in] so far as
-- (xem) far
-!so as; so that
-- để, để cho, đặng
-=I tell you that so as to avoid trouble+ tôi bảo anh điều đó để tránh sự phiền hà
-=I speak slowly so that you may understand me+ tôi nói thong thả để cho anh hiểu tôi
-!so be it
-- đành vậy thôi, đành chịu như vậy thôi
-!so far
-- (xem) far
-!so long as
-- (xem) long
-!so to speak; so to say
-- ấy là nói như vậy
-!so...that...
-- đến mức mà..., đến nỗi mà...
-=it's so cold that I can't go out+ rét quá đến mức mà tôi không ra ngoài được
-!so many men so many mind
-- mỗi người mỗi ý
-*  liên từ
-- vì thế, vì vậy, vì thế cho nên, vì lẽ đó
-=I was ill and so I could not come+ tôi bị ốm vì vậy tô không đến được
-- thế là (trong câu cảm thán)
-=so you are back again!+ thế là anh lại trở lại
-!so it be done, it matters not how
-- đành phải làm việc đó thì làm thế nào cũng được
-*  thán từ
-- được!, được thôi!; cứ đứng yên! cứ yên! ((cũng) soh)
+quarter
+	
 *  danh từ
-- thế
-=I don't think+ tôi không nghĩ thế
-=I told you so+ tôi đã bảo anh thế, tôi đã bảo anh mà
-=you don't say so?+ thế à?
+- một phần tư
+=a quarter of a century
++ một phần tư thế kỷ
+=for a quarter [of] the price; for quarter the price
++ với một phần tư giá
+- mười lăm phút
+=a quarter to ten
++ mười giờ kém mười lăm
+- quý (ba tháng); học kỳ ba tháng (trường học)
+- (Mỹ; Ca
+-na
+-đa) 25 xu, một phần tư đô la
+- góc "chân" (của con vật đã được phô ra); (số nhiều) góc phần xác (kẻ phản bội) bị phanh thây, hông (người, súc vật)
+=fore quarter
++ phần trước
+=hind quarter
++ phần sau
+=horse's [hind] quarters
++ hông ngựa
+- phương, hướng, phía; nơi, miền; nguồn (tin tức...)
+=from every quarter
++ từ khắp bốn phương
+=no help to be looked for in that quarter
++ không mong đợi gì có sự giúp đỡ về phía đó
+=to have the news from a good quarter
++ nhận được tin từ một nguồn đáng tin cậy
+- khu phố, xóm, phường
+=residential quarter
++ khu nhà ở
+- (số nhiều) nhà ở
+=to take up one's quarters with somebody
++ đến ở chung với ai
+- (số nhiều) (quân sự) nơi đóng quân, doanh trại
+=winter quarters
++ nơi đóng quân mùa đông
+- (số nhiều) (hàng hải) vị trí chiến đấu trên tàu; sự sửa soạn chiến đấu
+=all hands to quarters!
++ tất cả vào vị trí chiến đấu!
+=to beat to quarters
++ ra lệnh tập họp vào vị trí chiến đấu
+=to sound off quarters
++ nổi hiệu kèn rút khỏi vị trí chiến đấu
+- tuần trăng; trăng phần tư (vị trí của mặt trăng khi ở giữa tuần thứ nhất và tuần thứ hai, hoặc ở giữa tuần thứ ba và tuần thứ tư)
+- sự tha giết, sự tha chết (cho kẻ thù đầu hàng...)
+=to ask for quarter; to cry quarter
++ xin tha giết
+=to receive quarter
++ được tha tội chết, được tha giết
+- (hàng hải) hông tàu
+=with the wind on her starboard quarter
++ với gió bên hông phải
+- góc ta (Anh) bằng 12, 70 kg); góc bồ (bằng 2, 90 hl)
+- (thể dục,thể thao) không chạy một phần tư dặm (dặm Anh)
+=to win the quarter
++ thắng trong cuộc chạy 1 soành dặm (dặm Anh)
+!a bad quarter of an hour
+- một vài phút khó chịu
+!to beat up somebody's quarters
+!to bear up the quarters of somebody
+- đến thăm ai
+!at close quarters
+- ở ngay sát nách
+- (quân sự) giáp lá cà
+!to come (get) to close quarters
+- đến sát gần
+- đánh giáp lá cà
+!not a quarter so good as...
+- còn xa mời tốt bằng...
+*  ngoại động từ
+- cắt đều làm bốn, chia tư
+- phanh thây
+=to be condemned to be quartered
++ phải chịu tội phanh thây
+- (quân sự) đóng (quân)
+- chạy khắp, lùng sục khắp (chó săn)
+@Chuyên ngành kinh tế
+-một phần tư thước Anh
+@Chuyên ngành kinh tế
+-15 phút
+-đồng 25 xen
+-giới
+-giới (khoa học, công nghệ, buôn bán)
+-góc tạ
+-hai cắc rưỡi
+-hai mươi lăm xu
+-khu (phố)
+-một khắc
+-một phần tư
+-một phần tư đô la
+-một phần tư đô la (mỹ)
+-một phần tư tạ
+-một quý
+-mười lăm phút
+-phường
+-tam cá nguyệt
+@Chuyên ngành kỹ thuật
+-chỗ ở
+-một phần tư
+-ô phố
+-phường
+-phường trại lính
+-tấm vuông
+@Lĩnh vực: giao thông & vận tải
+-khoang ở
+@Lĩnh vực: toán & tin
+-khúc gỗ vuông
+@Lĩnh vực: điện lạnh
+-phần tư
+@Lĩnh vực: xây dựng
+-trại lính
+

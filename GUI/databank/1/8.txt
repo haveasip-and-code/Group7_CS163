@@ -1,11 +1,8 @@
-abaci	
-@abaci /'æbəkəs/
-*  danh từ,  số nhiều abaci,  abacuses
-- bàn tính=to move counters of an abacus; to work an abacus
-+ tính bằng bàn tính, gảy bàn tính
-- (kiến trúc)
-- đầu cột, đỉnh cột
+cochlea
+	
+*  danh từ,  số nhiều cochleae
+- (giải phẫu) ốc tai
 @Chuyên ngành kỹ thuật
--bản đồ tính
--bàn tính
--toán đồ
+@Lĩnh vực: y học
+-ốc tai
+

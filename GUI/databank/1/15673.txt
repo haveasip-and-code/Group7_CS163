@@ -1,18 +1,9 @@
-discharger	
-@discharger /dis'tʃɑ:dʤə/
+coefficient
+	
 *  danh từ
-- người bốc dỡ (hàng)
-- người tha, người thả
-- (điện học) máy phóng điện cái nổ=asynchronous discharger
-+ cái nổ không đồng bộ
+- (toán học),  (vật lý) hệ số
 @Chuyên ngành kinh tế
--máy dỡ hàng
--người bốc dỡ
+-hệ số
 @Chuyên ngành kỹ thuật
--bộ phóng điện
--khe phóng điện
--máy dỡ hàng
--máy dỡ tải
--ống thoát nước
-@Lĩnh vực: điện
--cái phóng điện
+-hệ số
+

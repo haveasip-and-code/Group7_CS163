@@ -1,9 +1,7 @@
-hectometer	
-@hectometer /'hektou,mi:tə/ (hectometre) /'hektou,mi:tə/
-*  danh từ
-- Hectomet
+statically
+	
+- một cách tĩnh
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--héc
--tô
--mét (100 mét)
+@Lĩnh vực: toán & tin
+-một cách tĩnh
+

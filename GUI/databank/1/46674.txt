@@ -1,9 +1,25 @@
-remembrance	@remembrance /ri'membrəns/
+invoice
+	
 *  danh từ
-- sự nhớ, sự hồi tưởng; trí nhớ, ký ức
-=to call to remembrance+ hồi tưởng lại
-=in remembrance of someone+ để tưởng nhớ tới ai
-=to have something in remembrance+ nhớ lại cái gì, hồi tưởng lại cái gì
-- món quà lưu niệm
-- (số nhiều) lời chúc, lời hỏi thăm (qua một người nào)
-=please, give my remembrances to him+ anh làm ơn cho tôi gửi lời hỏi thăm ông ta
+- (thương nghiệp) danh đơn hàng gửi (có giá và tiền gửi)
+- (từ hiếm,nghĩa hiếm) chuyến hàng gửi
+*  ngoại động từ,  (thương nghiệp)
+- lập danh đơn (hàng gửi...)
+- gửi danh đơn hàng gửi cho
+@Chuyên ngành kinh tế
+-ghi hóa đơn
+-giao hóa đơn
+-gởi hóa đơn
+-hóa đơn
+-làm hóa đơn
+@Chuyên ngành kỹ thuật
+-chuyển hàng gửi
+-giấy biên nhận
+-hóa đơn
+-làm hóa đơn
+@Lĩnh vực: toán & tin
+-biên nhận
+@Lĩnh vực: điện
+-cấp hóa đơn
+-hóa đơn hàng gửi
+

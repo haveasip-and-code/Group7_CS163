@@ -1,14 +1,10 @@
-modulation	@modulation
-* danh từ
-- sự uốn giọng, sự ngân nga, giọng lên xuống trầm bổng
-- <nhạc> sự chuyển giọng
-- <rađiô> sự điều biến
-@Chuyên ngành kỹ thuật
--điều biến
--sự biến điệu
--sự điều biến
-@Lĩnh vực: điện
--biến điện xung
--sự điều chế
-@Lĩnh vực: xây dựng
--sự chuyển điệu
+miff
+	
+*  danh từ
+- (thông tục) sự mếch lòng, sự phật ý
+*  nội động từ
+- (thông tục) (
++ with,  at) lấy làm mếch lòng, lấy làm phật ý
+*  ngoại động từ
+- làm mếch lòng, làm phật ý
+

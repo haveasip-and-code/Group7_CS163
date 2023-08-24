@@ -1,9 +1,5 @@
-tailpiece	@tailpiece /'teilpi:s/
-*  danh từ
-- hình vẽ cuối chương sách
-- chốt mắc dây (ờ đàn viôtlông, đàn nguyệt...)
-@Chuyên ngành kỹ thuật
--khớp lồng ống
--minh họa cuối chương
-@Lĩnh vực: xây dựng
--dầm đỡ một đầu
+claimable
+	
+*  tính từ
+- có thể đòi, có thể yêu sách; có thể thỉnh cầu
+

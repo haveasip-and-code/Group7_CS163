@@ -1,16 +1,16 @@
-arcade	
-@arcade /ɑ:'keid/
+unrest
+	
 *  danh từ
-- đường có mái vòm
-- (kiến trúc) dãy cuốn
+- tình trạng không yên ổn, tình trạng náo động
+=public unrest
++ tình trạng náo động trong dân chúng
+- sự không yên tâm, sự băn khoăn, sự lo âu
 @Chuyên ngành kinh tế
--dãy mái vòm
+-biến loạn
+-những biến loạn
+-sự náo động
+-tình trạng không yên ổn
 @Chuyên ngành kỹ thuật
--cửa cuốn
-@Lĩnh vực: xây dựng
--chuỗi cuốn
--cửa vòm cuốn
--dãy cuốn
--đường có mái vòm
--hành lang cuốn
--hành lang/đường dưới mái vòm
+@Lĩnh vực: y học
+-không yên tâm, náo động
+

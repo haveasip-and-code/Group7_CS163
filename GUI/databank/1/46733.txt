@@ -1,18 +1,5 @@
-remover	@remover /ri'mu:və/
-*  danh từ
-- người dọn đồ ((cũng) furniture remover)
-- thuốc tẩy (dầu mỡ...)
-- (kỹ thuật) dụng cụ tháo, đồ m
-@Chuyên ngành kinh tế
--chất loại bỏ
--dụng cụ tách
--máy tách
--máy tháo dỡ
-@Chuyên ngành kỹ thuật
--dụng cụ tháo
--máy đào
-@Lĩnh vực: điện
--cái vam
-@Lĩnh vực: hóa học & vật liệu
--chất tẩy (màu)
--đồ mở
+bedraggle
+	
+*  ngoại động từ
+- kéo lê làm bẩn (áo, quần...)
+

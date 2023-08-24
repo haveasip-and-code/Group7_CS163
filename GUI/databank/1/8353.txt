@@ -1,12 +1,19 @@
-caul	
-@caul /kɔ:l/
+paragraph
+	
 *  danh từ
-- màng thai nhi
-- màng thóp (ở đầu trẻ mới sinh)
-- (giải phẫu) mạc nối!to be born with a caul
-- sinh vào nơi phú quý, sinh ra đã tốt số
+- đoạn văn
+- dấu mở đầu một đoạn văn; dấu xuống dòng
+- mẫu tin (trên báo, thường không có đề)
+*  ngoại động từ
+- sắp xếp (một bài...) thành đoạn; chia thành đoạn
+- viết mẫu tin (về người, vật...)
 @Chuyên ngành kinh tế
--màng bọc
+-đoạn
+-tiết (của một bài văn, một văn bản)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--màng chùm đầu, mạc nối lớn
+-đoạn
+-đoạn văn
+@Lĩnh vực: toán & tin
+-đoạn văn bản
+-phần (trong một bài)
+

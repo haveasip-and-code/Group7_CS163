@@ -1,13 +1,5 @@
-qualitative	@qualitative /'kwɔlitətiv/
-*  tính từ
-- (thuộc) chất, (thuộc) phẩm chất
-=qualitative difference+ sự khác nhau về chất
-- định tính
-=qualitative analysis+ (hoá học) phân tích định tính
-@Chuyên ngành kinh tế
--chất lượng
--phẩm chất
-@Chuyên ngành kỹ thuật
--chất
--định tính
--phẩm chất
+pretreating
+	
+@Lĩnh vực: hóa học & vật liệu
+-sự xử lý trước (nước uống, nước thải)
+

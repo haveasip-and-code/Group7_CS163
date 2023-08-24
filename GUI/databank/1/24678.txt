@@ -1,7 +1,17 @@
-gyrofrequency	
-@gyrofrequency
-- (Tech) tần số hồi chuyển
+flaunt
+	
+*  danh từ
+- sự khoe khoang, sự phô trương, sự chưng diện
+*  ngoại động từ
+- khoe khoang, phô trương, chưng diện
+=to flaunt one's new clothes
++ chưng diện quần áo mới
+*  nội động từ
+- bay phất phới (cờ...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--tấn số gyro
--tần số xyclotron
+@Lĩnh vực: xây dựng
+-khoe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khoe
+

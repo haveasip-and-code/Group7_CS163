@@ -1,18 +1,15 @@
-stability	@stability
-- [sự, tính] ổn định
-- s. of solution tính ổn định [của lời giải, của nghiệm]
-- asymptotic(al) s. tính ổn định tiệm cận
-- conditional s. tính ổn định có điều kiện
-- dynamic s. tính ổn định động lực
-- elastic s. tính ổn định đàn hồi
-- frequency s. tính ổn định tần số
-- hydraulic s. tính ổn định thuỷ lực
-- intrinsic s. (điều khiển học) tính ổn định trong
-- kinetic s. sự ổn định động
-- local s. (thống kê) sự ổn định địa phương
-- longitadinal s. (cơ học) sự ổn định dọc
-- orbital s. sự ổn định quỹ đạo
-- overall s. (điều khiển học) tính ổn định tổng quát
-- static(al) s. sự ổn định tĩnh
-- structural s. (giải tích) tính ổn định cấu trúc
-- unconditional s. sự ổn định [tuyệt đối, không điều kiện]
+latter
+	
+*  tính từ,  cấp so sánh của late
+- sau cùng, gần đây, mới đây
+=in these latter days
++ trong thời kỳ gần đây nhất, trong thời đại chúng ta
+- sau, thứ hai (đối lại với former)
+=the latter half of the century
++ nửa sau của thế kỷ
+- (the latter) cái sau; người sau (đối lại với former)
+=of these two men, the former is dead, the latter still alive
++ trong hai người đó, người trước đã chết, người sau còn sống
+!latter end
+- sự chấm dứt, sự chết
+

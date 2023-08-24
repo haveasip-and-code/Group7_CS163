@@ -1,17 +1,19 @@
-turf	@turf /tə:f/
-*  danh từ,  số nhiều turfs,  turves
-- lớp đất mặt (đầy rễ cỏ)
-- Ai-len than bùn
-- (the turf) cuộc đua ngựa; nghề đua ngựa
-=one of the most familiar faces on the turf+ một trong những bộ mặt quen nhất trên trường đua ngựa
-*  ngoại động từ
-- lát bằng tảng đất có cỏ
-!to turf out
-- (từ lóng) tống cổ ra, đuổi ra
-=to turf someone out+ tống cổ ai ra
+prevention
+	
+*  danh từ
+- sự ngăn cản, sự ngăn trở, sự ngăn ngừa, sự phòng ngừa
+=prevention of disease
++ sự phòng bệnh
+=prevention is better than cure
++ phòng bệnh hơn chữa bệnh
+@Chuyên ngành kinh tế
+-sự ngăn cản
+-sự ngăn ngừa
 @Chuyên ngành kỹ thuật
--lớp che
--lớp đất bùn
--lớp mặt cỏ
--lớp phủ
--vầng cỏ
+-đề phòng
+-ngăn ngừa
+-sự dự phòng
+-sự phòng ngừa
+@Lĩnh vực: cơ khí & công trình
+-sự ngăn ngừa
+

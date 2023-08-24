@@ -1,8 +1,5 @@
-reverser	@reverser /ri'və:sə/
-*  danh từ
-- (vật lý) bộ đối chiếu
-@Chuyên ngành kỹ thuật
--máy đảo điện
-@Lĩnh vực: điện lạnh
--bộ đổi chiều
--dụng cụ đảo điện
+coveralls
+	
+* danh từ số nhiều
+- bộ áo liền quần cho những người làm công việc nặng nhọc
+

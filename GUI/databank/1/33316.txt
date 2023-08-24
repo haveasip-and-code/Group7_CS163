@@ -1,8 +1,7 @@
-mainframe	@mainframe
-- máy tính lớn
-@Chuyên ngành kỹ thuật
--máy tính lớn
-@Lĩnh vực: xây dựng
--đại khung
-@Lĩnh vực: điện lạnh
--máy chính
+doggerel
+	
+*  danh từ
+- thơ dở, thơ tồi, vè
+*  tính từ
+- dở, tồi, như vè
+

@@ -1,12 +1,12 @@
-bulletin	
-@bulletin /'bulitin/
-*  danh từ
-- thông cáo, thông báo
-- tập san
+distrain
+	
+*  ngoại động từ
+- (pháp lý) tịch biên (tài sản)
 @Chuyên ngành kinh tế
--báo cáo
--cáo thị
--tập san
--thông báo
-@Chuyên ngành kỹ thuật
--bản tin
+-sai áp tài sản để truy nợ
+-siết đồ đòi nợ
+-siết nợ
+-tịch biên
+-tịch biên tài sản
+-tịch thu hàng hóa để truy nợ
+

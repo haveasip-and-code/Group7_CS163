@@ -1,33 +1,11 @@
-braid	
-@braid /breid/
-*  danh từ
-- dải viền (trang sức quần áo)
-- dây tết (bằng lụa, vải)
-- bím tóc
-*  ngoại động từ
-- viền (quần áo) bằng dải viền
-- bện, tết (tóc...)
-- thắt nơ giữ (tóc)
+pentahedral
+	
+*  tính từ
+- (toán học) có năm mặt
 @Chuyên ngành kỹ thuật
--bện
--dải bện
--đai đeo
--đai giữ
--đan
--dây
--dây bện
--dây tết
--miếng đệm
--sợi thủy tinh bện
--sự bện
--sự đan
-@Lĩnh vực: dệt may
--dải đăng ten
--dây go
--sự tế
-@Lĩnh vực: điện
--dây đệm
 @Lĩnh vực: xây dựng
--dây viền
+-khối 5 mặt
 @Lĩnh vực: toán & tin
--tết
+-khối năm mặt
+-thuộc khối năm mặt
+

@@ -1,10 +1,14 @@
-valency	@valency /'væləns - 'veiləns/ (valency) /'veilənsi/
-- 'veiləns/ (valency)
-/'veilənsi/
-*  danh từ
-- (như) valance
-- (hoá học) hoá trị
-@Chuyên ngành kỹ thuật
--hóa trị
-@Lĩnh vực: toán & tin
--hóa trị (số đường tới một điểm riêng của đồ thị)
+proportionable
+	
+*  tính từ,  số nhiều
+- cân xứng, cân đối
+- tỷ lệ
+=directly proportional
++ tỷ lệ thuận
+=inversely proportional
++ tỷ lệ nghịch
+!proportional representation
+- chế độ bầu đại biểu của tỷ lệ
+*  tính từ
+- (toán học) số hạng của tỷ lệ thức
+

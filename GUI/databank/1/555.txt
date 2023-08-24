@@ -1,21 +1,7 @@
-acquisition	
-@acquisition /,ækwi'ziʃn/
+rumoured
+	
 *  danh từ
-- sự được, sự giành được, sự thu được, sự đạt được, sự kiếm được
-- cái giành được, cái thu nhận được=Mr. A will be a valuable acquisition to the teaching staff of our school
-+ thu nhận được ông A thì sẽ có lợi cho hàng ngũ giáo viên của trường chúng ta
-@Chuyên ngành kinh tế
--sự mua lại (công ty)
--thôn tính
--vật mua được
--việc mua lại
-@Chuyên ngành kỹ thuật
--dò sóng
--sự đạt tới
--sự thu nhận
--sự thu thập
--sự tiếp nhận
-@Lĩnh vực: xây dựng
--sự thụ đắc
-@Lĩnh vực: toán & tin
--sự tiếp nhận (dữ liệu, thông tin)
+- theo lời đồn
+=the rumoured disater
++ cái tai hoạ theo lời đồn
+

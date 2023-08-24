@@ -1,4 +1,16 @@
-floccule	
-@floccule /floccule/
-*  danh từ
-- bông, cụm (xốp như len) ((cũng) flocculus)
+outgo
+	
+*  ngoại động từ outwent; outgone
+- đi trước, vượt lên trước
+- (nghĩa bóng) vượt, hơn
+*  nội động từ
+- đi ra
+*  danh từ,  (thường) số nhiều ((cũng) outgoing)
+- tiền chi tiêu
+- sự đi ra, sự tuôn ra, sự chảy ra, sự phát ra
+@Chuyên ngành kinh tế
+-hạng mục chi
+@Chuyên ngành kỹ thuật
+-lưu lượng
+-sự ra
+

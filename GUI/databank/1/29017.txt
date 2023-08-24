@@ -1,31 +1,5 @@
-institute	
-@institute /'institju:t/
-*  danh từ
-- viện, học viện; hội; trụ sở viện, trụ sở hội
-- (từ Mỹ,nghĩa Mỹ) cơ sở đào tạo kỹ thuật (cấp đại học)
-- (từ Mỹ,nghĩa Mỹ) đơn vị nghiên cứu và giảng dạy chuyên đề (ở đại học)
-- thể chế
-- (số nhiều) bản tóm tắt những điều cơ bản (về pháp lý...)
-*  ngoại động từ
-- thành lập, lập nên
-- mở=to institute an inwuiry
-+ mở một cuộc điều tra=to institute a course of English language
-+ mở một lớp tiếng Anh
-- tiến hành=to institute a lawsuit
-+ tiến hành một vụ kiện
-- bổ nhiệm
-@Chuyên ngành kinh tế
--cơ quan
--hiệp hội
--học hội
--học viện
--viện
-@Chuyên ngành kỹ thuật
--học viện
--thành lập
--tổ chức
--viện
--viện nghiên cứu
-@Lĩnh vực: toán & tin
--đặt nền móng
--tạo cơ sở
+quadrumanous
+	
+*  tính từ
+- (động vật học) có bốn tay
+

@@ -1,11 +1,27 @@
-inverted	
-@inverted
-- bị nghịch đảo
+skate
+	
+*  danh từ
+- (động vật học) cá đuổi
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người già ốm
+- người bị khinh rẻ
+*  danh từ
+- lưỡi trượt (ở giày trượt băng)
+*  động từ
+- trượt băng
+!to skate over (on) thin ice
+- nói đến một vấn đề tế nhị
+- ở trong hoàn cảnh nguy hiểm
+@Chuyên ngành kinh tế
+-cá đuối
+-tầng đánh cá thờn bơn
+-thứ tự của tầng
 @Chuyên ngành kỹ thuật
--được đảo chiều (đúc)
-@Lĩnh vực: toán & tin
--bị nghịch đảo
-@Lĩnh vực: hóa học & vật liệu
--đã đảo
--đã đảo ngược
--đã lật ngược
+-con trượt
+-đà trượt
+-đường trượt
+-guốc hãm từ ray
+-trượt
+@Lĩnh vực: cơ khí & công trình
+-dao trượt
+

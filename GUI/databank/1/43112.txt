@@ -1,5 +1,15 @@
-predetermined	@predetermined
-- được xác định trước; được thiết lập sơ bộ
+adjective
+	
+*  tính từ
+- phụ vào, thêm vào; lệ thuộc, không đứng một mình
+=adjective colours
++ màu không giữ được nếu không pha chất cắn màu
+=adjective law (law adjective)
++ đạo luật phụ
+- (ngôn ngữ học) có tính chất tính từ; (thuộc) tính từ
+*  danh từ
+- (ngôn ngữ học) tính từ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--được xác định trước
+@Lĩnh vực: xây dựng
+-tính từ
+

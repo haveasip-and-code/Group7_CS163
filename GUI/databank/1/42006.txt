@@ -1,9 +1,8 @@
-pleadings	@pleadings
-* danh từ, pl
-- (luật pháp) biên bản bào chữa
-@Chuyên ngành kinh tế
--biên bản bào chữa
--biện hộ
--kháng biện
--tố trạng
--ý kiến của công tố viên
+optimism
+	
+*  danh từ
+- sự lạc quang; tính lạc quan
+=revolutionary optimism
++ lạc quan cách mạng
+- (triết học) chủ nghĩa lạc quan
+

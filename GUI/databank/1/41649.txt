@@ -1,2 +1,25 @@
-pinnular	@pinnular
-- xem pinnule
+multiplier
+	
+*  danh từ
+- (toán học) số nhân
+- (điện học) máy nhân, điện kế nhân
+- người làm cho bội (tăng) lên
+@Chuyên ngành kinh tế
+-bội số
+-nhân tử
+-số
+-số nhân
+-thừa
+-thừa số
+@Chuyên ngành kỹ thuật
+-bộ nhân
+-làm phép nhân
+-nhân tử
+-số nhân
+@Lĩnh vực: toán & tin
+-máy nhân
+@Lĩnh vực: điện
+-phần nhân
+-phần tăng bội
+-số bội
+

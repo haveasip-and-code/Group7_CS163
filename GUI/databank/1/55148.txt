@@ -1,22 +1,13 @@
-symbol	@symbol /'simbəl/
-*  danh từ
-- vật tượng trưng
-=white is the symbol of purity+ màu trắng tượng trưng cho sự trong trắng
-- ký hiệu
-=chemical symbol+ ký hiệu hoá học
-*  ngoại động từ
-- (từ hiếm,nghĩa hiếm) biểu hiện, tượng trưng
-- diễn đạt bằng tượng trưng
+reopen
+	
+*  động từ
+- mở lại; lại tiếp tục, bắt đầu lại (sau một thời gian gián đoạn)
+=schools reopen after summer vacation
++ sau kỳ nghỉ hè các trường học lại m
+@Chuyên ngành kinh tế
+-mở lại
+-tiếp tục lại
 @Chuyên ngành kỹ thuật
--biểu tượng
--dấu
--dấu hiệu
--kí hiệu
--ký hiệu
--ký hiệu quy ước
-@Lĩnh vực: toán & tin
--dấu hiệu (mặt đồ họa)
-@Lĩnh vực: cơ khí & công trình
--tượng trưng
-@Lĩnh vực: xây dựng
--vật tượng trưng
+-bắt đầu lại
+-mở lại
+

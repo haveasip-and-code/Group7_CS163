@@ -1,6 +1,10 @@
-abrosia	
-* danh từ
-- (y học) tình trạng gây ra bởi thiếu ăn
+somatic
+	
+*  tính từ
+- (sinh vật học) (thuộc) xôma, (thuộc) thể
+=somatic cell
++ tế bào xôma, tế bào thể
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: y học
--sự thiếu thực phẩm
+-thuộc soma
+

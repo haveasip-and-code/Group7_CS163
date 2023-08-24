@@ -1,9 +1,11 @@
-infusibility	
-@infusibility /,infju:zə'biliti/
-*  danh từ
-- tính có thể pha được
-*  danh từ
-- tính không nóng chảy, tính chịu lửa
+unclosed
+	
+* tính từ
+- mở; không đóng
+- không bị ngăn chặn
+- chưa xong
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--tính không nóng chảy
+-hở
+@Lĩnh vực: cơ khí & công trình
+-không khép kín
+

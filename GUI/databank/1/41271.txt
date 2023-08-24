@@ -1,7 +1,4 @@
-photoemission	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--hiện tượng (hiệu ứng) phát xạ quang điện
-@Lĩnh vực: điện lạnh
--hiện tượng quang điện ngoài
--hiện tượng quang phát xạ
--sự quang phát xạ
+kilobit
+	
+- 1024 bit thông tin
+

@@ -1,25 +1,5 @@
-sliver	@sliver /'slivə/
-*  danh từ
-- miếng, mảnh (gỗ)
-- mảnh đạn, mảnh bom
-- miếng cá con (lạng ra để làm muối)
-- sợi (len, gai, bông... để xe...)
-*  ngoại động từ
-- cắt ra từng miếng, lạng ra từng mảnh
-- lạng (cá) (để làm mồi câu)
-- tước (gai, đay...) thành sợi (để xe...)
-@Chuyên ngành kinh tế
--lát
--mảnh
--miếng
--phiến
-@Chuyên ngành kỹ thuật
--mảnh bong
--mảnh vụn
-@Lĩnh vực: dệt may
--con cúi
-@Lĩnh vực: giao thông & vận tải
--mảnh tróc ray
-@Lĩnh vực: cơ khí & công trình
--sự tróc (vảy)
--vết nứt dọc (khuyết tật của vật liệu)
+convinced
+	
+*  tính từ
+- tin chắc
+

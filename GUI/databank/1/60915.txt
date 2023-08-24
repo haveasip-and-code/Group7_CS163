@@ -1,11 +1,15 @@
-uptime	@Chuyên ngành kỹ thuật
--hiện đại
--thời gian chạy
--thời gian vận hành
-@Lĩnh vực: xây dựng
--kịp thời
+likelihood
+	
+*  danh từ
+- sự có thể đúng, sự có thể thật
+=in all likelihood
++ có thể, có nhiều khả năng
+@Chuyên ngành kỹ thuật
+-hợp lệ
 @Lĩnh vực: toán & tin
--thời gian chạy máy
--thời gian máy chạy
--thời gian thao tác
--thời gian vận hành máy (của các hệ thống)
+-hợp lẽ
+@Chuyên ngành kỹ thuật
+-hợp lệ
+@Lĩnh vực: toán & tin
+-hợp lẽ
+

@@ -1,6 +1,11 @@
-macrofossil	@macrofossil
-* danh từ
-- đại hoá thạch
+aeroplane
+	
+*  danh từ
+- máy bay, tàu bay
+@Chuyên ngành kinh tế
+-máy bay
+-phi cơ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--hóa đá lớn
+-máy bay
+-phi cơ
+

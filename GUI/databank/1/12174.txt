@@ -1,15 +1,9 @@
-cottage	
-@cottage /'kɔtidʤ/
-*  danh từ
-- nhà tranh
-- nhà riêng ở nông thôn!cottage piano
-- (xem) piano!cottage hospital
-- bệnh viên thôn dã (không có nhân viên ở ngay đấy)
-@Chuyên ngành kinh tế
--nhà riêng ở nông thôn
--nhà tranh
+unfixed
+	
+*  tính từ
+- tháo ra, mở ra, cởi ra, bỏ ra
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: xây dựng
--biệt thự nhỏ
--nhà gỗ nhỏ
--nhà ở ngoại ô
+-không cố định
+-không được đánh dấu (ngoài mặt đất)
+

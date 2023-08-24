@@ -1,12 +1,13 @@
-environ	
-@environ /in'vaiərən/
-*  ngoại động từ
-- bao vây, vây quanh, bao vây
+burster
+	
+*  danh từ
+- thuốc nổ
 @Chuyên ngành kỹ thuật
--vòng quanh
+-máy cắt giấy
 @Lĩnh vực: toán & tin
--bao quanh, bao vây
-@Chuyên ngành kỹ thuật
--vòng quanh
-@Lĩnh vực: toán & tin
--bao quanh, bao vây
+-bộ cắt giấy
+-bộ tách rời giấy
+-máy phân chia giấy
+@Lĩnh vực: điện tử & viễn thông
+-thiết bị phân chia
+

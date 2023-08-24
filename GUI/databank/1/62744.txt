@@ -1,22 +1,5 @@
-wharf	@wharf /w :f/
-*  danh từ,  số nhiều wharfs,  wharves
-- (hàng hi) bến tàu, cầu tàu
-*  ngoại động từ
-- (hàng hi) cho (hàng) vào kho ở bến
-- (hàng hi) buộc (tàu) vào bến
-@Chuyên ngành kinh tế
--bến cảnh
--bến tàu
--bến tàu cầu cảng
--cầu cảng
-@Chuyên ngành kỹ thuật
--bến tàu
--cho vào bến
--kè đá
-@Lĩnh vực: xây dựng
--bến (tàu) cảng
--buộc tàu thuyền
--buộc vào bến
--cầu tàu
--công trình cập bến
--nơi thả neo
+fluttering
+	
+* danh từ
+- sự dao động; sự rung động
+

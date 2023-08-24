@@ -1,9 +1,6 @@
-emissivity	
-@emissivity
-* danh từ
-- độ phát xạ= radiant emissivity
-+độ bức xạ
-@Chuyên ngành kỹ thuật
--độ phát xạ
-@Chuyên ngành kỹ thuật
--độ phát xạ
+puffily
+	
+* phó từ
+- thổi phù; phụt ra từng luồng, có gió từng luồng
+- phù, phồng, sưng húp
+

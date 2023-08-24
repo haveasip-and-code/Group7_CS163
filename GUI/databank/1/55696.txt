@@ -1,11 +1,7 @@
-taxable	@taxable /'tæksəbl/
-*  tính từ
-- có thể đánh thuế được
-=a taxable article+ một mặt hàng đánh thuế được
-- có thể quy cho là, có thể chê
-- chịu phí tổn
-=the expenses of the transport are taxable to the sender+ phí tổn chuyên chở cho người gửi chịu
-@Chuyên ngành kinh tế
--có thể đánh thuế
--phải đánh thuế
--phải trả thuế
+heathenize
+	
+*  ngoại động từ
+- làm thành ngoại đạo
+*  nội động từ
+- trở thành ngoại đạo
+

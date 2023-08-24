@@ -1,9 +1,10 @@
-hospitalization	
-@hospitalization /,hɔspitəlai'zeiʃn/
+invagination
+	
 *  danh từ
-- sự đưa vào bệnh viện
-- sự nằm bệnh viện
-- thời kỳ nằm bệnh viện
+- sự cho vào bao, sự cho vào ống
+- (sinh vật học) sự lõm vào
+- (y học) bệnh lồng ruột
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: y học
--sự điều trị tại bệnh viện
+-thụt vào
+

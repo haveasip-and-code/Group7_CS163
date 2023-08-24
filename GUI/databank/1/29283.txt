@@ -1,8 +1,74 @@
-interfacial	
-@interfacial /,intə'feiʃəl/
-*  tính từ
-- xen giữa hai bề mặt
-- (thuộc) bề mặt chung (của hai vật...); (thuộc) mặt phân giới
-- chung (cho hai ngành học thuật...)
+table
+	
+*  danh từ
+- cái bàn
+- bàn ăn
+=at table
++ đang bàn ăn, trong lúc ngồi ăn
+=to lay (set) the table
++ bày ban ăn
+=to clear the table
++ dọn bàn
+- thức ăn bày bàn, mâm cỗ, cỗ bàn
+=to keep a good table
++ ăn sang
+- những người ngồi quanh bàn, những người ngồi ăn
+=to set all the table laughing
++ làm cho tất cả những người quanh bàn cười
+- (kỹ thuật) bàn máy
+- bảng (gỗ, đá...)
+=table of stone
++ bảng đá
+- bảng, bản, bản kê, biểu
+=table of contents
++ bảng mục lục
+=asironomical table
++ bản thiên văn
+=alphabetical table
++ bảng chữ cái
+=table of prices
++ bảng giá
+- mặt (của hạt ngọc)
+- lòng bàn tay
+- (địa lý,địa chất) cao nguyên
+!to lay a bill on the table
+- hoãn bàn về một dự luật không thời hạn
+!to lie on the table
+- bị hoãn bàn không thời hạn (dự luật)
+!to turn the tables on (upon) someone
+- (nghĩa bóng) giành lại ưu thế so với ai, làm đảo lộn lại tình thế đố với ai
+*  ngoại động từ
+- đặt lên bàn, để lên bàn
+- đưa ra bàn, ghi vào chương trình nghị sự
+=to table a motion
++ đưa ra một đề nghị
+- (từ Mỹ,nghĩa Mỹ) hoãn bàn không thời hạn (một dự luật...)
+@Chuyên ngành kinh tế
+-bàn
+-bảng
+-bảng kê
+-bảng kê, mặt trên viên kim cương
+-biểu
+-lắng tinh bột trên máng lắng
+-lập bảng
+-lập biểu
+-mặt trên viên kim cương
+-xếp thành bảng kê
 @Chuyên ngành kỹ thuật
--mặt phân giới
+-bàn
+-bàn máy
+-bảng
+-băng lăn
+-bảng tra cứu
+-bệ máy
+-biểu
+-cái bàn
+-lập bảng
+@Lĩnh vực: cơ khí & công trình
+-bàn (máy)
+-giàn con lăn
+-mâm hoa (máy tiện đứng)
+@Lĩnh vực: xây dựng
+-người lập bảng
+-mặt (nước ngầm)
+

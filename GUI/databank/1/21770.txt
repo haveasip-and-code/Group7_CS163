@@ -1,12 +1,11 @@
-footer	
-@footer /'futə/
-*  danh từ
-- (từ lóng) môn bóng đá
-@Chuyên ngành kinh tế
--cơ cấu cấp liệu
--cơ cấu nạp liệu
+leptospirosis
+	
+* danh từ; số nhiều leptospiroses
+- (y học) bệnh trùng xoắn móc câu
 @Chuyên ngành kỹ thuật
--dòng cuối trang
-@Lĩnh vực: toán & tin
--chân trang
--cuối trang
+@Lĩnh vực: y học
+-bệnh Léptospira (bệnh Weil)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh Léptospira (bệnh Weil)
+

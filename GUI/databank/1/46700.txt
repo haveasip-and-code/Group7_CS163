@@ -1,12 +1,16 @@
-remnant	@remnant /'remnənt/
-*  danh từ
-- cái còn lại, vật còn thừa
-=a few remnants of food+ chút ít đồ ăn thừa
-- dấu vết còn lại, tàn dư
-=the remnants of feudal ideology+ tàn dư của tư tưởng phong kiến
-- mảnh vải lẻ (bán rẻ)
-@Chuyên ngành kinh tế
--cái còn lại
--khúc
--miếng (vải...)
--vật còn thừa
+modulation
+	
+* danh từ
+- sự uốn giọng, sự ngân nga, giọng lên xuống trầm bổng
+- <nhạc> sự chuyển giọng
+- <rađiô> sự điều biến
+@Chuyên ngành kỹ thuật
+-điều biến
+-sự biến điệu
+-sự điều biến
+@Lĩnh vực: điện
+-biến điện xung
+-sự điều chế
+@Lĩnh vực: xây dựng
+-sự chuyển điệu
+

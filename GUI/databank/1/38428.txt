@@ -1,3 +1,14 @@
-outbuild	@outbuild /aut'bild/
-*  ngoại động từ outbuilt
-- xây dựng nhiều hơn, xây dựng quy mô hơn, xây dựng bền hơn
+deactivate
+	
+* động từ
+- làm không hoạt động, làm mất phản ứng, khử hoạt tính
+@Chuyên ngành kỹ thuật
+-khử hoạt hóa
+-khử kích hoạt
+@Lĩnh vực: toán & tin
+-giải hoạt
+@Lĩnh vực: hóa học & vật liệu
+-khử hoạt tính
+@Lĩnh vực: xây dựng
+-ngưng hoạt động
+

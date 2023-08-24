@@ -1,9 +1,8 @@
-hyperbaric	
-@hyperbaric
-* tính từ
-- dùng bội áp (suất)= hyperbaric medical treatment
-+phép điều trị dùng bội áp
+headgate
+	
+* danh từ
+- cổng kiểm soát nước chảy vào kênh
 @Chuyên ngành kỹ thuật
--áp suất cao
-@Lĩnh vực: y học
--có áp suất cao hơn áp suất không khí
+@Lĩnh vực: hóa học & vật liệu
+-cửa cống trên
+

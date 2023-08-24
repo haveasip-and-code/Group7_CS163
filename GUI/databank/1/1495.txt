@@ -1,48 +1,13 @@
-alignment	
-@alignment /ə'lainmənt/ (alinement) /ə'lainmənt/
-*  danh từ
-- sự sắp thẳng hàng, sự sắp hàng=out of alignment
-+ không thẳng hàng=in alignment with
-+ thẳng hàng với
+terrene
+	
+*  tính từ
+- có tính chất đất
+- (thuộc) đất; (thuộc) trái đất
+- (động vật học) ở cạn, sống trên mặt đất
 @Chuyên ngành kỹ thuật
--định tuyến
--hướng tuyến
--sự chỉnh tâm
--sự chỉnh thẳng hàng
--sự điều chỉnh
--sự định hướng
--sự đồng chỉnh
--sự hiệu chỉnh
--sự làm đều
--sự nắn thẳng
--sự san bằng
--sự xếp thẳng hàng
--thứ tự
--toán đồ
--tuyến
-@Lĩnh vực: toán & tin
--căn chỉnh
--canh chỉnh
--canh lề
--sự sắp hàng
-@Lĩnh vực: cơ khí & công trình
--chỉnh đồng tâm
--chỉnh thẳng hàng
--sự ngắm máy
-@Lĩnh vực: xây dựng
--đường ngắm thẳng
--sự căn thẳng hàng
--sự chỉnh mạch
--sự chỉnh thẳng
--sự hướng trục
--sự ngắm thẳng
--tuyến thẳng
-@Lĩnh vực: giao thông & vận tải
--phương hướng đường
-@Lĩnh vực: điện
--sự cân chỉnh mạch
-@Lĩnh vực: ô tô
--sự canh thẳng hàng
-@Lĩnh vực: y học
--sự sắp răng
--sự sắp xếp thành hàng
+-đất
+@Lĩnh vực: hóa học & vật liệu
+-đới đất đá
+-nhóm vỉa
+-trái đất
+

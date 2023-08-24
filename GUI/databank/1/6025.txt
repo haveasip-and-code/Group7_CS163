@@ -1,18 +1,7 @@
-blowing	
-@Chuyên ngành kinh tế
--sự phun khí
--sự thổi khí
-@Chuyên ngành kỹ thuật
--phun
--sự ngắt
--sự phun
--sự quạt gió
--sự thổi
--sự thổi thủy tinh
-@Lĩnh vực: xây dựng
--sự thổi (khí)
--sự thổi (thủy tinh)
--sự thổi thoáng
--sự thổi thông
-@Lĩnh vực: hóa học & vật liệu
--thổi khí để trộn
+depressive
+	
+* tính từ
+- làm suy nhược, làm suy yếu
+* danh từ
+- người bị chứng trầm cảm
+

@@ -1,3 +1,7 @@
-allocator	
-@allocator
-- (Tech) bộ phân định
+merman
+	
+*  danh từ
+- (thần thoại,thần học) người cá
+@Chuyên ngành kỹ thuật
+-người cá
+

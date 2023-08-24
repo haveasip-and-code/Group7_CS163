@@ -1,6 +1,7 @@
-molecule	@molecule /'mɔlikju:l/
-*  danh từ
-- (hoá học) phân t
+angiomatous
+	
+- xem angioma
 @Chuyên ngành kỹ thuật
--phân tử
--phần tử
+@Lĩnh vực: y học
+-thuộc u mạch
+

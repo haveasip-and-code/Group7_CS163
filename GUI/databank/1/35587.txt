@@ -1,2 +1,14 @@
-montmorillonite	@Chuyên ngành kỹ thuật
--monmorilonit
+distillery
+	
+*  danh từ
+- nhà máy cất
+- nhà máy rượu
+@Chuyên ngành kinh tế
+-nhà máy cất rượu
+-nhà máy chưng cất
+@Chuyên ngành kỹ thuật
+-nhà máy rượu
+@Lĩnh vực: hóa học & vật liệu
+-nhà máy chưng cất/ nhà máy rượu
+-xưởng chưng cất
+

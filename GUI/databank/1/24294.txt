@@ -1,9 +1,10 @@
-grim	
-@grim /grim/
+vestigial
+	
 *  tính từ
-- dữ tợn, tàn nhẫn, nhẫn tâm, ác nghiệt=a grim face
-+ nét mặt dữ tợn đầy sát khí=a grim smile
-+ nụ cười nham hiểm=a grim battle
-+ cuộc chiến đấu ác liệt
-- không lay chuyển được=grim determination
-+ quyết tâm không lay chuyển được
+- (thuộc) vết tích, (thuộc) dấu vết
+=vestigial organs
++ (sinh vật học) cơ quan vết tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-còn vết tích
+

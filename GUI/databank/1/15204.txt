@@ -1,8 +1,6 @@
-diatom	
-@diatom /'daiətəm/
-*  danh từ
-- (thực vật học) tảo cát
-@Chuyên ngành kỹ thuật
+drillability
+	
 @Lĩnh vực: hóa học & vật liệu
--tảo điatome
--tảo silic
+-tính dễ khoan
+-tính khoan được
+

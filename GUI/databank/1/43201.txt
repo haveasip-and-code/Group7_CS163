@@ -1,9 +1,16 @@
-pregnancy	@pregnancy /'pregnənsi/
+overpopulation
+	
 *  danh từ
-- sự có thai, sự có mang thai, sự có chửa
-- sự phong phú, sự dồi dào, sự giàu (trí tưởng tượng...)
-- tầm quan trọng lớn (vì kết quả, vì ảnh hưởng)
-- tính hàm xúc, tính giàu ý (của từ...)
+- sự đông dân quá
+- số dân đông quá
+@Chuyên ngành kinh tế
+-nạn nhân mãn
+-quá đông dân
+-tình trạng dân số quá đông
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thai kỳ
+-dân số quá đông
+@Lĩnh vực: cơ khí & công trình
+-sự đông dân quá
+@Lĩnh vực: xây dựng
+-sự quá đông dân
+

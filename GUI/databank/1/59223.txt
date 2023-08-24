@@ -1,3 +1,18 @@
-underlining	@Chuyên ngành kinh tế
--nhấn mạnh
--sự gạch dưới
+negation
+	
+*  danh từ
+- sự phủ định, sự phủ nhận
+- sự cự tuyệt, sự từ chối
+- sự phản đối
+- sự không tồn tại
+- vật không có
+- cái tiêu cực
+@Chuyên ngành kỹ thuật
+-phủ định
+-sự phủ định
+-sự từ chối
+@Lĩnh vực: toán & tin
+-phép đảo
+-phép phủ định
+-phép toán Not
+

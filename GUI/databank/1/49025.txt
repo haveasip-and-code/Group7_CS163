@@ -1,2 +1,11 @@
-schematize	@schematize
-- xem schematise
+braces
+	
+- (Tech) dấu ngoặc ôm
+@Chuyên ngành kỹ thuật
+-dấu ngoặc
+-dấu ôm ({})
+@Lĩnh vực: xây dựng
+-các thanh chống
+@Lĩnh vực: toán & tin
+-dấu ngoặc ({})
+

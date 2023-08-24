@@ -1,20 +1,17 @@
-keyway	@Chuyên ngành kỹ thuật
--làm khớp
--lõi đập
--mối ghép mộng
--rãnh chữ V
--rãnh khóa
-@Lĩnh vực: xây dựng
--đường nối rãnh đan xen
-@Lĩnh vực: hóa học & vật liệu
--khe vào
+dental
+	
+*  danh từ
+- (thuộc) răng
+=dental work
++ công việc chữa răng
+=a dental sound
++ âm răng
+*  danh từ
+- (ngôn ngữ học) âm răng
 @Chuyên ngành kỹ thuật
--làm khớp
--lõi đập
--mối ghép mộng
--rãnh chữ V
--rãnh khóa
+-răng
+@Lĩnh vực: cơ khí & công trình
+-mố tiêu năng
 @Lĩnh vực: xây dựng
--đường nối rãnh đan xen
-@Lĩnh vực: hóa học & vật liệu
--khe vào
+-răng (về)
+

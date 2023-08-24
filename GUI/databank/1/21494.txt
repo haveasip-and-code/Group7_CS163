@@ -1,7 +1,8 @@
-floodlighting	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--sự chiếu rọi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--sự chiếu rọi
+perplex
+	
+*  ngoại động từ
+- làm lúng túng, làm bối rối
+=to perplex someone with questions
++ đưa ra những câu hỏi làm ai lúng túng
+- làm phức tạp, làm rắc rối, làm khó hiểu (một vấn đề...)
+

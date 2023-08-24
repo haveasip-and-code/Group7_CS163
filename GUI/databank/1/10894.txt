@@ -1,4 +1,8 @@
-conchoids	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--conchoit
+pluralize
+	
+*  ngoại động từ
+- biến thành số nhiều
+- diễn tả ở số nhiều
+*  nội động từ
+- (tôn giáo) có nhiều lộc thánh
+

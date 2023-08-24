@@ -1,14 +1,4 @@
-classifier	
-@classifier
-* danh từ
-- người phân loại
-@Chuyên ngành kinh tế
--máy chia hạng
--máy phân loại
-@Chuyên ngành kỹ thuật
--người phân loại
--máy phân loại
-@Lĩnh vực: cơ khí & công trình
--máy phân cấp
-@Lĩnh vực: xây dựng
--thiết bị, phân loại
+perikarya
+	
+- xem perikaryon
+

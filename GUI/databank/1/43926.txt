@@ -1,6 +1,10 @@
-prohibited	@Chuyên ngành kỹ thuật
--bị cấm
-@Lĩnh vực: điện lạnh
--bị cản
-@Lĩnh vực: toán & tin
--cấm, ngăn cấm
+bituminous
+	
+*  tính từ
+- có nhựa rải đường, có bitum
+@Chuyên ngành kỹ thuật
+-bitum
+-sơn bitum
+@Lĩnh vực: cơ khí & công trình
+-có bitum
+

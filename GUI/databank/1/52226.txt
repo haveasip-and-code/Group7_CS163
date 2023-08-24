@@ -1,24 +1,5 @@
-speck	@speck /spek/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ), (Nam phi) thịt mỡ
-- mỡ (chó biển, cá voi)
-- dấu, vết, đốm
-- hạt (bụi...)
-- chỗ (quả) bị thối
-*  ngoại động từ
-- làm lốm đốm
-@Chuyên ngành kinh tế
--bơ
--chấm nhỏ
--điểm
--mỡ
--phần tử lọt sàng
--tấm
-@Chuyên ngành kỹ thuật
--điểm chấm lốm đốm
--đốm
--hạt bụi
--vết
--vệt
-@Lĩnh vực: toán & tin
--vết bẩn lốm đốm
+scurrile
+	
+* tính từ
+- (từ cổ, nghĩa cổ) xem scurrilous
+

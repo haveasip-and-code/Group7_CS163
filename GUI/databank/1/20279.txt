@@ -1,44 +1,8 @@
-fade	
-@fade /'feid/
-*  nội động từ
-- héo đi, tàn đi (cây)
-- nhạt đi, phai đi (màu)
-- mất dần, mờ dần, biến dần
-*  ngoại động từ
-- làm phai màu, làm bạc màu
-- (điện ảnh) truyền hình=to fade in
-+ đưa (cảnh, âm thanh) vào dần=to fade out
-+ làm (ảnh) mờ dần
-- tăng (âm) thành không rõ nữa; giảm (âm) thành không rõ
+vacuolar
+	
+* tính từ
+- thuộc không bào, thuộc hốc nhỏ
 @Chuyên ngành kỹ thuật
--làm mất màu
--làm phai màu
--làm phai tàn
--phai
--phải
--phai màu
--sự phai màu
-@Lĩnh vực: dệt may
--mất màu
-@Lĩnh vực: xây dựng
--mòn dần
-@Lĩnh vực: ô tô
--sự mất phanh
-@Lĩnh vực: toán & tin
--sự tàn lụi
-@Chuyên ngành kỹ thuật
--làm mất màu
--làm phai màu
--làm phai tàn
--phai
--phải
--phai màu
--sự phai màu
-@Lĩnh vực: dệt may
--mất màu
-@Lĩnh vực: xây dựng
--mòn dần
-@Lĩnh vực: ô tô
--sự mất phanh
-@Lĩnh vực: toán & tin
--sự tàn lụi
+@Lĩnh vực: y học
+-thuộc không bào
+

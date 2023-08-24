@@ -1,4 +1,33 @@
-fakir	
-@fakir /fɑ:kiə/ (faquir) /'fɑ:kiə/
-*  danh từ
-- Fakia, thầy tu khổ hạnh
+nominal
+	
+*  tính từ
+- (thuộc) tên; danh
+=nominal list
++ danh sách
+- chỉ có tên; danh nghĩa; hư
+=nominal head of state
++ quốc trưởng danh nghĩa
+=nominal authority
++ hư quyền
+- nhỏ bé không đáng kể
+=nominal price
++ giá không đáng kể, giá rất thấp (so với giá thực)
+=nominal error
++ sự sai sót không đáng kể
+- (ngôn ngữ học) danh từ, như danh từ, giống danh t
+@Chuyên ngành kinh tế
+-trên danh nghĩa
+-trên phiếu
+@Chuyên ngành kỹ thuật
+-danh định
+-ghi
+-quy định (giá)
+-tên
+@Lĩnh vực: xây dựng
+-danh nghĩa
+-trên danh nghĩa
+@Lĩnh vực: hóa học & vật liệu
+-đặt tên
+@Lĩnh vực: toán & tin
+-thuộc (tên)
+

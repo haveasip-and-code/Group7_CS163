@@ -1,12 +1,28 @@
-metropolitan	@metropolitan /,metrə'pɔlitən/
-*  tính từ
-- (thuộc) thủ đô; có tính chất thủ đô
-- (thuộc) trung tâm, có tính chất trung tâm (văn hoá, chính trị...)
-- (thuộc) nước mẹ, (thuộc) mẫu quốc
-- (tôn giáo) (thuộc) thủ đô giáo khu
-*  danh từ
-- người dân thủ đô
-- người dân mẫu quốc
-- (tôn giáo) Tổng giám mục
+approve
+	
+*  ngoại động từ
+- tán thành, đồng ý, bằng lòng, chấp thuận
+- xác nhận, phê chuẩn, chuẩn y
+- chứng tỏ, tỏ ra, chứng minh
+=to approve one's valour
++ chứng tỏ lòng can đảm
+=he approved himself to be a good pianist
++ anh ta tỏ ra là một người chơi pianô giỏi
+*  nội động từ
+- approve of tán thành, đồng ý, bằng lòng, chấp thuận
+=to approve of the proposal
++ tán thành đề nghị
+@Chuyên ngành kinh tế
+-chuẩn y
+-phê chuẩn
+-xác nhận
+-xét cho
 @Chuyên ngành kỹ thuật
--đô thị
+-chuẩn y
+-chứng tỏ
+-phê chuẩn
+-thừa nhận
+@Lĩnh vực: xây dựng
+-duyệt y
+-tán thành
+

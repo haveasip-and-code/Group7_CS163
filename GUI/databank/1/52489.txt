@@ -1,22 +1,4 @@
-spirt	@spirt /spə:t/
-*  danh từ
-- sự phun ra, sự vọt ra
-- tia (nước phun)
-*  ngoại động từ
-- làm phun ra, sự vọt ra
-*  nội động từ
-- phun ra, vọt ra
-@Chuyên ngành kỹ thuật
--dòng
--luồng
--phun
--phun ra
--phụt
--sự phun ra
--tia
-@Lĩnh vực: xây dựng
--sự vọt ra
--tia phun
--vọt ra
-@Lĩnh vực: hóa học & vật liệu
--toé ra
+postmastership
+	
+- xem postmaster
+

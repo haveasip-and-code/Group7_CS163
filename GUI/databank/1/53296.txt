@@ -1,7 +1,11 @@
-stet	@stet /stet/
-*  ngoại động từ
-- (ngành in) giữ nguyên chữ cũ
-- viết ký hiệu "giữ nguyên như cũ"
-- bỏ chữ chữa, xoá chữ chữa
-@Chuyên ngành kinh tế
--giữ lại (không bỏ) theo như cũ (vì chữa nhầm)
+predisposition
+	
+*  danh từ
+- tình trạng dễ thiên về, khuynh hướng thiên về
+=a predisposition to find fault
++ khuynh hướng thiên về việc bắt bẻ tồi
+- (y học) tố bẩm (dễ mắc bệnh gì)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bẩm chất
+

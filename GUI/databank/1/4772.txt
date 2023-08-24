@@ -1,16 +1,6 @@
-barrack	
-@barrack /'bærək/
-*  danh từ
-- ((thường) số nhiều) trại lính, doanh trại
-- nơi ở tập trung đông người
-- nhà kho xấu xí
-*  ngoại động từ
-- (quân sự) để ở trong trại, cho ở trong trại
-- (thơ ca) thổi còi, huýt sáo, la ó (chê một đấu thủ)
-@Chuyên ngành kỹ thuật
--quán ván
-@Lĩnh vực: xây dựng
--nhà chung cư
--nhà gỗ
--nhà gỗ tạm
--trại lính
+synapses
+	
+*  danh từ,  số nhiều synapses
+- (sinh vật học) kỳ tiếp hợp (trong phân chia tế bào)
+- (như) synapse
+

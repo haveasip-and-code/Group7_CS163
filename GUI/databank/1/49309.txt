@@ -1,10 +1,8 @@
-scrubbing	@Chuyên ngành kinh tế
--sự làm sạch
--sự rửa
+physiotherapist
+	
+* danh từ
+- nhà vật lý trị liệu <thgt>
 @Chuyên ngành kỹ thuật
--sự làm sạch
--sự rửa
--sự rửa khí
--sự rửa khí (phương pháp làm sạch khí)
-@Lĩnh vực: môi trường
--sự tẩy rửa (xử lý nguyên liệu)
+@Lĩnh vực: y học
+-bác sĩ điều trị vật lý
+

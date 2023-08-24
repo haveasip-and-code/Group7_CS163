@@ -1,10 +1,13 @@
-breakaway	
-@breakaway
-* danh từ
-- <chtrị> sự ly khai
+scalene
+	
+*  tính từ
+- (toán học) lệch
+=scalene triangle
++ tam giác lệch
+=scalene muscle
++ cơ bậc thang
 @Chuyên ngành kỹ thuật
--sự đứt đoạn
--sự phá hủy
-@Lĩnh vực: cơ khí & công trình
--sự đứt rời
--thiết bị phá hủy
+-không cân
+-không đều cạnh
+-lệch
+

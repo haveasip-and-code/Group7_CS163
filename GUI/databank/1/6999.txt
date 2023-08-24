@@ -1,13 +1,6 @@
-bucker	
-@bucker
-- xem buck
-@Chuyên ngành kinh tế
--máy nghiền
--máy tán
-@Chuyên ngành kỹ thuật
--búa nghiền
-@Lĩnh vực: hóa học & vật liệu
--búa nghiền quặng
--công nhân nghiền quặng
-@Lĩnh vực: cơ khí & công trình
--thợ nghiền
+representer
+	
+* danh từ
+- người đại biểu
+- người kiến nghị, người đề nghị
+

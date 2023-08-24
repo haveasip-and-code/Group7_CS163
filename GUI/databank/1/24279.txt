@@ -1,3 +1,37 @@
-griever	
-@griever
-- xem grieve
+vehicle
+	
+*  danh từ
+- xe, xe cộ
+=to travel by a vehicle
++ đi du lịch bằng xe
+- (nghĩa bóng) vật truyền, phương tiện truyền bá
+=to use the press as a vehicle for one's political opinions
++ dùng báo chí làm phương tiện truyền bá chính kiến của mình
+- (dược học) tá dược lỏng
+*  ngoại động từ
+- chuyển chở bằng xe
+@Chuyên ngành kinh tế
+-phương tiện vận chuyển
+-vật truyền
+@Chuyên ngành kỹ thuật
+-chất dính kết
+-chất màu
+-chất pha
+-dung môi
+-phương tiện
+-phương tiện giao thông
+-tàu
+-vật mang
+@Lĩnh vực: y học
+-chất dẫn thuốc trong dược khoa
+@Lĩnh vực: điện lạnh
+-phần tử mang
+@Lĩnh vực: xây dựng
+-phương tiện giao thông (ô tô, tàu, xe...)
+@Lĩnh vực: điện
+-phương tiện truyền tải
+@Lĩnh vực: giao thông & vận tải
+-phương tiện vận tải
+@Lĩnh vực: ô tô
+-xe cộ
+

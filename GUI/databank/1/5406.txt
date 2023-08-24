@@ -1,5 +1,29 @@
-bias	
-@bias
-- (thống kê) độ chênh lệch, sai số hệ thống rời, dịch chuyển
-- downwarrd b. (thống kê) chệch xuống dưới, chệch thấp đi
-- grid b. sự dịch chuyển lưới
+calling
+	
+*  danh từ
+- xu hướng, khuynh hướng (mà mình cho là đúng)
+- nghề nghiệp; tập thể những người cùng nghề
+- sự gọi
+- sự đến thăm
+!calling card
+- (xem) card
+!calling hours
+- giờ đến thăm
+!a calling out
+- tiếng gọi thất vọng, tiếng kêu cứu
+!a calling together
+- sự triệu tập
+@Chuyên ngành kinh tế
+-ghé cảng (của tàu bè)
+-nghề
+-nghề nghiệp
+-sự đến thăm
+-sự dừng bến
+-sự kêu gọi
+-sự triệu tập
+-thăm viếng
+-thiên chức
+@Chuyên ngành kỹ thuật
+-gọi
+-sự gọi
+

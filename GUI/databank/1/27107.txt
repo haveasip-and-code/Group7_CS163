@@ -1,3 +1,7 @@
-illustrations	
-@Chuyên ngành kỹ thuật
--minh họa
+subarea
+	
+@Lĩnh vực: điện tử & viễn thông
+-tiểu vùng
+@Lĩnh vực: toán & tin
+-vùng phụ, vùng con
+

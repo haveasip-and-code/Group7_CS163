@@ -1,11 +1,76 @@
-unexpected	@unexpected /'ʌniks'pektid/
-*  tính từ
-- không mong đợi, không ngờ, thình lình
-=an unexpected piece of luck+ một sự may mắn không ngờ
+switch
+	
 *  danh từ
-- điều không ngờ
-=it is the unexpected that happens+ chính điều không ngờ lại xảy ra
+- cành cây mềm; gậy mềm
+- mớ tóc độn, lọc tóc độn
+- (ngành đường sắt) cái ghi
+- (kỹ thuật) cái ngắt, cái ngắt điện, cái chuyển mạch; cái đổi
+=push
+-button switch
++ nút ngắt điện
+=antenna switch
++ cái chuyển mạch anten
+=wave
+-length switch
++ cái đổi bước sóng
+*  ngoại động từ
+- đánh bằng gậy, quật bằng gậy
+- ve vẩy
+=cow switches her tail
++ con bò ve vẩy cái đuôi
+- xoay nhanh, quay
+=to switch one's head round
++ quay ngoắt đầu lại
+- (ngành đường sắt) bẻ ghi chuyển (xe lửa) sang đường khác
+- chuyển (câu chuyện, ý nghĩ...)
+- cho (ngựa) dự thi với một tên khác
+*  nội động từ
+- (đánh bài) chuyển sang xướng một hoa khác
+!to switch off
+- cắt
+=to switch somebody off
++ cắt ai đang nói dây nói
+- tắt (đèn,  rađiô)
+=to switch off the light
++ tắt đèn
+!to switch on
+- cắm
+=to switch somebody on to another
++ cắm cho ai nói dây nói với một người khác
+- bật
+=to switch on the light
++ bật đèn
+@Chuyên ngành kinh tế
+-buôn bán sang tay
 @Chuyên ngành kỹ thuật
--bất ngờ
+-bộ cắt mạch
+-bộ chuyển
+-bộ chuyển mạch
+-bộ ngắt dòng
+-công tác
+-lưỡi ghi
+-ly hợp
+-ngắt
+-máy cắt mạch
+-thiết bị chuyển mạch
+-thiết bị ngắt
+-thiết bị ngắt mạch
+@Lĩnh vực: giao thông & vận tải
+-bẻ ghi
+-dồn toa
+-ghi rẽ
+@Lĩnh vực: cơ khí & công trình
+-bộ ly hợp
+@Lĩnh vực: xây dựng
+-cái ghi đường sắt
+-ghi tàu
+-máy cắt (điện)
 @Lĩnh vực: điện lạnh
--không chờ đợi
+-cầu dao điện
+@Lĩnh vực: toán & tin
+-chuyển
+-chuyển đổi
+-khóa chuyển đổi
+-máy chuyển
+-phần chuyển đảo
+

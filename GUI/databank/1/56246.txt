@@ -1,14 +1,5 @@
-theme	@theme /θi:m/
-*  danh từ
-- đề tài, chủ đề
-=the theme of a speech+ đề tài bài nói
--(ngôn ngữ nhà trường) luận văn, bài luận
-- (ngôn ngữ học) chủ tố
-- rađiô bài hát dạo, khúc nhạc hiệu ((thường) nhắc đi nhắc lại ở trên đài mỗi khi đến một buổi phát thanh nào đó) ((như) theme_song)
-@Chuyên ngành kinh tế
--chủ đề
--đề tài
--đề tài, chủ đề
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--chủ đề
+reedit
+	
+* ngoại động từ
+- tái bản (một tác phẩm)
+

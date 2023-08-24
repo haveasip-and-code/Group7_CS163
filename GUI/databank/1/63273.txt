@@ -1,15 +1,10 @@
-workshop	@workshop /'wə:kʃɔp/
-*  danh từ
-- xưởng
-@Chuyên ngành kinh tế
--phân xưởng
--xưởng
+purger
+	
+- xem purge
 @Chuyên ngành kỹ thuật
--cuộc hội thảo
--nhà máy
--xưởng
--xưởng máy
--xưởng sửa chữa
+-máy làm sạch
+-máy lọc
+-máy tách
 @Lĩnh vực: xây dựng
--nhà xưởng
--nơi chuẩn bị
+-vòi tháo rửa
+

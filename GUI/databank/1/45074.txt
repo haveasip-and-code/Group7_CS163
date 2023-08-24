@@ -1,22 +1,4 @@
-quantum	@quantum /'kwɔntəm/
-*  danh từ,  số nhiều quanta
-- phần, mức, ngạch; lượng, định lượng
-=to fix the quantum of damages+ định mức thường thiệt hại
-=to have one's quantum of+ đã được dự phần, đã được hưởng phần
-- (vật lý) lượng tử
-=light quantum+ lượng tử ánh sáng
-=energy quantum+ lượng tử năng lượng
-- (định ngữ) (vật lý) (thuộc) lượng tử
-=quantum theory+ thuyết lượng tử
-=quantum effect+ hiệu ứng lượng tử
-@Chuyên ngành kinh tế
--định lượng
--lượng
--lượng (bằng tiền)
--ngạch
--số lượng
--số xác định cụ thể
-@Chuyên ngành kỹ thuật
--lượng tử
-@Lĩnh vực: toán & tin
--phần, lô
+josher
+	
+- xem josh
+

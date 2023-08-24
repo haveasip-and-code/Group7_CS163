@@ -1,18 +1,5 @@
-inform	
-@inform /in'fɔ:m/
-*  ngoại động từ
-- báo tin cho; cho biết
-- truyền cho (ai...) (tình cảm, đức tính...)=to inform someone with the thriftiness
-+ truyền cho ai tính tiết kiệm
-*  nội động từ
-- cung cấp tin tức
-- cung cấp tài liệu (để buộc tội cho ai)
-@Chuyên ngành kinh tế
--luồng vàng đổ vào
-@Chuyên ngành kỹ thuật
--báo
--thông báo
--thông tin
--truyền dữ liệu
-@Lĩnh vực: toán & tin
--truyền dữ kiện
+medicolegal
+	
+* tính từ
+- pháp y
+

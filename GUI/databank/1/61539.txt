@@ -1,31 +1,5 @@
-verification	@verification /,verifi'keiʃn/
-*  danh từ
-- sự thẩm tra
-- sự xác minh
-@Chuyên ngành kinh tế
--giám định
--kiểm chứng
--kiểm nghiệm
--kiểm tra
--sự thẩm tra
--thẩm định
--xác minh
-@Chuyên ngành kỹ thuật
--kiểm tra
--sự cảm biến
--sự chứng nhận
--sự hiệu chuẩn
--sự kiểm chứng
--sự kiểm nghiệm
--sự kiểm tra
--sự kiểm trứng
--sự thử nghiệm
--sự xác minh
--sự xác nhận
--tính phù hợp
-@Lĩnh vực: toán & tin
--phép thử lại
-@Lĩnh vực: điện lạnh
--sự nghiệm lại
-@Lĩnh vực: điện
--sự soát lại
+shipwrecked
+	
+@Lĩnh vực: giao thông & vận tải
+-bị đắm tàu
+

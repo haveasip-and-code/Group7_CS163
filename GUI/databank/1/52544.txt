@@ -1,13 +1,10 @@
-splint	@splint /splint/
+legate
+	
 *  danh từ
-- thanh nẹp
-- (thú y học) xương ngón treo (xương ngón II và IV đã teo nhỏ ở hai bên ngón chân ngựa)
-- bướu xương ngón treo (ngựa)
-- (giải phẫu) (như) splinter-bone
+- giáo sĩ đại diện giáo hoàng
+- (từ cổ,nghĩa cổ) đại sứ; người đại diện
 *  ngoại động từ
-- bó (xương gãy) bằng nẹp
-@Chuyên ngành kỹ thuật
--chốt chẻ
--mặt tiếp giáp
--phoi
--thanh nẹp
+- để lại, truyền cho
+@Chuyên ngành kinh tế
+-di tặng
+

@@ -1,10 +1,10 @@
-workbook	@workbook
-* danh từ
-- sách bài tập
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sách làm việc
-@Lĩnh vực: toán & tin
--sổ làm việc
-@Lĩnh vực: điện tử & viễn thông
--tập tác nghiệp
+unfermented
+	
+*  tính từ
+- không có men
+=unfermented bread
++ bánh mì không có men
+- chưa lên men, không lên men, không chua, chưa trở
+=unfermented liquor
++ rượu chưa chua
+

@@ -1,26 +1,58 @@
-blooming	
-@blooming /'blu:miɳ/
-*  tính từ
-- đang nở hoa
-- tươi đẹp, tươi như hoa nở; đang ở thời kỳ rực rỡ, đang ở thời kỳ tươi đẹp nhất=a blooming beauty
-+ sắc đẹp đang thì
-- (thông tục) quá, quá đỗi, quá chừng, hết sức=a blooming food
-+ một thằng ngu hết sức
+splice
+	
 *  danh từ
-- (kỹ thuật) sự đúc (sắt thép) thành thỏi
+- chỗ nối bện (hai đầu dây)
+- chỗ ghép; sự ghép (hai mảnh gỗ)
+!to sit on the splice
+- (thể dục,thể thao),  (từ lóng) chơi thế thủ, giữ thế thủ (crickê)
+*  ngoại động từ
+- nối bện (nối hai đầu dây, bằng cách bệnh sợi với nhau)
+- ghép (hai mảnh gỗ)
+- (thông tục) lấy vợ, lấy chồng, lấy nhau
+=when did they get spliced?
++ họ lấy nhau bao giờ?
+!to splice the main brace
+- (hàng hải) phát thêm rượu rum (cho thuỷ thủ)
 @Chuyên ngành kỹ thuật
--máy cán thô
--phân xưởng cán thô
--sự bạc màu
--sự làm mờ
+-bện
+-bộ ghép
+-bộ nối
+-chỗ ghép
+-chỗ nối
+-đầu nối
+-điểm dán
+-đối đầu
+-gắn
+-ghép
+-ghép nối
+-kết hợp
+-nối
+-nối bện, nối ghép
+-nối dài
+-nối đối đầu
+-nối ghép
+-mối ghép
+-mối liên kết
+-mối nối
+-mối nối đối đầu
+-sự bện
+-sự ghép nối
+-sự nối
+-sự nối chồng
+-tấm nối
+-tiêu
 @Lĩnh vực: điện
--cán thô cho phép
--sự nhòe
-@Lĩnh vực: hóa học & vật liệu
--sự cán phá
-@Lĩnh vực: toán & tin
--sự làm nhòe
-@Lĩnh vực: vật lý
--sự mờ hình ảnh
-@Lĩnh vực: điện lạnh
--sự phủ màng
+-bộ nối đối đầu
+-mối nối dây
+@Lĩnh vực: giao thông & vận tải
+-chỗ chập đầu (cáp)
+-chỗ dán
+-nối chập đầu
+-mối nối đầu
+@Lĩnh vực: xây dựng
+-nối bện
+-nối dài ra
+-nối liên kết
+-sự nối bện (thừng)
+-tăng (cường)
+

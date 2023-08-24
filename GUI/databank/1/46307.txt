@@ -1,18 +1,29 @@
-reflex	@reflex
-* danh từ
-- ánh sáng phản chiếu; vật phản chiếu, bóng phản chiếu trong gương
-- tiếng dội lại
-- <lý> sự phản xạ
-- <sinh><y> phản xạ
-- sự phản ánh
-* tính từ
-- nhìn sâu vào nội tâm; soi rọi lại bản thân (ý nghĩ)
-- phản chiếu (ánh sáng)
-- phản ứng, tác động trở lại
-- phản xạ
+navigation
+	
+*  danh từ
+- nghề hàng hải, sự đi biển, sự đi sông
+=aerial navigation
++ hàng không
+=inland navigation
++ sự đi lại bằng đường sông lạch
+- tàu bè qua lại
+=navigation on the Red river
++ số tàu bè qua lại trên sông Hồng
+@Chuyên ngành kinh tế
+-hàng hàng
+-hàng không
+-hàng vận
+-khoa hàng hải
 @Chuyên ngành kỹ thuật
--phản chiếu
--phản ứng
--phản xạ
-@Lĩnh vực: toán & tin
--phản xạ, tạo ảnh
+-điều hướng
+-ngành hàng hải
+-ngành lái tàu
+-nghề hàng hải
+-môn dẫn đường
+-sự đạo hàng
+-sự định vị
+@Lĩnh vực: xây dựng
+-sự bay
+@Lĩnh vực: cơ khí & công trình
+-sự điều hướng
+

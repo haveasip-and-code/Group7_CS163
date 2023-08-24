@@ -1,18 +1,15 @@
-rammer	@rammer /'ræmə/
-*  danh từ
-- cái đầm nện (đất...)
-- búa đóng cọc
-- que nhồi thuốc (súng hoả mai)
-- cái thông nòng (súng)
-@Chuyên ngành kỹ thuật
--búa
--búa đầm
--búa đóng cọc
--đầu búa
-@Lĩnh vực: xây dựng
--búa rầm
--máy chèn tà vẹt
--máy lén tà vẹt
--sự rầm
-@Lĩnh vực: cơ khí & công trình
--cái đầm
+overlaying
+	
+-lớp lát
+-lớp mặt
+-lớp phủ
+-màng bảo vệ
+-màng bọc
+-phủ hình
+-phủ nhau
+-sự chồng hình
+-sự phủ chờm
+-xếp chồng
+@Lĩnh vực: toán & tin
+-màng phủ thủy tinh
+

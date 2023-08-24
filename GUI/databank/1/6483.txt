@@ -1,11 +1,12 @@
-boutique	
-@boutique
-* danh từ
-- cửa hàng nhỏ bán quần áo và các mặt hàng mới ra
-@Chuyên ngành kinh tế
--chủ hiệu
--cửa hàng
--cửa hiệu
--cửa hiệu nhỏ
--cửa tiệm
--hiệu quảng cáo
+inanimate
+	
+*  tính từ
+- vô sinh; không có sinh khí; vô tri vô giác
+=inanimate matter
++ chất vô sinh
+- nhạt nhẽo, buồn tẻ, thiếu hoạt động
+=an inanimate conversation
++ cuộc nói chuyện nhạt nhẽo
+=an inanimate look
++ vẻ mặt buồn tẻ
+

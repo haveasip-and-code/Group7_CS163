@@ -1,14 +1,7 @@
-buzzer	
-@buzzer /'bʌzə/
+requital
+	
 *  danh từ
-- còi (nhà máy...)
-- (điện học) máy con ve
-- (quân sự),  (từ lóng) người thông tin liên lạc
-@Chuyên ngành kỹ thuật
--máy con ve
--máy rung âm
-@Lĩnh vực: xây dựng
--kèn chuông
--máy con ve (điện)
-@Lĩnh vực: toán & tin
--kèn chuông (điện)
+- sự đền bù, sự đền đáp; sự trả ơn, sự báo ơn
+- sự trả thù, sự báo thù, sự báo oán
+- sự thưởng
+

@@ -1,7 +1,18 @@
-cyan	
-@cyan
-- (Tech) mầu xanh lá mạ
+whitening
+	
+*  danh từ
+- sự chuội, sự tẩy trắng, sự làm cho trắng
+- (kỹ thuật) sự mạ thiếc (kim loại)
+- vôi bột trắng (để quét tường)
 @Chuyên ngành kỹ thuật
--xanh ngọc
-@Lĩnh vực: toán & tin
--xanh da trời
+-dung dịch vôi
+-nước vôi
+-sự làm trắng
+-sự quét trắng
+@Lĩnh vực: hóa học & vật liệu
+-phấn bột trắng
+@Lĩnh vực: xây dựng
+-quét vôi
+-sự quét (màu) trắng
+-vôi quét tường
+

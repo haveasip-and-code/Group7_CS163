@@ -1,16 +1,9 @@
-obliquity	@obliquity /ə'blikwiti/
-*  danh từ
-- sự xiên, sự chéo, sự chếch
-- độ xiên
-- tính cạnh khoé, tính quanh co, tính không thẳng thắn
-@Chuyên ngành kỹ thuật
--độ nghiêng
--góc nghiêng
--hướng nghiêng
--mặt nghiêng
-@Lĩnh vực: xây dựng
--chiều xiên
--phương nghiêng
--vị trí nghiêng
-@Lĩnh vực: y học
--tình trạng lệch
+gagger
+	
+* danh từ
+- cái mốc (thợ khuôn)
+- con mã (đúc)
+- thợ dập khuôn
+- người bịt miệng người khác
+- người kiềm chế ngôn luận
+

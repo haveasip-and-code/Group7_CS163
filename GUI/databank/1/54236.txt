@@ -1,19 +1,5 @@
-substitution	@substitution /,sʌbsti'tju:ʃn/
-*  danh từ
-- sự thế, sự thay thế
-- sự đổi
-@Chuyên ngành kinh tế
--sự thay thế
--thay thế
-@Chuyên ngành kỹ thuật
--chuyển đổi
--sự thay thế
--thay chỗ
--thay thế
-@Lĩnh vực: điện tử & viễn thông
--phép thay thế
-@Lĩnh vực: toán & tin
--phép thế
--phép thế, sự thế
-@Lĩnh vực: xây dựng
--sự được thay thế
+lepidopteran
+	
+* danh từ
+- sâu bọ cánh vảy; sâu bọ cánh phấn
+

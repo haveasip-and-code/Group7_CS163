@@ -1,3 +1,34 @@
-wardroom	@wardroom
-* danh từ
-- chỗ trên một tàu chiến, nơi tất cả các sự quan có phận sự, ăn và ở; trừ sự quan chỉ huy, phòng ăn ở tập thể
+embedded
+	
+- được nhúng
+@Chuyên ngành kỹ thuật
+-được đặt vào
+-được gắn vào
+-được nhúng
+-xen vỉa
+@Lĩnh vực: cơ khí & công trình
+-bị ấn lõm
+@Lĩnh vực: hóa học & vật liệu
+-bị gắn vào
+@Lĩnh vực: xây dựng
+-dạng tầng
+-dạng vỉa
+@Lĩnh vực: toán & tin
+-được lồng
+-được lồng vào
+@Chuyên ngành kỹ thuật
+-được đặt vào
+-được gắn vào
+-được nhúng
+-xen vỉa
+@Lĩnh vực: cơ khí & công trình
+-bị ấn lõm
+@Lĩnh vực: hóa học & vật liệu
+-bị gắn vào
+@Lĩnh vực: xây dựng
+-dạng tầng
+-dạng vỉa
+@Lĩnh vực: toán & tin
+-được lồng
+-được lồng vào
+

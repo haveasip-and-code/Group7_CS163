@@ -1,9 +1,5 @@
-demodulate	
-@demodulate
-- (Tech) hoàn điệu
-@Chuyên ngành kỹ thuật
--giải điều
--giải điều biến
--hoàn điệu
-@Lĩnh vực: toán & tin
--giải điều chế
+bridgeless
+	
+* tính từ
+- không có cầu
+

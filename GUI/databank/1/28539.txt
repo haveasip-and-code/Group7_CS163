@@ -1,14 +1,5 @@
-information	
-@information
-- (điều khiển học) thông tin, tin tức
-- alphanumerical i. thông tin chữ số
-- ancillary i. thông tin bổ sung
-- average i. thông tin trung bình
-- interblock i. thông tin giữa các khối
-- intrablock i. thông tin trong khối
-- precise i. thông tin chính xác
-- processed i. thông tin đã chế biến
-- redundanti i. thông tin thừa
-- supplemental i. (thống kê) thông tin phụ
-- within
--block i. thông tin trong khối
+rhizobium
+	
+* danh từ
+- vi khuẩn nốt rễ
+

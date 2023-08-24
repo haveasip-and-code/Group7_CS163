@@ -1,12 +1,31 @@
-sparge	@sparge
-* nội động từ
-- vảy nước, rảy nước
+closing
+	
+*  danh từ
+- sự kết thúc, sự đóng
+*  tính từ
+- kết thúc, cuối cùng
+=closing speech
++ bài nói kết thúc
 @Chuyên ngành kinh tế
--phun
--rửa cặn bia (trong thùng lọc)
--sự phun
--sự rửa cặn bia
--sự tưới
--tưới
+-bao gói
+-đóng (cửa)
+-khóa (sổ)
+-sự đóng
+-sự kết thúc
 @Chuyên ngành kỹ thuật
--phun
+-đóng
+-kết thúc
+-khép
+-sai số khép
+-sự đập
+-sự đóng
+-sự đóng kín
+-sự kết thúc
+@Lĩnh vực: cơ khí & công trình
+-sự làm khít
+@Lĩnh vực: xây dựng
+-sự sai lập
+@Lĩnh vực: điện
+-việc đóng
+-việc tiếp mạch
+

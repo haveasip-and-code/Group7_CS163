@@ -1,5 +1,7 @@
-lite	@lite
-- hình thái ghép tạo danh từ chỉ
-- khoáng sản: rhodolite rođolit
-- đá: aerolite thiên thạch
-- hoá thạch: ichnolite dấu chân hoá thạch
+micromethod
+	
+-phương pháp vi lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-phương pháp micro
+

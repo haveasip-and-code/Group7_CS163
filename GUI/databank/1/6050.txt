@@ -1,3 +1,11 @@
-blueline	
-@Chuyên ngành kỹ thuật
--lam tuyến
+throttling
+	
+-sự cản
+-sự chắn
+-sự điều chỉnh
+-sự tiết lưu
+@Lĩnh vực: đo lường & điều khiển
+-hoạt động điều chỉnh
+@Lĩnh vực: ô tô
+-sự giảm ga
+

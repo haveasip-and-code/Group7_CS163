@@ -1,7 +1,12 @@
-unprintable	@unprintable /'ʌn'printəbl/
-*  tính từ
-- không in được (vì quá tục tĩu)
-=an unprintable work+ một tác phẩm không in được (vì quá tục tĩu)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--không in được
+enlist
+	
+*  ngoại động từ
+- tuyển (quân)
+- tranh thủ, giành được (cảm tình, sự cộng tác...)
+=to enlist someone's sunport
++ tranh thủ được sự ủng hộ của ai
+*  nội động từ
+- tòng quân, đi làm nghĩa vụ quân sự
+- (từ Mỹ,nghĩa Mỹ) (
++ in) binh nhì ((viết tắt) EM)
+

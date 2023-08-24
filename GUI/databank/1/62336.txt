@@ -1,12 +1,15 @@
-walkway	@walkway
-* danh từ
-- đường dành cho người đi bộ
-@Chuyên ngành kỹ thuật
--bệ đi bộ
--đường đi bộ
--lối đi
--lối đi men
-@Lĩnh vực: xây dựng
--cầu ván (trên mái)
-@Lĩnh vực: giao thông & vận tải
--lối đi (qua đường) cho người đi bộ
+vile
+	
+*  tính từ
+- hèn hạ, đê hèn
+=vile language
++ giọng lưỡi hèn hạ
+=vile offence
++ sự xúc phạm đê hèn
+- tồi, kém, không có giá trị
+- (thông tục) thật là xấu, khó chịu
+=vile weather
++ thời tiết thật là xấu
+=a vile temper
++ tính tình khó chịu
+

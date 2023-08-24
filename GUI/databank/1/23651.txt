@@ -1,31 +1,4 @@
-gloss	
-@gloss /glɔs/
-*  danh từ
-- nước bóng, nước láng=to take the gloss off
-+ làm mất nước bóng, làm xỉn (vải...)
-- (nghĩa bóng) vẻ hào nhoáng bề ngoài; bề ngoài giả dối
-*  ngoại động từ
-- làm bóng, làm láng (vật gì)
-- (nghĩa bóng) ((thường) 
-+ over) khoác cho một cái mã ngoài; khoác cho một vẻ ngoài giả dối; che đậy=to gloss over one's errors
-+ che đậy sai lầm
-*  danh từ
-- lời chú thích, lời chú giải (giữa hai hàng chữ hoặc ở ngoài lề)
-- lời phê bình, lời phê phán
-- sự xuyên tạc lời nói của người khác
-*  động từ
-- chú thích, chú giải
-- phê bình, phê phán
-@Chuyên ngành kỹ thuật
--ánh
--đánh bóng
--độ bóng
--nước bóng
--nước láng
--mặt bóng
--sự bóng
--vécni đánh bóng
-@Lĩnh vực: xây dựng
--ánh bóng
-@Lĩnh vực: hóa học & vật liệu
--sự hồ vải
+deposit
+	
+- (toán kinh tế) gửi tiền (vào ngân hàng) // món tiền gửi
+

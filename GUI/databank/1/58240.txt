@@ -1,29 +1,9 @@
-turning	@turning /'tə:niɳ/
-*  danh từ
-- sự quay, sự xoay
-- sự đổi chiếu, sự đổi hướng
-- chỗ ngoặt, chỗ rẽ
-=take the first turning to the right+ hãy đi theo con đường rẽ đầu tiên về bên phải
-- sự tiện; nghề tiện
-@Chuyên ngành kinh tế
--sự đảo
--sự động đặc
--sự hóa chua
--sự tháo ra
--sự trộn
+subgraph
+	
+- đồ thị con; (tô pô) đồ thị hình con
 @Chuyên ngành kỹ thuật
--sự quay
--sự quẹo xe
--sự thay đổi
--sự tiện
-@Lĩnh vực: giao thông & vận tải
--chỗ rẽ (của xe cộ)
--sự đi vòng (đường)
--sự đổi hướng (của con đường)
--sự lượn vòng
--sự rẽ
-@Lĩnh vực: cơ khí & công trình
--rẽ hướng
-@Lĩnh vực: xây dựng
--sự quay (cần cẩu)
--sự tiện (ngoài)
+@Lĩnh vực: toán & tin
+-biểu đồ con
+-đồ hình con
+-đồ thị con
+

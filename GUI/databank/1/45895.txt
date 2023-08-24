@@ -1,8 +1,11 @@
-receipts	@Chuyên ngành kinh tế
--khoản thu
--số thu
--tiền thu được
+elastomer
+	
+* danh từ
+- chất đàn hồi
 @Chuyên ngành kỹ thuật
--giấy biên nhận
 @Lĩnh vực: hóa học & vật liệu
--số thu nhập
+-chất đàn hồi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-chất đàn hồi
+

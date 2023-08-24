@@ -1,8 +1,5 @@
-amenities	
-@Chuyên ngành kinh tế
--tiện nghi
-@Chuyên ngành kỹ thuật
--tiện nghi
-@Lĩnh vực: xây dựng
--qui hoạch lãnh thổ
--tiện nghi nội thất
+uninviting
+	
+*  tính từ
+- không hấp dẫn, không lôi cuốn; không ngon (món ăn)
+

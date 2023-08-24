@@ -1,6 +1,13 @@
-isotonic	
-@isotonic
-- bảo toàn thứ tự
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đồng nơtron
+mode
+	
+- phương thức, phương pháp; hình thức
+- m. of motion phương thức chuyển động
+- m. of operation phương pháp làm việc
+- m. of oscillation dạn dao động
+- m. of vibration dạng chấn động
+- floating control m. phương pháp điều chỉnh động
+- high
+-frequency m. (điều khiển học) chế độ cao tần
+- normal m. dao động riêng
+- transverse m. of vibration dạng chấn động ngang
+

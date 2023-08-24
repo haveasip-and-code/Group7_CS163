@@ -1,7 +1,11 @@
-claudication	
-@claudication
-* danh từ
-- tình trạng khập khiễng, tình trạng bị què
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--khập khiễng
+supertax
+	
+*  danh từ
+- thuế phụ
+- thuế siêu lợi tức
+@Chuyên ngành kinh tế
+-thuế đặc biệt
+-thuế phụ thu
+-thuế siêu ngạch
+-thuế thu nhập lũy tiến (thuế thu thêm theo mức thu nhập)
+

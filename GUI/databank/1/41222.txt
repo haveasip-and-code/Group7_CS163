@@ -1,9 +1,5 @@
-phosphor	@phosphor
-- phốt-pho
-@Chuyên ngành kỹ thuật
--chất huỳnh quang
-@Lĩnh vực: hóa học & vật liệu
--lân tinh
--lân tinh, phốt-pho
-@Lĩnh vực: vật lý
--phốt pho
+boustrophedon
+	
+* tính từ
+- theo lối đường cày (chữ viết)
+

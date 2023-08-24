@@ -1,8 +1,25 @@
-allayer	
-@allayer
-- xem allay
+realize
+	
+*  ngoại động từ
+- thực hiện, thực hành (kế hoạch hy vọng...)
+- thấy rõ, hiểu rõ, nhận thức rõ (việc gì...)
+- tả đúng như thật; hình dung (việc gì...) đúng như thật
+=these details help to realize the scene
++ những chi tiết ấy giúp cho việc mô tả cảnh đó đúng như thật
+- bán được, thu được
+=to realize high prices
++ bán được giá cao
+=to realize a profit
++ thu được lãi
+@Chuyên ngành kinh tế
+-bán (tài sản)
+-chuyển (tài sản) thành tiền mặt
+-hiện kim hóa (tích sản)
+-kiếm được (lợi nhuận)
+-thực hiện
+-thực hiện (kế hoạch)
 @Chuyên ngành kỹ thuật
--cái làm giảm
--cái làm nguội
+-thực hiện
 @Lĩnh vực: xây dựng
--thiết bị làm lắng
+-hiện thực hóa
+

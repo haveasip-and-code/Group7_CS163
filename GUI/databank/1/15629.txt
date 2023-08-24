@@ -1,4 +1,35 @@
-disarmament	
-@disarmament /dis'ɑ:məmənt/
+rotation
+	
 *  danh từ
-- sự giảm quân bị, sự giải trừ quân bị
+- sự quay, sự xoay vòng
+=the rotation of the earth
++ sự quay của quả đất
+- sự luân phiên
+=rotation of crops
++ luân canh
+=in (by) rotation
++ lần lượt, luân phiên nhau
+@Chuyên ngành kinh tế
+-sự luân canh
+-sự quay
+-sự xoay tròn
+@Chuyên ngành kỹ thuật
+-chỗ ngoặt
+-phép xoay
+-quay
+-sự quay
+-sự xoay
+-xoay
+@Lĩnh vực: xây dựng
+-chỗ quay
+-rôto của vectơ
+@Lĩnh vực: điện lạnh
+-phép quay
+@Lĩnh vực: toán & tin
+-phép quay, sự quay
+@Lĩnh vực: cơ khí & công trình
+-sự chuyển động quay
+-sự luân canh
+@Lĩnh vực: y học
+-sự quay, xoay
+

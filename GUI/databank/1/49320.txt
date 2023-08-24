@@ -1,14 +1,5 @@
-scruple	@scruple /'skru:pl/
-*  danh từ
-- sự đắn đo, sự ngại ngùng; tính quá thận trọng
-=man of no scruples+ người bừa bãi, người bất chấp luân thường đoạ lý
-- Xcrup (đơn vị trọng lượng khoảng 1, 3 g)
-- số lượng rất ít, số lượng không đáng kể)
-!to have scruples about doing something
-!to make scruple to do something
-- ngại ngùng không muốn làm việc gì
-!to make no scruple to do something
-- làm ngay việc gì không chút do dự ngại ngùng
-*  động từ
-- đắn đo, ngại ngùng, quá thận trọng
-=to scruple to do something+ ngại ngùng không muốn làm việc gì
+avowed
+	
+*  tính từ
+- đã được công khai thừa nhận; đã được công khai thú nhận
+

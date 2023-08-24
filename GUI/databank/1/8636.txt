@@ -1,5 +1,51 @@
-cesura	
-@cesura
-* danh từ
-- như caesura
-- (thơ ca) (âm nhạc) chỗ ngắt
+model
+	
+*  danh từ
+- kiểu, mẫu, mô hình
+=working model
++ mô hình máy chạy được
+- (nghĩa bóng) người làm gương, người gương mẫu
+=a model of industry
++ một người gương mẫu về đức tính cần cù
+- (thông tục) người giống hệt; vật giống hệt
+=a peefect model of someone
++ người giống hệt ai
+- người làm kiểu, vật làm kiểu (để vẽ, nặn tượng)
+- người đàn bà mặc quần áo mẫu (cho khách xem); quần áo mặc làm mẫu
+- vật mẫu
+*  tính từ
+- mẫu mực, gương mẫu
+=a model wife
++ người vợ mẫu mực
+*  động từ
+- làm mẫu, nặn kiểu, vẽ kiểu, làm mô hình, đắp khuôn
+=to model a man's head in clay
++ làm mô hình đầu người bằng đất sét
+- (
++ after,  on,  upon) làm theo, làm gương, bắt chước
+=to model oneself on sowmone
++ làm theo ai, theo gương ai, bắt chước ai
+- làm nghề mặc quần áo làm nẫu; mặc làm mẫu
+@Chuyên ngành kinh tế
+-kiểu
+-kiểu (chế phẩm máy móc)
+-mô hình
+-mô hình thiết kế
+-mô hình thu nhỏ
+-mô thức
+-người mẫu quảng cáo
+-người mẫu thời trang
+@Chuyên ngành kỹ thuật
+-bản mẫu
+-cách thức
+-chế độ
+-dưỡng
+-hình mẫu
+-khuôn mẫu
+-kiểu
+-kiểu mẫu
+-mẫu
+-mô hình
+-môđen
+-vật làm mẫu
+

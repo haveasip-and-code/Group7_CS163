@@ -1,7 +1,9 @@
-severely	@severely /si'viəli/
-*  phó từ
-- nghiêm khắc; nghiêm nghị
-- ác liệt
-!to leave (let) servely olone
-- bỏ mặc đấy ra ý không tán thành
--(đùa cợt) tránh không dính vào (một chuyện gì khó khăn...)
+recursive
+	
+* tính từ
+- (toán học) (ngôn ngữ học) đệ quy
+= a recursive rule
++một quy tắc đệ quy
+@Chuyên ngành kỹ thuật
+-đệ quy
+

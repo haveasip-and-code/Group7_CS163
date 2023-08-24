@@ -1,23 +1,21 @@
-pointer	@pointer /'pɔintə/
+jockey
+	
 *  danh từ
-- kín (trên mặt cân, trên đồng hồ đo)
-- que (chỉ bản đồ, bảng...)
-- (thông tục) lời gợi ý, lời mách nước
-- chó săn chỉ điểm (khi thấy thú săn thì đứng sững lại vểnh mõm ra hiệu)
-- (thiên văn học) sao chỉ (cặp sao trong nhóm Đại hùng, nối nhau thì chỉ về sao Bắc đẩu)
+- người cưỡi ngựa đua, dô kề
+!Jockey Club
+- hội đua ngựa (ở Anh, nắm các cuộc đua ngựa)
+- người hầu, người dưới
+*  động từ
+- cưỡi ngựa đua, làm dô kề
+- lừa bịp, lừa phỉnh, dùng mánh khoé để dành thắng lợi
+=to jockey someone out of something
++ lừa bịp ai lấy cái gì
+=to jockey someone into doing something
++ lừa phỉnh ai làm gì
+=to jockey for position
++ dùng mẹo khôn khéo để giành ưu thế (trong cuộc đua thuyền...); giành lấy lợi về mình một cách không chính đáng
 @Chuyên ngành kỹ thuật
--dấu
--kim
--kim chỉ
--kim chỉ độ đo
--kim chỏ
--kim đo
--kim trỏ
--vạch chỉ tiêu
-@Lĩnh vực: toán & tin
--con trỏ văn bản
--con trỏ, pointer
-@Lĩnh vực: cơ khí & công trình
--điểm chuẩn (ở bánh đà)
-@Lĩnh vực: điện
--kim chỉ thị
+-bánh gạt
+-con lăn căng
+-puli căng
+

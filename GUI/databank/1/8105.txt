@@ -1,60 +1,59 @@
-carriage	
-@carriage /'kæridʤ/
+type
+	
 *  danh từ
-- xe ngựa=a carriage and pair
-+ xe hai ngựa=a carriage and four
-+ xe bốn ngựa
-- (ngành đường sắt) toa hành khách=the first class carriages
-+ các toa hạng nhất
-- sự chuyên chở hàng hoá; cước chuyên chở hàng hoá
-- bộ phận quay (của máy)
-- sườn xe (gồm khung và bánh
-- (quân sự) xe chở pháo ((thường) gun carriage)
-- dáng, dáng đi=a graceful carriage
-+ dáng đi yểu điệu
-- sự thông qua (một dự luật, một kiến nghị ở quốc hội...)
-- sự điều khiển, sự quản lý; sự thi hành, sự thực hiện (một công việc...)
+- kiểu mẫu
+=a fine type of patriotism
++ kiểu mẫu đẹp đẽ của tinh thần yêu nước
+- kiểu
+=Nordic type
++ kiểu người Bắc Âu
+- chữ in
+=printed in large type
++ in chữ lớn
+=to be in type
++ sẵn sàng đưa in
+=to set type
++ sắp chữ
+- (sinh vật học) đại diện điển hình (của một nhóm phân loại)
+=type genus
++ giống điển hình của họ
+*  động từ
+- đánh máy
+=to type a letter
++ đánh máy một bức thư
+=to type well
++ đánh máy giỏi
 @Chuyên ngành kinh tế
--chuyên chở
--cước
--cước chuyên chở
--người chuyên chở
--phí vận chuyển
--tàu hàng
--toa xe
--vận chuyển hàng hóa
--vận phí
--vận tải
--xe (lửa) chở khách
+-cỡ loại
+-con chữ (dùng để in hoặc dùng trong máy đánh chữ)
+-con chữ (thường dùng để in hoặc dùng trong máy đánh chữ)
+-đánh máy
+-điển hình
+-hình thức
+-kiểu
+-kiểu loại tiêu biểu
+-loại
+-mẫu
+-số cỡ
 @Chuyên ngành kỹ thuật
--bàn dao
--bàn dao chữ thập
--bàn quay
--bàn trượt
--chuyên chở
--giá dao
--giá lắc
--giá trượt
--goòng
--kết cấu chịu tải
--ổ trượt
--ống thoát nước
--sự chuyên chở
--sự chuyên trở
--sự vận chuyển
--sự vận tải
--toa khách
--toa nhỏ
--vận tải
--xe
--xe con
--xe dao
--xe goòng
--xe rùa
--xe trượt
-@Lĩnh vực: xây dựng
--cuốn thang
--giá thành chuyên chở
-@Lĩnh vực: cơ khí & công trình
--giá (đỡ)
--toa (khách)
+-đánh máy
+-đánh máy chữ
+-gõ
+-kiểu
+-kiểu chữ
+-làm bản khắc
+-loại
+-loại con chữ
+-mẫu
+-mô hình
+@Lĩnh vực: toán & tin
+-chữ in
+-phông chữ
+@Lĩnh vực: điện lạnh
+-con chữ đúc
+-đánh chữ
+@Lĩnh vực: hóa học & vật liệu
+-kiểu loại
+@Lĩnh vực: y học
+-kiểu, mẫu, loại
+

@@ -1,8 +1,6 @@
-probing	@probing
-* tính từ
-- nhằm phát hiện sự thật; tìm kiếm
+connecting
+	
+- (Tech) nối
 @Chuyên ngành kỹ thuật
--lấy mẫu thử
--sự dò
--sự khoan mẫu
--sự thăm dò
+-nối
+

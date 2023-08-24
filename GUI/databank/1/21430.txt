@@ -1,9 +1,29 @@
-flickering	
-@flickering /flickering/
-*  tính từ
-- đu đưa, rung rinh
-- lập loè, lung linh, bập bùng
+timer
+	
+*  danh từ
+- người bấm giờ
+- đồng hồ bấm giờ
+@Chuyên ngành kinh tế
+-máy điều chỉnh thời gian
 @Chuyên ngành kỹ thuật
--sự chập chờn
-@Chuyên ngành kỹ thuật
--sự chập chờn
+-bộ định thời
+-cái điểm thời
+-đồng hồ bấm giờ
+-rơle thời gian
+-thời kế
+@Lĩnh vực: toán & tin
+-bộ đo thời gian
+@Lĩnh vực: xây dựng
+-bộ hẹn giờ
+-bộ phận định giờ
+@Lĩnh vực: cơ khí & công trình
+-chỉnh thời gian
+-thiết bị bấm giờ
+@Lĩnh vực: điện tử & viễn thông
+-đồng hồ hẹn giờ
+@Lĩnh vực: điện lạnh
+-đồng hộ nhịp
+-đồng hồ thời gian
+@Lĩnh vực: điện
+-thì kế
+

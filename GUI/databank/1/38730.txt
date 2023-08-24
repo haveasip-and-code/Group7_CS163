@@ -1,6 +1,18 @@
-overcasting	@overcasting
-* danh từ
-- sự vắt sổ
+expanded
+	
+- khuếch đại
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: dệt may
--sự vắt sổ
+-khuếch đại
+@Lĩnh vực: cơ khí & công trình
+-bị giãn nở
+-bị trương nở
+@Lĩnh vực: hóa học & vật liệu
+-nở rộng
+@Chuyên ngành kỹ thuật
+-khuếch đại
+@Lĩnh vực: cơ khí & công trình
+-bị giãn nở
+-bị trương nở
+@Lĩnh vực: hóa học & vật liệu
+-nở rộng
+

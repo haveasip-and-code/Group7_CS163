@@ -1,15 +1,16 @@
-botch	
-@botch /bɔtʃ/
-*  danh từ
-- việc làm vụng, việc làm hỏng=to make a botch of something
-+ làm hỏng cái gì, làm hỏng việc gì
-- sự chấp vá, sự vá víu
-*  ngoại động từ
-- làm vụng, làm hỏng, làm sai
-- chấp vá, vá víu (cái gì)
+substandard
+	
+* tính từ
+- dưới tiêu chuẩn thông thường hoặc cần thiết; không đạt tiêu chuẩn; không đạt yêu cầu
+= substandard goods
++hàng hoá không đủ tiêu chuẩn
+= she has written good essays before, but this one is substandard
++bà ta từng viết nhiều tiểu luận hay, nhưng bài này thì dưới mức bình thường
+@Chuyên ngành kinh tế
+-dưới tiêu chuẩn
+-tiêu chuẩn phụ
 @Chuyên ngành kỹ thuật
--làm hỏng
--làm vụng về
--sự làm hỏng
-@Lĩnh vực: ô tô
--sự làm vụng về
+@Lĩnh vực: điện lạnh
+-mẫu chuẩn phổ thông
+-mẫu chuẩn phụ
+

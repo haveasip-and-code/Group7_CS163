@@ -1,39 +1,34 @@
-elevator	
-@elevator /'eliveitə/
+holding
+	
 *  danh từ
-- máy nâng, máy trục
-- (từ Mỹ,nghĩa Mỹ) thang máy
-- (giải phẫu) cơ nâng
-- (hàng không) bánh lái độ cao
+- sự cầm, sự nắm; cách cầm, cách nắm
+- ruộng đất; tài sản
+=small holdings
++ những mảnh ruộng nhỏ (sở hữu hoặc phát canh)
+- cổ phần
+=holdings in a business company
++ cổ phần trong một công ty kinh doanh
 @Chuyên ngành kinh tế
--gầu tải
--kho chứa (hạt)
--máy nâng
--thang máy
--vựa thóc lúa
+-chấp hữu
+-nắm giữ
+-nông trại nhỏ
+-sự bảo dưỡng
+-sự cầm
+-sự chấp hữu
+-sự duy trì
+-sự giữ
+-sự nắm
+-sự nắm giữ
+-tiểu nông trang
 @Chuyên ngành kỹ thuật
--bàn nâng
--băng nâng
--đòn bấy
--máy nâng
--máy nâng chuyển
--máy trục
--palăng tời
+-cổ phần
+-hơi thủy tinh
+-mẫu chờ bay
+-sự cách ly
+-sự chờ
+-sự dính
+-sự giữ lại
+-tài sản
 @Lĩnh vực: hóa học & vật liệu
--bộ nâng
-@Lĩnh vực: y học
--dụng cụ n âng xương
--dụng cụ nạy răng
-@Chuyên ngành kỹ thuật
--bàn nâng
--băng nâng
--đòn bấy
--máy nâng
--máy nâng chuyển
--máy trục
--palăng tời
-@Lĩnh vực: hóa học & vật liệu
--bộ nâng
-@Lĩnh vực: y học
--dụng cụ n âng xương
--dụng cụ nạy răng
+-sự nắm giữ
+

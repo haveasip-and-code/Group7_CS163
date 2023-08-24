@@ -1,11 +1,8 @@
-roughing	@roughing
-* danh từ
-- sự gia công
-@Chuyên ngành kỹ thuật
--sự cán thô
--sự gia công sơ bộ
--sự gia công thô
--sự tách thô
--sự tuyển nổi chính
--sự tuyển nổi thô
--sự tuyển sơ bộ
+committal
+	
+*  danh từ ((cũng) commitment)
+- sự giao phó, sự uỷ thác
+- sự bỏ tù, sự tống giam
+- sự chuyển (một dự luật...) cho một tiểu ban (nghị viện)
+- lời hứa, lời cam kết; điều ràng buộc
+

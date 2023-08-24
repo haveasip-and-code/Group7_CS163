@@ -1,17 +1,8 @@
-mush	@mush /mʌʃ/
-*  danh từ
-- hồ bột, chất đặc sệt
-- (từ Mỹ,nghĩa Mỹ) cháo bột mì; cháo ngô
-- chuyện lãng mạn
-*  danh từ
-- (từ lóng) cái ô
-*  danh từ
-- cuộc đi xe bằng chó (trên tuyết ở Ca-na-dda)
-*  nội động từ
-- đi xe bằng chó (trên tuyết)
-@Chuyên ngành kinh tế
--cháo ngô
--hồ bột
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--băng nhão
+bedplate
+	
+-bản tựa
+@Lĩnh vực: cơ khí & công trình
+-phiến đế
+@Lĩnh vực: xây dựng
+-phiến đệm
+

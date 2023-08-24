@@ -1,10 +1,5 @@
-inhibited	
-@inhibited
-* tính từ
-- gượng gạo, rụt rè, thiếu tự nhiên
-@Chuyên ngành kỹ thuật
--bị cấm
-@Lĩnh vực: toán & tin
--bị ngăn cản
-@Lĩnh vực: hóa học & vật liệu
--bị ức chế
+ensigncy
+	
+*  danh từ
+- (từ cổ,nghĩa cổ) chức cầm cờ
+

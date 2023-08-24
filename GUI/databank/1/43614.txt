@@ -1,65 +1,15 @@
-prime	@prime /praim/
-*  tính từ
-- đầu tiên
-=prime cause+ nguyên nhân đầu tiên
-- chủ yếu, quan trọng nhất, hàng đầu
-=prime importance+ quan trọng bậc nhất
-=Prime Minister+ thủ tướng
-- tốt nhất, loại nhất; ưu tú, xuất sắc, hoàn hảo
-=prime beef+ thịt bò loại ngon nhất
-- (thuộc) gốc, (thuộc) căn nguyên
-=prime cost+ vốn
-=prime number+ số nguyên tố
-*  danh từ
-- thời kỳ đầu tiên, buổi sơ khai
-=the prime of the year+ phần đầu của năm, mùa xuân
-- thời kỳ đẹp nhất, thời kỳ rực rỡ nhất, giai đoạn phát triển đầy đủ nhất
-=in the prime of life+ lúc tuổi thanh xuân
-=in the prime of beauty+ lúc sắc đẹp đang thì
-=to be past one's prime+ đã qua thời xuân xanh, trở về già
-- (tôn giáo) buổi lễ đầu tiên (lúc 6 giờ sáng)
-- (hoá học) gốc đơn nguyên tố
-- thế đầu (một thế đánh kiếm)
-- (toán học) số nguyên tố
-*  ngoại động từ
-- mồi nước (vào bơm để cho chạy); bơm xăng vào cacbuaratơ
-- (thông tục) cho ăn đầy, cho uống thoả thích
-=to be well primed with beer+ uống bia thoả thích
-- chỉ dẫn; cung cấp tài liệu, bồi dưỡng (cho ai trước khi ra nói...)
-- sơn lót (tấm gỗ)
-- (sử học) nhồi thuốc nổ (vào súng)
-@Chuyên ngành kinh tế
--chính
--chính yếu
--chủ yếu
--hàng đầu
--loại nhất
--phẩm chất hạng nhất
--quan trọng nhất
--quyền chỉ định có thu nhập cổ phần tối đa
--tốt nhất
-@Chuyên ngành kỹ thuật
--chủ yếu
--cơ bản
--dấu phẩy
--dấu phết
--đầu tiên
--đưa vào hoạt động (nồi hơi)
--kíp nổ/sơn lót
--nguyên tố
--mồi (bơm)
--sắt tây loại tốt
--số nguyên tố
--sơn lót
-@Lĩnh vực: hóa học & vật liệu
--bơm xăng vào cacburatơ
--phun vào
--sự nạp (cột cất)
--thời kỳ đầu
-@Lĩnh vực: xây dựng
--hàng đầu
--quét sơn lót
-@Lĩnh vực: ô tô
--mồi bơm
--mồi xăng (nhiên liệu)
--phủ sơn lót
+blackening
+	
+-nhuộm đen
+-sự đánh bóng đen
+-sự hóa đen (đúc)
+-sự làm đen
+-sự nhuộm đen
+@Lĩnh vực: cơ khí & công trình
+-bột than làm khuôn
+-hun đen
+@Lĩnh vực: điện
+-độ đen
+@Lĩnh vực: điện lạnh
+-sự hóa đen
+

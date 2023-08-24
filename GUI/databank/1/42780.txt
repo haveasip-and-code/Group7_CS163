@@ -1,14 +1,7 @@
-posting	@Chuyên ngành kinh tế
--chép sang (từ sổ nhật ký sang sổ cái)
--định vị
--ghi sổ cái
--gởi (thư) ở bưu cục
--gởi bưu điện
--gửi bưu điện
--vào sổ
--việc bổ nhiệm (vào một chức vụ)
--việc gửi (thư) ở bưu cục
--việc niêm yết (giá)
--vô sổ cái
-@Chuyên ngành kỹ thuật
--thông báo
+headspace
+	
+* danh từ
+- khoảng cách (trong chai lọ, hộp thiết) để chứa thêm
+@Chuyên ngành kinh tế
+-khoảng trống
+

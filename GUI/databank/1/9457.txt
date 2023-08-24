@@ -1,21 +1,26 @@
-circulate	
-@circulate /'sə:kjuleit/
+disengage
+	
 *  ngoại động từ
-- lưu hành, truyền, truyền bá=to circulate news
-+ truyền tin
+- làm rời ra, cởi ra, tháo ra; thả ra
+- làm thoát ra, làm bốc lên (hơi...)
+- (thể dục,thể thao) gỡ (một đường kiếm)
 *  nội động từ
-- lưu thông, luân chuyển, tuần hoàn=blood circulates in the body
-+ máu lưu thông (tuần hoàn) trong cơ thể
-- lưu hành (tiền)
-- lan truyền=news circulates quickly
-+ tin lan truyền nhanh chóng
+- tách rời, xa rời ra; thoát khỏi sự ràng buộc
+- thoát ra, bốc lên (hơi...)
+- (thể dục,thể thao) gỡ đường kiếm
 @Chuyên ngành kỹ thuật
--chuyển
--đi vòng quanh
--luân chuyển
--lưu thông
--tuần hoàn
-@Lĩnh vực: toán & tin
--chu chuyển
-@Lĩnh vực: điện lạnh
--tuần hoàn (không khí)
+-cởi ra
+-gỡ ra
+-ngắt
+-nhả
+-nhả ra
+-ra khớp
+-thả ra
+-thoát ra
+@Lĩnh vực: cơ khí & công trình
+-nhả ly hợp
+@Lĩnh vực: ô tô
+-tách ly hợp
+@Lĩnh vực: giao thông & vận tải
+-thả lỏng
+

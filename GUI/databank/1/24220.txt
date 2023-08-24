@@ -1,9 +1,11 @@
-greedy	
-@greedy /'gri:di/
+dirigible
+	
 *  tính từ
-- tham ăn, háu ăn
-- tham lam, hám=greedy of honours
-+ hám danh=greedy of gaint
-+ hám lợi
-- thèm khát, thiết tha=to be greedy to do something
-+ thèm khát được làm gì
+- điều khiển được
+=a dirigible balloon
++ khí cầu điều khiển được
+*  danh từ
+- khí cầu điều khiển được
+@Chuyên ngành kỹ thuật
+-điều khiển được
+

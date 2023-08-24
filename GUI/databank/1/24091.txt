@@ -1,13 +1,9 @@
-granulator	
-@granulator
-- xem granulate
-@Chuyên ngành kinh tế
--máy nghiền thành bột
--máy sấy
--máy sấy để kết tinh đường
+detachable
+	
+*  tính từ
+- có thể gỡ ra, có thể tháo ra, có thể tách ra
+=a detachable cover
++ nắp có thể tháo ra được
 @Chuyên ngành kỹ thuật
--máy nghiền
--máy tạo hạt
-@Lĩnh vực: hóa học & vật liệu
--máy kết hạt
--máy nghiền hạt
+-tháo rời được
+

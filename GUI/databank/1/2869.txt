@@ -1,7 +1,25 @@
-apolitical	
-@apolitical /,æpə'litikəl/
-*  tính từ
-- không chính trị
-- thờ ơ với chính trị
+interview
+	
+*  danh từ
+- sự gặp gỡ, sự gặp mặt; cuộc nói chuyện riêng
+=an interview between a job applicicant and the director
++ cuộc gặp riêng giữa người xin việc với ông giám đốc
+- cuộc phỏng vấn; bài phỏng vấn
+=a newpaper interview
++ cuộc phóng vấn báo chí
+*  động từ
+- gặp riêng, nói chuyện riêng
+=to interview job applicants
++ gặp riêng (hỏi riêng) những người đến xin việc
+- phỏng vấn
 @Chuyên ngành kinh tế
--thờ ơ
+-cuộc hội kiến
+-cuộc phỏng vấn
+-cuộc tiếp kiến
+-hội kiến
+-phỏng vấn
+-tiếp kiến
+@Chuyên ngành kỹ thuật
+-phỏng vấn
+-sự phỏng vấn
+

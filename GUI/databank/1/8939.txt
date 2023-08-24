@@ -1,12 +1,9 @@
-chemical	
-@chemical /'kemikəl/
-*  tính từ
-- (thuộc) hoá học=chemical warfare
-+ chiến tranh hoá học
-@Chuyên ngành kinh tế
--chế phẩm hóa học
-@Chuyên ngành kỹ thuật
--hóa chất
--hóa học
-@Lĩnh vực: điện
--thuộc hóa học
+thirties
+	
+* danh từ số nhiều
+- những con số từ 30 đến 39
+- (the thirties) những năm 30 (của (thế kỷ))
+- tuổi từ 30 đến 39
+= she is in the early, (late) thirties
++nàng 30 tuổi hơn (gần 40)
+

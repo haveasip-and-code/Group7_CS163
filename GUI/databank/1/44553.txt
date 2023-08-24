@@ -1,8 +1,5 @@
-ptyalism	@ptyalism /'taiəlizm/
-*  danh từ
-- chứng ứa nước bọt
-@Chuyên ngành kinh tế
--chứng ứa nước bọt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tăng tiết nước bọt, tiết nước bọt quá độ
+isolog
+	
+@Lĩnh vực: hóa học & vật liệu
+-chất đồng cấu
+

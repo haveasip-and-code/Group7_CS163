@@ -1,5 +1,21 @@
-restrainer	@restrainer
-* danh từ
-- chất hãm (hiện ảnh)
-@Chuyên ngành kinh tế
--bộ phận định vị (một phương tiện giữ gia súc khi giết)
+inner
+	
+*  tính từ
+- ở trong nước, nội bộ
+- thân nhất, thân cận
+- (thuộc) tinh thần; bên trong
+=inner life
++ cuộc sống bên trong, cuộc sống tinh thần
+- trong thâm tâm, thầm kín
+=inner emotion
++ mối xúc cảm thầm kín
+*  danh từ
+- bên trong
+- vòng sát điểm đen (của bia); phát bắn trúng vòng sát điểm đen (của bia)
+@Chuyên ngành kỹ thuật
+-bên trong
+-ở trong
+@Lĩnh vực: xây dựng
+-nội
+-thân cận
+

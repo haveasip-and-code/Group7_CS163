@@ -1,8 +1,8 @@
-cumber	
-@cumber /'kʌmbə/
-*  danh từ
-- sự làm trở ngại
-- vật để ngổn ngang choán chỗ
-*  ngoại động từ
-- làm trở ngại, làm vướng, gây cản trở
-- để ngổn ngang, chồng chất lên
+printable
+	
+* tính từ
+- có thể xuất bản, có thể in được, đăng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-in được
+

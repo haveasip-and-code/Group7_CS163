@@ -1,9 +1,4 @@
-pruning	@pruning
-* danh từ
-- sự tỉa, sự xén bớt; sự chặt bớt
-- sự cắt bớt, sự lược bớt
-@Chuyên ngành kỹ thuật
--sự xén bớt
-@Lĩnh vực: toán & tin
--sự tỉa bớt
--sự xén tỉa (các cây)
+giga
+	
+- (Tech) giga (10 lũy thừa 9), một tỷ
+

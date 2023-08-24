@@ -1,12 +1,7 @@
-canister	
-@canister /'kænistə/
-*  danh từ
-- hộp nhỏ, hộp (để đựng trà, thuốc lá, cà phê...)
-- (tôn giáo) hộp đựng bánh thánh
-@Chuyên ngành kinh tế
--hộp nhỏ
--hộp sắt (đựng chè, cà phê)
+tacnode
+	
+- (hình học) tacnôt (điểm tự tiếp xúc của đường cong)
 @Chuyên ngành kỹ thuật
--hộp
-@Lĩnh vực: hóa học & vật liệu
--bình hô hấp
+@Lĩnh vực: toán & tin
+-tacnot (điểm tự tiếp xúc của đường cong)
+

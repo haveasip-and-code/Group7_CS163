@@ -1,9 +1,9 @@
-finer	
-@finer
-- (tô pô) mịn hơn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--mịn hơn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--mịn hơn
+motivation
+	
+*  danh từ
+- sự thúc đẩy, động cơ thúc đẩy
+@Chuyên ngành kinh tế
+-động cơ thúc đẩy
+-động lực thúc đẩy
+-sự thúc đẩy
+

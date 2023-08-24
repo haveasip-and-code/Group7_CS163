@@ -1,8 +1,8 @@
-bordereau	
-@bordereau
-* danh từ
-- sồ nhiều bordereaux
-- bảng kê
-@Chuyên ngành kinh tế
--bản kê
--mục lục
+adduct
+	
+*  ngoại động từ
+- (giải phẫu) khép (các cơ...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-sản phẩm cộng
+

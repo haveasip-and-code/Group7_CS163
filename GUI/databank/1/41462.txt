@@ -1,14 +1,19 @@
-pickling	@Chuyên ngành kinh tế
--sự dầm giấm
--sự muối
+denial
+	
+*  danh từ
+- sự từ chối, sự khước từ; sự phủ nhận
+=denial of a truth
++ sự phủ nhận một sự thật
+=denial of a request
++ sự từ chối một yêu cầu
+=a flat denial
++ sự từ chối dứt khoát
+- sự từ chối không cho (ai cái gì)
+- sự chối, sự không nhận
 @Chuyên ngành kỹ thuật
--sự khắc axit
--sự rửa
--sự tẩy
--sự tẩy gỉ
-@Lĩnh vực: hóa học & vật liệu
--dung dịch axit để tẩy
-@Lĩnh vực: xây dựng
--sự khoét
--sự tẩy gỉ (bằng axit)
--sự tẩy sạch (bằng hóa chất)
+-phủ nhận
+-sự phủ định
+-sự từ chối
+@Lĩnh vực: toán & tin
+-sự phủ nhận
+

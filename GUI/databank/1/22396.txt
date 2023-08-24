@@ -1,5 +1,7 @@
-frivolous	
-@frivolous /'frivələs/
-*  tính từ
-- phù phiếm, nhẹ dạ, bông lông
-- không đáng kể, nhỏ mọn; vô tích sự
+bel
+	
+- (Tech) ben (đơn vị tỉ lệ công suất theo thang đồi số)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-ben
+

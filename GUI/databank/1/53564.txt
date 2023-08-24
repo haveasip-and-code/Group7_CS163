@@ -1,7 +1,32 @@
-strabismus	@strabismus /strə'bizməs/
+attraction
+	
 *  danh từ
-- (y học) tật lác mắt
-=cross-eyed strabismus+ tật lác hội tụ
+- (vật lý) sự hú; sức hút
+=mutual attraction
++ sự hút lẫn nhau
+=terrestrial attraction
++ sức hút của trái đất
+=magnetic attraction
++ sức hút từ
+=electrostatic attraction
++ sức hút tĩnh điện
+=molecular attraction
++ sức hút phân tử
+=cạpillary attraction
++ sức hút mao dẫn
+- sự thu hút, sự hấp dẫn, sự lôi cuốn; sức hấp dẫn, sức lôi cuốn
+- cái thu hút, cái hấp dẫn, cái lôi cuốn
+@Chuyên ngành kinh tế
+-sự hấp dẫn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--mắt lé, mắt lác
+-hấp dẫn
+-lực hấp dẫn
+-lực hút
+-phòng giải trí
+-sự hấp dẫn
+-sự hút
+-sức hấp dẫn
+-sức hút
+@Lĩnh vực: xây dựng
+-nhà giải trí
+

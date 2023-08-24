@@ -1,33 +1,5 @@
-alternate	
-@alternate /ɔ:l'tə:nit/
-*  tính từ
-- xen kẽ, xen nhau, luân phiên nhau, thay phiên=to serve alternate shifts
-+ làm luân phiên, làm theo ca kíp=on days
-+ cứ hai ngày một lần, cứ cách ngày một lần=alternate function
-+ (toán học) hàm thay phiên
-- (toán học) so le=alternate angle
-+ góc so le=alternate exterior (interior) angle
-+ góc so le ngoài (trong)
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) người thay phiên, người thay thế, người dự khuyết
-*  động từ
-- để xen nhau, xen kẽ, xen nhau; luân phiên, lần lượt kế tiếp nhau=to alternate between laughter and tears
-+ khóc khóc cười cười
-@Chuyên ngành kỹ thuật
--biến đổi
--cách
--đổi dấu
--luân chuyển
--luân phiên
--phương án
--so le
--thay đổi
--xen kẽ
--xoay chiều
-@Lĩnh vực: xây dựng
--có tính xen kẽ
-@Lĩnh vực: toán & tin
--đan dấu
--thay phiên
-@Lĩnh vực: cơ khí & công trình
--xen kẻ
+manganate
+	
+@Lĩnh vực: hóa học & vật liệu
+-managnat
+

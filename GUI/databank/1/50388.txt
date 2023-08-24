@@ -1,16 +1,12 @@
-shipment	@shipment /'ʃipmənt/
-*  danh từ
-- sự xếp (hàng) xuống tàu
-- hàng hoá trên tàu
-- sự gửi hàng bằng đường biển
-@Chuyên ngành kinh tế
--bốc xếp lên tàu
--chuyến hàng
--chuyến hàng được chất lên tàu
--hàng chở
--hàng được chất lên tàu
--sự chất hàng xuống tàu
--sự chuyên chở hàng (bằng đường biển)
--sự chuyên chở hàng (bằng đường bộ hoặc đường không)
+goggles
+	
+*  danh từ số nhiều
+- kính bảo hộ, kính râm (để che bụi khi đi mô tô, để bảo vệ mắt khi hàn...)
+- (từ lóng) kính đeo mắt
+- (thú y học) bệnh sán óc (của cừu)
 @Chuyên ngành kỹ thuật
--hàng hóa trên tàu
+-kính an toàn
+-kính bảo hiểm
+-kính bảo hộ
+-kính bảo vệ
+

@@ -1,2 +1,9 @@
-thermoluminescent	@Chuyên ngành kỹ thuật
--nhiệt phát quang
+resistivity
+	
+*  danh từ
+- (vật lý) suất điện trở
+@Chuyên ngành kỹ thuật
+-điện trở riêng
+-điện trở suất
+-điện trở suất riêng
+

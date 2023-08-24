@@ -1,8 +1,9 @@
-flagstone	
-@flagstone /'flægstoun/
+winery
+	
 *  danh từ
-- phiến đá lát đường
-@Chuyên ngành kỹ thuật
--phiến đá lát
-@Chuyên ngành kỹ thuật
--phiến đá lát
+- nhà máy rượu vang
+@Chuyên ngành kinh tế
+-xưởng đặt rượu
+-xưởng rượu nho
+-xưởng rượu, xưởng rượu nho
+

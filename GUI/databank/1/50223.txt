@@ -1,10 +1,9 @@
-sharpness	@Chuyên ngành kỹ thuật
--độ nét
--độ nhọn
--độ rõ
--độ rõ nét
--độ sắc nét
-@Lĩnh vực: xây dựng
--độ nét (tiếng nói, hình ảnh)
-@Lĩnh vực: điện lạnh
--độ sắc
+nationalization
+	
+*  danh từ
+- sự quốc gia hoá
+- sự quốc hữu hoá
+=tge nationalization of the railways
++ sự quốc hữu hoá đường sắt
+- sự nhập quốc tịch; sự cho nhập quốc tịch
+

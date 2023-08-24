@@ -1,11 +1,12 @@
-prodigal	@prodigal /prodigal/
+osmotic
+	
 *  tính từ
-- hoang toàng; hoang phí, phá của, tiêu tiền vung vãi
-=the prodigal son+ đứa con hoang toàng
-- (+ of) rộng rãi, hào phóng
-=prodigal of favours+ ban ân huệ rộng rãi
-*  danh từ
-- người hoang toàng; người ăn tiêu phung phí
+- (vật lý),  (sinh vật học); (hoá học) thấm lọc
+@Chuyên ngành kinh tế
+-thấm lọc
+-thẩm thấu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hoang phí
+-thẩm thấu
+@Lĩnh vực: vật lý
+-thuộc thẩm thấu
+

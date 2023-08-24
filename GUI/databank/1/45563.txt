@@ -1,12 +1,27 @@
-ransom	@ransom /'rænsəm/
+altitude
+	
 *  danh từ
-- sự chuộc (một người bị bắt...)
-- tiền chuộc
-=to hold someone to ransom+ giữ ai lại để đòi tiền chuộc
-- tiền lo lót (để được hưởng đặc quyền hoặc tha miễn làm gì)
-*  ngoại động từ
-- chuộc, nộp tiền chuộc (ai)
-- giữ (ai...) để đòi tiền chuộc
-- thả (ai) sau khi nhận được tiền chuộc
-- đòi tiền chuộc (ai)
-- (nghĩa bóng) chuộc (tội lỗi)
+- độ cao ((thường) so với mặt biển)
+- (số nhiều) nơi cao, chỗ cao, đỉnh cao
+- địa vị cao
+- (toán học) độ cao, đường cao
+=altitude flight
++ sự bay ở độ cao
+=altitude gauge (measurer)
++ máy đo độ cao
+!to lose altitude
+- (hàng không) không bay được lên cao
+- hạ thấp xuống
+@Chuyên ngành kỹ thuật
+-cao trình
+-chỗ cao
+-cốt
+-độ cao
+-độ cao so với mặt nước biển
+-độ cao tuyệt đối
+@Lĩnh vực: toán & tin
+-cao độ
+-tọa độ Z
+@Lĩnh vực: cơ khí & công trình
+-nơi cao
+

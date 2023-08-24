@@ -1,3 +1,9 @@
-multicultural	@multicultural
-* tính từ
-- thuộc nhiều lãnh vực văn hoá khác nhau
+cryptographic
+	
+*  tính từ
+- (thuộc) mật mã; bằng mật mã
+@Chuyên ngành kỹ thuật
+-mật mã
+@Lĩnh vực: toán & tin
+-bằng mật mã
+

@@ -1,4 +1,20 @@
-flyweight	
-@flyweight
-* danh từ
-- (quyền Anh) võ sự hạng ruồi
+infrastructure
+	
+*  danh từ
+- cơ sở hạ tầng
+@Chuyên ngành kinh tế
+-cơ sở hạ tầng
+@Chuyên ngành kỹ thuật
+-cấu trúc hạ tầng
+-hạ tầng
+-nền móng
+@Lĩnh vực: xây dựng
+-hạ tầng cơ sở
+-kết cấu bên dưới
+-kết cấu hạ tầng
+-kết cấu móng
+@Lĩnh vực: hóa học & vật liệu
+-hạ tầng kinh tế
+@Lĩnh vực: cơ khí & công trình
+-thiết bị đỡ cố định
+

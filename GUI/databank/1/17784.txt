@@ -1,10 +1,6 @@
-ellipsis	
-@ellipsis /i'lipsis/
-*  danh từ,  số nhiều ellipsis
-- (ngôn ngữ học) hiện tượng tĩnh dược
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--dấu chấm lửng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--dấu chấm lửng
+innervation
+	
+*  danh từ
+- sự làm cho có gân cốt, sự làm cho cứng cáp; sự làm cho rắn rỏi; sự kích thích
+- (giải phẫu) sự phân bố dây thần kinh
+

@@ -1,7 +1,19 @@
-dermatosis	
-@dermatosis /,də:mə'tousis/
+skull
+	
 *  danh từ
-- (y học) bệnh da
+- sọ, đầu lâu
+=skull and crossbones
++ đầu lâu và hai xương chéo (tượng trưng cho sự chết)
+- đầu óc, bộ óc
+=thick skull
++ óc ngu si, óc đần độn
+=empty skull
++ đầu óc rỗng tuếch
+@Chuyên ngành kinh tế
+-sọ
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: y học
--bệnh da
+-sọ
+@Lĩnh vực: cơ khí & công trình
+-tảng đóng (ở gầu xúc) bướu lò
+

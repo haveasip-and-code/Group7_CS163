@@ -1,3 +1,16 @@
-insupportably	
-@insupportably
-- xem insupportable
+annotation
+	
+*  danh từ
+- sự chú giải, sự chú thích
+- lời chú giải, lời chú thích
+@Chuyên ngành kinh tế
+-chú thích
+-lời chú giải
+-sự chú giải
+@Chuyên ngành kỹ thuật
+-chú giải
+-diễn giải
+-ghi chú
+@Lĩnh vực: toán & tin
+-chú thích
+

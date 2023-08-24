@@ -1,17 +1,6 @@
-imbed	
-@imbed /im'bed/ (imbed) /im'bed/
-*  ngoại động từ
-- ấn vào, đóng vào, gắn vào
-- ghi vào (trí nhớ)=that day is embedded for ever in my recollection
-+ ngày đó mâi mâi được ghi vào trong ký ức của tôi, tôi mâi mâi nhớ ngày hôm đó
-- ôm lấy, bao lấy
-@Chuyên ngành kỹ thuật
--cắm tiêu
--dựng tiêu
--gắn vào
--gia tải
--nhúng
--ứng dụng
--xếp đặt
-@Lĩnh vực: xây dựng
--xếp lớn
+remindful
+	
+*  tính từ
+- (
++ of) nhắc lại, nhớ lại
+

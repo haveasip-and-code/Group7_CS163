@@ -1,9 +1,9 @@
-postcode	@postcode
+pneumococcus
+	
 * danh từ
-- mã thư tín
-@Chuyên ngành kinh tế
--mã (số) bưu điện
--mã số bưu điện
--số hiệu bưu chính
+- số nhiều pneumococci
+- (y học) khuẩn cầu phổi
 @Chuyên ngành kỹ thuật
--mã bưu điện
+@Lĩnh vực: y học
+-phế cầu
+

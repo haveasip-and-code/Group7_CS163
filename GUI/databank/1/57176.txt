@@ -1,34 +1,31 @@
-town	@town /taun/
+nipple
+	
 *  danh từ
-- thành phố, thị xã
-=manufacturing town+ thành phố công nghiệp
-=out of town+ ở nông thôn
-- dân thành phố, bà con hàng phố
-=the whole town knows of it+ cả thành phố ai người ta cũng biết chuyện đó
-- phố (nơi có phố xá đông đúc của thành phố, trái với ngoại ô)
-=to go to town to do some shopping+ ra phố mua hàng
-- (Anh) thủ đô,  Luân đôn
-=to go to town+ ra thủ đô, đi Luân đôn; (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm om sòm, gây náo loạn; (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm (hành động) nhanh và có hiệu quả; (từ Mỹ,nghĩa Mỹ),  (từ lóng) thành công rực rỡ
-!man about town
-- (xem) about
-!to paint the town red
-- (từ lóng) làm om sòm, gây náo loạn, quấy phá (ở đường phố, tiệm rượu)
-!woman of the town
-- gái điếm, giá làng chơi
-@Chuyên ngành kinh tế
--đô thị
--khu buôn bán chính
--thành phố
--thành thị
--thị trấn
--thị xã
--thương trấn
--thương trường
--trung tâm thương mại
+- núm vú, đầu vú cao su (ở bầu sữa trẻ con)
+- núm (ở da, thuỷ tinh, kim loại...)
+- mô đất (trên núi)
+- (kỹ thuật) miếng nối, ống nói (có chân ốc)
 @Chuyên ngành kỹ thuật
--đô thị
--thành phố
--thị trấn
-@Lĩnh vực: xây dựng
--thành phố nhỏ
--thị xã
+-đai ốc nối
+-khớp nối
+-khớp vặn
+-núm vô mỡ
+-măng sông
+-miệng
+-mối ghép bulông
+-mối nối bulông
+-mũ nan hoa
+-ống nối
+-ren
+-vòi
+-vòi phun
+@Lĩnh vực: cơ khí & công trình
+-núm nhỏ
+@Lĩnh vực: y học
+-núm vú
+@Lĩnh vực: ô tô
+-nút tra mỡ
+-ốc xả gió
+@Lĩnh vực: hóa học & vật liệu
+-miếng nối
+

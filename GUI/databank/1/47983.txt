@@ -1,59 +1,15 @@
-rope	@rope /roup/
+lathe
+	
 *  danh từ
-- dây thừng, dây chão
-=the rope+ dây treo cổ
-- (số nhiều) (the ropes) dây bao quanh vũ đài
-- xâu, chuỗi
-=a rope of onions+ một xâu hành
-=a rope of pearls+ chuỗi hạt trai
-- dây lây nhây (của chất nước quánh lại)
-!to be on the rope
-- được buộc lại với nhau (những người leo núi)
-!on the high ropes
-- lên mặt quan trọng, làm ra vẻ ta đây; khinh khỉnh
-- phát khùng, nổi cơn thịnh nộ
-- phấn khởi
-!to fight back to the ropes
-- chiến đấu đến cùng
-!to flight with a rope round one's neck
-- dù biết là cuối cùng sẽ chết cũng vần cứ chiến đấu
-!to give somebody [plenty of] rope
-- để cho ai hoàn toàn tự do muốn làm gì thì làm
-!give a foot rope enought and he'll hang himself
-- thả lỏng cho thằng ngốc thì nó sẽ tự sát
-!to know (learn) the ropes
-- nắm vững tình hình điều kiện (để làm một công việc gì...)
-!to put somebody up to the ropes
-!to show somebody the ropes
-- chỉ cho ai biết rõ tình hình điều kiện (để giải quyết vấn đề gì)
-!a rope of sand
-- sự vững chắc giả tạo; ảo giác, ảo tưởng
-!to throw a rope to somebody
-- giúp đỡ ai (trong hoàn cảnh gay go)
+- máy tiện ((cũng) turning lathe)
 *  ngoại động từ
-- trói (cột, buộc) bằng dây thừng
-- buộc (những người leo núi) vào với nhau (để tránh tai nạn)
-- kìm (ngựa lại không cho thắng trong cuộc đua ngựa)
-*  nội động từ
-- đặc quánh lại thành những sợi dây lầy nhầy (bia, rượu vang)
-- (thể dục,thể thao) kìm lại không chạy hết tốc lực (vận động viên chạy đua)
-!to rop in
-- rào quanh bằng dây thừng, chăng dây thừng để giới hạn (khu vực...)
-- lôi kéo (ai) vào (công việc gì)
-- dụ dỗ, nhử đến, dụ đến
-!to rope off
-- chăng dây thừng để giới hạn (khu vực nào)
+- tiện (vật gì)
 @Chuyên ngành kỹ thuật
--chão
--dây cáp
--dây chão
--dây thừng
--sợi dây
-@Lĩnh vực: hóa học & vật liệu
--dây chão, dây thừng
+-máy tiện
 @Lĩnh vực: điện
--đối tượng giả
-@Lĩnh vực: xây dựng
--thừng chão
-@Lĩnh vực: toán & tin
--thừng chão, dây cáp
+-tiện
+@Chuyên ngành kỹ thuật
+-máy tiện
+@Lĩnh vực: điện
+-tiện
+

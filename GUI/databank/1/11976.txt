@@ -1,4 +1,8 @@
-coronoid	
-@coronoid /'kɔrənɔid/
-*  tính từ
-- (giải phẫu) vẹt hình mỏ quạ (mỏm xương)
+gyrofrequency
+	
+- (Tech) tần số hồi chuyển
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tấn số gyro
+-tần số xyclotron
+

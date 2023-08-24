@@ -1,15 +1,14 @@
-accounting	
-@accounting /ə'kauntiɳ/
+gleam
+	
 *  danh từ
-- sự thanh toán, sự tính toán (tiền nong, sổ sách)
-- sự giải thích=there is no accounting for his behavious
-+ không thể nào giải thích được thái độ đối sử của hắn
-@Chuyên ngành kinh tế
--kế toán
--nghề kế toán
+- tia sáng yếu ớt, ánh lập loè
+- (nghĩa bóng) chút, tia
+=a gleam of hope
++ một tia hy vọng
+*  nội động từ
+- chiếu ra một tia sáng yếu ớt, phát ra một ánh lập loè
 @Chuyên ngành kỹ thuật
--kế toán
--sự thanh toán
--sự tính toán
-@Lĩnh vực: toán & tin
--công tác kế toán
+-ánh lên
+@Lĩnh vực: hóa học & vật liệu
+-ánh sáng mờ, lập lòe
+

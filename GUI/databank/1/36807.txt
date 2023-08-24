@@ -1,29 +1,40 @@
-nipple	@nipple /'nipl/
-*  danh từ
-- núm vú, đầu vú cao su (ở bầu sữa trẻ con)
-- núm (ở da, thuỷ tinh, kim loại...)
-- mô đất (trên núi)
-- (kỹ thuật) miếng nối, ống nói (có chân ốc)
+lamella
+	
+*  danh từ,  số nhiều lamellae  /lə'meli:/
+- lá mỏng, phiến mỏng
+- lá kính
 @Chuyên ngành kỹ thuật
--đai ốc nối
--khớp nối
--khớp vặn
--núm vô mỡ
--măng sông
--miệng
--mối ghép bulông
--mối nối bulông
--mũ nan hoa
--ống nối
--ren
--vòi
--vòi phun
+-bản mỏng
+-băng
+-dải
+-lá
+-lá mỏng
+-lamen
+-lát mỏng
+-tấm kim loại
+-tấm mỏng
+-tờ
 @Lĩnh vực: cơ khí & công trình
--núm nhỏ
-@Lĩnh vực: y học
--núm vú
-@Lĩnh vực: ô tô
--nút tra mỡ
--ốc xả gió
-@Lĩnh vực: hóa học & vật liệu
--miếng nối
+-phiến (mỏng)
+@Lĩnh vực: xây dựng
+-phiếu mỏng
+@Lĩnh vực: điện lạnh
+-tờ mỏng
+@Chuyên ngành kỹ thuật
+-bản mỏng
+-băng
+-dải
+-lá
+-lá mỏng
+-lamen
+-lát mỏng
+-tấm kim loại
+-tấm mỏng
+-tờ
+@Lĩnh vực: cơ khí & công trình
+-phiến (mỏng)
+@Lĩnh vực: xây dựng
+-phiếu mỏng
+@Lĩnh vực: điện lạnh
+-tờ mỏng
+

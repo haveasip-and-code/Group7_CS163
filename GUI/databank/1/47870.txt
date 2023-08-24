@@ -1,14 +1,13 @@
-robustness	@robustness
+efflorescence
+	
 * danh từ
-- sự tráng kiện, sự cường tráng; tình trạng có sức khoẻ
-- sự làm mạnh khoẻ; tình trạng đòi hỏi sức mạnh
-- sự không tế nhị; sự ngay thẳng, sự thiết thực (trí óc...)
-- sự không tinh vi; sự thô
-- tính chất mạnh; sự ngon, tình trạng có nhiều chất cốt (về rượu)
+- sự nở hoa
+@Chuyên ngành kinh tế
+-sự lên hoa
+-sự nở hoa
 @Chuyên ngành kỹ thuật
--độ chắc chắn
--độ cứng
--độ cứng vững
--độ vững
-@Lĩnh vực: toán & tin
--sức chịu đựng
+@Lĩnh vực: hóa học & vật liệu
+-lên hoa
+@Lĩnh vực: xây dựng
+-sự bay màu
+

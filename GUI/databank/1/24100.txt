@@ -1,16 +1,13 @@
-grape	
-@grape /greip/
-*  danh từ
-- quả nho=a bunch of grapes
-+ chùm nho
-- (như) grape
--shot
-- (thú y học) bệnh sưng chùm nho ((từ cổ,nghĩa cổ) chân, ngựa, lừa)!sour grapes; the grapes are sour
-- nho xanh chẳng đáng miệng người phong lưu
-@Chuyên ngành kinh tế
--chùm nho
--chùm quả
--quả nho
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--quả nho
+peripatetic
+	
+*  tính từ (Peripateic)
+- (triết học) (thuộc) triết lý của A
+-ri
+-xtốt, (thuộc) phái tiêu dao
+- lưu động đi rong
+*  danh từ (Peripateic)
+- (triết học) người theo triết lý của A
+-ri
+-xtốt, người theo phái tiêu dao
+- người bán hàng rong, nhà buôn lưu động
+

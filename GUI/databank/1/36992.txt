@@ -1,2 +1,8 @@
-nonsteady	@Chuyên ngành kỹ thuật
--không ổn định
+exceptions
+	
+@Lĩnh vực: toán & tin
+-những ngoại lệ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-những ngoại lệ
+

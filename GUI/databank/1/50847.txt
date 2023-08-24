@@ -1,21 +1,61 @@
-sinker	@sinker /'siɳkə/
+scoop
+	
 *  danh từ
-- người làm chìm, người đánh chìm
-- người đào giếng; thợ đào giếng mỏ
-- chì (cục chì buộc ở dây câu, ở lưới...)
-- (kỹ thuật) thanh ấn (dệt)
-!hook, line and sinker
-- (nghĩa bóng) tất cả, cả chì lẫn chài
-=to lose hook, line and sinker+ mất cả chì lẫn chài
+- cái xẻng (xúc lúa, than, tiên...)
+- cái môi dài cán; môi (đầu)
+- cái gàu múc nước (đầy)
+- sự xúc, sự múc; động tác xúc, động tác múc
+- (giải phẫu) cái nạo
+- môn lãi lớn (do đầu cơ)
+- (từ lóng) tin riêng (dành cho tờ báo nào)
+*  ngoại động từ
+- xúc (than...), múc (nước...)
+- thu được, vớ (món lãi lớn), hốt (của...)
+- nhặt được và đăng (một tin đặc biệt, trước các bài báo khác)
+@Chuyên ngành kinh tế
+-cá muối
+-cái gầu
+-cái xẻng
+-chiếm lấy
+-chiếm lĩnh (thị trường)
+-chiếm lĩnh (thị trường...)
+-cướp lấy
+-đi trước
+-giành trước
+-kiếm được
+-làm trước
+-món lời lớn (do đầu cơ)
+-thu được
+-thu được (món lời lớn...)
+-tin riêng đặc biệt (của một tờ báo, một hãng tin...)
+-tranh tiên
+-tranh trước
+-vớ được (món lời lớn...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--búa khoan sâu
--máy bơm sâu
--thợ đào
-@Lĩnh vực: hóa học & vật liệu
--dụng cụ đào giếng
+-cái phễu đo
+-gàu
+-gàu máy đào
+-gầu múc
+-gầu xúc
+-mai
+-xẻng
 @Lĩnh vực: xây dựng
--người đào giếng
-@Lĩnh vực: dệt may
--tấm ấn chìm
--tấm uốn sợi
+-cái chụp hút gió
+-gáo lấy mẫu
+-gàu vét bùn
+-thùng (rót)
+-thùng xe lật
+-xẻng xúc tay
+-xúc
+@Lĩnh vực: điện lạnh
+-đèn chiếu elipsoit
+-đèn chiếu nhà hát
+@Lĩnh vực: môi trường
+-gáo múc
+-gàu múc
+@Lĩnh vực: hóa học & vật liệu
+-gầu vét
+@Lĩnh vực: cơ khí & công trình
+-giới hạn đo (dung cụ đo)
+-ống lấy nước (máy hơi)
+

@@ -1,32 +1,6 @@
-distance	
-@distance /'distəns/
-*  danh từ
-- khoảng cách, tầm xa=beyond striking distance
-+ quá tầm với tay đánh được=beyond listening distance
-+ quá tầm nghe thấy được=within striking distance
-+ trong tầm tay đánh được=within listening distance
-+ trong tầm nghe thấy được
-- khoảng (thời gian)=at this distance of time
-+ vào khoảng thời gian đó=the distance between two events
-+ khoảng thời gian giữa hai sự việc
-- quãng đường; (thể dục,thể thao) quãng đường chạy đua (dài 240 iat)=to go part of the distance on foot
-+ đi bộ một phần quãng đường=to hit the distance
-+ (thể dục,thể thao) chạy đua một quãng đường
-- nơi xa, đằng xa, phía xa=in the distance
-+ ở đằng xa=from the distance
-+ từ đằng xa
-- thái độ cách biệt, thái độ xa cách; sự cách biệt, sự xa cách=to keep one's distance
-+ giữ thái độ cách biệt=to keep someone at a distance
-+ không cho ai lại gần; giữ thái độ xa cách đối với ai
-- (hội họa) cảnh xa (của một bức hoạ)
-- (âm nhạc) khoảng cách (giữa hai nốt)
-*  ngoại động từ
-- để ở xa, đặt ở xa
-- làm xa ra; làm dường như ở xa
-- bỏ xa (trong cuộc chạy đua, cuộc thi...)
-@Chuyên ngành kỹ thuật
--khoảng
--khoảng cách
--nhịp
+whetting
+	
+-sự tiện
 @Lĩnh vực: xây dựng
--tầm nhìn (đường)
+-sự mài (sắc)
+

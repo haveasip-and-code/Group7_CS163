@@ -1,3 +1,22 @@
-toponymical	@toponymical
-* tính từ
-- xem toponymic
+result
+	
+*  danh từ
+- kết quả
+=without result
++ không có kết quả
+- (toán học) đáp số
+*  nội động từ (
++ from)
+- do bởi, do mà ra
+=poverty resulting from the arms race
++ sự nghèo nàn do chạy đua vũ trang gây ra
+- (
++ in) dẫn đến, đưa đến, kết quả là
+=his recklessness resulted in failure
++ sự liều lĩnh khinh suất của hắn đã dẫn đến thất bại
+@Chuyên ngành kỹ thuật
+-hiệu quả
+-kết quả
+@Lĩnh vực: toán & tin
+-đáp số
+

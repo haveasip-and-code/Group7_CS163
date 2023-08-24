@@ -1,24 +1,8 @@
-tanker	@tanker /'tæɳkə/
-*  danh từ
-- tàu chở dầu
-- xe chở sữa
-- máy bay tiếp dầu (cho máy bay khác trên không)
-@Chuyên ngành kinh tế
--ô tô téc
--tàu bồn (dùng để chở dầu xăng)
--tàu chở dầu
--tàu chở hàng lọng, tàu chở dầu
--tàu hàng lỏng
--téc vận chuyển đường sắt
--xe xitec
+otolith
+	
+* danh từ
+- sỏi thính giác; sỏi tai
 @Chuyên ngành kỹ thuật
--ô tô xitec
--tàu chở hàng
-@Lĩnh vực: ô tô
--chở nhiên liệu
--xe chở nhiên liệu
-@Lĩnh vực: hóa học & vật liệu
--tàu dầu
--tàu thủy chở dầu
-@Lĩnh vực: toán & tin
--toán
+@Lĩnh vực: y học
+-sỏi tai (thạch nhĩ)
+

@@ -1,8 +1,13 @@
-debut	
-@debut
+twinning
+	
 * danh từ
-- lần trình diễn đầu tiên (của diễn viên)
-- sự xuất hiện đầu tiên trước công chúng
+- (kỹ thuật) sự hình thành song tinh
+= optical twinning
++sự hình thành song tinh quang học
+@Chuyên ngành kinh tế
+-sự kết nghĩa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khởi kiện
+@Lĩnh vực: hóa học & vật liệu
+-sự ghép song tinh
+-sự tạo song tinh
+

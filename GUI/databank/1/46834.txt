@@ -1,14 +1,5 @@
-repeal	@repeal /ri'pi:l/
-*  danh từ
-- sự huỷ bỏ, sự bâi bỏ (một đạo luật...)
-*  ngoại động từ
-- huỷ bỏ, bâi bỏ (một đạo luật...)
-@Chuyên ngành kinh tế
--bãi bỏ
--hủy bỏ
--hủy bỏ (một đạo luật...)
--sự bãi bỏ
--thủ tiêu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--phá hủy bãi bỏ
+lexeme
+	
+* danh từ
+- (ngôn ngữ) từ vị
+

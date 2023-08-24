@@ -1,3 +1,9 @@
-sidetracking	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sự khoan lệch (kỹ thuật khoan sâu)
+microelement
+	
+*  danh từ
+- nguyên tố vi lượng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-vi linh kiện
+-vi phần tử
+

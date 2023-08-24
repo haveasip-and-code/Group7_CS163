@@ -1,2 +1,7 @@
-sulfureted	@sulfureted
-- chứa lưu hùynh (về một hợp chất)
+palindrome
+	
+*  tính từ
+- đọc xuôi ngược đều giống như nhau
+*  danh từ
+- từ đọc xuôi ngược đều giống như nhau (ví dụ radar,  madam); câu thơ đọc xuôi ngược đều giống nhau
+

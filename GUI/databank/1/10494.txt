@@ -1,10 +1,16 @@
-commend	
-@commend /kə'mend/
-*  ngoại động từ
-- khen ngợi, ca ngợi, tán dương; tuyên dương=to commend someone's work
-+ tán dương (ca ngợi) công việc của ai
-- hấp dẫn, được ưa thích, được tán thành=this book doesn't commend itself to me
-+ quyển sách này không hấp dẫn tôi
-- gửi gấm, giao phó, phó thác; giới thiệu, tiến cử=to commend something to someone (someone's care)
-+ giao phó cái gì cho ai=commend me to
-+ ((thường) mỉa) hãy giới thiệu tôi, hãy tiến cử tôi
+retest
+	
+-sự thử lại
+@Chuyên ngành kỹ thuật
+-kiểm chứng lại
+-kiểm tra lại
+-sự kiểm tra lại
+-sự thí nghiệm
+-sự thử kiểm tra
+-sự thử lại
+-sự thử lặp lại
+-thử lại
+@Lĩnh vực: hóa học & vật liệu
+-phép thử lại
+-thí nghiệm lại
+

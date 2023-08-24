@@ -1,56 +1,8 @@
-plan	@plan /plæn/
-*  danh từ
-- sơ đồ, đồ án (nhà...)
-=the plan of building+ sơ đồ một toà nhà
-- bản đồ thành phố, bản đồ
-- mặt phẳng (luật xa gần)
-- dàn bài, dàn ý (bài luận văn...)
-- kế hoạch; dự kiến, dự định
-=a plan of campaign+ kế hoạch tác chiến
-=to upset someone's plan+ làm đảo lộn kế hoạch của ai
-=have you any plans for tomorrow?+ anh đã có dự kiến gì cho ngày mai chưa?
-- cách tiến hành, cách làm
-=the best plan would be to...+ cách tiến hành tốt nhất là...
-*  ngoại động từ
-- vẻ bản đồ của, vẽ sơ đồ của (một toà nhà...)
-- làm dàn bài, làm dàn ý (bản luận văn...)
-- đặt kế hoạch, trù tính, dự tính, dự kiến
-=to plan to do something+ dự định làm gì
-=to plan an attack+ đặt kế hoạch cho một cuộc tấn công, trù tính một cuộc tấn công
-*  nội động từ
-- đặt kế hoạch, trù tính, dự tính, dự kiến
-=to plan for the future+ đặt kế hoạch cho tương lai, trù tính cho tương lai
-@Chuyên ngành kinh tế
--đặt kế hoạch
--đồ án
--kế hoạch
--lập kế hoạch
--phương án
--quy hoạch
+heptagonal
+	
+*  tính từ
+- (toán học) (thuộc) hình bảy cạnh; có bảy cạnh
 @Chuyên ngành kỹ thuật
--bản đồ
--bản thiết kế
--bản vẽ
--bệnh ghẻ cóc
--bình đồ
--đồ án
--dự án
--dự định
--hình vẽ
--kế hoạch
--lập kế hoach
--lập kế hoạch
--lập lịch biểu
--lập mặt bằng
--lịch biểu
--mặt bằng
--phương án
--sơ đồ
-@Lĩnh vực: xây dựng
--đặt kế hoạch
--lập sơ đồ
 @Lĩnh vực: toán & tin
--phép chiếu nằm ngang
--sơ đồ bản vẽ
-@Lĩnh vực: giao thông & vận tải
--văn bản vẽ (đóng tàu)
+-hình bảy góc
+

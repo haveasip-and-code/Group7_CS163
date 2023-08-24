@@ -1,4 +1,10 @@
-crossbeam	
+ephemeris
+	
+*  danh từ,  số nhiều ephemerides
+- lịch thiên văn
+- (động vật học) con phù du
 @Chuyên ngành kỹ thuật
--dầm ngang
--tà vẹt
+-lịch sao
+@Chuyên ngành kỹ thuật
+-lịch sao
+

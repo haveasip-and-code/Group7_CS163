@@ -1,8 +1,15 @@
-oddity	@oddity /'ɔditi/
-*  danh từ
-- sự kỳ cục, sự kỳ quặc, sự kỳ dị
-- người kỳ cục, nét kỳ cục
-- vật kỳ dị; trường hợp kỳ quặc
+expected
+	
+- được chờ đợi hy vọng
+@Chuyên ngành kinh tế
+-dự tính
+-xẽ xảy ra
 @Chuyên ngành kỹ thuật
+-kỳ vọng
 @Lĩnh vực: toán & tin
--tính lẻ
+-được chờ đợi
+@Chuyên ngành kỹ thuật
+-kỳ vọng
+@Lĩnh vực: toán & tin
+-được chờ đợi
+

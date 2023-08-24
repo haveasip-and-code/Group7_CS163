@@ -1,10 +1,9 @@
-pupil	@pupil /'pju:pl/
-*  danh từ
-- học trò, học sinh
-- (pháp lý) trẻ em được giám hộ
-*  danh từ
-- (giải phẫu) con ngươi, đồng tử (mắt)
+preprocess
+	
+* danh từ
+- (kỹ thuật) tiền quá trình; tiền xử lý; xử lý trước
 @Chuyên ngành kỹ thuật
--con ngươi
-@Lĩnh vực: y học
--đồng tử
+-xử lý trước
+@Lĩnh vực: toán & tin
+-tiền xử lý
+

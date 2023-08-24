@@ -1,23 +1,4 @@
-meal	@meal /'mi:l/
-*  danh từ
-- bột ((thường) xay chưa mịn)
-- lượng sữa vắt (vắt một lần ở bò sữa)
-- bữa ăn
-=at meals+ vào bữa ăn
-=to take a meal; to eat one's meal+ ăn cơm
-=to make a [heart] meal of+ ăn hết một lúc
-*  nội động từ
-- ăn, ăn cơm
-@Chuyên ngành kinh tế
--bột
--bột thức ăn gia súc
--bữa ăn
--món ăn
-@Chuyên ngành kỹ thuật
--bột
--vật liệu hạt
-@Lĩnh vực: cơ khí & công trình
--bột (mịn)
-@Lĩnh vực: y học
--bột thô (chưa xay mịn)
--bữa ăn
+bitten
+	
+???
+

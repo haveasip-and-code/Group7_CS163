@@ -1,9 +1,5 @@
-amanita	
-@amanita /,æmə'naitə/
-*  danh từ
-- (thực vật học) nấm amanit
-@Chuyên ngành kinh tế
--nấm amanit
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--nấm Amanita
+subfix
+	
+* danh từ
+- chữ viết ở dưới hay cạnh chữ khác
+

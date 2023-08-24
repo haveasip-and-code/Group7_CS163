@@ -1,32 +1,5 @@
-reducer	@reducer /ri'dju:sə/
-*  danh từ
-- (hoá học) chất khử
-- (vật lý) máy giảm; cái giảm tốc; cái giảm áp
-- (nhiếp ảnh) máy thu nhỏ
-@Chuyên ngành kinh tế
--chất làm giảm
--thiết bị khử
-@Chuyên ngành kỹ thuật
--bộ biến đổi
--bộ giảm tốc
--bộ thu nhỏ
--chất khử
--chất khử ôxi
--chất pha loãng
--giảm áp
--ống nối chuyển tiếp
--ống nối trung gian
--tác nhân khử
--thiết bị giảm tốc
--van giảm áp
-@Lĩnh vực: hóa học & vật liệu
--bộ giảm
--vi sinh vật khử
-@Lĩnh vực: xây dựng
--cái giảm tốc áp
--chi tiết chuyển tiếp
--chi tiết ghép nối tiếp (thép tôn)
--máy giảm
--máy thu nhỏ
-@Lĩnh vực: vật lý
--máy thu ảnh
+antipornography
+	
+* tính từ
+- sự chống khiêu dâm
+

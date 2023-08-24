@@ -1,14 +1,11 @@
-synthesis	@synthesis /'sinθisis/
-*  danh từ,  số nhiều syntheses
-- sự tổng hợp
-- xu hướng tổng hợp (của một ngôn ngữ)
-@Chuyên ngành kinh tế
--sự tổng hợp
+fluorescent
+	
+*  tính từ
+- (vật lý) huỳnh quang
+=a fluorescent lamp
++ đèn huỳnh quang
+=fluorescent light
++ ánh sáng huỳnh quang
 @Chuyên ngành kỹ thuật
--sự tổng hợp
-@Lĩnh vực: xây dựng
--sự hóa hợp
-@Lĩnh vực: điện lạnh
--sự tổng hơp (mạch)
-@Lĩnh vực: đo lường & điều khiển
--thiết kế tổng hợp
+-huỳnh quang
+

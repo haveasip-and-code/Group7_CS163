@@ -1,7 +1,17 @@
-carryall	
-@carryall /'kæri'ɔ:l/
+directive
+	
+*  tính từ
+- chỉ huy, chi phối; chỉ dẫn, hướng dẫn
 *  danh từ
-- xắc rộng, túi to
-- xe ngựa bốn chỗ ngồi
-- xe ô tô hàng có hai dãy ghế dài
-- xe chở đất đá có máy xúc tự động
+- chỉ thị, lời hướng dẫn
+@Chuyên ngành kinh tế
+-chỉ lệnh
+-chỉ thị
+@Chuyên ngành kỹ thuật
+-có hướng
+-điều khiển
+-định hướng
+-lệnh
+@Lĩnh vực: toán & tin
+-lệnh dẫn hướng
+

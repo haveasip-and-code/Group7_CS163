@@ -1,8 +1,14 @@
-heaviness	
-@heaviness /'hevinis/
-*  danh từ
-- sự nặng, sự nặng nề
-- tính chất nặng, tính chất khó tiêu (đồ ăn)
-- tính chất nặng trình trịch, tính chất vụng về khó coi, tính chất thô
-- tình trạng xấu, tình trạng lầy lội khó đi (đường sá)
-- sự đau buồn, sự buồn phiền; sự chán nản
+oxidize
+	
+*  ngoại động từ
++ (oxidize) /'ɔksidaiz/
+- làm gỉ
+- (hoá học) oxy hoá
+*  nội động từ
+- gỉ
+- (hoá học) bị oxy hoá
+@Chuyên ngành kỹ thuật
+-ôxi hóa
+@Lĩnh vực: hóa học & vật liệu
+-làm ô xi hóa
+

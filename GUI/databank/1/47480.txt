@@ -1,18 +1,8 @@
-reversible	@reversible /ri'və:səbl/
+gnathic
+	
 *  tính từ
-- phải trả lại
-=reversible possessions+ của cải phải trả giá
-- không có mặt trái, hai mặt như nhau (vải)
-=reversible cloth+ vải không có mặt phải mặt trái
-- (vật lý); (toán học) thuận nghịch, nghịch được
-=reversible motion+ chuyển động thuận nghịch
-=reversible transformation+ phép biến đổi nghịch được
-- có thể huỷ bỏ, thủ tiêu được (đạo luật, bản án...)
-@Chuyên ngành kinh tế
--chu trình đảo
--chu trình ngược
+- (thuộc) hàm
 @Chuyên ngành kỹ thuật
--đảo ngược được
--khả năng nghịch
-@Lĩnh vực: toán & tin
--khả nghịch
+@Lĩnh vực: y học
+-thuộc hàm
+

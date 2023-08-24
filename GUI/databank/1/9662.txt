@@ -1,8 +1,6 @@
-clastic	
-@clastic /'klæstik/
-*  tính từ
-- (địa lý,địa chất) (thuộc) mảnh vụn, vụn
+randomize
+	
+- ngẫu nhiên hoá
 @Chuyên ngành kỹ thuật
--vụn
-@Lĩnh vực: xây dựng
--vụn rời
+-ngẫu nhiên hóa
+

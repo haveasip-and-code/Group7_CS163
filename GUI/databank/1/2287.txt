@@ -1,11 +1,6 @@
-anisotropic	
-@anisotropic /,ænaisə'trɔpik/
-*  tính từ
-- (vật lý) không đẳng hướng
-@Chuyên ngành kỹ thuật
--dị hướng
--không đẳng hướng
-@Lĩnh vực: toán & tin
--không đồng hướng
-@Lĩnh vực: y học
--thuộc dị hương
+soldiers
+	
+-hàng gạch xây đứng
+@Lĩnh vực: xây dựng
+-hàng dọc
+

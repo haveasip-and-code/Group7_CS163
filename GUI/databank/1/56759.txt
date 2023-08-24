@@ -1,10 +1,7 @@
-tinsel	@tinsel /'tinsəl/
-*  danh từ
-- kim tuyến
-- vật hào nhoáng rẻ tiền, đồ mã; vẻ hào nhoáng
-*  tính từ
-- bằng kim tuyến
-- hào nhoáng rẻ tiền
-*  ngoại động từ
-- trang sức bằng kim tuyến; trang điểm bằng vật hào nhoáng
-- làm cho hào nhoáng
+resile
+	
+*  nội động từ
+- bật nảy; co giân, có tính đàn hồi
+@Chuyên ngành kỹ thuật
+-đàn hồi
+

@@ -1,11 +1,17 @@
-adjoint	
-@adjoint
-- liên hợp, phù hợp
-- a. of a differeential euation phương trình vi phân liên hợp
-- a. of a kernel liên hợp của một hạt nhân
-- a. of a matrix ma trạn liên hợp, ma trận Hecmit
+assess
+	
+*  ngoại động từ
+- định giá (tài sản, hoa lợi...) để đánh thuế; đánh giá; ước định
+- định mức (tiền thuế, tiền phạt)
+- đánh thuế, phạt
+=to be assessed at (in) ten dollars
++ bị đánh thuế mười đô la
+@Chuyên ngành kinh tế
+-đánh giá
+-định giá
+-định mức
+-tính giá (về tài sản, thuế, thiệt hại ...)
 @Chuyên ngành kỹ thuật
--chung biên
--kề
--nối
--phụ hợp
+-đánh giá
+-ước định
+

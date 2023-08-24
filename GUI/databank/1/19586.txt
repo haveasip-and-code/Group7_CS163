@@ -1,5 +1,4 @@
-exclusions	
-@Chuyên ngành kỹ thuật
--sự loại trừ
-@Chuyên ngành kỹ thuật
--sự loại trừ
+prefectural
+	
+- xem prefecture
+

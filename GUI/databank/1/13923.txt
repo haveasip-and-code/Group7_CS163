@@ -1,15 +1,14 @@
-decree	
-@decree /di'kri:/
-*  ngoại động từ
-- ra sắc lệnh, ra chiếu chỉ
+confrontation
+	
+*  danh từ
+- sự chạm trán, sự đương đầu
+- sự đối chất
+- sự đối chiếu
 @Chuyên ngành kinh tế
--bản án
--nghị định
--ra nghị định
--ra sắc lệnh
--sắc lệnh
--sắc luật
+-đối chiếu
+-đương đầu
+-sự chạm trán
+-sự đối chất
 @Chuyên ngành kỹ thuật
--sắc lệnh
-@Lĩnh vực: hóa học & vật liệu
--sắc luật
+-sự đối chiếu
+

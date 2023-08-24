@@ -1,8 +1,9 @@
-floe	
-@floe /floe/
-*  danh từ
-- tảng băng nổi
+symmetric
+	
+*  tính từ
+- đối xứng
 @Chuyên ngành kỹ thuật
--tảng băng nổi
-@Chuyên ngành kỹ thuật
--tảng băng nổi
+-đối xứng
+@Lĩnh vực: toán & tin
+-cân đối
+

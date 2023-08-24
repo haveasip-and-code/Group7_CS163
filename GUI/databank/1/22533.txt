@@ -1,15 +1,8 @@
-fulfill	
-@fulfill /ful'fil/ (fulfill) /ful'fil/
-*  ngoại động từ
-- thực hiện, hoàn thành, làm trọn (nhiệm vụ...)=to fulfil one's hop
-+ thực hiện nguyện vọng của mình
-- thi hành=to fulfil a command
-+ thi hành một mệnh lệnh
-- đáp ứng (lòng mong muốn, mục đích)
-- đủ (điều kiện...)
-@Chuyên ngành kỹ thuật
--đổ đầy
--làm đầy
--lấp đầy
--thi hành
--thực hiện
+appointee
+	
+*  danh từ
+- người được bổ nhiệm; người được chọn (để làm việc gì)
+@Chuyên ngành kinh tế
+-người được bổ nhiệm
+-người trúng tuyển
+

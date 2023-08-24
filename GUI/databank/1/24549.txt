@@ -1,12 +1,8 @@
-gulch	
-@gulch
-* danh từ
-- <Mỹ> khe sâu
-@Chuyên ngành kỹ thuật
--chỗ lõm
--khe hẻm
--lạch nước
-@Lĩnh vực: cơ khí & công trình
--dòng nước nhỏ
-@Lĩnh vực: xây dựng
--đường trũng
+reenforce
+	
+* ngoại động từ
+- (
++pon) lại bắt buộc, lại bắt tuân theo
+- lại đem thi hành (một đạo luật...)
+- lại nhấn mạnh, lại làm cho có giá trị (một lý lẽ...)
+

@@ -1,14 +1,13 @@
-detain	
-@detain /di'tein/
-*  ngoại động từ
-- ngăn cản, cản trở=to detain somebody in during something
-+ ngăn cản ai làm việc gì
-- cầm giữ (tiền lương, tiền nợ, đồ vật...)
-- giữ (ai) lại; bắt đợi chờ
-- giam giữ, cầm tù
+apical
+	
+*  tính từ
+- (thuộc) đỉnh, (thuộc) ngọn
+- điểm apec
+- đặt ở ngọn, đặt ở đỉnh
 @Chuyên ngành kỹ thuật
+-đỉnh
+@Lĩnh vực: y học
+-đỉnh sụn phễu
 @Lĩnh vực: xây dựng
--giữ lai
-@Lĩnh vực: hóa học & vật liệu
--khử thiếc
--tẩy thiếc
+-ở đỉnh
+

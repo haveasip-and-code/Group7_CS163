@@ -1,11 +1,22 @@
-scrabble	@scrabble /'skræbl/
+caisson
+	
 *  danh từ
-- chữ nguệch ngoạc, chữ viết ngoáy
-- sự cào bới
-- sự quờ quạng (tìm vật gì)
-*  ngoại động từ
-- viết nguệch ngoạc, viết ngoáy
-- cào, bới
-- quờ quạng, sờ soạng (tìm vật gì...)
+- hòm đạn dược
+- xe moóc chở đạn dược (mắc sau xe chở đại bác)
+*  danh từ ((cũng) pontoon)
+- (kỹ thuật) thùng lặn (dùng cho công nhân xây dựng dưới nước)
+- (hàng hải) thùng chắn (thùng to hình thuyền để chắn ở cửa vũng sửa chữa tàu)
+!caisson disease
+- (y học) bệnh khí ép, bệnh thợ lặn
 @Chuyên ngành kỹ thuật
--bò trườn
+-buồng lặn
+-cửa cống
+-cửa van nổi
+-giếng chìm
+-thùng khí nén
+@Lĩnh vực: xây dựng
+-ketxon không khí nén
+-thùng không khí nén
+@Lĩnh vực: hóa học & vật liệu
+-thùng lặn
+

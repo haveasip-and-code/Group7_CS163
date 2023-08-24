@@ -1,9 +1,7 @@
-fishway	
+windless
+	
+*  tính từ
+- không có gió, lặng gió
 @Chuyên ngành kỹ thuật
--đường cá bơi
--đường cá đi
--đường dẫn cá
-@Chuyên ngành kỹ thuật
--đường cá bơi
--đường cá đi
--đường dẫn cá
+-lặng gió
+

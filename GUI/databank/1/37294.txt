@@ -1,7 +1,7 @@
-oast	@oast /oust/
-*  danh từ
-- lò sấy hoa bia; lò sấy mạch nha; lò sấy thuốc lá
-@Chuyên ngành kinh tế
--lò ấy mạch nha
--lò sấy hoa hup lông
--lò sấy thuốc lá
+chargehand
+	
+* danh từ
+- người đốc công
+@Chuyên ngành kỹ thuật
+-mồi lửa
+

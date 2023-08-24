@@ -1,14 +1,35 @@
-embank	
-@embank /em'bæɳk/
+peck
+	
+*  danh từ
+- thùng, đấu to (đơn vị đo lường khoảng 9 lít)
+- (nghĩa bóng) nhiều, vô khối
+=a peck of troubles
++ vô khối điều phiền hà
+*  danh từ
+- cú mổ, vết mổ (của mỏ chim)
+- cái hôn vội
+- (từ lóng) thức ăn, thức nhậu, thức đớp
 *  ngoại động từ
-- chắn (sông... bằng đá...); đắp cao (đường)
+- mổ, khoét, nhặt (bằng mỏ)
+- đục, khoét (tường... bằng vật nhọn)
+- hôn vội (vào má...)
+- (thông tục) ăn nhấm nháp
+*  nội động từ
+- (
++ at) mổ vào
+- (nghĩa bóng) chê bai, bẻ bai, bắt bẻ
+*  ngoại động từ
+- (từ lóng) ném (đá)
+*  nội động từ
+- (
++ at) ném đá vào (ai...)
+@Chuyên ngành kinh tế
+-thùng
 @Chuyên ngành kỹ thuật
--đắp
--đắp đê
+@Lĩnh vực: đo lường & điều khiển
+-đấu to
+@Lĩnh vực: hóa học & vật liệu
+-đơn vị thể tích bằng 9, 0921 (bằng 2 galong)
 @Lĩnh vực: xây dựng
--đắp cao (đường)
-@Chuyên ngành kỹ thuật
--đắp
--đắp đê
-@Lĩnh vực: xây dựng
--đắp cao (đường)
+-mổ
+

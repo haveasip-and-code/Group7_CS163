@@ -1,21 +1,4 @@
-sounder	@sounder /'saundə/
-*  danh từ
-- máy phát âm
-- máy điện báo ghi tiếng
-- người dò
-- máy dò (chiều sâu của biển...)
-- lợn rừng đực nhỏ
-- (từ cổ,nghĩa cổ) đàn lợn rừng
-@Chuyên ngành kinh tế
--lợn rừng đực nhỏ
--máy ghi âm
-@Chuyên ngành kỹ thuật
--máy hồi âm
--thiết bị dò
-@Lĩnh vực: điện
--bộ phận phát âm
-@Lĩnh vực: toán & tin
--bộ tạo âm thanh
-@Lĩnh vực: điện lạnh
--máy dò (độ sâu)
--máy phát am
+communality
+	
+- xem communal
+

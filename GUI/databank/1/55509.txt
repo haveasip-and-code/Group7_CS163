@@ -1,22 +1,8 @@
-tamp	@tamp /tæmp/
-*  ngoại động từ
-- nhét, nhồi (thuốc lá vào tẩu...)
-- đầm, nện
-=to tamp the ground+ đầm đất
-@Chuyên ngành kinh tế
--đổ đầy
--nhồi
+halophilic
+	
+* tính từ,  halophilous
++thuộc thực vật ưa mặn
 @Chuyên ngành kỹ thuật
--búa đầm
--búa đóng cọc
--đầm
--đầm chặt
--đầm, bao phủ
--đập
--lèn
--nén
--nện
--nhồi (chặt)
-@Lĩnh vực: xây dựng
--đầm, nện, lèn
--nện chặt
+@Lĩnh vực: y học
+-chịu mặn
+

@@ -1,7 +1,5 @@
-nomogram	@nomogram
-- toán đồ
-- hexagonal n. toán đồ lục giác
-- riht-angled n. toán đồ vuông góc
-- slide-rule n. toán đồ loại thước tính
-@Chuyên ngành kỹ thuật
--biểu đồ
+monotypic
+	
+*  tính từ
+- chỉ có một đại diện
+

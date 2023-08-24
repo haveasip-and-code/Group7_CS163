@@ -1,32 +1,27 @@
-jaw	
-@jaw /dʤɔ:/
-*  danh từ
-- hàm, quai hàm=upper jaw
-+ hàm trên=lower jaw
-+ hàm dưới
-- (số nhiều) mồm, miệng=in the jaws of death
-+ trong tay thần chết
-- (số nhiều) lối vào hẹp (thung lũng, vịnh, eo biển...)
-- (số nhiều) (kỹ thuật) cái kẹp; má (kìm...), hàm (êtô...)
-- (thông tục) sự lắm mồm, sự nhiều lời, sự ba hoa
-- sự răn dạy; sự chỉnh, sự "lên lớp"  (nghĩa bóng)=pi jaw
-+(ngôn ngữ nhà trường),  (từ lóng) sự chỉnh, sự "lên lớp"!hold your jaw!
-- thôi câm cái mồn đi, đừng ba hoa nữa!; thôi đừng "lên lớp" nữa!
-*  động từ (từ lóng)
-- nói lải nhải, nói dài dòng chán ngắt
-- răn dạy, chỉnh, "lên lớp" (ai), thuyết cho (ai) một hồi
+append
+	
+*  ngoại động từ
+- treo vào
+- cột vào, buộc vào, nối vào, chấp vào
+=to append something to another
++ chấp vật gì với vật khác
+- gắn vào; viết thêm vào; đóng (dấu), áp (triện...); ký tên
+=to append one's signature to a document
++ ký tên vào một văn kiện
+=to append a seal
++ đóng dấu
+@Chuyên ngành kinh tế
+-đóng (dấu)
+-ký (tên)
+-viết thêm vào
 @Chuyên ngành kỹ thuật
--chân
--ê tô
--guốc phanh
--hàm
--hàn
--má kẹp
--mỏ cặp
--mỏ kẹp
--vấu cặp
--vấu mâm cặp
+-chắp nối
+-cột
+-nối thêm
+-treo
+@Lĩnh vực: toán & tin
+-cộng thêm
+-nối thêm dữ liệu
 @Lĩnh vực: xây dựng
--má (êtô)
-@Lĩnh vực: y học
--xương hàm
+-kết
+

@@ -1,8 +1,24 @@
-gagger	
-@gagger
-* danh từ
-- cái mốc (thợ khuôn)
-- con mã (đúc)
-- thợ dập khuôn
-- người bịt miệng người khác
-- người kiềm chế ngôn luận
+flashover
+	
+* danh từ số nhiều
+- sự bắn tia lửa
+- (điện) sự đánh thủng lớp cách điện
+@Chuyên ngành kỹ thuật
+-đánh lửa
+-sự đánh lửa
+-sự phóng điện
+@Lĩnh vực: điện
+-phóng điện xuyên
+-phóng hồ quang
+@Lĩnh vực: xây dựng
+-sự bùng cháy
+@Chuyên ngành kỹ thuật
+-đánh lửa
+-sự đánh lửa
+-sự phóng điện
+@Lĩnh vực: điện
+-phóng điện xuyên
+-phóng hồ quang
+@Lĩnh vực: xây dựng
+-sự bùng cháy
+

@@ -1,3 +1,10 @@
-criticizer	
-@criticizer
-- xem criticize
+preselection
+	
+*  danh từ
+- sự chọn lựa trước
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: ô tô
+-sự chọn trước
+@Lĩnh vực: toán & tin
+-sự lựa chọn trước
+

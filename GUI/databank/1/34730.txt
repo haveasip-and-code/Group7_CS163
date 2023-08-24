@@ -1,6 +1,5 @@
-microform	@microform
-* danh từ
-- dạng thu nhỏ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--vi dạng
+disinherit
+	
+*  ngoại động từ
+- tước quyền thừa kế
+

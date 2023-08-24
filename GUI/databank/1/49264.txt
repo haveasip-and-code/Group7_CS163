@@ -1,79 +1,9 @@
-screw	@screw /skru:/
-*  danh từ
-- ngựa ốm, ngựa hom hem kiệt sức
-*  danh từ
-- đinh vít, đinh ốc
-- chân vịt (tàu thuỷ), cánh quạt (máy bay) ((cũng) screw propeller); tàu có chân vịt ((cũng) screw steamer)
-- sự siết con vít
-=give it another screw+ siết thêm một ít nữa
-- người bủn xỉn, người keo cú; người bòn rút
-- (từ lóng) tiền lương
-- gói nhỏ (thuốc lá, chè...)
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cai ngục
-!to have a screw loose
-- gàn dở
-=there is a screw loose+ có cái gì không ổn
-!to put the screw on
-- gây sức ép
-*  động từ
-- bắt vít, bắt vào bằng vít; vít chặt cửa
-=to screw someone up+ vít chặt cửa không cho ai ra
-- siết vít, vặn vít, ky cóp
-- (+ out of) bòn rút, bóp nặn (tiền); ép cho được (sự đồng ý)
-=to screw the truth out of someone+ bắt ép ai phải nói sự thật
-- cau (mặt), nheo (mắt), mím (môi)
-=to screw up one's eyes+ nheo mắt
-=to screw up one's lips+ mím môi
-- (từ lóng) lên dây cót
-- xoáy (vít)
-=to screw to the right+ xoáy sang bên phải
-!to crew up one's courage
-- (xem) courage
+megabyte
+	
+- Một đơn vị đo lường dung lượng lưu trữ, xấp xỉ bằng 1 triệu byte (1 048 576 bytes)
 @Chuyên ngành kinh tế
--đinh ốc
--đinh vít
--tiền lương
--tiền lương, tiền công
--vít tải
+-mê ga bai
 @Chuyên ngành kỹ thuật
--bắt vít
--bộ cánh quạt máy bay
--bulông
--bulông móng
--bulông ngạnh
--chốt
--đinh ốc
--đinh vít
--đường đinh ốc
--ê tô
--êcu
--guồng xoắn
--kẹp chặt bằng vít
--ren
--ren vít
--trụ đỡ
--trục xoay
--vặn vít
--vít
--vít gỗ
--vít tải
--vít vô tận
--xoắn
-@Lĩnh vực: cơ khí & công trình
--bánh khía răng xoắn
--cánh quạt (máy bay)
--chân vịt (tàu thủy)
--đường xoắn vít
--liên kết bằng bulông
--liên kết bằng vít
--ốc
-@Lĩnh vực: giao thông & vận tải
--chân vịt (truyền động tàu)
-@Lĩnh vực: xây dựng
--đinh vit
--vặn chặt
--vặn vào
--vít bắt kim loại
--vít nhỏ
 @Lĩnh vực: toán & tin
--đinh vít, đinh ốc
+-triệu byte
+

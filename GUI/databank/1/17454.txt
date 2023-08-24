@@ -1,10 +1,6 @@
-effector	
-@effector
-* danh từ
-- (sinh học) cơ quan phản ứng lại kích thích
-- người thực hành, người sáng tạo
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bộ phận tác động
-@Lĩnh vực: đo lường & điều khiển
--cơ cấu chấp hành
+shallowly
+	
+* phó từ
+- nông, cạn, không sâu
+- nông cạn, hời hợt
+

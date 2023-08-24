@@ -1,9 +1,14 @@
-shroff	@shroff /ʃrɔf/
+metropolitan
+	
+*  tính từ
+- (thuộc) thủ đô; có tính chất thủ đô
+- (thuộc) trung tâm, có tính chất trung tâm (văn hoá, chính trị...)
+- (thuộc) nước mẹ, (thuộc) mẫu quốc
+- (tôn giáo) (thuộc) thủ đô giáo khu
 *  danh từ
-- chủ ngân hàng, người đổi tiền (ở phương Đông)
-- chuyên viên phát hiện tiền (vàng, bạc) giả (ở phương Đông)
-*  ngoại động từ
-- xem xét (để phát hiện tiền giả)
-@Chuyên ngành kinh tế
--người đổi tiền (ở Ấn Độ)
--người giám định tiền tệ
+- người dân thủ đô
+- người dân mẫu quốc
+- (tôn giáo) Tổng giám mục
+@Chuyên ngành kỹ thuật
+-đô thị
+
