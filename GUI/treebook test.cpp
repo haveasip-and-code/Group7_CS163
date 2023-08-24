@@ -1315,8 +1315,8 @@ wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
 }
 
 wxBEGIN_EVENT_TABLE(MyFrame, wxFrame)
-EVT_AUINOTEBOOK_PAGE_CHANGED(wxID_ANY, MyFrame::OnAuiNotebook)
-EVT_AUINOTEBOOK_PAGE_CHANGING(wxID_ANY, MyFrame::OnAuiNotebook)
+EVT_NOTEBOOK_PAGE_CHANGED(wxID_ANY, MyFrame::OnNotebook)
+EVT_NOTEBOOK_PAGE_CHANGING(wxID_ANY, MyFrame::OnNotebook)
 wxEND_EVENT_TABLE()
 
 MyFrame::MyFrame()
@@ -1324,7 +1324,7 @@ MyFrame::MyFrame()
           wxSYSTEM_MENU | wxMINIMIZE_BOX | wxCLOSE_BOX | wxCAPTION | wxCLIP_CHILDREN)
 {
 
-    m_type = Type_AuiNotebook;
+    //m_type = Type_Notebook;
     this->SetBackgroundColour(wxColour(73, 86, 111));
     m_panel    = NULL;
     m_bookCtrl = NULL;
@@ -1386,15 +1386,15 @@ MyFrame::~MyFrame()
 }
 
 #if wxUSE_AUI
-#define CASE_AUINOTEBOOK(x) case Type_AuiNotebook: x; break;
+#define CASE_NOTEBOOK(x) case Type_Notebook: x; break;
 #else
-#define CASE_AUINOTEBOOK(x)
+#define CASE_NOTEBOOK(x)
 #endif
 
 #define DISPATCH_ON_TYPE(before, aui, after)\
 switch ( m_type )                                         \
 {                                                      \
-CASE_AUINOTEBOOK(before aui after) \
+CASE_NOTEBOOK(before aui after) \
 \
 \
 default:                                \
@@ -1405,12 +1405,12 @@ void MyFrame::RecreateBook()
 {
     // m_bookCtrl = NULL;
 
-    // DISPATCH_ON_TYPE(m_bookCtrl = new, wxAuiNotebook,
+    // DISPATCH_ON_TYPE(m_bookCtrl = new, wxNotebook,
     //                  (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
 
     // if ( !m_bookCtrl )
     //     return;
-
+    pSound(wrongAnswer);
     wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
     functionBar->SetBackgroundColour(wxColour(73, 86, 111));
 
@@ -1430,6 +1430,7 @@ void MyFrame::RecreateBook()
 
 void MyFrame::OnShowImages(wxCommandEvent& event)
 {
+    return;
     m_chkShowImages = event.IsChecked();
     RecreateBook();
     pSound(clickSound);
@@ -1440,6 +1441,7 @@ void MyFrame::OnShowImages(wxCommandEvent& event)
 //replace file path at line 1429
 void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
 {
+    //return;
     pSound(clickSound);
     static const struct EventInfo
     {
@@ -1448,17 +1450,18 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         const wxString name;
     } events[] =
     {
-
+/*
 #if wxUSE_AUI
         {
-            wxEVT_AUINOTEBOOK_PAGE_CHANGED,
-            wxEVT_AUINOTEBOOK_PAGE_CHANGING,
-            "wxAuiNotebook"
+            wxEVT_NOTEBOOK_PAGE_CHANGED,
+            wxEVT_NOTEBOOK_PAGE_CHANGING,
+            "wxNotebook"
         },
 #endif
+*/
     };
 
-
+    //pSound(clickSound);
     wxString nameEvent,
              nameControl,
              veto;
@@ -1472,6 +1475,7 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         if ( eventType == ei.typeChanged )
         {
             pSound(clickSound);
+            //cout<<"Fuck\n";
             nameEvent = "Changed";
         }
         else if ( eventType == ei.typeChanging )
@@ -1481,11 +1485,11 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
 
             if (idx != wxNOT_FOUND &&
                 book){
-                    wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
-                //pSound(clickSound);
+                //wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
+                pSound(clickSound);
                 m_tabChangeSound.Play("sound/click.wav", wxSOUND_ASYNC);
             }
-            wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
+            //wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
             nameEvent = "Changing";
         }
         else // skip end of the loop
