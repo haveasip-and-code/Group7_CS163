@@ -389,7 +389,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
         panel->Layout();
-        subpanel->build(favouriteList);
+        //subpanel->build(favouriteList);
     });
 
     sizer2->AddStretchSpacer();
@@ -1292,17 +1292,21 @@ wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
 {
     if ( pageName == DICTIONARY ) {
         return DictionaryPage(parent);
+        wxMessageBox("aaaaaaaaaaaaaaaaaaaaaxxxxxxxxaa");
     }
     if ( pageName == FAVOURITE_LIST ) {
         //pSound("click.wav");
+        wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaabbbbbbbbb");
         return FavoriteList(parent);
     }
     if ( pageName == ADD_NEW_WORD ) {
         //pSound("click.wav");
+        wxMessageBox("aaaaaaaaaaaaaaaaaaaaaasssssssa");
         return CreateAddPage(parent);
     }
     if ( pageName == GAME ) {
         //pSound("click.wav");
+        wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
         return CreateGamePage(parent);
     }
     wxFAIL_MSG( "unknown page name" );
@@ -1412,8 +1416,9 @@ void MyFrame::RecreateBook()
 
     // m_bookCtrl->Hide();
 
-    if ( m_chkShowImages )
+    if ( m_chkShowImages ) {
         functionBar->SetImages(m_images);
+    }
 
     CreateInitialPages(functionBar);
 
@@ -1476,9 +1481,11 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
 
             if (idx != wxNOT_FOUND &&
                 book){
-            
-                m_tabChangeSound.Play("mixkit-arcade-game-jump-coin-216.wav", wxSOUND_ASYNC);
+                    wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
+                //pSound(clickSound);
+                m_tabChangeSound.Play("sound/click.wav", wxSOUND_ASYNC);
             }
+            wxMessageBox("aaaaaaaaaaaaaaaaaaaaaaa");
             nameEvent = "Changing";
         }
         else // skip end of the loop

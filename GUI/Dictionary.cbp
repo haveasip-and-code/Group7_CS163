@@ -112,6 +112,7 @@
 		<Unit filename="Form Login.cpp" />
 		<Unit filename="Form Login.hpp" />
 		<Unit filename="Main.hpp" />
+		<Unit filename="add_clicked.png" />
 		<Unit filename="core.cpp" />
 		<Unit filename="core.h" />
 		<Unit filename="databankManager.cpp" />
@@ -143,6 +144,14 @@
 		<Unit filename="metadata.h" />
 		<Unit filename="prototype.cpp" />
 		<Unit filename="prototype.h" />
+		<Unit filename="sound/click.wav" />
+		<Unit filename="sound/correct.mp3" />
+		<Unit filename="sound/correct.ogg" />
+		<Unit filename="sound/correct.wav" />
+		<Unit filename="sound/wrong(unused).wav" />
+		<Unit filename="sound/wrong.mp3" />
+		<Unit filename="sound/wrong.ogg" />
+		<Unit filename="sound/wrong.wav" />
 		<Unit filename="storage.cpp" />
 		<Unit filename="storage.h" />
 		<Unit filename="ternarySearchTree.cpp" />
