@@ -17,6 +17,9 @@
 #include "generalLib.h"
 #include "debugCore.h"
 #include "handling.h"
+#include "wx/sound.h"
+#include "wx/setup.h"
+#include "Windows.h"
 
 #ifdef __WXMSW__
 #include <windows.h>
@@ -64,9 +67,25 @@ extern TST data1;
 
 bool isEditable;
 
+string correctAnswer="sound/correct.wav";
+string wrongAnswer("sound/wrong.wav");
+string clickSound("sound/click.wav");
+
 vector<string> inputRegex;
 
 MyPanel* subpanel;
+
+void pSound(const std::string filename) {
+    //if (bitCHSound.Play(wxSOUND_ASYNC)) cout<<"Sound should play right?\n";
+    //sndPlaySound(bitCHSound, SND_FILENAME | SND_ASYNC);
+    int size = MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, NULL, 0);
+    wchar_t* wFileName = new wchar_t[size];
+    MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, wFileName, size);
+
+    sndPlaySound(wFileName, SND_FILENAME | SND_ASYNC);
+
+    delete[] wFileName;
+}
 
 void updateFavourite(pair<string,string> tmp) {
     cout<<"+ "<<tmp.first<<'\n';
@@ -105,6 +124,8 @@ wxBitmap statusBitmap;
 
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
+    //pSound("click.wav");
+    cout<<"What just happen?\n";
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
 
@@ -538,6 +559,15 @@ void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wx
 
     wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, favorited_ico, wxDefaultPosition, wxSize(30,30));
+    removeFromFav->SetClientData(clientValue);
+
+    removeFromFav->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+        int pos=*static_cast<int*>(removeFromFav->GetClientData());
+        removeFavourite(pos);
+        sizer2->Clear();
+        //constructSc(panel,sizer2,myAppFont2,target);
+        //panel->Layout();
+    });
 
     wxBoxSizer* itemSizer = new wxBoxSizer(wxHORIZONTAL);
 
@@ -805,6 +835,9 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
     //wxStaticText* questionLabel;
     //wxStaticText* answerLabel[5];
 
+    //if (correctAnswer.Create("sound/correct.ogg")) cout<<"Sound 1 ok!\n";
+    //if (wrongAnswer.Create("sound/wrong.ogg")) cout<<"Sound 2 ok!\n";
+
     mode=1;
 
     //Fuck all of these panelring fuckery
@@ -818,6 +851,8 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         panel->SetSizerAndFit(mainSizer);
 
         ButtonColour=wxColor("#EAFBEA");
+
+        wxSound testSound("sound/correct.ogg");
         /*
         answerLabel[1] = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         answerLabel[1]->SetSize(wxSize(586,130));
@@ -906,11 +941,12 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 if (tmp==ans) {
                     answerButton[1]->SetBackgroundColour(wxColour("#49be25"));
                     point++;
-
+                    pSound(correctAnswer);
                 }
                 else {
                     answerButton[1]->SetBackgroundColour(wxColour("#be4d25"));
                     point =0;
+                    pSound(wrongAnswer);
                 }
                 displayScore(point);
                 if (mode==1) {
@@ -931,10 +967,12 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 if (tmp==ans) {
                     answerButton[2]->SetBackgroundColour(wxColour("#49be25"));
                     point++;
+                    pSound(correctAnswer);
                 }
                 else {
                     answerButton[2]->SetBackgroundColour(wxColour("#be4d25"));
                     point =0;
+                    pSound(wrongAnswer);
                 }
                 displayScore(point);
                 if (mode==1) {
@@ -955,11 +993,12 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 if (tmp==ans) {
                     answerButton[3]->SetBackgroundColour(wxColour("#49be25"));
                     point++;
-
+                    pSound(correctAnswer);
                 }
                 else {
                     answerButton[3]->SetBackgroundColour(wxColour("#be4d25"));
                     point =0;
+                    pSound(wrongAnswer);
                 }
                 displayScore(point);
                 if (mode==1) {
@@ -980,11 +1019,12 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
                 if (tmp==ans) {
                     answerButton[4]->SetBackgroundColour(wxColour("#49be25"));
                     point++;
-
+                    pSound(correctAnswer);
                 }
                 else {
                     answerButton[4]->SetBackgroundColour(wxColour("#be4d25"));
                     point =0;
+                    pSound(wrongAnswer);
                 }
                 displayScore(point);
                 if (mode==1) {
@@ -998,9 +1038,12 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
             }
         });
 
+        testSound.Play(wxSOUND_LOOP|wxSOUND_ASYNC);
+
         questionButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
         {
             {
+                pSound(clickSound);
                 if (mode==2) mode=1;
                 else mode=2;
                 point=0;
@@ -1247,18 +1290,21 @@ void CreateInitialPages(wxBookCtrlBase *parent)
 
 wxWindow *CreatePage(wxBookCtrlBase *parent, const wxString&pageName)
 {
-    if ( pageName == DICTIONARY )
+    if ( pageName == DICTIONARY ) {
         return DictionaryPage(parent);
-
-    if ( pageName == FAVOURITE_LIST )
+    }
+    if ( pageName == FAVOURITE_LIST ) {
+        //pSound("click.wav");
         return FavoriteList(parent);
-
-    if ( pageName == ADD_NEW_WORD )
+    }
+    if ( pageName == ADD_NEW_WORD ) {
+        //pSound("click.wav");
         return CreateAddPage(parent);
-
-    if ( pageName == GAME )
+    }
+    if ( pageName == GAME ) {
+        //pSound("click.wav");
         return CreateGamePage(parent);
-
+    }
     wxFAIL_MSG( "unknown page name" );
 
     return NULL;
@@ -1363,6 +1409,7 @@ void MyFrame::RecreateBook()
 
     wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
     functionBar->SetBackgroundColour(wxColour(73, 86, 111));
+
     // m_bookCtrl->Hide();
 
     if ( m_chkShowImages )
@@ -1380,6 +1427,7 @@ void MyFrame::OnShowImages(wxCommandEvent& event)
 {
     m_chkShowImages = event.IsChecked();
     RecreateBook();
+    pSound(clickSound);
     m_sizerFrame->Layout();
 }
 
@@ -1387,6 +1435,7 @@ void MyFrame::OnShowImages(wxCommandEvent& event)
 //replace file path at line 1429
 void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
 {
+    pSound(clickSound);
     static const struct EventInfo
     {
         wxEventType typeChanged,
@@ -1417,10 +1466,12 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         const EventInfo& ei = events[n];
         if ( eventType == ei.typeChanged )
         {
+            pSound(clickSound);
             nameEvent = "Changed";
         }
         else if ( eventType == ei.typeChanging )
         {
+            //pSound(clickSound);
             const int idx = event.GetOldSelection();
 
             if (idx != wxNOT_FOUND &&
@@ -1432,6 +1483,7 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         }
         else // skip end of the loop
         {
+            pSound(clickSound);
             continue;
         }
 

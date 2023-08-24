@@ -3,6 +3,8 @@
 #include "globalVariableController.h"
 #include "storage.h"
 #include "ternarySearchTree.h"
+#include "wx/sound.h"
+#include "wx/setup.h"
 
 //From core.h
 int curMaxSlot;

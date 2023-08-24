@@ -7,6 +7,8 @@
 #include "generalLib.h"
 #include "debugCore.h"
 #include "initCore.h"
+#include "wx/sound.h"
+#include "wx/setup.h"
 
 extern int dataSetCnt;
 extern int curDataSet;

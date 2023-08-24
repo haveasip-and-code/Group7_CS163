@@ -7,6 +7,7 @@
 #include "databankManager.h"
 #include "timeModule.h"
 #include "flagging.h"
+#include "wx/sound.h"
 
 extern int curDataSet;
 extern int curMaxSlot;
