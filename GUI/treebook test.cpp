@@ -129,7 +129,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
 
-    panel->SetBackgroundColour(wxColour(238, 238, 238));
+    panel->SetBackgroundColour(wxColour(249, 246, 246));
     ::wxInitAllImageHandlers();
 
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
@@ -161,6 +161,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     });
 
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
+    searchBar->SetForegroundColour(wxColour(73, 86, 111));
     // searchBar->ShowCancelButton(false);
 
     wxWindowListNode* firstChild = searchBar->GetChildren().GetFirst();
@@ -171,7 +172,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             textCtrl->SetFont(myAppFont);
         }
         else {
-            wxLogMessage("No data1");
+            wxLogMessage("No data");
         }
     }
     else {
@@ -181,7 +182,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
     word->SetFont(wxFont(30, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Bold"));
     word->SetHint("the word");
-    word->SetBackgroundColour(wxColour(238, 238, 238));
+    word->SetBackgroundColour(wxColour(249, 246, 246));
     word->SetForegroundColour(wxColour(73, 86, 111));
 
     #ifdef __WXMSW__
@@ -195,7 +196,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     definition->SetFont(wxFont(11, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
     definition->SetHint("definition");
-    definition->SetBackgroundColour(wxColour(238, 238, 238));
+    definition->SetBackgroundColour(wxColour(249, 246, 246));
     definition->SetForegroundColour(wxColour(73, 86, 111));
 
     hwndTextCtrl = static_cast<HWND>(definition->GetHWND());
@@ -270,12 +271,11 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     // wxBoxSizer* sizer3 = new wxBoxSizer(wxHORIZONTAL);
     wxBitmap unedit_ico = wxBitmap("edit_unclicked.png", wxBITMAP_TYPE_ANY);
     wxBitmap edit_ico = wxBitmap("edit_clicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition, wxSize(30,30));
+    wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, unedit_ico, wxDefaultPosition, wxSize(30,30));
     //wxBitmapButton* m_edit = new wxBitmapButton(panel, wxID_ANY, edit_ico, wxDefaultPosition);
     //m_edit->SetSize(wxSize(30, 30));
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
-
             static bool notEdit = true;
             wxBitmap statusBitmap = notEdit ? unedit_ico : edit_ico;
             m_edit->SetBitmapLabel(statusBitmap);
@@ -395,15 +395,14 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     sizer2->AddStretchSpacer();
     sizer2->Add(m_remove, 0, wxRIGHT);
     sizer2->Add(m_edit, 0, wxRIGHT);
-    sizer2->Add(m_favourite, 0, wxRIGHT);
+    sizer2->Add(m_favourite, 0, wxRIGHT, 50);
 
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer6 = new wxBoxSizer(wxHORIZONTAL);
 
-    wxBitmap unDataSet_ico = wxBitmap("DataSet_unclicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmap DataSet_ico = wxBitmap("DataSet_clicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap unDataSet_ico = wxBitmap("dataset_unclicked.png", wxBITMAP_TYPE_ANY);
+    wxBitmap DataSet_ico = wxBitmap("dataset_clicked.png", wxBITMAP_TYPE_ANY);
     wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
-
 
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
 
@@ -463,22 +462,24 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         definition->ChangeValue(curDef);
     });
 
-    sizer5->Add(m_wordOfDay, 0);
+    sizer5->Add(m_wordOfDay, 0, wxRIGHT, 26);
     sizer5->AddSpacer(5);
 
     sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
-    sizer6->Add(m_dataset, 0, wxRIGHT, 5);
+    sizer6->Add(m_dataset, 0, wxRIGHT, 26);
 
     // sizer3->Add(sizer2, 0);
     // sizer3->AddSpacer(300);
     // // sizer4->Add(sizer3, 0);
 
-    all_sizer->Add(sizer, 0);
+    all_sizer->AddSpacer(35);
+    all_sizer->Add(sizer, 0, wxLEFT, 50);
     all_sizer->AddSpacer(60);
-    all_sizer->Add(sizer2, 0, wxEXPAND);
-    all_sizer->Add(definition, 0);
+    all_sizer->Add(sizer2, 0, wxEXPAND | wxLEFT, 50);
+    all_sizer->Add(definition, 0, wxLEFT, 50);
     all_sizer->Add(sizer5, 0, wxALIGN_RIGHT);
     all_sizer->Add(sizer6, 0, wxALIGN_RIGHT);
+    all_sizer->AddSpacer(22);
     panel->SetSizer(all_sizer);
 
     return panel;
@@ -1346,7 +1347,7 @@ MyFrame::MyFrame()
                        {
         //reset function of Cuong
 
-        wxLogMessage("Your data1 has been reset");
+        wxLogMessage("Your data has been reset.");
     });
 
     wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
@@ -1430,31 +1431,35 @@ void MyFrame::OnShowImages(wxCommandEvent& event)
     m_sizerFrame->Layout();
 }
 
+
+//replace file path at line 1429
 void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
 {
     pSound(clickSound);
     static const struct EventInfo
     {
         wxEventType typeChanged,
-        typeChanging;
+                    typeChanging;
         const wxString name;
     } events[] =
     {
 
-        wxEVT_AUINOTEBOOK_PAGE_CHANGED,
-        wxEVT_AUINOTEBOOK_PAGE_CHANGING,
-        "wxAuiNotebook"
-    }
-    ;
-    // wxUSE_TREEBOOK
+#if wxUSE_AUI
+        {
+            wxEVT_AUINOTEBOOK_PAGE_CHANGED,
+            wxEVT_AUINOTEBOOK_PAGE_CHANGING,
+            "wxAuiNotebook"
+        },
+#endif
+    };
+
 
     wxString nameEvent,
-    nameControl,
-    veto;
+             nameControl,
+             veto;
     const wxEventType eventType = event.GetEventType();
-
-    // NB: can't use wxStaticCast here as wxBookCtrlBase is not in
-    //     wxRTTI
+    const wxBookCtrlBase * const
+        book = static_cast<wxBookCtrlBase *>(event.GetEventObject());
 
     for ( size_t n = 0; n < WXSIZEOF(events); n++ )
     {
@@ -1466,7 +1471,14 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         }
         else if ( eventType == ei.typeChanging )
         {
-            pSound(clickSound);
+            //pSound(clickSound);
+            const int idx = event.GetOldSelection();
+
+            if (idx != wxNOT_FOUND &&
+                book){
+            
+                m_tabChangeSound.Play("mixkit-arcade-game-jump-coin-216.wav", wxSOUND_ASYNC);
+            }
             nameEvent = "Changing";
         }
         else // skip end of the loop
@@ -1478,4 +1490,5 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         nameControl = ei.name;
         break;
     }
+
 }
