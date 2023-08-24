@@ -1383,30 +1383,34 @@ void MyFrame::OnShowImages(wxCommandEvent& event)
     m_sizerFrame->Layout();
 }
 
+
+//replace file path at line 1429
 void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
 {
     static const struct EventInfo
     {
         wxEventType typeChanged,
-        typeChanging;
+                    typeChanging;
         const wxString name;
     } events[] =
     {
 
-        wxEVT_AUINOTEBOOK_PAGE_CHANGED,
-        wxEVT_AUINOTEBOOK_PAGE_CHANGING,
-        "wxAuiNotebook"
-    }
-    ;
-    // wxUSE_TREEBOOK
+#if wxUSE_AUI
+        {
+            wxEVT_AUINOTEBOOK_PAGE_CHANGED,
+            wxEVT_AUINOTEBOOK_PAGE_CHANGING,
+            "wxAuiNotebook"
+        },
+#endif
+    };
+
 
     wxString nameEvent,
-    nameControl,
-    veto;
+             nameControl,
+             veto;
     const wxEventType eventType = event.GetEventType();
-
-    // NB: can't use wxStaticCast here as wxBookCtrlBase is not in
-    //     wxRTTI
+    const wxBookCtrlBase * const
+        book = static_cast<wxBookCtrlBase *>(event.GetEventObject());
 
     for ( size_t n = 0; n < WXSIZEOF(events); n++ )
     {
@@ -1417,6 +1421,13 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         }
         else if ( eventType == ei.typeChanging )
         {
+            const int idx = event.GetOldSelection();
+
+            if (idx != wxNOT_FOUND &&
+                book){
+            
+                m_tabChangeSound.Play("mixkit-arcade-game-jump-coin-216.wav", wxSOUND_ASYNC);
+            }
             nameEvent = "Changing";
         }
         else // skip end of the loop
@@ -1427,4 +1438,5 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         nameControl = ei.name;
         break;
     }
+
 }

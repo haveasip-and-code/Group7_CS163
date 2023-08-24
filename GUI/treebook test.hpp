@@ -8,6 +8,7 @@
 #ifndef treebook_test_hpp
 #define treebook_test_hpp
 
+#include <wx/sound.h>
 #include <stdio.h>
 #include "wx/wx.h"
 #include <wx/aui/auibook.h>
@@ -151,6 +152,7 @@ private:
 
     // Controls
 
+    wxSound m_tabChangeSound;
     wxPanel *m_panel; // Panel containing notebook and other controls
     wxBookCtrlBase *m_bookCtrl;
 
