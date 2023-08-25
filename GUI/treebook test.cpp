@@ -582,6 +582,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     // wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
 
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
+    chooseDataSet->SetFont(myAppFont);
 
     wxArrayString dataSets;
     dataSets.Add("Eng - Vie");
