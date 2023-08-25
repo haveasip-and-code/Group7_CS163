@@ -639,13 +639,15 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         curDef=stringToWxString(searchResult.second);
         curWord=stringToWxString(searchResult.first);
         word->ChangeValue(curWord);
+        word->SetForegroundColour(wxColour(73, 86, 111));
         definition->ChangeValue(curDef);
+        definition->SetForegroundColour(wxColour(73, 86, 111));
     });
 
     sizer5->Add(m_wordOfDay, 0, wxRIGHT, 26);
     sizer5->AddSpacer(5);
 
-    sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
+    sizer6->Add(chooseDataSet, 0, wxRIGHT, 26);
     // sizer6->Add(m_dataset, 0, wxRIGHT, 26);
 
     // sizer3->Add(sizer2, 0);
@@ -1904,7 +1906,7 @@ MyFrame::MyFrame()
     m_text->SetForegroundColour(*wxYELLOW);
 
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
-    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(80,80));
+    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(75, 75));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
@@ -1915,7 +1917,7 @@ MyFrame::MyFrame()
     });
 
     wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
-    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(80,80));
+    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(75, 75));
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
@@ -1974,6 +1976,7 @@ void MyFrame::RecreateBook(int idx)
     pSound(wrongAnswer);
     wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
     functionBar->SetBackgroundColour(wxColour(73, 86, 111));
+    // unctionBar->SetSize(1200,680);
 
     // m_bookCtrl->Hide();
 
