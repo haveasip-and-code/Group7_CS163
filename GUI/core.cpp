@@ -37,7 +37,7 @@ void addWord(trieNode* dataSet,string &cur,string &definition) {
 }
 
 void addWord(TSTNode* dataSet,string &cur,string &definition) {
-    TSTNode* tmp=dataSet->insert(cur);
+    TSTNode* tmp=dataSet->insert(encrypt(cur));
     if (!tmp) {
         //Something is wrong here.
         debug("Failure when trying to add string \""+cur+"\": Insert function get to an null node.");
@@ -206,13 +206,14 @@ void bulkLoadingFromDataSet(TSTNode* dataSet,string &path) {
     ifstream inp;
     inp.open(path);
     string s1,s2;
-    while (inp>>s1) {
-        if (s1[1]=='-'&&s1[2]=='-'&&s1[3]=='-') {
+    int cntt=0;
+    while (getline(inp,s1)&&cntt<=200000) {
+        if ((s1.length()>0&&s1[0]=='-')&&(s1.length()>1&&s1[1]=='-')&&(s1.length()>2&&s1[2]=='-')) {
             continue;
         }
         string tmp="";
         while (getline(inp,s2)) {
-            if (s2[1]=='-'&&s2[2]=='-'&&s2[3]=='-') {
+            if ((s2.length()>0&&s2[0]=='-')&&(s2.length()>1&&s2[1]=='-')&&(s2.length()>2&&s2[2]=='-')) {
                 break;
             }
             else {
@@ -220,7 +221,10 @@ void bulkLoadingFromDataSet(TSTNode* dataSet,string &path) {
                 else tmp+="\n"+s2;
             }
         }
+        //cout<<s1<<'\n';
+        //cout<<tmp<<'\n';
         addWord(dataSet,s1,tmp);
+        cntt++;
     }
     inp.close();
     debugFlag=true;
@@ -235,7 +239,7 @@ pair<string,string> getRandomWord(TST& dataSet) {
     int p=rand()%curMaxSlot+1;
     pair<string,string> kq;
     kq=retrieveData(curDataSet,p);
-    while (kq.second=="A definition have not been set for this word.") {
+    while (kq.second=="A definition have not been set for this word."||kq.second=="") {
         p=rand()%curMaxSlot+1;
         kq=retrieveData(curDataSet,p);
     }
