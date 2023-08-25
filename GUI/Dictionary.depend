@@ -3557,7 +3557,7 @@
 	"wx/defs.h"
 	"wx/object.h"
 
-1692963996 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\core.cpp
+1692966154 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\core.cpp
 	<bits/stdc++.h>
 	<direct.h>
 	"core.h"
@@ -3578,7 +3578,7 @@
 1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\trie.h
 	<bits/stdc++.h>
 
-1692963996 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\ternarysearchtree.h
+1692966154 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\ternarysearchtree.h
 	<bits/stdc++.h>
 
 1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\generallib.h
@@ -3778,7 +3778,7 @@
 	"folderCore.h"
 	"storage.h"
 
-1692963996 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\ternarysearchtree.cpp
+1692966154 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\ternarysearchtree.cpp
 	<bits/stdc++.h>
 	"ternarySearchTree.h"
 	"debugCore.h"
