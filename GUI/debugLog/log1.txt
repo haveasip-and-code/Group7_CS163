@@ -2431,3 +2431,44 @@ databank/2
 Load from: databank/2/TST.txt
 Successful when trying to get definition of string "kẹo"!!!
 Successful when trying to get definition of string "bánh ngọt"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string "herder"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "i"!!!
+Successful when trying to get definition of string "iiiii"!!!
+Successful when trying to get definition of string "iiiiilllllllllllllllllllll"!!!
+Successful when trying to get definition of string "oj"!!!
+Successful when trying to add string "herder"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "asa"!!!
+Successful when trying to get definition of string "as"!!!
+Successful when trying to get definition of string "uu"!!!
+Successful when trying to add string "herder"!!!
+Successful when trying to get definition of string "herder"!!!
+Save to file databank/1/TST.txt
+databank/3
+databank/3
+Load from: databank/3/TST.txt
+Successful when trying to add string "herder"!!!
+Successful when trying to get definition of string "herder"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here

@@ -141,15 +141,16 @@ void moveFileData(string path) {
     out.open("databank/"+path);
 }
 
+pair<string,string> cheat={"herder","Noun\nAnimal caretaker."};
+
 void resetAll() {
     historyList.clear();
     favouriteList.clear();
     saveFav();
     saveHistory();
-    for (int i=1;i<=5;i++) {
-        moveFileData(intToString(i)+"/maxslot.txt");
-        moveFileData(intToString(i)+"/TST.txt");
-    }
+    resetSizerr(mainParr,panelr,sizer2r,myAppFont2r,targetr);
+    resetSizer(mainPart,panelt,sizer2t,myAppFont2t,targett);
+    addWord(data1,cheat.first,cheat.second);
 }
 
 void searchHistory(wxString key,wxTextCtrl* textArea) {
@@ -619,6 +620,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         curDataSet=cmd;
         setStartSlot(getCurrentStartSlot());
         data1.loadFromFile(getPath(cmd));
+        addWord(data1,cheat.first,cheat.second);
         //wxLogMessage("Selected: %s", selectedText);
         //wxLogMessage("Load data1 set "+selectedText);
     });
@@ -1445,28 +1447,28 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         answerButton[1] = new wxButton(panel, wxID_ANY);
         answerButton[1]->SetSize(wxSize(586,130));
         answerButton[1]->SetPosition(wxPoint(0,195));
-        //answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
         //answerButton[1]->SetMaxLines(5);
 
         answerButton[2] = new wxButton(panel, wxID_ANY);
         answerButton[2]->SetSize(wxSize(586,130));
         answerButton[2]->SetPosition(wxPoint(586,195));
-        //answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false));
 
         answerButton[3] = new wxButton(panel, wxID_ANY);
         answerButton[3]->SetSize(wxSize(586,130));
         answerButton[3]->SetPosition(wxPoint(0,325));
-        //answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false));
 
         answerButton[4] = new wxButton(panel, wxID_ANY);
         answerButton[4]->SetSize(wxSize(586,130));
         answerButton[4]->SetPosition(wxPoint(586,325));
-        //answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false));
 
         questionButton = new wxButton(panel, wxID_ANY);
         questionButton->SetSize(wxSize(1172,130));
         questionButton->SetPosition(wxPoint(0,65));
-        //questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false));
         /*
         for (int i=1;i<=4;i++) {
             //answerLabel[i]->Enable(false);
@@ -1480,7 +1482,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         ScoreText = new wxStaticText(panel, wxID_ANY, wxEmptyString,wxPoint(1,1), wxSize(1,1),wxTE_READONLY|wxTE_CENTER|wxTE_MULTILINE);
         ScoreText->SetSize(wxSize(60,500));
         ScoreText->SetPosition(wxPoint(10,10));
-        ScoreText->SetFont(wxFont(35, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        ScoreText->SetFont(wxFont(35, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD, false));
         point=0;
         displayScore(point);
 
@@ -1913,7 +1915,7 @@ MyFrame::MyFrame()
                        {
         //reset function of Cuong
 
-        //resetAll();
+        resetAll();
 
         wxLogMessage("Your data has been reset.");
     });
