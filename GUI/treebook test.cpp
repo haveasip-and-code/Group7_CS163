@@ -351,7 +351,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     SetWindowLong(hwndTextCtrl, GWL_EXSTYLE, GetWindowLong(hwndTextCtrl, GWL_EXSTYLE) & ~WS_EX_CLIENTEDGE);
     #endif
 
-    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,200), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE|wxTE_NO_VSCROLL);
+    wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,200), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE);
     //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
 
     definition->SetFont(wxFont(11, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
