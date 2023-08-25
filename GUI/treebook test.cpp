@@ -443,11 +443,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
             pSound(clickSound);
-            static bool notEdit = true;
-            wxBitmap statusBitmap = notEdit ? unedit_ico : edit_ico;
+            wxBitmap statusBitmap = (isEditable) ? unedit_ico : edit_ico;
             m_edit->SetBitmapLabel(statusBitmap);
             panel->Layout();
-            notEdit = !notEdit;
+            //notEdit = !notEdit;
         /*
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
 

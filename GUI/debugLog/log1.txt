@@ -2397,3 +2397,27 @@ databank/1
 databank/1
 Load from: databank/1/TST.txt
 This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "ttt"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "amen"!!!
+Successful when trying to add string "amen"!!!
+Save to file databank/1/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to add string ""!!!
+Save to file databank/1/TST.txt
+Successful when trying to add string ""!!!
+Save to file databank/1/TST.txt
