@@ -3557,3 +3557,272 @@
 	"wx/defs.h"
 	"wx/object.h"
 
+1692956384 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\core.cpp
+	<bits/stdc++.h>
+	<direct.h>
+	"core.h"
+	"generalLib.h"
+	"debugCore.h"
+	"databankManager.h"
+	"timeModule.h"
+	"flagging.h"
+	"wx/sound.h"
+
+1692874926 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\core.h
+	<bits/stdc++.h>
+	"trie.h"
+	"ternarySearchTree.h"
+	<thread>
+	<atomic>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\trie.h
+	<bits/stdc++.h>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\ternarysearchtree.h
+	<bits/stdc++.h>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\generallib.h
+	<bits/stdc++.h>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\debugcore.h
+	<bits/stdc++.h>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\databankmanager.h
+	<bits/stdc++.h>
+	"trie.h"
+	"ternarySearchTree.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\timemodule.h
+	<bits/stdc++.h>
+	<chrono>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\flagging.h
+	<bits/stdc++.h>
+
+1692874926 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\databankmanager.cpp
+	<bits/stdc++.h>
+	<direct.h>
+	"databankManager.h"
+	"debugCore.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\debugcore.cpp
+	<bits/stdc++.h>
+	"debugCore.h"
+	"timeModule.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\encodedecode.cpp
+	<bits/stdc++.h>
+	"encodedecode.h"
+	"generalLib.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\encodedecode.h
+	<bits/stdc++.h>
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\flagging.cpp
+	<bits/stdc++.h>
+	"flagging.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\foldercore.cpp
+	<direct.h>
+	"folderCore.h"
+	"debugCore.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\foldercore.h
+	<bits/stdc++.h>
+
+1692956379 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\form login.cpp
+	"Form Login.hpp"
+	"treebook test.hpp"
+
+1692554996 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\form login.hpp
+	<stdio.h>
+	"wx/wx.h"
+	"wx/custombgwin.h"
+	<wx/dcclient.h>
+	<fstream>
+	<string>
+
+1692958766 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\treebook test.hpp
+	<wx/sound.h>
+	<stdio.h>
+	"wx/wx.h"
+	<wx/aui/auibook.h>
+	"wx/wxprec.h"
+	<wx/combobox.h>
+	"wx/imaglist.h"
+	"wx/artprov.h"
+	"wx/cshelp.h"
+	"wx/utils.h"
+	<wx/srchctrl.h>
+	<wx/bmpbuttn.h>
+	<wx/bitmap.h>
+	<wx/image.h>
+	<wx/string.h>
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"debugCore.h"
+	"handling.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\prototype.h
+	<bits/stdc++.h>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\metadata.h
+	<bits/stdc++.h>
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\handling.h
+	<bits/stdc++.h>
+	<stdio.h>
+	"wx/wx.h"
+	"wx/aui/auibook.h"
+	"wx/wxprec.h"
+	<wx/combobox.h>
+	"wx/imaglist.h"
+	"wx/artprov.h"
+	"wx/cshelp.h"
+	"wx/utils.h"
+	<wx/srchctrl.h>
+	<wx/bmpbuttn.h>
+	<wx/bitmap.h>
+	<wx/image.h>
+	<wx/string.h>
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\generallib.cpp
+	<bits/stdc++.h>
+	"generalLib.h"
+	"globalVariableController.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\globalvariablecontroller.h
+	<bits/stdc++.h>
+
+1692892472 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\globalvariablecontroller.cpp
+	<bits/stdc++.h>
+	"globalVariableController.h"
+	"storage.h"
+	"ternarySearchTree.h"
+	"wx/sound.h"
+	"wx/setup.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\storage.h
+	"ternarySearchTree.h"
+	"storage.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\handling.cpp
+	"handling.h"
+
+1692892472 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\initcore.cpp
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"debugCore.h"
+	"initCore.h"
+	"wx/sound.h"
+	"wx/setup.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\initcore.h
+	<bits/stdc++.h>
+
+1692874926 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\main.cpp
+	"treebook test.hpp"
+	"Main.hpp"
+	"Form Login.hpp"
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"debugCore.h"
+	"initCore.h"
+	"prototype.h"
+
+1692554996 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\main.hpp
+	<stdio.h>
+	<wx/wx.h>
+	<wx/app.h>
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\master.cpp
+	<bits/stdc++.h>
+	"core.h"
+	"encodedecode.h"
+	"generalLib.h"
+	"metadata.h"
+	"prototype.h"
+	"master.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\master.h
+	<bits/stdc++.h>
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\metadata.cpp
+	<bits/stdc++.h>
+	"metadata.h"
+	"generalLib.h"
+
+1692874926 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\prototype.cpp
+	<bits/stdc++.h>
+	"prototype.h"
+	"core.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"databankManager.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\storage.cpp
+	"folderCore.h"
+	"storage.h"
+
+1692956646 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\ternarysearchtree.cpp
+	<bits/stdc++.h>
+	"ternarySearchTree.h"
+	"debugCore.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\timemodule.cpp
+	<bits/stdc++.h>
+	"timeModule.h"
+
+1692960897 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\treebook test.cpp
+	"treebook test.hpp"
+	"Form Login.hpp"
+	"Form Login.hpp"
+	"core.h"
+	"prototype.h"
+	"metadata.h"
+	"trie.h"
+	"databankManager.h"
+	"generalLib.h"
+	"debugCore.h"
+	"handling.h"
+	"wx/sound.h"
+	"wx/setup.h"
+	"Windows.h"
+	<windows.h>
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\trie.cpp
+	<bits/stdc++.h>
+	"trie.h"
+	"debugCore.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\user.cpp
+	"user.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\user.h
+	<bits/stdc++.h>
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\wordencoder.cpp
+	<bits/stdc++.h>
+	"wordEncoder.h"
+	"debugCore.h"
+
+1692555123 c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\wordencoder.h
+	<bits/stdc++.h>
+	"ternarySearchTree.h"
+
+1692555123 source:c:\users\admin\desktop\wxprojects\src\group7_cs163\gui\wordprocessor.cpp
+

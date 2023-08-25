@@ -2329,3 +2329,34 @@ databank/2
 databank/2
 Load from: databank/2/TST.txt
 Successful when trying to get definition of string "yu"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "word"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "word"!!!
+Successful when trying to add string "word"!!!
+Save to file databank/1/TST.txt
+Successful when trying to add string "word"!!!
+Save to file databank/1/TST.txt
+Successful when trying to add string "word"!!!
+Save to file databank/1/TST.txt
+Save to file databank/1/TST.txt
+databank/6
+databank/6
+Load from: databank/6/TST.txt
+Failure when trying to get definition of string "heck": Either a exception or the word haven't been added.
+Save to file databank/6/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string ""!!!
+Save to file databank/2/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string "cay"!!!
