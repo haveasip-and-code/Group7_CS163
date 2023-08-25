@@ -479,7 +479,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         }
         isEditable=!isEditable;
     });
-    wxBitmapButton* m_remove = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_DELETE), wxDefaultPosition, wxSize(30,30));
+    wxButton* m_remove = new wxButton(panel, wxID_ANY, "Remove", wxDefaultPosition, wxSize(95, 30));
+    m_remove->SetBackgroundColour(wxColour(218, 85, 83));
+    m_remove->SetForegroundColour(*wxWHITE);
+    m_remove->SetFont(myAppFont);
     m_remove->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                    {
         pSound(clickSound);
@@ -543,7 +546,9 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     sizer2->AddStretchSpacer();
     sizer2->Add(m_remove, 0, wxRIGHT);
+    sizer2->AddSpacer(24);
     sizer2->Add(m_edit, 0, wxRIGHT);
+    sizer2->AddSpacer(24);
     sizer2->Add(m_favourite, 0, wxRIGHT, 50);
 
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
@@ -691,6 +696,7 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
 
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
     searchBar->SetBackgroundColour(wxColour(200, 210, 209));
+    searchBar->SetForegroundColour(wxColour(73, 86, 111));
 
     wxWindowListNode* firstChild = searchBar->GetChildren().GetFirst();
 
@@ -1869,8 +1875,8 @@ MyFrame::MyFrame()
 
     m_panel = new wxPanel(this);
 
-    m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
-    m_text->SetForegroundColour(*wxYELLOW);
+    // m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
+    // m_text->SetForegroundColour(*wxYELLOW);
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
     m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
@@ -1893,7 +1899,7 @@ MyFrame::MyFrame()
     });
 
     m_sizerFrame = new wxBoxSizer(wxVERTICAL);
-    m_sizerFrame->Add(m_text, 1, wxEXPAND);
+    // m_sizerFrame->Add(m_text, 1, wxEXPAND);
     m_sizerFrame->Add(m_reset,0);
     m_sizerFrame->Add(m_logout,0);
 
