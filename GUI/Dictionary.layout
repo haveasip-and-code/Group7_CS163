@@ -2,84 +2,9 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="ternarySearchTree.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="wordEncoder.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1114" topLine="41" />
-		</Cursor>
-	</File>
-	<File name="core.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="11537" topLine="336" />
-		</Cursor>
-	</File>
-	<File name="wordEncoder.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="463" topLine="7" />
-		</Cursor>
-	</File>
-	<File name="initCore.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="560" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="user.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="166" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="debugCore.cpp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="376" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="metadata.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="114" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="globalVariableController.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="294" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="databankManager.cpp" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2710" topLine="69" />
-		</Cursor>
-	</File>
-	<File name="storage.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="566" topLine="18" />
-		</Cursor>
-	</File>
-	<File name="folderCore.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="490" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="trie.h" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="763" topLine="15" />
-		</Cursor>
-	</File>
-	<File name="Form Login.hpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="460" topLine="9" />
-		</Cursor>
-	</File>
-	<File name="storage.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="384" topLine="10" />
-		</Cursor>
-	</File>
-	<File name="Form Login.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="205" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="trie.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1886" topLine="58" />
+			<Cursor1 position="246" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="folderCore.h" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -87,59 +12,24 @@
 			<Cursor1 position="114" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="debugCore.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="core.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="130" topLine="0" />
+			<Cursor1 position="11537" topLine="336" />
 		</Cursor>
 	</File>
-	<File name="ternarySearchTree.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="metadata.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1031" topLine="51" />
+			<Cursor1 position="114" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="encodedecode.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="debugCore.cpp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="113" topLine="0" />
+			<Cursor1 position="376" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Form Login.hpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="520" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Dictionary.cbp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1185" topLine="19" />
-		</Cursor>
-	</File>
-	<File name="widgets.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="7117" topLine="204" />
-		</Cursor>
-	</File>
-	<File name="itemcontainer.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1427" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="wordEncoder.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="246" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="encodedecode.h" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="118" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="prototype.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="17" />
-		</Cursor>
-	</File>
-	<File name="treebook test.hpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="119" topLine="57" />
+			<Cursor1 position="460" topLine="9" />
 		</Cursor>
 	</File>
 	<File name="metadata.cpp" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -147,14 +37,49 @@
 			<Cursor1 position="167" topLine="0" />
 		</Cursor>
 	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="520" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="trie.h" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="763" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="globalVariableController.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="294" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="prototype.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="wordEncoder.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="463" topLine="7" />
+		</Cursor>
+	</File>
 	<File name="Main.hpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="110" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="master.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="storage.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="0" />
+			<Cursor1 position="384" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="folderCore.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="490" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="storage.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="566" topLine="18" />
 		</Cursor>
 	</File>
 	<File name="core.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -162,14 +87,89 @@
 			<Cursor1 position="305" topLine="7" />
 		</Cursor>
 	</File>
+	<File name="initCore.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="560" topLine="0" />
+		</Cursor>
+	</File>
 	<File name="treebook test.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="10797" topLine="331" />
+			<Cursor1 position="75398" topLine="1893" />
+		</Cursor>
+	</File>
+	<File name="encodedecode.h" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="treebook test.hpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="119" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="databankManager.cpp" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2710" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="debugCore.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="130" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="master.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="user.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="166" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="widgets.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7117" topLine="204" />
+		</Cursor>
+	</File>
+	<File name="encodedecode.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="113" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Dictionary.cbp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1185" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="ternarySearchTree.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1031" topLine="51" />
 		</Cursor>
 	</File>
 	<File name="globalVariableController.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="588" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="itemcontainer.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1427" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ternarySearchTree.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1114" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="trie.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1886" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="Form Login.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="205" topLine="0" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
