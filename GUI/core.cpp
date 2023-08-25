@@ -408,6 +408,8 @@ int getsize(int startPath) {
 
 void searchDefThread(int startPath,int l,int r,vector<string>& val,int prio,atomic<bool>& isFound,atomic<int>& res) {
     int m=val.size();
+    bool ok[1000];
+    for (int i=0;i<m;i++) ok[i]=false;
     for (int i=l;i<=r;++i) {
         ifstream in;
         int kq=0;
@@ -415,7 +417,9 @@ void searchDefThread(int startPath,int l,int r,vector<string>& val,int prio,atom
         in.open("databank/"+intToString(startPath)+'/'+intToString(i)+".txt");
         while (in>>s) {
             for (int j=0;j<m;++j) {
+                    if (ok[j]) continue;
                 if (s==val[j]) {
+                    ok[j]=true;
                     //cout<<s<<'\n';
                     kq++;
                     if (kq>=prio) {

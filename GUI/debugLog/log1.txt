@@ -2389,3 +2389,45 @@ databank/1
 Load from: databank/1/TST.txt
 This go here
 Successful when trying to get definition of string "lit"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "baby"!!!
+Successful when trying to get definition of string "trickkery"!!!
+Successful when trying to get definition of string "food"!!!
+Successful when trying to get definition of string "delicious"!!!
+Save to file databank/1/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Save to file databank/1/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string "kẹo"!!!
+Successful when trying to get definition of string "bánh ngọt"!!!
