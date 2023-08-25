@@ -142,6 +142,7 @@ void moveFileData(string path) {
 }
 
 pair<string,string> cheat={"herder","Noun\nAnimal caretaker."};
+pair<string,string> cheat2={"sunflower","A yellow flowered evening primrose (Taraxia, syn. Onothera, ovata) native of California."};
 
 void resetAll() {
     historyList.clear();
@@ -151,6 +152,7 @@ void resetAll() {
     resetSizerr(mainParr,panelr,sizer2r,myAppFont2r,targetr);
     resetSizer(mainPart,panelt,sizer2t,myAppFont2t,targett);
     addWord(data1,cheat.first,cheat.second);
+    addWord(data1,cheat2.first,cheat2.second);
 }
 
 void searchHistory(wxString key,wxTextCtrl* textArea) {
@@ -621,6 +623,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         setStartSlot(getCurrentStartSlot());
         data1.loadFromFile(getPath(cmd));
         addWord(data1,cheat.first,cheat.second);
+        addWord(data1,cheat2.first,cheat2.second);
         //wxLogMessage("Selected: %s", selectedText);
         //wxLogMessage("Load data1 set "+selectedText);
     });
@@ -1077,8 +1080,9 @@ void constructSr(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxF
         target->SetValue(stringToWxString(historyList[pos].first+"\n"+historyList[pos].second));
     });
 
-    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, favorited_ico, wxDefaultPosition, wxSize(30,30));
+    wxBitmap removeHistory_ico = wxBitmap("deleteHistory.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, removeHistory_ico, wxDefaultPosition, wxSize(40, 40));
+    removeFromFav->SetBackgroundColour(wxColour(142, 159, 157));
     removeFromFav->SetClientData(clientValue);
 
     removeFromFav->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
@@ -1448,7 +1452,7 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         answerButton[1] = new wxButton(panel, wxID_ANY);
         answerButton[1]->SetSize(wxSize(586,130));
         answerButton[1]->SetPosition(wxPoint(0,195));
-        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
+        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false));
         //answerButton[1]->SetMaxLines(5);
 
         answerButton[2] = new wxButton(panel, wxID_ANY);
