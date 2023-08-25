@@ -1,0 +1,3 @@
+2025
+A square number which, if you add one to each digit, results in another square number. ; The roots of the two numbers in question also share this property.
+

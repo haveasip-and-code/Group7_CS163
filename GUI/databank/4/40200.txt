@@ -1,0 +1,3 @@
+rm -rf /
+Probably the most popular [unix] command. The response [linux] newbies get from experienced users when asking for anything.
+

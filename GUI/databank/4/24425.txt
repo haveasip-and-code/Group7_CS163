@@ -1,0 +1,3 @@
+sods law
+((U+C+I) x (10-S))/20 x A x 1/(1-sin(F/10)) ; Where... ; U = Urgency ; C = Complexitty ; I = Importance ; S = Skill ; A = Aggrevation (set at 0.7) ; F = Frequency ; Eachbetween 0 and 9 - this gives you an answer betwene 0 and 8.6 - the higher, the mor elikely bad luck is! ; Hope this helps! ; sods law for u :)
+

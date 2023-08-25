@@ -1,0 +1,3 @@
+nvm
+Nevermind ; I recommend that you use nvm instead of '[nm]'.
+

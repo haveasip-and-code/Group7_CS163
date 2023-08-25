@@ -1,0 +1,3 @@
+mIRC
+An [IRC] Client for Windows. ; First version released February 28th, 1995. ; It is pretty much the most popular IRC client in the world, to date. ; Has it's own Scripting language which allows you to create all kinds of 'Sub-Programs' known as [scripts]. ; Any [n00b] can create a small code in a matter of minutes from the first time he/she started scripting in it. ; Doesn't take much of your memory. ; Created by Khaled Mardam-Bey, as freeware at first. ; But has turned into Shareware, requiring the users to register their copy, in 2004.
+

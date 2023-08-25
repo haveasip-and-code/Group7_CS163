@@ -1,0 +1,3 @@
+AudioScrobbler
+A downloadable program that automatically counts the songs played on your computer. It keeps track of top weekly artists and tracks. Allows you to see who else is obssessed with that song.
+

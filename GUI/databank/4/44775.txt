@@ -1,0 +1,3 @@
+Bittorrent
+A massively swarming, file sharing program that allows users to simultaneously upload parts that users have already downloaded. It allows for the fast transfer of files and the mass sharing of downloads. Web-sites use trackers and indexes to allow users access to others with files that they need.
+

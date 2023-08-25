@@ -1,0 +1,3 @@
+525 600 minutes
+The number of minutes in a year.
+

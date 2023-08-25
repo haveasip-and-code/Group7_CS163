@@ -1,0 +1,3 @@
+comment out
+To disable lines of code in a program by surrounding them with comment-start and comment-stop characters. ; This means that the code written inside the comment-start and comment-stop area will be treated as the programmer's comments and will not be run.
+

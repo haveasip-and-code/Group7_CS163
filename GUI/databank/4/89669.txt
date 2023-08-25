@@ -1,0 +1,3 @@
+bias
+To alter the DC offset and/or gain of a transistor such that the final amplified signal produced by the transistor is not clipped or distorted due to voltage or current saturation
+

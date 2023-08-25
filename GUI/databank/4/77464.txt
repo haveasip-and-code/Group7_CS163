@@ -1,0 +1,3 @@
+hellbot
+Hellbot is another bot used for running BotNets, it uses a SMTP engine to send an email to addresses that it gathers from the compromised computer. It sends it self in a email with a made up message inside. It avoides sending it self to .gov emails etc etc. ; Symantec call it Mytob.
+

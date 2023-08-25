@@ -1,0 +1,3 @@
+clawhammer
+Original AMD Athlon 64 core. This was found on both the Socket 754 and Socket 939 interfaces. The Clawhammer core featured 1 MB of L2 cache and ran a 800MHz Hypertransport bus. Furthermore, the Clawhammer was based on the 130nm manufacturing process. These processors ran roughly 20 - 30% faster than the Athlon XP Bartons at the same clock frequency. ; Do not confuse the Clawhammer with the newer Newcastle core which is also on the Socket 754/939 but features only 512KB of L2 cache. The Clawhammer core was the original Athlon 64 and is the core for the Athlon FX series (53, 55).
+

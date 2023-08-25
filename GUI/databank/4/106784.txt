@@ -1,0 +1,3 @@
+MAME
+MAME stands for Multiple Arcade Machine Emulator. When used in conjunction with an arcade game's data files (ROMs), MAME will more or less faithfully reproduce that game on a PC. MAME can currently emulate over 3000 unique (and over 5400 in total) classic arcade video games from the three decades of video games - '70s, '80s and '90s, and even some from the current millennium.
+

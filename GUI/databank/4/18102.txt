@@ -1,0 +1,3 @@
+plunkert search
+A new and innovative method developed by Nathan Plunkert in response to his schools requirement that he program his own binary search method. While being slightly less efficient than a pure binary method, the plunkert sort is more aesthetically pleasing.
+

@@ -1,0 +1,3 @@
+kezboard
+A Kezboard is a Keyboard with a different layout than the typer is used to. Many European countries (e.g. Germany, Austria, Switzerland) have the QWERTZ-layout while in other parts of the world (predominantly the english-speaking parts) the QWERTY-layout is popular. Hence, if you type the word 'Keyboard' on the respective other layout, it comes out as 'Kezboard'.
+

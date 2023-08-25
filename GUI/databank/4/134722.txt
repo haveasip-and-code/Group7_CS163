@@ -1,0 +1,3 @@
+<br />
+The [HTML] tag that creates a new line in a webpage. Same as the [ <br> ] code. Multiple <br /> tags used after one another will create empty spaces rather than simple linebreaks.
+

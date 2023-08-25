@@ -1,0 +1,3 @@
+bong match
+A match of jenkins (paper, rock, scissors) that decides the order in which you have a bong. ; This game is usually played by stoners.
+

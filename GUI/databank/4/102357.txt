@@ -1,0 +1,3 @@
+data monkey
+An employee whos job it is to take data from one source (eg SQL Server) and stick it in another source. ; A bit like a DBA (Database Administrator) but without the job prospects.
+

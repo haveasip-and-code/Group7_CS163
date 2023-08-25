@@ -1,0 +1,3 @@
+specificity
+A [CSS] rule that states that in case of conflict, the properties of the most specific [selector] is applied.
+

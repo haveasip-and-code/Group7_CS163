@@ -1,0 +1,3 @@
+Defcon
+DEFCON 5 Normal peacetime readiness ; DEFCON 4 Normal, increased intelligence and strengthened security measures ; DEFCON 3 Increase in force readiness above normal readiness ; DEFCON 2 Further Increase in force readiness, but less than maximum readiness ; DEFCON 1 Maximum force readiness.
+

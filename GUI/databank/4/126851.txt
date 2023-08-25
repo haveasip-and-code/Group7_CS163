@@ -1,0 +1,3 @@
+delta-x
+Used when someone is blocking your view of something. In layman's terms, it means 'Move!'. Its origins come from the physics term 'delta-x', which indicates a change in displacement (ie. movement from one position to another)
+

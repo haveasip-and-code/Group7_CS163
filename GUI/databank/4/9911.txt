@@ -1,0 +1,3 @@
+CSS
+Cascading StyleSheets is a webdesign language used as an extension of [XHTML]. CSS is meant to define the appearance of a website, while it's structure is defined by HTML. It is thus called because it uses stylesheets, external files whose properties are applied to the relevent sections of a website. They are 'cascading' because of the CSS rule of [specificity].
+

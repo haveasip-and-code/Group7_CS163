@@ -1,0 +1,3 @@
+NLIPS
+Non Linear Invert Prospective Scrolling. ; A feature available in the HomeWorld 2 game that makes distant objects, instead of getting smaller, larger, so that the further an object goes, it still stays in the same size.
+

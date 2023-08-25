@@ -1,0 +1,3 @@
+rasterbator
+The Rasterbator is a web service which creates huge, rasterized images from any picture. The rasterized images can be printed and assembled into extremely cool looking posters up to 20 meters in size.
+

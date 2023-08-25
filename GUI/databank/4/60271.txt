@@ -1,0 +1,3 @@
+ipban
+to ban a users internet protocol ([ip]) address. this is done when a user is crazy enough to come back AND act inappropriatley. The admin ipbans them forcing to use a [proxy].
+

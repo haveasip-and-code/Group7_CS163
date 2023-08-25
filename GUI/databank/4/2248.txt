@@ -1,0 +1,3 @@
+extrememe rock  paper  scissors
+A version of [rock, paper, scissors] that is played so that the winner of each round gets to hit his opponet. If a rock wins a punch is delivered to the opponets stomach or face, if a paper wins a slap is usually apllied to the opponet's face, while scissors is usually a poke to the or chest or is considered 'null' and nothing happens.
+

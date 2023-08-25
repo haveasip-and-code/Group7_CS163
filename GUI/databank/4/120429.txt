@@ -1,0 +1,3 @@
+supersaw
+A layered waveform consisting of multiple saw waves which are detuned across the stereo spectrum to create an extremely full and epic sound. This is referred to as a waveform, because it usually only occupies the processing power of one oscillator on a synthesizer, assuming the synthesizer is capable of accomplishing this. This allows for multiple supersaw oscillators to be combined to create a tremendous sound.
+

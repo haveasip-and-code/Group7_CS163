@@ -1,0 +1,3 @@
+drink jenga
+Fun drinking game which is used with the game Jenga. You begin by writing differnt tasks on the blocks. (Like take to sips of your drink, give three sips etc.)You then assemble Jenga and play, but now when you pull off a block you must perform the task on it.
+

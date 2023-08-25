@@ -1,0 +1,3 @@
+@
+on UNIX system, used as a character between the username and the hostname. ; Pronounced like 'at'.
+

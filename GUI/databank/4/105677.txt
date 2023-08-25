@@ -1,0 +1,3 @@
+Forward Processing
+Handling incoming data communication first and foremost, and distributing it instantly to the hard drive.
+

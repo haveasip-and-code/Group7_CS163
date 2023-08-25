@@ -1,0 +1,3 @@
+vapor trail
+The electronic equivalent of a 'paper trail'. In the old days, guys like Enron and MCI had to worry about leaving hard-copy memos and such laying around that could eventually be used against them. Now it's e-mails, text files, server databases and the like.
+

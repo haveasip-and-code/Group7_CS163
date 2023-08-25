@@ -1,0 +1,3 @@
+winboz
+#include ; #include ; #include ; char make_prog_look_big[1600000]; ; main() ; { ; if (detect_cache()) ; disable_cache(); ; if (fast_cpu()) ; set_wait_states(lots); ; set_mouse(speed, very_slow); ; set_mouse(action, jumpy); ; set_mouse(reaction, sometimes); ; printf(\'Welcome to Windoze 3.999 (we might get it right \\ ; or just call it Chicargo)\\n\'); ; if (system_ok()) ; crash(to_dos_prompt); ; else ; system_memory = open(\'a:\\swp0001.swp\', O_CREATE); ; while(1) { ; sleep(5); ; get_user_input(); ; sleep(5); ; act_on_user_input(); ; sleep(5); ; if (rand() < 0.9) ; crash(complete_system); ; } ; return(unrecoverable_system); ; }
+

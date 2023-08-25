@@ -1,0 +1,3 @@
+pub
+A folder on a website or FTP that contains public files
+

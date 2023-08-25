@@ -1,0 +1,3 @@
+normalforcelessness
+Replacement for silly terms like 'zero gravity' or 'microgravity' that are currently used to describe free fall. ; In free fall, gravity does still act on the falling mass, but it is not balanced by the normal force. That is why no weight is felt: nothing opposes the mass's tendency to fall, and thus the mass accelerates with calculable gravitational acceleration (~9.8 m/s^2).
+

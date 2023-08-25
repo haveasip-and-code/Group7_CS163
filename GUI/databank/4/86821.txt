@@ -1,0 +1,3 @@
+DTD
+[HTML] is an SGML-DTD, and XHTML is an XML-DTD... ; Yes, it's true. Anyone can write a DTD and those document almost looks like [HTML]....
+

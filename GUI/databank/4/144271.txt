@@ -1,0 +1,3 @@
+slidewalk
+A sidewalk that is covered with ice and makes you slide when you take a step. Slide + sidewalk = slidewalk.
+

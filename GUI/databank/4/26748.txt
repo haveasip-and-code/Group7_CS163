@@ -1,0 +1,3 @@
+yesno
+A multidimensional answer to a complex question that is projected into a quasiboolean scalar response value.
+

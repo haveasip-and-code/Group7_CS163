@@ -1,0 +1,3 @@
+lab-ball
+A game designed as a mix between physics and baseball, where you have a batter who sits on a roller chair and kicks a tennis ball trying to hit a homerun. You have a pitcher, outfield, hitter, and catcher. Must be played in a physics laboratory.
+

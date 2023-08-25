@@ -1,0 +1,3 @@
+HOTAS
+HOTAS as an acronym stands for 'Hands On Throttle And Stick', basicly describing a [joystick] that can be connected to a [PC] or a [console] in order to deliver a maximum in realism, immersion and flexibility to the user. ; What sets a HOTAS apart from an 'average joystick' is that is consists of two modules that are in some way physically connected: ; The 'stick' and the 'throttle'. ; Each requires the use of one hand for operation, hence the name. ; The only ways of further upgrading a HOTAS system are adding control pedals and/or a head-mounted motion-tracking system.
+

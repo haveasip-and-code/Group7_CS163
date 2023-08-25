@@ -1,0 +1,3 @@
+ircop
+IRC Operators are users on an Internet Relay Chat (IRC) Network with privileged access. Sometimes known as Opers, operators, or IRCops (which is sometimes a pun on IRC Cops), these users are tasked with enforcing the network rules, and in most cases, rerouting the network topography for faster access.
+

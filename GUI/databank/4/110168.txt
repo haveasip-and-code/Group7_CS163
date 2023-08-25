@@ -1,0 +1,3 @@
+property
+In [CSS], a property is the attribute applied to a [selector].
+

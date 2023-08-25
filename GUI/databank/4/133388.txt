@@ -1,0 +1,3 @@
+aggro range
+The radius around an [aggro] monster in a [MMORPG] game whereby if a player enters this radius, the monster will attack the player. Knowing the aggro range of the monsters in a game can be the key to staying alive in dangerous areas.
+

@@ -1,0 +1,3 @@
+Pointer
+A pointer is a data type of a programming language. Pointers are basically variables that can point to another location in memory.
+

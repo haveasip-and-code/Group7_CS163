@@ -1,0 +1,3 @@
+radian
+a unit used to measure angles. 1 radian is the angle in a unit circle where the radius is equal to the arc. since pi radians=180 degrees, radians are usually expressed in terms of pi.
+

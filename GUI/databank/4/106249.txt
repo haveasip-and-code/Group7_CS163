@@ -1,0 +1,3 @@
+whoami
+Unix and Linux command. Gives the username of the current user. Useful if one is logged in under several names and has forgotten who they are for the session.
+

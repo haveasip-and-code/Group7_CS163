@@ -1,0 +1,3 @@
+2 + 2 = 5
+A joke that nerds usually make about the rounding of numbers. If you do 2.3 rounded (2) + 2.4 rounded (2), you get 4.7 which rounds to 5. ; And because humans are imperfect, we are never able to make exact precision on anything. This means, that anything we do, we are doing some kind of rounding/estimation at some point. So, this means that 2 + 2 = 5 but only for very large values of 2.
+

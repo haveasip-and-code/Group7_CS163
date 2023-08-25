@@ -1,0 +1,3 @@
+-
+Used in IM conversations to indicate the presence of a letter in a typed word that does not belong and should be omitted. This is a quick alternative to using the full correction, which is preceded by a [*]. ; Often, the word that the erroneous letter appeared in is not indicated by the typer, leaving a bit of guesswork for the reader. However '-' should generally be limited for use only where minor typographical errors have occured to avoid this potential confusion.
+

@@ -1,0 +1,3 @@
+Kernel32
+Also known as Kernel32.exe ; A Floodnet Computer VIRUS that runs in the backround of your computer (as a process), and attempts to e-mail itself to your address book using Outlook.
+

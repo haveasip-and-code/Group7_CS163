@@ -1,0 +1,3 @@
+crossfader
+A slider device on a DJ mixing board that moves between the mixer's channels.
+

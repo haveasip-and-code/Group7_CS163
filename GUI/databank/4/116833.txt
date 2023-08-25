@@ -1,0 +1,3 @@
+ziped
+When using [winrar] to compress files they become [rared] which makes them smaller. ; [winrar] is better at this than [winzip]
+

@@ -1,0 +1,3 @@
+AFI
+Arc Fault Interrupter, a type of electrical protection device that senses an arc between live conductors and ground, and will interrupt the cicuit to prevent a fire. Arcs can be caused by drilling/cutting/nailing into a wire within a wall. Similar to a GFI, Ground Fault Interrupter.
+

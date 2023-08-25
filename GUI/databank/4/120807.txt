@@ -1,0 +1,3 @@
+FreeSBIE
+A live cd based on [FreeBSD] that boots off of the disk and doesn't touch touch your HD.
+

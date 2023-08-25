@@ -1,0 +1,3 @@
+Metaphase
+A database package that uses relationships between objects to create a structure. Displayed using icons as well as data screens. Created by a company called SDRC. Not bad but a bit outdated.
+

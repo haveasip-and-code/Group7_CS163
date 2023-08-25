@@ -1,0 +1,3 @@
+In the Groove
+A dance simulation game similat to [DDR], except the songs can be more difficult(up to 13), there are mines, and 3-4 arrows sometimes have to be hit at once.
+

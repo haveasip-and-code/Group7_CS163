@@ -1,0 +1,3 @@
+vector
+A quantity fully described with a magnititude and a direction.
+

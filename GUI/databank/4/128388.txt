@@ -1,0 +1,3 @@
+hops
+Like [ops], except a hop is only a half-op.
+

@@ -1,0 +1,3 @@
+client
+A computer system or process requesting something from another system or process in a client-server relationship. The opposite of 'server'.
+

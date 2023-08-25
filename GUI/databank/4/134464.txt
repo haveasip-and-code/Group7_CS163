@@ -1,0 +1,3 @@
+freebasic
+FreeBASIC - as the name suggests - is a completely [free], [open-source], 32-bit [BASIC] [compiler], with the syntax the most compatible possible with MS-[QuickBASIC], that adds new features such as pointers, unsigned data types, inline-[assembly] and many others.
+

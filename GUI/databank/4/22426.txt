@@ -1,0 +1,3 @@
+Slackware
+An open-source, free [Linux] distribution started in 1993 by Patrick Volkerding. Noted to be [Unix]-like, and includes desktop environments, server software, and terminal software from the CDs. ; Comes as a four-CD set, though just one can be used to have a terminal-style installation. Disc two contains the desktop environment and a bootable rescue disk.
+

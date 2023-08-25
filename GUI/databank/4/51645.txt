@@ -1,0 +1,3 @@
+yard taint
+The area of grass between the curb and the sidewalk.
+

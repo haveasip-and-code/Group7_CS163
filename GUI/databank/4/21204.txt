@@ -1,0 +1,3 @@
+MegaFLOPS
+A measure of computing speed equal to one million floating-point operations per second.
+

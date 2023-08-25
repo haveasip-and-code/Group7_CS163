@@ -1,0 +1,3 @@
+rubber check
+A check that is going to be returned for non-suffecent funds
+

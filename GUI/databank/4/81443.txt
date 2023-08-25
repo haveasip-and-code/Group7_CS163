@@ -1,0 +1,3 @@
+actionscript
+The main scripting language for macromedia flash, based mostly on [javascript] and [css].
+

@@ -1,0 +1,3 @@
+PLD
+Programmable Logic Device. An integrated ciruit that is programmed into any number of configurations using a Hardware Development Language like Verilog or ABEL. More expensive but more versatile than fixed-function ICs
+

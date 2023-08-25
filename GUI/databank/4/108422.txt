@@ -1,0 +1,3 @@
+hall of mirrors
+An error seen in 3-D videogames in which a certain spot fails to render, which makes the game simply re-render whatever was in view there last. The repeating image seen in place of what should be there is the Hall of Mirrors error.
+

@@ -1,0 +1,3 @@
+$0
+stands for the first argument in Perl, and is the name of the script file.
+

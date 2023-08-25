@@ -1,0 +1,3 @@
+Mac Address
+The hardware address of a device connected to a shared ; network medium. Also called a Media Access Control.
+

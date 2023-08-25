@@ -1,0 +1,3 @@
+isketch
+Multi-user Shockwave game based on the priciples of [Pictionary] where players guess words drawn by other players and take turns to draw themselves. ; Largely player-moderated, with a team of admins appointed by the site owner to weed out people who abuse the site and other players.
+

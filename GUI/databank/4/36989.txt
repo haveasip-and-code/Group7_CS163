@@ -1,0 +1,3 @@
+refactor
+The act of wasting a bunch of time rewriting old source code in an attemp to make it understandable, usable, and expandable.
+

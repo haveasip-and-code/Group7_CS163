@@ -1,0 +1,3 @@
+%windir%
+Shortcut in windows to go to windows directory
+

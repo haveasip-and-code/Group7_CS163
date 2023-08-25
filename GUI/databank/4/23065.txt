@@ -1,0 +1,3 @@
+winmodem
+A type of [modem] that relies on a computer's [CPU], software, and the [Windows] operating system to work. Winmodems are known to be system resource hogs, and usually come with buggy drivers causing system instability. ; Though Winmodems are intended to be used with the Windows operating system, there are [Linux] drivers available. Regardless of what you may read or hear, Winmodems are not real modems.
+

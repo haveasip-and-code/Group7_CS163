@@ -1,0 +1,3 @@
+sub-broadband
+A high speed connection at or less than 512kbit but more than 192kbit.
+

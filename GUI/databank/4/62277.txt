@@ -1,0 +1,3 @@
+line height
+Term used in the source code of websites, often in Style Sheets, to define the vertical space between lines of text.
+

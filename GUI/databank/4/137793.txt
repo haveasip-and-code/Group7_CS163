@@ -1,0 +1,3 @@
+phangletude
+A term refering to values of both the phase and magnatude. ; To be used in bode diagrams in order to map frequency response of inpulse, step, ramp and sinusoid inpust into a system and to reveal the systems stability.
+

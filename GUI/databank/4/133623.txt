@@ -1,0 +1,3 @@
+cpi
+columns per inch, but dpi is mostly used today
+

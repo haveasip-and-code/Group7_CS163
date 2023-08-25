@@ -1,0 +1,3 @@
+glass
+adjective: a computer programming term for code that has been so poorly constructed that if it is altered in any way, it will no longer compile or run without major refactoring.
+

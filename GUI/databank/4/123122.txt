@@ -1,0 +1,3 @@
+homey mail
+Your personal (home) e-mail and/or e-mail address. Describes the e-mail address you give to your homeys and the mail you get from them. Not your worky mail address or the e-mail you receive at your work address.
+

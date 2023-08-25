@@ -1,0 +1,3 @@
+emacs
+The best text-editor of all times. Even better than [Vi]. Millions of features, and entirely customisable. Not this long to load that [Vi]-fans would say. Emacs is available on almost every [unix] based system you can imagine, and also on [Windows]. With its tons of keyboard shortcuts and key bindings (also customisable), you will produce code faster you you have ever done
+

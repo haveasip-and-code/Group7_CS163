@@ -1,0 +1,3 @@
+toaster
+An appliance that stores food and keeps them cool. When you open it, the light comes on, and goes off when you close it.
+

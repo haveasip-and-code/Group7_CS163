@@ -1,0 +1,3 @@
+rsa
+An abbreviation encryption system that is very powerful. It uses prime numbers in order to make it harder to break. It will convert characters and words into one very large number which is solved using a decryption algorithm. ; [crypto] [encryption] [cryptography]
+

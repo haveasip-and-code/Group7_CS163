@@ -1,0 +1,3 @@
+cyberhug
+A virtual [hug] offered to participants in an IRC or [instant messaging] conversation. Can be written as *hug*, or by enclosing the recipient's name in multiple sets of braces/parentheses. (See [{{{}}}].)
+

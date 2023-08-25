@@ -1,0 +1,3 @@
+impedance
+The bounciness of electricity, measured in [ohm]s.
+

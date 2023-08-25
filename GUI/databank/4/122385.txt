@@ -1,0 +1,3 @@
+Hexidecimal
+Unlike decimal which uses 0-9 Hexadecimal uses 0-9 and A-F the mainly used family of bases are: [Hexidecimal], [Decimal], [Noninary], [Octinary], [Pentinary], [Trinary] and [Binary].
+

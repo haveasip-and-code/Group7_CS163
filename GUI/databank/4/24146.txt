@@ -1,0 +1,3 @@
+telnet
+The other definitions are correct, but fail to mention that telnet is very insecure, as all data (including user names and passwords) are sent across the network in plain text (unencrypted). On an untrusted/public network (like the internet) this can be quite dangerous.
+

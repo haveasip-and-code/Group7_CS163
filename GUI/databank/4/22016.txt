@@ -1,0 +1,3 @@
+To be or not to be
+'To be or not to be, that is the question.' It is believed that Shakespeare was actually a Java programmer and this famous line was originally recorded as ; boolean question = (_2b) !(_2b); ; But that's just a legend... ;-)
+

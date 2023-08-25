@@ -1,0 +1,3 @@
+diode
+An electrical component that allows electricity to flow only one way. Used in the rectifier bridge of an [alternator]. Also used as L.E.D. (light emitting diode) lights.
+

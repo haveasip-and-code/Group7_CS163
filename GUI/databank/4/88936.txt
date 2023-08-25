@@ -1,0 +1,3 @@
+Oced Myslob
+A form of elaborate encoding. ; VERSION 1 ; First, count the letters in the word a/o sentence and find the middle of it. ; 1. APPLeSEED 9 letters ; middle: E. ; Next, write the first half backwards, then the second half backwards. If an odd #, then the middle letter goes in front. ; 2.eLPPADEES ; VERSION 2 ; Okay, now split up the letters into groups of two or three, three or more groups. ; eL PPA DE ES ; Next, encode the groups as single letters. ; PPA eL ES DE ; Version 3 ; See? easy. Now encode the alphabet, and match up the letters and use this to re-write your little term. The letters G and T are the same. ; abcdefghijklmnopqrstuvwxyz ; mlkjihgfedcbazyxwvutsrqpon ; PPA eL ES DE becomes ; XXM iB IU JI. ; Make sure to keep the groups of letters seperaed.
+

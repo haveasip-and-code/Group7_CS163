@@ -1,0 +1,3 @@
+dhcp
+DHCP, or Dynamic Host Configuration Protocol, is used by most [isp]s. DHCP gives you a new [ip address] every time you log onto the internet whether your using [56k] or [cable]. This means you never have a assigned [ip address]. (Makes Money For ISPS).
+

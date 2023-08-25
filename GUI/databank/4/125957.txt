@@ -1,0 +1,3 @@
+cached
+a collection of data duplicating original values stored elsewhere or computed earlier, where the original data are expensive to fetch or compute relative to reading the cached
+
