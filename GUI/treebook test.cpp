@@ -417,7 +417,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
         updateHistory(searchResult);
-        resetSizerr(mainPart,panelt,sizer2t,myAppFont2t,targett);
+        resetSizerr(mainParr,panelr,sizer2r,myAppFont2r,targetr);
         sizer2r->Layout();
     });
 
@@ -559,6 +559,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         m_favourite->SetSize(wxSize(30,30));
         panel->Layout();
         resetSizer(mainPart,panelt,sizer2t,myAppFont2t,targett);
+        resetSizerr(mainParr,panelr,sizer2r,myAppFont2r,targetr);
         sizer2t->Layout();
         //subpanel->build(favouriteList);
     });
