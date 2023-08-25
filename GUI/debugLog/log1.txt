@@ -2431,3 +2431,78 @@ databank/2
 Load from: databank/2/TST.txt
 Successful when trying to get definition of string "kẹo"!!!
 Successful when trying to get definition of string "bánh ngọt"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Save to file databank/1/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Successful when trying to get definition of string "cục cứt"!!!
+Successful when trying to get definition of string "đắng"!!!
+Save to file databank/2/TST.txt
+databank/4
+databank/4
+Load from: databank/4/TST.txt
+Successful when trying to get definition of string "salty"!!!
+Successful when trying to get definition of string "sike"!!!
+Successful when trying to get definition of string "ass kisser"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Save to file databank/1/TST.txt
+databank/5
+databank/5
+Load from: databank/5/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Save to file databank/1/TST.txt
+databank/5
+databank/5
+Load from: databank/5/TST.txt
+Successful when trying to get definition of string "("!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Save to file databank/1/TST.txt
+databank/5
+databank/5
+Load from: databank/5/TST.txt
+Save to file databank/5/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Save to file databank/2/TST.txt
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+Successful when trying to get definition of string "fruit"!!!
+Save to file databank/1/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Save to file databank/2/TST.txt
+databank/4
+databank/4
+Load from: databank/4/TST.txt
+Successful when trying to get definition of string "salty"!!!
+Save to file databank/4/TST.txt
+databank/3
+databank/3
+Load from: databank/3/TST.txt
+Successful when trying to get definition of string "candy"!!!
+Successful when trying to get definition of string "safe"!!!
+Successful when trying to add string "testiness"!!!
+Save to file databank/3/TST.txt
+Successful when trying to get definition of string "paint"!!!
+Successful when trying to get definition of string "testiness"!!!
+Successful when trying to add string "testiness"!!!
+Save to file databank/3/TST.txt
+Successful when trying to add string "testiness"!!!
+Save to file databank/3/TST.txt
+Successful when trying to get definition of string "testiness"!!!
