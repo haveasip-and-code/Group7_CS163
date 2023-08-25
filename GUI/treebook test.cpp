@@ -443,11 +443,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
             pSound(clickSound);
-            static bool notEdit = true;
-            wxBitmap statusBitmap = notEdit ? unedit_ico : edit_ico;
+            wxBitmap statusBitmap = (isEditable) ? unedit_ico : edit_ico;
             m_edit->SetBitmapLabel(statusBitmap);
             panel->Layout();
-            notEdit = !notEdit;
+            //notEdit = !notEdit;
         /*
         wxDialog edit_dlg(panel, wxID_ANY, "Edit meaning");
 
@@ -584,10 +583,12 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     dataSets.Add("Eng - Vie");
     dataSets.Add("Vie - Eng");
     dataSets.Add("Eng - Eng");
-    dataSets.Add("Emoji - Vie");
-    dataSets.Add("Emoji - Eng");
-    dataSets.Add("Eng slangs");
-    dataSets.Add("Vie slangs");
+    //dataSets.Add("Emoji - Vie");
+    //dataSets.Add("Emoji - Eng");
+    //dataSets.Add("Eng slangs");
+    //dataSets.Add("Vie slangs");
+    dataSets.Add("Slangs");
+    dataSets.Add("Emoji");
     chooseDataSet->Set(dataSets);
 
     chooseDataSet->SetSelection(0);
@@ -604,8 +605,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         if (selectedText=="Eng - Vie") cmd=1;
         else if (selectedText=="Vie - Eng") cmd=2;
         else if (selectedText=="Eng - Eng") cmd=3;
-        else if (selectedText=="Emoji - Vie") cmd=4;
-        else if (selectedText=="Emoji - Eng") cmd=5;
+        else if (selectedText=="Slangs") cmd=4;
+        else if (selectedText=="Emoji") cmd=5;
         else if (selectedText=="Eng slangs") cmd=6;
         else if (selectedText=="Vie slangs") cmd=7;
         saveCurrentDataSet(data1);
@@ -902,7 +903,7 @@ void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxF
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
     line1->SetBackgroundColour(wxColour(142, 159, 157));
 
-    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,favouriteList[i].first);
+    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,stringToWxString(favouriteList[i].first));
     int* clientValue= new int;
     *clientValue=i;
     line1->SetClientData(clientValue);
@@ -1045,7 +1046,7 @@ void constructSr(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxF
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
     line1->SetBackgroundColour(wxColour(142, 159, 157));
 
-    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,historyList[i].first);
+    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,stringToWxString(historyList[i].first));
     int* clientValue= new int;
     *clientValue=i;
     line1->SetClientData(clientValue);

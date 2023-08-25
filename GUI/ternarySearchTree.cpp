@@ -8,7 +8,7 @@ int cnt;
 TSTNode* nullTSTNode=new TSTNode();
 
 
-TSTNode* TSTNode::insert(string &cur,int idx) {
+TSTNode* TSTNode::insert(string cur,int idx) {
     if (idx==cur.length()) {
         return this;
     }
@@ -32,7 +32,7 @@ TSTNode* TSTNode::insert(string &cur,int idx) {
     }
 }
 
-TSTNode* TSTNode::insert(string &cur) {
+TSTNode* TSTNode::insert(string cur) {
     return insert(cur,0);
 }
 
@@ -129,7 +129,7 @@ void TSTNode::loadFromFile(string path) {
     tmpStream.close();
 }
 
-TSTNode* TSTNode::get(string &cur,int idx) {
+TSTNode* TSTNode::get(string cur,int idx) {
     if (idx==cur.length()) {
         return this;
     }
@@ -160,9 +160,9 @@ TSTNode* TSTNode::get(string &cur,int idx) {
 }
 
 TSTNode* TSTNode::getAlwaysDFS() {
-    cout<<this->key<<'\n';
+    //cout<<this->key<<'\n';
     if (this->val!=0) return this;
-    TSTNode* kq;
+    TSTNode* kq=nullTSTNode;
     if (mid) {
         kq=mid->getAlwaysDFS();
         if (kq->val!=0) return kq;
@@ -177,9 +177,9 @@ TSTNode* TSTNode::getAlwaysDFS() {
     }
 }
 
-TSTNode* TSTNode::getAlways(string &cur,int idx) {
-    TSTNode* kq=nullptr;
-    cout<<cur<<' '<<this->key<<'\n';
+TSTNode* TSTNode::getAlways(string cur,int idx) {
+    TSTNode* kq=nullTSTNode;
+    //cout<<cur<<' '<<this->key<<'\n';
     if (idx==cur.length()) {
         if (this->val!=0) {
             return this;
@@ -215,31 +215,31 @@ TSTNode* TSTNode::getAlways(string &cur,int idx) {
     }
     if (kq) if (kq->val!=0) return kq;
     if (lo) {
-        kq=lo->getAlways(cur,idx+1);
-        if (kq->val!=0) kq=lo->getAlways(cur,idx);
+        kq=lo->getAlways(cur,idx);
+        //if (kq->val!=0) kq=lo->getAlways(cur,idx);
         if (kq->val!=0) return kq;
     }
     if (hi) {
-        kq=hi->getAlways(cur,idx+1);
-        if (kq->val!=0) kq=hi->getAlways(cur,idx);
+        kq=hi->getAlways(cur,idx);
+        //if (kq->val!=0) kq=hi->getAlways(cur,idx);
         if (kq->val!=0) return kq;
 
     }
     if (mid) {
-        kq=mid->getAlways(cur,idx+1);
-        if (kq->val!=0) kq=mid->getAlways(cur,idx);
+        kq=mid->getAlways(cur,idx);
+        //if (kq->val!=0) kq=mid->getAlways(cur,idx);
         if (kq->val!=0) return kq;
     }
     return this->getAlwaysDFS();
 }
 
-TSTNode* TSTNode::get(string &cur) {
+TSTNode* TSTNode::get(string cur) {
     return get(cur,0);
     //cout<<'\n';
 }
 
 
-TSTNode* TSTNode::getAlways(string &cur) {
+TSTNode* TSTNode::getAlways(string cur) {
     return getAlways(cur,0);
     //cout<<'\n';
 }
@@ -263,19 +263,31 @@ void TST::clear() {
     }
 }
 
-TSTNode* TST::insert(string& cur) {
+string encrypt(string cur) {
+    int m=cur.size();
+    for (int i=0;i<m;i++) {
+        if (cur[i]==' ') cur[i]='_';
+    }
+    return cur;
+}
+
+TSTNode* TST::insert(string cur) {
+    cur=encrypt(cur);
     return pRoot->insert(cur);
 }
 
-TSTNode* TST::insert(string& cur,int idx) {
+TSTNode* TST::insert(string cur,int idx) {
+    cur=encrypt(cur);
     return pRoot->insert(cur,idx);
 }
 
-TSTNode* TST::get(string& cur) {
+TSTNode* TST::get(string cur) {
+    cur=encrypt(cur);
     return pRoot->get(cur);
 }
 
-TSTNode* TST::get(string& cur,int idx) {
+TSTNode* TST::get(string cur,int idx) {
+    cur=encrypt(cur);
     return pRoot->get(cur,idx);
 }
 
