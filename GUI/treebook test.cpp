@@ -339,7 +339,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
-    word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
+    word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(300,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
     word->SetFont(wxFont(30, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Bold"));
     word->SetHint("the word");
     word->SetBackgroundColour(wxColour(249, 246, 246));
@@ -391,6 +391,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             //definition->ChangeValue("To hell with wxWidgets");
             word->ChangeValue(curWord);
             definition->ChangeValue(curDef);
+            definition->SetForegroundColour(wxColour(73, 86, 111));
         }
         else {
             factor=mode-1;
@@ -405,6 +406,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             //definition->ChangeValue("To hell with wxWidgets");
             word->ChangeValue(curWord);
             definition->ChangeValue(curDef);
+            definition->SetForegroundColour(wxColour(73, 86, 111));
         }
         pSound(doneSound);
         if (isFavourite(wxStringToString(word->GetValue()))) {
@@ -1900,7 +1902,7 @@ MyFrame::MyFrame()
     m_text->SetForegroundColour(*wxYELLOW);
 
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
-    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
+    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(70,70));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
@@ -1911,7 +1913,7 @@ MyFrame::MyFrame()
     });
 
     wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
-    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(25,25));
+    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(70,70));
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
