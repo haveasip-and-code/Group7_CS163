@@ -54,6 +54,9 @@ int factor;
 int deltaPos;
 int UserVal;
 
+string username;
+int userID;
+
 wxString curWord;
 wxString curDef;
 
@@ -131,6 +134,23 @@ void searchFav(wxString key,wxTextCtrl* textArea) {
     textArea->SetValue(stringToWxString("I have no idea what you are trying to search. Please, make some sense!!!"));
 }
 
+void moveFileData(string path) {
+    ifstream in;
+    ofstream out;
+    in.open("backup/"+path);
+    out.open("databank/"+path);
+}
+
+void resetAll() {
+    historyList.clear();
+    favouriteList.clear();
+    saveFav();
+    saveHistory();
+    for (int i=1;i<=5;i++) {
+        moveFileData(intToString(i)+"/maxslot.txt");
+        moveFileData(intToString(i)+"/TST.txt");
+    }
+}
 
 void searchHistory(wxString key,wxTextCtrl* textArea) {
     string tmp=wxStringToString(key);
@@ -1869,13 +1889,15 @@ MyFrame::MyFrame()
 
     m_panel = new wxPanel(this);
 
-    m_text = new wxStaticText(m_panel, wxID_ANY, "Username");
+    m_text = new wxStaticText(m_panel, wxID_ANY, username);
     m_text->SetForegroundColour(*wxYELLOW);
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
     m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(25,25));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
+
+        //resetAll();
 
         wxLogMessage("Your data has been reset.");
     });
@@ -1885,7 +1907,8 @@ MyFrame::MyFrame()
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
-
+        username="username";
+        userID=0;
         this->Close();
 
         FormLogin* login = new FormLogin("Login");
