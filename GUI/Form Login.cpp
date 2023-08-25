@@ -127,18 +127,18 @@ void FormLogin::OnSignUp(wxCommandEvent& event)
         if (!username.empty() && !password.empty()) {
             // Create account function here
 
-            // Show the retrieved password in a message box
-            wxMessageBox("", "Account created!", wxOK | wxICON_INFORMATION, this);
+            // Create account
+            wxMessageBox("Account created!", "Notice", wxOK | wxICON_INFORMATION, this);
         }
     }
 }
 
 wxString FormLogin::GetPasswordFromUsername(const wxString& username){
-    ifstream account("new account");
-    string result;
-    getline(account, result, '\n');
-    getline(account,result, '\n');
-    return result;
+    //ifstream account("new account");
+    //string result;
+    //getline(account, result, '\n');
+    //getline(account,result, '\n');
+    return "ltn123123";
 }
 
 void FormLogin::OnForgetPassword(wxMouseEvent& event)

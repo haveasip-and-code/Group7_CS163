@@ -765,6 +765,7 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
     // ------------------------------------------------------------------ create one word item
     wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
     lowpanel->SetVirtualSize(wxSize(200, 800));
+    lowpanel->SetBackgroundColour(wxColour(249, 246, 246));
     lowpanel->SetScrollRate(0, 10);
     lowpanel->SetSizer(sizer2);
     lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
@@ -1230,7 +1231,7 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     // result area, đoạn này chỉnh màu chưa đc :)
     wxPanel* base = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
-    base->SetBackgroundColour(wxColour(238, 238, 238));
+    base->SetBackgroundColour(wxColour(249, 246, 246));
     sizer1->Add(base);
 
     // ------------------------------------------------------------------ create one word item
