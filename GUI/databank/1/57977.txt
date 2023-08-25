@@ -1,13 +1,9 @@
-troubleshooter	@troubleshooter
-* danh từ
-- thợ chữa máy
-- người dàn xếp
-@Chuyên ngành kinh tế
--người điều giải
--người gỡ rối
--người hòa giải
--người kiểm tu
--thợ sửa chữa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--trình gỡ sự cố
+snitch
+	
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ cắp vặt
+- kẻ mách lẻo; kẻ chỉ điểm
+*  danh từ
+- ăn cắp vặt
+- mách lẻo; chỉ điểm
+

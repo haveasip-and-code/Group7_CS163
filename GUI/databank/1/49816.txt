@@ -1,14 +1,25 @@
-sensibility	@sensibility /,sensi'biliti/
+cocoa
+	
 *  danh từ
-- tri giác, cảm giác
-- tính đa cảm, tính dễ cảm
-- (số nhiều) sự nhạy cảm
-- (từ hiếm,nghĩa hiếm) sự nhạy, độ nhạy (của dụng cụ khoa học)
++ (cocoa)
+/'koukou/
+- (thực vật học) cây dừa
+- quả dừa
+*  danh từ
+- bột cacao
+- nước cacao
+- màu cacao
+!cocoa bean
+- hột cacao
+!cocoa nib
+- hột cacao đã bóc vỏ
+!cocoa powder
+- thuốc súng nâu
+@Chuyên ngành kinh tế
+-bột cacao
+-cây cacao
+-nước cacao
 @Chuyên ngành kỹ thuật
--độ chính xác
--độ nhạy
--tính nhạy cảm
-@Lĩnh vực: y học
--tính mẫn cảm
-@Lĩnh vực: điện lạnh
--tính nhạy
+@Lĩnh vực: hóa học & vật liệu
+-cacao
+

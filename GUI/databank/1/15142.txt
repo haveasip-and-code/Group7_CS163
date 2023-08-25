@@ -1,9 +1,9 @@
-dialog	
-@dialog
-- hội thoại
+landowner
+	
+*  danh từ
+- địa ch
 @Chuyên ngành kỹ thuật
--sự đối thoại
--sự hội thoại
--sự tương tác
-@Lĩnh vực: toán & tin
--cuộc đối thoại
+-chủ đất
+@Chuyên ngành kỹ thuật
+-chủ đất
+

@@ -1,14 +1,8 @@
-proportionality	@proportionality /proportionality/
-*  danh từ
-- tính cân xứng, tính cân đối
-- tính tỷ lệ
+bruxism
+	
+* danh từ
+- thói nghiến răng lúc ngủ
 @Chuyên ngành kỹ thuật
--cùng kích thước
-@Lĩnh vực: xây dựng
--cùng cớ cân đối
--cùng cớ tỉ lệ
--sự hợp cỡ
-@Lĩnh vực: điện lạnh
--sự tỷ lệ
-@Lĩnh vực: toán & tin
--tính tỷ lệ
+@Lĩnh vực: y học
+-thói nghiến răng
+

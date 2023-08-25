@@ -1,8 +1,9 @@
-beaker	
-@beaker /bi:kə/
-*  danh từ
-- cái cốc vại, cái chén tống
-- (hoá học) cốc đứng thành, cốc bêse
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--cốc mỏ
+voiceless
+	
+*  tính từ
+- không nói được, không có tiếng, câm
+- (ngôn ngữ học) không kêu
+=voiceless consonant
++ phụ âm không kêu
+- (y học) mất tiếng
+

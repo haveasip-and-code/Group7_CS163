@@ -1,11 +1,15 @@
-boned	
-@boned /bound/
-*  tính từ
-- có xương ((thường) ở từ ghép)=brittle boned
-+ có xương giòn
-- được gỡ xương=boned chicken
-+ gà giò gỡ xương
-- có mép xương (cổ áo sơ mi...)
-@Chuyên ngành kinh tế
--có xương
--được gỡ xương
+scarifier
+	
+*  danh từ
+- (nông nghiệp) máy xới
+@Chuyên ngành kỹ thuật
+-máy cày
+-máy xới
+@Lĩnh vực: xây dựng
+-cuốc xẻ rãnh
+-máy rạch rãnh
+-thợ đào hầm (bằng cuốc chim)
+-thợ đào lò (bằng cuốc chim)
+@Lĩnh vực: y học
+-dao rạch nông
+

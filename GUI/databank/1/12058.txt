@@ -1,21 +1,6 @@
-corrugated	
-@corrugated
-- (Tech) dạng uốn nếp, bị gợn sóng
-@Chuyên ngành kỹ thuật
--dạng sóng
--được làm nhăn
--được tạo nếp
--được tạo nếp nhăn
--gấp nếp
--gợn sóng
--hình sóng
--làn sóng
--lượn sóng
--nếp nhăn
--nhăn
--nhãn
--uốn sóng
-@Lĩnh vực: hóa học & vật liệu
--bị khía
-@Lĩnh vực: điện tử & viễn thông
--lượng sóng
+vaccinal
+	
+*  tính từ
+- (thuộc) bệnh đậu mùa
+- (thuộc) tiêm chủng
+

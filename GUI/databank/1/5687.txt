@@ -1,13 +1,16 @@
-bisector	
-@bisector /bai'sektə/ (bisectrix) /bai'sektriks/
+tightness
+	
 *  danh từ
-- đường phân đôi
-- (văn học) đường phân giác=bisector of an angle
-+ (toán học) đường phân giác của một góc
+- tính chất kín, tính không thấm rỉ
+- tính chất chật, tính bó sát (quần áo)
+- tính chất căng, tính chất căng thẳng
+- tính chất khó khăn, tính khan hiếm, tính khó hiếm (tiền...)
 @Chuyên ngành kỹ thuật
--đường phân giác
--phân giác
+-độ chặt
+-độ khít
+-độ kín
+-sự căng thẳng (dây)
+-sự kín
 @Lĩnh vực: xây dựng
--dây giữa
-@Lĩnh vực: điện lạnh
--mặt phẳng trung trực
+-tính kín
+

@@ -1,19 +1,8 @@
-emit	
-@emit /i'mit/
-*  tính từ
-- phát ra (ánh sáng, nhiệt...), bốc ra, sự toả ra (mùi vị, hơi...)
-- phát hành (giấy bạc...)
+wick
+	
+*  danh từ
+- bấc (đèn)
+- (y học) bấc
 @Chuyên ngành kỹ thuật
--phát
--phát hành
--phát nhiệt
--phát ra
--phát xạ
--tỏa nhiệt
-@Chuyên ngành kỹ thuật
--phát
--phát hành
--phát nhiệt
--phát ra
--phát xạ
--tỏa nhiệt
+-bấc
+

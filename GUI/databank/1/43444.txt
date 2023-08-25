@@ -1,5 +1,36 @@
-presser	@Chuyên ngành kinh tế
--thợ dập
--thợ nén
+basket
+	
+*  danh từ
+- cái rổ, cái giỏ, cái thúng
+=fish basket
++ giỏ đựng cá
+=a basket of eggs
++ một rổ trứng
+- tay cầm của roi song; roi song; roi mây
+- (định ngữ) hình rổ, hình giỏ
+- (định ngữ) bằng song, bằng mây
+!like a basket of chips
+- (từ Mỹ,nghĩa Mỹ), (đùa cợt) rất có duyên, rất dễ thương
+!the pick of the basket
+- những phần tử ưu tú; cái chọn lọc nhất, cái ngon nhất, cái ngon lành nhất
+*  ngoại động từ
+- bỏ vào rổ, bỏ vào giỏ, bỏ vào thùng
+@Chuyên ngành kinh tế
+-cái giỏ
+-cái rổ
+-pha trộn
+-trọng lượng cơ sở
 @Chuyên ngành kỹ thuật
--máy dập máy ép
+-cái rổ
+-gàu máy đào
+-lồng
+-thùng
+@Lĩnh vực: xây dựng
+-đầu cột corin
+@Lĩnh vực: hóa học & vật liệu
+-giỏ
+@Lĩnh vực: cơ khí & công trình
+-ống cát khoan
+@Lĩnh vực: y học
+-tế bào rổ
+

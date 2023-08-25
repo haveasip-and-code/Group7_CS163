@@ -1,4 +1,12 @@
-disvalue	
-@disvalue
-* ngoại động từ
-- xem là vô giá trị
+tenable
+	
+*  tính từ
+- giữ được, bảo vệ được, cố thủ được (vị trí, địa vị, đồn luỹ...)
+=a tenable town
++ thành phố cố thủ được
+- cãi được, biện hộ được, bảo vệ được (lập luận, lý lẽ...); lôgic
+=a tenable theory
++ một lý thuyết có thể bảo vệ được
+=a tenable solution
++ một giải pháp lôgic
+

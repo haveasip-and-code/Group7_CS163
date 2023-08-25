@@ -1,12 +1,9 @@
-valuator	@valuator /'væljueitə/
-*  danh từ
-- người định giá
-@Chuyên ngành kinh tế
--người định giá
--người định giá, người giám định
--người giám định
+electrical
+	
+*  tính từ
+- (thuộc) điện
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bộ tính giá trị
-@Lĩnh vực: đo lường & điều khiển
--người định giá
+-điện
+@Chuyên ngành kỹ thuật
+-điện
+

@@ -1,0 +1,3 @@
+barograph
+An instrument for recording automatically the variations of atmospheric pressure.
+

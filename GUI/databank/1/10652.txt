@@ -1,14 +1,11 @@
-compatible	
-@compatible /kəm'pætəbl/
-*  tính từ
-- (
-+ with) hợp, thích hợp, tương hợp
-@Chuyên ngành kinh tế
--hợp
--thích hợp
--tương hợp (với)
+lithiasis
+	
+*  danh từ
+- (y học) bệnh sỏi
 @Chuyên ngành kỹ thuật
--phù hợp
--thích hợp
 @Lĩnh vực: y học
--tương hợp
+-bệnh sỏi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh sỏi
+

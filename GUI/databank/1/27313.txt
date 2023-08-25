@@ -1,4 +1,25 @@
-impartial	
-@impartial /im'pɑ:ʃəl/
-*  tính từ
-- công bằng, không thiên vị, vô tư
+verify
+	
+*  ngoại động từ
+- thẩm tra, kiểm lại
+=to verify a statement
++ thẩm tra một lời tuyên bố
+=to verify the items of a bill
++ kiểm lại các khoản của một hoá đơn
+- xác minh (lời nói, sự kiện)
+=to verify a witness
++ xác minh một lời khai làm chứng
+- thực hiện (lời tiên đoán, lời hứa...)
+@Chuyên ngành kinh tế
+-kiểm nghiệm
+-kiểm tra
+-thẩm tra
+@Chuyên ngành kỹ thuật
+-kiểm chứng
+-kiểm nghiệm
+-kiểm tra
+-thử lại
+-xác minh
+@Lĩnh vực: toán & tin
+-thẩm tra
+

@@ -1,16 +1,9 @@
-father	
-@father /'fɑ:ðə/
+watercourse
+	
 *  danh từ
-- cha, bố
-- (nghĩa bóng) người cha, người đẻ ra, người sản sinh ra=the wish is father to the thought
-+ ước vọng sinh ra sự tin tưởng
-- tổ tiên, ông tổ=father of Vietnamese poetry
-+ ông tổ của nền thơ ca Việt Nam=to sleep with one's fathers
-+ chầu tổ, chết
-- người thầy, người cha=father of the country
-+ người cha của đất nước
-- Chúa,  Thượng đế
-- (tôn giáo) cha cố=the Holy Father
-+ Đức giáo hoàng
-- người nhiều tuổi nhất, cụ=Father of the House of Commons
-+ người nhiều tuổi nhất ở hạ nghị viện Anh
+- sông, suối
+- lòng sông, lòng suối
+@Chuyên ngành kỹ thuật
+-dòng nước
+-dòng sông
+

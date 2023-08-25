@@ -1,40 +1,5 @@
-sump	@sump /sʌmp/
-*  danh từ
-- hầm chứa phân (ở nhà xí máy); hố nước rác
-- (kỹ thuật) bình hứng dầu
-@Chuyên ngành kinh tế
--thùng chứa
--thùng lắng
--thùng tiếp nhận
-@Chuyên ngành kỹ thuật
--bể bùn
--bể gom
--bể gom cặn lắng
--bể lắng
--bể lắng bùn cặn
--đáy vỏ
--giếng
--giếng lắng
--hố chứa bùn cặn
--hố gom (kỹ thuật khoan)
--hố thu nước
--hố thu nước bẩn
--khay hứng dầu
--rãnh gom
--rốn giếng
-@Lĩnh vực: điện
--bình hứng dầu
-@Lĩnh vực: cơ khí & công trình
--bộ phận gom dầu
--thùng dầu xỉ
--thùng lắng cặn
-@Lĩnh vực: điện lạnh
--đáy chứa dầu
-@Lĩnh vực: hóa học & vật liệu
--giếng nước
--hồ nước bẩn
-@Lĩnh vực: xây dựng
--giếng thấm
--hồ chứa nước bẩn
-@Lĩnh vực: vật lý
--thùng chất quét phủ
+subordinateness
+	
+* danh từ
+- xem subordination
+

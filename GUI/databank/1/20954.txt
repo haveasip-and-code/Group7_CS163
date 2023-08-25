@@ -1,13 +1,6 @@
-fiducial	
-@fiducial /fi'dju:ʃjəl/
-*  tính từ
-- (thiên văn học) chuẩn, lấy làm cơ sở so sánh=fiducial point
-+ điểm chuẩn để so sánh
-@Chuyên ngành kỹ thuật
--an toàn
--bảo đảm
--tin cậy
-@Chuyên ngành kỹ thuật
--an toàn
--bảo đảm
--tin cậy
+slightness
+	
+*  danh từ
+- tính mỏng mảnh; tầm vóc mảnh khảnh
+- sự qua loa, sự sơ sài; sự không đáng kể
+

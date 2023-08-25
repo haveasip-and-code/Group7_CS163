@@ -1,8 +1,4 @@
-commissionaire	
-@commissionaire /kə,miʃə'nəe/
-*  danh từ
-- người gác cửa (rạp hát, rạp chiếu bóng, cửa hàng lớn)
-- người có chân trong tổ chức những người liên lạc (ở Luân
--đôn)
-@Chuyên ngành kinh tế
--người gác cửa (rạp hát, khách sạn, cửa hàng)
+packable
+	
+- xem pack
+

@@ -1,22 +1,5 @@
-lantern	@lantern /'læntən/
-*  danh từ
-- đèn lồng, đèn xách
-- (kiến trúc) cửa trời (ở mái nhà)
-@Chuyên ngành kỹ thuật
--cửa mái
--cửa trời
--đèn
--đèn chiếu
--đèn xách
--vòng bôi trơn
-@Lĩnh vực: cơ khí & công trình
--lõi thao (đúc)
-@Chuyên ngành kỹ thuật
--cửa mái
--cửa trời
--đèn
--đèn chiếu
--đèn xách
--vòng bôi trơn
-@Lĩnh vực: cơ khí & công trình
--lõi thao (đúc)
+sniffiness
+	
+* danh từ
+- xem sniffy
+

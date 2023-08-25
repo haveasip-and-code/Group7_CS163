@@ -1,6 +1,9 @@
-haploid	
-@haploid
-* tính từ
-- đơn bội
-* danh từ
-- thể đơn bội
+roan
+	
+*  tính từ
+- lang
+=a roan cow
++ một con bò lang
+*  danh từ
+- ngựa lang; bò lang
+

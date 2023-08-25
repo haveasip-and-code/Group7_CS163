@@ -1,9 +1,17 @@
-dialyzer	
-@dialyzer /'daiəlaizə/ (dialyzer) /'daiəlaizə/
+spew
+	
 *  danh từ
-- máy thẩm tách
+- cái nôn ra, cái mửa ra, cái thổ ra
+*  động từ
+- nôn ra, mửa ra, thổ ra ((cũng) spue)
+*  nội động từ
+- chúc nòng (súng) (vì bắn nhanh quá) ((cũng) spue)
 @Chuyên ngành kinh tế
--thiết bị thẩm tách
+-ép
+-sự ép
+-sự trào ra
+-trào ra
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--máy thẩm tách
+-đẩy ra
+-rìa bờm
+

@@ -1,16 +1,6 @@
-describe	
-@describe /dis'kraib/
-*  ngoại động từ
-- tả, diễn tả, mô tả, miêu tả
-- vạch, vẽ=to describe a circle with a pair of compasses
-+ vạch một vòng tròn bằng com
--pa
-- cho là, coi là; định rõ tính chất=he described hinself as a doctor
-+ nó tự xưng là bác sĩ
-@Chuyên ngành kỹ thuật
--đi (theo)
--miêu tả
--mô tả
-@Lĩnh vực: điện lạnh
--vạch ra
--vẽ ra
+colleen
+	
+*  danh từ
+- Ai
+-len cô gái
+

@@ -1,79 +1,30 @@
-punch	@punch /pʌntʃ/
+compliance
+	
 *  danh từ
-- cú đấm, cú thoi, cú thụi
-=a punch on the head+ cú đấm vào đầu
-- (thông tục) sức mạnh, lực; đà
-!to pull one's punches
-- (xem) pull
-*  ngoại động từ
-- đấm, thoi, thụi
-*  danh từ ((từ hiếm,nghĩa hiếm) (cũng) puncheon)
-- cái giùi, máy giùi; kìm bấm (vé tàu); cái nhổ đinh, cái đóng đinh
-- máy khoan
-- máy rập dấu, máy đột rập
-*  ngoại động từ
-- giùi lỗ (miếng da, giấy, tôn... bằng cái giùi); bấm (vé tàu... bằng kìm bấm)
-- khoan (lỗ bằng máy khoan)
-- (từ Mỹ,nghĩa Mỹ) thúc (trâu, bò...) bằng giấy đầu nhọn
-- chọc, thúc bằng gậy
-!to punch in
-- đóng (đinh) vào
-!to punch out
-- nhổ (đinh) ra
-*  danh từ
-- rượu pân (rượu mạnh pha nước nóng, đường, sữa, chanh)
-- bát rượu pân
-- tiệc rượu pân
-*  danh từ
-- ngựa thồ mập lùn ((cũng) Suffork punch)
-- vật béo lùn, vật to lùn
-- (Punch) Pân (nhân vật chính trong vở múa rối Pân và Giu-đi)
-!as pleased as Punch
-- thích quá, sướng rơn lên
-!as proud as Punch
-- hết sức vây vo, dương dương tự đắc
+- sự bằng lòng, sự ưng thuận, sự chiều theo, sự làm đúng theo (một yêu cầu, một lệnh...)
+=it was done in compliance with your wish
++ việc đó đã làm đúng theo ý muốn của anh
+- sự phục tùng đê tiện, sự khúm núm
 @Chuyên ngành kinh tế
--cái bấm lỗ
--đóng dấu
--làm mịn
--máy đục lỗ
--máy đục lỗ (trên da, giấy)
--rượu pân (rượu pha đường nước chanh)
--sự làm mịn
+-sự làm đúng theo
+-sự phù hợp với
 @Chuyên ngành kỹ thuật
--cái đột lỗ
--chọc thủng
--dập
--đầu xọc
--đóng dấu
--đột
--đột dập
--đột lỗ
--đục
--đục lỗ
--dùi
--dụng cụ đóng dấu
--khuôn dập
--máy dập tấm
--máy đột
--máy đột dập
--máy đục lỗ
--máy khoan
--mũi dấu chấm
--mũi đóng dấu
--mũi đột
--mũi dùi
--mũi khoét
--mũi núng
--mũi núng tâm
--sự đột lỗ
--sự đục
--sự đục lỗ
-@Lĩnh vực: xây dựng
--chày dập mũi đột
--đấm
--đầu đột
+-làm đúng theo
+-nhất trí
+-phù hợp
+-sự tuân thủ
+-tính mềm
 @Lĩnh vực: toán & tin
--cơ cấu đục lỗ
--lỗ đục
--máy đục lỗ (bìa)
+-sự dễ dãi
+-sự làm đúng theo
+-sự tuân theo
+-thuận hòa hợp
+@Lĩnh vực: xây dựng
+-sự tuân thủ đúng
+-tính biến dạng mền
+-tính dễ biến dạng
+@Lĩnh vực: vật lý
+-tính thuận
+@Lĩnh vực: điện tử & viễn thông
+-tuân thủ
+

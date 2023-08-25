@@ -1,35 +1,25 @@
-fluid	
-@fluid /fluid/
-*  tính từ
-- lỏng, dễ cháy
-- hay thay đổi=fluid opinion
-+ ý kiến hay thay đổi
-- (quân sự) di động (mặt trận...)
+recognition
+	
 *  danh từ
-- chất lỏng (gồm chất nước và chất khí)
+- sự công nhận, sự thừa nhận
+=the recognition of a new government
++ sự công nhận một chính phủ mới
+=to win (receive, meet with) recognition from the public
++ được mọi người thừa nhận, được quần chúng thừa nhận
+- sự nhận ra
+=to alter something beyond (past) recognition
++ thay đổi vật gì không còn nhận ra được nữa
+=a smile of recognition
++ nụ cười chào khi nhận ra ai
 @Chuyên ngành kinh tế
--chất lỏng
--dễ chảy
--lỏng
+-nhận ra
+-sự nhận ra
+-sự nhận thức
 @Chuyên ngành kỹ thuật
--chất lưu động
--dễ chảy
--dung dịch
--lỏng
--lưu chất
-@Lĩnh vực: y học
--chất lỏng
-@Lĩnh vực: điện
--chất lỏng (
-*)
-@Chuyên ngành kỹ thuật
--chất lưu động
--dễ chảy
--dung dịch
--lỏng
--lưu chất
-@Lĩnh vực: y học
--chất lỏng
-@Lĩnh vực: điện
--chất lỏng (
-*)
+-nhận biết
+-nhận dạng
+-sự đoán nhận
+-sự nhận biết
+-sự nhận dạng
+-sự thừa nhận
+

@@ -1,9 +1,15 @@
-cataphoresis	
-@cataphoresis
-- (Tech) điện vịnh, điện ly tử thấu nhập pháp
-@Chuyên ngành kỹ thuật
--điện di
-@Lĩnh vực: y học
--điện chuyển
-@Lĩnh vực: điện
--hiện tượng điện di
+votary
+	
+*  danh từ
+- người tôn thờ; người sùng tín, kẻ sùng đạo
+=a votary of Buddha
++ một người sùng Phật
+- người sốt sắng, người nhiệt tâm
+=a votary of peace
++ người sốt sắng với hoà bình
+=a votary of science
++ người nhiệt tâm với khoa học
+- người hâm mộ, người ham thích (mỹ thuật, thể thao...)
+=a votary of football
++ người ham thích bóng đá
+

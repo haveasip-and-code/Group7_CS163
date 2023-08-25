@@ -1,12 +1,11 @@
-epimer	
-@epimer
-* danh từ
-- (hoá học) epime (một loại đồng tâm lập thể)
+disperser
+	
+*  danh từ
+- (vật lý) chất làm tản mạn
+- (hoá học) chất làm phân tán
+@Chuyên ngành kinh tế
+-chất làm phân tán
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất biến dị
--điastereome
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất biến dị
--điastereome
+-bộ phân tán
+-cái giảm xóc
+

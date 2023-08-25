@@ -1,9 +1,10 @@
-pro	@pro /pro/
-*  danh từ,  số nhiều pros
-- (viết tắt) của professionaln đấu thủ nhà nghề
+centralize
+	
+*  ngoại động từ
+- tập trung
+- quy về trung ương
 @Chuyên ngành kinh tế
--người tán thành
--người ủng hộ
--tán thành
--thừa ủy quyền
--thuận
+-tập trung
+@Chuyên ngành kỹ thuật
+-tập trung
+

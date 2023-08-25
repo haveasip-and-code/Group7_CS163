@@ -1,4 +1,18 @@
-isogloss	
-@isogloss
-* danh từ
-- đường đồng ngữ
+category
+	
+*  danh từ
+- hạng, loại
+- (triết học) phạm trù
+@Chuyên ngành kinh tế
+-hạng
+-loại
+-loại (hàng)
+@Chuyên ngành kỹ thuật
+-hạng
+-hạng mục
+-loại
+-loại hộ thuê bao
+-lớp
+-mục
+-phạm trù
+

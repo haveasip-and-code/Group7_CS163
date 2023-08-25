@@ -1,46 +1,8 @@
-name	@name /neim/
-*  danh từ
-- tên, danh
-=maiden name+ tên thời con gái
-=I know him only by name+ tôi chỉ biết tên ông ta
-=under the name of+ mang tên, lấy tên
-=in the name of+ nhân danh; vì, vì quyền lợi của
-=in the name of the law+ nhân danh luật pháp
-=in one's own name+ nhân danh cá nhân; vì mình, vì quyền lợi bản thân
-=to call someone names+ réo đủ các thứ tên ra mà chửi rủa ai
-- danh nghĩa
-=a king in name+ vua trên danh nghĩa
-- (chỉ số ít) tiếng, tiếng tăm, danh tiếng
-=to make a name+ nổi tiếng
-=to have a good name+ có tiếng tốt
-=to have a name for courage+ nổi tiếng là dũng cảm
-- danh nhân
-=the great names of history+ những danh nhân trong lịch sử
-- dòng họ
-=the last of the Mac Donalds' name+ người cuối cùng của dòng họ Mác-Đô-nan
-!to give it a name
-- muốn (uống rượu, được món quà...) gì thì nói ra
-!to have not a penny to one's name
-- không có một đồng xu dính túi
-*  ngoại động từ
-- đặt tên; gọi tên
-=can you name all the flowers in this garden?+ anh có thể nói tên được tất cả các loại hoa trong vườn này không?
-- định rõ; nói rõ
-=to name the day+ định rõ ngày; định rõ ngày cưới (người con gái)
-=name a price+ hây nói giá đi, hây cho giá đi
-- chỉ định, bổ nhiệm
-=to be named for+ được bổ nhiệm làm (chức vụ gì...)
-!to name after; (Mỹ) to name for (from)
-- đặt theo tên (của người nào)
-=the town was named after Lenin+ thành phố được đặt tên là Lê-nin
-!not to be named on (in) the same day with
-- không thể sánh với, không thể để ngang hàng với
-=he is not to be named on the same day with his brother+ nó không thể nào sánh với anh nó được
-@Chuyên ngành kinh tế
--người bảo hiểm chỉ hữu danh
-@Chuyên ngành kỹ thuật
--tiêu đề
-@Lĩnh vực: toán & tin
--cho tên
--gọi là
--tên gọi
+gestate
+	
+* ngoại động từ
+- có mang
+- làm phát triển
+* tính từ
+- mang thai
+

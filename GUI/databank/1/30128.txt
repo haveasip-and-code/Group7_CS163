@@ -1,4 +1,7 @@
-isolog	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất đồng cấu
+launderette
+	
+*  danh từ
+- hiệu giặt tự động (chờ lấy ngay quần áo tại chỗ)
+@Chuyên ngành kinh tế
+-phòng máy giặt tự động
+

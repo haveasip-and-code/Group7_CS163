@@ -1,18 +1,23 @@
-undulation	@undulation /,ʌndju'leiʃn/
+strapping
+	
 *  danh từ
-- sự gợn sóng, sự nhấp nhô
-- chuyển động sóng
-- (y học) cảm giác tim chập chờn
+- sự buộc bằng dây da
+- sự liếc dao cạo
+- (y học) sự băng (vết thương) bằng băng dính
+*  tính từ
+- to cao, vạm vỡ
+@Chuyên ngành kinh tế
+-việc cột bao bì (bằng đai)
 @Chuyên ngành kỹ thuật
--gợn sóng
--sự gợn sóng
--sự lượn sóng
--sự nhấp nhô
--sự uốn nếp
+@Lĩnh vực: y học
+-buộc băng, băng bó
+@Lĩnh vực: điện
+-nối liên kết
 @Lĩnh vực: xây dựng
--bề mặt dạng sóng
--độ (gợn) sóng
+-sự bọc vành đai
+-sự treo buộc
 @Lĩnh vực: vật lý
--chuyển động dạng sóng
-@Lĩnh vực: toán & tin
--sự chuyển động sóng
+-sự liên kết (các manhetron)
+@Lĩnh vực: điện lạnh
+-sự nối chằng (nhiều điểm bằng đoạn dây ngắn)
+

@@ -1,4 +1,33 @@
-preponderance	@preponderance /pri'pɔndərəns/
+interface
+	
 *  danh từ
-- thế nặng hơn
-- thế hơn, thế trội hơn, ưu thế
+- bề mặt chung (cho hai vật...); mặt phân giới
+- những cái chung (của hai ngành học thuật...)
+=the interface of chemistry and physics
++ những cái chung của hoá học và vật lý
+@Chuyên ngành kinh tế
+-bề mặt phân chia
+@Chuyên ngành kỹ thuật
+-bề mặt chuyển tiếp
+-giao diện
+-khớp nối
+-lớp trung gian
+-mặt phân cách
+-mặt phân giới
+-mặt tiếp xúc
+-phân lớp
+-sự ghép nối
+@Lĩnh vực: y học
+-bề mặt chung, mặt phân giãn
+@Lĩnh vực: toán & tin
+-mạch ghép nối
+-sự phân giới
+-thiết bị ghép nối
+@Lĩnh vực: xây dựng
+-mặt liên kết
+-mặt phân tầng
+@Lĩnh vực: vật lý
+-mặt phân chia
+@Lĩnh vực: hóa học & vật liệu
+-mặt trung gian
+

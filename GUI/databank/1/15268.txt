@@ -1,3 +1,17 @@
-did	
-@did /did/
-*  thời quá khứ của do
+publication
+	
+*  danh từ
+- sự công bố
+- sự xuất bản (sách); sách báo xuất bản
+@Chuyên ngành kinh tế
+-ban bố
+-sự ban bố
+-sự công bố
+-sự phát hành
+-sự xuất bản
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sản phẩm xuất bản
+-sự xuất bản
+-tài liệu xuất bản
+

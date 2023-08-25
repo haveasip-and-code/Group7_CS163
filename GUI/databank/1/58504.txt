@@ -1,8 +1,5 @@
-ultrasonics	@ultrasonics
-* danh từ số nhiều
-- khoa học về sóng siêu âm, kỹ thuật về sóng siêu âm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--kỹ thuật siêu âm
-@Lĩnh vực: y học
--siêu âm học
+smashing
+	
+*  tính từ
+- (từ lóng) cừ, ác, chiến
+

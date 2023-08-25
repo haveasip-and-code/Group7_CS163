@@ -1,6 +1,11 @@
-metabolite	@metabolite
-* danh từ
-- chất chuyển hoá/trao đổi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất chuyền hóa
+maize
+	
+*  danh từ
+- (thực vật học) ngô
+*  tính từ
+- vàng nhạt (màu ngô)
+@Chuyên ngành kinh tế
+-bắp
+-cây ngô
+-ngô
+

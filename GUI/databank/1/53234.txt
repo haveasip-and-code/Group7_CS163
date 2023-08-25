@@ -1,6 +1,5 @@
-stereochemical	@stereochemical
-* tính từ
-- thuộc hoá học lập thể
-@Chuyên ngành kỹ thuật
+doxorubicin
+	
 @Lĩnh vực: y học
--thuộc hóa học lập thể
+-một loại kháng sinh anthracycline chủ trị ung thư bạch cầu và các ung thư khác
+

@@ -1,7 +1,5 @@
-vorticity	@vorticity
-- (vật lí) tính xoáy
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--độ xoáy
-@Lĩnh vực: xây dựng
--độ xoáy nước
+describable
+	
+*  tính từ
+- có thể tả, diễn tả được, mô tả được, miêu tả được
+

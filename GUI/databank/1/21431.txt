@@ -1,15 +1,6 @@
-flier	
-@flier /flier/
-*  danh từ
-- vật bay, con vật có cánh (như chim, sâu bọ...)
-- xe đi nhanh như bay; con vật bay nhanh
-- người lái máy bay
-- cái nhảy vút lên
-- (thông tục) người nhiều tham vọng
-- (kỹ thuật) bánh đà
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bậc mâm thang
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bậc mâm thang
+intermeddle
+	
+*  nội động từ
+- (
++ in,  with) can thiệp vào, dính vào (người khác)
+

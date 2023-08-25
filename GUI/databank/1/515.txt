@@ -1,15 +1,9 @@
-acidulous	
-@acidulous /ə'sidjuləs/
-*  tính từ
-- hơi chua
-- có pha axit
-- chua cay, gay gắt (lời nói)
-@Chuyên ngành kinh tế
--hơi chua
-@Chuyên ngành kỹ thuật
--axit
--hơi chua
-@Lĩnh vực: hóa học & vật liệu
--chua chua
-@Lĩnh vực: y học
--hơi chua, có tính axit nhẹ
+responder
+	
+-bộ đáp ứng
+@Lĩnh vực: toán & tin
+-bộ trả lời
+@Lĩnh vực: giao thông & vận tải
+-máy đáp
+-máy phát đáp (thông tin liên lạc)
+

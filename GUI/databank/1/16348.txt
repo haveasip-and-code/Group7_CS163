@@ -1,4 +1,4 @@
-documents	
-@Chuyên ngành kỹ thuật
--hồ sơ
--tài liệu
+outlier
+	
+- (thống kê) giá trị ngoại lệ
+

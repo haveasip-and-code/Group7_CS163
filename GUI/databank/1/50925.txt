@@ -1,25 +1,7 @@
-sizing	@sizing
-* danh từ
-- suất ăn, khẩu phần (ở đại học Căm-brít)
-@Chuyên ngành kinh tế
--gạo gãy
--mảnh hạt
--sự định cỡ
--sự phân loại theo độ lớn
-@Chuyên ngành kỹ thuật
--sự dán keo
--sự định cỡ
--sự dính keo
--sự định tỷ lệ
--sự ép keo
--sự hồ
--sự hồ sợi
--sự phân cấp khô
--sự sàng
-@Lĩnh vực: xây dựng
--sự dán lỗ
--sự phân loại hạt
-@Lĩnh vực: hóa học & vật liệu
--sự đo kích thước
+aerothermodynamics
+	
+@Lĩnh vực: điện tử & viễn thông
+-khoa động nhiệt khí
 @Lĩnh vực: cơ khí & công trình
--sự theo kích thước
+-ngàng động nhiệt khí
+

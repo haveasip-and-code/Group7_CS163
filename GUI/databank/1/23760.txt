@@ -1,13 +1,15 @@
-goal	
-@goal /goul/
-*  danh từ
-- (thể dục,thể thao) khung thành gồm=to keep the goal
-+ giữ gôn
-- (thể dục,thể thao) bàn thắng, điểm=to kick a goal
-+ sút ghi một bàn thắng (bóng đá)
-- đích; mục đích, mục tiêu=to reach that goal
-+ để đạt mục đích ấy
+unfit
+	
+*  tính từ
+- không dùng được; làm cho không thích hợp; không đủ năng lực, thiếu khả năng, thiếu tư cách
+=road unfit for motor traffic
++ đường không dùng cho ô tô chạy được
+=to be unfit for a doctor
++ không đủ năng lực (tư cách) làm bác sĩ
+- (y học); (quân sự) không đủ sức khoẻ
+*  nội động từ
+- làm cho không dùng được; làm cho không thích hợp; làm cho không đủ năng lực, làm cho không đủ tư cách
 @Chuyên ngành kỹ thuật
--mục tiêu
-@Lĩnh vực: xây dựng
--gôn
+@Lĩnh vực: cơ khí & công trình
+-không tiện dụng
+

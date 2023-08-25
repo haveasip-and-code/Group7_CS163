@@ -1,0 +1,6 @@
+món
+-item; article; dish
+= món ăn+dish;
+-food course
+= món ăn tinh thần+mental food
+

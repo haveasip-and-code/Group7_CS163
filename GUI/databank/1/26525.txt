@@ -1,4 +1,22 @@
-hybris	
-@hybris
-* danh từ
-- quá kiêu căng
+robot
+	
+*  danh từ
+- người máy
+- tin hiệu chỉ đường tự động
+- bom bay
+- (định ngữ) tự động
+=robot plane
++ máy bay không người lái
+@Chuyên ngành kinh tế
+-người máy
+-rô
+-bốt
+-thiết bị tự động
+@Chuyên ngành kỹ thuật
+-người máy
+-máy tự động
+@Lĩnh vực: điện
+-rôbôt
+@Lĩnh vực: toán & tin
+-robot, người máy
+

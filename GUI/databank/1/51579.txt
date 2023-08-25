@@ -1,17 +1,11 @@
-snub	@snub /snʌb/
-*  tính từ
-- tẹt và hếch (mũi)
-*  danh từ
-- (từ hiếm,nghĩa hiếm) mũi tẹt và hếch
-- sự chỉnh, sự làm nhục, sự làm mất mặt
-=to suffer a snub+ bị chỉnh; bị mất mặt
-*  ngoại động từ
-- chỉnh, làm nhục, làm mất mặt, làm cụt vòi
-- (hàng hải) cột (tàu) lại
-@Chuyên ngành kỹ thuật
--mắt gỗ
--sự cản
--sự ngăn
-@Lĩnh vực: xây dựng
--đưa xuống bằng thừng
--hãm rơi
+redeploy
+	
+* ngoại động từ
+- bố trí lại (nhiệm vụ, cương vị mới cho ai)
+@Chuyên ngành kinh tế
+-bố trí lại
+-đổi lại để dùng cho
+-dùng lại cho
+-sắp xếp lại
+-triển khai lại
+

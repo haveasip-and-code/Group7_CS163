@@ -1,13 +1,19 @@
-economical	
-@economical /,i:kə'nɔmikəl/
-*  tính từ
-- tiết kiệm
-- kinh tế
+allocate
+	
+*  ngoại động từ
+- chỉ định; dùng (số tiền vào việc gì)
+- cấp cho (ai cái gì)
+- phân phối, phân phát; chia phần
+- định rõ vị trí
 @Chuyên ngành kinh tế
--ít tốn kém
--kinh tế
--rẻ tiền
--tiết kiệm
+-phân bổ (một món tiền vào việc gì)
+-phân phối (vốn)
+-trợ cấp
 @Chuyên ngành kỹ thuật
+-chia phần
+-gán
+-phân tán
 @Lĩnh vực: toán & tin
--tiết kiệm
+-định phần
+-phân bổ
+

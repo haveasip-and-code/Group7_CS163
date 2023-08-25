@@ -1,11 +1,5 @@
-disbursement	
-@disbursement /dis'bə:smənt/
-*  danh từ
-- sự dốc túi, sự dốc hầu bao, sự chi tiêu
-@Chuyên ngành kinh tế
--chi thanh toán
--chi trả
--giải ngân
--sự chi ra
--trả tiền
--xuất quỹ
+marginalia
+	
+*  danh từ số nhiều
+- những lời ghi chú ở lề
+

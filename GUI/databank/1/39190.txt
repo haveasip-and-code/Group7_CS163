@@ -1,26 +1,5 @@
-padding	@padding /'pædiɳ/
-*  danh từ
-- sự đệm, sự lót, sự độn
-- vật đệm, vật lót, vật độn
-- từ thừa nhồi nhét (đầy câu, đầy sách...)
-@Chuyên ngành kinh tế
--khoản ghi sổ giả
--sự đệm
--sự lót
--vật đệm
--vật độn lót (bao bì)
-@Chuyên ngành kỹ thuật
--đệm
--lót đệm
--lót lèn nhồi
--sản phẩm đệm
--sự đệm
--sự đổ đầy
--sự lèn
--sự lót
-@Lĩnh vực: dệt may
--ngâm nhuộm
--sự cán nhuộm
--sự ngâm cán
-@Lĩnh vực: toán & tin
--sự đệm, sự lót
+begone
+	
+*  thán từ
+- đi!, xéo!, cút!
+

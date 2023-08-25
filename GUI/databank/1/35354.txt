@@ -1,9 +1,12 @@
-moiety	@moiety
-* danh từ
-- <pháp> nửa
-@Chuyên ngành kinh tế
--chủ nghĩa trọng tiền
--một nửa
--nửa
+juxtaposition
+	
+*  danh từ
+- sự đặt cạnh nhau, sự kề nhau
+- vị trí kề nhau
 @Chuyên ngành kỹ thuật
--một nửa
+@Lĩnh vực: toán & tin
+-phép ghép
+-phép nhân ghép
+@Lĩnh vực: hóa học & vật liệu
+-sự kề
+

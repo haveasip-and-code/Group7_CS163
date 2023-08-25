@@ -1,14 +1,4 @@
-surety	@surety /'ʃuəti/
-*  danh từ
-- người bảo đảm
-=to stand surety for someone+ đứng ra bảo đảm cho ai
-- (từ hiếm,nghĩa hiếm) vật bảo đảm
-- (từ cổ,nghĩa cổ) sự chắc chắn
-@Chuyên ngành kinh tế
--người bảo chứng
--người bảo đảm
--người bảo lãnh
--người bảo lãnh (nợ)
--người bảo lãnh (nợ...)
--người đảm bảo
--sự bảo lãnh
+sourcing
+	
+-tìm nguồn cung ứng
+

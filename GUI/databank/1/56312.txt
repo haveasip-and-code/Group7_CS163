@@ -1,10 +1,13 @@
-thermionic	@thermionic
-* tính từ
-- thecmionic, thuộc kỹ thuật - điện tử học (thuộc ngành <lý> nghiên cứu sự phát ra các electron ở nhiệt độ cao)
+heft
+	
+*  danh từ (từ Mỹ,nghĩa Mỹ)
+- trọng lượng, sức nặng
+- sự đẩy, sự nâng lên, sự nhấc lên
+*  ngoại động từ (từ Mỹ,nghĩa Mỹ)
+- (từ Mỹ,nghĩa Mỹ) nhấc lên để ước lượng sức nặng
 @Chuyên ngành kỹ thuật
--nhiệt điện tử
-@Lĩnh vực: điện
--nhiệt xạ
-@Lĩnh vực: điện lạnh
--thuộc nhiệt electron
--thuộc nhiệt ion
+-sức nặng
+-trọng lượng
+@Lĩnh vực: hóa học & vật liệu
+-sức nâng lên
+

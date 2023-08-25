@@ -1,17 +1,10 @@
-firmness	
-@firmness /'fə:mnis/
+microspore
+	
 *  danh từ
-- sự vững chắc
-- sự kiên quyết
-@Chuyên ngành kinh tế
--độ chặt
--độ cứng
--độ rắn chắc
+- (thực vật học) tiểu bào tử
 @Chuyên ngành kỹ thuật
--độ chặt
--độ cứng
--độ ổn định
-@Chuyên ngành kỹ thuật
--độ chặt
--độ cứng
--độ ổn định
+@Lĩnh vực: y học
+-tiểu bào tử
+@Lĩnh vực: hóa học & vật liệu
+-vi bào tử
+

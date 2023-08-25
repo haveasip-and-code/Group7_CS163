@@ -1,11 +1,11 @@
-waiver	@waiver /'weivə/
+glossary
+	
 *  danh từ
-- (pháp lý) sự bỏ, sự từ bỏ, sự khước từ
-- giấy từ bỏ, giấy khước từ
-@Chuyên ngành kinh tế
--sự từ bỏ (quyền lợi)
--việc khước từ
+- bảng chú giải
+- từ điển thuật ngữ; từ điển cổ ngữ; từ điển thổ ngữ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--sự khước từ
--sự từ bỏ
+-từ vựng
+@Lĩnh vực: toán & tin
+-bảng thuật ngữ
+-bảng từ vựng
+

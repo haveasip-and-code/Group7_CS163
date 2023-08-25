@@ -1,4 +1,8 @@
-invoicing	
-@Chuyên ngành kinh tế
--việc làm hóa đơn
--việc tính giá hàng
+tested
+	
+-đã thử
+-được kiểm tra
+-được thử nghiệm
+@Lĩnh vực: cơ khí & công trình
+-đã hiệu chuẩn
+

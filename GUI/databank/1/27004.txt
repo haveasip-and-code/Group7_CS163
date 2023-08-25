@@ -1,20 +1,12 @@
-ignition	
-@ignition /ig'niʃn/
+sprain
+	
 *  danh từ
-- sự đốt cháy, sự bốc cháy
-- sự mồi lửa, sự đánh lửa=battery ignition
-+ sự mồi lửa bằng ắc quy=spark ignition
-+ sự mồi bằng tia lửa
-- bộ phận mồi lửa, bộ phận đánh lửa (trong máy) ((viết tắt) ign)
+- sự bong gân
+*  ngoại động từ
+- làm bong gân
+=to sprain one's wrist
++ làm bong gân cổ tay
 @Chuyên ngành kỹ thuật
--nút đề máy
--mồi lửa
--sự bốc cháy
--sự đánh lửa
--sự đốt
--sự đốt cháy
--sự mồi
--sự mồi lửa
--sự sinh tia điện
-@Lĩnh vực: hóa học & vật liệu
--sự bắt cháy
+@Lĩnh vực: y học
+-bong gân
+

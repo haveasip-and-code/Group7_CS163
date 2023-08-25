@@ -1,16 +1,11 @@
-fenestration	
-@fenestration /,fenis'treiʃn/
-*  danh từ
-- (kiến trúc) sự bố trí của cửa sổ trong nhà
-- (y học) thủ thuật trổ cửa sổ (ở tai giữa để chữa bệnh điếc)
-- (sinh vật học) sự có lỗ cửa s
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--cách bố trí cửa
-@Lĩnh vực: y học
--tạo cửa sổ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--cách bố trí cửa
-@Lĩnh vực: y học
--tạo cửa sổ
+abdicate
+	
+*  ngoại động từ
+- từ bỏ (quyền lợi, địa vị...)
+=to abdicate a position
++ từ bỏ một địa vị
+=to abdicate all one's rights
++ từ bỏ mọi quyền lợi
+*  nội động từ
+- thoái vị, từ ngôi
+

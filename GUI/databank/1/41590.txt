@@ -1,14 +1,5 @@
-pilotage	@pilotage /'pailətidʤ/
-*  danh từ
-- (hàng hải) việc dẫn tàu, nghề hoa tiêu; tiền công dẫn tàu; tiền công trả cho hoa tiêu
-- (hàng không) việc lái máy bay, nghề lái máy bay; tiền công lái máy bay
-@Chuyên ngành kinh tế
--phí dẫn cảng
--phí dắt tàu
--phí dắt tàu (ra vào cảng)
--phí hoa tiêu
--sự dẫn cảng (việc dắt tàu ra vào cảng)
-@Chuyên ngành kỹ thuật
--nghề hoa tiêu
-@Lĩnh vực: giao thông & vận tải
--sự dẫn tàu
+misbrand
+	
+*  ngoại động từ
+- cho nhân hiệu sai; gắn nhãn hiệu giả vào
+

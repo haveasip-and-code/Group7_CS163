@@ -1,24 +1,14 @@
-encoding	
-@encoding
-- (Tech) biên mã, mã hóa
-@Chuyên ngành kinh tế
--lập mã
--mã hóa
--việc lập mã
--việc mã hóa
-@Chuyên ngành kỹ thuật
--giải mã
--mã hóa
--sự cài mã
--sự chuyển đổi
--sự mã hóa
-@Lĩnh vực: điện lạnh
--sự lập mã
-@Chuyên ngành kỹ thuật
--giải mã
--mã hóa
--sự cài mã
--sự chuyển đổi
--sự mã hóa
-@Lĩnh vực: điện lạnh
--sự lập mã
+sallow
+	
+*  danh từ
+- cây liễu bụi
+- gỗ liễu bụi
+- cành liễu bụi
+- màu tái, màu tái xám
+*  tính từ
+- vàng bủng (màu da)
+*  ngoại động từ
+- làm (da) tái đi, làm (da) màu tái xám
+*  nội động từ
+- tái, tái xám
+

@@ -1,13 +1,10 @@
-shelve	@shelve /ʃelv/
-*  ngoại động từ
-- xếp (sách) vào ngăn
-- (nghĩa bóng) cho (một kế hoạch) vào ngăn kéo, bỏ xó
-- thải (người làm)
-- đóng ngăn (cho tủ)
-*  nội động từ
-- dốc thoai thoải
+backer
+	
+*  danh từ
+- người giúp đỡ, người ủng hộ
 @Chuyên ngành kinh tế
--bảo quản trên các hệ
--xếp lên bệ
-@Chuyên ngành kỹ thuật
--dốc thoải
+-người bảo lãnh
+-người ký hậu
+-người tài trợ
+-người xuất vốn
+

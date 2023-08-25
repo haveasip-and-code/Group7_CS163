@@ -1,0 +1,3 @@
+muf
+Multi User Forth ; Advanced coding language used on [MUCK]s. When used by [Zirik], it causes flooding. ; MUF is frequently used when [MPI] proves insufficient to perform a desired function, as it has much greater capabilities. However, most consider it more difficult to learn.
+

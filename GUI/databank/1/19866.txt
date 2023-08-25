@@ -1,27 +1,11 @@
-experiment	
-@experiment /iks'periment 
-- iks'periment/
-- iks'periment/
-*  nội động từ
-+ (experimentalise)/eks,peri'mentəlaiz/ (experimentalize)/eks,peri'mentəlaiz/
-- (
-+ on,  with) thí nghiệm, thử
-*  danh từ
-- cuộc thí nghiệm
-- sự thí nghiệm, sự thử
-@Chuyên ngành kinh tế
--cuộc thí nghiệm
--phép thử
--sự thí nghiệm
--sự thử
--thí nghiệm
-@Chuyên ngành kỹ thuật
--làm thí nghiệm
--sự thí nghiệm
--sự thử nghiệm
--thí nghiệm mỏi
-@Chuyên ngành kỹ thuật
--làm thí nghiệm
--sự thí nghiệm
--sự thử nghiệm
--thí nghiệm mỏi
+overvoltage
+	
+-quá áp
+-sự quá điện áp
+@Lĩnh vực: toán & tin
+-điện áp quá mức
+@Lĩnh vực: điện
+-quá điện áp
+@Lĩnh vực: điện lạnh
+-sự quá điện thế
+

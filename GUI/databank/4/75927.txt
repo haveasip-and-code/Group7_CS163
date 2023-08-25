@@ -1,0 +1,3 @@
+MTBW
+Make The Bitch Work ; or ; Make The Beast Work ; This term, generally associated with programming or construction of some sort, means to do whatever you gotta do to simply make it work. When you do something on a MTBW basis, you generally have no regard for efficiancy, safety, error correction, or anything other than the most basic instance of it performing the task it was designed to do. Almost always MTBW technique provides little or no expansion possibilities in the future. ; Usually programs made on a MTBW basis are known as 'hard coded', or 'unmodular'.
+

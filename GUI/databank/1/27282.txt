@@ -1,7 +1,10 @@
-immunology	
-@immunology /,imju:'nɔlədʤi/
-*  danh từ
-- (y học) môn nghiên cứu miễn dịch, miễn dịch học
+woofer
+	
+* danh từ
+- loa trầm (loa được thiết kế để phát ra các âm trầm một cách chính xác)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--miễn dịch học
+-loa lợi trầm
+-loa trầm âm
+@Lĩnh vực: điện
+-loa âm trầm
+

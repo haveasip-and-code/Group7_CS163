@@ -1,2 +1,5 @@
-salary	@salary
-- (toán kinh tế) tiền lương
+dealings
+	
+-các quan hệ kinh doanh
+-việc giao thiệp, quan hệ làm ăn, qua lại mua bán
+

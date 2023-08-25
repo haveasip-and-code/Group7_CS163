@@ -1,10 +1,8 @@
-aggradation	
-@Chuyên ngành kỹ thuật
--bồi tích
--đất bồi
--sự bồi đắp
--sự bồi lấp
--sự bồi tụ
--sự kết tập
-@Lĩnh vực: cơ khí & công trình
--sự bồi tích
+reconcilable
+	
+*  tính từ
+- có thể hoà giải, có thể giảng hoà được
+- nhất trí, không mâu thuẫn
+=reconcilable statements
++ những lời tuyên bố nhất trí với nhau
+

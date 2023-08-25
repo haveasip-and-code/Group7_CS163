@@ -1,6 +1,21 @@
-manometer	@manometer /mə'nɔmitə/
+ex
+	
 *  danh từ
-- cái đo áp, áp kế
-@Chuyên ngành kỹ thuật
--áp kế
--máy đo áp
+- (thương nghiệp) từ, bán từ, bán tại (hàng hoá)
+=ex ship
++ từ tàu (chở hàng)
+=ex store
++ từ cửa hàng
+=price ex works
++ giá bán tại nhà máy
+@Chuyên ngành kinh tế
+-giá giao hàng từ
+-giá giao miễn phí tại...
+-không có
+-không kể
+-ở bên ngoài
+-tại
+-tại (giao) miễn phí tại... (dùng như một tiếp đầu ngữ hoặc giới từ)
+-trừ
+-từ
+

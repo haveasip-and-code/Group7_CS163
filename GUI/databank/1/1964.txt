@@ -1,16 +1,8 @@
-amplifier	
-@amplifier /'æmplifaiə/
-*  danh từ
-- máy khuếch đại, bộ khuếch đại=buffer amplifier
-+ bộ khuếch đại đệm=harmonic amplifier
-+ máy khuếch đại tần hài=pulse amplifier
-+ bộ khuếch đại xung=cascade amplifier
-+ bộ khuếch đại có tầng
+suboxide
+	
+* danh từ
+- oxit có hoá trị thấp
 @Chuyên ngành kỹ thuật
--bộ khuếch đại
--máy khuếch đại
--máy phóng thanh
-@Lĩnh vực: điện tử & viễn thông
--âm li
-@Lĩnh vực: toán & tin
--mạch khuếch đại
+@Lĩnh vực: hóa học & vật liệu
+-ôxit thấp oxi
+

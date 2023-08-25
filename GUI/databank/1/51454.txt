@@ -1,7 +1,5 @@
-snaking	@snaking
-* danh từ
-- sự lượn ngoằn ngoèo
-@Chuyên ngành kỹ thuật
--sự kéo bằng cáp
-@Lĩnh vực: giao thông & vận tải
--sự lượn ngoằn ngoèo (khí động lực)
+diffractometer
+	
+@Lĩnh vực: đo lường & điều khiển
+-nhiễu xạ kế
+

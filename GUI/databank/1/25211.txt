@@ -1,5 +1,23 @@
-headsman	
-@headsman /'hedzmən/
-*  danh từ
-- đao phủ
-- thuyền trưởng đánh cá voi
+tabular
+	
+*  tính từ
+- xếp thành bảng, xếp thành cột
+=a report in tabular form
++ báo cáo ghi thành bảng
+- phẳng như bàn, phẳng như bảng
+=a tabular stone
++ một hòn đá phẳng như bàn
+- thành phiến, thành tấm mỏng
+@Chuyên ngành kinh tế
+-được trình bày thành bảng
+-dưới dạng bảng biểu
+-trình bày thành bảng
+-xếp thành bảng
+@Chuyên ngành kỹ thuật
+-bảng
+-dạng bảng
+@Lĩnh vực: điện lạnh
+-theo bảng
+@Lĩnh vực: toán & tin
+-xếp thành bảng
+

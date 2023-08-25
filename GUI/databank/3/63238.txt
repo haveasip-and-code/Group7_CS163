@@ -1,0 +1,3 @@
+plug board
+A switchboard in which connections are made by means of plugs.
+

@@ -1,11 +1,34 @@
-sickness	@sickness /'siknis/
+fork
+	
 *  danh từ
-- sự đau yếu; bệnh hoạn
-- bệnh
-=falling sickness+ (từ cổ,nghĩa cổ) bệnh động kinh
-- sự buồn nôn; sự nôn mửa
+- cái nĩa (để xiên thức ăn)
+- cái chĩa (dùng để gảy rơm...)
+- chạc cây
+- chỗ ngã ba (đường, sông)
+- (vật lý) thanh mẫu, âm thoa ((cũng) tuning fork)
+!fork of lightning
+- tia chớp chữ chi, tia chớp nhằng nhằng
+*  ngoại động từ
+- đào bằng chĩa, gảy bằng chĩa (rơm, rạ...)
+*  nội động từ
+- phân nhánh, chia ngả
+=where the road forks
++ ở chỗ con đường chia ngã; ở chỗ ngã ba đường
+!to fork out (over, upon)
+- (từ lóng) trao; trả tiền, xuỳ ra
 @Chuyên ngành kinh tế
--bệnh
+-cái nĩa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh say máy bay, bệnh khí áp
+-âm thoa
+-cãi dĩa
+-chạc
+-chỗ phân nhánh
+-dâu chĩa
+-ngã ba sông
+-nhánh
+-răng
+-rẽ nhánh
+@Lĩnh vực: cơ khí & công trình
+-gắp xe
+-vỏ áo
+

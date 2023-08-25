@@ -1,42 +1,5 @@
-main	@main /mein/
+cataloguer
+	
 *  danh từ
-- cuộc chọi gà
-*  danh từ
-- with might and main với tất cả sức mạnh, dốc hết sức
-- phần chính, phần cốt yếu, phần chủ yếu
-- ống dẫn chính (điện, nước, hơi đốt)
-- (thơ ca) biển cả
-*  tính từ
-- chính, chủ yếu, quan trọng nhất
-=the main street of a town+ đường phố chính của thành phố
-=the main body of an arm+ bộ phận chính của đạo quân, quân chủ lực
-@Chuyên ngành kỹ thuật
--bàn tay
--cơ sở
--đại lộ
--dầu
--đường chính
--đường dẫn chính
--đường dây cái
--đường ống cái
--đường ống chính
--đường trục
--lớn
--lưới điện
--lưới điện chính
--nhánh chính
--mạch
--mạng điện
--thanh cái
-@Lĩnh vực: điện
--cáp chính
--cáp phân phối
--dây chính
-@Lĩnh vực: điện lạnh
--dây dẫn chính
-@Lĩnh vực: cơ khí & công trình
--đường ống (chính)
--đường trục (chính)
--ống (dẫn) chính
-@Lĩnh vực: xây dựng
--ống giãn chính
+- người liệt kê, người lập mục lục
+

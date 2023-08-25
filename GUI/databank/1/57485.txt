@@ -1,16 +1,35 @@
-transportable	@transportable /træns'pɔ:təbl/
-*  tính từ
-- có thể chuyên chở được, có thể vận chuyển được
-- (pháp lý) có thể bị kết tội đi đày, có thể đưa đến tội đi đày
+enamel
+	
+*  danh từ
+- men (đồ sứ, răng); lớp men
+- bức vẽ trên men
+- (thơ ca) lớp men ngoài, màu bề ngoài
+*  ngoại động từ
+- tráng men, phủ men
+- vẽ lên men
+- tô nhiều màu
 @Chuyên ngành kinh tế
--có thể chuyên chở được
--có thể chuyên chở được, có thể vận chuyển được
--có thể vận chuyển được
+-men
+-quét
+-sơn
+-véc
+-ni
 @Chuyên ngành kỹ thuật
--mang được
--xách tay
-@Lĩnh vực: điện lạnh
--chuyển được
-@Lĩnh vực: toán & tin
--mang chuyển được
--xách tay được
+-men
+-men răng
+-men tráng
+-sơn
+-sơn bóng
+-sơn dầu
+-sơn êmay
+-tráng men
+@Chuyên ngành kỹ thuật
+-men
+-men răng
+-men tráng
+-sơn
+-sơn bóng
+-sơn dầu
+-sơn êmay
+-tráng men
+

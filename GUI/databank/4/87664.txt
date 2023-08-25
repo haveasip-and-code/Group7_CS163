@@ -1,0 +1,3 @@
+WAP
+Wireless Application Protocol. A subset of HTTP used to optimise web content for mobile devices such as cellular phones. Defines WML (Wireless Markup Language). ; Also referred to as Wait and Pay or Wait and Pace, since the early user experience was using primitive devices which used a 9Kbps link to the internet to receive WAP content. Before GPRS, you were billed for the length of time you were browsing.
+

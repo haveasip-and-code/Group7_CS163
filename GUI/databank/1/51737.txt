@@ -1,4 +1,8 @@
-soldiers	@Chuyên ngành kỹ thuật
--hàng gạch xây đứng
-@Lĩnh vực: xây dựng
--hàng dọc
+keratoid
+	
+@Lĩnh vực: y học
+-dạng sừng, dạng mô sừng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dạng sừng, dạng mô sừng
+

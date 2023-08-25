@@ -1,8 +1,25 @@
-modeller	@modeller /'mɔdlə/
+keyboard
+	
 *  danh từ
-- người làm mẫu vật, người làm mô hình, người làm khuôn tượng
+- bàn phím (pianô); bàn chữ (máy chữ)
+- (điện học) bảng điều khiển; bảng phân phối
+- bảng chuyển mạch; tổng đài điện thoại
+- (từ Mỹ,nghĩa Mỹ) bảng treo chìa khoá
+@Chuyên ngành kinh tế
+-bàn bấm nút
+-bàn chữ
+-bàn nút bấm bàn chữ
+-bàn phím
 @Chuyên ngành kỹ thuật
--người phù điện
-@Lĩnh vực: xây dựng
--người đặt (tượng)
--người nặn
+-bấm phím
+-bàn phím
+-bảng điều khiển
+-bảng phân phối
+-đánh máy
+@Chuyên ngành kỹ thuật
+-bấm phím
+-bàn phím
+-bảng điều khiển
+-bảng phân phối
+-đánh máy
+

@@ -1,18 +1,5 @@
-confinement	
-@confinement /kən'fainmənt/
-*  danh từ
-- sự giam, sự giam hãm=to be placed in confinement
-+ bị giam=close (solitary) confinement
-+ sự giam riêng, sự giam xà lim
-- sự hạn chế
-- sự ở cữ, sự đẻ=to be in confinement
-+ ở cữ, đẻ
-@Chuyên ngành kỹ thuật
--sự bao bọc
--sự giam giữ
--sự giữ
--sự hạn chế
-@Lĩnh vực: xây dựng
--bó tăng cường
-@Lĩnh vực: điện lạnh
--sự giam
+unwarmed
+	
+* tính từ
+- không sưởi ấm
+

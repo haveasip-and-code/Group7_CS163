@@ -1,12 +1,29 @@
-workmanlike	@workmanlike /'wə:kmənlaik/
-*  tính từ
-- khéo như thợ làm, khéo tay, làm khéo, khéo léo
-=workmanlike work+ đồ vật làm khéo
+hull
+	
+*  danh từ
+- vỏ đỗ, vỏ trái cây
+- (nghĩa bóng) vỏ, bao
+*  ngoại động từ
+- bóc vỏ (trái cây)
+*  danh từ
+- thân tàu thuỷ, thân máy bay
+=hull down
++ chỉ nhìn thấy cột tàu và ống khói (không thấy thân vì xa quá)
+*  ngoại động từ
+- bắn trúng thân, chọc thủng thân (tàu, thuỷ lôi...)
 @Chuyên ngành kinh tế
--chuyên môn
--có kỹ sảo
--khéo léo
--kỹ xảo
--lành nghề
--rành việc
--tinh xảo khéo léo
+-bao
+-vỏ
+-vỏ hạt
+-vỏ quả
+@Chuyên ngành kỹ thuật
+-bao
+-thùng xe
+-vỏ
+-vỏ xe
+@Lĩnh vực: xây dựng
+-sườn xe
+@Lĩnh vực: giao thông & vận tải
+-thân máy bay
+-vỏ máy bay
+

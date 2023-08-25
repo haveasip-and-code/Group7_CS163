@@ -1,12 +1,16 @@
-yardstick	@yardstick /'jɑ:dstik/
-*  danh từ
-- (như) yard-wand
-- (nghĩa bóng) tiêu chuẩn so sánh
-@Chuyên ngành kinh tế
--thước yat
--tiêu chuẩn so sánh
--vật chuẩn
--vật mẫu
+unadjusted
+	
+* tính từ
+- không được dàn xếp
+- không thích ứng
+= unadjusted to the circumstances
++không thích ứng với hoàn cảnh
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: dệt may
--thước Anh (dài 1 yat)
+-không cân bằng
+-không khớp
+-không phù hợp
+@Lĩnh vực: xây dựng
+-không được điều chỉnh
+-không được hiệu chỉnh
+-không khép kín
+

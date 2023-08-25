@@ -1,20 +1,12 @@
-bridging	
-@bridging
-- (Tech) rẽ mạch; nối tắt
-@Chuyên ngành kỹ thuật
--bắc cầu
--giàn giáo
--sự xây dựng cầu
--thanh giằng chống
-@Lĩnh vực: toán & tin
--cài đặt cầu nối
-@Lĩnh vực: xây dựng
--giàn đỡ vật liệu
--sự bắc cầu
--sự lắp giằng
--thanh chống giằng
-@Lĩnh vực: điện
--nối bắc cầu
--sự nối rẽ
-@Lĩnh vực: điện lạnh
--sự nối kiểu cầu
+footage
+	
+*  danh từ
+- chiều dài tính bằng phút (của cuộn phim)
+- cảnh (phim)
+=a jungle footage
++ một cảnh rừng rú
+@Chuyên ngành kinh tế
+-chiều dài tính bằng phút (của cuộn phim)
+-phút
+-số tiền
+

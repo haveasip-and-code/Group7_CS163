@@ -1,6 +1,39 @@
-outpatient	@outpatient /'aut,peiʃənt/
+feeding
+	
 *  danh từ
-- người bệnh ở ngoài, người bệnh ngoại trú
+- sự cho ăn; sự nuôi lớn
+- sự bồi dưỡng
+- sự cung cấp (chất liệu cho máy)
+- (sân khấu),  (từ lóng) sự nhắc nhau bằng vĩ bạch (giữa hai diễn viên)
+- (thể dục,thể thao) sự chuyền bóng (cho đồng đội sút làm bàn)
+- đồng cỏ
+@Chuyên ngành kinh tế
+-sự cho ăn
+-sự nuôi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh nhân ngoại trú
+-cung cấp
+-đồng cỏ
+-nạp liệu
+-sự cung cấp
+-sự tiếp liệu
+@Lĩnh vực: xây dựng
+-phản ứng feeding
+@Lĩnh vực: toán & tin
+-sự cấp (liệu)
+-sự cung dưỡng
+@Lĩnh vực: cơ khí & công trình
+-sự dẫn tiếp
+@Chuyên ngành kỹ thuật
+-cung cấp
+-đồng cỏ
+-nạp liệu
+-sự cung cấp
+-sự tiếp liệu
+@Lĩnh vực: xây dựng
+-phản ứng feeding
+@Lĩnh vực: toán & tin
+-sự cấp (liệu)
+-sự cung dưỡng
+@Lĩnh vực: cơ khí & công trình
+-sự dẫn tiếp
+

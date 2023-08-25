@@ -1,0 +1,3 @@
+eUNKNOWN
+The error a Radius Server gives when the user is unknown.
+

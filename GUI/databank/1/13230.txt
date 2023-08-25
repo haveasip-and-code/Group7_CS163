@@ -1,14 +1,9 @@
-cutback	
-@cutback
-* danh từ
-- sự cắt giảm
-@Chuyên ngành kinh tế
--sự giảm bớt
--sụt giảm (về sản xuất, giá cả, chi tiêu, nhân sự...)
--suy thoái
-@Chuyên ngành kỹ thuật
--cắt bớt
-@Lĩnh vực: hóa học & vật liệu
--pha loãng
-@Lĩnh vực: điện tử & viễn thông
--sự cắt bớt
+toucher
+	
+*  danh từ
+- người sờ, người mó
+!as near as a toucher
+- (từ lóng) suýt nữa, chỉ một ly nữa
+=he was as near as a toucher falling into the stream
++ suýt nữa nó ngã xuống dòng nước
+

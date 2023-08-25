@@ -1,18 +1,8 @@
-labourer	@labourer /'leibərə/
-*  danh từ
-- người lao động chân tay, lao công
-@Chuyên ngành kinh tế
--công nhân
--lao công
--người lao công
--người lao động tay chân
-@Chuyên ngành kỹ thuật
--công nhân
--thợ
-@Lĩnh vực: xây dựng
--lao công
-@Chuyên ngành kỹ thuật
--công nhân
--thợ
-@Lĩnh vực: xây dựng
--lao công
+flashy
+	
+*  tính từ
+- hào nhoáng, loè loẹt, sặc sỡ
+=flashy jewelry
++ đồ kim hoàn hào nhoáng
+- thích chưng diện
+

@@ -1,17 +1,22 @@
-advise	
-@advise /əd'vaiz/
-*  ngoại động từ
-- khuyên, khuyên bảo, răn bảo
-- (thương nghiệp) báo cho biết=to advise someone of something
-+ báo cho ai biết việc gì
-*  ngoại động từ
-- hỏi ý kiến=to advise with someone
-+ hỏi ý kiến người nào
+zoning
+	
+*  danh từ
+- sự chia thành đới, sự chia thành khu vực, sự quy vùng
 @Chuyên ngành kinh tế
--báo cho biết
--thông báo
--thông tin
--thông tri
+-phương thức chia khu
 @Chuyên ngành kỹ thuật
--khuyên
--thông báo
+-sự phân đới
+-sự phân vùng
+@Lĩnh vực: xây dựng
+-phân khu (vực)
+-sự phân khu
+@Lĩnh vực: hóa học & vật liệu
+-sự chia miền
+@Lĩnh vực: toán & tin
+-sự chia vùng
+@Lĩnh vực: cơ khí & công trình
+-sự quy vùng
+@Lĩnh vực: điện lạnh
+-sự tạo bậc (ở bộ phản xạ vi ba)
+-sự tạo vùng
+

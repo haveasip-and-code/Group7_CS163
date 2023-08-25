@@ -1,12 +1,7 @@
-scarcity	@scarcity /'skeəsiti/
-*  danh từ
-- sự khan hiếm, sự thiếu thốn, sự khó tìm
-@Chuyên ngành kinh tế
--sự khan hiếm
--sự thiếu
--sự thiếu hàng hóa
--thiếu hàng hóa
--tình trạng khan hiếm
+diphase
+	
+- (Tech) hai vị tướng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sự hiếm
+-hai hướng
+-hai pha
+

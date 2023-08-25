@@ -1,14 +1,30 @@
-behave	
-@behave /bi'heiv/
-*  động từ
-- ăn ở, đối xử, cư xử=to behave kindly towards someone
-+ đối xử tốt với ai!to behave oneself
-- cư xử (ăn ở) cho phải phép=he does not know how to behave himself
-+ nó không biết cách ăn ở (cho phải phép)
-- chạy (máy móc...)=how is new watch behaving?
-+ cái đồng hồ đeo tay mới của anh chạy như thế nào?
+overrun
+	
+*  danh từ
+- sự lan tràn, sự tràn ra
+- sự vượt quá, sự chạy vượt
+- số lượng (in...) thừa[,ouvə'rʌn]
+*  động từ overran; overrun
+- tràn qua, lan qua
+- tàn phá, giày xéo
+- chạy vượt quá,  (hàng hải) vượt quá (nơi đỗ, kế hoạch hành trình)
+- (ngành in) in quá nhiều bản của (báo, sách...), in thêm bản của (báo, sách... vì nhu cầu đột xuất)
 @Chuyên ngành kỹ thuật
--đối xử
--hành động
--vận hành
--xử lý
+-dừng mất dữ liệu
+-ống tràn
+-sự chạy quá
+-sự khởi động quá
+-sự tràn
+-sự vượt quá
+-tràn
+-vượt quá
+@Lĩnh vực: ô tô
+-chạy vượt
+-sự chạy theo trớn
+@Lĩnh vực: xây dựng
+-đường băng phụ
+@Lĩnh vực: toán & tin
+-sự chảy quá
+@Lĩnh vực: điện tử & viễn thông
+-trội hoạt
+

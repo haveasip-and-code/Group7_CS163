@@ -1,3 +1,16 @@
-lierne	@lierne
-* danh từ
-- gân vòm (kiến trúc)
+upstream
+	
+*  phó từ
+- ngược dòng
+@Chuyên ngành kỹ thuật
+-đầu dòng
+-dòng lên
+-hướng lên
+-hướng ngược
+-ngược dòng
+@Lĩnh vực: hóa học & vật liệu
+-chảy ngược dòng
+@Lĩnh vực: toán & tin
+-hướng về nguồn truyền
+-ngược tuyến
+

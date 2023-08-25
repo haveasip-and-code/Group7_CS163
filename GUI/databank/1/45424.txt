@@ -1,31 +1,10 @@
-raft	@raft /rɑ:ft/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) số lượng lớn
-- đám đông
-- (từ lóng) tình trạng có nhiều vợ
-*  danh từ
-- bè (gỗ, nứa...); mảng
-- đám gỗ củi trôi trên sông; đám băng trôi
-*  ngoại động từ
-- thả bè (gỗ, nứa...)
-=to raft timber+ thả bè gỗ
-- chở (vật gì) trên bè (mảng)
-- sang (sông) trên bè (mảng)
-- kết thành bè (mảng)
-*  nội động từ
-- đi bè, đi mảng
-- lái bè; lái mảng
-@Chuyên ngành kinh tế
--bè nối
--khối trứng nối (cá)
+rachis
+	
+* danh từ
+- (giải phẫu) trục
+- (thực vật học) cuống
+- thân ống (lông chim)
+- cột sống
 @Chuyên ngành kỹ thuật
--bè
--bè gỗ
--mảng
--móng bè
--phà
--tấm mỏng
-@Lĩnh vực: xây dựng
--bè mảng
--gỗ củi trôi
--thả bè
+-xương sống
+

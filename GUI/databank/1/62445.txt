@@ -1,7 +1,14 @@
-washability	@Chuyên ngành kỹ thuật
-@Lĩnh vực: dệt may
--khả năng giặt sạch
--khả năng rửa sạch
-@Lĩnh vực: xây dựng
--tính lau rửa được
--tính tuyển được
+uneconomic
+	
+*  tính từ
+- không tinh tế
+=uneconomic method
++ phương pháp không tinh tế
+- không có lợi, không có lời
+=an uneconomic undertaking
++ một việc kinh doanh không có lời
+@Chuyên ngành kinh tế
+-không có lời
+-không kinh tế
+-không kinh tế, không có lời
+

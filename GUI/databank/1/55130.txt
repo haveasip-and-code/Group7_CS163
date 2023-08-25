@@ -1,4 +1,11 @@
-syllabus	@syllabus /'siləbəs/
-*  danh từ,  số nhiều syllabuses,  syllabi
-- đề cương bài giảng; đề cương khoá học
-- kế hoạch học tập
+rectangle
+	
+*  danh từ
+- hình chữ nhật
+@Chuyên ngành kinh tế
+-hình chữ nhật
+@Chuyên ngành kỹ thuật
+-hình chữ nhật
+-thẳng góc
+-vuông góc
+

@@ -1,0 +1,3 @@
+subwoofer
+A Subwoofer is an audio device (a transducer) that converts an audio signal that has been filtered (by a lowpass filter) so that the signal does not damage the Subwoofer. Typically, the subwoofer is used to play the low end of any audio, in the 200-800 Hz range, though some may be more narrow, or broad in their spectrum.
+

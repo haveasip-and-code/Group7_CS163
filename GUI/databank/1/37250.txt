@@ -1,8 +1,14 @@
-nutrient	@nutrient /'nju:triənt/
-*  tính từ
-- bổ, dinh dưỡng, dùng làm chất nuôi dưỡng
+miller
+	
 *  danh từ
-- chất dinh dưỡng, chất nuôi dưỡng
+- chủ cối xay
+- loài nhậy cánh mốc, loài bướm cánh mốc
+- con bọ da
+@Chuyên ngành kinh tế
+-nhà máy bột
+-thợ xay
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dưỡng chất
+-máy phay
+@Lĩnh vực: cơ khí & công trình
+-thợ phay
+

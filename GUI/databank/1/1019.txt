@@ -1,11 +1,5 @@
-aerometer	
-@aerometer /eə'rɔmitə/
-*  danh từ
-- cái đo tỷ trọng khí
-@Chuyên ngành kinh tế
--cái đo tỷ trọng khí
--khí lưu kế
-@Chuyên ngành kỹ thuật
--khí kế
--phù kế
--tỷ trọng kế
+seamark
+	
+@Lĩnh vực: giao thông & vận tải
+-dấu hiệu hàng hải
+

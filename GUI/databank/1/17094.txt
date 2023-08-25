@@ -1,20 +1,16 @@
-dwell	
-@dwell /dwel/
-*  nội động từ dwelt
-- ((thường) 
-+ in,  at,  near,  on) ở, ngụ, ở=to dwell in the country
-+ ở nông thôn
-- (
-+ on,  upon) dừng lại ở, chăm chú vào, nhấn lâu vào, day đi day lại=to dwell on a note
-+ nhìn lâu vào một nốt=to dwell on someone's mistake
-+ day đi day lại mãi một lỗi của ai
-- đứng chững lại (trước khi vượt rào) (ngựa)
-*  danh từ
-- (kỹ thuật) sự ngừng lại đều đặn (của máy)
+slagging
+	
+* danh từ
+- xem slang
+- xỉ
+- vảy xỉ
 @Chuyên ngành kỹ thuật
--ngụ
-@Lĩnh vực: ô tô
--góc ngậm
--thời gian ngậm
 @Lĩnh vực: cơ khí & công trình
--phần dừng (ở biên dạng cam)
+-sự ăn mòn bằng xỉ lỏng (gạch chịu lửa)
+-sự kết xỉ
+-sự thấm xỉ
+@Lĩnh vực: vật lý
+-sự tạo thành xỉ (tích tụ sản phẩm phân hạch)
+@Lĩnh vực: hóa học & vật liệu
+-sự tạo xỉ
+

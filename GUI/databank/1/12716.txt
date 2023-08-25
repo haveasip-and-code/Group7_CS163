@@ -1,9 +1,8 @@
-crochet	
-@crochet /'krouʃei/
-*  danh từ
-- sự đan bằng kim móc, sự thêu bằng kim móc
-*  động từ
-- đan bằng kim móc, thêu bằng kim móc
+roadability
+	
+* danh từ
+- khả năng thông đường/ chạy xe trên đường
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--cấu kẹp
+@Lĩnh vực: xây dựng
+-tình trạng thông đường
+

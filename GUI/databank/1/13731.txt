@@ -1,10 +1,16 @@
-decalcify	
-@decalcify /di:'kælsifai/
-*  ngoại động từ
-- làm mất canxi (trong xương...)
+parallax
+	
+*  danh từ
+- thị sai
+=annual parallax
++ thị sai hằng năm
+=horizontal parallax
++ thị sai chân trời
+=optical parallax
++ thị sai
+=spectroscopic parallax
++ thị sai quang phổ
 @Chuyên ngành kỹ thuật
--loại bỏ canxi
--loại vôi
-@Lĩnh vực: hóa học & vật liệu
--khử chất vôi
--khử vôi
+@Lĩnh vực: y học
+-thị sai
+

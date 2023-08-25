@@ -1,10 +1,20 @@
-crossbar	
+organization
+	
+*  danh từ
+- sự tổ chức, sự cấu tạo
+- tổ chức, cơ quan
+=world organizations
++ các tổ chức quốc tế
+@Chuyên ngành kinh tế
+-cơ cấu
+-cơ quan
+-tổ chức
 @Chuyên ngành kỹ thuật
--đồ gá kẹp
--giằng gió
-@Lĩnh vực: xây dựng
--dầm đỉnh xà nóc
--dầm nóc xà nóc
--xà ngang
-@Lĩnh vực: giao thông & vận tải
--thanh tà vẹt
+-đơn vị
+-sự cấu tạo
+-sự tổ chức
+@Lĩnh vực: y học
+-sự mê hóa
+-sự tổ chức cấu tạo
+-tổ chức cơ quan
+

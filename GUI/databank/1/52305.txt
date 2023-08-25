@@ -1,29 +1,8 @@
-spend	@spend /spend/
-*  ngoại động từ spent
-- tiêu, tiêu pha
-- dùng (thì giờ...), tốn
-=to spend time in reading+ dùng thì giờ vào việc đọc
-- qua, sống qua
-=to spend the holidays by the seaside+ qua những ngày nghỉ ở bờ biển
-=to spend a sleepless night+ qua một đêm không ngủ
-- làm dịu đi, làm nguôi đi, làm hết đà; làm hết, làm kiệt, tiêu phí
-=his fury was spent+ cơn giận của hắn đã nguôi
-=anger spends itself+ cơn giận nguôi đi
-=the storm has spent itself+ cơn bão đã dịu đi
-=to spend one's energy+ tiêu phí nghị lực
-- (hàng hải) gãy; mất (cột buồm)
-*  nội động từ
-- tiêu pha, tiêu tiền
-- tàn, hết
-=candles spend fast in draught+ nên đốt ở chỗ gió lùa chóng hết
-- đẻ trứng (cá)
-!to spend a penny
-- (thông tục) đi đái; đi ỉa
+mead
+	
+*  danh từ
+- rượu mật ong
+- (thơ ca),  (như) meadow
 @Chuyên ngành kinh tế
--tiêu
--tiêu pha
--tiêu phí (tiền bạc...)
-@Chuyên ngành kỹ thuật
--chỉ tiêu
-@Lĩnh vực: toán & tin
--tiêu, dùng
+-rượu nho mật ong
+

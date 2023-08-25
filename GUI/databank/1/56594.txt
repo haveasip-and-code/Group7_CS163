@@ -1,12 +1,21 @@
-thunderbolt	@thunderbolt /'θʌndəboult/
-*  danh từ
-- tiếng sét
-- (nghĩa bóng) việc bất ngờ; tin sét đánh
-=the news came upon me like a thunderbolt+ tin ấy đến với tôi như sét đánh
-- (nghĩa bóng) lời doạ nạt
+retrace
+	
+*  ngoại động từ
++ (re
+-trace) /'ri:'treis/
+- vạch lại, kẻ lại, vẽ lại
+*  ngoại động từ
+- truy cứu gốc tích
+- hồi tưởng lại
+- trở lại (con đường cũ); thoái lui
+=to retrace one's step (way)
++ thoái lui; trở lại ý kiến trước
 @Chuyên ngành kỹ thuật
--lưỡi tầm sét
--sét
-@Lĩnh vực: điện
--sấm chớp
--tia sét
+-đồ lại
+-đường cong
+-đường hồi
+-đường quét về
+-đường trở về
+@Lĩnh vực: xây dựng
+-kẻ lại
+

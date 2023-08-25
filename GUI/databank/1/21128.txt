@@ -1,7 +1,9 @@
-firedog	
+praxis
+	
+*  danh từ
+- thói quen, tập quán, tục lệ
+- (ngôn ngữ học) loạt thí dụ (để làm bài tập)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--cột chống chịu lửa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--cột chống chịu lửa
+@Lĩnh vực: y học
+-sự hành động
+

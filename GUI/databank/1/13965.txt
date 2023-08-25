@@ -1,26 +1,5 @@
-deduction	
-@deduction /di'dʌkʃn/
-*  danh từ
-- sự lấy đi, sự khấu đi, sự trừ đi
-- sự suy ra, sự luận ra, sự suy luận, sự suy diễn
-- điều suy luận
-@Chuyên ngành kinh tế
--khấu trừ
--sự chiết khấu
--sự giảm đi
--sự lấy đi
--sự suy diễn
-@Chuyên ngành kỹ thuật
--kết luận
--sự suy diễn
--suy diễn
--suy luận
--suy ra
--thặng dư
-@Lĩnh vực: xây dựng
--khấu trừ
--sự khấu trừ
-@Lĩnh vực: điện lạnh
--sự suy ra
-@Lĩnh vực: toán & tin
--sự trừ đi
+outsized
+	
+*  tính từ
+- quá khổ, ngoại cỡ (quần áo)
+

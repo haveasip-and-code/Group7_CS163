@@ -1,6 +1,10 @@
-mushy	@mushy /'mʌʃi/
-*  tính từ
-- mềm, xốp
-- (nghĩa bóng) yếu đuối, uỷ mị, sướt mướt
+adjacency
+	
+*  danh từ
+- sự gần kề, sự kế liền
 @Chuyên ngành kỹ thuật
--xốp
+@Lĩnh vực: toán & tin
+-sự kế cận
+-sự liền kề
+-tình trạng kế cận
+

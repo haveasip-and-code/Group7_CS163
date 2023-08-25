@@ -1,8 +1,26 @@
-caparison	
-@caparison /kə'pærisn/
-*  danh từ
-- tấm phủ lưng ngựa
-- đồ trang sức
+analyzer
+	
 *  ngoại động từ
-- phủ tấm che lên (lưng ngựa)
-- trang sức
+- phân tích
+=to analyse a sentence grammatically
++ phân tích ngữ pháp một câu văn
+=to analyse water
++ phân tích nước
+=go analyse an issue
++ phân tích một vấn đề
+- (toán học) giải tích
+@Chuyên ngành kinh tế
+-máy phân tích
+@Chuyên ngành kỹ thuật
+-bộ phân tích
+-chương trình phân tích
+-dụng cụ phân tích
+-máy phân tích
+@Lĩnh vực: điện lạnh
+-kính phân tích
+@Lĩnh vực: cơ khí & công trình
+-máy giải tích
+-thiết bị phân tích
+@Lĩnh vực: điện
+-trắc kế
+

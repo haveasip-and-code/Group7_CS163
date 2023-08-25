@@ -1,7 +1,10 @@
-guideline	
-@guideline
-* danh từ
-- nguyên tắc chỉ đạo, đường lối chỉ đạo (để vạch ra chính sách...)
+subterranean
+	
+*  tính từ
+- ở dưới mặt đất
+- (nghĩa bóng) kín, bí mật
 @Chuyên ngành kỹ thuật
--đường dẫn
--đường dẫn hướng
+-dưới đất
+@Lĩnh vực: xây dựng
+-ngầm (dưới đất)
+

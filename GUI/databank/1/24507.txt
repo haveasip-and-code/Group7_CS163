@@ -1,12 +1,5 @@
-guest	
-@guest /gest/
-*  danh từ
-- khách
-- khách trọ (ở khách sạn)=a paying guest
-+ khách trọ ăn cơm tháng
-- vật ký sinh; trùng ký sinh; cây ký sinh
-@Chuyên ngành kinh tế
--khách
--khách trọ (ở khách sạn)
-@Chuyên ngành kỹ thuật
--khách
+unsphere
+	
+*  ngoại động từ
+- đưa ra khỏi khu vực hoạt động, đưa ra khỏi môi trường
+

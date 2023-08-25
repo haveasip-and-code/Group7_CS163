@@ -1,0 +1,3 @@
+dogfooding (to dogfood)
+In a nutshell, dogfooding means 'using your own product'. A product which is being dogfooded tends to be a lot more polished. When a normal user is annoyed by the product, they can't do anything about it. But when a developer is annoyed by the product, they can stop what they are doing and make the product less annoying.
+

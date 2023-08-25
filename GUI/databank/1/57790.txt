@@ -1,6 +1,11 @@
-trilinear	@trilinear
-* tính từ
-- có ba đường, thuộc ba đường
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tam tuyến
+portend
+	
+*  ngoại động từ
+- báo điểm, báo trước
+- báo trước
+=this wind portends rain
++ gió này báo trước có mưa
+*  danh từ
+- điềm, triệu
+- điều kỳ diệu, điều kỳ lạ
+

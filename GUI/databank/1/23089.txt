@@ -1,9 +1,5 @@
-gaze	
-@gaze /geiz/
-*  danh từ chỉ số ít
-- cái nhìn chằm chằm=to stand at gaze
-+ nhìn chằm chằm
-*  nội động từ (
-+ at,  on,  upon)
-- nhìn chằm chằm=to gaze at (on, uopn) something
-+ cái nhìn chằm chằm
+ladrone
+	
+*  danh từ
+- kẻ cướp, kẻ cướp đường, cường đạo
+

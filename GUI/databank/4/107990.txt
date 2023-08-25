@@ -1,0 +1,3 @@
+D Block
+in AutoCad 2006, shor for Dynamic Block; a block entity which can be manipulated along predefined parameters using grip editing
+

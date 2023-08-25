@@ -1,13 +1,5 @@
-linearity	@linearity
-* danh từ
-- tính chất đường kẻ
-@Chuyên ngành kỹ thuật
--độ tuyến tính
--tuyến tính
-@Lĩnh vực: xây dựng
--trực tính
-@Chuyên ngành kỹ thuật
--độ tuyến tính
--tuyến tính
-@Lĩnh vực: xây dựng
--trực tính
+reprover
+	
+*  danh từ
+- người mắng mỏ, người quở trách, người khiển trách
+

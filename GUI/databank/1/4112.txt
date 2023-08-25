@@ -1,12 +1,9 @@
-automorphism	
-@automorphism
-- [tính, phép, sự] tự đẳng cấu, phép nguyên hình
-- central a. tự đẳng cấu trung tâm
-- interior a. (đại số) phép tự đẳng cấu trong
-- outer a. phép tự đẳng cấu ngoài
-- singular a. phép tự đẳng cấu kỹ dị
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phép nguyên hình
--sự tự đẳng cấu
--tự đẳng cấu
+upstanding
+	
+*  tính từ
+- dựng ngược, dựng đứng lên (tóc); đứng thẳng, thẳng đứng (người, vật)
+- khoẻ mạnh, chắc chắn
+- (tài chính) cố định, không thay đổi
+=upstanding wages
++ tiền lưng cố định
+

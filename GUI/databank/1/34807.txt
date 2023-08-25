@@ -1,5 +1,7 @@
-midline	@midline
-- đường trung bình
-- m. of a trapezoid trung bình tuyến của một hình thang
+alined
+	
+- được sắp hàng
 @Chuyên ngành kỹ thuật
--đường trung bình
+@Lĩnh vực: toán & tin
+-được sắp hàng
+

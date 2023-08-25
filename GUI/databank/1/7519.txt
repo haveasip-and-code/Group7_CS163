@@ -1,8 +1,15 @@
-calculable	
-@calculable /'kælkjuləbl/
-*  tính từ
-- có thể đếm được, có thể tính được
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--khả tính
--khả tính toán
+mandate
+	
+*  danh từ
+- lệnh, trát
+- sự uỷ nhiệm, sự uỷ thác
+- sự uỷ mị
+- chỉ thị, yêu cầu (của người bỏ phiếu đối với nghị viên, cho công đoàn viên đối với người đại diện...)
+@Chuyên ngành kinh tế
+-chỉ thị
+-giấy ủy nhiệm
+-giấy ủy quyền
+-giấy ủy thác (tài sản)
+-lệnh
+-sự ủy nhiệm
+

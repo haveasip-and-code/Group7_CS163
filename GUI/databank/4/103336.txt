@@ -1,0 +1,3 @@
+ASIC
+Aplication Specific Integrated Circuit. Used in networking components: a hardware chip used to make decisions on what network port to send data to.
+

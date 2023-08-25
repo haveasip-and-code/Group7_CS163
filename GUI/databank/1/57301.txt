@@ -1,14 +1,5 @@
-trainer	@trainer /treinə/
-*  danh từ
-- người dạy (súc vật)
-- (thể dục,thể thao) người huấn luyện, huấn luyện viên
-@Chuyên ngành kinh tế
--huấn luyện viên
--người đào tạo
--người huấn luyện
-@Chuyên ngành kỹ thuật
--máy huấn luyện
-@Lĩnh vực: xây dựng
--huấn luyện viên
-@Lĩnh vực: điện tử & viễn thông
--máy tập luyện
+panned
+	
+@Lĩnh vực: thực phẩm
+-được nấu đồ ngọt
+

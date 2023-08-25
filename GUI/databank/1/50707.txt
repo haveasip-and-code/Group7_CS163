@@ -1,16 +1,42 @@
-silent	@silent /'sailənt/
-*  tính từ
-- không nói, ít nói, làm thinh
-=the report is silent on that point+ bản báo cáo không nói gì về điểm đó
-=a silent man+ người ít nói
-=to keep silent+ cứ làm thinh
-- yên lặng, yên tĩnh, tĩnh mịch, thanh vắng
-=silent night+ đêm thanh vắng
-- câm, không nói
-=silentletter+ chữ câm
-=silent film+ phim câm
+quantity
+	
+*  danh từ
+- lượng, số lượng, khối lượng
+- (số nhiều) số lớn, vô số, rất nhiều
+=quantities of people
++ rất nhiều người
+!to buy in quantities
+- mua một số lớn, mua rất nhiều
+- (toán học); (vật lý) lượng
+=unknown quantity
++ lượng chưa biết; (nghĩa bóng) người lạ, người mà không ai biết tung tích; người mà hành động không ai lường trước được
+=electric quantity
++ điện lượng
+=quantity of heat
++ nhiệt lượng
+- (vật lý) âm lượng
+- (số nhiều) (kiến trúc) chi tiết thiết kế thi công (một toà nhà...)
+!bilt of quantities
+- bảng chi tiết thiết kế thi công
+- (định ngữ) (kỹ thuật) hàng loạt
+=quantity productions
++ sự sản xuất hàng loạt
+@Chuyên ngành kinh tế
+-đại lượng
+-định lượng
+-hàng loạt
+-khối lượng
+-lượng
+-số lượng
+-số lượng lớn
+-số nhiều
 @Chuyên ngành kỹ thuật
--êm
--không ồn
-@Lĩnh vực: điện lạnh
--im (lặng)
+-đại lượng
+-độ lớn
+-giá trị
+-khối lượng
+-lượng
+-số lượng
+@Lĩnh vực: toán & tin
+-số lượng, lượng
+

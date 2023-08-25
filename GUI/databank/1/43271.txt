@@ -1,25 +1,8 @@
-premises	@premises
-* danh từ
-- ngôi nhà hoặc các toà nhà khác có nhà phụ, đất đai...; cơ ngơi
-- business premises
-- cơ ngơi kinh doanh
-= the firm is looking for larger premises+công ty đang đi tìm những cơ ngơi lớn hơn
-= he was asked to leave the premises immediately+người ta yêu cầu anh ta phải lập tức rời khỏi khu nhà
-- (pháp lý) các chi tiết về tài sản, tên người... đã được ghi rõ trong phần đầu của một hợp đồng hợp pháp
-= off the premises+ngoài ranh giới của dinh cơ
-= to see somebody off the premises+tiễn ai ra khỏi nhà
-= on the premises+trong nhà...
-= there is always a manager on the premises+bao giờ cũng có một quản đốc ở trong toà nhà (tại chỗ)
-= alcohol may not be consumed on the premises+rượu không được phép uống tại chỗ
-@Chuyên ngành kinh tế
--cơ sở (kinh doanh ...)
--cơ sở (kinh doanh)
--dinh cơ
--nhà cửa
-@Chuyên ngành kỹ thuật
--biệt thự
--buồng
--phòng
--tài sản
-@Lĩnh vực: xây dựng
--dinh cơ
+frosty
+	
+*  tính từ
+- băng giá, giá rét; phủ đầy sương giá
+- (nghĩa bóng) lạnh nhạt, lânh đạm
+=a frosty nature
++ tính lânh đạm
+

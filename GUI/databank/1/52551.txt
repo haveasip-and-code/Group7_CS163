@@ -1,32 +1,24 @@
-splitting	@splitting
-* tính từ
-- rất nhức (đặc biệt là đau đầu)
-= I've got a splitting headache+tôi bị nhức đầu như búa bổ
-* danh từ
-- sự phân cắt; tách đôi
-- sự phân nhóm; phân chia; chẻ tách
+reversible
+	
+*  tính từ
+- phải trả lại
+=reversible possessions
++ của cải phải trả giá
+- không có mặt trái, hai mặt như nhau (vải)
+=reversible cloth
++ vải không có mặt phải mặt trái
+- (vật lý); (toán học) thuận nghịch, nghịch được
+=reversible motion
++ chuyển động thuận nghịch
+=reversible transformation
++ phép biến đổi nghịch được
+- có thể huỷ bỏ, thủ tiêu được (đạo luật, bản án...)
 @Chuyên ngành kinh tế
--chia nhỏ
--chia tách
--sự đập vụn
--sự nứt ra
--sự phân ra
--sự phân tầng
--sự phân vỉa
--sự xẻ đôi (cá)
+-chu trình đảo
+-chu trình ngược
 @Chuyên ngành kỹ thuật
--phân chia
--phân đôi
--sự chẻ
--sự chẻ tách
--sự chia ra
--sự chia tách
--sự đập vụn
--sự nứt
--sự phân chia
--sự phân đoạn
--sự tách
--sự tách ra
-@Lĩnh vực: xây dựng
--sự nẻ
--sự nứt nẻ
+-đảo ngược được
+-khả năng nghịch
+@Lĩnh vực: toán & tin
+-khả nghịch
+

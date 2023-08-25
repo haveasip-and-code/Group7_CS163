@@ -1,14 +1,29 @@
-thermoregulator	@thermoregulator /'θə:mou'regjuleitə/
-*  danh từ
-- (vật lý) máy điều chỉnh nhiệt
-@Chuyên ngành kinh tế
--thiết bị điều nhiệt
+ratchet
+	
+*  ngoại động từ
+- lắp bánh cóc vào
+- tiện thành bánh cóc
 @Chuyên ngành kỹ thuật
--bộ điều chỉnh nhiệt
--bộ điều nhiệt
--nhiệt kế có độ nhạy cao
--van nhiệt
-@Lĩnh vực: xây dựng
--cái điều chỉnh nhiệt
-@Lĩnh vực: y học
--điều hòa nhiệt, máy điều nhiệt
+-bánh cóc
+-bộ bánh cóc
+-cái chắn bánh xe
+-cái chốt
+-cấu bánh cóc
+-chốt
+-chốt cài
+-chốt cửa
+-chốt khóa
+-con cóc
+-móc
+-then cài
+-then cửa
+-vấu
+-vấu hãm
+-vấu tỳ
+@Lĩnh vực: vật lý
+-cái khoan tay kiểu bánh cóc
+-cữ nhả
+@Lĩnh vực: ô tô
+-cần siết 2 chiều
+-con cóc, bánh cóc (chạy 1 chiều)
+

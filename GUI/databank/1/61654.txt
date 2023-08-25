@@ -1,10 +1,14 @@
-vestry	@vestry /'vestri/
+brochure
+	
 *  danh từ
-- phòng thay quần áo (ở nhà thờ)
-- nhà họp (ở nhà thờ)
-- tập thể những người đóng góp cho nhà xứ; đại diện của những người đóng góp cho nhà xứ
-- phòng họp của những người đóng góp cho nhà xứ
+- cuốn sách mỏng
+@Chuyên ngành kinh tế
+-sách nhỏ
+-tập sách nhỏ (quảng cáo)
 @Chuyên ngành kỹ thuật
+-sách bìa mỏng
+@Lĩnh vực: toán & tin
+-tập quảng cáo
 @Lĩnh vực: xây dựng
--nhà họp (ở nhà thờ)
--phòng áo lễ (trong nhà thờ)
+-thiệp quảng cáo
+

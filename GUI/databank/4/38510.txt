@@ -1,0 +1,3 @@
+chloroform
+Relating to software: ; Encapsulating a chunk of malfunctioning code in a try-catch block for the purposes of disregarding the exceptions that are thrown. Used primarily to 'silence' exceptions.
+

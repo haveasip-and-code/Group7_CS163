@@ -1,18 +1,7 @@
-immersion	
-@immersion /i'mə:ʃn/
-*  danh từ
-- sự nhúng, sự nhận chìm, sự ngâm nước
-- sự ngâm mình vào nước để rửa tội
-- (nghĩa bóng) sự đắm chìm vào, sự ngập vào, sự mải mê vào (công việc, suy nghĩ...)
-- (thiên văn học) sự chìm bóng (biến vào bóng của một hành tinh khác)
-@Chuyên ngành kỹ thuật
--nhận chìm
--nhúng chìm
--sự chìm
--sự ngâm
--sự ngâm tẩm
--sự ngập lụt
--sự ngập nước
--sự nhúng chìm
-@Lĩnh vực: điện lạnh
--độ chìm
+lettered
+	
+*  tính từ
+- có học, hay chữ, thông thái
+- có chữ in, có chữ viết vào...
+- (thuộc) văn chương, (thuộc) văn học
+

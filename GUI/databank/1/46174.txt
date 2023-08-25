@@ -1,9 +1,26 @@
-redistribute	@redistribute /'ri:dis'tribju:t/
-*  ngoại động từ
-- phân phối lại
-@Chuyên ngành kinh tế
--phân phối lại
--tái phân phối
+objective
+	
+*  tính từ
+- khách quan
+=objective opinion
++ ý kiến khách quan
+=objective existence
++ sự tồn tại khách quan
+- (thuộc) mục tiêu
+=objective point
++ (quân sự) điểm mục tiêu, điểm tiến quân
+- (ngôn ngữ học) (thuộc) cách mục tiêu
+*  danh từ
+- mục tiêu, mục đích
+- (ngôn ngữ học) cách mục đích
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--phân bố lại
+-khách quan
+-mục đích
+-mục tiêu
+-ống kính
+-vật kính
+@Lĩnh vực: toán & tin
+-khách quan mục tiêu
+@Lĩnh vực: xây dựng
+-thuộc mục tiêu
+

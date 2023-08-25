@@ -1,8 +1,7 @@
-manubrium	@manubrium
-* danh từ
-- số nhiều là manubria
-- chuôi ức
-- (động vật) thùy miệng (ở sứa)
-- tế bào chuôi (làm thành túi đực của tảo vòng)
-@Chuyên ngành kỹ thuật
--chuỗi
+comptroller
+	
+*  danh từ
+- người kiểm tra, người kiểm soát
+- quản gia, quản lý, trưởng ban quản trị (bệnh viện, trường học, doanh trại quân đội...) ((cũng) comptroller)
+- (kỹ thuật) bộ điều chỉnh (nhiệt độ, áp lực, tốc độ của máy...)
+

@@ -1,7 +1,37 @@
-ethyne	
+sheath
+	
+*  danh từ,  số nhiều sheaths
+/ʃi:ðz/
+- bao, vỏ (kiếm); ống
+- (sinh vật học) màng bọc, bao, vỏ, áo
+- kè đá, đạp đá
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--C2H2
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--C2H2
+-bao
+-đập đá
+-kè đá
+-lớp bảo vệ
+-lớp bọc
+-màng bọc
+-quấn dây
+-sự gia cường
+-sự quấn dây
+-túi
+-vỏ
+-vỏ bọc
+-vỏ bọc ống
+-vỏ bọc thép
+-vỏ che
+-vòng đai
+@Lĩnh vực: cơ khí & công trình
+-bọc (que hàn)
+-chất bọc (que hàn)
+-vỏ bọc (cáp điện)
+@Lĩnh vực: điện
+-ống bao
+@Lĩnh vực: xây dựng
+-ống luồn thép căng
+@Lĩnh vực: điện tử & viễn thông
+-vỏ bọc dây cáp
+@Lĩnh vực: điện lạnh
+-vỏ ống dẫn sóng
+

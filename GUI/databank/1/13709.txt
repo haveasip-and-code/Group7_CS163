@@ -1,11 +1,5 @@
-debtor	
-@debtor /'detə/
-*  danh từ
-- người mắc nợ, con nợ; người chưa thực hiện được (nhiệm vụ, nghĩa vụ...)
-@Chuyên ngành kinh tế
--con nợ
--người mắc nợ
-@Chuyên ngành kỹ thuật
--người mắc nợ
-@Lĩnh vực: xây dựng
--khách nợ
+cytolysin
+	
+* danh từ
+- tiêu tế bào tố; hủy tế bào tố
+

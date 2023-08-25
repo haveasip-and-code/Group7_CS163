@@ -1,10 +1,8 @@
-breeziness	
-@breeziness /'bri:zinis/
+wetness
+	
 *  danh từ
-- tình trạng có gió hiu hiu
-- sự thoáng gió
-- sự vui vẻ, sự hồ hởi, sự phơi phới
-- tính hoạt bát, tính nhanh nhẩu
+- tình trạng ẩm ướt; tình trạng ướt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự thoáng gió
+-độ ẩm
+-sự ẩm ướt
+

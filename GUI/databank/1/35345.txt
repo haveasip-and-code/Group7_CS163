@@ -1,14 +1,16 @@
-modulator	@Chuyên ngành kỹ thuật
--bộ điều biến
--bộ điều chế
--bộ giảm chấn
-@Lĩnh vực: điện lạnh
--bộ biến điệu
-@Lĩnh vực: xây dựng
--điều biến viên
-@Lĩnh vực: cơ khí & công trình
--độ điều biến
+mirror
+	
+*  danh từ
+- gương
+- (nghĩa bóng) hình ảnh trung thực (của cái gì)
+*  ngoại động từ
+- phản chiếu, phản ánh
+@Chuyên ngành kỹ thuật
+-gương
+-gương chiếu hậu
+-gương phản chiếu
+-kính
+-phản chiếu
 @Lĩnh vực: toán & tin
--máy biến điệu
-@Lĩnh vực: y học
--tác nhân điều biến
+-đối xứng gương
+

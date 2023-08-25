@@ -1,6 +1,22 @@
-oxidizable	@oxidizable /'ɔksidaizəbl/
-*  tính từ
-- có thể gỉ
-- (hoá học) oxy hoá được
+generate
+	
+*  ngoại động từ
+- sinh, đẻ ra
+- phát, phát ra
+=to generate electricity
++ phát điện
 @Chuyên ngành kỹ thuật
--ôxi hóa được
+-đưa ra
+-khởi động
+-phát
+-phát động
+-phát ra
+-phát sinh
+-sinh
+-sinh ra
+-tạo thành
+@Lĩnh vực: điện lạnh
+-sản ra
+@Lĩnh vực: ô tô
+-sản sinh
+

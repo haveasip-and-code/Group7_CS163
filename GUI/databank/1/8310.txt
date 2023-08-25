@@ -1,8 +1,12 @@
-catharsis	
-@catharsis /kə'θɑ:sis/
-*  danh từ
-- (y học) sự tẩy nhẹ
-- (văn học) sự hồi hộp phấn chấn
+admissible
+	
+*  tính từ
+- có thể chấp nhận, có thể thừa nhận
+- có thể nhận, có thể thu nạp (vào chức vụ gì...); có thể kết nạp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--xổ, tẩy
+-cho phép
+@Lĩnh vực: cơ khí & công trình
+-có phép
+@Lĩnh vực: toán & tin
+-có thể chấp nhận
+

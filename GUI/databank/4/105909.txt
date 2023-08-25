@@ -1,0 +1,3 @@
+pph
+Points per hour. ; Used in Unreal Tournament 2004 objective games as an estimate of how many points will be made by a player in an hour of playing.
+

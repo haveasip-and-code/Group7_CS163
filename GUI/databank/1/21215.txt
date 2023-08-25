@@ -1,32 +1,131 @@
-fixation	
-@fixation /fik'seiʃn/
+scale
+	
 *  danh từ
-- sự đóng chặt vào, sự làm cho dính lại
-- sự ngưng kết, sự đông lại
-- sự hâm (màu...); sự cố định lại
-- sự ấn định, sự quy định
-- sự ngừng phát triển trí óc
+- vảy (cá, rắn, cánh sâu bọ)
+- (thực vật học) vảy bắc
+- vảy, vật hình vảy
+- lớp gỉ (trên sắt)
+- cáu cặn; bựa (răng)
+*  động từ
+- đánh vảy, lột vảy
+- cạo lớp gỉ
+- cạo cáu, cạo bựa
+- tróc vảy, sầy vảy
+*  danh từ
+- cái đĩa cân
+- (số nhiều) cái cân ((cũng) a pair of scales)
+=to hold the scales even
++ cầm cân nảy mực
+!to throw sword into scale
+- lấy vũ khí làm áp lực
+!to turn the scale
+- (xem) turn
+*  ngoại động từ
+- (từ hiếm,nghĩa hiếm) cân (vật gì), cân được, cân nặng
+=to scale ten kilograms
++ cân được 10 kilôgam
+*  danh từ
+- sự chia độ; hệ thống có chia độ; sự sắp xếp theo trình độ
+=to be high in the scale of creation
++ có tính chất sáng tạo ở trình độ cao
+=at the top of the scale
++ ở trình độ cao nhất
+=at the bottom of the scale
++ ở trình độ thấp nhất
+- (âm nhạc) thang âm, gam
+=major scale
++ gam trưởng
+=minor scale
++ gam thứ
+- số tỷ lệ; thước tỷ lệ, tỷ lệ, quy mô, phạm vi
+=scale map
++ bản đồ có tỷ lệ lớn
+=the scale to be one to fifty thousand
++ tỷ lệ sẽ là 1 qoành 5 000
+=on a great scale
++ trên quy mô lớn
+=on a world scale
++ trên phạm vi toàn thế giới
+*  động từ
+- leo, trèo (bằng thang)
+- vẽ (bản đồ) theo tỷ lệ
+=to scale up
++ vẽ to ra; tăng cường
+=to scale down
++ vẽ nhỏ đi; giảm xuống
+- có cùng tỷ lệ; có thể so được với nhau
 @Chuyên ngành kinh tế
--cố định giá
+-bậc (lương...)
+-bậc lương
+-bóc vỏ
+-cái cân
+-cân
+-cặn
+-đánh vảy
+-mức tiền công
+-quy mô
+-quy mô sản xuất
+-tách cặn
+-thang
+-thang (giá...)
+-thước tỉ lệ (của một bản đồ)
+-thước tỉ lệ (của một bản đồ...)
+-tỉ lệ
+-tỉ lệ xích
+-váng
+-vảy
+-vỏ ngoài
 @Chuyên ngành kỹ thuật
--định vị
--sự bố trí
--sự cố định
--sự định vị
--sự hãm
--sự lắp đặt
-@Lĩnh vực: y học
--cố định
+-bóc vảy
+-bóc vỏ
+-cỡ
+-đánh gỉ
+-đĩa cân
+-gỉ sắt
+-lớp cặn
+-lớp cáu
+-lớp cáu bám
+-lớp vảy bóc
+-màng đúc
+-mặt số
+-mối nối đối đầu
+-phạm vi
+-phần chia thang đo
+-quy mô
+-sự chia độ
+-thang đo
+-thanh
+-thứ nguyên
+-thước tỷ lệ
+-tỷ lệ
+-vảy
+-vảy cặn
+-vảy đúc
+-vảy kim loại
+-vảy sắt
+-vẽ theo tỷ lệ
+-xỉ
+@Lĩnh vực: cơ khí & công trình
+-cặn (nồi hơi)
+-đánh vẩy (gỉ)
+-tẩy cặn
+-thang số
+-tỷ lệ xích
+-vỏ cứng (vật đúc)
+@Lĩnh vực: xây dựng
+-cặn cáu (nước)
+-số tỉ lệ
+-thang chia độ (thước) tỉ lệ
+-tỉ xích
+-vảy (sơn tranh)
+-vẽ theo tỉ lệ
 @Lĩnh vực: điện lạnh
--sự hãm (ảnh)
-@Chuyên ngành kỹ thuật
--định vị
--sự bố trí
--sự cố định
--sự định vị
--sự hãm
--sự lắp đặt
+-chất cáu
+-cung bậc
+-thang (đo)
+-tỷ xích
+@Lĩnh vực: toán & tin
+-định tỷ lệ
 @Lĩnh vực: y học
--cố định
-@Lĩnh vực: điện lạnh
--sự hãm (ảnh)
+-vảy da, cao răng
+

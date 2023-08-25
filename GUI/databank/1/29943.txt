@@ -1,7 +1,6 @@
-irradiator	
-@irradiator
-- xem irradiate
-@Chuyên ngành kỹ thuật
--nguồn bức xạ
-@Lĩnh vực: điện lạnh
--máy chiếu bức xạ
+groggery
+	
+*  danh từ
+- quán bán grôc
+- quán rượu
+

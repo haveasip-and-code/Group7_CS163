@@ -1,25 +1,10 @@
-accretion	
-@accretion /æ'kri:ʃn/
-*  danh từ
-- sự lớn dần lên, sự phát triển dần lên,
-- sự bồi dần vào
-- phần bồi thêm, phần phát triển dần lên
-- (pháp lý) sự tăng thêm (của cải, tài sản...)
-@Chuyên ngành kinh tế
--sự tăng trị
--sự tăng trưởng nội tại
--trị giá (thực tế) tăng lên
-@Chuyên ngành kỹ thuật
--bùn cát
--đất bồi
--lớp bồi tích
--sự bồi đắp
--sự bồi lắng
--sự bồi tích
--sự lắng đọng
--sự nâng cao
-@Lĩnh vực: điện tử & viễn thông
--phát triển dần lên
--sự lớn dần lên
-@Lĩnh vực: xây dựng
--sự bồi lấp
+risible
+	
+*  tính từ
+- dễ cười, hay cười
+=to have risible nevers
++ có máu buồn
+- (từ hiếm,nghĩa hiếm) tức cười, đáng buồn cười
+=a risible answer
++ câu trả lời tức cười
+

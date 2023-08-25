@@ -1,19 +1,15 @@
-sectional	@sectional /'sekʃənl/
-*  tính từ
-- (thuộc) tầng lớp
-- (thuộc) mặt cắt; chia theo mắt cắt
-- (thuộc) đoạn
+gravitation
+	
+*  danh từ
+- (vật lý) sự hút, sự hấp dẫn
+=the law of gravitation
++ luật hấp dẫn
 @Chuyên ngành kỹ thuật
--bộ phận
--chia nhiều phần
--đoạn
--đơn nguyên
--lắp thành
--mặt cắt
--phân đoạn
--tiết diện
-@Lĩnh vực: điện
--có tính phân đoạn
-@Lĩnh vực: xây dựng
--ghép thành
--phân đoạn cục bộ
+-lực hấp dẫn
+-lực hút
+-lực quán tính
+-sự dẫn
+-sự hấp dẫn
+-sự hút
+-sức hút
+

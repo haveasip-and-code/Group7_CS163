@@ -1,13 +1,5 @@
-fermenter	
-@fermenter
-* danh từ
-- chất gây men; thùng gây men
-@Chuyên ngành kinh tế
--thiết bị lên men
--thùng lên men
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--thùng lên men
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--thùng lên men
+outrank
+	
+*  ngoại động từ
+- hơn cấp, ở cấp cao hơn
+

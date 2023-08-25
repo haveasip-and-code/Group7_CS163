@@ -1,0 +1,3 @@
+Booch's Law
+A new system design method is proven by successful creating a system from it.
+

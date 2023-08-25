@@ -1,0 +1,3 @@
+foggles
+Goggles that are fogged on the top half and clear on the bottom half. Used by pilots to simulate flight in instrument conditions so they don't have to wait for bad weather.
+

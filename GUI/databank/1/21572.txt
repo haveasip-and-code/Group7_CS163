@@ -1,32 +1,5 @@
-fluctuation	
-@fluctuation /fluctuation/
-*  danh từ
-- sự dao động, sự lên xuống, sự thay đổi bất thường
-@Chuyên ngành kinh tế
--biến động
--dao động
--sự dao động (hối suất)
--sự lên xuống (giá cả)
--sự thịnh suy (kinh tế, thương mại)
-@Chuyên ngành kỹ thuật
--biến thiên
--dao động
--sự biến động
--sự dao động
--sự lên xuống
--sự thăng giáng
-@Lĩnh vực: toán & tin
--sự giao động
-@Lĩnh vực: điện
--sự thăng giảm
-@Chuyên ngành kỹ thuật
--biến thiên
--dao động
--sự biến động
--sự dao động
--sự lên xuống
--sự thăng giáng
-@Lĩnh vực: toán & tin
--sự giao động
-@Lĩnh vực: điện
--sự thăng giảm
+triglyceride
+	
+@Lĩnh vực: y học
+-lipid hay chất béo trung tính
+

@@ -1,14 +1,8 @@
-hilt	
-@hilt /hilt/
-*  danh từ
-- cán (kiếm, dao găm...)!up to the hill
-- đầy đủ, hoàn toàn=to prove up to the hilt that...
-+ chứng tỏ đầy đủ rằng...
-*  ngoại động từ
-- tra cán (kiếm, dao găm...)
-@Chuyên ngành kinh tế
--lợn sữa
+heterotrophic
+	
+*  tính từ
+- (sinh vật học) dị dưỡng
 @Chuyên ngành kỹ thuật
--cán
-@Lĩnh vực: xây dựng
--tra cán
+@Lĩnh vực: y học
+-dị dưỡng
+

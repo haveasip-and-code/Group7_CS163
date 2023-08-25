@@ -1,2 +1,11 @@
-longies	@Chuyên ngành kinh tế
--thuốc lá loại dài
+jurist
+	
+*  danh từ
+- nhà luật học, luật gia
+- nhà viết luật
+- sinh viên luật
+@Chuyên ngành kinh tế
+-luật gia
+-nhà luật học
+-tác gia pháp luật
+

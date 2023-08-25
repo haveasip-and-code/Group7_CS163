@@ -1,28 +1,5 @@
-bin	
-@bin /bin/
-*  danh từ
-- thùng
-- túi vải bạt (để hái hoa bia)
-- thùng đựng rượu, rượu thùng
-@Chuyên ngành kinh tế
--rượu thùng
--thùng
--thùng đựng rượu
--túi
--vải bạt
-@Chuyên ngành kỹ thuật
--gầu
--kệ bảo quản
--ngăn
--phễu
-@Lĩnh vực: xây dựng
--buke
--phễu tiếp nhiên liệu
--thùng đựng
-@Lĩnh vực: cơ khí & công trình
--gầu rót
--nồi rót
--phễu liệu
-@Lĩnh vực: toán & tin
--hộc
--tủ (đựng giấy tờ)
+westernmost
+	
+*  tính từ
+- cực tây
+

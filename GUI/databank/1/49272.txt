@@ -1,13 +1,6 @@
-scribble	@scribble /'skribl/
-*  danh từ
-- chữ viết nguệch ngoạc, chữ viết cẩu thả, bức thư viết nguệch ngoạc, mảnh giấy ghi vội vàng
-- (từ Mỹ,nghĩa Mỹ) tác phẩm văm học viết xoàng; bài báo xoàng
-*  động từ
-- viết chữ nguệch ngoạc, viết cẩu thả, viết vội vàng
-- viết xoàng (văn, báo...)
-*  ngoại động từ
-- (nghành dệt) chải (len, bông)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bút phác họa
--viết cẩu thả
+phasic
+	
+*  tính từ
+- (thuộc) giai đoạn, (thuộc) thời kỳ
+- (thuộc) pha
+

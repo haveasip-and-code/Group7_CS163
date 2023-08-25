@@ -1,0 +1,3 @@
+Bluegene
+BlueGene/L is a next-generation massively-parallel computing system designed for research and development in computational science. BlueGene/L is targeted at delivering hundreds of teraflops to selected applications of interest to the Advanced Simulation and Computing Program (ASC). It is an extremely high compute-density system with very attractive cost performance and relatively modest power and cooling requirements.
+

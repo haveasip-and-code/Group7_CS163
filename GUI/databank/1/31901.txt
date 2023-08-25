@@ -1,4 +1,5 @@
-lemmas	@lemmas
-* danh từ
-- <toán> bổ đề
-- cước chú (cho tranh ảnh)
+battleship
+	
+*  danh từ
+- (hàng hải) tàu chiến lớn
+

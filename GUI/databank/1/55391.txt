@@ -1,5 +1,13 @@
-tacnode	@tacnode
-- (hình học) tacnôt (điểm tự tiếp xúc của đường cong)
+accessibility
+	
+*  danh từ
+- tính có thể tới được, tính có thể đến gần được
+- sự dễ bị ảnh hưởng
 @Chuyên ngành kỹ thuật
+-có thể vào được, có thể đi (đến) được
+@Lĩnh vực: điện lạnh
+-khả năng đến được
+-khả năng truy nhập
 @Lĩnh vực: toán & tin
--tacnot (điểm tự tiếp xúc của đường cong)
+-khả năng truy cập
+

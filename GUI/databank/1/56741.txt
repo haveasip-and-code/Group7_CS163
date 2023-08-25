@@ -1,10 +1,5 @@
-tinfoil	@tinfoil
-* danh từ
-- giấy thiếc; lá thiếc
-* ngoại động từ
-- bọc (bằng) giấy thiếc
-@Chuyên ngành kinh tế
--lá thiếc dát mỏng
-@Chuyên ngành kỹ thuật
--giấy thiếc
--lá thiếc
+chickenpox
+	
+@Lĩnh vực: y học
+-bênh thủy đậu
+

@@ -1,7 +1,10 @@
-internode	
-@internode /'intənoud/
+vocabulary
+	
 *  danh từ
-- (thực vật học) gióng, lóng
+- (ngôn ngữ học) từ vựng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--các phần của thể trục có bao myelin bao bọc
+@Lĩnh vực: toán & tin
+-bảng từ vựng
+@Lĩnh vực: xây dựng
+-vốn từ
+

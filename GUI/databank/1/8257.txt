@@ -1,11 +1,19 @@
-catastrophe	
-@catastrophe /kə'tæstrəfi/
-*  danh từ
-- tai ương, tai biến, thảm hoạ, tai hoạ lớn
-- kết thúc thê thảm; kết thúc của một vở bi kịch
-@Chuyên ngành kinh tế
--thảm họa
+suggest
+	
+*  ngoại động từ
+- gợi, làm nảy ra trong trí
+=an idea suggested itself to me
++ một ý nảy ra trong óc tôi
+- đề nghị
+=to suggest meeting
++ đề nghị họp
+- đưa ra giả thuyết là
+- (pháp lý) đề nghị thừa nhận là
+=I suggest that you were aware of what was happening
++ tôi đề nghị ông hãy thừa nhận là ông biết chuyện xảy ra
 @Chuyên ngành kỹ thuật
--tai họa
-@Lĩnh vực: điện tử & viễn thông
--hỏng hóc tai biến
+@Lĩnh vực: toán & tin
+-đề nghị, gợi ý
+@Lĩnh vực: xây dựng
+-đề xuất
+

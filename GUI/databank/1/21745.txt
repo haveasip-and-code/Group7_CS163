@@ -1,19 +1,8 @@
-font	
-@font /fɔnt/
+taxpayer
+	
 *  danh từ
-- bình đựng nước rửa tội, bình đựng nước thánh
-- bình dầu, bầu dầu (của đèn)
-- (thơ ca) suối nước; nguồn sông
-- (từ Mỹ,nghĩa Mỹ) nguồn gốc, căn nguyên
+- người đóng thuế
 @Chuyên ngành kinh tế
--phông chữ
-@Chuyên ngành kỹ thuật
--dáng chữ
--kiểu chữ
-@Lĩnh vực: xây dựng
--bộ chữ
-@Lĩnh vực: toán & tin
--font
--phông chữ
-@Lĩnh vực: cơ khí & công trình
--nền ren
+-người đóng thuế
+-người nộp thuế
+

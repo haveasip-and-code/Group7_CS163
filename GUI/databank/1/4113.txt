@@ -1,16 +1,19 @@
-automotive	
-@automotive /,ɔ:tə'moutiv/
-*  tính từ
-- tự động
-- (thuộc) máy móc tự động
-- (thuộc) ô tô
+flee
+	
+*  nội động từ fled
+- chạy trốn, bỏ chạy; lẩn trốn
+- biến mất; qua đi, trôi qua
+=the night had fled
++ đêm đã trôi qua
+=time is fleeing away
++ thời gian thấm thoát trôi qua
+*  ngoại động từ
+- chạy trốn, vội vã rời bỏ
+- trốn tránh, lẩn tránh
 @Chuyên ngành kỹ thuật
--máy tự động
--tự hành
 @Lĩnh vực: xây dựng
--máy móc tự động
--tự đi
--tự di động
-@Lĩnh vực: ô tô
--thuộc về ô tô
--trong ô tô
+-trốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-trốn
+

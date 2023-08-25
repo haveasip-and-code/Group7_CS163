@@ -1,0 +1,3 @@
+yoctosecond
+The smallest MEASURABLE time unit known today, 1x10^(-24) seconds. Obviously, smaller units of time exist, but proper equipment and methodology for measuring them does not yet exist. Light travels 2.9979x10^(-16) meters in one yoctosecond, not the 3.33km stated above.
+

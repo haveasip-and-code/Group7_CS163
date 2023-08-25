@@ -1,11 +1,10 @@
-occupancy	@occupancy /'ɔkjupənsi/
-*  danh từ
-- sự chiếm đóng, sự chiếm giữ
-- thời gian chiếm đóng
-@Chuyên ngành kỹ thuật
--sự chiếm chỗ
-@Lĩnh vực: điện lạnh
--độ cư trú
--trạng thái bận
-@Lĩnh vực: xây dựng
--sự chiếm giữ
+interweave
+	
+*  động từ interwove; interwoven
+- dệt lẫn với nhau
+=to interweave a nylon warp with a cotton weft
++ dệt lẫn đường chỉ dọc bằng sợi ny lông với đường khổ bằng sợi bông
+- trộn lẫn với nhau; xen lẫn
+=to interweave facts with fiction
++ xen lẫn sự thật với hư cấu
+

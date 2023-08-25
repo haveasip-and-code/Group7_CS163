@@ -1,14 +1,9 @@
-chilled	
-@Chuyên ngành kinh tế
--lạnh
--nguội
+fuzziness
+	
+*  danh từ
+- sự xơ ra
+- sự xoắn (tóc)
+- sự mờ, sự mờ nhạt
 @Chuyên ngành kỹ thuật
--biến trắng
--đã ngưng lạnh
--được làm lạnh
--được làm nguội
--được tôi
-@Lĩnh vực: hóa học & vật liệu
--đã làm lạnh
-@Lĩnh vực: điện lạnh
--được làm mát
+-lờ mờ
+

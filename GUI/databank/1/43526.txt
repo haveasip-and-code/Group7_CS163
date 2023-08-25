@@ -1,9 +1,6 @@
-prevail	@prevail /pri'veil/
-*  nội động từ
-- ((thường) + against,  over) thắng thế, chiếm ưu thế
-=socialism will prevail+ chủ nghĩa xã hội sẽ thắng thế
-=to prevail over the enemy+ chiếm ưu thế đối với kẻ địch
-- thịnh hành, lưu hành, phổ biến khắp, lan khắp, thường xảy ra nhiều
-=according to the custom that prevailed in those days+ theo phong tục thịnh hành thời bấy giờ
-- (+ on,  upon) khiến, thuyết phục
-=to prevail upon somebody to do something+ thuyết phục ai làm gì
+circularize
+	
+*  ngoại động từ
+- gửi thông tri, gửi thông tư
+- gửi giấy báo (cho khách hàng)
+

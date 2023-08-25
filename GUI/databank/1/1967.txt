@@ -1,15 +1,14 @@
-amplitude	
-@amplitude
-- biên độ, góc cực; agumen; (thiên văn) độ phương vị
-- a. of complex nember agument của số phức
-- a. of current biên độ dòng điện
-- a. of oscillation biên độ của dao động
-- a. of point góc cực của một điểm
-- a. of simple harmonic motion biên độ chuyển động điều hoà đơn giản
-- a. of vibration biên độ của chấn động
-- complex a. biên độ nguyên sơ
-- delta a. biên độ delta
-- primary a. biên độ nguyên sơ
-- scattering a. biên độ tán xạ
-- unit a. biên độ đơn vị
-- velocity a. biên độ vận tốc
+turtle
+	
+*  danh từ
+- (như) turtle
+-dove
+- (động vật học) rùa ((thường) chỉ rùa biển)
+- thịt rùa
+!to turn turtle
+- (hàng hải),  (từ lóng) lập úp (tàu, thuyền)
+*  nội động từ
+- câu rùa, bắt rùa
+@Chuyên ngành kỹ thuật
+-rùa
+

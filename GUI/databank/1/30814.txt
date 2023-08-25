@@ -1,18 +1,5 @@
-kennel	
-@kennel /'kenl/
-*  danh từ
-- cống rãnh
-*  danh từ
-- cũi chó
-- nhà ở tồi tàn
-*  nội động từ
-- ở trong cũi (chó)
-- chui vào cũi (chó)
-@Chuyên ngành kỹ thuật
--cống
--máng nước
--rãnh
-@Chuyên ngành kỹ thuật
--cống
--máng nước
--rãnh
+thistledown
+	
+* danh từ
+- nùi bông nhẹ chứa đựng những hạt cây kế được gió thổi từ cây kế bay đi
+

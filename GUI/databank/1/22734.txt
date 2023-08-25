@@ -1,17 +1,26 @@
-gable	
-@gable /'geibl/
+subscriber
+	
 *  danh từ
-- đầu hồi (nhà)
-- (kỹ thuật) cột chống, thanh chống, giá chống
+- người góp (tiền)
+- người mua (báo) dài hạn; người đặt mua
+- (the subscriber) những người ký tên dưới đây
+@Chuyên ngành kinh tế
+-người đặt mua
+-người góp tiền
+-người mua dài hạn (tạp chí, ấn phẩm..)
+-người nhận mua cổ phiếu
+-người thuê bao
+-người thuê bao (điện thoại)
+-người thuê bao (điện thoại...)
 @Chuyên ngành kỹ thuật
--đầu hồi
--đầu hồi (nhà)
--giá chống
--khung chống
--thanh chống
-@Lĩnh vực: xây dựng
--đầu hồi nhà
--đỉnh tam giác
--hè nhà
--hồi đầu nhà
--trán tường
+-người đăng ký
+-người đặt mua
+-người thuê bao
+@Lĩnh vực: điện lạnh
+-hộ thuê bao
+@Lĩnh vực: toán & tin
+-khách thuê bao
+-thuê bao
+@Lĩnh vực: điện tử & viễn thông
+-nhà thuê bao (điện thoại)
+

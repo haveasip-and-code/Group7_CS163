@@ -1,9 +1,17 @@
-cordovan	
-@cordovan
-* danh từ
-- da thuộc mềm (gốc từ Cordova,  Tây
--ban
--nha)
+workshop
+	
+*  danh từ
+- xưởng
+@Chuyên ngành kinh tế
+-phân xưởng
+-xưởng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--da thuộc mềm
+-cuộc hội thảo
+-nhà máy
+-xưởng
+-xưởng máy
+-xưởng sửa chữa
+@Lĩnh vực: xây dựng
+-nhà xưởng
+-nơi chuẩn bị
+

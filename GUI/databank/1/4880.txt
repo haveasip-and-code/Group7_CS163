@@ -1,11 +1,6 @@
-batcher	
-@Chuyên ngành kinh tế
--máy liều lượng
--thiết bị phối liệu
-@Chuyên ngành kỹ thuật
--bộ định lượng
--máy định lượng
--phễu nạp liệu
--phễu tiếp liệu
--thiết bị phối liệu
--thùng chứa
+waywardness
+	
+*  danh từ
+- tính ương ngạnh, tính bướng bỉnh
+- tính bất thường, tính hay thay đổi
+

@@ -1,4 +1,41 @@
-glyptics	
-@glyptics /'gliptiks/
-*  danh từ,  số nhiều dùng như số ít
-- thuật chạm ngọc
+specific
+	
+*  tính từ
+- dứt khoát, rành mạch, rõ ràng
+=a specific statement
++ lời tuyên bố dứt khoát
+=for no specific reason
++ không có lý do gì rõ ràng
+- (thuộc) loài
+=the specific name of a plant
++ (sinh vật học) tên loài của một cây
+- đặc trưng, riêng biệt
+=a style specific to that school of painters
++ một phong cách đặc trưng cho trường phái hoạ sĩ ấy
+- theo trọng lượng, theo số lượng (thuế hải quan)
+- (vật lý) riêng
+=specific weight (gravity)
++ trọng lượng riêng, tỷ trọng
+*  danh từ
+- (y học) thuốc đặc trị
+@Chuyên ngành kinh tế
+-cái riêng
+-chính xác
+-chuyên biệt
+-cụ thể
+-đặc thù
+-đặc trưng
+-đúng
+-minh xác
+-riêng biệt
+-rõ ràng
+-xác định
+@Chuyên ngành kỹ thuật
+-đặc thù
+-đặc trưng
+-riêng
+@Lĩnh vực: toán & tin
+-đặc trưng, đặc thù
+@Lĩnh vực: xây dựng
+-rành mạch
+

@@ -1,5 +1,10 @@
-profiler	@profiler
-- xem profile
+dues
+	
+-phần tiền đóng góp (như hội phí, đoàn phí)
+-phí thủ tục
+-thuế
+-tiền phải trả đúng kỳ
+-tiền thuê
 @Chuyên ngành kỹ thuật
--máy phay chép hình
--máy phay định hình
+-thuế
+

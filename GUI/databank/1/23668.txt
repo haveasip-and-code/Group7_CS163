@@ -1,4 +1,11 @@
-glost	
+translating
+	
+- tịnh tiến, dịch biến đổi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--đồ tráng men
+-biến đổi
+-chuyển
+-dịch
+-sự tịnh tiến
+@Lĩnh vực: toán & tin
+-hệ thống (dịch, biến đổi)
+

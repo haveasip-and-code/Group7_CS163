@@ -1,23 +1,5 @@
-recycle	@recycle
-* nội động từ
-- tái sinh (vật liệu đã dùng để dùng lại)
-- phục hồi, tái chế (sản phẩm tự nhiên)
-@Chuyên ngành kinh tế
--chế tạo lại để sử dụng
--làm lại
--nước cất hồi lưu
--phục hội
--phục hồi, tái tạo, làm lại, chế tạo lại để sử dụng
--sự tuần hoàn
--tái tạo
--tuần hoàn
-@Chuyên ngành kỹ thuật
--sự quay vòng
--sự tái chu chuyển
--sự tái tuần hoàn
-@Lĩnh vực: toán & tin
--chu trình lặp
-@Lĩnh vực: điện lạnh
--chu trình lặp lại
-@Lĩnh vực: điện tử & viễn thông
--lặp lại chu kỳ
+caviller
+	
+*  danh từ
+- người hay cãi bướng, người hay lý sự cùn; người hay gây chuyện cãi nhau vặt
+

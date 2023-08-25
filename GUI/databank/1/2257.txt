@@ -1,4 +1,14 @@
-anima	
-@anima
-* danh từ
-- (y học) bản ngã cá nhân
+delimiter
+	
+- (Tech) dấu giới hạn, dấu tách; dấu định nghĩa
+@Chuyên ngành kỹ thuật
+-dấu tách
+@Lĩnh vực: toán & tin
+-dâu phân cách
+-dấu phân cách
+-dấu phân tách
+-dấu tác
+-ký hiệu tách
+@Lĩnh vực: xây dựng
+-giới hạn tự
+

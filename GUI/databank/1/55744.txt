@@ -1,12 +1,14 @@
-teat	@teat /ti:t/
+inactivation
+	
 *  danh từ
-- đầu vú, núm vú (đàn bà)
-- núm vú cao su (cho trẻ con bú)
-- (kỹ thuật) đầu tròn (như núm vú)
-=teat screw+ bu lông đầu tròn
+- sự làm cho không hoạt động
+- (y học),  (hoá học) sự khử hoạt tính
+- (quân sự) sự rút (một đơn vị) ra khỏi danh sách quân thường trực
+@Chuyên ngành kinh tế
+-sự khử hoạt tính
 @Chuyên ngành kỹ thuật
--vấu
-@Lĩnh vực: cơ khí & công trình
--cái định tâm (mũi khoan)
--ngõng dẫn hướng
--vú
+@Lĩnh vực: hóa học & vật liệu
+-sự khử hoạt hóa
+-sự khử hoạt tính
+-sự khử kích hoạt
+

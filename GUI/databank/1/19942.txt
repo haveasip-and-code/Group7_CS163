@@ -1,24 +1,4 @@
-expose	
-@expose /iks'pouz/
-*  ngoại động từ
-- phơi ra
-- phơi bày ra, phô ra; bóc trần, phơi trần, vạch trần, bộc lộ=to expose crime
-+ vạch trần tội ác=to expose someone
-+ vạch mặt nạ ai, vạch trần tội ác của ai
-- bày ra để bán, trưng bày
-- đặt vào (nơi nguy hiểm...), đặt vào tình thế dễ bị (tai nan...)=to expose someone to danger
-+ đặt ai vào tình thế hiểm nguy
-- (động tính từ quá khứ) xoay về (nhà...)=exposed to the south
-+ xoay về hướng nam
-- vứt bỏ (đứa con) ra ngoài đường
-- (nhiếp ảnh) phơi sang (phim ảnh)
-@Chuyên ngành kỹ thuật
--lộ sáng
--phơi bày
--phơi sáng
--trình bày
-@Chuyên ngành kỹ thuật
--lộ sáng
--phơi bày
--phơi sáng
--trình bày
+qualifying
+	
+-sự sát hạch
+

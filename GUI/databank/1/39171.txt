@@ -1,13 +1,16 @@
-pacing	@Chuyên ngành kinh tế
--sự thiết kế tiến độ
+gamma
+	
+*  danh từ
+- Gama (chữ cái Hy
+-lạp)
+- (động vật học) bướm gama
+!gamma minus
+- dưới trung bình
+!gamma plus
+- trên trung bình
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--bước đi
-@Lĩnh vực: y học
--dẫn tốc điều nhịp
 @Lĩnh vực: toán & tin
--sự dẫn tốc độ (truyền)
-@Lĩnh vực: cơ khí & công trình
--sự đo bằng nước
-@Lĩnh vực: xây dựng
--sự đo bằng thước
+-gama
+@Lĩnh vực: điện
+-hệ số ảnh
+

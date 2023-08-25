@@ -1,17 +1,8 @@
-unpack	@unpack /'ʌn'pæk/
-*  ngoại động từ
-- mở (gói, va li...) tháo (kiện hàng)
-@Chuyên ngành kinh tế
--mở gói
--tháo (kiện)
-@Chuyên ngành kỹ thuật
--dỡ
--tháo
-@Lĩnh vực: toán & tin
--bung (dữ liệu)
--dỡ nén
--giải nén
--không nén, giải nén
--tháo nén
-@Lĩnh vực: xây dựng
--mở thùng
+thruput
+	
+-công suất
+-khả năng thông qua
+-lưu lượng
+-năng suất thông qua
+-tốc độ dòng chảy
+

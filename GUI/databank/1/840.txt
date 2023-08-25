@@ -1,14 +1,7 @@
-adobe	
-@adobe /ə'doubi/
-*  danh từ
-- gạch sống (phơi nắng, không nung)
-@Chuyên ngành kỹ thuật
--đất nện
--đất sét pha cát
--gạch hong khô
--gạch không nung
--gạch mộc
--gạch phơi nắng
--nhà (bằng) gạch mộc
+unlocking
+	
 @Lĩnh vực: xây dựng
--gạch sống
+-sự không khóa
+@Lĩnh vực: toán & tin
+-sự mở khóa
+

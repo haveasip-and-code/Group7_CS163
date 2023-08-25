@@ -1,8 +1,8 @@
-hydrophobicity	
-@hydrophobicity
-* danh từ
-- tính sợ nước; tính không ưa nước
-@Chuyên ngành kinh tế
--kỵ nước
-@Chuyên ngành kỹ thuật
--tính kỵ nước
+attainder
+	
+*  danh từ
+- (pháp lý) sự đặt ra ngoài vòng pháp luật
+- (pháp lý) sự tước quyền công dân và tịch thu tài sản
+=bill of attainder
++ lệnh (của quốc hội) tước quyền công dân và tịch thu tài sản (của một tên phản quốc)
+

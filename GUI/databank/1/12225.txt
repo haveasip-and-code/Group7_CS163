@@ -1,7 +1,5 @@
-countercheck	
-@countercheck
-* danh từ
-- sự chặn lại, sự cản trở, sự ngăn trở
-- sự chống lại, cái cản trở
-@Chuyên ngành kỹ thuật
--phản tác dụng
+nodi
+	
+*  danh từ,  số nhiều nodi
+- nút, điểm nút, điểm chốt (của một vấn đề)
+

@@ -1,4 +1,5 @@
-cyclorama	
-@cyclorama
+setline
+	
 * danh từ
-- (sân khấu) màn vây
+- dây câu giăng
+

@@ -1,4 +1,13 @@
-matin	@matin /'mætin/
-*  danh từ
-- (số nhiều) kinh (cầu buổi) sáng ((cũng) mattins)
-- (thơ ca) tiếng hót ban mai của chim
+delimit
+	
+*  ngoại động từ
+- giới hạn, định ranh giới, quy định, phạm vi
+@Chuyên ngành kỹ thuật
+-định giới hạn
+-định ranh giới
+-giới hạn
+-phân ranh giới
+-tách
+@Lĩnh vực: toán & tin
+-phân giới
+

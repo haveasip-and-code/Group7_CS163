@@ -1,6 +1,13 @@
-overmature	@overmature
-* danh từ
-- sự chín nẫu
+insured
+	
+*  danh từ
+- người được bảo hiểm
 @Chuyên ngành kinh tế
--quá chín
--quá già
+-có bảo hiểm
+-có tham gia bảo hiểm
+-được bảo hiểm
+@Chuyên ngành kỹ thuật
+-người được bảo hiểm
+@Lĩnh vực: toán & tin
+-được bảo hiểm
+

@@ -1,8 +1,43 @@
-invalidation	
-@invalidation /in,væli'deiʃn/
-*  danh từ
-- sự làm mất hiệu lực; sự mất hiệu lực
-- (từ Mỹ,nghĩa Mỹ) sự làm cho không có căn cứ; sự mất căn cứ
+sure
+	
+*  tính từ
+- chắc, chắc chắn
+=you may be sure of his honesty
++ anh có thể chắc chắn rằng nó chân thật
+=I'm sure I didn't mean to hurt your feelings
++ tôi thề là không có ý xúc phạm đến anh
+- chắc chắn, có thể tin cậy được; cẩn thận
+=to send something by a sure hand
++ nhờ một người cẩn thận chuyển hộ cái gì
+=to put something in a sure place
++ để cái gì vào nơi chắc chắn
+=a sure shot
++ tay súng rất chắc, nhà thiện xạ
+- thật, xác thật
+=to be sure she is not pretty
++ thật ra mà nói, cô ta không xinh
+=so it is, to be sure!
++ đấy, thật là như thế!
+!to make sure
+- chắc chắn
+- nắm chắc, làm cho chắc chắn
+!show and sure
+- chậm mà chắc
+*  phó từ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chắc chắn
+=it sure was cold
++ chắc chắn là rét
+- (từ cổ,nghĩa cổ) tôi thừa nhận
+='tis pleasant, sure, to see one's name in print
++ tôi thừa nhận là thấy tên mình trên báo thì ai cũng thích
+!as sure as eggs is eggs
+!as sure as a gun
+- chắc như đinh đóng cột, chắc như hai với hai là bốn
+!for sure
+- chắc chắn
+!sure enough
+- (thông tục) chắc chắn, không còn nghi ngờ gì nữa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--mất hiệu lực
+-chắc
+-chắc chắn
+

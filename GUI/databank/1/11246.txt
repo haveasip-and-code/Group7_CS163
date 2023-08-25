@@ -1,36 +1,5 @@
-connector	
-@connector
-- (Tech) đầu nối dây, đầu kẹp, bộ nối, bộ liên kết
-@Chuyên ngành kỹ thuật
--bộ ghép
--bộ nối
--bộ nối cáp
--bộ nối có chốt
--bộ phận nối
--cầu nối
--đầu kẹp
--đầu nối
--kẹp
--kẹp nối
--khớp nối
--mối nối
--ống ghép nối
--ống nối
--phích cắm
--phích nối
-@Lĩnh vực: toán & tin
--bộ (phận) nối
--bộ kết nối
--cái nối
-@Lĩnh vực: xây dựng
--bộ phận liên kết
--cái đầu nối
--mối nối kết
-@Lĩnh vực: điện
--con nối
--đầu nối dây
-@Lĩnh vực: hóa học & vật liệu
--đầu dây nối
-@Lĩnh vực: ô tô
--giắc cắm
--giắc nối
+kenning
+	
+* danh từ
+- từ hoặc nhóm từ ẩn dụ (dùng trong (thơ ca) của tiếng Anh cổ)
+

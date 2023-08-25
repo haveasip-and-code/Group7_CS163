@@ -1,5 +1,34 @@
-intercepter	
-@intercepter /,intə'septə/ (intercepter) /,intə'septə/
+when
+	
+*  phó từ
+- khi nào, hồi nào, lúc nào, bao giờ
+=when will you go?
++ khi nào anh sẽ đi?
+=he does not remember when he did it
++ nó không nhớ được nó làm cái đó hồi nào
+*  liên từ
+- khi, lúc, hồi
+=when I was a boy
++ khi tôi còn bé
+=when at school
++ hồi còn đi học
+- trong khi mà, một khi mà
+=he is playing when he should be studying
++ nó cứ nô đùa trong khi đáng lý ra nó phi học
+*  đại từ
+- khi (lúc, hồi) mà, mà
+=now is the time when you must work
++ bây giờ đ  đến lúc mà anh phi làm việc
+=do you remeber the day when I met you the first time?
++ anh có nhớ cái hôm mà tôi gặp anh lần đầu không?
+- khi đó, lúc đó, hồi đó; khi nào, hồi nào, bao giờ
+=till when?
++ cho đến bao giờ?
 *  danh từ
-- người chặn, cái chắn
-- (quân sự), không máy bay đánh chặn (để chặn máy bay địch)
+- lúc, thời gian, ngày tháng
+=the when and the where
++ thời gian và địa điểm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khi
+

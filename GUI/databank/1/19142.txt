@@ -1,4 +1,34 @@
-esthesis	
-@esthesis
-* danh từ
-- khả năng cảm giác
+tray
+	
+*  danh từ
+- khay, mâm
+- ngăn hòm
+@Chuyên ngành kinh tế
+-bàn nâng
+-chậu
+-khay
+-khay (đựng thư tín, giấy tờ...trong văn phòng...)
+-khay đựng (thư tín, giấy tờ...trong văn phòng)
+-khay nâng
+-mâm
+-máng
+-thùng
+-xếp vào thùng
+@Chuyên ngành kỹ thuật
+-bàn xoa
+-đĩa
+-khay
+-mâm
+-máng
+-phễu
+-tấm đáy
+-xẻng
+@Lĩnh vực: vật lý
+-chậu rửa ản
+-chậu thuốc hiện hình
+-khay rửa ảnh
+@Lĩnh vực: điện
+-đĩa (tuabin)
+@Lĩnh vực: xây dựng
+-thùng (thí nghiệm)
+

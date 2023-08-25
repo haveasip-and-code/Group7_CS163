@@ -1,3 +1,139 @@
-horizontal	
-@horizontal
-- (thuộc) đường chân trời, nằm ngang
+rate
+	
+*  danh từ
+- tỷ lệ
+- tốc độ
+=at the rate of ten kilometres an hour
++ tốc độ mười kilômét một giờ
+=rate of fire
++ (quân sự) tốc độ bắn
+=rate of climb
++ (hàng không) tốc độ bay lên
+=rate of chemical reaction
++ tốc độ phản ứng hoá học
+=rate of radioactive decay
++ tốc độ phân ra phóng xạ
+- giá, suất, mức (lương...)
+=rate of exchange
++ giá hối đoái, tỉ giá hối đoái
+=special rates
++ giá đặc biệt
+=to live at a high rate
++ sống mức cao
+=rate of living
++ mức sống
+- thuế địa phương
+- hạng, loại
+=first rate
++ loại một, hạng nhất
+- sự đánh giá, sự ước lượng
+=to value something at a low rate
++ đánh giá thấp cái gì
+- (từ Mỹ,nghĩa Mỹ) sự sắp hạng (học sinh)
+- (kỹ thuật) sự tiêu thụ (nước)
+!at an easy rate
+- rẻ, với giá phải chăng
+- dễ dàng, không khó khăn gì
+=to win success at on easy rate
++ thắng lợi dễ dàng
+!at any rate
+- dù sao đi nữa, trong bất cứ trường hợp nào
+!at this (that) rate
+- nếu thế, nếu như vậy; trong trường hợp như vậy
+*  ngoại động từ
+- đánh gia, ước lượng, ước tính; định giá
+=to rate somebody too high
++ đánh giá ai quá cao
+=the copper coinage is rated much above its real value
++ tiền đồng được định giá cao hơn giá trị của nó nhiều
+- coi, xem như
+=he was rated the best poet of his time
++ ông ta được coi la nhà thơ lớn nhất đương thời
+- đánh thuế; định giá để đánh thuế
+=what is this imported bicycle rated at?
++ cái xe đạp nhập khẩu này đánh thuế bao nhiêu?
+- xếp loại (tàu xe...)
+- (từ Mỹ,nghĩa Mỹ) sắp hạng (học sinh)
+*  nội động từ
+- được coi như, được xem như, được xếp loại
+!to rate up
+- bắt phải trả một số tiền bảo hiểm cao hơn
+*  động từ
+- mắng mỏ, xỉ vả, mắng nhiếc tàn tệ
+*  ngoại động từ & nội động từ
+- (như) ret
+@Chuyên ngành kinh tế
+-chủng loại
+-coi như
+-cường độ
+-đánh giá
+-định đẳng cấp cho
+-định giá
+-định giá để tính thuế
+-định thuế suất
+-đơn giá (hàng hóa hay dịch vụ) thuế địa phương
+-giá
+-giá cước
+-giá đơn vị
+-hạng
+-hạng, loại, bậc, đẳng cấp
+-lập giá
+-loại bậc
+-mức
+-mức độ
+-mức giá
+-nhịp
+-phí suất
+-quy định tính mức thuế địa phương cho
+-suất
+-suất phí bảo hiểm
+-suất, mức
+-thuế địa phương
+-tính giá
+-tính mức thuế
+-tính thuế
+-tốc độ
+-tốc suất
+-tỷ lệ
+-tỷ suất
+-xem như
+-xếp hạng
+-xếp loại
+@Chuyên ngành kỹ thuật
+-chế độ
+-chỉ tiêu
+-đánh giá
+-định giá
+-định mức
+-đơn giá
+-giá
+-giá thành
+-hạng
+-hệ số
+-loại
+-lượng tiêu thụ
+-năng suất
+-mức
+-mức độ
+-sự tiêu thụ (nước)
+-suất
+-tần suất
+-tiến độ
+-tiêu chuẩn
+-ước lượng
+-vận tốc
+-xác định kích thước
+@Lĩnh vực: cơ khí & công trình
+-giá cước
+-ước lượng...
+@Lĩnh vực: điện lạnh
+-giá đơn vị
+@Lĩnh vực: hóa học & vật liệu
+-suất, hạng
+@Lĩnh vực: đo lường & điều khiển
+-tỷ lệ (tương đối)
+@Lĩnh vực: y học
+-tỷ số, tỷ lệ, tỷ suất, tốc độ
+@Lĩnh vực: xây dựng
+-tỷ suất
+

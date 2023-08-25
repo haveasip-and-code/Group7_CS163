@@ -1,6 +1,50 @@
-premolar	@premolar
-* danh từ
-- răng tiền hàm
+group
+	
+*  danh từ
+- nhóm
+=to lean in groups
++ học nhóm
+=to from a group
++ họp lại thành nhóm
+=atomic group
++ (vật lý) nhóm nguyên tử
+=group of algebras
++ (toán học) nhóm các đại số
+=blood group
++ (y học) nhóm máu
+- (hoá học) nhóm, gốc
+*  động từ
+- hợp thành nhóm; tập hợp lại
+=people grouped [themselves] round the speaker
++ mọi người tập họp lại xung quanh diễn giả
+- phân loại, phân loại, phân hạng, phân phối theo nhóm
+- (nghệ thuật) tạo nên sự hoà hợp màu sắc
+@Chuyên ngành kinh tế
+-đoàn thể
+-nhóm
+-nhóm loại
+-quần thể
+-tập đoàn (công ty)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tiền hàm
+-bó
+-bộ
+-chùm
+-đội
+-giàn
+-họ
+-lập nhóm
+-loạt
+-nhóm sơ cấp
+-sự ghép nối
+-tập
+@Lĩnh vực: cơ khí & công trình
+-hợp thành nhóm
+-kết lại
+@Lĩnh vực: điện tử & viễn thông
+-nhóm đường truyền
+-nhóm mạch thoại
+@Lĩnh vực: điện
+-phân nhóm
+@Lĩnh vực: toán & tin
+-xếp nhóm
+

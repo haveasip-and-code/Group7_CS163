@@ -1,0 +1,3 @@
+submachine gun
+A class of firearm that is intented for fully automatic firing and chambers pistol ammunitions. In some sense it is basically a pistol with full auto capability. ; It is generally used in close combat where accuracy is less important than rate of fire. The usage of pistol ammunitions means lower recoil than conventional rifles, thus enabling it to be fired at high rate, but it also means it has less stopping power and a shorter effective range. ; (note: civilian SMGs are often converted that so they are only capable of semi-auto fire.) ; Do not confuse it with assault rifle. An assault rifle is technically a cross between a conventional rifle and a SMG.
+

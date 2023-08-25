@@ -1,13 +1,14 @@
-contouring	
-@contouring
-- (Tech) định ngoại hình, định đường đồng mức
+ampere
+	
+*  danh từ
+- (điện học) Ampere
+=absolate ampere
++ ampe tuyệt đối
+=legal ampere
++ ampe hợp pháp
+=international ampere
++ ampe quốc tế
 @Chuyên ngành kỹ thuật
--đường bao
--đường đồng mức
--đường khoanh
--đường viền
-@Lĩnh vực: xây dựng
--hình bao quanh
-@Lĩnh vực: toán & tin
--sự tạo chu tuyến
--sự tạo đường viền
+@Lĩnh vực: điện
+-ampe
+

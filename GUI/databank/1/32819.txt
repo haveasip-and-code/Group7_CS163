@@ -1,3 +1,5 @@
-loved	@loved
+codable
+	
 * tính từ
-- thân ái; yêu quý
+- có thể mã hoá
+

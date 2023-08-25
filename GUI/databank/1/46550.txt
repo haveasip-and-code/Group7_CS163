@@ -1,2 +1,14 @@
-rejector	@Chuyên ngành kỹ thuật
--bộ loại trừ
+ancillary
+	
+*  tính từ
+- phụ thuộc, lệ thuộc
+@Chuyên ngành kỹ thuật
+-phụ
+-phụ thuộc
+@Lĩnh vực: xây dựng
+-cụm nhà phụ
+@Lĩnh vực: điện
+-phụ trơ
+@Lĩnh vực: cơ khí & công trình
+-thứ cấp
+

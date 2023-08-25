@@ -1,7 +1,6 @@
-magnetosphere	@magnetosphere
-* danh từ
-- quyển từ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--từ quyền
--từ quyển
+icehouse
+	
+-buồng lạnh
+@Lĩnh vực: điện lạnh
+-nhà ướp lạnh
+

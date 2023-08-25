@@ -1,3 +1,17 @@
-taupe	@taupe
-* tính từ hoặc danh từ
-- màu nâu sẫm
+grower
+	
+*  danh từ
+- người trồng
+- cây trồng
+=a rapid grower
++ cây lớn nhanh
+=a slow grower
++ cây mọc chậm
+@Chuyên ngành kinh tế
+-cây trồng
+-người trồng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-rông đen vênh
+-vòng đệm vênh
+

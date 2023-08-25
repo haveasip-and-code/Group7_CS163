@@ -1,7 +1,5 @@
-embitterment	
-@embitterment /im'bitəmənt/
-*  danh từ
-- sự làm đắng
-- sự làm cay đắng, sự làm chua xót; sự làm đau lòng
-- sự làm quyết liệt, sự làm gay gắt; sự làm sâu sắc (lòng căm thù...)
-- sự làm bực tức (ai)
+subprocess
+	
+@Lĩnh vực: xây dựng
+-quá trình con
+

@@ -1,11 +1,10 @@
-barbican	
-@barbican /'bɑ:bikən/
-*  danh từ
-- thành ngoài, luỹ ngoài (của một toà lâu đài, một thành phố...)
-- tháp xây trên cống, tháp xây trên cầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thành lũy ngoài
--thành ngoài, lũy ngoài (lâu đài, thành phố)
--tháp trên cầu
--tháp trên cổng
+unspent
+	
+*  tính từ
+- không tiêu đến; chưa dùng
+- chưa cạn, chưa hết
+@Chuyên ngành kinh tế
+-chưa chi tiêu
+-số tiền chưa chi tiêu
+-vẫn còn
+

@@ -1,0 +1,3 @@
+BSP
+Binary Space Paritioning. ; it is a form of space partitioning that essentially divides the world in half every recursion, used extensively in old videogames, most id games after doom used bsp, whether or not Doom III did, i do not know. Not very popular in the amatuer game programming world, instead oct-tree's are generally used.
+

@@ -1,34 +1,7 @@
-mate	@mate /meit/
-*  danh từ
-- (đánh cờ) nước chiếu tướng
-*  ngoại động từ
-- (đánh cờ) chiếu tướng cho bí
-*  danh từ
-- bạn, bạn nghề
-- con đực, con cái (trong đôi chim...); vợ, chồng; bạn đời
-- người phụ việc, người giúp việc, người trợ lực
-- (hàng hải) phó thuyền trưởng (thuyền buôn)
-*  động từ
-- kết bạn với, kết đôi với; lấy nhau
-- phủ chim, gà
-- sống cùng, chơi cùng, đi cùng, ở cùng
-@Chuyên ngành kinh tế
--Chè Paraguay
-@Chuyên ngành kinh tế
--bạn đồng nghiệp
--bạn nghề
--hạm phó
--phó
--phó thuyền trưởng (tàu buôn)
--thuyền phó
--viên thuyền phó
-@Chuyên ngành kỹ thuật
--đối tiếp
--đồng nghiệp
--khóa chuyền
--khớp nhau
--liên hợp
--liên kết
--móc nối
--rà
--vào khớp
+educable
+	
+*  tính từ
+- có thể giáo dục được
+- có thể dạy được (súc vật...)
+- có thể rèn luyện được (kỹ năng...)
+

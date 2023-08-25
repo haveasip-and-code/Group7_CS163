@@ -1,135 +1,37 @@
-charge	
-@charge /tʃɑ:dʤ/
+rider
+	
 *  danh từ
-- vật mang, vật chở, vật gánh; gánh nặng ((nghĩa đen) & (nghĩa bóng))=to be a charge on someone
-+ là gánh nặng cho ai, để cho ai phải nuôi nấng
-- số đạn nạp, số thuốc nạp (vào súng); điện tích (nạp vào ắc quy); sự nạp điện, sự tích điện
-- tiền phải trả, giá tiền, tiền công, tiền thù lao=free of charge
-+ không phải trả tiền=no charge for admission
-+ vào cửa không mất tiền=list of charges
-+ bảng giá (tiền)
-- sự gánh vác (một khoản phí tổn, mọi sự chi phí)=to do something at one's own charge
-+ làm việc gì phải gánh vác lấy mọi khoản chi phí
-- nhiệm vụ, bổn phận, trách nhiệm
-- sự trông nom, sự coi sóc=to be in charge of somebody
-+ phải trông nom ai
-- người được giao cho trông nom, vật được giao cho trông nom
-- (tôn giáo) những con chiên của cha cố=to take charge of something; to take something in charge
-+ chịu trách nhiệm trông nom cái gì=to give somebody charge over
-+ giao phó cho ai trông nom (cái gì); giao trách nhiệm cho ai
-- mệnh lệnh, huấn thị, chỉ thị=parting charge
-+ những lời huấn thị cuối cùng
-- lời buộc tội; sự buộc tội=to bring (lay) a charge against somebody
-+ buộc tội ai
-- cuộc tấn công dữ dội, cuộc đột kích ồ ạt=bayonet charge
-+ cuộc tấn công bằng lưỡi lê
-- (quân sự) hiệu lệnh đột kích!in charge
-- phụ trách, trưởng, đứng đầu; thường trực, trực=the officer in charge
-+ sĩ quan chỉ huy, sĩ quan thường trực!to give someone in charge
-- (quân sự) lại tấn công
-- lại tranh luận!to take charge
-- đảm đương, chịu trách nhiệm
-- bị buông lơi, bị buông lỏng, không ai điều khiển=streering
--wheel takes charge
-+ tay lái bị buông lỏng không ai cầm!to take in charge
-- bắt, bắt giam
-*  ngoại động từ
-- nạp đạn, nạp thuốc (vào súng); nạp điện
-- (nghĩa bóng) tọng vào, nhồi nhét=to charge a gun
-+ nạp đạn vào súng=to charge a battery
-+ nạp điện ắc quy=to charge one's memory with figures
-+ nhồi nhét vào trí nhớ toàn những con số
-- tính giá, đòi trả=how much do you charge for mending this pair of shoes?
-+ vá đôi giày này ông tính bao nhiêu?
-- tính vào, bắt phải chịu phí tổn, bắt phải gánh vác; ghi sổ (nợ)=please charge these goods to me
-+ làm ơn ghi sổ những món hàng này cho tôi
-- giao nhiệm vụ, giao việc=to be charged with an important mission
-+ được giao một sứ mệnh quan trọng
-- buộc tội=to be charged with murder
-+ bị buộc tội giết người
-- tấn công, đột kích=to charge the enemy
-+ tấn công quân địch
-- bắc (súng...) đặt ngang (ngọn giáo...)
-- tấn công=our guerillas charged again and again
-+ du kích của chúng ta tấn công liên tục!to charge down upon
-- đâm bổ vào, nhảy xổ vào
+- người cưỡi ngựa; người cưỡi ngựa giỏi; người biểu diễn môn cưỡi ngựa (trong một đoàn xiếc); người dô kề (cưỡi ngựa đua)
+=he is no rider
++ anh ấy không phải là tay cưỡi ngựa giỏi
+- người đi xe (xe buýt, xe điện, xe lửa...); người đi xe đạp
+- (số nhiều) (hàng hải) nẹp (bằng gỗ, sắt đóng thêm vào sườn thuyền, tàu cho chắc thêm)
+- phần phụ lục (văn kiện); điều khoản thêm vào (dự luật)
+- (toán học) bài toán ứng dụng (một định lý...)
+- bộ phận hố (lên bộ phận khác), bộ phận bắc ngang (qua những bộ phận khác trong máy...)
+- con mã (cân bàn)
 @Chuyên ngành kinh tế
--bảo chứng
--chi phí
--chịu trách nhiệm
--đòi trả
--ghi (khoản tiền thiếu) vào sổ
--giá tiền
--khoản vay
--lệ phí
--một khoản nợ
--phí
--phí tổn
--sự chuyển
--sự mang
--sự nạp
--thu (một số tiền như là giá phải trả)
--tiền công
--tiền phải trả
--tiền thù lao
--tính giá
--vật cầm cố
--vật đợ nợ
--vật thế chấp
+-bố ước
+-điều khoản bổ sung
+-điều khoản phụ
+-lưới
+-phụ đính
+-phụ kiện
+-phụ lục
+-rây
+-sàng
+-tờ giáp lai
+-tờ nối thêm
+-văn bản bổ sung
+-văn bản phụ
+-văn bản sửa đổi hợp đồng (về bảo hiểm)
+-văn kiện bổ sung
+-văn kiện phụ
+-ý kiến thêm
 @Chuyên ngành kỹ thuật
--chất tải
--chất thải
--chi phí
--cước phí
--đá phiến
--đặt
--đặt tải
--điện lượng
--diện tích
--điện tích
--giá thành
--liều thuốc (nổ)
--nạp
--nạp (điện)
--nạp điện
--nạp điện vào bình
--nạp liệu
--nạp mìn
--máy chất liệu
--mẻ liệu
--phí
--phí tổn
--phủ (bột mài)
--phụ tải
--sự chất tải
--sự đặt tải
--sự hạ xuống
--sự nạp liệu
--sự nạp mìn
--tải
--thiết bị chất tải
--thuốc nổ
-@Lĩnh vực: y học
--điện tích, sự nạp điện
-@Lĩnh vực: điện
--độ nạp
 @Lĩnh vực: toán & tin
--giá tiền phí tổn
--tiền phải trả
--tính giá
-@Lĩnh vực: giao thông & vận tải
--khoản tiền phải trả
--lệ phí
-@Lĩnh vực: xây dựng
--liệu (lò)
--sự trồng
--thiết bị chất liệu
--tổ máy nạp điện
-@Lĩnh vực: điện tử & viễn thông
--phí cuộc gọi
--tạo gáng
--tính cước (điện thoại)
-@Lĩnh vực: điện lạnh
--sự nạp điện
--sự tích điện
--tích (điện)
+-bài toán bổ trợ (ứng dụng)
+-định lý bổ trợ
+@Lĩnh vực: vật lý
+-con chạy (ở đòn cân)
+

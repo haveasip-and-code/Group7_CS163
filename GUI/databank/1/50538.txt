@@ -1,39 +1,5 @@
-shrinkage	@shrinkage /'ʃriɳkidʤ/
-*  danh từ
-- sự co lại (của vải...)
-- sự hụt cân (của súc vật từ khi chuyên chở đến khi giết thịt)
-- số lượng co
-- số cân hụt
-@Chuyên ngành kinh tế
--co rút (của vải)
--co rút (của) vải
--phần co lại
--sự giảm giá trị
--sự rút lại
--sự thu rút
--tuột giá
-@Chuyên ngành kỹ thuật
--co ngót
--độ co
--độ co ngót
--độ lún
--độ sụt
--dung sai co ngót
--lượng co
--rút lại
--sự co
--sự co lại
--sự co ngót
--sự dúm
--sự dúm lại
--sự nén
--sự rút lại
--sự thu hẹp
--sự vênh
-@Lĩnh vực: hóa học & vật liệu
--co lại
-@Lĩnh vực: cơ khí & công trình
--mức độ ép (khí cán)
--sự nứt co
-@Lĩnh vực: điện lạnh
--sự co hình
+manipulatory
+	
+* tính từ
+- xem manipulative
+

@@ -1,3 +1,31 @@
-procarp	@procarp
-* danh từ
-- (thực vật học) thể quả cái
+expand
+	
+*  động từ
+- mở rộng, trải ra
+- nở ra, phồng ra, giãn
+- (toán học) khai triển
+- phát triển (một vấn đề...)
+- trở nên cởi mở
+@Chuyên ngành kỹ thuật
+-giãn
+-giãn ra
+-khai triển
+-nở
+-mở rộng
+-phát triển
+-phình ra
+-trương
+@Lĩnh vực: xây dựng
+-trương phình
+@Chuyên ngành kỹ thuật
+-giãn
+-giãn ra
+-khai triển
+-nở
+-mở rộng
+-phát triển
+-phình ra
+-trương
+@Lĩnh vực: xây dựng
+-trương phình
+

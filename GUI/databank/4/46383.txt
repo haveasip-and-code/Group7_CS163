@@ -1,0 +1,3 @@
+public static void main(String[] args){
+The most annoying line a beginner Java programmer has to type in each one of their programs. This is also the line where most n00bish typos appear.
+

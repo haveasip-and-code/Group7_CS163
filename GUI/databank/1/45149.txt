@@ -1,8 +1,5 @@
-quenching	@quenching
-* danh từ
-- sự tôi; sự dập tắt
-@Chuyên ngành kỹ thuật
--sự dập tắt
--sự tôi chất dẻo
-@Lĩnh vực: xây dựng
--sự tôi (kim loại)
+myosin
+	
+@Lĩnh vực: y học
+-protein có nhiều trong các sợi nguyên cơ, có tính chất quan trọng về đàn hồi và co thắt
+

@@ -1,7 +1,17 @@
-glossina	
-@glossina
-* danh từ
-- (động vật) ruồi xê xê (Phi châu)
+simulate
+	
+*  ngoại động từ
+- giả vờ, giả cách
+=to simulate indignation
++ giả vờ căm phẫn
+- đóng vai
+=actor simulates king
++ diễn viên đóng vai vua
+- đội lốt; bắt chước; dựa theo
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ruồi Glossina
+-bắt chước
+-mô phỏng
+@Lĩnh vực: cơ khí & công trình
+-mô hình hóa
+-phỏng tạo
+

@@ -1,6 +1,26 @@
-beau	
-@beau /bou/
-*  (bất qui tắc) danh từ,  số nhiều beaux
-- người đàn ông ăn diện
-- người hay tán gái; anh chàng nịnh đầm
-- người theo đuổi (một người con gái)
+livery
+	
+*  tính từ
+- có màu gan
+- mắc bệnh gan, đau gan
+- cáu kỉnh, dễ phật ý
+*  danh từ
+- chế phục (quần áo của người hầu các nhà quyền quý)
+=to be in livery
++ mặc chế phục
+=to be out of livery
++ không mặc chế phục
+=livery servant
++ đầy tớ mặc chế phục
+- tư cách hội viên phường hội của Luân
+-ddôn
+=livery company
++ phường hội của Luân
+-ddôn
+- tiền (để) mua cỏ cho ngựa
+- (pháp lý) sự cho chiếm hữu
+@Chuyên ngành kinh tế
+-phường hội của Luân Đôn
+-sự cho chiếm hữu
+-tư cách hội viên
+

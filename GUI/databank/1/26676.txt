@@ -1,4 +1,52 @@
-hyperbolical	
-@hyperbolical /,haipə:'bɔlikəl/
+skew
+	
 *  tính từ
-- (văn học) ngoa dụ
+- nghiêng, xiên
+=skew line
++ đường xiên
+- (toán học) ghềnh
+=skew curve
++ đường ghềnh;
+=skew ruled surface
++ mặt kẻ ghềnh
+- (toán học) đối xứng lệch
+=skew determinant
++ định thức đối xứng lệch
+*  danh từ
+- mặt nghiêng, phần nghiêng; mặt nghiêng của mái đầu hồi; phần nghiêng ở đầu trụ
+- gạch đá gá ở đầu hồi
+*  nội động từ
+- đi nghiêng, đi xiên
+- (tiếng địa phương) liếc nhìn
+*  ngoại động từ
+- làm nghiêng đi, làm xiên đi
+- bóp méo, xuyên tạc
+@Chuyên ngành kinh tế
+-độ nghiêng
+-hệ số bất đối xứng
+@Chuyên ngành kỹ thuật
+-chéo
+-độ lệch
+-ghềnh
+-góc nghiêng
+-hướng nghiêng
+-không đối xứng
+-lệch
+-nghiêng
+-mặt nghiêng
+-méo, xiên
+-sự nghiêng
+-vặn
+-xiên
+@Lĩnh vực: y học
+-bất xứng
+@Lĩnh vực: cơ khí & công trình
+-bện (dây cáp)
+-tiếp tuyến (báng răng công hoặc bánh răng hypôit)
+-xoắn (bánh răng trụ)
+@Lĩnh vực: toán & tin
+-đối xứng lệch
+-phần nghiêng
+@Lĩnh vực: giao thông & vận tải
+-trệch (khỏi phương của bán kính đường cong)
+

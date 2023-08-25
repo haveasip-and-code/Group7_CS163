@@ -1,28 +1,9 @@
-winch	@winch /wint /
-*  danh từ
-- (kỹ thuật) tời
-- (thể dục,thể thao) ống cuộn dây câu
+quantize
+	
 *  ngoại động từ
-- kéo bằng tời
-@Chuyên ngành kinh tế
--cái tời (của tàu)
--máy kéo hàng
--máy kéo hàng, cái tời
+- (vật lý) lượng tử hoá
 @Chuyên ngành kỹ thuật
--bàn tời
--dụng cụ kích
--guồn sợi
--kéo bằng tời
--kích nâng
--nâng bằng tời
--ống cuộn dây câu
--trục cuộn
--trục kéo
-@Lĩnh vực: cơ khí & công trình
--bộ cuốn cáp
-@Lĩnh vực: ô tô
--bộ quấn tời (cáp)
-@Lĩnh vực: hóa học & vật liệu
--bộ tời, cái tời
-@Lĩnh vực: điện lạnh
--tời (quay tay)
+-số hóa
+@Lĩnh vực: toán & tin
+-lượng tử hóa
+

@@ -1,5 +1,14 @@
-dowse	
-@dowse /daus/
-*  ngoại động từ,  (như) douse
-*  nội động từ
-- tìm mạch nước, tìm mạch mỏ (bằng que thăm dò mạch)
+thermocouple
+	
+@Lĩnh vực: xây dựng
+-bộ nhiệt điện
+@Lĩnh vực: điện
+-cặp nhiệt
+-cặp nhiệt (điện)
+@Lĩnh vực: ô tô
+-cặp nhiệt điện (để đo nhiệt độ)
+@Lĩnh vực: đo lường & điều khiển
+-ống đo nhiệt
+@Lĩnh vực: điện lạnh
+-phần tử nhiệt điện
+

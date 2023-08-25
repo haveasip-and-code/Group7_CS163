@@ -1,11 +1,5 @@
-deviate	
-@deviate /'di:vieit/
-*  nội động từ
-- trệch, lệch, trệch hướng; (nghĩa bóng) sai đường, lạc đường, lạc lối, xa rời=to deviate from the direction
-+ trệch hướng=to deviate from one's way
-+ lạc đường=to deviate from the truth
-+ xa rời chân lý
-@Chuyên ngành kỹ thuật
--độ lệch
--lệch
--lệch hướng
+subdean
+	
+* danh từ
+- phó chủ nhiệm khoa
+

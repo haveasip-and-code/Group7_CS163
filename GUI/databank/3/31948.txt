@@ -1,0 +1,3 @@
+trochometer
+A contrivance for computing the revolutions of a wheel; an odometer.
+

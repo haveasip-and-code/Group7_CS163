@@ -1,12 +1,36 @@
-edged	
-@edged /edʤ/
-*  tính từ
-- sắc
-- có lưỡi
-- có viền (áo...), có bờ, có gờ, có cạnh, có rìa, có lề
+rebate
+	
+*  danh từ
+- việc hạ giá, việc giảm bớt (số tiền trả)
+- số tiền được hạ, số tiền được giảm bớt
+*  ngoại động từ
+- (từ cổ,nghĩa cổ) làm giảm bớt (sức mạnh, hiệu lực của một việc gì)
+- làm cùn (lưỡi dao)
+*  danh từ & ngoại động từ
+- (như) rabbet
+@Chuyên ngành kinh tế
+-bớt cước phí
+-bớt giá
+-bớt nợ
+-chiết khấu
+-giảm cước
+-giảm giá
+-hồi khấu
+-sự bớt giá
+-sự bớt giảm
+-tiền bo
+-tiền bớt
+-tiền chiết khấu
 @Chuyên ngành kỹ thuật
--có gờ
--có lề
--sắc
+-bào xoi
+-nếp gấp
+-rãnh
+-sự giảm
+-sự hạ giá
+-ván cừ
+-xẻ rãnh
+-xoi mộng
+-xoi rãnh
 @Lĩnh vực: hóa học & vật liệu
--có viền
+-tiền giảm
+

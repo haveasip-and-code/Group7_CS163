@@ -1,29 +1,5 @@
-leather	@leather /'leðə/
-*  danh từ
-- da thuộc
-- đồ da, vật làm bằng da thuộc
-- dây da
-- (số nhiều) quần cộc
-- (số nhiều) xà cạp bằng da
-- (từ lóng) quả bóng đá; quả bóng crickê
-- (từ lóng) da
-=to lose leather+ bị tróc da
-!American leather
-- vải sơn, vải dầu
-!leather and prunella
-- sự khác nhau về quần áo, sự khác nhau về bề ngoài
-![there is] nothing like leather
-- chỉ có cái của mình mới tốt; chỉ có hàng của mình mới tốt
-*  ngoại động từ
-- bọc bằng da
-- (từ lóng) quật, đánh, vụt (bằng roi da)
-@Chuyên ngành kỹ thuật
--da
-@Lĩnh vực: hóa học & vật liệu
--đồ bằng da
--làm từ da, thuộc da
-@Chuyên ngành kỹ thuật
--da
-@Lĩnh vực: hóa học & vật liệu
--đồ bằng da
--làm từ da, thuộc da
+societal
+	
+* tính từ
+- thuộc xã hội
+

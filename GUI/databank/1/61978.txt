@@ -1,11 +1,7 @@
-visitor	@visitor /'vizitə/
-*  danh từ
-- khách, người đến thăm
-=visitors' book+ sổ (ghi tên, địa chỉ của) khách
-- người thanh tra, người kiểm tra (trường học...)
-@Chuyên ngành kinh tế
--khách viếng
--người đến tham quan
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khách thăm
+passband
+	
+-dải thông
+@Lĩnh vực: điện tử & viễn thông
+-dải thông bộ lọc
+-dải truyền qua
+

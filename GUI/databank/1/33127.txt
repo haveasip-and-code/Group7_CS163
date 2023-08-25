@@ -1,12 +1,8 @@
-macro	@macro
-- lớn, khổng lồ (về kích thước, khả năng...)
+antimatter
+	
 * danh từ
-- <tin> một lệnh đơn độc, dùng trong chương trình máy tính, thay thế cho một chuỗi các lệnh hoặc phím gõ
+- phản vật chất
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--macro
--macrô
--vĩ lệnh
--vĩ mô
-@Lĩnh vực: xây dựng
--vĩ (đơn) lệnh
+@Lĩnh vực: vật lý
+-phản (vật) chất
+

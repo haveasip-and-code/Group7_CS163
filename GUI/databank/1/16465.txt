@@ -1,4 +1,37 @@
-dominium	
-@dominium
-* danh từ
-- (pháp luật) quyền sở hữu tuyệt đối
+receipt
+	
+*  danh từ
+- công thức (làm bánh, nấu món ăn...)
+=a receipt for cake
++ công thức làm bánh ngọt
+- đơn thuốc
+- sự nhận được (thơ...)
+=on receipt of your letter
++ khi nhận được thơ ông
+=to acknowledge receipt of...
++ báo đã nhận được...
+- ((thường) số nhiều) (thương nghiệp); (tài chính) sự thu; số thu
+=receipts and expenses
++ số thu và số chi
+- giấy biên nhận, biên lai (nhận tiền...)
+*  ngoại động từ
+- ký nhận số tiền đã trả (trên một biên lại, hoá đơn); đóng dấu nhận thực "đã trả" (trên một hoá đơn)
+@Chuyên ngành kinh tế
+-biên lai
+-biên nhận
+-công thức
+-giấy báo nhận
+-giấy biên nhận
+-sự thu nhận
+-tiếp nhận (một cái gì đó)
+-việc nhận
+@Chuyên ngành kỹ thuật
+-biên lai
+-giấp biên nhận (tài liệu)
+-giấy biên nhận
+-sự thu nhận
+@Lĩnh vực: toán & tin
+-nhận tin
+-sự nhận, biên lai
+-sự thu
+

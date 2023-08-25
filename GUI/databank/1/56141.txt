@@ -1,4 +1,9 @@
-testiness	@testiness /'testinis/
-*  danh từ
-- tính hay hờn giận, tính hay giận dỗi, tính hay gắt
-- tính dễ bị động lòng, tính dễ bị phật ý
+contingencies
+	
+-các điều kiện ngẫu nhiên
+-các điều kiện tùy thuộc
+-sự cố bất ngờ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-các sự ngẫu nhiên
+

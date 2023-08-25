@@ -1,16 +1,18 @@
-neuter	@neuter /'nju:tə/
-*  tính từ
-- (ngôn ngữ học) trung, (thuộc) giống trung
-=neuter gender+ giống trung
-- (ngôn ngữ học) nội động (động từ)
-- (sinh vật học) vô tính
-- (thú y học) bị thiến, bị hoạn
-- trung lập
-=to stand neuter+ đứng trung lập, giữ thái độ trung lập
+foliation
+	
 *  danh từ
-- (ngôn ngữ học) từ trung tính (danh từ, đại từ...)
-- (ngôn ngữ học) nội động từ
-- (thực vật học) hoạ vô tính
-- (động vật học) sâu bọ vô tính; ong thợ, kiến thợ
-- (thú y học) súc vật bị thiến, súc vật bị hoạn
-- người trung lập; nước trung lập
+- sự chia ra thành lá mỏng
+- sự trang trí bằng hình lá
+- sự đánh số tờ sách
+@Chuyên ngành kỹ thuật
+-phân phiến
+-sự phân lớp
+-sự phân phiến
+-thớ lớp
+-tính phân phiến
+-xếp thành lá
+@Lĩnh vực: hóa học & vật liệu
+-phân lá
+@Lĩnh vực: xây dựng
+-tính phân lá
+

@@ -1,16 +1,16 @@
-invite	
-@invite /in'vait /
-*  ngoại động từ
-- mời
-- đem lại=carelessness invites accidentd
-+ sự cẩu thả thường đem lại tai nạn
-- lôi cuốn, hấp dẫn; gây hứng=a scenery which invites a painter's brush
-+ một cảnh gây hứng cho người nghệ sĩ
-*  nội động từ
-- đưa ra lời mời
-- lôi cuốn, hấp dẫn; gây hứng['invait]
-*  danh từ,  (thông tục)
-- sự mời; lời mời
-- giấy mời
-@Chuyên ngành kỹ thuật
--mời
+tenancy
+	
+*  danh từ
+- sự thuê, mướn (nhà, đất...), sự lĩnh canh
+=expiration of tenancy
++ sự mãn hạn thuê
+- thời gian thuê mướn, thời gian lĩnh canh
+=during his tenancy of the house
++ trong thời gian anh ta thuê nhà
+- nhà thuê, đất thuê mướn
+@Chuyên ngành kinh tế
+-hợp đồng cho thuê bất động sản
+-quyền hưởng dụng
+-sự thuê (nhà, đất ...)
+-thời gian thuê mướn
+

@@ -1,7 +1,9 @@
-classroom	
-@classroom
-* danh từ
-- phòng đọc
+calculable
+	
+*  tính từ
+- có thể đếm được, có thể tính được
 @Chuyên ngành kỹ thuật
--lớp học
--phòng học
+@Lĩnh vực: điện lạnh
+-khả tính
+-khả tính toán
+

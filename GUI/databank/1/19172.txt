@@ -1,16 +1,8 @@
-etalon	
-@etalon
-* danh từ
-- chuẩn; mẫu (đo lường)
+safranin
+	
+*  danh từ
+- (hoá học) Safranin
 @Chuyên ngành kỹ thuật
--chuẩn
--mẫu
--mẫu chuẩn
-@Lĩnh vực: vật lý
--chuẩn sơ cấp
-@Chuyên ngành kỹ thuật
--chuẩn
--mẫu
--mẫu chuẩn
-@Lĩnh vực: vật lý
--chuẩn sơ cấp
+@Lĩnh vực: y học
+-nhóm thuốc nhuộm kiềm tan trong nước và trong cồn
+

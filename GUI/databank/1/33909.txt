@@ -1,7 +1,6 @@
-materials	@Chuyên ngành kỹ thuật
--đất
--dữ kiện
--dữ liệu
--tài liệu
--vật liệu
--vật tư
+electroosmosis
+	
+-điện thẩm
+@Chuyên ngành kỹ thuật
+-điện thẩm
+

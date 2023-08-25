@@ -1,10 +1,8 @@
-scrip	@scrip /skrip/
-*  danh từ
-- (từ cổ,nghĩa cổ) cái túi (của người đi đường), cái bị (của ăn mày)
-- chứng khoán tạm thời
-@Chuyên ngành kinh tế
--chứng chỉ chứng khoán
--chứng khoán
--chứng khoán tạm thời
--chứng thư
--giấy chứng nhận (cổ phiếu) tạm thời
+marcher
+	
+* danh từ
+- người ở vùng biên giới
+* danh từgười diễu hành; người tuần hành
+= democracy marchers
++những người tuần hành đòi dân chủ
+

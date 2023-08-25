@@ -1,0 +1,3 @@
+tetrahexahedron
+A solid in the isometric system, bounded by twenty-four equal triangular faces, four corresponding to each face of the cube.
+

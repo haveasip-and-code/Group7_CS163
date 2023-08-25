@@ -1,4 +1,23 @@
-deoxidized	
+thermostat
+	
+*  danh từ
+- máy điều nhiệt
+@Chuyên ngành kinh tế
+-máy điều nhiệt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--đã khử oxi
+-bộ điều chỉnh nhiệt
+-bộ điều nhiệt
+-điều khiển nhiệt
+-máy điều nhiệt
+-rơle nhiệt
+-rơle nhiệt độ
+@Lĩnh vực: điện
+-bình ổn nhiệt
+@Lĩnh vực: xây dựng
+-bộ ổn định nhiệt
+@Lĩnh vực: ô tô
+-bộ ổn nhiệt
+-van hằng nhiệt
+@Lĩnh vực: y học
+-dụng cụ ổn nhiệt
+

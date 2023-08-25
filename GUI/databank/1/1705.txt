@@ -1,7 +1,43 @@
-although	
-@although /ɔ:l'ðou/
-*  liên từ
-- dẫu cho, mặc dù
+identification
+	
+*  danh từ
+- sự đồng nhất hoá, sự làm thành đồng nhất
+- sự nhận ra, sự nhận biết sự nhận diện; sự nhận dạng; nét để nhận ra, nét để nhận biết, nét để nhận diện, nét để nhận dạng (người nào, vật gì)
+- sự phát hiện ra, sự nhận diện ra
+=identification of enemy units
++ sự phát hiện ra những đơn vị địch
+- sự gắn bó chặt chẽ với; sự gia nhập, sự dự vào
+=identification with the party
++ sự gắn bó chặt chẽ với đảng
+=identification with the student movenment
++ sự gia nhập phong trào học sinh
+@Chuyên ngành kinh tế
+-chứng minh thư
+-giám định hàng hóa
+-giấy chứng minh nhân dân
+-phân loại
+-sự nhận ra
+-thẻ căn cước
+-xác nhận
 @Chuyên ngành kỹ thuật
+-đồng nhất hóa
+-nhận biết
+-nhận dạng
+-sự định nghĩa
+-sự nhận biết
+-sự nhận dạng
+-sự phát hiện
+-sự xác định
+@Lĩnh vực: toán & tin
+-định danh
+-phép đồng nhất
+-sự đồng nhất
+@Lĩnh vực: điện lạnh
+-sự định danh
 @Lĩnh vực: xây dựng
--mặc dù
+-sự đoán biết
+@Lĩnh vực: hóa học & vật liệu
+-sự đồng nhất hóa
+@Lĩnh vực: đo lường & điều khiển
+-sự nhận dạng chức năng truyền tải
+

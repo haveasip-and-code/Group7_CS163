@@ -1,19 +1,6 @@
-installment	
-@installment /in'stɔ:lmənt/ (installment) /in'stɔ:lmənt/
-*  danh từ
-- phần trả mỗi lần (của một số tiền); phần cung cấp mỗi lần, phần đăng (báo...) mỗi lần=to pay for a bicycle by instalments
-+ trả tiền mua một chiếc xe đạp làm nhiều lần=a short story in three instalments
-+ một truyện ngắn đăng làm ba kỳ
-@Chuyên ngành kinh tế
--lần trả
--phần trả mỗi lần
--sự trả góp
--sự trả làm nhiều kỳ
--tiền trả góp
-@Chuyên ngành kỹ thuật
--trả tiền ngay
-@Lĩnh vực: hóa học & vật liệu
--khoản trả mỗi lần
--phần trả mỗi lần
-@Lĩnh vực: toán & tin
--sản xuất kịp thời
+wiredrew
+	
+*  ngoại động từ wiredrew; wiredrawn
+- (kỹ thuật) kéo (kim loại) thành sợi
+- (nghĩa bóng) gọt giũa quá tỉ mỉ (văn chưng, nghị luận); chẻ sợi tóc làm tư
+

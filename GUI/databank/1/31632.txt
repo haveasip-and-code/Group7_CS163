@@ -1,21 +1,6 @@
-latticed	@latticed /'lætist/
-*  tính từ
-- thành rào mắt cáo, thành lưới mắt cáo; có rào mắt cáo, có lưới mắt cáo
-@Chuyên ngành kỹ thuật
--dạng giàn
--dạng lưới
--dạng mạng
--mạng lưới
-@Lĩnh vực: xây dựng
--có mắt cáo
--hình giát
--hình mắt cáo
-@Chuyên ngành kỹ thuật
--dạng giàn
--dạng lưới
--dạng mạng
--mạng lưới
-@Lĩnh vực: xây dựng
--có mắt cáo
--hình giát
--hình mắt cáo
+coalification
+	
+-cacbon hóa
+@Lĩnh vực: hóa học & vật liệu
+-hóa than
+

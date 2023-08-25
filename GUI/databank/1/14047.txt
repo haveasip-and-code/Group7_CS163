@@ -1,8 +1,7 @@
-defibrillation	
-@defibrillation
-* danh từ
-- sự khử rung tim
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự khử rung
--sự tách sợi
+revisal
+	
+*  danh từ
+- bản in thử lần thứ hai
+=second revisal
++ bản in thử lần thứ ba
+

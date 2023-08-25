@@ -1,8 +1,4 @@
-rotameter	@rotameter
-* danh từ
-- lưu lượng kế kiểu phao
-@Chuyên ngành kinh tế
--lưu lượng kế kiểu con quay
-@Chuyên ngành kỹ thuật
--lưu lượng kế kiểu phao
--lưu lượng kế phao
+embellisher
+	
+- xem embellish
+

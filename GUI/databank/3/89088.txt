@@ -1,0 +1,3 @@
+microbarograph
+An instrument for recording minor fluctuations of atmospheric pressure, as opposed to general barometric surges.
+

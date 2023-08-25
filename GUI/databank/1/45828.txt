@@ -1,9 +1,61 @@
-reassure	@reassure /,ri:ə'ʃuə/
-*  ngoại động từ
-- cam đoan một lần nữa, đoan chắc một lần nữa
-- bảo hiểm lại
+loop
+	
+*  danh từ
+- vòng; thòng lọng; cái khâu, cái móc, khuyết áo)
+- đường nhánh, đường vòng (đường xe lửa, đường dây điện báo ((cũng) loop line)
+- (vật lý) bụng (sóng)
+- (điện học) cuộn; mạch
+=coupling loop
++ cuộn ghép
+=closed loop
++ mạch kín
+*  (kỹ thuật) móc (cần trục), vành đai, cốt đai
+- (hàng không) vòng nhào lộn (của máy bay)
+*  động từ
+- thắt lại thành vòng; làm thành móc
+- gài móc, móc lại
+- (hàng không) nhào lộn
 @Chuyên ngành kinh tế
--người tái bảo hiểm
+-vùng buộc thuốc lá để sấy
 @Chuyên ngành kỹ thuật
+-ăng ten khung
+-ăng ten vòng
+-bụng dao động
+-bụng sóng
+-cái vòng
+-chu kỳ
+-cuộn
+-đường sắt
+-đường vòng
+-khuyên
+-nút
+-mạch
+-mạch kín
+-mạch vòng
+-mạng vòng
+-mắt lưới
+-móc
+-móc treo
+-quai
+-sắt hạt
+-vành đai
+-vòng
+-vòng (treo)
+-vòng đai
+-vòng dây, cuộn dây
+@Lĩnh vực: vật lý
+-bụng dung động
 @Lĩnh vực: xây dựng
--trấn an
+-cốt đai (cột)
+-vòng khuyên
+@Lĩnh vực: điện lạnh
+-đường (cong) kín
+-vòng ghép
+@Lĩnh vực: hóa học & vật liệu
+-đường cong kín
+@Lĩnh vực: điện
+-mạng (điện)
+@Lĩnh vực: toán & tin
+-thắt nút
+-vòng lặp
+

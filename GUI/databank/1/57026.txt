@@ -1,6 +1,5 @@
-toponym	@toponym
-*danh từ
--  tên một vùng đất; địa danh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tên khu vực
+infest
+	
+*  ngoại động từ
+- tràn vào quấy phá, tràn vào phá hoại (sâu bọ, giặc cướp...)
+

@@ -1,12 +1,8 @@
-pressurize	@pressurize /'preʃəraiz/
-*  ngoại động từ
-- điều áp (làm điều hoà áp suất, nhiệt độ... trong máy bay...) ((thường) dạng bị động)
-@Chuyên ngành kinh tế
--bao gói bằng son khí
--ghép kín
+manometer
+	
+*  danh từ
+- cái đo áp, áp kế
 @Chuyên ngành kỹ thuật
--điều áp
--nén
--tăng áp
-@Lĩnh vực: vật lý
--làm tăng áp
+-áp kế
+-máy đo áp
+

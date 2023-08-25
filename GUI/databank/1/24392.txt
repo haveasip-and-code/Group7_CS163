@@ -1,8 +1,70 @@
-grounded	
-@grounded
-- (Tech) được nối với đất
+setting
+	
+*  danh từ
+- sự đặt, sự để
+- sự sắp đặt, sự bố trí
+- sự sửa chữa
+- sự mài sắc, sự giũa
+- sự sắp chữ in
+- sự quyết định (ngày, tháng)
+- sự nắn xương, sự bó xương
+- sự lặn (mặt trời, mặt trăng)
+- sự se lại, sự khô lại
+- sự ra quả
+- sự dàn cảnh một vở kịch; phông màn quần áo (của nhà hát)
+- khung cảnh, môi trường
+- sự dát, sự nạm (ngọc, kim, cương); khung để dát
+- (âm nhạc) sự phổ nhạc; nhạc phổ
+- ổ trứng ấp
+@Chuyên ngành kinh tế
+-sự đông đặc
+-sự đông rắn
+-sự sắp bánh vào lò
+-sự trộn hột
 @Chuyên ngành kỹ thuật
--được nối đất
--được tiếp đất
-@Lĩnh vực: hóa học & vật liệu
--bị chôn vùi
+-bệ
+-cái đệm
+-đế giá
+-điều chỉnh
+-điều tiết
+-lớp hoàn thiện
+-mức điều chỉnh
+-mức mở răng cưa
+-sắp chữ
+-sự đặt
+-sự đặt mức (dụng cụ)
+-sự điều chỉnh
+-sự điều chỉnh (dụng cụ)
+-sự điều chỉnh (lên men)
+-sự điều chỉnh mức
+-sự định vị
+-sự đông cứng (xi măng)
+-sự đông kết
+-sự lắng đọng
+-sự lắp đặt
+-sự lún
+-sự mở răng cưa
+-sự ngưng kết
+-sự rắn lại
+-sự rẽ ca
+-sự thiết đặt
+-sự thiết lập
+-sự tựa
+-sự vạch dấu
+-việc chỉnh định
+-xác lập
+@Lĩnh vực: cơ khí & công trình
+-cái tựa
+-sự lún (nền)
+-sự mở răng ca
+-sự xây lò (nồi hơi)
+@Lĩnh vực: xây dựng
+-sự chồn độ lún
+-sự vạch
+@Lĩnh vực: ô tô
+-sự cứng lại (của ma tít)
+@Lĩnh vực: điện
+-trị số chỉnh định
+-việc đặt
+-việc thiết đặt
+

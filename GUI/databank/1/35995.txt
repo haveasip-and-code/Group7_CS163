@@ -1,10 +1,9 @@
-multiprocessing	@multiprocessing
-- đa xử lí
+fusty
+	
+*  tính từ
+- ẩm mốc, hôi mốc
+- cổ lổ, hủ lậu
 @Chuyên ngành kinh tế
--sự đa xử lý (máy điện toán)
--sự đa xử lý máy điện toán
-@Chuyên ngành kỹ thuật
--đa công
--đa xử lý
-@Lĩnh vực: toán & tin
--nhiều xử lý
+-ẩm mốc
+-hôi mốc
+

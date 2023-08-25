@@ -1,8 +1,5 @@
-florid	
-@florid /florid/
-*  tính từ
-- đỏ ửng, hồng hào (da)
-- sặc sỡ, nhiều màu sắc
-- bóng bảy, hào nhoáng
-- cầu kỳ, hoa mỹ=a florid style
-+ văn cầu kỳ hoa mỹ
+bosquet
+	
+*  danh từ
+- rừng nhỏ; lùm cây
+

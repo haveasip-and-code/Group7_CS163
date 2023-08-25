@@ -1,32 +1,5 @@
-portable	@portable /'pɔ:təbl/
-*  tính từ
-- có thể mang theo, xách tay
-=portable radio+ máy thu thanh xách tay
-- di động
-=portable furnace+ lò di động
-@Chuyên ngành kinh tế
--có thể mang theo
--máy tính xách tay
--vật xách tay
--xách tay
-@Chuyên ngành kỹ thuật
--có bánh
--di động
--khả chuyển
--linh động
--mang đi được
--mang được
--máy tính xách tay
--xách tay
--xách tay (được)
--xách tay được
-@Lĩnh vực: xây dựng
--có thể di động
--di chuyển được
-@Lĩnh vực: toán & tin
--di động được
--di động, linh động
--loại xách tay
--mang chuyển được
-@Lĩnh vực: điện
--mang xách được
+extenders
+	
+-phần nhô ra của hàng triển lãm
+-phần nhô ra của hàng triển lãm (trên giá bày hàng)
+

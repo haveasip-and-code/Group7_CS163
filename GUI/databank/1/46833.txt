@@ -1,16 +1,5 @@
-repayment	@repayment /ri:'peimənt/
-*  danh từ
-- sự trả lại
-- sự báo đáp, sự đền đáp
-@Chuyên ngành kinh tế
--hoàn tiền lại
--sự trả lại
-@Chuyên ngành kỹ thuật
--sự hoàn lại
--sự trả lại
-@Lĩnh vực: xây dựng
--sự bù trừ
-@Lĩnh vực: hóa học & vật liệu
--sự đền đáp
-@Lĩnh vực: cơ khí & công trình
--sự trả nợ
+oxazine
+	
+* danh từ
+- (hoá học) Oxazin
+

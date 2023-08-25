@@ -1,4 +1,31 @@
-ineffably	
-@ineffably
-* phó từ
-- không tả được, không tả xiết
+comment
+	
+*  danh từ
+- lời bình luận
+=to make comments on an event
++ bình luận một sự kiện
+- lời chú giải, lời chú thích, lời dẫn giải
+- lời phê bình, lời chỉ trích
+*  nội động từ
+- bình luận
+=to comment upon a text
++ bình luận một bài văn
+- chú thích, dẫn giải
+- phê bình, chỉ trích
+=to comment on (upon) someone's behaviour
++ phê bình của người nào
+@Chuyên ngành kỹ thuật
+-bình luận
+-chú giải
+-chú thích
+-diễn giải
+-ghi chú
+-lời chú giải
+-lời chú thích
+-lời dẫn giải
+@Lĩnh vực: toán & tin
+-dòng chú giải
+-sự chú giải
+@Lĩnh vực: xây dựng
+-tránh chú giải
+

@@ -1,3 +1,4 @@
-realign	@realign
-* ngoại động từ
-- tổ chức lại/ tập hợp lại
+noncallable
+	
+-không thể chuộc lại
+

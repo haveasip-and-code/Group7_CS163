@@ -1,12 +1,5 @@
-probate	@probate /probate/
+defectiveness
+	
 *  danh từ
-- (pháp lý) sự nhận thực một di chúc
-- bản sao di chúc có chứng thực
-!probate duty
-- thuế di sản
-@Chuyên ngành kinh tế
--di chúc đã chứng thực
--di chúc đã thị thực
--giấy xác nhận di chúc
--sự chứng thực di chúc (bản sao)
--sự thị thực di chúc
+- sự có thiếu sót, sự có nhược điểm; sự có tật xấu, sự có khuyết điểm
+

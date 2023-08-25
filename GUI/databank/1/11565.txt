@@ -1,23 +1,5 @@
-continuous	
-@continuous /kən'tinjuəs/
-*  tính từ
-- liên tục, liên tiếp, không dứt, không ngừng=continuous rain
-+ mưa liên tục=continuous function
-+ (toán học) hàm liên tục
-- (ngôn ngữ học) tiến hành=continuous from
-+ hình thái tiến hành (động từ)
-- (rađiô) duy trì=continuous waves
-+ sóng duy trì
-@Chuyên ngành kỹ thuật
--dày đặc
--kế tiếp
--kéo dài
--không ngừng
--liền kề
--liên tiếp
--liên tục
-@Lĩnh vực: toán & tin
--sát nhau
-@Lĩnh vực: xây dựng
--sự liên tiếp
--sự liên tục
+kingfish
+	
+* danh từ
+- cá mặt trăng (loại cá biển lớn màu sắc rực rỡ)
+

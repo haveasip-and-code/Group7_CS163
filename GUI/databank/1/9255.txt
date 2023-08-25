@@ -1,7 +1,14 @@
-chromatics	
-@chromatics /krə'mætik/
-*  danh từ,  số nhiều dùng như số ít
-- khoa học về màu sắc
+toothed
+	
+*  tính từ
+- có răng; khía răng cưa
+=toothed wheel
++ bánh răng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sắc hệ
+-có răng
+-được ăn khớp
+@Lĩnh vực: điện lạnh
+-có răng cưa
+@Lĩnh vực: cơ khí & công trình
+-được khớp răng
+

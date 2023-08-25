@@ -1,11 +1,12 @@
-entrapped	
+subsonic
+	
+*  tính từ
+- dưới âm tốc
 @Chuyên ngành kỹ thuật
--bị bắt
--kẹp vào
-@Lĩnh vực: hóa học & vật liệu
--bị đoạn
-@Chuyên ngành kỹ thuật
--bị bắt
--kẹp vào
-@Lĩnh vực: hóa học & vật liệu
--bị đoạn
+-dưới âm (tóc độ)
+@Lĩnh vực: điện lạnh
+-hạ âm (có tần số dưới 15 Hz)
+-hạ thanh
+@Lĩnh vực: điện tử & viễn thông
+-ngoại âm
+

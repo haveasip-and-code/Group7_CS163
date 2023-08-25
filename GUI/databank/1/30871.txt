@@ -1,23 +1,4 @@
-keyboard	@keyboard /'ki:bɔ:d/
-*  danh từ
-- bàn phím (pianô); bàn chữ (máy chữ)
-- (điện học) bảng điều khiển; bảng phân phối
-- bảng chuyển mạch; tổng đài điện thoại
-- (từ Mỹ,nghĩa Mỹ) bảng treo chìa khoá
-@Chuyên ngành kinh tế
--bàn bấm nút
--bàn chữ
--bàn nút bấm bàn chữ
--bàn phím
-@Chuyên ngành kỹ thuật
--bấm phím
--bàn phím
--bảng điều khiển
--bảng phân phối
--đánh máy
-@Chuyên ngành kỹ thuật
--bấm phím
--bàn phím
--bảng điều khiển
--bảng phân phối
--đánh máy
+talebearer
+	
+- Cách viết khác : taleteller
+

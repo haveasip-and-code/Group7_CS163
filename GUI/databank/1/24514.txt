@@ -1,6 +1,5 @@
-guidebook	
-@Chuyên ngành kinh tế
--sách hướng dẫn du lịch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sách (hướng) dẫn
+underbrush
+	
+*  danh từ
+- bụi cây thấp; tầng cây thấp (trong rừng) ((cũng) underwood)
+

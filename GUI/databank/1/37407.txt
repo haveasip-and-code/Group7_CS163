@@ -1,8 +1,15 @@
-observable	@observable /əb'zə:vəbl/
-*  tính từ
-- có thể quan sát được, có thể nhận thấy được, dễ thấy
-- đáng chú ý, đáng kể
-=observable progress+ tiến bộ đáng kể
-- có thể tổ chức (ngày kỷ niệm...)
+integrator
+	
+*  danh từ
+- người hợp nhất
+- (toán học) máy tích phân
 @Chuyên ngành kỹ thuật
--quan sát được
+-bộ lấy tích phân
+-mạch tích phân
+-máy tích phân
+@Lĩnh vực: toán & tin
+-bộ tính tích phân
+-máy lấy tích phân
+@Lĩnh vực: điện lạnh
+-máy (lấy) tích phân
+

@@ -1,15 +1,5 @@
-periphery	@periphery /pə'rifəri/
-*  danh từ
-- chu vi
-- ngoại vi, ngoại biên
-@Chuyên ngành kỹ thuật
--chu vi ngoại biên
--ngoại thành
--ngoại vi
-@Lĩnh vực: toán & tin
--chu vi đường bao
-@Lĩnh vực: xây dựng
--ngoại thị
-@Lĩnh vực: điện lạnh
--phía biên
--phía ngoài cùng
+antiorganization
+	
+* danh từ
+- sự chống tổ chức
+

@@ -1,7 +1,5 @@
-afebrile	
-@afebrile
-* tính từ
-- hết cơn sốt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--không sốt
+stripy
+	
+*  tính từ
+- có sọc, có vằn
+

@@ -1,7 +1,6 @@
-uplink	@Chuyên ngành kỹ thuật
--liên kết ngược
--sự nối lên
-@Lĩnh vực: toán & tin
--liên kết lên
-@Lĩnh vực: điện tử & viễn thông
--sự liên lạc lên
+jellying
+	
+-sự gen hóa
+@Lĩnh vực: hóa học & vật liệu
+-sự tạo keo
+

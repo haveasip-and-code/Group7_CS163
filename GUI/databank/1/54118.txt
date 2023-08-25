@@ -1,13 +1,14 @@
-submersion	@submersion /səb'mə:dʤəns/ (submersion) /səb'mə:ʃn/
-*  danh từ
-- sự dìm xuống nước, sự nhận chìm xuống nước
-- sự làm ngập nước
-- sự lặn (tàu ngầm)
+shortcut
+	
+- phím rút gọn, phím tắt
 @Chuyên ngành kỹ thuật
--chìm ngập
--sự chìm
--sự nhúng chìm
-@Lĩnh vực: ô tô
--ngộp xăng
-@Lĩnh vực: hóa học & vật liệu
--sự chìm ngập
+-đường tắt
+-lối tắt
+@Lĩnh vực: toán & tin
+-biểu tượng tắt
+-lệnh tắt
+-rút gọn (~phím)
+-tắt (phím ~)
+@Lĩnh vực: xây dựng
+-ngõ tắt
+

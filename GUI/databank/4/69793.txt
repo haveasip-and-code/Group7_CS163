@@ -1,0 +1,3 @@
+MNG
+A file type one would _think_ makes animated GIFs nearly obsolete, but instead doesn't have much support.
+

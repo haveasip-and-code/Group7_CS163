@@ -1,21 +1,6 @@
-routing	@Chuyên ngành kinh tế
--chia chọn bưu phẩm gửi đi
--sắp xếp để chuyển thư từ đi
-@Chuyên ngành kỹ thuật
--định tuyến
--đường
--hành trình
--quá trình công nghệ
--sự chọn đường
--sự định tuyến
--sự phay rãnh
--sự truyền
--sự vạch tuyến đường
-@Lĩnh vực: điện
--cách đi cáp
--cách vạch tuyến cáp
-@Lĩnh vực: toán & tin
--chọn tuyến
--sự tạo đường truyền
-@Lĩnh vực: điện lạnh
--sự chọn đường (truyền)
+gulden
+	
+* danh từ
+- đồng gunđơn (tiền Hà
+-lan)
+

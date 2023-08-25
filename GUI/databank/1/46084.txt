@@ -1,6 +1,6 @@
-rectified	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đã chỉnh lưu
--đã tinh cất
-@Lĩnh vực: y học
--tinh cất
+calendaring
+	
+-việc đánh dấu lịch
+@Chuyên ngành kỹ thuật
+-sự cán láng
+

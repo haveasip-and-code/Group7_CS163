@@ -1,9 +1,8 @@
-exposed	
-@Chuyên ngành kỹ thuật
--để lộ
--được lộ sáng
--lộ
-@Chuyên ngành kỹ thuật
--để lộ
--được lộ sáng
--lộ
+manicure
+	
+*  danh từ
+- sự cắt sửa móng tay
+- thợ cắt sửa móng tay
+*  nội động từ
+- cắt sửa móng tay
+

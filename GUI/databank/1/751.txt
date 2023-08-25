@@ -1,4 +1,10 @@
-adipic	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc mỡ
+salesman
+	
+*  danh từ
+- người bán hàng (nam)
+@Chuyên ngành kinh tế
+-đại diện bán hàng
+-nam nhân viên bán hàng
+-người bán hàng
+-nhân viên bán hàng
+

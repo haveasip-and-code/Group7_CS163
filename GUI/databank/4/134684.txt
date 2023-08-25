@@ -1,0 +1,3 @@
+project looking glass
+A very cool, open source desktop enviroment currently under developement by Sun Microsystems. In this environment, each window is a 3d object, making for a intuitive and powerful interface. It is designed for Linux/Solaris on the x86 platform, although a version for windows also exists. Looking Glass is still in its begining phases, and the prototype is nearly worthless, although it comes with a variety of programs to show off the environment's capabilities. Pretty impressive, and it doesn't consume very many resources. There is no word on prices, although it will almost definately be free.
+

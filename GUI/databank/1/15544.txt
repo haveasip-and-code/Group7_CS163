@@ -1,17 +1,5 @@
-dipping	
-@Chuyên ngành kinh tế
--sự ngâm
--sự phết
-@Chuyên ngành kỹ thuật
--độ nghiêng
--ngâm
--nhúng
--sự cắm
--sự ngâm
--sự nhúng
--sự nhúng chìm
--sự nhúng giấy
--sự thấm nước
--tẩm
-@Lĩnh vực: cơ khí & công trình
--sự chúc xuống
+carpal
+	
+*  tính từ
+- (giải phẫu) (thuộc) khối xương cổ tay
+

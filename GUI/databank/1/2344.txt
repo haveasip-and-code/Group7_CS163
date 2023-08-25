@@ -1,14 +1,8 @@
-annulus	
-@annulus
-* danh từ
-- số nhiều annuli hay annuluses
-- (sinh học) vòng; vòng nẻ; vòng tuổi (vảy cá); đốt (giun đất)
-- ngón nhẫn
-@Chuyên ngành kỹ thuật
--vành
-@Lĩnh vực: y học
--hình khuyên
-@Lĩnh vực: điện lạnh
--hình vành khăn
-@Lĩnh vực: hóa học & vật liệu
--vành giếng khoan
+elenchus
+	
+*  danh từ,  số nhiều elenchi
+- (triết học) sự bác bỏ lôgic
+!Socratic elenchus
+- phương pháp hỏi gợi ý của Xô
+-crát
+

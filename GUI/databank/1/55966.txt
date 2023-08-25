@@ -1,3 +1,11 @@
-tenderometer	@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--máy đo độ quánh
+postcode
+	
+* danh từ
+- mã thư tín
+@Chuyên ngành kinh tế
+-mã (số) bưu điện
+-mã số bưu điện
+-số hiệu bưu chính
+@Chuyên ngành kỹ thuật
+-mã bưu điện
+

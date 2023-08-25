@@ -1,8 +1,24 @@
-midland	@midland /'midlənd/
+corrector
+	
 *  danh từ
-- trung du
-- (the Midlands) vùng trung du nước Anh
+- người sửa, người hiệu chỉnh
+=corrector of the press
++ người sửa bản in
+- người phê bình, người kiểm duyệt
+- (điện học) cái hiệu chỉnh
+=phase corrector
++ cái hiệu chỉnh pha
+- người trừng phạt, người trừng trị
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trung du
--vùng trung du
+-bộ điều chỉnh
+-bộ hiệu chỉnh
+-thiết bị điều chỉnh
+-vít hiệu chỉnh
+@Lĩnh vực: điện
+-cái hiệu chỉnh
+-nút hiệu chỉnh
+@Lĩnh vực: toán & tin
+-công thức sửa
+-dụng cụ sửa
+-phương tiện sửa
+

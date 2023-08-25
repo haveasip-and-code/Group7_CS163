@@ -1,8 +1,32 @@
-pikeman	@pikeman /'paikmən/
+crank
+	
 *  danh từ
-- thợ mỏ dùng cuốc chim
-- người gác chỗ chắn thu thuế đường
+- lối chơi chữ, lối nói kỳ quặc
+- ý nghĩ quái gỡ; hành động kỳ quặc, hành động lập dị
+- người kỳ quặc, người lập dị
+- cái quay tay (máy hơi nước, máy nổ)
+*  ngoại động từ
+- lắp quay tay
+- bẻ thành hình quay tay
+- (crank up) quay (máy)
+=to crank up an engine
++ quay một cái máy
+*  tính từ
+- không vững, ọp ẹp, xộc xệch
+- (hàng hải) tròng trành, không vững (tàu, thuyền)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thợ đột
--thợ trổ
+-khởi động
+-khuỷu
+-quay
+-quay máy chạy
+-trục cuộn
+-trục khuỷu
+@Lĩnh vực: ô tô
+-cái tay quay
+-đề
+-khởi động xe
+@Lĩnh vực: giao thông & vận tải
+-thanh khuỷu (ghi)
+@Lĩnh vực: cơ khí & công trình
+-uốn khuỷu
+

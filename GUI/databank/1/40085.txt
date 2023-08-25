@@ -1,23 +1,23 @@
-pavement	@pavement /'peivmənt/
+fraction
+	
 *  danh từ
-- mặt lát (đường, sàn...)
-- vỉa hè, hè đường
+- (toán học) phân số
+- phần nhỏ, miếng nhỏ
+- (tôn giáo) sự chia bánh thánh
+@Chuyên ngành kinh tế
+-cấu từ
+-hợp phần
+-sản phẩm chưng cất
 @Chuyên ngành kỹ thuật
--áo đường
--cái lát
--đường đi bộ
--lớp bảo vệ
--lớp đường
--lớp lát mặt đường
--lớp mặt
--mặt đường
--mặt lát
--vỉa hè
-@Lĩnh vực: xây dựng
--đường có rải mặt
--đường lát
--vỉa hè bờ đường
-@Lĩnh vực: giao thông & vận tải
--lề đường (phố)
-@Lĩnh vực: hóa học & vật liệu
--mặt lát (đường)
+-bộ phận
+-cỡ hạt
+-đoạn
+-mảnh vỡ
+-một phần
+-phần
+-phân số
+-thành phần
+-tỷ lệ
+@Lĩnh vực: điện lạnh
+-số phần
+

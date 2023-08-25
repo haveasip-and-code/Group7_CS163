@@ -1,9 +1,6 @@
-simplicity	@simplicity /sim'plisiti/
+phonology
+	
 *  danh từ
-- tính đơn giản
-- tính mộc mạc, tính xuềnh xoàng; tính hồn nhiên
-- tính dễ hiểu, tính dễ làm
-- tính ngu dại, tính ngốc nghếch, tính ngu xuẩn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tính đơn giản
+- (ngôn ngữ học) âm vị học
+- hệ thống âm vị (của một ngôn ngữ)
+

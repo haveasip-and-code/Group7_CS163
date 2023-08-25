@@ -1,10 +1,19 @@
-mincer	@mincer
-* danh từ
-- máy băm thịt
-@Chuyên ngành kinh tế
--máy nghiền
--máy nghiền (thịt)
--máy xay
+defile
+	
+*  danh từ
+- hẽm núi
+*  nội động từ
+- đi thành hàng dọc
+*  ngoại động từ
+- làm nhơ bẩn, làm vẩn đục, làm ô uế ((nghĩa đen) & (nghĩa bóng))
+=to defile the air
++ làm bẩn bầu không khí
+=to defile someone's reputation
++ làm ô danh ai
+- (từ Mỹ,nghĩa Mỹ) phá trinh, hãm hiếp, cưỡng dâm
+- làm mất tính chất thiêng liêng
 @Chuyên ngành kỹ thuật
--máy nghiền thịt
--máy xay thịt
+-hẻm núi
+@Lĩnh vực: cơ khí & công trình
+-khe lũng
+

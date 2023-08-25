@@ -1,12 +1,5 @@
-empties	
-@Chuyên ngành kinh tế
--chai không
--thùng không
--vỏ không
--xe tải không
-@Chuyên ngành kỹ thuật
--bao không
--vỏ không
-@Chuyên ngành kỹ thuật
--bao không
--vỏ không
+gunfight
+	
+* danh từ
+- cuộc đấu súng
+

@@ -1,16 +1,5 @@
-doom	
-@doom /du:m/
-*  danh từ
-- số mệnh, số phận (thường không may, bất hạnh)
-- sự chết, sự diệt vong, sự tận số; sự sụp đổ
-- (tôn giáo) sự phán quyết cuối cùng=the day of doom; the crack of doom
-+ ngày phán quyết cuối cùng, ngày tận thế
-- (sử học) quy chế, sắc luật, sắc lệnh
-- (từ cổ,nghĩa cổ) sự kết án, sự kết tội
-*  ngoại động từ
-- kết án, kết tội
-- ((thường) động tính từ quá khứ) đoạ đày, bắt phải chịu (số kiếp khổ ải...)=doomed to failure
-+ tất phải thất bại=he knows he is doomed
-+ hắn biết là hắn sẽ bị kết tội; hắn biết là hắn phải chết; hắn biết là hắn đã đến ngày tận số
-- (từ cổ,nghĩa cổ) ra lệnh, hạ lệnh=to doom someone's death
-+ hạ lệnh xử tử ai
+millesimal
+	
+*  tính từ
+- phần nghìn, từng phần nghìn
+

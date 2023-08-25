@@ -1,5 +1,19 @@
-foreordination	
-@foreordination /,fɔ:rɔ:di'neiʃn/
-*  danh từ
-- sự định trước; định mệnh
-- sự bổ nhiệm trước
+payroll
+	
+* danh từ
+- bảng lương
+- tổng số tiền phải trả cho nhân viên (trong công ty)
+@Chuyên ngành kinh tế
+-bảng lương
+-sổ lương
+-tiền lương
+-tổng quỹ lương
+-tổng số tiền phải trả cho nhân viên
+-tổng số tiền trả lương
+@Chuyên ngành kỹ thuật
+-bảng lương
+@Lĩnh vực: xây dựng
+-bảng lương nhân công
+@Lĩnh vực: điện tử & viễn thông
+-tình trạng trả
+

@@ -1,8 +1,5 @@
-samba	@samba /'sæmbə/
-*  danh từ
-- điệu nhảy xamba
-*  nội động từ
-- điệu nhảy xamba
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--chương trình Samba
+parsonic
+	
+*  tính từ
+- (thuộc) cha xứ; (thuộc) mục sư
+

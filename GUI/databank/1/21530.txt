@@ -1,4 +1,13 @@
-floristic	
-@floristic
-* tính từ
-- thuộc hoa; thuộc giới thực vật, hệ thực vật
+drizzle
+	
+*  danh từ
+- mưa phùn, mưa bụi
+*  nội động từ
+- mưa phùn, mưa bụi
+=it drizzles
++ trời mưa phùn
+@Chuyên ngành kỹ thuật
+-mưa bụi
+-mưa phùn
+-phun mù
+

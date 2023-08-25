@@ -1,10 +1,13 @@
-disarm	
-@disarm /dis'ɑ:m/
-*  ngoại động từ
-- lột vũ khí, tước vũ khí
-- đánh bật gươm, đánh bật kiếm (ra khỏi tay ai)
-- tháo dỡ hết vũ khí (trên tàu chiến...)
-- tước hết khả năng tác hại
-- làm mất hết giận, làm nguôi giận, làm hết bực tức; làm tiêu tan sự nghi ngờ (của ai)
-*  nội động từ
-- giảm quân bị, giải trừ quân bị
+underwater
+	
+*  tính từ
+- đặt dưới mặt nước, làm ở dưới mặt nước, để dùng ở dưới mặt nước
+@Chuyên ngành kỹ thuật
+-chìm
+-dưới nước
+-nước ngầm
+@Lĩnh vực: hóa học & vật liệu
+-dưới mặt nước
+@Lĩnh vực: xây dựng
+-ở dưới mặt nước
+

@@ -1,29 +1,5 @@
-corrupt	
-@corrupt /kə'rʌpt/
-*  tính từ
-- bị đút lót, bị mua chuộc, ăn hối lộ
-- đồi bại, thối nát, mục nát
-- bị sửa đổi lại; sai lạc đi (bài văn, ngôn ngữ...)
-- bẩn (không khí...)!corrupt practices
-- cách mua chuộc đút lót (đặc biệt là trong cuộc bầu cử)
-*  ngoại động từ
-- mua chuộc, đút lót, hối lộ
-- làm hư hỏng, làm đồi bại
-- làm hư, làm thối
-- sửa đổi sai lạc đi (bài văn, ngôn ngữ...)
-*  nội động từ
-- hư hỏng, thối nát, đồi bại
-@Chuyên ngành kinh tế
--hư hỏng
--làm hư hỏng
--làm thiu thối
--thiu
--ươn
-@Chuyên ngành kỹ thuật
--hư hỏng
--làm hỏng
--làm hư hỏng
-@Lĩnh vực: toán & tin
--gây lỗi
--làm sai lạc
--tạo lỗi
+stylebook
+	
+* danh từ
+- sách dạy về cách làm theo một phong cách đã chọn
+

@@ -1,7 +1,11 @@
-credibility	
-@credibility /,kredi'biliti/ (credibleness) /'kredəblnis/
+audiometry
+	
 *  danh từ
-- sự tín nhiệm; sự đáng tin=credibility gap
-+ (từ Mỹ,nghĩa Mỹ) sự khủng hoảng về tín nhiệm
-@Chuyên ngành kinh tế
--độ đáng tin
+- phép đo sức nghe
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-đo thính lực
+-trắc thính
+@Lĩnh vực: xây dựng
+-phép đo thính lực
+

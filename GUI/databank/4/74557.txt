@@ -1,0 +1,3 @@
+calendarize
+To add a scheduled event to a planning calendar, so that it may serve as a future reminder.
+

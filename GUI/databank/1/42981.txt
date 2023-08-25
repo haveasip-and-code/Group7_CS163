@@ -1,11 +1,6 @@
-preamble	@preamble /pri:'æmbl/
-*  danh từ
-- lời nói đầu, lời mở đầu, lời tựa
-*  nội động từ
-- viết lời nói đầu, viết lời mở đầu, viết lời tựa
-@Chuyên ngành kinh tế
--lời mào đầu (pháp quy, hợp đồng ...)
-@Chuyên ngành kỹ thuật
--lời mở đầu
--lời tựa
--phần mở đầu
+detoxicating
+	
+@Lĩnh vực: hóa học & vật liệu
+-giải độc
+-khử độc
+

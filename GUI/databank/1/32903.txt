@@ -1,8 +1,16 @@
-luggage	@luggage /'lʌgidʤ/
+disciplinarian
+	
 *  danh từ
-- hành lý
+- người giữ kỷ luật
+=a good disciplinarian
++ người giữ kỷ luật tốt
+=a bad disciplinarian
++ người giữ kỷ luật kém
+=a strict disciplinarian
++ người nghiêm chỉnh tôn trọng kỷ luật
+=to be no disciplinarian
++ không tôn trọng kỷ luật
 @Chuyên ngành kinh tế
--hành lý
--van xe hành lý
-@Chuyên ngành kỹ thuật
--hành lý
+-người giữ kỷ luật
+-người thi hành kỷ luật
+

@@ -1,17 +1,7 @@
-disconnected	
-@disconnected /'diskə'nektid/
-*  tính từ
-- bị rời ra, bị cắt rời ra, bị tháo rời ra; bị phân cách ra
-- (điện học) bị ngắt, bị cắt (dòng điện...)
-- rời rạc, không có mạch lạc (bài nói, bài viết)
-@Chuyên ngành kỹ thuật
--bị ngắt
--gián đoạn
--ngắt
--ngưng kết nối
-@Lĩnh vực: hóa học & vật liệu
--bị cắt (mạch)
--bị phân ly
-@Lĩnh vực: toán & tin
--bỏ kết nối
--không liên thông
+redwing
+	
+*  danh từ
+- (động vật học) chim hét cánh đỏ
+@Chuyên ngành kinh tế
+-chim hét cánh đỏ
+

@@ -1,15 +1,20 @@
-epic	
-@epic /'epik/
-*  danh từ
-+ (epopee)/'epoupi:/
-- thiên anh hùng ca, thiên sử thi
-*  tính từ
-+ (epical)/'epikəl/
-- có tính chất anh hùng ca, có tính chất sử thi
-- có thể viết thành anh hùng ca, có thể viết thành sử thi
+processor
+	
+* danh từ
+- máy chế biến, máy xử lý
+- bộ xử lý trong máy tính
+@Chuyên ngành kinh tế
+-bộ xử lý
+-bộ xử lý (của máy tính)
+-bộ xử lý của máy tính
+-người làm hàng gia công
+-xưởng gia công
 @Chuyên ngành kỹ thuật
+-bộ xử lý
+-hệ thống xử lý
+@Lĩnh vực: toán & tin
+-cơ cấu xử lý
+-khối xử lý
 @Lĩnh vực: xây dựng
--thiên sử thi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thiên sử thi
+-xử lý viên
+

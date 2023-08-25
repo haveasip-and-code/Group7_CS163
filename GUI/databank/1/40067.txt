@@ -1,8 +1,5 @@
-patterned	@patterned
-* tính từ
-- được trang trí bằng mẫu vẽ, được trang trí với hoa văn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có cấu trúc
--theo mẫu
--theo mô hình
+iproniazid
+	
+@Lĩnh vực: y học
+-loại thuốc dùng để trị các loại trầm cảm
+

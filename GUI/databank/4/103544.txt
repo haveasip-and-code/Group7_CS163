@@ -1,0 +1,3 @@
+>
+In the latest slang, you can use this for not only numbers but for words, too. ; If you think Cats are better than dogs, you put this: ; Cats>Dogs ; Then it should mean 'Cats are greater than Dogs.' ; But don't use '<'. It's a waste of time, just say it's greater. Not less...er.
+

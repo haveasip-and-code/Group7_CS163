@@ -1,0 +1,3 @@
+irssi
+A text-based IRC client not just for Linux, but other UNIX systems too, for example MacOS X.
+

@@ -1,6 +1,16 @@
-dictum	
-@dictum /'diktəm/
-*  danh từ,  số nhiều dicta,  dictums
-- lời quả quyết, lời tuyên bố chính thức
-- (pháp lý) lời phát biểu ý kiến của quan toà (không có giá trị pháp lý)
-- châm ngôn
+documentation
+	
+*  danh từ
+- sự chứng minh bằng tài liệu, sự dẫn chứng bằng tư liệu
+- sự đưa ra tài liệu, sự cung cấp tài liệu
+@Chuyên ngành kinh tế
+-sự cung cấp tài liệu
+-tài liệu
+@Chuyên ngành kỹ thuật
+-hồ sơ
+@Lĩnh vực: toán & tin
+-bộ hồ sơ
+-bộ tài liệu
+-sưu liệu
+-tư liệu
+

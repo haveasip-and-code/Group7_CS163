@@ -1,4 +1,6 @@
-culled	
-@Chuyên ngành kinh tế
--chọn lọc
--lựa chọn
+explanations
+	
+-thuyết minh
+@Chuyên ngành kỹ thuật
+-thuyết minh
+

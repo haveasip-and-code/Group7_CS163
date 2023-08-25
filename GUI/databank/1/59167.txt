@@ -1,11 +1,11 @@
-undercoat	@undercoat /'ʌndəkout/
-*  danh từ
-- áo bành tô mặc trong (một áo khoác)
-- (kỹ thuật) lớp dưới, lớp đáy
-- (động vật học) lông măng
+dimeric
+	
+* tính từ
+- (hoá học) nhị trùng
+- sinh học) đối xứng hai bên; hai phần
+= dimeric chromosome
++thể nhiễm sắc đối xứng hai bên
 @Chuyên ngành kỹ thuật
--lớp sơn lót
--lớp sơn nền
--lớp trát nền
 @Lĩnh vực: hóa học & vật liệu
--lớp sơn lót (màu)
+-đimeric
+

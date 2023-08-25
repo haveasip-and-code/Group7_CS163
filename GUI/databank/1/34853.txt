@@ -1,19 +1,6 @@
-mile	@mile /mail/
-*  danh từ
-- dặm, lý
-=nautical mile+ dặm biển, hải lý
-- cuộc chạy đua một dặm
-!miles better
-- (thông tục) tốt hơn nhiều lắm
-!miles easier
-- (thông tục) dễ hơn nhiều lắm
-@Chuyên ngành kinh tế
--Hải lý hải quân Anh
-@Chuyên ngành kinh tế
--dặm Anh
--dặm hàng không và hàng hải
--hải lý
-@Chuyên ngành kỹ thuật
--dặm
--đạm
--lý
+leggy
+	
+*  tính từ
+- có cẳng dài
+- phô bày đùi vế
+

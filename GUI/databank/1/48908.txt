@@ -1,14 +1,16 @@
-scalper	@scalper /'skælpə/
-*  danh từ
-- dao trổ, dao khắc
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) kẻ đầu cơ vé rạp hát, kẻ đầu cơ vé xe lửa
-@Chuyên ngành kinh tế
--kẻ đầu cơ
--máy sàng ống
--người chạy chợ
--sàng
--sáng ống
--sàng ống
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--máy sàng sơ bộ
+path
+	
+- bước, đường đi; quỹ đạo
+- p. of continuous group quỹ đạo trong một nhóm liên tục
+- p. of a projectile đường đạn
+- asymptotic p. (giải tích) đường tiệm cận
+- closed p. đường đóng
+- edge p. đường gấp khúc, đường cạnh
+- free p. đường di động tự do
+- homotopic p.s đường đi đồng luân
+- inverse p. đường nghịch
+- mean free p. đường tự do trung bình
+- minimal p. đường cực tiểu
+- product p. đường tích
+- random p. đường đi ngẫu nhiên
+

@@ -1,11 +1,5 @@
-roustabout	@roustabout /'raustəbaut/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) công nhân bến tàu
-- người làm đủ các thứ việc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đốc công sản xuất
-@Lĩnh vực: hóa học & vật liệu
--kíp trưởng khai thác (tiếng lóng)
--thợ khoan phụ
--thợ lao công
+repeople
+	
+*  ngoại động từ
+- làm cho lại có dân cư, làm cho lại có người ở, đưa những người ở mới vào
+

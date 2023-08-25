@@ -1,20 +1,8 @@
-generate	
-@generate /'dʤenəreit/
-*  ngoại động từ
-- sinh, đẻ ra
-- phát, phát ra=to generate electricity
-+ phát điện
+ascending
+	
+- (Tech) thăng, tăng lên, lên cao (d)
 @Chuyên ngành kỹ thuật
--đưa ra
--khởi động
--phát
--phát động
--phát ra
--phát sinh
--sinh
--sinh ra
--tạo thành
-@Lĩnh vực: điện lạnh
--sản ra
-@Lĩnh vực: ô tô
--sản sinh
+-tăng
+@Lĩnh vực: xây dựng
+-từ dưới lên
+

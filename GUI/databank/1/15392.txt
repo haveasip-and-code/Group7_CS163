@@ -1,17 +1,5 @@
-dilate	
-@dilate /dai'leit/
-*  ngoại động từ
-- làm giãn, làm nở, mở rộng
-- (từ hiếm,nghĩa hiếm) bàn rộng, bàn chi tiết dài dòng (một vấn đề...)
-*  nội động từ
-- giãn ra, nở ra, mở rộng ra
-- (
-+ upon,  on) bàn rộng, bàn chi tiết dài dòng về (một vấn đề...)
-@Chuyên ngành kỹ thuật
--giãn
--giãn nở
--lan ra
--nở
--mở rộng
-@Lĩnh vực: toán & tin
--phóng rộng
+delighted
+	
+* tính từ
+- vui mừng, hài lòng
+

@@ -1,3 +1,79 @@
-triathlon	@triathlon
-* danh từ
-- cuộc thi thể thao ba môn phối hợp
+extension
+	
+*  danh từ
+- sự duỗi thẳng ra; sự đưa ra
+- sự kéo dài ra, sự gia hạn; sự mở rộng
+- phần kéo dài, phần mở rộng, phần nối thêm (vào nhà, vào dây nói...)
+=an extension to a factory
++ phần mở rộng thêm vào xưởng máy
+- (quân sự) sự dàn rộng ra
+- lớp đại học mở rộng, lớp đại học nhân dân, lớp đại học buổi tối, lớp đại học bằng thư (tổ chức cho những người không phải là học sinh) ((cũng) University Extension)
+- (thể dục,thể thao),  (từ lóng) sự làm dốc hết sức
+- sự dành cho (sự đón tiếp nồng nhiệt...); sự gửi tới (lời chúc tụng...)
+- sự chép ra chữ thường (bản tốc ký)
+- (vật lý) sự giãn, độ giãn
+@Chuyên ngành kinh tế
+-chuyến du lịch mở rộng
+-kéo dài kỳ hạn hữu hiệu (của thư tín dụng)
+-khuếch trương
+-máy phụ (điện thoại)
+-số tiền tính được
+-sự gia hạn
+-sự kéo dài kỳ hạn hữu hiệu (của thư tín dụng)
+-sự khuếch trương
+-sự mở rộng
+-sự triển hạn
+-triển hạn
+@Chuyên ngành kỹ thuật
+-độ giãn
+-kéo dài
+-kích thước
+-mở rộng
+-phần mở rộng
+-quy mô
+-sự giãn
+-sự giãn dài
+-sự giãn nở
+-sự kéo dài
+-sự mở rộng
+@Lĩnh vực: xây dựng
+-độ giãn nở
+-nhà xây thêm
+-phần xây thêm
+-sự gia hạn
+@Lĩnh vực: cơ khí & công trình
+-độ mở rộng
+@Lĩnh vực: toán & tin
+-đuôi mở rộng
+@Lĩnh vực: điện lạnh
+-đường dây trạm
+@Lĩnh vực: giao thông & vận tải
+-gia hạn
+-nới rộng
+@Chuyên ngành kỹ thuật
+-độ giãn
+-kéo dài
+-kích thước
+-mở rộng
+-phần mở rộng
+-quy mô
+-sự giãn
+-sự giãn dài
+-sự giãn nở
+-sự kéo dài
+-sự mở rộng
+@Lĩnh vực: xây dựng
+-độ giãn nở
+-nhà xây thêm
+-phần xây thêm
+-sự gia hạn
+@Lĩnh vực: cơ khí & công trình
+-độ mở rộng
+@Lĩnh vực: toán & tin
+-đuôi mở rộng
+@Lĩnh vực: điện lạnh
+-đường dây trạm
+@Lĩnh vực: giao thông & vận tải
+-gia hạn
+-nới rộng
+

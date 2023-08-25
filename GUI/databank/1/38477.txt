@@ -1,20 +1,4 @@
-outflow	@outflow /'autflou/
-*  danh từ
-- sự chảy mạnh ra (của nước); sự đi ra, sự thoát ra, sự chảy ra
-- lượng chảy ra
-*  nội động từ
-- chảy mạnh ra
-@Chuyên ngành kinh tế
--luồng chạy ra
-@Chuyên ngành kỹ thuật
--dòng chảy sản phẩm
--lượng chảy ra
--lương chảy thoát
--lượng nước chảy ra
--sự chảy
--sự chảy ra
--sự chảy thoát
--sự thoát
--sự thoát ra
-@Lĩnh vực: cơ khí & công trình
--dòng (chảy) ra
+editorializer
+	
+- xem editorialize
+

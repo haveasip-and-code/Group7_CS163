@@ -1,8 +1,12 @@
-plotting	@Chuyên ngành kỹ thuật
--sự vẽ đồ thị
--vẽ bản đồ
--vẽ sơ đồ
-@Lĩnh vực: cơ khí & công trình
--sự vẽ bản đồ
-@Lĩnh vực: hóa học & vật liệu
--sự vẽ đường cong
+interline
+	
+*  ngoại động từ
+- viết (chữ) xen vào, in xen vào (hàng chữ đã có)
+- may thêm lần lót vào giữa (cho một cái áo) (giữa vỏ ngoài và lần lót đã có)
+@Chuyên ngành kinh tế
+-liên hãng
+@Chuyên ngành kỹ thuật
+-xen dòng (in vải)
+@Lĩnh vực: điện tử & viễn thông
+-dòng xen
+

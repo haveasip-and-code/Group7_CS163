@@ -1,5 +1,30 @@
-blues	
-@blues /blu:z/
-*  danh từ điệu nhảy blu
+heading
+	
+*  danh từ
+- đề mục nhỏ; tiêu đề
+- (ngành mỏ) lò ngang
+- (thể dục,thể thao) cú đánh đầu (bóng đá)
+- (hàng hải) sự đi về, sự hướng về
+@Chuyên ngành kinh tế
+-tiêu đề
 @Chuyên ngành kỹ thuật
--nhạc xanh
+-đầu đề
+-đề mục
+-đoạn chú thích
+-hầm tháo nước
+-hướng bay
+-hướng chuyển động
+-hướng hành trình
+-lò dọc chính
+-sự chồn đầu
+-sự tán đáy
+-tiêu đề
+@Lĩnh vực: xây dựng
+-chu trình đào
+-đầu đá câu
+@Lĩnh vực: điện tử & viễn thông
+-hướng chạy
+@Lĩnh vực: toán & tin
+-phụ đề
+-tựa đề
+

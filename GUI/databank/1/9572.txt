@@ -1,6 +1,12 @@
-clade	
-@clade
-* danh từ (sinh vật học)
-- môt nhánh gai nối
-- đơn vị huyết thống đơn tố
-- nhóm động vật hay thực vật phát triển từ một tổ tiên chung
+inflator
+	
+*  danh từ
+- cái bơm
+- người bơm phồng, người thổi phồng
+@Chuyên ngành kinh tế
+-máy bơm phồng
+@Chuyên ngành kỹ thuật
+-máy bơm tăng áp
+@Lĩnh vực: y học
+-dụng cụ bơm căng
+

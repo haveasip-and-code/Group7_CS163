@@ -1,19 +1,10 @@
-weir	@weir /wi /
+postage
+	
 *  danh từ
-- đập nước
-- đăng cá
+- bưu phí
+@Chuyên ngành kinh tế
+-bưu phí
+-cước phí bưu điện
 @Chuyên ngành kỹ thuật
--cửa cống
--đập
--dập nước
--đập tràn
--đê
--lỗ tháo
--lỗ tràn
-@Lĩnh vực: xây dựng
--đập (tràn)
--đập dâng nước
--không trọng lượng
--mất trọng lượng
-@Lĩnh vực: hóa học & vật liệu
--vửa van
+-bưu phí
+

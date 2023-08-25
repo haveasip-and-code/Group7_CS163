@@ -1,3 +1,20 @@
-mainsheet	@mainsheet
-* danh từ
-- (hàng hải) dây kéo lá buồm chính
+distillation
+	
+*  danh từ
+- (hoá học) sự cất
+=vacuum distillation
++ sự cất chân không
+=fractional distillation
++ sự cất phân đoạn
+- sản phẩm cất
+@Chuyên ngành kinh tế
+-sự chưng cất
+@Chuyên ngành kỹ thuật
+-cất
+-chưng cất
+-sự chưng
+-sự chưng cất
+-tháp chưng cất
+@Lĩnh vực: y học
+-sự cất, chưng
+

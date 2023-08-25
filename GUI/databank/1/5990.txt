@@ -1,4 +1,10 @@
-bloodstream	
-@bloodstream
-* danh từ
-- dòng máu trong cơ thể
+samba
+	
+*  danh từ
+- điệu nhảy xamba
+*  nội động từ
+- điệu nhảy xamba
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-chương trình Samba
+

@@ -1,20 +1,5 @@
-client	
-@client /'klaiənt/
-*  danh từ
-- khách hàng (của luật sư, cửa hàng...)
-@Chuyên ngành kinh tế
--khách
--khách hàng
--người ủy thách
-@Chuyên ngành kỹ thuật
--chủ công trình
--khách hàng
--nghiệp chủ
-@Lĩnh vực: xây dựng
--đặt hàng
--người thuê thầu
--thân chủ
-@Lĩnh vực: toán & tin
--khách
--máy khách
--ứng dụng khách
+monopolise
+	
+*  ngoại động từ
+- giữ độc quyền
+

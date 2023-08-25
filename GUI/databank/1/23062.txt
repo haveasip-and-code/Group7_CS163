@@ -1,13 +1,24 @@
-gauging	
-@Chuyên ngành kinh tế
--sự đo dung tích
+chief
+	
+*  danh từ
+- thủ lĩnh, lãnh tụ
+- người đứng đầu; trưởng
+=Chief of Staff
++ tham mưu trưởng
+- (thông tục) ông sếp, ông chủ
+!in chief
+- nhất là, đặc biệt là
+*  tính từ
+- đứng đầu, trưởng
+- trọng yếu, chủ yếu, chính
+!chief town
+- thủ phủ
 @Chuyên ngành kỹ thuật
--hiệu chuẩn
--sự định cỡ
--sự đo
--sự hiệu chỉnh
--sự kiểm tra
--sự nắn đường
--sự phối liệu
-@Lĩnh vực: hóa học & vật liệu
--sự đo kiểm
+-chính
+-cơ bản
+-người đứng đầu
+@Lĩnh vực: xây dựng
+-sếp
+@Lĩnh vực: điện lạnh
+-tia chủ
+

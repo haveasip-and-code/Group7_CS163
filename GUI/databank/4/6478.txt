@@ -1,0 +1,3 @@
+floodnet
+IRC: A swarm of bots, connected either by a script and proxies, or by trojan-infected machines, sent to stream a repeated flood of nonsense in order to disrupt a channel's activities.
+

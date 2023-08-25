@@ -1,22 +1,5 @@
-rebound	@rebound /'ri:'baund/
-*  thời quá khứ & động tính từ quá khứ của rebind
-*  danh từ
-- sự bật lại, sự nẩy lên (của quả bóng...)
-=to hit a ball on the rebound+ đánh một quả bóng đang lúc nảy lên
-- (nghĩa bóng) sự phản ứng (khi bị thất bại, bị va chạm...)
-=to take a person on (at) the rebound+ lợi dụng sự phản ứng của một người nào để xúi làm ngược lại
-*  nội động từ
-- bật lại, bật lên nẩy lại, nẩy lên (của quả bóng...)
-- có ảnh hưởng ngược trở lại đối với
-=their evil example will rebound upon themselves+ gương xấu của chúng sẽ có ảnh hưởng ngược trở lại đối với chính chúng
-- hồi phục (sức khoẻ); phấn khởi lại (tính thần)
-@Chuyên ngành kỹ thuật
--bật lại
--nảy lại
--sự bật lại
--sự nảy lên
-@Lĩnh vực: cơ khí & công trình
--sự chối (đóng cọc)
-@Lĩnh vực: xây dựng
--sự nảy
--sự nẩy
+indican
+	
+@Lĩnh vực: y học
+-một hợp chất tiết ra theo nước tiểu như một chất khử độc của indoxyl
+

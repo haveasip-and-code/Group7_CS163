@@ -1,8 +1,7 @@
-plywood	@plywood /'plaiwud/
-*  danh từ
-- gỗ dán
-@Chuyên ngành kỹ thuật
--gỗ dán
-@Lĩnh vực: xây dựng
--gỗ dán (làm ván khuôn)
--lớp ốp gỗ dán
+ontic
+	
+* tính từ
+- (triết học) có tồn tại thực tế
+= ontic criteria for aesthetic judgement
++những tiêu chuẩn có cơ sở thực tế để xét đoán về mỹ học
+

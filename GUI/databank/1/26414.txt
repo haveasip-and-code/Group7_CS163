@@ -1,12 +1,11 @@
-humidity	
-@humidity /hju:'miditi/
+stockpiling
+	
 *  danh từ
-- sự ẩm ướt
-- độ ẩm
+- sự dự trữ (nguyên vật liệu)
 @Chuyên ngành kinh tế
--độ ẩm
+-dự trữ
+-sự trữ
+-tồn trữ (vật tư)
 @Chuyên ngành kỹ thuật
--độ ẩm
--sự làm ướt
-@Lĩnh vực: điện lạnh
--làm ẩm ướt
+-sự dự trữ
+

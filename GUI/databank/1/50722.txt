@@ -1,10 +1,9 @@
-silicon	@silicon /'silikən/
-*  danh từ
-- (hoá học) silic
+decode
+	
+*  ngoại động từ
+- đọc (mật mã), giải (mã)
 @Chuyên ngành kỹ thuật
--silic
-@Lĩnh vực: xây dựng
--keo dán silicon
--nhựa silicon
-@Lĩnh vực: ô tô
--silic (hóa học)
+-đọc mã
+-đọc mật mã
+-giải mã
+

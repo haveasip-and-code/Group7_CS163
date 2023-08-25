@@ -1,14 +1,8 @@
-granary	
-@granary /'grænəri/
-*  danh từ
-- kho thóc
-- vựa lúa (vùng sản xuất nhiều lúa)
-@Chuyên ngành kinh tế
--kho hạt
--kho thóc
--vựa lúa
+phototypesetting
+	
+-sự sắp chữ bằng in chụp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--kho hạt
--kho thóc
--vừa lúa
+-sự chế bản phim
+@Lĩnh vực: toán & tin
+-sự sắp chữ quang
+

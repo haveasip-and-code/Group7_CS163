@@ -1,7 +1,10 @@
-unclamp	@unclamp
-* ngoại động từ
-- nới kẹp; mở kẹp, tháo kẹp
+falsehood
+	
+*  danh từ
+- sự sai lầm; điều sai lầm, thuyết sai lầm, điều tin tưởng sai lầm, ý nghĩ sai lầm
+- sự nói dối, sự lừa dối; lời nói dối
 @Chuyên ngành kỹ thuật
--nới lỏng
-@Lĩnh vực: cơ khí & công trình
--tháo lỏng
+-sự sai
+@Chuyên ngành kỹ thuật
+-sự sai
+

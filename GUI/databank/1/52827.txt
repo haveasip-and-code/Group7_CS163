@@ -1,13 +1,11 @@
-squib	@squib /skwib/
-*  danh từ
-- pháo ném
-- mồi nổ
-- bài văn châm biếm
-*  động từ
-- đốt pháo ném
-- viết bài châm biếm (ai)
+metrication
+	
+* danh từ
+- sự đổi sang hệ mét
+@Chuyên ngành kinh tế
+-đổi thành hệ thống mét
+-mét hệ hóa
 @Chuyên ngành kỹ thuật
--ngòi súng đại bác
--mồi nổ
-@Lĩnh vực: hóa học & vật liệu
--khói thuốc nổ nhỏ
+@Lĩnh vực: toán & tin
+-phép metric hóa
+

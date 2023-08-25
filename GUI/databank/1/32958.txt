@@ -1,9 +1,7 @@
-lunation	@lunation /lu:'neiʃn/
-*  danh từ
-- tuần trăng; tháng âm lịch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--sự bán nguyệt
-@Lĩnh vực: điện lạnh
--tháng âm lịch
--tuần trăng
+drinkables
+	
+* danh từ số nhiều
+- thức uống
+= eatables and drinkables
++đồ ăn và thức uống
+

@@ -1,11 +1,6 @@
-browser	
-@browser
-- <tin>bộ duyệt tìm
-@Chuyên ngành kinh tế
--bộ trình duyệt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--bộ duyệt xét
-@Lĩnh vực: toán & tin
--chế độ Browse
--trình duyệt
+viola
+	
+*  danh từ
+- (âm nhạc) đàn antô
+- (thực vật học) cây hoa tím
+

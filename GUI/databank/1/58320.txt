@@ -1,16 +1,46 @@
-twice	@twice /twais/
-*  phó từ
-- hai lần
-=twice two is four+ hai lần hai là bốn
-=I have read this book twice+ tôi đã đọc quyển sách này hai lần
-- gấp hai
-=I want twice as much (many)+ tôi cần gấp hai thế này
-!to think twice about doing something
-- suy nghĩ chín chắn khi làm gì
-!not to think twice about
-- không nghĩ nhiều về, không để tâm lắm đến, quên ngay
+scour
+	
+*  danh từ
+- sự lau chùi, sự cọ
+- sự xối nước sục sạch bùn (ở lòng sông...)
+- thuốc tẩy vải
+- bệnh ỉa chảy (của động vật)
+*  ngoại động từ
+- lau, chùi cọ
+- xối nước sục sạch bùn (ở lòng sông, ống dẫn nước...)
+- tẩy, gột (quần áo)
+- tẩy (ruột)
+*  động từ
+- sục vội sục vàng, sục tìm
+=to scour the coast
++ sục vội sục vàng ven biển
+- đi lướt qua, đi lướt qua
+@Chuyên ngành kinh tế
+-cọ sạch
+-lau chùi
+-sự cọ sạch
+-sự lau chùi
+-sự tẩy rửa
+-tẩy rửa
 @Chuyên ngành kỹ thuật
--gấp đôi
--hai lần
-@Lĩnh vực: toán & tin
--gấp đôi, hai lần
+-cạo rà
+-cọ sạch
+-đánh sạch
+-khử cặn
+-làm bóng
+-rửa xói
+-sự cọ sạch
+-sự làm sạch
+-sự rửa sạch
+-sự rửa xói
+-sự tẩy sạch
+-sự xói lở
+-sự xói mòn
+-sự xúc rửa
+-xói lở
+-xói mòn
+@Lĩnh vực: dệt may
+-dội rửa
+-giặt
+-khử keo tơ (len)
+

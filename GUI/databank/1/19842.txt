@@ -1,11 +1,5 @@
-expedition	
-@expedition /,ekspi'diʃn/
-*  danh từ
-- cuộc viễn chinh; đội viễn chinh
-- cuộc thám hiểm; đoàn thám hiểm
-- cuộc hành trình, cuộc đi; đoàn người đi (trong cuộc hành trình)
-- tính chóng vánh, tính mau lẹ, tính khẩn trương
-@Chuyên ngành kỹ thuật
--cuộc hành trình
-@Chuyên ngành kỹ thuật
--cuộc hành trình
+jackfruit
+	
+* danh từ
+- cây mít; quả mít
+

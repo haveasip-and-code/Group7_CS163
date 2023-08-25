@@ -1,31 +1,4 @@
-weather	@weather /'weθə/
-*  danh từ
-- thời tiết, tiết trời
-=bad weather+ thời tiết xấu, trời xấu
-=heavy weather+ (hàng hải) trời bão
-- bản thông báo thời tiết (đăng trên báo)
-!to keep one's weather eye open
-- cảnh giác đề phòng
-!to make heavy weather of
-- khổ vì, điêu đứng vì
-!under the weather
-- khó ở, hơi mệt['weðə]
-*  ngoại động từ
-- dầm mưa dãi gió; để nắng mưa làm hỏng; phơi nắng phơi sương
-=rocks weathered by mind and water+ đá bị gió mưa làm mòn
-- (hàng hải) thừa gió vượt qua, căng buồm vượt qua (một mũi đất); vượt qua (cơn bão)
-- (nghĩa bóng) vượt qua, chiến thắng
-=to weather one's difficulties+ khắc phục (vượt) khó khăn
-- (thương nghiệp) làm giả sắc cũ, làm giả nước cũ
-=to weather a bronzed statue+ làm giả sắc cũ một bức tượng đồng
-*  nội động từ
-- mòn, rã ra, đổi màu (vì gió mưa)
-!to weather through
-- thoát khỏi, khắc phục được, vượt được
-@Chuyên ngành kỹ thuật
--phong hóa
-@Lĩnh vực: xây dựng
--bị phong hóa
--để chịu thời tiết
-@Lĩnh vực: giao thông & vận tải
--thời thiết (khí tượng học)
+caesuric
+	
+- xem caesura
+

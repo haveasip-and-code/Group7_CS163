@@ -1,9 +1,14 @@
-chamfering	
+smithy
+	
+*  danh từ
+- lò rèn; phân xưởng rèn (hải quân Anh)
 @Chuyên ngành kỹ thuật
--góc lượn
+-là rèn
+-lò rèn
+-phân xưởng rèn
+-xưởng rèn
 @Lĩnh vực: cơ khí & công trình
--mắt vát
--sự vát góc
--sự vê (lượn)
-@Lĩnh vực: xây dựng
--sự vát cạnh (mép)
+-cái đe
+@Lĩnh vực: môi trường
+-sương mù quyện khói
+

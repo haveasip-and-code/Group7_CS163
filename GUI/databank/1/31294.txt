@@ -1,11 +1,5 @@
-lactate	@lactate
-* danh từ
-- (hoá học) lactat
-* nội động từ
-- tiết ra sữa; chảy sữa; sinh sữa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--lactat
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--lactat
+myeloid
+	
+@Lĩnh vực: y học
+-dạng tủy
+

@@ -1,7 +1,5 @@
-isotach	
-@isotach
+rundle
+	
 * danh từ
-- đường trên bản đồ nối những điểm có cùng sức gió
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--đường đẳng lưu tốc
+- ngón; chốt của cơ cấu Mantit
+

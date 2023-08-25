@@ -1,6 +1,9 @@
-asymptote	
-@asymptote
-- đường tiệm cận
-- curvilinear a. tiệm cận cong
-- inflexional a. tiệm cận uốn
-- reetilinear a. tiệm cận thẳng
+ungual
+	
+*  tính từ
+- (động vật học) (thuộc) móng
+- có móng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc móng
+

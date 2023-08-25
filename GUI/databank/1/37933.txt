@@ -1,10 +1,8 @@
-operated	@operated
-- được điều khiển
-- manually o. (máy tính) được điều khiển bằng tay
-- remotely o. được điểu khiển từ xa
+myalgia
+	
+*  danh từ
+- (y học) chứng đau cơ
 @Chuyên ngành kỹ thuật
--được dẫn động
--được điều chỉnh
--được điều khiển
-@Lĩnh vực: xây dựng
--được vận hành
+@Lĩnh vực: y học
+-chứng đau cơ
+

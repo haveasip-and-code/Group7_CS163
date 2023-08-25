@@ -1,13 +1,6 @@
-user	@user /'ju:z /
-*  danh từ
-- người dùng, người hay dùng
-=telephone user+ người dùng dây nói
-@Chuyên ngành kinh tế
--hộ sử dụng
--người sử dụng
-@Chuyên ngành kỹ thuật
--khách hàng
--người dùng
--người sử dụng
--người thuê bao (mạng thông tin)
--người tiêu thụ
+ruinous
+	
+*  tính từ
+- đổ nát
+- tàn hại, gây tai hại, làm thất bại, làm phá sản
+

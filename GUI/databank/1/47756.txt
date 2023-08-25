@@ -1,19 +1,15 @@
-ringing	@ringing
-* tính từ
-- trong trẻo; vang vọng (giọng)
-- rõ ràng; dứt khoát
-= ringing condemnation+sự lên án dứt khoát
-* danh từ
-- sự gọi/ bấm chuông
-= battery ringing+sự bấm chuông bằng pin
+restrictive
+	
+*  tính từ
+- hạn chế, giới hạn, thu hẹp
+=restrictive practices
++ biện pháp hạn chế (sản xuất công nghiệp...)
+@Chuyên ngành kinh tế
+-hạn chế
+-mang tính hạn chế
 @Chuyên ngành kỹ thuật
--sự đổ chuông
--sự gọi
--sự gọi chuông
--sự rung chuông
-@Lĩnh vực: đo lường & điều khiển
--dao động ringing
-@Lĩnh vực: điện
--dao động sót lại
-@Lĩnh vực: xây dựng
--sự kết vòng
+-giảm
+-hạn chế
+@Lĩnh vực: toán & tin
+-hạn chế, giảm
+

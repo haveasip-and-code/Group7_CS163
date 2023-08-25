@@ -1,26 +1,38 @@
-legal	@legal /'li:gəl/
+north
+	
+*  danh từ
+- hướng bắc, phương bắc, phía bắc
+=in the north
++ ở phương bắc
+=to the north of
++ ở phía bắc của
+- miền bắc
+- gió bấc
 *  tính từ
-- hợp pháp, theo pháp luật
-- do pháp luật định
-- (thuộc) pháp luật
-@Chuyên ngành kinh tế
--do luật định
--được luật pháp thừa nhận
--hợp pháp
--pháp định
--theo pháp luật
--thuộc pháp luật
--thuộc về pháp luật
--về mặt pháp luật
+- bắc, bấc
+=the north pole
++ Bắc cực
+=the north wind
++ gió bấc
+=the North star
++ sao Bắc đẩu
+*  phó từ
+- về hướng bắc, ở phía bắc
+=going north
++ đi về phía bắc
+=lying north
++ ở phía bắc
+=north and south
++ từ bắc chí nam
 @Chuyên ngành kỹ thuật
--hợp lệ
--hợp pháp
-@Lĩnh vực: toán & tin
--khả chấp
--pháp lý
-@Chuyên ngành kỹ thuật
--hợp lệ
--hợp pháp
-@Lĩnh vực: toán & tin
--khả chấp
--pháp lý
+-phía bắc
+-phương Bắc
+@Lĩnh vực: xây dựng
+-gió bấc
+@Lĩnh vực: cơ khí & công trình
+-gió bắc
+@Lĩnh vực: giao thông & vận tải
+-phuơng băc
+-về phía bắc
+-về phuơng bắc
+

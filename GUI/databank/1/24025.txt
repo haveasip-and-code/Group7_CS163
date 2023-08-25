@@ -1,11 +1,14 @@
-grammar	
-@grammar /'græmə/
-*  danh từ
-- (ngôn ngữ học) ngữ pháp=general (philosophical, universal) grammar
-+ ngữ pháp phổ thông=historical grammar
-+ ngữ pháp lịch sử=comparative grammar
-+ ngữ pháp so sánh
+seaming
+	
+-sự bao gói
+-sự cuộn
+-sự tạo đường nối
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cú pháp
--ngữ pháp
+-sự gấp mép
+-sự gấp nếp
+-sự khâu nối
+-sự uốn
+-sự uốn mép
+@Lĩnh vực: dệt may
+-sự may
+

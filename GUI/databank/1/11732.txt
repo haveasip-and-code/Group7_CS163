@@ -1,30 +1,25 @@
-conveyance	
-@conveyance /kən'veiəns/
+grouping
+	
 *  danh từ
-- sự chở, sự chuyên chở, sự vận chuyển=means of conveyance
-+ phương tiện vận chuyển
-- sự truyền, sự truyền đạt=conveyance of sound
-+ sự truyền âm
-- (pháp lý) sự chuyển nhượng, sự sang tên (tài sản); giấy chuyển nhượng, giấy sang tên (tài sản)
-- xe cộ=a public conveyance
-+ xe chở hành khách
+- sự họp thành nhóm
+- nhóm, tổ, đội
 @Chuyên ngành kinh tế
--chuyên chở
--giấy bán
--giấy chuyển nhượng
--giấy sang tên
--phưong tiện vận chuyển (xe, tàu...)
--sự chuyển nhượng (tài sản...)
--vận chuyển
--vận tải
+-phân loại
+-quy loại
+-sự gom lại một chỗ (hàng hóa)
+-sự phân nhóm
+-tập hợp
+-tụ tập
 @Chuyên ngành kỹ thuật
--băng tải
--chuyên chở
--sự chuyển
--sự tải
--sự vận chuyển
--thiết bị vận chuyển
-@Lĩnh vực: cơ khí & công trình
--sự (chuyên) chở
-@Lĩnh vực: xây dựng
--sự chở đến
+-sự nhóm lại
+-sự tạo nhóm
+-sự tập hợp
+@Lĩnh vực: điện
+-sự ghép nhóm
+-sự lập nhóm
+-sự phân nhóm
+@Lĩnh vực: toán & tin
+-sự gộp lại
+@Lĩnh vực: giao thông & vận tải
+-sự lập tàu
+

@@ -1,9 +1,25 @@
-acarid	
-@acarid
-* danh từ
-- (động vật) bộ ve bét
-* tính từ
-- thuộc bộ ve bét
+corporation
+	
+*  danh từ
+- đoàn thể, liên đoàn; phường hội
+- hội đồng thành phố ((cũng) minicipal corporation)
+- (thông tục) bụng phệ
+@Chuyên ngành kinh tế
+-công ty
+-công ty (thương mại)
+-công ty quốc doanh
+-pháp nhân (nhiều người hành xử chức quyền như một người)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--con ve (hay tích, bét)
+-chính xác
+-công ty (cổ phần)
+-điều chỉnh
+-hiệp hội
+-hiệu chỉnh
+-nghiệp đoàn
+@Lĩnh vực: điện
+-hội đồng thành phố
+-tập đoàn công nghiệp
+-tổng công ty
+@Lĩnh vực: toán & tin
+-tập đoàn
+

@@ -1,9 +1,14 @@
-charterer	
-@charterer /'tʃɑ:tərə/
-*  danh từ
-- (hàng hải) người thuê tàu (bằng hợp đồng)
-@Chuyên ngành kinh tế
--chủ hàng
--người thuê tàu
+sideslip
+	
+*danh từ
+-  sự trượt sang một bên của xe có động cơ
+-  (hàng không) sự bay liệng (sự bay nghiêng của một máy bay đang lượn vòng)
+-  mầm cây
+-  con hoang
+-  (sân khấu) cánh gà sân khấu (nơi kéo phông, kéo màn...)
+*nội động từ
+-  trượt sang một bên, dịch sang một bên
 @Chuyên ngành kỹ thuật
--người thuê tàu
+@Lĩnh vực: cơ khí & công trình
+-sự trượt bên
+

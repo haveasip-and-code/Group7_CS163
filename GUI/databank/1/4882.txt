@@ -1,17 +1,55 @@
-bate	
-@bate /beit/
-*  động từ
-- bớt, giảm bớt, trừ bớt=his energy has not bated
-+ nghị lực của anh ta không hề giảm bớt=to bate one's curiosity
-+ bớt tò mò=not to bate a jot of a sentence
-+ không bớt một cái chấm trong câu
+offer
+	
 *  danh từ
-- nước ngâm mềm da (trong khi thuộc da)
+- sự đưa tay ra, sự tỏ ra sẵn sàng cho, sự tỏ ra sẵn sàng làm
+- sự chào hàng
+- sự trả giá
+- lời dạm hỏi, lời đề nghị, lời ướm, lời mời chào
 *  ngoại động từ
-- ngâm mềm (da)
-*  danh từ
-- (từ lóng) cơn giận=to go into a bate
-+ nổi giận
+- biếu, tặng, dâng, hiến, cúng, tiến
+=to offer someone something
++ biếu ai cái gì
+- xung phong (nghĩa bóng), tỏ ý muốn, để lộ ý muốn
+=to offer to help somebody
++ xung phong, giúp đỡ ai
+- đưa ra bán, bày ra bán (hàng)
+- giơ ra, chìa ra, đưa ra mời
+=to offer one's hand
++ giơ tay ra (để bắt)
+=to offer a few remarks
++ đưa ra một vài câu nhận xét
+- đưa ra đề nghị
+=to offer a plan
++ đưa ra một kế hoạch, đề nghị một kế hoạch
+- dạm, hỏi, ướm
+*  nội động từ
+- cúng
+- xảy ra, xảy đến, xuất hiện
+=as opportunity offers
++ khi có dịp (xảy ra)
+!to offer battle
+- nghênh chiến
+!to offer resistance
+- chống cự
+@Chuyên ngành kinh tế
+-chào giá
+-cống hiến
+-cung (cấp)
+-đề nghị
+-đề xuất
+-đưa ra
+-giá báo
+-giá ra (cuả bên trái)
+-ra giá
+-sự chào hàng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--ngâm mềm
+-đưa ra
+-sự đấu thầu
+-sự đề nghị
+-sự đưa ra
+-sự gọi thầu
+@Lĩnh vực: điện
+-đơn chào giá
+@Lĩnh vực: cơ khí & công trình
+-sự chào hàng
+

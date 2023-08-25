@@ -1,4 +1,5 @@
-conventionalize	
-@conventionalize
-* động từ
-- làm thành quy ước, quy ước hoá
+instantiation
+	
+* danh từ
+- sự thuyết minh (một điều trừu tượng) bằng một thí dụ cụ thể
+

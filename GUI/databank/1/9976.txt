@@ -1,11 +1,5 @@
-coated	
-@coated
-- xem coat
-@Chuyên ngành kỹ thuật
--có lớp bảo vệ
--được bọc
--được phủ
--được phủ (chất dẻo)
-@Lĩnh vực: xây dựng
--được che phủ
--được trát mặt
+subjacency
+	
+* danh từ
+- tình trạng nằm dưới, ở dưới
+

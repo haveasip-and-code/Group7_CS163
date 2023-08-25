@@ -1,10 +1,5 @@
-omit	@omit /ou'mit/
-*  ngoại động từ
-- bỏ sót, bỏ quên, bỏ đi (một từ...)
-- không làm tròn (công việc), chểnh mảng
-@Chuyên ngành kỹ thuật
--bỏ đi
--bỏ qua
--quên
-@Lĩnh vực: toán & tin
--bỏ qua, bỏ đi
+homesick
+	
+*  tính từ
+- nhớ nhà, nhớ quê hương
+

@@ -1,9 +1,7 @@
-subprogram	@subprogram
-* danh từ
-- chương trình con (toán)
-@Chuyên ngành kỹ thuật
--chương trình phụ
--thường trình con
-@Lĩnh vực: toán & tin
--chương trình được gọi
--trình con
+noted
+	
+*  tính từ
+- nổi tiếng, có danh tiếng
+=a noted musician
++ một nhạc sĩ nổi tiếng
+

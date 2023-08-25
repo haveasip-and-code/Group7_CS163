@@ -1,26 +1,5 @@
-reflection	@reflection
-* danh từ
-- sự phản chiếu, sự phản xạ, sự dội lại
-- ánh phản chiếu; ánh phản xạ
-- sự suy nghĩ, sự ngẫm nghĩ; <snh> những ý nghĩ
-- sự phản ánh
-- sự nhận xét, sự phê phán
-- sự chỉ trích, sự chê trách, sự khiển trách
-- điều làm xấu lây, điều làm mang tiếng, điều làm mất uy tín
-- câu châm ngôn
-@Chuyên ngành kinh tế
--sự phản chiếu
--sự phản xạ
-@Chuyên ngành kỹ thuật
--ảnh
--phản chiếu
--sự phản chiếu
--sự phản xạ
-@Lĩnh vực: xây dựng
--ánh phản xạ
-@Lĩnh vực: toán & tin
--phép phản chiếu
--sự đối xứng
--sự đối xứng gương
+myogenic
+	
 @Lĩnh vực: y học
--sự phản chiếu, phản xạ
+-tính cơ
+

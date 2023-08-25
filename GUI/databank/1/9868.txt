@@ -1,20 +1,9 @@
-clothing	
-@clothing /'klouðiɳ/
-*  danh từ
-- quần áo, y phục=summer clothing
-+ quần áo mùa hè
-@Chuyên ngành kinh tế
--sự nhồi thịt
+unmoved
+	
+*  tính từ
+- không động đậy, không nhúc nhích
+- (nghĩa bóng) không mủi lòng, thản nhiên
 @Chuyên ngành kỹ thuật
--bao
--bọc
--che phủ
--lớp áo
--lớp bọc
--lớp phủ
--quần áo
--sự đông tụ
--sự phủ
--sự trát vữa
--sự vón cục
--vỏ
+@Lĩnh vực: toán & tin
+-không di chuyển
+

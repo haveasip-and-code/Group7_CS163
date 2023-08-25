@@ -1,7 +1,6 @@
-mini	@mini
-- xe mini (một loại xe nhỏ)
-- váy mini (một loại váy cộc)
-@Chuyên ngành kỹ thuật
--nhỏ
-@Lĩnh vực: xây dựng
--tí hon
+gliadin
+	
+* danh từ
+- cũng gliadine
+- gliadin
+

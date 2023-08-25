@@ -1,39 +1,8 @@
-tune	@tune /tju:n/
+glottis
+	
 *  danh từ
-- điệu (hát...), giai điệu
-- sự đúng điệu; sự hoà âm
-=to sing in tune+ hát đúng
-=to sing out of tune+ hát sai, hát lạc điệu
-- (nghĩa bóng) sự hoà hợp sự hoà thuận
-=to be in tune with somebody+ hợp với ai, hoà thuận với ai
-- sự cao hứng, sự hứng thú
-=I am not in tune for a talk this evening+ tôi không thấy hứng thú nói chuyện tối nay
-!to change one's tune; to sing another tune
-- (nghĩa bóng) đổi giọng, đổi thái độ
-!to the tune of five million
-- với số tiền là năm triệu
-*  ngoại động từ
-- (âm nhạc) lên dây so dây (đàn)
-- (nghĩa bóng) làm cho hoà hợp, làm cho phù hợp, làm cho ăn giọng, làm cho ăn khớp
-=you'll have to tune your theories to the new conditions of life+ anh phải làm cho những lý thuyết của anh phù hợp với những điều kiện mới của cuộc sống
-- (từ Mỹ,nghĩa Mỹ) điều chỉnh (máy...)
-*  nội động từ
-- (+ with) hoà hợp với, hoà nhịp với, ăn giọng với, ăn khớp với (đen & bóng)
-!to tune in
-- điều chỉnh làn sóng (truyền thanh)
-=to tune in to Pekin+ bắt đài Bắc kinh
-!to tune up
-- lên dây, so dây (dàn nhạc)
-- bắt đầu chơi (nhạc); bắt đầu hát
--(đùa cợt) bắt đầu nhé (trẻ con...)
+- (giải phẫu) thanh môn
 @Chuyên ngành kỹ thuật
--âm điệu
--chỉnh dẫn
--điều chỉnh
--điều hưởng
--sự điều hưởng
-@Lĩnh vực: toán & tin
--chỉnh
--vặn (núm chỉnh)
-@Lĩnh vực: vật lý
--làm cộng hưởng
+@Lĩnh vực: y học
+-thanh môn (khoảng giữa hai dây thanh âm)
+

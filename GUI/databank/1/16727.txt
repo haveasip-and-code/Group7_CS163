@@ -1,10 +1,24 @@
-draughtsman	
-@draughtsman /'drɑ:ftsmən/
+staging
+	
 *  danh từ
-- (như) drafter
-- quân cờ đam
+- sự đưa một vở kịch lên sân khấu
+- sự chạy xe ngựa chở khách (theo chặn đường nhất định)
+- sự bắc giàn
 @Chuyên ngành kỹ thuật
--quân cờ đam
-@Lĩnh vực: xây dựng
--người phác họa
--người phác thảo
+-bến tàu
+-cầu tàu
+-dàn giáo
+-giàn giáo
+-sàn làm việc
+@Lĩnh vực: cơ khí & công trình
+-giá đỡ bộ
+-sự bắc giàn
+-sự thay đổi có cấp (tốc độ)
+@Lĩnh vực: điện tử & viễn thông
+-sự dàn dựng
+-sự phân tách tầng (tên lửa)
+@Lĩnh vực: toán & tin
+-sự dịch chuyển (dữ liệu)
+-sự tách chuyển (dữ liệu)
+-sự tổ chức
+

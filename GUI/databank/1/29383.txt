@@ -1,3 +1,10 @@
-intermodal	
-@Chuyên ngành kinh tế
--liên thức
+teleconferencing
+	
+-hội nghị truyền hình
+-mở hội nghị từ xa
+-việc mở hội nghị từ xa
+-việc truyền đạt qua hội nghị điện thoại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-hội nghị viễn truyền
+

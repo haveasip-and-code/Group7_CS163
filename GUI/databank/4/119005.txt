@@ -1,0 +1,3 @@
+drug family
+a drug family is much more specific than drug class (i.e. stimulant, depressant, opiate, and hallucinogen) in that all drugs in a drug family affect the body in a similar manner through means of similar chemical structure. Examples of this include: ; The Phenethylamine Family: ; [amphetamine], [methamphetamine], [ephedrine], [MDMA] ([Ecstasy]), [MDA], [MDE], [Methylphenidate] ([Ritalin]), [2C-B], [2C-T-7], [mescaline] ; The Tryptamine Family: ; [DMT], [5-MeO-DMT], [AMT], [5-MeO-AMT], [psilocin], [psilocybin] ([Mushrooms]), [bufotenine], [LSD], [LSA] ; The Cannabinoid Family: ; [THC] ([Marijuana]), [dronabinol] ([Marinol])
+

@@ -1,20 +1,27 @@
-inhibition	
-@inhibition /,inhi'biʃn/
-*  danh từ
-- sự ngăn chặn, sự hạn chế, sự kiềm chế
-- (hoá học) (tâm lý học); (sinh vật học) sự ức chế
+consume
+	
+*  ngoại động từ
+- thiêu, đốt, cháy hết, tàn phá (lửa)
+- dùng, tiêu thụ
+=this engine consumes a ton of coal per hour
++ máy này tiêu thụ một tấn than một giờ
+- tiêu thụ, lãng phí, bỏ phí
+=to consume one's time
++ tiêu phí thời giờ
+- (chỉ động tính từ quá khứ) làm hao mòn, làm héo hon, làm khô héo, làm tiều tuỵ
+=to be consumed with grief
++ héo hon vì đau buồn
+*  nội động từ
+- cháy đi, tan nát hết
+- chết dần, hao mòn, héo hon, mòn mỏi, tiều tuỵ
 @Chuyên ngành kinh tế
--sự kìm hãm
--sự làm chận lại
--sự ngăn chặn
+-tiêu dùng
+-tiêu phí
+-tiêu thụ
 @Chuyên ngành kỹ thuật
--sự cấm
--sự kìm hãm
--sự trễ
--ức chế
-@Lĩnh vực: điện tử & viễn thông
--sự cản (mạch cửa)
-@Lĩnh vực: toán & tin
--sự ngăn cản
+-dùng
+@Lĩnh vực: hóa học & vật liệu
+-thiêu đốt
 @Lĩnh vực: điện lạnh
--sự ức chế
+-tiêu phí
+

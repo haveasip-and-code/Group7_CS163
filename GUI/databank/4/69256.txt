@@ -1,0 +1,3 @@
+Polish Roulette
+A game similar to Russian Roulette, but played with an automatic pistol. ; You load one or more rounds of ammunition into the clip of the pistol, and insert the clip. Then you pull the slide back and release it. ; Of course, in an automatic pistol, this inevitably loads a round into the chamber and cocks the weapon, ensuring that the gun WILL go off when you pull the trigger.
+

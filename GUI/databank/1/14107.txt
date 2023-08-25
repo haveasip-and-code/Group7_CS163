@@ -1,10 +1,9 @@
-deforestation	
-@deforestation /di,fɔris'teiʃn/
-*  danh từ
-- sự phá rừng; sự phát quang
-@Chuyên ngành kinh tế
--phá rừng
+climatic
+	
+*  tính từ
+- (thuộc) khí hậu, (thuộc) thời tiết
+=climatic conditions
++ điều kiện khí hậu
 @Chuyên ngành kỹ thuật
--sự phá rừng
-@Lĩnh vực: cơ khí & công trình
--sự chặt rừng
+-khí hậu
+

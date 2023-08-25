@@ -215,15 +215,19 @@ TSTNode* TSTNode::getAlways(string &cur,int idx) {
     }
     if (kq) if (kq->val!=0) return kq;
     if (lo) {
-        kq=lo->getAlways(cur,idx);
+        kq=lo->getAlways(cur,idx+1);
+        if (kq->val!=0) kq=lo->getAlways(cur,idx);
         if (kq->val!=0) return kq;
     }
     if (hi) {
-        kq=hi->getAlways(cur,idx);
+        kq=hi->getAlways(cur,idx+1);
+        if (kq->val!=0) kq=hi->getAlways(cur,idx);
         if (kq->val!=0) return kq;
+
     }
     if (mid) {
-        kq=mid->getAlways(cur,idx);
+        kq=mid->getAlways(cur,idx+1);
+        if (kq->val!=0) kq=mid->getAlways(cur,idx);
         if (kq->val!=0) return kq;
     }
     return this->getAlwaysDFS();

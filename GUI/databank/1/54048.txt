@@ -1,11 +1,28 @@
-subframe	@subframe
-* danh từ
-- khung sàn phụ; sườn khung phụ
+abatement
+	
+*  danh từ
+- sự dịu đi, sự yếu đi, sự nhụt đi, sự giảm bớt, sự đỡ, sự ngớt
+- sự hạ (giá), sự bớt (giá)
+- sự chấm dứt, sự thanh toán
+- (pháp lý) sự huỷ bỏ, sự thủ tiêu
+=abatement of a contract
++ sự huỷ bỏ một hợp đồng
+@Chuyên ngành kinh tế
+-bớt giá
+-đình chỉ
+-giảm giá
+-hủy bỏ
+-sự giảm giá
+-sự tiêu trừ
 @Chuyên ngành kỹ thuật
--khung phụ
-@Lĩnh vực: toán & tin
--khung con
-@Lĩnh vực: điện tử & viễn thông
--mành con
-@Lĩnh vực: ô tô
--sườn khung phụ (đỡ động cơ, hộp số..)
+-mất mát
+-phế liệu
+-sự giảm bớt
+-sự hạ xuống
+-sự thanh toán
+@Lĩnh vực: xây dựng
+-sự dịu đi
+-sự giảm yếu
+@Lĩnh vực: y học
+-sự giãn đau
+

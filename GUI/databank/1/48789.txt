@@ -1,5 +1,20 @@
-saturating	@saturating
-* danh từ
-- sự làm bão hoà
+manufacturer
+	
+*  danh từ
+- người chế tạo, người sản xuất
+- nhà công nghiệp; chủ xí nghiệp, chủ xưởng
+@Chuyên ngành kinh tế
+-chủ xí nghiệp
+-chủ xưởng
+-người sản xuất
+-nhà chế tạo
+-nhà công nghiệp
+-nhà sản xuất
 @Chuyên ngành kỹ thuật
--bão hòa
+-hãng sản xuất
+-người sản xuất
+-nhà sản xuất
+@Lĩnh vực: cơ khí & công trình
+-người chế tạo
+-nhà chế tạo
+

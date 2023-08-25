@@ -1,7 +1,10 @@
-reglet	@reglet
-* danh từ
-- (kỹ thuật) thanh gỗ chèn
-- (ngành in) thanh chèn dòng
+dabber
+	
+*  danh từ
+- người đánh nhẹ, người vỗ nhẹ, người xoa nhẹ
+- người chấm nhẹ, người thấm nhẹ
+- nùi vải, nùi bông, miếng bọt biển (để chấm, thấm...)
+- (ngành in) trục lăn mực (lên bản in)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--gờ phẳng
+-chổi
+

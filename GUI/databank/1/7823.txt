@@ -1,13 +1,6 @@
-capability	
-@capability /,keipə'biliti/
-*  danh từ
-- khả năng, năng lực
-- (số nhiều) năng lực tiềm tàng=to have capabilities
-+ có nhiều năng lực tiềm tàng
-@Chuyên ngành kỹ thuật
--điện dung
--dung lượng
--dung môi
--khả năng
--năng lực
--tiềm lực
+metrological
+	
+*  tính từ
+- (thuộc) khoa đo lường
+- (thuộc) hệ thống đo lường
+

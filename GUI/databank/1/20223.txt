@@ -1,19 +1,17 @@
-faced	
-@faced
-- (tạo nên tính từ ghép) có một kiểu mặt được nói rõ
-- red
--faced
-- mặt đỏ
-- baby
--faced
-- mặt như trẻ con
+zip
+	
+*  danh từ
+- tiếng rít (của đạn bay); tiếng xé vải
+- (nghĩa bóng) sức sống, nghị lực
+*  nội động từ
+- rít, vèo (như đạn bay)
+=to zip past
++ chạy vụt qua (xe); vèo qua, rít qua (đạn)
 @Chuyên ngành kỹ thuật
--được phủ
-@Lĩnh vực: xây dựng
--được ốp
--được ốp mặt
-@Chuyên ngành kỹ thuật
--được phủ
-@Lĩnh vực: xây dựng
--được ốp
--được ốp mặt
+-vùng
+@Lĩnh vực: dệt may
+-đóng khóa kéo
+-đóng phecmơtuya
+-mở khóa kéo
+-mở phecmơtuya
+

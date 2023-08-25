@@ -1,5 +1,7 @@
-matchboard	@Chuyên ngành kỹ thuật
--bảng mẫu
--ván cừ
-@Lĩnh vực: cơ khí & công trình
--tấm mẫu (đúc)
+archaeology
+	
+*  danh từ
+- khảo cổ học
+@Chuyên ngành kỹ thuật
+-khảo cổ học
+

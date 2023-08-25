@@ -1,28 +1,53 @@
-park	@park /pɑ:k/
+entrance
+	
 *  danh từ
-- vườn hoa, công viên
-- bâi (bâi đất, thường có thú rừng; bãi cỏ quanh biệt thự ở nông thôn)
-- bâi (để xe, để pháo...)
+- sự đi vào
+- (sân khấu) sự ra (của diễn viên)
+- sự nhậm (chức...)
+- quyền vào, quyền gia nhập
+- tiền vào, tiền gia nhập ((cũng) entrance_fee)
+- cổng vào, lối vào
 *  ngoại động từ
-- khoanh vùng thành công viên
-- (quân sự) bố trí (pháo...) vào bãi
-- đỗ (xe...) ở bãi
+- làm xuất thần
+- làm mê li
+- mê hoặc (ai đén chỗ...)
+=to entrance someone to his destruction
++ mê hoặc ai đến chỗ làm cho người ta bị thất cơ lỡ vận
 @Chuyên ngành kinh tế
--công viên
+-cho gia nhập
+-cho vào
+-sự nhận vào
+-sự vào cảng
 @Chuyên ngành kỹ thuật
--bãi đất
--bãi đỗ xe
--đỗ
--đỗ lại
--dừng
--khu
--quảng trường
--vườn hoa
-@Lĩnh vực: điện
--đỗ tại bãi
+-cửa vào
+-đi vào
+-điểm vào
+-đường vào
+-gia nhập
+-lối vào
+-ngõ vào
+-tiền sảnh
 @Lĩnh vực: xây dựng
--đoàn xe
--sân đỗ xe
--sân sửa chữa
-@Lĩnh vực: cơ khí & công trình
--thung lũng núi cao
+-cửa vào hầm
+-đầu âu tàu
+-đầu âu thuyền
+-lối vào, cổng vào
+@Lĩnh vực: toán & tin
+-sự gia nhập
+@Chuyên ngành kỹ thuật
+-cửa vào
+-đi vào
+-điểm vào
+-đường vào
+-gia nhập
+-lối vào
+-ngõ vào
+-tiền sảnh
+@Lĩnh vực: xây dựng
+-cửa vào hầm
+-đầu âu tàu
+-đầu âu thuyền
+-lối vào, cổng vào
+@Lĩnh vực: toán & tin
+-sự gia nhập
+

@@ -1,4 +1,20 @@
-outstrip	@outstrip /aut'strip/
-*  ngoại động từ
-- bỏ xa, chạy vượt xa, chạy nhanh hơn
-- giỏi hơn, có khả năng hơn
+lightship
+	
+*  danh từ
+- thuyền hiệu có đèn (để báo trước cho các tàu bè đi đêm)
+@Chuyên ngành kinh tế
+-tàu đèn pha
+-thuyền hiệu có đèn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đèn phao thuyền
+-tàu hải đăng
+@Lĩnh vực: giao thông & vận tải
+-tàu đèn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đèn phao thuyền
+-tàu hải đăng
+@Lĩnh vực: giao thông & vận tải
+-tàu đèn
+

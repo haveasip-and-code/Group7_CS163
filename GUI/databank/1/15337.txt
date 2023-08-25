@@ -1,4 +1,14 @@
-digenetic	
-@digenetic
-* tính từ
-- xen kẽ thế hệ
+contagious
+	
+*  tính từ
+- lây ((nghĩa đen) & (nghĩa bóng))
+=a contagious disease
++ bệnh lây
+=contagious laughter
++ cái cười lây
+=contagious gloom
++ nỗi buồn lây
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-truyền nhiễm
+

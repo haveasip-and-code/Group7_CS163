@@ -1,12 +1,10 @@
-tarred	@tarred
-* tính từ
-- thuộc nhựa cây
-- tẩm (quét) nhựa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--được rải nhựa
--được thấm nhựa
-@Lĩnh vực: hóa học & vật liệu
--được tẩm hắc ín
-@Lĩnh vực: cơ khí & công trình
--trải nhựa
+exacting
+	
+*  tính từ
+- đòi hỏi nhiều, hay đòi hỏi quá quắt, sách nhiễu (người)
+- đòi hỏi phải kiên trì, đòi hỏi phải cố gắng...
+=an exacting job
++ một đòi hỏi có nhiều cố gắng
+@Chuyên ngành kinh tế
+-khó khăn cần đặc biệt chú ý
+

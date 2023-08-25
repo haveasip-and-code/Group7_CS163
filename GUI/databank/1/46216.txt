@@ -1,8 +1,15 @@
-reductive	@reductive
-* danh từ
-- chất khử
-* tính từ
-- giảm bớt, rút gọn, thu nhỏ
-- hoàn nguyên
-- cải tạo, cải cách
-- khử
+capitalist
+	
+*  danh từ
+- nhà tư bản
+!cockroach capitalist
+- (từ Mỹ,nghĩa Mỹ) nhà tư bản nhỏ, tiểu chủ
+*  tính từ
++ (capitalistic)
+/,kæpitə'listik/
+- tư bản, tư bản chủ nghĩa
+@Chuyên ngành kinh tế
+-người theo chủ nghĩa tư bản
+-nhà giàu
+-nhà tư bản
+

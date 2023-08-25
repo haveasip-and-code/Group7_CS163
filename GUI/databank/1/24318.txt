@@ -1,12 +1,8 @@
-grippe	
-@grippe /grip/
-*  động từ
-- nắm chặt, cầm chặt, kẹp chặt
-- áp bức, đè nén, kìm kẹp
-- làm cho đau bụng quặn
-- (hàng hải) cột (thuyền) lại
-- (hàng hải) trôi theo gió (thuyền)
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm phiền, làm bực mình
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kêu ca, phàn nàn
-*  danh từ (thông tục)
-- bệnh cúm
+hyperostosis
+	
+* danh từ; số nhiều hyperostoses
+- (y học) chứng dày xương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chứng tăng sinh xương
+

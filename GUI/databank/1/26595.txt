@@ -1,11 +1,9 @@
-hydrophilic	
-@hydrophilic
-* tính từ
-- có thể hút nước
-- có thể thấm nước
+fermentable
+	
+*  tính từ
+- có thể lên men được
+- có thể kích thích, có thể khích động, có thể vận động, có thể xúi giục
 @Chuyên ngành kinh tế
--có thể hút nước
-@Chuyên ngành kỹ thuật
--ưa ẩm
-@Lĩnh vực: hóa học & vật liệu
--ưa nước
+-có khả năng lên men
+-có thể lên men
+

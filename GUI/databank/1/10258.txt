@@ -1,4 +1,10 @@
-collating	
+shrinkable
+	
+*  tính từ
+- có thể làm co lại được, có thể rút ngắn lại; có thể bị co
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--so sánh lựa chọn
+-co được (màng mỏng)
+-co rút được
+@Lĩnh vực: điện
+-có tính co ngót
+

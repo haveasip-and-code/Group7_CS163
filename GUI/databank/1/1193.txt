@@ -1,10 +1,13 @@
-aggrade	
-@aggrade
-* ngoại động từ
-- làm cao lên= silt has aggraded the riverbed
-+bùn làm lòng sông cao lên
+surveillance
+	
+*  danh từ
+- sự giám sát
+=to be under surveillance
++ bị giám sát, bị theo dõi
+@Chuyên ngành kinh tế
+-sự giám sát
 @Chuyên ngành kỹ thuật
--bồi
--bồi đắp
-@Lĩnh vực: xây dựng
--san lấp
+-sự giám sát
+@Lĩnh vực: điện tử & viễn thông
+-sự quản đốc
+

@@ -1,12 +1,9 @@
-inbuilt	
-@inbuilt
-* tính từ
-- gắn liền; vốn có; sẵn có; cố hữu
-@Chuyên ngành kỹ thuật
--gắn vào
--lắp vào
--lồng vào
-@Lĩnh vực: xây dựng
--được xếp vào
-@Lĩnh vực: hóa học & vật liệu
--ghép vào
+skunk
+	
+*  danh từ
+- (động vật học) chồn hôi
+- bộ lông chồn hôi
+- (thông tục) người bẩn thỉu hôi hám, người đáng khinh bỉ
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh bại không gỡ được (trong cuộc đấu...)
+

@@ -1,10 +1,19 @@
-epilepsy	
-@epilepsy /'epilepsi/
-*  danh từ
-- (y học) động kinh
+react
+	
+*  nội động từ
+- tác động trở lại, ảnh hưởng trở lại, phản ứng lại
+=tyranny reacts upon the tyrant himself
++ sự bạo ngược tác hại trở lại ngay đối với kẻ bạo ngược
+- (vật lý); (hoá học) phản ứng
+- (
++ against) chống lại, đối phó lại
+- (quân sự) phản công, đánh trả lại lại
+- (tài chính) sụt, hạ (giá cả)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--động kinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--động kinh
+-phản ứng
+@Lĩnh vực: điện lạnh
+-phản ứng (với)
+-tương tác (với)
+@Lĩnh vực: toán & tin
+-tác động trở lại
+

@@ -1,15 +1,10 @@
-alphanumeric	
-@alphanumeric
-- (Tech) chữ
--số, mẫu tự
--số tự
-@Chuyên ngành kinh tế
--gồm chữ và số
--gồm chữ và số (nói về máy tính)
--vừa có chữ vừa có số
+toweling
+	
+*  danh từ
+- sự lau bằng khăn, sự chà xát bằng khăn
+- vải làm khăn lau, vải bông làm khăn tắm
+- (thông tục) trận đòn
 @Chuyên ngành kỹ thuật
--chữ số liệu
--chữ
--số
-@Lĩnh vực: toán & tin
--kiểu chữ số
+@Lĩnh vực: xây dựng
+-sự xoa trát
+

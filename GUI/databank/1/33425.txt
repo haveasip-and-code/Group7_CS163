@@ -1,4 +1,26 @@
-mallard	@mallard /'mæləd/
+inversion
+	
 *  danh từ
-- (động vật học) vịt trời
-- thịt vịt trời
+- sự lộn ngược, sự đảo ngược; sự bị lộn ngược, sự bị đảo ngược
+- (ngôn ngữ học) phép đảo (trật tự của từ)
+- (hoá học) sự nghịch chuyển
+- (tâm lý học) sự yêu người cùng tính; sự đồng dâm
+- (toán học) phép nghịch đảo
+@Chuyên ngành kinh tế
+-sự đảo ngược
+@Chuyên ngành kỹ thuật
+-đảo ngược
+-lộn ngược
+-nghịch đảo
+-phép nghịch đảo
+-sự đảo
+-sự đảo ngược
+-sự hoán vị
+-sự nghịch đảo
+@Lĩnh vực: điện
+-nghịch thế
+@Lĩnh vực: toán & tin
+-phép biến đổi ngược
+@Lĩnh vực: xây dựng
+-phép đảo nghịch
+

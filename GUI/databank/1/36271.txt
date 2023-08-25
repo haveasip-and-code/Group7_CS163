@@ -1,5 +1,8 @@
-named	@Chuyên ngành kinh tế
--ngày tháng chỉ định
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--được đặt tên
+aeroelasticity
+	
+@Lĩnh vực: điện tử & viễn thông
+-độ co giãn khí
+-tính co giãn khí
+@Lĩnh vực: xây dựng
+-tính khí đàn hồi
+

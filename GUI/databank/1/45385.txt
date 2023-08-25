@@ -1,7 +1,5 @@
-radiology	@radiology /,reidi'ɔlədʤi/
-*  danh từ
-- (y học) khoa tia X
-@Chuyên ngành kỹ thuật
--y học phóng xạ
-@Lĩnh vực: vật lý
--phóng xạ học
+esthesis
+	
+* danh từ
+- khả năng cảm giác
+

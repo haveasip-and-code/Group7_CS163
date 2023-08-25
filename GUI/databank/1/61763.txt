@@ -1,8 +1,5 @@
-videography	@Chuyên ngành kỹ thuật
--môn hiện
--sự ghi hình
--sự quay video
-@Lĩnh vực: điện lạnh
--kỹ thuật video
-@Lĩnh vực: điện tử & viễn thông
--môn truyền hình
+ballpark
+	
+* danh từ
+- sân chơi bóng chày
+

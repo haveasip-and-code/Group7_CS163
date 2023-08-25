@@ -1,6 +1,5 @@
-titer	@titer
-- xem titre
-@Chuyên ngành kỹ thuật
--hàm lượng
-@Lĩnh vực: y học
--độ chuẩn
+decentre
+	
+*  ngoại động từ
+- (vật lý) làm lệch tâm (các thấu kính)
+

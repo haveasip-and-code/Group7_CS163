@@ -1,13 +1,18 @@
-designation	
-@designation /,ddezig'neiʃn/
-*  danh từ
-- sự chỉ rõ, sự định rõ
-- sự chọn lựa, sự chỉ định, sự bổ nhiệm
-- sự gọi tên, sự mệnh danh
-@Chuyên ngành kỹ thuật
--ký hiệu
--sự bố trí
-@Lĩnh vực: toán & tin
--sự chỉ
-@Lĩnh vực: vật lý
--sự chỉ định
+beneath
+	
+*  phó từ
+- ở dưới thấp, ở dưới
+*  giới từ
+- ở dưới; kém, thấp kém
+=the tress
++ dưới hàng cây
+=beneath our eyes
++ dưới con mắt chúng ta
+=as a musician, he is far beneath his brother
++ là nhạc sĩ thì nó kém anh xa
+- không đáng, không xứng
+=beneath notice
++ không đáng chú ý
+=beneath contempt
++ không đáng để cho người ta khinh, khinh cũng không đáng
+

@@ -1,13 +1,21 @@
-denaturation	
-@denaturation /di:,neitʃə'reiʃn/
+familiar
+	
+*  tính từ
+- thuộc gia đình
+- thân thuộc, thân; quen thuộc, quen (với một vấn đề)
+- thông thường
+- không khách khí; sỗ sàng, suồng sã, lả lơi
+- (
++ with) là tình nhân của, ăn mằm với
 *  danh từ
-- sự làm biến tính, sự làm biến chất
-@Chuyên ngành kinh tế
--sự làm biến chất
--sự làm biến tính
+- bạn thân, người thân cận, người quen thuộc
+- người hầu (trong nhà giáo hoàng)
 @Chuyên ngành kỹ thuật
--biến chất
-@Lĩnh vực: hóa học & vật liệu
--biến tinh
-@Lĩnh vực: y học
--sự đổi tính, sự biến chất
+-quen thuộc
+-thông thường
+-thường
+@Chuyên ngành kỹ thuật
+-quen thuộc
+-thông thường
+-thường
+

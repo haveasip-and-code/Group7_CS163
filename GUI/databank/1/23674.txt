@@ -1,5 +1,16 @@
-gloves	
+internal
+	
+*  tính từ
+- ở trong, nội bộ
+- trong nước
+- (thuộc) nội tâm, (thuộc) tâm hồn, từ trong thâm tâm; chủ quan
+- (thuộc) bản chất; nội tại
+=internal evidence
++ chứng cớ nội tại
+- (y học) dùng trong (thuốc)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--bao tay
--găng tay
+-bên trong
+-nội bộ
+@Lĩnh vực: toán & tin
+-cài đặt sẵn
+

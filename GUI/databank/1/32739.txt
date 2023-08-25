@@ -1,5 +1,17 @@
-lopsided	@Chuyên ngành kỹ thuật
--không cân
-@Lĩnh vực: cơ khí & công trình
--cong lệch
--không phẳng
+encounter
+	
+*  danh từ
+- sự gặp gỡ, sự bắt gặp; sự gặp phải; cuộc gặp gỡ
+- sự chạm trán, sự đọ sức; cuộc chạm trán, cuộc đọ sức; cuộc chạm trán, cuộc đấu (trí...)
+*  ngoại động từ
+- gặp thình lình, bắt gặp
+- chạm trán, đọ sức với, đấu với
+@Chuyên ngành kỹ thuật
+-sự va chạm
+@Lĩnh vực: toán & tin
+-bắt gặp
+@Chuyên ngành kỹ thuật
+-sự va chạm
+@Lĩnh vực: toán & tin
+-bắt gặp
+

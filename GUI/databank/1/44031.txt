@@ -1,13 +1,93 @@
-prong	@prong /prong/
+plate
+	
 *  danh từ
-- răng, ngạnh, chĩa
-=the prong of a fork+ răng chĩa
-- cái chĩa (để đảo rơm)
-- nhánh (gác nai)
+- bản, tấm phiếu, lá (kim loại)
+=battery plate
++ bản ắc quy
+- biển, bảng (bằng đồng...)
+=number plate
++ biển số xe (ô tô...)
+- bản khắc kẽm; tranh khắc kẽm, bản đồ khắc kẽm; khuôn in (bằng chì...)
+- tấm kính ảnh, tấm kẽm chụp ảnh (thay cho phim)
+- (kiến trúc) đòn ngang; thanh ngang
+=roof plate
++ đòn móc
+=window plate
++ thanh ngang khung cửa sổ
+- đĩa (để đựng thức ăn); đĩa thức ăn
+=a plate of beef
++ một đĩa thịt bò
+- (danh từ tập thể số ít) bát đĩa bằng vàng bạc
+- đĩa thu tiền quyên (ở nhà thờ)
+- cúp vàng, cúp bạc; cuộc đua tranh cúp vàng; cuộc đua ngựa tranh cúp vàng)
+- lợi giả (để cắm răng giả)
+- đường ray ((cũng) plate rail)
+- (ngành in) bát chữ
 *  ngoại động từ
-- chọc thủng bằng chĩa, đâm thủng bằng chĩa
-- đào lên bằng chĩa
+- bọc sắt, bọc kim loại
+=to plate a ship
++ bọc sắt một chiếc tàu
+- mạ
+=to plate something with gold (silver)
++ mạ vàng (bạc) vật gì
+- (ngành in) sắp chữ thành bát
+@Chuyên ngành kinh tế
+-cấy trên đĩa Petri
+-đĩa Petri (nuôi cấy vi sinh vật)
+@Chuyên ngành kinh tế
+-bản
+-đĩa tháp chưng cất
+-gieo hạt trên tấm
+-lưới máy xay thịt
+-phần ngực thịt bò
+-tấm
 @Chuyên ngành kỹ thuật
--chạc
--răng cưa
--vấu
+-bàn
+-bản
+-bản cực ắcqui
+-bản đồ
+-bản kẽm
+-bản minh họa rời
+-bản mỏng
+-bản vẽ
+-đĩa
+-đĩa mâm
+-dương cực
+-khuôn in
+-lá
+-ngói
+-mạ
+-phiến
+-phủ
+-phụ bản in
+-phủ tráng kim loại
+-tấm kim loại
+-tấm kim loại mỏng
+-tấm mỏng
+-thép
+-tờ
+-tôn
+@Lĩnh vực: xây dựng
+-bản (thép)
+-bản mỏng, phẳng
+-ốp tấm
+-tấm phiến
+-tấm tường
+@Lĩnh vực: điện
+-bản anôt
+-bản điện cực
+-biển số
+-lá điện cực
+-tấm anot
+@Lĩnh vực: toán & tin
+-bản, tấm
+@Lĩnh vực: ô tô
+-đĩa, tấm, bảng
+@Lĩnh vực: giao thông & vận tải
+-mạ tôn (đóng tàu)
+-tôn dày (đóng tàu)
+@Lĩnh vực: hóa học & vật liệu
+-phủ tôn
+@Lĩnh vực: vật lý
+-tấm kính ảnh
+

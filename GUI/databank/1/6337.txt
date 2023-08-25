@@ -1,4 +1,5 @@
-bopper	
-@bopper
-* danh từ
-- người nhảy điệu nhạc pop
+immutable
+	
+*  tính từ
+- không thay đổi, không biến đổi; không thể thay đổi được, không thể biến đổi được
+

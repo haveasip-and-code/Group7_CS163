@@ -1,0 +1,3 @@
+CND
+Could Not Duplicate, a situation where an end user reports an error that can not be duplicated by the programmer or the end user. These errors are typically disregarded and presumed to be either user error or stupidity.
+

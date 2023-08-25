@@ -1,9 +1,16 @@
-yen	@yen /jen/
+worker
+	
 *  danh từ
-- đồng yên (tiền Nhật bản)
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự thèm muốn, sự thèm thuồng
-*  nội động từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ((thường) + for) thèm, thèm thuồng
+- người lao động, người làm việc
+- thợ, công nhân
+- (số nhiều) giai cấp công nhân, nhân dân lao động
+- (động vật học) ong thợ
 @Chuyên ngành kinh tế
--đồng yên
+-công nhân
+-công nhân, người lao động, nhân viên
+-người làm việc
+-người lao động
+-nhân viên
+@Chuyên ngành kỹ thuật
+-thợ
+

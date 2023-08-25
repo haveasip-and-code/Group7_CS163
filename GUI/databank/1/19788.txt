@@ -1,12 +1,42 @@
-exoteric	
-@exoteric /,eksou'terik/
-*  tính từ
-- công khai
-- thông thường, phổ biến
-- không được tham gia sự truyền đạo bí mật
+puncture
+	
+*  danh từ
+- sự đâm, sự châm, sự chích; lỗ đâm, lỗ châm, lỗ chích, lỗ thủng
+- (điện học) sự đánh thủng
+=electric puncture
++ sự đánh thủng điện
+*  ngoại động từ
+- đam thủng, châm thủng, chích thủng
+- (nghĩa bóng) làm cho xì hơi, làm cho tịt ngòi
+=his ppride is punctured
++ tính kiêu căng tự đắc của nó bị làm xì rồi
+*  nội động từ
+- bị đâm thủng (lốp xe...); bị chích
 @Chuyên ngành kỹ thuật
+-lỗ
+-lỗ giùi, lỗ chích
+-lỗ thủng
+-sự đâm thủng
+-sự đánh xuyên
+-sự đục lỗ
+-sự làm thủng
+-sự nổ lốp xe
+-sự thủng lỗ
+-xuyên thủng
 @Lĩnh vực: y học
--sinh trưởng ngoài cơ thể
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sinh trưởng ngoài cơ thể
+-đâm chọc
+@Lĩnh vực: điện
+-điểm chọc thủng
+-điểm xuyên thủng
+-sự đánh thủng
+@Lĩnh vực: ô tô
+-lỗ thủng lốp xe
+@Lĩnh vực: toán & tin
+-sự chấm thủng
+@Lĩnh vực: điện lạnh
+-sự chọc thủng (qua vật cách điện rắn)
+@Lĩnh vực: điện tử & viễn thông
+-sự đánh thủng (cuộn tụ điện)
+@Lĩnh vực: cơ khí & công trình
+-sự lủng bánh xe
+

@@ -1,17 +1,8 @@
-fertile	
-@fertile /'fə:tail/
-*  tính từ
-- tốt, màu mỡ (đất)
-- có khả năng sinh sản
+probabilistic
+	
+* tính từ
+- thuộc thuyết cái nhiên
+- theo xác suất
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--màu mỡ
--phì nhiêu
-@Lĩnh vực: điện lạnh
--phì (nhiêu)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--màu mỡ
--phì nhiêu
-@Lĩnh vực: điện lạnh
--phì (nhiêu)
+-xác suất
+

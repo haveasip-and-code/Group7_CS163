@@ -1,18 +1,5 @@
-possess	@possess /pə'zes/
-*  ngoại động từ
-- có, chiếm hữu
-=to possess good qualities+ có những đức tính tốt
-=to be possessed of something+ có cái gì
-=to possess oneself of+ chiếm, chiếm đoạt, chiếm lấy, chiếm hữu
-=to possess oneself od someone's fortune+ chiếm đoạt tài sản của ai
-=to possess oneself+ tự chủ
-- ám ảnh (ma quỷ...)
-=to be possessed with (by) a devil+ bị ma quỷ ám ảnh
-=to be possessed with (by) and idea+ bị một ý nghĩ ám ảnh
-=what possesses you to do such as a thing?+ cái gì đã ám ảnh anh khiến anh làm điều đó
-!like all possessed
-- (từ Mỹ,nghĩa Mỹ) hết sức hăng hái, hết sức sôi nổi
-!to possess one's soul (one's mind)
-- tự chủ được
-@Chuyên ngành kỹ thuật
--có
+ciphertext
+	
+* danh từ
+- văn bản viết thành mật mã
+

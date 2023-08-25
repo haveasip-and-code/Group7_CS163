@@ -1,13 +1,6 @@
-beer	
-@beer /bi:n/
-*  danh từ
-- rượu bia!to be in beer
-- ngà ngà say!beer and skittles
-- những cái thú vị, những trò giải trí vui chơi=life is not all beer and skittles
-+ đời không phải lúc nào cũng chỉ giải trí vui chơi
-@Chuyên ngành kinh tế
--bia
--rượu bia
+greatest
+	
+- lớn nhất, có ý nghĩa nhất
 @Chuyên ngành kỹ thuật
--bia
--rượu bia
+-lớn nhất
+

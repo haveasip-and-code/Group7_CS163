@@ -1,5 +1,9 @@
-organoleptic	@organoleptic
-* tính từ
-- khả năng nhận cảm (bằng cơ quan)
-@Chuyên ngành kinh tế
--cảm quan
+advisory
+	
+*  tính từ
+- để hỏi, để xin ý kiến; cho ý kiến, cố vấn
+=advisory council
++ hội đồng tư vấn
+@Chuyên ngành kỹ thuật
+-cố vấn
+

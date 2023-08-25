@@ -1,0 +1,3 @@
+count-wheel
+The wheel in a clock which regulates the number of strokes.
+

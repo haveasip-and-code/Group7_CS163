@@ -1,15 +1,7 @@
-verifier	@verifier /'verifaiə/
-*  danh từ
-- người thẩm tra
-- người xác minh
-@Chuyên ngành kỹ thuật
--bộ kiểm tra
--người kiểm tra
--nguồn xác minh
--máy kiểm tra
-@Lĩnh vực: toán & tin
--bộ kiểm chứng
-@Lĩnh vực: hóa học & vật liệu
--dụng cụ lấy mẫu lõi ở biển (khoan sâu)
-@Lĩnh vực: xây dựng
--máy kiểm phiếu
+squeamish
+	
+*  tính từ
+- hay buồn nôn
+- khó tính, khe khắt
+- quá cẩn thận, quá câu nệ
+

@@ -1,3 +1,4 @@
-subcomponent	@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--chi tiết phụ
+resalable
+	
+-có thể bán lại
+

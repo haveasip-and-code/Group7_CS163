@@ -1,12 +1,14 @@
-purging	@Chuyên ngành kỹ thuật
--sự làm sạch
--sự rửa
--sự tháo rửa
--sự xóa
-@Lĩnh vực: toán & tin
--sự dọn dẹp sạch
-@Lĩnh vực: hóa học & vật liệu
--sự sạch
--sự thanh lọc
-@Lĩnh vực: điện
--tẩy uế
+exhale
+	
+*  động từ
+- bốc lên, toả ra
+- trút (cơn giận; hơi thở cuối cùng...); làm hả (giận); thốt ra (lời...)
+@Chuyên ngành kỹ thuật
+-bốc hơi
+-phun khí
+-thoát khí
+@Chuyên ngành kỹ thuật
+-bốc hơi
+-phun khí
+-thoát khí
+

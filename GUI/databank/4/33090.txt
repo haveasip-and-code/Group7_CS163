@@ -1,0 +1,3 @@
+Unsupported marker type 0x0f
+Another useless information telling me why my game cannot be run.
+

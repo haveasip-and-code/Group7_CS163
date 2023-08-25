@@ -1,35 +1,10 @@
-dim	
-@dim /dim/
-*  tính từ
-- mờ, lờ mờ, tối mờ mờ, không rõ ràng; nhìn không rõ=a dim light
-+ ánh sáng lờ mờ=a dim room
-+ gian phòng tối mờ mờ=dim eyes
-+ mắt mờ không nhìn rõ
-- nghe không rõ; đục (tiếng)=a dim sound
-+ tiếng đục nghe không rõ
-- không rõ rệt, mập mờ, lờ mờ=a dim recollection
-+ ký ức lờ mờ=a dim idea
-+ ý nghĩ mập mờ
-- xỉn, không tươi, không sáng (màu sắc, kim loại...)!to take a dim view of something)
-- (thông tục) bi quan về cái gì
-*  ngoại động từ
-- làm mờ, làm tối mờ mờ=to dim a light
-+ làm mờ ánh sáng=to dim the eyes
-+ làm mờ mắt=to dim a room
-+ làm gian phòng tối mờ mờ
-- làm nghe không rõ, làm đục (tiếng)
-- làm lu mờ (danh tiếng của ai...)
-- làm thành mập mờ, làm cho không rõ rệt, làm thành mơ hồ=to dim the memory
-+ làm cho trí nhớ thanh mập mờ
-- làm xỉn (màu sắc, kim loại...)
-*  nội động từ
-- mờ đi, tối mờ đi
-- đục đi (tiếng)
-- lu mờ đi (danh tiếng)
-- hoá thành mập mờ, hoá thành mơ hồ
-- xỉn đi (màu sắc, kim loại...)
+tops
+	
+* danh từ, pl
+- (the tops)  <thgt> cái gì nhất
 @Chuyên ngành kỹ thuật
--mờ
-@Lĩnh vực: điện
--mờ đi
--tối đi
+-dầu nhẹ
+@Lĩnh vực: hóa học & vật liệu
+-sản phẩm cất ngọn
+-sản phẩn ngọn
+

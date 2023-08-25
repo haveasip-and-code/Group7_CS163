@@ -1,0 +1,3 @@
+pi
+A multiplier with infinate decimal places, used to find the circumference of a circle. Its actually a ratio. ; circumference=diameter x pi, meaning that all circles are exactly pi times further around than they are across
+

@@ -1,0 +1,3 @@
+Touch screen
+Touchscreen is an input device which emulates mouse. Instead of using a mouse we can directly touch the monitor with our finger/stylus, and at the position of the touch a mouse click is generated. Touchscreen has three main parts: Touchscreen Sensor, Controller and Driver Software.
+

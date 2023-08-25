@@ -1,8 +1,15 @@
-anatomical	
-@anatomical /,ænə'tɔmikəl/
-*  tính từ
-- (thuộc) khoa giải phẫu
-- (thuộc) kết cấu, (thuộc) tổ chức (cơ thể...)
+prohibit
+	
+*  ngoại động từ
+- cấm, ngăn cấm, cấm chỉ
+=smoking is prohibited
++ cấm hút thuốc
+=to prohibit someone from doing something
++ ngăn cấm người nào làm việc gì
+@Chuyên ngành kinh tế
+-cấm
+-ngăn cản
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc giải phẫu
+@Lĩnh vực: xây dựng
+-cấm chỉ
+

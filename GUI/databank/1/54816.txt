@@ -1,17 +1,11 @@
-surd	@surd /sə:d/
-*  tính từ
-- (toán học) vô tỉ
-=surd root+ căn vô tỉ
-- (ngôn ngữ học) không kêu (âm)
-*  danh từ
-- (toán học) số vô tỉ
-- (ngôn ngữ học) âm không kêu
+dislocate
+	
+*  ngoại động từ
+- làm trật khớp (chân tay, máy móc...)
+- làm hỏng, làm trục trặc (kế hoạch, công việc)
+- (địa lý,địa chất) làm biến vị, làm đứt gãy (vỉa, tầng)
+- đổi chỗ, dời chỗ, chuyển chỗ
 @Chuyên ngành kỹ thuật
--biểu thức vô tỷ
--số vô tỷ
--tính vô tỷ
--vô tỷ
-@Lĩnh vực: điện lạnh
--không kêu (âm)
-@Lĩnh vực: toán & tin
--lượng vô tỷ
+-làm hỏng
+-làm lệch
+

@@ -1,17 +1,24 @@
-interpolation	
-@interpolation /in,tə:pou'leiʃn/
+sieve
+	
 *  danh từ
-- sự tự ý thêm từ (vào một văn kiện...); từ tự ý thêm từ (vào một văn kiện...); từ tự ý thêm từ (vào một văn kiện...); đoạn tự ý thêm từ (vào một văn kiện...)
-- (toán học) phép nội suy
+- cái giần, cái sàng, cái rây
+- người hay ba hoa; người hay hở chuyện
+*  ngoại động từ
+- giần, sàng, rây
 @Chuyên ngành kinh tế
--nội quy
--sự soán cải
--sự sửa lén
--sự thêm bớt (hợp đồng)
+-lọc
+-lưới
+-lưới hút
+-sàng
 @Chuyên ngành kỹ thuật
--nội suy
-@Lĩnh vực: toán & tin
--phép nội suy
--quá trình nội suy
+-bộ lọc
+-chọn lọc
+-lọc
+-lưới hút
+-máy sàng
+-phân loại (quặng)
+-rây
+-sàng
 @Lĩnh vực: xây dựng
--sự nội suy
+-cái lọc sàng
+

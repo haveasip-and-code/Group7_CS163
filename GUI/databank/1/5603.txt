@@ -1,8 +1,10 @@
-biolysis	
-@Chuyên ngành kinh tế
--sự sinh phân
+subtitle
+	
+*  danh từ
+- tiểu đề
+- lời thuyết minh (in ở dưới cảnh trong phim)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sinh phân
-@Lĩnh vực: y học
--sự phân hủy sinh vật
+-đoạn chú thích
+@Lĩnh vực: toán & tin
+-phụ đề
+

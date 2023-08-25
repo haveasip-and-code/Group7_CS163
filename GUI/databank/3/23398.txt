@@ -1,0 +1,3 @@
+bedstead
+A framework for supporting a bed.
+

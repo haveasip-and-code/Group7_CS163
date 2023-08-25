@@ -1,15 +1,5 @@
-welt	@welt /welt/
+revaccination
+	
 *  danh từ
-- đường viền (găng tay, túi áo)
-- diềm (ở mép đế giày dép)
-- lằn roi ((cũng) weal)
-*  động từ
-- viền (găng tay, túi áo)
-- khâu diềm (vào mép đế giày dép)
-- quất, vụt ((cũng) weal)
-@Chuyên ngành kỹ thuật
--đường viền
--uốn
--viền
-@Lĩnh vực: hóa học & vật liệu
--diềm
+- (y học) sự chủng lại
+

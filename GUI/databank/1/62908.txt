@@ -1,9 +1,7 @@
-whom	@whom /hu:m/
-*  đại từ nghi vấn
-- ai, người nào
-=whom did you see?+ anh đ  gặp ai thế?
-=of whom are you seaking?+ anh nói ai thế?
-*  đại từ quan hệ
-- (những) người mà
-=the man whom you saw+ người mà anh thấy
-=the men about whom we were speaking+ những người mà chúng ta nói tới
+treeless
+	
+*  tính từ
+- không có cây
+=a treeless plain
++ một cánh đồng không có cây, một cánh đồng trơ trụi
+

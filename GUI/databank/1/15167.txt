@@ -1,4 +1,13 @@
-diapausing	
-@diapausing
-* tính từ
-- đang ở thời kỳ đình dục, đang ở thời kỳ nghỉ hoạt động
+seagoing
+	
+*  tính từ
+- vượt biển, đi biển
+=seagoing vessel
++ tàu biển
+@Chuyên ngành kỹ thuật
+-đi biển được
+@Lĩnh vực: giao thông & vận tải
+-chịu được sóng
+@Lĩnh vực: xây dựng
+-sự đi biển
+

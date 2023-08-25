@@ -1,27 +1,5 @@
-capture	
-@capture /'kæptʃə/
-*  danh từ
-- sự bắt giữ, sự bị bắt
-- sự đoạt được, sự giành được
-- người bị bắt, vật bị bắt
-*  ngoại động từ
-- bắt giữ, bắt
-- đoạt được, lấy được, chiếm được, giành được, thu hút=to capture the attention of...
-+ thu hút được sự chú ý của...
-@Chuyên ngành kinh tế
--người hoặc vật bị bắt giữ
--sự bắt giữ (người, tàu ...)
-@Chuyên ngành kỹ thuật
--bắt
--bắt giữ
--sự bắt
--sự thu thập
--thu thập
-@Lĩnh vực: toán & tin
--bắt giữ lại
--sự bắt giữ
--sự thu nạp
--thu nạp
-@Lĩnh vực: điện tử & viễn thông
--bắt mục tiêu
--sự tự kích
+literalness
+	
+* danh từ
+- sự y theo nghĩa đen
+

@@ -1,10 +1,7 @@
-pebble	@pebble /'pebl/
-*  danh từ
-- đá cuội, sỏi
-- thạch anh (để làm thấu kính...); thấu kính bằng thạch anh
-- mã não trong
-@Chuyên ngành kỹ thuật
--đá cuội
--pha lê thiên nhiên
--sỏi
--sỏi nhỏ
+embattle
+	
+*  ngoại động từ
+- dàn (quân) thành thế trận
+*  ngoại động từ
+- làm lỗ châu mai ở (thành, tường...)
+

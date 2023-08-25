@@ -1,11 +1,5 @@
-fouling	
-@fouling
-* danh từ
-- sự làm hôi hám
-- sự làm tắc nghẽn
-- sự chỉ sai (khí cụ đo)
-@Chuyên ngành kỹ thuật
--đóng cáu
--sự tiêu hủy
-@Lĩnh vực: hóa học & vật liệu
--tích tụ bẩn
+exordium
+	
+*  danh từ,  số nhiều exordiums,  exordia
+- đoạn mào đầu (diễn văn...)
+

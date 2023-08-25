@@ -1,0 +1,3 @@
+functoid
+a functoid is a chunk of executable code that can define arbitrarily complex mappings between XML schemas
+

@@ -1,11 +1,22 @@
-maritime	@maritime /'mæritaim/
-*  tính từ
-- (thuộc) biển; (thuộc) ngành hàng hải
-=maritime law+ luật hàng hải
-- gần biển
-=the maritime provinces of the U.S.S.R.+ những tỉnh gần biển của Liên-xô
+interruption
+	
+*  danh từ
+- sự gián đoạn; sự bị gián đoạn, sự đứt quãng
+- sự ngắt lời; sự bị ngắt lời
+- cái làm gián đoạn
+- sự ngừng
+- (điện học) sự ngắt
 @Chuyên ngành kỹ thuật
--biển
--hàng hải
-@Lĩnh vực: xây dựng
--gần biển
+-điểm cắt
+-dừng
+-hoãn
+-ngắt
+-sự cắt
+-sự đứt đoạn
+-sự đứt quãng
+-sự gián đoạn
+-sự ngắt
+@Lĩnh vực: điện
+-sự ngắt điện
+-việc mất điện
+

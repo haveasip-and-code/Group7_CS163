@@ -1,37 +1,8 @@
-premium	@premium /'pri:mjəm/
-*  danh từ
-- phần thưởng
-- tiền thưởng
-- tiền đóng bảo hiểm
-- tiền học việc (trả ngay cho người dạy nghề)
-- tiền các đổi tiền ((cũng) premium on exchange)
-!at a premium
-- cao hơn giá qui định; (nghĩa bóng) được đánh giá cao
-!to put a premium on something
-- khuyến khích cái gì, xúi giục cái gì
-@Chuyên ngành kinh tế
--học phí
--hồi kim
--phí bảo hiểm
--sai kim
--thượng hảo hạng
--tiền bù
--tiền các
--tiền các (hối đoái)
--tiền chênh lệch
--tiền học nghề
--tiền học việc
--tiền lời bán ngoại tệ
--tiền thuê trả nước (trước khi kí kết hợp đồng)
--tiền thuê trả trước (trước khi ký hợp đồng)
--tiền thưởng
+bullnose
+	
+* danh từ
+- viên gạch góc tròn
 @Chuyên ngành kỹ thuật
--phần thưởng
--tiền
 @Lĩnh vực: xây dựng
--lệ phí
-@Lĩnh vực: toán & tin
--phí tổn (bảo hiểm)
--tiền phí tổn (bảo hiểm)
-@Lĩnh vực: hóa học & vật liệu
--tiền đóng bảo hiểm
+-gờ tròn, kết cấu tròn
+

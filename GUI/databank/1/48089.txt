@@ -1,19 +1,11 @@
-rout	@rout /raut/
-*  danh từ
-- đám đông người ồn ào hỗn độn
-- (pháp lý) sự tụ tập nhiều người (quá ba người) để phá rối trật tự trị an; sự rối loạn, sự phá rối
-- sự thất bại thảm hại
-=to put to rout+ làm cho thất bại thảm hại
-=to put to rout+ làm cho thất bại thảm hại, đánh cho tan tác
-- (quân sự) sự tháo chạy tán loạn
-=the retreat became a rout+ cuộc rút lui trở thành một cuộc tháo chạy tán loạn
-- (từ cổ,nghĩa cổ) buổi dạ hội lớn
-*  ngoại động từ
-- đánh cho tan tác
+commingle
+	
 *  động từ
-- (như) root
+- trộn lẫn; hỗn hợp, hoà lẫn (với nhau)
 @Chuyên ngành kỹ thuật
--đường đi
--hành trình
--phay mặt định hình
--phay rãnh
+-hỗn hợp
+@Lĩnh vực: xây dựng
+-hòa lẫn
+@Lĩnh vực: hóa học & vật liệu
+-trộn vào
+

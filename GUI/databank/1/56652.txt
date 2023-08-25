@@ -1,9 +1,5 @@
-tideway	@tideway
-* danh từ
-- luồng thủy triều
-- đoạn sông bị ảnh hưởng thủy triều
-@Chuyên ngành kỹ thuật
--dòng triều
--kênh triều
-@Lĩnh vực: cơ khí & công trình
--đường triều
+heraldic
+	
+*  tính từ
+- (thuộc) khoa nghiên cứu huy hiệu; (thuộc) huy hiệu
+

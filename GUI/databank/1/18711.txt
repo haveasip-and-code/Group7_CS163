@@ -1,12 +1,10 @@
-epicycle	
-@epicycle /'episaikl/
+containment
+	
 *  danh từ
-- (toán học) Epixic, ngoại luân
+- (chính trị) chính sách ngăn chận
 @Chuyên ngành kỹ thuật
--ngoại luân
-@Lĩnh vực: toán & tin
--đường ngoại luân
-@Chuyên ngành kỹ thuật
--ngoại luân
-@Lĩnh vực: toán & tin
--đường ngoại luân
+-đồ chứa
+-sự ngăn chặn
+@Lĩnh vực: vật lý
+-sự giam
+

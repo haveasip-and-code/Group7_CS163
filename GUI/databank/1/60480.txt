@@ -1,8 +1,11 @@
-unshipped	@unshipped /' n' ipt/
-*  tính từ
-- đ  bốc dỡ (hàng); đ  xuống bến (khách)
-- đ  bỏ, đ  tháo ra (mái chèo...)
+irreducibility
+	
+*  danh từ
+- tính không thể giảm bớt, tính không thể làm thành đơn giản, tính không thể làm nhỏ hơn
+- tính không thể làm thay đổi hình dạng được
+- (toán học) tính tối giản, tính không rút gọn được
+- (y học) sự không thể làm trở lại như cũ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đã bốc dỡ
--đã xuống bến (khách)
+@Lĩnh vực: toán & tin
+-tính không khả quy
+

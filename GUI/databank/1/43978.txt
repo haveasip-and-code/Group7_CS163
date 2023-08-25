@@ -1,10 +1,4 @@
-prologue	@prologue /prologue/
-*  danh từ
-- đoạn mở đầu (giới thiệu một vở kịch...))
-- (nghĩa bóng) việc làm mở đầu, sự kiện mở đầu
-*  ngoại động từ
-- giới thiệu bằng đoạn mở đầu; viết đoạn mở đầu
-@Chuyên ngành kỹ thuật
--ngôn ngữ PROLOG
-@Lĩnh vực: toán & tin
--dẫn nhập
+compulsivity
+	
+- xem compulsive
+

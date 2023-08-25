@@ -1,6 +1,15 @@
-reforestation	@reforestation /'ri:'fɔris'teiʃn/
-*  danh từ
-- sự trồng cây gây rừng lại
+associative
+	
+*  tính từ
+- liên tưởng
+- kết hợp, liên hợp, liên kết; liên đới
+=associative algebra
++ đại số kết hợp
+=associative law
++ luật kết hợp
+=associative relation
++ liên hệ kết hợp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự trồng lại rừng
+-kết hợp
+-liên kết
+

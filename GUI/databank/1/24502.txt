@@ -1,5 +1,13 @@
-guerilla	
-@guerilla /gə'rilə/ (guerrilla) /gə'rilə/
+subclass
+	
 *  danh từ
-- du kích, quân du kích
-- chiến tranh du kích ((cũng) guerilla war)
+- (sinh vật học) phân lớp
+@Chuyên ngành kỹ thuật
+-lớp con
+-lớp phụ
+@Lĩnh vực: toán & tin
+-dạng con
+-lớp phụ, lớp con
+@Lĩnh vực: hóa học & vật liệu
+-phụ lớp
+

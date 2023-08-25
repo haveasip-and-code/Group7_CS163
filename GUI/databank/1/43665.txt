@@ -1,5 +1,10 @@
-printability	@printability
-- xem printable
+outstation
+	
+* danh từ
+- tiền đồn; trạm ở xa, trạm tiền tiêu
 @Chuyên ngành kỹ thuật
--in ra được
--khả năng in ra được
+-trạm đầu cuối
+@Lĩnh vực: điện tử & viễn thông
+-đài ngoài
+-trạm ngoài
+

@@ -1,13 +1,16 @@
-pinpoint	@pinpoint
-* danh từ
-- đầu đinh ghim; <bóng> vật nhỏ và nhọn
-- <đngữ><qsự> rất nhỏ đòi hỏi sự chính xác tuyệt đối khi ném bom (khi bắn phá mục tiêu)
-* ngoại động từ
-- xác định, định vị (cái gì) chính xác; định nghĩa (cái gì) chính xác
+illusion
+	
+*  danh từ
+- ảo tưởng
+=to be under an illusion
++ có ảo tưởng
+=to indulge in illusions
++ nuôi những ảo tưởng
+- ảo giác, ảo ảnh
+=optical illusion
++ ảo thị
+- sự đánh lừa, sự làm mắc lừa
+- vải tuyn thưa (làm mạng che mặt...)
 @Chuyên ngành kỹ thuật
--chấm
--chỉ rõ
-@Lĩnh vực: điện
--chỉ xạ
-@Lĩnh vực: xây dựng
--đầu ghim
+-ảo giác
+

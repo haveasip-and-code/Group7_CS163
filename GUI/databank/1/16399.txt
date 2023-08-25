@@ -1,4 +1,31 @@
-dogmatist	
-@dogmatist /'dɔgmətist/
+transaction
+	
 *  danh từ
-- người giáo điều
+- sự thực hiện; sự giải quyết
+=to spend much time on the transaction of the business
++ mất nhiều thì giờ vào việc giải quyết công việc
+- sự quản lý kinh doanh; công việc kinh doanh; sự giao dịch
+=we have had no transactions with that firm
++ chúng tôi không có quan hệ kinh doanh (giao dịch) với hãng đó
+- (số nhiều) văn kiện hội nghị chuyên môn
+=transactions of the 5 th conference on atomic energy
++ văn kiện hội nghị lần thứ 5 về năng lượng nguyên tử
+@Chuyên ngành kinh tế
+-công việc kinh doanh
+-doanh vụ
+-giao dịch
+-giao dịch mua bán
+-kinh doanh
+-nghiệp vụ
+-việc giao dịch
+@Chuyên ngành kỹ thuật
+-bước chuyển
+-giao dịch
+-sự giao dịch
+@Lĩnh vực: toán & tin
+-giao tác
+-sự chuyển tác
+-sự giao tác
+-sự toàn tác
+-toàn tác
+

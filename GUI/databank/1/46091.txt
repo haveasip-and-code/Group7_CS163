@@ -1,8 +1,11 @@
-rector	@rector /'rektə/
+ochre
+	
 *  danh từ
-- hiệu trưởng (trường đại học, trường trung học)
-- mục sư (giáo hội Anh)
+- đất son
+- màu đất son
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--trang bên phải
--trang lẻ
+-đất son
+-hoàng thổ
+@Lĩnh vực: hóa học & vật liệu
+-son
+

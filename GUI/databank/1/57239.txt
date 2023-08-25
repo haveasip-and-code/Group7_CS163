@@ -1,7 +1,6 @@
-tracker	@tracker /'trækə/
-*  danh từ
-- người săn thú; người bắt thú
-- người theo dõi, người lùng bắt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--máy theo dõi
+includable
+	
+*  tính từ
+- có thể bao gồm
+- có thể tính đến, có thể kể cả
+

@@ -1,8 +1,10 @@
-colophony	
-@colophony /kə'lɔfəni/
-*  danh từ
-- nhựa thông
+misreading
+	
+* danh từ
+- sự nhầm lẫn trong việc dò lại chỉ số/độ số (trên dụng cụ đo đạc)
+- sự đọc/hiểu/giải thích sai
 @Chuyên ngành kỹ thuật
--nhựa thông
-@Lĩnh vực: hóa học & vật liệu
--colophan
+@Lĩnh vực: cơ khí & công trình
+-đọc sai số
+-sự đọc sai
+

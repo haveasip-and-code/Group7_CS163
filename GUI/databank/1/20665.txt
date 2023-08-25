@@ -1,10 +1,9 @@
-feint	
-@feint /feint/
+softwood
+	
 *  danh từ
-- (quân sự); (thể dục,thể thao) đòn nhử; ngón nhử
-- sự giả vờ; sự giả cách
-*  nội động từ
-- (quân sự); (thể dục,thể thao) ((thường) 
-+ at,  upon,  against) đánh nghi binh; đánh nhử
-*  tính từ
-- (như) faint
+- gỗ mềm
+- cây có gỗ mềm
+@Chuyên ngành kỹ thuật
+-gỗ cây lá kim
+-gỗ mềm
+

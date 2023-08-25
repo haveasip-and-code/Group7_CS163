@@ -1,52 +1,5 @@
-travel	@travel /'træveil/
-*  danh từ
-- sự đi du lịch; cuộc du hành
-=to go on a travel+ đi du lịch, du hành
-- sự chạy đi chạy lại; đường chạy (của máy,  pittông...)
-*  nội động từ
-- đi du lịch; du hành
-=to travel by sea+ đi du lịch bằng đường biển
-=to travel light+ đi du lịch mang theo ít hành lý
-- (thương nghiệp) đi mời hàng, đi chào hàng
-=he travels in silks+ anh ta đi chào hàng tơ lụa
-- đi, chạy, di động, chuyển động
-=light travels faster than sound+ ánh sáng đi nhanh hơn tiếng động
-=to travel out of the record+ đi ra ngoài đề
-- (nghĩa bóng) đưa nhìn, nhìn khắp (mắt); lan truyền đi (tin tức); suy nghĩ lan man (óc)
-=his eyes travelled over the street+ anh ta đưa mắt nhìn khắp phố
-=the news travelled swiftly+ những tin đó lan đi mau lẹ
-=his thoughts travelled over all that had happened+ óc anh ta điểm lại tất cả những việc đã xảy ra
-*  ngoại động từ
-- đi, du lịch
-=to travel Europe from end to end+ đi khắp châu Âu
-=to travel a hundred miles a day+ đi một trăm dặm một ngày
-- đưa đi xa
-=to travel the cattle+ đưa vật nuôi đi
-@Chuyên ngành kinh tế
--chuyến đi
--đi chào hàng
--du hành
--du lịch
--hành trình
--hành trình, chuyến đi
--lữ hành
--lữ hành, du hành, du lịch
--sự chuyển vị
--sự di cư
--sự dời chuyển
--sự dời nhà
-@Chuyên ngành kỹ thuật
--di chuyển
--đi lại
--độ di chuyển
--độ lệch
--đường đi
--hành trình
--khoảng chạy
--khoảng hở bàn ép
--sự di động
--sự vận chuyển
-@Lĩnh vực: ô tô
--hành thình
-@Lĩnh vực: cơ khí & công trình
--khoảng chạy (của pít tông)
+quadrupole
+	
+* danh từ
+- (điện học) mạch bốn cực
+

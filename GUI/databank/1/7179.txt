@@ -1,24 +1,5 @@
-bureau	
-@bureau /bjuə'rou/
-*  (bất qui tắc) danh từ,  số nhiều bureaux,  bureaus
-- cục, nha, vụ=the Bureau of Information
-+ cục thông tin (từ Mỹ,nghĩa Mỹ)=the Federal Bureau of Investigation
-+ cục điều tra liên bang (Mỹ)=the Bureau of Personnel
-+ vụ tổ chức
-- bàn làm việc, bàn giấy
-- tủ có ngăn kéo, tủ com mốt (có gương)
-@Chuyên ngành kinh tế
--cơ quan
--cục
--cục vụ
--văn phòng
-@Chuyên ngành kỹ thuật
--ban
--bàn làm việc
--cục
--phòng
--văn phòng
-@Lĩnh vực: xây dựng
--bàn giấy
-@Lĩnh vực: cơ khí & công trình
--viện
+acromial
+	
+@Lĩnh vực: y học
+-thuộc mỏm cùng vai
+

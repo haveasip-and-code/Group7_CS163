@@ -1,10 +1,6 @@
-profane	@profane /profane/
+lapsable
+	
 *  tính từ
-- báng bổ (thần thánh)
-- ngoại đạo, trần tục
-*  ngoại động từ
-- coi thường; xúc phạm, báng bổ (thần thánh)
-- làm ô uế (vật thiêng liêng)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trần tục
+- có thể sa ngã
+- có thể mất hiệu lực; có thể rơi vào tay người khác
+

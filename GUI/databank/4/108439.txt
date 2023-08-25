@@ -1,0 +1,3 @@
+midiot
+Musician unable to understand or use a MIDI interface. MIDI (Musicial Instrument Digital Interface) is a 20+ year old protocol that lets electronic musical instruments talk to each other.
+

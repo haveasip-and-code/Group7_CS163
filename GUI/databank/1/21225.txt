@@ -1,11 +1,6 @@
-fixtures	
-@Chuyên ngành kỹ thuật
--cốt
--đồ gá
--sườn
--thiết bị
-@Chuyên ngành kỹ thuật
--cốt
--đồ gá
--sườn
--thiết bị
+villadom
+	
+*  danh từ
+- khu biệt thự ở ngoại ô
+- tầng lớp có biệt thự ở ngoại ô
+

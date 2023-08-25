@@ -1,6 +1,10 @@
-grandstand	
-@grandstand
-* danh từ
-- khán đài trong nhà thi đấu hoặc trong sân vận động
+rounded
+	
+* tính từ
+- bị làm thành tròn
+- phát triển đầy đủ
+= a rounded view of life
++một nhân sinh quan phát triển đầy đủ
 @Chuyên ngành kỹ thuật
--khán đài
+-được làm tròn
+

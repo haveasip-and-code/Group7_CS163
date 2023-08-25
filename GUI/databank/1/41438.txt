@@ -1,9 +1,9 @@
-pica	@pica /'paikə/
-*  danh từ
-- (ngành in) có chữ to
-=small pica+ cỡ 10
-=double pica+ cỡ 20
-@Chuyên ngành kỹ thuật
--hệ pica (in ấn)
-@Lĩnh vực: đo lường & điều khiển
--pica
+contra
+	
+*  giới từ
+- đối với, chống với, ngược lại, trái lại
+=per contra
++ trái lại
+@Chuyên ngành kinh tế
+-bút toán đối nghịch
+

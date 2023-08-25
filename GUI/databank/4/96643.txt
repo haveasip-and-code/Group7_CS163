@@ -1,0 +1,3 @@
+wallrun
+A parkour/freerunning move in which the tracuer/freerunner runs parallel to a wall, jumps, and runs a few steps on the wall before falling back down to continue running.
+

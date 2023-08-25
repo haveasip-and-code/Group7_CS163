@@ -1,7 +1,27 @@
-indefinable	
-@indefinable /,indi'fainəbl/
+quadrate
+	
 *  tính từ
-- không thể định nghĩa được
-- không thể định rõ, mơ hồ, không r
+- (giải phẫu) vuông; chữ nhật
+=quadrate bone
++ xương vuông (ở đầu chin, rắn...)
+*  danh từ
+- (từ hiếm,nghĩa hiếm) hình vuông; khối chữ nhật
+- (giải phẫu) xương vuông
+- (từ cổ,nghĩa cổ),  (toán học) bình phương, bậc hai
+*  ngoại động từ (từ hiếm,nghĩa hiếm)
+- làm thành vuông
+- (toán học) quy vuông (quy thành hình vuông tương đương)
+- (
++ with) làm cho xứng với, làm cho tương hợp với
+*  nội động từ
+- (
++ with) xứng với, tương hợp với
 @Chuyên ngành kỹ thuật
--không xác định được
+-bình phương
+-hình vuông
+@Lĩnh vực: toán & tin
+-lũy thừa bậc hai
+-lũy thừa hai
+@Lĩnh vực: y học
+-vuông, bốn cạnh
+

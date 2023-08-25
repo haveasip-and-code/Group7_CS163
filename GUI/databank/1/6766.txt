@@ -1,9 +1,5 @@
-briefcase	
-@briefcase
-- cái cặp để giấy tờ, tài liệu
-@Chuyên ngành kinh tế
--cặp đựng tài liệu
--cặp giấy
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cặp tài liệu
+craniometry
+	
+* danh từ
+- phép đo sọ
+

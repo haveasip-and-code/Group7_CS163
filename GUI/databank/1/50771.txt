@@ -1,21 +1,5 @@
-simmer	@simmer /'simə/
-*  danh từ
-- trạng thái sắp sôi, trạng thái sủi
-- (nghĩa bóng) trạng thái bị kiềm chế, trạng thái bị nén lại (cơn giận, cơn cười...)
-=at a simmer; on the simmer+ bị kìm lại, bị nén lại
-*  động từ
-- sắp sôi, sủi
-- làm cho sủi; ninh nhỏ lửa
-- (nghĩa bóng) đang cố nén (giận), đang cố nín (cười)
-@Chuyên ngành kinh tế
--ninh nhỏ lửa
--sắp sôi
--sự sủi bọt
--sủi bọt
--trạng thái sắp sôi
-@Chuyên ngành kỹ thuật
--sủi bọt
-@Lĩnh vực: thực phẩm
--sắp sôi
-@Lĩnh vực: xây dựng
--trạng thái sôi
+embow
+	
+*  ngoại động từ
+- uốn cong hình vòng cung
+

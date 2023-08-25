@@ -1,12 +1,13 @@
-inshore	
-@inshore /'in:'ʃɔ:/
-*  tính từ
-- ven bờ
-*  phó từ
-- gần bờ; ở bờ; về phía bờ
-@Chuyên ngành kỹ thuật
--hướng vào bờ
-@Lĩnh vực: cơ khí & công trình
--gần bờ
-@Lĩnh vực: giao thông & vận tải
--ven bờ
+ethics
+	
+*  danh từ,  số nhiều dùng như số ít
+- đạo đức, luân thường đạo lý
+- đạo đức học
+- (từ Mỹ,nghĩa Mỹ) nguyên tắc xử thế (một cá nhân); nội quy (một tổ chức)
+@Chuyên ngành kinh tế
+-đạo đức
+-đạo đức học
+-nguyên tắc xử thế
+-nguyên tắc xử thế, nội quy (của một tổ chức)
+-nội quy (của một tổ chức)
+

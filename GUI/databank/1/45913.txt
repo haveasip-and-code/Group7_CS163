@@ -1,18 +1,7 @@
-receptor	@receptor
-* danh từ
-- cơ quan nhận cảm, thụ quan
-@Chuyên ngành kỹ thuật
--bộ nhận
--chất nhận
--máy thu
--ống nghe điện thoại
-@Lĩnh vực: hóa học & vật liệu
--máy nhận
-@Lĩnh vực: xây dựng
--máy thâu
-@Lĩnh vực: môi trường
--môi trường nhận
-@Lĩnh vực: vật lý
--quan cảm nhận
-@Lĩnh vực: y học
--thụ thể
+dramatics
+	
+*  danh từ,  số nhiều dùng như số ít
+- nghệ thuật kịch; nghệ thuật tuồng (cổ)
+- kịch ngoại khoá (ở các trường học)
+- thái độ kịch; vẻ kịch
+

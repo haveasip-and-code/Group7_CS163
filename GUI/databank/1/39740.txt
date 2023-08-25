@@ -1,9 +1,17 @@
-parish	@parish /'pæriʃ/
+carver
+	
 *  danh từ
-- xứ đạo, giáo khu; nhân dân trong giáo khu
-- xã ((cũng) civil parish); nhân dân trong xã
-!to go on the parish
-- nhận tiền cứu tế của xã
+- thợ chạm, thợ khắc
+- người lạng thịt
+- dao lạng thịt; (số nhiều) bộ đồ lạng (thịt...)
+@Chuyên ngành kinh tế
+-dao lạng thịt
+-người lạng thịt
 @Chuyên ngành kỹ thuật
+-dao khắc
+@Lĩnh vực: cơ khí & công trình
+-dao trổ
 @Lĩnh vực: xây dựng
--xứ đạo
+-thợ chạm
+-thợ khắc
+

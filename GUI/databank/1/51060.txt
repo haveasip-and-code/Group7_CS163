@@ -1,47 +1,8 @@
-slab	@slab /slæb/
-*  danh từ
-- phiến đá mỏng
-- tấm ván bìa
-- thanh, tấm
-=slab of chocolate+ thanh sôcôla
-*  ngoại động từ
-- bóc bìa, xẻ bìa (gỗ)
-- lát bằng tấm, lát bằng phiến
-*  tính từ
-- (từ cổ,nghĩa cổ) nhớ, đặt dính
-@Chuyên ngành kinh tế
--bàn phân phối khối bột nhào
--bàn phân phối khối kẹo
--bệ máy
--các nửa quả bị dính khi sấy
--tấm
--tấm ép đường viên
--tầng
--vỉa
+phonics
+	
+*  danh từ,  số nhiều dùng như số ít
+- âm học
 @Chuyên ngành kỹ thuật
--bản
--đá phiến
--đan
--đặt tấm lát
--đầu
--đế
--dễ vỡ
--đệm tròn
--ngói
--ốp
--phiến
--tấm mỏng
--thanh
-@Lĩnh vực: xây dựng
--bản, tấm
--bảng (điện)
--bảng ngói
--đường mặt bản bê tông
--mẩu
--panen
--tấm phiến
--ván bìa (khi xẻ gỗ)
-@Lĩnh vực: hóa học & vật liệu
--phôi dẹt
-@Lĩnh vực: cơ khí & công trình
--phôi tấm (trong sản xuất cản)
+-âm học
+-kỹ thuật âm thanh
+

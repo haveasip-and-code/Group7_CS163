@@ -1,6 +1,7 @@
-lookup	@lookup
-* danh từ
-- (tin học) sự truy tìm thông tin; sự tra cứu
-= Lookup table+Bảng tra cứu
-@Chuyên ngành kỹ thuật
--sự dò tìm
+disqualify
+	
+*  ngoại động từ
+- làm cho không đủ tư cách (giữ một nhiệm vụ gì...)
+- tuyên bố không đủ tư cách
+- loại ra không cho thi, sự truất quyền dự thi (của một người, một đội nào vi phạm điều lệ...)
+

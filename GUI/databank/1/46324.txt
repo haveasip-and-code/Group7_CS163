@@ -1,9 +1,28 @@
-reformable	@reformable /ri'fɔ:məbl/
-*  tính từ
-- có thể cải cách, có thể cải thiện, có thể cải tạo, có thể cải tổ
-- có thể sửa đổi
-- có thể triệt bỏ; có thể chữa
+population
+	
+*  danh từ
+- số dân
+=population explosion
++ sự tăng dân số ồ ạt và nhanh chóng
+- (the population) dân cư
 @Chuyên ngành kinh tế
--có thể cải cách
--có thể cải thiện
--có thể sửa đổi
+-chủng quần
+-dân cư
+-dân số
+-mật độ dân số
+-nhân khẩu
+-quần loại
+-quần thể
+@Chuyên ngành kỹ thuật
+-dân số
+-độ cư trú
+-nhân khẩu
+-quần thể
+-số dân
+-tổng thể
+@Lĩnh vực: xây dựng
+-dân cư
+@Lĩnh vực: điện lạnh
+-độ bị chiếm
+-mật độ cư trú
+

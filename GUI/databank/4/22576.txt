@@ -1,0 +1,3 @@
+Safe
+A container usually with a lock that is used to store valuables.
+

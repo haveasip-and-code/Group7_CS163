@@ -1,12 +1,6 @@
-pairing	@pairing
-- danh từ
-- (sinh vật học) sự ghép đôi; kết đôi; kết cặp
-@Chuyên ngành kỹ thuật
--ghép cặp
--ghép đôi
--sự ghép cặp
--sự ghép đôi
-@Lĩnh vực: điện
--ghép cặp dòng
-@Lĩnh vực: toán & tin
--ghép nhân
+jocularity
+	
+*  tính từ
+- sự vui vẻ, sự vui đùa
+- thái độ hài hước, hành động hài hước; lời nói hài hước vui đùa, lời nói đùa
+

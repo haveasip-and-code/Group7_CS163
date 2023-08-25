@@ -1,18 +1,5 @@
-compile	
-@compile /kəm'pail/
-*  ngoại động từ
-- biên soạn, sưu tập tài liệu
-@Chuyên ngành kinh tế
--biên soạn
--sưu tầm tài liệu
-@Chuyên ngành kỹ thuật
--biên dịch
--biên soạn
--dịch
--kết hợp
--lập
--tập hợp
--thông dịch
-@Lĩnh vực: xây dựng
--biên vẽ
--sưu tập
+amplidyne
+	
+*  danh từ
+- (vật lý) Ampliđyn
+

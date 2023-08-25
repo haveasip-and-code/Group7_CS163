@@ -1,13 +1,12 @@
-agronomy	
-@agronomy /ə'gɔnəmi/
+recognizance
+	
 *  danh từ
-- nông học
-- nông nghiệp
+- (pháp lý) sự cam kết trước toà (không phá rối trị an; trả nợ...)
+=to enter into recognizances
++ cam kết trước toà
+- tiền bảo chứng (cho việc cam kết)
 @Chuyên ngành kinh tế
--ngành kinh tế nông nghiệp
--nông học
--nông nghiệp
--sự quản lý nông nghiệp
-@Chuyên ngành kỹ thuật
--nông học
--nông nghiệp
+-cam kết trước tòa
+-sự cam kết trước tòa (về việc không phá rối trị an, trả nợ)
+-tiền bảo chứng cho sự cam kết đó
+

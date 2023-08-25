@@ -1,20 +1,9 @@
-subbase	@subbase
-* danh từ
-- cái nền ở dưới; dưới nền
-@Chuyên ngành kỹ thuật
--chân cột
--chân tường
--gờ chân cột
--lớp (đất) ở dưới
--lớp đệm
--lớp móng
--nền
--móng
-@Lĩnh vực: toán & tin
--cơ sở con
-@Lĩnh vực: xây dựng
--lớp móng dưới
--lớp nền (đường) lớp móng
--nền (xây dựng móng)
--nền dưới
--móng dưới
+snowy
+	
+*  tính từ
+- đầy tuyết, phủ tuyết, nhiều tuyết
+=the snowy season
++ mùa tuyết rơi
+=snowy hair
++ tóc bạc như tuyết
+

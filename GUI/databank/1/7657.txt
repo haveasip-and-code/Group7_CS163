@@ -1,24 +1,5 @@
-campaign	
-@campaign /kæm'pein/
-*  danh từ
-- chiến dịch=the Dienbienphu campaign
-+ chiến dịch Điện biên phủ=a political campaign
-+ chiến dịch chính trị=to enter upon a campaign
-+ mở chiến dịch=to serve a campaign
-+ tham gia chiến dịch; phục vụ chiến dịch
-- cuộc vận động=an electoral campaign
-+ cuộc vận động bầu cử=a campaign to raise funds
-+ cuộc vận động góp vốn
-*  nội động từ
-- đi chiến dịch, tham gia chiến dịch
-@Chuyên ngành kinh tế
--chiến dịch
--chiến dịch (quảng cáo)
--cuộc vận động
--đợt
--mùa
--vụ
-@Chuyên ngành kỹ thuật
--chiến dịch
--đợt
--sự khảo sát (lò)
+mahlstick
+	
+* danh từ
+- cái kê tay (của hoạ sĩ)
+

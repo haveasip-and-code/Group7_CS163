@@ -1,0 +1,3 @@
+Google Earth
+Similar to NASA's [WorldWind], Google Earth is a program that allows you to scroll around the world and zoom in to wherever you like. A number of areas have satellite photography available to a high level of detail (you can see individual cars and stuff).
+

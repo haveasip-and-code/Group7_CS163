@@ -1,4 +1,28 @@
-isochor	
+excavate
+	
+*  ngoại động từ
+- đào
+=to excavate a hole
++ đào một cái hố
+=to excavate a tunnel
++ đào một đường hầm
+=to excavate the soil
++ đào đất
+- khai quật
 @Chuyên ngành kỹ thuật
--đường đẳng cự
--đường đẳng tích
+-đào
+-đào đất
+-đào hố móng
+-khai thác
+-lấy đất
+@Lĩnh vực: hóa học & vật liệu
+-khai đào
+@Chuyên ngành kỹ thuật
+-đào
+-đào đất
+-đào hố móng
+-khai thác
+-lấy đất
+@Lĩnh vực: hóa học & vật liệu
+-khai đào
+

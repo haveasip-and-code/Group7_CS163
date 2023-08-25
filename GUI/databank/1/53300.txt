@@ -1,3 +1,5 @@
-stevedoring	@Chuyên ngành kinh tế
--việc bốc dỡ hàng
--việc bốc xếp
+moderated
+	
+-giảm tốc
+-làm chậm
+

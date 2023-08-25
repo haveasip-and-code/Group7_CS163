@@ -1,20 +1,46 @@
-cellar	
-@cellar /'selə/
+rust
+	
 *  danh từ
-- hầm chứa (thức ăn, rượu...)
-- hầm rượu ((cũng) wine cellar) kho rượu cất dưới hầm=to keep a good cellar
-+ trữ một hầm rượu ngon
+- gỉ (sắt, kim loại)
+- (nghĩa bóng) sự cùn trí nhớ, sự kém trí nhớ
+- (thực vật học) bệnh gỉ sắt
+*  nội động từ
+- gỉ
 *  ngoại động từ
-- cất (rượu...) vào hầm
+- làm gỉ
+!better wear out than rust out
+- thà rằng hoạt động mà suy nhược còn hơn là để chết dần chết mòn
 @Chuyên ngành kinh tế
--hầm chứa (thức ăn)
--hầm rượu
+-bệnh đốm (thuốc lá)
+-bệnh rỉ sắt
+-bệnh than
+-bị sét
+-hỏng
+-ôi
+-sinh gỉ
+-sự gỉ sét
+-sự ôi khét
 @Chuyên ngành kỹ thuật
--tầng hầm
--tầng ngầm
-@Lĩnh vực: xây dựng
--hầm rượu
+-bị gỉ
+-gỉ
+-gỉ sắt
+-han gỉ
+-làm gỉ
+-làm han gỉ
+-muội
+-sự ăn mòn
+-sự gỉ
+-sự han gỉ
+-sự hóa màu đỏ
+-váng
+-vết gỉ
+@Lĩnh vực: thực phẩm
+-bệnh gỉ sắt
+@Lĩnh vực: y học
+-bệnh gỉ sắt (bệnh nấm cây)
+-gỉ (sắt, kim loại)
 @Lĩnh vực: toán & tin
--khu chứa
-@Lĩnh vực: hóa học & vật liệu
--miệng giếng (dầu)
+-gỉ, bị gỉ
+@Lĩnh vực: ô tô
+-hình thành gỉ
+

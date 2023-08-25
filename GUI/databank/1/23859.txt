@@ -1,5 +1,32 @@
-gonophore	
-@gonophore
-* danh từ
-- (sinh học) cuống nhị
--nhụy; thể sinh sản
+sucker
+	
+*  danh từ
+- người mút, người hút
+- ống hút
+- lợn sữa
+- cá voi mới đẻ
+- (động vật học) giác (mút)
+- (thực vật học) rể mút
+- (động vật học) cá mút
+- (thực vật học) chồi bên
+- (kỹ thuật) Pittông bơm hút
+- (từ lóng) người non nớt, người thiếu kinh nghiệm; (từ Mỹ,nghĩa Mỹ) người dễ bịp
+*  ngoại động từ
+- (thực vật học) ngắt chồi bên (của cây)
+*  nội động từ
+- (thực vật học) nảy chồi bên
+@Chuyên ngành kinh tế
+-cá ép vây ngần
+-chồi
+-đường phèn
+-mầm
+-ngắt chồi
+-thỏi kẹo caramen
+@Chuyên ngành kỹ thuật
+-ống hút
+-pittông (của bơm hút)
+@Lĩnh vực: hóa học & vật liệu
+-dụng cụ hút
+@Lĩnh vực: cơ khí & công trình
+-pittông của bơm
+

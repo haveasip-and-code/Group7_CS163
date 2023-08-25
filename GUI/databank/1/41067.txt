@@ -1,3 +1,32 @@
-pheasant	@pheasant /'feznt/
-*  danh từ
-- (động vật học) gà lôi đỏ, gà lôi
+constant
+	
+*  tính từ
+- bền lòng, kiên trì
+- kiên định, trung kiên; trung thành, chung thuỷ
+=to remain constant to one's principles
++ trung thành với nguyên tắc của mình
+- không ngớt, không dứt, liên miên, liên tiếp
+=constant rain
++ mưa liên miên
+=constant chatter
++ sự nói không dứt, sự nói liên miên
+- bất biến, không thay đổi
+@Chuyên ngành kinh tế
+-bất biến
+-hắng số
+-hằng số
+-không thay đổi
+@Chuyên ngành kỹ thuật
+-hằng lượng
+-hằng số
+-hệ số
+-không đổi
+@Lĩnh vực: toán & tin
+-đại lượng không đổi
+-số không đổi
+@Lĩnh vực: điện lạnh
+-giữ nguyên
+-hằng
+@Lĩnh vực: xây dựng
+-hằng (lượng)
+

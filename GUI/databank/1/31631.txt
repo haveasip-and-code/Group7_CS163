@@ -1,65 +1,8 @@
-lattice	@lattice /'lætis/
-*  danh từ
-- lưới, rèm; hàng rào mắt cáo
-=lattice window+ cửa sổ mắt cáo
-=lattice bridge+ cầu làm bằng những thanh sắt bắt chéo nhau
+transamination
+	
+* danh từ
+- sự chuyển hoá amin
 @Chuyên ngành kỹ thuật
--chấn song
--cửa chắn
--dàn
--ghi
--giàn
--giàn mắt cáo
--giát
--hàng rào mắt cáo
--khung sườn
--lưới
--lưới mắt cáo
--lưới, rèm, mạng tinh thể
--màn chắn
--mạng
--mạng lưới
--rèm
--sàng
--vòm mắt cáo
-@Lĩnh vực: xây dựng
--dàn mắt cáo
--mạng thanh bụng
-@Lĩnh vực: toán & tin
--giàn (đại số)
--mạng, kết mạng
--mẫu lưới
-@Lĩnh vực: hóa học & vật liệu
--mạng (tinh thể)
-@Lĩnh vực: điện tử & viễn thông
--mạng tinh thể
-@Chuyên ngành kỹ thuật
--chấn song
--cửa chắn
--dàn
--ghi
--giàn
--giàn mắt cáo
--giát
--hàng rào mắt cáo
--khung sườn
--lưới
--lưới mắt cáo
--lưới, rèm, mạng tinh thể
--màn chắn
--mạng
--mạng lưới
--rèm
--sàng
--vòm mắt cáo
-@Lĩnh vực: xây dựng
--dàn mắt cáo
--mạng thanh bụng
-@Lĩnh vực: toán & tin
--giàn (đại số)
--mạng, kết mạng
--mẫu lưới
-@Lĩnh vực: hóa học & vật liệu
--mạng (tinh thể)
-@Lĩnh vực: điện tử & viễn thông
--mạng tinh thể
+@Lĩnh vực: y học
+-sự chuyển amin
+

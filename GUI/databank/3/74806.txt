@@ -1,0 +1,3 @@
+meteorograph
+An instrument which registers meteorologic phases or conditions.
+

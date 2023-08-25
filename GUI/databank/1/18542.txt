@@ -1,25 +1,6 @@
-entity	
-@entity /'entiti/
+phraseology
+	
 *  danh từ
-- thực thể
-- sự tồn tại (của một vật)
-@Chuyên ngành kinh tế
--thực thể
-@Chuyên ngành kỹ thuật
--đại lượng
--đối tượng
--phần tử
--vật thể
-@Lĩnh vực: toán & tin
--bản thể
-@Lĩnh vực: xây dựng
--sự vật
-@Chuyên ngành kỹ thuật
--đại lượng
--đối tượng
--phần tử
--vật thể
-@Lĩnh vực: toán & tin
--bản thể
-@Lĩnh vực: xây dựng
--sự vật
+- ngữ cú
+- cách nói, cách viết; cách diễn đạt
+

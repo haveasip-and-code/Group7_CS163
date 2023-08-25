@@ -1,12 +1,18 @@
-juvenile	
-@juvenile /'dʤu:vinail/
+illegal
+	
 *  tính từ
-- (thuộc) thanh thiếu niên; có tính chất thanh thiếu niên; hợp với thanh thiếu niên
-*  danh từ
-- thanh niên, thiếu niên
-- (số nhiều) sách cho thanh thiếu niên
+- không hợp pháp, trái luật
+=an illegal marriage
++ một đám cưới không hợp pháp
+@Chuyên ngành kinh tế
+-bất hợp pháp
+-phi pháp
 @Chuyên ngành kỹ thuật
--nguyên sinh
--trẻ
-@Lĩnh vực: hóa học & vật liệu
--mới sinh
+-bất hợp pháp
+-sai
+@Lĩnh vực: toán & tin
+-không hợp lệ
+-không hợp pháp
+@Lĩnh vực: xây dựng
+-phi pháp
+

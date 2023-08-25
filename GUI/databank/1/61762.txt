@@ -1,5 +1,13 @@
-videodisk	@videodisk
-- đựa video tương tác
+squeezing
+	
+* danh từ
+- sự ép; vắt
 @Chuyên ngành kỹ thuật
--đĩa hình
--đĩa video
+-sự đúc áp lực
+-sự ép
+-sự nén
+-sự nén chặt
+-sự vắt
+@Lĩnh vực: toán & tin
+-sự nén (dữ liệu)
+

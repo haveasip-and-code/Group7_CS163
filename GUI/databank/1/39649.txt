@@ -1,7 +1,18 @@
-parapsychology	@parapsychology
-* danh từ
-- sự nghiên cứu các hiện tượng thần kinh ngoài lãnh vực tâm lý bình thường
-- cận tâm lý học
+cubical
+	
+*  tính từ
++ (cubical)
+/'kju:bikəl/
+- có hình khối, có hình lập phương
+- (toán học) bậc ba
+=cubic equation
++ phương trình bậc ba
+*  danh từ
+- (toán học) đường bậc ba, đường cubic
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--siêu tâm lý học
+-lập phương
+@Lĩnh vực: toán & tin
+-cubic
+@Lĩnh vực: điện lạnh
+-dạng lập phương
+

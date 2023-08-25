@@ -1,7 +1,8 @@
-diplomatic	
-@diplomatic /,diplə'mætik/
-*  tính từ
-- ngoại giao=the diplomatic body (corps)
-+ đoàn ngoại giao
-- có tài ngoại giao; có tính chất ngoại giao
-- (thuộc) văn kiện chính thức; (thuộc) văn thư công
+punched
+	
+- (máy tính) bị đục lỗ
+@Chuyên ngành kỹ thuật
+-được đục thủng (lỗ khoan)
+@Lĩnh vực: toán & tin
+-bị đục lỗ
+

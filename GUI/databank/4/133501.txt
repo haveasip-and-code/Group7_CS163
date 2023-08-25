@@ -1,0 +1,3 @@
+SATA II
+The second generation of SATA I, which stands for Serial Advance Technology Attachment. It is the transfer method from your Hard Drive or Optical Drive (ex. CD-ROM or DVD-ROM) to your computer. SATA II doubles the transfer speed from SATA I.
+

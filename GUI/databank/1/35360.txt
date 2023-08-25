@@ -1,6 +1,11 @@
-moistness	@moistness /'mɔistnis/
-*  danh từ
-- tình trạng ẩm ướt, tình trạng ướt lấp nhấp
+interruptible
+	
+*  tính từ
+- có thể làm gián đoạn được
+- có thể làm ngắt lời được
+- (điện học) có thể ngắt
 @Chuyên ngành kỹ thuật
--độ ẩm
--lượng nước chứa
+-ngắt được
+@Lĩnh vực: toán & tin
+-có thể ngắt được
+

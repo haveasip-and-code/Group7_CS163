@@ -1,38 +1,8 @@
-token	@token /'toukən/
-*  danh từ
-- dấu hiệu, biểu hiện
-=as a token of our gratitude+ như là một biểu hiện của lòng biết ơn của chúng tôi
-- vật kỷ niệm, vật lưu niệm
-=I'll keep it as a token+ tôi giữ cái đó như là một vật kỷ niệm
-- bằng chứng, chứng
-=token payment+ món tiền trả trước để làm bằng (làm tin)
-!by toke
-!by the same token
-!more by token
-- vả lại; ngoài ra; thêm vào đó
-- vì thế cho nên
-!in token of
-- để làm bằng; coi như một dấu hiệu (một biểu hiện) của
-@Chuyên ngành kinh tế
--bằng chứng
--biểu hiệu
--dấu hiệu
--ký hiệu
--phiếu quà
--thẻ
--thẻ tính tiền
+medieval
+	
+*  tính từ
+- (thuộc) thời Trung cổ; kiểu trung cổ
 @Chuyên ngành kỹ thuật
--biển hiệu
--dấu hiệu
--ký tự đại diện
--ký tự thay thế
--từ vựng
-@Lĩnh vực: toán & tin
--danh tính
--mã thông báo
--thể
--thẻ bài
--thẻ xác thực
--tôpô bông tuyết
-@Lĩnh vực: giao thông & vận tải
--thẻ đường
+@Lĩnh vực: xây dựng
+-Kiểu kiến trúc Trung Cổ
+

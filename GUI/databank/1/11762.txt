@@ -1,14 +1,5 @@
-convulsion	
-@convulsion /kən'vʌlʃn/
-*  danh từ
-- sự biến động, sự chấn động, sự rối loạn, sự rung chuyển=convulsion of nature
-+ sự biến động của thiên nhiên=political convulsions
-+ những biến động chính trị, những cuộc chính biến
-- (số nhiều) cơn cười thắt ruột=everybody was in convulsions
-+ mọi người cười thắt ruột
-- (số nhiều) (y học) chứng co giật
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--biến động
-@Lĩnh vực: y học
--chứng co giật
+flyweight
+	
+* danh từ
+- (quyền Anh) võ sự hạng ruồi
+

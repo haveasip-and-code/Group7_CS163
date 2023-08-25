@@ -1,11 +1,16 @@
-chronograph	
-@chronograph /'krɔnəgrɑ:f/
+similar
+	
+*  tính từ
+- giống nhau, như nhau, tương tự
+- (toán học) đồng dạng
+=similar triangles
++ tam giác đồng dạng
 *  danh từ
-- máy ghi thời gian
+- vật giống, vật tương tự
+- (số nhiều) những vật giống nhau
 @Chuyên ngành kỹ thuật
--bộ ghi thời gian
--máy ghi thời gian
-@Lĩnh vực: điện
--thời kế tự ghi
-@Lĩnh vực: y học
--thời ký
+-đồng dạng
+-giống
+@Lĩnh vực: toán & tin
+-đồng dạng, tương tự
+

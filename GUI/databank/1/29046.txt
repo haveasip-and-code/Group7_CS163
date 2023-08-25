@@ -1,16 +1,9 @@
-instrumentation	
-@instrumentation /,instrumen'teiʃn/
-*  danh từ
-- sự phối dàn nhạc
-- danh sách những nhạc khí dùng cho một bản nhạc
-- (như) instrumentality
-- khoa học nghiên cứu dụng cụ
-- việc làm (mổ...) bằng dụng cụ; sự sử dụng dụng cụ (khoa học)
-- sự trang bị dụng cụ, sự trang bị máy móc
-@Chuyên ngành kỹ thuật
--khí cụ đo kiểm
-@Lĩnh vực: xây dựng
--máy móc đo kiểm
--sự trang thiết bị
-@Lĩnh vực: điện lạnh
--trang thiết bị đo
+lulu
+	
+* danh từ
+- người (vật) đặc biệt, phi thường
+- Her house was a lulu
+* danh từhà cô ấy là phi thường
+= a lulu of an excuse
++một lời xin lỗi quá khéo
+

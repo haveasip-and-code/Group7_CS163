@@ -1,5 +1,22 @@
-proponent	@proponent /proponent/
-*  tính từ
-- đề nghị, đề xuất, đề xướng
+jug
+	
 *  danh từ
-- người đề nghị, người đề xuất, người đề xướng (một kiến nghị...)
+- cái bình (có tay cầm và vòi)
+- (từ lóng) nhà tù ((cũng) stone jug)
+*  ngoại động từ
+- ((thường) động tính từ quá khứ) hầm (thỏ) trong nồi đất
+=jug ged hare
++ thịt thỏ hầm trong nồi đất
+- (từ lóng) giam, bỏ tù
+*  danh từ
+- tiếng hót (của chim sơn ca...) ((cũng) jug)
+*  nội động từ
+- hót (chim sơn ca...)
+@Chuyên ngành kinh tế
+-két sắt
+-ngân hàng
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-bình có vòi
+-bình nhỏ miệng
+

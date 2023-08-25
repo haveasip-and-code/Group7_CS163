@@ -1,30 +1,6 @@
-grading	
-@grading
-* danh từ
-- sự tuyển chọn, sự phân loại
-- thành phần cơ học, cỡ hạt
-- sự an đất, ủi đất
-- (đường sắt) sự đặt ray
-@Chuyên ngành kinh tế
--sự đánh giá chất lượng
--sự phân cấp
--sự phân hạng (hàng hóa)
--sử phân loại theo chất lượng
-@Chuyên ngành kỹ thuật
--cấp phối
--cấp phối hạt
--sự hỗn hợp
--sự pha trộn
--sự phân hạng
--sự phân loại
--sự rây
--sự sàng
--sự tuyển chọn
-@Lĩnh vực: điện lạnh
--sự lấy chuẩn
-@Lĩnh vực: hóa học & vật liệu
--sự xếp bậc
-@Lĩnh vực: xây dựng
--việc san bằng
-@Lĩnh vực: cơ khí & công trình
--việc san đất
+panjandrum
+	
+*  danh từ
+-(mỉa mai) quan lớn, vị tai to mặt lớn
+- công chức khệnh khạng
+

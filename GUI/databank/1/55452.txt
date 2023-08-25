@@ -1,11 +1,5 @@
-taker	@taker /'teikə/
-*  danh từ
-- người lấy, người nhận
-- người nhận đánh cuộc
-@Chuyên ngành kinh tế
--người nhận quyền chọn
--người tiếp nhận
-@Chuyên ngành kỹ thuật
--người lấy
-@Lĩnh vực: hóa học & vật liệu
--thiết bị lấy
+sloped
+	
+-dốc
+-nghiêng
+

@@ -1,14 +1,5 @@
-preview	@preview /'pri:'vju:/
-*  danh từ
-- sự xem trước, sự duyệt trước (phim ảnh, ảnh...)
-*  ngoại động từ
-- xem trước, duyệt trước (phim ảnh, ảnh...)
-@Chuyên ngành kỹ thuật
--duyệt trước
--sự duyệt trước
--sự xem trước
--xem trước
-@Lĩnh vực: xây dựng
--tiên duyệt
-@Lĩnh vực: toán & tin
--xem trước (trang in)
+beachhead
+	
+* danh từ
+- vị trí đổ bộ, đầu cầu đổ bộ
+

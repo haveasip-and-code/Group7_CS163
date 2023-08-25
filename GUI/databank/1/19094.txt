@@ -1,13 +1,23 @@
-escutcheon	
-@escutcheon
-* danh từ
-- huy hiệu trên khiên
-- nắp lỗ khoá
+pulverization
+	
+*  danh từ
+- sự tán thành bột; sự phun thành bụi (nước)
+@Chuyên ngành kinh tế
+-sự biến thành bột
+-sự nghiền
 @Chuyên ngành kỹ thuật
--tấm mặt khóa
-@Lĩnh vực: toán & tin
--nắp lỗ khóa
-@Chuyên ngành kỹ thuật
--tấm mặt khóa
-@Lĩnh vực: toán & tin
--nắp lỗ khóa
+-miệng phun
+-sự nghiền bột
+-sự nghiền vụn
+-sự phun mưa
+-sự phun thành bụi
+-tán thành bột
+-thiết bị phun
+@Lĩnh vực: xây dựng
+-sự phun (mù)
+-sự phun thành bột
+@Lĩnh vực: điện lạnh
+-sự phun sương
+@Lĩnh vực: cơ khí & công trình
+-sự tán thành bột
+

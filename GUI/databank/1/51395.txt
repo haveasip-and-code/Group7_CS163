@@ -1,10 +1,17 @@
-smog	@smog /smɔg/
-*  danh từ
-- khói lẫn sương
-@Chuyên ngành kỹ thuật
--khói
--sương mù
-@Lĩnh vực: hóa học & vật liệu
--khói lẫn sương
-@Lĩnh vực: xây dựng
--sương khói
+correspond
+	
+*  nội động từ
+- xứng, tương ứng, phù hợp; đúng với
+=expenses do not correspond to income
++ chi tiêu không phù hợp với thu nhập
+=to correspond do sample
++ đúng với hàng mẫu
+- tương đương, đối nhau
+=the American Congress corresponds to the British Parliament
++ quốc hội Mỹ tương đương với nghị viện Anh
+=the two windows do not correspond
++ hai cửa sổ không cân đối nhau
+- giao thiệp bằng thư từ, trao đổi thư từ
+@Chuyên ngành kinh tế
+-trao đổi thư từ
+

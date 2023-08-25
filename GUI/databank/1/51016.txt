@@ -1,7 +1,10 @@
-skipping	@Chuyên ngành kỹ thuật
--nhảy dòng
--sự bỏ qua
-@Lĩnh vực: cơ khí & công trình
--công thay đổi đột ngột (động cơ)
-@Lĩnh vực: toán & tin
--sự nhảy qua
+materialise
+	
+*  động từ
+- vật chất hoá
+- cụ thể hoá; thành sự thật; thực hiện
+=the plan did not materialize
++ kế hoạch không thực hiện được
+- hiện ra (hồn ma...)
+- duy vật hoá
+

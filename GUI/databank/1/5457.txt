@@ -1,8 +1,6 @@
-bidirectional	
-@bidirectional
-- (Tech) thuộc song hướng, thuộc hai hướng
-@Chuyên ngành kỹ thuật
--hai chiều
--hai hướng
--lưỡng hướng
--thuận nghịch
+specialisation
+	
+* danh từ
+- sự chuyên môn hoá
+- <sinh> sự chuyên hoá
+

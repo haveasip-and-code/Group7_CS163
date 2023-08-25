@@ -1,9 +1,18 @@
-hacksaw	
-@hacksaw
-* danh từ
-- cái cưa kim loại
-* ngoại động từ
-- cưa bằng cưa kim loại
+shooting
+	
+*  danh từ
+- sự bắn, sự phóng đi
+- khu vực săn bắn
+- quyền săn bắn ở các khu vực quy định
+- sự sút (bóng)
+- cơn đau nhói
+- sự chụp ảnh, sự quay phim
+@Chuyên ngành kinh tế
+-khu vực săn bắn
+-sự bắn
 @Chuyên ngành kỹ thuật
--cưa sắt
--máy cưa cần
+-sự bắn
+-sự chụp ảnh
+-sự nổ mìn
+-sự quay phim
+

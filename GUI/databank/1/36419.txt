@@ -1,12 +1,21 @@
-navvy	@navvy /'nævi/
+blame
+	
 *  danh từ
-- thợ làm đất, thợ đấu
-- (kỹ thuật) máy xúc, máy đào đất, máy nạo (vét) lòng sông
-!a mere navvy's work
-- một công việc chỉ đòi hỏi sức khoẻ không cần có kỹ thuật
-!to work like a navvy
-- làm việc vất vả cực nhọc; làm như trâu ngựa
+- sự khiển trách; lời trách mắng
+=to deserve blame
++ đáng khiển trách
+- lỗi; trách nhiệm
+=where does the blame lie for this failure?
++ ai chịu trách nhiệm về sự thất bại này?, trách nhiệm về sự thất bại này là ở đâu?
+=to bear the blame
++ chịu lỗ, chịu trách nhiệm
+=to lay the blame on somebody; to lay the blame at somebody's door
++ quy trách nhiệm về ai; đỗ lỗi cho ai
+=to lay the blame at the right door (on the right shoulders)
++ quy trách nhiệm đúng vào người phải chịu trách nhiệm
+=to shift the blame on somebody
++ đỗ lỗi cho ai
 @Chuyên ngành kỹ thuật
--máy đào đất
--máy nạo vét
--máy xúc
+@Lĩnh vực: xây dựng
+-đổ lỗi cho
+

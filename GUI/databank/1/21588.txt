@@ -1,13 +1,10 @@
-fluidization	
-@fluidization
-* danh từ
-- sự hoá lỏng
-- sự tạo tầng sôi
-- sự giả hoá lỏng
-@Chuyên ngành kinh tế
--sự hóa lỏng
--sự nóng chảy
+warped
+	
+* tính từ
+- bị biến dạng; bị bẻ cong
+- bị xuyên tạc; bị bóp méo
 @Chuyên ngành kỹ thuật
--hóa lỏng
+-bị vênh
 @Lĩnh vực: hóa học & vật liệu
--sự hóa lỏng
+-bị vặn cong
+

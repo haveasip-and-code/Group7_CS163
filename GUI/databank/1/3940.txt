@@ -1,10 +1,8 @@
-audiometry	
-@audiometry /,ɔ:di'ɔmitri/
-*  danh từ
-- phép đo sức nghe
+pleochroic
+	
+*  tính từ
+- nhiều màu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đo thính lực
--trắc thính
-@Lĩnh vực: xây dựng
--phép đo thính lực
+@Lĩnh vực: y học
+-đa hướng sắc
+

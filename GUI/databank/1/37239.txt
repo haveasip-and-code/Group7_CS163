@@ -1,6 +1,7 @@
-nursing	@nursing
+downbeat
+	
 * danh từ
-- sự chăm sóc bệnh nhân, sự điều dưỡng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chăm sóc, săn sóc
+- nhịp đầu của một khổ nhạc
+* tính từ
+- chán chường, u sầu
+

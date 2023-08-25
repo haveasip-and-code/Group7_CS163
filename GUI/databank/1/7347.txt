@@ -1,4 +1,29 @@
-bypast	
-@bypast /'baipɑ:st/
+valid
+	
 *  tính từ
-- đã qua, đã trôi qua
+- vững chắc, có căn cứ
+=a valid argument
++ một lý lẽ vững chắc
+- (pháp lý) có giá trị, có hiệu lực; hợp lệ
+=valid contract
++ hợp đồng có giá trị (về pháp lý)
+=valid passport
++ hộ chiếu hợp lệ
+=the ticket is no longer valid
++ vé không còn giá trị nữa
+@Chuyên ngành kinh tế
+-có giá trị
+-có giá trị pháp lý
+-có giá trị pháp lý, hợp pháp
+-có hiệu lực
+-có hiệu lực pháp lý
+-hợp lệ
+-hợp pháp
+-hợp thức
+-hữu hiệu
+@Chuyên ngành kỹ thuật
+-hiệu lực
+-hợp lệ
+-hợp pháp
+-vững chắc
+

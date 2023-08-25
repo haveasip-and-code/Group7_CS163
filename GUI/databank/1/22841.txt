@@ -1,10 +1,13 @@
-galvanism	
-@galvanism /'gælvənizm/
-*  danh từ
-- (vật lý) điện một chiều
-- (y học) phép chữa bằng dòng điện một chiều
+epidural
+	
+* tính từ
+- <y> gây tê ngoài màng cứng
+* danh từ
+- sự gây tê ngoài màng cứng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--điện lưu học
-@Lĩnh vực: điện
--điênh hóa học
+@Lĩnh vực: y học
+-trên màng cứng (ngoài màng cứng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-trên màng cứng (ngoài màng cứng)
+

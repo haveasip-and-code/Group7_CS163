@@ -1,33 +1,7 @@
-spell	@spell /spel/
-*  danh từ
-- lời thần chú
-- bùa mê
-=under a spell+ bị bùa mê
-- sự làm say mê; sức quyến rũ
-=to cast a spell on+ làm say mê
-*  ngoại động từ spelled,  spelt
-- viết vần, đánh vần; viết theo chính tả
-=to spell in full+ viết nguyên chữ
-- có nghĩa; báo hiệu
-=to spell ruin to+ báo hiệu sự suy tàn của
-!to spell backward
-- đánh vần ngược (một từ)
-- (nghĩa bóng) hiểu nhầm, hiểu sai; thuyết minh sai
-- xuyên tạc ý nghĩa
-!to spell out
-- (thông tục) giải thích rõ ràng
-*  danh từ
-- đợt, phiên (việc)
-=a cold spell+ một đợt rét
-=to work by spells+ thay phiên nhau làm việc
-- thời gian ngắn
-=to rest for a spell+ nghỉ một thời gian ngắn
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) cơn ngắn (bệnh)
-- (Uc) thời gian nghỉ ngắn
-*  ngoại động từ
-- (từ hiếm,nghĩa hiếm) thay phiên (cho ai)
-- (Uc) cho nghỉ (ngựa)
-*  nội động từ
-- (Uc) nghỉ một lát
-@Chuyên ngành kỹ thuật
--đánh vần
+papyri
+	
+*  danh từ,  số nhiều papyrus  /pə'paiɔrɔs/
+- cây cói giấy
+- giấy cói
+- (số nhiều) sách giấy cói
+

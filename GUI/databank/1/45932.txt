@@ -1,21 +1,5 @@
-recipient	@recipient /ri'sipiənt/
-*  tính từ
-- (như) receptive
-*  danh từ
-- người nhận (tiền, quà biếu...); nước nhận (viện trợ...)
-@Chuyên ngành kinh tế
--bể chứa
--chứa
--người hưởng
--người hưởng (một chi phiếu, một phiếu khoán)
--người hưởng trợ cấp
--người nhận
--người nhận (một bức thư)
--người thụ tặng
--người thụ tặng (một di sản)
--túi chứa
-@Chuyên ngành kỹ thuật
--người nhận
--người nhận, nơi nhận
--người tiếp nhận
--nơi nhận
+hin
+	
+* danh từ
+- đơn vị đo chất lỏng của người Do Thái cổ, chừng 4 lít
+

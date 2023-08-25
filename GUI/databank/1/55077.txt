@@ -1,7 +1,23 @@
-switcher	@switcher
-* danh từ
-- người chuyển hướng tàu hoả
+sealer
+	
+*  danh từ
+- người áp triện, người đóng dấu
+- người săn chó biển; tàu săn chó biển
+@Chuyên ngành kinh tế
+-máy bao gói
+-máy cuộn
+-máy dán hộp bằng giấy
+-máy lăn
+-tàu săn thú biển
 @Chuyên ngành kỹ thuật
--đầu máy lập tàu
-@Lĩnh vực: toán & tin
--bộ chuyển mạch (để chọn nguồn tín hiệu)
+-chất bít kín
+-chất cách nhiệt
+@Lĩnh vực: hóa học & vật liệu
+-chất hàn
+-vòng kẹp bịt kín
+@Lĩnh vực: điện lạnh
+-chất làm kín
+-chất làm kín (cách nhiệt)
+@Lĩnh vực: xây dựng
+-sơn bịt lỗ hổng
+

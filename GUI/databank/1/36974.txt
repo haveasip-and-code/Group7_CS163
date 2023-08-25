@@ -1,5 +1,11 @@
-nonprofit	@nonprofit
-* tính từ
-- không vì mục đích lợi nhuận; bất vụ lợi
-@Chuyên ngành kinh tế
--không mưu cầu lợi nhuận
+integrand
+	
+*  danh từ
+- (toán học) hàm bị tích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-biểu thức tích phân
+-hàm lấy tích phân
+@Lĩnh vực: điện lạnh
+-hàm bị tích (phân)
+

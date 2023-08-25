@@ -1,3 +1,6 @@
-lathering	@lathering
-* danh từ
-- sự đánh đập, sự mắng nhiết
+exclusions
+	
+-sự loại trừ
+@Chuyên ngành kỹ thuật
+-sự loại trừ
+

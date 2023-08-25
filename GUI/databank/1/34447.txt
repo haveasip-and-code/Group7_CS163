@@ -1,9 +1,9 @@
-mesa	@mesa /'meisə/
+census
+	
 *  danh từ
-- (địa lý,ddịa chất) núi mặt bàn
+- sự điều tra số dân
 @Chuyên ngành kỹ thuật
--núi mặt bàn
-@Lĩnh vực: hóa học & vật liệu
--đỉnh núi phẳng
-@Lĩnh vực: điện lạnh
--mô đỉnh bằng
+-sự kiểm kê
+@Lĩnh vực: điện tử & viễn thông
+-tổng điều tra
+

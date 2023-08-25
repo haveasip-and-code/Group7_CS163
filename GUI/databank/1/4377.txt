@@ -1,4 +1,24 @@
-backless	
-@backless
-* tính từ
-- cắt thấp ở phía lưng (nói về quần áo)
+poison
+	
+*  danh từ
+- chất độc, thuốc độc
+=slow poison
++ chất dùng nhiều có hại
+- (nghĩa bóng) thuyết độc hại, thuyết đầu độc
+!to hate each other like poison
+- ghét nhau như đào đất đổ đi
+!what's your poison?
+- (thông tục) anh uống cái gì nào?
+*  ngoại động từ
+- bỏ thuốc độc, tẩm thuốc độc
+- làm hư bằng chất độc hại
+- (nghĩa bóng) đầu độc, làm hư hỏng; phá, phá hoại (niềm vui, hạnh phúc của ai...)
+@Chuyên ngành kinh tế
+-chất độc
+-nhiễm độc
+-thuốc độc
+@Chuyên ngành kỹ thuật
+-chất hấp thụ
+@Lĩnh vực: y học
+-chất độc
+

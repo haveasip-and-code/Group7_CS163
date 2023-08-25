@@ -1,11 +1,25 @@
-audiogram	
-@audiogram /'ɔ:diougræm/
+checker
+	
 *  danh từ
-- đồ thị nghe
+- (từ Mỹ,nghĩa Mỹ) người tính tiền, người thu tiền (ở cửa hàng tự phục vụ...)
+*  danh từ & ngoại động từ (như) chequer
+@Chuyên ngành kinh tế
+-người đếm hàng
+-người kiểm soát
+-người kiểm tra
+-người thu tiền (ở siêu thị)
+-thu ngân viên
 @Chuyên ngành kỹ thuật
--giản đồ âm (thanh)
-@Lĩnh vực: điện lạnh
--âm đồ
--giản đồ âm thanh
-@Lĩnh vực: y học
--thính lực đồ
+-bộ kiểm tra
+-dụng cụ kiểm tra
+-kẻ carô
+-kẻ ô vuông
+-người kiểm tra
+-máy kiểm tra
+-máy thử
+-thiết bị
+-thiết bị kiểm tra
+-thiết bị thử
+@Lĩnh vực: xây dựng
+-kiểm soát viên
+

@@ -1,13 +1,4 @@
-respirator	@respirator /'respəreitə/
-*  danh từ
-- máy hô hấp
-- mặt nạ phòng hơi độc
-- cái che miệng, khẩu trang
-@Chuyên ngành kỹ thuật
--bình hơi (để thở)
--bình thở
--máy hô hấp nhân tạo
-@Lĩnh vực: xây dựng
--bụi độc
-@Lĩnh vực: toán & tin
--mặt nạ phòng hơi
+insertional
+	
+- xem insertion
+

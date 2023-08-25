@@ -1,13 +1,8 @@
-overlaying	@Chuyên ngành kỹ thuật
--lớp lát
--lớp mặt
--lớp phủ
--màng bảo vệ
--màng bọc
--phủ hình
--phủ nhau
--sự chồng hình
--sự phủ chờm
--xếp chồng
-@Lĩnh vực: toán & tin
--màng phủ thủy tinh
+balata
+	
+* danh từ
+- Balata (nhựa lấy ở cây dùng làm chất cáh điện)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-gôm balata
+

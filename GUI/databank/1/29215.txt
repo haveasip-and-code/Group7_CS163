@@ -1,15 +1,9 @@
-interceptor	
-@interceptor /,intə'septə/ (intercepter) /,intə'septə/
+acquittal
+	
 *  danh từ
-- người chặn, cái chắn
-- (quân sự), không máy bay đánh chặn (để chặn máy bay địch)
+- sự trả xong nợ, sự trang trải xong nợ nần
+- sự tha tội, sự tha bổng, sự tuyên bố trắng án
+- sự làm trọn (bổn phận, trách nhiệm...)
 @Chuyên ngành kinh tế
--thiết bị chặn
--thiết bị tắt
-@Chuyên ngành kỹ thuật
--cửa van thủy lực
--đường ống dẫn nước
--giếng góp nước thải
--rãnh tập trung nước
-@Lĩnh vực: xây dựng
--xi phông cống
+-sự tuyên bố trắng án
+

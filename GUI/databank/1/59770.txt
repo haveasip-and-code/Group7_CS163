@@ -1,11 +1,13 @@
-unidirectional	@unidirectional
-* tính từ
-- theo một phương hướng duy nhất
+subframe
+	
+* danh từ
+- khung sàn phụ; sườn khung phụ
 @Chuyên ngành kỹ thuật
--đơn hướng
--một chiều
--một hướng
+-khung phụ
 @Lĩnh vực: toán & tin
--một chiều, một hướng
-@Lĩnh vực: điện
--một hướng duy nhất
+-khung con
+@Lĩnh vực: điện tử & viễn thông
+-mành con
+@Lĩnh vực: ô tô
+-sườn khung phụ (đỡ động cơ, hộp số..)
+

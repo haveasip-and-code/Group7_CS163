@@ -1,7 +1,45 @@
-regionalist	@regionalist
-* tính từ
-- thuộc regionalism
-* danh từ
-- người có óc địa phương
-- người theo chính sách phân quyền cho địa phương
-- nhà văn chuyên về một địa phương
+facility
+	
+*  danh từ
+- (số nhiều) điều kiện dễ dàng, điều kiện thuận lợi; phương tiện dễ dàng
+=to give facilities for (of) foing something
++ tạo điều kiện dễ dàng để làm việc gì
+=transportation facilities
++ những phương tiện dễ dàng cho việc vận chuyển
+- sự dễ dàng, sự trôi chảy
+- sự hoạt bát
+- tài khéo léo
+- tính dễ dãi
+@Chuyên ngành kỹ thuật
+-bộ phận
+-cơ cấu
+-công trình (mỹ)
+-đặc trưng
+-dụng cụ
+-nhà máy
+-máy
+-phương tiện
+-tiện ích
+-tính năng
+-trang bị
+@Lĩnh vực: toán & tin
+-chức năng
+@Lĩnh vực: xây dựng
+-dễ dàng
+@Chuyên ngành kỹ thuật
+-bộ phận
+-cơ cấu
+-công trình (mỹ)
+-đặc trưng
+-dụng cụ
+-nhà máy
+-máy
+-phương tiện
+-tiện ích
+-tính năng
+-trang bị
+@Lĩnh vực: toán & tin
+-chức năng
+@Lĩnh vực: xây dựng
+-dễ dàng
+

@@ -1,48 +1,6 @@
-notice	@notice /'noutis/
-*  danh từ
-- thông tri, yết thị, thông cáo
-=public notice+ yết thị cho công chúng
-=to put a notice in the papers+ đăng thông cáo trên báo
-=notice is hereby given that+ thông báo cho công chúng biết rằng
-- lời báo trước; sự báo trước; thời hạn
-=at short notice+ trong một thời hạn ngắn, với sự báo trước một ít lâu
-=at the shortest notice+ trong một thời hạn ngắn nhất; ngay lập tức
-=at a moment's notice+ notice ngay lập tức, tức khắc
-=loan at notice+ sự cho vay có thời hạn
-=deposit at short notice+ sự cho vay có thời hạn ngắn
-=to take one's notice+ được báo phải thôi việc
-=take notice that+ tôi báo trước cho anh biết rằng
-- đoạn ngắn, bài ngắn (trên báo; để thông báo, để bình phẩm một cuốn sách, một vở kịch)
-- sự chú ý, sự để ý, sự nhận biết
-=he did not take the slightest notice of me+ hắn không để ý đến tôi một chút nào
-=to come into notice+ làm cho phải chú ý đến
-=to bring something to someone's notice+ làm cho người nào biết đến (để ý đến) một việc gì
-=baby takes notice+ em bé tỏ vẻ biết
-*  ngoại động từ
-- chú ý, để ý, nhận biết
-=I ứan't noticing+ tôi không chú ý
-=to notice someone in the crowd+ nhận ra ai trong đám đông
-- báo trước (đuổi nhà, cho nghỉ việc...
-=to be noticed to wuit+ được báo trước phải dọn đi
-- nhận xét về (ai, cái gì)
-- chiếu cố, hạ cố; đối xử lễ độ với
-@Chuyên ngành kinh tế
--bố cáo
--cáo thị
--giấy báo
--thông báo
--thông tri
--tờ cáo
--tờ cáo tri
+eyelash
+	
+-lông mi
 @Chuyên ngành kỹ thuật
--bản chỉ dẫn
--chú thích
--chú ý
--ghi chú
--sự nhận biết
--sự thông báo
-@Lĩnh vực: giao thông & vận tải
--sự báo trước
--sự chú ý
--sự thông tri
--sự yết thị
+-lông mi
+

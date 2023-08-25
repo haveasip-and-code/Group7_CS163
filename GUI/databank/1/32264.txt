@@ -1,23 +1,9 @@
-limp	@limp /limp/
-*  danh từ
-- tật đi khập khiễng
-*  nội động từ
-- đi khập khiễng
-- lê, bay rề rề, chạy ì ạch (máy bay, tàu thuỷ bị thương, bị hỏng)
-*  tính từ
-- mềm, ủ rũ
-- ẻo lả, thiếu khí lực
+retinaculum
+	
+* danh từ
+- số nhiều retinacula
+- (động vật học) móc cánh; mấu móc
 @Chuyên ngành kỹ thuật
--cánh
--vành chia độ
-@Lĩnh vực: toán & tin
--một số
-@Lĩnh vực: cơ khí & công trình
--thang số
-@Chuyên ngành kỹ thuật
--cánh
--vành chia độ
-@Lĩnh vực: toán & tin
--một số
-@Lĩnh vực: cơ khí & công trình
--thang số
+@Lĩnh vực: y học
+-dây chằng vòng
+

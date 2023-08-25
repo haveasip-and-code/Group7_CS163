@@ -1,6 +1,7 @@
-lilt	@lilt /lilt/
-*  danh từ
-- bài ca du dương; bài ca nhịp nhàng
-- nhịp điệu nhịp nhàng
-*  động từ
-- hát du dương; hát nhịp nhàng
+equip
+	
+*  ngoại động từ
+- trang bị (cho ai... cái gì)
+=to equip an army with modren weapons
++ trang bị vũ khí hiện đại cho một quân đội
+

@@ -1,30 +1,41 @@
-plaster	@plaster /'plɑ:stə/
-*  ngoại động từ
-- trát vữa (tường...); trát thạch cao
-- phết đầy, dán đầy, bôi đầy, làm dính đầy
-=a trunk plastered with labels+ hòn dán đầy nhãn
-=to plaster someone with praise+ (nghĩa bóng) khen ai quá mức, tâng bốc ai
-- dán thuốc cao, đắp thuốc cao (một cái nhọt...); dán lên, đắp lên
--(đùa cợt) bồi thường, đến (một vết thương...)
-- xử lý (rượu) bằng thạch cao (cho bớt chua)
-!to plaster up
-- trát kín (một kẽ hở...)
+estimation
+	
+*  danh từ
+- sự đánh giá; sự ước lượng
+- sự kính mến, sự quý trọng
+=to hold someone in estimation
++ kính mến ai, quý trọng ai
+@Chuyên ngành kinh tế
+-đánh giá
+-sự đánh giá
+-sự ước lượng
+-ước lượng
 @Chuyên ngành kỹ thuật
--băng dán
--lớp bọc
--lớp trát
--lớp vữa trát
--vữa trát
-@Lĩnh vực: xây dựng
--lớp trát thạch cao
--sự trát vôi vữa
--thạch cao trát
--thạch cao xây dựng
-@Lĩnh vực: y học
--thạch cao, băng thạch cao
-@Lĩnh vực: hóa học & vật liệu
--thuốc cao
--trát vữa, đắp thuốc cao
--vữa
+-đánh giá
+-dự toán
+-sự đánh giá
+-sự dự đoán
+-sự ước lượng
+-sự ước tính
+-sự xác định
+-tính toán
+-ước lượng
 @Lĩnh vực: cơ khí & công trình
--vữa trát tường
+-sự dự tính
+@Lĩnh vực: xây dựng
+-sự ước đoán
+@Chuyên ngành kỹ thuật
+-đánh giá
+-dự toán
+-sự đánh giá
+-sự dự đoán
+-sự ước lượng
+-sự ước tính
+-sự xác định
+-tính toán
+-ước lượng
+@Lĩnh vực: cơ khí & công trình
+-sự dự tính
+@Lĩnh vực: xây dựng
+-sự ước đoán
+

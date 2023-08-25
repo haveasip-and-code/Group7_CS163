@@ -1,0 +1,3 @@
+grey code
+A digital numbering system in which only one [bit] is changed at a time. This results in less errors.
+

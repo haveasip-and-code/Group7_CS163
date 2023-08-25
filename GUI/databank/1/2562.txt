@@ -1,9 +1,18 @@
-antigen	
-@antigen /'æntidʤən/
+contingency
+	
 *  danh từ
-- kháng nguyên
-@Chuyên ngành kinh tế
--chất kháng nguyên
+- sự ngẫu nhiên, sự tình cờ; việc bất ngờ
+=should a contingency arise; in case of a contingency
++ trong trường hợp bất ngờ; nếu xảy ra việc bất ngờ
+=prepared for all contingencies
++ chuẩn bị phòng mọi việc bất ngờ; chuẩn bị phòng mọi việc bất trắc
+=a contingency plan
++ kế hoạch để đối phó với những sự bất ngờ
+- món chi tiêu bất ngờ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--kháng nguyên
+-ngẫu nhiên
+-sự ngẫu nhiên
+-tiếp liên
+@Lĩnh vực: toán & tin
+-sự tiếp liên
+

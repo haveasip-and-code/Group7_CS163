@@ -1,2 +1,5 @@
-prolonger	@prolonger
-- xem prolong
+payout
+	
+-tiền chi trợ cấp
+-tiền xuất chi
+

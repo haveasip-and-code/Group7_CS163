@@ -1,44 +1,8 @@
-coating	
-@coating /'koutiɳ/
-*  danh từ
-- lần phủ ngoài; lớp phủ ngoài
-- vải may áo choàng
-@Chuyên ngành kinh tế
--lớp bao phủ
--sự bao phủ
--sự tráng vỏ ngoài
--vật liệu bao gói
-@Chuyên ngành kỹ thuật
--lớp
--lớp áo
--lớp áo lớp bọc
--lớp bọc
--lớp bọc chất dẻo
--lớp bồi
--lớp đắp
--lớp lót
--lớp mạ
--lớp ốp
--lớp phủ
--lớp phủ (giấy)
--lớp phủ bảo vệ
--lớp phủ ngoài
--lớp quét
--lớp sơn
--lớp tráng
--lớp trát
--lớp vữa trát
--mạ
--phủ
--sơn
--sự bọc
--sự che phủ
--sự mạ
--sự phủ
--sự tạo màng
--tráng
--vật liệu tráng
-@Lĩnh vực: hóa học & vật liệu
--bọc, gói
-@Lĩnh vực: điện
--sự sơn phủ
+breezy
+	
+*  tính từ
+- có gió hiu hiu
+- mát, thoáng gió (chỗ)
+- vui vẻ, hồ hởi, phơi phới
+- hoạt bát, nhanh nhẩu
+

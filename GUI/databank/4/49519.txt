@@ -1,0 +1,3 @@
+RSS
+Most commonly referred to as Really Simple Syndication. This is a format used in the internet community to help standardize the syndication of information. This syndication is also refered to as a 'feed,' and is normally in XML or RDF codebase. It is very popular to use what is called an 'aggregator' or 'newsreader' to download these 'feeds' onto a users desktop.
+

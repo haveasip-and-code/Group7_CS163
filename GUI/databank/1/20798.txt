@@ -1,7 +1,9 @@
-ferrosilicon	
+stratigraphy
+	
+*  danh từ
+- địa tầng học
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--ferocilic
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--ferocilic
+-địa tầng học
+@Lĩnh vực: y học
+-sự chụp tia X cắt lớp
+

@@ -1,0 +1,3 @@
+c#
+Programming language developed by Microsoft whose syntax is very similar to C++, is completely object-oriented and allows fast development. ; Contrary to what many believe, C# is NOT proprietary...Java is actually proprietary. However, because Microsoft still dominates its direction, it may be considered to be 'semi-de facto' proprietary at this stage. ; C# traded off some runtime speed for safety and quick development. More optimized compilers in the near future may reduce this speed disadvantage while retaining the advantages. ; Holistically, C# is perhaps the best programming language in existence.
+

@@ -1,3 +1,7 @@
-sporangiophore	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cuống túi bào tử
+microenvironment
+	
+-môi trường phát triển vi sinh vật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-môi trường lớn
+

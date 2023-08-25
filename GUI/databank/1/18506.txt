@@ -1,12 +1,6 @@
-enterotoxin	
-@enterotoxin
-* danh từ
-- toxin (độc tố) trong ruột
-@Chuyên ngành kinh tế
--độc tố ruột
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--độc tố ruột
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--độc tố ruột
+theocrat
+	
+*  danh từ
+- kẻ cai trị bằng thần quyền
+- người tin ở chủ nghĩa thần quyền
+

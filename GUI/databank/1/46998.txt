@@ -1,11 +1,7 @@
-requisitioning	@Chuyên ngành kinh tế
--lệnh trưng dụng
--trưng dụng
--văn thư yêu cầu
--vận thư yêu cầu
--việc trưng dụng
--việc trưng dụng (tài sản)
--yêu cầu chính thức
+freestone
+	
+* danh từ
+- đá để đẽo (để đặt vào chỗ khuyết khi xây)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự trưng dụng
+-đá hộc
+

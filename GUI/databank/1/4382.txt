@@ -1,11 +1,7 @@
-backlog	
-@backlog /'bæklɔg/
-*  danh từ
-- dự trữ
-- phần đơn hàng chưa thực hiện được
-@Chuyên ngành kinh tế
--tồn đọng
-@Chuyên ngành kỹ thuật
--sự ứ đọng
-@Lĩnh vực: vật lý
--sự tồn đọng
+etymologise
+	
+*  ngoại động từ
+- tìm nguồn gốc của (một từ); cho nguồn gốc của (một từ); đưa ra nguồn gốc của (một từ)
+*  nội động từ
+- nghiên cứu về từ nguyên
+

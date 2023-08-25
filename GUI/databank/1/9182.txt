@@ -1,4 +1,19 @@
-cholestasis	
+getter
+	
+*  danh từ
+- người mua được, người kiếm được, người lấy được, người được
+- (ngành mỏ) thợ mỏ, thợ gương lò
+- ngựa (đực) giống
+- (vật lý); (raddiô) chất thu khí
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ứ mật
+-hấp thụ khí
+-thợ mỏ
+@Lĩnh vực: điện
+-chất hút khí
+-chất thu
+@Lĩnh vực: điện lạnh
+-chất khử khí
+-chất thu khí
+@Lĩnh vực: hóa học & vật liệu
+-thợ khai thác
+

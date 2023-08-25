@@ -1,13 +1,11 @@
-faience	
-@faience /fai'Ỵ:ns/
-*  danh từ
-- sứ
-- đồ sứ
+submerse
+	
+*  tính từ
+- (thực vật học),  (từ hiếm,nghĩa hiếm) làm chìm dưới nước, làm ngập nước
+*  ngoại động từ
+- (từ hiếm,nghĩa hiếm) làm chìm dưới nước, làm ngập nước
 @Chuyên ngành kỹ thuật
--đồ sứ
-@Lĩnh vực: xây dựng
--sứ men
-@Chuyên ngành kỹ thuật
--đồ sứ
-@Lĩnh vực: xây dựng
--sứ men
+-chìm dưới nước
+-làm chìm dưới nước
+-làm ngật nước
+

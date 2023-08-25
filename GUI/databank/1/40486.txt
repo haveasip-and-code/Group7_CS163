@@ -1,8 +1,13 @@
-pepsin	@pepsin /'pepsin/
-*  danh từ
-- (sinh vật học) Pepxin
-@Chuyên ngành kinh tế
--pepxin
+convex
+	
+*  tính từ
+- (toán học),  (vật lý) lồi
+=double convex
++ hai mặt lồi
+=convex polygon
++ đa giác lồi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--enzyme trong dạ dày
+-lồi
+@Lĩnh vực: toán & tin
+-vỏ lồi
+

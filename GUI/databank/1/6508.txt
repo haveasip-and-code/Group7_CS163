@@ -1,3 +1,12 @@
-bows	
-@Chuyên ngành kinh tế
--mì ống hình vòng cung
+fixtures
+	
+-cốt
+-đồ gá
+-sườn
+-thiết bị
+@Chuyên ngành kỹ thuật
+-cốt
+-đồ gá
+-sườn
+-thiết bị
+

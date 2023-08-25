@@ -1,0 +1,3 @@
+Jarkko Oikarinen
+The creator of the [IRC] protocol. ; Jarkko created IRC back in 1988, it is the oldest multi-chat protocol in existence. ; To use IRC, you need to an [IRC client] such as [mIRC], [xChat], [Bersirc], etc. ; Some IRC servers support [java applets].
+

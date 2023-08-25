@@ -1,11 +1,8 @@
-manufacturing	@manufacturing
+cholinesterase
+	
 * danh từ
-- sự sản xuất; sự chế tạo
-@Chuyên ngành kinh tế
--chế tạo
--sản xuất
--sự chế tạo
--sự sản xuất
+- cholinexteraza
 @Chuyên ngành kỹ thuật
--sự chế tạo
--sự sản xuất
+@Lĩnh vực: y học
+-ezyme xúc tác tách rời muối choline thành choline và thành phần axit
+

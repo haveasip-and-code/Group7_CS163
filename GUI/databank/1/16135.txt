@@ -1,4 +1,15 @@
-dissuasive	
-@dissuasive /di'sweisiv/
-*  tính từ
-- để khuyên can, để khuyên ngăn, có tính chất can gian, có tính chất can ngăn
+subheading
+	
+*  danh từ
+- tiểu đề, đề phụ, đầu đề nhỏ
+@Chuyên ngành kinh tế
+-tiểu đề
+-tiêu đề nhỏ
+-tiêu đề nhỏ, tiểu đề
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-đề mục phụ
+-tiêu đề phụ
+@Lĩnh vực: xây dựng
+-đề phụ
+

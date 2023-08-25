@@ -1,11 +1,5 @@
-spec	@spec /spek/
-*  danh từ
-- (thông tục) sự đầu cơ, sự kinh doanh đầu cơ
-@Chuyên ngành kinh tế
--đầu cơ
-@Chuyên ngành kỹ thuật
--đặc điểm kỹ thuật
--đặc tả
--điều kiện kỹ thuật
-@Lĩnh vực: ô tô
--các đặc điểm (kỹ thuật)
+corticoid
+	
+* danh từ
+- (hoá học) coocticoit
+

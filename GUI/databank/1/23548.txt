@@ -1,7 +1,5 @@
-glassmaker	
-@glassmaker /'glɑ:s,meikə/
-*  danh từ
-- người làm kính, người làm thuỷ tinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thợ làm kính
+chemism
+	
+@Lĩnh vực: hóa học & vật liệu
+-cơ chế hóa học
+

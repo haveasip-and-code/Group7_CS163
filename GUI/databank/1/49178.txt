@@ -1,12 +1,21 @@
-scoria	@scoria /scoria/
-*  danh từ,  số nhiều scoriae
-- xỉ
+inhibit
+	
+*  ngoại động từ
+- ngăn chặn, hạn chế, kiềm chế
+- ngăn cấm, cấm
+- (hoá học) (tâm lý học); (sinh vật học) ức chế
+@Chuyên ngành kinh tế
+-kìm hãm
+-ngăn lại
 @Chuyên ngành kỹ thuật
--đồ phế thải
--gỉ sắt
--vảy sắt
--xỉ lò
--xỉ núi lửa
--xỉ tro
-@Lĩnh vực: hóa học & vật liệu
--xỉ
+-cản
+-chậm
+-hãm
+-khóa
+-kiềm chế
+-ngăn
+-ngăn cản
+-ngăn cản (mạch cửa)
+-ngăn chặn
+-ức chế
+

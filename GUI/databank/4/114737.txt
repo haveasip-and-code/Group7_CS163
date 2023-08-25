@@ -1,0 +1,3 @@
+corner sto
+A store that's on a corner of 2 streets.
+

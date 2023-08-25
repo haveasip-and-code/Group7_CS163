@@ -1,8 +1,30 @@
-dynamics	
-@dynamics /dai'næmiks/
-*  danh từ,  số nhiều dùng như số ít
-- động lực học
+stratification
+	
+*  danh từ
+- (địa lý,địa chất) sự xếp thành tầng
+- thớ tầng
 @Chuyên ngành kinh tế
--động lực học
+-sự phân loại
+-sự phân lớp
+-sự phân tầng
 @Chuyên ngành kỹ thuật
--động lực học
+-lò cắt
+-phân tầng
+-sự phân lớp
+-sự phân tầng
+-sự phân vỉa
+-sự tạo vỉa
+-thớ lớp
+-tính phân lớp
+-vỉa
+@Lĩnh vực: điện lạnh
+-sự đóng thành lớp
+-sự xếp tầng
+@Lĩnh vực: hóa học & vật liệu
+-sự phân tầng (địa chất)
+-sự thành tầng
+@Lĩnh vực: y học
+-sự xếp thành tầng
+@Lĩnh vực: xây dựng
+-thớ tầng
+

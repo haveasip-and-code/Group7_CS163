@@ -1,0 +1,3 @@
+paldos
+noun - used in the mnemonic rule used for the formula of the drain current of a MOSFET transistor in saturation mode. In electronics: Id = 1/2*kn'*(W/L)*(Vgs-Vt)^2*(1+lambda*Vds)
+

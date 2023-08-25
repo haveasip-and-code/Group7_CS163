@@ -1,19 +1,25 @@
-oven	@oven /'ʌvn/
+correspondence
+	
 *  danh từ
-- lò (để hấp bánh, để dùng trong thí nghiệm hoá học)
+- sự xứng nhau, sự tương ứng; sự phù hợp
+- thư từ; quan hệ thư từ
+=to be in (to have) correspondence with someone
++ trao đổi thư từ với ai, liên lạc bằng thư từ với ai
+=to do (to attend to) the correspondence
++ viết thư
+=correspondence clerk
++ người giữ việc giao thiệp bằng thư từ, người thư ký
+=correspondence class
++ lớp học bằng thư, lớp hàm thụ
 @Chuyên ngành kinh tế
--bếp
--lò
--lò nướng bánh mì
--lò sấy
+-quan hệ thư từ
+-thư từ qua lại
 @Chuyên ngành kỹ thuật
--buồng sấy
--lò
--lò (sấy)
--lò điều nhiệt
--lò lung
--lò sấy
--lò thiêu
--tủ sấy
-@Lĩnh vực: hóa học & vật liệu
--thùng điều nhiệt
+-sự tương ứng
+-thông điệp
+-tương ứng
+@Lĩnh vực: toán & tin
+-phép tương ứng
+@Lĩnh vực: xây dựng
+-thư tín
+

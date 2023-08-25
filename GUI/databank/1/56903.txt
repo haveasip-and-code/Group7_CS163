@@ -1,14 +1,5 @@
-tolerable	@tolerable /'tɔlərəbl/
-*  tính từ
-- có thể tha thứ được
-=this fault is tolerable+ lỗi này có thể tha thứ được
-- có thể chịu được
-- kha khá, vừa vừa, tàm tạm
-=at a tolerable distance+ ở một quãng khá xa
-=a tolerable number of...+ một số... kha khá...
-@Chuyên ngành kỹ thuật
--được phép
-@Lĩnh vực: toán & tin
--cho phép được
-@Lĩnh vực: điện lạnh
--trong dung hạn
+egest
+	
+* ngoại động từ
+- (sinh học) bài tiết
+

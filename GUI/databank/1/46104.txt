@@ -1,17 +1,6 @@
-recurrent	@recurrent /ri'kʌrənt/
-*  tính từ
-- trở lại luôn, thường tái diễn, có định kỳ
-- (y học) hồi quy
-=recurrent fever+ sốt hồi quy
-@Chuyên ngành kinh tế
--định kỳ (phát sinh)
--tái đi tái lại
--thường tái diễn
--thường xuyên (phát sinh)
--trở lại luôn
-@Chuyên ngành kỹ thuật
--lặp
--lặp lại
--trả lại
-@Lĩnh vực: y học
--tái hồi
+narrows
+	
+* danh từ số nhiều
+- cửa biển hẹp
+- eo sông; hẻm núi
+

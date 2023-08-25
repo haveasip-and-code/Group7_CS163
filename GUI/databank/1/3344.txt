@@ -1,21 +1,9 @@
-around	
-@around /ə'raund/
-*  phó từ
-- xung quanh
-- vòng quanh=the tree measures two meters around
-+ thân cây đo vòng quanh được hai mét
-- đó đây, chỗ này, chỗ nọ, khắp nơi=to travel around
-+ đi du lịch đó đây
-- (từ Mỹ,nghĩa Mỹ) quanh quẩn, loanh quanh, ở gần=around here
-+ quanh đây=to hang around
-+ ở quanh gần đây=to get (come) around
-+ gần lại, đến gần, sắp đến
-*  giới từ
-- xung quanh, vòng quanh=to walk around the house
-+ đi vòng quanh nhà
-- đó đây, khắp=to travel around the country
-+ đi du lịch khắp xứ
-- khoảng chừng, gần=around a million
-+ khoảng chừng một triệu
+turfy
+	
+*  tính từ
+- đầy cỏ, có trồng cỏ
+- có than bùn; (thuộc) than bùn
+- (thuộc) sự đua ngựa
 @Chuyên ngành kỹ thuật
--vòng quanh
+-than bùn
+

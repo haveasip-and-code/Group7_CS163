@@ -1,11 +1,24 @@
-infix	
-@infix /'infiks/
-*  danh từ
-- (ngôn ngữ học) trung tố
-*  ngoại động từ
-- gắn (cái gì vào cái gì)
-- in sâu, khắc sâu (vào trí óc...)
-- (ngôn ngữ học) thêm trung tố
+conveyor
+	
+- (Tech) băng truyền; máy truyền; băng tải
+@Chuyên ngành kinh tế
+-băng tải
+-người chuyển nhượng tài sản
+-người vận chuyển (hàng hóa)
+-thiết bị chuyền tải
+-thiết bị vận chuyển
 @Chuyên ngành kỹ thuật
+-băng chuyền
+-băng chuyển
+-băng tải
+-băng truyền
+-thiết bị vận chuyển
+-vật dẫn điện
 @Lĩnh vực: xây dựng
--trung tố
+-máy tải
+-thang lăn
+-thiết bị chuyền tải
+@Lĩnh vực: giao thông & vận tải
+-thiết bị chuyên chở
+-thiết bị chuyên tải
+

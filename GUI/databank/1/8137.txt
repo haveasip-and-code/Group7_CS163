@@ -1,6 +1,17 @@
-caruncle	
-@caruncle /'kærəɳkl/
-*  danh từ
-- (sinh vật học) mào, mào thịt
+isometric
+	
+*  tính từ
+- cùng kích thước
 @Chuyên ngành kỹ thuật
--núm
+-cùng kích thước
+-đẳng cự
+-đẳng tích
+-đường đẳng cự
+-đường đẳng tích
+@Lĩnh vực: y học
+-cùng kích thước, đẳng trường
+@Lĩnh vực: xây dựng
+-đo bằng nhau
+@Lĩnh vực: toán & tin
+-hiển thị đẳng cự
+

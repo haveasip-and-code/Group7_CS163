@@ -1,28 +1,13 @@
-commercial	
-@commercial /kə'mə:ʃl/
-*  tính từ
-- (thuộc) buôn bán; (thuộc) thương mại; (thuộc) thương nghiệp=commercial school
-+ trường thương nghiệp=commercial treaty
-+ hiệp ước thương mại!commercial braodcast
-- (từ Mỹ,nghĩa Mỹ) buổi phát thanh quảng cáo hàng=commercial room
-+ phòng khách sạn cho những người đi chào hàng=commercial traveller
-+ người đi chào hàng
-*  danh từ
-- (thông tục) người chào hàng
-- buổi phát thanh quảng cáo hàng
-@Chuyên ngành kinh tế
--có tính chất quảng cáo
--dành cho buôn bán
--khách sạn làm riêng cho những người đi chào hàng
--mục quảng cáo hàng hóa
--thuộc về mậu dịch
--thuộc về thương mại
-@Chuyên ngành kỹ thuật
--có tính thương mại
--giao dịch
--sự quảng cáo
--thương nghiệp
-@Lĩnh vực: toán & tin
--thương mại
-@Lĩnh vực: cơ khí & công trình
--thương phẩm
+transgress
+	
+*  ngoại động từ
+- vượt quá
+=to transgress the bounds
++ vượt quá giới hạn
+- phạm, vi phạm
+=to transgress a treaty
++ vị phạm một hiệp ước
+*  nội động từ
+- (tôn giáo) phạm tội
+- (pháp lý) phạm pháp
+

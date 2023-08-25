@@ -1,8 +1,8 @@
-unbind	@unbind /'ʌn'baind/
-*  ngoại động từ unbound
-- mở, cởi, thả, tháo
-- (y học) cởi băng, bó băng (vết thương)
-@Chuyên ngành kỹ thuật
--không liên kết
-@Lĩnh vực: toán & tin
--không kết buộc
+blowdown
+	
+@Lĩnh vực: ô tô
+-sự quét khí
+-sự tháo nước ra
+@Lĩnh vực: hóa học & vật liệu
+-thổi khí
+

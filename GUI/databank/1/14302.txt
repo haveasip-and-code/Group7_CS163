@@ -1,20 +1,17 @@
-delve	
-@delve /delv/
+proceeds
+	
 *  danh từ
-- chỗ trũng, chỗ lõm sâu xuống, hốc
-*  ngoại động từ
-- (
-+ out) moi móc ra, bới ra ((nghĩa đen) & (nghĩa bóng))
-- nghiên cứu sâu, đào sâu (vấn đề, tài liệu...)
-- (từ cổ,nghĩa cổ),  (thơ ca) đào, bới
-*  nội động từ
-- trũng xuống, lõm vào, sâu hoắm xuống
-- tìm tòi, nghiên cứu sâu
-- dốc đứng xuống (đường...)
-- (từ cổ,nghĩa cổ); (thơ ca) đào đất, bới đất
+- số thu nhập; tiền lời, lãi
+@Chuyên ngành kinh tế
+-hoa lợi
+-số thu nhập
+-số thu tiền hàng
+-số tiền bán được
+-số tiền thu được
+-thu nhập
+-tiền thu được
 @Chuyên ngành kỹ thuật
--giếng
--hố
--rãnh
-@Lĩnh vực: xây dựng
--mương xả
+-tiền lãi
+@Lĩnh vực: giao thông & vận tải
+-số thu nhập
+

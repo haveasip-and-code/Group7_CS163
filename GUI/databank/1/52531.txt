@@ -1,4 +1,39 @@
-splenetically	@splenetically
-* tính từ
-- thuộc lách
-- dễ nổi giận; cáu gắt
+commit
+	
+*  ngoại động từ
+- giao, gửi, giao phó, uỷ nhiệm, uỷ thác
+=to commit to someone's care
++ giao cho ai trông nom
+- bỏ tù, giam giữ, tống giam
+=to commit somebody to prison
++ tống giam ai
+=to commit a blunder
++ phạm sai lầm ngớ ngẩn
+- chuyển (một đạo luật...) cho tiểu ban xét (ở nghị viện)
+- hứa, cam kết
+- làm hại đến, làm liên luỵ; dính vào
+=to commit someone's reputation
++ làm hại danh dự ai
+- (từ Mỹ,nghĩa Mỹ) đưa (quân) đi đánh
+=to commit troops to a war
++ đưa quân vào một cuộc chiến tranh
+!to commit to memory
+- (xem) memory
+!to commit to writing
+- ghi chép
+@Chuyên ngành kinh tế
+-bỏ tù
+-cam kết
+-giam giữ
+-giao phó
+-gửi
+-hứa
+-tống giam
+@Chuyên ngành kỹ thuật
+-chuyển giao
+-ủy thác
+@Lĩnh vực: toán & tin
+-cam kết
+-thực hiện thỏa hiệp
+-xác nhận
+

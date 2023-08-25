@@ -1,45 +1,5 @@
-fixture	
-@fixture /'fikstʃə/
-*  danh từ
-- vật cố định, đồ đạc đặt ở chỗ cố định
-- (số nhiều) (pháp lý) đồ đạc cố định (về mặt pháp lý coi như thuộc hẳn về một toà nhà nào)=all the looking
--glasses in the house are fixtures
-+ tất cả những tấm gương trong toà nhà đều là những đồ đạc cố định
-- (thông tục) người ở lì mãi một chỗ; người ở lì mãi một chức vụ=he seems to be a fixture
-+ nó hình như muốn lì ra đó
-- (thể dục,thể thao) cuộc đấu, cuộc thi; ngày đấu, ngày thi
-@Chuyên ngành kinh tế
--ấn định
--thiết bị cố định
-@Chuyên ngành kỹ thuật
--bộ kẹp
--cấu
--cơ cấu
--cốt đai
--đồ gá
--dụng cụ
--dụng cụ kẹp
--mâm cặp
--thiết bị
-@Lĩnh vực: hóa học & vật liệu
--bộ gá lắp
-@Lĩnh vực: xây dựng
--bộ phận/chi tiết cố định
-@Lĩnh vực: điện
--phụ kiện ghép
-@Chuyên ngành kỹ thuật
--bộ kẹp
--cấu
--cơ cấu
--cốt đai
--đồ gá
--dụng cụ
--dụng cụ kẹp
--mâm cặp
--thiết bị
-@Lĩnh vực: hóa học & vật liệu
--bộ gá lắp
-@Lĩnh vực: xây dựng
--bộ phận/chi tiết cố định
-@Lĩnh vực: điện
--phụ kiện ghép
+dimerization
+	
+* danh từ
+- sự nhị trùng hoá
+

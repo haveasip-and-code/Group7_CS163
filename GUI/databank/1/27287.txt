@@ -1,4 +1,14 @@
-immutable	
-@immutable /i'mju:təbl/
+prolate
+	
 *  tính từ
-- không thay đổi, không biến đổi; không thể thay đổi được, không thể biến đổi được
+- (toán học) dài (ra)
+=prolate spheroid
++ phỏng cầu dài
+- mở rộng, phát triển rộng
+- (nghĩa bóng) lan rộng, lan khắp
+@Chuyên ngành kỹ thuật
+-dài
+-thon
+@Lĩnh vực: toán & tin
+-thon dài
+

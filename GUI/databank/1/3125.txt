@@ -1,12 +1,41 @@
-arbitrate	
-@arbitrate /'ɑ:bitreit/
-*  động từ
-- phân xử, làm trọng tài phân xử=to arbitrate a quarrel
-+ phân xử một vụ cãi nhau
+degradation
+	
+*  danh từ
+- sự giáng chức; sự hạ tầng công tác
+- sự làm mất danh giá, sự làm mất thanh thể
+- sự làm giảm giá trị, sự làm thành đê hèn, sự làm thành hèn hạ
+- sự giảm sút (sức khoẻ...)
+- sự suy biến, sự thoái hoá
+- (hoá học) sự thoái biến
+- (địa lý,địa chất) sự rã ra, sự mủn ra (đá...)
+- (vật lý) sự giảm phẩm chất
+=degradation of energy
++ sự giảm phẩm chất của năng lượng
+- (nghệ thuật) sự phai, sự nhạt đi (màu sắc)
 @Chuyên ngành kinh tế
--làm trọng tài
--phân xử
--trọng phán
+-sự giảm
+-sự lão hóa
+-sự phân hủy
+-sự thóai hóa
 @Chuyên ngành kỹ thuật
+-biến chất
+-giảm
+-giảm phẩm chất
+-sự giảm sút
+-sự lão hóa
+-sự phá hủy
+-sự phân rã
+-sự suy biến
+-sự thoái hóa
+-sự xói mòn
+-sự xuống cấp
+-suy giảm
+-thoái hóa
+-xói mòn
+@Lĩnh vực: hóa học & vật liệu
+-sự giảm cấp
+@Lĩnh vực: y học
+-sự thoái biến
 @Lĩnh vực: xây dựng
--phân xử
+-xuống cấp
+

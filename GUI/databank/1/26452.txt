@@ -1,10 +1,6 @@
-hundredweight	
-@hundredweight
-* danh từ, viết tắt là cwt
-- tạ (ở Anh bằng 50, 8 kg, ở Mỹ bằng 45, 3 kg)
-@Chuyên ngành kinh tế
--tạ
--tạ (Anh)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: đo lường & điều khiển
--tạ (cwt)
+irresolvable
+	
+*  tính từ
+- không thể phân tách ra từng phần được
+- không thể giải thích được (bài toán...)
+

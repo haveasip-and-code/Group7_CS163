@@ -1,12 +1,14 @@
-organism	@organism /'ɔ:gənizm/
+barograph
+	
 *  danh từ
-- cơ thể; sinh vật
-- cơ quan, tổ chức
-@Chuyên ngành kinh tế
--cơ thể
--sinh vật
--vi sinh vậy
+- (vật lý) máy ghi khí áp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cơ thể
--n- sinh vật
+-khí áp kế ghi
+-khí áp ký
+-máy ghi áp khí
+-máy ghi khí áp
+@Lĩnh vực: cơ khí & công trình
+-biểu đồ khí áp
+@Lĩnh vực: điện lạnh
+-khí (quyển) áp ký
+

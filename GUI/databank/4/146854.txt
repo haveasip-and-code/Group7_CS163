@@ -1,0 +1,3 @@
+frag out!
+A shout to indicate that a fragmentation grenade has been thrown.
+

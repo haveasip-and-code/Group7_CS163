@@ -1,10 +1,55 @@
-aspersion	
-@aspersion /əs'pə:ʃn/
+dump
+	
 *  danh từ
-- sự vảy, sự rảy, sự rưới (nước...)
-- sự nói xấu, sự phỉ báng, sự vu khống; sự bôi nhọ, lời nói xấu, lời vu khống=to cast aspersions on somebody
-+ vu khống ai; bôi nhọ ai
+- vật ngắn bè bè, người lùn bè bè
+- thẻ chì (dùng trong một số trò chơi)
+- đông đum (tiền Uc xưa); (từ lóng) đồng xu
+=not worth a dump
++ không đáng giá một xu
+- bu lông (đóng tàu)
+- ky (chơi ky)
+- kẹo đum
+- đống rác, nơi đổ rác; nơi rác rưởi bừa bãi
+- tiếng rơi bịch, tiếng đổ ầm, tiếng ném phịch xuống; cú đấm bịch
+- (quân sự) kho đạn tạm thời
+*  ngoại động từ
+- đổ thành đống (rác); vứt bỏ, gạt bỏ (ai...)
+=to dump the ribbish
++ đổ rác
+- đổ ầm xuống, ném phịch xuống
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh gục, đánh ngã
+- (thương nghiệp) bán hạ giá (những hàng thừa ế) ra thị trường nước ngoài (để tránh việc phải hạ giá hàng trong nước và đồng thời tranh thủ được thị trường mới)
+- đưa (dân đi trú thừa) ra nước ngoài
+*  nội động từ
+- đổ rác
+- ngã phịch xuống, rơi phịch xuống
+@Chuyên ngành kinh tế
+-bán hạ giá ra thị trường nước ngoài
+-bán phá giá
+-dụng cụ lấy mẫu
+-kho
+-kho hàng cung ứng tạm thời
 @Chuyên ngành kỹ thuật
--sự tưới nước
+-bãi thải
+-chất thải
+-đắp
+-đất lở
+-đất nở
+-đất sụt
+-dỡ tải
+-đống
+-kết xuất
+-phế thải
+-sổ
+-sự đưa ra
+@Lĩnh vực: hóa học & vật liệu
+-bãi thải (quặng)
+@Lĩnh vực: xây dựng
+-cất tải
+-đổ rác
 @Lĩnh vực: cơ khí & công trình
--sự tưới phun
+-đống vật liệu
+@Lĩnh vực: toán & tin
+-sự kết xuất
+-sự sổ
+

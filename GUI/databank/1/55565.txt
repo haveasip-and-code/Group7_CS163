@@ -1,11 +1,5 @@
-tapering	@tapering /'teipəriɳ/
-*  tính từ
-- thon thon, bóp nhọn, búp măng
-=tapering trousers+ quần thót ống, quần bóp ống
-@Chuyên ngành kinh tế
--thuộc phí, mức phí giảm dần
-@Chuyên ngành kỹ thuật
--độ côn
--hình côn
-@Lĩnh vực: hóa học & vật liệu
--thôn
+sidings
+	
+@Lĩnh vực: xây dựng
+-lớp ốp mặt bên (bằng ván hoặc tấm)
+

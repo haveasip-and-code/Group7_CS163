@@ -1,9 +1,5 @@
-laburnum	@laburnum /lə'bə:nəm/
-*  danh từ
-- (thực vật học) cây kim tước
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--gỗ kim tước
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--gỗ kim tước
+reductional
+	
+* tính từ
+- (thuộc) giảm bớt, hạ giá, rút gọn, hoàn nguyên
+

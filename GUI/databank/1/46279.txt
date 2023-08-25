@@ -1,2 +1,11 @@
-refillable	@Chuyên ngành kinh tế
--còn sử dụng được
+damaged
+	
+-bị hư hao
+-bị thiệt hại
+-bị tổn thất
+@Chuyên ngành kỹ thuật
+-hỏng
+@Lĩnh vực: điện tử & viễn thông
+-hư hại
+-thiệt hại
+

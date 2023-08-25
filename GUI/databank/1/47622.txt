@@ -1,11 +1,17 @@
-rhombohedron	@rhombohedron
-* danh từ
-- hình hộp mặt thoi
+fallacy
+	
+*  danh từ
+- ảo tưởng; sự sai lầm; ý kiến sai lầm
+- nguỵ biện; thuyết nguỵ biện
+- tính chất dối trá, tính chất lừa dối, tính chất trá nguỵ
+!pathetic fallacy
+- sự nhân cách hoá thiên nhiên, sự nhân cách hoá các vật vô tri
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--khối (sáu) mặt thoi
-@Lĩnh vực: hóa học & vật liệu
--khối hộp mặt thoi
--khối mặt thoi
-@Lĩnh vực: toán & tin
--khối sáu mặt thoi (lăng kính)
+-ảo tưởng
+-ngụy biện
+-ngụy lý
+@Chuyên ngành kỹ thuật
+-ảo tưởng
+-ngụy biện
+-ngụy lý
+

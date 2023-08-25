@@ -1,7 +1,5 @@
-vase	@vase /vɑ:z, Mỹ veis, veiz/
-*  danh từ
-- bình, lọ
-@Chuyên ngành kỹ thuật
--cái bình
-@Lĩnh vực: xây dựng
--đầu cột corin
+pyrimidine
+	
+@Lĩnh vực: y học
+-hợp chất có nitơ có cấu trúc phân tử vòng
+

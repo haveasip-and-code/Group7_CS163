@@ -1,12 +1,26 @@
-floatation	
-@floatation /floatation/
-*  danh từ ((từ Mỹ,nghĩa Mỹ) (cũng) flotation)
-- sự nổi; sự trôi
-- (hoá học) sự tách đãi
-- sự khai trương (một công ty); sự khởi công (một công việc)
+parade
+	
+*  danh từ
+- sự phô trương
+- cuộc diễu hành, cuộc duyệt binh
+=Mac Day parade
++ cuộc diễu hành ngày 1 tháng 5
+- nơi duyệt binh; thao trường ((cũng) parade ground)
+- đường đi dạo mát; công viên
+!programme parade
+- chương trình các tiết mục (truyền thanh, truyền hình)
+*  ngoại động từ
+- tập họp (quân đội) để duyệt binh, cho diễu hành, cho diễu binh
+=to parade troops
++ cho diễu binh
+- phô trương
+=to parade one's skill
++ phô tài khoe khéo
+- diễu hành qua, tuần hành qua
+=to parade the streets
++ diễu hành qua phố
+*  nội động từ
+- diễu hành, tuần hành
 @Chuyên ngành kỹ thuật
--sự nổi
--sự trôi
-@Chuyên ngành kỹ thuật
--sự nổi
--sự trôi
+-diễn hành
+

@@ -1,27 +1,5 @@
-declination	
-@declination /,dekli'neiʃən/
-*  danh từ
-- sự nghiêng, sự lệch; độ nghiêng, độ lệch
-- (thiên văn học) độ lệch, độ thiên=magnetic declination
-+ độ từ thiên
-- (ngôn ngữ học) biến cách
-- (từ cổ,nghĩa cổ) sự suy sụp, sự suy đồi
-@Chuyên ngành kinh tế
--hạ xuống
--suy thoái
--tuột giá
-@Chuyên ngành kỹ thuật
--độ (từ) thiên
--độ lệch
--đọ nghiêng
--độ nghiêng
--độ từ khuynh
--độ từ thiên
--góc lệch
--sự lệch
-@Lĩnh vực: hóa học & vật liệu
--độ lệnh
--góc lệch từ
--góc từ thiên
-@Lĩnh vực: y học
--sự nghiêng, độ nghiêng
+antialien
+	
+* tính từ
+- bài ngoại
+

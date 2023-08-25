@@ -1,18 +1,4 @@
-oscillator	@oscillator /'ɔsileitə/
-*  danh từ
-- máy dao động
-@Chuyên ngành kỹ thuật
--bộ dao động
--cái dao động
--mạch dao động
--máy dao động
-@Lĩnh vực: điện lạnh
--dao động tử
-@Lĩnh vực: toán & tin
--máy (phát) dao động
-@Lĩnh vực: y học
--máy dao động, bộ tạo sóng
-@Lĩnh vực: xây dựng
--máy tạo dao động
-@Lĩnh vực: điện
--máy tạo sóng
+fixed
+	
+- cố định, ổn định; không đổi
+

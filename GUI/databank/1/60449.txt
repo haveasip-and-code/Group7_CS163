@@ -1,11 +1,5 @@
-unset	@unset /' n'set/
-*  tính từ
-- chưa lặn (mặt trời)
-- không dát, không nạm (đá quý)
-- không đặt (bẫy)
-- không bó bột (chân gẫy)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--bỏ thiết lập
--không đặt
--không thiết lập
+panmictic
+	
+* tính từ
+- ngẫu giao; hỗn giao
+

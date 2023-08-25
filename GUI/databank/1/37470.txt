@@ -1,9 +1,7 @@
-obtuseness	@obtuseness /əb'tju:snis/
-*  danh từ
-- sự cùn, sự nhụt
-- (toán học) độ tù (của góc)
-- sự chậm hiểu, sự trì độn
-- sự âm ỉ (của sự đau)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--độ tù của góc
+extemporize
+	
+*  ngoại động từ
+- ứng khẩu, làm tuỳ ứng
+*  nội động từ
+- ứng khẩu
+

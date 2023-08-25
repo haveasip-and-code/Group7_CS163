@@ -1,15 +1,24 @@
-zinc	@zinc /ziɳk/
-*  danh từ
-- kẽm
-=to coat with zinc+ mạ kẽm, tráng kẽm
-*  ngoại động từ
-- tráng kẽm, mạ kẽm
-=to zinc iron+ tráng kẽm lên sắt
-- lợp bằng kẽm
-=to zinc a roof+ lợp mái nhà bằng kẽm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--kẽm (nguyên tố hóa học, ký hiệu Zn)
-@Chuyên ngành kỹ thuật
--kẽm
--mạ kẽm
+cutoff
+	
+-điểm cắt
+-điểm ngắt
+-dòng cắt
+-ngắt dừng
+-ngắt mạch
+-ngừng
+-sự cắt đứt
+-sự cắt mép
+-sự chặn
+-sự ngăn
+-sự ngắt mạch
+-sự tắt máy
+-sự xén (chất dẻo)
+-tần số cắt
+@Lĩnh vực: cơ khí & công trình
+-cơ cấu cắt
+-cơ cấu ngắt đứt
+@Lĩnh vực: xây dựng
+-sự cắt khí
+@Lĩnh vực: điện
+-sự ngắt (điện)
+

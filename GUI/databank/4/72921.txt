@@ -1,0 +1,3 @@
+subroutine
+a lesser part of a greater programming whole; a fixed sequence of steps within a program. see also [routine] [function]
+

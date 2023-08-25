@@ -1,9 +1,5 @@
-designator	
-@designator
-- xem designate
-@Chuyên ngành kỹ thuật
--bổ nhiệm viên
--chỉ định
-@Lĩnh vực: toán & tin
--bộ định danh
--bộ miêu tả
+protopod
+	
+* danh từ
+- (động vật học) có chân trước
+

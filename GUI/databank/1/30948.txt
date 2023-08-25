@@ -1,23 +1,5 @@
-kilocalorie	@kilocalorie /'kilou,kæləri/
-*  danh từ
-- kilôcalo
-@Chuyên ngành kinh tế
--calori lớn
--kilocalo
--ngàn calori
-@Chuyên ngành kỹ thuật
--calo lớn
--kcal
--kilocalo
--kilôcalo
--kilôgam-calo
-@Lĩnh vực: điện lạnh
--kg-cal
-@Chuyên ngành kỹ thuật
--calo lớn
--kcal
--kilocalo
--kilôcalo
--kilôgam-calo
-@Lĩnh vực: điện lạnh
--kg-cal
+foreknew
+	
+*  ngoại động từ foreknew,  foreknown
+- biết trước
+

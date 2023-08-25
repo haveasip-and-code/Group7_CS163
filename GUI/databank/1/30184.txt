@@ -1,9 +1,27 @@
-italic	
-@italic /i'tælik/
+revetment
+	
 *  danh từ
-- (ngành in), ((thường) số nhiều) chữ ngả
+- lớp vữa (trát lên tường); lớp đá xây phủ ngoài (công sự, bờ đê...)
 @Chuyên ngành kỹ thuật
--chữ nghiêng
--kiểu chữ nghiêng
--nghiêng
--nghiêng (chữ)
+-áo
+-áo đường
+-lớp bảo vệ
+-lớp lát
+-lớp ốp
+-lớp ốp mặt
+-lớp ốp tường
+-lớp phủ ngoài
+-lớp phủ taluy
+-tấm bọc
+-tấm lát
+-tường chắn
+-tường chắn đất
+-tường đỡ
+-tường hồi
+-vỏ bọc
+@Lĩnh vực: xây dựng
+-lớp ốp (bờ)
+-lớp ốp mặt (nhà)
+-sự ốp tường
+-tường chắn đá
+

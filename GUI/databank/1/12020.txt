@@ -1,9 +1,8 @@
-correctness	
-@correctness /kə'rektnis/
-*  danh từ
-- sự đúng đắn, sự chính xác
+optimizer
+	
+* danh từ
+- người lạc quan hoá
 @Chuyên ngành kỹ thuật
--độ chính xác
--sự đúng đắn
-@Lĩnh vực: điện lạnh
--tính đúng đắn
+@Lĩnh vực: toán & tin
+-bộ tối ưu hóa
+

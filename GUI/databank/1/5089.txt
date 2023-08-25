@@ -1,9 +1,31 @@
-beet	
-@beet /bi:t/
+summary
+	
+*  tính từ
+- tóm tắt, sơ lược, giản lược
+=a summary account
++ báo cáo tóm tắt
+=summary method
++ phương pháp giản lược
+- được miễn những thủ tục không cần thiết, được bớt những chi tiết không cần thiết
 *  danh từ
-- (thực vật học) cây củ cải đường
+- bài tóm tắt
 @Chuyên ngành kinh tế
--củ cải đường
+-bản tóm tắt
+-bản tổng hợp
+-bản tổng kết
+-khái quát
+-ngắn gọn
+-sơ lược
+-sự khái lược
+-sự trích yếu
+-tóm tắt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--củ cải đường
+-bản tóm tắt
+-bảng tóm tắt
+@Lĩnh vực: xây dựng
+-bảng lược thuật
+-bảng tổng kết
+-tóm lược
+@Lĩnh vực: toán & tin
+-vắn tắt
+

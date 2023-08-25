@@ -1,6 +1,45 @@
-seismology	@seismology /saiz'mɔlədʤi/
-*  danh từ
-- địa chấn học
-@Chuyên ngành kỹ thuật
--địa chấn học
--môn địa chấn
+flow
+	
+- dòng, sự chảy, lưu lượng
+- diabatic f. dòng đoạn nhiệt
+- back f. dòng ngược
+- channel f. dòng chảy trong
+- circular f. dòng hình tròn
+- conical f. dòng hình nón
+- divergent f. dòng phân kỳ
+- energy f. dòng năng lượng
+- fliud f. dòng chất lỏng
+- free f. dòng tự do
+- gas f. dòng khí
+- geodesic f. (giải tích) dòng trắc địa
+- hypersonic f. dòng siêu âm
+- gadually varied f. dòng biến đổi dần
+- isentropic f. dòng đẳng entropi
+- jet f. dòng tia
+- laminar f. dòng thành lớp
+- logarithmic spiral f. dòng xoắn ốc lôga
+- mass f. dòng khối lượng
+- non
+-steady f. dòng không ổn định
+- ordinarry f. dòng thông thường
+- parallel f. dòng song song
+- plastic f. dòng dẻo
+- potential f. (cơ học) dòng thế
+- pressure f. dòng áp
+- rapid f. dòng nhanh
+- rapidly varied f. dòng biến nhanh
+- secondary f. dòng thứ cấp
+- shearing f. dòng sát, dòng trượt, dòng cắt
+- spiral f. dòng xoắn ốc
+- steady f. dòng ổn định
+- suberitical f. dòng trước tới hạn
+- subsonic f. dòng dưới âm tốc
+- superciritical f. dòng siêu tới hạn, dòng (mạnh) xiết
+- traffic f. dòng vận tải
+- tranqiul f. dòng yên lặng
+- turbulent f. dòng xoáy
+- uniform f. dòng đều
+- unsteady f. dòng không ổn định
+- variable f. dòng biến thiên
+- vortex f. (hình học) dòng rôta
+

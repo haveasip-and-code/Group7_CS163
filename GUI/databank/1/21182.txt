@@ -1,12 +1,9 @@
-fissionable	
-@fissionable /'fiʃnəbl/
+cordite
+	
 *  danh từ
-- (vật lý) có thể phân hạt nhân
+- cođit (thuốc nổ không khói)
 @Chuyên ngành kỹ thuật
--dễ phân hạch
-@Lĩnh vực: vật lý
--phân hạch được
-@Chuyên ngành kỹ thuật
--dễ phân hạch
-@Lĩnh vực: vật lý
--phân hạch được
+@Lĩnh vực: hóa học & vật liệu
+-thuốc nổ codit
+-thuốc nổ không khói
+

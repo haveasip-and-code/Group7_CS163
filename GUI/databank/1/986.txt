@@ -1,12 +1,31 @@
-aerator	
+deviation
+	
+*  danh từ
+- sự trệch, sự lệch, sự trệch hướng; (nghĩa bóng) sự sai đường, sự lạc đường, sự lạc lối, sự xa rời
+=leftist deviation
++ sự tả khuynh
+=rightist deviation
++ sự hữu khuynh
+- (toán học); (vật lý) độ lệch
+=angular deviation
++ độ lệch góc
 @Chuyên ngành kinh tế
--thiết bị nạp khí
+-đi lệch hướng
+-độ lệch
+-sự chệch đường tàu đi
+-thay đổi lộ trình (không đúng con đường hàng hải ngắn nhất)
 @Chuyên ngành kỹ thuật
--máy sục khí
--máy thông gió
--thiết bị thông gió
-@Lĩnh vực: xây dựng
--thiết bị nạp khí
--thiết bị sục khí
--thiết bị thổi khí
--thổi khí sơ bộ
+-độ lệch
+-độ lệch tần
+-độ nghiêng
+-độ sai lệch
+-độ trôi
+-lệch
+-sai số
+-sự lệch
+-sự lệch hướng
+-sự phân kỳ
+-sự phân tán
+@Lĩnh vực: y học
+-sự lệch, độ lệch
+

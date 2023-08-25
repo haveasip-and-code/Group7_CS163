@@ -1,12 +1,6 @@
-originator	@originator /ə'ridʤineitə/
-*  danh từ
-- người khởi đầu, người khởi thuỷ
-- người tạo thành, người sáng tạo
-@Chuyên ngành kinh tế
--người khởi phát
--người khởi thủy
-@Chuyên ngành kỹ thuật
--người khởi đầu
--người tạo
-@Lĩnh vực: toán & tin
--người truyền dữ liệu
+epitasis
+	
+* danh từ
+- số nhiều epitases
+- (sân khấu) đoạn kết của bi kịch
+

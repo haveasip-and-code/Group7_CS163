@@ -1,4 +1,29 @@
-irrefragability	
-@irrefragability /i,refrəgə'biliti/ (irrefragableness) /i'refrəgəblnis/
+aberration
+	
 *  danh từ
-- tính không thể bẻ bai được, tính không thể vặn lại được, tính không thể phủ nhận (người, lý lẽ...)
+- sự lầm lạc; phút lầm lạc
+- sự kém trí khôn, sự loạn trí
+- sự khác thường
+- (vật lý) quang sai
+=lateral aberration
++ quang sai ngang
+- (thiên văn học) tính sai
+=secular aberration
++ tính sai trường kỳ
+=annual aberration
++ tính sai hằng năm
+@Chuyên ngành kỹ thuật
+-độ lệch
+-sắc sai
+-sự biến hình
+-sự sai lệch
+-tinh sai
+@Lĩnh vực: y học
+-quang sai
+-sự sai hình
+-sự sai trệch
+@Lĩnh vực: xây dựng
+-sự méo hình
+@Lĩnh vực: điện tử & viễn thông
+-sự quang sai
+

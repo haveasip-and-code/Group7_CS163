@@ -1,3 +1,38 @@
-maintainability	@Chuyên ngành kỹ thuật
--khả năng duy trì
--khả năng phục hồi
+combine
+	
+*  danh từ
+- (thương nghiệp) côngbin,  xanhđica
+=a wheat combine
++ côngbin lúa mì
+- máy liên hợp, máy gặt đập ((cũng) combine harvester)
+*  động từ
+- kết hợp, phối hợp
+=to combine forces
++ phối hợp các lực lượng
+=combined operation
++ (quân sự) cuộc hành quân phối hợp
+- (hoá học) hoá hợp
+- (toán học) tổ hợp
+@Chuyên ngành kinh tế
+-cacten
+-côngbin
+-liên minh công nghiệp
+-nghiệp hội
+-phường
+-tơrơt
+-vạn
+-xanhđica
+@Chuyên ngành kỹ thuật
+-kết hợp
+-liên kết
+-nhà máy liên hợp
+-máy liên hợp
+-phối hợp
+-sự kết hợp
+-tổ hợp
+@Lĩnh vực: toán & tin
+-tổ hợp (chương trình)
+-tổ hợp lại
+@Lĩnh vực: xây dựng
+-xí nghiệp liên hợp
+

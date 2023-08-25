@@ -1,3 +1,54 @@
-southeaster	@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--gió đông nam
+elongation
+	
+*  danh từ
+- sự làm dài ra, sự kéo dài ra
+- phần dài ra
+- (vật lý) độ giãn dài
+- (thiên văn học) góc lìa, ly giác
+@Chuyên ngành kỹ thuật
+-độ căng
+-độ giãn
+-độ giãn dài
+-độ kéo căng
+-độ kéo dài
+-kéo dài
+-ly độ
+-ly giác
+-sự giãn
+-sự giãn dài
+-sự kéo dài
+-sự kéo giãn
+-ứng suất
+@Lĩnh vực: cơ khí & công trình
+-độ dãn dài
+-hệ số giãn
+-sự dãn dài
+@Lĩnh vực: điện lạnh
+-độ giãn (dài)
+-sự giãn (dài)
+@Lĩnh vực: điện tử & viễn thông
+-sự dãn
+@Chuyên ngành kỹ thuật
+-độ căng
+-độ giãn
+-độ giãn dài
+-độ kéo căng
+-độ kéo dài
+-kéo dài
+-ly độ
+-ly giác
+-sự giãn
+-sự giãn dài
+-sự kéo dài
+-sự kéo giãn
+-ứng suất
+@Lĩnh vực: cơ khí & công trình
+-độ dãn dài
+-hệ số giãn
+-sự dãn dài
+@Lĩnh vực: điện lạnh
+-độ giãn (dài)
+-sự giãn (dài)
+@Lĩnh vực: điện tử & viễn thông
+-sự dãn
+

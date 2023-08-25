@@ -1,4 +1,18 @@
-turnoff	@turnoff
-* danh từ
-- con đường rẽ ra từ con đường chính
-- người hay vật làm người ta chán ngấy
+desiccation
+	
+*  danh từ
+- sự làm khô, sự sấy khô
+@Chuyên ngành kinh tế
+-sự làm khô
+-sự làm mất nước
+-sự sấy
+@Chuyên ngành kỹ thuật
+-hút ẩm
+-làm khô
+-sự hút ẩm
+-sự hút nước
+-sự khử ẩm
+-sự khử nước
+-sự làm khô
+-sự sấy khô
+

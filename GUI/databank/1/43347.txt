@@ -1,7 +1,5 @@
-preprocess	@preprocess
-* danh từ
-- (kỹ thuật) tiền quá trình; tiền xử lý; xử lý trước
-@Chuyên ngành kỹ thuật
--xử lý trước
-@Lĩnh vực: toán & tin
--tiền xử lý
+foppery
+	
+*  danh từ
+- tính công tử bột, tính thích chưng diện
+

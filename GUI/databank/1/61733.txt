@@ -1,15 +1,6 @@
-vicious	@vicious /'viʃəs/
-*  tính từ
-- xấu xa, đồi bại
-=vicious practices+ những lề thói xấu xa
-=a vicious life+ cuộc sống đồi bại
-- xấu, ác
-=vicious rumor+ lời đồn ác
-- giữ (ngựa)
-- sai, không hợp cách, hỏng, có thiếu sót
-=a vicious style+ một lối viết văn sai sót
-=vicious pronunciation+ cách phát âm sai
-!vicious circle
-- (xem) circle
-@Chuyên ngành kỹ thuật
--xấu
+holdback
+	
+*  danh từ
+- sự cản trở, sự ngăn trở; điều trở ngại
+- (từ Mỹ,nghĩa Mỹ) cái chặn cửa (cho khỏi đóng lại)
+

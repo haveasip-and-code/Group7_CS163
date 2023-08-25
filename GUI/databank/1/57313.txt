@@ -1,22 +1,9 @@
-tram	@tram /træm/
-*  danh từ
-- sợi tơ (để dệt nhung, lụa)
-- sợi khổ (của nhung, lụa)
-*  danh từ
-- xe điện ((cũng) tram-car; (từ Mỹ,nghĩa Mỹ) streetcar)
-- đường xe điện
-- xe goòng (chở than...)
-*  động từ
-- đi xe điện
-- chở bằng goòng
-@Chuyên ngành kinh tế
--xe lôi
+interfacial
+	
+*  tính từ
+- xen giữa hai bề mặt
+- (thuộc) bề mặt chung (của hai vật...); (thuộc) mặt phân giới
+- chung (cho hai ngành học thuật...)
 @Chuyên ngành kỹ thuật
--đườn tàu điện
--đường tàu điện
--toa tàu điện
--xe điện
-@Lĩnh vực: xây dựng
--toa xe
-@Lĩnh vực: ô tô
--xe goòng (ở mỏ)
+-mặt phân giới
+

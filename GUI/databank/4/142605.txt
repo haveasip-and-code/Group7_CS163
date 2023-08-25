@@ -1,0 +1,3 @@
+burn in
+an occurance on CRTs that happens when an image is left on the screen for a long period of time. usually noted by said image remaining on the screen even after being powered off, as the image is permanently etched into the internal phosphor coating of the tube. Burn in usually occurs much faster on monochrome CRTs than on color CRTs as monochrome does not contain a shadow mask, thereby allowing the rays to directly strike the phosphor surface.
+

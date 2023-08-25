@@ -1,7 +1,5 @@
-seeding	@Chuyên ngành kỹ thuật
--sự gây mầm
--sự tạo mầm (phản ứng)
-@Lĩnh vực: xây dựng
--gieo hạt
-@Lĩnh vực: điện lạnh
--sự gieo mầm (kết tinh)
+epiphytic
+	
+*  tính từ
+- (sinh vật học) biểu sinh
+

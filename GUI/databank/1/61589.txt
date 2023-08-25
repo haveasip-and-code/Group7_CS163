@@ -1,14 +1,12 @@
-verse	@verse /və:s/
+pronoun
+	
 *  danh từ
-- câu thơ
-- thơ; bài thơ
-=written in verse+ viết thành thơ
-=free verse+ thơ tự do
-- đoạn thơ
-- (tôn giáo) tiết (trong kinh thánh); câu xướng (trong lúc hành lễ)
-!to give chapter and verse
-- (xem) chapter
-*  nội động từ
-- làm thơ
-*  ngoại động từ
-- diễn tả bằng thơ
+- (ngôn ngữ học) đại từ
+=personal pronoun
++ đại từ chỉ ngôi
+=impersonal pronoun
++ đại từ không ngôi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-đại danh từ
+

@@ -1,29 +1,24 @@
-lettering	@lettering /'letəriɳ/
+softener
+	
 *  danh từ
-- sự ghi chữ, sự in chữ, sự viết chữ, sự khắc chữ, chữ in, chữ viết, chữ khắc
-- sự viết thư
+- thuốc làm mềm, chất làm mềm
+- máy khử muối khoáng (của nước)
 @Chuyên ngành kinh tế
--chữ in
--chữ tiêu chuẩn
--chữ viết
--tiêu đề (quảng cáo)
+-bộ phận làm dịu
+-bộ phận làm mềm
+-chất hóa dẻo
+-chất làm dẻo
 @Chuyên ngành kỹ thuật
--kiểu chữ
--lời ghi chú
--tiêu đề
-@Lĩnh vực: toán & tin
--phông chữ
-@Lĩnh vực: cơ khí & công trình
--sự đóng số
--sự ghi chữ
--sự khắc chữ
-@Chuyên ngành kỹ thuật
--kiểu chữ
--lời ghi chú
--tiêu đề
-@Lĩnh vực: toán & tin
--phông chữ
-@Lĩnh vực: cơ khí & công trình
--sự đóng số
--sự ghi chữ
--sự khắc chữ
+@Lĩnh vực: hóa học & vật liệu
+-chất dẻo hóa
+-chất làm mềm nước
+-hóa chất làm mềm
+@Lĩnh vực: dệt may
+-chất làm mềm (nước)
+-tác nhân làm mềm (giặt)
+@Lĩnh vực: điện lạnh
+-chất mềm hóa
+@Lĩnh vực: xây dựng
+-thiết bị làm mềm
+-thuốc làm mềm
+

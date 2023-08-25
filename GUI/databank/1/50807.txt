@@ -1,14 +1,9 @@
-sin	@sin /sin/
+piezometer
+	
 *  danh từ
-- tội lỗi, tội ác; sự phạm (luân thường đạo lý, thẩm mỹ...)
-!it is no sin for a man to labour in his vocation
-- nghề gì cũng vinh quang
-!like sin
-- (từ lóng) kịch liệt, mãnh liệt
-*  động từ
-- phạm tội, mắc tội; gây tội
-- phạm đến, phạm vào
-!to be more sinned against than sinning
-- đáng thương hơn là đáng trách
-!to sin one's mercies
-- được phúc mà bạc bẽo vô ơn
+- cái đo áp suất
+@Chuyên ngành kỹ thuật
+-áp kế
+-nén kế
+-máy đo áp suất
+

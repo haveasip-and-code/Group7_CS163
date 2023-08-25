@@ -1,14 +1,18 @@
-sitting	@sitting /'sitiɳ/
-*  danh từ
-- sự ngồi; sự đặt ngồi
-- buổi họp
-- lần, lúc, lượt (ngồi)
-=room where 200 people can be served at a sitting+ phòng có thể phục vụ được 200 người một lần
-- sự ngồi làm mẫu vẽ; buổi ngồi làm mẫu vẽ
-- ghế dành riêng (trong nhà thờ)
-- ổ trứng, lứa trứng
-@Chuyên ngành kinh tế
--lượt ngồi
+seating
+	
+* danh từ
+- sự sắp xếp chỗ ngồi; chỗ để ngồi; ghế ngồi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--sự lựa chọn địa điểm (xây lò phản ứng)
+-bản đế
+-chân đế
+-gối tựa
+-mặt chuẩn
+-mặt tiếp xúc
+-mặt tựa
+-móng
+-sự thiết lập
+@Lĩnh vực: xây dựng
+-đệm neo
+-đóng neo
+-trong tầng hầm
+

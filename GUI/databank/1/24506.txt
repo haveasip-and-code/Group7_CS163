@@ -1,7 +1,12 @@
-guesstimate	
-@guesstimate
-* danh từ
-- sự ước tính theo cách vừa dự đoán vừa lập luận
-@Chuyên ngành kinh tế
--sự đánh giá ước lược
--tính phỏng đoán
+similarity
+	
+*  danh từ
+- sự giống nhau, sự tương tự
+- điểm giống nhau, điểm tương tự, nét giống nhau, nét tương tự
+- (toán học) sự đồng dạng
+@Chuyên ngành kỹ thuật
+-sự đồng dạng
+-sự tương tự
+@Lĩnh vực: điện lạnh
+-sự giống
+

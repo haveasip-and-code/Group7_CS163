@@ -1,10 +1,5 @@
-letterpress	@letterpress /'letəpres/
-*  danh từ
-- phần chữ (đối với phần tranh ảnh trong một cuốn sách)
-@Chuyên ngành kinh tế
--in tibô
--phương pháp in nổi
-@Chuyên ngành kỹ thuật
--sự in nổi
-@Chuyên ngành kỹ thuật
--sự in nổi
+gasman
+	
+* danh từ
+- người chuyên kiểm tra dụng cụ đo khí
+

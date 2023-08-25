@@ -1,8 +1,8 @@
-palaestra	@palaestra /pə'lestrə/ (palestra) /pə'lestrə/
-*  danh từ,  số nhiều palaestrae  /pə'lestri:/
-- trường dạy võ, nơi tập võ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--nhà dạy võ
--trường dạy võ
--võ đường
+noetic
+	
+*  tính từ
+- (thuộc) lý trí, (thuộc) tinh thần
+- trừu tượng
+*  danh từ,  số ít hoặc số nhiều
+- khoa lý trí (nghiên cứu lý trí con người)
+

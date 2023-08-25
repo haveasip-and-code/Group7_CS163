@@ -1,21 +1,11 @@
-status	@status /'steitəs/
+mainstay
+	
 *  danh từ
-- địa vị, thân phận, thân thế
-=official status+ địa vị chính thức
-=diplomatic status+ thân phận ngoại giao
-- (pháp lý) quân hệ pháp lý (giữa người này với những người khác)
-- tình trạng
+- (hàng hải) dây néo cột buồm chính
+- (nghĩa bóng) chỗ dựa chính, rường cột, trụ cột
 @Chuyên ngành kinh tế
--địa vị
--địa vị pháp lý
--địa vị xã hội (của một người)
--thân phận
--thân phận pháp lý
--tình hình
--tình hình, tình trạng
--tình trạng, địa vị pháp lý
-@Chuyên ngành kỹ thuật
--điều kiện
--tình trạng
-@Lĩnh vực: y học
--trạng thái, tình trạng
+-chỗ dựa chính
+-chỗ dựa chủ yếu
+-điểm tựa
+-rường cột
+

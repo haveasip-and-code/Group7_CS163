@@ -1,0 +1,3 @@
+Magic.Wand
+Originating on IRC in programming channels like #asp, #dotnet and #C#, the Magic.Wand is a mythical class library that fixes all of your problems for you. It is self compiling so there is no source code, the API is completely arbitrary and self determining based on your inability to explain what it is you need help with and your general lack of comprehension as to what it would take to accomplish said goals.
+

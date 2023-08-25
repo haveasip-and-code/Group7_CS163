@@ -1,9 +1,8 @@
-ephemerides	
-@ephemerides /i'feməris/
-*  danh từ,  số nhiều ephemerides
-- lịch thiên văn
-- (động vật học) con phù du
+psychometry
+	
+*  danh từ
+- khoa đo nghiệm tinh thần
 @Chuyên ngành kỹ thuật
--lịch sao
-@Chuyên ngành kỹ thuật
--lịch sao
+@Lĩnh vực: vật lý
+-đo độ ẩm
+

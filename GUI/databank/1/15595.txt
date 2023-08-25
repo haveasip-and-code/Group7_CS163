@@ -1,6 +1,31 @@
-disadvantaged	
-@disadvantaged
-* tính từ
-- thiệt thòi, thua thiệt
-* danh từ
-- người chịu thiệt thòi, người chịu thua thiệt
+primer
+	
+*  danh từ
+- sách vở lòng
+- ngòi nổ, kíp nổ
+- (ngành in) cỡ chữ
+=long primer
++ cỡ 10
+=great primer
++ cỡ 18
+@Chuyên ngành kỹ thuật
+-bộ phận mồi
+-bơm mồi khởi động (tàu vũ trụ)
+-dụng cụ phun xăng
+-kíp nổ
+-lớp sơn lót
+-nền
+-ngòi nổ
+-mồi nổ
+-sách hướng dẫn
+-sơn lót
+-van mở nhiên liệu
+@Lĩnh vực: điện tử & viễn thông
+-điện tích sơ cấp (máy đánh lửa)
+@Lĩnh vực: xây dựng
+-mình hình trụ
+-mồi lửa cho đạn
+-mồi lửa mìn
+@Lĩnh vực: toán & tin
+-sách nhập môn
+

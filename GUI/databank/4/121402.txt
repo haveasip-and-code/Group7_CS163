@@ -1,0 +1,3 @@
+loadqm
+A program automatically loaded into memory whenever windows is booted, but is unneccisary for operation of the system. Short for 'load quicktime manager'
+

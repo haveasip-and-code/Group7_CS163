@@ -1,18 +1,10 @@
-loam	@loam /loun/
-*  danh từ
-- đất nhiều mùm
-- đất sét trộn (để trét vách, để làm gạch)
+dulcet
+	
+*  tính từ
+- dịu dàng, êm ái, êm dịu (âm thanh)
+@Chuyên ngành kinh tế
+-dịu dàng
+-ngọt mát
 @Chuyên ngành kỹ thuật
--đất sét
--đất sét pha
--pha sét
--sét pha
-@Lĩnh vực: xây dựng
--đất á sét
-@Chuyên ngành kỹ thuật
--đất sét
--đất sét pha
--pha sét
--sét pha
-@Lĩnh vực: xây dựng
--đất á sét
+-êm dịu
+

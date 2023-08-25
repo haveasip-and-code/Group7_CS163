@@ -1,7 +1,8 @@
-eluent	
+teleprocessing
+	
+-xử lý thông tin từ xa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dung môi rửa giải hấp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dung môi rửa giải hấp
+@Lĩnh vực: toán & tin
+-sự viễn xử lý
+-xử lý từ xa
+

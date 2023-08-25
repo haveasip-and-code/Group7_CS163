@@ -1,13 +1,5 @@
-propulsion	@propulsion /propulsion/
-*  danh từ
-- sự đẩy đi, sự đẩy tới
-- (nghĩa bóng) sự thúc đẩy; sức thúc đẩy
-@Chuyên ngành kỹ thuật
--sự đẩy
--sự đẩy (chuyển động)
-@Lĩnh vực: điện lạnh
--sự chuyển động (bằng lực đẩy)
--sự đẩy (cho chuyển động)
-@Lĩnh vực: hóa học & vật liệu
--sự đẩy tới
--sự phóng đi
+mujahideen
+	
+*danh từ
+-  du kích quân Hồi giáo tham gia thánh chiến
+

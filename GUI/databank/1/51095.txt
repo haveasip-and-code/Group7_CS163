@@ -1,3 +1,67 @@
-slantways	@slantways /'slɑ:ntweiz/ (slantwise) /'slɑ:ntweiz/
-*  phó từ
-- nghiêng, xiên, chéo; xếch
+reference
+	
+*  danh từ
+- sự chuyển đến (một người, một tổ chức có thẩm quyền) để xem xét, sự giao cho giải quyết (một vấn đề gì); thẩm quyền giải quyết
+=outside the reference of the tribunal
++ ngoài phạm vi thẩm quyền của toà án
+- sự hỏi ý kiến
+=he acted without reference to me
++ anh ấy làm mà không hỏi ý kiến tôi
+- sự xem, sự tham khảo
+=to make reference to a dictionary
++ tham khảo từ điển
+=a book of reference
++ sách tham khảo
+=reference library
++ thư viện tra cứu (không cho mượn)
+- sự ám chỉ, sự nói đến, sự nhắc đến
+=to make reference to a fact
++ nhắc đến một sự việc gì
+- sự liên quan, sự quan hệ, sự dính dáng tới
+=in (with) reference to
++ về (vấn đề gì...); có liên quan tới
+=without reference to
++ không có liên quan gì đến; không kể gì
+- sự giới thiệu, sự chứng nhận (lý lịch, tư cách, công tác...); người giới thiệu, người chứng nhận (lý lịch, tư cách, công tác...)
+=to take up someone's references
++ tìm hiểu lý lịch (tư cách...) của ai
+=to have good references
++ có giấy giới thiệu tốt, có giấy chứng nhận tốt
+=to give someone as a reference
++ viện chứng ai; nhờ ai giới thiệu
+- dấu chỉ dẫn đoạn tham khảo (trong một cuốn sách)
+@Chuyên ngành kinh tế
+-chú dẫn tham chiếu
+-chứng chỉ
+-giấy chứng nhận
+-người chứng nhận
+-số tham chiếu
+-sự hỏi ý kiến
+-sự tham khảo
+-tham khảo
+@Chuyên ngành kỹ thuật
+-dấu quy chiếu
+-điểm chuẩn
+-điểm quy chiếu
+-mẫu
+-mốc
+-sự quy chiếu
+-sự tham chiếu
+-sự tham khảo
+-sự xem
+-tham chiếu
+-tham khảo
+-trích dẫn
+-truy cập
+-truy xuất
+@Lĩnh vực: xây dựng
+-có tính chuẩn
+@Lĩnh vực: hóa học & vật liệu
+-làm mốc
+@Lĩnh vực: đo lường & điều khiển
+-mốc qui chiếu
+@Lĩnh vực: điện
+-sự qui chiếu
+@Lĩnh vực: điện lạnh
+-vật quy chiếu
+

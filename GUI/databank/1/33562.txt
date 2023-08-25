@@ -1,19 +1,57 @@
-manipulator	@manipulator /mə'nipjuleitə/
+access
+	
 *  danh từ
-- người vận dụng bằng tay, người thao tác
-- người lôi kéo, người vận động (bằng mánh khoé)
-- (kỹ thuật) bộ đảo phôi; tay máy; manip
+- lối vào, cửa vào, đường vào
+- sự đến gần, sự cho vào, sự lui tới; quyền đến gần, quyền lui tới
+=easy of access
++ dễ đến gần, dễ lui tới
+=difficult of access
++ khó đến gần, khó lui tới
+=to have access to somebody
++ được gần gũi ai, được lui tới nhà ai
+- sự dâng lên (nước triều)
+=the access and recess of the sea
++ lúc triều lên và triều xuống ở biển
+- cơn
+=access of anger
++ cơn giận
+=access of illness
++ cơn bệnh
+- sự thêm vào, sự tăng lên
+=access of wealth
++ sự giàu có thêm lên
 @Chuyên ngành kinh tế
--người thao túng (thị trường chứng khoán)
+-lối đến
+-sự thâm nhập
+-tiếp cận
 @Chuyên ngành kỹ thuật
--máy đảo liệu
--máy điều khiển
--máy lật
--tay lái
+-cổng vào
+-dữ liệu
+-đường dẫn
+-đường nhánh
+-đường vào
+-lối đi
+-lối vào
+-tiếp cận
+-truy cập
+-truy nhập
+-truy xuất
+@Lĩnh vực: ô tô
+-cách đạt được
+-sự tiến đến
 @Lĩnh vực: toán & tin
--cái manip
--tay máy, manip
-@Lĩnh vực: điện lạnh
--dụng cụ điều khiển
+-lối vào nhận tin
+-sự cho vào
+-sự truy cập
+-sự truy nhập
+-truy đạt
+@Lĩnh vực: xây dựng
+-lối vào, sự truy nhập
+-sự dâng lên (triều)
+-sự tiếp cận
+-sự vào được
+@Lĩnh vực: giao thông & vận tải
+-sự dâng thủy triều
 @Lĩnh vực: cơ khí & công trình
--máy đảo phôi
+-sự đến gần
+

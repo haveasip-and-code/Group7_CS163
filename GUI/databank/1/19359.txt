@@ -1,10 +1,7 @@
-evade	
-@evade /i'veid/
-*  ngoại động từ
-- tránh, tránh khỏi (sự tấn công, sự lùng bắt, âm mưu, đòn, địch, vật chướng ngại...)
-- lảng tránh, lẩn tránh (nhiệm vụ, câu hỏi...); lẩn trốn (pháp luật, thuế má...)
-- vượt quá (sự hiểu biết...)
-@Chuyên ngành kỹ thuật
--lẩn tránh
-@Chuyên ngành kỹ thuật
--lẩn tránh
+sciatic
+	
+*  tính từ
+- (giải phẫu) (thuộc) hông
+=sciatic nerve
++ dây thần kinh hông
+

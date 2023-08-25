@@ -1,22 +1,4 @@
-bred	
-@bred /bri:d/
-*  danh từ
-- nòi, giống
-- dòng dõi
-*  (bất qui tắc) ngoại động từ bred/bred/
-- gây giống; chăn nuôi=to breed horses
-+ gây giống ngựa, chăn nuôi ngựa
-- nuôi dưỡng, chăm sóc; dạy dỗ; giáo dục=to be bread [to be] a doctor
-+ được nuôi ăn học thành bác sĩ
-- gây ra, phát sinh ra=dirt breeds diseases
-+ bụi bặm làm phát sinh ra bệnh tật
-*  (bất qui tắc) nội động từ bred/bred/
-- sinh sản, sinh đẻ=birds breed in spring
-+ chim sinh sản vào mùa xuân
-- náy ra, phát sinh ra; lan tràn=dissensions breed among them
-+ giữa họ đã nảy ra những mối bất hoà
-- chăn nuôi!to breed in and in
-- dựng vợ gả chồng trong họ hàng gần với nhau!to breed out and out
-- lấy vợ lấy chồng người ngoài họ!too much familiarity breeds contempt
-- (xem) contempt!what is bred in the bone will not go (come) out of the flesh
-- (xem) bone
+factorable
+	
+- phân tích được (thành nhân tử)
+

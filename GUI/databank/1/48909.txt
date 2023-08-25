@@ -1,11 +1,5 @@
-scalping	@scalping
-* danh từ
-- (ngành mỏ) sự sàng thô
-@Chuyên ngành kinh tế
--cấu tử lớn không lọt sàn
--sự phân loại sản phẩm nghiền
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự làm sạch (thép cán)
-@Lĩnh vực: xây dựng
--sự sàng sơ bộ
+dendrochronological
+	
+* tính từ
+- thuộc khoa tính thời gian bằng các vòng trong cây
+

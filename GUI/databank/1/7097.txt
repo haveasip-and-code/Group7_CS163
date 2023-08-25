@@ -1,3 +1,7 @@
-bulletproof	
-@bulletproof
-- Khả năng chống các can nhiễu từ bên ngoài, tự phục hồi lại từ các tình trạng sẽ dẫn đến đổ vỡ không tránh khỏi đối với các chương trình khác
+unbacked
+	
+*  tính từ
+- không có chỗ dựa; không có nơi nương tựa; không được giúp đỡ, không có người ủng hộ
+- (thể dục,thể thao) không được ai đánh cá (ngựa đua)
+- chưa tập thuần (ngựa)
+

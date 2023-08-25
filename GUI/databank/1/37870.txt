@@ -1,5 +1,7 @@
-ontology	@ontology /ɔn'tɔlədʤi/
-*  danh từ
-- (triết học) bản thể học
+methodological
+	
+- (logic học) (thuộc) phương pháp luận
 @Chuyên ngành kỹ thuật
--bản thể luận
+@Lĩnh vực: toán & tin
+-phương pháp luận
+

@@ -1,16 +1,20 @@
-triplex	@triplex /'tripleks/
-*  tính từ
-- gấp ba
-- triplex glass kính triplêch, kính ba lớp (dùng ở xe ô tô...)
+polygon
+	
 *  danh từ
-- (âm nhạc) nhịp ba
+- (toán học) hình nhiều cạnh, đa giác
+!polygon of forces
+- đa giác lực
 @Chuyên ngành kỹ thuật
--gấp ba
-@Lĩnh vực: toán & tin
--có 3 xi lanh
+-đa giác
+-đường sườn
+-đường truyền
 @Lĩnh vực: xây dựng
--có ba xi lanh
--thủy tinh triplec
+-bãi đúc cấu kiện
+-đường chuyền
+-đường chuyền đa giác
+-hình đa giác
 @Lĩnh vực: điện lạnh
--kính ba lớp
--tam cổng
+-hình nhiều cạnh
+@Lĩnh vực: toán & tin
+-vùng
+

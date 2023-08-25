@@ -1,43 +1,54 @@
-lump	@lump /lʌmp/
+extract
+	
+- iks'trækt/
+- iks'trækt/
 *  danh từ
-- cục, tảng, miếng
-=a lump of sugar+ một cục đường
-=a lump of clay+ một cục đất sét
-=lump sugar+ đường miếng
-- cái bướu, chỗ sưng u lên, chỗ u lồi lên
-=a bad lump on the forehead+ u ở trán
-- cả mớ, toàn bộ, toàn thể
-=in the lump+ tính cả mớ, tính tất cả
-=a lump sum+ số tiền tính gộp cả lại; tiền mặt trả gọn
-- người đần độn, người chậm chạp
-!to be a lump of selfishness
-- đại ích kỷ
-!to feel (have) a lump in one's throat
-- cảm thấy cổ họng như nghẹn tắc lại
+- đoạn trích
+- (hoá học) phần chiết
+- (dược học) cao
 *  ngoại động từ
-- xếp lại thành đống, thu gọn lại thành đống; gộp lại
-- coi như cá mè một lứa, cho là một giuộc
-*  nội động từ
-- đóng cục lại, vón lại, kết thành tảng
-*  nội động từ
-- (+ along) kéo lê, lết đi
-- (+ down) ngồi phệt xuống
-*  ngoại động từ
-- chịu đựng; ngậm đắng nuốt cay
-=if you don't like it you will have to lump it+ nếu anh không thích cái đó thì anh cũng phải chịu đựng vậy thôi; thích hay không thích thì anh cùng phải nhận thôi
+- trích (sách); chép (trong đoạn sách)
+- nhổ (răng...)
+- bòn rút, moi
+- hút, bóp, nặn
+- rút ra (nguyên tắc, sự thích thú)
+- (toán học) khai (căn)
+- (hoá học) chiết
 @Chuyên ngành kinh tế
--cục
--miếng
--người gia công thầu lại
--tảng
--tạo thành tảng
--tàu chở gỗ
+-phần chiết
+-sự tách ra
 @Chuyên ngành kỹ thuật
--khối
--khối chung
--lấy chung
--miếng
--tập trung
--thu thập
-@Lĩnh vực: xây dựng
--làm thành khối
+-chiết ra
+-hút ra
+-khai căn
+-ngâm chiết
+-phần chiết
+-rút
+-sự chiết
+-sự tách
+-tách ra
+@Lĩnh vực: hóa học & vật liệu
+-chất chiết ra
+-chất trích ly
+@Lĩnh vực: y học
+-chiết xuất
+@Lĩnh vực: toán & tin
+-khai (căn)
+@Chuyên ngành kỹ thuật
+-chiết ra
+-hút ra
+-khai căn
+-ngâm chiết
+-phần chiết
+-rút
+-sự chiết
+-sự tách
+-tách ra
+@Lĩnh vực: hóa học & vật liệu
+-chất chiết ra
+-chất trích ly
+@Lĩnh vực: y học
+-chiết xuất
+@Lĩnh vực: toán & tin
+-khai (căn)
+

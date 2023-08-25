@@ -1,7 +1,57 @@
-denominator	
-@denominator /di'nɔmineitə/
+division
+	
 *  danh từ
-- (toán học) mẫu số; mẫu thức
+- sự chia; sự phân chia
+=division of labour
++ sự phân chia lao động
+- (toán học) phép chia
+- sự chia rẽ, sự ly gián; sự bất hoà, sự phân tranh
+=to cause a division between...
++ gây chia rẽ giữa...
+- lôgic sự phân loại, sự sắp loại, sự phân nghĩa
+- sự chia làm hai phe để biểu quyết (ở quốc hội, nghị viện...)
+=to come to a division
++ đi đến chỗ chia làm hai phe để biểu quyết
+=to carry a division
++ chiếm đa số biểu quyết
+=without a division
++ nhất trí (không cần đưa ra biểu quyết)
+=to challenge a division
++ đòi đưa ra biểu quyết
+- phân khu, khu vực (hành chính)
+- đường phân chia, ranh giới; vách ngăn
+- phần đoạn; (sinh vật học) nhóm
+- (quân sự) sư đoàn
+=parachute division
++ sư đoàn nhảy dù
+- (pháp lý) chế độ nhà tù (do quan toà quy định)
+= 1st (2nd, 3rd) division
++ chế độ nhẹ (trung bình, nặng) (ở nhà tù)
+@Chuyên ngành kinh tế
+-bộ môn
+-bộ phận
+-khu vực
+-phòng ban
+-sự phân chia
 @Chuyên ngành kỹ thuật
--mẫu số
--mẫu thức
+-đường ranh giới
+-khu
+-phân chia
+-phân khu
+-sự chia
+-sự chia ra
+-sự ngăn
+-sự phân
+-sự phân chia
+-sự phân đoạn
+-thi công
+-vạch chia độ
+@Lĩnh vực: điện lạnh
+-khoảng chia
+-phép chia
+-vạch chia
+@Lĩnh vực: xây dựng
+-toán chia
+@Lĩnh vực: điện
+-vạch đo
+

@@ -1,12 +1,18 @@
-metallurgy	@metallurgy /me'tælədʤi/
+excavator
+	
 *  danh từ
-- sự luyện kim; nghề luyện kim
-- môn luyện kim
-@Chuyên ngành kinh tế
--khoa luyện kim
--nghề luyện kim
--sự luyện kim
+- người đào; người khai quật
+- máy đào; máy xúc
 @Chuyên ngành kỹ thuật
--luyện kim
--luyện kim học
--ngành luyện kim
+-dụng cụ nạo
+-người khai đào
+-máy đào
+-máy đào đất
+-máy xúc
+@Chuyên ngành kỹ thuật
+-dụng cụ nạo
+-người khai đào
+-máy đào
+-máy đào đất
+-máy xúc
+

@@ -1,9 +1,31 @@
-karat	
-@karat
-* danh từ
-- (từ Mỹ, nghĩa Mỹ) carat đơn vị tính tuổi vàng
+sensitive
+	
+*  tính từ
+- có cảm giác; (thuộc) cảm giác
+- dễ cảm, dễ cảm động, dễ cảm xúc; nhạy cảm
+=sensitive to cold
++ dễ bị lạnh, yếu chịu lạnh
+- nhạy
+=sensitive scales
++ cân nhạy
+=sensitive paper
++ giấy (ảnh) bắt nhạy
+=a sensitive ear
++ tai thính
+=sensitive market
++ thị trường dễ lên xuống bất thường
+*  danh từ
+- người dễ bị thôi miên
 @Chuyên ngành kinh tế
--cara (đơn vị tuổi vàng)
+-dễ cảm ứng
+-nhạy cảm
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--carat
+-chính xác
+-nhạy
+-nhạy cảm
+@Lĩnh vực: toán & tin
+-có cảm giác
+-có phân biệt
+@Lĩnh vực: cơ khí & công trình
+-được chạy dao bằng tay (máy công cụ)
+

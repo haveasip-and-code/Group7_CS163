@@ -1,10 +1,22 @@
-inspissation	
-@inspissation /,inspi'seiʃn/
-*  danh từ
-- sự làm dày, sự làm đặc, sự cô lại
+volatile
+	
+*  tính từ
+- (hoá học) dễ bay hơi
+=volatile substance
++ chất dễ bay hơi
+- không kiên định, hay thay đổi; nhẹ dạ
+=of a volatile character
++ có tính nhẹ dạ
+- vui vẻ, hoạt bát
 @Chuyên ngành kinh tế
--sự làm đặc lại
--sự làm dày lại
+-bất ổn định
+-dễ biến động nhanh
 @Chuyên ngành kỹ thuật
--sự cô đặc
--sự ngưng kết
+-bay hơi
+-chất bốc
+-dễ bay hơi
+-dễ thay đổi
+-khả biến
+@Lĩnh vực: toán & tin
+-thay đổi được
+

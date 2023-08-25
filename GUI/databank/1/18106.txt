@@ -1,12 +1,5 @@
-encapsulate	
-@encapsulate
-* động từ
-- tóm lược, gói gọn
-@Chuyên ngành kỹ thuật
--đóng bao
--đóng gói
--đóng kín
-@Chuyên ngành kỹ thuật
--đóng bao
--đóng gói
--đóng kín
+shill
+	
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cò mồi
+

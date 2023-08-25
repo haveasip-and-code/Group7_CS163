@@ -1,19 +1,4 @@
-dose	
-@dose /dous/
-*  danh từ
-- liều lượng, liều thuốc=lethal dose
-+ liều làm chết=a dose of quinine
-+ một liều quinin=a dose of the stick
-+ (từ lóng) trận đòn, trận roi
-*  ngoại động từ
-- cho uống thuốc theo liều lượng
-- trộn lẫn (rượu vang với rượu mạnh...)
-@Chuyên ngành kinh tế
--cho uống thuốc
--liều
--liều lượng
--liều thuốc
-@Chuyên ngành kỹ thuật
--định lượng
--liều (lượng)
--liều lượng
+cumulativeness
+	
+- xem cumulative
+

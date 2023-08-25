@@ -1,5 +1,33 @@
-diseased	
-@diseased /di'zi:zd/
+radiant
+	
 *  tính từ
-- mắc bệnh, đau ốm
-- (nghĩa bóng) không khoẻ mạnh, bệnh hoạn, đồi bại, hư
+- sáng chói, sáng rực; nắng chói
+=the radiant sun
++ mặt trời sáng chói
+- toả sáng, toả nhiệt, phát sáng, phát xạ, bức xạ
+=radiant heat
++ nhiệt bức xạ
+- lộng lẫy, rực rỡ
+=radiant beauty
++ vẻ đẹp lộng lẫy
+- rạng rỡ, sáng ngời, hớn hở
+=radiant eyes
++ mắt sáng ngời
+=face radiant with smiles
++ nét mặt tươi cười rạng rỡ
+- (thực vật học) toả ra
+*  danh từ
+- (vật lý) điểm phát
+=shower radiant
++ điểm phát mưa
+@Chuyên ngành kỹ thuật
+-bức xạ
+-nguồn bức xạ
+-phát xạ
+@Lĩnh vực: điện lạnh
+-điểm phát (tia)
+-tỏa sáng
+@Lĩnh vực: xây dựng
+-ngời sáng
+-sáng rực
+

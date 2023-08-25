@@ -1,10 +1,4 @@
-gauss	
-@gauss /gaus/
-*  danh từ
-- (vật lý) Gaoxơ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--gaoxơ
--gauss
-@Lĩnh vực: điện lạnh
--gauxơ
+cordately
+	
+- xem cordate
+

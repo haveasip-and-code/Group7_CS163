@@ -1,18 +1,4 @@
-multiplication	@multiplication /,mʌltipli'keiʃn/
-*  danh từ
-- sự nhân
-- (toán học) tính nhân
-@Chuyên ngành kinh tế
--sự nhân lên
--sự tăng bội
--tăng bội
-@Chuyên ngành kỹ thuật
--sự khuếch đại
--sự nhân
--sự nhân lên
-@Lĩnh vực: điện lạnh
--phép nhân
-@Lĩnh vực: toán & tin
--tính nhân
-@Lĩnh vực: xây dựng
--toán nhân
+decidable
+	
+- xem decide
+

@@ -1,0 +1,3 @@
+domino whist
+A game of cards in which the suits are played in sequence, beginning with a 5 or 9, the player who gets rid of his cards first being the winner.
+

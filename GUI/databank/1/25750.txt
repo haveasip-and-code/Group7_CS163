@@ -1,7 +1,38 @@
-highest	
-@highest
-- cao nhất; lớn nhất
-@Chuyên ngành kỹ thuật
--lớn nhất
-@Lĩnh vực: toán & tin
--cao nhất
+knight
+	
+*  danh từ
+- hiệp sĩ (thời trung cổ ở Châu âu)
+- người được phong tước hầu (ở Anh)
+- (sử học), (Anh) đại biểu (của một) hạt (ở nghị viện) ((cũng) knight of the shire)
+- kỵ sĩ (trong quân đội cổ La mã)
+- (đánh cờ) quân cờ "ddầu ngựa"
+!knight bachelor
+- hiệp sĩ thường (chưa được phong tước)
+!knight commander
+- hiệp sĩ đã được phong tước
+!knight of the brush
+-(đùa cợt) hoạ sĩ
+!knight of the cleaver
+-(đùa cợt) người bán thịt
+!knight of the fortune
+- kẻ phiêu lưu, kẻ mạo hiểm
+!knight of industry
+- tay đại bợm
+!knight of the knife
+- (từ cổ,nghĩa cổ), (đùa cợt) kẻ cắp
+!knight of the needle (shears, thimble)
+- (từ cổ,nghĩa cổ), (đùa cợt) thợ may
+!knight of the pencil (pen, quill)
+-(đùa cợt) nhà văn; nhà báo
+!knight of the pestle
+- (từ cổ,nghĩa cổ) nhà bào chế, dược sĩ
+!knight of the post
+- người sống bằng nghề làm nhân chứng láo
+!knight of the road
+- người đi chào hàng
+- kẻ cướp đường
+!knight of the whip
+-(đùa cợt) người đánh xe ngựa
+*  ngoại động từ
+- phong tước hầu (ở Anh)
+

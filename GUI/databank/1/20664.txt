@@ -1,6 +1,5 @@
-feigned	
-@feigned /feind/
-*  tính từ
-- giả vờ, giả đò
-- bịa, bịa đặt
-- giả, giả mạo
+unrip
+	
+*  ngoại động từ
+- xé toạc ra, xé rời ra
+

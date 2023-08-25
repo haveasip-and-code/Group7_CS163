@@ -1,14 +1,7 @@
-localized	@localized
-- được định xứ
-@Chuyên ngành kỹ thuật
--định xứ
--tập trung
-@Lĩnh vực: toán & tin
--được định vị
--được định xứ
-@Chuyên ngành kỹ thuật
--định xứ
--tập trung
-@Lĩnh vực: toán & tin
--được định vị
--được định xứ
+struggling
+	
+*  tính từ
+- vật lộn, đấu tranh, sống chật vật
+=a struggling artist
++ một nghệ sĩ sống chật vật
+

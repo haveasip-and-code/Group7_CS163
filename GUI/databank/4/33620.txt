@@ -1,0 +1,3 @@
+schnufti
+A pillow-like object that is meant for putting children to sleep.
+

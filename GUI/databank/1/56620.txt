@@ -1,3 +1,4 @@
-thyratron	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--đèn thyratron
+eventless
+	
+- xem event
+

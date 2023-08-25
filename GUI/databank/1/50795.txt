@@ -1,5 +1,14 @@
-simulacra	@simulacra /,simju'leikrəm/
-*  danh từ,  số nhiều simulacra
-- hình bóng, hình ảnh
-- vật thay thế giả tạo
-- sự vờ vịt
+hostel
+	
+*  danh từ
+- nhà ký túc (của học sinh)
+- nhà tập thể (cho công nhân)
+- cũ nhà trọ
+@Chuyên ngành kinh tế
+-nhà trọ
+@Chuyên ngành kỹ thuật
+-nhà tập thể
+-nhà trọ
+@Lĩnh vực: xây dựng
+-ký túc xá
+

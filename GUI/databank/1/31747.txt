@@ -1,18 +1,39 @@
-league	@league /li:g/
+batten
+	
 *  danh từ
-- dặm, lý (đơn vị chiều dài, quãng 4 km)
-=land (statude) league+ dặm
-=marine league+ dặm biển, hải lý
-*  danh từ
-- đồng minh, liên minh; hội liên đoàn
-=League of National+ hội quốc liên
-=football league+ liên đoàn bóng đá
-=to be in league with+ liên minh với, liên kết với, câu kết với
-*  động từ
-- liên hiệp lại, liên minh, câu kết
+- ván lót (tường, sàn, trần)
+- thanh gỗ giữ ván cửa
+*  ngoại động từ
+- lót ván
+*  nội động từ
+- ăn cho béo, ăn phàm
+- béo phị ra
 @Chuyên ngành kỹ thuật
+-chiếu cách (âm nhiệt)
+-đường chỉ
+-đường gờ
+-ốp ván
+-tấm ván
+-thanh
+-thanh nẹp
+-ván dày
+-ván lát
+-ván lót
+-ván ốp
 @Lĩnh vực: xây dựng
--liên đoàn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--liên đoàn
+-bắc rui mè, ván lót
+-cái nẹp đai
+-đặt đòn tay
+-đệm cách (âm nhiệt)
+-dựng đứng
+-nẹp, thanh nẹp, ván lót sàn
+-ốp thanh nẹp
+-tấm bản
+-thanh chèn khe
+-thanh phủ khe
+-thước dẹp
+@Lĩnh vực: giao thông & vận tải
+-tấm ván lót
+@Lĩnh vực: cơ khí & công trình
+-ván (lót)
+

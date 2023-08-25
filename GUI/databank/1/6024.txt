@@ -1,12 +1,7 @@
-blowhole	
-@blowhole /'blouhoul/
-*  danh từ
-- lỗ phun nước (cá voi)
-- ống thông hơi (đường hầm)
-- bọt (thuỷ tinh); chỗ rỗ (kim loại)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--chỗ rỗ (kim loại)
-@Lĩnh vực: xây dựng
--rỗ hơi bên trong
--rỗ hơi kín
+osmole
+	
+@Lĩnh vực: y học
+-đơn vị áp suất thẩm thấu
+@Lĩnh vực: hóa học & vật liệu
+-osmon
+

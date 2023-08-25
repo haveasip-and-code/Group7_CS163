@@ -1,6 +1,6 @@
-promisor	@promisor /promisor/
-*  danh từ
-- người hứa, người hứa hẹn
-@Chuyên ngành kinh tế
--người đi ra lời hứa
--người đưa ra lời hứa
+determinable
+	
+*  tính từ
+- có thể xác định, có thể định rõ
+- có thể quyết định
+

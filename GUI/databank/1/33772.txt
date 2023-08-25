@@ -1,6 +1,9 @@
-marshmallow	@marshmallow
-* danh từ
-- kẹo dẻo
-- (thực vật học) thục quỳ
+ecosystem
+	
+- hệ sinh thái
 @Chuyên ngành kinh tế
--giống thục quỳ
+-hệ sinh thái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-hệ sinh thái
+

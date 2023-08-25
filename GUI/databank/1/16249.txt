@@ -1,8 +1,5 @@
-divergence	
-@divergence
-- sự phân kỳ; tính phân kỳ
-- d. of a series (giải tích) phân kỳ một chuỗi
-- d. of a tensor tính phân kỳ của một tenxơ
-- d. of a vector function tính phân kỳ của một hàm vectơ
-- average d. sự phân kỳ trung bình
-- uniform d. sự phân kỳ đều
+movableness
+	
+*  danh từ
+- tính di động, tính có thể di chuyển
+

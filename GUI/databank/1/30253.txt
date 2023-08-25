@@ -1,3 +1,22 @@
-jadedness	
-@jadedness
-- xem jaded
+resource
+	
+*  danh từ
+- phương sách, phương kế, thủ đoạn, cách xoay xở; chỗ trông mong vào (khi gặp thế bí)
+=to be at the end of one's resources
++ hết kế, vô phương, không còn trông mong (xoay xở) vào đâu được
+- (số nhiều) tài nguyên
+=a country with abundant natural resources
++ một nước tài nguyên phong phú
+- (số nhiều) tiềm lực kinh tế và quân sự (của một nước)
+- sự giải trí, sự tiêu khiển
+=reading is a great resource
++ đọc sách là một sự tiêu khiển rất tốt
+- tài xoay sở, tài tháo vát, tài vặt
+=a man of resource
++ người tháo vát, người có tài xoay xở
+@Chuyên ngành kỹ thuật
+-nguồn dự trữ
+-nguồn, tài nguyên
+@Lĩnh vực: toán & tin
+-nguồn tài nguyên
+

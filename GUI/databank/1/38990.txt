@@ -1,7 +1,19 @@
-oversubscribe	@oversubscribe /'ouvəsəb'skraib/
-*  ngoại động từ,  (thường) động tính từ quá khứ
-- đóng góp quá mức cho (một cuộc quyên tiền...); mua vượt mức (công trái...)
+defer
+	
+*  động từ
+- hoãn, trì hoãn, để chậm lại
+=to defer a payment
++ hoãn trả tiền
+=defer redpay
++ (quân sự) phần lương giữ lại đến khi chết hay phục viên
+- (từ Mỹ,nghĩa Mỹ) hoãn quân địch
+*  nội động từ
+- theo, chiều theo, làm theo
+=to defer to someone's wish
++ làm theo ý muốn của ai
+=to defer to someone's opinion
++ chiều theo ý kiến của ai
 @Chuyên ngành kinh tế
--đăng ký phát hành nhiều hơn số cổ phần hiện có
--đặt mua vượt mức (cổ phiếu, trái khoán)
--nhận mua quá nhiều
+-hoãn lại
+-trì hoãn
+

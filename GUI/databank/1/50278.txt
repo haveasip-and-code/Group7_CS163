@@ -1,43 +1,8 @@
-sheeting	@sheeting /'ʃi:tiɳ/
-*  danh từ
-- vải làm khăn trải giường
-- tấm để phủ mặt; tấm để lót
-=copper sheeting+ tấm đồng để phủ mặt; tấm đồng để lót
-- sự dàn thành lá, sự dàn thành tấm
-@Chuyên ngành kỹ thuật
--cọc ván
--cốp-pha
--cột chống
--hàng ván cừ
--hào
--khung chống
--lớp bọc
--lớp mặt đường
--sự bọc
--sự đóng cừ ván
--sự ốp mặt
--sự phân lớp
--sự phủ
--tấm
--tấm lát
--tấm lót
--tôn
--ván khuôn
--vật liệu phủ
--vì chống
--vỏ bọc
-@Lĩnh vực: toán & tin
--bằng ván cừ
--sự lợp mái
-@Lĩnh vực: xây dựng
--gỗ bọc
--lớp phủ đường
--sự đóng hàng
--sự lợp ván
--tấm bọc lót
--ván ốp hầm
--vật liệu trát
-@Lĩnh vực: cơ khí & công trình
--tôn bọc
-@Lĩnh vực: dệt may
--vải khổ rộng
+albuminous
+	
+*  tính từ
+- (thuộc) anbumin; có anbumin
+@Chuyên ngành kinh tế
+-có anbumin
+-thuộc anbumin
+

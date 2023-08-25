@@ -1,5 +1,9 @@
-telecommute	@Chuyên ngành kinh tế
--làm việc từ xa
--từ nhà
-@Chuyên ngành kỹ thuật
--làm việc từ xa
+researcher
+	
+*  danh từ
+- nhà nghiên cứu
+@Chuyên ngành kinh tế
+-người điều nghiên
+-người điều tra nghiên cứu
+-nhà nghiên cứu
+

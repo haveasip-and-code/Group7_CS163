@@ -1,27 +1,5 @@
-voice	@voice /vɔis/
-*  danh từ
-- tiếng, tiếng nói, giọng nói ((nghĩa đen) & (nghĩa bóng))
-=in a loud voice+ nói to
-=in a low voice+ nói khẽ
-=a sweet voice+ giọng êm ái
-=to lift up one's voice+ lên tiếng, cất tiếng nói
-=to raise one's voice+ cất cao tiếng, nói to lên
-=the voice of conscience+ tiếng nói (gọi) của lương tâm
-- ý kiến; lời, lời nói; sự bày tỏ, sự phát biểu
-=to have a voice in the matter+ có tiếng nói về vấn đề đó
-=with one voice+ đồng thanh, nhất trí
-=to listen to the voice of a friend+ nghe lời bạn
-- (ngôn ngữ học) âm kêu
-- (ngôn ngữ học) dạng
-=passive voice+ dạng bị động
-*  ngoại động từ
-- bày tỏ, nói lên
-=to voice the feelings of the crowd+ nói lên cảm nghĩ của quần chúng
-- (ngôn ngữ học) phát thành âm kêu
-=to voice a consonant+ phát một phụ âm thành âm kêu
-@Chuyên ngành kỹ thuật
--âm thanh
--tiếng
-@Lĩnh vực: toán & tin
--giọng nói
--tiếng nói, âm thanh
+moveless
+	
+* tính từ
+- bất động, cứng đờ, chết cứng
+

@@ -1,11 +1,5 @@
-sanitation	@sanitation /,sæni'teiʃn/
-*  danh từ
-- sự cải thiện điều kiện vệ sinh
-@Chuyên ngành kinh tế
--sự hợp vệ sinh
--sự rửa và sát trùng
--sự tẩy uế
-@Chuyên ngành kỹ thuật
--vệ sinh
-@Lĩnh vực: xây dựng
--hệ thống vệ sinh
+miasmata
+	
+*  danh từ,  số nhiều miasmata  /mi'æzmətə/,  miasmas  /mi'æzməz/
+- khí độc, chướng khí, âm khí
+

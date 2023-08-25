@@ -1,18 +1,9 @@
-muffle	@muffle /'mʌfl/
-*  danh từ
-- mồn (trâu, bò...)
-*  ngoại động từ
-- (+ up) bọc, ủ, quấn (bằng áo ấm, khăn ấm)
-=to muffle up one's throat+ quấn khăn choàng cổ
-- bịt, bóp nghẹt, làm cho bớt kêu, làm cho nghẹt tiếng
-=muffled voices+ những tiếng nói bị nghẹt lại
+debunk
+	
+*  ngoại động từ (thông tục)
+- bóc trần, vạch trần, lật tẩy (sự lừa dối...)
+- hạ bệ; làm mất (thanh thế...)
 @Chuyên ngành kỹ thuật
--hấp thụ
--lò múp
--lò nướng
--tiêu âm
-@Lĩnh vực: y học
--cối
--khuôn mẫu (hàm giả)
-@Lĩnh vực: cơ khí & công trình
--cụm puli
+@Lĩnh vực: xây dựng
+-vạch trần
+

@@ -1,0 +1,3 @@
+minimoog
+An analog synthesizer with 3 oscillators, a pitch wheel, and a modulation wheel. The ultimate monophonic keyboard.
+

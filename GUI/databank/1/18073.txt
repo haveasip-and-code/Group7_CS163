@@ -1,20 +1,15 @@
-emulsion	
-@emulsion /i'mʌlʃn/
+verity
+	
 *  danh từ
-- (hoá học) thể sữa
-@Chuyên ngành kinh tế
--chất tạo nhũ tương
--nhũ tương
--thể sữa
-@Chuyên ngành kỹ thuật
--nhũ tương
-@Lĩnh vực: cơ khí & công trình
--nhũ
-@Lĩnh vực: điện tử & viễn thông
--nhũ tượng
-@Chuyên ngành kỹ thuật
--nhũ tương
-@Lĩnh vực: cơ khí & công trình
--nhũ
-@Lĩnh vực: điện tử & viễn thông
--nhũ tượng
+- sự thực, chân lý
+=the verity of a statement
++ sự thực của một lời phát biểu
+=a universal verity
++ chân lý phổ biến
+- tính chất chân thực
+=an accent of verity
++ giọng chân thực
+- việc có thực
+!of a verity
+- (từ cổ,nghĩa cổ) thực ra, quả thực
+

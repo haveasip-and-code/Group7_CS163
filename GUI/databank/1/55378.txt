@@ -1,8 +1,7 @@
-tache	@tache
-* danh từ
-- vết nhỏ; vệt màu
-- tàn nhang; tàn hương
-- (phương ngữ) nét; đặc điểm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dấu, vết, điểm, đốm
+poco
+	
+* tính từ
+- (âm nhạc) hơi
+= poco allegro
++hơi nhanh
+

@@ -1,10 +1,4 @@
-skirting	@skirting
-* danh từ
-- gờ; viền; rìa
-- vải để may quần, váy
-- gỗ viền chân tường
-@Chuyên ngành kỹ thuật
--bờ
--gờ chân tường
--mép
--riềm chân tường
+rustiness
+	
+-sự gỉ
+

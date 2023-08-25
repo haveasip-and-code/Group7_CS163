@@ -1,18 +1,5 @@
-trowel	@trowel /'trauəl/
-*  danh từ
-- (kiến trúc) cái bay (của thợ nề)
-- (nông nghiệp) cái xẻng bứng cây (để đánh cây con)
-!to lay it on with a trowel
-- (nghĩa bóng) nịnh nọt một cách lố bịch, nịnh ra mặt
-*  ngoại động từ
-- (kiến trúc) trát bằng bay
-@Chuyên ngành kỹ thuật
--cái bay
--gắn matít
--làm bằng
--làm nhẵn
--làm phẳng
--miết mạch
-@Lĩnh vực: xây dựng
--bả matít
--cái bay (thợ nề)
+graphemics
+	
+* danh từ
+- sự phân tích, nghiên cứu tự vị
+

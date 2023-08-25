@@ -1,28 +1,23 @@
-approximation	
-@approximation /,əprɔksi'meiʃn/
-*  danh từ
-- sự gần
-- sự xấp xỉ, sự gần đúng
-- cái xấp xỉ, con số xấp xỉ; ý nghĩa gần đúng
-- (toán học) phép xấp xỉ=approximation of root
-+ phép tính xấp xỉ một nghiệm
+registered
+	
+*  tính từ
+- đã đăng ký
+=registered pattern
++ kiểu đã đăng ký (tại toà)
+- bảo đảm (thư)
+=registered letter
++ thư bảo đảm
 @Chuyên ngành kinh tế
--độ chừng
--sự phỏng chừng
--ước chừng
+-bảo đảm
+-có đăng ký
+-có đăng ký, đã đăng ký, đã ghi vào sổ (ký hiệu ?)
+-có tên
+-có tên, ghi tên, ký danh
+-đã đăng ký
+-đã ghi vào sổ
+-ghi tên
+-ký danh
 @Chuyên ngành kỹ thuật
--sự gần đúng
--sự xấp xỉ
--tiệm cận
--xấp xỉ
-@Lĩnh vực: xây dựng
--giá trị gần đúng
--phép (tính) gần đúng
-@Lĩnh vực: điện lạnh
--phép tính gần đúng
-@Lĩnh vực: toán & tin
--phép xấp xỉ
--sự tiệm cận
--sự tính gần đúng
-@Lĩnh vực: điện tử & viễn thông
--tính xấp xỉ
+-đã đăng ký
+-đã ghi
+

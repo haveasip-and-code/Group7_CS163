@@ -1,19 +1,29 @@
-carton	
-@carton /'kɑ:tən/
-*  danh từ
-- hộp bìa cứng (đựng hàng)=a carton of cigarettes
-+ một tút thuốc lá
-- bìa cứng (để làm hộp)
-- vòng trắng giữa bia (bia tập bắn)
+execute
+	
+*  ngoại động từ
+- thực hiện, thi hành, thừa hành, chấp hành
+- thể hiện; biểu diễn (bản nhạc...)
+- (pháp lý) làm thủ tục để cho có giá trị (hiệp ước, giao kèo...) (bằng cách ký vào, đóng dấu vào...)
+- hành hình
 @Chuyên ngành kinh tế
--bìa cattong
--hộp bìa cứng
--thùng cattong
+-ký nhận (một hợp đồng)
+-làm cho hữu hiệu
+-thực hiện
+-thực thi (một hợp đồng, một kế hoạch)
 @Chuyên ngành kỹ thuật
--bản (vẽ) nháp
--bìa cứng
--hộp bìa cứng
--hộp các tông
--phác thảo
+-thực hiện
+@Lĩnh vực: toán & tin
+-chạy
+-chạy (chương trình)
 @Lĩnh vực: xây dựng
--giấy cứng
+-thực hành
+-thực thi
+@Chuyên ngành kỹ thuật
+-thực hiện
+@Lĩnh vực: toán & tin
+-chạy
+-chạy (chương trình)
+@Lĩnh vực: xây dựng
+-thực hành
+-thực thi
+

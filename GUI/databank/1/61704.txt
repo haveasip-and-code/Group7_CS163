@@ -1,30 +1,19 @@
-vibrator	@vibrator /vai'breitə/
+fluidity
+	
 *  danh từ
-- vật rung động
-- (kỹ thuật) máy rung; bộ chấn động
-- (y học) máy xoa bóp
+- trạng thái lỏng
+- tính lỏng; độ lỏng
+- (kỹ thuật) tính lưu động; độ chảy loãng
+@Chuyên ngành kinh tế
+-tính lưu động
 @Chuyên ngành kỹ thuật
--bộ rung
--bộ tạo rung
--cái dao động
--đầm rung
--máy đầm (rung)
--máy đầm rung
--máy rung
--sàng rung
--thiết bị đầm rung
-@Lĩnh vực: xây dựng
--bộ chấn động
--đầm rung (máy đầm rung)
--dụng cụ rung
--lá rung
--máy dầm rung
--thiết bị rung
-@Lĩnh vực: điện lạnh
--cần rung
--màng rung
-@Lĩnh vực: y học
--máy rung động
--máy xoa hóp
+-độ chảy
+-độ lỏng
+@Lĩnh vực: cơ khí & công trình
+-độ chảy loãng
+-tính lưu động
 @Lĩnh vực: điện
--máy tạo rung
+-độ loãng
+@Lĩnh vực: điện lạnh
+-tính lưu
+

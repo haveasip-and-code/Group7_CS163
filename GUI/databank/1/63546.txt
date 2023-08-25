@@ -1,5 +1,34 @@
-zaire	@Chuyên ngành kinh tế
--da-ia (tên nước)
+bug
+	
+*  danh từ
+- con rệp
+- (từ Mỹ,nghĩa Mỹ) sâu bọ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lỗi kỹ thuật, thiếu sót về kỹ thuật
+- (từ lóng) ý nghĩ điên rồ; sự điên rồ
+=to go bugs
++ hoá điên, mất trí
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) máy ghi âm nhỏ (để nghe trộm)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đặt máy ghi âm để nghe trộm
+- làm khó chịu, làm phát cáu
+@Chuyên ngành kinh tế
+-hóc
+-lỗi
 @Chuyên ngành kỹ thuật
+-hỏng hóc
+-kỹ thuật
+-lỗi
+-sự trục trặc
+@Lĩnh vực: điện
+-cần bán tự động
+@Lĩnh vực: toán & tin
+-chỗ rối
+-rối
+@Lĩnh vực: điện tử & viễn thông
+-đặt micrô nghe trộm
+@Lĩnh vực: cơ khí & công trình
+-khuyết tật kỹ thuật
+-lỗi kỹ thuật
 @Lĩnh vực: y học
--bệnh dịch tả (Bồ Đào Nha)
+-rệp
+

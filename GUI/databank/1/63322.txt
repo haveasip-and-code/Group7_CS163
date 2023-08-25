@@ -1,5 +1,10 @@
-wrapped	@Chuyên ngành kỹ thuật
--được cuộn
--được quấn
-@Lĩnh vực: hóa học & vật liệu
--được bao bọc
+lien
+	
+*  danh từ
+- (pháp lý) quyền giữ (đồ thế nợ cho đến khi thu hết nợ)
+@Chuyên ngành kinh tế
+-quyền đặc lưu động sản
+-quyền lưu giữ
+-quyền lưu giữ, quyền đặc ưu động sản
+-quyền sai áp tài sản để thế nợ
+

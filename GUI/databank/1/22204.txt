@@ -1,4 +1,5 @@
-franchisee	
-@Chuyên ngành kinh tế
--cửa hàng độc quyền kinh tiêu
--đại lý độc quyền
+redline
+	
+* ngoại động từ
+- xoá tên ra khỏi bảng lương
+

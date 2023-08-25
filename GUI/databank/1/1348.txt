@@ -1,7 +1,13 @@
-airliner	
-@airliner
-* danh từ
-- máy bay dân dụng loại lớn
-@Chuyên ngành kinh tế
--phi cơ chở khách (theo tuyến) định kỳ
--phi cơ chở khách cỡ lớn
+protractor
+	
+*  danh từ
+- thước đo góc (hình nửa vòng tròn)
+- (giải phẫu) cơ duỗi
+@Chuyên ngành kỹ thuật
+-dụng cụ đo góc
+-máy đo góc
+@Lĩnh vực: y học
+-dụng cụ gắp (mảnh xương, đạn)
+@Lĩnh vực: xây dựng
+-thước do độ
+

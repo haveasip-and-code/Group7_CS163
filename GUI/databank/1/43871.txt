@@ -1,15 +1,28 @@
-profiteer	@profiteer /profiteer/
+convertible
+	
+*  tính từ
+- có thể đổi, có thể cải, có thể hoán cải được
+- có thể đổi thành vàng, có thể đổi thành đô la (tiền)
+- (ngôn ngữ học) đồng nghĩa, có thể dùng thay nhau được (từ)
+=convertible terms
++ từ đồng nghĩa
+- có thể bỏ mui (ô tô)
+!convertible husbandry
+- luân canh
 *  danh từ
-- kẻ trục lợi, kẻ đầu cơ trục lợi
-*  nội động từ
-- trục lợi, đầu cơ trục lợi
+- ô tô bỏ mui được
 @Chuyên ngành kinh tế
--đầu cơ trục lợi
--gian thương
--kẻ bạo lợi
--kẻ đầu cơ thời cuộc
--kẻ đầu cơ trục lợi
--kẻ hoạch tài
--kẻ hoạnh tài
--tay ap-phe
--tay áp-phe
+-có thể chuyển đổi được
+@Chuyên ngành kỹ thuật
+-biến đổi được
+-thuận nghịch
+-xe mui kéo được
+@Lĩnh vực: cơ khí & công trình
+-chuyển hóa được
+-có thể chuyển được
+-tính hấp dẫn
+@Lĩnh vực: ô tô
+-con mui trần
+-mui rời (loại xe)
+-xe mui gập
+

@@ -1,0 +1,3 @@
+pythagoras theorem
+Using Pythagoras Theorem, the third side of a right-angled triangle can be calculated when two sides are given. ; Suppose A = length of hypotenuse and ; B & C = lengths of the sides containing the right angle ; Then (A^2) = (B^2)+(C^2) ; Proof: ; If a = angle opposite side A ( =90 degrees) ; b = angle opposite side B ; c = angle opposite side C ; then B = A sin a and C = A cos a ; Squaring and adding,we get the result.
+

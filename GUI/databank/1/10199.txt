@@ -1,19 +1,8 @@
-coincidence	
-@coincidence /kou'insidəns/
-*  danh từ
-- sự trùng khớp, sự trùng nhau
-- sự trùng khớp ngẫu nhiên (sự việc xảy ra)
-@Chuyên ngành kỹ thuật
--sự trùng hợp
--sự trùng khớp
--trùng nhau
-@Lĩnh vực: toán & tin
--sự trùng
-@Lĩnh vực: xây dựng
--sự trùng khít
--sự trùng lặp
-@Lĩnh vực: điện lạnh
--sự trùng nhau
--sự trùng phùng
-@Lĩnh vực: hóa học & vật liệu
--trùng hợp
+thermography
+	
+-đo nhiệt bức xạ
+@Lĩnh vực: y học
+-phép nhiệt ký
+@Lĩnh vực: đo lường & điều khiển
+-phương pháp đo nhiệt
+

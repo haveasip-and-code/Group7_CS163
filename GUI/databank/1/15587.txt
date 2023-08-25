@@ -1,8 +1,9 @@
-disabled	
-@disabled
-* danh từ
-- người tàn tật
+photoelectric
+	
+* tính từ
+- quang điện
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cấm sử dụng
--mất tác dụng
+-quang điện
+@Lĩnh vực: điện
+-thuộc quang điện
+

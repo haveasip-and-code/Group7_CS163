@@ -1,5 +1,11 @@
-titrimetric	@titrimetric
-* tính từ
-- (hoá học) để đo chuẩn độ; để đo khối lượng (phép phân tích)
-@Chuyên ngành kinh tế
--phép chuẩn độ
+tempo
+	
+*  danh từ,  số nhiều tempos,  tempi
+- (âm nhạc) độ nhanh
+- nhịp, nhịp độ
+=at a quick tempo
++ với nhịp độ nhanh
+@Chuyên ngành kỹ thuật
+-nhịp điệu
+-nhịp độ
+

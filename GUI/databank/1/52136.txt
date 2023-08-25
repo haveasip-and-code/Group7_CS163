@@ -1,4 +1,37 @@
-sparging	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--rảy nước
--sự sục khí (làm bia)
+sluice
+	
+*  danh từ
+- cửa cống, cống
+- lượng nước ở cửa cống
+- (như) sluice
+-way
+- sự xối nước, sự giội ào, sự cọ rửa
+*  ngoại động từ
+- đặt cửa cống, xây cửa cống
+- tháo nước cửa cống
+- cọ, rửa (quặng...)
+=to sluice ores
++ rửa quặng
+- xối nước, giội ào nước
+*  nội động từ
+- chảy ào ào, chảy mạnh
+=water sluices out
++ nước chảy ào ào (tử cửa cổng ra)
+@Chuyên ngành kỹ thuật
+-lỗ tháo nước
+-lỗ xả nước
+-nước trong cống
+-phòng cách ly
+@Lĩnh vực: xây dựng
+-cống
+-cống xả nước
+-cửa van cống
+-đặt cửa cống
+-kênh xối nước
+-máng tuyển quặng
+-mở cống
+-tháo nước cửa cống
+-xây cống
+-xây cửa cống
+-xây kè
+

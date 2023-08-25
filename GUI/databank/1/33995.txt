@@ -1,8 +1,10 @@
-maximum	@maximum
-- cực đại, giá trị lớn nhất
-- absolute m. cực đại tuyệt đối, cực đại hoàn toàn
-- improper m. cực đại không chân chính
-- relative m. cực đại tương đối
-- strong m. cực đại mạnh
-- true m. cực đại chân thực, cực đại cốt yếu
-- vrai m., v. max cực đại thực
+homologous
+	
+*  tính từ
+- tương đồng, tương ứng
+- (hoá học) đồng đãng
+@Chuyên ngành kỹ thuật
+-đồng đẳng
+@Lĩnh vực: y học
+-tương đồng
+

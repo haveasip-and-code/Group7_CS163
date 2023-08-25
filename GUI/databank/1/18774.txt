@@ -1,11 +1,23 @@
-epinephrine	
-@epinephrine
-* danh từ
-- cũng epinephrin
-- (sinh học) epinefrin,  adrenalin
+variability
+	
+*  danh từ
+- tính hay thay đổi; tính hay biến đổi; tính biến thiên
+@Chuyên ngành kinh tế
+-sự dao động
+-sự thay đổi
+-tính bất định
+-tính biến đổi
+-tính biến đổi, tính thay đổi, tính bất định
+-tính thay đổi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--hóc môn vỏ thượng thận
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--hóc môn vỏ thượng thận
+-sự biến đổi
+-tĩnh
+@Lĩnh vực: toán & tin
+-độ biến đổi
+-tính biến thiên
+@Lĩnh vực: xây dựng
+-tính biến đổi được
+-tính khả biến
+@Lĩnh vực: cơ khí & công trình
+-tính biến động
+

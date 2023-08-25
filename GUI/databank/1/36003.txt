@@ -1,10 +1,9 @@
-multistage	@Chuyên ngành kỹ thuật
--đa công đoạn
--nhiều bậc
--nhiều bước
--nhiều cấp
--nhiều giai đoạn
--nhiều pha
--nhiều tầng
-@Lĩnh vực: xây dựng
--nhiều nấc
+listless
+	
+*  tính từ
+- lơ đãng, thờ ơ, vô tinh; lờ ph
+@Chuyên ngành kinh tế
+-nhạt nhẽo vô vị
+-thiếu hoạt lực
+-thiếu sức sống
+

@@ -1,9 +1,8 @@
-vine	@vine /vain/
-*  danh từ
-- (thực vật học) cây nho
-- cây leo; cây bò
-@Chuyên ngành kinh tế
--cây nho
--rượu vang
+untapped
+	
+* tính từ
+- chưa dùng, chưa khai thác
 @Chuyên ngành kỹ thuật
--cây nho
+@Lĩnh vực: điện
+-không rẽ nhánh (máy biến áp)
+

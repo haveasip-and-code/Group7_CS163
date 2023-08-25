@@ -1,8 +1,11 @@
-permittivity	@permittivity /,pə:mi'tiviti/
-*  danh từ
-- (điện học) hằng số điện môi
+exteroceptor
+	
+* danh từ
+- giác quan nhận và truyền kích thích từ bên ngoài
 @Chuyên ngành kỹ thuật
--điện thẩm
--hằng số điện môi
-@Lĩnh vực: xây dựng
--độ thấm điện môi
+@Lĩnh vực: y học
+-dây thần kinh ngoại cảm thụ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dây thần kinh ngoại cảm thụ
+

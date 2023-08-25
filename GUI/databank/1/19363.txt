@@ -1,21 +1,13 @@
-evaluate	
-@evaluate /i'væljueit/
-*  ngoại động từ
-- ước lượng
-- định giá
+watertight
+	
+*  tính từ
+- kín nước
+- (nghĩa bóng) không thể cãi, không công kích được; vững chắc, chặt chẽ (lập luận, lý lẽ...)
 @Chuyên ngành kinh tế
--đánh giá
+-không thấm nước
+-không vô nước
+-kín nước
 @Chuyên ngành kỹ thuật
--đánh giá
--ra giá
--ước lượng
--ước tính
-@Lĩnh vực: xây dựng
--định trị
-@Chuyên ngành kỹ thuật
--đánh giá
--ra giá
--ước lượng
--ước tính
-@Lĩnh vực: xây dựng
--định trị
+-cách nước
+-kín nước
+

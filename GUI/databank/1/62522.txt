@@ -1,11 +1,6 @@
-waterway	@waterway /'wɔ:təwei/
-*  danh từ
-- đường sông tàu bè qua lại được
-@Chuyên ngành kinh tế
--đường thủy
-@Chuyên ngành kỹ thuật
--dòng sông
-@Lĩnh vực: xây dựng
--đường thủy
--tiết diện dòng chảy
--tiết diện ướt
+pygidium
+	
+* danh từ
+- số nhiều pygidia
+- (động vật học) đốt hậu môn; mảnh cuối bụng
+

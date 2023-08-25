@@ -1,5 +1,20 @@
-whirr	@whirr /w :/ (whirr) /w :/
+equinox
+	
 *  danh từ
-- tiếng kêu vù vù; tiếng kêu vo vo
-*  nội động từ
-- kêu vù vù; kêu vo vo (máy chân vịt, cánh quạt...)
+- điểm phân
+=vernal equinox
++ xuân phân
+=autumnal equinox
++ thu phân
+- (số nhiều) điểm xuân phân; điểm thu phân
+@Chuyên ngành kỹ thuật
+-ngày phân điểm
+-phân điểm
+@Lĩnh vực: điện tử & viễn thông
+-điểm thu phân
+@Chuyên ngành kỹ thuật
+-ngày phân điểm
+-phân điểm
+@Lĩnh vực: điện tử & viễn thông
+-điểm thu phân
+

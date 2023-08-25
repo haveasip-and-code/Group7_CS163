@@ -1,19 +1,27 @@
-raceway	@Chuyên ngành kinh tế
--luồng cá
--sự lùa đàn gia súc
+pinion
+	
+*  danh từ
+- (kỹ thuật) bánh răng nhỏ,  pinbông
+- đầu cánh, chót cánh
+- (thơ ca) cánh
+- lông cánh
+*  ngoại động từ
+- cắt lông cánh, chặt cánh (chim để cho không bay đi được); xén đầu cánh (chim)
+- trói giật cánh khuỷ (ai); trói cánh tay (ai)
+- trói chặt, buộc chặt
+=to pinion someone to something
++ trói chặt ai vào cái gì
 @Chuyên ngành kỹ thuật
--kênh dẫn nước
--mặt lăn (ổ trục)
--ống bảo vệ
--vòng ổ lăn
-@Lĩnh vực: xây dựng
--hoặc dây cáp
--kênh hẹp dẫn nước
-@Lĩnh vực: điện tử & viễn thông
--ống bao dây cáp
+-bánh răng
+-bánh răng trung gian
+-pi nhông
+-pi
+-nhông
 @Lĩnh vực: điện
--ống bao vây điện
--ống bảo vệ điện
--ống chứa dây điện
-@Lĩnh vực: vật lý
--ống dẫn nước (làm nguội ở lò phản ứng)
+-bánh khế
+@Lĩnh vực: hóa học & vật liệu
+-bánh răng chuyền
+-bánh răng khía nhỏ
+@Lĩnh vực: cơ khí & công trình
+-bánh răng công tác
+

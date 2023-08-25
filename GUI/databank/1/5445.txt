@@ -1,8 +1,5 @@
-bicycle	
-@bicycle /'baisikl/
-*  danh từ
-- xe đạp
-*  nội động từ
-- đi xe đạp
-@Chuyên ngành kỹ thuật
--xe đạp
+myelocytic
+	
+@Lĩnh vực: y học
+-thuộc tủy bào
+

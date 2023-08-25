@@ -1,66 +1,21 @@
-sign	@sign /sain/
-*  danh từ
-- dấu, dấu hiệu, ký hiệu; mật hiệu
-=sign of the cross+ dấu thánh giá
-=chemical sign+ ký hiệu hoá học
-=to talk by signs+ nói bằng hiệu
-=the signs and the countersigns+ hiệu hỏi và hiệu đáp, mật hiệu (của một tổ chức)
-- dấu hiệu biểu hiện, biểu hiện, tượng trưng, điểm
-=signs of the times+ dấu hiệu biểu hiện xu hướng của tình hình
-=violence is a signof weakness+ bạo lực là biểu hiến sự yếu
-=to give a book in sign of friendship+ tặng một quyển sách để thể hiện tình hữu nghị
-- (y học) triệu chứng
-- dấu vết (thú săn...)
-- biển hàng
-- ước hiệu
-=deaf-and-dumb signs+ ước hiệu của người câm điếc
-!to do sings and wonders
-- gọi gió làm mưa, hô phong hoán vũ
-!to make no sign
-- đường như là chết
-- không phản ứng gì
-*  động từ
-- đánh dấu; (tôn giáo) làm dấu
-- ký tên, viết ký hiệu, viết dấu hiệu
-=to sign a contract+ ký một hợp đồng
-=he signs au usual with a red star+ anh ấy vẫn thường vẽ một ngôi sao đỏ làm ký hiệu
-- ra hiệu, làm hiệu
-=to sign assent+ ra hiệu đồng ý
-=to sign to someone to do something+ ra hiệu cho ai làm việc gì
-!to sign away
-- nhường (tài sản cho ai) bằng chứng thư
-!to sign on
-- ký giao kỳ làm gì (cho ai); đưa giao kèo cho (ai) ký nhận làm gì cho mình
-!to sign off
-- ngừng (phát thanh)
-- (thông tục) ngừng nói, thoi nói chuyện
-!to sign up (Mỹ)
-- (như) to sign on
-- đăng tên nhập ngũ
-@Chuyên ngành kinh tế
--biển chỉ dẫn
--biển hàng
--biển hiệu (của hiệu buôn)
--dấu hiệu
--ký
--ký hiệu
--ký tên
--ký xác nhận
--thị thực
-@Chuyên ngành kỹ thuật
--biểu tượng
--đánh dấu
--dấu
--dấu hiệu
--đèn hiệu
--ký hiệu
--ký hiệu giao thông
--nhìn
--mốc
--sự ngắm
--sự nhìn
--tín hiệu giao thông
-@Lĩnh vực: xây dựng
--dấu (cộng trừ)
-@Lĩnh vực: y học
--dấu hiệu chỉ dẫn về một rối loạn đặc biệt
+giddy
+	
+*  tính từ
+- chóng mặt, choáng váng, lảo đảo
+=to feel giddy
++ cảm thấy chóng mặt
+- làm chóng mặt, làm choáng váng
+=a giddy height
++ độ cao làm chóng mặt
+=a giddy success
++ một thắng lợi làm chóng mặt
+- nhẹ dạ, phù phiếm
+=a giddy young girl
++ cô gái trẻ phù phiếm nhẹ dạ
+=to play the giddy goat
++ làm những chuyện phù phiếm tầm phào; chơi nhảm mất thời giờ; lông bông
+*  ngoại động từ
+- làm chóng mặt, làm choáng váng
+*  nội động từ
+- chóng mặt, choáng váng
+

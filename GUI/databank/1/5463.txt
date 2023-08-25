@@ -1,6 +1,9 @@
-biff	
-@biff /bif/
-*  danh từ
-- (từ lóng) cú đấm mạnh
-*  ngoại động từ
-- (từ lóng) đấm mạnh
+qualmish
+	
+*  tính từ
+- buồn nôn, nôn nao
+=to feel qualmish
++ cảm thấy buồn nôn
+- cảm thấy lo ngại, cảm thấy e sợ
+- băn khoăn dằn vật (trong lương tâm); day dứt
+

@@ -1,11 +1,21 @@
-antigravity	
-@antigravity
-* danh từ
-- khả năng chống trọng lực
-* tính từ
-- có khả năng chống trọng lực
+tamping
+	
+*  danh từ
+- sự nhét, sự nhồi (thuốc lá vào tẩu...)
+- sự đầm, sự nện (đất)
 @Chuyên ngành kỹ thuật
+-búa
+-chèn
+-nút mìn
+-sự đầm
+-sự đầm chặt
+-sự giã chặt (làm khuôn)
+-sự làm tắc
+-sự lèn
+-sự nện
+-sự nhồi
+@Lĩnh vực: xây dựng
+-đầm bê tông cho chặt
 @Lĩnh vực: điện lạnh
--phản trọng lực
-@Lĩnh vực: điện tử & viễn thông
--sự đối trọng
+-sự nhồi chặt
+

@@ -1,14 +1,9 @@
-eolian	
-@eolian
-* tính từ
-- do gió; do gió đưa tới
-@Chuyên ngành kỹ thuật
--do gió
--phong thành
-@Lĩnh vực: xây dựng
--thuộc về gió
-@Chuyên ngành kỹ thuật
--do gió
--phong thành
-@Lĩnh vực: xây dựng
--thuộc về gió
+unreserved
+	
+*  tính từ
+- không dành riêng (ghế, chỗ ngồi...)
+- không hạn chế, hoàn toàn
+=the unreserved approval
++ sự tán thành hoàn toàn
+- không dè dặt, cởi mở (người)
+

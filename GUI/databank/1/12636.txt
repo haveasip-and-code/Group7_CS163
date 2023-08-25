@@ -1,3 +1,18 @@
-crevassing	
+reactor
+	
+*  danh từ
+- lò phản ứng
+=a muclear reactor
++ lò phản ứng hạt nhân
 @Chuyên ngành kỹ thuật
--nứt thành khe
+-bình phản ứng
+-bộ điện kháng
+-cuộn cảm
+-cuộn cản
+-cuộn điện kháng
+-lò phản ứng
+@Lĩnh vực: điện
+-cuộn kháng
+@Lĩnh vực: hóa học & vật liệu
+-lò phản ứng (hạt nhân)
+

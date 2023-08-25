@@ -1,7 +1,19 @@
-producible	@producible /producible/
+laminal
+	
 *  tính từ
-- sản xuất được, chế tạo được
-- sinh sản được, sinh lợi được
-@Chuyên ngành kinh tế
--chế tạo được
--sản xuất được
+- thành phiến, thành lá, thành lớp
+@Chuyên ngành kỹ thuật
+-bản
+-lá
+-phiến
+-tấm
+-thành lớp
+-thành tầng
+@Chuyên ngành kỹ thuật
+-bản
+-lá
+-phiến
+-tấm
+-thành lớp
+-thành tầng
+

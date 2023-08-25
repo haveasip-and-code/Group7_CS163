@@ -1,22 +1,5 @@
-wrapping	@wrapping /'ræpiɳ/
-*  danh từ
-- sự bọc, sự bao, sự gói, sự quấn; sự dán băng (tờ báo)
-- giấy bọc, vải bọc
-@Chuyên ngành kinh tế
--vật đổ nát
--xác tàu
-@Chuyên ngành kỹ thuật
--giấy bọc
--giấy gói
--sự bao bọc
--sự quấn
--sự quấn dây
--sự xuống dòng
-@Lĩnh vực: dệt may
--sự bao
--sự gói
-@Lĩnh vực: điện
--việc bọc bảo vệ
--việc bọc gói
-@Lĩnh vực: toán & tin
--xuống dòng tự động
+heterotic
+	
+* tính từ
+- thuộc ưu thế giống lai
+

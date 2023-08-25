@@ -1,0 +1,3 @@
+Red Light Stopsign
+A traffic light that turns red and stays red when there is no one in sight coming from any direction. Treat as a stop sign and keep going.
+

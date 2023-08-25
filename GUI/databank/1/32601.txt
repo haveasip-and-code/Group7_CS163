@@ -1,14 +1,9 @@
-locus	@locus /'loukəs/
-*  danh từ,  số nhiều loci  /'lousai/
-- địa điểm, nơi, chỗ
-- (toán học) quỹ tích
+strontium
+	
+*  danh từ
+- (hoá học) Stronti
 @Chuyên ngành kỹ thuật
--quỹ đạo
--quỹ tích
--tốc độ
--vị trí
-@Chuyên ngành kỹ thuật
--quỹ đạo
--quỹ tích
--tốc độ
--vị trí
+-Sr
+@Lĩnh vực: hóa học & vật liệu
+-nguyên tố hóa học (ký hiệu Sr)
+

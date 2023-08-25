@@ -1,6 +1,17 @@
-enface	
-@enface /in'feis/
-*  ngoại động từ
-- viết (chữ) vào hối phiếu..., in (chữ) vào hối phiếu...; viết chữ vào (hối phiếu), in chữ vào (hối phiếu)
+testament
+	
+*  danh từ
+- lời di chúc, chúc thư
+=to make one'stestament
++ làm di chúc
+- (Testament) kinh thánh
+=the Old Testament
++ kinh Cựu ước
+=the New Testament
++ kinh Tân ước
 @Chuyên ngành kinh tế
--viết chữ vào hối phiếu
+-chúc thư
+-di chúc
+@Chuyên ngành kỹ thuật
+-di chúc
+

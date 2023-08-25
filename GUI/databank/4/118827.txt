@@ -1,0 +1,3 @@
+slothump
+Waiting until a slot is free on a game server by constantly refreshing it.
+

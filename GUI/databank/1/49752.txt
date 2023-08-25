@@ -1,4 +1,10 @@
-semipublic	@semipublic
-* tính từ
-- nửa công khai; bán công khai
-- không hoàn toàn do nhà nước lập ra; bán công
+bloc
+	
+*  danh từ
+- (chính trị) khối
+=left
+-wing parties bloc
++ khối các đảng phái tả
+=sterling bloc
++ khối đồng bảng Anh
+

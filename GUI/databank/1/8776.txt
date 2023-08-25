@@ -1,9 +1,6 @@
-characteristics	
-@Chuyên ngành kỹ thuật
--đặc điểm
--đặc tính
--đặc trưng
--đường đặc tính
--tính năng
-@Lĩnh vực: xây dựng
--các đặc tính
+checkrow
+	
+* danh từ
+- dải đất, ô đất
+- thửa ruộng
+

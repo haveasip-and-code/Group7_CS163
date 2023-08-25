@@ -1,10 +1,13 @@
-computability	
-@computability /kəm,pju:tə'biliti/
+orientation
+	
 *  danh từ
-- tính có thể tính được, tính có thể tính toán được, tính có thể ước tính được
+- sự định hướng
+@Chuyên ngành kinh tế
+-sự định hướng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--khả năng tính toán
--lý thuyết tính toán
+-định hướng
+-hướng
+-sự định hướng
 @Lĩnh vực: xây dựng
--thực năng tính toán
+-sự đặt hướng
+

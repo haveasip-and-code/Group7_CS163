@@ -1,13 +1,5 @@
-deliverer	
-@deliverer /di'livərə/
-*  danh từ
-- người cứu nguy, người giải phóng, người giải thoát
-- người giao hàng
-- người kể lại, người thuật lại; người nói
-@Chuyên ngành kinh tế
--người bán đầu tiên
--người đặt ra điều kiện đầu tiên
--người giao hàng
-@Chuyên ngành kỹ thuật
--người cung cấp
--sở cung cấp
+renography
+	
+@Lĩnh vực: y học
+-phép chụp thận
+

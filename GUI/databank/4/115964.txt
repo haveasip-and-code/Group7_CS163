@@ -1,0 +1,3 @@
+D:
+A designation for a letter drive on a computer, as in a hard drive, hard drive partition, CD-ROM drive, etc. ; Generally, because A: is reserved for a 3 1/2 inch floppy drive, B: for the obsolete 5 1/4 floppy drive (the letter is skipped if the drive does not exist), and C: for the first hard drive, D: is most often a second hard drive or a first CD-ROM drive. ; Letters thereafter, such as E:, F:, G:, etc. can be filled by CD-ROM drives, burners, external hard drives, USB drives, and the like as necessary. While not required to be in alphabetical order, it is this way by default.
+

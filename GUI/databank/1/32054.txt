@@ -1,45 +1,19 @@
-liability	@liability /,laiə'biliti/
-*  danh từ
-- trách nhiệm pháp lý, nghĩa vụ pháp lý
-=liability for military service+ nghĩa vụ tòng quân
-- (số nhiều) tiền nợ, khoản phải trả
-=to be unable to meet one's liabilities+ không có khả năng trả nợ
-- (+ to) khả năng bị, khả năng mắc, nguy cơ
-=liability error+ khả năng mắc sai lầm
-=liability to accidents+ khả năng xảy ra tai nạn
-- cái gây khó khăn trở ngại; cái của nợ, cái nợ đời
+anhydrous
+	
+*  tính từ
+- (hoá học) khan
+=anhydrous salt
++ muối khan
+=anhydrous state
++ trạng thái khan
 @Chuyên ngành kinh tế
--bổ phận
--của nợ
--gánh nặng
--khoản nợ
--tài sản nợ
--trách nhiệm pháp lý
--trách nhiệm pháp lỳ
--trái vụ
+-khan
 @Chuyên ngành kỹ thuật
--có thể
--được phép
--khoản phải trả
--nghĩa vụ
--phải
--trách nhiệm
+-khan
+-khô
+-không có nước
 @Lĩnh vực: xây dựng
--bảo pháp
-@Lĩnh vực: toán & tin
--có khả năng
-@Lĩnh vực: giao thông & vận tải
--khoản nợ
-@Chuyên ngành kỹ thuật
--có thể
--được phép
--khoản phải trả
--nghĩa vụ
--phải
--trách nhiệm
-@Lĩnh vực: xây dựng
--bảo pháp
-@Lĩnh vực: toán & tin
--có khả năng
-@Lĩnh vực: giao thông & vận tải
--khoản nợ
+-không ngậm nước
+@Lĩnh vực: hóa học & vật liệu
+-không nước
+

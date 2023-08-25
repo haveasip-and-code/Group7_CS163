@@ -1,12 +1,9 @@
-noiseless	@noiseless /'nɔizlis/
-*  tính từ
-- không có tiếng ồn ào, im lặng, yên ắng
-@Chuyên ngành kỹ thuật
--không ồn
-@Lĩnh vực: điện lạnh
--không (bị) ồn
-@Lĩnh vực: điện tử & viễn thông
--không có nhiễu
-@Lĩnh vực: toán & tin
--không nhiều
--không nhiễu
+buckler
+	
+*  danh từ
+- cái mộc, cái khiên
+- sự che chở
+- người che chở
+*  ngoại động từ
+- làm mộc để che chở cho, che chở cho
+

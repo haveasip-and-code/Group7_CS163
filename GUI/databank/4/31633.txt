@@ -1,0 +1,3 @@
+unix
+FreeBSD,NetBSD,BSDi are more popular unix systems among others. They are more usefull on the server scene, for they have almost total control, and modification applications. One could change anything to everything on a unix system provided they have the know how. ; One should take note that Apple [Os X] is based on Unix([Darwin]). ; [Linux] and Unix differ on many points, and are greatly argued upon which one is better. It seems one should use both and see which one he/she likes.
+

@@ -1,9 +1,6 @@
-solderability	@solderability
-* danh từ
-- tính hàn được; dễ hàn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--dễ hàn
--tính dễ hàn
-@Lĩnh vực: cơ khí & công trình
--tính hàn được
+flaccidity
+	
+*  danh từ
+- tính chất mềm, tính chất nhũn; tính chất ẻo lả
+- sự yếu đuối, tính uỷ mị
+

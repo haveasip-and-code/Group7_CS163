@@ -1,10 +1,5 @@
-cogging	
-@Chuyên ngành kỹ thuật
--sự cắt răng
-@Lĩnh vực: y học
--liên kết mộng răng
-@Lĩnh vực: cơ khí & công trình
--sự cán phá
--sự lắp mộng
-@Lĩnh vực: xây dựng
--sự ren răng
+reportorial
+	
+* tính từ
+- thuộc người báo cáo, phóng viên; thuộc lời báo cáo
+

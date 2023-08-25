@@ -1,0 +1,3 @@
+data dictionary
+A data dictionary is (generally) a [read-only] set of tables and views that holds [metadata] - used in a [database] management system. The data dictionary may be considered a [database] in its own right. ; Amongst other things, a Data Dictionary holds the following information: ; *[Username]s, Roles and Privileges ; *Schema Objects ; *[Integrity] [Constraints] ; *Stored [procedures] and [Triggers] ; *General [Database] Structure ; *[Audit] information ; *Space [allocation]s ; One benefit of a well prepared data dictionary is a consistency between data items across different [table]s.
+

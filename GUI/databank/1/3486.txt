@@ -1,13 +1,5 @@
-ascent	
-@ascent /ə'sent/
-*  danh từ
-- sự trèo lên, sự đi lên, sự lên=to make an ascent in a balloon
-+ lên không bằng khí cầu
-- sự đi ngược lên (dòng sông...)
-- con đường đi lên, đường dốc; bậc cầu thang đi lên
-@Chuyên ngành kỹ thuật
--độ dốc
--đường dốc
--sự nâng
-@Lĩnh vực: điện tử & viễn thông
--pha (được) đẩy lên
+driveline
+	
+@Lĩnh vực: ô tô
+-đường truyền lực
+

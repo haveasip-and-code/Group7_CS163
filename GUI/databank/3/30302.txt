@@ -1,0 +1,3 @@
+incoalescence
+The state of not coalescing.
+

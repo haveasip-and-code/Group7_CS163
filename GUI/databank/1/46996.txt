@@ -1,16 +1,4 @@
-requisite	@requisite /'rekwizit/
-*  tính từ
-- cần thiết
-=things requisite for travel+ đồ dùng cần thiết để đi đường
-*  danh từ
-- điều kiện tất yếu, điều kiện cần thiết
-- vật cần thiết, đồ dùng cần thiết
-=office requisites+ đồ dùng văn phòng
-@Chuyên ngành kinh tế
--cần thiết
--điều kiện cần thiết
--điều kiện tất yếu
--vật cần thiết
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cần thiết, yêu cầu
+certificatory
+	
+- xem certificate
+

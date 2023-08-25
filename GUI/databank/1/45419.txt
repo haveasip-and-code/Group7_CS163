@@ -1,4 +1,19 @@
-raffia	@raffia /'ræfiə/ (raphia) /'reifiə/
+enumerator
+	
 *  danh từ
-- sợi cọ sợi (dùng để làm mũ, nón, chiếu...)
-- (thực vật học) cây cọ sợi
+- người đếm; người kê; người liệt kê
+@Chuyên ngành kỹ thuật
+-bộ đếm
+-người đếm
+@Lĩnh vực: toán & tin
+-bộ đánh số
+-bộ liệt kê
+-người đánh số
+@Chuyên ngành kỹ thuật
+-bộ đếm
+-người đếm
+@Lĩnh vực: toán & tin
+-bộ đánh số
+-bộ liệt kê
+-người đánh số
+

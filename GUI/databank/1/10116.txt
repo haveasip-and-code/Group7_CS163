@@ -1,9 +1,8 @@
-coercivity	
-@coercivity
-- (Tech) độ kháng từ, lực kháng từ; tính kháng từ
+confocal
+	
+- (Tech) thuộc đồng/cộng tiêu, thuộc đồng tập điểm
 @Chuyên ngành kỹ thuật
--độ kháng
--độ kháng từ
--lực kháng
-@Lĩnh vực: điện tử & viễn thông
--sức lực
+-đồng tiêu
+@Lĩnh vực: điện lạnh
+-đồng tụ
+

@@ -1,12 +1,8 @@
-freckle	
-@freckle /'frekl/
-*  danh từ
-- tàn nhang (trên da)
-- số nhiều chỗ da bị cháy nắng
+obligate
+	
 *  ngoại động từ
-- làm cho (da) có tàn nhang
-*  nội động từ
-- có tàn nhang (da)
+- bắt buộc, ép buộc
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tàn nhang
+-bắt buộc
+-ép buộc
+

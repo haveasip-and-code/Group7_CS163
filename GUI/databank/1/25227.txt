@@ -1,12 +1,7 @@
-heal	
-@heal /hi:l/
+elude
+	
 *  ngoại động từ
-- chữa khỏi (bệnh...), làm lành (vết thương...)=to heal someone of a disease
-+ chữa cho ai khỏi bệnh gì
-- hàn gắn (mối quan hệ bị nứt rạn)=to heal a rift
-+ hàn gắn mối quan hệ bị nứt rạn
-- dàn hoà, hoà giải (mối bất hoà...)
-*  nội động từ
-- lành lại (vết thương)
-@Chuyên ngành kỹ thuật
--lành
+- tránh, né, lảng tránh (cú đấm, sự khó khăn, sự quan sát...)
+- trốn tránh (luật pháp, trách nhiệm...)
+- vượt quá (sự hiểu biết...)
+

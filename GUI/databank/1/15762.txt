@@ -1,8 +1,18 @@
-discrepant	
-@discrepant /dis'krepənt/
+tributary
+	
 *  tính từ
-- khác nhau, không nhất quán, không thống nhất, trái ngược nhau=discrepant runmours
-+ những lời đồn trái ngược nhau
+- phải nộp cống, phải triều cống (nước, người), phụ thuộc, chư hầu
+- nhánh (sông)
+=tributary river
++ sông nhánh
+*  danh từ
+- người phải nộp cống; nước phải triều cống
+- sông nhánh
 @Chuyên ngành kỹ thuật
--không phù hợp
--phân kỳ
+-hợp lưu
+-luồng
+-nhánh
+-nhánh sông
+-phụ lưu
+-sông nhánh
+

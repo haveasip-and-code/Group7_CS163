@@ -1,0 +1,3 @@
+gaim
+Multi-Protocol and Multi-Platform IM client. Allows you to be logged into the following IM services: ; Aim ; MSN ; IRC ; ICQ ; Yahoo ; Jabber ; Gadu-Gadu ; Groupwise ; Napster ; Zepphyr ; Is tab based, so you have all your conversations in one window, and can easily switch between them by ctrl+tab or simply clicking the tab. ; Supports plugin's which can easily be installed and downloaded from sourceforge. Has many more features designed to make IM'ing much faster and ; more simple to do.
+

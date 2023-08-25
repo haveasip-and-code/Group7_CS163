@@ -1,5 +1,10 @@
-ailment	
-@ailment /'eilmənt/
-*  danh từ
-- sự đau đớn, sự phiền não, sự lo lắng
-- sự ốm đau bệnh tật, sự khổ sở
+decouple
+	
+* ngoại động từ
+- tách riêng ra
+@Chuyên ngành kỹ thuật
+-khử ghép
+-tách rời
+@Lĩnh vực: toán & tin
+-ngắt liên kết
+

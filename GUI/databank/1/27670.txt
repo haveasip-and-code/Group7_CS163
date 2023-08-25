@@ -1,6 +1,8 @@
-inanity	
-@inanity /i'næniti/
-*  danh từ
-- sự ngu ngốc, sự ngớ ngẩn; sự vô nghĩa
-- hành động ngớ ngẩn; lời nói ngớ ngẩn vô nghĩa
-- sự trống rỗng, sự trống không
+corpora
+	
+*  danh từ,  số nhiều corpora
+- tập sao lục, tập văn
+- (sinh vật học) thể
+=corpus striatum
++ thể vân
+

@@ -1,8 +1,14 @@
-lysozyme	@lysozyme
-* danh từ
-- (sinh học) lizozim
+acidimeter
+	
+*  danh từ
+- cái đo axit
 @Chuyên ngành kinh tế
--lyzozim
+-tỷ trọng kế axit
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--enzyme
+-acid kế
+-axit kế
+@Lĩnh vực: cơ khí & công trình
+-cái đo axit
+@Lĩnh vực: điện
+-tỉ trọng kế axit
+

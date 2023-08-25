@@ -1,24 +1,4 @@
-radial	@radial /'reidjəl/
-*  tính từ
-- (vật lý),  (toán học) (thuộc) tia
-- xuyên tâm, toả tròn
-=radial symmetry+ đối xứng xuyên tâm, đối xứng toả tròn
-- (giải phẫu) (thuộc) xương quay
-=radial artery+ động mạch quay
-=radial nerve+ dây thần kinh quay
-*  danh từ
-- (giải phẫu) động mạch quay
-- dây thần kinh quay
-@Chuyên ngành kỹ thuật
--bán kính
--hướng kính (truyền động tay quay-thanh truyền)
--hướng tâm
--xuyên tâm
-@Lĩnh vực: cơ khí & công trình
--bố tỏa tròn
-@Lĩnh vực: điện tử & viễn thông
--đối trọng (ăng ten phần tử sóng)
-@Lĩnh vực: điện lạnh
--theoze
-@Lĩnh vực: y học
--thuộc xương quay
+acinus
+	
+- (y học) tuyến nang
+

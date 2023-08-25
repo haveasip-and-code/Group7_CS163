@@ -1,4 +1,1 @@
-aaaa happiness
-aaa no happi
-zyz wtf is this
-help help me
+bulkData/dataset1_clean.txt

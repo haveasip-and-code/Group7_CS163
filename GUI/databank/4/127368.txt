@@ -1,0 +1,3 @@
+exponentiate
+Used when solving differential equations, means to take the exponent of.
+

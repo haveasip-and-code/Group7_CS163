@@ -1,16 +1,5 @@
-unship	@unship /' n' ip/
-*  ngoại động từ
-- (hàng hi) bốc dỡ (hàng) ở trên tàu xuống, cho (khách) xuống bến
-- bỏ (cột buồm); tháo (mái chèo)
-@Chuyên ngành kinh tế
--bốc dỡ (hàng) trên tàu xuống
--bốc dỡ hàng trên tàu xuống
--giải phóng tàu
-@Chuyên ngành kỹ thuật
--bốc dỡ
-@Lĩnh vực: giao thông & vận tải
--cho khách xuống bến
--dỡ hàng khỏi tàu (hàng hóa)
--trút tải
-@Lĩnh vực: xây dựng
--tháo mái chèo
+parhelia
+	
+*  danh từ,  số nhiều parhelia  /pɑ:hi:ljə/
+- (thiên văn học) mặt trời giả, mặt trời ảo
+

@@ -1,7 +1,21 @@
-antifogging	
-@antifogging
-* tính từ
-- chống sương mù
+devolve
+	
+*  ngoại động từ
+- trao cho, uỷ thác cho; trút cho
+=to devolve work on someone
++ trao công tác cho ai
+=to devolve powers to someone
++ uỷ quyền cho ai
+=to devolve responsibility on (upon, to) someone
++ trút trách nhiệm cho ai
+*  nội động từ (
++ on,  upon)
+- được trao cho, được uỷ cho; rơi vào, để vào, trút lên
+=responsibility that devolves on someone
++ trách nhiệm trút vào đầu ai
 @Chuyên ngành kỹ thuật
+-ủy nhiệm
 @Lĩnh vực: hóa học & vật liệu
--chất chống sương mù
+-tráp
+-trượt lở
+

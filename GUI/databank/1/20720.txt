@@ -1,12 +1,6 @@
-fen	
-@fen /fen/
-*  danh từ
-- miền đầm lầy
-*  động từ
-- (như) fain
-@Chuyên ngành kỹ thuật
--đầm lầy
--đầm than bùn
-@Chuyên ngành kỹ thuật
--đầm lầy
--đầm than bùn
+photoexcitation
+	
+@Lĩnh vực: điện lạnh
+-sự kích thích quang (học)
+-sự quang kích thích
+

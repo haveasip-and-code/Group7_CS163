@@ -1,0 +1,3 @@
+car mile
+A mile traveled by a single car, taken as a unit of computation, as in computing the average travel of each car of a system during a given period.
+

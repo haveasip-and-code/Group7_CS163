@@ -1,9 +1,5 @@
-physician	@physician /fi'ziʃn/
-*  danh từ
-- thầy thuốc
-- (nghĩa bóng) người chữa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bác sỹ
-@Lĩnh vực: y học
--thầy thuốc
+boltrope
+	
+* danh từ
+- dây thừng chắc buộc mép buồm (để khỏi rách)
+

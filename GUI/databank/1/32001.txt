@@ -1,9 +1,13 @@
-leukemia	@leukemia /lju:'ki:miə/ (leukaemia) /lju:'ki:miə/
-*  danh từ
-- (y học) bệnh bạch cầu
+inclinable
+	
+*  tính từ
+- có khuynh hướng, thiên về
+=inclinable to do something
++ có khuynh hướng muốn làm cái gì
+=inclinable to something
++ có khuynh hướng thiên về cái gì
+- có thể làm nghiêng đi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh bạch cầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh bạch cầu
+@Lĩnh vực: xây dựng
+-có thể nghiêng
+

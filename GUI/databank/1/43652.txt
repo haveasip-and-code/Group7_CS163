@@ -1,11 +1,10 @@
-princess	@princess /prin'ses/
-*  danh từ
-- bà chúa; bà hoàng; công chúa, quận chúa ((cũng) princess of the blood)
-- (từ cổ,nghĩa cổ) nữ vương
-!Princess Regent
-- công chúa nhiếp chính; vợ hoàng thân nhiếp chính
-!princess royal
-- công chúa cả
+deliquesce
+	
+* ngoại động từ
+- tan ra
+- <hóa> chảy rữa
+- <lóng> tan biến đi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--ngói mái
+-chảy rữa
+-hóa lỏng
+

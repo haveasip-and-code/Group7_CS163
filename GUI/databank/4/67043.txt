@@ -1,0 +1,3 @@
+cipher
+In [Cryptography], An Algorithm or method for encrypting a message
+

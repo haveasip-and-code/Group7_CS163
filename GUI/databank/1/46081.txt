@@ -1,3 +1,29 @@
-rectangularity	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tính vuông góc
+mock
+	
+*  danh từ
+- (từ cổ,nghĩa cổ) sự chế nhạo, sự nhạo báng, sự chế giễu
+=to make a mock of someone
++ chế nhạo ai, chế giễu ai
+*  tính từ
+- giả, bắt chước
+=mock modesty
++ khiêm tốn giả
+=mock battle
++ trận giả
+=mock velvet
++ nhung giả
+*  ngoại động từ
+- chế nhạo, nhạo báng, chế giễu
+- thách thức; xem khinh, coi thường
+- lừa, lừa dối, đánh lừa
+- nhại, giả làm
+*  nội động từ
+- (
++ at) chế nhạo, nhạo báng, chế giễu
+@Chuyên ngành kỹ thuật
+-giả
+-mô phỏng
+-sự bắt chước
+@Lĩnh vực: dệt may
+-sự làm giả
+

@@ -1,12 +1,5 @@
-unsupported	@unsupported /' ns 'p :tid/
-*  tính từ
-- không có gì chống đỡ
-- không có chỗ dựa, không ni nưng tựa
-- (nghĩa bóng) không được ủng hộ
-@Chuyên ngành kỹ thuật
--không tương thích
-@Lĩnh vực: hóa học & vật liệu
--không có giá đỡ
--không được chống đỡ
-@Lĩnh vực: cơ khí & công trình
--không có gối đỡ
+dyarchy
+	
+* danh từ
+- chính phủ quyền lực trao cho hai người hay hai bộ phận
+

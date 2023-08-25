@@ -1,6 +1,8 @@
-triadic	@triadic
-- ba ngôi
+pantry
+	
+*  danh từ
+- phòng để thức ăn, phòng để đồ dùng ăn uống; chạn bát đĩa, chạn thức ăn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--ba ngôi
--có ba toán hạng
+-chỗ chứa
+-kho chứa
+

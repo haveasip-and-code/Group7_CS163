@@ -1,9 +1,5 @@
-pep	@pep /pep/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tinh thần hăng hái, tinh thần dũng cảm, dũng khí
-!pep pill
-- thuốc kích thích làm cho hăng lên
-!pep talk
-- lời động viên, lời cổ vũ làm cho hăng hái lên
-*  ngoại động từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm cho hăng hái, cổ vũ, động viên
+burble
+	
+* động từ
+- nói lẩm bẩm
+

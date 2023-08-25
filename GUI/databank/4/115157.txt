@@ -1,0 +1,3 @@
+copile
+Two consecutive piles or something, that is at most 1 foot apart. Otherwise it's just a pile.
+

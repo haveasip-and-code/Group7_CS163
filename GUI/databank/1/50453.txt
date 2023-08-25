@@ -1,40 +1,11 @@
-shore	@shore /ʃɔ:/
-*  danh từ
-- bờ (biển, hồ lớn), bờ biển
-- (pháp lý) phần đất giữa hai nước triều
-*  danh từ
-- cột (chống tường, cây...) trụ
-*  ngoại động từ
-- chống, đỡ
-*  (từ cổ,nghĩa cổ),  thời quá khứ của shear
-@Chuyên ngành kinh tế
--bờ (biển, hồ ....)
--bờ (biển, hồ...)
+counteraction
+	
+* danh từ
+- sự chống lại, sự kháng cự lại
+- phản tác dụng
+- sự trung hoà, sự làm mất tác dụng
 @Chuyên ngành kỹ thuật
--bệ đỡ
--bờ
--bờ (biển, sông)
--bờ biển
--chằng
--chống
--chống đỡ (bằng cột chống)
--chống tựa
--cột
--cột chống
--cột móng
--cột tháp
--đỡ
--đường bờ
--néo gia cố
--mang
--sự chống
--sự chống đỡ
--sự tựa
--tải
--thanh chống
--trụ
--trụ chống
--tựa
+-phản tác dụng
 @Lĩnh vực: xây dựng
--cột chống thanh giằng
--hệ thống đỡ
+-đối lực
+

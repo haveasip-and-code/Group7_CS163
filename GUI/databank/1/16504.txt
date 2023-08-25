@@ -1,9 +1,8 @@
-doorstop	
-@doorstop
-* danh từ
-- vật ngăn không cho cửa đóng lại hoặc va vào tường
+denary
+	
+*  tính từ
+- (thuộc) hệ mười, thập phân
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--chốt cửa
--đệm cửa
--thanh đệm cửa
+@Lĩnh vực: toán & tin
+-mười
+

@@ -1,0 +1,3 @@
+farmable
+Capable of being farmed.
+

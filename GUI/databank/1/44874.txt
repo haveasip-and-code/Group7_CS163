@@ -1,12 +1,5 @@
-putrefaction	@putrefaction /,pju:tri'fækʃn/
-*  danh từ
-- sự thối rữa; vật thối nát, vật thối rữa
-- sự đồi bại, sự sa đoạ
-@Chuyên ngành kinh tế
--sự hư hỏng
--sự phân hủy
--sự thối rữa
-@Chuyên ngành kỹ thuật
--sự mục nát
--sự thối rữa
--thối rữa
+corrigible
+	
+*  tính từ
+- có thể sửa chữa được (lỗi); có thể trị được (người)
+

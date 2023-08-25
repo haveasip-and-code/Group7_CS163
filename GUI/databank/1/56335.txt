@@ -1,10 +1,5 @@
-thermometer	@thermometer /θə'mɔmitə/
-*  danh từ
-- cái đo nhiệt, nhiệt biểu
-@Chuyên ngành kinh tế
--nhiệt kế
-@Chuyên ngành kỹ thuật
--hàn thử biểu
--nhiệt biểu
--nhiệt kế
--nhiệt kế thể tích
+baghouse
+	
+-buồng túi lọc
+-phòng lọc
+

@@ -1,38 +1,5 @@
-lamella	@lamella /lə'melə/
-*  danh từ,  số nhiều lamellae  /lə'meli:/
-- lá mỏng, phiến mỏng
-- lá kính
-@Chuyên ngành kỹ thuật
--bản mỏng
--băng
--dải
--lá
--lá mỏng
--lamen
--lát mỏng
--tấm kim loại
--tấm mỏng
--tờ
-@Lĩnh vực: cơ khí & công trình
--phiến (mỏng)
-@Lĩnh vực: xây dựng
--phiếu mỏng
-@Lĩnh vực: điện lạnh
--tờ mỏng
-@Chuyên ngành kỹ thuật
--bản mỏng
--băng
--dải
--lá
--lá mỏng
--lamen
--lát mỏng
--tấm kim loại
--tấm mỏng
--tờ
-@Lĩnh vực: cơ khí & công trình
--phiến (mỏng)
-@Lĩnh vực: xây dựng
--phiếu mỏng
-@Lĩnh vực: điện lạnh
--tờ mỏng
+trainable
+	
+*  tính từ
+- có thể dạy được, có thể huấn luyện được
+

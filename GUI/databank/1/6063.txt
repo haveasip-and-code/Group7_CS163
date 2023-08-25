@@ -1,24 +1,20 @@
-bluff	
-@bluff /blʌf/
-*  tính từ
-- có dốc đứng (bờ biển...)
-- cục mịch, chân thật, chất phác, không biết khách sáo màu mè (người)
+labourer
+	
 *  danh từ
-- dốc đứng
-*  danh từ
-- lời lừa gạt; lời bịp bợm
-- sự tháu cáy (đánh bài xì)=to call someone's bluff
-+ bắt tháu cáy của ai
-*  động từ
-- bịp, lừa gạt, lừa phỉnh
-- tháu cáy
+- người lao động chân tay, lao công
+@Chuyên ngành kinh tế
+-công nhân
+-lao công
+-người lao công
+-người lao động tay chân
 @Chuyên ngành kỹ thuật
--dốc đứng
--vách đứng
-@Lĩnh vực: cơ khí & công trình
--bờ cao dốc đứng
-@Lĩnh vực: hóa học & vật liệu
--bờ treo
--vách đá đứng
-@Lĩnh vực: giao thông & vận tải
--vách dựng đứng
+-công nhân
+-thợ
+@Lĩnh vực: xây dựng
+-lao công
+@Chuyên ngành kỹ thuật
+-công nhân
+-thợ
+@Lĩnh vực: xây dựng
+-lao công
+

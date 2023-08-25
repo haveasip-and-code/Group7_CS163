@@ -1,9 +1,16 @@
-persistency	@persistency /pə'sistəns/ (persistency) /pə'sistənsi/
+interceptor
+	
 *  danh từ
-- tính kiên gan, tính bền bỉ
-- tính cố chấp; tính ngoan cố
-- tính dai dẳng
+- người chặn, cái chắn
+- (quân sự), không máy bay đánh chặn (để chặn máy bay địch)
+@Chuyên ngành kinh tế
+-thiết bị chặn
+-thiết bị tắt
 @Chuyên ngành kỹ thuật
--ổn định
--quán tính
--sự tiếp tục
+-cửa van thủy lực
+-đường ống dẫn nước
+-giếng góp nước thải
+-rãnh tập trung nước
+@Lĩnh vực: xây dựng
+-xi phông cống
+

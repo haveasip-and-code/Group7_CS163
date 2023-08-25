@@ -1,6 +1,12 @@
-backslash	
-@backslash
-- (Tech) dấu chéo ngược
+fount
+	
+*  danh từ
+- vòi nước (công viên)
+- bình dầu (đèn dầu)
+- (thơ ca) nguồn, nguồn sống
+*  danh từ
+- bộ chữ cùng c
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--dấu chéo ngược
+-phông chữ
+-vòi nước
+

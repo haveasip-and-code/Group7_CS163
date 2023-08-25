@@ -1,9 +1,10 @@
-biochemical	
-@biochemical /'baiou'kemikəl/
-*  tính từ
-- (thuộc) hoá sinh
-@Chuyên ngành kinh tế
--sinh hóa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--hóa sinh
+substrata
+	
+*  danh từ,  số nhiều substata ((cũng) substrate)
+- lớp dưới
+- cơ sở
+=it has a substratum of truth
++ điều đó có cơ sở ở sự thật
+- (nông nghiệp) tầng đất cái
+- (sinh vật học); (triết học) thể nền
+

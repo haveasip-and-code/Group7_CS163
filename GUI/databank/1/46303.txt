@@ -1,9 +1,8 @@
-reflectivity	@reflectivity
-* danh từ
-- hệ số phản xạ, hệ số phản chiếu
+diligent
+	
+*  tính từ
+- siêng năng, chuyên cần, cần cù
 @Chuyên ngành kỹ thuật
--độ phản xạ
--hệ số phản xạ
--khả năng phản xạ
 @Lĩnh vực: xây dựng
--tính phản xạ
+-siêng năng
+

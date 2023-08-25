@@ -1,4 +1,13 @@
-ossa	@ossa
-* danh từ
-- số nhiều
-- xem os
+algorithm
+	
+*  danh từ
+- thuật toán
+@Chuyên ngành kinh tế
+-thuật toán
+@Chuyên ngành kỹ thuật
+-angorit
+-thuật toán
+@Lĩnh vực: toán & tin
+-giải thuật
+-thuật giải
+

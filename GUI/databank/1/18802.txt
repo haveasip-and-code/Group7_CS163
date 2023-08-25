@@ -1,13 +1,10 @@
-epistasis	
-@epistasis
+solute
+	
 * danh từ
-- số nhiều epistases
-- (sinh học) tính át gen= dominant epistasis
-+tính lấn át gen trội= recessive epistasis
-+tính lấn át gen lặn
+- chất tan
+@Chuyên ngành kinh tế
+-chất hòa tan
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tương tác gen
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tương tác gen
+-chất hòa tan
+-hòa tan
+

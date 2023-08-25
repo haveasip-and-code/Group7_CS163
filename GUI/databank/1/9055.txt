@@ -1,15 +1,7 @@
-chiller	
-@Chuyên ngành kinh tế
--buồng lạnh
--thiết bị lạnh
-@Chuyên ngành kỹ thuật
--bộ làm lạnh
--bộ làm mát
--bộ làm nguội
--máy làm lạnh
--máy nén làm lạnh
--thiết bị làm lạnh
-@Lĩnh vực: hóa học & vật liệu
--máy sinh hàn
-@Lĩnh vực: điện
--thiết bị làm mát
+unprejudiced
+	
+*  tính từ
+- không thành kiến; không thiên vị, vô tư, khách quan
+=an unprejudiced judgement
++ một nhận xét không thành kiến, một nhận xét khách quan
+

@@ -1,22 +1,8 @@
-defeat	
-@defeat /di'fi:t/
-*  danh từ
-- sự thất bại (của một kế hoạch...); sự tiêu tan (hy vọng...)
-- (quân sự) sự thua trận, sự bại trận=to suffer (sustain) heavy defeat
-+ bị thua nặng
-- sự đánh bại (kẻ thù)
-- (pháp lý) sự huỷ bỏ, sự thủ tiêu
+overexpose
+	
 *  ngoại động từ
-- đánh thắng, đánh bại
-- làm thất bại (một kế hoạch...); làm tiêu tan (hy vọng...)
-- (quân sự) sự thua trận, sự bại trận=to suffer (sustain) geavy defeat
-+ bị thua nặng
-- sự đánh bại (kẻ thù)
-- (pháp lý) sự huỷ bỏ, sự thủ tiêu
-*  ngoại động từ
-- đánh thắng, đánh bại
-- làm thất bại (một kế hoạch...); làm tiêu tan (hy vọng...)
-- (pháp lý) huỷ bỏ, thủ tiêu
+- để quá lâu, phơi quá lâu (ngoài trời, ngoài nắng...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đánh bại
+@Lĩnh vực: vật lý
+-phơi quá lâu
+

@@ -1,5 +1,43 @@
-protozoal	@protozoal
-- xem protozoan
+grant
+	
+*  danh từ
+- sự cho, sự ban cho, sự cấp cho
+- trợ cấp
+=to make a grant to somebody
++ trợ cấp cho ai
+- sự nhượng, sự nhường lại (của cải, quyền...)
+- (pháp lý) sự chuyển nhượng bằng khế ước
+!capitation
+- tiền trợ cấp
+*  ngoại động từ
+- cho, ban (ơn), cấp
+=to grant a favour
++ gia ơn, ban ơn
+=to grant somebody a permission to do something
++ cho phép ai làm việc gì
+- thừa nhận, công nhận, cho là
+=to take for granted
++ cho là dĩ nhiên, cho là điều tất nhiên
+- nhượng (của cải, quyền...)
+@Chuyên ngành kinh tế
+-ban cấp
+-chứng thư chuyển nhượng (tài sản)
+-khoản trợ cấp
+-nhượng
+-sự ban cấp
+-sự cho
+-sự chuyển nhượng
+-sự tặng dữ
+-tặng khoản
+-tặng vật
+-tiền trợ cấp
+-trợ cấp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--gây nên, do động vật nguyên sinh
+-ban
+-sự cấp
+-sự cấp bằng
+-sự chấp nhận
+@Lĩnh vực: điện tử & viễn thông
+-sự phụ cấp
+-sự trợ cấp
+

@@ -1,27 +1,4 @@
-simple	@simple /'simpl/
-*  tính từ
-- đơn, đơn giản
-=simpleleaf+ lá đơn
-=simple surface+ mặt đơn giản
-- giản dị, mộc mạc, xuềnh xoàng, bình dị, hồn nhiên
-=the simple life+ đời sống giản dị; sự muốn trở lại cuộc sống cổ sơ
-=in simple beauty+ trong vẻ đẹp mộc mạc
-=a simple man+ một người giản dị
-=a simple meal+ một bữa cơm xuềnh xoàng
-- dễ hiểu, dễ làm
-=the problem is very simple+ vấn đề đó rất dễ hiểu
-- tuyệt đối là, chỉ là, không khác gì
-=to say so is simple madness+ nói như thế thì không khác gì là điên
-- đơn sơ, nghèo hèn; nhỏ mọn, không đáng kể
-- ngu dại; dốt nát; thiếu kinh nghiệm
-*  danh từ
-- người ngu dại; người dốt nát
-- cây thuốc
-- thuốc lá (chữa bệnh)
-!to be cut for the simples
-- phải mổ để chữa bệnh điên
-@Chuyên ngành kỹ thuật
--đơn
--đơn giản
--đơn giản, đơn
--thuần túy
+advisably
+	
+- xem advisable
+

@@ -1,11 +1,23 @@
-abridge	
-@abridge /ə'bridʤ/
-*  ngoại động từ
-- rút ngắn lại, cô gọn, tóm tắt
-- hạn chế, giảm bớt (quyền...)
-- lấy, tước=to abridge somebody of his rights
-+ tước quyền lợi của ai
-@Chuyên ngành kỹ thuật
--cô đọng
--làm tắt
--rút gọn
+meta
+	
+- tiền tố
+- sau
+= metasedimentary
++sau trầm tích
+- siêu
+= metaphysics
++siêu hình học
+- biến đổi
+= metachromatic
++biến sắc
+- tiền tố
+- sau
+= metasedimentary
++sau trầm tích
+- siêu
+= metaphysics
++siêu hình học
+- biến đổi
+= metachromatic
++biến sắc
+

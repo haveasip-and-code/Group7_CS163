@@ -1,49 +1,34 @@
-film	
-@film /film/
-*  danh từ
-- màng; mảng thuốc (trên phim ảnh, trên giấy ảnh...)
-- phim, phim ảnh, phim xi nê
-- (the films) buổi chiếu bóng
-- vảy cá (mắt)
-- màn sương mỏng
-- sợi nhỏ, tơ nhỏ (của mạng nhện)
-*  ngoại động từ
-- phủ một lớp màng, che bằng một lớp màng
-- che đi, làm mờ đi
-- quay thành phim=to film one of Shakespeare's plays
-+ quay một trong những vở kịch của Sếch
--xpia thành phim
-*  nội động từ
-- bị che đi, bị mờ đi
-- quay thành phim=this play films well
-+ kịch này quay thành phim rất hay
-@Chuyên ngành kinh tế
--lớp mỏng
--màng
--vỏ
+something
+	
+*  danh từ & đại từ
+- một điều gì đó, một việc gì đó; cái gì đó
+=we can learn something from his talk
++ chúng tôi có thể học tập được một điều gì đó ở bài nói chuyện của anh ta
+- điều này, việc này
+=I've something to tell you
++ tôi có việc này muốn nói với anh
+- cái đúng, cái có lý
+=there is something in what you said
++ có cái đúng trong lời anh nói đấy
+- chức vị nào đó; người có chức nào đó; tầm quan trọng nào đó
+=to be (have) something in an office
++ làm người có chức vị nào đó trong một cơ quan
+!he is something of a carpenter
+- hắn cũng biết chút ít nghề mộc
+!it is something to be safe home again
+- về đến nhà yên ổn thật là nhẹ cả người
+!to see something of somebody
+- thỉnh thoảng mới gặp ai
+*  phó từ
+- something like (thông tục) mới thật là
+=this is something like a cake
++ đây mới thật là bánh
+- (từ cổ,nghĩa cổ) hơi hơi, gọi là, chút ít
+=he was something impatient
++ nó hơi sốt ruột
+=he was something troubled
++ anh ta hơi băn khoăn một chút
 @Chuyên ngành kỹ thuật
--lớp
--lớp mỏng
--lớp phủ
--màng
--màng bôi trơn
--màng mỏng
--phim
--phim ảnh
-@Lĩnh vực: y học
--màng phủ
-@Lĩnh vực: điện lạnh
--phim (ảnh)
-@Chuyên ngành kỹ thuật
--lớp
--lớp mỏng
--lớp phủ
--màng
--màng bôi trơn
--màng mỏng
--phim
--phim ảnh
-@Lĩnh vực: y học
--màng phủ
-@Lĩnh vực: điện lạnh
--phim (ảnh)
+@Lĩnh vực: xây dựng
+-thứ nào đó
+

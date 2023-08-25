@@ -1,11 +1,5 @@
-flawy	
-@flawy
-* tính từ
-- có nhiều chỗ rạn, vết nứt, tì vết
-- hay bị cuồng phong
-@Chuyên ngành kỹ thuật
+misconnection
+	
 @Lĩnh vực: xây dựng
--có khuyết tật
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--có khuyết tật
+-sự nối lệch
+

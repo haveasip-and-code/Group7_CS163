@@ -1,3 +1,16 @@
-obliteration	@obliteration /ə,blitə'reiʃn/
+ambulance
+	
 *  danh từ
-- sự xoá, sự tẩy, sự gạch, sự xoá sạch; sự phá sạch, sự làm tiêu ma
+- xe cứu thương, xe cấp cứu
+- (định ngữ) để cứu thương
+=ambulance car
++ xe ô tô cứu thương
+=ambulance train
++ xe lửa cứu thương
+=ambulance airplane
++ máy bay cứu thương
+@Chuyên ngành kỹ thuật
+-xe cấp cứu
+@Lĩnh vực: y học
+-xe cứu thương
+

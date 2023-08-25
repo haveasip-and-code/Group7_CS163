@@ -1,0 +1,3 @@
+Security Center
+A feature of Microsoft Windows XP [Service Pack 2] that adds a better Firewall, automatic updates, and annoying alerts if you don't have anti-virus software installed.
+

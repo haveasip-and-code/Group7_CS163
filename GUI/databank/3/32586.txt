@@ -1,0 +1,3 @@
+featherstitch
+A kind of embroidery stitch producing a branching zigzag line.
+

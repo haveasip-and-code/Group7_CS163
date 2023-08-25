@@ -1,13 +1,14 @@
-inoculate	
-@inoculate /i'nɔkleit/
-*  ngoại động từ
-- chủng, tiêm chủng=to inoculate somebody with the smallpox
-+ chủng phòng bệnh đậu mùa cho ai
-- tiêm nhiễm cho (ai)
-- (nông nghiệp) ghép (cây)
+wand
+	
+*  danh từ
+- đũa thần, gậy phép (của bà tiên, thầy phù thuỷ)
+- que đánh nhịp (của nhạc trưởng)
+- gậy quyền, quyền trượng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cấy truyền
--tiêm truyền
-@Lĩnh vực: điện lạnh
--gây mầm (kết tinh)
+-bút điện tử
+@Lĩnh vực: xây dựng
+-bút thử
+-que thần
+@Lĩnh vực: toán & tin
+-thẻ tín dụng
+

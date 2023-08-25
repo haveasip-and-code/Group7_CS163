@@ -1,4 +1,7 @@
-hesitancy	
-@hesitancy /'hezitəns/ (hesitancy) /'hezitənsi/
-*  danh từ
-- sự tự do, sự ngập ngừng, sự lưỡng lự, sự không nhất quyết ((cũng) hesitation)
+translational
+	
+*  tính từ
+- (toán học); (kỹ thuật) tịnh tiến
+=translational movement
++ chuyển động tịnh tiến
+

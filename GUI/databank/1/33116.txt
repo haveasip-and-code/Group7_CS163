@@ -1,7 +1,22 @@
-machining	@machining
+cathead
+	
 * danh từ
-- sự gia công cơ khí; sự gia công cắt gọt
+- bộ phận đầu mũi thuyền để buộc dây neo
+- tời neo
+- xà mũi tàu
 @Chuyên ngành kỹ thuật
--sự bào phoi
--sự cắt phoi
--sự gia công
+-ống hẹp
+-trục phụ
+@Lĩnh vực: xây dựng
+-búa đầu rộng
+-độc cao mối hàn
+-góc hàn
+-rầm nhô ra
+-tay cầu cẩu
+@Lĩnh vực: cơ khí & công trình
+-đầu (cắt) ren
+-tời neo
+@Lĩnh vực: hóa học & vật liệu
+-tời trục đứng
+-trục tời
+

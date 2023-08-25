@@ -1,9 +1,18 @@
-returnable	@returnable /ri'tə:nəbl/
+quiescent
+	
 *  tính từ
-- có thể trả lại, có thể hoàn lại
-- có tư cách ứng cử
-@Chuyên ngành kinh tế
--bao bì có thể thu hồi (dùng lại)
--có thể hoàn lại
--có thể hoàn trả
--có thể trả lại
+- im lìm, yên lặng
+=quiescent sea
++ biển lặng
+=be quiescent!
++ im đi!
+@Chuyên ngành kỹ thuật
+-dừng
+-đứng yên
+-im
+-nghỉ
+@Lĩnh vực: điện
+-êm tịnh
+@Lĩnh vực: toán & tin
+-tĩnh, nghỉ, hãm
+

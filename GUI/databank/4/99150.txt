@@ -1,0 +1,3 @@
+flac
+n. An audio compression algorithm which is sonically superior to the more widely-known .mp3 compression algorithm, due to the lossless nature of .flac compression. Audio encoded in .mp3 are, however, typically 1/10th the size of .flac, which may be one reason why the .mp3 format retains such popularity over the .flac format.
+

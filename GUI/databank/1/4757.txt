@@ -1,10 +1,10 @@
-barometry	
-@barometry
-- xem barometer
+trustworthy
+	
+*  tính từ
+- đáng tin cậy
+@Chuyên ngành kinh tế
+-đáng tin cậy
 @Chuyên ngành kỹ thuật
--khí áp học
-@Lĩnh vực: điện lạnh
--đo áp suất khí quyển
--đo khí áp
-@Lĩnh vực: hóa học & vật liệu
--phép đo khí áp
+@Lĩnh vực: xây dựng
+-tin cẩn
+

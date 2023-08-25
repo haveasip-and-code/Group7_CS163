@@ -1,5 +1,18 @@
-banneret	
-@banneret
-* danh từ
-- (thường) viết hoa hiệp sĩ được trao nhiệm vụ dẫn quân xung trận dưới lá cờ của mình
-- lá cờ nhỏ
+multiply
+	
+*  ngoại động từ
+- nhân lên, làm bội lên, làm tăng lên nhiều lần
+- (toán học) nhân
+*  nội động từ
+- tăng lên nhiều lần; sinh sôi nảy nở
+=rabbits multiply rapidly
++ giống thỏ sinh sôi nảy nở nhanh
+@Chuyên ngành kỹ thuật
+-nhân
+-nhiều lớp
+-mở rộng
+-tăng lên
+@Lĩnh vực: toán & tin
+-làm phép nhân
+-tăng thêm
+

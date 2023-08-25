@@ -1,4 +1,9 @@
-ascertainment	
-@ascertainment /,æsə'teinmənt/
+tautology
+	
 *  danh từ
-- sự biết chắc, sự thấy chắc; sự xác định; sự tìm hiểu chắc chắn
+- (ngôn ngữ học) phép lặp thừa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-công thức hằng đúng
+-hằng hiệu
+

@@ -1,4 +1,29 @@
-bombsight	
-@bombsight
-* danh từ
-- máy ngắm để ném bom
+attendance
+	
+*  danh từ
+- sự dự, sự có mặt
+=to request someone's attendance
++ mời ai đến dự
+=attendance at lectures
++ sự đến dự những buổi thuyết trình
+- số người dự, số người có mặt
+=a large attendance at a meeting
++ số người dự đông đảo ở cuộc họp
+- sự chăm sóc, sự phục vụ, sự phục dịch; sự theo hầu
+=to be in attendance on somebody
++ chăm sóc ai
+=medical attendance
++ sự chăm sóc thuốc men, sự điều trị
+!to dance attendance upon somebody
+- (xem) dance
+@Chuyên ngành kinh tế
+-cử tọa
+-số người có mặt
+-số người dự
+-sự có mặt
+@Chuyên ngành kỹ thuật
+-sự bảo quản
+-sự phục vụ
+@Lĩnh vực: cơ khí & công trình
+-sự bảo dưỡng máy
+

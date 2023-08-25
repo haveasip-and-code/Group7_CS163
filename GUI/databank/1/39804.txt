@@ -1,6 +1,97 @@
-parsonage	@parsonage /'pɑ:snidʤ/
+force
+	
 *  danh từ
-- nhà của cha xứ; nhà của mục sư
+- thác nước
+- sức, lực, sức mạnh
+=physical force
++ sức mạnh vật chất
+=moral force
++ sức mạnh tinh thần
+- vũ lực, quyền lực; sự bắt buộc
+=by force; per force
++ bằng vũ lực bắt buộc
+=by force of circumstances
++ do hoàn cảnh bắt buộc
+- quân đội, quân lực; (số nhiều) quân, lực lượng (quân đội)
+=armed forces
++ lực lượng vũ trang
+=the force
++ công an
+- ảnh hưởng, tác dụng; sức thuyết phục
+=there is force in what you say
++ câu nói của anh có sức thuyết phục
+=the force of an argument
++ sức thuyết phục của một lý lẽ
+- sự tác động mạnh mẽ, ấn tượng sâu sắc; sự sinh động
+=to describe something with much force
++ tả cái gì rất sinh động
+- (pháp lý) hiệu lực
+=the law remains in force
++ điều luật đó còn có hiệu lực
+=to come into force
++ có hiệu lực
+=to put in force
++ thi hành
+- ý nghĩa
+=the force of a clause
++ ý nghĩa của một điều khoản
+- (vật lý) lực; (từ cổ,nghĩa cổ) năng lượng
+=internal force
++ lực trong
+=external force
++ lực ngoài
+=conversation of force
++ (từ cổ,nghĩa cổ) sự bảo toàn năng lượng
+!by force of
+- do nhờ, bằng cách
+!in force
+- (quân sự) nhiều
+!in great force
+- mạnh mẽ, sung sức
+*  ngoại động từ
+- dùng vũ lực đối với, bức hiếp, ép buộc, cưỡng ép, bắt buộc
+=to force one's way into a house
++ dùng vũ lực xông vào nhà
+=to force a statement out of somebody
++ bắt ai phải khai ra (tuyên bố) cái gì
+=to force something upon somebody
++ ép buộc ai phải nhận cái gì
+=to force a woman
++ hâm hiếp một người đàn bà
+- phá (cửa); bẻ (khoá)
+- (đánh bài) bắt, ép (phải đưa một quân nào ra)
+=to force a card
++ làm cho phải lấy một lá bài nào đo (khi làm trò quỷ thuật bằng bài tẩy)
+- ép, gượng
+=to force the pace
++ tăng tốc độ để ép đối phương chóng mệt (trong cuộc chạy thi)
+=to force a word
++ dùng ép một từ
+=to force a smile
++ gượng cười
+=to one's voice
++ ép giọng
+- làm (quả) chín gượng, làm chín sớm; làm (hoa) nở ép, làm nở sớm; thúc cho (cây) chóng lớn
+- thúc đẩy, đẩy tới
+=to force a process
++ thúc đẩy một quá trình
+- cưỡng đoạt, chiếm
+=to force something out of someone's hand
++ cưỡng đoạt cái gì ở tay ai
+=to force an enemy stronghold
++ chiếm một đồn địch
+!to force someone's hand
+- bắt ai phải hành động hơi sớm; buộc ai phải manh động
+- bắt ai phải công nhận một chính sách
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--nhà của cha xứ
+-cưỡng bức
+-lực
+-lực cưỡng chế
+-lực lao động
+-lực lượng đội
+-nhóm
+-nội lực
+-sức
+-sức kéo
+-ứng lực
+

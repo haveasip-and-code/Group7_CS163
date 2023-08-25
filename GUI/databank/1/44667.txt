@@ -1,7 +1,86 @@
-pulsator	@pulsator /pʌl'seitə/
+move
+	
 *  danh từ
-- máy sàng kim cương
+- sự chuyển động, sự di chuyển, sự xê dịch
+=to make a move
++ di chuyển, đổi chuyển, sự xê dịch
+=to make a move
++ di chuyển đổi chỗ, đứng dạy đi chỗ khác
+=on the move
++ di chuyển, hoạt động; tiến triển
+=to get a move on
++ (từ lóng) hoạt động lên; làm gấp, tiến hành gấp rút
+- (đánh cờ) nước
+=that was a good move
++ đó là một nước hay
+- lượt, lần, phiên (trong một trò chơi)
+=it's your move
++ đến lượt anh
+- biện pháp; bước
+*  ngoại động từ
+- chuyển, di chuyển, chuyển dịch, xê dịch, đổi chỗ, dời chỗ
+=to move troops from one place to another
++ chuyển quân từ chỗ này sang chỗ khác
+- lắc, lay, khuấy, quấy, làm chuyển động; nhấc
+=he can't move his arm
++ nó không thể nhắc được cánh tay
+=to move heaven and earth
++ khuấy đảo trời đất, dùng đủ mọi biện pháp, xoay xở đủ trò
+- làm nhuận (tràng)
+- kích thích, kích động, gây ra, làm cho, xúi giục, gợi
+=it moved them to anger
++ cái đó làm cho chúng nó nổi giận
+- làm cảm động, làm xúc động, làm mũi lòng, gợi mối thương cảm
+=to be moved to tears
++ cảm động đến ứa nước mắt
+- đề nghị
+=I move the adjournment of the meeting
++ tôi đề nghị hoãn buổi họp
+*  nội động từ
+- chuyển động, cử động, động đậy, cựa quậy, lay động
+=it was calm and not a leaf moved
++ trời lặng gió, không một chiếc lá lay động
+- đi, di chuyển, xê dịch, chuyển dịch
+=it is about time we should move
++ đã đến giờ chúng ta phải đi
+- hành động, hoạt động
+!to move about
+- đi đi lại lại, đi quanh, chuyển quanh
+- hay dọn nhà, hay thay đổi chỗ ở
+!to move along
+- tiến lên
+!to move away
+- dọn đi, cất đi
+- đi xa, đi hẳn
+!to move back
+- lùi; kéo lùi lại, chuyển về phía sau
+!to move forward
+- tiến; cho tiến lên, chuyển về phía trước
+!to move in
+- dọn nhà (đến chỗ ở mới)
+!to move off
+- ra đi, đi xa
+!to move on
+- cho đi tiếp; tiến lên
+=move on
++ đề nghị đi đi, đừng đứng ùn lại (lệnh của công an giao thông)
+!to move out
+- dọn nhà đi
+!to move up
+- chuyển lên; trèo lên, tiến lên
+@Chuyên ngành kinh tế
+-đề nghị
 @Chuyên ngành kỹ thuật
--máy sàng rung
+-chuyển dịch
+-đi
+-di chuyển
+-di động
+-dịch chuyển
+-điều khiển
+-dời chỗ
+-đổi vị trí
+-nước đi (bài)
 @Lĩnh vực: xây dựng
--bộ xung
+-dời
+-rời chỗ
+

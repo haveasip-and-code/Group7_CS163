@@ -1,12 +1,9 @@
-fetter	
-@fetter /'fetə/
-*  danh từ
-- cái cùm
-- (số nhiều) gông cùm, xiềng xích; sự giam cầm, sự kiềm chế, sự câu thúc
-*  ngoại động từ
-- cùm (chân ai); xích (ngựa)
-- trói buộc; ràng buộc, kiềm chế, câu thúc
-@Chuyên ngành kỹ thuật
--cùm
-@Chuyên ngành kỹ thuật
--cùm
+cursory
+	
+*  tính từ
+- vội, nhanh, lướt qua
+=to givve a cursory glance
++ liếc nhanh, liếc qua
+=a cursory inpection
++ sự khám xét lướt qua, sự khám xét qua loa
+

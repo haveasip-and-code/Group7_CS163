@@ -1,12 +1,6 @@
-tradesman	@tradesman /'treidzmən/
-*  danh từ
-- người buôn bán; chủ cửa hàng
-- thợ thủ công
-@Chuyên ngành kinh tế
--chủ cửa hàng
--chủ tiệm
--người bán lẻ
--người chủ hiệu
--người thợ thủ công
--thương nhân
--thương nhân, chủ cửa hàng, chủ tiệm, người bán lẻ
+apodal
+	
+*  tính từ
+- không chân
+- không vây bụng
+

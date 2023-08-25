@@ -1,10 +1,4 @@
-scheduler	@scheduler
-* danh từ
-- người lập thời biểu, người lập chương trình, người lập lịch trình
-@Chuyên ngành kinh tế
--người lập chương trình
-@Chuyên ngành kỹ thuật
--bộ lập lịch biểu
-@Lĩnh vực: toán & tin
--trình lập lịch
--trình lập thời biểu
+pharmaceutically
+	
+- xem pharmaceutical
+

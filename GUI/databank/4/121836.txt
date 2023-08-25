@@ -1,0 +1,3 @@
+ASP
+Application service provider; an internet entity that manages and delivers application capabilities to multiple users from data centers across a wide area network.
+

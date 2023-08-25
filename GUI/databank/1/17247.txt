@@ -1,11 +1,7 @@
-eatable	
-@eatable /'i:təbl/
-*  tính từ
-- ăn được; ăn ngon
-*  danh từ,  (thường) số nhiều
-- thức ăn, đồ ăn=eatables and drinkables
-+ đồ ăn thức uống
-@Chuyên ngành kinh tế
--ăn được
--ăn ngon
--thức ăn
+vitals
+	
+*  danh từ số nhiều
+- (y học) cơ quan bảo đảm sự sống (tim, phổi...)
+- (hàng hải) phần tàu ngập dưới nước
+- (nghĩa bóng) bộ phận chủ yếu, phần chủ yếu
+

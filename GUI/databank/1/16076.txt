@@ -1,9 +1,13 @@
-dissemble	
-@dissemble /di'sembl/
-*  ngoại động từ
-- che giấu, giấu giếm, che đậy (ý định, hành động...)
-- không nói đến, không kể đến, làm ngơ (một sự việc)
-- (từ cổ,nghĩa cổ) làm như không biết, làm như không thấy, lờ đi (một câu chửi...)
-*  nội động từ
-- che giấu động cơ, giấu giếm ý định
-- giả vờ, giả trá, giả đạo đức
+polisher
+	
+*  danh từ
+- người đánh bóng; dụng cụ đánh bóng
+@Chuyên ngành kinh tế
+-máy làm bóng kiểu thùng quay
+-máy ly tâm làm trong mỡ
+@Chuyên ngành kỹ thuật
+-dụng cụ đánh bóng
+-máy đánh bóng
+-máy mài bóng (dụng cụ mài thủy tinh)
+-thợ đánh bóng
+

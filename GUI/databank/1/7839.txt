@@ -1,5 +1,22 @@
-capelin	
-@capelin
-* danh từ
-- cũng caplin
-- (động vật) cá ốt vảy nhỏ
+prism
+	
+*  danh từ
+- lăng trụ
+=oblique prism
++ lăng trụ xiên
+=regular prism
++ lăng trụ đều
+=right prism
++ lăng trụ thẳng
+- lăng kính
+- (số nhiều) các màu sắc lăng kính
+@Chuyên ngành kỹ thuật
+-hình lăng trụ
+-khối chữ V
+-lăng kính
+-lăng trụ
+@Lĩnh vực: y học
+-lăng trụ, lăng kính
+@Lĩnh vực: xây dựng
+-nền đường (sắt)
+

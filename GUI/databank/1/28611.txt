@@ -1,14 +1,20 @@
-ingredient	
-@ingredient /in'gri:djənt/
-*  danh từ
-- phần hợp thành, thành phần
-@Chuyên ngành kinh tế
--cấu thành
--thành phần
+torpedo
+	
+*  danh từ,  số nhiều torpedoes
+- (động vật học) cá đuối điện
+- ngư lôi
+=aerial torpedo
++ ngư lôi phóng từ máy bay
+- (ngành đường sắt) pháo hiệu
+*  ngoại động từ
+- phóng ngư lôi, đánh đắm bằng ngư lôi
+- (nghĩa bóng) làm tê liệt; phá hoai, phá huỷ, tiêu diệt
+=to torpedo an agreement
++ phá hoại một hiệp định
 @Chuyên ngành kỹ thuật
--bộ phận
--chất độn
--hợp phần
--thành phần
-@Lĩnh vực: hóa học & vật liệu
--cấu tử
+-đột lỗ bằng chất nổ
+-ngư lôi
+@Lĩnh vực: giao thông & vận tải
+-pháo hiệu
+-pháo hiệu phòng vệ
+

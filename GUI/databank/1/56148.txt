@@ -1,3 +1,31 @@
-tetanize	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--gây co cứng cơ
+stencil
+	
+*  danh từ
+- khuôn tô (khuôn chữ, khuôn hoa, khuôn hình trang trí, dùng khi bôi màu, sơn... để in hình xuống vật để bên dưới) ((cũng) stencil  plate)
+- hình tô bằng khuôn tô
+- giấy nến, giấy xtăngxin
+*  ngoại động từ
+- tô bằng khuôn tô
+- in bằng giấy nến
+@Chuyên ngành kinh tế
+-giấy nến (giấy stăng 
+-xin, để quay rô 
+-nê
+-ôl)
+-giấy nến (giấy xtăng
+-xin, để quay rô
+-nê
+-ô)
+@Chuyên ngành kỹ thuật
+-cỡ
+-dưỡng
+-giấy nến
+-khuôn
+-khuôn chữ đúc
+-khuôn thủng
+-mẫu
+@Lĩnh vực: toán & tin
+-giấy stencil
+@Lĩnh vực: xây dựng
+-tô khuôn
+

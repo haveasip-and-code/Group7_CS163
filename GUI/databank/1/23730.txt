@@ -1,8 +1,6 @@
-glyph	
-@glyph
-* danh từ
-- nét chạm (chạm; khắc)
-- trang trí chạm
-@Chuyên ngành kỹ thuật
--nét khắc
--nét trạm
+cleanness
+	
+*  danh từ
+- sự sạch sẽ
+- sự trong sạch
+

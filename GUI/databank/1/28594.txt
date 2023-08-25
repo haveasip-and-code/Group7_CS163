@@ -1,11 +1,6 @@
-ingestion	
-@ingestion /in'dʤestʃn/
-*  danh từ
-- sự ăn vào bụng
-@Chuyên ngành kinh tế
--sự ăn uống
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--sự ăn uống
-@Lĩnh vực: y học
--sự ăn vào
+tautly
+	
+*  phó từ
+- căng thẳng
+- sẵn sàng (hành động)
+

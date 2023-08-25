@@ -1,6 +1,5 @@
-prudence	@prudence /prudence/
-*  danh từ
-- sự thận trọng, sự cẩn thận; tính thận trọng, tính cẩn thận
-- sự khôn ngoan; tính khôn ngoan
-@Chuyên ngành kỹ thuật
--thận trọng
+nosiness
+	
+* danh từ
+- tính hay tò mò, tính thọc mạch
+

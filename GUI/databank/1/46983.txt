@@ -1,3 +1,32 @@
-repurify	@Chuyên ngành kinh tế
--làm sạch lại
--sàng lại
+consult
+	
+*  ngoại động từ
+- hỏi ý kiến, thỉnh thị, thăm dò
+=to consult a lawyer
++ hỏi ý kiến luật sư
+- tra cứu, tham khảo
+=to consult a dictionary
++ tra (cứu) tự điển
+=to consult a map
++ coi bản đồ
+=to consult history
++ tra cứu lịch sử, tham khảo lịch sử
+- quan tâm, để ý, lưu ý, nghĩ đến
+=to consult common interests
++ nghĩ đến quyền lợi chung
+=to consult someone's feelings
++ lưu ý đến tình cảm của ai
+*  nội động từ
+- bàn bạc, thảo luận, trao đổi ý kiến, hội ý
+=to consult together
++ thảo luận bàn bạc với nhau
+=we have consulted about the matter
++ chúng tôi đã hội ý với nhau về việc ấy
+!to consult one's pillow
+- nằm vắt tay lên trán mà suy nghĩ
+@Chuyên ngành kinh tế
+-hỏi ý kiến
+-tham khảo
+-thỉnh thị
+-tra cứu
+

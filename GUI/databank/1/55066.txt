@@ -1,13 +1,97 @@
-swirling	@swirling
-* tính từ
-- có xoáy; xoáy tít
-* danh từ
-- sự tạo thành xoáy
+stroke
+	
+*  danh từ
+- cú, cú đánh, đòn
+=to receive 20 strokes
++ bị đòn
+=stroke of sword
++ một nhát gươm
+=killed by a stroke of lightning
++ bị sét đánh chết
+=finishing stroke
++ đòn kết liễu
+- (y học) đột quỵ
+=a stroke of apoplexy
++ đột quỵ ngập máu
+- sự cố gắng
+=he has not done a stroke of work
++ nó không gắng làm một tí việc gì cả
+=to row a fast stroke
++ chèo nhanh
+- nước bài, nước đi, "cú" , "miếng" , "đòn" ; sự thành công lớn
+=to invent a new stroke in cricket
++ phát minh ra một "cú" mới cong crickê
+=a stroke of genius
++ một ý kiến độc đáo
+=a stroke of business
++ sự buôn may bán lời; một món phát tài
+=a stroke of luck
++ dịp may bất ngờ
+- lối bơi, kiểu bơi
+- nét (bút)
+=up stroke
++ nép lên
+=down stroke
++ nét xuống
+=to portray with a few strokes
++ vẽ bằng một vài nét
+=I could do it with a stroke of the pen
++ tôi chỉ gạch một nét bút là xong việc ấy
+=finishing strokes
++ những nét sửa sang cuối cùng, những nét trau chuốt cuối cùng
+- tiếng chuông đồng hồ
+=it is on the stroke of nine
++ đồng hồ đánh chín giờ
+=to arrive on the stroke [of time]
++ đến đúng giờ
+- tiếng đập của trái tim
+- người đứng lái làm chịch (ở cuối thuyền) ((cũng) stroke oar (hiếm))
+- cái vuốt ve; sự vuốt ve
+*  ngoại động từ
+- đứng lái (để làm chịch)
+- vuốt ve
+!to stroke somebody down
+- làm ai nguôi giận
+!to stroke somebody ['s hair] the wrong way
+- làm ai phát cáu
 @Chuyên ngành kinh tế
--sự nhào trộn
+-sự chuyển vận của sàng
 @Chuyên ngành kỹ thuật
--dòng xoáy
--sự tạo xoáy
--sự xoáy
+-bước
+-độ di chuyển
+-độ lệch
+-đường đi
+-gõ
+-hành trình
+-khoảng chạy
+-khoảng hở bàn ép
+-kỳ (động cơ đốt trong)
+-nét chữ
+-nét gạch
+-nét kẻ
+-nét ký tự
+-nhấn
+-sự va đập
+-vết giũa
 @Lĩnh vực: xây dựng
--sự chảy xoáy
+-bước công việc
+-đường gạch
+-đường nét (bút)
+-hành trình công việc
+-khoảng nâng
+-tiến trình công việc
+@Lĩnh vực: ô tô
+-chu kỳ
+-khoảng chạy piton
+-kì
+-thay đổi khoảng chạy
+@Lĩnh vực: điện lạnh
+-cú gõ
+@Lĩnh vực: y học
+-đột qụy
+@Lĩnh vực: hóa học & vật liệu
+-hành trình (pittong)
+@Lĩnh vực: toán & tin
+-nét (font)
+-sự gõ (phím)
+

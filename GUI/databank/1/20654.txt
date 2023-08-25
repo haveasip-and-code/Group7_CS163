@@ -1,10 +1,6 @@
-feedstock	
-@feedstock
+watchmen
+	
 * danh từ
-- nguyên liệu cấp cho máy để chế biến
-@Chuyên ngành kinh tế
--nguyên liệu cơ bản
-@Chuyên ngành kỹ thuật
--vật liệu cung cấp cho máy
-@Chuyên ngành kỹ thuật
--vật liệu cung cấp cho máy
+- nhân viên bảo vệ (cơ quan, nhà máy, ngân hàng...nhất là vào ban đêm)
+- <cổ> trương tuần
+

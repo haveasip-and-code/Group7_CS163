@@ -1,7 +1,22 @@
-bulbar	
-@bulbar
-* tính từ
-- thuộc hành
+electrify
+	
+*  ngoại động từ
+- cho nhiễm điện
+- cho điện giật
+- điện khí hoá
+- (nghĩa bóng) làm giật nảy người, kích thích
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc hành
+-nhiễm điện
+@Lĩnh vực: xây dựng
+-bắt điện
+-truyền điện
+@Lĩnh vực: toán & tin
+-điện khí hóa
+@Chuyên ngành kỹ thuật
+-nhiễm điện
+@Lĩnh vực: xây dựng
+-bắt điện
+-truyền điện
+@Lĩnh vực: toán & tin
+-điện khí hóa
+

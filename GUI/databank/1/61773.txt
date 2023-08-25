@@ -1,52 +1,5 @@
-view	@view /vju:/
-*  danh từ
-- sự nhìn, sự thấy, tầm nhìn, tầm mắt
-=to go out of view+ đi khuất không nhìn thấy được nữa
-=hidden from view+ bị che khuất
-=to come in view+ hiện ra trước mắt
-=to keep in view+ không rời mắt, theo sát; trông nom săn sóc đến, để ý luôn luôn đến
-- cái nhìn thấy, cảnh, quang cảnh
-=this room has a fine view+ ở phòng này nhìn ra phong cảnh đẹp
-=panoramic view of the town+ toàn cảnh của thành phố
-- dịp được xem, cơ hội được thấy
-=private view+ cuộc trưng bày (tranh...) dành riêng cho bạn bè và các nhà phê bình
-- quan điểm, nhận xét, ý kiến, cách nhìn
-=to form a clear view of the facts+ có cách nhìn rõ ràng các sự việc
-=to hold advanced views+ có những quan điểm tiên tiến
-=to share someone's views+ cùng quan điểm với ai
-=to have opposite views+ có những ý kiến đối lập nhau
-=point of view+ quan điểm
-=political view+ chính kiến
-=in view of+ xét thấy, vì lý do, bởi, vì
-- dự kiến, ý định
-=to have something in view+ dự kiến một việc gì
-=to have other views for+ có những dự kiến khác đối với
-=with a view to; with the view of+ với ý định
-=with this in view+ với ý định này
-- (pháp lý) sự khám xét tại chỗ, sự thẩm tra tại chỗ
-*  ngoại động từ
-- thấy, nhìn, xem, quan sát
-- nhìn, xét, nghĩ về
-=to view a matter from one's standpoint+ nhìn vấn đề theo quan điểm của mình
-@Chuyên ngành kỹ thuật
--cái nhìn
--cái nhìn, tổng quan
--dạng
--hiển thị
--hình chiếu
--hình dạng
--hình vẽ
--kiểu
--loại
--nhìn
--phép chiếu
--quan sát
--quang cảnh
--sự nhìn
--xem
-@Lĩnh vực: toán & tin
--cảnh nhìn
--dạng nhìn
--khung nhìn
-@Lĩnh vực: xây dựng
--hình (dáng)
+roturier
+	
+* danh từ
+- người bình dân, người thứ dân
+

@@ -1,8 +1,12 @@
-prohibitive	@prohibitive /prohibitive/
+isolable
+	
 *  tính từ
-- cấm, cấm chỉ; để ngăn cấm (việc dùng hoặc mua cái gì)
-=prohibitive prices+ giá rất đắt để ngăn cấm (việc dùng hoặc mua cái gì)
-=prohibitive tax+ thuế rất cao để ngăn cấm (việc dùng hoặc mua cái gì)
-@Chuyên ngành kinh tế
--cấm
--cấm chỉ
+- có thể cô lập được
+- (y học) có thể cách ly được
+- (điện học) có thể cách
+- (hoá học) có thể tách ra
+@Chuyên ngành kỹ thuật
+-tách được
+@Lĩnh vực: hóa học & vật liệu
+-cách ly được
+

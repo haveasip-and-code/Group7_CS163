@@ -1,8 +1,5 @@
-hearsay	
-@hearsay /'hiəsei/
-*  danh từ
-- tin đồn, lời đồn=to have something by hearsay
-+ biết cái gì do nghe đồn
-*  định ngữ
-- dựa vào tin đồn, do nghe đồn=hearsay evidence
-+ chứng cớ dựa vào lời nghe đồn
+volatilizable
+	
+*  tính từ
+- có thể bay hơi
+

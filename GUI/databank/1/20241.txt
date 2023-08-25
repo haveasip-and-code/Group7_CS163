@@ -1,15 +1,5 @@
-facilitation	
-@facilitation
-* danh từ
-- sự tạo điều kiện thuận lợi
-@Chuyên ngành kinh tế
--sự giản hóa
--sự làm cho tiện lợi
--sự tạo điều kiện thuận lợi
--sự thuận lợi hóa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--trạng thái thuận lợi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--trạng thái thuận lợi
+readdress
+	
+*  ngoại động từ
+- thay địa chỉ, đề địa chỉ mới để chuyển tiếp (một bức thư vì người nhận thư đã đổi chỗ ở...)
+

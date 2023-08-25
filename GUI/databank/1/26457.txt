@@ -1,8 +1,10 @@
-hunk	
-@hunk /hʌɳk/
+xylograph
+	
 *  danh từ
-- miếng to, khúc to, khoanh to (bánh, thịt...)=a hunk of bread
-+ một khoanh bánh mì to
-@Chuyên ngành kinh tế
--khúc to
--miếng to
+- bản khắc gỗ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-họa tiết bằng gỗ
+-họa tiết gỗ
+-tranh khắc gỗ
+

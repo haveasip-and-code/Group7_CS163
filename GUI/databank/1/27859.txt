@@ -1,4 +1,35 @@
-incommutable	
-@incommutable
-* tính từ
-- không thể thay thế, không thể thay đổi cho nhau
+surveyor
+	
+*  danh từ
+- viên thanh tra, người kiểm sát
+- (từ Mỹ,nghĩa Mỹ) nhân viên thuế quan (chuyên kiểm sát số lượng và giá trị hàng nhập)
+- người chuyên vẽ bản đồ địa hình
+@Chuyên ngành kinh tế
+-chuyên viên đồ bản
+-giám định viên
+-giám sát viên
+-hãng công chứng
+-người công chứng
+-người đo đạc ruộng đất
+-người đo vẽ địa hình
+-nhà đo vẽ địa hình
+-nhân viên đo đạc
+-nhân viên đo đạc nhà
+-nhân viên đo đạc ruộng đất
+@Chuyên ngành kỹ thuật
+-người đạc điền
+-người khảo sát
+-người quan trắc
+-người thăm dò
+-trắc địa viên
+@Lĩnh vực: xây dựng
+-cán bộ trắc địa
+-thanh tra nhà nước
+@Lĩnh vực: điện
+-giám định viên
+@Lĩnh vực: đo lường & điều khiển
+-người đo vẽ
+-người thanh tra
+@Lĩnh vực: giao thông & vận tải
+-nhân viên khảo sát
+

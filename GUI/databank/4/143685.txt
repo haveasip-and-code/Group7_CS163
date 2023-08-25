@@ -1,0 +1,3 @@
+Peer Guardian
+[p2p] IP blocker. Helps you keep your privacy while using a p2p client (file sharing program like kazaa,limewire,enule etc). Blocks all unwanted IPs from reaching your computer (ads,spyware,trojans,anti-p2p organizations,goverment organizations etc)Peer Guardian also lets you customize 'black-lists' of IPs you want to block. ; The program is mainly used by people who don't want to get caught downloading illegaly or people who don't want to catch a computer virus while downloading software.
+

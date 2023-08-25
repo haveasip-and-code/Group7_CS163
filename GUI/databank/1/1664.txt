@@ -1,9 +1,5 @@
-alpaca	
-@alpaca /æl'pækə/
-*  danh từ
-- (động vật học) Anpaca (động vật thuộc loại lạc đà không bướu ở Nam Mỹ)
-- lông len anpaca
-- vải anpaca (làm bằng lông len anpaca)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--vải hay lông len anpaca
+iontophoresis
+	
+@Lĩnh vực: y học
+-điện chuyển iôn
+

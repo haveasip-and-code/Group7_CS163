@@ -1,0 +1,3 @@
+Seeder
+A seeder is a person/client which has a complete file to share with the others users. ; Seeding is the process of connecting to a torrent when you have a complete file
+

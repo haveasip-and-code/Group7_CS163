@@ -1,10 +1,6 @@
-defend	
-@defend /di'fend/
-*  ngoại động từ
-- che chở, bảo vệ, phòng thủ, chống giữ=to defend somebody against something
-+ bảo vệ ai khỏi bị vật gì làm hại
-- biện hộ, bào chữa, cãi cho (ai)
-*  nội động từ
-- là luật sư bào chữa
-@Chuyên ngành kỹ thuật
--đề phòng
+defier
+	
+*  danh từ
+- người thách thức
+- người không tuân theo, người coi thường (luật pháp...)
+

@@ -1,9 +1,10 @@
-precondition	@precondition
-* danh từ
-- điều kiện quyết định trước hết; điều kiện tiên quyết (như) prerequisite
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: đo lường & điều khiển
--đặt điều kiện trước
-@Lĩnh vực: toán & tin
--điều kiện trước
--điều kiện trước hết
+condemnation
+	
+*  danh từ
+- sự kết án, sự kết tội, sự xử phạt
+- sự chỉ trích, sự chê trách, sự lên án, sự quy tội
+- lý do để lên án
+@Chuyên ngành kinh tế
+-định tội
+-sự kết án
+

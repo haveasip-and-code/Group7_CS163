@@ -1,6 +1,7 @@
-osculum	@osculum
-* danh từ
-- số nhiều oscula
-- lổ; lổ thoát
-@Chuyên ngành kỹ thuật
--miệng
+consumables
+	
+*  danh từ số nhiều
+- những thứ có thể tiêu dùng
+@Chuyên ngành kinh tế
+-hàng tiêu dùng
+

@@ -1,12 +1,5 @@
-lifeline	@Chuyên ngành kỹ thuật
--cáp bảo hiểm
-@Lĩnh vực: xây dựng
--dây bảo hiểm
-@Lĩnh vực: giao thông & vận tải
--dây cứu sinh
-@Chuyên ngành kỹ thuật
--cáp bảo hiểm
-@Lĩnh vực: xây dựng
--dây bảo hiểm
-@Lĩnh vực: giao thông & vận tải
--dây cứu sinh
+challis
+	
+* danh từ
+- vải nhẹ, mềm bằng vải, len, sợi hoá học
+

@@ -1,45 +1,5 @@
-taste	@taste /teist/
-*  danh từ
-- vị
-=sweet taste+ vị ngọt
-=to have no taste+ không có vị, nhạt (rượu)
-- vị giác
-- sự nếm; sự nếm mùi, sự thưởng thức, sự trải qua, sự hưởng
-=he got a taste of her tantrum+ anh ấy đã được biết cái cơn tam bành của mụ ta
-- một chút (đồ ăn)
-=a taste of sugar+ một chút đường
-- sở thích, thị hiếu
-=to have a taste for music+ thích nhạc
-=matter of taste+ vấn đề sở thích, vấn đề thị hiếu
-=everyone to his taste+ tuỳ sở thích riêng của mỗi người
-=to add salt to taste+ thêm muối theo sở thích
-- khiếu thẩm mỹ
-=a man of taste+ người có khiếu thẩm mỹ
-*  ngoại động từ
-- nếm
-=to taste sugar+ nếm đường
-- nếm mùi, thưởng thức, hưởng
-=to taste the joy of freedom+ hưởng niềm vui sướng của tự do
-- ăn uống ít, ăn uống qua loa, nhấm nháp
-=the sick boy hadn't tasted food for three days+ em bé ốm đã ba ngày không ăn tí gì
-*  nội động từ
-- có vị
-=to taste bitter+ có vị đắng
-=the sweets taste of mint+ kẹo này vị bạc hà
-- (nghĩa bóng) nếm mùi, biết mùi, hưởng, trải qua
-=to taste of happiness+ hưởng hạnh phúc
-@Chuyên ngành kinh tế
--dư vị
--sở thích
--thị hiếu
--thị hiếu, sở thích
--thử nếm
--vị
--vị giác
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thị hiếu
-@Lĩnh vực: hóa học & vật liệu
--vị
-@Lĩnh vực: y học
--vi giác
+disseminule
+	
+* danh từ
+- (thực vật) thể phát tán; bào tử phát tán; hạt gieo vãi; hạt phát tán
+

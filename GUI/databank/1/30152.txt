@@ -1,3 +1,8 @@
-isospin	
-@Chuyên ngành kỹ thuật
--spin đồng vị
+sterilized
+	
+@Lĩnh vực: thực phẩm
+-đã tiệt trùng
+-đã vô trùng
+-được tiệt trùng
+-được vô trùng
+

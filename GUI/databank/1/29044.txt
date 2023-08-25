@@ -1,8 +1,10 @@
-instrumentality	
-@instrumentality /,instrumen'tæliti/
+transcriber
+	
 *  danh từ
-- tính chất dụng cụ; tính chất công cụ
-- phương tiện=by the instrumentality of
-+ bằng phương tiện, thông qua
-@Chuyên ngành kinh tế
--cơ quan phát hành công cụ
+- người sao lại, người chép lại
+- (âm nhạc) người chuyển biên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thiết bị chép lại
+-thiết bị sao chép
+

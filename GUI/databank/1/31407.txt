@@ -1,8 +1,4 @@
-laminations	@Chuyên ngành kỹ thuật
--lá mỏng
-@Lĩnh vực: điện
--sự dát mỏng
-@Chuyên ngành kỹ thuật
--lá mỏng
-@Lĩnh vực: điện
--sự dát mỏng
+journeyer
+	
+- xem journey
+

@@ -1,3 +1,70 @@
-adjuror	
-@adjuror
-- xem adjure
+span
+	
+*  thời quá khứ (từ cổ,nghĩa cổ) của spin
+*  danh từ
+- gang tay
+- chiều dài (từ đầu này đến đầu kia)
+=span of a bridge
++ chiều dài của một cái cầu
+=the whole span of Roman history
++ toàn bộ lịch sử La mã
+- nhịp cầu
+=a bridge of four spans
++ cầu bốn nhịp
+- khoảng cách ngắn; khoảng thời gian ngắn
+=our life is but a span
++ cuộc đời chúng ta ngắn chẳng tày gang
+- nhà ươm cây ((có) hai mái
+- cặp (bò, ngựa, lừa...)
+- (hàng không) sải cánh (của máy bay)
+- (hàng hải) nút thòng lọng
+*  ngoại động từ
+- băng qua, bắc qua (một con sông)
+- bắc cầu (qua sông)
+- nối (từ giai đoạn này sang giai đoạn khác) (trí nhớ...)
+=his life spans nearly the whole century
++ ông ấy sống gần một thế kỷ
+- đo sải, đo bằng gang tay
+- (hàng hải) buộc (cột buồm...) bằng dây chão
+*  nội động từ
+- di chuyển theo lối sâu đo
+@Chuyên ngành kỹ thuật
+-băng
+-bề rộng
+-biên độ
+-bước cột
+-dải
+-gian
+-giãn
+-kết cấu nhịp
+-khẩu độ
+-khẩu độ cầu
+-khoảng cách
+-khoảng vượt
+-nhịp
+-nhịp (cầu)
+-nhịp cầu
+-mảnh
+-mảnh vỡ
+-mảnh vụn
+-miền
+-quãng vượt
+@Lĩnh vực: cơ khí & công trình
+-bắc qua
+-căng dây
+-dây cung (toán)
+-độ nở (chìa vặn)
+@Lĩnh vực: đo lường & điều khiển
+-gang tay
+@Lĩnh vực: vật lý
+-khoảng (mặt mang)
+@Lĩnh vực: xây dựng
+-khoảng cách giữa cột
+-sải nhịp
+@Lĩnh vực: giao thông & vận tải
+-sải cánh
+@Lĩnh vực: điện lạnh
+-tắm
+@Lĩnh vực: toán & tin
+-vùng
+

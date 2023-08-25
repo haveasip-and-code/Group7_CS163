@@ -1,5 +1,43 @@
-desulfurize	
+halt
+	
+*  danh từ
+- sự tạm nghỉ, sự tạm dừng lại (trong lúc đang đi...)
+=to come to a halt
++ tạm dừng lại
+=to call a halt
++ ra lệnh ngừng lại
+- (ngành đường sắt) ga xép
+*  nội động từ
+- dừng chân, nghỉ chân
+*  ngoại động từ
+- cho dừng lại; bắt dừng lại
+*  danh từ
+- (từ cổ,nghĩa cổ) sự đi khập khiễng, sự đi tập tễnh
+*  nội động từ
+- (từ cổ,nghĩa cổ) đi khập khiễng, đi tập tễnh
+- đi ngập ngừng
+- ngập ngừng, lưỡng lự, do dự
+=to halt between two opinions
++ lưỡng lự giữa hai ý kiến
+- què quặt, không chỉnh (lý luận, của thơ...)
+*  tính từ
+- (từ cổ,nghĩa cổ) què, khập khểnh, tập tễnh
 @Chuyên ngành kỹ thuật
--khử lưu huỳnh
--loại lưu huỳnh
--tách lưu huỳnh
+-bến dừng
+-bến tàu
+-dừng
+-gác máy
+-sự dừng
+-sự dừng lại
+-sự ngừng lại
+-sự treo
+-trạm
+@Lĩnh vực: giao thông & vận tải
+-bến xe
+-thời gian dừng
+-trạm dừng
+@Lĩnh vực: xây dựng
+-ga xép
+@Lĩnh vực: toán & tin
+-tạm dừng
+

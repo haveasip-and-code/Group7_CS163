@@ -1,7 +1,12 @@
-correctable	
-@correctable
-- xem correct
+mar
+	
+*  ngoại động từ
+- làm hư, làm hỏng, làm hại
+=to make or mar
++ một là làm cho thành công, hai là làm cho thất bại
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có thể hiệu chỉnh
--có thể sửa
+-làm xây xát
+-làm xước
+-sự hư hỏng
+-vết xước
+

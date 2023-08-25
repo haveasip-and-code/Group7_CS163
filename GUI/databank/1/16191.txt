@@ -1,19 +1,10 @@
-distress	
-@distress /dis'tres/
+tael
+	
 *  danh từ
-- nỗi đau buồn, nỗi đau khổ, nỗi đau đớn
-- cảnh khốn cùng, cảnh túng quẫn, cảnh gieo neo
-- tai hoạ, cảnh hiểm nghèo, cảnh hiểm nguy=a signal of distress
-+ tín hiệu báo lâm nguy
-- tình trạng kiệt sức, tình trạng mệt lả, tình trạng mệt đứt hơi
-- (pháp lý) sự tịch biên
-*  ngoại động từ
-- làm đau buồn, làm đau khổ, làm đau đớn
-- làm lo âu, làm lo lắng
-- bắt chịu gian nan, bắt chịu khốn khổ
-- làm kiệt sức
+- lạng (đơn vị trọng lượng của Trung quốc)
+=a tael of gold
++ một lạng vàng
 @Chuyên ngành kinh tế
--cảnh hiểm nghèo
--sự tịch biên
--tai họa
--tai nạn
+-lạng
+-lượng (vàng)
+

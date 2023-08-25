@@ -1,26 +1,7 @@
-injector	
-@injector /in'dʤektə/
-*  danh từ
-- người tiêm
-- cái để tiêm
-- (kỹ thuật) máy phun, vòi phun
-@Chuyên ngành kinh tế
--dụng cụ để tiêm
--máy phun
--vòi phun
-@Chuyên ngành kỹ thuật
--bộ phun
--bơm phun
--bơm phun hơi nước
--bơm phụt
--kim phun
--máy bơm
--máy bơm tia
--máy nén
--máy phun
--máy quạt gió
--máy tăng áp
--miệng phun
--ống phụt
--thiết bị phun
--vòi phun
+frontless
+	
+*  tính từ
+- không có mặt trước
+- (quân sự) không có mặt trận
+- (từ hiếm,nghĩa hiếm) trơ tráo, trơ trẽn
+

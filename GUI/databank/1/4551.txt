@@ -1,5 +1,7 @@
-ballista	
-@ballista
-* danh từ
-- số nhiều ballistae
-- (quân sự) máy ném đá
+undoable
+	
+*  tính từ
+- không thể tháo, không thể cởi, không thể mở
+- không thể xoá, không thể huỷ
+- không thể phá hoại, không thể làm hư hỏng
+

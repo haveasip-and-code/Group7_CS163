@@ -1,8 +1,5 @@
-sequel	@sequel /'si:kwəl/
-*  danh từ
-- sự tiếp tục; đoạn tiếp, cuốn tiếp theo (tiểu thuyết...)
-=this book is the sequel to (of) the author's last novel+ cuốn này là cuốn tiếp theo cuốn tiểu thuyết sau cùng của tác giả
-- hậu quả, ảnh hưởng
-- kết quả; kết luận, sự suy diễn lôgic
-!in the sequel
-- như tình hình diễn biến sau đó
+allergist
+	
+@Lĩnh vực: y học
+-bác sĩ chuyên khoa dị ứng
+

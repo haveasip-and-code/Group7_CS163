@@ -1,18 +1,5 @@
-denudation	
-@denudation /,di:nju:'deiʃn/
-*  danh từ
-- sự lột trần (quần áo, vỏ ngoài...); tình trạng trần trụi, tình trạng bị bóc vỏ, tình trạng trụi lá
-- sự tước đoạt, sự lấy đi
-- (địa lý,địa chất) sự bóc mòn
-@Chuyên ngành kỹ thuật
--giải hấp
--lớp phủ bị mất
--sự bóc mòn
-@Lĩnh vực: hóa học & vật liệu
--bóc trụi
-@Lĩnh vực: y học
--sự tách trần
-@Lĩnh vực: xây dựng
--sự tróc bụi
-@Lĩnh vực: cơ khí & công trình
--sự xói trọc
+stationmaster
+	
+* danh từ
+- trưởng ga
+

@@ -1,7 +1,42 @@
-chorography	
-@chorography /kə'rɔgrəfi/
-*  danh từ
-- địa chí
+narrow
+	
+*  tính từ
+- hẹp, chật hẹp, eo hẹp
+=a narrow strêt
++ một phố hẹp
+=within narrow bounds
++ trong phạm vi chật hẹp
+- hẹp hòi, nhỏ nhen
+=narrow mind
++ trí óc hẹp hòi nhỏ nhen
+- kỹ lưỡng, tỉ mỉ
+=a narrow examination
++ sự xem xét kỹ lưỡng
+!to have a narrow escape
+- (xem) escape
+!to have a narrow squeak (shave)
+- (thông tục) may mà thoát được, may mà tránh được
+!narrow victory
+- thắng lợi đạt được một cách khó khăn; sự thắng chật vật
+!narrow majority
+- đa số ít ỏi (số phiếu trong cuộc bầu cử)
+!the narrow bed (home, house)
+- nấm mồ
+*  danh từ,  (thường) số nhiều
+- khúc sông hẹp; đoạn đường phố hẹp; hẽm núi; cửa biển hẹp, cửa sông hẹp
+*  động từ
+- thu hẹp, làm hẹp lại, co lại, rút lại, thành hẹp hòi
 @Chuyên ngành kỹ thuật
+-đèo
+-hẻm núi
+-hẹp
+-khúc sông hẹp
+-thung lũng hẹp
 @Lĩnh vực: xây dựng
--địa chí
+-cửa sông hẹp
+@Lĩnh vực: hóa học & vật liệu
+-khoảng hẹp
+@Lĩnh vực: cơ khí & công trình
+-thau
+-thu hẹp
+

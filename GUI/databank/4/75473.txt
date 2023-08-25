@@ -1,0 +1,3 @@
+abbrev
+Common abbreviation for `abbreviation'.
+

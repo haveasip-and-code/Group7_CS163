@@ -1,2 +1,26 @@
-reimplantation	@Chuyên ngành kỹ thuật
--sự đặt lại
+industry
+	
+*  danh từ
+- công nghiệp
+=heavy industry
++ công nghiệp nặng
+=light industry
++ công nghiệp nhẹ
+- sự chăm chỉ, tính cần cù, tính siêng năng ((cũng) industriousness)
+- ngành kinh doanh; nghề làm ăn
+=tourist industry
++ ngành kinh doanh du lịch
+@Chuyên ngành kinh tế
+-công nghiệp
+-kỹ nghệ
+-ngành công nghiệp
+-ngành nghề
+-nghề (nghiệp)
+-nghề làm ăn (để kiếm tiền)
+-việc kinh doanh
+@Chuyên ngành kỹ thuật
+-ngành công nghiệp
+-ngành kinh doanh / công nghiệp
+@Lĩnh vực: điện
+-công nghệ
+

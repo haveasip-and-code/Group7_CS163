@@ -1,13 +1,21 @@
-etiquette	
-@etiquette /,eti'ket/
-*  danh từ
-- phép xã giao
-- nghi lễ, nghi thức
-- quy ước mặc nhận (của một giới chuyên môn)=medical etiquette
-+ quy ước mặc nhận trong giới y
-@Chuyên ngành kinh tế
--nghi thức
--nghi thức xã giao
--phép xã giao
--quy ước mặc nhận
--quy ước mặc nhận (của một giới nghề nghiệp)
+upon
+	
+*  giới từ
+- trên, ở trên
+=upon the wide sea
++ trên biển rộng
+- lúc, vào lúc, trong khong, trong lúc
+=upon the heavy middle of the night
++ vào đúng nửa đêm
+=upon a long voyage
++ trong cuộc hành trình dài
+- nhờ vào, bằng, nhờ
+=to depend upon someone to live
++ nhờ vào ai mà sống
+- chống lại
+=to draw one's sword upon someone
++ rút gưm ra chống lại ai
+- theo, với
+=upon those terms
++ với những điều kiện đó
+

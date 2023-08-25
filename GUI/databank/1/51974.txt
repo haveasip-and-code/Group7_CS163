@@ -1,52 +1,6 @@
-sort	@sort /sɔ:t/
-*  danh từ
-- thứ, loại, hạng
-=a new sort of bicycle+ một loại xe đạp mới
-=people of every sort and kind+ người đủ hạng
-=these sort of men+ (thông tục) những hạng người đó
-=of sorts+ linh tinh, lẫn lộn (kiểm kê)
-- (từ cổ,nghĩa cổ) kiểu, cách
-=in courteous sort+ kiểu lịch sự lễ phép
-=in some sort+ trong một chừng mực nào đó
-- (ngành in) bộ chữ
-!a poet of a sort
-!(thông tục) a poet of sorts
-- một nhà thơ giả hiệu
-!to be a good sort
-- là một người tốt
-!to be out of sorts
-- thấy khó chịu, thấy khó ở, bực tức
-- (ngành in) thiếu bộ chữ
-!sort of
-- (thông tục) phần nào
-=I felt sort of tired+ tôi cảm thấy phần nào mệt mỏi
-!that's your sort!
-- đúng là phải làm như thế!
-*  ngoại động từ
-- lựa chọn, sắp xếp, phân loại
-=to sort out those of the largest size+ chọn loại lớn nhất ra
-=to sort ore+ tuyển quặng
-*  nội động từ
-- (từ cổ,nghĩa cổ) phù hợp, thích hợp
-=his actions sort well with his profession+ những hành động của anh ta rất phù hợp với nghề nghiệp của anh ta
-@Chuyên ngành kinh tế
--chất lượng
--dạng
--hạng
--loại
--lựa chọn
--phân loại
--thứ
-@Chuyên ngành kỹ thuật
--hạng
--loại
--lựa chọn
--phân loại
--sắp xếp
--so lựa
--sự sắp xếp
--sự so lựa
-@Lĩnh vực: toán & tin
--sắp xếp, phân loại
-@Lĩnh vực: điện lạnh
--thứ
+milieu
+	
+* danh từ
+- số nhiều là milieux
+- môi trường, hoàn cảnh
+

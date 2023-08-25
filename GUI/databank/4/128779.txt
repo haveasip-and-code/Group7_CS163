@@ -1,0 +1,3 @@
+foxytunes
+A media player controller extension for [FireFox]. ; Foxytunes controls many media players from within the browser window, meaning you don't have to switch over to your player in order to skip tracks, adjust volume etc. ; Can be skinned to match your Firefox skin, but there are fewer skins for Foxytunes than for Firefox, so it doesn't always work.
+

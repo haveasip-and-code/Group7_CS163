@@ -1,4 +1,5 @@
-banderilla	
-@banderilla
+microcircuit
+	
 * danh từ
-- cái lao (dùng trong cuộc đấu bò rừng)
+- mạch điện trong một mạch vi xử lý
+

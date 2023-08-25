@@ -1,12 +1,15 @@
-peripheral	@peripheral /pə'rifərəl/
+ambiguous
+	
 *  tính từ
-- (thuộc) chu vi
-- (thuộc) ngoại vi, (thuộc) ngoại biên
+- tối nghĩa
+- không rõ ràng, mơ hồ; nước đôi, nhập nhằng
+=ambiguous case
++ trường hợp nhập nhằng
 @Chuyên ngành kỹ thuật
--biên
--ngoại biên
--ngoài cùng
--ngoại vi
--thiết bị ngoại vi
-@Lĩnh vực: y học
--thuộc ngoại vi, thuộc ngoài biên
+-không xác định
+-nhập nhằng
+@Lĩnh vực: điện lạnh
+-không đơn trị
+@Lĩnh vực: xây dựng
+-tối nghĩa
+

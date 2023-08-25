@@ -1,0 +1,3 @@
+Rambus
+A bus for the 'special' ram. ; Like a short bus
+

@@ -1,11 +1,13 @@
-capitalization	
-@capitalization /kə,pitəlai'zeiʃn/
-*  danh từ
-- sự tư bản hoá, sự dùng làm vốn
-- sự viết bằng chữ hoa, sự in bằng chữ hoa
-- (nghĩa bóng) sự lợi dụng
-@Chuyên ngành kinh tế
--chuyển thành vốn
--cổ phần hóa
--sự vốn hóa
--vốn hóa
+recreate
+	
+*  ngoại động từ
+- làm giải khuây
+=it recreates him to play chess with his neighbours
++ đánh cờ với các người láng giếng làm anh ta giải khuây
+=to recreate oneself
++ giải lao, giải trí, tiêu khiển
+@Chuyên ngành kỹ thuật
+-tạo lại
+@Lĩnh vực: toán & tin
+-khôi phục lại
+

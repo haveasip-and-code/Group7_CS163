@@ -1,22 +1,5 @@
-facsimile	
-@facsimile /fæk'simili/
-*  danh từ
-- bản sao, bản chép=reproduced in facsimile
-+ sao thật đúng, chép thật đúng
-*  ngoại động từ
-- sao, chép
-@Chuyên ngành kinh tế
--bản sao chụp
--bản sao mẫu
--bản sao từ fax
--mẫu sao lại
--sự chụp lại
--sự sao lại
-@Chuyên ngành kỹ thuật
--fax
-@Lĩnh vực: xây dựng
--sao y nguyên
-@Chuyên ngành kỹ thuật
--fax
-@Lĩnh vực: xây dựng
--sao y nguyên
+unenterprising
+	
+*  tính từ
+- không dám làm, không có gan làm (việc gì)
+

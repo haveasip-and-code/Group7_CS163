@@ -1,0 +1,3 @@
+rhythmbox
+A music manager program for [Gnome] that was inspired by Apple's [iTunes]. It supports organizing, searching, and listening to music on a [Linux] hard drive. Recently, it added listening support for music on an [iPod], and listening to internet radio.
+

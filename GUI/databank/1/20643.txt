@@ -1,29 +1,29 @@
-fee	
-@fee /fi:/
+bin
+	
 *  danh từ
-- tiền thù lao; tiền thưởng (người hầu...)
-- tiền nguyệt liễm; học phí
-- gia sản
-- (sử học) lânh địa, thái ấp!to hold in fee
-- có, có quyền sở hữu
-*  ngoại động từ feed
-- trả tiền thù lao cho (ai)
-- đóng nguyệt phí
-- thuê (ai) giúp việc
+- thùng
+- túi vải bạt (để hái hoa bia)
+- thùng đựng rượu, rượu thùng
 @Chuyên ngành kinh tế
--lệ phí
--phần đóng góp
--phí
--phí thị thực
--phí thủ tục (cấp giấy tờ)
--thù lao
+-rượu thùng
+-thùng
+-thùng đựng rượu
+-túi
+-vải bạt
 @Chuyên ngành kỹ thuật
--chi phí
--phí
--phí tổn
--thù lao
-@Chuyên ngành kỹ thuật
--chi phí
--phí
--phí tổn
--thù lao
+-gầu
+-kệ bảo quản
+-ngăn
+-phễu
+@Lĩnh vực: xây dựng
+-buke
+-phễu tiếp nhiên liệu
+-thùng đựng
+@Lĩnh vực: cơ khí & công trình
+-gầu rót
+-nồi rót
+-phễu liệu
+@Lĩnh vực: toán & tin
+-hộc
+-tủ (đựng giấy tờ)
+

@@ -1,13 +1,6 @@
-cryogen	
-@cryogen /'kraiədʤin/
-*  danh từ
-- (hoá học) hỗn hợp lạnh, hỗn hợp sinh hàn
-@Chuyên ngành kỹ thuật
--chất làm lạnh cryo
--chất làm lạnh sâu
--chất lỏng cryo
--chất lỏng lạnh sâu
--môi chất lạnh cryo
--môi chất lạnh sâu
-@Lĩnh vực: y học
--chất gây lạnh
+relent
+	
+*  nội động từ
+- bớt nghiêm khắc, trở nên thuần tính, dịu lại
+- mủi lòng, động lòng thương
+

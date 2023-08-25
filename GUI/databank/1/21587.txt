@@ -1,18 +1,11 @@
-fluidity	
-@fluidity /fluidity/
+venue
+	
 *  danh từ
-- trạng thái lỏng
-- tính lỏng; độ lỏng
-- (kỹ thuật) tính lưu động; độ chảy loãng
+- nơi lập toà xử án
+=to change the venue
++ giao vụ án cho toà án khác xử
+- (thông tục) nơi gặp gỡ, nơi hẹn gặp
 @Chuyên ngành kinh tế
--tính lưu động
-@Chuyên ngành kỹ thuật
--độ chảy
--độ lỏng
-@Lĩnh vực: cơ khí & công trình
--độ chảy loãng
--tính lưu động
-@Lĩnh vực: điện
--độ loãng
-@Lĩnh vực: điện lạnh
--tính lưu
+-bãi biển
+-địa điểm
+

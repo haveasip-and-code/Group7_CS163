@@ -1,9 +1,7 @@
-qualifier	@qualifier
-* danh từ
-- <ngôn> từ hạn định
-- người được quyền thi đấu ở vòng sau cuộc thi
+journalism
+	
+*  danh từ
+- nghề làm báo, nghề viết báo
 @Chuyên ngành kỹ thuật
--bộ định tính
--người đủ điều kiện
--người kiểm tra
--người sát hạch
+-ngành báo
+

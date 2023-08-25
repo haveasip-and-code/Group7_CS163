@@ -1,21 +1,5 @@
-tensile	@tensile /'tensail/
-*  tính từ
-- căng dãn ra, có thể căng dãn ra
-@Chuyên ngành kỹ thuật
--bị kéo
--chịu được kéo
--chống được gãy
--có thể căng được
--kéo
--kéo căng
--kéo dài
-@Lĩnh vực: cơ khí & công trình
--bền kéo
--chịu bền
-@Lĩnh vực: xây dựng
--bị căng
-@Lĩnh vực: toán & tin
--căng giãn
-@Lĩnh vực: hóa học & vật liệu
--giãn ra được
--sự căng
+oligomer
+	
+* danh từ
+- (hoá học) Oligome
+

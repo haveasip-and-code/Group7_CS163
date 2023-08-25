@@ -1,0 +1,3 @@
+cpanel
+Small web-basd application used to manage websites. Controls everythins such as email, domains, files, logs etc.
+

@@ -1,9 +1,5 @@
-spaceship	@spaceship
-- như spacecraft
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--con tàu (không gian vũ trụ)
-@Lĩnh vực: xây dựng
--phi thuyền
-@Lĩnh vực: điện lạnh
--tàu vũ trụ
+bellpull
+	
+*danh từ
+-  dây chuông
+

@@ -1,21 +1,27 @@
-clevis	
-@clevis
-* danh từ
-- cái móc hình chữ U
+prototype
+	
+*  danh từ
+- người đầu tiên; vật đầu tiên; mẫu đầu tiên, nguyên mẫu
+@Chuyên ngành kinh tế
+-kiểu đầu tiên
+-nguyên bản
+-nguyên mẫu
 @Chuyên ngành kỹ thuật
--cái móc
--đĩa kẹp
--khoan
--móc an toàn
--móc lò xo
--quai chữ U
--vòng
--vòng kẹp
-@Lĩnh vực: cơ khí & công trình
--chạc chữ U
--chĩa kẹp
--móc chữ U
--quai đầu cáp
--sắt móc móng ngựa
+-hệ thống dùng thử
+-nguyên mẫu
+-nguyên mẫu// mẫu đầu tiên// vật dùng làm mẫu
+-mẫu ban đầu
+-mẫu đầu tiên
+-mẫu thử
+@Lĩnh vực: toán & tin
+-bản chạy thử
+-mẫu đầu
+-mẫu thử nghiệm
+-sản phẩm dùng thử
+@Lĩnh vực: điện lạnh
+-chuẩn gốc
 @Lĩnh vực: xây dựng
--móc cân
+-nguyên hình
+@Lĩnh vực: ô tô
+-xe mẫu
+

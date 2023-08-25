@@ -1,50 +1,14 @@
-strand	@strand /strænd/
+recollection
+	
 *  danh từ
-- (thơ ca); (văn học) bờ (biển, sông, hồ)
-*  ngoại động từ
-- làm mắc cạn
-*  nội động từ
-- mắc cạn (tàu)
-*  danh từ
-- tao (của dây)
-- thành phần, bộ phận (của một thể phức hợp)
-*  ngoại động từ
-- đánh đứt một tao (của một sợi dây thừng...)
-- bện (thừng) bằng tao
-@Chuyên ngành kinh tế
--mắc cạn (tàu)
--tàu mắc cạn, bị mắc cạn
-@Chuyên ngành kỹ thuật
--bó (cáp)
--bờ hồ
--bộ phận
--bờ sông
--dảnh dây
--dảnh sợi thủy tinh
--dây bện
--dây cáp
--dây đơn
--lõi cáp
--miếng đệm
--thành phần
-@Lĩnh vực: điện
--bện dây
--nhánh dây
--xe dây
-@Lĩnh vực: xây dựng
--bện thành dảnh
--bó sợi xoắn
--cáp trong bê tông
--dảnh (cáp)
--tảo
--tao cáp
-@Lĩnh vực: giao thông & vận tải
--bó cáp
-@Lĩnh vực: toán & tin
--cáp
-@Lĩnh vực: y học
--sợi, dải
-@Lĩnh vực: hóa học & vật liệu
--tao (của dây)
-@Lĩnh vực: cơ khí & công trình
--tạo sợi con
+- sự nhớ lại, sự hồi tưởng lại; ký ức, hồi ức
+=to have a dim recollection of
++ không nhớ rõ, nhớ lờ mờ (việc gì)
+=to the best of my recollection
++ nếu tôi nhớ không sai; chừng nào mà tôi còn nhớ lại được
+=within my recollection
++ trong ký ức của tôi
+=outside my recollection
++ ngoài ký ức của tôi
+- ((thường) số nhiều) những kỷ niệm, những điều nhớ lại; hồi ký
+

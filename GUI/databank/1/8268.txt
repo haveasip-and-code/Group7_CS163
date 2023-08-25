@@ -1,21 +1,5 @@
-catcher	
-@catcher /'kætʃə/
-*  danh từ
-- người bắt tóm
-- (thể dục,thể thao) người bắt bóng (bóng chày)
-@Chuyên ngành kinh tế
--bình gom
-@Chuyên ngành kỹ thuật
--bộ gom
--cái bẫy
--cái móc
--chốt cài
--cửa van
--dụng cụ lấy mẫu
--khóa dừng
--máy gom
--móc hãm
-@Lĩnh vực: cơ khí & công trình
--bộ (phận) gom
-@Lĩnh vực: điện tử & viễn thông
--điện cực gom
+transistorized
+	
+*  tính từ
+- có lắp tranzito
+

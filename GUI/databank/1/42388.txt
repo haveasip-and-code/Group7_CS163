@@ -1,12 +1,7 @@
-polling	@polling
-* danh từ
-- việc bỏ phiếu
-- địa điểm bỏ phiếu, địa điểm bầu cử
-@Chuyên ngành kỹ thuật
--sự gọi
--sự hỏi vòng
--sự kiểm tra vòng
--sự mời gửi
-@Lĩnh vực: toán & tin
--kiểm soát vòng
--lần lượt hỏi
+apace
+	
+*  phó từ
+- nhanh, nhanh chóng, mau lẹ
+=ill news runs (flies) apace
++ tin dữ lan nhanh
+

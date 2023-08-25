@@ -1,8 +1,31 @@
-intolerance	
-@intolerance /in'tɔlərəns/
-*  danh từ
-- tính không dung thứ, tính không khoan dung; sự không dung thứ, sự không khoan dung (nhất là về tôn giáo)
-- tính không chịu được (một thứ thuốc nào đó...)
+testing
+	
+* danh từ
+- sự thử; sự nghiên cứu
+@Chuyên ngành kinh tế
+-sự đánh giá
+-sự đánh giá cảm quan
+-sự nghiên cứu
+-sự phân tích
+-sự thí nghiệm
+-sự thử nghiệm
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--không dung nạp
+-kiểm định
+-kiểm nghiệm
+-phép thử
+-sự kiểm chứng
+-sự kiểm nghiệm
+-sự kiểm tra
+-sự lấy mẫu
+-sự thí nghiệm
+-sự thử
+-sự thử nghiệm
+-sự xét nghiệm
+-thí nghiệm
+-thử
+-thử nghiệm
+-tiêu chuẩn
+-xét nghiệm
+@Lĩnh vực: điện
+-việc thử nghiệm
+

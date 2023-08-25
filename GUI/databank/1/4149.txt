@@ -1,7 +1,4 @@
-auxotroph	
-@auxotroph
-* danh từ
-- (sinh học) sinh vật dinh dưỡng thụ động
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sinh vật dị tăng trưởng
+mirroring
+	
+-phản chiếu
+

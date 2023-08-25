@@ -1,18 +1,13 @@
-acceptor	
-@acceptor /ək'septə/
+forgery
+	
 *  danh từ
-- (thương nghiệp) người nhận thanh toán (hoá đơn...)
-- (vật lý); (hoá học) chất nhận
+- sự giả mạo (chữ ký, giấy tờ...)
+- cái giả mạo; giấy tờ giả mạo; chữ ký giả mạo
 @Chuyên ngành kinh tế
--người chấp nhận
-@Chuyên ngành kỹ thuật
--người chấp nhận
--mạch nhận
--phần tử nhận
-@Lĩnh vực: điện lạnh
--axepto
-@Lĩnh vực: hóa học & vật liệu
--chất hấp thu (chất nhận)
--nguyên tử nhận
-@Lĩnh vực: y học
--chất nhận
+-chữ ký giả mạo
+-giấy tờ giả mạo
+-sự giả mạo
+-tội giả mạo
+-vật giả mạo
+-việc giả mạo
+

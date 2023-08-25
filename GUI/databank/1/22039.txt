@@ -1,7 +1,8 @@
-formol	
+symptom
+	
+*  danh từ
+- triệu chứng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất fo
--mol
--chất fô
--mol
+@Lĩnh vực: y học
+-triệu chứng
+

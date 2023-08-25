@@ -1,8 +1,12 @@
-decompress	
-@decompress /,di:kəm'pres/
-*  ngoại động từ
-- bớt sức ép, giảm sức ép
+photovoltaic
+	
+* tính từ
+- thuộc quang vontaic; thuộc quang điện có lớp chặn
 @Chuyên ngành kỹ thuật
--giãn ra
-@Lĩnh vực: toán & tin
--giải nén
+-quang điện
+@Lĩnh vực: điện lạnh
+-quang điện có lớp chặn
+-quang vontaic
+@Lĩnh vực: điện
+-quang điện thế
+

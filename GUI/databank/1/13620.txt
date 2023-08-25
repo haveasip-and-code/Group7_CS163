@@ -1,15 +1,6 @@
-deactivation	
-@deactivation
-* danh từ
-- việc làm mất tác dụng (hoá học)
-@Chuyên ngành kinh tế
--sự khử hoạt tính
--sự kìm hãm
--sự ức chế
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--khử hoạt tính
-@Lĩnh vực: điện tử & viễn thông
--sự đình hoạt
-@Lĩnh vực: toán & tin
--sự giải hoạt
+critique
+	
+*  danh từ
+- bài phê bình
+- nghệ thuật phê bình
+

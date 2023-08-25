@@ -1,9 +1,10 @@
-axes	
-@axes /'æksiz/
-*  danh từ
-- số nhiều của axe
-*  danh từ
-- số nhiều của axis
+uncoded
+	
+* tính từ
+- không mắc lừa
+- giải mã
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--hệ trục
+-không mã hóa
+@Lĩnh vực: điện tử & viễn thông
+-chưa mã hóa
+

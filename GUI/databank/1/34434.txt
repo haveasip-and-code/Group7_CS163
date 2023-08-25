@@ -1,6 +1,39 @@
-mermaid	@mermaid /'mə:meid/
+girt
+	
 *  danh từ
-- (thần thoại,thần học) cô gái mình người đuôi cá
+- sự nhạo báng, sự chế nhạo, sự chế giễu, sự giễu cợt
+*  động từ
+- nhạo báng, chế nhạo, chế giễu, giễu cợt
+=to gird at somebody
++ chế giễu ai
+*  ngoại động từ girded,  girt
+- đeo, thắt, buộc quanh mình, quấn quanh, đóng đai quanh
+=to gird [on] a sword
++ đeo gươm vào
+=to gird one's clothes
++ thắt lưng áo vào
+- bao bọc, vây quanh
+=the island girded by the sea
++ hòn đảo có biển bao quanh
+- cho (sức mạnh, quyền hành)
+=to gird someone with power
++ cho ai quyền hành
+!to gird oneself; to gird up one's loins
+- chuẩn bị sãn sàng hành động; xắn tay áo lên (làm gì...) ((nghĩa bóng))
 @Chuyên ngành kỹ thuật
+-bản cánh dưới
+-hệ giằng
+-sự giằng
+-thanh đai
+-thanh nẹp
+-vòng đai
 @Lĩnh vực: xây dựng
--tiên cá
+-đai giằng
+-rầm đeo
+-rầm viền
+-thanh biên dưới
+-thanh viên
+-xà đỡ mái xà
+@Lĩnh vực: hóa học & vật liệu
+-dầm viền
+

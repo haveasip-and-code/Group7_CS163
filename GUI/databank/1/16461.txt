@@ -1,6 +1,7 @@
-doming	
+intercooler
+	
+-thiết bị làm nguội trung gian
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự tạo vòm
-@Lĩnh vực: hóa học & vật liệu
--tạo vòm
+@Lĩnh vực: điện lạnh
+-bình lạnh trung gian
+

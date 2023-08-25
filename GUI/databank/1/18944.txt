@@ -1,41 +1,24 @@
-erect	
-@erect /i'rekt/
-*  tính từ
-- thẳng, đứng thẳng
-- dựng đứng (tóc...)
+amend
+	
 *  ngoại động từ
-- dựng đứng thẳng, đặt đứng thẳng
-- dựng nên, xây dựng ((nghĩa đen) & (nghĩa bóng))
-- (sinh vật học) làm cương lên
-- (kỹ thuật) ghép, lắp ráp
-- (toán học) dựng (hình...)
+- sửa cho tốt hơn, làm cho tốt hơn; cải thiện
+=to amend one's way of living
++ sửa đổi lối sống
+- bồi bổ, cải tạo (đất)
+=to amend land
++ bồi bổ đất
+- sửa đổi, thay đổi (văn kiện pháp lý); bổ sung (chỗ thiếu sót, sai lầm trong một văn kiện...)
+=to amend a law
++ bổ sung một đạo luật
 *  nội động từ
-- cương lên
+- trở nên tốt hơn, cải tà quy chánh
+- (từ cổ,nghĩa cổ) bình phục, hồi phục sức khoẻ
+@Chuyên ngành kinh tế
+-bổ sung
+-sửa đổi
+-thay đổi
+-tu chính
 @Chuyên ngành kỹ thuật
--dựng
--dựng lên
--lắp
--lắp ghép
--lắp ráp
--thẳng
--thẳng góc
--vuông góc
--xây
--xây dựng
-@Lĩnh vực: xây dựng
--dựng (lắp)
--sự dựng
-@Chuyên ngành kỹ thuật
--dựng
--dựng lên
--lắp
--lắp ghép
--lắp ráp
--thẳng
--thẳng góc
--vuông góc
--xây
--xây dựng
-@Lĩnh vực: xây dựng
--dựng (lắp)
--sự dựng
+-chấm dứt dị thường
+-hoàn thiện
+

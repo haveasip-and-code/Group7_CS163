@@ -1,18 +1,13 @@
-squeak	@squeak /skwi:k/
+pica
+	
 *  danh từ
-- tiếng rúc rích, tiếng chít chít (chuột)
-- tiếng cọt kẹt, tiếng cót két
-!to have a narrow squeak
-- (xem) narrow
-*  nội động từ
-- rúc rích, kêu chít chít (chuột)
-- cọt kẹt, cót két
-- (từ lóng) mách lẻo; làm chỉ điểm
-*  ngoại động từ
-- rít lên
-=to squeak a word+ rít lên một tiếng
-- làm (cửa...) kêu cọt kẹt
+- (ngành in) có chữ to
+=small pica
++ cỡ 10
+=double pica
++ cỡ 20
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--kêu rít
--tiếng rít (mũi khoan)
+-hệ pica (in ấn)
+@Lĩnh vực: đo lường & điều khiển
+-pica
+

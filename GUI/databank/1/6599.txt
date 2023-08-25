@@ -1,58 +1,13 @@
-branch	
-@branch /brɑ:ntʃ/
-*  danh từ
-- cành cây
-- nhánh (sông); ngả (đường)...=a branch of a river
-+ một nhánh sông
-- chi (của một dòng họ...); chi nhánh (ngân hàng...); ngành (sản xuất; mậu dịch...)!root and branch
-- (xem) root
-*  nội động từ
-- ((thường) 
-+ out,  forth) đâm cành, đâm nhánh
-- phân cành, chia ngã=the road branches here
-+ ở chỗ này đường chia ra nhiều ngã!to branch off (away)
-- tách ra, phân nhánh!to branch out
-- bỏ nhiều vốn ra kinh doanh; mở rộng các chi nhánh
-@Chuyên ngành kinh tế
--chi cục
--chi điểm
--chi nhánh
--công ty chi nhánh
--ngành
--phân bộ
--phân hãng
--tổ chức cơ sở
+lactate
+	
+* danh từ
+- (hoá học) lactat
+* nội động từ
+- tiết ra sữa; chảy sữa; sinh sữa
 @Chuyên ngành kỹ thuật
--cành
--cành (cây)
--chia nhánh
--điểm rẽ nhánh
--ngành (chuyên môn)
--nhánh
--nhánh (sông)
--nhánh sông
--mạch nhánh
--mạch quặng
--ống nhánh
--ống nối
--ống nối phân nhánh
--phân nhánh
--rẽ nhánh
--sự phân nhánh
--sự rẽ nhánh
-@Lĩnh vực: toán & tin
--cảnh
--chi nhánh
--rẽ nhánh (chương trình)
-@Lĩnh vực: xây dựng
--cánh nếp uốn
--mối nối nối ống
--ống phụ
-@Lĩnh vực: điện
--chi nhánh (điện)
--ổ nối
--ống nối rẽ
-@Lĩnh vực: giao thông & vận tải
--ngả đường
 @Lĩnh vực: hóa học & vật liệu
--vỉa mạch
+-lactat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-lactat
+

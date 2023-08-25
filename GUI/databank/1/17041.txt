@@ -1,14 +1,13 @@
-duplicator	
-@duplicator /'dju:plikeitə/
-*  danh từ
-- máy sao chép; máy chữ đánh được nhiều bản
-@Chuyên ngành kinh tế
--máy nhân sao
--máy sao chép
+unburned
+	
+*  tính từ
+- không cháy
+- không nung (gạch)
 @Chuyên ngành kỹ thuật
--máy in
--máy sao chép
-@Lĩnh vực: điện tử & viễn thông
--máy nhân bản
-@Lĩnh vực: toán & tin
--máy sao lại
+-không cháy
+@Lĩnh vực: hóa học & vật liệu
+-chữa cháy
+@Lĩnh vực: xây dựng
+-không nung
+-không thiêu
+

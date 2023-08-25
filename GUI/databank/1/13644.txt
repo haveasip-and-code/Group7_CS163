@@ -1,10 +1,8 @@
-deafness	
-@deafness /'defnis/
-*  danh từ
-- tật điếc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--điếc
--độ điếc
-@Lĩnh vực: vật lý
--sự điếc
+medicate
+	
+*  ngoại động từ
+- bốc thuốc, cho thuốc
+- tẩm thuốc, ngâm thuốc
+=medicated gauze
++ gạc có tẩm thuốc
+

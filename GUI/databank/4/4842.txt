@@ -1,0 +1,3 @@
+clipping
+Collision detection, used in video games. When an object in a video game strike or make contact with another, it is the collision detection or clipping thaw detects this.
+

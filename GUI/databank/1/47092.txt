@@ -1,21 +1,12 @@
-resilience	@resilience /ri'ziliəns/ (resiliency) /ri'ziliənsi/
-*  danh từ
-- tính bật nảy; tính co giân, tính tính đàn hồi
-- khả năng phục hồi nhanh sức mạnh (thể chất hoặc tinh thần); sức bật
-- (kỹ thuật) biến dạng đàn hồi; độ dai va đập
-@Chuyên ngành kinh tế
--độ dai
--sự biến dạng
--tính đàn hồi
+however
+	
+*  phó từ
+- dù đến đâu, dù cách nào, dù cách gì
+=however things are
++ dù sự việc có thế nào
+*  liên từ
+- tuy nhiên, tuy thế, tuy vậy
 @Chuyên ngành kỹ thuật
--biến dạng đàn hồi
--độ dai va đập
--năng lượng biến dạng
--sự co giãn
--sức bền va
--tính đàn hồi
--tính dễ uốn
 @Lĩnh vực: xây dựng
--hồi năng
-@Lĩnh vực: toán & tin
--tính bền lâu
+-tuy nhiên
+

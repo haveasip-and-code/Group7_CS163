@@ -1,10 +1,5 @@
-storeroom	@storeroom
-* danh từ
-- buồng kho; kho thực phẩm (trên tàu)
-@Chuyên ngành kinh tế
--buồng kho
--nhà kho
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--buồng kho
--khoang kho (chứa hàng)
+recency
+	
+*  danh từ
+- tính chất mới xảy ra, tính chất mới gần đây
+

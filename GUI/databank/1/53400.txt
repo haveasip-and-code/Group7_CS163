@@ -1,11 +1,5 @@
-stippling	@stippling
-* danh từ
-- cách vẽ bằng chấm
-- cách khắc bằng chấm
-@Chuyên ngành kỹ thuật
--hình vẽ chấm
--sự khắc chấm
-@Lĩnh vực: y học
--chấm lốm đốm
-@Lĩnh vực: xây dựng
--sự làm sần sùi (mặt bê tông)
+largish
+	
+* tính từ
+- hơi rộng, khá rộng
+

@@ -1,11 +1,14 @@
-gauntlet	
-@gauntlet /'gɔ:ntlit/
-*  danh từ
-- (sử học) bao tay sắt, găng sắt (đeo khi chiến đấu)
-- bao tay dài, găng dài (để lái xe, đánh kiếm)!to fling (throw) down the gauntlet
-- thách đấu!to pick (take) up the gauntlet
-- nhận đấu, nhận lời thách!to run the gauntlet
-- chịu hình phạt chạy giữa hai hàng người liên tiếp đánh mình khi mình chạy qua
-- bị phê bình rất nghiêm khắc
+rectifiable
+	
+*  tính từ
+- có thể sửa chữa được; có thể sửa cho thẳng được
+- (vật lý) có thể chỉnh lưu
+- (hoá học) có thể cất lại, có thể tinh cất
+- (rađiô) có thể tách sóng
+- (toán học) cầu trường được
+=rectifiable curve
++ đường cầu trường được
 @Chuyên ngành kỹ thuật
--găng tay (hàn)
+@Lĩnh vực: toán & tin
+-cầu trường được
+

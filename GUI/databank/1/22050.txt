@@ -1,7 +1,5 @@
-formyl	
-@formyl
-* danh từ
-- (hoá học) fomila
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--focmyl
+immunofluorescence
+	
+@Lĩnh vực: y học
+-miễn dịch huỳnh quang
+

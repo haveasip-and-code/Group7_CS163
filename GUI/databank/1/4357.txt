@@ -1,10 +1,11 @@
-backdate	
-@backdate
-* động từ
-- tuyên bố rằng cái gì đó phải được coi là có giá trị kể từ một thời điểm nào đó trong quá khứ
+subculture
+	
+* danh từ
+- văn hoá nhóm; tiểu văn hoá (nền văn hoá nằm trong một nền văn hoá khác)
 @Chuyên ngành kinh tế
--đề lùi ngày về trước
--đề ngày (vận đơn) lùi về trước
+-gieo lại
+-sự gieo lại
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--hủy cập nhật
+@Lĩnh vực: y học
+-nuôi cấy cấp hai
+

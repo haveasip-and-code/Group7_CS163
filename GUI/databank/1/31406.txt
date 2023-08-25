@@ -1,42 +1,9 @@
-lamination	@lamination /,læmi'neiʃn/
-*  danh từ
-- sự cán mỏng, sự dát mỏng
-@Chuyên ngành kinh tế
--sự cán mỏng
--sự dát mỏng
-@Chuyên ngành kỹ thuật
--lá tôn cán
--lớp mỏng
--sự dát mỏng
--sự ép
--sự phân lớp
--sự phân phiến
--sự phân vỉa
--sự tách lớp
--tấm mỏng
--thép lá
--tôn
--vỉa
-@Lĩnh vực: điện lạnh
--sự cán mỏng
-@Lĩnh vực: cơ khí & công trình
--sự cán tấm
--sự dát (mỏng)
-@Chuyên ngành kỹ thuật
--lá tôn cán
--lớp mỏng
--sự dát mỏng
--sự ép
--sự phân lớp
--sự phân phiến
--sự phân vỉa
--sự tách lớp
--tấm mỏng
--thép lá
--tôn
--vỉa
-@Lĩnh vực: điện lạnh
--sự cán mỏng
-@Lĩnh vực: cơ khí & công trình
--sự cán tấm
--sự dát (mỏng)
+licensing
+	
+-sự cấp giấy phép
+-sự cấp môn bài
+-sự cho phép
+-sự nhượng bán giấy phép
+-sự nhượng quyền
+-việc cấp giấy phép
+

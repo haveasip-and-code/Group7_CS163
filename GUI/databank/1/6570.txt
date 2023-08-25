@@ -1,8 +1,5 @@
-braided	
-@Chuyên ngành kỹ thuật
--chia thành nhiều nhánh
--được bện
-@Lĩnh vực: cơ khí & công trình
--bị phân dòng (sông)
-@Lĩnh vực: điện
--được tế
+cytidine
+	
+@Lĩnh vực: y học
+-chất chứa cytosine và đường ribose
+

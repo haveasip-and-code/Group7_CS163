@@ -1,16 +1,12 @@
-windscreen	@windscreen
-* danh từ
-- kính chắn gió xe hơi
+adjoint
+	
+- liên hợp, phù hợp
+- a. of a differeential euation phương trình vi phân liên hợp
+- a. of a kernel liên hợp của một hạt nhân
+- a. of a matrix ma trạn liên hợp, ma trận Hecmit
 @Chuyên ngành kỹ thuật
--màn gió
--tấm chắn gió
-@Lĩnh vực: xây dựng
--đầu hối chắn gió
--đầu hối kín
--màn chắn gió
--mành chắn gió
--sự chắn gió
-@Lĩnh vực: cơ khí & công trình
--kính chắn gió
-@Lĩnh vực: ô tô
--kính chắn gió xe hơi (kính trước)
+-chung biên
+-kề
+-nối
+-phụ hợp
+

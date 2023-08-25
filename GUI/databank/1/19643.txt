@@ -1,38 +1,5 @@
-execution	
-@execution /,eksi'kju:ʃn/
-*  danh từ
-- sự thực hiện, sự thi hành, sự thừa hành, sự chấp hành
-- sự thể hiện; sự biểu diễn (bản nhạc...)
-- (pháp lý) sự làm thủ tục để cho có giá trị (hiệp ước, giao kèo...)
-- sự hành hình
-- sức phá hoại, sức tàn phá (bằng) sức làm chết mê chết mệt=to do execution
-+ gây tàn phá; (nghĩa bóng) làm chết mê chết mệt
-@Chuyên ngành kinh tế
--hợp thức hóa
--sự hợp thức hóa
--sự làm cho hữu hiệu
--sự thực hiện
--thực hiện
--thực thi
-@Chuyên ngành kỹ thuật
--hành động
--sự cài đặt
--sự chạy
--sự thi hành
--sự thực hiện
--sự thực thi
--thi công
--thực hiện
-@Lĩnh vực: cơ khí & công trình
--sự thi công
-@Chuyên ngành kỹ thuật
--hành động
--sự cài đặt
--sự chạy
--sự thi hành
--sự thực hiện
--sự thực thi
--thi công
--thực hiện
-@Lĩnh vực: cơ khí & công trình
--sự thi công
+scripted
+	
+* tính từ
+- đọc theo kịch bản
+

@@ -1,7 +1,12 @@
-spectrometric	@spectrometric
-* tính từ
-- thuộc phổ kế
+remittent
+	
+*  tính từ
+- từng cơn
+=remittent fever
++ sốt từng cơn
+*  danh từ
+- (y học) sốt từng cơn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đo phổ
--trắc phổ
+@Lĩnh vực: y học
+-có cơn tăng giảm
+

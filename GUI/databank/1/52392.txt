@@ -1,21 +1,8 @@
-spigot	@spigot /'spigət/
-*  danh từ
-- nút thùng rượu
-- đầu vòi (có thể bắt vòi khác được)
-@Chuyên ngành kỹ thuật
--chốt định vị
--đầu nối
--đầu ống
--đầu vặn (vòi nước)
--đầu vặn vào (nối bằng ống loe)
--đầu vòi
--định tâm
--gờ đầu ống
--ngõng trục
--mấu nối (chất dẻo)
--van nước
--vòi nước
-@Lĩnh vực: cơ khí & công trình
--bậc định tâm
--cái khóa nước
--cổ trục định tâm
+copybook
+	
+* danh từ
+- vở tập viết
+* tính từ
+- đúng bài bản
+- rũrích, sáo
+

@@ -1,7 +1,8 @@
-recapitulate	@recapitulate /,ri:kə'titjuleit/
-*  ngoại động từ
-- tóm lại, tóm tắt lại
-@Chuyên ngành kinh tế
--tóm lại
--tóm tắt lại
--trình bày sơ lược lại
+predefined
+	
+-được cài đặt sẵn
+-được định nghĩa trước
+@Lĩnh vực: toán & tin
+-định nghĩa trước
+-được xác định trước
+

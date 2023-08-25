@@ -1,18 +1,15 @@
-plural	@plural /'pluərəl/
-*  tính từ
-- (ngôn ngữ học) ở số nhiều, (thuộc) số nhiều
-=a plural noun+ danh từ số nhiều
-- nhiều
-!plural vote
-- sự bỏ phiếu của một cử tri ở nhiều khu vực bầu cử
-!plural voter
-- cử tri bỏ phiếu ở nhiều khu vực bầu cử
+auction
+	
 *  danh từ
-- (ngôn ngữ học) số nhiều, dạng số nhiều (của một danh từ...)
-=in the plural+ ở số nhiều
-- từ ở số nhiều
+- sự bán đấu giá
+=to put up to (Mỹ: at) auction; to sell by (Mỹ: at) auction
++ bán đấu giá
+@Chuyên ngành kinh tế
+-bán đấu giá
+-đấu giá
+-sự bán đấu giá
 @Chuyên ngành kỹ thuật
--đa
--nhiều
-@Lĩnh vực: toán & tin
--phức số
+-bán đấu giá
+@Lĩnh vực: xây dựng
+-sự đấu giá
+

@@ -1,2 +1,4 @@
-postponer	@postponer
-- xem postpone
+monatomic
+	
+-đơn nguyên tử
+

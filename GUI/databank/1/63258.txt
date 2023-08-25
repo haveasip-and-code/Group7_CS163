@@ -1,6 +1,8 @@
-workingman	@Chuyên ngành kinh tế
--công nhân
--lao công
--người làm việc
--người lao động
--người lao động, người làm việc, lao công, công nhân
+videotex
+	
+* danh từ
+- cũng videotext
+- hệ thống thông tin điện tử đặc biệt telex (hoặc hệ hiển thị dữ liệu)
+@Chuyên ngành kinh tế
+-hệ thống vận hành bằng vi tính
+

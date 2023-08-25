@@ -1,13 +1,4 @@
-grantee	
-@grantee /grɑ:n'ti:/
-*  danh từ
-- người được ban (cái gì)
-- người được hưởng trợ cấp
-- người được hưởng quyền chuyển nhượng
-@Chuyên ngành kinh tế
--người được cho
--người được nhận trợ cấp
--người thụ hưởng
--người thụ nhượng
-@Chuyên ngành kỹ thuật
--người thụ nhượng
+artisanship
+	
+- xem artisan
+

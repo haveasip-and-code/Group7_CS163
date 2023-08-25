@@ -1,17 +1,4 @@
-traveling	@traveling
-* danh từ
-- sự du lịch; cuộc du lịch
-- sự dời chỗ, sự di chuyển
-- <điện ảnh> sự quay phim trên giá trượt
-* tính từ
-- (thuộc) sự đi đường, (thuộc) sự du lịch, (thuộc) sự du hành
-- nay đây mai đó, đi rong, lưu động
-@Chuyên ngành kỹ thuật
--đang chạy
--đang quay
--di chuyển
--dịch chuyển
--động
--sự chạy
--sự chuyển dịch
--sự di động
+cupeler
+	
+- xem cupel
+

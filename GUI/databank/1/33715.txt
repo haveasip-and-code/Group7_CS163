@@ -1,7 +1,13 @@
-marketer	@Chuyên ngành kinh tế
--chợ từ mua bán
--giám đốc phân phối
--giám đốc tiêu thụ
+forestry
+	
+*  danh từ
+- miền rừng
+- lâm học
+@Chuyên ngành kinh tế
+-lâm học
+-lâm nghiệp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--phát thị viên
+-lâm nghiệp
+@Lĩnh vực: cơ khí & công trình
+-miền rừng
+

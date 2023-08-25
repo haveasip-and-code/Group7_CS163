@@ -1,26 +1,60 @@
-prop	@prop /prop/
-*  danh từ
--(ngôn ngữ nhà trường) (từ lóng),  (viết tắt) của proposition, mệnh đề
-- (hàng không) (từ lóng) (viết tắt) của propeller
-- (sân khấu),  (từ lóng),  (viết tắt) của property, đồ dùng sân khấu (trang trí, phục trang, dàn cảnh...)
-*  danh từ
-- cái chống, nạng chống
-- (nghĩa bóng) người chống đỡ, người đứng mũi chịu sào; cột trụ
-=the prop and stay of the home+ cột trụ trong gia đình
-- (số nhiều) cẳng chân
+mouth
+	
+- mauð/
+- mauð/
+*  danh từ,  số nhiều mouths  /mauðz/
+- mồm, miệng, mõm
+=by mouth
++ bằng miệng, bằng lời nói
+- miệng ăn
+=a useless mouth
++ một miệng ăn vô dụng
+- cửa (hang, sông, lò...)
+- sự nhăn mặt, sự nhăn nhó
+=to make mouths; to makem a wry mouth
++ nhăn mặt, nhăn nhăn nhó nhó (tỏ vẻ không bằng lòng)
+!to be down in the mouth
+- (xem) down
+!to give mouth
+- sủa; cắn (chó)
+!to laugh on the wrong side of one's mouth
+- (xem) laugh
+!to make one's mouth water
+- (xem) water
+!to put speech into another's mouth
+- để cho ai nói cái gì
+!to put words into someone's mouth
+- mớm lời cho ai, bảo cho ai cách ăn nói
+!to take the words out of someone's mouth
+- nói đúng những lời mà người ta định nói
+!none of your mouth, please!
+- xin ông đừng dở cái trò hỗn xược của ông ra nữa!
+!shut upur mouth
+- câm mồn đi! bịt cái mõm lại!
 *  ngoại động từ
-- chống, chống đỡ; đỡ lên, đỡ dựng lên
-=to prop a ladder [up] against the wall+ dựng thang dựa vào tường
-- (+ up) (nghĩa bóng) làm chỗ dựa cho, chống đỡ cho, đứng mũi chịu sào cho, làm cột trụ cho (một tổ chức, một gia đình...)
+- nói to; đọc rành rọt; nói cường điệu
+- ăn đớp
 *  nội động từ
-- đứng sững lại (ngựa)
+- nói to; nói cường điệu; kêu la
+- nhăn nhó, nhăn mặt
+@Chuyên ngành kinh tế
+-cửa nạp
+-lỗ mở
+-miệng
 @Chuyên ngành kỹ thuật
--cột
--đỡ
--gia cố
--giá đỡ
--hệ chống đỡ
--néo
--thanh giằng
--trụ chống
--trụ đỡ
+-cửa vào
+-độ mở
+-khe
+-khe hở
+-khe mở
+-lỗ
+-lỗ tia
+-lối vào
+-lối vào cảng
+-miệng
+-miệng khuyết
+-miệng lò
+-miệng phun
+-ống loe
+-vết cắt
+

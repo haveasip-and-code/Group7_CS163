@@ -1,15 +1,10 @@
-barricade	
-@barricade /,bæri'keid/
-*  danh từ
-- vật chướng ngại (để chặn, phòng thủ)
+supercomputer
+	
+- siêu máy tính
 @Chuyên ngành kỹ thuật
--hàng rào
--hàng rào bảo vệ
--lớp chắn
--ngăn chặn
--rào chắn
--vật cản
--vật chướng ngại
-@Lĩnh vực: xây dựng
--cữ chắn
--đặt vật chắn
+-máy tính chính
+-máy tính cỡ lớn
+-siêu máy tính
+@Lĩnh vực: toán & tin
+-bộ tốc hoạt số
+

@@ -1,11 +1,6 @@
-provided	@provided /provided/
-*  tính từ
-- được chuẩn bị đầy đủ, được dự phòng
-- được cung cấp, được chu cấp
-!provided school
-- trường tiểu học công do chính quyền địa phương đài thọ
-*  liên từ
-- với điều kiện là, miễn là ((cũng) provided that)
-@Chuyên ngành kinh tế
--miễn là
--với điều kiện là
+oils
+	
+-tranh sơn dầu
+@Chuyên ngành kỹ thuật
+-sơn dầu
+

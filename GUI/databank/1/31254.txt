@@ -1,15 +1,32 @@
-labyrinthine	@labyrinthine /,læbə'rinθiən/ (labyrinthic) /,læbə'rinθik/ (labyrinthine) /,læbə'rinθain/
-*  tính từ
-- (thuộc) cung mê
-- (thuộc) đường rối
-- rối ren phức tạp, chẳng chịu khó khăn
+shuffle
+	
+*  danh từ
+- sự kéo lê chân
+- (đánh bài) sự xáo bài; lượt xáo bài
+- sự xáo trộn
+- sự ăn nói mập mờ; sự thoái thác; hành động lẩn tránh; hành động lừa dối
+*  động từ
+- lê (chân); lê chân
+- (đánh bài) xáo, trang (bài); xáo bài, trang bài
+- xáo trộn, trộn lẫn
+- bỏ, đổ, trút (trách nhiệm)
+=to shuffle off responsibility upon others
++ trút trách nhiệm cho những người khác
+- (
++ on) lúng túng mặc vội vào; (
++ off) lúng túng cởi vội ra
+=to shuffle on one's clothes
++ lúng túng mặc vội quần áo vào
+=to shuffle off one's clothes
++ lúng túng cởi vội quần áo ra
+- luôn luôn đổi chỗ, luôn luôn xê dịch
+- thay đổi ý kiến, dao động
+- tìm cách thoái thác, tìm cách lẩn tránh; lừa dối
+!to shuffle the cards
+- (nghĩa bóng) thay đổi con bài, đổi chính sách
 @Chuyên ngành kỹ thuật
--đường rối
--mê lộ
+-xáo bài
 @Lĩnh vực: toán & tin
--mê cung
-@Chuyên ngành kỹ thuật
--đường rối
--mê lộ
-@Lĩnh vực: toán & tin
--mê cung
+-trộn bài
+-trộn bài, trang bài
+

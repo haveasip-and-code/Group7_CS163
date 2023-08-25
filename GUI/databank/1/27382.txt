@@ -1,6 +1,25 @@
-imperfective	
-@imperfective /,impə'fektiv/
+vast
+	
 *  tính từ
-- (ngôn ngữ học) chưa hoàn thành
+- rộng lớn, mênh mông, bao la; to lớn ((nghĩa đen) & (nghĩa bóng))
+=a vast expanse of water
++ một vùng nước mênh mông
+=a vast mountain
++ quả núi lớn
+=a vast sum
++ số tiền lớn
+=vast reading
++ sự hiểu biết rộng; sự đọc rộng
 *  danh từ
-- (ngôn ngữ học) thể chưa hoàn thành
+- (thơ ca); (văn học) khoảng rộng bao la
+=the vast of ocean
++ đại dương rộng bao la
+=the vast of heaven
++ bầu trời rộng bao la
+@Chuyên ngành kỹ thuật
+-lớn
+-rộng
+@Lĩnh vực: toán & tin
+-rộng, to, lớn
+-tô
+

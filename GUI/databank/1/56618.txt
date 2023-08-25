@@ -1,3 +1,6 @@
-thymol	@thymol
-* danh từ
-- dầu xoa bóp, sát trùng lấy từ tinh dầu bách lý hương
+subfile
+	
+@Lĩnh vực: toán & tin
+-tập tin con
+-tập tin phụ
+

@@ -1,3 +1,8 @@
-embalmer	
-@embalmer
-- xem embalm
+filterable
+	
+*  tính từ
+- có thể lọc được
+@Chuyên ngành kinh tế
+-có khả năng lọc được
+-lọc được
+

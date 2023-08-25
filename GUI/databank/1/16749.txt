@@ -1,17 +1,34 @@
-dread	
-@dread /dred/
-*  danh từ
-- sự kinh sợ, sự kinh hãi, sự khiếp sợ, sự khiếp đảm
-- điều làm kinh hãi, vật làm khiếp sợ
-*  ngoại động từ
-- kinh sợ, kinh hãi, khiếp sợ
-- nghĩ đến mà sợ; sợ=to dread falling ill
-+ nghĩ đến ốm mà sợ; sợ bị ốm=to dread to do something
-+ sợ làm gì=to dread that...
-+ sợ rằng...
+commercial
+	
 *  tính từ
-- dễ sợ, khiếp, kinh khiếp
-- làm run sợ, làm kinh sợ, uy nghiêm lẫm liệt
+- (thuộc) buôn bán; (thuộc) thương mại; (thuộc) thương nghiệp
+=commercial school
++ trường thương nghiệp
+=commercial treaty
++ hiệp ước thương mại
+!commercial braodcast
+- (từ Mỹ,nghĩa Mỹ) buổi phát thanh quảng cáo hàng
+=commercial room
++ phòng khách sạn cho những người đi chào hàng
+=commercial traveller
++ người đi chào hàng
+*  danh từ
+- (thông tục) người chào hàng
+- buổi phát thanh quảng cáo hàng
+@Chuyên ngành kinh tế
+-có tính chất quảng cáo
+-dành cho buôn bán
+-khách sạn làm riêng cho những người đi chào hàng
+-mục quảng cáo hàng hóa
+-thuộc về mậu dịch
+-thuộc về thương mại
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khiếp đảm
+-có tính thương mại
+-giao dịch
+-sự quảng cáo
+-thương nghiệp
+@Lĩnh vực: toán & tin
+-thương mại
+@Lĩnh vực: cơ khí & công trình
+-thương phẩm
+

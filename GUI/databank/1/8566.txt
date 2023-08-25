@@ -1,14 +1,21 @@
-ceramic	
-@ceramic /si'ræmik/
-*  tính từ
-- (thuộc) nghề làm đồ gốm
+uncover
+	
+*  ngoại động từ
+- để hở, mở (vung, nắp); cởi (áo); bỏ (mũ)
+- (quân sự) mở ra để tấn công
+- (nghĩa bóng) nói ra, tiết lộ; khám phá ra
+=to uncover a secret
++ tiết lộ một điều bí mật
+*  nội động từ
+- bỏ mũ (để tỏ ý kính trọng)
 @Chuyên ngành kỹ thuật
--đồ gốm
-@Lĩnh vực: điện
--bằng gốm
-@Lĩnh vực: điện tử & viễn thông
--chất liệu đồ gốm
+-mở
+-phát hiện
+-tiết lộ
+@Chuyên ngành kỹ thuật
+-dễ hở
+-khám phá ra
+-mở ra
 @Lĩnh vực: hóa học & vật liệu
--gốm
-@Lĩnh vực: xây dựng
--thuộc gốm
+-phát hiện ra
+

@@ -1,4 +1,8 @@
-detergency	
-@Chuyên ngành kinh tế
--khả năng rửa
--tác dụng rửa
+gearbox
+	
+-bộ dẫn động
+-cấu truyền động
+-hộp chạy dao
+-hộp tốc độ
+-hộp truyền động
+

@@ -1,16 +1,18 @@
-exchanger	
+urban
+	
+*  tính từ
+- (thuộc) thành phố, (thuộc) thành thị; ở thành phố, ở thành thị
+=urban population
++ nhân dân thành thị
 @Chuyên ngành kinh tế
--chất trao đổi ion
--hiệu đổi tiền (ngoại tệ)
--người buôn bán ngoại hối
--người đổi tiền
--người môi giới ngoại tệ
--thiết bị trao đổi nhiệt
+-ở thành phố
+-ở thành thị
+-thành thị
+-thuộc thành phố
 @Chuyên ngành kỹ thuật
--bộ trao đổi
-@Lĩnh vực: hóa học & vật liệu
--máy trao đổi
-@Chuyên ngành kỹ thuật
--bộ trao đổi
-@Lĩnh vực: hóa học & vật liệu
--máy trao đổi
+-đô thị
+-đồ thị
+-thành phố
+@Lĩnh vực: giao thông & vận tải
+-thành thị
+

@@ -1,7 +1,9 @@
-packthread	@packthread /'pækθred/
+aetiology
+	
 *  danh từ
-- chỉ khâu bao bì
-- dây gói hàng
-@Chuyên ngành kinh tế
--chỉ khâu bao bì
--giấy gói hàng
+- thuyết nguyên nhân
+- (y học) khoa nguyên nhân bệnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-bệnh căn học
+

@@ -1,10 +1,5 @@
-unloader	@unloader
-- xem unload
-@Chuyên ngành kỹ thuật
--máy dỡ hàng
-@Lĩnh vực: xây dựng
--điều áp
--máy dỡ tải
--thiết bị dỡ hàng
--thiết bị dỡ tải
--thiết bị hạ áp
+restrike
+	
+* danh từ
+- đồng tiền hay huy hiệu dập theo một mẫu trước đây
+

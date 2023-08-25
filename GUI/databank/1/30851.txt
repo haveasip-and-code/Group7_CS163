@@ -1,9 +1,8 @@
-kerosene	@kerosene /'kerəsi:n/
-*  danh từ
-- dầu lửa
-@Chuyên ngành kỹ thuật
--dầu hỏa
--dầu lửa
-@Chuyên ngành kỹ thuật
--dầu hỏa
--dầu lửa
+mulct
+	
+*  ngoại động từ
+- phạt tiền
+- phạt, khấu, tước
+=to mulct someone of something
++ tước của ai cái gì
+

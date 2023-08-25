@@ -1,11 +1,12 @@
-porcupine	@porcupine /'pɔ:kjupain/
-*  danh từ
-- (động vật học) con nhím (thuộc loại gặm nhấm)
-- (kỹ thuật) máy chải sợi gai
-- (định ngữ) như con nhím, có lông cứng như nhím
-=porcupine fish+ ca nóc nhím
-=porcupine grass+ cỏ nhím
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: dệt may
--chống gai (để xé sơ)
--trục gai
+blameful
+	
+*  ngoại động từ
+- khiển trách, trách mắng
+=to be in blameful for something
++ đáng khiển trách về cái gì
+- đổ lỗi cho; đổ tội cho
+=to blameful something on someone
++ đỗ lỗi cái gì vào đầu ai
+*  tính từ
+- (như) blameworthy
+

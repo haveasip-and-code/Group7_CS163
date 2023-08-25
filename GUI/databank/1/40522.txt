@@ -1,4 +1,30 @@
-perceptiveness	@perceptiveness
-* danh từ
-- khả năng nhận thức, khả năng cảm thụ
-- khả năng quan sát
+nick
+	
+*  danh từ
+- nấc, khía
+!in the nick [of time]
+- đúng lúc
+*  ngoại động từ
+- cắt, nấc, khía; làm mẻ (dao)
+- cắt gân đuôi (ngựa cho cụp xuống)
+- bắt kịp (xe lửa...); chộp, bắt quả tang, tóm đúng (kẻ trộm, kẻ cắp...)
+- đoán trúng (sự thật)
+- gieo (súc sắc) trúng số to
+- (từ lóng) ăn cắp, xoáy
+*  nội động từ
+- (nick in) chặn ngang (chạy đua)
+- (nick with) giao phối (động vật)
+@Chuyên ngành kỹ thuật
+-khấc
+-khía
+-nấc
+-rạch
+-rãnh cắt
+-vạch phía
+-vết khấc
+-vết khía
+-vết nứt
+-vết rạch
+@Lĩnh vực: cơ khí & công trình
+-vòng nấc
+

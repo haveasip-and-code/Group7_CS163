@@ -1,58 +1,15 @@
-collapse	
-@collapse /kə'læps/
-*  nội động từ
-- đổ, sập, sụp, đổ sập=the house collapsed
-+ căn nhà đổ sập
-- gãy vụn, gãy tan=the chair collapsed
-+ chiếc ghế gãy tan
-- suy sụp, sụp đổ=health collapses
-+ sức khoẻ suy sụp=plan collapses
-+ kế hoạch sụp đổ
-- sụt giá, phá giá (tiền)
-- xẹp, xì hơi (lốp xe...)
-- ngã quỵ xuống, gục (vì suy nhược)
-- méo mó, cong oằn lại (vành bánh xe)
-@Chuyên ngành kinh tế
--kết tủa
--lắng
--sự kết tủa
--sự lắng
--sự sụp đổ
--tan vỡ (nhất là thị trường cổ phiếu)
+rebuild
+	
+*  ngoại động từ rebuilt  /'ri:'bilt/
+- xây lại, xây dựng lại
 @Chuyên ngành kỹ thuật
--co rút
--đổ
--làm cong vênh
--làm oằn
--làm sụp đổ
--lở
--phá hoại
--phá hỏng
--sự chồn
--sự đổ
--sự hỏng
--sự mất ổn định
--sự oằn
--sự phá hủy
--sự phá sập
--sự sập
--sự sụp đổ
--sự sụt
--sự sụt lở
--sự uốn dọc
--sụp đổ
--sụt
-@Lĩnh vực: toán & tin
--che lấp
--thu bớt
+-xây dựng lại
+-xây lại
 @Lĩnh vực: xây dựng
--độ lún sụt
--sự sập đổ
+-cấu trúc lại
+-tái thiết
 @Lĩnh vực: cơ khí & công trình
--làm lún
-@Lĩnh vực: điện lạnh
--sự suy sụp
-@Lĩnh vực: y học
--sự xẹp, trụy
-@Lĩnh vực: hóa học & vật liệu
--sụp
+-làm lại máy
+@Lĩnh vực: ô tô
+-tân trang
+

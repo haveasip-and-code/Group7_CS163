@@ -1,0 +1,3 @@
+32768
+power of two: 2 to the 15th. ; in binary: ; 100000000000000 ; is used in many programming languages
+

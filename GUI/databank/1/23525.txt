@@ -1,35 +1,5 @@
-glance	
-@glance /glɑ:ns/
-*  danh từ
-- (khoáng chất) quặng bóng=copper glance
-+ quặng đồng ssunfua=lead glance
-+ galen
-*  danh từ
-- cái nhìn thoáng qua, cái liếc qua=to take a glance at a newspaper
-+ liếc nhìn qua tờ báo=at a glance
-+ chỉ thoáng nhìn một cái=to cast a glance at
-+ đưa mắt nhìn=to steal a glance
-+ liếc trộm=to have a glance at
-+ nhìn qua (cái gì)
-- tia loáng qua, tia loé lên
-- sự sượt qua, sự trệch sang bên (viên đạn...)
-*  nội động từ
-- liếc nhìn, liếc nhanh, nhìn qua=to glance at something
-+ liếc nhìn cái gì=to glance over (throught) a book
-+ xem qua cuốn sách
-- bàn lướt qua=to glance over a question
-+ bàn lướt qua một vấn đề
-- (glance at) thoáng nói ý châm chọc
-- loé lên, sáng loé=their helmets glance in the sun
-+ những mũ sắt của họ sáng loé dưới ánh mặt trời
-- ((thường) 
-+ off,  aside) đi sượt qua, đi trệch (viên đạn...)
-*  ngoại động từ
-- liếc nhìn, đưa (mắt) nhìn qua=to glance one's eyes's
-+ liếc nhìn qua (cái gì)
-@Chuyên ngành kỹ thuật
--ánh
--lấp lánh
--liếc
-@Lĩnh vực: điện lạnh
--va chạm xiên
+preadaptive
+	
+* tính từ
+- xem preadaptation
+

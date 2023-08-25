@@ -1,7 +1,14 @@
-logarithmic	@logarithmic /,lɔgə'riθmik/
+trihedral
+	
 *  tính từ
-- (thuộc) loga
+- (toán học) tam diện, ba mặt
+=trihedral angle
++ góc tam diện
 @Chuyên ngành kỹ thuật
--lôgarit
+-ba mặt
+@Lĩnh vực: xây dựng
+-khối tam diện
+-thuộc khối 3 mặt
 @Lĩnh vực: toán & tin
--thuộc logarit
+-tam diện
+

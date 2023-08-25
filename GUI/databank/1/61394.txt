@@ -1,6 +1,9 @@
-velocimeter	@velocimeter
+supercalender
+	
 * danh từ
-- tốc độ kế
-- đồng hồ đo tốc độ
+- trục cán láng (làm giấy); trục cán bóng
+* ngoại động từ
+- cán (giấy) bằng trục cán
 @Chuyên ngành kỹ thuật
--đồng hồ tốc độ
+-siêu trục cán láng
+

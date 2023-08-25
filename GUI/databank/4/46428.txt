@@ -1,0 +1,3 @@
+P4
+Pentium 4. Intels latest CPU chip. Based on the NetBurst architecture, this CPU has an extremely long pipeline so it can reach very hight clock speeds. Speeds started at 1.4 GHz at introduction and are now at 3.8 GHz. The chip has gone through 3 major revisions in chronological order: Willamette, Northwood and Prescott. ; Fairly quick, but not as quick as its GHz rating would suggest. Runs very hot due to its extreme clock speed.
+

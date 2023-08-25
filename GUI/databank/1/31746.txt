@@ -1,4 +1,5 @@
-leafy	@leafy /'li:fi/
-*  tính từ
-- rậm lá
-- giống lá
+unweighted
+	
+* tính từ
+- không bị quá tải
+

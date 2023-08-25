@@ -1,14 +1,25 @@
-cave	
-@cave /'keivi/
-*  thán từ
--(ngôn ngữ nhà trường),  (từ lóng) chú ý! (thầy giáo đến kia...)
+packer
+	
+*  danh từ
+- người gói hàng; máy gói hàng
+- người đóng đồ hộp
+- (từ Mỹ,nghĩa Mỹ) người khuân vác; người tải hàng bằng sức vật thồ
 @Chuyên ngành kinh tế
--lỗ (trong fomat)
+-công nhân đóng bao bì
+-máy đóng bao bì
+-máy gói hàng
+-người đóng bao bì
+-người đóng gói
+-thùng đựng hàng
 @Chuyên ngành kỹ thuật
--chỗ lõm
--động
--hang
--hố
--hốc
--khoang chứa tro
--sự sụp đổ
+-người đóng gói
+-máy đóng gói
+-máy đóng kiện
+@Lĩnh vực: hóa học & vật liệu
+-cụm nắp vít
+-máy lấp
+@Lĩnh vực: điện lạnh
+-máy đóng gói (bao bì)
+@Lĩnh vực: xây dựng
+-thợ đóng gói
+

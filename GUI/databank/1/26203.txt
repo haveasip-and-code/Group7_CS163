@@ -1,7 +1,75 @@
-hornlike	
-@hornlike /'hɔ:nlaik/
-*  tính từ
-- như sừng, giống sừng
+trouble
+	
+*  danh từ
+- điều lo lắng, điều phiền muộn
+=to be in trouble
++ có chuyện phiền muộn, không vui; bị mắng, bị phê bình, bị phạt
+=family troubles
++ những chuyện lo lắng về gia đình
+=to get into trouble
++ gặp chuyện không hay phải lo nghĩ; có mang, có chửa (gái chưa chồng)
+=to get someone into trouble
++ gây chuyện không hay cho ai, làm cho ai phải phiền muộn lo lắng; làm cho ai có (mang chửa)
+=to ask (look) for trouble
++ (từ lóng) chuốc lấy sự phiền luỵ
+- sự làm phiền, sự quấy rầy; điều phiền hà
+=did it give you much trouble?
++ cái đó có làm phiền anh nhiều không?
+=I don't like putting you to so much trouble
++ tôi không thích làm phiền anh nhiều đến thế
+=to spare someone trouble
++ khỏi phiền đến ai, tránh làm phiền ai
+- sự chịu khó, sự cố gắng; sự khó nhọc
+=to take the trouble to do something
++ chịu khó làm việc gì; mất công khó nhọc làm việc gì
+- tình trạng bất an, tình trạng rắc rối, tình trạng lộn xộn, tình trạng rối loạn
+=labour troubles
++ những vụ đình công
+- trạng thái khó ở, tình trạng mắc bệnh; bệnh
+=digestive troubles
++ rối loạn tiêu hoá
+=children's troubles
++ bệnh trẻ em
+- (kỹ thuật) sự hỏng hóc, sự trục trắc (của máy)
+*  ngoại động từ
+- làm đục
+=to trouble the water
++ làm cho nước đục lên
+- làm phiền, quấy rầy
+=may I trouble you for the pepper?
++ phiền anh đưa cho tôi lọ hạt tiêu
+- làm cho lo lắng, làm phiền muộn, làm băn khoăn
+=don't trouble yourself about that
++ đừng băn khoăn lo lắng về chuyện đó
+- làm cho khổ sở, làm cho đau đớn
+=the child is troubled by (with) a cough every winter
++ mùa rét nào đứa bé cũng khổ vì bệnh ho
+*  nội động từ
+- lo nghĩ, lo lắng, băn khoăn, bận tâm
+=don't trouble about me
++ đừng lo lắng gì về tôi cả
+=oh, don't trouble, thanks
++ thôi khỏi phiền, xin cảm ơn anh; xin anh đừng bận tâm
 @Chuyên ngành kinh tế
--giống sừng
--như sừng
+-khuyết tật
+-sự hư hỏng
+-tình trạng rối loạn, lộn xộn, bất an, khó khăn
+@Chuyên ngành kỹ thuật
+-làm đục
+-làm hỏng
+-làm sai
+-phá rối
+-sự cố
+-sự hỏng hóc
+-sự sai
+-sự sai hỏng
+-sự trục trặc
+-trục trặc
+@Lĩnh vực: xây dựng
+-sự phá rối
+-sự vi phạm (quy trình)
+@Lĩnh vực: điện lạnh
+-sự rối ren
+@Lĩnh vực: điện
+-sự trục trặc (kỹ thuật)
+

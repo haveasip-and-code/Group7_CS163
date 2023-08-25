@@ -1,8 +1,10 @@
-scourer	@scourer
-* danh từ
-- miếng cọ nồi
-- bột để cọ nồi
+louse
+	
+*  danh từ,  số nhiều lice
+- rận; chấy
 @Chuyên ngành kinh tế
--máy cọ vỏ
--máy xát
--máy xay
+-rệp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chấy, rận
+

@@ -1,15 +1,5 @@
-railway	@railway /'reilwei/
-*  danh từ
-- đường sắt, đường xe lửa, đường ray
-- (định ngữ) (thuộc) đường sắt
-=railway company+ công ty đường sắt
-=railway car (carriage, coach)+ toa xe lửa
-=railway engine+ đầu máy xe lửa
-=railway rug+ chăn len để đắp chân (trên xe lửa)
-=railway station+ nhà ga xe lửa
-=at railway speed+ hết sức nhanh
-@Chuyên ngành kinh tế
--đường sắt
-@Chuyên ngành kỹ thuật
--đường ray
--đường sắt
+childly
+	
+*  tính từ & phó từ
+- (thơ ca) như trẻ con; thơ ngây
+

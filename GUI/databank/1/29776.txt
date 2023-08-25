@@ -1,23 +1,5 @@
-inverter	
-@inverter /in'və:tə/
-*  danh từ
-- (điện học) máy đổi điện
-@Chuyên ngành kỹ thuật
--bộ biến đổi
--bộ chuyển đổi
--bộ đảo điện
--bộ đổi AC
--AC
--bộ đổi DC
--AC
--bộ đổi điện
--bộ đổi pha
--bộ phủ định
-@Lĩnh vực: điện tử & viễn thông
--bộ đảo
-@Lĩnh vực: điện
--bộ đảo lưu
-@Lĩnh vực: toán & tin
--cổng đảo
-@Lĩnh vực: xây dựng
--máy đảo điện
+elain
+	
+@Lĩnh vực: hóa học & vật liệu
+-etylen (tên cũ)
+

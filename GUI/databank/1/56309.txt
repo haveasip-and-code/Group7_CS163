@@ -1,2 +1,10 @@
-thermalize	@Chuyên ngành kỹ thuật
--nhiệt hóa
+luminaire
+	
+* danh từ
+- bộ đèn
+- nguồn phát sáng
+@Chuyên ngành kỹ thuật
+-đèn
+-lumine
+-nguồn sáng
+

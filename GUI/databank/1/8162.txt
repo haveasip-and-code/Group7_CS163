@@ -1,3 +1,9 @@
-caseworker	
-@caseworker
-- xem casework
+tesla
+	
+* danh từ
+- đơn vị đo từ thông, đơn vị từ thông, đơn vị tét
+-la
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-texla (đơn vị đo cảm ứng từ trong hệ SI)
+

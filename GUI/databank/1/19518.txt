@@ -1,17 +1,11 @@
-excavator	
-@excavator /'ekskəveitə/
+tautness
+	
 *  danh từ
-- người đào; người khai quật
-- máy đào; máy xúc
+- tính căng
+- tình trạng tốt
+- tính căng thẳng; tình trạng căng thẳng
 @Chuyên ngành kỹ thuật
--dụng cụ nạo
--người khai đào
--máy đào
--máy đào đất
--máy xúc
-@Chuyên ngành kỹ thuật
--dụng cụ nạo
--người khai đào
--máy đào
--máy đào đất
--máy xúc
+@Lĩnh vực: cơ khí & công trình
+-mức độ căng
+-tính căng
+

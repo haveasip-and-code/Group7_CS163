@@ -1,9 +1,5 @@
-sauna	@sauna /'saunə/
-*  danh từ
-- sự tắm hơi
-- nhà tắm hơi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--nhà tắm hơi (kiểu Phần lan)
-@Lĩnh vực: y học
--phòng tắm hơi
+demarcating
+	
+*  tính từ
+- để phân ranh giới
+

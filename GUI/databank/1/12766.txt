@@ -1,4 +1,9 @@
-crosstrees	
-@crosstrees
-* danh từ
-- (snh)thanh giữ cột buồm
+strictness
+	
+*  danh từ
+- tính chính xác
+- tính nghiêm ngặt, tính nghiêm khắc; tính nghiêm chỉnh
+@Chuyên ngành kỹ thuật
+-giới hạn
+-sự chính xác
+

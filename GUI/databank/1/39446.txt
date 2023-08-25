@@ -1,12 +1,11 @@
-panning	@panning
-* danh từ
-- sự đãi (mẫu); sự phân tích trọng lượng
-@Chuyên ngành kỹ thuật
--quét
-@Lĩnh vực: toán & tin
--ghép nhẵn (đồ họa)
-@Lĩnh vực: hóa học & vật liệu
--sự đãi mẫu vàng
--sự rửa vàng
-@Lĩnh vực: xây dựng
--sự xây móng đá
+headquarters
+	
+*  danh từ số nhiều
+- (quân sự) sự chỉ huy, tổng hành dinh
+@Chuyên ngành kinh tế
+-bộ chỉ huy
+-cửa hàng chính
+-tổng bộ
+-tổng công ty
+-tổng hành dinh
+

@@ -1,3 +1,6 @@
-excludability	
-@excludability
-- xem exclude
+vulture
+	
+*  danh từ
+- (động vật học) kền kền
+- người tham tàn
+

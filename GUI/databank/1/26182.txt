@@ -1,8 +1,14 @@
-horehound	
-@horehound /'hɔ:haund/ (hoarhound) /'hɔ:haund/
-*  danh từ
-- (thực vật học) cây bạc hà đắng
-- (dược học) chế phẩm bạc hà đắng
-@Chuyên ngành kinh tế
--cây bạc hà đắng
--chế phẩm bạc hà đắng
+westerly
+	
+*  tính từ
+- tây
+=westerly direction
++ hướng tây
+=westerly wind
++ gió tây
+*  phó từ
+- về hướng tây; từ hướng tây
+@Chuyên ngành kỹ thuật
+-hướng tây
+-phía tây
+

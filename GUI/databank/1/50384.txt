@@ -1,13 +1,4 @@
-shipload	@shipload /'ʃiploud/
-*  danh từ
-- hàng hoá trên tàu
-@Chuyên ngành kinh tế
--hàng chở trên tàu
--hàng hóa trên tàu
--lượng chở của tàu hàng
--những số lượng lớn
--sức chở của tàu biển
-@Chuyên ngành kỹ thuật
--hàng chuyên chở
--hàng hóa
--hàng hóa trên tàu
+drillings
+	
+-mùn khoan
+

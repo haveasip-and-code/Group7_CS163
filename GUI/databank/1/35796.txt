@@ -1,28 +1,71 @@
-moulding	@moulding /'mouldiɳ/
+count
+	
 *  danh từ
-- sự đúc; vật đúc
-- (kiến trúc) ((thường) số nhiều) đường gờ; đường chỉ (ở tường, cột...)
+- bá tước (không phải ở Anh) ((xem) earl)
+- sự đếm; sự tính
+=body count
++ việc đếm xác (sau một trận đánh)
+- tổng số
+- điểm trong lời buộc tội
+- sự hoãn họp (khi chỉ có dưới 40 nghị viên có mặt) (nghị viện Anh) ((cũng) count
+-out)
+!to keep count of
+- biết đã đếm được bao nhiêu
+!to lose count of
+- không nhớ đã đếm được bao nhiêu
+*  ngoại động từ
+- đếm; tính
+- kể cả, gồm cả, tính đến, kể đến
+=there were forty people there, not count ing the children
++ có bốn mươi người ở đây, không kể trẻ em
+- coi là, coi như, chom là
+=to count oneself fortunate
++ tự coi là được may mắn
+*  nội động từ
+- đếm, tính
+=to count from one to twenty
++ đếm từ 1 đến 20
+- có giá trị; được kể đến, được tính đến, được chú ý đến, được quan tâm đến
+=that doesn't count
++ chuyện ấy không đáng quan tâm đến
+!to count down
+- đếm ngược từ 10 đến 0 (trong các cuộc thí nghiệm...)
+!to count on
+!to count upon
+- hy vọng ở, trông mong ở
+!to count out
+- để riêng ra, không tính vào (một tổng số)
+- đếm ra, lấy ra
+- tuyên bố bị đo ván (quyền Anh) (sau khi đã đếm đến 10 mà chưa dậy được)
+- hoãn họp (vì không đủ 40 người) (nghị viện Anh)
+!to count up
+- cộng sổ, tính sổ
+!to count the cost
+- tính toán hơn thiệt
+!to count as (for) dead (lost)
+- coi như đã chết (mất)
+!to count for much (little, nothing)
+- rất (ít, không) có giá trị, rất (ít, không) có tác dụng
+!to count one's chickens before thay are hatched
+- (xem) chicken
+@Chuyên ngành kinh tế
+-đếm
+-sự đếm
+-sự tính
+-tính (tiền...)
 @Chuyên ngành kỹ thuật
--đổ khuôn
--dựng khuôn
--đường bờ
--đường chỉ
--đường gờ
--ép theo khuôn
--gờ
--gờ trang trí
--mái đua
--mái hắt
--sản phẩm đúc
--sự đổ khuôn
--sự đúc
--sự đúc khuôn
--sự ép khuôn
--sự làm khuôn
--sự rót khuôn
--sự tạo khuôn
--ván ốp
-@Lĩnh vực: y học
--chỉnh khuôn sọ
-@Lĩnh vực: cơ khí & công trình
--sản phẩm ép
+-đếm
+-lần đếm
+-quyết toán
+-số đếm
+-số lượng
+-sự đếm
+-sự tính toán
+-tính
+-tính toán
+-xung được đếm
+@Lĩnh vực: dệt may
+-chỉ số sợi
+@Lĩnh vực: hóa học & vật liệu
+-tính riêng
+

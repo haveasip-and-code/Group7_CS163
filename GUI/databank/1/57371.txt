@@ -1,11 +1,9 @@
-transferable	@transferable /træns'fə:rəbl/
-*  tính từ
-- có thể dời chuyển, có thể di chuyển, có thể mang sang được
-- nhượng được, có thể nhường được
-- có thể in lại, có thể đồ lại, có thể hoạ lại
-!not transferable
-- chỉ dùng cho bản thân, không chuyển cho người khác được (vé tàu)
-!transferable vote
-- lá phiếu có thể chuyển cho người ứng cử khác (nếu không ai được đa số tuyện đối trong cuộc bỏ phiếu đầu tiên)
-@Chuyên ngành kinh tế
--có thể chuyển nhượng
+phlegm
+	
+*  danh từ
+- (y học) đờm dãi
+- tính phớt tỉnh, tính lạnh lùng, tính lờ phờ uể oải
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-đờm dãi
+

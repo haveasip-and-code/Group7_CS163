@@ -1,3 +1,5 @@
-exhaustivity	
-@exhaustivity
-- xem exhaustive
+substantialness
+	
+* danh từ
+- xem substantiality
+

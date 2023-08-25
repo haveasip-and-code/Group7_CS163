@@ -1,6 +1,5 @@
-impedance	
-@impedance /im'pi:dəns/
-*  danh từ
-- (điện học) trở kháng=internal impedance
-+ trở kháng trong=acoustic impedance
-+ trở kháng âm học
+gramicidin
+	
+@Lĩnh vực: y học
+-một kháng sinh (có tác động chống lại nhiều loại vi trùng)
+

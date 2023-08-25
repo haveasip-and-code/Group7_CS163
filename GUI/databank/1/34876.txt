@@ -1,31 +1,5 @@
-milk	@milk /milk/
-*  danh từ
-- sữa
-=condensed milk+ sữa đặc
-=milk of almonds+ nước sữa hạnh
-- nhựa mủ (cây), nước (dừa...)
-!it is no use crying over spilt milk
-- (xem) spill
-!milk for bales
-- (nghĩa bóng) loại văn học đơn giản, học thuyết đơn giản
-*  ngoại động từ
-- vắt sữa
-=to milk a cow+ vắt sữa bò
-- bòn rút, bóc lột
-- lấy (nhựa) bóp, nặn (nọc rắn...)
-- (từ lóng) nhận trộm, nghe lỏm (điện tín)
-*  nội động từ
-- cho sữa
-=the cows are milking well this season+ mùa này bò cho nhiều sữa
-!to milk the ram (bull)
-- lấy gậy chọc trời
-!to milk the tilt
-- thụt két
-@Chuyên ngành kinh tế
--một phần nghìn
--nhà máy
--nhà máy nghiền
--sữa
--vắt sữa
-@Chuyên ngành kỹ thuật
--sữa
+adrenocorticotropic
+	
+@Lĩnh vực: y học
+-hướng vỏ thượng thận
+

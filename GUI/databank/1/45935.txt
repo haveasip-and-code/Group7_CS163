@@ -1,18 +1,8 @@
-reciprocate	@reciprocate /ri'siprəkeit/
-*  ngoại động từ
-- trả, đền đáp lại; đáp lại (tình cảm)
-=to reciprocate a favour+ trả ơn
-=to reciprocate someone's affection+ đáp lại lòng thương yêu của ai
-=to reciprocate someone's good wishes+ chúc lại ai
-- cho nhau, trao đổi lẫn nhau
-=reciprocate each other's affection+ họ thương yêu lẫn nhau
-- (kỹ thuật) làm cho chuyển động qua lại (pittông...)
-- (toán học) thay đổi cho nhau
-*  nội động từ
-- đáp lại; chúc lại
-- (kỹ thuật) chuyển động qua lại (pittông...)
-- (toán học) thay đổi cho nhau
-
-?danh từ: reciprocator
+halide
+	
+* danh từ
+- hợp chất gồm halogen và một nguyên tố hoặc gốc khác
 @Chuyên ngành kỹ thuật
--xoay chiều
+@Lĩnh vực: điện lạnh
+-đèn halogenua
+

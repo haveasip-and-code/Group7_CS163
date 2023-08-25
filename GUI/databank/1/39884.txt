@@ -1,10 +1,5 @@
-passageway	@passageway
-* danh từ
-- hành lang; đường phố nhỏ, ngõ
-@Chuyên ngành kỹ thuật
--đường ống dẫn
--đường xe
--hành lang
-@Lĩnh vực: xây dựng
--đường đi qua
--đường thông xe
+mentholated
+	
+* tính từ
+- có tẩm bạc hà
+

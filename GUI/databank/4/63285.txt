@@ -1,0 +1,3 @@
+cvar
+A Cvar is a 'console variable.'
+

@@ -1,0 +1,3 @@
+PDP-10
+The Digital 'DECSystem-10', one of the greatest mainframe computers in history. Most of the Internet software (TCP/IP, DNS, FTP, and so on) was written on these computers, which formed the original backbone of the ARPAnet (which later became the Internet). It's a 36-bit general-purpose computer with timesharing hardware, making it especially well-suited toward university student usage. Without the PDP-10 the Internet as we know it today may not have existed.
+

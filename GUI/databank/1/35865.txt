@@ -1,4 +1,29 @@
-mucin	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--dịch nhầy
--muxin
+leaky
+	
+*  tính từ
+- có lỗ rò, có lỗ hở, có kẽ hở, có chỗ thủng
+- hay để lộ bí mật
+- hay đái rắt
+@Chuyên ngành kỹ thuật
+-hở
+-lỗ rò
+-rò
+@Lĩnh vực: giao thông & vận tải
+-chỗ hở
+-chỗ rò
+@Lĩnh vực: cơ khí & công trình
+-không kín
+@Lĩnh vực: điện lạnh
+-rò điện
+@Chuyên ngành kỹ thuật
+-hở
+-lỗ rò
+-rò
+@Lĩnh vực: giao thông & vận tải
+-chỗ hở
+-chỗ rò
+@Lĩnh vực: cơ khí & công trình
+-không kín
+@Lĩnh vực: điện lạnh
+-rò điện
+

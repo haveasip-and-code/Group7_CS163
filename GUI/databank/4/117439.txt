@@ -1,0 +1,3 @@
+passwd
+How a user authenticates on a server, system, etc.
+

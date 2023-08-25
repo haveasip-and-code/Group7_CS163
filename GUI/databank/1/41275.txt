@@ -1,4 +1,20 @@
-photoexcitation	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--sự kích thích quang (học)
--sự quang kích thích
+fireman
+	
+*  danh từ
+- đội viên chữa cháy
+- công nhân đốt lò
+@Chuyên ngành kỹ thuật
+-thợ đốt lò
+@Lĩnh vực: hóa học & vật liệu
+-công nhân lò
+@Lĩnh vực: xây dựng
+-thợ nổ mìn
+-thợ phá đá
+@Chuyên ngành kỹ thuật
+-thợ đốt lò
+@Lĩnh vực: hóa học & vật liệu
+-công nhân lò
+@Lĩnh vực: xây dựng
+-thợ nổ mìn
+-thợ phá đá
+

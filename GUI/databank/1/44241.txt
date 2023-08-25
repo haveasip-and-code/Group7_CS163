@@ -1,24 +1,18 @@
-protection	@protection /protection/
+harvest
+	
 *  danh từ
-- sự bảo vệ, sự bảo hộ, sự che chở; sự bảo trợ
-=under someone's protection+ dưới sự che chở của ai
-- người bảo vệ, người che chở; vật bảo vệ, vật che chở
-- giấy thông hành
-- (từ Mỹ,nghĩa Mỹ) giấy chứng nhận quốc tịch (phát cho thuỷ thủ)
-- chế độ bảo vệ nện công nghiệp trong nước
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) tiền trả cho bọn tống tiền; tiền hối lộ (cho chức trách để bao che cho những hành động phạm pháp)
-!to live under someone's protection
-- được ai bao (đàn bà)
+- việc gặt (lúa...), việc thu hoạch (hoa quả...); mùa gặt, vụ thu hoạch
+- thu hoạch, vụ gặt
+- (nghĩa bóng) kết quả, thu hoạch (của một việc gì)
+*  ngoại động từ
+- gặt hái, thu hoạch ((nghĩa đen) & (nghĩa bóng))
+- thu vén, dành dụm
 @Chuyên ngành kinh tế
--sự bảo hộ
--sự bảo hộ (mậu dịch, công nghiệp)
--tiền bảo kê
+-mùa thu hoạch
+-sự thu hoạch
+-thu hoạch
+-vụ gặt
 @Chuyên ngành kỹ thuật
--bảo vệ
--bộ phận bảo vệ
--cấu bảo vệ
--lớp bảo vệ
--sự bảo hộ
--sự bảo vệ
-@Lĩnh vực: giao thông & vận tải
--bảo hộ
+-sự gặt hái
+-sự thu hoạch
+

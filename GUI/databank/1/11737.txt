@@ -1,23 +1,8 @@
-conveyor	
-@conveyor
-- (Tech) băng truyền; máy truyền; băng tải
-@Chuyên ngành kinh tế
--băng tải
--người chuyển nhượng tài sản
--người vận chuyển (hàng hóa)
--thiết bị chuyền tải
--thiết bị vận chuyển
+nonflammable
+	
+*tính từ
+-  không cháy; không bắt lửa
 @Chuyên ngành kỹ thuật
--băng chuyền
--băng chuyển
--băng tải
--băng truyền
--thiết bị vận chuyển
--vật dẫn điện
-@Lĩnh vực: xây dựng
--máy tải
--thang lăn
--thiết bị chuyền tải
-@Lĩnh vực: giao thông & vận tải
--thiết bị chuyên chở
--thiết bị chuyên tải
+-không bắt cháy
+-không bắt lửa
+

@@ -1,9 +1,33 @@
-vitrify	@vitrify /'vitrifai/
+tin
+	
+*  danh từ
+- thiếc
+- sắt tây; giấy thiếc
+- hộp thiếc, hộp sắt tây
+=a tin of sardine
++ hộp cá trích
+- (từ lóng) tiền
 *  ngoại động từ
-- làm thành thuỷ tinh, nấu thành thuỷ tinh
-*  nội động từ
-- thành thuỷ tinh
+- tráng thiếc
+- đóng hộp
+=tinned food
++ đồ hộp
+@Chuyên ngành kinh tế
+-dụng cụ bằng thiếc
+-hộp sắt tây
+-khuôn nướng bánh mì
+-thiếc, hộp, đồ hộp, tiền, vô hộp, đóng hộp
 @Chuyên ngành kỹ thuật
--làm thành pha lê
-@Lĩnh vực: hóa học & vật liệu
--thủy tinh hóa
+-bình
+-đóng hộp
+-hộp
+-hộp sắt tây (đựng đồ hộp)
+-lọ
+-nhúng thiếc
+-mạ thiếc
+-tráng thiếc
+@Lĩnh vực: cơ khí & công trình
+-đồ thiếc
+@Lĩnh vực: toán & tin
+-thiếc, mạ, xi thiếc
+

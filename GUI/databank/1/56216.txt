@@ -1,8 +1,9 @@
-thawing	@thawing /'θɔ:iɳ/
-*  danh từ
-- sự tan (của tuyết)
-@Chuyên ngành kinh tế
--sự tan băng
--sự tan đông
+cloudburst
+	
+* danh từ
+- mưa rào đột ngột
 @Chuyên ngành kỹ thuật
--sự tan băng
+-mưa bóng mây
+-mưa giông
+-mưa rào
+

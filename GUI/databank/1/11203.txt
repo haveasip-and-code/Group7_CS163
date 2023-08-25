@@ -1,29 +1,7 @@
-conjugate	
-@conjugate /'kɔndʤugit/
-*  tính từ
-- kết hợp, ghép đôi (vật)
-- (ngôn ngữ học) cùng gốc (từ)
-- (toán học) liên hợp=conjugate groups
-+ nhóm liên hợp
-- (sinh vật học) tiếp hợp
-*  danh từ
-- (ngôn ngữ học) từ cùng gốc
-- (toán học) trục liên hợp; đường kính liên hợp;; số liên hợp
+deprave
+	
 *  ngoại động từ
-- (ngôn ngữ học) chia (động từ)
-*  nội động từ
-- giao hợp
-- (sinh vật học) tiếp hợp
+- làm hư hỏng, làm suy đồi; làm sa đoạ, làm truỵ lạc
 @Chuyên ngành kỹ thuật
--ghép đôi
--kết hợp
--liên hợp
--liên kết
--phần tử liên hợp
--tiếp hợp
-@Lĩnh vực: y học
--đường kính góc nhô sau mu
-@Lĩnh vực: vật lý
--liên hợp phức
-@Lĩnh vực: toán & tin
--số liên hợp
+-đồi bại
+

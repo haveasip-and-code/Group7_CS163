@@ -1,0 +1,3 @@
+one half gui-unit
+A part of a [gui-unit] with values ranging from one to six. Often used in reference to poker chips.
+

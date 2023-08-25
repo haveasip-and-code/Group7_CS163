@@ -1,10 +1,12 @@
-videotape	@videotape
-* danh từ
-- băng viđêô
-* ngoại động từ
-- thâu vào băng viđêô
+unstop
+	
+*  ngoại động từ
+- làm cho không bị trở ngại, khai thông
+- mở nút, tháo nút (chai)
 @Chuyên ngành kỹ thuật
--băng hình
--băng video
-@Lĩnh vực: điện
--băng ghi hình
+@Lĩnh vực: hóa học & vật liệu
+-mở nút
+@Lĩnh vực: xây dựng
+-rút chặn
+-tháo chốt
+

@@ -1,21 +1,8 @@
-sodden	@sodden /'sɔdn/
-*  động tính từ quá khứ
-- (từ cổ,nghĩa cổ) của seethe
-*  tính từ
-- đẫm nước, đầy nước
-- ẩm, ỉu (bánh mì)
-- đần độn, u mê; có vẻ đần độn, có vẻ u mê (vì nghiện rượu)
-*  ngoại động từ
-- làm ướt đẫm, làm đẫm nước
-- làm u mê, làm đần độn (vì rượu)
-*  nội động từ
-- thấm đẫm nước
-@Chuyên ngành kinh tế
--chưa nướng kỹ
--ngấm nước
--sống
--thấm nước
-@Chuyên ngành kỹ thuật
--đẫm nước
--đầy nước
--làm ướt đẫm
+fours
+	
+- đếm cách một (1, 3, 5, 7...), cách hai, cách ba...
+- column c. tính theo cột
+- digit c. tính chữ số
+- lost c. tính tổn thất
+- reference c. đếm kiểm tra, tính thử lại
+

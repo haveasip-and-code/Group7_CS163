@@ -1,6 +1,59 @@
-res	@res
-* danh từ
-- số nhiều
-- đồ vật
-= res immobilis+bất động sản
-= res mobilis+động sản
+loss
+	
+*  danh từ
+- sự mất
+- sự thua, sự thất bại
+=the loss of a battle
++ sự thua trận
+- sự thiệt hại, tổn hại, tổn thất, thua lỗ
+=to suffer heavy losses
++ bị thiệt hại nặng
+=to seli at a loss
++ bán lỗ vốn
+=a deal loss
++ sự mất không
+=to make up a loss
++ bù vào chỗ thiệt
+=the dealth of Lenin was a great loss to the world proletarian movement
++ Lê
+-nin mất đi là một tổn thất lớn cho phong trào vô sản thế giới
+- sự uổng phí, sự bỏ phí
+=without loss of time
++ không để uổng phí thì giờ
+!to be at a loss
+- lúng túng, bối rối, luống cuống
+=to be a loss to answers (for an answer; how to answer)
++ lúng túng không biết trả lời thế nào
+@Chuyên ngành kinh tế
+-lỗ
+-mất mát
+-thiệt hại
+-thua lỗ
+-thua thiệt
+-tổn thất
+@Chuyên ngành kỹ thuật
+-độ suy giảm
+-độ thất thoát
+-lượng cháy hao
+-mất mát
+-mất mát, thất thoát
+-sự cháy hao
+-sự hao hụt
+-sự mất
+-sự mất mát
+-sự thiếu hụt
+-sự tổn hao
+-sự tổn thất
+-tổn hao
+-tổn thất
+@Lĩnh vực: điện lạnh
+-độ tổn hao
+@Lĩnh vực: điện
+-hao hụt
+-sự thất thoát
+@Lĩnh vực: xây dựng
+-hao tổn
+-sự hao phí
+@Lĩnh vực: toán & tin
+-sự hao
+

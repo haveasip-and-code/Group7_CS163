@@ -1,11 +1,5 @@
-chyme	
-@chyme /kaim/
-*  danh từ
-- (sinh vật học) dịch sữa, nhũ trấp
-@Chuyên ngành kinh tế
--dịch sữa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--dịch sữa (dạ dày)
-@Lĩnh vực: y học
--dưỡng trấp, dịch nuôi
+springtail
+	
+* danh từ
+- (động vật) bọ đuôi bật
+

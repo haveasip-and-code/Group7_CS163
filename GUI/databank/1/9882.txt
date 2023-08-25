@@ -1,20 +1,9 @@
-cloudy	
-@cloudy /'klaudi/
-*  tính từ
-- có mây phủ, đầy mây; u ám=cloudy sky
-+ bầu trời đầy mây
-- đục, vẩn=a cloudy liquid
-+ chất nước đục=a cloudy diamond
-+ viên kim cương có vẩn
-- tối nghĩa, không sáng tỏ, không rõ ràng (văn)
-- buồn bã, u buồn (người)
-@Chuyên ngành kinh tế
--có vẩn đục
--đục
-@Chuyên ngành kỹ thuật
--đục
--không trong suốt
--mờ
--mù mây
-@Lĩnh vực: hóa học & vật liệu
--vẩn
+windily
+	
+* phó từ
+- lộng gió, có nhiều gió; gây ra bởi gió
+- gió lộng, phơi ra trước gió (nhất là gió mạnh)
+- <y> đầy hơi
+- <thgt> dài dòng, trống rỗng, huênh hoang; ba hoa
+- <thgt> sợ hãi, lo lắng
+

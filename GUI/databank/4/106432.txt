@@ -1,0 +1,3 @@
+FreeBSIE
+An :OS: (operating system) based on :FreeBSD: that is downloaded as an ISO image and burnt onto a disk, and from there you have a BSD live disk that boots from the disk, without even touching your hard drive.
+

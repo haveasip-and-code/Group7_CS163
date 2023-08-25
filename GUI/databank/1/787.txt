@@ -1,19 +1,40 @@
-adjuster	
-@adjuster /ə'dʤʌstə/
+working
+	
 *  danh từ
-- máy điều chỉnh
-- thợ lắp máy, thợ lắp ráp
-@Chuyên ngành kinh tế
--người tính toán tổn thất
+- sự làm việc, sự làm
+- sự lên men, sự để lên men (rượu, bia)
+- (kỹ thuật) sự hoạt động, sự chuyển vận, sự vận hành, sự dùng (máy móc)
+- sự khai thác (mỏ)
+- (số nhiều) công trường, xưởng
+- (y học) tác dụng, công dụng (của thuốc)
+- sự nhăn nhó (mặt)
+*  tính từ
+- lao động, công nhân, vô sản
+- dùng để làm việc
+=working clothes
++ quần áo đi làm
+- công, làm việc
+=working day
++ ngày làm việc
+- (kỹ thuật) chạy, hoạt động
+=working order
++ tình trạng chạy được
+- (tài chính) luân chuyển; kinh doanh
+=working catital
++ vốn luân chuyển
+=working expenses
++ chi phí kinh doanh
+- đủ, vừa đủ; có hiệu lực, có giá trị
+=a working majority
++ đa số vừa đủ để thắng (trong một cuộc bầu cử)
+- có thể chấp nhận, thừa nhận được
+=working theory
++ lý thuyết có thể chấp nhận được
 @Chuyên ngành kỹ thuật
--bộ điều chỉnh
--dụng cụ điều chỉnh
--máy điều chỉnh
-@Lĩnh vực: cơ khí & công trình
--bộ phận điều chỉnh
--bộ phận hiệu chuẩn
--cái chỉnh
--thợ điều chỉnh
--thợ nguội lắp máy
-@Lĩnh vực: xây dựng
--thợ lắp máy, thợ ráp máy
+-sự chạy
+-sự gia công
+-sự làm việc
+-sự tác động
+-sự thao tác
+-sự vận hành
+

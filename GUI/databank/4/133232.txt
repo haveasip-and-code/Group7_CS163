@@ -1,0 +1,3 @@
+ATIS
+Automated Terminal Information System. Either a looped recording or a voice synthesis system which plays a looping audio stream over a radio frequency for the purpose of giving weather and other operational information to Pilots. Information can include runways in use, wind direction and speed, cloud level, and any other important information a pilot needs to know. Can also refer to the information given itself.
+

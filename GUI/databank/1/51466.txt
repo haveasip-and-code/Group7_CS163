@@ -1,19 +1,4 @@
-snapshot	@snapshot /'snæpʃɔt/
-*  danh từ
-- ảnh chụp nhanh
-*  ngoại động từ
-- chụp nhanh
-@Chuyên ngành kỹ thuật
--ghi nhanh
--lưu nhanh
-@Lĩnh vực: điện lạnh
--ảnh chụp tức thời
--chụp nhanh
-@Lĩnh vực: xây dựng
--hình chụp
-@Lĩnh vực: toán & tin
--sự chọn động
--sự chụp nhanh
--sự kết suất nhanh
--sự kết xuất nhanh
--sự lưu nhanh
+perdurably
+	
+- xem perdurable
+

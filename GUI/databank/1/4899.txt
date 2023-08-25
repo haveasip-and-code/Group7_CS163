@@ -1,13 +1,5 @@
-bathymetry	
-@bathymetry /bə'θimitri/
-*  danh từ
-- phép đo sâu (của biển)
-@Chuyên ngành kỹ thuật
--đo dưới biển sâu
--sự đo độ sâu
-@Lĩnh vực: hóa học & vật liệu
--đo sâu
-@Lĩnh vực: cơ khí & công trình
--phép đo sâu
-@Lĩnh vực: đo lường & điều khiển
--phương pháp đo sâu
+ens
+	
+*  danh từ,  số nhiều entia
+- (triết học) thể (trừu tượng)
+

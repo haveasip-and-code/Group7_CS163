@@ -1,16 +1,5 @@
-scheduling	@scheduling
-* danh từ
-- sự lập danh mục, sự lập danh mục, sự lập chương trình
-@Chuyên ngành kinh tế
--sự điều độ
--sự đưa vào (bảng) kế hoạch
--sự sắp xếp chương trình (làm việc)
--việc điều độ
--việc đưa vào bảng kế hoạch
--việc sắp xếp chương trình (làm việc)
-@Chuyên ngành kỹ thuật
--sự liệt kê
-@Lĩnh vực: cơ khí & công trình
--sự lập đồ thị
-@Lĩnh vực: toán & tin
--sự lập lịch biểu
+anthropophagous
+	
+*  tính từ
+- ăn thịt người
+

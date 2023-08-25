@@ -1,12 +1,13 @@
-gleam	
-@gleam /gli:m/
-*  danh từ
-- tia sáng yếu ớt, ánh lập loè
-- (nghĩa bóng) chút, tia=a gleam of hope
-+ một tia hy vọng
-*  nội động từ
-- chiếu ra một tia sáng yếu ớt, phát ra một ánh lập loè
+noxious
+	
+*  tính từ
+- độc, hại
+=noxious gas
++ hơi độc
+=noxious chemicals
++ chất độc hoá học
 @Chuyên ngành kỹ thuật
--ánh lên
-@Lĩnh vực: hóa học & vật liệu
--ánh sáng mờ, lập lòe
+-độc
+-độc hại
+-nguy hiểm
+

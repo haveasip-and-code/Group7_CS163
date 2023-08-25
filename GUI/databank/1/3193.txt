@@ -1,12 +1,16 @@
-arching	
-@Chuyên ngành kỹ thuật
+tunneling
+	
+-hiệu ứng tunen
+-sự chui hầm
+-sự đào đường hầm
 @Lĩnh vực: xây dựng
--hiệu ứng vòm
--khối xây vòm
--sự hình thành vòm
--sự phình nở
--sự tạo vòm
--tác dụng vòm
--xây dựng theo kiến trúc vòm
-@Lĩnh vực: cơ khí & công trình
--sự xây cuốn
+-đào lò
+-mở lò
+-sự khoét hầm
+-sự làm đường hầm
+@Lĩnh vực: điện lạnh
+-sự xuyên hầm
+@Lĩnh vực: toán & tin
+-truyền đa giao thức
+-truyền liên mạng
+

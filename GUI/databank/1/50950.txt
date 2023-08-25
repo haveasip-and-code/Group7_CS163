@@ -1,15 +1,14 @@
-skelp	@skelp /skelp/
-*  danh từ (Ớ-cốt)
-- cái bạt tai, cái tạt tai
-- tiếng bốp (bạt tai)
-*  ngoại động từ
-- (Ê-cốt) bạt tai, tạt tai (ai)
-*  nội động từ
-- (Ê-cốt) chạy vội, đi vội
+marina
+	
+*  danh từ
+- bến (cho thuyền đậu và bảo dưỡng)
+@Chuyên ngành kinh tế
+-ao cột tàu
+-bến du thuyền
+-cột tàu
+-ụ tàu nhỏ
+-ụ tàu nhỏ (dành cho các du thuyền)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--kéo ống
--phân ống
--phôi làm ống hàn (bằng băng thép)
 @Lĩnh vực: xây dựng
--kéo thành ống
+-bến du thuyền
+

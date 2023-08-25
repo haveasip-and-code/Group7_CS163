@@ -1,0 +1,3 @@
+chronoptimistic
+Optimistic about time, such as an arrival time or having enough time, etc.
+

@@ -1,0 +1,3 @@
+AAC
+Apple Audio Compression. iTunes' default audio compression, usuly at 128 kbps, but it can go as high as 320 kbps. It also is the iPod's compression of choice. It doesn't like MP3s, which sucks, and don't even try to use WMA (Windows Media Audio)
+

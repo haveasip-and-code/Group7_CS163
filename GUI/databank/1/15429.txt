@@ -1,6 +1,11 @@
-dimensioning	
+typographer
+	
+*  danh từ
+- thợ in ((từ lóng) (viết tắt) typo)
+@Chuyên ngành kinh tế
+-thợ in
+-thợ sắp chữ
 @Chuyên ngành kỹ thuật
--sự định cỡ
-@Lĩnh vực: toán & tin
--định kích thước
--ghi kích thước
+@Lĩnh vực: điện tử & viễn thông
+-thợ in
+

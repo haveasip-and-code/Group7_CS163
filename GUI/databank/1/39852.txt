@@ -1,8 +1,7 @@
-partitioning	@Chuyên ngành kỹ thuật
--sự chia phần
--sự ngăn
--sự phân chia
--sự phân tách
+backset
+	
+-dòng chảy ngược
+-dòng chảy xoáy
 @Lĩnh vực: xây dựng
--sự làm vách ngăn
--sự ngăn tuờng
+-cỡ khóa, khoảng cách khóa cửa
+

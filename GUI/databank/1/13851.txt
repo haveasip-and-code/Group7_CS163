@@ -1,8 +1,9 @@
-declared	
-@declared /di'kleəd/
-*  tính từ
-- công khai, công nhiên, không úp mở
-@Chuyên ngành kinh tế
--công khai
--công nhận
--khai báo
+actuality
+	
+*  danh từ
+- thực tế, thực tại
+- (số nhiều) điều kiện hiện tại, điều kiện thực tế
+- (nghệ thuật) hiện thực
+@Chuyên ngành kỹ thuật
+-thực tế
+

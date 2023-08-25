@@ -1,16 +1,22 @@
-undertaker	@undertaker /,ʌndə'teikə/
-*  danh từ
-- người làm
-- người nhận làm, người đảm đương gánh vác
-- người làm nghề lo việc đám ma
-@Chuyên ngành kinh tế
--công ty công ích
--công ty phục vụ công cộng
--người đảm nhận
--người đảm trách
--người làm dịch vụ lễ tang
--người làm nghề lo việc đám ma
--người nhận làm
--người thầu khoán
--nhà doanh nghiệp
--nhà thầu
+genius
+	
+*  danh từ,  số nhiều geniuses
+- (không có snh) thiên tài, thiên tư
+=a poet of genius
++ nhà thơ thiên tài
+=to have a genius for mathematcs
++ có thiên tài về toán học
+- người thiên tài, người anh tài, bậc kỳ tài
+- (thường) dùng số ít thần bản mệnh (tôn giáo La
+-mã)
+- tinh thần, đặc tính (chủng tộc, ngôn ngữ, thời đại...)
+- liên tưởng; cảm hứng
+- (số nhiều genii) thần
+=good genius
++ thần thiện
+=evil genius
++ thần ác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-thiên tài
+

@@ -1,15 +1,10 @@
-epicenter	
-@epicenter
-- chấn tâm
+unfenced
+	
+* tính từ
+- không có hàng rào; bỏ ngõ
+- không được bảo vệ
 @Chuyên ngành kỹ thuật
--điểm trung tâm
-@Lĩnh vực: điện lạnh
--chấn tâm ngoài
 @Lĩnh vực: xây dựng
--tiêu điểm
-@Chuyên ngành kỹ thuật
--điểm trung tâm
-@Lĩnh vực: điện lạnh
--chấn tâm ngoài
-@Lĩnh vực: xây dựng
--tiêu điểm
+-không ngăn bằng rào
+-không rào
+

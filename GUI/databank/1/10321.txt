@@ -1,4 +1,25 @@
-collotype	
-@collotype
+turnbuckle
+	
 * danh từ
-- việc in trực tiếp từ phim
+- (kỹ thuật) đai ốc siết
+@Chuyên ngành kỹ thuật
+-cái căng
+-cái nói có ren
+-chão
+-đai ốc siết
+-rắc co nối (cửa chớp)
+@Lĩnh vực: xây dựng
+-bộ căng
+-bộ căng bằng vít
+-êcu vặn tăng đơ
+-hộp căng bằng ren
+-khớp căng bằng ren
+-măng song xiết chặt
+-tăng đơ hai đầu
+-thanh căng bằng vít
+-trục vít căng
+@Lĩnh vực: điện
+-đai căng
+@Lĩnh vực: điện lạnh
+-tăng đơ (điều chỉnh lực căng của dây)
+

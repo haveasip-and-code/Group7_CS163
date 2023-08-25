@@ -1,3 +1,25 @@
-trivialize	@trivialize /'triviəlaiz/
-*  ngoại động từ
-- tầm thường hoá
+obsolete
+	
+*  tính từ
+- không dùng nữa, cổ xưa, cũ; đã lỗi thời; đã quá hạn (vé xe...)
+=obsolete text
+-books
++ những sách giáo khoa không còn dùng nữa
+=obsolete words
++ những từ cũ
+- (sinh vật học) teo đi (cơ quan)
+*  danh từ
+- người cổ
+- vật cổ
+@Chuyên ngành kinh tế
+-bỏ đi
+-cũ kỹ
+-đã lỗi thời
+-hết dùng
+-phế bỏ
+@Chuyên ngành kỹ thuật
+-không đúng
+-lỗi thời
+-phế bỏ
+-quá hạn
+

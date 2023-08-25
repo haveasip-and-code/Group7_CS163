@@ -1,10 +1,8 @@
-vitality	@vitality /vai'tæliti/
-*  danh từ
-- sức sống, sinh khí
-- khả năng tồn tại lâu dài
-=an artificial language has no vitality+ một ngôn ngữ giả tạo không thể tồn tại lâu dài
-- (văn học) sức sống, sức mạnh
-=a style full of vitality+ văn phong đầy sức sống
+remise
+	
+*  ngoại động từ
+- (pháp lý) nộp, nhường, nhượng (quyền, tài sản...)
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: xây dựng
--sinh khí
+-nhượng
+

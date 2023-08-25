@@ -1,6 +1,10 @@
-climatology	
-@climatology /,klaimə'tɔlədʤi/
+poisonous
+	
 *  danh từ
-- khí hậu học
+- độc, có chất độc
 @Chuyên ngành kỹ thuật
--khí hậu học
+-độc
+-độc hại
+@Lĩnh vực: hóa học & vật liệu
+-thuốc độc
+

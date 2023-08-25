@@ -1,8 +1,24 @@
-fib	
-@fib /fib/
-*  danh từ
-- điều nói dối nhỏ; chuyện bịa
-*  nội động từ
-- nói dối, nói bịa
-*  danh từ
-- (thể dục,thể thao) cú đấm (quyền Anh)
+piling
+	
+-cọc tấm
+-đóng cọc
+-hàng cọc
+-hàng cừ
+-màn cừ
+-móng cọc
+-sự chất đống
+-sự đắp đất
+-sự đóng cọc
+-sự đóng gói
+-sự xếp chồng
+-sự xếp đống
+-tường cọc ván
+@Lĩnh vực: xây dựng
+-cọc nỗi
+-sự chất thành đống
+-việc bốc dỡ
+-việc xúc bốc
+@Lĩnh vực: cơ khí & công trình
+-công tác cọc
+-tường cọc cừ
+

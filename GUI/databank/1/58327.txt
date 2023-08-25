@@ -1,9 +1,14 @@
-twill	@twill /twil/
+cartage
+	
 *  danh từ
-- vải chéo, vải chéo go
-*  ngoại động từ
-- dệt chéo (sợi)
+- sự chuyên chở bằng xe bò, sự chuyên chở bằng xe ngựa
+- cước chuyên chở bằng xe bò, cước chuyên chở bằng xe ngựa
+@Chuyên ngành kinh tế
+-cước xe tải
+-sự chuyên chở bằng xe bò
+-sự chuyên chở bằng xe hàng (xe tải)
+-trở xe tải
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: dệt may
--vải chéo nổi
--vải vân chéo
+-sự chuyên chở
+-sự vận chuyển
+

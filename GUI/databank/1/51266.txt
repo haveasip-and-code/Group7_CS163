@@ -1,9 +1,13 @@
-sloughy	@sloughy /'slaui/
-*  tính từ
-- nhiều bùn, bùn lầy nước đọng
-- (thuộc) da lột; như da lột (của rắn)
-- (y học) có vảy kết; có vết mục, có mảng mục; như vảy kết; như vết mục, như mảng mục
+abridge
+	
+*  ngoại động từ
+- rút ngắn lại, cô gọn, tóm tắt
+- hạn chế, giảm bớt (quyền...)
+- lấy, tước
+=to abridge somebody of his rights
++ tước quyền lợi của ai
 @Chuyên ngành kỹ thuật
--lầy lội
-@Lĩnh vực: hóa học & vật liệu
--lầy bùn
+-cô đọng
+-làm tắt
+-rút gọn
+

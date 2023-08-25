@@ -1,2 +1,4 @@
-sorter	@sorter
-- người chọn, (máy tính) thiết bị chọn
+bowdlerizer
+	
+- xem bowdlerize
+

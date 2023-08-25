@@ -1,3 +1,13 @@
-podophyllin	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thuộc podophylin
+fissionable
+	
+*  danh từ
+- (vật lý) có thể phân hạt nhân
+@Chuyên ngành kỹ thuật
+-dễ phân hạch
+@Lĩnh vực: vật lý
+-phân hạch được
+@Chuyên ngành kỹ thuật
+-dễ phân hạch
+@Lĩnh vực: vật lý
+-phân hạch được
+

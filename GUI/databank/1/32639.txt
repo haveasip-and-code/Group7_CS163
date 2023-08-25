@@ -1,6 +1,47 @@
-logically	@logically
-* phó từ
-- hợp lý
+hack
+	
+*  danh từ
+- búa, rìu; cuốc chim (của công nhân mỏ)
+- vết toác; vết thương do bị đá vào ống chân (đá bóng)
+*  ngoại động từ
+- đốn, đẽo, chém, chặt mạnh
+- (thể dục,thể thao) đá vào ống chân (ai)
+*  nội động từ
+- chém, chặt mạnh
+=to hack at something
++ chặt mạnh cái gì
+- ho khan
+*  danh từ
+- ngựa cho thuê
+- ngựa ốm, ngựa tồi
+- ngựa thường (để cưỡi; không phải ngựa thi)
+- người làm thuê những công việc nặng nhọc; người viết văn thuê
+- (từ Mỹ,nghĩa Mỹ) xe ngựa cho thuê
+- (định ngữ) làm thuê, làm mướn
+=a hack writer
++ người viết văn thuê
+*  ngoại động từ
+- làm thành nhàm
+- thuê (ngựa)
+- cưỡi (ngựa)
+*  nội động từ
+- cưỡi ngựa (đi thong dong)
+- dùng ngựa thuê
+- (từ Mỹ,nghĩa Mỹ) đánh xe ngựa thuê
+*  danh từ
+- máng đựng thịt (cho chim ó, diều hâu)
+- giá phơi gạch
+@Chuyên ngành kinh tế
+-giá phơi cá
+-khay đựng thịt
 @Chuyên ngành kỹ thuật
+-búa
+-cuốc
+-cuốc chim
+-đẽo đá
+-ngựa cho thuê
+-quốc chim
+-vết khắc
 @Lĩnh vực: xây dựng
--đáng lý
+-giá phơi gạch
+

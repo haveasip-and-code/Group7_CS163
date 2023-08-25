@@ -1,9 +1,28 @@
-clamshell	
+levelling
+	
+*  danh từ
+- sự làm bằng phẳng, sự san bằng
+- sự làm cho ngang nhau; sự xoá bỏ mọi sự chênh lệch xã hội, sự làm cho bình đẳng
 @Chuyên ngành kỹ thuật
--gàu ngoạm hai hàm
--máy bốc
--vỏ sò
+-sự đo cao
+-sự đo mức
+-sự làm bằng
+-sự nắn sửa
+-sự nắn thẳng
+-sự san bằng
 @Lĩnh vực: xây dựng
--gầu nạo vét bùn
-@Lĩnh vực: cơ khí & công trình
--gàu sò cạp
+-đo độ cao
+@Lĩnh vực: giao thông & vận tải
+-nâng đường
+@Chuyên ngành kỹ thuật
+-sự đo cao
+-sự đo mức
+-sự làm bằng
+-sự nắn sửa
+-sự nắn thẳng
+-sự san bằng
+@Lĩnh vực: xây dựng
+-đo độ cao
+@Lĩnh vực: giao thông & vận tải
+-nâng đường
+

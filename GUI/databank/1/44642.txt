@@ -1,8 +1,4 @@
-pullet	@pullet /'pulit/
-*  danh từ
-- gà mái tơ
-@Chuyên ngành kinh tế
--dụng cụ nhổ
--máy đào
--người kéo
--thiết bị kéo
+inlayer
+	
+- xem inlay
+

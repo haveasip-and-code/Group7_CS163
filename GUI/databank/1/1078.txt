@@ -1,20 +1,39 @@
-affinity	
-@affinity /ə'finiti/
+wonder
+	
 *  danh từ
-- mối quan hệ, sự giống nhau về cấu trúc (giữa các loài vật, cây cỏ, ngôn ngữ)
-- sự giống nhau về tính tình
-- quan hệ thân thuộc với họ nhà vợ, quan hệ thân thuộc với họ nhà chồng
-- sự thu hút, sự hấp dẫn, sự lôi cuốn; sự đồng cảm
-- sự ham thích=to have an affinity for something
-+ ham thích ham thích cái gì
-- (hoá học) ái lực=chemical affinity
-+ ái lực hoá học
+- vật kỳ diệu, kỳ quan, vật phi thường; điều kỳ lạ, điều kỳ diệu; kỳ công
+=the seven wonders of the world
++ bảy kỳ quan trên thế giới
+=a wonder of architecture
++ một kỳ công về kiến trúc
+=to work wonders
++ làm những việc kỳ lạ; thành công rực rỡ
+=for a wonder
++ một cách kỳ diệu, thật là kỳ lạ
+- người kỳ diệu, thần đồng
+=a musical wonder
++ một thần đồng về nhạc
+- sự ngạc nhiên, sự kinh ngạc
+=that is no wonder
++ tất nhiên, dĩ nhiên, không có gì lạ, không có gì đáng ngạc nhiên
+=to fill someone with wonder
++ làm cho ai kinh ngạc
+!a nine days' wonder
+- (xem) nine
+*  động từ
+- ngạc nhiên, lấy làm lạ, kinh ngạc
+=I dont't wonder at it
++ điều đó không làm cho tôi ngạc nhiên
+=I wonder that you never heard of it
++ tôi lấy làm lạ rằng anh chưa bao giờ nghe nói về điều đó
+=that's not to be wondered at
++ không có gì đáng kinh ngạc cả
+- muốn biết, tự hỏi
+=I wonder who he is?
++ tôi tự hỏi nó là ai?
+=I wonder whether you can tell me
++ tôi tự hỏi không biết anh có thể bảo cho tôi biết không
 @Chuyên ngành kỹ thuật
--ái lực
--độ dính bám
-@Lĩnh vực: toán & tin
--phép biến đổi affin
--phép biến đổi afin
 @Lĩnh vực: xây dựng
--tính đồng dạng
--tính tương tự
+-kỳ quan
+

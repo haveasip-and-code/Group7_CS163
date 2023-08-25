@@ -1,0 +1,3 @@
+yap
+Someone who has a net structer which requires IP packets passing through it have TTL larger than 8 bit
+

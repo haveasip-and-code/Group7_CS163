@@ -1,8 +1,11 @@
-realm	@realm /relm/
+disappearance
+	
 *  danh từ
-- vương quốc
-- (nghĩa bóng) lĩnh vực, địa hạt
-=the realm of imagination+ lĩnh vực tưởng tượng
+- sự biến đi, sự biến mất
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--lĩnh vực, vùng
+-sự triệt tiêu
+@Lĩnh vực: cơ khí & công trình
+-sự biến mất
+@Lĩnh vực: xây dựng
+-sự mất
+

@@ -1,15 +1,20 @@
-folder	
-@folder /'fouldə/
-*  danh từ
-- người gấp
-- dụng cụ gập giấy
-- bìa cứng (làm cặp giấy)
-- (số nhiều) kính gấp
-- tài liệu (bảng giờ xe lửa...) gập, tài liệu xếp
+erase
+	
+*  ngoại động từ
+- xoá, xoá bỏ
 @Chuyên ngành kinh tế
--tập giây gấp
+-xóa
+-xóa bỏ
 @Chuyên ngành kỹ thuật
--danh mục
--máy gấp
--máy uốn gấp
--thư mục
+-đưa về không
+-loại bỏ
+-phá hủy
+-xóa
+-xóa bỏ
+@Chuyên ngành kỹ thuật
+-đưa về không
+-loại bỏ
+-phá hủy
+-xóa
+-xóa bỏ
+

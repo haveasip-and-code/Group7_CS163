@@ -1,8 +1,11 @@
-sapwood	@sapwood
-* danh từ
-- dác gỗ (lớp mềm bên ngoài của gỗ)
+photographic
+	
+*  tính từ
+- (thuộc) thợ chụp ảnh
+- như chụp ảnh
+=a photographic style of painting
++ lối vẽ như chụp ảnh (đủ cả chi tiết)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--dác gỗ
-@Lĩnh vực: hóa học & vật liệu
--gỗ dác
+-ảnh
+-chụp ảnh
+

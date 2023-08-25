@@ -1,10 +1,8 @@
-disease	
-@disease /di'zi:z/
-*  danh từ
-- bệnh, bệnh tật
-- (nghĩa bóng) tệ nạn; sự hủ bại (xã hội...)
-@Chuyên ngành kinh tế
--bệnh
--sự mắc bệnh
+sunstone
+	
+* danh từ
+- (khoáng chất) đá mặt trời
 @Chuyên ngành kỹ thuật
--bệnh
+@Lĩnh vực: hóa học & vật liệu
+-đá mặt trời
+

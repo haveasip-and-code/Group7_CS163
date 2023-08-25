@@ -1,50 +1,5 @@
-landing	@landing /'lændiɳ/
-*  danh từ
-- sự đổ bộ, sự ghé vào bờ (tàu biển, thuyền bè); sự hạ cánh (máy bay)
-- bến, nơi đổ
-- đầu cầu thang
-@Chuyên ngành kinh tế
--bến tàu
--cầu tàu
--chỗ dỡ hàng tại bến tàu
--đáp xuống đất
--đáp xuống đất (của máy bay)
--dỡ hàng lên bờ
--dỡ hàng lên bờ (từ tàu)
--hạ cánh
--lên bờ
--sự hạ cánh
--sự lên bờ
--sự vận chuyển
-@Chuyên ngành kỹ thuật
--bãi
--chiếu nghỉ
--mối hàn chồng
--quảng trường
--sân
--sự cập bến
--sự đổ bộ
--sự hạ cánh
-@Lĩnh vực: giao thông & vận tải
--chỗ cập bến
--sự lên bờ
-@Lĩnh vực: xây dựng
--đầu cầu thang
-@Lĩnh vực: điện lạnh
--sự đỗ
-@Chuyên ngành kỹ thuật
--bãi
--chiếu nghỉ
--mối hàn chồng
--quảng trường
--sân
--sự cập bến
--sự đổ bộ
--sự hạ cánh
-@Lĩnh vực: giao thông & vận tải
--chỗ cập bến
--sự lên bờ
-@Lĩnh vực: xây dựng
--đầu cầu thang
-@Lĩnh vực: điện lạnh
--sự đỗ
+snatchy
+	
+*  tính từ
+- đứt đoạn, từng khúc, không đều
+

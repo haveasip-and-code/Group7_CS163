@@ -1,0 +1,3 @@
+twelfth-second
+A unit for the measurement of small intervals of time, such that 1012 (ten trillion) of these units make one second.
+

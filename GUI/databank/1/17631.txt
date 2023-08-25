@@ -1,7 +1,8 @@
-electret	
+ultrasound
+	
+* danh từ
+- siêu âm; sóng siêu âm; âm thanh có tần số siêu âm
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--êlectret
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--êlectret
+-siêu âm
+-siêu thanh
+

@@ -1,8 +1,9 @@
-infrared	
-@infrared
-* tính từ
-- (lý) hồng ngoại
+refractive
+	
+*  tính từ
+- khúc xạ
+=refractional index
++ chỉ số khúc xạ; chiết xuất
 @Chuyên ngành kỹ thuật
--hồng ngoại
-@Lĩnh vực: toán & tin
--vùng hồng ngoại
+-khúc xạ
+

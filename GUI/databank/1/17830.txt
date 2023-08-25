@@ -1,6 +1,16 @@
-elves	
-@elves /elf/
-*  danh từ,  số nhiều elves
-- yêu tinh
-- kẻ tinh nghịch
-- người lùn, người bé tí hon
+verdict
+	
+*  danh từ
+- (pháp lý) lời tuyên án, lời phán quyết
+=an open verdict
++ một lời tuyên án không nói rõ thủ phạm
+=verdict of not guilty
++ sự tuyên án vô tội
+=partial verdict
++ sự tuyên án có tội một phần
+=to return a verdict
++ tuyên án
+- sự quyết định, sự nhận định; dư luận
+=popular verdict
++ sự nhận định của nhân dân, dư luận nhân dân
+

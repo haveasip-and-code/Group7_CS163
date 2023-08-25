@@ -1,12 +1,10 @@
-courier	
-@courier /'kuriə/
-*  danh từ
-- người đưa thư, người đưa tin tức, người thông tin (thường dùng để đặt tên báo)= Vietnam Courier
-+ tin tức Vietnam=diplomatic courier
-+ người giao thông ngoại giao
-@Chuyên ngành kinh tế
--người hướng dẫn du lịch (ở Châu Âu)
--người phát chuyển nhanh (thư, bưu kiện...)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sứ giả
+familiarize
+	
+*  ngoại động từ
+- phổ biến (một vấn đề)
+- làm cho quen (với vấn đề gì, công việc gì...)
+=to familiarize students with scientific research
++ làm cho học sinh quen với nghiên cứu khoa học
+=to familiarize oneself with the job
++ làm quen với công việc
+

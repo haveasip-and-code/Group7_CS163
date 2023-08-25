@@ -1,15 +1,5 @@
-damped	
-@damped
-- tắt dần
-@Chuyên ngành kỹ thuật
--ẩm
--bị tắt dần
--giảm
-@Lĩnh vực: vật lý
--bị ẩm
-@Lĩnh vực: hóa học & vật liệu
--bị mờ
-@Lĩnh vực: điện lạnh
--bị suy giảm
-@Lĩnh vực: xây dựng
--đã thấm nước
+synchronistic
+	
+* tính từ
+- thuộc tính đồng bộ; tính đồng thời; (ngôn ngữ) tính đồng đại
+

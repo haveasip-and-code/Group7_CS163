@@ -1,0 +1,3 @@
+dollar sign
+in [Perl] version 5, a dollar sign before a name shows that the variable access will return a scalar (single value). This is important when accessing an array or hash, as using the % or @ funny character in front of them will result in an array or hash containing one element, which is usually not what you want. ; Perl detractors (mostly fags who use [Python]) call this a flaw in perl, or say it makes the code look ugly, or like line noise. They're idiots.
+

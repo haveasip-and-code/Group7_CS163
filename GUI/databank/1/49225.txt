@@ -1,58 +1,9 @@
-scrap	@scrap /skræp/
+hygrometer
+	
 *  danh từ
-- mảnh nhỏ, mảnh rời
-- (số nhiều) đầu thừa đuôi thẹo, mấu thừa
-- đoạn cắt, ảnh cắt (cắt ở báo để đóng thành tập)
-- kim loại vụn; phế liệu
-- tóp mỡ, bã cá (để ép hết dầu)
-*  ngoại động từ
-- đập vụn ra
-- thải ra, loại ra, bỏ đi
-*  danh từ
-- (từ lóng) cuộc ẩu đả, cuộc đánh nhau
-=to hose a bit of a scrap with somebody+ ẩu đả với ai
-*  nội động từ
-- (từ lóng) ẩu đả, đánh nhau
+- (vật lý) cái đo ẩm
 @Chuyên ngành kinh tế
--bỏ
--bỏ đi
--bỏ đi (làm phế liệu...)
--bỏ vào bãi phế liệu
--bỏ xó
--cặn bã
--chất thải
--đồ bỏ đi
--kim loại
--kim loại phế liệu
--làm phế liệu
--loại ra
--mảnh
--mảnh nhỏ
--mảnh vụn
--mẫu
--mẩu
--phế liệu
--quăng bỏ
--sắt vụn
--thải ra
--thuốc lá vụn
--tóp mỡ
+-ẩm kế
 @Chuyên ngành kỹ thuật
--bỏ đi
--chất thải
--đập vụn
--loại bỏ
--mảnh vỡ
--mảnh vụn
--phẩm không sửa được
--phế bỏ
--phế liệu
--phế liệu tái chế
--sắt vụn
--thải ra
--vụn kim loại
--vụn than
-@Lĩnh vực: ô tô
--kim loại vụn
-@Lĩnh vực: cơ khí & công trình
--phế liệu kim loại
+-ẩm kế
+

@@ -1,0 +1,3 @@
+pic
+Acronym for Peripheral Interface Controller. A microcontroller for controlling peripherals.
+

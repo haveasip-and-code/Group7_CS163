@@ -1,11 +1,7 @@
-hymn	
-@hymn /him/
-*  danh từ
-- bài thánh ca
-- bài hát ca tụng!national hymn
-- quốc ca
-*  ngoại động từ
-- hát ca tụng (Chúa...)
-- hát lên những lời ca ngợi, nói lên những lời tán tụng
-*  nội động từ
-- hát thánh ca
+voided
+	
+*  tính từ
+- bị làm trống rỗng
+- (pháp lý) bị làm mất hiệu lực, bị làm mất giá trị
+- (y học) được bài tiết ra
+

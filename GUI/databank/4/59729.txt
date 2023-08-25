@@ -1,0 +1,3 @@
+pubstro
+A hacked ftp, when someone uploads a ftp server exe file and is able to execute it on the server, it opens another ftp server on that server. You can use remote admin if it is a g6 server. but usually it may be a fbi website (they have the server vunerable on purpose, will get ya arrested)or some slow shitty server(1kbps). great for [fxp] groups.
+

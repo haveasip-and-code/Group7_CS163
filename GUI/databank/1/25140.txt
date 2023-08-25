@@ -1,34 +1,14 @@
-hawk	
-@hawk /hɔ:k/
-*  danh từ
-- (động vật học) diều hâu, chim ưng
-- (từ Mỹ,nghĩa Mỹ),  (chính trị) kẻ hiếu chiến, diều hâu ((nghĩa bóng))
-- kẻ tham tàn!not to know a hawk from a handsaw
-- dốt đặc không biết gì hết
-*  nội động từ
-- săn bằng chim ưng
-- (
-+ at) vồ, chụp (như chim ưng vồ mồi); bắt sâu (chim)
-*  ngoại động từ
-- vồ, chụp (mồi)
-*  ngoại động từ
-- bán (hàng) rong
-- (nghĩa bóng) tung (tin), tuyên truyền=to hawk news about
-+ tung tin đi khắp nơi=to hawk gossip about
-+ truyền tin đồn nhảm khắp nơi
-*  danh từ
-- sự đằng hắng
-- tiếng đằng hắng
-*  nội động từ
-- đằng hắng
-*  ngoại động từ
-- (
-+ up) đằng hắng để làm bật (những cái vướng ở cổ)
-*  danh từ
-- cái bàn xoa (của thợ nề)
-@Chuyên ngành kinh tế
--bán dạo
--bán hàng rao
--bán rong
+unmanned
+	
+*  tính từ
+- không có người
+=to send an unmanned space ship to Mars
++ phóng một con tàu vũ trụ không có người lên sao Hoả
 @Chuyên ngành kỹ thuật
--bàn xoa
+-không có giám sát
+-không có người lái
+-tự động
+@Lĩnh vực: điện lạnh
+-không người điều khiển
+-không người lái
+

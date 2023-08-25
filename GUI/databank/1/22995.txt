@@ -1,9 +1,23 @@
-gasogene	
-@gasogene /'gæzədʤi:n/ (gasogene) /'gæzədʤi:n/ (seltzogene) /'seltsədʤi:n/
-*  danh từ
-- lò ga
+vertex
+	
+*  danh từ,  số nhiều vertices
+- đỉnh, chỏm, chóp, ngọn
+=the vertex of an angle
++ đỉnh của một góc
+- (nghĩa bóng) đỉnh, cực điểm
+- (giải phẫu) đỉnh đầu
+- (thiên văn học) thiên đỉnh
 @Chuyên ngành kỹ thuật
--lò ga
-@Lĩnh vực: hóa học & vật liệu
--bộ sinh khí
--máy phát khí
+-chỏm
+-chóp
+-đỉnh
+-đỉnh vòm
+-khóa vòm
+-ngọn
+@Lĩnh vực: điện
+-điểm tương giao
+@Lĩnh vực: toán & tin
+-đỉnh, chóp
+@Lĩnh vực: xây dựng
+-thiên đỉnh
+

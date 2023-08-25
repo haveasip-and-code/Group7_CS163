@@ -1,4 +1,8 @@
-misaligned	@Chuyên ngành kỹ thuật
--không đồng tâm
--không đồng trục
--không thẳng hàng
+centred
+	
+* tính từ
+- có một trung tâm
+@Chuyên ngành kỹ thuật
+-căn giữa
+-có tâm
+

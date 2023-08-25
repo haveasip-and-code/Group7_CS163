@@ -1,103 +1,31 @@
-sink	@sink /siɳk/
-*  danh từ
-- thùng rửa bát, chậu rửa bát
-- ((thường) (nghĩa bóng)) vũng nước bẩn, vũng lầy; ổ
-=a sink of vices+ một ổ truỵ lạc
-- đầm lầy
-- khe kéo phông (trên sân khấu)
-*  nội động từ sank; sunk
-- chìm
-=ship sinks+ tàu chìm
-- hạ thấp, xuống thấp, cụt, mất dần, lắng xuống, lún xuống
-=voice sinks+ giọng hạ thấp
-=river sinks+ nước sông xuống
-=prices sink+ giá sụt xuống
-=the sun is sinking+ mặt trời đang lặn
-=to sink in someone's estimation+ mất uy tín đối với ai
-=cart sinks into mud+ xe bò lún xuống bùn
-- hõm vào, hoắm vào (má...)
-=his eyes have sunk in+ mắt anh ta hõm vào
-- xuyên vào, ăn sâu vào, ngập sâu vào; thấm vào
-=bayonet sinks in to the hilt+ lưỡi lê ngập sâu vào đến tận cán
-=impression sinks into mind+ ấn tượng thấm sâu vào óc
-=dye sinks in+ thuốc nhuộm ăn vào
-- (nghĩa bóng) chìm, chìm đắm
-=to sink into degradation+ chìm sâu vào sự đê hèn
-*  ngoại động từ
-- làm chìm, đánh đắm
-=to sink a ship+ đánh chìm tàu
-- hạ xuống, làm thấp xuống
-=drought sinks stream+ hạn hán làm mực nước suối thấp xuống
-- để ngả xuống, để rủ xuống
-- đào, khoan, khắc
-=to sink a well+ đào giếng
-=to sink a die+ khắc con súc sắc
-- giấu
-=to sink one's name+ giấu tên tuổi
-=to sink a fact+ giấu một sự việc
-!to sink oneself; to sink one's own interests
-- quên mình
-!to sink one's knees
-- quỳ sụp xuống
-!to sink money
-- đầu tư vốn vào một việc kinh doanh mà khó rút ra; mất vốn bị mắc kẹt trong một việc kinh doanh
-!to sink or swim
-- một mất một còn
-!his heart sank at the sad news
-- được tin buồn lòng anh ta se lại
+practical
+	
+*  tính từ
+- thực hành (đối với lý thuyết)
+=practical agriculture
++ nông nghiệp thực hành
+=practical chemistry
++ hoá học thực hành
+- thực tế, thực tiễn, thực dụng; có ích, có ích lợi thực tế, thiết thực
+=a practical mind
++ đầu óc thực tế; (đôi khi khinh) đầu óc nặng nề thực tế
+=a practical proposal
++ một đề nghị thiết thực
+- đang thực hành, đang làm, đang hành nghề
+=a practical physician
++ một thầy thuốc đang hành nghề
+- thực tế, trên thực tế
+=he is the practical owner of the house
++ anh ta thực tế là chủ căn nhà này
+=to have practical control of
++ nắm quyền kiểm soát trên thực tế
+!a practice koke
+- trò đùa ác ý, trò chơi khăm
 @Chuyên ngành kỹ thuật
--ấn sâu vào, ngập sâu
--bộ góp
--bộ nhận
--bồn rửa bát// chìm xuống, lún xuống// khoan, đào
--chậu rửa
--chìm đầu
--chỗ thoát
--chỗ trũng
--đặt xuống
--giếng thấm nước
--hạ
--hạ thấp
--hố thấm nước
--hố thu nước
--hồ thu nước
--hố trũng
--khoan
--làm chìm (tàu)
--làm chìm đầu
--làm chìm xuống
--lún
--lún tụt
--lún xuống
--ngập (tàu)
--nhận
--máng xả
--ống thải nước
--ống tháo
--ống xả
--sự co ngót
--sự hạ xuống
--sự xả
--vùng đầm lầy
--vũng lầy
--vùng trũng
--vùng trũng thu nước
-@Lĩnh vực: vật lý
--cấu tiêu nhiệt
--chỗ thoát nhiệt
--làm lún xuống
-@Lĩnh vực: điện lạnh
--chỗ tháo
-@Lĩnh vực: xây dựng
--đào (giếng)
--giếng thu nhiệt
--hố xói lở
--lavabô
--rỗ (kim loại)
--vũng trũng
--xuống sâu dần (lỗ khoan)
+-thực tế
+@Lĩnh vực: cơ khí & công trình
+-thực dụng
 @Lĩnh vực: toán & tin
--góp lại
--nơi chứa, bộ chứa
-@Lĩnh vực: hóa học & vật liệu
--sự rơi xuống đáy
+-thực hành, thực tiễn
+-thực tiễn
+

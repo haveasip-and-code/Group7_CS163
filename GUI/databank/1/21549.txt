@@ -1,27 +1,5 @@
-flowchart	
-@flowchart
-- (Tech) lưu đồ; biểu đồ trình tự thao tác
-@Chuyên ngành kinh tế
--biểu đồ diễn tiến
--biểu đồ quá trình tác nghiệp
--lưu trình đồ
-@Chuyên ngành kỹ thuật
--chương trình khối
--lưu đồ
--lưu thông
-@Lĩnh vực: điện lạnh
--bảng khái quát
-@Lĩnh vực: xây dựng
--địa đồ
-@Lĩnh vực: toán & tin
--giản đồ luồng
-@Chuyên ngành kỹ thuật
--chương trình khối
--lưu đồ
--lưu thông
-@Lĩnh vực: điện lạnh
--bảng khái quát
-@Lĩnh vực: xây dựng
--địa đồ
-@Lĩnh vực: toán & tin
--giản đồ luồng
+warmly
+	
+* phó từ
+- một cách ấm áp
+

@@ -1,40 +1,41 @@
-flooding	
-@flooding
-* danh từ
-- sự làm ngập lụt; sự úng lụt; nạn lụt
-@Chuyên ngành kỹ thuật
--làm ngập
--lũ lụt
--lụt
--ngập nước
--pha loãng
--rót tràn
--sự ngập nước
--sự tràn ngập
--tràn ngập
-@Lĩnh vực: hóa học & vật liệu
--sự chảy tràn
-@Lĩnh vực: xây dựng
--sự chìm ngập
--sự phủ qua
-@Lĩnh vực: cơ khí & công trình
--sự ngộp xăng
--sự úng
-@Chuyên ngành kỹ thuật
--làm ngập
--lũ lụt
--lụt
--ngập nước
--pha loãng
--rót tràn
--sự ngập nước
--sự tràn ngập
--tràn ngập
-@Lĩnh vực: hóa học & vật liệu
--sự chảy tràn
-@Lĩnh vực: xây dựng
--sự chìm ngập
--sự phủ qua
-@Lĩnh vực: cơ khí & công trình
--sự ngộp xăng
--sự úng
+bull
+	
+*  danh từ
+- bò đực
+- con đực (voi, cá voi...)
+=a bull elephant
++ voi đực
+=a bull whale
++ cá voi đực
+- bull (thiên văn học) sao Kim ngưu
+- người đầu cơ giá lên (thị trường chứng khoán)
+=bull operations
++ hoạt động đầu cơ giá lên (ở thị trường chứng khoán)
+- (từ lóng) cớm, mật thám; cảnh sát
+!bull in a china shop
+- người vụng về, lóng ngóng
+!to take the bull by the horns
+- không sợ khó khăn nguy hiểm
+*  nội động từ
+- đầu cơ giá lên (ở thị trường chứng khoán)
+*  ngoại động từ
+- tìm cách nâng giá (hối phiếu ở thị trường chứng khoán)
+*  danh từ
+- sắc lệnh của giáo hoàng
+*  danh từ
+- lời nói ngớ ngẩn, lời nói ngây ngô, lời nói tự nó đã mâu thuẫn ((thường) Irish bull)
+- sai lầm (về ngôn ngữ)
+- (từ lóng) lời nói láo, lời nói bậy bạ, lời nói khoác lác
+*  ngoại động từ
+- (từ lóng) lừa bịp (ai) bằng những lời khoác lác
+*  danh từ
+- nước tráng thùng rượu để uống
+@Chuyên ngành kinh tế
+-đầu cơ giá lên
+-làm cho tăng giá (chứng khoán)
+-mua khống
+-người đầu cơ giá lên (ở Sở giao dịch chứng khoán)
+-Người đầu tư giá tăng Người nghĩ rằng giá sẽ tăng
+-người mua khống (chứng khoán)
+-tư tưởng giá lên
+

@@ -1,16 +1,5 @@
-shutdown	@shutdown
-- sự đóng cửa, sự kết thúc
-@Chuyên ngành kinh tế
--sự đóng cửa
--tạm ngừng hoạt động (của nhà máy)
-@Chuyên ngành kỹ thuật
--hư hỏng
--sự đóng
--sự dừng (lò phản ứng)
--sự ngắt
--sự ngừng
--sự sai lệch
-@Lĩnh vực: xây dựng
--sập xuống
-@Lĩnh vực: toán & tin
--sự ngừng, tắt máy
+nutting
+	
+* danh từ
+- vụ/mùa thu hoạch quả hạch
+

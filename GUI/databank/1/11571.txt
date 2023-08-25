@@ -1,12 +1,11 @@
-contortion	
-@contortion /kən'tɔ:ʃn/
-*  danh từ
-- sự xoắn lại, sự vặn lại
-- sự nhăn mặt, sự méo miệng, sự vặn vẹo tay chân mình mẩy, sự méo mó mặt mày=these contortions can hardly be called dancing
-+ thật khó mà gọi những lối uốn éo vặn vẹo như thế là khiêu vũ
-- (y học) trật khớp
+thermodynamic
+	
+*  tính từ
+- nhiệt động (lực)
 @Chuyên ngành kỹ thuật
--sự xoắn
--vặn
--vặn lại
--xoắn
+-nhiệt động
+@Lĩnh vực: vật lý
+-nhiệt động học
+-nhiệt động lực
+-nhiệt động lực học
+

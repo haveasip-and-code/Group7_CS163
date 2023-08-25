@@ -1,2 +1,14 @@
-restore	@restore
-- phục hồi, xây dựng lại
+originator
+	
+*  danh từ
+- người khởi đầu, người khởi thuỷ
+- người tạo thành, người sáng tạo
+@Chuyên ngành kinh tế
+-người khởi phát
+-người khởi thủy
+@Chuyên ngành kỹ thuật
+-người khởi đầu
+-người tạo
+@Lĩnh vực: toán & tin
+-người truyền dữ liệu
+

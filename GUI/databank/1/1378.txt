@@ -1,3 +1,14 @@
-al	
+participant
+	
+*  danh từ
+- người tham gia, người tham dự
+*  tính từ
+- tham gia, tham dự
+@Chuyên ngành kinh tế
+-người dự cuộc
+-người tham dự
+-người tham gia
 @Chuyên ngành kỹ thuật
--nhôm
+@Lĩnh vực: xây dựng
+-tham dự viên
+

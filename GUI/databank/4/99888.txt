@@ -1,0 +1,3 @@
+crateball
+A game similar to tennis that is played with Milk Crates instead of tennis racket. There is no net or boundaries, and the ball is passed back and forth between the players freeform. Invented by students at WPI in 2001, Crateball is a sport mostly used to observe the confused reactions of people walking by. ; Look for users.wpi.edu/~jeffs/crateball/ on archive.org to see an archive of the original crateball rules.
+

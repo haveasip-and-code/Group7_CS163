@@ -1,7 +1,5 @@
-otology	@otology /ou'tɔlədʤi/
-*  danh từ
-- (y học) khoa tai
-@Chuyên ngành kỹ thuật
--khoa tai
-@Lĩnh vực: y học
--khoa tai, khoa học về các bệnh của tai
+covariance
+	
+- (thống kê) hiệp phương sai
+- lag c. (thống kê) hiệp phương sai trễ
+

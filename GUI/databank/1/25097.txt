@@ -1,11 +1,8 @@
-hatching	
-@hatching
-* danh từ
-- đường gạch bóng trên hình vẽ
+buried
+	
+- (Tech) chôn, ngầm (dưới đất)
 @Chuyên ngành kỹ thuật
--bóng mờ
--nét gạch gạch
--nét kẻ sọc
--sự kẻ sọc
-@Lĩnh vực: toán & tin
--sự tô bóng
+@Lĩnh vực: hóa học & vật liệu
+-bị chìm
+-bị chôn vùi
+

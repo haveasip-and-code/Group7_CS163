@@ -1,29 +1,19 @@
-adhesive	
-@adhesive /əd'hi:siv/
+seamless
+	
 *  tính từ
-- dính, bám chắc=adhesive tape
-+ băng dính=adhesive plaster
-+ thuốc cao dán
-*  danh từ
-- chất dính, chất dán
+- không có đường nối, liền một mảnh
+- đúc, không có mối hàn (ống kim loại)
 @Chuyên ngành kinh tế
--chất dính
+-không có đường nối
 @Chuyên ngành kỹ thuật
--bám dính
--chất dính kết
--dính
--dính bám
--keo
--nối khớp
--vật liệu dính kết
-@Lĩnh vực: y học
--chất dính
-@Lĩnh vực: xây dựng
--có tính dính kết
--dán dính
--keo hồ
--nhựa (cao su)
-@Lĩnh vực: hóa học & vật liệu
--dính cố kết
+-không hàn
+-không khe nối
+-không mối nối
+@Lĩnh vực: dệt may
+-không đường nối
+-liền một mảnh
 @Lĩnh vực: cơ khí & công trình
--vật liệu dính
+-không mối nối (ống)
+@Lĩnh vực: toán & tin
+-tính liền một mảnh
+

@@ -1,4 +1,322 @@
-escapologist	
-@escapologist
-* danh từ
-- người thích "thổi" đồ của người khác như một trò tiêu khiển
+turn
+	
+*  danh từ
+- sự quay; vòng quay
+=a turn of the wheel
++ một vòng bánh xe
+- vòng cuộn, vòng xoắn (dây thép...)
+- sự đổi hướng, sự rẽ; chỗ ngoặt, chỗ rẽ
+=the turn of the tide
++ lúc thuỷ triều thay đổi
+=the turn of the road
++ chỗ ngoặt của con đường
+=to take a turn to the right
++ rẽ về bến phải
+- chiều hướng, sự diễn biến
+=things are taking a bad turn
++ sự việc diễn biến xấu
+=to take a turn for the better
++ có chiều hướng tốt lên
+=to take a turn for the worse
++ có chiều hướng xấu đi
+=to give another turn to the discussion
++ đưa cuộc thảo luận sang một chiều hướng khác
+- sự thay đổi
+=the milk is on the turn
++ sữa bắt đầu trở, sữa bắt đầu chua
+- khuynh hướng, thiên hướng, năng khiếu
+=to have a turn for music
++ có năng khiếu về âm nhạc
+- tâm tính, tính khí
+=to be of a caustic turn
++ tính hay châm biếm chua cay
+- lần, lượt, phiên
+=it is my turn to keep watch
++ đến phiên tôi gác
+- thời gian hoạt động ngắn; chầu
+=to take a turn in the garden
++ dạo chơi một vòng trong vườn
+=I'll take a turn at the oars
++ tôi sẽ đi bơi thuyền một chầu
+- dự kiến, ý định, mục đích
+=that will save my turn
++ cái đó sẽ giúp ích cho ý định của tôi
+- hành vi, hành động, cách đối đãi
+=to do someone a good turn
++ giúp đỡ ai
+- tiết mục
+=a short turn
++ tiết mục ngắn (trong chương trình ca nhạc)
+- (số nhiều) sự thấy kinh (của đàn bà)
+- (ngành in) chữ sắp ngược (để thế tạm chỗ chữ thiếu)
+- (thông tục) sự xúc động; cú, vố
+=it gave me quite a turn!
++ cái đó giáng cho tôi một cú điếng người!
+!at every turn
+- khắp nơi, mọi chỗ; mọi lúc, luôn luôn
+!by turns
+!in turn
+!turn and turn about
+- lần lượt
+!he has not done a turn of work for weeks
+- hàng tuần nay nó chẳng mó đến việc gì
+!the cake is done to a turn
+- bánh vừa chín tới
+!in the turn of a hand
+- chỉ nhoáng một cái, chóng như trở bàn tay
+!to have a fine turn of speed
+- có thể chạy rất nhanh
+!one good turn deserves another
+- (tục ngữ) ở hiền gặp lành, làm ơn lại được trả ơn
+!out of turn
+- lộn xộn, không theo trật tự lần lượt
+!to talk out of one's turn
+- nói nhiều, nói thừa; nói lung tung
+!to take turns about
+- theo thứ tự lần lượt
+*  ngoại động từ
+- quay, xoay, vặn
+=to turn a wheel
++ quay bánh xe
+=to turn the key
++ vặn chìa khoá
+- lộn
+=to turn a dress
++ lộn một cái áo
+=to turn a bag inside out
++ lộn cái túi trong ra ngoài
+- lật, trở, dở
+=to turn a page
++ dở trang sách
+- quay về, hướng về, ngoảnh về
+=to turn one's head
++ quay đầu, ngoảnh đầu
+=he turned his eyes on me
++ nó khoảnh nhìn về phía tôi
+=to turn one's mind to other things
++ hướng ý nghĩ về những điều khác
+- quành, đi quanh, đi vòng rẽ, ngoặt
+=to turn the flank of the enemy
++ đi vòng để tránh thọc vào sườn địch
+- quá (một tuổi nào đó)
+=he has turned fifty
++ ông ấy đã quá năm mươi tuổi
+- tránh; gạt
+=to turn a difficulty
++ tránh sự khó khăn
+=to turn a blow
++ gạt một cú đấm
+- dịch; đổi, biến, chuyển
+=to turn English into Vietnamese
++ dịch tiếng Anh sang tiếng Việt
+=to turn a house into a hotel
++ biến một căn nhà thành khách sạn
+- làm cho
+=you will turn him mad
++ anh sẽ làm cho hắn phát điên
+- làm chua (sữa...)
+=hot weather will turn milk
++ thời tiết nóng làm chua sữa
+- làm khó chịu, làm buồn nôn
+=such food would turn my stomach
++ thức ăn như thế này làm cho tôi buồn nôn
+- làm say sưa; làm hoa lên; làm điên cuồng
+=overwork has turned his brain
++ làm việc quá sức làm cho đầu óc anh ấy hoa lên
+=success has turned his head
++ thắng lợi làm cho anh ấy say sưa
+- tiện
+=to turn a table
+-leg
++ tiện một cái chân bàn
+- sắp xếp, sắp đặt
+*  nội động từ
+- quay, xoay, xoay tròn
+=the wheel turns
++ bánh xe quay
+=to turn on one's heels
++ quay gót
+- lật
+=the boat turned upside down
++ con thuyền bị lật
+- quay về, đi về, ngoặt, rẽ, đổi chiều, đổi hướng
+=he turned towards me
++ nó quay (ngoảnh) về phía tôi
+=to turn to the left
++ rẽ về phía tay trái
+=the wind has turned
++ gió đã đổi chiều
+- trở nên, trở thành, đổi thành, biến thành
+=he has turned proletarian
++ anh ấy đã trở thành người vô sản
+=his face turns pale
++ mặt anh ấy tái đi
+- trở, thành chua
+=the milk has turned
++ sữa chua ra
+- buồn nôn, buồn mửa, lợm giọng
+=my stomach has turned at the sight of blood
++ trông thấy máu tôi buồn nôn lên
+- quay cuồng, hoa lên (đầu óc)
+=my head turns at the thought
++ nghĩ đến điều đó đầu óc tôi quay cuồng
+=his brain has turned with overwork
++ đầu óc anh ta hoa lên vì làm việc quá sức
+- có thể tiện được
+=this wood doesn't turn easily
++ gỗ này không dễ tiện
+!to turn about
+- quay vòng, xoay vòng
+- xoay sang hướng khác; làm cho xoay sang hướng khác
+=about turn!
++ (quân sự) đằng sau quay!
+!to turn against
+- chống lại, trở nên thù địch với; làm cho chống lại
+!to turn away
+- đuổi ra, thải (người làm...)
+- bỏ đi
+- ngoảnh (mặt) đi, quay đi, đưa (mắt) ra chỗ khác
+!to turn back
+- làm cho quay lại lui trở lại, quay trở lại (người)
+- lật (cổ áo...)
+!to turn down
+- gấp (trang sách); gập xuống; bẻ (cổ áo); lui (bấc đèn); lập úp (chụp đèn...)
+- (thông tục) gạt bỏ, bác bỏ (lời đề nghị...)
+- đánh hỏng (một thí sinh)
+!to turn in
+- gấp vào (mép bìa...); gập lại, thu lại
+- xoay vào
+=his toes turn in
++ ngón chân nó xoay vào
+- trả lại, nộp lại
+- (thông tục) đi ngủ
+!to turn into
+- trở thành, đổi thành
+=he has turned intoa miser
++ nó trở thành một thằng bủn xỉn
+!to turn off
+- khoá, tắt, cắt (đèn,  rađiô, điện, nước...)
+- đuổi ra, thải (người làm)
+- (từ lóng) cho cưới
+- (từ lóng) treo cổ (người có tội...)
+- ngoặt, rẽ đi hướng khác
+!to turn on
+- bật, vặn, mở (đèn,  rađiô, điện, nước...)
+- tuỳ thuộc vào
+=everything turns on today's weather
++ mọi việc đều còn tuỳ thuộc vào thời tiết hôm nay
+- chống lại, trở thành thù địch với
+!to turn out
+- đuổi ra, thải (người làm)
+- sản xuất ra (hàng hoá)
+- dốc ra (túi)
+- đưa ra đồng (trâu, bò...)
+- gọi ra
+- xoay ra
+=his toes turn out
++ ngón chân nó xoay ra ngoài
+- (quân sự) tập hợp (để nhận công tác)
+- (thể dục,thể thao) chơi cho
+=he turns out for Racing
++ nó chơi cho đội Ra
+-xinh
+- (thông tục) ngủ dậy, trở dậy
+- đình công
+- hoá ra, thành ra
+=it turned out to be true
++ câu chuyện thế mà hoá ra thật
+=he turned out to be a liar
++ hoá ra nó là một thằng nói dối
+!to turn over
+- lật, dở
+- giao, chuyển giao
+=he has turned the business over to his friend
++ anh ấy giao công việc kinh doanh cho người bạn
+- doanh thu, mua ra bán vào
+=they turned over 1,000,000d last week
++ tuần trước họ mua ra bán vào đến một triệu đồng
+- đắn đo, cân nhắc, lật đi lật lại (một vấn đề)
+=I have turned the question over more than one
++ tôi đã lật đi lật lại vấn đề
+!to turn up
+- lật lên; xắn, vén (tay áo...)
+- xới (đất...)
+- (thông tục) làm lộn mửa, làm buồn nôn
+=the smell nearly turned me up
++ cái mùi ấy làm tôi suýt lộn mửa
+- lật, lật ngược, hếch lên
+=his nose turned up
++ mũi nó hếch lên
+- xảy ra, đến, xuất hiện
+=at what time did he turn up?
++ nó đến lúc nào?
+=he was always expecting something to turn up
++ hắn ta luôn luôn mong đợi có một việc gì xảy ra
+=he turns up like a bad penny
++ (nghĩa bóng) hắn ta cứ vác cái bộ mặt đến luôn
+!to turn upon
+- (như) to turn on
+!to turn the edge of a knife
+- làm cùn lưỡi dao
+!to turn the edge of a remark
+- làm cho lời phê bình đỡ gay gắt; nhẹ lời đi
+!to turn something to account
+- (xem) account
+!to turn the scale (balance)
+- làm lệch cán cân
+- (nghĩa bóng) quyết định cách giải quyết vấn đề
+!to turn a bullet
+- chống lại được đạn, đạn bắn không thủng
+!to turn on the waterworks
+- (xem) waterworks
+!to turn up one's nose at
+- (xem) nose
+!to turn up one's toes
+- (xem) toe
+@Chuyên ngành kinh tế
+-chênh lệch giá giao dịch (chứng khoán, ngoại hối)
+-lưu thông
+-mua bán trở tay
+-sự chu chuyển
+-sự chuyển hóa tiền lãi, tiền hoa hồng
+-sự chuyển hướng (của thị trường)
+-sự đổi hướng
+-vòng quay
+@Chuyên ngành kỹ thuật
+-ca (làm việc)
+-chỗ ngoặt
+-chỗ rẽ
+-chuyển hướng
+-cuộn (dây)
+-đường rẽ
+-mở
+-ống ruột gà
+-phiên
+-quay
+-sự quay
+-sự quay vòng
+-sự xoay vòng
+-vặn
+-vòng
+-vòng dây (điện)
+-vòng quay
+-vòng ren
+-xoắn
+-xoay
+@Lĩnh vực: giao thông & vận tải
+-chỗ đường rẽ
+-quay vòng (tàu)
+-tiện (máy tiện)
+@Lĩnh vực: xây dựng
+-chỗ quay
+-đường ngoặt
+-sự quành (ôtô , tàu, xe)
+@Lĩnh vực: toán & tin
+-điểm rẽ
+-trở thành
+@Lĩnh vực: cơ khí & công trình
+-sự vòng
+-vòng quy
+@Lĩnh vực: điện
+-vòng (dây)
+

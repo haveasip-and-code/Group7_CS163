@@ -1,11 +1,13 @@
-vacate	@vacate /və'keit/
-*  ngoại động từ
-- bỏ trống, bỏ không
-=to vacate one's seat+ bỏ nghề trống
-=to vacate a house+ rời bỏ một ngôi nhà
-- bỏ, thôi, xin thôi
-=to vacate office+ từ chức, xin thôi việc
-- (pháp lý) huỷ bỏ (hợp đồng...)
-@Chuyên ngành kỹ thuật
--bỏ không
--bỏ trống
+feat
+	
+*  danh từ
+- kỳ công, chiến công
+=a feat of arms
++ chiến công
+- ngón điêu luyện, ngón tài ba
+=a feat of arcrobatics
++ ngón biểu diễn nhào lộn điêu luyện
+*  tính từ,  (từ cổ,nghĩa cổ)
+- khéo, khéo léo, khéo tay; giỏi, điêu luyện, tài ba; nhanh nhẹn
+- gọn gàng, diêm dúa
+

@@ -1,12 +1,8 @@
-osmosis	@osmosis /'ɔzmous/ (osmosis) /ɔz'mousis/
-*  danh từ
-- (vật lý),  (sinh vật học); (hoá học) sự thấm lọc, sự thẩm thấu
-@Chuyên ngành kinh tế
--sự thấm lọc
--sự thẩm thấu
+hydrolase
+	
+* danh từ
+- (sinh học) hydrolaza
 @Chuyên ngành kỹ thuật
--sự thấm lọc
--sự thẩm thấu
--thẩm thấu
-@Lĩnh vực: hóa học & vật liệu
--hiện tượng thẩm thấu
+@Lĩnh vực: y học
+-enzyme xúc tác thủy phân một hợp chất (như peptidase)
+

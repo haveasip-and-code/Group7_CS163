@@ -1,23 +1,15 @@
-brew	
-@brew /bru:n/
+hazy
+	
 *  danh từ
-- sự chế, sự ủ (rượu bia); sự pha (trà)
-- mẻ rượu bia
-- chất lượng rượu ủ; chất lượng trà pha=a good strong brew
-+ rượu đậm và ngon
-*  ngoại động từ
-- chế, ủ (rượu bia); pha (trà)=to brew beer
-+ chế rượu bia=to brew tea
-+ pha trà
-- (nghĩa bóng) chuẩn bị, bày, trù tính, trù liệu ((thường) việc xấu)=to brew mischief
-+ bày mưu làm điều ác
-*  nội động từ
-- chế rượu; pha trà
-- (nghĩa bóng) đang tụ tập, đang kéo đến=a storm is brewing
-+ cơn dông đang kéo đến
-- đang được chuẩn bị, đang được trù tính=a plot is brewing
-+ một cuộc âm mưu đang được chuẩn bị!to drink as one has brewed
-- mình làm, mình chịu
+- mù sương; mù mịt
+- lờ mờ, mơ hồ
+- chếnh choáng say, ngà ngà say
 @Chuyên ngành kinh tế
--nấu
--pha
+-cái đầu
+-phần chóp
+-phần đầu
+@Chuyên ngành kỹ thuật
+-mờ
+@Lĩnh vực: hóa học & vật liệu
+-mù sương
+

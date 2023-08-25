@@ -1,21 +1,14 @@
-alley	
-@alley /'æli/
-*  danh từ
-+ (alleyway)/'æli,wei/
-- ngõ, đường đi, lối đi (giữa các dãy nhà); ngõ hẻm, phố hẻm
-- lối đi có cây, đường đi có trồng cây (trong công viên...); hành lang (trong rừng)
-- bãi đánh ki
-*  danh từ
-- hòn bi (bằng đá thạch cao) ((cũng) ally)
-@Chuyên ngành kinh tế
--hầm
+insulated
+	
+* tính từ
+- được cách điện
 @Chuyên ngành kỹ thuật
--đường nhỏ
--lối đi
--lối vào nhà
--ngõ
+-được cách điện
+-được cách ly
+-được cách nhiệt
+@Lĩnh vực: hóa học & vật liệu
+-cách biệt
+-được bảo vệ theo hình thức cách ly
 @Lĩnh vực: xây dựng
--đường có trồng cây
--đường phố nhỏ
--đường rợp bóng
--hẻm
+-được giữ nhiệt
+

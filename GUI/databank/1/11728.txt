@@ -1,10 +1,5 @@
-convex	
-@convex /'kɔn'veks/
-*  tính từ
-- (toán học),  (vật lý) lồi=double convex
-+ hai mặt lồi=convex polygon
-+ đa giác lồi
-@Chuyên ngành kỹ thuật
--lồi
-@Lĩnh vực: toán & tin
--vỏ lồi
+isocyanate
+	
+* danh từ
+- (hoá học) izoxianat
+

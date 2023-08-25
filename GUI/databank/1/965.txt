@@ -1,7 +1,9 @@
-advisory	
-@advisory /əd'vaizəri/
+uninsulated
+	
 *  tính từ
-- để hỏi, để xin ý kiến; cho ý kiến, cố vấn=advisory council
-+ hội đồng tư vấn
+- không cách điện (dây điện)
 @Chuyên ngành kỹ thuật
--cố vấn
+@Lĩnh vực: điện lạnh
+-không được cách điện
+-trang
+

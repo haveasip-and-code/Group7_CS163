@@ -1,6 +1,34 @@
-leakproof	@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--không hở
+wedge
+	
+*  danh từ
+- cái nêm
+- vật hình nêm
+- (quân sự) mũi nhọn
+=to drive a wedge into
++ thọc một mũi vào; (nghĩa bóng) chia rẽ
+*  ngoại động từ
+- nêm, chêm
+- (nghĩa bóng) chen vào, dấn vào
+- (từ hiếm,nghĩa hiếm) bửa bằng nêm, chẻ bằng nêm
+!to wedge away (off)
+- bửa ra, tách ra, chẻ ra
+!to wedge oneself in
+- chen vào, dấn vào
+@Chuyên ngành kinh tế
+-đồ thị dạng hình cái nêm
 @Chuyên ngành kỹ thuật
+-cái chèn
+-cái chèn, cái nêm
+-cái chốt
+-đóng nêm
+-nêm
+-nêm chặt
+-miếng chêm
+@Lĩnh vực: hóa học & vật liệu
+-bulông hình nêm
 @Lĩnh vực: cơ khí & công trình
--không hở
+-cái nêm
+-chốt chêm
+@Lĩnh vực: xây dựng
+-chốt dẹt
+

@@ -1,18 +1,20 @@
-straggling	@straggling /'strægliɳ/ (straggly) /'strægli/
+resultant
+	
 *  tính từ
-- rời rạc, lộn xộn, không theo hàng lối
-- rải rác lẻ tẻ
-=straggling villages+ làng mạc rải rác đây đó
-- bò lan um tùm (cây)
+- kết quả
+- (vật lý),  (toán học) tổng hợp
+=resultant force
++ lực tổng hợp, hợp lực
+=resultant law
++ luật phân phối tổng hợp
+- (vật lý),  (toán học) lực tổng hợp, hợp lực
 @Chuyên ngành kỹ thuật
--phân tán
--rải rác
--rời rạc
--sự khuếch tán
--sự phân tán
+-hợp lực
+-lực tổng hợp
+-tổng hợp
+-tổng hợp lực
 @Lĩnh vực: xây dựng
--cắt rãnh
--sự phân hai
+-vectơ hợp lực
 @Lĩnh vực: điện lạnh
--độ tản mạn
--sự tản mạn
+-vectơ tổng hợp
+

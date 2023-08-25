@@ -1,13 +1,82 @@
-hemp	
-@hemp /hemp/
-*  danh từ
-- (thực vật học) cây gai dầu
-- sợi gai dầu
--(đùa cợt) dây treo cổ, dây thắt cổ
+free
+	
+*  tính từ
+- tự do
+=a free country
++ một nước tự do
+=free hydrogen
++ (hoá học),  hyddro tự do
+=a free translation
++ bản dịch tự do, bản dịch thoát ý
+=free verse
++ thơ tự do (không luật)
+=free love
++ tình yêu tự do (không cần cưới xin)
+- không mất tiền, không phải trả tiền; được miễn
+=free admission
++ vào cửa không mất tiền
+=free of duty
++ được miễn thuế
+=free imports
++ các loại hàng nhập được miễn thuế
+- (
++ from) không bị, khỏi phải, thoát được
+=free from care
++ không phải lo lắng
+=free from pain
++ không bị đau đớn
+=free from dampness
++ không bị ẩm
+- rảnh, không có người ở, không có người giữ chỗ
+=to have very little free time
++ có rất ít thì giờ rảnh
+=there are three rooms free at this hotel
++ ở khách sạn có ba phòng chưa có ai ở
+- lỏng, không bọ ràng buộc
+=to leave one end of the rope free
++ thả lỏng một dây thừng
+- suồng sã; xấc láo; tục
+=to be too free in one's behaviour
++ có thái độ suồng sã
+=a free story
++ một chuyện tục
+- thanh thoát, uyển chuyển, mềm mại; dễ dàng
+=a free style of writing
++ văn phòng thanh thoát, văn phòng uyển chuyển
+=free lines and curves
++ những đường thẳng và nét cong thanh thoát uyển chuyển
+=free gestures
++ những cử chỉ mềm mại uyển chuyển
+- rộng rãi, hào phóng; phong phú, nhiều
+=to spend money with a free hand
++ tiêu tiền hào phóng
+=to be free with one's praise
++ khen ngợi không tiếc lời
+- thông, thông suốt (không bị ngăn cản)
+=a free road
++ con đường thông suốt
+- tự nguyện, tự ý
+=to be free to confess
++ tự nguyện thú
+- được đặc quyền (ở một thành phố); được quyền sử dụng và ra vào (một toà nhà...)
+!free motion
+- xọc xạch; jơ (máy)
+!to give somebody a free hand
+- để cho ai toàn quyền hành động
+!to have one's hands free
+- rảnh tay, không phải lo lắng điều gì
+!to make free use of something
+- tuỳ thích sử dụng cái gì
+*  phó từ
+- tự do
+- không phải trả tiền
+- (hàng hải) xiên gió
+*  ngoại động từ
+- thả, phóng thích, giải phóng, trả tự do
+- gỡ ra khỏi; giải thoát; mở thông (một con đường)
 @Chuyên ngành kỹ thuật
--dây gai
--xơ đay
-@Lĩnh vực: xây dựng
--gai dầu
--sợi gai dầu
--xơ gai
+-bột tự do
+-độc lập
+-lỏng
+-nghỉ
+

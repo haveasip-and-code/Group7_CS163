@@ -1,7 +1,8 @@
-glycosuria	
-@glycosuria /,glikou'sju:riə/
-*  danh từ
-- (y học) bệnh đái đường
+preprocessor
+	
+* danh từ
+- (kỹ thuật) bộ xử lý trước; bộ chọn trước
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--glucoza niệu
+-bộ tiền xử lý
+-bộ xử lý trước
+

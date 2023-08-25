@@ -1,20 +1,14 @@
-rudder	@rudder /'rʌdə/
-*  danh từ
-- bánh lái
-- (nghĩa bóng) nguyên tắc chỉ đạo
-- đũa khuấy (dùng để khuấy mầm lúa mạch trong thùng ủ bia)
+robotics
+	
+* danh từ
+- người máy học; khoa nghiên cứu việc sử dụng người máy (trong (công nghiệp) chế tạo)
+@Chuyên ngành kinh tế
+-khoa học người máy
+-khoa người máy
+-kỹ thuật chế tạo người máy
 @Chuyên ngành kỹ thuật
--bánh lái
--bánh lái (tàu) cánh đuôi lái (phi cơ)
--cánh lái điều khiển
--đũa khuấy
--mặt điều khiển
--tay lái
-@Lĩnh vực: xây dựng
--bánh lái (tàu)
--cánh đuôi lái (phi cơ)
--xà treo (dùng trong đường ống)
-@Lĩnh vực: giao thông & vận tải
--bánh lái hướng
--cánh lái hướng
--tấm lái
+-nghiên cứu người máy
+-robot học
+@Lĩnh vực: toán & tin
+-khoa học người máy
+

@@ -1,3 +1,27 @@
-perchloroethylene	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--tetracloetylen
+dredge
+	
+*  danh từ
+- lưới vét (bắt sò hến ở đáy sông)
+- máy nạo vét lòng sông
+*  động từ
+- kéo lưới vét, đánh lưới vét (bắt sò...)
+=to dredge [for] oysters
++ đánh lưới; vét bắt sò
+- nạo vét (sông, biển bằng máy nạo vét)
+*  ngoại động từ
+- rắc (bột, muối, hạt tiêu...)
+@Chuyên ngành kinh tế
+-lưới vét
+-máy nạo vét
+-nạo vét
+@Chuyên ngành kỹ thuật
+-nạo
+-nạo vét
+-máy nạo vét
+-tàu vét bùn
+@Lĩnh vực: xây dựng
+-hút bùn
+-vét bùn
+@Lĩnh vực: hóa học & vật liệu
+-phần quặng thải
+

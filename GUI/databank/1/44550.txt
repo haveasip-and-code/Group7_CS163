@@ -1,6 +1,41 @@
-ptosis	@ptosis /'tousis/
+abstract
+	
+*  tính từ
+- trừu tượng
+- khó hiểu
+- lý thuyết không thực tế
+!abstract number
+- (toán học) số hư
 *  danh từ
-- (y học) chứng sa mi mắt
+- bản tóm tắt (cuốn sách, luận án, bài diễn văn...)
+- vật trừu tượng
+=in the abstract
++ trừu tượng, lý thuyết
+*  ngoại động từ
+- trừu tượng hoá
+- làm đãng trí
+- rút ra, chiết ra, tách ra
+=to abstract butter from milk
++ tách bơ ra khỏi sữa
+- lấy trộm, ăn cắp
+- tóm tắt, trích yếu
+@Chuyên ngành kinh tế
+-bản tóm tắt
+-bản trích yếu
+-rút ra
+-toát yếu
+-tóm tắt
+-trích yếu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chứng sa mi mắt
+-bản tóm tắt
+-chiết ra
+-ngâm chiết
+-rút ra
+@Lĩnh vực: xây dựng
+-bảng thành quả
+-trừu tượng hóa
+@Lĩnh vực: toán & tin
+-đoạn tóm tắt
+@Lĩnh vực: điện
+-trích ra
+

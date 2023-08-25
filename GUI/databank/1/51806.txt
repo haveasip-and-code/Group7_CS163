@@ -1,8 +1,5 @@
-solute	@solute
-* danh từ
-- chất tan
-@Chuyên ngành kinh tế
--chất hòa tan
-@Chuyên ngành kỹ thuật
--chất hòa tan
--hòa tan
+resistless
+	
+*  tính từ
+- không chống lại được; không cưỡng lại được
+

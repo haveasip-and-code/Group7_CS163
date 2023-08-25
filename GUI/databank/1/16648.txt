@@ -1,10 +1,14 @@
-downturn	
-@downturn
-* danh từ
-- sự suy sụp (trong hoạt động (kinh tế))
+bogus
+	
+*  tính từ
+- hư, ma giả, không có thật
+=a bogus company
++ công ty ma, công ty không có thật
 @Chuyên ngành kinh tế
--đi xuống
--suy thoái
--suy vi
--thời kỳ suy thoái (của trạng xuống kinh tế)
--xu thế xuống dốc
+-giả
+-giả mạo
+-không thật
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-không thật
+

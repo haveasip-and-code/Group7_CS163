@@ -1,8 +1,4 @@
-hornbook	
-@hornbook
-* danh từ
-- cuốn sách nhỏ dạy trẻ em tập đọc
-- luận đề thô sơ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sách vỡ lòng
+postponable
+	
+- xem postpone
+

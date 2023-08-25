@@ -1,0 +1,3 @@
+Polymorphic Trojan
+A type of trojan horse that changes with every server that is created by the server generator. The server generator uses a pseudo-random algorithm to create new, unique and random sequences of code instructions with every server that is created. The result is thousands, sometimes millions of possible different mutations of the one trojan, all of which have unique code - this makes detection very difficult, and today we see that only a few scanners can handle polymorphics.
+

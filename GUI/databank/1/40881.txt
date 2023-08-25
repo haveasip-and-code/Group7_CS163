@@ -1,2 +1,30 @@
-pervasiveness	@pervasiveness
-- xem pervasive
+mean
+	
+- trung bình // giá trị trugn bình; phương tiện; phương pháp by all
+- m.s bằng mọi cách; by any m.s bằng bất kỳ cách nào; by m.s of gián
+- tiếp, bằng phương pháp; by no m.s không có cách nào; in the m. ở (mức)
+- trung bình
+- m. of a function (giải tích) giá trị trung bình của hàm
+- m. of observation trung bình quan trắc
+- arithmetic m. trung bình cộng
+- assumed m. trung bình giả định
+- asymptotic(al) m. trung bình tiệm cận
+- class m. số trung bình trong lớp
+- combinatorial power m. (thống kê) trung bình luỹ thừa tổ hợp
+- controlling m. phươgn tiện [điều khiển, điều chỉnh]
+- engaging m.s (máy tính) phương tiện cho chạy
+- geometric m. trung bình nhân
+- harmonic m. trung bình điều hoà
+- measuring m.s (máy tính) phương tiện đo lường
+- modified m. trung bình cải biên
+- population m. kỳ vọng lý thuyết
+- power m. (thống kê) trung bình luỹ thừa
+- pulse generating m. (máy tính) thiết bị máy phát xung
+- quadratic m. (thống kê) bình phương trung bình
+- sample m. trung bình mẫu
+- true m. trung bình chân thực
+- universe m. kỳ vọng lý thuyết; giá trị trung bình của tập hợp tổng quát,
+- trung bình tổng quát
+- unweighted m. (toán kinh tế) trung bình không có trọng lượng
+- weight m.s trung bình có trọng lượng
+

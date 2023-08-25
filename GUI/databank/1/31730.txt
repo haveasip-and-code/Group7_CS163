@@ -1,16 +1,5 @@
-leaded	@Chuyên ngành kỹ thuật
--bọc chì
--được bọc chì
--được phủ chì
--mạ chì
-@Lĩnh vực: hóa học & vật liệu
--có chứa chì
--được mạ chì
-@Chuyên ngành kỹ thuật
--bọc chì
--được bọc chì
--được phủ chì
--mạ chì
-@Lĩnh vực: hóa học & vật liệu
--có chứa chì
--được mạ chì
+debridement
+	
+@Lĩnh vực: y học
+-mở ổ
+

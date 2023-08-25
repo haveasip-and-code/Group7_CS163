@@ -1,16 +1,5 @@
-frosting	
-@frosting /'frɔstiɳ/
-*  danh từ
-- lượt phủ (kem, đường... trên bánh ngọt)
-- sự rắc đường lên bánh
-- mặt bóng (trên kính, kim loại...)
-@Chuyên ngành kỹ thuật
--đóng băng
--nạo trang trí
--sự đóng băng
--sự làm lạnh
--sự làm mờ
-@Lĩnh vực: hóa học & vật liệu
--phủ sương giá
-@Lĩnh vực: thực phẩm
--sự đông giá
+refurnish
+	
+* ngoại động từ
+- cung cấp vật liệu mới
+

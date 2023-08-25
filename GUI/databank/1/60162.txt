@@ -1,4 +1,13 @@
-unpolitical	@unpolitical
+thermionic
+	
 * tính từ
-- phi chính trị
-- không thuộc về chính trị
+- thecmionic, thuộc kỹ thuật 
+- điện tử học (thuộc ngành <lý> nghiên cứu sự phát ra các electron ở nhiệt độ cao)
+@Chuyên ngành kỹ thuật
+-nhiệt điện tử
+@Lĩnh vực: điện
+-nhiệt xạ
+@Lĩnh vực: điện lạnh
+-thuộc nhiệt electron
+-thuộc nhiệt ion
+

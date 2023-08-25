@@ -1,10 +1,15 @@
-incorrect	
-@incorrect /,inkə'rekt/
-*  tính từ
-- không đúng, không chỉnh, sai
-- còn đầy lỗi (sách đưa in...)
-- không đứng đắn (thái độ)
+personnel
+	
+*  danh từ
+- toàn thể cán bộ công nhân viên (cơ quan, nhà máy...)
+- (từ Mỹ,nghĩa Mỹ) phòng tổ chức cán bộ, vụ tổ chức cán bộ
+!personnel department
+- vụ tổ chức cán bộ, vụ nhân sự
+@Chuyên ngành kinh tế
+-nhân viên
+-phòng tổ chức cán bộ
+-toàn thể nhân viên
 @Chuyên ngành kỹ thuật
--sai
-@Lĩnh vực: toán & tin
--không chỉnh
+-biên chế
+-nhân viên
+

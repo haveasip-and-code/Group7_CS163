@@ -1,10 +1,6 @@
-occur	@occur /ə'kə:/
-*  nội động từ
-- xảy ra, xảy đên
-- nảy ra (ý nghĩ)
-=it occurs to me that+ tôi chợt nảy ra ý nghĩ là
-- xuất hiện, tìm thấy
-=several misprints occur on the first page+ nhiều lỗi in sai tìm thấy ở trang nhất
-@Chuyên ngành kỹ thuật
--xảy ra
--xuất hiện
+newshound
+	
+* danh từ
+- xem news
+-gatherer
+

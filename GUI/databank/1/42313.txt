@@ -1,20 +1,62 @@
-polar	@polar /'poulə/
-*  tính từ
-- (thuộc) địa cực, ở địa cực
-- (điện học) có cực
-- (toán học) cực
-=polar angle+ góc cực
-- (nghĩa bóng) hoàn toàn đối nhau, hoàn toàn trái ngược nhau
+date
+	
 *  danh từ
-- (toán học) đường cực, diện cực
+- quả chà là
+- (thực vật học) cây chà là
+*  danh từ
+- ngày tháng; niên hiệu, niên kỷ
+=what's the date today?
++ hôm nay ngày bao nhiêu?
+=date of birth
++ ngày tháng năm sinh
+- (thương nghiệp) kỳ, kỳ hạn
+=to pay at fixed dates
++ trả đúng kỳ hạn
+=at long date
++ kỳ hạn dài
+=at short date
++ kỳ hạn ngắn
+- thời kỳ, thời đại
+=Roman date
++ thời đại La mã
+=at that date electric light was unknown
++ thời kỳ đó người ta chưa biết đến đèn điện
+- (từ cổ,nghĩa cổ); (thơ ca) tuổi tác; đời người
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự hẹn hò, sự hẹn gặp
+=to have a date with somebody
++ hẹn gặp ai
+=to make a date
++ hẹn hò
+*  ngoại động từ
+- đề ngày tháng; ghi niên hiệu
+=to date a letter
++ đề ngày tháng vào một bức thư
+=to date back
++ đề lùi ngày tháng
+- xác định ngày tháng, xác định thời đại
+=to date an old statue
++ xác định thời đại của một pho tượng thời thượng cổ
+- (thông tục) hẹn hò, hẹn gặp (ai)
+*  nội động từ
+- có từ, bắt đầu từ, kể từ
+=this manuscrips dates from the XIVth century
++ bản viết tay này có từ thế kỷ 14
+=dating from this period
++ kể từ thế kỷ đó
+- đã lỗi thời, đã cũ; trở nên lỗi thời
+- (thông tục) hẹn hò với bạn (bạn trai, bạn gái)
+@Chuyên ngành kinh tế
+-cây chà là
+-đề ngày tháng
+-kỳ hạn
+-ngày tháng
+-nhật ký
+-quả chà là
+-thời hạn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--có cực
+-ngày
+-ngày tháng
+-ngày tháng năm
 @Lĩnh vực: toán & tin
--cực diện
--cực tuyến
-@Lĩnh vực: xây dựng
--đường đối cực
--thuộc về cực
-@Lĩnh vực: y học
--thuộc cực
+-ghi ngày tháng
+

@@ -1,7 +1,47 @@
-diabetic	
-@diabetic /,daiə'betik/
-*  tính từ
-- (y học) (thuộc) bệnh đái đường
-- mắc bệnh đái đường
+once
+	
+*  phó từ
+- một lần
+=once or twice
++ một hay hai lần
+=once more
++ một lần nữa
+- một khi
+=when once he understands
++ một khi nó đã hiểu
+- trước kia, xưa kia
+=once upon a time
++ ngày xửa, ngày xưa
+- đã có một thời
+=once famour artist
++ nghệ sĩ nổi danh một thời
+!all at once
+- (xem) all
+!once at once
+- ngay một lúc, cùng một lúc
+- lập tức
+!for once
+- ít nhất là một lần
+!once and again
+- (xem) again
+!once bitten, twice shy
+- (tục ngữ) phải một bận, cạch đến già
+!once for all
+- một lần cho mãi mãi; dứt khoát
+!once in a white
+- thỉnh thoảng, đôi khi
+*  liên từ
+- khi mà, ngay khi, một khi
+=once he hesitates we have him
++ một khi nó do dự là ta thắng nó đấy
 *  danh từ
-- (y học) người mắc bệnh đái đường
+- một lần
+=once is enough for me
++ một lần là đủ đối với tôi
+@Chuyên ngành kỹ thuật
+-đôi khi
+-một lần
+-một lần, đôi khi
+@Lĩnh vực: toán & tin
+-họa hoằn
+

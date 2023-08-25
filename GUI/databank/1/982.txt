@@ -1,9 +1,8 @@
-aeon	
-@aeon /'i:ən/ (eon) /'i:ən/
-*  danh từ
-- thời đại, niên kỷ
-- sự vĩnh viễn; khoảng thời gian vô tận
-@Chuyên ngành kỹ thuật
--niên kỷ
-@Lĩnh vực: cơ khí & công trình
--niên đại
+wend
+	
+*  động từ
+- hướng (bước đi) về phía
+=to wend one's way home
++ đi về nhà
+- (từ cổ,nghĩa cổ) đi
+

@@ -1,10 +1,5 @@
-hauling	
-@Chuyên ngành kinh tế
--giòng tàu
--sự giòng tàu
--sự kéo thuyền
-@Chuyên ngành kỹ thuật
--sự chuyên chở
--sự dắt
--sự kéo
--sự vận chuyển
+cornu
+	
+@Lĩnh vực: y học
+-sừng
+

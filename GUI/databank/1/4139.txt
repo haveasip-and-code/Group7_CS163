@@ -1,8 +1,8 @@
-autotype	
-@autotype /'ɔ:tətaip/
-*  danh từ
-- bản sao đúng
-- thuật in ảnh
-*  ngoại động từ
-- sao đúng
-- in ảnh
+pebbled
+	
+@Lĩnh vực: hóa học & vật liệu
+-có cuội
+@Lĩnh vực: xây dựng
+-được rải cuội
+-rải sỏi
+

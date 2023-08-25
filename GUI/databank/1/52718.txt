@@ -1,6 +1,10 @@
-sprite	@sprite /sprait/
-*  danh từ
-- yêu tinh, ma quỷ
+resistive
+	
+*  tính từ
+- chống lại, cưỡng lại
+- (vật lý) có điện trở
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--hình sprit (ở đồ họa máy tính)
+-điện trở
+@Lĩnh vực: điện lạnh
+-thuần trở
+

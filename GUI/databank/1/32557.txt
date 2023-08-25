@@ -1,41 +1,5 @@
-local	@local /'loukəl/
-*  tính từ
-- địa phương
-=local authorities+ nhà đương cục địa phương
-=local time+ giờ địa phương
-=local colour+ (văn học) màu sắc địa phương
-=local government+ chính quyền địa phương
-- bộ phận, cục bộ
-=local war+ chiến tranh cục bộ
-- (toán học) (thuộc) quỹ tích
-*  danh từ
-- người dân địa phương; người làm nghề tự do ở địa phương; người giảng đạo ở địa phương
-- tin tức địa phương
-- xe lửa địa phương
-- tem địa phương
-- đội thể thao (bóng đá, bóng chuyền...) địa phương
-- (số nhiều) kỳ thi địa phương
-- (thông tục) trụ sở, công quán
-@Chuyên ngành kinh tế
--bản địa
--tại chỗ
--tại địa phương
--trong xứ
-@Chuyên ngành kỹ thuật
--địa phương
--định xứ
--khu vực
--nội hạt
--vùng
--vùng dân cư
-@Lĩnh vực: toán & tin
--nội vùng
-@Chuyên ngành kỹ thuật
--địa phương
--định xứ
--khu vực
--nội hạt
--vùng
--vùng dân cư
-@Lĩnh vực: toán & tin
--nội vùng
+deoxygenate
+	
+*  ngoại động từ
+- (hoá học) loại oxy
+

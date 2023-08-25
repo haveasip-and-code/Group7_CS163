@@ -1,13 +1,19 @@
-tissue	@tissue /'tisju:/
-*  danh từ
-- vải mỏng
-- mớ, tràng, dây (chuyện nói láo, chuyện vô lý...)
-- giấy lụa ((cũng) tissue-paper)
-- (sinh vật học) mô
-=nervous tissue+ mô thần kinh
-@Chuyên ngành kinh tế
--mô
+artificial
+	
+*  tính từ
+- nhân tạo
+=artificial silk
++ lụa nhân tạo
+=artificial respiration
++ hô hấp nhân tạo
+- không tự nhiên, giả tạo; giả
+=artificial flowers
++ hoa giả
+=artificial smile
++ nụ cười giả tạo
 @Chuyên ngành kỹ thuật
--giấy lụa
--giấy mỏng
--mô
+-giả tạo
+-nhân tạo
+@Lĩnh vực: y học
+-thụ tinh nhân tạo
+

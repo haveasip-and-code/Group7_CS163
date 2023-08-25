@@ -1,4 +1,33 @@
-grisaille	
-@grisaille
-* danh từ
-- cách vẽ trang trí bằng sắc thái xám để tạo nên ấn tượng không gian ba chiều
+direction
+	
+*  danh từ
+- sự điều khiển, sự chỉ huy, sự cai quản
+=to assume the direction of an affair
++ nắm quyền điều khiển một công việc
+- ((thường) số nhiều) lời chỉ bảo, lời hướng dẫn, chỉ thị, huấn thị
+=directions for use
++ lời hướng dẫn cách dùng
+=to give directions
++ ra chỉ thị
+- phương hướng, chiều, phía, ngả
+=in the direction of...
++ về hướng (phía...)
+- mặt, phương diện
+=improvement in many directions
++ sự cải tiến về nhiều mặt
+- (như) directorate
+@Chuyên ngành kinh tế
+-chỉ huy
+-phương hướng
+-sự điều khiển
+@Chuyên ngành kỹ thuật
+-định hướng
+-hướng
+-phương
+-phương hướng
+-sự chỉ dẫn
+-sự điều hành
+@Lĩnh vực: điện lạnh
+-hướng đẩy ra
+-hướng xả
+

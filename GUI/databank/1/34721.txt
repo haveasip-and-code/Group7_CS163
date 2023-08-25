@@ -1,3 +1,13 @@
-microencapsulation	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--vỏ nồi capxun
+elm
+	
+*  danh từ
+- (thực vật học) cây đu
+@Chuyên ngành kỹ thuật
+-cây đu
+@Lĩnh vực: xây dựng
+-gỗ đu
+@Chuyên ngành kỹ thuật
+-cây đu
+@Lĩnh vực: xây dựng
+-gỗ đu
+

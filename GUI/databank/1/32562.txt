@@ -1,28 +1,9 @@
-locality	@locality /lou'kæliti/
-*  danh từ
-- vùng, nơi, chỗ, địa phương
-- vị trí; trụ sở
-- phương hướng; phép định hướng
-- tài nhớ đường; tài định hướng ((cũng) sense of locality; bump of locality)
+melanotic
+	
+*  tính từ
+- (y học) (thuộc) bệnh hắc tố
+- mắc bệnh hắc tố
 @Chuyên ngành kỹ thuật
--địa phương
--khu
--khu ở
--miền
--vùng
--vùng dân cư
-@Lĩnh vực: xây dựng
--địa thể
-@Lĩnh vực: điện lạnh
--tính định xứ
-@Chuyên ngành kỹ thuật
--địa phương
--khu
--khu ở
--miền
--vùng
--vùng dân cư
-@Lĩnh vực: xây dựng
--địa thể
-@Lĩnh vực: điện lạnh
--tính định xứ
+@Lĩnh vực: y học
+-thuộc nhiễm melanin
+

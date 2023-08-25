@@ -1,12 +1,10 @@
-geometry	
-@geometry /dʤi'ɔmitri/
+nurture
+	
 *  danh từ
-- hình học
-@Chuyên ngành kỹ thuật
--dạng ngoài
--hình dạng
--hình học
--hình học phẳng
--môn hình học
-@Lĩnh vực: điện lạnh
--hình (học)
+- đồ ăn
+- sự nuôi dưỡng
+- sự giáo dục
+*  ngoại động từ
+- nuôi nấng, nuôi dưỡng
+- giáo dục
+

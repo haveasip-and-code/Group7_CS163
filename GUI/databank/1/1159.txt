@@ -1,6 +1,75 @@
-agaric	
-@agaric /'ægərik/
+primary
+	
+*  tính từ
+- nguyên thuỷ, đầu, đầu tiên
+=primary rocks
++ đá nguyên sinh
+- gốc, nguyên, căn bản
+=the primary meaning of a word
++ nghĩa gốc của một từ
+- sơ đẳng, sơ cấp
+=primary school
++ trường sơ cấp
+=primary education
++ giáo dục sơ đẳng
+=primary particle
++ (vật lý) hạt sơ cấp
+- chủ yếu, chính, bậc nhất
+=the primary aim
++ mục đích chính
+=primary stress
++ trọng âm chính
+=the primary tenses
++ (ngôn ngữ học) những thời chính (hiện tại, tương lai, quá khứ)
+=of primary importance
++ quan trọng bậc nhất
+- (địa lý,địa chất) (thuộc) đại cổ sinh
+!primary battery
+- (điện học) bộ pin
+!primary meeting (assembly)
+- hội nghị tuyển lựa ứng cử viên
 *  danh từ
-- (thực vật học) nấm tán
+- điều đầu tiên
+- điều chính, điều chủ yếu, điều căn bản
+- (hội họa) màu gốc
+- (thiên văn học) hành tinh sơ cấp (hành tinh xoay quanh mặt trời)
+- hội nghị tuyển lựa ứng cử viên
+- (địa lý,địa chất) đại cổ sinh
 @Chuyên ngành kinh tế
--nấm mũ
+-chính
+-chính yếu
+-chủ yếu
+-cơ bản
+-cốt yếu
+-đầu
+-đầu tiên
+-nguyên thủy
+-sơ cấp
+-thứ nhất
+-trọng yếu
+@Chuyên ngành kỹ thuật
+-bản
+-ban đầu
+-chủ yếu
+-cơ sở
+-cuộn sơ cấp
+-đầu tiên
+-nguyên sinh
+-nguyên sơ
+-nguyên thủy
+-sơ bộ
+-sơ cấp
+@Lĩnh vực: điện
+-cấp một
+@Lĩnh vực: điện lạnh
+-cuộn dây sơ cấp
+-thứ nhất
+@Lĩnh vực: vật lý
+-cuộn dây sớ cấp
+@Lĩnh vực: xây dựng
+-đại cổ sinh
+@Lĩnh vực: toán & tin
+-nguyên lý sơ yếu
+@Lĩnh vực: ô tô
+-mạch sơ cấp (đánh lửa)
+

@@ -1,9 +1,4 @@
-castability	
-@castability
-* danh từ
-- tính đúc được; độ chảy loãng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--chất lượng đúc
--khả năng đúc
--tính chảy loãng
+conductorial
+	
+- xem conductor
+

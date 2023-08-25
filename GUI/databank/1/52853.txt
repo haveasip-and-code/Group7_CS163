@@ -1,6 +1,5 @@
-stabile	@stabile
-* tính từ
-- cố định; ổn định
-- chống lại tác dụng hoá học
+fallback
+	
 * danh từ
-- tác phẩm kiến trúc, điêu khắc giống một vật chuyển động, nhưng vẫn đứng yên
+- vật dự trữ; sự rút lui
+

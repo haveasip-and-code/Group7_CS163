@@ -1,4 +1,5 @@
-fallible	
-@fallible /'fæləbl/
-*  tính từ
-- có thể sai lầm; có thể là sai
+flocci
+	
+*  danh từ,  số nhiều flocci
+- cụm (xốp như len)
+

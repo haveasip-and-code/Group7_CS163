@@ -1,8 +1,5 @@
-insect	
-@insect /'insekt/
-*  danh từ
-- (động vật học) sâu bọ, côn trùng
-- (nghĩa bóng) đồ nhãi nhép, đồ sâu bọ, đồ giun dế
-@Chuyên ngành kỹ thuật
+xenograft
+	
 @Lĩnh vực: y học
--côn trùng
+-ghép ngoại lai
+

@@ -1,9 +1,12 @@
-channeling	
-@channeling
-- (Tech) mở kênh, truyền qua kênh
-@Chuyên ngành kinh tế
--hệ thống kênh
+arithmetic
+	
+*  danh từ
+- số học
+- sự tính
+- sách số học
+*  tính từ
+- (như) arithmetical
 @Chuyên ngành kỹ thuật
--sự đào kênh
-@Lĩnh vực: điện tử & viễn thông
--sự truyền kênh theo
+-số học
+-thuật toán
+

@@ -1,7 +1,13 @@
-fortify	
-@fortify /'fɔ:tifai/
-*  ngoại động từ
-- củng cố, làm cho vững chắc, làm cho mạnh thêm=to fortify one's courage
-+ củng cố lòng dũng cảm
+weatherproof
+	
+* tính từ
+- có thể chịu được (mưa, gió, tuyết ); có thể ngăn được (mưa, gió, tuyết )
 @Chuyên ngành kỹ thuật
--tăng cường
+-chịu được (tác động) khí quyển
+-chịu được thời tiết
+-chịu mưa nắng
+@Lĩnh vực: xây dựng
+-bền khí quyển
+@Lĩnh vực: hóa học & vật liệu
+-chịu thời tiết (mưa, gió...)
+

@@ -1,7 +1,6 @@
-gnash	
-@gnash /næʃ/
-*  ngoại động từ
-- nghiến (răng)=to gnash one's teeth
-+ nghiến răng (vì giận)
-*  nội động từ
-- nghiến răng
+severable
+	
+*  tính từ
+- có thể chia rẽ được
+- có thể cắt đứt được
+

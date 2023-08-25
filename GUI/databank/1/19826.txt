@@ -1,23 +1,17 @@
-expectation	
-@expectation /,ekspek'teiʃn/
-*  danh từ
-- sự mong chờ, sự chờ đợi, sự ngóng chờ, sự trông mong
-- sự tính trước, sự dự tính=beyond expectation
-+ quá sự dự tính=contrary to expectation
-+ ngược lại với sự dự tính
-- lý do trông mong, điều mong đợi
-- (số nhiều) triển vọng được hưởng gia tài
-- khả năng (có thể xảy ra một việc gì)!expectation of life
-- thời gian trung bình còn sống thêm (của người nào..., theo số liệu thống kê)
+tripartite
+	
+*  tính từ
+- giữa ba bên, tay ba
+=a tripartite treaty
++ hiệp ước tay ba
+- gồm ba phần
+- (thực vật học) phân ba (phiến lá)
+@Chuyên ngành kinh tế
+-giữa ba bên
+-gồm ba phần
+-tay ba
 @Chuyên ngành kỹ thuật
--kỳ vọng
--triển vọng
--trung bình
-@Lĩnh vực: xây dựng
--sự đợi chờ
-@Chuyên ngành kỹ thuật
--kỳ vọng
--triển vọng
--trung bình
-@Lĩnh vực: xây dựng
--sự đợi chờ
+@Lĩnh vực: hóa học & vật liệu
+-ba phần
+-ba thể (rắn, lỏng, hơi)
+

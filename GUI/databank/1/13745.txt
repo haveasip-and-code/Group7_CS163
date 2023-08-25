@@ -1,9 +1,9 @@
-decapitate	
-@decapitate /di,kæpiteit/
-*  ngoại động từ
-- chém đầu, chặt đầu, xử trảm
-@Chuyên ngành kinh tế
--chặt đầu (cá)
+subsequence
+	
+*  danh từ
+- sự đến sau, sự xảy ra sau
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trảm cấp
+-dãy con
+@Lĩnh vực: toán & tin
+-phân dãy
+

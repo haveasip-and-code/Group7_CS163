@@ -1,23 +1,7 @@
-inductor	
-@inductor /in'dʌktə/
-*  danh từ
-- người làm lễ nhậm chức (cho một mục sư)
-- (điện học) phần cảm điện
-@Chuyên ngành kỹ thuật
--bộ điện kháng
--cảm biến
--cuộn (dây)
--cuộn cảm ứng
--cuộn cản
--độ tự cảm
--ống dây
--phần cảm
-@Lĩnh vực: hóa học & vật liệu
--chất cảm ứng
-@Lĩnh vực: y học
--chất gây cảm ứng
--mô tạo cảm ứng
-@Lĩnh vực: điện tử & viễn thông
--điện cảm
-@Lĩnh vực: điện
--phần cảm điện
+biologic
+	
+*  tính từ
+- (thuộc) sinh vật học
+=biologic warfare
++ chiến tranh vi trùng
+

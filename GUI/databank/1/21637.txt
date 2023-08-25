@@ -1,32 +1,5 @@
-flute	
-@flute /flute/
-*  danh từ
-- (âm nhạc) cái sáo
-- người thổi sáo, tay sáo
-- (kiến trúc) đường rãnh máng (ở cột)
-- nếp máng (tạo nên ở quần áo hồ cứng)
-*  động từ
-- thổi sáo
-- nói thánh thót, hát thánh thót (như tiếng sáo)
-- làm rãnh máng (ở cột)
-- tạo nếp máng (ở quần áo hồ cứng)
-@Chuyên ngành kỹ thuật
--đường rãnh
--đường xoi
--gờ
--hào
--khe
--khía
--làm thành rãnh
--máng
--máng nghiêng
--máng nhỏ
--ống rót
--rãnh
--vết xước
-@Lĩnh vực: xây dựng
--đường khía
--đường rãnh (đào)
--máng rãnh
-@Lĩnh vực: cơ khí & công trình
--rãnh khe
+unfolding
+	
+@Lĩnh vực: vật lý
+-sự trải ra (của các phổ)
+

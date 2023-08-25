@@ -1,8 +1,8 @@
-weevil	@weevil /'wi:vil/
+tournament
+	
 *  danh từ
-- (động vật học) mọt ngũ cốc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--mọt (ngũ cốc)
-@Lĩnh vực: hóa học & vật liệu
--thợ khoan mới (tiếng lóng)
+- (thể dục,thể thao) cuộc đấu
+=tennis tournament
++ cuộc đấu quần vợt
+- (sử học) cuộc đấu thương trên ngựa ((như) tourney)
+

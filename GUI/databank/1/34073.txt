@@ -1,11 +1,5 @@
-mechanic	@mechanic /mi'kænik/
-*  danh từ
-- thợ máy, công nhân cơ khí
-@Chuyên ngành kỹ thuật
--cơ học
--thợ kim khí
-@Lĩnh vực: cơ khí & công trình
--cơ khí
--thợ cơ khí
-@Lĩnh vực: xây dựng
--thợ chữa máy
+greedily
+	
+* phó từ
+- tham lam, thèm khát
+

@@ -1,16 +1,7 @@
-intrinsic	
-@intrinsic /in'trinsik/ (intrinsical) /in'trinsikəl/
-*  tính từ
-- (thuộc) bản chất, thực chất; bên trong=intrinsic value
-+ giá trị bên trong; giá trị thực chất
-- (giải phẫu) ở bên trong
+amiga
+	
+- Tên dòng máy tính Amiga
 @Chuyên ngành kỹ thuật
--bản thân
--bên trong
--được cài đặt sẵn
--được định nghĩa trước
--nội tại
--thực
-@Lĩnh vực: điện lạnh
--trong
--tự tại
+@Lĩnh vực: toán & tin
+-máy tính Amiga
+

@@ -1,7 +1,9 @@
-warhead	@warhead
+resister
+	
 * danh từ
-- đầu nổ của một tên lửa hay ngư lôi
-= equipped with a nuclear warhead+có lắp đầu đạn hạt nhân
+- người chống lại
 @Chuyên ngành kỹ thuật
--đầu đạn
--đầu nổ (tàu vũ trụ)
+-cái điện trở
+@Lĩnh vực: xây dựng
+-khả kháng
+

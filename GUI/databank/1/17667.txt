@@ -1,7 +1,26 @@
-electrokinetics	
-@electrokinetics
-- (Tech) điện động học
+proportional
+	
+*  tính từ,  số nhiều
+- cân xứng, cân đối
+- tỷ lệ
+=directly proportional
++ tỷ lệ thuận
+=inversely proportional
++ tỷ lệ nghịch
+!proportional representation
+- chế độ bầu đại biểu của tỷ lệ
+*  tính từ
+- (toán học) số hạng của tỷ lệ thức
+@Chuyên ngành kinh tế
+-tương xứng
+-tỷ lệ
 @Chuyên ngành kỹ thuật
--điện động học
-@Chuyên ngành kỹ thuật
--điện động học
+@Lĩnh vực: hóa học & vật liệu
+-theo tỷ lệ
+@Lĩnh vực: xây dựng
+-tương xứng
+-tỷ lệ (với)
+-tỷ lệ số
+@Lĩnh vực: toán & tin
+-tỷ lệ thức
+

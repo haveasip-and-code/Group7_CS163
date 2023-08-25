@@ -1,8 +1,5 @@
-proboscis	@proboscis /proboscis/
-*  danh từ
-- vòi (voi, sâu bọ)
--(đùa cợt) mũi (người)
-@Chuyên ngành kỹ thuật
--vòi
-@Lĩnh vực: xây dựng
--vòi voi
+impastoed
+	
+* tính từ
+- thuộc kỹ thuật dùng chất màu đậm đặc trong bức hoạ
+

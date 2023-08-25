@@ -1,23 +1,35 @@
-poach	@poach /poutʃ/
+attempt
+	
+*  danh từ
+- sự cố gắng, sự thử
+=to make an attempt at doing something (to do something)
++ thử làm một việc gì
+=to fail in one's attempt
++ thử làm nhưng thất bại
+- (attemper on,  upon) sự mưu hại, sự xâm phạm, sự phạm đến
+=an attempt on somebody's life
++ sự mưu hại ai
+=an attempt on somebody's prerogatives
++ sự phạm đến đặc quyền của ai
 *  ngoại động từ
-- bỏ vô chần nước sôi; chần nước sôi (trứng)
-*  ngoại động từ
-- (+ into) thọc, đâm (gậy, ngón tay... vào cái gì)
-- giẫm nát (cỏ...); giẫm lầy (đất...) (ngựa...)
-- săn trộm, câu trộm
-=to poach hares+ săn trộm thỏ rừng
-- xâm phạm (tài sản người khác)
-- (thể dục,thể thao) đánh (bóng quần vợt) lấn phần sân đồng đội
-- dở ngón ăn gian để đạt (thắng lợi trong cuộc đua...)
-*  nội động từ
-- bị giẫm lầy (đất)
-- săn trộm, câu trộm (ở khu vực cấm...)
-- xâm phạm
-=to poach on a neighbour's land+ xâm phạm đất đai của người bên cạnh
-- (thể dục,thể thao) đánh bóng lấn phần sân đồng đội (quần vợt)
-- dở ngón ăn gian (trong cuộc chạy đua...)
-@Chuyên ngành kinh tế
--chần nước sôi
+- cố gắng; thử, toan
+=to attempt a hard task
++ cố gắng làm một việc khó khăn
+- mưu hại; xâm phạm, phạm đến
+=to attempt someone's life
++ mưu hại ai
+- gắng, chiếm lấy, thử đánh chiếm (một đồn...)
+- gắng, vượt qua (quả núi...)
+=to attempt a fortress
++ thử đánh chiếm một pháo đài
+=to attempt a mountain peak
++ thử vượt qua một ngọn núi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--chần nước sôi
+-cố gắng
+-ráng
+-sự thử
+-thực nghiệm
+@Lĩnh vực: xây dựng
+-gắng
+-sự cố gắng
+

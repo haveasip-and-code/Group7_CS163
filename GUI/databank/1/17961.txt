@@ -1,42 +1,30 @@
-emergency	
-@emergency /i'mə:dʤensi/
-*  danh từ
-- tình trạng khẩn cấp=on emergency; in case of emergency
-+ trong trường hợp khẩn cấp
-- (y học) trường hợp cấp cứu!to rise to the emergency
-- vững tay, đủ sức đối phó với tình thế
+accumulate
+	
+*  động từ
+- chất đống, chồng chất, tích luỹ, gom góp lại
+=to accumulate capital
++ tích luỹ vốn
+=to accumulate good experience
++ tích luỹ những kinh nghiệm hay
+=garbage accumulated
++ rác rưởi chất đống lên
+- làm giàu, tích của
+- thi cùng một lúc nhiều bằng (ở trường đại học)
 @Chuyên ngành kinh tế
--sự kiện đột nhiên
--tình huống khẩn cấp
+-cộng dồn
+-cộng dồn giá
+-dồn lại
+-gom góp lại
+-tích lũy
 @Chuyên ngành kỹ thuật
--bị hỏng
--đề phòng
--dự phòng
--phụ
--sự cố
--sự hỏng hóc
--sự khẩn cấp
+-chất đống
+-chồng chất
+-dồn
+-tích trữ
 @Lĩnh vực: xây dựng
--để bảo hiểm
--để dự trữ
--gặp sự cố
-@Lĩnh vực: điện
--khẩn cấp
-@Lĩnh vực: hóa học & vật liệu
--trường khẩn cấp
-@Chuyên ngành kỹ thuật
--bị hỏng
--đề phòng
--dự phòng
--phụ
--sự cố
--sự hỏng hóc
--sự khẩn cấp
-@Lĩnh vực: xây dựng
--để bảo hiểm
--để dự trữ
--gặp sự cố
-@Lĩnh vực: điện
--khẩn cấp
-@Lĩnh vực: hóa học & vật liệu
--trường khẩn cấp
+-tích chứa
+@Lĩnh vực: cơ khí & công trình
+-tích lũy
+@Lĩnh vực: toán & tin
+-tụ
+

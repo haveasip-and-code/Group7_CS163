@@ -1,17 +1,5 @@
-stunt	@stunt /stʌnt/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) sự làm cằn cỗi, sự làm còi cọc
-- người còi cọc, con vật còi cọc
-*  ngoại động từ
-- chặn lại không cho phát triển, làm cằn cỗi, làm còi cọc
-*  danh từ
-- (thông tục) sự cố gắng kỳ công, sự cố gắng tập trung
-- cuộc biểu diễn phô trương
-- trò quảng cáo
-=stunt article+ vật loè loẹt để quảng cáo
-*  nội động từ
-- (thông tục) biểu diễn nhào lộn
-*  ngoại động từ
-- biểu diễn nhào lộn bằng (máy bay...)
-@Chuyên ngành kinh tế
--trò quảng cáo
+hootenanny
+	
+* danh từ
+- (từ Mỹ, nghĩa Mỹ) cuộc biểu diễn của các ca sĩ dân gian có khán giả cùng tham gia ca hát
+

@@ -1,6 +1,9 @@
-role	@role /roul/ (rôle) /roul/
-*  danh từ
-- vai, vai trò
-=to play the leading role+ thủ vai chính (trong vở kịch); đóng vai trò lânh đạo
+rewinder
+	
+* danh từ
+- cơ cấu cuốn lại (cáp, dây)
 @Chuyên ngành kỹ thuật
--vai trò
+-máy cuốn dây
+@Lĩnh vực: toán & tin
+-máy cuộn (dây điện)
+

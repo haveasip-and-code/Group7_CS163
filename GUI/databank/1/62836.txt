@@ -1,3 +1,24 @@
-whippy	@whippy /'wipi/
-*  tính từ
-- mềm dẻo, dễ uốn
+indentation
+	
+*  danh từ
+- sự làm lõm vào, sự khía răng cưa; sự làm mẻ
+- vết lõm, khía răng cưa; vết mẻ; dấu chặt đẽo
+- chỗ lồi lõm (ở bờ biển)
+- (ngành in) sắp chữ thụt vào (ở đầu dòng); chỗ thụt vào (ở đầu dòng)
+@Chuyên ngành kỹ thuật
+-dấu in
+-đường viền mép nước
+-răng cưa
+-sự cắt lõm
+-sự cắt răng
+-sự cắt răng cưa
+-sự cắt rãnh
+-sự chạm
+-sự khắc răng
+-sự khía răng cưa
+-sự làm lõm vào
+-vết ấn
+-vết lõm
+@Lĩnh vực: toán & tin
+-sự thụt dòng
+

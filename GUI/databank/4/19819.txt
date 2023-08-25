@@ -1,0 +1,3 @@
+I
+symbol for current, in amperes. Defined by the voltage (in volts) in a current divided by resistance(in ohms).
+

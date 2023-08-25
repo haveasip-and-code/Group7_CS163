@@ -1,4 +1,31 @@
-garaged	
+stripe
+	
+*  danh từ
+- sọc, vằn
+=black with a red stripe
++ đen có đường sọc đỏ
+- (quân sự) quân hàm, lon
+=to get a stripe
++ được đề bạt, được thăng cấp
+=to lose a stripe
++ bị hạ cấp
+- (số nhiều) (thông tục) con hổ
+- (từ Mỹ,nghĩa Mỹ) loại
+=a man of that stripe
++ người loại ấy
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--giữa trong garage
+-băng
+-dải
+-đường sọc sợi ngang
+-đường vân
+-sọc
+-vạch
+-vằn sợi
+-vệt
+-vệt tách sợi
+@Lĩnh vực: xây dựng
+-đường sọc
+@Lĩnh vực: dệt may
+-sọc sợi
+-vệt sô sợi
+

@@ -1,9 +1,7 @@
-cablegram	
-@cablegram /'keiblgræm/
-*  danh từ
-- bức điện xuyên đại dương; điện tín, cáp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--báo điện báo
--bức điện tín cáp
--điện tín qua cáp
+parasynthetic
+	
+* tính từ
+- (ngôn ngữ học) có đủ tiền tố, hậu tố
+* danh từ
+- từ có đủ tiền tố, hậu tố
+

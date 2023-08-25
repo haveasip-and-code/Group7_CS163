@@ -1,7 +1,5 @@
-countercurrent	
-@Chuyên ngành kỹ thuật
--đối lưu
--dòng ngược
-@Lĩnh vực: điện
--dòng điện ngược
--ngược dòng
+instate
+	
+*  ngoại động từ
+- đặt vào (nơi nào, địa vị nào)
+

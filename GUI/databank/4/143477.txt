@@ -1,0 +1,3 @@
+phony voice
+Using a fake voice while talking on the phone. Not really a change in the voice as much as the manner in which you speak.
+

@@ -1,6 +1,13 @@
-vulvitis	@vulvitis
-* danh từ
-- chứng viêm âm hộ
+orthogonal
+	
+*  tính từ
+- (toán học) trực giao
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--viêm âm hộ
+-thẳng góc
+-vuông góc
+@Lĩnh vực: xây dựng
+-trục giao
+-vuông góc với nhau
+@Lĩnh vực: toán & tin
+-trực giao, thẳng góc
+

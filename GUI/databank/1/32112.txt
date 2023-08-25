@@ -1,10 +1,5 @@
-licensee	@licensee /,laisən'si:/
-*  danh từ
-- người được cấp giấy phép, người được cấp môn bài, người được cấp đăng ký
-@Chuyên ngành kinh tế
--người có giấy phép
--người có môn bài kinh doanh
--người được cấp giấy đăng ký (kinh doanh)
--người được cấp giấy phép
--người được cấp môn bài
--người được phép
+penciled
+	
+* tính từ
+- viết bằng bút chì, vẽ bút chì
+

@@ -1,4 +1,26 @@
-escapee	
-@escapee /,eskə'pi:/
+gradation
+	
 *  danh từ
-- người trốn thoát
+- sự phát triển từng bước, sự thay đổi từ từ
+- sự sắp đặt theo mức độ tăng dần
+- (số nhiều) bậc, cấp, mức độ, giai đoạn
+- (nghệ thuật) phép vẽ màu nhạt dần
+@Chuyên ngành kinh tế
+-bậc cấp
+-mức độ
+-sự định bậc
+-sự định cấp
+@Chuyên ngành kỹ thuật
+-cỡ hạt
+-phân cấp
+-sự chia độ
+-sự phân cấp
+-sự tô màu
+-thành phần hạt
+-thứ tự
+@Lĩnh vực: hóa học & vật liệu
+-sự chia bậc
+-sự chuyển bậc
+@Lĩnh vực: toán & tin
+-sự tiệm tiến
+

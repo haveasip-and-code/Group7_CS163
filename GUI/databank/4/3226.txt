@@ -1,0 +1,3 @@
+Bubblescope
+An object for capturing an 'all-seeing-view' of a 360-degree 'bubble-like' scene. This scene can then be viewed remotely in interactive Virtual Reality.
+

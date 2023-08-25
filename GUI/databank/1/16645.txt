@@ -1,12 +1,14 @@
-downtown	
-@downtown /'dauntaun/
-*  danh từ
-- (từ Mỹ,nghĩa Mỹ) khu buôn bán kinh doanh (của một thành phố)
-*  tính từ
-- (từ Mỹ,nghĩa Mỹ) (thuộc) khu buôn bán kinh doanh, ở khu buôn bán kinh doanh (của một thành phố)
-*  phó từ
-- (từ Mỹ,nghĩa Mỹ) khu buôn bán kinh doanh, về phía khu buôn bán kinh doanh
-- đi vào thành phố (từ ngoài hay từ phía trên)
+retrofit
+	
+* ngoại động từ
+- trang bị thêm những bộ phận mới (máy bay)
 @Chuyên ngành kinh tế
--khu buôn bán kinh doanh (trong thành phố)
--trung tâm thành phố
+-chỉnh bị lại
+@Chuyên ngành kỹ thuật
+-bổ sung
+-kiểm trang
+-sự bổ sung sau
+-thiết bị hỗ trợ
+@Lĩnh vực: điện
+-cải tiến (bằng cách mở rộng chức năng thiết bị)
+

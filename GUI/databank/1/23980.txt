@@ -1,10 +1,15 @@
-grad	
-@grad /græd/
-*  danh từ (từ Mỹ,nghĩa Mỹ),  (thông tục) ((cũng) graduate)
-- (Anh) người tốt nghiệp đại học
-- (Mỹ) học viên dự hết một khoá học
+triad
+	
+*  danh từ
+- bộ ba
+- (hoá học) nguyên tố hoá trị ba
+@Chuyên ngành kinh tế
+-bộ ba
+-trắc nghiệm tam giác
 @Chuyên ngành kỹ thuật
--bậc
--độ
--hạng
--lớp
+-bộ ba
+-hóa trị ba
+-nhóm ba
+@Lĩnh vực: toán & tin
+-bộ ba, nhóm ba
+

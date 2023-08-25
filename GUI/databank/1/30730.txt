@@ -1,7 +1,33 @@
-kanji	
-@kanji
-* danh từ
-- chữ Kanji (chữ Nhật, viết với gốc từ Hán)
+verification
+	
+*  danh từ
+- sự thẩm tra
+- sự xác minh
+@Chuyên ngành kinh tế
+-giám định
+-kiểm chứng
+-kiểm nghiệm
+-kiểm tra
+-sự thẩm tra
+-thẩm định
+-xác minh
 @Chuyên ngành kỹ thuật
+-kiểm tra
+-sự cảm biến
+-sự chứng nhận
+-sự hiệu chuẩn
+-sự kiểm chứng
+-sự kiểm nghiệm
+-sự kiểm tra
+-sự kiểm trứng
+-sự thử nghiệm
+-sự xác minh
+-sự xác nhận
+-tính phù hợp
 @Lĩnh vực: toán & tin
--chữ kanji
+-phép thử lại
+@Lĩnh vực: điện lạnh
+-sự nghiệm lại
+@Lĩnh vực: điện
+-sự soát lại
+

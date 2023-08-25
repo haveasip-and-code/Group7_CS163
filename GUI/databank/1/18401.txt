@@ -1,39 +1,8 @@
-enlargement	
-@enlargement /in'lɑ:dʤmənt/
-*  danh từ
-- sự mở rộng, sự tăng lên, sự khuếch trương
-- phần mở rộng, phần thêm vào
-- ảnh phóng to
-@Chuyên ngành kinh tế
--khuếch trương
--sự mở rộng
-@Chuyên ngành kỹ thuật
--độ phóng đại
--kiến trúc phụ
--nhà phụ
--mở rộng
--phát triển
--phóng đại
--sự mở rộng
--sự phóng đại
--sự phóng lớn
--sự tăng co
-@Lĩnh vực: vật lý
--sự in phóng
-@Lĩnh vực: xây dựng
--sự nhóm gộp
-@Chuyên ngành kỹ thuật
--độ phóng đại
--kiến trúc phụ
--nhà phụ
--mở rộng
--phát triển
--phóng đại
--sự mở rộng
--sự phóng đại
--sự phóng lớn
--sự tăng co
-@Lĩnh vực: vật lý
--sự in phóng
-@Lĩnh vực: xây dựng
--sự nhóm gộp
+uncharted
+	
+*  tính từ
+- chưa thám hiểm
+=uncharted region
++ miền chưa thám hiểm, miền chưa có dấu chân người đi đến
+- (địa lý,địa chất) chưa ghi trên bản đồ
+

@@ -1,10 +1,22 @@
-nuclei	@nuclei /'nju:kliəs/
-*  danh từ,  số nhiều nuclei
-- tâm, trung tâm ((nghĩa đen) & (nghĩa bóng))
-- (sinh vật học) nhân (tế bào)
-- (thực vật học) hạch (của quả hạch)
-- (vật lý) hạt nhân
-=atomic nucleus+ hạt nhân nguyên t
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--số nhiều của nucleus
+howl
+	
+*  danh từ
+- tiếng tru, tiếng hú (chó sói); tiếng rít (gió); tiếng rú (đau đớn); tiếng gào thét; tiếng la hét
+- (raddiô) tiếng rít
+*  nội động từ
+- tru lên, hú lên; rít, rú; gào lên; la hét
+=wolf howls
++ chó sói hú lên
+=wind howls through the trees
++ gió rít qua rặng cây
+=to howl with pain
++ rú lên vì đau đớn
+- khóc gào (trẻ con)
+- la ó (chế nhạo...)
+- ngoại động từ
+- gào lên, thét lên, tru tréo lên (những lời chửi rủa...)
+!to howl down
+- la ó cho át đi
+=to howl down a speaker
++ la ó át tiếng một diễn giả (không để cho thính giả nghe)
+

@@ -1,10 +1,8 @@
-silicone	@silicone /'silikoun/
-*  danh từ
-- (hoá học) silicon
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--silicon (chất dẻo)
-@Lĩnh vực: y học
--silicon, chất hữu cơ silic
-@Lĩnh vực: hóa học & vật liệu
--xilicon
+behavioral
+	
+-dáng điệu
+-đối xử
+-hành vi
+@Lĩnh vực: toán & tin
+-thuộc dáng điệu
+

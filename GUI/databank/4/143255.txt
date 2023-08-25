@@ -1,0 +1,3 @@
+osnap
+The most useful tool in AutoCad, this side of Ortho and Fillet. It snaps to predefined points along lines, polylines or shapes. ; It saves your ass from having to zoom all the way in to get lines to look like they join. Just hover nearby til the yellow box pops up, click, and you're golden. ; Osnap= F3 ; Ortho= F8 ; however, be advised that F3+F8 does not equal F11 ; Also, don't forget to PEdit those newly Osnapped lines into badass polylines!
+

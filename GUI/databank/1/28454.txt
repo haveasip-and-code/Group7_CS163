@@ -1,4 +1,21 @@
-infest	
-@infest /in'fest/
-*  ngoại động từ
-- tràn vào quấy phá, tràn vào phá hoại (sâu bọ, giặc cướp...)
+calculus
+	
+*  danh từ
+- (số nhiều calculuses) (toán học) phép tính
+=differential calculus
++ phép tính vi phân
+=integral calculus
++ phép tính tích phân
+- (số nhiều calculi) (y học) sỏi (thận)
+@Chuyên ngành kỹ thuật
+-phép tính
+-số học
+-sự tính
+-sự tính toán
+@Lĩnh vực: cơ khí & công trình
+-giải tích toán học
+@Lĩnh vực: toán & tin
+-phép tính tính toán
+-phép tính toán
+-phương pháp tính toán
+

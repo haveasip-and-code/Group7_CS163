@@ -1,5 +1,14 @@
-cynosure	
-@cynosure /'sinəzjuə/
-*  danh từ
-- người làm cho mọi người chú ý, vật làm cho mọi người chú ý; trung tâm của sự chú ý=the cynosure of all eyes
-+ cái mà mọi người phải chú ý nhìn, cái mà mọi con mắt đều đổ dồn vào.
+nor
+	
+*  phó từ & liên từ
+- mà... cũng không, và... không
+=neither good nor bad
++ không tốt mà cũng không xấu
+=he can neither read nor write
++ nó không biết đọc mà cũng không biết viết
+=he can't do it, nor can I, nor can you, nor can anybody
++ nó không làm được cái đó, mà cả tôi, cả anh hay bất cứ một người nào cũng không làm được
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-phép NOR
+

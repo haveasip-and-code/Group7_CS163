@@ -1,50 +1,10 @@
-embankment	
-@embankment /em'bæɳkmənt/
+mastication
+	
 *  danh từ
-- đê; đường đắp cao (cho xe lửa...)
+- sự nhai
 @Chuyên ngành kỹ thuật
--bến
--bến tàu
--đập
--đắp đê
--đê
--kè
--kè đá
--nền đắp
--nền đắp cao
--nền đường
--sự đắp đê
-@Lĩnh vực: cơ khí & công trình
--bờ kè
-@Lĩnh vực: xây dựng
--dải đắp
--đắp nền cao
--đường đê
--ke bờ
--nén đường đắp
--nền tường
-@Lĩnh vực: giao thông & vận tải
--đường đắp
-@Chuyên ngành kỹ thuật
--bến
--bến tàu
--đập
--đắp đê
--đê
--kè
--kè đá
--nền đắp
--nền đắp cao
--nền đường
--sự đắp đê
-@Lĩnh vực: cơ khí & công trình
--bờ kè
-@Lĩnh vực: xây dựng
--dải đắp
--đắp nền cao
--đường đê
--ke bờ
--nén đường đắp
--nền tường
-@Lĩnh vực: giao thông & vận tải
--đường đắp
+-nhai
+-sự làm nhuyễn
+@Lĩnh vực: hóa học & vật liệu
+-sự giảm cấp
+

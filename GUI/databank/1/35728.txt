@@ -1,2 +1,16 @@
-mos	@mos
-- (Viết tắt của Metal Oxide Semi-conduter) Chất bán dẫn thu được bởi sự kết tọa của một kim loại trên một lớp oxít, rồi chính lớp này ở trên một chất nền bán dẫn Công nghệ MOS đang được dùng để chế tạo các mạch tích hợp cũng như việc thực hiện các bộ nhớ
+hallmark
+	
+*  danh từ
+- dấu xác nhận tiêu chuẩn (của vàng bạc)
+- (nghĩa bóng) dấu xác nhận phẩm chất, dấu hiệu xác nhận tiêu chuẩn sự đảm bảo
+*  ngoại động từ
+- đóng dấu xác nhận tiêu chuẩn (vàng bạc)
+- (nghĩa bóng) xác nhận tiêu chuẩn, xác nhận phẩm chất; đảm bảo phẩm chất
+@Chuyên ngành kinh tế
+-dấu kiểm tra
+-dấu xác nhận chuẩn độ
+-dấu xác nhận phẩm chất dấu hiệu bảo đảm phẩm chất
+-đóng dấu xác nhận chuẩn độ (vàng)
+-kiểm ấn
+-kiểm ấn (đóng trên vàng bạc)
+

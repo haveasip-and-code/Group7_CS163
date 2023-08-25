@@ -1,9 +1,30 @@
-unify	@unify /'ju:nifai/
-*  ngoại động từ
-- thống nhất, hợp nhất
+quantum
+	
+*  danh từ,  số nhiều quanta
+- phần, mức, ngạch; lượng, định lượng
+=to fix the quantum of damages
++ định mức thường thiệt hại
+=to have one's quantum of
++ đã được dự phần, đã được hưởng phần
+- (vật lý) lượng tử
+=light quantum
++ lượng tử ánh sáng
+=energy quantum
++ lượng tử năng lượng
+- (định ngữ) (vật lý) (thuộc) lượng tử
+=quantum theory
++ thuyết lượng tử
+=quantum effect
++ hiệu ứng lượng tử
 @Chuyên ngành kinh tế
--hợp nhất
--thống nhất
+-định lượng
+-lượng
+-lượng (bằng tiền)
+-ngạch
+-số lượng
+-số xác định cụ thể
 @Chuyên ngành kỹ thuật
--hợp nhất
--thống nhất
+-lượng tử
+@Lĩnh vực: toán & tin
+-phần, lô
+

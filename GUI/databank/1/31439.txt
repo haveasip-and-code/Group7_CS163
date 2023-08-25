@@ -1,7 +1,12 @@
-landholder	@landholder /'lænd,houldə/
+slowdown
+	
 *  danh từ
-- người chiếm hữu đất đai, địa chủ; người cho thuê đất
+- sự chậm lại, sự làm chậm lại
+- sự giảm tốc độ sản xuất (công nghiệp)
 @Chuyên ngành kỹ thuật
--chủ đất
-@Chuyên ngành kỹ thuật
--chủ đất
+-sự hãm
+-sự làm chậm
+@Lĩnh vực: toán & tin
+-chậm lại
+-giảm tốc độ
+

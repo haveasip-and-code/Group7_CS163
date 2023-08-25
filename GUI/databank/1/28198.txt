@@ -1,9 +1,15 @@
-individualism	
-@individualism /,indi'vidjuəlizm/
+specialist
+	
 *  danh từ
-- chủ nghĩa cá nhân
+- chuyên gia, chuyên viên, nhà chuyên khoa
+=eye specialist
++ bác sĩ chuyên khoa mắt
 @Chuyên ngành kinh tế
--chủ nghĩa bất can thiệp
--chủ nghĩa cá nhân
--chủ nghĩa lợi kỷ
--chủ nghĩa tự do phóng nhiệm
+-chuyên gia
+-chuyên viên
+-nhà chuyên môn
+@Chuyên ngành kỹ thuật
+-chuyên gia
+@Lĩnh vực: y học
+-chuyên viên
+

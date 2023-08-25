@@ -1,11 +1,9 @@
-seismograph	@seismograph /'saizməgrɑ:f/
+makeweight
+	
 *  danh từ
-- máy ghi địa chấn
-@Chuyên ngành kỹ thuật
--địa chấn kế
--địa chấn kí
--địa chấn ký
--máy ghi địa chấn
--máy ghi động đất
-@Lĩnh vực: toán & tin
--máy địa chấn
+- vật bù vào cho cân
+- đối trọng
+- người điền trống, vật điền trống (lấp vào chỗ trống); người thêm vào cho đông, vật thêm vào cho nhiều
+@Chuyên ngành kinh tế
+-trọng lượng thêm vào cho đủ
+

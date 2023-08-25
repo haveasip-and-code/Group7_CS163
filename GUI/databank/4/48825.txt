@@ -1,0 +1,3 @@
+checksum
+Literally, a checksum is a digit used in digital communications that is attatched to the end of the series of other digits to verify the integrity of data. ; Some techies may use the word 'checksum' as a verb, meaning the act of making sure something they hear about is actually correct instead of simply accepting it as fact.
+

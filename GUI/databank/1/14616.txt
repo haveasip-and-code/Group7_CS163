@@ -1,5 +1,15 @@
-depreciatory	
-@depreciatory /di'pri:ʃieitiv/ (depreciatory) /di'pri:ʃjətəri/
-*  tính từ
-- làm giảm giá
-- làm giảm giá trị
+itemize
+	
+*  ngoại động từ
+- ghi thành từng khoản, ghi thành từng món
+@Chuyên ngành kinh tế
+-ghi thành khoản
+-ghi thành từng khoản
+-ghi thành từng món
+-phân loại
+@Chuyên ngành kỹ thuật
+-làm thành đặc điểm
+@Lĩnh vực: toán & tin
+-đếm riêng từng cái
+-ghi thành mục
+

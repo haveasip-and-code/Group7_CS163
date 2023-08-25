@@ -1,9 +1,50 @@
-sensitometer	@sensitometer /,sensi'tɔmitə/
+overlap
+	
 *  danh từ
-- máy đo độ nhạy
+- sự gối lên nhau
+- phần đè lên nhau, phần gối lên nhau[,ouvə'læp]
+*  ngoại động từ
+- lấn lên, gối lên
+*  nội động từ
+- lấn lên nhau, gối lên nhau
 @Chuyên ngành kỹ thuật
--máy đo độ nhạy
-@Lĩnh vực: y học
--cảm thụ kế
-@Lĩnh vực: đo lường & điều khiển
--nhạy kế
+-bọc lại
+-che khuất
+-chồng
+-gối lên nhau
+-lấn lên nhau
+-lều tạm
+-lớp lại
+-lớp phủ
+-nối chồng
+-mạ lại
+-mối nối bậc
+-phủ lên nhau
+-sự che đậy
+-sự chồng
+-sự nối chồng
+-sự phủ
+-sự phủ chồng
+-sự xếp chồng
+-xếp chồng
+@Lĩnh vực: điện lạnh
+-chỗ chồng chéo
+-chỗ phủ nhau
+-sự phủ nhau
+@Lĩnh vực: toán & tin
+-chồng lấp
+-chồng phủ
+@Lĩnh vực: xây dựng
+-đường nảy mực
+-ghép chồng (hàn)
+-sự chồng lên trên
+-sự đan xen
+-sự nảy mực
+-sự phủ lên trên
+@Lĩnh vực: điện tử & viễn thông
+-gối nhau
+@Lĩnh vực: vật lý
+-phủ trên
+@Lĩnh vực: hóa học & vật liệu
+-sự nồi chống
+

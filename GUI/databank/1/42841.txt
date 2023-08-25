@@ -1,13 +1,5 @@
-pothole	@Chuyên ngành kỹ thuật
--hố trên mặt đường
--hố trên mặt đường (đường xá)
--lòng chảo nhỏ
-@Lĩnh vực: hóa học & vật liệu
--hố (do nước xoáy tạo thành)
-@Lĩnh vực: xây dựng
--hố (do nước xoáy)
--lỗ rỗng (trong bê tông)
--lỗ rỗng trong bêtông
--ổ gà (trên bề mặt đường)
-@Lĩnh vực: giao thông & vận tải
--ổ gà trên đường
+outcaste
+	
+*  danh từ
+- người bị khai trừ khỏi đẳng cấp; người bị mất địa vị trong đẳng cấp
+

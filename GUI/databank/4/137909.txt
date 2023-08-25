@@ -1,0 +1,3 @@
+javacc
+JavaCC is a parser that generates Java sources. It's a bottom-up parser that uses a variant of Extended Backaus Naur Form (EBNF). There is also a syntax tree generator that comes with it called JJTree that creates JavaCC grammars.
+

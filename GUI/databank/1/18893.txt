@@ -1,20 +1,4 @@
-equilibrium	
-@equilibrium
-- sự cân bằng
-- e. of forces sự cân bằng lực
-- e. of a particle [of a body] sự cân bằng của một vật thể
-- configuration e. cấu hình thăng bằng
-- dynamic e. cân bằng động lực
-- elastic e. cân bằng đàn hồi
-- indifferent e. cân bằng không phân biệt
-- labile e. (vật lí) cân bằng không ổn định
-- mobile e. (điều khiển học) cân bằng di động
-- neutral e. (cơ học) cân bằng không phân biệt
-- phase e. (vật lí) cân bằng pha
-- plastic e. cân bằng dẻo
-- relative e. cân bằng tương đối
-- semi
--stable e. cân bằng nửa ổn định
-- stable e. cân bằng ổn định
-- trasient e. (điều khiển học) cân bằng động
-- unstable e. (vật lí) cân bằng không ổn định
+deadness
+	
+- xem dead
+

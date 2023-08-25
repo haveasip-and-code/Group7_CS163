@@ -1,16 +1,11 @@
-involute	
-@involute /'invəlu:t/
-*  tính từ
-- rắc rối, phức tạp
-- xoắn ốc
-- (thực vật học) cuốn trong (lá)
-*  danh từ
-- (toán học) đường thân khai
-*  nội động từ
-- cuộn, xoắn
-- trở lại bình thường
-- (toán học) nâng lên luỹ thừa
+primitiveness
+	
+* danh từ
+- tính nguyên thủy
+- tính thô sơ, sự cổ xưa
+- tính chất gốc (từ, mẫu)
+- <toán><địa> tính nguyên thủy
 @Chuyên ngành kỹ thuật
--đường thân khai
--phức tạp
--rắc rối
+@Lĩnh vực: xây dựng
+-tính nguyên thủy
+

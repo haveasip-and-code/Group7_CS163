@@ -1,5 +1,16 @@
-weds	@weds
-* (viết tắt)
-- thứ Tư (Wednesday)
-- viết tắt
-- thứ Tư (Wednesday)
+sequential
+	
+*  tính từ
+- liên tục, liên tiếp
+- theo sau, tiếp sau (ảnh hưởng...)
+- (toán học) dãy, theo dãy
+=sequent analysis
++ gải tích dãy
+@Chuyên ngành kỹ thuật
+-dãy
+-liên tiếp
+-nối tiếp
+-theo sau
+@Lĩnh vực: toán & tin
+-theo tuần tự
+

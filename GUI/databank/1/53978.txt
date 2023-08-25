@@ -1,6 +1,7 @@
-subcategory	@subcategory
-- phạm trù con
-- full s. phạm trù con đầy đủ
+bios
+	
+- hệ vào/ra cơ sở
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: toán & tin
--phạm trù con
+-hệ BIOS
+

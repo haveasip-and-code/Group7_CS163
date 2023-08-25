@@ -1,8 +1,8 @@
-labelled	@Chuyên ngành kỹ thuật
--được ghi nhãn
-@Lĩnh vực: cơ khí & công trình
--được kí hiệu
+geodesist
+	
+*  danh từ
+- nhà đo đạc
 @Chuyên ngành kỹ thuật
--được ghi nhãn
-@Lĩnh vực: cơ khí & công trình
--được kí hiệu
+-người trắc địa
+-trắc địa viên
+

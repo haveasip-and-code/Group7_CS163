@@ -1,9 +1,9 @@
-axiomatic	
-@axiomatic /,æksiə'mætik/ (axiomatical) /,æksiə'mætikəl/
-*  tính từ
-- rõ ràng, hiển nhiên, tự nó đã đúng
-- (toán học) (thuộc) tiên đề
-- (từ hiếm,nghĩa hiếm) có nhiều châm ngôn, có nhiều phương ngôn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tiên đề
+output
+	
+- (máy tính) lối ra, tín hiệu ra, kết quả
+- add o. lối ra của phép cộng
+- final o. kết quả cuối cùng
+- flow o. sự sản xuất hiện hành
+- gross o. sản xuất toàn bộ
+- power o. cường độ ra, công suất ra
+

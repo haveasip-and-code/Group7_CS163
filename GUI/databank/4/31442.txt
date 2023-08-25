@@ -1,0 +1,3 @@
+browser snob
+A web site that turns its [nose up] at legitimate, fully-functional [browser]s, such as [IE] 7 or [Firefox] simply because the webmaster won't tolerate his site being viewed using off-brand browsers and can't be bothered to update the site's script to recognize legitimate browsers.
+

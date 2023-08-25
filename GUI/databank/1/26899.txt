@@ -1,8 +1,15 @@
-iconology	
-@iconology /,aikɔ'nɔlədʤi/
+foundry
+	
 *  danh từ
-- khoa nghiên cứu tượng, khoa nghiên cứu hình tượng
-- khoa nghiên cứu thánh tượng
-- tượng hình (nói chung)
-- thánh tượng, thần tượng (nói chung)
-- sự tượng trưng, hình ảnh tượng trưng
+- lò đúc, xưởng đúc
+@Chuyên ngành kỹ thuật
+-đúc
+-lò đúc
+-phân xưởng đúc
+-xưởng đúc
+@Lĩnh vực: xây dựng
+-đúc rót
+-rót đổ
+@Lĩnh vực: cơ khí & công trình
+-kỹ thuật đúc
+

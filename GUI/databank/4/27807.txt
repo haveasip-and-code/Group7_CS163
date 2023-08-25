@@ -1,0 +1,3 @@
+PHDD
+Portable Hard Disk Drive. A small chassis with which you can put your 2.5 inch [HDD] in. This can connect to your computer via USB cable (maybe firewire aswell :) and allows access to it like any other storage device.
+

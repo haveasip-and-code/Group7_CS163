@@ -1,18 +1,7 @@
-uncover	@uncover /ʌn'kʌvə/
-*  ngoại động từ
-- để hở, mở (vung, nắp); cởi (áo); bỏ (mũ)
-- (quân sự) mở ra để tấn công
-- (nghĩa bóng) nói ra, tiết lộ; khám phá ra
-=to uncover a secret+ tiết lộ một điều bí mật
-*  nội động từ
-- bỏ mũ (để tỏ ý kính trọng)
-@Chuyên ngành kỹ thuật
--mở
--phát hiện
--tiết lộ
-@Chuyên ngành kỹ thuật
--dễ hở
--khám phá ra
--mở ra
-@Lĩnh vực: hóa học & vật liệu
--phát hiện ra
+impenetrability
+	
+*  danh từ
+- tính không thể qua được, tính không xuyên qua được
+- tính không thể dò được; tính không thể hiểu thấu được; tính không thể tiếp thu được; tính không thể lĩnh hội được
+- (vật lý) tính chắn
+

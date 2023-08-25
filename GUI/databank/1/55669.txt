@@ -1,5 +1,13 @@
-tatty	@tatty
-* tính từ
-- <thgt> tồi tàn, rách rưới, không sạch sẽ
-- xấu xí, kém cỏi
-- <thgt> rẻ tiền và loè loẹt
+supplemental
+	
+*  tính từ
+- bổ sung, phụ thêm vào
+- (toán học) phụ
+=supplemental chords
++ dây cung phụ
+=supplemental acceleration
++ gia tốc phụ
+@Chuyên ngành kỹ thuật
+-bổ sung
+-phụ
+

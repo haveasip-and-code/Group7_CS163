@@ -1,6 +1,15 @@
-ghee	
-@ghee /gi:/
-*  danh từ
-- bơ sữa trâu lỏng
-@Chuyên ngành kinh tế
--bơ sữa trâu
+tipping
+	
+-mầm chè
+-mầm hạt cà phê
+-sự cắt rửa
+-sự đảo
+-sự lật
+@Chuyên ngành kỹ thuật
+-độ lệch
+-độ nghiêng
+-sự lật
+-sự nghiêng
+@Lĩnh vực: cơ khí & công trình
+-đặt nghiêng (góc lưỡi ủi để ủi xiên)
+

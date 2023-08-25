@@ -1,4 +1,21 @@
-flintiness	
-@flintiness /flintiness/
-*  danh từ
-- tính chất rắn; sự rắn như đá
+workable
+	
+*  tính từ
+- có thể làm được, có thể thực hiện được, dễ thực hiện
+=a workable plan
++ một kế hoạch có thể thực hiện được
+- dễ dùng, dễ cho chạy, dễ điều khiển
+=a workable tool
++ một dụng cụ dễ dùng
+- dễ khai thác
+- dễ bị ảnh hưởng, dễ sai khiến, dễ điều khiển (người)
+@Chuyên ngành kinh tế
+-có thể thực hiện được
+@Chuyên ngành kỹ thuật
+-có thể khai thác
+@Lĩnh vực: hóa học & vật liệu
+-có thể gia công
+@Lĩnh vực: xây dựng
+-dễ đổ (bê tông)
+-gia công được
+

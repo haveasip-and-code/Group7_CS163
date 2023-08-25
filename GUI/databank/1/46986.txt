@@ -1,14 +1,6 @@
-reputation	@reputation /,repju:'teiʃn/
-*  danh từ
-- tiếng (xấu, tốt...)
-=he had the reputation of raching his tenants+ lâo ta có tiếng về bóc lột tận xương tuỷ tá điền của lão
-- tiếng tốt, thanh danh, danh tiếng
-=a scientist of world wide+ một nhà khoa học danh tiếng khắp thế giới
-@Chuyên ngành kinh tế
--danh tiếng
--thanh danh
--thành danh
--uy tín
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--uy tín
+frowsy
+	
+*  tính từ
+- hôi hám
+- bẩn tưởi, nhếch nhác
+

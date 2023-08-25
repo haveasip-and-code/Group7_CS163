@@ -1,11 +1,16 @@
-county	
-@county /'kaunti/
-*  danh từ
-- hạt, tỉnh (đơn vị hành chính lớn nhất của Anh)
-- (the county) nhân dân (một) hạt (tỉnh)
-- đất (phong của) bá tước!county borough
-- thành phố (trên 50 000 dân) tương đương một hạt (về mặt hành chính)!county family
-- gia đình sống ở một hạt qua nhiều thế hệ!county town
-- thị xã (nơi đóng cơ quan hành chính của hạt)
-@Chuyên ngành kỹ thuật
--tĩnh
+comprehensive
+	
+*  tính từ
+- bao hàm toàn diện
+=a comprehensive term
++ một thuật ngữ bao hàm nhiều khái niệm
+- mau hiểu, thông minh, lĩnh hội nhanh, sáng ý
+=the comprehensive faculty
++ trí thông minh
+=to have a comprehensive mind
++ mau hiểu, sáng ý
+!comprehensive school
+- trường phổ thông hỗn hợp (có nhiều chương trình học và thời gian học khác nhau)
+@Chuyên ngành kinh tế
+-mẫu giới thiệu
+

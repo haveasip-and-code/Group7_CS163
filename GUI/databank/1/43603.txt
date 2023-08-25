@@ -1,8 +1,11 @@
-primal	@primal /'praiməl/
-*  tính từ
-- (như) primeval
-- (thuộc) nền tảng, căn bản, chủ yếu
+maze
+	
+*  danh từ
+- cung mê; đường rồi
+- (nghĩa bóng) trạng thái hỗn độn, trạng thái rối rắm
+=to be in a maze
++ ở trong một trạng thái rối rắm
 @Chuyên ngành kỹ thuật
--chính
--cơ sở
--nguyên thủy
+-đường rối
+-mê lộ
+

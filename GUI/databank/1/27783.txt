@@ -1,13 +1,9 @@
-incidental	
-@incidental /,insi'dentl/
-*  tính từ
-- ngẫu nhiên, tình cờ, bất ngờ=an incidental encounter
-+ một cuộc chạm trán bất ngờ
-- phụ=incidental expenses
-+ những món tiêu ph
-@Chuyên ngành kỹ thuật
--bất ngờ
--không cốt yếu
--ngẫu nhiên
-@Lĩnh vực: toán & tin
--không thực chất
+proceeding
+	
+*  danh từ
+- cách tiến hành, cách hành động
+- (số nhiều) việc kiện tụng
+=to take [legal] proceedings against someone
++ đi kiện ai
+- (số nhiều) biên bản lưu (của cuộc họp...)
+

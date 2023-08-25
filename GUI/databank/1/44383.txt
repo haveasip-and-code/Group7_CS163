@@ -1,9 +1,7 @@
-proximity	@proximity /proximity/
-*  danh từ
-- trạng thái gần (về không gian, thời gian...))
-=proximity of blood+ quan hệ họ hàng gần
-@Chuyên ngành kỹ thuật
--lân cận
-@Lĩnh vực: toán & tin
--sự gần
--sự lân cận
+jewfish
+	
+* danh từ
+- loại cá mú (ở biển Nam)
+@Chuyên ngành kinh tế
+-cá rô đen
+

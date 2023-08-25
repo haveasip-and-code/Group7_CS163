@@ -1,20 +1,9 @@
-terms	@terms
-* danh từ, pl
-- điều khoản, điều kiện đề nghị, điều kiện được chấp nhận
-- giá; điều kiện (cách thanh toán đề nghị hoặc đòi hỏi)
-- quan hệ, sự giao thiệp, sự giao hảo, sự đi lại
-- lời lẽ, ngôn ngữ
+enfold
+	
+*  ngoại động từ
+- bọc, quấn
+- ôm
+- xếp thành nếp, gấp nếp lại
 @Chuyên ngành kinh tế
--điều khoản
--điều khoản (hợp đồng)
--điều khoản (hợp đồng..)
--điều kiện
--giá phí
--giá tiền
--mối quan hệ
--quan hệ cá nhân
-@Chuyên ngành kỹ thuật
--điều khoản
--điều kiện
--quan hệ (cá nhân)
--thời hạn
+-động tụ
+

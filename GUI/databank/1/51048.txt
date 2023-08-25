@@ -1,5 +1,28 @@
-skylark	@skylark /'skailɑ:k/
+phase
+	
 *  danh từ
-- (động vật học) chim chiền chiện
-*  nội động từ
-- nô đùa, vui nhộn
+- tuần (trăng...)
+- giai thoại, thời kỳ (phát triển, biến đổi)
+- phương diện, mặt (của vấn đề...)
+- (vật lý); (sinh vật học) pha
+*  ngoại động từ
+- thực hiện (chương trình...) từng giai đoạn
+- (vật lý) làm đồng bộ
+!to phase out something
+- (từ Mỹ,nghĩa Mỹ) thôi dần dần không dùng cái gì, rút lui dần dần cái gì
+@Chuyên ngành kỹ thuật
+-bước
+-giai đoạn
+-pha
+-thời kỳ
+-trạng thái
+@Lĩnh vực: hóa học & vật liệu
+-giai đoạn địa chất
+@Lĩnh vực: điện
+-góc pha
+-sự biến dạng pha
+@Lĩnh vực: vật lý
+-pha (ví dụ: các pha của dòng điện xoay chiều)
+@Lĩnh vực: toán & tin
+-pha, giai đoạn
+

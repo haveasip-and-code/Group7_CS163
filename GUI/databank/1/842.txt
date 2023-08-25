@@ -1,10 +1,15 @@
-adolescent	
-@adolescent /,ædou'lesns/
-*  tính từ
-- đang tuổi thanh niên, trẻ=adolescent river
-+ sông trẻ
-*  danh từ
-- người thanh niên
+collator
+	
+- (Tech) máy lựa phiếu; người lựa phiếu; máy phân loại; thiết bị so sánh
 @Chuyên ngành kỹ thuật
--trẻ
--trưởng thành
+-máy sắp xếp
+-máy tuyển chọn
+@Lĩnh vực: toán & tin
+-bộ đối chiếu
+-bộ so lựa
+-máy so sánh
+-thiết bị hòa trộn
+-thiết bị sắp trộn
+@Lĩnh vực: điện tử & viễn thông
+-bộ so
+

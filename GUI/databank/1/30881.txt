@@ -1,20 +1,18 @@
-keypad	@Chuyên ngành kỹ thuật
--bàn phím
--vùng phím
--vùng phím số
-@Lĩnh vực: toán & tin
--bộ phím
-@Lĩnh vực: xây dựng
--tấm phím
-@Lĩnh vực: điện tử & viễn thông
--vùng bàn phím
+warn
+	
+*  ngoại động từ
+- báo cho biết
+=to warn someone of a danger
++ báo cho người nào biết trước một sự nguy hiểm
+=to warn the police
++ báo công an
+- cảnh cáo, răn
+=to warn somebody against something
++ cảnh cáo ai không được làm điều gì
 @Chuyên ngành kỹ thuật
--bàn phím
--vùng phím
--vùng phím số
+-báo hiệu
+-lưu ý
+-máy báo hiệu
 @Lĩnh vực: toán & tin
--bộ phím
-@Lĩnh vực: xây dựng
--tấm phím
-@Lĩnh vực: điện tử & viễn thông
--vùng bàn phím
+-báo trước
+

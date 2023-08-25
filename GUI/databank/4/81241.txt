@@ -1,0 +1,3 @@
+Nyquist Frequency
+The nyquist frequency is the number of times that a sound wave has to be sampled digitally in order to reproduce it accurately. The minimum is usually twice the highest frequency to be reproduced. ; Also known as [over sampling]
+

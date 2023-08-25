@@ -1,6 +1,30 @@
-para	@para
-* danh từ
-- (thông tục) lính nhảy dù
-- đoạn (văn, sách...)
+indication
+	
+*  danh từ
+- sự chỉ; số chỉ
+- sự biểu thị, sự biểu lộ; dấu hiệu
+=to give clear indication of one's intention
++ biểu lộ rõ ràng ý định của mình
+- (y học) sự chỉ dẫn (về cách dùng thuốc)
 @Chuyên ngành kinh tế
--đơn vị tiền tệ lẻ của Nam Tư, = 1/100 dinar
+-chất chỉ thị
+-chỉ số
+-dấu hiệu
+-máy chỉ thị
+-sự báo hiệu
+-sự biểu thị
+@Chuyên ngành kỹ thuật
+-dấu hiệu
+-sự chỉ
+-sự chỉ dẫn
+@Lĩnh vực: y học
+-chỉ định (trong y học)
+@Lĩnh vực: xây dựng
+-đèn hiệu chỉ dẫn
+-mốc chỉ dẫn
+@Lĩnh vực: toán & tin
+-sự chỉ ra
+@Lĩnh vực: điện
+-sự chỉ thị
+-sự kí hiệu
+

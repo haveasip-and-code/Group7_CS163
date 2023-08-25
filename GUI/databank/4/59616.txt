@@ -1,0 +1,3 @@
+,
+Pronounced 'pipe'. In a UNIX shell, it is used to redirect the standard output (stdout) of a command to the standard input (stdin) of the next. ; ALso, in C, C++ and others, it is the symbol for the logical expression 'or'.
+

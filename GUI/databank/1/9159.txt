@@ -1,27 +1,13 @@
-chock	
-@chock /tʃɔk/
-*  danh từ
-- vật chèn, con chèn, vật chêm, đòn kê; đòn chống (thuyền hay tàu ở trên cạn)
-- (kỹ thuật) nệm, gối; cái lót trục
+bisect
+	
 *  ngoại động từ
-- (
-+ up) chèn, chêm, kê (cho khối lăn, cho chặt); chống (cho khỏi đổ)
-- bày ngổn ngang, bày bừa bãi=a room chocked [up] with furniture
-+ căn phòng bày đồ đạc bừa bãi
+- chia đôi, cắt đôi
 @Chuyên ngành kỹ thuật
--cái chêm
--cái nêm
--chêm
--đệm
--đòn kê
--gối
--guốc hãm
--nêm
--má phanh
--mâm cặp
--phanh
-@Lĩnh vực: cơ khí & công trình
--cái lót trục
-@Lĩnh vực: giao thông & vận tải
--đòn kê (đóng tàu)
--khối gián cách
+-chia
+-chia đôi
+-phân đôi
+-phân giác
+@Lĩnh vực: xây dựng
+-cắt làm hai
+-hai phần bằng nhau
+

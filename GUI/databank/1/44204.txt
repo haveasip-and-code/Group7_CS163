@@ -1,8 +1,17 @@
-prosperity	@prosperity /prosperity/
+atomizer
+	
 *  danh từ
-- sự thịnh vượng, sự phát đạt, sự phồn vinh, sự thành công
+- máy phun
+- máy tán
 @Chuyên ngành kinh tế
--phát đạt (xí nghiệp)
--phồn vinh
--sự phồn vinh
--thịnh vượng (kinh tế)
+-máy phun
+@Chuyên ngành kỹ thuật
+-bộ phun
+-máy phun
+-máy tán
+-vòi phun
+@Lĩnh vực: xây dựng
+-dụng cụ phun
+@Lĩnh vực: cơ khí & công trình
+-thiết bị phun mù
+

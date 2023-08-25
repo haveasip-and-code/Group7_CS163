@@ -1,0 +1,3 @@
+xbmc
+[XBOX] Media Center. ; A complex media center application for the [Microsoft] XBOX console, allowing the user to use the console for playing videos and music in addition to games. The media may be located at the XBOX harddrive, on a DVD, or on a nearby computer. ; As the XBMC isn't a offical package from [Microsoft], you need a [modchip] to be able to run it.
+

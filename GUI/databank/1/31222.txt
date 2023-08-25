@@ -1,19 +1,8 @@
-labelling	@Chuyên ngành kinh tế
--dán nhãn
--phí dán nhãn
-@Chuyên ngành kỹ thuật
--sự dán nhãn
--sự ghi nhãn
--sự làm nhãn
-@Lĩnh vực: vật lý
--sự gán nhãn
-@Lĩnh vực: toán & tin
--sự tạo nhãn
-@Chuyên ngành kỹ thuật
--sự dán nhãn
--sự ghi nhãn
--sự làm nhãn
-@Lĩnh vực: vật lý
--sự gán nhãn
-@Lĩnh vực: toán & tin
--sự tạo nhãn
+gentile
+	
+*  tính từ
+- không phải là Do thái
+- không theo đạo nào
+*  danh từ
+- người không phải là Do thái
+

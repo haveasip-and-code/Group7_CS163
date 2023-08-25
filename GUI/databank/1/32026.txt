@@ -1,11 +1,23 @@
-levigate	@levigate /'levigeit/
-*  ngoại động từ
-- tán thành bột mịn; làm cho mịn
+wiper
+	
+*  danh từ
+- người lau chùi
+- khau lau, giẻ lau; khăn lau tay
 @Chuyên ngành kỹ thuật
--làm mịn
--nghiền
--nghiền thành bột
-@Chuyên ngành kỹ thuật
--làm mịn
--nghiền
--nghiền thành bột
+-bàn chải
+-cần gạt nước
+-chổi
+-con chạy
+-vấu nâng
+@Lĩnh vực: điện lạnh
+-chổi tiếp xúc
+@Lĩnh vực: xây dựng
+-giẻ lau
+-khăn lau
+-máy lau kính
+@Lĩnh vực: điện
+-mạch chổi
+-mạch chổi công tắc
+@Lĩnh vực: toán & tin
+-vật lau chùi
+

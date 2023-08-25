@@ -1,23 +1,8 @@
-furnace	
-@furnace /'fə:nis/
-*  danh từ
-- lò (luyện kim, nấu thuỷ tinh...)
-- lò sưởi
-- (nghĩa bóng) cuộc thử thách; lò lửa ((nghĩa bóng))
-*  ngoại động từ
-- nung trong lò
-@Chuyên ngành kinh tế
--cái lò
+preprogrammed
+	
+* tính từ
+- được chương trình hoá trước
 @Chuyên ngành kỹ thuật
--bếp
--buồng đốt
--buồng lửa
--đốt lò
--lò
--lò công nghiệp
--lò đốt
--lò lửa
--lò nung
--lò sưởi
--lò thiêu
--nồi (lò)
+@Lĩnh vực: toán & tin
+-được lập trình trước
+

@@ -1,18 +1,5 @@
-enroll	
-@enroll /in'roul/ (enroll) /in'roul/
-*  ngoại động từ
-- tuyển (quân...)
-- kết nạp vào, ghi tên cho vào (hội...)
-- (pháp lý) ghi vào (sổ sách toà án)
-@Chuyên ngành kỹ thuật
--đăng ký
+quotients
+	
 @Lĩnh vực: toán & tin
--ghi tên
-@Lĩnh vực: xây dựng
--kết nạp
-@Chuyên ngành kỹ thuật
--đăng ký
-@Lĩnh vực: toán & tin
--ghi tên
-@Lĩnh vực: xây dựng
--kết nạp
+-thương số
+

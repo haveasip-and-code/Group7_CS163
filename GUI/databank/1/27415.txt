@@ -1,14 +1,5 @@
-impersonate	
-@impersonate /im'pə:səneit/
-*  ngoại động từ
-- thể hiện dưới dạng người, nhân cách hoá
-- là hiện thân cho=he impersonated the fighting spirit of the people
-+ anh ta là hiện thân cho tinh thần chiến đấu của nhân dân
-- đóng vai, thủ vai=to impersonate many of Shakespear's heroes
-+ đóng vai chính trong các vở kịch của Sếch
--xpia
-- nhại (ai) để làm trò
-- mạo nhận là (ai)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--mạo nhận
+techie
+	
+* danh từ
+- chuyên viên giỏi, thường được người khác hỏi ý kiến hoặc nhờ khắc phục sự cố giùm
+

@@ -1,0 +1,3 @@
+FireWire
+High speed serial interface defined by Apple Computer in 1994. FireWire is a trademark; the interface may be referred to as IEE1394 withut paying royalties to Apple. FireWire allows the attachment of up to 63 devices to a single controller and allows for hub or daisy-chain topolgies. It was designed as a next-generation replacement for SCSI and is used to connect cameras, AV equipment, hard drives and optical drives to computer equipment. ; FireWire can operat at 100,200,400 and 800 Megabits per second and there are 4, 6 and 8 pin variants on the physical connectors. ; Sony have their own branding for FireWire - they refer to it as i.Link
+

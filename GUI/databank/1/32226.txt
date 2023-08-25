@@ -1,6 +1,6 @@
-liman	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--vũng cửa sông
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--vũng cửa sông
+synchrony
+	
+* danh từ
+- sự đồng thời; cách xử lý đồng thời
+- (ngôn ngữ) sự đồng đại
+

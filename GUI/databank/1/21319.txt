@@ -1,26 +1,32 @@
-flask	
-@flask /flɑ:sk/
+dispersion
+	
 *  danh từ
-- túi đựng thuốc súng
-- bình thót cổ (dùng trong phòng thí nghiệm)
-- chai bẹt, lọ bẹt (đựng rượu để trong bao da, bỏ túi được)
-- hũ rượu có vỏ mây đan
-- (kỹ thuật) khung khuôn, hòm khuôn
+- sự giải tán, sự phân tán
+- (hoá học) chất làm phân tán
+- sự xua tan, sự làm tản mạn, sự làm tan tác; sự tan tác
+- sự rải rác, sự gieo vãi
+- sự gieo rắc, sự lan truyền (tin đồn)
+- (vật lý) sự tán sắc; độ tán sắc
+=atomic dispersion
++ độ tán sắc nguyên tử
+=acoustic dispersion
++ sự tản sắc âm thanh
+- (hoá học) sự phân tán; độ phân tán
 @Chuyên ngành kinh tế
--bình nhỏ cổ
--chai
--lọ
--lọ nhỏ
--ống
+-sự phân tán
 @Chuyên ngành kỹ thuật
--bình
--chai
--lọ
-@Lĩnh vực: hóa học & vật liệu
--khung nhôm
-@Chuyên ngành kỹ thuật
--bình
--chai
--lọ
-@Lĩnh vực: hóa học & vật liệu
--khung nhôm
+-độ phân tán
+-độ tán sắc
+-phân tán
+-sự khuếch tán
+-sự phân tán
+-sự tán sắc
+-sự tán xạ
+-sự tiêu tán
+-tán sắc
+@Lĩnh vực: toán & tin
+-độ tán
+-phương sai
+@Lĩnh vực: điện lạnh
+-sự tản mạn
+

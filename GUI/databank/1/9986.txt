@@ -1,20 +1,25 @@
-cob	
-@cob /kɔb/
+scanner
+	
 *  danh từ
-- con thiên nga trống
-- ngựa khoẻ chân ngắn
-- lõi ngô ((cũng) corn cob)
-- cục than tròn
-- cái bánh tròn
-- (thực vật học) hạt phí lớn
-*  danh từ
-- đất trộn rơm (để trát vách),  toocsi
-- vách đất, vách toocsi
+- (truyền hình) bộ phân hình
+- (truyền hình) (như) scanning
+-disk
+- bộ quét (ở máy rađa)
 @Chuyên ngành kinh tế
--bánh mì thỏi tròn
--lõi ngô
+-máy chụp cắt lớp vi tính
 @Chuyên ngành kỹ thuật
--cục
--đập chọn than
+-bộ phân tích
+-bộ quét
+-bộ quét quang
+-mạch quét
+-máy quét scanơ
+-máy quét vô tuyến
+-thiết bị quét
+@Lĩnh vực: điện tử & viễn thông
+-đèn quét
+@Lĩnh vực: toán & tin
+-máy quét
+-máy quét hình
 @Lĩnh vực: xây dựng
--đất trát trộn
+-máy scan
+

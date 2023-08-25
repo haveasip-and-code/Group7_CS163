@@ -1,9 +1,10 @@
-shorthand	@shorthand /'ʃɔ:thænd/
-*  tính từ
-- dùng tốc ký, ghi bằng tốc ký
-@Chuyên ngành kinh tế
--phương pháp tốc ký
--tốc ký
+emittance
+	
+- (Tech) công suất bức xạ; độ trưng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tốc ký
+-độ phát xạ
+-độ trưng
+@Chuyên ngành kỹ thuật
+-độ phát xạ
+-độ trưng
+

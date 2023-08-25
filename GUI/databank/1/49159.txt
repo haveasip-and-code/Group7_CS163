@@ -1,6 +1,29 @@
-scone	@scone /skɔn/
+fishery
+	
 *  danh từ
-- bánh nướng (uống với trà)
+- công nghiệp cá; nghề cá
+=inshore fishery
++ nghề lộng
+=deep
+-sea fishery
++ nghề khơi
+- nơi nuôi cá, nơi đánh cá
 @Chuyên ngành kinh tế
--bánh mì dẹt
--bánh mì vòng
+-bãi cá
+-cá công nghiệp
+-nghề cá
+-nghề đánh cá
+-nghề nuôi cá
+-nghề thủy sản
+-ngư nghiệp
+-ngư trường
+-nơi nuôi cá
+-quyền đánh cá
+-vùng đánh cá
+@Chuyên ngành kỹ thuật
+-nghề cá
+-ngư nghiệp
+@Chuyên ngành kỹ thuật
+-nghề cá
+-ngư nghiệp
+

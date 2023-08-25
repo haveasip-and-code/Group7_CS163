@@ -1,13 +1,9 @@
-mercantile	@mercantile /'mə:kəntail/
-*  tính từ
-- buôn, buôn bán
-=mercantile marine+ đội thuyền buôn
-- hám lợi, vụ lợi
-!mercantile theory
-- thuyết duy tiền (cho tiền là của cải duy nhất)
-@Chuyên ngành kinh tế
--buôn bán
--doanh thương
--thuộc về buôn
--thương mại
--thương nghiệp
+contracted
+	
+- bị rút ngắn, bị co rút
+@Chuyên ngành kỹ thuật
+-đã co
+@Lĩnh vực: toán & tin
+-bị co rút
+-bị rút ngắn
+

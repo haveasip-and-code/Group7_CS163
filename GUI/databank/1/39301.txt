@@ -1,7 +1,4 @@
-paleontology	@paleontology
-- xem palaeontology
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cổ sinh vật học
-@Lĩnh vực: xây dựng
--hóa thạch học
+connectional
+	
+- xem connection
+

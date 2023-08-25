@@ -1,8 +1,11 @@
-histophysiology	
-@histophysiology
-* danh từ
-- sinh lý mô
-- tổ chức cấu trúc và chức năng mô
+interconvertibility
+	
+*  danh từ
+- tính có thể chuyển đổi qua lại
+- tính có thể thay đổi lẫn nhau
+@Chuyên ngành kinh tế
+-tính có thể chuyển đổi lẫn nhau
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sinh lý học mô
+@Lĩnh vực: điện lạnh
+-tính hỗ biến
+

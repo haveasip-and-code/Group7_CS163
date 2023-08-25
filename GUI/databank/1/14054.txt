@@ -1,14 +1,10 @@
-deficit	
-@deficit /'defisit/
+brittleness
+	
 *  danh từ
-- (tài chính) số tiền thiếu hụt (do chi lớn hơn thu)=to make up a deficit; to meet a deficit
-+ bù lại số tiền thiếu hụt
-@Chuyên ngành kinh tế
--nhập siêu
--thâm hụt
--thâm thủng
--thiếu hụt
+- tính giòn, tính dễ gãy, tính dễ vỡ
 @Chuyên ngành kỹ thuật
--độ hụt
--sự hụt
--sự thiếu
+-độ dễ gãy
+-độ giòn
+@Lĩnh vực: cơ khí & công trình
+-tính dễ gãy
+

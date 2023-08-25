@@ -1,19 +1,5 @@
-cull	
-@cull /kʌl/
-*  ngoại động từ
-- lựa chọn, chọn lọc=extracts culled from the best authors
-+ những đoạn trích được chọn lọc của các tác giả hay nhất
-- hái (hoa...)
-*  danh từ
-- súc vật loại ra để thịt
-@Chuyên ngành kinh tế
--hái
--ngắt
--sự lựa chọn
--sự phân loại
-@Chuyên ngành kỹ thuật
--lấy ra
--rút ra
--sự lựa chọn
-@Lĩnh vực: hóa học & vật liệu
--vật liệu thừa
+megakaryocyte
+	
+@Lĩnh vực: y học
+-tế bào nhân khổng lồ
+

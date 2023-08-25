@@ -1,9 +1,24 @@
-tombstone	@tombstone /'tu:mstoun/
-*  danh từ
-- bia mộ, mộ chí
+technical
+	
+*  tính từ
+- (thuộc) kỹ thuật, chuyên môn
+=technical school
++ trường kỹ thuật
+=technical terms
++ thuật ngữ kỹ thuật
+=difficulties
++ những khó khăn về chuyên môn
 @Chuyên ngành kinh tế
--cáo thị
+-chuyên môn
+-công nghệ
+-kỹ thuật
+-phương pháp
 @Chuyên ngành kỹ thuật
--bia mộ
+-chi tiết kỹ thuật
+-kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-chuyên môn
+-thuộc về kỹ thuật
 @Lĩnh vực: xây dựng
--lăng mộ đá
+-tên gọi kỹ thuật
+

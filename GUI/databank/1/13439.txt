@@ -1,10 +1,7 @@
-damaged	
+pieceworker
+	
+* danh từ
+- người làm công việc ăn lương theo sản phẩm, người hưởng lương khoán sản phẩm
 @Chuyên ngành kinh tế
--bị hư hao
--bị thiệt hại
--bị tổn thất
-@Chuyên ngành kỹ thuật
--hỏng
-@Lĩnh vực: điện tử & viễn thông
--hư hại
--thiệt hại
+-công nhân hưởng lương theo sản phẩm
+

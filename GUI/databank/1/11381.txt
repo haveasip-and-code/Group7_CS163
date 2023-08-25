@@ -1,13 +1,24 @@
-constantan	
-@constantan
-- (Tech) hợp kim kền
--đồng, côngtantan
+wale
+	
+*  danh từ
+- vết lằn (roi)
+- sọc nổi (nhung kẻ)
+- (kỹ thuật) thanh giảm chấn
+*  ngoại động từ
+- đánh lằn da
+- dệt thành sọc nổi
+- (quân sự) đan rào bảo vệ, đan sọt nhồi đất làm công sự bảo vệ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--hợp chất đồng_nikel
-@Lĩnh vực: điện
--hợp kim công
--tăng
--tăng
-@Lĩnh vực: điện lạnh
--hợp kim constantan
+-sự chọn nhặt đá
+-sự tuyển than
+-thanh giằng ngang
+@Lĩnh vực: dệt may
+-hàng dọc của vòng chỉ (vải dệt kim)
+@Lĩnh vực: xây dựng
+-kết cấu giảm chấn
+-thang ngang giằng cọc
+-thanh chắn bánh xe (trên cầu)
+-thanh giảm chấn
+-thanh giằng ngang (chống đỡ các tấm ván lát hầm)
+-thanh ngang giằng cọc
+

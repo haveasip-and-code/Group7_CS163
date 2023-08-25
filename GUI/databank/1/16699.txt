@@ -1,27 +1,5 @@
-drainage	
-@drainage /'dreinidʤ/
-*  danh từ
-- sự rút nước, sự tháo nước, sự tiêu nước
-- hệ thống thoát nước, hệ thống cống rãnh, hệ thống mương máng
-- (y học) sự dẫn lưu
-- nước thoát đi (qua cống rãnh...); nước tiêu (qua hệ thống mương máng...)
-@Chuyên ngành kinh tế
--hệ thống dẫn lưu
--sự tháo
--sự thoát đi
-@Chuyên ngành kỹ thuật
--nước thoát đi
--nước tiêu
--mạng lưới sông
--sự hút nước
--sự tháo nước
--sự thoát nước
--sự tiêu nước
--thoát nước
--tiêu nước
-@Lĩnh vực: hóa học & vật liệu
--mạng sông
-@Lĩnh vực: y học
--sự dẫn lưu
-@Lĩnh vực: xây dựng
--sự rút nước
+anthophilous
+	
+* tính từ
+- (động vật) thích hoa, kiếm ăn ở hoa
+

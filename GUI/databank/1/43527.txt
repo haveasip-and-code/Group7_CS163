@@ -1,13 +1,11 @@
-prevailing	@prevailing /pri'veiliɳ/
-*  tính từ
-- đang thịnh hành, đang lưu hành, phổ biến khắp, lan khắp
-=prevailing fashion+ mốt đang thịnh hành
-@Chuyên ngành kinh tế
--phổ biến (trong không gian hay thời gian) hiện thời
--thường thấy
+isocline
+	
+*  danh từ
+- đường đẳng khuynh
 @Chuyên ngành kỹ thuật
--có ưu thế
-@Lĩnh vực: cơ khí & công trình
--sự chiếm ưu thế
--sự thịnh hành
--thịnh hành
+-đường đẳng khuynh
+-đường đẳng nghiêng
+-đường đẳng tà
+@Lĩnh vực: xây dựng
+-tiếp uốn đẳng nghiêng
+

@@ -1,8 +1,13 @@
-headland	
-@headland /'hedlənd/
-*  danh từ
-- mũi (biển)
-- (nông nghiệp) khoảnh đất không cày tới ở cuối ruộng
+subroutine
+	
+- chương trình con, thủ tục phụ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--múi (đất)
+-lặp thức con
+-thủ tục con
+-thủ tục phụ
+-thường trình
+-thường trình con
+@Lĩnh vực: toán & tin
+-đoạn chương trình con
+-trình con
+

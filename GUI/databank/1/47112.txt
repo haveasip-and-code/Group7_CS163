@@ -1,7 +1,21 @@
-resistivity	@resistivity /,rizis'tiviti/
+browse
+	
 *  danh từ
-- (vật lý) suất điện trở
+- cành non, chồi non
+- sự gặm (cành non, chồi non)
+*  ngoại động từ
+- cho (súc vật) gặm (cành non, chồi non)
+*  nội động từ
+- gặm (cành non, chồi non)
+- (nghĩa bóng) đọc lướt qua, xem lướt qua, đọc bỏ quãng (một cuốn sách)
 @Chuyên ngành kỹ thuật
--điện trở riêng
--điện trở suất
--điện trở suất riêng
+-cuộn
+-đọc lướt
+-quét
+-truy tìm
+-xem lướt
+-xem trộm
+@Lĩnh vực: toán & tin
+-duyệt
+-duyệt qua
+

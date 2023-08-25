@@ -1,37 +1,5 @@
-parallel	@parallel /'pærəlel/
-*  tính từ
-- song song
-=parallel to (with)+ song song với
-- tương đương, tương tự, giống với, ngang hàng
-=here is a parallel case+ đây là một trường hợp tương tự
-*  danh từ
-- đường song song
-- đường vĩ, vĩ tuyến ((cũng) parallel of latitude)
-=the 17th parallel+ vĩ tuyến 17
-- (quân sự) đường hào ngang (song song với trận tuyến)
-- người tương đương, vật tương đương
-=without [a] parallel+ không ai (không gì) sánh bằng
-- sự so sánh, sự tương đương
-=to draw a parallel between two things+ so sánh hai vật
-- (điện học) sự mắc song song
-- dấu song song
-*  ngoại động từ
-- đặt song song với; tìm tương đương với; so sánh
-=to parallel one thing with another+ so sánh vật này với vật kia
-- song song với; tương đương với; ngang với, giống với
-=the road parallels the river+ con đường chạy song song với con sông
-- (điện học) mắc song song
-@Chuyên ngành kỹ thuật
--đồng thời
--đường song song
--đường vĩ tuyến
--nối song song
--song song
-@Lĩnh vực: điện lạnh
--được mắc bội (nối với cùng cặp đầu ra)
--được mắc song song
--được mắc sun
-@Lĩnh vực: xây dựng
--giá trượt (song song)
-@Lĩnh vực: toán & tin
--vĩ tuyến
+glossily
+	
+* phó từ
+- bóng láng, hào nhoáng, phô trương
+

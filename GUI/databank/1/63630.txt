@@ -1,17 +1,10 @@
-zoom	@zoom /zu:m/
-*  danh từ
-- tiếng kêu vù vu (của máy bay...)
-- sự làm cho bay vọt lên; sự bay vọt lên
-*  nội động từ
-- kêu vù vù
-- bay vọt lên (máy bay)
+syntony
+	
+* ngoại động từ
+- sự điều hưởng
+= exact syntony
++sự điều hưởng chính xác
 @Chuyên ngành kỹ thuật
--phóng
--phóng đại
--thu
-@Lĩnh vực: điện
--phóng ảnh
-@Lĩnh vực: toán & tin
--sự thu-phóng (của biểu diễn ảnh)
-@Lĩnh vực: điện lạnh
--zum
+@Lĩnh vực: xây dựng
+-tính đồng điệu
+

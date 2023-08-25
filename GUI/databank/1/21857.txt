@@ -1,24 +1,4 @@
-forecast	
-@forecast /fɔ:'kɑ:st/
-*  danh từ
-- sự dự đoán trước; sự dự báo trước=weather forecast
-+ dự báo thời tiết
-- (từ hiếm,nghĩa hiếm) sự biết lo xa
-*  ngoại động từ,  forecast,  forecasted
-- dự đoán, đoán trước; dự báo=to forecast the weather
-+ đự báo thời tiết
-@Chuyên ngành kinh tế
--dự báo
--dự đoán
--dự trắc
--sự dự báo
--sự dự đoán
--sự dự trắc
-@Chuyên ngành kỹ thuật
--dự báo
--dự đoán
--sự báo
--sự dự báo
--sự dự đoán
--tiên đoán
--tính
+thoraxes
+	
+- xem thoraxes
+

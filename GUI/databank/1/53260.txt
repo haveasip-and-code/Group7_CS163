@@ -1,5 +1,22 @@
-steric	@steric
-* tính từ
-- thuộc sự bố trí các nguyên tử trong không gian; thuộc không gian
+sensitivity
+	
+*  danh từ
+- tính dễ cảm xúc; tính nhạy cảm
+- tính nhạy; độ nhạy
+=colour sensitivity
++ độ nhạy màu
+=current sensitivity
++ độ nhạy dòng điện
 @Chuyên ngành kỹ thuật
--không gian
+-độ cảm
+-độ nhạy
+-độ nhạy cảm
+@Lĩnh vực: điện
+-độ nhậy
+@Lĩnh vực: cơ khí & công trình
+-độ nhạy (tương đối)
+@Lĩnh vực: toán & tin
+-độ nhạy, tính nhạy
+@Lĩnh vực: điện lạnh
+-tính nhạy
+

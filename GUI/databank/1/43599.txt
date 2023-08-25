@@ -1,4 +1,7 @@
-prill	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--khoáng vật tự nhiên
--mẩu quặng nhỏ
+gyrator
+	
+- (Tech) bộ hồi chuyển (không thể nghịch chiều), girato
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: vật lý
+-bộ hồi chuyển
+

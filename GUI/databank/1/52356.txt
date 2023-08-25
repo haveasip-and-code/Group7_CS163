@@ -1,6 +1,6 @@
-spherulitic	@spherulitic
-* tính từ
-- thuộc tinh thể hình cầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sferulit
+dissipater
+	
+-bộ làm mát
+@Lĩnh vực: điện lạnh
+-chỗ gom nhiệt
+

@@ -1,35 +1,14 @@
-quantity	@quantity /'kwɔntiti/
-*  danh từ
-- lượng, số lượng, khối lượng
-- (số nhiều) số lớn, vô số, rất nhiều
-=quantities of people+ rất nhiều người
-!to buy in quantities
-- mua một số lớn, mua rất nhiều
-- (toán học); (vật lý) lượng
-=unknown quantity+ lượng chưa biết; (nghĩa bóng) người lạ, người mà không ai biết tung tích; người mà hành động không ai lường trước được
-=electric quantity+ điện lượng
-=quantity of heat+ nhiệt lượng
-- (vật lý) âm lượng
-- (số nhiều) (kiến trúc) chi tiết thiết kế thi công (một toà nhà...)
-!bilt of quantities
-- bảng chi tiết thiết kế thi công
-- (định ngữ) (kỹ thuật) hàng loạt
-=quantity productions+ sự sản xuất hàng loạt
+fermenter
+	
+* danh từ
+- chất gây men; thùng gây men
 @Chuyên ngành kinh tế
--đại lượng
--định lượng
--hàng loạt
--khối lượng
--lượng
--số lượng
--số lượng lớn
--số nhiều
+-thiết bị lên men
+-thùng lên men
 @Chuyên ngành kỹ thuật
--đại lượng
--độ lớn
--giá trị
--khối lượng
--lượng
--số lượng
-@Lĩnh vực: toán & tin
--số lượng, lượng
+@Lĩnh vực: thực phẩm
+-thùng lên men
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-thùng lên men
+

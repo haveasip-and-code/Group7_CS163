@@ -1,18 +1,5 @@
-tappet	@tappet
-* danh từ
-- bộ phận chuyền động (cần của một bộ phận máy để truyền động bằng cách gõ vào cái gì; dùng để mở, đóng một cái van )
-@Chuyên ngành kỹ thuật
--cái chặn
--cam
--chốt cài
--dụng cụ tốc
--móng
--thành
--vấu
-@Lĩnh vực: vật lý
--cấu đẩy dao
-@Lĩnh vực: ô tô
--con đội xú páp
-@Lĩnh vực: cơ khí & công trình
--con đội xupáp (đệm đẩy xupáp)
--thanh đẩy (cơ cấu cam, xupap)
+misanthrope
+	
+*  danh từ
+- kẻ ghét người
+

@@ -1,31 +1,10 @@
-wedge	@wedge /wed /
-*  danh từ
-- cái nêm
-- vật hình nêm
-- (quân sự) mũi nhọn
-=to drive a wedge into+ thọc một mũi vào; (nghĩa bóng) chia rẽ
-*  ngoại động từ
-- nêm, chêm
-- (nghĩa bóng) chen vào, dấn vào
-- (từ hiếm,nghĩa hiếm) bửa bằng nêm, chẻ bằng nêm
-!to wedge away (off)
-- bửa ra, tách ra, chẻ ra
-!to wedge oneself in
-- chen vào, dấn vào
-@Chuyên ngành kinh tế
--đồ thị dạng hình cái nêm
+undistorted
+	
+*  tính từ
+- không bị vặn, không bị méo mó
+- không bị bóp méo, không bị xuyên tạc
 @Chuyên ngành kỹ thuật
--cái chèn
--cái chèn, cái nêm
--cái chốt
--đóng nêm
--nêm
--nêm chặt
--miếng chêm
-@Lĩnh vực: hóa học & vật liệu
--bulông hình nêm
-@Lĩnh vực: cơ khí & công trình
--cái nêm
--chốt chêm
-@Lĩnh vực: xây dựng
--chốt dẹt
+-không méo
+@Lĩnh vực: điện tử & viễn thông
+-không bị méo
+

@@ -1,4 +1,13 @@
-interpluvial	
+thermic
+	
+*  tính từ
+- nhiệt
+=variations
++ biến đổi nhiệt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--giữa hai mùa mưa
+-nhiệt
+@Lĩnh vực: xây dựng
+-thuộc vế nhiệt
+@Lĩnh vực: toán & tin
+-thuộc về nhiệt
+

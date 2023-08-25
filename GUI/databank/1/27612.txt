@@ -1,18 +1,14 @@
-impulsion	
-@impulsion /im'pʌlʃn/
+endemic
+	
+*  tính từ
+- (sinh vật học) đặc hữu (loài sinh vật...)
+- (y học) địa phương (bệnh)
 *  danh từ
-- sự đẩy tới, sức đẩy tới
-- sự bốc đồng; cơn bốc đồng
-- sự thúc đẩy, sự thôi thúc
-- (kỹ thuật) xung động
+- (y học) bệnh địa phương
 @Chuyên ngành kỹ thuật
--sự đẩy
--sự kích động
--sự truyền động
--sự va chạm
--xung lực
--xung lượng
-@Lĩnh vực: xây dựng
--hiện tượng xung
-@Lĩnh vực: cơ khí & công trình
--xung
+@Lĩnh vực: y học
+-dịch địa phương
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dịch địa phương
+

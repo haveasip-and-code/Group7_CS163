@@ -1,16 +1,11 @@
-paging	@paging
-* danh từ
-- số trang của quyển sách
-- thứ tự các trang
-@Chuyên ngành kinh tế
--tìm người
-@Chuyên ngành kỹ thuật
--đánh số trang
--phân trang
--số trang
-@Lĩnh vực: toán & tin
--chuyển trang nhớ
--sự phân trang nhớ
-@Lĩnh vực: điện tử & viễn thông
--nhắn tin vô tuyến
--sự nhắn tin
+jangle
+	
+*  danh từ
+- tiếng kêu chói tai; tiếng om sòm
+- (từ cổ,nghĩa cổ) cuộc cãi cọ om xòm
+*  động từ
+- kêu chói tai; nói om sòm chói tai; làm kêu chói tai
+=to jangle a bell
++ lắc chuông kêu chói tai
+- (từ cổ,nghĩa cổ) tranh cãi ầm ĩ; cãi nhau om sòm
+

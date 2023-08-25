@@ -1,12 +1,16 @@
-joule	
-@joule /dʤu:l/
-*  danh từ
-- (điện học) Jun
-@Chuyên ngành kinh tế
--jun
+draining
+	
+-sự chảy
+-sự tháo khô nước
 @Chuyên ngành kỹ thuật
--đơn vị nhiệt
-@Lĩnh vực: y học
--đơn vị nhiệt lượng jun
-@Lĩnh vực: giao thông & vận tải
--ổ gà, xóc
+-nhỏ giọt
+-sự tháo nước
+-sự thoát nước
+-sự tiêu nước
+-tháo nước
+-thoát nước
+@Lĩnh vực: xây dựng
+-sự rút nước
+@Lĩnh vực: cơ khí & công trình
+-sự tháo khô
+

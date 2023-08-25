@@ -1,12 +1,11 @@
-accessibility	
-@accessibility /æk,sesi'biliti/
+secretion
+	
 *  danh từ
-- tính có thể tới được, tính có thể đến gần được
-- sự dễ bị ảnh hưởng
-@Chuyên ngành kỹ thuật
--có thể vào được, có thể đi (đến) được
-@Lĩnh vực: điện lạnh
--khả năng đến được
--khả năng truy nhập
-@Lĩnh vực: toán & tin
--khả năng truy cập
+- sự cất giấu, sự oa trữ
+=the secretion of stolen goods
++ sự oa trữ những đồ ăn cắp
+- (sinh vật học) sự tiết, chất tiết
+@Chuyên ngành kinh tế
+-sự bài tiết
+-sự tách ra
+

@@ -1,14 +1,4 @@
-reclamation	@Chuyên ngành kinh tế
--sự cải tạo
--sự đòi bồi thường
--sự hiệu chỉnh
-@Chuyên ngành kỹ thuật
--khôi phục
--sự tái sinh
-@Lĩnh vực: xây dựng
--sự khai hoang
--sự khai khẩn
--sự khiếu nại
-@Lĩnh vực: cơ khí & công trình
--sự tiêu khô (đầm lầy)
--sự vỡ hoang
+inventorial
+	
+- xem inventory
+

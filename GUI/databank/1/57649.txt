@@ -1,4 +1,77 @@
-tress	@tress /tres/
+firm
+	
 *  danh từ
-- bím tóc
-- bộc tóc (đàn bà)
+- hãng, công ty
+*  tính từ
+- chắc, rắn chắc
+=firm muscles
++ bắp thịt rắn chắc
+- vững chắc; bền vững
+=a firm foundation
++ nền tảng vững chắc
+- nhất định không thay đổi
+=firm prices
++ giá nhất định
+- mạnh mẽ
+=a firm voice
++ giọng nói mạnh mẽ
+- kiên quyết, vững vàng, không chùn bước
+=to firm measure
++ biện pháp kiên quyết
+=a firm faith
++ lòng tin sắt đá
+=a firm position (stand)
++ lập trường kiến định
+- trung thành, trung kiên
+!as firm as rock
+- vững như bàn thạch
+!to be on the firm ground
+- tin chắc
+!to take a firm hold of something
+- nắm chắc cái gì
+*  phó từ
+- vững, vững vàng
+=to stand firm
++ đứng vững
+!to hold firm to one's beliefs
+- giữ vững niềm tin
+*  ngoại động từ
+- làm cho vững vàng, làm cho chắc chắn
+- nền (đất)
+- cắm chặt (cây) xuống đất
+*  nội động từ
+- trở nên vững chắc, trở nên rắn chắc
+@Chuyên ngành kinh tế
+-chặt
+-cứng
+-doanh nghiệp
+-hãng
+@Chuyên ngành kỹ thuật
+-bền
+-chắc chắn
+-chặt
+-cứng
+-hãng
+-ổn định
+-rắn
+-vững
+-vững chắc
+@Lĩnh vực: cơ khí & công trình
+-gần chặt
+@Lĩnh vực: toán & tin
+-hãng (buôn)
+@Chuyên ngành kỹ thuật
+-bền
+-chắc chắn
+-chặt
+-cứng
+-hãng
+-ổn định
+-rắn
+-vững
+-vững chắc
+@Lĩnh vực: cơ khí & công trình
+-gần chặt
+@Lĩnh vực: toán & tin
+-hãng (buôn)
+

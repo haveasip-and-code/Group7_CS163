@@ -1,12 +1,5 @@
-severity	@severity /si'veriti/
-*  danh từ
-- tính nghiêm khắc; tính nghiêm nghị; sự ngặt nghèo
-- tính khốc liệt, tính dữ dội, tính gay go, tính ác liệt
-- tính mộc mạc, tính giản dị
-- giọng châm biếm, giọng mỉa mai
-- sự đối đãi khắc nghiệt; sự trừng phạt khắc nghiệt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--sự khắc nghiệt
-@Lĩnh vực: toán & tin
--tính nghiêm trọng
+antihypertensive
+	
+* tính từ
+- chống chứng tăng huyết áp
+

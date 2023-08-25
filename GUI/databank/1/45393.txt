@@ -1,10 +1,5 @@
-radiometry	@radiometry
-* danh từ
-- phép đo phóng xạ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--đo bức xạ
-@Lĩnh vực: hóa học & vật liệu
--đo phóng xạ
-@Lĩnh vực: vật lý
--phép đo phóng xạ
+interfaith
+	
+* tính từ
+- gồm những người có tín ngưỡng khác nhau
+

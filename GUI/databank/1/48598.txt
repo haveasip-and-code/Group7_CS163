@@ -1,11 +1,9 @@
-sandbag	@sandbag /'sændbæg/
-*  ngoại động từ
-- xếp túi cát làm công sự
-- chặn (cửa sổ) bằng túi cát, bịt (lỗ hở) bằng túi cát
-- đánh quỵ bằng túi cát
-@Chuyên ngành kinh tế
--chặn bằng bao cát
--chiến thuật trùng trình
+metacenter
+	
+*  danh từ
+- (toán học) khuynh tâm
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--bao cát
+-khuynh tâm
+@Lĩnh vực: toán & tin
+-tâm nghiêng
+

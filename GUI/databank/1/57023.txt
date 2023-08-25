@@ -1,6 +1,13 @@
-topological	@topological
-* tính từ
-- (thuộc) hình học tôpô
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tôpô
+photostat
+	
+*  danh từ
+- máy sao chụp
+- bản sao chụp
+@Chuyên ngành kinh tế
+-bản sao chụp
+-bản sao chụp trực tiếp
+-máy sao chụp
+-sao chụp bằng máy
+-sao chụp bằng máy sao chụp trực tiếp
+-sao chụp trực tiếp
+

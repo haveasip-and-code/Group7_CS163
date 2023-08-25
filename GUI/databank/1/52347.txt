@@ -1,7 +1,11 @@
-spheric	@spheric /'sferik/
+scalar
+	
 *  tính từ
-- (thơ ca) (thuộc) bầu trời; (thuộc) thiên thể
-- được ca ngợi, được tâng bốc
+- (toán học) vô hướng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--có dạng hình cầu
+-đại lượng vô hướng
+-thang đo
+-vô hướng
+@Lĩnh vực: toán & tin
+-lượng vô hướng
+

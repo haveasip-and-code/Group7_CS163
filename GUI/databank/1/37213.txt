@@ -1,7 +1,13 @@
-numerator	@numerator /'nju:məreitə/
-*  danh từ
-- người đếm, người tính
-- (toán học) tử số (của một phân số)
-@Chuyên ngành kỹ thuật
--phân tử
--phần tử
+foreclose
+	
+*  ngoại động từ
+- ngăn không cho hưởng
+- tuyên bố (ai) mất quyền lợi
+- (pháp lý) tịch thu (tài sản) để thế nợ
+- giải quyết trước
+*  nội động từ
+- (pháp lý) tịch thu tài sản để thế nợ
+@Chuyên ngành kinh tế
+-thủ tiêu quyền chuộc của thế chấp
+-tịch thu (tài sản) để thế nợ
+

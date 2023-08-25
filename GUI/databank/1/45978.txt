@@ -1,3 +1,9 @@
-recognizer	@recognizer
-* danh từ
-- người công nhận
+noisiness
+	
+*  danh từ
+- sự ồn ào, sự om sòm, sự huyên náo
+- (nghĩa bóng) tính chất loè loẹt, tính chất sặc sỡ (màu sắc...); tính chất đao to búa lớn (văn)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-tính ồn
+

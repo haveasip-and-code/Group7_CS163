@@ -1,5 +1,25 @@
-absorbance	
+identity
+	
+*  danh từ
+- tính đồng nhất; sự giống hệt
+=a case of mistaken identity
++ trường hợp nhầm lẫn hai người vì giống hệt
+- cá tính, đặc tính; nét để nhận biết; nét để nhận dạng, nét để nhận diện (của người nào, vật gì...)
+- (toán học) đồng nhất thức
+@Chuyên ngành kinh tế
+-đồng nhất thức
+-giám định
+-nhận dạng
+-nhận diện
+-nhận ra
+-nhận rõ
+-sự đồng nhất
+-sự giống nhau hoàn toàn
+-tính đồng nhất
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khả năng hút
--thu (bức xạ)
+-đồng nhất
+@Lĩnh vực: toán & tin
+-đồng nhất thức
+-mã đồng nhất
+-phép đồng nhất
+

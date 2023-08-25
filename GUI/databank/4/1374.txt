@@ -1,0 +1,3 @@
+robots.txt
+File that stops search engines from crawling a specified page or directory.
+

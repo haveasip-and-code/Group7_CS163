@@ -1,24 +1,52 @@
-cram	
-@cram /kræm/
+filter
+	
 *  danh từ
-- sự nhồi sọ, sự luyện thi
-- đám đông chật ních
-- (từ lóng) lời nói dối, lời nói láo, lời nói dóc
-*  ngoại động từ
-- nhồi, nhét, tống vào
-- nhồi sọ; luyện thi (cho một học sinh)
-- nhồi, vỗ (gà, vịt cho chóng béo)
-*  nội động từ
-- ních đầy bụng, ngốn, nhồi
-- học luyện thi, ôn thi!to cram for an examination
-- học gạo để thi
-- (từ lóng) nói dối, nói láo, nói dóc!to cram up
-- học nhồi nhét (một vấn đề)
-@Chuyên ngành kinh tế
--sự nhồi
--sự nuôi vỗ
+- cái lọc, máy lọc (xăng, không khí)
+- (nhiếp ảnh) cái lọc (ánh sáng)
+- (raddiô) bộ lọc
+- (thông tục) đầu lọc (ở đầu điếu thuốc lá)
+*  ngoại động từ ((cũng) filtrate)
+- lọc
+*  nội động từ ((cũng) filtrate)
+- ngấm qua; thấm qua; thấm vào, xâm nhập
+- tiết lộ ra; lọt ra (tin tức...)
+- nối (vào đường giao thông)
 @Chuyên ngành kỹ thuật
--chèn
--nhồi
+-bể lọc
+-bình lọc
+-bộ lọc
+-giấy lọc
+-lọc
+-mạch lọc
+-máy lọc
+-thấm qua
+@Lĩnh vực: y học
+-cái lọc
+@Lĩnh vực: vật lý
+-cấu lọc
+@Lĩnh vực: điện
+-mạch lọc ion
+@Lĩnh vực: điện lạnh
+-phin lọc
 @Lĩnh vực: xây dựng
--nhét
+-vỏ lọc
+@Chuyên ngành kỹ thuật
+-bể lọc
+-bình lọc
+-bộ lọc
+-giấy lọc
+-lọc
+-mạch lọc
+-máy lọc
+-thấm qua
+@Lĩnh vực: y học
+-cái lọc
+@Lĩnh vực: vật lý
+-cấu lọc
+@Lĩnh vực: điện
+-mạch lọc ion
+@Lĩnh vực: điện lạnh
+-phin lọc
+@Lĩnh vực: xây dựng
+-vỏ lọc
+

@@ -1,0 +1,3 @@
+pxt
+MMS picture message ; a picture/photo sent via a mobile phone
+

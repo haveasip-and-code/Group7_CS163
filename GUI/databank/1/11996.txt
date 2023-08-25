@@ -1,7 +1,21 @@
-corps	
-@corps /kɔ:ps/
-*  danh từ,  số nhiều corps
-- (quân sự) quân đoàn
-- đoàn=the Corps Diplomatique
-+ đoàn ngoại giao=a corps de ballet
-+ đoàn vũ ba lê
+supplier
+	
+*  danh từ
+- người cung cấp, người tiếp tế
+@Chuyên ngành kinh tế
+-người cung cấp
+-người cung ứng
+-người tiếp tế
+-nhà cung ứng
+@Chuyên ngành kỹ thuật
+-người cung cấp
+-nhà cung cấp
+@Lĩnh vực: điện
+-cơ quan cấp hàng
+-người cấp điện
+@Lĩnh vực: toán & tin
+-hãng cung cấp
+@Lĩnh vực: xây dựng
+-nhà thầu cung cấp
+-nhà thầu cung ứng
+

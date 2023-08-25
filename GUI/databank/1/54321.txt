@@ -1,13 +1,8 @@
-successor	@successor /sək'sesə/
-*  danh từ
-- người nối nghiệp; người nối ngôi; người thừa tự
-@Chuyên ngành kinh tế
--người kế nhiệm
--người kế tục
--người kế vị
--người thừa kế
-@Chuyên ngành kỹ thuật
--người thừa kế
-@Lĩnh vực: toán & tin
--phần tử kế tiếp
--phần tử tiếp theo
+coordinates
+	
+-hệ tọa độ
+-tọa độ
+-trục tọa độ
+@Lĩnh vực: xây dựng
+-hệ thống tọa độ
+

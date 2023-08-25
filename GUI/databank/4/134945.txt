@@ -1,0 +1,3 @@
+Metapuzzle
+A puzzle that encompases several other puzzles. A puzzle whose solution is dependant upon the solution of several smaller puzzles.
+

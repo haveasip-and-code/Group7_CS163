@@ -1,2 +1,4 @@
-mingler	@Chuyên ngành kinh tế
--thiết bị trộn
+checklist
+	
+- (Tech) danh sách kiểm
+

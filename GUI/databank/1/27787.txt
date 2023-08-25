@@ -1,5 +1,21 @@
-incinerated	
+duration
+	
+*  danh từ
+- thời gian, khoảng thời gian (tồn tại của một sự việc)
+=for the duration of the war
++ trong thời gian chiến tranh
+@Chuyên ngành kinh tế
+-khoảng thời gian
+-thời gian
 @Chuyên ngành kỹ thuật
--đốt
--nung
--thiêu
+-độ bền lâu
+-khoảng thời gian
+-thời khoảng
+-tuổi thọ
+@Lĩnh vực: xây dựng
+-độ lâu
+@Lĩnh vực: điện
+-thời gian xung
+@Lĩnh vực: hóa học & vật liệu
+-thời khoản
+

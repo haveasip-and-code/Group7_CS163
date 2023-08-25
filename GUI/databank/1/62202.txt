@@ -1,2 +1,21 @@
-vouchee	@Chuyên ngành kinh tế
--người được bảo đảm
+supervisor
+	
+*  danh từ
+- người giám sát
+@Chuyên ngành kinh tế
+-giám đốc
+-người giám quản
+-người giám sát
+-người giám thị
+-người quản lý (trưởng kíp, đốc công, trưởng gian hàng....)
+-nhân viên chủ quản
+@Chuyên ngành kỹ thuật
+-bộ điều hành
+-bộ giám sát
+-chương trình giám sát
+-đốc công
+-giám sát viên
+-người giám sát
+-người kiểm tra
+-quan giám sát
+

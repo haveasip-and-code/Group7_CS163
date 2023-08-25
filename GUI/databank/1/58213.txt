@@ -1,22 +1,10 @@
-turbulence	@turbulence
-* danh từ
-- sự hỗn loạn; sự bất an, sự náo động
-- sự nhiễu loạn, sự chuyển động dữ dội, sự chuyển động không đều (của không khí, nước)
+refuel
+	
+* ngoại động từ
+- tiếp nhiên liệu (cho xe hơi )
 @Chuyên ngành kỹ thuật
--chảy rối
--dòng xoáy
--góc xoáy
--luồng xoáy
--sự chảy rối
--sự nhiễu loạn
--sự xoáy lốc
-@Lĩnh vực: điện tử & viễn thông
--độ cuốn xoáy
-@Lĩnh vực: toán & tin
--giác loạn
-@Lĩnh vực: điện lạnh
--hiện tượng chảy rối
--hiện tượng cuộn xoáy
-@Lĩnh vực: xây dựng
--sự chảy xoáy
--tính chảy rối
+-bổ sung nhiên liệu
+-nạp nhiên liệu
+@Lĩnh vực: hóa học & vật liệu
+-cung cấp nhiên liệu
+

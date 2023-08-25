@@ -1,8 +1,13 @@
-wife	@wife /waif/
-*  danh từ,  số nhiều wives
-- vợ
-=to take to wife+ (từ cổ,nghĩa cổ) lấy làm vợ, cưới làm vợ
-- (từ cổ,nghĩa cổ) người đàn bà; bà già
+keyhole
+	
+*  danh từ
+- lỗ khoá
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--vợ
+-rãnh then
+@Lĩnh vực: cơ khí & công trình
+-lỗ khóa
+@Chuyên ngành kỹ thuật
+-rãnh then
+@Lĩnh vực: cơ khí & công trình
+-lỗ khóa
+

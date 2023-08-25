@@ -1,4 +1,4 @@
-rodding	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự đâm
--sự sọc
+charting
+	
+-phân tích biểu đồ
+

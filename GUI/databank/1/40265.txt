@@ -1,11 +1,5 @@
-peeler	@peeler /'pi:lə/
-*  danh từ
-- người bóc vỏ, người lột da
-- dụng cụ bóc vỏ, dụng cụ lột da
-*  danh từ
-- (từ lóng) cảnh sát, cớm
-@Chuyên ngành kinh tế
--máy bóc vỏ xúc xích
--máy đánh vảy cá
--máy làm sạch vỏ củ
--máy tách vỏ
+graminivorous
+	
+*  tính từ
+- ăn cỏ
+

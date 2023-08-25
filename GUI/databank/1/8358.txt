@@ -1,19 +1,4 @@
-caulk	
-@caulk /kɔ:k/
-*  ngoại động từ
-- xảm (thuyền, tàu)
-- bít, trét, hàn (những chỗ hở...)
-@Chuyên ngành kỹ thuật
--bít
--bít kín
--chống thấm
--hàn
--lèn
--xảm
-@Lĩnh vực: xây dựng
--hàn (chỗ hở)
--xảm (thuyền)
-@Lĩnh vực: cơ khí & công trình
--lăn nhám
-@Lĩnh vực: giao thông & vận tải
--xảm (trong đóng tàu)
+testae
+	
+- số nhiều của testa
+

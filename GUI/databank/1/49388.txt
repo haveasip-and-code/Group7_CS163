@@ -1,5 +1,4 @@
-seabed	@seabed
-* danh từ
-- đáy biển
-@Chuyên ngành kỹ thuật
--đáy biển
+export
+	
+- (toán kinh tế) xuất cảng
+

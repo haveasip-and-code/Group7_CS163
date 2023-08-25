@@ -1,4 +1,26 @@
-eradicator	
-@eradicator
-* danh từ
-- người nhổ rễ, người bài trừ
+custody
+	
+*  danh từ
+- sự coi sóc, sự chăm sóc, sự trông nom, sự canh giữ
+=to have the custody of someone
++ trông nom ai
+=the child is in the custody of his father
++ đứa con được sự trông nom của bố
+=to be in the custody of someone
++ dưới sự trông nom của ai
+- sự bắt giam, sự giam cầm
+=to be in custody
++ bị bắt giam
+=to take somebody into custody
++ bắt giữ ai
+!to give someone into custody
+- giao ai cho nhà chức trách
+@Chuyên ngành kinh tế
+-bảo hộ
+-bắt giam
+-giam cấm
+-giam cầm
+-sự bảo quản
+-sự câu lưu
+-trông nom
+

@@ -1,4 +1,10 @@
-profanity	@profanity /profanity/
-*  tính từ
-- tính báng bổ
-- lời nói báng bổ; hành động báng bổ
+cablegram
+	
+*  danh từ
+- bức điện xuyên đại dương; điện tín, cáp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-báo điện báo
+-bức điện tín cáp
+-điện tín qua cáp
+

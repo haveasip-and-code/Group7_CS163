@@ -1,21 +1,8 @@
-flowmeter	
-@flowmeter
-* danh từ
-- lưu lượng kế; lưu tốc kế
+payer
+	
+*  danh từ
+- người trả tiền
 @Chuyên ngành kinh tế
--lưu lượng kế
--máy đo lưu lượng chảy
-@Chuyên ngành kỹ thuật
--lưu biến kế
--lưu lượng kế
--lưu lượng kế, lưu tốc kế
--lưu tốc kế
-@Lĩnh vực: y học
--thông lượng kế
-@Chuyên ngành kỹ thuật
--lưu biến kế
--lưu lượng kế
--lưu lượng kế, lưu tốc kế
--lưu tốc kế
-@Lĩnh vực: y học
--thông lượng kế
+-người ký phát (chi phiếu, hối phiếu)
+-người trả tiền
+

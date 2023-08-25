@@ -1,12 +1,9 @@
-hark	
-@hark /hɑ:k/
-*  nội động từ,  (thường),  lời mệnh lệnh
-- nghe=hark!
-+ nghe đây
-- (săn bắn) (hark forward,  away,  off) đi, đi lên (giục chó săn)=hark away!
-+ đi lên!
-*  ngoại động từ
-- gọi (chó săn) về!to hark back
-- (săn bắn) lần đường ngược lại đánh hơi tìm dấu vết thú săn
-- (nghĩa bóng) (
-+ to) quay trở lại (vấn đề gì)
+tunable
+	
+*  tính từ
+- có thể hoà âm được
+- du dương, êm ái
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-điều hưởng được
+

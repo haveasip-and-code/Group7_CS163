@@ -1,12 +1,15 @@
-uncured	@uncured /'ʌn'kjuəd/
-*  tính từ
-- (y học) không chữa khỏi; chưa lành
-=an uncured wound+ một vết thương chưa lành
-- còn tươi, chưa xử lý để để lâu (cá)
-@Chuyên ngành kinh tế
--chưa bảo quản
+sinusoid
+	
+* danh từ
+- đường hình sin
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chưa lưu hóa
--không lưu hóa
--không xử lý
+-dạng sin
+-đường sin
+-hình sin
+@Lĩnh vực: toán & tin
+-đường hình sin
+-sóng dạng sin
+-sóng hình sinh
+@Lĩnh vực: y học
+-võng huyết quản
+

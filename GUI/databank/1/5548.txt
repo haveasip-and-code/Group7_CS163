@@ -1,23 +1,6 @@
-binary	
-@binary /'bainəri/
-*  tính từ
-- đôi, nhị nguyên, nhị phân=binary measure
-+ (âm nhạc) nhịp đôi=binary operation
-+ (toán học) phép toán nhị phân=binary fraction
-+ (toán học) phân số nhị phân=binary system
-+ hệ nhị nguyên
-@Chuyên ngành kinh tế
--đôi
--nhị phân
-@Chuyên ngành kỹ thuật
--đôi
--hai cấu tử
--hai thành phần
--hệ nhị phân
--hợp kim đôi
--nhị nguyên
--nhị phân
-@Lĩnh vực: toán & tin
--hai ngôi
-@Lĩnh vực: điện lạnh
--sao đôi
+pigpen
+	
+*  danh từ
+- chuồng lợn
+- (nghĩa bóng) nhà bẩn như ổ lợn
+

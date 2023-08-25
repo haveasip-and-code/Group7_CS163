@@ -1,33 +1,5 @@
-reclaim	@reclaim /ri'kleim/
-*  danh từ
-- past reclaim; beyond reclaim không thể cải tạo được
-*  ngoại động từ
-- cải tạo, giác ngộ
-=to reclaim someone from a vice+ cải tạo ai làm cho chừa bỏ một tật xấu
-=to reclaim someone to a sense of duty+ giác ngộ cho ai có tinh thần trách nhiệm
-- (nông nghiệp) khai hoang, vỡ hoang; cải tạo (đất), làm khô (bâi đất lầy để cày cấy)
-=to reclaim land+ khai hoang đất
-=reclaimed land+ đất vỡ hoang
-- thuần hoá (thú rừng); khai hoá, làm cho văn minh
-=to reclaim a wild animal+ thuần hoá một thú rừng
-- đòi lại
-=to reclaim one's money+ đòi tiền lại
-*  nội động từ
-- (từ hiếm,nghĩa hiếm) phản đối, khiếu nại
-@Chuyên ngành kinh tế
--cải tạo
--đòi lại
--khai hoang
--khai phá
--thu hồi
-@Chuyên ngành kỹ thuật
--cao su tái chế
--cao su tái sinh
--hoàn nguyên
--phục hồi
--xây dựng lại
-@Lĩnh vực: xây dựng
--khử (ôxi)
-@Lĩnh vực: hóa học & vật liệu
--tái sinh (dầu)
--thu hồi
+overkind
+	
+*  tính từ
+- quá tốt, quá tử tế
+

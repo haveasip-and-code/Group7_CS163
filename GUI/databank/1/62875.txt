@@ -1,3 +1,7 @@
-whites	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--khí hư
+misalign
+	
+-lệch trục
+@Lĩnh vực: cơ khí & công trình
+-chệch
+-không trùng
+

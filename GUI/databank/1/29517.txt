@@ -1,5 +1,5 @@
-intertie	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--rầm lanh
--tô
+horizontally
+	
+* phó từ
+- theo chiều ngang
+

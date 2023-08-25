@@ -1,7 +1,5 @@
-fingerling	
-@fingerling /'fiɳgəliɳ/
-*  danh từ
-- vật nhỏ
-- (động vật học) cá hồi nhỏ
-@Chuyên ngành kinh tế
--cá bột
+scoreboard
+	
+-bảng niêm yết
+-bảng yết thị
+

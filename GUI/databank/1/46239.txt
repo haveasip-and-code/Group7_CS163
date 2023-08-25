@@ -1,26 +1,27 @@
-reef	@reef /ri:f/
-*  danh từ
-- đá ngầm
-- (địa lý,địa chất) vỉa quặng vàng; mạch quặng
-*  danh từ
-- (hàng hải) mép buồm
-=to take in a reef+ xếp (cuốn) mép buồm lại; (nghĩa bóng) hành động thận trọng
-=to let out a reef+ tháo (cởi) mép buồm
-*  ngoại động từ
-- cuốn mép (buồm) lại
-- thu ngắn (cột buồm...)
-@Chuyên ngành kỹ thuật
--đá ngầm
--mạch quặng
--rạn
-@Lĩnh vực: hóa học & vật liệu
--ám tiêu
-@Lĩnh vực: cơ khí & công trình
--ám tiêu san hô
--gờ quặng
-@Lĩnh vực: giao thông & vận tải
--cuốn mép buồn
--mép buồm
--thu ngắn cột buồm (thuyền buồm)
-@Lĩnh vực: xây dựng
--đá ngầm (ngang mặt nước)
+abroad
+	
+*  phó từ
+- ở nước ngoài, ra nước ngoài
+=to live abroad
++ sống ở nước ngoài
+=to go abroad
++ đi ra nước ngoài
+- khắp nơi, đang truyền đi khắp nơi
+=there is a runmour abroad that...
++ khắp nơi đang có tin đồn rằng...
+=the schooimaster is abroad
++ việc học hành bây giờ đang trở thành phổ biến
+- ngoài trời (đối với trong nhà)
+=life abroad is very healthy
++ sống ở ngoài trời tốt cho sức khoẻ
+- (thông tục) nghĩ sai, nhầm, tưởng lầm
+=to be all abroad
++ nghĩ sai hoàn toàn, hoàn toàn lầm lẫn
+!from abroad
+- từ nước ngoài
+=these machines were brought from abroad
++ những chiếc máy này mang từ nước ngoài vào
+@Chuyên ngành kinh tế
+-ở nước ngoài
+-ra nước ngoài
+

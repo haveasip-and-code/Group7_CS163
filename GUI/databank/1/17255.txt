@@ -1,13 +1,6 @@
-eaves	
-@eaves /i:vz/
-*  danh từ số nhiều
-- mái chìa
-@Chuyên ngành kỹ thuật
--mái đua
--mái hiên
--máng thoát nước
--máng xối
-@Lĩnh vực: xây dựng
--gờ chảy
--máng xối, sênô, gờ chảy
--sênô
+uncharitable
+	
+*  tính từ
+- không nhân đức; không từ thiện
+- hà khắc, khắc nghiệt
+

@@ -1,23 +1,11 @@
-datum	
-@datum /'deitəm/
-*  danh từ,  số nhiều data
-- số lượng đã cho (bài toán...); điều đã cho biết
-- luận cứ
-- (số nhiều datums) mốc tính toán, mốc đo lường
+etherization
+	
+*  danh từ
+- (y học) sự gây mê ête
 @Chuyên ngành kỹ thuật
--dấu quy chiếu
--điểm chuẩn
--điểm cố định
--điểm quy chiếu
--dữ kiện
--dữ liệu
--mặt chuẩn
--mốc
--mốc đo lường
--mức chuẩn
--mục dữ liệu
--số liệu
-@Lĩnh vực: toán & tin
--datum
-@Lĩnh vực: điện tử & viễn thông
--gốc quy chiếu
+@Lĩnh vực: y học
+-sự g ây mê bằng ête
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-sự g ây mê bằng ête
+

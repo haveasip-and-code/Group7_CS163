@@ -1,41 +1,10 @@
-examination	
-@examination /ig,zæmi'neiʃn/ (examen) /eg'zeimen/
-*  danh từ
-- sự khám xét kỹ, sự xem xét kỹ, sự thẩm tra, sự khảo sát, sự nghiên cứu
-- sự thi cử; kỳ thi=to go in for an examination
-+ đi thi=to pass one's examination
-+ thi đỗ=to fail in an examination
-+ thi trượt
-- (pháp lý) sự thẩm tra
-@Chuyên ngành kinh tế
--kiểm tra
--kiểm tra kế toán
--sự kiểm tra
--sự nghiên cứu
--sự thẩm vấn
--thẩm vấn
--xem xét
+reprove
+	
+*  ngoại động từ
+- mắng mỏ, quở trách, khiển trách
 @Chuyên ngành kỹ thuật
--kiểm tra
--sự khảo sát
--sự kiểm nghiệm
--sự kiểm tra
--sự nghiên cứu
--sự xem xét
--sự xét nghiệm
-@Lĩnh vực: hóa học & vật liệu
--khám xét
--thẩm vấn
--thi cử
-@Chuyên ngành kỹ thuật
--kiểm tra
--sự khảo sát
--sự kiểm nghiệm
--sự kiểm tra
--sự nghiên cứu
--sự xem xét
--sự xét nghiệm
-@Lĩnh vực: hóa học & vật liệu
--khám xét
--thẩm vấn
--thi cử
+-kiểm chứng lại
+-mắng mỏ
+@Lĩnh vực: xây dựng
+-quở trách
+

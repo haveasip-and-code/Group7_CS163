@@ -1,20 +1,5 @@
-tax	@tax /tæks/
-*  danh từ
-- thuế, cước
-- (nghĩa bóng) gánh nặng; sự thử thách, sự đòi hỏi lớn
-=a tax on one's strength+ một gánh nặng đối với sức mình
-*  ngoại động từ
-- đánh thuế, đánh cước
-- (nghĩa bóng) đè nặng lên, bắt phải cố gắng
-=to tax someone's patience+ đòi hỏi ai phải kiên nhẫn rất nhiều
-- quy cho, chê
-=to tax someone with neglect+ chê người nào sao lãng
-- (pháp lý) định chi phí kiện tụng
-@Chuyên ngành kinh tế
--đánh thuế
--thu thuế (các thức uống một mặt hàng...)
--thuế
--tiền thuế
-@Chuyên ngành kỹ thuật
--cước
--đánh thuế
+botanize
+	
+*  nội động từ
+- tìm kiếm thực vật; nghiên cứu thực vật
+

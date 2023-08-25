@@ -1,6 +1,9 @@
-counteract	
-@counteract /,kauntə'rækt/
-*  ngoại động từ
-- chống lại, kháng cự lại
-- trung hoà, làm mất tác dụng=to counteract the effects of the poison
-+ làm mất tác dụng của chất độc, giải độc
+radiative
+	
+*  tính từ
+- bức xạ, phát xạ
+@Chuyên ngành kỹ thuật
+-bức xạ
+-sinh bức xạ
+-sinh năng lượng
+

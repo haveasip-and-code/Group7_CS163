@@ -1,40 +1,11 @@
-teeth	@teeth /tu:θ/
-*  danh từ,  số nhiều teeth
-- răng
-=first tooth+ răng sữa
-=artificial tooth; false tooth+ răng giả
-=to cut one's teeth+ mọc răng
-- răng (của các đồ vật)
-=the teeth of a saw+ răng cưa
-!armed to the teeth
-- (xem) arm
-!to cast something in someone's teeth
-- (xem) cast
-!to escape by (with) the skin of one's teeth
-- may mà thoát, suýt nữa thì nguy
-!to fight tooth and nail
-- chiến đấu ác liệt, đánh nhau ác liệt
-!to have a sweet tooth
-- (xem) sweet
-!in the teeth of
-- đối lập với, chống lại; bất chấp, bất cần
-=in the tooth of orders+ bất chấp các lệnh đã ban ra
-=in the tooth of the wind+ ngược gió
-!to set someone's teeth on edge
-- (xem) edge
-!to show one's teeth
-- nhe răng; tỏ vẻ hăm doạ
-*  ngoại động từ
-- lắp răng vào
-- giũa cho có răng
-*  nội động từ
-- ăn khớp nhau (bánh xe có răng)
+overseas
+	
+*  tính từ & phó từ
+- ngoài nước, hải ngoại
 @Chuyên ngành kinh tế
--răng
+-hải ngoại
+-ngoại quốc
+-nước ngoài
 @Chuyên ngành kỹ thuật
--bộ răng
--răng
-@Lĩnh vực: cơ khí & công trình
--bộ răng (của bánh răng)
-@Lĩnh vực: ô tô
--răng (bánh xe)
+-ngoài biển khơi
+

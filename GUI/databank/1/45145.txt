@@ -1,26 +1,6 @@
-quench	@quench /kwentʃ/
-*  ngoại động từ
-- (thơ ca),  (văn học) tắt, dập tắt (lửa, ánh sáng...)
-- làm hết (khát)
-=to quench one's thirst+ làm hết khát
-- nhúng (kim loại nóng đỏ) vào nước lạnh
-- làm nguội lạnh; nén
-=to quench someone's enthusiasm+ làm nguội lạnh nhiệt tình của ai, làm nhụt nhiệt tình của ai
-=to quench one's desire+ nén dục vọng
-- (từ lóng) bắt im, làm câm miệng
-!to quench smoking flax
-- (nghĩa bóng) chặn đứng một sự phát triển đang có hứa hẹn
-@Chuyên ngành kỹ thuật
--dập
--dập tắt
--dập tắt tia lửa
--làm ngạt
--làm nguội
--làm tắt
--nguội
--nước tôi
--sự dập tắt
-@Lĩnh vực: điện lạnh
--làm lạnh đột biến
-@Lĩnh vực: ô tô
--trụi
+includible
+	
+*  tính từ
+- có thể bao gồm
+- có thể tính đến, có thể kể cả
+

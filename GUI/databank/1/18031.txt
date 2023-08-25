@@ -1,4 +1,14 @@
-emplace	
-@emplace /im'pleis/
-*  ngoại động từ
-- (quân sự) đặt (súng)
+visitor
+	
+*  danh từ
+- khách, người đến thăm
+=visitors' book
++ sổ (ghi tên, địa chỉ của) khách
+- người thanh tra, người kiểm tra (trường học...)
+@Chuyên ngành kinh tế
+-khách viếng
+-người đến tham quan
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-khách thăm
+

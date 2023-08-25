@@ -1,8 +1,7 @@
-astigmatic	
-@astigmatic /,æstig'mætik/
+biquadratic
+	
 *  tính từ
-- (y học) loạn thị
-- (vật lý) Astimatic
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--loạn thị
+- (toán học) trùng phương
+=biquadratic equation
++ phương trình trùng phương
+

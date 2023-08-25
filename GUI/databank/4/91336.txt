@@ -1,0 +1,3 @@
+bochs
+An incredibly complex program that emulates an x86 (Pentium II) processor architecture computer. Useful for running software if your computer does not support it such as Windows 98 programs in a virtual PC running in Windows XP, or trying out linux if you can figure it out.
+

@@ -1,15 +1,5 @@
-neighbour	@neighbour /'neibə/
-*  danh từ
-- người hàng xóm, người láng giềng, người ở bên cạnh; vật ở cạnh
-=next-door neighbour+ người láng giềng ở sát vách
-- người đồng loại
-=be kind to your neighbour+ nên tử tế với người đồng loại
-*  động từ (song (ạy) kh upon,  with)
-- ở gần, ở bên, ở cạnh
-=the wood neighbours upon the lake+ khu rừng ở ngay cạnh hồ
-@Chuyên ngành kỹ thuật
--bên cạnh
--giới hạn
--hàng xóm
-@Lĩnh vực: toán & tin
--đại lượng gần
+displeasing
+	
+*  tính từ
+- khó chịu, làm phật lòng, làm trái ý, làm bực mình, làm tức giận, làm bất mãn
+

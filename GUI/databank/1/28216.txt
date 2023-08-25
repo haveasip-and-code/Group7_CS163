@@ -1,4 +1,11 @@
-indole	
+quantic
+	
+- (đại số) dạng
+- binary q. dạng song biến
+- eubic q. dạng bậc ba
+- quartic q. dạng bậc bốn
+- quaternary q. dạng bốn biến số
+- ternary q. dạng ba biến số
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--một chất dẫn xuất của amino axit tryptophan bài tiết indole trong nước tiểu ở các bệnh nhân chậm phát triển trí tuệ
+-dạng
+

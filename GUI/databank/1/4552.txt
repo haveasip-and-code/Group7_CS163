@@ -1,13 +1,21 @@
-ballistic	
-@ballistic /bə'listik/
+influent
+	
+*  ngoại động từ
+- ảnh hưởng đến, có tác dụng đối với
+- thúc đẩy
+=to influent someone to do something
++ thúc đẩy ai làm gì
 *  tính từ
-- (quân sự) (thuộc) đạn đạo học, (thuộc) khoa đường đạn
+- chảy vào trong
+*  danh từ
+- nhánh (sông...)
 @Chuyên ngành kỹ thuật
--đạn đạo
--đạn đạo học
--đường đạn
--xung kích
-@Lĩnh vực: toán & tin
--xạ kích
-@Lĩnh vực: xây dựng
--xạ thuật
+-chảy vào trong
+-nhánh (sông)
+-nhánh sông
+-nước thải sông
+@Lĩnh vực: hóa học & vật liệu
+-chất chảy
+@Lĩnh vực: cơ khí & công trình
+-chỉ hạ lưu
+

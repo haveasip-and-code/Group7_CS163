@@ -1,36 +1,17 @@
-sand	@sand /sænd/
-*  danh từ
-- cát
-- (số nhiều) bãi cát, lớp cát (ở dưới đáy); (từ Mỹ,nghĩa Mỹ) bờ biển
-- (thông tục) tính kiên định; sức chịu đựng; lòng can đảm
-- màu cát
-!numberless as the sand(s)
-- vô số, hằng hà sa số
-!the sands are running out
-- sắp đến lúc tận số
-*  ngoại động từ
-- đổ cát, phủ cát, rải cát
-- trộn cát (vào đường, vào len) để gian lận
-- đánh bóng bằng cát
-@Chuyên ngành kinh tế
--rắc đường cát
+feral
+	
+*  tính từ
+- hoang dã
+- hoang vu, không cày cấy
+- cục súc; hung d
 @Chuyên ngành kỹ thuật
--bãi cát
--chà
--dải cát
--đánh bằng giấy nhám
--mài bằng cát
--phủ cát
--sự lấy mẫu
-@Lĩnh vực: y học
--cát
-@Lĩnh vực: toán & tin
--cọ bằng cát
--đổ cát
--trộn cát
-@Lĩnh vực: xây dựng
--đánh bóng (giấy ráp)
--lấp cát
--màu cát
 @Lĩnh vực: cơ khí & công trình
--hỗn hợp làm khuôn
+-hoang dã
+-hoang vu
+-không cầy cấy
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-hoang dã
+-hoang vu
+-không cầy cấy
+

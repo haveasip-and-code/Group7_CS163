@@ -1,2 +1,15 @@
-lowlight	@Chuyên ngành kỹ thuật
--sự phản quang
+algebraic
+	
+*  tính từ
+- đại số
+=algebraic equation
++ phương trình đại số
+=algebraic expression
++ biểu thức đại số
+=algebraic function
++ hàm đại số
+@Chuyên ngành kỹ thuật
+-đại số
+@Lĩnh vực: toán & tin
+-thuộc đại số
+

@@ -1,9 +1,14 @@
-percent	@percent
-- phần trăm
-@Chuyên ngành kinh tế
--phần trăm
--phần trăm (ký hiệu : %)
+lexicon
+	
+*  danh từ
+- từ điển (Hy
+-lạp,  A
+-rập)
+- thuật ngữ; từ vựng
 @Chuyên ngành kỹ thuật
--phần trăm
-@Lĩnh vực: toán & tin
--phần trăm (%)
+-từ điển
+-từ vựng
+@Chuyên ngành kỹ thuật
+-từ điển
+-từ vựng
+

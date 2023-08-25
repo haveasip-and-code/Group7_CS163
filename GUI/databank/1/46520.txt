@@ -1,4 +1,11 @@
-reinject	@reinject
-* ngoại động từ
-- lại tiêm (thuốc)
-- lại rót vào
+invariable
+	
+*  tính từ
+- không thay đổi, cố định
+- (toán học) không đổi
+*  danh từ
+- cái không thay đổi, cái cố định
+@Chuyên ngành kỹ thuật
+-bất biến
+-không đổi
+

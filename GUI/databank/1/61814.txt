@@ -1,8 +1,34 @@
-villain	@villain /'vilən/
+churn
+	
 *  danh từ
-- côn đồ; kẻ hung ác
--(đùa cợt) thằng bé tinh quái; thằng quỷ sứ con
-- (từ cổ,nghĩa cổ) người quê mùa thô kệch
-- (sử học) (như) villein
+- thùng đánh kem (để làm bơ)
+- thùng đựng sữa
+*  ngoại động từ
+- đánh (sữa để lấy bơ)
+- khuấy tung lên
+=the ship's propellers churned the waves to foam
++ cánh quạt tàu thuỷ đánh tung sóng thành bọt
+=the ground was churned up by heavy boombs
++ khoảng đất bị bom đánh tung lên, khoảng đất bị bom cày nát ra
+*  nội động từ
+- đánh sữa (lấy bơ)
+- nổi sóng (biển...)
 @Chuyên ngành kinh tế
--nông nô
+-đánh
+-khuấy
+-máy ép dầu
+-máy làm bơ
+-thùng đựng kem
+-thùng đựng sữa
+@Chuyên ngành kỹ thuật
+-khuấy
+-ngập dầu
+@Lĩnh vực: thực phẩm
+-đánh kem
+-nhào nhuyễn bơ
+@Lĩnh vực: cơ khí & công trình
+-khuấy (sữa)
+-máy đánh sữa
+-máy khuấy (đảo)
+-thùng khuấy (đảo)
+

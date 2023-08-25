@@ -1,5 +1,27 @@
-anatto	
-@anatto /ə'nætə/ (anatta) /ə'nætou/
-*  danh từ
-- màu cá vàng
-- thuốc nhuộm màu cá vàng (để nhuộm phó mát)
+stacker
+	
+* danh từ
+- máy xếp chồng
+- bag stacker
+- máy xếp chồng bao tải
+- xe tải có máy xếp đống
+- bộ tiếp nhận thẻ
+= input stacker
++bộ xếp bìa đưa vào
+= output stacker
++bộ xếp bìa đưa ra
+@Chuyên ngành kinh tế
+-băng chuyền xếp đống di động
+-máy xếp đống
+@Chuyên ngành kỹ thuật
+-máy nâng xếp
+-máy xếp chồng
+-thợ xây
+@Lĩnh vực: toán & tin
+-bộ xếp chồng
+@Lĩnh vực: xây dựng
+-hộc chứa phiếu
+-máy xếp đống
+-thợ đặt
+-thợ lát
+

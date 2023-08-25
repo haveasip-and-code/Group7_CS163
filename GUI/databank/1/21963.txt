@@ -1,6 +1,16 @@
-foreword	
-@foreword /'fɔ:wə:d/
-*  danh từ
-- lời tựa; lời nói đầu
+raster
+	
+- mành
 @Chuyên ngành kỹ thuật
--lời nói đầu
+-bộ quét
+-mành
+-mành (quét)
+@Lĩnh vực: xây dựng
+-khung ánh sáng
+-mặt ảnh
+@Lĩnh vực: điện
+-khung quét màn hình
+@Lĩnh vực: toán & tin
+-kiểu mành
+-raster
+

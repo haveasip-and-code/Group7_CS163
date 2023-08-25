@@ -1,18 +1,21 @@
-accelerate	
-@accelerate /æk'seləreit/
-*  ngoại động từ
-- làm nhanh thêm; làm chóng đến; thúc mau, giục gấp
-- rảo (bước)=to accelerate the pace
-+ bước mau hơn, rảo bước
-*  nội động từ
-- tăng nhanh hơn; mau hơn, bước mau hơn, rảo bước
-- gia tốc
+schematic
+	
+*  tính từ
+- (thuộc) lược đồ, (thuộc) giản đồ, (thuộc) sơ đồ
+- giản lược, sơ lược
 @Chuyên ngành kỹ thuật
--gia tăng
--gia tốc
--làm nhanh
-@Lĩnh vực: hóa học & vật liệu
--chất làm nhanh hơn
+-biểu đồ
+-lược đồ
+-phác họa
+-sơ đồ
+-sơ đồ mạch
+@Lĩnh vực: toán & tin
+-dưới dạng biểu đồ
+-dưới dạng giản đồ
+-giảm lược
+-phác họa, giản ước
+@Lĩnh vực: điện lạnh
+-sơ lược
 @Lĩnh vực: xây dựng
--làm mau thêm
--tăng nhanh bội phần
+-thuộc sơ đồ
+

@@ -1,29 +1,4 @@
-listing	@listing /'listiɳ/
-*  danh từ
-- sự lập danh sách, sự ghi vào danh sách
-- danh sách
-@Chuyên ngành kinh tế
--việc ghi mục lục
--việc ghi vào giá biểu
-@Chuyên ngành kỹ thuật
--bản in
--bản kê
--danh sách
--sự liệt kê
-@Lĩnh vực: xây dựng
--gỗ giác
--sự cưa mép
-@Lĩnh vực: toán & tin
--lập bản kê
--lập danh sách
-@Chuyên ngành kỹ thuật
--bản in
--bản kê
--danh sách
--sự liệt kê
-@Lĩnh vực: xây dựng
--gỗ giác
--sự cưa mép
-@Lĩnh vực: toán & tin
--lập bản kê
--lập danh sách
+octoploid
+	
+- Cách viết khác : octaploid
+
