@@ -1,0 +1,3 @@
+SQL injection
+A web [hacking] technique which invloves submitting information to a web script which uses [SQL] databases (for instance a username/password checking script) which modifies the code of the script to gain unauthorized access to anything from databases to [server] commands.
+

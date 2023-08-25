@@ -1,0 +1,3 @@
+hmi
+Human Machine Interface. An industrial automation term describing a graphical interface into the process. Usually a PC application that uses tags from a PLC or DCS. At one time this was called MMI (Man Machine Interface) until engineering geeks became politically correct.
+

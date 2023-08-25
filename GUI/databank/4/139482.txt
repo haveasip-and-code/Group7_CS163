@@ -1,0 +1,3 @@
+Enchantment
+An Enchantment is a [spell], mostly used in fantasy games that follow the concept of spells. ; It's a 'positive' spell targeted on friendly targets. When these spells are cast they mostly have a 'longer' effect on the target. ; (eg. an invisible shield that lasts for 15 secondes and decreases incoming damage by 10) ; Of course these Enchantments can vary in much ways and types.
+

@@ -1,0 +1,3 @@
+Render
+In 3D Computer Graphics, creating an image (usually bitmap/pixel based) from a 3D virtual construction (a model) by calculating the way lights and other factors will affect the model in question.
+

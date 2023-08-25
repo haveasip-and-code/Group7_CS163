@@ -1,0 +1,3 @@
+state u
+generic reference to any state university
+

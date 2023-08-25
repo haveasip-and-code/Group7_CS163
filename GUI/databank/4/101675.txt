@@ -1,0 +1,3 @@
+WHP
+Weapon Hit Points, used in Dark Cloud, a fairly popular PS2 game, to represent the current weapons durability.
+

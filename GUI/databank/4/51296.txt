@@ -1,0 +1,3 @@
+CNC
+Computer Numeical Control: An automated method of controlling motion that is commonly applied to machines which perform industrial operations such as milling, turning, cutting, etc. These machines can typically be programmed using G-Code which is either hand-written or created by a software package like MasterCAM or EdgeCAM from a CAD file.
+

@@ -1,0 +1,3 @@
+chipmark
+A Web bookmarking system that allows users to have their bookmarks synchronized between multiple computers and browsers.
+

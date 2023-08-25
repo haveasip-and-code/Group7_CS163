@@ -1,0 +1,3 @@
+127.0.0.1
+The local IP address of your computer or Loopback address that can be used as practical on networking dumb user/n00bs. In situation when they mite looking for an IP address of a particular server, ; Instead you be nasty and tell them 'try connecting to 127.0.0.1'
+

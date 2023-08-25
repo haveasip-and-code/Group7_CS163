@@ -1,0 +1,3 @@
+webchat
+An IRC network, domain name webchat.org The network appears to be Windows-based, due to the IRC daemon version. The daemon is unfavorable, as it is less popular and has different controls.
+

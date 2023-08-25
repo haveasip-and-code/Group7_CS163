@@ -1,0 +1,3 @@
+Contiki
+And 8-bit OS (operating system) that was one of the first to accomplish connection to the internet, the web browser either being or being similar to [Lynx] . It is very similar to the Apple II computer from the 80's and 90's, but Contiki can be downloaded from various websites. The most common use for this OS is for web browsing(text) and for old-school gaming.
+

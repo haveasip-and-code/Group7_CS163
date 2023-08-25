@@ -1,0 +1,3 @@
+clientside
+Anything that occurs on the [client] in a client-server relationship. For example, [CSS] is clientside because it's used by the browser. [PHP] is [serverside] (the opposite of clientside) because it's used by the server.
+

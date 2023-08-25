@@ -1,0 +1,3 @@
+spoogleness
+The number someone or a bot adds to the channel limit (shortly) after someone has joined, for flood control purposes.
+

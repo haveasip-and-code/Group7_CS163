@@ -1,0 +1,3 @@
+120d
+120d = lol! ; lol! can be written as 101! ; Mathmatically 101(binary) is 5(decimal). Therefore 101!(binary) is 5!(decimal) ; The notation '!' is called factorial. 5! (factorial of 5) means 1*2*3*4*5 which is equal to 120. Since 120 is written in decimal form, a 'd' is added to the end of it to form 120d. ; That's why 120d means lol! ; (note: 120d has the exclamation mark included, 120d would mean lol!! with two exclaimation marks)
+

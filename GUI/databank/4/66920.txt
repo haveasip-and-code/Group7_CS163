@@ -1,0 +1,3 @@
+IDE
+IDE is an acronym for; ; 'Integrated Device Electronics' ; (true term) ; Common misconseption that IDE refers to the pin standard of ATA, (flat 39/80 pin cable). The term IDE only refers to the controller residing on the device itself, not the pin standard used. Therefore the term IDE cable is incorrect, and should be referred to as an ATA cable.
+

@@ -1,0 +1,3 @@
+plumb build
+A build of a Windows XP system from a ghost image. ; The image is out of date and lacks recent software installations. ; Ordinary things that worked only the day before suddently do not work due to lacking software and configuration.
+

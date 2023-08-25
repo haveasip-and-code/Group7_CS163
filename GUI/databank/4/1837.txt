@@ -1,0 +1,3 @@
+dll
+A dynamic link library that contains functions that other programs can execute freely. There are a few uses for dlls... ; 1. Sometimes programmers create dlls with a complex language so other programmers working with a easy language can make their program load the dll and enjoy some benefits of the more complex language. ; 2. Sometimes they are created so instead of having a huge main file the central program can be a small core and call it's main functions through dlls.
+

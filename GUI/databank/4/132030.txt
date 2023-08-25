@@ -1,0 +1,3 @@
+podswap
+A technique for 'swapping' an entire library of music with a friend, loved one, or perfectly random stranger to increase the number of songs you both have. Similar to a p2p network, minus the network, and all the nasty malware. Additionally, this technique lets you download massive amounts of music (or other files) at one time.
+

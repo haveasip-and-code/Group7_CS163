@@ -1,0 +1,3 @@
+/me
+Command in [IRC] that shows the author's name followed by any text after the command. Typically used to describe an action performed by the author in the third person. When read in an online forum, it is usually meant to be humorous.
+

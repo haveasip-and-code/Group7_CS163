@@ -1,0 +1,3 @@
+PSpice
+A simulation software package used to simulate electrical circuits. Widely used in the electrical and electronic engineering fields.
+

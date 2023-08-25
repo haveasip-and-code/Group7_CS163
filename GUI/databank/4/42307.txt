@@ -1,0 +1,3 @@
+dpi
+'Dots per inch' ; Used as a measurement on printer resolution.
+

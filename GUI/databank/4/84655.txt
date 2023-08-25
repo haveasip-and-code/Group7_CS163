@@ -1,0 +1,3 @@
+cue
+File that links to an [iso] ; Normally included with an iso
+

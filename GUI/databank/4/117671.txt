@@ -1,0 +1,3 @@
+digg
+A site created by former TechTV host, Kevin Rose, that uses a very unique feature to get all its tech news content, all the news is user submitted and promoted to the front page by people clicking the digg icon next to a story. When a story gets a certain amount of diggs it is promoted to the front page and everyone who visits the site will see it.
+

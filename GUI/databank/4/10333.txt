@@ -1,0 +1,3 @@
+LARP
+Acronym that stands for: ; Linux / Apache / Ruby / Postgres. ; or ; Linux / Apache / Rails / Postgres ; A new rapid development web framework stack. ; This is derived of the popular LAMP acronym that stands for: ; Linux / Apache / Mysql / (PHP Perl Python)
+

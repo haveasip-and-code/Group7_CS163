@@ -1,0 +1,3 @@
+C prompt
+Semi-erroneous name for a [command prompt] in [Windows]. ; Near as I can tell, it derives from [DOS], where one would generally [boot] from their primary hard disk (invariably called the [C Drive] and be presented with a prompt that looked like 'C:\>', indicating the drive they were on and their location in the directory tree. ; Considered fairly obsolete, even amongst old DOS hats.
+

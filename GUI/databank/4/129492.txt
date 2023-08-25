@@ -1,0 +1,3 @@
+liveboot
+When someone says that their computer is running off of a live boot CD, they are saying that the [operating system] that their computer is running is not installed on their hard drive, but on their temporary memory. This allows the user to try out an OS without having to lose all of the data that was on the hard drive.
+

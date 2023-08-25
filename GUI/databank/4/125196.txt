@@ -1,0 +1,3 @@
+hook nose
+A cheap stingy person
+

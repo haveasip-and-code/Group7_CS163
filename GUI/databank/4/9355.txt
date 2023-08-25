@@ -1,0 +1,3 @@
+PCI Slot
+Peripheral Component Interconnect Slot. ; An expansion slot on many motherborads used for inserting various cards to ; upgrade your hardware and/or support for features not inluded on the [mobo] itself.
+

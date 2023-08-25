@@ -1,0 +1,3 @@
+KDE
+a Windowing Mananger for Linux, made popular by people who don't know any better. Based QT, a port of Microsoft's god awful MFC classes for Windows to Linux. Clouded with nasties and released under GPL instead of LGPL like GTK. Those who know better who [Gnome].
+

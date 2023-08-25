@@ -1,0 +1,3 @@
+usb
+Universal Serial Bus. ; A sort of Plug and Play... a cord attached from the computer to a device (camera, Mp3, iPod, PocketPC, etc) gives it immediate connection to the computer. Usually powers the device.
+

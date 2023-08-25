@@ -1,0 +1,3 @@
+Person2 thwacks Person1
+When one person smacks another.
+

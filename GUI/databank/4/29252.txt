@@ -1,0 +1,3 @@
+battery
+(industrial) ; A device to store elecrical energy. consisting of plates and an outer body, with electrolyte inside. There are two main types. starting batteries, and lesure batteries. ; The first type offers a large starting current, to turn large starting motors on engines, requiring hundreds of amps. Found usualy in everyday motor vehicles. ; The latter is used on remote installations and for leasure activites, where current is used over a long period of time, but at a lower level than starting. the current levels expected can be from 10ma upto 20A depending on situation. ; batteries can be seriesed or connected in parralell to gain the correct voltage or current required.
+

@@ -1,0 +1,3 @@
+pharming
+Interfering with Domain Name Resolution so that a given URL (ie www.large-financial-institution.com) is redirected to an ipaddress that the user did not intend, usually done to get personal information from the user into the hands of a hacker.
+

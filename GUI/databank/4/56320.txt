@@ -1,0 +1,3 @@
+TDP
+Typical Dissipation Power ; applies to [CPU] or other ; electronic circuits.
+

@@ -1,0 +1,3 @@
+ePSXe
+The first quality playstation emulator, which can run many games absolutely beautifully and perfect speed, most quite well, and only a handful with serious issues. Because the graphics/sound/cd handling functions are module-based, its quite expandable/customizable. Freeware. ; Stands for 'Enhanced PlayStation Emulator.'
+

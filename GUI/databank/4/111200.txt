@@ -1,0 +1,3 @@
+lag storage
+Storage as a computer medium to hold/keep files and information. Lag as in 'to be slow'. LAG Storage is a virtual storage, as where a person stores infomation/files/data in lag. This lag is created where computer A sends the data to comptuer B...and then B sends it back to A, forming a continuous loop of transmitted data. While the data is being transferred in the loop, the data is technically being stored. One of the comptuers can section off the data and contain it for viewing, and when finished send it back along its way. Slower connections tend to yield more storage space in theory. Only compter A and B can piece back together the data to read because of the code, making it secure.
+

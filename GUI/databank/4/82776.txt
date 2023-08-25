@@ -1,0 +1,3 @@
+knockout
+a basketball game where one person shoots a free throw/three pointer and if he misses he must chase his ball and make any shot before the person behind him makes a shot.
+

@@ -1,0 +1,3 @@
+\n
+Escape sequence for the newline character in C and other programming languages (C++, Haskell, Java, Perl, Python...).
+

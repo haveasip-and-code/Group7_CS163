@@ -1,0 +1,3 @@
+function
+1. a tag that is programmer defined within a program to be used again later in the program. ; 2. syn. [subroutine]
+

@@ -1,0 +1,3 @@
+mum
+Monthly Usage Meter - ; A program that shows how much one has downloaded and how much download limit one has left. ; Usually includes total download limit (for your respective plan with your ISP), total downloaded within the billing period, how many MB/day can be used without going over the limit and how many days are remaining in the billing period. ; Most feature a bar which graphically shows the percentage of download allowance one has used to date, and a marker to show where one's bar should be to ensure sustainable downloading without going over the limit. ; If one's ISP charges for extra data, some MUMs calculate how much extra will be charged to date.
+

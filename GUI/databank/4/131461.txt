@@ -1,0 +1,3 @@
+cachondo
+An emulator is said to be in cachondo mode if it is capable of detecting instructions that write to memory.
+

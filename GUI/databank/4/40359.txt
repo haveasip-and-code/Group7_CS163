@@ -1,0 +1,3 @@
+argv
+An array of strings containing command line arguments. Usually seen next to argc, which is the number of command line arguments. The V in ArgV stands for vector. Don't let anyone tell you otherwise. ; The first element of this array , argv[0], is usually the name of the executable (although it does not have to be!!). argv[0] is usually used in printing the 'about' information. For example, 'cp -?' might return 'cp - used to copy files'. if for some reason the 'cp' program were renamed to 'copy', the command 'copy -?' might return 'copy - used to copy files' without having to modify the program.
+

@@ -1,0 +1,3 @@
+poetry
+A scramble of words that may or may not make sense to the reader, but always means something to someone.
+

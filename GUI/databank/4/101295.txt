@@ -1,0 +1,3 @@
+VTEC
+VTEC - Variable Valve timing and Lift Electronic Control and is an electronic and mechanical system in some Honda engines that allows the engine to have multiple camshafts. VTEC engines have an extra intake cam with its own rocker, which follows this cam. The profile on this cam keeps the intake valve open longer than the other cam profile. At low engine speeds, this rocker is not connected to any valves. At high engine speeds, a piston locks the extra rocker to the two rockers that control the two intake valves.
+

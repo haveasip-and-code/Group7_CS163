@@ -1,0 +1,3 @@
+GetMem
+GetMem() is the Turbo Pascal/[Delphi] equivalent to C/C++'s [malloc]() function; which is used for dynamic memory allocation in computer programming.
+

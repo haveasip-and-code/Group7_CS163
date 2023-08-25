@@ -1,0 +1,3 @@
+CLI
+Command Line Interface ; What all computers were before [GUI]s came about. CLI is an interface that only uses text. Some stupid people and groups (like micro$oft, apple and linspire) try to get rid of CLI taking a lot of power away from users. CLI is still used a lot on UNIX and UNIX-like [OS]s. ; If you want to see what's so great about CLI, use [GNU] [Bash] on a [GNU/Linux] system.
+

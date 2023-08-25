@@ -1,0 +1,3 @@
+grip
+An amount of time, in fives. For instance, 5 minutes, 5 hours, 5 days, 5 weeks, 5 months, 5 years.
+

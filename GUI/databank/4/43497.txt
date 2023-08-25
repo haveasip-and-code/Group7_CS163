@@ -1,0 +1,3 @@
+Pig Latin
+if word begins with a vowel then you at 'yay' at the end (ie out becomes outyay) ; if word begins witha consonant then you move the consonants to the end but only up to the first vowel, then you add 'ay' to the end(ie streight becomes eightstray)
+

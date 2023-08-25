@@ -1,0 +1,3 @@
+firmware
+noun. ; (a) Low-level software that is not usually changed. Firmware is now often stored in [EEPROM] or Flash memory, so it can be erased and updated. ; (b) Historically, [software] that was stored in read-only chips. Since it could not be changed without a hardware change, it was called firmware. ; (c) Commonly used to describe any software on a handheld device.
+

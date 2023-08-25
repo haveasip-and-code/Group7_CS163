@@ -1,0 +1,3 @@
+Identity Maturity Model
+Identity Maturity Model (IMM) - Defines the different levels of maturity that entities like goverments, financial institutions and enterprises have in managing digital Identity information. This can be for people, machines, applications or any other form of digital identity. These identities are use to carry out any type of a transaction with any type of a system.
+

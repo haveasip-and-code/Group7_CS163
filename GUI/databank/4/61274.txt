@@ -1,0 +1,3 @@
+sine-integral
+Si(x)=?(sin t)/t dt, a=0, b=x ; This function was constructed by using the Second Fundamental Theorem of Calculus (Construction Theorem for Antiderivatives). The function f(t)=(sin t)/t used to give mathematicians a lot of grief since its antiderivative is not an elementary function and that the limit as t approaches 0 of (sin t)/t is 0/0 (we do know that that limit is approximately 1 by using L'Hopital's rule). The Construction Theorem made calculating values of Si(x) to any degree of accuracy easy. This is useful as some scientists and engineers use it all the time in fields such as optics and magnetism.
+

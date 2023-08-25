@@ -1,0 +1,3 @@
+TCAS
+1: Traffic Collision Avoidance System. A computerised system in a modern airliner which utilizes radar, transponder data and in-system logic with the aim of providing collision avoidance if Air Traffic Controll fails to. ; 2: The alarm itself in the cockpit
+

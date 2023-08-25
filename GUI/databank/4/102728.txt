@@ -1,0 +1,3 @@
+feed
+A term used to describe a syndicated article/item on the web via RSS, XML, or ATOM technologies.
+

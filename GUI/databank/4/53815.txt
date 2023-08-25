@@ -1,0 +1,3 @@
+defaced
+The act in which a domain or site's home page directory contents have been removed and replaced with something else that wasn't intentional by the owner or sysop of the site. This is known as being defaced (hacked), and can be done by finding vulnerabilities on the server (IIS) which hosts the site/domain. You can view a list of defaced sites by visiting the following link http://www.zone-h.org/en/defacements.
+

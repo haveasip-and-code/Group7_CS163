@@ -1,0 +1,3 @@
+superscalar processor
+A form of [parallel processing] using a single computer [processor] containing multiple [pipeline]s. [Intel]'s [80486] and [Pentium] processors were of this type. ; Also called [superscalar architecture].
+

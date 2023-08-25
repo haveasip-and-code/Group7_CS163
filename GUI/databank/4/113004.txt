@@ -1,0 +1,3 @@
+IIS
+IIS stands for Internet Information Service. ; IIS is Microsoft's http and asp webserver. Said to be very unstable, I cannot prove that. Supports various Add-Ons such as PHP. ; IIS & Apache are 'rivals' ; IIS is used much less than Apache ; For Windows Only.
+

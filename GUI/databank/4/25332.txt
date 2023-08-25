@@ -1,0 +1,3 @@
+task manager
+when your computer crashes, press [CTRL]-[ALT]-[DEL]. ; This will bring up a program called the 'task manager', which freezes all forms of input possible, other than the keys, [CTRL], [ALT], and [DEL].
+

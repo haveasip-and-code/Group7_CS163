@@ -1,0 +1,3 @@
+covox
+Cheap 'sound card' or digital-to-analog converter usually made of series of resistors and 2 capacitors and is plugged into LPT (printer) port. This was very popular in early 90es as an alternative to Sound Blaster and Adlib cards. There are some advanced Covox builds that use more complex logic and sound better and even provide stereo output.
+

@@ -1,0 +1,3 @@
+microchip
+An intergrated circuit comprising of a EEprom, a Processor and Flash Memory. It is programmed by codeing in Assembily, C or even Basic, which is compiled into Hex and 'Burnt' onto the chip. Often caled a PIC (Programmable Intergrated Circuit) Available in a 12, 4,16 and 18 series. Very common example is the 16F84 (which is now obsalite) Competitors to ATMEL. A IC is not a Microchip. Similar to a Dyson is not a hoover.
+

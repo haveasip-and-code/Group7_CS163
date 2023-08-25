@@ -1,0 +1,3 @@
+SKU
+Stock Keeping Unit. Every uniquely identifiable item in an inventory is a SKU. Any variation on the product such as coming from a different vendor, having a different size or color, or having different packaging must be inventoried as a separate SKU to be inventoried as a different item. SKUs are each assigned a distinct number. This number is a unique identifier for the unit and is also referred to as a SKU.
+

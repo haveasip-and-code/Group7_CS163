@@ -1,0 +1,3 @@
+bug hunt
+When a programmer must go back through very large amounts of code(ussually that was written by an incompetent programer many moons ago) to find bugs in the software. Bug hunts are very tedious and time consuming ordeals. The phrase is taken from the movie Aliens.
+

@@ -1,0 +1,3 @@
+tags
+used to make ties between different words on [UD]. As of 9/21/2005, atleast five per each word are required.
+

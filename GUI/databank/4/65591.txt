@@ -1,0 +1,3 @@
+css
+Cross-Site Scripting. Though, it's usually abbreviated [XSS] rather than [CSS] to prevent confusion with [Cascading Style Sheets].
+

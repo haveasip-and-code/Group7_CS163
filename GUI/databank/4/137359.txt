@@ -1,0 +1,3 @@
+ip scrambler
+A program designed to make it more difficult to track a users surfing by bouncing requests off proxies.
+

@@ -1,0 +1,3 @@
+acey deucey
+A variation of Backgammon. When an ace and duece is rolled and each dice can be used, the player gets to roll a single dice again and use that value as having rolled a double.
+

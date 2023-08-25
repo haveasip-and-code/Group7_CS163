@@ -1,0 +1,3 @@
+.NET
+Technology that at a quick glance would appear to be heavily taken from Java. It boasts, however, the ability to compile one program from source written in multiple languages (the primary choices being C#, Visual Basic and C++). ; The fact that .NET is tightly bound to Windows somewhat lessens the practicality of .NET when compared to [Java]. ; Like Java has [Java Servlet Pages], .NET employs [ASP.NET] as it's server technology, which might be more attractive were it not tied down to both [Windows] and [IIS], which has a less than desirable security history, when compared to [Apache].
+

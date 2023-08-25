@@ -1,0 +1,3 @@
+TKM
+Trainer Maker Kit. ; In use with a memory finder (T-Search) you can create trainers. Although, if you use 'hotkeys' in the trainer, it will come up with a false posotive. It will say it has a keylogger, because it uses the 'h@tkey.dll' file. This file is often used by keyloggers (although this is not a keylogger).
+

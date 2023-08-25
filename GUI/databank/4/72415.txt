@@ -1,0 +1,3 @@
+errtime
+err=every ; time=time... ; everytime
+

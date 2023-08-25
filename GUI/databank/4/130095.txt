@@ -1,0 +1,3 @@
+Chankast
+Chankast is an emulator in very early stages, which came as a nice surprise for the emulation scene, as it was the first released Dreamcast emulator to run commercial games - with decent speeds on a 2Ghz machine. ; It requires the Dreamcast's BIOS to work.
+

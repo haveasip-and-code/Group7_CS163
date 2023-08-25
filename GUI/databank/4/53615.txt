@@ -1,0 +1,3 @@
+coords
+Coordinates. ; Used in many games to get the 'coords' of a person based on location.
+

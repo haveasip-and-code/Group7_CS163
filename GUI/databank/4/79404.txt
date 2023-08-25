@@ -1,0 +1,3 @@
+degradarity
+The amount that something has been degraded. A volumed total due to degradation.
+

@@ -1,0 +1,3 @@
+ctrl+enter
+When typing in a web address instead of typing www and .com you can just type in the web address and press ctrl+enter and it will automatically put the www. and .com in there for you.
+

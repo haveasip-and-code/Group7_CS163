@@ -1,0 +1,3 @@
+sonet
+Short for Synchronous Optical Network, a standard for connecting fiber-optic transmission systems. SONET was proposed by Bellcore in the middle 1980s and is now an ANSI standard
+

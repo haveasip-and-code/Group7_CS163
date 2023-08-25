@@ -1,0 +1,3 @@
+functor
+A functor, or function object, is a class in [C++] with the () operator overloaded. Functors are used a lot in the standard library to do custom comparisons. They're used in place of function pointers because sometimes you need to store a value or remember something (ie. put the functor into a special 'state' for whatever purpose), a functor can do this, a function pointer can't (without messing with global variables).
+

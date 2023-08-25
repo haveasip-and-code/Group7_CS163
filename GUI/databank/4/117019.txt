@@ -1,0 +1,3 @@
+kilobit
+(Comp Sci.) ; Approximately one thousand bits, or exactly 1 bit x 210 (1,024) bits. 240 kilobits per second means 240,000 bits of information are being transmitted over a network per second (240 Kbps). Recall that 8 bits comprise a byte. ; Bit = b ; Byte = B ; Examples: ; kBps (Kilobytes Per Second) ; kbps (Kilobits Per Second)
+

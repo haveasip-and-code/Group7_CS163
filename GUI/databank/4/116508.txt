@@ -1,0 +1,3 @@
+OSX
+An operating system made by Apple. ; It uses Unix(FreeBSD)as it's underpings. ; Mac OSX is known for it's interface called Aqua which is runned on Coacoa engine.
+

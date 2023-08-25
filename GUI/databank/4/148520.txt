@@ -1,0 +1,3 @@
+trial
+In graal terms - a temporary account that gets reset on every log off.
+

@@ -1,0 +1,3 @@
+IK
+Inverse kinematics, used extensively in character animation. ; IK is the opposite of FK, forward kinematics. In FK, you move and rotate bones in order to make movement. For an arm (eg), you rotate the shoulder, the arm, the forearm, then the hand, to maybe get your character to hold something. ; In IK, you'd start with the hand using an IK target, and move up from there if necessary.
+

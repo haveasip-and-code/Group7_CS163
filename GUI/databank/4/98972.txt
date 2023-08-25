@@ -1,0 +1,3 @@
+bump mapping
+Bump mapping is a kind of texture. The difference between bump mapping and regular texture mapping is that the reflections and lights on a bump mapped 3D model is different from a regular texture.
+

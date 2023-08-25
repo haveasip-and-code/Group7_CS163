@@ -1,0 +1,3 @@
+Primary Color
+1.The primary PIGMENT colors: ; Red ; Yellow ; Blue ; 2.The primary LIGHT colors: ; Red ; Green ; Blue (IE RGB)
+

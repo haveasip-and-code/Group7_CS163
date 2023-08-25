@@ -1,0 +1,3 @@
+PLP
+PLP is a Perl-esque embedded web scripting language used for writing custom HTML webpages. Unlike with other embedded Perl-esque languages, there is no need to learn a meta-syntax or object model: one can just use the normal Perl constructs. PLP runs under mod_perl for speeds comparable to those of PHP, but can also be run as a CGI script.
+

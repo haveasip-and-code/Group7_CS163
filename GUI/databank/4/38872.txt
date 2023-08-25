@@ -1,0 +1,3 @@
+Citrix
+Better known as 'Shitrix', this thin client system lags like you wouldn't believe, and loses your data and locks your session if your program crashes. Which it does. Frequently. Can't even run the same program twice. ; You often have to wait up to 10 seconds for keypresses to register when connected to the servers.
+

@@ -1,0 +1,3 @@
+power cycle
+Standard diagnostic technique. Involves removing power from a printer/workstation/server and reapplying it. This will usually clear most error conditions and allow one to resume normal operations. Also known as 'Buttoning it'
+

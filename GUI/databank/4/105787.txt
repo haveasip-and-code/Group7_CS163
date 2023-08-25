@@ -1,0 +1,3 @@
+troff
+TRON is a BASIC command, short for 'trace on'. The command is a debugging tool, to trace a program line by line to ferret out bugs and glitches. (It's opposite is TROFF, which turns the trace off.)
+

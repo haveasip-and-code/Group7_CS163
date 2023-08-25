@@ -1,0 +1,3 @@
+Spectrumize
+To break down an item into a [Synth Sphere] which contain the properties of the item that can then be added to a weapon if it has enough synthesis points.
+

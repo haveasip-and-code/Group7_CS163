@@ -1,0 +1,3 @@
+rootkit
+A rootkit is a set of software tools frequently used by a third party (usually an intruder) after gaining access to a computer system. These tools are intended to conceal running processes, files or system data, which helps an intruder maintain access to a system without the user's knowledge. Rootkits are known to exist for a variety of operating systems such as Linux, Solaris and versions of Microsoft Windows. ; The rootkit concept is the dominant controversial aspect of the 2005 Sony CD copy protection controversy, which has made the previously obscure concept of a rootkit much more widely known in the technology community, and to the general public
+

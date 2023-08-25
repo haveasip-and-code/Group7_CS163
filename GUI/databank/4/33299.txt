@@ -1,0 +1,3 @@
+vss
+VSS stands for 'Very Small Shellscript' technology and has it's basis in a plaque that once, way back when, could be bought at [Thinkgeek] that said 'Go away or I will replace you with a Very Small Shellscript'. Applicapble wherever ingenoius small Perl, Bash or SH scripts have been employed advantageusly.
+

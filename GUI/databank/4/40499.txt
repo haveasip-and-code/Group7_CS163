@@ -1,0 +1,3 @@
+286
+A 16-bit processor from the eighties. Usually ranging from 8-12mhz, and is x86 compliant. (Only compatable with previous models -obviously-)
+

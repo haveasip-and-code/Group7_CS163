@@ -1,0 +1,3 @@
+cell flow
+An imaginary form of measurement used by telephone companies trying to determine how much data is being passed across the network on [DSL]. There is absolutely no conversion from 'cells' to, say, kilobytes, and the amount of cell flow may vary depending on what kind of DSLAM your service is coming through. [Tech support] will generally use this as a be-all end-all for how good your connection is. For example, if there's a lot of cell flow they may think you're either downloading a lot of pr0n, you have a virus, or there's nothing wrong at all. If there's only a trickle of cell flow, they may think you have a [firewall], you're not at home browsing actively, there's a problem, or there's nothing wrong at all.
+

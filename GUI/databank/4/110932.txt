@@ -1,0 +1,3 @@
+printf
+The versatile generic text display found in many of today's upper level programming languages. In most compilers, this is the command to print a message in a DOS window. ; Also appearing in a printf statement are format specifiers, such as [%s] and %.2f, as well as the variables to be displayed.
+

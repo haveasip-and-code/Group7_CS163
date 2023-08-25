@@ -1,0 +1,3 @@
+SPARC
+adj. Acronym for 'Scalable Processor ARChitecture': The processor type designed by [Bill Joy] and used in [SUN Microsystems] computers running [Solaris].
+

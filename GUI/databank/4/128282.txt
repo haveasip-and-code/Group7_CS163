@@ -1,0 +1,3 @@
+aimfight
+A website that is primarily a [cyberspace] popularity contest. It measures the number of people in your own buddy list as well as your buddies' buddy lists out to three degrees. Essentially, a popularity contest. It is possible to have only one buddy, but if that buddy is one of the top five percent most connected individuals, if your buddy is in your own buddy list, you are automatically quite well-connected according to the website's ranking system.
+

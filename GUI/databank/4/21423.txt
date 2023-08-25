@@ -1,0 +1,3 @@
+EDGE
+EDGE (Enhanced Data [GSM] Environment), a faster version of the Global System for Mobile (GSM) wireless service, is designed to deliver data at rates up to 384 Kbps and enable the delivery of multimedia and other broadband applications to mobile phone and computer users. The EDGE standard is built on the existing GSM standard, using the same time-division multiple access ([TDMA]) frame structure and existing cell arrangements.
+

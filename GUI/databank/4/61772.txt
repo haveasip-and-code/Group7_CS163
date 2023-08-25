@@ -1,0 +1,3 @@
+SA-8
+SA-8a Gecko ; The SA-8a Gecko is a mobile self-propelled SAM system. The SA-8a Gecko was first introduced during a parade through Red Square on November 7th, 1975. The SA-8a Gecko is amphibious. It was based on the SA-N-4, a naval version used on many Soviet ships, like the Krivak-Class Cruiser. The SA-8 missile could travel for about thirteen kilometers. It weighed about one hundred ninety kilograms when ready to launch. The SA-8 missile uses IR tracking to find its targets. The Gecko itself carries four SA-8 missiles, and another 8 inside for reload purposes. ; Type: Mobile SAM ; Dimensions: length 3.2m; diameter 210mm; span 640mm ; Carries: ready 4; extra 8 ; Range: 13km ; Weight: 190kg ; Tracking: IR ; Tracker Range: 25km
+

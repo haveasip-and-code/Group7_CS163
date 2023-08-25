@@ -1,0 +1,3 @@
+dhtml
+Stands for Dynamic HTML, usually incorporates [JavaScript], [HTML], and [CSS] on the same page, thus making the HTML dynamic and dynamically styled. ; Most advanced sites on the web use all three of these, and thus use DHTML.
+

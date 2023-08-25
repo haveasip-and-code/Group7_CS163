@@ -1,0 +1,3 @@
+,,
+In programming, signifies 'or,' as in, do Function when Arg1 Arg2 is true. ; If either Arg1 OR Arg2 is true, the program will DO Function. ; In the below example, '123' will be displayed if Arg1 is equal to 1 OR if Arg2 is equal to 2.
+

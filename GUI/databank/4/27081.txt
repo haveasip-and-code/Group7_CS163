@@ -1,0 +1,3 @@
+APT
+Advanced Package Tool: ; The tool used for installing packages, uninstalling packages, searching for or listing packages, and satisfying dependencies when using the APT repository on the [Debian] distrobution of GNU/Linux. ; There are a variety of frontends for apt, both on the console and GUI.
+

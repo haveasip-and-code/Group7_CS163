@@ -1,0 +1,3 @@
+ackle
+[Access] [control]. ; Used to describe [password]s, [PIN]s, [biometrics], etc. ; From Accelerando, by Charles Stross.
+
