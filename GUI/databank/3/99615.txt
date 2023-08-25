@@ -1,0 +1,3 @@
+isobathytherm
+A line connecting the points on the surface of the earth where a certain temperature is found at the same depth.
+

@@ -1,0 +1,3 @@
+ohmmeter
+An instrument for indicating directly resistance in ohms.
+

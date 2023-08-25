@@ -1,0 +1,3 @@
+stack-guard
+A covering or protection, as a canvas, for a stack.
+

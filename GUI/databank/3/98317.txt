@@ -1,0 +1,3 @@
+altazimuth
+An instrument for taking azimuths and altitudes simultaneously.
+

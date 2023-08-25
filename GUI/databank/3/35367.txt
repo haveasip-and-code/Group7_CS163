@@ -1,0 +1,3 @@
+discriminant
+The eliminant of the n partial differentials of any homogenous function of n variables. See Eliminant.
+

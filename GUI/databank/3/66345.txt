@@ -1,0 +1,3 @@
+hygrograph
+An instrument for recording automatically the variations of the humidity of the atmosphere.
+

@@ -1,0 +1,3 @@
+shipowner
+Owner of a ship or ships.
+

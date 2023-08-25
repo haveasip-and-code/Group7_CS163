@@ -1,0 +1,3 @@
+attackable
+Capable of being attacked.
+

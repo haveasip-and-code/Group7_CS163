@@ -1,0 +1,3 @@
+semilens
+The half of a lens divided along a plane passing through its axis.
+

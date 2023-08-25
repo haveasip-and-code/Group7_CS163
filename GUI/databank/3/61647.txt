@@ -1,0 +1,3 @@
+chessman
+A piece used in the game of chess.
+

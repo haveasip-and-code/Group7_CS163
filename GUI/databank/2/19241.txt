@@ -1,0 +1,6 @@
+stand
+-racket
+* verb
+-to cost
+=vật ấy giá bao nhiêu+How much does it cost?
+

@@ -1,0 +1,3 @@
+crosse
+The implement with which the ball is thrown and caught in the game of lacrosse.
+

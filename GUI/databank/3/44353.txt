@@ -1,0 +1,3 @@
+rimer
+A rhymer; a versifier.\n\nA tool for shaping the rimes of a ladder.
+

@@ -1,0 +1,3 @@
+autocoherer
+A self-restoring coherer, as a microphonic detector.
+

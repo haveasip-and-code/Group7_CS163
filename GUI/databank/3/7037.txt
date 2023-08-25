@@ -1,0 +1,3 @@
+minimum thermometer
+, a thermometer for recording the lowest temperature since its last adjustment.
+

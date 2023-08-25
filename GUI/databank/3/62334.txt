@@ -1,0 +1,3 @@
+renderable
+Capable of being rendered.
+

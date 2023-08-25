@@ -1,0 +1,3 @@
+stalemate
+The position of the king when he can not move without being placed on check and there is no other piece which can be moved.\n\nTo subject to a stalemate; hence, to bring to a stand.
+

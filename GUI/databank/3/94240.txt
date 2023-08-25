@@ -1,0 +1,3 @@
+thermobarometer
+An instrument for determining altitudes by the boiling point of water.
+

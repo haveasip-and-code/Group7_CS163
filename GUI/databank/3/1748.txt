@@ -1,0 +1,3 @@
+bitstock
+A stock or handle for holding and rotating a bit; a brace.
+

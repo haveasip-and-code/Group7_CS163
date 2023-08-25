@@ -1,0 +1,3 @@
+chartometer
+An instrument for measuring charts or maps.
+
