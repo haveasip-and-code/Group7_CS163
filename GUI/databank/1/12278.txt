@@ -1,12 +1,10 @@
-coupled	
-@coupled
-- (Tech) bị ghép
-@Chuyên ngành kỹ thuật
--được ghép
--được liên kết
--được nối
--ghép cặp
--ghép đôi
--liên kết (được) ghép
-@Lĩnh vực: toán & tin
--được ghép thành đôi
+chivvy
+	
+*  danh từ
+- sự rượt bắt, sự đuổi bắt
+- trò chơi đuổi bắt (của trẻ con)
+*  ngoại động từ
+- rượt bắt, đuổi bắt
+*  nội động từ
+- chạy trốn
+

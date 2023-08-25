@@ -1,11 +1,26 @@
-erodibility	
-@erodibility
-- xem erode
-@Chuyên ngành kỹ thuật
--tính ăn mòn
-@Lĩnh vực: cơ khí & công trình
--tính xói mòn
-@Chuyên ngành kỹ thuật
--tính ăn mòn
-@Lĩnh vực: cơ khí & công trình
--tính xói mòn
+struggle
+	
+*  danh từ
+- sự đấu tranh; cuộc đấu tranh, cuộc chiến đấu
+=the struggle for independence
++ cuộc đấu tranh giành độc lập
+=the struggle for existence
++ cuộc đấu tranh sinh tồn
+*  nội động từ
+- đấu tranh, chống lại
+=to struggle against imperialism
++ đấu tranh chống chủ nghĩa đế quốc
+- vùng vẫy; vật lộn
+=the child struggled and kicked
++ đứa trẻ vùng vẫy và đạp
+=to struggle for one's living
++ vận lộn kiếm sống
+=to struggle with a mathematical problem
++ đánh vật với một bài toán
+- cố gắng, gắng sức
+=to struggle to express oneself
++ cố gắng diễn đạt, cố gắng phát biểu ý kiến (về một vấn đề gì)
+- di chuyển một cách khó khăn, len qua
+=to struggle through the crowd
++ len qua đám đông
+

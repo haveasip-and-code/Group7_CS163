@@ -1,7 +1,12 @@
-pollutant	@pollutant
-* danh từ
-- chất gây ô nhiễm (do xe cộ, động cơ  thải ra)
+diplex
+	
+* tính từ
+- cho phép tiếp nhận và truyền hai tín hiệu viễn thông theo cùng một hướng
 @Chuyên ngành kỹ thuật
--chất bẩn
-@Lĩnh vực: hóa học & vật liệu
--chất làm ô nhiễm
+-cặp đôi
+@Lĩnh vực: điện lạnh
+-hai kênh
+-song kênh
+-song lộ
+-song tín
+

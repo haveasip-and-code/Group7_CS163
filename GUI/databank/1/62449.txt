@@ -1,10 +1,18 @@
-washed	@washed
-* tính từ
-- được rửa sạch, được tắm sạch
-- được giặt sạch
-- (nghĩa bóng) xanh xao; mệt mỏi; kiệt sức
-- (quân sự) (thông tục) bị đánh tụt cấp bậc; bị mất danh hiệu sĩ quan
+atomization
+	
+*  danh từ
+- sự nguyên tử hoá
+- sự tán nhỏ
+- sự phun
+@Chuyên ngành kinh tế
+-sự tán nhỏ
 @Chuyên ngành kỹ thuật
--đã đãi
-@Lĩnh vực: hóa học & vật liệu
--đá rửa
+-phun
+-sự phun thành bụi
+-sự tán nhỏ
+@Lĩnh vực: điện lạnh
+-sự phun bụi nước
+-sự phun sương
+@Lĩnh vực: cơ khí & công trình
+-sự phun mù
+

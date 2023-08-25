@@ -1,27 +1,47 @@
-furrow	
-@furrow /'fʌrou/
+sail
+	
 *  danh từ
-- luống cày
-- nếp nhăn
-- đường rẽ nước (tàu thuỷ)
-- vết xe
-- đường xoi, đường rạch
+- buồm
+=to hoist a sail
++ kéo buồm lên
+- tàu, thuyền
+=a fleet of twenty sails
++ một đội tàu gồm 20 chiếc
+=sail ho!
++ tàu kia rồi!
+- bản hứng gió (ở cánh cối xay gió)
+- quạt gió (trên boong tàu, trên hầm mỏ)
+- chuyến đi bằng thuyền buồm
+!to make sail
+- (xem) make
+!to set sail
+- (xem) set
+!to take in sail
+- cuốn buồm lại
+- (nghĩa bóng) hạ thập yêu cầu, bớt tham vọng
+!to take the wind out of someone's sails
+- (xem) wind
+*  nội động từ
+- chạy bằng buồm, chạy bằng máy (tàu)
+- đi thuyền buồm, đi tàu (người); nhổ neo, xuống tàu (để ra đi)
+- bay lượn, liêng; đi lướt qua, trôi qua (chim, máy...)
+- đi một cách oai vệ ((thường) nói về đàn bà...)
 *  ngoại động từ
-- cày
-- làm nhãn=a forehead furrowed by old age
-+ trán nhăn vì tuổi già
-- rạch thành đường xoi
-@Chuyên ngành kinh tế
--rãnh (của thớt cối nghiền)
+- đi trên, chạy trên (biển...)
+=he had sailed the sea for many years
++ anh ta đã đi biển nhiều năm
+- điều khiển, lái (thuyền buồm)
+!to sail into
+- (thông tục) lao vào (công việc), bắt đầu một cách hăng hái
+- tấn công dữ dội; mắng nhiếc thậm tệ, chỉ trích thậm tệ
+!to sail close (near) the wind
+- (xem) wind
 @Chuyên ngành kỹ thuật
--đường đứt gãy
--luống
--luồng
--nếp
--nếp nhăn
--rãnh
+-buồm
+-tàu buồm
 @Lĩnh vực: xây dựng
--đường rẽ nước
--rãnh đặt ống
-@Lĩnh vực: cơ khí & công trình
--rãnh cày
+-đi bằng thuyền buồm
+@Lĩnh vực: giao thông & vận tải
+-đi biển
+-đi thuyền buồm
+

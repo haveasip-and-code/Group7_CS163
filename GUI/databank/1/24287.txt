@@ -1,25 +1,4 @@
-grill	
-@grill /gril/
-*  danh từ
-- (như) grille
-- vỉ (nướng chả)
-- món thịt nướng, chả
-- hiệu chả cá, quán chả nướng; phòng ăn thịt nướng (ở quán ăn) ((cũng) grill room)
-*  ngoại động từ
-- nướng, thiêu đốt (mặt trời)
-- (nghĩa bóng) hành hạ, tra tấn (bằng lửa, phơi nắng...)
-- (từ Mỹ,nghĩa Mỹ) tra hỏi=to grill a prisoner
-+ tra hỏi người tù
-*  nội động từ
-- bị nướng; bị thiêu đốt
-- (nghĩa bóng) bị hành hạ (tra tấn) (bằng lửa, phơi nắng...)
-@Chuyên ngành kinh tế
--cá rán
--nướng
--quán bán thịt rán tại chỗ
--thịt
--thịt nướng
-@Chuyên ngành kỹ thuật
--nướng
-@Lĩnh vực: xây dựng
--song cửa
+departures
+	
+-lượng khởi hành
+

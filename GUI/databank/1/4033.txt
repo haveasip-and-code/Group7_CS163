@@ -1,6 +1,5 @@
-authorizer	
-@authorizer
-- xem authorize
-@Chuyên ngành kỹ thuật
--người phê chuẩn
--người phê duyệt
+spectrophotometric
+	
+@Lĩnh vực: điện lạnh
+-phổ quang kế
+

@@ -1,3 +1,38 @@
-prognosticator	@prognosticator /prognosticator/
+heating
+	
 *  danh từ
-- thầy bói, thấy đoán triệu
+- sự đốt nóng, sự đun nóng; sự làm nóng
+- (kỹ thuật),  (vật lý) sự nung; sự nóng lên
+=electrice heating
++ sự nung điện
+=collisional heating
++ sự nóng lên do va chạm
+@Chuyên ngành kinh tế
+-sự đốt nóng
+-sự hung nóng
+-sự xử lý nhiệt
+@Chuyên ngành kỹ thuật
+-cấp nhiệt
+-lò sưởi
+-nung nóng
+-sự đốt nóng
+-sự đun
+-sự gia nhiệt
+-sự làm nóng
+-sự nóng lên
+-sự nung
+-sự nung nóng
+-sự phát nóng
+-sự sấy
+-sự sưởi
+-sự sưởi ấm
+-sự tăng nhiệt
+-sưởi
+-sưởi ấm
+-tăng nhiệt
+@Lĩnh vực: xây dựng
+-sự đun nóng
+-sự hâm nóng
+-sự nung trước
+-sưởi, nung (nóng)
+

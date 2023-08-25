@@ -1,15 +1,9 @@
-cryptography	
-@cryptography /krip'tɔgrəfi/
-*  danh từ
-- mật mã
-- cách viết mật mã
+hornbook
+	
+* danh từ
+- cuốn sách nhỏ dạy trẻ em tập đọc
+- luận đề thô sơ
 @Chuyên ngành kỹ thuật
--kỹ thuật mã hóa
--mật mã
--sự ghi mật mã
-@Lĩnh vực: toán & tin
--công nghệ mã hóa
--phép ghi mật mã
--sự viết mật mã
-@Lĩnh vực: điện tử & viễn thông
--ghi mật mã
+@Lĩnh vực: xây dựng
+-sách vỡ lòng
+

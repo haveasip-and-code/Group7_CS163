@@ -1,3 +1,10 @@
-nephrectomy	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thủ thuật cắt bỏ thận
+fallout
+	
+-sự rụng tóc
+@Chuyên ngành kỹ thuật
+-bụi phóng xạ
+-mưa phóng xạ
+@Chuyên ngành kỹ thuật
+-bụi phóng xạ
+-mưa phóng xạ
+

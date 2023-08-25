@@ -1,6 +1,17 @@
-niceness	@niceness /'naisnis/
+jurisdiction
+	
 *  danh từ
-- sự thú vị, sự dễ chịu
-- vẻ xinh, vẻ đáng yêu
-- tính tỉ mỉ, tính câu nệ, tính khảnh
-- sự sành sỏi, sự tế nhị, sự tinh vi
+- quyền lực pháp lý, quyền xử xét, quyền tài phán
+- quyền hạn, phạm vi quyền hạn; khu vực nằm trong phạm vi quyền hạn
+@Chuyên ngành kinh tế
+-phạm vi quyền hạn
+-quyền hạn
+-quyền lực pháp lý
+-quyền quản hạt
+-quyền tài phán
+-quyền tư pháp
+-quyền xét xử
+-thẩm quyển
+@Lĩnh vực: ttck
+-pháp quyền, phạm vi quyền hạn
+

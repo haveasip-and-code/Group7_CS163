@@ -1,33 +1,5 @@
-stain	@stain /stein/
-*  danh từ
-- sự biến màu; vết bẩn
-- vết nhơ, vết đen
-=without a stain on his character+ không một vết nhơ trong tê tuổi của anh ta;
-=to cast a stain on someone's honour+ làm nhơ danh ai
-- thuốc màu, phẩm; chất nhuộm màu (để soi kính hiển vi...)
-@Chuyên ngành kinh tế
--đốm
--làm bẩn
--màu thuốc nhuộm
--nhuộm màu
--vết
-@Chuyên ngành kỹ thuật
--bị gỉ
--chất màu
--gỉ đồng
--làm nhiễm mầu
--nhuộm màu
--sự nhiễm bẩn mầu
--sự vấy bẩn mầu
--vết bẩn
--vết đốm gỉ
+phosphonium
+	
 @Lĩnh vực: hóa học & vật liệu
--chất nhuộm màu
--làm biến màu
--nhuộm mầu
-@Lĩnh vực: xây dựng
--phẩm
--thuốc hãm màu
--vết nhơ
-@Lĩnh vực: cơ khí & công trình
--vết lõm nhỏ trên mặt (khuyết tật)
+-photphoni
+

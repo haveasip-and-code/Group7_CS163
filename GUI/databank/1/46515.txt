@@ -1,20 +1,12 @@
-reinforce	@reinforce /,ri:in'fɔ:s/
-*  ngoại động từ
-- tăng cường, củng cố; tăng viện; tăng thêm sức mạnh
-=to reinforce a fortress+ củng cố pháo đài
-=to reinforce troops at the from+ tăng viện cho mặt trận
-=to reinforce one's argument+ làm cho lý lẽ mạnh thêm lên
-*  danh từ
-- cái làm cho vững chắc thêm; đại củng cố
-- (quân sự) phần gia tăng nòng (súng đại bác)
+dimensionless
+	
+*  tính từ
+- không có chiều; không có kích thước
+- (toán học) không thứ nguyên
+=dimensionless parameter
++ tham biến không thứ nguyên
 @Chuyên ngành kỹ thuật
--củng cố
--đập
--đặt cốt thép
--gia cố
-@Lĩnh vực: xây dựng
--gia cường
--hóa bền
--tăng biến
+-không thứ nguyên
 @Lĩnh vực: toán & tin
--tăng cường, gia cố
+-không có chiều
+

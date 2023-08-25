@@ -1,12 +1,30 @@
-malfunction	@malfunction
-* danh từ
-- sự chạy, trục trặc
+abut
+	
+*  động từ
+- (
++ on,  upon) giáp giới với, tiếp giáp với
+- (
++ on,  against) dựa vào, nối đầu vào nhau
 @Chuyên ngành kỹ thuật
--lỗi
--sai hỏng
--sự cố
--sự hỏng hóc
--sự nhiễu
--sự thiếu
--sự trục trặc
--trục trặc
+-bộ định vị
+-cái chặn
+-chặn
+-chung biên
+-đế tựa
+-kề
+-ngõng mút
+-nối đối đầu
+-sự nối
+-sự tiếp
+-thanh chống
+-tiếp giáp
+-trụ chống
+-tựa
+@Lĩnh vực: xây dựng
+-cách mối đối đầu
+-đường tiếp giáp
+-nối tiếp đầu
+-tiếp giáp với
+@Lĩnh vực: toán & tin
+-sát
+

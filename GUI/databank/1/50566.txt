@@ -1,21 +1,5 @@
-shunter	@shunter
-* danh từ
-- người bẻ ghi (ở đường sắt trong mỏ)
-- đầu tàu để chuyển đường
-- bộ rẽ nhánh (đường dây điện thoại)
-@Chuyên ngành kinh tế
--người bẻ ghi (đường sắt)
--người kinh doanh chứng khoán
--người môi giới chứng khoán
--người mua bán chứng khoán
--người mua đi bán khoán
--người mua đi bán lại cổ phiếu
--xe tải đường ngắn
-@Chuyên ngành kỹ thuật
--người bẻ ghi
--mạch rẽ điện
--xe kéo
-@Lĩnh vực: ô tô
--đầu kéo (trên đường ray)
-@Lĩnh vực: giao thông & vận tải
--thiết bị dồn tàu
+circumspectly
+	
+* phó từ
+- dè dặt, thận trọng
+

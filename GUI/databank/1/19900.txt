@@ -1,11 +1,59 @@
-explicate	
-@explicate /'eksplikeit/
+dock
+	
+*  danh từ
+- (thực vật học) giống cây chút chít
+- khấu đuôi (ngựa...)
+- dây đuôi (dây yên buộc vào khâu đuôi ngựa)
 *  ngoại động từ
-- phát triển (một nguyên lý...)
-- (từ cổ,nghĩa cổ) giảng, giải nghĩa, giải thích
+- cắt ngắn (đuôi, tóc); cắt đuôi (súc vật); cắt tóc (người)
+- cắt bớt, giảm bớt, hạn chế bớt; tước mất
+=to dock wages
++ cắt bớt lương
+=to dock supplies
++ cắt bớt tiếp tế
+*  danh từ
+- vũng tàu đậu
+=wet dock
++ vũng tàu thông với biển
+=dry dock; graving dock
++ xưởng sửa chữa tàu, xưởng đóng tàu (ở vũng tàu đã rút cạn nước)
+=floating dock
++ xưởng chữa tàu nổi, xưởng đóng tàu nổi
+- ((thường) số nhiều) (từ Mỹ,nghĩa Mỹ) bến tàu
+- ((thường) số nhiều) xưởng chữa tàu, xưởng đóng tàu
+- (ngành đường sắt) ga cuối cùng (của một tuyến đường)
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) bệnh viện quân y
+!to be in dry dock
+- (hàng hải) đang được chữa
+- (thông tục) thất nghiệp, không có việc làm
+*  ngoại động từ
+- đưa (tàu) vào vũng tàu, đưa (tàu) vào bến
+- xây dựng vũng tàu, xây dựng bến tàu (ở nơi nào)
+*  nội động từ
+- vào vũng tàu, vào bến tàu
+*  danh từ
+- ghế (ngồi của) bị cáo (ở toà án)
+@Chuyên ngành kinh tế
+-cầu cảng
+-ga bốc dỡ hàng hóa
+-khấu đuôi
+-kho cảng
+-ụ tàu
 @Chuyên ngành kỹ thuật
--giải thích
--thuyết minh
-@Chuyên ngành kỹ thuật
--giải thích
--thuyết minh
+-âu thuyền
+-bến
+-bến tàu
+-cảng
+-kè
+-kè đá
+-lưu vực cảng
+@Lĩnh vực: hóa học & vật liệu
+-âu tàu
+@Lĩnh vực: xây dựng
+-cầu cảng
+-đưa vào ụ
+-ke hàng
+-vùng tàu đậu
+@Lĩnh vực: giao thông & vận tải
+-ụ tàu
+

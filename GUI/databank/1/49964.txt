@@ -1,36 +1,15 @@
-series	@series /'siəri:z/
-*  danh từ,  số nhiều không đổi
-- loạt, dãy, chuỗi, đợt
-=series of stamp+ một đợt phát hành tem
-=in series+ theo từng đợt nối tiếp nhau
-- (địa lý,địa chất) thống, hệ (địa tầng)
-- (hoá học) nhóm cùng gốc
-- (toán học) cấp số; chuỗi
-=arithmetical series+ cấp số cộng
-=geometrical series+ cấp số nhân
-=in series+ (điện học) mắc nối tiếp
-- (động vật học) nhóm
+aquatic
+	
+*  tính từ
+- sống ở nước, mọc ở nước
+- (thể dục,thể thao) chơi ở dưới nước (ví dụ bóng nước...)
 @Chuyên ngành kỹ thuật
--bộ
--dãy
--dãy kết cấu
--đoàn
--đợt
--được mắc nối tiếp
--loại
--loại kết cấu
--loạt
--nhóm
--nối tiếp
--tập
+@Lĩnh vực: xây dựng
+-mọc dưới nước
+-sống dưới nước
 @Lĩnh vực: cơ khí & công trình
--cách ghép nối tiếp
-@Lĩnh vực: toán & tin
--chuỗi, loạt
-@Lĩnh vực: điện
--dẫy
--dòng điện chính
--mắc nối tiếp (mạch điện)
--xêri
-@Lĩnh vực: ô tô
--nối tiếp (mạch điện)
+-mọc ở nước
+-sống ở nước
+@Lĩnh vực: y học
+-sống ở nước, thủy sinh
+

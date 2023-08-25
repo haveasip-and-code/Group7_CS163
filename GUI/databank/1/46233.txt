@@ -1,3 +1,16 @@
-reediness	@reediness
-* danh từ
-- tình trạng lạo xạo
+dialogue
+	
+*  danh từ
+- cuộc đối thoại
+- đoạn văn đối thoại; tác phẩm đối thoại
+@Chuyên ngành kỹ thuật
+-đối thoại
+-hội thoại
+-sự đối thoại
+-sự hội thoại
+-tương tác
+@Lĩnh vực: toán & tin
+-cuộc đối thoại
+-đoạn đối thoại
+-sự tơng tác
+

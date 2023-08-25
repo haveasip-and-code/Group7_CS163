@@ -1,30 +1,5 @@
-requirement	@requirement /ri'kwaiəmənt/
-*  danh từ
-- nhu cầu, sự đòi hỏi
-- điều kiện tất yếu, điều kiện cần thiết
-@Chuyên ngành kinh tế
--điều cần thiết
--điều đòi hỏi
--điều kiện tất yếu
--đòi hỏi
--luật lệ
--sự cần
--sự cần thiết
--sự đòi hỏi
--sự yêu cầu
--thuủ tục
--yêu cầu
-@Chuyên ngành kỹ thuật
--điều kiện
--đòi hỏi
--nhu cầu
--sự đòi hỏi
--sự yêu cầu
--thủ tục
--yêu cầu
-@Lĩnh vực: cơ khí & công trình
--điều kiện cần
-@Lĩnh vực: hóa học & vật liệu
--điều kiện tất yếu
-@Lĩnh vực: xây dựng
--khẩn cần
+otolithic
+	
+* tính từ
+- xem otolith, chỉ thuộc về
+

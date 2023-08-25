@@ -1,14 +1,5 @@
-retest	@Chuyên ngành kinh tế
--sự thử lại
-@Chuyên ngành kỹ thuật
--kiểm chứng lại
--kiểm tra lại
--sự kiểm tra lại
--sự thí nghiệm
--sự thử kiểm tra
--sự thử lại
--sự thử lặp lại
--thử lại
-@Lĩnh vực: hóa học & vật liệu
--phép thử lại
--thí nghiệm lại
+editable
+	
+@Lĩnh vực: xây dựng
+-thảo khảo
+

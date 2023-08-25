@@ -1,13 +1,10 @@
-exponent	
-@exponent /eks'pounənt/
+quantization
+	
 *  danh từ
-- người trình bày, người dẫn giải, người giải thích (một luận điểm...); điều trình bày, điều dẫn giải, điều giải thích
-- người biểu diễn (nhạc...)
-- người tiêu biểu, vật tiêu biểu
-- (toán học) số mũ
-@Chuyên ngành kinh tế
--số mũ
+- (vật lý) sự lượng tử hoá
+=space quantization
++ sự lượng tử hoá không gian
 @Chuyên ngành kỹ thuật
--số mũ
-@Chuyên ngành kỹ thuật
--số mũ
+-lượng tử hóa
+-sự lượng tử hóa
+

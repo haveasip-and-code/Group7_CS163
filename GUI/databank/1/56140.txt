@@ -1,12 +1,8 @@
-testimony	@testimony /'testiməni/
-*  danh từ
-- sự chứng nhận, sự nhận thực; lới chứng, lời khai
-=to bear testimony to+ nhận thực cho, chứng nhận cho
-=in testimony of+ để làm chứng cho
-- bằng chứng, chứng cớ
-=false testimony+ bằng chứng giả mạo
-@Chuyên ngành kinh tế
--khẩu chứng
--lời chứng
--lời cung khai
--sự chứng nhận
+oceanic
+	
+*  tính từ
+- (thuộc) đại dương, (thuộc) biển; như đại dương; như biển
+- (thuộc) châu Đại dương
+@Chuyên ngành kỹ thuật
+-đại dương
+

@@ -1,67 +1,8 @@
-cell	
-@cell /sel/
-*  danh từ
-- phòng nhỏ
-- xà lim=condemned cell
-+ xà lim giam những người bị kết án tử hình
-- lỗ tổ ong
-- (điện học) pin=dry cell
-+ pin khô
-- (sinh vật học) tế bào
-- (chính trị) chi bộ=communist party
-+ chi bộ đảng cộng sản
-- am (nhà nhỏ một gian của ẩn sĩ)
-- (thơ ca) túp lều tranh, căn nhà nhỏ
-- (thơ ca) nấm mồ
-@Chuyên ngành kinh tế
--buồng
--khoang
--tế bào
--thiết bị khuyếch tán
+nosebleed
+	
+* danh từ
+- sự chảy máu từ mũi ra; sự chảy máu cam
 @Chuyên ngành kỹ thuật
--ắcqui
--bình điện
--bình điện phân
--buồng
--cảm biến
--độ rỗng
--đơn nguyên
--hộp
--khe nứt
--khoang, ô nhỏ
--khối
--khu vực
--lỗ hổng
--lỗ tổ ong
--ngăn
--ngăn (chứa máy)
--máy tuyển nổi
--ô mạng
--ô nhớ
--phân tử
--phần tử
--phòng nhỏ
--tế bào
--tế bào quang điện
--vùng
--xà lim
--yếu tố
-@Lĩnh vực: điện lạnh
--bình (điện phân)
-@Lĩnh vực: xây dựng
--điện trì
--hốc ngăn
--ngăn hốc
-@Lĩnh vực: cơ khí & công trình
--hộc bình
--phần tử pin
--tế bào (quang điện)
-@Lĩnh vực: ô tô
--hộc bình điện
-@Lĩnh vực: toán & tin
--ngăn (máy tính)
--ô
-@Lĩnh vực: điện
--ô lưu giữ
--pin
--pin (acquy)
+@Lĩnh vực: y học
+-chảy máu mũi
+

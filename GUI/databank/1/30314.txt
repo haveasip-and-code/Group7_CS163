@@ -1,4 +1,19 @@
-jassid	
-@jassid
-* danh từ
-- bọ cánh giống
+turnout
+	
+-đường
+-lối rẽ
+-năng suất (của một máy)
+-năng suất (của một máy...)
+-sản lượng (của một nhà máy)
+-sản lượng (của một nhà máy...)
+@Chuyên ngành kỹ thuật
+-đường ống nhánh
+-đường rẽ
+-đường tránh
+-đường tránh tàu
+-ghi rẽ tàu
+-nhánh rẽ
+-mối nối
+@Lĩnh vực: giao thông & vận tải
+-điểm chuyển hướng đường
+

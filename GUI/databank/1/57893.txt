@@ -1,3 +1,15 @@
-triumviri	@triumviri /trai'ʌmvə:/
-*  danh từ,  số nhiều triumvirs,  triumviri
-- (sử học) tam hùng
+author
+	
+*  danh từ
+- tác giả
+= Ho Ngoc Duc is the author of this software
++Hồ Ngọc Đức là tác giả của phần mềm này
+- người tạo ra, người gây ra
+=author of evil
++ người gây ra các điều ác
+- (tôn giáo) đảng sáng tạo (Chúa)
+@Chuyên ngành kỹ thuật
+-người thực thi
+@Lĩnh vực: toán & tin
+-người cài đặt
+

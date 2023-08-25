@@ -1,20 +1,13 @@
-spalling	@spalling
-* danh từ
-- sự đập vỡ; phá vỡ; nứt vỡ
-= thermal spalling+sự nứt vỡ do nhiệt
+edged
+	
+*  tính từ
+- sắc
+- có lưỡi
+- có viền (áo...), có bờ, có gờ, có cạnh, có rìa, có lề
 @Chuyên ngành kỹ thuật
--chẻ
--sự đập vỡ
--sự đập vụn
--sự đẽo
--sự đục
--sự làm nứt vỡ
--sự nứt
--sự nứt vỡ
--sự tróc vảy
-@Lĩnh vực: ô tô
--bong bè mặt (bạc lót)
-@Lĩnh vực: xây dựng
--sự bạt
-@Lĩnh vực: cơ khí & công trình
--sự tróc (đá mài)
+-có gờ
+-có lề
+-sắc
+@Lĩnh vực: hóa học & vật liệu
+-có viền
+

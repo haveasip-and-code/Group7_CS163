@@ -1,5 +1,6 @@
-forth	
-@forth
-- về phía trước; từ nay về sau
-- and so f.vân vân
-- so far f. trong trừng mực ấy
+windowing
+	
+-sự tạo cửa sổ
+@Lĩnh vực: toán & tin
+-sự phân chia cửa sổ (màn hình máy tính)
+

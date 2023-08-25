@@ -1,5 +1,37 @@
-indefectible	
-@indefectible /,indi'fensəbl/
-*  tính từ
-- không thể có sai sót; hoàn toàn, không sai sót; không khuyết điểm
-- không thể hư hỏng, bền vững
+default
+	
+*  danh từ
+- sự thiếu, sự không có, sự không đủ
+=in default of...
++ ví thiếu... (cái gì)
+- (pháp lý) sự vắng mặt (không ra hầu toà)
+=to make default
++ vắng mặt
+=judgment by default
++ sự không trả nợ được, sự vỡ nợ; sự không trả nợ đúng kỳ hạn ((cũng) default in paying)
+- (thể dục,thể thao) sự bỏ cuộc
+=to lose the game by default
++ thua trận vì bỏ cuộc
+*  nội động từ
+- (pháp lý) không ra hầu kiện, vắng mặt (tại toà)
+- (pháp lý) không trả nợ được, vỡ nợ; không trả nợ đúng kỳ hạn
+- (thể dục,thể thao) bỏ cuộc
+*  ngoại động từ
+- (pháp lý) xử vắng mặt
+@Chuyên ngành kinh tế
+-không thi hành (trái vụ)
+-không thực hiện (nghĩa vụ)
+-không thực hiện nghĩa vụ
+-mất khả năng chi trả
+-sự sai hẹn
+-vi ước không trả nợ đúng kỳ hạn
+@Chuyên ngành kỹ thuật
+-dĩ nhiên
+-ngầm định
+-mặc định
+@Lĩnh vực: toán & tin
+-mặc nhiên
+-sự mặc nhiên
+-sự ngầm định
+-thuộc ngầm định
+

@@ -1,8 +1,16 @@
-interatomic	
-@interatomic
-* tính từ
-- tồn tại hoặc hoạt động giữa các nguyên tử
+kerb
+	
+*  danh từ
+- lề đường (thường lát đá)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thị trường chứng khoán chợ đen
 @Chuyên ngành kỹ thuật
--liên nguyên tử
-@Lĩnh vực: điện lạnh
--giữa các nguyên tử
+-đá vỉa đường
+-lề đường
+-vỉa đường
+-vỉa hè
+@Chuyên ngành kỹ thuật
+-đá vỉa đường
+-lề đường
+-vỉa đường
+-vỉa hè
+

@@ -1,26 +1,5 @@
-banking	
-@banking /'bæɳkiɳ/
-*  danh từ
-- công việc ngân hàng
-@Chuyên ngành kinh tế
--hoạt động ngân hàng
--nghiệp vụ kinh doanh ngân hàng
-@Chuyên ngành kỹ thuật
--lĩnh vực ngân hàng
--ngành ngân hàng
--sự đắp đập
--sự đắp đê
-@Lĩnh vực: cơ khí & công trình
--bờ đắp
--khối đất đắp
--sự đắp bờ
-@Lĩnh vực: toán & tin
--công việc ngân hàng
-@Lĩnh vực: hóa học & vật liệu
--hoạt động ngân hàng
-@Lĩnh vực: xây dựng
--sự đắp đe
-@Lĩnh vực: giao thông & vận tải
--sự đắp kè (đường)
--sự lượn (máy bay)
--sự nghiêng cánh
+seasonally
+	
+* phó từ
+- từng thời vụ; thay đổi theo mùa; xảy ra trong một mùa riêng biệt
+

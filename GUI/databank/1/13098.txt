@@ -1,11 +1,60 @@
-curbstone	
-@curbstone /'kə:bstoun/
+couple
+	
 *  danh từ
-- đá lát lề đường
+- đôi, cặp
+=a couple of girls
++ đôi bạn gái
+- đôi vợ chồng; cặp nam nữ (đã lấy nhau hoặc đã đính hôn); cặp nam nữ nhảy quốc tế
+=a married couple
++ đôi vợ chồng (đã cưới)
+=a courting couple
++ đôi vợ chồng chưa cưới, đôi trai giá đang tìm hiểu
+- dây xích cặp (buộc liền một cặp chó săn)
+- cặp chó săn
+- (cơ khí) ngẫu lực
+- (điện học) cặp
+=thermoelectric couple
++ cặp nhiệt điện
+!to hunt (go, run) in couples
+- không lúc nào rời nhau, lúc nào cũng cặp kè bên nhau
+*  ngoại động từ
+- buộc thành cặp, ghép thành cặp, kết đôi
+- nối hợp lại, ghép lại
+=to couple two railway carriages
++ nối hai toa xe lửa
+- cho cưới, cho lấy nhau
+- gắn liền, liên tưởng
+=to couple the name of Lenin with the October Revolution
++ gắn liền Le
+-nin với cuộc cách mạng tháng mười
+- (điện học) mắc, nối
+*  nội động từ
+- lấy nhau, cưới nhau (người)
+- giao cấu (loài vật)
 @Chuyên ngành kỹ thuật
--đá vỉa
--vỉa hè
-@Lĩnh vực: xây dựng
--đá bọc vỉa
--đá rìa đường
--đá viền
+-cặp
+-cặp nhiệt điện
+-đôi
+-ghép
+-ghép đôi
+-ghép đôi (hai trục)
+-ghép lại
+-kép
+-làm thành đôi
+-ngẫu lực
+-nhiệt ngẫu
+-nối
+-mắc
+-móc
+-móc vào
+-phản tác dụng
+@Lĩnh vực: điện
+-cặp (pin)
+@Lĩnh vực: điện lạnh
+-ghép mạch
+@Lĩnh vực: toán & tin
+-một cặp
+-một đôi
+@Lĩnh vực: cơ khí & công trình
+-tác dụng đối
+

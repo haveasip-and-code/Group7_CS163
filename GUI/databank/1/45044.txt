@@ -1,25 +1,16 @@
-qualification	@qualification /,kwɔlifi'keiʃn/
-*  danh từ
-- sự cho là; sự gọi là; sự định tính chất, sự định phẩm chất
-=the qualification of his policy as opportunist is unfair+ cho chính sách của ông ta là cơ hội thì không đúng
-- tư cách khả năng, điều kiện, tiêu chuẩn, trình độ chuyên môn (để đảm nhiệm một chức vụ...); (số nhiều) giấy tờ chứng nhận khả năng
-=the qualification for membership+ tiêu chuẩn gia nhập (một đoàn thể)
-=a doctor's qualifications+ những văn bằng chứng nhận của một bác sĩ
-- sự hạn chế; sự dè dặt
-=this statement is to be accepted with qualifications+ phải dè dặt đối với lời tuyên bố này
-@Chuyên ngành kinh tế
--bằng cấp
--bằng văn bản thẩm định
--đủ tư cách
--khả năng
--khả năng chuyên môn
--phẩm chất
--sự hạn chế
--tiêu chuẩn chuyên môn
--trình độ chuyên môn
--tư cách
--văn bằng
-@Chuyên ngành kỹ thuật
--sự xác định
-@Lĩnh vực: điện tử & viễn thông
--sự định tính
+forebear
+	
+*  danh từ,  (thường) số nhiều
++ (forebear) /fɔ:'beə/
+- tổ tiên, ông bà ông vải; các bậc tiền bối
+*  nội động từ forbore,  forborne
+- (
++ from) nhịn
+- đừng, không (nói, làm...)
+=when in doubt, forbear
++ chưa chắc thì đừng nói
+- chịu đựng, kiên nhẫn, chịu đựng
+*  ngoại động từ
+- nhịn
+- không dùng; không nhắc đến
+

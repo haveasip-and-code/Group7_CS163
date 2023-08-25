@@ -1,19 +1,8 @@
-littoral	@littoral /'litərəl/
-*  tính từ
-- (thuộc) bờ biển
-- ven biển
-*  danh từ
-- bờ biển
-- miền ven biển
-@Chuyên ngành kỹ thuật
--bờ biển
--duyên hải
--miền ven biển
-@Lĩnh vực: hóa học & vật liệu
--ven biển
-@Chuyên ngành kỹ thuật
--bờ biển
--duyên hải
--miền ven biển
-@Lĩnh vực: hóa học & vật liệu
--ven biển
+reave
+	
+*  ngoại động từ reft  /reft/
+- (từ cổ,nghĩa cổ),  (thơ ca) tàn phá
+- cướp bóc, cướp đoạt, cướp giật
+=trees reft of leaves
++ những cây trụi hết lá
+

@@ -1,7 +1,15 @@
-rural	@rural /'ruərəl/
+alluvial
+	
 *  tính từ
-- (thuộc) nông thôn, thôn dã
-=rural constituency+ khu bầu cử miền nông thôn
-=to live in rural seclusion+ sống biệt lập ở miền quê
+- (thuộc) bồi tích, (thuộc) đất bồi, (thuộc) phù sa
+=alluvial soil
++ đất phù sa, đất bồi
+*  danh từ
+- đất phù sa, đất bồi
 @Chuyên ngành kỹ thuật
--nông thôn
+-bồi đắp
+-bồi tích
+-đất bồi
+-phù sa
+-phù xa
+

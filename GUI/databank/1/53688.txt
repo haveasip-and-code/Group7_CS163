@@ -1,4 +1,6 @@
-stressed	@Chuyên ngành kỹ thuật
--căng
--chịu ứng suất
--dự ứng lực
+electroplated
+	
+-được mạ điện
+@Chuyên ngành kỹ thuật
+-được mạ điện
+

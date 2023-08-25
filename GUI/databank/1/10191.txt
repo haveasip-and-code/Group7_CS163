@@ -1,57 +1,24 @@
-coil	
-@coil /kɔil/
-*  danh từ
-- cuộn=a coil of rope
-+ cuộn thừng
-- vòng, cuộn (con rắn...)
-- mớ tóc quăn
-- (điện học) cuộn (dây)
-- (kỹ thuật) ống xoắn ruột gà
-- (từ cổ,nghĩa cổ),  (thơ ca) sự thăng trầm, sóng gió (của cuộc đời)
+approximate
+	
+*  tính từ
+- approximate to giống với, giống hệt với
+- xấp xỉ, gần đúng
+=approximate calculation
++ phép tính xấp xỉ
+=approximate value
++ giá trị xấp xỉ
+- rất gần nhau
 *  động từ
-- cuộn, quấn=the snake coiled up in the sun
-+ con rắn nằm cuộn tròn dưới ánh mặt trời=to coil oneself in bed
-+ nằm cuộn tròn trong giường, nằm co con tôm trong giường=the snake coiled [itself] round the branch
-+ con rắn quấn quanh cành cây
-- quanh co, uốn khúc, ngoằn ngoèo
+- gắn với; làm cho gắn với
+- xấp xỉ với, gần đúng với; làm cho xấp xỉ với, làm cho gần đúng với
 @Chuyên ngành kinh tế
--cuộn
--ống xoắn
--ống xoắn ruột gà
--quấn
+-gần
+-ước chừng
+-xấp xỉ
 @Chuyên ngành kỹ thuật
--bộ trao đổi nhiệt
--cuộn cảm
--giàn lạnh
--giàn ống
--ống dây
--ống ruột gà
--ống xoắn
--ống xoắn dẫn nhiệt
--ống xoắn gia nhiệt
--ống xoắn lạnh
--quấn (lò xo)
--quấn lại
--vòng ren
-@Lĩnh vực: cơ khí & công trình
--bộ biến điện (bôbin)
--cuộn ruột gà
--ống (xoắn ruột gà)
--ống xoắn ốc
--quấn ruột gà
+-gần đúng
+-làm cho gần với
+-xấp xỉ
 @Lĩnh vực: xây dựng
--cái lõi
--cuộn dây cao thế
--ống xoắn ruột gà
-@Lĩnh vực: điện lạnh
--cụm dàn ống
--cụm giàn ống
--dàn ống xoắn
-@Lĩnh vực: đo lường & điều khiển
--cuộn
-@Lĩnh vực: điện
--cuộn dây cảm điện
-@Lĩnh vực: ô tô
--cuộn dây kích từ
-@Lĩnh vực: y học
--cuộn, vòng xoắn
+-khoảng chừng
+

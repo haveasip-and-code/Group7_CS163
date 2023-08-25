@@ -1,7 +1,7 @@
-museum	@museum /mju:'ziəm/
-*  danh từ
-- nhà bảo tàng
-@Chuyên ngành kỹ thuật
+bedrock
+	
+-đá nền
 @Lĩnh vực: xây dựng
--nhà bảo tàng
--viện bảo tàng
+-nền đá cứng
+-tầng đá gốc
+

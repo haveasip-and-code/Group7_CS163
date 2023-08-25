@@ -1,12 +1,8 @@
-reprocess	@reprocess
-* ngoại động từ
-- xử lý lại; chế biến lại
-@Chuyên ngành kinh tế
--chế biến lại
--tái gia công
--tái xử lý
--xử lý lại
-@Chuyên ngành kỹ thuật
--tái sinh
-@Lĩnh vực: điện lạnh
--tái chế
+constitutive
+	
+*  tính từ
+- cấu thành, lập thành, thành lập tổ chức
+=the elements of the human body
++ những yếu tố cấu tạo thân thể con người
+- cơ bản chủ yếu
+

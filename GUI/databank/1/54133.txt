@@ -1,5 +1,9 @@
-subnetwork	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--mạng con
-@Lĩnh vực: toán & tin
--mạng con, mạng phụ
+materials
+	
+-đất
+-dữ kiện
+-dữ liệu
+-tài liệu
+-vật liệu
+-vật tư
+

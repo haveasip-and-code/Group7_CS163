@@ -1,11 +1,7 @@
-cured	
-@Chuyên ngành kinh tế
--được đóng hộp
--được làm khô
--được ướp muối
--sự tẩy trắng
-@Chuyên ngành kỹ thuật
--được lưu hóa
--được sấy
-@Lĩnh vực: cơ khí & công trình
--được xử lý
+subreption
+	
+*  danh từ
+- sự cướp đoạt
+- trò gian dối; thủ đoạn che giấu
+- sự bóp méo sự thật, sự xuyên tạc sự thật
+

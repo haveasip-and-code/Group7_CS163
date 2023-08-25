@@ -1,5 +1,5 @@
-occluded	@Chuyên ngành kỹ thuật
--được bít kín
-@Lĩnh vực: hóa học & vật liệu
--bị hấp lưu
--bị hút giữ
+conditionally
+	
+* phó từ
+- có điều kiện, tùy theo điều kiện
+

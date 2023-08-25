@@ -1,5 +1,13 @@
-circumfuse	
-@circumfuse /,sə:kəm'fju:z/
-*  ngoại động từ
-- làm lan ra, đổ ra xung quanh
-- bao quanh; làm ngập trong (ánh sáng...)
+vertices
+	
+*  danh từ,  số nhiều vertices
+- đỉnh, chỏm, chóp, ngọn
+=the vertex of an angle
++ đỉnh của một góc
+- (nghĩa bóng) đỉnh, cực điểm
+- (giải phẫu) đỉnh đầu
+- (thiên văn học) thiên đỉnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-các đỉnh
+

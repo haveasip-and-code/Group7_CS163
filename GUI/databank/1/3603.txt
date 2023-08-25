@@ -1,11 +1,6 @@
-assertion	
-@assertion /ə'sə:ʃn/
-*  danh từ
-- sự đòi (quyền lợi...)
-- sự xác nhận, sự khẳng định, sự quả quyết, sự quyết đoán
-- điều xác nhận, điều khẳng định, điều quyết đoán
-@Chuyên ngành kỹ thuật
--sự xác nhận
-@Lĩnh vực: toán & tin
--điều quyết toán
--sự khẳng định
+intercessory
+	
+*  tính từ
+- có tác dụng can thiệp giúp (ai), giùm
+- có nhiệm vụ cầu nguyện hộ
+

@@ -1,2 +1,4 @@
-pronuclear	@pronuclear
-- xem pronucleus
+operand
+	
+- toán hạng
+

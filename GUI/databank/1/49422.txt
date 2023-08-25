@@ -1,36 +1,5 @@
-search	@search /sə:tʃ/
-*  danh từ
-- sự nhìn để tìm, sự sờ để tìm; sự khám xét, sự lục soát
-=right of search+ (pháp lý) quyền khám tàu
-=search of a house+ sự khám nhà
-- sự điều tra, sự nghiên cứu
-!to be in search of something
-- đang đi tìm cái gì
-!to make a search for someone
-- đi tìm ai
-*  động từ
-- nhìn để tìm, sờ để tìm; khám xét, lục soát
-=to search the house for weapons+ khám nhà tìm vũ khí
-- dò, tham dò
-=to search men's hearts+ thăm dò lòng người
-=to search a wound+ dò một vết thương
-- điều tra
-- bắn xuyên vào tận ngách (hầm...)
-- (từ cổ,nghĩa cổ) tìm tòi, tìm cho ra
-!to search out
-- tìm tòi
-- tìm thấy
-!search me!
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) nào tôi có biết!, làm sao mà tôi biết được!
-@Chuyên ngành kỹ thuật
--nghiên cứu
--sự điều tra
--sự dò tìm
--sự khảo sát
--sự thăm dò
--sự tìm kiếm
--tra cứu
-@Lĩnh vực: điện tử & viễn thông
--dò tìm
-@Lĩnh vực: toán & tin
--tìm tòi
+bitchy
+	
+* tính từ
+- có ác ý
+

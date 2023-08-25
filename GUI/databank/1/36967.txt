@@ -1,4 +1,7 @@
-nonoverlapping	@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--không chồng chéo
--không phủ nhau
+grotto
+	
+*  danh từ,  số nhiều grottos,  grottoes
+- hang động
+@Chuyên ngành kỹ thuật
+-hang động
+

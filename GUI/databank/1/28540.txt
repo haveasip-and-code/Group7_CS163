@@ -1,10 +1,9 @@
-informational	
-@informational /,infə'meinʃənl/
-*  tính từ
-- (thuộc) sự truyền tin, (thuộc) sự thông tin
-- có tin tức, có tính chất tài liệu
+affine
+	
+- afin
 @Chuyên ngành kinh tế
--cung cấp tin tức
--cung cấp tư liệu
--thuộc sự thông tin
--tình báo
+-tinh luyện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-afin
+

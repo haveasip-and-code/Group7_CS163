@@ -1,36 +1,12 @@
-puddle	@puddle /'pʌdl/
+chyme
+	
 *  danh từ
-- vũng nước (mưa...)
-- (thông tục) việc rắc rối, việc rối beng
-- đất sét nhâo (để láng lòng kênh...)
-*  nội động từ
-- ((thường) + about) lội bùn, vầy bùn, lội trong vũng nước bẩn, vầy trong vũng nước bẩn
-- làm rối beng
-*  ngoại động từ
-- làm đục ngàu, làm ngàu bùn, làm sục bùn (nước...)
-- nhào (đất sét với cát) với nước (để láng lòng kênh...)
-- láng (lòng kênh) bằng đất sét nhào
-- (từ Mỹ,nghĩa Mỹ) cày ướt
-- (kỹ thuật) luyện putlinh (gang thành sắt)
+- (sinh vật học) dịch sữa, nhũ trấp
+@Chuyên ngành kinh tế
+-dịch sữa
 @Chuyên ngành kỹ thuật
--bê tông đất sét
--đầm
--đất sét dẻo
--đất sét nện
--dung dịch hàn
--khuấy trộn
--làm nhão / nhào nước
--lèn
--lội bùn
--nện
--nhào
--puđling
--vữa đất sét
--vũng nước
-@Lĩnh vực: hóa học & vật liệu
--khuấy luyện
-@Lĩnh vực: xây dựng
--nhào đất
--vẩy bùn
-@Lĩnh vực: cơ khí & công trình
--sự cày ướt
+@Lĩnh vực: thực phẩm
+-dịch sữa (dạ dày)
+@Lĩnh vực: y học
+-dưỡng trấp, dịch nuôi
+

@@ -1,20 +1,80 @@
-jug	
-@jug /dʤʌg/
+design
+	
 *  danh từ
-- cái bình (có tay cầm và vòi)
-- (từ lóng) nhà tù ((cũng) stone jug)
+- đề cương, bản phác thảo, phác hoạ, đồ án
+=the design of a machine
++ bản đồ án thiết kế một cái máy
+=the design of a book
++ đề cương một quyển sách
+- ý muốn, ý định, dự định, dự kiến, mục đích; ý đồ, mưu đồ
+=by (with) design
++ với ý định; với mục đích; cố ý để
+=whether by accident or design
++ vô tình hay hữu ý
+=with a design to
++ nhằm mục đích để
+=to have designs on (against) somebody
++ có mưu đồ ám hại ai
+- kế hoạch
+- cách sắp xếp, cách trình bày, cách trang trí
+=a beautiful design of flowers
++ cách cắm hoa đẹp mắt
+- kiểu, mẫu, loại, dạng
+=cars of laters design
++ xe ô tô kiểu mới nhất
+- khả năng sáng tạo (kiểu, cách trình bày...), tài nghĩ ra (mưu kế...); sự sáng tạo
 *  ngoại động từ
-- ((thường) động tính từ quá khứ) hầm (thỏ) trong nồi đất=jug ged hare
-+ thịt thỏ hầm trong nồi đất
-- (từ lóng) giam, bỏ tù
-*  danh từ
-- tiếng hót (của chim sơn ca...) ((cũng) jug)
+- phác hoạ, vẽ phác (tranh...), vẽ kiểu (quần áo, xe ô tô...), thiết kế, làm đồ án (nhà cửa), làm đề cương, phác thảo cách trình bày (sách, tranh ảnh nghệ thuật)
+- có ý định, định, dự kiến, trù tính; có y đồ, có mưu đồ
+=to design to do (doing) something
++ dự định làm việc gì
+=we did not design this result
++ chúng tôi không dự kiến kết quả thế này
+- chỉ định, để cho, dành cho
+=this little sword was not designed for real fighting
++ thanh gươm nhỏ bé này không phải là để chiến đấu thực sự
 *  nội động từ
-- hót (chim sơn ca...)
+- làm nghề vẽ kiểu, làm nghề xây dựng đồ án
 @Chuyên ngành kinh tế
--két sắt
--ngân hàng
+-bản thiết kế
+-bảng thiết kế
+-sự thiết kế (mẫu hàng)
+-thiết kế
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--bình có vòi
--bình nhỏ miệng
+-bản kế hoạch, thiết kế
+-bản phác họa
+-bản phác thảo
+-bản vẽ phác
+-cách trình bày
+-cấu kết
+-dạng
+-đề án
+-đề cương
+-đizain
+-đồ án
+-dự án
+-hình vẽ
+-kết cấu
+-kiểu
+-kiểu dáng
+-lập đề án
+-lập kế hoạch
+-mẫu bố trí
+-phác họa
+-phác thảo
+-phương án
+-sự phác họa
+-sự phác thỏa
+-sự thiết kế
+-sự tính toán
+-thiết kế
+-tính toán
+-vẽ phác
+@Lĩnh vực: điện
+-bản thiết kê
+@Lĩnh vực: ô tô
+-cách sắp xếp
+-sự sáng tạo
+@Lĩnh vực: cơ khí & công trình
+-kiểu dạng
+

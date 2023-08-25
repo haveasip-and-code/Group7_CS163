@@ -1,8 +1,9 @@
-ozonosphere	@ozonosphere
-* danh từ
-- tầng ozon; quyển ozon
-@Chuyên ngành kỹ thuật
--ôzôn quyển
--quyển ôzôn
-@Lĩnh vực: điện lạnh
--tầng ozon
+devoid
+	
+*  tính từ
+- không có, trống rỗng
+=a town devoid of inhabitant
++ thành phố không có người ở
+=a man devoid of cares
++ người không lo nghĩ, người vô tư lự
+

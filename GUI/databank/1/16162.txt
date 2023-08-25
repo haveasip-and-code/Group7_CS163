@@ -1,15 +1,5 @@
-distiller	
-@distiller /dis'tilə/
-*  danh từ
-- người cất (rượu)
-- máy cất
-@Chuyên ngành kinh tế
--dụng cụ chưng cất
--thiết bị chưng cất
-@Chuyên ngành kỹ thuật
--nồi cất
--nồi chưng cất
-@Lĩnh vực: điện lạnh
--máy cất
-@Lĩnh vực: xây dựng
--máy chưng cất
+bicaudal
+	
+@Lĩnh vực: y học
+-có hai đuôi
+

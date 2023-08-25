@@ -1,8 +1,8 @@
-pinhole	@Chuyên ngành kỹ thuật
--ảnh qua lỗ kim
--lỗ đóng chốt
--lỗ ghim
--lỗ ngắm
--vết lõm
-@Lĩnh vực: cơ khí & công trình
--lỗ đường kính nhỏ
+agglomerative
+	
+*  tính từ
+- làm tích tụ, làm chất đống
+- có sức tích tụ, có sức chất đống
+@Chuyên ngành kỹ thuật
+-kết tụ
+

@@ -1,15 +1,10 @@
-intrusion	
-@intrusion /in'tru:ʤn/
-*  danh từ
-- sự ấn bừa, sự tống ấn, sự đưa bừa; sự bị ấn bừa, sự bị đưa bừa
-- sự xâm phạm, sự xâm nhập
-- sự bắt người khác phải chịu đựng mình
-- (pháp lý) sự xâm phạm
-- sự xâm nhập, thế xâm nhập
-@Chuyên ngành kỹ thuật
--hiện tượng xâm nhập
--sự xâm nhập
-@Lĩnh vực: hóa học & vật liệu
--chất xâm nhập
-@Lĩnh vực: y học
--sự lún vào
+inflectional
+	
+*  tính từ
+- (thuộc) chỗ cong, (thuộc) góc cong
+- (toán học) uốn
+=inflexional asymptote
++ tiệm cận uốn
+- (âm nhạc) chuyển điệu
+- (ngôn ngữ học) (thuộc) biến tố
+

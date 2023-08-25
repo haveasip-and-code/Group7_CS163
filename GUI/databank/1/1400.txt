@@ -1,5 +1,17 @@
-albeit	
-@albeit /ɔ:l'bi:it/
-*  liên từ
-- (từ cổ,nghĩa cổ) mặc dù, dù, dẫu=he tried albeit without success
-+ anh ta vẫn cố gắng mặc dù không thành công
+spurious
+	
+*  tính từ
+- giả, giả mạo
+=spurious coin
++ đồng tiền giả
+=spurious eyes
++ (y học) mắt giả
+@Chuyên ngành kỹ thuật
+-giả
+-giả tạo
+-hỏng
+-sai
+-tạp
+@Lĩnh vực: điện tử & viễn thông
+-tạp nhiễu
+

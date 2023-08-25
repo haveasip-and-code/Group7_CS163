@@ -1,15 +1,4 @@
-overdraft	@overdraft /'ouvədrɑ:ft/
-*  danh từ
-- sự rút quá số tiền gửi (ngân hàng)
-@Chuyên ngành kinh tế
--chi bội
--chi trội
--kết số thiếu
--mức thấu chi
--sự rút quá số tiền gửi (ngân hàng)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khoản bội chi
--sự bơm quá mức
-@Lĩnh vực: cơ khí & công trình
--sự rút quá
+equivalently
+	
+- xem equivalent
+

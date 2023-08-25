@@ -1,41 +1,5 @@
-trench	@trench /trentʃ/
-*  danh từ
-- (nông nghiệp) rãnh, mương
-=a trench for draining water+ mương tháo nước
-- (quân sự) hào, hầm
-=communication trench+ hào giao thông
-*  ngoại động từ
-- (nông nghiệp) đào rãnh, đào mương
-=to trench a field for draining+ đào mương ở một đám ruộng để tháo nước
-- cày sâu
-=to trench a piece of ground+ cày sâu một đám đất
-- (kiến trúc) bào xoi, bào rãnh
-=to trench a board+ bào rãnh một tấm ván
-- (quân sự) đào hào vây quanh, đào hào bảo vệ (một địa điểm)
-!to trench along
-- (quân sự) tiến lên bằng đường hào
-!to trench upon
-- lấn, xâm lấn
-=to trench upon someone's land+ lấn đất của ai
-=to trench upon someone's time+ lấn mất thì giờ của ai, làm mất thì giờ của ai
-- gần như là, gần đến, xấp xỉ
-=his answer trenched upon insolence+ câu trả lời của hắn ta gần như là hỗn xược
-@Chuyên ngành kỹ thuật
--đào rãnh
--hầm
--hào
--hào biển sâu
--hố móng
--máng
--máng mương
--mương
--rãnh
--sự nổ mìn
+interpluvial
+	
 @Lĩnh vực: cơ khí & công trình
--chân khay chống thấm (nền dập)
--tường chống thấm
-@Lĩnh vực: điện
--khai mương
-@Lĩnh vực: xây dựng
--lỗ đào
--mương hẹp
+-giữa hai mùa mưa
+

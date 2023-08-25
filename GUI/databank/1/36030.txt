@@ -1,7 +1,8 @@
-mumps	@mumps /mʌmps/
-*  danh từ,  số nhiều dùng như số ít
-- (y học) bệnh quai bị
-- sự hờn dỗi
+clamper
+	
+- (Tech) cái kẹp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh quai bị
+-bộ khống chế
+@Lĩnh vực: điện
+-đèn cắt ngọn
+

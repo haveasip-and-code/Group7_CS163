@@ -1,8 +1,19 @@
-peptide	@peptide
+overlapping
+	
 * danh từ
-- (sinh (hoá học)) sự kết hợp của hai hay nhiều axit amin tạo thành chuỗi
-@Chuyên ngành kinh tế
--peptit
+- sự chồng
+- độ chập; độ trùng khớp (bánh răng)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--một phân tử gồm hai hay nhiều amino axit liên kết với nhau
+-phủ chờm
+-sự phủ nhau
+-tấm che
+-tấm lợp
+@Lĩnh vực: xây dựng
+-đường nảy mực
+-trần ngăn
+@Lĩnh vực: điện lạnh
+-sự chồng chéo
+@Lĩnh vực: toán & tin
+-sự gối lên nhau
+-sự lấn lên nhau
+

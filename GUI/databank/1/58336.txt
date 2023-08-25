@@ -1,13 +1,5 @@
-twinkling	@twinkling /'twiɳkliɳ/
-*  danh từ
-- sự lấp lánh
-=the twinkling of the stars+ sự lấp lánh của các vì sao
-- sự nhấy nháy; cái nháy mắt
-!in a twinkling
-!in the twinkling of an eye
-- trong nháy mắt
-*  tính từ
-- lấp lánh
-- nhấp nhánh; (nghĩa bóng) long lanh, lóng lánh
-@Chuyên ngành kỹ thuật
--sự nhấp nháy
+dockworker
+	
+* danh từ
+- xem docker
+

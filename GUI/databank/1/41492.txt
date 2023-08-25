@@ -1,8 +1,5 @@
-pidgin	@pidgin /'pidʤin/
-*  danh từ
-- pidgin English tiếng Anh "bồi"
-- (thông tục) việc riêng (của ai)
-=that's not my pidgin+ đó không phải là việc của tôi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tiếng bồi
+anaphoric
+	
+*  tính từ
+- (văn học) (thuộc) phép trùng lặp
+

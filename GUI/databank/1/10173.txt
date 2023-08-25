@@ -1,18 +1,14 @@
-coherent	
-@coherent /kou'hiərənt/
-*  tính từ
-- dính liền, cố kết
-- mạch lạc, chặt chẽ (văn chương, lý luận...)
+polling
+	
+* danh từ
+- việc bỏ phiếu
+- địa điểm bỏ phiếu, địa điểm bầu cử
 @Chuyên ngành kỹ thuật
--ăn khớp
--gắn
--kết dính
--kết hợp
--khớp
--liên kết
--nhất quán
--phù hợp
-@Lĩnh vực: điện
--đèn dẫn sóng
-@Lĩnh vực: xây dựng
--máy kiểm ba
+-sự gọi
+-sự hỏi vòng
+-sự kiểm tra vòng
+-sự mời gửi
+@Lĩnh vực: toán & tin
+-kiểm soát vòng
+-lần lượt hỏi
+

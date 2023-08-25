@@ -1,2 +1,13 @@
-persister	@persister
-- xem persist
+cuboid
+	
+*  tính từ
+- tựa hình khối
+*  danh từ
+- (toán học) Cuboit
+- (giải phẫu) xương hộp
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hình hộp phẳng
+-hình hộp thẳng
+-phỏng lập phương
+

@@ -1,12 +1,13 @@
-trendy	@trendy
-* tính từ
-- <thgt> hợp thời trang, rất mốt, chạy theo mốt
-- <thgt> thức thời
-* danh từ
-- người chạy theo mốt
-- <thgt> người rởm đời
-@Chuyên ngành kinh tế
--đúng mốt
--kiểu mới nhất
--thời thượng
--thời thượng, đúng mốt, kiểu mới nhất
+fresco
+	
+*  danh từ,  số nhiều frescos,  frescoes
+- lối vẽ trên tường
+- tranh nề, tranh tường
+*  nội động từ
+- vẽ tranh tường
+@Chuyên ngành kỹ thuật
+-tranh tường
+@Lĩnh vực: xây dựng
+-bích họa
+-Tranh tường kiểu Fresco
+

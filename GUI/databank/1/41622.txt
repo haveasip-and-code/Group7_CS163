@@ -1,8 +1,12 @@
-ping	@ping /piɳ/
+millisecond
+	
 *  danh từ
-- tiếng vèo (đạn bay...)
-*  nội động từ
-- bay vèo (đạn)
+- một phần nghìn giây
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phát ra tiếng ping
+-mili giây
+-ms
+@Lĩnh vực: xây dựng
+-milli giây
+@Lĩnh vực: điện lạnh
+-msec
+

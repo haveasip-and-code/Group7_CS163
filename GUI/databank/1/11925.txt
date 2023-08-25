@@ -1,6 +1,30 @@
-corkiness	
-@corkiness /'kɔ:kinis/
+calibration
+	
 *  danh từ
-- tính chất như bần
-- (thông tục) tính vui vẻ, tính hiếu động
-- (thông tục) tính nhẹ dạ, tính xốc nổi, tính tếu
+- sự định cỡ, sự xác định đường kính (nòng súng, ống...)
+- sự kiểm tra cỡ trước khi chia độ (ống đo nhiệt...)
+@Chuyên ngành kỹ thuật
+-điều chỉnh
+-định cỡ
+-hiệu chỉnh
+-sự chia độ
+-sự định cỡ
+-sự đối chiếu
+-sự hiệu chỉnh
+-sự hiệu chuẩn
+-sự khắc độ
+-sự kiểm định
+-sự kiểm nghiệm
+-sự lấy mẫu
+@Lĩnh vực: ô tô
+-cân chỉnh
+@Lĩnh vực: toán & tin
+-căn chỉnh
+-sự lấy chuẩn
+@Lĩnh vực: điện
+-sự chuẩn định
+-sự chuẩn hóa
+-sự kiểm chuẩn
+@Lĩnh vực: điện lạnh
+-sự so mẫu
+

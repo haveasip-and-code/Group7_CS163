@@ -1,14 +1,9 @@
-precept	@precept /'pri:sept/
-*  danh từ
-- châm ngôn
-- lời dạy, lời giáo huấn
-- mệnh lệnh, lệnh; (pháp lý) trát
-- lệnh tổ chức bầu cử
-- lệnh thu tiền, lệnh trả tiền (thuế...)
-- (tôn giáo) giới luật
-@Chuyên ngành kinh tế
--huấn lệnh
--lệnh
--lệnh thu tiền
--lệnh trả tiền
--quy tắc (kỹ thuật)
+openwork
+	
+* danh từ
+- hình (ở kim loại, đăng ten...) có những khoảng trống giữa các thanh hoặc sợi
+- Openwork lace
+- Đăng ten có lỗ thủng trang trí; đăng ten có giua trang trí
+= Openwork wrought iron
++Sắt rèn có những lỗ thủng
+

@@ -1,12 +1,15 @@
-dialysis	
-@dialysis /dai'ælisi:z/
-*  danh từ,  số nhiều dialyses
-- sự thẩm tách
-@Chuyên ngành kinh tế
--sự thẩm tách
+blender
+	
+-máy khuấy
+-máy trộn
 @Chuyên ngành kỹ thuật
--thẩm tách
-@Lĩnh vực: điện lạnh
--phép thẩm tách
-@Lĩnh vực: y học
--sự thẩm tách
+-bộ trộn
+-máy khuấy
+-máy trộn
+-thiết bị trộn
+@Lĩnh vực: hóa học & vật liệu
+-bộ pha trộn
+@Lĩnh vực: xây dựng
+-bơm trộn
+-vòi trộn (nước nóng, nước lạnh)
+

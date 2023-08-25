@@ -1,21 +1,11 @@
-multiplex	@multiplex
-- multiplex, sự dồn
-- Kết hợp hoặc chen các thông tin trong một kênh truyền thông
+mandril
+	
+*  danh từ
+- (kỹ thuật) trục tâm
+- lõi, ruột
+- (ngành mỏ) cuốc chim
 @Chuyên ngành kỹ thuật
--đa công
--đa hợp
--nhiều
--sự đa công
--sự đa hợp
--sự đa lộ
-@Lĩnh vực: toán & tin
--bội
--bội hình
--dồn kênh
--truyền đa công
-@Lĩnh vực: điện
--đa lộ
-@Lĩnh vực: điện tử & viễn thông
--đa truyền
-@Lĩnh vực: điện lạnh
--sự dồn kênh
+-cuốc chim
+-dao chuỗi ép
+-đầu nong
+

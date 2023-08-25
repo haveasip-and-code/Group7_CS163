@@ -1,18 +1,153 @@
-tame	@tame /teim/
-*  tính từ
-- đã thuần hoá, đã dạy thuần
-=a tame monkey+ một con khỉ đã dạy thuần
-- lành, dễ bảo, nhu mì
-=a very tame animal+ một con vật rất lành
-- đã trồng trọt (đất)
-- bị chế ngự
-- nhạt, vô vị, buồn tẻ
-=a tame basket-ball match+ một trận đấu bóng rổ buồn tẻ
-=a tame story+ một câu chuyện nhạt nhẽo
-*  ngoại động từ
-- dạy cho thuần, thuần hoá; làm cho không sợ người, làm cho dạn
-=tiger is hard to tame+ hổ khó dạy cho thuần
-- chế ngự, làm cho quy phục, làm cho (nhuệ khí, tinh thần...) nhụt đi
-*  nội động từ
-- dạn đi, quen đi
-- trở nên nhạt nhẽo, trở nên vô vị
+cast
+	
+*  danh từ
+- sự quăng, sự ném (lưới...); sự thả (neo...); sự gieo (súc sắc...)
+- (nghĩa bóng) sự thử làm, sự cầu may
+=I'll have another cast yet
++ tôi sẽ làm thử một lần nữa
+- khoảng ném; tầm xa (của mũi tên)
+- mồi và lưỡi câu; chỗ câu (câu cá)
+- đồ ăn không tiêu mửa ra (chim ưng, cá...); cứt giun; vỏ lột, da lột (rắn...); xác (ve...); cái vứt bỏ đi
+- sự đúc, khuôn đúc; vật đúc; mẫu đúc; (ngành in) bản in đúc
+- sự cộng lại (các con số); sự tính
+- (sân khấu) sự phân phối các vai; bảng phân phối các vai; các vai
+- bố cục, cách bố trí, cách sắp đặt một câu
+- loại, vẻ, nét, tính tình, tính chất; thiên hướng
+=a man of a different cast
++ một người thuộc loại khác
+=to have a curious cast of mind
++ có tính tình kỳ cục
+=cast of features
++ vẻ mặt, nét mặt
+- màu, sắc thái
+=there is a cast of green in this cloth
++ tấm vải này ánh lên một màu phơn phớt lục
+- sự hơi lác (mắt)
+=to have a cast in one's eye
++ hơi lác mắt
+- sự đi nhờ xe bò, sự đi nhờ xe ngựa
+*  động từ
+- quăng, ném, liệng, thả
+=to cast net
++ quăng lưới
+=to cast anchor
++ thả neo
+- đánh gục, đánh ngã (trong cuộc đấu vật); thắng được (kiện)
+- lột, tuộc, mất, bỏ, thay
+=snakes cast their skins
++ rắn lột da
+=my horse has cast a shoe
++ con ngựa của tôi tuột mất móng
+- đẻ non; rụng
+=cow has cast calf
++ con bò đẻ non
+- đúc, nấu chảy, đổ khuôn (để đúc)
+- cộng lại, gộp lại, tính
+=to cast accounts
++ tính toán
+=to cast a horoscope
++ lấy số tử vi; đoán số tử vi
+- (sân khấu) phân đóng vai (một vở kịch)
+- thải, loại ra
+=a cast soldier
++ một người lính bị thải ra
+=a cast horse
++ một con ngựa bị loại
+- đưa (mắt nhìn)
+=to cast an eye (look, a glance...) at...
++ đưa mắt nhìn
+!to cast about
+- đi tìm đằng này, đằng khác
+- tìm cách, kiếm cớ, xoay sở (để làm gì)
+!to cast aside
+- vứt đi, loại ra, bỏ đi
+!to cast away
+- liệng ném, quăng, vứt
+=to cast away all cares
++ vứt hết những nỗi ưu tư
+!to be cast away
+- (hàng hải) bị đắm (tàu)
+!to cast back
+- quay lại, trở lại
+- (nghĩa bóng) nhắc lại, hồi tưởng lại
+!to cast down
+- vứt xuống, quăng xuống
+- nhìn xuống (mắt)
+- làm thất vọng, làm chán nản
+=to be cast down
++ chán nản, thất vọng
+!to cast off
+- loại bỏ, thải, vứt bỏ, từ bỏ
+- thả (chó)
+- (hàng hải) thả, qăng (dây...)
+- thai lại (mũi đan)
+!to cast out
+- đuổi ra
+!to cast up
+- tính, cộng lại, gộp lại
+- ngẩng (đầu); ngước mắt
+- vứt lên, quăng lên, ném lên
+- trách móc
+=to cast something up to someone
++ trách móc ai về việc gì
+- (y học) nôn ra, mửa ra
+!to cast lott
+- (xem) lot
+!to cast in one's lot with somebody
+- cùng chia sẻ một số phận với ai
+!to cast oneself on (upon) somebody's mercy
+- trông ở lòng thương của ai
+!to cast something in someone's teeth
+- trách móc ai về việc gì
+!to cast a vote
+- bỏ phiếu
+!the die is cast
+- (xem) die
+@Chuyên ngành kinh tế
+-cộng
+-cộng lại
+-cộng thêm
+-dịch rót
+-gộp lại
+-ném
+-quăng
+-sản phẩm rót
+-thả
+-tính
+-tổng cộng
+@Chuyên ngành kỹ thuật
+-đổ
+-đổ khuôn
+-độ lệch
+-đúc
+-được rót
+-huỳnh quang
+-khuôn
+-khuôn đúc
+-lõi
+-nấu chảy
+-ném
+-mẫu thử
+-quăng
+-rót
+-sắc thái
+-sự cong
+-sự lệch
+-vật đúc
+-vết
+@Lĩnh vực: y học
+-băng bột, vật đúc khuôn
+@Lĩnh vực: xây dựng
+-để khuôn
+-mẻ đúc
+@Lĩnh vực: toán & tin
+-đổi kiểu
+-sự đổi kiểu chữ
+@Lĩnh vực: ô tô
+-được đúc
+@Lĩnh vực: hóa học & vật liệu
+-mầu sắc (của dầu)
+-vết hằn
+@Lĩnh vực: cơ khí & công trình
+-thả
+

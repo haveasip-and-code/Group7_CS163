@@ -1,15 +1,9 @@
-flameproof	
+triode
+	
+*  danh từ
+- (vật lý) triôt, ống ba cực
 @Chuyên ngành kỹ thuật
--chống cháy
--không bắt cháy
--không cháy được
--phòng cháy
-@Lĩnh vực: điện lạnh
--chống lửa
-@Chuyên ngành kỹ thuật
--chống cháy
--không bắt cháy
--không cháy được
--phòng cháy
-@Lĩnh vực: điện lạnh
--chống lửa
+-đèn ba cực
+@Lĩnh vực: toán & tin
+-triode, đèn ba cực
+

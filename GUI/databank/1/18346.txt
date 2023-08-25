@@ -1,29 +1,8 @@
-engine	
-@engine /'endʤin/
-*  danh từ
-- máy động cơ
-- đầu máy (xe lửa)
-- dụng cụ chiến tranh=engines of war
-+ dụng cụ chiến tranh
-- dụng cụ, phương tiện=to use every available engine to gain one's end
-+ sử dụng mọi phương tiện sẵn có để đạt mục đích của mình
-*  ngoại động từ
-- lắp máy vào (thu...); gắn động cơ vào
-@Chuyên ngành kỹ thuật
--cơ cấu
--động cơ
--động cơ, máy
--dụng cụ
--máy
--mô tơ
-@Lĩnh vực: xây dựng
--mô tô
-@Chuyên ngành kỹ thuật
--cơ cấu
--động cơ
--động cơ, máy
--dụng cụ
--máy
--mô tơ
-@Lĩnh vực: xây dựng
--mô tô
+storming
+	
+* danh từ
+- (quân sự) cuộc đột kích
+* tính từ
+- công phá mãnh liệt
+- như mưa to gió lớn
+

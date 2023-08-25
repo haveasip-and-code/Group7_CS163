@@ -1,5 +1,15 @@
-steepness	@steepness /'sti:pnis/
-*  danh từ
-- sự dốc (của đường đi); độ dốc
+restricted
+	
+*  tính từ
+- bị hạn chế, bị giới hạn, bị thu hẹp
+@Chuyên ngành kinh tế
+-bị hạn chế
 @Chuyên ngành kỹ thuật
--độ dốc
+-hạn chế
+@Lĩnh vực: điện lạnh
+-bị bó hẹp
+-bị giới hạn
+-bị hạn chế
+@Lĩnh vực: toán & tin
+-bị thu hẹp
+

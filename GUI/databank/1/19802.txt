@@ -1,23 +1,27 @@
-expander	
-@expander
-- (Tech) bộ giãn
+strainer
+	
+*  danh từ
+- dụng cụ để kéo căng
+- cái lọc
+@Chuyên ngành kinh tế
+-giá lọc
+-máy lọc
+-sàng
+-sự lọc thô
+-thùng lọc
 @Chuyên ngành kỹ thuật
--bộ giãn
--bộ phận giãn
--đêtăngđơ
-@Lĩnh vực: điện tử & viễn thông
--bộ mở rộng
--bộ nới rộng
-@Lĩnh vực: điện lạnh
--chất giãn
--máy dãn nở
-@Chuyên ngành kỹ thuật
--bộ giãn
--bộ phận giãn
--đêtăngđơ
-@Lĩnh vực: điện tử & viễn thông
--bộ mở rộng
--bộ nới rộng
-@Lĩnh vực: điện lạnh
--chất giãn
--máy dãn nở
+-bộ lọc
+-đồ gá kéo căng
+-dụng cụ căng
+-lưới chắn rác
+-lưới lọc
+-lưới lọc dầu
+@Lĩnh vực: môi trường
+-bộ lọc kiểu lưới
+-lồng chắn rác
+@Lĩnh vực: y học
+-cái lọc
+@Lĩnh vực: vật lý
+-cấu kéo (cái) sàng
+-gương sen
+

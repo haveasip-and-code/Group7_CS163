@@ -1,3 +1,9 @@
-trifurcated	@trifurcated
-* tính từ
-- rẽ ba; ba nhánh
+multiplexer
+	
+-bộ đa công
+-bộ dồn kênh
+-bộ ghép kênh
+@Lĩnh vực: toán & tin
+-bộ trộn kênh
+-đa xử lý
+

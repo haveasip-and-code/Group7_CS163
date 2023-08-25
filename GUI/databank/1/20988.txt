@@ -1,4 +1,37 @@
-figural	
-@figural
-* tính từ
-- có hình dáng người hay động vật
+certificate
+	
+*  danh từ
+- giấy chứng nhận; bằng
+=a certificate of birth
++ giấy (chứng nhận) khai sinh
+=a certificate of health
++ giấy chứng nhận sức khoẻ
+- chứng chỉ, văn bằng
+*  ngoại động từ
+- cấp giấy chứng nhận
+- cấp văn bằng
+@Chuyên ngành kinh tế
+-bằng cấp
+-biên lai
+-biên nhận
+-cấp bằng
+-chứng chỉ
+-chứng thư
+-giấy chứng nhận
+-giấy phép (kinh doanh)
+-giấy xác nhận
+-văn bằng
+@Chuyên ngành kỹ thuật
+-bằng
+-bằng (sáng chế)
+-biên bản
+-chứng chỉ
+-chứng chỉ chứng nhận
+-giấy chứng nhận
+-hồ sơ
+@Lĩnh vực: toán & tin
+-chứng chỉ người dùng
+-chứng nhận người dùng
+@Lĩnh vực: cơ khí & công trình
+-giấy chứng chỉ
+

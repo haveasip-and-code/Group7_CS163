@@ -1,15 +1,8 @@
-seaworthy	@seaworthy /'si:,wə:ði/
-*  tính từ
-- có thể đi biển được; có thể chịu đựng được sóng gió (tàu biển)
-@Chuyên ngành kinh tế
--chịu được sóng gió
--có khả năng ra biển
--có khả năng ra biển được
--có thể đi biển được
--thích hợp với việc di biển
--trong tình trạng vỏ tàu và thiết bị còn tốt
+biunique
+	
+- một đối một
 @Chuyên ngành kỹ thuật
--đi biển được
-@Lĩnh vực: giao thông & vận tải
--chịu sóng được
--vượt biển được
+@Lĩnh vực: toán & tin
+-một đôi một
+-một đối một
+

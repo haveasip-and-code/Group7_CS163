@@ -1,14 +1,7 @@
-eternity	
-@eternity /i:'tə:niti/
-*  danh từ
-- tính vĩnh viễn, tính bất diệt
-- ngàn xưa, thời gian vô tận (trong tương lai)
-- tiếng tăm muôn đời
-- đời sau
-- (số nhiều) những sự thật bất di bất dịch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tính vĩnh viễn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tính vĩnh viễn
+wrapped
+	
+-được cuộn
+-được quấn
+@Lĩnh vực: hóa học & vật liệu
+-được bao bọc
+

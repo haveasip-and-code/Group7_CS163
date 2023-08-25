@@ -1,23 +1,15 @@
-inferior	
-@inferior /in'fiəriə/
-*  tính từ
-- dưới
-- thấp hơn, kém; thấp kém, tồi (vật...)
-- (thực vật học) hạ, dưới (bầu hoa)
+trawler
+	
 *  danh từ
-- người cấp dưới
-- vật loại kém
+- tàu đánh cá bằng lưới rà
+- người đánh cá bằng lưới rà
 @Chuyên ngành kinh tế
--kém
--thấp
+-người đánh cá bằng lưới rà
+-tàu bủa lưới rà
+-tàu đánh cá bằng lưới rà
+-tàu đánh cá lưới vét
 @Chuyên ngành kỹ thuật
--dưới
--xấu
-@Lĩnh vực: toán & tin
--kém
-@Lĩnh vực: y học
--ở dưới
-@Lĩnh vực: hóa học & vật liệu
--sản phẩm tồi
-@Lĩnh vực: xây dựng
--thấp kém
+@Lĩnh vực: giao thông & vận tải
+-tàu kéo lưới rà
+-tàu kéo lưới rê (kiểu tàu)
+

@@ -1,10 +1,8 @@
-wye	@wye /wai/
-*  danh từ
-- chữ Y
-- vật chữ Y
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--mạch chữ Y (đa pha)
-@Lĩnh vực: cơ khí & công trình
--ống nối chạc ba
--ống nối trạc ba
+depute
+	
+*  ngoại động từ
+- uỷ, uỷu nhiệm, uỷ quyền
+=to depute someone to do something
++ uỷ cho ai làm việc gì
+- cử làm đại biểu, cử (người) thay mình
+

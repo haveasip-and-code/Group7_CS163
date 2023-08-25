@@ -1,19 +1,12 @@
-gust	
-@gust /gʌst/
-*  danh từ
-- cơn gió mạnh=gust of wind
-+ cơn gió mạnh=the wind is blowing in gusts
-+ gió thổi từng cơn
-- cơn mưa rào=gust of rain
-+ trận mưa rào
-- ngọn lửa cháy bùng
-- cơn (giận...)=gusts of rage
-+ cơn giận điên lên
-*  nội động từ
-- thổi giật từng cơn
+timetable
+	
+* danh từ
+- <Mỹ> kế hoạch làm việc; lịch trình, bảng giờ giấc, biểu thời gian
+@Chuyên ngành kinh tế
+-bảng giờ (xe, tàu khởi hành và đến nơi)
+-thời gian biểu
 @Chuyên ngành kỹ thuật
--cơn gió giật
--gió giật
--mưa rào
-@Lĩnh vực: xây dựng
--thổi giật
+-bảng giờ tàu
+@Lĩnh vực: giao thông & vận tải
+-biểu giờ tàu chạy
+

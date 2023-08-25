@@ -1,22 +1,15 @@
-arc	
-@arc /ɑ:k/
+doorway
+	
 *  danh từ
-- hình cung
-- (toán học) cung
-- cầu võng
-- (điện học) cung lửa; hồ quang=voltaic arc; electric arc
-+ cung lửa điện
+- ô cửa (khoảng trống của khung cửa)
+=in the doorway
++ trong ô cửa, ở cửa
+- con đường (dẫn đến)
 @Chuyên ngành kỹ thuật
--cung lửa
--cuốn
--hình cung
--hồ quang
--vòm
-@Lĩnh vực: điện
--cung điện
-@Lĩnh vực: điện lạnh
--cung lửa hồ quang
-@Lĩnh vực: ô tô
--hồ điện quang
+-cửa vào
+-đường ra vào
+-lỗ cửa
 @Lĩnh vực: xây dựng
--vòm quấn
+-lối cửa
+-lối đi ở cửa
+

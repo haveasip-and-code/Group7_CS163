@@ -1,10 +1,8 @@
-reciprocation	@reciprocation /ri,siprə'keiʃn/
-*  danh từ
-- sự trả (ơn...); sự đáp lại (cảm tình)
-- sự cho nhau, sự trao đổi lẫn nhau
-- (kỹ thuật) sự chuyển động qua lại (pittông...)
-- (toán học) sự thay đổi cho nhau
-@Chuyên ngành kỹ thuật
--tính thuận nghịch
-@Lĩnh vực: y học
--sự tương hỗ, trao đổi qua lại
+pulverise
+	
+*  ngoại động từ
+- tán thành bột, giã nhỏ như cám; phun bụi nước
+- (nghĩa bóng) đạp vụn tan thành, phá huỷ hoàn toàn
+*  nội động từ
+- bị đạp vụn tan tành, nát vụn như cám; thành bụi
+

@@ -1,7 +1,8 @@
-asperse	
-@asperse /əs'pə:s/
-*  ngoại động từ
-- vảy, rảy, rưới=to asperse with water
-+ vảy nước
-- nói xấu, phỉ báng, vu khống; bôi xấu, bôi nhọ=to asperse someone's character with false rumours
-+ làm ô danh ai bằng những lời đồn bậy
+wettability
+	
+@Lĩnh vực: hóa học & vật liệu
+-khả năng tẩm ướt
+-tính thấm ướt được
+@Lĩnh vực: điện lạnh
+-tính thấm ẩm
+

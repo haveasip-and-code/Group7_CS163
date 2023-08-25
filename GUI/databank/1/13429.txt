@@ -1,16 +1,17 @@
-dale	
-@dale /deil/
-*  (thơ ca)
-- thung lũng (miền bắc nước Anh)!up hill and down dale
-- (xem) hill!to curse up hill and down dale
-- chửi như hát hay, chửi ra chửi vào
-@Chuyên ngành kỹ thuật
--máng nước
--ống dẫn nước
--ống tiêu nước
--ống xả nước
--thung lũng
-@Lĩnh vực: xây dựng
--ống hút nước
-@Lĩnh vực: cơ khí & công trình
--thung lũng nhỏ
+testimony
+	
+*  danh từ
+- sự chứng nhận, sự nhận thực; lới chứng, lời khai
+=to bear testimony to
++ nhận thực cho, chứng nhận cho
+=in testimony of
++ để làm chứng cho
+- bằng chứng, chứng cớ
+=false testimony
++ bằng chứng giả mạo
+@Chuyên ngành kinh tế
+-khẩu chứng
+-lời chứng
+-lời cung khai
+-sự chứng nhận
+

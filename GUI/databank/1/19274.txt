@@ -1,7 +1,6 @@
-euclidean	
-@euclidean /'ju:klidiən/
-*  danh từ
-- (toán học) (thuộc) O
--clit=euclidean algorithm
-+ thuật toán O
--clit
+biosensor
+	
+- (Tech) đầu cảm thụ sinh vật
+@Chuyên ngành kỹ thuật
+-bộ cảm biến sinh học
+

@@ -1,10 +1,9 @@
-braces	
-@braces
-- (Tech) dấu ngoặc ôm
-@Chuyên ngành kỹ thuật
--dấu ngoặc
--dấu ôm ({})
-@Lĩnh vực: xây dựng
--các thanh chống
-@Lĩnh vực: toán & tin
--dấu ngoặc ({})
+priest
+	
+*  danh từ
+- thầy tu, thầy tế
+- vồ đập cá (Ai
+-len)
+*  ngoại động từ
+- làm (ai) trở thành thầy tu (ai) trở thành thầy tế
+

@@ -1,4 +1,20 @@
-salesclerk	@salesclerk
-- người bán hàng
+digester
+	
+*  danh từ
+- người phân loại, người phân hạng; người tóm tắt có hệ thống
+- người tiêu hoá
+=to be a bad digester
++ người ăn lâu tiêu
+- vật giúp cho sự tiêu hoá
+- máy ninh, nồi (nấu canh, ninh...)
 @Chuyên ngành kinh tế
--người bán hàng
+-nồi nấu áp lực
+-nồi nấu nhừ
+-nồi ninh
+-tóp mỡ chăn nuôi
+@Chuyên ngành kỹ thuật
+-nồi nấu
+-nồi ninh
+@Lĩnh vực: hóa học & vật liệu
+-nồi chiết/ nồi chiết suất
+

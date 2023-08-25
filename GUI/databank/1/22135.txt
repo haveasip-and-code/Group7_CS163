@@ -1,10 +1,23 @@
-fourfold	
-@fourfold /fɔ:'lould/
-*  tính từ & phó từ
-- gấp bốn lần
+rotten
+	
+*  tính từ
+- mục, mục nát; thối, thối rữa
+=rotten egg
++ trứng thối
+- đồi bại, sa đoạ
+=rotten ideas
++ những ý nghĩ (tư tưởng) đồi bại
+- xấu, vô giá trị, bất tài; (từ lóng) khó chịu, tồi, làm bực mình, đáng ghét
+=rotten weather
++ thời tiết khó chịu
+- mắc bệnh sán gan
+=a rotten sheep
++ con cừu mắc bệnh sán gan
+@Chuyên ngành kinh tế
+-mục nát
+-thối rữa
 @Chuyên ngành kỹ thuật
--bộ bốn
--gấp bốn
--gấp bốn lần
-@Lĩnh vực: toán & tin
--bốn lần
+-bị hư hỏng
+-bị mục
+-bị phong hóa
+

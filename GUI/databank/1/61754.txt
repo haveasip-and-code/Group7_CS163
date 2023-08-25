@@ -1,7 +1,10 @@
-victuals	@Chuyên ngành kinh tế
--đồ ăn thức uống
--đồ ăn thức ụống
--lương thực
--lương thực thực phẩm
--lương thực thực phẩm ăn liền
--thực phẩm
+configure
+	
+*  ngoại động từ
+- định hình thể, cho một hình dạng
+@Chuyên ngành kỹ thuật
+-cấu hình
+@Lĩnh vực: toán & tin
+-tạo cấu hình
+-thiết lập cấu hình
+

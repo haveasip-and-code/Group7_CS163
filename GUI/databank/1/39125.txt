@@ -1,6 +1,7 @@
-oxysalt	@oxysalt
-* danh từ
-- muối có oxy
+cypher
+	
+- (Tech) số không; chữ số; mã
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--muối oxy
+@Lĩnh vực: điện tử & viễn thông
+-kỹ mã
+

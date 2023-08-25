@@ -1,9 +1,4 @@
-unaffected	@unaffected /,ʌnə'fektid/
-*  tính từ
-- không xúc động, không động lòng, thản nhiên
-- tự nhiên, không giả tạo, không màu mè; chân thật
-- không bị ảnh hưởng, không bị nhiễm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--không bị ảnh hưởng
--không bị tác động
+supersoft
+	
+-quá mềm
+

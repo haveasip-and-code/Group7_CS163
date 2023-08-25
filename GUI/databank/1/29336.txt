@@ -1,11 +1,6 @@
-interlayer	
-@Chuyên ngành kinh tế
--lớp xen giữa
-@Chuyên ngành kỹ thuật
--lớp kẹp
--lớp trung gian
--lớp xen
--lớp xen giữa
--lớp xen kẽ
-@Lĩnh vực: hóa học & vật liệu
--vỉa xen (địa chất)
+deprecation
+	
+*  danh từ
+- sự phản đối, sự phản kháng; lời phản đối, lời phản kháng
+- (từ cổ,nghĩa cổ) lời cầu nguyện, lời cầu khẩn, lời khẩn nài
+

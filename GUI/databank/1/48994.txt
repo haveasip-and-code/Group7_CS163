@@ -1,2 +1,11 @@
-scenarios	@Chuyên ngành kỹ thuật
--kịch bản
+annotate
+	
+*  động từ
+- chú giải, chú thích
+@Chuyên ngành kinh tế
+-chú giải
+-chú thích
+@Chuyên ngành kỹ thuật
+-chú giải
+-diễn giải
+

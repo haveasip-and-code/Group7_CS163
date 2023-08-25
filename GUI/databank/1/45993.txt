@@ -1,21 +1,5 @@
-recommendation	@recommendation /,rekəmen'deiʃn/
-*  danh từ
-- sự giới thiệu, sự tiến cử
-=to writer in recommendation of someone+ viết thư giới thiệu ai
-=letter of recommendation+ thư giới thiệu
-- làm cho người ta mến, đức tính làm cho có cảm tưởng tốt
-- sự khuyên nhủ, sự dặn bảo
-- sự gửi gắm, sự phó thác
-@Chuyên ngành kinh tế
--lời khuyên
--sự giới thiệu
--sự gửi gắm
--sự khuyến cáo
--sự tiến cử
--thư giới thiệu
--thư gửi gắm
--thư tiến cử
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--khuyến cáo
--khuyến nghị
+gumboot
+	
+* danh từ
+- ủng cao su lên đến đầu gối
+

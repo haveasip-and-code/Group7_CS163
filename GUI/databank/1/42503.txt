@@ -1,6 +1,8 @@
-polyphyletic	@polyphyletic
+infrasonic
+	
 * tính từ
-- (sinh vật học) nhiều nguồn gốc, nhiều dạng tổ tiên
+- có tần số dưới mức tai nghe của con người
+- thuộc hoặc dùng sóng dưới mức tai nghe của con người
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--đa nguyên
+-hạ âm
+

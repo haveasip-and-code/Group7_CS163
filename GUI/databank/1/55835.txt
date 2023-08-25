@@ -1,11 +1,33 @@
-telegraphy	@telegraphy /ti'legrəfi/
+lack
+	
 *  danh từ
-- phép điện báo, thuật điện báo
-@Chuyên ngành kinh tế
--điện báo học
--hệ thống điện báo
--thông tin điện báo
+- sự thiếu
+=the plant died for lack of water
++ cây chết vì thiếu nước
+*  ngoại động từ
+- thiếu, không có
+=I lack words to express my job
++ tôi không đủ lời để diễn tả hết niềm vui của tôi
+*  nội động từ
+- thiếu, không có (chỉ động tính từ quá khứ)
+=water is no longer lacking thanks to irrigation works
++ nước không còn thiếu nữa nhờ có công trình thuỷ lợi
 @Chuyên ngành kỹ thuật
--điện báo
--điện tín
--khoa điện báo
+-chỗ thiếu
+-không có
+-sự thiếu
+-thiếu sót
+@Lĩnh vực: toán & tin
+-sự vắng mặt
+@Lĩnh vực: cơ khí & công trình
+-vắng
+@Chuyên ngành kỹ thuật
+-chỗ thiếu
+-không có
+-sự thiếu
+-thiếu sót
+@Lĩnh vực: toán & tin
+-sự vắng mặt
+@Lĩnh vực: cơ khí & công trình
+-vắng
+

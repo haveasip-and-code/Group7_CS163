@@ -1,26 +1,11 @@
-admission	
-@admission /əd'miʃn/
-*  danh từ
-- sự nhận vào, sự thu nạp vào; sự kết nạp=to get admission to the Academy
-+ được nhận vào viện hàn lâm
-- sự cho vào cửa, sự cho vào=free admission
-+ vào cửa không mất tiền=admission by ticket
-+ vào cửa phải có vé
-- tiền vào cửa, tiền nhập học
-- sự nhận, sự thú nhận=to make full admission s
-+ thú nhận hết
-- (định ngữ) (kỹ thuật) nạp=admission valve
-+ van nạp
+mender
+	
+* danh từ
+- người sửa chữa
+= a watch 
+-mender
++thợ chữa đồng hồ
 @Chuyên ngành kỹ thuật
--nạp
--nhận
--sự cung cấp
--sự dẫn
--sự đưa vào
--sự hấp nạp
--sự nạp
 @Lĩnh vực: xây dựng
--sự dẫn nạp
-@Lĩnh vực: cơ khí & công trình
--sự tiến dao
--sự tiến vào
+-thợ sửa chữa
+

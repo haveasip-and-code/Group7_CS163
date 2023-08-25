@@ -1,17 +1,18 @@
-organization	@organization /,ɔ:gənai'zeiʃn/
-*  danh từ
-- sự tổ chức, sự cấu tạo
-- tổ chức, cơ quan
-=world organizations+ các tổ chức quốc tế
-@Chuyên ngành kinh tế
--cơ cấu
--cơ quan
--tổ chức
-@Chuyên ngành kỹ thuật
--đơn vị
--sự cấu tạo
--sự tổ chức
-@Lĩnh vực: y học
--sự mê hóa
--sự tổ chức cấu tạo
--tổ chức cơ quan
+forgotten
+	
+*  ngoại động từ forgot,  forgotten
+- quên, không nhớ đến
+- coi thường, coi nhẹ
+*  nội động từ
+- quên
+=to forget about something
++ quên cái gì
+!eaten bread is soon forgotten
+- ăn cháo đái bát
+!to forget oneself
+- quên mình
+- bất tỉnh
+- không đứng đắn (hành động), không nghiêm chỉnh (ăn nói); thiếu tự trọng
+!to forgive and forget
+- tha thứ và bỏ qua
+

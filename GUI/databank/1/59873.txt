@@ -1,10 +1,16 @@
-unitary	@unitary
-* tính từ
-- đơn nhất, nguyên khối, nhất thể
-- thuộc về đơn vị
-@Chuyên ngành kỹ thuật
--đơn nguyên
--đơn vị
--đồng nhất
-@Lĩnh vực: hóa học & vật liệu
--đơn nhất
+sable
+	
+*  danh từ
+- (động vật học) chồn zibelin
+- da lông chồn zibelin
+- bút vẽ bằng lông chồn zibelin
+- (thơ ca); (văn học) màu đen
+- (số nhiều) áo choàng bằng lông chồn zibelin
+- (số nhiều) (thơ ca); (văn học) áo tang
+*  tính từ
+- (thơ ca); (văn học) đen tối, ảm đạm; thê lương
+!his sable Majesty
+- ma vương
+@Chuyên ngành kinh tế
+-bánh ngọt
+

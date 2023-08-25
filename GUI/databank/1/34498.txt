@@ -1,20 +1,22 @@
-message	@message /'mesidʤ/
-*  danh từ
-- thư tín, điện, thông báo, thông điệp
-=a wireless message+ bức điện
-=a message of greeting+ điện mừng
-- việc uỷ thác, việc giao làm, việc sai làm
-=to send someone on a message+ bảo ai đi làm việc gì
-- lời truyền lại, lời tiên báo (của thần, nhà tiên tri...)
+designate
+	
+*  tính từ (đặt sau danh từ)
+- được chỉ định, được bổ nhiệm (nhưng chưa chính thức nhận chức)
+=ambassador designate
++ đại sứ mới được chỉ định (nhưng chưa trình quốc thư)
 *  ngoại động từ
-- báo bằng thư
-- đưa tin, đánh điện
-@Chuyên ngành kinh tế
--điện văn
--lời truyền đạt
--sứ mệnh
--thông điệp
--thư tín
--tin tức
+- chỉ rõ, định rõ
+- chọn lựa, chỉ định, bổ nhiệm
+=to designate someone as...
++ chỉ định ai làm...
+- đặt tên, gọi tên, mệnh danh
+=to designate someone by the name off...
++ đặt (gọi) tên ai là...
 @Chuyên ngành kỹ thuật
--thông điệp
+-chỉ
+-chỉ định
+-ký hiệu
+-xác định
+@Lĩnh vực: xây dựng
+-biểu thị
+

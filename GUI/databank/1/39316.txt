@@ -1,19 +1,5 @@
-palisade	@palisade /,pæli'seid/
-*  danh từ
-- hàng rào cọ, hàng rào chấn song sắt
-- (quân sự) cọc rào nhọn
-- (từ Mỹ,nghĩa Mỹ) hàng vách đá dốc đứng (ở bờ biển)
-*  ngoại động từ
-- rào bằng hàng rào chấn song
-@Chuyên ngành kỹ thuật
--cọc
--hàng rào
--hàng rào cọc
-@Lĩnh vực: xây dựng
--cọc rào
--dậu cọc
--hàng rào bằng cọc
--khối đá nhọn
-@Lĩnh vực: cơ khí & công trình
--trụ đá bazan
--vách đá dốc đứng (ở bờ biển)
+overeaten
+	
+*  nội động từ overate; overeaten
+- ăn quá nhiều, ăn quá mức
+

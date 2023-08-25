@@ -1,9 +1,14 @@
-procession	@procession /procession/
-*  danh từ
-- đám rước; cuộc diễu hành; đoàn diễu hành (người, xe, thuyền...)
-=to go (walk) in procession+ đi diễu
-- (nghĩa bóng) cuộc chạy đua không hào hứng
-*  nội động từ
-- đi thành đám rước, đi theo đám rước; diễu hành
-*  ngoại động từ
-- diễu hành dọc theo (đường phố)
+accessories
+	
+- (Tech) phụ tùng, bộ phụ, phụ kiện [TQ]
+- (tin học) phụ trợ
+@Chuyên ngành kỹ thuật
+-đồ giá
+-đồ phụ tùng
+-phụ kiện
+-phụ tùng
+-thiết bị
+-thiết bị phụ trợ
+@Lĩnh vực: điện
+-thiết bị phụ tùng
+

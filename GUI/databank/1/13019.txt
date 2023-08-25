@@ -1,29 +1,4 @@
-culture	
-@culture /'kʌltʃə/
-*  danh từ
-- sự mở mang, sự tu dưỡng, sự trao đổi=the culture of the mind
-+ sự mở mang trí tuệ=physical culture
-+ thể dục
-- sự giáo dục, sự giáo hoá
-- văn hoá, văn minh
-- sự trồng trọt
-- sự nuôi (tằm, ong, cá, sò...)
-- sự cấy (vi khuẩn); số lượng vi khuẩn cấy; mẻ cấy vi khuẩn=the culture of cholera germs
-+ sự cấy vi trùng bệnh tả; mẻ cấy vi trùng bệnh tả
-*  ngoại động từ
-- cày cấy, trồng trọt
-- nuôi (tằm, ong...)
-- cấy (vi khuẩn)
-- tu dưỡng, trau dồi
-- giáo hoá, mở mang
-@Chuyên ngành kinh tế
--nuôi
--nuôi trồng
--sự trồng trọt
--văn hóa
-@Chuyên ngành kỹ thuật
--canh tác
-@Lĩnh vực: y học
--sự nuôi cấy, cấy
-@Lĩnh vực: xây dựng
--văn hóa
+parader
+	
+- xem parade
+

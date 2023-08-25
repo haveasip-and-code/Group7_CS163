@@ -1,9 +1,9 @@
-transferor	@transferor /træns'fə:rə/ (transferrer) /træns'fə:rə/
+monorail
+	
 *  danh từ
-- người nhượng lại
-@Chuyên ngành kinh tế
--người chuyển nhượng
--người kí hậu (một thương phiếu)
--người ký hậu (một thương phiếu)
--người nhượng lại
--người xuất nhượng
+- đường một ray (đường xe lửa)
+@Chuyên ngành kỹ thuật
+-đường ray đơn
+@Lĩnh vực: xây dựng
+-đường một ray
+

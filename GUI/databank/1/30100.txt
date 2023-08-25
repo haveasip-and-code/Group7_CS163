@@ -1,7 +1,5 @@
-isoelectric	
-@isoelectric /,aisoui'lektrik/
+reverberant
+	
 *  tính từ
-- (vật lý) đẳng điện=isoelectric points
-+ điểm đẳng điện
-@Chuyên ngành kỹ thuật
--đẳng điện
+- dội lại, vang lại (tiếng); phản chiếu, phản xạ (ánh sáng...)
+

@@ -1,18 +1,4 @@
-dealer	
-@dealer /'di:lə/
-*  danh từ
-- người buôn bán=a dealer in old clothes
-+ người buôn bán quần áo cũ
-- người chia bài
-- người đối xử, người ăn ở, người xử sự=a plain dealer
-+ người chân thực, thẳng thắn
-@Chuyên ngành kinh tế
--người buôn bán
--người buôn bán chứng khoán
--người môi giới (chứng khoán)
--nhà buôn
--thương gia
--thương nhân
-@Chuyên ngành kỹ thuật
--chủ hụi
--người buôn bán
+quintile
+	
+- ngũ phân vị
+

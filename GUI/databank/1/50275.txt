@@ -1,68 +1,10 @@
-sheet	@sheet /ʃi:t/
-*  danh từ
-- khăn trải giường
-=to get between the sheets+ đi ngủ
-- lá, tấm, phiến, tờ
-=a sheet of iron+ một tấm sắt
-=loose sheet+ giấy rời
-- tờ báo
-- dải
-=a sheet of ice+ một dải băng
-- (địa lý,địa chất) vỉa
-- (hàng hải) dây lèo (để điều chỉnh buồm)
-- (thơ ca) buồm
-!to be a sheet in the wind
-- (từ lóng) ngà ngà say
-!to be three sheets in the wind
-- (từ lóng) say bí tỉ, say khướt
-*  ngoại động từ
-- đậy, phủ, trùm kín
-=to sheet over a waggon+ phủ kín một toa xe bằng vải bạt
-=the town was sheeted over with snow+ tuyết phủ đầy thành phố
-- kết lại thành tấm, hợp lại thành phiến
-=sheeted rain+ mưa như đổ nước
-- (hàng hải) giữ buồm bằng dây lèo
-!to sheet home
-- buộc căng dây lèo buồm
-@Chuyên ngành kinh tế
--khay mâm
--lá
--phiếu
--tấm
--tờ (giấy)
+shadowgraph
+	
+* danh từ
+- ảnh chụp X quang
+- kịch bóng
+- bóng hiện lên trên màn ảnh
 @Chuyên ngành kỹ thuật
--bản
--bia
--dải
--giản đồ
--ký hiệu tay bông
--lá
--lá kim loại
--lớp (nước)
--lớp phủ
--màng
--phiến
--phiến mỏng
--phiếu
--sơ đồ
--tấm
--tấm tôn
--tầng
--vỉa
-@Lĩnh vực: điện lạnh
--bản (mỏng)
--tấm (mỏng)
-@Lĩnh vực: giao thông & vận tải
--dây lèo (thuyền buồm)
-@Lĩnh vực: hóa học & vật liệu
--lá thép
-@Lĩnh vực: vật lý
--tấm (bản mỏng)
-@Lĩnh vực: cơ khí & công trình
--thép lá (mỏng hơn 5, 45mm)
-@Lĩnh vực: xây dựng
--tờ (giấy)
-@Lĩnh vực: toán & tin
--tờ giấy
--tờ tính (trong MS Excel)
--trang tính
+@Lĩnh vực: y học
+-ảnh chụp tia X quang
+

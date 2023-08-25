@@ -1,46 +1,5 @@
-hood	
-@hood /hud/
-*  danh từ
-- mũ trùm đầu (áo mưa...)
-- huy hiệu học vị (gắn trên áo hay mũ trùm đầu để cho học vị ở trường đại học)
-- mui xe (xe đẩy của trẻ con, xe ô tô, bằng vải bạt có thể gập lại)
-- miếng da trùm đầu (chim ưng săn)
-- (từ Mỹ,nghĩa Mỹ) Capô (ô tô)
+unfrock
+	
 *  ngoại động từ
-- đội mũ trùm đầu
-- đậy mui lại, che bằng mui
-@Chuyên ngành kinh tế
--có nắp
--có nút
--mũ
--nắp
--nút
-@Chuyên ngành kỹ thuật
--chuông
--chụp hút
--đai
--lớp vỏ macma
--nắp
--nắp che
--nắp đậy
--nắp đậy máy
--mũ
--mui xe
--tấm chắn
--trần
--vành
--vỏ bọc
--vỏ che
--vòm
--vòng
-@Lĩnh vực: xây dựng
--cái vỏ (bơm)
--mái đua tường
--tấm đậy
--vỏ macma
-@Lĩnh vực: điện
--chụp đèn
-@Lĩnh vực: vật lý
--nắp ống kính
-@Lĩnh vực: ô tô
--mui
+- (tôn giáo) bắt trả áo thầy tu, tước chức
+

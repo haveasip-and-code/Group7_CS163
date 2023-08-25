@@ -1,24 +1,7 @@
-exploration	
-@exploration /,eksplɔ:'reiʃn/
-*  danh từ
-- sự thăm dò, sự thám hiểm
-- (y học) sự thông dò
-- sự khảo sát tỉ mỉ
-@Chuyên ngành kỹ thuật
--khảo sát
--sự điều tra
--sự khảo sát
--sự nghiên cứu
--sự thăm dò
--sự thám hiểm
--thám hiểm
--tìm kiếm
-@Chuyên ngành kỹ thuật
--khảo sát
--sự điều tra
--sự khảo sát
--sự nghiên cứu
--sự thăm dò
--sự thám hiểm
--thám hiểm
--tìm kiếm
+unresistant
+	
+* tính từ
+- không bền
+- không chống cự
+- không có sức bền
+

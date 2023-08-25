@@ -1,28 +1,10 @@
-lance	@lance /lɑ:ns/
+scholarship
+	
 *  danh từ
-- giáo, thương, trường thương
-!to break a lance with someone
-- tranh luận với ai
-*  ngoại động từ
-- đâm bằng giáo, đâm bằng thương
-- (y học) mổ, trích (bằng lưỡi trích)
-@Chuyên ngành kỹ thuật
--cây thương
--lưỡi
--ngọn
--ống nhỏ
-@Lĩnh vực: y học
--chích
--dao chích, kim chích máu
-@Lĩnh vực: cơ khí & công trình
--mũi cắt
-@Chuyên ngành kỹ thuật
--cây thương
--lưỡi
--ngọn
--ống nhỏ
-@Lĩnh vực: y học
--chích
--dao chích, kim chích máu
-@Lĩnh vực: cơ khí & công trình
--mũi cắt
+- sự học rộng, sự uyên thâm, sự uyên bác, sự thông thái
+- học bổng
+=to win a scholarship
++ được cấp học bổng
+@Chuyên ngành kinh tế
+-học bổng
+

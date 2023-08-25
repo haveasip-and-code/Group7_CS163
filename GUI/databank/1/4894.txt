@@ -1,10 +1,6 @@
-bathroom	
-@bathroom
-- thành ngữ bath
-- bathroom
-- buồng tắm, nhà vệ sinh
-- thành ngữ bath
-- bathroom
-- buồng tắm, nhà vệ sinh
-@Chuyên ngành kỹ thuật
--buồng tắm
+galenic
+	
+*  tính từ ((cũng) galenical)
+- (thuộc) y lý của Galen
+- bằng các loại cây cỏ (thuốc)
+

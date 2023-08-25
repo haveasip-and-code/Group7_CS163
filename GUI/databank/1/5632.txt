@@ -1,3 +1,7 @@
-biostatistics	
-@biostatistics
-- thống kê sinh vật học
+union
+	
+- hợp
+- u. of sets hợp nhất của các tập hợp
+- u. of spheres (tô pô) bó hình cầu
+- direct u. (đại số) hợp trực tiếp
+

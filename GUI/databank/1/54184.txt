@@ -1,4 +1,5 @@
-subsegment	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đoạn con
--phần con
+overassertive
+	
+* tính từ
+- quá khẳng định
+

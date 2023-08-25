@@ -1,10 +1,13 @@
-barker	
-@barker /'bɑ:kə/
-*  danh từ
-- chó sủa
-- người hay quát tháo; người vừa đánh vừa hò hét
-- người rao hàng (ở cửa hiệu, nơi bán đấu giá)
-- (từ lóng) súng lục; súng đại bác, pháo
+unexposed
+	
+*  tính từ
+- không bày ra, không trưng bày
+- không bị đặt vào nơi nguy hiểm
+- chưa bị phát giác, chưa bị vạch trần; không bị lột mặt nạ
+=an unexposed crime
++ một tội chưa bị phát giác
 @Chuyên ngành kỹ thuật
--máy bóc vỏ cây
--máy tuốt vỏ
+@Lĩnh vực: điện lạnh
+-chưa lộ sáng
+-chưa phơi sáng
+

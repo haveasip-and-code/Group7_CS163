@@ -1,34 +1,52 @@
-fog	
-@fog /fɔg/
+trick
+	
 *  danh từ
-- cỏ mọc lại
-- cỏ để mọc dài không cắt (về mùa đông)
+- mưu mẹo, thủ đoạn đánh lừa; trò gian trá, trò bịp bợm
+=the trick took him in completely
++ nó hoàn toàn bị mắc mưu
+=there must be some trick about it
++ có cái gì gian trá bịp bợm trong đó
+- trò chơi khăm, trò choi xỏ; trò ranh ma, trò tinh nghịch
+=to be up to one's old tricks again
++ lại dở những trò xỏ lá
+=to play a trick on someone
++ xỏ chơi ai một vố
+- ngón, đòn, phép, mánh khoé, mánh lới nhà nghề
+- trò, trò khéo
+=conjuring trick
++ trò nhanh tay, trò ảo thuật
+=to teach a dog tricks
++ dạy cho làm trò
+- thói, tật
+=the has the trick of using slangs
++ nó có cái tật hay dùng tiếng lóng
+- nước bài
+=to take (win) a trick
++ được ăn một nước bài
+- (hàng hải) phiên làm việc ở buồng lái
+!to be up to a trick or two
+- khôn ngoan, láu, đủ ngón, có tài xoay xở
+!I don't know the trick of it
+- tôi không biết mẹo
+!to know a trick worth two of that
+- biết một ngón hay hơn
+!that will do the trick
+- (thông tục) cứ thế là ăn tiền đấy
+!tricks of fortune
+- những trò trở trêu của số mệnh
+!whole bag of tricks
+- (xem) bag
 *  ngoại động từ
-- để cho cỏ mọc lại ở (một mảnh đất)
-- cho (súc vật) ăn cỏ mọc lại
-*  danh từ
-- sương mù
-- màn khói mờ, màn bụi mờ
-- tình trạng mờ đi (vì sương mù)
-- (nghĩa bóng) tình trạng trí óc mờ đi; tình trạng bối rối hoang mang=to be in a fog
-+ bối rối hoang mang
-- (nhiếp ảnh) vết mờ
-*  ngoại động từ
-- phủ sương mù; làm mờ đi, che mờ (như phủ một màn sương)
-- làm bối rối hoang mang
-- (nhiếp ảnh) làm mờ (phim ảnh) đi
-*  nội động từ
-- phủ sương mù; đầy sương mù; mờ đi
-- (
-+ off) chết vì úng nước, chết vì đẫm sương
-- (nhiếp ảnh) mờ đi, phim ảnh
+- lừa, đánh lừa, lừa gạt
+=to trick someone into doing something
++ lừa ai làm gì
+=to trick someone out of something
++ lừa gạt ai lấy cái gì
+!to trick out (up)
+- trang điểm, trang sức
 @Chuyên ngành kỹ thuật
--màng (xám)
--màng mờ
--màng mở
--phủ sương mù
--sương mù
+-lừa
+-thủ thuật
 @Lĩnh vực: điện lạnh
--sương (mù)
-@Lĩnh vực: vật lý
--vết mờ
+-mẹo (nhỏ)
+

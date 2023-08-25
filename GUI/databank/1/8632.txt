@@ -1,13 +1,9 @@
-cesspool	
-@cesspool /'sespu:l/
+tramway
+	
 *  danh từ
-- hầm chứa phân (dưới các cầu tiêu)
-- (nghĩa bóng) nơi ô uế, nơi bẩn thỉu
+- đường xe điện
 @Chuyên ngành kỹ thuật
--bể phốt
--bể tự hoại
--cesspit
--hố
-@Lĩnh vực: hóa học & vật liệu
--giếng hư đã bỏ
--hầm chứa nước bẩn
+-đường tàu điện
+-đường tàu treo
+-đường xe điện
+

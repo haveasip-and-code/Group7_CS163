@@ -1,8 +1,7 @@
-isentropic	
-@isentropic
-* tính từ
-- (vật lý) thuộc đẳng entropi
+metamathematical
+	
+- (logic học) (thuộc) mêta toán
 @Chuyên ngành kỹ thuật
--đẳng entropi
-@Lĩnh vực: điện lạnh
--đẳng entropy
+@Lĩnh vực: toán & tin
+-meta toán
+

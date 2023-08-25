@@ -1,10 +1,24 @@
-catabolism	
-@catabolism /kə'tæbəlizm/
-*  danh từ
-- (sinh vật học) sự dị hoá
+wharf
+	
+*  danh từ,  số nhiều wharfs,  wharves
+- (hàng hi) bến tàu, cầu tàu
+*  ngoại động từ
+- (hàng hi) cho (hàng) vào kho ở bến
+- (hàng hi) buộc (tàu) vào bến
+@Chuyên ngành kinh tế
+-bến cảnh
+-bến tàu
+-bến tàu cầu cảng
+-cầu cảng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--dị hóa
--hiện tượng dị hóa
-@Lĩnh vực: y học
--sự giải hóa
+-bến tàu
+-cho vào bến
+-kè đá
+@Lĩnh vực: xây dựng
+-bến (tàu) cảng
+-buộc tàu thuyền
+-buộc vào bến
+-cầu tàu
+-công trình cập bến
+-nơi thả neo
+

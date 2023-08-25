@@ -1,11 +1,25 @@
-servomechanism	@servomechanism
-* danh từ
-- cơ cấu phụ
+page
+	
+*  danh từ
+- trang (sách...); (nghĩa bóng) trang sử
+*  ngoại động từ
+- đánh số trang
+*  danh từ
+- tiểu đồng
+- em nhỏ phục vụ (ở khách sạn, rạp hát...)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) sai em nhỏ phục vụ gọi (ai)
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ) làm em nhỏ phục vụ (ở khách sạn, rạp hát)
+@Chuyên ngành kinh tế
+-gọi để nhắn tin (trên loa)
+-gọi tên tìm
+-nhắn tin
+-trang
 @Chuyên ngành kỹ thuật
--cơ cấu secvo
--hệ trợ động
-@Lĩnh vực: vật lý
--cấu secvo
--cấu trợ động
-@Lĩnh vực: điện
--chỉnh cơ tự động
+-đánh số trang
+@Lĩnh vực: toán & tin
+-phân trang nhớ
+-trang nhớ
+-trang nhớ, trang
+

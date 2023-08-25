@@ -1,4 +1,7 @@
-artfully	
-@artfully
-* phó từ
-- khéo léo, sắc sảo
+localizable
+	
+*  tính từ
+- có thể hạn định vào một nơi, có thể hạn định vào một địa phương
+- có thế địa phương hoá
+- có thể xác định được, vị trí, định vị được
+

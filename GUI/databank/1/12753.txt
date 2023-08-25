@@ -1,13 +1,20 @@
-crossed	
-@crossed
-- chéo
+deflation
+	
+*  danh từ
+- sự tháo hơi ra, sự xẹp hơi
+- (tài chính) sự giải lạm phát
+@Chuyên ngành kinh tế
+-giảm giá
+-giảm phát
+-sự giảm giá
+-sự siết chặt lưu thông tiền tệ
 @Chuyên ngành kỹ thuật
--bắt chéo
--cắt nhau
--chéo nhau
--giao nhau
--vuông góc
-@Lĩnh vực: cơ khí & công trình
--cắt ngang nhau
-@Lĩnh vực: toán & tin
--chéo
+-sự phong hóa
+-sự thổi mòn
+@Lĩnh vực: ô tô
+-sự nổ lốp
+-sự tháo hơi
+-sự xì
+@Lĩnh vực: hóa học & vật liệu
+-thổi mòn
+

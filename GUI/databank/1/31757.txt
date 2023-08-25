@@ -1,27 +1,7 @@
-leaky	@leaky /'li:ki/
-*  tính từ
-- có lỗ rò, có lỗ hở, có kẽ hở, có chỗ thủng
-- hay để lộ bí mật
-- hay đái rắt
-@Chuyên ngành kỹ thuật
--hở
--lỗ rò
--rò
-@Lĩnh vực: giao thông & vận tải
--chỗ hở
--chỗ rò
-@Lĩnh vực: cơ khí & công trình
--không kín
-@Lĩnh vực: điện lạnh
--rò điện
-@Chuyên ngành kỹ thuật
--hở
--lỗ rò
--rò
-@Lĩnh vực: giao thông & vận tải
--chỗ hở
--chỗ rò
-@Lĩnh vực: cơ khí & công trình
--không kín
-@Lĩnh vực: điện lạnh
--rò điện
+infrahuman
+	
+* tính từ
+- thấp hơn (dưới mức) con người
+* danh từ
+- động vật thấp hơn con người
+

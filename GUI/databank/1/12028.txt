@@ -1,8 +1,18 @@
-correlator	
-@correlator
-- (Tech) bộ tương quan
+vaporization
+	
+*  danh từ ((cũng) vaporizing)
+- sự bốc hơi
+- sự xì, sự bơm (nước hoa)
+*  danh từ
+- (y học) phép chữa bằng hơi
+@Chuyên ngành kinh tế
+-sự bốc hơi
+-sự tạo hơi
 @Chuyên ngành kỹ thuật
--bộ tương quan
-@Lĩnh vực: toán & tin
--máy tương quan
--tương quan tử
+-sự bay hơi
+-sự bốc hơi
+-sự hóa hơi
+@Lĩnh vực: y học
+-điều trị bằng hơi
+-sự bay hơi, hóa hơi
+

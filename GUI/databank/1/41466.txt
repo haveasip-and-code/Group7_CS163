@@ -1,10 +1,7 @@
-pickup	@Chuyên ngành kinh tế
--sự hồi phục kinh tế
--sự tái hưng kinh tế
--tái hưng kinh tế
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--cái picơp
--phản ứng đoạt
--sự đoạt
--thiết bị thu biến
+individualistic
+	
+*  tính từ
+- có tính chất chủ nghĩa cá nhân
+=individualistic calculation
++ tính toán cá nhân
+

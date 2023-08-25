@@ -1,14 +1,11 @@
-chlorination	
-@chlorination
-* danh từ
-- sự khử trùng bằng clo
-@Chuyên ngành kinh tế
--sự khử trùng bằng clo
+subspace
+	
+- không gian con
+- complementary s. không gian con bù
+- isotropic s. (đại số) không gian con đẳng hướng
+- non
+-isotropic s. (đại số) không gian con không đẳng hướng
+- total vector s. không gian con vectơ toàn phần
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--clo hóa
-@Lĩnh vực: y học
--clor hóa
-@Lĩnh vực: xây dựng
--sự clo hóa
--xử lý bằng clo
+-không gian con
+

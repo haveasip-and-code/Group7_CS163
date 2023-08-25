@@ -1,10 +1,6 @@
-airline	
-@airline
-* danh từ
-- công ty hàng không
-@Chuyên ngành kinh tế
--công ty hàng không
--đường không
--hệ thống không vận định kỳ
--phi cơ bay theo tuyến định kỳ
--tuyến đường hàng không
+spininess
+	
+*  danh từ
+- tình trạng có nhiều gai
+- (nghĩa bóng) tính chất gai góc, tính chất hắc búa; sự hắc búa, sự khó giải quyết (vấn đề)
+

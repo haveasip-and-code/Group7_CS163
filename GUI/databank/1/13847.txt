@@ -1,9 +1,8 @@
-declarative	
-@declarative /di'klæretiv/
-*  tính từ
-- để tuyên bố
-- (ngôn ngữ học) tường thuật (câu...)
-@Chuyên ngành kỹ thuật
--khai báo
--mô tả
--sự khai báo
+radially
+	
+* phó từ
+- <lý><toán> (thuộc) tia,, như tia, như bán kính
+- xuyên tâm, toả tròn
+- (lốp xe) có bố toả tròn (bố đặt xuyên tâm với tâm bánh xe)
+- <phẫu> (thuộc) xương quay
+

@@ -1,7 +1,13 @@
-knickknack	@knickknack
-* danh từ
-- đồ trang trí ít giá trị (thường là để trang trí nhà cửa)
-@Chuyên ngành kinh tế
--đồ trang sức linh tinh
--đồ trang trí ít có giá trị
--đồ trang trí ít giá trị
+linearize
+	
+* ngoại động từ
+- chuyển thành tuyến tính; chuyển thành phương trình tuyến tính
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tạo mạch thẳng
+-tuyến tính hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-tạo mạch thẳng
+-tuyến tính hóa
+

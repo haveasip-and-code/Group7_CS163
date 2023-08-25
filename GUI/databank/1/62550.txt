@@ -1,40 +1,7 @@
-wax	@wax /wæks/
-*  danh từ
-- sáp ong ((cũng) beeswax)
-- chất sáp
-=vegetable wax+ sáp thực vật
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) đĩa hát
-!like wax in someone's hands
-- bị ai sai khiến, cho tròn được tròn bắt méo phải méo
-*  ngoại động từ
-- đánh sáp, đánh bóng bằng sáp, bôi sáp, vuốt sáp
-=to wax a table+ đánh bóng bàn bằng sáp
-=to wax a thread+ vuốt sáp một sợi chỉ
-*  nội động từ
-- tròn dần (trăng)
-=the moon waxes and wanes+ mặt trăng khi tròn khi khuyết
-- (từ cổ,nghĩa cổ) trở nên
-=to wax merry+ trở nên vui vẻ
-=to wax indignant+ nổi cơn phẫn nộ
-*  danh từ
-- (từ lóng) cơn giận
-=to be in a wax+ đang nổi giận
-=to get in a wax+ nổi giận
-=to put someone in a wax+ làm cho ai nổi giận
-@Chuyên ngành kinh tế
--parafin
--sáp ong
-@Chuyên ngành kỹ thuật
--bôi sáp
--làm bóng bằng sáp
--nến
--parafin
--sáp
--sáp (từ dầu mỏ)
-@Lĩnh vực: hóa học & vật liệu
--chất sáp
--sáp ong
-@Lĩnh vực: y học
--sáp, nền
-@Lĩnh vực: điện
--tẩm sáp
+trove
+	
+* tính từ
+- tìm ra
+* danh từ
+- vật tìm ra
+

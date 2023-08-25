@@ -1,5 +1,10 @@
-dimmed	
+dialog
+	
+- hội thoại
 @Chuyên ngành kỹ thuật
--bị mờ
--được làm mờ
--được nhúng
+-sự đối thoại
+-sự hội thoại
+-sự tương tác
+@Lĩnh vực: toán & tin
+-cuộc đối thoại
+

@@ -1,7 +1,11 @@
-municipality	@municipality /mju:,nisi'pæliti/
+faceted
+	
 *  danh từ
-- đô thị tự trị, thành phố tự trị
-- chính quyền thành phố tự trị, chính quyền đô thị tự trị
-@Chuyên ngành kinh tế
--khu tự trị
--thành phố tự trị
+- có nhiều mặt (kim cương...)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-có nhiều mặt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: cơ khí & công trình
+-có nhiều mặt
+

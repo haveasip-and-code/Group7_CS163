@@ -1,8 +1,18 @@
-concernment	
-@concernment /kən'sə:nmənt/
+centigram
+	
 *  danh từ
-- việc
-- tầm quan trọng=a matter of vital concernment
-+ vấn đề có tầm quan trọng lớn, vấn đề sinh tử
-- lợi lộc; phần
-- sự lo lắng, sự lo âu
+- xentigam
+@Chuyên ngành kinh tế
+-cen
+-ti
+-gam
+-phần trăm gam
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-centi
+-gram (phần trăm gam)
+@Lĩnh vực: đo lường & điều khiển
+-centi
+-gram (phần trăm gram)
+-xentigam
+

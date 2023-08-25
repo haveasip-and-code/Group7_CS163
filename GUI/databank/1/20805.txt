@@ -1,23 +1,5 @@
-ferry	
-@ferry /'feri/
-*  danh từ
-- bến phà
-- phà
-- (pháp lý) quyền chở phà
-*  ngoại động từ
-- chở (phà)
-- chuyên chở (hàng, người...) bằng phà; qua (sông...) bằng phà
-- (hàng không) lái (máy bay mới) ra sân bay
-*  nội động từ
-- qua sông bằng phà
-- đi đi lại lại từ bên này sang bên kia sông (thuyền...)
-@Chuyên ngành kỹ thuật
--bến phà
--phà
-@Lĩnh vực: giao thông & vận tải
--phà xe lửa
-@Chuyên ngành kỹ thuật
--bến phà
--phà
-@Lĩnh vực: giao thông & vận tải
--phà xe lửa
+overladen
+	
+*  tính từ
+- chất quá nặng
+

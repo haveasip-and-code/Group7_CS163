@@ -1,3 +1,15 @@
-perphenazine	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--loại thuốc an thần chính
+affirmative
+	
+*  tính từ
+- khẳng định; quả quyết
+=an affirmative answer
++ câu trả lời khẳng định
+*  danh từ
+- lời khẳng định; lời nói "ừ" , lời nói "được"
+=to answer in the affirmative
++ trả lời ừ, trả lời được
+@Chuyên ngành kỹ thuật
+-khẳng định
+@Lĩnh vực: toán & tin
+-xác nhận (tín hiệu)
+

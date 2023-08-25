@@ -1,11 +1,26 @@
-furnisher	
-@furnisher
-* danh từ
-- người trang bị, người cung cấp
-- thương nhân bán đồ dùng trong nhà; thương nhân bán đồ trang sức
+entity
+	
+*  danh từ
+- thực thể
+- sự tồn tại (của một vật)
 @Chuyên ngành kinh tế
--người bán đồ nội thất
--người cung cấp
--người cung ứng
--người kinh doanh đồ đạc (mới)
--người trang bị
+-thực thể
+@Chuyên ngành kỹ thuật
+-đại lượng
+-đối tượng
+-phần tử
+-vật thể
+@Lĩnh vực: toán & tin
+-bản thể
+@Lĩnh vực: xây dựng
+-sự vật
+@Chuyên ngành kỹ thuật
+-đại lượng
+-đối tượng
+-phần tử
+-vật thể
+@Lĩnh vực: toán & tin
+-bản thể
+@Lĩnh vực: xây dựng
+-sự vật
+

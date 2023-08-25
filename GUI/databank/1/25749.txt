@@ -1,5 +1,6 @@
-higher	
-@higher
-- cao hơn, có cấp cao hơn
-@Chuyên ngành kỹ thuật
--cao hơn
+tiered
+	
+* tính từ
+- xếp thành dãy, xếp thành hàng
+- (trong từ ghép) có số tầng, lớp được nói rõ
+

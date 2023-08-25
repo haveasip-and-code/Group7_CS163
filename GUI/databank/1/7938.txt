@@ -1,4 +1,39 @@
-carbolic	
+multiple
+	
+*  tính từ
+- nhiều, nhiều mối, phức tạp
+=multiple shop
++ cửa hàng có nhiều chi nhánh
+*  danh từ
+- (toán học) bội số
+=least common multiple
++ bội số chung nhỏ nhất
+@Chuyên ngành kinh tế
+-bội số
+-đa dạng
+-đa trùng
+-kép
+-phức hợp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--cacbolic
+-bội số
+-cực bội
+-đa
+-đa công
+-nhân
+-nhiều
+-nhiều lần
+-nối song song
+-mức bội
+-tổ hợp
+@Lĩnh vực: toán & tin
+-bội
+-bội, bội số
+-nhiều đầu (mối)
+-phức số
+@Lĩnh vực: điện lạnh
+-được mắc sun
+@Lĩnh vực: điện tử & viễn thông
+-nhiều hành trình
+@Lĩnh vực: xây dựng
+-nhiều lớp (tầng)
+

@@ -1,10 +1,22 @@
-signaling	@Chuyên ngành kỹ thuật
--báo hiệu điện thoại (Mỹ)
--sự báo hiệu
--sự đánh tín hiệu
--sự phát tín hiệu
--sự truyền tín hiệu
-@Lĩnh vực: toán & tin
--sự tín hiệu hóa
-@Lĩnh vực: điện tử & viễn thông
--truyền tín hiệu
+fragment
+	
+*  danh từ
+- mảnh, mảnh vỡ
+=to be smashed to fragments
++ bị đập vụn thành mảnh
+=the fragments of a meal
++ thức ăn thừa
+- khúc, đoạn, mấu (của cái gì không liên tục hay chưa hoàn thành)
+=fragments of conversation
++ những đoạn (không mạch lạc) của câu chuyện
+- tác phẩm chưa hoàn thành
+@Chuyên ngành kỹ thuật
+-đoạn
+-làm vỡ vụn
+-mảnh
+-mảnh vỡ
+-mảnh vụn
+-miếng
+@Lĩnh vực: cơ khí & công trình
+-mảnh vở
+

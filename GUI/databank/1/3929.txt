@@ -1,13 +1,11 @@
-audibility	
-@audibility /,ɔ:di'biliti/ (audibleness) /'ɔ:dəblnis/
-*  danh từ
-- sự có thể nghe thấy
-- độ nghe rõ, giới hạn nghe
+profitless
+	
+*  tính từ
+- không có lợi, vô ích
+- không có lãi
+@Chuyên ngành kinh tế
+-không có lời
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--độ khả thính
--độ nghe được
-@Lĩnh vực: toán & tin
--độ nghe rõ
-@Lĩnh vực: xây dựng
--tính nghe được
+-không sinh lợi
+-vô ích
+

@@ -1,8 +1,9 @@
-jaunt	
-@jaunt /dʤɔ:nt/
+autotype
+	
 *  danh từ
-- cuộc đi chơi
-*  nội động từ
-- đi chơi
-@Chuyên ngành kinh tế
--cuộc đi chơi
+- bản sao đúng
+- thuật in ảnh
+*  ngoại động từ
+- sao đúng
+- in ảnh
+

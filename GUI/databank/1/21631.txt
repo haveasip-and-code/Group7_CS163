@@ -1,13 +1,8 @@
-flurry	
-@flurry /flurry/
-*  danh từ
-- cơn gió mạnh; (từ Mỹ,nghĩa Mỹ) cơn mưa dông bất chợt; trận mưa tuyết bất chợt
-- sự nhộn nhịp, sự náo động; sự xôn xao, sự bối rối
-- cơn giãy chết của cá voi
-- sự lên giá xuống giá bất chợt (ở thị trường chứng khoán)
-*  ngoại động từ
-- làm nhộn nhịp, làm náo động; làm xôn xao, làm bối rối
-@Chuyên ngành kinh tế
--sự náo động
-@Chuyên ngành kỹ thuật
--cơn gió mạnh
+scholium
+	
+*  danh từ,  số nhiều scholia
+/'skouljə/
+- lời chú giải (văn học cổ điển Hy
+-lạp  La
+-mã)
+

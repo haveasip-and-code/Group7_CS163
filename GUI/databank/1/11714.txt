@@ -1,19 +1,5 @@
-converse	
-@converse
-* nội động từ
-- nói chuyện, chuyện trò
-* danh từ
-- <toán> đảo đề
-* tính từ
-- trái ngược, nghịch đảo
-@Chuyên ngành kỹ thuật
--chuỗi hội tụ
--đảo
--định lý đảo
--hội thoại
--nghịch
-@Lĩnh vực: điện lạnh
--giá trị ngược
--phần đảo
-@Lĩnh vực: xây dựng
--trái
+corroboratory
+	
+*  tính từ
+- để làm chứng, để chứng thực; để làm vững thêm
+

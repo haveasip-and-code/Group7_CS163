@@ -1,3 +1,8 @@
-payout	@Chuyên ngành kinh tế
--tiền chi trợ cấp
--tiền xuất chi
+militia
+	
+*  danh từ
+- dân quân
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-dân quân
+

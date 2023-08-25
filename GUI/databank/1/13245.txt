@@ -1,7 +1,9 @@
-cutline	
+mesosphere
+	
+* danh từ
+- (khí tượng) tầng giữa của khí quyển
 @Chuyên ngành kỹ thuật
--ghi chú
-@Lĩnh vực: toán & tin
--chú giải
--chú thích
--phụ đề
+-quyển giữa
+@Lĩnh vực: điện lạnh
+-tầng giữa
+

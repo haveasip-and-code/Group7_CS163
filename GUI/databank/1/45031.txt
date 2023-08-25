@@ -1,6 +1,6 @@
-quag	@quag /kwæg/
-*  danh từ
-- đầm lầy, bãi lầy ((cũng) quagmire)
-@Chuyên ngành kỹ thuật
--bãi lầy
--đầm lầy
+brushability
+	
+@Lĩnh vực: xây dựng
+-tính chải được
+-tính quét được
+

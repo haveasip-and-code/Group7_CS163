@@ -1,19 +1,8 @@
-irreversible	
-@irreversible /,iri'və:səbl/
-*  tính từ
-- không thể đảo ngược lại; không thể thay đổi được
-- (hoá học) không thuận nghịch
+caoutchouc
+	
+*  danh từ
+- cao su
 @Chuyên ngành kỹ thuật
--không đảo chiều được
--không đảo lại
--không đảo ngược được
--không thuận nghịch
-@Lĩnh vực: xây dựng
--không hồi phục
-@Lĩnh vực: toán & tin
--không khả nghịch
-@Lĩnh vực: cơ khí & công trình
--không quay lại được
-@Lĩnh vực: y học
--không thể đảo ngược
--không thể phục hồi
+@Lĩnh vực: hóa học & vật liệu
+-cao su
+

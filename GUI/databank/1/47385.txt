@@ -1,12 +1,4 @@
-retrofit	@retrofit
-* ngoại động từ
-- trang bị thêm những bộ phận mới (máy bay)
-@Chuyên ngành kinh tế
--chỉnh bị lại
-@Chuyên ngành kỹ thuật
--bổ sung
--kiểm trang
--sự bổ sung sau
--thiết bị hỗ trợ
-@Lĩnh vực: điện
--cải tiến (bằng cách mở rộng chức năng thiết bị)
+isobars
+	
+-đường đẳng áp
+

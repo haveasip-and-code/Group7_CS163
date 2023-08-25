@@ -1,13 +1,13 @@
-rotate	@rotate /rou'teit/
-*  động từ
-- quay, xoay quanh
-- luân phiên nhau
-=to rotate the crops+ trồng luân phiên, luân canh
-*  tính từ
-- (thực vật học) có hình bánh xe
+cryogenic
+	
+- (Tech) thuộc siêu hàn, cryôgênic
 @Chuyên ngành kỹ thuật
--bị quay
--quay
--xoay
-@Lĩnh vực: toán & tin
--quay, xoay
+-làm lạnh
+-làm lạnh cryo
+-làm lạnh sâu
+-lạnh cryo
+-lạnh sâu
+-nhiệt độ thấp
+@Lĩnh vực: điện lạnh
+-cryo
+

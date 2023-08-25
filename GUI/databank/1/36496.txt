@@ -1,16 +1,11 @@
-negation	@negation /ni'geiʃn/
-*  danh từ
-- sự phủ định, sự phủ nhận
-- sự cự tuyệt, sự từ chối
-- sự phản đối
-- sự không tồn tại
-- vật không có
-- cái tiêu cực
-@Chuyên ngành kỹ thuật
--phủ định
--sự phủ định
--sự từ chối
-@Lĩnh vực: toán & tin
--phép đảo
--phép phủ định
--phép toán Not
+churlish
+	
+*  tính từ
+- (thuộc) người hạ đẳng, (thuộc) tiện dân
+- thô tục, thô bỉ, mất dạy
+- cáu kỉnh
+- keo cú, bủn xỉn
+- (từ Mỹ,nghĩa Mỹ) khó cày
+=churlish soil
++ đất khó cày
+

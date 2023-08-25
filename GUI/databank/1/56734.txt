@@ -1,29 +1,8 @@
-tin	@tin /tin/
-*  danh từ
-- thiếc
-- sắt tây; giấy thiếc
-- hộp thiếc, hộp sắt tây
-=a tin of sardine+ hộp cá trích
-- (từ lóng) tiền
-*  ngoại động từ
-- tráng thiếc
-- đóng hộp
-=tinned food+ đồ hộp
-@Chuyên ngành kinh tế
--dụng cụ bằng thiếc
--hộp sắt tây
--khuôn nướng bánh mì
--thiếc, hộp, đồ hộp, tiền, vô hộp, đóng hộp
-@Chuyên ngành kỹ thuật
--bình
--đóng hộp
--hộp
--hộp sắt tây (đựng đồ hộp)
--lọ
--nhúng thiếc
--mạ thiếc
--tráng thiếc
-@Lĩnh vực: cơ khí & công trình
--đồ thiếc
-@Lĩnh vực: toán & tin
--thiếc, mạ, xi thiếc
+hep
+	
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) biết thừa, biết tỏng
+=to be hep to someone's trick
++ biết tỏng cái trò chơi khăm của ai
+- am hiểu những cái mới
+

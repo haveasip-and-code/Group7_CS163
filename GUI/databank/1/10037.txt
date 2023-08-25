@@ -1,10 +1,7 @@
-cocking	
-@Chuyên ngành kỹ thuật
--độ nghiêng
--góc lệch
--sự lệch
-@Lĩnh vực: xây dựng
--sự ghép bằng mộng
-@Lĩnh vực: cơ khí & công trình
--sự lên cò súng
--sự vểnh lên
+sphinx
+	
+*  danh từ,  số nhiều sphinxes,  sphinges
+- (thần thoại,thần học) Xphanh (quái vật đầu đàn bà, mình sư tử)
+- (the Sphinx) tượng Xphanh (ở Ai cập)
+- người bí hiểm, người khó hiểu
+

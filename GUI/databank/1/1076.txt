@@ -1,8 +1,22 @@
-affine	
-@affine
-- afin
+soup
+	
+*  danh từ
+- xúp, canh; cháo
+=meat soup
++ cháo thịt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) Nitroglyxerin
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trời mây mù dày đặc và có mưa (máy bay không bay được...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) khả năng chạy nhanh
+=this new car has plenty of soup
++ chiếc xe ô tô mới này chạy nhanh lắm
+!to be in the soup
+- (từ lóng) ở trong tình trạng khó khăn
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ((thường) 
++ up) tăng khả năng chạy nhanh cho (xe ô tô...)
 @Chuyên ngành kinh tế
--tinh luyện
+-canh
+-súp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--afin
+-canh
+

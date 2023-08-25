@@ -1,4 +1,23 @@
-isobutylene	
+woody
+	
+*  tính từ
+- có lắm rừng, lắm cây cối
+=a woody hillside
++ một sườn đồi lắm cây
+- (thuộc) rừng
+=a woody nook
++ một góc rừng
+=a woody plant
++ cây rừng
+=a woody plant
++ một con đường rừng
+- (thực vật học) (thuộc) chất gỗ
+=a woody tissue
++ mô gỗ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--isobutylene ((CH3)2CCH3)
+-chất gỗ
+-gỗ
+-làm bằng gỗ
+-lắm rừng
+-nhiều cây
+

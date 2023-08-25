@@ -1,7 +1,8 @@
-dens	
-@dens
-* danh từ số nhiều
-- răng= dens serotinus
-+răng khôn
+foreshorten
+	
+*  ngoại động từ
+- vẽ rút gọn lại (theo luật xa gần)
 @Chuyên ngành kỹ thuật
--răng
+@Lĩnh vực: xây dựng
+-vẽ phối cảnh
+

@@ -1,6 +1,6 @@
-polymorph	@polymorph
-* danh từ
-- chất đa hình; bạch cầu nhiều dạng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bạch cầu đa hình (bạch cầu nhân đa hình)
+dipstick
+	
+-que đo độ sâu
+@Lĩnh vực: ô tô
+-que thăm nhớt
+

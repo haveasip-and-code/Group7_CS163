@@ -1,5 +1,31 @@
-cyclization	
+whistle
+	
+*  danh từ
+- sự huýt sáo; sự huýt còi; sự thổi còi; tiếng huýt gió; tiếng còi
+- tiếng hót (chim); tiếng rít (gió); tiếng réo (đạn)
+- tiếng còi hiệu
+- cái còi
+- (thông tục) cổ, cuống họng
+*  nội động từ
+- huýt sáo; huýt còi, thổi còi
+- hót (chim); rít (gió); réo (đạn)
+*  ngoại động từ
+- huýt sáo; huýt gió gọi
+=to whistle a song
++ huýt sáo một bài hát
+=to whistle a dog
++ huýt gió gọi chó
+!to whistle for
+- huýt gió để gọi
+!to whistle past
+- vèo qua (đạn)
+!to shistle someone down the wind
+- bỏ ri người nào
+!you can whistle for it
+- thôi không mong gì được đâu
 @Chuyên ngành kỹ thuật
--tạo vòng
-@Lĩnh vực: hóa học & vật liệu
--đóng vòng
+-cái còi
+-tiếng rít
+@Lĩnh vực: điện tử & viễn thông
+-tiếng còi
+

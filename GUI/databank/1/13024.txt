@@ -1,14 +1,13 @@
-culvert	
-@culvert /'kʌlvət/
+ogive
+	
 *  danh từ
-- cống nước
-- ống dây điện ngầm
+- hình cung nhọn; vòm hình cung nhọn
 @Chuyên ngành kỹ thuật
--cống
--đường dẫn nước
--đường ống
--đường ống dẫn nước
--hành lang dẫn nước
--máng tháo nước
--ống cống nước
--ống tháo nước
+-hình cung nhọn
+-mũi tên vòm
+-vòm cung nhọn
+@Lĩnh vực: xây dựng
+-cuốn mũi tên
+-cuốn nhọn
+-mũi tên cuốn
+

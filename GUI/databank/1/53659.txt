@@ -1,43 +1,6 @@
-stream	@stream /stri:m/
-*  danh từ
-- dòng suối, dòng sông nhỏ
-- dòng, luồng
-=stream of people+ dòng người
-=the stream of time+ dòng thời gian
-=a stream of cold air+ luồng không khí lạnh
-=a stream of light+ luồng ánh sáng
-- chiều nước chảy, dòng
-=against the stream+ ngược dòng
-=to go with the stream+ theo dòng; (bóng) làm theo những người khác
-*  nội động từ
-- chảy như suối, chảy ròng ròng; chảy ra, trào ra, tuôn ra
-=eyes streaming with tears+ mắt trào lệ
-=light streamed through the window+ ánh sáng ùa vào qua cửa sổ
-- phấp phới, phất phơ (cờ, tóc)
-*  ngoại động từ
-- làm chảy ra như suối, làm chảy ròng ròng; làm chảy ra, làm trào ra, làm tuôn ra
-=wounds streaming blood+ vết thương trào máu
-@Chuyên ngành kinh tế
--dòng
--luồng
-@Chuyên ngành kỹ thuật
--chảy
--chảy ra
--chảy thành dòng
--chuỗi dữ liệu
--dòng
--dòng chảy
--dòng dữ liệu
--dòng sông
--luồng
--luồng chảy
--luồng dữ liệu
--sự chảy
--suối
-@Lĩnh vực: xây dựng
--chiều nước chảy
--tuôn ra
-@Lĩnh vực: y học
--dòng, luồng, thông lượng
-@Lĩnh vực: toán & tin
--theo dòng
+lipped
+	
+*  tính từ
+- có vòi (ấm)
+- (như) labiate
+

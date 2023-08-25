@@ -1,10 +1,20 @@
-antithetical	
-@antithetical /,ænti'θetik/ (antithetical) /,ænti'θetikəl/
-*  tính từ
-- (thuộc) phép đối chọi
-- phản đề
-- có hai mặt đối nhau, đối nhau
+tenant
+	
+*  danh từ
+- người thuê mướn (nhà, đất...)
+- tá điền
+- người ở, người chiếm cứ
+*  ngoại động từ
+- thuê (nhà, đất)
+- ở, ở thuê
+@Chuyên ngành kinh tế
+-mướn
+-người hưởng dụng
+-người thuê
+-người thuê (nhà, đất, ...)
+-ở (nhà) thuê
+-thuê
 @Chuyên ngành kỹ thuật
--mâu thuẫn
-@Lĩnh vực: toán & tin
--phản (luận) đề
+-người thuê (nhà, đất)
+-người thuê nhà
+

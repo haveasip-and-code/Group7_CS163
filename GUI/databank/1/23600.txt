@@ -1,6 +1,5 @@
-glioma	
-@glioma
+processability
+	
 * danh từ
-- u thần kinh đệm
-@Chuyên ngành kỹ thuật
--u thần kinh đệm
+- tình trạng có thể gia công, tình trạng có thể xử lý
+

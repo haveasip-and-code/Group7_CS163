@@ -1,11 +1,6 @@
-dissection	
-@dissection /di'sekʃn/
-*  danh từ
-- sự cắt ra từng mảnh, sự chặt ra từng khúc
-- sự mổ xẻ, sự giải phẫu (con vật, thân cây)
-- sự mổ xẻ, sự phân tích kỹ, sự khảo sát tỉ mỉ, sự phê phán từng li từng tí
-@Chuyên ngành kỹ thuật
--chia cắt
--sự cắt
-@Lĩnh vực: y học
--sự giải phẫu
+monetise
+	
+*  ngoại động từ
+- đúc thành tiền
+- cho lưu hành làm tiền tệ
+

@@ -1,4 +1,9 @@
-deconsecrate	
-@deconsecrate /di:'kɔnsikreit/
-*  ngoại động từ
-- hoàn tục; đem dùng vào việc thế tục (nhà thờ, tài sản của nhà chung...)
+tracker
+	
+*  danh từ
+- người săn thú; người bắt thú
+- người theo dõi, người lùng bắt
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện tử & viễn thông
+-máy theo dõi
+

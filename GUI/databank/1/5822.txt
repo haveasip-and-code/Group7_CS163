@@ -1,21 +1,7 @@
-blanking	
-@blanking
-- (Tech) xóa (d)
-@Chuyên ngành kỹ thuật
--bán thành phẩm
--dùi
--khuôn
--phôi
--sự cắt
--sự chắn
--sự dập
--sự khóa
--sự khóa tia
--sự triệt
--sự xóa chùm
-@Lĩnh vực: toán & tin
--làm trống
--sự làm cho trống
--tắt tín hiệu
-@Lĩnh vực: điện tử & viễn thông
--sự xóa
+casket
+	
+*  danh từ
+- hộp tráp nhỏ (để đựng đồ tư trang...)
+- (từ Mỹ,nghĩa Mỹ) quan tài hạng tốt
+- bình đựng tro hoả táng
+

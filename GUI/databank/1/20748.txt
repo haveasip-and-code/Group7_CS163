@@ -1,10 +1,19 @@
-feracity	
-@feracity /fə'ræsiti/
+initiate
+	
 *  danh từ
-- sự màu m
+- người đã được vỡ lòng, người đã được khai tâm, người được bắt đầu làm quen với một bộ môn
+- người đã được làm lễ kết nạp; người đã được thụ giáo
+*  tính từ
+- đã được vỡ lòng, đã được khai tâm, đã được bắt đầu làm quen với (một bộ môn khoa học...)
+- đã được làm lễ kết nạp; đã được thụ giáo
+*  ngoại động từ
+- bắt đầu, khởi đầu, đề xướng
+- vỡ lòng, khai tâm, bắt đầu làm quen cho (ai về một bộ môn gì...)
+- làm lễ kết nạp; làm lễ thụ giáo cho (ai)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự màu mỡ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự màu mỡ
+-bắt đầu
+-khởi đầu
+-mồi nổ
+@Lĩnh vực: xây dựng
+-khởi xướng
+

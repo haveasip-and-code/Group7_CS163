@@ -1,9 +1,8 @@
-periodically	@periodically
-* phó từ
-- một cách định kỳ
+desugar
+	
+-khử đường
+-loại bỏ đường
 @Chuyên ngành kỹ thuật
--có chu kỳ
-@Lĩnh vực: toán & tin
--một cách định kỳ
--một cách tuần hoàn
--theo chu kỳ
+@Lĩnh vực: hóa học & vật liệu
+-tách đường
+

@@ -1,13 +1,10 @@
-schema	@schema /'ski:mə/
-*  danh từ,  số nhiều schemata
-/'ski:mətə/
-- lược đồ, giản đồ, sơ đồ
-@Chuyên ngành kỹ thuật
--giản đồ
--lược đồ
--mạch điện
--sơ đồ
-@Lĩnh vực: y học
--sơ đồ, biểu đồ, giản đồ
-@Lĩnh vực: toán & tin
--sơ đồ, lược đồ
+forehand
+	
+*  tính từ
+- thuận tay
+=a forehand stroke
++ (thể dục,thể thao) cú tin (quần vợt)
+*  danh từ
+- nửa mình trước (cá ngựa)
+- (thể dục,thể thao) cú tin (quần vợt)
+

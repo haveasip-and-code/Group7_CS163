@@ -1,9 +1,13 @@
-sloop	@sloop /slu:t/
+resistor
+	
 *  danh từ
-- thuyền nhỏ một buồm
-- tàu tuần tra
-=sloop of war+ (sử học) tàu chiến nhẹ
+- (vật lý) cái điện trở
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--tàu một buồm
--thuyền một buồm
+-cái điện trở
+-điện kháng
+-điện trở
+-điện trở (giá trị)
+-điện trở (linh kiện)
+@Lĩnh vực: cơ khí & công trình
+-bộ điện trở
+

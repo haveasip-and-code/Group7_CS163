@@ -1,10 +1,9 @@
-heuristics	
-@heuristics
-* danh từ
-- phương pháp giải quyết vấn đề bằng cách đánh giá kinh nghiệm, và tìm giải pháp qua thử nghiệm và rút tỉa khuyết điểm
+radon
+	
+*  danh từ
+- (hoá học) Rađơn
 @Chuyên ngành kỹ thuật
--phỏng đoán
--tự tìm tòi
-@Lĩnh vực: toán & tin
--ơristic
--suy nghiệm
+-Rn
+@Lĩnh vực: hóa học & vật liệu
+-Nguyên tố hóa học phóng xạ (ký hiệu Ra)
+

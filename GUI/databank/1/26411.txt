@@ -1,12 +1,5 @@
-humidifier	
-@humidifier /hju:'midifaiə/
-*  danh từ
-- cái làm ẩm; máy giữ độ ẩm không khí
-@Chuyên ngành kinh tế
--máy làm ẩm
-@Chuyên ngành kỹ thuật
--máy hút ẩm
-@Lĩnh vực: hóa học & vật liệu
--bộ làm ẩm
-@Lĩnh vực: điện lạnh
--máy điều ẩm
+halophile
+	
+* danh từ
+- thực vật ưa mặn
+

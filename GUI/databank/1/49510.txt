@@ -1,9 +1,10 @@
-sectorial	@sectorial
-* tính từ
-- (thuộc) hình quạt
-- (quân sự) (thuộc) quân khu
-- (thuộc) khu vực, lĩnh vực
+intelligible
+	
+*  tính từ
+- dễ hiểu
+- (triết học) chỉ có thể nhận thức được bằng trí óc
 @Chuyên ngành kỹ thuật
--ngành
-@Lĩnh vực: điện
--có hình dạng quạt
+-dễ hiểu
+@Lĩnh vực: toán & tin
+-hiểu được
+

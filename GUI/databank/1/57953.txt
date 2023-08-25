@@ -1,4 +1,42 @@
-tropics	@Chuyên ngành kinh tế
--vùng/miền nhiệt đới
+stress
+	
+*  danh từ
+- sự nhấn mạnh
+=to lay stress on something
++ nhấn mạnh một điều gì
+- (ngôn ngữ học) trọng âm; âm nhấn
+- sự cố gắng, sự đòi hỏi bỏ nhiều sức lự
+=subjected to great stress
++ phải cố gắng nhiều
+- sự bắt buộc
+=under stress of weather
++ vì thời tiết bắt buộc
+- (kỹ thuật) ứng suất
+!times of slackness and times of stress
+- những lúc dềnh dang và những lúc khẩn trương
+*  ngoại động từ
+- nhấn mạnh (một âm, một điểm...)
+- (kỹ thuật) cho tác dụng ứng suất
+@Chuyên ngành kinh tế
+-sự căng thẳng
 @Chuyên ngành kỹ thuật
--vùng nhiệt đới
+-áp lực
+-áp lực hông
+-áp lực một phía
+-điện áp
+-gây ứng suất
+-kéo căng
+-kẹp chặt
+-nén
+-sức căng
+-sức xăng
+-ứng lực
+-ứng suất
+-ứng suất (cơ)
+@Lĩnh vực: điện
+-chịu ứng suất
+-sự căng thẳng
+@Lĩnh vực: toán & tin
+-ứng suất ứng lực
+-ứng suất, ứng lực
+

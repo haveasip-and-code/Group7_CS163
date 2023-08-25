@@ -1,9 +1,9 @@
-hydrolysis	
-@hydrolysis /hai'drɔlisis/
-*  danh từ
-- (hoá học) sự thuỷ phân
-@Chuyên ngành kinh tế
--sự thủy phân
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự thủy phân
+overstressing
+	
+@Lĩnh vực: hóa học & vật liệu
+-chịu quá ứng suất
+-siêu ứng suất
+@Lĩnh vực: xây dựng
+-kéo căng quá mức
+-ứng suất quá cao
+

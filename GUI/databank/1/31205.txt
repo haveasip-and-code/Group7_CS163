@@ -1,9 +1,8 @@
-kwashiorkor	@kwashiorkor
-* danh từ
-- chứng suy dinh dưỡng ở trẻ em
+variational
+	
+* tính từ
+- xem variation
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--suy dinh dưỡng do thiếu protein và các thực phẩm sinh năng lượng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--suy dinh dưỡng do thiếu protein và các thực phẩm sinh năng lượng
+@Lĩnh vực: toán & tin
+-biến phân
+

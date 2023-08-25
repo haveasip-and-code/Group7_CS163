@@ -1,16 +1,5 @@
-lawyer	@lawyer /'lɔ:jə/
-*  danh từ
-- luật sư
-- luật gia
-@Chuyên ngành kinh tế
--cá tuyết sông
--chưởng khế
--cố vấn luật pháp
--cố vấn phá luật
--công chứng viên
--luật sư
--trưởng khế
-@Chuyên ngành kỹ thuật
--luật sư
-@Chuyên ngành kỹ thuật
--luật sư
+unstrap
+	
+* ngoại động từ
+- mở, nới (dây da, thắt lưng, ...)
+

@@ -1,43 +1,18 @@
-farm	
-@farm /fɑ:m/
+inn
+	
 *  danh từ
-- trại, trang trại, đồn điền
-- nông trường=a collective farm
-+ nông trường tập thể=a state farm
-+ nông trường quốc doanh
-- khu nuôi thuỷ sản
-- trại trẻ
-- (như) farm
--house
+- quán trọ, khách sạn nhỏ (ở nông thôn, thị trấn)
+- (Inn) nhà nội trú (của học sinh đại học)
 *  ngoại động từ
-- cày cấy, trồng trọt
-- cho thuê (nhân công)
-- trông nom trẻ em (ở trại trẻ)
-- trưng (thuê)
+- (từ Mỹ,nghĩa Mỹ) cho ở trọ
 *  nội động từ
-- làm ruộng
+- (từ Mỹ,nghĩa Mỹ) ở trọ
 @Chuyên ngành kinh tế
--đồn điền
--nông trại
--nông trang
--nông trường
--sự trồng trọt
--trang trại
+-khách sạn nhỏ
+-lữ quán
+-quán trọ
 @Chuyên ngành kỹ thuật
--ấp
--điền trang
--nông trại
--nông trang
--nông trường
--trang trại
 @Lĩnh vực: xây dựng
--trại
-@Chuyên ngành kỹ thuật
--ấp
--điền trang
--nông trại
--nông trang
--nông trường
--trang trại
-@Lĩnh vực: xây dựng
--trại
+-nhà khách
+-quán trọ
+

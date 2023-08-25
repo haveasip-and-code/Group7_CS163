@@ -1,5 +1,24 @@
-microprogramming	@microprogramming
-- (máy tính) vi chương trình hoá
+hydraulic
+	
+*  tính từ
+- (thuộc) nước (dẫn qua ống dẫn hoặc sông đào); chạy bằng sức nước
+=hydraulic tubine
++ tuabin nước
+=hydraulic generator
++ máy thuỷ điện
+=hydraulic mining
++ sự khai mỏ bằng sức nước
+- cứng trong nước
+=hydraulic cement
++ xi măng cứng trong nước
+@Chuyên ngành kinh tế
+-thuộc về thủy lực
+-thủy lực học
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--vi lập trình
+-thủy động
+@Lĩnh vực: ô tô
+-bằng thủy lực
+@Lĩnh vực: điện lạnh
+-chạy bằng sức nước
+-thủy lực học
+

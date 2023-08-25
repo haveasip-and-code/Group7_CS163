@@ -1,9 +1,5 @@
-milled	@Chuyên ngành kinh tế
--đập
--nghiền
-@Chuyên ngành kỹ thuật
--được cán
--được phay
--được tán
-@Lĩnh vực: xây dựng
--được nghiền
+micropyle
+	
+@Lĩnh vực: y học
+-lỗ noãn
+

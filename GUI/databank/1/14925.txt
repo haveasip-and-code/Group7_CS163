@@ -1,6 +1,8 @@
-deterministic	
-@deterministic
-- xem determinism
+unperturbed
+	
+*  tính từ
+- không đảo lộn, không xáo trộn
+- không xôn xao, không xao xuyến, không lo sợ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tất định
+-không bị nhiễu loạn
+

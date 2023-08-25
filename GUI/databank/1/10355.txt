@@ -1,18 +1,17 @@
-colony	
-@colony /'kɔləni/
+egress
+	
 *  danh từ
-- thuộc địa
-- kiều dân; khu kiều dân; khu (những người cùng nghề)
-- (động vật học) bầy, đàn, tập đoàn=a colony of ants
-+ đàn kiến
-- (thực vật học) khóm, cụm
-@Chuyên ngành kinh tế
--cụm
--khóm
--khuẩn lạc
+- sự ra
+- quyền ra vào
+- con đường ra ((nghĩa đen) & (nghĩa bóng))
+- (địa lý,địa chất) sự trồi ra trên mặt
+=kỹ egress of heat
++ sự toả nhiệt
 @Chuyên ngành kỹ thuật
--quần tộc
-@Lĩnh vực: y học
--cụm khuẩn
+-đường ra
+-lối ra
+-lối thoát
+-ra
 @Lĩnh vực: xây dựng
--thuộc địa
+-phương tiện thoát
+

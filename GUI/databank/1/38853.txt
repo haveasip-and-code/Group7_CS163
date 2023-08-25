@@ -1,35 +1,11 @@
-overlay	@overlay /'ouvəlei/
+galvanism
+	
 *  danh từ
-- vật phủ (lên vật khác)
-- khăn trải giường
-- khăn trải bàn nhỏ
-- (ngành in) tấm bìa độn (trên mặt máy in để in cho rõ hơn)
-- (Ê-cốt) cái ca-vát[,ouvəlei]
-*  ngoại động từ
-- che, phủ
-*  thời quá khứ của overlie
+- (vật lý) điện một chiều
+- (y học) phép chữa bằng dòng điện một chiều
 @Chuyên ngành kỹ thuật
--bề mặt thủy tinh
--che
--chồng chất
--đậy
--điều chỉnh khuôn chữ
--lớp lát
--lớp mạ
--lớp mặt
--lớp mòn
--lớp phủ
--lớp phủ thủy tinh
--màng bảo vệ
--màng bọc
--phủ
--phủ chờm
--phủ hình
--phủ lên
--phủ ngoài
--phủ nhau
--rải
--sự che
--sự chồng hình
--sự phủ
--sự xếp chồng
+@Lĩnh vực: toán & tin
+-điện lưu học
+@Lĩnh vực: điện
+-điênh hóa học
+

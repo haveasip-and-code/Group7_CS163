@@ -1,9 +1,96 @@
-deductible	
-@deductible
-* tính từ
-- có thể trừ đi, có thể khấu trừ
-- (bảo hiểm) mức miễn bồi thường
+floor
+	
+*  danh từ
+- sàn (nhà, cầu...)
+=dirt floor
++ sàn đất
+- tầng (nhà)
+- đáy
+=the ocean floor
++ đáy đại dương
+- phòng họp (quốc hội)
+- quyền phát biểu ý kiến (ở hội nghị)
+=to give somebody the floor
++ để cho ai phát biểu ý kiến
+=to take the floor
++ phát biểu ý kiến
+- giá thấp nhất
+!to cross the floor of the House
+- vào đảng phái khác
+!to mop the floor with someone
+- mop
+*  ngoại động từ
+- làm sàn, lát sàn
+=to floor a room with pine boards
++ lát sàn bằng ván gỗ thông
+- đánh (ai) ngã, cho (ai) đo ván
+- làm rối trí, làm bối rối
+=the question floored him
++ câu hỏi làm anh ta rối trí không trả lời được
+- bảo (học sinh không thuộc bài) ngồi xuống
+- vượt qua thắng lợi
+=to floor the paper
++ làm được bài thi
 @Chuyên ngành kinh tế
--có thể giảm trừ
--mức miễn bồi thường
--phải giảm...
+-bướm bột
+-giá sàn
+-giá tháp nhất
+-mức thấp nhất
+-nền giá
+-phòng giao dịch
+-sàn
+-sàn đáy (công
+-ten
+-nơ)
+-tầng
+@Chuyên ngành kỹ thuật
+-bậc (địa tầng)
+-bề mặt
+-công trình
+-đáy
+-đáy buồng âu
+-lát đường
+-lát sàn
+-nền
+-nền nhà
+-mặt phẳng
+-sàn (đóng tàu)
+-sân buồng âu
+-sàn gác
+-sàn xe
+-tấm sàn
+-tầng
+@Lĩnh vực: cơ khí & công trình
+-đáy (biển sông)
+-mặt bằng đáy
+@Lĩnh vực: xây dựng
+-lát nền
+-sàn
+-sàn tầng bậc
+-tầng (nhà)
+@Chuyên ngành kỹ thuật
+-bậc (địa tầng)
+-bề mặt
+-công trình
+-đáy
+-đáy buồng âu
+-lát đường
+-lát sàn
+-nền
+-nền nhà
+-mặt phẳng
+-sàn (đóng tàu)
+-sân buồng âu
+-sàn gác
+-sàn xe
+-tấm sàn
+-tầng
+@Lĩnh vực: cơ khí & công trình
+-đáy (biển sông)
+-mặt bằng đáy
+@Lĩnh vực: xây dựng
+-lát nền
+-sàn
+-sàn tầng bậc
+-tầng (nhà)
+

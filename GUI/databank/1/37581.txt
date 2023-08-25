@@ -1,3 +1,49 @@
-oddball	@oddball
-* danh từ
-- người kỳ quặc, người lập dị
+gutter
+	
+*  danh từ
+- máng nước, ống máng, máng xối (dưới mái nhà)
+- rânh nước (xung quanh nhà, hai bên đường phố...)
+- (nghĩa bóng) nơi bùn lầy nước đọng; cặn bã (xã hội)
+=the language of the gutter
++ giọng du côn đểu cáng
+=the manners of the gutter
++ tác phong du côn
+=to take the child out of the gutter; to raise the child from the gutter
++ đưa đứa bé ra khỏi chốn bùn lầy nước đọng
+*  ngoại động từ
+- bắc máng nước
+- đào rãnh
+*  nội động từ
+- chảy thành rãnh
+- chảy (nến)
+@Chuyên ngành kinh tế
+-máng
+-rãnh
+@Chuyên ngành kỹ thuật
+-kênh
+-khe cột
+-khoảng trắng
+-lò dọc
+-lỗ tháo nước
+-lòng sông
+-máng
+-máng nước
+-máng nước mưa
+-máng thoát nước
+-máng tiêu nước
+-máng xối
+-mương
+-mương tiêu nước
+-rãnh
+-rãnh thoát nước
+@Lĩnh vực: xây dựng
+-khe thoát nước
+-ống xối
+-rãnh nước
+@Lĩnh vực: toán & tin
+-lề bên trong
+@Lĩnh vực: cơ khí & công trình
+-rãnh máng chảy
+@Lĩnh vực: ô tô
+-rãnh mòn
+

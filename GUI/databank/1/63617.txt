@@ -1,3 +1,7 @@
-zonulas	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc vùng, thuộc vòng
+repairable
+	
+*  tính từ
+- có thể sửa chữa, có thể tu sửa
+- có thể sửa, có thể chuộc (lỗi, sai lầm)
+- có thể đền bù, có thể bồi thường (thiệt hại)
+

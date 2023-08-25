@@ -1,14 +1,19 @@
-path	@path
-- bước, đường đi; quỹ đạo
-- p. of continuous group quỹ đạo trong một nhóm liên tục
-- p. of a projectile đường đạn
-- asymptotic p. (giải tích) đường tiệm cận
-- closed p. đường đóng
-- edge p. đường gấp khúc, đường cạnh
-- free p. đường di động tự do
-- homotopic p.s đường đi đồng luân
-- inverse p. đường nghịch
-- mean free p. đường tự do trung bình
-- minimal p. đường cực tiểu
-- product p. đường tích
-- random p. đường đi ngẫu nhiên
+castle
+	
+*  danh từ
+- thành trì, thành quách
+- lâu dài
+- (đánh cờ) quân cờ thấp
+!castles in the air (in Spain)
+- lâu dài trên bãi cát; chuyện viển vông, chuyện không thực hiện được; mơ mộng hão huyền
+=to build castles in the air (in Spain)
++ xây lâu đài trên bãi cát, tính những chuyện viển vông
+@Chuyên ngành kỹ thuật
+-cái khóa
+-khóa vòm
+-khớp
+-lâu đài
+@Lĩnh vực: xây dựng
+-bộ khóa
+-pháo đài, lâu đài
+

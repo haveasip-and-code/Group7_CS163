@@ -1,8 +1,6 @@
-rinsing	@rinsing
-* danh từ
-- sự rửa/ súc/ giũ (quần áo)
-- (số nhiều) nước thải sau khi súc, rửa
+pseudorandom
+	
+- giả ngẫu nhiên
 @Chuyên ngành kỹ thuật
--sự cọ rửa
--sự rửa
--sự tráng
+-ngẫu nhiên giả
+

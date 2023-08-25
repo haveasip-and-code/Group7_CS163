@@ -1,6 +1,13 @@
-spikes	@spikes
-* danh từ, pl
-- giầy đinh (của vận động viên)
-- đinh dài, ghim dài (bằng kim loại)
-- bông (của ngũ cốc )
-- nhánh
+riverside
+	
+*  danh từ
+- bờ sông
+- (định ngữ) ở bờ sông, ven sông
+=a riverside hamlet
++ một xóm ven sông
+@Chuyên ngành kỹ thuật
+-bên sông
+-bờ sông
+-ở bờ sông
+-ở ven sông
+

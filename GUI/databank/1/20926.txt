@@ -1,5 +1,6 @@
-fictile	
-@fictile /'fiktail/
-*  tính từ
-- bằng đất sét, bằng gốm
-- (thuộc) nghề đồ gốm
+tradeable
+	
+-buôn bán
+-thuộc về sự buôn bán
+-thương mại
+

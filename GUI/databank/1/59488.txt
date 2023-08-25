@@ -1,8 +1,4 @@
-unevenly	@unevenly
-* phó từ
-- không bằng phẳng, không nhẵn, không đều, gồ ghề, gập ghềnh (đường, đất...)
-- <toán> lẻ (số)
-- không đồng dạng, không bằng nhau (vật thể, hình dáng...)
-- không cân sức (cuộc thi, trận đấu )
-- thay đổi, không đều
-- thất thường, hay thay đổi (tính tình...)
+percentages
+	
+-tỉ lệ phần trăm
+

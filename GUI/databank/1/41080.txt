@@ -1,2 +1,21 @@
-phenologically	@phenologically
-- xem phenology
+domain
+	
+*  danh từ
+- đất đai tài sản, dinh cơ, ruộng nương nhà cửa (của địa chủ...)
+- lãnh địa; lãnh thổ
+- phạm vi (ảnh hưởng...), lĩnh vực (khoa học hoạt động...)
+@Chuyên ngành kỹ thuật
+-khu vực
+-lĩnh vực
+-miền
+-miền xác định
+-phạm vi
+-vùng
+@Lĩnh vực: xây dựng
+-địa hạt
+@Lĩnh vực: điện lạnh
+-đomen
+@Lĩnh vực: toán & tin
+-vùng (tri thức)
+-vùng định nghĩa
+

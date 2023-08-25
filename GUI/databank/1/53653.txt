@@ -1,2 +1,10 @@
-streaked	@Chuyên ngành kỹ thuật
--phân vỉa
+serviceability
+	
+-khả năng sửa chữa
+@Lĩnh vực: xây dựng
+-dịch vụ tiện lợi
+@Lĩnh vực: toán & tin
+-khả năng bảo trì
+@Lĩnh vực: vật lý
+-khả năng phục vụ (của thanh nhiên liệu)
+

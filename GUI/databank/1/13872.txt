@@ -1,11 +1,15 @@
-decoding	
-@Chuyên ngành kinh tế
--giải mã
+plated
+	
+*  tính từ
+- bọc sắt, bọc kim loại
+- mạ; mạ vàng, mạ bạc
+=plated ware
++ đồ mạ vàng, đồ mạ bạc
 @Chuyên ngành kỹ thuật
--giải mã
--mã dịch
--sự dịch mã
--sự đọc mã
--sự giải mã
-@Lĩnh vực: toán & tin
--sự giải đoán
+-được mạ điện
+-được mạ kim loại
+-được phủ
+-được phủ kim loại
+@Lĩnh vực: điện lạnh
+-được mạ
+

@@ -1,22 +1,5 @@
-assumption	
-@assumption /ə'sʌmpʃn/
-*  danh từ
-- sự mang, sự khoác, sự lấy (cái vẻ, tính chất...)
-- sự làm ra vẻ, sự giả bộ
-- sự mệnh danh (là đúng), sự cho rằng (là đúng), sự thừa nhận
-- sự nắm lấy, sự chiếm lấy
-- sự đảm đương, sự gánh vác, sự nhận vào mình
-- tính kiêu căng, tính kiêu ngạo, tính ngạo mạn
-- (tôn giáo) lễ thăng thiên của Đức mẹ đồng trinh
-@Chuyên ngành kinh tế
--nhận nợ thay
-@Chuyên ngành kỹ thuật
--điều giả định
--dữ kiện
--giả định
--giả thiết
--sự giả định
-@Lĩnh vực: toán & tin
--giả thuyết
-@Lĩnh vực: xây dựng
--sự giả thiết
+widder
+	
+* danh từ
+- (thông tục) xem widow
+

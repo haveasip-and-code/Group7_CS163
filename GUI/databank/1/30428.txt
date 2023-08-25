@@ -1,10 +1,9 @@
-jimmy	
-@jimmy
-* danh từ
-- (từ Mỹ, nghĩa Mỹ) xà beng; đòn bẩy (để nạy)
-* ngoại động từ
-- lấy xà beng để nạy
+demultiplexer
+	
+- (Tech) bộ phân đa kênh
 @Chuyên ngành kỹ thuật
--cái kẹp
--đòn bẩy
--xà beng
+-bộ phân kênh
+-bộ tách kênh
+@Lĩnh vực: điện lạnh
+-bộ phận kênh
+

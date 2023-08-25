@@ -1,11 +1,13 @@
-encampment	
-@encampment /in'kæmpmənt/
+wile
+	
 *  danh từ
-- sự cắm trại
-- trại giam
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thị trấn trạm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thị trấn trạm
+- mưu mẹo, mưu chước
+=the wiles of the devil
++ mưu ma chước quỷ
+*  ngoại động từ
+- lừa, dụ, dụ dỗ
+=to wile into
++ dụ vào
+!to wile away the time
+- giết thì giờ
+

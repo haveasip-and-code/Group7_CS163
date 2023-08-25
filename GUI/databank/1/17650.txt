@@ -1,22 +1,6 @@
-electrode	
-@electrode /i'lektroud/
-*  danh từ
-- cực, cực điện
-@Chuyên ngành kinh tế
--điện cực
-@Chuyên ngành kỹ thuật
--bản điện cực
--điện cực
--đũa hàn
--que hàn
--que hàn điện
-@Lĩnh vực: điện
--điện lực
-@Chuyên ngành kỹ thuật
--bản điện cực
--điện cực
--đũa hàn
--que hàn
--que hàn điện
-@Lĩnh vực: điện
--điện lực
+spangles
+	
+* danh từ
+- số nhiều
+- hoa kẽm, vân hoa trên mặt tôn tráng kẽm
+

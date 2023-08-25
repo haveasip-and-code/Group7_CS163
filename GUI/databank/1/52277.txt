@@ -1,8 +1,19 @@
-speeder	@speeder /'spi:də/
-*  danh từ
-- (kỹ thuật) bộ điều tốc
-- (từ Mỹ,nghĩa Mỹ) người lái xe quá tốc độ quy định ((cũng) speedster)
+minimize
+	
+*  ngoại động từ
+- giảm đến mức tối thiểu
+- đánh giá thấp
+@Chuyên ngành kinh tế
+-giảm đến mức thấp nhất
+-làm cho thật nhỏ
+-thu giảm
+-tối thiểu hóa
 @Chuyên ngành kỹ thuật
--thiết bị tăng tốc
-@Lĩnh vực: cơ khí & công trình
--bộ tăng tốc
+-làm cực tiểu
+@Lĩnh vực: toán & tin
+-cực tiểu hóa
+@Lĩnh vực: điện
+-giảm thiểu
+@Lĩnh vực: xây dựng
+-tối thiểu hóa
+

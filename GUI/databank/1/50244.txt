@@ -1,4 +1,17 @@
-sheared	@Chuyên ngành kỹ thuật
--bị cắt
--độ nghiêng của lưỡi cắt (cắt, gọt)
--lưỡi cắt nghiêng
+lorry
+	
+*  danh từ
+- xe tải ((cũng) motor lorry)
+- (ngành đường sắt) toa chở hàng (không có mui)
+*  động từ
+- đi bằng xe tải; vận chuyển bằng xe tải
+@Chuyên ngành kinh tế
+-toa chở hàng
+-xe tải
+@Chuyên ngành kỹ thuật
+-xe moóc
+-xe rùa
+-xe tải
+@Lĩnh vực: ô tô
+-xe tải lớn
+

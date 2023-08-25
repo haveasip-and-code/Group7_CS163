@@ -1,21 +1,29 @@
-triangle	@triangle /'traiæɳgl/
-*  danh từ
-- hình tam giác
-=equilateral triangle+ tam giác đều
-=isosceles triangle+ tam giá cân
-=right-angled triangle+ tam giác vuông
-- ê ke, thước nách
-- (âm nhạc) kẻng ba góc
-- bộ ba
-=the eternal triangle+ bộ ba cặp kè (tình trạng hai người yêu một)
-@Chuyên ngành kinh tế
--hình tam giác
--một phần tư con bò trước
+involve
+	
+*  ngoại động từ
+- gồm, bao hàm
+- làm cho mắc míu (vào chuyện gì); làm liên luỵ, làm dính líu, làm dính dáng
+- ((thường) dạng bị động) thu hút tâm trí của; để hết tâm trí vào (cái gì)
+=he was involved in working out a solution to the problem
++ anh ấy để hết tâm trí tìm cách giải quyết vấn đề
+- đòi hỏi phải, cần phải, kéo theo
+=expansion is business involves expenditure
++ sự mở rộng việc kinh doanh đòi hỏi phải chi tiêu
+- cuộn vào, quấn lại
 @Chuyên ngành kỹ thuật
--ê ke
--hình tam giác
--tam giác
-@Lĩnh vực: điện lạnh
--hình tam gíac
-@Lĩnh vực: xây dựng
--thước đo góc (vẽ kỹ thuật)
+-bao hàm
+-chứa
+-kéo theo
+-lôi kéo
+-quấn lại
+-quay theo
+-xoáy
+@Lĩnh vực: toán & tin
+-cuộn vào
+-nâng lên lũy thừa
+@Lĩnh vực: cơ khí & công trình
+-gồm
+-kể cả
+@Lĩnh vực: hóa học & vật liệu
+-tham gia vào
+

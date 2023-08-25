@@ -1,6 +1,8 @@
-lisp	@lisp /lisp/
-*  danh từ
-- sự nói nhịu
-- tiếng xào xạc (lá); tiếng rì rào (sóng)
-*  động từ
-- nói ngọng
+protostar
+	
+* danh từ
+- hình thức giả thiết của sao lúc đầu tiên
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-tiền sao
+

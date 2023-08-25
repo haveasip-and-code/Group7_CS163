@@ -1,27 +1,14 @@
-fabrication	
-@fabrication /,fæbri'keiʃn/
+singlet
+	
 *  danh từ
-- sự bịa đặt; chuyện bịa đặt
-- sự làm giả (giấy tờ, văn kiện)
-- sự chế tạo, sự sản xuất; cách chế tạo
-@Chuyên ngành kinh tế
--chế tạo
--làm giả
--làm ra
--nguỵ tạo
--ngụy tạo
--sản xuất
--sự bịa đặt
--sự lắp ráp
+- áo lót mình, áo may ô; áo vệ sinh
 @Chuyên ngành kỹ thuật
--cấu tạo
--sự chế tạo
--sự sản xuất
-@Lĩnh vực: y học
--chứng bịa đặt
-@Chuyên ngành kỹ thuật
--cấu tạo
--sự chế tạo
--sự sản xuất
-@Lĩnh vực: y học
--chứng bịa đặt
+-vạch đơn
+@Lĩnh vực: điện lạnh
+-bộ đơn
+-mức đơn
+@Lĩnh vực: điện tử & viễn thông
+-nhóm đơn
+@Lĩnh vực: vật lý
+-mức đơn (phổ học)
+

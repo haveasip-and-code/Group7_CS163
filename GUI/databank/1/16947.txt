@@ -1,13 +1,5 @@
-dud	
-@dud /dʌd/
-*  danh từ,  (từ lóng)
-- bù nhìn, người rơm (đuổi chim) ((cũng) dud man)
-- đạn thổi, bom không nổ
-- người vô dụng, người bỏ đi; kế hoạch vô dụng, kế hoạch bỏ đi
-- (số nhiều) quần áo; quần áo rách
-*  tính từ
-- giả mạo; vô dụng, bỏ đi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khuôn đúc ống
--khuôn gạch rỗng
+neritic
+	
+@Lĩnh vực: hóa học & vật liệu
+-gần bờ
+

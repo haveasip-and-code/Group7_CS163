@@ -1,4 +1,30 @@
-divvy	
-@divvy /'divi/
+reader
+	
 *  danh từ
-- (từ lóng) tiền lãi cổ phần
+- người đọc, độc giả
+- người mê đọc sách
+=to be a great reader
++ rất mê đọc sách; đọc sách rất nhiều
+- phó giáo sư (trường đại học)
+- (ngành in) người đọc và sửa bản in thử ((cũng) proot reader)
+- (tôn giáo) người đọc kinh (trong nhà thờ) ((cũng) lay reader)
+- người đọc bản thảo (ở nhà xuất bản) ((cũng) publisher's reader)
+- tập văn tuyển
+- (từ lóng) sổ tay
+@Chuyên ngành kinh tế
+-bộ đọc (ở máy vi tính)
+@Chuyên ngành kỹ thuật
+-bộ đọc
+-đầu đọc
+-người đọc
+-người sửa bài
+-máy đọc
+@Lĩnh vực: xây dựng
+-bộ dọc
+@Lĩnh vực: toán & tin
+-bộ đọc vi dạng
+-thủ tục nhập
+-thường trình nhập
+@Lĩnh vực: điện lạnh
+-bộ phận đọc
+

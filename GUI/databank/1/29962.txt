@@ -1,10 +1,12 @@
-irreducibility	
-@irreducibility /'iri,dju:sə'biliti/ (irreducibleness) /,iri'dju:səblnis/
-*  danh từ
-- tính không thể giảm bớt, tính không thể làm thành đơn giản, tính không thể làm nhỏ hơn
-- tính không thể làm thay đổi hình dạng được
-- (toán học) tính tối giản, tính không rút gọn được
-- (y học) sự không thể làm trở lại như cũ
+triaxial
+	
+* tính từ
+- ba trục
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tính không khả quy
+-không gian
+@Lĩnh vực: điện lạnh
+-ba trục
+@Lĩnh vực: xây dựng
+-có ba hướng
+-có ba trục
+

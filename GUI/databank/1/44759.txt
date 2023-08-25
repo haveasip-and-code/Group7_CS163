@@ -1,9 +1,8 @@
-pupillary	@pupillary /'pju:piləri/ (pupillary) /'pju:piləri/
-*  tính từ
-- (thuộc) học sinh
-- (thuộc) trẻ em được giám hộ
-*  tính từ
-- (giải phẫu) (thuộc) con ngươi, (thuộc) đồng tử (mắt)
+degausser
+	
+- (Tech) bộ khử từ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc đồng tử
+-bộ khử từ
+@Lĩnh vực: điện lạnh
+-bộ xóa từ
+

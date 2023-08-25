@@ -1,8 +1,5 @@
-inebriety	
-@inebriety /,ini:'braiəti/
-*  danh từ
-- sự say rượu
-- tật say sưa, tật nghiện rượu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chứng say rượu, chứng nghiện rượu
+strontic
+	
+@Lĩnh vực: hóa học & vật liệu
+-stronti
+

@@ -1,14 +1,9 @@
-demodulation	
-@demodulation
-- (Tech) sự hoàn điệu
+interferogram
+	
+* danh từ
+- (vật lý) cái ghi giao thoa
 @Chuyên ngành kỹ thuật
--giải điều biến
--sự hoàn điều
-@Lĩnh vực: điện tử & viễn thông
--giải điều chế
--sự tách sóng
-@Lĩnh vực: điện lạnh
--sự giải điều
--sự hoàn điệu
-@Lĩnh vực: xây dựng
--sự hoàn điêu
+-hình giao thoa
+@Lĩnh vực: toán & tin
+-ảnh giao thoa
+

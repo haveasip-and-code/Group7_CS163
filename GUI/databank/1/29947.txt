@@ -1,9 +1,5 @@
-irreclaimable	
-@irreclaimable /,iri'kleiməbl/
-*  tính từ
-- không thể khai hoang được (đất)
-- không thể cải tạo được
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--không thể cải tạo
--không thể khai hoang
+socager
+	
+* danh từ
+- người lĩnh canh nộp tô
+

@@ -1,12 +1,13 @@
-reorganize	@reorganize /'ri:'ɔ:gənaiz/
-*  ngoại động từ
-- tổ chức lại, cải tổ lại
-@Chuyên ngành kinh tế
--bố trí lại
--cải tổ
--chỉnh đốn
--tổ chức lại
-@Chuyên ngành kỹ thuật
--sắp xếp lại
-@Lĩnh vực: toán & tin
--tổ chức lại
+photodiode
+	
+-đi
+-ốt quang
+-đi
+-ốt tách sóng quang
+@Lĩnh vực: điện
+-đi
+-ốt quang điện
+@Lĩnh vực: vật lý
+-photođiot
+-quang điot
+

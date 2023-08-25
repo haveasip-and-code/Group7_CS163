@@ -1,13 +1,10 @@
-mob	@mob /mɔb/
+examinee
+	
 *  danh từ
-- đám đông
-- dân chúng, quần chúng, thường dân
-=mob psychology+ tâm lý quần chúng
-=mob law+ pháp lý quần chúng
-- đám đông hỗn tạp
-- bọn du thủ du thực
-*  động từ
-- tấn công, phá phách, kéo ồ vào (đám đông người, quần chúng)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--nửa nhóm Hauxđooc
+- người bị khám xét, người bị thẩm tra
+- người đi thi, thí sinh
+@Chuyên ngành kinh tế
+-người bị kiểm tra
+-người bị thẩm vấn
+-người thụ thẩm
+

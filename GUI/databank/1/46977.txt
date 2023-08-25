@@ -1,16 +1,17 @@
-repulse	@repulse /ri'pʌls/
+norm
+	
 *  danh từ
-- (quân sự) sự đẩy lùi (một cuộc tấn công)
-=to inflict a repulse+ đẩy lùi (cuộc tấn công)
-=to meet with (suffer) a repulse+ bị đẩy lùi
-- sự từ chối, sự cự tuyệt
-*  ngoại động từ
-- (quân sự) đánh lui, đẩy lùi
-=to repulse an attack+ đánh lui một cuộc tấn công
-- đánh bại (ai) trong cuộc bút chiến, đánh bại (ai) trong cuộc tranh luận
-- từ chối, cự tuyệt
-=to repulse a request+ từ chối một lời yêu cầu
-=to repulse someone's friendly advances+ cự tuyệt sự làm thân của ai
+- quy tắc tiêu chuẩn
+- chỉ tiêu (trong sản xuất)
 @Chuyên ngành kỹ thuật
--đẩy
--phản lực
+-chi tiêu
+-chuẩn tắc
+-định chuẩn
+-định mức
+-mẫu
+-mức
+-mức chuẩn
+-quy phạm
+@Lĩnh vực: toán & tin
+-chuẩn, định chuẩn
+

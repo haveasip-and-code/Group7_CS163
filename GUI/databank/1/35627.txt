@@ -1,18 +1,7 @@
-mooring	@Chuyên ngành kinh tế
--chỗ đậu tàu
--chỗ neo tàu
--neo tàu
--phí bỏ neo
--sự buộc tàu lại
--thuế đậu tàu
+caldron
+	
+*  danh từ
+- vạc (để nấu)
 @Chuyên ngành kỹ thuật
--neo giữ
--thả neo
-@Lĩnh vực: giao thông & vận tải
--bỏ neo
--sự buộc tàu
--sự đỗ tàu
--sự neo tàu
-@Lĩnh vực: xây dựng
--chỗ neo
--sự buộc thuyền
+-nồi hơi
+

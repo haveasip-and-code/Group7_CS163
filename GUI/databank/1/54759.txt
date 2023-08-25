@@ -1,19 +1,15 @@
-supplier	@supplier /sə'plaiə/
+roach
+	
 *  danh từ
-- người cung cấp, người tiếp tế
+- (động vật học) cá rutilut (thuộc họ cá chép)
+!as sound as a roach
+- rất khoẻ mạnh, mạnh như trâu lăn
+*  danh từ
+- (viết tắt) của cockroach
 @Chuyên ngành kinh tế
--người cung cấp
--người cung ứng
--người tiếp tế
--nhà cung ứng
+-cá đầy
+-cá viền đỏ
 @Chuyên ngành kỹ thuật
--người cung cấp
--nhà cung cấp
-@Lĩnh vực: điện
--cơ quan cấp hàng
--người cấp điện
-@Lĩnh vực: toán & tin
--hãng cung cấp
-@Lĩnh vực: xây dựng
--nhà thầu cung cấp
--nhà thầu cung ứng
+@Lĩnh vực: hóa học & vật liệu
+-vùng đá
+

@@ -1,7 +1,15 @@
-ablate	
-@ablate /æb'leit/
-*  ngoại động từ
-- (y học) cắt bỏ
+unconditional
+	
+*  tính từ
+- không điều kiện
+- dứt khoát, quả quyết
+=unconditional refusal
++ lời từ chối dứt khoát
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cắt bỏ
+-bắt buộc
+-nhất thiết
+-tuyệt đối
+-vô điều kiện
+@Lĩnh vực: toán & tin
+-không điều kiện
+

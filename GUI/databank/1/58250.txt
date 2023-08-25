@@ -1,7 +1,55 @@
-turnstile	@turnstile /'tə:nstail/
+cloud
+	
 *  danh từ
-- cửa xoay
+- mây, đám mây
+- đám (khói, bụi)
+=a cloud of dust
++ đám bụi
+- đàn, đoàn, bầy (ruồi, muỗi đang bay, ngựa đang phi...)
+=a cloud of horsemen
++ đoàn kỵ sĩ (đang phi ngựa)
+=a cloud of flies
++ đàn ruồi (đang bay)
+- (nghĩa bóng) bóng mây, bóng đen; sự buồn rầu; điều bất hạnh
+=cloud of war
++ bóng đen chiến tranh
+=a cloud of grief
++ bóng mây buồn; vẻ buồn phiền
+- vết vẩn đục (trong hòn ngọc...)
+- (số nhiều) trời, bầu trời
+=to sail up into the clouds
++ bay lên trời
+!to be under a cloud
+- lâm vào hoàn cảnh đáng buồn, bị thất thế
+- (từ lóng) bị tu tội
+!cloud on one's brow
+- vẻ buồn hiện lên nét mặt
+!to drop from the clouds
+- rơi từ trên máy bay xuống
+!every cloud has a silver lining
+- (xem) silver
+!to have one's head in the clouds; to be in the clouds
+- lúc nào cũng mơ tưởng viển vông; sống ở trên mây
+*  ngoại động từ
+- mây che, che phủ; làm tối sầm
+=the sun was clouded
++ mặt trời bị mây che
+- (nghĩa bóng) làm phiền muộn, làm buồn
+=a clouded countenance
++ vẻ mặt phiền muộn
+- làm vẩn đục ((nghĩa đen) & (nghĩa bóng))
+=to cloud someone's happiness
++ làm vẩn đục hạnh phúc của ai
+*  nội động từ (up,  over)
+- bị mây che, sầm lại ((nghĩa đen) & (nghĩa bóng))
+=sky clouds over
++ bầu trời bị mây che phủ
+=brow clouds over
++ vầng trán sầm lại, mặt sầm lại
 @Chuyên ngành kinh tế
--cửa xoáy
+-cặn
+-chất vẩn đục
+-che phủ
 @Chuyên ngành kỹ thuật
--cửa quay
+-mây
+

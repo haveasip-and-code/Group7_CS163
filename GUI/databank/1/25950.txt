@@ -1,33 +1,11 @@
-holder	
-@holder /'houldə/
-*  danh từ
-- người giữ, người nắm giữ; người giữ một chức vụ; (thể dục,thể thao) người giữ kỷ lục
-- bót (thuốc lá); quản (bút); tay cầm, tay nắm, tay quay; đui (đèn)
-- (kỹ thuật) mâm cặp, vòng kẹp
-@Chuyên ngành kinh tế
--giá đỡ
--người giữ phiếu (chi phiếu, hối phiếu)
--người giữ phiếu (chi phiếu, hối phiếu...)
--người nắm giữ (quyền sở hữu)
--người nắm giữ (quyền sở hữu...)
--sự bảo dưỡng
--sự cất giữ
+thermodynamics
+	
+*  danh từ,  số nhiều dùng như số ít
+- nhiệt động lực học
 @Chuyên ngành kỹ thuật
--bệ
--bệ đỡ
--cái giữ
--cái kẹp
--cán
--đế
--đồ gá
--đui (đèn)
--dụng cụ giữ
--giá
--giá đỡ
--giá kẹp
--giá treo
--người giữ
-@Lĩnh vực: hóa học & vật liệu
--dụng cụ chứa
-@Lĩnh vực: điện tử & viễn thông
--hộp giữ
+-nhiệt động học
+-nhiệt động lực học
+@Lĩnh vực: vật lý
+-nhiệt đông (lực) học
+-nhiệt động (lực) học
+

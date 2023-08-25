@@ -1,29 +1,7 @@
-insulator	
-@insulator /'insjuleitə/
-*  danh từ
-- người cô lập, người cách ly
-- (vật lý) cái cách điện, chất cách ly=procecalin insulator
-+ cái cách điện bằng sứ=a sound insulator
-+ chất cách âm
-@Chuyên ngành kỹ thuật
--bầu
--bầu cách điện
--chất cách nhiệt
--lớp cách điện
--lớp cách ly
--lớp cách nhiệt
--người cô lập
--sứ
--sứ cách điện
--tấm cách ly
--vật cách điện
--vật liệu cách điện
--vật liệu cách nhiệt
-@Lĩnh vực: xây dựng
--bộ phận cách điện
--cái cách ly
--vật cách nhiệt
-@Lĩnh vực: điện lạnh
--dụng cụ cách điện
+zwitterion
+	
+@Lĩnh vực: hóa học & vật liệu
+-icon lưỡng tính
 @Lĩnh vực: y học
--vật cách điện, chất cách điện
+-iôn lưỡng tính
+

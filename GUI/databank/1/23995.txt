@@ -1,5 +1,9 @@
-gradualism	
-@gradualism
-* danh từ
-- phương pháp từ từ, phương pháp tiệm tiến
-- tiệm tiến luận
+propositional
+	
+*  tính từ
+- có tính chất đề nghị, có tính chất đề xuất
+- có tính chất tuyên bố, có tính chất xác nhận
+- (toán học) mệnh đề
+@Chuyên ngành kỹ thuật
+-mệnh đề
+

@@ -1,29 +1,16 @@
-coin	
-@coin /kɔin/
+refractivity
+	
 *  danh từ
-- đồng tiền (tiền đồng, tiền kim loại); tiền=false coin
-+ đồng tiền giả; (nghĩa bóng) cái giả mạo!to pay someone in his own coin
-- ăn miếng trả miếng
-*  ngoại động từ
-- đúc (tiền); đúc (kim loại) thành tiền
-- tạo ra, đặt ra=to coin a word
-+ đặt ra một từ mới!to coin money
-- hái ra tiền!to coin one's brains
-- vắt óc nghĩ mẹo làm tiền
-@Chuyên ngành kinh tế
--tiền đúc
--tiền kim loại
+- (vật lý) tính khúc xạ
 @Chuyên ngành kỹ thuật
--cái đột
--cái nêm
--đồng tiền
-@Lĩnh vực: cơ khí & công trình
--dập nổi
--sự đúc tiền
--tiền dập
--tiền đúc
-@Lĩnh vực: xây dựng
--góc nhà
--tiền đồng xu
-@Lĩnh vực: toán & tin
--tiền bằng kim loại
+-độ khúc xạ
+-hiện tượng khúc xạ
+@Lĩnh vực: điện tử & viễn thông
+-chỉ số khúc xạ
+@Lĩnh vực: điện lạnh
+-độ khúc xạ (riêng)
+@Lĩnh vực: hóa học & vật liệu
+-độ khúc xạ riêng
+@Lĩnh vực: y học
+-tính khúc xạ
+

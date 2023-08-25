@@ -1,13 +1,10 @@
-mapping	@mapping /'mæpiɳ/
-*  danh từ
-- bản vẽ, bản đồ
-- sự sắp xếp, sự sắp đặt, sự vạch ra (chiến lược...)
-- (toán học) phép ánh xạ
+fossiliferous
+	
+*  tính từ
+- có vật hoá đá, có hoá thạch
 @Chuyên ngành kỹ thuật
--ánh xạ
--bình đồ
--đường gân
-@Lĩnh vực: toán & tin
--sự ánh xạ
-@Lĩnh vực: cơ khí & công trình
--vết ép
+@Lĩnh vực: hóa học & vật liệu
+-chứa hóa đá
+@Lĩnh vực: xây dựng
+-có hóa thạch
+

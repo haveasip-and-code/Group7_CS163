@@ -1,16 +1,5 @@
-enumerate	
-@enumerate /i'nju:məreit/
-*  ngoại động từ
-- đếm; kê; liệt kê
-@Chuyên ngành kỹ thuật
--đánh số
--đếm
--đếm được
-@Lĩnh vực: xây dựng
--kê khai
-@Chuyên ngành kỹ thuật
--đánh số
--đếm
--đếm được
-@Lĩnh vực: xây dựng
--kê khai
+picul
+	
+*  danh từ
+- tạ Trung quốc
+

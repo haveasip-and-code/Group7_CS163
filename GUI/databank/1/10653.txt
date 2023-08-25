@@ -1,7 +1,5 @@
-compatibleness	
-@compatibleness
-- xem compatible
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--tính đổi lẫn
--tính tương thích
+makable
+	
+* tính từ
+- có thể làm được; có thể chế tạo
+

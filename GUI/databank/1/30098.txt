@@ -1,8 +1,16 @@
-isodiametric	
-@isodiametric
+halfway
+	
 * tính từ
-- có cùng một đường kính
+- nằm ở giữa với hai khoảng cách bằng nhau; nửa đường; nửa chừng
+= to reach the halfway point
++đạt đến điểm nửa chừng
+- (nghĩa bóng) nửa chừng, nửa vời, không triệt để; thoả hiệp
+= halfway measures
++những biện pháp nửa vời; những biện pháp thoả hiệp
+* phó từ
+- nửa đường, nửa chừng
+= to meet someone halfway
++gặp ai giữa đường; (nghĩa bóng) thoả hiệp với ai
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--có cùng kích thước
--có đường kính bằng nhau
+-hành lang
+

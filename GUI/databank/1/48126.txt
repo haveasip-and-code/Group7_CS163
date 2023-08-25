@@ -1,13 +1,5 @@
-rubbing	@rubbing
-* danh từ
-- sự cọ xát, sự chà xát, sự đánh bóng
-@Chuyên ngành kinh tế
--sự chà xát
-@Chuyên ngành kỹ thuật
--bánh mài bóng
--đánh bóng
--lau bóng
--sự cọ sát
--sự ma sát
-@Lĩnh vực: xây dựng
--mài bóng (đá)
+gasifier
+	
+@Lĩnh vực: hóa học & vật liệu
+-bộ khí hóa
+

@@ -1,8 +1,8 @@
-pub	@pub /pʌb/
-*  danh từ,  (thông tục) (viết tắt) của public house
-- quán rượu, tiệm rượu
-- quán trọ, quán ăn
-@Chuyên ngành kinh tế
--quán ăn
--quán rượu
--quán trọ
+emulsified
+	
+@Lĩnh vực: hóa học & vật liệu
+-được nhũ hóa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-được nhũ hóa
+

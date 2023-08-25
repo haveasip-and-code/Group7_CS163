@@ -1,11 +1,5 @@
-mortgage	@mortgage
-* danh từ
-- văn tự thế chấp; sự thế chấp
-- to apply for/take out a mortgage
-- xin/được vay có thể chấp
-= mortgage agreement/deed+văn tự/chứng thư thế chấp
-- tiền thế chấp
-* động từ
-- cầm cố; thế chấp
-= to mortgage one's house in order to start a business+cầm ngôi nhà để lấy vốn kinh doanh
-= the house was mortgaged to the bank for a large amount of money+ngôi nhà được thế chấp cho ngân hàng để vay một số tiền lớn
+complin
+	
+*  danh từ
+- (tôn giáo) buổi lễ cuối ngày
+

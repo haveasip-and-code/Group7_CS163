@@ -1,7 +1,4 @@
-integrable	
-@integrable
-- khả tích, có thể lấy tích phân được
-- quadratically i. bình phương khả tích
-- totally i. (hình học) hoàn toàn khả tích
-@Chuyên ngành kỹ thuật
--khả tích
+abbreviation
+	
+- sự viết gọn, sự viết tắt
+

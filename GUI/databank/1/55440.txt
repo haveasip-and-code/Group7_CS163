@@ -1,4 +1,10 @@
-tailrace	@Chuyên ngành kỹ thuật
--đường thoát
--đường thoát nước
--kênh phân phối
+addressee
+	
+*  danh từ
+- người nhận (thư...)
+@Chuyên ngành kinh tế
+-người nhận điện
+-người nhận thư
+@Chuyên ngành kỹ thuật
+-người nhận
+

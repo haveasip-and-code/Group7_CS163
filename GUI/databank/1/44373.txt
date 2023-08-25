@@ -1,8 +1,17 @@
-prow	@prow /prow/
+piercer
+	
 *  danh từ
-- mũi tàu, mũi thuyền
-*  tính từ
-- (từ cổ,nghĩa cổ) anh dũng, dũng cảm, can đảm
+- (kỹ thuật) cái đột lỗ, mũi đột, mũi khoan, giùi
 @Chuyên ngành kỹ thuật
--mũi tàu
--mũi thuyền
+-cái đột
+-cái đột lỗ
+-cái giùi
+-máy khoan
+-mũi đột
+-mũi đột rèn
+-mũi khoan
+@Lĩnh vực: xây dựng
+-cái dùi
+@Lĩnh vực: toán & tin
+-máy khoan, cái dùi
+

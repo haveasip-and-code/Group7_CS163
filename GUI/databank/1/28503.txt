@@ -1,11 +1,7 @@
-inflection	
-@inflection /in'flekʃn/ (inflection) /in'flekʃn/
-*  danh từ
-- chỗ cong, góc cong
-- (toán học) sự uốn
-- (âm nhạc) sự chuyển điệu
-- (ngôn ngữ học) biến tố
-@Chuyên ngành kỹ thuật
--điểm uốn
--độ võng
--sự uốn
+afflict
+	
+*  ngoại động từ
+- làm đau đớn, làm đau buồn, làm ưu phiền, làm khổ sở
+=to be afflicted by...
++ đau buồn vì...
+

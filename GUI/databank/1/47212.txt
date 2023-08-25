@@ -1,7 +1,14 @@
-restock	@restock
-* ngoại động từ
-- chứa đầy (bằng những thứ mới, thứ khác để thay thế những thứ đã bán, đã dùng )
-- bổ sung, cung cấp thêm
-@Chuyên ngành kinh tế
--mua vô lại
--mua vô thêm (hàng hóa)
+intervene
+	
+*  nội động từ
+- xen vào, can thiệp
+=to intervene in a quarrel
++ xen vào một cuộc cãi cọ
+=to intervene in someone's affrais
++ can thiệp vào công việc của ai
+- ở giữa, xảy ra ở giữa
+=many events intervened between the August Revolution and the 1954 Geveva Conference
++ nhiều sự kiện đã xảy ra từ Cách mạng tháng tám đến Hội nghị Giơ
+-ne
+-vơ năm 1954
+

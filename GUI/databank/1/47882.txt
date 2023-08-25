@@ -1,8 +1,9 @@
-rockiness	@rockiness
-* danh từ
-- tình trạng vững như đá, tình trạng cứng như đá
-- sự nhiều đá; tình trạng nhiều đá
-- sự lung lay; tình trạng không vững
+defray
+	
+*  ngoại động từ
+- trả, thanh toán (tiền phí tổn...)
+=to defray someone's expensies
++ thanh toán tiền phí tổn cho ai
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--trạng thái đá hóa (đất đai)
+-thanh toán
+

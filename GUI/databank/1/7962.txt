@@ -1,11 +1,11 @@
-carburetion	
-@carburetion
-- xem carburet
+steelworks
+	
+-nhà máy luyện gang thép
+-nhà máy luyện thép
+-xưởng luyện thép
 @Chuyên ngành kỹ thuật
--chế hòa khí
--thấm cacbon
--tôi cacbon
+-lò luyện thép
 @Lĩnh vực: hóa học & vật liệu
--pha carbon
-@Lĩnh vực: cơ khí & công trình
--sự chế hòa khí
+-nhà máy đúc thép
+-nhà máy nấu thép
+

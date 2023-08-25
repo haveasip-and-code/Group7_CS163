@@ -1,49 +1,11 @@
-type	@type /taip/
-*  danh từ
-- kiểu mẫu
-=a fine type of patriotism+ kiểu mẫu đẹp đẽ của tinh thần yêu nước
-- kiểu
-=Nordic type+ kiểu người Bắc Âu
-- chữ in
-=printed in large type+ in chữ lớn
-=to be in type+ sẵn sàng đưa in
-=to set type+ sắp chữ
-- (sinh vật học) đại diện điển hình (của một nhóm phân loại)
-=type genus+ giống điển hình của họ
-*  động từ
-- đánh máy
-=to type a letter+ đánh máy một bức thư
-=to type well+ đánh máy giỏi
-@Chuyên ngành kinh tế
--cỡ loại
--con chữ (dùng để in hoặc dùng trong máy đánh chữ)
--con chữ (thường dùng để in hoặc dùng trong máy đánh chữ)
--đánh máy
--điển hình
--hình thức
--kiểu
--kiểu loại tiêu biểu
--loại
--mẫu
--số cỡ
+skewness
+	
+-độ nghiêng, hệ số bất đối xứng
+-hệ số bất đối xứng
 @Chuyên ngành kỹ thuật
--đánh máy
--đánh máy chữ
--gõ
--kiểu
--kiểu chữ
--làm bản khắc
--loại
--loại con chữ
--mẫu
--mô hình
+-hệ số lệch
 @Lĩnh vực: toán & tin
--chữ in
--phông chữ
-@Lĩnh vực: điện lạnh
--con chữ đúc
--đánh chữ
-@Lĩnh vực: hóa học & vật liệu
--kiểu loại
-@Lĩnh vực: y học
--kiểu, mẫu, loại
+-tính ghềnh
+-tính lệch
+-tính xiên
+

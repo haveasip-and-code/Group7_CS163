@@ -1,7 +1,20 @@
-chary	
-@chary /'tʃeəri/
-*  tính từ
-- thận trọng, cẩn thận=to be chary of catching cold
-+ cẩn thận kẻo bị lạnh
-- dè dặt, hà tiện (lời nói, lời khen...)=chary of praise
-+ dè dặt lời khen
+spooling
+	
+- (1) Một tiến trình mà trong đó nhiều thiết bị vào ra dường như hoạt động đồng thời, trong khi thực tế hệ thống đưa dữ liệu vào hoặc ra qua bộ đệm
+- (2) Dữ liệu được lưu trữ tạm thời trên các tập đựa hoặc băng từ cho tới khi một bộ phận khác của hệ thống sẵn sàng xử lí nó
+@Chuyên ngành kỹ thuật
+-sự cuộn
+-sự cuộn dây
+-sự quấn
+-sự tua băng
+@Lĩnh vực: toán & tin
+-cuộn dữ liệu
+-sự cuộn dữ liệu
+-sự đồng tác
+-sự lưu giữ tạm
+-sự lưu trữ tạm
+@Lĩnh vực: cơ khí & công trình
+-sự cuộn cáp (vào tang)
+@Lĩnh vực: vật lý
+-sự cuộn phim
+

@@ -1,12 +1,9 @@
-provisional	@provisional /provisional/
+nascent
+	
 *  tính từ
-- tạm, tạm thời, lâm thời
-=provisional goverment+ chính phủ lâm thời
-@Chuyên ngành kinh tế
--lâm thời
--tạm định
--tạm thời
+- mới sinh, mới mọc
 @Chuyên ngành kỹ thuật
--tạm
-@Lĩnh vực: cơ khí & công trình
--tạm thời
+-mới sinh
+@Lĩnh vực: điện lạnh
+-sơ sinh
+

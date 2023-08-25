@@ -1,9 +1,7 @@
-seamanship	@seamanship /'si:mənʃip/
-*  danh từ
-- sự thạo nghề đi biển, tài đi biển
-@Chuyên ngành kinh tế
--sự thạo nghề đi biển
--tài đi biển
-@Chuyên ngành kỹ thuật
--nghệ thuật đi biển
--tàu đi biển
+resurfacing
+	
+@Lĩnh vực: điện lạnh
+-sự mạ lại
+@Lĩnh vực: cơ khí & công trình
+-sự rải nhựa lại (mặt đường)
+

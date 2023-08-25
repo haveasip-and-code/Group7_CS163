@@ -1,3 +1,11 @@
-regrouping	@Chuyên ngành kỹ thuật
--sự nhóm lại
--sự sắp xếp lại
+caloric
+	
+*  tính từ
+- (thuộc) calo, (thuộc) nhiệt
+@Chuyên ngành kỹ thuật
+-nhiệt
+@Lĩnh vực: hóa học & vật liệu
+-chất nóng
+@Lĩnh vực: điện lạnh
+-sự nhiệt phát quang
+

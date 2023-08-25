@@ -1,6 +1,5 @@
-stroboscopic	@stroboscopic
-* tính từ
-- chớp; sáng loé (đèn)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--hoạt nghiệm
+electrophysiology
+	
+* danh từ
+- điện sinh lý học
+

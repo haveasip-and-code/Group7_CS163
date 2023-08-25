@@ -1,8 +1,25 @@
-selvage	@selvage /'seltsədʤi:n/ (selvedge) /'selvidʤ/
+opaque
+	
+*  tính từ
+- mờ đục, không trong suốt
+- (vật lý) chắn sáng
+- tối tăm
+- kém thông minh, trì độn
 *  danh từ
-- rìa (tấm vải); đường viền (cho khỏi sổ)
-- mặt ổ khoá có lỗ bập
+- cái mờ đục, cái không trong suốt
 @Chuyên ngành kỹ thuật
--cạnh
--mép
--rìa
+-chắn sáng
+-đục
+-không trong suốt
+-mờ
+@Lĩnh vực: điện lạnh
+-chắn ánh sáng
+@Lĩnh vực: xây dựng
+-đục kính
+-đục men
+-đục thủy tinh
+@Lĩnh vực: toán & tin
+-không nhìn thấy
+@Lĩnh vực: hóa học & vật liệu
+-mờ đục
+

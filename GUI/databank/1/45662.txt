@@ -1,20 +1,5 @@
-ration	@ration /'ræʃn/
-*  danh từ
-- khẩu phần
-- (số nhiều) lương thực, thực phẩm
-=to be on short rations+ thiếu lương thực thực phẩm
-=ration coupon+ phiếu lương thực, phiếu thực phẩm
-*  ngoại động từ
-- hạn chế (lương thực, vải...); hạn chế lương thực (của ai))
-=rice, meat, sugar and cotton cloth are rationed in difficult times+ gạo, thịt, đường và vải thường bị hạn chế trong thời kỳ khó khăn
-- chia khẩu phần
-@Chuyên ngành kinh tế
--chia khẩu phần
--cung ứng theo định lượng
--khẩu phần
--lương thực
--phần
--suất
--thực phẩm
-@Chuyên ngành kỹ thuật
--khẩu phần
+accounts
+	
+-báo cáo kế toán
+-báo cáo kết toán
+

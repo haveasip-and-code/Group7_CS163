@@ -1,22 +1,12 @@
-enrich	
-@enrich /in'ritʃ/
-*  ngoại động từ
-- làm giàu, làm giàu thêm, làm phong phú
-- làm tốt thêm, làm màu mỡ thêm; bón phân (đất trồng)
-- (y học) cho vitamin vào (thức ăn, bánh mì...)
-@Chuyên ngành kinh tế
--làm giàu
--làm phong phú
--vitaminh hóa
+legitimacy
+	
+*  danh từ
+- tính hợp pháp
+- tính chính đáng; tính chính thống
 @Chuyên ngành kỹ thuật
--làm giàu
-@Lĩnh vực: hóa học & vật liệu
--tuyển (quặng)
-@Lĩnh vực: xây dựng
--tuyển khoáng
+@Lĩnh vực: điện lạnh
+-tính hợp pháp
 @Chuyên ngành kỹ thuật
--làm giàu
-@Lĩnh vực: hóa học & vật liệu
--tuyển (quặng)
-@Lĩnh vực: xây dựng
--tuyển khoáng
+@Lĩnh vực: điện lạnh
+-tính hợp pháp
+

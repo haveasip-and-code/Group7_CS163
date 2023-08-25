@@ -1,8 +1,7 @@
-bookshelf	
-@bookshelf
-* danh từ
-- giá sách, kệ sách
-@Chuyên ngành kỹ thuật
+ultrabasic
+	
 @Lĩnh vực: xây dựng
--giá sách
--kệ sách
+-đá siêu bazơ
+@Lĩnh vực: hóa học & vật liệu
+-siêu bazơ
+

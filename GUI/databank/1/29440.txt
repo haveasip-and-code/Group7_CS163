@@ -1,9 +1,5 @@
-interpolator	
-@interpolator /in'tə:pouleitə/ (interpolator) /in'təpouleitə/
-*  danh từ
-- người tự ý thêm từ (vào một văn kiện...)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện tử & viễn thông
--bộ nội suy
-@Lĩnh vực: toán & tin
--máy nội suy
+relaxin
+	
+@Lĩnh vực: y học
+-hormone do nhau thai tiết ra trong các giãn cuối thai kỳ
+

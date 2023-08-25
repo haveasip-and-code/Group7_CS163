@@ -1,47 +1,6 @@
-rupture	@rupture /'rʌptʃə/
-*  danh từ
-- sự đoạn tuyệt, sự tuyệt giao, sự cắt đứt; sự gián đoạn
-=a rupture of diplomatic relations between two countries+ sự cắt đứt quan hệ ngoại giao giữa hai nước
-- (y học) sự vỡ, sự đứt, sự gãy, sự nứt, sự rách, sự thủng (ruột)
-=a blood-vessel rupture+ sự đứt mạch máu
-- (y học) sự thoát vị
-*  ngoại động từ
-- đoạn tuyệt, tuyệt giao, cắt đứt; làm gián đoạn
-=to rupture diplomatic relations with a country+ cắt đứt quan hệ ngoại giao với một nước
-- (y học) làm vỡ, làm đứt, làm gãy, làm nứt, làm rách, làm thủng
-=to rupture a blood-vessel+ làm đứt mạch máu
-- (y học) làm thoát vị
-*  nội động từ
-- bị cắt đứt; bị gián đoạn
-- (y học) vỡ, đứt, gãy, nứt, rách, thủng
-- (y học) thoát vị
-@Chuyên ngành kinh tế
--đứt đoạn
--sự gãy vỡ
-@Chuyên ngành kỹ thuật
--chỗ đứt
--chỗ gãy
--có tính phá hoại
--đứt
--gãy
--làm gãy
--nứt
--phá hoại
--sự đánh thủng
--sự đứt
--sự đứt gãy
--sự gãy
--sự hỏng
--sự phá hoại
--sự phá hủy
--vết nứt
--vỡ
-@Lĩnh vực: cơ khí & công trình
--nứt gãy
--sự đổ vỡ
-@Lĩnh vực: điện
--sự đánh thủng (lớp cách điện)
--sự gẫy
--sự phá hủy (ống dẫn)
-@Lĩnh vực: xây dựng
--thuộc phá hoại
+incommunicative
+	
+*  tính từ
+- khó truyền đi, không lan truyền
+- không cởi mở, không hay thổ lộ tâm sự, không thích chuyện trò
+

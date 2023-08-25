@@ -1,8 +1,18 @@
-offender	@offender /ə'fendə/
-*  danh từ
-- người phạm tội, người phạm lỗi
-- người xúc phạm, người làm mất lòng
-@Chuyên ngành kinh tế
--người phạm tội
--người vi phạm
--tội phạm
+compaction
+	
+- (Tech) ép, nén
+@Chuyên ngành kỹ thuật
+-nén chặt
+-sự ép
+-sự ép chặt
+-sự lèn chặt
+-sự nén
+-sự nén chặt
+-sự nén đất xuống
+@Lĩnh vực: xây dựng
+-đầm lèn
+-lu lèn
+-sự dầm chặt
+@Lĩnh vực: toán & tin
+-sự nén (dữ liệu)
+

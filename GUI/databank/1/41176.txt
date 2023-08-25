@@ -1,2 +1,25 @@
-phonemicist	@phonemicist
-- xem phonemics
+annual
+	
+*  tính từ
+- hàng năm, năm một, từng năm
+=annual report
++ bản báo cáo hàng năm
+=annual ring
++ (thực vật học) vòng năm (cây)
+- sống một năm (cây)
+- xuất bản hàng năm (sách)
+*  danh từ
+- (thực vật học) cây một năm
+- tác phẩm xuất bản hàng năm
+@Chuyên ngành kinh tế
+-hàng năm
+-trọn năm
+@Chuyên ngành kỹ thuật
+-hàng năm
+-hằng năm
+-niên giám
+@Lĩnh vực: xây dựng
+-cả năm
+@Lĩnh vực: toán & tin
+-sách hàng năm
+

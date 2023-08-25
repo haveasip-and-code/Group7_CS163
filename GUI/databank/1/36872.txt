@@ -1,14 +1,19 @@
-nodule	@nodule /'nɔdju:l/
+hint
+	
 *  danh từ
-- hòn nhỏ
-- (thực vật học) mắt nhỏ, mấu nhỏ
-- (y học) cục u nhỏ, bướu nh
+- lời gợi ý; lời nói bóng gió, lời nói ám chỉ
+=to drop (give) a hint
++ gợi ý, nói bóng gió
+=a broad hint
++ lời ám chi khá lộ liễu
+- (từ Mỹ,nghĩa Mỹ) chút xíu, tí ti, dấu vết
+=not the slightest hint of...
++ không có một chút nào..., không có mảy may một dấu vết nào...
+*  ngoại động từ
+- gợi ý nhẹ nhàng; nói bóng nói gió, nói ám chỉ
+*  nội động từ (
++ at)
+- gợi ý nhẹ nhàng, nói bóng gió, nói ám chỉ (đến cái gì)
 @Chuyên ngành kỹ thuật
--bao thể
--đá cuội
--hạt nhỏ
--kết hạch
--mấu nhỏ
--thân quặng
-@Lĩnh vực: y học
--nốt, một chỗ phồng nhỏ hay một kết tập các tế bào
+-gợi ý
+

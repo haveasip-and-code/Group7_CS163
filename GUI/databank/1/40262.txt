@@ -1,5 +1,19 @@
-peek	@peek /pi:k/
-*  nội động từ
-- hé nhìn, lé nhìn
+legibility
+	
+*  danh từ
+- tính dễ đọc dễ xem, tính rõ ràng
+@Chuyên ngành kinh tế
+-dễ xem
+-tính dễ đọc
+-tính rõ ràng
 @Chuyên ngành kỹ thuật
--lột vỏ
+-dễ đọc
+-rõ ràng
+@Lĩnh vực: xây dựng
+-tính dễ xem
+@Chuyên ngành kỹ thuật
+-dễ đọc
+-rõ ràng
+@Lĩnh vực: xây dựng
+-tính dễ xem
+

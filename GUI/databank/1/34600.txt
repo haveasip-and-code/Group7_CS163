@@ -1,31 +1,5 @@
-meter	@meter /'mi:tə/
-*  danh từ
-- cái đo; cái đòng hồ đo; người đo ((thường) trong từ ghép)
-- (từ Mỹ,nghĩa Mỹ) (như) metre
-@Chuyên ngành kinh tế
--cái đo
--đồng hồ đo (nước, điện)
--dụng cụ đo
--mét
--thước
-@Chuyên ngành kỹ thuật
--bộ đếm
--công tơ điện
--điện năng kế
--đo
--đo đạc
--đồng hồ đo
--dụng cụ đo
--dụng cụ đo, đo
--khí cụ đo
--máy đếm
--máy đo
--mét
-@Lĩnh vực: điện lạnh
--công tơ
-@Lĩnh vực: xây dựng
--công tơ mét
-@Lĩnh vực: toán & tin
--máy đo mét
-@Lĩnh vực: cơ khí & công trình
--thước (đo)
+carpophore
+	
+* danh từ
+- (thực vật) cuống lá noãn, cuống lá bào tử
+

@@ -1,15 +1,7 @@
-carbonation	
-@carbonation
-- xem carbonate
-@Chuyên ngành kinh tế
--sự cacbonat hóa
-@Chuyên ngành kỹ thuật
--cacbon hóa
-@Lĩnh vực: hóa học & vật liệu
--bão hòa khí cacbonic
--các
--bô
--nát hóa
--sự sục khí cacbonic
-@Lĩnh vực: xây dựng
--sự cacbonat hóa
+exergonic
+	
+* tính từ
+- thải nhiệt, thải năng lượng; thoát nhiệt, thoát năng lượng; sản lượng
+= an exergonic biochemical reaction
++một phản ứng sinh hoá thải nhiệt
+

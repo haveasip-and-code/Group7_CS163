@@ -1,6 +1,5 @@
-bottled	
-@Chuyên ngành kinh tế
--vô chai
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--được đóng lọ
+protist
+	
+* danh từ
+- sinh vật đơn bào, sinh vật nguyên sinh
+

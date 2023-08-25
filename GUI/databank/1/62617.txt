@@ -1,48 +1,5 @@
-web	@web /web/
-*  danh từ
-- vi dệt; tấm vi
-- súc giấy, cuộn giấy lớn
-=web paper+ giấy súc (chưa cắt ra từng tờ)
-- (động vật học) mạng
-=spider's web+ mạng nhện
-- (động vật học) t (lông chim)
-- (động vật học) màng da (ở chân vịt...)
-- (kiến trúc) thân (thanh rầm)
-- (kỹ thuật) đĩa (bánh xe), mỏ (chìa khoá); lưỡi (cưa); thân (của thanh ray)
-!a web of lies
-- một mớ chuyện dối trá
-!the web of life
-- cuộc đời; số phận con người
-@Chuyên ngành kỹ thuật
--băng giấy
--bụng giàn
--đê quai
--đường gân
--đường gờ
--đường trượt
--gân tăng cường (của các xà cánh máy bay)
--hàng dệt
--liên kết chốt ren
--liếp ngăn
--lõi (mũi khoan ruột gà)
--lõi ngăn gạch rỗng
--lưới
--má trục khuỷu
--mạng
--mạng lưới
--mặt bên
--quần áo
--sản phẩm dệt (dạng cuộn)
--sườn
--sườn bên
--tấm chắn
--vải
--vải dệt
-@Lĩnh vực: xây dựng
--bụng dầm
--cổ ray
--tấm chắn bụng dầm
--tấm chắn thành dầm
--vách thành
-@Lĩnh vực: toán & tin
--thân dầm
+roseolar
+	
+* tính từ
+- bị ban đào
+

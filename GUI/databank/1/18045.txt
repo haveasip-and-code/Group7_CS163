@@ -1,12 +1,15 @@
-empress	
-@empress /'empris/
+quad
+	
 *  danh từ
-- hoàng hậu
-- nữ hoàng
-- người đàn bà có quyền hành tuyệt đối
+- (viết tắt) của quadrangle, sân trong (hình bốn cạnh, xung quanh có nhà, ở các trường đại học...)
+- (viết tắt) của quadrat
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hoàng hậu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hoàng hậu
+-hình tứ giác
+-ô vuông chữ
+-vuông
+@Lĩnh vực: điện lạnh
+-bộ bốn tranzito
+-tứ (cáp)
+@Lĩnh vực: điện
+-cáp chập bốn
+

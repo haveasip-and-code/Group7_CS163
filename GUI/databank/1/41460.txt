@@ -1,33 +1,5 @@
-pickle	@pickle /'pikl/
-*  danh từ
-- nước giầm (như giấm, nước mắm... để giầm rau thịt...)
-- (số nhiều) rau giầm, hoa quả giầm, dưa góp
-=onion pickles+ dưa hành giầm, hành ngâm giấm
-=mango pickles+ xoài ngâm giấm
-=vegetable pickles+ dưa góp
-- dung dịch axit để tẩy...
-- hoàn cảnh
-=to be in a sad pickle+ lâm vào hoàn cảnh đáng buồn
-- đứa bé tinh nghịch
-- (từ Mỹ,nghĩa Mỹ) người quạu cọ, người khó chịu
-!to have a rod in pickle for somebody
-- để sẵn cái roi cho ai một trận đích đáng
-*  ngoại động từ
-- giầm (củ cải, hành, thịt... vào giấm...)
-- (hàng hải) xát muối giấm vào (lưng ai) (sau khi đánh đòn)
-@Chuyên ngành kinh tế
--bảo quản bằng nước giấm
--dưa góp
--muối chua (dưa chuột)
--ngâm nước giấm
--nước giấm
--rau giấm
-@Chuyên ngành kỹ thuật
--chất tẩy gỉ
--muối dưa/ làm giấm
--tẩy rửa
-@Lĩnh vực: hóa học & vật liệu
--axit tẩy gỉ
--dung tích tẩy gỉ
-@Lĩnh vực: xây dựng
--dầm, ngâm
+intersegmental
+	
+* tính từ
+- tồn tại hoặc nảy sinh hai phân đoạn (sâu hoặc côn trùng)
+

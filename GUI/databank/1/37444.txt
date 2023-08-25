@@ -1,17 +1,5 @@
-obstruct	@obstruct /əb'strʌkt/
-*  ngoại động từ
-- làm tắc, làm bế tắc, làm nghẽn
-=to obstruct truffic+ làm nghẽn giao thông
-- ngăn, che, lấp, che khuất
-- cản trở, gây trở ngại
-=to obstruct someone's proggress+ cản trở sự tiến bộ của ai
-=to obstruct someone's activity+ gây trở ngại cho sự hoạt động của ai
-- (y học) làm tắc
-*  nội động từ
-- phá rối (ở nghị trường bằng cách nói cho hết giờ)
-@Chuyên ngành kỹ thuật
--cản trở
--chắn
--làm tắc nghẽn
-@Lĩnh vực: toán & tin
--chấn
+automated
+	
+-máy móc hóa
+-tự động hóa
+

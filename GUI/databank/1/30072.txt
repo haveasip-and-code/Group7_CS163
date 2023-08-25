@@ -1,9 +1,4 @@
-isle	
-@isle /ail/
-*  danh từ
-- (thơ ca) hòn đảo nhỏ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--đảo nhỏ
-@Lĩnh vực: xây dựng
--hòn đảo nhỏ
+microinstruction
+	
+-vi áp kế
+

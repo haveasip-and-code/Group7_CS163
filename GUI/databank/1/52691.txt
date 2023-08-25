@@ -1,3 +1,5 @@
-spright	@spright
-* danh từ
-- xem sprite
+nonatomic
+	
+* tính từ
+- phi hạt nhân, thông thường (vũ khí)
+

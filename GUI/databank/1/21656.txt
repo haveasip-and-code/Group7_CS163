@@ -1,9 +1,8 @@
-flying	
-@flying /flying/
-*  danh từ
-- sự bay
-- chuyến bay
-*  tính từ
-- bay
-- mau chóng, chớp nhoáng=a flying visit
-+ cuộc đi thăm chớp nhoáng
+condole
+	
+*  nội động từ
+- (
++ with) chia buồn, ngỏ lời chia buồn
+=to condole with someone upon something
++ chia buồn với ai về việc gì
+

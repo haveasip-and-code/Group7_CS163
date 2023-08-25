@@ -1,18 +1,5 @@
-edition	
-@edition /i'diʃn/
-*  danh từ
-- loại sách in ra loại sách xuất bản
-- số bản in ra (báo, sách...)
-- lần in ra, lần xuất bản
-- (nghĩa bóng) người giống hệt người khác; bản sao=she is a livelier edition of her sister
-+ cô ta giống hệt như cô chị nhưng hoạt bát hơn
-@Chuyên ngành kinh tế
--lần xuất bản
--số (bản) in ra
-@Chuyên ngành kỹ thuật
--ấn bản
-@Lĩnh vực: điện tử & viễn thông
--sự ấn hành
--sự xuất bản
-@Lĩnh vực: xây dựng
--thảo phẩm
+devilled
+	
+-được nướng
+-được rán quá lửa
+

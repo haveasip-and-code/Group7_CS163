@@ -1,6 +1,13 @@
-freemasonry	
-@freemasonry /'fri:,meisnri/
+humidity
+	
 *  danh từ
-- hội Tam điểm
-- những nguyên tắc điều lệ của hội Tam điểm
-- sự thông cảm tự nhiên giữa những người cùng cảnh ngộ
+- sự ẩm ướt
+- độ ẩm
+@Chuyên ngành kinh tế
+-độ ẩm
+@Chuyên ngành kỹ thuật
+-độ ẩm
+-sự làm ướt
+@Lĩnh vực: điện lạnh
+-làm ẩm ướt
+

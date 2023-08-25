@@ -1,12 +1,6 @@
-fantail	
-@fantail
-* danh từ
-- chim bồ câu đuôi quạt
-@Chuyên ngành kinh tế
--đuôi quạt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đuôi quạt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đuôi quạt
+unhitch
+	
+*  ngoại động từ
+- tháo ở móc ra
+- tháo (bò, ngựa) ra khỏi xe
+

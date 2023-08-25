@@ -1,14 +1,10 @@
-dredger	
-@dredger /'dredʤə/
+perfusion
+	
 *  danh từ
-- người đánh lưới vét
-- người nạo vét; máy nạo vét (sông, biển)
-*  danh từ
-- lọ rắc (bột, muối, hạt tiêu...)
-@Chuyên ngành kinh tế
--bình rác
--máy nạo vét
+- sự vảy, sự rắc
+- sự đổ tràn ngập; sự làm tràn ngập
 @Chuyên ngành kỹ thuật
--bơm hút bùn
--máy hút bùn
--tàu vét bùn
+@Lĩnh vực: y học
+-dịch truyền
+-sự truyền dịch
+

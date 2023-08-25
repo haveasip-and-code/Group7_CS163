@@ -1,8 +1,27 @@
-abutting	
-@abutting
-* tính từ
-- giới hạn, tiếp giáp
+limited
+	
+*  tính từ
+- có hạn, hạn chế, hạn định
+@Chuyên ngành kinh tế
+-hữu hạn
+-xe du lịch đường dài cao cấp
+-xe lửa cao cấp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sự đối đầu
--sự ghép mối
+-bị chặn
+@Lĩnh vực: toán & tin
+-bị giới hạn
+-bị hạn chế
+-được giới hạn
+@Lĩnh vực: điện
+-có hạn
+-đã hạn chế
+@Chuyên ngành kỹ thuật
+-bị chặn
+@Lĩnh vực: toán & tin
+-bị giới hạn
+-bị hạn chế
+-được giới hạn
+@Lĩnh vực: điện
+-có hạn
+-đã hạn chế
+

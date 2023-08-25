@@ -1,13 +1,6 @@
-ambiguous	
-@ambiguous /æm'bigjuəs/
-*  tính từ
-- tối nghĩa
-- không rõ ràng, mơ hồ; nước đôi, nhập nhằng=ambiguous case
-+ trường hợp nhập nhằng
-@Chuyên ngành kỹ thuật
--không xác định
--nhập nhằng
-@Lĩnh vực: điện lạnh
--không đơn trị
-@Lĩnh vực: xây dựng
--tối nghĩa
+denominationalism
+	
+* danh từ
+- việc theo những nguyên lý và quyền lợi của giáo phái
+- sự nhấn mạnh đến những khác nhau về tôn giáo; thái độ bè phái
+

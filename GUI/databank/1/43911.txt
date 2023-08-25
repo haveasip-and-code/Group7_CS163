@@ -1,14 +1,5 @@
-programmer	@programmer
-* danh từ
-- người lập trình (trên máy tính)
-@Chuyên ngành kinh tế
--người lập trình
--thảo chương viên (máy tính)
-@Chuyên ngành kỹ thuật
--lập trình viên
--người lập chương trình
--người lập trình
-@Lĩnh vực: toán & tin
--người thảo chương
--thảo chương viên
--thiết bị lập trình
+hypocaust
+	
+*  danh từ
+- (từ cổ,nghĩa cổ) (La mã) lò dưới sàn (để đun nước tắm hoặc sưởi ấm)
+

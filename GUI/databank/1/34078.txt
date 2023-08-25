@@ -1,37 +1,35 @@
-mechanism	@mechanism /'mekənizm/
+example
+	
 *  danh từ
-- máy móc, cơ cấu, cơ chế ((nghĩa đen) & (nghĩa bóng))
-=the mechanism of government+ cơ cấu chính quyền
-- kỹ thuật, kỹ xảo
-=the mechanism of a pianist+ kỹ xảo của một người chơi pianô
-- (triết học) thuyết cơ giới
-@Chuyên ngành kinh tế
--cơ cấu
--cơ chế
--cơ chế (điều tiết) tiền tệ
--cơ giới
--kết cấu
--kỹ xảo
--máy móc
--thủ pháp
+- thí dụ, ví dụ
+- mẫu, gương mẫu, gương
+=to set a good example
++ nêu gương tốt
+=to take example by
++ noi gương
+- cái để làm gương
+=to make an example of someone
++ phạt ai để làm gương
+- tiền lệ, lệ trước, vật so sánh, cái tương đương
+=without example
++ từ trước chưa hề có cái như thế
+*  ngoại động từ (từ hiếm,nghĩa hiếm)
+- dùng làm thí dụ
+- dùng làm mẫu; dùng làm gương
 @Chuyên ngành kỹ thuật
--bộ dẫn động
--bộ phận
--cấu tạo
--cấu truyền động
--chi tiết
--cơ giới
--cơ quan
--dụng cụ
--hộp chạy dao
--hộp số
--máy
--máy móc
-@Lĩnh vực: vật lý
--chế
-@Lĩnh vực: y học
--máy móc, cơ chế
--thuyết cơ giới
-@Lĩnh vực: toán & tin
--thiết bị hàm
--thiết bị máy
+-bản mẫu
+-mẫu
+-mô hình
+-phiên bản
+-ví dụ
+@Lĩnh vực: xây dựng
+-thí dụ
+@Chuyên ngành kỹ thuật
+-bản mẫu
+-mẫu
+-mô hình
+-phiên bản
+-ví dụ
+@Lĩnh vực: xây dựng
+-thí dụ
+

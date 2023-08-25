@@ -1,9 +1,20 @@
-interpolate	
-@interpolate /in'tə:pouleit/
+trellis
+	
+*  danh từ
+- lưới mắt cáo; rèm mắt cáo; hàng rào mắt cáo ((cũng) trellis
+-work)
+- giàn mắt cao (cho cây leo)
 *  ngoại động từ
-- tự ý thêm từ vào (một văn kiện...); tự ý thêm (từ) vào một văn kiện...
-- (toán học) nội suy
-*  nội động từ
-- tự ý thêm từ vào một văn kiện
+- căng lưới mắt cáo, đóng rèm mắt cáo (vào cửa sổ...)
+- cho (cây) leo lên giàn mắt cáo
 @Chuyên ngành kỹ thuật
--nội suy
+-chấn song
+-giàn
+-giàn mắt cáo
+-kết cấu rỗng
+-lưới
+-lưới mắt cáo
+-sàng
+@Lĩnh vực: điện lạnh
+-dạng mắt cáo
+

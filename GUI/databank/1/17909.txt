@@ -1,10 +1,5 @@
-embolus	
-@embolus /'embələs/
-*  danh từ
-- (y học) vật tắc mạch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--vật nghẽn mạch
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--vật nghẽn mạch
+varactor
+	
+@Lĩnh vực: điện tử & viễn thông
+-varacto (điot điện dung)
+

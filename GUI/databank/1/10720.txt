@@ -1,13 +1,12 @@
-complexity	
-@complexity /kəm'pleksiti/ (complicacy) /'kɔmplikəsi/
-*  danh từ
-- sự phức tạp, sự rắc rối
-- điều phức tạp
+waveform
+	
+- (điều khiển học) dạng sóng (của tín hiệu )
 @Chuyên ngành kỹ thuật
--phức tạp
--rắc rối
-@Lĩnh vực: toán & tin
--độ tính phức tạp
--mức độ phức tạp
+-dạng sóng
+-hình dạng sóng
+-hình sóng
 @Lĩnh vực: xây dựng
--sự phức tạp
+-có dạng sóng
+@Lĩnh vực: toán & tin
+-dạng sóng (của tín hiệu)
+

@@ -1,6 +1,11 @@
-thorax	@thorax /'θɔ:ræks/
-*  danh từ
-- (giải phẫu),  (động vật học) ngực
-- (sử học) giáp che ngực
+remainders
+	
+-hàng bán xôn
+-hàng ế bán hạ giá
+-hàng tồn
+-sách bán hạ giá
+-sách ế
+-số sách còn dư lại
 @Chuyên ngành kỹ thuật
--ngực
+-số dư
+

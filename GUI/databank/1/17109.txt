@@ -1,13 +1,6 @@
-dynamic	
-@dynamic /dai'næmik/
-*  tính từ ((cũng) dynamical)
-- (thuộc) động lực
-- (thuộc) động lực học
-- năng động, năng nổ, sôi nổi
-- (y học) (thuộc) chức năng
-*  danh từ
-- động lực
-@Chuyên ngành kỹ thuật
--động
--động lực
--động lực học
+stylistics
+	
+*  danh từ,  số nhiều dùng như số ít
+- phong cách học
+- tu từ học
+

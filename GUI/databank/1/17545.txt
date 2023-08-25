@@ -1,15 +1,9 @@
-egress	
-@egress /'i:gres/
-*  danh từ
-- sự ra
-- quyền ra vào
-- con đường ra ((nghĩa đen) & (nghĩa bóng))
-- (địa lý,địa chất) sự trồi ra trên mặt=kỹ egress of heat
-+ sự toả nhiệt
+cassiterite
+	
+* danh từ
+- caxiterit
 @Chuyên ngành kỹ thuật
--đường ra
--lối ra
--lối thoát
--ra
-@Lĩnh vực: xây dựng
--phương tiện thoát
+@Lĩnh vực: hóa học & vật liệu
+-caxiterit
+-quặng thiếc
+

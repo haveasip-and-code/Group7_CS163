@@ -1,10 +1,5 @@
-revalidate	@revalidate
-* ngoại động từ
-- làm cho lại có giá trị, làm cho lại có hiệu lực
-@Chuyên ngành kinh tế
--dùng lại
--sử dụng lại
--sự dùng lại
--sự sử dụng lại
--sự tái sử dụng
--tái sử dụng
+bolus
+	
+*  danh từ
+- (dược học) viên thuốc to
+

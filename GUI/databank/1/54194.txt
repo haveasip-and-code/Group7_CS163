@@ -1,11 +1,5 @@
-subset	@subset
-* danh từ
-- tập hợp con
-@Chuyên ngành kinh tế
--tập hợp con
-@Chuyên ngành kỹ thuật
--máy điện thoại
--máy thuê bao
-@Lĩnh vực: toán & tin
--nhóm nhỏ
--nhóm phụ
+guilty
+	
+* tính từ
+- có tội, phạm tội, tội lỗi
+

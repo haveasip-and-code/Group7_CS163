@@ -1,13 +1,10 @@
-indebtedness	
-@indebtedness /in'detidnis/
-*  danh từ
-- sự mắc nợ; công nợ; số tiền nợ
-- sự mang ơn, sự hàm ơn
-@Chuyên ngành kinh tế
--công nợ
--công nợ số tiền nợ
--số tiền mắc nợ
--sự mắc nợ
--sự thiếu nợ
+unprintable
+	
+*  tính từ
+- không in được (vì quá tục tĩu)
+=an unprintable work
++ một tác phẩm không in được (vì quá tục tĩu)
 @Chuyên ngành kỹ thuật
--sự mắc nợ
+@Lĩnh vực: toán & tin
+-không in được
+

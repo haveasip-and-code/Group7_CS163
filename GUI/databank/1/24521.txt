@@ -1,6 +1,66 @@
-guidon	
-@guidon
-* danh từ
-- cờ kỵ binh
-- cờ tín hiệu
-- người cầm cờ tín hiệu
+flare
+	
+*  danh từ
+- ngọn lửa bừng sáng, lửa léo sáng; ánh sáng loé
+- ánh sáng báo hiệu (ở biển)
+- (quân sự) pháp sáng
+- chỗ xoè (ở váy)
+- chỗ loe ra; chỗ khum lên (ở mạn tàu)
+- (nhiếp ảnh) vết mờ (ở phim ảnh do bị loé sáng)
+*  nội động từ
+- sáng rực lên, loé sáng, cháy bùng lên
+- loe ra (sườn tàu), xoè ra (váy)
+=the skirt flares at the knees
++ váy xoè ra ở chỗ đầu gối
+- (quân sự) ra hiệu bằng pháo sáng
+*  ngoại động từ
+- làm loe ra, làm xoè ra
+- (động tính từ quá khứ) loè loẹt, lồ lộ
+!to flare out (up)
+- loé lửa
+- nổi nóng, nổi cáu
+@Chuyên ngành kỹ thuật
+-ánh sáng loé, ánh sáng báo hiệu, đèn chiếu sáng, pháo sáng
+-đèn chiếu sáng
+-lỗ hình côn
+-loé áng
+-lửa báo hiệu
+-ống loe
+-sự loé sáng
+@Lĩnh vực: điện lạnh
+-ánh sáng loé
+@Lĩnh vực: cơ khí & công trình
+-chỗ loe
+@Lĩnh vực: ô tô
+-đèn báo khói
+@Lĩnh vực: hóa học & vật liệu
+-ngọn lửa của khí thải
+@Lĩnh vực: y học
+-phản ứng ban đỏ
+@Lĩnh vực: giao thông & vận tải
+-pháo sáng
+@Lĩnh vực: dệt may
+-sự loe rộng
+@Chuyên ngành kỹ thuật
+-ánh sáng loé, ánh sáng báo hiệu, đèn chiếu sáng, pháo sáng
+-đèn chiếu sáng
+-lỗ hình côn
+-loé áng
+-lửa báo hiệu
+-ống loe
+-sự loé sáng
+@Lĩnh vực: điện lạnh
+-ánh sáng loé
+@Lĩnh vực: cơ khí & công trình
+-chỗ loe
+@Lĩnh vực: ô tô
+-đèn báo khói
+@Lĩnh vực: hóa học & vật liệu
+-ngọn lửa của khí thải
+@Lĩnh vực: y học
+-phản ứng ban đỏ
+@Lĩnh vực: giao thông & vận tải
+-pháo sáng
+@Lĩnh vực: dệt may
+-sự loe rộng
+

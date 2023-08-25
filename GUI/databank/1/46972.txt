@@ -1,18 +1,13 @@
-repudiation	@repudiation /ri,pju:di'eiʃn/
+pyrometry
+	
 *  danh từ
-- sự từ chối, sự cự tuyệt, sự thoái thác, sự không nhận
-- sự bỏ (vợ)
-- sự không công nhận, sự không thừa nhận, bác bỏ (một thuyết)
-- sự quịt nợ, sự không thừa nhận (một món nợ công)
-@Chuyên ngành kinh tế
--hủy ước
--phủ nhận
--sự bác bỏ
--sự từ chối không chịu trả
--sự từ chối không chịu trả (tiền, nợ...)
--từ chối không thực hiện
--từ chối thực hiện hợp đồng
--từ chối trả nợ
+- phép đo nhiệt cao
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự phản đối
+-hỏa trắc học
+-phép đo nhiệt cao
+@Lĩnh vực: điện lạnh
+-đo cao nhiệt
+@Lĩnh vực: vật lý
+-đo nhiệt độ cao
+-phép đo cao nhiệt
+

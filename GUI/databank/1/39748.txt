@@ -1,19 +1,5 @@
-parking	@parking /'pɑ:kiɳ/
-*  danh từ
-- sự đỗ xe
-=no parking here!+ cấm đỗ xe ở đây!
-@Chuyên ngành kinh tế
--sự đậu
--sự đổi (xe)
--sự ngừng
--tạm đầu tư
-@Chuyên ngành kỹ thuật
--bãi đậu xe
--bãi đỗ
--bãi đỗ xe
--chỗ đỗ ô tô
-@Lĩnh vực: xây dựng
--điểm đỗ xe
--khu đỗ xe
--sự đỗ xe
--trạm dừng xi
+clumsily
+	
+*  phó từ
+- vụng về
+

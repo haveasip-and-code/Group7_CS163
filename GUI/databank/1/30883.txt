@@ -1,4 +1,21 @@
-keys	@Chuyên ngành kỹ thuật
--then
+electronic
+	
+*  tính từ
+- (thuộc) điện tử
+=electronic calculator
++ máy tính điện tử
+@Chuyên ngành kinh tế
+-sự đốt nóng bằng điện tử
 @Chuyên ngành kỹ thuật
--then
+-điện tử
+@Lĩnh vực: điện lạnh
+-electron
+@Lĩnh vực: toán & tin
+-kiểu điện tử
+@Chuyên ngành kỹ thuật
+-điện tử
+@Lĩnh vực: điện lạnh
+-electron
+@Lĩnh vực: toán & tin
+-kiểu điện tử
+

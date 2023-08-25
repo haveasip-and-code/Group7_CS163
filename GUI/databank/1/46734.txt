@@ -1,9 +1,9 @@
-removing	@Chuyên ngành kỹ thuật
--sự giảm tải
--sự loại bỏ
-@Lĩnh vực: xây dựng
--sự bỏ tải
--sự di chuyển đi
--sự rời đi
-@Lĩnh vực: hóa học & vật liệu
--sự tháo đi
+neologism
+	
+*  danh từ
+- từ mới
+- sự dùng từ mới
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-dùng từ mới
+

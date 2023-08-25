@@ -1,8 +1,12 @@
-martensitic	@martensitic
-* tính từ
-- (thuộc) mactensit
+halftone
+	
+- ảnh bán sắc
+@Chuyên ngành kinh tế
+-nửa tông
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--mactensit
-@Lĩnh vực: cơ khí & công trình
--mactenxit
+-ảnh nửa tông
+-nửa sắc độ
+-nửa tông
+@Lĩnh vực: toán & tin
+-ảnh bán sắc
+

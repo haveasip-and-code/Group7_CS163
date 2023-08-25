@@ -1,4 +1,33 @@
-gambusia	
-@gambusia
-* danh từ
-- cá ăn muỗi
+slave
+	
+*  danh từ
+- người nô lệ (đen & bóng)
+=a slave to drink
++ (nghĩa bóng) người nô lệ của ma men
+- người làm việc đầu tắt mặt tối, thân trâu ngựa
+- người bỉ ổi
+*  nội động từ
+- làm việc đầu tắt mặt tối, làm thân trâu ngựa
+=to slave from dawn until midnight
++ làm việc đầu tắt mặt tối từ sáng sớm đến khuya
+=to slave at mathematics
++ chăm học toán
+@Chuyên ngành kỹ thuật
+-đầy tớ
+-lệ thuộc
+-thụ động
+@Lĩnh vực: toán & tin
+-hệ lệ thuộc
+-hệ thụ động
+-máy tính phụ thuộc
+-phụ
+-thiết bị phụ thuộc
+-thợ, tớ, phụ thuộc
+@Lĩnh vực: xây dựng
+-nô lệ
+@Lĩnh vực: đo lường & điều khiển
+-máy thụ động
+-thiết bị phụ thuộc (phụ thuộc dẫn hướng)
+@Lĩnh vực: điện lạnh
+-thiết bị thụ động
+

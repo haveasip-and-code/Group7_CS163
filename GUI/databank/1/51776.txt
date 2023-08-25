@@ -1,22 +1,5 @@
-solidify	@solidify /sə'lidifai/
-*  ngoại động từ
-- làm cho đặc lại, làm cho rắn lại; làm cho đông đặc
-- làm cho vững chắc, củng cố
-*  nội động từ
-- đặc lại, rắn lại, đông đặc
-@Chuyên ngành kinh tế
--đông đặc
--đóng rắn
-@Chuyên ngành kỹ thuật
--cứng lại
--độ kiên cố
--độ rắn chắc
--độ vững chắc
--đông lại
--hóa rắn
-@Lĩnh vực: cơ khí & công trình
--hóa đặc
-@Lĩnh vực: giao thông & vận tải
--mật độ cánh quạt
-@Lĩnh vực: ô tô
--trở nên cứng
+reinhabit
+	
+* ngoại động từ
+- lại ở, lại cư trú
+

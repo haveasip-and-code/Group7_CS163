@@ -1,15 +1,5 @@
-manpower	@manpower /'mæn,pauə/
-*  danh từ
-- nhân lực; sức người
-- đơn vị sức người (1 qoành 0 mã lực)
-@Chuyên ngành kinh tế
--nhân lực
--nhân số
--số người lao động
--tổng số sức lao động
-@Chuyên ngành kỹ thuật
--người làm thuê
--nhân công
--nhân lực
-@Lĩnh vực: xây dựng
--sức người
+inlier
+	
+* danh từ
+- lớp đá trồi lên
+

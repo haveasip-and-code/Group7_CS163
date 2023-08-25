@@ -1,9 +1,10 @@
-concoction	
-@concoction /kɔn'kɔkʃn/
+callus
+	
 *  danh từ
-- sự pha chế; thuốc pha chế, đồ uống pha chế
-- sự đặt ra, sự dựng lên, sự bày ra
-@Chuyên ngành kinh tế
--hỗn hợp
--sự pha chế
--sự trộn
+- chỗ thành chai; chai (da)
+- (y học) sẹo xương
+- (thực vật học) thể chai, thể sần
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-chai, can sẹo
+

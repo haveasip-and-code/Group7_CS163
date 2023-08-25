@@ -1,17 +1,5 @@
-alteration	
-@alteration /,ɔ:ltə'reiʃn/
-*  danh từ
-- sự thay đổi, sự đổi; sự sửa đổi, sự sửa lại, sự biến đổi
-@Chuyên ngành kỹ thuật
--nhà phụ
--sự biến đổi
--sự phong hóa
--sự sửa đổi
--sự thay đổi
--sửa đổi
--thay đổi
-@Lĩnh vực: điện lạnh
--dấu biến âm
--sự biến âm
-@Lĩnh vực: xây dựng
--kết cấu bên trên
+tulipwood
+	
+@Lĩnh vực: hóa học & vật liệu
+-gỗ tulip
+

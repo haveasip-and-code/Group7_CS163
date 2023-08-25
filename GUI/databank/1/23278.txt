@@ -1,10 +1,7 @@
-geometrize	
-@geometrize
-* nội động từ
-- nghiên cứu hình học
-- vận dụng phương pháp hình học
-* ngoại động từ
-- trình bày theo phương pháp hình học
+cruciate
+	
+*  tính từ
+- (sinh vật học) hình chữ thập, chéo chữ thập
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--hình học hóa
+-hình chữ thập
+

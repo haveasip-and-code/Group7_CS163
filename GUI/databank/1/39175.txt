@@ -1,56 +1,29 @@
-package	@package /'pækidʤ/
+desire
+	
 *  danh từ
-- gói đồ; kiện hàng; hộp để đóng hàng
-- sự đóng gói hàng
-- (từ Mỹ,nghĩa Mỹ) chương trình quảng cáo hoàn chỉnh (trên đài truyền thanh, đài truyền hình)
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) món
-=that girl is a pretty package+ cô ả kia là một món xinh
+- sự thèm muốn; sự mong muốn, sự ao ước, sự khát khao, sự mơ ước, lòng thèm muốn, lòng khát khao
+=to express a desire to do something
++ tỏ lòng mong muốn làm việc gì
+=to statisfy a desire
++ thoả mãn một sự mơ ước
+- vật mong muốn, vật ao ước
+- dục vọng
+- lời đề nghị, lời yêu cầu; lệnh
+=to do something at the desire somebody
++ làm việc gì theo lời yêu cầu của ai
 *  ngoại động từ
-- đóng gói, đóng kiện, xếp vào bao bì
-- (từ Mỹ,nghĩa Mỹ) trình bày và sản xuất bao bì cho (một thứ hàng)
-- (từ Mỹ,nghĩa Mỹ) kết hợp (gộp) (các bộ phận) thành một đơn vị
+- thèm muốn; mong muốn, ao ước, khát khao, mơ ước
+=to desire something
++ ao ước cái gì
+=to desire to do something
++ mong muốn làm việc gì
+- đề nghị, yêu cầu; ra lệnh
+=to desire somebody to do something
++ yêu cầu ai làm việc gì
 @Chuyên ngành kinh tế
--bao bì
--bao gói
--bỏ bao
--bưu kiện
--đóng gói
--đóng kiện
--đóng thùng
--gói
--kiện
--mua trọn
--phí bao bì
--sự mua bao
--thiết kế và làm bao bì
--trình bày bao bì cho sản phẩm
--xếp bao bì
--xếp vào bao bì
+-sự ham muốn
 @Chuyên ngành kỹ thuật
--bó
--bộ
--bộ chương trình
--bó sợi
--gói
--khối
--ống sợi
--phí tổn đóng gói
--sự bao gói
--sự đóng bánh
--sự đóng gói
--sự khoanh vùng
-@Lĩnh vực: điện
--bó (bit nối dữ liệu)
--chương trình chuyên dụng
--kiện hàng
+-thêm
 @Lĩnh vực: toán & tin
--bộ phần mềm
--bó, gói
-@Lĩnh vực: dệt may
--bọc sợi
--búp sợi
--cuộn sợi
--kiện (hàng sợi)
-@Lĩnh vực: xây dựng
--gói thầu
--thiết bị đóng gói
+-ước muốn
+

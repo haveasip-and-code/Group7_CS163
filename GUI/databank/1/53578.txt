@@ -1,12 +1,14 @@
-straightforward	@straightforward /'streit'fɔ:wəd/
-*  tính từ
-- thành thật, thẳng thắn; cởi mở
-- không phức tạp, không rắc rối (nhiệm vụ...)
+irradiance
+	
+*  danh từ
+- sự sáng chói
+- (vật lý) sự chiếu (bức xạ...), sự rọi
 @Chuyên ngành kỹ thuật
--đơn giản
--hiển nhiên
--thẳng
-@Lĩnh vực: đo lường & điều khiển
--không phức tạp
+-bức xạ
+-độ rọi bức xạ
+-độ rọi sáng
+-sự bức xạ
+-sự chiếu sáng
 @Lĩnh vực: điện lạnh
--thấy ngay
+-độ rọi năng lượng
+

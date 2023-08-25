@@ -1,7 +1,10 @@
-clammy	
-@clammy /'klæmi/
-*  tính từ
-- lạnh và ẩm ướt
-- sền sệt; ăn dính răng (bánh)
+reproducible
+	
+* tính từ
+- có thể sinh sản (về người, động vật, sâu bọ )
 @Chuyên ngành kỹ thuật
--dính kết
+-lặp lại được
+@Lĩnh vực: toán & tin
+-sản xuất lại được
+-tái sản xuất được
+

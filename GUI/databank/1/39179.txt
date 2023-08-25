@@ -1,13 +1,7 @@
-packed	@packed
-* tính từ
-- nhồi nhét
-= an action packed story+một câu chuyện nhồi nhét hành động
-- đầu tràn
-@Chuyên ngành kinh tế
--được bao gói
--được đóng gói
-@Chuyên ngành kỹ thuật
--lèn chặt
-@Lĩnh vực: hóa học & vật liệu
--được bao gói
--được đóng bánh
+astonish
+	
+*  ngoại động từ
+- làm ngạc nhiên
+=to be astonished at...
++ lấy làm ngạc nhiên về...
+

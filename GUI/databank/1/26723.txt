@@ -1,8 +1,16 @@
-hyperplane	
-@hyperplane
-- siêu phẳng
-- h. of support siêu phẳng tựa
-- tangent h. siêu phẳng tiếp xúc
-@Chuyên ngành kỹ thuật
--siêu mặt phẳng
--siêu phẳng
+transact
+	
+*  ngoại động từ
+- làm, thực hiện; giải quyết
+=to transact business
++ giải quyết công việc
+*  nội động từ
+- (
++ with) kinh doanh với; thương lượng công việc với
+@Chuyên ngành kinh tế
+-bàn việc kinh doanh
+-giải quyết
+-giao dịch
+-quản lý giải quyết các vấn đề kinh doanh
+-thương lượng thỏa thuận về
+

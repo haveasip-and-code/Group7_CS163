@@ -1,18 +1,9 @@
-neglect	@neglect /ni'glekt/
-*  danh từ
-- sự sao lãng, sự cẩu thả, sự không chú ý
-=neglect of duty+ sự sao lãng bổn phận
-- sự bỏ bê, sự bỏ mặc
-=to be in a state of neglect+ ở trong tình trạng bị bỏ mặc không được trông nom đến
-- sự thời ơ, sự hờ hững
-=to treat somebosy with neglect+ thời ơ đối với ai
-*  ngoại động từ
-- sao lãng, không chú ý
-=to neglect one's studies+ sao lãng việc học hành
-=to neglect one's duties+ sao lãng bổn phận
-- bỏ bê, bỏ mặc
-- thờ ơ, hờ hững
-=to neglect one's friends+ thờ ơ đối với bạn bè
+byline
+	
+- Trong ấn loát văn phòng, đây là dòng ghi tên tác giả thường còn có cả chức vụ trong tổ chức và địa chỉ được đặt ngay sau đầu đề của bài viết
+@Chuyên ngành kinh tế
+-hàng tên tác giả (trên bài báo)
 @Chuyên ngành kỹ thuật
--bỏ qua
--sự bỏ qua
+@Lĩnh vực: xây dựng
+-thứ tuyến
+

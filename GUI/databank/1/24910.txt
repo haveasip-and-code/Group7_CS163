@@ -1,13 +1,6 @@
-handler	
-@handler /'hændlə/
-*  danh từ
-- người điều khiển, người xử dụng (máy...)
-- người huấn luyện võ sĩ quyền Anh
-@Chuyên ngành kỹ thuật
--bộ điều hành
--bộ điều khiển
--bộ xử lý
--người điều khiển
-@Lĩnh vực: toán & tin
--bộ quản lý
--trình xử lý
+unpainted
+	
+*  tính từ
+- không sơn
+- không đánh phấn (mặt)
+

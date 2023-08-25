@@ -1,7 +1,12 @@
-ungraded	@ungraded
-* tính từ
-- không được sắp xếp, không được phân loại
-- không được lai giống
-- chất lượng kém
+textbook
+	
+*  danh từ
+- sách giáo khoa ((như) text)
 @Chuyên ngành kinh tế
--chưa phân loại
+-sách giáo khoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-sách chữ
+@Lĩnh vực: toán & tin
+-sách giáo khoa
+

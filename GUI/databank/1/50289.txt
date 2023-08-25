@@ -1,79 +1,19 @@
-shell	@shell /ʃelf/
+lintel
+	
 *  danh từ
-- vỏ; bao; mai
-=to retire into one's shell+ rút vào vỏ của mình
-=to come out of one's shell+ ra khỏi vỏ, chan hoà với mọi người
-- vỏ tàu; tường nhà
-- quan tài trong
-- thuyền đua
-- đạn trái phá, đạn súng cối; (từ Mỹ,nghĩa Mỹ) đạn
-- đốc kiếm
-- (như) shell-jacket
-- (vật lý); (hoá học) vỏ, lớp
-=ion shell+ vỏ ion
-=electron shell+ lớp electron
-- nét đại cương (một kế hoạch)
-- vỏ bề ngoài
-- (thơ ca) đàn lia
-*  động từ
-- bóc vỏ, lột vỏ (quả đậu, tôm...); nhể (ốc)
-=to shell peas+ bóc vỏ đậu
-- phủ vỏ sò, lát bằng vỏ sò
-- bắn pháo, nã pháo
-!to shell off
-- tróc ra
-!to shell out
-- (từ lóng) trả tiền, xuỳ tiền
-@Chuyên ngành kinh tế
--vẩy
--vỏ
--vỏ cứng
--vỏ sắt
+- (kiến trúc) lanhtô, rầm đỡ (cửa sổ hay cửa ra vào)
 @Chuyên ngành kỹ thuật
--áo khuôn
--bao
--báo biểu
--bao bọc
--bộ trình báo
--cái bao
--đoạn ống
--hòm khuôn
--hộp
--khoang
--lồng
--lớp bọc
--lớp, vỏ
--ngăn
--nứt vỏ
--ống
--ống lồng
--ống lót
--ống vách
--ống xẻ
--phễu nạp liệu
--rỗ
--thùng
--tường
--vành
--vỏ (máy)
--vỏ (thiết bị gia công chất dẻo)
--vỏ bao
--vỏ bọc
--vỏ che
--vỏ che (phương pháp che khuôn)
--vỏ lò
--vỏ ống lót
--vỏ, bao bì
+-lanhtô
+-lanhtô (cửa)
+-lanhtô cửa
+-lantô (cửa)
 @Lĩnh vực: xây dựng
--bộ phận bao che
--nổi u
--vỏ
--vỏ (hộp)
--vỏ ngoài
-@Lĩnh vực: hóa học & vật liệu
--đá vỏ sò
-@Lĩnh vực: cơ khí & công trình
--mũi doa (kỹ thuật khoan)
--vách (nồi hơi)
-@Lĩnh vực: giao thông & vận tải
--vỏ tàu ngoài (đóng tàu)
+-dầm lỗ cửa
+@Chuyên ngành kỹ thuật
+-lanhtô
+-lanhtô (cửa)
+-lanhtô cửa
+-lantô (cửa)
+@Lĩnh vực: xây dựng
+-dầm lỗ cửa
+

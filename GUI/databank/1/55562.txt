@@ -1,53 +1,5 @@
-tape	@tape /teip/
-*  danh từ
-- dây, dải (để gói, buộc, viền)
-- băng
-=a tape of paper+ một băng giấy
-- băng ghi âm, băng điện tín
-- (thể dục,thể thao) dây chăng ở đích
-=to breast the tape+ tới đích đầu tiên
-*  ngoại động từ
-- viền
-=to tape a dress+ viền một cái áo
-- buộc
-=to tape a parcel+ buộc một cái gói
-- đo bằng thước dây
-- đánh dấu; tính ra chỗ (đặt cái gì...)
-=to tape an enemy battery+ tính ra chỗ đặt một ổ pháo của địch
-- (thông tục) đo, tính, xét, nắm
-=I've got the situation taped+ tôi đã nắm vững tình hình
-@Chuyên ngành kinh tế
--băng
--băng dính
--băng ghi âm
--băng ghi âm, băng từ, thuốc dán
--băng tin
--băng truyền thông tin
--băng từ
--dải
--dải băng
--dải, băng, dải màu để gói, để buộc
--thuốc dán
-@Chuyên ngành kỹ thuật
--băng
--băng (cách điện)
--băng ghi âm
--băng từ
--dải
--đánh dấu
--đo bằng thước dây
--ghi băng (từ)
--giải
--vạch
-@Lĩnh vực: cơ khí & công trình
--băng (keo) cách điện
--băng đai
--thước lá
-@Lĩnh vực: điện
--cuộn băng
-@Lĩnh vực: hóa học & vật liệu
--dây, dải
-@Lĩnh vực: toán & tin
--ghi vào băng
-@Lĩnh vực: xây dựng
--thước băng
+mesophyte
+	
+* danh từ
+- thực vật sống trong môi trường có độ ẩm vừa phải
+

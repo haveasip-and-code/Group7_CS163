@@ -1,16 +1,21 @@
-rheostat	@rheostat /'ri:əstæt/
-*  danh từ
-- (điện học) cái biến trở
+quantitative
+	
+*  tính từ
+- (thuộc) lượng, (thuộc) số lượng
+=quantitative change
++ biến đổi về lượng
+- định lượng
+=quantitative analysis
++ (hoá học) phân tích định lượng
+@Chuyên ngành kinh tế
+-định lượng
+-số lượng
+-về số lượng
 @Chuyên ngành kỹ thuật
--biến trở
--cái biến trở
--điện trở biến đổi
--điện trở điều chỉnh
+-định lượng
+-số lượng
 @Lĩnh vực: toán & tin
--bộ biến trở
--sự hàn điện trở
-@Lĩnh vực: xây dựng
--bộ biển trở
--sự hàn trở
-@Lĩnh vực: điện lạnh
--điện trở biến thiên
+-số lượng, định lượng
+@Lĩnh vực: y học
+-thuộc lượng, định lượng
+

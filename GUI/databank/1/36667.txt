@@ -1,15 +1,61 @@
-neutrality	@neutrality /nju:'træliti/
+fin
+	
 *  danh từ
-- tính chất trung lập; thái độ trung lập
-- (hoá học) trung tính
+- người Phần lan ((cũng) Finn)
+- vây cá
+- bộ thăng bằng (của máy bay)
+- (kỹ thuật) sườn, cạnh bên, rìa
+- (từ lóng) bàn tay
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tờ năm đô la
 @Chuyên ngành kinh tế
--sự trung lập
--tính cách trung lập
--tình trạng trung lập
--tính trung lập
--trung tính
+-sườn
+-vây cá
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--tính trung hòa
+-bộ ổn định
+-cánh
+-cạnh
+-độ hở
+-đường rãnh
+-gân
+-gờ
+-gờ tản nhiệt
+-khe hở
+-rìa ép
+-rìa xờm
+-sống
+-sườn
+-xờm ép
+@Lĩnh vực: cơ khí & công trình
+-bavia ( lá tản nhiệt)
+@Lĩnh vực: hóa học & vật liệu
+-bavia, rìa
+-lá tản nhiệt
+@Lĩnh vực: giao thông & vận tải
+-cánh (đóng tầu)
 @Lĩnh vực: xây dựng
--tính trung lập
+-vết ghép
+@Chuyên ngành kỹ thuật
+-bộ ổn định
+-cánh
+-cạnh
+-độ hở
+-đường rãnh
+-gân
+-gờ
+-gờ tản nhiệt
+-khe hở
+-rìa ép
+-rìa xờm
+-sống
+-sườn
+-xờm ép
+@Lĩnh vực: cơ khí & công trình
+-bavia ( lá tản nhiệt)
+@Lĩnh vực: hóa học & vật liệu
+-bavia, rìa
+-lá tản nhiệt
+@Lĩnh vực: giao thông & vận tải
+-cánh (đóng tầu)
+@Lĩnh vực: xây dựng
+-vết ghép
+

@@ -1,3 +1,70 @@
-serviced	@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--được bảo dưỡng
+choke
+	
+*  danh từ
+- lõi rau atisô
+- sự làm nghẹt, sự làm kẹt, sự tắc lại
+- sự làm ngột, sự làm tắt (tức) thở
+- chỗ thắt lại, chỗ co lại, chỗ bóp lại
+- (điện học) cuộn cảm kháng ((cũng) choker)
+=high
+-frequency choke
++ cuộn cảm kháng cao tần
+- (kỹ thuật) van điều tiết không khí; bướm gió
+*  ngoại động từ
+- làm nghẹt, làm tắc (tức) thở
+=to choke to death
++ làm cho nghẹt thở; bóp cổ chết
+- làm chết ngạt
+=to choke a plant
++ làm cho cây bị chết ngạt
+- (
++ up) bít lại, bịt lại
+=to choke [up] pipe
++ bịt ống lại
+- nén, nuốt (giận, nước mắt)
+*  nội động từ
+- nghẹt thở, ngạt thở, tắc (tức) thở
+=to choke with laughter
++ tức thở vì cười, cười ngất
+- uất, uất lên
+=to choke with anger
++ tức uất lên
+- tắc, nghẹt (ống dẫn...)
+!to choke back
+- cầm, nuốt (nước mắt)
+=to choke back one's tears
++ cầm nước mắt
+!to choke down
+- nuốt, nén
+=to choke down one's anger
++ nuốt giận
+!to choke in
+- (từ Mỹ,nghĩa Mỹ) lặng thinh, nín lặng
+!to choke off
+- bóp cổ
+- can gián, khuyên can
+- đuổi đi
+=to choke someone off
++ đuổi ai đi
+!to choke up
+- bịt, bít chặt
+- làm nghẹt (tiếng)
+- (từ Mỹ,nghĩa Mỹ) lặng thinh, nín lặng
+@Chuyên ngành kỹ thuật
+-bộ phận nghẽn hơi
+-buớm gió
+-bướm gió
+-chỗ thắt
+-làm tắc
+-ngạt gió
+-quạt gió
+-tắt
+-tiết lưu
+-tiêu âm
+-van bướm
+-van tiết lưu
+@Lĩnh vực: điện lạnh
+-cuộn cảm kháng
+@Lĩnh vực: ô tô
+-nút kéo bướm gió
+

@@ -1,8 +1,19 @@
-thermonuclear	@thermonuclear /'θə:mou'nju:kliə/
-*  tính từ
-- (thuộc) hạt nhân nóng
+compile
+	
+*  ngoại động từ
+- biên soạn, sưu tập tài liệu
+@Chuyên ngành kinh tế
+-biên soạn
+-sưu tầm tài liệu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--nhiệt hạch
-@Lĩnh vực: vật lý
--nhiệt hạt nhân
+-biên dịch
+-biên soạn
+-dịch
+-kết hợp
+-lập
+-tập hợp
+-thông dịch
+@Lĩnh vực: xây dựng
+-biên vẽ
+-sưu tập
+

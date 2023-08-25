@@ -1,8 +1,9 @@
-dentist	
-@dentist /'dentist/
-*  danh từ
-- thầy thuốc chữa răng
-- thợ trồng răng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--nha sĩ
+fungibles
+	
+* danh từ số nhiều
+- hàng hoá có thể thay thế được
+@Chuyên ngành kinh tế
+-Có thể chuyến đổi
+-Có thể hoán đổi
+-những thứ có thể thay thế nhau
+

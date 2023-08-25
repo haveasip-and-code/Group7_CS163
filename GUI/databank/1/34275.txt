@@ -1,3 +1,21 @@
-memoirs	@Chuyên ngành kỹ thuật
+involution
+	
+*  danh từ
+- sự dính dáng, sự mắc míu
+- điều rắc rối, điều phức tạp
+- sự cuộn, sự xoắn ốc; phần cuộn, phần xoắn ốc
+- (toán học) sự nâng lên luỹ thừa
+- (thực vật học) sự cuốn trong
+- (y học) sự thu teo, sự co hồi (tử cung sau khi đẻ)
+@Chuyên ngành kỹ thuật
+-ánh xạ đối hợp
+-đối hợp
+-sự cuộn
+-sự phức tạp
+-sự rắc rối
+-sự xoắn
 @Lĩnh vực: toán & tin
--ký sự
+-phép đối hợp
+@Lĩnh vực: xây dựng
+-phép mũ hóa
+

@@ -1,9 +1,5 @@
-expandable	
-@expandable
-- xem expand
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có thể giãn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có thể giãn
+subconsciously
+	
+* phó từ
+- (thuộc) tiềm thức
+

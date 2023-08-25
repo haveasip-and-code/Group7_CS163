@@ -1,8 +1,9 @@
-protoplasm	@protoplasm /protoplasm/
-*  danh từ
-- (sinh vật học) chất nguyên sinh
-@Chuyên ngành kinh tế
--chất nguyên sinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất nguyên sinh
+mouch
+	
+*  nội động từ
+- (từ lóng) (
++ about,  along) đi lang thang, thơ thẩn
+- đi lén lút
+*  ngoại động từ
+- ăn cắp, xoáy
+

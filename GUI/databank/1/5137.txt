@@ -1,21 +1,5 @@
-behavior	
-@behavior
-- (Tech) cách xử lý, chế độ; hành vi, trạng thái
-@Chuyên ngành kỹ thuật
--chạy (máy)
--động thái
--làm việc
--sự biến diễn
--trạng thái
-@Lĩnh vực: toán & tin
--cách chuyển vận
--chạy máy
-@Lĩnh vực: xây dựng
--cách vận chuyển
--thái độ
--ứng xử
-@Lĩnh vực: điện tử & viễn thông
--cách xử lý
-@Lĩnh vực: y học
--tập tính
--thái độ, hành vỉ
+garrulousness
+	
+*  danh từ
+- tính nói nhiều, tính ba hoa
+

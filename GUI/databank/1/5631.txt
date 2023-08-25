@@ -1,8 +1,14 @@
-biosphere	
-@biosphere
-* danh từ
-- sinh quyển
-@Chuyên ngành kỹ thuật
--sinh quyển
-@Lĩnh vực: môi trường
--sinh quyền
+undermining
+	
+-sự đào
+-sự gặm mòn
+-sự xói mòn
+@Lĩnh vực: xây dựng
+-sự đào dưới
+-sự đào dưới chân
+-sự khoét chân
+@Lĩnh vực: hóa học & vật liệu
+-sự khai đào ngầm
+@Lĩnh vực: cơ khí & công trình
+-sự xói lở chân
+

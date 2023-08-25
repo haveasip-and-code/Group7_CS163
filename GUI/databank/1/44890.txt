@@ -1,31 +1,30 @@
-putty	@putty /'pʌti/
+audit
+	
 *  danh từ
-- bột đánh bóng (để đánh bóng kính, kim loại) ((cũng) jewellers' putty)
-- mát tít (để gắn kính) ((cũng) glaziers' putty)
-- vữa không trộn cát (để láng mặt tường) ((cũng) lasterers' putty)
+- sự kiểm tra (sổ sách)
+=audit ale
++ bia đặc biệt trong ngày kiểm tra sổ sách
+- sự thanh toán các khoản (theo kỳ hạn) giữa tá điền và địa chủ
 *  ngoại động từ
-- gắn mát tít
+- kiểm tra (sổ sách)
+@Chuyên ngành kinh tế
+-công việc kiểm toán
+-kết toán (sổ sách)
+-kết toán sổ sách
+-kiểm toán
+-kiểm tra
+-kiểm tra (chương mục)
+-kiểm tra kế toán
+-sự kiểm tra sổ sách kế toán
+-sự quyết toán
+-sự thẩm tra
+-thẩm kế
+-việc kiểm toán
 @Chuyên ngành kỹ thuật
--bả matít
--bít
--bột đánh bóng
--chèn lấp
--gắn matít
--gắn xi măng
--keo trét kiếng
--ma tít gắn kính cửa
--miết mạch
--quét lớp lót
--vữa vôi
--vữa xi măng
-@Lĩnh vực: hóa học & vật liệu
--bột đánh bóng (kim loại)
--ma tít, vữa vôi
-@Lĩnh vực: xây dựng
--bột đánh bóng-matít
--sự bôi chất gắn
--sự gắn matit
--trát kín
--trát matit
-@Lĩnh vực: ô tô
--keo trét
+-kiểm nghiệm
+-kiểm tra
+-sự kiểm tra
+-thử
+@Lĩnh vực: giao thông & vận tải
+-kiểm toán
+

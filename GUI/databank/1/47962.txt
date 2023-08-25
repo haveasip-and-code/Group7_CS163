@@ -1,41 +1,4 @@
-room	@room /rum/
-*  danh từ
-- buồng, phòng
-=to do one's room+ thu dọn buồng
-=to keep one's room+ không ra khỏi phòng
-- cả phòng (những người ngồi trong phòng)
-=to set the room in a roar+ làm cho cả phòng cười phá lên
-- (số nhiều) căn nhà ở (có nhiều phòng)
-- chỗ
-=there is room for one more in the car+ trong xe có chỗ cho một người nữa
-=to take up too much room+ choán mất nhiều chỗ quá
-=to make (give) room for...+ nhường chỗ cho...
-- cơ hội, khả năng; duyên cớ, lý do
-=there is no room for dispute+ không có duyên cớ gì để bất hoà
-=there is no room for fear+ không có lý do gì phải sợ hãi
-=there is room for improvement+ còn có khả năng cải tiến
-!in the room of...
-- thay thế vào, ở vào địa vị...
-!no room to turn in
-!no room to swing a cat
-- hẹp bằng cái lỗ mũi; không có chỗ nào mà xoay trở
-!to prefer somebody's room to his company
-- thích không phải trông thấy ai; muốn cho ai đi khuất đi
-!I would rather have his room than his company
-- tôi muốn hắn ta đi cho khuất mắt; tôi muốn không phải trông thấy hắn ta
-*  nội động từ
-- (từ Mỹ,nghĩa Mỹ) có phòng, ở phòng cho thuê (có đủ đồ đạc)
-- ở chung phòng (với ai)
-=to room with somebody+ ở chung phòng với ai
-@Chuyên ngành kinh tế
--buồng phân xưởng
-@Chuyên ngành kỹ thuật
--buồng
--chỗ
--hầm
--không gian
--lò ngang thông gió
-@Lĩnh vực: xây dựng
--phòng
-@Lĩnh vực: y học
--phòng, buồng
+preordination
+	
+- xem preordain
+

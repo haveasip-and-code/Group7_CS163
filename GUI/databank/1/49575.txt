@@ -1,29 +1,8 @@
-seek	@seek /si:k/
-*  động từ sought
-/sɔ:t/
-- tìm, đi tìm, tìm kiếm, cố tìm cho được
-=to seek employment+ tìm việc làm
-=to go seeking advice+ đi tìm sự giúp đỡ ý kiến
-- mưu cầu, theo đuổi, nhằm vào, cố gắng
-=to seek to make peace+ cố gắng dàn hoà
-=to seek someone's life' to seek to kill someone+ nhằm hại tính mệnh ai, nhằm giết ai
-- thỉnh cầu, yêu cầu
-=to seek someone's aid+ yêu cầu sự giúp đỡ của ai
-- theo đuổi (danh vọng); săn đón, thăm hỏi
-!to seek after
-!to seek for
-- đi tìm, tìm kiếm
-!to seek out
-- tìm, nhằm tìm (ai)
-=to seek out the author of a murder+ tìm thủ phạm cho vụ giết người
-- tìm thấy
-!to seek through
-- lục tìm, lục soát
-!to be to seek (much to seek)
-- còn thiếu, còn cần
-=good teacher are to seek+ còn thiếu nhiều giáo viên giỏi
-=to be to seek in grammar+ cần phải học thêm ngữ pháp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tìm kiếm truy tìm
--tìm tòi cố gắng
+acrid
+	
+*  tính từ
+- hăng, cay sè
+- chua cay, gay gắt (lời nói, thái độ...)
+@Chuyên ngành kinh tế
+-hăng
+

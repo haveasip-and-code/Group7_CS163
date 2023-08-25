@@ -1,13 +1,19 @@
-diopter	
-@diopter /dai'ɔptə/ (dioptre) /dai'ɔptə/
+launcher
+	
 *  danh từ
-- (vật lý) điôt
+- người phóng, máy phóng (lựu đạn, tên lửa...)
 @Chuyên ngành kỹ thuật
--đi
--ốp
--lưỡng chất
-@Lĩnh vực: y học
--độ đi
--ốp
+-thiết bị khởi động
+@Lĩnh vực: điện tử & viễn thông
+-bộ phận phóng
+-dàn phóng
 @Lĩnh vực: điện lạnh
--số điôp
+-giàn phóng
+@Chuyên ngành kỹ thuật
+-thiết bị khởi động
+@Lĩnh vực: điện tử & viễn thông
+-bộ phận phóng
+-dàn phóng
+@Lĩnh vực: điện lạnh
+-giàn phóng
+

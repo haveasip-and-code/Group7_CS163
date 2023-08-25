@@ -1,11 +1,8 @@
-adaptability	
-@adaptability /ə,dæptə'biliti/ (adaptableness) /ə'dæptəblnis/
+modifier
+	
 *  danh từ
-- tính có thể tra vào, tính có thể lắp vào
-- khả năng phỏng theo được, khả năng sửa lại được cho hợp
-- khả năng thích nghi, khả năng thích ứng
+- (ngôn ngữ học) từ bổ nghĩa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--khả năng thích nghi
--khả năng thích ứng
--tính tương hợp
+-bộ điều chỉnh
+-chỉnh viên
+

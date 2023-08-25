@@ -1,5 +1,52 @@
-rigmarole	@rigmarole /'rigməroul/
+ferrule
+	
 *  danh từ
-- sự kể lể huyên thiên, sự kể lể dông dài
-- câu chuyện vô nghĩa, câu chuyện không đâu vào đâu
-- (định ngữ) không đầu không đuôi, rời rạc, không có mạch lạc
+- sắt bịt đầu, sắt bịt đầu ống
+- vòng sắt đệm, vòng sắt nối
+@Chuyên ngành kỹ thuật
+-đai
+-đầu bịt
+-măng sông
+-ống bọc cán
+-ống kẹp
+-ống nối
+-vành
+-vành tụ điện
+-vành tỳ
+-vòng kẹp
+@Lĩnh vực: hóa học & vật liệu
+-bịt đầu ống
+@Lĩnh vực: vật lý
+-đai chuôi
+@Lĩnh vực: xây dựng
+-ống bịt
+-ống măng sông
+@Lĩnh vực: cơ khí & công trình
+-ống tăng bền
+-vòng sắt đệm
+@Lĩnh vực: điện tử & viễn thông
+-vòng bọc
+@Chuyên ngành kỹ thuật
+-đai
+-đầu bịt
+-măng sông
+-ống bọc cán
+-ống kẹp
+-ống nối
+-vành
+-vành tụ điện
+-vành tỳ
+-vòng kẹp
+@Lĩnh vực: hóa học & vật liệu
+-bịt đầu ống
+@Lĩnh vực: vật lý
+-đai chuôi
+@Lĩnh vực: xây dựng
+-ống bịt
+-ống măng sông
+@Lĩnh vực: cơ khí & công trình
+-ống tăng bền
+-vòng sắt đệm
+@Lĩnh vực: điện tử & viễn thông
+-vòng bọc
+

@@ -1,10 +1,5 @@
-worksheet	@worksheet
-* danh từ
-- giấy chấm công
-@Chuyên ngành kỹ thuật
--bảng tính
-@Lĩnh vực: toán & tin
--bảng công tác
--phiếu công tác
-@Lĩnh vực: xây dựng
--tờ làm việc
+stammerer
+	
+*  danh từ
+- người nói lắp
+

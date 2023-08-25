@@ -1,15 +1,9 @@
-accidental	
-@accidental /,æksi'dentl/
-*  tính từ
-- tình cờ, ngẫu nhiên; bất ngờ
-- phụ, phụ thuộc, không chủ yếu
+toffee
+	
 *  danh từ
-- cái phụ, cái không chủ yếu
-- (âm nhạc) dấu thăng giáng bất thường
-@Chuyên ngành kinh tế
--ngẫu nhiên
-@Chuyên ngành kỹ thuật
--bất ngờ
--ngẫu nhiên
-@Lĩnh vực: xây dựng
--tình cờ
+- kẹo bơ cứng
+!not for toffee
+- (thông tục) không một tí nào, hoàn toàn không
+=he can't sing for toffee
++ nó không biết hát tí nào
+

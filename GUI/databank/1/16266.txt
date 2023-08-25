@@ -1,7 +1,19 @@
-diverticulosis	
-@diverticulosis
+standpipe
+	
 * danh từ
-- viêm túi thừa
+- (kỹ thuật) ống nước đứng (để cấp nước ở bên ngoài hoặc cách xa các toà nhà)
+- ống đo áp
+- cột lấy nước (để chữa cháy)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh chi nang ruột non
+-bình chữa cháy
+-đài nước
+-ống chặn
+-ống dây bùn
+-ống đứng
+-ống nước đứng
+-tháp nước
+-vòi phun nước
+@Lĩnh vực: xây dựng
+-cột nước có áp
+-ống khói gạch
+

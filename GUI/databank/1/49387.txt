@@ -1,30 +1,8 @@
-sea	@sea /si:/
-*  danh từ
-- biển
-=by sea+ bằng đường biển
-=mistress of the seas+ cường quốc làm chủ mặt biển
-=sea like a looking-glass+ biển yên gió lặng
-- sóng biển
-=to ship a sea+ bị một ngọn sóng làm ngập (tàu...)
-- biển (khoảng rộng như biển); nhiều (về số lượng)
-=a sea of flame+ một biển lửa
-=seas of blood+ máu chảy thành sông; (nghĩa bóng) sự chém giết tàn nhẫn
-=a sea of troubles+ nhiều chuyện phiền hà
-!at sea
-- ở ngoài khơi
-- (nghĩa bóng) hoang mang, bối rối, không hiểu ra thế nào, không biết làm thế nào
-!to go to sea
-- trở thành thuỷ thủ
-!to follow the sea
-- làm nghề thuỷ thủ
-!to put to sea
-- ra khơi
-!half seas over
-- quá chén
-@Chuyên ngành kinh tế
--biển
+identically
+	
+* phó từ
+- tương tự nhau, y hệt nhau
 @Chuyên ngành kỹ thuật
--bể
--biển
--đại dương
--sóng biển
+@Lĩnh vực: toán & tin
+-một cách đồng nhất
+

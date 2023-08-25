@@ -1,18 +1,13 @@
-liquefy	@liquefy /'likwifai/
-*  ngoại động từ
-- nấu chảy, cho hoá lỏng
-*  nội động từ
-- chảy ra, hoá lỏng
+microscopy
+	
+*  danh từ
+- sự dùng kính hiển vi; sự soi kính hiển vi
 @Chuyên ngành kinh tế
--hóa lỏng
--nấu chảy
+-sự soi kính hiển vi
+-sự sử dụng kính hiển vi
 @Chuyên ngành kỹ thuật
--hóa lỏng
--pha loãng
-@Lĩnh vực: hóa học & vật liệu
--hóa lỏng khí
-@Chuyên ngành kỹ thuật
--hóa lỏng
--pha loãng
-@Lĩnh vực: hóa học & vật liệu
--hóa lỏng khí
+@Lĩnh vực: điện lạnh
+-hiển vi
+@Lĩnh vực: y học
+-sự soi kính hiển vi
+

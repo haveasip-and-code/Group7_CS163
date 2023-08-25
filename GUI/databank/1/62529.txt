@@ -1,14 +1,43 @@
-wattle	@wattle /'wɔtl/
-*  danh từ
-- yếm thịt (ở dưới cổ gà tây)
-- râu cá
-*  danh từ
-- cọc, cừ (để giữ đất khỏi lở)
-- phên, liếp
-- (thực vật học) cây keo
+argue
+	
 *  ngoại động từ
-- đan (que...) thành phên liếp
-- làm (tường, hàng rào...) bằng phên liếp
+- chứng tỏ, chỉ rõ
+=it argues him [to be] an honest man
++ điều đó chứng tỏ anh ta là một người lương thiện
+=it argues honesty in him
++ điều đó chứng tỏ anh ta lương thiện
+- tranh cãi, tranh luận
+=to argue a matter
++ tranh luận một vấn đề
+- cãi lẽ, lấy lý lẽ để bảo vệ; tìm lý lẽ để chứng minh
+=to argue that something is possible
++ lấy lý lẽ để bảo vệ ý kiến rằng một việc gì đó có thể làm được (có thể xảy ra được)
+=to argue something away
++ lấy lý lẽ để bác bỏ cái gì
+- thuyết phục
+=to argue something out of his opinion
++ thuyết phục ai bỏ ý kiến
+=to argue someone into believing something
++ thuyết phục ai tin ở cái gì
+- rút ra kết luận
+=what do you argue from it?
++ anh rút ra được từ điều đó kết luận gì?
+*  nội động từ
+- dùng lý lẽ (để biện hộ, để chống lại...)
+=to argue for something
++ dùng lý lẽ để biện hộ cho cái gì
+- cãi lý, cãi lẽ
+=to be always arguing
++ hay cãi lý, cãi lẽ
+=to argue with somebody
++ cãi lý với ai
 @Chuyên ngành kỹ thuật
+-lý luận
+@Lĩnh vực: toán & tin
+-bàn bạc
+-bàn luận
+-phán đoán
+-thảo luận
 @Lĩnh vực: xây dựng
--phên liếp
+-biện luận
+

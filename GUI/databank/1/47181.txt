@@ -1,44 +1,5 @@
-response	@response /ris'pɔns/
-*  danh từ
-- sự trả lời
-- sự đáp lại, sự hưởng ứng
-=in response to the appeal+ hưởng ứng lời kêu gọi
-=to meet with a warm response+ được hưởng ứng nhiệt liệt
-- sự phản ứng lại; vận động phản ứng lại (khi bị kích thích...)
-- (tôn giáo),  (như) responsory
-@Chuyên ngành kinh tế
--câu trả lời
--đáp ứng
--hưởng ứng
--phản ứng
--sự đáp lại
--sự hồi đáp
--sự trả lời
--thư hồi đáp
--thư trả lời
-@Chuyên ngành kỹ thuật
--bộ đáp ứng
--đặc trưng
--đáp ứng
--độ đáp ứng
--độ nhạy
--đường đặc trưng
--phản ứng
--sự báo nhận
--sự đáp ứng
--sự tiêu hao
--tín hiệu đáp
-@Lĩnh vực: điện
--đáp tuyến
--sự trả lời
-@Lĩnh vực: vật lý
--hệ số đáp ứng
--sự đáp ứng tần
-@Lĩnh vực: xây dựng
--sự gây phản ứng
-@Lĩnh vực: điện lạnh
--sự hưởng ứng
-@Lĩnh vực: cơ khí & công trình
--sự phản ứng lại
-@Lĩnh vực: y học
--sự trả lời, đáp lại, phản ứng
+lophophore
+	
+* danh từ
+- vòng râu sờ (ở động vật hình rêu)
+

@@ -1,9 +1,6 @@
-therm	@therm
-* danh từ
-- đơn vị nhiệt (nhất là để đo việc cung cấp khí đốt; bằng 1000000 đơn vị nhiệt của Anh)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--calo (Mỹ)
--kilôcalo (Anh)
-@Lĩnh vực: xây dựng
--term (105, 5 Mj)
+preacher
+	
+*  danh từ
+- người thuyết giáo, người thuyết pháp
+- người hay thuyết, người hay lên mặt dạy đời
+

@@ -1,32 +1,27 @@
-squint	@squint /skwint/
+missile
+	
 *  tính từ
-- (y học) lác (mắt)
+- có thể phóng ra
+=a missile weapon
++ vũ khí có thể phóng ra
 *  danh từ
-- tật lác mắt
-- cái liếc mắt
-- (thông tục) sự nhìn, sự xem
-=let me have a squintat it+ cho tôi xem một tí nào
-- sự nghiêng về, sự ngả về (một chính sách)
-=to have a squint to some policy+ ngã về một chính sách nào
-- lỗ chiêm ngưỡng (đục qua tường trong nhà thờ, để nhìn thấy bàn thờ)
-*  nội động từ
-- có tật lác mắt
-- liếc, liếc nhìn
-=to squint at something+ liếc nhìn vật gì
-*  ngoại động từ
-- làm cho (mắt) lác
-- nhắm nhanh (mắt)
-- nheo (mắt)
+- vật phóng ra (đá, tên, mác...)
+- tên lửa
+=an air
+-to
+-air missile
++ tên lửa không đối không
+=to conduct guided missile nuclear weapon test
++ tiến hành thử vũ khí tên lửa hạt nhân điều khiển
 @Chuyên ngành kỹ thuật
+-đầu đạn
+-tên
+@Lĩnh vực: hóa học & vật liệu
+-đạn phản lực
 @Lĩnh vực: xây dựng
--gạch hình góc tường (để xây góc tường không vuông)
--lỗ chiêm ngưỡng (đục qua tường nhà thờ)
--lỗ xiên (que tường)
+-phi đạn
+@Lĩnh vực: toán & tin
+-phi đạn, tên
 @Lĩnh vực: điện lạnh
--góc bức xạ (so với một trục hình học lựa chọn)
--góc chuyển búp (ở ăng ten chuyển búp rađa)
--góc quét (ăng ten rađa)
-@Lĩnh vực: y học
--lé
-@Lĩnh vực: điện tử & viễn thông
--tật lé mắt
+-tên lửa
+

@@ -1,11 +1,7 @@
-drizzle	
-@drizzle /'drizl/
-*  danh từ
-- mưa phùn, mưa bụi
-*  nội động từ
-- mưa phùn, mưa bụi=it drizzles
-+ trời mưa phùn
-@Chuyên ngành kỹ thuật
--mưa bụi
--mưa phùn
--phun mù
+unshaded
+	
+*  tính từ
+- không có bóng mát, không có bóng râm
+- không có chụp (đèn)
+- không đánh bóng (bức vẽ)
+

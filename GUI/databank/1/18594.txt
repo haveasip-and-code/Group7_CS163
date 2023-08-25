@@ -1,68 +1,20 @@
-entry	
-@entry /'entri/
+soda
+	
 *  danh từ
-- sự đi vào
-- (sân khấu) sự ra (của một diễn viên)
-- lối đi vào, cổng đi vào
-- (pháp lý) sự tiếp nhận
-- sự ghi vào (sổ sách); mục (ghi vào sổ)
-- mục từ (trong từ điển)
-- danh sách người thi đấu; sự ghi tên người thi đấu
+- (hoá học) Natri cacbonat
+- nước xô
+-đa (giải khát) ((cũng) soda
+-water)
 @Chuyên ngành kinh tế
--bút toán
--cửa vào
--ghi
--giấy khai hải quan
--khai hải quan
--sự đi vào
--sự ghi vào sổ kế toán
--sự khai hải quan
--thâm nhập
--thâm nhập (thị trường)
--tiến nhập
+-cácbonat natri
+-nước uống có ga
+-sođa
 @Chuyên ngành kỹ thuật
--cửa vào
--đầu vào
--hầm lò
--lối vào
--lối vào (bảng)
--nhập mục
--mục nhập
--sự đưa vào
--sự nhập
--sự vào
--tiếp nhận
--vận chuyển
-@Lĩnh vực: toán & tin
--đầu nhập
--mục ghi chú
--mục vào
--sự gia nhập
+-sođa
 @Lĩnh vực: hóa học & vật liệu
--lò chuẩn bị
--vào sổ
-@Lĩnh vực: xây dựng
--lối đi vào
-@Chuyên ngành kỹ thuật
--cửa vào
--đầu vào
--hầm lò
--lối vào
--lối vào (bảng)
--nhập mục
--mục nhập
--sự đưa vào
--sự nhập
--sự vào
--tiếp nhận
--vận chuyển
-@Lĩnh vực: toán & tin
--đầu nhập
--mục ghi chú
--mục vào
--sự gia nhập
-@Lĩnh vực: hóa học & vật liệu
--lò chuẩn bị
--vào sổ
-@Lĩnh vực: xây dựng
--lối đi vào
+-Na2CO3
+@Lĩnh vực: y học
+-sô đa, thuộc về natri
+@Lĩnh vực: điện lạnh
+-xút
+

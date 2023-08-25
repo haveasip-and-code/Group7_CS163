@@ -1,10 +1,8 @@
-soap	@soap /soup/
-*  danh từ
-- xà phòng
-*  động từ
-- xát xà phòng, vò xà phòng
-- giặt bằng xà phòng
-@Chuyên ngành kinh tế
--xà phòng
-@Chuyên ngành kỹ thuật
--xà phòng
+recharging
+	
+-sự nạp lại
+@Lĩnh vực: cơ khí & công trình
+-sự nạp lại bình
+@Lĩnh vực: điện
+-sự tái nạp
+

@@ -1,25 +1,17 @@
-till	@till /til/
+asset
+	
 *  danh từ
-- ngăn kéo để tiền
-!to be caught with one's hand in the till
-- bị bắt quả tang
-*  danh từ
-- (địa lý,địa chất) sét tảng lăn
-*  ngoại động từ
-- trồng trọt, cày cấy; cày bừa
-*  giới từ
-- đến, tới
-=till now+ đến bây giờ, đến nay
-=till then+ đến lúc ấy
-*  liên từ
-- cho đến khi
-=wait till I come+ chờ cho đến khi tôi tới
-- trước khi
-=don't get down till the train has stopped+ đừng xuống trước khi xe lửa đỗ hẳn
+- (số nhiều) tài sản (của một người hay một công ty) có thể dùng để trả nợ
+- (số nhiều) tài sản của người không thể trả được nợ
+- (số nhiều) của cải, tài sản, vật thuộc quyền sở hữ
+=real assets
++ bất động sản
+=personal assets
++ động sản
+- (thông tục) vốn quý, vật có ích, vật quý
 @Chuyên ngành kinh tế
--ngăn kéo để tiền
+-người hữu dụng
+-tài sản
 @Chuyên ngành kỹ thuật
--sét lẫn cuội
--sét lẫn đá tảng
--sét lẫn sỏi
--sét tảng lăn
+-của cải
+

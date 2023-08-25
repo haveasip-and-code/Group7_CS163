@@ -1,20 +1,5 @@
-bandwidth	
-@bandwidth
-- (Tech) dải thông, bề rộng băng tần, dãy sóng
-@Chuyên ngành kỹ thuật
--băng tần
--dải tần
--dải thông
-@Lĩnh vực: ô tô
--băng tần (rađiô)
-@Lĩnh vực: toán & tin
--băng thông
--độ rộng băng tần
--độ rộng dải tần
-@Lĩnh vực: điện lạnh
--bề rộng dải
-@Lĩnh vực: cơ khí & công trình
--chiều rộng dải tần
-@Lĩnh vực: xây dựng
--giai tần
--khổ tần số
+thaumaturge
+	
+*  danh từ
+- người có phép thần thông, người có phép ảo thuật
+

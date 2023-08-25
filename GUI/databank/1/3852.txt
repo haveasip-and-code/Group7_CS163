@@ -1,8 +1,9 @@
-attachable	
-@attachable
-- xem attach
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có thể gắn liền
--có thể kèm thêm
--có thể kết nối
+peerage
+	
+*  danh từ
+- các khanh tướng
+- hàng quý tộc, hàng khanh tướng
+=to be raised to the peerage
++ được phong khanh tướng
+- danh sách các khanh tướng
+

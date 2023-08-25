@@ -1,19 +1,15 @@
-exterior	
-@exterior /eks'tiəriə/
+prospective
+	
 *  tính từ
-- ngoài, ở ngoài, từ ngoài vào=exterior angle
-+ (toán học) góc ngoài
-- (từ Mỹ,nghĩa Mỹ) nước ngoài
-*  danh từ
-- bề ngoài; mặt ngoài, bên ngoài
-- cách cư xử bề ngoài; vẻ bề ngoài
+- (thuộc) tương lai, sẽ tới về sau
+=this law is purely prospective
++ đạo luật này chỉ áp dụng ở tương lai
+=the prospective profit
++ món lãi tương lai, món lãi về sau
 @Chuyên ngành kỹ thuật
--bề mặt ngoài
--bên ngoài
--ngoại
--ở ngoài
-@Chuyên ngành kỹ thuật
--bề mặt ngoài
--bên ngoài
--ngoại
--ở ngoài
+-phối cảnh
+@Lĩnh vực: hóa học & vật liệu
+-có triển vọng (khoáng sản)
+@Lĩnh vực: toán & tin
+-sắp tới
+

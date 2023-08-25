@@ -1,6 +1,6 @@
-hooklet	
-@hooklet /'huklit/
-*  danh từ
-- cái móc nhỏ
-@Chuyên ngành kinh tế
--cái móc nhỏ
+onstream
+	
+@Lĩnh vực: cơ khí & công trình
+-trên lòng dẫn
+-trên sông
+

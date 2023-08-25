@@ -1,14 +1,20 @@
-activator	
-@activator
-- xem activate
-@Chuyên ngành kinh tế
--chất hoạt hóa
+underlay
+	
+*  thời quá khứ của underlie
+*  ngoại động từ underlaid
+- đặt bên dưới
+- đỡ, trụ
+*  danh từ
+- giấy lót (dưới chữ in cho chữ in nổi lên)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--bộ hoạt hóa
--bộ kích hoạt
-@Lĩnh vực: điện
--cực kích hoạt
-@Lĩnh vực: xây dựng
--máy kích động
--thiết bị hoạt hóa
+-lớp đệm
+-lớp lót
+-lớp nằm dưới
+-lớp nền
+-sự nghiêng
+@Lĩnh vực: dệt may
+-lớp lót thảm
+@Lĩnh vực: hóa học & vật liệu
+-sự đứt ở dưới
+-sự nằm dưới
+

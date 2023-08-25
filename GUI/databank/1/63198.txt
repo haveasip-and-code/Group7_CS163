@@ -1,40 +1,7 @@
-wood	@wood /wud/
-*  danh từ
-- gỗ
-=soft wood+ gỗ mềm
-=made of wood+ làm bằng gỗ
-- củi
-=to put wood on the fire+ bỏ củi vào bếp
-- ((thường) số nhiều) rừng
-=a wood of beech+ rừng sồi
-- thùng gỗ (đựng rượu)
-- (âm nhạc) (the wood) kèn sáo bằng gỗ
-!to be unable to see the wood for the trees
-- thấy cây mà không thấy rừng, nhìn thấy hiện tượng mà không thấy bản chất
-!he is wood from the neck up
-- (thông tục) nó dốt đặc, nó ngu lắm
-!out of the wood
-- khỏi nguy hiểm, thoát nạn
-!to run to wood
-- phát cáu, nổi giận
-!to take to the woods
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chạy trốn, tẩu thoát
+cometic
+	
 *  tính từ
-- bằng gỗ
-=wood floor+ sàn gỗ
-- (thuộc) rừng
-=wood flowers+ những bông hoa rừng
-*  động từ
-- cung cấp củi; lấy củi
-- trồng rừng
-@Chuyên ngành kỹ thuật
--bằng gỗ
--gỗ
--gỗ làm nhà
--gỗ xẻ
--rừng
--tà vẹt
--trồng rừng
--vật liệu gỗ
-@Lĩnh vực: hóa học & vật liệu
--vật liệu bằng gỗ
+- (thuộc) sao chổi
+=cometary system
++ hệ sao chổi
+

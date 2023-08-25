@@ -1,63 +1,8 @@
-hook	
-@hook /huk/
-*  danh từ
-- cái móc, cái mác
-- bản lề cửa
-- (từ lóng) cái neo
-- lưỡi câu ((cũng) fish hook)
-- lưỡi liềm, lưỡi hái; dao quắm
-- (thể dục,thể thao) cú đấm móc (quyền Anh)
-- (thể dục,thể thao) cú đánh nhẹ sang tría (đánh gôn)
-- (thể dục,thể thao) cú hất móc về đằng sau (bóng bầu dục)
-- mũi đất; khúc cong (của con sông)
-- (nghĩa bóng) cạm bẫy!by hook or by crook
-- bằng đủ mọi cách, trăm phương nghìn kế (để đạt mục đích gì...)!to drop (pop) off the hooks
-- (từ lóng) chết!hook and eye
-- cái móc gài (để gài hai bên mép áo...)!hook, line and sinker
-- (xem) sinker!on one's own hook
-- (từ lóng) cho riêng mình phải gánh vác một mình!to take (sling) one's hook
-- (từ lóng) chuồn, tẩu, cuốn gói
+perpend
+	
 *  ngoại động từ
-- móc vào, treo vào, mắc vào; gài bằng móc
-- câu (cá); (nghĩa bóng) câu (chồng)
-- (từ lóng) móc túi, ăn cắp, xoáy
-- (thể dục,thể thao) đấm móc (quyền Anh)
-- (thể dục,thể thao) đánh nhẹ sang trái (đánh gôn)
-- (thể dục,thể thao) hất móc về đằng sau (bóng bầu dục)
-*  nội động từ
-- cong lại thành hình móc
-- (
-+ on) móc vào, mắc vào; bị móc vào, bị mắc vào; bíu lấy (cánh tay...)!to look it
-- chuồn, tẩu, cuốn gói
-@Chuyên ngành kinh tế
--lưỡi câu cá
--móc
+- (từ cổ,nghĩa cổ) cân nhắc, suy nghĩ
 @Chuyên ngành kỹ thuật
--bản lề cửa
--buộc
--cái ngoạm
--chân trời
--chỗ uốn cong
--đai
--dấu móc
--đường nằm ngang
--ghép
--kẹp
--khuôn kẹp
--lưỡi câu
--nối
--mắc
--móc
--móc (vào)
--móc nối
--móc vào
--mức
--tầng
--vòng kẹp
-@Lĩnh vực: dệt may
--cái mắc
-@Lĩnh vực: xây dựng
--chốt kiểu móc
--móc cẩu hàng
-@Lĩnh vực: điện
--treo vào
+-cân nhắc
+-suy nghĩ
+

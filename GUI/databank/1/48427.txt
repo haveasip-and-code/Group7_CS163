@@ -1,10 +1,5 @@
-sailor	@sailor /'seilə/
-*  danh từ
-- lính thuỷ, thuỷ thủ
-!bad sailor
-- người hay bị say sóng
-!good sailor
-- người đi biển không bị say sóng
-@Chuyên ngành kỹ thuật
--lính thủy
--thủy thủ
+restaurateur
+	
+* danh từ
+- người quản lý, giám đốc, chủ (khách sạn, hiệu ăn)
+

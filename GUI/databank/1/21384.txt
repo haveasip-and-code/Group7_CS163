@@ -1,16 +1,9 @@
-flee	
-@flee /flee/
-*  nội động từ fled
-- chạy trốn, bỏ chạy; lẩn trốn
-- biến mất; qua đi, trôi qua=the night had fled
-+ đêm đã trôi qua=time is fleeing away
-+ thời gian thấm thoát trôi qua
-*  ngoại động từ
-- chạy trốn, vội vã rời bỏ
-- trốn tránh, lẩn tránh
+summable
+	
+- s. khả tổng; khả tích
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trốn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trốn
+@Lĩnh vực: toán & tin
+-khả tích
+-khả tổng
+-khả tổng, khả tích
+

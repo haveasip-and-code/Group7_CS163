@@ -1,12 +1,12 @@
-launching	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đúc đẩy
--lao cầu
--sự hạ thủy
--sự lao cầu
+triangulation
+	
+*  danh từ
+- phép đạc tam giác
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đúc đẩy
--lao cầu
--sự hạ thủy
--sự lao cầu
+-phép tam giác đạc
+@Lĩnh vực: toán & tin
+-phép đạc tam giác
+-phép tam giác phân
+@Lĩnh vực: điện lạnh
+-tam giác đạc
+

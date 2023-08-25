@@ -1,6 +1,32 @@
-syenite	@syenite /'saiinait/
+licence
+	
+*  ngoại động từ
++ (license) /'laisəns/
+- cho phép; cấp giấy phép, cấp môn bài, cấp đăng ký
 *  danh từ
-- (địa lý,địa chất) Xienit
+- sự cho phép; giấy phép, môn bài, đăng ký
+=marriage licence
++ giấy đăng ký kết hôn
+=shooting licence
++ giấy phép săn bắn
+- bằng, chứng chỉ
+=driving licence
++ bằng lái xe
+- bằng cử nhân
+- sự phóng túng, sự bừa bâi; sự dâm loạn
+- (thơ ca) sự phóng túng về niêm luật
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--xienit
+-bản quyền
+-đăng ký
+-giấy phép
+-môn bài
+@Lĩnh vực: toán & tin
+-cấp quyền
+@Chuyên ngành kỹ thuật
+-bản quyền
+-đăng ký
+-giấy phép
+-môn bài
+@Lĩnh vực: toán & tin
+-cấp quyền
+

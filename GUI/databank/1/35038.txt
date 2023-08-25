@@ -1,5 +1,9 @@
-misalign	@Chuyên ngành kỹ thuật
--lệch trục
-@Lĩnh vực: cơ khí & công trình
--chệch
--không trùng
+composer
+	
+*  danh từ
+- người soạn nhạc
+- người soạn, người sáng tác
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-soạn thảo viên
+

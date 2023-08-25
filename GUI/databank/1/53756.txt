@@ -1,35 +1,5 @@
-stripper	@stripper /'stripə/
-*  danh từ
-- người tước cọng thuốc lá; máy tước cọng thuốc lá
-- (từ Mỹ,nghĩa Mỹ) (như) strip-teaser
-@Chuyên ngành kinh tế
--máy bào
--máy ép ruột
--máy làm sạch vỏ
--máy tách gân chính (của máy thuốc lá)
--máy tước vỏ
--ngăn rửa bằng hơi nước (của tháp tinh cất)
--người bán tống
--người tháo dỡ
-@Chuyên ngành kỹ thuật
--cột cất
--kìm nhổ đinh
--máy bao than
--máy bơm phun
--máy ép gạch
-@Lĩnh vực: toán & tin
--bộ tách giấy (khởi cơ cấu in)
-@Lĩnh vực: cơ khí & công trình
--cần trục dỡ (thỏi)
--dung dịch tẩy sơn
--thiết bị tháo dỡ
-@Lĩnh vực: điện
--dao gọt dây
--kìm bóc dây điện
--kìm tuốt
-@Lĩnh vực: hóa học & vật liệu
--dung môi loại bỏ khí
--giếng biên (sản lượng thấp)
--máy dỡ thỏi
--thiết bị tháo khuôn
--vật liệu bịt kín (ống sản xuất dưới áp lực)
+plethysmography
+	
+@Lĩnh vực: y học
+-phép ghi biến đổi thể tích
+

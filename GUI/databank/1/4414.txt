@@ -1,11 +1,5 @@
-backwash	
-@backwash /'bækwɔʃ/
-*  danh từ
-- nước xoáy ngược, nước cuộn ngược, nước bị mái chèo đẩy ngược
-- (hàng không) luồng không khí xoáy (sau máy bay)
-@Chuyên ngành kỹ thuật
--nước cuộn ngược
--nước xoáy ngược
--sự dâng nước
-@Lĩnh vực: xây dựng
--nước đẩy được
+inoperable
+	
+*  tính từ
+- không mổ được (ung thư...)
+

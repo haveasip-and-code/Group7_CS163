@@ -1,17 +1,7 @@
-vendor	@vendor /'vendɔ:/
+flagship
+	
 *  danh từ
-- (như) vender
-- (pháp lý) người bán nhà đất
-- (từ Mỹ,nghĩa Mỹ) (như) vending_machine
+- (hàng hải) tàu đô đốc (trong đó có đô đốc)
 @Chuyên ngành kinh tế
--bên bán
--người bán
--người bán hàng
-@Chuyên ngành kỹ thuật
--chủ bán
--đại lý
--người bán
--nhà cung cấp
-@Lĩnh vực: toán & tin
--cung cấp
--đại lý, cung cấp
+-tàu đầu đàn
+

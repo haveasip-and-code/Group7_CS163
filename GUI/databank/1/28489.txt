@@ -1,15 +1,10 @@
-inflammation	
-@inflammation /,inflə'meiʃn/
-*  danh từ
-- sự đốt cháy; sự bốc cháy
-- sự khích động; sự bị khích động
-- (y học) viêm
-@Chuyên ngành kinh tế
--sự cháy
--sự phát hỏa
+silicify
+	
+*  động từ
+- thấm silic đioxyt
+- hoá thành silic đioxyt, hoá đá
 @Chuyên ngành kỹ thuật
--sự bốc cháy
-@Lĩnh vực: xây dựng
--sự châm lửa
-@Lĩnh vực: y học
--viêm (đáp ứng cơ thể với tổn thương có thể cấp hay mãn tính)
+@Lĩnh vực: hóa học & vật liệu
+-silic hóa
+-silicat hóa
+

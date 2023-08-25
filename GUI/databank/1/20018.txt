@@ -1,4 +1,6 @@
-extenders	
-@Chuyên ngành kinh tế
--phần nhô ra của hàng triển lãm
--phần nhô ra của hàng triển lãm (trên giá bày hàng)
+negator
+	
+@Lĩnh vực: toán & tin
+-bộ đảo
+-bộ phủ định
+

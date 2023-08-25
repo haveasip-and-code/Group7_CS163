@@ -1,25 +1,53 @@
-accommodation	
-@accommodation /ə,kɔmə'deiʃn/
+lamp
+	
 *  danh từ
-- sự điều tiết, sự thích nghi, sự làm cho phù hợp
-- sự điều tiết (sức nhìn của mắt)
-- sự hoà giải, sự dàn xếp
-- tiện nghi, sự tiện lợi, sự thuận tiện
-- chỗ trọ, chỗ ăn chỗ ở
-- món tiền cho vay
+- đèn
+=electric lamp
++ đèn điện
+=oil lamp
++ đèn dầu
+=table lamp
++ đèn để bàn
+- mặt trời, mặt trăng, sao
+=lamp of Phoebus
++ (thơ ca) mặt trời
+=lamp of heaven
++ (thơ ca) mặt trăng
+- nguồn ánh sáng (tinh thần...), nguồn hy vọng
+!to pass (band) on the lamp
+- góp phần vào bước tiến (của khoa học, của một sự nghiệp...)
+!to smell of the lamp
+- tỏ ra công phu; phải thức đêm thức hôm để làm
+- nặng nề, không thanh thoát; cầu kỳ (văn)
+*  động từ
+- chiếu sáng, rọi sáng
+- treo đèn, chăng đèn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn
 @Chuyên ngành kinh tế
--tiền cho vay ngắn hạn
--tiền cho vay ngắn hạn thỏa thuận các điều kiện thanh toán
+-chiếu sáng
+-rọi sáng
 @Chuyên ngành kỹ thuật
--chỗ ở
--lắp vào
--món tiền cho vay
--sự cải tạo
--sự điều tiết
--sự thích ứng
--sự tra vào
--thiết bị trong nhà
-@Lĩnh vực: giao thông & vận tải
--khoang ở (trên tàu)
-@Lĩnh vực: cơ khí & công trình
--sự thích nghi
+-bóng đèn
+-cái đèn
+-đèn
+-đèn báo
+-đèn điện
+-đèn nóng sáng
+-đèn tín hiệu
+-nguồn sáng
+-ống
+@Lĩnh vực: điện lạnh
+-đèn (điện)
+@Chuyên ngành kỹ thuật
+-bóng đèn
+-cái đèn
+-đèn
+-đèn báo
+-đèn điện
+-đèn nóng sáng
+-đèn tín hiệu
+-nguồn sáng
+-ống
+@Lĩnh vực: điện lạnh
+-đèn (điện)
+

@@ -1,9 +1,12 @@
-reprimand	@reprimand /'reprimɑ:nd/
+illuminance
+	
 *  danh từ
-- lời khiển trách, lời quở trách
-*  ngoại động từ
-- khiển trách, quở trách
+- (vật lý) độ rọi
 @Chuyên ngành kỹ thuật
--mắng mỏ
-@Lĩnh vực: xây dựng
--trách phạt
+-độ chiếu sáng
+-độ rọi
+-độ sáng
+-sự chiếu sáng
+@Lĩnh vực: điện tử & viễn thông
+-đọ rọi
+

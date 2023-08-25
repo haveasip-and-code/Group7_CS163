@@ -1,11 +1,12 @@
-relocation	@relocation
-* danh từ
-- sự di chuyển tới; sự xây dựng lại
+filtered
+	
+- đã được lọc
 @Chuyên ngành kỹ thuật
--dịch chuyển
--sự chuyển vị trí
--sự đặt lại
--sự di chuyển
--sự định vị lại
-@Lĩnh vực: toán & tin
--sự tái định vị
+-đã được lọc
+@Lĩnh vực: hóa học & vật liệu
+-đã lọc
+@Chuyên ngành kỹ thuật
+-đã được lọc
+@Lĩnh vực: hóa học & vật liệu
+-đã lọc
+

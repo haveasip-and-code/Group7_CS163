@@ -1,15 +1,7 @@
-nutrition	@nutrition /nju:'triʃn/
-*  tính từ
-- sự nuôi dưỡng, sự dinh dưỡng
-- đồ ăn bổ
-- (y học) khoa dinh dưỡng
-@Chuyên ngành kinh tế
--sự nuôi dưỡng
--thức ăn
-@Chuyên ngành kỹ thuật
--dinh dưỡng
-@Lĩnh vực: thực phẩm
--sự cho ăn
--sự nuôi duỡng
-@Lĩnh vực: y học
--sự dinh dưỡng
+flak
+	
+*  danh từ
+- hoả lực phòng không
+=a flak ship
++ tàu phòng không (của Đức)
+

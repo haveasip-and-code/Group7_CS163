@@ -1,9 +1,12 @@
-cruising	
-@cruising
-* tính từ
-- đi tuần tra
-- đi kiếm khách
-- đi tiết kiệm xăng
-* danh từ
-- (hàng hải) sự tuần tra
-- việc đi kiếm khách (ô tô)
+repeated
+	
+*  tính từ
+- nhiều lần nhắc đi nhắc lại, lặp đi lặp lại
+=on repeated occasions
++ nhiều lần
+@Chuyên ngành kỹ thuật
+-được lặp lại
+-lặp
+@Lĩnh vực: xây dựng
+-có tính lặp
+

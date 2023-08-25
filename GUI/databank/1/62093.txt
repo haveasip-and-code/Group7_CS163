@@ -1,12 +1,5 @@
-vogue	@vogue /voug/
-*  danh từ
-- mốt, thời trang; cái đang được chuộng, cái đang thịnh hành
-=it is now the vogue+ cái đó hiện nay là cái mốt, cái đó đang thịnh hành
-=all the vogue+ thật là đúng mốt; đang được mọi người chuộng
-=to be in vogue+ đang thịnh hành, đang được chuộng
-=to be out of vogue+ không còn thịnh hành
-=to come into vogue+ thành cái mốt
-=to have a great vogue+ thịnh hành khắp nơi, được người ta rất chuộng
-@Chuyên ngành kinh tế
--mốt
--thời trang
+hometown
+	
+- quê nhà
+= My hometown has a beautiful beach : Quê tôi có bãi biển đẹp
+

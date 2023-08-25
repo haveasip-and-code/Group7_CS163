@@ -1,7 +1,8 @@
-cytochemistry	
-@cytochemistry
+streptokinase
+	
 * danh từ
-- hoá học tế bào
+- (sinh học,  (hoá học)) Xtreptokinaza
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: y học
--hóa học tế bào
+-enzym do streptococcus sinh ra có khả năng làm tan các cục máu
+

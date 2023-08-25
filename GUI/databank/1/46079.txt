@@ -1,9 +1,5 @@
-rectangle	@rectangle /'rek,tæɳgl/
-*  danh từ
-- hình chữ nhật
-@Chuyên ngành kinh tế
--hình chữ nhật
-@Chuyên ngành kỹ thuật
--hình chữ nhật
--thẳng góc
--vuông góc
+pipeless
+	
+-không có lõm co
+-không có rỗ co
+

@@ -1,21 +1,7 @@
-segregate	@segregate /'segrigit/
-*  tính từ
-- (động vật học) ở đơn độc
-- (từ cổ,nghĩa cổ) tách riêng, riêng biệt
-*  động từ
-- tách riêng, chia riêng ra
-@Chuyên ngành kỹ thuật
--cô lập
--làm tách rời
--ly gián
--phân chia
--phân ly
--phân tách
--phân tầng
--tách
--tách ra
-@Lĩnh vực: toán & tin
--tách ra, cô lập
-@Lĩnh vực: cơ khí & công trình
--tách riêng
--vật tách
+capitalise
+	
+*  ngoại động từ
+- tư bản hoá, chuyển thành tư bản; dùng làm vốn
+- viết bằng chữ hoa, in bằng chữ hoa
+- (nghĩa bóng) lợi dụng
+

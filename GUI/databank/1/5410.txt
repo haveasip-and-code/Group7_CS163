@@ -1,14 +1,18 @@
-bib	
-@bib /bib/
+substantive
+	
+*  tính từ
+- biểu hiện sự tồn tại
+=the substantive verb
++ động từ to be
+- tồn tại riêng biệt; tồn tại độc lập
+- (từ Mỹ,nghĩa Mỹ) trọng yếu, lớn lao
+- (từ Mỹ,nghĩa Mỹ) đặt và định quyền hạn nhiệm vụ
+=substantive law
++ luật đặt và định quyền hạn nhiệm vụ
+!noun substantive
+- danh từ
+!substantive rank
+- (quân sự) hàm vĩnh viễn
 *  danh từ
-- cái yếm dãi (của trẻ con)
-- yếm tạp dề (phần trên của cái tạp dề)!to be in one's best bib and tucker
-- diện bảnh thắng bộ đẹp nhất
-*  nội động từ
-- uống nhiều, uống luôn miệng
-@Chuyên ngành kỹ thuật
--nút
--vòi nước
-@Lĩnh vực: cơ khí & công trình
--then chốt
--van có đuôi công
+- (ngôn ngữ học) danh từ
+

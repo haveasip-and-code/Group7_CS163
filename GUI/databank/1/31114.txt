@@ -1,32 +1,9 @@
-knockout	@knockout
-* danh từ
-- cú đấm nốc ao
-- gây mê, gây ngủ
-- cuộc đấu loại trực tiếp
-- người lỗi lạc; vật bất thường
-* giới từ
-- hạ đo ván (đánh quyền Anh)
-@Chuyên ngành kinh tế
--thông đồng hạ giá, đấu giá câu kết
+thirty
+	
+*  danh từ
+- số ba mươi
+- (số nhiều) (the thirties) những năm ba mươi (từ 30 đến 39 của (thế kỷ)); những năm tuổi trên 40 (từ 40 đến 49)
 @Chuyên ngành kỹ thuật
--cái đột
--loại bỏ
--máy bơm phun
--sự bật ra
--sự lấy ra
--sự tháo
-@Lĩnh vực: điện lạnh
--bật ra
-@Lĩnh vực: hóa học & vật liệu
--bộ tách ra
-@Chuyên ngành kỹ thuật
--cái đột
--loại bỏ
--máy bơm phun
--sự bật ra
--sự lấy ra
--sự tháo
-@Lĩnh vực: điện lạnh
--bật ra
-@Lĩnh vực: hóa học & vật liệu
--bộ tách ra
+@Lĩnh vực: toán & tin
+-ba mươi (30)
+

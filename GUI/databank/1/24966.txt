@@ -1,14 +1,5 @@
-happen	
-@happen /'hæpən/
-*  nội động từ
-- xảy đến, xảy ra; ngẫu nhiên xảy ra, tình cờ xảy ra=it happened last night
-+ câu chuyện xảy ra đêm qua
-- tình cờ, ngẫu nhiên=I happened to mention it
-+ tình cờ tôi nói đến điều đó
-- (
-+ upon) tình cờ gặp, ngẫu nhiên gặp; ngẫu nhiên thấy=to happen upon someone
-+ tình cờ gặp ai!as it happens
-- ngẫu nhiên mà, tình cờ mà!if anything should happen to me
-- nếu tôi có mệnh hệ nào
-@Chuyên ngành kỹ thuật
--xảy ra
+allograft
+	
+* danh từ
+- việc ghép mô gồm hai thành viên khác nhau nhưng cùng loại
+

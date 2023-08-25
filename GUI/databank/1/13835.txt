@@ -1,50 +1,5 @@
-deck	
-@deck /dek/
-*  danh từ
-- boong tàu, sàn tàu=on deck
-+ trên boong=upper deck
-+ boong trên=lower deck
-+ boong dưới
-- tầng trên, tầng nóc (xe buýt hai tầng)
-- (hàng không),  (từ lóng) đất, mặt đất
-- (từ Mỹ,nghĩa Mỹ) cỗ bài!to clear the decks [for action]
-- chuẩn bị chiến đấu (tàu chiến)
-- (nghĩa bóng) chuẩn bị hành động, sẵn sàng hành động!on deck
-- (thông tục) sẵn sàng hành động
-*  ngoại động từ
-- trang hoàng, tô điểm=to deck oneself out with fine jewels
-+ tô điểm bằng các đồ trang sức đẹp
-- (hàng hải) đóng dàn (tàu)
-@Chuyên ngành kinh tế
--boong (tàu)
--boong tàu
--mặt khoang (tàu)
--sàn
--tầng trên
-@Chuyên ngành kỹ thuật
--bản gối
--bản tựa
--boong tàu
--cỗ
--cỗ bài
--lớp mặt
--lớp phủ
--mái
--mặt cầu
--sàn
--sàn (đóng tàu)
--sàn cầu
--sàn công tác
--sàn thao tác
--sàn xe
--tấm lợp
--tấm sàn
--ván khuôn
--ván mặt cầu
--ván sàn
--xấp (phiếu)
-@Lĩnh vực: xây dựng
--bản đáy
--bệ tỳ
--mặt lát ván
--tấm lát ván
+coruscant
+	
+*  tính từ
+- sáng loáng, lấp lánh
+

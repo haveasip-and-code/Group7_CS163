@@ -1,8 +1,5 @@
-shrinkable	@shrinkable /'ʃriɳkəbl/
-*  tính từ
-- có thể làm co lại được, có thể rút ngắn lại; có thể bị co
-@Chuyên ngành kỹ thuật
--co được (màng mỏng)
--co rút được
-@Lĩnh vực: điện
--có tính co ngót
+histology
+	
+*  danh từ
+- (sinh vật học) mô học, khoa nghiên cứu mô
+

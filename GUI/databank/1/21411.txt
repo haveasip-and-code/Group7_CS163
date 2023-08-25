@@ -1,18 +1,10 @@
-flex	
-@flex /flex/
+prow
+	
 *  danh từ
-- (điện học) dây mềm
-*  ngoại động từ
-- làm cong, uốn cong
-*  nội động từ
-- cong lại; gập lại (cánh tay)
+- mũi tàu, mũi thuyền
+*  tính từ
+- (từ cổ,nghĩa cổ) anh dũng, dũng cảm, can đảm
 @Chuyên ngành kỹ thuật
--điểm uốn
--lún xuống
--uốn
--uốn cong
-@Chuyên ngành kỹ thuật
--điểm uốn
--lún xuống
--uốn
--uốn cong
+-mũi tàu
+-mũi thuyền
+

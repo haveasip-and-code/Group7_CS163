@@ -1,7 +1,25 @@
-gazumping	
-@gazumping
-* danh từ
-- sự nói giá cao hơn, sự đẩy giá lên
-@Chuyên ngành kinh tế
--lật lọng (giá cả)
--sự lên giá sau khi đã thỏa thuận
+constraint
+	
+*  danh từ
+- sự bắt ép, sự ép buộc, sự cưỡng ép, sự thúc ép
+=to act under constraint
++ hành động do bị ép buộc
+- sự đè nén, sự kiềm chế
+- sự gượng gạo, sự miễn cưỡng; sự e dè
+=to speak without constraint
++ nói không e dè
+- sự câu thúc, sự giam hãm, sự nhốt (người điên)
+@Chuyên ngành kỹ thuật
+-điều kiện ràng buộc
+-liên kết
+-phản lực liên kết
+-ràng buộc
+-sự cố định chặt
+-sự cưỡng bức
+-sự giới hạn
+-sự hạn chế
+-sự kẹp chặt
+-sự liên kết
+-sự ngàm
+-sự ràng buộc
+

@@ -1,34 +1,4 @@
-requisition	@requisition /,rekwi'ziʃn/
-*  danh từ
-- sự yêu cầu
-- tiêu chuẩn đòi hỏi
-=the requisitions for a university degree+ các tiêu chuẩn được cấp bằng đại học
-- lệnh
-=under the requisition of the town council+ theo lệnh của hội đồng thành phố
-- lệnh trưng dụng, lệnh trưng thu
-=to put in requisition; to bring (call) into requisition+ trưng dụng
-*  ngoại động từ
-- trưng dụng, trưng thu
-@Chuyên ngành kinh tế
--điều kiện bắt buộc
--điều kiện cần thiết
--đơn xin
--đơn xin mua hàng
--đơn yêu cầu
--giấy phép yêu cầu
--lệnh trưng dụng
--sự trưng dụng
--sự yêu cầu
--thỉnh cầu
--tiêu chuẩn đòi hỏi
--trưng dụng
--trưng tập
--trưng thu
--trưng thu (tài sản)
--trưng thu (tài sản...)
--việc trưng dụng
-@Chuyên ngành kỹ thuật
--sự yêu cầu
-@Lĩnh vực: xây dựng
--lệnh trưng thu
--trưng dụng
+pedimental
+	
+- xem pediment
+

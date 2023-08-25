@@ -1,35 +1,5 @@
-attach	
-@attach /ə'tætʃ/
-*  ngoại động từ
-- gắn, dán, trói buộc=to attach a label to a bag
-+ dán nhãn vào cái túi=to attach a stamp
-+ dán tem
-- tham, gia, gia nhập=to attach oneself to a political party
-+ tham gia một chính đảng
-- gắn bó=to be deeply attached to somebody
-+ hết sức gắn bó với ai; rất quyến luyến với ai
-- coi, cho là, gán cho=to attach importance to something
-+ coi việc gì là quan trọng=to attach little value to someone's statement
-+ coi lời tuyên bố của ai là không có giá trị mấy=to attach the blame to somebody
-+ gán (đổ) lỗi cho ai
-- (pháp lý) bắt giữ (ai); tịch biên (gia sản...)
-*  nội động từ
-- gắn liền với=the responsibility that attaches to that position
-+ trách nhiệm gắn liền với cương vị công tác đó
-@Chuyên ngành kinh tế
--bắt giữ (ai)
--tịch biên (tài sản ...)
-@Chuyên ngành kỹ thuật
--buộc
--buộc chặt
--chống
--cố định
--dán
--gắn
--gắn liền
--gia cố
--kết nối
--nối liền
--thắt
-@Lĩnh vực: toán & tin
--cột chặt
+splotchy
+	
+*  tính từ
+- có vết bẩn, có dấu (mực...)
+

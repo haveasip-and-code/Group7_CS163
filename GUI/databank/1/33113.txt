@@ -1,34 +1,7 @@
-machine	@machine /mə'ʃi:n/
-*  danh từ
-- máy móc, cơ giới
-- người máy; người làm việc như cái máy
-- (từ Mỹ,nghĩa Mỹ) cơ quan đầu nâo, bộ máy chỉ đạo (của một tổ chức, một đảng phái chính trị)
-- xe đạp, xe đạp ba bánh
-- (từ Mỹ,nghĩa Mỹ) máy bơm cứu hoả
-- máy thay cảnh (ở sân khấu)
-*  tính từ
-- (thuộc) máy móc
-=machine age+ thời đại máy móc
-- bằng máy
-=machine winding+ sự cuốn chỉ (vào ống) bằng máy
-*  động từ
-- làm bằng máy, dùng máy
-@Chuyên ngành kinh tế
--bộ máy
--cơ cấu
--cơ khí
--guồng máy
--máy
--máy cơ khí
--máy móc
--tổ chức
--tổ hợp máy
-@Chuyên ngành kỹ thuật
--cơ cấu
--động cơ
--máy
--máy công cụ
--máy làm việc
--máy móc
--máy tính
--thiết bị
+hobnob
+	
+*  nội động từ ((thường) 
++ with)
+- chơi thân, đàn đúm (với ai)
+- chén chú chén anh (với ai)
+

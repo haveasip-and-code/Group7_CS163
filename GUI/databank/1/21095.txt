@@ -1,14 +1,28 @@
-fingerprint	
-@fingerprint /'fiɳgəprint/
+elaborate
+	
+*  tính từ
+- phức tạp
+=an elaborate machine
+-tool
++ một máy công cụ phức tạp
+- tỉ mỉ, kỹ lưỡng, công phu; trau chuốt, tinh vi
+=an elaborate investigation
++ một cuộc điều tra tỉ mỉ
+=elaborate style
++ văn trau chuốt
+=an elaborate work of art
++ một tác phẩm nghệ thuật tinh vi
 *  ngoại động từ
-- lấy dấu lăn ngón tay, lấy dấu điềm chỉ
+- thảo tỉ mỉ, thảo kỹ lưỡng, sửa soạn công phu; làm công phu, trau chuốt (văn); dựng lên
+=to elaborate a theory
++ dựng lên một lý thuyết
+- (sinh vật học) chế tạo ra, sản ra
+*  nội động từ
+- nói thêm, cho thêm chi tiết
+=to on a problem
++ nói thêm về một vấn đề, cho thêm chi tiết về một vấn đề
+- trở thành tỉ mỉ; trở thành tinh vi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dấu lăn ngón
-@Lĩnh vực: toán & tin
--dấu tay
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dấu lăn ngón
-@Lĩnh vực: toán & tin
--dấu tay
+@Lĩnh vực: xây dựng
+-chi tiết hóa
+

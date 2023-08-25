@@ -1,7 +1,23 @@
-neuroleptic	@neuroleptic
-* danh từ
-- thuốc an thần
+membership
+	
+*  danh từ
+- tư cách hội viên, địa vị hội viên
+=a membership card
++ thẻ hội viên
+- số hội viên, toàn thể hội viên
+=this club has a large membership
++ số hội viên của câu lạc bộ này rất lớn
+@Chuyên ngành kinh tế
+-địa vị hội viên
+-số hội viên
+-toàn thể hội viên
+-tổng số thành viên
+-tư cách hội viên
+-tư cách thành viên
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--an thần
--thuốc an thần
+@Lĩnh vực: xây dựng
+-thành viên
+@Lĩnh vực: toán & tin
+-tính liên đới
+-tính liên thuộc
+

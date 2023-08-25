@@ -1,3 +1,8 @@
-definitions	
-@Chuyên ngành kỹ thuật
--định nghĩa
+airliner
+	
+* danh từ
+- máy bay dân dụng loại lớn
+@Chuyên ngành kinh tế
+-phi cơ chở khách (theo tuyến) định kỳ
+-phi cơ chở khách cỡ lớn
+

@@ -1,4 +1,30 @@
-curable	
-@curable /'kjuərəbl/
-*  tính từ
-- chữa được, chữa khỏi được (bệnh...)
+mail
+	
+*  danh từ
+- áo giáp
+*  ngoại động từ
+- mặc áo giáp
+*  danh từ
+- thư từ; bưu kiện, bưu phẩm
+- chuyển thư
+- bưu điện
+- xe thư (xe lửa)
+*  ngoại động từ
+- gửi qua bưu điện
+@Chuyên ngành kinh tế
+-bưu chính
+-bưu kiện
+-bưu phẩm
+-cơ quan bưu điện
+-gởi qua bưu điện
+-hệ thống bưu điện
+-tàu thư
+-thư
+-thư tín
+-thư từ
+-xe thư
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-thư gửi
+-thư từ
+

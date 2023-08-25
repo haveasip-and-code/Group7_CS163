@@ -1,20 +1,7 @@
-vertex	@vertex /'və:teks/
-*  danh từ,  số nhiều vertices
-- đỉnh, chỏm, chóp, ngọn
-=the vertex of an angle+ đỉnh của một góc
-- (nghĩa bóng) đỉnh, cực điểm
-- (giải phẫu) đỉnh đầu
-- (thiên văn học) thiên đỉnh
-@Chuyên ngành kỹ thuật
--chỏm
--chóp
--đỉnh
--đỉnh vòm
--khóa vòm
--ngọn
-@Lĩnh vực: điện
--điểm tương giao
-@Lĩnh vực: toán & tin
--đỉnh, chóp
-@Lĩnh vực: xây dựng
--thiên đỉnh
+philosophise
+	
+* nội động từ
+- triết lý; lên mặt triết gia, làm ra vẻ triết gia
+- tư biện; tranh luận, suy đoán
+- sống có triết lý
+

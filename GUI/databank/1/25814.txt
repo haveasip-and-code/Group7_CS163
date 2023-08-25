@@ -1,7 +1,21 @@
-hippocampus	
-@hippocampus /,hipou'kæmpəs/
-*  danh từ,  số nhiều hippocampi
-- (động vật học) cá ngựa
+adaptor
+	
+-người thích hợp
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chân hải mã
+-bộ chỉnh lưu
+-bộ khớp nối
+-bộ phận nối
+-bộ phận tiếp hợp
+-bộ phối hợp
+-bộ thích ứng
+-bộ tiếp hợp
+-đầu nối
+-khớp nối
+-ống nối
+@Lĩnh vực: điện lạnh
+-adaptơ
+@Lĩnh vực: điện
+-bộ thích nghi
+@Lĩnh vực: ô tô
+-cây nối
+

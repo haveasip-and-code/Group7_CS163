@@ -1,11 +1,6 @@
-subclass	@subclass /'sʌbklɑ:s/
-*  danh từ
-- (sinh vật học) phân lớp
-@Chuyên ngành kỹ thuật
--lớp con
--lớp phụ
-@Lĩnh vực: toán & tin
--dạng con
--lớp phụ, lớp con
-@Lĩnh vực: hóa học & vật liệu
--phụ lớp
+philoprogenitive
+	
+*  tính từ
+- sinh sản nhiều
+- thích con cái
+

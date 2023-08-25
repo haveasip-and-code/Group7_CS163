@@ -1,15 +1,8 @@
-masking	@masking
-* danh từ
-- tấm chắn, tấm che
-- sự đeo mặt nạ
-- sự che mặt
-- sự hoá trang
+afforest
+	
+*  ngoại động từ
+- trồng cây gây rừng; biến thành rừng
+- (sử học) biến thành khu vực săn bắn
 @Chuyên ngành kỹ thuật
--sự chắn
--sự che
--sự che chắn
--sự che, sự phủ
-@Lĩnh vực: điện
--âm che
-@Lĩnh vực: xây dựng
--sự ngụy trang
+-trồng rừng
+

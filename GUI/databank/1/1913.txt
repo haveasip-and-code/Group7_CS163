@@ -1,7 +1,31 @@
-amongst	
-@amongst /ə'mʌɳ/ (amongst) /ə'mʌɳst/
-*  giới từ
-- giữa, ở giữa=among the crowd
-+ ở giữa đám đông
-- trong số=among the guests were...
-+ trong số khách mời có...
+qualification
+	
+*  danh từ
+- sự cho là; sự gọi là; sự định tính chất, sự định phẩm chất
+=the qualification of his policy as opportunist is unfair
++ cho chính sách của ông ta là cơ hội thì không đúng
+- tư cách khả năng, điều kiện, tiêu chuẩn, trình độ chuyên môn (để đảm nhiệm một chức vụ...); (số nhiều) giấy tờ chứng nhận khả năng
+=the qualification for membership
++ tiêu chuẩn gia nhập (một đoàn thể)
+=a doctor's qualifications
++ những văn bằng chứng nhận của một bác sĩ
+- sự hạn chế; sự dè dặt
+=this statement is to be accepted with qualifications
++ phải dè dặt đối với lời tuyên bố này
+@Chuyên ngành kinh tế
+-bằng cấp
+-bằng văn bản thẩm định
+-đủ tư cách
+-khả năng
+-khả năng chuyên môn
+-phẩm chất
+-sự hạn chế
+-tiêu chuẩn chuyên môn
+-trình độ chuyên môn
+-tư cách
+-văn bằng
+@Chuyên ngành kỹ thuật
+-sự xác định
+@Lĩnh vực: điện tử & viễn thông
+-sự định tính
+

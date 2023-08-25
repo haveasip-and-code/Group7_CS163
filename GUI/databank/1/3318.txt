@@ -1,8 +1,7 @@
-armlet	
-@armlet /'ɑ:mlit/
-*  danh từ
-- băng tay
-- vịnh nhỏ
-- nhánh sông nhỏ
-@Chuyên ngành kỹ thuật
--nhánh sông nhỏ
+tautomeric
+	
+@Lĩnh vực: hóa học & vật liệu
+-hỗ biến
+-hỗn biến
+-tautome
+

@@ -1,17 +1,5 @@
-justify	
-@justify /'dʤʌstifai/
-*  ngoại động từ
-- bào chữa, biện hộ, chứng minh là đúng
-- (ngành in) sắp chữ cho đúng hàng đúng chỗ
-@Chuyên ngành kỹ thuật
--bảo đảm
--căn chỉnh
--khẳng định
--xác minh
--xác nhận
-@Lĩnh vực: điện lạnh
--biện minh
-@Lĩnh vực: điện tử & viễn thông
--chỉnh khuôn
-@Lĩnh vực: toán & tin
--minh giải
+obeyer
+	
+* danh từ
+- nguời nghe lời, người vâng lời, người phục tùng; người tuân lệnh, người tuân theo (qui tắc, phương trình)
+

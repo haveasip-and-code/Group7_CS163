@@ -1,71 +1,7 @@
-strong	@strong /strɔɳ/
+chronological
+	
 *  tính từ
-- bền, vững, chắc chắn, kiên cố
-=strong cloth+ vải bền
-=strong fortress+ pháo đài kiên cố
-=strong conviction+ niềm tin chắc chắn
-=a strong suit+ (đánh bài) dãy cùng hoa; (nghĩa bóng) món tủ, sở trường
-- khoẻ, tráng kiện
-=strong constitution+ thể chất khoẻ mạnh
-=strong health+ sức khoẻ tốt
-=by the strong arm (hand)+ bằng vũ lực
-=the strong+ những người khoẻ mạnh; những kẻ mạnh
-=to be as strong as a horse+ khoẻ như trâu
-- mạnh; tốt
-=a strong wind+ cơn gió mạnh
-=strong army+ một đội quân mạnh
-=a strong fleet+ một hạm đội mạnh
-=a company 200 strong+ một đại đội gồm 200 người
-=how many strong are you?+ các anh có bao nhiêu người?
-=a strong candidate+ một ứng cử viên mạnh thế
-=strong eyes+ mắt tinh
-=strong memory+ trí nhớ tốt
-- giỏi, có khả năng
-=to be strong in English+ giỏi tiếng Anh
-- đặc, nặng, mạnh
-=strong tea+ nước trà đặc
-=strong drink (water)+ rượu mạnh
-- rõ ràng, đanh thép, rõ rệt
-=strong evidence+ chứng cớ rõ ràng
-=strong argument+ lý lẽ đanh thép
-=a strong resemblance+ sự giống nhau rõ rệt
-- kiên quyết; nặng nề
-=strong man+ người kiên quyết, con người hùng
-=to be strong against compromise+ kiên quyết chống thoả hiệp
-=strong measures+ những biện pháp kiên quyết
-=strong language+ lời lẽ nặng nề; lời chửi rủa
-- to và rắn rỏi
-=a strong voice+ giọng nói to và rắn rỏi
-- sôi nổi, nồng nhiệt, hăng hái, nhiệt tình
-=strong affection+ cảm tình nồng nhiệt
-=a strong Democrat+ một đảng viên Dân chủ hăng hái
-- có mùi, hôi, thối
-=strong smell+ mùi thối
-=strong butter+ bơ ôi
-- sinh động, mạnh mẻ; khúc chiết (văn)
-- (ngôn ngữ học) không theo quy tắc (động từ)
-!to have a strong hold upon (over) someone
-- có ảnh hưởng đối với ai
-!going strong
-- (từ lóng) vẫn dẻo dai, vẫn tráng kiện, vẫn sung sức; vẫn hăm hở
-!to go (come) it strong
-- (từ lóng) làm (việc gì) thật triệt để, làm (việc gì) đến nơi đến chốn
-!strong market
-- thị trường giá cả lên nhanh
-!strong meat
-- thuyết cho người hùng, biện pháp thích hợp với người hùng
-@Chuyên ngành kinh tế
--bền
--chắc
--đứng vững
--khó nghiền
--rắn
-@Chuyên ngành kỹ thuật
--bền
--chắc
--cứng
--đậm (đặc)
--khoẻ
--mạnh
-@Lĩnh vực: vật lý
--dày (thấu kính)
+- (thuộc) niên đại học; theo thứ tự niên đại; theo thứ tự thời gian
+=in chronologic order
++ theo thứ tự thời gian
+

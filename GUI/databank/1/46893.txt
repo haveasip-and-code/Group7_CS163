@@ -1,6 +1,5 @@
-reporting	@Chuyên ngành kinh tế
--bản tin (báo chí)
--báo cáo
--báo cáo tình hình tài chính
--khai báo
--việc trình báo
+clockwise
+	
+*  tính từ & phó từ
+- theo chiều kim đồng hồ
+

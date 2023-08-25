@@ -1,6 +1,9 @@
-hardened	
+thermos
+	
+*  danh từ
+- cái phích, cái tecmôt ((thường) thermos bottle,  thermos flask,  thermos jug)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--đã đông cứng
-@Lĩnh vực: xây dựng
--đã tôi
+@Lĩnh vực: điện lạnh
+-bình cách nhiệt
+-phích
+

@@ -1,9 +1,5 @@
-spree	@spree /spri:/
-*  danh từ
-- cuộc vui chơi miệt mài; sự chè chén lu bù, sự ăn uống lu bù
-=to go (to be) on the spree+ đang chè chén lu bù
-=what a spree!+ vui quá!
-!buying spree
-- sự mua sắm lu bù
-*  nội động từ
-- vui chơi mệt mài; chè chén lu bù
+lockable
+	
+* tính từ
+- có thể khoá được
+

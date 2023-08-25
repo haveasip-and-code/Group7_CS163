@@ -1,18 +1,15 @@
-seller	@seller /'selə/
-*  danh từ
-- người bán, người phát hàng
-- thứ bán được, đồ bán được
-=good seller+ thứ bán chạy
-=best seller+ sách bán chạy; tác giả có sách bán chạy
+classifier
+	
+* danh từ
+- người phân loại
 @Chuyên ngành kinh tế
--ăn khách
--bán chạy
--bên bán
--hàng bán
--món đồ bán
--người bán
--người bán hàng
+-máy chia hạng
+-máy phân loại
 @Chuyên ngành kỹ thuật
--người bán
-@Lĩnh vực: điện
--bên bán (hàng)
+-người phân loại
+-máy phân loại
+@Lĩnh vực: cơ khí & công trình
+-máy phân cấp
+@Lĩnh vực: xây dựng
+-thiết bị, phân loại
+

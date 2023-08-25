@@ -1,22 +1,5 @@
-essay	
-@essay /'esei/
+interlineation
+	
 *  danh từ
-- sự làm thử; sự làm cố gắng
-- bài tiểu luận
-*  ngoại động từ
-- thử làm; cố làm (gì...)
-- thử, thử thách
-*  nội động từ
-- cố gắng
-@Chuyên ngành kỹ thuật
--thí nghiệm
--thử
--thực nghiệm
-@Lĩnh vực: xây dựng
--thử làm
-@Chuyên ngành kỹ thuật
--thí nghiệm
--thử
--thực nghiệm
-@Lĩnh vực: xây dựng
--thử làm
+- sự viết xen (chữ) vào hàng chữ đã có, sự in xen vào hàng chữ đã có
+

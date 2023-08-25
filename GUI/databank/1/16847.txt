@@ -1,7 +1,7 @@
-droplight	
-@droplight
-* danh từ
-- cây đèn bàn (chỉ chiếu sáng mặt bàn)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--cửa sổ thả
+osmolarity
+	
+@Lĩnh vực: hóa học & vật liệu
+-độ mol
+-nồng độ mol
+-nồng độ osmol/lít dung dịch
+

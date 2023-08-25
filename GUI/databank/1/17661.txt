@@ -1,9 +1,17 @@
-electroencephalography	
-@electroencephalography
-- xem electroencephalograph
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phép ghi điện não
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phép ghi điện não
+warping
+	
+-độ cong
+-độ vênh
+-sự cong
+-sự cong vênh
+-sự làm oằn
+-sự làm vênh
+-sự vênh
+@Lĩnh vực: xây dựng
+-cong vênh
+-khúc lượn
+@Lĩnh vực: điện tử & viễn thông
+-phần điện tử (dữ liệu vô dụng)
+@Lĩnh vực: dệt may
+-sự mắc sợi dọc
+

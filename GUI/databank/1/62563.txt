@@ -1,3 +1,14 @@
-ways	@Chuyên ngành kỹ thuật
--đường dẫn
--đường trượt
+tensiometer
+	
+*  danh từ
+- (kỹ thuật) cái đo độ căng
+@Chuyên ngành kỹ thuật
+-máy đo ứng suất dọc
+@Lĩnh vực: hóa học & vật liệu
+-cái đo độ căng
+@Lĩnh vực: điện lạnh
+-căng kế
+-máy đo sức căng
+@Lĩnh vực: y học
+-diện hoạt kế
+

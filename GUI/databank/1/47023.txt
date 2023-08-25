@@ -1,6 +1,13 @@
-rescale	@rescale
-* ngoại động từ
-- thay đổi tỷ lệ
+delineation
+	
+*  danh từ
+- sự mô tả, sự phác hoạ
+- hình mô tả, hình phác hoạ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--định lại cỡ chữ
+-bản vẽ
+-hình vẽ
+-sự vẽ
+@Lĩnh vực: cơ khí & công trình
+-sự phác thảo
+-sự vẽ phác
+

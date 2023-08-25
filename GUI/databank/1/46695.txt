@@ -1,26 +1,13 @@
-remit	@remit /ri'mit/
-*  ngoại động từ
-- tha, xá (tội)
-- miễn giảm, miễn thi hành (thuế, hình phạt...)
-- gửi, chuyển (hàng hoá, tiền...) qua bưu điện...
-- hoân lại, đình lại
-- trao (vấn đề gì...) cho người có thẩm quyền giải quyết; trao lại (một vụ án...) cho toà dưới xét xử
-- làm thuyên giảm, làm giảm đi, làm yếu đi, làm dịu đi, làm bớt, làm nguôi đi, ngừng...
-=to remit one's anger+ nguôi giận
-=to remit one's efforts+ giảm cố gắng
-- trả về tình trạng cũ, phục hồi tình trạng cũ
-*  nội động từ
-- thuyên giảm, giảm đi, yếu đi, dịu đi, bớt, nguôi đi, ngừng...
-=the fever begins to remit+ cơn sốt bắt đầu thuyên giảm
-=enthusiasm begins to remit+ nhiệt tình bắt đầu giảm đi
-*  danh từ
-- vấn đề chuyển (cho ai) để xét
-@Chuyên ngành kinh tế
--chuyển (một số tiền) qua bưu điện
--chuyển trả tiền
--giảm miễn (một món nợ...)
--gởi
--miễn
--xá miễn
+catenation
+	
+- (Tech) xâu chuỗi, nối chuỗi, kết nối (d)
 @Chuyên ngành kỹ thuật
--chuyển
+-ghép
+-nối
+-sự ghép nối
+-sự kết giao
+-sự kết hợp
+-sự liên kết
+@Lĩnh vực: toán & tin
+-sự kết thành chuỗi
+

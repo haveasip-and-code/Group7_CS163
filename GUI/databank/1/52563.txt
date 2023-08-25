@@ -1,20 +1,4 @@
-spoilage	@spoilage /'spɔilidʤ/
-*  danh từ
-- sự làm hỏng, sự làm hư; sự bị hỏng
-- cái bị làm hỏng
-- giấy in bông
-@Chuyên ngành kinh tế
--làm hư hại
--phế phẩm
--sản phẩm hỏng
--sự hỏng
--sự làm hỏng
--sự làm hư hỏng
--vật hư hỏng
--vật liệu bị làm hỏng
--vật tư hỏng
-@Chuyên ngành kỹ thuật
--phế phẩm
--sự làm hỏng
-@Lĩnh vực: hóa học & vật liệu
--sự làm hư
+pneumaticity
+	
+- xem pneumatic
+

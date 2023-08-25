@@ -1,6 +1,5 @@
-towpath	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đường kéo (tàu )
--đường kéo tàu tuyền
-@Lĩnh vực: giao thông & vận tải
--lối kéo (tàu , thuyền)
+bobble
+	
+* danh từ
+- quả cầu bằng len đính trên mũ
+

@@ -1,7 +1,101 @@
-acidulation	
-@acidulation
-- xem acidulate
-@Chuyên ngành kinh tế
--sự axit hóa
+home
+	
+*  danh từ
+- nhà, chỗ ở
+=to have neither hearth nor home
++ không cửa không nhà
+=to be at home
++ ở nhà
+=not at home
++ không có nhà; không tiếp khách
+- nhà, gia đình, tổ ấm
+=there's no place like home
++ không đâu bằng ở nhà mình
+=make yourself at home
++ xin anh cứ tự nhiên như ở nhà
+=the pleasures of home
++ thú vui gia đình
+- quê hương, tổ quốc, nơi chôn nhau cắt rún, nước nhà
+=an exile from home
++ một người bị đày xa quê hương
+- chỗ sinh sống (sinh vật)
+- nhà (hộ sinh...), viện (cứu tế, dưỡng lão...), trại (mồ côi...)
+=convalescent home
++ trại điều dưỡng
+=arphan's home
++ trại mồ côi
+=lying in home
++ nhà hộ sinh
+- đích (của một số trò chơi)
+!to be (feel) quite at home
+- cảm thấy hết sức thoải mái tự nhiên như ở nhà; không cảm thấy bị lạc lõng
+!to be quite at home on (in, with) a subject
+- thành thạo (thông thạo, quen thuộc, biết rõ) một vấn đề
+!a home from home
+- một nơi mình cảm thấy ấm cúng như gia đình mình
+!home is home, be it ever so homely
+- ta về ta tắm ao ta, dù trong dù đục ao nhà vẫn hơn
+!one's last (long) home
+- nấm mồ, nơi an nghỉ cuối cùng
+*  tính từ
+- (thuộc) gia đình, ở gia đình, ở nhà
+=home life
++ đời sống gia đình
+=for home use
++ để dùng trong nhà
+- (thuộc) nước nhà, ở trong nước, nội
+=Home Office
++ bộ nội vụ
+=home trade
++ bộ nội thương
+=home market
++ thị trường trong nước
+- địa phương
+=a home team
++ đội địa phương (đấu ở sân nhà với một đội ở nơi khác đến)
+- ở gần nhà
+!Home Counties
+- những hạt ở gần Luân
+-ddôn
+- trúng đích, trúng; (nghĩa bóng) chạm nọc
+=a question
++ một câu hỏi trúng vào vấn đề
+=a home truth
++ sự thật chua xót chạm nọc ai
+*  phó từ
+- về nhà, trở về nhà, đến nhà, ở nhà
+=to go home
++ về nhà
+=to see somebody home
++ đưa ai về nhà
+=he is home
++ anh ta đã về đến nhà; anh ta đã ở nhà
+- về nước, hồi hương, về quê hương
+=to send someone home
++ cho ai hồi hương
+- trúng, trúng địch; (bóng) chạm nọc, trúng tim đen
+=to strike home
++ đánh trúng đích, đánh trúng chỗ yếu; chạm đúng nọc
+- đến cùng
+=to drive a nail home
++ đóng đinh sâu hẳn vào, đóng ngập đầu đinh
+!to bring charge (a crime) home to somebody
+- vạch tội của ai, tuyên bố ai có tội
+!to bring home to
+- (xem) bring
+!to come home
+- (xem) come
+!nothing to write home about
+- tầm thường, không có gì đặc biệt, không có gì hay ho thích thú
+*  nội động từ
+- trở về nhà, trở về quê hương (người, chim bồ câu đưa thư...)
+- (từ Mỹ,nghĩa Mỹ) có nhà, có gia đình
+*  ngoại động từ
+- cho về nhà, cho hồi hương; đưa về nhà
+- tạo cho (ai...) một căn nhà, tạo một tổ ấm
 @Chuyên ngành kỹ thuật
--axit hóa
+-nhà
+-nhà ở
+@Lĩnh vực: điện lạnh
+-về gốc
+

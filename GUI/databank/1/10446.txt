@@ -1,5 +1,28 @@
-comedienne	
-@comedienne
-* danh từ
-- diễn viên hài
-- người hài hước
+regression
+	
+*  danh từ
+- sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại
+- (toán học) hồi quy
+=plane of regression
++ mặt phẳng hồi quy
+@Chuyên ngành kinh tế
+-sự giảm thoái
+-sự giảm thoái, thụt lùi
+-sự thụt lùi
+-suy thoái lạm phát
+@Chuyên ngành kỹ thuật
+-hồi quy
+-lập lại
+-sự hồi quy
+-sự lùi
+-sự thóai hóa
+-sự thoái lui
+@Lĩnh vực: điện tử & viễn thông
+-ghép hồi quy
+@Lĩnh vực: điện lạnh
+-phép hồi quy
+@Lĩnh vực: cơ khí & công trình
+-sự thoái lưu
+@Lĩnh vực: y học
+-thoái trào
+

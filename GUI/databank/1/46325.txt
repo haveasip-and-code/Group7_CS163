@@ -1,12 +1,12 @@
-reformat	@reformat
-- định lại khuôn thức, lập lại qui cách
+quantifier
+	
+- (logic học) phép lượng hoá
+- bounded q. phép lượng hoá bị chặn
+- existential q. phép lượng hoá tồn tại
+- generality q. phép lượng hoá phổ dụng
+- universal q. phép lượng hoá phổ dụng
 @Chuyên ngành kỹ thuật
--lập lại quy cách
+-lượng từ
 @Lĩnh vực: toán & tin
--định dạng khuôn thức
--định dạng lại
--format lại (đĩa)
-@Lĩnh vực: hóa học & vật liệu
--sản phẩm cải tạo
-@Lĩnh vực: điện tử & viễn thông
--tạo khuôn lại
+-phép lượng hóa
+

@@ -1,7 +1,10 @@
-sarcasm	@sarcasm /'sɑ:kæzm/
+permittivity
+	
 *  danh từ
-- lời chế nhạo, lời mỉa mai, lời chân biếm; ngôn ngữ mỉa mai châm biếm
-- tài chế nhạo, tài mỉa mai châm biếm; sự chế nhạo, sự mỉa mai châm biếm
+- (điện học) hằng số điện môi
 @Chuyên ngành kỹ thuật
+-điện thẩm
+-hằng số điện môi
 @Lĩnh vực: xây dựng
--mỉa mai
+-độ thấm điện môi
+

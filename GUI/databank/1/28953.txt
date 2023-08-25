@@ -1,36 +1,8 @@
-inspection	
-@inspection /in'spekʃn/
-*  danh từ
-- sự xem xét kỹ, sự kiểm tra, sự thanh tra
-- sự duyệt (quân đội)
-@Chuyên ngành kinh tế
--sự kiểm tra
--sự theo dõi
--việc thanh tra
+secretin
+	
+* danh từ
+- hoocmon tiết
 @Chuyên ngành kỹ thuật
--kiểm soát
--kiểm tra
--sự dò
--sự giám sát
--sự kiểm chứng
--sự kiểm nghiệm
--sự kiểm nhận
--sự kiểm soát
--sự kiểm tra
--sự thanh tra
--sự thử nghiệm
--sự xem xét
--thanh tra
-@Lĩnh vực: xây dựng
--điều tra (thanh tra)
--giám sát (thi công)
--sự duyệt
-@Lĩnh vực: điện lạnh
--sự khám nghiệm
--sự tìm
-@Lĩnh vực: toán & tin
--sự kiểm
-@Lĩnh vực: điện
--sự thanh sát
-@Lĩnh vực: hóa học & vật liệu
--sự xem xét kỹ
+@Lĩnh vực: y học
+-hormone do ruột non (tá tràng) tiết ra khi thực phẩm đã được axit hóa ra khói dạ dày
+

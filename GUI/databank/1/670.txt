@@ -1,4 +1,17 @@
-acylation	
+porosity
+	
+*  danh từ
+- trạng thái rỗ, trạng thái thủng tổ ong
+- trạng thái xốp
+@Chuyên ngành kinh tế
+-độ rỗ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự axyl hóa
+-độ rỗng
+-độ thấm qua
+-độ truyền qua
+-độ xốp
+@Lĩnh vực: xây dựng
+-độ xốp rỗng (của bê tông)
+@Lĩnh vực: ô tô
+-trạng thái xốp
+

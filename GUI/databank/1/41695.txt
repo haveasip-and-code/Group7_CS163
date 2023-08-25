@@ -1,20 +1,26 @@
-piracy	@piracy /'paiərəsi/
-*  danh từ
-- nghề cướp biển, nghề ăn cướp
-- sự vi phạm quyền tác giả
-@Chuyên ngành kinh tế
--cướp biển
--đạo văn
--hải khấu
--in lậu
--sự lấy cắp tác phẩm của người khác
--sự sao chụp bất hợp pháp
-@Chuyên ngành kỹ thuật
--nghề cướp biển
-@Lĩnh vực: giao thông & vận tải
--hoạt động cướp biển
+bushing
+	
+-bạc
+-bạc lót
+-bạc lót ổ trục
+-măng sông
+-ống
+-ống bọc
+-ống cách điện
+-ống lồng
+-ống lót
+-ống lót ổ trục
+-ống lót trục
+-ống nối
+-ống sứ lót
+-ống xẻ
+-phễu nạp liệu
+-sứ xuyên
+-vành
+@Lĩnh vực: điện
+-cái cách điện xuyên
 @Lĩnh vực: cơ khí & công trình
--sự cướp dòng
--sự đổi lưu vực
+-ống lót (ổ trục)
 @Lĩnh vực: toán & tin
--vi phạm bản quyền
+-ống lót chịu
+

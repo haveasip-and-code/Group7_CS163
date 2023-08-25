@@ -1,14 +1,9 @@
-docking	
-@docking
-* danh từ
-- việc cho tàu vào cảng
-@Chuyên ngành kinh tế
--đi vào ụ tàu
--việc đi vào bến tàu
+muteness
+	
+*  danh từ
+- sự câm, sự thầm lặng, sự lặng thinh
 @Chuyên ngành kỹ thuật
--chỗ nối
--sự áp sát
--sự cập bến
--tiếp giáp
-@Lĩnh vực: toán & tin
--trạm nối
+@Lĩnh vực: vật lý
+-mức câm
+-mức nặng
+

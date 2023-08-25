@@ -1,3 +1,12 @@
-metisse	@metisse /'mi:ti:s/
-*  danh từ
-- người đàn bà lai
+average
+	
+- trung bình at the a. ở mức trung bình;
+- above a. trên trung bình
+- arithmetic a. trung bình cộng
+- geometric (al) a. trung bình nhân (sqrt(ab))
+- harmonic a. trung bình điều hoà (2ab/(a
++b))
+- process a. giá trị trung bình của quá trình
+- progressive a. (thống kê) dãy các trung bình mẫu
+- weighted a. (thống kê) (giá trị) trung bình có trọng số
+

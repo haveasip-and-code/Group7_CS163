@@ -1,10 +1,11 @@
-declivity	
-@declivity /di'kliviti/
+payee
+	
 *  danh từ
-- dốc, chiều dốc
-@Chuyên ngành kỹ thuật
--độ nghiêng
--đường dốc
--xiên
-@Lĩnh vực: hóa học & vật liệu
--sụt giảm
+- người được trả tiền
+@Chuyên ngành kinh tế
+-người được trả tiền
+-người hưởng
+-người nhận (một thư chuyển tiền)
+-người nhận tiền
+-người thụ hưởng
+

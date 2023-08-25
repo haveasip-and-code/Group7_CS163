@@ -1,8 +1,5 @@
-pontifical	@pontifical /pɔn'tifikəl/
-*  tính từ
-- (thuộc) giáo hoàng
-- (thuộc) giáo chủ; (thuộc) giám mục
-- làm ra vẻ không lầm lẫn; làm ra vẻ không sai lầm; giáo lý một cách khoa trương
-*  danh từ
-- sách nghi lễ của giám mục
-- (số nhiều) trang phục và huy hiệu của giám mục
+neuropharmacology
+	
+@Lĩnh vực: y học
+-dược lý thần kinh học
+

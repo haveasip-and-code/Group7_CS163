@@ -1,17 +1,8 @@
-profitability	@profitability
+blastomycosis
+	
 * danh từ
-- sự có lợi, sự có ích; sự thuận lợi
-- sự có lãi, tình trạng thu được nhiều lãi
-@Chuyên ngành kinh tế
--khả năng sinh lợi
--tính doanh lợi
--tính sinh lợi
--tình trạng thu được nhiều lãi
+- bệnh nấm chồi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự có lãi
--sự có lợi
--sự thuận lợi
-@Lĩnh vực: xây dựng
--suất lợi nhuận
--thực năng lợi nhuận
+@Lĩnh vực: y học
+-bệnh nấm blatomyces
+

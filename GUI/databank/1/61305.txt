@@ -1,7 +1,11 @@
-vases	@Chuyên ngành kỹ thuật
--bình
--chậu
--lọ
-@Lĩnh vực: hóa học & vật liệu
--bình, lọ
--thuyền lớn
+electrochemistry
+	
+* danh từ
+- điện hoá học, môn hoá học điện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-điện hóa học
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-điện hóa học
+

@@ -1,8 +1,5 @@
-advection	
-@advection
-* danh từ
-- (khí tượng) bình lưu
-@Chuyên ngành kỹ thuật
--sự bình lưu
-@Lĩnh vực: hóa học & vật liệu
--bình lưu
+nuclease
+	
+@Lĩnh vực: y học
+-enzyme xúc tác phân hủy các nucleic acid bằng cách phân tích các cầu nối giunucleotide sát nhau
+

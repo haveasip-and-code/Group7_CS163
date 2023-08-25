@@ -1,6 +1,6 @@
-blocks	
-@Chuyên ngành kỹ thuật
--cục
--đá khối
--địa khối
--tảng
+formulize
+	
+*  ngoại động từ
+- làm thành công thức; đưa vào một công thức
+- trình bày rõ ràng chính xác, phát biểu có hệ thống (ý kiến...)
+

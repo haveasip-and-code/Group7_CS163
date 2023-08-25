@@ -1,12 +1,7 @@
-economy	
-@economy /i:'kɔnəmi/
-*  danh từ
-- sự quản lý kinh tế; nền kinh tế; tổ chức kinh tế
-- sự tiết kiệm (thì giờ, tiền của...); phương pháp tiết kiệm
-- cơ cấu tổ chức
-@Chuyên ngành kinh tế
--kinh tế
--nền kinh tế
--tính kinh tế
-@Chuyên ngành kỹ thuật
--nền kinh tế
+umbellar
+	
+*  tính từ
+- (thực vật học) hình tán
+=umbellar flower
++ hoa hình tán
+

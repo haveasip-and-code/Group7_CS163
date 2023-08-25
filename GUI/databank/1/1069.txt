@@ -1,7 +1,11 @@
-affectivity	
-@affectivity /,æfek'tiviti/
-*  danh từ
-- tính dễ xúc động
+stateroom
+	
+* danh từ
+- phòng khánh tiết (dùng trong các buổi nghi lễ)
+- cabin, phòng ngủ riêng trên tàu thủy
+@Chuyên ngành kinh tế
+-phòng ngủ riêng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cảm nặng
+-khoang
+-phòng
+

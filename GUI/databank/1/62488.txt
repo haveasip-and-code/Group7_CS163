@@ -1,13 +1,6 @@
-watchman	@watchman /'wɔtʃmən/
-*  danh từ
-- người gác (một công sở...)
-- (từ cổ,nghĩa cổ) trương tuần
-@Chuyên ngành kinh tế
--người canh giữ
--người gác
--người gác đêm
--người trực đêm
--nhân viên bảo vệ
+subseries
+	
+- chuỗi con
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--nhân viên cảnh giới
+-chuỗi con
+

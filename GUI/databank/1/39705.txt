@@ -1,19 +1,60 @@
-parent	@parent /'peərənt/
+bracket
+	
 *  danh từ
-- cha; mẹ
-- (số nhiều) cha mẹ; ông cha, tổ tiên
-=our first parents+ thuỷ tổ chúng ta (theo thần thoại phương tây là A-đam và E-vơ)
-- (nghĩa bóng) nguồn gốc
-=ignorance is the parent of many evils+ dốt nát là nguồn gốc của nhiều điều tai hại
-- (định ngữ) mẹ
-=parent bird+ chim mẹ
-=parent tree+ cây mẹ
+- (kiến trúc) côngxon, rầm chia
+- dấu ngoặc đơn; dấu móc; dấu ngoặc ôm
+=to put between brackets
++ để trong ngoặc đơn; để trong móc; để trong dấu ngoặc ôm
+- (quân sự) giá đỡ nòng (súng đại bác)
+- (quân sự) khoảng cách giữa hai phát đạn trên và dưới (mục tiêu) để quan trắc
+!income bracket
+- (từ Mỹ,nghĩa Mỹ) nhóm người đóng thuế xếp theo thu hoạch
+*  ngoại động từ
+- gộp lại trong dấu ngoặc; đặt trong dấu ngoặc
+- xếp (hai hay nhiều người) đồng hạng
+=A and B were bracketed for the fierst prize
++ A và B đều được xếp vào giải nhất
+- (quân sự) bắn hai phát đạn trên và dưới (mục tiêu) để quan trắc
+@Chuyên ngành kinh tế
+-dấu ngoặc (đơn)
 @Chuyên ngành kỹ thuật
--cha
--cha mẹ
--khởi đầu
--nguyên liệu
--phần tử mẹ
-@Lĩnh vực: toán & tin
--phần tử cấp trên
--phần tử cha
+-bệ
+-chỗ tựa
+-côngxon
+-dầm chìa
+-dầm công xôn
+-dầm hẫng
+-dấu ngoặc
+-dấu ngoặc vuông
+-đế
+-giá
+-giá chìa
+-giá công xôn
+-giá đỡ
+-giá treo
+-giàn đỡ
+-gờ đỡ
+-gối tựa
+-ke công xôn góc
+-ke nẹp góc
+-rầm hẫng
+-tấm nẹp
+-tấm ngăn
+-thanh nẹp
+@Lĩnh vực: điện
+-đai kẹp
+-giá công xon
+-giá đỡ (đèn điện)
+-rầm chia
+@Lĩnh vực: xây dựng
+-dầm chìa giá
+-dầm hẫng giá
+-mạch chống
+@Lĩnh vực: giao thông & vận tải
+-giá đỡ (đóng tàu)
+@Lĩnh vực: cơ khí & công trình
+-giá giữ
+-ổ đỡ côngxon
+@Lĩnh vực: hóa học & vật liệu
+-khung giá đỡ
+

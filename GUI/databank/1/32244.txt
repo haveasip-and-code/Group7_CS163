@@ -1,42 +1,5 @@
-limit	@limit /'limit/
-*  danh từ
-- giới hạn, hạn độ
-=there is no limit to his impudence]+ sự hỗn xược của nó thật không còn giới hạn nào
-- (thông tục) (the limit) người quá quắc; điều quá quắc
-=really you are the limit+ anh (chị) thật là quá quắt
-*  ngoại động từ
-- giới hạn, hạn chế
-- làm giới hạn cho
-@Chuyên ngành kinh tế
--định giới hạn
--giới hạn
--hạn chế
--hạn định
--hạn độ
--hạn giá
--hạn ngạch
--mức giới hạn
--sự hạn chế
--sự hạn định
-@Chuyên ngành kỹ thuật
--biên giới
--cận
--cữ chặn
--dung sai
--giới hạn
--hạn chế
--phạm vi
--ranh giới
-@Lĩnh vực: cơ khí & công trình
--cữ (chặn)
-@Chuyên ngành kỹ thuật
--biên giới
--cận
--cữ chặn
--dung sai
--giới hạn
--hạn chế
--phạm vi
--ranh giới
-@Lĩnh vực: cơ khí & công trình
--cữ (chặn)
+stotinka
+	
+* danh từ số nhiều stotinki
+- đồng tiền xtotinca (Bungari)
+

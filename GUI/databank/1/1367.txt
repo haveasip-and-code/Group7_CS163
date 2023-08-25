@@ -1,9 +1,5 @@
-airworthiness	
-@airworthiness /'eə,wə:ði/
-*  danh từ
-- khả năng bay được (máy bay)
-@Chuyên ngành kinh tế
--khả năng bay được (của máy bay)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--khả năng bay được
+gullible
+	
+* tính từ
+- dễ bị lừa, dễ mắc lừa; khờ dại, cả tin
+

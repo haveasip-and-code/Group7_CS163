@@ -1,20 +1,12 @@
-investigation	
-@investigation /in,vesti'geiʃn/
+passport
+	
 *  danh từ
-- sự điều tra nghiên cứu
+- hộ chiếu
+- (nghĩa bóng) cái đảm bảo để đạt được (cái gì)
 @Chuyên ngành kinh tế
--điều tra
--khám xét
--khảo sát
--kiểm tra
--nghiên cứu
--thẩm tra
+-giấy thông hành
+-hộ chiếu
 @Chuyên ngành kỹ thuật
--điều tra
--khảo sát
--sự điều tra
--sự khảo sát
--sự nghiên cứu
--sự thăm dò
--tìm kiếm
--tra cứu
+@Lĩnh vực: xây dựng
+-hộ chiếu
+

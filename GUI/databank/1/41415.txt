@@ -1,6 +1,5 @@
-physiotherapist	@physiotherapist
+esthete
+	
 * danh từ
-- nhà vật lý trị liệu <thgt>
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bác sĩ điều trị vật lý
+- nhà duy mỹ
+

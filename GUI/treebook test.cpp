@@ -65,19 +65,110 @@ extern vector<pair<string,string>> historyList;
 
 extern TST data1;
 
+MyFrame* dictionary;
+
 bool isEditable;
 
+/*
 string correctAnswer="sound/correct.wav";
 string wrongAnswer("sound/wrong.wav");
 string clickSound("sound/click.wav");
+string startSound("sound/startup.wav");
+string doneSound("sound/donesearch.wav");
+*/
+
+wxSound correctAnswer("sound/correct.wav");
+wxSound wrongAnswer("sound/wrong.wav");
+wxSound clickSound("sound/click.wav");
+wxSound startSound("sound/startup.wav");
+wxSound doneSound("sound/donesearch.wav");
+wxSound delSound("sound/del.wav");
+wxSound tadaSound("sound/tada.wav");
 
 vector<string> inputRegex;
 
 MyPanel* subpanel;
 
+wxPanel* mainPart;
+wxScrolledWindow* panelt;
+wxBoxSizer* sizer2t;
+wxFont myAppFont2t;
+wxTextCtrl* targett;
+
+wxPanel* mainParr;
+wxScrolledWindow* panelr;
+wxBoxSizer* sizer2r;
+wxFont myAppFont2r;
+wxTextCtrl* targetr;
+
+wxTextCtrl* word;
+
+wxBitmap unfavorited_ico;
+wxBitmap favorited_ico;
+
+void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target);
+void resetSizer(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target);
+
+void constructSr(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target);
+void resetSizerr(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target);
+
+wxWindow* CreateGamePage(wxBookCtrlBase* parent);
+wxPanel *FavoriteList(wxBookCtrlBase *parent);
+wxPanel *CreateAddPage(wxBookCtrlBase *parent);
+wxPanel *DictionaryPage(wxBookCtrlBase *parent);
+int GetIconIndex(wxBookCtrlBase* bookCtrl);
+
+wxBitmapButton* m_favourite;
+
+void searchFav(wxString key,wxTextCtrl* textArea) {
+    string tmp=wxStringToString(key);
+    for (int i=0;i<favouriteList.size();i++) {
+        if (favouriteList[i].first==key) {
+            textArea->SetValue(stringToWxString(favouriteList[i].first+"\n"+favouriteList[i].second));
+            return;
+        }
+    }
+    textArea->SetValue(stringToWxString("I have no idea what you are trying to search. Please, make some sense!!!"));
+}
+
+
+void searchHistory(wxString key,wxTextCtrl* textArea) {
+    string tmp=wxStringToString(key);
+    for (int i=0;i<historyList.size();i++) {
+        if (historyList[i].first==key) {
+            textArea->SetValue(stringToWxString(historyList[i].first+"\n"+historyList[i].second));
+            return;
+        }
+    }
+    textArea->SetValue(stringToWxString("I have no idea what you are trying to search. Please, make some sense!!!"));
+}
+
+void CreateInitialPages(wxBookCtrlBase *parent,int idx)
+{
+    // Create and add some panels to the notebook
+
+    parent->SetSize(wxSize(70,680));
+
+    wxWindow *page = DictionaryPage(parent);
+    parent->InsertPage( 0, page, wxEmptyString, false, GetIconIndex(parent) );
+
+    page = CreateAddPage(parent);
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
+
+    page = FavoriteList(parent);
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
+
+    page = CreateGamePage(parent);
+    parent->AddPage( page, wxEmptyString, false, GetIconIndex(parent) );
+
+    parent->SetSelection(idx);
+}
+
 void pSound(const std::string filename) {
-    //if (bitCHSound.Play(wxSOUND_ASYNC)) cout<<"Sound should play right?\n";
+    wxSound bitCHSound(filename);
+    if (bitCHSound.Play(wxSOUND_ASYNC)) cout<<"Sound should play right?\n";
     //sndPlaySound(bitCHSound, SND_FILENAME | SND_ASYNC);
+    /*
     int size = MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, NULL, 0);
     wchar_t* wFileName = new wchar_t[size];
     MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, wFileName, size);
@@ -85,29 +176,75 @@ void pSound(const std::string filename) {
     sndPlaySound(wFileName, SND_FILENAME | SND_ASYNC);
 
     delete[] wFileName;
+    */
+}
+
+void pSound(wxSound& filename) {
+    //wxSound bitCHSound(filename);
+    if (filename.Play(wxSOUND_ASYNC)) cout<<"Sound should play right?\n";
+    //sndPlaySound(bitCHSound, SND_FILENAME | SND_ASYNC);
+    /*
+    int size = MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, NULL, 0);
+    wchar_t* wFileName = new wchar_t[size];
+    MultiByteToWideChar(CP_UTF8, 0, filename.c_str(), -1, wFileName, size);
+
+    sndPlaySound(wFileName, SND_FILENAME | SND_ASYNC);
+
+    delete[] wFileName;
+    */
 }
 
 void updateFavourite(pair<string,string> tmp) {
-    cout<<"+ "<<tmp.first<<'\n';
+    //cout<<"+ "<<tmp.first<<'\n';
     favouriteList.push_back(tmp);
     sort(favouriteList.begin(),favouriteList.end());
     for (int i=0;i<favouriteList.size();i++) {
         cout<<favouriteList[i].first<<'\n';
     }
+    saveFav();
 }
 
 void removeFavourite(pair<string,string> tmp) {
-    cout<<"- "<<tmp.first<<'\n';
+    //cout<<"- "<<tmp.first<<'\n';
     for (int i=0;i<favouriteList.size();i++) {
         if (tmp.first==favouriteList[i].first) {
             favouriteList.erase(favouriteList.begin()+i);
             return;
         }
     }
+    saveFav();
 }
 
 void removeFavourite(int x) {
     favouriteList.erase(favouriteList.begin()+x);
+    saveFav();
+}
+
+
+void updateHistory(pair<string,string> tmp) {
+    //cout<<"+ "<<tmp.first<<'\n';
+    historyList.insert(historyList.begin(),tmp);
+    //sort(favouriteList.begin(),favouriteList.end());
+    for (int i=0;i<historyList.size();i++) {
+        cout<<historyList[i].first<<'\n';
+    }
+    saveHistory();
+}
+
+void removeHistory(pair<string,string> tmp) {
+    //cout<<"- "<<tmp.first<<'\n';
+    for (int i=0;i<historyList.size();i++) {
+        if (tmp.first==historyList[i].first) {
+            historyList.erase(historyList.begin()+i);
+            return;
+        }
+    }
+    saveHistory();
+}
+
+void removeHistory(int x) {
+    historyList.erase(historyList.begin()+x);
+    saveHistory();
 }
 
 bool isFavourite(string tmp) {
@@ -124,8 +261,9 @@ wxBitmap statusBitmap;
 
 wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 {
+    pSound(startSound);
     //pSound("click.wav");
-    cout<<"What just happen?\n";
+    //cout<<"What just happen?\n";
     wxPanel *panel = new wxPanel(parent);
     wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
 
@@ -135,10 +273,10 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBoxSizer* all_sizer = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer = new wxBoxSizer(wxHORIZONTAL);
 
-    wxBitmap unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
-    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    unfavorited_ico = wxBitmap("unfavorited.png", wxBITMAP_TYPE_ANY);
 
-    wxBitmapButton* m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
+    m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
 
     wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(110, 25));
     chooseMode->SetForegroundColour(wxColour(142, 159, 157));
@@ -146,6 +284,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxArrayString modeChoices;
     modeChoices.Add("By keyword");
     modeChoices.Add("By definition");
+    modeChoices.Add("By part definition");
     chooseMode->Set(modeChoices);
     chooseMode->SetFont(myAppFont);
 
@@ -157,7 +296,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxString selectedText = chooseMode->GetStringSelection();
         //wxLogMessage("Selected: %s", selectedText);
         if (selectedText=="By keyword") mode=1;
-        else mode=2;
+        else if (selectedText=="By definition") mode=2;
+        else mode=3;
     });
 
     wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
@@ -179,7 +319,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
-    wxTextCtrl* word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
+    word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(200,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
     word->SetFont(wxFont(30, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Bold"));
     word->SetHint("the word");
     word->SetBackgroundColour(wxColour(249, 246, 246));
@@ -213,6 +353,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
     searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
+        pSound(clickSound);
         wxString searchText = searchBar->GetValue();
         //wxMessageBox("Searching for: " + searchText);
         //wxMessageBox(getPath(1));
@@ -220,8 +361,9 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         //cout<<tmp<<'\n';
         //string testStr="make";
         //cout<<data1.get(testStr)->val<<' '<<tmp<<'\n';
+        pair<string,string> searchResult;
         if (mode==1) {
-            pair<string,string> searchResult=getWordDefAlways(data1,tmp);
+            searchResult=getWordDefAlways(data1,tmp);
             curDef=stringToWxString(searchResult.second);
             curWord=stringToWxString(searchResult.first);
             //cout<<curDef<<' '<<curWord<<'\n';
@@ -231,11 +373,11 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             definition->ChangeValue(curDef);
         }
         else {
-            factor=1;
+            factor=mode-1;
             deltaPos=0;
             transformDef(tmp,inputRegex);
             cout<<searchDef(cmd,deltaPos,inputRegex,inputRegex.size()/factor);
-            pair<string,string> searchResult=retrieveData(curDataSet,searchDef(cmd,deltaPos,inputRegex,inputRegex.size()/factor));
+            searchResult=retrieveData(curDataSet,searchDef(cmd,deltaPos,inputRegex,inputRegex.size()/factor));
             curDef=stringToWxString(searchResult.second);
             curWord=stringToWxString(searchResult.first);
             //cout<<curDef<<' '<<curWord<<'\n';
@@ -244,6 +386,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             word->ChangeValue(curWord);
             definition->ChangeValue(curDef);
         }
+        pSound(doneSound);
         if (isFavourite(wxStringToString(word->GetValue()))) {
             notFavorite=false;
         }
@@ -253,6 +396,9 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         statusBitmap=notFavorite ? unfavorited_ico : favorited_ico;
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
+        updateHistory(searchResult);
+        resetSizerr(mainPart,panelt,sizer2t,myAppFont2t,targett);
+        sizer2r->Layout();
     });
 
     sizer->Add(chooseMode, 0, wxLEFT);
@@ -276,6 +422,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     //m_edit->SetSize(wxSize(30, 30));
     m_edit->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                  {
+            pSound(clickSound);
             static bool notEdit = true;
             wxBitmap statusBitmap = notEdit ? unedit_ico : edit_ico;
             m_edit->SetBitmapLabel(statusBitmap);
@@ -335,7 +482,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBitmapButton* m_remove = new wxBitmapButton(panel, wxID_ANY, wxArtProvider::GetBitmap(wxART_DELETE), wxDefaultPosition, wxSize(30,30));
     m_remove->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                    {
-
+        pSound(clickSound);
         //Function cua Cuong
         //wxLogMessage("This word has been removed!");
         //pronounciation->Clear();
@@ -363,7 +510,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     m_favourite->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event) {
         //notFavorite = !notFavorite;
-
+        pSound(clickSound);
         if (isFavourite(wxStringToString(word->GetValue()))) {
             notFavorite=false;
         }
@@ -389,6 +536,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         m_favourite->SetBitmapLabel(statusBitmap);
         m_favourite->SetSize(wxSize(30,30));
         panel->Layout();
+        resetSizer(mainPart,panelt,sizer2t,myAppFont2t,targett);
+        sizer2t->Layout();
         //subpanel->build(favouriteList);
     });
 
@@ -448,6 +597,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     m_wordOfDay->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
+                pSound(tadaSound);
             static bool notWotd = true;
             wxBitmap statusBitmap = notWotd ? wotd_ico : unwotd_ico;
             m_wordOfDay->SetBitmapLabel(statusBitmap);
@@ -487,7 +637,154 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
 wxPanel *CreateAddPage(wxBookCtrlBase *parent)
 {
-    wxPanel *panel = new wxPanel(parent);
+     wxPanel *panel = new wxPanel(parent);
+    wxFont myAppFont(10, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
+    wxFont myAppFont2(15, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
+    wxFont subTextFont(9, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium");
+    panel->SetBackgroundColour(wxColour(249, 246, 246));
+
+    wxScrolledWindow* lowpanel = new wxScrolledWindow(panel);
+    /*
+    wxBoxSizer* sizer = new wxBoxSizer(wxVERTICAL);
+
+    // Create the subpanel and add it to the sizer
+
+    wxPanel* scPanel=new wxPanel(panel);
+    scPanel->SetSize(wxSize(3000,5000));
+    scPanel->SetPosition(wxPoint(100,100));
+    scPanel->SetBackgroundColour(wxColour(100,100,100));
+
+    subpanel = new MyPanel(scPanel);
+    sizer->Add(subpanel, 1, wxEXPAND);
+
+    // Set the sizer for the main panel
+    //scPanel->SetSizer(sizer);
+
+    // Fit the main panel to the frame size
+    sizer->Fit(scPanel);
+
+    subpanel->build(favouriteList);
+    subpanel->Layout();
+    */
+    wxBoxSizer* biggest = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer* textArea = new wxBoxSizer(wxVERTICAL);
+    wxBoxSizer* mergerScreen = new wxBoxSizer(wxHORIZONTAL);
+
+    wxPanel* infoPanel = new wxPanel;
+    infoPanel->SetBackgroundColour(wxColour(100,100,150));
+    infoPanel->SetSizer(textArea);
+
+    wxTextCtrl* infoText= new wxTextCtrl(panel, wxID_ANY, "", wxDefaultPosition, wxDefaultSize, wxTE_MULTILINE);
+    infoText->SetId(wxID_ANY);
+    infoText->SetValue(wxEmptyString);
+    infoText->SetPosition(wxDefaultPosition);
+    infoText->SetSize(wxDefaultSize);
+    /*
+    wxTextAttr infoTextAttr;
+    //infoTextAttr.SetTextColour(wxColor());
+    infoTextAttr.SetFont();
+    infoText->SetDefaultStyle(wxTE_PROCESS_ENTER|wxTE_READONLY|wxTE_MULTILINE);
+    */
+
+    // search area
+    wxBoxSizer* sizer1 = new wxBoxSizer(wxHORIZONTAL);
+
+    wxSearchCtrl* searchBar = new wxSearchCtrl(panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxSize(500, 25), wxTE_PROCESS_ENTER|wxTE_LEFT);
+    searchBar->SetBackgroundColour(wxColour(200, 210, 209));
+
+    wxWindowListNode* firstChild = searchBar->GetChildren().GetFirst();
+
+    if (firstChild) {
+        wxTextCtrl* textCtrl = wxDynamicCast(firstChild->GetData(), wxTextCtrl);
+        if (textCtrl) {
+            textCtrl->SetFont(myAppFont);
+            textCtrl->SetForegroundColour(wxColour(142, 159, 157));
+        }
+        else {
+            wxLogMessage("No data1");
+        }
+    }
+    else {
+        wxLogMessage("No firstChild");
+    }
+
+    wxBitmap search_ig = wxBitmap("search-25.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* searchButton = new wxBitmapButton(panel, wxID_ANY, search_ig, wxDefaultPosition, wxSize(25,25));
+
+    searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
+        wxString searchText = searchBar->GetValue();
+        pSound(clickSound);
+        //wxMessageBox("Searching for: " + searchText);
+        searchHistory(searchText,infoText);
+    });
+    sizer1->Add(searchBar, 0, wxLEFT, 5);
+    sizer1->Add(searchButton, 0, wxLEFT);
+
+    // result area, đoạn này chỉnh màu chưa đc :)
+    wxPanel* base = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
+    base->SetBackgroundColour(wxColour(238, 238, 238));
+    sizer1->Add(base);
+
+    // ------------------------------------------------------------------ create one word item
+    wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
+    lowpanel->SetVirtualSize(wxSize(200, 800));
+    lowpanel->SetScrollRate(0, 10);
+    lowpanel->SetSizer(sizer2);
+    lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
+    mainParr=panel;
+    panelr=lowpanel;
+    sizer2r=sizer2;
+    myAppFont2r=myAppFont2;
+    targetr=infoText;
+    constructSr(panel,lowpanel,sizer2,myAppFont2,infoText);
+    /*
+    wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
+    wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
+    line1->SetBackgroundColour(wxColour(142, 159, 157));
+
+    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,"Word number 1");
+    //wxStaticText* wordDef = new wxStaticText(line1, wxID_ANY, "Definition goes here...");
+    wordName->SetFont(myAppFont2);
+   // wordDef->SetFont(subTextFont);
+    wordName->SetForegroundColour(wxColour(73, 86, 111));
+    //wordDef->SetForegroundColour(wxColour(73, 86, 111));
+    // wordName->SetForegroundColour(wxColour(242, 224, 195));
+    // wordDef->SetForegroundColour(wxColour(242, 224, 195));
+
+    // chưa tìm đc cách bind cả wordInfo với event
+    line1->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+        wxMessageBox(wxString::Format("Chose word: %s", wordName->GetLabel()), wxT("Message"));
+    });
+
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, favorited_ico, wxDefaultPosition, wxSize(30,30));
+
+    wxBoxSizer* itemSizer = new wxBoxSizer(wxHORIZONTAL);
+
+    wordInfo->Add(wordName, 20, wxALIGN_CENTRE, 5);
+    //wordInfo->Add(wordDef, 0, wxLEFT, 5);
+    itemSizer->Add(wordInfo, 20, wxALIGN_CENTRE, 5);
+    itemSizer->AddStretchSpacer(1);
+    itemSizer->Add(removeFromFav, 0, wxRIGHT|wxCENTRE);
+    line1->SetSizer(itemSizer);
+    sizer2->Add(line1);
+    */
+    // ------------------------------------------------------------------ create one word item
+
+    //panel->GetSizer()->Detach(infoText);
+
+    biggest->Add(sizer1, 0, wxEXPAND);
+    biggest->AddSpacer(5);
+    biggest->Add(lowpanel, wxEXPAND, wxEXPAND);
+    mergerScreen->Add(biggest,0,wxEXPAND);
+    //textArea->Add(infoText,0,wxEXPAND);
+    //mergerScreen->Add(textArea,wxEXPAND,wxEXPAND);
+    mergerScreen->Add(infoText,wxEXPAND,wxEXPAND);
+
+
+    panel->SetSizer(mergerScreen);
+    return panel;
+    //wxPanel *panel = new wxPanel(parent);
     /*
 
     wxTextCtrl* keyword = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,40));
@@ -532,8 +829,49 @@ wxPanel *CreateAddPage(wxBookCtrlBase *parent)
     return panel;
 }
 
-void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
+void resetSizer(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
+    // Clear and detach each item in the sizer
+    while (!sizer2->IsEmpty())
+    {
+        wxSizerItem* item = sizer2->GetItem(size_t(0));
+        wxWindow* window = item->GetWindow();
+
+        sizer2->Detach(0);
+        delete window;
+        //window->Destroy();
+    }
+
+    // Clear the sizer itself
+    sizer2->Clear();
+    //dictionary->Refresh();
+    //dictionary->Update();
+    //sizer2->Clear();
+    panel->SetSizer(sizer2);
+    //mainPar->Layout();
+    //sizer2->Layout();
+    //sizer2->SetOrientation(wxVERTICAL);
+    //cout<<sizer2->m_totalProportion;
+    //wxBoxSizer* sizer3 = new wxBoxSizer(wxVERTICAL);
+    //sizer2=sizer3;
+    //wxBookCtrlBase* parent=dynamic_cast<wxBookCtrlBase*>(dictionary->m_sizerFrame->GetItem(size_t(0)));
+    //wxPanel* page = FavoriteList(parent);
+    //parent->RemovePage(2);
+    //wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+    //parent->InsertPage(2, page, wxEmptyString, false, 2);
+    //dictionary->RecreateBook(2);
+    //cout<<"Help me\n";
+    constructSc(mainPar,panel,sizer2,myAppFont2,target);
+    sizer2->Layout();
+    mainPar->Layout();
+    //sizer2->Hide(false);
+    //mainPar->Layout();
+    //sizer2->Layout();
+    //panel->Layout();
+}
+
+void constructSc(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
     for (int i=0;i<favouriteList.size();i++) {
+    //cout<<i<<'\n';
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
     line1->SetBackgroundColour(wxColour(142, 159, 157));
@@ -552,6 +890,7 @@ void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wx
 
     // chưa tìm đc cách bind cả wordInfo với event
     line1->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+            pSound(clickSound);
         //wxMessageBox(wxString::Format("Chose word: %s", intToString(static_cast<int*>(line1->GetClientData())), wxT("Message")));
         int pos=*static_cast<int*>(line1->GetClientData());
         target->SetValue(stringToWxString(favouriteList[pos].first+"\n"+favouriteList[pos].second));
@@ -561,12 +900,56 @@ void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wx
     wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, favorited_ico, wxDefaultPosition, wxSize(30,30));
     removeFromFav->SetClientData(clientValue);
 
-    removeFromFav->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+    removeFromFav->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){pSound(delSound);
         int pos=*static_cast<int*>(removeFromFav->GetClientData());
         removeFavourite(pos);
+        resetSizer(mainPar,panel,sizer2,myAppFont2,target);
+        /*
+        // Clear and detach each item in the sizer
+        while (sizer2->IsEmpty())
+        {
+            wxSizerItem* item = sizer2->GetItem(size_t(0));
+            wxWindow* window = item->GetWindow();
+
+            sizer2->Detach(0);
+            window->Destroy();
+        }
+
+        // Clear the sizer itself
         sizer2->Clear();
-        //constructSc(panel,sizer2,myAppFont2,target);
+        //dictionary->Refresh();
+        //dictionary->Update();
+        //sizer2->Clear();
+        panel->SetSizer(sizer2);
+        //mainPar->Layout();
+        //sizer2->Layout();
+        //sizer2->SetOrientation(wxVERTICAL);
+        //cout<<sizer2->m_totalProportion;
+        //wxBoxSizer* sizer3 = new wxBoxSizer(wxVERTICAL);
+        //sizer2=sizer3;
+        //wxBookCtrlBase* parent=dynamic_cast<wxBookCtrlBase*>(dictionary->m_sizerFrame->GetItem(size_t(0)));
+        //wxPanel* page = FavoriteList(parent);
+        //parent->RemovePage(2);
+        //wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+        //parent->InsertPage(2, page, wxEmptyString, false, 2);
+        //dictionary->RecreateBook(2);
+        //cout<<"Help me\n";
+        constructSc(mainPar,panel,sizer2,myAppFont2,target);
+        sizer2->Layout();
+        mainPar->Layout();
+        //mainPar->Layout();
+        //sizer2->Layout();
         //panel->Layout();
+        */
+        if (isFavourite(wxStringToString(word->GetValue()))) {
+            notFavorite=false;
+        }
+        else {
+            notFavorite=true;
+        }
+        wxBitmap statusBitmap = notFavorite ? unfavorited_ico : favorited_ico;
+        m_favourite->SetBitmapLabel(statusBitmap);
+        m_favourite->SetSize(wxSize(30,30));
     });
 
     wxBoxSizer* itemSizer = new wxBoxSizer(wxHORIZONTAL);
@@ -584,6 +967,142 @@ void constructSc(wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wx
     line1->SetSizer(itemSizer);
     sizer2->Add(line1);
     }
+    //cout<<"Done\n";
+}
+
+
+void resetSizerr(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
+    // Clear and detach each item in the sizer
+    while (!sizer2->IsEmpty())
+    {
+        wxSizerItem* item = sizer2->GetItem(size_t(0));
+        wxWindow* window = item->GetWindow();
+
+        sizer2->Detach(0);
+        delete window;
+        //window->Destroy();
+    }
+
+    // Clear the sizer itself
+    sizer2->Clear();
+    //dictionary->Refresh();
+    //dictionary->Update();
+    //sizer2->Clear();
+    panel->SetSizer(sizer2);
+    //mainPar->Layout();
+    //sizer2->Layout();
+    //sizer2->SetOrientation(wxVERTICAL);
+    //cout<<sizer2->m_totalProportion;
+    //wxBoxSizer* sizer3 = new wxBoxSizer(wxVERTICAL);
+    //sizer2=sizer3;
+    //wxBookCtrlBase* parent=dynamic_cast<wxBookCtrlBase*>(dictionary->m_sizerFrame->GetItem(size_t(0)));
+    //wxPanel* page = FavoriteList(parent);
+    //parent->RemovePage(2);
+    //wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+    //parent->InsertPage(2, page, wxEmptyString, false, 2);
+    //dictionary->RecreateBook(2);
+    //cout<<"Help me\n";
+    constructSr(mainPar,panel,sizer2,myAppFont2,target);
+    sizer2->Layout();
+    mainPar->Layout();
+    //sizer2->Hide(false);
+    //mainPar->Layout();
+    //sizer2->Layout();
+    //panel->Layout();
+}
+
+void constructSr(wxPanel* mainPar,wxScrolledWindow* panel,wxBoxSizer* sizer2,wxFont myAppFont2,wxTextCtrl* target) {
+    for (int i=0;i<historyList.size();i++) {
+    //cout<<historyList.size()<<"00000000\n";
+    //cout<<i<<'\n';
+    wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
+    wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
+    line1->SetBackgroundColour(wxColour(142, 159, 157));
+
+    wxStaticText* wordName = new wxStaticText(line1, wxID_ANY,historyList[i].first);
+    int* clientValue= new int;
+    *clientValue=i;
+    line1->SetClientData(clientValue);
+    //wxStaticText* wordDef = new wxStaticText(line1, wxID_ANY, "Definition goes here...");
+    wordName->SetFont(myAppFont2);
+   // wordDef->SetFont(subTextFont);
+    wordName->SetForegroundColour(wxColour(73, 86, 111));
+    //wordDef->SetForegroundColour(wxColour(73, 86, 111));
+    // wordName->SetForegroundColour(wxColour(242, 224, 195));
+    // wordDef->SetForegroundColour(wxColour(242, 224, 195));
+
+    // chưa tìm đc cách bind cả wordInfo với event
+    line1->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+        pSound(clickSound);
+        //wxMessageBox(wxString::Format("Chose word: %s", intToString(static_cast<int*>(line1->GetClientData())), wxT("Message")));
+        int pos=*static_cast<int*>(line1->GetClientData());
+        target->SetValue(stringToWxString(historyList[pos].first+"\n"+historyList[pos].second));
+    });
+
+    wxBitmap favorited_ico = wxBitmap("favorited.png", wxBITMAP_TYPE_ANY);
+    wxBitmapButton* removeFromFav = new wxBitmapButton(line1, wxID_ANY, favorited_ico, wxDefaultPosition, wxSize(30,30));
+    removeFromFav->SetClientData(clientValue);
+
+    removeFromFav->Bind(wxEVT_LEFT_DOWN, [=](wxMouseEvent& event){
+        pSound(delSound);
+        int pos=*static_cast<int*>(removeFromFav->GetClientData());
+        removeHistory(pos);
+        resetSizerr(mainPar,panel,sizer2,myAppFont2,target);
+        /*
+        // Clear and detach each item in the sizer
+        while (sizer2->IsEmpty())
+        {
+            wxSizerItem* item = sizer2->GetItem(size_t(0));
+            wxWindow* window = item->GetWindow();
+
+            sizer2->Detach(0);
+            window->Destroy();
+        }
+
+        // Clear the sizer itself
+        sizer2->Clear();
+        //dictionary->Refresh();
+        //dictionary->Update();
+        //sizer2->Clear();
+        panel->SetSizer(sizer2);
+        //mainPar->Layout();
+        //sizer2->Layout();
+        //sizer2->SetOrientation(wxVERTICAL);
+        //cout<<sizer2->m_totalProportion;
+        //wxBoxSizer* sizer3 = new wxBoxSizer(wxVERTICAL);
+        //sizer2=sizer3;
+        //wxBookCtrlBase* parent=dynamic_cast<wxBookCtrlBase*>(dictionary->m_sizerFrame->GetItem(size_t(0)));
+        //wxPanel* page = FavoriteList(parent);
+        //parent->RemovePage(2);
+        //wxBitmap fav("favorite_unclicked.png", wxBITMAP_TYPE_ANY);
+        //parent->InsertPage(2, page, wxEmptyString, false, 2);
+        //dictionary->RecreateBook(2);
+        //cout<<"Help me\n";
+        constructSc(mainPar,panel,sizer2,myAppFont2,target);
+        sizer2->Layout();
+        mainPar->Layout();
+        //mainPar->Layout();
+        //sizer2->Layout();
+        //panel->Layout();
+        */
+    });
+
+    wxBoxSizer* itemSizer = new wxBoxSizer(wxHORIZONTAL);
+
+    wordInfo->Add(wordName, 20, wxALIGN_CENTRE, 5);
+    //wordInfo->Add(wordDef, 0, wxLEFT, 5);
+    itemSizer->Add(wordInfo, 20, wxALIGN_CENTRE, 5);
+    itemSizer->AddStretchSpacer(1);
+    itemSizer->Add(removeFromFav, 0, wxRIGHT|wxCENTRE, 20);
+    //wxSizerItem* itemToRemove = itemSizer->GetItem(removeFromFav);
+    //wxPoint currentPosition = itemToRemove->GetPosition();
+    //int newX = currentPosition.x + 20;
+    //int newY = currentPosition.y;
+    //itemToRemove->SetItemPosition(wxPoint(newX, newY));
+    line1->SetSizer(itemSizer);
+    sizer2->Add(line1);
+    }
+    //cout<<"Done\n";
 }
 
 wxPanel *FavoriteList(wxBookCtrlBase *parent)
@@ -665,7 +1184,9 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     searchButton->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event){
         wxString searchText = searchBar->GetValue();
-        wxMessageBox("Searching for: " + searchText);
+        pSound(clickSound);
+        //wxMessageBox("Searching for: " + searchText);
+        searchFav(searchText,infoText);
     });
     sizer1->Add(searchBar, 0, wxLEFT, 5);
     sizer1->Add(searchButton, 0, wxLEFT);
@@ -677,7 +1198,16 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     // ------------------------------------------------------------------ create one word item
     wxBoxSizer* sizer2 = new wxBoxSizer(wxVERTICAL);
-    constructSc(lowpanel,sizer2,myAppFont2,infoText);
+    lowpanel->SetVirtualSize(wxSize(200, 800));
+    lowpanel->SetScrollRate(0, 10);
+    lowpanel->SetSizer(sizer2);
+    lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
+    mainPart=panel;
+    panelt=lowpanel;
+    sizer2t=sizer2;
+    myAppFont2t=myAppFont2;
+    targett=infoText;
+    constructSc(panel,lowpanel,sizer2,myAppFont2,infoText);
     /*
     wxBoxSizer* wordInfo = new wxBoxSizer(wxVERTICAL);
     wxPanel* line1 = new wxPanel(panel, wxID_ANY, wxDefaultPosition, wxSize(530, 50));
@@ -714,12 +1244,8 @@ wxPanel *FavoriteList(wxBookCtrlBase *parent)
 
     //panel->GetSizer()->Detach(infoText);
 
-    lowpanel->SetVirtualSize(wxSize(200, 800));
-    lowpanel->SetScrollRate(0, 10);
     biggest->Add(sizer1, 0, wxEXPAND);
     biggest->AddSpacer(5);
-    lowpanel->SetSizer(sizer2);
-    lowpanel->ShowScrollbars(wxSHOW_SB_DEFAULT,wxSHOW_SB_DEFAULT);
     biggest->Add(lowpanel, wxEXPAND, wxEXPAND);
     mergerScreen->Add(biggest,0,wxEXPAND);
     //textArea->Add(infoText,0,wxEXPAND);
@@ -1401,6 +1927,34 @@ default:                                \
 wxFAIL_MSG( "unknown book control type" );\
 }
 
+void MyFrame::RecreateBook(int idx)
+{
+    // m_bookCtrl = NULL;
+
+    // DISPATCH_ON_TYPE(m_bookCtrl = new, wxNotebook,
+    //                  (m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize));
+
+    // if ( !m_bookCtrl )
+    //     return;
+    pSound(wrongAnswer);
+    wxNotebook* functionBar = new wxNotebook(m_panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxNB_LEFT);
+    functionBar->SetBackgroundColour(wxColour(73, 86, 111));
+
+    // m_bookCtrl->Hide();
+
+    if ( m_chkShowImages ) {
+        functionBar->SetImages(m_images);
+    }
+
+    CreateInitialPages(functionBar,idx);
+
+    m_sizerFrame->Insert(0, functionBar, wxSizerFlags(5).Expand());
+
+    // m_sizerFrame->Show(m_bookCtrl);
+    m_sizerFrame->Layout();
+}
+
+
 void MyFrame::RecreateBook()
 {
     // m_bookCtrl = NULL;
@@ -1494,7 +2048,7 @@ void MyFrame::OnBookCtrl(wxBookCtrlBaseEvent& event)
         }
         else // skip end of the loop
         {
-            pSound(clickSound);
+            //pSound(clickSound);
             continue;
         }
 

@@ -1,9 +1,32 @@
-crystallizable	
-@crystallizable
-- xem crystallize
-@Chuyên ngành kinh tế
--có khả năng kết tinh
--đã kết tinh
+compliment
+	
+*  danh từ
+- lời khen, lời ca tụng
+=to pay (make) a compliment to somebody
++ khen ngợi ai; ca tụng ai
+- (số nhiều) lời thăm hỏi, lời chúc mừng
+=give him my compliments
++ xin cho tôi gửi lời thăm hỏi ông ta
+=with Mr. X's compliments
++ với lời thăm hỏi của ông X, với lòi chào của ông X (công thức viết trên tài liệu gửi cho, trên quà tặng...)
+- (từ cổ,nghĩa cổ) quà tặng, quà biếu, tiền thưởng
+!to angle (fish) for compliments
+- câu lời khen
+!compliments of the season
+- lời chúc lễ Nô
+-en, lời chúc mừng năm mới...
+!to return the compliments
+- đáp lại lời thăm hỏi; đáp lại lời chúc tụng
+- tặng quà lại
+*  ngoại động từ
+- khen ngợi, ca ngợi, ca tụng
+=to compliment somebody on something
++ khen ngợi ai về cái gì
+- (từ cổ,nghĩa cổ) tặng biếu
+=to compliment somebody with something
++ biếu ai cái gì
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--kết tinh được
+-phức tạp hóa
+@Lĩnh vực: xây dựng
+-khen
+

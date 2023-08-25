@@ -1,6 +1,12 @@
-deception	
-@deception /di'sepʃn/
+tetrahedron
+	
 *  danh từ
-- sự dối trá, sự lừa dối, sự lừa gạt
-- trò lừa dối, mưu mẹo gian dối, mánh khoé lừa bịp=to practise deception
-+ lừa dối, lừa gạt
+- (toán học) khối bốn mặt, tứ diện
+=tetrahedron of reference
++ từ diện quy chiếu
+@Chuyên ngành kỹ thuật
+-khối bốn mặt
+-khối tứ diện
+@Lĩnh vực: điện
+-hình tứ diện
+

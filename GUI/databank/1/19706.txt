@@ -1,11 +1,16 @@
-exhibitor	
-@exhibitor /ig'zibitə/
+mood
+	
 *  danh từ
-- người phô trương, người phô bày, người trưng bày, người triển lãm
-- chủ rạp chiếu bóng
-@Chuyên ngành kinh tế
--người, hãng tham gia triển lãm
-@Chuyên ngành kỹ thuật
--số mũ
-@Chuyên ngành kỹ thuật
--số mũ
+- (ngôn ngữ học) lối, thức
+=imperatives mood
++ lối mệnh lệnh
+=subjunctive mood
++ lối cầu khẩn
+- (âm nhạc) điệu
+*  danh từ
+- tâm trạng; tính khí, tâm tính, tính tình
+=to be in a merry mood
++ ở tâm trạng vui vẻ
+=a man of moods
++ người tính khí bất thường
+

@@ -1,4 +1,21 @@
-audiologist	
-@audiologist
-* danh từ
-- nhà thính học
+phrase
+	
+*  danh từ
+- nhóm từ
+- thành ngữ
+- cách nói
+=as the phrase goes
++ theo cách nói thông thường
+=in simple phrase
++ theo cách nói đơn giản
+- (số nhiều) những lời nói suông
+- (âm nhạc) tiết nhạc
+*  ngoại động từ
+- diễn đạt, nói, phát biểu (bằng lời)
+=thus he phrased it
++ anh ta đã phát biểu như thế đấy
+- (âm nhạc) phân câu
+@Chuyên ngành kỹ thuật
+-mệnh đề
+-sự bố trí
+

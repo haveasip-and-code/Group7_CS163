@@ -1,10 +1,22 @@
-readjust	@readjust /'ri:ə'dʤʌst/
-*  ngoại động từ
-- điều chỉnh lại; sửa lại cho đúng
-- thích nghi lại (với môi trường cũ...)
+installment
+	
+*  danh từ
+- phần trả mỗi lần (của một số tiền); phần cung cấp mỗi lần, phần đăng (báo...) mỗi lần
+=to pay for a bicycle by instalments
++ trả tiền mua một chiếc xe đạp làm nhiều lần
+=a short story in three instalments
++ một truyện ngắn đăng làm ba kỳ
 @Chuyên ngành kinh tế
--điều chỉnh lại
--tái điều chỉnh
+-lần trả
+-phần trả mỗi lần
+-sự trả góp
+-sự trả làm nhiều kỳ
+-tiền trả góp
 @Chuyên ngành kỹ thuật
--điều chỉnh lại
--sửa lại
+-trả tiền ngay
+@Lĩnh vực: hóa học & vật liệu
+-khoản trả mỗi lần
+-phần trả mỗi lần
+@Lĩnh vực: toán & tin
+-sản xuất kịp thời
+

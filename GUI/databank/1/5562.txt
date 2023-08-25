@@ -1,6 +1,43 @@
-binnacle	
-@binnacle /'binəkl/
+flue
+	
 *  danh từ
-- (hàng hải) hộp la bàn
+- lưới đánh cá ba lớp mắt
+*  danh từ
+- nùi bông, nạm bông
+- ống khói
+- (kỹ thuật) ống hơi
+*  danh từ ((cũng) fluke)
+- đầu càng mỏ neo
+- đầu đinh ba (có mấu)
+- thuỳ đuôi cá voi; (số nhiều) đuôi cá voi
+*  danh từ
+- bệnh cúm ((cũng) flu)
+*  nội động từ
+- loe (lỗ, cửa)
+*  ngoại động từ
+- mở rộng (lỗ cửa) (vào trong hay ra ngoài)
 @Chuyên ngành kỹ thuật
--hộp la bàn
+-đường dẫn khói
+-đường khói
+-lỗ khói
+-ống dẫn khói
+-ống dẫn lửa
+-ống dẫn nhiệt
+-ống hơi
+-ống khói
+-ống lửa
+@Lĩnh vực: điện
+-đường dẫn lửa
+@Chuyên ngành kỹ thuật
+-đường dẫn khói
+-đường khói
+-lỗ khói
+-ống dẫn khói
+-ống dẫn lửa
+-ống dẫn nhiệt
+-ống hơi
+-ống khói
+-ống lửa
+@Lĩnh vực: điện
+-đường dẫn lửa
+

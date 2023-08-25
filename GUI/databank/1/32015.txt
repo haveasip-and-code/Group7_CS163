@@ -1,119 +1,29 @@
-level	@level /'levl/
+refinement
+	
 *  danh từ
-- ống bọt nước, ống thuỷ
-- mức, mực; mặt
-=the level of the sea+ mặt biển
-- (nghĩa bóng) trình độ, vị trí, cấp, mức ngang nhau
-=on a level with+ ngang hàng với, bằng
-=to rise to a highter level+ tiến lên một trình độ, cao hơn
-=to establish diplomatic relations at ambassadorial level+ thiết lập quan hệ ngoại giao ở cấp đại sứ
-!on the level
-- (thông tục) thật thà, thẳng thắn, lương thiện, có thể tin được
-=to do something on the level+ làm gì một cách thật thà
-!to find one's own level
-- tìm được địa vị xứng đáng
-*  tính từ
-- phẳng, bằng
-=level ground+ đất bằng, mặt đất bằng phẳng
-- cân bằng đều, ngang bằng; ngang tài ngang sức
-=a very level race+ một cuộc chạy đua ngang tài ngang sức
-!to do one's level best
-- nổ lực, làm hết sức mình
-!to have a level head
-- bình tĩnh, điềm đạm
-*  ngoại động từ
-- san phẳng, san bằng
-=to level the ground+ san bằng mặt đất
-=to level down+ hạ thấp xuống cho bằng
-=to level to (with) the ground; to level in the dust+ san bằng, phá bằng
-- làm cho bằng nhau, làm cho bình đẳng, làm cho như nhau
-- chĩa, nhắm (súng, lời buộc tội, lời đả kích...)
-=to level a gun at (against) somebody+ chĩa súng vào ai
-=to level criticsms at (against) somebody+ chĩa lời phê bình vào ai, nhắm ai mà phê bình
-!to level off
-- (từ Mỹ,nghĩa Mỹ) san bằng
-- (hàng không) bay là là mặt đất (trước khi hạ cánh)
+- sự lọc; sự tinh chế (dầu, đường); sự luyện tinh (kim loại)
+- sự tinh tế, sự tế nhị, sự tao nhã, sự lịch sự, sự sành sỏi
+- cái hay, cái đẹp, cái tinh tuý, cái tao nhã
+=all the refinements of the age
++ tất cả cái tinh tuý (cái hay, cái đẹp) của thời đại
+- thủ đoạn tinh vi, phương pháp tinh vi, lập luận tế nhị, sự phân biệt tinh vi
+=refinements of cruelty
++ những thủ đoạn tàn ác tinh vi
 @Chuyên ngành kinh tế
--bằng
--bằng phẳng
--bình quân
--mức
--mực
--mức độ
--ngang bằng (với)
--san bằng
--trình độ
+-sản phẩm tinh chế
+-sự làm sạch
+-sự lọc
+-sự nâng cao chất lượng
 @Chuyên ngành kỹ thuật
--bậc
--bằng phẳng
--cân máy
--cao trình
--chia bậc
--cốt
--đặt phẳng
--độ cao
--đo thủy chuẩn
--lò ngang
--nằm ngang
--mặt
--máy thủy bình
--máy thủy chuẩn
--mốc cao độ
--mức
--mực
--mức độ
--mức, mực
--ống bọt nước
--ống thăng bằng
--ống thủy
--ống thủy chuẩn
--san bằng
--thăng bằng
--thành tầng
-@Lĩnh vực: cơ khí & công trình
--cái chỉ mức
+-lọc
+-sự làm sạch
+-sự tinh chế
+@Lĩnh vực: hóa học & vật liệu
+-quá trình lọc
+@Lĩnh vực: điện lạnh
+-sự chính xác hóa
 @Lĩnh vực: toán & tin
--cấp
+-sự làm mịn
 @Lĩnh vực: xây dựng
--đo cao trình
--đường phẳng
--trình độ
-@Lĩnh vực: giao thông & vận tải
--thủy bình
-@Chuyên ngành kỹ thuật
--bậc
--bằng phẳng
--cân máy
--cao trình
--chia bậc
--cốt
--đặt phẳng
--độ cao
--đo thủy chuẩn
--lò ngang
--nằm ngang
--mặt
--máy thủy bình
--máy thủy chuẩn
--mốc cao độ
--mức
--mực
--mức độ
--mức, mực
--ống bọt nước
--ống thăng bằng
--ống thủy
--ống thủy chuẩn
--san bằng
--thăng bằng
--thành tầng
-@Lĩnh vực: cơ khí & công trình
--cái chỉ mức
-@Lĩnh vực: toán & tin
--cấp
-@Lĩnh vực: xây dựng
--đo cao trình
--đường phẳng
--trình độ
-@Lĩnh vực: giao thông & vận tải
--thủy bình
+-sự lọc dần
+

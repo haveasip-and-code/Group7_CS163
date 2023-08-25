@@ -1,9 +1,37 @@
-stopover	@stopover
-* danh từ
-- sự dừng lại trong một chuyến đi (nhất là qua đêm)
+nozzle
+	
+*  danh từ
+- miệng, vòi (ấm)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mũi, mồm
 @Chuyên ngành kinh tế
--việc tạm dừng lại
+-miệng
+-vòi
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--phòng chuyển tiếp
--sự dừng giữa chừng
+-đầu phun
+-khe mở
+-kim phun
+-lỗ
+-lỗ phun
+-lỗ tai
+-miệng
+-miệng phun
+-mỏ hàn
+-ống
+-ống gió
+-ống phun
+-ống phụt
+-tuyến
+-vòi
+-vòi phun
+@Lĩnh vực: cơ khí & công trình
+-khoang cống
+-khoang đập tràn
+@Lĩnh vực: xây dựng
+-miệng ống (phụt)
+-miệng ống phụt
+-miệng ống tháo
+-miệng ống xả
+-vòi phụt
+@Lĩnh vực: điện
+-mỏ phun
+

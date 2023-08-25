@@ -1,39 +1,6 @@
-difference	
-@difference /'difrəns/
-*  danh từ
-- sự khác nhau, tình trạng khác nhau; tính khác nhau; sự chênh lệch=a difference in age
-+ sự khác nhau về tuổi tác
-- sự bất đồng; mối bất hoà, mối phân tranh; sự cãi nhau=differences of opinion
-+ những sự bất đồng về ý kiến=to settle a difference
-+ giải quyết một mối bất hoà
-- sự chênh lệch về giá cả (hối phiếu... trong những thời gian khác nhau)
-- dấu phân biệt đặc trưng (các giống...)
-- (toán học) hiệu, sai phân=difference of sets
-+ hiệu của tập hợp=difference equation
-+ phương trình sai phân!to make a difference between
-- phân biệt giữa; phân biệt đối xử!it make a great difference
-- điều đó quan trọng; điều đó làm cho sự thể thay đổi hoàn toàn!to split the different
-- (xem) split!what's the different?
-- (thông tục) cái đó có gì quan trọng?
-*  ngoại động từ
-- phân biệt, phân hơn kém
-- (toán học) tính hiệu số, tính sai phân
-@Chuyên ngành kinh tế
--mức chênh lệch
--phương trình sai phân
--sai biệt giá
--sai phân
--sự khác nhau
--tính khác nhau
-@Chuyên ngành kỹ thuật
--hiệu (số)
--hiệu số
--khác nhau
--sai phân
--sự chênh lệch
--sự khác nhau
--vi sai
-@Lĩnh vực: toán & tin
--hiệu
-@Lĩnh vực: điện
--sự sai khác
+vandyke
+	
+* danh từ riêng
+- Nâu vánđich
+- Van dích
+

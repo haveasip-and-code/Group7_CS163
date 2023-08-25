@@ -1,4 +1,75 @@
-unacademic	@unacademic
-* tính từ
-- không thuộc viện hàn lâm
-- không có tính chất kinh viện
+fillet
+	
+*  danh từ
+- dây bưng, dải lụa (để buộc đầu)
+- (y học) băng (để buộc bó vết thương)
+- (kiến trúc) đường chỉ vòng
+- đường gân, đường gờ (trên bìa sách...)
+- thịt bê cuốn, thịt bò cuốn, cá lạng cuốn
+- khúc cá to
+- (số nhiều) lườn (ngựa, bò...)
+*  ngoại động từ
+- buộc bằng dây băng
+- trang trí bằng đường chỉ vòng
+- róc xương và lạng (thịt, cá...)
+@Chuyên ngành kinh tế
+-lạng thịt
+-lát thịt
+-róc xương
+-thịt bò cuốn
+-thịt thăn
+@Chuyên ngành kỹ thuật
+-băng
+-dải
+-đắp
+-đường chỉ vòng
+-đường gân
+-đường gờ
+-đường hàn góc
+-đường viền
+-đường xoi
+-giải
+-góc lượn
+-nan
+-nẹp viền
+-mối hàn
+-rãnh tròn
+-thanh nẹp
+-tia nước
+-ván lát
+-ván ốp
+@Lĩnh vực: xây dựng
+-chân góc
+-nẹp bờ
+-mối ốp
+-tấm gỗ trang trí
+@Lĩnh vực: cơ khí & công trình
+-mặt lượn
+@Chuyên ngành kỹ thuật
+-băng
+-dải
+-đắp
+-đường chỉ vòng
+-đường gân
+-đường gờ
+-đường hàn góc
+-đường viền
+-đường xoi
+-giải
+-góc lượn
+-nan
+-nẹp viền
+-mối hàn
+-rãnh tròn
+-thanh nẹp
+-tia nước
+-ván lát
+-ván ốp
+@Lĩnh vực: xây dựng
+-chân góc
+-nẹp bờ
+-mối ốp
+-tấm gỗ trang trí
+@Lĩnh vực: cơ khí & công trình
+-mặt lượn
+

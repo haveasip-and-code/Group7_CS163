@@ -1,4 +1,34 @@
-carsick	
-@carsick
-* tính từ
-- buồn nôn khi ngồi trong xe đang chạy
+relaxation
+	
+*  danh từ
+- sự nới lỏng, sự lơi ra, sự giân ra (kỷ luật, gân cốt...)
+- sự dịu đi, sự bớt căng thẳng
+=relaxation of world tension
++ sự bớt căng thẳng của tình hình thế giới
+- (pháp lý) sự giảm nhẹ (hình phạt...)
+=to beg for a relaxation of punishment
++ xin giảm nhẹ hình phạt
+- sự nghỉ ngơi, sự giải trí
+=relaxation is necessary after hard work
++ sau khi lao động vất vả cần được nghỉ ngơi
+- (vật lý) sự hồi phục
+=thermal relaxation
++ sự hồi phục nhiệt
+@Chuyên ngành kỹ thuật
+-sự chùng
+-sự hồi phục
+-sự nới
+-sự nới lỏng
+@Lĩnh vực: xây dựng
+-sự chùng (cốt thép, ứng suất)
+-sự giãn ra
+-sự tự chùng
+@Lĩnh vực: toán & tin
+-sự dão (cơ)
+-sự giảm dư
+-sự lũy biến
+@Lĩnh vực: cơ khí & công trình
+-sự giảm (tải tác dụng vào đất đá)
+@Lĩnh vực: điện lạnh
+-sự tích thoát
+

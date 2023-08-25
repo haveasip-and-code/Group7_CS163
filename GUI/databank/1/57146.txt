@@ -1,21 +1,5 @@
-toughness	@toughness /'tʌfnis/
+pixie
+	
 *  danh từ
-- tính dai, tính bền
-- tính bền bỉ, tính dẻo dai
-- tính cố chấp, tính ngoan cố
-- tính chất khó, tính chất hắc búa, tính chất gay go (công việc)
-@Chuyên ngành kinh tế
--độ cứng
--độ nhớt
--tính dai
-@Chuyên ngành kỹ thuật
--độ bám chắc
--độ bền
--độ dai
--độ nhớt
--độ quánh
--tính bền
--tính cứng
-@Lĩnh vực: xây dựng
--độ chắc
--tính bền dai
+- tiên
+

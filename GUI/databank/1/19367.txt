@@ -1,8 +1,20 @@
-evanesce	
-@evanesce /,i:və'nes/
-*  nội động từ
-- mờ đi, biến đi
+optimum
+	
+*  danh từ
+- điều kiện tốt nhất, điều kiện thuận lợi nhất (cho sự sinh trưởng của cây...)
+=optimum temperature
++ nhiệt độ tốt nhất
+@Chuyên ngành kinh tế
+-thích hợp nhất
+-thích nghi nhất
+-tối ưu
+-tốt nhất
+-vừa nhất
 @Chuyên ngành kỹ thuật
--biến mất
-@Chuyên ngành kỹ thuật
--biến mất
+-giá trị tối ưu
+@Lĩnh vực: điện
+-điều kiện tối ưu
+-trị số tối ưu
+@Lĩnh vực: điện lạnh
+-trường hợp tối ưu
+

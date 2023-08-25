@@ -1,36 +1,43 @@
-smash	@smash /smæʃ/
-*  danh từ
-- sự vỡ ra từng mảnh; sự đập vỡ ra từng mảnh; tiếng vỡ xoảng
-- sự va mạnh, sự đâm mạnh vào
-=there's a smash on the road+ có tai nạn xe đâm nhau ở đường cái
-- (thể dục,thể thao) cú đập mạnh (quần vợt)
-- cú đấm mạnh, cú đấm thôi sơn
-- sự phá sản, sự thua lỗ liên tiếp
-- rượu mạnh ướp đá
-- (thực vật học) sự thành công lớn
+dirty
+	
+*  tính từ
+- bẩn thỉu, dơ bẩn, dơ dáy; cáu ghét, cáu bẩn, đầy bùn bẩn
+=dirty hands
++ bàn tay dơ bẩn
+=a dirty war
++ cuộc chiến tranh bẩn thỉu
+- có mưa gió sụt sùi, nhớp nháp bẩn thỉu; xấu (thời tiết)
+=dirty weather
++ trời xấu
+- không sáng (màu sắc)
+- tục tĩu, thô bỉ
+=dirty language
++ ngôn ngữ thô bỉ
+=a dirty story
++ câu chuyện tục tĩu
+- đê tiện, hèn hạ, đáng khinh, nhơ nhốc, xấu xa
+=a dirty look
++ cái nhìn khinh miệt
+- phi nghĩa
+=dirty money
++ của phi nghĩa
+!to do the dirty on somebody
+- (từ lóng) chơi đểu với ai, dở trò đê tiện với ai
+!dirty work
+- việc làm xấu xa bất chính
+- công việc nặng nhọc khổ ải
+!to do somebody's dirty work for him
+- làm giúp ai một công việc nặng nhọc khổ ải
 *  ngoại động từ
-- đập tan ra từng mảnh
-- (thể dục,thể thao) đập mạnh (bóng)
-- phá, phá tan; đập tan (kế hoạch), làm tan rã (quân địch)
-=to smash a record+ phá một kỷ lục
-- làm phá sản
+- làm bẩn, làm dơ, làm vấy bùn
 *  nội động từ
-- vỡ tan ra từng mảnh
-- va mạnh vào, đâm mạnh vào
-=car smashes into a tree+ xe ôtô đâm mạnh vào cây
-- thất bại, phá sản (kế hoạch)
-- (từ lóng) lưu hành bạc đồng giả
-!to smash in
-- phá mà vào, đột nhập vào
-=to smash in a door+ phá cửa mà vào
-!to smash up
-- đập tan ra từng mảnh; vỡ tan ra từng mảnh
-*  phó từ
-- sầm một cái
-=the car ran smash into the tram+ chiếc ô tô đâm đánh sầm một cái vào xe điện
+- thành dơ bẩn, thành bẩn thỉu
 @Chuyên ngành kinh tế
--cuộc sụp đổ tài chánh (ở Sở giao dịch)
--sự phá sản (thương mại)
--sụp đổ tài chính
+-dơ
+-không sạch
 @Chuyên ngành kỹ thuật
--đập
+-bẩn
+-nhiễm bẩn
+@Lĩnh vực: xây dựng
+-dơ
+

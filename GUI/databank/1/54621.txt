@@ -1,7 +1,23 @@
-supergene	@supergene
-* danh từ
-- (sinh học) gen trội
+saline
+	
+*  tính từ
+- có muối; có tính chất như muối; mặn (nước, suối...)
+*  danh từ
+- (như) salina
+- (y học) dung dịch muối, dung dịch muối đẳng trương
+@Chuyên ngành kinh tế
+-có muối
+-dịch muối
+-muối thiên nhiên kết tủa
+-như muối
+-xí nghiệp muối
 @Chuyên ngành kỹ thuật
--biểu sinh
-@Lĩnh vực: xây dựng
--thứ sinh
+-mặn
+-muối
+@Lĩnh vực: hóa học & vật liệu
+-có muối
+-muối mặn
+-muối, mặn
+@Lĩnh vực: y học
+-nước muối (nước muối đẳng trương)
+

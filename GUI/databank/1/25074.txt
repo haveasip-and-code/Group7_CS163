@@ -1,21 +1,31 @@
-hash	
-@hash /hæʃ/
-*  danh từ
-- món thịt băm
-- (nghĩa bóng) bình mới rượu cũ (đồ cũ sửa lại với hình thức mới)
-- mớ lộn xộn, mớ linh tinh!to make a bash of a job
-- làm hỏng việc, làm cho việc trở bên be bét rối tinh!to settle somebody's hash
-- (xem) settle
+staves
+	
+*  danh từ,  số nhiều staves,  staffs
+- gậy, ba toong
+- gậy quyền (gậy biểu thị chức vị quyền lực)
+- cán, cột
+- chỗ dựa, chỗ nương tựa
+=to be the staff of someone
++ là chỗ nương tựa của ai
+- (kỹ thuật) cọc tiêu, mia thăng bằng
+- (y học) dụng cụ mổ bóng đái
+- hiệu lệnh đường thông (cho người lái xe lửa)
+- (số nhiều staffs) (quân sự) bộ tham mưu
+=regimental staff
++ bộ tham mưu trung đoàn
+=staff officer
++ sĩ quan tham mưu
+- (số nhiều staffs) ban, bộ
+=editorial staff of a newspaper
++ ban biên tập một tờ báo
+- (số nhiều staffs) toàn thể cán bộ nhân viên giúp việc, biên chế; bộ phận
+=teaching staff
++ bộ phận giảng dạy
+- (số nhiều staves) (âm nhạc) khuông nhạc ((cũng) stave)
+!staff of life
+- bánh mì (coi như thức ăn cơ bản nuôi sống con người)
 *  ngoại động từ
-- băm (thịt...)
-- (nghĩa bóng) làm hỏng, làm rối tinh lên
-@Chuyên ngành kinh tế
--băm nhỏ
--món thịt băm
--thái nhỏ
-@Chuyên ngành kỹ thuật
--rác liệu
-@Lĩnh vực: toán & tin
--dữ liệu hỏng
-@Lĩnh vực: điện
--nhiễu Hash
+- bố trí cán bộ nhân viên cho (một cơ quan); cung cấp cán bộ nhân viên cho (một cơ quan)
+=to staff an office with capable cadres
++ bố trí cán bộ có khả năng cho một cơ quan
+

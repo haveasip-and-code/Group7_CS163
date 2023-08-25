@@ -1,22 +1,8 @@
-outlook	@outlook /'autluk/
-*  danh từ
-- quang cảnh, viễn cảnh
-- cách nhìn, quan điểm
-=outlook on file+ cách nhìn cuộc sống, nhân sinh quan
-=world outlook+ cách nhìn thế giới, thế giới quan
-- triển vọng, kết quả có thể đưa đến
-- sự đề phòng, sự cảnh giác
-- chòi canh
-@Chuyên ngành kinh tế
--cách nhìn
--triển vọng
--viễn ảnh
--viễn cảnh
-@Chuyên ngành kỹ thuật
--phối cảnh
--viễn cảnh
-@Lĩnh vực: xây dựng
--côngxon đỡ mái đua
--trạm quan sát
-@Lĩnh vực: hóa học & vật liệu
--người quan sát
+extemporary
+	
+*  tính từ
+- ứng khẩu, tuỳ ứng
+- (y học) ngay tức thì
+=an extemporaneous medicine
++ thuốc chế ngay lúc dùng
+

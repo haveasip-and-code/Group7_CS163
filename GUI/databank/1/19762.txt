@@ -1,8 +1,35 @@
-exoneration	
-@exoneration /ig,zɔnə'reiʃn/
+session
+	
 *  danh từ
-- sự miễn (nhiệm vụ gì...)
-- sự giải tội
+- buổi họp, phiên họp, kỳ họp; hội nghị
+=in session
++ đang họp (quốc hội)
+- thời kỳ hội nghị
+- (từ Mỹ,nghĩa Mỹ); (Ê
+-cốt) học kỳ
+- phiên toà
+=Court of Session
++ toà án tối cao (Ê
+-cốt)
+- (từ hiếm,nghĩa hiếm) thế ngồi
 @Chuyên ngành kinh tế
--sự miễn (trách nhiệm)
--sự miễn (trách nhiệm...)
+-buổi giao dịch (ở Sở giao dịch chứng khoán)
+-khóa họp
+-kỳ họp
+-phiên giao dịch
+-phiên họp
+@Chuyên ngành kỹ thuật
+-phiên
+@Lĩnh vực: toán & tin
+-cuộc giao tiếp
+-cuộc liên lạc
+-kỳ tác vụ
+-phiên (làm việc)
+-phiên làm việc
+-thời gian giao dịch (giữa người dùng và hệ thống)
+@Lĩnh vực: xây dựng
+-hội đàm
+@Lĩnh vực: điện
+-phiên (nối mạng)
+-phiên họp
+

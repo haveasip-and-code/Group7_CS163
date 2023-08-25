@@ -1,10 +1,8 @@
-parallax	@parallax /'pærəlæks/
+discriminant
+	
 *  danh từ
-- thị sai
-=annual parallax+ thị sai hằng năm
-=horizontal parallax+ thị sai chân trời
-=optical parallax+ thị sai
-=spectroscopic parallax+ thị sai quang phổ
+- (toán học) biệt số; biệt chức
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thị sai
+-biệt số
+-biệt thức
+

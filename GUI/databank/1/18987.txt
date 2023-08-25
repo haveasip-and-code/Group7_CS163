@@ -1,26 +1,5 @@
-erode	
-@erode /i'roud/
-*  ngoại động từ
-- xói mòn, ăn mòn
-@Chuyên ngành kinh tế
--làm xói mòn
-@Chuyên ngành kỹ thuật
--ăn mòn
--bào mòn
--gặm mòn
--làm mòn
--làm xói mòn
--ngâm chiết
--phong hóa
--xâm thực
--xói mòn
-@Chuyên ngành kỹ thuật
--ăn mòn
--bào mòn
--gặm mòn
--làm mòn
--làm xói mòn
--ngâm chiết
--phong hóa
--xâm thực
--xói mòn
+colliding
+	
+-va chạm
+-xung đột
+

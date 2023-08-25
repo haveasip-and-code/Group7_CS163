@@ -1,33 +1,5 @@
-proprietary	@proprietary /proprietary/
-*  tính từ
-- thuộc chủ, người có quyền sở hữu
-=proprietary rights+ quyền của người chủ, quyền sở hữu
-- có tài sản, có của
-=the proprietary classes+ giai cấp có của
-- (thuộc) quyền sở hữu, giữ làm tài sản riêng; giữ độc quyền (bán, sản xuất...)
-=proprietary medicines+ thuốc đã đăng ký độc quyền sản xuất (bán); biệt dược
-*  danh từ
-- quyền sở hữu
-- giới chủ, tầng lớp chủ
-=the landed proprietary+ tầng lớp địa chủ
-@Chuyên ngành kinh tế
--chuyên hữu
--có cầu chứng nhãn hiệu sản xuất
--có đăng ký độc quyền sản xuất
--có tài sản
--độc quyền bán
--độc quyền khai thác
--giới chủ
--giữ độc quyền
--hữu sản
--người chủ
--người có quyền sở hữu
--quyền sở hữu
--thuộc giới chủ
--thuộc nghiệp chủ
--thuộc người có quyền sở hữu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--cá nhân
--quyền sở hữu riêng
--riêng
+dipso
+	
+* danh từ
+- (thông tục) xem dipsomania
+

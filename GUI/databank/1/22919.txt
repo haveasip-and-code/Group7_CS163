@@ -1,46 +1,5 @@
-gap	
-@gap /gæp/
-*  danh từ
-- lỗ hổng, kẽ hở=a gap in the hedge
-+ lỗ hổng ở hàng rào
-- chỗ trống, chỗ gián đoạn, chỗ thiếu sót=a gap in a conversation
-+ chỗ gián đoạn trong câu chuyện=a gap in one's knowledge
-+ chỗ thiếu sót trong kiến thức, lỗ hổng trong kiến thức
-- đèo (núi)
-- (quân sự) chỗ bị chọc thủng (trên trận tuyến)
-- (kỹ thuật) khe hở, độ hở
-- (hàng không) khoảng cách giữa hai tầng cánh (máy bay)
-- sự khác nhau lớn (giữa ý kiến...)!to fill (stop, supply) a gap
-- lấp chỗ trống, lấp chỗ thiếu sót
-@Chuyên ngành kinh tế
--khoảng giãn cách
--khoảng trống
--mức chênh lệch
-@Chuyên ngành kỹ thuật
--độ chênh lệch
--độ hở
--độ lỏng lẻo
--đường rãnh
--kẽ
--kẽ hở
--khe
--khe đầu từ
--khe giáp mối
--khe hẹp
--khe phóng điện
--khe ren
--khoảng cách
--khoảng cách hở
--khoảng hở (rơle)
--khoảng thời gian
--khoảng trống
--rãnh ren
--sự cách biệt
--thung lũng hẹp
--vấu cặp
-@Lĩnh vực: giao thông & vận tải
--đèo (qua núi)
--khe vùng
-@Lĩnh vực: điện lạnh
--khe bảo vệ
--khoảng (trống)
+hydrops
+	
+@Lĩnh vực: y học
+-phù tích dịch
+

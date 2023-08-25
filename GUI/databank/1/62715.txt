@@ -1,10 +1,8 @@
-westerly	@westerly /'west li/
+isosceles
+	
 *  tính từ
-- tây
-=westerly direction+ hướng tây
-=westerly wind+ gió tây
-*  phó từ
-- về hướng tây; từ hướng tây
+- (toán học) cân (tam giác)
 @Chuyên ngành kỹ thuật
--hướng tây
--phía tây
+@Lĩnh vực: toán & tin
+-cân (tam giác, thang)
+

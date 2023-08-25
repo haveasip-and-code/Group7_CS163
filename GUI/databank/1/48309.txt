@@ -1,8 +1,19 @@
-sabin	@sabin
-* danh từ
-- xabin (đơn vị hấp thu âm)
+manager
+	
+*  danh từ
+- người quản lý, quản đốc, giám đốc; người trông nom; người nội trợ
+@Chuyên ngành kinh tế
+-giám đốc
+-người quản lý
+-viên quản lý
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--sagin (đơn vị hấp thụ âm thanh)
-@Lĩnh vực: xây dựng
--xabin (đơn vị hút âm)
+-bộ quản lý
+-giám đốc
+-người điều hành
+-người quản lý
+-nhà cung cấp
+-quản đốc
+-quản lý
+@Lĩnh vực: toán & tin
+-quản lý viên
+

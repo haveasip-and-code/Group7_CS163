@@ -1,8 +1,8 @@
-modem	@modem
-- bộ điều giải, modem
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện
--bộ biến hoàn
--bộ điều biến
-@Lĩnh vực: toán & tin
--môđem
+idyl
+	
+*  danh từ
+- (văn học) thơ điền viên
+- (âm nhạc) khúc đồng quê
+- cảnh đồng quê, cảnh điền viên
+- câu chuyện tình thơ mộng đồng quê
+

@@ -1,17 +1,5 @@
-harvest	
-@harvest /'hɑ:vist/
-*  danh từ
-- việc gặt (lúa...), việc thu hoạch (hoa quả...); mùa gặt, vụ thu hoạch
-- thu hoạch, vụ gặt
-- (nghĩa bóng) kết quả, thu hoạch (của một việc gì)
-*  ngoại động từ
-- gặt hái, thu hoạch ((nghĩa đen) & (nghĩa bóng))
-- thu vén, dành dụm
-@Chuyên ngành kinh tế
--mùa thu hoạch
--sự thu hoạch
--thu hoạch
--vụ gặt
-@Chuyên ngành kỹ thuật
--sự gặt hái
--sự thu hoạch
+obstructor
+	
+* danh từ
+- xem obstructer
+

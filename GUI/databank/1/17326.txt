@@ -1,4 +1,12 @@
-econometrics	
-@econometrics
-* danh từ
-- toán kinh tế
+quarto
+	
+*  danh từ
+- khổ bốn (của một tờ giấy xếp làm bốn)
+- sách khổ bốn
+@Chuyên ngành kinh tế
+-khổ bốn (giấy)
+-sách khổ bốn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-khổ bốn
+

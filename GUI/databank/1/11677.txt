@@ -1,10 +1,4 @@
-convection	
-@convection /kən'vekʃn/
-*  danh từ
-- (vật lý) sự đối lưu=thermal convection
-+ sự đối lưu nhiệt
-@Chuyên ngành kinh tế
--sự đối lưu
-@Chuyên ngành kỹ thuật
--đối lưu
--sự đối lưu
+mesoscale
+	
+-cỡ trung bình
+

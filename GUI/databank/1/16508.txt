@@ -1,6 +1,5 @@
-dopant	
-@dopant
-- (Tech) chất kích thích tạp (như phospho, arsenic)
-@Chuyên ngành kỹ thuật
--chất kích thích
--tạp chất
+creaky
+	
+*  tính từ
+- cọt kẹt, cót két, kẽo kẹt
+

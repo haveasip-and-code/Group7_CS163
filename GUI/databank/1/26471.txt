@@ -1,17 +1,57 @@
-hurl	
-@hurl /hə:l/
+pound
+	
 *  danh từ
-- sự ném mạnh, cái ném mạnh, cái phóng mạnh
-- sự lật nhào, sự lật đổ
-- (Ê
--cốt) sự chuyên chở bằng xe; cuộc đi bằng xe
+- Pao (khoảng 450 gam)
+- đồng bảng Anh
+=to pay four shillings by the pound
++ cứ mỗi bảng Anh trả bốn silinh; trả 20 rịu 4 ĩu đĩu
+- (xem) penny_wise
+!pound of flesh
+- (nghĩa bóng) một đòi hỏi hợp pháp nhưng quá đáng
+*  nội động từ
+- kiểm tra trọng lượng tiền đồng theo trọng lượng đồng bảng Anh
+*  danh từ
+- bãi rào nhốt súc vật lạc
+- nơi giữ súc vật tịch biên; nơi giữ hàng hoá tịch biên
+- bãi rào nuôi súc vật
+- (nghĩa bóng) nơi giam cầm, trại giam
+- (săn bắn) thế cùng, đường cùng
+=to bring a wild boar into a pound
++ dồn con lợn lòi vào thế cùng
 *  ngoại động từ
-- ném mạnh, phóng lao=to hurl a spear at a wild animal
-+ phóng lao vào một con dã thú=to hurl oneself at (upon) someone
-+ lao vào ai, sấn vào ai
-- (nghĩa bóng) lật nhào, lật đổ=to hurl a king from his throne
-+ lật đổ một ông vua
-- (Ê
--cốt) chuyên chở bằng xe
+- nhốt (súc vật...) vào bãi rào
+- nhốt vào trại giam
+!to pound the field
+- (săn bắn) là một chướng ngại không thể vượt qua được (hàng rào chắn)
+- vượt qua được những hàng rào chắn mà người khác không thể vượt được (người cưỡi ngựa đi săn)
+*  ngoại động từ
+- giã, nghiền
+- nện, thụi, thoi (bằng quả đấm); đánh đập
+=to pound something to pieces
++ đập cái gì vỡ tan từng mảnh
+=to pound someone into a jelly
++ đánh cho ai nhừ tử
+*  nội động từ
+- (
++ at,  on,  away at) giâ, nện, thoi, đập thình lình; (quân sự) nện vào, giã vào, nã oàng oàng vào
+=to pound at the door
++ đập cửa thình thình
+=guns pound away at the enemy's position
++ đại bác nã oàng oàng vào vị trí địch
+- (
++ along,  on...) chạy uỳnh uỵch, đi uỳnh uỵch
+@Chuyên ngành kinh tế
+-cân Anh
+-đồng bảng
+-đồng bảng (đơn vị tiền tệ chính của một số nước)
+-pao
 @Chuyên ngành kỹ thuật
--phóng
+-đập
+-đồng bảng Anh (đơn vị tiền tệ)
+-giã
+@Lĩnh vực: điện
+-cân Anh
+-pao
+@Lĩnh vực: đo lường & điều khiển
+-cân Anh (= 453 gr 60)
+

@@ -1,14 +1,41 @@
-baffler	
-@baffler /'bæflə/
+gangway
+	
 *  danh từ
-- (kỹ thuật) bộ giảm âm
+- lối đi giữa các hàng ghế
+- lối đi chéo dẫn đến các hàng ghế sau (nghị viện Anh)
+- (hàng hải) cầu tàu
+- (hàng hải) đường từ mũi tàu đến lái (trên sân tàu)
+!above gangway
+- dính líu chặt chẽ với chính sách của đảng mình
+!below gangway
+- ít dính líu với chính sách của đảng mình
+*  thán từ
+- tránh ra cho tôi nhờ một tí
+@Chuyên ngành kinh tế
+-cầu tàu
+-cầu thang bên sườn tàu
+-cửa thành tàu
+-đường cái
+-lối ra vào
 @Chuyên ngành kỹ thuật
--bộ giảm âm
--màng ngăn
--tấm chắn
--tường chắn
--vách chắn
--vách ngăn
-@Lĩnh vực: cơ khí & công trình
--bộ điều chỉnh dầu
--van lưu
+-cầu công tác
+-chỗ nối toa
+-giàn giáo
+-hành lang
+-lò dọc
+-lò dọc vỉa
+-lò nối vỉa
+-lối đi
+-lối đi dọc
+-sàn công tác
+-sàn thao tác
+-sàn thi công
+-ván cầu
+@Lĩnh vực: xây dựng
+-cầu thao tác
+-máng chuyển gỗ
+@Lĩnh vực: giao thông & vận tải
+-cầu trên tàu
+@Lĩnh vực: hóa học & vật liệu
+-nối vỉa
+

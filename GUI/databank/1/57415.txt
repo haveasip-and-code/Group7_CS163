@@ -1,43 +1,5 @@
-transit	@transit /trænsit/
-*  danh từ
-- sự đi qua, sự vượt qua
-- (thương nghiệp) sự quá cảnh
-=goods in transit+ hàng hoá quá cảnh
-- đường
-=the overland transit+ đường bộ
-=in transit+ dọc đường
-=lost in transit+ thất lạc dọc đường
-- sự qua đường kinh (kinh tuyến) (của một thiên thể); sự ngang qua mặt trời (của một hành tinh)
-=the transit of Venus+ sự ngang qua mặt trời của sao Kim
-*  ngoại động từ
-- (thiên văn học) đi qua, qua
-=Venus transits the sun's disc+ sao Kim đi qua mặt trời
-@Chuyên ngành kinh tế
--chuyển khẩu
--đi
--đi qua
--độ đường
--quá cảnh
--quãng đường đi
--sự quá cảnh
--thông quá
--vận tải
--vượt qua
-@Chuyên ngành kỹ thuật
--chuyển tiếp
--đường chuyển tiếp
--kinh vĩ
--máy đo cao trình
--máy kinh vĩ
--sự đi qua
--sự vượt qua
-@Lĩnh vực: điện lạnh
--kính kinh tuyến
-@Lĩnh vực: xây dựng
--máy ngắm kinh tuyến (đạo hàng thiên văn)
--máy toàn đạc
--thước thủy chuẩn
-@Lĩnh vực: giao thông & vận tải
--sự quá cảnh
-@Lĩnh vực: toán & tin
--sự qua kinh tuyến
+ostentatious
+	
+*  tính từ
+- phô trương, khoe khoang, vây vo, làm cho người ta phải để ý
+

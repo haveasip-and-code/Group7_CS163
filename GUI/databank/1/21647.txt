@@ -1,8 +1,29 @@
-fluvial	
-@fluvial /fluvial/
-*  tính từ
-- (thuộc) sông
-- thấy ở sông
+stabilizer
+	
+*  danh từ
+- máy ổn định, bộ ổn định; chất ổn định; chất ổn định
+- bộ phận thăng bằng (ở sườn tàu thuỷ, ở đuôi máy bay)
+@Chuyên ngành kinh tế
+-chất làm ổn định
+-máy điều hòa
 @Chuyên ngành kỹ thuật
--ở sông
--sông
+-bộ ổn áp
+-bộ ổn định
+-chất gia cố
+-mặt thăng bằng ngang
+-ống làm ổn định
+@Lĩnh vực: điện lạnh
+-bộ ổn định tàu thủy (giảm chao đảo)
+@Lĩnh vực: xây dựng
+-chân chống (ở máy trục di động để tạo sự ổn định)
+@Lĩnh vực: hóa học & vật liệu
+-chất (làm) ổn định
+-chất làm ổn định
+-chất nhũ tương hóa
+-chất ổn định
+@Lĩnh vực: cơ khí & công trình
+-chất chống đông tụ
+-máy ổn định
+@Lĩnh vực: điện
+-máy ổn áp
+

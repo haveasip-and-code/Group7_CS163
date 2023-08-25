@@ -1,8 +1,14 @@
-resize	@resize
-* ngoại động từ
-- đưa trở lại kích thước yêu cầu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--định loại kích cỡ
-@Lĩnh vực: toán & tin
--thay đổi kích thước
+recoup
+	
+*  ngoại động từ
+- bồi thường
+=to recoup someone (for) his losses
++ bồi thường thiệt hại cho ai
+- (pháp lý) trừ bớt (số tiền phải trả)
+=to recoup oneself
++ được trả lại khoản đã tiêu, được đền bù lại những cái đã mất
+@Chuyên ngành kinh tế
+-bồi thường
+-trừ bớt
+-trừ bớt (một phần số tiền phải trả)
+

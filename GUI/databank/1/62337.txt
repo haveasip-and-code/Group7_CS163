@@ -1,59 +1,9 @@
-wall	@wall /wɔ:l/
-*  danh từ
-- tường, vách
-=blank wall+ tường liền không cửa; tường không trang trí
-=a wall of partition+ vách ngăn
-- thàn, thành luỹ, thành quách
-=the Great Wall of China+ vạn lý trường thành
-=within the wall+ ở trong thành
-=without the wall+ ở ngoại thành
-=a wall of bayonets+ (nghĩa bóng) một bức thành lưỡi lê
-- lối đi sát tường nhà trên hè đường
-=to give somebody the wall+ nhường lối đi sát bờ tường trên hè đường cho ai; nhường lối đi tốt cho ai; nhường bước cho ai
-=to take the wall of+ tranh lấy lối đi tốt của
-- rặng cây ăn quả dựa vào tường; bức tường có cây ăn quả dựa vào
-- (địa lý,địa chất) vách ngoài vỉa
-- (giải phẫu) thành
-=wall of the heart+ thành tim
-!to go to the wall
-- bị gạt bỏ
-- bị phá sản, khánh kiệt; thất bại
-!to push (drive) somebody to the wall
-- dồn ai vào chân tường, dồn ai vào thế bí
-!to run one's head against a wall
-- húc đầu vào tường ((nghĩa đen) & (nghĩa bóng))
-!to see through brick wall
-- (xem) see
-!walls have ears
-- (xem) ear
-!the weakest goes to the wall
-- khôn sống vống chết
-!with one's back against (to) the wall
-- (xem) back
-*  ngoại động từ
-- xây tường bao quanh, xây thành bao quanh
-!to wall in
-- xây tường xung quanh
-!to wall off
-- ngăn bằng một bức tường
-!to wall up
-- xây bịt lại
-=to wall up an aperture+ xây bịt một lỗ hổng
+dynamo
+	
+*  danh từ,  số nhiều dynamos
+- đinamô, máy phát điện
 @Chuyên ngành kỹ thuật
--bờ
--liếp ngăn
--lũy
--màn chắn
--tấm chắn
--tường cánh
--tường chắn
--vách
--vách chắn
--vỏ cách
--xây tường
+-đinamô
 @Lĩnh vực: xây dựng
--thành (bể)
-@Lĩnh vực: cơ khí & công trình
--thành hay má (vỏ xe)
-@Lĩnh vực: y học
--vách, thành, tường
+-bình phát điện
+

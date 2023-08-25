@@ -1,26 +1,11 @@
-lavatory	@lavatory /'lævətəri/
-*  danh từ
-- phòng rửa mặt
-- nhà xí máy, nhà tiêu máy
-@Chuyên ngành kinh tế
--phòng rửa
-@Chuyên ngành kỹ thuật
--bồn rửa
--buồng vệ sinh
--buồng xí
--chậu rửa
--nhà vệ sinh
--phòng rửa mặt
--phòng tẩy trang
+refilling
+	
+@Lĩnh vực: cơ khí & công trình
+-sự đắp lại
+-sự dùng lại để đắp (đất đá đã đào lên)
+-sự lấp lại
 @Lĩnh vực: xây dựng
--nhà xí
-@Chuyên ngành kỹ thuật
--bồn rửa
--buồng vệ sinh
--buồng xí
--chậu rửa
--nhà vệ sinh
--phòng rửa mặt
--phòng tẩy trang
-@Lĩnh vực: xây dựng
--nhà xí
+-sự đắp thêm
+@Lĩnh vực: giao thông & vận tải
+-sự tái nạp đầy (phanh khí nén)
+

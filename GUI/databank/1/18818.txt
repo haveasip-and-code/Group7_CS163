@@ -1,7 +1,5 @@
-epitaxial	
-@Chuyên ngành kỹ thuật
--epitaxy
--lớp epitaxi
-@Chuyên ngành kỹ thuật
--epitaxy
--lớp epitaxi
+underclass
+	
+* danh từ (thường) số nhiều
+- (từ Mỹ, nghĩa Mỹ) sinh năm thứ nhất hoặc năm thứ hai
+

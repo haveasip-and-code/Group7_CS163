@@ -1,16 +1,93 @@
-radix	@radix /'reidiks/
-*  danh từ,  số nhiều radices  /'reidisi:z/
-- cơ số
-=ten is the radix of decimal numeration and of common logarithms+ mười là cơ số của cách đếm thập phân và của loga thường
-- nguồn gốc, căn nguyên (của một tệ hại)
+dip
+	
+*  danh từ
+- sự nhúng, sự ngâm vào, sự dìm xuống (nước...)
+- sự đầm mình, sự tắm (ở biển)
+=to take (have) a dip in the sea
++ đi tắm biển
+- lượng đong (gạo... vào đấu), lượng mức (nước... vào gàu)
+- mức chìm, ngấn nước (tàu, thuyền...)
+- nước tắm (cho cừu); nước ngâm (ngâm kim loại để tẩy sạch mà mạ vàng...)
+- cây nến (mỡ bò, mỡ cừu...)
+- chỗ trũng, chỗ lún xuống
+- độ nghiêng (kim la bàn); độ dốc, chiều dốc (của vỉa mô); đường võng chân trời
+=magnetic dip
++ độ từ khuynh
+- (thể dục,thể thao) thế nhún ngang xà (đánh xà kép)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ móc túi
+*  ngoại động từ
+- nhúng, ngâm, nhận chìm, dìm xuống
+=to dip one's finger in water
++ nhúng ngón tay vào nước
+=to dip one's pen in ink
++ nhúng ngòi bút vào mực, châm ngòi bút vào mực
+- ngâm để đánh sạch (kim loại), nhúng vào để nhuộm (quần áo...); nhúng bấc vào mở nóng để làm (nến); tắm cho (cừu...) bằng nước diệt trùng...
+- (
++ up) (múc nước vào gàu); đong (gạo... vào đấu)
+- hạ xuống một thoáng, hạ xuống xong bị kéo ngay lên
+=to dip the scale of a balance
++ làm cho cán cân thoáng nghiêng đi một chút (xong lại thăng bằng ngay)
+=to dip the flag
++ hạ cờ xuống lại kéo lên ngay
+*  nội động từ
+- nhúng, ngâm, nhận, dìm (trong nước...)
+- hạ, ngụp, hụp, lặn, chìm xuống (mặt trời...); nghiêng đi (cán cân...), nhào xuống (chim, máy bay...)
+=sun dips below harizon
++ mặt trời chìm xuống dưới chân trời
+=scale dips
++ cán cân nghiêng đi
+=bird dips and rises in the flight
++ trong khi bay chim cứ nhào xuống lại bay lên
+- (thông tục) mắc nợ
+- nghiêng đi, dốc xuống
+=magnetic needle dips
++ kim nam châm nghiêng đi
+=strata dip
++ vỉa mỏ dốc xuống
+- (
++ into) cho tay vào, cho thìa vào (để lấy, múc cái gì ra)
+- (
++ into) xem lướt qua
+=to dip into a book
++ xem lướt qua một cuốn sách
+- (
++ into) điều tra, tìm tòi, tìm hiểu
+=to dip deep into the future
++ tìm hiểu sâu về tương lai, nhìn sâu vào tương lai
+!to dip into one's purse
+- tiêu hoang
+!to dip one's pen in gall
+- viết ác, viết cay độc
+@Chuyên ngành kinh tế
+-ngâm
+-nhúng
+-nước chấm
+-phết lên
+-quãng trũng
 @Chuyên ngành kỹ thuật
--cơ số
--gốc
--số
+-đặt xuống
+-độ dốc
+-độ nghiêng
+-độ từ khuynh
+-dốc
+-dung dịch nhuộm
+-góc cắm
+-góc dốc
+-hạ
+-hướng cắm
+-hướng dốc
+-lún tụt
+-nhúng
+-sự nhúng chìm
+-sự sụt
+-sự tẩm
+-sự thấm
+-tôi
+@Lĩnh vực: điện
+-độ lệch xuống
+-độ nghiêng xuống
+@Lĩnh vực: xây dựng
+-nhấn chìm
 @Lĩnh vực: toán & tin
--cỡ mẫu cơ bản (trong điều tra)
--cơ số (của hệ thống đếm)
-@Lĩnh vực: điện lạnh
--cơ số (của hệ đếm)
-@Lĩnh vực: y học
--gốc rễ
+-vỏ DIP
+

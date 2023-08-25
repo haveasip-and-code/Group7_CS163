@@ -1,39 +1,22 @@
-kink	@kink /kiɳk/
-*  danh từ
-- nút, chỗ thắt nút; chỗ xoắn (ở dây, dây cáp...)
-- sự lệch lạc (về tư tưởng, tính nết...)
-- (từ Mỹ,nghĩa Mỹ) tính lập dị; tính đỏng đảnh
-- (từ Mỹ,nghĩa Mỹ) cái mắc mớ gây khó khăn cho công việc
-- chứng vẹo cổ
-*  động từ
-- thắt nút; xoắn lại (dây...)
+removable
+	
+*  tính từ
+- có thể mở được; có thể dời đi được, có thể chuyển đi được
+- có thể bị cách chức bất kỳ lúc nào (viên chức)
 @Chuyên ngành kỹ thuật
--chỗ uốn
--chỗ vặn
--chỗ xoắn
--chỗ xoắn vặn
--nút thắt
--nút thắt, chứng vẹo cổ
--sự gập
--sự hư hỏng
--sự uốn
--sự uốn gập
--vặn
--xoắn
-@Lĩnh vực: ô tô
--chỗ thắt nút
-@Chuyên ngành kỹ thuật
--chỗ uốn
--chỗ vặn
--chỗ xoắn
--chỗ xoắn vặn
--nút thắt
--nút thắt, chứng vẹo cổ
--sự gập
--sự hư hỏng
--sự uốn
--sự uốn gập
--vặn
--xoắn
-@Lĩnh vực: ô tô
--chỗ thắt nút
+-khử được
+-lắp lẫn được
+-lấy đi được
+-linh hoạt
+-loại bỏ được (liên kết)
+-tháo lắp được
+-trao đổi
+@Lĩnh vực: điện lạnh
+-bỏ được
+@Lĩnh vực: toán & tin
+-có thể chuyển được
+-có thể mở được
+-có thể tháo được
+@Lĩnh vực: xây dựng
+-dễ di chuyển
+

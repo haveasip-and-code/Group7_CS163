@@ -1,14 +1,5 @@
-trader	@trader /'treidə/
-*  danh từ
-- nhà buôn, thương gia
-- (hàng hải) tàu buôn
-@Chuyên ngành kinh tế
--giao dịch viên (chứng khoán, hối đoái...)
--người buôn bán tự doanh
--những người trong ngành buôn bán
--tàu buôn
--tàu hàng
--thương gia
--thương nhân
--thương nhân, giao dịch viên, tàu buôn, thương thuyền
--thương thuyền
+arguably
+	
+* phó từ
+- người ta có thể cho rằng
+

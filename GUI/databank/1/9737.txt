@@ -1,5 +1,16 @@
-cleric	
-@cleric /'klə:dʤimən/ (cleric) /'klerik/
-*  danh từ
-- giáo sĩ, tu sĩ, mục sư (nhà thờ Anh)!clergyman's week
-- đợt nghỉ lễ tám ngày (từ chủ nhật này đến chủ nhật sau)
+credentials
+	
+*  danh từ số nhiều
+- giấy uỷ nhiệm, thư uỷ nhiệm, quốc thư
+=to present one's credentials
++ trình quốc thư
+@Chuyên ngành kinh tế
+-chứng thư
+-quốc thư (của đại sứ nước ngoài)
+-thư giới thiệu
+-thư ủy nhiệm
+@Chuyên ngành kỹ thuật
+-giấy chứng nhận
+@Lĩnh vực: điện tử & viễn thông
+-nhãn quyển
+

@@ -1,15 +1,5 @@
-decant	
-@decant /di'kænt/
-*  ngoại động từ
-- gạn, chắt (chất lỏng)
-@Chuyên ngành kinh tế
--chắt
--gạn
-@Chuyên ngành kỹ thuật
--gạn
--lắng
--lắng gạn
-@Lĩnh vực: hóa học & vật liệu
--chắt
-@Lĩnh vực: xây dựng
--gạn (chất lỏng)
+uninhibited
+	
+*  tính từ
+- không bị cấm, tự do
+

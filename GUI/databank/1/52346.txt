@@ -1,38 +1,7 @@
-sphere	@sphere /sfiə/
-*  danh từ
-- hình cầu, khối cầu, quả cầu; mặt cầu
-- (thơ ca) bầu trời, vũ trụ; thiên thể
-- khu vực, phạm vi (hoạt động, quyền lực...); vị trí xã hội; môi trường
-=sphere of action+ khu vực ảnh hưởng
-=that does not come withing my sphere+ việc ấy không thuộc phạm vi quyền lực của tôi
-=it is a great mistake ot take him out of his sphere+ đưa nó ra khỏi môi trường của nó là một sai lầm lớn
-!doctrine of the sphere
-- hình học và lượng giác cầu
+behove
+	
 *  ngoại động từ
-- cho vào trong một quả cầu
-- làm thành hình cầu
-- (thơ ca) tâng bốc lên tận mây xanh
-@Chuyên ngành kinh tế
--lãnh vực
--phạm vi
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--mặt cầu, hình cầu
-@Chuyên ngành kỹ thuật
--bi
--hình cầu
--hình quả cầu
--mặt cầu
--quả cầu
--quả cầu nhỏ
--viên
-@Lĩnh vực: y học
--cầu
-@Lĩnh vực: toán & tin
--hình cầu, mặt cầu
-@Lĩnh vực: cơ khí & công trình
--khối cầu
-@Lĩnh vực: xây dựng
--phạm vi lĩnh vực
-@Lĩnh vực: điện
--phẳng đều
+- phải có nhiệm vụ
+=it behooves us to help one another
++ chúng ta cần giúp đỡ lẫn nhau
+

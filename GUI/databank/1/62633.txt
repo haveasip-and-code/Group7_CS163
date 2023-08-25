@@ -1,12 +1,20 @@
-weed	@weed /wi:d/
-*  danh từ
-- (thực vật học) cỏ dại
-- (the weed) thuốc lá
-- ngựa còm; người gầy yếu mnh khnh
-*  ngoại động từ
-- giẫy cỏ, nhổ cỏ
-!to weed out
-- loại bỏ, loại trừ (những cái xấu, kém phẩm chất)
-=to weed out the herd+ loại bỏ những con xấu trong đàn vật nuôi
+recurrent
+	
+*  tính từ
+- trở lại luôn, thường tái diễn, có định kỳ
+- (y học) hồi quy
+=recurrent fever
++ sốt hồi quy
+@Chuyên ngành kinh tế
+-định kỳ (phát sinh)
+-tái đi tái lại
+-thường tái diễn
+-thường xuyên (phát sinh)
+-trở lại luôn
 @Chuyên ngành kỹ thuật
--cỏ dại
+-lặp
+-lặp lại
+-trả lại
+@Lĩnh vực: y học
+-tái hồi
+

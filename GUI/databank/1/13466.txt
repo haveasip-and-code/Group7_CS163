@@ -1,40 +1,11 @@
-damper	
-@damper /'dæmpə/
+realm
+	
 *  danh từ
-- người làm ngã lòng, việc làm chán nản; người làm mất vui, việc làm mất vui, người làm cụt hứng, việc làm cụt hứng=to cast a damper on a party
-+ làm cho buổi liên hoan mất vui, giội một gáo nước lạnh vào buổi liên hoan
-- (âm nhạc) cái giảm âm; cái chặn tiếng (đàn pianô)
-- máy thấm ướt tem (để dán)
-- (kỹ thuật); (vật lý) bộ giảm âm, bộ giảm xóc, cái chống rung, cái tắt dao động; van khói kiểu lá chắn; mắt gió
-- (Uc) bánh không ủ men nướng dưới tro
+- vương quốc
+- (nghĩa bóng) lĩnh vực, địa hạt
+=the realm of imagination
++ lĩnh vực tưởng tượng
 @Chuyên ngành kỹ thuật
--bộ chống rung
--bộ giảm âm
--bộ giảm chấn
--bộ giảm xóc
--bộ hạn chế
--bộ tiêu âm
--bộ triệt âm
--cửa chắn
--cuộn cảm
--đệm giảm va
--gạt đá
--giảm chấn
--giảm tốc
--lò xo đệm
--tấm chắn
--van điều tiết
--van thông gió
-@Lĩnh vực: xây dựng
--bộ giảm chắn
--bộ làm nhụt
--giảm âm thanh
--máy đệm
--van (trượt)
-@Lĩnh vực: ô tô
--cái doãn xung
-@Lĩnh vực: điện
--đèn đi
--ốt đệm
-@Lĩnh vực: giao thông & vận tải
--thanh hoãn xung
+@Lĩnh vực: toán & tin
+-lĩnh vực, vùng
+

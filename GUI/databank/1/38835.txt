@@ -1,17 +1,10 @@
-overheating	@overheating
-* danh từ
-- (kỹ thuật) sự quá nhiệt; sự đun quá nóng
-= local overheating+sự quá nhiệt cục bộ
+cabotage
+	
+*  danh từ
+- sự buôn bán dọc theo bờ biển
 @Chuyên ngành kinh tế
--tình trạng quá nóng
-@Chuyên ngành kỹ thuật
--quá nhiệt
--quá nóng
--sự quá nhiệt
--sự quá nóng
-@Lĩnh vực: cơ khí & công trình
--đốt quá nóng
-@Lĩnh vực: xây dựng
--sự nóng quá
-@Lĩnh vực: hóa học & vật liệu
--sự quá
+-buôn bán ven biển
+-chạy tàu ven biển
+-vận chuyển hàng ven biển (buôn bán ven biển)
+-vận tải biển trong nước
+

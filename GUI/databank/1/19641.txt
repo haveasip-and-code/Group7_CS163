@@ -1,28 +1,21 @@
-execute	
-@execute /'eksikju:t/
-*  ngoại động từ
-- thực hiện, thi hành, thừa hành, chấp hành
-- thể hiện; biểu diễn (bản nhạc...)
-- (pháp lý) làm thủ tục để cho có giá trị (hiệp ước, giao kèo...) (bằng cách ký vào, đóng dấu vào...)
-- hành hình
+sorting
+	
+* danh từ
+- sự tuyển chọn; phân loại
 @Chuyên ngành kinh tế
--ký nhận (một hợp đồng)
--làm cho hữu hiệu
--thực hiện
--thực thi (một hợp đồng, một kế hoạch)
+-lựa chọn phân loại
+-sự phân loại
 @Chuyên ngành kỹ thuật
--thực hiện
-@Lĩnh vực: toán & tin
--chạy
--chạy (chương trình)
-@Lĩnh vực: xây dựng
--thực hành
--thực thi
-@Chuyên ngành kỹ thuật
--thực hiện
-@Lĩnh vực: toán & tin
--chạy
--chạy (chương trình)
-@Lĩnh vực: xây dựng
--thực hành
--thực thi
+-phân loại
+-sắp xếp
+-so lựa
+-sự chọn
+-sự chọn quặng
+-sự chọn than
+-sự lựa chọn
+-sự phân loại
+-sự sắp xếp
+-sự so lựa
+@Lĩnh vực: điện tử & viễn thông
+-sắp
+

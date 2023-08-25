@@ -1,35 +1,22 @@
-device	
-@device /di'vais/
+reinstatement
+	
 *  danh từ
-- phương sách, phương kế; chước mưu
-- vật sáng chế ra (để dùng vào mục đích gì); thiết bị, dụng cụ, máy móc=a control device
-+ dụng cụ điều khiển=an electronic device
-+ dụng cụ điện tử
-- hình vẽ; hình trang trí; hình tương trưng
-- châm ngôn; đề từ!to leave someone to his own devices
-- để mặc cho ai tự xoay sở lo liệu lấy
+- sự phục hồi (chức vụ, quyền lợi); sự lấy lại (sức khoẻ)
+- sự sắp đặt lại (cho có thứ tự, quy củ)
 @Chuyên ngành kinh tế
--dụng cụ
--thiết bị
+-phục hồi
+-phục nguyên
+-sự khôi phục
+-sự khôi phục, phục hồi nguyên trạng, tái lập
+-sự lập bảo hiểm, bảo hiểm tiếp
+-sự phục chức
+-sự phục hồi nguyên trạng
+-sự tái lập
 @Chuyên ngành kỹ thuật
--cấu
--cơ cấu
--đồ án
--dụng cụ
--khí cụ
--linh kiện
--máy
--máy móc
--phụ kiện
--phụ tùng
--phương tiện
--thiết bị
--trang bị
-@Lĩnh vực: điện lạnh
--bộ (phận)
-@Lĩnh vực: vật lý
--khối bộ
-@Lĩnh vực: xây dựng
--máy bộ phận
-@Lĩnh vực: toán & tin
--phương sách
+-hồi phục
+-sự khôi phục
+-trở về
+@Lĩnh vực: điện tử & viễn thông
+-sự hồi lại (trong công việc)
+-sự nhập lại (trong công việc)
+

@@ -1,19 +1,76 @@
-cache	
-@cache /kæʃ/
+note
+	
 *  danh từ
-- nơi giấu, nơi trữ (lương thực, đạn dược... nhất là các nhà thám hiểm để dùng sau này)=to make a cache
-+ xây dựng nơi trữ
-- lương thực, vật dụng giấu kín
-- thức ăn dự trữ (của động vật qua đông)
+- lời ghi, lời ghi chép
+=to make (take) notes
++ ghi chép
+=I must look up my notes
++ tôi phải xem lại lời ghi
+- lời ghi chú, lời chú giải
+- sự lưu ý, sự chú ý
+=worthy of note
++ đáng chú ý
+=to take note of
++ lưu ý đến
+- bức thư ngắn
+=to drop someone a note
++ gửi cho ai một bức thư ngắn
+- (ngoại giao) công hàm
+=diplomatic note
++ công hàm ngoại giao
+- phiếu, giấy
+=promisorry note
++ giấy hẹn trả tiền
+- dấu, dấu hiệu, vết
+=a note of infamy
++ vết nhục
+=note of interrogation
++ dấu hỏi
+- tiếng tăm, danh tiếng
+=a man of note
++ người có tiếng tăm, người tai mắt
+- (âm nhạc) nốt; phím (pianô)
+- điệu, vẻ, giọng, mùi
+=there is a note of anger in his voice
++ giọng anh ta có vẻ giận dữ
+=his speech sounds the note of war
++ bài nói của hắn sặc mùi chiến tranh
 *  ngoại động từ
-- giấu kín, trữ
+- ghi nhớ, chú ý, lưu ý, nhận thấy
+=note my words
++ hãy ghi nhớ những lời nói của tôi
+- ghi, ghi chép
+- chú giải, chú thích
+@Chuyên ngành kinh tế
+-chú giải
+-chú giải chú thích
+-chú thích
+-chứng phiếu
+-ghi
+-ghi chép
+-ghi nhớ
+-giấy xác nhận nợ
+-kỳ phiếu
+-lá thư nhỏ
+-lệnh phiếu
+-lời chú giả
+-phiếu
+-phiếu khoán
+-thư nhắn
+-thư nhắn (thư viết ngắn)
 @Chuyên ngành kỹ thuật
--bộ nhớ cache
-@Lĩnh vực: toán & tin
--bộ nhớ sẵn
--cạc nhớ
--vùng nhớ đệm
+-chú giải
+-chú thích
+-ghi chú
+-ký hiệu
+-lời chú giải
+-lời ghi chép
+-lời ghi chú
+-phiếu
+-sổ ghi đo
+-sự ghi chép
 @Lĩnh vực: xây dựng
--kho khuất
-@Lĩnh vực: điện tử & viễn thông
--tiền bộ nhớ
+-ghi chép
+@Lĩnh vực: điện lạnh
+-nốt
+

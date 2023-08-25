@@ -1,9 +1,5 @@
-dint	
-@dint /dint/
-*  danh từ
-- vết đòn, vết đánh, vết hằn ép, vết lằn nổi
-- (từ cổ,nghĩa cổ) đòn, cú đánh!by dint of...
-- bởi... mãi mà..., vì bị... mãi mà..., do bởi=by dint of failure we acheieved success
-+ do thất bại mãi mà chúng tôi đã thành công
-*  ngoại động từ
-- làm nổi hằn, để lại vết hằn ép (trên cái gì)
+lexis
+	
+* danh từ
+- từ vựng
+

@@ -1,21 +1,15 @@
-cathead	
-@cathead
-* danh từ
-- bộ phận đầu mũi thuyền để buộc dây neo
-- tời neo
-- xà mũi tàu
+pommel
+	
+*  danh từ
+- núm chuôi kiếm
+- núm yên ngựa
+*  ngoại động từ
+- đánh bằng núm chuôi kiếm
+- đấm túi bụi
+@Chuyên ngành kinh tế
+-cây bưởi
+-quả bưởi
 @Chuyên ngành kỹ thuật
--ống hẹp
--trục phụ
 @Lĩnh vực: xây dựng
--búa đầu rộng
--độc cao mối hàn
--góc hàn
--rầm nhô ra
--tay cầu cẩu
-@Lĩnh vực: cơ khí & công trình
--đầu (cắt) ren
--tời neo
-@Lĩnh vực: hóa học & vật liệu
--tời trục đứng
--trục tời
+-núm chuôi kiếm
+

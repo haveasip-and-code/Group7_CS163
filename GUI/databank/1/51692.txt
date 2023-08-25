@@ -1,13 +1,5 @@
-software	@software
-* danh từ
-- phần mềm (của máy tính)
-@Chuyên ngành kinh tế
--phần mềm (của máy tính)
--phần mềm (máy vi tính)
-@Chuyên ngành kỹ thuật
--chương trình
--chương trình phần mềm
-@Lĩnh vực: toán & tin
--phần mềm (máy tính)
-@Lĩnh vực: điện
--phím mềm
+acaleph
+	
+*  danh từ
+- loài sứa
+

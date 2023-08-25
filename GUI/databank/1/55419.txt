@@ -1,9 +1,9 @@
-tagger	@tagger /'tægə/
-*  danh từ
-- người đuổi bắt (trong trò chơi đuổi bắt)
-- (số nhiều) miếng sắt mỏng, miếng tôn mỏng
+interconvert
+	
+*  ngoại động từ
+- chuyển đổi qua lại
+- thay đổi lẫn nhau
 @Chuyên ngành kỹ thuật
--đầu bịt
--miếng sắt mỏng
-@Lĩnh vực: cơ khí & công trình
--tôn mỏng (&lt;0, 2mm)
+@Lĩnh vực: điện tử & viễn thông
+-chuyển đổi qua lại
+

@@ -1,12 +1,10 @@
-flair	
-@flair /fleə/
-*  danh từ
-- sự thính, sự tinh; tài nhận thấy ngay (cái gì tốt, cái gì lợi)
-@Chuyên ngành kỹ thuật
+rounds
+	
 @Lĩnh vực: xây dựng
--gờ bảo vệ
--khiếu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--gờ bảo vệ
--khiếu
+-biến dạng tròn
+-đai tròn
+-gờ bán nguyệt
+-gờ tròn
+@Lĩnh vực: cơ khí & công trình
+-profin tròn
+

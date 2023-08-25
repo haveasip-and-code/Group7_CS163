@@ -1,6 +1,12 @@
-diatonic	
-@diatonic /,daiə'tɔnik/
-*  tính từ
-- (âm nhạc) (thuộc) âm nguyên=diatonic scale
-+ gam (âm) nguyên=diatonic modulation
-+ chuyển giọng (âm) nguyên
+buffering
+	
+- (Tech) chuyển hoán đệm; ổn xung
+@Chuyên ngành kỹ thuật
+-đệm
+-sự đệm
+-sự tách chuyển
+@Lĩnh vực: toán & tin
+-phương pháp đệm
+@Lĩnh vực: điện tử & viễn thông
+-tạo đệm
+

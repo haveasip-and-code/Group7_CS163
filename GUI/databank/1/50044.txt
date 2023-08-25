@@ -1,16 +1,4 @@
-sett	@sett
-* danh từ
-- gạch lát; đá lát
-- gỗ lát sàn
-@Chuyên ngành kỹ thuật
--cái đục
--cần
--đá lát đường
--đá rải nền đường
--mũi đục sắt vụn
--mũi khoan
--ván lát sàn
-@Lĩnh vực: xây dựng
--đá phiến vuông
-@Lĩnh vực: cơ khí & công trình
--dầm vuông
+chanty
+	
+*  danh từ (như) chantey
+

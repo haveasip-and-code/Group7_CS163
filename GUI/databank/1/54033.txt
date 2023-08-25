@@ -1,6 +1,15 @@
-subentry	@subentry
-* danh từ
-- mục phụ (dưới mục chính)
+embody
+	
+*  ngoại động từ ((từ Mỹ,nghĩa Mỹ) (cũng) imbody)
+- là hiện thân của
+- biểu hiện
+- gồm, kể cả
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--mục nhập phụ
+-bao gồm
+@Lĩnh vực: hóa học & vật liệu
+-cụ thể hóa
+@Chuyên ngành kỹ thuật
+-bao gồm
+@Lĩnh vực: hóa học & vật liệu
+-cụ thể hóa
+

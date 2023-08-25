@@ -1,6 +1,13 @@
-pixel	@pixel
-- Phần tử nhỏ nhất (phần tử ảnh) mà một thiết bị có thể hiện thị trên màn hình, hình ảnh trên màn hình được xây dựng nên từ các phần tử đó
+diverge
+	
+*  nội động từ
+- phân kỳ, rẽ ra
+- trệch; đi trệch
+- khác nhau, bất đồng (ý kiến...)
+*  ngoại động từ
+- làm phân kỳ, làm rẽ ra
+- làm trệch đi
 @Chuyên ngành kỹ thuật
--điểm ảnh
-@Lĩnh vực: điện tử & viễn thông
--phần tử (lượng tử) ảnh
+-lệch
+-phân kỳ
+

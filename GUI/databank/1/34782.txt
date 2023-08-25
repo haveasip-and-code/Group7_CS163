@@ -1,10 +1,5 @@
-microstructure	@microstructure
-* danh từ
-- tổ chức tế vi, cấu tạo vi lượng
-- cấu trúc vi mô
-@Chuyên ngành kinh tế
--kết cấu vi mô
-@Chuyên ngành kỹ thuật
--vi cấu tạo
--vi cấu trúc
--vi kết cấu
+epithetical
+	
+*  tính từ
+- (thuộc) tính ngữ
+

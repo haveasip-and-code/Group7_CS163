@@ -1,9 +1,14 @@
-cameo	
-@cameo /'kæmiou/
-*  danh từ
-- đồ trang sức đá chạm
+assembling
+	
+- (Tech) dịch ngữ mã số (d); lắp ráp, tổ hợp
 @Chuyên ngành kỹ thuật
--đồ gốm mài
--mái vòm
+-lắp ráp
+-sự ghép
+-sự ghép nối
+-sự lắp ghép
+-sự lắp ráp
 @Lĩnh vực: xây dựng
--phòng có mái vòm
+-sự đá đặt
+@Lĩnh vực: điện
+-việc lắp ráp
+

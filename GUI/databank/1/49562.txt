@@ -1,94 +1,28 @@
-see	@see /si:/
-*  động từ saw
-/saw/,  seen
-/seen/
-- thấy, trông thấy, nhìn thấy; xem, quan sát, xem xét
-=seeing is believing+ trông thấy thì mới tin
-=I saw him in the distance+ tôi trông thấy nó từ xa
-=things seen+ những vật ta có thể nhìn thấy, những vật cụ thể, những vật có thật
-=to see things+ có ảo giác
-=worth seeing+ đáng chú ý
-- xem, đọc (trang báo chí)
-=I see that another Soviets satellite was orbitted yesterday+ tôi xem báo thấy nói một vệ tinh Liên-xô lại được phóng vào quỹ đạo hôm qua
-- hiểu rõ, nhận ra
-=I cannot see the point+ tôi không thể hiểu được điểm đó
-=I do not see the advantage of doing it+ tôi không hiểu làm như vậy thì lợi thế nào
-=you see+ như anh chắc cũng hiểu rõ
-=I see+ tôi hiểu rồi
-=as far I can see+ như tôi cố gắng hết sức để hiểu
-- trải qua, từng trải, đã qua
-=he has seen two regimes+ anh ấy đã sống qua hai chế độ
-=he will never see 50 again+ anh ta đã quá 50 mươi
-=to see life+ từng trải cuộc sống, lão đời
-=to have seen service+ có kinh nghiệm, từng trải (người); đã mòn, đã dùng nhiều (vật)
-- gặp, thăm; đến hỏi ý kiến (bác sĩ, luật sư...); tiếp
-=he refused to see me+ anh ấy từ chối không tiếp tôi
-=can I see you on business?+ tôi có thể gặp anh để bàn công tác không?
-=you had better see a lawyer+ anh nên đến gặp luật sư, anh nên đến hỏi ý kiến luật sư
-- tưởng tượng, mường tượng
-=I cannot see myself submitting such an injustice+ tôi không thể tưởng tượng rằng mình lại chịu một sự bất công như thế
-- chịu, thừa nhận, bằng lòng
-=we do not see being made use of+ chúng tôi không chịu để người ta lợi dụng chúng tôi
-- tiễn, đưa
-=to see somebody home+ đưa ai về nhà
-- giúp đỡ
-=to see someone through difficulty+ giúp ai vượt khó khăn
-- quan niệm, cho là
-=I see life differntly now+ bây giờ tôi quan niệm cuộc đời là khác rồi
-=to see good to do something+ cho là cần (nên) làm một việc gì
-- chăm lo, lo liệu, đảm đương, phụ trách, bảo đảm
-=to see to one's business+ chăm lo đến công việc của mình
-=to see to it that...+ lo liệu để cho...
-- điều tra, nghiên cứu, xem xét, kỹ lưỡng
-=we must see into it+ chúng ta phải đi sâu vào vấn đề ấy
-- suy nghĩ, xem lại
-=let me see+ để tôi suy nghĩ xem đã, để tôi xem đã
-- (đánh bài) đắt, cân
-- cứ đứng nhìn, trông thấy mà để mặc
-=to see somebody struggle with difficulties+ thấy ai vật lộn với khó khăn mà cứ đứng nhìn
-!to see about
-- tìm kiếm, điều tra, xem lại
-- chăm nom, săn sóc, lo liệu, đảm đương (việc gì)
-!to see after
-- chăm nom, săn sóc, để ý tới
-!to see into
-- điều tra, nghiên cứu, xem xét kỹ lưỡng
-- hiểu rõ được, thấy rõ được bản chất (của vấn đề gì)
-!to see off
-- tiễn (ai...)
-=to see somebody off at the station+ ra ga tiễn ai
-!to see out
-- hoàn thành, thực hiện đến cùng, làm đến cùng
-- sự đến cùng, xem đến hết (một vở kịch...)
-- tiễn (ai) ra tận cửa
-!to see through
-- nhìn thấy, thấy rõ bản chất (sự việc...)
-- thực hiện đến cùng, làm đến cùng
-- giúp ai vượt được (khó khăn...)
-!to see the back of somebody
-- trông ai cút khỏi cho rảnh mắt
-!to see double
-- (xem) double
-!to see eyes to eye with somebody
-- (xem) eye
-!to see [far] into a millstone
-!to see through brick wall
-- sắc sảo, thông minh xuất chúng
-!to see the light
-- (xem) light
-!to see red
-- (xem) red
-!to see something done
-- giám sát sự thi hành cái gì
-!to see one's way to
-- (xem) way
-!I'll see about
-- tôi sẽ phụ trách (bảo đảm) việc ấy
-- tôi sẽ xem lại vấn đề ấy
-!seeing that
-- xét thấy rằng
-=seeing that no other course is open to us...+ xét thấy rằng không có con đường nào khác cho chúng ta...
+marker
+	
 *  danh từ
-- toà giám mục
-=the Holy See; the See of Rome+ Toà thánh
-- chức giám mục; quyền giám mục
+- người ghi
+- người ghi số điểm (trong trò chơi bi a)
+- vật (dùng) để ghi
+- pháo sáng (để soi mục tiêu cho những cuộc ném bom đêm)
+@Chuyên ngành kinh tế
+-máy dán nhãn
+@Chuyên ngành kỹ thuật
+-biển chỉ đường
+-cái đánh dấu
+-cờ
+-dấu
+-dấu hiệu
+-đích
+-dụng cụ ghi
+-nhãn
+-máy đánh dấu
+-mốc
+-thợ lấy dấu
+-tiêu
+-tín hiệu
+@Lĩnh vực: giao thông & vận tải
+-cột đèn hiệu
+@Lĩnh vực: điện tử & viễn thông
+-dấu mốc
+

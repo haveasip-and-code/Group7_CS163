@@ -1,9 +1,36 @@
-summons	@summons /'sʌmən/
+reckoning
+	
 *  danh từ
-- sự gọi đến, sự triệu đến
-- (pháp lý) trát đòi hầu toà
-=to serve a summons on someone+ gửi trát đòi ai ra hầu toà
-*  ngoại động từ
-- (pháp lý) đòi ra hầu toà, gửi trát đòi ra hầu toà
+- sự tính, sự đếm, sự tính toán
+=by my reckoning
++ theo sự tính toán của tôi
+=to be good at reckoning
++ tính đúng
+=to be out in one's reckoning
++ tính sai (bóng)
+- giấy tính tiền (khách sạn, nhà trọ...)
+- sự thanh toán ((nghĩa đen) & (nghĩa bóng))
+=day of reckoning
++ ngày thanh toán; (nghĩa bóng) ngày đền tội
+- sự tính đến, sự kể đến, sự xét đến, sự đếm xỉa đến
+=to make no reckoning of something
++ không kể đến cái gì
+- (hàng hải) điểm đoán định (vị trí của tàu) ((cũng) dead reckoning)
+!short reckonings make long friend
+- (tục ngữ) tính toán phân minh giữ được tình bạn lâu dài
 @Chuyên ngành kinh tế
--trát đòi hầu tòa
+-giấy tính tiền
+-kế toán sổ sách
+-phí đơn
+-phiếu tính tiền
+-phiếu tính tiền (khách sạn, nhà hàng)
+-thanh toán nợ
+-tính sổ
+-tính toán
+-việc kết toán sổ sách
+-việc tính sổ
+-việc tính toán
+@Chuyên ngành kỹ thuật
+-sự đếm
+-sự tính toán
+

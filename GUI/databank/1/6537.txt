@@ -1,9 +1,20 @@
-bracelet	
-@bracelet /'breislit/
+remover
+	
 *  danh từ
-- vòng tay, xuyến
-- (số nhiều) (từ lóng) khoá tay
+- người dọn đồ ((cũng) furniture remover)
+- thuốc tẩy (dầu mỡ...)
+- (kỹ thuật) dụng cụ tháo, đồ m
+@Chuyên ngành kinh tế
+-chất loại bỏ
+-dụng cụ tách
+-máy tách
+-máy tháo dỡ
 @Chuyên ngành kỹ thuật
--nếp lồi cụt
-@Lĩnh vực: xây dựng
--vòng đeo tay
+-dụng cụ tháo
+-máy đào
+@Lĩnh vực: điện
+-cái vam
+@Lĩnh vực: hóa học & vật liệu
+-chất tẩy (màu)
+-đồ mở
+

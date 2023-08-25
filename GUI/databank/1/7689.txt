@@ -1,6 +1,9 @@
-cancelable	
-@cancelable
-- xem cancel
+geographic
+	
+*  tính từ
+- (thuộc) địa lý
+=a geographic map
++ bản đồ địa lý
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--giản ước được
+-địa lý
+

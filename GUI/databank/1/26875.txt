@@ -1,4 +1,10 @@
-ichthyologist	
-@ichthyologist /,ikθi'ɔlədʤist/
+polyclinic
+	
 *  danh từ
-- nhà nghiên cứu cá, nhà ngư học
+- phòng khám nhiều khoa
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bệnh viện đa khoa
+-bệnh xã
+-trạm xã
+

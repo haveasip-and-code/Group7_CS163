@@ -1,13 +1,6 @@
-spraying	@spraying
-* danh từ
-- sụ phun
-= metal spraying+sự phun kim loại
-@Chuyên ngành kỹ thuật
--sơn phun
--sự bơm
--sự phun
--sự tưới (nước)
-@Lĩnh vực: hóa học & vật liệu
--sơn phun phủ
-@Lĩnh vực: cơ khí & công trình
--sự mạ kim loại (bằng cách) phun
+headrest
+	
+@Lĩnh vực: ô tô
+-điểm tựa đầu
+-gối đỡ đầu
+

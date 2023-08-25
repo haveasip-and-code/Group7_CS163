@@ -1,8 +1,5 @@
-bitts	
-@bitts /bits/
-*  (bất qui tắc) danh từ số nhiều
-- (hàng hải) cọc buộc dây cáp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--cọc neo kép
--cột neo kép
+homeotherm
+	
+@Lĩnh vực: y học
+-hằng nhiệt máu nóng (như homolotherm)
+

@@ -1,7 +1,10 @@
-cryptorchid	
-@cryptorchid
-* danh từ
-- người ẩn tinh hoàn
+kerning
+	
+- co kéo (sự điều chỉnh khoảng cách giữa hai ký tự cặp đôi trong dạng hiển thị)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--tinh hoàn ẩn
+@Lĩnh vực: toán & tin
+-co kéo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-co kéo
+

@@ -1,17 +1,12 @@
-moisture	@moisture /'mɔistʃə/
-*  danh từ
-- hơi ẩm; nước ẩm đọng lại; nước ẩm rịn ra
-@Chuyên ngành kinh tế
--độ ẩm
--độ ẩm (của hàng hóa)
--lượng nước
--thủy phân
-@Chuyên ngành kỹ thuật
--độ ẩm
--độ chứa
--hơi ẩm
--lượng chứa nước
-@Lĩnh vực: xây dựng
--độ chứa nước
-@Lĩnh vực: điện
--khí ẩm
+absolve
+	
+*  ngoại động từ
+- tha tội, xá tội, tuyên án vô tội; miễn trách
+=to absolve someone from blame
++ miễn trách ai, tuyên bố ai không có lỗi
+=to be absolved from the guilt
++ được tuyên án vô tội
+- giải, giải phóng, cởi gỡ
+=to absolve someone from a spell
++ giải cho ai khỏi bị bùa mê, giải bùa cho ai
+

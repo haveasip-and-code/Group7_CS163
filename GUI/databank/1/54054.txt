@@ -1,17 +1,12 @@
-subgrade	@subgrade
-* danh từ
-- mặt đất san bằng để đắp nền
+patentee
+	
+*  danh từ
+- người được cấp bằng sáng chế
+@Chuyên ngành kinh tế
+-người có bản quyền sáng chế
+-người được cấp bằng sáng chế
+-người sở hữu quyền chuyên lợi
+-người sở hữu quyền khai thác bằng sáng chế
 @Chuyên ngành kỹ thuật
--lớp dưới
--lớp móng
--nền đất
--mặt đường đất
-@Lĩnh vực: xây dựng
--lớp dưới nền đường
--lớp mặt nền
--lớp nền đất
--nền tường đất
--mặt đắp nền
--san nền đất
--sự lát nền
--tầng thổ nhưỡng
+-người được nhượng quyền (phát minh)
+

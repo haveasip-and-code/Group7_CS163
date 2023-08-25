@@ -1,14 +1,38 @@
-context	
-@context /'kɔntekst/
-*  danh từ
-- (văn học) văn cảnh, ngữ cảnh, mạch văn=it is often difficult to say what the meaning of a word is apart from its context
-+ thường khó mà hiểu rõ nghĩa của một từ nếu đem tách nó ra khỏi văn cản
-- khung cảnh, phạm vi=in this context
-+ trong phạm vi vấn đề này; liên quan đến vấn đề này
+odds
+	
+*  danh từ số nhiều
+- sự chênh lệch; sự so le
+=to make odds even
++ làm cho hết so le, làm cho đều nhau
+- sự khác nhau
+=it makes no odds
++ không sao, không hề gì
+- sự xung đột, sự bất hoà
+=to be at odds with somebody
++ bất hoà với ai
+- sự lợi thế
+=the odds are in our favour
++ ta ở vào thế lợi
+- sự chấp (chơi cò, thể thao...)
+=to give odds
++ chấp
+=to take odds
++ nhận sự chấp
+- tỷ lệ (tiền cuộc)
+=to lay odds of three to one
++ đánh cuộc một ăn ba
+!what's the odds?
+- thế thì sao?
+!it is long odds that he will do it
+- nhất định là anh ta sẽ làm việc đó
+!he is by long odds the ablest of the boys
+- nó là tay cừ nhất vượt hẳn các cậu khác
+!odds and ends
+- những đầu thừa đuôi theo, những thứ linh tinh lặt vặt
+@Chuyên ngành kinh tế
+-cơ hội
+-tính khả năng
 @Chuyên ngành kỹ thuật
--ngữ cảnh
--thuộc tính
--văn cảnh
 @Lĩnh vực: toán & tin
--mạch văn
--văn mạch
+-số lẻ, số dương
+

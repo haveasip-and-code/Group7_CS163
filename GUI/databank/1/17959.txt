@@ -1,18 +1,5 @@
-emerge	
-@emerge /i'mə:dʤ/
-*  nội động từ
-- nổi lên, hiện ra, lòi ra
-- (nghĩa bóng) nổi bật lên, rõ nét lên; nổi lên, nảy ra (vấn đề...)
-- thoát khỏi (sự đau khổ)
-@Chuyên ngành kỹ thuật
--ló ra
--nhô lên
--nhô ra
--nổi lên
--xuất hiện
-@Chuyên ngành kỹ thuật
--ló ra
--nhô lên
--nhô ra
--nổi lên
--xuất hiện
+stoniness
+	
+*  danh từ
+- vẻ chằm chằm (của cái nhìn); tính lạnh lùng, tính vô tình; tính chai đá, tính nhẫn tâm
+

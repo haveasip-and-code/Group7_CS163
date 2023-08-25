@@ -1,19 +1,4 @@
-lapping	@lapping
-* danh từ
-- sự vỗ nhẹ, tiếng vỗ nhẹ
-@Chuyên ngành kinh tế
--sự trộm dùng khoản tiền chặn lại
-@Chuyên ngành kỹ thuật
--sự mài bóng
--sự mài nghiền
--sự mài rà
--sự nối chồng
-@Lĩnh vực: cơ khí & công trình
--sự cà bóng
-@Chuyên ngành kỹ thuật
--sự mài bóng
--sự mài nghiền
--sự mài rà
--sự nối chồng
-@Lĩnh vực: cơ khí & công trình
--sự cà bóng
+inburst
+	
+-sự tràn nước
+

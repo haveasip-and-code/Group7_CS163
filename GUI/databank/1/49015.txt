@@ -1,69 +1,23 @@
-schedule	@schedule /'ʃedju:/
+petrol
+	
 *  danh từ
-- (từ Mỹ,nghĩa Mỹ) bản danh mục, bảng liệt kê; bản phụ lục
-- (từ Mỹ,nghĩa Mỹ) bảng giờ giấc, biểu thời gian
-=schedule time+ thì giờ đã định trong bảng giờ giấc
-=on schedule+ đúng ngày giờ đã định
-- thời hạn
-=three days ahead of schedule+ trước thời hạn ba ngày
-=to be hebind schedule+ chậm so với thời hạn, không đúng thời hạn
-*  ngoại động từ
-- (từ Mỹ,nghĩa Mỹ) kèm danh mục (vào một tư liệu...); thêm phụ lục (vào một tài liệu...)
-- ghi thành bảng giờ giấc, dự định vào bảng giờ giấc
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) dự định làm (cái gì) vào ngày giờ đã định
+- dầu xăng
 @Chuyên ngành kinh tế
--bản kế hoạch
--bản kiểm kê
--bảng chi tiết
--bảng danh mục
--bảng giá
--bảng giờ (tàu, xe...)
--bảng giờ giấc
--bảng kê (hàng hóa)
--bảng khai thuế thu nhập
--bảng liệt kê
--bảng phụ lục
--bảng tổng kết tài sản thanh lý (trong một vụ phá sản)
--biểu giá mục
--biểu giá mục (mẫu in)
--biểu thời gian (công tác...)
--biểu tiến độ
--chương trình
--danh mục
--danh mục chương trình
--danh sách
--ghi vào bảng
--làm mục lục, bảng kê
--lập
--lập chương trình (ngày giờ làm việc gì)
--lập lịch trình
--lập thời khóa biểu
--lịch
--mục lục
--phụ lục (kèm thêm)
--sắp đặt
--tập giấy tờ làm việc
--thêm phụ lục (vào bảng tổng kết tài sản)
--thêm phụ lục (vào bảng tổng kết tài sản...)
--tờ khai thu nhập
--tờ khai thu nhập (trong một vụ phá sản)
+-dầu
+-dầu xăng
+-xăng
 @Chuyên ngành kỹ thuật
--bảng giờ tàu
--biểu đồ thi công
--kế hoạch
--lập kế hoạch
--lập lịch biểu
--lịch biểu
--lịch trình
--sơ đồ
-@Lĩnh vực: cơ khí & công trình
--biểu thời gian
--danh mục bản kê
--đồ thị chuyển động
-@Lĩnh vực: giao thông & vận tải
--lập lịch tàu chạy
--lập lịch trình
+-dầu
+-ga
+-khí đốt
+-nhiên liệu
+-xăng
+@Lĩnh vực: ô tô
+-chế hòa khí
+@Lĩnh vực: xây dựng
+-dầu hôi
+-dầu xăng
+-ét xăng
 @Lĩnh vực: toán & tin
--thời biểu
-@Lĩnh vực: điện
--thời gian biểu
+-dầu xăng, dầu hôi
+

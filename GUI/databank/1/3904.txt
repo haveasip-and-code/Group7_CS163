@@ -1,9 +1,10 @@
-attractor	
-@attractor
-- xem attract
+countable
+	
+* tính từ
+- có thể đếm được
 @Chuyên ngành kỹ thuật
+-đếm được
 @Lĩnh vực: toán & tin
--điểm hấp dẫn
-@Lĩnh vực: điện lạnh
--độ khả thính
--độ nghe được
+-có thể tính được
+-tính được
+

@@ -1,6 +1,5 @@
-subterminal	@subterminal /'sʌb'tə:minl/
-*  tính từ
-- gần tận cùng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--gần cuối, gần đầu
+cladode
+	
+* danh từ
+- (thực vật) cành dạng lá
+

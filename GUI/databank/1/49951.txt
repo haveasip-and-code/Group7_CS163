@@ -1,23 +1,5 @@
-serial	@serial /'siəriəl/
-*  tính từ
-- theo từng hàng, theo từng dãy, theo từng chuỗi, theo thứ tự
-- ra theo từng số (truyện in trên báo)
-=serial rights+ bản quyền về truyện in theo từng số
-- ra từng kỳ (tạp chí)
-*  danh từ
-- truyện ra từng số
-- tạp chí
-@Chuyên ngành kỹ thuật
--chuỗi
--hàng loạt
--liên tiếp
--loạt
--nối tiếp
-@Lĩnh vực: xây dựng
--theo loạt
--theo sêri
-@Lĩnh vực: toán & tin
--theo thứ tự
--tuần tự
-@Lĩnh vực: y học
--theo từng hàng, từng dãy liên tiếp
+retell
+	
+*  ngoại động từ retold  /ri:'tould/
+- nói lại, kể lại, thuật lại
+

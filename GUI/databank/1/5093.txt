@@ -1,10 +1,16 @@
-beeves	
-@beeves /bi:f/
-*  (bất qui tắc) danh từ,  số nhiều beeves
-- thịt bò
-- (thường) số nhiều bò thịt (để giết ăn thịt)
-- sức mạnh, thể lực; bắp thịt (người)
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời phàn nàn, lời than vãn
-*  động từ
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) phàn nàn, than vãn
-- to beef up (từ Mỹ,nghĩa Mỹ),  (quân sự) tăng cường (về quân sự)
+cereal
+	
+*  tính từ
+- (thuộc) ngũ cốc
+*  danh từ
+- ((thường) số nhiều) ngũ cốc
+- món ăn (bằng) ngũ cốc
+@Chuyên ngành kinh tế
+-cây ngũ cốc
+-lúa
+-ngũ cốc
+-thuộc ngũ cốc
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: thực phẩm
+-ngũ cốc
+

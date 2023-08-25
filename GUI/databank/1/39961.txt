@@ -1,2 +1,16 @@
-patches	@Chuyên ngành kỹ thuật
--miếng vá
+keystroke
+	
+- (động tác) gõ phím, nhấn phím
+@Chuyên ngành kỹ thuật
+-nhấn phím
+-sự gõ phím
+-sự nhấn phím
+@Lĩnh vực: điện tử & viễn thông
+-đánh phím
+@Chuyên ngành kỹ thuật
+-nhấn phím
+-sự gõ phím
+-sự nhấn phím
+@Lĩnh vực: điện tử & viễn thông
+-đánh phím
+

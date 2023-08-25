@@ -1,68 +1,17 @@
-running	@running /'rʌniɳ/
+locator
+	
 *  danh từ
-- cuộc chạy đua
-=to take up the running; to make the running+ dẫn đầu cuộc chạy đua
-=to be in the running+ có cơ thắng (trong cuộc đấu, trong cuộc chạy đua...)
-=to be out of the running+ không có cơ thắng
-- sự chạy, sự vậm hành (máy...)
-- sự chảy (chất lỏng, mủ...)
-- sự buôn lậu
-- sự phá vòng vây
-- sự quản lý, sự trông nom, sự điều khiển (một nhà máy...)
-*  tính từ
-- chạy đang chạy; tiến hành trong lúc chạy
-=running jump+ nhảy có chạy lấy đà
-=a running flight+ một cuộc chiến đấu săn đuổi nhau
-- chảy, đang chảy
-=running spring+ dòng suối đang chảy
-=running sore+ vết thương đang rỉ mủ
-- di động trượt đi
-=running block puli+ di động
-=running knot+ nút dây thòng lọng
-- liên tiếp, liên tục, liền
-=for several days running+ trong nhiều ngày liền
-=running number+ số thứ tự
-=running hand+ chữ viết liền nét (không nhấc bút lên)
-- hiện nay, đương thời
-=running account+ số tiền hiện gửi
-=a running commentary+ bài tường thuật tại chỗ (trên đài phát thanh...)
-@Chuyên ngành kinh tế
--buôn lậu
--hiện tại
--hiện thời
--liên tục
--lưu động
--máy nghiền thớt
--quản lý (một xí nghiệp...)
--sự điều khiển (một khách sạn...)
--sự khai thác (mỏ, công ty...)
--sự lên men
--sự rời rạc (bột nhào)
--tài khoản vãng lai
--tuyến đường (xe buýt...)
+- (từ Mỹ,nghĩa Mỹ) người quy định ranh giới (một khoảng đất, một khu mỏ...)
 @Chuyên ngành kỹ thuật
--chảy
--chạy (máy)
--hành trình
--liền
--liên tiếp
--liên tục
--sự chảy
--sự chạy
--sự chạy máy
--sự diễn biến
--sự làm việc
--sự tác động
--sự thao tác
--sự thực hiện (phần mềm)
--sự vận hành
--tiến độ thi công
--vận hành
-@Lĩnh vực: cơ khí & công trình
--khoảng chạy (máy)
--sự vận hành máy
-@Lĩnh vực: hóa học & vật liệu
--sự cất
-@Lĩnh vực: giao thông & vận tải
--sự chạy tàu
--sự chạy xe
+-bộ định vị
+-cái định vị
+-chốt định vị
+-máy định vị
+-máy dò
+@Lĩnh vực: xây dựng
+-định vị viên
+@Lĩnh vực: đo lường & điều khiển
+-người định vị
+@Lĩnh vực: y học
+-thiết bị định vị dị vật
+

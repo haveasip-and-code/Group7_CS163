@@ -1,8 +1,4 @@
-thermistor	@Chuyên ngành kỹ thuật
--điện trở nhiệt
--nhiệt điện trở
--nhiệt nhôm
-@Lĩnh vực: đo lường & điều khiển
--nhiệt kế điện tử
-@Lĩnh vực: điện
--nhiệt trở bán dẫn
+paratactically
+	
+- xem parataxis
+

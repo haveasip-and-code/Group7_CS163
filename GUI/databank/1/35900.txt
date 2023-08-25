@@ -1,3 +1,8 @@
-muesli	@muesli
-* danh từ
-- một món ăn điểm tâm
+eating
+	
+*  danh từ
+- sự ăn
+- thức ăn
+=carps are good eating
++ cá chép là thức ăn ngon
+

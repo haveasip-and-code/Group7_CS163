@@ -1,14 +1,8 @@
-replaceable	@replaceable /ri'pleisəbl/
-*  tính từ
-- có thể thay thế
-@Chuyên ngành kinh tế
--bố trí lại
--có thể đổi
--người thay thế
--sản phẩm thay thế, hàng thay thế
--sự sắp xếp lại
--sự thay thế
--vật thay thế
+poplin
+	
+*  danh từ
+- vải pôpơlin
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--thay thế được
+@Lĩnh vực: dệt may
+-vải popơlin
+

@@ -1,49 +1,46 @@
-bush	
-@bush /buʃ/
+bloom
+	
 *  danh từ
-- bụi cây, bụi rậm
-- (the bush) rừng cây bụi
-- râu rậm, tóc râm
-- biển hàng rượu, quán rượu!to beat about the bush
-- (xem) beat!good wine needs no bush
-- (tục ngữ) hữu xạ tự nhiên hương!to take to the bush
-- trốn vào rừng đi ăn cướp
-*  ngoại động từ
-- trồng bụi cây (trên một khoảng đất trống để ngăn ngừa sự săn trộm bằng lưới)
-- bừa (một mảnh ruộng) băng bừa có gài cành cây
+- hoa
+- sự ra hoa
+=in bloom
++ đang ra hoa
+- (nghĩa bóng) tuổi thanh xuân; thời kỳ rực rỡ, thời kỳ tươi đẹp nhất
+=in the full bloom of youth
++ trong lúc tuổi thanh xuân tươi đẹp nhất
+- phấn (ở vỏ quả)
+- sắc hồng hào khoẻ mạnh; vẻ tươi
+=to take the bloom off
++ làm mất tươi
+*  nội động từ
+- có hoa, ra hoa, nở hoa
+- (nghĩa bóng) ở thời kỳ rực rỡ, ở thời kỳ tươi đẹp nhất
 *  danh từ
-- (kỹ thuật) ống lót, cái lót trục
-- (quân sự) ống phát hoả
+- (kỹ thuật) thỏi đúc (sắt thép)
 *  ngoại động từ
-- đặt ống lót, đặt lót trục
+- (kỹ thuật) đúc (sắt thép) thành thỏi
+@Chuyên ngành kinh tế
+-hoa
+-phấn (quả)
 @Chuyên ngành kỹ thuật
--bạc
--bạc lót
--bầu dầu
--bụi cây
--đui
--kíp mìn
--lồng bạc
--lồng ống lót
--lót bạc
--lót trục
--măng sông
--ổ cắm
--ống
--ống bọc
--ống lồng
--ống lót
--ống lót trục
--ống vỏ
--ống xẻ
--vành
--vỏ
+-bi khuấy
+-bi khuấy luyện
+-bọt màn hình
+-làm mờ
+-lớp cán thô/lớp bao phủ
+-phôi lớn
+-phôi ống
+-sắt hạt
+-sự mờ
+-súc
 @Lĩnh vực: xây dựng
--cái lót trục
+-khoáng vật dạng chất
+-làm nhòe
 @Lĩnh vực: cơ khí & công trình
--hộp ổ
--khớp bích (li hợp)
--ống lót (ổ trục)
--phễu náp liệu
+-khối thép
 @Lĩnh vực: hóa học & vật liệu
--vỏ màng bọc
+-khối thép cán
+-màng ẩm
+-phôi lờn
+-tạo thỏi
+

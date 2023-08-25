@@ -1,2 +1,9 @@
-vulcanizate	@Chuyên ngành kỹ thuật
--cao su lưu hóa
+structureless
+	
+-không có cấu trúc
+@Chuyên ngành kỹ thuật
+-không có cấu trúc
+-vô định hình
+@Lĩnh vực: điện lạnh
+-phi cấu trúc
+

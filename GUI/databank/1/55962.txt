@@ -1,3 +1,37 @@
-tenderizer	@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--máy đánh tơi thịt
+bath
+	
+*  danh từ,  số nhiều baths
+- sự tắm
+- chậu tắm, bồn tắm, nhà tắm
+- (số nhiều) nhà tắm có bể bơi
+!bath of blood
+- sự chém giết, sự làm đổ máu
+*  động từ
+- tắm
+=to bath a baby
++ tắm cho đứa bé
+@Chuyên ngành kinh tế
+-bể
+-bình
+-nồi
+-thùng
+@Chuyên ngành kỹ thuật
+-bể
+-bể tắm
+-bình
+-bồn
+-bồn tắm
+-dung dịch
+-nhúng
+-sự tắm
+-tẩm
+@Lĩnh vực: hóa học & vật liệu
+-bề
+-dung dịch mạ
+@Lĩnh vực: dệt may
+-bể dung dịch
+-dung dịch nhuộm
+-dung dịch thuốc nhuộm
+@Lĩnh vực: xây dựng
+-chậu tắm
+

@@ -1,6 +1,5 @@
-indite	
-@indite /in'dait/
-*  ngoại động từ
-- sáng tác, thảo=to a poem
-+ sáng tác một bài thơ
--(đùa cợt) viết (một bức thư...)
+subeditor
+	
+*  danh từ
+- phó chủ bút, thư ký toà soạn, phó tổng biên tập, thư ký ban biên tập
+

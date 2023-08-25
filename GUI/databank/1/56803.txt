@@ -1,12 +1,4 @@
-tit	@tit /tit/
-*  danh từ
-- (thông tục) (như) teat
-*  danh từ
-- (động vật học) chim sẻ ngô
-- (từ cổ,nghĩa cổ) ngựa con
-- (từ cổ,nghĩa cổ) cô gái; cậu bé
-*  danh từ
-- tit for tat ăn miếng trả miếng; to give someone tit for tat trả đũa ai, trả miếng ai
-@Chuyên ngành kỹ thuật
--mấu
--vấu
+introspectively
+	
+- xem introspect
+

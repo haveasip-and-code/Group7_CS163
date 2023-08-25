@@ -1,12 +1,7 @@
-jute	
-@jute /dʤu:t/
-*  danh từ
-- sợi đay
-- (thực vật học) cây đay
-- (định ngữ) (thuộc) đay; bằng đay
+stairwell
+	
+* danh từ
+- phần của ngôi nhà nơi xây cầu thang; chỗ dành cho cầu thang
 @Chuyên ngành kỹ thuật
--cây đay
--đay
--sợi đay
-@Lĩnh vực: xây dựng
--bằng đay
+-lồng cầu thang
+

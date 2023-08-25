@@ -1,13 +1,6 @@
-unrest	@unrest /' n'rest/
-*  danh từ
-- tình trạng không yên ổn, tình trạng náo động
-=public unrest+ tình trạng náo động trong dân chúng
-- sự không yên tâm, sự băn khoăn, sự lo âu
-@Chuyên ngành kinh tế
--biến loạn
--những biến loạn
--sự náo động
--tình trạng không yên ổn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--không yên tâm, náo động
+theorize
+	
+*  nội động từ
+- tạo ra lý thuyết về
+- nói lý luận
+

@@ -1,3 +1,31 @@
-representativity	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tính biểu tượng
+characteristic
+	
+*  tính từ
+- riêng, riêng biệt, đặc thù, đặc trưng
+*  danh từ
+- đặc tính, đặc điểm
+=the characteristic of a society
++ đặc điểm của một xã hội
+@Chuyên ngành kinh tế
+-đặc điểm
+-đặc thù
+-đặc tính
+-đặc trưng
+-riêng
+-riêng biệt
+@Chuyên ngành kỹ thuật
+-chỉ số
+-chỉ tiêu
+-đặc điểm
+-đặc tính
+-đặc trưng
+-đặc tuyến
+-dấu hiệu
+-đường đặc tính
+-đường đặc trưng
+-giá trị
+-thuộc tính
+-tiêu chuẩn
+@Lĩnh vực: toán & tin
+-phần định trị
+

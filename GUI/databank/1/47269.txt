@@ -1,9 +1,7 @@
-retaining	@retaining
-* danh từ
-- sự giữ lại, sự duy trì
+receivables
+	
+-số tiền sẽ được thu
 @Chuyên ngành kỹ thuật
--bảo trì
--duy trì
--giữ
--lấy lại
--tiếp tục
+@Lĩnh vực: hóa học & vật liệu
+-số tiền thu nhận
+

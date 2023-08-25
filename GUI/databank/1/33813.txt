@@ -1,6 +1,5 @@
-maskable	@maskable
-* tính từ
-- có thể che giấu/ngụy trang
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khả ngụy
+doggish
+	
+*  tính từ
+- như chó, chó má, cắn cẩu như chó
+

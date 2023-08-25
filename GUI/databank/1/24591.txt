@@ -1,7 +1,9 @@
-gunpowder	
-@gunpowder
-* danh từ
-- thuốc súng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thuốc đen
+maths
+	
+*  danh từ,  số nhiều dùng như số ít
+- môn toán, toán học
+=pure mathematics
++ toán học thuần tuý
+=applied mathematics
++ toán học ứng dụng
+

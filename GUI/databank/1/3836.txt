@@ -1,7 +1,4 @@
-atresia	
-@atresia
-* danh từ
-- (y học) sự bịt lỗ; sự hẹp lỗ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--hẹp atretic adi
+strings
+	
+-điều kiện ràng buộc
+

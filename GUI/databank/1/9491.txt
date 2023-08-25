@@ -1,18 +1,13 @@
-circumstance	
-@circumstance /'sə:kəmstəns/
-*  danh từ số nhiều
-- hoàn cảnh, trường hợp, tình huống=under (in) the present circumstances
-+ trong hoàn cảnh hiện tại=under (in) no circumstances
-+ dù trong hoàn cảnh nào cũng không bao giờ=to live in narrow circumstances
-+ sống thiếu thốn nghèo túng=in easy (good, flourishing) circumstances
-+ trong hoàn cảnh sung túc phong lưu=in bad (straitened) circumstances
-+ trong hoàn cảnh thiếu thốn túng quẫn
-- sự kiện, sự việc, chi tiết=to tell a story without omitting a single circumstance
-+ kể câu chuyện không bỏ sót một chi tiết nào
-- nghi thức, nghi lễ=to receive someone with pomp and circumstance
-+ tiếp đón ai (với nghi thức) rất trọng thể!to be behind hand in one's circumstances
-- túng thiếu, thiếu tiền!circumstances alter cases
-- tất cả đề chỉ do hoàn cảnh tạo ra cả; có tội lỗi chẳng qua cũng chỉ vì hoàn cảnh xui nên=not a circumstance to
-+ (từ Mỹ,nghĩa Mỹ),  (từ lóng) không thể so sánh với, không ra cái gì khi đem so sánh với
-@Chuyên ngành kỹ thuật
--hoàn cảnh
+surtax
+	
+*  ngoại động từ
+- thuế phụ
+- thuế lợi tức luỹ tiến
+*  ngoại động từ
+- đánh thuế phụ
+@Chuyên ngành kinh tế
+-đánh thuế phụ thu
+-đánh thuế thu nhập lũy tiến siêu ngạch
+-thuế phụ thu
+-thuế thu thêm theo mức thu nhập
+

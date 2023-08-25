@@ -1,7 +1,5 @@
-reflective	@reflective
-* tính từ
-- phản chiếu (nhất là ánh sáng)
-- biết suy nghĩ; có suy nghĩ
-- suy nghĩ, nghi ngờ, trầm ngâm (vẻ)
-@Chuyên ngành kỹ thuật
--phản chiếu
+nucleoprotein
+	
+@Lĩnh vực: y học
+-một hợp chất trong tế bào gồm nueleic axit và protein nguyên sinh tạo thành nhân tế bào
+

@@ -1,13 +1,5 @@
-restricted	@restricted /ris'triktid/
-*  tính từ
-- bị hạn chế, bị giới hạn, bị thu hẹp
-@Chuyên ngành kinh tế
--bị hạn chế
-@Chuyên ngành kỹ thuật
--hạn chế
-@Lĩnh vực: điện lạnh
--bị bó hẹp
--bị giới hạn
--bị hạn chế
-@Lĩnh vực: toán & tin
--bị thu hẹp
+gaucherie
+	
+* danh từ
+- sự vụng về, cách xử sự vụng về
+

@@ -1,5 +1,11 @@
-drachm	
-@drachm /dræm/
-*  danh từ ((cũng) dram)
-- đồng đram (đơn vị đo trọng lượng = 1, 77 gam; dùng trong dược = 3, 56 gam hoặc 3, 56 mililit)
-- lượng nhỏ
+denotation
+	
+*  danh từ
+- sự biểu hiện, sự biểu thị, sự chứng tỏ
+- dấu hiệu
+- nghĩa, ý nghĩa (của một từ)
+- sự bao hàm nghĩa rộng
+@Chuyên ngành kỹ thuật
+-dấu hiệu
+-ký hiệu
+

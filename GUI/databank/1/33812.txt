@@ -1,28 +1,7 @@
-mask	@mask /mɑ:sk/
-*  danh từ
-- mạng che mặt của phụ nữ ngày xưa; mặt nạ ((nghĩa đen) & (nghĩa bóng))
-=to throw off the mask+ lột mặt nạ, vạch trần chân tướng
-=under the mask of virture+ dưới mặt nạ đạo đức; đạo đức giả
-- mặt nạ phòng độc
-*  ngoại động từ
-- đeo mặt nạ cho
-- che giấu, giấu giếm, che kín
-- (quân sự) nguỵ trang (quân đối phương) bằng lực lượng tương xứng; đứng cản đằng trước (quân cùng phe)
-*  nội động từ
-- mang mặt nạ giả trang
+avoidable
+	
+*  tính từ
+- có thể tránh được
 @Chuyên ngành kinh tế
--mặt nạ
-@Chuyên ngành kỹ thuật
--chắn
--che
--che giấu
--dát
--ép
--khuôn mẫu
--nén
--màn chắn
--màn che
--mạng che
--mạng lọc
--mặt nạ
--sự che
+-có thể tránh được
+

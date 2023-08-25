@@ -1,19 +1,4 @@
-erase	
-@erase /i'reiz/
-*  ngoại động từ
-- xoá, xoá bỏ
-@Chuyên ngành kinh tế
--xóa
--xóa bỏ
-@Chuyên ngành kỹ thuật
--đưa về không
--loại bỏ
--phá hủy
--xóa
--xóa bỏ
-@Chuyên ngành kỹ thuật
--đưa về không
--loại bỏ
--phá hủy
--xóa
--xóa bỏ
+insolvably
+	
+- xem insolvable
+

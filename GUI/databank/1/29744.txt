@@ -1,6 +1,17 @@
-invariance	
-@invariance
-- xem invariant
+stair
+	
+*  danh từ
+- bậc thang
+- (số nhiều) cầu thang ((cũng) flight of stairs; pair of stairs)
+!below stairs
+- dưới hầm nhà (chỗ dành riêng cho những người giúp việc ở)
+=this was discussed belows stairs
++ điều đó được những người ở (đầy tớ) bàn ra tán vào
 @Chuyên ngành kỹ thuật
--bất biến
--biến hình
+-bậc
+-bậc (thang)
+-bậc thang
+@Lĩnh vực: xây dựng
+-cầu thang
+-thân cầu thang
+

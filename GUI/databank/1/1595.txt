@@ -1,8 +1,5 @@
-allophone	
-@allophone
-* danh từ
-- (ngôn ngữ) tha âm vị
-@Chuyên ngành kỹ thuật
--âm tố
-@Lĩnh vực: toán & tin
--đơn vị âm
+unisex
+	
+* tính từ
+- cả nam lẫn nữ, phù hợp cho cả hai giới (về phong cách, chức năng)
+

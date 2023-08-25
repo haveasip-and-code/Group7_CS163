@@ -1,44 +1,4 @@
-partition	@partition /pɑ:'tiʃn/
-*  danh từ
-- sự chia ra
-- ngăn phần
-- liếp ngăn, bức vách ngăn
-- (chính trị) sự chia cắt đất nước
-- (pháp lý) sự chia tài sản
-*  ngoại động từ
-- chia ra, chia cắt, ngăn ra
-!to partiton off
-- ngăn (một căn phòng...) bằng bức vách
-@Chuyên ngành kỹ thuật
--chia
--chia phần
--đoạn
--ngăn
--phần
--phân chia
--phân đoạn
--sự chia ra
--sự ngăn
--sự phân bố
--sự phân chia
--sự phân đoạn
--sự phân đôi
--sự tách
--tấm ngăn
--tường trong
--vách
--vách (ngăn)
--vách chắn
-@Lĩnh vực: xây dựng
--phần chia
--vách ngăn
-@Lĩnh vực: toán & tin
--phần dành riêng
--phân hoạch
--phân khu
--sự phân hoạch
--vùng
-@Lĩnh vực: cơ khí & công trình
--sự phân ra
-@Lĩnh vực: vật lý
--sự tách đồng vị
+bathymetric
+	
+- xem bathymetry
+

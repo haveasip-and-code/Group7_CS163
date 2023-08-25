@@ -1,23 +1,16 @@
-west	@west /west/
+splint
+	
 *  danh từ
-- hướng tây, phưng tây, phía tây
-- miền tây
-- (the West) phưng tây, các nước phưng tây; miền tây nước Mỹ; miền tây nước Anh; xứ Ê-cốt, xứ Ai-len
-- gió tây
-*  tính từ
-- tây
-=west longitude+ độ kinh tây
-=a west wind+ gió tây
-*  phó từ
-- về hướng tây; ở phía tây
-=to sail west+ chạy về hướng tây (tàu)
-!to go west
-- (xem) go
-@Chuyên ngành kinh tế
--các nước phương Tây
--Phương Tây
+- thanh nẹp
+- (thú y học) xương ngón treo (xương ngón II và IV đã teo nhỏ ở hai bên ngón chân ngựa)
+- bướu xương ngón treo (ngựa)
+- (giải phẫu) (như) splinter
+-bone
+*  ngoại động từ
+- bó (xương gãy) bằng nẹp
 @Chuyên ngành kỹ thuật
--hướng Tây
--phía tây
-@Lĩnh vực: giao thông & vận tải
--về phía tây
+-chốt chẻ
+-mặt tiếp giáp
+-phoi
+-thanh nẹp
+

@@ -1,11 +1,8 @@
-ablution	
-@ablution /ə'blu:ʃn/
-*  danh từ,  (thường) số nhiều
-- (tôn giáo) lễ rửa tội; lễ tắm gội; lễ rửa sạch các đồ thờ
-- (tôn giáo) nước tắm gội; nước rửa đồ thờ
-- ((thường) số nhiều) sự tắm gội, sự rửa ráy
+ultrafiltrate
+	
+* danh từ
+- vật liệu siêu lọc
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự tắm, rửa
 @Lĩnh vực: hóa học & vật liệu
--tẩy sạch
+-chất siêu lọc
+

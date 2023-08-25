@@ -1,7 +1,6 @@
-combinatorial	
-@combinatorial /kəm,bainə'tɔ:riəl/
-*  tính từ
-- tổ hợp=combinatorial mathematical logic
-+ toán tổ hợp
-@Chuyên ngành kỹ thuật
--tổ hợp
+legalize
+	
+*  ngoại động từ
+- hợp pháp hoá
+- công nhận, chứng nhận (về pháp lý)
+

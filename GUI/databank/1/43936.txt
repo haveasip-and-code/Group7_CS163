@@ -1,10 +1,8 @@
-projectile	@projectile /projectile/
+pisiform
+	
 *  tính từ
-- phóng ra, bắn ra
-=projectile force+ sức phóng ra, sức bắn ra
-- có thể phóng ra, có thể bắn ra
-*  danh từ
-- vật phóng ra, đạn bắn ra
+- hình hột đậu
 @Chuyên ngành kỹ thuật
--đạn
--đầu đạn
+@Lĩnh vực: y học
+-hình hạt đậu
+

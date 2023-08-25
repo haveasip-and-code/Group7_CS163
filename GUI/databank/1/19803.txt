@@ -1,9 +1,4 @@
-expanding	
-@Chuyên ngành kỹ thuật
--sự giãn nở
-@Lĩnh vực: điện lạnh
--sự nở rộng
-@Chuyên ngành kỹ thuật
--sự giãn nở
-@Lĩnh vực: điện lạnh
--sự nở rộng
+unidimensional
+	
+-một chiều
+

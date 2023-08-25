@@ -1,6 +1,7 @@
-robotization	@Chuyên ngành kinh tế
--người máy hóa
--ro-bốt hóa
--rô-bốt hóa
--sự điều khiển bằng người máy
--tự động hóa
+nonlinear
+	
+- phi tuyến
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-không phi tuyến
+

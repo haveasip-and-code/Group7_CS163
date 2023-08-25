@@ -1,14 +1,7 @@
-rounding	@rounding
-* danh từ
-- sự lượn tròn
-- sự làm tròn
-- sự vê tròn (đầu răng)
-@Chuyên ngành kinh tế
--làm tròn
-@Chuyên ngành kỹ thuật
--hàm làm tròn lên
--làm tròn
--sự làm tròn
--sự vê tròn
+payments
+	
+-sự thanh toán
+-sự tính toán
 @Lĩnh vực: toán & tin
--chức năng làm tròn
+-tiền trả
+

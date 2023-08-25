@@ -1,5 +1,15 @@
-vinculum	@vinculum
-- dấu gạch trên biểu thức
+heal
+	
+*  ngoại động từ
+- chữa khỏi (bệnh...), làm lành (vết thương...)
+=to heal someone of a disease
++ chữa cho ai khỏi bệnh gì
+- hàn gắn (mối quan hệ bị nứt rạn)
+=to heal a rift
++ hàn gắn mối quan hệ bị nứt rạn
+- dàn hoà, hoà giải (mối bất hoà...)
+*  nội động từ
+- lành lại (vết thương)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dải hãm
+-lành
+

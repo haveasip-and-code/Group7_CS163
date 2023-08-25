@@ -1,12 +1,5 @@
-efflorescence	
-@efflorescence
-* danh từ
-- sự nở hoa
-@Chuyên ngành kinh tế
--sự lên hoa
--sự nở hoa
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--lên hoa
-@Lĩnh vực: xây dựng
--sự bay màu
+phycology
+	
+@Lĩnh vực: y học
+-tảo học
+

@@ -1,8 +1,5 @@
-purger	@purger
-- xem purge
-@Chuyên ngành kỹ thuật
--máy làm sạch
--máy lọc
--máy tách
-@Lĩnh vực: xây dựng
--vòi tháo rửa
+imperatively
+	
+* phó từ
+- với vẻ sai khiến, với vẻ ra lệnh
+

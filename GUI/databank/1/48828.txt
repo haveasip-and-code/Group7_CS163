@@ -1,57 +1,52 @@
-save	@save /seiv/
+lodge
+	
 *  danh từ
-- (thể dục,thể thao) sự phá bóng cứu nguy (chặn không cho đối phương ghi bàn) (bóng đá)
+- nhà nghỉ (ở nơi săn bắn)
+- túp lều (của người da đỏ)
+- nhà người giữ cửa (công viên); nhà người thường trực
+- hàng thú
+- nơi họp của hội Tam điểm; chi nhánh của hội Tam điểm
+=grand lodge
++ ban lânh đạo của hội Tam điểm (hay của hội cùng loại)
+- nhà hiệu trưởng (trường đại học Căm
+-brít)
 *  ngoại động từ
-- cứu nguy
-=to save somebody from drowning+ cứu ai khỏi chết đuối
-=to save the situation+ cứu vãn tình thế
-- (thể dục,thể thao) phá bóng cứu nguy
-- cứu vớt
-=to save someone's soul+ cứu vớt linh hồn ai
-- để dành, tiết kiệm
-=to save one's strength+ giữ sức
-- tránh (cho ai) đỡ (cho ai) khỏi phải (tiêu tiền, mất sức...); tránh khỏi phải, đỡ khỏi phải
-=his secretary saved him much time+ người thư ký đỡ cho ông ta được nhiều thời gian
-=soap saves rubbing+ có xà phòng thì đỡ phải vò
-- kịp, đuổi kịp
-=he wrote hurriedly to save the post+ anh ấy viết vội để kịp gởi bưu điện
+- cho ở, cho trọ, chứa trọ là nơi ở cho (ai); chứa đựng
+- gửi (ở ngân hàng...); đưa, trao
+=to lodge money in the bank
++ gửi tiền ở ngân hàng
+=to lodge a postest with
++ đưa cho một bản kháng nghị
+=to lodge power with someone
++ trao quyền hành cho ai
+- đệ đơn kiện
+- bắn vào, đặt vào, giáng
+=to lodge a blow on someone's jaw
++ giáng một quả đấm vào quai hàn ai
+- tìm ra (hang thú); tìm thấy (dấu vết của hang thú)
+- đè rạp (gió)
+=the wind lodged the yellow rice plants
++ gió đè rạp những cây lúa vàng
 *  nội động từ
-- tằn tiện, tiết kiệm
-=a saving housekeeper+ một người nội trợ tằn tiện
-=he has never saved+ hắn chả bao giờ tiết kiệm
-- bảo lưu
-=saving clause+ điều khoản bảo lưu, điều khoản trong có nói đến sự miễn giảm
-!to save one's bacon
-- cứu lấy cái thần xác mình
-!to save one's breath
-- làm thinh
-!to save one's face
-- (xem) face
-!saving your respect
-- xin mạn phép ông
-!you may save your pains (trouble)
-- anh chẳng cần phải bận bịu vào việc ấy; anh có chịu khó thì cũng chẳng ăn thua gì
-!a stitch in time saves nine
-- (xem) stitch
-*  giới từ & liên từ
-- trừ ra, ngoài ra
-=all save the reactionary, are for social progress+ trừ bọn phản động ra, ai cũng ủng hộ mọi tiến bộ xã hội
+- ở, cư trú
+- trọ, tạm trú
+=to lodge in someone's house
++ trọ ở nhà ai
+- nằm, ở
+=bullet lodged in arm
++ viên đạn nằm ở trong cánh tay
 @Chuyên ngành kinh tế
--cứu giúp
--cứu giúp, cứu nguy
--cứu nguy
--để dành tiền
--tiết kiệm
--tiết kiệm (thời gian, sức...)
--tiết kiệm, để dành tiền
+-cho trọ
+-gửi
+-ký gửi
+-nộp
+-ở trọ
 @Chuyên ngành kỹ thuật
--bảo vệ
--lưu
--nhớ
--sự bảo vệ
--sự cất giữ
--sự nhớ
-@Lĩnh vực: toán & tin
--cất, giữ
--sự lưu
--thu sai
+-lều
+@Lĩnh vực: xây dựng
+-trạm gác
+@Chuyên ngành kỹ thuật
+-lều
+@Lĩnh vực: xây dựng
+-trạm gác
+

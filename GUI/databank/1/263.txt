@@ -1,50 +1,6 @@
-abutment	
-@abutment /ə'bʌtmənt/
-*  danh từ
-- giới hạn, biên giới, chỗ tiếp giáp
-- tường chống, trụ chống; trụ đá (xây ở hai đầu cầu)
-@Chuyên ngành kỹ thuật
--bệ
--chân
--cột chống
--đế tựa
--điểm dừng
--đối đầu
--đường biên
--giá đỡ
--giáp mối
--gối đỡ
--nối chữ T
--mố
--mố cầu
--sự nối
--sự nối đầu
--sự tiếp
--thanh chống
--trụ
--trụ cầu
--trụ chống
--trụ đỡ
-@Lĩnh vực: toán & tin
--áp lực treo trục
-@Lĩnh vực: xây dựng
--bệ gối tựa
--bệ tựa
--chân cầu
--chân cuốn
--chân vàm
--cột (chống)
--cột neo bến cảng
--gối trụ
--mố (cầu)
--mố biên
--mố bờ
--sự nối tiếp đầu
--tà vẹt gỗ
--trụ chống, trụ đá
--trụ vòm
-@Lĩnh vực: cơ khí & công trình
--khối tựa vai đập
--vai đập
-@Lĩnh vực: ô tô
--vết tiếp xúc
+specialised
+	
+* tính từ
+- chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
+- chuyên; (thuộc) chuyên gia, liên quan đến chuyên gia
+

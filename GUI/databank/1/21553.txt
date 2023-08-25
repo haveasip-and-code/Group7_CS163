@@ -1,5 +1,18 @@
-flowerage	
-@flowerage /flowerage/
+server
+	
 *  danh từ
-- hoa (nói chung)
-- sự nở hoa, sự khai hoa
+- người hầu; người hầu bàn
+- khay bưng thức ăn
+- (thể dục,thể thao) người giao bóng (quần vợt...)
+- người phụ lễ
+@Chuyên ngành kỹ thuật
+-nhân viên công vụ
+-máy chủ
+-máy tính chủ
+@Lĩnh vực: điện tử & viễn thông
+-bộ trợ giúp
+@Lĩnh vực: toán & tin
+-chương trình dịch vụ
+-máy phục vụ
+-máy tính phục vụ
+

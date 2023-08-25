@@ -1,15 +1,10 @@
-incubator	
-@incubator /'inkjubeitə/
-*  danh từ
-- lò ấp trứng
-- lồng nuôi trẻ em đẻ non
-@Chuyên ngành kinh tế
--lò ấp trứng
--phòng nuôi cấy
+baseline
+	
+- (Tech) đường gốc, đường không; đường quét
 @Chuyên ngành kỹ thuật
--lồng ấp
-@Lĩnh vực: hóa học & vật liệu
--máy ấp
-@Lĩnh vực: vật lý
--máy ấp (vi sinh)
--tủ ấp
+-đường cơ sở
+-đường gốc
+-đường kế
+@Lĩnh vực: điện tử & viễn thông
+-đường dây gốc
+

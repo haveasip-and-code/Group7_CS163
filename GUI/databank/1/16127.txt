@@ -1,10 +1,69 @@
-dissolvent	
-@dissolvent /di'zɔlvənt/
-*  tính từ
-- làm hoà tan; làm tan ra
+entry
+	
 *  danh từ
-- dung môi, chất làm tan
+- sự đi vào
+- (sân khấu) sự ra (của một diễn viên)
+- lối đi vào, cổng đi vào
+- (pháp lý) sự tiếp nhận
+- sự ghi vào (sổ sách); mục (ghi vào sổ)
+- mục từ (trong từ điển)
+- danh sách người thi đấu; sự ghi tên người thi đấu
 @Chuyên ngành kinh tế
--dung môi tan được
+-bút toán
+-cửa vào
+-ghi
+-giấy khai hải quan
+-khai hải quan
+-sự đi vào
+-sự ghi vào sổ kế toán
+-sự khai hải quan
+-thâm nhập
+-thâm nhập (thị trường)
+-tiến nhập
 @Chuyên ngành kỹ thuật
--dung môi
+-cửa vào
+-đầu vào
+-hầm lò
+-lối vào
+-lối vào (bảng)
+-nhập mục
+-mục nhập
+-sự đưa vào
+-sự nhập
+-sự vào
+-tiếp nhận
+-vận chuyển
+@Lĩnh vực: toán & tin
+-đầu nhập
+-mục ghi chú
+-mục vào
+-sự gia nhập
+@Lĩnh vực: hóa học & vật liệu
+-lò chuẩn bị
+-vào sổ
+@Lĩnh vực: xây dựng
+-lối đi vào
+@Chuyên ngành kỹ thuật
+-cửa vào
+-đầu vào
+-hầm lò
+-lối vào
+-lối vào (bảng)
+-nhập mục
+-mục nhập
+-sự đưa vào
+-sự nhập
+-sự vào
+-tiếp nhận
+-vận chuyển
+@Lĩnh vực: toán & tin
+-đầu nhập
+-mục ghi chú
+-mục vào
+-sự gia nhập
+@Lĩnh vực: hóa học & vật liệu
+-lò chuẩn bị
+-vào sổ
+@Lĩnh vực: xây dựng
+-lối đi vào
+

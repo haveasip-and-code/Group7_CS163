@@ -1,5 +1,28 @@
-waterlog	@waterlog
-* ngoại động từ
-- làm ngập nước; đánh chìm (tàu)
-- làm cho lầy lội
-- ngâm; đầm; làm ướt
+flooring
+	
+*  danh từ
+- nguyên vật liệu làm sàn
+- sự làm sàn nhà
+@Chuyên ngành kỹ thuật
+-lớp mặt
+-lớp trát mặt
+-nền nhà
+-sàn
+-sự lát nền
+-sự lát ván
+-sự ốp ván
+-ván sàn
+@Lĩnh vực: xây dựng
+-sự lát sàn
+@Chuyên ngành kỹ thuật
+-lớp mặt
+-lớp trát mặt
+-nền nhà
+-sàn
+-sự lát nền
+-sự lát ván
+-sự ốp ván
+-ván sàn
+@Lĩnh vực: xây dựng
+-sự lát sàn
+

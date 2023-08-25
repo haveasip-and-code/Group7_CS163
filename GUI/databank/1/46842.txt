@@ -1,10 +1,6 @@
-repeating	@repeating
-* tính từ
-- tuần hoàn
-= repeating decimal+số lẻ tuần hoàn
-- liên châu
-= repeating rifle+súng liên châu
-- đánh theo định kỳ
-= repeating watch+đồng hồ điểm chuông theo định kỳ
-@Chuyên ngành kỹ thuật
--sự lặp lại
+outmarch
+	
+*  ngoại động từ
+- tiến quân nhanh hơn
+- bỏ xa, vượt xa
+

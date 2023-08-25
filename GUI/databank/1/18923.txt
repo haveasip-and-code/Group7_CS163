@@ -1,6 +1,43 @@
-equivocalness	
-@equivocalness /i,kwivə'kæliti/ (equivocalness) /i'kwivəkəlnis/
+verge
+	
 *  danh từ
-- tính lập lờ, tính nước đôi; lời nói hai nghĩa
-- tính khả nghi, tính đáng ngờ
-- tính không rõ rệt, tính không chắc chắn, tính không quyết định
+- bờ, ven
+=the verge of road
++ ven đường
+=the verge of a forest
++ ven rừng
+- bờ cỏ (của luống hoa...)
+- (kỹ thuật) thanh, cần
+- (kiến trúc) thân cột
+- (kiến trúc) rìa mái đầu hồi
+- (tôn giáo) gậy quyền
+!on the verge of
+- sắp, gần, suýt
+=on the verge of doing something
++ sắp làm một việc gì
+=to be on the verge of forty
++ gần bốn mươi tuổi
+*  nội động từ
+- nghiêng, xế
+=the sun was verging towards the horizon
++ mặt trời xế về chân trời
+- tiến sát gần
+=he is verging towards sixty
++ ông ấy gần sáu mươi tuổi
+!to verge on
+- sát gần, giáp, kề, gần như
+=boredom verging on tears
++ nỗi buồn chán gần khóc lên được
+@Chuyên ngành kỹ thuật
+-bờ
+-cạnh
+-lề đường
+-mép
+-ranh giới
+-thân cột
+@Lĩnh vực: y học
+-chu kỳ, bờ, ven
+@Lĩnh vực: xây dựng
+-mái ở biên
+-rìa mái
+

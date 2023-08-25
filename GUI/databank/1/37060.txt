@@ -1,11 +1,9 @@
-nosed	@nosed
-- (tạo thành tính từ kép) có cái mũi như thế nào đó
-- red-nosed
-- mũi đỏ
-- long-nosed
-- mũi dài
-- (tạo thành tính từ kép) có cái mũi như thế nào đó
-- red-nosed
-- mũi đỏ
-- long-nosed
-- mũi dài
+chandelier
+	
+*  danh từ
+- đèn treo nhiều ngọn, chúc đài treo
+@Chuyên ngành kỹ thuật
+-đèn chùm
+@Lĩnh vực: xây dựng
+-đèn treo nhiều ngọn
+

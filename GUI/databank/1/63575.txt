@@ -1,3 +1,5 @@
-zeroth	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--thứ không, đầu tiên
+telefacsimile
+	
+-điện báo ảnh qua điện thoại
+-fax điện thoại
+

@@ -1,51 +1,7 @@
-bid	
-@bid /bid/
-*  danh từ
-- sự đặt giá, sự trả giá (trong một cuộc bán đấu giá)
-- sự bỏ thầu
-- (thông tục) sự mời
-- sự xướng bài (bài brit)!to make a bid for
-- tìm cách để đạt được, cố gắng để được
-*  (bất qui tắc) động từ bad,  bade,  bid; bidden,  bid
-- đặt giá=he bids 300d for the bicycle
-+ anh ấy đặt giá cái xe đạp 300 đồng
-- (từ Mỹ,nghĩa Mỹ) thầu=the firm decided to bid on the new bridge
-+ công ty ấy quyết định thầu làm cái cầu mới
-- mời chào=a bidden guest
-+ người khách được mời đến=to bid someone good
--bye (farewell)
-+ chào tạm biệt ai=to bid welcome
-+ chào mừng
-- công bố=to bid the banns
-+ công bố hôn nhân ở nhà thờ
-- xướng bài (bài brit)
-- (văn học),  (thơ ca); (từ cổ,nghĩa cổ) bảo, ra lệnh, truyền lệnh=bid him come in
-+ bảo nó vào!to bid against (up, in)
-- trả hơn tiền; tăng giá!to bid fair
-- hứa hẹn; có triển vọng=our plan bids fair to succeed
-+ kế hoạch của chúng nó có triển vọng thành công
-@Chuyên ngành kinh tế
--bỏ thầu
--đặt giá
--đấu giá
--giá đưa ra
--giá hỏi mua
--giá trả (đấu giá, đấu thầu)
--kêu giá
--sự đấu thầu
--sự gọi thầu
--sự ra giá
+suffocating
+	
+*  tính từ
+- nghẹt thở, ngột ngạt
 @Chuyên ngành kỹ thuật
--đấu thầu
--giấy nhận thầu
--sự đề nghị
--sự gọi thầu
-@Lĩnh vực: hóa học & vật liệu
--đặt giá
-@Lĩnh vực: xây dựng
--đấu giá
--thầu
-@Lĩnh vực: cơ khí & công trình
--sự bỏ thầu
-@Lĩnh vực: toán & tin
--yêu cầu quyền truyền
+-ngột ngạt
+

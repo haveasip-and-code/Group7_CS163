@@ -1,6 +1,16 @@
-turquoise	@turquoise /'tə:kwɑ:z/
+compiler
+	
 *  danh từ
-- ngọc lam
-- màu ngọc lam ((cũng) turquoise blue)
+- người biên soạn, người sưu tập tài liệu
+@Chuyên ngành kinh tế
+-người biên soạn
+-người sưu tập tài liệu
 @Chuyên ngành kỹ thuật
--ngọc lam
+-người soạn
+-trình biên dịch
+@Lĩnh vực: toán & tin
+-bộ biên dịch
+-chương trình biên dịch
+@Lĩnh vực: xây dựng
+-soạn giả
+

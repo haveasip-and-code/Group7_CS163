@@ -1,7 +1,12 @@
-menthol	@menthol /'menθɔl/
+infix
+	
 *  danh từ
-- (hoá học) Mentola
+- (ngôn ngữ học) trung tố
+*  ngoại động từ
+- gắn (cái gì vào cái gì)
+- in sâu, khắc sâu (vào trí óc...)
+- (ngôn ngữ học) thêm trung tố
 @Chuyên ngành kỹ thuật
--long não
 @Lĩnh vực: xây dựng
--bạc hà
+-trung tố
+

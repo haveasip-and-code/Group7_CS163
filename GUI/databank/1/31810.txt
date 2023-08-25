@@ -1,2 +1,7 @@
-led	@led /led/
-*  động tính từ quá khứ của lead
+changeover
+	
+-sự thay đổi hệ thống làm việc
+-sự thay đổi thiết bị
+@Chuyên ngành kỹ thuật
+-sự chỉnh lại
+

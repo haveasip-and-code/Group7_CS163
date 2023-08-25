@@ -1,11 +1,11 @@
-awe	
-@awe /ɔ:/
-*  danh từ
-- ván cánh bánh xe nước
-*  danh từ
-- sự sợ hãi, nỗi kinh sợ=to stand in awe of somebody
-+ kinh sợ ai=to keep (hold) somebody in awe
-+ làm cho ai kinh sợ=to be struck with awe
-+ sợ hãi
-*  ngoại động từ
-- làm sợ hãi, làm kinh sợ
+subprogram
+	
+* danh từ
+- chương trình con (toán)
+@Chuyên ngành kỹ thuật
+-chương trình phụ
+-thường trình con
+@Lĩnh vực: toán & tin
+-chương trình được gọi
+-trình con
+

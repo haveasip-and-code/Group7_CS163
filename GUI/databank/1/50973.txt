@@ -1,39 +1,5 @@
-skid	@skid /skid/
-*  danh từ
-- má phanh
-- sống trượt
-- sự quay trượt; sự trượt bánh
-- (hàng không) nạng đuôi
-!on the skids
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gặp tai hoạ đến nơi
-- xuống chó, xuống dốc (bóng)
-*  động từ
-- chèn; chặn
-- trượt (xe, bánh xe); làm cho (xe, bánh xe) trượt
-@Chuyên ngành kỹ thuật
--bàn trượt
--canh
--chặn
--đường dẫn hướng
--đường trượt
--giá trượt
--guốc hãm
--guốc phanh
--làm trượt
--má phanh
--ô tô trượt bánh
--phanh
--sự trượt
-@Lĩnh vực: xây dựng
--bệ chống trượt
--kê
-@Lĩnh vực: vật lý
--bộ bốc dỡ
--khung bốc dỡ
-@Lĩnh vực: cơ khí & công trình
--con lăn (để di chuyển khối nặng)
--quay không (bánh xe)
--quay trượt
-@Lĩnh vực: hóa học & vật liệu
--đế trượt
--sự trượt bánh
+shunted
+	
+* tính từ
+- được mắc sun, được phân dòng
+

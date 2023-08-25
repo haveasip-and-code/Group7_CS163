@@ -1,31 +1,6 @@
-accident	
-@accident /'æksidənt/
-*  danh từ
-- sự rủi ro, tai nạn, tai biến=without accident
-+ an toàn không xảy ra tai nạn=to meet with an accident
-+ gặp rủi ro; gặp tai nạn, gặp tai biến
-- sự tình cờ, sự ngẫu nhiên=by accident
-+ tình cờ, ngẫu nhiên
-- cái phụ, cái không chủ yếu
-- sự gồ ghề, sự khấp khểnh
-- (âm nhạc) dấu thăng giáng bất thường
-@Chuyên ngành kinh tế
--sự cố bất ngờ
--sự rủi ro
--tai biến
--tai nạn
-@Chuyên ngành kỹ thuật
--hỏng hóc
--sự cố
--sự hỏng
--sự hỏng hóc
--sự hư hỏng
--sự ngẫu nhiên
--sự rủi ro
-@Lĩnh vực: cơ khí & công trình
--địa hình gồ ghề
-@Lĩnh vực: xây dựng
--địa hình mấp mô
--sự việc ngẫu nhiên
-@Lĩnh vực: toán & tin
--trường hợp không may
+dredging
+	
+-sự nạo vét
+@Lĩnh vực: hóa học & vật liệu
+-nạo vét (bùn)
+

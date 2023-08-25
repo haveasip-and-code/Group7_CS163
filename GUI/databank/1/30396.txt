@@ -1,7 +1,9 @@
-jetliner	
-@jetliner
-* danh từ
-- máy bay phản lực
-@Chuyên ngành kinh tế
--máy bay phản lực bay theo tuyến định kỳ
--máy bay phản lực chở khách
+incurve
+	
+*  ngoại động từ
+- uốn cong vào, bẻ cong vào
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-bẻ cong vào
+-uốn cong vào
+

@@ -1,10 +1,18 @@
-flocculator	
-@flocculator
+chasing
+	
 * danh từ
-- chất kết bông
+- sự cắt ren (bằng dao)
+- sự khấu quặng theo phương mạch
 @Chuyên ngành kỹ thuật
--đông tụ
--keo tụ
-@Chuyên ngành kỹ thuật
--đông tụ
--keo tụ
+-ép trồi
+-sự cắt ren
+-sự dập nổi
+-sự theo dõi
+-sự xảm
+@Lĩnh vực: xây dựng
+-hình dập nổi
+-sự xén ngọn
+-tranh khắc nổi
+@Lĩnh vực: cơ khí & công trình
+-sự lăn ren
+

@@ -1,4 +1,55 @@
-etamine	
-@etamine
-* danh từ
-- vải mỏng; vải mặt rây
+outline
+	
+*  danh từ
+- nét ngoài, đường nét
+- hình dáng, hình bóng
+=the outline of a church
++ hình bóng của một toà nhà thờ
+- nét phác, nét đại cương; đề cương; sự vạch ra những nét chính (của một kế hoạch...)
+- (số nhiều) đặc điểm chính, nguyên tắc chung
+*  ngoại động từ
+- vẽ phác, phác thảo
+- vẽ đường nét bên ngoài, vạch hình dáng bên ngoài
+=the mountain range was clearly outlined against the morning sky
++ dãy núi in hình rõ lên nền trời buổi sáng
+- thảo những nét chính, phác ra những nét chính (của một kế hoạch...)
+@Chuyên ngành kinh tế
+-bản giới thiệu tóm tắt (xí nghiệp)
+-bản phác họa
+-đề cương
+-nét chính
+-nêu những nét chính
+-phác họa
+-trình bày sơ lược
+@Chuyên ngành kỹ thuật
+-bản tóm tắt
+-bản vẽ phác
+-biên
+-biên dạng mặt cắt
+-chu tuyến
+-đề cương
+-đường bao
+-đường nét
+-đường vẽ phác
+-đuờng viền
+-đường viền
+-hình bên ngoài
+-hình dáng
+-hình dạng bên ngoài
+-hình phác họa
+-hình thể
+-mặt cắt
+-phác thảo
+-phân cảnh
+-vành
+-vẽ đường bao
+-vẽ đường viền
+@Lĩnh vực: xây dựng
+-đường viền nhìn thấy
+-hình dáng ngoài
+-nét nổi bật
+@Lĩnh vực: điện tử & viễn thông
+-ngoại tuyến
+@Lĩnh vực: ô tô
+-phủ nhựa
+

@@ -1,10 +1,19 @@
-fleshy	
-@fleshy /fleshy/
-*  tính từ
-- béo; có nhiều thịt, nạc
-- như thịt
-- nhiều thịt, nhiều cùi
+unpack
+	
+*  ngoại động từ
+- mở (gói, va li...) tháo (kiện hàng)
 @Chuyên ngành kinh tế
--có phần nạc
--có thịt
--nạc
+-mở gói
+-tháo (kiện)
+@Chuyên ngành kỹ thuật
+-dỡ
+-tháo
+@Lĩnh vực: toán & tin
+-bung (dữ liệu)
+-dỡ nén
+-giải nén
+-không nén, giải nén
+-tháo nén
+@Lĩnh vực: xây dựng
+-mở thùng
+

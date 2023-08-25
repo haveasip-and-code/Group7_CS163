@@ -1,27 +1,5 @@
-jobber	
-@jobber /'dʤɔbə/
-*  danh từ
-- người làm thuê việc lặt vặt; người làm khoán
-- kẻ đầu cơ
-- người môi giới chạy hàng xách
-- người buôn bán cổ phần (chứng khoán)
-- (từ Mỹ,nghĩa Mỹ) người bán buôn
-- người cho thuê ngựa, người cho thuê xe
-- kẻ lợi dụng chức vụ để xoay sở kiếm chác
-@Chuyên ngành kinh tế
--công ty cổ phiếu
--người buôn sỉ
--người kinh doanh
--người làm khoán
--người làm thuê việc lặt vặt
--người môi giới cổ phiếu
--người môi giới hối đoái
--người mua bán chứng khoán
--người thầu lại
-@Chuyên ngành kỹ thuật
--người bán lại
--người làm khoán
-@Lĩnh vực: hóa học & vật liệu
--nhà thầu phụ
-@Lĩnh vực: xây dựng
--thợ làm khoán
+grimly
+	
+* phó từ
+- không lay chuyển được, dứt khoát
+

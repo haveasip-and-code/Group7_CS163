@@ -1,4 +1,19 @@
-chats	
+vendor
+	
+*  danh từ
+- (như) vender
+- (pháp lý) người bán nhà đất
+- (từ Mỹ,nghĩa Mỹ) (như) vending_machine
+@Chuyên ngành kinh tế
+-bên bán
+-người bán
+-người bán hàng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--vụn đá trong quặng
+-chủ bán
+-đại lý
+-người bán
+-nhà cung cấp
+@Lĩnh vực: toán & tin
+-cung cấp
+-đại lý, cung cấp
+

@@ -1,13 +1,66 @@
-detached	
-@detached /di'tætʃt/
-*  tính từ
-- rời ra, tách ra, đứng riêng ra=a detached house
-+ căn nhà xây tách riêng ra, nhà đứng chơ vơ một mình=to live a detached life
-+ sống cuộc đời tách rời
-- không lệ thuộc; vô tư, không thiên kiến, khách quan=a detached view
-+ quan điểm vô tư
+receiver
+	
+*  danh từ
+- người nhận, người lĩnh
+- (pháp lý) người quản lý tài sản (tài sản đang tranh tụng hoặc của một công ty bị vỡ nợ, được một toà án chỉ định)
+- người chứa chấp đồ trộm cắp
+- (kỹ thuật),  (hoá học) bình chứa, thùng chứa, bể chứa
+- (rađiô) máy thu
+- ống nghe (máy điện thoại)
+=to lift the receiver
++ nhấc ống nghe lên
+@Chuyên ngành kinh tế
+-bể chứa
+-bể lắng
+-bình chứa
+-máy thu
+-người chứa chấp hàng hóa trộm cắp
+-người nghe điện thoại
+-người nhận
+-người nhận điện thoại
+-người nhận hàng
+-người nhận tiền
+-người quản lý tài sản phá sản
+-người thu
+-người thụ lý tài sản
+-ống nghe (điện thoại)
+-thanh lý viên
+-thiết bị lắng
+-thùng chứa
 @Chuyên ngành kỹ thuật
--tách rời
--tháo ra
+-bể chứa
+-bình chứa
+-bộ nhận
+-đồ chứa
+-đồ đựng
+-người nhận
+-máy thu
+-máy thu thanh
+-mưa ghi
+-mưa nhận
+-mưa thu
+-ống nghe
+@Lĩnh vực: hóa học & vật liệu
+-bể chứa (tinh lọc dầu)
+-bình thu
+-bộ phận tiếp nhận
+-ống tiếp nhận
+@Lĩnh vực: y học
+-bình hứng, bình thu
+@Lĩnh vực: xây dựng
+-bộ thu
 @Lĩnh vực: toán & tin
--bị tách ra
+-bội thu
+-đối tượng nhận
+-thực thể nhận
+@Lĩnh vực: cơ khí & công trình
+-chuông bơm nén khí
+@Lĩnh vực: ô tô
+-khớp nối rơ moóc
+@Lĩnh vực: điện tử & viễn thông
+-ống nghe (điện thoại)
+@Lĩnh vực: điện
+-thiết bị thu
+@Lĩnh vực: vật lý
+-thùng gom
+

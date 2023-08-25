@@ -1,6 +1,8 @@
-unreachable	@unreachable /' n'ri:t  bl/
-*  tính từ
-- không chìa ra được, không đưa ra được
-- không thể với tới, không thể với lấy
-- không thể đến, không thể tới
-- không thể thấu tới, không thể nh hưởng đến
+countercheck
+	
+* danh từ
+- sự chặn lại, sự cản trở, sự ngăn trở
+- sự chống lại, cái cản trở
+@Chuyên ngành kỹ thuật
+-phản tác dụng
+

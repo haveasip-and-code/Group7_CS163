@@ -1,18 +1,5 @@
-alert	
-@alert /ə'lə:t/
-*  tính từ
-- tỉnh táo, cảnh giác
-- linh lợi, nhanh nhẹn, nhanh nhẫu, hoạt bát
-*  danh từ
-- sự báo động, sự báo nguy=to put on the alert
-+ đặt trong tình trạng báo động
-- sự báo động phòng không; thời gian báo động phòng không
-- sự cảnh giác, sự đề phòng=to be on the alert
-+ cảnh giác đề phòng
-@Chuyên ngành kỹ thuật
--báo nguy
--tín hiệu báo động
-@Lĩnh vực: toán & tin
--sự báo động
--sự báo lỗi
--sự cảnh giác
+tugrik
+	
+-đồng tu
+-rích (đơn vị tiền tệ chính của Mông Cổ =100 mongos)
+

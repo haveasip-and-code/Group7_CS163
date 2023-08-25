@@ -1,14 +1,6 @@
-fixity	
-@fixity /'fiksiti/
-*  danh từ
-- sự cố định, sự bất động
-- sự chăm chú=fixity of look
-+ cái nhìn chăm chú
-- tính ổn định, tính thường trực
-- (vật lý) tính chịu nhiệt, không hao (không mất trọng lượng hay bay hơi khi nhiệt tăng lên)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự ngàm chặt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--sự ngàm chặt
+arshin
+	
+* danh từ
+- Ac
+-sin, đơn vị đo chiều dài của Nga (= 0, 71 m)
+

@@ -1,8 +1,8 @@
-signed	@signed
-- có dấu
-@Chuyên ngành kinh tế
--đã ký
+bioplasm
+	
+*  danh từ
+- (sinh vật học) sinh chất
 @Chuyên ngành kỹ thuật
--đã ký
-@Lĩnh vực: toán & tin
--có dấu
+@Lĩnh vực: y học
+-chất nguyên sinh
+

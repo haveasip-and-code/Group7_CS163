@@ -1,5 +1,146 @@
-dustman	
-@dustman /'dʌstmən/
+account
+	
 *  danh từ
-- người hốt rác
-- thần ngủ (làm các em nhỏ ngủ nhíp mắt lại)
+- sự tính toán
+=to cast account
++ tính toán
+- sự kế toán; sổ sách, kế toán
+=to keep accounts
++ giữ sổ sách kế toán
+=profit and loss account
++ mục tính lỗ lãi
+- bản kê khai; bản thanh toán tiền, bản ghi những món tiền phải trả
+=account of expenses
++ bản kê khai các khoảng chi tiêu
+=to make out an account of articles
++ làm bản kê khai mặt hàng
+=to send in an account with the goods
++ gửi hàng kèm theo hoá đơn thanh toán tiền
+- sự thanh toán
+=to render (settle) an account
++ thanh toán một khoản tiền (một món nợ)
+- sự trả dần, sự trả làm nhiều kỳ
+=to pay a sum on account
++ trả dần một số tiền
+=sale for the account
++ bán trả dần
+- tài khoản, số tiền gửi
+=to have an account in the bank
++ có tiền gửi ngân hàng
+=account current
++ số tiền hiện gửi
+- lợi, lợi ích
+=to turn something to account
++ sử dụng cái gì làm cho có lợi, lợi dụng cái gì
+=to find one's in...
++ tìm thấy điều lợi ở...; được hưởng lợi ở...
+- lý do, nguyên nhân, sự giải thích
+=to give an account of something
++ giải thích cái gì
+=on no account
++ không vì một lý do gì
+=on account of
++ vì
+- báo cáo, bài tường thuật; sự tường thuật, sự miêu tả
+=to give an account of something
++ thuật lại chuyện gì
+=a detailed account of a football match
++ bài tường thuật chi tiết về một trận bóng đá
+- sự đánh giá, sự chú ý, sự lưu tâm
+=to take into account
++ để ý tới, lưu tâm tới, đếm xỉa tới
+=to make little account of
++ coi thường, không kể đến, không đếm xỉa đến, đánh giá thấp
+- tầm quan trọng, giá trị
+=of much account
++ đáng kể
+=of small account
++ không có gì đáng kể lắm
+!according to all accounts
+- theo sự đánh giá chung, theo ý kiến chung
+!to balance the accounts
+- (xem) balance
+!by all accounts
+- (như) according to all accounts
+!to be called (to go) to one's account
+- (xem) go
+!to call (bring) to account
+- bắt phải báo cáo sổ sách, bắt phải báo cáo mọi khoản thu chi; bắt phải giải thích (về cái gì...)
+!to cast up accounts
+-(đùa cợt); (thông tục) nôn mửa
+!to cook (doctor) an account
+- giả mạo sổ sách (kế toán); bịa ra một khoản, kê khai giả mạo một khoản
+!to demand an account
+- đòi báo cáo sổ sách; bắt phải giải thích (việc gì...)
+!to give a good account of oneself
+- gây được tiếng tốt cho mình; (thể dục,thể thao) thắng lợi, đạt được kết quả tốt
+!the great account
+- (tôn giáo) ngày tận thế
+!to hand in one's accounts
+- (từ Mỹ,nghĩa Mỹ) thoát nợ đời; chết
+!to hold of much account
+- đánh giá cao, coi trọng
+!to lay [one's] account for (on, with) something
+- mong đợi ở cái gì; hy vọng ở cái gì
+!to leave out of account
+- không quan tâm đến, không để ý đến, không đếm xỉa đến
+!on one's own account
+- vì mình, vì lợi ích của mình, vì mục đích của mình
+- tự mình phải gánh lấy mọi sự xảy ra
+!on somebody's account
+- vì ai
+!to settle (square, balance) accounts with somebody
+- thanh toán với ai
+- trả thù ai, thanh toán mối thù với ai
+*  ngoại động từ
+- coi, coi như, coi là, cho là
+=to be accounted incocent
++ được coi là vô tội
+*  nội động từ
+- (
++ for) giải thích (cho)
+=this accounts for his behaviour
++ điều đó giải thích thái độ đối xử của hắn
+- giải thích (việc sử dụng, thanh toán, tính toán tiền nong)
+=has that sum been accounted for?
++ số tiền đó đã được giải thích là đem sử dụng vào việc gì chưa?
+- (thể dục,thể thao) bắn được, hạ được
+=he alone accounted for a score of pheasants
++ mình hắn cũng đã bắn được hai mươi con gà lôi
+@Chuyên ngành kinh tế
+-bản báo cáo
+-bản kê
+-bản tường trình
+-bên mua
+-chương mục
+-công việc kế toán
+-khách hàng
+-khoản mục kế toán
+-năm báo cáo
+-sổ sách kế toán
+-sự quyết toán
+-tài khóa
+-tài khoản
+-thanh toán theo kỳ hạn (hối phiếu)
+-tính toán
+@Chuyên ngành kỹ thuật
+-bản thanh toán
+-kế toán
+-phép tính
+-quyết toán
+-sự thanh toán
+-sự tính
+-sự tính toán
+@Lĩnh vực: xây dựng
+-bản báo cáo
+-bản sơ kết
+-phép kế toán
+@Lĩnh vực: cơ khí & công trình
+-bản kê khai
+-sự kế toán
+@Lĩnh vực: toán & tin
+-kể đến
+-tính đến
+@Lĩnh vực: điện tử & viễn thông
+-trương mục ngân hàng
+

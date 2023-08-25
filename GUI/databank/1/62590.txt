@@ -1,5 +1,13 @@
-wearability	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--độ hao mòn
--tính chịu được mòn
--tính hao mòn
+tweezers
+	
+*  danh từ số nhiều
+- cái cặp, cái nhíp ((cũng) pair of tweezers)
+@Chuyên ngành kỹ thuật
+-cái cặp
+-cái kẹp
+-cặp
+-phanh
+@Lĩnh vực: điện lạnh
+-cái nhíp
+-gắp
+

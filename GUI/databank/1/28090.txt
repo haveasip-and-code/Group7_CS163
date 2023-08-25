@@ -1,5 +1,7 @@
-independent	
-@independent
-- độc lập
-- algebraically i. độc lập đại số
-- linearly i. độc lập tuyến tính
+drugstore
+	
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) hiệu thuốc, cửa hàng dược phẩm (có bán nhiều hàng linh tinh khác)
+@Chuyên ngành kỹ thuật
+-hiệu thuốc
+

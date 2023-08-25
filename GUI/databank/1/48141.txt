@@ -1,7 +1,5 @@
-rubric	@rubric /'ru:brik/
-*  danh từ
-- đề mục (in chữ đỏ hoặc chữ lớn)
-- đoạn (viết chữ đỏ hoặc chữ lớn)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc nhân đỏ
+didacticism
+	
+* danh từ
+- tính chất giáo huấn, tính chất giáo dục
+

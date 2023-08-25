@@ -1,8 +1,9 @@
-boardwalk	
-@boardwalk
-* danh từ
-- lối đi có lót ván (dọc theo bãi biển)
-@Chuyên ngành kinh tế
--đường cầu ván
+spectrometry
+	
+*  danh từ
+- (vật lý) phép đo phổ
 @Chuyên ngành kỹ thuật
--lối đi lát ván (dọc bờ sông, bờ biển)
+@Lĩnh vực: điện lạnh
+-đo phổ
+-phép trắc phổ
+

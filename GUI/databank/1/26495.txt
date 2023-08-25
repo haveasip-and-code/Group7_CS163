@@ -1,14 +1,5 @@
-husk	
-@husk /hʌsk/
-*  danh từ
-- cỏ khô (của trái cây), vỏ (hạt); trấu (thóc, lúa)
-- lá bao (ở bắp ngô)
-- (nghĩa bóng) vỏ ngoài vô giá trị (của cái gì...)
-- (thú y học) bệnh ho khan
-*  ngoại động từ
-- bóc vỏ; xay (thóc)
-@Chuyên ngành kỹ thuật
--bóc vỏ
-@Lĩnh vực: thực phẩm
--bóc bẹ (ngô)
--xay (lúa)
+sarge
+	
+* danh từ
+- (từ lóng) trung sĩ
+

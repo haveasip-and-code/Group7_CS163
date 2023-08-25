@@ -1,19 +1,11 @@
-spile	@spile /spail/
+collier
+	
 *  danh từ
-- nút thùng rượu
-- ống máng (cắm vào cây để lấy nhựa)
-- cọc gỗ, cừ
-*  ngoại động từ
-- bịt, nút (lỗ thùng)
-- cắm ống máng (vào cây); cắm vòi (vào thùng)
-- lấy (rượu...) ra bằng vòi
-- cắm cọc, cắm cừ
-- đục lỗ (thùng rượu...)
+- công nhân mỏ than, thợ mỏ
+- tàu chở than
+- thuỷ thủ (trên) tàu chở than
 @Chuyên ngành kỹ thuật
--cừ gỗ
--nút
--nút gỗ
--ống máng
--trụ gỗ
-@Lĩnh vực: xây dựng
--chốt gỗ
+-thợ mỏ
+@Lĩnh vực: giao thông & vận tải
+-tàu thủy chở than
+

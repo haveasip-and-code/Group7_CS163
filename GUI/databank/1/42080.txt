@@ -1,6 +1,68 @@
-pleura	@pleura /'pluərə/
-*  danh từ,  số nhiều pleurae  /'pluəri:/
-- (giải phẫu) màng phổi
+edge
+	
+*  danh từ
+- lưỡi, cạnh sắc (dao...); tính sắc
+=knife has no edge
++ dao này không sắc
+- bờ, gờ, cạnh (hố sâu...); rìa, lề (rừng, cuốn sách...)
+- đỉnh, sống (núi...)
+- (như) knife
+-edge
+- (nghĩa bóng) tình trạng nguy khốn; lúc gay go, lúc lao đao
+!to be on edge
+- bực mình
+- dễ cáu
+=to have the edge on somebody
++ (từ lóng) ở thế lợi hơn ai
+!to set someone's teeth on edge
+- làm cho ai bực mình; làm cho ai gai người; làm cho ai ghê tởm
+!to take the edge off one's appetite
+- làm cho ăn mất ngon
+- làm cho đỡ đói
+!to take the edge off someone's argument
+- làm cho lý lẽ của ai mất sắc cạnh
+*  ngoại động từ
+- mài sắc, giũa sắt
+- viền (áo...); làm bờ cho, làm gờ cho, làm cạnh cho
+- xen (cái gì, câu...) vào, len (mình...) vào; dịch dần vào
+=to edge one's way into a job
++ len lỏi vào một công việc gì
+*  nội động từ
+- đi né lên, lách lên
+!to edge away
+- từ từ dịch xa ra
+- (hàng hải) đi xa ra
+!to edge off
+- mài mỏng (lưỡi dao...)
+- (như) to edge away
+!to edge on
+- thúc đẩy, thúc giục
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phế mạc (màng phổi)
+-biên
+-bờ
+-dao nhỏ
+-đoạn nối
+-đường hàn
+-đường nối
+-gân
+-giới hạn
+-gờ
+-lưỡi cắt
+-lưỡi dao
+-nẹp
+-mép
+-mép cắt
+-mép tiếp xúc
+-mối hàn
+-rìa
+-sườn
+-vạch hàn
+-vỉa hè
+-viền
+@Lĩnh vực: cơ khí & công trình
+-cạnh mép
+@Lĩnh vực: hóa học & vật liệu
+-khung (bản đồ)
+-rìa đường viền
+-sống (núi)
+

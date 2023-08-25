@@ -1,14 +1,8 @@
-transparent	@transparent /træns'peərənt/
-*  tính từ ((cũng) transpicuous)
-- trong suốt
-- trong trẻo, trong sạch
-- (văn học) trong sáng
-=a transparent style+ lối hành văn trong sáng
-*  tính từ
-- rõ ràng, rõ rệt
-=a transparent attempt to deceive+ một mưu toan đánh lừa rõ rệt
-=transparent lie+ lời nói dối rành rành
+symmetrize
+	
+*  ngoại động từ
+- làm đối xứng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trong suốt (ánh sáng xuyên qua)
--trong vắt
+@Lĩnh vực: toán & tin
+-đối xứng hóa
+

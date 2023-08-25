@@ -1,40 +1,37 @@
-mould	@mould /mould/
+keel
+	
 *  danh từ
-- đất tơi xốp
-- đất
+- sà lan (chở) than
 *  danh từ
-- mốc, meo
-*  danh từ
-- khuôn
-- (kiến trúc) đường gờ, đường chỉ
-- (nghĩa bóng) hình dáng; tính tình
-!to be cast in the same mould
-- giống nhau như đúc; cùng một giuộc
-*  ngoại động từ
-- đúc; nặn
+- sống tàu thuỷ, sống thuyền
+=on an even keel
++ không tròng trành, không nghiêng ngả; (nghĩa bóng) vững chắc, yên
+=to lay down a keel
++ khởi công đóng một chiếc tàu (thuyền)
+- (thơ ca) tàu thuỷ, thuyền
+*  động từ
+- lật úp (tàu, thuyền)
+!to keel over
+- lật úp (tàu, thuyền)
+- (nghĩa bóng) lật đổ nhào; bị đổ nhào, ngã đổ nhào; bất thần ngất đi
 @Chuyên ngành kinh tế
--hình dáng
--khuôn
--làm khuôn
--mốc
--tạo dáng
+-kin
+-sống tàu
+-sống tàu thủy
+-sống thuyền
+-xà lan chở than
 @Chuyên ngành kỹ thuật
--dập
--đúc
--dụng cụ ép
--dưỡng
--đường viền
--khuôn để đúc
--khuôn đúc
--làm khuôn
--làm mẫu khuôn
--làm rỗng
--nấm mốc
--mẫu
--mô hình
--ván khuôn
+-định vị
+-sống đuôi
+-sống thuyền
 @Lĩnh vực: xây dựng
--đường ngấn
--khuôn cối
-@Lĩnh vực: cơ khí & công trình
--khuôn (đúc)
+-orơ đỏ
+-sống tàu thủy
+@Lĩnh vực: giao thông & vận tải
+-sống bụng
+-sống đáy tàu
+-sống đứng
+-sống lưng
+@Lĩnh vực: hóa học & vật liệu
+-sống tàu
+

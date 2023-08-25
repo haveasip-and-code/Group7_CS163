@@ -1,5 +1,46 @@
-factoring	
-@factoring
+guide
+	
 * danh từ
-- sự phân tích thành thừa số= scale factoring
-+sự chọn thang tỉ lệ
+- người chỉ dẫn; người chỉ đường, người hướng dẫn (cho khách du lịch)
+- bài học, điều chỉ dẫn, điều tốt, điều hay (cần noi theo)
+- sách chỉ dẫn, sách chỉ nam
+- cọc hướng dẫn; biển chỉ đường
+- <kỹ> thiết bị dẫn đường, thanh dẫn
+- <qsự> quân thám báo
+- <hải> tàu hướng dẫn (cho cả đội tàu)
+* ngoại động từ
+- dẫn đường, chỉ đường, dắt, dẫn, hướng dẫn; chỉ đạo
+@Chuyên ngành kinh tế
+-người hướng dẫn
+-người hướng dẫn (du lịch)
+-người hướng đạo
+-sách hướng dẫn
+-sự hướng dẫn
+@Chuyên ngành kỹ thuật
+-bản chỉ dẫn
+-bản hướng dẫn
+-bảng chỉ dẫn
+-dưỡng
+-hướng
+-hướng dẫn
+-lái
+-người hướng dẫn
+-ống dẫn sóng
+-ống vách
+-puli dẫn hướng
+-sách chỉ dẫn
+@Lĩnh vực: hóa học & vật liệu
+-bộ điều lái
+@Lĩnh vực: xây dựng
+-để dẫn hướng
+@Lĩnh vực: toán & tin
+-dòng hướng dẫn
+@Lĩnh vực: dệt may
+-khuyết dẫn sợi
+-thanh dẫn sợi
+@Lĩnh vực: điện
+-rãnh hướng
+@Lĩnh vực: cơ khí & công trình
+-sống trượt
+-sự dẫn hướng
+

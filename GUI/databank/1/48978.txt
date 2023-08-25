@@ -1,4 +1,24 @@
-scatological	@scatological
-* tính từ
-- (thuộc) sự nghiên cứu phân hoá thạch
-- (thuộc) sự quan tâm quá mức đến các vật bẩn thỉu, sự thiên về sự tục tựu
+datum
+	
+*  danh từ,  số nhiều data
+- số lượng đã cho (bài toán...); điều đã cho biết
+- luận cứ
+- (số nhiều datums) mốc tính toán, mốc đo lường
+@Chuyên ngành kỹ thuật
+-dấu quy chiếu
+-điểm chuẩn
+-điểm cố định
+-điểm quy chiếu
+-dữ kiện
+-dữ liệu
+-mặt chuẩn
+-mốc
+-mốc đo lường
+-mức chuẩn
+-mục dữ liệu
+-số liệu
+@Lĩnh vực: toán & tin
+-datum
+@Lĩnh vực: điện tử & viễn thông
+-gốc quy chiếu
+

@@ -1,6 +1,21 @@
-oocyte	@oocyte /'ouəsait/
+definition
+	
 *  danh từ
-- (sinh vật học) noãn bào
+- sự định nghĩa, lời định nghĩa
+- sự định, sự định rõ, sự xác định (quyền lợi, ranh giới...)
+- (vật lý) sự rõ nét (hình ảnh); độ rõ (âm thanh)
+@Chuyên ngành kinh tế
+-độ nét
+-độ rõ
+-sự định nghĩa
+-xác định rõ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--noãn sào, tế bào trứng
+-định nghĩa
+-độ nét
+-độ phân giải
+-độ rõ nét
+-sự định nghĩa
+-sự xác định
+@Lĩnh vực: điện lạnh
+-độ rõ (nét)
+

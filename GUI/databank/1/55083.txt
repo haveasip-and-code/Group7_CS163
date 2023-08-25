@@ -1,34 +1,5 @@
-swivel	@swivel /'swivl/
-*  danh từ
-- (kỹ thuật) khớp khuyên
-*  động từ
-- xoay, quay
-@Chuyên ngành kỹ thuật
--cốt
--khớp bản lề
--khớp cầu
--khớp khuyên
--khớp quay
--mắt xích
--móc lò xo
--quay
--sự nối khớp
--xoay
--xoay được
-@Lĩnh vực: cơ khí & công trình
--bàn trượt quay
--đài dao quay
--khớp khuyên/ khớp quay
--quả gối
-@Lĩnh vực: hóa học & vật liệu
--dầu quay
--khớp đầu cột ống khoan (kỹ thuật khoan)
--mũ phun
-@Lĩnh vực: vật lý
--khớp xoay
-@Lĩnh vực: toán & tin
--thanh có ren
-@Lĩnh vực: giao thông & vận tải
--vòng ngoặc (đai)
-@Lĩnh vực: ô tô
--xoay quanh một điểm
+interhemispheric
+	
+*  tính từ
+- giữa các bán cầu (trái đất)
+

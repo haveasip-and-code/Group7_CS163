@@ -1,26 +1,8 @@
-fidelity	
-@fidelity /fi'deliti/
-*  danh từ
-- lòng trung thành; tính trung thực
-- sự đúng đắn, sự chính xác
-- (kỹ thuật) độ tin; độ trung thực
+parameterization
+	
+* danh từ
+- sự biểu hiện thành tham số
 @Chuyên ngành kỹ thuật
--độ chính xác
--độ tin cậy
--độ trung thực
-@Lĩnh vực: cơ khí & công trình
--sự chính sác
-@Lĩnh vực: điện
--sự trung thực
-@Lĩnh vực: xây dựng
--trung thực
-@Chuyên ngành kỹ thuật
--độ chính xác
--độ tin cậy
--độ trung thực
-@Lĩnh vực: cơ khí & công trình
--sự chính sác
-@Lĩnh vực: điện
--sự trung thực
-@Lĩnh vực: xây dựng
--trung thực
+@Lĩnh vực: toán & tin
+-sự tham số hóa
+

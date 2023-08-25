@@ -1,21 +1,7 @@
-academic	
-@academic /,ækə'demik/
-*  tính từ
-- (thuộc) học viện; (thuộc) trường đại học
-- (thuộc) viện hàn lâm
-- có tính chất học thuật=an academic debate
-+ một cuộc tranh luận có tính chất học thuật
-- lý thuyết suông, trừu tượng, không thực tế=an academic question
-+ một vấn đề trừu tượng, một vấn đề không thực tế
-- (văn nghệ) kinh viện=academic painting
-+ hội hoạ kinh viện
-- (thuộc) trường phái triết học Pla
--ton
-*  danh từ
-- hội viên học viện
-- viện sĩ
-- người quá nệ kinh viện
-- (số nhiều) lập luận hoàn toàn lý thuyết
-- (số nhiều) mũ áo đại học (của giáo sư và học sinh đại học ở Anh)
-@Chuyên ngành kinh tế
--giáo sư đại học
+desalinate
+	
+* động từ
+- khử muối
+@Chuyên ngành kỹ thuật
+-loại bỏ muối
+

@@ -1,41 +1,10 @@
-duck	
-@duck /dʌk/
-*  danh từ
-- con vịt, vịt cái
-- thịt vịt
--(thân mật) người yêu quí; người thân mến
-- (thể dục,thể thao) ván trắng (crikê) ((cũng) duck's egg)!a lame ducks
-- người tàn tật, người què quặt
-- người vỡ nợ, người phá sản
-- người thất bại
-- (hàng không), lóng máy bay hỏng!like a duck in a thunderstorm
-- ngơ ngác thểu não như gà bị bão!like water off a duck's back
-- như nước đổ dầu vịt, như nước đổ lá khoai!it's a fine for young ducks
-- trời mưa!to make ducks and drakes
-- chơi ném thia lia!to play ducks and drakes with
-- phung phí!to take to something like a duck to water
-- đến chỗ nào (làm cái gì...) cảm thấy được tự do vùng vẫy như cá gặp nước!in two shakes of a duck's tall
-- một thoáng, một lát
-*  danh từ
-- vải bông dày (may buồm, áo ngoài của thuỷ thủ)
-- (số nhiều) quần vải bông dày
-*  danh từ
-- (quân sự), thục xe lội nước
-*  danh từ
-- sự ngụp lặn; động tác ngụp lặn
-- động tác cúi (đầu) nhanh, động tác cúi thình lình (để né tránh, để chào...)
-*  nội động từ
-- lặn; ngụp lặn
-- cúi nhanh, cúi thình lình (để né tránh, để chào...)
-*  ngoại động từ
-- dìm (ai) xuống nước
-- cúi nhanh, cúi thình lình (đầu)
-@Chuyên ngành kinh tế
--con vịt
--thịt vịt
+radices
+	
+*  danh từ,  số nhiều radices  /'reidisi:z/
+- cơ số
+=ten is the radix of decimal numeration and of common logarithms
++ mười là cơ số của cách đếm thập phân và của loga thường
+- nguồn gốc, căn nguyên (của một tệ hại)
 @Chuyên ngành kỹ thuật
--lặn
-@Lĩnh vực: xây dựng
--sự ngụp lặn
--vải kĩ thuật
--xe lội nước
+-cơ số
+

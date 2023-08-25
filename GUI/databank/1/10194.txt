@@ -1,6 +1,8 @@
-coiling	
+subscript
+	
+- chỉ số dưới
 @Chuyên ngành kỹ thuật
--sự cuốn
--sự cuộn dây
--sự quấn
--sự xoắn
+-chỉ số dưới dòng
+@Lĩnh vực: toán & tin
+-chỉ số dưới
+

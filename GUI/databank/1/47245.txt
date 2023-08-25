@@ -1,7 +1,14 @@
-resupply	@resupply
-* ngoại động từ
-- cung cấp lại
-@Chuyên ngành kinh tế
--cung cấp thêm
--sự cấp thêm
--tái cung cấp
+purlin
+	
+*  danh từ
+- đòn tay (mái nhà)
+@Chuyên ngành kỹ thuật
+-đòn tay
+-rầm
+-xà dọc
+-xà gồ
+-xà gỗ
+-xà mái dọc
+@Lĩnh vực: xây dựng
+-cầu phong (mái nhà)
+

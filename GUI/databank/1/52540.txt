@@ -1,16 +1,7 @@
-splicing	@splicing
-* danh từ
-- sự nối; ghép nối
-@Chuyên ngành kỹ thuật
--bện
--lớp nền
--sự ghép
--sự nối
--sự tăng
--sự tăng bền
-@Lĩnh vực: điện
--sự nối bện
-@Lĩnh vực: dệt may
--sự nối vẽ
-@Lĩnh vực: xây dựng
--sự tiếp nối
+igniting
+	
+-sự bốc cháy
+-sự đánh lửa
+-sự đốt cháy
+-sự mồi lửa
+

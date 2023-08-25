@@ -1,9 +1,5 @@
-mystic	@mystic /'mistik/
-*  danh từ
-- người thần bí
-*  tính từ+ (mystical) /'mistikəl/
-- thần bí, huyền bí
-- bí ẩn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thần bí
+mods
+	
+- kỳ thi phần thứ nhất bằng tú tài văn chương (trường đại học Ôc
+-phớt)
+

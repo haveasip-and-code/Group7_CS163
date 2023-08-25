@@ -1,8 +1,8 @@
-glide	
-@glide /glaid/
+glaucoma
+	
 *  danh từ
-- sự trượt đi, sự lướt đi
-- sự lượn (máy bay)
-- (âm nhạc) gam nửa cung
+- (y học) bệnh glôcôm, bệnh tăng nhãn áp
 @Chuyên ngành kỹ thuật
--lướt
+@Lĩnh vực: y học
+-bệnh tăng nhãn áp
+

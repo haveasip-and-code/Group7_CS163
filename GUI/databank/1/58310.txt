@@ -1,10 +1,14 @@
-twelfth	@twelfth /twelfθ/
-*  tính từ
-- thứ mười hai
+simulator
+	
 *  danh từ
-- một phần mười hai
-- người thứ mười hai; vật thứ mười hai; ngày mười hai
+- người giả vờ, người giả cách, người vờ vịt
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--một phần mười hai
--thứ mười hai
+-bộ mô phỏng
+-chương trình mô phỏng
+-vật mô phỏng/ mô hình
+@Lĩnh vực: cơ khí & công trình
+-thiết bị bắt chước
+-thiết bị chép hình
+@Lĩnh vực: điện
+-thiết bị mô phỏng
+

@@ -1,11 +1,5 @@
-branched	
-@branched
-* tính từ
-- phân cành; phân nhánh
-@Chuyên ngành kỹ thuật
--phân nhánh
--rẽ nhánh
-@Lĩnh vực: hóa học & vật liệu
--có nhánh
-@Lĩnh vực: toán & tin
--được chia nhánh
+reparable
+	
+*  tính từ
+- có thể đền bù, có thể sửa
+

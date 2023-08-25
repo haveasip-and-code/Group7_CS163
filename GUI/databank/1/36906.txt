@@ -1,13 +1,7 @@
-nomination	@nomination /,nɔmi'neiʃn/
-*  danh từ
-- sự chỉ định, sự bổ nhiệm (người nào vào một chức vụ gì); quyền chỉ định, quyền bổ nhiệm
-- sự giới thiệu, sự đề cử (người ra ứng cử); quyền giới thiệu, quyền đề cử (người ra ứng cử)
-@Chuyên ngành kinh tế
--đề cử
--giới thiệu
--người ký danh
--quyền đề cử
--sự bổ nhiệm
--sự chỉ định
--sự chỉ định bổ nhiệm
--sự đề cử
+intermittently
+	
+* phó từ
+- từng cơn từng hồi, không liên tục
+@Chuyên ngành kỹ thuật
+-không liên tục
+

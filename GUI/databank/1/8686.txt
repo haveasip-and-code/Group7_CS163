@@ -1,6 +1,8 @@
-chambering	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--bắn mìn tạo túi
-@Lĩnh vực: cơ khí & công trình
--sự ngăn (thành) buồng
+occupier
+	
+*  danh từ
+- người chiếm giữ, người chiếm cứ, người chiếm lĩnh
+@Chuyên ngành kinh tế
+-người chiếm cứ
+-người chiếm giữ
+

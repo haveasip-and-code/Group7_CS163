@@ -1,8 +1,5 @@
-parse	@parse /pɑ:z/
-*  ngoại động từ
-- phân tích ngữ pháp (từ, câu)
-@Chuyên ngành kỹ thuật
--phân tách
--phân tích cú pháp
-@Lĩnh vực: xây dựng
--phân tích từ
+myopic
+	
+*  tính từ
+- cận thị
+

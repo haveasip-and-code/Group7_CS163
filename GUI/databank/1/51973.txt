@@ -1,11 +1,33 @@
-sorry	@sorry /'sɔri/
-*  tính từ
-- lấy làm buồn, lấy làm tiếc, lấy làm phiền
-=I am sorry to hear it+ tôi lấy làm buồn khi nghe tin đó
-=I'm sorry+ tôi rất lấy làm tiếc (ngụ ý xin lỗi...)
-=he will be sorry for this some day+ rồi có ngày nó sẽ phải đau buồn về vấn đề này
-=I felt sorry for him+ tôi thấy tiếc cho nó; tôi cảm thấy đau buồn cho nó, tôi rất thương nó
-- đáng buồn, xấu, tồi tàn, thiểu não
-=a sorry plight+ hoàng cảnh đáng buồn
-=a sorry fellow+ một anh chàng tồi
-=in sorry clothes+ ăn mặt thiểu não
+property
+	
+*  danh từ
+- quyền sở hữu, tài sản, của cải, vật sở hữu
+=a man of property
++ người có nhiều của, người giàu có
+- đặc tính, tính chất
+=the chemical properties of iron
++ những tính chất hoá học của sắt
+- đồ dùng sân khấu (trang trí, phục trang, dàn cảnh...)
+- (định ngữ) (thuộc) quyền sở hữu, (thuộc) tài sản
+=property tax
++ thuế (đánh vào) tài sản
+@Chuyên ngành kinh tế
+-bất động sản
+-đặc tính
+-đất đai
+-khả năng
+-quyền sở hữu
+-tài sản
+-tài sản sở hữu
+-tài sản, của cải
+-tính chất
+-vật sở hữu
+@Chuyên ngành kỹ thuật
+-đặc tính
+-quyền sở hữu
+-tài sản
+-thuộc tính
+-tính năng
+@Lĩnh vực: toán & tin
+-tài sản riêng
+

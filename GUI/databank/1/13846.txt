@@ -1,28 +1,23 @@
-declaration	
-@declaration /,deklə'reiʃn/
-*  danh từ
-- sự tuyên bố; lời tuyên bố=to make a declaration
-+ tuyên bố=a declaration of war
-+ sự tuyên chiến
-- bản tuyên ngôn=the Declaration of human rights
-+ bản tuyên ngôn nhân quyền
-- sự công bố=the declaration of the poll
-+ sự công bố kết quả bầu cử
-- (thương nghiệp); (pháp lý) sự khai, lời khai; tờ khai
-- (đánh bài) sự xướng lên
+veto
+	
+*  danh từ,  số nhiều vetoes
+- quyền phủ quyết; sự phủ quyết, sự bác bỏ
+=power (right) of veto
++ quyền phủ quyết
+=to put (set) a veto on a bill
++ bác bỏ một đạo luật dự thảo
+- sự nghiêm cấm
+=to put a veto on narcotics
++ nghiêm cấm các loại thuốc ngủ
+*  ngoại động từ
+- phủ quyết, bác bỏ
+- nghiêm cấm
 @Chuyên ngành kinh tế
--bản tuyên bố
--khai báo
--sự khai trình
--sự tuyên bố
--thông báo rời cảng
--tờ khai
--tờ thanh minh
--tuyên cáo
+-bác bỏ
+-phủ quyết (điều gì)
+-phủ quyết điều gì
+-quyền phủ quyết
+-sự phủ quyết
 @Chuyên ngành kỹ thuật
--khai báo
--sự khai báo
-@Lĩnh vực: toán & tin
--lời khai báo
-@Lĩnh vực: xây dựng
--tuyên ngôn
+-sự từ chối
+

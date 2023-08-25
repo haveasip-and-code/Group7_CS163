@@ -1,11 +1,21 @@
-jigger	
-@jigger /'dʤigə/
+visa
+	
 *  danh từ
-- người nhảy điệu jig
+- thị thực (ở hộ chiếu)
+=entry visa
++ thị thực nhập cảnh
+=exit visa
++ thị thực xuất cảnh
+=transit visa
++ thị thực quá cảnh
+*  ngoại động từ
+- đóng dấu thị thực cho
+@Chuyên ngành kinh tế
+-chiếu khán (xuất nhập cảnh)
+-chữ ký xác nhận
+-dấu thị thực
+-thị thực
 @Chuyên ngành kỹ thuật
--đo khẩu kính
--máy nhuộm cuốn
--máy sàng
--máy sàng quặng
-@Lĩnh vực: hóa học & vật liệu
--máy đãi (quặng)
+@Lĩnh vực: xây dựng
+-thị thực
+

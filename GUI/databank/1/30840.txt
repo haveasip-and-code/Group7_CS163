@@ -1,33 +1,11 @@
-kerf	
-@kerf /kə:f/
+headlight
+	
 *  danh từ
-- khía, rạch, vết cưa
-- đầu cưa, đầu chặt (của một cây bị đốn xuống)
+- đèn pha (ô tô, xe lửa, xe điện, tàu thuỷ...)
 @Chuyên ngành kỹ thuật
--khía
--lỗ phá mở
--rạch
--rãnh
--rãnh cắt
--sự rạch
--vết cắt
--vết cưa
--vết rạch
-@Lĩnh vực: xây dựng
--đầu (cây) chặt
--mạch cưa
--sự phá mở
-@Chuyên ngành kỹ thuật
--khía
--lỗ phá mở
--rạch
--rãnh
--rãnh cắt
--sự rạch
--vết cắt
--vết cưa
--vết rạch
-@Lĩnh vực: xây dựng
--đầu (cây) chặt
--mạch cưa
--sự phá mở
+-đèn chiếu
+@Lĩnh vực: điện
+-đèn dầu
+@Lĩnh vực: ô tô
+-đèn đầu xe
+

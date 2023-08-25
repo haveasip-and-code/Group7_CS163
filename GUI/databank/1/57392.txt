@@ -1,14 +1,14 @@
-transformer	@transformer /træns'fɔ:mə/
-*  danh từ
-- người làm biến đổi; vật làm biến đổi
-- (điện học) máy biến thế
+gassy
+	
+*  tính từ
+- (thuộc) khí; như khí
+- đầy khí
+- ba hoa rỗng tuếch (lời nói...)
 @Chuyên ngành kỹ thuật
--biến thế
--bộ chuyển đổi
--máy biến áp
--máy biến thế
-@Lĩnh vực: điện
--biến áp
--bộ biến thế
-@Lĩnh vực: toán & tin
--bộ biến áp
+-có khí nổ
+-dạng khí
+-khí
+-sủi bọt
+@Lĩnh vực: vật lý
+-thể khí
+

@@ -1,3 +1,46 @@
-sociocultural	@sociocultural
-* tính từ
-- văn hoá xã hội
+settlement
+	
+*  danh từ
+- sự giải quyết, sự dàn xếp, sự hoà giải
+- sự thanh toán
+- sự đến ở, sự định cư, sự an cư lạc nghiệp; khu định cư, khu đất mới có người đến ở lập nghiệp
+- sự chiếm làm thuộc địa; thuộc địa
+- (pháp lý) sự chuyển gia tài
+- sự làm lắng xuống; sự lắng xuống, sự lún xuống (mặt nhà, tường, đất)
+- nhóm người chủ trương cải cách xã hội ba cùng với công nhân
+@Chuyên ngành kinh tế
+-giấy ký thác
+-giấy ký túc
+-kết toán
+-ngày thanh toán
+-sự quyết định (ngay ...)
+-sự quyết định (ngày..)
+-sự quyết toán
+-sự thanh toán
+-thỏa thuận
+-thỏa ước
+-việc giải quyết xong
+-việc thanh toán xong
+@Chuyên ngành kỹ thuật
+-biến dạng
+-chất kết tủa
+-chất lắng
+-độ lún
+-khu dân cư
+-khu nhà ở
+-lún
+-quyết toán
+-sự đóng rắn
+-sự hạ thấp
+-sự lắng
+-sự lắng đọng
+@Lĩnh vực: xây dựng
+-chất cặn
+-sự chồn hõm lún
+-sự lắng xuống (bê tông tươi)
+@Lĩnh vực: toán & tin
+-điểm dân cư
+-độ lắng
+@Lĩnh vực: điện tử & viễn thông
+-sự sa lắng
+

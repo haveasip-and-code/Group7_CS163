@@ -1,26 +1,4 @@
-marker	@marker /'mɑ:kə/
-*  danh từ
-- người ghi
-- người ghi số điểm (trong trò chơi bi a)
-- vật (dùng) để ghi
-- pháo sáng (để soi mục tiêu cho những cuộc ném bom đêm)
-@Chuyên ngành kinh tế
--máy dán nhãn
-@Chuyên ngành kỹ thuật
--biển chỉ đường
--cái đánh dấu
--cờ
--dấu
--dấu hiệu
--đích
--dụng cụ ghi
--nhãn
--máy đánh dấu
--mốc
--thợ lấy dấu
--tiêu
--tín hiệu
-@Lĩnh vực: giao thông & vận tải
--cột đèn hiệu
-@Lĩnh vực: điện tử & viễn thông
--dấu mốc
+cognitional
+	
+- xem cognition
+

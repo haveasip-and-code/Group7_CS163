@@ -1,11 +1,5 @@
-woodland	@woodland /'wudlənd/
-*  danh từ
-- miền rừng, vùng rừng
-- (định ngữ) (thuộc) rừng
-=woodland choir+ chim chóc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khoảng rừng
--ô rừng
--vành rừng
--vùng rừng
+typed
+	
+-được đánh bằng máy chữ
+-được đánh máy
+

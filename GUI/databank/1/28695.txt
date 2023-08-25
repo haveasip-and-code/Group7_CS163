@@ -1,18 +1,4 @@
-initiator	
-@initiator /i'niʃieitə/
-*  danh từ
-- người bắt đầu, người khởi đầu, người khởi xướng
-- người vỡ lòng, người khai tâm
-- người làm lễ kết nạp; người cho thụ giáo
-@Chuyên ngành kỹ thuật
--người bắt đầu
--người khởi đầu
--người khởi xướng
-@Lĩnh vực: toán & tin
--bên khởi động
--bộ khởi đầu
--bộ khởi tạo
-@Lĩnh vực: điện tử & viễn thông
--bộ mồi
-@Lĩnh vực: y học
--chất khởi đầu
+nicotiana
+	
+-thuốc lá
+

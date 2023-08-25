@@ -1,9 +1,5 @@
-camper	
-@camper
-* danh từ
-- người cắm trại
-@Chuyên ngành kỹ thuật
--xe cắm trại
--xe nhà lưu động
-@Lĩnh vực: ô tô
--xe moóc cắm trại
+skeletonizing
+	
+@Lĩnh vực: xây dựng
+-việc bóc balát
+

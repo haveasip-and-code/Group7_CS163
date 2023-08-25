@@ -1,7 +1,12 @@
-ecdysis	
-@ecdysis /'ekdisis/
-*  danh từ (động vật học)
-- sự lột (da rắn)
-- da lột (rắn...)
+unchecked
+	
+*  tính từ
+- không bị cản trở, không bị ngăn cản; không bị kìm hãm, không bị kiềm chế (tình cảm)
+- chưa được kiểm tra; không được kiểm tra (sổ sách)
+@Chuyên ngành kinh tế
+-chưa được kiểm tra
+-không được kiểm tra
 @Chuyên ngành kỹ thuật
--lột da
+@Lĩnh vực: toán & tin
+-không kiểm tra
+

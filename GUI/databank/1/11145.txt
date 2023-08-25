@@ -1,10 +1,28 @@
-congest	
-@congest /kən'dʤest/
-*  ngoại động từ (thường) dạng bị động
-- làm đông nghịt, làm tắt nghẽn (đường sá...)
-- (y học) làm sung huyết
+tend
+	
+*  ngoại động từ
+- trông nom, săn sóc, chăm sóc, chăm nom, giữ gìn
+=to tend a patient
++ chăm sóc người bệnh
+=to tend a garden
++ chăm nom khu vườn
+=to tend a machine
++ trông nom giữ gìn máy móc
 *  nội động từ
-- (y học) bị sung huyết (phổi...)
+- (
++ on,  upon) theo, theo hầu, hầu hạ, phục vụ
+=to tend upon someone
++ phục vụ ai
+- quay về, xoay về, hướng về, đi về
+- hướng tới, nhắm tới
+=all their efforts tend to the same object
++ tất cả những cố gắng của chúng đều cùng nhằm tới một mục đích
+- có khuynh hướng
 @Chuyên ngành kỹ thuật
--chất quá tải
--làm tắc nghẽn
+-dẫn đến
+@Lĩnh vực: điện lạnh
+-hướng tới
+@Lĩnh vực: toán & tin
+-tiến đến
+-tiến đến, dẫn đến
+

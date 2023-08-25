@@ -1,3 +1,17 @@
-trackway	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--phần đường xe chạy
+frequence
+	
+*  danh từ
+- tính thường xuyên, tính thường hay xảy ra
+=the frequence of earthquakes in Japan
++ sự thường hay có động đất ở Nhật
+-bản
+- (vật lý),  (toán học),  (y học) tần số
+=frequence of the pulse
++ tần số mạch đập
+- tần số xuất hiện
+=word frequence
++ tần số xuất hiện của từ
+@Chuyên ngành kỹ thuật
+-tần số
+-tần suất
+

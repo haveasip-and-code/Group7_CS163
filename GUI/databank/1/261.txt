@@ -1,29 +1,33 @@
-abut	
-@abut /ə'bʌt/
-*  động từ
-- (
-+ on,  upon) giáp giới với, tiếp giáp với
-- (
-+ on,  against) dựa vào, nối đầu vào nhau
-@Chuyên ngành kỹ thuật
--bộ định vị
--cái chặn
--chặn
--chung biên
--đế tựa
--kề
--ngõng mút
--nối đối đầu
--sự nối
--sự tiếp
--thanh chống
--tiếp giáp
--trụ chống
--tựa
-@Lĩnh vực: xây dựng
--cách mối đối đầu
--đường tiếp giáp
--nối tiếp đầu
--tiếp giáp với
-@Lĩnh vực: toán & tin
--sát
+vector
+	
+- vectơ
+- axial v. xectơ trục
+- basis . xectơ cơ sở
+- bound v. vectơ buộc
+- characterictic v. vectơ [đặc trưng, riêng]
+- complement v. vectơ bù
+- complanar v. vectơ đồng phẳng
+- correction v. vectơ hiệu chính
+- dominant v. vectơ trội
+- irroational v. vectơ vô rôta
+- latent v. vectơ riêng
+- localized v. (hình học) vectơ buộc
+- mean curvature v. vectơ độ cong trung bình
+- non
+-vanishing v. (hình học) vectơ không gian
+- normal curvature v. vectơ độ cong pháp tuyến
+- orthogonal v. vectơ trục giao
+- orthonormal v.s vectơ trục chuẩn
+- porla v. vectơ cực
+- polarization v. vectơ phân cực
+- price v. vectơ giá
+- probability v. vectơ xác suất
+- radius v. vectơ bán kính
+- row v. vectơ hàng
+- sliding v. vectơ trượt
+- symbolic v. vectơ kí hiệu
+- tangent v. vectơ tiếp xúc
+- unit v. vectơ đơn vị
+- velocity v. (vật lí) vectơ vận tốc
+- zero v. vectơ không
+

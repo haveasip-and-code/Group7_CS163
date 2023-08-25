@@ -1,2 +1,16 @@
-multiscreen	@Chuyên ngành kỹ thuật
--đa màn hình
+generality
+	
+*  danh từ
+- nguyên tắc chung chung; cái chung chung; tính tổng quát; tính đại cương
+!to come down from generalities to particulars
+- thôi nói chung chung mà đi vào chi tiết cụ thể
+- tính phổ biến
+=a rule of great generality
++ một quy luật rất phổ biến
+- tính mập mờ
+- phần lớn, phần đông, đa số
+@Chuyên ngành kỹ thuật
+-đại cương
+@Lĩnh vực: toán & tin
+-tính tổng quát
+

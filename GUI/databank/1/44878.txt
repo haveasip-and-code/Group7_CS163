@@ -1,13 +1,5 @@
-putrescent	@putrescent /pju:'tresnt/
-*  tính từ
-- đang thối rữa
-- (thuộc) sự thối rữa, có liên quan đến sự thối rữa; tiếp theo quá trình thối rữa
-@Chuyên ngành kinh tế
--bị thối rữa
--đang phân hủy
--đang thối rữa
-@Chuyên ngành kỹ thuật
--bị phân hủy
-@Lĩnh vực: thực phẩm
--bị thối rữa
--đang thối rữa
+inexactness
+	
+*  danh từ
+- tính không đúng, tính không chính xác; sự không đúng, sự không chính xác
+

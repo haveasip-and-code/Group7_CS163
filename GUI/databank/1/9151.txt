@@ -1,14 +1,21 @@
-chloroform	
-@chloroform /'klɔrəfɔ:m/
+repository
+	
 *  danh từ
-- cloroform!to give chloroform to someone; to put someone under chloroform
-- gây mê cho người nào
-*  ngoại động từ
-- gây mê
-- tẩm clorofom, ngâm clorofom
+- kho, chỗ chứa ((nghĩa đen) & (nghĩa bóng))
+=a repository of goods
++ kho hàng
+- nơi chôn cất
+- người được ký thác tâm sự; người được ký thác điều bí mật
+@Chuyên ngành kinh tế
+-kho bảo quản
+-kho chứa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--CHCL3
--clorofom
-@Lĩnh vực: y học
--một chất lỏng dùng làm thuốc mê
+-chỗ chứa
+-kho chứa
+-nguồn
+-nơi chứa
+-phương tiện chứa
+@Lĩnh vực: môi trường
+-chỗ chôn (phế thải phóng xạ)
+-nơi chứa chất thải
+

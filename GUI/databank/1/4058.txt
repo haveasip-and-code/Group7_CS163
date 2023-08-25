@@ -1,10 +1,18 @@
-autoclaving	
-@autoclaving
-* danh từ
-- sự hấp; sự khử trùng (bằng nồi hấp)
-@Chuyên ngành kỹ thuật
--Sù hÊp kh? tr?ng
-@Lĩnh vực: hóa học & vật liệu
--quá trình ôtôcla
-@Lĩnh vực: xây dựng
--sự chưng áp
+premature
+	
+*  tính từ
+- sớm, yểu non
+=premature dealth
++ sự chết non, sự chết yểu
+=premature birth
++ sự đẻ non
+- hấp tấp, vội vã
+=a premature decision
++ một quyết định hấp tấp
+*  danh từ
+- sự nổ sớm (lựu đạn...)
+@Chuyên ngành kinh tế
+-chín đầu mùa
+-chín sớm
+-được thu hái sớm
+

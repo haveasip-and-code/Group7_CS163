@@ -1,29 +1,5 @@
-attenuate	
-@attenuate /ə'tenjueit/
-*  ngoại động từ
-- làm mỏng đi, làm mảnh đi, làm gầy đi
-- làm yếu đi
-- làm loãng
-- (vật lý) làm tắt dần, làm suy giảm
-*  tính từ
-- mỏng bớt, mảnh bớt
-- gầy còm, mảnh dẻ
-- yếu đi, giảm bớt
-- loãng đi
-@Chuyên ngành kinh tế
--pha loãng
-@Chuyên ngành kỹ thuật
--làm giảm
--làm loãng
--làm loãng đi
--làm yếu
--làm yếu đi
--sự khuếch tán
--sự suy giảm
--sự tắt dần
--suy giảm
--yếu dần
-@Lĩnh vực: xây dựng
--giảm va đập
-@Lĩnh vực: cơ khí & công trình
--tắt (dao động)
+interlaminar
+	
+@Lĩnh vực: điện lạnh
+-giữa các lớp
+

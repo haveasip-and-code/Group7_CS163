@@ -1,11 +1,23 @@
-unison	@unison /'ju:nizn/
-*  danh từ
-- (âm nhạc) trạng thái đồng âm
-=to sing in unison+ hợp xướng
-- trạng thái nhất trí, trạng thái hoà hợp
-=to act in perfect unison with others+ hành động nhất trí hoàn toàn với những người khác
-@Chuyên ngành kỹ thuật
--đồng âm
--sự êm tai
-@Lĩnh vực: vật lý
--sự đồng âm
+the
+	
+*  mạo từ
+- cái, con, người...
+=the house
++ cái nhà
+=the cat
++ con mèo
+- ấy, này (người, cái, con...)
+=I dislike the man
++ tôi không thích người này
+- duy nhất (người, vật...)
+=he is the shoemaker here
++ ông ta là người thợ giày duy nhất ở đây
+*  phó từ
+- (trước một từ so sánh) càng
+=the sooner you start the sooner you will get there
++ ra đi càng sơm, anh càng đến đấy sớm
+=so much the better
++ càng tốt
+=the sooner the better
++ càng sớm càng tốt
+

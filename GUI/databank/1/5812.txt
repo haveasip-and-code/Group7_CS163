@@ -1,13 +1,15 @@
-bland	
-@bland /blænd/
-*  tính từ
-- có cử chỉ dịu dàng, lễ phép
-- mỉa mai
-- ôn hoà (khí hậu)
-- ngọt dịu, thơm dịu, thơm tho (rượu, đồ ăn)
-@Chuyên ngành kinh tế
--ngọt dịu
--thơm ngọt
+uncultivated
+	
+* tính từ
+- không cày cấy; bỏ hoang
+= uncultivated land
++đất bỏ hoang
+- hoang; dại (cây cối)
+- không được trau dồi
+- không phát triển
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: môi trường
--ôn hòa (khí hậu)
+-bỏ hoang
+-không trồng trọt
+@Lĩnh vực: cơ khí & công trình
+-không được canh tác
+

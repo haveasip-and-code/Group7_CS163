@@ -1,23 +1,5 @@
-conservation	
-@conservation /,kɔnsə:'veiʃn/
-*  danh từ
-- sự giữ gìn, sự duy trì, sự bảo tồn, sự bảo toàn=conservation of energy
-+ sự bảo toàn năng lượng
-@Chuyên ngành kinh tế
--bảo tồn (môi trường thiên nhiên)
--sự bảo quản
--sự dự trữ
--sự giữ gìn
-@Chuyên ngành kỹ thuật
--bảo toàn
--bảo tồn
--bảo vệ
--gìn giữ
--giữ gìn
--sự bao gói
--sự bảo quản
--sự bảo toàn
--sự bảo vệ
--sự đóng hộp
-@Lĩnh vực: xây dựng
--sự bảo tồn
+birthstone
+	
+* danh từ
+- viên đá quý gắn một cách tượng trưng với tháng sinh
+

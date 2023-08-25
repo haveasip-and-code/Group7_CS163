@@ -1,7 +1,27 @@
-breakout	
+ruling
+	
+*  danh từ
+- sự cai trị, sự trị vì, sự thống trị; sự chỉ huy, sự điều khiển
+- sự quyết định (của quan toà...)
+- sự kẻ (giấy)
+*  tính từ
+- thống trị; cai trị, cầm quyền; chỉ huy, chỉ đạo; điều khiển; chiếm ưu thế, trội hơn cả
+=ruling circles
++ giới cầm quyền
+=ruling passion
++ sự say mê mạnh nhất; động cơ (chi phối mọi hành động)
+- hiện hành
+=ruling prices
++ giá cả hiện hành
 @Chuyên ngành kinh tế
--sự đột phá
--sự vượt rào
+-hiện thời
+-quy định
+-quyết định
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sự tháo gỡ
+-đường sinh
+-sự chia độ
+-sự rạch
+@Lĩnh vực: xây dựng
+-đường sinh (của mặt nón, mặt trụ)
+-sự khắc vạch
+

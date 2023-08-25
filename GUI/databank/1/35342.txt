@@ -1,8 +1,16 @@
-modulated	@modulated
-- (vật lí)bị biến điệu
+importance
+	
+*  danh từ
+- sự quan trọng, tầm quan trọng
+=a problem of great importance
++ một vấn đề rất quan trọng
+- quyền thế, thế lực
+=self
+-importance; to speak with an air of importance
++ nói với vẻ ta đây quan trọng, nói làm ra vẻ quan trọng
 @Chuyên ngành kỹ thuật
--biến điệu
+-giá trị
+-ý nghĩa
 @Lĩnh vực: toán & tin
--bị biến điệu
-@Lĩnh vực: điện lạnh
--bị điều biến
+-sự quan trọng
+

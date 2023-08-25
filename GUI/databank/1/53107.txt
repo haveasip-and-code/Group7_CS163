@@ -1,33 +1,7 @@
-stave	@stave /steiv/
-*  danh từ
-- miếng ván cong (để đóng thuyền, thùng rượu...)
-- nấc thang, bậc thang
-- đoạn thơ
-- (âm nhạc) khuông nhạc ((cũng) staff)
-- cái gậy
-*  ngoại động từ staved,  stove
-- đục thủng, làm thủng (thùng, tàu)
-- làm bẹp (hộp, mũ)
-- ghép ván để làm (thùng rượu)
-- ép (kim loại) cho chắc
-!to stave in
-- đục thủng
-- làm bẹp
-!to stave off
-- ngăn chặn, phòng ngừa, tránh
-@Chuyên ngành kinh tế
--búa tán
--đinh tán
--sự tán
-@Chuyên ngành kỹ thuật
--dát
--sự tán
-@Lĩnh vực: xây dựng
--bậc thang, nấc thang
-@Lĩnh vực: cơ khí & công trình
--chồn ép
--đục thủng
--thanh ngang thang
--tháo đinh tán
--thiết bị làm lạnh bọc thép (nồi lò cao)
--ván cong
+daytime
+	
+* danh từ
+- thời gian giữa lúc mặt trời mọc và mặt trời lặn; ban ngày
+= you hardly ever see owls in the daytime
++ban ngày hầu như không bao giờ có thể trông thấy cú
+

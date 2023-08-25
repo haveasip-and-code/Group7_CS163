@@ -1,4 +1,14 @@
-eats	
-@eats /i:ts/
-*  danh từ số nhiều
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thức ăn, đồ ăn
+emotion
+	
+*  danh từ
+- sự cảm động, sự xúc động, sự xúc cảm
+- mối xúc động, mối xúc cảm
+@Chuyên ngành kỹ thuật
+-cảm xúc
+@Lĩnh vực: y học
+-xúc cảm
+@Chuyên ngành kỹ thuật
+-cảm xúc
+@Lĩnh vực: y học
+-xúc cảm
+

@@ -1,5 +1,24 @@
-aspergillum	
-@aspergillum
-* danh từ
-- số nhiều aspergilla,  aspergillums
-- chổi rảy nước thánh
+preference
+	
+*  danh từ
+- sự thích hơn, sự ưa hơn
+=preference of A to (over) B
++ sự ưa A hơn B
+- cái được ưa thích hơn
+- quyền ưu tiên (trả nợ...)
+=preference share
++ cổ phần ưu tiên
+- (thương nghiệp) sự ưu đãi, sự dành ưu tiên (cho ai, một nước nào... nhập hàng hoá với mức thuế nhẹ...)
+@Chuyên ngành kinh tế
+-chế độ ưu đãi
+-người hay vật được ưa thích
+-quyền ưu tiên
+-sự ưu đãi
+-sự ưu thích
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-sở thích
+-sự thích hơn
+@Lĩnh vực: giao thông & vận tải
+-sự ưu đãi
+

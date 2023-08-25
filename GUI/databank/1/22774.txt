@@ -1,8 +1,14 @@
-gait	
-@gait /geit/
+demarcation
+	
 *  danh từ
-- dáng đi=an awkward gait
-+ dáng đi vụng về
+- sự phân ranh giới
+=line of demarcation
++ đường phân ranh giới, giới tuyến
+@Chuyên ngành kinh tế
+-sự phân ranh giới
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dáng đi
+-cọc mốc
+-ranh giới
+@Lĩnh vực: điện lạnh
+-phân giới
+

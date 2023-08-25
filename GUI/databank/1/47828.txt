@@ -1,8 +1,10 @@
-rivulet	@rivulet /'rivjulit/
+consignor
+	
 *  danh từ
-- dòng suối nhỏ, lạch ngòi
+- người gửi, người gửi hàng gửi để bán
+@Chuyên ngành kinh tế
+-người gửi bán
+-người gửi hàng
 @Chuyên ngành kỹ thuật
--dòng chảy nhỏ
--dòng suối nhỏ
--lạch
--suối
+-người gửi hàng
+

@@ -1,43 +1,4 @@
-warp	@warp /wɔ:p/
-*  danh từ
-- (nghành dệt) sợi dọc
-=warp frame+ khung mắc cửi
-- (hàng hải) dây kéo thuyền
-- đất bồi, đất phù sa
-- (kỹ thuật) trạng thái oằn, trạng thái vênh (của thanh sắt, tấm ván...)
-- (nghĩa bóng) sự sai lạc, sự suy đốn, sự sa đoạ tinh thần
-*  ngoại động từ
-- (kỹ thuật) làm cong, làm oằn (thanh sắt, tấm ván), làm vênh (bánh xe)
-- (hàng hải) kéo (thuyền)
-- bồi đất phù sa (cho ruộng)
-- làm sai lạc, làm thiên lệch, làm sa đoạ, làm suy đốn (tinh thần)
-=judgment is warped by self-interest+ vì tư lợi mà suy xét bị sai lạc hẳn đi
-*  nội động từ
-- cong, oằn, vênh
-- (hàng hải) được kéo
-=to warp out of port+ được kéo ra khỏi cảng
-@Chuyên ngành kỹ thuật
--bọc lại
--đất bồi
--đất bồi tích
--đất phù sa
--làm vênh
--mắc sợi dọc
--mạch
--sợi dọc
--sợi dọc (lưới dây kim loại)
--sự vênh
--sự vênh (của thủy tinh quang học)
--vênh
-@Lĩnh vực: vật lý
--làm cong, vênh
--méo âm
--méo tiếng
-@Lĩnh vực: hóa học & vật liệu
--sự cong ống
-@Lĩnh vực: giao thông & vận tải
--sự kéo (tàu) (bằng thừng chão)
-@Lĩnh vực: ô tô
--trạng thái cong vênh
-@Lĩnh vực: xây dựng
--trạng thái vênh
+supplying
+	
+-sự cung cấp
+

@@ -1,4 +1,13 @@
-antiauxin	
-@antiauxin
-* danh từ
-- chất kháng auxin
+projectile
+	
+*  tính từ
+- phóng ra, bắn ra
+=projectile force
++ sức phóng ra, sức bắn ra
+- có thể phóng ra, có thể bắn ra
+*  danh từ
+- vật phóng ra, đạn bắn ra
+@Chuyên ngành kỹ thuật
+-đạn
+-đầu đạn
+

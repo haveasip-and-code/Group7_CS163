@@ -1,2 +1,14 @@
-payday	@Chuyên ngành kinh tế
--hạn thanh toán và giao hàng
+clang
+	
+*  danh từ
+- tiếng vang rền; tiếng lanh lảnh (kim loại)
+*  ngoại động từ
+- làm kêu vang, làm kêu lanh lảnh
+=to clang the bell
++ rung chuông
+*  nội động từ
+- kêu vang rền; kêu lanh lảnh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-tiếng dội kim
+

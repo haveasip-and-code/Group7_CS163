@@ -1,4 +1,19 @@
-femtosecond	
-@femtosecond
-- (Tech) femtô giây (10 lũy thừa 
--15 giây)
+intersect
+	
+*  nội động từ
+- cắt ngang nhau, chéo nhau
+- (toán học) cắt giao nhau
+@Chuyên ngành kỹ thuật
+-cắt
+-gặp nhau
+-giao nhau
+-hội
+-sự gặp nhau
+-xuyên qua
+@Lĩnh vực: xây dựng
+-cắt qua
+@Lĩnh vực: toán & tin
+-giao (nhau)
+-nhân lôgic
+-phép giao
+

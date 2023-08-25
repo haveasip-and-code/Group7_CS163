@@ -1,9 +1,27 @@
-portability	@portability /,pɔ:təbiliti/
+fume
+	
 *  danh từ
-- tính dễ mang theo, tính xách tay được
+- khói, hơi khói, hơi bốc
+=the fumes of tobacco
++ khói thuốc lá
+=the fumes of wine
++ hơi men
+- cơn (xúc động...); cơn giận
+=to be a fume of impatience
++ đang lúc sốt ruột
+=to be in a fume
++ đang cơn giận dỗi
+*  nội động từ
+- phun khói, phun lửa
+- cáu kỉnh, nổi đoá
+=to fret, fuss and fume over (about) trifles
++ bực bội, làm ầm lên và cáu kỉnh về những chuyện lặt vặt
+- bốc lên (hơi, khói)
+*  ngoại động từ
+- xông hương, xông trầm
+- hơ khói, xông khói, hun khói
 @Chuyên ngành kỹ thuật
--tính khả chuyển
--tương thích tiến
-@Lĩnh vực: toán & tin
--tính linh động
--tính mang chuyển được
+-khói
+-làn khói
+-nổi nóng
+

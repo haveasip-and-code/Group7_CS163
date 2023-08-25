@@ -1,11 +1,17 @@
-illuminator	
-@illuminator /i'lju:mineitə/
-*  danh từ
-- đèn chiếu sáng
-- người soi sáng, người làm sáng tỏ (một vấn đề)
-- người sơn son thiếp vàng, người tô màu (những bản cảo...)
+relinquish
+	
+*  ngoại động từ
+- bỏ, từ bỏ (thói quen, hy vọng, quyền lợi...)
+=to relinquish one's hopes
++ từ bỏ hy vọng
+=to relinquish one's habits
++ bỏ những thói quen
+- buông, thả
+=to relinquish one's hold
++ buông tay ra
 @Chuyên ngành kỹ thuật
--đèn chiếu sáng
--máy chiếu sáng
-@Lĩnh vực: điện lạnh
--cửa chiếu sáng
+-bỏ
+-xóa
+@Lĩnh vực: toán & tin
+-giải phóng không gian (đĩa)
+

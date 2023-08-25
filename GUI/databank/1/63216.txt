@@ -1,6 +1,5 @@
-woodpile	@woodpile /'wudpail/
-*  danh từ
-- đống gỗ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đống gỗ
+picofarad
+	
+@Lĩnh vực: điện
+-picô farad (pF)
+

@@ -1,11 +1,14 @@
-regulations	@Chuyên ngành kinh tế
--nội quy
--quy tác, quy định, điều lệ (công ty)
+incinerator
+	
+*  danh từ
+- lò đốt rác
+- lò thiêu; lò hoả táng
+- người thiêu; người hoả táng
 @Chuyên ngành kỹ thuật
--điều lệ
--luật lệ
--quy phạm
--quy tắc
-@Lĩnh vực: xây dựng
--những điều quy định
--nội quy
+-lò đốt
+-lò đốt rác
+-lò đốt thành tro
+-lò hỏa táng
+-lò nung
+-lò thiêu
+

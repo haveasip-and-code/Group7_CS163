@@ -1,6 +1,16 @@
-weekday	@weekday
-* danh từ
-- ngày thường trong tuần (bất cứ ngày nào trừ ngày chủ nhật)
-@Chuyên ngành kinh tế
--ngày (thường) trong tuần
--ngày mở cửa (không kể ngày chủ nhật)
+adamant
+	
+*  danh từ
+- kỉ cương
+- (thơ ca) cái cứng rắn, cái sắt đá
+=a heart of adamant
++ tim sắt đá
+- (từ cổ,nghĩa cổ) đá nam châm
+*  tính từ
+- cứng rắn, rắn như kim cương
+- sắt đá, gang thép
+@Chuyên ngành kỹ thuật
+-kim cương
+@Lĩnh vực: xây dựng
+-đá kim cương
+

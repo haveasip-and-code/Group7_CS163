@@ -1,49 +1,68 @@
-rail	@rail /reil/
+lot
+	
 *  danh từ
-- tay vịn (cầu thang, lan can...); bao lơn, lan can, thành (cầu tàu...); lá chắn (xe bò...)
-- hàng rào, (số nhiều) hàng rào chấn song
-- (ngành đường sắt) đường ray, đường xe lửa
-=off the rails+ trật đường ray; (nghĩa bóng) hỗn loạn, lộn xộn; hỏng, không chạy tốt (máy...)
-=to go by rail+ đi xe lửa
-- (kiến trúc) xà ngang (nhà)
-- cái giá xoay (để khăn mặt...)
-!thin as a rail
-- gây như que củi
+- thăm, việc rút thăm; sự chọn bằng cách rút thăm
+=to cast lots
++ rút thăm
+=to choose by lot
++ chọn bằng cách rút thăm
+=the lot fell on him
++ rút thăm trúng anh ấy
+- phần do rút thăm định; phần tham gia
+=to have no part nor lot in
++ không dính dáng gì vào
+- số, phận, số phận, số mệnh
+=he has throw (cast) in his lot with us
++ nó muốn cùng chia sẻ số phận với chúng tôi
+=the lot falls to me (it falls to me as my lot) to do something
++ cái số tôi phải làm cái gì
+- mảnh, lô (đất)
+=a lot of ground
++ một mảnh đất, một lô đất
+=parking lot
++ khu đất đỗ xe, chỗ đỗ xe
+- mớ, lô; (số nhiều) rất nhiều, vô số, hàng đống, hàng đàn
+=lot of woollens
++ một lô hàng len
+=the lot
++ cả lô, cả mớ, cả bọn
+=lots of friends
++ rất nhiều bạn, hàng đống bạn
+!bad lot
+- (xem) bad
 *  ngoại động từ
-- làm tay vịn cho, làm lan can cho
-- rào lại; làm rào xung quanh
-=to rail in (off) a piece of ground+ rào một miếng đất lại
-- gửi (hàng hoá) bằng xe lửa; đi du lịch bằng xe lửa
-- đặt đường ray
-*  danh từ
-- (động vật học) gà nước
-*  nội động từ
-- chửi bới, măng nhiếc, xỉ vả
-=to rail at (against) someone+ chửi bới ai
-=to rail at fate+ than thân trách phận
+- chia ra làm nhiều phần, chia ra làm nhiều mảnh, chia ra làm nhiều lô (đất, hàng để bán)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trông non, trông cậy (ở ai, cái gì)
+=to lot on (upon) somebody
++ trông mong ở ai
+*  phó từ
+- nhiều, vô số
+=I feel a lot better
++ tôi cảm thấy khoẻ hơn nhiều
 @Chuyên ngành kinh tế
--dàn treo
--đường ray
--đường sắt
--đường sắt có răng
--xà ngang
+-chia lô
+-chia ra làm nhiều lô
+-lô
+-lô (cổ phiếu)
+-lô hàng
+-miếng
+-mớ (hàng hóa)
+-ôm
+-phần
+-phân lô
+-thửa (đất)
 @Chuyên ngành kỹ thuật
--đường ray
--đường sắt
--giằng
--lan can
--ray
--ray đường sắt
--ray, lan can, thanh ngang
--tay vịn
--tay vịn (cầu thang)
--tay vịn cầu thang
--thanh ngang
--xà ngang
-@Lĩnh vực: cơ khí & công trình
--bao lơn
-@Lĩnh vực: xây dựng
--đố (cửa sổ)
--tường chắn bảo vệ
-@Lĩnh vực: giao thông & vận tải
--tay vịn (đóng tàu)
+-bè
+-công trường
+-khối
+-lô
+-lô (hàng)
+-lô đất
+-loạt
+-loạt sản phẩm
+-nhóm
+-mảnh đất
+-mớ
+@Lĩnh vực: hóa học & vật liệu
+-khoảnh (đất)
+

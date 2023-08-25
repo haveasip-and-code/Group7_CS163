@@ -1,13 +1,10 @@
-chipboard	
-@chipboard
-* danh từ
-- vỏ bào ép với nhựa dính làm vật liệu xây dựng
-@Chuyên ngành kinh tế
--giấy cạc
--tông làm từ giấy phế liệu
--giấy cứng thô
+fosse
+	
+*  danh từ
+- (quân sự) hào
+- (giải phẫu) (như) fossa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--giâý bìa
-@Lĩnh vực: xây dựng
--tấm bằng vỏ bào
+-hào
+-hố
+-rãnh
+

@@ -1,8 +1,6 @@
-signing	@signing
-* danh từ
-- việc dùng cử chỉ để nói với người điếc
-@Chuyên ngành kinh tế
--việc ký tên
--việc nhận trả
-@Chuyên ngành kỹ thuật
--chỉ đường
+prelusive
+	
+*  tính từ
+- mở đầu, mào đầu, giáo đầu; để mở đầu, để mào đầu, để giáo đầu
+- báo trước; để báo trước
+

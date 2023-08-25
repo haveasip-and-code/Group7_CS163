@@ -1,39 +1,32 @@
-fling	
-@fling /fling/
+exciter
+	
 *  danh từ
-- sự ném, sự vứt, sự quăng, sự liệng, sự lao, sự gieo (quân súc sắc)
-- sự nhào xuống, sự nhảy bổ
-- sự lu bù (ăn chơi...)=to have one's fling
-+ ăn chơi lu bù
-- lời nói mỉa; lời chế nhạo=to have a fling at somebody
-+ nói mỉa ai; chế nhạo ai
-- (thông tục) sự thử làm, sự gắng thử=to have a fling at something
-+ thử làm gì, gắng thử gì
-- điệu múa sôi nổi=the Highland fling
-+ điệu múa sôi nổi của Ê
--cốt
-*  nội động từ flung
-- chạy vụt, lao nhanh=to fling out of the room
-+ lao ra khỏi phòng
-- chửi mắng, nói nặng=to fling out
-+ chửi mắng ầm ĩ
-- hất (ngựa)
-*  ngoại động từ
-- ném, vứt, quăng, liệng, lao, tống=to fling something away
-+ ném vật gì đi=to fling troops on enemy (against enemy position)
-+ lao quân vào kẻ địch (vào vị trí địch)=to fling oneself into a task
-+ lao mình vào nhiệm vụ=to fling oneself on someone's pity
-+ phó thác mình vào lòng thương của ai=to fling someone into prison
-+ tống cổ ai vào tù
-- hất ngã=horse flings rider
-+ ngựa hất ngã người cưỡi
-- đá hậu
-- vung (tay...); hất (đầu...)
-- đưa (mắt) nhìn lơ đãng
-- toà án, phát ra=flowers fling their fragrance around
-+ hoa toả hương thơm
-- đẩy tung (cửa)=to fling door open
-+ mở tung cửa!to fling caution to the wind
-- liều lĩnh, thục mạng!to fling facts in somebody's teeth
-- đưa việc ra để máng vào mặt ai!to fling oneself at someone's head
-- cố chài được ai lấy mình làm vợ
+- người kích thích, người kích động
+- (kỹ thuật) bộ kích thích
+@Chuyên ngành kỹ thuật
+-bộ kích từ
+-máy kích động
+-máy kích thích
+-máy kích từ
+@Lĩnh vực: cơ khí & công trình
+-bộ kích điện
+@Lĩnh vực: toán & tin
+-bộ kích động
+@Lĩnh vực: điện tử & viễn thông
+-bộ kích thích
+@Lĩnh vực: điện lạnh
+-đèn kích thích
+@Chuyên ngành kỹ thuật
+-bộ kích từ
+-máy kích động
+-máy kích thích
+-máy kích từ
+@Lĩnh vực: cơ khí & công trình
+-bộ kích điện
+@Lĩnh vực: toán & tin
+-bộ kích động
+@Lĩnh vực: điện tử & viễn thông
+-bộ kích thích
+@Lĩnh vực: điện lạnh
+-đèn kích thích
+

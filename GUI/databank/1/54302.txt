@@ -1,26 +1,5 @@
-subway	@subway /'sʌbwei/
-*  danh từ
-- đường ngầm, hầm ngầm
-- (từ Mỹ,nghĩa Mỹ) đường xe lửa ngầm; đường xe điện ngầm
-*  nội động từ
-- (từ Mỹ,nghĩa Mỹ) đi bằng xe lửa ngầm; đi bằng xe điện ngầm
-@Chuyên ngành kinh tế
--đường ngầm
--đường xe điện ngầm
-@Chuyên ngành kỹ thuật
--dây cáp
--đường hầm
--đường ngầm
--đường tàu điện ngầm
--lối đi dưới đất
--tàu điện ngầm
-@Lĩnh vực: xây dựng
--địa đạo
--đường xe điện ngầm
--hầm chui qua đường
--hệ đường ray ngầm
--xe điện ngầm
-@Lĩnh vực: giao thông & vận tải
--đường hầm (dành cho khách đi bộ)
-@Lĩnh vực: điện
--tầu điện ngầm
+practised
+	
+*  tính từ
+- thực hành nhiều, có kinh nghiệm
+

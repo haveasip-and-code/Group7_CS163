@@ -1,10 +1,20 @@
-pediment	@pediment /'pedimənt/
+parapet
+	
 *  danh từ
-- (kiến trúc) trán tường
+- tường chân mái; tường góc lan can; tường góc lan can; tường phòng hộ (trên đường ô tô)
+- (quân sự) công sự mặt (ở phía trước hoà)
 @Chuyên ngành kỹ thuật
+-đê chắn sóng
+-lan can
+-tay vịn
+-tường chắn mái
+-tường chắn sóng
+-tường phòng hộ
+-vỉa hè
 @Lĩnh vực: xây dựng
--bình nguyên chân núi
--đường viền cửa số
--trán tường
-@Lĩnh vực: hóa học & vật liệu
--peđimen
+-lan can cầu
+-lan can mái nhà
+-tường đầu
+-tường lũy bảo vệ
+-tường phòng hộ (trên đường ôtô)
+

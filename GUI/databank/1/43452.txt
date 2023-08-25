@@ -1,41 +1,5 @@
-pressure	@pressure /'preʃə/
-*  danh từ
-- sức ép, áp lực ((nghĩa đen) & (nghĩa bóng)), áp suất
-=atmospheric pressure+ áp suất quyển khí
-=low pressure+ áp suất thấp
-=under the pressure of public opinion+ dưới sức ép của dư luận quần chúng
-=to bring pressure to bear upon somebody; to put pressure upon somebody+ (nghĩa bóng) dùng sức ép đối với ai
-- sự đè nặng, sự ép buộc, sự thúc bách; cảnh quẩn bách
-=financial pressure+ tài chính quẩn bách
-- sự vội vã, sự cấp bách, sự gấp, sự khẩn cấp
-=write hastily and under pressure+ viết vội vã trong hoàn cảnh cấp bách; bị ép buộc phải viết vội vã
-- (điện học) ứng suất
-!high pressure
-- áp suất cao
-- (nghĩa bóng) sự tích cực hết sức; sự hăng hái hết sức, sự khẩn trương hết sức
-=to work at high pressure+ làm việc hết sức tích cực, làm việc hết sức khẩn trương hăng hái
-@Chuyên ngành kinh tế
--áp lực
--áp suất
--sự nén
-@Chuyên ngành kỹ thuật
--áp lực
--áp suất
--áp suất âm thanh
--cột áp
--cột nước
--điện áp
--điện thế
--độ nén
--lực đẩy
--lực đẩy ngang
--sự ép
--sự nén
--sức đẩy
--sức nén
-@Lĩnh vực: toán & tin
--áo lực
-@Lĩnh vực: cơ khí & công trình
--sức ép
-@Lĩnh vực: điện
--tạo sức ép
+precipitinogen
+	
+@Lĩnh vực: hóa học & vật liệu
+-ngưng kết nguyên
+

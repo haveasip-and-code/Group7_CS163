@@ -1,7 +1,17 @@
-voussoir	@Chuyên ngành kỹ thuật
--gạch cuốn vòm
--gạch định cỡ
--gạch nêm
--gạch vòm
-@Lĩnh vực: xây dựng
--đá nêm
+printing
+	
+*  danh từ
+- sự in
+- nghề ấn loát
+@Chuyên ngành kỹ thuật
+-in
+-nghề in
+-quá trình in
+-sự in
+-sự in ảnh
+@Lĩnh vực: điện
+-ấn phẩm
+-việc in
+@Lĩnh vực: điện tử & viễn thông
+-kỹ thuật in
+

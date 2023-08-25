@@ -1,12 +1,5 @@
-freak	
-@freak /fri:k/
-*  danh từ
-- tính đồng bóng, tính hay thay đổi=out of mere freak
-+ chỉ vì tính đồng bóng
-- quái vật; điều kỳ dị=a freak of nature
-+ một quái vật
-*  ngoại động từ
-- làm lốm đốm, làm có vệt
-@Chuyên ngành kỹ thuật
--đốm
--vệt
+telangiectasia
+	
+@Lĩnh vực: y học
+-chứng giãn mao mạch
+

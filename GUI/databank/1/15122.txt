@@ -1,17 +1,5 @@
-diagram	
-@diagram /'daiəgræm/
-*  danh từ
-- biểu đồ
-@Chuyên ngành kinh tế
--biểu đồ
--đồ biểu
--đồ giải
--sơ đồ
-@Chuyên ngành kỹ thuật
--biểu đồ
--đồ thị
--giản đồ
--lập biểu đồ
--sơ đồ
-@Lĩnh vực: y học
--biểu đồ, sơ đồ
+unresolvable
+	
+* tính từ
+- không thể giải quyết, không thể giải đáp được
+

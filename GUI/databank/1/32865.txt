@@ -1,10 +1,9 @@
-lubrication	@lubrication /,lu:bri'keiʃn/
-*  danh từ
-- sự tra dầu mỡ, sự bôi trơn
+actinometry
+	
+- xem actinometer
 @Chuyên ngành kỹ thuật
--bôi trơn
--chất bôi trơn
--dầu bôi trơn
--mỡ bôi trơn
--sự bôi trơn
--sự tra dầu
+-đo nhật xạ
+-phép đo bức xạ
+-phép đo độ quang hóa
+-phép đo nhật xạ
+

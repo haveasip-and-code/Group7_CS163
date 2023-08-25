@@ -1,7 +1,15 @@
-virilism	@virilism
-* danh từ
-- hiện tượng hoá đực
-- hiện tượng phát triển tính đực
+amenity
+	
+*  danh từ
+- tính nhã nhặn, tính hoà nhã
+- sự dễ chịu, sự thú vị (ở nơi nào...)
+- (số nhiều) những thú vị, những hứng thú
+=amenities of home life
++ những thú vui của đời sống gia đình
+- tiện nghi
+=amenities of life
++ tiện nghi của cuộc sống
+- (số nhiều) thái độ hoà nhã, thái độ nhã nhặn, thái độ dễ chịu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự nam hóa
+-tiện nghi
+

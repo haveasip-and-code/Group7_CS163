@@ -1,13 +1,19 @@
-estoppel	
-@estoppel /is'tɔpəl/
+opacity
+	
 *  danh từ
-- (pháp lý) sự ngăn ai không cho nhận (vì trái với lời nhận hoặc phủ nhận trước của chính người đó)
-@Chuyên ngành kinh tế
--cấm nói ngược
--cấm nói trái lời chứng trước
--ngăn không cho cải chính
--sự cấm nói ngược
--sự cấm nói trái lời chứng trước
--sự cấm phản cung
--sự không cho phủ nhận
--sự ngăn không cho cho nhận
+- tính mờ đục
+- (vật lý) tính chắn sáng; độ chắn sáng
+- sự tối nghĩa (của một từ)
+- sự trì độn
+@Chuyên ngành kỹ thuật
+-độ chắn sáng
+-độ mờ đục
+-không trong suốt
+@Lĩnh vực: điện lạnh
+-độ không trong suốt
+-tính mở
+@Lĩnh vực: xây dựng
+-sự mờ đục
+-tính bịt kín
+-tính tiêu âm
+

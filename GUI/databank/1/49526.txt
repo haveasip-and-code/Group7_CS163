@@ -1,11 +1,11 @@
-sedan	@sedan /si'dæn/
+haulier
+	
 *  danh từ
-- ghế kiệu ((cũng) sedan-chair)
-- xe ô tô mui kín
-@Chuyên ngành kỹ thuật
--xe mui kín
-@Lĩnh vực: ô tô
--xe du lịch
--xe ôtô mui kín
-@Lĩnh vực: cơ khí & công trình
--xe kín mui
+- người kéo
+- (ngành mỏ) người đẩy goòng
+- người chuyên chở (bằng xe vận tải)
+@Chuyên ngành kinh tế
+-hãng vận tải đường bộ
+-người vận tải đường bộ
+-nhà thầu xa vận
+

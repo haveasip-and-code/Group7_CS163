@@ -1,11 +1,8 @@
-engraver	
-@engraver /in'greivə/
-*  danh từ
-- người thợ khắc, người thợ chạm
-- máy khắc, dao khắc
+dermal
+	
+*  tính từ
+- (thuộc) da
 @Chuyên ngành kỹ thuật
--dao khắc
--máy khắc
-@Chuyên ngành kỹ thuật
--dao khắc
--máy khắc
+@Lĩnh vực: y học
+-thuộc da
+

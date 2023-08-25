@@ -1,9 +1,5 @@
-metallic	@metallic /mi'tælik/
-*  tính từ
-- (thuộc) kim loại; như kim loại
-=metallic sound+ tiếng kim
-@Chuyên ngành kỹ thuật
--bằng kim loại
--kim loại
-@Lĩnh vực: y học
--thuộc kim loại
+medicos
+	
+* danh từ
+- <thgt> thầy thuốc
+

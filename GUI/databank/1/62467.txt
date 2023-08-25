@@ -1,15 +1,9 @@
-wastage	@wastage /'weistidʤ/
-*  danh từ
-- sự hao phí, sự lãng phí, sự mất mát, sự phí phạm
-- số lượng hao hụt, số lãng phí
-@Chuyên ngành kinh tế
--lương hao hụt
--lượng hao hụt
--số tiền thiếu hụt (chi nhiều hơn thu)
--sự hao hụt
+guideway
+	
+* danh từ
+- đường dẫn
 @Chuyên ngành kỹ thuật
--chất thải
--lượng hao hụt
--sự mất mát
-@Lĩnh vực: hóa học & vật liệu
--sự hao phí
+-đường dẫn
+-đường rãnh dẫn
+-đường trượt
+

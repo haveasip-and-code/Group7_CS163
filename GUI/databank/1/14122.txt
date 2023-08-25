@@ -1,7 +1,13 @@
-deft	
-@deft /deft/
+sonant
+	
 *  tính từ
-- khéo léo, khéo tay
+- (ngôn ngữ học) kêu, có thanh (âm)
+*  danh từ
+- (ngôn ngữ học) phụ âm kêu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--khéo
+-kêu
+@Lĩnh vực: toán & tin
+-kêu, phát âm
+@Lĩnh vực: vật lý
+-phát âm
+

@@ -1,20 +1,16 @@
-amend	
-@amend /ə'mend/
-*  ngoại động từ
-- sửa cho tốt hơn, làm cho tốt hơn; cải thiện=to amend one's way of living
-+ sửa đổi lối sống
-- bồi bổ, cải tạo (đất)=to amend land
-+ bồi bổ đất
-- sửa đổi, thay đổi (văn kiện pháp lý); bổ sung (chỗ thiếu sót, sai lầm trong một văn kiện...)=to amend a law
-+ bổ sung một đạo luật
-*  nội động từ
-- trở nên tốt hơn, cải tà quy chánh
-- (từ cổ,nghĩa cổ) bình phục, hồi phục sức khoẻ
+weapon
+	
+*  danh từ
+- vũ khí ((nghĩa đen) & (nghĩa bóng))
+=weapon of defence
++ vũ khí tự vệ
+=armed with the weapon of Marxism
+-Leninism
++ vũ trang bằng lý luận Mác
+-Lênin
 @Chuyên ngành kinh tế
--bổ sung
--sửa đổi
--thay đổi
--tu chính
+-vũ khí
 @Chuyên ngành kỹ thuật
--chấm dứt dị thường
--hoàn thiện
+@Lĩnh vực: xây dựng
+-khí giới
+

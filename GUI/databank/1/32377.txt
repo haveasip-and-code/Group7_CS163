@@ -1,19 +1,5 @@
-liquidate	@liquidate /'likwideit/
-*  ngoại động từ
-- thanh lý, thanh toán
-*  nội động từ
-- thanh toán nợ; thanh toán mọi khoản để thôi kinh doanh
-@Chuyên ngành kinh tế
--bán lấy tiền mặt
--đổi thành tiền mặt
--giải quyết xong
--hiện kim hóa (tài sản)
--thanh lý
--thanh lý (xí nghiệp phá sản)
--thanh toán
--thanh toán xong
--trả dứt (nợ)
-@Chuyên ngành kỹ thuật
--thanh toán
-@Chuyên ngành kỹ thuật
--thanh toán
+sickish
+	
+* tính từ
+- hơi ốm; hơi buồn nôn
+

@@ -1,9 +1,5 @@
-twiddle	@twiddle /'twidl/
-*  danh từ
-- sự xoay nhẹ, sự vặn nhẹ
-*  động từ
-- xoay xoay, vặn vặn, nghịch
-=to twiddle with one's watch-chain+ nghịch cái dây đồng hồ
-!to twiddle one's thumbs
-- nghịch nghịch ngoáy ngoáy hai ngón tay cái
-- ngồi rồi, không làm gì
+subnet
+	
+@Lĩnh vực: toán & tin
+-mạng phụ, mạng con
+

@@ -1,4 +1,40 @@
-ethnologist	
-@ethnologist /eθ'nɔlədʤist/
+variable
+	
+*  tính từ
+- có thể thay đổi
+- hay thay đổi; thay đổi, biến thiên
+=variable length
++ chiều dài thay đổi
+=variable function
++ hàm số biến thiên
+=variable flow
++ dòng chảy biến thiên
+=variable wind
++ gió hay thay đổi
+- (từ Mỹ,nghĩa Mỹ),  (địa lý,địa chất) variable zone ôn đới
 *  danh từ
-- nhà dân tộc học
+- (toán học) biến số
+- (hàng hải) gió thay đổi
+- (số nhiều) (hàng hải) vùng (biển) không có gió thường xuyên
+@Chuyên ngành kinh tế
+-bất định
+-biến đổi
+-biến lượng, biến số
+-biến số
+-khả biến
+-nhân tố khả biến
+-thay đổ
+-thay đổi
+@Chuyên ngành kỹ thuật
+-biến
+-biến (số)
+-biến đổi
+-biến số
+-biến thiên
+@Lĩnh vực: cơ khí & công trình
+-biến động
+@Lĩnh vực: xây dựng
+-tham biến
+@Lĩnh vực: hóa học & vật liệu
+-vara (đơn vị chiều dài ở Nam Mỹ khoảng 60 cm)
+

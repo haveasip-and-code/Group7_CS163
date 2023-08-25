@@ -1,11 +1,5 @@
-overproduction	@overproduction /'ouvəprə'dʌkʃn/
-*  danh từ
-- sự sản xuất thừa, sự sản xuất quá nhiều; sự khủng hoảng thừa
-@Chuyên ngành kinh tế
--sản xuất quá nhiều
--sản xuất quá thừa
--sản xuất thừa
--sự sản xuất quá nhiều
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sự sản xuất thừa
+floristic
+	
+* tính từ
+- thuộc hoa; thuộc giới thực vật, hệ thực vật
+

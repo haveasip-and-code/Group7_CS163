@@ -1,8 +1,6 @@
-tabulating	@tabulating
-- sự lập thành bảng
-@Chuyên ngành kinh tế
--trình bày thành bảng
-@Chuyên ngành kỹ thuật
--sự lập bảng
+semilogarithmic
+	
 @Lĩnh vực: toán & tin
--sự lập bảng biểu
+-bán lôgarit
+-nửa lôgarit
+

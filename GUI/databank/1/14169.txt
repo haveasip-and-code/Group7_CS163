@@ -1,13 +1,6 @@
-dehydrate	
-@dehydrate /di:'haidreit/
-*  ngoại động từ
-- (hoá học) loại nước
-@Chuyên ngành kinh tế
--làm khô
--loại nước
-@Chuyên ngành kỹ thuật
--hút nước
--khử nước
--loại nước
-@Lĩnh vực: hóa học & vật liệu
--loại nước, khử nước
+stultification
+	
+*  danh từ
+- sự làm mất tác dụng (một điều luật)
+- sự làm (ai) trở nên lố bịch, sự làm (ai) tự mâu thuẫn với mình
+

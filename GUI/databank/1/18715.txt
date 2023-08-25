@@ -1,13 +1,5 @@
-epidemic	
-@epidemic /,epi'demik/
-*  tính từ
-- dịch=an epidemic disease
-+ bệnh dịch
+corymb
+	
 *  danh từ
-- bệnh dịch ((nghĩa đen) & (nghĩa bóng))
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dịch bộc phát
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--dịch bộc phát
+- (thực vật học) ngù (một kiểu cụm hoa)
+

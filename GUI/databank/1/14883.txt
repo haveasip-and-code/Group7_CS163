@@ -1,5 +1,10 @@
-detailer	
-@detailer
-- xem detail
-@Chuyên ngành kinh tế
--người chào hàng chuyên nghiệp
+cyclic
+	
+*  tính từ
+- tuần hoàn, theo chu kỳ
+@Chuyên ngành kỹ thuật
+-chu trình
+-vòng
+@Lĩnh vực: hóa học & vật liệu
+-có vòng
+

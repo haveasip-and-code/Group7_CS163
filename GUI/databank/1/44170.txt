@@ -1,9 +1,6 @@
-prose	@prose /prose/
-*  danh từ
-- văn xuôi
-- bài nói chán ngắt
-- tính tầm thường, tính dung tục
-- (tôn giáo) bài tụng ca
-- (định ngữ) (thuộc) văn xuôi
-=prose works+ những tác phẩm văn xuôi
-=prose writer+ nhà viết văn xuôi
+appeasable
+	
+*  tính từ
+- có thể khuyên giải; có thể an ủi, có thể làm cho khuây, có thể làm cho nguôi
+- có thể làm cho dịu đi; có thể làm cho đỡ
+

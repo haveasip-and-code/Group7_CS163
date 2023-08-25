@@ -1,7 +1,6 @@
-demount	
-@demount
-- (Tech) tháo ra, gỡ ra
-@Chuyên ngành kỹ thuật
--tháo
-@Lĩnh vực: toán & tin
--gỡ ra
+turbary
+	
+*  danh từ
+- mỏ than bùn
+- quyền được lấy than bùn (ở đất của người khác)
+

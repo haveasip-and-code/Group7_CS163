@@ -1,14 +1,14 @@
-equate	
-@equate /i'kweit/
-*  ngoại động từ
-- làm cân bằng, san bằng
-- coi ngang, đặt ngang hàng
-- (toán học) đặt thành phương trình
+delirious
+	
+*  tính từ
+- mê sảng, hôn mê
+- sảng (lời nói); lung tung, vô nghĩa
+=a delirious speech
++ bài diễn văn nói lung tung
+- cuồng, cuồng nhiệt; điên cuồng
+=to be delirious with deleight
++ sướng điên lên, sướng cuồng lên
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--làm bằng nhau
--lập phương trình
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--làm bằng nhau
--lập phương trình
+@Lĩnh vực: xây dựng
+-mê sảng
+

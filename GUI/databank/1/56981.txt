@@ -1,10 +1,10 @@
-tooling	@tooling
-* danh từ
-- (kỹ thuật) sự gia công bằng máy
-- việc trang bị dụng cụ máy móc
-- sự hiệu chỉnh (máy công cụ)
-- sự giập hình trang trí (vào gáy sách)
-@Chuyên ngành kinh tế
--sự chế tạo bằng máy
+dormancy
+	
+*  danh từ
+- tình trạng ngủ ((nghĩa đen) & (nghĩa bóng))
 @Chuyên ngành kỹ thuật
--sự trang bị
+@Lĩnh vực: y học
+-tình trạng im lìm (của vi khuẩn)
+-tình trạng ngủ
+-trạng thái tiềm sinh
+

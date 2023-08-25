@@ -1,28 +1,7 @@
-kernel	@kernel /'kə:nl/
+shamble
+	
 *  danh từ
-- (thực vật học) nhân (trong quả hạch)
-- hạt (lúa mì)
-- (nghĩa bóng) bộ phận nòng cốt, bộ phận chủ yếu
-@Chuyên ngành kinh tế
--hạt (lúa mì)
--nhân quả
-@Chuyên ngành kỹ thuật
--hạch
--hạt
--hạt nhân
--lõi
--nhân
-@Lĩnh vực: toán & tin
--bộ phận chính
-@Lĩnh vực: vật lý
--nhân hạt nhân
-@Chuyên ngành kỹ thuật
--hạch
--hạt
--hạt nhân
--lõi
--nhân
-@Lĩnh vực: toán & tin
--bộ phận chính
-@Lĩnh vực: vật lý
--nhân hạt nhân
+- dáng đi kéo lê; bước đi lóng ngóng, chạy lóng ngóng
+*  nội động từ
+- đi kéo lê, đi lết; đi lóng ngóng, chạy lóng ngóng
+

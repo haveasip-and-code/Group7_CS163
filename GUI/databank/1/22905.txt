@@ -1,7 +1,28 @@
-gangplank	
-@gangplank
-* danh từ
-- ván cầu (để lên xuống tàu)
+spiral
+	
+*  tính từ
+- xoắn ốc
+=spiral spring
++ lò xo xoắn ốc
+*  danh từ
+- đường xoắn ốc, đường trôn ốc
+- (hàng không) sự bay theo đường xoắn ốc
+- sự tăng lên dần dần, sự lên từ từ; sự giảm dần dần, sự xuống từ từ (giá...)
+*  nội động từ
+- chuyển động theo hình xoắn ốc, xoắn theo hình trôn ốc
+- tăng dần dần; giảm dần dần
+@Chuyên ngành kinh tế
+-sự tăng nhanh liên tục (giá cả...)
+-xoắn ốc lạm phát
 @Chuyên ngành kỹ thuật
--lối ra vào
--ván cầu
+-cầu thang xoắn
+-đường xoắn ốc
+-sự xoắn
+-xoắn ốc
+@Lĩnh vực: cơ khí & công trình
+-bánh răng trục đối
+-mặt xoắn vít
+@Lĩnh vực: xây dựng
+-hình xoắn ốc
+-thuộc hình xoắn ốc
+

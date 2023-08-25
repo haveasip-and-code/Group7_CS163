@@ -1,4 +1,5 @@
-ostensoria	@ostensoria
+flowcharting
+	
 * danh từ
-- số nhiều
-- xem ostensorium
+- việc lập biểu đồ tiến trình
+

@@ -1,13 +1,17 @@
-lipolysis	@lipolysis
-* danh từ
-- (hoá học) sự phân giải lipit
+suburb
+	
+*  danh từ
+- ngoại ô
+=the suburbs
++ khu vực ngoại ô
 @Chuyên ngành kinh tế
--sự phân giải lipit
--sự phân giải mỡ
--sự tiêu mỡ
+-ngoại ô
+-ngoại thành
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự hủy lipid
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự hủy lipid
+-ngoại ô
+-ngoại thành
+-ngoại thị
+@Lĩnh vực: xây dựng
+-khu ngoại thành
+-ven
+

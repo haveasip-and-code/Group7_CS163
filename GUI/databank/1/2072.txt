@@ -1,9 +1,6 @@
-analytical	
-@analytical /,ænə'litikəl/
-*  tính từ
-- dùng phép phân tích
-- (toán học) dùng phép giải tích=analytical geometry
-+ hình học giải tích
-@Chuyên ngành kỹ thuật
--giải tích
--phân tích
+cortices
+	
+*  danh từ,  số nhiều cortices
+- (số nhiều) vỏ
+- (giải phẫu) vỏ não
+

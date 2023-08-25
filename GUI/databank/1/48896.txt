@@ -1,18 +1,34 @@
-scaler	@scaler
-- danh từ
-- (radio) mạch đếm gộp
-- búa đánh cặn (nồi hơi)
-- máy đánh vảy
+capsule
+	
+*  danh từ
+- (thực vật học) quả nang
+- (giải phẫu) bao vỏ
+- (dược học) bao con nhộng
+- bao thiếc bịt nút chai
+- (hoá học) nồi con,  capxun
+- đầu mang khí cụ khoa học (của tên lửa vũ trụ)
 @Chuyên ngành kinh tế
--bộ phận đánh vảy
--máy cạo vảy
+-bao
+-vỏ
 @Chuyên ngành kỹ thuật
--mạch đếm gộp
--máy đếm
--máy đếm gộp
--máy nạo
-@Lĩnh vực: cơ khí & công trình
--búa tróc
--búa tróc cặn
-@Lĩnh vực: toán & tin
--mạch đến gộp
+-bao
+-hộp
+-khoang chứa các thiết bị nhạy cảm
+-kíp nổ
+-nang
+-nắp che
+-màng
+-màng mỏng
+-vỏ
+@Lĩnh vực: điện lạnh
+-buồng kín
+-hộp kín
+@Lĩnh vực: vật lý
+-capxun
+@Lĩnh vực: xây dựng
+-hộp rỗng
+@Lĩnh vực: y học
+-nang, bao
+@Lĩnh vực: điện tử & viễn thông
+-vỏ bọc không gian
+

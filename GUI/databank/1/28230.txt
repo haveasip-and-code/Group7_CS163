@@ -1,3 +1,27 @@
-indorser	
+distribution
+	
+*  danh từ
+- sự phân bổ, sự phân phối, sự phân phát
+- sự rắc, sự rải
+- sự sắp xếp, sự xếp loại, sự phân loại
+- (ngành in) bỏ chữ (xếp vào từng ô)
 @Chuyên ngành kinh tế
--người ký hậu
+-chia phần
+-phân bổ
+-phân phối
+-phân phối (hàng hóa)
+-sự phân chia (tài sản)
+@Chuyên ngành kỹ thuật
+-phân bố
+-phân phối
+-sự phân bố
+-sự phân bổ
+-sự phân chia
+-sự phân phát
+-sự phân phối
+-sự phân tán
+-sự phổ biến
+-sự truyền
+@Lĩnh vực: toán & tin
+-hàm suy rộng
+

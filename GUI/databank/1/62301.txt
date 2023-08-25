@@ -1,7 +1,12 @@
-wailing	@wailing
-* tính từ
-- khóc than; than vãn
-= wailing voice+giọng than vãn
+unfilled
+	
+*  tính từ
+- không đầy, không đổ đầy, không lấp đầy, không rót đầy
+- trống
+=unfilled seat
++ ghế trống, ghế không ai ngồi
 @Chuyên ngành kỹ thuật
--khối xây
--lớp vách giếng mỏ
+@Lĩnh vực: hóa học & vật liệu
+-chưa nạp đầy
+-không được lấy đầy
+

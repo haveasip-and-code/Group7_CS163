@@ -1,17 +1,4 @@
-wrapper	@wrapper /'ræpə/
-*  danh từ
-- tờ bọc (sách); băng (tờ báo); lá áo (điếu xì gà)
-- người bao gói; giấy gói, vải gói
-- áo choàng đàn bà (mặc trong nhà)
-@Chuyên ngành kỹ thuật
--bao bì
--giấy gói
--vỏ hộp
-@Lĩnh vực: hóa học & vật liệu
--đồ bọc
-@Lĩnh vực: xây dựng
--giấy bọc ngoài
-@Lĩnh vực: toán & tin
--trình bao bọc
-@Lĩnh vực: dệt may
--vải bọc áo ngủ
+wast
+	
+*  (từ cổ,nghĩa cổ) ngôi 2 số ít thời quá khứ của be
+

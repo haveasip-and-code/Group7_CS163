@@ -1,9 +1,5 @@
-trophy	@trophy /'troufi/
-*  danh từ
-- vật kỷ niệm chiến công, chiến tích ((nghĩa đen) & (nghĩa bóng))
-- đồ trần thiết ở tường
-- (thể dục,thể thao) giải thưởng, cúp
-=tennis trophies+ những giải thưởng quần vợt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--trofi
+starwort
+	
+* danh từ
+- (thực vật) cây tẩu
+

@@ -1,3 +1,16 @@
-salometer	@Chuyên ngành kinh tế
--dụng cụ đo nước muối
--phù kế muối
+precept
+	
+*  danh từ
+- châm ngôn
+- lời dạy, lời giáo huấn
+- mệnh lệnh, lệnh; (pháp lý) trát
+- lệnh tổ chức bầu cử
+- lệnh thu tiền, lệnh trả tiền (thuế...)
+- (tôn giáo) giới luật
+@Chuyên ngành kinh tế
+-huấn lệnh
+-lệnh
+-lệnh thu tiền
+-lệnh trả tiền
+-quy tắc (kỹ thuật)
+

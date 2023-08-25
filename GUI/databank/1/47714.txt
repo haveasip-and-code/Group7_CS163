@@ -1,48 +1,5 @@
-rig	@rig /rig/
-*  danh từ
-- (hàng hải) cách sắp đặt, các thiết bị (như buồm, cột buồm, dây thừng trên tàu thuyền)
-- cách ăn mặc
-=to be in full rig+ (thông tục) mặc quần áo sang trọng
-=in working rig+ mặc quần áo đi làm
-- (kỹ thuật) thiết bị
-*  ngoại động từ
-- (hàng hải) trang bị cho tàu thuyền
-- lắp ráp (máy bay)
-- (+ out) mặc
-=he was rigged out in his Sunday best+ anh ta mặc quần áo diện nhất của mình
-- (+ up) dựng lên (cái gì một cách vội vàng bằng những thứ chấp vá và linh tinh)
-=to rig up a puppet administration+ (nghĩa bóng) dựng lên một chính quyền bù nhìn
-*  nội động từ
-- (hàng hải) được trãng bị những thứ cần thiết
-*  danh từ
-- con thú đực (ngựa, bò...) chỉ có một hòn dái; con thú đực bị thiến sót
-*  danh từ
-- sự lừa đảo, sự lừa gạt, thủ đoạn xảo trá; trò chơi khăm
-- (thương nghiệp) sự mua vét hàng hoá để đầu cơ
-- sự đầu cơ làm biến động thị trường chứng khoán
-*  ngoại động từ
-- lừa đảo, gian lận
-=to rig an election+ tổ chức một cuộc bầu cử gian lận
-=to rig the market+ dùng thủ đoạn để làm lên xuống giá cả thị trường một cách bất thường giả tạo
-@Chuyên ngành kinh tế
--con đực thiếu sót
--đầu cơ
--dây thừng trang bị để đánh cá
--thao túng
--thiết bị
--trang bị
--trang thiết bị những thứ cần thiết
-@Chuyên ngành kỹ thuật
--bệ thí nghiệm
--công cụ
--dụng cụ
--giàn đóng cọc
--lắp đặt
--lắp đặt thiết bị
--lắp ráp thiết bị
-@Lĩnh vực: cơ khí & công trình
--cần cẩu đerit
--thiết bị thí nghiệm (tạm thời)
-@Lĩnh vực: xây dựng
--cần đeric
--thiết bị thăm dò
+programed
+	
+* tính từ
+- xem programmed
+

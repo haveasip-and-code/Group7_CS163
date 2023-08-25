@@ -1,3 +1,80 @@
-catchable	
-@catchable
-- xem catch
+terminal
+	
+*  tính từ
+- cuối, chót, tận cùng
+=terminal station
++ ga cuối cùng
+- vạch giới hạn, định giới hạn (đường mốc)
+- ba tháng một lần, theo từng quý
+=by terminal payments
++ trả theo từng quý
+*  danh từ
+- đầu cuối, phần chót
+- (ngành đường sắt) ga cuối cùng
+- (điện học) cực, đầu (dây dẫn)
+- (ngôn ngữ học) đuôi từ, từ vĩ
+@Chuyên ngành kinh tế
+-ba tháng một lần
+-chót
+-cực
+-cuối
+-cuối, chót, tận cùng
+-ga chót
+-ga cuối
+-nhà chờ
+-nhà đón khách
+-tận cùng
+-theo từng quý
+-theo từng quý, định kỳ
+-thiết bị đầu cuối
+-thiết bị đầu cuối (máy tính ...)
+-thiệt bị đầu cuối (máy tính...)
+-trạm cuối
+-trạm đón khách
+@Chuyên ngành kỹ thuật
+-cái kẹp
+-cọc
+-cuối
+-đầu cực
+-đầu cuối
+-đầu cuối dữ liệu
+-đầu dây
+-đầu kẹp
+-đầu mút
+-đầu nối
+-đầu nối cuối
+-đầu nối ra
+-điểm cuối
+-điểm nối
+-điểm nút
+-ga cuối
+-ga cụt
+-ga đầu mối
+-giới hạn
+-thiết bị đầu cuối
+-vấu cáp
+@Lĩnh vực: xây dựng
+-bến (xe , tàu)
+-điểm ra vào
+-ga dồn toa
+-ga gối
+-ga hàng
+-nhà ga
+-trạm cuối cùng
+@Lĩnh vực: cơ khí & công trình
+-cọc bình điện
+-đầu dây cót (đồng hồ)
+-điểm mút
+-vít tiếp xúc
+@Lĩnh vực: điện
+-đầu bắt dây
+-đầu booc
+-đầu cốt
+@Lĩnh vực: điện lạnh
+-đầu nối điền
+@Lĩnh vực: toán & tin
+-thiết bị cuối
+-trạm cuối
+@Lĩnh vực: giao thông & vận tải
+-trạm đầu mối
+

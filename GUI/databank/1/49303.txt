@@ -1,7 +1,20 @@
-scrotum	@scrotum /'skroutəm/
-*  danh từ,  số nhiều scrota
-/'skroutə/
-- (giải phẫu) bìu dái
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bìu
+addle
+	
+*  nội động từ
+- lẫn, quẫn, rối trí
+=head addles
++ đầu óc quẫn lên
+- thối, hỏng, ung (trứng)
+*  ngoại động từ
+- làm lẫn, làm quẫn, làm rối óc
+=to addle one's brain (head)
++ làm rối óc, làm quẫn trí
+- làm thối, làm hỏng, làm ung
+=hot weather addles eggs
++ trời nóng làm trứng bị hỏng
+*  tính từ
+- lẫn, quẫn, rối (trí óc)
+- thối, hỏng, ung (trứng)
+@Chuyên ngành kinh tế
+-thối
+

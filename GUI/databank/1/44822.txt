@@ -1,4 +1,342 @@
-purposive	@purposive /'pɔ:pəsiv/
-*  tính từ
-- để phục vụ cho một mục đích; để phục vụ cho một ý định
-- có mục đích
+function
+	
+- hàm, hàm số; chức năng // tác dụng, vận hành
+- f. of bounded variation hàm có biến phân bị chặn
+- f. of a complex(real) variable hàm biến số phức thực
+- f. of concentration (thống kê) hàm tập trung
+- f. of dispersion (toán kinh tế) hàm phân tán
+- f. of exponential type hàm kiểu mũ
+- f. of finite genus (giải tích) hàm có giống hữu hạn
+- f. of f. hàm của hàm, hàm hợp
+- f. of infinite type hàm kiểu vô hạn, hàm kiểu cực đại
+- f. of limited variation hàm có biến phân bị chặn
+- f. of maximun type hàm kiểu cực đại, hàm kiểu vô hạn
+- f. of minimum type (giải tích) hàm kiểu cực tiểu
+- f. of position hàm vị trí
+- f. of random variable (xác suất) hàm cuả biến ngẫu nhiên
+- f. of singularities (giải tích) hàm các điểm kỳ dị, thành phần kỳ dị
+- f. of support hàm tựa
+- absolutely additive set f. hàm tuyệt đối cộng tính
+- absolute monotonic f. hàm đơn điệu tuyệt đối
+- acylic f. hàm không tuần hoàn, hàm phi xilic
+- adjustment f. (thống kê) đặc trưng của tập hợp thống kê
+- algebraic(al) f. hàm đại số
+- alternate f. (đại số) hàm thay phiên
+- analytic(al) f. hàm giải tích
+- antihyperbolic f. s. hàm hipebolic ngược
+- antitrigonometric f. hàm lượng giác ngược
+- arc
+-hyperbolic f.s hàm hipebolic ngược
+- area f. hàm xác định diện tích (trong không gian Mincopxki)
+- arithmetric f. hàm số học
+- associated integral f. hàm nguyên liên đới
+- asympotic distribution f. hàm phân phối tiệm cận
+- atomic set f. hàm tập hợp nguyên tử
+- automorphic f. hàm tự đẳng cấu
+- beta f. hàm bêta
+- bicomplex f. hàm song phức
+- bicontinuous f. hàm song liên tục
+- biharmonic f. hàm song điều hoà
+- bijective f. hàm song ánh
+- bilinear f. hàm song tuyến tính
+- Boolean f. hàm Bun
+- bounded f. hàm bị chặn
+- bounded set f. hàm tập bị chặn
+- carries f. hàm mang
+- characteristic f. hàm đặc trưng
+- circular cylinder f. hàm trụ tròn
+- circular cylindrial wave f. hàm sóng trụ tròn
+- circulary symmetric f. hàm đối xứng tròn
+- class f. hàm lớp
+- closure f. hàm đóng
+- close
+-to
+-convex f. hàm gần lồi
+- combinable f. hàm hợp được
+- comparable f. hàm so sánh được
+- complementary f. hàm bù (nghiệm đực biệt của một phương trình vi
+- phân tuyến tính không thuần nhất)
+- complementary error f. hàm sai bù
+- complete analytic f. hàm giải tích đầy đủ
+- completely additive set f. (giải tích) hàm tập hợp cộng tính hoàn toàn
+- completely defined f. (logic học) hàm xác định khắp nơi
+- complex f. hàm số phức
+- complex velocity f. hàm vận tốc phức
+- composite f. (giải tích) hàm hợp
+- computable f. (logic học) hàm tính được
+- concave f. hàm lõm
+- confluent hypergeometric f. (giải tích) hàm siêu bội suy biến
+- conical f. hàm cônic
+- conjugate f.s hàm liên hợp
+- conjugate harmonic f.s (giải tích) hàm điều hoà liên hợp
+- content f. hàm dung tích
+- contiguous hypergeometric f.s hàm siêu bội tiệm cận
+- continuous f. hàm liên tục
+- control f. hàm kiểm tra
+- control
+-allowable f. hàm điều khiển cho phép
+- convex f. hàm lồi
+- coordinate f. hàm toạ độ
+- cost f. hàm giá (trị)
+- countable additive set f. hàm tập hợp cộng tính đếm được
+- covariance f. hàm hiệp phương sai
+- criterion f. hàm tiêu chuẩn
+- cumulant generating f. (xác suất) hàm sinh tích luỹ
+- cumulative frequency f. hàm tần số tích luỹ
+- cyclotomic f. hàm chia vòng tròn
+- cylindrical f.s hàm trụ hàm Betsen
+- decision f. (thống kê) hàm quyết định
+- decreasing f. hàm giảm
+- demand f. (thống kê) hàm nhu cầu
+- density f. hàm mật độ, mật độ phân phối
+- derived f. hàm dẫn suất
+- determining f. (giải tích) hàm xác định
+- developable f. hàm khai triển được
+- differentiable f. hàm lấy vi phân được
+- digamma f. hàm đigama
+- discontinuous f. (giải tích) hàm gián đoạn
+- discriminant f.(thống kê) hàm phân biệt
+- disspation f. hàm tiêu tán
+- distance f. hàm khoảng cách
+- distribution f. hàm phân phối
+- dominant f. hàm số trội
+- doubly periodic f. hàm song tuần hoàn
+- drriving f. hàm đầy
+- elementary f. hàm sơ cấp
+- elementary symmetric f. hàm đối xứng có bản
+- elementary transcendental f. hàm siêu việt sơ cấp
+- elliptic(al) f. hàm eliptic
+- elliptic(ai) cylinder f. hàm trụ eliptic
+- elliptic modular f. hàm môđunla eliptic
+- energy f. hàm năng lượng
+- entrire f. (giải tích) hàm nguyên
+- entrire f. of zero type hàm nguyên loại cực tiểu
+- entrire rational f. hàm hữu tỷ nguyên
+- envolope f. hàm bao
+- equimeasurable f. hàm đồng đẳng đo được
+- eror f. hàm sai số, hàm độ sai, tích phân xác suất sai số (y=erfx, y=erfcx,
+- y=erfix)
+- even f. hàm chẵn
+- expenditure f. hàm chi phí
+- explicit f. hàm hiện
+- expomential f. hàm mũ
+- factorable f. hàm nhân tử hoá được
+- factorial f. hàm giai thừa
+- finite f. hàm hữu hạn
+- flow f. (giải tích) hàm dòng
+- force f. thế vị, hàm lực
+- forcing f. hàm cưỡng bức
+- free f. hàm tự do
+- frequency f. hàm tần số
+- frequency distribution f. hàm mật độ, mật độ phân phối
+- gamma f. hàm gama
+- general recursive f. hàm đệ quy toàn phần
+- generating f. hàm sinh
+- Hamiltonian f. (vật lí) hàm Haminton
+- harmonic f. hàm điều hoà
+- holomorphic f. hàm chỉnh hình, hàm giải tích
+- homogeneous f. hàm thuần nhất
+- homographic f. hàm đơn ứng
+- hyperbolic f. (giải tích) hàm hypebolic
+- hyperbolic inverse f. hàm hypebolic ngược
+- hyperconical f. hàm siêu nón
+- hyperelliptic f. hàm siêu eliptic
+- hypergeometric f. hàm siêu bội
+- hyperharmonic f. hàm siêu điều hoà
+- implicit f. hàm ẩn
+- impulse f. hàm xung
+- incomplete beta f. (giải tích) hàm bêta khuyết
+- incomplete gamma f. (giải tích) hàm gama khuyết
+- incomplete defined f. (logic học) hàm xác định không hoàn toàn
+- increasing f. hàm tăng
+- independent f.s (giải tích) hàm độc lập
+- indicator f. hàm chỉ tiêu của hàm nguyên
+- initial f. (logic học) nguyên hàm
+- injective f. hàm đơn ánh
+- integrable f. (giải tích) hàm khả tích
+- integral f. of mean tyoe (giải tích) hàm nguyên loại chuẩn tắc
+- integral algebraic f. hàm đại số nguyên
+- integral transcendental f. hàm siêu việt nguyên
+- interior f. (giải tích) hàm trong
+- interval f. (giải tích) hàm khoảng cách
+- inverse f. (giải tích) hàm ngược
+- inverse circular f. hàm vòng ngược, hàm lượng giác ngược
+- inverse hyperbolic f. hàm hypebolic ngược
+- inverse trigonometric f. hàm lượng giác ngược, hàm vòng ngược
+- irrational f. hàm vô tỷ
+- iterated f. hàm lặp
+- iterative impedance f. hàm tổng trở lặp
+- jum f. (điều khiển học) hàm bước nhảy
+- kernel f. (giải tích) hàm hạch
+- known f. hàm đã biết
+- lacunary f. hàm tổng
+- Lagrangian f. (vật lí) hàm Lagrăng, thế động lực
+- lifting f. hàm nâng
+- limited f. hàm bị chặn
+- linear f. hàm tuyến tính
+- linear integral f. hàm nguyên tuyến tính
+- locally constant f. hàm hằng địa phương
+- logarithmic f. hàm lôga
+- logarithmic trigonometric f. hàm lôga lượng giác
+- logarithmically convex f. hàm có lôga lồi
+- logical f. (logic học) hàm lôgic
+- logistic f. (toán kinh tế) hàm lôgittic
+- loss f. hàm tổn thất
+- many
+-valued f. (giải tích) hàm đa trị
+- mapping f. (giải tích) hàm ánh xạ
+- measure f. (giải tích) độ đo
+- measurable f. hàm đo được
+- meromorphic f. (giải tích) hàm phân hình
+- metaharmonic f. hàm mêta điều hoà
+- minimal f., minimun f. hàm cực tiểu
+- modular f. hàm môđunla
+- moment generating f. hàm sinh các mômen
+- monodrome f. hàm đơn đạo
+- monogenic analytic f. (giải tích) hàm giải tích đơn diễn
+- monogenic f. of complex variable (giải tích) hàm biến phức đơn diễn
+- monotone f. (giải tích) hàm đơn điệu
+- multiform f. hàm đa trị
+- multilinear f. hàm đa tuyến tính
+- multiple f. hàm bội
+- multiple valued f. hàm đa trị
+- multiplicative f. hàm nhân tính
+- multivalent f. hàm đa diệp
+- multivalued f. hàm đa trị
+- natural trigonometrical f. hàm lượng giác tự nhiên
+- negatively infinite f. hàm âm lớn vô hạn
+- non
+-analytic f. hàm không giải tích
+- non
+-differentiable f. hàm không khả vi
+- nn
+-negative additive f. hàm cộng tính không âm
+- non
+-periodic f. hàm không tuần hoàn
+- non
+-uniform f. hàm không đơn trị
+- normal f. hàm chuẩn tắc
+- normalized orthogonal f.s hàm trực giao chuẩn hoá
+- null f. hàm không
+- numerical f. hàm bằng số
+- objective f. (lý thuyết trò chơi) hàm mục tiêu
+- odd f. hàm lẻ
+- one
+-valued f. (giải tích) hàm đơn trị
+- operator f. hàm toán tử
+- order f. hàm thứ tự
+- orthogonal f.s. hàm trực giao
+- oscillating f. hàm dao động
+- parabolic(al) cylinder f. hàm trụ parabolic
+- partial f. hàm bộ phận
+- partial recursive f. hàm đệ quy bộ phận
+- partition f. hàm phân hoạch
+- pattern f. hàm sơ đồ (dùng để tính các bản bất biến)
+- periodie f. hàm tuần hoàn
+- p
+-harmonic f. hàm p
+- điều hoà
+- phase f. hàm pha
+- phi f. hàm phi (của Ơle)
+- piecewise continuous f. hàm liên tục từng mảnh
+- piecewise regular f. hàm chính quy từng mảnh
+- plurisubharmonic f. hàm đa điều hoà dưới
+- point f. (giải tích) hàm điểm
+- polygonal f. hàm đa giác
+- polyharmonic f. hàm đa điều hoà
+- possibility f. hàm khả năng
+- positive f. hàm dương
+- positive definite energy f. hàm năng lượng xác định dương
+- positive real f. hàm thực dương
+- positively infinite f. hàm dương lớn vô hạn
+- potential f. thế vị, hàm lực, đa điều hoà
+- power f. (thống kê) hàm lực lượng
+- primitive f. hàm nguyên thuỷ
+- propagation f. hàm truyền
+- propositional f. hàm mệnh đề
+- pseudoanalytic f. hàm giả giải tích
+- pseudo
+-periodic f. hàm giả tuần hoàn
+- purely discontinuous set f. hàm tập hợp thuần gián đoạn
+- quasi
+-nanlytic f. hàm tựa eliptic
+- quasi
+-periodic f. hàm tựa tuần hoàn
+- quaternion f. hàm quatenion
+- radical f. hàm căn
+- random f. (xác suất) hàm ngẫu nhiên
+- randomized decision f. hàm quyết định đã ngẫu nhiên hoá
+- rational f. hàm hữu tỷ
+- rational fractional f. hàm phân hữu tỷ
+- rational integral f. hàm nguyên hữu tỷ
+- reactance f. hàm điện kháng
+- real
+-valued f.(giải tích) hàm lấy giá trị thực
+- reciprocal f. hàm thuận nghịch
+- recursive f. hàm đệ quy
+- reduced characteristic f. hàm đặc trưng rút gọn
+- regular f. hàm đều
+- regular f. of a complex variable hàm biến phức đều
+- relate f.s các hàm phụ thuộc
+- remainder f. hàm các số dư
+- ring f. hàm vành
+- risk f.(thống kê) hàm mạo hiểm
+- saddle f. hàm yên ngựa
+- schlicht f. hàm (giải tích) đơn diệp
+- self
+-impedance f. hàm tự trở
+- semi
+-continuous f. hàm nửa liên tục
+- sequential risk f.(thống kê) hàm mạo hiểm liên tiếp
+- set f. (giải tích) hàm tập hợp
+- signal f. hàm dấu, hàm xicnum
+- simple (analytic) f. hàm (giải tích) đơn diệp
+- single
+-valued f. hàm đơn trị
+- singly periodic f. hàm tuần hoàn đơn
+- singular f. hàm kỳ dị
+- sinusoidal f. hàm sin
+- slope f. hàm dốc
+- smooth f. (thống kê) hàm trơn, hàm được bình dị
+- source f. hàm nguồn, hàm Grin
+- spectral f. hàm phổ
+- spherical wave f. hàm sóng cầu
+- spheroidal wave f. hàm sóng phỏng cầu
+- square
+-integrable f. hàm có bình phương khả tích
+- step f. (giải tích) hàm bậc thang; (điều khiển học) xác suất chuyển tiếp
+- stored energy f. hàm biến dạng năng lượng
+- stream f. hàm dòng
+- stress f. hàm ứng suất
+- stroke f. (logic học) hàm Sefơ
+- subharmonic f. hàm siêu điều hoà
+- supply f. (thống kê) hàm cung cấp
+- symmetric(al) f. (giải tích) hàm đối xứng
+- temperate f. hàm tăng chậm
+- temperature f. (giải tích) hàm nhiệt độ
+- test f. (thống kê) hàm (tiêu) chuẩn
+- tetrahedral f. hàm tứ diện
+- totally additive set f. hàm tập hợp hoàn toàn cộng tính
+- transcendental f. hàm siêu việt
+- transfer f. hàm truyền
+- trial f. (giải tích) hàm cơ sở (thuộc không gian cơ sở)
+- trigonometric(al) f.s hàm lượng giác
+- triply periodic f. hàm tam tuần hoàn
+- truth f. (logic học) hàm đúng
+- typically
+-real f. (giải tích) hàm thực điển hình
+- unbounded f. (giải tích) hàm không bị chặn
+- uniform f. hàm đơn trị
+- uniformly best desision f. (thống kê) hàm quyết định tốt đều nhất
+- unit step f. hàm bậc thang đơn vị
+- univalent f. (giải tích) hàm đơn diệp
+- universal f. (logic học) hàm [phổ dụng, xạn năng]
+- utility f. hàm lợi ích
+- varied flow f. hàm dòng biến
+- vector f. (giải tích) hàm vectơ
+- vector wave f. hàm sóng vectơ
+- wave f. hàm sóng
+- weight f. (thống kê) hàm trọng lượng
+- zeta f. (giải tích) hàm zeta
+- zonal hyperspherical f. hàm siêu cầu đới
+

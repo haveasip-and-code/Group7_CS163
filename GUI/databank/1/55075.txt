@@ -1,19 +1,18 @@
-switchboard	@switchboard /'switʃbɔ:d/
-*  danh từ
-- tổng đài
+shutdown
+	
+- sự đóng cửa, sự kết thúc
 @Chuyên ngành kinh tế
--bảng điều động (tổng đại điện thoại)
--tổng đài (điện thoại)
--tổng đài điện thoại
+-sự đóng cửa
+-tạm ngừng hoạt động (của nhà máy)
 @Chuyên ngành kỹ thuật
--bảng chuyển mạch
--bảng ổ cắm
--bảng phân phối
-@Lĩnh vực: toán & tin
--bảng đảo mạch
+-hư hỏng
+-sự đóng
+-sự dừng (lò phản ứng)
+-sự ngắt
+-sự ngừng
+-sự sai lệch
 @Lĩnh vực: xây dựng
--bảng phối điện
-@Lĩnh vực: điện tử & viễn thông
--tổng đài điện thoại
-@Lĩnh vực: điện
--tủ (bảng) điều khiển
+-sập xuống
+@Lĩnh vực: toán & tin
+-sự ngừng, tắt máy
+

@@ -1,10 +1,16 @@
-footstep	
-@footstep /'futstep/
+computation
+	
 *  danh từ
-- bước chân đi
-- tiếng chân đi
-- dấu chân, vết chân!to follow in somobody's footsteps
-- làm theo ai, theo gương ai
+- sự tính toán, sự ước tính
+=at the lowest computation
++ theo sự ước tính thấp nhất
+@Chuyên ngành kinh tế
+-tính toán
+-ước lượng
 @Chuyên ngành kỹ thuật
--bàn đạp
--đế
+-phép tính
+-sự tính toán
+@Lĩnh vực: toán & tin
+-sự tính toán tính
+-thao tác điện toán
+

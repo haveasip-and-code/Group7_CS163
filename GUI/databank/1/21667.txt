@@ -1,5 +1,4 @@
-foaminess	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--độ bọt
--tính tạo bọt
+blencher
+	
+- xem blench
+

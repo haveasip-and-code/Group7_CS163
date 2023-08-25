@@ -1,32 +1,7 @@
-impeller	
-@impeller /im'pelə/
-*  danh từ
-- sức đẩy, sức đẩy về phía trước
-- điều thúc ép, điều buộc tội, điều bắt buộc
-*  danh từ
-- người thúc đẩy; vật thúc đẩy
-- (kỹ thuật) bánh công tác
-@Chuyên ngành kỹ thuật
--bánh cánh quạt
--bộ cánh bơm
--bộ cánh đẩy
--bộ cánh gió
--bộ cánh khuấy
--bộ cánh quạt
--chong chóng nhỏ
-@Lĩnh vực: xây dựng
--bánh công tác
--bánh răng công tác
--bánh xe công tác (tuabin)
-@Lĩnh vực: giao thông & vận tải
--bánh quay không tải
--bộ cánh quay
--đĩa quạt nén
-@Lĩnh vực: ô tô
--cánh bơm biến mô
-@Lĩnh vực: cơ khí & công trình
--cánh quạt nhỏ
-@Lĩnh vực: hóa học & vật liệu
--máy khuấy tuabin
-@Lĩnh vực: toán & tin
--tuyệt bin
+collegiate
+	
+*  tính từ
+- (thuộc) trường đại học, (thuộc) học viện
+- (thuộc) học sinh đại học
+- (thuộc) đoàn, (thuộc) hội, (thuộc) tập đoàn
+

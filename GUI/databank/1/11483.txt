@@ -1,11 +1,6 @@
-contaminant	
-@contaminant
-* danh từ
-- chất gây ô nhiễm
-@Chuyên ngành kỹ thuật
--chất độc
--tạp chất
-@Lĩnh vực: hóa học & vật liệu
--chất làm ô nhiễm
-@Lĩnh vực: y học
--chất lây truyền, chất ô nhiễm
+slippy
+	
+* tính từ
+- <thgt> trơn
+- <thgt> nhanh (nhất là dùng trong các thành ngữ sau đây)
+

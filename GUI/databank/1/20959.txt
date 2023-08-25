@@ -1,78 +1,13 @@
-field	
-@field /fi:ld/
+tendon
+	
 *  danh từ
-- đồng ruộng, cánh đồng
-- mỏ, khu khai thác
-- bâi chiến trường; nơi hành quân; trận đánh=to hold the field
-+ giữ vững trận địa=to take the field
-+ bắt đầu hành quân
-- sân (bóng đá,  crickê)
-- các đấu thủ, các vận động viên, các người dự thi, các ngựa dự thi
-- dải (băng tuyết...)
-- nên (huy hiệu)
-- lĩnh vực (hoạt động), phạm vi (quan sát...)=of art field
-+ lĩnh vực nghệ thuật=a wide field of vision
-+ nhãn quan rộng rãi
-- (vật lý) trường=magnetic field
-+ từ trường=electric field
-+ điện trường
-*  ngoại động từ
-- (thể dục,thể thao) chặn và ném trả lại (bóng crickê)
-- đưa (đội bóng) ra sân
-*  nội động từ
-- (thể dục,thể thao) làm người chặn bóng (crickê)
+- (giải phẫu) gân
 @Chuyên ngành kinh tế
--cánh đồng
--đồng ruộng
--sân
--trường
+-gân
 @Chuyên ngành kỹ thuật
--đồng ruộng
--hiện trường
--lĩnh vực
--mành
--miền
--mỏ
--mỏ dầu
--ở thực địa
--phạm vi
--sân bay
--trường dữ liệu
--vỉa dầu
--vùng
-@Lĩnh vực: toán & tin
--cột
--thể
-@Lĩnh vực: hóa học & vật liệu
--khu dầu
+-cáp ứng suất trước
+-gân
+-thanh căng
 @Lĩnh vực: xây dựng
--nơi khai thác
--ở hiện trường
--trường vật lý
-@Lĩnh vực: cơ khí & công trình
--trường phạm vi
-@Chuyên ngành kỹ thuật
--đồng ruộng
--hiện trường
--lĩnh vực
--mành
--miền
--mỏ
--mỏ dầu
--ở thực địa
--phạm vi
--sân bay
--trường dữ liệu
--vỉa dầu
--vùng
-@Lĩnh vực: toán & tin
--cột
--thể
-@Lĩnh vực: hóa học & vật liệu
--khu dầu
-@Lĩnh vực: xây dựng
--nơi khai thác
--ở hiện trường
--trường vật lý
-@Lĩnh vực: cơ khí & công trình
--trường phạm vi
+-bó cốt thép (bê tông cốt thép ứng lực trước)
+

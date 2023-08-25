@@ -1,2 +1,35 @@
-nickelled	@Chuyên ngành kỹ thuật
--được mạ kền
+converter
+	
+*  danh từ
+- (kỹ thuật) lò chuyển
+- (điện học) máy đổi điện
+- (từ Mỹ,nghĩa Mỹ) máy ghi chữ số, máy ghi mật mã
+@Chuyên ngành kinh tế
+-lò chuyển
+-lò thổi
+-máy đổi chiều
+-thiết bị đường hóa
+-thiết bị hydrozyen
+@Chuyên ngành kỹ thuật
+-bộ biến đổi
+-bộ biến đổi điện
+-bộ chuyển đổi
+-bộ đổi điện
+-bộ xúc tác
+-cải ứng viên
+-dụng cụ sưởi
+-lò thổi
+-máy đổi điện
+@Lĩnh vực: ô tô
+-bộ biến mô
+-đầu chuyển tiếp
+-đấu nối
+@Lĩnh vực: cơ khí & công trình
+-lò chuyển
+@Lĩnh vực: toán & tin
+-máy biến
+-máy đổi (điện)
+@Lĩnh vực: xây dựng
+-máy hoán lực
+-máy mã hóa
+

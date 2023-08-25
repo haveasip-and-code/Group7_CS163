@@ -1,17 +1,4 @@
-eyelet	
-@eyelet /'ailit/
-*  danh từ
-- lỗ xâu (dây...)
-- lỗ nhìn
-- lỗ châu mai
-- mắt nhỏ
-@Chuyên ngành kỹ thuật
--lỗ nhỏ
--lỗ xâu
-@Lĩnh vực: hóa học & vật liệu
--vành nhỏ
-@Chuyên ngành kỹ thuật
--lỗ nhỏ
--lỗ xâu
-@Lĩnh vực: hóa học & vật liệu
--vành nhỏ
+catchable
+	
+- xem catch
+

@@ -1,7 +1,7 @@
-heterograft	
-@heterograft
-* danh từ
-- sự ghép mô không đồng nhất
+recursively
+	
+- một cách đệ quy
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ghép dị loài
+@Lĩnh vực: toán & tin
+-một cách đệ quy
+

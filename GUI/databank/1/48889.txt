@@ -1,20 +1,39 @@
-scald	@scald /skɔ:ld/
+overlay
+	
 *  danh từ
-- (sử học) người hát rong (Bắc-Âu) ((cũng) skald)
-- chỗ bỏng
-=for scalds and burns+ để chữa những chỗ bỏng
+- vật phủ (lên vật khác)
+- khăn trải giường
+- khăn trải bàn nhỏ
+- (ngành in) tấm bìa độn (trên mặt máy in để in cho rõ hơn)
+- (Ê
+-cốt) cái ca
+-vát[,ouvəlei]
 *  ngoại động từ
-- làm bỏng
-=to be scalded to death+ bị chết bỏng
-- đun (sữa) gần sôi
-=scalded cream+ kem hớt ở sữa đun gần sôi
-- tráng nước sôi ((thường) scald out)
-@Chuyên ngành kinh tế
--chần nước sôi
--sự chần
+- che, phủ
+*  thời quá khứ của overlie
 @Chuyên ngành kỹ thuật
--đun sôi
--hấp
--làm bỏng (tay)
--nấu
--vết bỏng
+-bề mặt thủy tinh
+-che
+-chồng chất
+-đậy
+-điều chỉnh khuôn chữ
+-lớp lát
+-lớp mạ
+-lớp mặt
+-lớp mòn
+-lớp phủ
+-lớp phủ thủy tinh
+-màng bảo vệ
+-màng bọc
+-phủ
+-phủ chờm
+-phủ hình
+-phủ lên
+-phủ ngoài
+-phủ nhau
+-rải
+-sự che
+-sự chồng hình
+-sự phủ
+-sự xếp chồng
+

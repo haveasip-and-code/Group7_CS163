@@ -1,9 +1,7 @@
-minibus	@minibus
+cartouche
+	
 * danh từ
-- xe búyt nhỏ chứa khoảng 12 người
-@Chuyên ngành kinh tế
--mini buýt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: ô tô
--ô tô buýt nhỏ
--xe buýt nhỏ
+- sự trang hoàng theo hình xoắn ốc
+- vòng tròn hình ô
+-van khắc tên và tước hiệu của vua Ai Cập
+

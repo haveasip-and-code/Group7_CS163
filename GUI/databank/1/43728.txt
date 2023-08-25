@@ -1,6 +1,17 @@
-proband	@proband
+elution
+	
 * danh từ
-- người được khảo sát như đối tượng thí nghiệm
+- (hoá học) phép tách rửa
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--người tiền phong
+-rửa giải
+-sự giải hấp
+-sự ngâm rỉ
+-sự rửa giải
+-sự rửa thôi
+@Chuyên ngành kỹ thuật
+-rửa giải
+-sự giải hấp
+-sự ngâm rỉ
+-sự rửa giải
+-sự rửa thôi
+

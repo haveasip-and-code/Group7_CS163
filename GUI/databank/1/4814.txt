@@ -1,9 +1,5 @@
-baseline	
-@baseline
-- (Tech) đường gốc, đường không; đường quét
-@Chuyên ngành kỹ thuật
--đường cơ sở
--đường gốc
--đường kế
-@Lĩnh vực: điện tử & viễn thông
--đường dây gốc
+presort
+	
+@Lĩnh vực: toán & tin
+-sắp trước
+

@@ -1,45 +1,5 @@
-book	
-@book /buk/
-*  danh từ
-- sách=old book
-+ sách cũ=to writer a book
-+ viết một cuốn sách=book of stamps
-+ một tập tem=book I
-+ tập 1
-- (số nhiều) sổ sách kế toán
-- (the book) kinh thánh!to be someone's bad books
-- không được ai ưa!to be someone's good book
-- được ai yêu mến!to bring someone to book
-- hỏi tội và trừng phạt ai!to know something like a book
-- (xem) know!to speak by the book
-- nói có sách, mách có chứng!to suit one's book
-- hợp với ý nguyện của mình!to speak (talk) like a book
-- nói như sách!to take a leat out of someone's book
-- (xem) leaf
-*  ngoại động từ
-- viết vào vở; ghi vào vở
-- ghi tên (người mua về trước)
-- ghi địa chỉ (để chuyển hàng)
-- giữ (chỗ) trước, mua về trước)=to book searts for the threatre
-+ mua vé trước để đi xem hát
-- lấy vé (xe lửa...)!I am booked
-- tôi bị tóm rồi, tôi bị giữ rồi
-@Chuyên ngành kinh tế
--đặt chỗ
--giữ chỗ trước
--lấy vé
--lưu khoang
--mua vé (trước)
--sổ
--sổ sách
--sổ sách kế toán
-@Chuyên ngành kỹ thuật
--nhật ký công tác
--sách
--sổ
--sổ ghi
-@Lĩnh vực: toán & tin
--đăng ký giữa trước
--ghi chép
-@Lĩnh vực: hóa học & vật liệu
--sổ ghi chép
+digamous
+	
+*  tính từ
+- tái hôn, tái giá, đi bước nữa
+

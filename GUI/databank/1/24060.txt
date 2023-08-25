@@ -1,4 +1,40 @@
-grandparents	
-@grandparents /'græn,peərənts/
-*  danh từ số nhiều
-- ông bà (nội ngoại)
+title
+	
+*  danh từ
+- tên (sách); nhan đề
+- tước; danh hiệu
+=the title of Duke
++ tước công
+- tư cách, danh nghĩa
+=to have a title to a place among great poets
++ có đủ tư cách đứng trong hàng ngũ những nhà thơ lớn
+- tuổi (của một hợp kim vàng...), chuẩn độ
+- (pháp lý) quyền sở hữu; chứng thư, văn tự
+@Chuyên ngành kinh tế
+-chứng thư
+-chứng thư (sở hữu)
+-danh xưng
+-đề mục (sách...)
+-giấy chứng quyền sở hữu
+-nhan đề
+-pháp quyền
+-quyền lợi
+-quyền sở hữu
+-tên
+-tiêu đề
+-tư cách
+-tước hiệu
+-văn tự (sở hữu)
+-xưng hiệu
+@Lĩnh vực: ttck
+-quyền được đòi hỏi, quyền sở hữu
+@Chuyên ngành kỹ thuật
+-chứng thư
+-đề mục
+-dòng đầu (trang)
+-khung tên
+-nhan đề
+@Lĩnh vực: xây dựng
+-bằng khoán
+-tựa đề
+

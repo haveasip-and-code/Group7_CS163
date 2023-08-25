@@ -1,34 +1,5 @@
-basin	
-@basin /'beisn/
-*  danh từ
-- cái chậu
-- chỗ trũng lòng chảo
-- (địa lý,địa chất) lưu vực, bể, bồn=river basin
-+ lưu vực sộng=coal basin
-+ bể than
-- vũng, vịnh nhỏ
-@Chuyên ngành kinh tế
--cây húng quế
-@Chuyên ngành kỹ thuật
--bể
--bể (nước)
--bể chứa
--bồn
--bồn (nước)
--bồn rửa
--bồn trũng
--chậu rửa
--hồ chứa
--khay
--lưu vực
--lưu vực dòng chảy
--vịnh nhỏ
--vũng
--vũng nhỏ
--vũng nước
--vùng trũng hình cầu
-@Lĩnh vực: vật lý
--bồn chứa
-@Lĩnh vực: giao thông & vận tải
--vùng nước ở cảng
--vùng tàu đậu
+unsubstantially
+	
+- trạng từ
+- xem unsubstantial
+

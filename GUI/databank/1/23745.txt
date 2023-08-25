@@ -1,8 +1,11 @@
-gneiss	
-@gneiss /nais/
-*  danh từ
-- (khoáng chất) đá gơnai
-@Chuyên ngành kỹ thuật
--gơnai
-@Lĩnh vực: hóa học & vật liệu
--đá gơnai
+idem
+	
+*  danh từ,  (viết tắt) id.
+- cũng tác giả ấy, cũng cuốn sách ấy; cũng từ ấy
+!idem quod
+- ((viết tắt) i.q.) cũng như
+*  phó từ,  (viết tắt) id.
+- như trên
+@Chuyên ngành kinh tế
+-như trên
+

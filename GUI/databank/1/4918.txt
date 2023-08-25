@@ -1,10 +1,6 @@
-battered	
-@battered
-* tính từ
-- méo mó, mòn vẹt
-@Chuyên ngành kỹ thuật
--nghiêng
--mái dốc
--xiên
-@Lĩnh vực: xây dựng
--có mái dốc
+cloverleaf
+	
+@Lĩnh vực: cơ khí & công trình
+-hình lá chuồn
+-xe ba chỗ ngồi
+

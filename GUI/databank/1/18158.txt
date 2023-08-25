@@ -1,16 +1,19 @@
-encounter	
-@encounter /in'kauntə/
+charity
+	
 *  danh từ
-- sự gặp gỡ, sự bắt gặp; sự gặp phải; cuộc gặp gỡ
-- sự chạm trán, sự đọ sức; cuộc chạm trán, cuộc đọ sức; cuộc chạm trán, cuộc đấu (trí...)
-*  ngoại động từ
-- gặp thình lình, bắt gặp
-- chạm trán, đọ sức với, đấu với
-@Chuyên ngành kỹ thuật
--sự va chạm
-@Lĩnh vực: toán & tin
--bắt gặp
-@Chuyên ngành kỹ thuật
--sự va chạm
-@Lĩnh vực: toán & tin
--bắt gặp
+- lòng nhân đức, lòng từ thiện; lòng thảo
+- lòng khoan dung
+- hội từ thiện; tổ chức cứu tế
+=board of charity
++ sở cứu tế
+- việc thiện; sự bố thí, sự cứu tế
+=charity fund
++ quỹ cứu tế
+- (số nhiều) của bố thí, của cứu tế
+!charity begins at home
+- trước khi thương người hãy thương lấy người nhà mình
+!sister of charity
+- bà phước
+@Chuyên ngành kinh tế
+-hội từ thiện
+

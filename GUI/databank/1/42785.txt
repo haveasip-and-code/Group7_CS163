@@ -1,5 +1,17 @@
-postmistress	@postmistress /'poust,mistris/
-*  danh từ
-- bà giám đốc sở bưu điện; bà trưởng phòng bưu điện
-@Chuyên ngành kinh tế
--bà trưởng bưu cục
+discrete
+	
+*  tính từ
+- riêng biệt, riêng rẽ, rời rạc
+=discrete space
++ (toán học) không gian rời rạc
+- (triết học) trừu tượng
+@Chuyên ngành kỹ thuật
+-gián đoạn
+-riêng biệt
+-rời (rạc)
+-rời rạc
+@Lĩnh vực: điện lạnh
+-phân lập
+@Lĩnh vực: xây dựng
+-trừu tượng
+

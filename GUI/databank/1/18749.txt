@@ -1,11 +1,24 @@
-epigram	
-@epigram /'epigræm/
+taxation
+	
 *  danh từ
-- thơ trào phúng
-- cách nói dí dỏm; lời nói dí dỏm
+- sự đánh thuế
+- hệ thống thuế, thuế
+=supplementary taxation
++ thuế phụ thu
+=high taxation
++ thuế cao
+- tiền thuế thu được
+- (pháp lý) sự định chi phí kiện tụng
+@Chuyên ngành kinh tế
+-hệ thống thuế
+-sự đánh thuế (ruộng đất hàng hóa)
+-sự đánh thuế (ruộng đất, hàng hóa)
+-thuế
+-thuế má
+-thuế vụ
+-tiền thuế
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thơ trào phúng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thơ trào phúng
+-sự đánh thuế
+@Lĩnh vực: toán & tin
+-tiền thuế
+

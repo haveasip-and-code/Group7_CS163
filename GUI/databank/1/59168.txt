@@ -1,8 +1,15 @@
-undercool	@undercool
-* ngoại động từ
-- làm nguội không đúng mức, làm lạnh không đúng mức
-- (hoá học) (vật lý) học làm quá lạnh; làm chậm đông
+polycyclic
+	
+* tính từ
+- có nhiều vòng, có nhiều chu kỳ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--làm lạnh non
--sự làm lạnh non
+-đa nhân
+@Lĩnh vực: y học
+-có nhiều vòng
+@Lĩnh vực: toán & tin
+-đa chu trình
+-đa cyclic
+-đa xiclic
+@Lĩnh vực: hóa học & vật liệu
+-đa vòng
+

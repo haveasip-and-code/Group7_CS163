@@ -1,14 +1,16 @@
-dib	
-@dib /dæp/
+probability
+	
 *  danh từ
-- sự nảy lên (quả bóng)
-*  nội động từ
-+ (dib)/dib/
-- câu nhắp (thả mồi xấp xấp trên mặt nước)
-- nảy lên (quả bóng)
-- hụp nhẹ (chim)
-*  ngoại động từ
-- làm nảy lên (quả bóng)
+- sự có thể có, sự chắc hẳn, sự có khả năng xảy ra; sự có lẽ đúng, sự có lẽ thật
+=in all probability
++ rất có thể xảy ra, chắc hẳn; rất có thể đúng
+- điều có thể xảy ra, điều chắc hẳn
+- (toán học) xác suất
+@Chuyên ngành kinh tế
+-xác suất
+-xác suất, tính khả năng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--thẻ đánh bài
+-tần suất
+-xác suất
+-xác suất thống kê
+

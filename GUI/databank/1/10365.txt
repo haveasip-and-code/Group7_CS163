@@ -1,6 +1,20 @@
-colorfast	
-@colorfast ['kʌləfɑ:st]
-*tính từ
--  (nói về vải) không phai màu sau khi giặt
+indeterminate
+	
+*  tính từ
+- vô định, vô hạn
+=an indeterminate sentence of imprisonment
++ án tù vô kỳ hạn
+- không rõ, lờ mờ, mập mờ, mơ hồ
+=indeterminate result
++ kết quả mơ hồ
+- không quyết định, không quả quyết, do dự, lưỡng lự
+- (toán học) vô định
+=indeterminate equation
++ phương trình vô định
 @Chuyên ngành kỹ thuật
--bền màu
+-bất định
+-không chính xác
+-không xác định
+-siêu tĩnh
+-vô định
+

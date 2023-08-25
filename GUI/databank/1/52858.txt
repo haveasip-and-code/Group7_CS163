@@ -1,27 +1,34 @@
-stabilizer	@stabilizer /'steibilalzə/
+reducer
+	
 *  danh từ
-- máy ổn định, bộ ổn định; chất ổn định; chất ổn định
-- bộ phận thăng bằng (ở sườn tàu thuỷ, ở đuôi máy bay)
+- (hoá học) chất khử
+- (vật lý) máy giảm; cái giảm tốc; cái giảm áp
+- (nhiếp ảnh) máy thu nhỏ
 @Chuyên ngành kinh tế
--chất làm ổn định
--máy điều hòa
+-chất làm giảm
+-thiết bị khử
 @Chuyên ngành kỹ thuật
--bộ ổn áp
--bộ ổn định
--chất gia cố
--mặt thăng bằng ngang
--ống làm ổn định
-@Lĩnh vực: điện lạnh
--bộ ổn định tàu thủy (giảm chao đảo)
-@Lĩnh vực: xây dựng
--chân chống (ở máy trục di động để tạo sự ổn định)
+-bộ biến đổi
+-bộ giảm tốc
+-bộ thu nhỏ
+-chất khử
+-chất khử ôxi
+-chất pha loãng
+-giảm áp
+-ống nối chuyển tiếp
+-ống nối trung gian
+-tác nhân khử
+-thiết bị giảm tốc
+-van giảm áp
 @Lĩnh vực: hóa học & vật liệu
--chất (làm) ổn định
--chất làm ổn định
--chất nhũ tương hóa
--chất ổn định
-@Lĩnh vực: cơ khí & công trình
--chất chống đông tụ
--máy ổn định
-@Lĩnh vực: điện
--máy ổn áp
+-bộ giảm
+-vi sinh vật khử
+@Lĩnh vực: xây dựng
+-cái giảm tốc áp
+-chi tiết chuyển tiếp
+-chi tiết ghép nối tiếp (thép tôn)
+-máy giảm
+-máy thu nhỏ
+@Lĩnh vực: vật lý
+-máy thu ảnh
+

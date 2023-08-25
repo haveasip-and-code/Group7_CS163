@@ -1,14 +1,9 @@
-assembler	
-@assembler
-- (Tech) chương trình dịch mã số; thợ lắp ráp
-@Chuyên ngành kinh tế
--thợ lắp ráp
+zygoma
+	
+*  danh từ,  số nhiều zygomata
+*  (giải phẫu) xương gò má
 @Chuyên ngành kỹ thuật
--thợ lắp ráp
-@Lĩnh vực: điện lạnh
--bộ lắp ghép
--phần tử lắp ráp
-@Lĩnh vực: xây dựng
--ráp viên
-@Lĩnh vực: cơ khí & công trình
--thiết bị lắp ráp
+@Lĩnh vực: y học
+-cung gò má
+-xương gò má
+

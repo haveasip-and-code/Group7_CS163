@@ -1,11 +1,9 @@
-experimental	
-@experimental /eks,peri'mentl/
-*  tính từ
-- dựa trên thí nghiệm
-- để thí nghiệm
-- thực nghiệm=experimental philosophy
-+ triết học thực nghiệm
+sociology
+	
+*  danh từ
+- xã hội học
+@Chuyên ngành kinh tế
+-xã hội học
 @Chuyên ngành kỹ thuật
--thí nghiệm
-@Chuyên ngành kỹ thuật
--thí nghiệm
+-xã hội học
+

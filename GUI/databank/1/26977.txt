@@ -1,10 +1,7 @@
-idol	
-@idol /'aidl/
-*  danh từ
-- tượng thần, thần tượng
-- (nghĩa bóng) thần tượng, người được sùng bái, vật được tôn sùng
-- ma quỷ
-- (triết học) quan niệm sai lầm ((cũng) idolum)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thần tượng
+steamy
+	
+*  tính từ
+- như hơi
+- đầy hơi nước, ẩm thấp
+- bốc hơi
+

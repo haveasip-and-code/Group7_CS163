@@ -1,3 +1,8 @@
-sparerib	@sparerib /'speərib/
-*  danh từ
-- sườn lợn đã lọc gần hết thịt
+parser
+	
+- xem parse
+@Chuyên ngành kỹ thuật
+-bộ phân tích
+@Lĩnh vực: điện lạnh
+-bộ phân tách (cú pháp)
+

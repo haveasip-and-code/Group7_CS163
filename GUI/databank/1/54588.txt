@@ -1,8 +1,14 @@
-supercomputer	@supercomputer
-- siêu máy tính
+occur
+	
+*  nội động từ
+- xảy ra, xảy đên
+- nảy ra (ý nghĩ)
+=it occurs to me that
++ tôi chợt nảy ra ý nghĩ là
+- xuất hiện, tìm thấy
+=several misprints occur on the first page
++ nhiều lỗi in sai tìm thấy ở trang nhất
 @Chuyên ngành kỹ thuật
--máy tính chính
--máy tính cỡ lớn
--siêu máy tính
-@Lĩnh vực: toán & tin
--bộ tốc hoạt số
+-xảy ra
+-xuất hiện
+

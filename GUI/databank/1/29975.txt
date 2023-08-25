@@ -1,12 +1,10 @@
-irregularity	
-@irregularity /i,regju'læriti/
+aerofoil
+	
 *  danh từ
-- tính không đều; cái không đều
-- tính không theo quy luật; tính không đúng quy cách (hàng...); tính không chính quy (quân đội...); tính không đúng lễ giáo (lễ nghi, phong tục...); điều trái quy luật, điều không chính quy, điều trái lễ giáo (lễ nghi, phong tục...)
-- (ngôn ngữ học) tính không theo quy tắc
+- cánh máy bay
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự không đều
-@Lĩnh vực: xây dựng
--sự không đều đặn
--tính không đều đặn
+@Lĩnh vực: cơ khí & công trình
+-cánh (máy bay)
+@Lĩnh vực: giao thông & vận tải
+-kết cấu dạng cánh
+

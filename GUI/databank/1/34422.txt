@@ -1,7 +1,17 @@
-meristic	@meristic
-* tính từ
-- có sự thay đổi về số lượng
-- phân thành nhiều đốt
+leakless
+	
+*  tính từ
+- không rò, không có lỗ h
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--đối xứng, phân đoạn đều
+-không rò khí
+-không rò rỉ
+-kín
+@Lĩnh vực: xây dựng
+-không rò nước
+@Chuyên ngành kỹ thuật
+-không rò khí
+-không rò rỉ
+-kín
+@Lĩnh vực: xây dựng
+-không rò nước
+

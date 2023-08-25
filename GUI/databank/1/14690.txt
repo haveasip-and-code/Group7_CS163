@@ -1,7 +1,21 @@
-dermatophyte	
-@dermatophyte
-* danh từ
-- nấm ngoài da, nấm hại da
+preventive
+	
+*  tính từ
+- ngăn ngừa, phòng ngừa
+=preventive measure
++ biện pháp phòng ngừa
+=preventive war
++ chiến tranh phòng ngừa
+- (y học) phòng bệnh
+=preventive medicine
++ thuốc phòng bệnh
+*  danh từ
+- biện pháp phòng ngừa
+- thuốc phòng bệnh, cách phòng bệnh
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--nấm da
+-biện pháp phòng ngừa
+-chất bảo vệ
+-ngăn chặn
+-ngăn ngừa
+-phòng ngừa
+

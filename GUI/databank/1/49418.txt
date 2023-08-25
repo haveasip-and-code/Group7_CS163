@@ -1,8 +1,5 @@
-seaplane	@seaplane /'si:plein/
-*  danh từ
-- thuỷ phi cơ
-@Chuyên ngành kinh tế
--thủy phi cơ
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--thủy phi cơ
+outtake
+	
+@Lĩnh vực: hóa học & vật liệu
+-giếng xả khí (mỏ)
+

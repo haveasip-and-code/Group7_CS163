@@ -1,11 +1,5 @@
-await	
-@await /ə'weit/
-*  ngoại động từ
-- đợi, chờ đợi=to await somebody
-+ đợi ai=to await a decision
-+ chờ đợi sự quyết định
-- để dự trữ cho, dành cho=great honours await him
-+ những vinh dự lớn đã dành sẵn cho anh ta, những vinh dự lớn đang chờ đợi anh ta
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đợi
+unaimed
+	
+* tính từ
+- không có mục đích, không có mục tiêu
+

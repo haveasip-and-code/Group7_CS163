@@ -1,20 +1,14 @@
-scuttle	@scuttle /'skʌtl/
-*  danh từ
-- dáng đi hấp tấp
-- sự chạy trốn vội vã; sự ra đi hối hả
-*  nội động từ
-- đi vụt qua
-- chạy trốn, chạy gấp, chạy vội
-*  danh từ
-- giỗ rộng miệng (đựng ngô, thóc, hạt...)
-- xô (đựng) than
-*  danh từ
-- lỗ, lỗ thông (ở thành tàu, mái nhà, có nắp đậy)
-*  ngoại động từ
-- làm đắm tàu bằng cách đục thủng (ở đáy, boong hay mạn tàu); làm đắm (tàu) bằng cách mở van cho nước vào
+pairing
+	
+- danh từ
+- (sinh vật học) sự ghép đôi; kết đôi; kết cặp
 @Chuyên ngành kỹ thuật
--cửa ló sáng
--lỗ thông
-@Lĩnh vực: xây dựng
--cửa thông mái
--lỗ thoát gió
+-ghép cặp
+-ghép đôi
+-sự ghép cặp
+-sự ghép đôi
+@Lĩnh vực: điện
+-ghép cặp dòng
+@Lĩnh vực: toán & tin
+-ghép nhân
+

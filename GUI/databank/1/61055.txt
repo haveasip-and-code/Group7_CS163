@@ -1,31 +1,14 @@
-vacant	@vacant /'veikənt/
-*  tính từ
-- trống, rỗng
-=a vacant space+ khoảng trống
-- bỏ không, trống
-=a vacant room+ căn phòng bỏ không
-=a vacant seat+ ghế trống
-- khuyết, thiếu
-=to apply for a vacant post+ xin vào làm ở chỗ khuyết
-- rảnh rỗi (thì giờ)
-=vacant hours+ những giờ rảnh rỗi
-- trống rỗng (óc); lơ đãng, ngây dại (cái nhìn)
-=the vacant mind+ đầu óc trống rỗng
-=a vacant stare+ cái nhìn lỡ đãng
+psychrometer
+	
+*  danh từ
+- (vật lý) cái đo ẩm
 @Chuyên ngành kinh tế
--bỏ không
--không có người thuê
--khuyết
--rảnh rỗi
--thiếu
--trống
--trống trải
+-ẩm kế
+-cái đo độ ẩm
 @Chuyên ngành kỹ thuật
--khuyết
--rỗng
--trống rỗng
--tự do
-@Lĩnh vực: xây dựng
--chưa được xây dựng
-@Lĩnh vực: toán & tin
--trống, rỗng, tự do
+-âm kế
+-ẩm kế
+-cái đo ẩm
+@Lĩnh vực: hóa học & vật liệu
+-máy đo ẩm
+

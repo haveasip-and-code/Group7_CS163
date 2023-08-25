@@ -1,18 +1,74 @@
-manufacturer	@manufacturer /,mænju'fæktʃərə/
+join
+	
+*  ngoại động từ
+- nối lại, chắp, ghép, buộc (cái nọ vào cái kia)
+- nối liền
+=the road joins the two cities
++ con đường nối liền hai thành phố
+- thắt chặt, hợp nhất, kết hợp, liên hiệp; kết giao, kết thân
+=to join forces with
++ hợp lực với
+=to join two persons in marriage
++ kết thân hai người trong mối tình vợ chồng
+- gia nhập, nhập vào, vào
+=to join a party
++ gia nhập một đảng
+=to join the army
++ vào quân đội, nhập ngũ
+- tiếp với, gặp; đổ vào (con sông)
+=where the foot
+-path joins the main road
++ ở nơi mà con đường nhỏ nối với con đường cái
+=where the Luoc river joins the Red river
++ ở nơi mà sông Luộc đổ vào sông Hồng
+- đi theo, đến với, đến gặp; cùng tham gia
+=I'll join you in a few minutes
++ độ vài phút nữa tôi sẽ đến với anh
+=would you join us in our picnic?
++ anh có muốn tham gia cuộc đi chơi ngoài trời với chúng tôi không?
+- trở về, trở lại
+=to join the regiment
++ trở lại trung đoàn (sau ngày nghỉ phép...)
+=to join the ship
++ trở về tàu
+*  nội động từ
+- nối lại với nhau, thắt chặt lại với nhau, kết hợp lại với nhau; liên hiệp với nhau, kết thân với nhau
+- gặp nhau, nối tiếp nhau
+=parallet lines never join
++ hai đường song song không bao giờ gặp nhau
+=where the two rivers join
++ ở nơi mà hai con sông gặp nhau
+- tham gia, tham dự, nhập vào, xen vào
+=to join in the conversation
++ tham gia vào câu chuyện
+- (từ cổ,nghĩa cổ) giáp với nhau, tiếp giáp với nhau
+=the two gardens join
++ hai khu vườn tiếp giáp với nhau
+- (quân sự) nhập ngũ ((cũng) join up)
+!to join battle
+- bắt đầu giao chiến
+!to join hands
+- nắm chặt tay nhau, bắt chặt tay nhau
+- (nghĩa bóng) phối hợp chặt chẽ với nhau; câu kết chặt chẽ với nhau (để làm gì)
 *  danh từ
-- người chế tạo, người sản xuất
-- nhà công nghiệp; chủ xí nghiệp, chủ xưởng
-@Chuyên ngành kinh tế
--chủ xí nghiệp
--chủ xưởng
--người sản xuất
--nhà chế tạo
--nhà công nghiệp
--nhà sản xuất
+- chỗ nối, điểm nối, đường nối
 @Chuyên ngành kỹ thuật
--hãng sản xuất
--người sản xuất
--nhà sản xuất
-@Lĩnh vực: cơ khí & công trình
--người chế tạo
--nhà chế tạo
+-buộc
+-chỗ nối
+-gắn
+-ghép
+-gia nhập
+-hợp
+-kết hợp
+-khớp nối
+-lắp ráp
+-liên kết
+-nối
+-nối ghép
+-mắc
+-tham gia
+@Lĩnh vực: toán & tin
+-nối, liên kết
+@Lĩnh vực: xây dựng
+-tiếp nối
+

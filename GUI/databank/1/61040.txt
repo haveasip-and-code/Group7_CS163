@@ -1,6 +1,5 @@
-utterance	@utterance /' t r ns/
-*  danh từ
-- sự phát biểu, sự bày tỏ
-- cách nói
-=clear utterance+ cách nói rõ ràng
-- (số nhiều) lời; lời phát biểu
+medusan
+	
+* tính từ
+- (thuộc) sứa
+

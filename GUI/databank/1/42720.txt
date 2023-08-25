@@ -1,55 +1,13 @@
-position	@position /pə'ziʃn/
-*  danh từ
-- vị trí, chỗ (của một vật gì)
-=in position+ đúng chỗ, đúng vị trí
-=out of position+ không đúng chỗ, không đúng vị trí
-- (quân sự) vị trí
-=to attack an enemy's+ tấn công một vị trí địch
-- thế
-=a position of strength+ thế mạnh
-=to be in an awkward position+ ở vào thế khó xử
-=to be in a false position+ ở vào thế trái cựa
-=to be in a position to do something+ ở vào một cái thế có thể làm gì, có khả năng làm gì
-- tư thế
-=eastward position+ tư thế đứng hướng về phía đông (của linh mục khi làm lễ)
-- địa vị; chức vụ
-=social position+ địa vị xã hội
-=a man of high position+ người có địa vị cao
-=to take a position as typist+ nhận một chức đánh máy
-- lập trường, quan điểm, thái độ
-- luận điểm; sự đề ra luận điểm
-*  ngoại động từ
-- đặt vào vị trí
-- xác định vị trí (cái gì...)
-- (quân sự) đóng (quân ở vị trí)
+airspace
+	
+* danh từ
+- vùng trời, không phận
 @Chuyên ngành kinh tế
--chức vị
--địa điểm
--địa vị
--ghi-sê (dùng trong ngân hàng)
--ghi-sê (ngân hàng)
--lập trường
--phương vị
--thân phận
--thân phận, chức vị
--thế
--tiền mặt dự trữ (của ngân hàng)
--tình cảnh
--tình thế
--tình trạng
--tình trạng (tài chánh)
--tình trạng (tài chính)
--tư thế
--tư thế, vị thế, tình thế
--vị thế
--vị trí
--việc làm
--việc làm, vị trí
+-không phận
 @Chuyên ngành kỹ thuật
--chỗ
--địa điểm
--đinh vị
--định vị
--sự định vị
--vị trí
--xác định vị trí
+-khoảng không
+@Lĩnh vực: xây dựng
+-khoảng không khí
+-lớp không khí
+-vùng trời
+

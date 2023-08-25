@@ -1,7 +1,8 @@
-bandit	
-@bandit /'bændit/
-*  danh từ,  số nhiều bandits/'bændits/,  banditti/bæn'diti:/
-- kẻ cướp
+locale
+	
+*  danh từ
+- nơi xảy ra (sự việc gì...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--kẻ cướp
+@Lĩnh vực: toán & tin
+-nơi diễn ra
+

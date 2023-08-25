@@ -1,24 +1,26 @@
-modification	@modification /,mɔdifi'keiʃn/
-*  danh từ
-- sự sửa đổi, sự biến cải, sự thay đổi
-- sự làm giảm nhẹ, sự bớt đi, sự dịu đi
-- (ngôn ngữ học) sự biến thể; hiện tượng biến âm sắc
-- (ngôn ngữ học) sự bổ nghĩa
-@Chuyên ngành kinh tế
--sự biến tính
--sự sửa đổi
--sự thay đổi
--thay đổi
+abort
+	
+*  nội động từ
+- sẩy thai; đẻ non ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) không phát triển, thui
+*  ngoại động từ
+- làm sẩy thai, phá thai
 @Chuyên ngành kỹ thuật
--biến thể
--điều chỉnh
--sự cải tạo, thay đổi
--sự hiệu chỉnh
--sự sửa đổi
--sự thay đổi
--sửa đổi
--thay đổi
+-bỏ
+-gạt bỏ
+-hủy bỏ
+-kết thúc bất thường
+-ngừng
+-ngưng dừng hơi sớm
+-phá hủy
+-phá thai
+-sự hủy
 @Lĩnh vực: toán & tin
--sự (sửa) đổi
--sự cải biên
--sự đổi
+-bãi bỏ
+-bỏ ngang
+-hủy
+@Lĩnh vực: điện tử & viễn thông
+-cắt mạch hơi sớm
+@Lĩnh vực: y học
+-Chặn tiến triển Sảy thai Không phát triển, thui
+

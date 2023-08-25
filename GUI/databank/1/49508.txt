@@ -1,26 +1,26 @@
-sector	@sector /'sektə/
+recreation
+	
 *  danh từ
-- (toán học) hình quạt
-- (quân sự) quân khu
-- khu vực
-=the state sector of economy+ khu vực kinh tế nhà nước
+- sự giải lao, sự giải trí, sự tiêu khiển
+=to walk for recreation
++ đi dạo để giải trí
+=to look upon gardening as a recreation
++ coi công việc làm vườn như một thú tiêu khiển
+- giờ chơi, giờ nghỉ, giờ giải lao (ở trường học)
+!recreation center
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) căn cứ (để) nghỉ ngơi
+!recreation centre
+- câu lạc bộ, nhà văn hoá
+!recreation ground
+- sân chơi, sân thể thao
+!recreation room
+- phòng giải trí ((cũng) rec_room)
 @Chuyên ngành kinh tế
--địa hạt
--khu vực
--khu vực (chứng khoán ) chuyên ngành
--lĩnh vực
+-sự giải trí
+-tiêu khiển
 @Chuyên ngành kỹ thuật
--bộ môn
--bộ phận
--hình quạt
--khu vực
--ngành
--thanh trượt
-@Lĩnh vực: toán & tin
--cung từ
--hình quạt, khu vực
+-sự tạo lại
 @Lĩnh vực: xây dựng
--điạ hạt
--phân khu, khu vực
-@Lĩnh vực: điện lạnh
--quạt phủ sóng (rađa)
+-công trình giải trí
+-công trình nghỉ ngơi
+

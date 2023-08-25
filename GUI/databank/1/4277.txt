@@ -1,17 +1,4 @@
-axiom	
-@axiom /'æksiəm/
-*  danh từ
-- chân lý, sự thật, đương nhiên
-- (toán học) tiên đề
-- (từ hiếm,nghĩa hiếm) châm ngôn, phương ngôn
-@Chuyên ngành kinh tế
--chân lý
--nguyên lý
--nguyên tắc
--quy luật
--sự thật hiển nhiên
--tiền đề
-@Chuyên ngành kỹ thuật
--định lý
-@Lĩnh vực: xây dựng
--tiền đề
+asynchronous
+	
+- (Tech) dị bộ, không đồng bộ
+

@@ -1,5 +1,28 @@
-receivables	@Chuyên ngành kinh tế
--số tiền sẽ được thu
+rational
+	
+*  tính từ
+- có lý trí, dựa trên lý trí
+=a rational being
++ một sinh vật có lý trí
+=to be quite rational
++ hoàn toàn có lý trí; có đầy đủ lý trí
+=a confidence
++ một sự tin tưởng dựa trên lý trí
+- có lý, phải lẽ; vừa phải, có chừng mực
+=a rational explanation
++ một lời giải thích có lý
+- (toán học) hữu tỷ
+=rational algebratic fraction
++ phân thức đại số hữu tỷ
+!a rational dress
+- quần đàn bà bó ở đầu gối
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--số tiền thu nhận
+-hợp lý
+@Lĩnh vực: xây dựng
+-hữu tỉ
+-hữu tỷ hợp lý
+@Lĩnh vực: điện lạnh
+-hữu tỷ
+@Lĩnh vực: toán & tin
+-hữu tỷ, hợp lý
+

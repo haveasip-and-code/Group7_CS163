@@ -1,56 +1,14 @@
-leaf	@leaf /li:f/
-*  danh từ,  số nhiều leaves  /li:vz/
-- lá cây; lá (vàng, bạc...)
-=to be in leaf; to come into leaf+ ra lá, mọc lá
-- tờ (giấy)
-- tấm đôi (tấm ván ở mặt bàn có thể bỏ đi hoặc lắp vào chỗ cho bàn to thêm)
-!to take a leaf out of someone's book
-- noi gương ai, bắt chước ai
-!to turn over a new leaf
-- cải tà quy chính; đổi tính, đổi nết
-- bắt đầu lại tất cả
-*  nội động từ
-- trổ lá, ra lá
-*  ngoại động từ ((thường) + through,  over)
-- dở (sách)
-@Chuyên ngành kinh tế
--lá cây
--lá thuốc lá hái tươi
-@Chuyên ngành kỹ thuật
--diệp
--lá
--lá (kim loại)
--lá bản lề
--lá nhỏ
--nắp lật
--phiến mỏng
--tấm
-@Lĩnh vực: xây dựng
--cánh cầu mở
--cánh cửa
--chớp cửa
--thành tường rỗng
--xupap cửa van
-@Lĩnh vực: cơ khí & công trình
--cánh van bướm
-@Lĩnh vực: toán & tin
--tờ, tấm, lá
-@Chuyên ngành kỹ thuật
--diệp
--lá
--lá (kim loại)
--lá bản lề
--lá nhỏ
--nắp lật
--phiến mỏng
--tấm
-@Lĩnh vực: xây dựng
--cánh cầu mở
--cánh cửa
--chớp cửa
--thành tường rỗng
--xupap cửa van
-@Lĩnh vực: cơ khí & công trình
--cánh van bướm
-@Lĩnh vực: toán & tin
--tờ, tấm, lá
+spoony
+	
+*  tính từ
++ (spooney)
+/'spu:ni/
+- khờ dại, quỷnh
+- yếu đuối, nhu nhược
+- phải lòng (ai), mê tít (ai)
+=to be spoony upon somebody
++ mê tít ai
+*  danh từ
+- người khờ dại, anh thộn, anh quỷnh
+- anh chàng si tình quỷnh
+

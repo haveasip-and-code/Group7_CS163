@@ -1,13 +1,47 @@
-clew	
-@clew /klu:/
+route
+	
 *  danh từ
-- cuộn chỉ
-- đầu mối, manh mối=there is no clew to soive the mystery
-+ không có manh mối gì để khám phá ra điều bí ẩn này
-- (hàng hải) dây treo võng
-- (hàng hải) góc buồm phía trước!from clew to earling
-- từ đầu đến chân
-*  ngoại động từ (
-+ up)
-- (hàng hải) cuốn (buồm)
-- cuộn lại
+- tuyến đường, đường đi
+=en route
++ trên đường đi
+=bus route
++ tuyến đường xe buýt
+- ((cũng) raut) (quân sự) lệnh hành quân
+=column of route
++ đội hình hành quân
+=to give the route
++ ra lệnh hành quân
+=to get the route
++ nhận lệnh hành quân[ru:t 
+- raut]
+*  ngoại động từ
+- gửi (hàng hoá) theo một tuyến đường nhất định
+@Chuyên ngành kinh tế
+-chuyển đi các nơi (báo, thư...)
+-chuyển tới (thư từ...)
+-định lộ trình
+-định tuyến đường
+-đường đi
+-lộ trình
+-phân chọn (bưu phẩm) theo đường để chuyển đi
+-tuyến đường
+-tuyến đường (máy bay, tàu, xe buýt...)
+@Chuyên ngành kỹ thuật
+-con đường
+-định tuyến
+-định vị
+-đường
+-đường chạy
+-đường đi
+-đường truyền
+-hành trình
+-khoảng truyền
+-lộ trình
+@Lĩnh vực: xây dựng
+-dây chuyền (sản xuất)
+-đường chạy (cho từng số tầu điện hoặc xe buýt)
+@Lĩnh vực: toán & tin
+-dây truyền (sản xuất)
+@Lĩnh vực: ô tô
+-theo tuyến đường
+

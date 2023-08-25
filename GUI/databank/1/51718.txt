@@ -1,13 +1,8 @@
-solar	@solar /'soulə/
-*  tính từ
-- (thuộc) mặt trời, (thuộc) thái dương
-=solar eclipse+ nhật thực
-=solar system+ hệ mặt trời
-@Chuyên ngành kỹ thuật
--gác thượng (cung điện)
--nắng
-@Lĩnh vực: y học
--do tác dụng mặt trời
--thuộc mặt trời
-@Lĩnh vực: điện lạnh
--mặt trời
+outlive
+	
+*  ngoại động từ
+- sống lâu hơn
+- sống sót; vượt qua được
+=to outlive a storm
++ vượt qua được cơn bão (tàu bè)
+

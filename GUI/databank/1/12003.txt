@@ -1,12 +1,9 @@
-corpus	
-@corpus /'kɔ:pəs/
-*  danh từ,  số nhiều corpora
-- tập sao lục, tập văn
-- (sinh vật học) thể=corpus striatum
-+ thể vân
-@Chuyên ngành kinh tế
--tài sản gốc
--vốn gốc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--văn bản ra
+praetorian
+	
+*  tính từ
+- (sử học) (thuộc) pháp quan (La mã)
+- (thuộc) cận vệ (của hoàng đế La mã)
+*  danh từ
+- (sử học) pháp quan (La mã)
+- cận vệ (của hoàng đế La mã)
+

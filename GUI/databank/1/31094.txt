@@ -1,71 +1,27 @@
-knife	@knife /naif/
-*  danh từ,  số nhiều knives
-- con dao
-- (y học) dao mổ
-=the knife+ phẫu thuật; cuộc mổ
-=to go under the knife+ bị mổ
-- (kỹ thuật) dao cắt gọt, dao nạo
-!before you can say knife
-- đột ngột, rất nhanh không kịp kêu lên một tiếng
-!to get (have) one's knife into somebody
-- tấn công ai mânh liệt, đả kích ai kịch kiệt
-!knife and fork
-- sự ăn
-- người ăn
-=to be a good (poor) knife and fork+ là một người ăn khoẻ (yếu)
-=to lay a good knife anf fork+ ăn uống ngon lành; ăn khoẻ
-!war to the knife
-- chiến tranh ác liệt, chiến tranh một mất một còn
-!you could cut it with a knife
-- đó là một cái có thực, đó là một cái cụ thể có thể sờ mó được
-*  ngoại động từ
-- đâm bằng dao; chém bằng dao; cắt bằng dao
-- (từ Mỹ,nghĩa Mỹ) dùng thủ đoạn ám muội để làm thất bại ((thường) là về mặt chính trị)
-@Chuyên ngành kinh tế
--con dao
--con dao mổ
--dao gọt
+constituent
+	
+*  tính từ
+- cấu tạo, hợp thành, lập thành
+=the constituent elements of air
++ những phần tử cấu tạo không khí
+- có quyền bầu cử
+- lập hiến
+=constituent assembly
++ hội đồng lập hiến
+*  danh từ
+- phần tử, yếu tố cấu tạo, thành phần
+- cử tri, người đi bầu (của một khu vực bầu cử)
+- người uỷ thác, người uỷ nhiệm (cho người khác bênh vực quyền lợi của mình)
 @Chuyên ngành kỹ thuật
--cái cào
--cái nạo
--dao
--dao nạo
--dụng cụ đo
--lưỡi (dao)
--lưỡi dao
--máy san
-@Lĩnh vực: dệt may
--chổi phết hồ
--dao phết hồ
-@Lĩnh vực: xây dựng
--đao
--máy bào đất
--máy nạo than
+-bộ phận cấu thành
+-cấu tạo
+-hợp thành
+-phân tử
+-phần tử
+@Lĩnh vực: toán & tin
+-cấu thành
+@Lĩnh vực: hóa học & vật liệu
+-cấu tử
 @Lĩnh vực: cơ khí & công trình
--dao đo
--dao phay chắp
--răng dao phay
-@Lĩnh vực: y học
--dao, dao mổ
-@Chuyên ngành kỹ thuật
--cái cào
--cái nạo
--dao
--dao nạo
--dụng cụ đo
--lưỡi (dao)
--lưỡi dao
--máy san
-@Lĩnh vực: dệt may
--chổi phết hồ
--dao phết hồ
-@Lĩnh vực: xây dựng
--đao
--máy bào đất
--máy nạo than
-@Lĩnh vực: cơ khí & công trình
--dao đo
--dao phay chắp
--răng dao phay
-@Lĩnh vực: y học
--dao, dao mổ
+-yếu tố (cấu tạo)
+

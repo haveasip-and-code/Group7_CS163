@@ -1,3 +1,4 @@
-rompers	@rompers
-* danh từ, pl
-- quần yếm (của trẻ con)
+placeable
+	
+- xem place
+

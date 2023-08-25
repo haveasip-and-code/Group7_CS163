@@ -1,28 +1,47 @@
-triple	@triple /'tripl/
+single
+	
 *  tính từ
-- có ba cái, gồm ba phần
-=Triple Alliance+ đồng minh ba nước
-=triple time+ (âm nhạc) nhịp ba
-- ba lần, gấp ba
-*  động từ
-- gấp ba, nhân ba, tăng lên ba lần
-=to triple the income+ tăng thu nhập lên ba lần
-=the output tripled+ sản lượng tăng gấp ba
+- đơn, đơn độc, một mình, chỉ một
+=single flower
++ hoa đơn; hoa đơn độc
+=single game
++ (thể dục,thể thao) trận đánh đơn
+=single bed
++ giường một
+=a multitude inspired with a single purpose
++ muôn người cùng chung mục đích
+- đơn độc, cô đơn, không vợ, không chồng, ở vậy
+=single life
++ cuộc sống đơn độc
+=single state
++ sự ở vậy, tình trạng ở vậy
+=single man
++ người chưa có vợ
+*  phủ định
+- một, dù là một
+=I did not see a single person
++ tôi không trông thấy một người nào cả
+- chân thật, thành thật; kiên định
+=a single heart
++ một tấm lòng thành thật
+=with a single eyes
++ chỉ nhằm một mục đích, quyết tâm, toàn tâm toàn ý
+*  danh từ
+- người không vợ, người không chồng, người độc thân; vật đơn
+- (thể dục,thể thao) trận đánh đơn
+=men's singles
++ đánh đơn nam
+- vé chỉ đi một lần
+- (số nhiều) chọn ra, lựa ra
 @Chuyên ngành kinh tế
--bộ ba
--suất ba
+-đơn
 @Chuyên ngành kỹ thuật
--ba cấu tử
--ba lần
--ba nguyên tố
--ba phần
--bậc ba
--gấp ba
--hóa trị ba
-@Lĩnh vực: điện lạnh
--ba (lần)
+-đơn
+-duy nhất
+-riêng
+-riêng lẻ
+-thống nhất
 @Lĩnh vực: toán & tin
--bội ba
--nhân 3
-@Lĩnh vực: xây dựng
--gấp 3
+-cá biệt
+-đơn, cá biệt
+

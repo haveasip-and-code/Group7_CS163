@@ -1,14 +1,10 @@
-voltmeter	@voltmeter
-* danh từ
-- vôn kế
+souvenir
+	
+*  danh từ
+- vật kỷ niệm
+@Chuyên ngành kinh tế
+-vật lưu niệm
 @Chuyên ngành kỹ thuật
--điện lượng kế
--von kế
--vôn kế
-@Lĩnh vực: điện lạnh
--độ nhạy von kế
-@Lĩnh vực: toán & tin
--đồng hồ đo vôn
-@Lĩnh vực: điện
--volt kế
--vôn mét
+@Lĩnh vực: xây dựng
+-kỷ vật
+

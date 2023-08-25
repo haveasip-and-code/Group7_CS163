@@ -1,9 +1,5 @@
-insulant	
-@Chuyên ngành kỹ thuật
--chất cách ly
--chất cách nhiệt
--lớp cách nhiệt
-@Lĩnh vực: điện lạnh
--chất cách [nhiệt]
-@Lĩnh vực: xây dựng
--vật liệu cách ly
+coproduce
+	
+* ngoại động từ
+- cùng sản suất với người khác
+

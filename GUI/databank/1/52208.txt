@@ -1,10 +1,8 @@
-specialty	@specialty /'speʃəlti/
-*  danh từ
-- (pháp lý) hợp đồng (đặc biệt) có đóng dấu
-- ngành chuyên môn, ngành chuyên khoa
-- (từ Mỹ,nghĩa Mỹ) nét đặc biệt
-- (từ Mỹ,nghĩa Mỹ) món đặc biệt (của một hàng ăn...); sản phẩm đặc biệt (của một hãng sản xuất)
-@Chuyên ngành kinh tế
--các sản phẩm đặc biệt
+redevelopment
+	
+* danh từ
+- sự xây dựng lại, sự được xây dựng lại; sự quy hoạch
 @Chuyên ngành kỹ thuật
--ngành chuyên môn
+@Lĩnh vực: xây dựng
+-tái phát triển
+

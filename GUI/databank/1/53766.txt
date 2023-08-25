@@ -1,11 +1,5 @@
-strobe	@strobe
-* danh từ
-- ánh sáng nhấp nháy
-@Chuyên ngành kỹ thuật
--cho đi qua
--chọn qua cửa
--đầu đo
--phân tích
-@Lĩnh vực: toán & tin
--dầu đò (của máy đo)
--tín hiệu tra cứu
+retuse
+	
+*  tính từ
+- (thực vật học) rộng đầu (lá)
+

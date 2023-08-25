@@ -1,11 +1,8 @@
-pout	@pout /paut/
-*  danh từ
-- (động vật học) cá nheo
-- cái bĩu môi (hờn dỗi, khó chịu...)
-!to be in the pouts
-- hờn dỗi, nhăn nhó khó chịu
-*  ngoại động từ
-- bĩu môi
-*  nội động từ
-- bĩu môi, trề môi
-- bĩu ra, trề ra (môi)
+addressable
+	
+-định địa chỉ
+@Lĩnh vực: xây dựng
+-khả định
+@Lĩnh vực: toán & tin
+-khả lập địa chỉ
+

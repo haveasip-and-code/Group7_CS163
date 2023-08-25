@@ -1,12 +1,5 @@
-occupation	@occupation /,ɔkju'peiʃn/
-*  danh từ
-- sự chiếm, sự giữ, sự chiếm giữ, sự chiếm đóng
-=the occupation of the city+ sự chiếm đóng thành phố
-- sự ở (một ngôi nhà)
-- thời hạn thuê
-- nghề nghiệp; công việc, việc làm
-=to look for an occupation+ tìm việc làm
-=what is your occupation?+ anh làm nghề gì?
-@Chuyên ngành kỹ thuật
--nghề nghiệp
--sự chiếm chỗ
+headword
+	
+* danh từ
+- từ đầu (đề mục); từ đầu mục từ (ở từ điển)
+

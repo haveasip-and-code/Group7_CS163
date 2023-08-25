@@ -1,4 +1,16 @@
-magpie	@magpie /'mægpai/
-*  danh từ
-- (động vật học) người hay nói, người hay ba hoa
-=he is a regular magpie+ hắn ta đúng là một thằng ba hoa
+detect
+	
+*  ngoại động từ
+- dò ra, tìm ra, khám phá ra, phát hiện ra
+=to detect someone in doing something
++ phát hiện thấy người nào đang làm gì
+=to detect a symptom of disease
++ phát hiện ra triệu chứng bệnh
+- nhận thấy, nhận ra
+- (rađiô) tách sóng
+@Chuyên ngành kỹ thuật
+-dò
+-khám phá
+-phát hiện
+-tìm
+

@@ -1,9 +1,6 @@
-phenocryst	@phenocryst
-* danh từ
-- (khoáng vật học) tinh thể ban
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--ban tinh
-@Lĩnh vực: xây dựng
--hạt xâm tán
--tính thể ban
+elaboration
+	
+*  danh từ
+- sự thảo tỉ mỉ, sự thảo kỹ lưỡng, sự sửa soạn công phu; sự làm công phu; sự dựng lên
+- (sinh vật học) sự chế tạo, sự sản ra
+

@@ -1,4 +1,31 @@
-cashew	
-@cashew /kæ'ʃu:/
+warning
+	
 *  danh từ
-- (thực vật học) cây đào lộn hột
+- sự báo trước; lời báo trước; dấu hiệu báo trước
+=without warning
++ không báo trước
+=to give warning of danger to someone
++ báo trước sự nguy hiểm cho ai
+- lời cảnh cáo, lời răn
+=he paid no attention to my warnings
++ nó chẳng để ý gì đến những lời răn (cảnh cáo) của tôi
+=let this be a warning to you
++ anh hãy coi cái đó như là một điều răn mình
+- sự báo cho thôi việc; sự báo nghỉ việc
+=to give one's employer warning
++ báo cho chủ biết trước mình sẽ nghỉ việc
+=to give an employee warning
++ báo cho người làm công biết trước sẽ cho nghỉ việc
+!to take warning
+- đề phòng, dè chừng, cảnh giác
+- lấy làm bài học, lấy làm điều răn
+=you should have taken warning by his example
++ anh phải lấy gương của nó làm bài học cho mình mới phải
+- làm theo lời răn, làm theo lời cảnh cáo
+@Chuyên ngành kỹ thuật
+-cảnh cáo
+@Lĩnh vực: điện tử & viễn thông
+-báo trước
+@Lĩnh vực: toán & tin
+-cảnh báo
+

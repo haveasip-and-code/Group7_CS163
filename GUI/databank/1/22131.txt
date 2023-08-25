@@ -1,11 +1,9 @@
-fount	
-@fount /faunt/
-*  danh từ
-- vòi nước (công viên)
-- bình dầu (đèn dầu)
-- (thơ ca) nguồn, nguồn sống
-*  danh từ
-- bộ chữ cùng c
-@Chuyên ngành kỹ thuật
--phông chữ
--vòi nước
+nucleate
+	
+- 'nju:klieit/
+- 'nju:klieit/
+*  tính từ
+- (như) nuclear
+*  ngoại động từ
+- cấu tạo hạt nhân (trong sự kết tinh...)
+

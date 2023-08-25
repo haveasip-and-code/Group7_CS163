@@ -1,32 +1,130 @@
-soil	@soil /sɔil/
+let
+	
 *  danh từ
-- đất
-=alluvial soil+ đất phù sa, đất bồi
-=one's native soil+ nơi quê cha đất tổ
-- vết bẩn, vết nhơ
-- sự làm nhơ bẩn
-- rác rưởi
+- (từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở
+=without let or hindrance
++ (pháp lý) không có gì cản trở, hoàn toàn tự do
 *  ngoại động từ
-- làm bẩn, làm dơ, vấy bẩn
-=I would not soil my hands with it+ (nghĩa bóng) tôi không muốn nhúng vào việc đó cho bẩn tay
+- (từ cổ,nghĩa cổ) ngăn cản, cản trở
+*  ngoại động từ let
+- để cho, cho phép
+=I let him try once more
++ tôi để cho nó thử một lần nữa
+- cho thuê
+=house to let
++ nhà cho thuê
 *  nội động từ
-- dễ bẩn
-=this stuff soils easily+ vải len này dễ bẩn
-*  ngoại động từ
-- cho (súc vật) ăn cỏ tươi
+- để cho thuê
+!to let by
+- để cho đi qua
+!to let down
+- hạ thấp xuống, buông thõng, bỏ rơi
+=she lets down her hair
++ cô ta bỏ xoã tóc
+!to let in
+- cho vào, đưa vào
+- (từ lóng) lừa, bịp, đánh lừa
+!to let into
+- để cho vào
+=to let someone into some place
++ cho ai vào nơi nào
+- cho biết
+=to let someone into the secret
++ để cho ai hiểu biết điều bí mật
+!to let off
+- tha, không trừng phạt; phạt nhẹ; tha thứ
+- bắn ra
+=to let off a gun
++ nổ súng
+=to let off an arrow
++ bắn một mũi tên
+- để chảy mất, để bay mất (hơi...)
+!to let on
+- (từ lóng) mách lẻo, để lộ bí mật
+- (từ Mỹ,nghĩa Mỹ) giả vờ, làm ra vẻ
+!to let out
+- để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài
+=to let the water out of the bath
+-tub
++ để cho nước ở bồn tắm chảy ra
+- tiết lộ, để cho biết
+=to let out a secret
++ tiết lộ điều bí mật
+- nới rộng, làm cho rộng ra
+- cho thuê rộng rãi
+!to let out at
+- đánh đấm dữ, xỉ vả và chửi tục tằn
+!to let up
+- (thông tục) dịu đi, bớt đi, yếu đi
+- (từ Mỹ,nghĩa Mỹ) ngừng lại
+!to let alone
+- không nói đến, bỏ mặc, không dính vào, không đụng chạm đến
+!to let somebody alone to do something
+- giao phó cho ai làm việc gì một mình
+!to let be
+- bỏ mặc, để mặc như vậy không dính vào
+=let me be
++ kệ tôi, để mặc tôi
+!to let blood
+- để cho máu chảy, trích máu; cắt tiết
+!let bygones be bygones
+- (xem) bygone
+!to let the cat out of the bag
+- để lộ bí mật
+!to let somebody down gently (easity)
+- khoan thứ với một người nào; không xỉ vả làm nhục ai
+!to let fall
+- bỏ xuống, buông xuống, ném xuống
+- nói buông, nói vô tình, nói thiếu trách nhiệm
+=to let fall a remark on someone
++ buông ra một lời nhận xét về ai
+- (toán học) kẻ (một đường thẳng góc) xuống (một cạnh)
+!to let fly
+- bắn (súng, tên lửa...)
+- ném, văng ra, tung ra
+=to let fly a torrent of abuse
++ văng ra những tràng chửi rủa
+!to let go
+- buông ra, thả ra, bỏ lỏng ra, không nghĩ đến nữa
+!to let oneself go
+- không tự kìm được để cho tình cảm lôi cuốn đi
+!to let somebody know
+- bảo cho ai biết, báo cho ai biết
+!to let loose
+- (xem) loose
+!to let loose the dogs of war
+- tung ra tất cả các lực lượng tàn phá của chiến tranh
+!to let pass
+- bỏ qua, không để ý
+!let sleeping dogs lie
+- (xem) dog
+!to let slip
+- để cho trốn thoát, bỏ lỡ, để mất
+=to let slip an opportunity
++ bỏ lỡ mất nột cơ hội
+!to lets one's tongue run away with one
+- nói vong mạng, nói không suy nghĩ
+*  trợ động từ lời mệnh lệnh
+- hây, để, phải
+=let me see
++ để tôi xem
+=let it be done at onece
++ phải làm xong ngay việc này
+=let us go to the cinema
++ chúng ta hây đi xi nê
 @Chuyên ngành kinh tế
--sự làm bẩn
--vết bẩn
+-cho thuê
+-để cho thuê
+-hợp đồng cho thuê
+-nhượng
+-tài sản cho thuê
+-thời hạn cho thuê
 @Chuyên ngành kỹ thuật
--đất
--đất trồng
--nước bẩn
--nước thải trong nhà
--rác rưởi
--thổ nhưỡng
-@Lĩnh vực: hóa học & vật liệu
--chất lỏng thải ra
-@Lĩnh vực: xây dựng
--đất nền móng
--sơn lót lớp dậy
--sơn lót tấm dậy
+-cho phép
+-khởi động
+-mở máy
+@Chuyên ngành kỹ thuật
+-cho phép
+-khởi động
+-mở máy
+

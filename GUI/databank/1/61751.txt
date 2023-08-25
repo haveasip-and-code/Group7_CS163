@@ -1,13 +1,30 @@
-victual	@victual /'vitl/
-*  danh từ ((thường) số nhiều)
-- thức ăn; lương thực, thực phẩm
-*  nội động từ
-- mua thức ăn
-- ăn uống
+anticipate
+	
 *  ngoại động từ
-- cung cấp lương thực thực phẩm
-=to victual a town+ cung cấp lương thực thực phẩm cho một thành phố
+- dùng trước, hưởng trước
+- thấy trước, biết trước, đoán trước; dè trước, chặn trước, liệu trước, lường trước
+=to anticipate somebody's wishes
++ đoán trước được ý muốn của ai
+- làm trước; nói trước
+- làm cho nhanh, làm cho chóng, thúc đẩy
+=to anticipate someone's ruin
++ thúc đẩy sự suy sụp của ai, làm cho ai chóng suy sụp
+- thảo luận trước, xem xét trước
+- mong đợi, chờ đợi
 @Chuyên ngành kinh tế
--cung cấp lương thực thực phẩm
--cung cấp thực phẩm và đồ dự trữ (cho một chiếc tàu, ..)
--mua lương thực thực phẩm
+-biết trước
+-chờ đợi
+-kỳ vọng
+-làm trước
+-mong đợi
+-sử dụng trước
+-xem xét trước
+@Chuyên ngành kỹ thuật
+-làm trước
+@Lĩnh vực: toán & tin
+-đoán trước
+-nói trước
+-thấy trước vấn đề
+@Lĩnh vực: xây dựng
+-tiên liệu
+

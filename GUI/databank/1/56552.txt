@@ -1,6 +1,22 @@
-thrombus	@thrombus
-* danh từ số nhiều thrombi
-- (y học) cục nghẽn
+retain
+	
+*  ngoại động từ
+- giữ, cầm lại
+=dykes retain the river water
++ đê điều ngăn giữ nước sông
+- ghi nhớ
+- thuê (luật sư)
+- vẫn giữ, vẫn có, vẫn duy trì, vân dùng, không bỏ, không thừa nhận
+=to retain one's composure
++ vẫn giữ bình tĩnh
+=to retain control of...
++ vẫn nắm quyền kiểm soát..., vẫn làm chủ...
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cục đông, một cục máu
+-giữ
+-giữ lại
+-lấy
+@Lĩnh vực: xây dựng
+-chắn lại
+-giữ luôn
+-tích (nước)
+

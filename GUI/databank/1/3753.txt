@@ -1,7 +1,7 @@
-asymmetry	
-@asymmetry /æ'simitri/
-*  danh từ
-- tính không đối xứng
-@Chuyên ngành kỹ thuật
--không đối xứng
--sự không đối xứng
+asymptote
+	
+- đường tiệm cận
+- curvilinear a. tiệm cận cong
+- inflexional a. tiệm cận uốn
+- reetilinear a. tiệm cận thẳng
+

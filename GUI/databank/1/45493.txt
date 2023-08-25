@@ -1,44 +1,5 @@
-ram	@ram /ræm/
-*  danh từ
-- cừu đực (chưa thiến)
-- (hàng hải) mũi nhọn (của tàu chiến để đâm thủng hông tàu địch); tàu chiến có mũi nhọn
-- (kỹ thuật) đấm nện; búa đóng cọc, búa đập, búa thuỷ động
-- sức nện của búa đóng cọc
-- pittông (của bơm đẩy)
-- (kỹ thuật) máy đẩy cốc (luyện kim)
-- (the ram) (thiên văn học) chòm sao Bạch dương
+constipate
+	
 *  ngoại động từ
-- nện (đất...)
-- đóng cọc
-- nạp (súng) đầy đạn
-- nhét vào, nhồi vào, ấn chặt vào
-=to ram one's clothes into a bag+ nhét quần áo vào một cái túi
-- (hàng hải) đâm thủng (một tàu khác) bằng mũi nhọn
-- đụng, đâm vào
-=to ram one's head against the wall+ đụng đầu vào tường
-!to ram an argument home
-- câi lý đến cùng; cố gắng thuyết phục
-!to ram something down someone's throat
-- (xem) throat
-@Chuyên ngành kinh tế
--cừu đực
--dê đực
-@Chuyên ngành kỹ thuật
--búa đập
--búa đóng cọc
--búa thùy động / máy đẩy cốc
--đầm
--đầu búa
--đóng cọc
--nện
--nền bằng dùi
--quả búa
--rầm
--sự đầm chặt
-@Lĩnh vực: cơ khí & công trình
--búa thủy động
--pittông (máy ép thủy lực)
-@Lĩnh vực: xây dựng
--nện bằng vồ
-@Lĩnh vực: toán & tin
--sự rầm chặt
+- (y học) làm táo bón
+

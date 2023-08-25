@@ -1,4 +1,11 @@
-edifying	
-@edifying
-* tính từ
-- có tính cách giáo dục, khai trí
+acyclic
+	
+- (Tech) không tuần hoàn, không có chu kỳ
+@Chuyên ngành kỹ thuật
+-không tuần hoàn
+@Lĩnh vực: y học
+-không có chu kỳ
+-không vòng
+@Lĩnh vực: toán & tin
+-phi chu trình
+

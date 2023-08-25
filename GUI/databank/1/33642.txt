@@ -1,3 +1,22 @@
-maquette	@maquette
-* danh từ
-- mô hình (của nhà điêu khắc)
+contiguous
+	
+*  tính từ
+- kề nhau, giáp nhau, tiếp giáp (vườn, ruộng, nhà...); láng giềng, bên cạnh
+=to be contiguous to something
++ tiếp giáp với cái gì, gần với cái gì
+=contiguous angles
++ (toán học) góc kề
+@Chuyên ngành kỹ thuật
+-có liên quan
+-kề
+-lân cận
+-liền kề
+-mật tiếp
+-tiếp cận
+-tiếp giáp
+-tiếp liên
+@Lĩnh vực: toán & tin
+-giàu ngữ cảnh
+@Lĩnh vực: xây dựng
+-kề (bên)
+

@@ -1,8 +1,6 @@
-combinable	
-@combinable
-* tính từ
-- có thể kết hợp được
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--kết hợp được
--tổ hợp được
+stargaze
+	
+* nội động từ
+- xem sao; chiêm tinh
+- mơ màng trăng gió
+

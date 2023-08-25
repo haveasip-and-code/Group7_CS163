@@ -1,5 +1,11 @@
-normed	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có chuẩn
--được chuẩn hóa
--được định chuẩn
+mansion
+	
+*  danh từ
+- lâu đài
+- (số nhiều) khu nhà lớn
+@Chuyên ngành kỹ thuật
+-biệt thự
+-khu nhà lớn
+-lâu đài
+-nhà ở
+

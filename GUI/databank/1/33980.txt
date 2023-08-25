@@ -1,5 +1,13 @@
-max	@max
-- (viết tắt) tối đa
+germicide
+	
+*  danh từ
+- chất diệt trùng, chất sát trùng
+@Chuyên ngành kinh tế
+-chất diệt trùng
 @Chuyên ngành kỹ thuật
--cực đại
--tối đa
+@Lĩnh vực: y học
+-diệt mầm bệnh
+@Lĩnh vực: hóa học & vật liệu
+-thuốc diệt khuẩn
+-thuốc diệt nấm
+

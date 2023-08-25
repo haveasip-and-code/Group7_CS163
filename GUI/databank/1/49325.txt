@@ -1,8 +1,8 @@
-scrutineer	@scrutineer /,skru:ti'niə/
-*  danh từ
-- người kiểm phiếu bầu (xem có hợp lệ không)
-@Chuyên ngành kinh tế
--bộ kiểm tra
--người kiểm phiếu
--người kiểm tra
--người kiểm tra bầu cử
+obstinate
+	
+*  tính từ
+- bướng bỉnh, cứng đầu cứng cổ, khó bảo; ngoan cố
+- (y học) dai dẳng, khó chữa
+=an obstinate disease
++ bệnh khó chữa
+

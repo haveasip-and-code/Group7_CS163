@@ -1,3 +1,10 @@
-quarterstaff	@quarterstaff /'kwɔ:təstɑ:f/
-*  danh từ,  số nhiều quarterstaves
-- gậy (dài từ 1, 80 đến 2, 40 m, dùng làm vũ khí)
+humanize
+	
+*  ngoại động từ
+- làm cho có lòng nhân đạo
+- làm cho có tính người, nhân tính hoá
+=to humanize cow's milk
++ làm cho sữa bò giống như sữa người
+*  nội động từ
+- hoá thành nhân đạo
+

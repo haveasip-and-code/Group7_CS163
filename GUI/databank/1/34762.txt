@@ -1,3 +1,10 @@
-microphysics	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--vật lý học vi mô
+gimbals
+	
+*  danh từ số nhiều
+- (kỹ thuật) khớp cacddăng
+@Chuyên ngành kỹ thuật
+-khớp các đăng
+-khớp cacđăng
+@Lĩnh vực: điện tử & viễn thông
+-khớp cardan
+

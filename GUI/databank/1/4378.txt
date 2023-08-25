@@ -1,6 +1,5 @@
-backlight	
-@backlight
-- (Tech) ánh sáng bối cảnh; chiếu sáng mặt sau, áng sáng chiếu hậu; đèn sau [TQ]
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--chiếu sáng ngược
+pesthole
+	
+*  danh từ
+- ổ vi trùng truyền bệnh; ổ bệnh dịch
+

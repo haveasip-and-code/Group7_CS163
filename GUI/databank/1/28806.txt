@@ -1,10 +1,35 @@
-inquest	
-@inquest /'inkwest/
-*  danh từ
-- cuộc điều tra chính thức, cuộc thẩm tra chính thức (của toà án...)
-- cuộc điều tra một vụ chết bất thường ((cũng) coroner's inquest); ban điều tra một vụ chết bất thường!grand inquest of the nation
-- hạ nghị viện Anh!great (last) inquest
-- (tôn giáo) phán quyết cuối cùng (của Chúa)
+communicate
+	
+*  ngoại động từ
+- truyền; truyền đạt, thông tri
+=to communicate news
++ truyền tin
+=to communicate a disease
++ truyền bệnh
+=to communicate one's enthusiasm to somebody
++ truyền nhiệt tình cho ai
+- (tôn giáo) ban thánh thể (cho ai)
+- chia sẻ
+=to communicate something with somobody
++ chia sẻ cái gì với ai
+*  nội động từ
+- giao thiệp, liên lạc
+=to communicate with somebody on the telephone
++ liên lạc với ai bằng dây nói
+- thông nhau
+=the two rooms communicate with each other
++ hai buồng thông nhau
+- (tôn giáo) chịu lễ ban thánh thể
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--điều tra tử vong
+-đi lại nhiều
+-đưa thoi
+-liên lạc
+-truyền
+-truyền qua
+@Lĩnh vực: toán & tin
+-báo tin
+-giao tiếp
+-truyền thông
+@Lĩnh vực: xây dựng
+-tránh giao thông
+

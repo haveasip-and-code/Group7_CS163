@@ -1,7 +1,8 @@
-mailer	@mailer /'meilə/
-*  danh từ
-- người gửi thư, người chuẩn bị thư gửi đi; máy chuẩn bị thư gửi đi
-@Chuyên ngành kinh tế
--máy chuẩn bị thư gởi đi
--người chuẩn bị thư gởi đi
--người gởi thư
+gunboat
+	
+* danh từ
+- tàu chiến, pháo hạm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-goòng lật
+

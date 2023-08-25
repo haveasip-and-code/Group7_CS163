@@ -1,15 +1,22 @@
-concentrator	
-@concentrator
-- (Tech) bộ tập trung
+viscous
+	
+*  tính từ
+- sền sệt, lầy nhầy, nhớt
+=a viscid ink
++ một thứ mực sền sệt
+- dẻo, dính
+=a viscid substance
++ một chất dính
 @Chuyên ngành kinh tế
--máy cô đặc
--thiết bị bốc hơi
+-dẻo
+-nhớt
+-quánh
+-sền sệt
 @Chuyên ngành kỹ thuật
--bộ tập trung
--bộ tập trung, máy cô đặc
-@Lĩnh vực: toán & tin
--bộ tập kết
+-nhờn
+-nhớt
 @Lĩnh vực: hóa học & vật liệu
--máy cô
-@Lĩnh vực: điện lạnh
--máy tập trung
+-có tính nhớt
+@Lĩnh vực: ô tô
+-sền sệt
+

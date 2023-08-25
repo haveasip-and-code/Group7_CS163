@@ -1,9 +1,6 @@
-bacteriostat	
-@bacteriostat
-* danh từ
-- chất kìm hãm vi khuẩn
-@Chuyên ngành kinh tế
--chất hãm vi khuẩn
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--chất hãm vi khuẩn
+mispronounce
+	
+*  ngoại động từ
+- đọc sai
+- phát âm sai
+

@@ -1,26 +1,9 @@
-cellular	
-@cellular /'seljulə/
-*  tính từ
-- (thuộc) tế bào
-- cấu tạo bằng tế bào
-- có phòng nhỏ; có ngăn nhỏ
-- có lỗ hổng
-- có ô hình mạng (vải)
-@Chuyên ngành kỹ thuật
--dạng ô
--dạng tổ ong
--khoang
--ngăn
--ô
--ống
--tế bào
--xốp
-@Lĩnh vực: điện tử & viễn thông
--chia ô
-@Lĩnh vực: cơ khí & công trình
--có hốc
--có ngăn
-@Lĩnh vực: toán & tin
--hình trạng tế bào
--theo kiểu ô
--theo kiểu tế bào
+quango
+	
+* danh từ
+- tổ chức bán độc lập ohi chính phủ (tổ chức hành chánh hoạt động độc lập với sự hỗ trợ của nhà nước)
+@Chuyên ngành kinh tế
+-tổ chức gần như độc lập phi chính phủ
+-Tổ chức Nhà Nước Bán Tự Quản
+-tổ chức phi chính phủ bán độc lập
+

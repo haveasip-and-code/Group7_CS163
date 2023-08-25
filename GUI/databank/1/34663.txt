@@ -1,10 +1,8 @@
-mezzanine	@mezzanine /'mezəni:n/
-*  danh từ
-- (kiến trúc) gác lửng
-- tầng dưới sân khấu
-@Chuyên ngành kinh tế
--nhóm trung đẳng
+isohel
+	
+* danh từ
+- đường trên bản đồ nổi những vùng có cùng lượng ánh sáng mặt trời
 @Chuyên ngành kỹ thuật
--gác lửng
-@Lĩnh vực: xây dựng
--entresol
+@Lĩnh vực: cơ khí & công trình
+-đường cùng độ nắng
+

@@ -1,43 +1,12 @@
-second	@second /'sekənd/
-*  tính từ
-- thứ hai, thứ nhì
-=to be the second to come+ là người đến thứ nhì
-=to come in (finish) second+ về thứ hai, chiếm giải nhì
-- phụ, thứ yếu; bổ sung
-=second ballot+ cuộc bỏ phiếu bổ sung
-!to be second to none
-- không thua kém ai
-!to learn something at second hand
-- nghe hơi nồi chõ
-!to play second fiddle
-- (xem) fiddle
-*  danh từ
-- người về nhì (trong cuộc đua)
-=a good second+ người thứ nhì sát nút
-- người thứ hai, vật thứ hai; viên phó
-=second in command+ (quân sự) phó chỉ huy
-- người phụ tá võ sĩ (trong cuộc thử thách đấu gươm); người săn sóc võ sĩ
-- (số nhiều) hàng thứ phẩm (bánh mì, bột...)
-*  danh từ
-- giây (1 thoành 0 phút)
-- giây lát, một chốc, một lúc
-*  ngoại động từ
-- giúp đỡ, phụ lực, ủng hộ
-=will you second me if I ask him?+ nếu tôi hỏi nó thì anh có ủng hộ tôi không?
-- tán thành (một đề nghị)
-=to second a motion+ tán thành một đề nghị
-!to second words with deeds
-- nói là làm ngay
-*  ngoại động từ
-- (quân sự) thuyên chuyển; cho (một sĩ quan) nghỉ để giao công tác mới
-- biệt phái một thời gian
-@Chuyên ngành kỹ thuật
--giây
--giây (thời gian)
--thứ yếu
-@Lĩnh vực: điện
--giây (đơn vị đo thời gian)
-@Lĩnh vực: điện lạnh
--giây (đơn vị thời gian)
-@Lĩnh vực: xây dựng
--thứ nhì
+blacklist
+	
+* danh từ
+- danh sách đen, sổ bìa đen
+* ngoại động từ
+- ghi vào danh sách đen, ghi vào sổ bìa đen
+@Chuyên ngành kinh tế
+-danh sách đen
+-ghi danh sách đen
+-ghi sổ đen (để tránh giao dịch)
+-sổ đen
+

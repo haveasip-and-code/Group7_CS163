@@ -1,6 +1,10 @@
-subscript	@subscript
-- chỉ số dưới
-@Chuyên ngành kỹ thuật
--chỉ số dưới dòng
-@Lĩnh vực: toán & tin
--chỉ số dưới
+milker
+	
+*  danh từ
+- người vắt sữa; máy vắt sữa
+- bò sữa
+@Chuyên ngành kinh tế
+-bò sữa
+-máy vắt sữa
+-người vắt sữa
+

@@ -1,6 +1,7 @@
-spermatogenesis	@spermatogenesis /,spə:mətou'dʤənisis/
-*  danh từ
-- (sinh vật học) sự sinh tinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự tạo tinh trùng
+semilethal
+	
+* tính từ
+- nửa gây chết
+* danh từ
+- gen nửa gây chết
+

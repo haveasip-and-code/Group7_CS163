@@ -1,3 +1,20 @@
-lambert	@lambert
-* danh từ
--  o (vật lý) lambe (đơn vị độ sáng)
+alternating
+	
+*  tính từ
+- xen kẽ, xen nhau; thay phiên nhau, luân phiên nhau
+- (điện học) xoay chiều
+=alternating current
++ dòng điện xoay chiều
+- (kỹ thuật) qua lại
+=alternating motion
++ sự chuyển động qua lại
+@Chuyên ngành kỹ thuật
+-đổi dấu
+-luân phiên
+-xen kẽ
+-xoay chiều
+@Lĩnh vực: y học
+-luân phiên, xen kẽ
+@Lĩnh vực: toán & tin
+-thay phiên
+

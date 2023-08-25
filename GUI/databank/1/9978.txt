@@ -1,6 +1,5 @@
-coater	
-@Chuyên ngành kinh tế
--máy tráng men
--máy tráng vỏ ngoài
-@Chuyên ngành kỹ thuật
--máy hồ giấy
+lysogeny
+	
+@Lĩnh vực: y học
+-hoạt hóa thực khuẩn
+

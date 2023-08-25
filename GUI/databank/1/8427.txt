@@ -1,10 +1,5 @@
-cedar	
-@cedar /'si:də/
-*  danh từ
-- (thực vật học) cây tuyết tùng
-@Chuyên ngành kỹ thuật
--cadrus
--cây tuyết tùng
-@Lĩnh vực: hóa học & vật liệu
--cây bách hương
--gỗ tuyết tùng
+unvoice
+	
+* ngoại động từ
+- làm mất thanh, vô thanh hoá
+

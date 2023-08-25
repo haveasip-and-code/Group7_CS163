@@ -1,5 +1,25 @@
-hexagram	
-@hexagram /'heksəgræm/
+vegetable
+	
+*  tính từ
+- (thực vật học) (thuộc) thực vật
+=vegetable kingdom
++ giới thực vật
+=vegetable physiology
++ sinh lý thực vật
+- (thuộc) rau
+=vegetable soup
++ xúp rau
 *  danh từ
-- ngôi sao sáu cạnh (vẽ bằng hai hình tam giác đều lồng vào nhau)
-- hình sáu đường
+- rau
+=green vegetable
++ rau xanh
+@Chuyên ngành kinh tế
+-rau
+@Chuyên ngành kỹ thuật
+-thực vật
+@Lĩnh vực: thực phẩm
+-rau
+-rau cải
+@Lĩnh vực: y học
+-thuộc thực vật
+

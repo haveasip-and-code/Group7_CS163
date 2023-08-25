@@ -1,5 +1,25 @@
-estovers	
-@estovers /es'touvəz/
-*  danh từ số nhiều
-- (pháp lý) vật dụng cần thiết được luật pháp cho phép để lại (như gỗ cho người ở thuê sửa chữa nhừ cửa hoặc đun nấu)
-- tiền phụ cấp cho người goá chồng; tiền phụ cấp cho người vời ở riêng
+rugged
+	
+*  tính từ
+- gồ ghề, lởm chởm, xù xì
+=rugged ground
++ đất gồ ghề
+=rugged country
++ miền đồi núi lởm chởm
+=rugged bark
++ vỏ cây xù xì
+- thô lỗ, thô kệch, không đều (nét mặt)
+=rugged features
++ nét mặt thô
+- nghiêm khắc, hay gắt, hay quàu quạu
+- vất vả, khó nhọc, gian khổ, gian truân; khổ hạnh
+=rugged life
++ đời sống gian truân
+- trúc trắc, chối tai
+=rugged verses
++ những câu thơ trúc trắc
+- khoẻ mạnh, vạm vỡ
+@Chuyên ngành kỹ thuật
+-cắt nhau
+-giao nhau
+

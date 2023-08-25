@@ -1,7 +1,18 @@
-butane	
-@butane /'bju:ein/
+bollard
+	
 *  danh từ
-- (hoá học) butan
+- (hàng hải) cọc buộc tàu thuyền
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--butan (hóa dầu)
+-cọc buộc tàu thuyền
+-cọc neo
+-cột cáp
+-cột cây số
+-cột mốc
+-cột neo
+@Lĩnh vực: xây dựng
+-cọc neo tàu
+-cột mốc ngăn
+-hàng cọc ngăn thấp
+@Lĩnh vực: giao thông & vận tải
+-cột buộc tàu
+

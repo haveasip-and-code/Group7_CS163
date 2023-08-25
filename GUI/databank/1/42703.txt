@@ -1,4 +1,5 @@
-portly	@portly /'pɔ:tli/
-*  tính từ
-- béo tốt, đẫy đà
-- bệ vệ
+parsing
+	
+*  danh từ
+- sự phân tích ngữ pháp (từ, câu)
+

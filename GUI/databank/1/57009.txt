@@ -1,9 +1,5 @@
-topic	@topic /'tɔpik/
-*  danh từ
-- đề tài, chủ đề
-=the topic of the day+ vấn đề thời sự
-@Chuyên ngành kinh tế
--hệ thống vi tính thông tin về giá cả thị trường
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đề tài
+stumpy
+	
+*  tính từ
+- lùn mập, bè bè
+

@@ -1,2 +1,10 @@
-misentry	@Chuyên ngành kinh tế
--việc vào sổ không đúng
+bricklayer
+	
+*  danh từ
+- thợ nề
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nợ nề
+-thợ đẽo đá
+-thợ lát gạch
+

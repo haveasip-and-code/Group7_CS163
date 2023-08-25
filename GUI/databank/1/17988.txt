@@ -1,27 +1,6 @@
-emitter	
-@emitter
-- (Tech) cực phát; vùng phát; bộ phát xạ
-@Chuyên ngành kỹ thuật
--bộ phát
--nguồn bức xạ
--nguồn phát xạ
--vật bức xạ
-@Lĩnh vực: toán & tin
--cực imitter
-@Lĩnh vực: xây dựng
--cực phát xạ
-@Lĩnh vực: điện lạnh
--emitơ
--vật phát xạ
-@Chuyên ngành kỹ thuật
--bộ phát
--nguồn bức xạ
--nguồn phát xạ
--vật bức xạ
-@Lĩnh vực: toán & tin
--cực imitter
-@Lĩnh vực: xây dựng
--cực phát xạ
-@Lĩnh vực: điện lạnh
--emitơ
--vật phát xạ
+dedans
+	
+*  danh từ (thể dục,thể thao)
+- khán đài bên (trong sân quần vợt)
+- (the dedans) khán giả xem quần vợt
+

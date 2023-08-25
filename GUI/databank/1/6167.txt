@@ -1,4 +1,29 @@
-bohea	
-@bohea
+standby
+	
 * danh từ
-- chè đen của Trung Quốc
+- số nhiều standbys
+- người hoặc vật sẵn sàng làm thứ thay thế hoặc trong trường hợp khẩn cấp
+= aspirin is a good standby for headaches
++atxpirin là thuốc dự phòng rất tốt cho chứng nhức đầu
+* tính từ
+- dự phòng, dự trữ
+= standby equipment
++thiết bị có sẵn để dùng khi cần
+= standby ticket
++vé máy bay rẻ tiền và có sẵn để bán trong trường hợp các hạng vé khác bán không chạy; vé dự phòng
+- on standby
+- (quân sự) sẵn sàng tuân lệnh, trực chiến
+= the troops are on 24
+-hour standby
++quân đội túc trực suốt ngày để sẵn sàng chiến đấu
+@Chuyên ngành kinh tế
+-khách chờ
+@Chuyên ngành kỹ thuật
+-dự phòng
+-dự trữ
+@Lĩnh vực: điện lạnh
+-chạy chờ
+-chờ sẵn
+@Lĩnh vực: điện tử & viễn thông
+-vị trí chờ đợi
+

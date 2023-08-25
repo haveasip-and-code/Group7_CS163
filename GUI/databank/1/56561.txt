@@ -1,28 +1,9 @@
-throughput	@throughput
-* danh từ
-- số lượng vật liệu đưa vào một quá trình (nhất là cho một thời gian được nói rõ)
-@Chuyên ngành kinh tế
--năng lực chế biến nguyên liệu
--năng lực xử lý (của máy tính)
--năng suất
--nhịp độ sản xuất
--sản lượng
--xuất lượng
+scientist
+	
+*  danh từ
+- nhà khoa học; người giỏi về khoa học tự nhiên
+- người theo thuyết khoa học vạn năng
 @Chuyên ngành kỹ thuật
--công suất
--khả năng thông qua
--lưu lượng
--lưu tốc
--năng lượng truyền qua
--năng suất (truyền)
--năng suất thông qua
--năng suất truyền
--sức chứa
--thông lượng
-@Lĩnh vực: điện tử & viễn thông
--lưu lượng (thông tin)
-@Lĩnh vực: hóa học & vật liệu
--mức tiêu thụ
--số lượng vật liệu đưa vào
-@Lĩnh vực: xây dựng
--xuyên liệu
+-nhà bác học
+-nhà khoa học
+

@@ -1,39 +1,80 @@
-display	
-@display /dis'plei/
+reverse
+	
+*  tính từ
+- đảo, nghịch, ngược lại, trái lại
+=in the reverse direction
++ ngược chiều
+=the reverse side
++ mặt trái
+=reverse current
++ dòng nước ngược
 *  danh từ
-- sự bày ra, sự phô bày, sự trưng bày=to make a display of
-+ phô bày, trưng bày
-- sự phô trương, sự khoe khoang
-- sự biểu lộ, sự để lộ ra
-- (ngành in) sự sắp chữ nổi bật
+- (the reverse) điều trái ngược
+=it is quite the reverse
++ hoàn toàn ngược lại
+- bề trái, mặt trái (của đồng tiền, tờ giấy, huân chương...)
+- sự chạy lùi (ô tô)
+=on the reverse
++ đang chạy lùi
+- sự thất bại; vận rủi, vận bĩ
+=to suffer a reverse
++ bị thất bại
+- miếng đánh trái
+- (kỹ thuật) sự đổi chiều
 *  ngoại động từ
-- bày ra, phô bày, trưng bày
-- phô trương, khoe khoang (kiến thức...)
-- biểu lộ ra, để lộ ra, bày tỏ ra (lòng can đảm...)
-- (ngành in) sắp (chữ) nổi bật
+- đảo ngược, lộn ngược, lộn (cái áo) lại
+=to arms
++ mang súng dốc ngược
+- đảo lộn (thứ tự)
+- cho chạy lùi
+=to reverse the engine
++ cho máy chạy lùi
+- thay đổi hoàn toàn (chính sách, lệnh, quyết định, ý kiến...)
+- (pháp lý) huỷ bỏ, thủ tiêu (bản án...)
+*  nội động từ
+- đi ngược chiều
+- xoay tròn ngược chiều (người nhảy điệu vănơ)
+- chạy lùi (ô tô)
+- đổi chiều (máy)
 @Chuyên ngành kinh tế
--bày ra
--chữ cỡ nổi bật
--khoảng gây chú ý
--lôi cuốn
--sự bày (hàng)
--triển lãm (hàng hóa)
--trưng bày
+-bãi bỏ
+-bề lưng
+-bề trái
+-đảo
+-đảo lại
+-đảo ngược
+-ghi sổ ngược lại
+-hủy bỏ
+-làm ngược lại
+-mặt trái
+-nghịch
+-ngược lại
+-sự nghịch lại
+-sự trái ngược
+-thủ tiêu
+-triệt bỏ
+-tương phản
 @Chuyên ngành kỹ thuật
--hiển thị
--hình hiện
--màn hiển thị
--màn hình
--sự biểu hiện
--sự chỉ báo
--sự đọc ra
--sự hiển thị
--sự quảng cáo
--sự trình bày
--trình bày
-@Lĩnh vực: xây dựng
--phô bày
--trưng bày
-@Lĩnh vực: điện lạnh
--sự phơi bày
--thể hiện
+-chạy lùi
+-cơ cấu đảo chiều
+-đảo
+-đảo chiều
+-đảo ngược
+-nghịch
+-nghịch đảo
+-ngược
+-ngược chiều
+-ngược lại
+-mặt sau
+-mặt trái
+@Lĩnh vực: vật lý
+-cấu đảo chiều
+-làm đảo chiều
+@Lĩnh vực: cơ khí & công trình
+-cơ cấu đổi chiều
+@Lĩnh vực: giao thông & vận tải
+-đảo hướng (đoàn tàu)
+-lái lùi lại
+@Lĩnh vực: toán & tin
+-ngược, nghịch đảo
+

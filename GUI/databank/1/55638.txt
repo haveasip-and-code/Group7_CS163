@@ -1,8 +1,9 @@
-tassel	@tassel /'tæsəl/
-*  danh từ
-- quả tua, núm tua (bằng lông, len ở mũ, áo...)
-- dải làm dấu (khi đọc sách)
-- (thực vật học) cờ (cụm hoa đực ở cây ngô)
-*  ngoại động từ
-- trang sức bằng núm tua, kết tua
-- bẻ cờ (ở cây ngô)
+switcher
+	
+* danh từ
+- người chuyển hướng tàu hoả
+@Chuyên ngành kỹ thuật
+-đầu máy lập tàu
+@Lĩnh vực: toán & tin
+-bộ chuyển mạch (để chọn nguồn tín hiệu)
+

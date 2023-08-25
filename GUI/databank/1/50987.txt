@@ -1,23 +1,5 @@
-skill	@skill /skil/
-*  danh từ
-- sự khéo léo, sự khéo tay, sự tinh xảo; kỹ năng, kỹ xảo
-*  nội động từ
-- (từ cổ,nghĩa cổ) đáng kể, thành vấn đề
-=it skills not+ không đáng kể, không thành vấn đề
-@Chuyên ngành kinh tế
--khả năng
--khéo tay
--kĩ năng
--kỹ năng
--kỹ thuật
--sự khéo léo
--sự khéo tay
--tài
-@Chuyên ngành kỹ thuật
--kỹ năng
--kỹ xảo
--lành nghề
--sự khéo tay
--tay nghề
-@Lĩnh vực: xây dựng
--trình độ chuyên môn
+pixyish
+	
+* tính từ
+- thuộc tiên; như tiên
+

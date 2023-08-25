@@ -1,7 +1,6 @@
-glib	
-@glib /glib/
-*  tính từ
-- lém lỉnh, liến thoắng=a glib talker
-+ người nói chuyện liến thoắng
-- trơn láng (bề mặt...)
-- dễ dàng, nhẹ nhàng, thoải mái (động tác)
+fosterling
+	
+*  danh từ
+- con nuôi; đứa bé mình cho bú
+- người mình nâng đ
+

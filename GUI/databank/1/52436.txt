@@ -1,21 +1,5 @@
-spinning	@spinning /'spiniɳ/
-*  danh từ
-- sự xe chỉ
-- sự xoay tròn, sự quay tròn
-@Chuyên ngành kỹ thuật
--sự đúc ly tâm
--sự kéo sợi
--sự quay
--sự quay tròn
--sự quay trượt
--xe dây
-@Lĩnh vực: cơ khí & công trình
--chuyển động con quay
--sản phẩm tiện ép
--sự ép (máy tiện ép)
--sự tán xoay (đầu đinh tán)
--xoay trượt
-@Lĩnh vực: hóa học & vật liệu
--sự chuyển động quay
-@Lĩnh vực: toán & tin
--sự xoay trượt
+madding
+	
+* tính từ
+- như maddening
+

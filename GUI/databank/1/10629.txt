@@ -1,9 +1,9 @@
-comparability	
-@comparability
-- xem comparable
-@Chuyên ngành kinh tế
--tinh có thể so sánh
--tính so sánh
+airfoil
+	
+*  danh từ
+- cánh máy bay
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--tính so sánh được
+@Lĩnh vực: cơ khí & công trình
+-biến dạng cánh
+-cánh (máy bay)
+

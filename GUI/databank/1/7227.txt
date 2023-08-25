@@ -1,8 +1,8 @@
-burnishing	
-@Chuyên ngành kỹ thuật
--đánh bóng
--lăn ép
--mài bóng
--sự đánh bóng
-@Lĩnh vực: cơ khí & công trình
--miết bóng
+stoning
+	
+-sự đổ đá
+-sự mài men sứ
+-sự mài mòn
+@Lĩnh vực: xây dựng
+-đắp đá
+

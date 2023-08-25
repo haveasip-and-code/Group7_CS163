@@ -1,10 +1,7 @@
-anxiety	
-@anxiety /æɳ'zaiəti/
-*  danh từ
-- mối lo, mối lo âu, mối băn khoăn; sự lo lắng=to be in a state of mortal anxiety
-+ lo chết đi được
-- lòng ước ao, lòng khao khát; sự khắc khoải=to have an anxiety for something
-+ ước ao cái gì=to have an anxiety to do something
-+ ước ao làm gì
+rearrange
+	
+*  ngoại động từ
+- sắp xếp lại, bố trí lại, sắp đặt lại
 @Chuyên ngành kỹ thuật
--lo âu, bồn chồn
+-sắp xếp lại
+

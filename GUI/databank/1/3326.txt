@@ -1,12 +1,5 @@
-armoured	
-@armoured /'ɑ:məd/
-*  tính từ
-- bọc sắt=armoured car
-+ xe bọc sắt=armoured train
-+ xe lửa bọc sắt=armoured force
-+ lực lượng thiết giáp!armoured concrete
-- bê tông cốt sắt!armoured cow
-- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) sữa bột
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--được bọc thép
+stateless
+	
+* tính từ
+- không được nước nào nhận là công dân; không có tư cách công dân (người)
+

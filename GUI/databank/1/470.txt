@@ -1,5 +1,20 @@
-acetylation	
+perspective
+	
+*  danh từ
+- luật xa gần; phối cảnh
+- tranh vẽ luật xa gần; hình phối cảnh
+- cảnh trông xa; (nghĩa bóng) viễn cảnh, triển vọng; tương lai, tiến độ
+*  tính từ
+- theo luật xa gần; theo phối cảnh
+=perspective figuers
++ hình phối cảnh
+- trông xa; (thuộc) viễn cảnh, về triển vọng, về tiến độ
 @Chuyên ngành kỹ thuật
--sự axetyl hóa
-@Lĩnh vực: y học
--axetyl hóa
+-hình phối cảnh
+-phép phối cảnh
+-phối cảnh
+-viễn cảnh
+@Lĩnh vực: toán & tin
+-cảnh
+-cảnh, phối cảnh
+

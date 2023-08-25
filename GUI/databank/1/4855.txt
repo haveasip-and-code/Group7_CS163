@@ -1,5 +1,39 @@
-basketwork	
-@basketwork
-* danh từ
-- nghề đan rổ rá
-- rổ rá
+device
+	
+*  danh từ
+- phương sách, phương kế; chước mưu
+- vật sáng chế ra (để dùng vào mục đích gì); thiết bị, dụng cụ, máy móc
+=a control device
++ dụng cụ điều khiển
+=an electronic device
++ dụng cụ điện tử
+- hình vẽ; hình trang trí; hình tương trưng
+- châm ngôn; đề từ
+!to leave someone to his own devices
+- để mặc cho ai tự xoay sở lo liệu lấy
+@Chuyên ngành kinh tế
+-dụng cụ
+-thiết bị
+@Chuyên ngành kỹ thuật
+-cấu
+-cơ cấu
+-đồ án
+-dụng cụ
+-khí cụ
+-linh kiện
+-máy
+-máy móc
+-phụ kiện
+-phụ tùng
+-phương tiện
+-thiết bị
+-trang bị
+@Lĩnh vực: điện lạnh
+-bộ (phận)
+@Lĩnh vực: vật lý
+-khối bộ
+@Lĩnh vực: xây dựng
+-máy bộ phận
+@Lĩnh vực: toán & tin
+-phương sách
+

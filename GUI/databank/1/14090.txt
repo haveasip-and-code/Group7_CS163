@@ -1,30 +1,5 @@
-deflector	
-@deflector /di'flektə/
-*  danh từ
-- (vật lý) bộ làm lệch, cái làm lệch, cực làm lệch=magnetic deflector
-+ cái làm lệch dùng từ trường
-- (kỹ thuật) máy đo từ thiên
-@Chuyên ngành kinh tế
--bộ làm lệch
--chụp quay
--kính phản xạ
--pha đèn
--vòng chắn dầu
-@Chuyên ngành kỹ thuật
--bộ làm lệch
--kính làm lệch
--làm lệch
-@Lĩnh vực: điện tử & viễn thông
--bộ lái tai
-@Lĩnh vực: hóa học & vật liệu
--bộ làm võng
--vật làm lệch
-@Lĩnh vực: xây dựng
--cái gạt xiên
-@Lĩnh vực: cơ khí & công trình
--mũi bắt nước
--tấm dẫn phoi
--vật hướng dòng
--vật lái dòng
-@Lĩnh vực: giao thông & vận tải
--tấm móc tải
+devastative
+	
+* tính từ
+- tàn phá; phá phách; phá hủy
+

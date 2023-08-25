@@ -1,22 +1,5 @@
-steering	@steering
-* danh từ
-- thiết bị lái
-@Chuyên ngành kinh tế
--sự hướng dẫn/căn dặn
-@Chuyên ngành kỹ thuật
--hệ thống lái
--sự bẻ lái xe
--sự điều khiển
--sự lái
--sự lái xe
--sự xoay
-@Lĩnh vực: vật lý
--cấu lái
-@Lĩnh vực: ô tô
--hệ cơ cấu lái
-@Lĩnh vực: xây dựng
--sự dẫn hướng
-@Lĩnh vực: cơ khí & công trình
--sự điều hành (xí nghiệp)
-@Lĩnh vực: điện tử & viễn thông
--sự lái (con tàu vũ trụ)
+rapscallion
+	
+*  danh từ
+- (từ cổ,nghĩa cổ) kẻ bất lương, kẻ đểu giả; kẻ vô dụng
+

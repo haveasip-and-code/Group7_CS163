@@ -1,13 +1,9 @@
-irradiance	
-@irradiance /i'reidjəns/ (irradiancy) /i'reidjənsi/
+shale
+	
 *  danh từ
-- sự sáng chói
-- (vật lý) sự chiếu (bức xạ...), sự rọi
+- (khoáng chất) đá phiền sét
 @Chuyên ngành kỹ thuật
--bức xạ
--độ rọi bức xạ
--độ rọi sáng
--sự bức xạ
--sự chiếu sáng
-@Lĩnh vực: điện lạnh
--độ rọi năng lượng
+-đá phiến
+@Lĩnh vực: xây dựng
+-diệp thạch
+

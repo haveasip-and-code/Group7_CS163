@@ -1,13 +1,11 @@
-planner	@planner /'plænə/
-*  danh từ
-- người đặt kế hoạch
+palatable
+	
+*  tính từ
+- ngon
+- (nghĩa bóng) làm dễ chịu, làm khoan khoái (tinh thần)
+- có thể chấp nhận được
+=a palatable fact
++ một sự việc có thể chấp nhận được
 @Chuyên ngành kinh tế
--người đặt kế hoạch
--nhà quy hoạch
--nhà thiết kế
-@Chuyên ngành kỹ thuật
--người họa đồ
-@Lĩnh vực: toán & tin
--bộ lập kế hoạch
-@Lĩnh vực: đo lường & điều khiển
--người trắc đạc
+-ngon
+

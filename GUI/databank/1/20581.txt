@@ -1,7 +1,9 @@
-faxing	
+quaternion
+	
+*  danh từ
+- bộ bốn
+- tập vở còn có bốn tờ giấy gập đôi
+- (toán học) Quatenion
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự gửi fax
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự gửi fax
+-quatecnion
+

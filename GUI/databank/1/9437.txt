@@ -1,4 +1,13 @@
-circadian	
-@circadian
-* tính từ
-- (sinh lý học) xuất hiện khoảng một lần một ngày
+stores
+	
+-cửa hàng bách hóa
+-cửa hàng tổng hợp
+-đại thương xá
+-đồ cung ứng
+-đồ dự trữ
+-hàng tích trữ
+-nguyên vật liệu
+-vật liệu dự trữ
+@Chuyên ngành kỹ thuật
+-kho tàng
+

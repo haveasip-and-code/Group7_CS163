@@ -1,8 +1,5 @@
-humus	
-@humus /'hju:məs/
-*  danh từ
-- mùn, đất mùn
-@Chuyên ngành kỹ thuật
--đất mùn
--đất thực vật
--mùn
+sidebar
+	
+@Lĩnh vực: toán & tin
+-thanh bên, dải bên
+

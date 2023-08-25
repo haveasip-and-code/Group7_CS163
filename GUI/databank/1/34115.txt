@@ -1,7 +1,5 @@
-mediator	@mediator /'mi:dieitə/
-*  danh từ
-- người điều đình, người dàn xếp
-@Chuyên ngành kinh tế
--người dàn xếp
--người điều giải
--người trung gian hòa giải
+carboxylase
+	
+@Lĩnh vực: y học
+-enzyme carboxylase
+

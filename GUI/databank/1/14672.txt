@@ -1,29 +1,12 @@
-derivative	
-@derivative
-- đạo hàm
-- d. from parametric equation dẫn suất từ các phương trình tham số
-- d. on the left (right) đạo hàm bên trái (bên phải)
-- d. of a group các dẫn suất của một nhóm
-- d. s of higher order đạo hàm cấp cao
-- d. of a vectơ đạo hàm của một vectơ
-- absolute d. đạo hàm tuyệt đối
-- approximate d. gt đạo hàm xấp xỉ
-- areolar d. đạo hàm diện tích
-- backward d. (giải tích) đạo hàm bên phải
-- covariant d. đạo hàm hiệp biến
-- directional d. đạo hàm theo hướng
-- forward d. đạo hàm bên phải
-- fractional d. (giải tích) đạo hàm cấp phân số
-- generalizer d. đạo hàm suy rộng
-- hight d. (giải tích) đạo hàm cấp cao
-- left d. đạo hàm bên trái
-- logarithmic d. (giải tích) đạo hàm lôga
-- maximum directional d. đạo hàm hướng cực đại
-- normal d. đạo hàm pháp tuyến
-- parrmetric d. đạo hàm tham số
-- partial d. đạo hàm riêng
-- particle d. đạo hàm toàn phần
-- right
--hand d. đạo hàm bên phải
-- succes ive d.s các đạo hàm liên tiếp
-- total d. đạo hàm toàn phần
+autodyne
+	
+*  tính từ
+- (vật lý) tự hêtêrôđyn
+*  danh từ
+- (vật lý) máy tự hêtêrôđyn
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-máy tự hêtêrôđin
+@Lĩnh vực: toán & tin
+-tự phách
+

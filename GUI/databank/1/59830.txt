@@ -1,6 +1,18 @@
-uninsured	@uninsured
-* tính từ
-- không có bảo hiểm, không được bảo hiểm
+splinter
+	
+*  danh từ
+- mảnh vụn (gỗ, đá, đạn...)
+*  ngoại động từ
+- làm vỡ ra từng mảnh
+*  nội động từ
+- vỡ ra từng mảnh
 @Chuyên ngành kinh tế
--không có giá trị rõ ràng
--không được bảo hiểm
+-đập vụn
+-nghiền vụn
+-sự đập vụn
+-sự nghiền nhỏ
+@Chuyên ngành kỹ thuật
+-mảnh vụn
+@Lĩnh vực: xây dựng
+-mảnh vỡ (gỗ)
+

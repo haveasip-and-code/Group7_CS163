@@ -1,3 +1,24 @@
-unemployability	@Chuyên ngành kinh tế
--không đủ năng lực làm việc (vì lý do sức khoẻ..)
--sự không thể được thuê mướn
+landmark
+	
+*  danh từ
+- mốc bờ (để dẫn đường cho các thuỷ thủ từ ngoài khơi hướng về đất liền)
+- mốc ranh giới, giới hạn
+- mốc, bước ngoặc
+=the October Revolution is a great landmark in the history of mankind
++ cuộc cách mạng tháng Mười là một bước ngoặc lớn trong lịch sử loài người
+@Chuyên ngành kinh tế
+-dấu hiệu địa phương
+-mốc
+@Chuyên ngành kỹ thuật
+-điểm mốc
+-mốc định hướng
+-mốc ranh giới
+@Lĩnh vực: xây dựng
+-mốc trên bờ
+@Chuyên ngành kỹ thuật
+-điểm mốc
+-mốc định hướng
+-mốc ranh giới
+@Lĩnh vực: xây dựng
+-mốc trên bờ
+

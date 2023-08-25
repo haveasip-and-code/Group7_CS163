@@ -1,6 +1,9 @@
-macroeconomic	@Chuyên ngành kinh tế
--kinh tế tổng thể
--thuộc kinh tế vĩ mô
+glossolalia
+	
+* danh từ
+- việc nói trong lúc xuất thần những lời không thể hiểu được
+- biệt tài về ngôn ngữ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đại kinh tế
+@Lĩnh vực: y học
+-chứng nói ú ớ (nói vô nghĩa bắt chước theo lời nói bình thường) phát ra trong khi ngủ
+

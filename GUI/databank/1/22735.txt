@@ -1,5 +1,9 @@
-gabled	
-@gabled /'geibld/
+coercible
+	
 *  tính từ
-- có đầu hồi; giống hình đầu hồi=a gabled roof
-+ mái có đầu hồi
+- có thể ép buộc
+- có thể chịu ép được (khí, hơi)
+@Chuyên ngành kỹ thuật
+-ép được
+-nén được
+

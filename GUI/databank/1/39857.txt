@@ -1,34 +1,6 @@
-partner	@partner /'pɑ:tnə/
-*  danh từ
-- người cùng chung phần; người cùng canh ty
-- hội viên (của một công ty, một minh ước quốc tế)
-- bạn cùng phe (trong một trò chơi)
-- bạn cùng nhảy (vũ quốc tế)
-- vợ; chồng
-- (số nhiều) khung lỗ (ở sàn tàu để cột buồm và trục lái... đi qua)
-!predominant partner
-- thành viên lớn nhất của nước Anh (tức Inh-len)
-!silent partner
-- hội viên hùn vốn (không có tiếng nói trong công việc quản trị công ty)
-!sleeping partner
-- hội viên hùn vốn kín (không tham gia công việc quản trị công ty và ít người biết đến) ((cũng) secret partner; dormant partner)
-*  ngoại động từ
-- chung phần với, công ty với (ai)
-- cho (ai) nhập hội; kết (ai với ai) thành một phe
-=to partner someone with another+ kết ai với ai thành một phe
-- là người cùng chung phần với (ai); là người cùng canh ty với (ai); là bạn cùng phe với (ai)
-@Chuyên ngành kinh tế
--cổ đông
--hội viên (công ty)
--hội viên (hội buôn)
--người chung phần
--người đối tác
--người hợp tác
--người hùn vốn
--xã viên hợp tác xã
-@Chuyên ngành kỹ thuật
--người cùng phe
-@Lĩnh vực: xây dựng
--bằng hữu
-@Lĩnh vực: điện tử & viễn thông
--phần đồng hành
+ineffable
+	
+*  tính từ
+- không tả được, không nói lên được
+- không thể nói ra được, huý
+

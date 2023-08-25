@@ -1,29 +1,4 @@
-primitive	@primitive /'primitiv/
-*  tính từ
-- nguyên thuỷ, ban sơ
-=primitive man+ người nguyên thuỷ
-=primitive communism+ chủ nghĩa cộng sản nguyên thuỷ
-- thô sơ, cổ xưa
-=primitive weapons+ vũ khí cổ xưa, vũ khí thô sơ
-- gốc (từ, mẫu)
-- (toán học); (địa lý,địa chất) nguyên thuỷ
-=primitive group+ nhóm nguyên thuỷ
-=primitive function+ nguyên hàm
-*  danh từ
-- (nghệ thuật) hoạ sĩ trước thời Phục hưng; tranh của hoạ sĩ trước thời Phục hưng
-- màu gốc
-- (ngôn ngữ học) từ gốc
-@Chuyên ngành kinh tế
--đơn sơ
--nguyên thủy
-@Chuyên ngành kỹ thuật
--ban đầu
--cơ bản
--cổ xưa
--gốc
--nguyên hàm
--nguyên thủy
--thô sơ
-@Lĩnh vực: toán & tin
--hình cơ bản
--hình gốc
+acrostically
+	
+- xem acrostic
+

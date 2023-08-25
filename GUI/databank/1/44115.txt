@@ -1,32 +1,12 @@
-proportion	@proportion /proportion/
+bast
+	
 *  danh từ
-- sự cân xứng, sự cân đối
-=in proportion to+ cân xứng với
-=out of proportion to+ không cân xứng với
-- tỷ lệ
-=the proportion of three to one+ tỷ lệ ba một
-- (toán học) tỷ lệ thức
-- (toán học) quy tắc tam xuất
-- phần
-=a large proportion of the earth's surface+ một phần lớn bề mặt trái đất
-- (số nhiều) kích thước, tầm vóc
-=a building of magnificent proportions+ toà nhà bề thế
-=an athlete of magnificent proportions+ vận động viên tầm vóc lực lưỡng
-*  ngoại động từ
-- làm cân xứng, làm cân đối
-=to proportion one's expenses to one's income+ làm cho số tiền chi tiêu cân đối với số tiền thu nhập
-- chia thành phần
-@Chuyên ngành kinh tế
--phần
--sự cân đối
--tỷ lệ
+- (thực vật học) libe
+- sợi libe, sợi vỏ
 @Chuyên ngành kỹ thuật
--luật tam suất
--luật tam xuất
--sự tỷ lệ
-@Lĩnh vực: toán & tin
--tỉ lệ thức
--tỷ lệ thực
+@Lĩnh vực: hóa học & vật liệu
+-sợi libe
 @Lĩnh vực: xây dựng
--tính tương quan (về kích thước)
--tính tỷ lệ
+-sợi vỏ
+-sợi vỏ cây
+

@@ -1,16 +1,7 @@
-trading	@trading
-* danh từ
-- sự kinh doanh, việc mua bán
-@Chuyên ngành kinh tế
--buôn bán
--doanh nghiệp
--giao dịch
--kinh doanh
--kinh thương
--mậu dịch
--mua bán chứng khoán
--sự mua bán
--thương mại
--tình hình mua bán
--việc buôn bán
--việc kinh doanh
+infantine
+	
+*  tính từ
+- (thuộc) trẻ con
+- còn trứng nước
+- ấu trĩ
+

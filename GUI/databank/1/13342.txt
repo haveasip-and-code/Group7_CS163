@@ -1,4 +1,4 @@
-cypress	
-@cypress /'saipris/
-*  danh từ
-- (thực vật học) cây bách
+detaching
+	
+-sự tháo chốt
+

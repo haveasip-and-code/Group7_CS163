@@ -1,3 +1,31 @@
-swashbuckle	@swashbuckle /'swɔʃ,bʌkl/
-*  nội động từ
-- tỏ vẻ hung hăng, tỏ vẻ du côn du kề
+scan
+	
+*  động từ
+- đọc thử xem có đúng âm luật và nhịp điệu (thơ)
+- ngâm, bình (thơ)
+- đúng nhịp điệu
+=line scans smoothly
++ câu đúng vần
+- nhìn chăm chú; xem xét từng điểm một
+- (từ Mỹ,nghĩa Mỹ) nhìn lướt, đọc lướt
+=to scan a page
++ đọc lướt một trang sách
+- (truyền hình) phân hình (thành từng yếu tố nhỏ) để truyền đi
+- quét (máy rađa)
+@Chuyên ngành kỹ thuật
+-lấy mẫu
+-nhìn
+-quét
+-sự quét
+-tìm
+@Lĩnh vực: toán & tin
+-duyệt qua
+-sự kiểm tra vòng
+-tia quét
+@Lĩnh vực: y học
+-nhấp nháy đồ
+@Lĩnh vực: điện
+-phương pháp quét
+@Lĩnh vực: xây dựng
+-rà quét
+

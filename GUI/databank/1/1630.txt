@@ -1,11 +1,9 @@
-alluvion	
-@alluvion /ə'lu:vjən/
-*  danh từ
-- sự bồi đất (lên bãi biển, bờ sông...)
-- nước lụt
-- bồi tích, đất bồi, phù sa
+unconstrained
+	
+*  tính từ
+- không bị ép buộc, không bị gò bó
 @Chuyên ngành kỹ thuật
--bồi tích
--đất bồi
--phù sa
--sự bồi đất
+-tự do
+@Lĩnh vực: toán & tin
+-không ràng buộc
+

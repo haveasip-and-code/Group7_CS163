@@ -1,13 +1,5 @@
-insulated	
-@insulated
-* tính từ
-- được cách điện
-@Chuyên ngành kỹ thuật
--được cách điện
--được cách ly
--được cách nhiệt
-@Lĩnh vực: hóa học & vật liệu
--cách biệt
--được bảo vệ theo hình thức cách ly
-@Lĩnh vực: xây dựng
--được giữ nhiệt
+tureen
+	
+*  danh từ
+- liễn (đựng xúp)
+

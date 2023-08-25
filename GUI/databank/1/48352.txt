@@ -1,9 +1,28 @@
-sacrarium	@sacrarium
-* danh từ
-- số nhiều sacraria
-- bộ phận thiêng liêng của nhà thờ
-- bể nước thánh
-- (cổ LA mã) nơi thiêng liêng trong điện thờ chứa đựng vật thiêng
+aperture
+	
+*  danh từ
+- lỗ hổng, kẽ hở
+- lỗ ống kính (máy ảnh); độ mở
+=relative aperture
++ độ mở tỷ đối
 @Chuyên ngành kỹ thuật
+-cỡ lỗ
+-độ mở
+-góc mở
+-hốc tường
+-kẽ hở
+-khẩu độ
+-khe hở
+-khoảng cách
+-lỗ
+-lỗ cửa
+-lỗ hổng
+-nhịp (cầu)
+-ô
+-ô cửa
+-rãnh
 @Lĩnh vực: xây dựng
--sacraium (hành lang trước bàn thờ công giáo)
+-hốc, lỗ
+@Lĩnh vực: điện
+-ổ cắm (điện)
+

@@ -1,16 +1,9 @@
-privilege	@privilege /privilege/
-*  danh từ
-- đặc quyền, đặc ân
-*  ngoại động từ
-- cho đặc quyền; ban đặc ân (cho ai)
-- miễn (ai) khỏi chịu (gánh nặng...)
-@Chuyên ngành kinh tế
--đặc quyền mua bán trước
--quyền mua thêm ưu đãi (đối với cổ phiếu công ty)
--quyền mua thêm ưu đãi (đối với cổ phiếu của công ty)
--sự ưu đãi
+defoam
+	
+-khử bọt
+-làm mất bọt
 @Chuyên ngành kỹ thuật
--đặc quyền
--quyền ưu tiên
-@Lĩnh vực: toán & tin
--cho đặc quyền
+@Lĩnh vực: hóa học & vật liệu
+-khử bọt
+-tiêu bọt
+

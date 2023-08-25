@@ -1,4 +1,6 @@
-incenter	
-@incenter
-- tâm vòng tròn hay hình cầu) nội tiếp; giao điểm của ba đường phân
-- giác trong
+tailrace
+	
+-đường thoát
+-đường thoát nước
+-kênh phân phối
+

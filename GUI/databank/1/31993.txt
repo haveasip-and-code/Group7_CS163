@@ -1,6 +1,5 @@
-lettuce	@lettuce /'letis/
-*  danh từ
-- rau diếp
-@Chuyên ngành kinh tế
--rau diếp
--rau salat
+counterman
+	
+* danh từ
+- người bán hàng (ở quầy hàng)
+

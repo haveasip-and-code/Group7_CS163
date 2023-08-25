@@ -1,14 +1,16 @@
-imaginary	
-@imaginary /i'mædʤinəri/
+prevailing
+	
 *  tính từ
-- tưởng tượng, không có thực, ảo=an imaginary disease
-+ bệnh tưởng tượng
-- (toán học) ảo=imaginary number
-+ số ảo
+- đang thịnh hành, đang lưu hành, phổ biến khắp, lan khắp
+=prevailing fashion
++ mốt đang thịnh hành
+@Chuyên ngành kinh tế
+-phổ biến (trong không gian hay thời gian) hiện thời
+-thường thấy
 @Chuyên ngành kỹ thuật
--ảo
--ảo tưởng
--giả tạo
-@Lĩnh vực: xây dựng
--thuộc số ảo
--tưởng tượng
+-có ưu thế
+@Lĩnh vực: cơ khí & công trình
+-sự chiếm ưu thế
+-sự thịnh hành
+-thịnh hành
+

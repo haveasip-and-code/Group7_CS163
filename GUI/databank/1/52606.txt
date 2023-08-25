@@ -1,26 +1,68 @@
-spoon	@spoon /spu:n/
-*  danh từ
-- cái thìa
-- vật hình thìa
-!to be born with a silver spoon in one's mouth
-- sinh trưởng trong một gia đình sung túc; sướng từ trong trứng sướng ra
-!to have a long spoon tha sups with the devil
-- đánh đu với tinh
+speak
+	
+*  nội động từ spoke,  (từ cổ,nghĩa cổ) spake; spoken
+- nói
+=to learn to speak
++ tập nói
+- nói với, nói chuyện, nói lên
+=I will speak to him about it
++ tôi sẽ nói chuyện với anh ta về vấn đề đó
+=actions speak louder than words
++ việc làm nói lên nhiều hơn lời nói
+- phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)
+- sủa (chó)
+- nổ (súng)
+- kêu (nhạc khí)
+- giống như thật, trông giống như thật
+=this portrait speaks
++ bức ảnh giống như thật
 *  ngoại động từ
-- ăn bằng thìa, múc bằng thìa
-=to spoon (up) one's soup+ ăn cháo bằng thìa
-- câu (cá) bằng mồi thìa (x spoon-bait)
-- (thể dục,thể thao) đánh nhẹ (bóng crickê)
-*  nội động từ
-- câu cá bằng mồi thìa
-- (thể dục,thể thao) đánh nhẹ bóng (crickê)
-*  danh từ
-- (từ lóng) anh chàng quỷnh
-- anh nhân tình say như điếu đổ
-=to be spoons on somebody+ phải lòng ai, mê ai như điếu đổ
-*  động từ
-- (thông tục) ve vãn, tán tỉnh
-- vuốt ve hôn hít
-@Chuyên ngành kinh tế
--mồi giả
--thìa
+- nói (một thứ tiếng)
+=he can speak English
++ nó nói được tiếng Anh
+- nói, nói lên
+=to speak the truth
++ nói sự thật
+- nói rõ, chứng tỏ
+=this speaks him generous
++ điều đó chứng tỏ anh ta rộng lượng
+- (hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng rađiô)
+!to speak at
+- ám chỉ (ai)
+!to speak for
+- biện hộ cho (ai)
+- là người phát ngôn (của ai)
+- nói rõ, chứng minh cho
+=that speaks much for your courage
++ điều đó nói rõ lòng can đảm của anh
+!to speak of
+- nói về, đề cập đến; viết đến
+=nothing to speak of
++ chẳng có gì đáng nói
+!to speak out
+- nói to, nói lớn
+- nói thẳng, nói toạc ý kiến của mình
+=to speak out one's mind
++ nghĩ sao nói vậy
+!to speak to
+- nói về (điều gì) (với ai)
+- khẳng định (điều gì)
+=I can speak to his having been there
++ tôi có thể khẳng định là anh ta có đến đó
+!to speak up
+- nói to hơn
+- nói thẳng, nói toạc ý kiến của mình
+!so to speak
+- (xem) so
+!to speak like a book
+- (xem) book
+!to speak someone fair
+- (xem) fair
+!to speak volumes for
+- (xem) volume
+!to speak without book
+- nói không cần sách, nhớ mà nói ra
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nói
+

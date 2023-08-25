@@ -1,16 +1,5 @@
-graduation	
-@graduation /,grædju'eiʃən/
-*  danh từ
-- sự chia độ
-- sự tăng dần dần
-- sự sắp xếp theo mức độ
-- sự cô đặc dần (bằng cách cho bay hơi)
-- sự cấp bằng tốt nghiệp; sự tốt nghiệp; (từ Mỹ,nghĩa Mỹ) lễ trao bằng tốt nghiệp
-@Chuyên ngành kỹ thuật
--chia độ
--sự chia độ
--sự khắc độ
--sự khắc vạch
--sự phân bậc
-@Lĩnh vực: xây dựng
--sự quy định
+vasotomy
+	
+@Lĩnh vực: y học
+-thủ thuật mở ống dẫn tinh
+

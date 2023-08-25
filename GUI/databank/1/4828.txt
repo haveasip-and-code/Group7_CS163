@@ -1,8 +1,38 @@
-basicity	
-@basicity /bei'sisiti/
+executive
+	
+*  tính từ
+- (thuộc) sự thực hiện, (thuộc) sự thi hành; để thực hiện, để thi hành
+- hành pháp
+- (từ Mỹ,nghĩa Mỹ) hành chính
+=an executive position
++ chức vị hành chính
 *  danh từ
-- (hoá học) tính bazơ; độ bazơ
+- quyền hành pháp; tổ chức hành pháp
+- (từ Mỹ,nghĩa Mỹ) uỷ viên ban chấp hành, uỷ viên ban quản trị (hàng kinh doanh, tổ chức...)
+@Chuyên ngành kinh tế
+-cán bộ cấp cao
+-chấp hành
+-cơ quan lãnh đạo
+-giám đốc điều hành
+-ngành hành pháp
+-ngươi điều hành
+-người điều hành
+-người thi hành
+-người thực hiện
+-nhân viên chủ quản
+-quyền hành pháp
+-thẩm cấp chỉ huy
+-tổ chức hành pháp
+-ủy viên ban chấp hành
+-ủy viên ban quản trị (hãng kinh doanh...)
+-viên chức cao cấp
+-viên chức quan cấp
 @Chuyên ngành kỹ thuật
--độ kiềm
-@Lĩnh vực: hóa học & vật liệu
--độ bazơ
+-bộ điều hành
+-bộ giám sát
+-chấp hành
+@Chuyên ngành kỹ thuật
+-bộ điều hành
+-bộ giám sát
+-chấp hành
+

@@ -1,7 +1,17 @@
-stanza	@stanza /'stænzə/
+barrack
+	
 *  danh từ
-- đoạn thơ, khổ thơ
-- Xtăngxơ, thơ tứ tuyệt
+- ((thường) số nhiều) trại lính, doanh trại
+- nơi ở tập trung đông người
+- nhà kho xấu xí
+*  ngoại động từ
+- (quân sự) để ở trong trại, cho ở trong trại
+- (thơ ca) thổi còi, huýt sáo, la ó (chê một đấu thủ)
 @Chuyên ngành kỹ thuật
--buồng
--phòng
+-quán ván
+@Lĩnh vực: xây dựng
+-nhà chung cư
+-nhà gỗ
+-nhà gỗ tạm
+-trại lính
+

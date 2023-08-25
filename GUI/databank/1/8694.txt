@@ -1,9 +1,28 @@
-chamfered	
+exclusion
+	
+*  danh từ
+- sự không cho vào (một nơi nào...), sự không cho hưởng (quyền...)
+- sự ngăn chận
+- sự loại trừ
+- sự đuổi ra, sự tống ra
+!to the exclusion of somebody (songthing)
+- trừ ai (cái gì) ra
+@Chuyên ngành kinh tế
+-loại trừ
 @Chuyên ngành kỹ thuật
--lượn
--vát
--vát cạnh
--vát góc
-@Lĩnh vực: ô tô
--mặt vạt
--vạt cạnh
+-loại trừ
+-sự chặn
+-sự loại bỏ
+-sự loại trừ
+-sự ngăn chặn
+@Lĩnh vực: toán & tin
+-phép loại trừ
+@Chuyên ngành kỹ thuật
+-loại trừ
+-sự chặn
+-sự loại bỏ
+-sự loại trừ
+-sự ngăn chặn
+@Lĩnh vực: toán & tin
+-phép loại trừ
+

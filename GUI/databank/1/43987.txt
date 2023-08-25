@@ -1,13 +1,27 @@
-promenade	@promenade /promenade/
+explosion
+	
 *  danh từ
-- cuộc đi dạo; cuộc đi chơi
-- nơi dạo chơi
-*  nội động từ
-- đi dạo chơi
-=to promenade on the hill+ đi dạo chơi trên đồi
-*  ngoại động từ
-- đi dạo quanh (nơi nào); dẫn (người) đi dạo quanh
+- sự nổ; sự nổ bùng (cơn giận)
+- tiếng nổ
+- (từ Mỹ,nghĩa Mỹ) sự phát triển ồ ạt và nhanh chóng
+=population explosion
++ sự tăng số dân ồ ạt và nhanh chóng
+@Chuyên ngành kinh tế
+-sự nổ
 @Chuyên ngành kỹ thuật
--lối dạo
-@Lĩnh vực: xây dựng
--nơi di dạo
+-bùng nổ
+-nổ
+-phản ứng nổ
+-sự bùng nổ
+-sự nổ
+-tiếng nổ
+-vụ nổ
+@Chuyên ngành kỹ thuật
+-bùng nổ
+-nổ
+-phản ứng nổ
+-sự bùng nổ
+-sự nổ
+-tiếng nổ
+-vụ nổ
+

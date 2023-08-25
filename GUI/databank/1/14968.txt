@@ -1,9 +1,20 @@
-detritus	
-@detritus /di'traitəs/
-*  danh từ (địa lý,địa chất)
-- vật vụn (như cát, sỏi...); mảnh vụn
+scaler
+	
+- danh từ
+- (radio) mạch đếm gộp
+- búa đánh cặn (nồi hơi)
+- máy đánh vảy
+@Chuyên ngành kinh tế
+-bộ phận đánh vảy
+-máy cạo vảy
 @Chuyên ngành kỹ thuật
--đá vụn
--đất đá vụn
-@Lĩnh vực: xây dựng
--debris
+-mạch đếm gộp
+-máy đếm
+-máy đếm gộp
+-máy nạo
+@Lĩnh vực: cơ khí & công trình
+-búa tróc
+-búa tróc cặn
+@Lĩnh vực: toán & tin
+-mạch đến gộp
+

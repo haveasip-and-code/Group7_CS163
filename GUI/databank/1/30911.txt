@@ -1,21 +1,5 @@
-kicker	@kicker /'kikə/
-*  danh từ
-- người đá
-- con ngựa hầu đá
-- tay đá bóng, cầu thủ bóng đá
-- người hay gây chuyện om sòm; người hay cãi lại; người hay càu nhàu
-- (kỹ thuật) thanh đẩy; đầu máy đẩy sau
-@Chuyên ngành kinh tế
--đề bạt lên để tống khứ đi
--nét hấp dẫn
--tác nhân khuyến khích
--tiền hồi khấu
--tiền phần trăm
-@Chuyên ngành kỹ thuật
--cước tử
-@Lĩnh vực: xây dựng
--chân đế
-@Chuyên ngành kỹ thuật
--cước tử
-@Lĩnh vực: xây dựng
--chân đế
+prevocational
+	
+* tính từ
+- để chuẩn bị vào nghề nghiệp (giáo dục)
+

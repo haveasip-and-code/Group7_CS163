@@ -1,22 +1,7 @@
-require	@require /ri'kwaiə/
-*  ngoại động từ
-- đòi hỏi, yêu cầu
-=what do you require of me?+ anh muốn gì tôi?
-- cần đến, cần phải có
-=the matter requires careful consideration+ vấn đề cần phải nghiên cứu kỹ lưỡng
-!if required
-- nếu cần đến
-!when required
-- khi cần đến
-!where required
-- nơi nào cấp
-@Chuyên ngành kinh tế
--cần
--đòi hỏi
--yêu cầu
+redistillation
+	
+-sự chưng cất lại
 @Chuyên ngành kỹ thuật
--cần
--chờ đợi
--đòi hỏi
-@Lĩnh vực: xây dựng
--khẩn cần
+@Lĩnh vực: hóa học & vật liệu
+-sự chưng cất lại
+

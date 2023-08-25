@@ -1,14 +1,5 @@
-outboard	@outboard /'autbɔ:d/
-*  tính từ
-- (hàng hải) ở phía ngoài tàu, về phía ngoài tàu
-- có máy gắn ở ngoài (tàu)
-*  phó từ
-- (hàng hải) ở phía ngoài tàu, về phía ngoài tàu
-*  danh từ
-- thuyền có máy gắn ngoài
-@Chuyên ngành kỹ thuật
--lắp ngoài mạn
-@Lĩnh vực: điện tử & viễn thông
--ngoài bảng mạch
-@Lĩnh vực: ô tô
--xa tâm xe
+alloxan
+	
+@Lĩnh vực: y học
+-một chất dẫn xuất từ pyrimidine
+

@@ -1,20 +1,8 @@
-storing	@storing
-* danh từ
-- sự cất giữ vào kho
-- (tin) sự ghi vào bộ nhớ
-@Chuyên ngành kinh tế
--sự cất giữ vào kho
--sự lưu vào bộ nhớ
+sphygmograph
+	
+*  danh từ
+- (y học) máy ghi mạch
 @Chuyên ngành kỹ thuật
--lưu trữ
--sự dự trữ
--sự lưu trữ
--sự tích đọng
--sự tích lũy
--sự tích trữ
-@Lĩnh vực: toán & tin
--cất giữ
-@Lĩnh vực: hóa học & vật liệu
--sự để dành
-@Lĩnh vực: xây dựng
--sự tích lắng
+@Lĩnh vực: y học
+-mạch ký
+

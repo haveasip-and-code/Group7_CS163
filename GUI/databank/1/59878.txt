@@ -1,11 +1,10 @@
-unitization	@Chuyên ngành kinh tế
--container hóa
--gom thành đơn vị tiêu chuẩn
--sự đơn vị hóa
--sự gom thành đơn vị tiêu chuẩn
-@Chuyên ngành kỹ thuật
--sự hợp nhất
-@Lĩnh vực: hóa học & vật liệu
--sự chất thể hóa
--sự hợp nhất (quyền khai thác mỏ)
--sự thống nhất
+sleepy
+	
+*  tính từ
+- buồn ngủ, ngái ngủ
+- làm buồn ngủ
+- uể oải, kém hoạt động
+=sleepy little town
++ thành phố nhỏ không nhộn nhịp
+- héo nẫu (quả, nhất là quả lê)
+

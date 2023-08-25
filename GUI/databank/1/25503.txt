@@ -1,8 +1,6 @@
-hepatocellular	
-@hepatocellular
-* tính từ
-- thuộc tế bào gan= hepatocellular jaundice
-+bệnh vàng da do gan
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc tế bào gan
+depauperate
+	
+*  ngoại động từ
+- làm nghèo đi, bần cùng hoá
+- làm mất sức, làm suy yếu
+

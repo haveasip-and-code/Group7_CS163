@@ -1,11 +1,9 @@
-blacklist	
-@blacklist
-* danh từ
-- danh sách đen, sổ bìa đen
-* ngoại động từ
-- ghi vào danh sách đen, ghi vào sổ bìa đen
-@Chuyên ngành kinh tế
--danh sách đen
--ghi danh sách đen
--ghi sổ đen (để tránh giao dịch)
--sổ đen
+intension
+	
+*  danh từ
+- độ cao; đọ tăng cường
+- tính mãnh liệt, tính dữ dội
+- sự cố gắng căng thẳng về tinh thần; quyết tâm cao
+@Chuyên ngành kỹ thuật
+-cường độ
+

@@ -1,6 +1,8 @@
-omitted	@omitted
-- bị bỏ qua không lấy
+bicyclic
+	
+*tính từ
+-  được tạo thành bằng hai vòng
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: toán & tin
--bị bỏ qua
--không lấy
+-song xiclic
+

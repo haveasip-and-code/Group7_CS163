@@ -1,14 +1,9 @@
-addressing	
-@addressing
-- (Tech) định địa chỉ, định vị trí (d)
+supergene
+	
+* danh từ
+- (sinh học) gen trội
 @Chuyên ngành kỹ thuật
--định địa chỉ
--sự định địa chỉ
--sự gán địa chỉ
--sự lập địa chỉ
+-biểu sinh
 @Lĩnh vực: xây dựng
--đánh địa chỉ
-@Lĩnh vực: toán & tin
--địa chỉ hóa
--sự ghi địa chỉ
--xác định địa chỉ
+-thứ sinh
+

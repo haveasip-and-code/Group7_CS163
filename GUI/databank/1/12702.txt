@@ -1,15 +1,10 @@
-critical	
-@critical /'kritikəl/
+unremovable
+	
 *  tính từ
-- phê bình, phê phán
-- hay chỉ trích, hay chê bai; có ý kiến chống lại; khó tính, khó chiều
-- nguy cấp, nguy ngập, nguy kịch=to be in a critical condition
-+ ở trong tình trang nguy kịch
-- (vật lý); (toán học) tới hạn=critical point
-+ điểm tới hạn=critical temperature
-+ độ nhiệt tới hạn!critical age
-- (y học) thời kỳ mãn kinh
+- không thể tháo mở được; không thể dời đi được
+- không thể bị cách chức (viên chức)
 @Chuyên ngành kỹ thuật
--có tính quyết định
--giới hạn
--nghiêm trọng
+@Lĩnh vực: toán & tin
+-không bỏ được
+-không tháo được
+

@@ -1,15 +1,22 @@
-mandatory	@mandatory /'mændətəri/
+abnormal
+	
 *  tính từ
-- (thuộc) lệnh
-- (thuộc) sự uỷ nhiệm, (thuộc) sự uỷ thác
+- không bình thường, khác thường; dị thường
 @Chuyên ngành kinh tế
--bắt buộc
--có tính cách cưỡng chế
--người được ủy nhiệm
--người được ủy thác
--người thụ nhiệm
--người thụ ủy
--người ủy quyền
--pháp định
+-bất bình thường
+-không bình thường
 @Chuyên ngành kỹ thuật
--bắt buộc
+-bất thường
+-dị thường
+-khác thường
+-không chuẩn
+-kỳ dị
+@Lĩnh vực: xây dựng
+-bất bình thường
+-bất tự nhiên
+@Lĩnh vực: y học
+-không bình thường, khác thường, dị thường
+@Lĩnh vực: toán & tin
+-không chuẩn tắc
+-không pháp tuyến
+

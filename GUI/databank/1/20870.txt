@@ -1,11 +1,9 @@
-feuilleton	
-@feuilleton /'fə:itʤ:ɳ/
+interloper
+	
 *  danh từ
-- mục tiểu phẩm (ở dưới tờ báo)
-- đoạn tiểu thuyết đăng trên báo
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tiểu phẩm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tiểu phẩm
+- người xâm phạm quyền lợi người khác
+- người dính mũi vào chuyện người khác
+- (sử học) con buôn không có môn bài
+@Chuyên ngành kinh tế
+-người kinh doanh không giấy phép
+

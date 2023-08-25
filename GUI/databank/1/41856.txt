@@ -1,3 +1,6 @@
-planarity	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tính phẳng
+overcapacity
+	
+-năng suất dư thừa
+-sự đôn sức chứa
+-sự tăng khả năng thu nhận
+

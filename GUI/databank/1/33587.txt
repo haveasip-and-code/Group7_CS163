@@ -1,18 +1,12 @@
-manoeuvre	@manoeuvre /mə'nu:və/
-*  danh từ ((từ Mỹ,nghĩa Mỹ) maneuver)
-- (quân sự); (hàng hải) sự vận động
-- (số nhiều) (quân sự) sự thao diễn, sự diễn tập
-- (nghĩa bóng) thủ đoạn
-*  động từ ((từ Mỹ,nghĩa Mỹ) maneuver)
-- (quân sự) thao diễn, diễn tập
-- vận động (quân đội, đội tàu) theo kế hoạch
-- (nghĩa bóng) dùng thủ đoạn, dùng mưu mẹo (để làm một việc gì)
-@Chuyên ngành kỹ thuật
--điều động
--động
--sự vận động
--vận động
-@Lĩnh vực: giao thông & vận tải
--sự điều động
-@Lĩnh vực: vật lý
--sự động
+hen
+	
+*  danh từ
+- gà mái
+- (định ngữ) mái (chim)
+-(đùa cợt) đàn bà
+!like a hen with one chicken
+- tất cả bận rộn, lăng xăng rối rít
+@Chuyên ngành kinh tế
+-chim mái
+-gà mái
+

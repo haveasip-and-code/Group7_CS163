@@ -1,10 +1,5 @@
-acyclic	
-@acyclic
-- (Tech) không tuần hoàn, không có chu kỳ
-@Chuyên ngành kỹ thuật
--không tuần hoàn
-@Lĩnh vực: y học
--không có chu kỳ
--không vòng
-@Lĩnh vực: toán & tin
--phi chu trình
+malformed
+	
+* tính từ
+- xấu xí, dị hình
+

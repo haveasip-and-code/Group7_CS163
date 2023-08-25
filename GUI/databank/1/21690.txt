@@ -1,7 +1,5 @@
-fogging	
-@Chuyên ngành kinh tế
--sự tạo sương mù
-@Chuyên ngành kỹ thuật
--sự tạo màng
-@Lĩnh vực: hóa học & vật liệu
--tạo mù
+overbite
+	
+@Lĩnh vực: y học
+-cắn quá mức
+

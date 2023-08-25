@@ -1,13 +1,11 @@
-stakeholder	@stakeholder /'steik,houldə/
-*  danh từ
-- người giữ tiền đặt cược
-@Chuyên ngành kinh tế
--cổ đông
--người có cổ quyền
--người có dự phần làm ăn
--người có giữ một số cổ phần
--người giữ tiền cọc
--người giữ tiền cược
--người giữ tiền đặt cuộc
--người giữ vật thế chấp
--người hưởng lợi
+lightproof
+	
+-che sáng
+-không thấu ánh sáng
+@Chuyên ngành kỹ thuật
+-không lọt sáng
+-kín ánh sáng
+@Chuyên ngành kỹ thuật
+-không lọt sáng
+-kín ánh sáng
+

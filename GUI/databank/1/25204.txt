@@ -1,10 +1,5 @@
-headrace	
-@headrace /'hedreis/
-*  danh từ
-- sông đào dẫn nước (vào máy xay...)
-@Chuyên ngành kỹ thuật
--đoạn đầu âu
--đường dẫn nước
--ống dẫn nước
-@Lĩnh vực: cơ khí & công trình
--đường dẫm nước
+subparallel
+	
+* tính từ
+- gần như song song
+

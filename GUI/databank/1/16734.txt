@@ -1,10 +1,13 @@
-drawee	
-@drawee /drɔ:'i:/
+taker
+	
 *  danh từ
-- (thương nghiệp) người thanh toán hối phiếu
+- người lấy, người nhận
+- người nhận đánh cuộc
 @Chuyên ngành kinh tế
--người bị ký phát
--người bị ký phát (hối phiếu)
--người nhận hối phiếu
--người trả tiền
--người trả tiền (hối phiếu)
+-người nhận quyền chọn
+-người tiếp nhận
+@Chuyên ngành kỹ thuật
+-người lấy
+@Lĩnh vực: hóa học & vật liệu
+-thiết bị lấy
+

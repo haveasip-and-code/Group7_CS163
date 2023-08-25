@@ -1,19 +1,10 @@
-fruit	
-@fruit /fru:t/
-*  danh từ
-- quả, trái cây
-- thành quả, kết quả
-- (số nhiều) thu hoạch, lợi tức
-- (kinh thánh) con cái=fruit of the womb
-+ con cái
-*  ngoại động từ
-- làm cho ra quả
-@Chuyên ngành kinh tế
--kết quả
--quả
--trái cây
+marshy
+	
+*  tính từ
+- (thuộc) đầm lầy; như đầm lầy; lầy
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--quả
-@Lĩnh vực: xây dựng
--trái cây
+-bùn lầy
+-đầm lầy
+-lầy
+-lầy lội
+

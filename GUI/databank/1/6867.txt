@@ -1,13 +1,5 @@
-broker	
-@broker /'broukə/
-*  danh từ
-- người môi giới, người mối lái buôn bán
-- người bán đồ cũ
-- người được phép bán hàng tịch thu; người định giá hàng tịch thu
-@Chuyên ngành kinh tế
--người môi giới
--người trung gian
-@Chuyên ngành kỹ thuật
--người môi giới
--mạch ngắt
--môi giới
+totipotency
+	
+@Lĩnh vực: y học
+-tính toàn năng
+

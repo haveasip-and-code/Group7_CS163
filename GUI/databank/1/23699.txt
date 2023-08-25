@@ -1,24 +1,8 @@
-glut	
-@glut /glʌt/
-*  danh từ
-- (kỹ thuật) cái chêm bằng gỗ
-- sự ăn uống thừa mứa
-- sự tràn ngập hàng hoá=a glut in the market
-+ sự tràn ngập hàng hoá ở thị trường
-*  ngoại động từ
-- nhồi nhét, cho ăn no nê, cho ăn thừa mứa
-- cung cấp thừa thãi (hàng hoá)
-@Chuyên ngành kinh tế
--cung cấp
--cung cấp quá nhiều
--cung cấp qúa nhiều
--dồi dào
--dư dật
--dự trữ hàng quá mức
--phong phú
--quá mức
--sự thặng dư
--thừa thãi
--tràn ngập hàng trữ
-@Chuyên ngành kỹ thuật
--chêm gỗ
+gallican
+	
+* tính từ
+- thuộc Gô
+-lơ (nước Pháp cổ)
+- tôn giáo cũ xứ Gô
+-lơ
+

@@ -1,10 +1,5 @@
-doubler	
-@doubler /'dʌblə/
-*  danh từ
-- máy nhân đôi=voltage doubler
-+ máy nhân đôi thế hiệu=frequency doubler
-+ máy nhân đôi tần số
-@Chuyên ngành kỹ thuật
--máy nhân đôi
-@Lĩnh vực: toán & tin
--bộ nhân đôi
+discernible
+	
+*  tính từ
+- có thể nhận thức rõ, có thể thấy rõ
+

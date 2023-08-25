@@ -1,13 +1,30 @@
-bootleg	
-@bootleg /'bu:tleg/
-*  danh từ
-- ống giày ống
-- (từ Mỹ,nghĩa Mỹ) rượu lậu
-*  nội động từ
-- (từ Mỹ,nghĩa Mỹ) bán rượu lậu
+throughput
+	
+* danh từ
+- số lượng vật liệu đưa vào một quá trình (nhất là cho một thời gian được nói rõ)
+@Chuyên ngành kinh tế
+-năng lực chế biến nguyên liệu
+-năng lực xử lý (của máy tính)
+-năng suất
+-nhịp độ sản xuất
+-sản lượng
+-xuất lượng
 @Chuyên ngành kỹ thuật
--sự phát trộm
--sự quay trộm
--sự sao chép trộm
-@Lĩnh vực: toán & tin
--sao chép trộm
+-công suất
+-khả năng thông qua
+-lưu lượng
+-lưu tốc
+-năng lượng truyền qua
+-năng suất (truyền)
+-năng suất thông qua
+-năng suất truyền
+-sức chứa
+-thông lượng
+@Lĩnh vực: điện tử & viễn thông
+-lưu lượng (thông tin)
+@Lĩnh vực: hóa học & vật liệu
+-mức tiêu thụ
+-số lượng vật liệu đưa vào
+@Lĩnh vực: xây dựng
+-xuyên liệu
+

@@ -1,7 +1,22 @@
-antifouling	
-@antifouling
-* tính từ
-- chống gỉ; chống bẩn
+pane
+	
+*  danh từ
+- ô cửa kính
+- ô vuông (vải kẻ ô vuông)
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- kẻ ô vuông (vải...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất chống bẩn
+-đầu mũi búa
+-kẻ ô vuông
+-lắp kính
+-mũi búa
+-ốp tấm
+-tấm kính
+-tấm kính cửa sổ
+-tấm vuông
+@Lĩnh vực: xây dựng
+-ô cửa kính
+-ô kính
+@Lĩnh vực: toán & tin
+-ô vuông, cửa sổ
+

@@ -1,7 +1,9 @@
-resynthesis	@resynthesis
-* danh từ
-- sự tổng hợp lại
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự tái tổng hợp
--sự tổng hợp lại
+fasciae
+	
+*  danh từ
+- băng, dải (vải)
+- (y học) băng
+- (kiến trúc) biển nôi, bảng nổi trên tường
+- (giải phẫu) cân
+- (kỹ thuật) bảng đồng hồ (trong xe ô tô) ((cũng) fascia board)
+

@@ -1,7 +1,8 @@
-cutaway	
-@cutaway
-* danh từ
-- bản vẽ mặt trong, sơ đồ mặt trong (không vẽ mặt ngoài, để thấy rõ
+sales
+	
+-doanh số
+-lượng hàng hóa bán được
+-mức tiêu thụ
 @Chuyên ngành kỹ thuật
--cắt đi
--lượng cắt đi
+-doanh số
+

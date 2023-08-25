@@ -1,4 +1,11 @@
-volubly	@volubly
-* phó từ
-- liến thoắng, lém, nói nhiều, ba hoa (người)
-- lưu loát, trơn tru, trôi chảy, nhanh, thanh thoát (một bài nói)
+gradable
+	
+* tính từ, cũng gradeable
+- có thể chia thành độ, cấp bậc để so sánh
+= beauty is gradable
++cái đẹp có thể chia thành cấp độ được
+@Chuyên ngành kỹ thuật
+-phân bậc
+@Lĩnh vực: toán & tin
+-phân bậc được
+

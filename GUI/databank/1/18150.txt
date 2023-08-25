@@ -1,15 +1,11 @@
-encoder	
-@encoder
-- (Tech) bộ biên mã
-@Chuyên ngành kinh tế
--người lập mã (thông tin)
+yellowish
+	
+*  tính từ
+- hơi vàng, vàng vàng
 @Chuyên ngành kỹ thuật
--bộ lập mã
--bộ mã hóa
-@Lĩnh vực: điện tử & viễn thông
--mã hóa viên
-@Chuyên ngành kỹ thuật
--bộ lập mã
--bộ mã hóa
-@Lĩnh vực: điện tử & viễn thông
--mã hóa viên
+@Lĩnh vực: dệt may
+-phơn phớt vàng
+-vàng vàng
+@Lĩnh vực: hóa học & vật liệu
+-vàng nhạt
+

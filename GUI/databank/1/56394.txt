@@ -1,10 +1,10 @@
-thieving	@Chuyên ngành kinh tế
--đánh cắp
--lấy trộm
--sự ăn cắp (vặt)
--sự đánh cắp
--sự lấy trộm
--sự trộm đạo
+signed
+	
+- có dấu
+@Chuyên ngành kinh tế
+-đã ký
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--sự lấy mẫu dầu (ở các mức khác nhau)
+-đã ký
+@Lĩnh vực: toán & tin
+-có dấu
+

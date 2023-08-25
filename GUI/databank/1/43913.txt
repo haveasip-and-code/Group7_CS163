@@ -1,26 +1,7 @@
-programming	@programming
-- chương trình hoá, kế hoạch hoá, quy hoạch
-- automatic p. chương trình hoá tự động
-- computer p. lập chương trình cho máy tính
-- dynamic(al) p. quy hoạch động
-- linear p. quy hoạch tuyến tính
-- pattern recognition p. chương trình hoá việc nhận ra mẫu
-@Chuyên ngành kỹ thuật
--lập trình
--quy hoạch
--sự lập chương trình
--sự lập kế hoạch
--sự lập trình
--sự quy hoạch
-@Lĩnh vực: điện lạnh
--chương trình hóa
-@Lĩnh vực: toán & tin
--kế hoạch hóa
--soạn chương trình
--soạn thảo chương trình
--sự chương trình hóa
-@Lĩnh vực: xây dựng
--sự kế hoạch hóa
--sự lập (chương) trình
-@Lĩnh vực: điện
--việc lập trình
+impearl
+	
+*  ngoại động từ
+- làm thành hạt ngọc trai
+- nạm ngọc trai, trang trí bằng ngọc trai
+- làm sáng như ngọc trai
+

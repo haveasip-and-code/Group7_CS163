@@ -1,9 +1,13 @@
-morgue	@morgue /mɔ:g/
-*  danh từ
-- nhà xác
-- phòng tư liệu (của một toà báo...); tư liệu
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--nhà mổ xác
-@Lĩnh vực: xây dựng
--nhà xác
+feverish
+	
+*  tính từ
+- có triệu chứng sốt; hơi sốt
+- gây sốt, làm phát sốt
+=a feverish swamp
++ vùng đồng lầy gây bệnh sốt
+=a feverish climate
++ khí hậu dễ gây sốt
+- có dịch sốt (nơi)
+- xúc động bồn chồn
+- (nghĩa bóng) như phát sốt, sôi nổi
+

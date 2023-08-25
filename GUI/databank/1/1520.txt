@@ -1,8 +1,5 @@
-alkalize	
-@alkalize /'ælkəlaiz/
-*  ngoại động từ
-- (hoá học) kiềm hoá
-@Chuyên ngành kinh tế
--kiềm hóa
-@Chuyên ngành kỹ thuật
--kiềm hóa
+rundlet
+	
+* danh từ
+- đơn vị đo lường chất lỏng cổ bằng 68 lít
+

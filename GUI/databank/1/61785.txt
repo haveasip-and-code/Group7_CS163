@@ -1,9 +1,8 @@
-vigilance	@vigilance /'vidʤiləns/
+molecule
+	
 *  danh từ
-- sự cảnh giác, sự thận trọng, sự cẩn mật
-=to show great vigilance+ tỏ ra cảnh giác cao, tỏ ra rất thận trọng
-=to lack vigilance+ thiếu cảnh giác, thiếu thận trọng
-- (y học) chứng mất ngủ
+- (hoá học) phân t
 @Chuyên ngành kỹ thuật
--sự thận trọng
--sự tỉnh táo
+-phân tử
+-phần tử
+

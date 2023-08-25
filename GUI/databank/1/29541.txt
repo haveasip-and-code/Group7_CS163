@@ -1,9 +1,15 @@
-interviewer	
-@interviewer /,intəvju:ə/
-*  danh từ
-- người gặp riêng (những người đến xin việc làm)
-- người phỏng vấn
-- lỗ nhòm (trong cửa vào)
-@Chuyên ngành kinh tế
--người phỏng vấn
--người tiếp kiến
+encrustation
+	
+-sự đóng cặn
+-sự kết vỏ
+@Chuyên ngành kỹ thuật
+-đóng cặn
+-lớp cạn nồi hơi
+@Lĩnh vực: hóa học & vật liệu
+-bao vỏ cứng
+@Chuyên ngành kỹ thuật
+-đóng cặn
+-lớp cạn nồi hơi
+@Lĩnh vực: hóa học & vật liệu
+-bao vỏ cứng
+

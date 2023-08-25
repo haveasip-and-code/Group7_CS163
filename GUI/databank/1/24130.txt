@@ -1,32 +1,16 @@
-grass	
-@grass /grɑ:s/
-*  danh từ
-- cỏ
-- bâi cỏ, đồng cỏ
-- bãi cỏ, thảm cỏ (ở công viên)=please, keep off the grass; do not walk on the grass
-+ xin đừng đi lên cỏ, xin đừng giẫm lên bãi cỏ
-- (số nhiều) cây thân cỏ
-- (ngành mỏ) mặt đất=to bring ore to grass
-+ đưa quặng lên mặt đất
-- (từ lóng) măng tây
-- (thông tục) mùa xuân=she will be two years old next grass
-+ mùa xuân sang năm nó sẽ lên hai!to be at grass
-- đang gặm cỏ
-- (nghĩa bóng) đang nghỉ ngơi; không có việc!to cut the grass under somebody's feet
-- phỗng tay trên ai, nâng tay trên ai!to go to grass
-- ra đồng ăn cỏ (súc vật)
-- (từ lóng) ngã sóng soài (người)
-- (từ lóng) chết!to go grass!
-- chết quách đi cho rồi!to bear the grass grow
-- rất thính tai!not to let grass under one's feet
-- không để mất thì giờ (khi làm một việc gì)!to send to grass
-- cho (súc vật) ra đồng ăn cỏ
-- (từ lóng) đánh ngã sóng soài
-*  ngoại động từ
-- để cỏ mọc; trồng cỏ
-- đánh ngã sóng soài
-- bắn rơi (chim); kéo (cá) về đất liền; đưa (quặng) lên mặt đất
-- căng (vải...) trên cỏ để phơi
+fractional
+	
+*  tính từ
+- (thuộc) phân số
+- (hoá học) phân đoạn
+=fractional distillation
++ sự cắt phân đoạn
+- (thông tục) rất nhỏ bé, bé li ti
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cỏ citromila grass cây sả
+-bộ phận
+-đoạn
+-một phần
+-phần
+-phân đoạn
+-phân số
+

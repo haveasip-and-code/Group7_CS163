@@ -1,6 +1,4 @@
-thermojunction	@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--mối hàn (cặp) nhiệt điện
--mối hàn đầu nóng (của cặp nhiệt)
-@Lĩnh vực: điện lạnh
--tiếp xúc nhiệt điện
+enameler
+	
+- xem enamel
+

@@ -1,16 +1,7 @@
-grunt	
-@grunt /grʌnt/
-*  danh từ
-- tiếng kêu ủn ỉn
-- tiếng càu nhàu
-- tiếng cằn nhằn
-- tiếng lẩm bẩm
-*  động từ
-- ủn ỉn (lợn...)
-- càu nhàu, cằn nhằn=to grunt [out] an answer
-+ càu nhàu trả lời
-- lẩm bẩm
-@Chuyên ngành kỹ thuật
--vữa phun
-@Lĩnh vực: xây dựng
--vữa tiêm
+diagnostics
+	
+-chẩn đoán
+-quá trình phân tích
+@Lĩnh vực: toán & tin
+-hệ chuẩn đoán
+

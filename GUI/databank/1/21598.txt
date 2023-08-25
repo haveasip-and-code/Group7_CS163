@@ -1,11 +1,6 @@
-flump	
-@flump /flump/
-*  danh từ
-- sự đi huỳnh huỵch
-- sự ngã huỵch; sự đặt huỵch xuống; sự ném bịch xuống
-- tiêng huỵch, tiếng bịch
-*  nội động từ
-- đi huỳnh huỵch
-- ngã huỵch
-*  ngoại động từ
-- đặt huỵch xuống, ném bịch xuống
+scented
+	
+*  tính từ
+- ướp nước hoa, xức nước hoa
+- có mùi thơm
+

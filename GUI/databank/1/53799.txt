@@ -1,10 +1,5 @@
-structural	@structural /'strʌktʃərəl/
-*  tính từ
-- (thuộc) kết cấu, (thuộc) cấu trúc
-- (thuộc) xây dựng, để xây dựng
-=structural mechanics+ cơ học xây dựng
-=structural steel+ thép để xây dựng
-@Chuyên ngành kỹ thuật
--cấu tạo
--kết cấu
--kiến trúc
+bareheaded
+	
+* tính từ, adv
+- để đầu trần
+

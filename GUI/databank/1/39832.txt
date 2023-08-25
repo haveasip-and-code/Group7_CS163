@@ -1,18 +1,12 @@
-particle	@particle /'pɑ:tikl/
+bionics
+	
 *  danh từ
-- chút, tí chút
-=he has not a particle of sense+ nó không có một tí ý thức nào cả
-- (ngôn ngữ học) tiểu từ không biến đổi; tiền tố, hậu tố
-- (vật lý) hạt
+- (sinh vật học) kỹ thuật
 @Chuyên ngành kỹ thuật
--chất điểm
--điều khoản
--hạt
--phần tử
-@Lĩnh vực: toán & tin
--hạt, phần tử
-@Lĩnh vực: cơ khí & công trình
--mảnh nhỏ
--mảnh vụn (kim khí)
-@Lĩnh vực: xây dựng
--thể bị hao
+-kĩ thuật sinh học
+-phỏng sinh học
+@Lĩnh vực: điện tử & viễn thông
+-sinh kỹ thuật
+@Lĩnh vực: y học
+-sinh kỹ thuật bionic
+

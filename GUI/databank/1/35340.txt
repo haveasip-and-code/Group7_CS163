@@ -1,10 +1,26 @@
-modularity	@Chuyên ngành kinh tế
--tính môđun
+filtrate
+	
+*  danh từ
+- phần lọc, phần nước lọc ra
+*  động từ
+- (như) filter
+@Chuyên ngành kinh tế
+-dịch lọc
+-lọc
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--hệ modun
--tính đơn thể
--tính mô đun
--tính modun
+-chất lọc
+-nước lọc
+-phần lọc
+-phần thấm qua
 @Lĩnh vực: xây dựng
--tính có môđun
+-phần thấm
+-sản phẩm lọc
+@Chuyên ngành kỹ thuật
+-chất lọc
+-nước lọc
+-phần lọc
+-phần thấm qua
+@Lĩnh vực: xây dựng
+-phần thấm
+-sản phẩm lọc
+

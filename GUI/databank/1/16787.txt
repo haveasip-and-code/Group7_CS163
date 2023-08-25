@@ -1,5 +1,51 @@
-dressy	
-@dressy /'dresi/
-*  tính từ
-- thích diện; diện sang (người)
-- diện sang trọng (quần áo)
+tally
+	
+*  danh từ
+- sự kiểm điểm (hàng hoá, tên...)
+- nhãn (ghi tên hàng); biển (khắc tên cây ở vường bách thảo...)
+- (pháp lý) bản đối chiếu, vật đối chiếu
+- (thương nghiệp) số tính toán (chục, tá, trăm...)
+- (sử học) thẻ ghi nợ; dấu khắc để ghi nợ
+*  ngoại động từ
+- kiểm (tên, hàng hoá...)
+- gắn nhãn, đeo biển vào
+- (sử học) khắc đấu (để ghi nợ...)
+*  nội động từ
+- kiểm, đếm
+- hợp nhau, phù hợp, ăn khớp với nhau
+=what you say doesn't tally with what he told me
++ điều anh nói không phù hợp với điều nó đã nói với tôi
+@Chuyên ngành kinh tế
+-ăn khớp
+-bản kê bốc dỡ hàng
+-bản sao
+-dán nhãn hiệu
+-danh mục hàng chuyên chở
+-đếm
+-đóng nhãn hiệu
+-kiểm (hàng)
+-kiểm kê hàng
+-nhãn (ghi tên hàng hóa)
+-nhãn ghi tên hàng hóa
+-nhãn hiệu
+-phù hợp
+-phù hợp với
+-tấm thẻ
+-vật chứng
+-vật đối chiếu
+-việc đếm kiểm (khi bốc dỡ hàng)
+-việc kiểm đếm
+@Chuyên ngành kỹ thuật
+-đếm
+-gán
+-nhãn
+-nhãn hiệu
+-số hiệu
+-sự đếm
+-sự kiểm (hàng)
+-sự kiểm tra
+@Lĩnh vực: toán & tin
+-băng kiểm
+-kiếm
+-sự đếm (tổng)
+

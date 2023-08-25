@@ -1,18 +1,4 @@
-nucleus	@nucleus /'nju:kliəs/
-*  danh từ,  số nhiều nuclei
-- tâm, trung tâm ((nghĩa đen) & (nghĩa bóng))
-- (sinh vật học) nhân (tế bào)
-- (thực vật học) hạch (của quả hạch)
-- (vật lý) hạt nhân
-=atomic nucleus+ hạt nhân nguyên t
-@Chuyên ngành kinh tế
--hạch
--nhân
-@Chuyên ngành kỹ thuật
--hạch
--hạt nhân
--nhân
-@Lĩnh vực: vật lý
--nhân (nguyên tử)
-@Lĩnh vực: toán & tin
--nhân hệ thống
+multiplexor
+	
+-bộ dồn kênh
+

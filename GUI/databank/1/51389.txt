@@ -1,7 +1,5 @@
-smithery	@smithery /'smiθəri/
-*  danh từ
-- lò rèn; xưởng rèn
-@Chuyên ngành kỹ thuật
--bễ thợ rèn
--lò rèn
--phân xưởng rèn
+recode
+	
+@Lĩnh vực: toán & tin
+-sự mã hóa lại
+

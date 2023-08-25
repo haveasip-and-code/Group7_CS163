@@ -1,8 +1,33 @@
-professionalism	@professionalism /professionalism/
+cooler
+	
 *  danh từ
-- tính cách nhà nghề
-- sự dùng đấu thủ nhà nghề (trong các môn đấu thể thao)
+- máy ướp lạnh, thùng lạnh
+=a wine cooler
++ máy ướp lạnh rượu vang
+- (thông tục) đồ uống ướp lạnh pha rượu
+- (từ lóng) xà lim
+- (thông tục) vòi tắm
+- (từ Mỹ,nghĩa Mỹ) tủ ướp lạnh
 @Chuyên ngành kinh tế
--chủ nghĩa chuyên nghiệp
--chủ nghĩa chuyên nghiệp (trái với chủ nghĩa nghiệp dư)
--đặc tính, tác phong, tinh thần nghề nghiệp
+-nước giải khát làm lạnh
+-phòng lạnh
+-tủ lạnh
+@Chuyên ngành kỹ thuật
+-bộ làm lạnh
+-bộ làm mát
+-bộ làm nguội
+-bộ lạnh
+-buồng lạnh
+-chất làm lạnh
+-dàn lạnh
+-giàn lạnh
+-hệ thống làm lạnh
+-hệ thống lạnh
+-máy làm lạnh
+-thiết bị làm nguội
+@Lĩnh vực: điện
+-máy làm mát
+@Lĩnh vực: cơ khí & công trình
+-máy ướp lạnh
+-thiết bị (làm) lạnh
+

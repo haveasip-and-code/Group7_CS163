@@ -1,10 +1,5 @@
-extranuclear	
-@extranuclear
-* tính từ
-- ngoài (hạt) nhân
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--ngoài hạt nhân
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--ngoài hạt nhân
+caretaker
+	
+* danh từ
+- người trông nom nhà cửa (khi chủ vắng mặt)
+

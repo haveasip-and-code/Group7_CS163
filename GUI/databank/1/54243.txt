@@ -1,22 +1,27 @@
-substrate	@substrate /'sʌbstreit/
+pause
+	
 *  danh từ
-- (như) substratum
-- (hoá học) chất nền
-@Chuyên ngành kinh tế
--chất gốc
--chất nền
--môi trường dinh dưỡng
+- sự tạm nghỉ, sự tạm ngừng
+- sự ngập ngừng
+=to give pause to
++ làm cho (ai) ngập ngừng
+- sự ngắt giọng (trong khi đang nói, đang đọc); chỗ ngắt giọng, chỗ ngắt
+=the after a short pause, he resumed his speech
++ sau khi ngắt giọng một giây, ông ấy lại tiếp tục bài diễn văn của mình
+- (âm nhạc) dấu dãn nhịp
+*  nội động từ
+- tạm nghỉ, tạm ngừng
+- chờ đợi; ngập ngừng
+- (
++ upon) ngừng lại
+=let us pause upon this phrase
++ chúng ta hãy ngừng lại ở nhóm từ này
 @Chuyên ngành kỹ thuật
--đế
--giá
--lớp nền
--nền
--móng
--tầng dưới
--vật nền
-@Lĩnh vực: điện tử & viễn thông
--chất tác dụng (hóa học)
-@Lĩnh vực: y học
--cơ chất
+-nghỉ
+-ngừng
+-sự tạm ngừng
 @Lĩnh vực: toán & tin
--đế, nền
+-sự tạm dừng
+@Lĩnh vực: y học
+-sự tạm dừng, nghỉ, đình
+

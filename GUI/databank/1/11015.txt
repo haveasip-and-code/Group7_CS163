@@ -1,38 +1,108 @@
-cone	
-@cone /koun/
+sound
+	
+*  tính từ
+- khoẻ mạnh, tráng kiện, lành mạnh
+=a sound body
++ một thân thể tráng kiện
+=a sound mind
++ một trí óc lành mạnh
+- lành lặn, không hỏng, không giập thối
+=sound fruit
++ quả lành lặn (không bị giập thối)
+- đúng đắn, có cơ sở, vững; lôgic, hợp lý
+=a sound doctrine
++ một học thuyết đứng đắn
+=sound argument
++ một lý lẽ có cơ sở
+=sound views
++ quan điểm hợp lý
+- yên giấc, ngon
+=a sound sleep
++ giấc ngủ ngon
+- đến nơi đến chốn, ra trò (trận đòn)
+=a sound flogging
++ một trận đòn ra trò
+- vững chãi; có thể trả nợ được
+=a sound financial situation
++ một hãng buôn vững chãi
+*  phó từ
+- ngon lành (ngủ)
 *  danh từ
-- hình nón; vật hình nón
-- (thực vật học) nón
-- (động vật học) ốc nón
-- (hàng hải) tín hiệu báo bão (hình nón)
-- (số nhiều) bột áo (bột mịn để xoa bột bánh mì đã nhào)
-*  ngoại động từ
-- làm thành hình nón=to be coned
-+ bị đèn pha chiếu chụm vào; bị đèn pha phát hiện (máy bay)
+- âm, âm thanh, tiếng, tiếng động
+=vowel sound
++ âm nguyên âm
+- giọng
+=statement has a cheerful sound in it
++ lời phát biểu có giọng vui vẻ
+- ấn tượng (do âm thanh... gây ra)
 *  nội động từ
-- có hình nón
+- kêu, vang tiếng, kêu vang
+=the trumpets sound
++ tiếng kèn kêu vang
+- nghe như, nghe có vẻ
+=it sounds as if a tap were running
++ nghe như có cái vòi nước đang chảy
+=it sounds very hollow
++ nghe có vẻ trống rỗng quá
+=it sounds all right
++ nghe có vẻ được lắm
+*  ngoại động từ
+- làm cho kêu, thổi, đánh
+=to sound a trumpet
++ thổi kèn
+=to sound a horn
++ thổi tù và
+- gõ để kiểm tra (bánh xe lửa)
+- (y học) gõ để nghe bệnh
+- đọc
+=the "b" in "comb" is not sounded
++ chữ " b" trong từ " comb" không đọc
+- báo, báo hiệu
+=to sound a retreat
++ thổi hiệu lệnh rút lui
+=to sound someone's praises far and wide
++ ca ngợi ai khắp nơi xa gần
+*  danh từ
+- (y học) cái thông
+*  ngoại động từ
+- dò (đáy sông, đáy biển...)
+- (y học) dò bằng ống thông
+- thăm dò (quyển khí...)
+- (nghĩa bóng) thăm dò (tư tưởng, tình cảm...)
+*  nội động từ
+- lặn xuống đáy (cá voi...)
+*  danh từ
+- eo biển
+- bong bóng cá
 @Chuyên ngành kinh tế
--bột áo
--hình nón
--vật hình nón
+-bong bóng (cá)
+-có chất lượng
+-khỏe
+-không hỏng
 @Chuyên ngành kỹ thuật
--côn
--hình côn
--hình nón
--hình nón cụt
--nón
--mặt nón
--mặt vát
--miệng loe
--phễu
-@Lĩnh vực: điện tử & viễn thông
--bầu (ồng tia catốt)
-@Lĩnh vực: cơ khí & công trình
--chi tiết hình côn
--côn ly hợp
-@Lĩnh vực: ô tô
--lõi ống côn
-@Lĩnh vực: dệt may
--ống sợi côn
+-âm
+-âm thanh
+-bóng
+-chất lượng tốt
+-dò
+-đo sâu
+-eo biển
+-gõ thử nóc lò
+-kêu
+-kín
+-nguyên
+-sóng âm
+-thăm dò
+-tiếng
+-vịnh hẹp
+-vững chắc
+@Lĩnh vực: xây dựng
+-dò sâu
+-ống thăm
 @Lĩnh vực: y học
--tế bào nón
+-ống dò
+-thăm dò xoang bằng một ống dò
+@Lĩnh vực: điện lạnh
+-phát ra âm thanh
+-vang
+

@@ -1,11 +1,17 @@
-inflexion	
-@inflexion /in'flekʃn/ (inflection) /in'flekʃn/
+wrecker
+	
 *  danh từ
-- chỗ cong, góc cong
-- (toán học) sự uốn
-- (âm nhạc) sự chuyển điệu
-- (ngôn ngữ học) biến tố
+- người phá hoại, người tàn phá
+- người làm đắm tàu; người cướp bóc đồ đạc trên tàu đắm; người âm mưu gây đắm tàu để cướp đồ đạc; người thu hồi tàu đắm
+- người làm nghề đi phá dỡ nhà
+- (ngành đường sắt) công nhân đội sửa chữa
+- người (tàu) vớt những vật trôi giạt; người (xe) thu dọn những vật đổ nát (sau một tai nạn)
 @Chuyên ngành kỹ thuật
--sự cong
--sự uốn
--sự uốn cong
+-công nhân cứu chữa
+-tàu cứu hộ
+-toa dắt
+-xe dắt
+@Lĩnh vực: giao thông & vận tải
+-tàu trục vớt
+-tàu vớt
+

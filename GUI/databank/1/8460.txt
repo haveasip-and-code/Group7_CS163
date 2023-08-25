@@ -1,18 +1,25 @@
-cellophane	
-@cellophane /'seləfein/
-*  danh từ
-- giấy bóng kính xenlôfan!wrapped in cellophane
-- kiêu căng, ngạo mạn, vênh váo
-@Chuyên ngành kinh tế
--giấy bóng kính
--xenlôfan
--xenloten bao gói
+vary
+	
+*  ngoại động từ
+- làm cho khác nhau, thay đổi, biến đổi
+=to vary the diet
++ thay đổi chế độ ăn uống
+*  nội động từ
+- thay đổi, biến đổi, đổi khác
+=to vary from day to day
++ thay đổi mỗi ngày một khác
+- khác nhau với, khác với
+=this edition varies a little from the first one
++ bản in này khác với bản in lần thứ nhất một chút
+- bất đồng
+=opinions vary on this point
++ ý kiến bất đồng ở điểm này
+- (toán học); (vật lý) biến thiên
+- (âm nhạc) biến tấu
 @Chuyên ngành kỹ thuật
--giấy bóng gói hàng
--giấy bóng kính
--nhựa thông
--màng mỏng dính
--màng trong suốt
--xelophan
-@Lĩnh vực: hóa học & vật liệu
--xenlophan
+-biến đổi
+-biến thiên
+-thay đổi
+@Lĩnh vực: toán & tin
+-biến đổi, biến thiên
+

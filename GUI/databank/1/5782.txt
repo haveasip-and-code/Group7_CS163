@@ -1,11 +1,11 @@
-blackout	
-@blackout
-- (Tech) mất liên lạc; cúp điện
+endogen
+	
+* danh từ
+- (thực vật) thực vật nội trường
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--sự làm tối
--sự mất nguồn điện
--sự mất tín hiệu
--sự tắt nguồn
-@Lĩnh vực: xây dựng
--tắt nguồn
+@Lĩnh vực: hóa học & vật liệu
+-nội sinh
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-nội sinh
+

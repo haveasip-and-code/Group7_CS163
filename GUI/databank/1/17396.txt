@@ -1,3 +1,18 @@
-edibleness	
-@edibleness
-- xem edible
+stimulus
+	
+*  danh từ,  số nhiều stimuli
+- sự kích thích; tác dụng kích khích
+=under the stimulus of hunger
++ do tác dụng kích thích
+- (thực vật học) lông ngứa
+- (tôn giáo) đầu gậy của mục sư
+@Chuyên ngành kinh tế
+-nhân tố kích thích
+-sự kích thích
+-tác nhân kích thích
+-vật kích thích
+@Chuyên ngành kỹ thuật
+-kích thích
+@Lĩnh vực: đo lường & điều khiển
+-tác nhân kích thích
+

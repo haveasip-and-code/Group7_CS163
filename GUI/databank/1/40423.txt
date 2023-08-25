@@ -1,7 +1,11 @@
-pensioner	@pensioner /'penʃənəri/
+eyeshot
+	
 *  danh từ
-- người được hưởng lương hưu
-- người được hưởng trợ cấp
-@Chuyên ngành kinh tế
--người được hưởng lương hưu
--người được hưởng trợ cấp
+- tầm nhìn
+=beyond eyeshot
++ quá tầm nhìn
+=within eyeshot
++ trong tầm nhìn
+=out of eyeshot
++ ngoài tầm nhìn
+

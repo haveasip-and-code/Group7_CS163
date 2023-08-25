@@ -1,9 +1,14 @@
-thermodynamic	@thermodynamic /,θə:moudai'næmik/
-*  tính từ
-- nhiệt động (lực)
+stiffness
+	
+*  danh từ
+- sự cứng đờ, sự cứng nhắc
+- tính kiên quyết; tính bướng bỉnh
+- sự khó khăn (của một kỳ thi...); tính khó trèo (dốc)
+- tính chất đặc, tính chất quánh (bột)
 @Chuyên ngành kỹ thuật
--nhiệt động
-@Lĩnh vực: vật lý
--nhiệt động học
--nhiệt động lực
--nhiệt động lực học
+-độ bền vững
+-độ cứng
+-độ cứng vững
+-độ giòn (cứng nhưng dễ gãy)
+-độ rắn
+

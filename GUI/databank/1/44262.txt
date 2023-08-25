@@ -1,8 +1,12 @@
-proteose	@proteose /proteose/
-*  danh từ
-- (sinh vật học) Proteoza
-@Chuyên ngành kinh tế
--protoeza
+lingual
+	
+*  tính từ
+- (thuộc) lưỡi; phát âm ở lưỡi
+- (thuộc) tiếng nói, (thuộc) ngôn ng
 @Chuyên ngành kỹ thuật
 @Lĩnh vực: y học
--sản phẩm của sự phân hủy protein
+-thuộc lưỡi
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: y học
+-thuộc lưỡi
+

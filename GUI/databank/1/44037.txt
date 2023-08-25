@@ -1,13 +1,15 @@
-pronounce	@pronounce /pronounce/
-*  ngoại động từ
-- tuyên bố
-=to pronounce a patient out of danger+ tuyên bố bệnh nhân thoát khỏi hiểm nghèo
-=to pronounce a death sentence+ tuyên án tử hình
-=to pronounce a curse+ nguyền rủa
-- phát âm, đọc
-=to pronounce a word+ phát âm một từ, đọc một từ
-*  nội động từ
-- tỏ ý, tuyên bố
-=to pronounce on a proposal+ tỏ ý về một đề nghị
-=to pronounce foor (in favour of) a proposal+ tỏ ý ủng hộ một đề nghị
-=to pronounce against a proposal+ tỏ ý chống lại một đề nghị
+planner
+	
+*  danh từ
+- người đặt kế hoạch
+@Chuyên ngành kinh tế
+-người đặt kế hoạch
+-nhà quy hoạch
+-nhà thiết kế
+@Chuyên ngành kỹ thuật
+-người họa đồ
+@Lĩnh vực: toán & tin
+-bộ lập kế hoạch
+@Lĩnh vực: đo lường & điều khiển
+-người trắc đạc
+

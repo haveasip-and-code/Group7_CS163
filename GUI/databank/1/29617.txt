@@ -1,4 +1,8 @@
-intranasal	
+cardioid
+	
+- (Tech) đường hình tim, cacddiôit
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--trong mũi
+-đường hình tim
+@Lĩnh vực: cơ khí & công trình
+-đường cacđioit
+

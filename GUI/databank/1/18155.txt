@@ -1,12 +1,5 @@
-encompass	
-@encompass /in'kʌmpəs/
-*  ngoại động từ
-- vây quanh, bao quanh
-- bao gồm chứa đựng
-- hoàn thiện, hoàn thành
-@Chuyên ngành kỹ thuật
--bao quanh
--vây quanh
-@Chuyên ngành kỹ thuật
--bao quanh
--vây quanh
+hyperacute
+	
+@Lĩnh vực: y học
+-rất thính, rất sâu sắc
+

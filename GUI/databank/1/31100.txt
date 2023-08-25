@@ -1,24 +1,10 @@
-knit	@knit /nit/
-*  động từ knitted,  knit
-- đan (len, sợi...)
-- ((thường) together) nối chặt, gắn chặt, thắt chặt, kết chặt
-=mortar knits bricks together+ vừa kết chặt các hòn gạch lại với nhau
-- ((thường) together) liên kết chặt chẽ, ràng buộc chặt chẽ (trên cơ sở quyền lợi chung, do hôn nhân...)
-- ((thường) động tính từ quá khứ) có cấu trúc vững chắc, có cấu trúc chặt chẽ
-=a closely knit argument+ lý lẽ chặt chẽ
-- cau, nhíu (lông mày), nhăn (trán)
-=to knit one's brows+ cau mày
-!to knit up
-- mạng lại chỗ rách, đan lại chỗ rách (ở bít tất...)
-- kết chặt, thắt chặt mối ràng buộc
-- kết thúc (cuộc tranh luận...)
+receipts
+	
+-khoản thu
+-số thu
+-tiền thu được
 @Chuyên ngành kỹ thuật
--bện
--đan
-@Lĩnh vực: dệt may
--tết
-@Chuyên ngành kỹ thuật
--bện
--đan
-@Lĩnh vực: dệt may
--tết
+-giấy biên nhận
+@Lĩnh vực: hóa học & vật liệu
+-số thu nhập
+

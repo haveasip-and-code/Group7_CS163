@@ -1,19 +1,14 @@
-faulted	
+unconnected
+	
+*  tính từ
+- không có quan hệ, không có liên quan
+- không mạch lạc, rời rạc
+=unconnected ideas
++ những ý kiến rời rạc
 @Chuyên ngành kỹ thuật
--bị hư hỏng
--bị phá hủy
--bị tai nạn
-@Lĩnh vực: hóa học & vật liệu
--bị biến vị
--bị đứt gãy
 @Lĩnh vực: xây dựng
--bị cắt đứt
-@Chuyên ngành kỹ thuật
--bị hư hỏng
--bị phá hủy
--bị tai nạn
-@Lĩnh vực: hóa học & vật liệu
--bị biến vị
--bị đứt gãy
-@Lĩnh vực: xây dựng
--bị cắt đứt
+-không bị giằng
+-không được liên kết
+@Lĩnh vực: toán & tin
+-không liên thông
+

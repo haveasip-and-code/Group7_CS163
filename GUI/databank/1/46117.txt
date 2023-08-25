@@ -1,18 +1,7 @@
-recycling	@Chuyên ngành kinh tế
--sự hoãn trả nợ
--sự khất nợ
--sự quay lại của đồng vốn
--tái sinh
-@Chuyên ngành kỹ thuật
--sự luân chuyển
--sự quay vòng
--sự sử dụng lại
--sự tái chế
--sự tái chu chuyển
--sự tái sinh
--sự tái tuần hoàn
--sự tuần hoàn kín
--vòng tuần hoàn
-@Lĩnh vực: xây dựng
--sự sử dụng lại (vật liệu)
--sự tuần hoàn lại
+eclectic
+	
+*  tính từ
+- (triết học) chiết trung
+*  danh từ
+- (triết học) người chiết trung
+

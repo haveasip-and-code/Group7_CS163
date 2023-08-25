@@ -1,10 +1,14 @@
-notify	@notify /'noutifai/
-*  ngoại động từ
-- báo, khai báo; thông báo, cho hay, cho biết
-=to notify someone of something+ báo cho ai biết việc gì
-=to notify someone of one's new address+ cho ai biết đại chỉ mới
-@Chuyên ngành kinh tế
--báo cho biết
--thông báo
+kelly
+	
+-cần chủ lực
+@Lĩnh vực: hóa học & vật liệu
+-cần dẫn động
+-cần kelly
+-cần truyền động
 @Chuyên ngành kỹ thuật
--liên lạc
+-cần chủ lực
+@Lĩnh vực: hóa học & vật liệu
+-cần dẫn động
+-cần kelly
+-cần truyền động
+

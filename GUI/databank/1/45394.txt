@@ -1,7 +1,10 @@
-radiomimetic	@radiomimetic
-* tính từ
-- có tác dụng như chiếu xạ
+deepness
+	
+*  danh từ
+- tính chất sâu
+- độ sâu, mức sâu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--chất giống bức xạ
--chất tựa bức xạ
+-độ sâu
+@Lĩnh vực: xây dựng
+-mức sâu
+

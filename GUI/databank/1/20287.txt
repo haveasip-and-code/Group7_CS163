@@ -1,8 +1,27 @@
-faery	
-@faery /'feiəri/ (Faery) /'feiəri/
-*  danh từ
-- cảnh tiên, thiên thai
-- các nàng tiên
+cubic
+	
 *  tính từ
-- tưởng tượng
-- huyền ảo
++ (cubical)
+/'kju:bikəl/
+- có hình khối, có hình lập phương
+- (toán học) bậc ba
+=cubic equation
++ phương trình bậc ba
+*  danh từ
+- (toán học) đường bậc ba, đường cubic
+@Chuyên ngành kỹ thuật
+-bậc ba (toán học)
+-hình khối
+-khối
+-lập phương
+@Lĩnh vực: điện
+-có dạng lập phương
+@Lĩnh vực: xây dựng
+-có hình khối
+-đường bậc ba
+-thuộc khối vuông
+-thuộc lập phương
+@Lĩnh vực: toán & tin
+-hàm bậc ba
+-phương trình bậc ba
+

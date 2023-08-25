@@ -1,9 +1,9 @@
-translating	@translating
-- tịnh tiến, dịch biến đổi
-@Chuyên ngành kỹ thuật
--biến đổi
--chuyển
--dịch
--sự tịnh tiến
-@Lĩnh vực: toán & tin
--hệ thống (dịch, biến đổi)
+tobacconist
+	
+*  danh từ
+- người bán thuốc lá
+- người buôn thuốc lá
+@Chuyên ngành kinh tế
+-người bán thuốc lá (lẻ)
+-người buôn thuốc lá
+

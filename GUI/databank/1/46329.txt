@@ -1,4 +1,7 @@
-reformatting	@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--định dạng lại
--sự tái định dạng
+dopant
+	
+- (Tech) chất kích thích tạp (như phospho, arsenic)
+@Chuyên ngành kỹ thuật
+-chất kích thích
+-tạp chất
+

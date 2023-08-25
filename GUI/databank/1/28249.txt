@@ -1,12 +1,7 @@
-inductive	
-@inductive /in'dʌktiv/
-*  tính từ
-- quy nạp=the inductive method
-+ phương pháp quy nạp
-- (điện học) cảm ứng=inductive current
-+ dòng điện cảm ứng
-@Chuyên ngành kỹ thuật
--cảm điện
--quy nạp
-@Lĩnh vực: toán & tin
--suy luận quy nạp
+galop
+	
+*  danh từ
+- điệu múa tẩu mã
+*  nội động từ
+- điệu múa tẩu mã
+

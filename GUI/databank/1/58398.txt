@@ -1,11 +1,6 @@
-typo	@typo /'taipou/
-*  danh từ
-- (từ lóng) (viết tắt) của typographer
-@Chuyên ngành kinh tế
--lỗi đánh máy
--lỗi sắp chữ
-@Chuyên ngành kỹ thuật
--lỗi in typô
--sự sắp nhầm chữ
-@Lĩnh vực: toán & tin
--lỗi do gõ phím
+overloading
+	
+-sự quá tải
+@Lĩnh vực: cơ khí & công trình
+-sự vượt tải
+

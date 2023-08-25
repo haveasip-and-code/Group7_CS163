@@ -1,17 +1,5 @@
-fiche	
-@fiche
-- (Tech) tấm thẻ
-@Chuyên ngành kỹ thuật
--phiếu
--thẻ
-@Lĩnh vực: toán & tin
--thẻ phim
--vi thẻ
--vi thẻ phim
-@Chuyên ngành kỹ thuật
--phiếu
--thẻ
-@Lĩnh vực: toán & tin
--thẻ phim
--vi thẻ
--vi thẻ phim
+madonna
+	
+*  danh từ
+- tượng Thánh mẫu, tranh Thánh mẫu
+

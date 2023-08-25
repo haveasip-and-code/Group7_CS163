@@ -1,4 +1,7 @@
-grayed	
-@Chuyên ngành kỹ thuật
+nonvolatile
+	
+@Lĩnh vực: điện lạnh
+-không bay hơi
 @Lĩnh vực: toán & tin
--tô xám
+-không biến đổi
+

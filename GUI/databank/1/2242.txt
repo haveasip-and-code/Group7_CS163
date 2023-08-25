@@ -1,15 +1,19 @@
-angular	
-@angular /'æɳgjulə/
+tolerable
+	
 *  tính từ
-- (thuộc) góc=angular frequency
-+ tần số góc=angular point
-+ điểm góc=angular velocity
-+ vận tốc góc
-- có góc, có góc cạnh
-- đặt ở góc
-- gầy nhom, gầy giơ xương (người); xương xương (mặt)
-- không mềm mỏng, cộc lốc; cứng đờ (dáng người)
+- có thể tha thứ được
+=this fault is tolerable
++ lỗi này có thể tha thứ được
+- có thể chịu được
+- kha khá, vừa vừa, tàm tạm
+=at a tolerable distance
++ ở một quãng khá xa
+=a tolerable number of...
++ một số... kha khá...
 @Chuyên ngành kỹ thuật
--góc
-@Lĩnh vực: y học
--có góc
+-được phép
+@Lĩnh vực: toán & tin
+-cho phép được
+@Lĩnh vực: điện lạnh
+-trong dung hạn
+

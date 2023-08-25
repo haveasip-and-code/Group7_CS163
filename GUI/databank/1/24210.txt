@@ -1,5 +1,11 @@
-greater	
-@greater
-- lớn hơn, có ý nghĩa hơn
+hypersonic
+	
+* tính từ
+- (thuộc) tốc độ nhanh hơn 5 lần của âm thanh
+- (thuộc) tần số âm thanh cao hơn 1 ngàn triệu héc
 @Chuyên ngành kỹ thuật
--lớn hơn
+-quá thanh
+-siêu thanh
+@Lĩnh vực: điện lạnh
+-cực siêu thanh
+

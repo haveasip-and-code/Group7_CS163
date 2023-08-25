@@ -1,8 +1,5 @@
-fiend	
-@fiend /fi:nd/
-*  danh từ
-- ma quỷ, quỷ sứ
-- kẻ tàn ác, kẻ hung ác, ác ôn
-- người thích, người nghiện=an opium fiend
-+ người nghiện thuốc phiện
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) người có tài xuất quỷ nhập thần về môn bóng đá
+spriggy
+	
+*  tính từ
+- có nhiều cành con
+

@@ -1,13 +1,13 @@
-wetting	@wetting /'weti /
-*  danh từ
-- sự làm ướt, sự thấm nước, sự dấp nước
-=to get a wetting+ bị ướt sạch
+unidirectional
+	
+* tính từ
+- theo một phương hướng duy nhất
 @Chuyên ngành kỹ thuật
--sự làm ẩm
--sự làm ướt
--sự nhúng nước
--sự thấm ướt
-@Lĩnh vực: cơ khí & công trình
--sự tẩm ướt
-@Lĩnh vực: điện lạnh
--sự ướt tiếp điểm
+-đơn hướng
+-một chiều
+-một hướng
+@Lĩnh vực: toán & tin
+-một chiều, một hướng
+@Lĩnh vực: điện
+-một hướng duy nhất
+

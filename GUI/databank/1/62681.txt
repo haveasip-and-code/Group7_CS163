@@ -1,5 +1,10 @@
-welded	@Chuyên ngành kỹ thuật
--được hàn
--hàn
-@Lĩnh vực: điện
--được hàn chặt
+collimator
+	
+*  danh từ
+- (vật lý) ống chuẩn trực
+@Chuyên ngành kỹ thuật
+-dụng cụ chuẩn trực
+-ống chuẩn trực
+@Lĩnh vực: điện lạnh
+-chuẩn trực
+

@@ -1,4 +1,13 @@
-unspecific	@unspecific
-* tính từ
-- không loại biệt, không riêng biệt
-- không dứt khoát, không rành mạch, không rõ ràng
+importer
+	
+*  danh từ
+- người nhập hàng, người nhập khẩu; hãng nhập hàng, hãng nhập khẩu
+@Chuyên ngành kinh tế
+-người nhập khẩu
+-nhà nhập khẩu nước nhập siêu
+-nước nhập siêu
+@Chuyên ngành kỹ thuật
+-người nhập hàng
+@Lĩnh vực: xây dựng
+-hãng nhập hàng
+

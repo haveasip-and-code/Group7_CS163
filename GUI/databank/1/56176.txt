@@ -1,10 +1,16 @@
-textbook	@textbook /'tekstbuk/
-*  danh từ
-- sách giáo khoa ((như) text)
-@Chuyên ngành kinh tế
--sách giáo khoa
+rotate
+	
+*  động từ
+- quay, xoay quanh
+- luân phiên nhau
+=to rotate the crops
++ trồng luân phiên, luân canh
+*  tính từ
+- (thực vật học) có hình bánh xe
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--sách chữ
+-bị quay
+-quay
+-xoay
 @Lĩnh vực: toán & tin
--sách giáo khoa
+-quay, xoay
+

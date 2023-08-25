@@ -1,14 +1,17 @@
-aliment	
-@aliment /'ælimənt/
-*  danh từ
-- đồ ăn
-- sự cấp dưỡng; sự giúp đỡ về vật chất và tinh thần
+distort
+	
 *  ngoại động từ
-- cho ăn, nuôi dưỡng
-- cấp dưỡng; giúp đỡ về vật chất và tinh thần
-@Chuyên ngành kinh tế
--đồ ăn
--sự cấp dưỡng
+- vặn vẹo, bóp méo, làm méo mó
+- bóp méo, xuyên tạc (sự việc...)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thức ăn
+-bị biến dạng
+-bị xoắn
+-làm biến dạng
+-làm méo
+-làm vênh
+-uốn cong
+-vặn
+-xoắn
+@Lĩnh vực: xây dựng
+-bóp méo
+

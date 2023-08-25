@@ -1,10 +1,11 @@
-antagonist	
-@antagonist /æn'tægənist/
-*  danh từ
-- địch thủ, người đối lập, người phản đối; vật đối kháng
-- (giải phẫu) cơ đối vận
+gravitational
+	
+*  tính từ
+- hút, hấp dẫn
+=gravitational force
++ lực hút, lực hấp dẫn
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cơ đối kháng
--răng đối kháng
--tác nhân đối kháng
+-hấp dẫn
+-lực hấp dẫn
+-trọng lực
+

@@ -1,8 +1,5 @@
-varnished	@varnished
-* tính từ
-- được tô vẽ
-- được đánh vécni, được quét sơn dầu
-@Chuyên ngành kỹ thuật
--được sơn
-@Lĩnh vực: xây dựng
--được đánh vécni
+calypso
+	
+* danh từ
+- bài ca về một đề tài nóng bỏng (thu hút sự quan tâm của nhiều người)
+

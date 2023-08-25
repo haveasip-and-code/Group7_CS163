@@ -1,7 +1,28 @@
-semicolon	@semicolon /'semi'koulən/
+pencil
+	
 *  danh từ
-- dấu chấm phẩy
+- bút chì
+- vật hình bút chì
+- (vật lý); (toán học) hình chùm nhọn, chùm
+=pencil of planes
++ chùm mặt phẳng
+=pencil of straight lines
++ chùm đường thẳng
+- (nghĩa bóng) lối vẽ, nét bút (của một hoạ sĩ)
+- (từ cổ,nghĩa cổ) bút vẽ
+*  ngoại động từ
+- viết bằng bút chì, vẽ bằng bút chì, kẻ bằng bút chì, tô bằng bút chì, ghi bằng bút chì
+- ghi (tên ngựa đua) vào sổ đánh cá
+- (thường),  dạng bị động đánh bóng nhẹ bằng những đường vòng tròn đồng tâm hoặc song song)
 @Chuyên ngành kỹ thuật
--dấu chấm phẩy
+-bút chì
+-chùm tia sáng
 @Lĩnh vực: toán & tin
--dấu chấm phẩy ( ; )
+-bút chì, chùm
+@Lĩnh vực: điện lạnh
+-chùm (hẹp, nhỏ)
+@Lĩnh vực: xây dựng
+-thỏi grafit
+-vẽ bằng bút chì
+-vẽ chì
+

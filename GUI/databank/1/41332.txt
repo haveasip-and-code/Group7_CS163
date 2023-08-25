@@ -1,5 +1,10 @@
-photoresist	@Chuyên ngành kỹ thuật
-@Lĩnh vực: vật lý
--lớp cản quang
-@Lĩnh vực: hóa học & vật liệu
--pôlyme nhạy sáng
+intersecting
+	
+* tính từ
+- cắt nhau, giao nhau
+@Chuyên ngành kỹ thuật
+-giao nhau
+-sự cắt
+-sự gặp nhau
+-sự giao nhau
+

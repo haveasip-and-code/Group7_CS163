@@ -1,8 +1,14 @@
-dreg	
-@dreg /dreg/
+glimmer
+	
 *  danh từ
-- ((thường) số nhiều) cặn=to drink (drain) to the dregs
-+ uống cạn
-- cái bỏ đi
-- tí còn lại, chút xíu còn lại=not a dreg
-+ không còn tí gì
+- tia sáng le lói; ngọn lửa chập chờn; ánh sáng lờ mờ
+=a glimmer of hope
++ tia hy vọng yếu ớt
+- ý niệm mơ hồ, ý nghĩ mơ hồ (về vấn đề gì)
+*  nội động từ
+- le lói; chập chờn (ánh đèn...)
+!to go glimmering
+- tiêu tan (hy vong, kế hoạch...)
+@Chuyên ngành kỹ thuật
+-le lói
+

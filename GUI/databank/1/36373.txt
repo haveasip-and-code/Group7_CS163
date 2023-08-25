@@ -1,5 +1,24 @@
-natron	@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--Na2CO3.10H2O
--Na2O
--natri oxit
+falsework
+	
+*  danh từ
+- (kiến trúc) cốp
+-pha
+@Chuyên ngành kỹ thuật
+-đà giáo
+-giàn giáo
+-gỗ xây dựng
+-ván khuôn
+@Lĩnh vực: xây dựng
+-cốp pha
+-côp
+-pha
+@Chuyên ngành kỹ thuật
+-đà giáo
+-giàn giáo
+-gỗ xây dựng
+-ván khuôn
+@Lĩnh vực: xây dựng
+-cốp pha
+-côp
+-pha
+

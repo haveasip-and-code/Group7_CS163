@@ -1,19 +1,15 @@
-rerun	@rerun
-* ngoại động từ(reran, rerun)+chiếu lại (phim), phát thanh lại (chương trình), mở lại (một cuộn băng)
-- chạy đua lại (một cuộc đua)
-* danh từ
-- phim được chiếu lại, chương trình được phát thanh lại, cuộn băng được mở lại; sự lặp lại
+payable
+	
+*  tính từ
+- có thể trả, phải trả
+=payable to bearer
++ trả cho người cầm giấy
+- có lợi
 @Chuyên ngành kinh tế
--sự chế biến lại
--sự chế biến lần hai
+-có lợi
+-phải thanh toán
+-phải trả
+-sinh lợi
 @Chuyên ngành kỹ thuật
--lặp lại
--sự chạy lại
--sự lặp lại
--sự tái chu chuyển
--sự thực hiện lại
--thực hiện lại
-@Lĩnh vực: hóa học & vật liệu
--sự chưng cất lại
--sự tuần hoàn lại
--tái chưng cất
+-có thể trả được
+

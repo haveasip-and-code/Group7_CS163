@@ -1,2 +1,4 @@
-stringhalt	@stringhalt
-- Cách viết khác : springhalt
+deflator
+	
+- xem deflate
+

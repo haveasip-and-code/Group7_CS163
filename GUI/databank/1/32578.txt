@@ -1,6 +1,7 @@
-lochial	@lochial
+nearside
+	
 * tính từ
-- thuộc máu chảy từ tử cung sau khi sinh
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc sản dịch
+- bên trái; phía tay trái
+= the nearside door/lane of traffic
++cửa/làn xe bên trái
+

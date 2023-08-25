@@ -1,34 +1,7 @@
-fur	
-@fur /fə:/
-*  danh từ
-- bộ lông mao, loài thú
-- bộ da lông thú=a fox fur
-+ bộ da lông cáo
-*  định ngữ
-- bằng da lông thú=a fur coat
-+ cái áo choàng bằng da lông thú
-- (y học) tưa (lưỡi)
-- cấn (nước), cặn, cáu (ở đáy ấm, đáy nồi)!to makw the fur fly
-- làm ầm ỹ, gây rối loạn
-- rất chóng vánh, làm rất nhanh
-*  ngoại động từ
-- lót da lông vào (áo), viền da lông vào (áo)
-- mặc áo lông thú cho (ai)
-- làm tưa (lưỡi)
-- làm (nồi, ấm) đóng cáu
-- cạo cáu ở (nồi, ấm...)
-- ken phẳng (sàn gỗ)
-*  nội động từ
-- tưa (lưỡi)
-- đóng cáu (nồi, ấm)
-@Chuyên ngành kinh tế
--cặn
--cáu
-@Chuyên ngành kỹ thuật
--đứng trát vữa
--len
-@Lĩnh vực: hóa học & vật liệu
--bộ da thú
-@Lĩnh vực: xây dựng
--cặn cáu (nước)
--hệ rui mè
+cullis
+	
+* danh từ
+- (kiến trúc) vữa lòng
+* danh từước hầm thịt
+- máng nước mưa
+

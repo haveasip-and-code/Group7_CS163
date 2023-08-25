@@ -1,6 +1,11 @@
-bauble	
-@bauble /'bɔ:bl/
-*  danh từ
-- đồ trang sức loè loẹt rẻ tiền
-- đồ chơi; đồ không giá trị
-- phù hiệu (của) người hề (ở triều đình)
+rollback
+	
+-đẩy lùi tăng giá
+-sự hạ giá xuống (mức cũ)
+-sự hạ giá xuống mức cũ
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-hủy giao dịch
+@Lĩnh vực: hóa học & vật liệu
+-sự hạ giá (do quyết định của nhà cầm quyền)
+

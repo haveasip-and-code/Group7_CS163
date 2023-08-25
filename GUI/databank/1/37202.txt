@@ -1,12 +1,5 @@
-numbering	@numbering
-* danh từ
-- sự ghi số vào cái gì; sự đánh số
-@Chuyên ngành kinh tế
--sự đánh số
-@Chuyên ngành kỹ thuật
--danh mục
--đánh số
--sự đánh số
--sự đếm
-@Lĩnh vực: toán & tin
--cách đánh số
+gelder
+	
+*  danh từ
+- người thiến (súc vật)
+

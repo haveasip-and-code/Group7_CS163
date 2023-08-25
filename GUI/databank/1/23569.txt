@@ -1,10 +1,5 @@
-glean	
-@glean /gli:n/
-*  ngoại động từ
-- mót=to glean rice
-+ mót lúa
-- (nghĩa bóng) lượm lặt=to glean news
-+ lượm lặt tin tức
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--mót
+trapes
+	
+*  nội động từ
+- dạo chơi, đi vơ vẩn
+

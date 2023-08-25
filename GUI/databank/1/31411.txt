@@ -1,46 +1,12 @@
-lamp	@lamp /læmp/
-*  danh từ
-- đèn
-=electric lamp+ đèn điện
-=oil lamp+ đèn dầu
-=table lamp+ đèn để bàn
-- mặt trời, mặt trăng, sao
-=lamp of Phoebus+ (thơ ca) mặt trời
-=lamp of heaven+ (thơ ca) mặt trăng
-- nguồn ánh sáng (tinh thần...), nguồn hy vọng
-!to pass (band) on the lamp
-- góp phần vào bước tiến (của khoa học, của một sự nghiệp...)
-!to smell of the lamp
-- tỏ ra công phu; phải thức đêm thức hôm để làm
-- nặng nề, không thanh thoát; cầu kỳ (văn)
-*  động từ
-- chiếu sáng, rọi sáng
-- treo đèn, chăng đèn
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn
-@Chuyên ngành kinh tế
--chiếu sáng
--rọi sáng
-@Chuyên ngành kỹ thuật
--bóng đèn
--cái đèn
--đèn
--đèn báo
--đèn điện
--đèn nóng sáng
--đèn tín hiệu
--nguồn sáng
--ống
-@Lĩnh vực: điện lạnh
--đèn (điện)
-@Chuyên ngành kỹ thuật
--bóng đèn
--cái đèn
--đèn
--đèn báo
--đèn điện
--đèn nóng sáng
--đèn tín hiệu
--nguồn sáng
--ống
-@Lĩnh vực: điện lạnh
--đèn (điện)
+confer
+	
+*  ngoại động từ
+- phong, ban
+=to confer a title on somebody
++ phong tước cho ai
+*  nội động từ
+- (
++ with) bàn bạc, hỏi ý kiến, hội ý
+=to confer with somebody
++ bàn bạc với ai, hỏi ý kiến ai
+

@@ -1,5 +1,6 @@
-footwear	
-@footwear
-- Cách viết khác : footgear
-@Chuyên ngành kinh tế
--giày dép
+veneered
+	
+@Lĩnh vực: xây dựng
+-được lát mặt
+-được ốp mặt
+

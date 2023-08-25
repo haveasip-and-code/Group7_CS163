@@ -1,18 +1,5 @@
-pitting	@Chuyên ngành kỹ thuật
--rỗ mòn (kim loại)
--sư ăn mòn điểm
--sự ăn mòn điểm
--sự đào hố
--sự rỗ lỗ chỗ
-@Lĩnh vực: y học
--nốt lõm
-@Lĩnh vực: điện lạnh
--sự ăn mòn lỗ
-@Lĩnh vực: xây dựng
--sự gây rỗ
--sự rỗ
-@Lĩnh vực: ô tô
--sự làm lõm (kim loại)
--sự làm rỗ
-@Lĩnh vực: cơ khí & công trình
--sự rỗ mòn (kim loại)
+disjunct
+	
+* tính từ
+- phân đoạn; đứt đoạn; tách đoạn
+

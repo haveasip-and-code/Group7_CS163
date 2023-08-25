@@ -1,41 +1,5 @@
-quotation	@quotation /kwou'teiʃn/
-*  danh từ
-- sự trích dẫn; đoạn trích dẫn
-- giá thị trường công bố (thị trường chứng khoán)
-- bản dự kê giá
-=a quotation for building a house+ bản dự kê giá xây một ngôi nhà
-- (ngành in) Cađra
-@Chuyên ngành kinh tế
--bản báo giá
--bản dự kê giá
--bản tính giá
--bảng giá thị trường
--bảng thị giá
--bảng yết giá (của sở giao dịch chứng khoán)
--báo giá
--dẫn chứng
--định giá-báo giá
--định thị giá
--định thị giá (ở sở giao dịch chứng khoán)
--giá thị trường được công bố
--giá yết
--sự cho giá
--sự dẫn dụng
--sự yết giá
--thị giá
--thị giá (của sở giao dịch chứng khoán)
--ước giá
--yết giá
-@Chuyên ngành kỹ thuật
--bản chào giá
--định giá
--giá
--khối lượng thi công
--phần trích dẫn
--trích dẫn
-@Lĩnh vực: toán & tin
--câu trích dẫn
-@Lĩnh vực: điện
--giấy báo giá
-@Lĩnh vực: xây dựng
--sự định vật liệu
+mitered
+	
+-nghiêng 45o
+-sự vát 45 độ
+

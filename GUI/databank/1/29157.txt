@@ -1,16 +1,13 @@
-intend	
-@intend /in'tend/
-*  ngoại động từ
-- định, có ý định, có ý muốn
-- định dùng, dành=he intend s his son for the air force
-+ ông ta định cho con vào không quân
-- định nói, ý muốn nói=what do you intend by this word
-+ lời này của anh ý muốn nói gì?
-*  nội động từ
-- có ý định, có mục đích
+stope
+	
+* danh từ
+- (mỏ) bậc chân khay; bậc chưa khấu đều
+- sự khai thác theo bậc
+= cutting stope
++mặt dốc sụt
+* động từ
+- khai thác theo bậc; khấu quặng theo bậc
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--có mục đích
--có ý định
-@Lĩnh vực: xây dựng
--toan tính
+-lò khai thác
+-sự khai đào
+

@@ -1,10 +1,21 @@
-saturant	@saturant
-* danh từ
-- chất làm bão hoà
+program
+	
+*  danh từ
+- chương trình (công tác, biểu diễn văn nghệ...)
+- cương lĩnh (của tổ chức, đảng phái)
+*  ngoại động từ
+- đặt chương trình, lập chương trình
+@Chuyên ngành kinh tế
+-sự lập trình
 @Chuyên ngành kỹ thuật
--bão hòa
--chất
--ít chất tẩm
-@Lĩnh vực: hóa học & vật liệu
--chất để bão hòa
--chất làm bão hòa
+-biểu đồ
+-cương lĩnh
+-dựng chương trình
+-ghi chương trình
+-kế hoạch
+-lập chương trình
+-lập trình
+@Lĩnh vực: toán & tin
+-đặt chương trình
+-viết chương trình
+

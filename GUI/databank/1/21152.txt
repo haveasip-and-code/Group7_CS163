@@ -1,11 +1,4 @@
-firmware	
-@firmware
-- (Tech) kiên liệu, phần dẻo [TN]
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phần sụn
--vi chương trình
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phần sụn
--vi chương trình
+packability
+	
+- xem pack
+

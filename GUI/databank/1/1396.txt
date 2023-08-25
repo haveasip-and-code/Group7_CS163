@@ -1,6 +1,16 @@
-albacore	
-@albacore /'ælbəkɔ:/
+tabulator
+	
 *  danh từ
-- (động vật học) cá ngừ
+- máy chữ đánh bảng, máy chữ đánh cột hàng đọc
 @Chuyên ngành kinh tế
--cá ngừ vằn
+-máy chữ đánh bảng
+-máy lập bảng
+-nút lập bảng (trên máy chữ, máy vi tính)
+-nút nhấn cỡ ngừng (để đánh bảng)
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-bộ lập bảng
+@Lĩnh vực: xây dựng
+-bộ phận dịch (chuyển) pha
+-máy điều pha
+

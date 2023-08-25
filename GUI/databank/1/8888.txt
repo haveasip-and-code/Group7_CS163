@@ -1,24 +1,23 @@
-checker	
-@checker /'tʃekə/
+reamer
+	
 *  danh từ
-- (từ Mỹ,nghĩa Mỹ) người tính tiền, người thu tiền (ở cửa hàng tự phục vụ...)
-*  danh từ & ngoại động từ (như) chequer
+- (kỹ thuật) dao khoét, mũi dao
+- (hàng hải) cái đục để xảm thuyền tàu
 @Chuyên ngành kinh tế
--người đếm hàng
--người kiểm soát
--người kiểm tra
--người thu tiền (ở siêu thị)
--thu ngân viên
+-máy ép nước quả hình côn
 @Chuyên ngành kỹ thuật
--bộ kiểm tra
--dụng cụ kiểm tra
--kẻ carô
--kẻ ô vuông
--người kiểm tra
--máy kiểm tra
--máy thử
--thiết bị
--thiết bị kiểm tra
--thiết bị thử
+-dao doa
+-dao khoét
+-máy doa
+-mũi dao
+-mũi doa
+-mũi doa thủ công
+-mũi khoan
+@Lĩnh vực: ô tô
+-dao xoáy xi lanh
+@Lĩnh vực: toán & tin
+-dụng cụ khoan (giếng)
 @Lĩnh vực: xây dựng
--kiểm soát viên
+-dụng cụ khoan rộng (giếng)
+-dụng cụ nong rộng
+

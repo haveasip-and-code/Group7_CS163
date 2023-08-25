@@ -1,7 +1,12 @@
-predefine	@predefine
-- định nghĩa trước, xác định trước
+compensating
+	
+- (Tech) làm bù trừ
 @Chuyên ngành kỹ thuật
--gắn liền
-@Lĩnh vực: toán & tin
--dựng sẵn
--tiền định
+-bể cân bằng
+-bể điều tiết
+-bù
+-bù trừ
+-sự bù
+@Lĩnh vực: cơ khí & công trình
+-tự lựa
+

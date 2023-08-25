@@ -1,4 +1,15 @@
-allergist	
+inherit
+	
+*  ngoại động từ
+- hưởng, thừa hưởng, thừa kế
+*  nội động từ
+- là người thừa kế
+@Chuyên ngành kinh tế
+-kế thừa
+-thừa kế
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bác sĩ chuyên khoa dị ứng
+-di truyền
+-kế thừa
+@Lĩnh vực: toán & tin
+-kế tục
+

@@ -1,20 +1,28 @@
-cuff	
-@cuff /kʌf/
-*  danh từ
-- cổ tay áo (sơ mi, vét); cổ tay áo giả
-- (từ Mỹ,nghĩa Mỹ) gấu vén lên, gấu lơ
--vê (quần)!on the cuff
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cho vay, cho chịu
-- không mất tiền, không phải trả tiền
-*  danh từ
-- cái tát, cái bạt tai
-- cú đấm, cú thoi, quả thụi!to fall (go) to cuffs
-- dở đấm dở đá với nhau
-*  ngoại động từ
-- tát, bạt tai
-- đấm, thoi, thụi
+obstruction
+	
+*  danh từ ((cũng) obstructive)
+- sự làm tắc nghẽn, sự tắc nghẽn, sự bế tắc
+- sự cản trở, sự gây trở ngại
+- trở lực, điều trở ngại
+- sự phá rối (ở nghị trường bằng cách nói cho hết giờ)
+- (y học) sự tắc (ruột...)
 @Chuyên ngành kỹ thuật
--vòng bít
--vòng găng
-@Lĩnh vực: y học
--băng quấn, dải quấn
+-sự cản trở
+-sự kẹt
+-sự ngăn cản
+-sự nghẽn
+-sự tắc
+-sự tắc nghẽn
+-sự trở ngại
+-trở ngại
+-vật cản
+-vật chướng ngại
+@Lĩnh vực: xây dựng
+-cái nút đường ống
+@Lĩnh vực: cơ khí & công trình
+-sự nghẽn ống
+-sự nghẹt ống
+-sự tắt ống
+@Lĩnh vực: giao thông & vận tải
+-tắc đường
+

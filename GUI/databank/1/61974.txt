@@ -1,6 +1,10 @@
-visitant	@visitant /'vizitənt/
-*  tính từ
-- (thơ ca) đến thăm, thăm viếng
-*  danh từ
-- (thơ ca) người đến thăm, khách
-- (động vật học) chim di trú
+macroinstruction
+	
+* danh từ
+- (tin học) lệnh macro, lệnh gộp
+@Chuyên ngành kỹ thuật
+-lệnh macro
+-lệnh tổng quát
+@Lĩnh vực: toán & tin
+-lệnh gộp
+

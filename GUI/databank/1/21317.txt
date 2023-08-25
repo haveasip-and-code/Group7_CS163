@@ -1,23 +1,9 @@
-flashover	
-@flashover
-* danh từ số nhiều
-- sự bắn tia lửa
-- (điện) sự đánh thủng lớp cách điện
-@Chuyên ngành kỹ thuật
--đánh lửa
--sự đánh lửa
--sự phóng điện
+threaded
+	
+@Lĩnh vực: cơ khí & công trình
+-có ren
+@Lĩnh vực: hóa học & vật liệu
+-được nối bằng ren
 @Lĩnh vực: điện
--phóng điện xuyên
--phóng hồ quang
-@Lĩnh vực: xây dựng
--sự bùng cháy
-@Chuyên ngành kỹ thuật
--đánh lửa
--sự đánh lửa
--sự phóng điện
-@Lĩnh vực: điện
--phóng điện xuyên
--phóng hồ quang
-@Lĩnh vực: xây dựng
--sự bùng cháy
+-được ren gai
+

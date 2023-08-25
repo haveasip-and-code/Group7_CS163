@@ -1,9 +1,5 @@
-bedroom	
-@bedroom /'bedrum/
-*  danh từ
-- buồng ngủ
-@Chuyên ngành kinh tế
--phòng ngủ
-@Chuyên ngành kỹ thuật
--buồng ngủ
--phòng ngủ
+uninvited
+	
+*  tính từ
+- không được mời
+

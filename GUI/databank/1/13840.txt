@@ -1,9 +1,12 @@
-declaim	
-@declaim /di'kleim/
-*  ngoại động từ
-- bình, ngâm (thơ...)
-*  nội động từ
-- nói hùng hồn; diễn thuyết hùng hồn
-- (
-+ against) thoá mạ, lớn tiếng chửi bới=to declaim agianst somebody
-+ thoá mạ ai
+thirteenth
+	
+*  tính từ
+- thứ mười ba
+=the thirteenth place
++ chỗ thứ mười ba
+*  danh từ
+- một phần mười ba
+- người thứ mười ba; vật thứ mười ba; ngày mười ba
+=the thirteenth of June
++ ngày mười ba tháng sáu
+

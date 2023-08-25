@@ -1,36 +1,41 @@
-unit	@unit /'ju:nit/
+reclaim
+	
 *  danh từ
-- một, một cái
-- đơn vị
-=a unit of length+ đơn vị đo chiều dài
-=a unit of weight+ đơn vị trọng lượng
-=a monetary unit+ đơn vị tiền tệ
-=magnetic unit+ đơn vị từ
-=a combat unit+ đơn vị chiến đấu
+- past reclaim; beyond reclaim không thể cải tạo được
+*  ngoại động từ
+- cải tạo, giác ngộ
+=to reclaim someone from a vice
++ cải tạo ai làm cho chừa bỏ một tật xấu
+=to reclaim someone to a sense of duty
++ giác ngộ cho ai có tinh thần trách nhiệm
+- (nông nghiệp) khai hoang, vỡ hoang; cải tạo (đất), làm khô (bâi đất lầy để cày cấy)
+=to reclaim land
++ khai hoang đất
+=reclaimed land
++ đất vỡ hoang
+- thuần hoá (thú rừng); khai hoá, làm cho văn minh
+=to reclaim a wild animal
++ thuần hoá một thú rừng
+- đòi lại
+=to reclaim one's money
++ đòi tiền lại
+*  nội động từ
+- (từ hiếm,nghĩa hiếm) phản đối, khiếu nại
 @Chuyên ngành kinh tế
--đoạn
--đơn vị
--đơn vị đo lường
--hệ thống
--lớp
--ngăn
--thiết bị
+-cải tạo
+-đòi lại
+-khai hoang
+-khai phá
+-thu hồi
 @Chuyên ngành kỹ thuật
--bộ
--bộ phận
--bộ phận máy
--chi tiết
--cơ quan
--cụm
--đơn vị
--đơn vị thiết bị
--dụng cụ
--dụng cụ đo
--hệ thống thiết bị
--khối
--linh kiện
--nhóm
--máy
--tờ
+-cao su tái chế
+-cao su tái sinh
+-hoàn nguyên
+-phục hồi
+-xây dựng lại
 @Lĩnh vực: xây dựng
--công trình riêng lẻ
+-khử (ôxi)
+@Lĩnh vực: hóa học & vật liệu
+-tái sinh (dầu)
+-thu hồi
+

@@ -1,15 +1,31 @@
-reflexion	@reflexion
-* danh từ
-- sự phản chiếu, sự phản xạ, sự dội lại
-- ánh phản chiếu; ánh phản xạ
-- sự suy nghĩ, sự ngẫm nghĩ; <snh> những ý nghĩ
-- sự phản ánh
-- sự nhận xét, sự phê phán
-- sự chỉ trích, sự chê trách, sự khiển trách
-- điều làm xấu lây, điều làm mang tiếng, điều làm mất uy tín
-- câu châm ngôn
+busy
+	
+*  tính từ
+- bận rộn, bận; có lắm việc
+=to be busy with (over) one's work
++ bận rộn với công việc của mình
+- náo nhiệt, đông đúc
+=a busy street
++ phố đông đúc náo nhiệt
+- đang bận, đang có người dùng (dây nói)
+- lăng xăng; hay dính vào việc của người khác
+- hay gây sự bất hoà
+*  ngoại động từ
+- giao việc
+=I have busied him for the whole day
++ tôi đã giao việc cho nó làm cả ngày rồi
+- động từ phãn thân bận rộn với
+=to busy oneself with (about) something
++ bận rộn với cái gì
+=to busy onself doing something
++ bận rộn làm cái gì
+*  danh từ
+- (từ lóng) cớm, mật thám
 @Chuyên ngành kỹ thuật
--phản xạ
--sự đổi dạng
--sự phản chiếu
--sự phản xạ
+-bận
+-đông đúc (đường phố)
+-náo nhiệt
+@Lĩnh vực: toán & tin
+-bận (điện thoại, đường dây)
+-đang sử dụng
+

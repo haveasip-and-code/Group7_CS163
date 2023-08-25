@@ -1,17 +1,12 @@
-putrid	@putrid /'pju:trid/
-*  tính từ
-- thối, thối rữa
-- thối tha, độc hại
-- (nghĩa bóng) đồi bại, sa đoạ
-- (từ lóng) tồi, tồi tệ, hết sức khó chịu
-=putrid weather+ thời tiết hết sức khó chịu
-!putrid fever
-- (y học) bệnh sốt phát ban
-!putrid sore throat
-- (y học) bệnh bạch hầu
-@Chuyên ngành kinh tế
--rữa
--thối
-@Chuyên ngành kỹ thuật
--rữa
--thối
+concreting
+	
+-công tác bê tông
+-đổ bê tông
+-sự đổ bê tông
+-sự đổ bêtông
+-sự đúc bê tông
+@Lĩnh vực: xây dựng
+-công tác đổ bê tông
+-công việc đổ bê tông
+-đúc bê tông
+

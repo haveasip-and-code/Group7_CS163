@@ -1,29 +1,6 @@
-alive	
-@alive /ə'laiv/
-*  tính từ
-- sống, còn sống, đang sống=to burn alive
-+ thiêu sống
-- vẫn còn, còn tồn tại, còn có hiệu lực, còn giá trị=these train tickets are still alive
-+ những vé xe lửa này vẫn còn có giá trị
-- nhan nhản, nhung nhúc, lúc nhúc=river alive with boats
-+ dòng sông nhan nhản những thuyền bè
-- nhanh nhảu, nhanh nhẹn, sinh động, hoạt động=look alive!
-+ nhanh lên!, quàng lên!
-- hiểu rõ, nhận thức được, giác ngộ=more and more people are alive to socialism
-+ ngày càng có nhiều người hiểu rõ chủ nghĩa xã hội=to be alive and kicking
-+ (đùa) còn sống và rất khoẻ mạnh, tràn đầy sức sống=any man alive
-+ bất cứ người nào, bất cứ ai=man alive!
-+ trời ơi! (thán từ diễn tả sự ngạc nhiên, giận dỗi...)=man alive what are you doing?
-+ trời ơi! anh làm cái gì thế?
-@Chuyên ngành kỹ thuật
--có điện
--đang hoạt động
--được cấp điện
--được kích hoạt
--nóng (dây)
--mang điện
--mạng điện
-@Lĩnh vực: cơ khí & công trình
--còn hiệu lực
-@Lĩnh vực: điện lạnh
--còn hoạt động
+dedicator
+	
+*  danh từ
+- người cống hiến
+- người đề tặng (sách...)
+

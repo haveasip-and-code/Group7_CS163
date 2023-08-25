@@ -1,7 +1,7 @@
-multidimensional	@multidimensional
-- nhiều chiều
-@Chuyên ngành kỹ thuật
--nhiều chiều
--nhiều thứ nguyên
-@Lĩnh vực: toán & tin
--đa chiều
+dibasic
+	
+* tính từ
+- hai bazơ
+* danh từ
+- axit hai bazơ
+

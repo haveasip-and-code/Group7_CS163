@@ -1,22 +1,7 @@
-module	@module
-* danh từ
-- đơn vị đo
-- <lý> môđun, suất
-- <kỹ> bộ phận tháo rời được (máy tính điện tử...)
-- đơn nguyên
-@Chuyên ngành kinh tế
--môđun
--mô-đun (đơn vị chuẩn)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--khối chuẩn. Môđun
-@Chuyên ngành kỹ thuật
--buồng
--cấu kiện
--độ
--hệ số
--khối chương trình
--ngăn
--môđun
--mức
--suất
+heroize
+	
+*  ngoại động từ
+- tôn thành anh hùng
+*  nội động từ
+- làm ra vẻ anh hùng; đóng vai anh hùng
+

@@ -1,15 +1,15 @@
-puncher	@puncher /'pʌntʃə/
-*  danh từ
-- người đấm, người thoi, người thụi
-- người giùi; máy giùi
-- người khoan; máy khoan, búa hơi
-- (từ Mỹ,nghĩa Mỹ) người chăn (bò, ngựa...)
+condensable
+	
+*  tính từ
+- có thể hoá đặc (chất lỏng); có thể ngưng lại (hơi); có thể tụ lại (ánh sáng)
+- có thể cô lại (lời, văn...)
+@Chuyên ngành kinh tế
+-có thể cô đặc
+-có thể hóa đặc
+-có thể ngưng tụ
 @Chuyên ngành kỹ thuật
--búa khoan
--đục lỗ
--dùi
--máy đục lỗ
--máy khoan
--mũi đột
+-hơi ngưng tụ
+-ngưng tụ được
 @Lĩnh vực: xây dựng
--dụng cụ chọc thủng
+-tụ được
+

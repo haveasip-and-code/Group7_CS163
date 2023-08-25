@@ -1,26 +1,5 @@
-refusal	@refusal /ri'fju:zəl/
-*  danh từ
-- sự từ chối, sự khước từ, sự cự tuyệt
-=the refusal of an invitation+ sự từ chối lời mời
-=to give a flat refusal+ từ chối thẳng
-=to take no refusal+ cứ dai dẳng (đeo đẳng) nhất định không để cho bị từ chối
-- quyền ưu tiên (chọn trước nhất)
-=to have the refusal of something+ có quyền ưu tiên chọn trước nhất cái gì
-=to give someone the refusal of something+ cho ai quyền ưu tiên được chọn trước nhất giá trị
-@Chuyên ngành kinh tế
--cự tuyệt
--cự tuyệt, từ chối
--quyền tiên mãi
--quyền từ chối
--quyền từ chối, quyền mua trước
--từ chối
-@Chuyên ngành kỹ thuật
--phế thải
--sự chối bỏ (đăng ký phát minh)
--sự hỏng hóc
--sự loại bỏ
--sự từ chối
-@Lĩnh vực: xây dựng
--độ chối
--độ chối của cọc (bật lên trong quá trình đóng cọc)
--sự ngừng chảy
+neuron
+	
+@Lĩnh vực: y học
+-nơron tế bào thần kinh
+

@@ -1,4 +1,21 @@
-baleen	
-@baleen /bə'li:n/
+colouring
+	
 *  danh từ
-- tấm sừng hàm (ở cá voi)
+- màu (mặt, tóc, mắt)
+- thuốc màu, phẩm màu
+- cách dùng màu, cách tô màu
+- bề ngoài, vẻ, sắc thái, màu sắc đặc biệt (văn phong)
+- (sinh vật học) màu bảo vệ
+@Chuyên ngành kinh tế
+-cách dùng màu
+-màu
+-sự nhuộm màu
+@Chuyên ngành kỹ thuật
+-sơn
+-sự nhuộm màu
+-sự tô màu
+@Lĩnh vực: thực phẩm
+-phẩm màu
+@Lĩnh vực: xây dựng
+-sự quét{sơn vôi}
+

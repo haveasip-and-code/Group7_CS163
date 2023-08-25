@@ -1,5 +1,10 @@
-reddening	@reddening
-* danh từ
-- sự đỏ mặt
+assignee
+	
+*  danh từ
+- người được uỷ nhiệm, người được uỷ quyền
+- (pháp lý) (như) assign
+!assignee in bankruptcy
+- (pháp lý) người được giao trách nhiệm quản lý tài sản của người vỡ nợ
 @Chuyên ngành kinh tế
--sự hóa đỏ (khuyết tật cá)
+-người được chuyển hướng
+

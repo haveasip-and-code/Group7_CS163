@@ -1,9 +1,41 @@
-workload	@Chuyên ngành kinh tế
--lượng công tác
--lượng công tác (đảm nhận)
+ripple
+	
+*  danh từ
+- sự gợn sóng lăn tăn (làn tóc, dải ruy băng...)
+- tiếng rì rầm; tiếng róc rách
+=a ripple of conversation
++ tiếng nói chuyện rì rầm
+=the ripple of the brook
++ tiếng róc rách của dòng suối
+*  nội động từ
+- gợn sóng lăn tăn (làn tóc, mặt nước)
+- rì rầm; róc rách
+=soft laughter rippled next door
++ nhà bên có tiếng cười rì rầm khe khẽ
+=the brook is rippling
++ suối róc rách
+*  ngoại động từ
+- làm cho gợn sóng lăn tăn
+- làm cho rì rào khẽ lay động
+=a zephyr ripples the foliage
++ cơn gió thoảng làm lá cây khẽ rì rào lay động
+*  danh từ
+- (nghành dệt) máy chải (sợi lanh để gỡ hết hột)
+*  ngoại động từ
+- chải (lanh) bằng máy chải
 @Chuyên ngành kỹ thuật
--sự nạp công việc
-@Lĩnh vực: điện tử & viễn thông
--âm lượng làm việc
-@Lĩnh vực: toán & tin
--tải làm việc
+-gợn sóng
+-gợn sóng âm
+-hình gợn sóng
+-nếp gấp
+-nếp nhăn
+-sóng gợn
+@Lĩnh vực: cơ khí & công trình
+-chỗ sông nông
+-ghềnh nước
+@Lĩnh vực: điện
+-độ gợn sóng
+-tín hiệu gợn sóng
+@Lĩnh vực: điện lạnh
+-phần gợn (của dòng điện)
+

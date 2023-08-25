@@ -1,16 +1,5 @@
-prisoner	@prisoner /prisoner/
-*  danh từ
-- người bị giam giữ, người tù; con vật bị nhốt
-=political prisoner; state prisoner of state+ tù chính trị
-=to take someone prisoner+ bắt ai bỏ tù; (quân sự) bắt ai làm tù binh
-=prisoner at the bar+ tù phạm bị đem ra xét xử
-=he is a prisoner to his chair+ nó (bị ốm) ngồi liệt trên ghế
-=a fever kept me a prisoner in my bed+ cơn sốt bắt tôi phải nằm liệt giường
-- tù binh ((cũng) prisoner of war)
-!prisoners' bars (base)
-- trò chơi bắt tù binh (của trẻ con)
-!to make a woman's hand a prisoner
-- được một người đàn bà hứa lấy
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tù nhân
+overdriven
+	
+*  ngoại động từ overdrove; overdriven
+- ốp, bắt làm quá sức (người), bắt kéo quá sức (ngựa)
+

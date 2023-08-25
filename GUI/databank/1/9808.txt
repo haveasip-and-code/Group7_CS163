@@ -1,4 +1,38 @@
-clipsheet	
+reject
+	
+*  danh từ
+- vật bị loại, vật bỏ đi, vật không được chọn
+- người bị loại (trong kỳ tuyển quân...), người bị đánh hỏng thi
+- (thương nghiệp) phế phẩm
+*  ngoại động từ
+- không nhanh, không chấp thuận, bác bỏ
+=to reject someone's demand
++ bác bỏ yêu câu của ai
+- loại ra, bỏ ra; đánh hỏng (thí sinh)
+- từ chối không tiếp (ai)
+- mửa, nôn ra
+@Chuyên ngành kinh tế
+-bác bỏ
+-bác bỏ (một đề nghị)
+-bác bỏ (một đề nghị...), từ chối không nhận (hàng hóa)
+-hàng không hợp cách, thứ phẩm, phế phẩm
+-hàng vứt đi, đồ thải bỏ
+-không chấp nhận
+-loại bỏ
+-loại bỏ, vứt bỏ
+-phế phẩm
+-phế thải
+-thứ phẩm
+-từ chối không nhận (hàng hóa..)
+-vứt bỏ
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tờ kẹp
+-đồ thải
+-loại bỏ
+-phế phẩm
+-quẳng
+-vật thải
+@Lĩnh vực: điện
+-chất phế thải
+@Lĩnh vực: toán & tin
+-không chấp nhận
+

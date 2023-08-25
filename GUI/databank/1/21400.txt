@@ -1,38 +1,15 @@
-flesh	
-@flesh /flesh/
+vanishing
+	
 *  danh từ
-- thịt
-- thịt, cùi (quả)
-- sự mập, sự béo=to put on flesh
-+ lên cân, béo ra=to lose flesh
-+ sút cân, gầy đi
-- xác thịt, thú nhục dục!to be flesh and blood
-- là người trần!to be in flesh
-- béo!flesh and blood
-- cơ thể bằng da bằng thịt; loài người
-- có thật, không tưởng tượng
-- toàn bộ=flesh and fell
-+ toàn bộ thân thể!to go the way of all flesh
-- (xem) go!in the flesh
-- bằng xương bằng thịt!to make someone's flesh creep
-- (xem) creep!one's own flesh and blood
-- người máu mủ ruột thịt
-*  ngoại động từ
-- kích thích (chó săn)
-- làm cho hăng máu
-- tập cho quen cảnh đổ máu
-- đâm (gươm...) vào thịt
-- vỗ béo, nuôi béo; làm cho có da có thịt
-- nạo thịt (ở miếng da để thuộc)
-- khai (đao...); (nghĩa bóng) khai (bút...)
-*  nội động từ
-- (thông tục) béo ra, có da có thịt
-@Chuyên ngành kinh tế
--cùi (quả)
--thịt
+- sự biến mất, sự tiêu tan
+*  tính từ
+- biến mất, tiêu tan
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thịt
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thịt
+-biến mất
+-sự triệt tiêu
+-triệt tiêu
+@Lĩnh vực: điện lạnh
+-sự biến mất
+@Lĩnh vực: toán & tin
+-triệt tiêu, biến mất
+

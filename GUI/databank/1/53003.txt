@@ -1,17 +1,18 @@
-stapler	@stapler /'steiplə/
-*  danh từ
-- người xếp loại (bông, len, gai) theo sợi
-- người buôn bán những mặt hàng chủ yếu
-@Chuyên ngành kinh tế
--máy đặt cặp
--máy đóng sách
--máy ghim cặp
--máy khâu bao bì bằng đinh kẹp
--máy rập sách
--người bán sỉ lông cừu
--người chuyên mua bán những mặt hàng chủ yếu
--người lựa và xếp loại (len, bông...)
+sinuous
+	
+*  tính từ
+- ngoằn ngoèo, khúc khuỷu, quanh co, uốn khúc
+- (thực vật học) lượn, lượn sóng (lá)
 @Chuyên ngành kỹ thuật
--máy đóng phim
-@Lĩnh vực: điện
--máy dập sách
+-có hình sin
+-hình sin
+-ngoằn ngoèo
+-quanh co
+@Lĩnh vực: toán & tin
+-có dạng (hình) sóng
+-có dạng hình sin
+-có dạng hình sóng
+@Lĩnh vực: xây dựng
+-khúc khuỷu
+-ngoằn nghèo
+

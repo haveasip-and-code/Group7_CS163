@@ -1,15 +1,14 @@
-foreground	
-@foreground /'fɔ:graund/
-*  danh từ
-- cảnh gần, cận cảnh
-- (nghĩa bóng) địa vị nổi bật=to keep oneself in the foreground
-+ chiếm địa vị nổi bật=to bring a question into the foreground
-+ nêu bật một vấn đề
-@Chuyên ngành kỹ thuật
--nổi
--mặt trước
--tiền cảnh
--trước
--ưu tiên
-@Lĩnh vực: toán & tin
--mặt nổi
+younger
+	
+*  tính từ
+- út
+=younger brother
++ em trai út
+=younger son
++ con trai út
+- em
+= Edison the younger
++ Ê
+-đi
+-xơn em
+

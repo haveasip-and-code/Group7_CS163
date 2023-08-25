@@ -1,3 +1,11 @@
-whips	@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--việc buộc (giàn, giáo) bằng dây thép
+capacitor
+	
+- (Tech) bộ điện dung, cái tụ điện
+@Chuyên ngành kỹ thuật
+-bộ tụ điện
+-từ
+@Lĩnh vực: toán & tin
+-bình ngưng hơi
+@Lĩnh vực: cơ khí & công trình
+-thiết bị ngưng
+

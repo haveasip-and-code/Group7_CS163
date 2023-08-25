@@ -1,6 +1,17 @@
-movables	@movables /'mu:vəblz/
-*  danh từ số nhiều
-- đồ đạc; đồ gỗ
-- (pháp lý) động sản
+chromatography
+	
+*  danh từ
+- phép ghi sắc
+=ion
+-exchange chromatography
++ phép ghi sắc trao đổi ion
 @Chuyên ngành kinh tế
--động sản
+-phép sắc ký
+-phương pháp sắc ký
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-phép ghi sắc
+-phép sắc ký
+@Lĩnh vực: y học
+-sắc ký
+

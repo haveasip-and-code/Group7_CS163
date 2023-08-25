@@ -1,9 +1,9 @@
-streamlet	@streamlet /'stri:mlit/
-*  danh từ
-- suối nhỏ, ngòi nhỏ
-@Chuyên ngành kỹ thuật
--ngòi nhỏ
--suối
--suối nhỏ
-@Lĩnh vực: hóa học & vật liệu
--dòng nhỏ
+historic
+	
+*  tính từ
+- có tính chất lịch sử; được ghi vào lịch sử
+=a historic speech
++ một bài diễn văn lịch sử
+=historic times
++ thời kỳ lịch sử (có sử sách chép lại)
+

@@ -1,4 +1,69 @@
-lapis	@Chuyên ngành kỹ thuật
--đá
+compact
+	
+*  danh từ
+- sự thoả thuận
+=general compact
++ sự thoả thuận chung
+- hiệp ước, hợp đồng, giao kèo, khế ước
+=social compact
++ khế ước xã hội
+- hộp phấn sáp bỏ túi
+*  tính từ
+- kết, đặc, chặt, rắn chắc; chắc nịch
+=a compact mass
++ một khối rắn chắc
+- chật ních, chen chúc
+=a compact crowd
++ đám đông chật ních
+- (văn học) cô động, súc tích
+- (
++ of) chất chứa, chứa đầy, đầy
+=a man compact of suspicion
++ một người đầy hoài nghi
+*  ngoại động từ,  (thường) dạng bị động
+- kết lại (thành khối); làm cho rắn chắc, làm cho chắc nịch; cô đọng lại
+=to be compacted of
++ kết lại bằng, gồm có
+@Chuyên ngành kinh tế
+-hiệp định
+-hợp đồng
+-khế ước
 @Chuyên ngành kỹ thuật
--đá
+-bánh ép
+-chắc sít
+-chặt
+-đặc
+-đặc chặt
+-đặc rít
+-đầm
+-đầm chặt
+-dày đặc
+-ép
+-gọn
+-gọn chặt
+-hợp khối
+-kết hợp
+-làm chắc
+-lèn chặt
+-nén
+-nén chặt
+-nhỏ
+-rắn chắc
+-rắn chắn
+-viên ép
+@Lĩnh vực: y học
+-chắc, đặc
+@Lĩnh vực: điện
+-compăc
+-thu gọn
+@Lĩnh vực: cơ khí & công trình
+-compăc (toán)
+-gọn (kết cấu)
+@Lĩnh vực: hóa học & vật liệu
+-đặc sít
+@Lĩnh vực: xây dựng
+-được đầm chặt
+-liền khối
+-lu lèn
+-tính đầm chặt
+

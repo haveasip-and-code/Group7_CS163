@@ -1,3 +1,7 @@
-desorb	
-@Chuyên ngành kỹ thuật
--giải hấp
+backout
+	
+@Lĩnh vực: điện lạnh
+-sự đếm ngược
+@Lĩnh vực: điện tử & viễn thông
+-trình tự hủy bỏ
+

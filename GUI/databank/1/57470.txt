@@ -1,28 +1,12 @@
-transparency	@transparency /træns'peərənsi/
-*  danh từ
-- (như) transparence
-- kính ảnh phim đèn chiếu
-- giấy bóng kinh
-!His (Your) Transparency
--(đùa cợt); đuỵ iến uyên thưa tướng công
-@Chuyên ngành kinh tế
--công ty xuyên quốc gia
--sự minh bạch, tính trong sáng
--tính minh bạch
-@Chuyên ngành kỹ thuật
--độ trong suốt
--độ truyền qua
--dương bản
--giấy bóng kính
--tính trong suốt
-@Lĩnh vực: vật lý
--ảnh trong suốt
-@Lĩnh vực: xây dựng
--độ trong (suốt)
--tính trong (suốt)
-@Lĩnh vực: toán & tin
--giấy acetat
--giấy trong
--sự trong suốt
-@Lĩnh vực: điện tử & viễn thông
--sự thông suốt (mạng)
+naughty
+	
+*  tính từ
+- hư, hư đốn, nghịch ngợm
+=a naughty boy
++ thằng bé hư
+- thô tục, tục tĩu, nhảm
+=naughty words
++ những lời nói tục tĩu
+=naughty books
++ sách nhảm
+

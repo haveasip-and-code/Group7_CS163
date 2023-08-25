@@ -1,6 +1,8 @@
-wattage	@wattage
-* danh từ
-- lượng điện năng được biểu hiện bằng oát
+mermaid
+	
+*  danh từ
+- (thần thoại,thần học) cô gái mình người đuôi cá
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--số oát
+@Lĩnh vực: xây dựng
+-tiên cá
+

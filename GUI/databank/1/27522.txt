@@ -1,21 +1,5 @@
-impound	
-@impound /im'paund/
-*  ngoại động từ
-- nhốt (súc vật) vào bãi rào; cất (xe cộ...) vào bãi rào
-- nhốt, giam (người)
-- ngăn (nước để tưới)
-- sung công, tịch thu
-@Chuyên ngành kinh tế
--bắt giữ
--sai áp
--tịch thu
-@Chuyên ngành kỹ thuật
--hút nước
--ngăn lại
-@Lĩnh vực: cơ khí & công trình
--chặn dòng
--đắp (đê đập)
-@Lĩnh vực: toán & tin
--ngăn dòng
-@Lĩnh vực: xây dựng
--sung công
+fanion
+	
+* danh từ
+- lá cờ nhỏ
+

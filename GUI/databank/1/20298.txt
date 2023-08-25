@@ -1,64 +1,17 @@
-failure	
-@failure /'feiljə/
+lapsus
+	
 *  danh từ
-- sự không xảy ra, sự không làm được (việc gì)=the failure to grasp a policy
-+ sự không nắm vững một chính sách
-- sự thiếu
-- sự thất bại; sự hỏng; sự mất (mùa, điện...)
-- người bị thất bại; việc thất bại, cố gắng không thành công=he is a failure in art
-+ anh ấy không thành công trong nghệ thuật
-- sự thi hỏng
-- sự vỡ nợ, sự phá sản
-@Chuyên ngành kinh tế
--sự khánh kiệt
--sự phá sản
+- sự lầm lỡ, sự lầm lẫn
+=lapsus celami
++ sự viết lầm
+=lapsus linguae
++ sự nói lẫn
 @Chuyên ngành kỹ thuật
--hỏng
--hỏng hóc
--hư hỏng
--lỗi
--phá hoại
--sai hỏng
--sự cố
--sự gãy
--sự hỏng
--sự hỏng hóc
--sự hư hỏng
--sự nhiễu
--sự nứt
--sự phá hủy
--sự phá sập
--sự phá vỡ
--sự sai hỏng
--sự sụt lở
--sự trục trặc
-@Lĩnh vực: cơ khí & công trình
--sẩy
--thất bại
-@Lĩnh vực: toán & tin
--sự thất bại
+-nhầm
+@Lĩnh vực: y học
+-chứng sa một bộ phận
 @Chuyên ngành kỹ thuật
--hỏng
--hỏng hóc
--hư hỏng
--lỗi
--phá hoại
--sai hỏng
--sự cố
--sự gãy
--sự hỏng
--sự hỏng hóc
--sự hư hỏng
--sự nhiễu
--sự nứt
--sự phá hủy
--sự phá sập
--sự phá vỡ
--sự sai hỏng
--sự sụt lở
--sự trục trặc
-@Lĩnh vực: cơ khí & công trình
--sẩy
--thất bại
-@Lĩnh vực: toán & tin
--sự thất bại
+-nhầm
+@Lĩnh vực: y học
+-chứng sa một bộ phận
+

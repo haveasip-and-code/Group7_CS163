@@ -1,12 +1,28 @@
-cousin	
-@cousin /'kʌzn/
-*  danh từ
-- anh (em họ); anh con bác, em con chú; anh (em) con cô con cậu; anh (em) con dì; anh cháu bác, em cháu chú
-- các hạ (tiếng vua xưng hô với nhau)!first cousin; cousin german
-- anh (chị) con bác, em con chú; anh (em) con cô con cậu ruột!first cousin once removed
-- cháu gọi bằng bác (chú, cô, dì)!first cousin twice removed
-- cháu gọi bằng ông bác (bà bác, ông chú, bà cô, bà dì)!second cousin
-- anh (chị) con bác, em con chú họ; anh (chị, em) con cô con cậu họ!second cousin once removed
-- cháu gọi bằng bác (chú, côm dì) họ!second cousin twice removed
-- cháu gọi bằng ông bác (bà bác, ông chú, bà cô, bà dì) họ!to call cousin with somebody
-- tự nhiên là có họ với ai
+legal
+	
+*  tính từ
+- hợp pháp, theo pháp luật
+- do pháp luật định
+- (thuộc) pháp luật
+@Chuyên ngành kinh tế
+-do luật định
+-được luật pháp thừa nhận
+-hợp pháp
+-pháp định
+-theo pháp luật
+-thuộc pháp luật
+-thuộc về pháp luật
+-về mặt pháp luật
+@Chuyên ngành kỹ thuật
+-hợp lệ
+-hợp pháp
+@Lĩnh vực: toán & tin
+-khả chấp
+-pháp lý
+@Chuyên ngành kỹ thuật
+-hợp lệ
+-hợp pháp
+@Lĩnh vực: toán & tin
+-khả chấp
+-pháp lý
+

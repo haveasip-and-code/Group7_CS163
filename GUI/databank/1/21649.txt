@@ -1,44 +1,6 @@
-flux	
-@flux /flux/
-*  danh từ
-- sự chảy mạnh, sự tuôn ra=a flux of talk
-+ chuyện thao thao bất tuyệt, chuyện nổ như ngô rang
-- sự thay đổi liên tục=in a state of flux
-+ ở tình trạng thay đổi liên tục (không ổn định)
-- (kỹ thuật) dòng, luồng=axial flux
-+ dòng hướng trục=neutron flux
-+ luồng nơtron
-- (toán học),  (vật lý) thông lượng=vector flux
-+ thông lượng vectơ=radiaction flux
-+ thông lượng bức xạ
-- (kỹ thuật) chất gây cháy (luyện kim)
-- (y học) sự băng huyết
-- (từ cổ,nghĩa cổ) bệnh kiết lỵ
-*  nội động từ
-- chảy ra, đổ ra, tuôn ra
-*  ngoại động từ
-- làm chảy (kim loại) bằng chất gây chảy
-- (y học) tấy
-@Chuyên ngành kinh tế
--dòng chảy
-@Chuyên ngành kỹ thuật
--chất pha loãng
--đổ ra
--dòng
--dòng chảy
--dòng chảy mạnh
--luồng
--nấu chảy
--nóng chảy
--nung chảy
--sự tuôn ra
-@Lĩnh vực: xây dựng
--bãi cát bồi
--sự dung
-@Lĩnh vực: hóa học & vật liệu
--chất gây cháy
--chất nóng chảy
-@Lĩnh vực: cơ khí & công trình
--dòng luồng
-@Lĩnh vực: y học
--sự chảy mạnh
+sonorously
+	
+* phó từ
+- kêu, vang (âm thanh)
+- gây ấn tượng; văn kêu (bài diễn văn, ngôn ngữ, từ )
+

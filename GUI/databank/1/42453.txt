@@ -1,18 +1,27 @@
-polygon	@polygon /'pɔligən/
+peeling
+	
 *  danh từ
-- (toán học) hình nhiều cạnh, đa giác
-!polygon of forces
-- đa giác lực
+- vỏ bóc ra, vỏ gọt ra
+=potato peelings
++ vỏ khoai gọt ra
+@Chuyên ngành kinh tế
+-vỏ củ
+-vỏ tách ra
 @Chuyên ngành kỹ thuật
--đa giác
--đường sườn
--đường truyền
+-bóc vỏ
+-lớp vỏ
+-sự bốc dỡ
+-sự bóc vỏ
+@Lĩnh vực: dệt may
+-chóc vỏ
+-sự lột da
+-sự tước vỏ
 @Lĩnh vực: xây dựng
--bãi đúc cấu kiện
--đường chuyền
--đường chuyền đa giác
--hình đa giác
+-sự bóc thành lớp
+-sự bong theo lớp
+-sự nạo vỏ
+-sự tẩy trạt
+-sự tróc vảy (của một lớp sơn)
 @Lĩnh vực: điện lạnh
--hình nhiều cạnh
-@Lĩnh vực: toán & tin
--vùng
+-sự tách lớp (bề mặt)
+

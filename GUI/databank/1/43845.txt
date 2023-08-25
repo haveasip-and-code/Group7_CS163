@@ -1,16 +1,7 @@
-profess	@profess /profess/
-*  ngoại động từ
-- tuyên bố, bày tỏ, nói ra
-=to profess oneself satisfied with...+ tuyên bố là hài lòng với...
-- tự cho là, tự xưng là, tự nhận là
-=to profess to know several foreign languages+ tự cho là biết nhiều tiếng nước ngoài
-=to profess to be a scholar+ tự xưng là một học giả
-=to profess to be ignorant+ tự nhận là dốt nát
-- theo, tuyên bố tin theo, nhận là tin theo (đạo)...
-=to profess Buddhism+ theo đạo Phật
-- hành nghề, làm nghề
-=to profess law+ làm nghề luật
-- dạy (môn gì...)
-=to profess history+ dạy sử
-*  nội động từ
-- dạy học, làm giáo sư
+bremsstrahlung
+	
+- (Tech) bức xạ hãm
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện lạnh
+-bức xạ hãm
+

@@ -1,27 +1,5 @@
-molding	@Chuyên ngành kỹ thuật
--đổ khuôn
--đúc
--dựng khuôn
--đường chỉ
--đường gờ
--ép khuôn
--ép theo khuôn
--gờ trang trí
--nẹp gỗ
--nẹp ván
--mái đua
--mái hắt
--rót khuôn
--sản phẩm đúc
--sự đúc
--sự ép khuôn
--sự làm khuôn
--sự tạo hình
--ván ốp
--vật đúc
--vật ép
-@Lĩnh vực: xây dựng
--đường gờ, đường chỉ
--sự nặn
-@Lĩnh vực: cơ khí & công trình
--sản phẩm ép
+cachalot
+	
+*  danh từ
+- (động vật học) cá nhà táng
+

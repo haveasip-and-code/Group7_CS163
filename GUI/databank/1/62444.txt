@@ -1,90 +1,12 @@
-wash	@wash /wɔʃ/
+ventilating
+	
 *  danh từ
-- sự tắm rửa, sự tắm gội, sự rửa ráy
-=to have a wash+ tắm rửa, rửa ráy
-- sự rửa (vật gì)
-=to give something a wash+ rửa vật gì
-- sự giặt, sự giặt giũ; quần áo giặt; nơi giặt
-=to send clothes to the wash+ đem giặt quần áo
-- nước rửa, nước gội
-- nước rửa bát, nước vo gạo
-- nước lã, nước ốc
-=this soupe is a mere wash+ súp nhạt như nước ốc
-=this tea is like wash+ nước chè này đúng là như nước lã
-- lớp tráng, lớp thiếp (trên mặt kim loại); nước vôi (quét tường)
-- (địa lý,địa chất) phù sa, đất bồi
-- (hội họa) lớp màu nước (trên mặt bức hoạ)
-- (hàng hải) sóng; tiếng sóng
-!to come out in the wash
-- có kết quả tốt, kết thúc tốt
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sớm muộn rồi cũng lộ ra, sớm muộn rồi cũng ra ánh sáng; sớm muộn rồi cũng giải thích ra
-*  ngoại động từ
-- rửa
-=to wash one's hands+ rửa tay; (nghĩa bóng) phủi tay, không chịu trách nhiệm
-- giặt
-- chảy, chảy sát gần, vỗ vào
-=the sea washes the base of the cliffs+ biển vỗ vào chân vách đá
-- cuốn đi, giạt vào
-=to be washed over ashore+ bị giạt vào bờ
-- khoét, nạo
-=the water had washed a channel in the sand+ nước đã khoét thành một đường mương trong cát
-- thấm đẫm, làm ướt
-=washed with dew+ đẫm sương
-=washed with tears+ đầm đìa nước mắt
-- thiếp vàng (một kim loại); quét vôi, quét sơn (tường)
-- (hội họa) tô màu nước (lên bức hoạ)
-- (kỹ thuật) đãi (quặng)
-*  nội động từ
-- rửa ráy, tắm rửa, tắm gội
-- giặt quần áo
-=to wash for a living+ làm nghề giặt quần áo để kiếm sống
-- có thể giặt được (mà không hỏng...)
-=this stuff won't wash+ vải len này không giặt được
-=that won't wash!+ (nghĩa bóng) cái đó không được!
-=that argument won't wash+ lý lẽ ấy không vững
-- bị nước xói lở (con đường...)
-!to wash away
-- rửa sạch (vết bẩn)
-- làm lở, cuốn trôi, cuốn đi
-=the bank is gradually washed by the current+ bờ sông bị dòng nước làm cho lở mòn dần
-!to wash down
-- rửa (bằng vòi nước)
-=to wash down a car+ rửa xe ô tô
-- nuốt trôi, chiêu
-=he swallows a glass of water to wash his bread down+ nó uống một cốc nước để nuốt trôi miếng bánh
-=to wash down one's dinner with wine+ vừa ăn vừa chiêu rượu
-!to wash off
-- rửa sạch, giặt sạch
-!to wash out
-- rửa sạch, súc sạch (cái chai)
-- pha loãng; loãng ra, phai đi, bay mất (màu sắc), bạc màu (vì giặt nhiều)
-=dress is quite washed out+ áo bạc hết màu
-- có thể tẩy (rửa) đi được
-- đãi (cát lấy vàng)
-- giũ sạch (nợ); rửa (nhục)
-=to wash out an insult in blood+ rửa nhục bằng máu
-=all his debts are washed out+ nó đã giũ sạch được hết các món nợ
-=to be (look, feel) washed out+ (thông tục) mệt lử, phờ phạc
-!to wash up
-- rửa bát đĩa
-- (từ Mỹ,nghĩa Mỹ) rửa mặt, tắm gội
-- cuốn, đưa vào bờ, giạt vào bờ
-- (từ Mỹ,nghĩa Mỹ),  (thông tục) ((thường) dạng bị động) bị loại ra, bị bỏ ra
+- (như) ventilation
+*  tính từ
+- thông gió, thông hơi
 @Chuyên ngành kỹ thuật
--đất bồi
--giặt
--làm sạch
--lớp mỏng
--phù sa
--rửa
--rửa trôi
--sóng mũi tàu
--sóng xô bờ
--sự cọ rửa
--sự làm sạch
--sự rửa
--sự xả
--sự xói mòn
--vấu khuyết tật (đúc)
-@Lĩnh vực: hóa học & vật liệu
--đãi (làm giàu quặng)
+-sự thông gió
+-sự thông khí
+@Lĩnh vực: xây dựng
+-hầm thông hơi
+

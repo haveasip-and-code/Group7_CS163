@@ -1,21 +1,5 @@
-slim	@slim /slim/
-*  tính từ
-- mảnh khảnh, mảnh dẻ, thon
-=slim fingers+ ngón tay thon búp măng
-- ít ỏi, sơ sài, nghèo nàn, mỏng manh
-=slim possibility+ khả năng có thể được rất mỏng manh
-- láu, khôn lỏi, xảo quyệt
-*  ngoại động từ
-- làm cho người thon nhỏ (bằng cách ăn kiêng và tập thể dục)
-*  nội động từ
-- trở thành thon nhỏ
-*  danh từ
-- bùn, bùn loãng
-- nhớt cá
-- chất nhớ bẩn
-- Bitum lỏng
-*  ngoại động từ
-- phủ đầy bùn; phủ đầy
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--ốm
+mobster
+	
+* danh từ
+- (từ lóng) kẻ cướp
+

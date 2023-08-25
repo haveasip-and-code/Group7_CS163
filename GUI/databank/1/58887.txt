@@ -1,11 +1,5 @@
-unchoke	@unchoke /'ʌn'tʃouk/
-*  ngoại động từ
-- mở, làm cho thông (một cái ống)
-@Chuyên ngành kỹ thuật
--mở
--tháo
-@Lĩnh vực: toán & tin
--mở, tháo
-@Lĩnh vực: xây dựng
--tháo chèn
--tháo nêm
+sociogram
+	
+* danh từ
+- sự biểu hiện các quan hệ xã hội thành sơ đồ
+

@@ -1,13 +1,8 @@
-operational	@operational /,ɔpə'reiʃənl/
-*  tính từ
-- hoạt động, thuộc quá trình hoạt động
-- (thuộc) thao tác
-- có thể dùng, có thể có hiệu lực, có thể có tác dụng
-- (quân sự) (thuộc) sự tác chiến, (thuộc) cuộc hành quân
-- (toán học) (thuộc) toán tử
-=operational method+ phương pháp toán tử
+hepatocyte
+	
+* danh từ
+- tế bào gan
 @Chuyên ngành kỹ thuật
--làm việc
--làm việc, sử dụng
--sử dụng
--tác dụng
+@Lĩnh vực: y học
+-tế bào gan
+

@@ -1,8 +1,5 @@
-cimex	
-@cimex
-* danh từ
-- số nhiều cimices
-- (động vật) con rệp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--rệp cimex
+astrophysics
+	
+*  danh từ,  số nhiều dùng như số ít
+- vật lý học thiên thể
+

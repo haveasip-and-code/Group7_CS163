@@ -1,7 +1,11 @@
-trenching	@Chuyên ngành kỹ thuật
--sự đào hào
--sự đào móng
--sự đào mương
--sự đào rãnh
-@Lĩnh vực: xây dựng
--sự khai thác đất
+feldspathic
+	
+*  tính từ
+- (khoáng chất) (thuộc) fenspat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-fenspat
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: hóa học & vật liệu
+-fenspat
+

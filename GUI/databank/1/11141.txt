@@ -1,7 +1,8 @@
-congenital	
-@congenital /kən'dʤenitl/
-*  tính từ
-- bẩm sinh=congenital disease
-+ bệnh bẩm sinh
+untreated
+	
+* danh từ
+- chưa gia công
+- không chữa, không điều trị (bệnh)
 @Chuyên ngành kỹ thuật
--bẩm sinh
+-chưa xử lý
+

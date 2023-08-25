@@ -1,11 +1,18 @@
-yeast	@yeast /ji:st/
+alteration
+	
 *  danh từ
-- men, men rượu, men bia
-- bọt (rượu lên men, sóng...)
-@Chuyên ngành kinh tế
--men
--men rượu
+- sự thay đổi, sự đổi; sự sửa đổi, sự sửa lại, sự biến đổi
 @Chuyên ngành kỹ thuật
--men
-@Lĩnh vực: y học
--cái men, men
+-nhà phụ
+-sự biến đổi
+-sự phong hóa
+-sự sửa đổi
+-sự thay đổi
+-sửa đổi
+-thay đổi
+@Lĩnh vực: điện lạnh
+-dấu biến âm
+-sự biến âm
+@Lĩnh vực: xây dựng
+-kết cấu bên trên
+

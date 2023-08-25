@@ -1,17 +1,18 @@
-history	
-@history /'histəri/
+vernacular
+	
+*  tính từ
+- bản xứ, mẹ đẻ (ngôn ngữ)
+- viết bằng tiếng mẹ đẻ, viết bằng tiếng địa phương
+=vernacular papers
++ các báo tiếng mẹ đẻ
+- địa phương (bệnh tật, tên cây...)
+=vernacular disease
++ bệnh địa phương
 *  danh từ
-- sử, sử học, lịch sử=ancient history
-+ cổ sử;(đùa cợt) cái đã cũ rích, cái đã lỗi thời=modern history
-+ lịch sử cận đại=to make history
-+ có tầm quan trọng, có thể ghi vào lịch sử, làm nên việc lớn, có thể ghi vào lịch sử
-- lịch sử (một vật, một người)=to have a strange history
-+ có một lịch sử kỳ quặc
-- kịch lịch sử
-@Chuyên ngành kỹ thuật
--bản ghi
--lịch sử
--lược sử
--quá trình
-@Lĩnh vực: toán & tin
--history
+- tiếng bản xứ, tiếng mẹ đẻ, thổ ngữ
+=to be translated into the vernacular
++ được dịch sang tiếng bản xứ
+- tiếng riêng, tiếng lóng (của một nghề)
+=the vernacular of the stage
++ tiếng riêng của ngành sân khấu
+

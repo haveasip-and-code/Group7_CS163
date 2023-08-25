@@ -1,12 +1,5 @@
-revalue	@revalue /'ri:'vælju:/
-*  ngoại động từ
-- đánh giá lại, ước lượng lại
-@Chuyên ngành kinh tế
--đánh giá lại
--định giá lại
--khôi phục giá trị (của tiền tệ)
--ước lượng lại
--ước lượng lại (một tài sản...)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--đặt giá lại
+lassoer
+	
+*  danh từ
+- người bắt bằng dây thòng lọng
+

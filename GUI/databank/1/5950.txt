@@ -1,14 +1,28 @@
-blitz	
-@blitz /blits/
+trawl
+	
 *  danh từ
-- chiến tranh chớp nhoáng
-- (từ Mỹ,nghĩa Mỹ) cuộc oanh tạc dữ dội
-- (từ Mỹ,nghĩa Mỹ) cuộc vân động ồ ạt chớp nhoáng
-- (quân sự),  (từ lóng) đợt kiểm tra đột xuất (một đơn vị)
+- lưới rà (thả ngầm dước đáy sông, biển) ((cũng) trawl
+-net)
+- (từ Mỹ,nghĩa Mỹ) cần câu giăng ((cũng) trawl
+-line)
+*  nội động từ
+- đánh lưới rà
 *  ngoại động từ
-- (quân sự) đánh chớp nhoáng
-- (từ Mỹ,nghĩa Mỹ) oanh tạc dữ dội
-- (từ lóng) kiểm tra đột xuất (một đơn vị)!to be blitzed
-- bị phạt, bị phê bình cảnh cáo (lính)
+- kéo (lưới rà); giăng (lưới rà)
+@Chuyên ngành kinh tế
+-đánh cá
+-địa tầng
+-lưới đánh cá
+-lưới kéo
+-lưới vớt
+-máy quan trắc dưới nước
+-thả lưới đánh cá
+-tìm kiếm
 @Chuyên ngành kỹ thuật
--oanh tạc
+-lưới rà
+-lưới rẽ (đánh cá)
+-lưới vét
+@Lĩnh vực: giao thông & vận tải
+-kéo lưới vét (đánh cá)
+-thả lưới rà
+

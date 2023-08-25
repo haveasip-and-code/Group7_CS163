@@ -1,6 +1,10 @@
-pyrogenic	@pyrogenic
+ovule
+	
+*  danh từ
+- (thực vật học) noãn
+- (sinh vật học) tế bào trứng
 @Chuyên ngành kỹ thuật
--hỏa sinh
--hỏa thành
--sinh nhiệt
--tỏa nhiệt
+@Lĩnh vực: y học
+-noãn
+-trứng
+

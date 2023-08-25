@@ -1,32 +1,26 @@
-refer	@refer /ri'fə:/
-*  ngoại động từ
-- quy, quy cho, quy vào
-=to refer one's failure to...+ quy sự thất bại là ở tại...
-- chuyển đến (ai, tổ chức nào) để xem xét, giao cho nghiên cứu giải quyết
-=the matter must be referred to a tribunal+ vấn đề phải được chuyển đến một toà án để xét xử
-=to refer a question to someone's decision+ giao một vấn đề cho ai quyết định
-- chỉ dẫn (ai) đến hỏi (người nào, tổ chức nào)
-=I have been referred to you+ người ta chỉ tôi đến hỏi anh
-=to refer oneself+ viện vào, dựa vào, nhờ cậy vào
-=I refer myself to your experience+ tôi dựa vào kinh nghiệm của anh
-*  nội động từ
-- xem, tham khảo
-=to refer to one's watch for the exact time+ xem đồng hồ để biết đúng mấy giờ
-=to refer to a documemt+ tham khảo một tài liệu
-- ám chỉ, nói đến, kể đến, nhắc đến
-=don't refer to the matter again+ đừng nhắc đến vấn đề ấy nữa
-=that is the passage he referred to+ đó là đoạn ông ta nói đến
-- tìm đến, viện vào, dựa vào, nhờ cậy vào
-=to refer to somebody for help+ tìm đến ai để nhờ cậy ai giúp đỡ; nhờ cậy sự giúp đỡ của ai
-- có liên quan tới, có quan hệ tới, có dính dáng tới
-=to refer to something+ có liên quan đến việc gì
-- hỏi ý kiến
-=to refer to somebody+ hỏi ý kiến ai
-!refer to drawer
-- ((viết tắt) R.D.) trả lại người lĩnh séc (trong trường hợp ngân hàng chưa thanh toán được)
-!referring to your letter
-- (thương nghiệp) tiếp theo bức thư của ông
+accretion
+	
+*  danh từ
+- sự lớn dần lên, sự phát triển dần lên,
+- sự bồi dần vào
+- phần bồi thêm, phần phát triển dần lên
+- (pháp lý) sự tăng thêm (của cải, tài sản...)
+@Chuyên ngành kinh tế
+-sự tăng trị
+-sự tăng trưởng nội tại
+-trị giá (thực tế) tăng lên
 @Chuyên ngành kỹ thuật
--tham chiếu
-@Lĩnh vực: toán & tin
--chỉ, hướng theo
+-bùn cát
+-đất bồi
+-lớp bồi tích
+-sự bồi đắp
+-sự bồi lắng
+-sự bồi tích
+-sự lắng đọng
+-sự nâng cao
+@Lĩnh vực: điện tử & viễn thông
+-phát triển dần lên
+-sự lớn dần lên
+@Lĩnh vực: xây dựng
+-sự bồi lấp
+

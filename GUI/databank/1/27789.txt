@@ -1,13 +1,6 @@
-incinerator	
-@incinerator /in'sinəreitə/
-*  danh từ
-- lò đốt rác
-- lò thiêu; lò hoả táng
-- người thiêu; người hoả táng
-@Chuyên ngành kỹ thuật
--lò đốt
--lò đốt rác
--lò đốt thành tro
--lò hỏa táng
--lò nung
--lò thiêu
+unburnt
+	
+*  tính từ
+- không cháy
+- không nung (gạch)
+

@@ -1,22 +1,24 @@
-tailings	@tailings /'teiliɳz/
-*  danh từ
-- phế phẩm, rác
-- trấu, hạt lép (sàng còn lại)
-@Chuyên ngành kinh tế
--chất cặn bã
--chất thải
-@Chuyên ngành kỹ thuật
--chất thải
--gỗ cành
--phế phẩm
-@Lĩnh vực: hóa học & vật liệu
--chất thải (của sàng sơ cấp)
--chất thải ở mỏ (không còn giá trị sử dụng)
-@Lĩnh vực: xây dựng
--đá chìa (quá cỡ)
--gạch chìa
--ghl quặng thải
--gỗ nhỏ
--phần thải
-@Lĩnh vực: thực phẩm
--phế liệu (chất thải)
+began
+	
+*  (bất qui tắc) động từ began
+/bi'gæn/; begun
+/bi'gʌn/
+- bắt đầu, mở đầu, khởi đầu
+=when did life begin on this earth?
++ sự sống bắt đầu trên trái đất này lúc nào?
+- bắt đầu nói
+!to begin at
+- bắt đầu từ
+=to begin at the beginning
++ bắt đầu từ lúc bắt đầu
+!to begon upon
+- bắt đầu làm (việc gì)
+!to begin with
+- trước hết là, đầu tiên là
+=to begin with let us make clear the difference between these two words
++ trước hết chúng ta hãy nói rõ sự khác nhau giữa hai từ này
+!to begin the world
+- (xem) world
+!well begun is half done
+- bắt đầu tốt là làm xong được một nửa công việc
+

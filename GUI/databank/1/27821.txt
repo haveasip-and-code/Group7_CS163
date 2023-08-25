@@ -1,23 +1,5 @@
-include	
-@include /in'klu:d/
-*  ngoại động từ
-- bao gồm, gồm có=his conclusion includes all our ideas
-+ kết luận của ông ta bao gồm tất cả ý kiến của chúng tôi
-- tính đến, kể cả
-@Chuyên ngành kinh tế
--bao gồm
--bao quát
-@Chuyên ngành kỹ thuật
--bao gồm
--bao hàm
--chèn
--chứa
--đưa vào
--được cài đặt sẵn
--vây quanh
-@Lĩnh vực: toán & tin
--chứa trong
-@Lĩnh vực: xây dựng
--gồm có
--gộp vào
--rào quanh
+untraceable
+	
+*  tính từ
+- không khám phá ra được, không thể phát hiện ra được
+

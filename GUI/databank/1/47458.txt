@@ -1,6 +1,23 @@
-reverb	@reverb
-* danh từ
-- thiết bị điện tử tạo nên hồi âm trong âm nhạc
+anode
+	
+*  danh từ
+- (vật lý) cực dương,  anôt
+=rotating anode
++ anôt quay
+=auxiliary anode
++ anôt phụ
+=main anode
++ anôt chính
+=ignition anode
++ anôt mồi
+=hollow anode
++ anôt rỗng
+=satarting anode
++ anôt khởi động
 @Chuyên ngành kỹ thuật
--buồng vang
--phòng vang
+-dương cực
+@Lĩnh vực: điện
+-anôt
+@Lĩnh vực: điện lạnh
+-anôt cực dương
+

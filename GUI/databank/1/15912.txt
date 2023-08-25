@@ -1,31 +1,10 @@
-disk	
-@disk /disk/ (disc) /disk/
+antitoxin
+	
 *  danh từ
-- (thể dục,thể thao) đĩa
-- đĩa hát
-- đĩa, vật hình đĩa, bộ phận hình đĩa
+- (y học) kháng độc tố
 @Chuyên ngành kinh tế
--đĩa
--đĩa máy tính
--vật hình đĩa
+-chất kháng độc tố
 @Chuyên ngành kỹ thuật
--bản
--đĩa
--đĩa cố định
--đĩa cứng
--đĩa mài
--đĩa từ
--đĩa Winchester
--mâm
--môi trường ghi
--phương tiện nhớ
--tấm cứng
--vành độ
--vật hình đĩa
--vòng đệm dẹt
-@Lĩnh vực: toán & tin
--đĩa (máy tính)
-@Lĩnh vực: xây dựng
--miếng cứng
-@Lĩnh vực: điện
--tấm tròn
+@Lĩnh vực: y học
+-kháng độc tố
+

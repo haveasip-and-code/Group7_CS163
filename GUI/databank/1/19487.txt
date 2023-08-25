@@ -1,13 +1,12 @@
-exalt	
-@exalt /ig'zɔ:lt/
+omit
+	
 *  ngoại động từ
-- đề cao, đưa lên địa vị cao, tâng bốc, tán tụng, tán dương=to exalt to the skies
-+ tâng bốc lên tận mây xanh
-- ((thường) động tính từ quá khứ) làm cao quý
-- làm đậm, làm thắm (màu...)
+- bỏ sót, bỏ quên, bỏ đi (một từ...)
+- không làm tròn (công việc), chểnh mảng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tâng bốc
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tâng bốc
+-bỏ đi
+-bỏ qua
+-quên
+@Lĩnh vực: toán & tin
+-bỏ qua, bỏ đi
+

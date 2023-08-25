@@ -1,7 +1,8 @@
-visualize	@visualize /'vizjuəlaiz/
-*  ngoại động từ
-- làm cho mắt trông thấy được
-- hình dung, mường tượng
+correctable
+	
+- xem correct
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hiển thị hóa
+@Lĩnh vực: toán & tin
+-có thể hiệu chỉnh
+-có thể sửa
+

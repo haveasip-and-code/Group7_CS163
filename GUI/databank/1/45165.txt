@@ -1,14 +1,5 @@
-questionnaire	@questionnaire /,kwestiə'neə/
-*  danh từ
-- bản câu hỏi (để điều tra, để thăm dò ý kiến)
-@Chuyên ngành kinh tế
--bản điều tra
--bảng câu hỏi
--bảng điều tra
--bảng trưng cầu
--bảng trưng cầu ý kiến
--bảng ý kiến
-@Chuyên ngành kỹ thuật
--bản câu hỏi
-@Lĩnh vực: toán & tin
--bảng hỏi
+paleobotanic
+	
+* tính từ
+- xem palaeobotanic
+

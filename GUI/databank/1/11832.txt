@@ -1,10 +1,10 @@
-copperplate	
-@copperplate /'kɔpəpleit/
-*  danh từ
-- bản khắc đồng để in=copperplate engraving
-+ thuật khắc đồng
+simplified
+	
+- đã rút gọn, đã được đơn giản
 @Chuyên ngành kỹ thuật
--bản khắc đồng
--bọc đồng
--mạ đồng
--phủ đồng
+-đã rút gọn
+@Lĩnh vực: toán & tin
+-đã được đơn giản
+@Lĩnh vực: điện lạnh
+-đơn giản hóa
+

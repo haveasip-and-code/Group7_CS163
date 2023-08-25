@@ -1,27 +1,5 @@
-cube	
-@cube /kju:b/
-*  danh từ
-- (toán học) hình lập phương, hình khối
-- luỹ thừa ba!cube root
-- (toán học) căn bậc ba
-*  ngoại động từ
-- (toán học) lên tam thừa
-- (toán học) đo thể tích
-- lát bằng gạch hình khối
-- thái thành hình khối, thái hạt lựu (cà rốt...)
-@Chuyên ngành kinh tế
--đóng khối
--miếng hình khối
-@Chuyên ngành kỹ thuật
--hình lập phương
--khối lập phương
--lập phương
--lũy thừa bậc ba
-@Lĩnh vực: xây dựng
--hình khối lập phương
--khối vuông
-@Lĩnh vực: toán & tin
--lấy lập phương
--tính thể tích
-@Lĩnh vực: điện
--lũy thừa ba
+soilless
+	
+*  tính từ
+- sạch, không có vết bẩn
+

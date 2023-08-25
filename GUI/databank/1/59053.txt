@@ -1,11 +1,5 @@
-uncoupling	@Chuyên ngành kỹ thuật
--nhả khớp
--sự nhả khớp
-@Lĩnh vực: điện lạnh
--sự không ghép cặp
--sự không liên kết
-@Lĩnh vực: giao thông & vận tải
--sự không ghép đôi
--sự tách đôi
-@Lĩnh vực: vật lý
--sự tách ra (của nhiên liệu lò phản ứng hạt nhân)
+myotonia
+	
+@Lĩnh vực: y học
+-loạn lực cơ
+

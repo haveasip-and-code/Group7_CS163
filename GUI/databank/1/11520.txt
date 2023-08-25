@@ -1,15 +1,5 @@
-contention	
-@contention /kən'tenʃn/
-*  danh từ
-- sự cãi nhau; sự tranh luận; sự tranh chấp; sự bất hoà=bone of contention
-+ nguyên nhân tranh chấp, nguyên nhân bất hoà
-- sự ganh đua, sự đua tranh, sự cạnh tranh
-- luận điểm, luận điệu=my contention is that...
-+ luận điểm của tôi là..., tôi cho rằng...
-@Chuyên ngành kỹ thuật
--bộ nhớ kết hợp
--luận điểm
--mâu thuẫn
-@Lĩnh vực: toán & tin
--sự cạnh tranh
--sự tranh chấp
+recoding
+	
+@Lĩnh vực: xây dựng
+-sự mã hóa lại
+

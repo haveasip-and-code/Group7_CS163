@@ -1,3 +1,14 @@
-melic	@melic
-* tính từ
-- (thuộc) ca khúc
+frequency
+	
+- (Tech) tần số
+@Chuyên ngành kinh tế
+-tần số
+-tần số xuất hiện
+-tần suất xuất hiện
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: điện
+-số lần
+-tấn suất
+@Lĩnh vực: xây dựng
+-tần xuất
+

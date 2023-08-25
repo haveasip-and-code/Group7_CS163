@@ -1,6 +1,4 @@
-oncogenesis	@oncogenesis
-* danh từ
-- sự phát sinh ung thư
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự sinh u
+lookdown
+	
+-sự trông coi
+

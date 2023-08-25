@@ -1,3 +1,10 @@
-thesauri	@thesauri /θi:'sɔ:rəs/
-*  danh từ,  số nhiều thesauri,  thesauruses
-- bộ từ điển lớn, bộ toàn thư
+parse
+	
+*  ngoại động từ
+- phân tích ngữ pháp (từ, câu)
+@Chuyên ngành kỹ thuật
+-phân tách
+-phân tích cú pháp
+@Lĩnh vực: xây dựng
+-phân tích từ
+

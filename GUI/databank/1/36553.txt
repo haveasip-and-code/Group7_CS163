@@ -1,3 +1,23 @@
-neoplastic	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--thuộc khối u
+disturbance
+	
+*  danh từ
+- sự làm mất yên tĩnh, sự làm náo động; sự quấy rầy, sự làm bối rối, sự làm lo âu; sự làm xáo lộn
+- (vật lý) sự làm nhiễu loạn; sự nhiễu loạn
+=magnetic disturbance
++ sự nhiễu loạn từ
+- (rađiô) âm tạp, quyển khí
+- (pháp lý) sự vi phạn (quyền hưởng dụng)
+@Chuyên ngành kỹ thuật
+-âm nhiễu
+-âm tạp
+-nhiễu loạn
+-sự biến vị
+-sự nhiễu loạn
+-sự rối loạn
+@Lĩnh vực: xây dựng
+-sự làm nhiễu
+@Lĩnh vực: đo lường & điều khiển
+-sự nhiễu
+@Lĩnh vực: điện
+-sự nhiễu động
+

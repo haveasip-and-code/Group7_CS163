@@ -1,12 +1,25 @@
-inhomogeneous	
-@inhomogeneous /in,hɔmə'dʤi:njəs/
-*  tính từ
-- không đồng nhất, không đồng đều
+tram
+	
+*  danh từ
+- sợi tơ (để dệt nhung, lụa)
+- sợi khổ (của nhung, lụa)
+*  danh từ
+- xe điện ((cũng) tram
+-car; (từ Mỹ,nghĩa Mỹ) streetcar)
+- đường xe điện
+- xe goòng (chở than...)
+*  động từ
+- đi xe điện
+- chở bằng goòng
 @Chuyên ngành kinh tế
--không đồng nhất
+-xe lôi
 @Chuyên ngành kỹ thuật
--dị tính
--không đồng nhất
--không thuần nhất
-@Lĩnh vực: điện lạnh
--không đồng tính
+-đườn tàu điện
+-đường tàu điện
+-toa tàu điện
+-xe điện
+@Lĩnh vực: xây dựng
+-toa xe
+@Lĩnh vực: ô tô
+-xe goòng (ở mỏ)
+

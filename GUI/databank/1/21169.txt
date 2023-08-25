@@ -1,26 +1,19 @@
-fishery	
-@fishery /'fiʃəri/
+effectiveness
+	
 *  danh từ
-- công nghiệp cá; nghề cá=inshore fishery
-+ nghề lộng=deep
--sea fishery
-+ nghề khơi
-- nơi nuôi cá, nơi đánh cá
+- sự có hiệu lực
+- ấn tượng sâu sắc
 @Chuyên ngành kinh tế
--bãi cá
--cá công nghiệp
--nghề cá
--nghề đánh cá
--nghề nuôi cá
--nghề thủy sản
--ngư nghiệp
--ngư trường
--nơi nuôi cá
--quyền đánh cá
--vùng đánh cá
+-hiệu lực
+-hiệu nghiệm
+-hiệu quả
+-sự hữu hiệu
+-sự thành đạt
+-tính hiệu lực
 @Chuyên ngành kỹ thuật
--nghề cá
--ngư nghiệp
-@Chuyên ngành kỹ thuật
--nghề cá
--ngư nghiệp
+-hiệu lực
+-hiệu quả
+-hiệu suất
+@Lĩnh vực: toán & tin
+-tính hữu hiệu
+

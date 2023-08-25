@@ -1,34 +1,13 @@
-overhang	@overhang /'ouvəhæɳ/
-*  danh từ
-- phần nhô ra
-- độ nhô ra (của mái nhà)['ouvə'hæɳ]
-*  động từ overhung
-- nhô ra ở trên
-- (nghĩa bóng) treo lơ lửng (một cách đe doạ)
-@Chuyên ngành kinh tế
--mối nguy lơ lửng
+imbedded
+	
+- bị nhúng, được nhúng
+- wildly i. (tô pô) bị nhúng thô
 @Chuyên ngành kỹ thuật
--côngxon
--dầm hẫng
--đỡ
--độ nhô
--đoạn chìa
--giá treo
--nhịp công xôn
--mái che
--mái đua
--mẩu chìa
--ô văng
--phần nhô
--phần nhô ra
-@Lĩnh vực: ô tô
--độ nhô ra
--phần nhô khung xe
-@Lĩnh vực: xây dựng
--mái che ô văng
--múi thừa
--phần hẫng
--sự nhô ra
--tầm chìa
+-được nhúng
+-gắn vào
+-nằm (giữa) các lớp
 @Lĩnh vực: toán & tin
--treo lơ lửng
+-bị nhúng
+@Lĩnh vực: hóa học & vật liệu
+-khảm vào
+

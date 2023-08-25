@@ -1,6 +1,4 @@
-corkboard	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tấm lie
-@Lĩnh vực: hóa học & vật liệu
--ván cách nhiệt và âm
+undertax
+	
+-đánh thuế không đủ
+

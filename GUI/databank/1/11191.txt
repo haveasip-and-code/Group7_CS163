@@ -1,9 +1,4 @@
-coning	
-@Chuyên ngành kỹ thuật
--hình côn
-@Lĩnh vực: hóa học & vật liệu
--độ nón
--góc nón
--hình thành mặt nón
-@Lĩnh vực: cơ khí & công trình
--sự tạo hình côn
+ticktacktoe
+	
+- như noughts and crosses
+

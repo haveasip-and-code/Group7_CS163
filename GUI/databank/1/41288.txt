@@ -1,6 +1,5 @@
-photoionization	@photoionization
+karyolymph
+	
 * danh từ
-- sự quang ion hoá
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: điện lạnh
--sự quang ion hóa
+- nhựa nhân (chất lỏng sáng trong nhân tế bào)
+

@@ -1,4 +1,14 @@
-relabel	@relabel /'ri:'leibl/
-*  ngoại động từ
-- dán nhãn lại, ghi nhãn lại
-- liệt lại vào loại, gán lại cho là
+pretension
+	
+*  danh từ
+- ý muốn, kỳ vọng
+- điều yêu cầu chính đáng; quyền đòi hỏi chính đáng
+@Chuyên ngành kỹ thuật
+-sự căng trước
+-sự kéo trước
+@Lĩnh vực: cơ khí & công trình
+-chất tải trước
+-đặt tải trước
+@Lĩnh vực: xây dựng
+-sự căng trước (bê tông ứng suất trước)
+

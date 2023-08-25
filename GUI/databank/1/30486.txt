@@ -1,8 +1,10 @@
-joggler	
-@joggler
-* danh từ
-- người chạy hoặc đi chầm chậm; người chạy chầm chậm để luyện tập
-- máy sắp giấy
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--máy xóc chiếu
+deplore
+	
+*  ngoại động từ
+- phàn nàn về, lấy làm tiếc về, lấy làm ân hận về
+=to deplore one's mistakes
++ lấy làm ân hận về lỗi của mình
+- thương, thương hại, xót xa
+=to deplore one's fate
++ xót xa phận mình
+

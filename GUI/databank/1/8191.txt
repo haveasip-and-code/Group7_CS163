@@ -1,8 +1,20 @@
-caste	
-@caste /kɑ:st/
-*  danh từ
-- đẳng cấp=the caste system
-+ chế độ đẳng cấp
-- chế độ đẳng cấp; địa vị đẳng cấp
-- tầng lớp được đặc quyền (trong xã hội)!to lose (renounce) caste
-- mất địa vị trong xã hội; mất đặc quyền
+advise
+	
+*  ngoại động từ
+- khuyên, khuyên bảo, răn bảo
+- (thương nghiệp) báo cho biết
+=to advise someone of something
++ báo cho ai biết việc gì
+*  ngoại động từ
+- hỏi ý kiến
+=to advise with someone
++ hỏi ý kiến người nào
+@Chuyên ngành kinh tế
+-báo cho biết
+-thông báo
+-thông tin
+-thông tri
+@Chuyên ngành kỹ thuật
+-khuyên
+-thông báo
+

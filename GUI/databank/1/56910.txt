@@ -1,48 +1,11 @@
-toll	@toll /toul/
+cosmogony
+	
 *  danh từ
-- thuế qua đường, thuế qua cầu; thuế đậu bến; thuế chỗ ngồi (ở chợ...)
-- phần thóc công xay (phần thóc giữ lại để cho tiền công xay)
-!to take toll of
-- (nghĩa bóng) lấy đi mất một phần lớn, tiêu diệt mất một phần lớn
-!roat toll
-- số người bị tai nạn xe cộ
-*  nội động từ
-- thu thuế (cầu, đường, chợ...)
-- nộp thuế (cầu, đường, chợ...)
-*  danh từ
-- sự rung chuông
-- tiếng chuông rung
-*  ngoại động từ
-- rung, đánh, gõ (chuông...)
-=to toll the bell+ rung chuông
-- rung, điểm (chuông đồng hồ...)
-=the clock tolled midnight+ đồng hồ điểm 12 giờ đêm
-- rung chuông báo
-=to toll someone's death+ rung chuông báo tử người nào
-*  nội động từ
-- rung, điểm (chuông đồng hồ...)
-@Chuyên ngành kinh tế
--lệ phí
--phí chuyển hàng
--phí điện thoại đường dài
--phí thông hành
--phí thông hành, thông lưu (cầu, đường)
--số người thương vong (trong tai nạn)
--sự mất mát, thiệt hại
--thông lưu (cầu đường...)
--thuế dựng sạp
--thuế hoa chi
--thuế quá cảnh
+- nguồn gốc vũ trụ
+- thuyết nguồn gốc vũ trụ
 @Chuyên ngành kỹ thuật
--đánh
-@Lĩnh vực: xây dựng
--gõ (chuông)
-@Lĩnh vực: ô tô
--lệ phí cầu, đường
 @Lĩnh vực: toán & tin
--thuế cầu
--thuế đường
-@Lĩnh vực: hóa học & vật liệu
--thuế lưu thông
--thuế qua cầu
--thuế qua đường
+-tính nguyên học
+@Lĩnh vực: điện lạnh
+-vũ trụ nguyên học
+

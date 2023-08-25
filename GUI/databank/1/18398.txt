@@ -1,4 +1,15 @@
-enlacement	
-@enlacement /in'leismənt/
-*  danh từ
-- sự ôm ghì, sự ôm chặt, sự quấn bện
+seldom
+	
+*  phó từ
+- ít khi, hiếm khi
+=seldom or never
++ ít khi hay không khi nào cả
+=very seldom
++ rất ít khi
+=not seldom
++ thường thường
+@Chuyên ngành kỹ thuật
+-hiếm
+@Lĩnh vực: xây dựng
+-ít khi
+

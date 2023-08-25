@@ -1,24 +1,8 @@
-flume	
-@flume /flume/
-*  danh từ,  (từ Mỹ,nghĩa Mỹ)
-- máng (dẫn nước vào nhà máy)
-- khe suối
-*  nội động từ
-- (từ Mỹ,nghĩa Mỹ) xây máng (dẫn nước vào nhà máy)
-*  ngoại động từ (từ Mỹ,nghĩa Mỹ)
-- chuyển bằng máng
-- thả (gỗ, bè...) xuống khe suối
-@Chuyên ngành kinh tế
--máy vận chuyển thủy lực
+vacillation
+	
+* danh từ
+- sự lắc lư, sự lảo đảo, sự chập chờn
+- sự do dự, sự dao động (giữa các ý kiến, giải pháp )
 @Chuyên ngành kỹ thuật
--kênh dẫn nước
--khe suối
--lỗ tháo nước
--luồng
--máng dẫn
--máng dẫn hở
--máng nước
--máng rót
--máng tiêu nước
-@Lĩnh vực: xây dựng
--máng thủy lực
+-sự dao động
+

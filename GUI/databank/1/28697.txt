@@ -1,22 +1,5 @@
-inject	
-@inject /in'dʤekt/
-*  ngoại động từ
-- tiêm (thuốc...), tiêm thuốc
-- (từ Mỹ,nghĩa Mỹ) xen (lời nhận xét...) vào câu chuyện, xen (cái gì) vào một cách vũ đoán, xen (cái gì) một cách lạc lõng
-*  danh từ
-- (viết tắt) của injection (trong đơn thuốc)
-@Chuyên ngành kỹ thuật
--bơm vào
--đặt vào (cắt gọt)
--đưa vào
--lắp vào
--nội xạ
--phun
--phun vào
--phụt
--tăng áp
-@Lĩnh vực: xây dựng
--ép vào
--phụt vào
-@Lĩnh vực: hóa học & vật liệu
--tiêm vào
+trifluoperazine
+	
+@Lĩnh vực: y học
+-loại thuốc an thần
+

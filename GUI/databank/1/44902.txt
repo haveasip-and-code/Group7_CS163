@@ -1,9 +1,24 @@
-pycnometer	@Chuyên ngành kinh tế
--cái đo tỷ trọng
--tỷ trọng kế
+garden
+	
+*  danh từ
+- vườn
+=a vegetable garden
++ vườn rau
+- (số nhiều) công viên, vườn
+=zoological gardens
++ vườn bách thú
+- vùng màu mỡ xanh tốt
+=to lead somebody up the garden [path]
++ lừa phỉnh ai, đánh lừa ai
+*  nội động từ
+- làm vườn
+@Chuyên ngành kinh tế
+-vườn
+-vườn cây ăn quả
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: đo lường & điều khiển
--lọ (đo) tỷ trọng
-@Lĩnh vực: vật lý
--mật độ kế (đo mật độ)
--tỷ trọng kế (đo tỷ trọng)
+-vườn hoa
+@Lĩnh vực: xây dựng
+-vườn
+-vườn quả
+-vườn rau
+

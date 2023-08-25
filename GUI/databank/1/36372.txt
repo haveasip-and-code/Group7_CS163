@@ -1,3 +1,4 @@
-natriuretic	@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--chất kích thích bài tiết natri trong nước tiểu
+indexed
+	
+-có quan hệ đến chỉ số sinh hoạt giá cả
+

@@ -1,17 +1,5 @@
-acquire	
-@acquire /ə'kwaiə/
-*  ngoại động từ
-- được, giành được, thu được, đạt được, kiếm được=to acquire a good reputation
-+ được tiếng tốt=acquired characteristic
-+ (sinh vật học) tính chất thu được=an acquired taste
-+ sở thích do quen mà có
-@Chuyên ngành kinh tế
--có được
--đạt được
--được
--kiếm được
--thu được
-@Chuyên ngành kỹ thuật
--có được
-@Lĩnh vực: xây dựng
--thụ đắc
+myrtle
+	
+*  danh từ
+- (thực vật học) cây mía (thuộc họ sim)
+

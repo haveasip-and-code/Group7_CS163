@@ -1,13 +1,10 @@
-dosimeter	
-@dosimeter /dou'simitə/
-*  danh từ
-- cái đo liều lượng
-@Chuyên ngành kinh tế
--cái đo liều lượng
--liều lượng kế
+ultimately
+	
+*  phó từ
+- cuối cùng, sau cùng, sau rốt
 @Chuyên ngành kỹ thuật
--liều lượng kế
-@Lĩnh vực: y học
--định lượng kê
-@Lĩnh vực: điện lạnh
--xạ lượng kế
+-cuối cùng
+@Lĩnh vực: toán & tin
+-cuối cùng, sau cùng
+-sau cùng
+

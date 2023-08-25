@@ -1,9 +1,5 @@
-flaked	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thành phiến nhỏ
--thành tấm
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--thành phiến nhỏ
--thành tấm
+unwrapped
+	
+@Lĩnh vực: xây dựng
+-được triển khai
+

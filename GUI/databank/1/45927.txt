@@ -1,6 +1,45 @@
-recheck	@Chuyên ngành kinh tế
--kiểm tra lại
--sự kiểm tra lại
--sự phúc hạch
+pilot
+	
+*  danh từ
+- (hàng hải) hoa tiêu
+=deep
+-sea pilot
++ hoa tiêu ngoài biển khơi
+=coast pilot; inshore pilot
++ hoa tiêu ven biển
+- (hàng không) người lái (máy bay), phi công
+- (nghĩa bóng) người dẫn đường (đi săn...)
+!to drop the pilot
+- bỏ rơi một cố vấn đáng tin cậy
+*  ngoại động từ
+- (hàng hải) dẫn (tàu)
+- (hàng không) lái (máy bay)
+- (nghĩa bóng) dìu dắt (ai) qua những khó khăn
+@Chuyên ngành kinh tế
+-hoa tiêu
+-người dẫn cảng (người dẫn tàu ra vào cảng)
+-phi công
 @Chuyên ngành kỹ thuật
--kiểm tra lại
+-điều khiển
+-hoa tiêu
+-hướng dẫn
+-lái
+-lệnh truyền
+-người dẫn đường
+-mô hình thử
+-phần dẫn hướng trục
+-phần trục dẫn hướng
+-phi công
+-sóng chủ
+@Lĩnh vực: cơ khí & công trình
+-bộ phận định tâm (hướng dẫn đầu trục)
+@Lĩnh vực: giao thông & vận tải
+-dẫn tàu
+-điều khiển máy bay
+-sự dẫn tàu
+@Lĩnh vực: ô tô
+-móc phanh tự động
+@Lĩnh vực: xây dựng
+-sản xuất thử nghiệm
+-thí điểm
+

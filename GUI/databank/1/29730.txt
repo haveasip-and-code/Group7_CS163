@@ -1,37 +1,37 @@
-invalid	
-@invalid /'invəli:d/
+simple
+	
+*  tính từ
+- đơn, đơn giản
+=simpleleaf
++ lá đơn
+=simple surface
++ mặt đơn giản
+- giản dị, mộc mạc, xuềnh xoàng, bình dị, hồn nhiên
+=the simple life
++ đời sống giản dị; sự muốn trở lại cuộc sống cổ sơ
+=in simple beauty
++ trong vẻ đẹp mộc mạc
+=a simple man
++ một người giản dị
+=a simple meal
++ một bữa cơm xuềnh xoàng
+- dễ hiểu, dễ làm
+=the problem is very simple
++ vấn đề đó rất dễ hiểu
+- tuyệt đối là, chỉ là, không khác gì
+=to say so is simple madness
++ nói như thế thì không khác gì là điên
+- đơn sơ, nghèo hèn; nhỏ mọn, không đáng kể
+- ngu dại; dốt nát; thiếu kinh nghiệm
 *  danh từ
-- người bệnh tật, người tàn tật, người tàn phế
-*  tính từ
-- bệnh tật, tàn tật, tàn phế
-- cho người bệnh tật, cho người tàn tật, cho người tàn phế; (thuộc) người bệnh tật, (thuộc) người tàn tật, (thuộc) người tàn phế=an invalid home
-+ nơi an dưỡng cho những người tàn tật
-*  tính từ
-- không có hiệu lực
-- (từ Mỹ,nghĩa Mỹ) không có căn cứ=invalid arguments
-+ những lý lẽ không có căn cứ
-- (toán học) vô hiệu
-*  ngoại động từ,  (thường) động tính từ quá khứ
-- làm cho không đủ năng lực vì bệnh tật
-- đối đãi như một kẻ tàn phế
-- cho giải ngũ vì tàn phế
-*  nội động từ
-- trở thành tàn phế
-@Chuyên ngành kinh tế
--không có giá trị
--không có hiệu lực pháp lý
+- người ngu dại; người dốt nát
+- cây thuốc
+- thuốc lá (chữa bệnh)
+!to be cut for the simples
+- phải mổ để chữa bệnh điên
 @Chuyên ngành kỹ thuật
--bất hợp lệ
--không đúng
--không hợp lệ
--sai
--vô hiệu
-@Lĩnh vực: điện lạnh
--không có giá trị
-@Lĩnh vực: giao thông & vận tải
--không có hiệu lực
-@Lĩnh vực: toán & tin
--không hợp pháp
-@Lĩnh vực: y học
--người ốm yếu, người tàn tật
--ốm yếu, tàn tật
+-đơn
+-đơn giản
+-đơn giản, đơn
+-thuần túy
+

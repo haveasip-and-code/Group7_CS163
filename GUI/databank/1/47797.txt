@@ -1,4 +1,11 @@
-riskless	@Chuyên ngành kinh tế
--an toàn
--không có rủi ro
--không có rủi ro, an toàn
+retractable
+	
+*  tính từ
+- có thể rụt vào, có thể co vào
+=retractable indercarriage
++ bộ bánh hạ cánh có thể rút lên được (ở máy bay)
+- có thể rút lại (lời hứa, ý kiến...); có thể huỷ bỏ (lời tuyên bố); có thể chối (lời nói)
+@Chuyên ngành kỹ thuật
+-kéo lại
+-kéo lại được
+

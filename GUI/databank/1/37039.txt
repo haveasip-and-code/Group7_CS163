@@ -1,6 +1,5 @@
-normotensive	@normotensive
-* tính từ
-- có huyết áp bình thường (không cao không thấp)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--huyết áp bình thường
+inpatient
+	
+* danh từ
+- người sống trong bệnh viện trong thời gian điều trị; bệnh nhân nội trú
+

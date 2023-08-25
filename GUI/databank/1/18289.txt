@@ -1,7 +1,5 @@
-endplate	
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--máng tận cùng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--máng tận cùng
+declinable
+	
+*  tính từ
+- (ngôn ngữ học) có thể biến cách
+

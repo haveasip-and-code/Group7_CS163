@@ -1,7 +1,4 @@
-copolymer	
-@copolymer
-* danh từ
-- (hoá học) chất đồng trùng hợp
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--copolime
+eigenvalue
+	
+- (Tech) trị số đặc trưng
+

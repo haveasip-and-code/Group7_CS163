@@ -1,17 +1,107 @@
-obturator	@obturator /'ɔbtjuəreitə/
+beat
+	
 *  danh từ
-- vật để lắp, vật để bịt
-- (y học) trám bịt
-- (vật lý),  (nhiếp ảnh) lá chắn sáng
-- (kỹ thuật) cửa sập
+- sự đập; tiếng đập
+=the beat of a drum
++ tiếng trống
+=heart beats
++ trống ngực
+- khu vực đi tuần (của cảnh sát); sự đi tuần
+=to be on the beat
++ đang đi tuần
+=to be off (out to) one's beat
++ ngoài phạm vi đi tuần của mình; ngoài phạm vi giải quyết của mình
+- (thông tục) cái trội hơn hẳn, cái vượt hơn hẳn
+=I've never seen his beat
++ tớ chưa thấy ai trôi hơn nó
+- (âm nhạc) nhịp, nhịp đánh (của người chỉ huy dàn nhạc)
+- (vật lý) phách
+- (săn bắn) khu vực săn đuổi, cuộc săn đuổi
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tin đăng đầu tiên (trước các báo cáo)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người thất nghiệp; người sống lang thang đầu đường xó chợ
+*  (bất qui tắc) động từ beat; beaten,  beat
+- đánh đập, nện, đấm
+=to beat black and blue
++ đánh cho thâm tím mình mẩy
+=to beat at the door
++ đập cửa
+=to beat one's breast
++ tự đấm ngực
+- vỗ (cánh); gõ, đánh (nhịp)
+=to beat the wings
++ vỗ cánh (chim)
+=to beat time
++ (âm nhạc) gõ nhịp, đánh nhịp
+=his pulse began to beat quicker
++ mạch của nó bắt đầu đập nhanh hơn
+- thắng, đánh bại, vượt
+=to beat somebody ever heard
++ cái đó vượt xa tất cả những cái mà tôi từng được nghe thấy
+- đánh trống để ra lệnh, ra hiệu bệnh bằng trống
+=to beat a charge
++ đánh trống ra lệnh tấn công
+=to beat a retreat
++ đánh trống ra lệnh rút lui
+=to beat a parley
++ đánh trống đề nghị thương lượng
+- (săn bắn) khua (bụi rậm... để lùa những con thú ra)
+=to beat the bushes
++ khua bụi
+!to beat about
+- khua (bụi...), khuấy (nước...) (để lùa ra)
+- (hàng hải) đi vát
+!to beat down
+- đánh trống, hạ
+=to beat down prices
++ đánh hạ giá; mặc cả được hạ giá
+- làm thất vọng, làm chán nản
+=he was thoroughly beaten down
++ nó hoàn toàn thất vọng, nó chán nản rã rời
+!to beat in
+- đánh thủng; đánh vỡ
+!to beat out
+- đập bẹt ra, nện mỏng ra (kim loại...)
+- dập tắt (ngọn lửa...)
+!to beat up
+- đánh (trứng, kem...)
+- đi khắp (một vùng...)
+- truy lùng, theo dõi (ai...)
+- (quân sự) bắt, mộ (lính)
+=to beat up recruits
++ mộ lính
+- (hàng hải) đi vát, chạy giạt vào bờ
+- khua (bụi...), khuấy (nước...) (để lùa ra)
+!to beat about the bush
+- nói quanh
+!to beat it
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chạy trốn cho nhanh
+=beat it!
++ (từ Mỹ,nghĩa Mỹ) cút đi!, cút ngay!, xéo ngay!
+!to beat one's brains
+- (xem) brain
+!to beat somebody hollow (all to prices, to nothing, to ribbands, to smithereens to stricks)
+- hoàn toàn đánh bại ai; đánh ai tơi bời
+!to beat up the quarters of somebody
+- (xem) quarter
+@Chuyên ngành kinh tế
+-mặc cả giảm giá
+-nhào bột đánh trứng
+-trả bớt giá
 @Chuyên ngành kỹ thuật
--cửa sập
--nắp đậy
--nắp đậy, máy đóng
-@Lĩnh vực: y học
--hàm bịt, nút bịt, nút kín
+-đánh
+-đập
+-nghiền vụn
+-nhịp
+-phách
+-sự đảo
+-sự dao động
+-sự va đập
+-tiếng gõ
+-va đập
 @Lĩnh vực: xây dựng
--lá chắn sáng
--nút bịt kín
--nút đậy kín
--máy đóng
+-độ đảo
+@Lĩnh vực: cơ khí & công trình
+-làm va đập
+@Lĩnh vực: điện lạnh
+-tần số phách
+

@@ -1,3 +1,17 @@
-eldership	
-@eldership
-- xem elder
+parameter
+	
+*  danh từ
+- (toán học) thông số, tham số, tham biến
+@Chuyên ngành kinh tế
+-tham số
+-thông số
+@Chuyên ngành kỹ thuật
+-biến số
+-đặc trưng
+-giá trị
+-tham số
+@Lĩnh vực: cơ khí & công trình
+-tham biến
+@Lĩnh vực: toán & tin
+-tham số, thông số
+

@@ -1,8 +1,15 @@
-imprison	
-@imprison /im'prizn/
-*  ngoại động từ
-- bỏ tù, tống giam, giam cầm
-- (nghĩa bóng) giam hãm, o bế
+county
+	
+*  danh từ
+- hạt, tỉnh (đơn vị hành chính lớn nhất của Anh)
+- (the county) nhân dân (một) hạt (tỉnh)
+- đất (phong của) bá tước
+!county borough
+- thành phố (trên 50 000 dân) tương đương một hạt (về mặt hành chính)
+!county family
+- gia đình sống ở một hạt qua nhiều thế hệ
+!county town
+- thị xã (nơi đóng cơ quan hành chính của hạt)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--giam
+-tĩnh
+

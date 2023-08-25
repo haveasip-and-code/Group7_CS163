@@ -1,5 +1,14 @@
-perched	@Chuyên ngành kỹ thuật
-@Lĩnh vực: cơ khí & công trình
--bị treo
-@Lĩnh vực: hóa học & vật liệu
--treo lơ lửng
+coarseness
+	
+*  danh từ
+- sự thô
+- tính thô lỗ, tính lỗ mãng
+- tính thô tục, tính tục tĩu
+@Chuyên ngành kỹ thuật
+-cỡ hạt
+-độ hạt
+@Lĩnh vực: xây dựng
+-độ thô
+@Lĩnh vực: toán & tin
+-tính thô
+

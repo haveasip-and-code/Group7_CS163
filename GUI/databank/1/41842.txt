@@ -1,3 +1,12 @@
-plains	@plains
+anechoic
+	
 * tính từ
-- thuộc người da đỏ Bắc Mỹ vùng Đồng bằng Lớn
+- không có tiếng vọng lại
+= an anechoic chamber
++một phòng không có tiếng vọng lại
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-không có tiếng vang
+@Lĩnh vực: điện lạnh
+-không vang
+

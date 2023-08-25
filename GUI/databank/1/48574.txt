@@ -1,17 +1,5 @@
-sample	@sample
-- (thống kê) mẫu
-- artificial s. mẫu nhân tạo, mẫu giả
-- balanced s. mẫu cân bằng
-- concordant s. mẫu phù hợp
-- duplicate s. bản sao mẫu
-- exceptional s. mẫu ngoại lệ
-- interpenetrating s.s (thống kê) các mẫu thâm nhập vào nhau
-- judgement s. mẫu hoàn toàn ngẫu nhiêm
-- list s. mẫu lấy trogn danh sách
-- master a. mẫu cả
-- matched s.s mẫu sóng đôi
-- quota s. mẫu theo nhóm
-- representative s. mẫu đại diện
-- stratified s. mẫu phân lớp
-- systematic s. mẫu hệ thống
-- tow-stade s. mẫu hai tầng
+pontil
+	
+* danh từ
+- cây gậy dùng trong việc thổi thủy tinh
+

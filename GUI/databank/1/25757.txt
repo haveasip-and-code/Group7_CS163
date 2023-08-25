@@ -1,24 +1,9 @@
-highlight	
-@highlight
-* danh từ
-- chỗ nổi bật nhất, chỗ đẹp nhất, chỗ sáng nhất (trong một bức tranh)
-- <snh> điểm nổi bật nhất, vị trí nổi bật nhất, sự việc nổi bật nhất, nét nổi bật nhất
-* ngoại động từ
-- làm nổi bật, nêu bật
-@Chuyên ngành kinh tế
--làm nổi bật
--nêu bật
-@Chuyên ngành kỹ thuật
--làm nổi bật
--nêu rõ
--nổi
--vùng rõ nhất
-@Lĩnh vực: điện tử & viễn thông
--ấn định
-@Lĩnh vực: xây dựng
--điểm sáng
-@Lĩnh vực: toán & tin
--nêu bật
-@Lĩnh vực: điện lạnh
--vùng nổi bật
--vùng sáng rõ
+incuse
+	
+*  tính từ
+- bị rập vào, bị khắc vào (dấu ở đồng tiền...)
+*  danh từ
+- dấu rập vào, dấu khắc vào (dấu ở đồng tiền...)
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- rập (dấu); rập dấu vào (đồng tiền...)
+

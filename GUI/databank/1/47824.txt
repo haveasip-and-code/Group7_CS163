@@ -1,11 +1,20 @@
-riveter	@riveter /'rivitə/
-*  danh từ
-- thợ tán đinh
-- máy tán đinh
+preheater
+	
+- xem preheat
+@Chuyên ngành kinh tế
+-ngăn đun nóng sơ bộ
+-thiết bị đun nóng sơ bộ
 @Chuyên ngành kỹ thuật
--búa tán đinh
--máy tán đinh
+-bộ sấy sơ bộ
+-thiết bị nung
+@Lĩnh vực: điện
+-bộ hâm nóng trước
+-bộ tiền gia nhiệt
+@Lĩnh vực: ô tô
+-sự làm nóng trước (động cơ đơizen)
 @Lĩnh vực: xây dựng
--búa tán
--thợ tán đinh
--thợ tán đinh (rivê)
+-thiết bị làm
+-thiết bị nóng
+@Lĩnh vực: hóa học & vật liệu
+-thiết bị làm nóng trước (lọc dầu)
+

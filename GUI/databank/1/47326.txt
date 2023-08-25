@@ -1,6 +1,11 @@
-retinene	@retinene
-* danh từ
-- retinen; võng tố; chất lưới
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--retinen
+ratable
+	
+*  tính từ
+- có thể đánh giá được
+- có thể bị đánh thuế địa phương
+=ratable property
++ tài sản có thể bị đánh thuế địa phương
+- (từ cổ,nghĩa cổ) tính theo tỉ lệ
+=a ratable share
++ phần đóng góp tính theo tỉ lệ; chia phần lãi tính theo tỉ lệ
+

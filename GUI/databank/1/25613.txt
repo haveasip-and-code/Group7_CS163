@@ -1,4 +1,31 @@
-hesitance	
-@hesitance /'hezitəns/ (hesitancy) /'hezitənsi/
-*  danh từ
-- sự tự do, sự ngập ngừng, sự lưỡng lự, sự không nhất quyết ((cũng) hesitation)
+ternary
+	
+*  tính từ
+- (toán học) tam phân; tam nguyên
+=a ternary numeration
++ phép đếm tam phân
+=ternary cubic form
++ dạng cubic tam phân
+- bậc ba
+- (hoá học) gồm ba yếu tố, ba
+@Chuyên ngành kỹ thuật
+-ba lớp
+-bộ ba
+-có 3 biến số
+-hóa trị ba
+@Lĩnh vực: toán & tin
+-ba cấu tử
+-có ba biến số
+-gồm ba chất
+-phân, bộ ba
+-tam phân
+@Lĩnh vực: hóa học & vật liệu
+-ba nguyên tố, tam nguyên
+-bậc ba
+@Lĩnh vực: điện lạnh
+-ba thành phần, ba yếu tố
+-gồm ba yếu tố
+@Lĩnh vực: xây dựng
+-có ba thành phần
+-gồm 3 chất
+

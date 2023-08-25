@@ -1,22 +1,8 @@
-universal	@universal /,ju:ni'və:səl/
-*  tính từ
-- thuộc vũ trụ, thuộc thế giới, thuộc vạn vật
-=universal gravitation+ sức hấp dẫn của vạn vật
-=universal language+ ngôn ngữ thế giới (thế giới ngữ)
-- toàn bộ, toàn thể, tất cả, chung, phổ thông, phổ biến; vạn năng
-=universal suffrage+ sự bỏ phiếu phổ thông
-=universal law+ luật chung, luật phổ biến
-=universal misery+ nỗi đau khổ chung
-=universal opinion+ dự luận chung
-=universal agent+ đại lý toàn quyền
-=universal provider+ người buôn đủ loại hàng
-=universal legatee+ người được hưởng toàn bộ gia tài
-@Chuyên ngành kỹ thuật
--phổ biến
--phổ dụng
--vạn năng
--vũ trụ
-@Lĩnh vực: xây dựng
--khắp nơi
-@Lĩnh vực: điện lạnh
--phổ quát
+recital
+	
+*  danh từ
+- sự kể lại, sự thuật lại, sự kể lể; chuyện kể lại, chuyện thuật lại
+- sự ngâm, sự bình (thơ)
+- (âm nhạc) cuộc biểu diễn độc tấu
+- (pháp lý) đoạn văn kiện kể lại sự kiện
+

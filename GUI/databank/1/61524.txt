@@ -1,9 +1,11 @@
-verdict	@verdict /'və:dikt/
+agio
+	
 *  danh từ
-- (pháp lý) lời tuyên án, lời phán quyết
-=an open verdict+ một lời tuyên án không nói rõ thủ phạm
-=verdict of not guilty+ sự tuyên án vô tội
-=partial verdict+ sự tuyên án có tội một phần
-=to return a verdict+ tuyên án
-- sự quyết định, sự nhận định; dư luận
-=popular verdict+ sự nhận định của nhân dân, dư luận nhân dân
+- tiền lời, đổi tiền (thu được trong việc đổi chác tiền bạc)
+- nghề đổi tiền
+- (tài chính) giá tiền chênh lệch (giá trị chênh lệch giữa hai loại tiền)
+@Chuyên ngành kinh tế
+-phí chiết khấu
+-tiền các
+-tiền lời trong việc đổi tiền
+

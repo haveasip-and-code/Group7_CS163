@@ -1,22 +1,9 @@
-reversion	@reversion /ri'və:ʃn/
-*  danh từ
-- (pháp lý) quyền đòi lại, quyền thu hồi
-- quyền thừa kế; tài sản thuộc quyền thừa kế
-- sự trở lại (tình trạng cũ)
-=reversion to type+ (sinh vật học) sự trở lại hình thái tổ tiên, sự lại giống
-- tiền bảo hiểm nhân thọ được trả sau khi chết
-- (vật lý),  (toán học) sự đảo, sự diễn ngược
-=reversion of series+ sự diễn ngược cấp số
-@Chuyên ngành kinh tế
--quyền nhận lại
--quyền thu hồi
--quyền thừa kế
--sự trở về trạng thái ban đầu
+heliacal
+	
+*  tính từ,  (thiên văn học)
+- (thuộc) mặt trời
+- gần mặt trời
 @Chuyên ngành kỹ thuật
--nghịch đảo
--sự đảo
--sự nghịch đảo
-@Lĩnh vực: toán & tin
--phép đảo nghịch
-@Lĩnh vực: hóa học & vật liệu
--sự tái lưu hóa
+@Lĩnh vực: điện lạnh
+-cùng mặt trời
+

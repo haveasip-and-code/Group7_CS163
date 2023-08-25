@@ -1,10 +1,11 @@
-undermanned	@undermanned /'ʌndə'mænd/
-*  tính từ
-- thiếu thuỷ thủ (tàu thuỷ); thiếu nhân công (hầm mỏ)
-@Chuyên ngành kinh tế
--thiếu nhân công
--thiếu nhân viên
+portability
+	
+*  danh từ
+- tính dễ mang theo, tính xách tay được
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: giao thông & vận tải
--thiếu nhân công
--thiểu thủy thủ
+-tính khả chuyển
+-tương thích tiến
+@Lĩnh vực: toán & tin
+-tính linh động
+-tính mang chuyển được
+

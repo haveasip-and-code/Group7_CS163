@@ -1,13 +1,4 @@
-scoring	@Chuyên ngành kỹ thuật
--gạch bỏ
--khía
--rạch khía/
--rãnh
--sự cắt lõm
--sự làm xây xát
--sự xây xát
--sự xước
--vết xước
-@Lĩnh vực: xây dựng
--sự đột miệng khuyết
--vết (khắc)
+borescope
+	
+-kính ngắm
+

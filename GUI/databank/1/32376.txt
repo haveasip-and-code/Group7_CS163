@@ -1,45 +1,4 @@
-liquid	@liquid /'likwid/
-*  tính từ
-- lỏng
-- trong trẻo, trong sáng
-- dịu dàng, êm dịu, du dương
-=liquid voice+ tiếng nói dịu dàng
-- không vững, hay thay đổi
-=liquid principles+ những nguyên tắc không vững vàng
-=liquid opinion+ ý kiến hay thay đổi
-- (ngôn ngữ học) (thuộc) âm nước
-!liquid capital
-- vốn luân chuyển
-!liquid fire
-- chất cháy do súng phóng lửa phun ra
-!liquid money
-- tiền mặt
-*  danh từ
-- chất lỏng, chất nước
-- (ngôn ngữ học) âm nước
-@Chuyên ngành kinh tế
--chất dịch
--chất lỏng
--dễ chuyển thành tiền mặt
--dễ thanh tiêu
--lỏng
--mỡ nước
--nước
--tài sản lưu động
--tiền mặt
-@Chuyên ngành kỹ thuật
--chất lỏng
--dung dịch
--lỏng
--lưu động
--trạng thái lỏng
-@Lĩnh vực: điện
--chất nước
-@Chuyên ngành kỹ thuật
--chất lỏng
--dung dịch
--lỏng
--lưu động
--trạng thái lỏng
-@Lĩnh vực: điện
--chất nước
+currishly
+	
+- xem currish
+

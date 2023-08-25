@@ -1,25 +1,6 @@
-employment	
-@employment /im'plɔimənt/
-*  danh từ
-- sự dùng, sự thuê làm (công...)
-- sự làm công, việc làm=out of employment
-+ không có việc làm, thất nghiệp
-@Chuyên ngành kinh tế
--công ăn việc làm
--công việc
--làm công
--sử dụng
--sự dùng
--sự làm công
--sự sử dụng
--sự thuê làm
--thuê làm
--việc làm
-@Chuyên ngành kỹ thuật
--sự dùng
-@Lĩnh vực: xây dựng
--sự làm công
-@Chuyên ngành kỹ thuật
--sự dùng
-@Lĩnh vực: xây dựng
--sự làm công
+stapedial
+	
+* tính từ
+- thuộc bàn đạp (yên ngựa)
+- thuộc xương bàn đạp (trong tai)
+

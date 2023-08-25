@@ -1,15 +1,22 @@
-perform	@perform /pə'fɔ:m/
-*  ngoại động từ
-- làm (công việc...); thực hiện (lời hứa...); thi hành (lệnh); cử hành (lễ); hoàn thành (nhiệm vụ)
-- biểu diễn, trình bày (kịch, điệu nhảy...); đóng
-=to perform a part in a play+ đóng một vai trong một vở kịch
-*  nội động từ
-- đóng một vai
-=to perform in a play+ đóng trong một vở kịch
-- biểu diễn
-=to perform on the piano+ biểu diễn đàn pianô
+completion
+	
+*  danh từ
+- sự hoàn thành, sự làm xong
+=near completion
++ sự gần xong
+- sự làm cho hoàn toàn, sự làm cho đầy đủ
 @Chuyên ngành kinh tế
--thi hành
--thực hiện
+-hoàn thành
+-sự hoàn tất
+-sự làm xong
 @Chuyên ngành kỹ thuật
--sử dụng
+-hoàn tất
+-sự bổ sung
+-sự cải tiến
+-sự hoàn thành
+-sự hoàn thiện
+-sự mở rộng
+@Lĩnh vực: cơ khí & công trình
+-sự làm đủ
+-sự làm trọn bộ
+

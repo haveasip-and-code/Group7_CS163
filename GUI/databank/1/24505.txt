@@ -1,3 +1,16 @@
-guesser	
-@guesser
-- xem guess
+superintendent
+	
+*  danh từ
+- người giám thị, người trông nom, người quản lý (công việc)
+- sĩ quan cảnh sát
+@Chuyên ngành kinh tế
+-người giám sát
+-người quản lý
+@Chuyên ngành kỹ thuật
+-đốc công
+-giám đốc
+-người quản lý
+-người trông nom
+@Lĩnh vực: cơ khí & công trình
+-quản đốc phân xưởng
+

@@ -1,6 +1,10 @@
-prismatoid	@prismatoid
-* danh từ
-- (kỹ thuật) phòng lăng trụ
+antinode
+	
+- (Tech) bụng sóng
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--phỏng lăng trụ
+-bụng dao động
+-bụng dòng
+-bụng sóng
+@Lĩnh vực: điện
+-bụng (sóng)
+

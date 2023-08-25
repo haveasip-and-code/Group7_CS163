@@ -1,7 +1,13 @@
-linocut	@linocut
-* danh từ
-- hoa văn khắc vào tấm vải sơn lót sàn nhà
-@Chuyên ngành kỹ thuật
--mặt cắt lino
-@Chuyên ngành kỹ thuật
--mặt cắt lino
+warehousing
+	
+*  danh từ
+- sự xếp hàng vào kho
+@Chuyên ngành kinh tế
+-gửi kho
+-lưu kho
+-mua trữ
+-phí lưu kho
+-sự xếp hàng vào kho
+-việc gửi kho
+-việc trữ kho
+

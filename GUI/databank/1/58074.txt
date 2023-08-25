@@ -1,5 +1,19 @@
-trypanosomiasis	@trypanosomiasis
-- danh từ,  số nhiều trypanosomiases
+troublesome
+	
+*  tính từ
+- quấy rầy, khó chịu
+=a troublesome child
++ một đứa trẻ hay quấy rầy
+- rắc rối, rầy rà, phiền phức, lôi thôi
+=a troublesome problem
++ một vấn đề rắc rối rầy rà
+=how troublesome!
++ phiền phức làm sao!
+- mệt nhọc, khó nhọc, vất vả
+=a troublesome job
++ một việc khó nhọc
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--bệnh trypanosoma
+@Lĩnh vực: xây dựng
+-gây phiền hà
+-gây rắc rối
+

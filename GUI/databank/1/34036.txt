@@ -1,21 +1,11 @@
-meander	@meander /mi'ændə/
+dependency
+	
 *  danh từ
-- (số nhiều) chỗ sông uốn khúc
-- (số nhiều) đường quanh co, đường khúc khuỷu
-- (kiến trúc) đường uốn khúc (trên đầu cột, trên đầu tường)
-*  nội động từ
-- ngoằn ngoèo, quanh co, khúc khuỷu, uốn khúc
-- đi lang thang, đi vơ vẩn
+- vật phụ thuộc; phần phụ thuộc
+- nước phụ thuộc
 @Chuyên ngành kỹ thuật
--chỗ cong
--đường quanh co
--gấp lại
--khúc uốn (sông)
--ngoằn ngoèo
--uốn khúc
--ý nghĩa
+-lệ thuộc
 @Lĩnh vực: toán & tin
--chỗ cong lại
--uốn lại
-@Lĩnh vực: xây dựng
--hình gấp khúc
+-phần phụ thuộc
+-tính phụ thuộc
+

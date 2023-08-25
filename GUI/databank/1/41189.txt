@@ -1,11 +1,5 @@
-phonogram	@phonogram /'founəgræm/
-*  danh từ
-- ảnh ghi âm
-- dấu ghi âm (theo phương pháp của Pit-man)
-- tín hiệu ngữ âm
-@Chuyên ngành kỹ thuật
--đường ghi âm
-@Lĩnh vực: y học
--âm đồ
-@Lĩnh vực: điện lạnh
--bản ghi âm
+exine
+	
+* danh từ
+- (thực vật) màng ngoài (bào tử, hạt phấn)
+

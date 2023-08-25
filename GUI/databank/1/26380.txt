@@ -1,30 +1,9 @@
-hum	
-@hum /hʌm/
+subregion
+	
 *  danh từ
-- (từ lóng) (như) humbug
-*  danh từ ((cũng) haw)
-- tiếng vo ve, tiếng o o (sâu bọ...); tiếng kêu rền (máy)
-- tiếng ầm ừ, lời nói ậm à ậm ừ, lời nói ấp úng=hums and ha's
-+ lời nói ậm à ậm ừ
-- (từ lóng) mùi khó ngửi, mùi thối
-*  nội động từ
-- kêu vo ve, kêu o o (sâu bọ...); kêu rền (máy)
-- ấm ứ, ầm ừ, ấp úng; nói lúng búng=to hum and ha (haw)
-+ mói ậm à, ậm ừ, nói lúng búng
-- ngậm miệng ngân nga
-- (thông tục) hoạt động mạnh=to make things hum
-+ đẩy mạnh các hoạt động
-- (từ lóng) khó ngửi, thối
-*  ngoại động từ
-- ngậm miệng ngân nga
-*  thán từ
-- hừ (do dự, không đồng ý)
+- phân miền (địa lý động vật)
 @Chuyên ngành kỹ thuật
--bị tạp nhiễu
--bị tiếng ồn
--gợn sóng âm
--tạp âm
--tiếng ồn
--tiếng ù
-@Lĩnh vực: xây dựng
--vo ve
+@Lĩnh vực: toán & tin
+-miền con
+-vùng con
+

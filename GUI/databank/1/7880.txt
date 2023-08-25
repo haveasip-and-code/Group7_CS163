@@ -1,11 +1,9 @@
-capsicum	
-@capsicum /'kæpsikəm/
+corollary
+	
 *  danh từ
-- (thực vật học) cây ớt
-- quả ớt
-@Chuyên ngành kinh tế
--cây ớt
--quả ớt
+- (toán học) hệ luận
+- kết quả tất yếu
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--cây ớt cựa gà
+-hệ luận
+-hệ quả
+

@@ -1,7 +1,13 @@
-anthropophagy	
-@anthropophagy /,ænθrə'pɔfədʤi/
-*  danh từ
-- tục ăn thịt người
+reagent
+	
+* danh từ
+- <hóa> thuốc thử
+- chất phản ứng
+@Chuyên ngành kinh tế
+-chất phản ứng
+-thuốc thử
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--sự ăn thịt người
+@Lĩnh vực: vật lý
+-chai chất phản ứng
+-chai thuốc thử
+

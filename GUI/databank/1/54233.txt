@@ -1,11 +1,15 @@
-substation	@substation /'sʌb'steiʃn/
+demise
+	
 *  danh từ
-- ga xép
-@Chuyên ngành kỹ thuật
--trạm biến áp
--trạm điện
-@Lĩnh vực: hóa học & vật liệu
--phân trạm
-@Lĩnh vực: điện
--trạm biến điện phụ
--trạm biến thế
+- (pháp lý) sự cho thuê, sự cho mướn (miếng đất...)
+- sự để lại (bằng chúc thư); sự nhượng lại; sự chuyển nhượng tài sản (bằng khế ước...); sự truyền lại (bằng cách thoái vị)
+- sự chết, sự qua đời, sự băng hà (của vua chúa...)
+*  ngoại động từ
+- cho thuê, cho mướn (bằng giao kèo...)
+- để lại (bằng chúc thư); nhượng lại, chuyển nhượng (bằng khế ước...) truyền lại (bằng cách thoái vị)
+@Chuyên ngành kinh tế
+-cho thuê
+-cho thuê (bằng giao kèo...)
+-di tặng
+-sự cho thuê (đất...) chuyển nhượng bất động sản
+

@@ -1,9 +1,4 @@
-sip	@sip /sip/
-*  danh từ
-- hớp, nhắp, ít
-=a sip of brandy+ một nhắp rượu mạnh
-*  động từ
-- uống từng hớp, nhắp (rượu)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--hớp
+presidentially
+	
+- xem presidential
+

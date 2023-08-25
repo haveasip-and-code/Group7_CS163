@@ -1,31 +1,8 @@
-varnish	@varnish /'vɑ:niʃ/
-*  danh từ
-- véc ni, sơn dầu
-- mặt véc ni
-- nước bóng
-- men (đồ sành)
-- (nghĩa bóng) mã ngoài, lớp sơn bên ngoài
-*  ngoại động từ
-- đánh véc ni, quét sơn dầu
-- tráng men (đồ sành)
-- (nghĩa bóng) tô son điểm phấn
-=to varnish one's reputation+ tô son điểm phấn cho cái danh tiếng bề ngoài
-@Chuyên ngành kinh tế
--đánh vecni
--quét sơn
--sơn
--véc-ni
+oxysalt
+	
+* danh từ
+- muối có oxy
 @Chuyên ngành kỹ thuật
--đánh vécni
--dầu đánh bóng
--dầu sơn
--quét sơn
--sơn
--sơn bóng
--sơn dầu
--vécni
-@Lĩnh vực: xây dựng
--đánh bóng bằng vécni
 @Lĩnh vực: hóa học & vật liệu
--quang dầu
--vec-ni
+-muối oxy
+

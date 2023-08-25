@@ -1,13 +1,6 @@
-reflectometer	@reflectometer
-* danh từ
-- phản xạ kế
-@Chuyên ngành kinh tế
--phản xạ kế
-@Chuyên ngành kỹ thuật
--phản xạ kế
-@Lĩnh vực: điện
--đồng hồ phản xạ
--máy đo xung dội
-@Lĩnh vực: điện lạnh
--máy đo (ánh sáng) phản xạ
--phản xạ kế viba
+impostor
+	
+*  danh từ
+- kẻ lừa đảo
+- kẻ mạo danh
+

@@ -1,12 +1,12 @@
-glassine	
-@glassine
-* danh từ
-- giấy đục mờ không thấm mỡ
-@Chuyên ngành kinh tế
--giấy kiếng (để gói hàng)
+wayside
+	
+*  danh từ
+- bờ đường, lề đường
+*  tính từ
+- (thuộc) bờ đường, ở bờ đường
 @Chuyên ngành kỹ thuật
--giấy can
-@Lĩnh vực: thực phẩm
--giấy cán láng
--giấy pecgamin
--glasin
+-lề đường
+-vỉa đường
+@Lĩnh vực: giao thông & vận tải
+-bên cạnh đường
+

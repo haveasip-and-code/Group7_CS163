@@ -1,8 +1,10 @@
-unrelated	@unrelated /' nri'leitid/
-*  tính từ
-- không kể lại, không thuật lại
-=an unrelated fact+ một sự việc không thuật lại
-- không có liên quan
-- không có quan hệ họ hàng
+instantiate
+	
+* ngoại động từ
+- thuyết minh (một điều trừu tượng) bằng một thí dụ cụ thể
 @Chuyên ngành kỹ thuật
--không liên quan
+@Lĩnh vực: toán & tin
+-tạo đối tượng
+-tạo nấc
+-tạo phiên bản
+

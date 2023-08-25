@@ -1,5 +1,64 @@
-brisket	
-@brisket /briskit/
+spirit
+	
 *  danh từ
-- ức (thú vật)
-- thịt ức (thú vật)
+- tinh thần
+- linh hồn, tâm hồn
+- thần linh, thần thánh, quỷ thần
+- tinh thần; lòng can đảm; sự hăng hái, nhiệt tình; nghị lực; khí thế
+=a man of unbending spirit
++ người có tinh thần bất khuất
+=the poor in spirit
++ những người nhu nhược
+=to show a great spirit
++ to ra rất can đảm
+=he infused spirit into his men
++ anh ta truyền nhiệt tình cho đồng đội
+=people of spirit
++ người giàu nghị lực
+- tinh thần, thái độ tinh thần, điều kiện tinh thần
+=the result depends on the spirit in which it is done
++ kết quả tuỳ thuộc vào tinh thần thực hiện công việc
+- ảnh hưởng tinh thần; xu hướng tinh thần
+=the spirit of the age
++ xu hướng tinh thần của thời đại
+- tinh thần, nghĩa đúng
+=the spirit of the law
++ tinh thần của pháp luật
+=we have followed out the spirit of his instructions
++ chúng ta đã theo đúng tinh thần những chỉ thị của ông ta
+- linh hồn, trụ cột
+=to be the animating spirit of the uprising
++ là linh hồn thôi thúc cuộc nổi dậy
+- bộ óc (bóng)
+=one of the most ardent spirits of the time
++ một trong những bộ óc nồng nhiệt nhất của thời đại
+- ((thường) số nhiều) rượu mạnh
+- (số nhiều) (dược học) cồn thuốc
+!to be in high (great) spirits
+- vui vẻ phấn khởi, phấn chấn
+!to be in low (poor) spirits
+- buồn rầu, chán nản
+*  ngoại động từ
+- ((thường) 
++ up) khuyến khích, cổ vũ, làm phấn khởi
+- chuyển nhanh, đưa biến, cuỗm nhẹ
+=to spirit something away
++ cuỗm nhẹ vật gì
+=to spirit someone off
++ đưa nhẹ người nào đi, đưa biến ai đi
+@Chuyên ngành kinh tế
+-cồn
+-rượu etylic
+@Chuyên ngành kỹ thuật
+-nhiên liệu lỏng
+-tinh dầu
+-tinh thần
+-xăng
+@Lĩnh vực: y học
+-cồn tinh dầu
+@Lĩnh vực: hóa học & vật liệu
+-etxăng
+-rượu cồn
+@Lĩnh vực: cơ khí & công trình
+-xăng ôtô
+

@@ -1,6 +1,20 @@
-historicist	
-@historicist
-* tính từ
-- lịch sử chủ nghĩa
-* danh từ
-- người theo chủ nghĩa lịch sử
+swerve
+	
+*  danh từ
+- sự chệch, sự đi lệch hướng
+*  nội động từ
+- đi chệch, đi lệch hướng
+=he never swerves an inch from his duty
++ anh ta không bao giờ đi chệch ra ngoài nhiệm vụ của mình một tí nào
+=ball swerves in the air
++ bóng bật chệch lên trên không
+=horse swerved suddenly
++ thình lình ngựa đi chệch sang lối khác
+*  ngoại động từ
+- làm chệch; làm (quả bóng) bật chệch lên trên không
+@Chuyên ngành kỹ thuật
+-làm lệch
+-làm xiên
+-sai lệch
+-sự sai lệch
+

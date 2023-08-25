@@ -1,4 +1,6 @@
-pedologic	@pedologic
-- xem pedology
+contents
+	
+- (Tech) nội dung, dung lượng
 @Chuyên ngành kỹ thuật
--thổ nhưỡng học
+-nội dung
+

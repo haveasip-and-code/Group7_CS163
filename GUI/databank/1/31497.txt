@@ -1,9 +1,5 @@
-laparoscopy	@laparoscopy
+radiolucency
+	
 * danh từ
-- sự soi bụng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phương pháp soi ổ bụng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phương pháp soi ổ bụng
+- khả năng thấu xạ
+

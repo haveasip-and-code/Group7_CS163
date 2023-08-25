@@ -1,10 +1,16 @@
-embryology	
-@embryology /,embri'ɔlədʤi/
-*  danh từ
-- (động vật học) khoa phôi thai, phôi học
+certainly
+	
+*  phó từ
+- chắc, nhất định
+=a well conducted people's war will certainly be successful
++ một cuộc chiến tranh nhân dân có sự lãnh đạo đúng đắn nhất định sẽ thắng
+- hẳn thế, hẳn đi, hẳn là thế, tất nhiên, dĩ nhiên (dùng trong câu trả lời)
+=may I visit him? 
+- yes, certainly
++ tôi có thể đến thăm ông ta được không? tất nhiên là được
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phôi học
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--phôi học
+-chắc chắn
+-chắc hẳn
+-nhất định
+-tất nhiên
+

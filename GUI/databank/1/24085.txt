@@ -1,19 +1,5 @@
-granular	
-@granular /'grænjulə/
-*  tính từ
-- (thuộc) hột, hình hột, như hột
-- có hột
-@Chuyên ngành kinh tế
--kho bánh mì
--kho ngũ cốc
-@Chuyên ngành kỹ thuật
--dạng hạt
--hạt
-@Lĩnh vực: xây dựng
--có dạng hạt
--hình hột
--như hạt
-@Lĩnh vực: toán & tin
--hạt (nhỏ)
-@Lĩnh vực: y học
--thuộc hạt nhỏ
+vendue
+	
+-bán đấu giá công khai
+-cuộc bán đấu giá công khai
+

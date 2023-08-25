@@ -1,6 +1,10 @@
-sterilized	@Chuyên ngành kỹ thuật
-@Lĩnh vực: thực phẩm
--đã tiệt trùng
--đã vô trùng
--được tiệt trùng
--được vô trùng
+reformatory
+	
+*  danh từ
+- trại cải tạo
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: xây dựng
+-nhà được cải tạo
+@Lĩnh vực: cơ khí & công trình
+-nhà sửa chữa lại
+

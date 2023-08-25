@@ -1,10 +1,9 @@
-actuary	
-@actuary /'æktjuəri/
-*  danh từ
-- chuyên viên thống kê (tỷ lệ sinh đẻ, bệnh tật, thất nghiệp...)
-- (sử học) viên giữ sổ đăng ký; viên quản lý văn khế
-@Chuyên ngành kinh tế
--chuyên viên tính toán bảo hiểm
+disconnecting
+	
+- (Tech) cắt, tháo, tách rời (d)
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--chuyên viên thống kê
+-bị ngắt
+-sự đẩy ra
+-sự tách ra
+-sự tháo rời
+

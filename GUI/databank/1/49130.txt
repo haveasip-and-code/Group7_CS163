@@ -1,6 +1,9 @@
-sclerenchyma	@sclerenchyma /skliə'reɳkimə/
-*  danh từ
-- (thực vật học) mô cứng, cương mô
+colinear
+	
+* tính từ
+- (toán học) cùng đường thẳng; cộng tuyến
+- có những bộ phận tương ứng theo cùng một trật tự tuyến tính
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--mô cứng cương mô
+@Lĩnh vực: toán & tin
+-cộng tuyến
+

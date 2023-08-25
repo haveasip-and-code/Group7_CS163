@@ -1,7 +1,20 @@
-gamete	
-@gamete /'gæmi:t/
-*  danh từ
-- (sinh vật học) giao tử
+nominate
+	
+*  ngoại động từ
+- chỉ định, chọn, bổ nhiệm
+=to nominate someone to (for) a post
++ chỉ định (bổ nhiệm) ai giữ một chức vụ
+- giới thiệu, cử
+!Nominating Convention
+- (từ Mỹ,nghĩa Mỹ) hội nghị đề cử người ra tranh ghế tổng thống
+- gọi tên, đặt tên, mệnh danh
+- (từ hiếm,nghĩa hiếm) định (nơi gặp gỡ, ngày...)
+@Chuyên ngành kinh tế
+-bổ nhiệm (ai vào chức vụ gì)
+-chỉ định
+-đề cử
+-giới thiệu
+-giới thiệu đề cử
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: y học
--giao tử
+-đề cử
+

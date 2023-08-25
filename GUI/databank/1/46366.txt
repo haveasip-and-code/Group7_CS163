@@ -1,13 +1,13 @@
-refrigerator	@refrigerator /ri'fridʤəreitə/
+hessian
+	
 *  danh từ
-- tủ ướp lạnh, phòng ướp lạnh
-@Chuyên ngành kinh tế
--phòng lạnh
--thiết bị lạnh
--thợ làm lạnh
--tủ lạnh
+- vải bao bố (bằng gai, đay)
 @Chuyên ngành kỹ thuật
--máy làm lạnh
--máy lạnh
--thiết bị làm lạnh
--thiết bị lạnh
+@Lĩnh vực: xây dựng
+-vải bao bì
+-vải bao bố
+@Chuyên ngành kỹ thuật
+@Lĩnh vực: toán & tin
+-dạng Hess
+-ma trận Hess
+

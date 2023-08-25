@@ -1,10 +1,14 @@
-multimodal	@multimodal
-- (xác suất) nhiều mốt
+cuticle
+	
+*  danh từ
+- biểu bì
+- (thực vật học) lớp cutin
 @Chuyên ngành kinh tế
--đa mô thức
--kết hợp nhiều hình thức
--liên vận
+-biểu bì
+-lớp cutin
 @Chuyên ngành kỹ thuật
-@Lĩnh vực: toán & tin
--đa chế độ
--nhiều mốt
+@Lĩnh vực: y học
+-biểu bì của da
+-một lớp chất liệu cứng do biểu mô tiết ra và bọc ngoài biểu mô
+-một lớp tế bào
+

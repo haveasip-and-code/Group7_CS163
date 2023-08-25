@@ -1,4 +1,5 @@
-pipsqueak	@pipsqueak
+determiner
+	
 * danh từ
-- <lóng> người không đáng kính, người tầm thường
-- vật nhỏ mọn, vật không đáng kể
+- từ hạn định (chẳng hạn some, your, the...)
+

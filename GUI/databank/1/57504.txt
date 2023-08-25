@@ -1,7 +1,27 @@
-transuranium	@transuranium
-* danh từ
-- nguyên tố siêu urani
+additive
+	
+*  tính từ
+- để cộng vào, để thêm vào
+*  danh từ
+- vật để cộng vào, vật để thêm vào
+- (kỹ thuật) chất cho thêm vào (vào dầu máy...)
+@Chuyên ngành kinh tế
+-chất phụ gia
 @Chuyên ngành kỹ thuật
+-bám dính
+-bổ sung
+-chất pha
+-cộng
+-phụ gia
+-thêm
+@Lĩnh vực: xây dựng
+-chất độn dính
+@Lĩnh vực: toán & tin
+-có tính cộng
+-cộng được
+-cộng tính
+-cộng tính (số hạng)
 @Lĩnh vực: điện lạnh
--siêu urani
--vượt urani
+-cộng vào
+-tính cộng
+

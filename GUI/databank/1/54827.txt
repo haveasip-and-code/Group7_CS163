@@ -1,12 +1,7 @@
-surfactant	@surfactant
-* tính từ
-- có hoạt tính bề mặt
-* danh từ
-- chất có hoạt tính bề mặt
-@Chuyên ngành kinh tế
--chất hoạt dịch
--chất hoạt động bề mặt
-@Chuyên ngành kỹ thuật
--hoạt chất bề mặt
-@Lĩnh vực: y học
--chất hoạt tính bề mặt
+pageant
+	
+*  danh từ
+- đám rước lộng lẫy
+- hoạt cảnh lịch sử biểu diễn người trời
+- (nghĩa bóng) cảnh hào nhoáng bề ngoài, cảnh phô trương rỗng tuếch
+

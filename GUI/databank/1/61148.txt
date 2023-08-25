@@ -1,23 +1,5 @@
-valley	@valley /'væli/
-*  danh từ
-- thung lũng
-- (kiến trúc) khe mái
-!the valley of the shadow of death
-- thời kỳ vô cùng bi đát, thời kỳ gần kề cõi chết
-@Chuyên ngành kỹ thuật
--độ uốn
--khe mái
--khe núi
--máng nhỏ
--máng xối
--rãnh nhỏ
--thung lũng
-@Lĩnh vực: xây dựng
--chi tiết thép máng
--giáp mái
--máng khe mái
--máng mái
-@Lĩnh vực: điện lạnh
--chỗ lõm (của đường cong)
-@Lĩnh vực: toán & tin
--khoảng thụt đầu dòng
+tridimensionality
+	
+* danh từ
+- tính ba chiều
+

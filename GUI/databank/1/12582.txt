@@ -1,8 +1,8 @@
-creed	
-@creed /kri:p/
-*  danh từ
-- tín điều
-- tín ngưỡng
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: xây dựng
--tín điều
+animadvert
+	
+*  nội động từ
+- ((thường) 
++ on,  upon) khiển trách, chỉ trích, phê bình
+=to animadvert on someone's behavious
++ khiển trách thái độ của ai
+

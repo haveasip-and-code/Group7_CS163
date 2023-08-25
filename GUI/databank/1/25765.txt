@@ -1,28 +1,5 @@
-highway	
-@highway /'haiwei/
-*  danh từ
-- đường cái, quốc lộ
-- con đường chính (bộ hoặc thuỷ)
-- (nghĩa bóng) con đường, đường lối (hành động...)
-@Chuyên ngành kinh tế
--đường bộ
--đường cái
--quốc lộ
--xa lộ
-@Chuyên ngành kỹ thuật
--đường cao tốc
--đường dẫn chính
--đường ô tô
--đường trục
--đường trục chính
--đường trung chuyển
--đường truyền chính
--thanh dẫn
--xa lộ
-@Lĩnh vực: điện tử & viễn thông
--cao lộ
-@Lĩnh vực: xây dựng
--đường bộ
--đường nhựa rộng
-@Lĩnh vực: toán & tin
--tuyến cao tốc
+toothpaste
+	
+* danh từ
+- thuốc đánh răng, kem đánh răng
+

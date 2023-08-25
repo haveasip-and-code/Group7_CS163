@@ -1,12 +1,121 @@
-dolphin	
-@dolphin /'dɔlfin/
+push
+	
 *  danh từ
-- (động vật học) cá heo mỏ
-- hình cá uốn cong mình (ở huy hiệu); ở bản khắc...)
-- cọc buộc thuyền; cọc (để) cuốn dây buộc thuyền; phao
-@Chuyên ngành kinh tế
--cá denphin
--cá heo
+- sự xô, sự đẩy; cú đẩy
+=to give the door a hard push
++ đẩy mạnh cửa một cái
+- sự thúc đẩy, sự giúp sức (ai tiến lên)
+=to give sosmeone a push
++ thúc đẩy ai tiến lên
+- (kiến trúc) sức đẩy lên, sức đỡ lên (của vòng...)
+- cừ thọc đẩy (hòn bi
+-a)
+- cú đấm, cú húc (bằng sừng)
+- sự rắn sức, sự nổ lực, sự gắng công
+- (quân sự) cuộc tấn công mânh liệt, cuộc đánh thúc vào
+=to make a push
++ rán sức, hết sức, cố gắng; (quân sự) tấn công mânh liệt, đánh thúc vào (nơi nào)
+- tính dám làm, tính chủ động, tính hăng hái xốc tới, tính kiên quyết làm bằng được
+=to have plenty of push in one
++ rất chủ động dám nghĩ dám làm
+- lúc gay go, lúc nguy ngập, lúc cấp bách
+=when it comes to the push
++ khi gặp lúc gay go
+=at a push
++ trong hoàn cảnh nguy ngập cấp bách
+- (từ lóng) bọn (ăn trộm...)
+- (từ lóng) sự đuổi ra, sự thải ra
+=to give someone the push
++ đuổi ai ra, thải ai ra
+=to get the push
++ bị đuổi ra, bị thải ra
+*  ngoại động từ
+- xô, đẩy
+=to push the door open
++ đẩy cửa mở toang
+=to push the door to
++ đẩy cửa đóng sập vào
+=to push aside all obstacles
++ đẩy sang một bên mọi vật chướng ngại
+- (kinh thánh) húc (bằng sừng)
+- thúc đẩy, thúc giục (làm gì)
+- xô lấn, chen lấn
+=to push one's way through the crowd
++ chen lấn (rẽ lối) qua đám đông
+=to push one's way
++ (nghĩa bóng) làm nên, làm ăn tiến phát
+- đẩy tới, đẩy mạnh, mở rộng
+=to push the struggle for liberation
++ đẩy mạnh cuộc đấu tranh giải phóng
+=to push the trade
++ mở rộng việc buôn bán
+- ((thường) 
++ on) theo đuổi, đeo đuổi; nhất định đưa ra (một yêu sách...)
+- thúc ép, thúc bách
+=don't push him too far
++ đừng thúc bách nó quá
+=to be pushed for time
++ bị thời gian thúc ép
+=to be pushed for money
++ bị vấn đề tiền nong thúc ép
+- quảng cáo; tung ra (một món hàng)
+=to push a new kind of soap
++ tung ra một loại xà phòng mới; quảng cáo một loại xà phòng mới
+*  nội động từ
+- xô, đẩy
+- cố gắng vượt người khác, cố gắng thành công (trong công việc); dám làm
+- thọc đẩy (hòn bi
+-a)
+- (kinh thánh) húc sừng
+- xô lấn, chen lấn
+=to push through the crowd
++ chen lấn qua đám đông
+!to push along
+!to push on to push away
+- xô đi, đẩy đi
+!to push down
+- xô đổ, xô ngâ, đẩy ngã
+!to push forth
+- làm nhú ra, làm nhô ra; đâm nhú ra, nhô ra (rễ cây, mũi đất...)
+!to push in
+- đẩy vào gần (bờ...) (thuyền)
+!to push off
+- chống sào đẩy xa (bờ...) (thuyền)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ra đi, đi, khởi hành; chuồn tẩu
+!to push on
+- tiếp tục, tiếp tục đi, đi tiếp
+- đẩy nhanh, thúc gấp (công việc...); vội vàng
+!to push out
+- xô đẩy ra, đẩy ra ngoài
+- (như) to push forth
+!to push through
+- xô đẩy qua, xô lấn qua
+- làm trọn, làm đến cùng, đưa đến chỗ kết thúc
+=to push the matter through
++ cố gắng đưa vấn đề đến chỗ kết thúc, cố gắng giải quyết vấn đề
+!to push up
+- đẩy lên
 @Chuyên ngành kỹ thuật
+-ấn
+-áp lực
+-bấm phím
+-đẩy
+-đẩy trượt
+-đẩy vào
+-ép
+-nhấn
+-sự đẩy
+-sự ép
+-sức đẩy
+-xô đẩy
+-xung lực
+@Lĩnh vực: toán & tin
+-ấn (vào nút bấm)
+-đẩy, ấn vào
+@Lĩnh vực: ô tô
+-đầu tàu đẩy
+@Lĩnh vực: hóa học & vật liệu
+-giúp sức
 @Lĩnh vực: xây dựng
--cọc buộc thuyền
+-tàu đẩy
+

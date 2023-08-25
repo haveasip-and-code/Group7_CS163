@@ -1,4 +1,9 @@
-humaneness	
-@humaneness /hju'meinnis/
+newspaper
+	
 *  danh từ
-- tính nhân dân
+- báo
+=daily newspaper
++ báo hằng ngày
+@Chuyên ngành kỹ thuật
+-báo
+

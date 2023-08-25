@@ -1,47 +1,34 @@
-hot	
-@hot /hɔt/
-*  tính từ
-- nóng, nóng bức=hot climate
-+ khí hậu nóng bức
-- cay nồng, cay bỏng (ớt, tiêu...)
-- nồng nặc, còn ngửi thấy rõ (hơi thú săn)
-- nóng nảy=hot temper
-+ tính nóng nảy
-- sôi nổi, hăng hái; gay gắt, kịch liệt=hot dispute
-+ cuộc tranh cãi sôi nổi
-- nóng hổi, sốt dẻo (tin tức)
-- mới phát hành giấy bạc
-- (âm nhạc) giật gân=hot music
-+ nhạc giật gân
-- (thể dục,thể thao) được mọi người hy vọng, thắng hơn cả (vận động viên chạy...)
-- (từ lóng) dễ nhận ra và khó sử dụng (đồ tư trang lấy cắp, giấy bạc...)
-- (điện học) thế hiệu cao
-- (từ Mỹ,nghĩa Mỹ),  (vật lý) phóng xạ
-- (từ Mỹ,nghĩa Mỹ) dâm đãng, dê (người)
-- (từ Mỹ,nghĩa Mỹ) vừa mới kiếm được một cách bất chính; vừa mới ăn cắp được
-- (từ Mỹ,nghĩa Mỹ) bị công an truy nã
-- (từ Mỹ,nghĩa Mỹ) không an toàn cho kẻ trốn tránh!hot and hot
-- ăn nóng (thức ăn)!hot and strong
-- sôi nổi, kịch liệt!to make it (the place) too hot for somebody
-- gây khó khăn rắc rối làm cho ai khó chịu phải bỏ chỗ nào mà đi
-*  phó từ
-- nóng
-- nóng nảy, giận dữ
-- sôi nổi; kịch liệt!to blow hot and cold
-- hay dao động, ngả nghiêng, hay thay đổi ý kiến!to give it somebody hot
-- (xem) give
+dodge
+	
+*  danh từ
+- động tác chạy lắt léo, động tác di chuyển lắt léo (để tránh...); động tác né tránh (một đòn...); động tác lách (để lừa đối phương...)
+- sự lẫn tránh (một câu hỏi...)
+- thuật, ngon, mẹo, khoé, mánh lới
+=a good dodge for remembering names
++ một mẹo hay để nhớ tên
+- sáng kiến tài tình, sáng chế tài tình
+- sự rung chuông lạc điệu (chuông chùm)
+*  nội động từ
+- chạy lắt léo, di chuyển lắt léo (để tránh...); né tránh; lách (để lừa đối phương, dắt bóng...)
+- tìm cách lẩn tránh, nói nước đôi, thoái thác
+- rung lạc điệu (chuông chùm)
 *  ngoại động từ
-- đun nóng, hâm
-@Chuyên ngành kinh tế
--cay
--hăng
--nóng sốt
+- né tránh
+=to dodge a blow
++ né tránh một đòn
+- lẩn tránh
+=to dodge a question
++ lẩn tránh một câu hỏi
+=to dodge draft (military service)
++ lẩn tránh không chịu tòng quân
+- dùng mánh khoé để lừa gạt; cợt, giỡn, chơi xỏ (ai)
+- hỏi lắt léo (ai)
+- kéo tới, kéo lui, giật tới giật lui (vật gì)
+!to dodge about
+!to dodge in and out
+- chạy lắt léo, lách
 @Chuyên ngành kỹ thuật
--điện
--được cấp điện
--được kích hoạt
--nóng
--nóng (dây)
--mang điện
-@Lĩnh vực: vật lý
--nung đỏ
+-đồ gá
+-né tránh
+-thiết bị
+

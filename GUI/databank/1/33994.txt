@@ -1,15 +1,7 @@
-maximize	@maximize /'mæksimaiz/ (maximise) /'mæksimaiz/
-*  ngoại động từ
-- làm tăng lên đến tột độ
-@Chuyên ngành kinh tế
--tối đa hóa
-@Chuyên ngành kỹ thuật
--phóng đại
--phóng lớn
-@Lĩnh vực: toán & tin
--cực đại hóa
--tăng tối đa
-@Lĩnh vực: vật lý
--làm cực đại
-@Lĩnh vực: xây dựng
--tối đa hóa
+candidature
+	
+*  danh từ
+- sự ứng cử
+=to withdraw one's candidature
++ rút tên không ra ứng cử nữa
+

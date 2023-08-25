@@ -1,14 +1,7 @@
-uneven	@uneven /'ʌn'i:vən/
-*  tính từ
-- không phẳng, gồ ghề, gập ghềnh (đường, đất...)
-- (toán học) lẻ (số)
-- thất thường, hay thay đổi (tính tình...)
-@Chuyên ngành kỹ thuật
--gồ ghề
--không bằng phẳng
--không đều
--không thuận lợi
-@Lĩnh vực: toán & tin
--không chẵn
-@Lĩnh vực: xây dựng
--không đều đặn
+humanly
+	
+*  phó từ
+- với cái nhìn của con người, với cung cách con người; với tình cảm con người; bằng những phương tiện thông thường của con người; trong phạm vi hiểu biết của con người
+=to do evething that is humanly possible
++ làm tất cả những gì mà con người có thể làm được
+

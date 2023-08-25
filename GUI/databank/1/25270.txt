@@ -1,35 +1,10 @@
-heater	
-@heater /'hi:tə/
-*  danh từ
-- bếp lò, lò (để sưởi, đun nước, hâm thức ăn...)
-- (từ Mỹ,nghĩa Mỹ),  (từ lóng) súng lục
-@Chuyên ngành kinh tế
--thiết bị giữ nhiệt
--thiết bị nung
--thiết bị thanh trùng
--thiết bị trao đổi nhiệt
+firebox
+	
+-buồng đốt
+@Lĩnh vực: hóa học & vật liệu
+-phòng đốt
 @Chuyên ngành kỹ thuật
--bộ gia nhiệt
--bộ nung
--bộ nung nóng
--bộ sấy
--bộ tản nhiệt
--dụng cụ sưởi
--lò gia nhiệt
--lò nung
--lò sưởi
--phần tử nung
--thiết bị nung
-@Lĩnh vực: điện
--bình gia nhiệt
--bộ cấp nhiệt
--sợi nung
-@Lĩnh vực: điện lạnh
--bộ đốt nóng
--bộ phận nung
--dây nung
-@Lĩnh vực: xây dựng
--bộ sưởi
--dụng cụ sấy
-@Lĩnh vực: ô tô
--hệ thống sưởi
+-buồng đốt
+@Lĩnh vực: hóa học & vật liệu
+-phòng đốt
+

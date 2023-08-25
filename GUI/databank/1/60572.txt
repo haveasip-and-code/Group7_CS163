@@ -1,10 +1,7 @@
-unstop	@unstop /' n'st p/
-*  ngoại động từ
-- làm cho không bị trở ngại, khai thông
-- mở nút, tháo nút (chai)
-@Chuyên ngành kỹ thuật
-@Lĩnh vực: hóa học & vật liệu
--mở nút
-@Lĩnh vực: xây dựng
--rút chặn
--tháo chốt
+briefless
+	
+*  tính từ
+- không có việc để biện hộ (luật sư)
+=a briefless barrister
++ luật sư không có việc để biện hộ; luật sư không có khách hàng
+
