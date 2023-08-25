@@ -298,8 +298,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
 
     m_favourite = new wxBitmapButton(panel, wxID_ANY, unfavorited_ico, wxDefaultPosition, wxSize(30,30));
 
-    wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(110, 25));
-    chooseMode->SetForegroundColour(wxColour(142, 159, 157));
+    wxChoice* chooseMode = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxSize(140, 25));
+    chooseMode->SetForegroundColour(wxColour(73, 86, 111));
 
     wxArrayString modeChoices;
     modeChoices.Add("By keyword");
@@ -390,6 +390,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             //wxMessageBox(curWord+" "+curDef);
             //definition->ChangeValue("To hell with wxWidgets");
             word->ChangeValue(curWord);
+            word->SetForegroundColour(wxColour(73, 86, 111));
             definition->ChangeValue(curDef);
             definition->SetForegroundColour(wxColour(73, 86, 111));
         }
@@ -405,6 +406,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
             //wxMessageBox(curWord+" "+curDef);
             //definition->ChangeValue("To hell with wxWidgets");
             word->ChangeValue(curWord);
+            word->SetForegroundColour(wxColour(73, 86, 111));
             definition->ChangeValue(curDef);
             definition->SetForegroundColour(wxColour(73, 86, 111));
         }
@@ -575,9 +577,9 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     wxBoxSizer* sizer5 = new wxBoxSizer(wxVERTICAL);
     wxBoxSizer* sizer6 = new wxBoxSizer(wxHORIZONTAL);
 
-    wxBitmap unDataSet_ico = wxBitmap("dataset_unclicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmap DataSet_ico = wxBitmap("dataset_clicked.png", wxBITMAP_TYPE_ANY);
-    wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
+    // wxBitmap unDataSet_ico = wxBitmap("dataset_unclicked.png", wxBITMAP_TYPE_ANY);
+    // wxBitmap DataSet_ico = wxBitmap("dataset_clicked.png", wxBITMAP_TYPE_ANY);
+    // wxBitmapButton* m_dataset = new wxBitmapButton(panel, wxID_ANY, unDataSet_ico, wxDefaultPosition, wxSize(50, 50));
 
     wxChoice* chooseDataSet = new wxChoice(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize);
 
@@ -596,12 +598,12 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     chooseDataSet->SetSelection(0);
 
     chooseDataSet->Bind(wxEVT_CHOICE, [=](wxCommandEvent& event){
-        static bool notDataSet = true;
-        wxBitmap statusBitmap = notDataSet ? DataSet_ico : unDataSet_ico;
-        m_dataset->SetBitmapLabel(statusBitmap);
-        m_dataset->SetSize(wxSize(30, 30));
-        panel->Layout();
-        notDataSet = !notDataSet;
+        // static bool notDataSet = true;
+        // wxBitmap statusBitmap = notDataSet ? DataSet_ico : unDataSet_ico;
+        // m_dataset->SetBitmapLabel(statusBitmap);
+        // m_dataset->SetSize(wxSize(30, 30));
+        // panel->Layout();
+        // notDataSet = !notDataSet;
 
         wxString selectedText = chooseDataSet->GetStringSelection();
         if (selectedText=="Eng - Vie") cmd=1;
@@ -644,7 +646,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     sizer5->AddSpacer(5);
 
     sizer6->Add(chooseDataSet, 0, wxRIGHT, 5);
-    sizer6->Add(m_dataset, 0, wxRIGHT, 26);
+    // sizer6->Add(m_dataset, 0, wxRIGHT, 26);
 
     // sizer3->Add(sizer2, 0);
     // sizer3->AddSpacer(300);
@@ -1902,7 +1904,7 @@ MyFrame::MyFrame()
     m_text->SetForegroundColour(*wxYELLOW);
 
     wxBitmap reset_ico = wxBitmap("reset_unclicked.png", wxBITMAP_TYPE_ANY);
-    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(70,70));
+    m_reset = new wxBitmapButton(m_panel, wxID_ANY, reset_ico, wxDefaultPosition, wxSize(80,80));
     m_reset->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
@@ -1913,7 +1915,7 @@ MyFrame::MyFrame()
     });
 
     wxBitmap logout_ico = wxBitmap("logout_unclicked.png", wxBITMAP_TYPE_ANY);
-    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(70,70));
+    m_logout = new wxBitmapButton(m_panel, wxID_ANY, logout_ico, wxDefaultPosition, wxSize(80,80));
     m_logout->Bind(wxEVT_BUTTON, [=](wxCommandEvent& event)
                        {
         //reset function of Cuong
