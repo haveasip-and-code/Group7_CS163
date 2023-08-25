@@ -1,0 +1,3 @@
+self-binder
+A reaping machine containing mechanism for binding the grain into sheaves.
+

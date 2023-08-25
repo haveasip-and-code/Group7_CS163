@@ -1,0 +1,3 @@
+freezable
+Capable of being frozen.
+

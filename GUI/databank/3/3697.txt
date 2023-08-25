@@ -1,0 +1,3 @@
+ring armature
+An armature for a dynamo or motor having the conductors wound on a ring.
+

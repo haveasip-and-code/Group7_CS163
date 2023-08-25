@@ -1,0 +1,3 @@
+incenter
+The center of the circle inscribed in a triangle.
+

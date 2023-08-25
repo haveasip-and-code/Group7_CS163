@@ -1,0 +1,3 @@
+polyphaser
+A machine generating more than one pressure wave; a multiphaser.
+

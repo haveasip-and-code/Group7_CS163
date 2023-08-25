@@ -1,0 +1,3 @@
+core loss
+Energy wasted by hysteresis or eddy currents in the core of an armature, transformer, etc.
+

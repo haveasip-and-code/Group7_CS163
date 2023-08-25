@@ -1,0 +1,3 @@
+parallel transformer
+A transformer connected in parallel.
+

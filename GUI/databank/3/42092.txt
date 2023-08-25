@@ -1,0 +1,3 @@
+daytime
+The time during which there is daylight, as distinguished from the night.
+

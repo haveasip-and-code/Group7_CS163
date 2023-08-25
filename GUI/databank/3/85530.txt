@@ -1,0 +1,3 @@
+fresnel lantern
+A lantern having a lamp surrounded by a hollow cylindrical Fresnel lens.
+

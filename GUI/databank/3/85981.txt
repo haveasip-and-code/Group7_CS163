@@ -1,0 +1,3 @@
+delta current
+The current flowing through a delta connection.
+

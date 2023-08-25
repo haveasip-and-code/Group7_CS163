@@ -1,0 +1,3 @@
+tollgate
+A gate where toll is taken.
+

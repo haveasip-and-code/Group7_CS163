@@ -1,0 +1,3 @@
+limacon
+A curve of the fourth degree, invented by Pascal. Its polar equation is r = a cos + b.
+

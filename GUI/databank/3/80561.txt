@@ -1,0 +1,3 @@
+diestock
+A stock to hold the dies used for cutting screws.
+

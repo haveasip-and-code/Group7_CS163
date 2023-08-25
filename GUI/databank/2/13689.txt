@@ -1,0 +1,4 @@
+stick
+-clear; quiet
+-slim
+

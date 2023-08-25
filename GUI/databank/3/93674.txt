@@ -1,0 +1,3 @@
+pycnometer
+A specific gravity bottle; a standard flask for measuring and comparing the densities of liquids. [Also written pyknometer.]
+

@@ -1,0 +1,3 @@
+cyanometer
+An instrument for measuring degress of blueness.
+

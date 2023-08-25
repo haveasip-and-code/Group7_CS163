@@ -1,0 +1,3 @@
+tenthmeter
+A unit for the measurement of many small lengths, such that 1010 of these units make one meter; the ten millionth part of a millimeter.
+

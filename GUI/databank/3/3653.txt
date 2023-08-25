@@ -1,0 +1,3 @@
+helicograph
+An instrument for drawing spiral lines on a plane.
+

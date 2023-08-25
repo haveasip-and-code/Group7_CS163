@@ -1,0 +1,3 @@
+minuend
+The number from which another number is to be subtracted.
+
