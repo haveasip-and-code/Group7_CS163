@@ -339,7 +339,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxLogMessage("No firstChild");
     }
 
-    word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(300,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
+    word = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(500,-1), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/);
     word->SetFont(wxFont(30, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Bold"));
     word->SetHint("the word");
     word->SetBackgroundColour(wxColour(249, 246, 246));
@@ -352,7 +352,7 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
     #endif
 
     wxTextCtrl* definition = new wxTextCtrl(panel, wxID_ANY, wxEmptyString,wxDefaultPosition, wxSize(800,200), wxTE_PROCESS_ENTER|wxTE_READONLY/*|wxTE_CENTER*/|wxTE_MULTILINE);
-    //definition->SetScrollbar(wxVERTICAL, 0, 0, 0);
+    definition->SetScrollbar(wxVERTICAL, 0, 16, 50);
 
     definition->SetFont(wxFont(11, wxFONTFAMILY_SWISS, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_NORMAL, false, "Montserrat Medium"));
     definition->SetHint("definition");
@@ -377,7 +377,8 @@ wxPanel *DictionaryPage(wxBookCtrlBase *parent)
         wxString searchText = searchBar->GetValue();
         //wxMessageBox("Searching for: " + searchText);
         //wxMessageBox(getPath(1));
-        string tmp=string(searchText.mb_str());
+        //string tmp=string(searchText.mb_str());
+        string tmp=wxStringToString(searchText);
         //cout<<tmp<<'\n';
         //string testStr="make";
         //cout<<data1.get(testStr)->val<<' '<<tmp<<'\n';
@@ -1444,28 +1445,28 @@ wxWindow* CreateGamePage(wxBookCtrlBase* parent)
         answerButton[1] = new wxButton(panel, wxID_ANY);
         answerButton[1]->SetSize(wxSize(586,130));
         answerButton[1]->SetPosition(wxPoint(0,195));
-        answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        //answerButton[1]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
         //answerButton[1]->SetMaxLines(5);
 
         answerButton[2] = new wxButton(panel, wxID_ANY);
         answerButton[2]->SetSize(wxSize(586,130));
         answerButton[2]->SetPosition(wxPoint(586,195));
-        answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        //answerButton[2]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
 
         answerButton[3] = new wxButton(panel, wxID_ANY);
         answerButton[3]->SetSize(wxSize(586,130));
         answerButton[3]->SetPosition(wxPoint(0,325));
-        answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        //answerButton[3]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
 
         answerButton[4] = new wxButton(panel, wxID_ANY);
         answerButton[4]->SetSize(wxSize(586,130));
         answerButton[4]->SetPosition(wxPoint(586,325));
-        answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        //answerButton[4]->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
 
         questionButton = new wxButton(panel, wxID_ANY);
         questionButton->SetSize(wxSize(1172,130));
         questionButton->SetPosition(wxPoint(0,65));
-        questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_BOLD, false, "Montserrat"));
+        //questionButton->SetFont(wxFont(12, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL|wxALIGN_CENTER|wxST_ELLIPSIZE_END, wxFONTWEIGHT_NORMAL, false, "Montserrat"));
         /*
         for (int i=1;i<=4;i++) {
             //answerLabel[i]->Enable(false);
