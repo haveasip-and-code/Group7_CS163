@@ -2201,3 +2201,115 @@ databank/1
 databank/1
 Load from: databank/1/TST.txt
 This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "meth"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "hell"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "hell"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Successful when trying to get definition of string "ha ha"!!!
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+databank/1
+databank/1
+Load from: databank/1/TST.txt
+This go here
+Save to file databank/1/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt
+Save to file databank/2/TST.txt
+databank/2
+databank/2
+Load from: databank/2/TST.txt

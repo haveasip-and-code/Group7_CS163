@@ -219,6 +219,7 @@ void FormLogin::OnLogin(wxCommandEvent& event)
         bool isLoggedIn = true;
         if (isLoggedIn)
         {
+            //pSound(startSound);
             this->Close();
 
             dictionary = new MyFrame();

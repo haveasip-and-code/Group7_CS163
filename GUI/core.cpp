@@ -325,12 +325,16 @@ void loadHistory() {
     string s1,s2;
     while (getline(in,s1)) {
         string tmp;
-        getline(in,tmp);
         s2="";
-        if (tmp!=separator) {
-            if (s2=="") s2=tmp;
-            else s2+="\n"+tmp;
+        while (true) {
+            getline(in,tmp);
+            if (tmp!=separator) {
+                if (s2=="") s2=tmp;
+                else s2+="\n"+tmp;
+            }
+            else break;
         }
+        //cout<<s1<<' '<<s2<<'\n';
         historyList.push_back({s1,s2});
     }
     in.close();
@@ -352,12 +356,16 @@ void loadFav() {
     string s1,s2;
     while (getline(in,s1)) {
         string tmp;
-        getline(in,tmp);
         s2="";
-        if (tmp!=separator) {
-            if (s2=="") s2=tmp;
-            else s2+="\n"+tmp;
+        while (true) {
+            getline(in,tmp);
+            if (tmp!=separator) {
+                if (s2=="") s2=tmp;
+                else s2+="\n"+tmp;
+            }
+            else break;
         }
+        //cout<<s1<<' '<<s2<<'\n';
         favouriteList.push_back({s1,s2});
     }
     in.close();
